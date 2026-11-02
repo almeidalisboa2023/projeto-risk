@@ -259,3 +259,10 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
   .doc-corpo { padding-bottom: 30px; }
   * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 }
+
+/* ===== login ===== */
+.login-frase { text-align: center; font-family: var(--serif); font-size: 1.35rem; font-weight: 600; margin: 4px 0 16px; letter-spacing: .01em; }
+.btn-google { width: 100%; gap: 10px; background: #fff !important; color: #1f1f1f !important; border-color: #dadce0 !important; }
+.ou { display: flex; align-items: center; gap: 10px; color: var(--txt2); font-size: 13px; margin: 14px 0; }
+.ou::before, .ou::after { content: ''; flex: 1; border-top: 1px solid var(--borda); }
+.side .badge { margin-left: auto; background: var(--vermelho); color: #fff; border-radius: 999px; font-size: 11px; padding: 1px 7px; font-weight: 700; }
