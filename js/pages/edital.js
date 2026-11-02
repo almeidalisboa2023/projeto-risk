@@ -57,7 +57,7 @@ export async function render(el) {
     return `<details class="mat"><summary><b style="font-family:var(--serif);font-size:1.1rem">${esc(m)}</b><span class="muted">(${ts.length})</span><span class="sp"></span><span class="pill">${pr}/${ts.length}</span></summary>
       ${vis.map((t) => { const [f, a] = porTop.get(t.id) || [0, 0]; const p = pct(a, f);
         return `<div class="top"><input type="checkbox" data-c="${t.id}" ${t.concluido ? 'checked' : ''} title="Tópico finalizado">
-          <div>${esc(t.topico)}<div class="row" style="margin-top:6px"><a class="btn mini sec" href="#/questoes?topico=${t.id}">Fazer questões</a><button class="linkbtn" data-ext="${t.id}">Registrar fora do app</button></div></div>
+          <div>${esc(t.topico)}<div class="row" style="margin-top:6px"><button class="linkbtn" data-ext="${t.id}">Registrar fora do app</button></div></div>
           <div class="nums">${f ? `<b class="${corPct(p)}">${p}%</b><br><span class="muted">${a}/${f}</span>` : `<span class="muted">${iv ? 'sem questões no período' : '—'}</span>`}</div></div>`; }).join('')}
     </details>`; }).join('')}
   ${fora.length ? `<details class="mat"><summary><b>Fora do edital (histórico)</b><span class="muted">— ${fora.length} tópicos</span></summary>${fora.map((t) => { const [f, a] = porTop.get(t.id) || [0, 0]; return `<div class="top"><span></span><div><span class="muted">${esc(t.materia)}</span><br>${esc(t.topico)}</div><div class="nums">${f} questões · ${a} acertos</div></div>`; }).join('')}</details>` : ''}`;

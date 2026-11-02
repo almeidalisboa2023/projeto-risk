@@ -9,11 +9,9 @@ const COLS = 'codigo;modalidade;enunciado;alt_a;alt_b;alt_c;alt_d;alt_e;gabarito
 
 export async function render(el) {
   el.innerHTML = `<div class="mono up">Administrador</div><h1>Painel do administrador</h1>
-    <div class="card" id="banco">${loading()}</div>
-    <div class="card" style="margin-top:16px" id="migra"></div>
-    <div class="card" style="margin-top:16px" id="sim">${loading()}</div>
+    <div class="card" id="migra"></div>
     <div class="card" style="margin-top:16px" id="alunos">${loading()}</div>`;
-  await Promise.all([banco(el.querySelector('#banco')), migracao(el.querySelector('#migra')), simulados(el.querySelector('#sim')), alunos(el.querySelector('#alunos'))]);
+  await Promise.all([migracao(el.querySelector('#migra')), alunos(el.querySelector('#alunos'))]);
 }
 
 // ---------- BANCO DE QUESTÕES ----------

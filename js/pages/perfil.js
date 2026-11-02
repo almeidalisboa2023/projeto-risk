@@ -13,9 +13,7 @@ export async function render(el) {
     <div class="card"><h3>Seus dados</h3>
       <div class="campo"><label>Nome</label><input id="nome" value="${esc(p.nome || '')}" style="width:100%"></div>
       <div class="campo"><label>E-mail</label><input value="${esc(S.user.email)}" disabled style="width:100%"></div>
-      <div class="campo"><label>CPF (aparece no cabeçalho dos resumos em PDF)</label><input id="cpf" inputmode="numeric" placeholder="000.000.000-00" value="${esc(fmtCPF(p.cpf || ''))}" style="width:220px"></div>
       <div class="row"><div class="campo"><label>Língua estrangeira</label><select id="lingua"><option value="espanhol" ${p.lingua === 'espanhol' ? 'selected' : ''}>Espanhol</option><option value="ingles" ${p.lingua === 'ingles' ? 'selected' : ''}>Inglês</option></select></div>
-        <div class="campo"><label>Meta de água (ml)</label><input type="number" id="agua" value="${p.meta_agua || 4000}" style="width:120px"></div>
         <div class="campo"><label>Meta diária de questões</label><input type="number" id="metaq" min="1" value="${p.meta_questoes || 30}" style="width:120px"></div></div>
       <label class="check"><input type="checkbox" id="revauto" ${p.revisao_auto !== false ? 'checked' : ''}> Ao finalizar um assunto, agendar revisões automáticas (amanhã, em 7 e em 30 dias)</label>
       <button class="btn" id="salvar">Salvar</button>
@@ -27,11 +25,8 @@ export async function render(el) {
   <div class="card" style="margin-top:16px"><h3>Meus editais</h3>${S.editais.map((e) => `<div class="row" style="margin:8px 0"><b>${esc(e.concurso)}</b><span class="pill">${e.ativo === false ? 'Arquivado' : 'Ativo'}</span><span class="sp"></span><button class="btn sec mini" data-arq="${e.id}">${e.ativo === false ? 'Reativar' : 'Arquivar'}</button></div>`).join('') || '<p class="muted">Nenhum.</p>'}</div>
   <div class="card" style="margin-top:16px"><h3>Minhas dúvidas</h3>${duvidas.map((t) => `<div style="margin:8px 0"><span class="mono">Semana ${t.semana} · ${esc(t.dia)}</span><br><b>${esc(t.materia)}</b> — ${esc(t.topico)}<div class="muted">📝 ${esc(t.duvida)}</div></div>`).join('') || '<p class="muted">Nenhuma dúvida anotada.</p>'}</div>`;
 
-  el.querySelector('#cpf').oninput = (e) => (e.target.value = fmtCPF(e.target.value));
   el.querySelector('#salvar').onclick = async () => {
-    const d = el.querySelector('#cpf').value.replace(/\D/g, '');
-    if (d && !cpfValido(d)) return toast('CPF inválido. Confira os números.', 'erro');
-    try { const [n] = await db.update('profiles', { id: 'eq.' + S.user.id }, { nome: el.querySelector('#nome').value.trim(), lingua: el.querySelector('#lingua').value, meta_agua: Number(el.querySelector('#agua').value) || 4000, meta_questoes: Number(el.querySelector('#metaq').value) || 30, cpf: el.querySelector('#cpf').value.replace(/\D/g, '') || null, revisao_auto: el.querySelector('#revauto').checked }); Object.assign(S.profile, n); toast('Salvo!'); recarregar(); } catch (e) { toast(e.message, 'erro'); }
+    try { const [n] = await db.update('profiles', { id: 'eq.' + S.user.id }, { nome: el.querySelector('#nome').value.trim(), lingua: el.querySelector('#lingua').value, meta_questoes: Number(el.querySelector('#metaq').value) || 30, revisao_auto: el.querySelector('#revauto').checked }); Object.assign(S.profile, n); toast('Salvo!'); recarregar(); } catch (e) { toast(e.message, 'erro'); }
   };
   el.querySelector('#trocar').onclick = async () => { try { await auth.updatePassword(el.querySelector('#senha').value); toast('Senha alterada.'); } catch (e) { toast(e.message, 'erro'); } };
   el.querySelector('#salvaBl').onclick = async () => {

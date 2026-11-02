@@ -23,7 +23,6 @@ export async function render(el) {
   const soma = (a) => a.reduce((s, l) => [s[0] + l.feitas, s[1] + l.acertos], [0, 0]);
   const [fs, as] = soma(sem), [fa, aa] = soma(ant);
   const tx = pct(as, fs), txa = pct(aa, fa);
-  const agua = (await db.select('agua', { user_id: 'eq.' + S.user.id, data: 'eq.' + iso(h) })).reduce((s, a) => s + a.ml, 0);
   const prova = parseISO(ed?.data_prova);
   const faltam = prova ? Math.max(0, Math.round((prova - h) / 864e5)) : null;
   let fi = Math.floor(Math.random() * FRASES.length);
@@ -77,7 +76,6 @@ export async function render(el) {
     <div class="card"><div class="mono up">Progresso do edital</div><div class="num">${pct(praticados, validos.length) ?? 0}%</div><div class="muted">${praticados} de ${validos.length} tópicos praticados</div></div>
     <div class="card"><div class="mono up">Questões na semana</div><div class="num">${fs}</div><div class="muted">${as} acertos</div></div>
     <div class="card"><div class="mono up">Taxa de acerto</div><div class="num ${corPct(tx)}">${tx ?? '—'}${tx != null ? '%' : ''}</div><div class="muted">${tx != null && txa != null ? `${tx - txa >= 0 ? '+' : ''}${tx - txa} pp vs semana anterior` : 'semana atual'}</div></div>
-    <div class="card"><div class="mono up">Água hoje</div><div class="num">${agua}</div><div class="muted">/ ${S.profile.meta_agua || 4000} ml</div></div>
   </div>
   <div class="grid g4" style="margin-top:16px">
     <div class="card"><div class="mono up">Meta de hoje</div><div class="num">${qHoje}<span class="muted" style="font-size:1rem"> / ${meta}</span></div>${barra(Math.min(100, pct(qHoje, meta) || 0))}<div class="muted" style="margin-top:6px">${qHoje >= meta ? 'Meta batida! 🎯' : `Faltam ${meta - qHoje} questões`}</div></div>
@@ -199,5 +197,5 @@ export async function render(el) {
 function sugHTML(lista) {
   if (!lista.length) return '<p class="muted">Nenhuma revisão urgente agora. Continue registrando suas questões para o site analisar seus pontos fracos.</p>';
   return lista.map((s) => `<div class="sug"><div><b>${esc(s.tp.materia)}</b> — ${esc(s.tp.topico.length > 90 ? s.tp.topico.slice(0, 90) + '…' : s.tp.topico)}<div class="mot">${esc(s.motivo)}</div></div>
-    <div class="row" style="gap:6px"><a class="btn sec mini" href="#/questoes?topico=${s.tp.id}">Questões</a><button class="btn mini" data-ag="${s.tp.id}">Agendar revisão</button></div></div>`).join('');
+    <div class="row" style="gap:6px"><button class="btn mini" data-ag="${s.tp.id}">Agendar revisão</button></div></div>`).join('');
 }

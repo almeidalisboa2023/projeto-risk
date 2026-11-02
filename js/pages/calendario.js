@@ -2,7 +2,6 @@ import { S, atualizarTarefa, atualizarTopico, registrarExterno } from '../state.
 import { db, functions } from '../backend.js';
 import { esc, hoje, iso, addDias, ddmm, DIAS, DIAS_CURTO, idxDia, semanaDe, inicioSemana, separaCodigo, tipoBloco, norm, pct, dataExtenso } from '../util.js';
 import { leiSecaHTML, toast, modal, barra } from '../ui.js';
-import { gerarResumo } from './resumo.js';
 import { resolverSequencia } from '../quiz.js';
 import { adicionarBloco, editarBloco, gerarSemana, incluirSemana } from './montar-semana.js';
 import { corrigirAtrasos, atrasados } from './replanejar.js';
@@ -27,8 +26,6 @@ export async function render(el) {
   const dataSel = addDias(ini, diaSel);
   const estado = !tarefas.length ? 'Sem blocos' : feitos === 0 ? 'Nenhum bloco ainda' : feitos === tarefas.length ? 'Dia concluído' : 'Em andamento';
   const semanas = [...new Set(S.tarefas.map((t) => t.semana))].sort((a, b) => a - b);
-  const simulados = diaSel === 5 ? await db.select('simulados', { order: 'liberado_em.desc' }).catch(() => []) : [];
-  const simSemana = simulados.filter((s) => s.semana === semanaSel || (s.liberado_em >= iso(ini) && s.liberado_em <= iso(addDias(ini, 6))));
 
   el.innerHTML = `
     <div class="row" style="margin-bottom:6px"><div class="abas"><button class="on">Semana</button><button id="vmes">Mês</button></div><span class="sp"></span>
@@ -44,7 +41,6 @@ export async function render(el) {
         return `<button class="dia ${i === diaSel ? 'sel' : ''} ${iso(di) === iso(h) ? 'hoje' : ''}" data-d="${i}">${d}<small>${ddmm(di)}</small><div class="pt ${ok ? 'feito' : parc ? 'parcial' : ''}"></div></button>`; }).join('')}</div>
       ${!daSemana.length ? `<div class="hero" style="margin-top:12px;padding:18px"><b>A semana ${semanaSel} ainda não tem blocos.</b><div class="muted" style="margin:4px 0 10px">${semanas.length ? `Semanas montadas: ${semanas[0]} a ${semanas[semanas.length - 1]}.` : 'Monte seu primeiro calendário.'}</div><button class="btn" data-i="1">+ Incluir esta semana (manual ou automático)</button></div>` : ''}
     </div>
-    ${simSemana.map((s) => `<div class="card" style="margin-top:12px"><div class="mono up">Simulado da semana</div><h3>${esc(s.titulo)}</h3>${iso(h) >= s.liberado_em ? `<a class="btn" href="${esc(s.arquivo_url)}" target="_blank" rel="noopener">Baixar PDF ↗</a>` : `<span class="pill">Disponível em ${esc(s.liberado_em.split('-').reverse().join('/'))}</span>`}</div>`).join('')}
     <div id="blocos"></div>
     <div class="row" style="margin-top:16px"><button class="btn sec" id="add">+ Adicionar matéria ao calendário</button><button class="btn sec" id="semana">Ver semana inteira</button>${daSemana.length ? `<button class="btn sec" data-g="1">Completar semana automaticamente</button>` : ''}</div>`;
 
@@ -73,9 +69,9 @@ export async function render(el) {
     const [cod, nome] = separaCodigo(tp ? tp.topico : t.topico);
     const cl = t.checklist || {};
     const n = tp ? appHoje(tp.id) : 0;
-    const itens = tipo === 'Teoria' ? [['teoria', 'Teoria do assunto'], ['q10', `10 questões registradas (${Math.min(n, 10)}/10)`, n >= 10]]
-      : tipo === 'Revisão' ? [['leitura', 'Leitura dirigida / lei seca'], ['q10', `10 questões registradas (${Math.min(n, 10)}/10)`, n >= 10]]
-      : [['q20', `Questões no banco: ${Math.min(n, 20)} de 20`, n >= 20], ['erros', 'Revisei os erros pelo comentário']];
+    const itens = tipo === 'Teoria' ? [['teoria', 'Teoria do assunto']]
+      : tipo === 'Revisão' ? [['leitura', 'Leitura dirigida / lei seca']]
+      : [['q', 'Resolvi as questões'], ['erros', 'Revisei os erros']];
     const caiu = tp && temPublica.has(norm(tp.materia) + '|' + norm(tp.topico));
     const atrasado = !t.concluido && iso(dataTarefa(t)) < iso(h);
     const rodando = crono.atual()?.id === t.id;
@@ -93,9 +89,7 @@ export async function render(el) {
       <div class="row" style="margin-top:12px">
         <button class="btn" data-a="concluir">${t.concluido ? 'Reabrir bloco' : 'Concluí o bloco'}</button>
         ${tp ? `<button class="btn sec" data-a="terminei">${tp.concluido ? 'Reabrir assunto' : 'Terminei este assunto'}</button>
-        <button class="btn sec" data-a="resumo">📄 Gerar resumo do conteúdo</button>
-        <a class="btn sec" href="#/questoes?topico=${tp.id}">Questões da matéria</a>
-        <button class="btn sec" data-a="ia">Pedir questões ao Claude</button>` : ''}
+` : ''}
       </div>
       <div class="row" style="margin-top:6px"><button class="linkbtn" data-a="duvida">Anotar dúvida</button><button class="linkbtn" data-a="editar">Editar, mover ou excluir</button>${tp ? '<button class="linkbtn" data-a="externo">Registrar questões feitas fora do app</button>' : ''}</div>
     </div>`;
@@ -123,8 +117,6 @@ export async function render(el) {
         if (a === 'duvida') modal(`<h3>Anotar dúvida</h3><textarea id="dv">${esc(t.duvida || '')}</textarea><button class="btn" id="sv" style="margin-top:10px">Salvar</button>`, { onMount: (m, close) => (m.querySelector('#sv').onclick = async () => { await atualizarTarefa(t.id, { duvida: m.querySelector('#dv').value || null }); close(); render(el); }) });
         if (a === 'externo') formExterno(tp, () => render(el));
         if (a === 'editar') editarBloco(t, () => render(el));
-        if (a === 'resumo') await gerarResumo(tp, b);
-        if (a === 'ia') await pedirIA(tp, b, () => render(el));
       } catch (e) { toast(e.message, 'erro'); }
     }));
   });
@@ -138,28 +130,6 @@ export function formExterno(tp, depois) {
       try { await registrarExterno(tp.id, m.querySelector('#f').value, m.querySelector('#a').value, m.querySelector('#d').value); toast('Registrado!'); close(); depois && depois(); } catch (e) { toast(e.message, 'erro'); }
     }),
   });
-}
-
-export async function pedirIA(tp, botao, depois) {
-  // Primeiro oferece as do banco (não gastam crédito)
-  const resp = new Set((await db.select('respostas', { user_id: 'eq.' + S.user.id, select: 'questao_id' })).map((r) => r.questao_id));
-  const banco = (await db.select('questoes', { materia: 'eq.' + tp.materia, assunto: 'eq.' + tp.topico, situacao: 'eq.atualizada', limit: 200 })).filter((q) => !resp.has(q.id));
-  const gerar = async () => {
-    botao.disabled = true; botao.textContent = 'Gerando 10 questões…';
-    try {
-      const r = await functions.invoke('gerar-questoes', { topico_id: tp.id, edital_id: S.edital.id });
-      toast(`Questões geradas! Restam ${r.restantes} pedidos hoje.`);
-      resolverSequencia(r.questoes, { titulo: tp.topico, topicoId: tp.id, onFim: depois });
-    } catch (e) {
-      toast(e.status === 402 || /cr[eé]dito|limite/i.test(e.message) ? e.message : 'Não foi possível gerar agora: ' + e.message, 'erro');
-    } finally { botao.disabled = false; botao.textContent = 'Pedir questões ao Claude'; }
-  };
-  if (banco.length >= 10) {
-    modal(`<h3>Questões deste assunto</h3><p>Há <b>${banco.length}</b> questões ainda não resolvidas no banco para este assunto.</p>
-      <div class="row"><button class="btn" id="b1">Responder 10 do banco</button><button class="btn sec" id="b2">Gerar novas com IA</button></div>`, {
-      onMount: (m, close) => { m.querySelector('#b1').onclick = () => { close(); resolverSequencia(banco.sort(() => Math.random() - 0.5).slice(0, 10), { titulo: tp.topico, topicoId: tp.id, onFim: depois }); }; m.querySelector('#b2').onclick = () => { close(); gerar(); }; },
-    });
-  } else await gerar();
 }
 
 function verSemana(tarefas, ini) {
