@@ -208,7 +208,8 @@ export function incluirSemana(sugerida, depois, usarSugerida = false) {
     <div class="grid g2" style="margin-top:12px">
       <button class="card" id="iman" style="text-align:left;cursor:pointer"><h3>✍ Manual</h3><div class="muted">Eu escolho a matéria e o assunto de cada bloco, dia por dia.</div></button>
       <button class="card" id="iaut" style="text-align:left;cursor:pointer"><h3>⚡ Automático</h3><div class="muted">O app olha o edital e distribui as matérias e os assuntos que ainda faltam. Eu confiro antes de salvar.</div></button>
-    </div>`, {
+    </div>
+    <button class="card" id="icol" style="text-align:left;cursor:pointer;width:100%;margin-top:12px;border-color:var(--ouro2)"><h3>📋 Colar cronograma</h3><div class="muted">Cole o texto do cronograma da semana (Segunda, Terça...) e o app distribui cada matéria no dia certo.</div></button>`, {
     onMount: (m, close) => {
       const $ = (s) => m.querySelector(s);
       const atual = () => { const n = Math.max(1, Number($('#isem').value) || 1); $('#idatas').textContent = datas(n);
@@ -217,6 +218,7 @@ export function incluirSemana(sugerida, depois, usarSugerida = false) {
       $('#isem').oninput = atual; atual();
       $('#iman').onclick = () => { const n = atual(); close(); planoManual(n, depois); };
       $('#iaut').onclick = () => { const n = atual(); close(); gerarSemana(n, depois); };
+      $('#icol').onclick = () => { const n = atual(); close(); colarCronograma(n, depois); };
     },
   });
 }
@@ -269,6 +271,119 @@ function planoManual(semana, depois) {
         try { await salvar(linhas); toast(`Semana ${semana} salva com ${linhas.length} blocos.`); close(); depois(semana); }
         catch (e) { toast(e.message, 'erro'); ev.target.disabled = false; }
       };
+    },
+  });
+}
+
+// ---------- COLAR CRONOGRAMA (texto livre) ----------
+const DIA_RE = /^\s*(segunda|ter[cç]a|quarta|quinta|sexta|s[aá]bado|domingo|seg|ter|qua|qui|sex|s[aá]b|dom)(?:[\s-]*feira)?\b\.?\s*(?:\(?\s*\d{1,2}\/\d{1,2}(?:\/\d{2,4})?\s*\)?)?\s*[:\-–—]?\s*/i;
+const DIA_IDX = { seg: 0, segunda: 0, ter: 1, terca: 1, qua: 2, quarta: 2, qui: 3, quinta: 3, sex: 4, sexta: 4, sab: 5, sabado: 5, dom: 6, domingo: 6 };
+const APELIDOS = [
+  [/^portugues|^lingua portuguesa|^lp$/, 'lingua portuguesa'], [/transito|^ctb/, 'legislacao de transito'], [/^const|^dir(eito)?\.? const/, 'direito constitucional'],
+  [/^adm|^dir(eito)?\.? adm/, 'direito administrativo'], [/process(o|ual)? penal|^dpp|^cpp/, 'direito processual penal'], [/^penal|^dir(eito)?\.? penal|^dp$/, 'direito penal'],
+  [/^rlm|raciocinio|^logica/, 'raciocinio logico'], [/^info/, 'informatica'], [/^dh$|direitos humanos/, 'direitos humanos'], [/^espanhol|^ingles|lingua estrangeira/, 'lingua estrangeira'],
+  [/^leg(islacao)?\.? (penal )?especial|extravagante/, 'legislacao especial'], [/^etica/, 'etica'], [/^geo/, 'geopolitica'], [/^fisica/, 'fisica'],
+];
+const bigr = (s) => { const t = norm(s).replace(/[^a-z0-9 ]/g, ''); const a = []; for (let i = 0; i < t.length - 1; i++) a.push(t.slice(i, i + 2)); return a; };
+const dice = (a, b) => { const A = bigr(a), B = bigr(b); if (!A.length || !B.length) return 0; const m = new Map(); A.forEach((x) => m.set(x, (m.get(x) || 0) + 1)); let k = 0; B.forEach((x) => { if (m.get(x)) { k++; m.set(x, m.get(x) - 1); } }); return (2 * k) / (A.length + B.length); };
+
+function achaMateria(txt) {
+  const mats = materias(); const x = norm(txt).replace(/[^a-z0-9 .]/g, '').trim();
+  if (!x) return null;
+  for (const [re, alvo] of APELIDOS) if (re.test(x)) { const m = mats.find((mm) => norm(mm).startsWith(alvo) || norm(mm).includes(alvo)); if (m) return m; }
+  let best = null, bs = 0;
+  for (const m of mats) { const nm = norm(m); const s = nm === x ? 1 : (nm.includes(x) || x.includes(nm)) && x.length > 3 ? 0.85 : dice(nm, x); if (s > bs) { best = m; bs = s; } }
+  return bs >= 0.55 ? best : null;
+}
+function achaTopico(materia, txt) {
+  if (!materia || !txt) return null;
+  let best = null, bs = 0;
+  const x = norm(txt).replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
+  const pal = x.split(' ').filter((w) => w.length > 3);
+  for (const t of topicosValidos().filter((t) => t.materia === materia)) {
+    const nt = norm(t.topico).replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ');
+    let s = dice(String(t.topico).replace(/^[\d./\-\s]+/, ''), txt);
+    if (x.length >= 6 && nt.includes(x)) s = Math.max(s, 0.9);
+    if (pal.length) s = Math.max(s, (pal.filter((w) => nt.includes(w)).length / pal.length) * 0.8);
+    if (s > bs) { best = t; bs = s; }
+  }
+  return bs >= 0.45 ? best : null;
+}
+// "08h - Português – Crase" -> {materia, assunto}
+function parseItem(linha) {
+  let s = linha.replace(/^\s*(?:[-•*·▪►✓✔☐☑]+|\d+\s*[.)º°-]|bloco\s*\d+\s*[:\-–—]?)\s*/i, '').replace(/^\s*\d{1,2}\s*[h:]\s*\d{0,2}\s*(?:min)?\s*(?:às?\s*\d{1,2}\s*[h:]\s*\d{0,2})?\s*[-–—:]?\s*/i, '').trim();
+  if (!s) return null;
+  let prefixo = '';
+  const pr = s.match(/^(revis[aã]o\s*(?:\+|e)\s*quest[oõ]es|revis[aã]o|quest[oõ]es|exerc[ií]cios)\s*[:\-–—]\s*/i);
+  if (pr) { prefixo = /quest|exerc/i.test(pr[1]) ? 'Revisão + questões: ' : 'Revisão: '; s = s.slice(pr[0].length).trim(); }
+  const sep = s.match(/\s[-–—|]\s|:\s|\s\/\s/);
+  let mat = s, ass = '';
+  if (sep) { mat = s.slice(0, sep.index).trim(); ass = s.slice(sep.index + sep[0].length).trim(); }
+  let materia = achaMateria(mat);
+  if (!materia && !sep) { // "Português crase" sem separador: tenta o começo da linha
+    for (const m of materias()) if (norm(s).startsWith(norm(m))) { materia = m; ass = s.slice(m.length).replace(/^[\s:,-]+/, ''); break; }
+  }
+  if (!materia && sep) { const m2 = achaMateria(ass); if (m2) { materia = m2; ass = mat; } }
+  const tp = achaTopico(materia, ass || mat);
+  if (!ass && materia && norm(s) !== norm(materia)) ass = s; // ex.: "Simulado de Trânsito (30 questões)"
+  const base = tp ? tp.topico : ass;
+  return { materia: materia || mat, assunto: base ? prefixo + base : prefixo.replace(/: $/, ''), topico_id: tp?.id || null, ligado: !!materia, original: linha.trim() };
+}
+export function interpretarCronograma(texto, blocos) {
+  const dias = Array.from({ length: 7 }, () => []); let atual = null; const soltos = [];
+  for (const bruta of String(texto || '').split(/\r?\n/)) {
+    const l = bruta.trim(); if (!l) continue;
+    const m = l.match(DIA_RE);
+    if (m) {
+      atual = DIA_IDX[norm(m[1]).replace(/[^a-z]/g, '')];
+      const resto = l.slice(m[0].length).trim();
+      if (resto) resto.split(/\s*[;|]\s*|\s+\+\s+/).forEach((p) => { const it = parseItem(p); if (it) dias[atual].push(it); });
+      continue;
+    }
+    if (/^semana\b|^cronograma|^plano/i.test(l)) continue;
+    const it = parseItem(l); if (!it) continue;
+    if (atual == null) soltos.push(it); else dias[atual].push(it);
+  }
+  // texto sem dias marcados: distribui de segunda a sexta
+  if (soltos.length) { let d = 0; for (const it of soltos) { while (dias[d].length >= blocos && d < 4) d++; dias[d].push(it); } }
+  return dias;
+}
+
+function colarCronograma(semana, depois) {
+  const ini = inicioSemana(S.edital.data_inicio, semana);
+  modal(`<h3>Colar cronograma · Semana ${semana} (${ddmm(ini)} a ${ddmm(addDias(ini, 6))})</h3>
+    <p class="muted" style="font-size:13.5px;margin-top:0">Cole o cronograma do jeito que você tem (do WhatsApp, PDF, planilha...). Comece cada dia com o nome dele e coloque uma matéria por linha. Exemplo:</p>
+    <pre class="code" style="white-space:pre-wrap;font-size:12px">Segunda
+Legislação de Trânsito - CTB: Das Infrações
+Português - Crase
+Direito Penal - Culpabilidade
+
+Terça: Constitucional - Remédios constitucionais; Informática - Redes
+Quarta
+1. Revisão + questões: Legislação Especial - abuso de autoridade</pre>
+    <textarea id="ctxt" style="min-height:200px" placeholder="Cole aqui o cronograma da semana"></textarea>
+    <div class="row" style="margin-top:10px"><button class="btn" id="cler">Destrinchar no calendário</button><span class="muted" style="font-size:13px">Nada é salvo antes da conferência.</span></div>
+    <div id="cprev" style="margin-top:14px"></div>`, {
+    largo: true,
+    onMount: (m, close) => {
+      let dias = [];
+      const desenha = () => {
+        const total = dias.reduce((s, d) => s + d.length, 0);
+        const out = m.querySelector('#cprev');
+        if (!total) { out.innerHTML = '<p class="bad">Não encontrei matérias no texto. Confira se cada matéria está em uma linha.</p>'; return; }
+        out.innerHTML = `<div class="mono up">Conferência · ${total} bloco(s)</div>
+          ${DIAS.map((d, i) => dias[i].length ? `<div style="margin:10px 0"><b>${d} ${ddmm(addDias(ini, i))}</b>${dias[i].map((it, k) => `<div class="check" style="align-items:flex-start"><button class="linkbtn" data-x="${i}-${k}" title="Tirar">✕</button><span><b>${esc(it.materia)}</b>${it.assunto ? ' — ' + esc(it.assunto) : ''} ${it.topico_id ? '<span class="pill verde" style="font-size:11px">ligado ao edital</span>' : it.ligado ? '<span class="pill" style="font-size:11px">matéria do edital · assunto livre</span>' : '<span class="pill" style="font-size:11px">texto livre</span>'}</span></div>`).join('')}</div>` : '').join('')}
+          <button class="btn" id="csal" style="margin-top:8px">Salvar no calendário da semana ${semana}</button>`;
+        out.querySelectorAll('[data-x]').forEach((b) => (b.onclick = () => { const [i, k] = b.dataset.x.split('-').map(Number); dias[i].splice(k, 1); desenha(); }));
+        out.querySelector('#csal').onclick = async (ev) => {
+          ev.target.disabled = true;
+          const linhas = [];
+          dias.forEach((its, i) => { let o = proxOrdem(semana, DIAS[i]); for (const it of its) linhas.push({ semana, dia: DIAS[i], ordem: o++, materia: it.materia, topico: it.assunto || it.materia, topico_id: it.topico_id }); });
+          try { await salvar(linhas); toast(`Semana ${semana} montada com ${linhas.length} blocos.`); close(); depois(semana); }
+          catch (e) { toast(e.message, 'erro'); ev.target.disabled = false; }
+        };
+      };
+      m.querySelector('#cler').onclick = () => { dias = interpretarCronograma(m.querySelector('#ctxt').value, blocosPorDia()); desenha(); };
     },
   });
 }
