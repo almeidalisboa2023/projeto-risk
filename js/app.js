@@ -8,11 +8,7 @@ const PAGINAS = {
   painel: ['Painel', '⌂', () => import('./pages/painel.js')],
   calendario: ['Calendário', '▦', () => import('./pages/calendario.js')],
   horas: ['Horas de estudo', '⏱', () => import('./pages/horas.js')],
-  questoes: ['Questões', '✎', () => import('./pages/questoes.js')],
-  simulados: ['Simulados', '◎', () => import('./pages/simulados.js')],
-  resumo: ['Resumos', '❐', () => import('./pages/resumo.js')],
   edital: ['Edital', '☰', () => import('./pages/edital.js')],
-  agua: ['Hidratação', '◔', () => import('./pages/agua.js')],
   perfil: ['Perfil', '☺', () => import('./pages/perfil.js')],
   admin: ['Administrador', '⚙', () => import('./pages/admin.js')],
 };
