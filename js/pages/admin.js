@@ -9,9 +9,12 @@ const COLS = 'codigo;modalidade;enunciado;alt_a;alt_b;alt_c;alt_d;alt_e;gabarito
 
 export async function render(el) {
   el.innerHTML = `<div class="mono up">Administrador</div><h1>Painel do administrador</h1>
-    <div class="card" id="migra"></div>
+    <div class="card" id="cad">${loading()}</div>
+    <div class="card" style="margin-top:16px" id="migra"></div>
     <div class="card" style="margin-top:16px" id="alunos">${loading()}</div>`;
-  await Promise.all([migracao(el.querySelector('#migra')), alunos(el.querySelector('#alunos'))]);
+  const atual = async () => { await Promise.all([cadastros(el.querySelector('#cad'), atual), alunos(el.querySelector('#alunos'), atual)]); };
+  migracao(el.querySelector('#migra'));
+  await atual();
 }
 
 // ---------- BANCO DE QUESTÕES ----------
@@ -135,12 +138,32 @@ async function simulados(box) {
   });
 }
 
+// ---------- CADASTROS PENDENTES ----------
+async function cadastros(box, atual) {
+  const ps = await db.select('profiles', { status: 'eq.pendente', order: 'created_at.asc' });
+  S.pendentes = ps.length;
+  const b = document.querySelector('.side a[href="#/admin"] .badge'); if (b) { if (ps.length) b.textContent = ps.length; else b.remove(); }
+  box.innerHTML = `<div class="row"><h3 style="margin:0">Cadastros aguardando aprovação</h3>${ps.length ? `<span class="pill" style="background:var(--vermelho);color:#fff">${ps.length}</span>` : ''}</div>
+    <p class="muted" style="font-size:13px">Quem se cadastra (por e-mail ou Google) só entra no site depois que você aprovar.</p>
+    ${ps.length ? `<table class="tab"><tr><th>Nome</th><th>E-mail</th><th>Cadastrou em</th><th></th></tr>
+      ${ps.map((p) => `<tr><td><b>${esc(p.nome || '')}</b></td><td>${esc(p.email || '')}</td><td>${p.created_at ? new Date(p.created_at).toLocaleString('pt-BR') : ''}</td>
+        <td><button class="btn mini verde" data-ap="${p.id}">Aprovar</button> <button class="btn mini sec" data-rc="${p.id}">Recusar</button></td></tr>`).join('')}</table>`
+      : '<p class="muted">Nenhum cadastro pendente.</p>'}`;
+  const muda = async (id, status) => { try { await db.update('profiles', { id: 'eq.' + id }, { status }); toast(status === 'aprovado' ? 'Cadastro aprovado!' : 'Cadastro recusado.'); atual(); } catch (e) { toast(e.message, 'erro'); } };
+  box.querySelectorAll('[data-ap]').forEach((x) => (x.onclick = () => muda(x.dataset.ap, 'aprovado')));
+  box.querySelectorAll('[data-rc]').forEach((x) => (x.onclick = () => { if (confirm('Recusar este cadastro? A pessoa não vai conseguir entrar.')) muda(x.dataset.rc, 'recusado'); }));
+}
+
 // ---------- ALUNOS ----------
-async function alunos(box) {
+async function alunos(box, atual) {
   const ps = await db.select('profiles', { order: 'created_at.asc' });
-  box.innerHTML = `<h3>Alunos e usuários (${ps.length})</h3><table class="tab"><tr><th>Nome</th><th>E-mail</th><th>Perfil</th><th>Status</th><th></th></tr>
-    ${ps.map((p) => `<tr><td>${esc(p.nome || '')}</td><td>${esc(p.email || '')}</td><td>${p.role === 'admin' ? 'Administrador' : 'Aluno'}</td><td>${p.bloqueado ? 'Bloqueado' : 'Ativo'}</td>
-      <td>${p.id === S.user.id ? '<span class="muted">você</span>' : `<button class="btn mini sec" data-bl="${p.id}">${p.bloqueado ? 'Desbloquear' : 'Bloquear'}</button> <button class="btn mini sec" data-adm="${p.id}">${p.role === 'admin' ? 'Tirar admin' : 'Tornar admin'}</button>`}</td></tr>`).join('')}</table>`;
-  box.querySelectorAll('[data-bl]').forEach((b) => (b.onclick = async () => { const p = ps.find((x) => x.id === b.dataset.bl); await db.update('profiles', { id: 'eq.' + p.id }, { bloqueado: !p.bloqueado }); alunos(box); }));
-  box.querySelectorAll('[data-adm]').forEach((b) => (b.onclick = async () => { const p = ps.find((x) => x.id === b.dataset.adm); if (!confirm('Alterar o perfil deste usuário?')) return; await db.update('profiles', { id: 'eq.' + p.id }, { role: p.role === 'admin' ? 'aluno' : 'admin' }); alunos(box); }));
+  const ST = { pendente: 'Aguardando', aprovado: 'Aprovado', recusado: 'Recusado' };
+  box.innerHTML = `<h3>Alunos e usuários (${ps.length})</h3><div style="overflow-x:auto"><table class="tab"><tr><th>Nome</th><th>E-mail</th><th>Perfil</th><th>Cadastro</th><th>Acesso</th><th></th></tr>
+    ${ps.map((p) => `<tr><td>${esc(p.nome || '')}</td><td>${esc(p.email || '')}</td><td>${p.role === 'admin' ? 'Administrador' : 'Aluno'}</td><td>${ST[p.status] || 'Aprovado'}</td><td>${p.bloqueado ? 'Bloqueado' : 'Ativo'}</td>
+      <td>${p.id === S.user.id ? '<span class="muted">você</span>' : `${p.status !== 'aprovado' ? `<button class="btn mini verde" data-ap="${p.id}">Aprovar</button> ` : `<button class="btn mini sec" data-rc="${p.id}">Revogar</button> `}<button class="btn mini sec" data-bl="${p.id}">${p.bloqueado ? 'Desbloquear' : 'Bloquear'}</button> <button class="btn mini sec" data-adm="${p.id}">${p.role === 'admin' ? 'Tirar admin' : 'Tornar admin'}</button>`}</td></tr>`).join('')}</table></div>`;
+  const up = async (id, v) => { try { await db.update('profiles', { id: 'eq.' + id }, v); atual(); } catch (e) { toast(e.message, 'erro'); } };
+  box.querySelectorAll('[data-ap]').forEach((b) => (b.onclick = () => up(b.dataset.ap, { status: 'aprovado' })));
+  box.querySelectorAll('[data-rc]').forEach((b) => (b.onclick = () => { if (confirm('Revogar o acesso deste usuário?')) up(b.dataset.rc, { status: 'recusado' }); }));
+  box.querySelectorAll('[data-bl]').forEach((b) => (b.onclick = () => { const p = ps.find((x) => x.id === b.dataset.bl); up(p.id, { bloqueado: !p.bloqueado }); }));
+  box.querySelectorAll('[data-adm]').forEach((b) => (b.onclick = () => { const p = ps.find((x) => x.id === b.dataset.adm); if (confirm('Alterar o perfil deste usuário?')) up(p.id, { role: p.role === 'admin' ? 'aluno' : 'admin', status: 'aprovado' }); }));
 }
