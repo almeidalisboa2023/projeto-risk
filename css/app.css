@@ -395,3 +395,22 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .tema-wrap .bloco .crono.rodando { color: var(--t-ac); }
 .tema-juridico .bloco .crono.rodando { color: #6E1A2B; }
 .tema-administrativo .bloco .crono.rodando { color: #0F4C5C; }
+/* --- Polícia Civil --- */
+.tema-civil { --t-bg: #141414; --t-txt: #F1ECE2; --t-txt2: #B9B1A3; --t-ac: #E0B341; --t-ac-txt: #1a1405; --t-ac-sombra: #9a7a22; --t-atr: #E04B3C;
+  --t-bl: linear-gradient(165deg, #2A2724, #1F1D1B); --t-bl-txt: #F1ECE2; --t-bl-txt2: #CFC6B6; --t-feito: linear-gradient(165deg, #22302A, #1B2620); --t-feito-btn: #4CAF6A; --t-rev: linear-gradient(165deg, #2c2a33, #222028);
+  background: radial-gradient(900px 420px at 80% 10%, rgba(224,179,65,.13), transparent 60%), #141414; border-top: 10px solid; border-image: repeating-linear-gradient(-45deg, #E0B341 0 16px, #111 16px 32px) 10; }
+.tema-civil .bloco { border-left: 5px solid #E0B341; border-radius: 6px 14px 14px 6px; }
+.tema-civil .bloco::before { content: ''; position: absolute; right: 52px; top: 0; width: 70px; height: 18px; background: rgba(224,179,65,.18); transform: rotate(3deg); }
+.tema-civil .bloco.feito { border-left-color: #4CAF6A; }
+.tema-civil .bl-cod { font-family: 'Courier New', monospace !important; letter-spacing: .06em; }
+.tema-civil .tema-selo { background: #1f1d1b; color: #E0B341; border: 2px solid #E0B341; }
+/* --- Polícia Federal --- */
+.tema-federal { --t-bg: #0A111C; --t-txt: #EAF0F8; --t-txt2: #9FB0C6; --t-ac: #C9A227; --t-ac-txt: #141005; --t-ac-sombra: #8a6e14; --t-atr: #E5484D;
+  --t-bl: linear-gradient(160deg, #15233A, #0F1A2C); --t-bl-txt: #EAF0F8; --t-bl-txt2: #BFCBDC; --t-feito: linear-gradient(160deg, #13302A, #0f2621); --t-feito-btn: #3DBE8B; --t-rev: linear-gradient(160deg, #1c2436, #151c2b);
+  background: radial-gradient(900px 420px at 75% 10%, rgba(201,162,39,.12), transparent 60%), linear-gradient(90deg, rgba(255,255,255,.025) 1px, transparent 1px) 0 0/40px 40px, linear-gradient(0deg, rgba(255,255,255,.025) 1px, transparent 1px) 0 0/40px 40px, #0A111C; }
+.tema-federal .bloco { border: 1px solid rgba(201,162,39,.35); border-radius: 12px; }
+.tema-federal .bloco::before { content: 'RESERVADO'; position: absolute; right: 52px; top: 14px; font: 700 9.5px var(--mono); letter-spacing: .14em; color: #C9A227; border: 1px solid rgba(201,162,39,.6); padding: 2px 6px; border-radius: 3px; }
+.tema-federal .bloco.feito::before { content: 'CONCLUÍDA'; color: #3DBE8B; border-color: rgba(61,190,139,.6); }
+.tema-federal .bloco > .row:first-of-type { padding-right: 140px; }
+.tema-federal .tema-tit { text-transform: uppercase; letter-spacing: .04em; }
+.tema-federal .tema-selo { background: #0F1A2C; color: #C9A227; border: 2px solid #C9A227; }
