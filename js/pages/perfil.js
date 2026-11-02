@@ -3,6 +3,7 @@ import { db, auth } from '../backend.js';
 import { esc } from '../util.js';
 import { toast } from '../ui.js';
 import { recarregar } from '../app.js';
+import { TEMAS, temaDoEdital } from '../temas.js';
 
 export async function render(el) {
   const p = S.profile;
@@ -22,6 +23,10 @@ export async function render(el) {
     <div class="card"><h3>Blocos por dia</h3><p class="muted" style="font-size:13px">Quantos blocos de estudo você faz por dia. Usado ao montar a semana automaticamente e ao corrigir atrasos.</p>
       <div class="row"><input type="number" id="nbl" min="1" max="8" value="${blocos.length}" style="width:100px"><button class="btn" id="salvaBl">Salvar</button></div></div>
   </div>
+  <div class="card" style="margin-top:16px"><h3>Tema do calendário</h3>
+    <p class="muted" style="font-size:14px;margin-top:0">O tema é definido automaticamente pelo seu edital${S.edital ? ` (<b>${esc(S.edital.concurso)}</b>: ${esc(TEMAS[temaDoEdital(S.edital)].nome)})` : ''}. Só o administrador pode trocar o tema; você pode preferir o tema padrão.</p>
+    <label class="check"><input type="radio" name="tp" value="0" ${!p.tema_padrao ? 'checked' : ''}> Usar o tema do meu edital${S.edital ? ` (${esc(TEMAS[temaDoEdital(S.edital)].nome)})` : ''}</label>
+    <label class="check"><input type="radio" name="tp" value="1" ${p.tema_padrao ? 'checked' : ''}> Usar o tema padrão R.I.S.K.</label></div>
   <div class="card" style="margin-top:16px"><h3>Meus editais</h3>${S.editais.map((e) => `<div class="row" style="margin:8px 0"><b>${esc(e.concurso)}</b><span class="pill">${e.ativo === false ? 'Arquivado' : 'Ativo'}</span><span class="sp"></span><button class="btn sec mini" data-arq="${e.id}">${e.ativo === false ? 'Reativar' : 'Arquivar'}</button></div>`).join('') || '<p class="muted">Nenhum.</p>'}</div>
   <div class="card" style="margin-top:16px"><h3>Minhas dúvidas</h3>${duvidas.map((t) => `<div style="margin:8px 0"><span class="mono">Semana ${t.semana} · ${esc(t.dia)}</span><br><b>${esc(t.materia)}</b> — ${esc(t.topico)}<div class="muted">📝 ${esc(t.duvida)}</div></div>`).join('') || '<p class="muted">Nenhuma dúvida anotada.</p>'}</div>`;
 
@@ -34,6 +39,10 @@ export async function render(el) {
     const novo = Array.from({ length: n }, (_, i) => blocos[i] || { hora: '', min: 50 });
     try { await db.update('profiles', { id: 'eq.' + S.user.id }, { blocos: novo }); S.profile.blocos = novo; toast('Salvo!'); } catch (e) { toast(e.message, 'erro'); }
   };
+  el.querySelectorAll('[name=tp]').forEach((r) => (r.onchange = async () => {
+    const v = r.value === '1';
+    try { await db.update('profiles', { id: 'eq.' + S.user.id }, { tema_padrao: v }); S.profile.tema_padrao = v; toast(v ? 'Tema padrão ativado.' : 'Tema do edital ativado.'); } catch (e) { toast(e.message, 'erro'); }
+  }));
   el.querySelectorAll('[data-arq]').forEach((b) => (b.onclick = async () => {
     const e = S.editais.find((x) => x.id === b.dataset.arq);
     if (e.ativo === false && S.editais.filter((x) => x.ativo !== false).length >= 3) return toast('Máximo de 3 editais ativos.', 'erro');

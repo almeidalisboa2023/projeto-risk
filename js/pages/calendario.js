@@ -7,6 +7,8 @@ import { adicionarBloco, editarBloco, gerarSemana, incluirSemana } from './monta
 import { corrigirAtrasos, atrasados } from './replanejar.js';
 import { revisoesEspacadas, dataTarefa } from '../revisoes.js';
 import * as crono from '../crono.js';
+import { TEMAS, temaAtual, progressoHTML } from '../temas.js';
+import { topicosValidos } from '../state.js';
 
 let semanaSel = null, diaSel = null, visao = 'semana', mesSel = null;
 
@@ -26,12 +28,15 @@ export async function render(el) {
   const dataSel = addDias(ini, diaSel);
   const estado = !tarefas.length ? 'Sem blocos' : feitos === 0 ? 'Nenhum bloco ainda' : feitos === tarefas.length ? 'Dia concluído' : 'Em andamento';
   const semanas = [...new Set(S.tarefas.map((t) => t.semana))].sort((a, b) => a - b);
+  const temaId = temaAtual(), T = temaId !== 'padrao' ? TEMAS[temaId] : null;
+  const validos = topicosValidos(); const pctEd = pct(validos.filter((x) => x.concluido).length, validos.length) || 0;
+  const semFeitos = daSemana.filter((x) => x.concluido).length;
 
   el.innerHTML = `
     <div class="row" style="margin-bottom:6px"><div class="abas"><button class="on">Semana</button><button id="vmes">Mês</button></div><span class="sp"></span>
       <button class="btn ${nAtr ? 'vermelho' : 'sec'} mini" id="atr">${nAtr ? `Corrigir atrasos (${nAtr})` : 'Reorganizar calendário'}</button></div>
     <div class="mono up">${esc(dataExtenso(dataSel))} · Semana ${semanaSel}${semanaSel === semAtual ? ' (atual)' : ''}</div>
-    <h1>${iso(dataSel) === iso(h) ? 'Hoje' : esc(DIAS[diaSel])}</h1>
+    <h1>${iso(dataSel) === iso(h) ? 'Hoje' : esc(DIAS[diaSel])}${T && iso(dataSel) === iso(h) ? ` <span class="tema-hoje">${T.hoje}</span>` : ''}</h1>
     <div class="card">
       <div class="row">
         <div style="min-width:220px;flex:1"><div class="row"><b>${feitos} de ${tarefas.length} blocos</b><span class="pill ${estado === 'Dia concluído' ? 'verde' : ''}">${estado}</span></div>${barra(pct(feitos, tarefas.length))}</div>
@@ -43,6 +48,12 @@ export async function render(el) {
     </div>
     <div id="blocos"></div>
     <div class="row" style="margin-top:16px"><button class="btn sec" id="add">+ Adicionar matéria ao calendário</button><button class="btn sec" id="semana">Ver semana inteira</button>${daSemana.length ? `<button class="btn sec" data-g="1">Completar semana automaticamente</button>` : ''}</div>`;
+  if (T) {
+    // envolve tudo no tema e coloca o cabeçalho temático
+    const conteudo = el.innerHTML;
+    el.innerHTML = `<div class="tema-wrap tema-${temaId}"><div class="tema-topo"><span class="tema-selo">${T.selo} ${esc(S.edital.concurso)}</span><div><div class="tema-tit">Semana ${semanaSel} · <span>${esc(T.titulo)}</span></div><div class="tema-sub">${semFeitos} de ${daSemana.length} blocos feitos na semana${S.edital.cargo ? ' · ' + esc(S.edital.cargo) : ''}</div></div></div>
+      ${progressoHTML(temaId, pctEd, ` · ${validos.filter((x) => !x.concluido).length} tópicos pendentes`)}${conteudo}</div>`;
+  }
 
   el.querySelector('#vmes').onclick = () => { visao = 'mes'; mesSel = null; render(el); };
   el.querySelector('#atr').onclick = () => corrigirAtrasos(() => render(el));
@@ -75,8 +86,12 @@ export async function render(el) {
     const caiu = tp && temPublica.has(norm(tp.materia) + '|' + norm(tp.topico));
     const atrasado = !t.concluido && iso(dataTarefa(t)) < iso(h);
     const rodando = crono.atual()?.id === t.id;
-    html += `<div class="card bloco ${t.concluido ? 'feito' : ''}" data-id="${t.id}" style="margin-bottom:12px">
-      <div class="row"><span class="mono">Bloco ${i + 1}</span><span class="sp"></span>${atrasado ? '<span class="pill" style="color:var(--vermelho)">Atrasado</span>' : ''}${/^revis/i.test(t.origem || '') ? '<span class="pill ouro">Revisão programada</span>' : ''}<span class="pill">${tipo}</span></div>
+    const ehRev = /^revis/i.test(t.origem || '') || tipo !== 'Teoria';
+    const num = `${semanaSel}${String(diaSel + 1)}${String(i + 1).padStart(2, '0')}`;
+    const estadoT = T ? (t.concluido ? 'CONCLUÍDO' : atrasado ? T.atraso : ehRev ? T.revisao.toUpperCase() : iso(dataSel) === iso(h) ? 'EM CURSO' : 'PROGRAMADO') : '';
+    html += `<div class="card bloco ${t.concluido ? 'feito' : ''} ${atrasado ? 'atraso' : ''} ${ehRev && !t.concluido ? 'rev' : ''}" data-id="${t.id}" style="margin-bottom:12px">
+      ${T ? `<span class="bl-ico">${t.concluido ? T.icoFeito : atrasado ? '⚠️' : ehRev ? '🔁' : T.ico}</span>${T.carimbo && t.concluido ? `<span class="bl-carimbo">${T.carimbo}</span>` : ''}${temaId === 'juridico' && atrasado ? `<span class="bl-carimbo bad">${T.atraso}</span>` : ''}` : ''}
+      <div class="row"><span class="mono bl-cod">${T ? `${T.cod} ${num} · ${estadoT}` : `Bloco ${i + 1}`}</span><span class="sp"></span>${atrasado ? '<span class="pill" style="color:var(--vermelho)">Atrasado</span>' : ''}${/^revis/i.test(t.origem || '') ? '<span class="pill ouro">Revisão programada</span>' : ''}<span class="pill">${tipo}</span></div>
       <h2 style="margin-top:6px">${esc(t.materia)}</h2>
       <div class="assunto"><span class="mono">${esc(cod)}</span> <b>${esc(tipo === 'Teoria' ? nome : t.topico)}</b>
         ${tp ? `<details><summary>detalhes e lei seca</summary>
@@ -87,7 +102,7 @@ export async function render(el) {
       ${t.duvida ? `<div class="muted" style="font-size:13px">📝 ${esc(t.duvida)}</div>` : ''}
       <div class="row" style="margin-top:10px"><span class="crono ${rodando ? 'rodando' : ''}">⏱ ${rodando ? 'Cronômetro rodando' : `Tempo estudado: ${crono.fmtMin(t.minutos || 0)}`}</span><button class="btn sec mini" data-a="crono">${rodando ? '■ Parar' : '▶ Iniciar cronômetro'}</button></div>
       <div class="row" style="margin-top:12px">
-        <button class="btn" data-a="concluir">${t.concluido ? 'Reabrir bloco' : 'Concluí o bloco'}</button>
+        <button class="btn bl-btn" data-a="concluir" ${t.concluido ? 'title="Clique para reabrir"' : ''}>${T ? (t.concluido ? T.feito : T.btn) : t.concluido ? 'Reabrir bloco' : 'Concluí o bloco'}</button>
         ${tp ? `<button class="btn sec" data-a="terminei">${tp.concluido ? 'Reabrir assunto' : 'Terminei este assunto'}</button>
 ` : ''}
       </div>

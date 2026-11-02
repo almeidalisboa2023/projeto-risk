@@ -4,6 +4,7 @@ import { esc, iso, hoje, norm, DIAS } from '../util.js';
 import { toast, barra, modal, loading } from '../ui.js';
 import { parseCSV, toCSV, baixar } from '../csv.js';
 import { recarregar } from '../app.js';
+import { TEMAS, detectarTema } from '../temas.js';
 
 const COLS = 'codigo;modalidade;enunciado;alt_a;alt_b;alt_c;alt_d;alt_e;gabarito;comentario;materia;assunto;subassunto;banca;orgao;cargo;nivel;ano;dificuldade;situacao;origem;fonte;tags'.split(';');
 
@@ -157,13 +158,19 @@ async function cadastros(box, atual) {
 // ---------- ALUNOS ----------
 async function alunos(box, atual) {
   const ps = await db.select('profiles', { order: 'created_at.asc' });
+  const eds = await db.select('editais', { select: 'id,user_id,concurso,cargo,tema,ativo', order: 'created_at.asc' }).catch(() => []);
+  const temaSel = (e) => `<select data-tema="${e.id}" style="padding:4px 6px;font-size:12.5px"><option value="">Automático: ${esc(TEMAS[detectarTema(e)].nome)}</option>${Object.entries(TEMAS).map(([k, t]) => `<option value="${k}" ${e.tema === k ? 'selected' : ''}>${esc(t.nome)}</option>`).join('')}</select>`;
+  const edsDe = (uid) => eds.filter((e) => e.user_id === uid && e.ativo !== false);
   const ST = { pendente: 'Aguardando', aprovado: 'Aprovado', recusado: 'Recusado' };
-  box.innerHTML = `<h3>Alunos e usuários (${ps.length})</h3><div style="overflow-x:auto"><table class="tab"><tr><th>Nome</th><th>E-mail</th><th>Perfil</th><th>Cadastro</th><th>Acesso</th><th></th></tr>
-    ${ps.map((p) => `<tr><td>${esc(p.nome || '')}</td><td>${esc(p.email || '')}</td><td>${p.role === 'admin' ? 'Administrador' : 'Aluno'}</td><td>${ST[p.status] || 'Aprovado'}</td><td>${p.bloqueado ? 'Bloqueado' : 'Ativo'}</td>
+  box.innerHTML = `<h3>Alunos e usuários (${ps.length})</h3><div style="overflow-x:auto"><table class="tab"><tr><th>Nome</th><th>E-mail</th><th>Perfil</th><th>Cadastro</th><th>Acesso</th><th>Tema do calendário (por edital)</th><th></th></tr>
+    ${ps.map((p) => `<tr><td>${esc(p.nome || '')}</td><td>${esc(p.email || '')}</td><td>${p.role === 'admin' ? 'Administrador' : 'Aluno'}</td><td>${ST[p.status] || 'Aprovado'}</td><td>${p.bloqueado ? 'Bloqueado' : 'Ativo'}</td><td>${edsDe(p.id).map((e) => `<div style="margin:2px 0"><span class="muted" style="font-size:12px">${esc(e.concurso)}</span><br>${temaSel(e)}</div>`).join('') || '<span class="muted">sem edital</span>'}${p.tema_padrao ? '<div class="muted" style="font-size:11.5px">aluno usa o tema padrão</div>' : ''}</td>
       <td>${p.id === S.user.id ? '<span class="muted">você</span>' : `${p.status !== 'aprovado' ? `<button class="btn mini verde" data-ap="${p.id}">Aprovar</button> ` : `<button class="btn mini sec" data-rc="${p.id}">Revogar</button> `}<button class="btn mini sec" data-bl="${p.id}">${p.bloqueado ? 'Desbloquear' : 'Bloquear'}</button> <button class="btn mini sec" data-adm="${p.id}">${p.role === 'admin' ? 'Tirar admin' : 'Tornar admin'}</button>`}</td></tr>`).join('')}</table></div>`;
   const up = async (id, v) => { try { await db.update('profiles', { id: 'eq.' + id }, v); atual(); } catch (e) { toast(e.message, 'erro'); } };
   box.querySelectorAll('[data-ap]').forEach((b) => (b.onclick = () => up(b.dataset.ap, { status: 'aprovado' })));
   box.querySelectorAll('[data-rc]').forEach((b) => (b.onclick = () => { if (confirm('Revogar o acesso deste usuário?')) up(b.dataset.rc, { status: 'recusado' }); }));
+  box.querySelectorAll('[data-tema]').forEach((s) => (s.onchange = async () => {
+    try { await db.update('editais', { id: 'eq.' + s.dataset.tema }, { tema: s.value || null }); toast('Tema atualizado.'); const e = S.editais.find((x) => x.id === s.dataset.tema); if (e) e.tema = s.value || null; } catch (e) { toast(e.message, 'erro'); }
+  }));
   box.querySelectorAll('[data-bl]').forEach((b) => (b.onclick = () => { const p = ps.find((x) => x.id === b.dataset.bl); up(p.id, { bloqueado: !p.bloqueado }); }));
   box.querySelectorAll('[data-adm]').forEach((b) => (b.onclick = () => { const p = ps.find((x) => x.id === b.dataset.adm); if (confirm('Alterar o perfil deste usuário?')) up(p.id, { role: p.role === 'admin' ? 'aluno' : 'admin', status: 'aprovado' }); }));
 }
