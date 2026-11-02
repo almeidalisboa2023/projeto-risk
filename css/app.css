@@ -274,7 +274,7 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
   background: var(--t-bg); color: var(--t-txt); border-radius: 22px; padding: 18px; position: relative; overflow: hidden; }
 .tema-wrap h1, .tema-wrap h2, .tema-wrap h3, .tema-wrap b { color: inherit; }
 .tema-wrap .mono, .tema-wrap .muted { color: var(--t-txt2); }
-.tema-wrap > .row .btn.sec, .tema-wrap .card > .row .btn.sec, .tema-wrap > .row:last-child .btn.sec { background: rgba(255,255,255,.08); color: var(--t-txt); border-color: var(--t-borda); }
+.tema-wrap > .row .btn.sec, .tema-wrap .card:not(.bloco) > .row .btn.sec, .tema-wrap > .row:last-child .btn.sec { background: rgba(255,255,255,.08); color: var(--t-txt); border-color: var(--t-borda); }
 .tema-wrap .abas { background: rgba(255,255,255,.08); } .tema-wrap .abas button { color: var(--t-txt2); } .tema-wrap .abas button.on { background: var(--t-ac); color: var(--t-ac-txt); }
 .tema-wrap .card:not(.bloco) { background: var(--t-card); border-color: var(--t-borda); color: var(--t-txt); }
 .tema-wrap .card:not(.bloco) .btn:not(.sec) { background: var(--t-ac); color: var(--t-ac-txt); border-color: var(--t-ac); }
@@ -359,7 +359,7 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .tema-administrativo .abas button.on { color: #fff; }
 .tema-administrativo .dia.sel { background: #fff; }
 .tema-administrativo .hero { background: #fff; }
-.tema-administrativo > .row .btn.sec, .tema-administrativo .card > .row .btn.sec { background: #fff; color: #1F2A30; }
+.tema-administrativo > .row .btn.sec, .tema-administrativo .card:not(.bloco) > .row .btn.sec { background: #fff; color: #1F2A30; }
 /* --- Bombeiro Militar --- */
 .tema-bombeiro { --t-bg: #17181B; --t-txt: #F4F4F4; --t-txt2: #B8BCC2; --t-ac: #FFC72C; --t-ac-txt: #1a1a1a; --t-ac-sombra: #b88a00; --t-atr: #FFC72C;
   --t-bl: linear-gradient(170deg, #B30E28, #8E0B20); --t-bl-txt: #fff; --t-bl-txt2: #ffdede; --t-feito: linear-gradient(170deg, #2b2e33, #212327); --t-feito-btn: #2BB673; --t-rev: linear-gradient(170deg, #3b3f46, #2c2f35);
@@ -387,3 +387,11 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .tema-gm .tema-selo { background: linear-gradient(180deg, #2c5aa0, #1B4B8A); color: #fff; }
 .tema-wrap .bloco > .row:first-of-type { padding-right: 36px; }
 .tema-juridico .bloco > .row:first-of-type { padding-right: 150px; }
+
+/* cronômetro legível em todos os temas */
+.tema-wrap .bloco .crono { font-weight: 600; }
+.tema-juridico .bloco .crono, .tema-administrativo .bloco .crono { color: #3a2a1c; }
+.tema-administrativo .bloco .crono { color: #1F2A30; }
+.tema-wrap .bloco .crono.rodando { color: var(--t-ac); }
+.tema-juridico .bloco .crono.rodando { color: #6E1A2B; }
+.tema-administrativo .bloco .crono.rodando { color: #0F4C5C; }
