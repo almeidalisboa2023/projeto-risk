@@ -4,12 +4,16 @@ import { db } from './backend.js';
 import { esc } from './util.js';
 import { enunciadoHTML, sanitize, modal, toast } from './ui.js';
 
-export function cabecalhoQuestao(q) {
-  const tags = [q.origem === 'inedita' ? '<span class="pill rosa">Inédita – Projeto R.I.S.K.</span>' : '', q.origem === 'ia' ? '<span class="pill rosa">Gerada por IA – confira o comentário</span>' : '',
-    q.situacao && q.situacao !== 'atualizada' ? `<span class="pill">${esc(q.situacao)}</span>` : ''].join('');
-  return `<div class="mono up">${esc(q.codigo || '')} · ${esc([q.banca, q.orgao, q.ano, q.cargo].filter(Boolean).join(' · '))}</div>
-    <div class="muted" style="font-size:13px;margin:4px 0 8px">${esc(q.materia || '')}${q.assunto ? ' → ' + esc(q.assunto) : ''}</div><div class="row" style="margin-bottom:10px">${tags}</div>`;
+const DIF = { 1: ['f', 'Fácil'], 2: ['m', 'Médio'], 3: ['d', 'Difícil'] };
+// Selos no estilo cartão: banca, ano, dificuldade + órgão, cargo, matéria e assunto
+export function tagsQuestao(q, { extra = '' } = {}) {
+  const d = DIF[Number(q.dificuldade)];
+  const origem = q.origem === 'inedita' ? '<span class="pill rosa">Inédita R.I.S.K.</span>' : q.origem === 'ia' ? '<span class="pill rosa">Gerada por IA</span>' : '';
+  const sit = q.situacao && q.situacao !== 'atualizada' ? `<span class="pill">${esc(q.situacao)}</span>` : '';
+  return `<div class="qtags">${q.banca ? `<span class="pill ouro">${esc(q.banca)}</span>` : ''}${q.ano ? `<b>${esc(q.ano)}</b>` : ''}${d ? `<span class="dif ${d[0]}">${d[1]}</span>` : ''}${origem}${sit}<span class="sp"></span><span class="mono">${esc(q.codigo || '')}</span>${extra}</div>
+    <div class="qmeta">${q.orgao ? `<span>🏛 ${esc(q.orgao)}</span>` : ''}${q.cargo ? `<span>💼 ${esc(q.cargo)}</span>` : ''}${q.materia ? `<span>📚 ${esc(q.materia)}</span>` : ''}${q.assunto ? `<span>📄 ${esc(q.assunto)}</span>` : ''}</div>`;
 }
+export function cabecalhoQuestao(q) { return tagsQuestao(q); }
 
 // Monta a área de resposta dentro de `box`. onDone(acertou) é chamado depois de registrar.
 export function montarQuestao(box, q, { topicoId, onDone } = {}) {

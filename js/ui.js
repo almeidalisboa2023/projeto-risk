@@ -1,7 +1,7 @@
 import { esc, norm } from './util.js';
 
 // ---------- HTML seguro (enunciados e comentários) ----------
-const PERMITIDAS = new Set(['P', 'BR', 'HR', 'STRONG', 'B', 'EM', 'I', 'U', 'UL', 'OL', 'LI', 'BLOCKQUOTE', 'PRE', 'CODE', 'SUB', 'SUP', 'TABLE', 'THEAD', 'TBODY', 'TR', 'TH', 'TD', 'SPAN']);
+const PERMITIDAS = new Set(['H2', 'H3', 'H4', 'P', 'BR', 'HR', 'STRONG', 'B', 'EM', 'I', 'U', 'UL', 'OL', 'LI', 'BLOCKQUOTE', 'PRE', 'CODE', 'SUB', 'SUP', 'TABLE', 'THEAD', 'TBODY', 'TR', 'TH', 'TD', 'SPAN']);
 export function sanitize(html) {
   const s = String(html ?? '');
   if (!/<[a-z][\s\S]*>/i.test(s)) return esc(s).replace(/\n/g, '<br>');
@@ -113,6 +113,10 @@ export function linksDoTopico(t, concurso = '') {
     questoes: t.link_questoes || `#/questoes?topico=${t.id}`,
     leis,
   };
+}
+export function leiSecaHTML(t) {
+  const L = linksDoTopico(t);
+  return L.leis.length ? `<div class="links">${L.leis.map(([n, u]) => `<a class="link" href="${esc(u)}" target="_blank" rel="noopener">Lei seca: ${esc(n)} ↗</a>`).join('')}</div>` : '';
 }
 export function linksHTML(t, concurso) {
   const L = linksDoTopico(t, concurso);

@@ -1,7 +1,7 @@
 import { db } from './backend.js';
 import { norm, iso, hoje } from './util.js';
 
-export const S = { user: null, profile: null, editais: [], edital: null, topicos: [], logs: [], tarefas: [], ready: false };
+export const S = { user: null, profile: null, editais: [], edital: null, topicos: [], logs: [], tarefas: [], sessoes: [], ready: false };
 
 const ouvintes = new Set();
 export const onChange = (fn) => { ouvintes.add(fn); return () => ouvintes.delete(fn); };
@@ -11,6 +11,7 @@ export async function carregarTudo() {
   const [prof] = await db.select('profiles', { id: 'eq.' + S.user.id });
   S.profile = prof || { id: S.user.id, role: 'aluno', nome: S.user.email };
   S.editais = await db.select('editais', { user_id: 'eq.' + S.user.id, order: 'created_at.asc' });
+  S.sessoes = await db.selectAll('sessoes_estudo', { user_id: 'eq.' + S.user.id, order: 'data.asc' }).catch(() => []);
   const ativos = S.editais.filter((e) => e.ativo !== false);
   S.edital = ativos.find((e) => e.id === S.profile.edital_atual) || ativos[0] || null;
   await carregarEdital();
