@@ -1,6 +1,6 @@
 import { S, topicosValidos } from '../state.js';
 import { db } from '../backend.js';
-import { esc, hoje, iso, parseISO, addDias, dataExtenso, pct, corPct, FRASES, semanaDe, DIAS, idxDia, segundaDa } from '../util.js';
+import { esc, hoje, iso, parseISO, addDias, dataExtenso, pct, corPct, FRASES, semanaDe, DIAS, idxDia, segundaDa, ddmm } from '../util.js';
 import { flipHTML, barra, toast, modal } from '../ui.js';
 import { tema, alternaTema, recarregar } from '../app.js';
 import { sugestoes, escolherDia, dataTarefa } from '../revisoes.js';
@@ -34,6 +34,8 @@ export async function render(el) {
   let seq = 0; for (let d = ativ.has(iso(h)) ? h : addDias(h, -1); ativ.has(iso(d)); d = addDias(d, -1)) seq++;
   const minEntre = (a, b) => S.sessoes.filter((s) => s.data >= iso(a) && s.data <= iso(b)).reduce((x, s) => x + s.minutos, 0);
   const minSem = minEntre(seg, addDias(seg, 6));
+  const minHoje = minEntre(h, h);
+  const minTotal = S.sessoes.reduce((x, s) => x + s.minutos, 0);
   const restantes = validos.filter((t) => !t.concluido).length;
   const semRest = faltam != null ? Math.max(1, Math.ceil(faltam / 7)) : null;
   const teoria4 = ed ? S.tarefas.filter((t) => t.concluido && t.semana < semanaAtual && t.semana >= semanaAtual - 4 && !/^revis/i.test(t.topico)).length / 4 : 0;
@@ -41,7 +43,6 @@ export async function render(el) {
   const ritmo = precisa == null ? `<div class="num">${restantes}</div><div class="muted">tópicos pendentes · defina a data da prova para calcular o ritmo</div>`
     : `<div class="num ${teoria4 >= precisa ? 'ok' : 'bad'}">${precisa}<span class="muted" style="font-size:1rem"> tópicos/semana</span></div><div class="muted">${restantes} pendentes em ${semRest} semanas · seu ritmo recente: ${teoria4.toFixed(1)} blocos de teoria/semana</div>`;
   const sug = ed ? sugestoes(15) : [];
-  const matsEd = [...new Set(validos.map((t) => t.materia))];
   const tarefasHoje = ed ? S.tarefas.filter((t) => t.semana === semanaAtual && t.dia === DIAS[idxDia(h)]) : [];
 
   el.innerHTML = `
@@ -62,25 +63,17 @@ export async function render(el) {
     ${faltam != null ? `<div style="margin-top:18px">${flipHTML(String(faltam).padStart(3, '0'))}<div class="muted">dias para a prova (${prova.toLocaleDateString('pt-BR')})</div></div>` : ''}
     <div style="max-width:560px;margin:18px auto 0;text-align:left"><div class="row"><span>Tópicos finalizados</span><span class="sp"></span><b>${fin}/${validos.length}</b></div>${barra(pct(fin, validos.length))}</div>
   </section>
-  ${ed ? `<div class="card" style="margin-top:16px" id="regq"><div class="row"><h3 style="margin:0">Registrar questões</h3><span class="muted" style="font-size:13px">feitas em qualquer lugar · entra no gráfico e no desempenho</span></div>
-    <div class="row" style="margin-top:12px;align-items:flex-end">
-      <div class="campo" style="flex:1;min-width:180px"><label>Matéria</label><select id="rqM" style="width:100%"><option value="">— escolha —</option>${matsEd.map((m) => `<option>${esc(m)}</option>`).join('')}</select></div>
-      <div class="campo" style="flex:2;min-width:200px"><label>Assunto (opcional)</label><select id="rqT" style="width:100%" disabled><option value="">— matéria toda —</option></select></div>
-      <div class="campo"><label>Questões</label><input type="number" id="rqF" min="1" style="width:100px"></div>
-      <div class="campo"><label>Acertos</label><input type="number" id="rqA" min="0" style="width:100px"></div>
-      <div class="campo"><label>Data</label><input type="date" id="rqD" value="${iso(h)}" max="${iso(h)}"></div>
-      <div class="campo" style="text-align:center;min-width:110px"><label>Acerto</label><div class="num" id="rqP" style="font-size:1.6rem">—</div></div>
-      <div class="campo"><button class="btn" id="rqS">Registrar</button></div>
-    </div></div>` : ''}
+  <div class="card" style="margin-top:16px" id="cronoSem"></div>
   <div class="grid g4" style="margin-top:16px">
     <div class="card"><div class="mono up">Progresso do edital</div><div class="num">${pct(praticados, validos.length) ?? 0}%</div><div class="muted">${praticados} de ${validos.length} tópicos praticados</div></div>
     <div class="card"><div class="mono up">Questões na semana</div><div class="num">${fs}</div><div class="muted">${as} acertos</div></div>
+    <div class="card"><div class="mono up">Tempo de estudo total</div><div class="num">${fmtMin(minTotal)}</div><a class="muted" href="#/horas">desde o início · por matéria →</a></div>
     <div class="card"><div class="mono up">Taxa de acerto</div><div class="num ${corPct(tx)}">${tx ?? '—'}${tx != null ? '%' : ''}</div><div class="muted">${tx != null && txa != null ? `${tx - txa >= 0 ? '+' : ''}${tx - txa} pp vs semana anterior` : 'semana atual'}</div></div>
   </div>
   <div class="grid g4" style="margin-top:16px">
     <div class="card"><div class="mono up">Meta de hoje</div><div class="num">${qHoje}<span class="muted" style="font-size:1rem"> / ${meta}</span></div>${barra(Math.min(100, pct(qHoje, meta) || 0))}<div class="muted" style="margin-top:6px">${qHoje >= meta ? 'Meta batida! 🎯' : `Faltam ${meta - qHoje} questões`}</div></div>
     <div class="card"><div class="mono up">Sequência</div><div class="num"><span class="fogo">🔥</span> ${seq} ${seq === 1 ? 'dia' : 'dias'}</div><div class="muted">${seq ? 'estudando sem parar' : 'registre algo hoje para começar'}</div></div>
-    <div class="card"><div class="mono up">Tempo na semana</div><div class="num">${fmtMin(minSem)}</div><a class="muted" href="#/horas">ver horas por matéria →</a></div>
+    <div class="card"><div class="mono up">Tempo de estudo hoje</div><div class="num">${fmtMin(minHoje)}</div><div class="muted">${fmtMin(minSem)} nesta semana</div></div>
     <div class="card"><div class="mono up">Ritmo até a prova</div>${ritmo}</div>
   </div>
   <div class="grid g2" style="margin-top:16px">
@@ -127,26 +120,7 @@ export async function render(el) {
       <div class="pill ouro" style="margin-top:10px;white-space:normal">💡 ${esc(dica)}</div>`;
   };
   el.querySelectorAll('#rs button').forEach((b) => (b.onclick = () => resumo(Number(b.dataset.s))));
-  if (ed) {
-    const $ = (s) => el.querySelector(s);
-    $('#rqM').onchange = () => { const ts = validos.filter((t) => t.materia === $('#rqM').value); $('#rqT').disabled = !ts.length; $('#rqT').innerHTML = '<option value="">— matéria toda —</option>' + ts.map((t) => `<option value="${t.id}">${esc(t.topico.slice(0, 100))}</option>`).join(''); };
-    const calc = () => { const f = Number($('#rqF').value), a = Number($('#rqA').value); const o = $('#rqP');
-      if (!f || $('#rqA').value === '') { o.textContent = '—'; o.className = 'num'; return; }
-      if (a > f || a < 0) { o.textContent = '!'; o.className = 'num bad'; return; }
-      const p = Math.round((a / f) * 100); o.textContent = p + '%'; o.className = 'num ' + corPct(p); };
-    $('#rqF').oninput = calc; $('#rqA').oninput = calc;
-    $('#rqS').onclick = async (ev) => {
-      const materia = $('#rqM').value, f = Number($('#rqF').value), a = Number($('#rqA').value), data = $('#rqD').value || iso(h);
-      if (!materia) return toast('Escolha a matéria.', 'erro');
-      if (!Number.isInteger(f) || f <= 0 || !Number.isInteger(a) || a < 0) return toast('Informe números inteiros: questões maior que zero.', 'erro');
-      if (a > f) return toast('Acertos não pode ser maior que questões.', 'erro');
-      ev.target.disabled = true;
-      try {
-        const [log] = await db.insert('question_logs', [{ user_id: S.user.id, edital_id: ed.id, topico_id: $('#rqT').value || null, materia, data, feitas: f, acertos: a, origem: 'externa' }]);
-        S.logs.push(log); toast(`Registrado: ${a}/${f} (${Math.round((a / f) * 100)}%) em ${materia}.`); render(el);
-      } catch (e) { toast(e.message, 'erro'); ev.target.disabled = false; }
-    };
-  }
+  calendarioCrono(el.querySelector('#cronoSem'), 0);
   const relogio = () => { const d = new Date(); const s = [d.getHours(), d.getMinutes(), d.getSeconds()].map((n) => String(n).padStart(2, '0')).join(':'); const r = document.getElementById('relogio'); if (!r) return clearInterval(timer); r.innerHTML = flipHTML(s); };
   relogio(); timer = setInterval(relogio, 1000);
   const frase = () => { el.querySelector('#frase').textContent = '“' + FRASES[fi][0] + '”'; el.querySelector('#autor').textContent = FRASES[fi][1].toUpperCase(); };
@@ -199,3 +173,24 @@ function sugHTML(lista) {
   return lista.map((s) => `<div class="sug"><div><b>${esc(s.tp.materia)}</b> — ${esc(s.tp.topico.length > 90 ? s.tp.topico.slice(0, 90) + '…' : s.tp.topico)}<div class="mot">${esc(s.motivo)}</div></div>
     <div class="row" style="gap:6px"><button class="btn mini" data-ag="${s.tp.id}">Agendar revisão</button></div></div>`).join('');
 }
+
+// Calendário do cronômetro: horas estudadas em cada dia da semana
+let semCrono = 0;
+function calendarioCrono(box, desl) {
+  if (desl != null) semCrono = desl;
+  const h = hoje(), seg = addDias(segundaDa(h), 7 * semCrono);
+  const por = new Map(); for (const s of S.sessoes) por.set(s.data, (por.get(s.data) || 0) + s.minutos);
+  const dias = Array.from({ length: 7 }, (_, i) => { const d = addDias(seg, i); return [d, por.get(iso(d)) || 0]; });
+  const tot = dias.reduce((x, [, m]) => x + m, 0), max = Math.max(60, ...dias.map(([, m]) => m));
+  const melhor = dias.reduce((a, b) => (b[1] > a[1] ? b : a));
+  const fmtH = (m) => `${Math.floor(m / 60)}h${String(Math.round(m % 60)).padStart(2, '0')}`;
+  box.innerHTML = `<div class="row"><h3 style="margin:0">⏱ Calendário do cronômetro</h3><span class="sp"></span>
+      <button class="btn sec mini" data-cs="-1">‹</button><button class="btn sec mini" data-cs="0">Esta semana</button><button class="btn sec mini" data-cs="1">›</button></div>
+    <div class="muted" style="font-size:13px;margin:4px 0 12px">${ddmm(seg)} a ${ddmm(addDias(seg, 6))} · total <b>${fmtH(tot)}</b> · média <b>${fmtH(tot / 7)}</b> por dia${melhor[1] ? ` · melhor dia: ${DIAS_C[idxDia(melhor[0])]} (${fmtH(melhor[1])})` : ''}</div>
+    <div class="crono-sem">${dias.map(([d, m]) => `<div class="cs-dia ${iso(d) === iso(h) ? 'hoje' : ''} ${iso(d) > iso(h) ? 'futuro' : ''}">
+        <div class="cs-barra"><div style="height:${m ? Math.max(6, Math.round((m / max) * 100)) : 0}%"></div></div>
+        <b>${m ? fmtH(m) : '—'}</b><span>${DIAS_C[idxDia(d)]} ${ddmm(d)}</span></div>`).join('')}</div>
+    <div class="row" style="margin-top:10px"><a class="btn sec mini" href="#/horas">Abrir Horas de estudo</a><span class="muted" style="font-size:12.5px">Use o cronômetro dos blocos ou lance horas manualmente.</span></div>`;
+  box.querySelectorAll('[data-cs]').forEach((b) => (b.onclick = () => calendarioCrono(box, b.dataset.cs === '0' ? 0 : semCrono + Number(b.dataset.cs))));
+}
+const DIAS_C = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
