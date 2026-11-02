@@ -8,6 +8,7 @@ const PAGINAS = {
   painel: ['Painel', '⌂', () => import('./pages/painel.js')],
   calendario: ['Calendário', '▦', () => import('./pages/calendario.js')],
   horas: ['Horas de estudo', '⏱', () => import('./pages/horas.js')],
+  registrar: ['Registrar questões', '✎', () => import('./pages/registrar.js')],
   edital: ['Edital', '☰', () => import('./pages/edital.js')],
   perfil: ['Perfil', '☺', () => import('./pages/perfil.js')],
   admin: ['Administrador', '⚙', () => import('./pages/admin.js')],
