@@ -4,6 +4,7 @@ import { esc, hoje, iso, addDias, parseISO, pct, corPct, norm, segundaDa } from 
 import { barra, toast, modal } from '../ui.js';
 import { formExterno } from './calendario.js';
 import { recarregar } from '../app.js';
+import { ajustarDatas, finalizarCronograma, importarEdital } from './edital-ferramentas.js';
 
 let periodo = { tipo: 'total', de: null, ate: null };
 let soPendentes = false;
@@ -11,8 +12,9 @@ let soPendentes = false;
 export async function render(el) {
   const ed = S.edital;
   if (!ed) {
-    el.innerHTML = `<h1>Edital</h1><div class="card"><p>Você ainda não tem edital.</p><button class="btn" id="novo">+ Novo edital</button></div>`;
+    el.innerHTML = `<h1>Edital</h1><div class="card"><p>Você ainda não tem um edital ativo.</p><div class="row"><button class="btn" id="anexo">📎 Anexar edital (cronograma automático)</button><button class="btn sec" id="novo">+ Novo edital em branco</button></div></div>`;
     el.querySelector('#novo').onclick = () => novoEdital();
+    el.querySelector('#anexo').onclick = () => importarEdital(() => recarregar());
     return;
   }
   const h = hoje();
@@ -39,7 +41,7 @@ export async function render(el) {
 
   el.innerHTML = `
   <div class="topo"><div><div class="mono up">Edital verticalizado</div><h1>${esc(ed.concurso)}</h1><div class="muted">${esc([ed.cargo, ed.banca, ed.formato === 'multipla_escolha' ? 'múltipla escolha' : 'certo/errado'].filter(Boolean).join(' · '))}</div></div>
-    <div class="row"><button class="btn sec" id="novo">+ Novo edital</button><button class="btn sec" id="addTop">+ Tópico</button></div></div>
+    <div class="row"><button class="btn" id="anexo">📎 Anexar edital</button><button class="btn sec" id="novo">+ Novo edital</button><button class="btn sec" id="addTop">+ Tópico</button><button class="btn sec" id="datas">📅 Ajustar datas</button><button class="btn sec" id="finaliza">🏁 Finalizar cronograma</button></div></div>
   <div class="grid g2">
     <div class="card"><div class="mono up">Progresso geral</div><div class="num">${prog}%</div>${barra(prog)}<div class="muted" style="margin-top:6px">${validos.filter((t) => comQ.has(t.id)).length} de ${validos.length} tópicos praticados · ${validos.filter((t) => t.concluido).length} finalizados</div></div>
     <div class="card"><div class="row"><div class="mono up">Análise de questões</div><span class="sp"></span>
@@ -76,6 +78,9 @@ export async function render(el) {
   el.querySelectorAll('[data-c]').forEach((c) => (c.onchange = async () => { try { await atualizarTopico(c.dataset.c, { concluido: c.checked }); } catch (e) { toast(e.message, 'erro'); } }));
   el.querySelectorAll('[data-ext]').forEach((b) => (b.onclick = () => formExterno(S.topicos.find((t) => t.id === b.dataset.ext), () => render(el))));
   el.querySelector('#novo').onclick = () => novoEdital();
+  el.querySelector('#anexo').onclick = () => importarEdital(() => recarregar());
+  el.querySelector('#datas').onclick = () => ajustarDatas(ed, () => render(el));
+  el.querySelector('#finaliza').onclick = () => finalizarCronograma(ed, () => recarregar());
   el.querySelector('#addTop').onclick = () => modal(`<h3>Novo tópico</h3><div class="campo"><label>Matéria</label><input id="m" list="ml" style="width:100%"><datalist id="ml">${[...mats.keys()].map((m) => `<option value="${esc(m)}">`).join('')}</datalist></div><div class="campo"><label>Tópico</label><textarea id="t"></textarea></div><button class="btn" id="ok">Adicionar</button>`, {
     onMount: (m, close) => (m.querySelector('#ok').onclick = async () => {
       try { const [t] = await db.insert('topicos', [{ user_id: S.user.id, edital_id: ed.id, materia: m.querySelector('#m').value.trim(), topico: m.querySelector('#t').value.trim(), ordem: S.topicos.length }]); S.topicos.push(t); close(); render(el); } catch (e) { toast(e.message, 'erro'); }

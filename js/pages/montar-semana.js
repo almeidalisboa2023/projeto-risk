@@ -153,7 +153,7 @@ export function gerarSemana(semana, depois) {
   });
 }
 
-function montarPlano(semana, cfg) {
+export function montarPlano(semana, cfg) {
   const validos = topicosValidos();
   const jaTeoria = new Set(S.tarefas.filter((t) => t.topico_id && tipoBloco(t.topico) === 'Teoria').map((t) => t.topico_id));
   const fila = {};

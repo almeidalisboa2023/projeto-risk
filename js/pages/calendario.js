@@ -10,13 +10,14 @@ import * as crono from '../crono.js';
 import { TEMAS, temaAtual, progressoHTML } from '../temas.js';
 import { topicosValidos } from '../state.js';
 
-let semanaSel = null, diaSel = null, visao = 'semana', mesSel = null;
+let semanaSel = null, diaSel = null, visao = 'semana', mesSel = null, edSel = null;
 
 export async function render(el) {
   const ed = S.edital;
   if (!ed) { el.innerHTML = '<div class="card"><h2>Sem edital</h2><p>Peça ao administrador para importar seu edital ou crie um na aba Edital.</p></div>'; return; }
   const h = hoje();
   const semAtual = semanaDe(ed.data_inicio, h);
+  if (edSel !== ed.id + ed.data_inicio) { edSel = ed.id + ed.data_inicio; semanaSel = null; }
   if (semanaSel == null) { semanaSel = semAtual; diaSel = idxDia(h); }
   if (visao === 'mes') return renderMes(el, (s, d) => { semanaSel = s; diaSel = d; visao = 'semana'; render(el); }, () => { visao = 'semana'; render(el); });
   const nAtr = atrasados().length;
