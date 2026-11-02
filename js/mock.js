@@ -28,7 +28,7 @@ function seed() {
   const tarefas = [];
   for (const sem of [9, 10, 11]) for (const [dia, ids] of plano) ids.forEach((n, o) => tarefas.push({
     id: uid(), user_id: USER.id, edital_id: ed, topico_id: T(n).id, semana: sem, dia, ordem: o, materia: T(n).materia,
-    topico: (o === 0 && n === 0 ? 'Revisão + questões: ' : '') + T(n).topico.replace(/^[\d\.\/\-]+ /, ''), concluido: sem === 9, checklist: {}, duvida: null,
+    topico: (o === 0 && n === 0 ? 'Revisão + questões: ' : '') + T(n).topico.replace(/^[\d\.\/\-]+ /, ''), concluido: sem === 9, concluido_em: sem === 9 ? iso(addDias(seg, -7 + DIAS.indexOf(dia))) : null, checklist: {}, duvida: null, minutos: sem === 9 ? 45 : 0,
   }));
   const logs = [];
   for (let k = 0; k < 25; k++) {
@@ -42,10 +42,13 @@ function seed() {
     q('R21PFA084', 'Informática', 'Programação', '<p>Com relação a Python, julgue o item.</p><hr><p>O código a seguir imprime True.</p><p>x = bool(-3)<br>y = bool(True*x)<br>z = bool(False)<br>print (x and y and z)</p>', 'E', '<p>Errado. z é False, então a expressão é False.</p>', 'publica'),
     q('IN00003', 'Língua Portuguesa', tops[2].topico, '<p>Texto: A PRF ampliou a fiscalização no feriado.</p><hr><p>O texto informa que houve redução da fiscalização.</p>', 'E', '<p>Errado. O texto fala em ampliação.</p>'),
   ];
+  for (let k = 0; k < 36; k++) { const tp = tops[k % 10]; questoes.push({ ...q('DM' + String(k).padStart(3, '0'), tp.materia, tp.topico, `<p>(Demonstração) Afirmação ${k + 1} sobre ${tp.topico.replace(/^[\d\.\/\-]+ /, '')}.</p>`, k % 3 ? 'C' : 'E', '<p>Comentário de demonstração.</p>', k % 2 ? 'publica' : 'inedita'), dificuldade: 1 + (k % 3), ano: 2020 + (k % 6) }); }
+  const sessoes = [];
+  for (let k = 0; k < 20; k++) { const tp = tops[k % 7]; sessoes.push({ id: uid(), user_id: USER.id, edital_id: ed, tarefa_id: null, materia: tp.materia, data: iso(addDias(hoje(), -k)), minutos: 30 + (k % 4) * 20, origem: k % 5 ? 'cronometro' : 'manual', obs: null, created_at: new Date().toISOString() }); }
   return {
-    profiles: [{ id: USER.id, email: USER.email, nome: 'Lucas Matheus', role: 'admin', lingua: 'espanhol', blocos: [{ hora: '08:00', min: 50 }, { hora: '09:00', min: 50 }, { hora: '21:00', min: 50 }], meta_agua: 4000, edital_atual: ed }],
+    profiles: [{ id: USER.id, email: USER.email, nome: 'Lucas Matheus', role: 'admin', lingua: 'espanhol', blocos: [{ hora: '08:00', min: 50 }, { hora: '09:00', min: 50 }, { hora: '21:00', min: 50 }], meta_agua: 4000, edital_atual: ed, meta_questoes: 30, revisao_auto: true, cpf: '12345678909' }],
     editais: [{ id: ed, user_id: USER.id, concurso: 'PRF 2027', cargo: 'Policial Rodoviário Federal', banca: 'Cebraspe', formato: 'certo_errado', data_prova: null, data_inicio: inicio, cor: 'rosa', ativo: true }],
-    topicos: tops, tarefas, question_logs: logs, questoes, respostas: [], reportes: [], agua: [], simulados: [], ia_pedidos: [],
+    topicos: tops, tarefas, question_logs: logs, questoes, respostas: [], reportes: [], agua: [], simulados: [], ia_pedidos: [], provas: [], sessoes_estudo: sessoes, resumos: [],
   };
 }
 function load() { if (D) return; try { D = JSON.parse(localStorage.getItem(KEY) || 'null'); } catch { D = null; } if (!D) { D = seed(); persist(); } }
@@ -110,6 +113,19 @@ export const storage = { async upload(b, path, file) { return URL.createObjectUR
 export const functions = {
   async invoke(name, body) {
     await new Promise((r) => setTimeout(r, 700));
+    if (name === 'gerar-resumo') {
+      const tp = t('topicos').find((x) => x.id === body.topico_id);
+      const html = `<h2>1. Visão geral</h2><p>(Demonstração) Resumo técnico de <strong>${tp.topico}</strong>. No site real, este texto é escrito pelo Claude com base no edital, no cargo e na banca.</p>
+<h2>2. Base legal</h2><ul><li><strong>Art. 1º</strong> — exemplo de dispositivo.</li><li><strong>Art. 2º</strong> — outro dispositivo.</li></ul>
+<h2>3. Conceitos e regras-chave</h2><p>Definições, requisitos e exceções.</p><ul><li>Regra A</li><li>Regra B</li></ul>
+<h2>4. Quadro comparativo</h2><table><thead><tr><th>Instituto</th><th>Característica</th><th>Prazo</th></tr></thead><tbody><tr><td>A</td><td>Exemplo</td><td>5 dias</td></tr><tr><td>B</td><td>Exemplo</td><td>10 dias</td></tr></tbody></table>
+<h2>5. Como a banca cobra</h2><blockquote>Pegadinha típica: trocar “pode” por “deve”.</blockquote>
+<h2>6. Jurisprudência e entendimentos</h2><p>Tema cobrado pela letra da lei.</p>
+<h2>7. Checklist de revisão</h2><ol><li>Item 1</li><li>Item 2</li><li>Item 3</li></ol>
+<h2>8. Fixação</h2><ol><li>Afirmação de exemplo. <strong>Gabarito: Certo.</strong> Justificativa.</li></ol>`.repeat(2);
+      const r = { id: uid(), user_id: USER.id, topico_id: tp.id, edital_id: tp.edital_id, materia: tp.materia, topico: tp.topico, concurso: 'PRF 2027', conteudo: html, created_at: new Date().toISOString() };
+      t('resumos').push(r); persist(); return { resumo: r };
+    }
     if (name !== 'gerar-questoes') throw new Error('Função inexistente');
     const tp = t('topicos').find((x) => x.id === body.topico_id);
     const qs = Array.from({ length: 10 }, (_, i) => ({ id: uid(), codigo: 'IA-DEMO-' + uid().slice(0, 6), modalidade: 'certo_errado', enunciado: `<p>(Demonstração) Afirmação ${i + 1} sobre ${tp?.topico || 'o tópico'}.</p>`, alternativas: [], gabarito: i % 2 ? 'E' : 'C', comentario: `<p>${i % 2 ? 'Errado' : 'Certo'}. Comentário de demonstração.</p>`, materia: tp?.materia, assunto: tp?.topico, banca: 'Cebraspe', origem: 'ia', owner: USER.id, situacao: 'atualizada', dificuldade: 2 }));

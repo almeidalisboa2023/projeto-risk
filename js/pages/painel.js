@@ -1,8 +1,11 @@
 import { S, topicosValidos } from '../state.js';
 import { db } from '../backend.js';
 import { esc, hoje, iso, parseISO, addDias, dataExtenso, pct, corPct, FRASES, semanaDe, DIAS, idxDia, segundaDa } from '../util.js';
-import { flipHTML, barra, toast } from '../ui.js';
+import { flipHTML, barra, toast, modal } from '../ui.js';
 import { tema, alternaTema, recarregar } from '../app.js';
+import { sugestoes, escolherDia, dataTarefa } from '../revisoes.js';
+import { atrasados } from './replanejar.js';
+import { fmtMin } from '../crono.js';
 
 let timer = null;
 
@@ -26,13 +29,27 @@ export async function render(el) {
   let fi = Math.floor(Math.random() * FRASES.length);
 
   const semanaAtual = ed ? semanaDe(ed.data_inicio, h) : null;
+  const meta = S.profile.meta_questoes || 30;
+  const qHoje = S.logs.filter((l) => l.data === iso(h)).reduce((s, l) => s + l.feitas, 0);
+  const ativ = new Set([...S.logs.filter((l) => l.feitas > 0).map((l) => l.data), ...S.tarefas.filter((t) => t.concluido && t.concluido_em).map((t) => String(t.concluido_em).slice(0, 10))]);
+  let seq = 0; for (let d = ativ.has(iso(h)) ? h : addDias(h, -1); ativ.has(iso(d)); d = addDias(d, -1)) seq++;
+  const minEntre = (a, b) => S.sessoes.filter((s) => s.data >= iso(a) && s.data <= iso(b)).reduce((x, s) => x + s.minutos, 0);
+  const minSem = minEntre(seg, addDias(seg, 6));
+  const restantes = validos.filter((t) => !t.concluido).length;
+  const semRest = faltam != null ? Math.max(1, Math.ceil(faltam / 7)) : null;
+  const teoria4 = ed ? S.tarefas.filter((t) => t.concluido && t.semana < semanaAtual && t.semana >= semanaAtual - 4 && !/^revis/i.test(t.topico)).length / 4 : 0;
+  const precisa = semRest ? Math.ceil(restantes / semRest) : null;
+  const ritmo = precisa == null ? `<div class="num">${restantes}</div><div class="muted">tópicos pendentes · defina a data da prova para calcular o ritmo</div>`
+    : `<div class="num ${teoria4 >= precisa ? 'ok' : 'bad'}">${precisa}<span class="muted" style="font-size:1rem"> tópicos/semana</span></div><div class="muted">${restantes} pendentes em ${semRest} semanas · seu ritmo recente: ${teoria4.toFixed(1)} blocos de teoria/semana</div>`;
+  const sug = ed ? sugestoes(15) : [];
+  const matsEd = [...new Set(validos.map((t) => t.materia))];
   const tarefasHoje = ed ? S.tarefas.filter((t) => t.semana === semanaAtual && t.dia === DIAS[idxDia(h)]) : [];
 
   el.innerHTML = `
   <div class="topo">
     <span class="pill">${esc(ed ? ed.concurso : 'Sem edital')} · plano de estudos</span>
     <div class="row">
-      ${ed ? `<span class="pill">${faltam != null ? `Faltam <b>${faltam}</b> dias` : 'Defina a data da prova'}</span><input type="date" id="dp" value="${esc(ed.data_prova || '')}" aria-label="Data da prova">` : ''}
+      ${ed ? `<span class="pill ouro" id="faltam">${faltam != null ? `Faltam <b>${faltam}</b> dias para a prova` : 'Defina a data da prova'}</span><input type="date" id="dp" value="${esc(ed.data_prova || '')}" min="${iso(h)}" max="2100-12-31" aria-label="Data da prova"><button class="btn sec mini" id="dpOk">Salvar data</button>` : ''}
       <button class="btn" id="tema">${tema() === 'dark' ? '☀ Modo claro' : '☾ Modo noturno'}</button>
     </div>
   </div>
@@ -46,11 +63,33 @@ export async function render(el) {
     ${faltam != null ? `<div style="margin-top:18px">${flipHTML(String(faltam).padStart(3, '0'))}<div class="muted">dias para a prova (${prova.toLocaleDateString('pt-BR')})</div></div>` : ''}
     <div style="max-width:560px;margin:18px auto 0;text-align:left"><div class="row"><span>Tópicos finalizados</span><span class="sp"></span><b>${fin}/${validos.length}</b></div>${barra(pct(fin, validos.length))}</div>
   </section>
+  ${ed ? `<div class="card" style="margin-top:16px" id="regq"><div class="row"><h3 style="margin:0">Registrar questões</h3><span class="muted" style="font-size:13px">feitas em qualquer lugar · entra no gráfico e no desempenho</span></div>
+    <div class="row" style="margin-top:12px;align-items:flex-end">
+      <div class="campo" style="flex:1;min-width:180px"><label>Matéria</label><select id="rqM" style="width:100%"><option value="">— escolha —</option>${matsEd.map((m) => `<option>${esc(m)}</option>`).join('')}</select></div>
+      <div class="campo" style="flex:2;min-width:200px"><label>Assunto (opcional)</label><select id="rqT" style="width:100%" disabled><option value="">— matéria toda —</option></select></div>
+      <div class="campo"><label>Questões</label><input type="number" id="rqF" min="1" style="width:100px"></div>
+      <div class="campo"><label>Acertos</label><input type="number" id="rqA" min="0" style="width:100px"></div>
+      <div class="campo"><label>Data</label><input type="date" id="rqD" value="${iso(h)}" max="${iso(h)}"></div>
+      <div class="campo" style="text-align:center;min-width:110px"><label>Acerto</label><div class="num" id="rqP" style="font-size:1.6rem">—</div></div>
+      <div class="campo"><button class="btn" id="rqS">Registrar</button></div>
+    </div></div>` : ''}
   <div class="grid g4" style="margin-top:16px">
     <div class="card"><div class="mono up">Progresso do edital</div><div class="num">${pct(praticados, validos.length) ?? 0}%</div><div class="muted">${praticados} de ${validos.length} tópicos praticados</div></div>
     <div class="card"><div class="mono up">Questões na semana</div><div class="num">${fs}</div><div class="muted">${as} acertos</div></div>
     <div class="card"><div class="mono up">Taxa de acerto</div><div class="num ${corPct(tx)}">${tx ?? '—'}${tx != null ? '%' : ''}</div><div class="muted">${tx != null && txa != null ? `${tx - txa >= 0 ? '+' : ''}${tx - txa} pp vs semana anterior` : 'semana atual'}</div></div>
     <div class="card"><div class="mono up">Água hoje</div><div class="num">${agua}</div><div class="muted">/ ${S.profile.meta_agua || 4000} ml</div></div>
+  </div>
+  <div class="grid g4" style="margin-top:16px">
+    <div class="card"><div class="mono up">Meta de hoje</div><div class="num">${qHoje}<span class="muted" style="font-size:1rem"> / ${meta}</span></div>${barra(Math.min(100, pct(qHoje, meta) || 0))}<div class="muted" style="margin-top:6px">${qHoje >= meta ? 'Meta batida! 🎯' : `Faltam ${meta - qHoje} questões`}</div></div>
+    <div class="card"><div class="mono up">Sequência</div><div class="num"><span class="fogo">🔥</span> ${seq} ${seq === 1 ? 'dia' : 'dias'}</div><div class="muted">${seq ? 'estudando sem parar' : 'registre algo hoje para começar'}</div></div>
+    <div class="card"><div class="mono up">Tempo na semana</div><div class="num">${fmtMin(minSem)}</div><a class="muted" href="#/horas">ver horas por matéria →</a></div>
+    <div class="card"><div class="mono up">Ritmo até a prova</div>${ritmo}</div>
+  </div>
+  <div class="grid g2" style="margin-top:16px">
+    <div class="card"><div class="row"><h3>Revisões sugeridas</h3><span class="sp"></span>${sug.length > 5 ? '<button class="btn sec mini" id="todasSug">Ver todas</button>' : ''}</div>
+      <p class="muted" style="font-size:13px;margin-top:0">Assuntos com acerto baixo, poucas questões ou muito tempo sem revisar.</p>
+      <div id="sug">${sugHTML(sug.slice(0, 5))}</div></div>
+    <div class="card"><div class="row"><h3>Resumo da semana</h3><span class="sp"></span><div class="abas" id="rs"><button class="on" data-s="0">Esta</button><button data-s="-1">Passada</button></div></div><div id="resumo"></div></div>
   </div>
   <div class="grid g2" style="margin-top:16px">
     <div class="card"><div class="row"><h3>Taxa de acerto</h3><span class="sp"></span>
@@ -62,6 +101,54 @@ export async function render(el) {
   </div>
   <div class="card" style="margin-top:16px"><h3>Desempenho por matéria</h3><div id="pormat"></div></div>`;
 
+  const ligaSug = (box) => box.querySelectorAll('[data-ag]').forEach((b) => (b.onclick = () => escolherDia(sug.find((x) => x.tp.id === b.dataset.ag).tp, () => render(el))));
+  ligaSug(el.querySelector('#sug'));
+  const todas = el.querySelector('#todasSug');
+  if (todas) todas.onclick = () => { const close = modal(`<h3>Revisões sugeridas</h3>${sugHTML(sug)}`, { largo: true, onMount: (m, fecha) => m.querySelectorAll('[data-ag]').forEach((b) => (b.onclick = () => { fecha(); escolherDia(sug.find((x) => x.tp.id === b.dataset.ag).tp, () => render(el)); })) }); };
+  const resumo = (desl) => {
+    el.querySelectorAll('#rs button').forEach((b) => b.classList.toggle('on', Number(b.dataset.s) === desl));
+    const box = el.querySelector('#resumo');
+    if (!ed) { box.innerHTML = '<p class="muted">Sem edital.</p>'; return; }
+    const sem = semanaAtual + desl, ini = addDias(seg, 7 * desl);
+    const ts = S.tarefas.filter((t) => t.semana === sem), fe = ts.filter((t) => t.concluido).length;
+    const lg = S.logs.filter((l) => naSemana(l, ini)); const [f, a] = soma(lg);
+    const mats = new Map(); for (const l of lg) { const k = topById.get(l.topico_id)?.materia || l.materia || 'Outros'; const x = mats.get(k) || [0, 0]; x[0] += l.feitas; x[1] += l.acertos; mats.set(k, x); }
+    const ord = [...mats].filter(([, x]) => x[0] >= 5).map(([k, x]) => [k, pct(x[1], x[0])]).sort((p, q) => q[1] - p[1]);
+    const atr = ts.filter((t) => !t.concluido && iso(dataTarefa(t)) < iso(h)).length;
+    const min = minEntre(ini, addDias(ini, 6));
+    const dica = !ts.length ? 'Semana sem blocos montados. Use "+ Incluir semana" no Calendário.'
+      : atr ? `Você tem ${atr} bloco(s) atrasado(s) nesta semana. Use "Corrigir atrasos" no Calendário.`
+      : ord.length && ord[ord.length - 1][1] < 70 ? `Reforce ${ord[ord.length - 1][0]} (${ord[ord.length - 1][1]}% de acerto).`
+      : fe === ts.length ? 'Semana cumprida. Excelente!' : 'Siga o plano dos próximos dias.';
+    box.innerHTML = `<div class="grid" style="grid-template-columns:repeat(2,1fr);gap:10px">
+      <div><div class="mono up">Blocos</div><b>${fe}/${ts.length}</b> ${barra(pct(fe, ts.length) || 0)}</div>
+      <div><div class="mono up">Questões</div><b>${f}</b> <span class="${corPct(pct(a, f))}">${f ? pct(a, f) + '%' : ''}</span></div>
+      <div><div class="mono up">Tempo</div><b>${fmtMin(min)}</b></div>
+      <div><div class="mono up">Atrasados</div><b class="${atr ? 'bad' : ''}">${atr}</b></div></div>
+      ${ord.length ? `<div style="margin-top:10px;font-size:14px">Melhor: <b class="ok">${esc(ord[0][0])} ${ord[0][1]}%</b>${ord.length > 1 ? ` · Pior: <b class="${corPct(ord[ord.length - 1][1])}">${esc(ord[ord.length - 1][0])} ${ord[ord.length - 1][1]}%</b>` : ''}</div>` : ''}
+      <div class="pill ouro" style="margin-top:10px;white-space:normal">💡 ${esc(dica)}</div>`;
+  };
+  el.querySelectorAll('#rs button').forEach((b) => (b.onclick = () => resumo(Number(b.dataset.s))));
+  if (ed) {
+    const $ = (s) => el.querySelector(s);
+    $('#rqM').onchange = () => { const ts = validos.filter((t) => t.materia === $('#rqM').value); $('#rqT').disabled = !ts.length; $('#rqT').innerHTML = '<option value="">— matéria toda —</option>' + ts.map((t) => `<option value="${t.id}">${esc(t.topico.slice(0, 100))}</option>`).join(''); };
+    const calc = () => { const f = Number($('#rqF').value), a = Number($('#rqA').value); const o = $('#rqP');
+      if (!f || $('#rqA').value === '') { o.textContent = '—'; o.className = 'num'; return; }
+      if (a > f || a < 0) { o.textContent = '!'; o.className = 'num bad'; return; }
+      const p = Math.round((a / f) * 100); o.textContent = p + '%'; o.className = 'num ' + corPct(p); };
+    $('#rqF').oninput = calc; $('#rqA').oninput = calc;
+    $('#rqS').onclick = async (ev) => {
+      const materia = $('#rqM').value, f = Number($('#rqF').value), a = Number($('#rqA').value), data = $('#rqD').value || iso(h);
+      if (!materia) return toast('Escolha a matéria.', 'erro');
+      if (!Number.isInteger(f) || f <= 0 || !Number.isInteger(a) || a < 0) return toast('Informe números inteiros: questões maior que zero.', 'erro');
+      if (a > f) return toast('Acertos não pode ser maior que questões.', 'erro');
+      ev.target.disabled = true;
+      try {
+        const [log] = await db.insert('question_logs', [{ user_id: S.user.id, edital_id: ed.id, topico_id: $('#rqT').value || null, materia, data, feitas: f, acertos: a, origem: 'externa' }]);
+        S.logs.push(log); toast(`Registrado: ${a}/${f} (${Math.round((a / f) * 100)}%) em ${materia}.`); render(el);
+      } catch (e) { toast(e.message, 'erro'); ev.target.disabled = false; }
+    };
+  }
   const relogio = () => { const d = new Date(); const s = [d.getHours(), d.getMinutes(), d.getSeconds()].map((n) => String(n).padStart(2, '0')).join(':'); const r = document.getElementById('relogio'); if (!r) return clearInterval(timer); r.innerHTML = flipHTML(s); };
   relogio(); timer = setInterval(relogio, 1000);
   const frase = () => { el.querySelector('#frase').textContent = '“' + FRASES[fi][0] + '”'; el.querySelector('#autor').textContent = FRASES[fi][1].toUpperCase(); };
@@ -69,7 +156,19 @@ export async function render(el) {
   el.querySelector('#outra').onclick = () => { fi = (fi + 1 + Math.floor(Math.random() * (FRASES.length - 1))) % FRASES.length; frase(); };
   el.querySelector('#tema').onclick = () => { alternaTema(); recarregar(); };
   const dp = el.querySelector('#dp');
-  if (dp) dp.onchange = async () => { try { await db.update('editais', { id: 'eq.' + ed.id }, { data_prova: dp.value || null }); ed.data_prova = dp.value || null; render(el); } catch (e) { toast(e.message, 'erro'); } };
+  if (dp) {
+    // Só aceita uma data completa e futura (o campo de data dispara eventos enquanto se digita o ano)
+    const valida = (v) => /^\d{4}-\d{2}-\d{2}$/.test(v) && Number(v.slice(0, 4)) >= h.getFullYear() && Number(v.slice(0, 4)) <= 2100 && parseISO(v) >= h;
+    const atualiza = () => { const v = dp.value; el.querySelector('#faltam').innerHTML = valida(v) ? `Faltam <b>${Math.round((parseISO(v) - h) / 864e5)}</b> dias para a prova` : v ? 'Data inválida' : 'Defina a data da prova'; };
+    dp.oninput = atualiza;
+    const salva = async () => {
+      const v = dp.value || null;
+      if (v && !valida(v)) return toast('Escolha uma data futura completa (dia, mês e ano).', 'erro');
+      try { await db.update('editais', { id: 'eq.' + ed.id }, { data_prova: v }); ed.data_prova = v; const e2 = S.editais.find((x) => x.id === ed.id); if (e2) e2.data_prova = v; toast(v ? 'Data da prova salva!' : 'Data removida.'); render(el); } catch (e) { toast(e.message, 'erro'); }
+    };
+    el.querySelector('#dpOk').onclick = salva;
+    dp.onkeydown = (e) => { if (e.key === 'Enter') salva(); };
+  }
 
   const topById = new Map(S.topicos.map((t) => [t.id, t]));
   const grafico = (v) => {
@@ -77,7 +176,7 @@ export async function render(el) {
     let cols = [];
     if (v === 'hoje') {
       const m = new Map();
-      for (const l of S.logs.filter((l) => l.data === iso(h))) { const k = topById.get(l.topico_id)?.materia || 'Outros'; const a = m.get(k) || [0, 0]; a[0] += l.feitas; a[1] += l.acertos; m.set(k, a); }
+      for (const l of S.logs.filter((l) => l.data === iso(h))) { const k = topById.get(l.topico_id)?.materia || l.materia || 'Outros'; const a = m.get(k) || [0, 0]; a[0] += l.feitas; a[1] += l.acertos; m.set(k, a); }
       cols = [...m].map(([k, [f, a]]) => [k, pct(a, f), `${a}/${f}`]);
     } else {
       const n = v === 'semana' ? 7 : 30;
@@ -90,8 +189,15 @@ export async function render(el) {
   };
   el.querySelectorAll('#visoes button').forEach((b) => (b.onclick = () => grafico(b.dataset.v)));
   grafico('hoje');
+  resumo(0);
 
   const mats = new Map();
-  for (const l of S.logs) { const k = topById.get(l.topico_id)?.materia || 'Outros'; const a = mats.get(k) || [0, 0]; a[0] += l.feitas; a[1] += l.acertos; mats.set(k, a); }
+  for (const l of S.logs) { const k = topById.get(l.topico_id)?.materia || l.materia || 'Outros'; const a = mats.get(k) || [0, 0]; a[0] += l.feitas; a[1] += l.acertos; mats.set(k, a); }
   el.querySelector('#pormat').innerHTML = [...mats].sort((a, b) => b[1][0] - a[1][0]).map(([k, [f, a]]) => { const p = pct(a, f); return `<div style="margin:10px 0"><div class="row"><span>${esc(k)}</span><span class="sp"></span><span class="${corPct(p)}"><b>${p}%</b></span><span class="muted">${a}/${f}</span></div><div class="bar"><div class="bar-in" style="width:${p}%;background:${p >= 70 ? 'var(--verde)' : p >= 60 ? '#F59E0B' : 'var(--vermelho)'}"></div></div></div>`; }).join('') || '<p class="muted">Sem questões ainda.</p>';
+}
+
+function sugHTML(lista) {
+  if (!lista.length) return '<p class="muted">Nenhuma revisão urgente agora. Continue registrando suas questões para o site analisar seus pontos fracos.</p>';
+  return lista.map((s) => `<div class="sug"><div><b>${esc(s.tp.materia)}</b> — ${esc(s.tp.topico.length > 90 ? s.tp.topico.slice(0, 90) + '…' : s.tp.topico)}<div class="mot">${esc(s.motivo)}</div></div>
+    <div class="row" style="gap:6px"><a class="btn sec mini" href="#/questoes?topico=${s.tp.id}">Questões</a><button class="btn mini" data-ag="${s.tp.id}">Agendar revisão</button></div></div>`).join('');
 }

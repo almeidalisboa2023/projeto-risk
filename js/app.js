@@ -2,11 +2,15 @@ import { auth, MODO_DEMO } from './backend.js';
 import { S, carregarTudo, trocarEdital, isAdmin } from './state.js';
 import { esc } from './util.js';
 import { toast, loading } from './ui.js';
+import { flutuante } from './crono.js';
 
 const PAGINAS = {
   painel: ['Painel', '⌂', () => import('./pages/painel.js')],
   calendario: ['Calendário', '▦', () => import('./pages/calendario.js')],
+  horas: ['Horas de estudo', '⏱', () => import('./pages/horas.js')],
   questoes: ['Questões', '✎', () => import('./pages/questoes.js')],
+  simulados: ['Simulados', '◎', () => import('./pages/simulados.js')],
+  resumo: ['Resumos', '❐', () => import('./pages/resumo.js')],
   edital: ['Edital', '☰', () => import('./pages/edital.js')],
   agua: ['Hidratação', '◔', () => import('./pages/agua.js')],
   perfil: ['Perfil', '☺', () => import('./pages/perfil.js')],
@@ -31,6 +35,7 @@ async function iniciar() {
   try { await carregarTudo(); } catch (e) { root.innerHTML = `<div class="login"><div class="card"><h2>Não foi possível carregar</h2><p>${esc(e.message)}</p><button class="btn" onclick="location.reload()">Tentar de novo</button></div></div>`; return; }
   if (S.profile.bloqueado) { root.innerHTML = '<div class="login"><div class="card"><h2>Acesso bloqueado</h2><p>Fale com o administrador.</p></div></div>'; return; }
   window.addEventListener('hashchange', rota);
+  window.addEventListener('risk-crono', () => { if (/calendario|painel|horas/.test(location.hash) || !location.hash) rota(); });
   rota();
 }
 
@@ -40,7 +45,7 @@ function layout(atual) {
   return `${MODO_DEMO ? '<div class="demo">Modo demonstração – dados de exemplo salvos só neste navegador</div>' : ''}
   <div class="shell">
     <nav class="side" id="side">
-      <div class="logo">R.I.S.K.<i></i></div>
+      <a class="logo-img" href="#/painel" title="PROJETO R.I.S.K."><img src="img/logo-escuro.webp" alt="PROJETO R.I.S.K."></a>
       ${ativos.length ? `<select id="selEdital" aria-label="Edital">${ativos.map((e) => `<option value="${e.id}" ${e.id === S.edital?.id ? 'selected' : ''}>${esc(e.concurso)}</option>`).join('')}</select>` : ''}
       <div class="grupo">Geral</div>
       ${itens.map(([k, [n, ic]]) => `<a class="item ${k === atual ? 'ativo' : ''}" href="#/${k}"><span>${ic}</span>${n}</a>`).join('')}
@@ -58,6 +63,7 @@ async function rota() {
   const [nome, query] = (location.hash.replace(/^#\/?/, '') || 'painel').split('?');
   const k = PAGINAS[nome] && (nome !== 'admin' || isAdmin()) ? nome : 'painel';
   root.innerHTML = layout(k);
+  document.title = `${PAGINAS[k][0]} · PROJETO R.I.S.K.`;
   document.getElementById('burger').onclick = () => document.getElementById('side').classList.toggle('aberto');
   document.getElementById('btnSair').onclick = (e) => { e.preventDefault(); auth.signOut(); location.hash = ''; location.reload(); };
   document.getElementById('btnTema').onclick = (e) => { e.preventDefault(); alternaTema(); rota(); };
@@ -72,13 +78,14 @@ async function rota() {
     el.innerHTML = `<div class="card"><h3>Algo deu errado</h3><p class="muted">${esc(e.message)}</p></div>`;
   }
   window.scrollTo(0, 0);
+  flutuante();
 }
 export const recarregar = rota;
 
 function telaLogin(modo = 'entrar') {
   root.innerHTML = `<div class="login"><div class="card">
-    <div class="logo" style="padding:0 0 6px;font-size:1.6rem">PROJETO R.I.S.K.<i></i></div>
-    <p class="muted" style="margin-top:0">Gestão de aprendizagem para concursos</p>
+    <div class="login-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></div>
+    <p class="muted" style="margin-top:0;text-align:center">Plano de estudos, questões e simulados para concursos</p>
     <form id="f">
       ${modo === 'criar' ? '<div class="campo"><label>Seu nome</label><input name="nome" required style="width:100%"></div>' : ''}
       <div class="campo"><label>E-mail</label><input name="email" type="email" required autocomplete="email" style="width:100%"></div>
@@ -113,3 +120,4 @@ function telaNovaSenha() {
 }
 
 iniciar();
+if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});

@@ -53,6 +53,14 @@ Exporte do Base44 as tabelas **Edital, EditalMateria, WeeklyTask, QuestionLog** 
 2. No Supabase: **Edge Functions → Deploy a new function → Via Editor**, nome `gerar-questoes`, cole o conteúdo de `supabase/functions/gerar-questoes/index.ts` e faça o deploy.
 3. **Edge Functions → Secrets**: crie `ANTHROPIC_API_KEY` com a sua chave. Opcional: `ANTHROPIC_MODEL` (modelo Claude a usar) e `LIMITE_DIARIO` (padrão 5 pedidos por aluno por dia).
 
+## Atualizações do banco
+Rode **uma vez** `supabase/atualizacao-04.sql` no SQL Editor (já inclui as atualizações 02 e 03; pode repetir sem problema).
+Ao subir arquivos novos no GitHub, o `js/config.js` NÃO vem no pacote, para não apagar suas chaves.
+
+## Resumos com IA
+Edge Functions → Deploy a new function → Via Editor → nome `gerar-resumo` → cole `supabase/functions/gerar-resumo/index.ts` → Deploy.
+Precisa do segredo `ANTHROPIC_API_KEY` (Edge Functions → Secrets). Opcional: `LIMITE_RESUMOS` (padrão 5 por aluno por dia).
+
 ## Testar sem Supabase
 Abra o site com `?demo` no final do endereço (ex.: `projeto-risk.vercel.app/?demo`): usa dados de exemplo salvos só no navegador.
 
