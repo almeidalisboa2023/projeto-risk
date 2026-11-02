@@ -414,3 +414,14 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .tema-federal .bloco > .row:first-of-type { padding-right: 140px; }
 .tema-federal .tema-tit { text-transform: uppercase; letter-spacing: .04em; }
 .tema-federal .tema-selo { background: #0F1A2C; color: #C9A227; border: 2px solid #C9A227; }
+
+/* Calendário do cronômetro (painel) */
+.crono-sem { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; margin-top: 12px; }
+.cs-dia { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 8px 4px; border: 1px solid var(--borda); border-radius: 10px; text-align: center; min-width: 0; }
+.cs-dia b { font-size: 14px; }
+.cs-dia span { font-size: 11px; opacity: .75; white-space: nowrap; }
+.cs-barra { width: 100%; max-width: 28px; height: 90px; border-radius: 6px; background: rgba(127,127,127,.15); display: flex; align-items: flex-end; overflow: hidden; }
+.cs-barra > div { width: 100%; background: var(--ouro); border-radius: 6px 6px 0 0; min-height: 0; transition: height .3s; }
+.cs-dia.hoje { border-color: var(--ouro); box-shadow: 0 0 0 1px var(--ouro) inset; }
+.cs-dia.futuro { opacity: .45; }
+@media (max-width: 520px) { .crono-sem { gap: 4px; } .cs-dia { padding: 6px 2px; } .cs-dia b { font-size: 12px; } .cs-barra { height: 70px; } }
