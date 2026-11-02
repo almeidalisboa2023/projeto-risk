@@ -13,6 +13,7 @@ export async function carregarTudo() {
   S.editais = await db.select('editais', { user_id: 'eq.' + S.user.id, order: 'created_at.asc' });
   S.sessoes = await db.selectAll('sessoes_estudo', { user_id: 'eq.' + S.user.id, order: 'data.asc' }).catch(() => []);
   const ativos = S.editais.filter((e) => e.ativo !== false);
+  S.pendentes = S.profile.role === 'admin' ? (await db.select('profiles', { status: 'eq.pendente', select: 'id' }).catch(() => [])).length : 0;
   S.edital = ativos.find((e) => e.id === S.profile.edital_atual) || ativos[0] || null;
   await carregarEdital();
   S.ready = true;

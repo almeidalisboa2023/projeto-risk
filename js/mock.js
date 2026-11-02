@@ -46,7 +46,7 @@ function seed() {
   const sessoes = [];
   for (let k = 0; k < 20; k++) { const tp = tops[k % 7]; sessoes.push({ id: uid(), user_id: USER.id, edital_id: ed, tarefa_id: null, materia: tp.materia, data: iso(addDias(hoje(), -k)), minutos: 30 + (k % 4) * 20, origem: k % 5 ? 'cronometro' : 'manual', obs: null, created_at: new Date().toISOString() }); }
   return {
-    profiles: [{ id: USER.id, email: USER.email, nome: 'Lucas Matheus', role: 'admin', lingua: 'espanhol', blocos: [{ hora: '08:00', min: 50 }, { hora: '09:00', min: 50 }, { hora: '21:00', min: 50 }], meta_agua: 4000, edital_atual: ed, meta_questoes: 30, revisao_auto: true, cpf: '12345678909' }],
+    profiles: [{ id: USER.id, email: USER.email, nome: 'Lucas Matheus', role: 'admin', lingua: 'espanhol', blocos: [{ hora: '08:00', min: 50 }, { hora: '09:00', min: 50 }, { hora: '21:00', min: 50 }], meta_agua: 4000, edital_atual: ed, meta_questoes: 30, revisao_auto: true, cpf: '12345678909', status: 'aprovado' }, { id: uid(), email: 'novo.aluno@gmail.com', nome: 'Aluno Novo', role: 'aluno', status: 'pendente', created_at: new Date().toISOString() }],
     editais: [{ id: ed, user_id: USER.id, concurso: 'PRF 2027', cargo: 'Policial Rodoviário Federal', banca: 'Cebraspe', formato: 'certo_errado', data_prova: null, data_inicio: inicio, cor: 'rosa', ativo: true }],
     topicos: tops, tarefas, question_logs: logs, questoes, respostas: [], reportes: [], agua: [], simulados: [], ia_pedidos: [], provas: [], sessoes_estudo: sessoes, resumos: [],
   };
@@ -84,7 +84,7 @@ const espera = () => new Promise((r) => setTimeout(r, 60));
 export const auth = {
   get user() { return USER; },
   async signIn() { return USER; }, async signUp() { return { user: USER }; }, async resetPassword() {}, async updatePassword() {},
-  fromUrlHash() { return null; }, async loadUser() { return USER; }, signOut() { localStorage.removeItem(KEY); D = null; location.reload(); },
+  fromUrlHash() { return null; }, signInGoogle() { alert('No modo demonstração o login com Google não funciona.'); }, async loadUser() { return USER; }, signOut() { localStorage.removeItem(KEY); D = null; location.reload(); },
 };
 export const db = {
   async select(table, params = {}, { count = false, range } = {}) {

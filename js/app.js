@@ -29,7 +29,9 @@ async function iniciar() {
   S.user = u;
   if (tipo === 'recovery') return telaNovaSenha();
   try { await carregarTudo(); } catch (e) { root.innerHTML = `<div class="login"><div class="card"><h2>Não foi possível carregar</h2><p>${esc(e.message)}</p><button class="btn" onclick="location.reload()">Tentar de novo</button></div></div>`; return; }
-  if (S.profile.bloqueado) { root.innerHTML = '<div class="login"><div class="card"><h2>Acesso bloqueado</h2><p>Fale com o administrador.</p></div></div>'; return; }
+  if (S.profile.bloqueado) return telaAviso('Acesso bloqueado', 'Fale com o administrador do Projeto R.I.S.K.');
+  if (S.profile.role !== 'admin' && S.profile.status === 'pendente') return telaAviso('Cadastro em análise', `Olá, ${esc((S.profile.nome || '').split(' ')[0] || 'tudo bem')}! Recebemos o seu cadastro (${esc(S.user.email)}). O administrador precisa aprovar o acesso. Volte mais tarde ou clique em “Verificar de novo”.`, true);
+  if (S.profile.role !== 'admin' && S.profile.status === 'recusado') return telaAviso('Cadastro não aprovado', 'O seu cadastro não foi aprovado pelo administrador. Se acha que foi um engano, entre em contato.');
   window.addEventListener('hashchange', rota);
   window.addEventListener('risk-crono', () => { if (/calendario|painel|horas/.test(location.hash) || !location.hash) rota(); });
   rota();
@@ -44,7 +46,7 @@ function layout(atual) {
       <a class="logo-img" href="#/painel" title="PROJETO R.I.S.K."><img src="img/logo-escuro.webp" alt="PROJETO R.I.S.K."></a>
       ${ativos.length ? `<select id="selEdital" aria-label="Edital">${ativos.map((e) => `<option value="${e.id}" ${e.id === S.edital?.id ? 'selected' : ''}>${esc(e.concurso)}</option>`).join('')}</select>` : ''}
       <div class="grupo">Geral</div>
-      ${itens.map(([k, [n, ic]]) => `<a class="item ${k === atual ? 'ativo' : ''}" href="#/${k}"><span>${ic}</span>${n}</a>`).join('')}
+      ${itens.map(([k, [n, ic]]) => `<a class="item ${k === atual ? 'ativo' : ''}" href="#/${k}"><span>${ic}</span>${n}${k === 'admin' && S.pendentes ? `<span class="badge">${S.pendentes}</span>` : ''}</a>`).join('')}
       <div class="rodape">
         <div style="padding:0 8px 8px">${esc(S.profile.nome || S.user.email)}<br><span style="opacity:.6;font-size:12px">${S.profile.role === 'admin' ? 'Administrador' : 'Aluno'}</span></div>
         <a class="item" href="#" id="btnTema">◐ <span>${tema() === 'dark' ? 'Modo claro' : 'Modo noturno'}</span></a>
@@ -81,18 +83,22 @@ export const recarregar = rota;
 function telaLogin(modo = 'entrar') {
   root.innerHTML = `<div class="login"><div class="card">
     <div class="login-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></div>
-    <p class="muted" style="margin-top:0;text-align:center">Plano de estudos, questões e simulados para concursos</p>
+    <p class="login-frase">Organizador de estudos</p>
+    ${modo !== 'esqueci' ? `<button class="btn sec btn-google" id="google" type="button"><svg width="18" height="18" viewBox="0 0 48 48" aria-hidden="true"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.7 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.4-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.7 15.1 19 12 24 12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-7.9l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 38.2 44 33 44 24c0-1.3-.1-2.4-.4-3.5z"/></svg> ${modo === 'criar' ? 'Cadastrar com Google' : 'Entrar com Google'}</button>
+    <div class="ou"><span>ou com e-mail</span></div>` : '<p class="muted" style="text-align:center">Informe seu e-mail para receber o link de troca de senha.</p>'}
     <form id="f">
       ${modo === 'criar' ? '<div class="campo"><label>Seu nome</label><input name="nome" required style="width:100%"></div>' : ''}
       <div class="campo"><label>E-mail</label><input name="email" type="email" required autocomplete="email" style="width:100%"></div>
       ${modo !== 'esqueci' ? `<div class="campo"><label>Senha</label><input name="senha" type="password" required minlength="6" autocomplete="${modo === 'criar' ? 'new-password' : 'current-password'}" style="width:100%"></div>` : ''}
       <button class="btn" style="width:100%">${{ entrar: 'Entrar', criar: 'Criar conta', esqueci: 'Enviar link para trocar a senha' }[modo]}</button>
     </form>
+    ${modo === 'criar' ? '<p class="muted" style="font-size:13px;text-align:center;margin:10px 0 0">Todo cadastro passa pela aprovação do administrador antes de liberar o acesso.</p>' : ''}
     <div class="row" style="margin-top:12px;justify-content:space-between">
       ${modo !== 'entrar' ? '<button class="linkbtn" data-m="entrar">Já tenho conta</button>' : '<button class="linkbtn" data-m="criar">Criar conta</button>'}
       ${modo === 'entrar' ? '<button class="linkbtn" data-m="esqueci">Esqueci a senha</button>' : ''}
     </div></div></div>`;
   root.querySelectorAll('[data-m]').forEach((b) => (b.onclick = () => telaLogin(b.dataset.m)));
+  const g = root.querySelector('#google'); if (g) g.onclick = () => auth.signInGoogle();
   root.querySelector('#f').onsubmit = async (e) => {
     e.preventDefault();
     const f = Object.fromEntries(new FormData(e.target));
@@ -101,10 +107,19 @@ function telaLogin(modo = 'entrar') {
       if (modo === 'entrar') { await auth.signIn(f.email, f.senha); location.reload(); }
       else if (modo === 'criar') {
         const r = await auth.signUp(f.email, f.senha, f.nome);
-        if (r.access_token) location.reload(); else { toast('Conta criada! Confirme pelo link que enviamos ao seu e-mail.'); telaLogin('entrar'); }
+        if (r.access_token) location.reload(); else { toast('Conta criada! Confirme pelo link enviado ao seu e-mail. Depois, o administrador aprova o seu acesso.'); telaLogin('entrar'); }
       } else { await auth.resetPassword(f.email); toast('Se o e-mail existir, enviamos o link.'); telaLogin('entrar'); }
     } catch (err) { toast(err.message, 'erro'); b.disabled = false; }
   };
+}
+
+function telaAviso(titulo, texto, verificar = false) {
+  root.innerHTML = `<div class="login"><div class="card" style="text-align:center">
+    <div class="login-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></div>
+    <h2>${esc(titulo)}</h2><p class="muted">${texto}</p>
+    <div class="row" style="justify-content:center;margin-top:14px">${verificar ? '<button class="btn" id="avV">Verificar de novo</button>' : ''}<button class="btn sec" id="avS">Sair</button></div></div></div>`;
+  root.querySelector('#avS').onclick = () => { auth.signOut(); location.hash = ''; location.reload(); };
+  const v = root.querySelector('#avV'); if (v) v.onclick = () => location.reload();
 }
 
 function telaNovaSenha() {

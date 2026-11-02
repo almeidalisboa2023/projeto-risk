@@ -102,6 +102,10 @@ export const auth = {
       session.user = u; save(session); return u;
     } catch { save(null); return null; }
   },
+  // Login com Google (Supabase OAuth): volta para o site com #access_token=...
+  signInGoogle() {
+    location.href = `${SUPABASE_URL}/auth/v1/authorize?provider=google&redirect_to=${encodeURIComponent(location.origin + location.pathname)}`;
+  },
   signOut() { save(null); },
 };
 
