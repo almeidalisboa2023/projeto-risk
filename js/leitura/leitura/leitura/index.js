@@ -6,18 +6,19 @@ import penal from './penal.js';
 import processo from './processo-penal.js';
 import portugues from './portugues.js';
 import rlm from './rlm.js';
+import administrativo from './administrativo.js';
 import { APROFUNDA } from './aprofunda.js';
 import { JURIS } from './juris.js';
 
 // Cor e ícone de cada matéria (quadro colorido da página de leitura)
 const VISUAL = {
   portugues: ['#2E7D4F', '📝'], rlm: ['#E67E22', '🧮'], constitucional: ['#2B6CB0', '🏛'],
-  penal: ['#C8102E', '⚖️'], 'processo-penal': ['#7B3FA0', '🔎'], transito: ['#D4A017', '🚦'],
+  penal: ['#C8102E', '⚖️'], administrativo: ['#0F766E', '🗂'], 'processo-penal': ['#7B3FA0', '🔎'], transito: ['#D4A017', '🚦'],
 };
 // Ordem do quadro; processo penal vem antes de penal para "Direito Penal e Processual Penal" achar os dois
 const junta = (a, x) => (x ? { ...a, aprof: (a.aprof || '') + (x.html || ''), quiz: [...(a.quiz || []), ...(x.quiz || [])] } : a);
 const aprofundar = (m) => ({ ...m, assuntos: m.assuntos.map((a) => junta(junta(a, APROFUNDA[m.id]?.[a.id]), JURIS[m.id]?.[a.id])) });
-export const MATERIAS = [portugues, rlm, constitucional, processo, penal, transito].map((m) => ({ ...aprofundar(m), cor: VISUAL[m.id]?.[0] || '#6B6458', ico: VISUAL[m.id]?.[1] || '📖', atualizado: m.atualizado || 'novembro de 2026' }));
+export const MATERIAS = [portugues, rlm, constitucional, administrativo, processo, penal, transito].map((m) => ({ ...aprofundar(m), cor: VISUAL[m.id]?.[0] || '#6B6458', ico: VISUAL[m.id]?.[1] || '📖', atualizado: m.atualizado || 'novembro de 2026' }));
 
 // Todas as matérias cujo nome bate com o nome usado no edital (ex.: "Língua Portuguesa", "Português", "Noções de Direito Penal")
 export function materiasDe(nome) {

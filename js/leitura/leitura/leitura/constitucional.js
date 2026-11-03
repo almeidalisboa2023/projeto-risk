@@ -10,7 +10,7 @@ const E = (p, e) => ({ p, c: false, e });
 export default {
   id: 'constitucional',
   nome: 'Direito Constitucional',
-  apelidos: ['constitucional'],
+  apelidos: ['constitucional', 'constituicao federal'],
   lei: 'https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm',
   assuntos: [
     {
