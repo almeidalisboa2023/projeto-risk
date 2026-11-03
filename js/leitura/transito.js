@@ -1,6 +1,10 @@
 // Leitura R.I.S.K. — Legislação de Trânsito (CTB, Lei 9.503/1997). Texto original, escrito a partir da lei.
 // Ordem = ordem de estudo (sequência dos capítulos do CTB).
 import { EXTRAS, NOVOS, ORDEM } from './transito-extra.js';
+import { AULA1 } from './transito-aula1.js';
+import { AULA2 } from './transito-aula2.js';
+import { AULA3 } from './transito-aula3.js';
+const AULA = { ...AULA1, ...AULA2, ...AULA3 };
 const LEI = 'https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm';
 const peg = (t) => `<div class="lt-peg"><b class="lt-tit">⚠ Pegadinha</b> ${t}</div>`;
 const box = (tit, t) => `<div class="lt-box"><b class="lt-tit">${tit}</b>${t}</div>`;
@@ -300,4 +304,5 @@ const todos = [...BASE.assuntos, ...NOVOS].map((a) => {
   const i = a.html.indexOf('</p>');
   return { ...a, html: i > 0 ? a.html.slice(0, i + 4) + x.fig + a.html.slice(i + 4) : x.fig + a.html, quiz: x.quiz };
 });
-export default { ...BASE, assuntos: ORDEM.map((id) => todos.find((a) => a.id === id)).filter(Boolean) };
+const comAula = todos.map((a) => (AULA[a.id] ? { ...a, html: a.html + AULA[a.id].html, quiz: [...(a.quiz || []), ...AULA[a.id].quiz] } : a));
+export default { ...BASE, atualizado: 'novembro de 2026 · aula completa', assuntos: ORDEM.map((id) => comAula.find((a) => a.id === id)).filter(Boolean) };

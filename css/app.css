@@ -526,3 +526,4 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 #ctbTab .btn.on { background: var(--c, var(--ouro)); color: #fff; border-color: transparent; }
 .lt-pares { list-style: none; padding-left: 0; } .lt-pares li { padding: 6px 10px; margin: 6px 0; border-left: 3px solid var(--verde); background: rgba(46,125,79,.06); border-radius: 6px; } .lt-pares li s { color: var(--vermelho); text-decoration-thickness: 1.5px; } .lt-corpo h4 { margin: 1.1em 0 .3em; font-size: 1.02em; }
 .lt-pares li.so-erro { border-left-color: var(--vermelho); background: rgba(192,57,43,.06); }
+.lt-corpo h3.lt-aula{margin-top:2em;padding:8px 12px;border-left:0;border-radius:10px;background:color-mix(in srgb,var(--c,var(--ouro)) 14%,transparent);color:var(--c,var(--ouro))}
