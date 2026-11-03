@@ -1,5 +1,8 @@
 // Leitura R.I.S.K. — Direito Constitucional (CF/1988). Texto original, escrito a partir da Constituição.
 import { cartoes, passos, COR } from './figuras.js';
+import { AULA } from './constitucional-aula.js';
+import { NOVOS1 } from './constitucional-novos1.js';
+import { NOVOS2 } from './constitucional-novos2.js';
 
 const peg = (t) => `<div class="lt-peg"><b class="lt-tit">⚠ Pegadinha</b> ${t}</div>`;
 const box = (tit, t) => `<div class="lt-box"><b class="lt-tit">${tit}</b>${t}</div>`;
@@ -7,7 +10,7 @@ const dica = (t) => `<div class="lt-dica"><b class="lt-tit">💡 Dica de memoriz
 const C = (p, e) => ({ p, c: true, e });
 const E = (p, e) => ({ p, c: false, e });
 
-export default {
+const BASE = {
   id: 'constitucional',
   nome: 'Direito Constitucional',
   apelidos: ['constitucional', 'constituicao federal'],
@@ -31,7 +34,7 @@ ${peg('O voto <b>obrigatório</b> não é cláusula pétrea. Pétreo é o voto <
     },
     {
       id: 'direitos-individuais', titulo: 'Direitos e deveres individuais e coletivos', arts: 'art. 5º',
-      chaves: ['direitos e deveres individuais', 'direito a vida', 'deveres individuais e coletivos'],
+      chaves: ['direitos fundamentais', 'direitos e deveres individuais', 'direito a vida', 'deveres individuais e coletivos'],
       html: `
 <h3>Em poucas palavras</h3>
 <p>O art. 5º garante a <b>brasileiros e estrangeiros residentes</b> (e, segundo o STF, também aos não residentes) a inviolabilidade do direito à <b>vida, liberdade, igualdade, segurança e propriedade</b>.</p>
@@ -98,7 +101,7 @@ ${peg('Militares não podem fazer greve nem se sindicalizar (art. 142, §3º, IV
     },
     {
       id: 'nacionalidade', titulo: 'Nacionalidade, cidadania e direitos políticos', arts: 'arts. 12 a 16',
-      chaves: ['nacionalidade', 'direitos politicos', 'cidadania e direitos'],
+      chaves: ['partidos politicos', 'nacionalidade', 'direitos politicos', 'cidadania e direitos'],
       html: `
 <h3>Em poucas palavras</h3>
 <p>Quem é <b>brasileiro</b> (nato ou naturalizado), quais cargos só o nato ocupa, quem vota e quem pode ser votado.</p>
@@ -117,7 +120,7 @@ ${peg('Ministro de Estado em geral <b>pode</b> ser naturalizado. Só o Ministro 
     },
     {
       id: 'uniao', titulo: 'Da União: bens e competências', arts: 'arts. 20 a 24',
-      chaves: ['da uniao', 'bens e competencias', 'arts. 20 a 24'],
+      chaves: ['competencias constitucionais', 'reparticao de competencias', 'da uniao', 'bens e competencias', 'arts. 20 a 24'],
       html: `
 <h3>Em poucas palavras</h3>
 <p>Quais bens pertencem à União e como a Constituição distribui as competências entre os entes federativos.</p>
@@ -176,7 +179,7 @@ ${peg('No estado de <b>defesa</b>, o Presidente decreta e depois submete ao Cong
     },
     {
       id: 'ordem-social', titulo: 'Ordem social: base, objetivos e seguridade social', arts: 'arts. 193 a 204',
-      chaves: ['seguridade social', 'base e objetivos'],
+      chaves: ['ordem social', 'seguridade social', 'base e objetivos'],
       html: `
 <h3>Em poucas palavras</h3>
 <p>A ordem social tem como <b>base o primado do trabalho</b> e como <b>objetivo o bem-estar e a justiça sociais</b> (art. 193). A <b>seguridade social</b> reúne três áreas (art. 194):</p>
@@ -208,3 +211,7 @@ ${peg('A gratuidade no transporte coletivo urbano é para maiores de <b>65 anos<
     },
   ],
 };
+
+const ORDEM = ['teoria-constituicao', 'poder-constituinte', 'principios-fundamentais', 'direitos-individuais', 'garantias', 'remedios', 'sociais', 'nacionalidade', 'organizacao-estado', 'uniao', 'administracao-publica', 'legislativo', 'executivo', 'judiciario', 'funcoes-essenciais', 'controle', 'defesa-estado', 'tributario', 'ordem-economica', 'ordem-social', 'ordem-social-2'];
+const todos = [...BASE.assuntos, ...NOVOS1, ...NOVOS2].map((a) => (AULA[a.id] ? { ...a, html: a.html + AULA[a.id].html, quiz: [...(a.quiz || []), ...AULA[a.id].quiz] } : a));
+export default { ...BASE, atualizado: 'novembro de 2026 · aula completa', assuntos: ORDEM.map((id) => todos.find((a) => a.id === id)).filter(Boolean) };
