@@ -13,7 +13,9 @@ export async function render(el) {
   el.innerHTML = `<div class="mono up">Administrador</div><h1>Painel do administrador</h1>
     <div class="card" id="cad">${loading()}</div>
     <div class="card" style="margin-top:16px" id="migra"></div>
-    <div class="card" style="margin-top:16px" id="alunos">${loading()}</div>`;
+    <div class="card" style="margin-top:16px" id="alunos">${loading()}</div>
+    <div class="card" style="margin-top:16px" id="reps"></div>`;
+  reportes(el.querySelector('#reps'));
   const atual = async () => { await Promise.all([cadastros(el.querySelector('#cad'), atual), alunos(el.querySelector('#alunos'), atual)]); };
   migracao(el.querySelector('#migra'));
   await atual();
@@ -175,4 +177,13 @@ async function alunos(box, atual) {
   box.querySelectorAll('[data-datas]').forEach((b) => (b.onclick = () => ajustarDatas(eds.find((x) => x.id === b.dataset.datas), () => alunos(box, atual))));
   box.querySelectorAll('[data-bl]').forEach((b) => (b.onclick = () => { const p = ps.find((x) => x.id === b.dataset.bl); up(p.id, { bloqueado: !p.bloqueado }); }));
   box.querySelectorAll('[data-adm]').forEach((b) => (b.onclick = () => { const p = ps.find((x) => x.id === b.dataset.adm); if (confirm('Alterar o perfil deste usuário?')) up(p.id, { role: p.role === 'admin' ? 'aluno' : 'admin', status: 'aprovado' }); }));
+}
+
+// ---------- ERROS REPORTADOS NA LEITURA ----------
+async function reportes(box) {
+  let lista = [];
+  try { lista = (await db.select('reportes', { order: 'created_at.desc', limit: 200 })).filter((r) => !r.resolvido); } catch { lista = []; }
+  box.innerHTML = `<h3 style="margin-top:0">⚑ Erros reportados na leitura</h3>
+    ${lista.length ? lista.map((r) => `<div class="row" style="border-top:1px solid var(--borda);padding:8px 0;align-items:flex-start"><div style="flex:1"><div class="muted" style="font-size:12px">${esc(String(r.created_at || '').slice(0, 10).split('-').reverse().join('/'))}</div>${esc(r.texto || '')}</div><button class="btn sec mini" data-ok="${r.id}">Resolvido</button></div>`).join('') : '<p class="muted">Nenhum erro pendente.</p>'}`;
+  box.querySelectorAll('[data-ok]').forEach((b) => (b.onclick = async () => { try { await db.update('reportes', { id: 'eq.' + b.dataset.ok }, { resolvido: true }); reportes(box); } catch (e) { toast(e.message, 'erro'); } }));
 }

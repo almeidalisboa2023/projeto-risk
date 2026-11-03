@@ -6,21 +6,27 @@ import penal from './penal.js';
 import processo from './processo-penal.js';
 import portugues from './portugues.js';
 import rlm from './rlm.js';
+import administrativo from './administrativo.js';
+import belovale from './belovale.js';
+import { S } from '../state.js';
 import { APROFUNDA } from './aprofunda.js';
+import { JURIS } from './juris.js';
 
 // Cor e ícone de cada matéria (quadro colorido da página de leitura)
 const VISUAL = {
   portugues: ['#2E7D4F', '📝'], rlm: ['#E67E22', '🧮'], constitucional: ['#2B6CB0', '🏛'],
-  penal: ['#C8102E', '⚖️'], 'processo-penal': ['#7B3FA0', '🔎'], transito: ['#D4A017', '🚦'],
+  penal: ['#C8102E', '⚖️'], administrativo: ['#0F766E', '🗂'], belovale: ['#1E3A8A', '🏘'], 'processo-penal': ['#7B3FA0', '🔎'], transito: ['#D4A017', '🚦'],
 };
 // Ordem do quadro; processo penal vem antes de penal para "Direito Penal e Processual Penal" achar os dois
-const aprofundar = (m) => ({ ...m, assuntos: m.assuntos.map((a) => { const x = APROFUNDA[m.id]?.[a.id]; return x ? { ...a, html: a.html + x.html, quiz: [...(a.quiz || []), ...(x.quiz || [])] } : a; }) });
-export const MATERIAS = [portugues, rlm, constitucional, processo, penal, transito].map((m) => ({ ...aprofundar(m), cor: VISUAL[m.id]?.[0] || '#6B6458', ico: VISUAL[m.id]?.[1] || '📖' }));
+const junta = (a, x) => (x ? { ...a, aprof: (a.aprof || '') + (x.html || ''), quiz: [...(a.quiz || []), ...(x.quiz || [])] } : a);
+const aprofundar = (m) => ({ ...m, assuntos: m.assuntos.map((a) => junta(junta(a, APROFUNDA[m.id]?.[a.id]), JURIS[m.id]?.[a.id])) });
+export const MATERIAS = [portugues, rlm, constitucional, administrativo, processo, penal, transito, belovale].map((m) => ({ ...aprofundar(m), cor: VISUAL[m.id]?.[0] || '#6B6458', ico: VISUAL[m.id]?.[1] || '📖', atualizado: m.atualizado || 'novembro de 2026' }));
 
 // Todas as matérias cujo nome bate com o nome usado no edital (ex.: "Língua Portuguesa", "Português", "Noções de Direito Penal")
 export function materiasDe(nome) {
   const m = norm(nome);
-  return MATERIAS.filter((x) => x.apelidos.some((a) => m.includes(a)));
+  const ed = norm([S.edital?.concurso, S.edital?.cargo].filter(Boolean).join(' '));
+  return MATERIAS.filter((x) => (!x.soEdital || ed.includes(x.soEdital)) && x.apelidos.some((a) => m.includes(a)));
 }
 export const materiaDe = (nome) => materiasDe(nome)[0] || null;
 
@@ -38,7 +44,7 @@ export function acharLeitura(materia, topico) {
   const mats = materiasDe(materia);
   let r = mats.length ? melhorAssunto(mats, t) : null;
   // Edital com nome de matéria diferente (ex.: "Conhecimentos Básicos"): procura pelo assunto em todas, com chaves longas
-  if (!r && !mats.length) r = melhorAssunto(MATERIAS, t, 9);
+  if (!r && !mats.length) r = melhorAssunto(MATERIAS.filter((x) => !x.soEdital), t, 9);
   if (r) return { mat: r.mat, a: r.a, link: `#/leitura?a=${r.mat.id}/${r.a.id}`, rotulo: r.a.titulo };
   if (mats.length) return { mat: mats[0], a: null, link: `#/leitura?a=${mats[0].id}/`, rotulo: mats[0].nome };
   return null;

@@ -3,7 +3,7 @@
 import { cartoes, COR } from './figuras.js';
 import { peg, box, ex, juris, banca, C, E } from './blocos.js';
 
-const T = (t) => `<h3 class="lt-aprof">🔬 Aprofundamento</h3>${t}`;
+const T = (t) => t;
 
 export const APROFUNDA = {
   penal: {

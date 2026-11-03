@@ -1,7 +1,9 @@
 // Leitura interativa: quadro colorido de matérias → índice de tópicos → texto com questões. Aberta a todos os alunos.
 import { S } from '../state.js';
-import { esc, norm } from '../util.js';
-import { MATERIAS, materiasDe } from '../leitura/index.js';
+import { esc, norm, iso, hoje } from '../util.js';
+import { db } from '../backend.js';
+import { toast, modal } from '../ui.js';
+import { MATERIAS, materiasDe, acharLeitura } from '../leitura/index.js';
 
 const ler = (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } };
 const gravar = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} };
@@ -58,10 +60,22 @@ function leitura(el, q, mat, idx) {
       <div class="row"><span class="pill">${idx + 1} de ${mat.assuntos.length}</span><span class="pill">${esc(a.arts || '')}</span><span class="sp"></span>
         <button class="btn sec mini" id="ltMenos" title="Diminuir letra">A−</button><button class="btn sec mini" id="ltMais" title="Aumentar letra">A+</button></div>
       <h2 style="margin:10px 0 4px">${esc(a.titulo)}</h2>
-      <div class="lt-corpo" style="font-size:${fonte}px">${a.html}</div>
-      ${a.quiz?.length ? `<div class="lt-quiz"><h3>🎯 Teste seu conhecimento</h3><p class="muted" style="margin-top:0">Julgue os itens como <b>Certo</b> ou <b>Errado</b>. <span id="ltPlacar"></span></p>
+      <p class="muted" style="font-size:12.5px;margin:0 0 8px">Atualizado em ${esc(mat.atualizado)} · <button class="linkbtn" id="ltErro">⚑ Reportar erro neste texto</button></p>
+      <div class="abas lt-abas" id="ltAbas">
+        <button data-aba="ess" class="on">📘 Essencial</button>
+        ${a.aprof ? '<button data-aba="apr">🔬 Aprofundamento</button>' : ''}
+        <button data-aba="jur" hidden>⚖ Jurisprudência</button>
+        ${a.quiz?.length ? `<button data-aba="qst">🎯 Questões (${a.quiz.length})</button>` : ''}
+      </div>
+      <div class="lt-corpo" style="font-size:${fonte}px">
+        <section data-pane="ess">${a.html}</section>
+        ${a.aprof ? `<section data-pane="apr" hidden>${a.aprof}</section>` : ''}
+        <section data-pane="jur" hidden><p class="muted">Súmulas e decisões dos tribunais superiores que mais caem sobre este tópico. Confira sempre se houve mudança recente de entendimento.</p></section>
+      </div>
+      ${a.quiz?.length ? `<section data-pane="qst" hidden><div class="lt-quiz"><h3>🎯 Teste seu conhecimento</h3><p class="muted" style="margin-top:0">Julgue os itens como <b>Certo</b> ou <b>Errado</b>. <span id="ltPlacar"></span></p>
         ${a.quiz.map((x, i) => `<div class="lt-q" data-q="${i}"><p><span class="mono">${i + 1}.</span> ${esc(x.p)}</p>
-          <div class="row"><button class="btn sec mini" data-r="1">Certo</button><button class="btn sec mini" data-r="0">Errado</button></div><div class="lt-q-res"></div></div>`).join('')}</div>` : ''}
+          <div class="row"><button class="btn sec mini" data-r="1">Certo</button><button class="btn sec mini" data-r="0">Errado</button></div><div class="lt-q-res"></div></div>`).join('')}
+        <div class="row" style="margin-top:12px"><button class="btn mini" id="ltSalvar" disabled>Salvar no meu desempenho</button><span class="muted" style="font-size:13px">Responda todas para salvar. O resultado entra nos seus pontos fracos e revisões.</span></div></div></section>` : ''}
       ${mat.lei ? `<p class="muted" style="font-size:13px;margin-top:18px">Material de estudo do Projeto R.I.S.K. Confira sempre o <a href="${mat.lei}" target="_blank" rel="noopener">texto oficial atualizado</a>.</p>` : ''}
       <div class="row" style="margin-top:12px">
         <button class="btn ${L.has(k) ? 'sec' : ''}" id="ltLido">${L.has(k) ? '✓ Lido (desmarcar)' : 'Marcar como lido'}</button><span class="sp"></span>
@@ -71,22 +85,49 @@ function leitura(el, q, mat, idx) {
   </div>`;
 
   const $ = (s) => el.querySelector(s);
+  // Jurisprudência: junta os blocos espalhados no texto numa aba própria
+  const jur = $('[data-pane="jur"]');
+  el.querySelectorAll('[data-pane="ess"] .lt-juris, [data-pane="apr"] .lt-juris').forEach((j) => jur.appendChild(j));
+  if (jur.querySelector('.lt-juris')) $('[data-aba="jur"]').hidden = false;
+  el.querySelectorAll('#ltAbas [data-aba]').forEach((b) => (b.onclick = () => {
+    el.querySelectorAll('#ltAbas [data-aba]').forEach((y) => y.classList.toggle('on', y === b));
+    el.querySelectorAll('[data-pane]').forEach((p) => (p.hidden = p.dataset.pane !== b.dataset.aba));
+  }));
+  if (typeof a.montar === 'function') a.montar(el);
+  $('#ltErro').onclick = () => modal(`<h3>Reportar erro</h3><p class="muted" style="font-size:14px">${esc(mat.nome)} › ${esc(a.titulo)}</p>
+    <textarea id="erT" style="min-height:120px" placeholder="Descreva o erro: o trecho, o que está errado e, se souber, a fonte correta."></textarea><button class="btn" id="erE" style="margin-top:8px">Enviar</button>`, {
+    onMount: (m, close) => (m.querySelector('#erE').onclick = async () => {
+      const t = m.querySelector('#erT').value.trim(); if (!t) return toast('Descreva o erro.', 'erro');
+      try { await db.insert('reportes', [{ user_id: S.user.id, texto: `[Leitura · ${mat.nome} › ${a.titulo}] ${t}` }]); toast('Obrigado! O erro foi enviado para revisão.'); close(); } catch (e) { toast(e.message, 'erro'); }
+    }),
+  });
   const fonteAjusta = (d) => { fonte = Math.min(24, Math.max(14, fonte + d)); gravar('risk-fonte', fonte); $('.lt-corpo').style.fontSize = fonte + 'px'; };
   $('#ltMenos').onclick = () => fonteAjusta(-1);
   $('#ltMais').onclick = () => fonteAjusta(1);
   $('#ltSel').onchange = () => { location.hash = ir(Number($('#ltSel').value)); };
   let certos = 0, feitas = 0;
   const placar = () => { const p = $('#ltPlacar'); if (p) p.textContent = feitas ? `Placar: ${certos}/${feitas}` : ''; };
-  el.querySelectorAll('.lt-q').forEach((box) => {
+  el.querySelectorAll('.lt-q[data-q]').forEach((box) => {
     const x = a.quiz[Number(box.dataset.q)];
     box.querySelectorAll('[data-r]').forEach((b) => (b.onclick = () => {
       const ok = (b.dataset.r === '1') === x.c;
-      feitas++; if (ok) certos++; placar();
+      feitas++; if (ok) certos++; placar(); const sv = $('#ltSalvar'); if (sv) sv.disabled = feitas < a.quiz.length;
       box.querySelectorAll('[data-r]').forEach((y) => { y.disabled = true; y.classList.toggle('lt-marcado', y === b); });
       box.classList.add(ok ? 'ok' : 'erro');
       box.querySelector('.lt-q-res').innerHTML = `<b>${ok ? '✅ Você acertou!' : '❌ Não foi dessa vez.'}</b> Gabarito: <b>${x.c ? 'CERTO' : 'ERRADO'}</b>. ${esc(x.e)}<div><button class="linkbtn" data-de-novo>Responder de novo</button></div>`;
       box.querySelector('[data-de-novo]').onclick = () => { feitas--; if (ok) certos--; placar(); box.classList.remove('ok', 'erro'); box.querySelector('.lt-q-res').innerHTML = ''; box.querySelectorAll('[data-r]').forEach((y) => { y.disabled = false; y.classList.remove('lt-marcado'); }); };
     }));
   });
+  const sv = $('#ltSalvar');
+  if (sv) sv.onclick = async () => {
+    // liga ao tópico do edital do aluno que corresponde a esta leitura, se houver
+    const tp = (S.topicos || []).find((t) => { const r = acharLeitura(t.materia, t.topico); return r?.a && r.mat.id === mat.id && r.a.id === a.id; });
+    sv.disabled = true;
+    try {
+      const [log] = await db.insert('question_logs', [{ user_id: S.user.id, edital_id: S.edital?.id || null, topico_id: tp?.id || null, materia: tp?.materia || mat.nome, data: iso(hoje()), feitas, acertos: certos, origem: 'app' }]);
+      if (log) S.logs.push(log);
+      toast(`Resultado salvo: ${certos}/${feitas}.`);
+    } catch (e) { toast(e.message, 'erro'); sv.disabled = false; }
+  };
   $('#ltLido').onclick = () => { const s = lidos(); s.has(k) ? s.delete(k) : s.add(k); gravar(chave(), [...s]); render(el, q); };
 }

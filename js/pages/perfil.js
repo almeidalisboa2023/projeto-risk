@@ -6,10 +6,11 @@ import { recarregar } from '../app.js';
 import { TEMAS, temaDoEdital } from '../temas.js';
 
 export async function render(el) {
+  el.addEventListener('click', (e) => { if (e.target.id === 'pfSair') { e.preventDefault(); auth.signOut(); location.hash = ''; location.reload(); } });
   const p = S.profile;
   const blocos = Array.isArray(p.blocos) && p.blocos.length ? p.blocos : [{ hora: '08:00', min: 50 }, { hora: '09:00', min: 50 }, { hora: '21:00', min: 50 }];
   const duvidas = S.tarefas.filter((t) => t.duvida);
-  el.innerHTML = `<div class="mono up">Perfil</div><h1>${esc(p.nome || '')}</h1>
+  el.innerHTML = `<div class="row"><div class="mono up">Perfil</div><span class="sp"></span><button class="btn sec mini" id="pfSair">⎋ Sair da conta</button></div><h1>${esc(p.nome || '')}</h1>
   <div class="grid g2">
     <div class="card"><h3>Seus dados</h3>
       <div class="campo"><label>Nome</label><input id="nome" value="${esc(p.nome || '')}" style="width:100%"></div>

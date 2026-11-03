@@ -1,5 +1,6 @@
 // Complementos de Legislação de Trânsito: ilustrações e questões dos textos existentes + capítulos que faltavam.
 import { placa, desenho, figuras, cartoes, passos, COR } from './figuras.js';
+import { TABELA } from './transito-tabela.js';
 
 const peg = (t) => `<div class="lt-peg"><b class="lt-tit">⚠ Pegadinha</b> ${t}</div>`;
 const box = (tit, t) => `<div class="lt-box"><b class="lt-tit">${tit}</b>${t}</div>`;
@@ -86,6 +87,7 @@ export const EXTRAS = {
 
 // Capítulos que faltavam
 export const NOVOS = [
+  TABELA,
   {
     id: 'snt', titulo: 'Sistema Nacional de Trânsito', arts: 'arts. 5º a 25',
     chaves: ['sistema nacional de transito', 'sistema nacional'],
@@ -168,7 +170,7 @@ ${figuras([[desenho.documento('REGISTRO DO VEÍCULO', 'CRV'), 'CRV: propriedade 
 <h3>Novo CRV é obrigatório quando (art. 123)</h3>
 ${cartoes([['🤝', 'Transferência de propriedade', 'prazo de 30 dias', '#C8102E'], ['🏠', 'Mudança de município', 'providência imediata', '#2B6CB0'], ['🔧', 'Alteração de característica', 'providência imediata', '#E67E22'], ['🏷', 'Mudança de categoria', 'providência imediata', '#2E7D4F']])}
 <ul><li>Não se expede novo CRV sem quitar <b>tributos, encargos e multas</b> (art. 128).</li><li>Veículo <b>irrecuperável</b> ou destinado a desmonte: o proprietário pede a <b>baixa</b> do registro, e é proibido remontá-lo sobre o mesmo chassi para manter o registro anterior (art. 126).</li><li>Veículos de <b>propulsão humana</b> e de <b>tração animal</b> seguem a legislação <b>municipal</b> (art. 129).</li></ul>
-${box('Infração ligada', '<p>Não registrar no prazo de 30 dias nas hipóteses do art. 123: art. 233, infração <b>grave</b>, com retenção do veículo para regularização.</p>')}
+${box('Infração ligada', '<p>Não registrar no prazo de 30 dias nas hipóteses do art. 123: art. 233, infração <b>média</b>, com <b>remoção</b> do veículo (redação atual do CTB).</p>')}
 ${peg('Os <b>30 dias</b> valem para a <b>transferência de propriedade</b>. Nos demais casos (mudança de município, característica ou categoria), as providências devem ser <b>imediatas</b>.')}`,
     quiz: [C('Na transferência de propriedade, o prazo para as providências de expedição do novo CRV é de 30 dias.', 'Art. 123, §1º.'), E('A mudança de município de domicílio do proprietário dispensa a expedição de novo CRV.', 'A mudança de município exige novo CRV (art. 123, II).')],
   },
@@ -204,4 +206,4 @@ ${peg('A remoção dos veículos só é autorizada se eles estiverem no <b>leito
 ];
 
 // Ordem de estudo final
-export const ORDEM = ['preliminares', 'snt', 'circulacao', 'profissionais', 'pedestres', 'cidadao', 'educacao', 'sinalizacao', 'engenharia', 'veiculos', 'registro', 'licenciamento', 'escolares', 'motofrete', 'habilitacao', 'infracoes', 'medidas', 'processo', 'crimes-gerais', 'crimes-especie', 'finais', 'lei5970'];
+export const ORDEM = ['preliminares', 'snt', 'circulacao', 'profissionais', 'pedestres', 'cidadao', 'educacao', 'sinalizacao', 'engenharia', 'veiculos', 'registro', 'licenciamento', 'escolares', 'motofrete', 'habilitacao', 'infracoes', 'tabela-infracoes', 'medidas', 'processo', 'crimes-gerais', 'crimes-especie', 'finais', 'lei5970'];
