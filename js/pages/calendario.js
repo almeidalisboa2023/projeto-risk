@@ -7,6 +7,7 @@ import { adicionarBloco, editarBloco, gerarSemana, incluirSemana } from './monta
 import { corrigirAtrasos, atrasados } from './replanejar.js';
 import { revisoesEspacadas, dataTarefa } from '../revisoes.js';
 import * as crono from '../crono.js';
+import { acharLeitura } from '../leitura/index.js';
 import { TEMAS, temaAtual, progressoHTML } from '../temas.js';
 import { topicosValidos } from '../state.js';
 
@@ -101,6 +102,7 @@ export async function render(el) {
       </div>
       ${itens.map(([k, txt, auto]) => `<label class="check"><input type="checkbox" data-k="${k}" ${cl[k] || auto ? 'checked' : ''}> ${esc(txt)}</label>`).join('')}
       ${t.duvida ? `<div class="muted" style="font-size:13px">📝 ${esc(t.duvida)}</div>` : ''}
+      ${(() => { const lt = acharLeitura(tp?.materia || t.materia, (tp?.topico || '') + ' ' + (t.topico || '')); return lt ? `<div class="row" style="margin-top:10px"><a class="btn sec mini" href="${lt.link}">📖 Ler o assunto: ${esc(lt.a.titulo)}</a></div>` : ''; })()}
       <div class="row" style="margin-top:10px"><span class="crono ${rodando ? 'rodando' : ''}">⏱ ${rodando ? 'Cronômetro rodando' : `Tempo estudado: ${crono.fmtMin(t.minutos || 0)}`}</span><button class="btn sec mini" data-a="crono">${rodando ? '■ Parar' : '▶ Iniciar cronômetro'}</button></div>
       <div class="row" style="margin-top:12px">
         <button class="btn bl-btn" data-a="concluir" ${t.concluido ? 'title="Clique para reabrir"' : ''}>${T ? (t.concluido ? T.feito : T.btn) : t.concluido ? 'Reabrir bloco' : 'Concluí o bloco'}</button>
