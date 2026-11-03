@@ -1,10 +1,11 @@
 // Leitura R.I.S.K. — Legislação de Trânsito (CTB, Lei 9.503/1997). Texto original, escrito a partir da lei.
 // Ordem = ordem de estudo (sequência dos capítulos do CTB).
+import { EXTRAS, NOVOS, ORDEM } from './transito-extra.js';
 const LEI = 'https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm';
-const peg = (t) => `<div class="lt-peg"><b>⚠ Pegadinha</b> ${t}</div>`;
-const box = (tit, t) => `<div class="lt-box"><b>${tit}</b>${t}</div>`;
+const peg = (t) => `<div class="lt-peg"><b class="lt-tit">⚠ Pegadinha</b> ${t}</div>`;
+const box = (tit, t) => `<div class="lt-box"><b class="lt-tit">${tit}</b>${t}</div>`;
 
-export default {
+const BASE = {
   id: 'transito',
   nome: 'Legislação de Trânsito',
   apelidos: ['transito', 'ctb', 'legislacao de transito', 'codigo de transito'],
@@ -291,3 +292,12 @@ ${peg('Dinheiro de multa <b>não</b> pode ir para despesas gerais do órgão. O 
     },
   ],
 };
+
+// Junta ilustrações e questões, inclui os capítulos novos e põe tudo na ordem de estudo
+const todos = [...BASE.assuntos, ...NOVOS].map((a) => {
+  const x = EXTRAS[a.id];
+  if (!x) return a;
+  const i = a.html.indexOf('</p>');
+  return { ...a, html: i > 0 ? a.html.slice(0, i + 4) + x.fig + a.html.slice(i + 4) : x.fig + a.html, quiz: x.quiz };
+});
+export default { ...BASE, assuntos: ORDEM.map((id) => todos.find((a) => a.id === id)).filter(Boolean) };
