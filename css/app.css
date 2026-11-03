@@ -517,3 +517,9 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .lt-formula.lt-inline { display: inline; padding: 1px 6px; white-space: normal; }
 .lt-tv td.v { color: var(--verde); font-weight: 700; } .lt-tv td.f { color: var(--vermelho); font-weight: 700; } .lt-tv td, .lt-tv th { text-align: center; }
 .lt-corpo h3.lt-aprof { margin-top: 2em; padding: 8px 12px; border-left: 0; border-radius: 10px; background: color-mix(in srgb, var(--c, var(--ouro)) 14%, transparent); color: var(--c, var(--ouro)); }
+.lt-abas { margin: 8px 0 14px; flex-wrap: wrap; }
+.lt-abas button.on { background: var(--c, var(--ouro)); color: #fff; }
+.lt-nat { display: inline-block; padding: 2px 8px; border-radius: 20px; font-size: 12px; font-weight: 700; color: #fff; background: var(--n); white-space: nowrap; }
+.lt-inf td { vertical-align: top; font-size: 13.5px; }
+.lt-corpo .lt-inf td b { color: inherit; }
+#ctbTab .btn.on { background: var(--c, var(--ouro)); color: #fff; border-color: transparent; }
