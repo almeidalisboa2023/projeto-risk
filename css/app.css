@@ -487,3 +487,33 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .lt-q.erro { border-color: var(--vermelho); background: rgba(192,57,43,.08); }
 .lt-q-res { font-size: 14px; margin-top: 8px; line-height: 1.5; }
 .lt-q .btn.lt-marcado { outline: 2px solid var(--ouro); }
+
+/* Leitura: quadro de matérias */
+.lt-materias { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; margin-top: 14px; }
+.lt-mat { position: relative; display: flex; flex-direction: column; gap: 4px; padding: 18px 16px 16px; border-radius: 16px; text-decoration: none; color: #fff; background: linear-gradient(135deg, var(--c), color-mix(in srgb, var(--c) 70%, #000)); box-shadow: 0 6px 16px color-mix(in srgb, var(--c) 35%, transparent); transition: transform .15s, box-shadow .15s; min-height: 140px; }
+.lt-mat:hover { transform: translateY(-3px); box-shadow: 0 10px 22px color-mix(in srgb, var(--c) 45%, transparent); }
+.lt-mat-ico { font-size: 34px; line-height: 1; }
+.lt-mat b { font-size: 18px; margin-top: 6px; }
+.lt-mat small { opacity: .9; font-size: 13px; }
+.lt-mat .lt-mat-bar { background: rgba(255,255,255,.3); margin-top: auto; }
+.lt-mat .lt-mat-bar > div { background: #fff; }
+.lt-mat-bar { height: 6px; border-radius: 4px; background: rgba(127,127,127,.2); overflow: hidden; }
+.lt-mat-bar > div { height: 100%; background: var(--c, var(--ouro)); border-radius: 4px; }
+.lt-mat-tag { position: absolute; top: 12px; right: 12px; background: rgba(255,255,255,.92); color: #111; font-size: 11px; font-weight: 700; padding: 3px 8px; border-radius: 20px; }
+.lt-cab { display: flex; align-items: center; gap: 14px; margin: 12px 0 14px; padding: 14px 18px; border-radius: 16px; color: #fff; background: linear-gradient(135deg, var(--c), color-mix(in srgb, var(--c) 70%, #000)); }
+.lt-cab > span { font-size: 40px; }
+.lt-cab .mono { opacity: .85; color: #fff; }
+.lt-cab h1 { color: #fff; }
+.lt-wrap .lt-lista li.on a { color: var(--c); }
+.lt-wrap .lt-corpo h3 { border-left-color: var(--c); }
+.lt-wrap .lt-quiz { border-color: var(--c); }
+.btn.lt-link { border-left: 4px solid var(--c); }
+.lt-ex { border: 1px dashed var(--borda); border-radius: 10px; padding: 10px 14px; margin: 1em 0; background: rgba(127,127,127,.05); }
+.lt-ex > .lt-tit { color: var(--c, var(--ouro)); }
+.lt-juris { border-left: 4px solid #6B6458; background: rgba(107,100,88,.09); border-radius: 10px; padding: 10px 14px; margin: 1em 0; }
+.lt-juris > .lt-tit { color: var(--txt2); }
+.lt-corpo .lt-ex b:not(.lt-tit), .lt-corpo .lt-juris b:not(.lt-tit) { color: inherit; text-decoration: underline; text-decoration-color: var(--ouro); text-decoration-thickness: 2px; text-underline-offset: 3px; }
+.lt-formula { font-family: var(--mono); font-size: .92em; background: var(--hero); border-radius: 8px; padding: 3px 9px; margin: 2px 0; display: inline-block; max-width: 100%; overflow-x: auto; vertical-align: middle; white-space: nowrap; }
+.lt-formula.lt-inline { display: inline; padding: 1px 6px; white-space: normal; }
+.lt-tv td.v { color: var(--verde); font-weight: 700; } .lt-tv td.f { color: var(--vermelho); font-weight: 700; } .lt-tv td, .lt-tv th { text-align: center; }
+.lt-corpo h3.lt-aprof { margin-top: 2em; padding: 8px 12px; border-left: 0; border-radius: 10px; background: color-mix(in srgb, var(--c, var(--ouro)) 14%, transparent); color: var(--c, var(--ouro)); }
