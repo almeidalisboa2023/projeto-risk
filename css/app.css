@@ -25,7 +25,8 @@ h1 { font-size: 2.2rem; } h2 { font-size: 1.5rem; } h3 { font-size: 1.15rem; }
 
 /* layout */
 .shell { display: flex; min-height: 100vh; gap: 16px; padding: 16px; }
-.side { width: 240px; flex-shrink: 0; background: var(--menu); color: var(--menu-txt); border-radius: 24px; padding: 22px 14px; position: sticky; top: 16px; height: calc(100vh - 32px); display: flex; flex-direction: column; }
+.side { width: 240px; flex-shrink: 0; background: var(--menu); color: var(--menu-txt); border-radius: 24px; padding: 22px 14px; position: sticky; top: 16px; height: calc(100vh - 32px); display: flex; flex-direction: column; overflow-y: auto; scrollbar-width: thin; }
+.side .rodape { position: sticky; bottom: -22px; background: var(--menu); padding-bottom: 6px; }
 .logo { font-family: var(--serif); font-size: 1.35rem; font-weight: 600; padding: 0 10px 18px; display: flex; align-items: center; gap: 6px; }
 .logo i { width: 8px; height: 8px; border-radius: 50%; background: var(--rosa); display: inline-block; }
 .side .grupo { font-size: 12px; opacity: .55; padding: 12px 12px 6px; }
