@@ -32,6 +32,9 @@ export async function render(el, q) {
         <button class="btn sec mini" id="ltMenos" title="Diminuir letra">A−</button><button class="btn sec mini" id="ltMais" title="Aumentar letra">A+</button></div>
       <h2 style="margin:10px 0 4px">${esc(a.titulo)}</h2>
       <div class="lt-corpo" style="font-size:${fonte}px">${a.html}</div>
+      ${a.quiz?.length ? `<div class="lt-quiz"><h3>🎯 Teste seu conhecimento</h3><p class="muted" style="margin-top:0">Julgue os itens a seguir como <b>Certo</b> ou <b>Errado</b>, no estilo Cebraspe.</p>
+        ${a.quiz.map((x, i) => `<div class="lt-q" data-q="${i}"><p><span class="mono">${i + 1}.</span> ${esc(x.p)}</p>
+          <div class="row"><button class="btn sec mini" data-r="1">Certo</button><button class="btn sec mini" data-r="0">Errado</button></div><div class="lt-q-res"></div></div>`).join('')}</div>` : ''}
       <p class="muted" style="font-size:13px;margin-top:18px">Resumo do Projeto R.I.S.K. para revisão. Confira sempre a <a href="${mat.lei}" target="_blank" rel="noopener">lei seca atualizada no Planalto</a>.</p>
       <div class="row" style="margin-top:12px">
         <button class="btn ${L.has(k) ? 'sec' : ''}" id="ltLido">${L.has(k) ? '✓ Lido (desmarcar)' : 'Marcar como lido'}</button><span class="sp"></span>
@@ -46,5 +49,15 @@ export async function render(el, q) {
   $('#ltMais').onclick = () => fonteAjusta(1);
   $('#ltSel').onchange = () => { location.hash = ir(Number($('#ltSel').value)); };
   if ($('#ltMat')) $('#ltMat').onchange = () => { location.hash = `#/leitura?a=${$('#ltMat').value}/`; };
+  el.querySelectorAll('.lt-q').forEach((box) => {
+    const x = a.quiz[Number(box.dataset.q)];
+    box.querySelectorAll('[data-r]').forEach((b) => (b.onclick = () => {
+      const ok = (b.dataset.r === '1') === x.c;
+      box.querySelectorAll('[data-r]').forEach((y) => { y.disabled = true; y.classList.toggle('lt-marcado', y === b); });
+      box.classList.add(ok ? 'ok' : 'erro');
+      box.querySelector('.lt-q-res').innerHTML = `<b>${ok ? '✅ Você acertou!' : '❌ Não foi dessa vez.'}</b> Gabarito: <b>${x.c ? 'CERTO' : 'ERRADO'}</b>. ${esc(x.e)}<div><button class="linkbtn" data-de-novo>Responder de novo</button></div>`;
+      box.querySelector('[data-de-novo]').onclick = () => { box.classList.remove('ok', 'erro'); box.querySelector('.lt-q-res').innerHTML = ''; box.querySelectorAll('[data-r]').forEach((y) => { y.disabled = false; y.classList.remove('lt-marcado'); }); };
+    }));
+  });
   $('#ltLido').onclick = () => { const s = lidos(); s.has(k) ? s.delete(k) : s.add(k); salvaLidos(s); render(el, q); };
 }
