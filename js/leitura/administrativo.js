@@ -2,6 +2,9 @@
 import { cartoes, passos, COR } from './figuras.js';
 import { peg, box, dica, ex, juris, banca, C, E } from './blocos.js';
 import { PARTE2 } from './administrativo2.js';
+import { AULA1 } from './administrativo-aula1.js';
+import { AULA2 } from './administrativo-aula2.js';
+const AULA = { ...AULA1, ...AULA2 };
 
 const PARTE1 = [
   {
@@ -147,5 +150,6 @@ ${peg('A Lei 8.112 diz que o estágio probatório dura 24 meses, mas o STF e o S
 export default {
   id: 'administrativo', nome: 'Direito Administrativo', apelidos: ['direito administrativo', 'administrativo', 'administracao publica'],
   lei: 'https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm',
-  assuntos: [...PARTE1, ...PARTE2],
+  atualizado: 'novembro de 2026 · aula completa',
+  assuntos: [...PARTE1, ...PARTE2].map((a) => (AULA[a.id] ? { ...a, html: a.html + AULA[a.id].html, quiz: [...(a.quiz || []), ...AULA[a.id].quiz] } : a)),
 };
