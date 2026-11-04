@@ -4,6 +4,11 @@ import { AULA } from './constitucional-aula.js';
 import { NOVOS1 } from './constitucional-novos1.js';
 import { NOVOS2 } from './constitucional-novos2.js';
 import { PEC } from './constitucional-pec.js';
+import { Q1 } from './constitucional-q1.js';
+import { Q2 } from './constitucional-q2.js';
+import { Q3 } from './constitucional-q3.js';
+import { Q4 } from './constitucional-q4.js';
+const BANCO = { ...Q1, ...Q2, ...Q3, ...Q4 };
 
 const peg = (t) => `<div class="lt-peg"><b class="lt-tit">⚠ Pegadinha</b> ${t}</div>`;
 const box = (tit, t) => `<div class="lt-box"><b class="lt-tit">${tit}</b>${t}</div>`;
@@ -215,5 +220,5 @@ ${peg('A gratuidade no transporte coletivo urbano é para maiores de <b>65 anos<
 
 const ORDEM = ['teoria-constituicao', 'poder-constituinte', 'principios-fundamentais', 'direitos-individuais', 'garantias', 'remedios', 'sociais', 'nacionalidade', 'organizacao-estado', 'uniao', 'administracao-publica', 'legislativo', 'executivo', 'judiciario', 'funcoes-essenciais', 'controle', 'defesa-estado', 'tributario', 'ordem-economica', 'ordem-social', 'ordem-social-2'];
 const todos = [...BASE.assuntos, ...NOVOS1, ...NOVOS2].map((a) => (AULA[a.id] ? { ...a, html: a.html + AULA[a.id].html, quiz: [...(a.quiz || []), ...AULA[a.id].quiz] } : a));
-const comPec = todos.map((a) => (PEC[a.id] ? { ...a, html: a.html + PEC[a.id].html, quiz: [...a.quiz, ...PEC[a.id].quiz] } : a));
+const comPec = todos.map((a) => (PEC[a.id] ? { ...a, html: a.html + PEC[a.id].html, quiz: [...a.quiz, ...PEC[a.id].quiz] } : a)).map((a) => ({ ...a, quiz: [...a.quiz, ...(BANCO[a.id] || [])] }));
 export default { ...BASE, atualizado: 'novembro de 2026 · aula completa + PEC da Segurança Pública', assuntos: ORDEM.map((id) => comPec.find((a) => a.id === id)).filter(Boolean) };

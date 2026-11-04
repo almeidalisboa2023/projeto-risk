@@ -8,3 +8,5 @@ export const banca = (t) => `<div class="lt-box"><b class="lt-tit">🎯 Como a b
 export const formula = (t) => `<code class="lt-formula">${t}</code>`;
 export const C = (p, e) => ({ p, c: true, e });
 export const E = (p, e) => ({ p, c: false, e });
+// Múltipla escolha: M('enunciado', ['A', 'B', 'C', 'D', 'E'], índice da correta (0 = A), 'comentário')
+export const M = (p, alts, r, e) => ({ p, alts, r, e });

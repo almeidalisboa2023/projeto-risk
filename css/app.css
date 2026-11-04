@@ -529,3 +529,13 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .lt-corpo h3.lt-aula{margin-top:2em;padding:8px 12px;border-left:0;border-radius:10px;background:color-mix(in srgb,var(--c,var(--ouro)) 14%,transparent);color:var(--c,var(--ouro))}
 .lt-corpo h3.lt-pec{background:color-mix(in srgb,#C8102E 12%,transparent);color:#C8102E}
 .lt-pec-st{font-size:.92em;padding:8px 12px;border-radius:8px;background:color-mix(in srgb,#C8102E 6%,transparent)}
+.lt-qbar { gap: 8px; align-items: center; margin: 6px 0 4px; }
+.lt-qbar select { width: auto; padding: 6px 10px; }
+.lt-alts { display: grid; gap: 6px; }
+.lt-alt { text-align: left; padding: 9px 12px; border-radius: 10px; border: 1px solid var(--borda); background: var(--card); color: inherit; font: inherit; font-size: .95em; cursor: pointer; line-height: 1.4; }
+.lt-alt b { display: inline-block; min-width: 1.4em; color: var(--c, var(--ouro)); }
+.lt-alt:hover:not(:disabled) { border-color: var(--c, var(--ouro)); }
+.lt-alt:disabled { cursor: default; }
+.lt-alt.lt-marcado { outline: 2px solid var(--ouro); }
+.lt-alt.lt-certa { border-color: var(--verde); background: rgba(46,125,79,.12); }
+.lt-tipo { font-size: 11px; text-transform: uppercase; letter-spacing: .04em; padding: 2px 6px; border-radius: 6px; background: color-mix(in srgb, var(--c, var(--ouro)) 15%, transparent); color: var(--c, var(--ouro)); }
