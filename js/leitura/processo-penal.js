@@ -1,8 +1,11 @@
 // Leitura R.I.S.K. — Direito Processual Penal (CPP e leis correlatas). Texto original.
 import { cartoes, passos, COR } from './figuras.js';
 import { peg, box, dica, ex, juris, banca, C, E } from './blocos.js';
+import { Q1 } from './pp-q1.js';
+import { Q2 } from './pp-q2.js';
+const BANCO = { ...Q1, ...Q2 };
 
-export default {
+const BASE = {
   id: 'processo-penal', nome: 'Direito Processual Penal', apelidos: ['processual penal', 'processo penal'],
   lei: 'https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm',
   assuntos: [
@@ -252,3 +255,4 @@ ${peg('A identificação criminal envolve os processos <b>datiloscópico e fotog
     },
   ],
 };
+export default { ...BASE, atualizado: 'novembro de 2026 · 50 questões por tópico', assuntos: BASE.assuntos.map((a) => ({ ...a, quiz: [...(a.quiz || []), ...(BANCO[a.id] || [])] })) };

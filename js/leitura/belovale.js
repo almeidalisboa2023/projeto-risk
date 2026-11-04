@@ -2,12 +2,26 @@
 // Escrito a partir dos textos enviados pelo administrador (Lei Orgânica digitada em 2012 e Estatuto digitalizado).
 import { cartoes, passos, COR } from './figuras.js';
 import { peg, box, dica, ex, C, E } from './blocos.js';
+import Q_organizacao from './bvq-organizacao.js';
+import Q_bens from './bvq-bens.js';
+import Q_administracao from './bvq-administracao.js';
+import Q_legislativo from './bvq-legislativo.js';
+import Q_executivo from './bvq-executivo.js';
+import Q_financas from './bvq-financas.js';
+import Q_provimento from './bvq-provimento.js';
+import Q_vacancia from './bvq-vacancia.js';
+import Q_disciplinar from './bvq-disciplinar.js';
+import Q_pad from './bvq-pad.js';
+import Q_transitorias from './bvq-transitorias.js';
+
+const BANCO = { 'lom-organizacao': Q_organizacao, 'lom-bens-servicos': Q_bens, 'lom-administracao': Q_administracao, 'lom-legislativo': Q_legislativo, 'lom-executivo': Q_executivo, 'lom-financas': Q_financas, 'est-provimento': Q_provimento, 'est-vacancia-direitos': Q_vacancia, 'est-regime-disciplinar': Q_disciplinar, 'est-pad': Q_pad, 'est-transitorias': Q_transitorias };
+
 
 const fonte = (t) => `<p class="muted" style="font-size:13px">📄 Fonte: ${t}</p>`;
 const LOM = 'Lei Orgânica do Município de Belo Vale (texto digitado em 2012)';
 const EST = 'Lei Complementar nº 1.173/2006 (Estatuto dos Servidores Públicos de Belo Vale)';
 
-export default {
+const BASE = {
   id: 'belovale', nome: 'Legislação Municipal · Belo Vale', soEdital: 'belo vale',
   apelidos: ['legislacao municipal', 'lei organica', 'estatuto'],
   assuntos: [
@@ -213,3 +227,5 @@ ${peg('O quinquênio e a licença-prêmio são regras de <b>transição</b>: val
     },
   ],
 };
+
+export default { ...BASE, atualizado: 'novembro de 2026 · 50 questões por tópico', assuntos: BASE.assuntos.map((a) => ({ ...a, quiz: [...(a.quiz || []), ...(BANCO[a.id] || [])] })) };

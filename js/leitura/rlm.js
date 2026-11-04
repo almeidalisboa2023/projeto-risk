@@ -1,10 +1,11 @@
 // Leitura R.I.S.K. — Raciocínio Lógico-Matemático (para qualquer edital). Texto original, exemplos resolvidos.
 import { cartoes, passos, COR } from './figuras.js';
 import { peg, box, dica, ex, banca, formula as F, C, E } from './blocos.js';
+import { QRLM } from './rlm-q.js';
 
 const tv = (cab, linhas) => `<table class="tab lt-tv"><tr>${cab.map((c) => `<th>${c}</th>`).join('')}</tr>${linhas.map((l) => `<tr>${l.map((v) => `<td class="${v === 'V' ? 'v' : v === 'F' ? 'f' : ''}">${v}</td>`).join('')}</tr>`).join('')}</table>`;
 
-export default {
+const BASE = {
   id: 'rlm', nome: 'Raciocínio Lógico-Matemático', apelidos: ['raciocinio', 'logica', 'matematica', 'rlm'],
   assuntos: [
     {
@@ -263,3 +264,4 @@ ${peg('Dobrar o raio de um círculo <b>quadruplica</b> a área (r² vira 4r²), 
     },
   ],
 };
+export default { ...BASE, atualizado: 'novembro de 2026 · 50 questões por tópico', assuntos: BASE.assuntos.map((a) => ({ ...a, quiz: [...(a.quiz || []), ...(QRLM[a.id] || [])] })) };

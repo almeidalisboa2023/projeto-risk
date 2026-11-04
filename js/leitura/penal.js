@@ -1,5 +1,9 @@
 // Leitura R.I.S.K. — Direito Penal (Código Penal, parte geral e crimes do edital). Texto original.
 import { cartoes, passos, COR } from './figuras.js';
+import { Q1 } from './penal-q1.js';
+import { Q2 } from './penal-q2.js';
+
+const BANCO = { ...Q1, ...Q2 };
 
 const peg = (t) => `<div class="lt-peg"><b class="lt-tit">⚠ Pegadinha</b> ${t}</div>`;
 const box = (tit, t) => `<div class="lt-box"><b class="lt-tit">${tit}</b>${t}</div>`;
@@ -7,7 +11,7 @@ const dica = (t) => `<div class="lt-dica"><b class="lt-tit">💡 Dica de memoriz
 const C = (p, e) => ({ p, c: true, e });
 const E = (p, e) => ({ p, c: false, e });
 
-export default {
+const BASE = {
   id: 'penal',
   nome: 'Direito Penal',
   apelidos: ['direito penal'],
@@ -178,3 +182,5 @@ ${peg('Mercadoria <b>proibida</b> é contrabando. Mercadoria <b>permitida</b>, s
 function table() {
   return `<table class="tab"><tr><th>Excludente</th><th>Palavra-chave</th></tr><tr><td>Estado de necessidade</td><td><b>Perigo</b> atual</td></tr><tr><td>Legítima defesa</td><td><b>Agressão</b> injusta</td></tr><tr><td>Estrito cumprimento</td><td><b>Dever</b> legal</td></tr><tr><td>Exercício regular</td><td><b>Direito</b></td></tr></table>`;
 }
+
+export default { ...BASE, atualizado: 'novembro de 2026 · 50 questões por tópico', assuntos: BASE.assuntos.map((a) => ({ ...a, quiz: [...(a.quiz || []), ...(BANCO[a.id] || [])] })) };
