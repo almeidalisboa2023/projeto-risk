@@ -3,6 +3,7 @@ import { cartoes, passos, COR } from './figuras.js';
 import { AULA } from './constitucional-aula.js';
 import { NOVOS1 } from './constitucional-novos1.js';
 import { NOVOS2 } from './constitucional-novos2.js';
+import { PEC } from './constitucional-pec.js';
 
 const peg = (t) => `<div class="lt-peg"><b class="lt-tit">⚠ Pegadinha</b> ${t}</div>`;
 const box = (tit, t) => `<div class="lt-box"><b class="lt-tit">${tit}</b>${t}</div>`;
@@ -158,7 +159,7 @@ ${peg('Na vacância dos dois cargos nos <b>últimos 2 anos</b>, a eleição é <
     },
     {
       id: 'defesa-estado', titulo: 'Defesa do Estado: Forças Armadas e segurança pública', arts: 'arts. 136 a 144',
-      chaves: ['defesa do estado', 'forcas armadas', 'seguranca publica'],
+      chaves: ['pec da seguranca', 'defesa do estado', 'forcas armadas', 'seguranca publica'],
       html: `
 <h3>Em poucas palavras</h3>
 <p>Instrumentos para crises (<b>estado de defesa</b> e <b>estado de sítio</b>) e as instituições que defendem o país e a ordem: <b>Forças Armadas</b> e <b>órgãos de segurança pública</b>. É o capítulo da PRF na Constituição.</p>
@@ -214,4 +215,5 @@ ${peg('A gratuidade no transporte coletivo urbano é para maiores de <b>65 anos<
 
 const ORDEM = ['teoria-constituicao', 'poder-constituinte', 'principios-fundamentais', 'direitos-individuais', 'garantias', 'remedios', 'sociais', 'nacionalidade', 'organizacao-estado', 'uniao', 'administracao-publica', 'legislativo', 'executivo', 'judiciario', 'funcoes-essenciais', 'controle', 'defesa-estado', 'tributario', 'ordem-economica', 'ordem-social', 'ordem-social-2'];
 const todos = [...BASE.assuntos, ...NOVOS1, ...NOVOS2].map((a) => (AULA[a.id] ? { ...a, html: a.html + AULA[a.id].html, quiz: [...(a.quiz || []), ...AULA[a.id].quiz] } : a));
-export default { ...BASE, atualizado: 'novembro de 2026 · aula completa', assuntos: ORDEM.map((id) => todos.find((a) => a.id === id)).filter(Boolean) };
+const comPec = todos.map((a) => (PEC[a.id] ? { ...a, html: a.html + PEC[a.id].html, quiz: [...a.quiz, ...PEC[a.id].quiz] } : a));
+export default { ...BASE, atualizado: 'novembro de 2026 · aula completa + PEC da Segurança Pública', assuntos: ORDEM.map((id) => comPec.find((a) => a.id === id)).filter(Boolean) };
