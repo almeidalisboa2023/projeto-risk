@@ -5,6 +5,9 @@ import { PARTE2 } from './administrativo2.js';
 import { AULA1 } from './administrativo-aula1.js';
 import { AULA2 } from './administrativo-aula2.js';
 const AULA = { ...AULA1, ...AULA2 };
+import { Q1 } from './administrativo-q1.js';
+import { Q2 } from './administrativo-q2.js';
+const BANCO = { ...Q1, ...Q2 };
 
 const PARTE1 = [
   {
@@ -151,5 +154,5 @@ export default {
   id: 'administrativo', nome: 'Direito Administrativo', apelidos: ['direito administrativo', 'administrativo', 'administracao publica'],
   lei: 'https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm',
   atualizado: 'novembro de 2026 · aula completa',
-  assuntos: [...PARTE1, ...PARTE2].map((a) => (AULA[a.id] ? { ...a, html: a.html + AULA[a.id].html, quiz: [...(a.quiz || []), ...AULA[a.id].quiz] } : a)),
+  assuntos: [...PARTE1, ...PARTE2].map((a) => (AULA[a.id] ? { ...a, html: a.html + AULA[a.id].html, quiz: [...(a.quiz || []), ...AULA[a.id].quiz] } : a)).map((a) => ({ ...a, quiz: [...(a.quiz || []), ...(BANCO[a.id] || [])] })),
 };
