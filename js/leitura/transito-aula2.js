@@ -68,14 +68,14 @@ ${peg('Esquecer o documento é <b>leve</b> (art. 232). Não ter licenciado é <b
     html: A(`
 <h3>Fiscalização do transporte escolar</h3>
 <table class="tab"><tr><th>Irregularidade</th><th>Infração</th></tr>
-<tr><td>Conduzir escolares sem a autorização</td><td>art. 230, XX, média</td></tr>
+<tr><td>Conduzir escolares sem a autorização</td><td>art. 230, XX, gravíssima (multa 5x, remoção)</td></tr>
 <tr><td>Porta aberta com o veículo em movimento</td><td>art. 250, IV, gravíssima, retenção</td></tr>
 <tr><td>Ultrapassar pela direita escolar parado para embarque, sem refúgio</td><td>art. 200, gravíssima</td></tr>
 <tr><td>Excesso de lotação</td><td>art. 231, VII, média, retenção</td></tr>
 <tr><td>Tacógrafo defeituoso</td><td>art. 230, XIV, grave, retenção</td></tr></table>
-${ex('<p>Uma van escolar com 15 lugares leva 18 crianças: lotação excedente (média, retenção). Se o motorista tiver só CNH categoria B: dirige veículo de categoria diferente (art. 162, III, gravíssima, multa 2x), além de não cumprir o art. 138.</p>', 'Caso prático')}
+${ex('<p>Uma van escolar com 15 lugares leva 18 crianças: lotação excedente (gravíssima, remoção do veículo, art. 231, VII). Se o motorista tiver só CNH categoria B: dirige veículo de categoria diferente (art. 162, III, gravíssima, multa 2x), além de não cumprir o art. 138.</p>', 'Caso prático')}
 ${peg('Ultrapassar pela direita ônibus escolar parado é <b>gravíssima</b>; ultrapassar pela direita outro veículo qualquer é <b>média</b> (art. 199).')}`),
-    quiz: [C('Ultrapassar pela direita veículo de escolares parado para embarque ou desembarque, onde não houver refúgio de segurança, é infração gravíssima.', 'Art. 200.'), E('Conduzir veículo de escolares sem portar a autorização é infração gravíssima.', 'É média (art. 230, XX).')],
+    quiz: [C('Ultrapassar pela direita veículo de escolares parado para embarque ou desembarque, onde não houver refúgio de segurança, é infração gravíssima.', 'Art. 200.'), C('Conduzir veículo de escolares sem portar a autorização é infração gravíssima.', 'Art. 230, XX: gravíssima, multa 5x e remoção do veículo (Lei 13.855/2019).')],
   },
   motofrete: {
     html: A(`

@@ -4,6 +4,11 @@ import { EXTRAS, NOVOS, ORDEM } from './transito-extra.js';
 import { AULA1 } from './transito-aula1.js';
 import { AULA2 } from './transito-aula2.js';
 import { AULA3 } from './transito-aula3.js';
+import { Q1 } from './transito-q1.js';
+import { Q2 } from './transito-q2.js';
+import { Q3 } from './transito-q3.js';
+import { QTABELA } from './transito-q-tabela.js';
+const BANCO = { ...Q1, ...Q2, ...Q3, 'tabela-infracoes': QTABELA };
 const AULA = { ...AULA1, ...AULA2, ...AULA3 };
 const LEI = 'https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm';
 const peg = (t) => `<div class="lt-peg"><b class="lt-tit">⚠ Pegadinha</b> ${t}</div>`;
@@ -132,7 +137,7 @@ ${peg('Multa vinculada ao <b>veículo</b> impede o licenciamento mesmo que outro
 <ul><li>Registro como veículo de <b>passageiros</b>.</li><li><b>Inspeção semestral</b> dos equipamentos obrigatórios e de segurança.</li><li><b>Faixa amarela</b> de <b>40 cm</b>, à meia altura, nas laterais e na traseira, com a palavra <b>ESCOLAR em preto</b>. Se o veículo for amarelo, as cores se <b>invertem</b>.</li><li><b>Tacógrafo</b> (registrador instantâneo inalterável de velocidade e tempo).</li><li>Lanternas de luz <b>branca, fosca ou amarela</b> no alto da frente e de luz <b>vermelha</b> no alto da traseira.</li><li><b>Cintos</b> em número igual à lotação.</li><li>Outros requisitos fixados pelo Contran.</li></ul>
 <p>A <b>autorização</b> fica afixada <b>dentro do veículo</b>, em local visível, com a <b>lotação</b>. É proibido levar mais escolares do que a capacidade do fabricante (art. 137).</p>
 <h3>Requisitos do condutor (art. 138)</h3>
-<ul><li>Idade <b>superior a 21 anos</b>.</li><li>Habilitação na categoria <b>D</b>.</li><li>Não ter cometido infração <b>grave ou gravíssima</b>, nem ser <b>reincidente em médias</b>, nos últimos <b>12 meses</b>.</li><li>Aprovação em <b>curso especializado</b> (Contran).</li></ul>
+<ul><li>Idade <b>superior a 21 anos</b>.</li><li>Habilitação na categoria <b>D</b>.</li><li>Não ter cometido <b>mais de uma infração gravíssima</b> nos últimos <b>12 meses</b> (redação da Lei 14.071/2020).</li><li>Aprovação em <b>curso especializado</b> (Contran).</li></ul>
 <p>Também precisa apresentar <b>certidão negativa criminal</b> para homicídio, roubo, estupro e corrupção de menores, renovada a cada <b>5 anos</b> (art. 329).</p>
 <p>Os municípios podem criar <b>exigências adicionais</b> (art. 139).</p>
 ${box('Números', '<ul><li><b>40 cm</b>: faixa amarela</li><li><b>Semestral</b>: inspeção</li><li><b>21+</b> anos e categoria <b>D</b></li><li><b>5 anos</b>: certidão criminal</li></ul>')}
@@ -304,5 +309,5 @@ const todos = [...BASE.assuntos, ...NOVOS].map((a) => {
   const i = a.html.indexOf('</p>');
   return { ...a, html: i > 0 ? a.html.slice(0, i + 4) + x.fig + a.html.slice(i + 4) : x.fig + a.html, quiz: x.quiz };
 });
-const comAula = todos.map((a) => (AULA[a.id] ? { ...a, html: a.html + AULA[a.id].html, quiz: [...(a.quiz || []), ...AULA[a.id].quiz] } : a));
+const comAula = todos.map((a) => (AULA[a.id] ? { ...a, html: a.html + AULA[a.id].html, quiz: [...(a.quiz || []), ...AULA[a.id].quiz] } : a)).map((a) => ({ ...a, quiz: [...(a.quiz || []), ...(BANCO[a.id] || [])] }));
 export default { ...BASE, atualizado: 'novembro de 2026 · aula completa', assuntos: ORDEM.map((id) => comAula.find((a) => a.id === id)).filter(Boolean) };
