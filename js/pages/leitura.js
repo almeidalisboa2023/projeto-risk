@@ -3,7 +3,24 @@ import { S } from '../state.js';
 import { esc, norm, iso, hoje } from '../util.js';
 import { db } from '../backend.js';
 import { toast, modal } from '../ui.js';
-import { MATERIAS, materiasDe, acharLeitura } from '../leitura/index.js';
+import { visiveis, materiasDe, acharLeitura, chaveQ } from '../leitura/index.js';
+import { meuCurso, minhaBanca } from '../cursos.js';
+
+// Padrão da banca do aluno: com banca de 4 alternativas (A a D), a múltipla escolha perde uma alternativa errada
+// (sempre a mesma para cada questão) e o gabarito e as notas são reajustados.
+function padraoBanca(q) {
+  const b = minhaBanca();
+  if (!b || b.alts !== 4 || !q.alts || q.alts.length <= 4) return q;
+  const erradas = q.alts.map((_, k) => k).filter((k) => k !== q.r);
+  const tira = erradas[parseInt(chaveQ(q.p), 36) % erradas.length];
+  const ficam = q.alts.map((_, k) => k).filter((k) => k !== tira);
+  return { ...q, alts: ficam.map((k) => q.alts[k]), r: ficam.indexOf(q.r), n: q.n ? ficam.map((k) => q.n[k]) : q.n };
+}
+const faixaCurso = () => {
+  const c = meuCurso(); if (!c) return '';
+  const b = minhaBanca();
+  return `<div class="lt-curso"><span>🎓</span><div><b>${esc(c.nome)}</b><small>${b ? `Banca: ${esc(b.nome)} · questões no padrão ${esc(b.desc)}` : 'Banca ainda não definida: aparecem questões de todos os formatos'}</small></div></div>`;
+};
 
 const ler = (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } };
 const gravar = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} };
@@ -16,8 +33,9 @@ const POR_PAG = 10;
 
 export async function render(el, q) {
   const [mid, aid] = String(q?.get('a') || '').split('/');
-  const mat = MATERIAS.find((m) => m.id === mid);
-  if (!mat) return quadro(el);
+  const m0 = visiveis().find((m) => m.id === mid);
+  if (!m0) return quadro(el);
+  const mat = { ...m0, assuntos: m0.assuntos.map((a) => (a.quiz ? { ...a, quiz: a.quiz.map(padraoBanca) } : a)) };
   let idx = mat.assuntos.findIndex((a) => a.id === aid);
   if (idx < 0) idx = Math.max(0, mat.assuntos.findIndex((a) => a.id === ler('risk-ultimo-' + mat.id, '')));
   gravar('risk-ultimo-' + mat.id, mat.assuntos[idx].id);
@@ -33,8 +51,8 @@ function doMeuEdital() {
 
 function quadro(el) {
   const L = lidos(), meu = doMeuEdital();
-  const ordem = [...MATERIAS].sort((a, b) => (meu.has(b.id) ? 1 : 0) - (meu.has(a.id) ? 1 : 0));
-  el.innerHTML = `<div class="mono up">Leitura interativa</div><h1>Escolha a matéria</h1>
+  const ordem = [...visiveis()].sort((a, b) => (meu.has(b.id) ? 1 : 0) - (meu.has(a.id) ? 1 : 0));
+  el.innerHTML = `${faixaCurso()}<div class="mono up">Leitura interativa</div><h1>Escolha a matéria</h1>
   <p class="muted" style="margin-top:-6px">Textos completos, com quadros, exemplos, pegadinhas e questões no fim de cada tópico. ${meu.size ? 'As matérias do seu edital aparecem primeiro.' : ''}</p>
   <div class="lt-materias">${ordem.map((m) => {
     const feitos = m.assuntos.filter((a) => L.has(m.id + '/' + a.id)).length, p = Math.round((feitos / m.assuntos.length) * 100);
@@ -52,7 +70,8 @@ function leitura(el, q, mat, idx) {
   const feitos = mat.assuntos.filter((x) => L.has(mat.id + '/' + x.id)).length;
   const ir = (i) => `#/leitura?a=${mat.id}/${mat.assuntos[i].id}`;
   el.innerHTML = `<div class="row"><a class="btn sec mini" href="#/leitura">‹ Todas as matérias</a></div>
-  <div class="lt-cab" style="--c:${mat.cor}"><span>${mat.ico}</span><div><div class="mono up">Leitura interativa</div><h1 style="margin:0">${esc(mat.nome)}</h1></div></div>
+  <div class="lt-cab" style="--c:${mat.cor}"><span>${mat.ico}</span><div><div class="mono up">Leitura interativa${meuCurso() ? ' · ' + esc(meuCurso().curto) : ''}</div><h1 style="margin:0">${esc(mat.nome)}</h1></div></div>
+  ${mat.recorte ? `<div class="lt-recorte">📋 <b>Recorte do seu edital:</b> ${esc(mat.recorte)}. Aparecem só os tópicos cobrados.</div>` : ''}
   <div class="lt-wrap" style="--c:${mat.cor}">
     <aside class="card lt-indice">
       <div class="mono up" style="margin:4px 0 6px">Ordem de estudo · ${feitos}/${mat.assuntos.length} lidos</div>
@@ -170,7 +189,10 @@ function quiz(el, mat, a) {
   const ir = (d) => { pag += d; desenhar(); $('.lt-quiz').scrollIntoView({ behavior: 'smooth', block: 'start' }); };
   $('#ltAnt').onclick = $('#ltAnt2').onclick = () => ir(-1);
   $('#ltProx').onclick = $('#ltProx2').onclick = () => ir(1);
-  if ($('#ltTipo')) $('#ltTipo').onchange = () => { pag = 0; desenhar(); };
+  if ($('#ltTipo')) {
+    const b = minhaBanca(); if (b) $('#ltTipo').value = b.formato; // padrão da banca do aluno; ele pode trocar
+    $('#ltTipo').onchange = () => { pag = 0; desenhar(); };
+  }
   $('#ltMist').onclick = () => { ordem = ordem.map((i) => [Math.random(), i]).sort((x, y) => x[0] - y[0]).map((x) => x[1]); pag = 0; desenhar(); };
   $('#ltSalvar').onclick = async () => {
     const novas = [...resp.keys()].filter((i) => !salvas.has(i));

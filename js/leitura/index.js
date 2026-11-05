@@ -9,6 +9,8 @@ import rlm from './rlm.js';
 import administrativo from './administrativo.js';
 import belovale from './belovale.js';
 import { S } from '../state.js';
+import { filtrarMaterias, meuCurso } from '../cursos.js';
+import { NOVAS } from './novas/index.js';
 import { APROFUNDA } from './aprofunda.js';
 import { JURIS } from './juris.js';
 import { GAB } from './gab/index.js';
@@ -27,13 +29,20 @@ const comGab = (m) => { const G = GAB[m.id]; if (!G) return m;
   return { ...m, assuntos: m.assuntos.map((a) => { const g = G[a.id]; if (!g) return a;
     return { ...a, quiz: (a.quiz || []).map((q) => { const v = g[chaveQ(q.p)]; return v ? { ...q, x: v[0], pg: v[1] || '', n: v[2] || null } : q; }) }; }) };
 };
-export const MATERIAS = [portugues, rlm, constitucional, administrativo, processo, penal, transito, belovale].map((m) => comGab(aprofundar(m))).map((m) => ({ ...m, cor: VISUAL[m.id]?.[0] || '#6B6458', ico: VISUAL[m.id]?.[1] || '📖', atualizado: m.atualizado || 'novembro de 2026' }));
+export const MATERIAS_TODAS = [portugues, rlm, constitucional, administrativo, processo, penal, transito, belovale, ...NOVAS].map((m) => comGab(aprofundar(m))).map((m) => ({ ...m, cor: VISUAL[m.id]?.[0] || m.cor || '#6B6458', ico: VISUAL[m.id]?.[1] || m.ico || '📖', atualizado: m.atualizado || 'novembro de 2026' }));
+
+// Matérias que o aluno logado pode ver: as do curso dele (definido pelo administrador), sem as removidas.
+// Administrador ou conta sem curso: todas. Para quem tem curso, a matéria do curso aparece mesmo que o edital não cite o município.
+export function visiveis() {
+  const v = filtrarMaterias(MATERIAS_TODAS);
+  return meuCurso() ? v.map((m) => (m.soEdital ? { ...m, soEdital: null } : m)) : v;
+}
 
 // Todas as matérias cujo nome bate com o nome usado no edital (ex.: "Língua Portuguesa", "Português", "Noções de Direito Penal")
 export function materiasDe(nome) {
   const m = norm(nome);
   const ed = norm([S.edital?.concurso, S.edital?.cargo].filter(Boolean).join(' '));
-  return MATERIAS.filter((x) => (!x.soEdital || ed.includes(x.soEdital)) && x.apelidos.some((a) => m.includes(a)));
+  return visiveis().filter((x) => (!x.soEdital || ed.includes(x.soEdital)) && x.apelidos.some((a) => m.includes(a)));
 }
 export const materiaDe = (nome) => materiasDe(nome)[0] || null;
 
@@ -51,7 +60,7 @@ export function acharLeitura(materia, topico) {
   const mats = materiasDe(materia);
   let r = mats.length ? melhorAssunto(mats, t) : null;
   // Edital com nome de matéria diferente (ex.: "Conhecimentos Básicos"): procura pelo assunto em todas, com chaves longas
-  if (!r && !mats.length) r = melhorAssunto(MATERIAS.filter((x) => !x.soEdital), t, 9);
+  if (!r && !mats.length) r = melhorAssunto(visiveis().filter((x) => !x.soEdital), t, 9);
   if (r) return { mat: r.mat, a: r.a, link: `#/leitura?a=${r.mat.id}/${r.a.id}`, rotulo: r.a.titulo };
   if (mats.length) return { mat: mats[0], a: null, link: `#/leitura?a=${mats[0].id}/`, rotulo: mats[0].nome };
   return null;

@@ -560,3 +560,18 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .lt-gn li { padding: 3px 0; border-bottom: 1px dashed var(--borda); }
 .lt-gn li:last-child { border-bottom: 0; }
 .lt-gn li.ok { color: var(--verde); font-weight: 600; }
+
+/* Cursos (cadastro, administrador e leitura) */
+.cursos-op { display: grid; gap: 8px; max-height: 320px; overflow: auto; padding: 2px; }
+.curso-op { display: flex; gap: 10px; align-items: flex-start; padding: 10px 12px; border: 1px solid var(--borda); border-radius: 12px; background: var(--card); cursor: pointer; }
+.curso-op:has(input:checked) { border-color: var(--btn); box-shadow: 0 0 0 2px color-mix(in srgb, var(--btn) 30%, transparent); }
+.curso-op input { margin-top: 4px; }
+.curso-op span { display: flex; flex-direction: column; gap: 2px; }
+.curso-op small { color: var(--txt2); font-size: 12.5px; line-height: 1.35; }
+.mat-lin.off b { text-decoration: line-through; opacity: .6; }
+.lt-curso { display: flex; gap: 12px; align-items: center; padding: 10px 14px; margin-bottom: 14px; border: 1px solid var(--borda); border-radius: 14px; background: var(--card); }
+.lt-curso > span { font-size: 26px; }
+.lt-curso div { display: flex; flex-direction: column; }
+.lt-curso small { color: var(--txt2); font-size: 12.5px; }
+.lt-recorte { margin: -4px 0 14px; padding: 10px 14px; border-left: 4px solid var(--c); border-radius: 10px; background: color-mix(in srgb, var(--c) 10%, var(--card)); font-size: 14px; }
+.lt-producao { padding: 14px 16px; border: 1px dashed var(--borda); border-radius: 12px; background: color-mix(in srgb, var(--ouro) 10%, var(--card)); }

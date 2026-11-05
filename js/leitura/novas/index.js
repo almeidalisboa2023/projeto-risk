@@ -1,0 +1,26 @@
+// Matérias novas dos cursos (geradas). A ordem aqui é a ordem do quadro.
+import civil from './civil.js';
+import processo_civil from './processo-civil.js';
+import trabalho from './trabalho.js';
+import previdenciario from './previdenciario.js';
+import financeiro from './financeiro.js';
+import ambiental_urbanistico from './ambiental-urbanistico.js';
+import extravagante from './extravagante.js';
+import resolucoes_ctb from './resolucoes-ctb.js';
+import redacao from './redacao.js';
+import informatica from './informatica.js';
+import direitos_humanos from './direitos-humanos.js';
+import medicina_legal from './medicina-legal.js';
+import criminologia from './criminologia.js';
+import etica_cidadania from './etica-cidadania.js';
+import fisica from './fisica.js';
+import geopolitica from './geopolitica.js';
+import lingua_estrangeira from './lingua-estrangeira.js';
+import cpm from './cpm.js';
+import cppm from './cppm.js';
+import lindb from './lindb.js';
+import constituicao_mg from './constituicao-mg.js';
+import doutrina_pmmg from './doutrina-pmmg.js';
+import institucional_pmmg from './institucional-pmmg.js';
+import lei_organica_pcmg from './lei-organica-pcmg.js';
+export const NOVAS = [civil, processo_civil, trabalho, previdenciario, financeiro, ambiental_urbanistico, extravagante, resolucoes_ctb, redacao, informatica, direitos_humanos, medicina_legal, criminologia, etica_cidadania, fisica, geopolitica, lingua_estrangeira, cpm, cppm, lindb, constituicao_mg, doutrina_pmmg, institucional_pmmg, lei_organica_pcmg];

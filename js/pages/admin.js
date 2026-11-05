@@ -6,6 +6,8 @@ import { parseCSV, toCSV, baixar } from '../csv.js';
 import { recarregar } from '../app.js';
 import { TEMAS, detectarTema } from '../temas.js';
 import { ajustarDatas } from './edital-ferramentas.js';
+import { CURSOS, BANCAS, cursoInfo, bancaInfo } from '../cursos.js';
+import { MATERIAS_TODAS } from '../leitura/index.js';
 
 const COLS = 'codigo;modalidade;enunciado;alt_a;alt_b;alt_c;alt_d;alt_e;gabarito;comentario;materia;assunto;subassunto;banca;orgao;cargo;nivel;ano;dificuldade;situacao;origem;fonte;tags'.split(';');
 
@@ -148,14 +150,76 @@ async function cadastros(box, atual) {
   S.pendentes = ps.length;
   const b = document.querySelector('.side a[href="#/admin"] .badge'); if (b) { if (ps.length) b.textContent = ps.length; else b.remove(); }
   box.innerHTML = `<div class="row"><h3 style="margin:0">Cadastros aguardando aprovação</h3>${ps.length ? `<span class="pill" style="background:var(--vermelho);color:#fff">${ps.length}</span>` : ''}</div>
-    <p class="muted" style="font-size:13px">Quem se cadastra (por e-mail ou Google) só entra no site depois que você aprovar.</p>
-    ${ps.length ? `<table class="tab"><tr><th>Nome</th><th>E-mail</th><th>Cadastrou em</th><th></th></tr>
-      ${ps.map((p) => `<tr><td><b>${esc(p.nome || '')}</b></td><td>${esc(p.email || '')}</td><td>${p.created_at ? new Date(p.created_at).toLocaleString('pt-BR') : ''}</td>
-        <td><button class="btn mini verde" data-ap="${p.id}">Aprovar</button> <button class="btn mini sec" data-rc="${p.id}">Recusar</button></td></tr>`).join('')}</table>`
+    <p class="muted" style="font-size:13px">Confira os dados, defina o curso e a banca e aprove. O aluno só vê as matérias do curso.</p>
+    ${ps.length ? `<div style="overflow-x:auto"><table class="tab"><tr><th>Nome</th><th>Contato</th><th>Curso pedido</th><th>Cadastrou em</th><th></th></tr>
+      ${ps.map((p) => `<tr><td><b>${esc(p.nome || '')}</b>${p.cpf ? `<br><span class="muted" style="font-size:12px">CPF ${esc(fmtCpf(p.cpf))}</span>` : ''}</td>
+        <td>${esc(p.email || '')}${p.telefone ? `<br><span class="muted" style="font-size:12px">${esc(p.telefone)} · ${esc(p.cidade || '')}</span>` : ''}</td>
+        <td>${p.dados_ok_em ? esc(cursoInfo(p.curso_solicitado)?.nome || 'não escolheu') : '<span class="muted">ainda preenchendo o cadastro</span>'}</td>
+        <td>${p.created_at ? new Date(p.created_at).toLocaleString('pt-BR') : ''}</td>
+        <td><button class="btn mini verde" data-conf="${p.id}">Conferir e aprovar</button> <button class="btn mini sec" data-rc="${p.id}">Recusar</button></td></tr>`).join('')}</table></div>`
       : '<p class="muted">Nenhum cadastro pendente.</p>'}`;
-  const muda = async (id, status) => { try { await db.update('profiles', { id: 'eq.' + id }, { status }); toast(status === 'aprovado' ? 'Cadastro aprovado!' : 'Cadastro recusado.'); atual(); } catch (e) { toast(e.message, 'erro'); } };
-  box.querySelectorAll('[data-ap]').forEach((x) => (x.onclick = () => muda(x.dataset.ap, 'aprovado')));
-  box.querySelectorAll('[data-rc]').forEach((x) => (x.onclick = () => { if (confirm('Recusar este cadastro? A pessoa não vai conseguir entrar.')) muda(x.dataset.rc, 'recusado'); }));
+  box.querySelectorAll('[data-conf]').forEach((x) => (x.onclick = () => conferir(ps.find((p) => p.id === x.dataset.conf), atual)));
+  box.querySelectorAll('[data-rc]').forEach((x) => (x.onclick = async () => {
+    if (!confirm('Recusar este cadastro? A pessoa não vai conseguir entrar.')) return;
+    try { await db.update('profiles', { id: 'eq.' + x.dataset.rc }, { status: 'recusado' }); toast('Cadastro recusado.'); atual(); } catch (e) { toast(e.message, 'erro'); }
+  }));
+}
+const fmtCpf = (c) => String(c || '').replace(/\D/g, '').replace(/(\d{3})(\d{3})(\d{3})(\d{2})/, '$1.$2.$3-$4');
+
+// Conferência do aluno: corrige dados, define curso e banca, remove/restaura matérias e confirma.
+function conferir(p, atual) {
+  const pend = p.status !== 'aprovado';
+  let curso = p.curso || p.curso_solicitado || '';
+  let fora = new Set(p.materias_removidas || []);
+  const listaMats = () => {
+    const c = cursoInfo(curso);
+    if (!c) return '<p class="muted">Escolha um curso para ver as matérias.</p>';
+    return c.materias.map((it) => {
+      const mat = MATERIAS_TODAS.find((x) => x.id === it.id);
+      const nome = mat?.nome || it.id, off = fora.has(it.id);
+      const n = mat ? (it.assuntos ? mat.assuntos.filter((a) => it.assuntos.includes(a.id)).length : mat.assuntos.length) : 0;
+      return `<div class="row mat-lin ${off ? 'off' : ''}" style="border-top:1px solid var(--borda);padding:6px 0">
+        <span style="flex:1"><b>${esc(nome)}</b> <span class="muted" style="font-size:12px">${n} tópicos${it.obs ? ' · ' + esc(it.obs) : ''}</span>${off ? ' <span class="pill" style="background:var(--vermelho);color:#fff">removida</span>' : ''}</span>
+        <button type="button" class="btn mini ${off ? '' : 'sec'}" data-mat="${it.id}">${off ? 'Restaurar' : 'Remover'}</button></div>`;
+    }).join('');
+  };
+  modal(`<h3>${pend ? 'Conferir cadastro' : 'Curso do aluno'}</h3>
+    <p class="muted" style="font-size:13px;margin-top:-6px">${esc(p.email || '')}${p.curso_solicitado ? ` · pediu: <b>${esc(cursoInfo(p.curso_solicitado)?.nome || p.curso_solicitado)}</b>` : ''}</p>
+    <div class="campo"><label>Nome completo</label><input id="cN" style="width:100%" value="${esc(p.nome || '')}"></div>
+    <div class="row"><div class="campo" style="flex:1"><label>CPF</label><input id="cC" style="width:100%" value="${esc(fmtCpf(p.cpf))}"></div>
+      <div class="campo" style="flex:1"><label>WhatsApp</label><input id="cT" style="width:100%" value="${esc(p.telefone || '')}"></div></div>
+    <div class="campo"><label>Cidade / UF</label><input id="cCi" style="width:100%" value="${esc(p.cidade || '')}"></div>
+    <div class="row"><div class="campo" style="flex:2"><label>Curso</label><select id="cCu" style="width:100%"><option value="">— sem curso (vê todas as matérias) —</option>${CURSOS.map((c) => `<option value="${c.id}" ${c.id === curso ? 'selected' : ''}>${esc(c.nome)}</option>`).join('')}</select></div>
+      <div class="campo" style="flex:1"><label>Banca</label><select id="cB" style="width:100%"><option value="">Não definida</option>${Object.entries(BANCAS).map(([k, v]) => `<option value="${k}" ${k === (p.banca ?? '') ? 'selected' : ''}>${esc(v.nome)}</option>`).join('')}</select></div></div>
+    <p class="muted" id="cBd" style="font-size:12.5px;margin:-4px 0 8px"></p>
+    <div class="campo"><label>Matérias liberadas</label><div id="cM">${listaMats()}</div></div>
+    <div class="row" style="margin-top:12px"><span class="sp"></span>${pend ? '<button class="btn sec" id="cSalva">Salvar sem aprovar</button>' : ''}<button class="btn verde" id="cOk">${pend ? 'Confirmar e aprovar' : 'Confirmar'}</button></div>`, {
+    onMount: (m, close) => {
+      const $ = (q) => m.querySelector(q);
+      const desc = () => { const c = cursoInfo(curso), bi = bancaInfo($('#cB').value); $('#cBd').innerHTML = `${c ? esc(c.edital) + ' ' : ''}${bi ? `Padrão da banca: <b>${esc(bi.desc)}</b>.` : 'Sem banca definida: o aluno vê Certo/Errado e múltipla escolha juntas.'}`; };
+      const liga = () => m.querySelectorAll('[data-mat]').forEach((x) => (x.onclick = () => { const id = x.dataset.mat; fora.has(id) ? fora.delete(id) : fora.add(id); $('#cM').innerHTML = listaMats(); liga(); }));
+      liga(); desc();
+      $('#cCu').onchange = () => {
+        curso = $('#cCu').value; fora = new Set(); $('#cM').innerHTML = listaMats(); liga();
+        const c = cursoInfo(curso); if (c && !$('#cB').dataset.mexeu) $('#cB').value = c.banca; desc();
+      };
+      $('#cB').onchange = () => { $('#cB').dataset.mexeu = '1'; desc(); };
+      if (!p.banca && cursoInfo(curso) && pend) $('#cB').value = cursoInfo(curso).banca;
+      desc();
+      const salvar = async (aprovar, ev) => {
+        const cpf = $('#cC').value.replace(/\D/g, '');
+        if (cpf && cpf.length !== 11) return toast('CPF deve ter 11 números.', 'erro');
+        ev.target.disabled = true;
+        const v = { nome: $('#cN').value.trim(), cpf: cpf || null, telefone: $('#cT').value.trim() || null, cidade: $('#cCi').value.trim() || null,
+          curso: curso || null, banca: $('#cB').value || null, materias_removidas: [...fora] };
+        if (aprovar) v.status = 'aprovado';
+        try { await db.update('profiles', { id: 'eq.' + p.id }, v); toast(aprovar ? 'Aluno aprovado com o curso definido!' : 'Dados salvos.'); close(); atual(); }
+        catch (e) { toast(e.message, 'erro'); ev.target.disabled = false; }
+      };
+      $('#cOk').onclick = (ev) => salvar(pend, ev);
+      if ($('#cSalva')) $('#cSalva').onclick = (ev) => salvar(false, ev);
+    },
+  });
 }
 
 // ---------- ALUNOS ----------
@@ -165,11 +229,11 @@ async function alunos(box, atual) {
   const temaSel = (e) => `<select data-tema="${e.id}" style="padding:4px 6px;font-size:12.5px"><option value="">Automático: ${esc(TEMAS[detectarTema(e)].nome)}</option>${Object.entries(TEMAS).map(([k, t]) => `<option value="${k}" ${e.tema === k ? 'selected' : ''}>${esc(t.nome)}</option>`).join('')}</select>`;
   const edsDe = (uid) => eds.filter((e) => e.user_id === uid && e.ativo !== false);
   const ST = { pendente: 'Aguardando', aprovado: 'Aprovado', recusado: 'Recusado' };
-  box.innerHTML = `<h3>Alunos e usuários (${ps.length})</h3><div style="overflow-x:auto"><table class="tab"><tr><th>Nome</th><th>E-mail</th><th>Perfil</th><th>Cadastro</th><th>Acesso</th><th>Tema do calendário (por edital)</th><th></th></tr>
-    ${ps.map((p) => `<tr><td>${esc(p.nome || '')}</td><td>${esc(p.email || '')}</td><td>${p.role === 'admin' ? 'Administrador' : 'Aluno'}</td><td>${ST[p.status] || 'Aprovado'}</td><td>${p.bloqueado ? 'Bloqueado' : 'Ativo'}</td><td>${edsDe(p.id).map((e) => `<div style="margin:2px 0"><span class="muted" style="font-size:12px">${esc(e.concurso)}</span><br>${temaSel(e)} <button class="linkbtn" data-datas="${e.id}" style="font-size:12px">📅 datas</button></div>`).join('') || '<span class="muted">sem edital</span>'}${p.tema_padrao ? '<div class="muted" style="font-size:11.5px">aluno usa o tema padrão</div>' : ''}</td>
-      <td>${p.id === S.user.id ? '<span class="muted">você</span>' : `${p.status !== 'aprovado' ? `<button class="btn mini verde" data-ap="${p.id}">Aprovar</button> ` : `<button class="btn mini sec" data-rc="${p.id}">Revogar</button> `}<button class="btn mini sec" data-bl="${p.id}">${p.bloqueado ? 'Desbloquear' : 'Bloquear'}</button> <button class="btn mini sec" data-adm="${p.id}">${p.role === 'admin' ? 'Tirar admin' : 'Tornar admin'}</button>`}</td></tr>`).join('')}</table></div>`;
+  box.innerHTML = `<h3>Alunos e usuários (${ps.length})</h3><div style="overflow-x:auto"><table class="tab"><tr><th>Nome</th><th>E-mail</th><th>Perfil</th><th>Cadastro</th><th>Curso e banca</th><th>Acesso</th><th>Tema do calendário (por edital)</th><th></th></tr>
+    ${ps.map((p) => `<tr><td>${esc(p.nome || '')}</td><td>${esc(p.email || '')}</td><td>${p.role === 'admin' ? 'Administrador' : 'Aluno'}</td><td>${ST[p.status] || 'Aprovado'}</td><td>${p.role === 'admin' ? '<span class="muted">—</span>' : `${esc(cursoInfo(p.curso)?.curto || 'sem curso')}<br><span class="muted" style="font-size:12px">${esc(bancaInfo(p.banca)?.nome || 'banca não definida')}${p.materias_removidas?.length ? ` · ${p.materias_removidas.length} removida(s)` : ''}</span><br><button class="linkbtn" data-curso="${p.id}" style="font-size:12px">🎓 curso e matérias</button>`}</td><td>${p.bloqueado ? 'Bloqueado' : 'Ativo'}</td><td>${edsDe(p.id).map((e) => `<div style="margin:2px 0"><span class="muted" style="font-size:12px">${esc(e.concurso)}</span><br>${temaSel(e)} <button class="linkbtn" data-datas="${e.id}" style="font-size:12px">📅 datas</button></div>`).join('') || '<span class="muted">sem edital</span>'}${p.tema_padrao ? '<div class="muted" style="font-size:11.5px">aluno usa o tema padrão</div>' : ''}</td>
+      <td>${p.id === S.user.id ? '<span class="muted">você</span>' : `${p.status !== 'aprovado' ? `<button class="btn mini verde" data-conf="${p.id}">Conferir e aprovar</button> ` : `<button class="btn mini sec" data-rc="${p.id}">Revogar</button> `}<button class="btn mini sec" data-bl="${p.id}">${p.bloqueado ? 'Desbloquear' : 'Bloquear'}</button> <button class="btn mini sec" data-adm="${p.id}">${p.role === 'admin' ? 'Tirar admin' : 'Tornar admin'}</button>`}</td></tr>`).join('')}</table></div>`;
   const up = async (id, v) => { try { await db.update('profiles', { id: 'eq.' + id }, v); atual(); } catch (e) { toast(e.message, 'erro'); } };
-  box.querySelectorAll('[data-ap]').forEach((b) => (b.onclick = () => up(b.dataset.ap, { status: 'aprovado' })));
+  box.querySelectorAll('[data-conf],[data-curso]').forEach((b) => (b.onclick = () => conferir(ps.find((x) => x.id === (b.dataset.conf || b.dataset.curso)), atual)));
   box.querySelectorAll('[data-rc]').forEach((b) => (b.onclick = () => { if (confirm('Revogar o acesso deste usuário?')) up(b.dataset.rc, { status: 'recusado' }); }));
   box.querySelectorAll('[data-tema]').forEach((s) => (s.onchange = async () => {
     try { await db.update('editais', { id: 'eq.' + s.dataset.tema }, { tema: s.value || null }); toast('Tema atualizado.'); const e = S.editais.find((x) => x.id === s.dataset.tema); if (e) e.tema = s.value || null; } catch (e) { toast(e.message, 'erro'); }

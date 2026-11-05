@@ -1,8 +1,9 @@
-import { auth, MODO_DEMO } from './backend.js';
+import { auth, db, MODO_DEMO } from './backend.js';
 import { S, carregarTudo, trocarEdital, isAdmin } from './state.js';
 import { esc } from './util.js';
 import { toast, loading } from './ui.js';
 import { flutuante } from './crono.js';
+import { CURSOS, cursoInfo } from './cursos.js';
 
 const PAGINAS = {
   painel: ['Painel', '⌂', () => import('./pages/painel.js')],
@@ -32,7 +33,11 @@ async function iniciar() {
   if (tipo === 'recovery') return telaNovaSenha();
   try { await carregarTudo(); } catch (e) { root.innerHTML = `<div class="login"><div class="card"><h2>Não foi possível carregar</h2><p>${esc(e.message)}</p><button class="btn" onclick="location.reload()">Tentar de novo</button></div></div>`; return; }
   if (S.profile.bloqueado) return telaAviso('Acesso bloqueado', 'Fale com o administrador do Projeto R.I.S.K.');
-  if (S.profile.role !== 'admin' && S.profile.status === 'pendente') return telaAviso('Cadastro em análise', `Olá, ${esc((S.profile.nome || '').split(' ')[0] || 'tudo bem')}! Recebemos o seu cadastro (${esc(S.user.email)}). O administrador precisa aprovar o acesso. Volte mais tarde ou clique em “Verificar de novo”.`, true);
+  if (S.profile.role !== 'admin' && S.profile.status === 'pendente') {
+    if (!S.profile.dados_ok_em) return telaCadastroCurso();
+    const c = cursoInfo(S.profile.curso_solicitado);
+    return telaAviso('Cadastro em análise', `Olá, ${esc((S.profile.nome || '').split(' ')[0] || 'tudo bem')}! Recebemos o seu cadastro (${esc(S.user.email)})${c ? ` para o curso <b>${esc(c.nome)}</b>` : ''}. O administrador vai conferir os seus dados e liberar o acesso. Volte mais tarde ou clique em “Verificar de novo”.`, true, true);
+  }
   if (S.profile.role !== 'admin' && S.profile.status === 'recusado') return telaAviso('Cadastro não aprovado', 'O seu cadastro não foi aprovado pelo administrador. Se acha que foi um engano, entre em contato.');
   window.addEventListener('hashchange', rota);
   window.addEventListener('risk-crono', () => { if (/calendario|painel|horas/.test(location.hash) || !location.hash) rota(); });
@@ -115,13 +120,47 @@ function telaLogin(modo = 'entrar') {
   };
 }
 
-function telaAviso(titulo, texto, verificar = false) {
+function telaAviso(titulo, texto, verificar = false, corrigir = false) {
   root.innerHTML = `<div class="login"><div class="card" style="text-align:center">
     <div class="login-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></div>
     <h2>${esc(titulo)}</h2><p class="muted">${texto}</p>
-    <div class="row" style="justify-content:center;margin-top:14px">${verificar ? '<button class="btn" id="avV">Verificar de novo</button>' : ''}<button class="btn sec" id="avS">Sair</button></div></div></div>`;
+    <div class="row" style="justify-content:center;margin-top:14px">${verificar ? '<button class="btn" id="avV">Verificar de novo</button>' : ''}${corrigir ? '<button class="btn sec" id="avC">Corrigir meus dados</button>' : ''}<button class="btn sec" id="avS">Sair</button></div></div></div>`;
   root.querySelector('#avS').onclick = () => { auth.signOut(); location.hash = ''; location.reload(); };
   const v = root.querySelector('#avV'); if (v) v.onclick = () => location.reload();
+  const c = root.querySelector('#avC'); if (c) c.onclick = () => telaCadastroCurso();
+}
+
+// Primeiro acesso: o aluno escolhe o curso do edital dele e informa os dados para o administrador conferir.
+function telaCadastroCurso() {
+  const p = S.profile;
+  root.innerHTML = `<div class="login"><div class="card" style="max-width:560px">
+    <div class="login-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></div>
+    <h2 style="margin-bottom:4px">Complete o seu cadastro</h2>
+    <p class="muted" style="margin-top:0">Escolha o curso do concurso que você vai fazer. Você só vai ver as matérias do seu edital. O administrador confere os dados e libera o acesso.</p>
+    <form id="fc">
+      <div class="campo"><label>Curso</label><div class="cursos-op">${CURSOS.map((c) => `<label class="curso-op"><input type="radio" name="curso" value="${c.id}" ${p.curso_solicitado === c.id ? 'checked' : ''} required><span><b>${esc(c.nome)}</b><small>${esc(c.edital)}</small></span></label>`).join('')}</div></div>
+      <div class="campo"><label>Nome completo</label><input name="nome" required style="width:100%" value="${esc(p.nome || '')}"></div>
+      <div class="row"><div class="campo" style="flex:1"><label>CPF</label><input name="cpf" inputmode="numeric" maxlength="14" placeholder="000.000.000-00" required style="width:100%" value="${esc(p.cpf || '')}"></div>
+        <div class="campo" style="flex:1"><label>WhatsApp</label><input name="telefone" inputmode="tel" placeholder="(31) 90000-0000" required style="width:100%" value="${esc(p.telefone || '')}"></div></div>
+      <div class="campo"><label>Cidade / UF</label><input name="cidade" placeholder="Pirapora/MG" required style="width:100%" value="${esc(p.cidade || '')}"></div>
+      <button class="btn" style="width:100%">Enviar para aprovação</button>
+    </form>
+    <div class="row" style="justify-content:center;margin-top:10px"><button class="btn sec mini" id="fcS">Sair</button></div></div></div>`;
+  root.querySelector('#fcS').onclick = () => { auth.signOut(); location.hash = ''; location.reload(); };
+  root.querySelector('#fc').onsubmit = async (e) => {
+    e.preventDefault();
+    const f = Object.fromEntries(new FormData(e.target));
+    const cpf = String(f.cpf).replace(/\D/g, '');
+    if (cpf.length !== 11) return toast('Confira o CPF: são 11 números.', 'erro');
+    const b = e.target.querySelector('button'); b.disabled = true;
+    try {
+      const v = { nome: f.nome.trim(), cpf, telefone: f.telefone.trim(), cidade: f.cidade.trim(), curso_solicitado: f.curso, dados_ok_em: new Date().toISOString() };
+      await db.update('profiles', { id: 'eq.' + S.user.id }, v);
+      Object.assign(S.profile, v);
+      toast('Cadastro enviado! Agora é só aguardar a aprovação.');
+      location.reload();
+    } catch (err) { toast(err.message, 'erro'); b.disabled = false; }
+  };
 }
 
 function telaNovaSenha() {
