@@ -11,6 +11,7 @@ import belovale from './belovale.js';
 import { S } from '../state.js';
 import { APROFUNDA } from './aprofunda.js';
 import { JURIS } from './juris.js';
+import { GAB } from './gab/index.js';
 
 // Cor e ícone de cada matéria (quadro colorido da página de leitura)
 const VISUAL = {
@@ -20,7 +21,13 @@ const VISUAL = {
 // Ordem do quadro; processo penal vem antes de penal para "Direito Penal e Processual Penal" achar os dois
 const junta = (a, x) => (x ? { ...a, aprof: (a.aprof || '') + (x.html || ''), quiz: [...(a.quiz || []), ...(x.quiz || [])] } : a);
 const aprofundar = (m) => ({ ...m, assuntos: m.assuntos.map((a) => junta(junta(a, APROFUNDA[m.id]?.[a.id]), JURIS[m.id]?.[a.id])) });
-export const MATERIAS = [portugues, rlm, constitucional, administrativo, processo, penal, transito, belovale].map((m) => ({ ...aprofundar(m), cor: VISUAL[m.id]?.[0] || '#6B6458', ico: VISUAL[m.id]?.[1] || '📖', atualizado: m.atualizado || 'novembro de 2026' }));
+// Gabarito comentado: junta explicação (x), pegadinha (pg) e notas das alternativas (n) pela chave do enunciado (hash FNV-1a)
+export const chaveQ = (p) => { let h = 2166136261; for (const c of norm(p)) { h ^= c.codePointAt(0); h = Math.imul(h, 16777619) >>> 0; } return h.toString(36); };
+const comGab = (m) => { const G = GAB[m.id]; if (!G) return m;
+  return { ...m, assuntos: m.assuntos.map((a) => { const g = G[a.id]; if (!g) return a;
+    return { ...a, quiz: (a.quiz || []).map((q) => { const v = g[chaveQ(q.p)]; return v ? { ...q, x: v[0], pg: v[1] || '', n: v[2] || null } : q; }) }; }) };
+};
+export const MATERIAS = [portugues, rlm, constitucional, administrativo, processo, penal, transito, belovale].map((m) => comGab(aprofundar(m))).map((m) => ({ ...m, cor: VISUAL[m.id]?.[0] || '#6B6458', ico: VISUAL[m.id]?.[1] || '📖', atualizado: m.atualizado || 'novembro de 2026' }));
 
 // Todas as matérias cujo nome bate com o nome usado no edital (ex.: "Língua Portuguesa", "Português", "Noções de Direito Penal")
 export function materiasDe(nome) {

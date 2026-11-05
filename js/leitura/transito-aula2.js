@@ -82,7 +82,7 @@ ${peg('Ultrapassar pela direita ônibus escolar parado é <b>gravíssima</b>; ul
 <h3>Fiscalização do moto-frete</h3>
 <ul><li>Transporte remunerado de mercadorias em desacordo com o art. 139-A: art. 244, IX, <b>média</b>, retenção.</li><li>Carga incompatível com as especificações: art. 244, VIII, média, retenção.</li><li>Moto sem capacete, transportando passageiro sem capacete ou fazendo malabarismo: <b>gravíssima</b> com suspensão (art. 244, I a III).</li><li>Mototaxista e motoboy seguem também as normas municipais (art. 139-B).</li></ul>
 ${peg('As infrações específicas do moto-frete são <b>médias</b>; as de segurança do art. 244, I a III, são <b>gravíssimas</b> com suspensão.')}`),
-    quiz: [C('Fazer transporte remunerado de mercadorias em motocicleta em desacordo com o art. 139-A é infração média.', 'Art. 244, IX.')],
+    quiz: [E('Fazer transporte remunerado de mercadorias em motocicleta em desacordo com o art. 139-A é infração média.', 'É grave (art. 244, IX).')],
   },
   habilitacao: {
     html: A(`

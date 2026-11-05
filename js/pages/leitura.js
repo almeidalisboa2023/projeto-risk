@@ -141,7 +141,11 @@ function quiz(el, mat, a) {
     box.querySelectorAll('[data-r]').forEach((y) => { y.disabled = true; y.classList.toggle('lt-marcado', y.dataset.r === String(r)); if (x.alts && Number(y.dataset.r) === x.r) y.classList.add('lt-certa'); });
     box.classList.add(ok ? 'ok' : 'erro');
     const gab = x.alts ? `letra <b>${LETRA[x.r]}</b>` : `<b>${x.c ? 'CERTO' : 'ERRADO'}</b>`;
-    box.querySelector('.lt-q-res').innerHTML = `<b>${ok ? '✅ Você acertou!' : '❌ Não foi dessa vez.'}</b> Gabarito: ${gab}. ${esc(x.e)}<div><button class="linkbtn" data-de-novo>Responder de novo</button></div>`;
+    const notas = x.alts && x.n ? `<ul class="lt-gn">${x.alts.map((t, k) => `<li class="${k === x.r ? 'ok' : ''}"><b>${LETRA[k]}</b> ${k === x.r ? '✔' : '✘'} ${esc(x.n[k] || '')}</li>`).join('')}</ul>` : '';
+    const corpo = x.x
+      ? `<div class="lt-gab"><p><b>Por quê:</b> ${esc(x.x)}</p>${x.pg ? `<p class="lt-gpg"><b>⚠ Pegadinha:</b> ${esc(x.pg)}</p>` : ''}${notas}${x.e ? `<p class="lt-gf">📌 ${esc(x.e)}</p>` : ''}</div>`
+      : ` ${esc(x.e)}`;
+    box.querySelector('.lt-q-res').innerHTML = `<b>${ok ? '✅ Você acertou!' : '❌ Não foi dessa vez.'}</b> Gabarito: ${gab}.${corpo}<div><button class="linkbtn" data-de-novo>Responder de novo</button></div>`;
     box.querySelector('[data-de-novo]').onclick = () => { resp.delete(i); salvas.delete(i); box.dataset.r = ''; desenhar(); placar(); };
     return ok;
   };

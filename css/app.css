@@ -539,3 +539,24 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .lt-alt.lt-marcado { outline: 2px solid var(--ouro); }
 .lt-alt.lt-certa { border-color: var(--verde); background: rgba(46,125,79,.12); }
 .lt-tipo { font-size: 11px; text-transform: uppercase; letter-spacing: .04em; padding: 2px 6px; border-radius: 6px; background: color-mix(in srgb, var(--c, var(--ouro)) 15%, transparent); color: var(--c, var(--ouro)); }
+.cguia { border: 1px solid var(--borda); border-radius: 12px; padding: 10px 14px; background: var(--hero); }
+.cguia summary { cursor: pointer; }
+.cpassos { padding-left: 20px; margin: 10px 0; line-height: 1.55; font-size: 14px; }
+.cpassos li { margin: 4px 0; }
+.cpassos code { font-size: 12.5px; padding: 1px 5px; border-radius: 5px; background: var(--card); border: 1px solid var(--borda); }
+.cmats { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.cmat { cursor: pointer; border: 1px solid var(--borda); font: inherit; font-size: 12.5px; }
+.cmat:hover { border-color: var(--ouro); }
+.cex { white-space: pre-wrap; font-size: 12px; margin: 4px 0 6px; }
+.cguia .grid > div { min-width: 0; }
+.cguia .cex { max-width: 100%; overflow-x: auto; box-sizing: border-box; }
+
+/* Gabarito comentado */
+.lt-gab { margin-top: 6px; padding: 10px 12px; border-radius: 8px; background: var(--fundo, rgba(0,0,0,.03)); border: 1px solid var(--borda); }
+.lt-gab p { margin: 0 0 6px; }
+.lt-gpg { color: var(--vermelho); }
+.lt-gf { font-size: 13px; opacity: .8; margin-bottom: 0 !important; }
+.lt-gn { list-style: none; padding: 0; margin: 4px 0 6px; font-size: 13.5px; }
+.lt-gn li { padding: 3px 0; border-bottom: 1px dashed var(--borda); }
+.lt-gn li:last-child { border-bottom: 0; }
+.lt-gn li.ok { color: var(--verde); font-weight: 600; }
