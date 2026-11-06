@@ -66,6 +66,68 @@ export default {
 "Não."
 ],
 "e": "CF, art. 195, §4º."
+},
+{
+"p": "A seguridade social deve ser organizada com base na universalidade da cobertura e do atendimento.",
+"c": true,
+"x": "É o art. 194, parágrafo único, I, da CF.",
+"e": "CF, art. 194."
+},
+{
+"p": "As receitas dos Estados, do DF e dos Municípios destinadas à seguridade social constarão dos respectivos orçamentos, não integrando o orçamento da União.",
+"c": true,
+"x": "É o art. 195, §1º, da CF.",
+"e": "CF, art. 195, §1º."
+},
+{
+"p": "A pessoa jurídica em débito com o sistema da seguridade social pode contratar com o Poder Público normalmente.",
+"c": false,
+"x": "Não poderá contratar com o Poder Público nem dele receber benefícios ou incentivos fiscais ou creditícios (art. 195, §3º).",
+"e": "CF, art. 195, §3º."
+},
+{
+"p": "São isentas de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei complementar.",
+"c": true,
+"x": "É o art. 195, §7º, da CF; a \"isenção\" é, na verdade, imunidade (STF).",
+"e": "CF, art. 195, §7º."
+},
+{
+"p": "A saúde é direito de todos e dever do Estado, com acesso universal e igualitário.",
+"c": true,
+"x": "É o art. 196 da CF.",
+"e": "CF, art. 196."
+},
+{
+"p": "Os Municípios estão dispensados de aplicar percentual mínimo de recursos em ações e serviços públicos de saúde.",
+"c": false,
+"x": "A LC 141/2012 fixa o mínimo de 15% da receita de impostos para os Municípios (CF, art. 198, §2º).",
+"e": "LC 141/2012."
+},
+{
+"p": "A assistência social tem por objetivos, entre outros, a proteção à família, à maternidade, à infância, à adolescência e à velhice.",
+"c": true,
+"x": "É o art. 203, I, da CF.",
+"e": "CF, art. 203."
+},
+{
+"p": "Segundo a LC 141/2012, os Municípios devem aplicar anualmente em ações e serviços públicos de saúde, no mínimo,",
+"alts": [
+"12%",
+"15%",
+"18%",
+"25%",
+"10%"
+],
+"r": 1,
+"x": "15% da arrecadação de impostos e transferências (LC 141, art. 7º). Estados: 12%.",
+"n": [
+"É o dos Estados.",
+"Correta.",
+"Não é o mínimo.",
+"É o mínimo da educação (CF, art. 212).",
+"Não é o mínimo."
+],
+"e": "LC 141, art. 7º."
 }
 ]
 },
@@ -127,6 +189,68 @@ export default {
 "Não é a idade."
 ],
 "e": "Lei 8.742, art. 20."
+},
+{
+"p": "A previdência social atenderá à cobertura dos eventos de incapacidade temporária ou permanente para o trabalho e idade avançada.",
+"c": true,
+"x": "É o art. 201, I, da CF.",
+"e": "CF, art. 201, I."
+},
+{
+"p": "É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real.",
+"c": true,
+"x": "É o art. 201, §4º, da CF.",
+"e": "CF, art. 201, §4º."
+},
+{
+"p": "O segurado especial não contribui para a previdência social.",
+"c": false,
+"x": "O segurado especial contribui sobre o resultado da comercialização da produção (CF, art. 195, §8º).",
+"e": "CF, art. 195, §8º."
+},
+{
+"p": "Após a EC 103/2019, a pensão por morte corresponde a uma cota familiar de 50% do valor da aposentadoria, acrescida de cotas de 10 pontos percentuais por dependente, até o máximo de 100%.",
+"c": true,
+"x": "É o art. 23 da EC 103/2019.",
+"e": "EC 103, art. 23."
+},
+{
+"p": "São dependentes do segurado, entre outros, o cônjuge, a companheira, o companheiro e o filho não emancipado menor de 21 anos ou inválido.",
+"c": true,
+"x": "É o art. 16, I, da Lei 8.213/1991.",
+"e": "Lei 8.213, art. 16."
+},
+{
+"p": "O auxílio-acidente substitui o salário de contribuição e não pode ser inferior ao salário mínimo.",
+"c": false,
+"x": "O auxílio-acidente é indenizatório, equivale a 50% do salário de benefício e pode ser inferior ao mínimo (Lei 8.213, art. 86).",
+"e": "Lei 8.213, art. 86."
+},
+{
+"p": "A carência do auxílio por incapacidade temporária é de 12 contribuições mensais, dispensada nos casos de acidente de qualquer natureza.",
+"c": true,
+"x": "Lei 8.213, arts. 25, I, e 26, II.",
+"e": "Lei 8.213, art. 26."
+},
+{
+"p": "A idade mínima da aposentadoria programada do trabalhador rural, após a EC 103/2019, é de",
+"alts": [
+"65 anos (homem) e 62 (mulher)",
+"60 anos (homem) e 55 (mulher)",
+"60 anos para ambos",
+"55 anos para ambos",
+"62 anos (homem) e 57 (mulher)"
+],
+"r": 1,
+"x": "CF, art. 201, §7º, II.",
+"n": [
+"É a urbana.",
+"Correta.",
+"Não é a regra.",
+"Não é a regra.",
+"Não é a regra."
+],
+"e": "CF, art. 201, §7º, II."
 }
 ]
 },
@@ -194,6 +318,62 @@ export default {
 "É idade de aposentadoria voluntária da servidora federal."
 ],
 "e": "LC 152/2015."
+},
+{
+"p": "O servidor abrangido por regime próprio que for aposentado por incapacidade permanente será submetido a avaliações periódicas para verificar a continuidade das condições.",
+"c": true,
+"x": "É o art. 40, §1º, I, da CF (EC 103).",
+"e": "CF, art. 40, §1º."
+},
+{
+"p": "Após a EC 103/2019, as vantagens de caráter temporário e as vinculadas a cargo em comissão podem ser incorporadas à remuneração do cargo efetivo.",
+"c": false,
+"x": "O art. 39, §9º, da CF, incluído pela EC 103, veda essa incorporação.",
+"e": "CF, art. 39, §9º."
+},
+{
+"p": "É vedada a percepção de mais de uma aposentadoria à conta de regime próprio, ressalvadas as decorrentes dos cargos acumuláveis na forma da Constituição.",
+"c": true,
+"x": "É o art. 40, §6º, da CF.",
+"e": "CF, art. 40, §6º."
+},
+{
+"p": "O tempo de contribuição federal, estadual, distrital ou municipal será contado para fins de aposentadoria, e o tempo de serviço militar para fins de disponibilidade.",
+"c": true,
+"x": "É o art. 40, §9º, da CF.",
+"e": "CF, art. 40, §9º."
+},
+{
+"p": "O regime de previdência complementar dos servidores pode ser oferecido por entidade aberta, com benefício definido.",
+"c": false,
+"x": "A EC 103 permite entidade fechada ou aberta, mas os planos devem ser de contribuição definida (art. 40, §15).",
+"e": "CF, art. 40, §15."
+},
+{
+"p": "Segundo o STF, é constitucional a contribuição previdenciária sobre os proventos de inativos e pensionistas que excedam o teto do RGPS.",
+"c": true,
+"x": "ADI 3105 e ADI 3128, sobre a EC 41/2003.",
+"e": "STF, ADI 3105."
+},
+{
+"p": "Belo Vale não tem regime próprio de previdência. Por isso, seus servidores efetivos",
+"alts": [
+"não têm direito a aposentadoria",
+"vinculam-se ao Regime Geral de Previdência Social",
+"vinculam-se ao RPPS do Estado",
+"podem escolher o regime",
+"só se aposentam compulsoriamente"
+],
+"r": 1,
+"x": "Sem RPPS, os servidores efetivos ficam no RGPS (LOM de Belo Vale, art. 69; e o Estatuto, art. 190).",
+"n": [
+"Têm direito pelo RGPS.",
+"Correta.",
+"Não há essa vinculação.",
+"Não há escolha.",
+"Não é a regra."
+],
+"e": "LOM de Belo Vale, art. 69."
 }
 ]
 }

@@ -69,6 +69,80 @@ export default {
 "Na recuperação judicial a alienação de UPI, em regra, é livre de sucessão."
 ],
 "e": "CLT, art. 448-A."
+},
+{
+"p": "Considera-se empregado toda pessoa física que prestar serviços de natureza não eventual a empregador, sob a dependência deste e mediante salário.",
+"c": true,
+"x": "É o art. 3º da CLT.",
+"e": "CLT, art. 3º."
+},
+{
+"p": "A CLT admite distinção entre o trabalho intelectual, técnico e manual quanto à relação de emprego.",
+"c": false,
+"x": "Não haverá distinções relativas à espécie de emprego e à condição de trabalhador, nem entre trabalho intelectual, técnico e manual (art. 3º, parágrafo único).",
+"e": "CLT, art. 3º."
+},
+{
+"p": "Não se distingue o trabalho realizado no estabelecimento do empregador, o executado no domicílio do empregado e o realizado a distância, desde que caracterizados os pressupostos da relação de emprego.",
+"c": true,
+"x": "É o art. 6º da CLT.",
+"e": "CLT, art. 6º."
+},
+{
+"p": "O contrato de trabalho intermitente deve ser celebrado por escrito e conter o valor da hora de trabalho, que não pode ser inferior ao valor horário do salário mínimo.",
+"c": true,
+"x": "É o art. 452-A da CLT (Reforma).",
+"e": "CLT, art. 452-A."
+},
+{
+"p": "A mudança na propriedade ou na estrutura jurídica da empresa extingue os contratos de trabalho dos empregados.",
+"c": false,
+"x": "Não afetará os contratos de trabalho (art. 448).",
+"e": "CLT, art. 448."
+},
+{
+"p": "Ao empregador é vedado alterar unilateralmente as condições do contrato de trabalho em prejuízo do empregado.",
+"c": true,
+"x": "É o art. 468 da CLT (inalterabilidade lesiva).",
+"e": "CLT, art. 468."
+},
+{
+"p": "O estagiário regido pela Lei 11.788/2008 não tem vínculo de emprego, desde que cumpridos os requisitos legais.",
+"c": true,
+"x": "Descumpridos os requisitos, caracteriza-se vínculo de emprego (Lei 11.788, art. 3º, §2º).",
+"e": "Lei 11.788, art. 3º."
+},
+{
+"p": "O trabalho voluntário gera vínculo empregatício quando prestado a entidade pública.",
+"c": false,
+"x": "O serviço voluntário não gera vínculo empregatício nem obrigação trabalhista (Lei 9.608/1998, art. 1º).",
+"e": "Lei 9.608, art. 1º."
+},
+{
+"p": "Pelo princípio da primazia da realidade, prevalece o que ocorre na prática sobre o que consta dos documentos formais.",
+"c": true,
+"x": "É princípio clássico do Direito do Trabalho.",
+"e": "Princípios."
+},
+{
+"p": "Na terceirização lícita, segundo o STF, a empresa contratante responde pelas obrigações trabalhistas da prestadora de forma",
+"alts": [
+"solidária, sempre",
+"subsidiária",
+"exclusiva",
+"nenhuma",
+"solidária apenas nas atividades-fim"
+],
+"r": 1,
+"x": "ADPF 324 e Tema 725. Lei 6.019, art. 5º-A, §5º.",
+"n": [
+"Não é a regra.",
+"Correta.",
+"Não é exclusiva.",
+"Há responsabilidade subsidiária.",
+"Não há essa distinção após o STF."
+],
+"e": "Lei 6.019, art. 5º-A, §5º."
 }
 ]
 },
@@ -137,6 +211,80 @@ export default {
 "Não há essa regra."
 ],
 "e": "CLT, art. 71, §4º."
+},
+{
+"p": "A remuneração do serviço extraordinário será, no mínimo, 50% superior à do normal.",
+"c": true,
+"x": "É o art. 7º, XVI, da CF.",
+"e": "CF, art. 7º, XVI."
+},
+{
+"p": "O trabalho noturno urbano é o executado entre as 22 horas de um dia e as 5 horas do dia seguinte, com adicional de pelo menos 20%.",
+"c": true,
+"x": "É o art. 73 da CLT; a hora noturna é de 52 minutos e 30 segundos.",
+"e": "CLT, art. 73."
+},
+{
+"p": "O adicional de insalubridade é de 30% sobre o salário-base do empregado.",
+"c": false,
+"x": "O de periculosidade é de 30% sobre o salário-base. O de insalubridade é de 10%, 20% ou 40%, conforme o grau (art. 192).",
+"e": "CLT, arts. 192 e 193."
+},
+{
+"p": "O 13º salário com base na remuneração integral é direito constitucional do trabalhador.",
+"c": true,
+"x": "É o art. 7º, VIII, da CF.",
+"e": "CF, art. 7º, VIII."
+},
+{
+"p": "A licença-maternidade, sem prejuízo do emprego e do salário, tem duração de 120 dias.",
+"c": true,
+"x": "É o art. 7º, XVIII, da CF.",
+"e": "CF, art. 7º, XVIII."
+},
+{
+"p": "O empregado que tiver mais de 32 faltas injustificadas no período aquisitivo terá direito a 12 dias de férias.",
+"c": false,
+"x": "Com mais de 32 faltas, o empregado perde o direito às férias daquele período (art. 130, IV).",
+"e": "CLT, art. 130."
+},
+{
+"p": "Configura justa causa o ato de improbidade, a desídia no desempenho das funções e a embriaguez habitual ou em serviço.",
+"c": true,
+"x": "É o art. 482, a, e e f, da CLT.",
+"e": "CLT, art. 482."
+},
+{
+"p": "O empregado pode considerar rescindido o contrato e pleitear indenização quando o empregador não cumprir as obrigações do contrato.",
+"c": true,
+"x": "É a rescisão indireta (art. 483, d).",
+"e": "CLT, art. 483."
+},
+{
+"p": "Segundo o STF, a estabilidade da gestante depende de prévio conhecimento do estado gravídico pelo empregador.",
+"c": false,
+"x": "O Tema 497 exige apenas a anterioridade da gravidez à dispensa.",
+"e": "STF, Tema 497."
+},
+{
+"p": "A hora noturna urbana, segundo a CLT, é computada como de",
+"alts": [
+"60 minutos",
+"52 minutos e 30 segundos",
+"45 minutos",
+"50 minutos",
+"55 minutos e 30 segundos"
+],
+"r": 1,
+"x": "É a hora reduzida do art. 73, §1º.",
+"n": [
+"Não é a regra.",
+"Correta.",
+"Não é a regra.",
+"Não é a regra.",
+"Não é a regra."
+],
+"e": "CLT, art. 73, §1º."
 }
 ]
 },
@@ -197,6 +345,68 @@ export default {
 "Há prazo máximo."
 ],
 "e": "CLT, art. 614, §3º."
+},
+{
+"p": "É livre a associação profissional ou sindical, sendo vedadas ao Poder Público a interferência e a intervenção na organização sindical.",
+"c": true,
+"x": "É o art. 8º, I, da CF.",
+"e": "CF, art. 8º, I."
+},
+{
+"p": "É obrigatória a participação dos sindicatos nas negociações coletivas de trabalho.",
+"c": true,
+"x": "É o art. 8º, VI, da CF.",
+"e": "CF, art. 8º, VI."
+},
+{
+"p": "Ninguém pode se desfiliar do sindicato da categoria depois de filiado.",
+"c": false,
+"x": "Ninguém será obrigado a filiar-se ou a manter-se filiado (art. 8º, V).",
+"e": "CF, art. 8º, V."
+},
+{
+"p": "O aposentado filiado tem direito a votar e ser votado nas organizações sindicais.",
+"c": true,
+"x": "É o art. 8º, VII, da CF.",
+"e": "CF, art. 8º, VII."
+},
+{
+"p": "Constitui objeto ilícito de convenção ou acordo coletivo a supressão ou redução do FGTS, do salário mínimo e do 13º salário.",
+"c": true,
+"x": "É o art. 611-B da CLT.",
+"e": "CLT, art. 611-B."
+},
+{
+"p": "Na greve em atividades essenciais, basta comunicar os empregadores com 48 horas de antecedência.",
+"c": false,
+"x": "Nas atividades essenciais, a comunicação é de 72 horas aos empregadores e usuários (Lei 7.783, art. 13). Nas demais, 48 horas.",
+"e": "Lei 7.783, art. 13."
+},
+{
+"p": "Durante a greve, é vedada a rescisão do contrato de trabalho e a contratação de trabalhadores substitutos, salvo exceções legais.",
+"c": true,
+"x": "É o art. 7º, parágrafo único, da Lei 7.783.",
+"e": "Lei 7.783, art. 7º."
+},
+{
+"p": "Segundo a CF, ao militar das Forças Armadas, quanto a sindicalização e greve,",
+"alts": [
+"são permitidas ambas",
+"é permitida só a sindicalização",
+"é permitida só a greve",
+"são proibidas ambas",
+"dependem de lei complementar"
+],
+"r": 3,
+"x": "CF, art. 142, §3º, IV, aplicável aos militares dos Estados (art. 42, §1º).",
+"n": [
+"São vedadas.",
+"É vedada.",
+"É vedada.",
+"Correta.",
+"A vedação é constitucional."
+],
+"e": "CF, art. 142, §3º, IV."
 }
 ]
 },
@@ -257,6 +467,62 @@ export default {
 "Está invertido."
 ],
 "e": "Lei 14.133, art. 121, §2º."
+},
+{
+"p": "A investidura em emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos.",
+"c": true,
+"x": "É o art. 37, II, da CF.",
+"e": "CF, art. 37, II."
+},
+{
+"p": "A contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público depende de lei do ente.",
+"c": true,
+"x": "É o art. 37, IX, da CF.",
+"e": "CF, art. 37, IX."
+},
+{
+"p": "O empregado público de empresa pública tem estabilidade do art. 41 da CF após três anos de efetivo exercício.",
+"c": false,
+"x": "A estabilidade do art. 41 é para servidores ocupantes de cargo efetivo. Empregados de estatais não a têm, mas sua dispensa deve ser motivada (STF, Tema 1022).",
+"e": "STF, Tema 1022."
+},
+{
+"p": "Segundo o STF, as empresas públicas e sociedades de economia mista devem motivar a dispensa de seus empregados admitidos por concurso, embora não se exija processo administrativo.",
+"c": true,
+"x": "É o Tema 1022 (RE 688.267), julgado em 2024.",
+"e": "STF, Tema 1022."
+},
+{
+"p": "A responsabilidade subsidiária da Administração na terceirização decorre automaticamente do inadimplemento da contratada.",
+"c": false,
+"x": "Exige culpa comprovada na fiscalização (ADC 16, Temas 246 e 1118).",
+"e": "STF, Tema 246."
+},
+{
+"p": "A Lei 14.133/2021 permite que a Administração condicione o pagamento à comprovação da quitação das obrigações trabalhistas vencidas da contratada.",
+"c": true,
+"x": "É o art. 121, §3º, I, da Lei 14.133.",
+"e": "Lei 14.133, art. 121, §3º."
+},
+{
+"p": "A contratação de servidor sem concurso, após a CF/1988, gera ao trabalhador direito apenas a",
+"alts": [
+"todas as verbas rescisórias",
+"saldo de salário pelas horas trabalhadas e depósitos do FGTS",
+"estabilidade provisória",
+"aviso prévio e multa de 40%",
+"indenização de 50% dos salários"
+],
+"r": 1,
+"x": "Súmula 363 do TST e Tema 308 do STF.",
+"n": [
+"O contrato é nulo.",
+"Correta.",
+"Não há estabilidade.",
+"Não são devidos.",
+"Não existe."
+],
+"e": "Súmula 363 do TST."
 }
 ]
 },
@@ -317,6 +583,62 @@ export default {
 "Não é a regra."
 ],
 "e": "Decreto-Lei 779/1969."
+},
+{
+"p": "Compete à Justiça do Trabalho processar e julgar as ações de indenização por dano moral ou patrimonial decorrentes da relação de trabalho.",
+"c": true,
+"x": "É o art. 114, VI, da CF.",
+"e": "CF, art. 114, VI."
+},
+{
+"p": "Compete à Justiça do Trabalho julgar as ações relativas às penalidades administrativas impostas aos empregadores pelos órgãos de fiscalização das relações de trabalho.",
+"c": true,
+"x": "É o art. 114, VII, da CF.",
+"e": "CF, art. 114, VII."
+},
+{
+"p": "No processo do trabalho, o prazo geral dos recursos é de 15 dias.",
+"c": false,
+"x": "O prazo geral é de 8 dias (Lei 5.584/1970, art. 6º). Embargos de declaração: 5 dias.",
+"e": "Lei 5.584, art. 6º."
+},
+{
+"p": "A reclamação trabalhista pode ser verbal ou escrita.",
+"c": true,
+"x": "É o art. 840 da CLT.",
+"e": "CLT, art. 840."
+},
+{
+"p": "Na reclamação trabalhista, o não comparecimento do reclamante à audiência gera revelia.",
+"c": false,
+"x": "O não comparecimento do reclamante importa arquivamento; o do reclamado, revelia e confissão quanto à matéria de fato (art. 844).",
+"e": "CLT, art. 844."
+},
+{
+"p": "Após a Reforma Trabalhista, o depósito recursal é reduzido pela metade para entidades sem fins lucrativos, empregadores domésticos, microempreendedores individuais e micro e pequenas empresas.",
+"c": true,
+"x": "É o art. 899, §9º, da CLT.",
+"e": "CLT, art. 899, §9º."
+},
+{
+"p": "No processo do trabalho, a ausência do reclamante à audiência inaugural acarreta",
+"alts": [
+"revelia",
+"confissão ficta",
+"arquivamento da reclamação",
+"extinção com resolução de mérito",
+"multa de 10%"
+],
+"r": 2,
+"x": "É o art. 844 da CLT.",
+"n": [
+"É efeito da ausência do reclamado.",
+"É efeito da ausência do reclamado.",
+"Correta.",
+"Não há julgamento de mérito.",
+"Não é a consequência."
+],
+"e": "CLT, art. 844."
 }
 ]
 }

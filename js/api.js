@@ -179,6 +179,13 @@ export const storage = {
     await parse(res);
     return `${SUPABASE_URL}/storage/v1/object/public/${bucket}/${path}`;
   },
+  // Baixa um arquivo privado para a memória (sem link público): usado para abrir apostilas dentro do app
+  async download(bucket, path) {
+    await refreshIfNeeded();
+    const res = await fetch(`${SUPABASE_URL}/storage/v1/object/authenticated/${bucket}/${path}`, { headers: headers() });
+    if (!res.ok) throw new Error(res.status === 400 || res.status === 404 ? 'Arquivo não encontrado ou sem permissão.' : 'Erro ao abrir o arquivo (' + res.status + ').');
+    return res.arrayBuffer();
+  },
   async remove(bucket, path) {
     await refreshIfNeeded();
     const res = await fetch(`${SUPABASE_URL}/storage/v1/object/${bucket}/${path}`, { method: 'DELETE', headers: headers() });

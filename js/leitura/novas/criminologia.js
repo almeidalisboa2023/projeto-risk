@@ -60,6 +60,50 @@ export default {
 "É modelo de resposta ao crime."
 ],
 "e": "Fases da vítima."
+},
+{
+"p": "A criminologia é considerada uma ciência do “ser”, enquanto o Direito Penal é ciência do “dever ser”.",
+"c": true,
+"x": "A criminologia observa a realidade; o Direito Penal trabalha com normas.",
+"e": "Criminologia x Direito Penal."
+},
+{
+"p": "A Política Criminal funciona como ponte entre a criminologia e o Direito Penal, transformando conhecimento empírico em estratégias e propostas legislativas.",
+"c": true,
+"x": "É a visão do modelo integrado das ciências criminais.",
+"e": "Política Criminal."
+},
+{
+"p": "A criminologia moderna estuda apenas o criminoso, desconsiderando a vítima e o controle social.",
+"c": false,
+"x": "O objeto atual é quádruplo: delito, delinquente, vítima e controle social.",
+"e": "Objeto da criminologia."
+},
+{
+"p": "A criminologia é interdisciplinar, servindo-se de conhecimentos da sociologia, psicologia, biologia, estatística, entre outras.",
+"c": true,
+"x": "Por isso o método é empírico e interdisciplinar.",
+"e": "Características."
+},
+{
+"p": "Para García-Pablos de Molina, o delito, como objeto da criminologia, deve ter",
+"alts": [
+"apenas previsão legal",
+"incidência massiva, aflitiva, persistência espaço-temporal e consenso sobre sua relevância",
+"origem biológica",
+"autoria conhecida",
+"pena de reclusão"
+],
+"r": 1,
+"x": "São os requisitos para que um fato seja problema criminológico.",
+"n": [
+"Não basta.",
+"Correta.",
+"Não é requisito.",
+"Não é requisito.",
+"Não é requisito."
+],
+"e": "García-Pablos."
 }
 ]
 },
@@ -116,6 +160,50 @@ export default {
 "Escola Clássica."
 ],
 "e": "Ferri."
+},
+{
+"p": "Beccaria defendeu a proporcionalidade das penas e se opôs à tortura e à pena de morte.",
+"c": true,
+"x": "Na obra Dos Delitos e das Penas (1764).",
+"e": "Beccaria."
+},
+{
+"p": "Garofalo é o autor da teoria do criminoso nato.",
+"c": false,
+"x": "A teoria do criminoso nato é de Lombroso. Garofalo desenvolveu o conceito de delito natural.",
+"e": "Escola Positivista."
+},
+{
+"p": "Para a Escola Positivista, a pena deve ser fixada segundo a periculosidade do criminoso.",
+"c": true,
+"x": "Pena como defesa social, por tempo indeterminado.",
+"e": "Escola Positivista."
+},
+{
+"p": "A Escola de Política Criminal, de Franz von Liszt, defendia a prevenção especial da pena.",
+"c": true,
+"x": "Com a famosa frase sobre a política criminal como barreira do Direito Penal.",
+"e": "Von Liszt."
+},
+{
+"p": "A ideia de que o crime é escolha racional do indivíduo, dotado de livre-arbítrio, é característica da Escola",
+"alts": [
+"Positivista",
+"Clássica",
+"de Chicago",
+"Correcionalista",
+"Crítica"
+],
+"r": 1,
+"x": "Beccaria e Carrara.",
+"n": [
+"É determinista.",
+"Correta.",
+"É sociológica.",
+"Vê o criminoso como incapaz.",
+"É teoria do conflito."
+],
+"e": "Escola Clássica."
 }
 ]
 },
@@ -180,6 +268,56 @@ export default {
 "É o labelling."
 ],
 "e": "Atividades rotineiras."
+},
+{
+"p": "A teoria da subcultura delinquente, de Albert Cohen, explica a delinquência juvenil como reação de grupos de jovens de classe baixa aos valores da classe média.",
+"c": true,
+"x": "O comportamento é não utilitário, malicioso e negativista.",
+"e": "Subcultura delinquente."
+},
+{
+"p": "A Escola de Chicago pertence às teorias do conflito.",
+"c": false,
+"x": "É teoria do consenso, ligada à ecologia criminal e à desorganização social.",
+"e": "Escola de Chicago."
+},
+{
+"p": "O desvio secundário, no labelling approach, é aquele que decorre da assunção do rótulo de criminoso pelo indivíduo, após a reação social.",
+"c": true,
+"x": "Lemert distingue desvio primário e secundário.",
+"e": "Labelling approach."
+},
+{
+"p": "A criminologia crítica denuncia a seletividade do sistema penal, que tende a criminalizar os grupos mais vulneráveis.",
+"c": true,
+"x": "Baratta e outros.",
+"e": "Criminologia crítica."
+},
+{
+"p": "Para Durkheim, o crime é um fenômeno normal em toda sociedade.",
+"c": true,
+"x": "Só se torna patológico quando ultrapassa certos níveis.",
+"e": "Durkheim."
+},
+{
+"p": "O conceito de crime de colarinho branco (white collar crime) foi formulado por",
+"alts": [
+"Merton",
+"Sutherland",
+"Becker",
+"Lombroso",
+"Cohen"
+],
+"r": 1,
+"x": "Na teoria da associação diferencial.",
+"n": [
+"Anomia.",
+"Correta.",
+"Labelling.",
+"Criminoso nato.",
+"Subcultura."
+],
+"e": "Sutherland."
 }
 ]
 },
@@ -235,6 +373,56 @@ export default {
 "Não é a classificação usual."
 ],
 "e": "Lei 13.431/2017."
+},
+{
+"p": "A vítima provocadora, na classificação de Mendelsohn, é considerada mais culpada que o infrator.",
+"c": true,
+"x": "É a vítima que provoca a reação do agressor.",
+"e": "Mendelsohn."
+},
+{
+"p": "A vitimização secundária é a causada diretamente pelo crime.",
+"c": false,
+"x": "A causada pelo crime é a primária. A secundária é causada pelas instâncias formais de controle.",
+"e": "Vitimização."
+},
+{
+"p": "A Lei 14.245/2021 (Lei Mariana Ferrer) protege a vítima de atos contra sua dignidade durante a audiência, combatendo a revitimização.",
+"c": true,
+"x": "Alterou o CPP e a Lei 9.099.",
+"e": "Lei 14.245/2021."
+},
+{
+"p": "A justiça restaurativa busca a reparação do dano e a responsabilização por meio do diálogo entre vítima, ofensor e comunidade.",
+"c": true,
+"x": "É regulada pela Res. CNJ 225/2016.",
+"e": "Res. CNJ 225/2016."
+},
+{
+"p": "A prevenção secundária atua em grupos e locais com maior risco de delinquência, como o policiamento ostensivo em áreas críticas.",
+"c": true,
+"x": "A primária atua nas causas sociais; a terciária, no condenado.",
+"e": "Prevenção do delito."
+},
+{
+"p": "O policiamento ostensivo concentrado em locais com alta incidência de roubos é exemplo de prevenção",
+"alts": [
+"primária",
+"secundária",
+"terciária",
+"quaternária",
+"restaurativa"
+],
+"r": 1,
+"x": "Atua sobre áreas e grupos de risco.",
+"n": [
+"Atua nas causas gerais.",
+"Correta.",
+"Atua no condenado.",
+"Não é a classificação usual.",
+"Não é modalidade de prevenção."
+],
+"e": "Prevenção do delito."
 }
 ]
 }

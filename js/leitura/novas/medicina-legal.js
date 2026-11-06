@@ -59,6 +59,62 @@ export default {
 "São as perguntas a responder."
 ],
 "e": "Documentos médico-legais."
+},
+{
+"p": "A autópsia será feita pelo menos 6 horas depois do óbito, salvo se os peritos, pela evidência dos sinais de morte, julgarem que possa ser feita antes.",
+"c": true,
+"x": "É o art. 162 do CPP.",
+"e": "CPP, art. 162."
+},
+{
+"p": "Não sendo possível o exame de corpo de delito, por haverem desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta.",
+"c": true,
+"x": "É o art. 167 do CPP (corpo de delito indireto).",
+"e": "CPP, art. 167."
+},
+{
+"p": "Os peritos não oficiais dispensam compromisso de bem e fielmente desempenhar o encargo.",
+"c": false,
+"x": "Prestarão o compromisso (CPP, art. 159, §2º).",
+"e": "CPP, art. 159, §2º."
+},
+{
+"p": "São facultadas ao MP, ao assistente de acusação, ao ofendido, ao querelante e ao acusado a formulação de quesitos e a indicação de assistente técnico.",
+"c": true,
+"x": "É o art. 159, §3º, do CPP.",
+"e": "CPP, art. 159, §3º."
+},
+{
+"p": "O parecer médico-legal é a resposta de um especialista a consulta sobre fatos já periciados, sem que ele realize novo exame.",
+"c": true,
+"x": "Também chamado de consulta médico-legal.",
+"e": "Documentos médico-legais."
+},
+{
+"p": "O atestado médico falso emitido no exercício da profissão não configura crime.",
+"c": false,
+"x": "É crime do art. 302 do CP (falsidade de atestado médico).",
+"e": "CP, art. 302."
+},
+{
+"p": "Os peritos elaborarão o laudo pericial no prazo máximo de",
+"alts": [
+"5 dias",
+"10 dias, prorrogável em casos excepcionais",
+"15 dias",
+"30 dias",
+"60 dias"
+],
+"r": 1,
+"x": "CPP, art. 160, parágrafo único.",
+"n": [
+"Não é.",
+"Correta.",
+"Não é.",
+"É o prazo do exame complementar de lesão.",
+"Não é."
+],
+"e": "CPP, art. 160."
 }
 ]
 },
@@ -121,6 +177,62 @@ export default {
 "A classificação não depende de culpa."
 ],
 "e": "CP, art. 129, §1º."
+},
+{
+"p": "Escoriação é a lesão superficial que remove a epiderme, típica da ação de instrumento contundente por deslizamento.",
+"c": true,
+"x": "Sua crosta ajuda a datar a lesão.",
+"e": "Traumatologia."
+},
+{
+"p": "Hematoma é a coleção de sangue extravasado que forma uma cavidade nos tecidos, geralmente com abaulamento.",
+"c": true,
+"x": "Diferencia-se da equimose, em que o sangue infiltra os tecidos sem formar cavidade.",
+"e": "Traumatologia."
+},
+{
+"p": "A lesão incisa caracteriza-se por bordas irregulares e pontes de tecido no fundo da ferida.",
+"c": false,
+"x": "Bordas irregulares e pontes de tecido são típicas da ferida contusa. A incisa tem bordas regulares e não tem pontes.",
+"e": "Traumatologia."
+},
+{
+"p": "No tiro a curta distância, a zona de tatuagem é formada pela incrustação de grãos de pólvora na pele.",
+"c": true,
+"x": "Indica disparo próximo; não sai com a lavagem.",
+"e": "Balística forense."
+},
+{
+"p": "A lesão por eletricidade industrial ou atmosférica (raio) pode produzir as figuras de Lichtenberg, desenhos arborescentes na pele.",
+"c": true,
+"x": "São típicas da fulguração (raio).",
+"e": "Energias físicas."
+},
+{
+"p": "A queimadura de 1º grau atinge a derme profunda e forma flictenas.",
+"c": false,
+"x": "A de 1º grau só causa eritema (vermelhidão). Flictenas (bolhas) são de 2º grau.",
+"e": "Queimaduras."
+},
+{
+"p": "A deformidade permanente, segundo o Código Penal, qualifica a lesão corporal como",
+"alts": [
+"leve",
+"grave",
+"gravíssima",
+"culposa",
+"seguida de morte"
+],
+"r": 2,
+"x": "CP, art. 129, §2º, IV.",
+"n": [
+"Não é.",
+"Não é.",
+"Correta.",
+"Não é classificação de resultado.",
+"Não houve morte."
+],
+"e": "CP, art. 129, §2º."
 }
 ]
 },
@@ -177,6 +289,56 @@ export default {
 "É fenômeno destrutivo inicial."
 ],
 "e": "Fenômenos conservadores."
+},
+{
+"p": "A rigidez cadavérica desaparece com o início da putrefação, na mesma ordem em que surgiu.",
+"c": true,
+"x": "É a lei de Nysten.",
+"e": "Tanatologia."
+},
+{
+"p": "A cronotanatognose é o estudo destinado a estimar o tempo decorrido desde a morte.",
+"c": true,
+"x": "Usa fenômenos como temperatura, livores, rigidez e putrefação.",
+"e": "Tanatologia."
+},
+{
+"p": "A saponificação ocorre em ambientes quentes, secos e ventilados.",
+"c": false,
+"x": "Esse é o ambiente da mumificação. A saponificação ocorre em ambiente úmido e pouco arejado.",
+"e": "Fenômenos conservadores."
+},
+{
+"p": "A maceração é o fenômeno transformativo que ocorre em cadáveres submersos em meio líquido, como o feto morto retido no útero.",
+"c": true,
+"x": "Há descolamento da pele.",
+"e": "Fenômenos transformativos."
+},
+{
+"p": "Morte súbita é a que ocorre de forma inesperada em pessoa aparentemente sadia, sem causa externa aparente.",
+"c": true,
+"x": "Exige investigação para afastar causa violenta.",
+"e": "Tanatologia."
+},
+{
+"p": "Na putrefação, a fase em que o cadáver fica inchado pela produção de gases é a",
+"alts": [
+"de coloração",
+"gasosa",
+"coliquativa",
+"de esqueletização",
+"de maceração"
+],
+"r": 1,
+"x": "Nela aparece o aspecto gigantesco do cadáver e a circulação póstuma de Brouardel.",
+"n": [
+"É a fase da mancha verde.",
+"Correta.",
+"É a dissolução dos tecidos.",
+"É a fase final.",
+"Não é fase da putrefação."
+],
+"e": "Putrefação."
 }
 ]
 },
@@ -230,6 +392,50 @@ export default {
 "Correta.",
 "Não é sinal típico.",
 "Não é sinal típico."
+],
+"e": "Afogamento."
+},
+{
+"p": "No enforcamento típico, o corpo fica completamente suspenso e o nó fica na região posterior do pescoço.",
+"c": true,
+"x": "No atípico, há apoio de parte do corpo ou o nó em outra posição.",
+"e": "Asfixiologia."
+},
+{
+"p": "O estrangulamento, por definição, é feito pelas mãos do agressor.",
+"c": false,
+"x": "Pelas mãos é a esganadura. O estrangulamento usa laço acionado por força externa diferente do peso do corpo.",
+"e": "Asfixiologia."
+},
+{
+"p": "As manchas de Tardieu são pequenas hemorragias puntiformes encontradas em órgãos e mucosas de vítimas de asfixia.",
+"c": true,
+"x": "São petéquias subpleurais e subepicárdicas.",
+"e": "Asfixiologia."
+},
+{
+"p": "A sufocação indireta ocorre por compressão do tórax ou do abdome, impedindo os movimentos respiratórios.",
+"c": true,
+"x": "Ex.: soterramento ou multidões.",
+"e": "Asfixiologia."
+},
+{
+"p": "No afogamento, a pele das mãos enrugada e esbranquiçada pela permanência na água é chamada de",
+"alts": [
+"cogumelo de espuma",
+"mão de lavadeira",
+"mancha de Paltauf",
+"livor de Tardieu",
+"sinal de Puppe"
+],
+"r": 1,
+"x": "É sinal de permanência na água, não prova sozinho o afogamento.",
+"n": [
+"Fica na boca e nariz.",
+"Correta.",
+"É achado pulmonar.",
+"Não é.",
+"É sinal de tiro encostado."
 ],
 "e": "Afogamento."
 }
@@ -289,6 +495,50 @@ export default {
 "Oposto do correto."
 ],
 "e": "Datiloscopia."
+},
+{
+"p": "O exame de DNA pode ser feito a partir de sangue, sêmen, saliva, cabelo com bulbo e outros vestígios biológicos.",
+"c": true,
+"x": "Por isso a preservação do local e a cadeia de custódia são essenciais.",
+"e": "Genética forense."
+},
+{
+"p": "O condenado por crime doloso praticado com violência grave contra a pessoa, ou por crime contra a vida, a liberdade sexual ou sexual contra vulnerável, será submetido à identificação do perfil genético.",
+"c": true,
+"x": "É o art. 9º-A da LEP.",
+"e": "LEP, art. 9º-A."
+},
+{
+"p": "A identificação criminal pelo DNA pode ser feita por qualquer meio, inclusive doloroso.",
+"c": false,
+"x": "A coleta deve ser feita por técnica adequada e indolor (LEP, art. 9º-A).",
+"e": "LEP, art. 9º-A."
+},
+{
+"p": "O civilmente identificado não será submetido a identificação criminal, salvo nos casos previstos em lei.",
+"c": true,
+"x": "É o art. 5º, LVIII, da CF, regulamentado pela Lei 12.037/2009.",
+"e": "CF, art. 5º, LVIII."
+},
+{
+"p": "No sistema de Vucetich, a impressão digital sem deltas é o",
+"alts": [
+"verticilo",
+"presilha interna",
+"presilha externa",
+"arco",
+"espiral"
+],
+"r": 3,
+"x": "Arco: sem delta. Presilhas: um delta. Verticilo: dois deltas.",
+"n": [
+"Tem dois deltas.",
+"Tem um delta à direita do observador.",
+"Tem um delta à esquerda.",
+"Correta.",
+"Não é tipo do sistema."
+],
+"e": "Datiloscopia."
 }
 ]
 },
@@ -343,6 +593,56 @@ export default {
 "É relevante: agrava."
 ],
 "e": "CP, art. 61, II, l."
+},
+{
+"p": "A emoção e a paixão não excluem a imputabilidade penal.",
+"c": true,
+"x": "É o art. 28, I, do CP.",
+"e": "CP, art. 28, I."
+},
+{
+"p": "O inimputável por doença mental que pratica fato típico e ilícito recebe medida de segurança, em vez de pena.",
+"c": true,
+"x": "É a absolvição imprópria (CPP, art. 386, parágrafo único, III; CP, art. 97).",
+"e": "CP, art. 97."
+},
+{
+"p": "A medida de segurança tem prazo máximo definido na sentença, igual à pena do crime.",
+"c": false,
+"x": "O CP prevê prazo indeterminado, com mínimo de 1 a 3 anos (art. 97, §1º); o STJ limita ao máximo da pena abstrata (Súmula 527).",
+"e": "Súmula 527 do STJ."
+},
+{
+"p": "O STJ entende que o tempo de duração da medida de segurança não deve ultrapassar o limite máximo da pena abstratamente cominada ao delito.",
+"c": true,
+"x": "É a Súmula 527 do STJ.",
+"e": "Súmula 527 do STJ."
+},
+{
+"p": "Havendo dúvida sobre a integridade mental do acusado, o juiz ordenará que seja submetido a exame médico-legal.",
+"c": true,
+"x": "É o incidente de insanidade mental (CPP, art. 149).",
+"e": "CPP, art. 149."
+},
+{
+"p": "A embriaguez incompleta proveniente de caso fortuito ou força maior",
+"alts": [
+"isenta de pena",
+"é irrelevante",
+"pode reduzir a pena de 1/3 a 2/3",
+"é agravante",
+"exclui a ilicitude"
+],
+"r": 2,
+"x": "CP, art. 28, §2º.",
+"n": [
+"Só a completa isenta.",
+"É relevante.",
+"Correta.",
+"Agravante é a preordenada.",
+"Não exclui a ilicitude."
+],
+"e": "CP, art. 28, §2º."
 }
 ]
 }

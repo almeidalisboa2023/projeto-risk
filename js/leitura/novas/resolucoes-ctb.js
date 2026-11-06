@@ -60,6 +60,56 @@ export default {
 "É dos DETRAN (art. 22)."
 ],
 "e": "CTB, art. 12."
+},
+{
+"p": "Compete ao CONTRAN aprovar, complementar ou alterar os dispositivos de sinalização e os dispositivos e equipamentos de trânsito.",
+"c": true,
+"x": "É o art. 12, VIII, do CTB.",
+"e": "CTB, art. 12."
+},
+{
+"p": "As JARI são órgãos normativos do Sistema Nacional de Trânsito.",
+"c": false,
+"x": "As JARI são órgãos colegiados responsáveis pelo julgamento dos recursos contra penalidades (CTB, art. 16).",
+"e": "CTB, art. 16."
+},
+{
+"p": "Compete ao CONTRAN estabelecer e normatizar os procedimentos para o enquadramento das condutas expressamente referidas no CTB.",
+"c": true,
+"x": "Art. 12, XIV, do CTB: o CONTRAN detalha procedimentos, sem criar infrações.",
+"e": "CTB, art. 12."
+},
+{
+"p": "As resoluções do CONTRAN que tratam de requisitos técnicos de veículos têm aplicação em todo o território nacional.",
+"c": true,
+"x": "O CONTRAN é órgão normativo da União, e trânsito é competência legislativa privativa da União (CF, art. 22, XI).",
+"e": "CF, art. 22, XI."
+},
+{
+"p": "Os Municípios podem editar resoluções próprias criando novos equipamentos obrigatórios para veículos.",
+"c": false,
+"x": "Equipamentos obrigatórios são definidos pelo CTB e pelo CONTRAN (CTB, art. 105).",
+"e": "CTB, art. 105."
+},
+{
+"p": "Compete aos CETRAN, segundo o CTB,",
+"alts": [
+"aprovar os equipamentos obrigatórios",
+"julgar os recursos contra decisões das JARI e responder consultas relativas à aplicação da legislação no âmbito de suas competências",
+"registrar e licenciar veículos",
+"aplicar multas nas rodovias federais",
+"presidir o CONTRAN"
+],
+"r": 1,
+"x": "CTB, art. 14.",
+"n": [
+"É do CONTRAN.",
+"Correta.",
+"É do DETRAN.",
+"É da PRF.",
+"Não é atribuição do CETRAN."
+],
+"e": "CTB, art. 14."
 }
 ]
 },
@@ -121,6 +171,62 @@ export default {
 "Não é patamar previsto."
 ],
 "e": "Res. CONTRAN 432/2013."
+},
+{
+"p": "O condutor que se recusar a se submeter a teste, exame clínico, perícia ou outro procedimento para certificar influência de álcool sofre as penalidades do art. 165-A do CTB.",
+"c": true,
+"x": "Multa (x10) e suspensão do direito de dirigir por 12 meses, com recolhimento do documento e retenção do veículo.",
+"e": "CTB, art. 165-A."
+},
+{
+"p": "Em caso de reincidência no período de 12 meses, a multa da infração de dirigir sob influência de álcool é aplicada em dobro.",
+"c": true,
+"x": "É o art. 165, parágrafo único, do CTB.",
+"e": "CTB, art. 165."
+},
+{
+"p": "O crime de embriaguez ao volante só pode ser comprovado por teste de alcoolemia ou exame de sangue.",
+"c": false,
+"x": "Também por exame clínico, perícia, vídeo, prova testemunhal ou outros meios de prova em direito admitidos (art. 306, §2º).",
+"e": "CTB, art. 306, §2º."
+},
+{
+"p": "A pena do crime de embriaguez ao volante é de detenção de 6 meses a 3 anos, multa e suspensão ou proibição de obter a permissão ou habilitação.",
+"c": true,
+"x": "É o art. 306 do CTB.",
+"e": "CTB, art. 306."
+},
+{
+"p": "O homicídio culposo na direção sob influência de álcool ou substância psicoativa tem pena de reclusão de 5 a 8 anos.",
+"c": true,
+"x": "É o art. 302, §3º, do CTB (Lei 13.546/2017).",
+"e": "CTB, art. 302, §3º."
+},
+{
+"p": "Nos crimes de trânsito com morte praticados por condutor embriagado, o juiz pode substituir a pena privativa de liberdade por restritiva de direitos.",
+"c": false,
+"x": "O art. 312-B do CTB (Lei 14.071/2020) veda a substituição nos crimes dos arts. 302, §3º, e 303, §2º.",
+"e": "CTB, art. 312-B."
+},
+{
+"p": "A penalidade de suspensão do direito de dirigir na infração do art. 165 do CTB é de",
+"alts": [
+"3 meses",
+"6 meses",
+"12 meses",
+"24 meses",
+"5 anos"
+],
+"r": 2,
+"x": "CTB, art. 165.",
+"n": [
+"Não é o prazo.",
+"Não é o prazo.",
+"Correta.",
+"Não é o prazo.",
+"Não é o prazo."
+],
+"e": "CTB, art. 165."
 }
 ]
 },
@@ -181,6 +287,62 @@ export default {
 "Não existe excesso de velocidade leve."
 ],
 "e": "CTB, art. 218."
+},
+{
+"p": "Onde não existir sinalização regulamentadora, a velocidade máxima nas rodovias de pista dupla é de 110 km/h para automóveis, camionetas e motocicletas.",
+"c": true,
+"x": "É o art. 61, §1º, II, a, 1, do CTB.",
+"e": "CTB, art. 61."
+},
+{
+"p": "Nas vias urbanas sem sinalização, a velocidade máxima é de 80 km/h nas vias de trânsito rápido, 60 nas arteriais, 40 nas coletoras e 30 nas locais.",
+"c": true,
+"x": "É o art. 61, §1º, I, do CTB.",
+"e": "CTB, art. 61."
+},
+{
+"p": "Nas rodovias de pista simples sem sinalização, a velocidade máxima para automóveis é de 110 km/h.",
+"c": false,
+"x": "É de 100 km/h para automóveis, camionetas e motocicletas; 90 km/h para os demais veículos (art. 61, §1º, II, a, 2).",
+"e": "CTB, art. 61."
+},
+{
+"p": "Transitar em velocidade inferior à metade da velocidade máxima estabelecida para a via, retardando ou obstruindo o trânsito, é infração média.",
+"c": true,
+"x": "É o art. 219 do CTB (salvo condições adversas).",
+"e": "CTB, art. 219."
+},
+{
+"p": "Conduzir o veículo com equipamento obrigatório em desacordo com o estabelecido pelo CONTRAN é infração grave.",
+"c": true,
+"x": "É o art. 230, X, do CTB.",
+"e": "CTB, art. 230."
+},
+{
+"p": "Deixar o condutor de usar o cinto de segurança é infração média.",
+"c": false,
+"x": "É infração grave (art. 167).",
+"e": "CTB, art. 167."
+},
+{
+"p": "Em rodovia de pista simples sem sinalização, a velocidade máxima para caminhões é de",
+"alts": [
+"60 km/h",
+"80 km/h",
+"90 km/h",
+"100 km/h",
+"110 km/h"
+],
+"r": 2,
+"x": "CTB, art. 61, §1º, II, a, 2: 90 km/h para os demais veículos.",
+"n": [
+"Não é.",
+"Não é.",
+"Correta.",
+"É para automóveis.",
+"É para pista dupla."
+],
+"e": "CTB, art. 61."
 }
 ]
 },
@@ -234,6 +396,50 @@ export default {
 "Há medida administrativa."
 ],
 "e": "CTB, art. 168."
+},
+{
+"p": "O transporte de crianças em motocicleta só é permitido se a criança tiver mais de 10 anos e condições de cuidar da própria segurança.",
+"c": true,
+"x": "É o art. 244, V, do CTB; transportar criança menor de 10 anos ou sem condições é infração gravíssima.",
+"e": "CTB, art. 244, V."
+},
+{
+"p": "É permitido transportar crianças no banco dianteiro em qualquer veículo, desde que usem cinto.",
+"c": false,
+"x": "A regra é o banco traseiro para menores de 10 anos com menos de 1,45 m (art. 64), com exceções da Res. 819/2021.",
+"e": "CTB, art. 64."
+},
+{
+"p": "Nos veículos de transporte escolar, é obrigatório o uso do cinto de segurança por todos os escolares.",
+"c": true,
+"x": "Os veículos escolares devem ter cintos para todos os passageiros (CTB, art. 136, VI).",
+"e": "CTB, art. 136."
+},
+{
+"p": "A Resolução 819/2021 admite o transporte de criança no banco dianteiro, com dispositivo de retenção, quando o veículo for dotado exclusivamente de banco dianteiro.",
+"c": true,
+"x": "É uma das exceções da norma.",
+"e": "Res. CONTRAN 819/2021."
+},
+{
+"p": "Transportar em motocicleta criança menor de 10 anos é infração",
+"alts": [
+"leve",
+"média",
+"grave",
+"gravíssima, com suspensão do direito de dirigir",
+"não há infração"
+],
+"r": 3,
+"x": "CTB, art. 244, V.",
+"n": [
+"Não é.",
+"Não é.",
+"Não é.",
+"Correta.",
+"Há infração."
+],
+"e": "CTB, art. 244."
 }
 ]
 },
@@ -303,6 +509,68 @@ export default {
 "Não é limite previsto."
 ],
 "e": "CTB, art. 261."
+},
+{
+"p": "A Carteira Nacional de Habilitação tem validade de 10 anos para condutores com menos de 50 anos de idade.",
+"c": true,
+"x": "É o art. 147, §2º, do CTB (Lei 14.071/2020); 5 anos de 50 a 70 anos, e 3 anos a partir de 70.",
+"e": "CTB, art. 147, §2º."
+},
+{
+"p": "A categoria B habilita a conduzir veículo motorizado com peso bruto total de até 3.500 kg e lotação de até 8 lugares, excluído o do motorista.",
+"c": true,
+"x": "É o art. 143, II, do CTB.",
+"e": "CTB, art. 143."
+},
+{
+"p": "Para se habilitar na categoria D, basta ter 18 anos e ser habilitado na categoria B.",
+"c": false,
+"x": "Exige 21 anos e habilitação há pelo menos 2 anos na categoria B ou 1 ano na C, entre outros requisitos (art. 145).",
+"e": "CTB, art. 145."
+},
+{
+"p": "A ACC habilita o condutor a dirigir ciclomotor.",
+"c": true,
+"x": "É o art. 141 do CTB.",
+"e": "CTB, art. 141."
+},
+{
+"p": "A penalidade de cassação do documento de habilitação é aplicada quando, suspenso o direito de dirigir, o infrator conduzir qualquer veículo.",
+"c": true,
+"x": "É o art. 263, I, do CTB.",
+"e": "CTB, art. 263."
+},
+{
+"p": "Decorridos 6 meses da cassação, o infrator pode requerer sua reabilitação.",
+"c": false,
+"x": "O prazo é de 2 anos, submetendo-se a todos os exames (art. 263, §2º).",
+"e": "CTB, art. 263, §2º."
+},
+{
+"p": "O condutor que cometer infração leve ou média, não reincidente nos últimos 12 meses, deverá receber a penalidade de advertência por escrito no lugar da multa.",
+"c": true,
+"x": "É o art. 267 do CTB, com redação da Lei 14.071/2020.",
+"e": "CTB, art. 267."
+},
+{
+"p": "A validade da CNH para o condutor com 72 anos de idade é de",
+"alts": [
+"10 anos",
+"5 anos",
+"3 anos",
+"2 anos",
+"1 ano"
+],
+"r": 2,
+"x": "CTB, art. 147, §2º.",
+"n": [
+"É para menores de 50 anos.",
+"É de 50 a 69 anos.",
+"Correta.",
+"Não é.",
+"Não é."
+],
+"e": "CTB, art. 147, §2º."
 }
 ]
 },
@@ -357,6 +625,56 @@ export default {
 "O RNTRC é registro do transportador."
 ],
 "e": "CTB, art. 101."
+},
+{
+"p": "Transitar com o veículo com excesso de peso é infração média, com multa acrescida a cada 200 kg ou fração de excesso de peso apurado.",
+"c": true,
+"x": "É o art. 231, V, do CTB.",
+"e": "CTB, art. 231, V."
+},
+{
+"p": "O motorista profissional é responsável por controlar e registrar o tempo de direção e de descanso.",
+"c": true,
+"x": "É o art. 67-E do CTB.",
+"e": "CTB, art. 67-E."
+},
+{
+"p": "O tempo de direção do motorista profissional não pode ser fiscalizado por meio do tacógrafo.",
+"c": false,
+"x": "A fiscalização pode usar registrador instantâneo de velocidade e tempo (tacógrafo), diário de bordo ou outros meios (art. 67-E, §2º).",
+"e": "CTB, art. 67-E."
+},
+{
+"p": "Transitar com o veículo derramando, lançando ou arrastando a carga que esteja transportando é infração gravíssima.",
+"c": true,
+"x": "É o art. 231, II, a, do CTB.",
+"e": "CTB, art. 231."
+},
+{
+"p": "Conduzir veículo com dimensões ou carga superiores aos limites legais, sem autorização especial, é infração grave.",
+"c": true,
+"x": "É o art. 231, IV, do CTB.",
+"e": "CTB, art. 231."
+},
+{
+"p": "Transitar com o veículo derramando a carga que transporta é infração",
+"alts": [
+"leve",
+"média",
+"grave",
+"gravíssima",
+"não é infração"
+],
+"r": 3,
+"x": "CTB, art. 231, II, a.",
+"n": [
+"Não é.",
+"Não é.",
+"Não é.",
+"Correta.",
+"É infração."
+],
+"e": "CTB, art. 231."
 }
 ]
 }

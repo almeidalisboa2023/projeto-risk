@@ -67,6 +67,94 @@ export default {
 "Não existe essa exigência."
 ],
 "e": "LINDB, art. 1º, §§3º e 4º."
+},
+{
+"p": "A lei nova que estabeleça disposições gerais a par das já existentes não revoga nem modifica a lei anterior.",
+"c": true,
+"x": "É o art. 2º, §2º, da LINDB: lei geral e lei especial podem conviver.",
+"e": "LINDB, art. 2º, §2º."
+},
+{
+"p": "Segundo a LINDB, o juiz, na falta de lei, deve decidir primeiro pela equidade.",
+"c": false,
+"x": "Os meios de integração do art. 4º são a analogia, os costumes e os princípios gerais de direito. Equidade só quando a lei autoriza (CPC, art. 140, parágrafo único).",
+"e": "LINDB, art. 4º."
+},
+{
+"p": "Ninguém se escusa de cumprir a lei, alegando que não a conhece.",
+"c": true,
+"x": "É o art. 3º da LINDB (princípio da obrigatoriedade).",
+"e": "LINDB, art. 3º."
+},
+{
+"p": "Considera-se adquirido o direito que o seu titular possa exercer, ou aquele cujo começo de exercício tenha termo prefixado.",
+"c": true,
+"x": "É o art. 6º, §2º, da LINDB.",
+"e": "LINDB, art. 6º, §2º."
+},
+{
+"p": "A revogação tácita ocorre somente quando a lei nova declara expressamente revogada a anterior.",
+"c": false,
+"x": "Isso é revogação expressa. A tácita ocorre quando a lei nova é incompatível com a anterior ou regula inteiramente a matéria (art. 2º, §1º).",
+"e": "LINDB, art. 2º, §1º."
+},
+{
+"p": "Segundo a LINDB, a decisão que decretar a invalidação de ato administrativo deverá indicar de modo expresso suas consequências jurídicas e administrativas.",
+"c": true,
+"x": "É o art. 21 da LINDB, incluído pela Lei 13.655/2018.",
+"e": "LINDB, art. 21."
+},
+{
+"p": "A LINDB proíbe a celebração de compromisso entre a autoridade administrativa e os interessados para eliminar irregularidades.",
+"c": false,
+"x": "O art. 26 autoriza expressamente o compromisso, após oitiva do órgão jurídico e, quando for o caso, consulta pública.",
+"e": "LINDB, art. 26."
+},
+{
+"p": "A sentença estrangeira só será executada no Brasil depois de homologada pelo STJ.",
+"c": true,
+"x": "Art. 15 da LINDB c/c art. 105, I, i, da CF (EC 45/2004).",
+"e": "CF, art. 105, I, i."
+},
+{
+"p": "Uma lei publicada sem cláusula de vigência, que seja republicada para correção ainda durante a vacatio legis, entrará em vigor",
+"alts": [
+"na data da primeira publicação",
+"45 dias após a primeira publicação",
+"45 dias após a nova publicação",
+"3 meses após a nova publicação",
+"imediatamente"
+],
+"r": 2,
+"x": "Republicada para correção antes de entrar em vigor, o prazo da vacatio começa a correr da nova publicação (art. 1º, §3º).",
+"n": [
+"Não há vigência imediata sem previsão.",
+"O prazo recomeça.",
+"Correta.",
+"3 meses é para o exterior.",
+"Não há previsão de vigência imediata."
+],
+"e": "LINDB, art. 1º, §3º."
+},
+{
+"p": "Nos termos da LINDB, o agente público responde pessoalmente por suas decisões em caso de",
+"alts": [
+"qualquer culpa",
+"dolo ou erro grosseiro",
+"culpa leve",
+"culpa levíssima",
+"apenas dolo"
+],
+"r": 1,
+"x": "É o art. 28 da LINDB.",
+"n": [
+"A LINDB restringe a responsabilização.",
+"Correta.",
+"Não basta.",
+"Não basta.",
+"Erro grosseiro também gera responsabilidade."
+],
+"e": "LINDB, art. 28."
 }
 ]
 },
@@ -154,6 +242,80 @@ export default {
 "Não existe essa hipótese."
 ],
 "e": "CC, art. 7º."
+},
+{
+"p": "A personalidade civil da pessoa começa do nascimento com vida, mas a lei põe a salvo, desde a concepção, os direitos do nascituro.",
+"c": true,
+"x": "É o art. 2º do CC.",
+"e": "CC, art. 2º."
+},
+{
+"p": "Os ébrios habituais são absolutamente incapazes, segundo o Código Civil.",
+"c": false,
+"x": "Os ébrios habituais e os viciados em tóxico são relativamente incapazes (art. 4º, II).",
+"e": "CC, art. 4º, II."
+},
+{
+"p": "Cessa a incapacidade do menor pelo casamento.",
+"c": true,
+"x": "É hipótese de emancipação legal (art. 5º, parágrafo único, II).",
+"e": "CC, art. 5º, parágrafo único, II."
+},
+{
+"p": "Cessa a incapacidade do menor que, com 16 anos completos, tenha economia própria em razão de relação de emprego.",
+"c": true,
+"x": "É o art. 5º, parágrafo único, V, do CC.",
+"e": "CC, art. 5º, parágrafo único, V."
+},
+{
+"p": "A emancipação do menor sob tutela é feita por instrumento público, sem necessidade de sentença.",
+"c": false,
+"x": "A emancipação do tutelado é judicial, ouvido o tutor (art. 5º, parágrafo único, I, parte final).",
+"e": "CC, art. 5º."
+},
+{
+"p": "É defeso o ato de disposição do próprio corpo quando importar diminuição permanente da integridade física, salvo por exigência médica.",
+"c": true,
+"x": "É o art. 13 do CC. Admite-se para fins de transplante, na forma da lei.",
+"e": "CC, art. 13."
+},
+{
+"p": "O pseudônimo adotado para atividades lícitas não goza da proteção que se dá ao nome.",
+"c": false,
+"x": "O art. 19 do CC diz que goza da mesma proteção.",
+"e": "CC, art. 19."
+},
+{
+"p": "Na sucessão provisória, a sentença só produz efeito 180 dias depois de publicada pela imprensa.",
+"c": true,
+"x": "É o art. 28 do CC.",
+"e": "CC, art. 28."
+},
+{
+"p": "Se dois ou mais indivíduos falecerem na mesma ocasião, não se podendo averiguar se algum precedeu aos outros, presumir-se-ão simultaneamente mortos.",
+"c": true,
+"x": "É a comoriência (art. 8º do CC): não há transmissão de herança entre os comorientes.",
+"e": "CC, art. 8º."
+},
+{
+"p": "Segundo o Código Civil, NÃO é causa de cessação da incapacidade:",
+"alts": [
+"o casamento",
+"o exercício de emprego público efetivo",
+"a colação de grau em curso de ensino superior",
+"a aprovação em vestibular",
+"o estabelecimento civil com economia própria"
+],
+"r": 3,
+"x": "O rol do art. 5º, parágrafo único, não inclui a aprovação em vestibular.",
+"n": [
+"É hipótese legal.",
+"É hipótese legal.",
+"É hipótese legal.",
+"Correta.",
+"É hipótese legal (16 anos completos)."
+],
+"e": "CC, art. 5º."
 }
 ]
 },
@@ -219,6 +381,80 @@ export default {
 "Não é o critério."
 ],
 "e": "CC, art. 75, III."
+},
+{
+"p": "Começa a existência legal das pessoas jurídicas de direito privado com a inscrição do ato constitutivo no respectivo registro.",
+"c": true,
+"x": "É o art. 45 do CC.",
+"e": "CC, art. 45."
+},
+{
+"p": "As organizações religiosas e os partidos políticos são pessoas jurídicas de direito público.",
+"c": false,
+"x": "São pessoas jurídicas de direito privado (art. 44, IV e V).",
+"e": "CC, art. 44."
+},
+{
+"p": "Os estados estrangeiros e todas as pessoas que forem regidas pelo direito internacional público são pessoas jurídicas de direito público externo.",
+"c": true,
+"x": "É o art. 42 do CC.",
+"e": "CC, art. 42."
+},
+{
+"p": "Nas associações, não há, entre os associados, direitos e obrigações recíprocos.",
+"c": true,
+"x": "É o art. 53, parágrafo único, do CC.",
+"e": "CC, art. 53."
+},
+{
+"p": "A exclusão do associado independe de justa causa e de procedimento que assegure direito de defesa.",
+"c": false,
+"x": "Exige justa causa, em procedimento que assegure direito de defesa e de recurso, nos termos do estatuto (art. 57).",
+"e": "CC, art. 57."
+},
+{
+"p": "Velará pelas fundações o Ministério Público do Estado onde situadas.",
+"c": true,
+"x": "É o art. 66 do CC.",
+"e": "CC, art. 66."
+},
+{
+"p": "Confusão patrimonial é a ausência de separação de fato entre os patrimônios, caracterizada, entre outros, pelo cumprimento repetitivo pela sociedade de obrigações do sócio.",
+"c": true,
+"x": "É o art. 50, §2º, I, do CC.",
+"e": "CC, art. 50, §2º."
+},
+{
+"p": "Ter a pessoa natural diversas residências onde alternadamente viva impede a fixação de seu domicílio.",
+"c": false,
+"x": "Considera-se domicílio qualquer delas (art. 71).",
+"e": "CC, art. 71."
+},
+{
+"p": "Quanto às relações concernentes à profissão, é também domicílio da pessoa natural o lugar onde esta é exercida.",
+"c": true,
+"x": "É o art. 72 do CC.",
+"e": "CC, art. 72."
+},
+{
+"p": "O domicílio necessário do preso, segundo o Código Civil, é",
+"alts": [
+"o de sua família",
+"o lugar em que cumprir a sentença",
+"o último domicílio voluntário",
+"o da comarca da condenação",
+"o de seu advogado"
+],
+"r": 1,
+"x": "É o art. 76, parágrafo único, do CC.",
+"n": [
+"Não é a regra.",
+"Correta.",
+"Não é a regra.",
+"Não é a regra.",
+"Não é a regra."
+],
+"e": "CC, art. 76."
 }
 ]
 },
@@ -298,6 +534,80 @@ export default {
 "São de uso comum do povo."
 ],
 "e": "CC, art. 99."
+},
+{
+"p": "São bens públicos os do domínio nacional pertencentes às pessoas jurídicas de direito público interno; todos os outros são particulares.",
+"c": true,
+"x": "É o art. 98 do CC.",
+"e": "CC, art. 98."
+},
+{
+"p": "Os bens públicos de uso especial podem ser alienados livremente pelo Município.",
+"c": false,
+"x": "São inalienáveis enquanto conservarem essa qualificação (art. 100). Primeiro é preciso desafetá-los.",
+"e": "CC, art. 100."
+},
+{
+"p": "O silêncio importa anuência quando as circunstâncias ou os usos o autorizarem e não for necessária a declaração de vontade expressa.",
+"c": true,
+"x": "É o art. 111 do CC.",
+"e": "CC, art. 111."
+},
+{
+"p": "Nos negócios jurídicos benéficos e na renúncia, a interpretação é estrita.",
+"c": true,
+"x": "É o art. 114 do CC.",
+"e": "CC, art. 114."
+},
+{
+"p": "O dolo acidental leva à anulação do negócio jurídico.",
+"c": false,
+"x": "O dolo acidental só obriga às perdas e danos; o negócio seria realizado, embora de outro modo (art. 146).",
+"e": "CC, art. 146."
+},
+{
+"p": "Não se considera coação a ameaça do exercício normal de um direito, nem o simples temor reverencial.",
+"c": true,
+"x": "É o art. 153 do CC.",
+"e": "CC, art. 153."
+},
+{
+"p": "No estado de perigo, não se exige que a outra parte conheça a situação de grave dano.",
+"c": false,
+"x": "No estado de perigo, o grave dano deve ser conhecido da outra parte (art. 156). Na lesão, não se exige.",
+"e": "CC, art. 156."
+},
+{
+"p": "A escritura pública é essencial à validade dos negócios que visem à constituição ou transferência de direitos reais sobre imóveis de valor superior a 30 vezes o maior salário mínimo vigente.",
+"c": true,
+"x": "É o art. 108 do CC.",
+"e": "CC, art. 108."
+},
+{
+"p": "A invalidade do instrumento não induz a do negócio jurídico sempre que este puder provar-se por outro meio.",
+"c": true,
+"x": "É o art. 183 do CC.",
+"e": "CC, art. 183."
+},
+{
+"p": "É anulável o negócio jurídico",
+"alts": [
+"celebrado por pessoa absolutamente incapaz",
+"com objeto ilícito",
+"simulado",
+"por vício resultante de erro, dolo, coação, estado de perigo, lesão ou fraude contra credores",
+"que não revestir a forma prescrita em lei"
+],
+"r": 3,
+"x": "É o art. 171, II, do CC. As demais alternativas são casos de nulidade (arts. 166 e 167).",
+"n": [
+"É nulo.",
+"É nulo.",
+"É nulo (art. 167).",
+"Correta.",
+"É nulo."
+],
+"e": "CC, art. 171."
 }
 ]
 },
@@ -369,6 +679,80 @@ export default {
 "Era a regra geral do CC/1916."
 ],
 "e": "CC, art. 205."
+},
+{
+"p": "A exceção prescreve no mesmo prazo em que a pretensão.",
+"c": true,
+"x": "É o art. 190 do CC.",
+"e": "CC, art. 190."
+},
+{
+"p": "A prescrição iniciada contra uma pessoa continua a correr contra o seu sucessor.",
+"c": true,
+"x": "É o art. 196 do CC.",
+"e": "CC, art. 196."
+},
+{
+"p": "Corre a prescrição entre cônjuges na constância da sociedade conjugal.",
+"c": false,
+"x": "Não corre (art. 197, I).",
+"e": "CC, art. 197, I."
+},
+{
+"p": "A prescrição pode ser alegada em qualquer grau de jurisdição, pela parte a quem aproveita.",
+"c": true,
+"x": "É o art. 193 do CC.",
+"e": "CC, art. 193."
+},
+{
+"p": "A interrupção da prescrição por um credor não aproveita aos outros, mas a interrupção operada contra o codevedor solidário envolve os demais.",
+"c": true,
+"x": "É o art. 204, caput e §1º, do CC.",
+"e": "CC, art. 204."
+},
+{
+"p": "Prescreve em 3 anos a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular.",
+"c": false,
+"x": "O prazo é de 5 anos (art. 206, §5º, I).",
+"e": "CC, art. 206, §5º."
+},
+{
+"p": "Prescreve em 3 anos a pretensão relativa a aluguéis de prédios urbanos ou rústicos.",
+"c": true,
+"x": "É o art. 206, §3º, I, do CC.",
+"e": "CC, art. 206, §3º."
+},
+{
+"p": "Salvo disposição legal em contrário, não se aplicam à decadência as normas que impedem, suspendem ou interrompem a prescrição.",
+"c": true,
+"x": "É o art. 207 do CC.",
+"e": "CC, art. 207."
+},
+{
+"p": "Segundo o STJ, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência.",
+"c": true,
+"x": "É a Súmula 106 do STJ.",
+"e": "Súmula 106 do STJ."
+},
+{
+"p": "A pretensão de reparação civil entre particulares prescreve, segundo o Código Civil, em",
+"alts": [
+"1 ano",
+"2 anos",
+"3 anos",
+"5 anos",
+"10 anos"
+],
+"r": 2,
+"x": "É o art. 206, §3º, V, do CC. Contra a Fazenda, 5 anos (Decreto 20.910/1932).",
+"n": [
+"Não é o prazo.",
+"É o prazo dos alimentos.",
+"Correta.",
+"É contra a Fazenda.",
+"É a regra geral."
+],
+"e": "CC, art. 206, §3º, V."
 }
 ]
 },
@@ -436,6 +820,80 @@ export default {
 "O juiz deve reduzir em caso de excesso (art. 413)."
 ],
 "e": "CC, arts. 412 e 413."
+},
+{
+"p": "O devedor da obrigação de dar coisa certa não pode obrigar o credor a receber outra, ainda que mais valiosa.",
+"c": true,
+"x": "É o art. 313 do CC.",
+"e": "CC, art. 313."
+},
+{
+"p": "Nas coisas determinadas pelo gênero e pela quantidade, a escolha pertence ao devedor, se o contrário não resultar do título.",
+"c": true,
+"x": "É o art. 244 do CC: ele não pode dar a pior nem é obrigado a dar a melhor.",
+"e": "CC, art. 244."
+},
+{
+"p": "Nas obrigações alternativas, a escolha cabe sempre ao credor.",
+"c": false,
+"x": "Cabe ao devedor, se outra coisa não se estipulou (art. 252).",
+"e": "CC, art. 252."
+},
+{
+"p": "Na solidariedade ativa, o pagamento feito a um dos credores solidários extingue a dívida até o montante do que foi pago.",
+"c": true,
+"x": "É o art. 269 do CC.",
+"e": "CC, art. 269."
+},
+{
+"p": "A novação dispensa o ânimo de novar, que se presume em toda nova obrigação.",
+"c": false,
+"x": "Não havendo ânimo de novar, expresso ou tácito mas inequívoco, a segunda obrigação confirma a primeira (art. 361).",
+"e": "CC, art. 361."
+},
+{
+"p": "A dação em pagamento ocorre quando o credor consente em receber prestação diversa da que lhe é devida.",
+"c": true,
+"x": "É o art. 356 do CC.",
+"e": "CC, art. 356."
+},
+{
+"p": "Extingue-se a obrigação, desde que na mesma pessoa se confundam as qualidades de credor e devedor.",
+"c": true,
+"x": "É a confusão (art. 381).",
+"e": "CC, art. 381."
+},
+{
+"p": "Os juros moratórios só são devidos se o credor provar prejuízo.",
+"c": false,
+"x": "Ainda que não se alegue prejuízo, o devedor é obrigado aos juros da mora (art. 407).",
+"e": "CC, art. 407."
+},
+{
+"p": "Para exigir a pena convencional, não é necessário que o credor alegue prejuízo.",
+"c": true,
+"x": "É o art. 416 do CC.",
+"e": "CC, art. 416."
+},
+{
+"p": "Extinguem-se as dívidas por meio da compensação quando duas pessoas forem ao mesmo tempo credor e devedor uma da outra, desde que as dívidas sejam",
+"alts": [
+"de qualquer natureza",
+"ilíquidas e vincendas",
+"líquidas, vencidas e de coisas fungíveis",
+"apenas em dinheiro e da mesma origem",
+"de valor idêntico"
+],
+"r": 2,
+"x": "É o art. 369 do CC.",
+"n": [
+"Há requisitos.",
+"É o oposto.",
+"Correta.",
+"Não se exige mesma origem.",
+"Compensa-se até onde se equivalerem."
+],
+"e": "CC, art. 369."
 }
 ]
 },
@@ -506,6 +964,80 @@ export default {
 "Contrato gratuito tem regra própria (art. 480)."
 ],
 "e": "CC, art. 478."
+},
+{
+"p": "A proposta de contrato obriga o proponente, se o contrário não resultar dos termos dela, da natureza do negócio ou das circunstâncias do caso.",
+"c": true,
+"x": "É o art. 427 do CC.",
+"e": "CC, art. 427."
+},
+{
+"p": "Nos contratos bilaterais, um contratante pode exigir o cumprimento da obrigação do outro antes de cumprir a sua.",
+"c": false,
+"x": "A exceção do contrato não cumprido impede essa exigência (art. 476).",
+"e": "CC, art. 476."
+},
+{
+"p": "Nos contratos onerosos, o alienante responde pela evicção, subsistindo essa garantia ainda que a aquisição se tenha realizado em hasta pública.",
+"c": true,
+"x": "É o art. 447 do CC.",
+"e": "CC, art. 447."
+},
+{
+"p": "É lícito às partes estipular contratos atípicos, observadas as normas gerais do Código Civil.",
+"c": true,
+"x": "É o art. 425 do CC.",
+"e": "CC, art. 425."
+},
+{
+"p": "Não pode ser objeto de contrato a herança de pessoa viva, salvo se houver consentimento do futuro autor da herança.",
+"c": false,
+"x": "A proibição do art. 426 (pacta corvina) é absoluta no CC; não há exceção por consentimento.",
+"e": "CC, art. 426."
+},
+{
+"p": "Na compra e venda, até o momento da tradição, os riscos da coisa correm por conta do vendedor, e os do preço por conta do comprador.",
+"c": true,
+"x": "É o art. 492 do CC.",
+"e": "CC, art. 492."
+},
+{
+"p": "A doação feita em contemplação de casamento futuro com certa e determinada pessoa não pode ser impugnada por falta de aceitação.",
+"c": true,
+"x": "É o art. 546 do CC; só fica sem efeito se o casamento não se realizar.",
+"e": "CC, art. 546."
+},
+{
+"p": "A doação pode ser revogada por ingratidão do donatário, mesmo nas doações puramente remuneratórias.",
+"c": false,
+"x": "Não se revogam por ingratidão, entre outras, as doações puramente remuneratórias (art. 564, I).",
+"e": "CC, art. 564."
+},
+{
+"p": "O fiador pode exonerar-se da fiança que tiver assinado sem limitação de tempo, ficando obrigado por todos os efeitos durante 60 dias após a notificação do credor.",
+"c": true,
+"x": "É o art. 835 do CC.",
+"e": "CC, art. 835."
+},
+{
+"p": "O prazo para o adquirente reclamar de vício oculto em bem móvel é de",
+"alts": [
+"7 dias",
+"30 dias",
+"90 dias",
+"180 dias",
+"1 ano"
+],
+"r": 1,
+"x": "Art. 445 do CC: 30 dias para móvel, 1 ano para imóvel, contados da entrega efetiva.",
+"n": [
+"Não é o prazo.",
+"Correta.",
+"É prazo do CDC para bens duráveis.",
+"Não é o prazo.",
+"É para imóvel."
+],
+"e": "CC, art. 445."
 }
 ]
 },
@@ -592,6 +1124,80 @@ export default {
 "Não afastam a responsabilidade estatal perante a vítima."
 ],
 "e": "CF, art. 37, §6º."
+},
+{
+"p": "Aquele que, por ato ilícito, causar dano a outrem, fica obrigado a repará-lo.",
+"c": true,
+"x": "É o art. 927, caput, do CC.",
+"e": "CC, art. 927."
+},
+{
+"p": "O dono ou detentor do animal ressarcirá o dano por este causado, se não provar culpa da vítima ou força maior.",
+"c": true,
+"x": "É o art. 936 do CC (responsabilidade objetiva).",
+"e": "CC, art. 936."
+},
+{
+"p": "Aquele que habitar prédio, ou parte dele, responde pelo dano proveniente das coisas que dele caírem ou forem lançadas em lugar indevido.",
+"c": true,
+"x": "É o art. 938 do CC (actio de effusis et dejectis).",
+"e": "CC, art. 938."
+},
+{
+"p": "A responsabilidade civil depende da criminal, de modo que não se pode questionar a existência do fato no juízo cível enquanto pendente a ação penal.",
+"c": false,
+"x": "As responsabilidades são independentes; mas não se pode questionar a existência do fato ou a autoria quando estas questões estiverem decididas no juízo criminal (art. 935).",
+"e": "CC, art. 935."
+},
+{
+"p": "Se a vítima tiver concorrido culposamente para o evento danoso, a indenização será fixada considerando-se a gravidade de sua culpa em confronto com a do autor do dano.",
+"c": true,
+"x": "É o art. 945 do CC (culpa concorrente).",
+"e": "CC, art. 945."
+},
+{
+"p": "No caso de homicídio, a indenização não inclui a prestação de alimentos às pessoas a quem o morto os devia.",
+"c": false,
+"x": "Inclui (art. 948, II), levando-se em conta a duração provável da vida da vítima.",
+"e": "CC, art. 948."
+},
+{
+"p": "Segundo o STJ, as indenizações por dano material e dano moral oriundos do mesmo fato são cumuláveis.",
+"c": true,
+"x": "É a Súmula 37 do STJ.",
+"e": "Súmula 37 do STJ."
+},
+{
+"p": "Segundo o STF, o Estado responde objetivamente pela morte de detento quando há inobservância do seu dever específico de proteção.",
+"c": true,
+"x": "É o Tema 592 (RE 841.526).",
+"e": "STF, Tema 592."
+},
+{
+"p": "O direito de exigir reparação e a obrigação de prestá-la não se transmitem com a herança.",
+"c": false,
+"x": "Transmitem-se com a herança (art. 943).",
+"e": "CC, art. 943."
+},
+{
+"p": "Pelo Código Civil, os pais respondem pelos atos dos filhos menores que estiverem sob sua autoridade e em sua companhia",
+"alts": [
+"apenas se provada culpa in vigilando",
+"independentemente de culpa",
+"apenas se o filho for absolutamente incapaz",
+"só em caráter subsidiário ao filho",
+"apenas se o dano for patrimonial"
+],
+"r": 1,
+"x": "Arts. 932, I, e 933 do CC: responsabilidade objetiva pelos atos de terceiros.",
+"n": [
+"O CC/2002 dispensa a prova de culpa.",
+"Correta.",
+"Não há essa restrição.",
+"Os pais respondem diretamente.",
+"Não há essa restrição."
+],
+"e": "CC, arts. 932 e 933."
 }
 ]
 },
@@ -661,6 +1267,80 @@ export default {
 "É a usucapião familiar."
 ],
 "e": "CC, art. 1.238."
+},
+{
+"p": "Considera-se possuidor todo aquele que tem de fato o exercício, pleno ou não, de algum dos poderes inerentes à propriedade.",
+"c": true,
+"x": "É o art. 1.196 do CC.",
+"e": "CC, art. 1.196."
+},
+{
+"p": "É justa a posse que não for violenta, clandestina ou precária.",
+"c": true,
+"x": "É o art. 1.200 do CC.",
+"e": "CC, art. 1.200."
+},
+{
+"p": "A posse direta de quem tem a coisa em seu poder temporariamente, como o locatário, anula a posse indireta do proprietário.",
+"c": false,
+"x": "A posse direta não anula a indireta (art. 1.197).",
+"e": "CC, art. 1.197."
+},
+{
+"p": "O possuidor turbado, ou esbulhado, poderá manter-se ou restituir-se por sua própria força, contanto que o faça logo.",
+"c": true,
+"x": "É o desforço imediato (art. 1.210, §1º).",
+"e": "CC, art. 1.210, §1º."
+},
+{
+"p": "Não obsta à manutenção ou reintegração na posse a alegação de propriedade, ou de outro direito sobre a coisa.",
+"c": true,
+"x": "É o art. 1.210, §2º, do CC: a posse se discute separada do domínio.",
+"e": "CC, art. 1.210, §2º."
+},
+{
+"p": "A propriedade do solo abrange as jazidas, minas e demais recursos minerais.",
+"c": false,
+"x": "Não abrange (art. 1.230): pertencem à União (CF, art. 20, IX).",
+"e": "CC, art. 1.230."
+},
+{
+"p": "O usufruto pode recair em um ou mais bens, móveis ou imóveis, em um patrimônio inteiro, ou parte deste.",
+"c": true,
+"x": "É o art. 1.390 do CC.",
+"e": "CC, art. 1.390."
+},
+{
+"p": "A hipoteca abrange todas as acessões, melhoramentos ou construções do imóvel.",
+"c": true,
+"x": "É o art. 1.474 do CC.",
+"e": "CC, art. 1.474."
+},
+{
+"p": "Na alienação fiduciária, o credor fiduciário pode ficar com a coisa alienada em garantia se a dívida não for paga, sendo válida a cláusula comissória.",
+"c": false,
+"x": "É nula a cláusula que autoriza o credor a ficar com a coisa (art. 1.365); ela deve ser vendida.",
+"e": "CC, art. 1.365."
+},
+{
+"p": "A usucapião especial urbana, prevista na Constituição, exige posse por",
+"alts": [
+"2 anos de área até 250 m²",
+"5 anos ininterruptos e sem oposição de área urbana de até 250 m², utilizada para moradia, sem ser proprietário de outro imóvel",
+"10 anos com justo título",
+"15 anos sem justo título",
+"5 anos de área rural de até 50 ha"
+],
+"r": 1,
+"x": "É o art. 183 da CF e o art. 1.240 do CC.",
+"n": [
+"É a usucapião familiar.",
+"Correta.",
+"É a ordinária.",
+"É a extraordinária.",
+"É a rural."
+],
+"e": "CF, art. 183."
 }
 ]
 },
@@ -720,6 +1400,68 @@ export default {
 "Publicidade é o acesso às informações."
 ],
 "e": "Lei 6.015, art. 176."
+},
+{
+"p": "Os registros públicos têm por finalidade garantir a autenticidade, a segurança e a eficácia dos atos jurídicos.",
+"c": true,
+"x": "É o art. 1º da Lei 6.015/1973.",
+"e": "Lei 6.015, art. 1º."
+},
+{
+"p": "No registro de imóveis, o imóvel pode ter mais de uma matrícula, uma para cada proprietário.",
+"c": false,
+"x": "Cada imóvel tem matrícula própria e única (princípio da unitariedade, art. 176, §1º, I).",
+"e": "Lei 6.015, art. 176."
+},
+{
+"p": "Protocolizado o título, procede-se ao registro, que goza de prioridade em relação aos títulos posteriores.",
+"c": true,
+"x": "É o princípio da prioridade (arts. 182 e 186 da Lei 6.015).",
+"e": "Lei 6.015, art. 186."
+},
+{
+"p": "Se o oficial tiver exigência a ser satisfeita, indicá-la-á por escrito; não se conformando o apresentante, será o título remetido ao juízo competente para dirimir a dúvida.",
+"c": true,
+"x": "É o procedimento de dúvida registral (art. 198 da Lei 6.015).",
+"e": "Lei 6.015, art. 198."
+},
+{
+"p": "Enquanto não se registrar o título translativo, o alienante continua a ser havido como dono do imóvel, mas o adquirente já é proprietário perante terceiros.",
+"c": false,
+"x": "Enquanto não registrado, o alienante continua dono, inclusive perante terceiros (CC, art. 1.245, §1º).",
+"e": "CC, art. 1.245, §1º."
+},
+{
+"p": "Desde a Lei 14.382/2022, a pessoa registrada pode, após atingir a maioridade, requerer pessoalmente e imotivadamente a alteração de seu prenome no cartório.",
+"c": true,
+"x": "É o art. 56 da Lei 6.015, com redação da Lei 14.382/2022.",
+"e": "Lei 6.015, art. 56."
+},
+{
+"p": "A retificação do registro de imóveis pode ser feita de ofício ou a requerimento do interessado, perante o próprio oficial, nos casos do art. 213 da Lei 6.015.",
+"c": true,
+"x": "É a retificação administrativa (extrajudicial).",
+"e": "Lei 6.015, art. 213."
+},
+{
+"p": "O princípio registral segundo o qual só se admite o registro se o transmitente constar como titular é o da",
+"alts": [
+"especialidade",
+"prioridade",
+"continuidade",
+"publicidade",
+"instância"
+],
+"r": 2,
+"x": "É o art. 195 da Lei 6.015.",
+"n": [
+"Trata da identificação do imóvel.",
+"Trata da preferência pela ordem.",
+"Correta.",
+"Trata do acesso.",
+"Trata da provocação."
+],
+"e": "Lei 6.015, art. 195."
 }
 ]
 },
@@ -788,6 +1530,80 @@ export default {
 "Não é o critério."
 ],
 "e": "Súmula 309 do STJ."
+},
+{
+"p": "O casamento é civil e gratuita a sua celebração.",
+"c": true,
+"x": "É o art. 1.512 do CC.",
+"e": "CC, art. 1.512."
+},
+{
+"p": "Podem casar os ascendentes com os descendentes, desde que seja parentesco por afinidade.",
+"c": false,
+"x": "Não podem casar os ascendentes com os descendentes, seja o parentesco natural ou civil, nem os afins em linha reta (art. 1.521, I e II).",
+"e": "CC, art. 1.521."
+},
+{
+"p": "O casamento religioso que atender às exigências da lei para a validade do casamento civil equipara-se a este, desde que registrado no registro próprio.",
+"c": true,
+"x": "É o art. 1.515 do CC.",
+"e": "CC, art. 1.515."
+},
+{
+"p": "A união estável não se constitui se ocorrerem os impedimentos do art. 1.521, não se aplicando a incidência do inciso VI no caso de a pessoa casada se achar separada de fato.",
+"c": true,
+"x": "É o art. 1.723, §1º, do CC.",
+"e": "CC, art. 1.723, §1º."
+},
+{
+"p": "No regime da comunhão parcial, comunicam-se os bens que cada cônjuge possuir ao casar e os recebidos por doação ou sucessão.",
+"c": false,
+"x": "Esses bens são excluídos da comunhão (art. 1.659, I).",
+"e": "CC, art. 1.659."
+},
+{
+"p": "O poder familiar é exercido em igualdade de condições pelo pai e pela mãe.",
+"c": true,
+"x": "É o art. 1.631 do CC e o art. 21 do ECA.",
+"e": "CC, art. 1.631."
+},
+{
+"p": "A guarda compartilhada é a regra quando ambos os genitores estiverem aptos a exercer o poder familiar, salvo se um deles declarar que não deseja a guarda.",
+"c": true,
+"x": "É o art. 1.584, §2º, do CC (Lei 13.058/2014).",
+"e": "CC, art. 1.584, §2º."
+},
+{
+"p": "O direito a alimentos é renunciável, podendo o credor dispensá-los definitivamente.",
+"c": false,
+"x": "Pode-se deixar de exercer, mas é vedado renunciar ao direito a alimentos (art. 1.707).",
+"e": "CC, art. 1.707."
+},
+{
+"p": "Segundo o STJ, o cancelamento da pensão alimentícia de filho que atingiu a maioridade está sujeito à decisão judicial, mediante contraditório.",
+"c": true,
+"x": "É a Súmula 358 do STJ.",
+"e": "Súmula 358 do STJ."
+},
+{
+"p": "O regime de bens supletivo, na ausência de pacto antenupcial, é o da",
+"alts": [
+"comunhão universal",
+"comunhão parcial",
+"separação convencional",
+"participação final nos aquestos",
+"separação obrigatória"
+],
+"r": 1,
+"x": "Art. 1.640 do CC. Também se aplica à união estável sem contrato (art. 1.725).",
+"n": [
+"Exige pacto.",
+"Correta.",
+"Exige pacto.",
+"Exige pacto.",
+"Só nos casos do art. 1.641."
+],
+"e": "CC, art. 1.640."
 }
 ]
 },
@@ -855,6 +1671,80 @@ export default {
 "Não é o prazo."
 ],
 "e": "CC, art. 1.815, §1º."
+},
+{
+"p": "A sucessão dá-se por lei ou por disposição de última vontade.",
+"c": true,
+"x": "É o art. 1.786 do CC.",
+"e": "CC, art. 1.786."
+},
+{
+"p": "A herança de pessoa viva pode ser objeto de cessão, desde que por escritura pública.",
+"c": false,
+"x": "A cessão de direitos hereditários só é possível após a abertura da sucessão (art. 1.793). Herança de pessoa viva não pode ser objeto de contrato (art. 426).",
+"e": "CC, arts. 426 e 1.793."
+},
+{
+"p": "A aceitação da herança pode ser expressa, tácita ou presumida.",
+"c": true,
+"x": "Arts. 1.805 e 1.807 do CC.",
+"e": "CC, art. 1.805."
+},
+{
+"p": "Na linha descendente, os filhos sucedem por cabeça, e os outros descendentes, por cabeça ou por estirpe, conforme se achem ou não no mesmo grau.",
+"c": true,
+"x": "É o art. 1.835 do CC.",
+"e": "CC, art. 1.835."
+},
+{
+"p": "O direito de representação dá-se na linha ascendente.",
+"c": false,
+"x": "Dá-se na linha reta descendente, mas nunca na ascendente (art. 1.852).",
+"e": "CC, art. 1.852."
+},
+{
+"p": "Ao cônjuge sobrevivente, qualquer que seja o regime de bens, será assegurado o direito real de habitação relativamente ao imóvel destinado à residência da família, desde que seja o único daquela natureza a inventariar.",
+"c": true,
+"x": "É o art. 1.831 do CC.",
+"e": "CC, art. 1.831."
+},
+{
+"p": "O testador que tiver herdeiros necessários não pode dispor de mais da metade da herança.",
+"c": true,
+"x": "Arts. 1.789 e 1.846 do CC.",
+"e": "CC, art. 1.789."
+},
+{
+"p": "O testamento é ato irrevogável depois de lavrado por escritura pública.",
+"c": false,
+"x": "O testamento é ato personalíssimo, que pode ser mudado a qualquer tempo (art. 1.858).",
+"e": "CC, art. 1.858."
+},
+{
+"p": "São pessoalmente excluídos da sucessão os herdeiros indignos, sendo seus descendentes chamados a suceder como se o indigno morto fosse.",
+"c": true,
+"x": "É o art. 1.816 do CC: os efeitos da exclusão são pessoais.",
+"e": "CC, art. 1.816."
+},
+{
+"p": "Na falta de descendentes e ascendentes, a sucessão é deferida por inteiro",
+"alts": [
+"aos colaterais até o 4º grau",
+"ao cônjuge sobrevivente",
+"ao Município",
+"aos irmãos",
+"ao companheiro e aos colaterais em partes iguais"
+],
+"r": 1,
+"x": "É o art. 1.838 do CC. Pelo STF (Tema 809), o mesmo vale para o companheiro.",
+"n": [
+"Vêm depois do cônjuge.",
+"Correta.",
+"Só na herança vacante.",
+"São colaterais.",
+"Não há concorrência com colaterais."
+],
+"e": "CC, art. 1.838."
 }
 ]
 },
@@ -916,6 +1806,74 @@ export default {
 "Não é o prazo."
 ],
 "e": "Lei 9.610, art. 41."
+},
+{
+"p": "É obrigatória a inscrição do empresário no Registro Público de Empresas Mercantis da respectiva sede, antes do início de sua atividade.",
+"c": true,
+"x": "É o art. 967 do CC.",
+"e": "CC, art. 967."
+},
+{
+"p": "O empresário rural é obrigado a se registrar na Junta Comercial.",
+"c": false,
+"x": "Para o rural, a inscrição é facultativa; feita a inscrição, ele fica equiparado ao empresário sujeito a registro (art. 971).",
+"e": "CC, art. 971."
+},
+{
+"p": "Na sociedade em comum, todos os sócios respondem solidária e ilimitadamente pelas obrigações sociais.",
+"c": true,
+"x": "É o art. 990 do CC.",
+"e": "CC, art. 990."
+},
+{
+"p": "A cooperativa é sempre considerada sociedade simples, independentemente de seu objeto.",
+"c": true,
+"x": "É o art. 982, parágrafo único, do CC.",
+"e": "CC, art. 982."
+},
+{
+"p": "Na sociedade anônima, a responsabilidade dos sócios é ilimitada.",
+"c": false,
+"x": "Na S.A., cada acionista responde somente pelo preço de emissão das ações que subscrever (art. 1.088).",
+"e": "CC, art. 1.088."
+},
+{
+"p": "O estabelecimento é todo complexo de bens organizado para exercício da empresa, por empresário ou sociedade empresária.",
+"c": true,
+"x": "É o art. 1.142 do CC.",
+"e": "CC, art. 1.142."
+},
+{
+"p": "Na recuperação judicial, o plano deve ser apresentado em 60 dias da publicação da decisão que deferir o processamento, sob pena de convolação em falência.",
+"c": true,
+"x": "É o art. 53 da Lei 11.101/2005.",
+"e": "Lei 11.101, art. 53."
+},
+{
+"p": "Os créditos trabalhistas, até 150 salários mínimos por credor, têm preferência na classificação dos créditos na falência.",
+"c": true,
+"x": "É o art. 83, I, da Lei 11.101/2005.",
+"e": "Lei 11.101, art. 83."
+},
+{
+"p": "O alienante do estabelecimento fica solidariamente obrigado pelos débitos anteriores à transferência, regularmente contabilizados, pelo prazo de",
+"alts": [
+"6 meses",
+"1 ano",
+"2 anos",
+"5 anos",
+"10 anos"
+],
+"r": 1,
+"x": "Art. 1.146 do CC: 1 ano, contado da publicação (créditos vencidos) ou do vencimento (os outros).",
+"n": [
+"Não é o prazo.",
+"Correta.",
+"Não é o prazo.",
+"Não é o prazo.",
+"Não é o prazo."
+],
+"e": "CC, art. 1.146."
 }
 ]
 }

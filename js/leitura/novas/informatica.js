@@ -70,6 +70,94 @@ export default {
 "Não é atalho padrão do Windows (no Ubuntu abre o terminal)."
 ],
 "e": "Atalhos do Windows."
+},
+{
+"p": "A memória cache é uma memória de alta velocidade que armazena dados usados com frequência pelo processador.",
+"c": true,
+"x": "Fica entre o processador e a RAM, reduzindo o tempo de acesso.",
+"e": "Memória cache."
+},
+{
+"p": "A BIOS/UEFI é armazenada na memória RAM e é apagada quando o computador é desligado.",
+"c": false,
+"x": "O firmware fica em memória não volátil (ROM/flash) na placa-mãe.",
+"e": "Firmware."
+},
+{
+"p": "No Windows, o atalho Ctrl + Shift + Esc abre o Gerenciador de Tarefas.",
+"c": true,
+"x": "É um atalho direto, sem passar pela tela de segurança do Ctrl + Alt + Del.",
+"e": "Atalhos do Windows."
+},
+{
+"p": "No Linux, o comando ls lista o conteúdo de um diretório, e o comando pwd mostra o diretório atual.",
+"c": true,
+"x": "São comandos básicos do terminal.",
+"e": "Comandos Linux."
+},
+{
+"p": "No Linux, o comando rm move arquivos para a lixeira.",
+"c": false,
+"x": "O rm remove arquivos definitivamente pelo terminal; para mover, usa-se mv.",
+"e": "Comandos Linux."
+},
+{
+"p": "O comando chmod, no Linux, altera as permissões de arquivos e diretórios.",
+"c": true,
+"x": "Ex.: chmod 755 arquivo.",
+"e": "Comandos Linux."
+},
+{
+"p": "Um arquivo com extensão .exe é, em regra, um programa executável no Windows.",
+"c": true,
+"x": "Por isso anexos .exe em e-mails suspeitos são perigosos.",
+"e": "Extensões de arquivo."
+},
+{
+"p": "O sistema de arquivos NTFS não suporta permissões de acesso.",
+"c": false,
+"x": "O NTFS suporta permissões, criptografia (EFS) e arquivos grandes; o FAT32 é mais limitado.",
+"e": "Sistemas de arquivos."
+},
+{
+"p": "Um pendrive é um dispositivo de",
+"alts": [
+"entrada",
+"saída",
+"armazenamento (entrada e saída de dados)",
+"processamento",
+"memória volátil"
+],
+"r": 2,
+"x": "Ele lê e grava dados (memória flash não volátil).",
+"n": [
+"Não é só entrada.",
+"Não é só saída.",
+"Correta.",
+"Não processa.",
+"É não volátil."
+],
+"e": "Dispositivos."
+},
+{
+"p": "No Windows 10/11, o atalho que abre a caixa “Executar” é",
+"alts": [
+"Windows + E",
+"Windows + R",
+"Windows + D",
+"Ctrl + R",
+"Alt + R"
+],
+"r": 1,
+"x": "Windows + R abre o Executar.",
+"n": [
+"Abre o Explorador.",
+"Correta.",
+"Mostra a área de trabalho.",
+"Atualiza em navegadores.",
+"Não é atalho padrão."
+],
+"e": "Atalhos do Windows."
 }
 ]
 },
@@ -133,6 +221,94 @@ export default {
 "Recebe os anexos.",
 "Não há essa regra.",
 "Não é remetente."
+],
+"e": "Correio eletrônico."
+},
+{
+"p": "O protocolo HTTPS utiliza criptografia (TLS) para proteger os dados trocados entre o navegador e o servidor.",
+"c": true,
+"x": "O cadeado no navegador indica conexão HTTPS.",
+"e": "Protocolos."
+},
+{
+"p": "O endereço IPv4 tem 128 bits.",
+"c": false,
+"x": "O IPv4 tem 32 bits; o IPv6, 128 bits.",
+"e": "Endereçamento IP."
+},
+{
+"p": "O protocolo DHCP atribui automaticamente endereços IP aos dispositivos de uma rede.",
+"c": true,
+"x": "É comum nos roteadores domésticos.",
+"e": "Protocolos."
+},
+{
+"p": "Na URL https://www.gov.br/prf, o trecho “gov.br” é o domínio.",
+"c": true,
+"x": "“https” é o protocolo e “/prf” é o caminho.",
+"e": "Estrutura de URL."
+},
+{
+"p": "O IMAP permite acessar as mensagens mantendo-as no servidor, sincronizadas entre vários dispositivos.",
+"c": true,
+"x": "O POP3, em regra, baixa as mensagens para o dispositivo.",
+"e": "Protocolos de e-mail."
+},
+{
+"p": "Uma VPN expõe o tráfego da rede, sem nenhuma criptografia.",
+"c": false,
+"x": "A VPN cria um túnel criptografado entre o dispositivo e a rede de destino.",
+"e": "VPN."
+},
+{
+"p": "Cookies são pequenos arquivos que os sites gravam no navegador para guardar informações como preferências e sessões.",
+"c": true,
+"x": "Podem ser apagados pelas configurações do navegador.",
+"e": "Cookies."
+},
+{
+"p": "O protocolo FTP é usado para envio de e-mails.",
+"c": false,
+"x": "O FTP é para transferência de arquivos; o SMTP, para envio de e-mails.",
+"e": "Protocolos."
+},
+{
+"p": "O dispositivo que interliga redes distintas e encaminha pacotes entre elas, como a rede doméstica e a internet, é o",
+"alts": [
+"hub",
+"roteador",
+"repetidor",
+"modem apenas",
+"switch de camada 2"
+],
+"r": 1,
+"x": "O roteador encaminha pacotes entre redes diferentes.",
+"n": [
+"Só repete o sinal para todos.",
+"Correta.",
+"Só amplia o sinal.",
+"Modula o sinal do provedor.",
+"Conecta dispositivos na mesma rede."
+],
+"e": "Redes."
+},
+{
+"p": "Ao responder um e-mail com “Responder a todos”, a resposta vai para",
+"alts": [
+"apenas o remetente",
+"o remetente e todos os destinatários visíveis (Para e Cc)",
+"todos, incluindo os em Cco",
+"só os em Cco",
+"apenas os em Cc"
+],
+"r": 1,
+"x": "Os destinatários em Cco não aparecem e não recebem a resposta.",
+"n": [
+"Seria “Responder”.",
+"Correta.",
+"Os em Cco ficam ocultos.",
+"Não.",
+"Não só."
 ],
 "e": "Correio eletrônico."
 }
@@ -200,6 +376,94 @@ export default {
 "Spyware é programa espião instalado."
 ],
 "e": "Phishing."
+},
+{
+"p": "O firewall filtra o tráfego de rede segundo regras, podendo bloquear acessos não autorizados.",
+"c": true,
+"x": "Pode ser software ou hardware.",
+"e": "Firewall."
+},
+{
+"p": "O antivírus dispensa a necessidade de backup.",
+"c": false,
+"x": "Antivírus não protege contra perda de dados por falha, exclusão ou ransomware já ativo. Backup é essencial.",
+"e": "Boas práticas."
+},
+{
+"p": "Keylogger é um tipo de spyware que captura e armazena as teclas digitadas pelo usuário.",
+"c": true,
+"x": "É usado para roubar senhas.",
+"e": "Malware."
+},
+{
+"p": "A engenharia social explora a confiança e o descuido das pessoas para obter informações.",
+"c": true,
+"x": "O phishing é a forma mais comum.",
+"e": "Engenharia social."
+},
+{
+"p": "O backup incremental copia todos os arquivos a cada execução.",
+"c": false,
+"x": "Esse é o backup completo. O incremental copia só o que mudou desde o último backup.",
+"e": "Tipos de backup."
+},
+{
+"p": "A integridade garante que a informação não foi alterada de forma não autorizada.",
+"c": true,
+"x": "É um dos princípios da segurança da informação.",
+"e": "Princípios."
+},
+{
+"p": "Na criptografia simétrica, a mesma chave é usada para cifrar e decifrar.",
+"c": true,
+"x": "Exemplo: AES.",
+"e": "Criptografia."
+},
+{
+"p": "O certificado digital ICP-Brasil não tem validade jurídica no Brasil.",
+"c": false,
+"x": "Documentos assinados com certificado ICP-Brasil têm presunção de veracidade (MP 2.200-2/2001).",
+"e": "MP 2.200-2/2001."
+},
+{
+"p": "O malware que se disfarça de programa legítimo para, depois de instalado, executar ações maliciosas é o",
+"alts": [
+"worm",
+"cavalo de Troia",
+"adware",
+"ransomware",
+"rootkit"
+],
+"r": 1,
+"x": "O trojan depende de o usuário instalá-lo.",
+"n": [
+"Se autorreplica.",
+"Correta.",
+"Exibe propaganda.",
+"Sequestra dados.",
+"Esconde a presença do invasor."
+],
+"e": "Malware."
+},
+{
+"p": "A autenticação que combina uma senha com um código enviado ao celular usa",
+"alts": [
+"um único fator",
+"dois fatores (algo que sabe e algo que tem)",
+"biometria",
+"criptografia simétrica",
+"apenas um token físico"
+],
+"r": 1,
+"x": "É a autenticação em dois fatores (2FA).",
+"n": [
+"São dois fatores.",
+"Correta.",
+"Não há biometria.",
+"Não é o conceito.",
+"Não é o caso."
+],
+"e": "Autenticação."
 }
 ]
 },
@@ -263,6 +527,94 @@ export default {
 "Só ocorreria se não houvesse números."
 ],
 "e": "Função MÉDIA."
+},
+{
+"p": "No Excel, a função =SOMA(A1:A3) soma os valores das células A1, A2 e A3.",
+"c": true,
+"x": "O sinal de dois pontos indica intervalo.",
+"e": "Excel."
+},
+{
+"p": "No Excel, a função =SE(A1>10;\"Alto\";\"Baixo\") retorna “Baixo” se A1 for igual a 10.",
+"c": true,
+"x": "O teste A1>10 é falso para 10.",
+"e": "Função SE."
+},
+{
+"p": "No Excel, a referência A$1 trava a coluna e deixa a linha livre.",
+"c": false,
+"x": "O cifrão antes do 1 trava a linha; a coluna fica livre.",
+"e": "Referências."
+},
+{
+"p": "A função PROCV procura um valor na primeira coluna de uma tabela e retorna o valor de uma coluna indicada na mesma linha.",
+"c": true,
+"x": "O último argumento 0 (ou FALSO) exige correspondência exata.",
+"e": "PROCV."
+},
+{
+"p": "No Word, a quebra de página manual pode ser inserida com Ctrl + Enter.",
+"c": true,
+"x": "Inicia o texto seguinte em nova página.",
+"e": "Word."
+},
+{
+"p": "No Excel, o erro #DIV/0! indica que a função não existe.",
+"c": false,
+"x": "#DIV/0! indica divisão por zero. Função inexistente gera #NOME?.",
+"e": "Erros do Excel."
+},
+{
+"p": "O recurso de mala direta permite gerar vários documentos personalizados a partir de uma lista de dados.",
+"c": true,
+"x": "Existe no Word e no Writer.",
+"e": "Mala direta."
+},
+{
+"p": "A função =CONT.SE(A1:A10;\">=7\") conta as células do intervalo com valor maior ou igual a 7.",
+"c": true,
+"x": "É a contagem com critério.",
+"e": "CONT.SE."
+},
+{
+"p": "No Excel, as células A1 = 2, A2 = 4 e A3 = 6. O resultado de =MÁXIMO(A1:A3)-MÍNIMO(A1:A3) é",
+"alts": [
+"2",
+"4",
+"6",
+"8",
+"12"
+],
+"r": 1,
+"x": "6 − 2 = 4.",
+"n": [
+"Não confere.",
+"Correta.",
+"É o máximo.",
+"Não confere.",
+"É a soma."
+],
+"e": "Funções do Excel."
+},
+{
+"p": "Uma fórmula =A1*$B$1 em C1, copiada para C2, ficará",
+"alts": [
+"=A1*$B$1",
+"=A2*$B$1",
+"=A2*$B$2",
+"=A2*B2",
+"=B2*$B$1"
+],
+"r": 1,
+"x": "A1 é relativa (vira A2); $B$1 é absoluta.",
+"n": [
+"A referência relativa muda.",
+"Correta.",
+"A absoluta não muda.",
+"A absoluta não muda.",
+"A coluna de A1 não muda ao copiar para baixo."
+],
+"e": "Referências."
 }
 ]
 },
@@ -321,6 +673,94 @@ export default {
 "É dado pessoal comum."
 ],
 "e": "LGPD, art. 5º, II."
+},
+{
+"p": "Na computação em nuvem, o modelo IaaS fornece infraestrutura como servidores virtuais e armazenamento.",
+"c": true,
+"x": "O cliente gerencia sistema e aplicações.",
+"e": "Nuvem."
+},
+{
+"p": "A nuvem privada é compartilhada publicamente com qualquer usuário da internet.",
+"c": false,
+"x": "A nuvem privada é exclusiva de uma organização.",
+"e": "Nuvem."
+},
+{
+"p": "Em SQL, o comando SELECT é usado para consultar dados de uma tabela.",
+"c": true,
+"x": "INSERT insere, UPDATE altera e DELETE exclui.",
+"e": "SQL."
+},
+{
+"p": "A chave estrangeira estabelece relação entre tabelas, referenciando a chave primária de outra tabela.",
+"c": true,
+"x": "Garante a integridade referencial.",
+"e": "Banco de dados."
+},
+{
+"p": "Segundo a LGPD, o tratamento de dados pessoais pode ser feito mediante consentimento do titular ou nas demais hipóteses legais, como cumprimento de obrigação legal.",
+"c": true,
+"x": "São as bases legais do art. 7º da LGPD.",
+"e": "LGPD, art. 7º."
+},
+{
+"p": "A LGPD não se aplica ao Poder Público.",
+"c": false,
+"x": "Aplica-se, com regras próprias nos arts. 23 a 32; só não se aplica a tratamentos exclusivos de segurança pública, defesa e investigação penal (art. 4º, III).",
+"e": "LGPD."
+},
+{
+"p": "A ANPD é a autoridade nacional responsável por fiscalizar o cumprimento da LGPD.",
+"c": true,
+"x": "Autoridade Nacional de Proteção de Dados.",
+"e": "LGPD, art. 55-A."
+},
+{
+"p": "O aprendizado de máquina supervisionado usa dados rotulados para treinar o modelo.",
+"c": true,
+"x": "No não supervisionado, os dados não têm rótulo.",
+"e": "Inteligência artificial."
+},
+{
+"p": "Segundo a LGPD, o agente que toma as decisões sobre o tratamento de dados pessoais é o",
+"alts": [
+"operador",
+"controlador",
+"encarregado",
+"titular",
+"ANPD"
+],
+"r": 1,
+"x": "Art. 5º, VI, da LGPD.",
+"n": [
+"Trata em nome do controlador.",
+"Correta.",
+"É o canal de comunicação.",
+"É o dono dos dados.",
+"É a autoridade fiscalizadora."
+],
+"e": "LGPD, art. 5º."
+},
+{
+"p": "A característica de Big Data relacionada à rapidez com que os dados são gerados e processados é a",
+"alts": [
+"variedade",
+"velocidade",
+"veracidade",
+"valor",
+"volume"
+],
+"r": 1,
+"x": "Os “Vs” do Big Data.",
+"n": [
+"Trata dos tipos de dados.",
+"Correta.",
+"Trata da confiabilidade.",
+"Trata da utilidade.",
+"Trata da quantidade."
+],
+"e": "Big Data."
 }
 ]
 }

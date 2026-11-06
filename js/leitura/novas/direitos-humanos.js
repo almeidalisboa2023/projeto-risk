@@ -59,6 +59,62 @@ export default {
 "Significa que podem ser limitados."
 ],
 "e": "Características."
+},
+{
+"p": "A historicidade dos direitos humanos significa que eles surgem e se transformam ao longo da história.",
+"c": true,
+"x": "Não nascem todos de uma vez (Bobbio).",
+"e": "Características."
+},
+{
+"p": "A dignidade da pessoa humana é fundamento da República Federativa do Brasil.",
+"c": true,
+"x": "É o art. 1º, III, da CF.",
+"e": "CF, art. 1º, III."
+},
+{
+"p": "Os direitos humanos são absolutos e jamais podem sofrer limitação.",
+"c": false,
+"x": "São relativos: podem ser ponderados quando colidem entre si. Há quem aponte exceções absolutas, como a proibição da tortura.",
+"e": "Características."
+},
+{
+"p": "Os direitos de segunda dimensão exigem, em regra, prestações positivas do Estado.",
+"c": true,
+"x": "Saúde, educação e assistência social, por exemplo.",
+"e": "Dimensões."
+},
+{
+"p": "A proibição do retrocesso impede que o Estado suprima, sem compensação, direitos sociais já concretizados.",
+"c": true,
+"x": "É o efeito cliquet, construção doutrinária e jurisprudencial.",
+"e": "Vedação ao retrocesso."
+},
+{
+"p": "A eficácia horizontal dos direitos fundamentais significa que eles só valem nas relações entre o Estado e o particular.",
+"c": false,
+"x": "Eficácia horizontal é a aplicação nas relações entre particulares (STF, RE 201.819).",
+"e": "Eficácia horizontal."
+},
+{
+"p": "O direito à paz é classificado por Paulo Bonavides como direito de",
+"alts": [
+"primeira dimensão",
+"segunda dimensão",
+"terceira dimensão",
+"quarta dimensão",
+"quinta dimensão"
+],
+"r": 4,
+"x": "Bonavides propôs a paz como direito de 5ª dimensão.",
+"n": [
+"Liberdade.",
+"Igualdade.",
+"Para Vasak, a paz está na 3ª, mas Bonavides a desloca.",
+"Democracia, informação, pluralismo.",
+"Correta."
+],
+"e": "Bonavides."
 }
 ]
 },
@@ -113,6 +169,62 @@ export default {
 "É o Direito Internacional Humanitário."
 ],
 "e": "Regras de Mandela."
+},
+{
+"p": "O Pacto Internacional dos Direitos Civis e Políticos prevê que ninguém poderá ser submetido a tortura, nem a penas ou tratamentos cruéis, desumanos ou degradantes.",
+"c": true,
+"x": "É o art. 7º do PIDCP.",
+"e": "PIDCP, art. 7º."
+},
+{
+"p": "A Convenção contra a Tortura da ONU define tortura como dor ou sofrimento agudos infligidos intencionalmente por funcionário público ou com sua aquiescência.",
+"c": true,
+"x": "A definição internacional exige envolvimento estatal; a lei brasileira (9.455) é mais ampla e alcança particulares.",
+"e": "Convenção contra a Tortura, art. 1º."
+},
+{
+"p": "A Declaração Universal dos Direitos Humanos foi aprovada em 1966.",
+"c": false,
+"x": "Foi aprovada em 10 de dezembro de 1948. Os pactos são de 1966.",
+"e": "DUDH."
+},
+{
+"p": "O Protocolo Facultativo à Convenção contra a Tortura prevê a criação de mecanismos nacionais de prevenção, com visitas a locais de privação de liberdade.",
+"c": true,
+"x": "No Brasil, o Mecanismo Nacional de Prevenção e Combate à Tortura (Lei 12.847/2013).",
+"e": "Lei 12.847/2013."
+},
+{
+"p": "Os Princípios Básicos da ONU sobre o Uso da Força recomendam que os agentes, antes de usar arma de fogo, se identifiquem e avisem prévia e claramente, salvo quando isso os puser em risco.",
+"c": true,
+"x": "É o Princípio 10.",
+"e": "Princípios Básicos da ONU."
+},
+{
+"p": "A Convenção sobre os Direitos da Criança define criança como todo ser humano menor de 12 anos.",
+"c": false,
+"x": "Para a Convenção, criança é todo ser humano com menos de 18 anos (art. 1º).",
+"e": "Convenção sobre os Direitos da Criança."
+},
+{
+"p": "A Lei 13.060/2014 disciplina, no Brasil,",
+"alts": [
+"a audiência de custódia",
+"o uso dos instrumentos de menor potencial ofensivo pelos agentes de segurança pública",
+"a tortura",
+"o porte de arma pelas guardas",
+"o reconhecimento facial"
+],
+"r": 1,
+"x": "A lei prioriza instrumentos de menor potencial ofensivo e veda arma de fogo contra pessoa desarmada em fuga que não represente risco imediato.",
+"n": [
+"É a Res. CNJ 213/2015 e o CPP, art. 310.",
+"Correta.",
+"É a Lei 9.455/1997.",
+"É o Estatuto do Desarmamento.",
+"Não é tema da lei."
+],
+"e": "Lei 13.060/2014."
 }
 ]
 },
@@ -173,6 +285,62 @@ export default {
 "Não é admitida."
 ],
 "e": "CADH, art. 7.7."
+},
+{
+"p": "A Comissão Interamericana de Direitos Humanos pode adotar medidas cautelares em situações de gravidade e urgência.",
+"c": true,
+"x": "Previstas no seu Regulamento.",
+"e": "Regulamento da CIDH."
+},
+{
+"p": "A Corte Interamericana pode adotar medidas provisórias em casos de extrema gravidade e urgência.",
+"c": true,
+"x": "É o art. 63.2 da CADH.",
+"e": "CADH, art. 63.2."
+},
+{
+"p": "As sentenças da Corte Interamericana podem ser revistas pelo STF.",
+"c": false,
+"x": "São definitivas e inapeláveis (CADH, art. 67), e os Estados se comprometem a cumpri-las (art. 68).",
+"e": "CADH, arts. 67 e 68."
+},
+{
+"p": "A Convenção Americana prevê que a pena de morte não pode ser restabelecida nos Estados que a hajam abolido.",
+"c": true,
+"x": "É o art. 4.3 da CADH.",
+"e": "CADH, art. 4.3."
+},
+{
+"p": "Toda pessoa acusada de delito tem direito a ser assistida por defensor proporcionado pelo Estado, se não se defender pessoalmente nem nomear defensor.",
+"c": true,
+"x": "É o art. 8.2, e, da CADH.",
+"e": "CADH, art. 8.2."
+},
+{
+"p": "A Convenção Americana não prevê o direito de recorrer da sentença penal.",
+"c": false,
+"x": "O art. 8.2, h, garante o direito de recorrer da sentença para juiz ou tribunal superior.",
+"e": "CADH, art. 8.2, h."
+},
+{
+"p": "No caso Favela Nova Brasília (2017), a Corte Interamericana condenou o Brasil e determinou, entre outras medidas,",
+"alts": [
+"a extinção das polícias militares",
+"que mortes decorrentes de intervenção policial sejam investigadas por órgão independente da força pública envolvida",
+"a criação de tribunal internacional no Brasil",
+"a revogação da Lei de Anistia",
+"a federalização de todos os homicídios"
+],
+"r": 1,
+"x": "A sentença tratou de execuções em operações policiais no Rio de Janeiro.",
+"n": [
+"Não foi determinado.",
+"Correta.",
+"Não foi determinado.",
+"É tema do caso Gomes Lund.",
+"Não foi determinado."
+],
+"e": "Corte IDH, Favela Nova Brasília."
 }
 ]
 },
@@ -226,6 +394,56 @@ export default {
 "Não é requisito."
 ],
 "e": "STJ, IDC 1 e 2."
+},
+{
+"p": "Os tratados e convenções internacionais sobre direitos humanos aprovados, em cada Casa do Congresso, em dois turnos, por três quintos dos votos dos membros, serão equivalentes às emendas constitucionais.",
+"c": true,
+"x": "É o art. 5º, §3º, da CF.",
+"e": "CF, art. 5º, §3º."
+},
+{
+"p": "Os direitos e garantias expressos na Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais de que o Brasil seja parte.",
+"c": true,
+"x": "É o art. 5º, §2º, da CF (cláusula de abertura).",
+"e": "CF, art. 5º, §2º."
+},
+{
+"p": "O Tribunal Penal Internacional julga Estados por violações de direitos humanos.",
+"c": false,
+"x": "O TPI julga pessoas físicas por genocídio, crimes contra a humanidade, de guerra e agressão. Estados são responsabilizados em cortes como a Corte IDH.",
+"e": "Estatuto de Roma."
+},
+{
+"p": "O Tribunal Penal Internacional atua de forma complementar às jurisdições penais nacionais.",
+"c": true,
+"x": "É o princípio da complementaridade (Estatuto de Roma, art. 1º).",
+"e": "Estatuto de Roma."
+},
+{
+"p": "A Convenção de Nova York sobre os Direitos das Pessoas com Deficiência foi incorporada com status de emenda constitucional.",
+"c": true,
+"x": "Aprovada pelo rito do art. 5º, §3º (Decreto 6.949/2009).",
+"e": "Decreto 6.949/2009."
+},
+{
+"p": "O incidente de deslocamento de competência é julgado pelo",
+"alts": [
+"STF",
+"STJ",
+"TRF da região",
+"Conselho Nacional de Justiça",
+"Procurador-Geral da República"
+],
+"r": 1,
+"x": "CF, art. 109, §5º. O PGR suscita.",
+"n": [
+"Não é.",
+"Correta.",
+"Não é.",
+"Não julga.",
+"Quem suscita."
+],
+"e": "CF, art. 109, §5º."
 }
 ]
 },
@@ -282,6 +500,56 @@ export default {
 "Não é previsão."
 ],
 "e": "Convenção 169 da OIT."
+},
+{
+"p": "O Estatuto da Pessoa com Deficiência considera pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial que, em interação com barreiras, pode obstruir sua participação plena na sociedade.",
+"c": true,
+"x": "É o art. 2º da Lei 13.146/2015 (modelo biopsicossocial).",
+"e": "Lei 13.146, art. 2º."
+},
+{
+"p": "A Lei de Migração assegura ao migrante, em condição de igualdade com os nacionais, a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade.",
+"c": true,
+"x": "É o art. 4º da Lei 13.445/2017.",
+"e": "Lei 13.445, art. 4º."
+},
+{
+"p": "A Lei de Migração prevê a prisão do migrante em razão de sua situação migratória.",
+"c": false,
+"x": "Ninguém será privado de liberdade por razões migratórias (art. 123), salvo nos casos da lei.",
+"e": "Lei 13.445, art. 123."
+},
+{
+"p": "São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam.",
+"c": true,
+"x": "É o art. 231 da CF.",
+"e": "CF, art. 231."
+},
+{
+"p": "O Estatuto da Igualdade Racial define população negra como o conjunto de pessoas que se autodeclaram pretas e pardas, conforme o quesito cor ou raça do IBGE.",
+"c": true,
+"x": "É o art. 1º, parágrafo único, IV, da Lei 12.288/2010.",
+"e": "Lei 12.288, art. 1º."
+},
+{
+"p": "Segundo o Estatuto da Pessoa Idosa, a prioridade especial é assegurada às pessoas maiores de",
+"alts": [
+"60 anos",
+"65 anos",
+"70 anos",
+"80 anos",
+"90 anos"
+],
+"r": 3,
+"x": "Art. 3º, §2º, da Lei 10.741/2003.",
+"n": [
+"É a idade de pessoa idosa.",
+"Não é.",
+"Não é.",
+"Correta.",
+"Não é."
+],
+"e": "Lei 10.741, art. 3º, §2º."
 }
 ]
 }

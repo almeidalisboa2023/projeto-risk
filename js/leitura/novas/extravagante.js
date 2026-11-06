@@ -73,6 +73,68 @@ export default {
 "É para reincidente em hediondo."
 ],
 "e": "LEP, art. 112, V."
+},
+{
+"p": "O latrocínio é crime hediondo.",
+"c": true,
+"x": "Roubo seguido de morte está no art. 1º, II, c, da Lei 8.072.",
+"e": "Lei 8.072, art. 1º."
+},
+{
+"p": "O homicídio qualificado é crime hediondo, tentado ou consumado.",
+"c": true,
+"x": "O art. 1º da Lei 8.072 abrange as formas tentadas e consumadas.",
+"e": "Lei 8.072, art. 1º."
+},
+{
+"p": "O homicídio simples nunca é hediondo.",
+"c": false,
+"x": "É hediondo quando praticado em atividade típica de grupo de extermínio, ainda que cometido por um só agente (art. 1º, I).",
+"e": "Lei 8.072, art. 1º, I."
+},
+{
+"p": "O estupro e o estupro de vulnerável são crimes hediondos.",
+"c": true,
+"x": "Art. 1º, V e VI, da Lei 8.072.",
+"e": "Lei 8.072, art. 1º."
+},
+{
+"p": "O tráfico de drogas é crime hediondo previsto no rol do art. 1º da Lei 8.072.",
+"c": false,
+"x": "O tráfico é equiparado a hediondo (CF, art. 5º, XLIII; Lei 8.072, art. 2º), não está no rol do art. 1º.",
+"e": "Lei 8.072, art. 2º."
+},
+{
+"p": "A extorsão mediante sequestro é crime hediondo.",
+"c": true,
+"x": "Art. 1º, IV, da Lei 8.072.",
+"e": "Lei 8.072, art. 1º, IV."
+},
+{
+"p": "Em caso de sentença condenatória por crime hediondo, o juiz decidirá fundamentadamente se o réu poderá apelar em liberdade.",
+"c": true,
+"x": "É o art. 2º, §3º, da Lei 8.072.",
+"e": "Lei 8.072, art. 2º, §3º."
+},
+{
+"p": "É crime hediondo, segundo a Lei 8.072/1990,",
+"alts": [
+"o furto simples",
+"o roubo simples",
+"o furto qualificado pelo emprego de explosivo ou artefato análogo",
+"a lesão corporal leve",
+"a receptação"
+],
+"r": 2,
+"x": "Art. 1º, IX, da Lei 8.072 (Pacote Anticrime).",
+"n": [
+"Não é.",
+"O roubo simples não é; só as formas do art. 1º, II.",
+"Correta.",
+"Não é.",
+"Não é."
+],
+"e": "Lei 8.072, art. 1º, IX."
 }
 ]
 },
@@ -132,6 +194,62 @@ export default {
 "Não está no §4º."
 ],
 "e": "Lei 9.455, art. 1º, §4º."
+},
+{
+"p": "Constitui tortura submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a intenso sofrimento físico ou mental, como forma de aplicar castigo pessoal.",
+"c": true,
+"x": "É a tortura-castigo (art. 1º, II, da Lei 9.455).",
+"e": "Lei 9.455, art. 1º, II."
+},
+{
+"p": "Se da tortura resulta lesão corporal de natureza grave ou gravíssima, a pena é de reclusão de 4 a 10 anos; se resulta morte, de 8 a 16 anos.",
+"c": true,
+"x": "É o art. 1º, §3º, da Lei 9.455.",
+"e": "Lei 9.455, art. 1º, §3º."
+},
+{
+"p": "O crime de tortura é afiançável e suscetível de graça.",
+"c": false,
+"x": "É inafiançável e insuscetível de graça ou anistia (art. 1º, §6º; CF, art. 5º, XLIII).",
+"e": "Lei 9.455, art. 1º, §6º."
+},
+{
+"p": "Na mesma pena da tortura incorre quem submete pessoa presa a sofrimento físico ou mental por intermédio da prática de ato não previsto em lei.",
+"c": true,
+"x": "É o art. 1º, §1º, da Lei 9.455.",
+"e": "Lei 9.455, art. 1º, §1º."
+},
+{
+"p": "O condenado por tortura, salvo a omissão, inicia necessariamente o cumprimento da pena em regime aberto.",
+"c": false,
+"x": "O texto legal prevê início em regime fechado (art. 1º, §7º), salvo a hipótese do §2º.",
+"e": "Lei 9.455, art. 1º, §7º."
+},
+{
+"p": "A tortura pode ser praticada por particular, não sendo, em regra, crime próprio de agente público.",
+"c": true,
+"x": "Salvo a tortura-castigo (que exige guarda, poder ou autoridade) e a do preso, é crime comum; ser agente público é causa de aumento.",
+"e": "Lei 9.455, art. 1º."
+},
+{
+"p": "A pena da omissão diante da tortura, por quem tinha o dever de evitá-la ou apurá-la, é de",
+"alts": [
+"reclusão de 2 a 8 anos",
+"detenção de 1 a 4 anos",
+"reclusão de 4 a 10 anos",
+"detenção de 6 meses a 2 anos",
+"reclusão de 8 a 16 anos"
+],
+"r": 1,
+"x": "Art. 1º, §2º, da Lei 9.455.",
+"n": [
+"É a pena do caput.",
+"Correta.",
+"É do resultado lesão grave.",
+"Não é.",
+"É do resultado morte."
+],
+"e": "Lei 9.455, art. 1º, §2º."
 }
 ]
 },
@@ -199,6 +317,74 @@ export default {
 "É o prazo com o indiciado solto."
 ],
 "e": "Lei 11.343, art. 51."
+},
+{
+"p": "Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância, ao local e às condições da ação, às circunstâncias sociais e pessoais, à conduta e aos antecedentes do agente.",
+"c": true,
+"x": "É o art. 28, §2º, da Lei 11.343.",
+"e": "Lei 11.343, art. 28, §2º."
+},
+{
+"p": "Ao usuário de drogas pode ser aplicada pena de detenção de 6 meses a 1 ano.",
+"c": false,
+"x": "O art. 28 só prevê advertência, prestação de serviços à comunidade e medida educativa.",
+"e": "Lei 11.343, art. 28."
+},
+{
+"p": "As penas de prestação de serviços e de medida educativa ao usuário serão aplicadas pelo prazo máximo de 5 meses, ou de 10 meses na reincidência.",
+"c": true,
+"x": "É o art. 28, §§3º e 4º, da Lei 11.343.",
+"e": "Lei 11.343, art. 28."
+},
+{
+"p": "Semear, cultivar ou fazer a colheita de plantas destinadas à preparação de pequena quantidade de droga, para consumo pessoal, sujeita o agente às mesmas medidas do usuário.",
+"c": true,
+"x": "É o art. 28, §1º, da Lei 11.343.",
+"e": "Lei 11.343, art. 28, §1º."
+},
+{
+"p": "Colaborar como informante com grupo destinado ao tráfico é conduta atípica.",
+"c": false,
+"x": "É crime do art. 37 da Lei 11.343 (reclusão de 2 a 6 anos).",
+"e": "Lei 11.343, art. 37."
+},
+{
+"p": "Prescrever ou ministrar culposamente drogas sem que delas necessite o paciente, ou em doses excessivas, é crime previsto na Lei de Drogas.",
+"c": true,
+"x": "É o art. 38 da Lei 11.343.",
+"e": "Lei 11.343, art. 38."
+},
+{
+"p": "Conduzir embarcação ou aeronave após o consumo de drogas, expondo a dano potencial a incolumidade de outrem, é crime da Lei de Drogas.",
+"c": true,
+"x": "É o art. 39 da Lei 11.343.",
+"e": "Lei 11.343, art. 39."
+},
+{
+"p": "O tráfico de drogas cometido nas imediações de estabelecimento prisional não tem causa de aumento.",
+"c": false,
+"x": "Há aumento de 1/6 a 2/3 quando praticado nas dependências ou imediações de estabelecimentos prisionais, de ensino, hospitalares e outros (art. 40, III).",
+"e": "Lei 11.343, art. 40, III."
+},
+{
+"p": "Oferecer droga, eventualmente e sem objetivo de lucro, a pessoa de seu relacionamento, para juntos a consumirem, é",
+"alts": [
+"tráfico, com pena de 5 a 15 anos",
+"crime de menor potencial ofensivo do art. 33, §3º",
+"conduta atípica",
+"associação para o tráfico",
+"posse para consumo do art. 28"
+],
+"r": 1,
+"x": "Pena de detenção de 6 meses a 1 ano e multa, sem prejuízo das penas do art. 28.",
+"n": [
+"Há tipo privilegiado próprio.",
+"Correta.",
+"É crime.",
+"Não há estabilidade.",
+"É tipo diferente."
+],
+"e": "Lei 11.343, art. 33, §3º."
 }
 ]
 },
@@ -265,6 +451,68 @@ export default {
 "Não é a pena."
 ],
 "e": "Lei 10.826, art. 16, §2º."
+},
+{
+"p": "Disparar arma de fogo ou acionar munição em lugar habitado ou em suas adjacências, em via pública ou em direção a ela, desde que essa conduta não tenha como finalidade a prática de outro crime, é crime do Estatuto do Desarmamento.",
+"c": true,
+"x": "É o art. 15 da Lei 10.826.",
+"e": "Lei 10.826, art. 15."
+},
+{
+"p": "O crime de omissão de cautela do art. 13 do Estatuto é doloso.",
+"c": false,
+"x": "É crime culposo: deixar de observar as cautelas necessárias para impedir que menor ou deficiente mental se apodere de arma.",
+"e": "Lei 10.826, art. 13."
+},
+{
+"p": "Nas mesmas penas do art. 13 incorrem o proprietário ou diretor de empresa de segurança que deixar de registrar ocorrência policial e comunicar à PF a perda ou furto de arma, nas 24 horas seguintes.",
+"c": true,
+"x": "É o art. 13, parágrafo único, da Lei 10.826.",
+"e": "Lei 10.826, art. 13."
+},
+{
+"p": "As guardas municipais podem ter porte de arma de fogo, nos termos do Estatuto do Desarmamento e da jurisprudência do STF.",
+"c": true,
+"x": "O STF (ADI 5538 e ADC 38) afastou a restrição por número de habitantes, estendendo o porte às guardas de todos os municípios, observados os requisitos legais.",
+"e": "STF, ADC 38."
+},
+{
+"p": "Segundo o STF, o porte de arma pelas guardas municipais só é permitido nos municípios com mais de 500 mil habitantes.",
+"c": false,
+"x": "O STF declarou inconstitucional o critério populacional (ADI 5538, ADI 5948, ADC 38).",
+"e": "STF, ADI 5538."
+},
+{
+"p": "Suprimir ou alterar marca, numeração ou qualquer sinal de identificação de arma de fogo configura o crime do art. 16, §1º, do Estatuto.",
+"c": true,
+"x": "É o art. 16, §1º, I, da Lei 10.826.",
+"e": "Lei 10.826, art. 16, §1º."
+},
+{
+"p": "A pena dos crimes de comércio ilegal e tráfico internacional de arma é aumentada da metade se a arma for de uso proibido ou restrito.",
+"c": true,
+"x": "É o art. 19 da Lei 10.826.",
+"e": "Lei 10.826, art. 19."
+},
+{
+"p": "Manter sob guarda arma de fogo de uso permitido no próprio local de trabalho, sendo o responsável legal pelo estabelecimento, sem registro, configura",
+"alts": [
+"porte ilegal (art. 14)",
+"posse irregular (art. 12)",
+"omissão de cautela (art. 13)",
+"posse de arma de uso restrito (art. 16)",
+"conduta atípica"
+],
+"r": 1,
+"x": "No local de trabalho, sendo o titular ou responsável legal, é posse (art. 12).",
+"n": [
+"Seria fora do local de trabalho.",
+"Correta.",
+"Não é o caso.",
+"A arma é de uso permitido.",
+"É crime."
+],
+"e": "Lei 10.826, art. 12."
 }
 ]
 },
@@ -330,6 +578,68 @@ export default {
 "Não se restringe a militares."
 ],
 "e": "Lei 13.869, art. 2º."
+},
+{
+"p": "Constitui abuso de autoridade decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais.",
+"c": true,
+"x": "É o art. 9º da Lei 13.869.",
+"e": "Lei 13.869, art. 9º."
+},
+{
+"p": "Deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal é crime de abuso de autoridade.",
+"c": true,
+"x": "É o art. 12 da Lei 13.869.",
+"e": "Lei 13.869, art. 12."
+},
+{
+"p": "Constranger o preso a produzir prova contra si mesmo não é tipificado na Lei de Abuso de Autoridade.",
+"c": false,
+"x": "Está no art. 13, III, da Lei 13.869.",
+"e": "Lei 13.869, art. 13."
+},
+{
+"p": "Não há crime de violação de domicílio da Lei 13.869 se o ingresso ocorrer para prestar socorro, ou quando houver fundados indícios que indiquem a necessidade do ingresso em razão de situação de flagrante delito ou desastre.",
+"c": true,
+"x": "É o art. 22, §2º, da Lei 13.869.",
+"e": "Lei 13.869, art. 22, §2º."
+},
+{
+"p": "Divulgar gravação ou trecho de gravação sem relação com a prova que se pretendia produzir, expondo a intimidade do investigado, é abuso de autoridade.",
+"c": true,
+"x": "É o art. 28 da Lei 13.869.",
+"e": "Lei 13.869, art. 28."
+},
+{
+"p": "A Lei 13.869 aplica-se somente aos servidores públicos civis, excluídos os militares.",
+"c": false,
+"x": "Alcança qualquer agente público, inclusive militares (art. 2º, I).",
+"e": "Lei 13.869, art. 2º."
+},
+{
+"p": "A sentença penal que reconhecer ter sido o ato praticado em estado de necessidade, legítima defesa ou estrito cumprimento de dever legal faz coisa julgada em âmbito cível e administrativo-disciplinar.",
+"c": true,
+"x": "É o art. 8º da Lei 13.869.",
+"e": "Lei 13.869, art. 8º."
+},
+{
+"p": "Segundo a Lei 13.869/2019, as penas restritivas de direitos substitutivas das privativas de liberdade incluem",
+"alts": [
+"apenas multa",
+"prestação de serviços à comunidade e suspensão do exercício do cargo, com perda dos vencimentos, de 1 a 6 meses",
+"apenas a perda do cargo",
+"prisão domiciliar",
+"interdição de direitos políticos"
+],
+"r": 1,
+"x": "É o art. 5º da Lei 13.869.",
+"n": [
+"Não é a única.",
+"Correta.",
+"Não é substitutiva.",
+"Não é pena restritiva.",
+"Não está prevista."
+],
+"e": "Lei 13.869, art. 5º."
 }
 ]
 },
@@ -395,6 +705,68 @@ export default {
 "Não é a pena."
 ],
 "e": "Lei 11.340, art. 24-A."
+},
+{
+"p": "A violência psicológica contra a mulher é forma de violência doméstica prevista na Lei Maria da Penha.",
+"c": true,
+"x": "É o art. 7º, II, da Lei 11.340.",
+"e": "Lei 11.340, art. 7º, II."
+},
+{
+"p": "A violência patrimonial inclui a retenção, subtração ou destruição de objetos, instrumentos de trabalho, documentos pessoais e bens da mulher.",
+"c": true,
+"x": "É o art. 7º, IV, da Lei 11.340.",
+"e": "Lei 11.340, art. 7º, IV."
+},
+{
+"p": "A Lei Maria da Penha só se aplica quando agressor e vítima são cônjuges ou companheiros.",
+"c": false,
+"x": "Aplica-se no âmbito da unidade doméstica, da família e de qualquer relação íntima de afeto, independentemente de coabitação (art. 5º).",
+"e": "Lei 11.340, art. 5º."
+},
+{
+"p": "O juiz pode determinar a proibição de aproximação da ofendida, de seus familiares e das testemunhas, fixando limite mínimo de distância.",
+"c": true,
+"x": "É o art. 22, III, a, da Lei 11.340.",
+"e": "Lei 11.340, art. 22."
+},
+{
+"p": "A autoridade policial deve, no atendimento à mulher, garantir proteção policial, encaminhá-la a hospital ou IML e fornecer transporte para abrigo quando houver risco de vida.",
+"c": true,
+"x": "É o art. 11 da Lei 11.340.",
+"e": "Lei 11.340, art. 11."
+},
+{
+"p": "Nos crimes de violência doméstica, a vítima pode entregar a intimação ao agressor.",
+"c": false,
+"x": "É vedado à ofendida entregar intimação ou notificação ao agressor (art. 21, parágrafo único).",
+"e": "Lei 11.340, art. 21."
+},
+{
+"p": "Em qualquer fase do inquérito ou da instrução, cabe a prisão preventiva do agressor, decretada pelo juiz de ofício, a requerimento do MP ou mediante representação da autoridade policial.",
+"c": true,
+"x": "É o art. 20 da Lei 11.340. Após o Pacote Anticrime, a doutrina discute a decretação de ofício (CPP, art. 311).",
+"e": "Lei 11.340, art. 20."
+},
+{
+"p": "O juiz deve decidir sobre as medidas protetivas de urgência requeridas no prazo de",
+"alts": [
+"24 horas",
+"48 horas",
+"72 horas",
+"5 dias",
+"10 dias"
+],
+"r": 1,
+"x": "Art. 18 da Lei 11.340.",
+"n": [
+"Não é o prazo.",
+"Correta.",
+"Não é o prazo.",
+"Não é o prazo.",
+"Não é o prazo."
+],
+"e": "Lei 11.340, art. 18."
 }
 ]
 },
@@ -454,6 +826,68 @@ export default {
 "Não é o prazo."
 ],
 "e": "Lei 12.850, art. 10."
+},
+{
+"p": "As penas da organização criminosa aumentam-se até a metade se houver emprego de arma de fogo.",
+"c": true,
+"x": "É o art. 2º, §2º, da Lei 12.850.",
+"e": "Lei 12.850, art. 2º, §2º."
+},
+{
+"p": "A pena é agravada para quem exerce o comando, individual ou coletivo, da organização criminosa, ainda que não pratique pessoalmente atos de execução.",
+"c": true,
+"x": "É o art. 2º, §3º, da Lei 12.850.",
+"e": "Lei 12.850, art. 2º, §3º."
+},
+{
+"p": "O funcionário público integrante de organização criminosa não pode ser afastado cautelarmente do cargo.",
+"c": false,
+"x": "Havendo indícios suficientes, o juiz pode determinar o afastamento cautelar, sem prejuízo da remuneração (art. 2º, §5º).",
+"e": "Lei 12.850, art. 2º, §5º."
+},
+{
+"p": "A condenação com trânsito em julgado acarreta ao funcionário público a perda do cargo e a interdição para o exercício de função pelo prazo de 8 anos subsequentes ao cumprimento da pena.",
+"c": true,
+"x": "É o art. 2º, §6º, da Lei 12.850.",
+"e": "Lei 12.850, art. 2º, §6º."
+},
+{
+"p": "O colaborador deve renunciar, na presença de seu defensor, ao direito ao silêncio nos depoimentos que prestar, e estará sujeito ao compromisso de dizer a verdade.",
+"c": true,
+"x": "É o art. 4º, §14, da Lei 12.850.",
+"e": "Lei 12.850, art. 4º, §14."
+},
+{
+"p": "O juiz participa das negociações para a formalização do acordo de colaboração premiada.",
+"c": false,
+"x": "O juiz não participa das negociações (art. 4º, §6º); só homologa.",
+"e": "Lei 12.850, art. 4º, §6º."
+},
+{
+"p": "O Ministério Público pode deixar de oferecer denúncia se o colaborador não for o líder da organização e for o primeiro a prestar efetiva colaboração.",
+"c": true,
+"x": "É o art. 4º, §4º, da Lei 12.850 (acordo de imunidade).",
+"e": "Lei 12.850, art. 4º, §4º."
+},
+{
+"p": "Impedir ou, de qualquer forma, embaraçar a investigação de infração penal que envolva organização criminosa",
+"alts": [
+"é conduta atípica",
+"incorre nas mesmas penas da organização criminosa",
+"é contravenção",
+"é crime de menor potencial ofensivo",
+"só é punido se houver resultado"
+],
+"r": 1,
+"x": "Art. 2º, §1º, da Lei 12.850.",
+"n": [
+"É crime.",
+"Correta.",
+"É crime.",
+"Não é.",
+"É crime formal."
+],
+"e": "Lei 12.850, art. 2º, §1º."
 }
 ]
 },
@@ -514,6 +948,62 @@ export default {
 "É hipótese típica de cabimento."
 ],
 "e": "Lei 9.296, art. 2º."
+},
+{
+"p": "A interceptação de comunicações telefônicas, para prova em investigação criminal e em instrução processual penal, depende de ordem do juiz competente da ação principal, sob segredo de justiça.",
+"c": true,
+"x": "É o art. 1º da Lei 9.296.",
+"e": "Lei 9.296, art. 1º."
+},
+{
+"p": "A Lei 9.296 aplica-se também à interceptação do fluxo de comunicações em sistemas de informática e telemática.",
+"c": true,
+"x": "É o art. 1º, parágrafo único, da Lei 9.296.",
+"e": "Lei 9.296, art. 1º, parágrafo único."
+},
+{
+"p": "A interceptação telefônica pode ser determinada para instruir processo civil ou administrativo.",
+"c": false,
+"x": "Só para investigação criminal e instrução processual penal (CF, art. 5º, XII). O STF admite o uso emprestado em PAD de prova legalmente obtida.",
+"e": "CF, art. 5º, XII."
+},
+{
+"p": "A gravação que não interessar à prova será inutilizada por decisão judicial, durante o inquérito, a instrução processual ou após esta.",
+"c": true,
+"x": "É o art. 9º da Lei 9.296.",
+"e": "Lei 9.296, art. 9º."
+},
+{
+"p": "Deferido o pedido, a autoridade policial conduzirá os procedimentos de interceptação, dando ciência ao Ministério Público, que poderá acompanhar a sua realização.",
+"c": true,
+"x": "É o art. 6º da Lei 9.296.",
+"e": "Lei 9.296, art. 6º."
+},
+{
+"p": "Segundo o STF, a prova obtida por interceptação legalmente autorizada não pode ser utilizada em processo administrativo disciplinar.",
+"c": false,
+"x": "O STF admite a prova emprestada em PAD, desde que obtida licitamente no processo penal (Súmula 591 do STJ, no mesmo sentido).",
+"e": "Súmula 591 do STJ."
+},
+{
+"p": "Na captação ambiental autorizada pela Lei 9.296 (art. 8º-A), o requisito quanto à pena é que a infração tenha pena máxima",
+"alts": [
+"superior a 2 anos",
+"superior a 4 anos, ou seja conexa",
+"de reclusão, qualquer que seja o máximo",
+"superior a 8 anos",
+"de qualquer espécie"
+],
+"r": 1,
+"x": "Art. 8º-A, II, da Lei 9.296, incluído pelo Pacote Anticrime.",
+"n": [
+"Não é o patamar.",
+"Correta.",
+"Não é o critério da captação ambiental.",
+"Não é o patamar.",
+"Há limite."
+],
+"e": "Lei 9.296, art. 8º-A."
 }
 ]
 },
@@ -573,6 +1063,62 @@ export default {
 "É a pena do tráfico."
 ],
 "e": "Lei 9.613, art. 1º."
+},
+{
+"p": "Incorre na mesma pena da lavagem quem, para ocultar ou dissimular a utilização de bens provenientes de infração penal, os converte em ativos lícitos.",
+"c": true,
+"x": "É o art. 1º, §1º, I, da Lei 9.613.",
+"e": "Lei 9.613, art. 1º, §1º."
+},
+{
+"p": "Também comete lavagem quem utiliza, na atividade econômica ou financeira, bens, direitos ou valores provenientes de infração penal.",
+"c": true,
+"x": "É o art. 1º, §2º, I, da Lei 9.613.",
+"e": "Lei 9.613, art. 1º, §2º."
+},
+{
+"p": "A tentativa não é punível no crime de lavagem de dinheiro.",
+"c": false,
+"x": "A tentativa é punida nos termos do CP (art. 1º, §3º).",
+"e": "Lei 9.613, art. 1º, §3º."
+},
+{
+"p": "O juiz pode decretar medidas assecuratórias de bens do investigado ou acusado, ou existentes em nome de interpostas pessoas, que sejam instrumento, produto ou proveito dos crimes.",
+"c": true,
+"x": "É o art. 4º da Lei 9.613.",
+"e": "Lei 9.613, art. 4º."
+},
+{
+"p": "As pessoas obrigadas pela lei, como instituições financeiras, devem comunicar ao COAF as operações suspeitas.",
+"c": true,
+"x": "É o art. 11 da Lei 9.613.",
+"e": "Lei 9.613, art. 11."
+},
+{
+"p": "O processo e julgamento dos crimes de lavagem são sempre da competência da Justiça Federal.",
+"c": false,
+"x": "São da Justiça Federal quando praticados contra o sistema financeiro, a ordem econômico-financeira ou em detrimento de interesses da União, ou quando a infração antecedente for federal (art. 2º, III). Nos demais casos, estadual.",
+"e": "Lei 9.613, art. 2º, III."
+},
+{
+"p": "Sobre a lavagem de dinheiro, é correto afirmar que",
+"alts": [
+"exige condenação prévia pelo crime antecedente",
+"é punível ainda que desconhecido ou isento de pena o autor da infração antecedente",
+"só pode ter crime contra a Administração como antecedente",
+"não admite colaboração premiada",
+"é crime de menor potencial ofensivo"
+],
+"r": 1,
+"x": "Art. 2º, §1º, da Lei 9.613.",
+"n": [
+"Bastam indícios.",
+"Correta.",
+"Qualquer infração penal.",
+"Admite (art. 1º, §5º).",
+"A pena é de 3 a 10 anos."
+],
+"e": "Lei 9.613, art. 2º, §1º."
 }
 ]
 },
@@ -626,6 +1172,62 @@ export default {
 "Não é causa de aumento."
 ],
 "e": "Lei 7.716, art. 20-A."
+},
+{
+"p": "Impedir o acesso de alguém, devidamente habilitado, a cargo da Administração Pública, por motivo de raça, cor, etnia, religião ou procedência nacional, é crime da Lei 7.716.",
+"c": true,
+"x": "É o art. 3º da Lei 7.716.",
+"e": "Lei 7.716, art. 3º."
+},
+{
+"p": "Recusar ou impedir acesso a estabelecimento comercial, negando-se a servir ou atender cliente por preconceito, é crime da Lei 7.716.",
+"c": true,
+"x": "É o art. 5º da Lei 7.716.",
+"e": "Lei 7.716, art. 5º."
+},
+{
+"p": "Fabricar e distribuir símbolos que utilizem a cruz suástica para fins de divulgação do nazismo não é crime.",
+"c": false,
+"x": "É crime do art. 20, §1º, da Lei 7.716.",
+"e": "Lei 7.716, art. 20, §1º."
+},
+{
+"p": "A injúria por motivo de religião, condição de pessoa idosa ou com deficiência permanece prevista no Código Penal (injúria qualificada).",
+"c": true,
+"x": "Após a Lei 14.532/2023, o art. 140, §3º, do CP ficou com religião, idade e deficiência; raça, cor, etnia e procedência foram para a Lei 7.716.",
+"e": "CP, art. 140, §3º."
+},
+{
+"p": "O juiz pode determinar a interdição das respectivas mensagens ou páginas de informação na internet em caso de crime de racismo praticado por esses meios.",
+"c": true,
+"x": "É o art. 20, §3º, III, da Lei 7.716.",
+"e": "Lei 7.716, art. 20, §3º."
+},
+{
+"p": "Segundo a CF, o racismo é crime prescritível, sujeito à pena de detenção.",
+"c": false,
+"x": "É inafiançável, imprescritível e punido com reclusão (art. 5º, XLII).",
+"e": "CF, art. 5º, XLII."
+},
+{
+"p": "Após a Lei 14.532/2023, injuriar alguém em razão de sua cor configura",
+"alts": [
+"injúria simples do CP",
+"injúria qualificada do art. 140, §3º, do CP",
+"injúria racial do art. 2º-A da Lei 7.716, imprescritível",
+"contravenção",
+"crime de menor potencial ofensivo"
+],
+"r": 2,
+"x": "A injúria racial passou para a Lei 7.716, com pena de 2 a 5 anos.",
+"n": [
+"Não é.",
+"Saiu do CP.",
+"Correta.",
+"É crime.",
+"A pena máxima é 5 anos."
+],
+"e": "Lei 7.716, art. 2º-A."
 }
 ]
 },
@@ -686,6 +1288,68 @@ export default {
 "É a internação provisória."
 ],
 "e": "ECA, art. 121, §3º."
+},
+{
+"p": "Nenhum adolescente será privado de sua liberdade senão em flagrante de ato infracional ou por ordem escrita e fundamentada da autoridade judiciária competente.",
+"c": true,
+"x": "É o art. 106 do ECA.",
+"e": "ECA, art. 106."
+},
+{
+"p": "O adolescente apreendido por força de ordem judicial será, desde logo, encaminhado à autoridade judiciária.",
+"c": true,
+"x": "É o art. 171 do ECA.",
+"e": "ECA, art. 171."
+},
+{
+"p": "O adolescente apreendido pode ser conduzido ou transportado em compartimento fechado de veículo policial.",
+"c": false,
+"x": "É vedado, em condições atentatórias à sua dignidade ou que impliquem risco à sua integridade (art. 178).",
+"e": "ECA, art. 178."
+},
+{
+"p": "São medidas socioeducativas a advertência, a obrigação de reparar o dano, a prestação de serviços à comunidade, a liberdade assistida, a semiliberdade e a internação.",
+"c": true,
+"x": "É o art. 112 do ECA.",
+"e": "ECA, art. 112."
+},
+{
+"p": "A prestação de serviços comunitários pelo adolescente não pode exceder 6 meses.",
+"c": true,
+"x": "É o art. 117 do ECA, com jornada máxima de 8 horas semanais.",
+"e": "ECA, art. 117."
+},
+{
+"p": "A liberdade assistida tem prazo máximo de 3 meses.",
+"c": false,
+"x": "A liberdade assistida tem prazo mínimo de 6 meses (art. 118, §2º).",
+"e": "ECA, art. 118."
+},
+{
+"p": "Em nenhuma hipótese a internação será aplicada havendo outra medida adequada.",
+"c": true,
+"x": "É o art. 122, §2º, do ECA (excepcionalidade).",
+"e": "ECA, art. 122, §2º."
+},
+{
+"p": "Considera-se criança, para o ECA, a pessoa",
+"alts": [
+"até 14 anos",
+"até 12 anos de idade incompletos",
+"até 10 anos",
+"até 16 anos",
+"até 18 anos"
+],
+"r": 1,
+"x": "Art. 2º do ECA. Adolescente: entre 12 e 18 anos.",
+"n": [
+"Não é o critério.",
+"Correta.",
+"Não é.",
+"Não é.",
+"Esse é o limite do adolescente."
+],
+"e": "ECA, art. 2º."
 }
 ]
 },
@@ -746,6 +1410,62 @@ export default {
 "Não há essa exigência."
 ],
 "e": "Lei 9.605, art. 4º."
+},
+{
+"p": "São circunstâncias que atenuam a pena nos crimes ambientais o baixo grau de instrução do agente e o arrependimento, manifestado pela espontânea reparação do dano.",
+"c": true,
+"x": "É o art. 14, I e II, da Lei 9.605.",
+"e": "Lei 9.605, art. 14."
+},
+{
+"p": "Não é crime o abate de animal quando realizado em estado de necessidade, para saciar a fome do agente ou de sua família.",
+"c": true,
+"x": "É o art. 37, I, da Lei 9.605.",
+"e": "Lei 9.605, art. 37."
+},
+{
+"p": "Provocar incêndio em mata ou floresta só é crime na modalidade dolosa.",
+"c": false,
+"x": "O art. 41, parágrafo único, pune também a modalidade culposa.",
+"e": "Lei 9.605, art. 41."
+},
+{
+"p": "Fazer o funcionário público afirmação falsa ou enganosa em procedimentos de autorização ou de licenciamento ambiental é crime.",
+"c": true,
+"x": "É o art. 66 da Lei 9.605.",
+"e": "Lei 9.605, art. 66."
+},
+{
+"p": "Conceder o funcionário público licença em desacordo com as normas ambientais é crime, punido também na forma culposa.",
+"c": true,
+"x": "É o art. 67 e parágrafo único da Lei 9.605.",
+"e": "Lei 9.605, art. 67."
+},
+{
+"p": "Os crimes da Lei 9.605 são de ação penal pública condicionada à representação.",
+"c": false,
+"x": "São de ação penal pública incondicionada (art. 26).",
+"e": "Lei 9.605, art. 26."
+},
+{
+"p": "Nos crimes ambientais, a suspensão parcial ou total de atividades, a interdição temporária de estabelecimento e a proibição de contratar com o Poder Público são penas aplicáveis",
+"alts": [
+"apenas às pessoas físicas",
+"às pessoas jurídicas, como restritivas de direitos",
+"só ao funcionário público",
+"apenas em crimes culposos",
+"só após o trânsito em julgado de ação civil"
+],
+"r": 1,
+"x": "Art. 22 da Lei 9.605.",
+"n": [
+"São penas da PJ.",
+"Correta.",
+"Não é a regra.",
+"Não é a regra.",
+"Não é a regra."
+],
+"e": "Lei 9.605, art. 22."
 }
 ]
 },
@@ -806,6 +1526,62 @@ export default {
 "Não é o prazo."
 ],
 "e": "Lei 9.099, art. 76, §2º."
+},
+{
+"p": "O processo perante o Juizado Especial Criminal orienta-se pelos critérios da oralidade, informalidade, economia processual e celeridade.",
+"c": true,
+"x": "É o art. 62 da Lei 9.099.",
+"e": "Lei 9.099, art. 62."
+},
+{
+"p": "Nos crimes de lesão corporal leve e lesão culposa, a ação penal depende de representação.",
+"c": true,
+"x": "É o art. 88 da Lei 9.099 (exceto na Lei Maria da Penha).",
+"e": "Lei 9.099, art. 88."
+},
+{
+"p": "A transação penal aceita pelo autor do fato gera reincidência.",
+"c": false,
+"x": "Não gera reincidência nem consta de certidão de antecedentes, servindo só para impedir novo benefício em 5 anos (art. 76, §§4º e 6º).",
+"e": "Lei 9.099, art. 76."
+},
+{
+"p": "Se o acusado não for encontrado para ser citado, o juiz encaminhará as peças ao juízo comum.",
+"c": true,
+"x": "É o art. 66, parágrafo único, da Lei 9.099: no JECrim não há citação por edital.",
+"e": "Lei 9.099, art. 66."
+},
+{
+"p": "Da decisão de rejeição da denúncia ou queixa e da sentença no JECrim cabe apelação, que pode ser julgada por turma de juízes de primeiro grau.",
+"c": true,
+"x": "É o art. 82 da Lei 9.099.",
+"e": "Lei 9.099, art. 82."
+},
+{
+"p": "Expirado o prazo do sursis processual sem revogação, o juiz condena o acusado a pena reduzida.",
+"c": false,
+"x": "O juiz declara extinta a punibilidade (art. 89, §5º).",
+"e": "Lei 9.099, art. 89, §5º."
+},
+{
+"p": "No Juizado Especial Criminal, o prazo da apelação é de",
+"alts": [
+"5 dias",
+"10 dias, com razões",
+"15 dias",
+"3 dias",
+"20 dias"
+],
+"r": 1,
+"x": "Art. 82, §1º, da Lei 9.099: interposta por petição escrita com as razões. Embargos de declaração: 5 dias.",
+"n": [
+"É o dos embargos.",
+"Correta.",
+"Não é o prazo.",
+"Não é o prazo.",
+"Não é o prazo."
+],
+"e": "Lei 9.099, art. 82, §1º."
 }
 ]
 }

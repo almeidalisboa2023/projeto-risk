@@ -63,6 +63,50 @@ export default {
 "Sem desenvolvimento não há argumentação."
 ],
 "e": "Estrutura da dissertação."
+},
+{
+"p": "A introdução deve contextualizar o tema e apresentar o ponto de vista que será defendido.",
+"c": true,
+"x": "É onde aparece a tese.",
+"e": "Estrutura."
+},
+{
+"p": "A conclusão deve retomar a tese e fechar o raciocínio, sem trazer argumento novo.",
+"c": true,
+"x": "Argumento novo na conclusão deixa o texto incompleto.",
+"e": "Estrutura."
+},
+{
+"p": "Em texto dissertativo, é recomendável usar perguntas retóricas em todos os parágrafos.",
+"c": false,
+"x": "O excesso de perguntas enfraquece a argumentação; o texto deve afirmar e fundamentar.",
+"e": "Estilo."
+},
+{
+"p": "O título, quando não exigido pelo edital, pode ser dispensado e, em regra, não é contado como linha.",
+"c": true,
+"x": "Confira sempre a regra do edital.",
+"e": "Regras de edital."
+},
+{
+"p": "O elemento que garante a progressão do texto, ligando um parágrafo ao outro, é",
+"alts": [
+"o título",
+"o uso de conectivos e retomadas",
+"o número de linhas",
+"a letra cursiva",
+"a citação em inglês"
+],
+"r": 1,
+"x": "Coesão sequencial e referencial.",
+"n": [
+"Não garante progressão.",
+"Correta.",
+"Não é.",
+"Não é.",
+"Não é."
+],
+"e": "Coesão."
 }
 ]
 },
@@ -117,6 +161,44 @@ export default {
 "Não é o significado."
 ],
 "e": "Critérios da Cebraspe."
+},
+{
+"p": "Na discursiva, o examinador avalia o domínio do conteúdo exigido pelo comando, além da correção gramatical.",
+"c": true,
+"x": "Conteúdo e expressão são avaliados.",
+"e": "Critérios."
+},
+{
+"p": "Escrever mais linhas do que o máximo permitido aumenta a nota.",
+"c": false,
+"x": "O texto além do limite máximo é desconsiderado.",
+"e": "Regras de edital."
+},
+{
+"p": "Erros de acentuação e de concordância contam como erros de língua na correção da Cebraspe.",
+"c": true,
+"x": "Acentuação e morfossintaxe estão entre os quesitos.",
+"e": "Critérios da Cebraspe."
+},
+{
+"p": "Um texto que fala do tema “segurança nas rodovias”, mas trata apenas da história do automóvel, provavelmente receberá",
+"alts": [
+"nota máxima",
+"nota média",
+"penalização por tangenciamento ou fuga ao tema",
+"bonificação",
+"correção apenas gramatical"
+],
+"r": 2,
+"x": "O texto deve responder ao tema e ao comando.",
+"n": [
+"Não atende ao tema.",
+"Não atende ao tema.",
+"Correta.",
+"Não existe.",
+"O conteúdo também é avaliado."
+],
+"e": "Critérios."
 }
 ]
 },
@@ -170,6 +252,50 @@ export default {
 "Condicional."
 ],
 "e": "Conectivos."
+},
+{
+"p": "O conectivo “embora” introduz ideia de concessão e exige o verbo no subjuntivo.",
+"c": true,
+"x": "Ex.: “Embora a fiscalização tenha aumentado...”.",
+"e": "Conectivos."
+},
+{
+"p": "“Portanto”, entre vírgulas, pode ser deslocado para o meio da oração sem perda de sentido.",
+"c": true,
+"x": "Ex.: “A medida é, portanto, necessária.”",
+"e": "Conectivos."
+},
+{
+"p": "“Mas” e “porém” expressam ideia de causa.",
+"c": false,
+"x": "São adversativos (oposição).",
+"e": "Conectivos."
+},
+{
+"p": "A repetição excessiva de uma mesma palavra pode ser evitada com sinônimos, pronomes e hiperônimos.",
+"c": true,
+"x": "Coesão referencial.",
+"e": "Coesão."
+},
+{
+"p": "Em “A fiscalização aumentou; por conseguinte, os acidentes diminuíram”, o conectivo expressa",
+"alts": [
+"oposição",
+"causa",
+"conclusão/consequência",
+"concessão",
+"condição"
+],
+"r": 2,
+"x": "“Por conseguinte” é conclusivo.",
+"n": [
+"Não é.",
+"Não é.",
+"Correta.",
+"Não é.",
+"Não é."
+],
+"e": "Conectivos."
 }
 ]
 },
@@ -218,6 +344,44 @@ export default {
 "Copiar o texto motivador é penalizado."
 ],
 "e": "Argumentação."
+},
+{
+"p": "Na redação sobre segurança pública, citar o art. 144 da CF é um bom repertório, por definir os órgãos e a missão da segurança pública.",
+"c": true,
+"x": "Mostra conhecimento técnico e fundamenta o argumento.",
+"e": "Repertório."
+},
+{
+"p": "Na redação dissertativa de concurso, é recomendado usar gírias para aproximar o texto do leitor.",
+"c": false,
+"x": "Exige-se a norma-padrão e linguagem formal.",
+"e": "Registro formal."
+},
+{
+"p": "A proposta de solução, quando cabível, deve ser concreta, indicando agente, ação e finalidade.",
+"c": true,
+"x": "Propostas vagas (“é preciso conscientizar”) pontuam menos.",
+"e": "Proposta de intervenção."
+},
+{
+"p": "Em um texto sobre crimes cibernéticos contra crianças, um repertório pertinente é",
+"alts": [
+"o Código de Trânsito",
+"o ECA e a Lei 13.431/2017",
+"a Lei de Licitações",
+"o Código Civil sobre usucapião",
+"a Lei de Falências"
+],
+"r": 1,
+"x": "São normas de proteção à criança e ao adolescente vítimas de violência.",
+"n": [
+"Não é pertinente.",
+"Correta.",
+"Não é pertinente.",
+"Não é pertinente.",
+"Não é pertinente."
+],
+"e": "Repertório."
 }
 ]
 },
@@ -264,6 +428,44 @@ export default {
 "Não é requisito."
 ],
 "e": "CPP, art. 312."
+},
+{
+"p": "Na representação por prisão preventiva, o Delegado deve demonstrar o perigo gerado pelo estado de liberdade do investigado com fatos novos ou contemporâneos.",
+"c": true,
+"x": "CPP, art. 312, §2º.",
+"e": "CPP, art. 312, §2º."
+},
+{
+"p": "Na representação por busca e apreensão domiciliar, é dispensável indicar o local da diligência.",
+"c": false,
+"x": "O mandado deve indicar, o mais precisamente possível, a casa e o proprietário ou morador (CPP, art. 243).",
+"e": "CPP, art. 243."
+},
+{
+"p": "Na representação por interceptação telefônica, o Delegado deve demonstrar que a prova não pode ser obtida por outros meios.",
+"c": true,
+"x": "Lei 9.296, art. 2º, II, e art. 4º.",
+"e": "Lei 9.296, art. 4º."
+},
+{
+"p": "Na resposta discursiva jurídica, é mais adequado",
+"alts": [
+"copiar o enunciado na íntegra",
+"responder objetivamente cada pergunta, com fundamento legal e aplicação ao caso",
+"escrever apenas a conclusão",
+"citar só doutrina estrangeira",
+"usar tópicos sem frases completas"
+],
+"r": 1,
+"x": "A correção segue os itens do padrão de resposta.",
+"n": [
+"Não pontua.",
+"Correta.",
+"Falta fundamento.",
+"Não é o foco.",
+"Prejudica a expressão."
+],
+"e": "Técnica de resposta."
 }
 ]
 }

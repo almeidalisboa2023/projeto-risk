@@ -63,6 +63,70 @@ export default {
 "Não confere."
 ],
 "e": "Torricelli."
+},
+{
+"p": "Um veículo que percorre 150 km em 2 horas tem velocidade média de 75 km/h.",
+"c": true,
+"x": "vm = 150/2.",
+"e": "Velocidade média."
+},
+{
+"p": "20 m/s correspondem a 72 km/h.",
+"c": true,
+"x": "20 × 3,6 = 72.",
+"e": "Conversão."
+},
+{
+"p": "No MRU, a aceleração é diferente de zero.",
+"c": false,
+"x": "No MRU a velocidade é constante e a aceleração é nula.",
+"e": "MRU."
+},
+{
+"p": "Um objeto em queda livre, partindo do repouso, atinge 20 m/s após 2 segundos (g = 10 m/s²).",
+"c": true,
+"x": "v = g·t = 10·2.",
+"e": "Queda livre."
+},
+{
+"p": "Um carro parte do repouso com aceleração constante de 2 m/s². Após 5 segundos, sua velocidade será",
+"alts": [
+"2 m/s",
+"5 m/s",
+"10 m/s",
+"25 m/s",
+"50 m/s"
+],
+"r": 2,
+"x": "v = v₀ + a·t = 0 + 2·5.",
+"n": [
+"É a aceleração.",
+"É o tempo.",
+"Correta.",
+"É o deslocamento (a·t²/2).",
+"Não confere."
+],
+"e": "MRUV."
+},
+{
+"p": "Um condutor a 30 m/s tem tempo de reação de 1 s. A distância percorrida antes de começar a frear é",
+"alts": [
+"3 m",
+"10 m",
+"30 m",
+"60 m",
+"90 m"
+],
+"r": 2,
+"x": "Durante a reação o carro segue em MRU: d = v·t = 30·1.",
+"n": [
+"Não confere.",
+"Não confere.",
+"Correta.",
+"Seria com 2 s.",
+"Não confere."
+],
+"e": "Distância de reação."
 }
 ]
 },
@@ -119,6 +183,50 @@ export default {
 "Multiplicou."
 ],
 "e": "2ª lei de Newton."
+},
+{
+"p": "A força peso de um corpo de 80 kg na superfície da Terra é de aproximadamente 800 N (g = 10 m/s²).",
+"c": true,
+"x": "P = m·g.",
+"e": "Força peso."
+},
+{
+"p": "A massa de um corpo muda quando ele é levado à Lua.",
+"c": false,
+"x": "A massa é a mesma; o peso diminui, porque a gravidade é menor.",
+"e": "Massa e peso."
+},
+{
+"p": "Quanto maior o coeficiente de atrito entre os pneus e a pista, menor tende a ser a distância de frenagem.",
+"c": true,
+"x": "A força de atrito é maior, gerando maior desaceleração.",
+"e": "Atrito."
+},
+{
+"p": "Em uma curva, a força que mantém o veículo na trajetória é a resultante centrípeta, fornecida pelo atrito entre pneus e pista.",
+"c": true,
+"x": "Pista molhada reduz o atrito e aumenta o risco de derrapagem.",
+"e": "Movimento circular."
+},
+{
+"p": "A unidade de força no Sistema Internacional é o",
+"alts": [
+"joule",
+"watt",
+"newton",
+"pascal",
+"quilograma"
+],
+"r": 2,
+"x": "1 N = 1 kg·m/s².",
+"n": [
+"Energia.",
+"Potência.",
+"Correta.",
+"Pressão.",
+"Massa."
+],
+"e": "Unidades do SI."
 }
 ]
 },
@@ -175,6 +283,50 @@ export default {
 "Não confere."
 ],
 "e": "Energia cinética."
+},
+{
+"p": "A potência é a rapidez com que um trabalho é realizado, medida em watts no SI.",
+"c": true,
+"x": "P = τ/Δt.",
+"e": "Potência."
+},
+{
+"p": "A quantidade de movimento é uma grandeza escalar.",
+"c": false,
+"x": "É vetorial (Q = m·v).",
+"e": "Quantidade de movimento."
+},
+{
+"p": "Na ausência de forças dissipativas, a energia mecânica de um sistema se conserva.",
+"c": true,
+"x": "Ec + Ep constante.",
+"e": "Conservação da energia."
+},
+{
+"p": "Um corpo de 2 kg a 10 metros de altura tem energia potencial gravitacional de 200 J (g = 10 m/s²).",
+"c": true,
+"x": "Ep = m·g·h = 2·10·10.",
+"e": "Energia potencial."
+},
+{
+"p": "Um veículo de 1.000 kg a 20 m/s tem quantidade de movimento de",
+"alts": [
+"200 kg·m/s",
+"2.000 kg·m/s",
+"20.000 kg·m/s",
+"200.000 kg·m/s",
+"50 kg·m/s"
+],
+"r": 2,
+"x": "Q = m·v.",
+"n": [
+"Não confere.",
+"Não confere.",
+"Correta.",
+"É a energia cinética em J.",
+"Não confere."
+],
+"e": "Quantidade de movimento."
 }
 ]
 },
@@ -231,6 +383,50 @@ export default {
 "Somou."
 ],
 "e": "Equação fundamental da ondulatória."
+},
+{
+"p": "A luz se propaga no vácuo com velocidade de aproximadamente 300.000 km/s.",
+"c": true,
+"x": "3 × 10⁸ m/s.",
+"e": "Óptica."
+},
+{
+"p": "As ondas sonoras são transversais no ar.",
+"c": false,
+"x": "No ar, o som é onda longitudinal.",
+"e": "Ondulatória."
+},
+{
+"p": "Na reflexão regular, o ângulo de incidência é igual ao ângulo de reflexão.",
+"c": true,
+"x": "Leis da reflexão.",
+"e": "Óptica."
+},
+{
+"p": "Quando a ambulância se aproxima do observador, o som da sirene parece mais agudo.",
+"c": true,
+"x": "Efeito Doppler: frequência percebida maior.",
+"e": "Efeito Doppler."
+},
+{
+"p": "O radar que mede a velocidade de veículos pela variação da frequência da onda refletida se baseia no",
+"alts": [
+"princípio de Pascal",
+"efeito Doppler",
+"princípio de Arquimedes",
+"efeito fotoelétrico",
+"lei de Ohm"
+],
+"r": 1,
+"x": "A diferença de frequência indica a velocidade relativa.",
+"n": [
+"Hidrostática.",
+"Correta.",
+"Empuxo.",
+"Emissão de elétrons pela luz.",
+"Eletricidade."
+],
+"e": "Efeito Doppler."
 }
 ]
 }

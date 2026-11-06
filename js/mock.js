@@ -109,7 +109,12 @@ export const db = {
   async remove(table, match) { await espera(); const del = new Set(filtra(t(table), match)); D[table] = t(table).filter((r) => !del.has(r)); persist(); return null; },
   async rpc(fn, args) { if (fn === 'estatistica_questao') { const r = t('respostas').filter((x) => x.questao_id === args.q); return [{ total: r.length, acertos: r.filter((x) => x.acertou).length }]; } return null; },
 };
-export const storage = { async upload(b, path, file) { return URL.createObjectURL(file); }, async remove() {} };
+const ARQ = new Map(); // arquivos do modo demonstração ficam só na memória (somem ao recarregar)
+export const storage = {
+  async upload(b, path, file) { ARQ.set(b + '/' + path, await file.arrayBuffer()); return URL.createObjectURL(file); },
+  async download(b, path) { const a = ARQ.get(b + '/' + path); if (!a) throw new Error('No modo demonstração o arquivo some ao recarregar a página. Envie de novo para testar.'); return a.slice(0); },
+  async remove(b, path) { ARQ.delete(b + '/' + path); },
+};
 export const functions = {
   async invoke(name, body) {
     await new Promise((r) => setTimeout(r, 700));

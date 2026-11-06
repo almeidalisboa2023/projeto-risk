@@ -11,6 +11,7 @@ const PAGINAS = {
   horas: ['Horas de estudo', '⏱', () => import('./pages/horas.js')],
   registrar: ['Registrar questões', '✎', () => import('./pages/registrar.js')],
   leitura: ['Leitura interativa', '📖', () => import('./pages/leitura.js')],
+  apostilas: ['Apostilas', '📚', () => import('./pages/apostilas.js')],
   edital: ['Edital', '☰', () => import('./pages/edital.js')],
   perfil: ['Perfil', '☺', () => import('./pages/perfil.js')],
   admin: ['Administrador', '⚙', () => import('./pages/admin.js')],

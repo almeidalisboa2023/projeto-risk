@@ -55,6 +55,44 @@ export default {
 "Contratualismo."
 ],
 "e": "Aristóteles."
+},
+{
+"p": "A ética, como reflexão filosófica, busca fundamentos racionais para a conduta humana.",
+"c": true,
+"x": "A moral é o conjunto de normas vividas por um grupo.",
+"e": "Ética e moral."
+},
+{
+"p": "A ética no serviço público se limita ao cumprimento literal da lei.",
+"c": false,
+"x": "Envolve também honestidade, boa-fé, moralidade e compromisso com o bem comum.",
+"e": "Ética pública."
+},
+{
+"p": "Para o utilitarismo, a ação correta é aquela que maximiza o bem-estar do maior número de pessoas.",
+"c": true,
+"x": "Bentham e Stuart Mill.",
+"e": "Utilitarismo."
+},
+{
+"p": "O imperativo categórico pertence à ética de",
+"alts": [
+"Aristóteles",
+"Kant",
+"Mill",
+"Maquiavel",
+"Rousseau"
+],
+"r": 1,
+"x": "Ética do dever.",
+"n": [
+"Virtudes.",
+"Correta.",
+"Utilitarismo.",
+"Política.",
+"Contrato social."
+],
+"e": "Kant."
 }
 ]
 },
@@ -108,6 +146,50 @@ export default {
 "Não é o termo."
 ],
 "e": "Decreto 1.171/1994, VII."
+},
+{
+"p": "Segundo o Decreto 1.171/1994, o servidor deve ser cortês, ter urbanidade, disponibilidade e atenção, respeitando a capacidade e as limitações individuais de todos os usuários.",
+"c": true,
+"x": "É um dos deveres do servidor (item XIV, g).",
+"e": "Decreto 1.171/1994."
+},
+{
+"p": "É permitido ao servidor usar o cargo para obter favorecimento para si ou para outrem.",
+"c": false,
+"x": "É vedado (item XV, a).",
+"e": "Decreto 1.171/1994."
+},
+{
+"p": "É vedado ao servidor apresentar-se embriagado no serviço ou fora dele habitualmente.",
+"c": true,
+"x": "Item XV, n, do Decreto 1.171.",
+"e": "Decreto 1.171/1994."
+},
+{
+"p": "É dever do servidor comunicar imediatamente a seus superiores todo e qualquer ato ou fato contrário ao interesse público.",
+"c": true,
+"x": "Item XIV, i, do Decreto 1.171.",
+"e": "Decreto 1.171/1994."
+},
+{
+"p": "Segundo o Código de Ética do Servidor Federal, a função pública deve ser tida como",
+"alts": [
+"atividade privada do servidor",
+"exercício profissional que se integra na vida particular de cada servidor",
+"mero emprego",
+"atividade política",
+"função transitória sem reflexos"
+],
+"r": 1,
+"x": "Item VI do Decreto 1.171: os fatos da vida privada podem acrescer ou diminuir o bom conceito na vida funcional.",
+"n": [
+"Não é.",
+"Correta.",
+"Não é.",
+"Não é.",
+"Não é."
+],
+"e": "Decreto 1.171/1994, VI."
 }
 ]
 },
@@ -164,6 +246,50 @@ export default {
 "Não é o prazo."
 ],
 "e": "Lei 12.527, art. 11."
+},
+{
+"p": "Segundo a LAI, é dever do Estado garantir o direito de acesso à informação, mediante procedimentos objetivos e ágeis, de forma transparente, clara e em linguagem de fácil compreensão.",
+"c": true,
+"x": "É o art. 5º da Lei 12.527.",
+"e": "Lei 12.527, art. 5º."
+},
+{
+"p": "Segundo a LAI, a informação ultrassecreta tem prazo máximo de restrição de 50 anos.",
+"c": false,
+"x": "O prazo é de 25 anos, prorrogável uma única vez (art. 24 e art. 35, §2º).",
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "O acordo de leniência da Lei Anticorrupção pode reduzir em até 2/3 o valor da multa aplicável.",
+"c": true,
+"x": "É o art. 16, §2º, da Lei 12.846.",
+"e": "Lei 12.846, art. 16."
+},
+{
+"p": "Os órgãos públicos devem divulgar em seus sítios na internet informações de interesse coletivo, independentemente de requerimento.",
+"c": true,
+"x": "É a transparência ativa (art. 8º da LAI).",
+"e": "Lei 12.527, art. 8º."
+},
+{
+"p": "Negado o acesso à informação, o requerente pode recorrer no prazo de",
+"alts": [
+"5 dias",
+"10 dias, a contar da ciência da decisão",
+"15 dias",
+"20 dias",
+"30 dias"
+],
+"r": 1,
+"x": "Art. 15 da Lei 12.527.",
+"n": [
+"Não é.",
+"Correta.",
+"Não é.",
+"É o prazo de resposta.",
+"Não é."
+],
+"e": "Lei 12.527, art. 15."
 }
 ]
 }

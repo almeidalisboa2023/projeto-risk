@@ -59,6 +59,50 @@ export default {
 "Não se aplica."
 ],
 "e": "CPPM, art. 7º, §2º."
+},
+{
+"p": "A polícia judiciária militar deve cumprir os mandados de prisão expedidos pela Justiça Militar.",
+"c": true,
+"x": "É o art. 8º, d, do CPPM.",
+"e": "CPPM, art. 8º."
+},
+{
+"p": "Compete à polícia judiciária militar representar a autoridades judiciárias militares acerca da prisão preventiva e da insanidade mental do indiciado.",
+"c": true,
+"x": "É o art. 8º, f, do CPPM.",
+"e": "CPPM, art. 8º."
+},
+{
+"p": "A delegação de atribuições de polícia judiciária militar pode ser feita a civil, desde que servidor público.",
+"c": false,
+"x": "A delegação é feita a oficiais da ativa (art. 7º, §1º).",
+"e": "CPPM, art. 7º."
+},
+{
+"p": "Em tempo de paz, o processo penal militar se aplica aos crimes militares definidos em lei.",
+"c": true,
+"x": "Arts. 1º e 6º do CPPM, conjugados com o art. 9º do CPM.",
+"e": "CPPM, art. 1º."
+},
+{
+"p": "Segundo o CPPM, nos casos omissos, a lei processual militar é suprida, entre outros,",
+"alts": [
+"apenas pela analogia",
+"pela legislação de processo penal comum, quando aplicável, pela jurisprudência e pelos usos e costumes militares",
+"pelo Código de Processo Civil, exclusivamente",
+"pelo regulamento disciplinar da corporação",
+"por decisão do comandante"
+],
+"r": 1,
+"x": "Art. 3º do CPPM.",
+"n": [
+"Não é a única fonte.",
+"Correta.",
+"Não é a fonte principal.",
+"Não é fonte do processo penal.",
+"Não é fonte."
+],
+"e": "CPPM, art. 3º."
 }
 ]
 },
@@ -120,6 +164,62 @@ export default {
 "Não é o prazo."
 ],
 "e": "CPPM, art. 18."
+},
+{
+"p": "O encarregado do IPM deve, entre outras providências, dirigir-se ao local, providenciando para que não se alterem o estado e a situação das coisas, enquanto necessário.",
+"c": true,
+"x": "É o art. 12, a, do CPPM.",
+"e": "CPPM, art. 12."
+},
+{
+"p": "O inquérito policial militar é sigiloso, mas seu encarregado pode permitir que dele tome conhecimento o advogado do indiciado.",
+"c": true,
+"x": "É o art. 16 do CPPM.",
+"e": "CPPM, art. 16."
+},
+{
+"p": "O prazo do IPM de indiciado preso pode ser prorrogado por mais 20 dias.",
+"c": false,
+"x": "Só o prazo do indiciado solto (40 dias) admite prorrogação de 20 dias (art. 20, §1º).",
+"e": "CPPM, art. 20."
+},
+{
+"p": "Os autos do inquérito serão remetidos ao auditor da circunscrição judiciária militar onde ocorreu a infração penal.",
+"c": true,
+"x": "É o art. 23 do CPPM.",
+"e": "CPPM, art. 23."
+},
+{
+"p": "O arquivamento do IPM não obsta a instauração de outro, se novas provas aparecerem em relação ao fato, ao indiciado ou a terceira pessoa.",
+"c": true,
+"x": "É o art. 25 do CPPM.",
+"e": "CPPM, art. 25."
+},
+{
+"p": "O IPM é indispensável para a propositura da ação penal militar em todos os casos.",
+"c": false,
+"x": "Pode ser dispensado quando o fato e a autoria estiverem esclarecidos, nos crimes contra a honra, de deserção e de insubmissão (art. 28).",
+"e": "CPPM, art. 28."
+},
+{
+"p": "O inquérito policial militar é instaurado mediante",
+"alts": [
+"denúncia do MP",
+"portaria",
+"sentença",
+"termo de deserção",
+"auto de prisão, exclusivamente"
+],
+"r": 1,
+"x": "Art. 10 do CPPM.",
+"n": [
+"Não é o ato de instauração.",
+"Correta.",
+"Não é.",
+"É peça do processo de deserção.",
+"O auto de flagrante pode valer como IPM, mas a regra é a portaria."
+],
+"e": "CPPM, art. 10."
 }
 ]
 },
@@ -176,6 +276,56 @@ export default {
 "Não existe no CPPM com esse nome."
 ],
 "e": "CPPM, art. 263."
+},
+{
+"p": "Considera-se em flagrante delito aquele que está cometendo o crime, acaba de cometê-lo, é perseguido logo após o fato delituoso ou é encontrado logo depois com instrumentos ou objetos que façam presumir a sua participação.",
+"c": true,
+"x": "É o art. 244 do CPPM.",
+"e": "CPPM, art. 244."
+},
+{
+"p": "Na infração permanente, considera-se o agente em flagrante delito enquanto não cessar a permanência.",
+"c": true,
+"x": "É o art. 244, parágrafo único, do CPPM.",
+"e": "CPPM, art. 244."
+},
+{
+"p": "A menagem pode ser concedida em qualquer crime militar, independentemente da pena.",
+"c": false,
+"x": "Só em crime cujo máximo da pena privativa de liberdade não exceda 4 anos (art. 263).",
+"e": "CPPM, art. 263."
+},
+{
+"p": "A prisão preventiva pode ser decretada pelo juiz, de ofício, a requerimento do MP ou mediante representação da autoridade encarregada do inquérito.",
+"c": true,
+"x": "É o art. 254 do CPPM. Há debate sobre a decretação de ofício após o Pacote Anticrime, que alterou o CPP comum.",
+"e": "CPPM, art. 254."
+},
+{
+"p": "A busca domiciliar consistirá na procura material portas adentro da casa.",
+"c": true,
+"x": "É o art. 171 do CPPM.",
+"e": "CPPM, art. 171."
+},
+{
+"p": "Dos fundamentos abaixo, o que é exclusivo da prisão preventiva no processo penal militar é",
+"alts": [
+"a garantia da ordem pública",
+"a conveniência da instrução criminal",
+"a segurança da aplicação da lei penal",
+"a exigência da manutenção das normas ou princípios de hierarquia e disciplina militares",
+"a periculosidade do indiciado"
+],
+"r": 3,
+"x": "Art. 255, e, do CPPM.",
+"n": [
+"Também existe no CPP.",
+"Também existe no CPP.",
+"Também existe no CPP.",
+"Correta.",
+"Existe no CPPM e é discutida no CPP."
+],
+"e": "CPPM, art. 255."
 }
 ]
 },
@@ -230,6 +380,50 @@ export default {
 "Não é o prazo."
 ],
 "e": "CPPM, art. 453."
+},
+{
+"p": "Antes de iniciar o interrogatório, o juiz deve observar ao acusado que, embora não esteja obrigado a responder às perguntas, o silêncio não importa confissão, conforme a Constituição.",
+"c": true,
+"x": "CF, art. 5º, LXIII, aplicado ao processo penal militar.",
+"e": "CF, art. 5º, LXIII."
+},
+{
+"p": "O militar arrolado como testemunha é requisitado à autoridade militar a que estiver subordinado.",
+"c": true,
+"x": "É o art. 349 do CPPM.",
+"e": "CPPM, art. 349."
+},
+{
+"p": "No processo de deserção, a praça sem estabilidade desertora é agregada.",
+"c": false,
+"x": "A praça sem estabilidade é excluída do serviço ativo; o oficial é agregado.",
+"e": "CPPM, art. 456."
+},
+{
+"p": "A testemunha não poderá eximir-se da obrigação de depor, salvo as exceções legais, como ascendente, descendente ou cônjuge do acusado.",
+"c": true,
+"x": "É a regra dos arts. 354 e 355 do CPPM.",
+"e": "CPPM, art. 354."
+},
+{
+"p": "No processo de deserção de praça, a reinclusão ao serviço ativo",
+"alts": [
+"é dispensável",
+"é condição de procedibilidade da ação penal",
+"ocorre só após a sentença",
+"é decidida pelo MP",
+"depende de autorização do STM"
+],
+"r": 1,
+"x": "Sem a reinclusão (praça) ou reversão (oficial), não se prossegue com a ação penal por deserção.",
+"n": [
+"Não é.",
+"Correta.",
+"Ocorre antes.",
+"É ato administrativo militar.",
+"Não é a regra."
+],
+"e": "CPPM, arts. 456 e 457."
 }
 ]
 }

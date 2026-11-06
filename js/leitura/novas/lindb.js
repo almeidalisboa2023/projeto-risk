@@ -70,6 +70,50 @@ export default {
 "Costume contra a lei não é admitido."
 ],
 "e": "LINDB, art. 4º."
+},
+{
+"p": "A lei terá vigor até que outra a modifique ou revogue, se não se destinar a vigência temporária.",
+"c": true,
+"x": "É o art. 2º da LINDB.",
+"e": "LINDB, art. 2º."
+},
+{
+"p": "Na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum.",
+"c": true,
+"x": "É o art. 5º da LINDB.",
+"e": "LINDB, art. 5º."
+},
+{
+"p": "A lei nova não pode ter efeito imediato, devendo aguardar o fim dos processos em curso.",
+"c": false,
+"x": "A lei em vigor terá efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada (art. 6º).",
+"e": "LINDB, art. 6º."
+},
+{
+"p": "Chama-se coisa julgada a decisão judicial de que já não caiba recurso.",
+"c": true,
+"x": "É o art. 6º, §3º, da LINDB.",
+"e": "LINDB, art. 6º, §3º."
+},
+{
+"p": "Uma lei publicada sem prazo de vacatio passa a vigorar no exterior, quando admitida, em",
+"alts": [
+"45 dias",
+"3 meses",
+"6 meses",
+"imediatamente",
+"1 ano"
+],
+"r": 1,
+"x": "LINDB, art. 1º, §1º.",
+"n": [
+"É no Brasil.",
+"Correta.",
+"Não é.",
+"Não é.",
+"Não é."
+],
+"e": "LINDB, art. 1º, §1º."
 }
 ]
 },
@@ -126,6 +170,50 @@ export default {
 "Não é a regra."
 ],
 "e": "LINDB, art. 9º."
+},
+{
+"p": "Tratando-se de brasileiros, são competentes as autoridades consulares brasileiras para lhes celebrar o casamento e os demais atos de registro civil e de tabelionato.",
+"c": true,
+"x": "É o art. 18 da LINDB.",
+"e": "LINDB, art. 18."
+},
+{
+"p": "A prova dos fatos ocorridos em país estrangeiro rege-se pela lei que nele vigorar, quanto ao ônus e aos meios de produzir-se.",
+"c": true,
+"x": "É o art. 13 da LINDB.",
+"e": "LINDB, art. 13."
+},
+{
+"p": "As organizações destinadas a fins de interesse coletivo obedecem à lei do Estado em que tiverem sede apenas se forem filiais.",
+"c": false,
+"x": "Obedecem à lei do Estado em que se constituírem (art. 11).",
+"e": "LINDB, art. 11."
+},
+{
+"p": "Quando a pessoa não tiver domicílio, considera-se domiciliada no lugar de sua residência ou naquele em que se encontre.",
+"c": true,
+"x": "É o art. 7º, §8º, da LINDB.",
+"e": "LINDB, art. 7º, §8º."
+},
+{
+"p": "A capacidade para suceder é regulada, segundo a LINDB, pela lei",
+"alts": [
+"do país do autor da herança",
+"do domicílio do herdeiro ou legatário",
+"do lugar dos bens",
+"brasileira, sempre",
+"do lugar da morte"
+],
+"r": 1,
+"x": "LINDB, art. 10, §2º.",
+"n": [
+"A sucessão em geral segue o domicílio do falecido, mas a capacidade de suceder não.",
+"Correta.",
+"Não é a regra.",
+"Não é a regra.",
+"Não é a regra."
+],
+"e": "LINDB, art. 10, §2º."
 }
 ]
 },
@@ -181,6 +269,50 @@ export default {
 "Não é a previsão."
 ],
 "e": "LINDB, art. 26."
+},
+{
+"p": "Na interpretação de normas sobre gestão pública, serão considerados os obstáculos e as dificuldades reais do gestor e as exigências das políticas públicas a seu cargo.",
+"c": true,
+"x": "É o art. 22 da LINDB.",
+"e": "LINDB, art. 22."
+},
+{
+"p": "Na aplicação de sanções, serão consideradas a natureza e a gravidade da infração, os danos que dela provierem, as circunstâncias agravantes ou atenuantes e os antecedentes do agente.",
+"c": true,
+"x": "É o art. 22, §2º, da LINDB.",
+"e": "LINDB, art. 22, §2º."
+},
+{
+"p": "A LINDB proíbe a edição de regulamentos e súmulas administrativas com caráter vinculante.",
+"c": false,
+"x": "O art. 30 manda as autoridades aumentarem a segurança jurídica por meio de regulamentos, súmulas administrativas e respostas a consultas, com caráter vinculante.",
+"e": "LINDB, art. 30."
+},
+{
+"p": "A revisão, nas esferas administrativa, controladora ou judicial, quanto à validade de ato cuja produção já se houver completado, levará em conta as orientações gerais da época.",
+"c": true,
+"x": "É o art. 24 da LINDB.",
+"e": "LINDB, art. 24."
+},
+{
+"p": "A decisão que, nas esferas administrativa, controladora ou judicial, decretar a invalidação de ato deverá, quando for o caso,",
+"alts": [
+"ser sempre retroativa",
+"indicar as condições para que a regularização ocorra de modo proporcional e equânime",
+"dispensar motivação",
+"ignorar as consequências práticas",
+"ser submetida ao Senado"
+],
+"r": 1,
+"x": "Art. 21, parágrafo único, da LINDB.",
+"n": [
+"Não é exigência.",
+"Correta.",
+"Exige motivação.",
+"Deve considerá-las (art. 20).",
+"Não é exigência."
+],
+"e": "LINDB, art. 21."
 }
 ]
 }

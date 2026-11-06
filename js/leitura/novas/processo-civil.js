@@ -66,6 +66,80 @@ export default {
 "A prescrição exige oitiva prévia (art. 487, parágrafo único)."
 ],
 "e": "CPC, art. 9º."
+},
+{
+"p": "Ninguém será obrigado a pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico.",
+"c": true,
+"x": "É o art. 18 do CPC (legitimação extraordinária).",
+"e": "CPC, art. 18."
+},
+{
+"p": "Para postular em juízo é necessário ter interesse e legitimidade.",
+"c": true,
+"x": "É o art. 17 do CPC.",
+"e": "CPC, art. 17."
+},
+{
+"p": "O CPC/2015 manteve a possibilidade jurídica do pedido como condição autônoma da ação.",
+"c": false,
+"x": "O CPC/2015 só menciona interesse e legitimidade (art. 17). A possibilidade jurídica passou a ser questão de mérito.",
+"e": "CPC, art. 17."
+},
+{
+"p": "Não se excluirá da apreciação jurisdicional ameaça ou lesão a direito, sendo permitida a arbitragem, na forma da lei.",
+"c": true,
+"x": "É o art. 3º, caput e §1º, do CPC.",
+"e": "CPC, art. 3º."
+},
+{
+"p": "A competência determina-se no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações posteriores, salvo se suprimirem órgão judiciário ou alterarem a competência absoluta.",
+"c": true,
+"x": "É a perpetuatio jurisdictionis (art. 43 do CPC).",
+"e": "CPC, art. 43."
+},
+{
+"p": "A competência em razão da matéria pode ser modificada pela vontade das partes por cláusula de eleição de foro.",
+"c": false,
+"x": "A competência absoluta (matéria, pessoa, função) é inderrogável por convenção (art. 62). A eleição de foro só altera valor e território (art. 63).",
+"e": "CPC, arts. 62 e 63."
+},
+{
+"p": "As ações fundadas em direito real sobre imóveis são propostas no foro de situação da coisa.",
+"c": true,
+"x": "É o art. 47 do CPC.",
+"e": "CPC, art. 47."
+},
+{
+"p": "Reputam-se conexas duas ou mais ações quando lhes for comum o pedido ou a causa de pedir.",
+"c": true,
+"x": "É o art. 55 do CPC.",
+"e": "CPC, art. 55."
+},
+{
+"p": "Segundo o CPC, o juiz deve decidir os processos em ordem cronológica obrigatória, sem exceções.",
+"c": false,
+"x": "Após a Lei 13.256/2016, o art. 12 passou a dizer que a ordem cronológica é atendida preferencialmente, com várias exceções no §2º.",
+"e": "CPC, art. 12."
+},
+{
+"p": "Nas causas em que o Município for autor, a ação deve ser proposta",
+"alts": [
+"sempre na capital do Estado",
+"no domicílio do autor",
+"no foro de domicílio do réu, como regra",
+"na Justiça Federal",
+"no foro de eleição do Prefeito"
+],
+"r": 2,
+"x": "Município não tem foro privilegiado: segue a regra geral do domicílio do réu (art. 46), na Justiça Estadual.",
+"n": [
+"Não há essa regra.",
+"Não é a regra geral.",
+"Correta.",
+"Município não atrai a Justiça Federal.",
+"Não existe."
+],
+"e": "CPC, art. 46."
 }
 ]
 },
@@ -135,6 +209,80 @@ export default {
 "O amicus colabora com a corte."
 ],
 "e": "CPC, art. 130."
+},
+{
+"p": "Toda pessoa que se encontre no exercício de seus direitos tem capacidade para estar em juízo.",
+"c": true,
+"x": "É o art. 70 do CPC.",
+"e": "CPC, art. 70."
+},
+{
+"p": "O litisconsórcio será unitário quando, pela natureza da relação jurídica, o juiz tiver de decidir o mérito de modo uniforme para todos os litisconsortes.",
+"c": true,
+"x": "É o art. 116 do CPC.",
+"e": "CPC, art. 116."
+},
+{
+"p": "A sentença de mérito proferida sem a integração do contraditório no litisconsórcio necessário é sempre válida para todos.",
+"c": false,
+"x": "Será nula se a decisão devesse ser uniforme em relação a todos; e ineficaz para os que não foram citados, nos outros casos (art. 115).",
+"e": "CPC, art. 115."
+},
+{
+"p": "Admite-se a denunciação da lide promovida por qualquer das partes ao alienante imediato, a fim de exercer os direitos que da evicção lhe resultam.",
+"c": true,
+"x": "É o art. 125, I, do CPC.",
+"e": "CPC, art. 125."
+},
+{
+"p": "O indeferimento da denunciação da lide não impede o exercício do direito regressivo por ação autônoma.",
+"c": true,
+"x": "É o art. 125, §1º, do CPC.",
+"e": "CPC, art. 125, §1º."
+},
+{
+"p": "A assistência só é admitida até a sentença de primeiro grau.",
+"c": false,
+"x": "A assistência é admitida em qualquer procedimento e em todos os graus de jurisdição, recebendo o assistente o processo no estado em que se encontre (art. 119, parágrafo único).",
+"e": "CPC, art. 119."
+},
+{
+"p": "A Advocacia Pública defende e promove os interesses públicos da União, dos Estados, do DF e dos Municípios, por meio da representação judicial das pessoas jurídicas de direito público.",
+"c": true,
+"x": "É o art. 182 do CPC.",
+"e": "CPC, art. 182."
+},
+{
+"p": "Nas causas em que a Fazenda Pública for vencida, os honorários são fixados entre 10% e 20% sobre o valor da condenação ou do proveito econômico até 200 salários mínimos.",
+"c": true,
+"x": "É o art. 85, §3º, I, do CPC; nas faixas seguintes, os percentuais diminuem.",
+"e": "CPC, art. 85, §3º."
+},
+{
+"p": "O Ministério Público, quando atua como fiscal da ordem jurídica, não pode produzir provas nem recorrer.",
+"c": false,
+"x": "Como fiscal, o MP terá vista dos autos depois das partes, pode produzir provas, requerer medidas e recorrer (art. 179).",
+"e": "CPC, art. 179."
+},
+{
+"p": "O incidente de desconsideração da personalidade jurídica",
+"alts": [
+"só pode ser instaurado na fase de conhecimento",
+"é cabível em todas as fases do processo de conhecimento, no cumprimento de sentença e na execução de título extrajudicial",
+"depende sempre de ação autônoma",
+"não suspende o processo",
+"é decidido por sentença"
+],
+"r": 1,
+"x": "É o art. 134 do CPC. Se pedido na inicial, dispensa o incidente (§2º). Instaurado, suspende o processo (§3º) e é decidido por interlocutória (art. 136).",
+"n": [
+"Cabe em todas as fases.",
+"Correta.",
+"É incidente.",
+"Suspende, salvo se pedido na inicial.",
+"É decisão interlocutória."
+],
+"e": "CPC, art. 134."
 }
 ]
 },
@@ -202,6 +350,74 @@ export default {
 "Não é o prazo."
 ],
 "e": "CPC, art. 218, §3º."
+},
+{
+"p": "Os atos processuais são públicos, mas tramitam em segredo de justiça os processos em que o exija o interesse público ou social e os que versem sobre casamento, filiação e guarda de crianças.",
+"c": true,
+"x": "É o art. 189 do CPC.",
+"e": "CPC, art. 189."
+},
+{
+"p": "Durante a suspensão de prazos de 20 de dezembro a 20 de janeiro, não se realizarão audiências nem sessões de julgamento.",
+"c": true,
+"x": "É o art. 220, §2º, do CPC.",
+"e": "CPC, art. 220."
+},
+{
+"p": "O prazo de 15 dias para contestar conta-se em dias corridos.",
+"c": false,
+"x": "Os prazos processuais em dias contam-se somente nos dias úteis (art. 219).",
+"e": "CPC, art. 219."
+},
+{
+"p": "Considera-se dia do começo do prazo a data de juntada aos autos do aviso de recebimento, quando a citação ou a intimação for pelo correio.",
+"c": true,
+"x": "É o art. 231, I, do CPC.",
+"e": "CPC, art. 231."
+},
+{
+"p": "Será considerado tempestivo o ato praticado antes do termo inicial do prazo.",
+"c": true,
+"x": "É o art. 218, §4º, do CPC.",
+"e": "CPC, art. 218, §4º."
+},
+{
+"p": "A citação por edital dispensa a nomeação de curador especial ao réu revel.",
+"c": false,
+"x": "O juiz nomeia curador especial ao réu revel citado por edital ou com hora certa, enquanto não constituído advogado (art. 72, II).",
+"e": "CPC, art. 72."
+},
+{
+"p": "A citação com hora certa é feita quando, por duas vezes, o oficial de justiça houver procurado o citando em seu domicílio sem o encontrar, havendo suspeita de ocultação.",
+"c": true,
+"x": "É o art. 252 do CPC.",
+"e": "CPC, art. 252."
+},
+{
+"p": "O juiz proferirá os despachos no prazo de 5 dias, as decisões interlocutórias em 10 dias e as sentenças em 30 dias.",
+"c": true,
+"x": "É o art. 226 do CPC (prazos impróprios).",
+"e": "CPC, art. 226."
+},
+{
+"p": "A nulidade de um ato processual",
+"alts": [
+"contamina todos os atos do processo",
+"prejudica apenas os atos subsequentes que dele dependam",
+"só é reconhecida se alegada pela parte que lhe deu causa",
+"nunca pode ser suprida",
+"impede a repetição do ato"
+],
+"r": 1,
+"x": "Anulado o ato, consideram-se de nenhum efeito todos os subsequentes que dele dependam (art. 281).",
+"n": [
+"Não todos, só os dependentes.",
+"Correta.",
+"Quem deu causa não pode alegar (art. 276).",
+"Pode ser suprida ou repetida.",
+"O ato pode ser repetido."
+],
+"e": "CPC, art. 281."
 }
 ]
 },
@@ -268,6 +484,74 @@ export default {
 "Não há sentença de mérito nem coisa julgada."
 ],
 "e": "CPC, art. 304, §5º."
+},
+{
+"p": "A tutela provisória pode fundamentar-se em urgência ou evidência.",
+"c": true,
+"x": "É o art. 294 do CPC.",
+"e": "CPC, art. 294."
+},
+{
+"p": "A tutela provisória conserva sua eficácia na pendência do processo, mas pode, a qualquer tempo, ser revogada ou modificada.",
+"c": true,
+"x": "É o art. 296 do CPC.",
+"e": "CPC, art. 296."
+},
+{
+"p": "A tutela de urgência só pode ser concedida após audiência de justificação prévia.",
+"c": false,
+"x": "Pode ser concedida liminarmente ou após justificação prévia (art. 300, §2º).",
+"e": "CPC, art. 300, §2º."
+},
+{
+"p": "Para a concessão da tutela de urgência, o juiz pode exigir caução real ou fidejussória idônea, que pode ser dispensada se a parte economicamente hipossuficiente não puder oferecê-la.",
+"c": true,
+"x": "É o art. 300, §1º, do CPC.",
+"e": "CPC, art. 300, §1º."
+},
+{
+"p": "A parte responde pelo prejuízo que a efetivação da tutela de urgência causar à parte adversa se a sentença lhe for desfavorável.",
+"c": true,
+"x": "É o art. 302, I, do CPC (responsabilidade objetiva).",
+"e": "CPC, art. 302."
+},
+{
+"p": "Concedida a tutela cautelar antecedente, o pedido principal deve ser formulado em 15 dias.",
+"c": false,
+"x": "O pedido principal deve ser formulado no prazo de 30 dias (art. 308).",
+"e": "CPC, art. 308."
+},
+{
+"p": "A tutela de evidência é cabível quando ficar caracterizado o abuso do direito de defesa ou o manifesto propósito protelatório da parte.",
+"c": true,
+"x": "É o art. 311, I, do CPC.",
+"e": "CPC, art. 311, I."
+},
+{
+"p": "A decisão que conceder, negar, modificar ou revogar a tutela provisória é impugnável por agravo de instrumento.",
+"c": true,
+"x": "É o art. 1.015, I, do CPC.",
+"e": "CPC, art. 1.015, I."
+},
+{
+"p": "Na tutela antecipada requerida em caráter antecedente, concedida a tutela, o autor deverá aditar a inicial no prazo de",
+"alts": [
+"5 dias",
+"15 dias ou em outro maior que o juiz fixar",
+"30 dias",
+"60 dias",
+"2 anos"
+],
+"r": 1,
+"x": "É o art. 303, §1º, I, do CPC.",
+"n": [
+"Não é o prazo.",
+"Correta.",
+"É o prazo da cautelar antecedente (art. 308).",
+"Não é o prazo.",
+"É o prazo da ação de revisão da estabilização."
+],
+"e": "CPC, art. 303."
 }
 ]
 },
@@ -336,6 +620,80 @@ export default {
 "O agravo interno é contra decisão de relator."
 ],
 "e": "CPC, art. 356, §5º."
+},
+{
+"p": "A petição inicial será indeferida quando for inepta, a parte for manifestamente ilegítima ou o autor carecer de interesse processual.",
+"c": true,
+"x": "É o art. 330 do CPC.",
+"e": "CPC, art. 330."
+},
+{
+"p": "Considera-se inepta a petição inicial quando lhe faltar pedido ou causa de pedir.",
+"c": true,
+"x": "É o art. 330, §1º, I, do CPC.",
+"e": "CPC, art. 330, §1º."
+},
+{
+"p": "A audiência de conciliação não será realizada apenas se o réu manifestar desinteresse.",
+"c": false,
+"x": "Não será realizada se ambas as partes manifestarem, expressamente, desinteresse, ou quando não se admitir autocomposição (art. 334, §4º).",
+"e": "CPC, art. 334, §4º."
+},
+{
+"p": "Incumbe ao réu alegar, antes de discutir o mérito, a incompetência absoluta e relativa, a inexistência ou nulidade da citação e a convenção de arbitragem, entre outras.",
+"c": true,
+"x": "São as preliminares do art. 337 do CPC.",
+"e": "CPC, art. 337."
+},
+{
+"p": "O juiz pode conhecer de ofício da convenção de arbitragem e da incompetência relativa.",
+"c": false,
+"x": "Excetuadas a convenção de arbitragem e a incompetência relativa, o juiz conhece de ofício das matérias do art. 337 (§5º).",
+"e": "CPC, art. 337, §5º."
+},
+{
+"p": "O ônus da prova incumbe ao autor quanto ao fato constitutivo de seu direito, e ao réu quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor.",
+"c": true,
+"x": "É o art. 373 do CPC.",
+"e": "CPC, art. 373."
+},
+{
+"p": "Não dependem de prova os fatos notórios, os afirmados por uma parte e confessados pela parte contrária e os admitidos no processo como incontroversos.",
+"c": true,
+"x": "É o art. 374 do CPC.",
+"e": "CPC, art. 374."
+},
+{
+"p": "O juiz resolverá o mérito quando reconhecer a ocorrência de decadência ou prescrição.",
+"c": true,
+"x": "É o art. 487, II, do CPC.",
+"e": "CPC, art. 487."
+},
+{
+"p": "A coisa julgada material abrange os motivos e a verdade dos fatos estabelecida como fundamento da sentença.",
+"c": false,
+"x": "Não fazem coisa julgada os motivos nem a verdade dos fatos (art. 504).",
+"e": "CPC, art. 504."
+},
+{
+"p": "Proferida sentença sem resolução de mérito por indeferimento da inicial, o autor pode apelar, facultado ao juiz retratar-se em",
+"alts": [
+"48 horas",
+"5 dias",
+"10 dias",
+"15 dias",
+"30 dias"
+],
+"r": 1,
+"x": "É o art. 331 do CPC.",
+"n": [
+"Não é o prazo.",
+"Correta.",
+"Não é o prazo.",
+"É o prazo da apelação.",
+"Não é o prazo."
+],
+"e": "CPC, art. 331."
 }
 ]
 },
@@ -407,6 +765,80 @@ export default {
 "É, na prática, o prazo da Fazenda (15 em dobro)."
 ],
 "e": "CPC, art. 1.003, §5º."
+},
+{
+"p": "São cabíveis os seguintes recursos: apelação, agravo de instrumento, agravo interno, embargos de declaração, recurso ordinário, recurso especial, recurso extraordinário, agravo em RE ou REsp e embargos de divergência.",
+"c": true,
+"x": "É o rol taxativo do art. 994 do CPC.",
+"e": "CPC, art. 994."
+},
+{
+"p": "O recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público, como parte ou como fiscal da ordem jurídica.",
+"c": true,
+"x": "É o art. 996 do CPC.",
+"e": "CPC, art. 996."
+},
+{
+"p": "O recurso adesivo é admissível em qualquer recurso, inclusive no agravo de instrumento.",
+"c": false,
+"x": "O recurso adesivo é admissível apenas na apelação, no recurso extraordinário e no recurso especial (art. 997, §2º, II).",
+"e": "CPC, art. 997, §2º."
+},
+{
+"p": "A apelação devolverá ao tribunal o conhecimento da matéria impugnada.",
+"c": true,
+"x": "É o efeito devolutivo (art. 1.013).",
+"e": "CPC, art. 1.013."
+},
+{
+"p": "O preparo inclui o porte de remessa e de retorno, e a Fazenda Pública não está dispensada de recolhê-lo.",
+"c": false,
+"x": "São dispensados de preparo, inclusive porte de remessa e retorno, os recursos do MP, da União, Estados, DF, Municípios e respectivas autarquias (art. 1.007, §1º).",
+"e": "CPC, art. 1.007, §1º."
+},
+{
+"p": "Cabe agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação ou de cumprimento de sentença e no processo de execução.",
+"c": true,
+"x": "É o art. 1.015, parágrafo único, do CPC.",
+"e": "CPC, art. 1.015."
+},
+{
+"p": "O recurso especial é cabível contra decisão de tribunal que contrariar tratado ou lei federal, ou negar-lhes vigência.",
+"c": true,
+"x": "É o art. 105, III, a, da CF.",
+"e": "CF, art. 105, III."
+},
+{
+"p": "Na remessa necessária, o tribunal julgará a remessa ainda que não tenha sido interposta apelação; não o fazendo o juiz, o presidente do tribunal avocará os autos.",
+"c": true,
+"x": "É o art. 496, §1º, do CPC.",
+"e": "CPC, art. 496, §1º."
+},
+{
+"p": "A repercussão geral é requisito de admissibilidade do recurso especial.",
+"c": false,
+"x": "A repercussão geral é requisito do recurso extraordinário (CF, art. 102, §3º). Para o REsp, a EC 125/2022 criou a relevância da questão federal.",
+"e": "CF, art. 102, §3º."
+},
+{
+"p": "Está sujeita à remessa necessária a sentença que",
+"alts": [
+"julgar improcedente pedido do Município em qualquer valor",
+"condenar o Município em valor certo e líquido de 150 salários mínimos, sem fundamento em súmula ou precedente vinculante",
+"condenar o Município em 50 salários mínimos",
+"for proferida nos Juizados Especiais da Fazenda",
+"estiver fundada em súmula vinculante"
+],
+"r": 1,
+"x": "Para Município que não é capital, o limite é 100 salários mínimos (art. 496, §3º, III). Acima disso há remessa, salvo as exceções do §4º.",
+"n": [
+"A improcedência de pedido do Município não é condenação contra ele.",
+"Correta.",
+"Abaixo de 100 s.m. não há remessa.",
+"Não há remessa nos Juizados (Lei 12.153, art. 11).",
+"É exceção do §4º."
+],
+"e": "CPC, art. 496."
 }
 ]
 },
@@ -473,6 +905,74 @@ export default {
 "Não é a data."
 ],
 "e": "CF, art. 100, §5º."
+},
+{
+"p": "A execução fundada em título extrajudicial contra a Fazenda Pública admite a oposição de embargos em 30 dias.",
+"c": true,
+"x": "É o art. 910 do CPC.",
+"e": "CPC, art. 910."
+},
+{
+"p": "Não opostos embargos ou transitada em julgado a decisão que os rejeitar, expedir-se-á precatório ou requisição de pequeno valor em favor do exequente.",
+"c": true,
+"x": "É o art. 910, §1º, do CPC.",
+"e": "CPC, art. 910, §1º."
+},
+{
+"p": "No cumprimento de sentença contra a Fazenda, a impugnação pode discutir qualquer matéria, inclusive o mérito já decidido.",
+"c": false,
+"x": "A impugnação fica limitada às matérias do art. 535 (falta de citação na revelia, ilegitimidade, inexequibilidade, excesso, incompetência e causas supervenientes).",
+"e": "CPC, art. 535."
+},
+{
+"p": "Quando se alegar que o exequente pleiteia quantia superior à resultante do título, cabe à executada declarar de imediato o valor que entende correto, sob pena de não conhecimento da arguição.",
+"c": true,
+"x": "É o art. 535, §2º, do CPC.",
+"e": "CPC, art. 535, §2º."
+},
+{
+"p": "Os débitos de natureza alimentícia compreendem salários, vencimentos, proventos, pensões, benefícios previdenciários e indenizações por morte ou invalidez.",
+"c": true,
+"x": "É o art. 100, §1º, da CF.",
+"e": "CF, art. 100, §1º."
+},
+{
+"p": "É permitido ao ente público pagar precatórios fora da ordem cronológica, desde que haja interesse público.",
+"c": false,
+"x": "A quebra da ordem cronológica autoriza o sequestro da quantia necessária, a requerimento do credor preterido (CF, art. 100, §6º).",
+"e": "CF, art. 100, §6º."
+},
+{
+"p": "O Presidente do tribunal que, por ato comissivo ou omissivo, retardar ou tentar frustrar a liquidação regular de precatórios incorrerá em crime de responsabilidade.",
+"c": true,
+"x": "É o art. 100, §7º, da CF.",
+"e": "CF, art. 100, §7º."
+},
+{
+"p": "Os Municípios podem fixar, por lei própria, valores distintos para as obrigações de pequeno valor, segundo as diferentes capacidades econômicas, mas o mínimo deve ser igual ao valor do maior benefício do RGPS.",
+"c": true,
+"x": "É o art. 100, §4º, da CF.",
+"e": "CF, art. 100, §4º."
+},
+{
+"p": "No cumprimento de sentença contra o Município que impõe obrigação de pagar quantia, a Fazenda é",
+"alts": [
+"citada para pagar em 3 dias",
+"intimada para impugnar a execução em 30 dias, nos próprios autos",
+"citada para embargar em 15 dias",
+"intimada para pagar em 15 dias, sob pena de multa de 10%",
+"notificada para depositar o valor em 24 horas"
+],
+"r": 1,
+"x": "É o art. 535 do CPC. Não há multa de 10% (art. 534, §2º).",
+"n": [
+"Não é a regra.",
+"Correta.",
+"Embargos são para título extrajudicial (art. 910), em 30 dias.",
+"A multa não se aplica à Fazenda.",
+"Não existe."
+],
+"e": "CPC, art. 535."
 }
 ]
 },
@@ -540,6 +1040,74 @@ export default {
 "É o prazo dos embargos."
 ],
 "e": "Lei 6.830, art. 8º."
+},
+{
+"p": "A execução judicial para cobrança da Dívida Ativa da União, dos Estados, do DF, dos Municípios e respectivas autarquias será regida pela Lei 6.830/1980 e, subsidiariamente, pelo CPC.",
+"c": true,
+"x": "É o art. 1º da LEF.",
+"e": "Lei 6.830, art. 1º."
+},
+{
+"p": "A Dívida Ativa regularmente inscrita goza da presunção de certeza e liquidez, que é relativa e pode ser ilidida por prova inequívoca a cargo do executado.",
+"c": true,
+"x": "É o art. 3º da LEF.",
+"e": "Lei 6.830, art. 3º."
+},
+{
+"p": "A inscrição em dívida ativa não suspende a prescrição.",
+"c": false,
+"x": "A inscrição suspende a prescrição por 180 dias ou até a distribuição da execução (art. 2º, §3º), regra aplicável aos créditos não tributários.",
+"e": "Lei 6.830, art. 2º, §3º."
+},
+{
+"p": "Em garantia da execução, o executado pode efetuar depósito em dinheiro, oferecer fiança bancária ou seguro garantia, nomear bens à penhora ou indicar bens de terceiros.",
+"c": true,
+"x": "É o art. 9º da LEF.",
+"e": "Lei 6.830, art. 9º."
+},
+{
+"p": "A Fazenda Pública não está sujeita ao pagamento de custas e emolumentos na execução fiscal.",
+"c": true,
+"x": "É o art. 39 da LEF; se vencida, ressarce o valor das despesas da parte contrária.",
+"e": "Lei 6.830, art. 39."
+},
+{
+"p": "Na execução fiscal, o executado pode, nos embargos, apresentar reconvenção e compensação livremente.",
+"c": false,
+"x": "Não são admitidas reconvenção nem compensação nos embargos (art. 16, §3º), salvo a compensação já reconhecida administrativamente (STJ).",
+"e": "Lei 6.830, art. 16, §3º."
+},
+{
+"p": "A ação de execução fiscal será proposta no foro do domicílio do réu; se não o tiver, no de sua residência ou no do lugar onde for encontrado.",
+"c": true,
+"x": "É o art. 46, §5º, do CPC, aplicável às execuções fiscais.",
+"e": "CPC, art. 46, §5º."
+},
+{
+"p": "O STJ entende que a citação por edital na execução fiscal só é cabível quando frustradas as demais modalidades de citação.",
+"c": true,
+"x": "É a Súmula 414 do STJ.",
+"e": "Súmula 414 do STJ."
+},
+{
+"p": "Na execução fiscal, a ordem preferencial de penhora estabelecida na LEF começa por",
+"alts": [
+"imóveis",
+"veículos",
+"dinheiro",
+"títulos da dívida pública",
+"direitos e ações"
+],
+"r": 2,
+"x": "Art. 11, I, da Lei 6.830.",
+"n": [
+"Vêm depois.",
+"Vêm depois.",
+"Correta.",
+"É o segundo item.",
+"É o último."
+],
+"e": "Lei 6.830, art. 11."
 }
 ]
 },
@@ -613,6 +1181,80 @@ export default {
 "Cabe MS contra omissão."
 ],
 "e": "Lei 12.016, art. 1º, §2º."
+},
+{
+"p": "Equiparam-se às autoridades, para os efeitos do mandado de segurança, os dirigentes de pessoas jurídicas ou as pessoas naturais no exercício de atribuições do poder público, somente no que disser respeito a essas atribuições.",
+"c": true,
+"x": "É o art. 1º, §1º, da Lei 12.016.",
+"e": "Lei 12.016, art. 1º, §1º."
+},
+{
+"p": "Da sentença que denega o mandado de segurança cabe agravo de instrumento.",
+"c": false,
+"x": "Da sentença, denegando ou concedendo, cabe apelação (art. 14 da Lei 12.016).",
+"e": "Lei 12.016, art. 14."
+},
+{
+"p": "A sentença concessiva do mandado de segurança pode ser executada provisoriamente, salvo nos casos em que for vedada a concessão da medida liminar.",
+"c": true,
+"x": "É o art. 14, §3º, da Lei 12.016.",
+"e": "Lei 12.016, art. 14, §3º."
+},
+{
+"p": "A ação popular pode ser proposta por qualquer cidadão, sendo a prova da cidadania feita com o título eleitoral ou documento que a ele corresponda.",
+"c": true,
+"x": "É o art. 1º, §3º, da Lei 4.717/1965.",
+"e": "Lei 4.717, art. 1º, §3º."
+},
+{
+"p": "Na ação popular, a sentença que julgar a ação improcedente por insuficiência de prova não faz coisa julgada, podendo qualquer cidadão intentar outra ação com idêntico fundamento e nova prova.",
+"c": true,
+"x": "É o art. 18 da Lei 4.717 (coisa julgada secundum eventum probationis).",
+"e": "Lei 4.717, art. 18."
+},
+{
+"p": "Na ação civil pública, a associação autora que perder a ação é sempre condenada em honorários e custas.",
+"c": false,
+"x": "Não haverá adiantamento de custas nem condenação da associação autora, salvo comprovada má-fé (art. 18 da Lei 7.347).",
+"e": "Lei 7.347, art. 18."
+},
+{
+"p": "O Ministério Público, se não intervier no processo como parte, atuará obrigatoriamente como fiscal da lei na ação civil pública.",
+"c": true,
+"x": "É o art. 5º, §1º, da Lei 7.347.",
+"e": "Lei 7.347, art. 5º, §1º."
+},
+{
+"p": "Em caso de desistência infundada ou abandono da ação civil pública por associação legitimada, o MP ou outro legitimado assumirá a titularidade ativa.",
+"c": true,
+"x": "É o art. 5º, §3º, da Lei 7.347.",
+"e": "Lei 7.347, art. 5º, §3º."
+},
+{
+"p": "Os direitos individuais homogêneos são indivisíveis e de titularidade indeterminada.",
+"c": false,
+"x": "Essa definição é dos direitos difusos. Os individuais homogêneos são divisíveis e decorrentes de origem comum (CDC, art. 81, III).",
+"e": "CDC, art. 81."
+},
+{
+"p": "Segundo a Lei 12.016/2009, o mandado de segurança coletivo pode ser impetrado por",
+"alts": [
+"qualquer cidadão",
+"partido político com representação no Congresso Nacional",
+"Município",
+"Defensoria Pública, exclusivamente",
+"associação constituída há menos de 6 meses"
+],
+"r": 1,
+"x": "Art. 21 da Lei 12.016: partido com representação no Congresso, sindicato, entidade de classe ou associação em funcionamento há pelo menos 1 ano.",
+"n": [
+"Cidadão impetra MS individual ou ação popular.",
+"Correta.",
+"Não está no rol do art. 21.",
+"A lei não menciona a Defensoria (doutrina e jurisprudência discutem).",
+"Exige 1 ano."
+],
+"e": "Lei 12.016, art. 21."
 }
 ]
 },
@@ -678,6 +1320,68 @@ export default {
 "Não estão no rol."
 ],
 "e": "Lei 12.153, art. 5º."
+},
+{
+"p": "Nos Juizados Especiais da Fazenda Pública, o juiz pode, de ofício ou a requerimento das partes, deferir providências cautelares e antecipatórias para evitar dano de difícil ou incerta reparação.",
+"c": true,
+"x": "É o art. 3º da Lei 12.153.",
+"e": "Lei 12.153, art. 3º."
+},
+{
+"p": "Nos Juizados da Fazenda, a citação para a audiência de conciliação deve ser efetuada com antecedência mínima de 30 dias.",
+"c": true,
+"x": "É o art. 7º da Lei 12.153, que também afasta o prazo diferenciado para a Fazenda.",
+"e": "Lei 12.153, art. 7º."
+},
+{
+"p": "Nos Juizados Especiais da Fazenda Pública, cabe recurso contra qualquer decisão interlocutória.",
+"c": false,
+"x": "Só cabe recurso contra a sentença e contra as decisões sobre providências cautelares e antecipatórias (art. 4º).",
+"e": "Lei 12.153, art. 4º."
+},
+{
+"p": "A entidade ré deverá fornecer ao Juizado a documentação de que disponha para o esclarecimento da causa, apresentando-a até a instalação da audiência de conciliação.",
+"c": true,
+"x": "É o art. 9º da Lei 12.153.",
+"e": "Lei 12.153, art. 9º."
+},
+{
+"p": "Os processos eletrônicos devem ser protegidos por meio de sistemas de segurança de acesso e armazenados em meio que garanta a preservação e integridade dos dados.",
+"c": true,
+"x": "É o art. 12 da Lei 11.419/2006.",
+"e": "Lei 11.419, art. 12."
+},
+{
+"p": "Nos Juizados Especiais Cíveis da Lei 9.099, podem ser partes as pessoas jurídicas de direito público.",
+"c": false,
+"x": "O art. 8º veda que sejam partes, entre outros, as pessoas jurídicas de direito público e as empresas públicas da União. Para elas existem os Juizados da Fazenda e os Federais.",
+"e": "Lei 9.099, art. 8º."
+},
+{
+"p": "No Juizado Especial Cível, nas causas de valor até 20 salários mínimos, as partes comparecerão pessoalmente, podendo ser assistidas por advogado.",
+"c": true,
+"x": "É o art. 9º da Lei 9.099.",
+"e": "Lei 9.099, art. 9º."
+},
+{
+"p": "Nos Juizados Especiais da Fazenda Pública, a obrigação de pequeno valor deve ser paga no prazo de",
+"alts": [
+"10 dias",
+"30 dias",
+"60 dias, contado da entrega da requisição",
+"90 dias",
+"até o fim do exercício seguinte"
+],
+"r": 2,
+"x": "Art. 13, I, da Lei 12.153: 60 dias, sob pena de sequestro.",
+"n": [
+"Não é o prazo.",
+"Não é o prazo.",
+"Correta.",
+"Não é o prazo.",
+"É a regra do precatório."
+],
+"e": "Lei 12.153, art. 13."
 }
 ]
 }

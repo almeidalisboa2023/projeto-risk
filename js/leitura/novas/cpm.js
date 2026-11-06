@@ -74,6 +74,68 @@ export default {
 "Não há esse critério."
 ],
 "e": "Súmula 6 do STJ."
+},
+{
+"p": "Considera-se praticado o crime militar no momento da ação ou omissão, ainda que outro seja o do resultado.",
+"c": true,
+"x": "Art. 5º do CPM (teoria da atividade).",
+"e": "CPM, art. 5º."
+},
+{
+"p": "A lei posterior que, de qualquer outro modo, favorece o agente aplica-se retroativamente, ainda quando já tenha sobrevindo sentença condenatória irrecorrível.",
+"c": true,
+"x": "É o art. 2º, §1º, do CPM.",
+"e": "CPM, art. 2º, §1º."
+},
+{
+"p": "O CPM não se aplica a crimes militares praticados fora do território nacional.",
+"c": false,
+"x": "Aplica-se no território nacional ou fora dele, ainda que o agente esteja sendo processado ou julgado pela justiça estrangeira (art. 7º).",
+"e": "CPM, art. 7º."
+},
+{
+"p": "Para efeito da aplicação do CPM, considera-se militar qualquer pessoa que, em tempo de paz ou de guerra, seja incorporada às Forças Armadas para nelas servir em posto, graduação ou sujeição à disciplina militar.",
+"c": true,
+"x": "É o art. 22 do CPM; os militares dos Estados equiparam-se para a Justiça Militar estadual.",
+"e": "CPM, art. 22."
+},
+{
+"p": "A deserção, o abandono de posto e o dormir em serviço são exemplos de crimes propriamente militares.",
+"c": true,
+"x": "Só podem ser praticados por militar e não têm correspondente na lei penal comum.",
+"e": "Classificação dos crimes militares."
+},
+{
+"p": "O furto praticado por militar contra o patrimônio sob administração militar é crime propriamente militar.",
+"c": false,
+"x": "É impropriamente militar: tem correspondente no CP, mas se torna militar pelas circunstâncias do art. 9º, II, e.",
+"e": "CPM, art. 9º, II, e."
+},
+{
+"p": "Segundo a Constituição, nos crimes propriamente militares definidos em lei, a prisão pode ocorrer sem flagrante e sem ordem judicial.",
+"c": true,
+"x": "É o art. 5º, LXI, da CF.",
+"e": "CF, art. 5º, LXI."
+},
+{
+"p": "Segundo o CPM, nos crimes omissivos, considera-se lugar do crime",
+"alts": [
+"onde se produziu o resultado",
+"o lugar em que deveria realizar-se a ação omitida",
+"o domicílio do agente",
+"a sede da unidade",
+"qualquer lugar"
+],
+"r": 1,
+"x": "Art. 6º do CPM.",
+"n": [
+"Não é a regra dos omissivos.",
+"Correta.",
+"Não é.",
+"Não é.",
+"Não é."
+],
+"e": "CPM, art. 6º."
 }
 ]
 },
@@ -135,6 +197,68 @@ export default {
 "Não há essa restrição."
 ],
 "e": "CPM, art. 43."
+},
+{
+"p": "Diz-se o crime doloso quando o agente quis o resultado ou assumiu o risco de produzi-lo.",
+"c": true,
+"x": "É o art. 33, I, do CPM.",
+"e": "CPM, art. 33."
+},
+{
+"p": "O agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza só responde pelos atos já praticados.",
+"c": true,
+"x": "É o art. 31 do CPM.",
+"e": "CPM, art. 31."
+},
+{
+"p": "O CPM não admite o crime impossível.",
+"c": false,
+"x": "O art. 32 prevê que, quando por ineficácia absoluta do meio ou impropriedade absoluta do objeto é impossível consumar o crime, nenhuma pena é aplicável.",
+"e": "CPM, art. 32."
+},
+{
+"p": "Entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem.",
+"c": true,
+"x": "É o art. 44 do CPM.",
+"e": "CPM, art. 44."
+},
+{
+"p": "Não é punível o excesso quando resulta de escusável surpresa ou perturbação de ânimo, em face da situação.",
+"c": true,
+"x": "É o art. 45, parágrafo único, do CPM (excesso escusável).",
+"e": "CPM, art. 45."
+},
+{
+"p": "No CPM, o erro de direito escusável sempre isenta o agente de pena, inclusive nos crimes contra o dever militar.",
+"c": false,
+"x": "O erro de direito permite atenuar ou substituir a pena, e não se aplica aos crimes que atentam contra o dever militar (art. 35).",
+"e": "CPM, art. 35."
+},
+{
+"p": "Não é culpado quem comete o crime sob coação irresistível ou que lhe suprima a faculdade de agir segundo a própria vontade.",
+"c": true,
+"x": "É o art. 38, a, do CPM.",
+"e": "CPM, art. 38."
+},
+{
+"p": "Pune-se o excesso no CPM quando o agente, em qualquer das excludentes,",
+"alts": [
+"age sempre com dolo",
+"excede culposamente os limites da necessidade, se o fato é punível a título de culpa",
+"excede por surpresa escusável",
+"atua por ordem de superior",
+"age em legítima defesa putativa"
+],
+"r": 1,
+"x": "É o excesso culposo do art. 45, caput. O excesso doloso é punido pelo art. 46.",
+"n": [
+"Também há excesso culposo.",
+"Correta.",
+"É excesso escusável, não punível.",
+"Não é o caso.",
+"Não é o caso."
+],
+"e": "CPM, art. 45."
 }
 ]
 },
@@ -188,6 +312,50 @@ export default {
 "Não é o conceito."
 ],
 "e": "CPM, art. 53, §4º."
+},
+{
+"p": "A punibilidade de qualquer dos concorrentes é independente da dos outros, determinando-se segundo a sua própria culpabilidade.",
+"c": true,
+"x": "É o art. 53, §1º, do CPM.",
+"e": "CPM, art. 53."
+},
+{
+"p": "A pena é agravada em relação ao agente que instiga ou determina a cometer o crime alguém sujeito à sua autoridade.",
+"c": true,
+"x": "É o art. 53, §2º, III, do CPM.",
+"e": "CPM, art. 53, §2º."
+},
+{
+"p": "No CPM, a participação de somenos importância é causa de aumento de pena.",
+"c": false,
+"x": "É causa de atenuação (art. 53, §3º).",
+"e": "CPM, art. 53, §3º."
+},
+{
+"p": "O ajuste, a determinação ou instigação e o auxílio, salvo disposição em contrário, não são puníveis se o crime não chega, pelo menos, a ser tentado.",
+"c": true,
+"x": "É o art. 54 do CPM.",
+"e": "CPM, art. 54."
+},
+{
+"p": "Na prática de crime de autoria coletiva necessária por um sargento, dois cabos e um tenente, é considerado cabeça",
+"alts": [
+"o militar mais antigo entre os praças",
+"o tenente",
+"todos, igualmente",
+"ninguém, por falta de previsão",
+"apenas quem executou o ato violento"
+],
+"r": 1,
+"x": "Art. 53, §5º: havendo oficial, ele é considerado cabeça.",
+"n": [
+"Havendo oficial, ele é o cabeça.",
+"Correta.",
+"Não é a regra.",
+"Há previsão expressa.",
+"Não é o critério."
+],
+"e": "CPM, art. 53, §5º."
 }
 ]
 },
@@ -251,6 +419,56 @@ export default {
 "É outro tipo (art. 155)."
 ],
 "e": "CPM, art. 152."
+},
+{
+"p": "Praticar violência contra superior é crime do CPM, com pena agravada se o superior for comandante da unidade a que pertence o agente.",
+"c": true,
+"x": "É o art. 157, caput e §1º, do CPM.",
+"e": "CPM, art. 157."
+},
+{
+"p": "A deserção consuma-se após 3 dias de ausência injustificada.",
+"c": false,
+"x": "São mais de 8 dias (art. 187).",
+"e": "CPM, art. 187."
+},
+{
+"p": "Comete crime o militar que deixa de se apresentar à autoridade competente, dentro do prazo de 8 dias, contados daquele em que termina ou é cassada a licença ou agregação.",
+"c": true,
+"x": "É caso assimilado à deserção (art. 188, II).",
+"e": "CPM, art. 188."
+},
+{
+"p": "Dormir o militar quando em serviço de sentinela é crime do CPM.",
+"c": true,
+"x": "É o art. 203 do CPM.",
+"e": "CPM, art. 203."
+},
+{
+"p": "Desrespeitar superior diante de outro militar é conduta meramente disciplinar, sem previsão penal.",
+"c": false,
+"x": "É o crime de desrespeito a superior (art. 160).",
+"e": "CPM, art. 160."
+},
+{
+"p": "Reunirem-se militares, agindo contra a ordem recebida de superior ou negando-se a cumpri-la, configura",
+"alts": [
+"conspiração",
+"motim",
+"deserção",
+"insubordinação individual",
+"abandono de posto"
+],
+"r": 1,
+"x": "Art. 149 do CPM. Se armados, revolta.",
+"n": [
+"É concerto prévio.",
+"Correta.",
+"Não é.",
+"Exige pluralidade.",
+"Não é."
+],
+"e": "CPM, art. 149."
 }
 ]
 },
@@ -307,6 +525,62 @@ export default {
 "É apropriar-se ou desviar bem."
 ],
 "e": "CPM, art. 319."
+},
+{
+"p": "Constitui peculato-furto subtrair o militar dinheiro, valor ou bem que não tem em sua posse, valendo-se da facilidade que lhe proporciona a qualidade de militar.",
+"c": true,
+"x": "É o art. 303, §2º, do CPM.",
+"e": "CPM, art. 303, §2º."
+},
+{
+"p": "Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida configura concussão no CPM.",
+"c": true,
+"x": "É o art. 305 do CPM.",
+"e": "CPM, art. 305."
+},
+{
+"p": "No CPM, o homicídio culposo é punido com reclusão de 6 a 20 anos.",
+"c": false,
+"x": "Essa é a pena do homicídio simples doloso (art. 205). O culposo (art. 206) é punido com detenção de 1 a 4 anos.",
+"e": "CPM, arts. 205 e 206."
+},
+{
+"p": "Deixar o militar, por indulgência, de responsabilizar subordinado que comete infração no exercício do cargo configura condescendência criminosa.",
+"c": true,
+"x": "É o art. 322 do CPM.",
+"e": "CPM, art. 322."
+},
+{
+"p": "No crime de lesão levíssima, o juiz pode considerar a infração como disciplinar.",
+"c": true,
+"x": "É o art. 209, §6º, do CPM.",
+"e": "CPM, art. 209."
+},
+{
+"p": "O roubo no CPM não admite causa de aumento pelo emprego de arma.",
+"c": false,
+"x": "O art. 242, §2º, do CPM prevê aumento quando a violência ou ameaça é exercida com emprego de arma, entre outras hipóteses.",
+"e": "CPM, art. 242."
+},
+{
+"p": "Apropriar-se o militar de dinheiro público de que tem a posse em razão do cargo configura, no CPM,",
+"alts": [
+"furto qualificado",
+"peculato",
+"concussão",
+"apropriação indébita simples",
+"estelionato"
+],
+"r": 1,
+"x": "Art. 303 do CPM.",
+"n": [
+"Não é o tipo.",
+"Correta.",
+"É exigir.",
+"O tipo específico é o peculato.",
+"Exige fraude."
+],
+"e": "CPM, art. 303."
 }
 ]
 }

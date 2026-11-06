@@ -74,6 +74,62 @@ export default {
 "Trata do acesso à informação ambiental."
 ],
 "e": "Princípio da precaução."
+},
+{
+"p": "Incumbe ao Poder Público exigir, na forma da lei, para instalação de obra ou atividade potencialmente causadora de significativa degradação, estudo prévio de impacto ambiental, a que se dará publicidade.",
+"c": true,
+"x": "É o art. 225, §1º, IV, da CF.",
+"e": "CF, art. 225, §1º, IV."
+},
+{
+"p": "As usinas que operem com reator nuclear deverão ter sua localização definida em lei federal, sem o que não poderão ser instaladas.",
+"c": true,
+"x": "É o art. 225, §6º, da CF.",
+"e": "CF, art. 225, §6º."
+},
+{
+"p": "São disponíveis as terras devolutas necessárias à proteção dos ecossistemas naturais.",
+"c": false,
+"x": "São indisponíveis (art. 225, §5º).",
+"e": "CF, art. 225, §5º."
+},
+{
+"p": "É competência comum da União, dos Estados, do DF e dos Municípios proteger o meio ambiente e combater a poluição em qualquer de suas formas.",
+"c": true,
+"x": "É o art. 23, VI, da CF.",
+"e": "CF, art. 23, VI."
+},
+{
+"p": "O STJ admite a inversão do ônus da prova nas ações de degradação ambiental.",
+"c": true,
+"x": "É a Súmula 618 do STJ.",
+"e": "Súmula 618 do STJ."
+},
+{
+"p": "A alteração e a supressão de espaços territoriais especialmente protegidos podem ser feitas por decreto.",
+"c": false,
+"x": "Só através de lei (art. 225, §1º, III).",
+"e": "CF, art. 225, §1º, III."
+},
+{
+"p": "O princípio pelo qual o poluidor deve arcar com os custos da prevenção e reparação dos danos é o",
+"alts": [
+"da precaução",
+"do poluidor-pagador",
+"da ubiquidade",
+"da participação",
+"do desenvolvimento sustentável"
+],
+"r": 1,
+"x": "Lei 6.938, art. 4º, VII.",
+"n": [
+"Trata da incerteza científica.",
+"Correta.",
+"Trata da consideração ambiental em todas as políticas.",
+"Trata da atuação da sociedade.",
+"Trata do equilíbrio entre economia e meio ambiente."
+],
+"e": "Lei 6.938, art. 4º, VII."
 }
 ]
 },
@@ -143,6 +199,62 @@ export default {
 "Não é a fase descrita."
 ],
 "e": "Res. CONAMA 237, art. 8º."
+},
+{
+"p": "Integra o SISNAMA o CONAMA, órgão consultivo e deliberativo, com a finalidade de assessorar, estudar e propor diretrizes e deliberar sobre normas e padrões ambientais.",
+"c": true,
+"x": "É o art. 6º, II, da Lei 6.938.",
+"e": "Lei 6.938, art. 6º."
+},
+{
+"p": "O EIA/RIMA é dispensável para atividades de significativo impacto quando o empreendedor for pessoa jurídica de direito público.",
+"c": false,
+"x": "A exigência vale para qualquer empreendedor, público ou privado (CF, art. 225, §1º, IV; Res. CONAMA 1/1986).",
+"e": "CF, art. 225, §1º, IV."
+},
+{
+"p": "O RIMA deve ser apresentado de forma objetiva e adequada à sua compreensão, em linguagem acessível.",
+"c": true,
+"x": "É o art. 9º, parágrafo único, da Res. CONAMA 1/1986.",
+"e": "Res. CONAMA 1/1986."
+},
+{
+"p": "Os empreendimentos e atividades são licenciados ou autorizados ambientalmente por um único ente federativo.",
+"c": true,
+"x": "É o art. 13 da LC 140/2011.",
+"e": "LC 140, art. 13."
+},
+{
+"p": "Compete aos Estados licenciar empreendimentos localizados em terras indígenas.",
+"c": false,
+"x": "É competência da União (LC 140, art. 7º, XIV, c).",
+"e": "LC 140, art. 7º."
+},
+{
+"p": "A licença de operação tem prazo de validade de, no mínimo, 4 anos e, no máximo, 10 anos.",
+"c": true,
+"x": "É o art. 18, III, da Res. CONAMA 237/1997.",
+"e": "Res. CONAMA 237, art. 18."
+},
+{
+"p": "Segundo a LC 140/2011, quando o órgão licenciador for omisso e houver iminência de dano, qualquer ente pode",
+"alts": [
+"emitir a licença",
+"adotar medidas para evitar, cessar ou mitigar o dano, comunicando o órgão competente",
+"anular a licença já concedida",
+"cobrar taxa de licenciamento",
+"aplicar multa que prevalece sobre a do licenciador"
+],
+"r": 1,
+"x": "Art. 17, §2º, da LC 140. O auto do licenciador prevalece (§3º).",
+"n": [
+"A licença é do ente competente.",
+"Correta.",
+"Não cabe a outro ente.",
+"Não é previsão.",
+"Prevalece a do licenciador."
+],
+"e": "LC 140, art. 17."
 }
 ]
 },
@@ -213,6 +325,62 @@ export default {
 "Proteção integral."
 ],
 "e": "Lei 9.985, art. 14."
+},
+{
+"p": "Considera-se área de preservação permanente a faixa marginal de qualquer curso d'água natural perene e intermitente, de largura mínima de 30 metros para os cursos com menos de 10 metros de largura.",
+"c": true,
+"x": "É o art. 4º, I, a, da Lei 12.651/2012.",
+"e": "Lei 12.651, art. 4º."
+},
+{
+"p": "As áreas no entorno das nascentes e dos olhos d'água perenes, num raio mínimo de 50 metros, são APP.",
+"c": true,
+"x": "É o art. 4º, IV, da Lei 12.651.",
+"e": "Lei 12.651, art. 4º, IV."
+},
+{
+"p": "A outorga de direito de uso de recursos hídricos transfere ao usuário a propriedade das águas.",
+"c": false,
+"x": "A outorga não implica alienação parcial das águas, que são inalienáveis, mas o simples direito de uso (Lei 9.433, art. 18).",
+"e": "Lei 9.433, art. 18."
+},
+{
+"p": "Os Comitês de Bacia Hidrográfica integram o Sistema Nacional de Gerenciamento de Recursos Hídricos.",
+"c": true,
+"x": "É o art. 33 da Lei 9.433.",
+"e": "Lei 9.433, art. 33."
+},
+{
+"p": "Nas unidades de conservação de proteção integral, só é admitido o uso indireto dos recursos naturais.",
+"c": true,
+"x": "É o art. 7º, §1º, da Lei 9.985/2000.",
+"e": "Lei 9.985, art. 7º."
+},
+{
+"p": "A Reserva Particular do Patrimônio Natural (RPPN) é unidade de conservação de proteção integral.",
+"c": false,
+"x": "Está no grupo de uso sustentável (art. 14, VII), embora seu regime se aproxime da proteção integral.",
+"e": "Lei 9.985, art. 14."
+},
+{
+"p": "A ampliação dos limites de uma unidade de conservação, sem modificação dos limites originais, pode ser feita",
+"alts": [
+"só por lei complementar",
+"por instrumento normativo do mesmo nível hierárquico do que criou a unidade, obedecidos os procedimentos de consulta",
+"só por emenda constitucional",
+"por resolução do CONAMA",
+"por portaria do órgão gestor, sem consulta"
+],
+"r": 1,
+"x": "É o art. 22, §6º, da Lei 9.985. A redução ou desafetação exige lei específica (§7º).",
+"n": [
+"Não é a regra.",
+"Correta.",
+"Não é a regra.",
+"Não é a regra.",
+"Exige consulta."
+],
+"e": "Lei 9.985, art. 22, §6º."
 }
 ]
 },
@@ -290,6 +458,68 @@ export default {
 "Não é o prazo."
 ],
 "e": "Lei 10.257, art. 40, §3º."
+},
+{
+"p": "A propriedade urbana cumpre sua função social quando atende às exigências fundamentais de ordenação da cidade expressas no plano diretor.",
+"c": true,
+"x": "É o art. 182, §2º, da CF.",
+"e": "CF, art. 182, §2º."
+},
+{
+"p": "O direito de preempção confere ao Poder Público municipal preferência para aquisição de imóvel urbano objeto de alienação onerosa entre particulares.",
+"c": true,
+"x": "É o art. 25 do Estatuto da Cidade.",
+"e": "Lei 10.257, art. 25."
+},
+{
+"p": "O direito de preempção vigora por prazo indeterminado após a publicação da lei municipal.",
+"c": false,
+"x": "Lei municipal delimita as áreas e fixa prazo de vigência não superior a 5 anos, renovável a partir de 1 ano após o término do prazo inicial (art. 25, §1º).",
+"e": "Lei 10.257, art. 25, §1º."
+},
+{
+"p": "Lei municipal específica poderá delimitar área para aplicação de operações consorciadas, com a participação dos proprietários, moradores, usuários permanentes e investidores privados.",
+"c": true,
+"x": "São as operações urbanas consorciadas (arts. 32 e 33 do Estatuto da Cidade).",
+"e": "Lei 10.257, art. 32."
+},
+{
+"p": "O estudo de impacto de vizinhança não substitui a elaboração e a aprovação de estudo prévio de impacto ambiental, requeridas nos termos da legislação ambiental.",
+"c": true,
+"x": "É o art. 38 do Estatuto da Cidade.",
+"e": "Lei 10.257, art. 38."
+},
+{
+"p": "Na usucapião especial coletiva, o juiz atribui a cada possuidor fração ideal proporcional ao terreno que efetivamente ocupa, sendo vedado o acordo entre os condôminos.",
+"c": false,
+"x": "Atribui-se igual fração ideal a cada possuidor, independentemente da dimensão ocupada, salvo acordo escrito entre os condôminos que estabeleça frações diferenciadas (art. 10, §3º).",
+"e": "Lei 10.257, art. 10, §3º."
+},
+{
+"p": "Na Reurb-S, é isenta de custas e emolumentos a primeira averbação de construção residencial e o registro da legitimação fundiária.",
+"c": true,
+"x": "É o art. 13, §1º, da Lei 13.465/2017.",
+"e": "Lei 13.465, art. 13, §1º."
+},
+{
+"p": "O instrumento pelo qual o proprietário de imóvel urbano pode exercer em outro local o direito de construir previsto no plano diretor, quando o imóvel for necessário para preservação histórica, é a",
+"alts": [
+"outorga onerosa",
+"transferência do direito de construir",
+"preempção",
+"concessão de direito real de uso",
+"operação urbana consorciada"
+],
+"r": 1,
+"x": "É o art. 35 do Estatuto da Cidade.",
+"n": [
+"É pagar para construir acima do coeficiente básico.",
+"Correta.",
+"É preferência na compra.",
+"É instrumento de regularização e uso de bens.",
+"É intervenção conjunta em área delimitada."
+],
+"e": "Lei 10.257, art. 35."
 }
 ]
 }

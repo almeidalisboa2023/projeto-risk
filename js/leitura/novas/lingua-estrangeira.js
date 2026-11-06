@@ -63,6 +63,56 @@ export default {
 "Não é o sentido."
 ],
 "e": "Falsos cognatos."
+},
+{
+"p": "Em inglês, “eventually” significa “finalmente, por fim”.",
+"c": true,
+"x": "“Eventualmente” é “occasionally”.",
+"e": "Falsos cognatos."
+},
+{
+"p": "Em inglês, “library” significa “livraria”.",
+"c": false,
+"x": "“Library” é biblioteca; livraria é “bookstore”.",
+"e": "Falsos cognatos."
+},
+{
+"p": "Em espanhol, “oficina” significa “escritório”.",
+"c": true,
+"x": "Oficina mecânica é “taller”.",
+"e": "Falsos cognatos."
+},
+{
+"p": "Em espanhol, “exquisito” significa “estranho”.",
+"c": false,
+"x": "Significa “delicioso, refinado”. Estranho é “extraño” ou “raro”.",
+"e": "Falsos cognatos."
+},
+{
+"p": "Em espanhol, “apellido” significa “sobrenome”.",
+"c": true,
+"x": "Apelido é “apodo”.",
+"e": "Falsos cognatos."
+},
+{
+"p": "Em inglês, “sensible” significa",
+"alts": [
+"sensível",
+"sensato",
+"sentimental",
+"sensual",
+"sensorial"
+],
+"r": 1,
+"x": "Sensível é “sensitive”.",
+"n": [
+"Falso cognato.",
+"Correta.",
+"Não é.",
+"Não é.",
+"Não é."
+],
+"e": "Falsos cognatos."
 }
 ]
 },
@@ -117,6 +167,56 @@ export default {
 "É although."
 ],
 "e": "Conectivos."
+},
+{
+"p": "Em inglês, “should” é usado para dar conselho ou recomendação.",
+"c": true,
+"x": "Ex.: “You should wear a seatbelt.”",
+"e": "Modal verbs."
+},
+{
+"p": "Em inglês, “although” expressa ideia de conclusão.",
+"c": false,
+"x": "Expressa concessão (“embora”).",
+"e": "Conectivos."
+},
+{
+"p": "Em espanhol, “la leche” é palavra feminina, ao contrário do português.",
+"c": true,
+"x": "É heterogenérico.",
+"e": "Heterogenéricos."
+},
+{
+"p": "Em inglês, o present perfect é formado por have/has + particípio passado.",
+"c": true,
+"x": "Ex.: “The police have arrested the suspect.”",
+"e": "Tempos verbais."
+},
+{
+"p": "Em espanhol, emprega-se “mucho” antes de substantivos, como em “mucho dinero”.",
+"c": true,
+"x": "“Muy” vai antes de adjetivos e advérbios.",
+"e": "Muy x mucho."
+},
+{
+"p": "Em “The suspect must have left before the police arrived”, “must have left” indica",
+"alts": [
+"obrigação no futuro",
+"dedução sobre o passado",
+"permissão",
+"habilidade",
+"conselho"
+],
+"r": 1,
+"x": "Must + have + particípio expressa dedução forte sobre algo passado.",
+"n": [
+"Não é.",
+"Correta.",
+"Não é.",
+"Não é.",
+"Não é."
+],
+"e": "Modal verbs."
 }
 ]
 }

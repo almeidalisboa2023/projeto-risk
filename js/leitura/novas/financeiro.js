@@ -75,6 +75,68 @@ export default {
 "Não existe essa lei como peça geral."
 ],
 "e": "CF, art. 165, §5º."
+},
+{
+"p": "A lei de diretrizes orçamentárias compreende as metas e prioridades da administração pública, estabelece as diretrizes de política fiscal e orienta a elaboração da lei orçamentária anual.",
+"c": true,
+"x": "É o art. 165, §2º, da CF.",
+"e": "CF, art. 165, §2º."
+},
+{
+"p": "O Poder Legislativo pode iniciar projeto de lei orçamentária anual se o Executivo não o enviar.",
+"c": false,
+"x": "A iniciativa é privativa do Executivo (art. 165). Se o projeto não for enviado, considera-se proposta a lei vigente (Lei 4.320, art. 32).",
+"e": "Lei 4.320, art. 32."
+},
+{
+"p": "Os recursos que, em decorrência de veto, emenda ou rejeição do projeto de lei orçamentária, ficarem sem despesas correspondentes poderão ser utilizados mediante créditos especiais ou suplementares, com prévia e específica autorização legislativa.",
+"c": true,
+"x": "É o art. 166, §8º, da CF.",
+"e": "CF, art. 166, §8º."
+},
+{
+"p": "É vedada a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas as exceções constitucionais, como a destinação de recursos para saúde e educação.",
+"c": true,
+"x": "É o art. 167, IV, da CF.",
+"e": "CF, art. 167, IV."
+},
+{
+"p": "A Lei 4.320/1964 permite a abertura de crédito especial sem indicação dos recursos correspondentes.",
+"c": false,
+"x": "A abertura de créditos suplementares e especiais depende da existência de recursos disponíveis e é precedida de exposição justificativa (Lei 4.320, art. 43; CF, art. 167, V).",
+"e": "Lei 4.320, art. 43."
+},
+{
+"p": "Consideram-se recursos para abertura de créditos adicionais o superávit financeiro do exercício anterior, o excesso de arrecadação e a anulação parcial ou total de dotações.",
+"c": true,
+"x": "É o art. 43, §1º, da Lei 4.320.",
+"e": "Lei 4.320, art. 43, §1º."
+},
+{
+"p": "Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual ou sem lei que autorize a inclusão.",
+"c": true,
+"x": "É o art. 167, §1º, da CF.",
+"e": "CF, art. 167, §1º."
+},
+{
+"p": "O princípio orçamentário segundo o qual todas as receitas e despesas devem constar da lei orçamentária pelos seus totais, vedadas deduções, é o",
+"alts": [
+"da exclusividade",
+"do orçamento bruto",
+"da anualidade",
+"da não afetação",
+"da especificação"
+],
+"r": 1,
+"x": "Lei 4.320, art. 6º.",
+"n": [
+"Veda matéria estranha.",
+"Correta.",
+"Trata do período.",
+"Trata da vinculação de impostos.",
+"Trata do detalhamento."
+],
+"e": "Lei 4.320, art. 6º."
 }
 ]
 },
@@ -145,6 +207,62 @@ export default {
 "A Administração responde perante o particular."
 ],
 "e": "STJ; Lei 14.133, art. 149."
+},
+{
+"p": "As despesas de capital compreendem os investimentos, as inversões financeiras e as transferências de capital.",
+"c": true,
+"x": "É o art. 12 da Lei 4.320.",
+"e": "Lei 4.320, art. 12."
+},
+{
+"p": "A despesa com pessoal é classificada como despesa de capital.",
+"c": false,
+"x": "É despesa corrente, de custeio (Lei 4.320, art. 13).",
+"e": "Lei 4.320, art. 13."
+},
+{
+"p": "O empenho por estimativa é utilizado para despesas cujo montante não se possa determinar, como contas de água e energia.",
+"c": true,
+"x": "É o art. 60, §2º, da Lei 4.320.",
+"e": "Lei 4.320, art. 60, §2º."
+},
+{
+"p": "É permitido o empenho global de despesas contratuais e outras, sujeitas a parcelamento.",
+"c": true,
+"x": "É o art. 60, §3º, da Lei 4.320.",
+"e": "Lei 4.320, art. 60, §3º."
+},
+{
+"p": "O pagamento da despesa pode ser feito antes da liquidação, para agilizar a execução.",
+"c": false,
+"x": "O pagamento só será efetuado após sua regular liquidação (art. 62).",
+"e": "Lei 4.320, art. 62."
+},
+{
+"p": "O regime de adiantamento é aplicável aos casos de despesas expressamente definidos em lei e consiste na entrega de numerário a servidor, sempre precedida de empenho.",
+"c": true,
+"x": "É o art. 68 da Lei 4.320 (suprimento de fundos).",
+"e": "Lei 4.320, art. 68."
+},
+{
+"p": "Os estágios da despesa pública, na ordem prevista pela Lei 4.320/1964, são",
+"alts": [
+"liquidação, empenho e pagamento",
+"pagamento, empenho e liquidação",
+"empenho, liquidação e pagamento",
+"fixação, pagamento e liquidação",
+"licitação, pagamento e empenho"
+],
+"r": 2,
+"x": "Empenho (art. 58), liquidação (art. 63) e pagamento (art. 64).",
+"n": [
+"Fora de ordem.",
+"Fora de ordem.",
+"Correta.",
+"Fora de ordem.",
+"Não é a sequência legal."
+],
+"e": "Lei 4.320, arts. 58 a 64."
 }
 ]
 },
@@ -213,6 +331,68 @@ export default {
 "Não é a vedação."
 ],
 "e": "LRF, art. 42."
+},
+{
+"p": "A LRF considera irregulares e lesivas ao patrimônio público a geração de despesa ou assunção de obrigação que não atendam aos requisitos de estimativa de impacto e declaração do ordenador.",
+"c": true,
+"x": "São os arts. 15 e 16 da LRF.",
+"e": "LRF, art. 15."
+},
+{
+"p": "Considera-se obrigatória de caráter continuado a despesa corrente derivada de lei, medida provisória ou ato administrativo normativo que fixe para o ente a obrigação legal de sua execução por um período superior a dois exercícios.",
+"c": true,
+"x": "É o art. 17 da LRF.",
+"e": "LRF, art. 17."
+},
+{
+"p": "A apuração da despesa com pessoal é feita mês a mês, considerando apenas o mês de referência.",
+"c": false,
+"x": "É apurada somando-se a realizada no mês em referência com as dos 11 meses imediatamente anteriores (art. 18, §2º).",
+"e": "LRF, art. 18."
+},
+{
+"p": "O Relatório de Gestão Fiscal é emitido ao final de cada quadrimestre pelos titulares dos Poderes e órgãos.",
+"c": true,
+"x": "É o art. 54 da LRF.",
+"e": "LRF, art. 54."
+},
+{
+"p": "O Relatório Resumido da Execução Orçamentária é publicado até 30 dias após o encerramento de cada bimestre.",
+"c": true,
+"x": "É o art. 52 da LRF.",
+"e": "LRF, art. 52."
+},
+{
+"p": "A LRF permite que o ente que deixe de instituir seus impostos continue recebendo transferências voluntárias normalmente.",
+"c": false,
+"x": "É vedada a realização de transferências voluntárias para o ente que não observe a efetiva arrecadação dos impostos de sua competência (art. 11, parágrafo único).",
+"e": "LRF, art. 11."
+},
+{
+"p": "Municípios com menos de 50 mil habitantes podem optar por divulgar semestralmente o Relatório de Gestão Fiscal.",
+"c": true,
+"x": "É o art. 63 da LRF.",
+"e": "LRF, art. 63."
+},
+{
+"p": "Segundo a LRF, se a despesa com pessoal ultrapassar o limite, o percentual excedente deverá ser eliminado",
+"alts": [
+"no mesmo quadrimestre",
+"nos dois quadrimestres seguintes, sendo pelo menos um terço no primeiro",
+"em até três anos",
+"até o fim do mandato",
+"em 180 dias, integralmente no primeiro"
+],
+"r": 1,
+"x": "É o art. 23 da LRF.",
+"n": [
+"Não é o prazo.",
+"Correta.",
+"Não é o prazo.",
+"Não é o prazo.",
+"Não é a regra."
+],
+"e": "LRF, art. 23."
 }
 ]
 },
@@ -282,6 +462,62 @@ export default {
 "Há prazo de 5 anos."
 ],
 "e": "STF, Tema 445."
+},
+{
+"p": "Pertencem aos Municípios 50% do produto da arrecadação do imposto da União sobre a propriedade territorial rural relativamente aos imóveis neles situados, cabendo a totalidade se optarem por fiscalizar e cobrar o imposto.",
+"c": true,
+"x": "É o art. 158, II, da CF.",
+"e": "CF, art. 158, II."
+},
+{
+"p": "A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal.",
+"c": true,
+"x": "É o art. 31 da CF.",
+"e": "CF, art. 31."
+},
+{
+"p": "É permitida a criação de Tribunais, Conselhos ou órgãos de Contas Municipais por lei municipal.",
+"c": false,
+"x": "É vedada a criação de novos Tribunais, Conselhos ou órgãos de Contas Municipais (art. 31, §4º).",
+"e": "CF, art. 31, §4º."
+},
+{
+"p": "As contas dos Municípios ficarão, durante 60 dias, anualmente, à disposição de qualquer contribuinte, para exame e apreciação, o qual poderá questionar-lhes a legitimidade.",
+"c": true,
+"x": "É o art. 31, §3º, da CF.",
+"e": "CF, art. 31, §3º."
+},
+{
+"p": "As decisões do Tribunal de Contas de que resulte imputação de débito ou multa terão eficácia de título executivo.",
+"c": true,
+"x": "É o art. 71, §3º, da CF.",
+"e": "CF, art. 71, §3º."
+},
+{
+"p": "Segundo o STF, o próprio Tribunal de Contas tem legitimidade para executar suas decisões que imputam débito ao gestor municipal.",
+"c": false,
+"x": "A legitimidade é do ente público beneficiário da condenação (STF, Tema 642).",
+"e": "STF, Tema 642."
+},
+{
+"p": "Segundo o STF, a execução de multa imposta por Tribunal de Contas estadual a agente público municipal, em razão de danos causados ao erário municipal, compete",
+"alts": [
+"ao Tribunal de Contas",
+"ao Estado",
+"ao Município prejudicado",
+"ao Ministério Público de Contas",
+"à União"
+],
+"r": 2,
+"x": "É o Tema 642 (RE 1.003.433).",
+"n": [
+"O TC não tem legitimidade.",
+"Não é o ente prejudicado.",
+"Correta.",
+"Não tem legitimidade.",
+"Não se aplica."
+],
+"e": "STF, Tema 642."
 }
 ]
 }

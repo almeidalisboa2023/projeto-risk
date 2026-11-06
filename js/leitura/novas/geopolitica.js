@@ -61,6 +61,56 @@ export default {
 "Não é a maior."
 ],
 "e": "Fronteiras do Brasil."
+},
+{
+"p": "O Brasil é dividido em 26 estados e o Distrito Federal.",
+"c": true,
+"x": "São 27 unidades federativas.",
+"e": "Organização territorial."
+},
+{
+"p": "O Brasil faz fronteira com o Chile.",
+"c": false,
+"x": "Chile e Equador são os únicos países sul-americanos sem fronteira com o Brasil.",
+"e": "Fronteiras."
+},
+{
+"p": "A faixa de fronteira é considerada fundamental para a defesa do território nacional, e sua ocupação e utilização são reguladas em lei.",
+"c": true,
+"x": "CF, art. 20, §2º.",
+"e": "CF, art. 20, §2º."
+},
+{
+"p": "O mar territorial brasileiro tem largura de 12 milhas marítimas.",
+"c": true,
+"x": "Lei 8.617/1993.",
+"e": "Lei 8.617/1993."
+},
+{
+"p": "A Amazônia Legal abrange os estados da Região Norte, o Mato Grosso e parte do Maranhão.",
+"c": true,
+"x": "É uma região de planejamento.",
+"e": "Amazônia Legal."
+},
+{
+"p": "A região brasileira mais populosa, segundo o IBGE, é a",
+"alts": [
+"Nordeste",
+"Sudeste",
+"Sul",
+"Norte",
+"Centro-Oeste"
+],
+"r": 1,
+"x": "Concentra cerca de 40% da população.",
+"n": [
+"É a segunda.",
+"Correta.",
+"Não é.",
+"Não é.",
+"Não é."
+],
+"e": "IBGE."
 }
 ]
 },
@@ -115,6 +165,56 @@ export default {
 "Não sediou."
 ],
 "e": "COP 30."
+},
+{
+"p": "A BR-101 é uma rodovia longitudinal que acompanha, em grande parte, o litoral brasileiro.",
+"c": true,
+"x": "Primeiro algarismo 1.",
+"e": "Rodovias."
+},
+{
+"p": "A BR-230 é uma rodovia radial.",
+"c": false,
+"x": "É transversal (primeiro algarismo 2). A Transamazônica é a BR-230.",
+"e": "Rodovias."
+},
+{
+"p": "As rodovias diagonais são identificadas pelo primeiro algarismo 3.",
+"c": true,
+"x": "Ex.: BR-381, que passa por Minas Gerais.",
+"e": "Rodovias."
+},
+{
+"p": "O transporte ferroviário e o hidroviário são, em regra, mais baratos que o rodoviário para grandes volumes e longas distâncias.",
+"c": true,
+"x": "Por isso se fala em desequilíbrio da matriz de transportes brasileira.",
+"e": "Matriz de transportes."
+},
+{
+"p": "O Mercosul foi criado pelo Tratado de Assunção, em 1991.",
+"c": true,
+"x": "Brasil, Argentina, Paraguai e Uruguai.",
+"e": "Mercosul."
+},
+{
+"p": "A rodovia BR-040, que liga Brasília ao Rio de Janeiro passando por Minas Gerais, é classificada como",
+"alts": [
+"longitudinal",
+"transversal",
+"diagonal",
+"radial",
+"de ligação"
+],
+"r": 3,
+"x": "Primeiro algarismo 0: parte da capital federal.",
+"n": [
+"Seria 1.",
+"Seria 2.",
+"Seria 3.",
+"Correta.",
+"Seria 4."
+],
+"e": "Rodovias."
 }
 ]
 }
