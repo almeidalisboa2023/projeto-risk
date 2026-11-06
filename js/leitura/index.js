@@ -31,10 +31,38 @@ const comGab = (m) => { const G = GAB[m.id]; if (!G) return m;
 };
 export const MATERIAS_TODAS = [portugues, rlm, constitucional, administrativo, processo, penal, transito, belovale, ...NOVAS].map((m) => comGab(aprofundar(m))).map((m) => ({ ...m, cor: VISUAL[m.id]?.[0] || m.cor || '#6B6458', ico: VISUAL[m.id]?.[1] || m.ico || '📖', atualizado: m.atualizado || 'novembro de 2026' }));
 
+// Junta os conteúdos enviados em PDF pelo administrador: tópico novo, complemento de tópico ou matéria nova.
+// Complementar um tópico "em produção" troca o aviso pelo texto enviado.
+const escH = (t) => String(t ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+export function comConteudos(base = MATERIAS_TODAS, lista = S.conteudos || []) {
+  if (!lista.length) return base;
+  const mapa = new Map(base.map((m) => [m.id, { ...m, assuntos: [...m.assuntos] }]));
+  for (const c of lista) {
+    let m = mapa.get(c.materia_id);
+    if (!m) {
+      m = { id: c.materia_id, nome: c.materia_nome || c.materia_id, apelidos: [norm(c.materia_nome || '')].filter(Boolean), assuntos: [],
+        cor: '#6B6458', ico: '📄', atualizado: 'material enviado', nova: true, cursos: c.cursos || [] };
+      mapa.set(m.id, m);
+    } else if (m.nova) m.cursos = [...new Set([...(m.cursos || []), ...(c.cursos || [])])];
+    const quando = c.created_at ? new Date(c.created_at).toLocaleDateString('pt-BR') : '';
+    const i = c.assunto_id ? m.assuntos.findIndex((a) => a.id === c.assunto_id) : -1;
+    if (i >= 0) {
+      const a = m.assuntos[i];
+      const html = /class="lt-producao"/.test(a.html)
+        ? a.html.replace(/<div class="lt-producao">[\s\S]*?<\/div>/, '') + c.html
+        : a.html + `<h3>📄 Complemento: ${escH(c.titulo)}</h3>` + c.html;
+      m.assuntos[i] = { ...a, html };
+    } else {
+      m.assuntos.push({ id: 'pdf-' + c.id, titulo: c.titulo, arts: 'Material enviado' + (quando ? ' em ' + quando : ''), chaves: [norm(c.titulo)], html: c.html, quiz: [], extra: true });
+    }
+  }
+  return [...mapa.values()];
+}
+
 // Matérias que o aluno logado pode ver: as do curso dele (definido pelo administrador), sem as removidas.
 // Administrador ou conta sem curso: todas. Para quem tem curso, a matéria do curso aparece mesmo que o edital não cite o município.
 export function visiveis() {
-  const v = filtrarMaterias(MATERIAS_TODAS);
+  const v = filtrarMaterias(comConteudos());
   return meuCurso() ? v.map((m) => (m.soEdital ? { ...m, soEdital: null } : m)) : v;
 }
 

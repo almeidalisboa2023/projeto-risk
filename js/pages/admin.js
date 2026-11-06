@@ -8,17 +8,20 @@ import { TEMAS, detectarTema } from '../temas.js';
 import { ajustarDatas } from './edital-ferramentas.js';
 import { CURSOS, BANCAS, cursoInfo, bancaInfo } from '../cursos.js';
 import { MATERIAS_TODAS } from '../leitura/index.js';
+import { conteudoPdf } from './admin-pdf.js';
 
 const COLS = 'codigo;modalidade;enunciado;alt_a;alt_b;alt_c;alt_d;alt_e;gabarito;comentario;materia;assunto;subassunto;banca;orgao;cargo;nivel;ano;dificuldade;situacao;origem;fonte;tags'.split(';');
 
 export async function render(el) {
   el.innerHTML = `<div class="mono up">Administrador</div><h1>Painel do administrador</h1>
     <div class="card" id="cad">${loading()}</div>
+    <div class="card" style="margin-top:16px" id="pdfs"></div>
     <div class="card" style="margin-top:16px" id="migra"></div>
     <div class="card" style="margin-top:16px" id="alunos">${loading()}</div>
     <div class="card" style="margin-top:16px" id="reps"></div>`;
   reportes(el.querySelector('#reps'));
   const atual = async () => { await Promise.all([cadastros(el.querySelector('#cad'), atual), alunos(el.querySelector('#alunos'), atual)]); };
+  conteudoPdf(el.querySelector('#pdfs'));
   migracao(el.querySelector('#migra'));
   await atual();
 }

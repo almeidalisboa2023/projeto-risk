@@ -237,5 +237,221 @@ drop policy if exists "simulados delete admin" on storage.objects;
 create policy "simulados delete admin" on storage.objects for delete
   using (bucket_id = 'simulados' and public.is_admin());
 
+-- ===== ATUALIZAÇÃO 02 =====
+alter table public.profiles add column if not exists meta_questoes int default 30;
+alter table public.profiles add column if not exists revisao_auto boolean default true;
+alter table public.tarefas add column if not exists minutos int default 0;
+alter table public.tarefas add column if not exists origem text;
+
+create table if not exists public.provas (
+  id uuid primary key default gen_random_uuid(),
+  user_id uuid not null default auth.uid() references auth.users(id) on delete cascade,
+  edital_id uuid references public.editais(id) on delete set null,
+  titulo text,
+  formato text default 'certo_errado',
+  total int not null default 0,
+  acertos int not null default 0,
+  erros int not null default 0,
+  brancos int not null default 0,
+  nota numeric not null default 0,
+  minutos int default 0,
+  detalhe jsonb default '{}',
+  created_at timestamptz default now()
+);
+create index if not exists provas_user on public.provas(user_id, created_at);
+alter table public.provas enable row level security;
+drop policy if exists "dono le" on public.provas;
+drop policy if exists "dono grava" on public.provas;
+create policy "dono le" on public.provas for select using (user_id = auth.uid() or public.is_admin());
+create policy "dono grava" on public.provas for all using (user_id = auth.uid()) with check (user_id = auth.uid());
+
+-- ===== ATUALIZAÇÃO 03 =====
+-- Horas de estudo (cronômetro e lançamentos manuais)
+create table if not exists public.sessoes_estudo (
+  id uuid primary key default gen_random_uuid(),
+  user_id uuid not null default auth.uid() references auth.users(id) on delete cascade,
+  edital_id uuid references public.editais(id) on delete set null,
+  tarefa_id uuid references public.tarefas(id) on delete set null,
+  materia text not null,
+  data date not null default current_date,
+  minutos int not null check (minutos > 0),
+  origem text default 'cronometro' check (origem in ('cronometro','manual')),
+  obs text,
+  created_at timestamptz default now()
+);
+create index if not exists sessoes_user on public.sessoes_estudo(user_id, data);
+alter table public.sessoes_estudo enable row level security;
+drop policy if exists "dono le" on public.sessoes_estudo;
+drop policy if exists "dono grava" on public.sessoes_estudo;
+create policy "dono le" on public.sessoes_estudo for select using (user_id = auth.uid() or public.is_admin());
+create policy "dono grava" on public.sessoes_estudo for all using (user_id = auth.uid()) with check (user_id = auth.uid());
+
+-- ===== ATUALIZAÇÃO 04 =====
+-- CPF no perfil (cabeçalho dos resumos) e matéria nos registros de questões feitos pelo Painel
+alter table public.profiles add column if not exists cpf text;
+alter table public.question_logs add column if not exists materia text;
+
+-- Resumos técnicos gerados pela IA
+create table if not exists public.resumos (
+  id uuid primary key default gen_random_uuid(),
+  user_id uuid not null default auth.uid() references auth.users(id) on delete cascade,
+  topico_id uuid references public.topicos(id) on delete set null,
+  edital_id uuid references public.editais(id) on delete set null,
+  materia text,
+  topico text,
+  concurso text,
+  conteudo text not null,
+  modelo text,
+  created_at timestamptz default now()
+);
+create index if not exists resumos_user on public.resumos(user_id, topico_id);
+alter table public.resumos enable row level security;
+drop policy if exists "dono le" on public.resumos;
+drop policy if exists "dono grava" on public.resumos;
+create policy "dono le" on public.resumos for select using (user_id = auth.uid() or public.is_admin());
+create policy "dono grava" on public.resumos for all using (user_id = auth.uid()) with check (user_id = auth.uid());
+
+-- ===== ATUALIZAÇÃO 05 =====
+-- ===== Aprovação de cadastros =====
+-- Na primeira vez, cria a coluna e libera quem já tinha conta; novos cadastros entram como "pendente".
+do $$ begin
+  if not exists (select 1 from information_schema.columns where table_schema = 'public' and table_name = 'profiles' and column_name = 'status') then
+    alter table public.profiles add column status text default 'pendente';
+    update public.profiles set status = 'aprovado';
+  end if;
+end $$;
+alter table public.profiles drop constraint if exists profiles_status_check;
+alter table public.profiles add constraint profiles_status_check check (status in ('pendente','aprovado','recusado'));
+
+create or replace function public.meu_status() returns text
+language sql stable security definer set search_path = public as $$
+  select status from public.profiles where id = auth.uid();
+$$;
+
+-- O aluno edita o próprio perfil, mas não pode mudar o próprio papel nem se aprovar
+drop policy if exists "perfil edita" on public.profiles;
+create policy "perfil edita" on public.profiles for update using (id = auth.uid())
+  with check (id = auth.uid() and (public.is_admin() or (role = 'aluno' and status is not distinct from public.meu_status())));
+
+-- Novos cadastros (e-mail ou Google): nome vem do Google quando houver; o administrador já entra aprovado
+create or replace function public.handle_new_user() returns trigger
+language plpgsql security definer set search_path = public as $$
+declare adm boolean := lower(new.email) = 'almeidalisboa2023@gmail.com';
+begin
+  insert into public.profiles(id, email, nome, role, status)
+  values (new.id, new.email,
+    coalesce(new.raw_user_meta_data->>'nome', new.raw_user_meta_data->>'full_name', new.raw_user_meta_data->>'name', split_part(new.email,'@',1)),
+    case when adm then 'admin' else 'aluno' end,
+    case when adm then 'aprovado' else 'pendente' end)
+  on conflict (id) do nothing;
+  return new;
+end $$;
+
+-- Conta do administrador
+update public.profiles set role = 'admin', status = 'aprovado' where lower(email) = 'almeidalisboa2023@gmail.com';
+
+-- ===== ATUALIZAÇÃO 06 =====
+-- ===== Temas do calendário =====
+-- editais.tema: vazio = automático pelo nome do concurso; só o administrador muda.
+-- profiles.tema_padrao: o próprio aluno pode preferir o tema padrão.
+alter table public.editais add column if not exists tema text;
+alter table public.profiles add column if not exists tema_padrao boolean default false;
+
+create or replace function public.protege_tema() returns trigger
+language plpgsql security definer set search_path = public as $$
+begin
+  if public.is_admin() or auth.uid() is null then return new; end if;
+  if tg_op = 'INSERT' then new.tema := null; return new; end if;
+  if new.tema is distinct from old.tema then raise exception 'Só o administrador pode mudar o tema do calendário.'; end if;
+  return new;
+end $$;
+drop trigger if exists protege_tema on public.editais;
+create trigger protege_tema before insert or update on public.editais for each row execute function public.protege_tema();
+
+-- O administrador pode editar o edital (tema) de qualquer aluno
+drop policy if exists "admin edita editais" on public.editais;
+create policy "admin edita editais" on public.editais for update using (public.is_admin()) with check (public.is_admin());
+
+-- ===== ATUALIZAÇÃO 07 =====
+alter table public.editais add column if not exists finalizado_em date;
+
 -- DEPOIS de criar a sua conta no app, rode a linha abaixo trocando o e-mail para virar administrador:
 -- update public.profiles set role = 'admin' where email = 'almeidalisboa2023@gmail.com';
+
+-- ===== Atualização 08: cursos =====
+--
+-- O que muda:
+--  • No cadastro, o aluno escolhe o curso (PRF, CFS PMMG, PCMG, Belo Vale...) e informa os dados dele.
+--  • O administrador confere, corrige os dados, define o curso e a banca e aprova.
+--  • O aluno só vê as matérias do curso dele; o administrador pode remover/restaurar matérias por aluno.
+
+alter table public.profiles add column if not exists curso_solicitado text;   -- curso que o aluno marcou no cadastro
+alter table public.profiles add column if not exists curso text;              -- curso definido pelo administrador
+alter table public.profiles add column if not exists banca text;              -- banca definida pelo administrador (vazio = não definida)
+alter table public.profiles add column if not exists materias_removidas text[] default '{}';
+alter table public.profiles add column if not exists telefone text;
+alter table public.profiles add column if not exists cidade text;
+alter table public.profiles add column if not exists dados_ok_em timestamptz;  -- quando o aluno enviou os dados do cadastro
+
+-- Só o administrador muda curso, banca e matérias removidas (o aluno escolhe apenas o curso_solicitado).
+create or replace function public.protege_curso() returns trigger
+language plpgsql security definer set search_path = public as $$
+begin
+  if public.is_admin() or auth.uid() is null then return new; end if;
+  new.curso := old.curso;
+  new.banca := old.banca;
+  new.materias_removidas := old.materias_removidas;
+  -- depois de aprovado, o aluno não troca mais o curso pedido sozinho
+  if old.status = 'aprovado' then new.curso_solicitado := old.curso_solicitado; end if;
+  return new;
+end $$;
+drop trigger if exists protege_curso on public.profiles;
+create trigger protege_curso before update on public.profiles for each row execute function public.protege_curso();
+
+-- Quem já estava aprovado e não tem curso continua vendo todas as matérias (nada muda para essas contas).
+
+-- ===== Atualização 09: conteúdo em PDF =====
+--
+-- O que muda:
+--  • Nova aba no administrador para enviar PDF de conteúdo.
+--  • O administrador escolhe (ou confirma) a matéria e o tópico; ao confirmar, o texto vai para a leitura da matéria:
+--    cria um tópico novo ou complementa um tópico que já existe.
+
+create table if not exists public.conteudos (
+  id uuid primary key default gen_random_uuid(),
+  materia_id text not null,          -- id da matéria (ex.: 'civil', 'doutrina-pmmg') ou de uma matéria nova
+  materia_nome text,                 -- nome da matéria (usado quando é matéria nova)
+  assunto_id text,                   -- tópico que vai ser complementado (vazio = tópico novo)
+  titulo text not null,              -- título do tópico novo ou do complemento
+  html text not null,                -- texto já formatado para a leitura
+  cursos text[] default '{}',        -- matéria nova: cursos que recebem a matéria
+  arquivo text,                      -- caminho do PDF original guardado no Storage
+  ativo boolean default true,
+  created_at timestamptz default now(),
+  created_by uuid default auth.uid()
+);
+alter table public.conteudos enable row level security;
+
+-- Alunos aprovados e o administrador leem; só o administrador cria, altera e apaga.
+drop policy if exists "conteudos le" on public.conteudos;
+create policy "conteudos le" on public.conteudos for select
+  using (public.is_admin() or public.meu_status() = 'aprovado');
+drop policy if exists "conteudos admin" on public.conteudos;
+create policy "conteudos admin" on public.conteudos for all
+  using (public.is_admin()) with check (public.is_admin());
+
+-- PDFs originais (guardados só para o administrador, não ficam públicos)
+insert into storage.buckets (id, name, public) values ('conteudos', 'conteudos', false)
+  on conflict (id) do nothing;
+drop policy if exists "conteudos pdf upload admin" on storage.objects;
+create policy "conteudos pdf upload admin" on storage.objects for insert
+  with check (bucket_id = 'conteudos' and public.is_admin());
+drop policy if exists "conteudos pdf le admin" on storage.objects;
+create policy "conteudos pdf le admin" on storage.objects for select
+  using (bucket_id = 'conteudos' and public.is_admin());
+drop policy if exists "conteudos pdf update admin" on storage.objects;
+create policy "conteudos pdf update admin" on storage.objects for update
+  using (bucket_id = 'conteudos' and public.is_admin());
+drop policy if exists "conteudos pdf delete admin" on storage.objects;
+create policy "conteudos pdf delete admin" on storage.objects for delete
+  using (bucket_id = 'conteudos' and public.is_admin());

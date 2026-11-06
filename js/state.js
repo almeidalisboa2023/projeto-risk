@@ -1,7 +1,7 @@
 import { db } from './backend.js';
 import { norm, iso, hoje } from './util.js';
 
-export const S = { user: null, profile: null, editais: [], edital: null, topicos: [], logs: [], tarefas: [], sessoes: [], ready: false };
+export const S = { user: null, profile: null, conteudos: [], editais: [], edital: null, topicos: [], logs: [], tarefas: [], sessoes: [], ready: false };
 
 const ouvintes = new Set();
 export const onChange = (fn) => { ouvintes.add(fn); return () => ouvintes.delete(fn); };
@@ -11,6 +11,8 @@ export async function carregarTudo() {
   const [prof] = await db.select('profiles', { id: 'eq.' + S.user.id });
   S.profile = prof || { id: S.user.id, role: 'aluno', nome: S.user.email };
   S.editais = await db.select('editais', { user_id: 'eq.' + S.user.id, order: 'created_at.asc' });
+  // Conteúdos enviados em PDF pelo administrador (entram na leitura das matérias)
+  S.conteudos = await db.selectAll('conteudos', { ativo: 'eq.true', order: 'created_at.asc' }).catch(() => []);
   S.sessoes = await db.selectAll('sessoes_estudo', { user_id: 'eq.' + S.user.id, order: 'data.asc' }).catch(() => []);
   const ativos = S.editais.filter((e) => e.ativo !== false);
   S.pendentes = S.profile.role === 'admin' ? (await db.select('profiles', { status: 'eq.pendente', select: 'id' }).catch(() => [])).length : 0;

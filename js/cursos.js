@@ -103,8 +103,10 @@ export function filtrarMaterias(todas, perfil = S.profile) {
     const mat = todas.find((x) => x.id === item.id);
     if (!mat) continue;
     if (!item.assuntos) { out.push(mat); continue; }
-    const ass = mat.assuntos.filter((a) => item.assuntos.includes(a.id));
+    const ass = mat.assuntos.filter((a) => a.extra || item.assuntos.includes(a.id)); // tópicos enviados em PDF entram sempre
     if (ass.length) out.push({ ...mat, assuntos: ass, recorte: item.obs });
   }
+  // Matérias novas criadas a partir de PDF, marcadas pelo administrador para este curso
+  for (const mat of todas) if (mat.nova && (mat.cursos || []).includes(c.id) && !fora.has(mat.id)) out.push(mat);
   return out;
 }
