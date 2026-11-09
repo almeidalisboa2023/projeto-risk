@@ -1,4 +1,4 @@
-// Apostilas por curso: o administrador envia PDFs e escolhe os cursos; o aluno lê dentro do app, sem baixar.
+// Apostilas, Materiais e Simulados por curso: o administrador envia PDFs, escolhe a seção, a ordem e os cursos; o aluno lê dentro do app, sem baixar.
 import { S } from '../state.js';
 import { db, storage } from '../backend.js';
 import { esc } from '../util.js';
@@ -11,73 +11,105 @@ const ehAdmin = () => S.profile?.role === 'admin';
 const lib = carregaPdfJs;
 const tam = (b) => (b > 1048576 ? (b / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(b / 1024)) + ' KB');
 
-export async function render(el, q) {
+// Três seções que usam a mesma tabela (coluna "tipo"): Apostilas, Materiais e Simulados.
+export const SECOES = {
+  apostila: { rota: 'apostilas', nome: 'Apostilas', um: 'apostila', ico: '📕', novo: 'nova apostila' },
+  material: { rota: 'materiais', nome: 'Materiais', um: 'material', ico: '📄', novo: 'novo material' },
+  simulado: { rota: 'simulados', nome: 'Simulados', um: 'simulado', ico: '📝', novo: 'novo simulado' },
+};
+const tipoDe = (a) => (SECOES[a.tipo] ? a.tipo : 'apostila');
+
+export async function render(el, q, tipo = 'apostila') {
   const abrir = q?.get('ver');
   el.innerHTML = loading();
   let lista = [];
-  try { lista = await db.select('apostilas', { order: 'ordem.asc,created_at.desc' }); } catch (e) { el.innerHTML = `<div class="card"><p>${esc(e.message)}</p></div>`; return; }
+  try { lista = await db.select('apostilas', { order: 'ordem.asc,created_at.asc' }); } catch (e) { el.innerHTML = `<div class="card"><p>${esc(e.message)}</p></div>`; return; }
   if (!ehAdmin()) lista = lista.filter((a) => a.ativo !== false && (a.cursos || []).includes(S.profile?.curso));
   if (abrir) { const a = lista.find((x) => x.id === abrir); if (a) return leitor(el, a); }
-  pagina(el, lista);
+  pagina(el, lista.filter((a) => tipoDe(a) === tipo), tipo, lista);
 }
 
-function pagina(el, lista) {
-  const c = meuCurso();
-  const porMateria = new Map();
-  for (const a of lista) { const k = a.materia || 'Geral'; if (!porMateria.has(k)) porMateria.set(k, []); porMateria.get(k).push(a); }
-  el.innerHTML = `<div class="mono up">${ehAdmin() ? 'Administrador · ' : ''}Apostilas</div>
-    <h1>${ehAdmin() ? 'Apostilas dos cursos' : c ? 'Apostilas · ' + esc(c.curto) : 'Apostilas'}</h1>
-    ${ehAdmin() ? `<div class="card" id="apEnvio"></div>` : c ? `<p class="muted" style="margin-top:-6px">Material do seu curso (${esc(c.nome)}). As apostilas abrem aqui dentro do app.</p>`
-      : '<div class="card"><p>Você ainda não tem curso definido. Quando o administrador definir o seu curso, as apostilas dele aparecem aqui.</p></div>'}
-    ${ehAdmin() ? `<div class="row" style="margin:16px 0 6px"><h3 style="margin:0">Enviadas (${lista.length})</h3><span class="sp"></span>
-      <select id="apFiltro"><option value="">Todos os cursos</option>${CURSOS.map((x) => `<option value="${x.id}">${esc(x.curto)}</option>`).join('')}</select></div>` : ''}
-    <div id="apLista">${lista.length ? '' : `<p class="muted">${ehAdmin() ? 'Nenhuma apostila enviada ainda.' : c ? 'Ainda não há apostilas para o seu curso.' : ''}</p>`}</div>`;
+function pagina(el, lista, tipo, todas) {
+  const c = meuCurso(), sec = SECOES[tipo];
+  el.innerHTML = `<div class="mono up">${ehAdmin() ? 'Administrador · ' : ''}${sec.nome}</div>
+    <h1>${ehAdmin() ? sec.nome + ' dos cursos' : c ? sec.nome + ' · ' + esc(c.curto) : sec.nome}</h1>
+    ${ehAdmin() ? `<div class="card" id="apEnvio"></div>` : c ? `<p class="muted" style="margin-top:-6px">${sec.nome} do seu curso (${esc(c.nome)}). Tudo abre aqui dentro do app.</p>`
+      : `<div class="card"><p>Você ainda não tem curso definido. Quando o administrador definir o seu curso, os ${sec.nome.toLowerCase()} dele aparecem aqui.</p></div>`}
+    ${ehAdmin() ? `<div class="row" style="margin:16px 0 6px"><h3 style="margin:0">Enviados (${lista.length})</h3><span class="sp"></span>
+      <select id="apFiltro"><option value="">Todos os cursos</option>${CURSOS.map((x) => `<option value="${x.id}">${esc(x.curto)}</option>`).join('')}</select></div>
+      ${lista.length > 1 ? '<p class="muted" style="font-size:12.5px;margin:0">Use ↑ e ↓ para mudar a ordem em que os alunos veem.</p>' : ''}` : ''}
+    <div id="apLista">${lista.length ? '' : `<p class="muted">${ehAdmin() ? 'Nada enviado ainda nesta seção.' : c ? `Ainda não há ${sec.nome.toLowerCase()} para o seu curso.` : ''}</p>`}</div>`;
   const desenha = (filtro = '') => {
     const L = el.querySelector('#apLista'); if (!lista.length) return;
-    const grupos = [...porMateria].map(([m, as]) => [m, as.filter((a) => !filtro || (a.cursos || []).includes(filtro))]).filter(([, as]) => as.length);
-    L.innerHTML = grupos.map(([m, as]) => `<h3 style="margin:18px 0 8px">${esc(m)}</h3><div class="ap-grade">${as.map((a) => `
-      <div class="card ap-item ${a.ativo === false ? 'off' : ''}">
-        <div class="ap-ico">📕</div>
-        <div style="flex:1;min-width:0"><b>${esc(a.titulo)}</b>
+    const vis = lista.filter((a) => !filtro || (a.cursos || []).includes(filtro));
+    // agrupa por matéria, na ordem definida (a matéria aparece onde está o seu primeiro item)
+    const grupos = new Map(); for (const a of vis) { const k = a.materia || 'Geral'; if (!grupos.has(k)) grupos.set(k, []); grupos.get(k).push(a); }
+    L.innerHTML = [...grupos].map(([m, as]) => `${grupos.size > 1 || m !== 'Geral' ? `<h3 style="margin:18px 0 8px">${esc(m)}</h3>` : ''}<div class="ap-grade">${as.map((a) => {
+      const i = lista.indexOf(a);
+      return `<div class="card ap-item ${a.ativo === false ? 'off' : ''}">
+        <div class="ap-ico">${sec.ico}</div>
+        <div style="flex:1;min-width:0"><b>${ehAdmin() ? `<span class="muted">${i + 1}.</span> ` : ''}${esc(a.titulo)}</b>
           ${a.descricao ? `<p class="muted" style="margin:4px 0 0;font-size:13.5px">${esc(a.descricao)}</p>` : ''}
           <p class="muted" style="margin:4px 0 0;font-size:12.5px">${a.quiz?.length ? '🎯 ' + a.quiz.length + ' questões · ' : ''}${a.paginas ? a.paginas + ' páginas · ' : ''}${a.tamanho ? tam(a.tamanho) + ' · ' : ''}${new Date(a.created_at).toLocaleDateString('pt-BR')}</p>
-          ${ehAdmin() ? `<p style="margin:6px 0 0">${(a.cursos || []).map((k) => `<span class="pill">${esc(cursoInfo(k)?.curto || k)}</span>`).join(' ') || '<span class="pill" style="background:var(--vermelho);color:#fff">sem curso</span>'}${a.ativo === false ? ' <span class="pill">oculta</span>' : ''}</p>` : ''}
-          <div class="row" style="margin-top:10px"><a class="btn mini" href="#/apostilas?ver=${a.id}">Abrir</a>
-            ${ehAdmin() ? `<button class="btn mini sec" data-ed="${a.id}">Editar</button><button class="btn mini sec" data-oc="${a.id}">${a.ativo === false ? 'Mostrar' : 'Ocultar'}</button><button class="btn mini sec" data-rm="${a.id}">Apagar</button>` : ''}</div>
-        </div></div>`).join('')}</div>`).join('') || '<p class="muted">Nenhuma apostila para este curso.</p>';
+          ${ehAdmin() ? `<p style="margin:6px 0 0">${(a.cursos || []).map((k) => `<span class="pill">${esc(cursoInfo(k)?.curto || k)}</span>`).join(' ') || '<span class="pill" style="background:var(--vermelho);color:#fff">sem curso</span>'}${a.ativo === false ? ' <span class="pill">oculto</span>' : ''}</p>` : ''}
+          <div class="row" style="margin-top:10px;flex-wrap:wrap;gap:6px"><a class="btn mini" href="#/${sec.rota}?ver=${a.id}">Abrir</a>
+            ${ehAdmin() ? `<button class="btn mini sec" data-mv="${a.id}" data-d="-1" title="Subir" ${i === 0 ? 'disabled' : ''}>↑</button><button class="btn mini sec" data-mv="${a.id}" data-d="1" title="Descer" ${i === lista.length - 1 ? 'disabled' : ''}>↓</button>
+              <button class="btn mini sec" data-ed="${a.id}">Editar</button><button class="btn mini sec" data-oc="${a.id}">${a.ativo === false ? 'Mostrar' : 'Ocultar'}</button><button class="btn mini sec" data-rm="${a.id}">Apagar</button>` : ''}</div>
+        </div></div>`; }).join('')}</div>`).join('') || '<p class="muted">Nada para este curso.</p>';
     if (!ehAdmin()) return;
+    const filtroAtual = () => el.querySelector('#apFiltro').value;
+    L.querySelectorAll('[data-mv]').forEach((b) => (b.onclick = async () => {
+      const i = lista.findIndex((x) => x.id === b.dataset.mv), j = i + Number(b.dataset.d);
+      if (j < 0 || j >= lista.length) return;
+      [lista[i], lista[j]] = [lista[j], lista[i]];
+      try { await salvarOrdem(lista); desenha(filtroAtual()); } catch (e) { toast(e.message, 'erro'); }
+    }));
     L.querySelectorAll('[data-oc]').forEach((b) => (b.onclick = async () => {
       const a = lista.find((x) => x.id === b.dataset.oc);
-      try { await db.update('apostilas', { id: 'eq.' + a.id }, { ativo: a.ativo === false }); a.ativo = a.ativo === false; desenha(el.querySelector('#apFiltro').value); } catch (e) { toast(e.message, 'erro'); }
+      try { await db.update('apostilas', { id: 'eq.' + a.id }, { ativo: a.ativo === false }); a.ativo = a.ativo === false; desenha(filtroAtual()); } catch (e) { toast(e.message, 'erro'); }
     }));
     L.querySelectorAll('[data-rm]').forEach((b) => (b.onclick = async () => {
       const a = lista.find((x) => x.id === b.dataset.rm);
-      if (!confirm(`Apagar a apostila “${a.titulo}”? O PDF também é apagado.`)) return;
-      try { await db.remove('apostilas', { id: 'eq.' + a.id }); storage.remove('apostilas', a.arquivo).catch(() => {}); toast('Apostila apagada.'); render(el); } catch (e) { toast(e.message, 'erro'); }
+      if (!confirm(`Apagar “${a.titulo}”? O PDF também é apagado.`)) return;
+      try { await db.remove('apostilas', { id: 'eq.' + a.id }); storage.remove('apostilas', a.arquivo).catch(() => {}); toast('Apagado.'); render(el, null, tipo); } catch (e) { toast(e.message, 'erro'); }
     }));
-    L.querySelectorAll('[data-ed]').forEach((b) => (b.onclick = () => formulario(el, lista.find((x) => x.id === b.dataset.ed))));
+    L.querySelectorAll('[data-ed]').forEach((b) => (b.onclick = () => { formulario(el, lista.find((x) => x.id === b.dataset.ed), tipo, todas); el.querySelector('#apEnvio').scrollIntoView({ behavior: 'smooth' }); }));
   };
   desenha();
   if (ehAdmin()) {
     el.querySelector('#apFiltro').onchange = (e) => desenha(e.target.value);
-    formulario(el, null);
+    formulario(el, null, tipo, todas);
   }
 }
 
-// Envio (novo) ou edição (sem trocar o PDF)
-function formulario(el, ap) {
+// Grava a ordem (10, 20, 30…) dos itens que mudaram de posição
+async function salvarOrdem(lista) {
+  const mud = [];
+  lista.forEach((a, k) => { const o = (k + 1) * 10; if (a.ordem !== o) { a.ordem = o; mud.push(a); } });
+  await Promise.all(mud.map((a) => db.update('apostilas', { id: 'eq.' + a.id }, { ordem: a.ordem })));
+}
+
+// Envio (novo) ou edição (sem trocar o PDF): escolhe a seção (Apostilas, Materiais, Simulados) e a posição
+function formulario(el, ap, tipoPagina, todas) {
   const box = el.querySelector('#apEnvio');
   const marcados = new Set(ap?.cursos || []);
-  box.innerHTML = `<h3 style="margin-top:0">${ap ? 'Editar apostila' : '📤 Enviar apostila (PDF)'}</h3>
+  const tipoIni = ap ? tipoDe(ap) : tipoPagina;
+  const daSecao = (t) => todas.filter((x) => tipoDe(x) === t && x.id !== ap?.id);
+  const opPos = (t) => { const l = daSecao(t); const atual = ap && tipoDe(ap) === t ? todas.filter((x) => tipoDe(x) === t).indexOf(ap) : l.length;
+    return Array.from({ length: l.length + 1 }, (_, k) => `<option value="${k}" ${k === atual ? 'selected' : ''}>${k === 0 ? '1º (no topo)' : k === l.length ? `${k + 1}º (no fim)` : `${k + 1}º (antes de “${esc(l[k].titulo.slice(0, 40))}”)`}</option>`).join(''); };
+  box.innerHTML = `<h3 style="margin-top:0">${ap ? 'Editar' : '📤 Enviar PDF'}</h3>
     ${ap ? '' : `<label class="btn sec" style="margin:0">Escolher PDF<input type="file" id="apF" accept="application/pdf,.pdf" hidden></label> <span class="muted" id="apArq" style="font-size:13px"></span>`}
-    <div class="row" style="margin-top:10px"><div class="campo" style="flex:2;min-width:220px"><label>Título</label><input id="apT" style="width:100%" value="${esc(ap?.titulo || '')}" placeholder="Ex.: Apostila de Direito Civil · Parte Geral"></div>
+    <div class="row" style="margin-top:10px"><div class="campo" style="flex:1;min-width:160px"><label>Enviar para</label><select id="apTipo" style="width:100%">${Object.entries(SECOES).map(([k, v]) => `<option value="${k}" ${k === tipoIni ? 'selected' : ''}>${v.ico} ${v.nome}</option>`).join('')}</select></div>
+      <div class="campo" style="flex:2;min-width:220px"><label>Posição na lista</label><select id="apPos" style="width:100%">${opPos(tipoIni)}</select></div></div>
+    <div class="row"><div class="campo" style="flex:2;min-width:220px"><label>Título</label><input id="apT" style="width:100%" value="${esc(ap?.titulo || '')}" placeholder="Ex.: Direito Civil · Parte Geral"></div>
       <div class="campo" style="flex:1;min-width:160px"><label>Matéria (opcional)</label><input id="apM" style="width:100%" value="${esc(ap?.materia || '')}" placeholder="Ex.: Direito Civil"></div></div>
     <div class="campo"><label>Descrição (opcional)</label><input id="apD" style="width:100%" value="${esc(ap?.descricao || '')}"></div>
-    <div class="campo"><label>Cursos que vão ver esta apostila</label>
+    <div class="campo"><label>Cursos que vão receber</label>
       <div class="row" style="flex-wrap:wrap;gap:6px 14px">${CURSOS.map((c) => `<label style="font-size:14px"><input type="checkbox" class="apC" value="${c.id}" ${marcados.has(c.id) ? 'checked' : ''}> ${esc(c.curto)}</label>`).join('')}</div></div>
     ${ap ? `<div class="row" style="margin:4px 0 8px"><button type="button" class="btn sec mini" id="apReq">🔎 Procurar questões neste PDF</button><span class="muted" style="font-size:12.5px">${ap.quiz?.length ? ap.quiz.length + ' questões já ativas. Procurar de novo substitui a lista.' : 'Transforma as questões do PDF em questões para responder.'}</span></div>` : ''}
     <div id="apQs"></div>
-    <div class="row"><span class="sp"></span>${ap ? '<button class="btn sec" id="apCanc">Cancelar</button>' : ''}<button class="btn verde" id="apOk">${ap ? 'Salvar' : 'Enviar apostila'}</button></div>`;
+    <div class="row"><span class="sp"></span>${ap ? '<button class="btn sec" id="apCanc">Cancelar</button>' : ''}<button class="btn verde" id="apOk">${ap ? 'Salvar' : 'Enviar'}</button></div>`;
+  box.querySelector('#apTipo').onchange = (e) => { box.querySelector('#apPos').innerHTML = opPos(e.target.value); };
   let arquivo = null, paginas = null, achou = null, escolhidas = () => [];
   const f = box.querySelector('#apF');
   if (f) f.onchange = async () => {
@@ -86,6 +118,7 @@ function formulario(el, ap) {
     if (arquivo.size > 50 * 1024 * 1024) { arquivo = null; return toast('PDF muito grande (máximo 50 MB). Divida em partes.', 'erro'); }
     box.querySelector('#apArq').textContent = `${arquivo.name} · ${tam(arquivo.size)}`;
     if (!box.querySelector('#apT').value) box.querySelector('#apT').value = arquivo.name.replace(/\.pdf$/i, '').replace(/[_-]+/g, ' ');
+    if (/simulad/i.test(arquivo.name)) { box.querySelector('#apTipo').value = 'simulado'; box.querySelector('#apPos').innerHTML = opPos('simulado'); }
     try {
       const info = box.querySelector('#apArq'), base = info.textContent;
       const r = await lerPdf(await arquivo.arrayBuffer(), (n, t) => (info.textContent = `${base} · lendo página ${n} de ${t}…`));
@@ -94,7 +127,7 @@ function formulario(el, ap) {
       escolhidas = painelQuestoes(box.querySelector('#apQs'), achou.questoes, esc);
     } catch { toast('Não consegui abrir este PDF. Confira se o arquivo não está corrompido ou com senha.', 'erro'); arquivo = null; }
   };
-  if (ap) box.querySelector('#apCanc').onclick = () => formulario(el, null);
+  if (ap) box.querySelector('#apCanc').onclick = () => formulario(el, null, tipoPagina, todas);
   if (ap) box.querySelector('#apReq').onclick = async (ev) => {
     ev.target.disabled = true; ev.target.textContent = 'Lendo o PDF…';
     try {
@@ -106,35 +139,39 @@ function formulario(el, ap) {
   };
   box.querySelector('#apOk').onclick = async (ev) => {
     const cursos = [...box.querySelectorAll('.apC:checked')].map((x) => x.value);
-    const v = { titulo: box.querySelector('#apT').value.trim(), materia: box.querySelector('#apM').value.trim() || null, descricao: box.querySelector('#apD').value.trim() || null, cursos };
+    const tipo = box.querySelector('#apTipo').value, pos = Number(box.querySelector('#apPos').value);
+    const v = { tipo, titulo: box.querySelector('#apT').value.trim(), materia: box.querySelector('#apM').value.trim() || null, descricao: box.querySelector('#apD').value.trim() || null, cursos };
     if (!ap && !arquivo) return toast('Escolha o PDF.', 'erro');
     if (!v.titulo) return toast('Escreva o título.', 'erro');
     if (!cursos.length) return toast('Marque pelo menos um curso.', 'erro');
     ev.target.disabled = true; ev.target.textContent = ap ? 'Salvando…' : 'Enviando…';
     try {
-      if (ap) await db.update('apostilas', { id: 'eq.' + ap.id }, achou ? { ...v, quiz: escolhidas().map((q) => paraQuiz(q, v.titulo)), mascara: mascaras([...achou.esconder]) } : v);
+      let reg;
+      if (ap) { await db.update('apostilas', { id: 'eq.' + ap.id }, achou ? { ...v, quiz: escolhidas().map((q) => paraQuiz(q, v.titulo)), mascara: mascaras([...achou.esconder]) } : v); reg = { ...ap, ...v }; }
       else {
         const caminho = `${Date.now()}-${arquivo.name.replace(/[^\w.-]/g, '_')}`;
         await storage.upload('apostilas', caminho, arquivo);
-        const qs = escolhidas();
-        // esconde na apostila o gabarito e os comentários das questões (aparecem só depois da resposta)
-        const esconder = achou ? [...achou.esconder] : [];
-        const extra = { quiz: qs.map((q) => paraQuiz(q, v.titulo)), mascara: mascaras(esconder) };
-        await db.insert('apostilas', [{ ...v, arquivo: caminho, paginas, tamanho: arquivo.size, ativo: true, ...extra }]);
+        // esconde no PDF o gabarito e os comentários das questões (aparecem só depois da resposta)
+        const extra = { quiz: escolhidas().map((q) => paraQuiz(q, v.titulo)), mascara: mascaras(achou ? [...achou.esconder] : []) };
+        [reg] = await db.insert('apostilas', [{ ...v, arquivo: caminho, paginas, tamanho: arquivo.size, ativo: true, ordem: 0, ...extra }]);
       }
-      toast(ap ? 'Apostila atualizada.' : 'Apostila enviada! Os alunos dos cursos marcados já podem abrir.');
-      render(el);
-    } catch (e) { toast(e.message, 'erro'); ev.target.disabled = false; ev.target.textContent = ap ? 'Salvar' : 'Enviar apostila'; }
+      // posição escolhida na seção de destino
+      const nova = daSecao(tipo); nova.splice(Math.min(pos, nova.length), 0, reg);
+      await salvarOrdem(nova);
+      toast(ap ? 'Salvo.' : `Enviado para ${SECOES[tipo].nome}! Os alunos dos cursos marcados já podem abrir.`);
+      if (tipo !== tipoPagina) location.hash = '#/' + SECOES[tipo].rota; else render(el, null, tipoPagina);
+    } catch (e) { toast(e.message, 'erro'); ev.target.disabled = false; ev.target.textContent = ap ? 'Salvar' : 'Enviar'; }
   };
 }
 
 // Leitor: desenha as páginas em imagem dentro do app (sem barra do navegador, sem botão de baixar)
 async function leitor(el, a) {
-  el.innerHTML = `<div class="row"><a class="btn sec mini" href="#/apostilas">‹ Apostilas</a><span class="sp"></span>
+  const sec = SECOES[tipoDe(a)];
+  el.innerHTML = `<div class="row"><a class="btn sec mini" href="#/${sec.rota}">‹ ${sec.nome}</a><span class="sp"></span>
       <button class="btn sec mini" id="lzMenos" title="Diminuir">−</button><span class="muted" id="lzZoom" style="font-size:13px;min-width:44px;text-align:center"></span><button class="btn sec mini" id="lzMais" title="Aumentar">+</button></div>
     <h1 style="margin:10px 0 2px">${esc(a.titulo)}</h1>
     <p class="muted" style="margin:0 0 10px;font-size:13px">${a.materia ? esc(a.materia) + ' · ' : ''}<span id="lzPag">Carregando…</span></p>
-    ${a.quiz?.length ? `<div class="abas lt-abas" id="lzAbas" style="margin-bottom:10px"><button data-aba="pdf" class="on">📖 Apostila</button><button data-aba="qst">🎯 Questões (${a.quiz.length})</button></div>` : ''}
+    ${a.quiz?.length ? `<div class="abas lt-abas" id="lzAbas" style="margin-bottom:10px"><button data-aba="pdf" class="on">📖 ${tipoDe(a) === 'simulado' ? 'Prova' : 'PDF'}</button><button data-aba="qst">🎯 Questões (${a.quiz.length})</button></div>` : ''}
     <div class="ap-leitor" id="lz"></div>
     ${a.quiz?.length ? `<div id="lzQ" hidden>${blocoQuiz(a)}</div>` : ''}
     <p class="muted" style="font-size:12px;text-align:center;margin-top:10px">Material de uso exclusivo dos alunos do Projeto R.I.S.K.${S.user?.email ? ' · ' + esc(S.user.email) : ''}</p>`;
@@ -145,6 +182,7 @@ async function leitor(el, a) {
       el.querySelectorAll('#lzAbas [data-aba]').forEach((y) => y.classList.toggle('on', y === b));
       caixa.hidden = b.dataset.aba !== 'pdf'; el.querySelector('#lzQ').hidden = b.dataset.aba !== 'qst';
     }));
+    if (tipoDe(a) === 'simulado') el.querySelector('#lzAbas [data-aba="qst"]').click(); // simulado abre direto nas questões
   }
   caixa.oncontextmenu = (e) => e.preventDefault();
   let doc;
