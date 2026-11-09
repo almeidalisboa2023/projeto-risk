@@ -90,6 +90,16 @@ export const cursoInfo = (id) => CURSOS.find((c) => c.id === id) || null;
 export const meuCurso = () => (S.profile?.role === 'admin' ? null : cursoInfo(S.profile?.curso));
 export const minhaBanca = () => bancaInfo(S.profile?.banca) || null;
 
+// Matérias do curso com os ajustes do administrador (tabela cursos_ajustes): tira as excluídas e põe as incluídas.
+export function materiasDoCurso(c, ajustes = S.cursosAjustes || []) {
+  if (!c) return [];
+  const aj = ajustes.find((x) => x.curso === c.id) || {};
+  const fora = new Set(aj.excluidas || []);
+  const lista = c.materias.filter((it) => !fora.has(it.id));
+  for (const id of aj.incluidas || []) if (!fora.has(id) && !lista.some((it) => it.id === id)) lista.push(m(id));
+  return lista;
+}
+
 // Filtra a lista completa de matérias para o aluno: só as do curso, sem as removidas pelo administrador,
 // e com os assuntos restritos ao que o edital cobra. Sem curso definido (contas antigas) ou administrador: tudo.
 export function filtrarMaterias(todas, perfil = S.profile) {
@@ -98,7 +108,7 @@ export function filtrarMaterias(todas, perfil = S.profile) {
   if (!c) return todas;
   const fora = new Set(perfil.materias_removidas || []);
   const out = [];
-  for (const item of c.materias) {
+  for (const item of materiasDoCurso(c)) {
     if (fora.has(item.id)) continue;
     const mat = todas.find((x) => x.id === item.id);
     if (!mat) continue;

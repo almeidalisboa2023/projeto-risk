@@ -12,6 +12,8 @@ export async function carregarTudo() {
   S.profile = prof || { id: S.user.id, role: 'aluno', nome: S.user.email };
   S.editais = await db.select('editais', { user_id: 'eq.' + S.user.id, order: 'created_at.asc' });
   // Conteúdos enviados em PDF pelo administrador (entram na leitura das matérias)
+  // Ajustes de matérias por curso feitos pelo administrador (incluir/excluir)
+  S.cursosAjustes = await db.selectAll('cursos_ajustes', {}).catch(() => []);
   S.conteudos = await db.selectAll('conteudos', { ativo: 'eq.true', order: 'created_at.asc' }).catch(() => []);
   S.sessoes = await db.selectAll('sessoes_estudo', { user_id: 'eq.' + S.user.id, order: 'data.asc' }).catch(() => []);
   const ativos = S.editais.filter((e) => e.ativo !== false);

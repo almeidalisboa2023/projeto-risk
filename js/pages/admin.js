@@ -6,7 +6,8 @@ import { parseCSV, toCSV, baixar } from '../csv.js';
 import { recarregar } from '../app.js';
 import { TEMAS, detectarTema } from '../temas.js';
 import { ajustarDatas } from './edital-ferramentas.js';
-import { CURSOS, BANCAS, cursoInfo, bancaInfo } from '../cursos.js';
+import { CURSOS, BANCAS, cursoInfo, bancaInfo, materiasDoCurso } from '../cursos.js';
+import { materiasCursos } from './admin-cursos.js';
 import { MATERIAS_TODAS } from '../leitura/index.js';
 import { conteudoPdf } from './admin-pdf.js';
 
@@ -15,12 +16,14 @@ const COLS = 'codigo;modalidade;enunciado;alt_a;alt_b;alt_c;alt_d;alt_e;gabarito
 export async function render(el) {
   el.innerHTML = `<div class="mono up">Administrador</div><h1>Painel do administrador</h1>
     <div class="card" id="cad">${loading()}</div>
+    <div class="card" style="margin-top:16px" id="matcur"></div>
     <div class="card" style="margin-top:16px" id="pdfs"></div>
     <div class="card" style="margin-top:16px" id="migra"></div>
     <div class="card" style="margin-top:16px" id="alunos">${loading()}</div>
     <div class="card" style="margin-top:16px" id="reps"></div>`;
   reportes(el.querySelector('#reps'));
   const atual = async () => { await Promise.all([cadastros(el.querySelector('#cad'), atual), alunos(el.querySelector('#alunos'), atual)]); };
+  materiasCursos(el.querySelector('#matcur'));
   conteudoPdf(el.querySelector('#pdfs'));
   migracao(el.querySelector('#migra'));
   await atual();
@@ -177,7 +180,7 @@ function conferir(p, atual) {
   const listaMats = () => {
     const c = cursoInfo(curso);
     if (!c) return '<p class="muted">Escolha um curso para ver as matérias.</p>';
-    return c.materias.map((it) => {
+    return materiasDoCurso(c).map((it) => {
       const mat = MATERIAS_TODAS.find((x) => x.id === it.id);
       const nome = mat?.nome || it.id, off = fora.has(it.id);
       const n = mat ? (it.assuntos ? mat.assuntos.filter((a) => it.assuntos.includes(a.id)).length : mat.assuntos.length) : 0;
