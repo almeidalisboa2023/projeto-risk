@@ -137,6 +137,12 @@ export default {
 "Trata do detalhamento."
 ],
 "e": "Lei 4.320, art. 6º."
+},
+{
+"p": "O exercício financeiro coincide com o ano civil.",
+"c": true,
+"x": "É o art. 34 da Lei 4.320.",
+"e": "Lei 4.320, art. 34."
 }
 ]
 },
@@ -263,6 +269,18 @@ export default {
 "Não é a sequência legal."
 ],
 "e": "Lei 4.320, arts. 58 a 64."
+},
+{
+"p": "As transferências correntes são dotações para despesas às quais não corresponda contraprestação direta em bens ou serviços.",
+"c": true,
+"x": "É o art. 12, §2º, da Lei 4.320.",
+"e": "Lei 4.320, art. 12."
+},
+{
+"p": "Restos a pagar não processados são despesas já liquidadas.",
+"c": false,
+"x": "Os processados são os liquidados; os não processados ainda não foram liquidados.",
+"e": "Restos a pagar."
 }
 ]
 },
@@ -393,6 +411,12 @@ export default {
 "Não é a regra."
 ],
 "e": "LRF, art. 23."
+},
+{
+"p": "A LRF exige que a lei orçamentária anual contenha reserva de contingência.",
+"c": true,
+"x": "É o art. 5º, III, da LRF.",
+"e": "LRF, art. 5º."
 }
 ]
 },
@@ -518,6 +542,18 @@ export default {
 "Não se aplica."
 ],
 "e": "STF, Tema 642."
+},
+{
+"p": "Os Estados entregarão aos Municípios 25% dos recursos recebidos da União a título de IPI proporcional às exportações.",
+"c": true,
+"x": "CF, art. 159, §3º.",
+"e": "CF, art. 159, §3º."
+},
+{
+"p": "O controle interno é exercido apenas pelo Tribunal de Contas.",
+"c": false,
+"x": "O controle interno é mantido por cada Poder; o externo é do Legislativo com auxílio do TC (CF, arts. 70 e 74).",
+"e": "CF, art. 74."
 }
 ]
 }

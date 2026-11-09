@@ -114,6 +114,36 @@ export default {
 "Não é."
 ],
 "e": "LINDB, art. 1º, §1º."
+},
+{
+"p": "As correções a texto de lei já em vigor consideram-se lei nova.",
+"c": true,
+"x": "É o art. 1º, §4º, da LINDB.",
+"e": "LINDB, art. 1º, §4º."
+},
+{
+"p": "Segundo a LINDB, a lei revogada volta a vigorar automaticamente quando a lei revogadora perde a vigência.",
+"c": false,
+"x": "Não há repristinação automática (art. 2º, §3º).",
+"e": "LINDB, art. 2º, §3º."
+},
+{
+"p": "A lei posterior revoga a anterior quando seja com ela incompatível.",
+"c": true,
+"x": "É a revogação tácita (art. 2º, §1º).",
+"e": "LINDB, art. 2º, §1º."
+},
+{
+"p": "A obrigatoriedade da lei brasileira nos Estados estrangeiros, quando admitida, inicia-se 3 meses depois de oficialmente publicada.",
+"c": true,
+"x": "Art. 1º, §1º, da LINDB.",
+"e": "LINDB, art. 1º, §1º."
+},
+{
+"p": "O princípio da irretroatividade das leis protege o ato jurídico perfeito, o direito adquirido e a coisa julgada.",
+"c": true,
+"x": "CF, art. 5º, XXXVI, e LINDB, art. 6º.",
+"e": "LINDB, art. 6º."
 }
 ]
 },
@@ -214,6 +244,42 @@ export default {
 "Não é a regra."
 ],
 "e": "LINDB, art. 10, §2º."
+},
+{
+"p": "Aplicar-se-á a lei do país em que se constituírem as obrigações.",
+"c": true,
+"x": "É o art. 9º da LINDB.",
+"e": "LINDB, art. 9º."
+},
+{
+"p": "Os bens móveis que a pessoa trouxer ou se destinarem a transporte para outros lugares são regidos pela lei do país em que for domiciliado o proprietário.",
+"c": true,
+"x": "É o art. 8º, §1º, da LINDB.",
+"e": "LINDB, art. 8º, §1º."
+},
+{
+"p": "O casamento de estrangeiros pode celebrar-se perante autoridades diplomáticas ou consulares do país de nenhum dos nubentes.",
+"c": false,
+"x": "Pode celebrar-se perante autoridades diplomáticas ou consulares do país de ambos os nubentes (art. 7º, §2º).",
+"e": "LINDB, art. 7º, §2º."
+},
+{
+"p": "A obrigação resultante do contrato reputa-se constituída no lugar em que residir o proponente.",
+"c": true,
+"x": "É o art. 9º, §2º, da LINDB.",
+"e": "LINDB, art. 9º, §2º."
+},
+{
+"p": "A lei estrangeira que ofender a ordem pública brasileira pode ter eficácia no Brasil se houver tratado.",
+"c": false,
+"x": "Leis, atos e sentenças estrangeiros não terão eficácia no Brasil quando ofenderem a soberania nacional, a ordem pública e os bons costumes (art. 17).",
+"e": "LINDB, art. 17."
+},
+{
+"p": "O divórcio realizado no estrangeiro, se um ou ambos os cônjuges forem brasileiros, pode ser reconhecido no Brasil, nos termos da lei.",
+"c": true,
+"x": "Art. 7º, §6º, da LINDB; após o CPC/2015, o divórcio consensual simples dispensa homologação pelo STJ (CPC, art. 961, §5º).",
+"e": "CPC, art. 961, §5º."
 }
 ]
 },
@@ -313,6 +379,42 @@ export default {
 "Não é exigência."
 ],
 "e": "LINDB, art. 21."
+},
+{
+"p": "A decisão do processo administrativo poderá impor compensação por benefícios indevidos ou prejuízos anormais ou injustos resultantes do processo ou da conduta dos envolvidos.",
+"c": true,
+"x": "É o art. 27 da LINDB.",
+"e": "LINDB, art. 27."
+},
+{
+"p": "A edição de atos normativos por autoridade administrativa, salvo os de mera organização interna, poderá ser precedida de consulta pública.",
+"c": true,
+"x": "É o art. 29 da LINDB.",
+"e": "LINDB, art. 29."
+},
+{
+"p": "Segundo a LINDB, a motivação da decisão administrativa dispensa a análise de possíveis alternativas.",
+"c": false,
+"x": "A motivação deve demonstrar a necessidade e a adequação da medida, inclusive em face das possíveis alternativas (art. 20, parágrafo único).",
+"e": "LINDB, art. 20."
+},
+{
+"p": "Na aplicação de sanções, devem ser levadas em conta outras sanções da mesma natureza e relativas ao mesmo fato já aplicadas ao agente.",
+"c": true,
+"x": "É o art. 22, §3º, da LINDB (dosimetria).",
+"e": "LINDB, art. 22, §3º."
+},
+{
+"p": "O compromisso do art. 26 da LINDB não poderá conferir desoneração permanente de dever ou condicionamento de direito reconhecidos por orientação geral.",
+"c": true,
+"x": "É o art. 26, §1º, III, da LINDB.",
+"e": "LINDB, art. 26, §1º."
+},
+{
+"p": "O art. 28 da LINDB permite responsabilizar o parecerista por simples divergência de interpretação.",
+"c": false,
+"x": "Só por dolo ou erro grosseiro.",
+"e": "LINDB, art. 28."
 }
 ]
 }

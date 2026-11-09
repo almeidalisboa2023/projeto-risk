@@ -115,6 +115,30 @@ export default {
 "Não é."
 ],
 "e": "CPP, art. 160."
+},
+{
+"p": "O exame de corpo de delito pode ser feito em qualquer dia e a qualquer hora.",
+"c": true,
+"x": "É o art. 161 do CPP.",
+"e": "CPP, art. 161."
+},
+{
+"p": "O juiz é obrigado a aceitar o laudo pericial.",
+"c": false,
+"x": "Pode rejeitá-lo, no todo ou em parte (art. 182).",
+"e": "CPP, art. 182."
+},
+{
+"p": "Em caso de exumação para exame cadavérico, a autoridade providenciará para que, em dia e hora previamente marcados, se realize a diligência, da qual se lavrará auto circunstanciado.",
+"c": true,
+"x": "É o art. 163 do CPP.",
+"e": "CPP, art. 163."
+},
+{
+"p": "Os cadáveres serão sempre fotografados na posição em que forem encontrados.",
+"c": true,
+"x": "É o art. 164 do CPP.",
+"e": "CPP, art. 164."
 }
 ]
 },
@@ -233,6 +257,24 @@ export default {
 "Não houve morte."
 ],
 "e": "CP, art. 129, §2º."
+},
+{
+"p": "A equimose resulta do extravasamento de sangue que infiltra os tecidos, sem formar cavidade.",
+"c": true,
+"x": "Sua cor ajuda a datar a lesão.",
+"e": "Traumatologia."
+},
+{
+"p": "Os instrumentos perfurocortantes agem apenas por pressão em um ponto.",
+"c": false,
+"x": "Agem por ponta e gume (perfuram e cortam). Só por pressão em ponto age o perfurante.",
+"e": "Traumatologia."
+},
+{
+"p": "A lesão produzida por machado é classificada como cortocontusa.",
+"c": true,
+"x": "Ação de gume com peso.",
+"e": "Traumatologia."
 }
 ]
 },
@@ -339,6 +381,36 @@ export default {
 "Não é fase da putrefação."
 ],
 "e": "Putrefação."
+},
+{
+"p": "O resfriamento do cadáver (algor mortis) é um fenômeno abiótico consecutivo.",
+"c": true,
+"x": "Ajuda na estimativa do tempo de morte.",
+"e": "Tanatologia."
+},
+{
+"p": "A rigidez cadavérica começa pelos membros inferiores.",
+"c": false,
+"x": "Começa pela mandíbula e nuca (Nysten).",
+"e": "Tanatologia."
+},
+{
+"p": "A putrefação começa, em regra, pela mancha verde abdominal na fossa ilíaca direita.",
+"c": true,
+"x": "Fase cromática.",
+"e": "Putrefação."
+},
+{
+"p": "Os livores cadavéricos se fixam em cerca de 8 a 12 horas após a morte.",
+"c": true,
+"x": "Antes disso, mudam de lugar se o corpo é movido.",
+"e": "Livores."
+},
+{
+"p": "A esqueletização é a fase final da putrefação.",
+"c": true,
+"x": "Restam os ossos.",
+"e": "Putrefação."
 }
 ]
 },
@@ -437,6 +509,42 @@ export default {
 "Não é.",
 "É sinal de tiro encostado."
 ],
+"e": "Afogamento."
+},
+{
+"p": "As asfixias mecânicas incluem enforcamento, estrangulamento, esganadura, sufocação, afogamento e soterramento.",
+"c": true,
+"x": "São formas de impedir mecanicamente a respiração.",
+"e": "Asfixiologia."
+},
+{
+"p": "O soterramento é forma de asfixia por gases tóxicos.",
+"c": false,
+"x": "É asfixia mecânica por meio sólido ou pulverulento.",
+"e": "Asfixiologia."
+},
+{
+"p": "O enforcamento é, em regra, suicida, enquanto a esganadura é homicida.",
+"c": true,
+"x": "Ninguém consegue se esganar até a morte.",
+"e": "Asfixiologia."
+},
+{
+"p": "O confinamento é asfixia por permanência em ambiente fechado com redução progressiva de oxigênio.",
+"c": true,
+"x": "Ex.: pessoa presa em local hermético.",
+"e": "Asfixiologia."
+},
+{
+"p": "Na esganadura, é comum a fratura do osso hioide e da cartilagem tireoide.",
+"c": true,
+"x": "Pela compressão manual.",
+"e": "Asfixiologia."
+},
+{
+"p": "No afogamento, os achados mais característicos aparecem nos pulmões e vias aéreas.",
+"c": true,
+"x": "Cogumelo de espuma e manchas de Paltauf.",
 "e": "Afogamento."
 }
 ]
@@ -539,6 +647,42 @@ export default {
 "Não é tipo do sistema."
 ],
 "e": "Datiloscopia."
+},
+{
+"p": "A conjunção carnal pode ser comprovada pela presença de espermatozoides na cavidade vaginal.",
+"c": true,
+"x": "Também por gravidez ou rotura himenal recente.",
+"e": "Sexologia."
+},
+{
+"p": "A ausência de lesões genitais exclui a ocorrência de estupro.",
+"c": false,
+"x": "Não exclui: o estupro abrange outros atos libidinosos e pode não deixar lesões.",
+"e": "Sexologia."
+},
+{
+"p": "A identificação humana pode ser feita por datiloscopia, odontologia legal e DNA.",
+"c": true,
+"x": "Métodos científicos.",
+"e": "Identificação."
+},
+{
+"p": "A Lei 12.037/2009 regula a identificação criminal do civilmente identificado.",
+"c": true,
+"x": "Inclui a coleta de material biológico, em certos casos.",
+"e": "Lei 12.037/2009."
+},
+{
+"p": "A odontologia legal é útil na identificação de corpos carbonizados.",
+"c": true,
+"x": "Dentes resistem ao calor.",
+"e": "Odontologia legal."
+},
+{
+"p": "O reconhecimento de pessoas é ato de prova regulado no CPP, distinto da identificação técnica.",
+"c": true,
+"x": "CPP, art. 226.",
+"e": "CPP, art. 226."
 }
 ]
 },
@@ -643,6 +787,36 @@ export default {
 "Não exclui a ilicitude."
 ],
 "e": "CP, art. 28, §2º."
+},
+{
+"p": "O semi-imputável pode ter a pena reduzida de 1/3 a 2/3.",
+"c": true,
+"x": "CP, art. 26, parágrafo único.",
+"e": "CP, art. 26."
+},
+{
+"p": "A embriaguez culposa completa isenta de pena.",
+"c": false,
+"x": "Só a decorrente de caso fortuito ou força maior.",
+"e": "CP, art. 28."
+},
+{
+"p": "A embriaguez patológica (doentia) pode ser tratada como doença mental para fins de inimputabilidade.",
+"c": true,
+"x": "Aplica-se o art. 26 do CP.",
+"e": "CP, art. 26."
+},
+{
+"p": "O exame toxicológico de larga janela de detecção é exigido de motoristas profissionais das categorias C, D e E.",
+"c": true,
+"x": "CTB, art. 148-A.",
+"e": "CTB, art. 148-A."
+},
+{
+"p": "A perícia psiquiátrica no incidente de insanidade mental deve ser concluída em até 45 dias, salvo necessidade de prazo maior.",
+"c": true,
+"x": "CPP, art. 150, §1º.",
+"e": "CPP, art. 150."
 }
 ]
 }

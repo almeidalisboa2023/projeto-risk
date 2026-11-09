@@ -128,6 +128,18 @@ export default {
 "Não é o mínimo."
 ],
 "e": "LC 141, art. 7º."
+},
+{
+"p": "Compete ao poder público organizar a seguridade social com caráter democrático e descentralizado, mediante gestão quadripartite.",
+"c": true,
+"x": "CF, art. 194, parágrafo único, VII.",
+"e": "CF, art. 194."
+},
+{
+"p": "As contribuições sociais sobre a folha incidem somente sobre os empregados com carteira assinada.",
+"c": false,
+"x": "Incidem sobre a folha e demais rendimentos do trabalho pagos a qualquer pessoa física que preste serviço, mesmo sem vínculo (CF, art. 195, I, a).",
+"e": "CF, art. 195."
 }
 ]
 },
@@ -251,6 +263,18 @@ export default {
 "Não é a regra."
 ],
 "e": "CF, art. 201, §7º, II."
+},
+{
+"p": "O salário-família é devido ao segurado de baixa renda na proporção do número de filhos até 14 anos.",
+"c": true,
+"x": "CF, art. 7º, XII, e Lei 8.213, art. 65.",
+"e": "Lei 8.213, art. 65."
+},
+{
+"p": "O auxílio-reclusão é devido a dependentes de qualquer segurado preso, independentemente da renda.",
+"c": false,
+"x": "É devido aos dependentes do segurado de baixa renda, preso em regime fechado (CF, art. 201, IV; Lei 8.213, art. 80).",
+"e": "Lei 8.213, art. 80."
 }
 ]
 },
@@ -374,6 +398,18 @@ export default {
 "Não é a regra."
 ],
 "e": "LOM de Belo Vale, art. 69."
+},
+{
+"p": "O abono de permanência é concedido ao servidor que, tendo completado os requisitos para aposentadoria voluntária, opte por permanecer em atividade.",
+"c": true,
+"x": "CF, art. 40, §19.",
+"e": "CF, art. 40, §19."
+},
+{
+"p": "A aposentadoria do servidor por incapacidade permanente exige a impossibilidade de readaptação.",
+"c": true,
+"x": "CF, art. 40, §1º, I.",
+"e": "CF, art. 40, §1º."
 }
 ]
 }

@@ -107,6 +107,42 @@ export default {
 "Não é."
 ],
 "e": "Coesão."
+},
+{
+"p": "Em texto dissertativo, cada parágrafo de desenvolvimento deve tratar de uma ideia principal.",
+"c": true,
+"x": "Facilita a organização.",
+"e": "Estrutura."
+},
+{
+"p": "Na introdução, é recomendado apresentar todos os argumentos detalhadamente.",
+"c": false,
+"x": "A introdução apresenta tema e tese; o detalhamento é no desenvolvimento.",
+"e": "Estrutura."
+},
+{
+"p": "Usar a primeira pessoa do singular deve ser evitado em redações de concurso, salvo se o edital permitir.",
+"c": true,
+"x": "Preferem-se a impessoalidade e a terceira pessoa.",
+"e": "Estilo."
+},
+{
+"p": "O planejamento do texto antes da escrita reduz desvios de tema e repetições.",
+"c": true,
+"x": "Faça um esquema com tese e argumentos.",
+"e": "Planejamento."
+},
+{
+"p": "Na prova discursiva, a letra deve ser legível, sob pena de prejudicar a correção.",
+"c": true,
+"x": "Texto ilegível pode ser zerado.",
+"e": "Regras de edital."
+},
+{
+"p": "Frases muito longas podem prejudicar a clareza do texto.",
+"c": true,
+"x": "Prefira períodos de tamanho médio.",
+"e": "Clareza."
 }
 ]
 },
@@ -199,6 +235,62 @@ export default {
 "O conteúdo também é avaliado."
 ],
 "e": "Critérios."
+},
+{
+"p": "Na Cebraspe, o número de erros é dividido pelo número de linhas efetivamente escritas.",
+"c": true,
+"x": "Fórmula NPD = NC − 6 × NE / TL (modelo comum).",
+"e": "Cebraspe."
+},
+{
+"p": "Linhas em branco entre parágrafos contam como linhas escritas.",
+"c": false,
+"x": "Contam apenas as linhas efetivamente escritas.",
+"e": "Regras de edital."
+},
+{
+"p": "O uso de corretivo líquido costuma ser proibido nas provas discursivas.",
+"c": true,
+"x": "Erros devem ser riscados com um traço simples, conforme o edital.",
+"e": "Regras de edital."
+},
+{
+"p": "A FGV costuma avaliar separadamente o conteúdo jurídico e a expressão em língua portuguesa.",
+"c": true,
+"x": "Nas carreiras jurídicas, cobra fundamentação precisa.",
+"e": "FGV."
+},
+{
+"p": "A banca pode atribuir nota zero ao texto com identificação do candidato fora do local destinado.",
+"c": true,
+"x": "Para preservar o anonimato.",
+"e": "Regras de edital."
+},
+{
+"p": "Na correção, a adequação ao tipo textual pedido também é avaliada.",
+"c": true,
+"x": "Pedido dissertativo exige dissertação, não narração.",
+"e": "Critérios."
+},
+{
+"p": "Ao errar uma palavra na folha definitiva da discursiva, o candidato deve, em regra,",
+"alts": [
+"usar corretivo",
+"passar um traço simples sobre a palavra e escrever a correta em seguida",
+"apagar com borracha",
+"pular a linha",
+"escrever por cima"
+],
+"r": 1,
+"x": "Siga sempre a regra do edital.",
+"n": [
+"Em regra, proibido.",
+"Correta.",
+"Folha é preenchida a caneta.",
+"Não corrige.",
+"Fica ilegível."
+],
+"e": "Regras de edital."
 }
 ]
 },
@@ -296,6 +388,42 @@ export default {
 "Não é."
 ],
 "e": "Conectivos."
+},
+{
+"p": "O pronome “cujo” indica posse e não admite artigo depois dele.",
+"c": true,
+"x": "“O agente cujo carro...” e não “cujo o carro”.",
+"e": "Pronome relativo."
+},
+{
+"p": "“Afim” e “a fim” têm o mesmo sentido.",
+"c": false,
+"x": "“Afim” = semelhante; “a fim de” = finalidade.",
+"e": "Grafia."
+},
+{
+"p": "“Mas” é conjunção adversativa; “mais” é advérbio de intensidade.",
+"c": true,
+"x": "Erro comum.",
+"e": "Grafia."
+},
+{
+"p": "A expressão “a nível de” deve ser evitada em textos formais.",
+"c": true,
+"x": "Prefira “em nível de” ou reformule.",
+"e": "Norma-padrão."
+},
+{
+"p": "“Onde” deve ser empregado apenas para indicar lugar.",
+"c": true,
+"x": "Para outros casos, use “em que”, “no qual”.",
+"e": "Pronome relativo."
+},
+{
+"p": "O uso de “porque” junto se dá em respostas e explicações; “por que” separado, em perguntas.",
+"c": true,
+"x": "“Por que a fiscalização aumentou? Porque houve muitos acidentes.”",
+"e": "Porquês."
 }
 ]
 },
@@ -382,6 +510,54 @@ export default {
 "Não é pertinente."
 ],
 "e": "Repertório."
+},
+{
+"p": "Ao tratar de violência no trânsito, é pertinente citar o CTB e a Lei Seca como repertório.",
+"c": true,
+"x": "Relaciona o tema à legislação.",
+"e": "Repertório."
+},
+{
+"p": "Na redação de concurso, citar dados inventados com números precisos fortalece o texto.",
+"c": false,
+"x": "Dados falsos comprometem a credibilidade.",
+"e": "Repertório."
+},
+{
+"p": "Uma boa conclusão pode propor soluções viáveis relacionadas aos argumentos desenvolvidos.",
+"c": true,
+"x": "Coerência entre desenvolvimento e conclusão.",
+"e": "Conclusão."
+},
+{
+"p": "Temas de segurança pública permitem citar o art. 144 da CF e a Lei 13.675/2018 (SUSP).",
+"c": true,
+"x": "Repertório técnico.",
+"e": "Repertório."
+},
+{
+"p": "O uso de câmeras corporais pode ser abordado sob os aspectos de transparência, proteção do agente e produção de provas.",
+"c": true,
+"x": "Exemplo de argumentação equilibrada.",
+"e": "Argumentação."
+},
+{
+"p": "Abordar o tema com equilíbrio, reconhecendo argumentos contrários, mostra maturidade argumentativa.",
+"c": true,
+"x": "Desde que a tese continue clara.",
+"e": "Argumentação."
+},
+{
+"p": "Citar a Constituição Federal, quando pertinente, fortalece a fundamentação do argumento.",
+"c": true,
+"x": "Mostra conhecimento técnico.",
+"e": "Repertório."
+},
+{
+"p": "Na redação, a tese deve ser coerente com os argumentos e com a conclusão.",
+"c": true,
+"x": "É a coerência global do texto.",
+"e": "Coerência."
 }
 ]
 },
@@ -466,6 +642,68 @@ export default {
 "Prejudica a expressão."
 ],
 "e": "Técnica de resposta."
+},
+{
+"p": "Na representação por prisão temporária, o Delegado deve indicar que a medida é imprescindível para as investigações e que há fundadas razões de autoria em crime do rol legal.",
+"c": true,
+"x": "Lei 7.960/1989, art. 1º.",
+"e": "Lei 7.960/1989."
+},
+{
+"p": "A prisão temporária, nos crimes comuns, tem prazo de 5 dias, prorrogável por igual período.",
+"c": true,
+"x": "Lei 7.960, art. 2º; nos hediondos, 30 + 30.",
+"e": "Lei 7.960, art. 2º."
+},
+{
+"p": "O Delegado de Polícia pode decretar a prisão preventiva em caso de urgência.",
+"c": false,
+"x": "Só o juiz decreta; o Delegado representa (CPP, art. 311).",
+"e": "CPP, art. 311."
+},
+{
+"p": "Na peça, o endereçamento deve indicar o juízo competente.",
+"c": true,
+"x": "Ex.: “Excelentíssimo Senhor Juiz de Direito da ... Vara Criminal da Comarca de ...”.",
+"e": "Peça prática."
+},
+{
+"p": "Na questão discursiva, a resposta deve enfrentar todos os pontos pedidos no comando.",
+"c": true,
+"x": "Cada ponto vale nota.",
+"e": "Técnica de resposta."
+},
+{
+"p": "Citar súmula ou tese de repercussão geral aplicável valoriza a resposta jurídica.",
+"c": true,
+"x": "Mostra domínio da jurisprudência.",
+"e": "Técnica de resposta."
+},
+{
+"p": "Em representação por medida cautelar, os fatos devem ser narrados de forma objetiva e ligados aos requisitos legais.",
+"c": true,
+"x": "Narrativa + fundamento + pedido.",
+"e": "Peça prática."
+},
+{
+"p": "A prisão temporária pode ser decretada",
+"alts": [
+"de ofício pelo juiz",
+"mediante representação da autoridade policial ou requerimento do MP",
+"pelo Delegado, por portaria",
+"pelo MP, diretamente",
+"pela vítima"
+],
+"r": 1,
+"x": "Lei 7.960, art. 2º.",
+"n": [
+"Não cabe de ofício.",
+"Correta.",
+"Delegado não decreta.",
+"O MP requer.",
+"Não."
+],
+"e": "Lei 7.960, art. 2º."
 }
 ]
 }

@@ -761,6 +761,12 @@ export default {
 "Trata da quantidade."
 ],
 "e": "Big Data."
+},
+{
+"p": "Em SQL, a cláusula WHERE filtra os registros retornados por uma consulta.",
+"c": true,
+"x": "Ex.: SELECT * FROM multas WHERE valor > 100.",
+"e": "SQL."
 }
 ]
 }

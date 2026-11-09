@@ -115,6 +115,30 @@ export default {
 "Correta."
 ],
 "e": "Bonavides."
+},
+{
+"p": "A universalidade significa que os direitos humanos se estendem a todas as pessoas, pela simples condição humana.",
+"c": true,
+"x": "É uma das características centrais.",
+"e": "Características."
+},
+{
+"p": "Os direitos humanos podem ser renunciados pelo titular de forma definitiva.",
+"c": false,
+"x": "São irrenunciáveis; o titular pode deixar de exercê-los em certos casos, mas não renunciar.",
+"e": "Características."
+},
+{
+"p": "A dignidade da pessoa humana é o valor-fonte dos direitos humanos.",
+"c": true,
+"x": "Fundamento da República (CF, art. 1º, III).",
+"e": "Dignidade."
+},
+{
+"p": "Os direitos fundamentais têm dimensão subjetiva (posições jurídicas do titular) e objetiva (valores que orientam todo o ordenamento).",
+"c": true,
+"x": "Doutrina da dupla dimensão.",
+"e": "Teoria dos direitos fundamentais."
 }
 ]
 },
@@ -225,6 +249,30 @@ export default {
 "Não é tema da lei."
 ],
 "e": "Lei 13.060/2014."
+},
+{
+"p": "A Assembleia Geral da ONU aprovou a Declaração Universal dos Direitos Humanos em 10 de dezembro de 1948.",
+"c": true,
+"x": "Por isso o Dia Internacional dos Direitos Humanos é 10 de dezembro.",
+"e": "DUDH."
+},
+{
+"p": "O Conselho de Direitos Humanos da ONU é composto por todos os Estados-membros.",
+"c": false,
+"x": "É composto por 47 Estados eleitos pela Assembleia Geral.",
+"e": "ONU."
+},
+{
+"p": "A Declaração Universal prevê que ninguém será arbitrariamente preso, detido ou exilado.",
+"c": true,
+"x": "É o art. 9º da DUDH.",
+"e": "DUDH, art. 9º."
+},
+{
+"p": "Os Princípios Básicos da ONU sobre o Uso da Força preveem que os governos devem punir como crime o uso arbitrário ou abusivo da força pelos agentes.",
+"c": true,
+"x": "É o Princípio 7.",
+"e": "Princípios Básicos da ONU."
 }
 ]
 },
@@ -341,6 +389,24 @@ export default {
 "Não foi determinado."
 ],
 "e": "Corte IDH, Favela Nova Brasília."
+},
+{
+"p": "A Comissão Interamericana pode receber petições de qualquer pessoa, grupo de pessoas ou entidade não governamental legalmente reconhecida.",
+"c": true,
+"x": "É o art. 44 da CADH.",
+"e": "CADH, art. 44."
+},
+{
+"p": "A petição à Comissão Interamericana dispensa, em qualquer caso, o esgotamento dos recursos internos.",
+"c": false,
+"x": "O esgotamento é a regra, com exceções do art. 46.2 (inexistência do devido processo, impedimento de acesso, demora injustificada).",
+"e": "CADH, art. 46."
+},
+{
+"p": "A Convenção Americana veda a aplicação da pena de morte a delitos políticos.",
+"c": true,
+"x": "É o art. 4.4 da CADH.",
+"e": "CADH, art. 4.4."
 }
 ]
 },
@@ -444,6 +510,36 @@ export default {
 "Quem suscita."
 ],
 "e": "CF, art. 109, §5º."
+},
+{
+"p": "A Constituição determina que o Brasil propugnará pela formação de um tribunal internacional dos direitos humanos.",
+"c": true,
+"x": "É o art. 7º do ADCT.",
+"e": "ADCT, art. 7º."
+},
+{
+"p": "As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.",
+"c": true,
+"x": "CF, art. 5º, §1º.",
+"e": "CF, art. 5º, §1º."
+},
+{
+"p": "O STF entende que todos os tratados de direitos humanos, independentemente do rito, têm status de emenda constitucional.",
+"c": false,
+"x": "Só os aprovados pelo rito do §3º do art. 5º. Os demais têm status supralegal (RE 466.343).",
+"e": "STF, RE 466.343."
+},
+{
+"p": "A Constituição prevê que lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais.",
+"c": true,
+"x": "É o art. 5º, XLI.",
+"e": "CF, art. 5º, XLI."
+},
+{
+"p": "A prática da tortura é crime inafiançável e insuscetível de graça ou anistia.",
+"c": true,
+"x": "CF, art. 5º, XLIII.",
+"e": "CF, art. 5º, XLIII."
 }
 ]
 },
@@ -550,6 +646,36 @@ export default {
 "Não é."
 ],
 "e": "Lei 10.741, art. 3º, §2º."
+},
+{
+"p": "É dever de todos prevenir a ameaça ou violação aos direitos da pessoa idosa.",
+"c": true,
+"x": "É o art. 4º, §1º, da Lei 10.741.",
+"e": "Lei 10.741, art. 4º."
+},
+{
+"p": "O Estatuto da Pessoa com Deficiência permite a cobrança de valores adicionais em matrículas escolares de alunos com deficiência.",
+"c": false,
+"x": "É vedada a cobrança de valores adicionais (art. 28, §1º, da Lei 13.146).",
+"e": "Lei 13.146, art. 28."
+},
+{
+"p": "A Lei Brasileira de Inclusão considera discriminação a recusa de adaptações razoáveis e de tecnologias assistivas.",
+"c": true,
+"x": "É o art. 4º, §1º, da Lei 13.146.",
+"e": "Lei 13.146, art. 4º."
+},
+{
+"p": "A Lei 9.474/1997 considera refugiado quem, devido a fundados temores de perseguição por raça, religião, nacionalidade, grupo social ou opiniões políticas, encontre-se fora de seu país.",
+"c": true,
+"x": "Também quem, por grave e generalizada violação de direitos humanos, é obrigado a deixar seu país.",
+"e": "Lei 9.474, art. 1º."
+},
+{
+"p": "O Conselho Nacional para os Refugiados (CONARE) é o órgão que analisa os pedidos de refúgio no Brasil.",
+"c": true,
+"x": "Lei 9.474, art. 11.",
+"e": "Lei 9.474."
 }
 ]
 }

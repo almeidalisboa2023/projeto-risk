@@ -130,6 +130,56 @@ export default {
 "Trata do equilíbrio entre economia e meio ambiente."
 ],
 "e": "Lei 6.938, art. 4º, VII."
+},
+{
+"p": "É competência comum dos entes federativos preservar as florestas, a fauna e a flora.",
+"c": true,
+"x": "É o art. 23, VII, da CF.",
+"e": "CF, art. 23, VII."
+},
+{
+"p": "Os Estados não podem legislar sobre proteção do meio ambiente, por ser matéria privativa da União.",
+"c": false,
+"x": "É competência concorrente da União, Estados e DF (art. 24, VI), e o Município legisla no interesse local.",
+"e": "CF, art. 24, VI."
+},
+{
+"p": "O meio ambiente ecologicamente equilibrado é bem de uso comum do povo.",
+"c": true,
+"x": "É o art. 225, caput, da CF.",
+"e": "CF, art. 225."
+},
+{
+"p": "O princípio da prevenção se aplica quando os riscos da atividade já são conhecidos.",
+"c": true,
+"x": "Na incerteza científica aplica-se a precaução.",
+"e": "Princípios ambientais."
+},
+{
+"p": "Segundo o STJ, a responsabilidade por danos ambientais é objetiva e solidária entre todos os que contribuíram para o dano.",
+"c": true,
+"x": "Fundamento: Lei 6.938, art. 14, §1º, e art. 3º, IV (poluidor direto ou indireto).",
+"e": "STJ."
+},
+{
+"p": "São patrimônio nacional, segundo o art. 225, §4º, da CF, entre outros,",
+"alts": [
+"o Cerrado e a Caatinga",
+"a Mata Atlântica e o Pantanal Mato-Grossense",
+"os Pampas",
+"o Cerrado e o Pantanal",
+"a Caatinga e a Zona Costeira"
+],
+"r": 1,
+"x": "Floresta Amazônica, Mata Atlântica, Serra do Mar, Pantanal Mato-Grossense e Zona Costeira.",
+"n": [
+"Não estão no rol.",
+"Correta.",
+"Não estão no rol.",
+"O Cerrado não está.",
+"A Caatinga não está."
+],
+"e": "CF, art. 225, §4º."
 }
 ]
 },
@@ -255,6 +305,56 @@ export default {
 "Prevalece a do licenciador."
 ],
 "e": "LC 140, art. 17."
+},
+{
+"p": "Segundo a Lei 6.938/1981, poluição é a degradação da qualidade ambiental resultante de atividades que, direta ou indiretamente, prejudiquem a saúde, a segurança e o bem-estar da população.",
+"c": true,
+"x": "É o art. 3º, III, da Lei 6.938.",
+"e": "Lei 6.938, art. 3º."
+},
+{
+"p": "A licença prévia autoriza o início da operação do empreendimento.",
+"c": false,
+"x": "A LP aprova localização e concepção. Quem autoriza a operação é a LO.",
+"e": "Res. CONAMA 237/1997."
+},
+{
+"p": "O órgão ambiental competente pode estabelecer prazos de análise diferenciados para cada modalidade de licença, observado o prazo máximo de 6 meses, ressalvados os casos com EIA/RIMA ou audiência pública, em que o prazo é de até 12 meses.",
+"c": true,
+"x": "É o art. 14 da Res. CONAMA 237/1997.",
+"e": "Res. CONAMA 237, art. 14."
+},
+{
+"p": "O IBAMA é o órgão executor federal da Política Nacional do Meio Ambiente.",
+"c": true,
+"x": "Junto com o ICMBio (art. 6º, IV, da Lei 6.938).",
+"e": "Lei 6.938, art. 6º."
+},
+{
+"p": "Segundo a LC 140/2011, compete à União licenciar empreendimentos localizados no mar territorial e na zona econômica exclusiva.",
+"c": true,
+"x": "É o art. 7º, XIV, b, da LC 140.",
+"e": "LC 140, art. 7º."
+},
+{
+"p": "Integram os instrumentos da Política Nacional do Meio Ambiente, segundo a Lei 6.938,",
+"alts": [
+"apenas o licenciamento",
+"o zoneamento ambiental, a avaliação de impactos e o licenciamento",
+"apenas multas",
+"o tombamento e a desapropriação",
+"o IPTU progressivo"
+],
+"r": 1,
+"x": "Art. 9º da Lei 6.938.",
+"n": [
+"Há outros.",
+"Correta.",
+"Não é só.",
+"São de outra área.",
+"É instrumento urbanístico."
+],
+"e": "Lei 6.938, art. 9º."
 }
 ]
 },
@@ -381,6 +481,56 @@ export default {
 "Exige consulta."
 ],
 "e": "Lei 9.985, art. 22, §6º."
+},
+{
+"p": "A reserva legal deve ser registrada no Cadastro Ambiental Rural (CAR).",
+"c": true,
+"x": "É o art. 18 da Lei 12.651.",
+"e": "Lei 12.651, art. 18."
+},
+{
+"p": "A cobrança pelo uso de recursos hídricos é proibida pela Lei 9.433/1997.",
+"c": false,
+"x": "A cobrança é instrumento da Política Nacional de Recursos Hídricos (art. 5º, IV).",
+"e": "Lei 9.433, art. 5º."
+},
+{
+"p": "A gestão dos recursos hídricos deve sempre proporcionar o uso múltiplo das águas.",
+"c": true,
+"x": "É o art. 1º, IV, da Lei 9.433.",
+"e": "Lei 9.433, art. 1º."
+},
+{
+"p": "O parque nacional tem como objetivo a preservação de ecossistemas de grande relevância ecológica, possibilitando pesquisa, educação ambiental e turismo ecológico.",
+"c": true,
+"x": "É o art. 11 da Lei 9.985.",
+"e": "Lei 9.985, art. 11."
+},
+{
+"p": "A criação de unidade de conservação deve ser precedida de estudos técnicos e de consulta pública, salvo estação ecológica e reserva biológica, em que a consulta não é obrigatória.",
+"c": true,
+"x": "É o art. 22, §§2º e 4º, da Lei 9.985.",
+"e": "Lei 9.985, art. 22."
+},
+{
+"p": "A unidade de conservação de uso sustentável em que populações tradicionais vivem do extrativismo é a",
+"alts": [
+"estação ecológica",
+"reserva extrativista",
+"reserva biológica",
+"monumento natural",
+"parque nacional"
+],
+"r": 1,
+"x": "Art. 18 da Lei 9.985.",
+"n": [
+"Proteção integral.",
+"Correta.",
+"Proteção integral.",
+"Proteção integral.",
+"Proteção integral."
+],
+"e": "Lei 9.985, art. 18."
 }
 ]
 },

@@ -136,6 +136,12 @@ export default {
 "Não é."
 ],
 "e": "CPM, art. 6º."
+},
+{
+"p": "Aplica-se o CPM aos crimes praticados em tempo de guerra, com as regras especiais do Livro II da Parte Especial.",
+"c": true,
+"x": "O CPM tem crimes militares em tempo de paz (art. 9º) e em tempo de guerra (art. 10).",
+"e": "CPM, art. 10."
 }
 ]
 },
@@ -259,6 +265,18 @@ export default {
 "Não é o caso."
 ],
 "e": "CPM, art. 45."
+},
+{
+"p": "Diz-se o crime culposo quando o agente, deixando de empregar a cautela, atenção ou diligência ordinária, ou especial, a que estava obrigado, não prevê o resultado que podia prever.",
+"c": true,
+"x": "É o art. 33, II, do CPM.",
+"e": "CPM, art. 33, II."
+},
+{
+"p": "O CPM não prevê estrito cumprimento do dever legal como excludente de ilicitude.",
+"c": false,
+"x": "Está no art. 42, III, do CPM.",
+"e": "CPM, art. 42."
 }
 ]
 },
@@ -355,6 +373,42 @@ export default {
 "Há previsão expressa.",
 "Não é o critério."
 ],
+"e": "CPM, art. 53, §5º."
+},
+{
+"p": "No CPM, a pena é agravada para quem promove ou organiza a cooperação no crime ou dirige a atividade dos demais agentes.",
+"c": true,
+"x": "É o art. 53, §2º, I, do CPM.",
+"e": "CPM, art. 53, §2º."
+},
+{
+"p": "No CPM, a pena é agravada para quem executa o crime, ou nele participa, mediante paga ou promessa de recompensa.",
+"c": true,
+"x": "É o art. 53, §2º, IV, do CPM.",
+"e": "CPM, art. 53, §2º."
+},
+{
+"p": "O CPM adotou a teoria pluralista para o concurso de agentes, prevendo um crime distinto para cada participante.",
+"c": false,
+"x": "O CPM adota a teoria monista (art. 53, caput).",
+"e": "CPM, art. 53."
+},
+{
+"p": "As circunstâncias de caráter pessoal só se comunicam aos coautores quando elementares do crime.",
+"c": true,
+"x": "Art. 53, §1º, do CPM.",
+"e": "CPM, art. 53, §1º."
+},
+{
+"p": "Os crimes de motim e revolta são exemplos de crimes de autoria coletiva necessária.",
+"c": true,
+"x": "Exigem pluralidade de agentes, por isso o CPM fala em cabeças.",
+"e": "CPM, arts. 53 e 149."
+},
+{
+"p": "O inferior que exerce função de oficial nunca é considerado cabeça.",
+"c": false,
+"x": "O art. 53, §5º, também considera cabeças os inferiores que exercem função de oficial.",
 "e": "CPM, art. 53, §5º."
 }
 ]
@@ -469,6 +523,30 @@ export default {
 "Não é."
 ],
 "e": "CPM, art. 149."
+},
+{
+"p": "O crime de deserção só pode ser praticado por oficial.",
+"c": false,
+"x": "Pode ser praticado por qualquer militar (oficial ou praça), com pena agravada para o oficial.",
+"e": "CPM, art. 187."
+},
+{
+"p": "Abandonar o posto, sem ordem superior, antes de terminar o serviço, é crime ainda que o militar retorne pouco depois.",
+"c": true,
+"x": "O art. 195 se consuma com o abandono.",
+"e": "CPM, art. 195."
+},
+{
+"p": "A pena de motim é agravada para os cabeças.",
+"c": true,
+"x": "Art. 149, parágrafo único, do CPM: aumento de 1/3.",
+"e": "CPM, art. 149."
+},
+{
+"p": "Praticar violência contra militar de serviço é crime previsto no CPM.",
+"c": true,
+"x": "É o art. 158 do CPM.",
+"e": "CPM, art. 158."
 }
 ]
 },
@@ -581,6 +659,30 @@ export default {
 "Exige fraude."
 ],
 "e": "CPM, art. 303."
+},
+{
+"p": "A corrupção ativa no CPM consiste em dar, oferecer ou prometer dinheiro ou vantagem indevida para a prática, omissão ou retardamento de ato funcional.",
+"c": true,
+"x": "É o art. 309 do CPM.",
+"e": "CPM, art. 309."
+},
+{
+"p": "O CPM não prevê o crime de prevaricação.",
+"c": false,
+"x": "Está no art. 319 do CPM.",
+"e": "CPM, art. 319."
+},
+{
+"p": "No CPM, a lesão corporal é considerada grave quando resulta incapacidade para as ocupações habituais por mais de 30 dias.",
+"c": true,
+"x": "É o art. 209, §1º, do CPM, semelhante ao CP.",
+"e": "CPM, art. 209."
+},
+{
+"p": "Inobservar lei, regulamento ou instrução, dando causa direta à prática de ato prejudicial à administração militar, é crime previsto no CPM.",
+"c": true,
+"x": "É o art. 324 do CPM.",
+"e": "CPM, art. 324."
 }
 ]
 }

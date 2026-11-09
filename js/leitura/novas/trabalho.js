@@ -407,6 +407,18 @@ export default {
 "A vedação é constitucional."
 ],
 "e": "CF, art. 142, §3º, IV."
+},
+{
+"p": "A convenção coletiva tem eficácia normativa para toda a categoria representada, sindicalizados ou não.",
+"c": true,
+"x": "CLT, art. 611.",
+"e": "CLT, art. 611."
+},
+{
+"p": "A greve abusiva pode ser declarada pela Justiça do Trabalho.",
+"c": true,
+"x": "Lei 7.783, art. 14.",
+"e": "Lei 7.783, art. 14."
 }
 ]
 },
@@ -523,6 +535,24 @@ export default {
 "Não existe."
 ],
 "e": "Súmula 363 do TST."
+},
+{
+"p": "Empregado público de empresa estatal sujeita-se ao teto remuneratório se a empresa receber recursos do ente para despesas de pessoal ou custeio.",
+"c": true,
+"x": "CF, art. 37, §9º.",
+"e": "CF, art. 37, §9º."
+},
+{
+"p": "A contratação temporária do art. 37, IX, dispensa lei específica do ente.",
+"c": false,
+"x": "Depende de lei que estabeleça os casos (art. 37, IX).",
+"e": "CF, art. 37, IX."
+},
+{
+"p": "A acumulação remunerada de emprego público com cargo público só é permitida nas hipóteses constitucionais.",
+"c": true,
+"x": "CF, art. 37, XVI e XVII.",
+"e": "CF, art. 37, XVII."
 }
 ]
 },
@@ -639,6 +669,24 @@ export default {
 "Não é a consequência."
 ],
 "e": "CLT, art. 844."
+},
+{
+"p": "No processo do trabalho, os embargos de declaração devem ser opostos em 5 dias.",
+"c": true,
+"x": "CLT, art. 897-A.",
+"e": "CLT, art. 897-A."
+},
+{
+"p": "A Justiça do Trabalho julga as ações de servidor estatutário contra o Município.",
+"c": false,
+"x": "Compete à Justiça comum (ADI 3395).",
+"e": "STF, ADI 3395."
+},
+{
+"p": "O recurso ordinário é cabível contra as decisões definitivas ou terminativas das Varas do Trabalho.",
+"c": true,
+"x": "CLT, art. 895.",
+"e": "CLT, art. 895."
 }
 ]
 }

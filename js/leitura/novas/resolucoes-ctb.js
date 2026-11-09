@@ -110,6 +110,36 @@ export default {
 "Não é atribuição do CETRAN."
 ],
 "e": "CTB, art. 14."
+},
+{
+"p": "A JARI é responsável pelo julgamento dos recursos interpostos contra penalidades aplicadas pelos órgãos executivos de trânsito.",
+"c": true,
+"x": "CTB, art. 17.",
+"e": "CTB, art. 17."
+},
+{
+"p": "Junto a cada órgão executivo ou rodoviário de trânsito funcionarão JARI.",
+"c": true,
+"x": "CTB, art. 16.",
+"e": "CTB, art. 16."
+},
+{
+"p": "O CONTRANDIFE é o órgão máximo normativo do Sistema Nacional de Trânsito.",
+"c": false,
+"x": "O CONTRANDIFE é o conselho do Distrito Federal. O órgão máximo normativo é o CONTRAN.",
+"e": "CTB, art. 7º."
+},
+{
+"p": "Compete à PRF aplicar e arrecadar as multas impostas por infrações de trânsito nas rodovias federais.",
+"c": true,
+"x": "É o art. 20, III, do CTB.",
+"e": "CTB, art. 20."
+},
+{
+"p": "Compete aos órgãos executivos de trânsito dos Municípios executar a fiscalização de trânsito, autuar e aplicar as medidas administrativas cabíveis por infrações de circulação, estacionamento e parada.",
+"c": true,
+"x": "É o art. 24, VI, do CTB.",
+"e": "CTB, art. 24."
 }
 ]
 },
@@ -227,6 +257,24 @@ export default {
 "Não é o prazo."
 ],
 "e": "CTB, art. 165."
+},
+{
+"p": "O condutor envolvido em sinistro de trânsito ou alvo de fiscalização pode ser submetido a teste, exame clínico ou perícia que permita certificar a influência de álcool.",
+"c": true,
+"x": "É o art. 277 do CTB.",
+"e": "CTB, art. 277."
+},
+{
+"p": "O condutor flagrado sob influência de álcool pode prosseguir viagem, desde que pague a multa na hora.",
+"c": false,
+"x": "O veículo é retido até a apresentação de condutor habilitado, e o documento de habilitação é recolhido (art. 165).",
+"e": "CTB, art. 165."
+},
+{
+"p": "A embriaguez ao volante é crime de perigo abstrato, segundo o STJ.",
+"c": true,
+"x": "Dispensa a demonstração de direção anormal (Tema 446).",
+"e": "STJ, Tema 446."
 }
 ]
 },
@@ -343,6 +391,24 @@ export default {
 "É para pista dupla."
 ],
 "e": "CTB, art. 61."
+},
+{
+"p": "Os medidores de velocidade portáteis são aqueles direcionados manualmente para o veículo-alvo.",
+"c": true,
+"x": "Conceito da Res. 798/2020.",
+"e": "Res. CONTRAN 798/2020."
+},
+{
+"p": "O excesso de velocidade é infração que independe de qualquer tolerância de medição.",
+"c": false,
+"x": "Aplica-se a tolerância do medidor (7 km/h até 100 km/h; 7% acima).",
+"e": "Res. CONTRAN 798/2020."
+},
+{
+"p": "O extintor de incêndio deixou de ser equipamento obrigatório para automóveis de passeio, conforme regulamentação do CONTRAN.",
+"c": true,
+"x": "Desde 2015 é facultativo para automóveis, camionetas, caminhonetes e triciclos de cabine fechada.",
+"e": "Regulamentação do CONTRAN."
 }
 ]
 },
@@ -440,6 +506,42 @@ export default {
 "Há infração."
 ],
 "e": "CTB, art. 244."
+},
+{
+"p": "Crianças menores de 10 anos não podem ser transportadas em motocicleta.",
+"c": true,
+"x": "CTB, art. 244, V.",
+"e": "CTB, art. 244."
+},
+{
+"p": "Para o CTB, o transporte de criança sem dispositivo de retenção adequado gera retenção do veículo até que a irregularidade seja sanada.",
+"c": true,
+"x": "CTB, art. 168.",
+"e": "CTB, art. 168."
+},
+{
+"p": "Os veículos de transporte escolar dispensam autorização do órgão de trânsito.",
+"c": false,
+"x": "Exigem autorização emitida pelo órgão executivo de trânsito, com vistoria semestral (CTB, arts. 136 e 137).",
+"e": "CTB, art. 136."
+},
+{
+"p": "O condutor de veículo escolar deve ter idade superior a 21 anos e ser habilitado na categoria D.",
+"c": true,
+"x": "É o art. 138, I e II, do CTB.",
+"e": "CTB, art. 138."
+},
+{
+"p": "O condutor de veículo escolar não pode ter cometido infração grave ou gravíssima, ou ser reincidente em médias, nos últimos 12 meses.",
+"c": true,
+"x": "É o art. 138, IV, do CTB.",
+"e": "CTB, art. 138."
+},
+{
+"p": "O condutor de transporte escolar está dispensado de curso especializado.",
+"c": false,
+"x": "Deve ser aprovado em curso especializado (art. 138, V).",
+"e": "CTB, art. 138."
 }
 ]
 },
@@ -571,6 +673,12 @@ export default {
 "Não é."
 ],
 "e": "CTB, art. 147, §2º."
+},
+{
+"p": "É exigido exame toxicológico para obtenção e renovação da habilitação nas categorias C, D e E.",
+"c": true,
+"x": "CTB, art. 148-A.",
+"e": "CTB, art. 148-A."
 }
 ]
 },
@@ -675,6 +783,36 @@ export default {
 "É infração."
 ],
 "e": "CTB, art. 231."
+},
+{
+"p": "Segundo o CTB, o transporte de carga em veículos destinados ao transporte de passageiros só é permitido nos termos do CONTRAN.",
+"c": true,
+"x": "CTB, art. 109.",
+"e": "CTB, art. 109."
+},
+{
+"p": "O motorista profissional deve respeitar o intervalo mínimo de 1 hora para refeição, que pode coincidir com o tempo de parada obrigatória.",
+"c": true,
+"x": "É o art. 67-C, §2º, do CTB.",
+"e": "CTB, art. 67-C."
+},
+{
+"p": "Transitar com o veículo em mau estado de conservação, comprometendo a segurança, é infração grave.",
+"c": true,
+"x": "É o art. 230, XVIII, do CTB.",
+"e": "CTB, art. 230."
+},
+{
+"p": "O veículo de carga deve estar devidamente equipado quando transitar, de modo a evitar o derramamento da carga sobre a via.",
+"c": true,
+"x": "É o art. 102 do CTB; o CONTRAN regulamenta os equipamentos.",
+"e": "CTB, art. 102."
+},
+{
+"p": "O motorista profissional pode dirigir sem intervalo por até 8 horas seguidas.",
+"c": false,
+"x": "No transporte de cargas, o limite é de 5h30 ininterruptas (CTB, art. 67-C).",
+"e": "CTB, art. 67-C."
 }
 ]
 }

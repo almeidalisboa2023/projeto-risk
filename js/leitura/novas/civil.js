@@ -1462,6 +1462,18 @@ export default {
 "Trata da provocação."
 ],
 "e": "Lei 6.015, art. 195."
+},
+{
+"p": "O registro de nascimento é obrigatório e deve ser feito no lugar do parto ou da residência dos pais.",
+"c": true,
+"x": "Lei 6.015, art. 50 (redação da Lei 13.484/2017).",
+"e": "Lei 6.015, art. 50."
+},
+{
+"p": "O registro de imóveis é feito no cartório do domicílio do comprador.",
+"c": false,
+"x": "É feito na circunscrição onde situado o imóvel (Lei 6.015, art. 169).",
+"e": "Lei 6.015, art. 169."
 }
 ]
 },
@@ -1874,6 +1886,12 @@ export default {
 "Não é o prazo."
 ],
 "e": "CC, art. 1.146."
+},
+{
+"p": "Considera-se empresária a sociedade que tem por objeto o exercício de atividade própria de empresário sujeito a registro.",
+"c": true,
+"x": "É o art. 982 do CC.",
+"e": "CC, art. 982."
 }
 ]
 }

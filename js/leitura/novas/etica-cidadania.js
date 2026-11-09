@@ -93,6 +93,68 @@ export default {
 "Contrato social."
 ],
 "e": "Kant."
+},
+{
+"p": "A ética das virtudes, de Aristóteles, entende que o caráter se forma pelo hábito de praticar ações virtuosas.",
+"c": true,
+"x": "A virtude é disposição adquirida.",
+"e": "Aristóteles."
+},
+{
+"p": "Para Kant, uma ação é moral quando praticada por interesse pessoal, desde que produza bons resultados.",
+"c": false,
+"x": "Para Kant, a ação moral é praticada por dever, independentemente das consequências ou do interesse.",
+"e": "Kant."
+},
+{
+"p": "A ética profissional reúne os deveres e valores próprios do exercício de determinada profissão.",
+"c": true,
+"x": "No serviço público, aparece nos códigos de ética.",
+"e": "Ética profissional."
+},
+{
+"p": "O princípio da moralidade administrativa exige do agente público não apenas legalidade, mas honestidade e boa-fé.",
+"c": true,
+"x": "CF, art. 37.",
+"e": "CF, art. 37."
+},
+{
+"p": "Moral e direito se confundem: todo ato imoral é ilegal.",
+"c": false,
+"x": "Há atos imorais que não são ilegais, e vice-versa. A moralidade administrativa, porém, é princípio jurídico.",
+"e": "Moral e direito."
+},
+{
+"p": "A ética no serviço público relaciona-se ao interesse público e à confiança dos cidadãos nas instituições.",
+"c": true,
+"x": "Base da legitimidade da Administração.",
+"e": "Ética pública."
+},
+{
+"p": "Para o utilitarismo, as consequências da ação são o critério de sua moralidade.",
+"c": true,
+"x": "Teoria consequencialista.",
+"e": "Utilitarismo."
+},
+{
+"p": "A distinção clássica segundo a qual a moral é vivida e a ética é refletida corresponde a dizer que",
+"alts": [
+"ética e moral são sinônimos absolutos",
+"a moral é prática social e a ética é a teoria que a estuda",
+"a ética é imposta pelo Estado",
+"a moral é universal e a ética é individual",
+"a ética só existe no serviço público"
+],
+"r": 1,
+"x": "É a distinção usual nos concursos.",
+"n": [
+"Há distinção.",
+"Correta.",
+"O Estado impõe o direito.",
+"Não é a distinção usual.",
+"Não é."
+],
+"e": "Ética e moral."
 }
 ]
 },
@@ -190,6 +252,42 @@ export default {
 "Não é."
 ],
 "e": "Decreto 1.171/1994, VI."
+},
+{
+"p": "É vedado ao servidor retirar da repartição pública, sem estar legalmente autorizado, qualquer documento, livro ou bem pertencente ao patrimônio público.",
+"c": true,
+"x": "Decreto 1.171/1994, item XV, l.",
+"e": "Decreto 1.171/1994."
+},
+{
+"p": "As Comissões de Ética podem aplicar a pena de demissão.",
+"c": false,
+"x": "A única pena da Comissão é a censura.",
+"e": "Decreto 1.171/1994, XXII."
+},
+{
+"p": "É dever do servidor ser assíduo e frequente ao serviço.",
+"c": true,
+"x": "Decreto 1.171/1994, item XIV, j.",
+"e": "Decreto 1.171/1994."
+},
+{
+"p": "O servidor deve exercer suas atribuições com rapidez, perfeição e rendimento, pondo fim ou procurando prioritariamente resolver situações procrastinatórias.",
+"c": true,
+"x": "Decreto 1.171/1994, item XIV, b.",
+"e": "Decreto 1.171/1994."
+},
+{
+"p": "É permitido ao servidor receber presentes de pessoas que tenham interesse em decisões suas, desde que de pequeno valor.",
+"c": false,
+"x": "O Decreto 1.171 veda pleitear, solicitar, provocar, sugerir ou receber qualquer tipo de ajuda, gratificação, prêmio, presente ou vantagem para cumprir sua missão (item XV, g). As exceções de brindes são reguladas por normas próprias.",
+"e": "Decreto 1.171/1994, XV."
+},
+{
+"p": "A pena de censura será fundamentada em parecer assinado por todos os integrantes da Comissão de Ética, com ciência do faltoso.",
+"c": true,
+"x": "Item XXII do Decreto 1.171.",
+"e": "Decreto 1.171/1994."
 }
 ]
 },
@@ -290,6 +388,42 @@ export default {
 "Não é."
 ],
 "e": "Lei 12.527, art. 15."
+},
+{
+"p": "A LAI se aplica também às entidades privadas sem fins lucrativos que recebam recursos públicos, quanto à parcela desses recursos.",
+"c": true,
+"x": "É o art. 2º da Lei 12.527.",
+"e": "Lei 12.527, art. 2º."
+},
+{
+"p": "A informação pessoal relativa à intimidade pode ser divulgada a qualquer pessoa, sem restrição.",
+"c": false,
+"x": "Tem acesso restrito por até 100 anos, salvo consentimento ou previsão legal (art. 31).",
+"e": "Lei 12.527, art. 31."
+},
+{
+"p": "Os Municípios com até 10 mil habitantes ficam dispensados da divulgação obrigatória na internet, mas devem divulgar em tempo real informações sobre execução orçamentária e financeira.",
+"c": true,
+"x": "É o art. 8º, §4º, da LAI, combinado com a LC 131/2009.",
+"e": "Lei 12.527, art. 8º, §4º."
+},
+{
+"p": "Na Lei Anticorrupção, a responsabilização da pessoa jurídica não exclui a responsabilidade individual de seus dirigentes.",
+"c": true,
+"x": "É o art. 3º da Lei 12.846.",
+"e": "Lei 12.846, art. 3º."
+},
+{
+"p": "A cidadania é fundamento da República Federativa do Brasil.",
+"c": true,
+"x": "CF, art. 1º, II.",
+"e": "CF, art. 1º."
+},
+{
+"p": "Na LAI, o requerente deve justificar o motivo do pedido de informação.",
+"c": false,
+"x": "São vedadas exigências relativas aos motivos (art. 10, §3º).",
+"e": "Lei 12.527, art. 10."
 }
 ]
 }

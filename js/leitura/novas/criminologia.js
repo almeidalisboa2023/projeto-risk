@@ -104,6 +104,42 @@ export default {
 "Não é requisito."
 ],
 "e": "García-Pablos."
+},
+{
+"p": "O controle social informal é exercido pela família, escola, igreja, vizinhança e opinião pública.",
+"c": true,
+"x": "O formal é exercido pelas instituições do sistema penal.",
+"e": "Controle social."
+},
+{
+"p": "A criminologia tradicional (positivista) concentrava seu estudo no controle social.",
+"c": false,
+"x": "A criminologia positivista focava o delinquente. O controle social ganha destaque com as teorias do conflito (labelling e crítica).",
+"e": "Evolução do objeto."
+},
+{
+"p": "A criminologia busca informar a sociedade e os poderes públicos sobre o crime, o criminoso, a vítima e o controle social.",
+"c": true,
+"x": "É sua função principal, subsidiando a política criminal.",
+"e": "Funções."
+},
+{
+"p": "O método empírico da criminologia baseia-se na observação e na análise da realidade, e não em dogmas.",
+"c": true,
+"x": "Diferente do método dedutivo do Direito Penal.",
+"e": "Método."
+},
+{
+"p": "Criminologia e Direito Penal são a mesma ciência, com métodos idênticos.",
+"c": false,
+"x": "São ciências autônomas e complementares: uma empírica, outra normativa.",
+"e": "Criminologia x Direito Penal."
+},
+{
+"p": "As estatísticas oficiais de criminalidade não refletem toda a criminalidade real, em razão da cifra negra.",
+"c": true,
+"x": "Por isso a criminologia usa também pesquisas de vitimização.",
+"e": "Cifra negra."
 }
 ]
 },
@@ -204,6 +240,42 @@ export default {
 "É teoria do conflito."
 ],
 "e": "Escola Clássica."
+},
+{
+"p": "Para Lombroso, o criminoso nato apresentaria estigmas físicos, como assimetrias cranianas e outras anomalias.",
+"c": true,
+"x": "Visão hoje superada e criticada por seu determinismo biológico.",
+"e": "Lombroso."
+},
+{
+"p": "A Escola Clássica empregava o método empírico-indutivo.",
+"c": false,
+"x": "Usava o método lógico-abstrato (dedutivo). O empírico é da Escola Positivista.",
+"e": "Escola Clássica."
+},
+{
+"p": "A Terza Scuola italiana tentou conciliar ideias das escolas clássica e positivista.",
+"c": true,
+"x": "Por isso é chamada de eclética.",
+"e": "Terza Scuola."
+},
+{
+"p": "Para Ferri, a criminalidade decorre de fatores antropológicos, físicos e sociais.",
+"c": true,
+"x": "Daí sua classificação dos criminosos e a lei da saturação criminal.",
+"e": "Ferri."
+},
+{
+"p": "A Escola Correcionalista via a pena como castigo retributivo.",
+"c": false,
+"x": "Via a pena como um bem, voltado à correção do criminoso.",
+"e": "Escola Correcionalista."
+},
+{
+"p": "Garofalo definiu o delito natural como a ofensa aos sentimentos altruístas fundamentais de piedade e probidade.",
+"c": true,
+"x": "É o conceito da fase jurídica da Escola Positivista.",
+"e": "Garofalo."
 }
 ]
 },
@@ -318,6 +390,30 @@ export default {
 "Subcultura."
 ],
 "e": "Sutherland."
+},
+{
+"p": "A teoria das zonas concêntricas, da Escola de Chicago, indica que a criminalidade se concentra nas zonas de transição próximas ao centro da cidade.",
+"c": true,
+"x": "Burgess e a ecologia criminal.",
+"e": "Escola de Chicago."
+},
+{
+"p": "Para o labelling approach, a reação social não influencia a criminalidade.",
+"c": false,
+"x": "É o contrário: a reação social e o etiquetamento produzem a carreira criminal.",
+"e": "Labelling."
+},
+{
+"p": "Na teoria da anomia de Merton, o “ritualismo” é o modo de adaptação em que o indivíduo abandona as metas, mas segue rigidamente os meios.",
+"c": true,
+"x": "Os modos são conformidade, inovação, ritualismo, retraimento e rebelião.",
+"e": "Merton."
+},
+{
+"p": "A teoria da associação diferencial sustenta que o crime é aprendido nas interações sociais, como qualquer outro comportamento.",
+"c": true,
+"x": "Sutherland.",
+"e": "Associação diferencial."
 }
 ]
 },
@@ -423,6 +519,36 @@ export default {
 "Não é modalidade de prevenção."
 ],
 "e": "Prevenção do delito."
+},
+{
+"p": "Von Hentig, em “O Criminoso e sua Vítima”, é considerado um dos precursores da vitimologia.",
+"c": true,
+"x": "Ao lado de Mendelsohn.",
+"e": "Vitimologia."
+},
+{
+"p": "A vitimização terciária é a causada pelo próprio crime.",
+"c": false,
+"x": "A primária decorre do crime. A terciária decorre da sociedade, família e grupo, que estigmatizam a vítima.",
+"e": "Vitimização."
+},
+{
+"p": "A Lei 13.431/2017 prevê o depoimento especial da criança ou adolescente vítima perante autoridade policial ou judiciária.",
+"c": true,
+"x": "Realizado preferencialmente uma única vez, em sala apropriada.",
+"e": "Lei 13.431/2017."
+},
+{
+"p": "A cifra dourada se refere aos crimes praticados pelas classes economicamente privilegiadas, que dificilmente são punidos.",
+"c": true,
+"x": "Relaciona-se aos crimes de colarinho branco.",
+"e": "Cifra dourada."
+},
+{
+"p": "A ressocialização do preso e as políticas de egresso são exemplos de prevenção terciária.",
+"c": true,
+"x": "Visam evitar a reincidência.",
+"e": "Prevenção terciária."
 }
 ]
 }

@@ -111,6 +111,36 @@ export default {
 "Não é."
 ],
 "e": "IBGE."
+},
+{
+"p": "O Brasil é o quinto maior país do mundo em extensão territorial.",
+"c": true,
+"x": "Com cerca de 8,5 milhões de km².",
+"e": "Território."
+},
+{
+"p": "Minas Gerais faz fronteira com outro país.",
+"c": false,
+"x": "Minas Gerais não tem fronteira internacional.",
+"e": "Território."
+},
+{
+"p": "A zona contígua brasileira vai das 12 às 24 milhas marítimas.",
+"c": true,
+"x": "Lei 8.617/1993.",
+"e": "Lei 8.617/1993."
+},
+{
+"p": "As terras devolutas indispensáveis à defesa das fronteiras são bens da União.",
+"c": true,
+"x": "CF, art. 20, II.",
+"e": "CF, art. 20."
+},
+{
+"p": "O Mato Grosso do Sul faz fronteira com o Paraguai e a Bolívia.",
+"c": true,
+"x": "Rota relevante para o tráfico de drogas e armas, fiscalizada pela PRF.",
+"e": "Fronteiras."
 }
 ]
 },
@@ -215,6 +245,36 @@ export default {
 "Seria 4."
 ],
 "e": "Rodovias."
+},
+{
+"p": "A BR-116 liga o Nordeste ao Sul do país, atravessando vários estados, inclusive Minas Gerais.",
+"c": true,
+"x": "É uma das mais extensas rodovias federais.",
+"e": "Rodovias."
+},
+{
+"p": "O agronegócio tem pouca participação nas exportações brasileiras.",
+"c": false,
+"x": "O agronegócio responde por parcela muito relevante das exportações.",
+"e": "Economia."
+},
+{
+"p": "A BR-381 é rodovia diagonal que liga Minas Gerais a São Paulo e ao Espírito Santo.",
+"c": true,
+"x": "Primeiro algarismo 3.",
+"e": "Rodovias."
+},
+{
+"p": "Os BRICS reúnem, entre outros, Brasil, Rússia, Índia, China e África do Sul.",
+"c": true,
+"x": "O grupo foi ampliado a partir de 2024.",
+"e": "BRICS."
+},
+{
+"p": "O transporte de cargas pelas rodovias federais é fiscalizado pela PRF quanto a peso, documentação e condições do veículo.",
+"c": true,
+"x": "CTB, art. 20.",
+"e": "CTB, art. 20."
 }
 ]
 }

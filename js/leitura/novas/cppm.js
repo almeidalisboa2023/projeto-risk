@@ -103,6 +103,42 @@ export default {
 "Não é fonte."
 ],
 "e": "CPPM, art. 3º."
+},
+{
+"p": "A polícia judiciária militar pode requisitar das repartições civis as pesquisas e exames necessários ao complemento do inquérito.",
+"c": true,
+"x": "É o art. 8º, g, do CPPM.",
+"e": "CPPM, art. 8º."
+},
+{
+"p": "A polícia judiciária militar é exercida por delegados de polícia civil.",
+"c": false,
+"x": "É exercida pelas autoridades militares (art. 7º).",
+"e": "CPPM, art. 7º."
+},
+{
+"p": "Compete à polícia judiciária militar prestar aos órgãos e juízes da Justiça Militar as informações necessárias à instrução e julgamento dos processos.",
+"c": true,
+"x": "É o art. 8º, b, do CPPM.",
+"e": "CPPM, art. 8º."
+},
+{
+"p": "A lei de processo penal militar se aplica aos processos em curso, sem prejuízo da validade dos atos realizados sob a vigência da lei anterior.",
+"c": true,
+"x": "É o art. 5º do CPPM.",
+"e": "CPPM, art. 5º."
+},
+{
+"p": "O CPPM só se aplica em tempo de guerra.",
+"c": false,
+"x": "Aplica-se em tempo de paz e de guerra (art. 1º).",
+"e": "CPPM, art. 1º."
+},
+{
+"p": "Na falta de oficial superior ao indiciado para a delegação, pode ser designado oficial do mesmo posto, desde que mais antigo.",
+"c": true,
+"x": "Art. 7º, §2º, do CPPM.",
+"e": "CPPM, art. 7º, §2º."
 }
 ]
 },
@@ -220,6 +256,24 @@ export default {
 "O auto de flagrante pode valer como IPM, mas a regra é a portaria."
 ],
 "e": "CPPM, art. 10."
+},
+{
+"p": "O encarregado do IPM deve ouvir o ofendido, o indiciado e as testemunhas.",
+"c": true,
+"x": "É o art. 13, b, c e e, do CPPM.",
+"e": "CPPM, art. 13."
+},
+{
+"p": "O relatório do IPM é dispensável quando o encarregado concluir pela inexistência de crime.",
+"c": false,
+"x": "O IPM é sempre encerrado com minucioso relatório (art. 22).",
+"e": "CPPM, art. 22."
+},
+{
+"p": "O encarregado do IPM pode, se necessário, requisitar exames periciais e proceder a reconhecimento de pessoas e coisas.",
+"c": true,
+"x": "É o art. 13 do CPPM.",
+"e": "CPPM, art. 13."
 }
 ]
 },
@@ -326,6 +380,36 @@ export default {
 "Existe no CPPM e é discutida no CPP."
 ],
 "e": "CPPM, art. 255."
+},
+{
+"p": "A busca pessoal consiste na procura material feita nas vestes, pastas, malas e outros objetos que estejam com a pessoa revistada.",
+"c": true,
+"x": "É o art. 180 do CPPM.",
+"e": "CPPM, art. 180."
+},
+{
+"p": "A prisão em flagrante dispensa a lavratura de auto.",
+"c": false,
+"x": "Exige o auto de prisão em flagrante (art. 245).",
+"e": "CPPM, art. 245."
+},
+{
+"p": "A menagem concedida em residência ou cidade não será levada em conta no cumprimento da pena.",
+"c": true,
+"x": "É o art. 268 do CPPM; a cumprida em quartel é computada.",
+"e": "CPPM, art. 268."
+},
+{
+"p": "O sequestro dos bens adquiridos com os proventos da infração pode ser decretado ainda que os bens tenham sido transferidos a terceiro.",
+"c": true,
+"x": "É o art. 199 do CPPM.",
+"e": "CPPM, art. 199."
+},
+{
+"p": "A prisão preventiva pode ser revogada se, no curso do processo, verificar-se a falta de motivos para que subsista.",
+"c": true,
+"x": "É o art. 259 do CPPM.",
+"e": "CPPM, art. 259."
 }
 ]
 },
@@ -424,6 +508,42 @@ export default {
 "Não é a regra."
 ],
 "e": "CPPM, arts. 456 e 457."
+},
+{
+"p": "As testemunhas são inquiridas cada uma de per si, de modo que umas não saibam nem ouçam os depoimentos das outras.",
+"c": true,
+"x": "É a regra da incomunicabilidade das testemunhas, também presente no CPP (art. 210).",
+"e": "CPPM, instrução."
+},
+{
+"p": "No processo penal militar, o acusado é obrigado a responder todas as perguntas do interrogatório.",
+"c": false,
+"x": "Tem direito ao silêncio (CF, art. 5º, LXIII).",
+"e": "CF, art. 5º, LXIII."
+},
+{
+"p": "O termo de deserção será assinado pelo comandante e por duas testemunhas idôneas, de preferência oficiais.",
+"c": true,
+"x": "É a formalidade do termo de deserção prevista no CPPM.",
+"e": "CPPM, art. 451."
+},
+{
+"p": "O desertor capturado ou apresentado é submetido a inspeção de saúde antes da reinclusão.",
+"c": true,
+"x": "Se julgado incapaz definitivamente, fica isento da reinclusão e do processo.",
+"e": "CPPM, art. 457."
+},
+{
+"p": "O militar arrolado como testemunha pode ser intimado diretamente, dispensada qualquer comunicação ao seu comandante.",
+"c": false,
+"x": "Deve ser requisitado à autoridade militar superior (art. 349).",
+"e": "CPPM, art. 349."
+},
+{
+"p": "O STF entende que o interrogatório deve ser o último ato da instrução também no processo penal militar.",
+"c": true,
+"x": "HC 127.900.",
+"e": "STF, HC 127.900."
 }
 ]
 }

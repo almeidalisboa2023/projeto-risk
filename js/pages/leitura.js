@@ -95,15 +95,7 @@ function leitura(el, q, mat, idx) {
         ${a.aprof ? `<section data-pane="apr" hidden>${a.aprof}</section>` : ''}
         <section data-pane="jur" hidden><p class="muted">Súmulas e decisões dos tribunais superiores que mais caem sobre este tópico. Confira sempre se houve mudança recente de entendimento.</p></section>
       </div>
-      ${a.quiz?.length ? `<section data-pane="qst" hidden><div class="lt-quiz"><h3>🎯 Teste seu conhecimento</h3>
-        <p class="muted" style="margin-top:0">${nCE} de Certo ou Errado${nME ? ` e ${nME} de múltipla escolha` : ''}. <span id="ltPlacar"></span></p>
-        <div class="row lt-qbar">${nME && nCE ? `<select id="ltTipo"><option value="">Todas</option><option value="ce">Só Certo/Errado</option><option value="me">Só múltipla escolha</option></select>` : ''}
-          <button class="btn sec mini" id="ltMist">🔀 Embaralhar</button><span class="sp"></span><span class="muted" style="font-size:13px" id="ltPag"></span>
-          <button class="btn sec mini" id="ltAnt">‹</button><button class="btn sec mini" id="ltProx">›</button></div>
-        <div id="ltLista"></div>
-        <div class="row" style="margin-top:12px"><button class="btn sec mini" id="ltAnt2">‹ Anteriores</button><button class="btn sec mini" id="ltProx2">Próximas ›</button><span class="sp"></span>
-          <button class="btn mini" id="ltSalvar" disabled>Salvar no meu desempenho</button></div>
-        <p class="muted" style="font-size:13px;margin-bottom:0">Salve quando quiser: entram as questões respondidas desde o último salvamento, e o resultado vai para os seus pontos fracos e revisões.</p></div></section>` : ''}
+      ${a.quiz?.length ? `<section data-pane="qst" hidden>${blocoQuiz(a)}</section>` : ''}
       ${mat.lei ? `<p class="muted" style="font-size:13px;margin-top:18px">Material de estudo do Projeto R.I.S.K. Confira sempre o <a href="${mat.lei}" target="_blank" rel="noopener">texto oficial atualizado</a>.</p>` : ''}
       <div class="row" style="margin-top:12px">
         <button class="btn ${L.has(k) ? 'sec' : ''}" id="ltLido">${L.has(k) ? '✓ Lido (desmarcar)' : 'Marcar como lido'}</button><span class="sp"></span>
@@ -137,8 +129,23 @@ function leitura(el, q, mat, idx) {
   $('#ltLido').onclick = () => { const s = lidos(); s.has(k) ? s.delete(k) : s.add(k); gravar(chave(), [...s]); render(el, q); };
 }
 
+
+// Bloco de questões (usado na leitura e nas apostilas)
+export function blocoQuiz(a) {
+  const nME = (a.quiz || []).filter((x) => x.alts).length, nCE = (a.quiz || []).length - nME;
+  return `<div class="lt-quiz"><h3>🎯 Teste seu conhecimento</h3>
+        <p class="muted" style="margin-top:0">${nCE} de Certo ou Errado${nME ? ` e ${nME} de múltipla escolha` : ''}. <span id="ltPlacar"></span></p>
+        <div class="row lt-qbar">${nME && nCE ? `<select id="ltTipo"><option value="">Todas</option><option value="ce">Só Certo/Errado</option><option value="me">Só múltipla escolha</option></select>` : ''}
+          <button class="btn sec mini" id="ltMist">🔀 Embaralhar</button><span class="sp"></span><span class="muted" style="font-size:13px" id="ltPag"></span>
+          <button class="btn sec mini" id="ltAnt">‹</button><button class="btn sec mini" id="ltProx">›</button></div>
+        <div id="ltLista"></div>
+        <div class="row" style="margin-top:12px"><button class="btn sec mini" id="ltAnt2">‹ Anteriores</button><button class="btn sec mini" id="ltProx2">Próximas ›</button><span class="sp"></span>
+          <span class="muted" style="font-size:13px" id="ltSalvar"></span></div>
+        <p class="muted" style="font-size:13px;margin-bottom:0">Cada resposta entra sozinha nas suas questões do dia, nos pontos fracos e nas revisões.</p></div>`;
+}
+
 // Questões: páginas de 10, filtro por tipo, embaralhar, Certo/Errado e múltipla escolha (A a E)
-function quiz(el, mat, a) {
+export function quiz(el, mat, a) {
   const $ = (s) => el.querySelector(s);
   const resp = new Map(); // índice da questão → acertou?
   let salvas = new Set(), ordem = a.quiz.map((_, i) => i), pag = 0;
@@ -146,7 +153,6 @@ function quiz(el, mat, a) {
   const placar = () => {
     const c = [...resp.values()].filter(Boolean).length;
     $('#ltPlacar').textContent = resp.size ? `Placar: ${c}/${resp.size} (${Math.round((100 * c) / resp.size)}%)` : '';
-    $('#ltSalvar').disabled = ![...resp.keys()].some((i) => !salvas.has(i));
   };
   const item = (i, n) => {
     const x = a.quiz[i];
@@ -182,7 +188,7 @@ function quiz(el, mat, a) {
       box.querySelectorAll('[data-r]').forEach((b) => (b.onclick = () => {
         if (resp.has(i)) return;
         $('#ltLista').dataset['r' + i] = b.dataset.r;
-        resp.set(i, mostrar(i, box, b.dataset.r)); placar();
+        resp.set(i, mostrar(i, box, b.dataset.r)); placar(); agenda();
       }));
     });
   };
@@ -194,19 +200,26 @@ function quiz(el, mat, a) {
     $('#ltTipo').onchange = () => { pag = 0; desenhar(); };
   }
   $('#ltMist').onclick = () => { ordem = ordem.map((i) => [Math.random(), i]).sort((x, y) => x[0] - y[0]).map((x) => x[1]); pag = 0; desenhar(); };
-  $('#ltSalvar').onclick = async () => {
+  // Salva sozinho: junta as respostas e grava 2 segundos depois da última (e ao sair da página)
+  let timer = null, salvando = false;
+  const salvar = async () => {
+    clearTimeout(timer); timer = null;
     const novas = [...resp.keys()].filter((i) => !salvas.has(i));
+    if (!novas.length || salvando || !S.user) return;
     const feitas = novas.length, acertos = novas.filter((i) => resp.get(i)).length;
-    if (!feitas) return;
     // liga ao tópico do edital do aluno que corresponde a esta leitura, se houver
     const tp = (S.topicos || []).find((t) => { const r = acharLeitura(t.materia, t.topico); return r?.a && r.mat.id === mat.id && r.a.id === a.id; });
-    $('#ltSalvar').disabled = true;
+    salvando = true; novas.forEach((i) => salvas.add(i));
     try {
       const [log] = await db.insert('question_logs', [{ user_id: S.user.id, edital_id: S.edital?.id || null, topico_id: tp?.id || null, materia: tp?.materia || mat.nome, data: iso(hoje()), feitas, acertos, origem: 'app' }]);
       if (log) S.logs.push(log);
-      novas.forEach((i) => salvas.add(i));
-      toast(`Resultado salvo: ${acertos}/${feitas}.`); placar();
-    } catch (e) { toast(e.message, 'erro'); $('#ltSalvar').disabled = false; }
+      const st = $('#ltSalvar'); if (st) st.textContent = `✓ ${salvas.size} ${salvas.size === 1 ? 'resposta contada' : 'respostas contadas'} nas questões de hoje`;
+    } catch (e) { novas.forEach((i) => salvas.delete(i)); toast('Não consegui salvar as respostas: ' + e.message, 'erro'); }
+    salvando = false;
+    if ([...resp.keys()].some((i) => !salvas.has(i))) agenda();
   };
+  const agenda = () => { clearTimeout(timer); timer = setTimeout(salvar, 2000); };
+  window.addEventListener('hashchange', () => { if (timer) salvar(); }, { once: true });
+  window.addEventListener('pagehide', () => { if (timer) salvar(); }, { once: true });
   desenhar();
 }

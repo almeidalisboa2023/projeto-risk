@@ -135,6 +135,12 @@ export default {
 "Não é."
 ],
 "e": "Lei 8.072, art. 1º, IX."
+},
+{
+"p": "A posse ou o porte ilegal de arma de fogo de uso proibido é crime hediondo.",
+"c": true,
+"x": "Lei 8.072, art. 1º, parágrafo único, II.",
+"e": "Lei 8.072, art. 1º."
 }
 ]
 },
@@ -250,6 +256,24 @@ export default {
 "É do resultado morte."
 ],
 "e": "Lei 9.455, art. 1º, §2º."
+},
+{
+"p": "O crime de tortura admite a forma omissiva imprópria, nos termos da própria Lei 9.455.",
+"c": true,
+"x": "O §2º do art. 1º pune quem se omite tendo o dever de evitar ou apurar.",
+"e": "Lei 9.455, art. 1º, §2º."
+},
+{
+"p": "A Lei de Tortura exige que a vítima seja pessoa presa.",
+"c": false,
+"x": "Só a modalidade do §1º exige pessoa presa ou sujeita a medida de segurança.",
+"e": "Lei 9.455, art. 1º."
+},
+{
+"p": "A tortura é crime equiparado a hediondo.",
+"c": true,
+"x": "CF, art. 5º, XLIII, e Lei 8.072, art. 2º.",
+"e": "CF, art. 5º, XLIII."
 }
 ]
 },
@@ -513,6 +537,12 @@ export default {
 "É crime."
 ],
 "e": "Lei 10.826, art. 12."
+},
+{
+"p": "Possuir arma de fogo de uso permitido com registro em nome de outra pessoa configura posse irregular, se mantida em casa.",
+"c": true,
+"x": "O registro é pessoal; a arma deve estar registrada em nome de quem a possui.",
+"e": "Lei 10.826, art. 12."
 }
 ]
 },
@@ -640,6 +670,12 @@ export default {
 "Não está prevista."
 ],
 "e": "Lei 13.869, art. 5º."
+},
+{
+"p": "Dar início ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada é crime de abuso de autoridade.",
+"c": true,
+"x": "É o art. 30 da Lei 13.869.",
+"e": "Lei 13.869, art. 30."
 }
 ]
 },
@@ -767,6 +803,12 @@ export default {
 "Não é o prazo."
 ],
 "e": "Lei 11.340, art. 18."
+},
+{
+"p": "A Lei Maria da Penha prevê a criação de Juizados de Violência Doméstica e Familiar contra a Mulher, com competência cível e criminal.",
+"c": true,
+"x": "É o art. 14 da Lei 11.340.",
+"e": "Lei 11.340, art. 14."
 }
 ]
 },
@@ -888,6 +930,18 @@ export default {
 "É crime formal."
 ],
 "e": "Lei 12.850, art. 2º, §1º."
+},
+{
+"p": "A colaboração premiada pode ocorrer depois da sentença, caso em que a pena pode ser reduzida até a metade ou admitida a progressão de regime ainda que ausentes os requisitos objetivos.",
+"c": true,
+"x": "É o art. 4º, §5º, da Lei 12.850.",
+"e": "Lei 12.850, art. 4º, §5º."
+},
+{
+"p": "Na ação controlada, a autoridade policial deve aguardar autorização judicial para retardar a intervenção.",
+"c": false,
+"x": "A Lei 12.850 exige prévia comunicação ao juiz, que, se for o caso, estabelece limites (art. 8º, §1º).",
+"e": "Lei 12.850, art. 8º."
 }
 ]
 },
@@ -1004,6 +1058,24 @@ export default {
 "Há limite."
 ],
 "e": "Lei 9.296, art. 8º-A."
+},
+{
+"p": "O pedido de interceptação deve demonstrar que sua realização é necessária à apuração da infração penal, com indicação dos meios a serem empregados.",
+"c": true,
+"x": "É o art. 4º da Lei 9.296.",
+"e": "Lei 9.296, art. 4º."
+},
+{
+"p": "A interceptação pode ser autorizada pelo delegado em caso de urgência.",
+"c": false,
+"x": "Só o juiz pode autorizar (art. 3º).",
+"e": "Lei 9.296, art. 3º."
+},
+{
+"p": "O juiz decide sobre o pedido de interceptação em 24 horas.",
+"c": true,
+"x": "É o art. 4º, §2º, da Lei 9.296.",
+"e": "Lei 9.296, art. 4º, §2º."
 }
 ]
 },
@@ -1119,6 +1191,24 @@ export default {
 "A pena é de 3 a 10 anos."
 ],
 "e": "Lei 9.613, art. 2º, §1º."
+},
+{
+"p": "A Lei de Lavagem prevê a alienação antecipada de bens para preservação do seu valor.",
+"c": true,
+"x": "É o art. 4º-A da Lei 9.613.",
+"e": "Lei 9.613, art. 4º-A."
+},
+{
+"p": "A lavagem de dinheiro só é punida na forma dolosa com dolo específico de enriquecimento.",
+"c": false,
+"x": "A lei exige dolo de ocultar ou dissimular, sem exigir enriquecimento.",
+"e": "Lei 9.613, art. 1º."
+},
+{
+"p": "Na lavagem, a pena aumenta de 1/3 a 2/3 se os crimes forem cometidos de forma reiterada.",
+"c": true,
+"x": "Art. 1º, §4º, da Lei 9.613.",
+"e": "Lei 9.613, art. 1º, §4º."
 }
 ]
 },
@@ -1228,6 +1318,30 @@ export default {
 "A pena máxima é 5 anos."
 ],
 "e": "Lei 7.716, art. 2º-A."
+},
+{
+"p": "Praticar, induzir ou incitar a discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional é crime do art. 20 da Lei 7.716.",
+"c": true,
+"x": "Pena de reclusão de 1 a 3 anos e multa.",
+"e": "Lei 7.716, art. 20."
+},
+{
+"p": "Segundo a Lei 7.716, as penas dos crimes de injúria racial e de discriminação aumentam quando praticados por funcionário público no exercício de suas funções ou a pretexto de exercê-las.",
+"c": true,
+"x": "É o art. 20-B da Lei 7.716, incluído pela Lei 14.532/2023.",
+"e": "Lei 7.716, art. 20-B."
+},
+{
+"p": "Recusar, negar ou impedir a inscrição ou ingresso de aluno em estabelecimento de ensino por preconceito é crime da Lei 7.716.",
+"c": true,
+"x": "É o art. 6º da Lei 7.716.",
+"e": "Lei 7.716, art. 6º."
+},
+{
+"p": "Segundo a Lei 7.716, a pena é aumentada quando a discriminação é praticada por meio de redes sociais ou da internet.",
+"c": true,
+"x": "É o art. 20, §2º, da Lei 7.716.",
+"e": "Lei 7.716, art. 20, §2º."
 }
 ]
 },
@@ -1350,6 +1464,18 @@ export default {
 "Esse é o limite do adolescente."
 ],
 "e": "ECA, art. 2º."
+},
+{
+"p": "A remissão concedida pelo MP, antes de iniciado o procedimento judicial, exclui o processo.",
+"c": true,
+"x": "É o art. 126 do ECA.",
+"e": "ECA, art. 126."
+},
+{
+"p": "A semiliberdade não permite atividades externas.",
+"c": false,
+"x": "A semiliberdade possibilita atividades externas, independentemente de autorização judicial (art. 120).",
+"e": "ECA, art. 120."
 }
 ]
 },
@@ -1466,6 +1592,24 @@ export default {
 "Não é a regra."
 ],
 "e": "Lei 9.605, art. 22."
+},
+{
+"p": "Na Lei 9.605, a perícia de constatação do dano ambiental, sempre que possível, fixará o montante do prejuízo causado.",
+"c": true,
+"x": "É o art. 19 da Lei 9.605.",
+"e": "Lei 9.605, art. 19."
+},
+{
+"p": "Pescar em período no qual a pesca seja proibida não é crime, mas só infração administrativa.",
+"c": false,
+"x": "É crime do art. 34 da Lei 9.605.",
+"e": "Lei 9.605, art. 34."
+},
+{
+"p": "Destruir ou danificar floresta considerada de preservação permanente é crime, também na forma culposa.",
+"c": true,
+"x": "É o art. 38 da Lei 9.605.",
+"e": "Lei 9.605, art. 38."
 }
 ]
 },
@@ -1582,6 +1726,24 @@ export default {
 "Não é o prazo."
 ],
 "e": "Lei 9.099, art. 82, §1º."
+},
+{
+"p": "A composição civil dos danos homologada pelo juiz é irrecorrível e tem eficácia de título executivo no juízo cível.",
+"c": true,
+"x": "É o art. 74 da Lei 9.099.",
+"e": "Lei 9.099, art. 74."
+},
+{
+"p": "No JECrim, a citação do acusado pode ser feita por edital.",
+"c": false,
+"x": "A citação é pessoal; não encontrado o acusado, os autos vão ao juízo comum (art. 66).",
+"e": "Lei 9.099, art. 66."
+},
+{
+"p": "Nos crimes de menor potencial ofensivo, a denúncia pode ser oferecida oralmente.",
+"c": true,
+"x": "É o art. 77 da Lei 9.099.",
+"e": "Lei 9.099, art. 77."
 }
 ]
 }

@@ -6,48 +6,10 @@ import { esc, norm } from '../util.js';
 import { toast } from '../ui.js';
 import { CURSOS } from '../cursos.js';
 import { MATERIAS_TODAS, comConteudos } from '../leitura/index.js';
-
-let pdfjs = null;
-async function carregaPdfJs() {
-  if (pdfjs) return pdfjs;
-  pdfjs = await import('../vendor/pdfjs/pdf.min.mjs');
-  pdfjs.GlobalWorkerOptions.workerSrc = new URL('../vendor/pdfjs/pdf.worker.min.mjs', import.meta.url).href;
-  return pdfjs;
-}
-
-// ---------- leitura do PDF ----------
-// Junta os pedaços de texto em linhas (pela altura na página), guardando o tamanho da letra de cada linha.
-async function lerPdf(file, progresso) {
-  const lib = await carregaPdfJs();
-  const doc = await lib.getDocument({ data: new Uint8Array(await file.arrayBuffer()) }).promise;
-  const paginas = [];
-  for (let n = 1; n <= doc.numPages; n++) {
-    progresso(n, doc.numPages);
-    const pg = await doc.getPage(n);
-    const tc = await pg.getTextContent();
-    const linhas = [];
-    for (const it of tc.items) {
-      if (!it.str || !it.str.trim()) continue;
-      const y = it.transform[5], x = it.transform[4], h = Math.abs(it.transform[3]) || it.height || 10;
-      let l = linhas.find((z) => Math.abs(z.y - y) < Math.max(2, h * 0.4));
-      if (!l) { l = { y, h, partes: [] }; linhas.push(l); }
-      l.partes.push({ x, s: it.str, w: it.width || 0 });
-      l.h = Math.max(l.h, h);
-    }
-    for (const l of linhas) {
-      l.partes.sort((a, b) => a.x - b.x);
-      let t = '', fim = null;
-      for (const p of l.partes) { if (fim !== null && p.x - fim > 1.5 && !t.endsWith(' ') && !p.s.startsWith(' ')) t += ' '; t += p.s; fim = p.x + p.w; }
-      l.t = t.replace(/\s+/g, ' ').trim();
-    }
-    linhas.sort((a, b) => b.y - a.y);
-    paginas.push(linhas.filter((l) => l.t));
-  }
-  return paginas;
-}
+import { lerPdf, acharQuestoes, paraQuiz, painelQuestoes } from '../pdf-questoes.js';
 
 // Transforma as linhas em HTML de leitura: títulos (letra maior, CAIXA ALTA, Título/Capítulo/Seção), parágrafos, listas e artigos.
-function montarHtml(paginas) {
+function montarHtml(paginas, pular = new Set()) {
   // cabeçalho e rodapé que se repetem na maioria das páginas saem do texto
   const conta = new Map();
   if (paginas.length >= 3) for (const p of paginas) for (const k of new Set(p.map((l) => norm(l.t).replace(/\d+/g, '#')))) conta.set(k, (conta.get(k) || 0) + 1);
@@ -63,7 +25,10 @@ function montarHtml(paginas) {
   const fechaPar = () => { if (par) out.push(`<p>${negrito(esc(par))}</p>`); par = null; };
   const fechaLista = () => { if (lista) out.push(`<ul>${lista.map((x) => `<li>${negrito(esc(x))}</li>`).join('')}</ul>`); lista = null; };
   let antY = null, antH = corpo;
+  let avisou = false;
   for (const l of todas) {
+    // linhas de questões, gabaritos e comentários saem do texto: viram questões respondíveis
+    if (pular.has(l)) { if (!avisou) { fechaPar(); fechaLista(); out.push('<p class="lt-q-aviso">🎯 As questões deste material estão na aba <b>Questões</b>, para responder. O gabarito aparece depois da resposta.</p>'); avisou = true; } antY = null; continue; }
     const quebra = antY !== null && antY - l.y > Math.max(antH, l.h) * 1.7;
     antY = l.y; antH = l.h;
     if (titulo(l)) { fechaPar(); fechaLista(); out.push(`<h3>${esc(l.t)}</h3>`); if (!primeiro) primeiro = l.t; continue; }
@@ -91,7 +56,7 @@ function limpar(html) {
           if (['SCRIPT', 'STYLE', 'IFRAME', 'OBJECT'].includes(c.tagName)) c.remove();
           else if (c.tagName === 'DIV') { const p = document.createElement('p'); p.append(...c.childNodes); c.replaceWith(p); }
           else c.replaceWith(...c.childNodes);
-        } else for (const a of [...c.attributes]) c.removeAttribute(a.name);
+        } else for (const a of [...c.attributes]) if (!(a.name === 'class' && a.value === 'lt-q-aviso')) c.removeAttribute(a.name);
       } else if (c.nodeType !== 3) c.remove();
     }
   };
@@ -157,11 +122,14 @@ export function conteudoPdf(box) {
     const st = box.querySelector('#pdfSt');
     try {
       st.textContent = 'Abrindo o PDF…';
-      const paginas = await lerPdf(file, (n, t) => (st.textContent = `Lendo página ${n} de ${t}…`));
-      const r = montarHtml(paginas);
+      const { paginas } = await lerPdf(await file.arrayBuffer(), (n, t) => (st.textContent = `Lendo página ${n} de ${t}…`));
+      const achou = acharQuestoes(paginas);
+      const pular = new Set([...achou.usadas, ...achou.esconder]);
+      const r = montarHtml(paginas, pular);
+      r.texto = paginas.flat().map((l) => l.t).join('\n');
       if (r.texto.replace(/\s/g, '').length < 200) { st.textContent = ''; return toast('Não encontrei texto neste PDF. Ele parece ser escaneado (imagem). Envie um PDF com texto selecionável.', 'erro'); }
       const sug = sugerir(r.texto, file.name);
-      lido = { file, ...r, sug, paginas: paginas.length };
+      lido = { file, ...r, sug, paginas: paginas.length, questoes: achou.questoes };
       st.textContent = `${file.name} · ${paginas.length} páginas lidas`;
       formulario();
     } catch (er) { st.textContent = ''; toast('Não consegui ler o PDF: ' + er.message, 'erro'); }
@@ -185,8 +153,10 @@ export function conteudoPdf(box) {
       <div class="campo"><label id="pTitL">Título do tópico novo</label><input id="pTit" style="width:100%" value="${esc(tituloPadrao)}"></div>
       <div class="campo"><label>Prévia do texto <span class="muted" style="font-weight:400">(você pode corrigir direto aqui antes de confirmar)</span></label>
         <div id="pPrev" class="lt-corpo" contenteditable="true" style="max-height:420px;overflow:auto;border:1px solid var(--borda);border-radius:12px;padding:12px 14px;background:var(--card);font-size:15px">${lido.html}</div></div>
+      <div id="pQs"></div>
       <div class="row"><button class="btn sec" id="pCanc">Cancelar</button><span class="sp"></span><button class="btn verde" id="pOk">Confirmar e enviar para a matéria</button></div></div>`;
     const $ = (q) => f.querySelector(q);
+    const escolhidas = painelQuestoes($('#pQs'), lido.questoes || [], esc);
     const atualiza = () => {
       const mid = $('#pM').value, nova = mid === '__nova', comp = f.querySelector('[name=pDest]:checked').value === 'comp';
       $('#pNovaBox').hidden = !nova; $('#pCursosBox').hidden = !nova;
@@ -216,7 +186,8 @@ export function conteudoPdf(box) {
       const titulo = $('#pTit').value.trim();
       if (!titulo) return toast('Escreva o título.', 'erro');
       const html = limpar($('#pPrev').innerHTML);
-      if (html.replace(/<[^>]+>/g, '').trim().length < 50) return toast('O texto ficou vazio.', 'erro');
+      const quiz = escolhidas().map((q) => paraQuiz(q, titulo));
+      if (html.replace(/<[^>]+>/g, '').trim().length < 50 && !quiz.length) return toast('O texto ficou vazio.', 'erro');
       let materiaId = mid;
       if (nova) {
         const base = 'pdf-' + norm(nomeNova).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 40);
@@ -224,7 +195,7 @@ export function conteudoPdf(box) {
         materiaId = existente ? existente.id : base;
       }
       const m = mats.find((x) => x.id === materiaId);
-      const reg = { ativo: true, materia_id: materiaId, materia_nome: nova ? nomeNova : m?.nome || null, assunto_id: comp ? $('#pTop').value : null, titulo, html,
+      const reg = { ativo: true, materia_id: materiaId, materia_nome: nova ? nomeNova : m?.nome || null, assunto_id: comp ? $('#pTop').value : null, titulo, html, quiz,
         cursos: nova ? [...f.querySelectorAll('.pCur:checked')].map((x) => x.value) : [] };
       ev.target.disabled = true; ev.target.textContent = 'Enviando…';
       try {
@@ -235,7 +206,7 @@ export function conteudoPdf(box) {
         } catch { /* o PDF original é só cópia de segurança; o texto vai mesmo assim */ }
         const [novo] = await db.insert('conteudos', [reg]);
         S.conteudos = [...(S.conteudos || []), novo || reg];
-        toast(comp ? 'Pronto! O tópico foi complementado.' : 'Pronto! O tópico novo já está na leitura da matéria.');
+        toast((comp ? 'Pronto! O tópico foi complementado.' : 'Pronto! O tópico novo já está na leitura da matéria.') + (quiz.length ? ` ${quiz.length} questões viraram respondíveis.` : ''));
         lido = null; desenha();
       } catch (er) { toast(er.message, 'erro'); ev.target.disabled = false; ev.target.textContent = 'Confirmar e enviar para a matéria'; }
     };

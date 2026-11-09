@@ -1382,6 +1382,12 @@ export default {
 "É a regra do precatório."
 ],
 "e": "Lei 12.153, art. 13."
+},
+{
+"p": "Nos Juizados Especiais da Fazenda Pública, não há reexame necessário.",
+"c": true,
+"x": "Lei 12.153, art. 11.",
+"e": "Lei 12.153, art. 11."
 }
 ]
 }

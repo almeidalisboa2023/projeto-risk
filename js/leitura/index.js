@@ -51,9 +51,9 @@ export function comConteudos(base = MATERIAS_TODAS, lista = S.conteudos || []) {
       const html = /class="lt-producao"/.test(a.html)
         ? a.html.replace(/<div class="lt-producao">[\s\S]*?<\/div>/, '') + c.html
         : a.html + `<h3>📄 Complemento: ${escH(c.titulo)}</h3>` + c.html;
-      m.assuntos[i] = { ...a, html };
+      m.assuntos[i] = { ...a, html, quiz: [...(a.quiz || []), ...(c.quiz || [])] };
     } else {
-      m.assuntos.push({ id: 'pdf-' + c.id, titulo: c.titulo, arts: 'Material enviado' + (quando ? ' em ' + quando : ''), chaves: [norm(c.titulo)], html: c.html, quiz: [], extra: true });
+      m.assuntos.push({ id: 'pdf-' + c.id, titulo: c.titulo, arts: 'Material enviado' + (quando ? ' em ' + quando : ''), chaves: [norm(c.titulo)], html: c.html, quiz: c.quiz || [], extra: true });
     }
   }
   return [...mapa.values()];

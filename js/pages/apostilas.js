@@ -4,15 +4,11 @@ import { db, storage } from '../backend.js';
 import { esc } from '../util.js';
 import { toast, loading } from '../ui.js';
 import { CURSOS, cursoInfo, meuCurso } from '../cursos.js';
+import { lerPdf, acharQuestoes, paraQuiz, mascaras, painelQuestoes, carregaPdfJs } from '../pdf-questoes.js';
+import { blocoQuiz, quiz } from './leitura.js';
 
 const ehAdmin = () => S.profile?.role === 'admin';
-let pdfjs = null;
-async function lib() {
-  if (pdfjs) return pdfjs;
-  pdfjs = await import('../vendor/pdfjs/pdf.min.mjs');
-  pdfjs.GlobalWorkerOptions.workerSrc = new URL('../vendor/pdfjs/pdf.worker.min.mjs', import.meta.url).href;
-  return pdfjs;
-}
+const lib = carregaPdfJs;
 const tam = (b) => (b > 1048576 ? (b / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(b / 1024)) + ' KB');
 
 export async function render(el, q) {
@@ -44,7 +40,7 @@ function pagina(el, lista) {
         <div class="ap-ico">📕</div>
         <div style="flex:1;min-width:0"><b>${esc(a.titulo)}</b>
           ${a.descricao ? `<p class="muted" style="margin:4px 0 0;font-size:13.5px">${esc(a.descricao)}</p>` : ''}
-          <p class="muted" style="margin:4px 0 0;font-size:12.5px">${a.paginas ? a.paginas + ' páginas · ' : ''}${a.tamanho ? tam(a.tamanho) + ' · ' : ''}${new Date(a.created_at).toLocaleDateString('pt-BR')}</p>
+          <p class="muted" style="margin:4px 0 0;font-size:12.5px">${a.quiz?.length ? '🎯 ' + a.quiz.length + ' questões · ' : ''}${a.paginas ? a.paginas + ' páginas · ' : ''}${a.tamanho ? tam(a.tamanho) + ' · ' : ''}${new Date(a.created_at).toLocaleDateString('pt-BR')}</p>
           ${ehAdmin() ? `<p style="margin:6px 0 0">${(a.cursos || []).map((k) => `<span class="pill">${esc(cursoInfo(k)?.curto || k)}</span>`).join(' ') || '<span class="pill" style="background:var(--vermelho);color:#fff">sem curso</span>'}${a.ativo === false ? ' <span class="pill">oculta</span>' : ''}</p>` : ''}
           <div class="row" style="margin-top:10px"><a class="btn mini" href="#/apostilas?ver=${a.id}">Abrir</a>
             ${ehAdmin() ? `<button class="btn mini sec" data-ed="${a.id}">Editar</button><button class="btn mini sec" data-oc="${a.id}">${a.ativo === false ? 'Mostrar' : 'Ocultar'}</button><button class="btn mini sec" data-rm="${a.id}">Apagar</button>` : ''}</div>
@@ -79,8 +75,10 @@ function formulario(el, ap) {
     <div class="campo"><label>Descrição (opcional)</label><input id="apD" style="width:100%" value="${esc(ap?.descricao || '')}"></div>
     <div class="campo"><label>Cursos que vão ver esta apostila</label>
       <div class="row" style="flex-wrap:wrap;gap:6px 14px">${CURSOS.map((c) => `<label style="font-size:14px"><input type="checkbox" class="apC" value="${c.id}" ${marcados.has(c.id) ? 'checked' : ''}> ${esc(c.curto)}</label>`).join('')}</div></div>
+    ${ap ? `<div class="row" style="margin:4px 0 8px"><button type="button" class="btn sec mini" id="apReq">🔎 Procurar questões neste PDF</button><span class="muted" style="font-size:12.5px">${ap.quiz?.length ? ap.quiz.length + ' questões já ativas. Procurar de novo substitui a lista.' : 'Transforma as questões do PDF em questões para responder.'}</span></div>` : ''}
+    <div id="apQs"></div>
     <div class="row"><span class="sp"></span>${ap ? '<button class="btn sec" id="apCanc">Cancelar</button>' : ''}<button class="btn verde" id="apOk">${ap ? 'Salvar' : 'Enviar apostila'}</button></div>`;
-  let arquivo = null, paginas = null;
+  let arquivo = null, paginas = null, achou = null, escolhidas = () => [];
   const f = box.querySelector('#apF');
   if (f) f.onchange = async () => {
     arquivo = f.files[0]; paginas = null;
@@ -88,10 +86,24 @@ function formulario(el, ap) {
     if (arquivo.size > 50 * 1024 * 1024) { arquivo = null; return toast('PDF muito grande (máximo 50 MB). Divida em partes.', 'erro'); }
     box.querySelector('#apArq').textContent = `${arquivo.name} · ${tam(arquivo.size)}`;
     if (!box.querySelector('#apT').value) box.querySelector('#apT').value = arquivo.name.replace(/\.pdf$/i, '').replace(/[_-]+/g, ' ');
-    try { const L = await lib(); const d = await L.getDocument({ data: new Uint8Array(await arquivo.arrayBuffer()) }).promise; paginas = d.numPages; box.querySelector('#apArq').textContent += ` · ${paginas} páginas`; }
-    catch { toast('Não consegui abrir este PDF. Confira se o arquivo não está corrompido ou com senha.', 'erro'); arquivo = null; }
+    try {
+      const info = box.querySelector('#apArq'), base = info.textContent;
+      const r = await lerPdf(await arquivo.arrayBuffer(), (n, t) => (info.textContent = `${base} · lendo página ${n} de ${t}…`));
+      paginas = r.numPaginas; achou = acharQuestoes(r.paginas);
+      info.textContent = `${base} · ${paginas} páginas`;
+      escolhidas = painelQuestoes(box.querySelector('#apQs'), achou.questoes, esc);
+    } catch { toast('Não consegui abrir este PDF. Confira se o arquivo não está corrompido ou com senha.', 'erro'); arquivo = null; }
   };
   if (ap) box.querySelector('#apCanc').onclick = () => formulario(el, null);
+  if (ap) box.querySelector('#apReq').onclick = async (ev) => {
+    ev.target.disabled = true; ev.target.textContent = 'Lendo o PDF…';
+    try {
+      const r = await lerPdf(await storage.download('apostilas', ap.arquivo), (n, t) => (ev.target.textContent = `Lendo página ${n} de ${t}…`));
+      achou = acharQuestoes(r.paginas); escolhidas = painelQuestoes(box.querySelector('#apQs'), achou.questoes, esc);
+      ev.target.textContent = '🔎 Procurar de novo';
+    } catch (e) { toast(e.message, 'erro'); ev.target.textContent = '🔎 Procurar questões neste PDF'; }
+    ev.target.disabled = false;
+  };
   box.querySelector('#apOk').onclick = async (ev) => {
     const cursos = [...box.querySelectorAll('.apC:checked')].map((x) => x.value);
     const v = { titulo: box.querySelector('#apT').value.trim(), materia: box.querySelector('#apM').value.trim() || null, descricao: box.querySelector('#apD').value.trim() || null, cursos };
@@ -100,11 +112,15 @@ function formulario(el, ap) {
     if (!cursos.length) return toast('Marque pelo menos um curso.', 'erro');
     ev.target.disabled = true; ev.target.textContent = ap ? 'Salvando…' : 'Enviando…';
     try {
-      if (ap) await db.update('apostilas', { id: 'eq.' + ap.id }, v);
+      if (ap) await db.update('apostilas', { id: 'eq.' + ap.id }, achou ? { ...v, quiz: escolhidas().map((q) => paraQuiz(q, v.titulo)), mascara: mascaras([...achou.esconder]) } : v);
       else {
         const caminho = `${Date.now()}-${arquivo.name.replace(/[^\w.-]/g, '_')}`;
         await storage.upload('apostilas', caminho, arquivo);
-        await db.insert('apostilas', [{ ...v, arquivo: caminho, paginas, tamanho: arquivo.size, ativo: true }]);
+        const qs = escolhidas();
+        // esconde na apostila o gabarito e os comentários das questões (aparecem só depois da resposta)
+        const esconder = achou ? [...achou.esconder] : [];
+        const extra = { quiz: qs.map((q) => paraQuiz(q, v.titulo)), mascara: mascaras(esconder) };
+        await db.insert('apostilas', [{ ...v, arquivo: caminho, paginas, tamanho: arquivo.size, ativo: true, ...extra }]);
       }
       toast(ap ? 'Apostila atualizada.' : 'Apostila enviada! Os alunos dos cursos marcados já podem abrir.');
       render(el);
@@ -118,9 +134,18 @@ async function leitor(el, a) {
       <button class="btn sec mini" id="lzMenos" title="Diminuir">−</button><span class="muted" id="lzZoom" style="font-size:13px;min-width:44px;text-align:center"></span><button class="btn sec mini" id="lzMais" title="Aumentar">+</button></div>
     <h1 style="margin:10px 0 2px">${esc(a.titulo)}</h1>
     <p class="muted" style="margin:0 0 10px;font-size:13px">${a.materia ? esc(a.materia) + ' · ' : ''}<span id="lzPag">Carregando…</span></p>
+    ${a.quiz?.length ? `<div class="abas lt-abas" id="lzAbas" style="margin-bottom:10px"><button data-aba="pdf" class="on">📖 Apostila</button><button data-aba="qst">🎯 Questões (${a.quiz.length})</button></div>` : ''}
     <div class="ap-leitor" id="lz"></div>
+    ${a.quiz?.length ? `<div id="lzQ" hidden>${blocoQuiz(a)}</div>` : ''}
     <p class="muted" style="font-size:12px;text-align:center;margin-top:10px">Material de uso exclusivo dos alunos do Projeto R.I.S.K.${S.user?.email ? ' · ' + esc(S.user.email) : ''}</p>`;
   const caixa = el.querySelector('#lz');
+  if (a.quiz?.length) {
+    quiz(el, { id: 'apostila-' + a.id, nome: a.materia || a.titulo }, a);
+    el.querySelectorAll('#lzAbas [data-aba]').forEach((b) => (b.onclick = () => {
+      el.querySelectorAll('#lzAbas [data-aba]').forEach((y) => y.classList.toggle('on', y === b));
+      caixa.hidden = b.dataset.aba !== 'pdf'; el.querySelector('#lzQ').hidden = b.dataset.aba !== 'qst';
+    }));
+  }
   caixa.oncontextmenu = (e) => e.preventDefault();
   let doc;
   try {
@@ -143,6 +168,11 @@ async function leitor(el, a) {
     const cv = document.createElement('canvas'); cv.width = vp.width; cv.height = vp.height;
     cv.style.width = Math.round(vp.width / dpr) + 'px'; cv.style.height = Math.round(vp.height / dpr) + 'px';
     await pg.render({ canvasContext: cv.getContext('2d'), viewport: vp }).promise;
+    const tampa = (a.mascara || {})[n];
+    if (tampa?.length) { const ctx = cv.getContext('2d'); ctx.save(); ctx.fillStyle = '#fff';
+      const [ta, tb, tc, td, te, tf] = vp.transform, pt = (x, y) => [ta * x + tc * y + te, tb * x + td * y + tf];
+      for (const r of tampa) { const [x1, y1] = pt(r[0], r[1]), [x2, y2] = pt(r[2], r[3]); ctx.fillRect(Math.min(x1, x2), Math.min(y1, y2), Math.abs(x2 - x1), Math.abs(y2 - y1)); }
+      ctx.restore(); }
     if (marca) { const ctx = cv.getContext('2d'); ctx.save(); ctx.globalAlpha = 0.08; ctx.fillStyle = '#000'; ctx.font = `${Math.round(18 * dpr)}px sans-serif`; ctx.translate(cv.width / 2, cv.height / 2); ctx.rotate(-Math.PI / 6); ctx.textAlign = 'center'; ctx.fillText(marca, 0, 0); ctx.restore(); }
     d.replaceChildren(cv);
   };

@@ -127,6 +127,50 @@ export default {
 "Não confere."
 ],
 "e": "Distância de reação."
+},
+{
+"p": "Um corpo lançado verticalmente para cima atinge a altura máxima quando sua velocidade se anula.",
+"c": true,
+"x": "A aceleração continua sendo g.",
+"e": "Lançamento vertical."
+},
+{
+"p": "No gráfico velocidade × tempo, a área sob a curva representa o deslocamento.",
+"c": true,
+"x": "Propriedade do gráfico v × t.",
+"e": "Gráficos."
+},
+{
+"p": "Um veículo que mantém 60 km/h em curva está em movimento retilíneo uniforme.",
+"c": false,
+"x": "Em curva o movimento não é retilíneo; há aceleração centrípeta.",
+"e": "Movimento circular."
+},
+{
+"p": "Um veículo que vai de 0 a 108 km/h em 10 s tem aceleração média de 3 m/s².",
+"c": true,
+"x": "108 km/h = 30 m/s; a = 30/10.",
+"e": "Aceleração média."
+},
+{
+"p": "Um corpo cai do repouso por 3 s (g = 10 m/s², sem resistência do ar). A distância percorrida é",
+"alts": [
+"15 m",
+"30 m",
+"45 m",
+"90 m",
+"9 m"
+],
+"r": 2,
+"x": "h = g·t²/2 = 10·9/2.",
+"n": [
+"Não confere.",
+"É g·t.",
+"Correta.",
+"Não dividiu por 2.",
+"Não confere."
+],
+"e": "Queda livre."
 }
 ]
 },
@@ -227,6 +271,56 @@ export default {
 "Massa."
 ],
 "e": "Unidades do SI."
+},
+{
+"p": "A força normal sobre um corpo apoiado em superfície horizontal, sem outras forças verticais, tem a mesma intensidade do peso.",
+"c": true,
+"x": "Equilíbrio vertical.",
+"e": "Força normal."
+},
+{
+"p": "Pela 1ª lei de Newton, todo corpo em movimento tende a parar naturalmente, mesmo sem forças.",
+"c": false,
+"x": "Sem força resultante, o corpo mantém o MRU. Ele para por causa de forças como o atrito.",
+"e": "Inércia."
+},
+{
+"p": "Na colisão traseira, o encosto de cabeça reduz o risco de lesão no pescoço, relacionado à inércia da cabeça.",
+"c": true,
+"x": "Aplicação da 1ª lei.",
+"e": "Inércia."
+},
+{
+"p": "Em pista molhada, o coeficiente de atrito diminui e a distância de frenagem aumenta.",
+"c": true,
+"x": "Menor atrito, menor desaceleração.",
+"e": "Atrito."
+},
+{
+"p": "Pela 3ª lei de Newton, o pneu empurra o asfalto para trás e o asfalto empurra o pneu para a frente.",
+"c": true,
+"x": "É assim que o carro se move.",
+"e": "Ação e reação."
+},
+{
+"p": "Um bloco de 10 kg sofre força resultante de 50 N. Sua aceleração é",
+"alts": [
+"0,2 m/s²",
+"5 m/s²",
+"50 m/s²",
+"500 m/s²",
+"60 m/s²"
+],
+"r": 1,
+"x": "a = F/m.",
+"n": [
+"Invertido.",
+"Correta.",
+"Não confere.",
+"Multiplicou.",
+"Somou."
+],
+"e": "2ª lei de Newton."
 }
 ]
 },
@@ -327,6 +421,56 @@ export default {
 "Não confere."
 ],
 "e": "Quantidade de movimento."
+},
+{
+"p": "O trabalho da força resultante é igual à variação da energia cinética.",
+"c": true,
+"x": "Teorema da energia cinética.",
+"e": "Trabalho."
+},
+{
+"p": "Na frenagem, a energia cinética do veículo desaparece sem se transformar.",
+"c": false,
+"x": "É convertida principalmente em calor nos freios e pneus.",
+"e": "Conservação da energia."
+},
+{
+"p": "O impulso de uma força é igual ao produto da força pelo intervalo de tempo de atuação.",
+"c": true,
+"x": "I = F·Δt.",
+"e": "Impulso."
+},
+{
+"p": "Um motor de 1.000 W realiza 60.000 J de trabalho em 1 minuto.",
+"c": true,
+"x": "τ = P·t = 1.000·60.",
+"e": "Potência."
+},
+{
+"p": "Em uma colisão elástica, conservam-se a quantidade de movimento e a energia cinética.",
+"c": true,
+"x": "Na inelástica, só a quantidade de movimento.",
+"e": "Colisões."
+},
+{
+"p": "Se a velocidade de um veículo triplica, sua energia cinética fica",
+"alts": [
+"3 vezes maior",
+"6 vezes maior",
+"9 vezes maior",
+"igual",
+"27 vezes maior"
+],
+"r": 2,
+"x": "Ec ∝ v².",
+"n": [
+"Não é linear.",
+"Não confere.",
+"Correta.",
+"Muda.",
+"Seria cúbico."
+],
+"e": "Energia cinética."
 }
 ]
 },
@@ -427,6 +571,56 @@ export default {
 "Eletricidade."
 ],
 "e": "Efeito Doppler."
+},
+{
+"p": "A frequência é o número de oscilações por segundo, medida em hertz.",
+"c": true,
+"x": "Período é o inverso da frequência.",
+"e": "Ondulatória."
+},
+{
+"p": "A luz é uma onda mecânica.",
+"c": false,
+"x": "É onda eletromagnética, que se propaga no vácuo.",
+"e": "Óptica."
+},
+{
+"p": "A refração da luz ocorre quando ela muda de meio, alterando sua velocidade.",
+"c": true,
+"x": "Pode mudar de direção se a incidência for oblíqua.",
+"e": "Refração."
+},
+{
+"p": "O espelho côncavo pode formar imagens reais e invertidas.",
+"c": true,
+"x": "Depende da posição do objeto.",
+"e": "Espelhos esféricos."
+},
+{
+"p": "O eco é a reflexão do som percebida separadamente do som original.",
+"c": true,
+"x": "Exige distância mínima do obstáculo.",
+"e": "Acústica."
+},
+{
+"p": "A velocidade de uma onda de frequência 50 Hz e comprimento de onda 2 m é",
+"alts": [
+"25 m/s",
+"52 m/s",
+"100 m/s",
+"48 m/s",
+"200 m/s"
+],
+"r": 2,
+"x": "v = λ·f.",
+"n": [
+"Dividiu.",
+"Somou.",
+"Correta.",
+"Subtraiu.",
+"Não confere."
+],
+"e": "Ondulatória."
 }
 ]
 }

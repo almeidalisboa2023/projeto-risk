@@ -113,6 +113,36 @@ export default {
 "Não é."
 ],
 "e": "Falsos cognatos."
+},
+{
+"p": "Em inglês, “actually” e “currently” não são sinônimos.",
+"c": true,
+"x": "“Actually” = na verdade; “currently” = atualmente.",
+"e": "Falsos cognatos."
+},
+{
+"p": "Em inglês, “to realize” significa “realizar”.",
+"c": false,
+"x": "Significa “perceber, dar-se conta”. Realizar é “to carry out”, “to accomplish”.",
+"e": "Falsos cognatos."
+},
+{
+"p": "Em espanhol, “borrar” significa “apagar”.",
+"c": true,
+"x": "Falso cognato com “borrar” do português (manchar).",
+"e": "Falsos cognatos."
+},
+{
+"p": "Na leitura de texto em língua estrangeira, palavras repetidas e o título ajudam a identificar o tema central.",
+"c": true,
+"x": "Técnica de skimming.",
+"e": "Estratégias de leitura."
+},
+{
+"p": "Em espanhol, “cena” significa “jantar”.",
+"c": true,
+"x": "Cena (de teatro) é “escena”.",
+"e": "Falsos cognatos."
 }
 ]
 },
@@ -217,6 +247,36 @@ export default {
 "Não é."
 ],
 "e": "Modal verbs."
+},
+{
+"p": "Em inglês, “however” pode iniciar uma frase e é seguido de vírgula.",
+"c": true,
+"x": "“However, the police...”.",
+"e": "Conectivos."
+},
+{
+"p": "Em inglês, “mustn't” indica ausência de obrigação.",
+"c": false,
+"x": "“Mustn't” indica proibição. Ausência de obrigação é “don't have to”.",
+"e": "Modal verbs."
+},
+{
+"p": "Em espanhol, “el puente” é masculino, embora “ponte” seja feminino em português.",
+"c": true,
+"x": "Heterogenérico.",
+"e": "Heterogenéricos."
+},
+{
+"p": "Em inglês, o passive voice é formado com o verbo “to be” + particípio passado.",
+"c": true,
+"x": "Ex.: “The car was stopped by the police.”",
+"e": "Voz passiva."
+},
+{
+"p": "Em espanhol, o artigo “lo” é neutro e se usa com adjetivos substantivados.",
+"c": true,
+"x": "“Lo importante es...”.",
+"e": "Artigo neutro."
 }
 ]
 }
