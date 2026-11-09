@@ -585,3 +585,10 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .ap-pag { margin: 0 auto 12px; min-height: 300px; display: flex; align-items: center; justify-content: center; width: max-content; min-width: 100%; }
 .ap-pag canvas { display: block; background: #fff; box-shadow: 0 2px 10px rgba(0,0,0,.18); border-radius: 4px; }
 @media print { .ap-leitor { display: none !important; } }
+
+/* Questões encontradas em PDF */
+.pq-lista { max-height: 320px; overflow: auto; border: 1px solid var(--borda); border-radius: 12px; background: var(--card); }
+.pq-item { display: flex; gap: 10px; align-items: flex-start; padding: 8px 12px; border-top: 1px solid var(--borda); font-size: 14px; }
+.pq-item:first-child { border-top: 0; }
+.pq-item select { width: auto; min-width: 84px; }
+.lt-q-aviso { padding: 10px 14px; border-radius: 10px; background: color-mix(in srgb, var(--ouro) 14%, var(--card)); border-left: 4px solid var(--ouro); }

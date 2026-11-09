@@ -511,3 +511,14 @@ create policy "apostilas pdf le" on storage.objects for select
     select 1 from public.apostilas a
     where a.arquivo = storage.objects.name and a.ativo
       and public.meu_status() = 'aprovado' and public.meu_curso() = any(a.cursos))));
+
+-- ===== Atualização 11: questões dos PDFs =====
+-- (Antes, rode a 09 e a 10, se ainda não rodou.)
+--
+-- O que muda:
+--  • As questões encontradas nos PDFs (Conteúdo em PDF e Apostilas) viram questões respondíveis.
+--  • O gabarito e os comentários do PDF ficam escondidos e só aparecem depois da resposta.
+
+alter table public.conteudos add column if not exists quiz jsonb default '[]'::jsonb;
+alter table public.apostilas add column if not exists quiz jsonb default '[]'::jsonb;
+alter table public.apostilas add column if not exists mascara jsonb default '{}'::jsonb; -- áreas das páginas cobertas (gabaritos e comentários)
