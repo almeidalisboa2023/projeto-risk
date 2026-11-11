@@ -6,6 +6,7 @@ import { tema, alternaTema, recarregar } from '../app.js';
 import { sugestoes, escolherDia, dataTarefa } from '../revisoes.js';
 import { atrasados } from './replanejar.js';
 import { fmtMin } from '../crono.js';
+import { contarFlash } from '../questao.js';
 
 let timer = null;
 
@@ -69,6 +70,7 @@ export async function render(el) {
     <div class="card"><div class="mono up">Questões na semana</div><div class="num">${fs}</div><div class="muted">${as} acertos</div></div>
     <div class="card"><div class="mono up">Tempo de estudo total</div><div class="num">${fmtMin(minTotal)}</div><a class="muted" href="#/horas">desde o início · por matéria →</a></div>
     <div class="card"><div class="mono up">Taxa de acerto</div><div class="num ${corPct(tx)}">${tx ?? '—'}${tx != null ? '%' : ''}</div><div class="muted">${tx != null && txa != null ? `${tx - txa >= 0 ? '+' : ''}${tx - txa} pp vs semana anterior` : 'semana atual'}</div></div>
+    <div class="card"><div class="mono up">Flashcards feitos</div><div class="num" id="pFlash">…</div><a class="muted" id="pFlashSub" href="#/leitura">desde o início · na leitura →</a></div>
   </div>
   <div class="grid g4" style="margin-top:16px">
     <div class="card"><div class="mono up">Meta de hoje</div><div class="num">${qHoje}<span class="muted" style="font-size:1rem"> / ${meta}</span></div>${barra(Math.min(100, pct(qHoje, meta) || 0))}<div class="muted" style="margin-top:6px">${qHoje >= meta ? 'Meta batida! 🎯' : `Faltam ${meta - qHoje} questões`}</div></div>
@@ -91,6 +93,7 @@ export async function render(el) {
       <a class="btn sec mini" href="#/calendario" style="margin-top:8px">Abrir o dia →</a></div>
   </div>
   <div class="card" style="margin-top:16px"><h3>Desempenho por matéria</h3><div id="pormat"></div></div>`;
+  contarFlash().then((r) => { const n = el.querySelector('#pFlash'); if (!n) return; if (!r) { n.textContent = '—'; return; } n.textContent = r.cartoes; el.querySelector('#pFlashSub').textContent = `${r.viradas} viradas no total · ir para a leitura →`; });
 
   const ligaSug = (box) => box.querySelectorAll('[data-ag]').forEach((b) => (b.onclick = () => escolherDia(sug.find((x) => x.tp.id === b.dataset.ag).tp, () => render(el))));
   ligaSug(el.querySelector('#sug'));

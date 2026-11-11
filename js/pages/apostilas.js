@@ -4,7 +4,7 @@ import { db, storage } from '../backend.js';
 import { esc } from '../util.js';
 import { toast, loading } from '../ui.js';
 import { CURSOS, cursoInfo, meuCurso } from '../cursos.js';
-import { lerPdf, acharQuestoes, paraQuiz, mascaras, painelQuestoes, carregaPdfJs } from '../pdf-questoes.js';
+import { lerPdf, acharQuestoes, paraQuiz, mascaras, painelQuestoes, carregaPdfJs, enviarAoBanco } from '../pdf-questoes.js';
 import { blocoQuiz, quiz } from './leitura.js';
 import { embaralhar } from '../questao.js';
 
@@ -156,6 +156,9 @@ function formulario(el, ap, tipoPagina, todas) {
         const extra = { quiz: escolhidas().map((q) => paraQuiz(q, v.titulo)), mascara: mascaras(achou ? [...achou.esconder] : []) };
         [reg] = await db.insert('apostilas', [{ ...v, arquivo: caminho, paginas, tamanho: arquivo.size, ativo: true, ordem: 0, ...extra }]);
       }
+      // as questões do PDF também vão para o banco de questões
+      const qz = achou ? escolhidas().map((q) => paraQuiz(q, v.titulo)) : [];
+      if (qz.length) enviarAoBanco(qz, { materia: v.materia || '', assunto: v.titulo, fonte: v.titulo }).catch(() => {});
       // posição escolhida na seção de destino
       const nova = daSecao(tipo); nova.splice(Math.min(pos, nova.length), 0, reg);
       await salvarOrdem(nova);

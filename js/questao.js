@@ -146,7 +146,7 @@ export function responder(box, q, r) {
 // Cartões que viram ao clicar. Os do texto vêm do conteúdo; se o tópico não tiver, monta com os itens de Certo/Errado.
 export function htmlFlash(cartoes, titulo = '🃏 Flashcards: clique no cartão para ver a resposta') {
   if (!cartoes.length) return '';
-  return `<div class="lt-flash-box"><b class="lt-tit">${titulo}</b><div class="lt-flash">${cartoes.map(([f, v]) => `<button type="button" class="lt-fc"><span class="fr">${f}</span><span class="vs">${v}</span></button>`).join('')}</div></div>`;
+  return `<div class="lt-flash-box"><b class="lt-tit">${titulo}</b><div class="lt-flash">${cartoes.map(([f, v, ver]) => `<button type="button" class="lt-fc"${ver ? ` data-v="${ver}"` : ''}><span class="fr"><span>${f}</span></span><span class="vs"><span>${v}</span></span></button>`).join('')}</div></div>`;
 }
 const VIRA_C = ['Certo! E olha o porquê:', 'Tá certo. Repara:', 'Certinho. A lógica é esta:'];
 const VIRA_E = ['Errado! O pulo do gato:', 'Errado. Onde está a casca de banana:', 'Errado, e a banca adora isso:'];
@@ -156,9 +156,44 @@ export function cartoesAuto(quiz, max = 8) {
     .map((q) => {
       const h = hash(q.p), fala = String(q.prof || q.x || q.e || '').trim();
       return [`<small>Certo ou errado?</small>${esc(q.p)}`,
-        `<b class="${q.c ? 'ok' : 'erro'}">${um(q.c ? VIRA_C : VIRA_E, h)}</b><span>${esc(corta(fala, 360))}</span>${q.e && q.e !== fala ? `<small>📌 ${esc(corta(q.e, 160))}</small>` : ''}`];
+        `<b>${um(q.c ? VIRA_C : VIRA_E, h)}</b> ${esc(corta(fala, 360))}${q.e && q.e !== fala ? `<small>📌 ${esc(corta(q.e, 160))}</small>` : ''}`, q.c ? 'ok' : 'erro'];
     });
 }
-export function ligarFlash(el) {
-  el.querySelectorAll('.lt-fc').forEach((c) => (c.onclick = () => c.classList.toggle('virado')));
+// Frente colorida (cores alternadas); verso verde quando a resposta é "verdadeiro/sim" e vermelho quando é "falso/não".
+const CORES_FC = ['#2B6CB0', '#7B3FA0', '#0F766E', '#C05621', '#B83280', '#2F855A', '#C8102E', '#4C51BF'];
+const SIM = /^\W*(sim|certo|certa|correto|correta|verdadeir|pode\b|cabe\b|vale\b|é constitucional|tem\b|há\b|sempre)/i;
+const NAO = /^\W*(n[aã]o\b|errado|errada|incorret|fals|nunca|nenhum|nada|é inconstitucional|vedad|proibid)/i;
+export function veredito(fc) {
+  if (fc.dataset.v) return fc.dataset.v;
+  const t = fc.querySelector('.vs')?.textContent.trim() || '';
+  return NAO.test(t) ? 'erro' : SIM.test(t) ? 'ok' : '';
+}
+export function ligarFlash(el, ctx = null) {
+  el.querySelectorAll('.lt-fc').forEach((c, i) => {
+    c.style.setProperty('--fc', CORES_FC[i % CORES_FC.length]);
+    const v = veredito(c); if (v) c.classList.add('v-' + v);
+    c.onclick = () => {
+      c.classList.toggle('virado');
+      if (c.classList.contains('virado') && !c.dataset.contou) { c.dataset.contou = 1; registrarFlash(ctx, c); }
+    };
+  });
+}
+// Cada cartão virado conta na métrica "flashcards feitos" (tela inicial)
+export function registrarFlash(ctx, c) {
+  if (!S.user || !ctx) return;
+  const chave = `${ctx.mat.id}/${ctx.a.id}/${chaveQ(c.querySelector('.fr')?.textContent || '')}`;
+  const id = S.user.id + ':' + chave;
+  S.flashFeitos = S.flashFeitos || new Map();
+  const ant = S.flashFeitos.get(id);
+  const reg = { id, user_id: S.user.id, chave, vezes: (ant?.vezes || 0) + 1, atualizado_em: new Date().toISOString() };
+  S.flashFeitos.set(id, reg);
+  db.insert('flashcards_feitos', [reg], { upsert: true, onConflict: 'id' }).catch(() => {});
+}
+export async function contarFlash() {
+  if (!S.user) return { cartoes: 0, viradas: 0 };
+  try {
+    const rows = await db.selectAll('flashcards_feitos', { user_id: 'eq.' + S.user.id, select: 'id,vezes' });
+    S.flashFeitos = new Map(rows.map((r) => [r.id, r]));
+    return { cartoes: rows.length, viradas: rows.reduce((s, r) => s + (r.vezes || 1), 0) };
+  } catch { return null; }
 }

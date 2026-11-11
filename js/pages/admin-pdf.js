@@ -5,11 +5,12 @@ import { db, storage } from '../backend.js';
 import { esc, norm } from '../util.js';
 import { toast } from '../ui.js';
 import { CURSOS } from '../cursos.js';
-import { MATERIAS_TODAS, comConteudos } from '../leitura/index.js';
-import { lerPdf, acharQuestoes, paraQuiz, painelQuestoes } from '../pdf-questoes.js';
+import { MATERIAS_TODAS, comConteudos, chaveQ } from '../leitura/index.js';
+import { lerPdf, acharQuestoes, paraQuiz, painelQuestoes, enviarAoBanco } from '../pdf-questoes.js';
+import { enxugar } from '../estetica.js';
 
 // Transforma as linhas em HTML de leitura: títulos (letra maior, CAIXA ALTA, Título/Capítulo/Seção), parágrafos, listas e artigos.
-function montarHtml(paginas, pular = new Set()) {
+function montarHtml(paginas, pular = new Set(), marcas = new Map()) {
   // cabeçalho e rodapé que se repetem na maioria das páginas saem do texto
   const conta = new Map();
   if (paginas.length >= 3) for (const p of paginas) for (const k of new Set(p.map((l) => norm(l.t).replace(/\d+/g, '#')))) conta.set(k, (conta.get(k) || 0) + 1);
@@ -20,15 +21,16 @@ function montarHtml(paginas, pular = new Set()) {
   const titulo = (l) => l.t.length < 120 && (l.h >= corpo * 1.15 || (/^(T[IÍ]TULO|CAP[IÍ]TULO|SE[CÇ][AÃ]O|SUBSE[CÇ][AÃ]O|LIVRO|PARTE|ANEXO)\b/i.test(l.t) && l.t.length < 90)
     || (l.t.length > 3 && l.t.length < 80 && l.t === l.t.toUpperCase() && /[A-ZÀ-Ú]{3}/.test(l.t)));
   const marcador = /^([•●▪■◦\-–—*]|\d{1,2}[\.\)]|[a-z]\))\s+/;
-  const inicioNovo = /^(Art\.?\s*\d|§\s*\d|Par[aá]grafo [uú]nico|[IVXLC]{1,6}\s*[-–—]\s)/;
+  const inicioNovo = /^(Art\.?\s*\d|§\s*\d|Par[aá]grafo [uú]nico|[IVXLC]{1,6}\s*[-–—]\s|(?:Aten[cç][aã]o|Importante|Cuidado|Observa[cç][aã]o|Obs\.?|Nota|Exemplo|Ex\.|Dica|Macete|Resumindo|Em resumo|S[uú]mula)\b)/i;
   const out = []; let par = null, lista = null, primeiro = '';
-  const fechaPar = () => { if (par) out.push(`<p>${negrito(esc(par))}</p>`); par = null; };
-  const fechaLista = () => { if (lista) out.push(`<ul>${lista.map((x) => `<li>${negrito(esc(x))}</li>`).join('')}</ul>`); lista = null; };
+  const fechaPar = () => { if (par) { const t = enxugar(par); if (t) out.push(`<p>${negrito(esc(t))}</p>`); } par = null; };
+  const fechaLista = () => { if (lista) out.push(`<ul>${lista.map((x) => `<li>${negrito(esc(enxugar(x)))}</li>`).join('')}</ul>`); lista = null; };
   let antY = null, antH = corpo;
   let avisou = false;
   for (const l of todas) {
     // linhas de questões, gabaritos e comentários saem do texto: viram questões respondíveis
-    if (pular.has(l)) { if (!avisou) { fechaPar(); fechaLista(); out.push('<p class="lt-q-aviso">🎯 As questões deste material estão na aba <b>Questões</b>, para responder. O gabarito aparece depois da resposta.</p>'); avisou = true; } antY = null; continue; }
+    // cada questão vira um marcador no mesmo lugar; na leitura ele é trocado pela questão para responder
+    if (pular.has(l)) { if (marcas.has(l)) { fechaPar(); fechaLista(); out.push(`<div class="lt-qpdf" data-k="${marcas.get(l)}"></div>`); } else if (!marcas.size && !avisou) { fechaPar(); fechaLista(); out.push('<p class="lt-q-aviso">🎯 As questões deste material estão na aba <b>Questões</b>, para responder. O gabarito aparece depois da resposta.</p>'); avisou = true; } antY = null; continue; }
     const quebra = antY !== null && antY - l.y > Math.max(antH, l.h) * 1.7;
     antY = l.y; antH = l.h;
     if (titulo(l)) { fechaPar(); fechaLista(); out.push(`<h3>${esc(l.t)}</h3>`); if (!primeiro) primeiro = l.t; continue; }
@@ -41,6 +43,8 @@ function montarHtml(paginas, pular = new Set()) {
   fechaPar(); fechaLista();
   return { html: out.join('\n'), texto: todas.map((l) => l.t).join('\n'), titulo: primeiro };
 }
+// primeira linha de cada questão → chave do enunciado (para a questão aparecer no mesmo lugar do texto)
+const marcasDe = (questoes) => new Map(questoes.map((q) => [q._linhas[0], chaveQ(q.p)]));
 const junta = (a, b) => (/[a-zà-ú]-$/i.test(a) ? a.slice(0, -1) + b : a + ' ' + b);
 const negrito = (t) => t.replace(/^(Art\.?\s*\d+[º°o]?(?:-[A-Z])?\.?|§\s*\d+[º°o]?\.?|Par[aá]grafo [uú]nico\.?)/, '<b>$1</b>');
 
@@ -50,6 +54,7 @@ function limpar(html) {
   const tpl = document.createElement('template'); tpl.innerHTML = html;
   const anda = (n) => {
     for (const c of [...n.childNodes]) {
+      if (c.nodeType === 1 && c.tagName === 'DIV' && c.classList.contains('lt-qpdf')) { const k = c.dataset.k; for (const at of [...c.attributes]) c.removeAttribute(at.name); c.className = 'lt-qpdf'; if (k) c.dataset.k = k.replace(/[^a-z0-9]/g, ''); c.textContent = ''; continue; }
       if (c.nodeType === 1) {
         anda(c);
         if (!PERMITIDAS.has(c.tagName)) {
@@ -83,6 +88,23 @@ function sugerir(texto, nomeArquivo) {
   return melhor;
 }
 
+// Lê de novo o PDF guardado de um conteúdo já enviado e regrava texto + questões (mantém o gabarito já conferido)
+async function reprocessar(c, mats) {
+  if (!c.arquivo) throw new Error('o PDF original não foi guardado; envie de novo para aplicar o padrão');
+  const { paginas } = await lerPdf(await storage.download('conteudos', c.arquivo));
+  const achou = acharQuestoes(paginas);
+  const r = montarHtml(paginas, new Set([...achou.usadas, ...achou.esconder]), marcasDe(achou.questoes));
+  const velho = new Map((c.quiz || []).map((q) => [chaveQ(q.p), q]));
+  const quiz = achou.questoes.map((q) => velho.get(chaveQ(q.p)) || (q.gab ? paraQuiz(q, c.titulo) : null)).filter(Boolean);
+  for (const [k, q] of velho) if (!quiz.some((x) => chaveQ(x.p) === k)) quiz.push(q);
+  const html = limpar(r.html);
+  await db.update('conteudos', { id: 'eq.' + c.id }, { html, quiz });
+  Object.assign(c, { html, quiz });
+  const m = mats.find((x) => x.id === c.materia_id);
+  const banco = await enviarAoBanco(quiz, { materia: m?.nome || c.materia_nome || '', assunto: c.titulo, fonte: c.arquivo }).catch(() => 0);
+  return { inline: (html.match(/lt-qpdf/g) || []).length, banco };
+}
+
 // ---------- tela ----------
 export function conteudoPdf(box) {
   let lido = null;
@@ -95,12 +117,14 @@ export function conteudoPdf(box) {
       <label class="btn" style="margin:0">Escolher PDF<input type="file" id="pdfF" accept="application/pdf,.pdf" hidden></label>
       <span class="muted" id="pdfSt" style="margin-left:8px;font-size:13px"></span>
       <div id="pdfForm"></div>
-      <h3 style="margin-top:18px">Conteúdos enviados (${lista.length})</h3>
+      <div class="row" style="margin-top:18px"><h3 style="margin:0">Conteúdos enviados (${lista.length})</h3><span class="sp"></span>
+        ${lista.length ? '<button class="btn sec mini" id="pdfTodos" title="Lê de novo os PDFs guardados: aplica o padrão visual, põe as questões no meio do texto e manda para o banco">🔄 Reaplicar padrão em todos</button>' : ''}</div>
+      <p class="muted" style="font-size:12.5px;margin:4px 0 8px">“Reaplicar padrão” lê o PDF original de novo: as questões que estão no meio do texto viram questões para responder no mesmo lugar e vão para o <b>banco de questões</b>. Se você editou o texto pelo botão “Editar conteúdo” da leitura, a sua edição continua valendo.</p>
       ${lista.length ? `<div style="overflow-x:auto"><table class="tab"><tr><th>Matéria</th><th>Tópico</th><th>Enviado em</th><th></th></tr>
         ${lista.map((c) => { const m = mats.find((x) => x.id === c.materia_id); const a = c.assunto_id ? m?.assuntos.find((x) => x.id === c.assunto_id) : null;
           return `<tr><td>${esc(m?.nome || c.materia_nome || c.materia_id)}</td><td>${a ? 'Complemento de <b>' + esc(a.titulo) + '</b>: ' : '<b>Tópico novo:</b> '}${esc(c.titulo)}</td>
           <td>${c.created_at ? new Date(c.created_at).toLocaleDateString('pt-BR') : ''}</td>
-          <td style="white-space:nowrap"><a class="btn mini sec" href="#/leitura?a=${encodeURIComponent(c.materia_id)}/${encodeURIComponent(c.assunto_id || 'pdf-' + c.id)}">Ver</a> <button class="btn mini sec" data-apaga="${c.id}">Remover</button></td></tr>`; }).join('')}</table></div>`
+          <td style="white-space:nowrap"><a class="btn mini sec" href="#/leitura?a=${encodeURIComponent(c.materia_id)}/${encodeURIComponent(c.assunto_id || 'pdf-' + c.id)}">Ver</a> <button class="btn mini sec" data-repro="${c.id}" title="Reaplicar padrão">🔄</button> <button class="btn mini sec" data-apaga="${c.id}">Remover</button></td></tr>`; }).join('')}</table></div>`
         : '<p class="muted">Nenhum conteúdo enviado ainda.</p>'}`;
     box.querySelector('#pdfF').onchange = (e) => abrir(e.target.files[0]);
     box.querySelectorAll('[data-apaga]').forEach((b) => (b.onclick = async () => {
@@ -112,6 +136,24 @@ export function conteudoPdf(box) {
         S.conteudos = S.conteudos.filter((x) => x.id !== c.id); toast('Conteúdo removido.'); desenha();
       } catch (er) { toast(er.message, 'erro'); }
     }));
+    const um = async (c) => reprocessar(c, mats);
+    box.querySelectorAll('[data-repro]').forEach((b) => (b.onclick = async () => {
+      const c = S.conteudos.find((x) => x.id === b.dataset.repro); b.disabled = true; b.textContent = '…';
+      try { const r = await um(c); toast(`Padrão aplicado: ${r.inline} questões no meio do texto, ${r.banco} no banco de questões.`); desenha(); }
+      catch (er) { toast(er.message, 'erro'); b.disabled = false; b.textContent = '🔄'; }
+    }));
+    const todos = box.querySelector('#pdfTodos');
+    if (todos) todos.onclick = async () => {
+      if (!confirm(`Reaplicar o padrão nos ${lista.length} conteúdos? Pode levar alguns minutos; não feche a página.`)) return;
+      todos.disabled = true; let ok = 0, q = 0, falhas = [];
+      for (const [i, c] of lista.entries()) {
+        todos.textContent = `Processando ${i + 1} de ${lista.length}…`;
+        try { const r = await um(c); ok++; q += r.banco; } catch (er) { falhas.push(`${c.titulo}: ${er.message}`); }
+      }
+      toast(`${ok} conteúdos atualizados, ${q} questões no banco.${falhas.length ? ` ${falhas.length} sem o PDF original (ver console).` : ''}`, falhas.length ? 'erro' : undefined);
+      if (falhas.length) console.warn('Reaplicar padrão:', falhas);
+      desenha();
+    };
     if (lido) formulario();
   };
 
@@ -125,7 +167,7 @@ export function conteudoPdf(box) {
       const { paginas } = await lerPdf(await file.arrayBuffer(), (n, t) => (st.textContent = `Lendo página ${n} de ${t}…`));
       const achou = acharQuestoes(paginas);
       const pular = new Set([...achou.usadas, ...achou.esconder]);
-      const r = montarHtml(paginas, pular);
+      const r = montarHtml(paginas, pular, marcasDe(achou.questoes));
       r.texto = paginas.flat().map((l) => l.t).join('\n');
       if (r.texto.replace(/\s/g, '').length < 200) { st.textContent = ''; return toast('Não encontrei texto neste PDF. Ele parece ser escaneado (imagem). Envie um PDF com texto selecionável.', 'erro'); }
       const sug = sugerir(r.texto, file.name);
@@ -205,8 +247,10 @@ export function conteudoPdf(box) {
           reg.arquivo = caminho;
         } catch { /* o PDF original é só cópia de segurança; o texto vai mesmo assim */ }
         const [novo] = await db.insert('conteudos', [reg]);
+        let noBanco = 0;
+        if (quiz.length) noBanco = await enviarAoBanco(quiz, { materia: reg.materia_nome || m?.nome || '', assunto: titulo, fonte: lido.file.name }).catch(() => 0);
         S.conteudos = [...(S.conteudos || []), novo || reg];
-        toast((comp ? 'Pronto! O tópico foi complementado.' : 'Pronto! O tópico novo já está na leitura da matéria.') + (quiz.length ? ` ${quiz.length} questões viraram respondíveis.` : ''));
+        toast((comp ? 'Pronto! O tópico foi complementado.' : 'Pronto! O tópico novo já está na leitura da matéria.') + (quiz.length ? ` ${quiz.length} questões viraram respondíveis${noBanco ? ' e foram para o banco de questões' : ''}.` : ''));
         lido = null; desenha();
       } catch (er) { toast(er.message, 'erro'); ev.target.disabled = false; ev.target.textContent = 'Confirmar e enviar para a matéria'; }
     };

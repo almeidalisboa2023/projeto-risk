@@ -1,12 +1,13 @@
 // Leitura interativa: quadro colorido de matérias → índice de tópicos → texto com questões. Aberta a todos os alunos.
-import { S } from '../state.js';
+import { S, isAdmin } from '../state.js';
+import { padronizar, minutosLeitura } from '../estetica.js';
 import { esc, norm, iso, hoje } from '../util.js';
 import { db } from '../backend.js';
 import { toast, modal } from '../ui.js';
 import { visiveis, materiasDe, acharLeitura, chaveQ } from '../leitura/index.js';
 import { meuCurso, minhaBanca } from '../cursos.js';
 import { TEMAS, temaAtual } from '../temas.js';
-import { LETRA, embaralhar, intercalar, carregarHistorico, seloHistorico, registrar, htmlGabarito, htmlQuestao, responder, htmlFlash, cartoesAuto, ligarFlash, chaveDe } from '../questao.js';
+import { LETRA, embaralhar, intercalar, carregarHistorico, seloHistorico, registrar, htmlGabarito, htmlQuestao, responder, htmlFlash, cartoesAuto, ligarFlash, chaveDe, contarFlash } from '../questao.js';
 
 // Padrão da banca do aluno: com banca de 4 alternativas (A a D), a múltipla escolha perde uma alternativa errada
 // (sempre a mesma para cada questão) e o gabarito e as notas são reajustados.
@@ -81,10 +82,11 @@ function leitura(el, q, mat, idx) {
       <ol class="lt-lista">${mat.assuntos.map((x, i) => `<li class="${i === idx ? 'on' : ''} ${L.has(mat.id + '/' + x.id) ? 'lido' : ''}"><a href="${ir(i)}">${esc(x.titulo)}</a></li>`).join('')}</ol>
     </aside>
     <article class="card lt-texto">
-      <div class="row"><span class="pill">${idx + 1} de ${mat.assuntos.length}</span><span class="pill">${esc(a.arts || '')}</span><span class="sp"></span>
+      <div class="row"><span class="pill">${idx + 1} de ${mat.assuntos.length}</span><span class="pill">${esc(a.arts || '')}</span><span class="pill lt-tempo" title="Leitura do texto essencial + aprofundamento">⏱ ~${minutosLeitura(a.html + (a.aprof || ''), 0)} min de leitura</span><span class="sp"></span>
+        ${isAdmin() ? '<button class="btn sec mini" id="ltEditar" title="Só o administrador vê este botão">✏️ Editar conteúdo</button>' : ''}
         <button class="btn sec mini" id="ltMenos" title="Diminuir letra">A−</button><button class="btn sec mini" id="ltMais" title="Aumentar letra">A+</button></div>
       <h2 style="margin:10px 0 4px">${esc(a.titulo)}</h2>
-      <p class="muted" style="font-size:12.5px;margin:0 0 8px">Atualizado em ${esc(mat.atualizado)} · <button class="linkbtn" id="ltErro">⚑ Reportar erro neste texto</button></p>
+      <p class="muted" style="font-size:12.5px;margin:0 0 8px">${a.editado ? 'Revisado pelo administrador' : 'Atualizado em ' + esc(mat.atualizado)} · <button class="linkbtn" id="ltErro">⚑ Reportar erro neste texto</button></p>
       <div class="abas lt-abas" id="ltAbas">
         <button data-aba="ess" class="on">📘 Essencial</button>
         ${a.aprof ? '<button data-aba="apr">🔬 Aprofundamento</button>' : ''}
@@ -106,6 +108,8 @@ function leitura(el, q, mat, idx) {
   </div>`;
 
   const $ = (s) => el.querySelector(s);
+  // padrão visual (quadros de lei, caixas, marca-texto) em qualquer texto, inclusive os vindos de PDF
+  padronizar($('[data-pane="ess"]'), $('[data-pane="apr"]'));
   // Jurisprudência: junta os blocos espalhados no texto numa aba própria
   const jur = $('[data-pane="jur"]');
   el.querySelectorAll('[data-pane="ess"] .lt-juris, [data-pane="apr"] .lt-juris').forEach((j) => jur.appendChild(j));
@@ -131,11 +135,11 @@ function leitura(el, q, mat, idx) {
   // Flashcards: os do conteúdo, ou um baralho automático com os itens de Certo/Errado
   const ess = $('[data-pane="ess"]');
   if (!ess.querySelector('.lt-flash') && a.quiz?.length) ess.insertAdjacentHTML('beforeend', htmlFlash(cartoesAuto(a.quiz), '🃏 Revisão rápida em flashcards: clique no cartão para ver a resposta'));
-  ligarFlash(el);
-  if (a.quiz?.length) {
-    const ctx = contexto(mat, a);
-    carregarHistorico(ctx).then(() => { perguntasNoTexto(el, ctx); quiz(el, mat, a, ctx); });
-  }
+  const ctx = contexto(mat, a);
+  const ligar = () => ligarFlash(el, ctx);
+  if (S.user && !S.flashFeitos) contarFlash().then(ligar); else ligar();
+  if (a.quiz?.length) carregarHistorico(ctx).then(() => { const ja = questoesDoPdf(el, ctx); perguntasNoTexto(el, ctx, ja); quiz(el, mat, a, ctx); });
+  if (isAdmin()) $('#ltEditar').onclick = () => editar(el, q, mat, a);
   $('#ltLido').onclick = () => { const s = lidos(); s.has(k) ? s.delete(k) : s.add(k); gravar(chave(), [...s]); render(el, q); };
 }
 
@@ -147,8 +151,8 @@ export function blocoQuiz(a) {
   const cab = tid !== 'padrao' && S.edital ? `<div class="tema-topo"><span class="tema-selo">${T.selo || ''} ${esc(S.edital.concurso)}</span><div><div class="tema-tit">Treino de questões · <span>${esc(T.titulo || '')}</span></div><div class="tema-sub">${esc(a.titulo || '')}</div></div></div>` : '<h3>🎯 Teste seu conhecimento</h3>';
   return `<div class="lt-quiz ${tid !== 'padrao' ? 'tema-wrap tema-' + tid + ' lt-qtema' : ''}">${cab}
         <p class="muted" style="margin-top:0">${nCE} de Certo ou Errado${nME ? ` e ${nME} de múltipla escolha` : ''}. <span id="ltPlacar"></span></p>
-        <div class="row lt-qbar">${nME && nCE ? `<select id="ltTipo"><option value="">Todas</option><option value="ce">Só Certo/Errado</option><option value="me">Só múltipla escolha</option></select>` : ''}
-          <select id="ltHist"><option value="">Todas</option><option value="novas">Só as que nunca respondi</option><option value="erradas">Só as que errei</option><option value="semacerto">Esconder as que já acertei</option></select>
+        <div class="row lt-qbar">${nME && nCE ? `<select id="ltTipo"><option value="">Todos os tipos</option><option value="ce">Só Certo/Errado</option><option value="me">Só múltipla escolha</option></select>` : ''}
+          <select id="ltHist"><option value="">Todas as questões</option><option value="novas">Só as que nunca respondi</option><option value="erradas">Só as que errei</option><option value="semacerto">Esconder as que já acertei</option></select>
           <button class="btn sec mini" id="ltMist">🔀 Embaralhar</button><span class="sp"></span><span class="muted" style="font-size:13px" id="ltPag"></span>
           <button class="btn sec mini" id="ltAnt">‹</button><button class="btn sec mini" id="ltProx">›</button></div>
         <div id="ltLista"></div>
@@ -164,8 +168,24 @@ function contexto(mat, a) {
 }
 
 // Questões dentro do texto: um "Pare e responda" depois de algumas seções (prefere as que o aluno ainda não acertou)
-function perguntasNoTexto(el, ctx) {
-  const ess = el.querySelector('[data-pane="ess"]'); if (!ess || ess.querySelector('.lt-qin')) return;
+// Questões que estavam no meio do PDF: aparecem no mesmo lugar, para responder (marcador .lt-qpdf com a chave do enunciado)
+function questoesDoPdf(el, ctx) {
+  const usadas = new Set();
+  const q = ctx.a.quiz || [];
+  el.querySelectorAll('[data-pane="ess"] .lt-qpdf[data-k]').forEach((mk) => {
+    const i = q.findIndex((x) => chaveQ(x.p) === mk.dataset.k); if (i < 0) { mk.remove(); return; }
+    usadas.add(i);
+    const box = document.createElement('div'); box.className = 'lt-qin lt-q'; box.dataset.q = i;
+    box.innerHTML = `<b class="lt-tit">🎯 Questão do material</b>` + htmlQuestao(q[i], ctx);
+    mk.replaceWith(box);
+    box.querySelectorAll('[data-r]').forEach((b) => (b.onclick = () => { if (box.dataset.feito) return; box.dataset.feito = 1; registrar(ctx, q[i], responder(box, q[i], b.dataset.r)); }));
+  });
+  if (usadas.size) el.querySelectorAll('.lt-q-aviso').forEach((x) => x.remove());
+  return usadas;
+}
+
+function perguntasNoTexto(el, ctx, ja = new Set()) {
+  const ess = el.querySelector('[data-pane="ess"]'); if (!ess || ess.querySelector('.lt-qin:not([data-pdf])') || ja.size) return;
   const marcadores = [...ess.querySelectorAll('.lt-pare')];
   const h3 = [...ess.querySelectorAll(':scope > h3')];
   const pontos = marcadores.length ? marcadores : h3.filter((_, i) => i > 0 && i % 2 === 0);
@@ -230,4 +250,75 @@ export function quiz(el, mat, a, ctx0) {
   $('#ltHist').onchange = () => { pag = 0; desenhar(); };
   $('#ltMist').onclick = () => { ordem = intercalar(a.quiz, ordem.map((i) => [Math.random(), i]).sort((x, y) => x[0] - y[0]).map((x) => x[1])); pag = 0; desenhar(); };
   desenhar();
+}
+
+// ---------- edição do texto pelo administrador ----------
+// Edita o texto "cru" do tópico (sem as questões e marcações automáticas) e grava em leitura_edicoes: vale para todos os alunos.
+const limparEdicao = (html) => {
+  const t = document.createElement('template'); t.innerHTML = html;
+  t.content.querySelectorAll('script,iframe,object,embed,style,link,meta').forEach((x) => x.remove());
+  t.content.querySelectorAll('*').forEach((x) => [...x.attributes].forEach((at) => { if (/^on/i.test(at.name) || /javascript:/i.test(at.value) || at.name === 'contenteditable') x.removeAttribute(at.name); }));
+  return t.innerHTML.replace(/<p>\s*(<br>)?\s*<\/p>/g, '').trim();
+};
+function editar(el, q, mat, a) {
+  const corpo = el.querySelector('.lt-corpo');
+  el.querySelectorAll('[data-pane="qst"], #ltAbas').forEach((x) => (x.hidden = true));
+  const editado = (S.edicoes || []).some((e) => e.id === mat.id + '/' + a.id);
+  corpo.innerHTML = `<div class="ed-barra">
+      <button data-c="bold" title="Negrito"><b>B</b></button>
+      <button data-m="mark" title="Marca-texto">🖍 Destacar</button>
+      <button data-b="h3" title="Título da seção">Título</button>
+      <button data-b="p" title="Parágrafo normal">¶ Texto</button>
+      <button data-c="insertUnorderedList" title="Lista">• Lista</button>
+      <button data-x="lt-peg" title="Caixa de atenção">⚠ Atenção</button>
+      <button data-x="lt-dica" title="Caixa de dica">💡 Dica</button>
+      <button data-x="lt-ex" title="Caixa de exemplo">✍ Exemplo</button>
+      <button data-x="lt-lei" title="Quadro de texto da lei">📜 Lei</button>
+      <button data-c="undo" title="Desfazer">↶</button>
+      <button data-html title="Editar o código HTML">&lt;/&gt;</button>
+    </div>
+    <div class="ed-area" contenteditable="true">${a.html}</div>
+    <textarea class="ed-cod" hidden></textarea>
+    <div class="row" style="margin-top:10px"><button class="btn sec" id="edCanc">Cancelar</button>
+      ${editado ? '<button class="btn sec" id="edVolta" title="Apaga a edição e volta ao texto original do app">Restaurar original</button>' : ''}
+      <span class="sp"></span><span class="muted" style="font-size:12.5px">Vale para todos os alunos.</span><button class="btn verde" id="edOk">Salvar</button></div>`;
+  const area = corpo.querySelector('.ed-area'), cod = corpo.querySelector('.ed-cod');
+  const bloco = () => { let n = getSelection().anchorNode; while (n && n.parentNode !== area) n = n.parentNode; return n && n !== area ? n : null; };
+  corpo.querySelectorAll('.ed-barra button').forEach((b) => (b.onmousedown = (ev) => ev.preventDefault()));
+  corpo.querySelectorAll('[data-c]').forEach((b) => (b.onclick = () => document.execCommand(b.dataset.c)));
+  corpo.querySelectorAll('[data-b]').forEach((b) => (b.onclick = () => document.execCommand('formatBlock', false, b.dataset.b)));
+  corpo.querySelector('[data-m]').onclick = () => {
+    const s = getSelection(); if (!s.rangeCount || s.isCollapsed) return toast('Selecione o trecho que quer destacar.', 'erro');
+    const r = s.getRangeAt(0), mk = document.createElement('mark'); mk.className = 'lt-hl';
+    try { r.surroundContents(mk); } catch { toast('Selecione um trecho dentro de um mesmo parágrafo.', 'erro'); }
+  };
+  const TIT = { 'lt-peg': '⚠ Atenção', 'lt-dica': '💡 Dica de memorização', 'lt-ex': '✍ Exemplo', 'lt-lei': '📜 Texto da lei' };
+  corpo.querySelectorAll('[data-x]').forEach((b) => (b.onclick = () => {
+    const n = bloco(); if (!n) return toast('Clique dentro do parágrafo que vai virar caixa.', 'erro');
+    if (n.nodeType === 1 && n.classList.contains(b.dataset.x)) { n.replaceWith(...[...n.childNodes].filter((c) => !c.classList?.contains('lt-tit'))); return; }
+    const d = document.createElement('div'); d.className = b.dataset.x; d.innerHTML = `<b class="lt-tit">${TIT[b.dataset.x]}</b> `;
+    n.before(d); d.appendChild(n);
+  }));
+  corpo.querySelector('[data-html]').onclick = () => {
+    if (cod.hidden) { cod.value = area.innerHTML; cod.hidden = false; area.hidden = true; }
+    else { area.innerHTML = cod.value; cod.hidden = true; area.hidden = false; }
+  };
+  const volta = () => render(el, q);
+  corpo.querySelector('#edCanc').onclick = volta;
+  const id = mat.id + '/' + a.id;
+  corpo.querySelector('#edVolta')?.addEventListener('click', async () => {
+    if (!confirm('Apagar a edição e voltar ao texto original deste tópico?')) return;
+    try { await db.remove('leitura_edicoes', { id: 'eq.' + id }); S.edicoes = (S.edicoes || []).filter((e) => e.id !== id); toast('Texto original restaurado.'); volta(); } catch (er) { toast(er.message, 'erro'); }
+  });
+  corpo.querySelector('#edOk').onclick = async (ev) => {
+    const html = limparEdicao(cod.hidden ? area.innerHTML : cod.value);
+    if (html.replace(/<[^>]+>/g, '').trim().length < 20) return toast('O texto ficou vazio.', 'erro');
+    ev.target.disabled = true;
+    const reg = { id, html, editado_por: S.user.id, atualizado_em: new Date().toISOString() };
+    try {
+      await db.insert('leitura_edicoes', [reg], { upsert: true, onConflict: 'id' });
+      S.edicoes = [...(S.edicoes || []).filter((e) => e.id !== id), reg];
+      toast('Texto salvo. Já vale para todos os alunos.'); volta();
+    } catch (er) { ev.target.disabled = false; toast(/leitura_edicoes/.test(er.message) ? 'Rode a atualização 15 no Supabase antes de editar.' : er.message, 'erro'); }
+  };
 }

@@ -2,6 +2,8 @@
 // Usado no "Conteúdo em PDF" (leitura) e nas "Apostilas". O gabarito e os comentários encontrados no PDF
 // são separados do texto: aparecem só depois que o aluno responde.
 import { norm } from './util.js';
+import { db } from './backend.js';
+import { chaveQ } from './leitura/index.js';
 
 let pdfjs = null;
 export async function carregaPdfJs() {
@@ -80,7 +82,7 @@ export function acharQuestoes(paginas) {
     // gabarito dentro da questão
     const gi = t.match(GAB_INLINE);
     if (gi && /^[a-e]$/.test(gi[1])) { /* letra minúscula solta: provavelmente artigo ('resposta a ...'), não gabarito */ } else
-    if (gi && q) { q.gab = letra(gi[1]); q.linhasGab.push(l); modo = 'com'; const resto = t.slice(gi[0].length).replace(/^[\s.\-–—:]+/, ''); if (resto) q.com = junta(q.com, resto); continue; }
+    if (gi && q) { q.gab = letra(gi[1]); q.linhasGab.push(l); const resto = t.slice(gi[0].length).replace(/^[\s.\-–—:]+/, ''); modo = resto ? 'com' : 'posgab'; if (resto) q.com = junta(q.com, resto); continue; }
     const cm = t.match(COMENT);
     if (cm && q) { q.linhasGab.push(l); modo = 'com'; if (cm[2]) q.com = junta(q.com, cm[2]); continue; }
     // começo de questão
@@ -92,6 +94,8 @@ export function acharQuestoes(paginas) {
       continue;
     }
     if (!q) continue;
+    // depois do gabarito, só vira comentário o que vier com "Comentário:"; o resto volta a ser texto da matéria
+    if (modo === 'posgab') { fecha(); continue; }
     if (modo === 'com') { q.com = junta(q.com, t); q.linhasGab.push(l); continue; }
     // alternativas (uma por linha ou várias na mesma linha)
     const inl = [...t.matchAll(ALT_INLINE)];
@@ -145,4 +149,16 @@ export function painelQuestoes(box, questoes, esc) {
       <select data-pg="${i}">${q.alts ? '<option value="">—</option>' + q.alts.map((_, k) => `<option ${q.gab === 'ABCDE'[k] ? 'selected' : ''}>${'ABCDE'[k]}</option>`).join('') : `<option value="">—</option><option value="C" ${q.gab === 'C' ? 'selected' : ''}>Certo</option><option value="E" ${q.gab === 'E' ? 'selected' : ''}>Errado</option>`}</select></div>`).join('')}</div></div>`;
   box.querySelectorAll('[data-pg]').forEach((s) => (s.onchange = () => { const i = Number(s.dataset.pg); questoes[i].gab = s.value || null; box.querySelector(`[data-pq="${i}"]`).checked = !!s.value; }));
   return () => questoes.filter((q, i) => box.querySelector(`[data-pq="${i}"]`).checked && q.gab);
+}
+
+// Manda as questões (formato do quiz da leitura) para o banco de questões (tabela questoes), sem duplicar:
+// o código é "PDF-" + a chave do enunciado, então reenviar só atualiza.
+export async function enviarAoBanco(quiz, { materia = '', assunto = '', fonte = '' } = {}) {
+  const linhas = (quiz || []).filter((q) => q && q.p && (q.alts ? q.r >= 0 && q.r < q.alts.length : typeof q.c === 'boolean')).map((q) => ({
+    codigo: 'PDF-' + chaveQ(q.p), modalidade: q.alts ? 'multipla_escolha' : 'certo_errado', enunciado: q.p, alternativas: q.alts || [],
+    gabarito: q.alts ? 'ABCDE'[q.r] : q.c ? 'C' : 'E', comentario: [q.x, q.e].filter(Boolean).join('\n\n') || null,
+    materia: materia || null, assunto: assunto || null, fonte: fonte || null, origem: 'publica', situacao: 'atualizada', tags: 'pdf',
+  }));
+  for (let i = 0; i < linhas.length; i += 200) await db.insert('questoes', linhas.slice(i, i + 200), { upsert: true, onConflict: 'codigo' });
+  return linhas.length;
 }

@@ -64,8 +64,14 @@ export function comConteudos(base = MATERIAS_TODAS, lista = S.conteudos || []) {
 
 // Matérias que o aluno logado pode ver: as do curso dele (definido pelo administrador), sem as removidas.
 // Administrador ou conta sem curso: todas. Para quem tem curso, a matéria do curso aparece mesmo que o edital não cite o município.
+// Textos editados pelo administrador (tabela leitura_edicoes) substituem o texto do tópico
+export function comEdicoes(base) {
+  const ed = new Map((S.edicoes || []).map((e) => [e.id, e]));
+  if (!ed.size) return base;
+  return base.map((m) => ({ ...m, assuntos: m.assuntos.map((a) => { const e = ed.get(m.id + '/' + a.id); return e ? { ...a, html: e.html, editado: e.atualizado_em || true } : a; }) }));
+}
 export function visiveis() {
-  const v = filtrarMaterias(comConteudos());
+  const v = filtrarMaterias(comEdicoes(comConteudos()));
   return meuCurso() ? v.map((m) => (m.soEdital ? { ...m, soEdital: null } : m)) : v;
 }
 
