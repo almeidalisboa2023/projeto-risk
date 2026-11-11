@@ -78,19 +78,53 @@ async function descarregar(fk) {
 const tudo = () => { for (const k of filas.keys()) descarregar(k); };
 window.addEventListener('hashchange', tudo); window.addEventListener('pagehide', tudo);
 
-// ---------- gabarito com fala de professor ----------
-const ABRE_OK = ['Boa! Mandou bem.', 'Isso aí, acertou!', 'Perfeito, é isso mesmo.', 'Show! Você pegou a ideia.', 'Acertou! Agora vamos garantir que foi pelo motivo certo.'];
-const ABRE_ERRO = ['Calma, essa derruba muita gente. Vem comigo:', 'Não foi dessa vez, mas olha que interessante:', 'Errar aqui é ótimo, porque agora você não erra na prova. Olha só:', 'Quase! Presta atenção neste detalhe:', 'Essa é clássica de prova. Vou te explicar:'];
-const PONTE = ['Pensa assim:', 'O raciocínio é este:', 'Repara:', 'Olha o que a lei diz:', 'A lógica é simples:'];
-export function htmlGabarito(q, ok) {
-  const h = hash(q.p);
-  const gab = q.alts ? `letra <b>${LETRA[q.r]}</b>` : `<b>${q.c ? 'CERTO' : 'ERRADO'}</b>`;
-  const prof = q.prof || `${(ok ? ABRE_OK : ABRE_ERRO)[h % 5]} ${!q.alts ? `O item está ${q.c ? '<b>certo</b>' : '<b>errado</b>'}.` : `A resposta é a ${gab}.`} ${PONTE[(h >> 3) % 5]}`;
-  const notas = q.alts && q.n ? `<ul class="lt-gn">${q.alts.map((t, k) => `<li class="${k === q.r ? 'ok' : ''}"><b>${LETRA[k]}</b> ${k === q.r ? '✔' : '✘'} ${esc(q.n[k] || '')}</li>`).join('')}</ul>` : '';
+// ---------- gabarito em forma de bate-papo com o professor ----------
+// Escolhe sempre um índice válido (nada de "undefined" no texto).
+const um = (lista, n) => lista[((n >>> 0) % lista.length + lista.length) % lista.length];
+const ABRE_OK = ['Boa! Mandou bem.', 'Isso aí, acertou!', 'Perfeito, é isso mesmo.', 'Show! Você pegou a ideia.', 'Acertou! Agora vamos garantir que foi pelo motivo certo, e não no chute.', 'Muito bem! Essa a banca adora cobrar.'];
+const ABRE_ERRO = ['Calma, essa derruba muita gente. Vem comigo que eu te mostro.', 'Não foi dessa vez, mas olha que interessante o que está por trás dela.', 'Errar aqui é ótimo: agora você não erra na prova. Olha só.', 'Quase! O detalhe que pegou você é justamente o que a banca gosta de trocar.', 'Essa é clássica de prova. Bora entender de vez.', 'Tranquilo, essa tem uma casca de banana. Vou te explicar.'];
+const POR_QUE = ['E por quê?', 'Vamos ao motivo:', 'Pensa comigo:', 'O raciocínio é este:', 'Repara no detalhe:', 'Olha o que a lei diz:'];
+const ERRADO_PORQUE = ['O erro do item está aqui:', 'Onde está a pegadinha?', 'O que deixa o item errado é isto:', 'A banca trocou um detalhe:'];
+const OUTRAS = ['E as outras alternativas? Olha por que cada uma cai:', 'Agora vamos olhar as outras, porque a banca pode cobrar qualquer uma delas:', 'Bora passar pelas demais, uma por uma:'];
+const FECHO = ['📌 Pra levar pra prova:', '📌 Anota aí:', '📌 Resumindo em uma frase:'];
+const msg = (t, cls = '') => t ? `<div class="lt-msg ${cls}"><div class="lt-bal">${t}</div></div>` : '';
+const corta = (t, n = 140) => { t = String(t ?? ''); return t.length > n ? t.slice(0, n - 1) + '…' : t; };
+
+export function htmlGabarito(q, ok, marcada) {
+  const h = hash(q.p), me = Array.isArray(q.alts) && q.alts.length;
+  const r = me ? Math.max(0, Math.min(q.alts.length - 1, Number(q.r) || 0)) : 0;
+  const gab = me ? `letra <b>${LETRA[r]}</b>` : `<b>${q.c ? 'CERTO' : 'ERRADO'}</b>`;
+  const x = String(q.x || '').trim(), e = String(q.e || '').trim(), pg = String(q.pg || '').trim();
+  // 1) abertura + veredito
+  let ver;
+  if (me) ver = `A resposta é a ${gab}: “${esc(corta(q.alts[r], 220))}”.`;
+  else if (q.c) ver = ok ? 'O item está <b>certo</b>, do jeitinho que a lei e a doutrina dizem.' : 'Você marcou Errado, mas o item está <b>certo</b>.';
+  else ver = ok ? 'O item está <b>errado</b> mesmo, e é importante saber exatamente onde.' : 'Você marcou Certo, mas o item está <b>errado</b>.';
+  const partes = [msg(`${um(ok ? ABRE_OK : ABRE_ERRO, h)} ${ver}`, 'abre')];
+  // 2) explicação: fala do professor (T:) e explicação (X:)
+  const prof = String(q.prof || '').trim();
+  if (prof) partes.push(msg(esc(prof)));
+  const base = x || (!prof ? e : '');
+  if (base) {
+    const intro = !me && !q.c ? um(ERRADO_PORQUE, h >>> 3) : um(POR_QUE, h >>> 3);
+    partes.push(msg(`${prof ? '' : `<b>${intro}</b> `}${esc(base)}`));
+  }
+  // 3) quem errou uma múltipla escolha: por que a marcada não serve
+  const m = marcada === undefined || marcada === null || marcada === '' ? -1 : Number(marcada);
+  if (me && !ok && m >= 0 && m < q.alts.length && m !== r) {
+    const nota = Array.isArray(q.n) ? String(q.n[m] || '').trim() : '';
+    partes.push(msg(`Você marcou a <b>${LETRA[m]}</b> (“${esc(corta(q.alts[m]))}”). ${nota ? `Ela não serve porque ${esc(nota.charAt(0).toLowerCase() + nota.slice(1))}` : 'Ela parece certa à primeira vista, mas não é o que a regra diz: compare com a correta acima, palavra por palavra.'}`, 'sua'));
+  }
+  // 4) pegadinha
+  if (pg) partes.push(msg(`<b>⚠ Fica esperto:</b> ${esc(pg)}`, 'peg'));
+  // 5) comentário de cada alternativa
+  if (me && Array.isArray(q.n) && q.n.some((t) => String(t || '').trim())) {
+    partes.push(msg(`<b>${um(OUTRAS, h >>> 5)}</b><ul class="lt-gn">${q.alts.map((t, k) => { const nt = String(q.n[k] || '').trim(); return `<li class="${k === r ? 'ok' : ''}"><b>${LETRA[k]}</b> ${k === r ? '✔' : '✘'} ${nt ? esc(nt) : esc(corta(t, 120))}</li>`; }).join('')}</ul>`));
+  }
+  // 6) fecho
+  if (e && (x || prof)) partes.push(msg(`<b>${um(FECHO, h >>> 7)}</b> ${esc(e)}`, 'fecho'));
   return `<b>${ok ? '✅ Você acertou!' : '❌ Não foi dessa vez.'}</b> Gabarito: ${gab}.
-    <div class="lt-gab"><p class="lt-prof"><span>👨‍🏫</span><span>${prof}</span></p>
-    ${q.x ? `<p>${esc(q.x)}</p>` : q.e ? `<p>${esc(q.e)}</p>` : ''}
-    ${q.pg ? `<p class="lt-gpg"><b>⚠ Fica esperto:</b> ${esc(q.pg)}</p>` : ''}${notas}${q.x && q.e ? `<p class="lt-gf">📌 ${esc(q.e)}</p>` : ''}</div>`;
+    <div class="lt-gab lt-chat"><div class="lt-av">👨‍🏫 <b>Professor</b></div>${partes.join('')}</div>`;
 }
 
 // ---------- uma questão interativa (usada dentro do texto) ----------
@@ -104,7 +138,7 @@ export function responder(box, q, r) {
   const ok = q.alts ? Number(r) === q.r : (r === '1') === q.c;
   box.querySelectorAll('[data-r]').forEach((y) => { y.disabled = true; y.classList.toggle('lt-marcado', y.dataset.r === String(r)); if (q.alts && Number(y.dataset.r) === q.r) y.classList.add('lt-certa'); });
   box.classList.add(ok ? 'ok' : 'erro');
-  box.querySelector('.lt-q-res').innerHTML = htmlGabarito(q, ok);
+  box.querySelector('.lt-q-res').innerHTML = htmlGabarito(q, ok, r);
   return ok;
 }
 
@@ -114,10 +148,16 @@ export function htmlFlash(cartoes, titulo = '🃏 Flashcards: clique no cartão 
   if (!cartoes.length) return '';
   return `<div class="lt-flash-box"><b class="lt-tit">${titulo}</b><div class="lt-flash">${cartoes.map(([f, v]) => `<button type="button" class="lt-fc"><span class="fr">${f}</span><span class="vs">${v}</span></button>`).join('')}</div></div>`;
 }
+const VIRA_C = ['Certo! E olha o porquê:', 'Tá certo. Repara:', 'Certinho. A lógica é esta:'];
+const VIRA_E = ['Errado! O pulo do gato:', 'Errado. Onde está a casca de banana:', 'Errado, e a banca adora isso:'];
 export function cartoesAuto(quiz, max = 8) {
-  return quiz.filter((q) => !q.alts && q.p.length < 220).slice(0, 40)
+  return quiz.filter((q) => !q.alts && String(q.p || '').length < 240 && (q.x || q.e || q.prof)).slice(0, 60)
     .sort((a, b) => hash(a.p) - hash(b.p)).slice(0, max)
-    .map((q) => [`<small>Certo ou errado?</small>${esc(q.p)}`, `<b>${q.c ? 'CERTO' : 'ERRADO'}</b>${esc(q.x || q.e || '')}`]);
+    .map((q) => {
+      const h = hash(q.p), fala = String(q.prof || q.x || q.e || '').trim();
+      return [`<small>Certo ou errado?</small>${esc(q.p)}`,
+        `<b class="${q.c ? 'ok' : 'erro'}">${um(q.c ? VIRA_C : VIRA_E, h)}</b><span>${esc(corta(fala, 360))}</span>${q.e && q.e !== fala ? `<small>📌 ${esc(corta(q.e, 160))}</small>` : ''}`];
+    });
 }
 export function ligarFlash(el) {
   el.querySelectorAll('.lt-fc').forEach((c) => (c.onclick = () => c.classList.toggle('virado')));

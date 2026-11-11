@@ -14,6 +14,7 @@ import { NOVAS } from './novas/index.js';
 import { APROFUNDA } from './aprofunda.js';
 import { JURIS } from './juris.js';
 import { GAB } from './gab/index.js';
+import { PROFUNDO } from './profundo.js';
 
 // Cor e ícone de cada matéria (quadro colorido da página de leitura)
 const VISUAL = {
@@ -22,7 +23,9 @@ const VISUAL = {
 };
 // Ordem do quadro; processo penal vem antes de penal para "Direito Penal e Processual Penal" achar os dois
 const junta = (a, x) => (x ? { ...a, aprof: (a.aprof || '') + (x.html || ''), quiz: [...(a.quiz || []), ...(x.quiz || [])] } : a);
-const aprofundar = (m) => ({ ...m, assuntos: m.assuntos.map((a) => junta(junta(a, APROFUNDA[m.id]?.[a.id]), JURIS[m.id]?.[a.id])) });
+// Texto aprofundado (profundo.js) substitui o texto curto do assunto e soma as questões novas
+const fundo = (a, p) => (p ? { ...a, html: p.html, quiz: [...(p.quiz || []), ...(a.quiz || [])], profundo: true } : a);
+const aprofundar = (m) => ({ ...m, assuntos: m.assuntos.map((a) => junta(junta(fundo(a, PROFUNDO[m.id]?.[a.id]), APROFUNDA[m.id]?.[a.id]), JURIS[m.id]?.[a.id])) });
 // Gabarito comentado: junta explicação (x), pegadinha (pg) e notas das alternativas (n) pela chave do enunciado (hash FNV-1a)
 export const chaveQ = (p) => { let h = 2166136261; for (const c of norm(p)) { h ^= c.codePointAt(0); h = Math.imul(h, 16777619) >>> 0; } return h.toString(36); };
 const comGab = (m) => { const G = GAB[m.id]; if (!G) return m;

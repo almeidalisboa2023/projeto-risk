@@ -109,7 +109,9 @@ function leitura(el, q, mat, idx) {
   // Jurisprudência: junta os blocos espalhados no texto numa aba própria
   const jur = $('[data-pane="jur"]');
   el.querySelectorAll('[data-pane="ess"] .lt-juris, [data-pane="apr"] .lt-juris').forEach((j) => jur.appendChild(j));
-  if (jur.querySelector('.lt-juris')) $('[data-aba="jur"]').hidden = false;
+  // jurisprudência comentada fica no texto e ganha uma cópia na aba de jurisprudência
+  el.querySelectorAll('[data-pane="ess"] .lt-jc, [data-pane="apr"] .lt-jc').forEach((j) => jur.appendChild(j.cloneNode(true)));
+  if (jur.querySelector('.lt-juris, .lt-jc')) $('[data-aba="jur"]').hidden = false;
   el.querySelectorAll('#ltAbas [data-aba]').forEach((b) => (b.onclick = () => {
     el.querySelectorAll('#ltAbas [data-aba]').forEach((y) => y.classList.toggle('on', y === b));
     el.querySelectorAll('[data-pane]').forEach((p) => (p.hidden = p.dataset.pane !== b.dataset.aba));
@@ -171,7 +173,7 @@ function perguntasNoTexto(el, ctx) {
   const q = ctx.a.quiz; if (!q?.length || !pontos.length) return;
   const nao = q.map((_, i) => i).filter((i) => !ctx.hist.get(chaveDe(ctx, q[i]))?.acertou);
   const pool = intercalar(q, nao.length >= pontos.length ? nao : q.map((_, i) => i));
-  pontos.slice(0, 5).forEach((p, k) => {
+  pontos.slice(0, 8).forEach((p, k) => {
     const i = pool[k]; if (i === undefined) return;
     const box = document.createElement('div'); box.className = 'lt-qin lt-q'; box.dataset.q = i;
     box.innerHTML = `<b class="lt-tit">🎯 Pare e responda</b>` + htmlQuestao(q[i], ctx);

@@ -638,3 +638,35 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .lt-qtema .lt-gab { background: rgba(0,0,0,.18); border-color: var(--t-borda); }
 .lt-qtema .lt-gpg { color: #ffd08a; }
 .lt-qtema .lt-hist.ok { background: #1d5f3a; color: #d7ffe4; } .lt-qtema .lt-hist.erro { background: #6b1f1f; color: #ffdede; }
+
+/* Gabarito em bate-papo com o professor */
+.lt-chat { display: flex; flex-direction: column; gap: 7px; }
+.lt-av { font-size: 12.5px; color: var(--txt2); display: flex; align-items: center; gap: 6px; }
+.lt-msg { display: flex; }
+.lt-bal { max-width: 96%; background: var(--card); border: 1px solid var(--borda); border-radius: 4px 14px 14px 14px; padding: 8px 12px; line-height: 1.5; font-size: 14.5px; }
+.lt-msg.abre .lt-bal { background: color-mix(in srgb, var(--ouro) 16%, var(--card)); border-color: color-mix(in srgb, var(--ouro) 50%, transparent); }
+.lt-msg.sua .lt-bal { background: color-mix(in srgb, var(--vermelho) 9%, var(--card)); border-color: color-mix(in srgb, var(--vermelho) 35%, transparent); }
+.lt-msg.peg .lt-bal { background: color-mix(in srgb, var(--vermelho) 7%, var(--card)); }
+.lt-msg.fecho .lt-bal { background: color-mix(in srgb, var(--verde) 10%, var(--card)); }
+.lt-bal .lt-gn { margin: 6px 0 0; }
+.lt-qtema .lt-bal { background: rgba(255,255,255,.07); border-color: var(--t-borda); color: var(--t-txt); }
+.lt-qtema .lt-msg.abre .lt-bal { background: color-mix(in srgb, var(--t-ac) 22%, transparent); }
+/* flashcards crescem conforme o texto do verso */
+.lt-fc { display: grid; }
+.lt-fc .fr, .lt-fc .vs { position: relative; inset: auto; grid-area: 1 / 1; min-height: 150px; }
+.lt-fc .vs b.ok { color: var(--verde); } .lt-fc .vs b.erro { color: var(--vermelho); }
+.lt-fc .vs small { color: var(--txt2); font-size: 12px; }
+/* jurisprudência comentada */
+.lt-jc { margin: 18px 0; border: 1px solid var(--borda); border-left: 5px solid #7B3FA0; border-radius: 10px; padding: 12px 14px; background: color-mix(in srgb, #7B3FA0 6%, var(--card)); }
+.lt-jc .lt-tit { display: block; margin-bottom: 4px; }
+.lt-jc .jc-tese { font-weight: 600; margin: 4px 0 8px; padding: 8px 10px; border-radius: 8px; background: var(--card); border: 1px dashed var(--borda); }
+.lt-jc .jc-com { margin: 0; }
+.lt-jc .jc-com::before { content: '💬 Comentário: '; font-weight: 700; }
+.lt-caso { margin: 18px 0; border-radius: 12px; padding: 12px 14px; background: color-mix(in srgb, var(--azul, #2B6CB0) 8%, var(--card)); border: 1px solid color-mix(in srgb, var(--azul, #2B6CB0) 35%, transparent); }
+.lt-caso .lt-tit { display: block; margin-bottom: 4px; }
+.lt-caso details { margin-top: 8px; } .lt-caso summary { cursor: pointer; font-weight: 600; }
+.lt-qtema .lt-msg .lt-bal { background: rgba(255,255,255,.07); border-color: var(--t-borda); color: var(--t-txt); }
+.lt-qtema .lt-msg.abre .lt-bal { background: color-mix(in srgb, var(--t-ac) 24%, transparent); }
+.lt-qtema .lt-msg.sua .lt-bal, .lt-qtema .lt-msg.peg .lt-bal { background: rgba(220,60,60,.16); }
+.lt-qtema .lt-msg.fecho .lt-bal { background: rgba(60,180,110,.16); }
+.lt-qtema .lt-av { color: var(--t-txt); opacity: .8; }
