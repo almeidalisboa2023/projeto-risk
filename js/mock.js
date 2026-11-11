@@ -48,10 +48,23 @@ function seed() {
   return {
     profiles: [{ id: USER.id, email: USER.email, nome: 'Lucas Matheus', role: 'admin', lingua: 'espanhol', blocos: [{ hora: '08:00', min: 50 }, { hora: '09:00', min: 50 }, { hora: '21:00', min: 50 }], meta_agua: 4000, edital_atual: ed, meta_questoes: 30, revisao_auto: true, cpf: '12345678909', status: 'aprovado' }, { id: uid(), email: 'novo.aluno@gmail.com', nome: 'Aluno Novo', role: 'aluno', status: 'pendente', created_at: new Date().toISOString() }, { id: uid(), email: 'eduarda@gmail.com', nome: 'Eduarda Souza', role: 'aluno', status: 'pendente', cpf: '98765432100', telefone: '(31) 98888-7777', cidade: 'Belo Vale/MG', curso_solicitado: 'belovale-procurador', dados_ok_em: new Date().toISOString(), materias_removidas: [], created_at: new Date().toISOString() }],
     editais: [{ id: ed, user_id: USER.id, concurso: 'PRF 2027', cargo: 'Policial Rodoviário Federal', banca: 'Cebraspe', formato: 'certo_errado', data_prova: null, data_inicio: inicio, cor: 'rosa', ativo: true }],
+    ...demoVendas(),
     topicos: tops, tarefas, question_logs: logs, questoes, respostas: [], reportes: [], agua: [], simulados: [], ia_pedidos: [], provas: [], sessoes_estudo: sessoes, resumos: [],
   };
 }
-function load() { if (D) return; try { D = JSON.parse(localStorage.getItem(KEY) || 'null'); } catch { D = null; } if (!D) { D = seed(); persist(); } }
+// Demonstração da vitrine, dos prazos de acesso e das compras
+function demoVendas() {
+  const d = (n) => iso(addDias(hoje(), n));
+  const cv = uid();
+  const aluno = (nome, email, extra) => ({ id: uid(), email, nome, role: 'aluno', status: 'aprovado', telefone: '(38) 99999-0000', cidade: 'Pirapora/MG', cpf: '11122233344', curso: 'prf', banca: 'cebraspe', materias_removidas: [], dados_ok_em: new Date().toISOString(), created_at: new Date().toISOString(), ...extra });
+  return {
+    _alunosDemo: [aluno('Ana Ativa', 'ana@exemplo.com', { acesso_ate: d(120) }), aluno('Bruno Vencendo', 'bruno@exemplo.com', { acesso_ate: d(6) }), aluno('Carla Vencida', 'carla@exemplo.com', { acesso_ate: d(-4) }), aluno('Diego Bloqueado', 'diego@exemplo.com', { acesso_ate: d(40), bloqueado: true, bloqueio_motivo: 'Compra reembolsada na Hotmart (HP0001)' })],
+    cursos_venda: [{ id: cv, titulo: 'Preparatório PRF 2027', orgao: 'Polícia Rodoviária Federal', cargo: 'Policial Rodoviário Federal', situacao: 'Edital previsto', vagas: '1.000', salario: 'R$ 10.400', banca: 'Cebraspe', escolaridade: 'Nível superior', data_prova: 'a definir', materias: 'Língua Portuguesa\nRaciocínio Lógico-Matemático\nLegislação de Trânsito\nResoluções CONTRAN\nÉtica e Cidadania', descricao: 'Calendário de estudos montado para o edital, conteúdo programático completo e questões no padrão Cebraspe.', preco: 'R$ 197,00 ou 12x de R$ 19,70', link_compra: 'https://pay.hotmart.com/EXEMPLO', hotmart_produto: '1234567', curso: 'prf', duracao_dias: 365, publicado: true, ordem: 0, created_at: new Date().toISOString() }],
+    compras: [{ id: uid(), transacao: 'HP1234567890', evento: 'PURCHASE_APPROVED', status: 'aprovada', email: 'ana@exemplo.com', nome: 'Ana Ativa', produto_id: '1234567', produto_nome: 'Preparatório PRF 2027', valor: 197, curso: 'prf', duracao_dias: 365, curso_venda_id: cv, aplicado_em: new Date().toISOString(), recebido_em: new Date().toISOString() },
+      { id: uid(), transacao: 'HP2222222222', evento: 'PURCHASE_APPROVED', status: 'aprovada', email: 'novo.comprador@exemplo.com', nome: 'Novo Comprador', produto_id: '1234567', produto_nome: 'Preparatório PRF 2027', valor: 197, curso: 'prf', duracao_dias: 365, curso_venda_id: cv, recebido_em: new Date().toISOString() }],
+  };
+}
+function load() { if (D) return; try { D = JSON.parse(localStorage.getItem(KEY) || 'null'); } catch { D = null; } if (!D) { D = seed(); if (D._alunosDemo) { D.profiles.push(...D._alunosDemo); delete D._alunosDemo; } persist(); } }
 function persist() { try { localStorage.setItem(KEY, JSON.stringify(D)); } catch {} }
 
 function testa(row, k, v) {
@@ -85,7 +98,7 @@ const espera = () => new Promise((r) => setTimeout(r, 60));
 export const auth = {
   get user() { return USER; },
   async signIn() { return USER; }, async signUp() { return { user: USER }; }, async resetPassword() {}, async updatePassword() {},
-  fromUrlHash() { return null; }, signInGoogle() { alert('No modo demonstração o login com Google não funciona.'); }, async loadUser() { return USER; }, signOut() { localStorage.removeItem(KEY); D = null; location.reload(); },
+  fromUrlHash() { return null; }, signInGoogle() { alert('No modo demonstração o login com Google não funciona.'); }, async loadUser() { return new URLSearchParams(location.search).has('publico') ? null : USER; }, signOut() { localStorage.removeItem(KEY); D = null; location.reload(); },
 };
 export const db = {
   async select(table, params = {}, { count = false, range } = {}) {
@@ -108,7 +121,7 @@ export const db = {
   },
   async update(table, match, values) { await espera(); const rows = filtra(t(table), match); rows.forEach((r) => Object.assign(r, values)); persist(); return rows.map((r) => ({ ...r })); },
   async remove(table, match) { await espera(); const del = new Set(filtra(t(table), match)); D[table] = t(table).filter((r) => !del.has(r)); persist(); return null; },
-  async rpc(fn, args) { if (fn === 'estatistica_questao') { const r = t('respostas').filter((x) => x.questao_id === args.q); return [{ total: r.length, acertos: r.filter((x) => x.acertou).length }]; } return null; },
+  async rpc(fn, args) { if (fn === 'reprocessar_compra' || fn === 'verificar_minha_compra') return fn === 'reprocessar_compra' ? false : 0; if (fn === 'estatistica_questao') { const r = t('respostas').filter((x) => x.questao_id === args.q); return [{ total: r.length, acertos: r.filter((x) => x.acertou).length }]; } return null; },
 };
 const ARQ = new Map(); // arquivos do modo demonstração ficam só na memória (somem ao recarregar)
 export const storage = {

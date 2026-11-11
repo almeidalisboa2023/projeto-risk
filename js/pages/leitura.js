@@ -1,4 +1,4 @@
-// Leitura interativa: quadro colorido de matérias → índice de tópicos → texto com questões. Aberta a todos os alunos.
+// Conteúdo programático (antiga Leitura interativa): quadro colorido de matérias → índice de tópicos → texto com questões. Aberta a todos os alunos.
 import { S, isAdmin } from '../state.js';
 import { padronizar, minutosLeitura } from '../estetica.js';
 import { esc, norm, iso, hoje } from '../util.js';
@@ -54,16 +54,62 @@ function doMeuEdital() {
 function quadro(el) {
   const L = lidos(), meu = doMeuEdital();
   const ordem = [...visiveis()].sort((a, b) => (meu.has(b.id) ? 1 : 0) - (meu.has(a.id) ? 1 : 0));
-  el.innerHTML = `${faixaCurso()}<div class="mono up">Leitura interativa</div><h1>Escolha a matéria</h1>
-  <p class="muted" style="margin-top:-6px">Textos completos, com quadros, exemplos, pegadinhas e questões no fim de cada tópico. ${meu.size ? 'As matérias do seu edital aparecem primeiro.' : ''}</p>
-  <div class="lt-materias">${ordem.map((m) => {
+  const ultimaBusca = ler('risk-busca-lt', '');
+  el.innerHTML = `${faixaCurso()}<div class="mono up">Conteúdo programático</div><h1>Escolha a matéria</h1>
+  <p class="muted" style="margin-top:-6px">Textos completos, com quadros, exemplos, pegadinhas e questões no fim de cada tópico. ${isAdmin() ? 'Como administrador, você vê todas as matérias.' : 'Aqui aparecem as matérias do seu edital.'}</p>
+  <div class="lt-busca"><span>🔎</span><input id="ltBusca" type="search" placeholder="Pesquise a matéria ou o assunto (ex.: crase, LAI, art. 165, nepotismo)" value="${esc(ultimaBusca)}" autocomplete="off" aria-label="Pesquisar matéria ou assunto"></div>
+  <div id="ltRes"></div>
+  ${ordem.length ? '' : '<div class="card"><b>Nenhuma matéria liberada ainda.</b><p class="muted">Assim que o seu curso ou edital for definido, as matérias aparecem aqui.</p></div>'}
+  <div class="lt-materias" id="ltMats">${ordem.map((m) => {
     const feitos = m.assuntos.filter((a) => L.has(m.id + '/' + a.id)).length, p = Math.round((feitos / m.assuntos.length) * 100);
-    return `<a class="lt-mat" href="#/leitura?a=${m.id}/" style="--c:${m.cor}">
+    return `<a class="lt-mat" data-busca="${esc(norm(m.nome + ' ' + (m.apelidos || []).join(' ')))}" href="#/leitura?a=${m.id}/" style="--c:${m.cor}">
       <span class="lt-mat-ico">${m.ico}</span><b>${esc(m.nome)}</b>
       <small>${m.assuntos.length} tópicos · ${feitos} lidos</small>
       <div class="lt-mat-bar"><div style="width:${p}%"></div></div>
       ${meu.has(m.id) ? '<span class="lt-mat-tag">No seu edital</span>' : ''}</a>`;
   }).join('')}</div>`;
+  const inp = el.querySelector('#ltBusca'), res = el.querySelector('#ltRes');
+  let timer = 0;
+  const busca = () => {
+    const termo = norm(inp.value.trim());
+    gravar('risk-busca-lt', inp.value.trim());
+    el.querySelectorAll('.lt-mat').forEach((c) => (c.style.display = !termo || c.dataset.busca.includes(termo) ? '' : 'none'));
+    if (termo.length < 2) { res.innerHTML = ''; return; }
+    const achados = buscar(ordem, termo);
+    res.innerHTML = `<div class="card lt-busca-res"><div class="muted" style="font-size:13px;margin-bottom:6px">${achados.length ? `${achados.length >= 40 ? 'Mais de 40' : achados.length} assunto(s) encontrado(s)` : 'Nenhum assunto encontrado. Tente outra palavra.'}</div>
+      ${achados.map((r) => `<a class="lt-busca-item" href="#/leitura?a=${r.m.id}/${r.a.id}" style="--c:${r.m.cor}"><span>${r.m.ico}</span><div><small>${esc(r.m.nome)}</small><b>${marca(r.a.titulo, termo)}</b>${r.trecho ? `<p>${marca(r.trecho, termo)}</p>` : ''}</div></a>`).join('')}</div>`;
+  };
+  inp.oninput = () => { clearTimeout(timer); timer = setTimeout(busca, 180); };
+  if (ultimaBusca) busca();
+}
+
+// Procura no título, nas palavras-chave e no texto de cada tópico. Título pesa mais que o texto.
+const textoCache = new Map();
+const textoDe = (m, a) => { const k = m.id + '/' + a.id; if (!textoCache.has(k)) textoCache.set(k, String(a.html || '').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ')); return textoCache.get(k); };
+function buscar(mats, termo) {
+  const partes = termo.split(/\s+/).filter(Boolean);
+  const out = [];
+  for (const m of mats) for (const a of m.assuntos) {
+    const tit = norm(a.titulo || ''), ch = norm((a.chaves || []).join(' ') + ' ' + (a.arts || '')), mn = norm(m.nome);
+    const txt = textoDe(m, a), tn = norm(txt);
+    let pts = 0;
+    for (const p of partes) {
+      if (tit.includes(p)) pts += 10; else if (ch.includes(p)) pts += 6; else if (mn.includes(p)) pts += 3; else if (tn.includes(p)) pts += 1; else { pts = 0; break; }
+    }
+    if (!pts) continue;
+    let trecho = '';
+    const i = tn.indexOf(partes[0]);
+    if (i >= 0 && !tit.includes(partes[0])) trecho = (i > 60 ? '…' : '') + txt.slice(Math.max(0, i - 60), i + 120).trim() + '…';
+    out.push({ m, a, pts, trecho });
+  }
+  return out.sort((x, y) => y.pts - x.pts).slice(0, 40);
+}
+// Destaca o termo pesquisado (sem acento e sem diferenciar maiúsculas)
+function marca(texto, termo) {
+  const t = esc(texto), n = norm(texto);
+  const p = termo.split(/\s+/)[0]; const i = n.indexOf(p);
+  if (!p || i < 0 || n.length !== texto.length) return t;
+  return esc(texto.slice(0, i)) + '<mark class="lt-hl">' + esc(texto.slice(i, i + p.length)) + '</mark>' + esc(texto.slice(i + p.length));
 }
 
 function leitura(el, q, mat, idx) {
@@ -72,7 +118,7 @@ function leitura(el, q, mat, idx) {
   const feitos = mat.assuntos.filter((x) => L.has(mat.id + '/' + x.id)).length;
   const ir = (i) => `#/leitura?a=${mat.id}/${mat.assuntos[i].id}`;
   el.innerHTML = `<div class="row"><a class="btn sec mini" href="#/leitura">‹ Todas as matérias</a></div>
-  <div class="lt-cab" style="--c:${mat.cor}"><span>${mat.ico}</span><div><div class="mono up">Leitura interativa${meuCurso() ? ' · ' + esc(meuCurso().curto) : ''}</div><h1 style="margin:0">${esc(mat.nome)}</h1></div></div>
+  <div class="lt-cab" style="--c:${mat.cor}"><span>${mat.ico}</span><div><div class="mono up">Conteúdo programático${meuCurso() ? ' · ' + esc(meuCurso().curto) : ''}</div><h1 style="margin:0">${esc(mat.nome)}</h1></div></div>
   ${mat.recorte ? `<div class="lt-recorte">📋 <b>Recorte do seu edital:</b> ${esc(mat.recorte)}. Aparecem só os tópicos cobrados.</div>` : ''}
   <div class="lt-wrap" style="--c:${mat.cor}">
     <aside class="card lt-indice">

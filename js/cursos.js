@@ -1,6 +1,7 @@
 // Cursos do Projeto R.I.S.K.: cada curso segue o último edital do concurso e libera só as matérias dele.
 // O aluno escolhe o curso no cadastro; o administrador confere, define a banca e pode remover/restaurar matérias.
 import { S } from './state.js';
+import { norm } from './util.js';
 
 // Bancas: o "padrão" muda o formato das questões mostradas por padrão (C/E ou múltipla escolha)
 // e, quando a banca usa 4 alternativas (A a D), as questões de múltipla escolha aparecem com 4 opções.
@@ -105,7 +106,11 @@ export function materiasDoCurso(c, ajustes = S.cursosAjustes || []) {
 export function filtrarMaterias(todas, perfil = S.profile) {
   if (!perfil || perfil.role === 'admin') return todas;
   const c = cursoInfo(perfil.curso);
-  if (!c) return todas;
+  // Aluno sem curso definido: vê só as matérias que aparecem no edital dele
+  if (!c) {
+    const nomes = [...new Set((S.topicos || []).map((t) => norm(t.materia || '')))].filter(Boolean);
+    return todas.filter((m) => !m.nova && nomes.some((n) => (m.apelidos || []).some((a) => n.includes(a))));
+  }
   const fora = new Set(perfil.materias_removidas || []);
   const out = [];
   for (const item of materiasDoCurso(c)) {
