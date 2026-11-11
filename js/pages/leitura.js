@@ -5,6 +5,8 @@ import { db } from '../backend.js';
 import { toast, modal } from '../ui.js';
 import { visiveis, materiasDe, acharLeitura, chaveQ } from '../leitura/index.js';
 import { meuCurso, minhaBanca } from '../cursos.js';
+import { TEMAS, temaAtual } from '../temas.js';
+import { LETRA, embaralhar, intercalar, carregarHistorico, seloHistorico, registrar, htmlGabarito, htmlQuestao, responder, htmlFlash, cartoesAuto, ligarFlash, chaveDe } from '../questao.js';
 
 // Padrão da banca do aluno: com banca de 4 alternativas (A a D), a múltipla escolha perde uma alternativa errada
 // (sempre a mesma para cada questão) e o gabarito e as notas são reajustados.
@@ -28,14 +30,13 @@ const chave = () => 'risk-lidos-' + (S.user?.id || 'x');
 const lidos = () => new Set(ler(chave(), []));
 let fonte = ler('risk-fonte', 17);
 
-const LETRA = 'ABCDE';
 const POR_PAG = 10;
 
 export async function render(el, q) {
   const [mid, aid] = String(q?.get('a') || '').split('/');
   const m0 = visiveis().find((m) => m.id === mid);
   if (!m0) return quadro(el);
-  const mat = { ...m0, assuntos: m0.assuntos.map((a) => (a.quiz ? { ...a, quiz: a.quiz.map(padraoBanca) } : a)) };
+  const mat = { ...m0, assuntos: m0.assuntos.map((a) => (a.quiz ? { ...a, quiz: a.quiz.map((x) => embaralhar(padraoBanca(x))) } : a)) };
   let idx = mat.assuntos.findIndex((a) => a.id === aid);
   if (idx < 0) idx = Math.max(0, mat.assuntos.findIndex((a) => a.id === ler('risk-ultimo-' + mat.id, '')));
   gravar('risk-ultimo-' + mat.id, mat.assuntos[idx].id);
@@ -125,7 +126,14 @@ function leitura(el, q, mat, idx) {
   $('#ltMenos').onclick = () => fonteAjusta(-1);
   $('#ltMais').onclick = () => fonteAjusta(1);
   $('#ltSel').onchange = () => { location.hash = ir(Number($('#ltSel').value)); };
-  if (a.quiz?.length) quiz(el, mat, a);
+  // Flashcards: os do conteúdo, ou um baralho automático com os itens de Certo/Errado
+  const ess = $('[data-pane="ess"]');
+  if (!ess.querySelector('.lt-flash') && a.quiz?.length) ess.insertAdjacentHTML('beforeend', htmlFlash(cartoesAuto(a.quiz), '🃏 Revisão rápida em flashcards: clique no cartão para ver a resposta'));
+  ligarFlash(el);
+  if (a.quiz?.length) {
+    const ctx = contexto(mat, a);
+    carregarHistorico(ctx).then(() => { perguntasNoTexto(el, ctx); quiz(el, mat, a, ctx); });
+  }
   $('#ltLido').onclick = () => { const s = lidos(); s.has(k) ? s.delete(k) : s.add(k); gravar(chave(), [...s]); render(el, q); };
 }
 
@@ -133,9 +141,12 @@ function leitura(el, q, mat, idx) {
 // Bloco de questões (usado na leitura e nas apostilas)
 export function blocoQuiz(a) {
   const nME = (a.quiz || []).filter((x) => x.alts).length, nCE = (a.quiz || []).length - nME;
-  return `<div class="lt-quiz"><h3>🎯 Teste seu conhecimento</h3>
+  const tid = temaAtual(), T = TEMAS[tid] || {};
+  const cab = tid !== 'padrao' && S.edital ? `<div class="tema-topo"><span class="tema-selo">${T.selo || ''} ${esc(S.edital.concurso)}</span><div><div class="tema-tit">Treino de questões · <span>${esc(T.titulo || '')}</span></div><div class="tema-sub">${esc(a.titulo || '')}</div></div></div>` : '<h3>🎯 Teste seu conhecimento</h3>';
+  return `<div class="lt-quiz ${tid !== 'padrao' ? 'tema-wrap tema-' + tid + ' lt-qtema' : ''}">${cab}
         <p class="muted" style="margin-top:0">${nCE} de Certo ou Errado${nME ? ` e ${nME} de múltipla escolha` : ''}. <span id="ltPlacar"></span></p>
         <div class="row lt-qbar">${nME && nCE ? `<select id="ltTipo"><option value="">Todas</option><option value="ce">Só Certo/Errado</option><option value="me">Só múltipla escolha</option></select>` : ''}
+          <select id="ltHist"><option value="">Todas</option><option value="novas">Só as que nunca respondi</option><option value="erradas">Só as que errei</option><option value="semacerto">Esconder as que já acertei</option></select>
           <button class="btn sec mini" id="ltMist">🔀 Embaralhar</button><span class="sp"></span><span class="muted" style="font-size:13px" id="ltPag"></span>
           <button class="btn sec mini" id="ltAnt">‹</button><button class="btn sec mini" id="ltProx">›</button></div>
         <div id="ltLista"></div>
@@ -144,51 +155,66 @@ export function blocoQuiz(a) {
         <p class="muted" style="font-size:13px;margin-bottom:0">Cada resposta entra sozinha nas suas questões do dia, nos pontos fracos e nas revisões.</p></div>`;
 }
 
-// Questões: páginas de 10, filtro por tipo, embaralhar, Certo/Errado e múltipla escolha (A a E)
-export function quiz(el, mat, a) {
+// Contexto das questões de um tópico (para histórico e contagem)
+function contexto(mat, a) {
+  const tp = (S.topicos || []).find((t) => { const r = acharLeitura(t.materia, t.topico); return r?.a && r.mat.id === mat.id && r.a.id === a.id; });
+  return { mat, a, topicoId: tp?.id || null, materia: tp?.materia || mat.nome };
+}
+
+// Questões dentro do texto: um "Pare e responda" depois de algumas seções (prefere as que o aluno ainda não acertou)
+function perguntasNoTexto(el, ctx) {
+  const ess = el.querySelector('[data-pane="ess"]'); if (!ess || ess.querySelector('.lt-qin')) return;
+  const marcadores = [...ess.querySelectorAll('.lt-pare')];
+  const h3 = [...ess.querySelectorAll(':scope > h3')];
+  const pontos = marcadores.length ? marcadores : h3.filter((_, i) => i > 0 && i % 2 === 0);
+  if (!pontos.length && h3.length > 1) pontos.push(h3[h3.length - 1]);
+  const q = ctx.a.quiz; if (!q?.length || !pontos.length) return;
+  const nao = q.map((_, i) => i).filter((i) => !ctx.hist.get(chaveDe(ctx, q[i]))?.acertou);
+  const pool = intercalar(q, nao.length >= pontos.length ? nao : q.map((_, i) => i));
+  pontos.slice(0, 5).forEach((p, k) => {
+    const i = pool[k]; if (i === undefined) return;
+    const box = document.createElement('div'); box.className = 'lt-qin lt-q'; box.dataset.q = i;
+    box.innerHTML = `<b class="lt-tit">🎯 Pare e responda</b>` + htmlQuestao(q[i], ctx);
+    p.before(box);
+    box.querySelectorAll('[data-r]').forEach((b) => (b.onclick = () => { if (box.dataset.feito) return; box.dataset.feito = 1; registrar(ctx, q[i], responder(box, q[i], b.dataset.r)); }));
+  });
+}
+
+// Questões: páginas de 10, filtros (tipo e histórico), embaralhar, Certo/Errado e múltipla escolha
+export function quiz(el, mat, a, ctx0) {
   const $ = (s) => el.querySelector(s);
-  const resp = new Map(); // índice da questão → acertou?
-  let salvas = new Set(), ordem = a.quiz.map((_, i) => i), pag = 0;
-  const filtrada = () => { const t = $('#ltTipo')?.value; return ordem.filter((i) => !t || (t === 'me') === !!a.quiz[i].alts); };
+  const ctx = ctx0 || contexto(mat, a);
+  if (!ctx.hist) { carregarHistorico(ctx).then(() => quiz(el, mat, a, ctx)); return; }
+  const resp = new Map(); // índice da questão → resposta dada
+  let ordem = intercalar(a.quiz, a.quiz.map((_, i) => i)), pag = 0;
+  const hist = (i) => ctx.hist.get(chaveDe(ctx, a.quiz[i]));
+  const filtrada = () => {
+    const t = $('#ltTipo')?.value, h = $('#ltHist')?.value;
+    return ordem.filter((i) => (!t || (t === 'me') === !!a.quiz[i].alts)
+      && (!h || (h === 'novas' && !hist(i)) || (h === 'erradas' && hist(i) && !hist(i).acertou) || (h === 'semacerto' && !hist(i)?.acertou)));
+  };
   const placar = () => {
-    const c = [...resp.values()].filter(Boolean).length;
+    const c = [...resp.values()].filter((v) => v.ok).length;
     $('#ltPlacar').textContent = resp.size ? `Placar: ${c}/${resp.size} (${Math.round((100 * c) / resp.size)}%)` : '';
   };
-  const item = (i, n) => {
-    const x = a.quiz[i];
-    const op = x.alts
-      ? `<div class="lt-alts">${x.alts.map((t, k) => `<button class="lt-alt" data-r="${k}"><b>${LETRA[k]}</b> ${esc(t)}</button>`).join('')}</div>`
-      : `<div class="row"><button class="btn sec mini" data-r="1">Certo</button><button class="btn sec mini" data-r="0">Errado</button></div>`;
-    return `<div class="lt-q" data-q="${i}"><p><span class="mono">${n}.</span> ${x.alts ? '<span class="lt-tipo">múltipla escolha</span> ' : ''}${esc(x.p)}</p>${op}<div class="lt-q-res"></div></div>`;
-  };
-  const mostrar = (i, box, r) => {
-    const x = a.quiz[i], ok = x.alts ? Number(r) === x.r : (r === '1') === x.c;
-    box.querySelectorAll('[data-r]').forEach((y) => { y.disabled = true; y.classList.toggle('lt-marcado', y.dataset.r === String(r)); if (x.alts && Number(y.dataset.r) === x.r) y.classList.add('lt-certa'); });
-    box.classList.add(ok ? 'ok' : 'erro');
-    const gab = x.alts ? `letra <b>${LETRA[x.r]}</b>` : `<b>${x.c ? 'CERTO' : 'ERRADO'}</b>`;
-    const notas = x.alts && x.n ? `<ul class="lt-gn">${x.alts.map((t, k) => `<li class="${k === x.r ? 'ok' : ''}"><b>${LETRA[k]}</b> ${k === x.r ? '✔' : '✘'} ${esc(x.n[k] || '')}</li>`).join('')}</ul>` : '';
-    const corpo = x.x
-      ? `<div class="lt-gab"><p><b>Por quê:</b> ${esc(x.x)}</p>${x.pg ? `<p class="lt-gpg"><b>⚠ Pegadinha:</b> ${esc(x.pg)}</p>` : ''}${notas}${x.e ? `<p class="lt-gf">📌 ${esc(x.e)}</p>` : ''}</div>`
-      : ` ${esc(x.e)}`;
-    box.querySelector('.lt-q-res').innerHTML = `<b>${ok ? '✅ Você acertou!' : '❌ Não foi dessa vez.'}</b> Gabarito: ${gab}.${corpo}<div><button class="linkbtn" data-de-novo>Responder de novo</button></div>`;
-    box.querySelector('[data-de-novo]').onclick = () => { resp.delete(i); salvas.delete(i); box.dataset.r = ''; desenhar(); placar(); };
-    return ok;
-  };
+  ctx.aoContar = (n) => { const st = $('#ltSalvar'); if (st) st.textContent = `✓ ${n} ${n === 1 ? 'resposta contada' : 'respostas contadas'} nas questões de hoje`; };
   const desenhar = () => {
     const lista = filtrada(), tot = Math.max(1, Math.ceil(lista.length / POR_PAG));
     pag = Math.min(pag, tot - 1);
     const pedaco = lista.slice(pag * POR_PAG, pag * POR_PAG + POR_PAG);
-    $('#ltLista').innerHTML = pedaco.map((i, k) => item(i, pag * POR_PAG + k + 1)).join('') || '<p class="muted">Nenhuma questão desse tipo.</p>';
-    $('#ltPag').textContent = `${pag * POR_PAG + 1}–${Math.min(lista.length, (pag + 1) * POR_PAG)} de ${lista.length}`;
+    $('#ltLista').innerHTML = pedaco.map((i, k) => `<div class="lt-q" data-q="${i}">${htmlQuestao(a.quiz[i], ctx, pag * POR_PAG + k + 1)}</div>`).join('') || '<p class="muted">Nenhuma questão com esse filtro.</p>';
+    $('#ltPag').textContent = lista.length ? `${pag * POR_PAG + 1}–${Math.min(lista.length, (pag + 1) * POR_PAG)} de ${lista.length}` : '';
     ['#ltAnt', '#ltAnt2'].forEach((s) => ($(s).disabled = pag === 0));
     ['#ltProx', '#ltProx2'].forEach((s) => ($(s).disabled = pag >= tot - 1));
     el.querySelectorAll('#ltLista .lt-q').forEach((box) => {
       const i = Number(box.dataset.q);
-      if (resp.has(i)) mostrar(i, box, box.dataset.r || $(`#ltLista`).dataset['r' + i]);
+      if (resp.has(i)) responder(box, a.quiz[i], resp.get(i).r);
       box.querySelectorAll('[data-r]').forEach((b) => (b.onclick = () => {
         if (resp.has(i)) return;
-        $('#ltLista').dataset['r' + i] = b.dataset.r;
-        resp.set(i, mostrar(i, box, b.dataset.r)); placar(); agenda();
+        const ok = responder(box, a.quiz[i], b.dataset.r);
+        resp.set(i, { r: b.dataset.r, ok }); placar(); registrar(ctx, a.quiz[i], ok);
+        box.querySelector('.lt-q-res').insertAdjacentHTML('beforeend', '<div><button class="linkbtn" data-de-novo>Responder de novo</button></div>');
+        box.querySelector('[data-de-novo]').onclick = () => { resp.delete(i); desenhar(); placar(); };
       }));
     });
   };
@@ -199,27 +225,7 @@ export function quiz(el, mat, a) {
     const b = minhaBanca(); if (b) $('#ltTipo').value = b.formato; // padrão da banca do aluno; ele pode trocar
     $('#ltTipo').onchange = () => { pag = 0; desenhar(); };
   }
-  $('#ltMist').onclick = () => { ordem = ordem.map((i) => [Math.random(), i]).sort((x, y) => x[0] - y[0]).map((x) => x[1]); pag = 0; desenhar(); };
-  // Salva sozinho: junta as respostas e grava 2 segundos depois da última (e ao sair da página)
-  let timer = null, salvando = false;
-  const salvar = async () => {
-    clearTimeout(timer); timer = null;
-    const novas = [...resp.keys()].filter((i) => !salvas.has(i));
-    if (!novas.length || salvando || !S.user) return;
-    const feitas = novas.length, acertos = novas.filter((i) => resp.get(i)).length;
-    // liga ao tópico do edital do aluno que corresponde a esta leitura, se houver
-    const tp = (S.topicos || []).find((t) => { const r = acharLeitura(t.materia, t.topico); return r?.a && r.mat.id === mat.id && r.a.id === a.id; });
-    salvando = true; novas.forEach((i) => salvas.add(i));
-    try {
-      const [log] = await db.insert('question_logs', [{ user_id: S.user.id, edital_id: S.edital?.id || null, topico_id: tp?.id || null, materia: tp?.materia || mat.nome, data: iso(hoje()), feitas, acertos, origem: 'app' }]);
-      if (log) S.logs.push(log);
-      const st = $('#ltSalvar'); if (st) st.textContent = `✓ ${salvas.size} ${salvas.size === 1 ? 'resposta contada' : 'respostas contadas'} nas questões de hoje`;
-    } catch (e) { novas.forEach((i) => salvas.delete(i)); toast('Não consegui salvar as respostas: ' + e.message, 'erro'); }
-    salvando = false;
-    if ([...resp.keys()].some((i) => !salvas.has(i))) agenda();
-  };
-  const agenda = () => { clearTimeout(timer); timer = setTimeout(salvar, 2000); };
-  window.addEventListener('hashchange', () => { if (timer) salvar(); }, { once: true });
-  window.addEventListener('pagehide', () => { if (timer) salvar(); }, { once: true });
+  $('#ltHist').onchange = () => { pag = 0; desenhar(); };
+  $('#ltMist').onclick = () => { ordem = intercalar(a.quiz, ordem.map((i) => [Math.random(), i]).sort((x, y) => x[0] - y[0]).map((x) => x[1])); pag = 0; desenhar(); };
   desenhar();
 }

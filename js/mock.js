@@ -65,6 +65,7 @@ function testa(row, k, v) {
     case 'gte': return String(val) >= arg;
     case 'lte': return String(val) <= arg;
     case 'in': return arg.replace(/^\(|\)$/g, '').split(',').map((s) => s.replace(/^"|"$/g, '')).includes(String(val));
+    case 'like': { const re = new RegExp('^' + arg.replace(/[.+?^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '.*') + '$'); return re.test(String(val ?? '')); }
     case 'ilike': { const re = new RegExp('^' + arg.replace(/[.+?^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '.*') + '$', 'i'); return re.test(String(val ?? '')); }
     default: return true;
   }

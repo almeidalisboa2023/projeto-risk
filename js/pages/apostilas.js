@@ -6,6 +6,7 @@ import { toast, loading } from '../ui.js';
 import { CURSOS, cursoInfo, meuCurso } from '../cursos.js';
 import { lerPdf, acharQuestoes, paraQuiz, mascaras, painelQuestoes, carregaPdfJs } from '../pdf-questoes.js';
 import { blocoQuiz, quiz } from './leitura.js';
+import { embaralhar } from '../questao.js';
 
 const ehAdmin = () => S.profile?.role === 'admin';
 const lib = carregaPdfJs;
@@ -165,7 +166,8 @@ function formulario(el, ap, tipoPagina, todas) {
 }
 
 // Leitor: desenha as páginas em imagem dentro do app (sem barra do navegador, sem botão de baixar)
-async function leitor(el, a) {
+async function leitor(el, a0) {
+  const a = { ...a0, quiz: (a0.quiz || []).map((q) => embaralhar(q)) };
   const sec = SECOES[tipoDe(a)];
   el.innerHTML = `<div class="row"><a class="btn sec mini" href="#/${sec.rota}">‹ ${sec.nome}</a><span class="sp"></span>
       <button class="btn sec mini" id="lzMenos" title="Diminuir">−</button><span class="muted" id="lzZoom" style="font-size:13px;min-width:44px;text-align:center"></span><button class="btn sec mini" id="lzMais" title="Aumentar">+</button></div>
