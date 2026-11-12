@@ -155,6 +155,76 @@ export default {
 "prof": "Três palavras-chave do art. 14: permanente, Delegado de carreira, hierarquia e disciplina.",
 "x": "O art. 14 define a PCMG como órgão permanente, dirigido por Delegado de carreira e organizado com base na hierarquia e na disciplina. A polícia técnico-científica e a identificação civil e criminal são atividades privativas.",
 "e": "Permanente, Delegado, hierarquia."
+},
+{
+"p": "Segundo a LC 129/2013, a investigação criminal tem caráter exclusivamente jurídico, encerrando-se apenas com o indiciamento do autor.",
+"c": false,
+"prof": "Caráter técnico-jurídico-científico; termina com a apuração ou o exaurimento das possibilidades.",
+"x": "O art. 6º atribui à investigação caráter técnico-jurídico-científico, e o art. 7º diz que ela começa com o conhecimento de fato passível de caracterizar infração penal e se encerra com a apuração da infração penal ou ato infracional ou com o exaurimento das possibilidades investigativas.",
+"e": "Investigação: técnico-jurídico-científica."
+},
+{
+"p": "Segundo a LC 129/2013, são atividades privativas da PCMG a polícia técnico-científica e o processamento e arquivo de identificação civil e criminal.",
+"c": true,
+"prof": "Certo. Art. 14, parágrafo único.",
+"x": "O texto original incluía também o registro e licenciamento de veículos e a habilitação de condutores, atribuições que, depois, foram retiradas da PCMG pela reorganização do trânsito no Estado.",
+"e": "Perícia e identificação: privativas."
+},
+{
+"p": "De acordo com a LC 129/2013, a direção da polícia judiciária, em todo o Estado, cabe:",
+"alts": [
+"ao Chefe da PCMG, exclusivamente",
+"aos Investigadores de Polícia mais antigos",
+"aos Delegados de Polícia de carreira, nos limites de suas circunscrições",
+"ao Ministério Público",
+"aos Superintendentes regionais nomeados pelo Governador"
+],
+"r": 2,
+"n": [
+"O Chefe dirige a instituição, mas a polícia judiciária é dirigida pelos delegados em suas circunscrições.",
+"Não.",
+"Correta: art. 11.",
+"O MP exerce controle externo.",
+"Não há essa previsão."
+],
+"prof": "Art. 11.",
+"x": "O art. 11 atribui a direção da polícia judiciária aos Delegados de carreira, nos limites de suas circunscrições, com fiscalização do Corregedor-Geral de Polícia Civil.",
+"e": "Polícia judiciária: delegados."
+},
+{
+"p": "Os atos de polícia judiciária serão fiscalizados, direta ou indiretamente, pelo Corregedor-Geral de Polícia Civil.",
+"c": true,
+"prof": "Certo. Art. 11, parágrafo único.",
+"x": "A Corregedoria é o órgão orientador, fiscalizador e correicional das atividades funcionais e da conduta dos servidores da PCMG (art. 32).",
+"e": "Fiscaliza: Corregedor-Geral."
+},
+{
+"p": "Segundo a LC 129/2013, são símbolos institucionais da PCMG:",
+"alts": [
+"apenas o brasão e o distintivo",
+"o hino, o brasão, a logomarca, a bandeira e o distintivo",
+"a bandeira e o hino do Estado",
+"o distintivo e a carteira funcional",
+"o brasão e o uniforme"
+],
+"r": 1,
+"n": [
+"A lista é maior.",
+"Correta: art. 12.",
+"São símbolos próprios da PCMG.",
+"A carteira funcional não é símbolo.",
+"Não corresponde."
+],
+"prof": "Art. 12.",
+"x": "O art. 12 lista cinco símbolos: hino, brasão, logomarca, bandeira e distintivo. A carteira funcional, com validade em todo o território nacional, está no art. 13.",
+"e": "Cinco símbolos."
+},
+{
+"p": "A PCMG subordina-se diretamente ao Secretário de Estado de Justiça e Segurança Pública, integrando, para fins operacionais, o Sistema de Defesa Social.",
+"c": false,
+"prof": "Subordina-se diretamente ao Governador.",
+"x": "O art. 15 da LC 129/2013 dispõe que a PCMG subordina-se diretamente ao Governador do Estado e integra, para fins operacionais, o Sistema de Defesa Social.",
+"e": "Subordinação: Governador."
 }
 ]
 },
@@ -286,6 +356,76 @@ export default {
 "prof": "Associe cada órgão à sua \"vocação\".",
 "x": "A Superintendência de Investigação uniformiza procedimentos, designa Delegados para diligências por até 30 dias, decide conflitos e tem sob ela a Casa de Custódia e a Polinter.",
 "e": "Investigação: diligências e Casa de Custódia."
+},
+{
+"p": "O Chefe da PCMG é substituído, em seus afastamentos ou impedimentos eventuais, pelo Chefe Adjunto e, na falta deste, sucessivamente, pelo Corregedor-Geral de Polícia Civil e pelo Superintendente de Investigação e Polícia Judiciária, entre outros.",
+"c": true,
+"prof": "Certo. Art. 20.",
+"x": "A ordem prossegue com o Chefe de Gabinete, o Diretor do Detran (texto original), o Diretor da Academia, o Superintendente de Informações e Inteligência, o de Planejamento, Gestão e Finanças e o Delegado Assistente da Chefia.",
+"e": "Adjunto, depois Corregedor."
+},
+{
+"p": "O Chefe da PCMG ficará afastado de suas funções, segundo a LC 129/2013, pelo cometimento de infração penal:",
+"alts": [
+"de qualquer natureza, desde a instauração de inquérito",
+"cuja sanção cominada seja de reclusão, assumindo a Chefia o Chefe Adjunto",
+"apenas após o trânsito em julgado",
+"somente se houver prisão preventiva",
+"de natureza militar"
+],
+"r": 1,
+"n": [
+"Não é a regra.",
+"Correta: art. 21.",
+"Não é a regra.",
+"Não é a regra.",
+"Não é a regra."
+],
+"prof": "Art. 21.",
+"x": "O art. 21 prevê o afastamento pelo cometimento de infração penal punida com reclusão, observado o art. 21, § 1º, da Constituição do Estado. Nesse caso, assume o Chefe Adjunto.",
+"e": "Reclusão: afastamento."
+},
+{
+"p": "O Conselho Superior da PCMG possui em sua estrutura o Órgão Especial, a Câmara Disciplinar e a Câmara de Planejamento e Orçamento.",
+"c": true,
+"prof": "Certo. Art. 24.",
+"x": "O Conselho é presidido pelo Chefe da PCMG. A Câmara Disciplinar é presidida pelo Chefe Adjunto, e o Órgão Especial é composto exclusivamente por Delegados-Gerais titulares dos órgãos do art. 25 e pelo Delegado Assistente da Chefia.",
+"e": "Três órgãos do Conselho."
+},
+{
+"p": "Compete à Câmara Disciplinar do Conselho Superior da PCMG:",
+"alts": [
+"elaborar a proposta orçamentária da instituição",
+"julgar recurso contra decisão que negar instauração de inquérito policial",
+"conhecer e julgar recurso contra decisão em procedimento administrativo disciplinar",
+"nomear o Corregedor-Geral",
+"homologar concursos públicos"
+],
+"r": 2,
+"n": [
+"Função da Câmara de Planejamento e Orçamento.",
+"Matéria do Órgão Especial.",
+"Correta: art. 30, III.",
+"Não é sua competência.",
+"Não é sua competência."
+],
+"prof": "Art. 30.",
+"x": "A Câmara Disciplinar julga recursos contra atos do Corregedor-Geral, pode recomendar a instauração de procedimentos e propor ao Chefe a remoção ex officio por conveniência da disciplina.",
+"e": "Câmara Disciplinar: recursos em PAD."
+},
+{
+"p": "O Corregedor-Geral de Polícia Civil pode determinar, por ato próprio, o afastamento preliminar de servidor por até 180 dias.",
+"c": false,
+"prof": "Ele propõe; acima de 90 dias, decide o Chefe com o Conselho.",
+"x": "Pelo art. 33, X, o Corregedor-Geral propõe ao Chefe da PCMG, por despacho fundamentado, o afastamento preliminar por até 90 dias. O afastamento superior a 90 e inferior a 180 dias é determinado por ato do Chefe, mediante deliberação da maioria simples do Conselho Superior (§ 2º).",
+"e": "Corregedor propõe; até 90 dias."
+},
+{
+"p": "Os titulares dos órgãos da administração da PCMG e o Corregedor-Geral são escolhidos pelo Chefe da PCMG e nomeados pelo Governador, dentre integrantes em atividade do nível final da carreira com, no mínimo, quinze anos de efetivo serviço policial.",
+"c": true,
+"prof": "Certo. Art. 17, § 8º.",
+"x": "Para o Chefe e o Chefe Adjunto, exige-se tempo maior: vinte anos de efetivo serviço policial (arts. 18 e 23).",
+"e": "Titulares: 15 anos; Chefe: 20."
 }
 ]
 },
@@ -403,6 +543,76 @@ export default {
 "prof": "A remoção disciplinar é a \"exceção a tudo\": sem vaga, sem indenização, mesmo município.",
 "x": "O § 3º do art. 52 dispensa vaga e indenização na remoção por conveniência da disciplina, e o § 4º permite transferência no mesmo município.",
 "e": "Disciplinar: exceção."
+},
+{
+"p": "O Delegado de Polícia, no exercício da função, somente pode ser preso por ordem judicial escrita, salvo em flagrante de crime inafiançável, caso em que deverá ser comunicado e apresentado ao Chefe da PCMG em até 24 horas.",
+"c": true,
+"prof": "Certo. Art. 46, II.",
+"x": "É prerrogativa específica do Delegado. Todo policial civil tem, entre outras, porte de arma em todo o território nacional e uso privativo de distintivo e identidade funcional (art. 45).",
+"e": "Delegado: preso só com ordem, salvo flagrante inafiançável."
+},
+{
+"p": "Segundo a LC 129/2013, o policial civil preso provisoriamente pela prática de infração penal:",
+"alts": [
+"perde imediatamente o cargo",
+"é afastado sem remuneração",
+"é afastado do exercício das funções até decisão final transitada em julgado, sem prejuízo de sua remuneração",
+"continua exercendo as funções normalmente",
+"é transferido para a reserva"
+],
+"r": 2,
+"n": [
+"A perda do cargo exige processo.",
+"Não perde a remuneração no afastamento.",
+"Correta: art. 47.",
+"É afastado.",
+"Não há reserva na carreira civil."
+],
+"prof": "Art. 47.",
+"x": "O art. 47 determina o afastamento, sem prejuízo da remuneração. Em liberdade provisória, ele retorna às funções; condenado sem demissão, pode ser afastado com direito a um terço da remuneração até o cumprimento da pena, conforme o caso.",
+"e": "Preso provisório: afastado com remuneração."
+},
+{
+"p": "O policial civil pode ser removido de um município para outro independentemente de edital e de existência de vaga, a critério do Chefe da PCMG.",
+"c": false,
+"prof": "Exige edital e vaga, salvo exceções.",
+"x": "O art. 52 exige prévia publicação de edital e existência de vaga no quadro de distribuição, admitindo excepcionalmente remoção a pedido, por permuta, para acompanhar cônjuge, por motivo de saúde ou ex officio no interesse do serviço, comprovada a necessidade, por ato motivado.",
+"e": "Remoção: edital e vaga."
+},
+{
+"p": "A remoção de Delegado de Polícia por conveniência da disciplina só ocorre após a abertura de sindicância ou processo administrativo, com ampla defesa, e depois de aprovada a proposta pela maioria simples dos membros do Órgão Especial do Conselho Superior.",
+"c": true,
+"prof": "Certo. Art. 53.",
+"x": "O processamento cabe à Corregedoria-Geral. A remoção ex officio no interesse do serviço também depende de aprovação do Órgão Especial (art. 55).",
+"e": "Delegado: Órgão Especial aprova."
+},
+{
+"p": "A carga horária semanal dos policiais civis, segundo a LC 129/2013, é de:",
+"alts": [
+"30 horas, com plantões de 24 horas",
+"40 horas, vedada jornada diária superior a 8 horas e plantão superior a 12 horas ininterruptas, salvo em caráter excepcional",
+"44 horas, sem limite de plantão",
+"36 horas, em escala livre",
+"40 horas, com plantões de 24 por 72 obrigatórios"
+],
+"r": 1,
+"n": [
+"Não corresponde.",
+"Correta: art. 82.",
+"Não corresponde.",
+"Não corresponde.",
+"Não há essa obrigatoriedade."
+],
+"prof": "Art. 82.",
+"x": "A regra é de 40 horas semanais, com limite de 8 horas diárias e de 12 horas ininterruptas em plantão, admitida exceção para concluir atividade policial.",
+"e": "40 h; plantão até 12 h."
+},
+{
+"p": "O regime do trabalho policial civil caracteriza-se, entre outros aspectos, pelo dever de imediata atuação sempre que o policial presenciar a prática de infração penal, independentemente da carga horária, do repouso semanal e das férias.",
+"c": true,
+"prof": "Certo. Art. 58, II.",
+"x": "O regime também envolve condições adversas de segurança, plantões noturnos e convocações a qualquer hora, garantidas as compensações quando excedida a carga horária legal.",
+"e": "Presenciou: atua."
 }
 ]
 },
@@ -491,6 +701,76 @@ export default {
 "prof": "Pensão especial protege a família de quem morre pelo serviço.",
 "x": "O art. 74 garante pensão especial à família do policial que morre por acidente no desempenho da função ou por ato praticado no estrito cumprimento do dever, não inferior ao vencimento e às vantagens da época.",
 "e": "Pensão especial: morte pelo serviço."
+},
+{
+"p": "A licença por motivo de doença em pessoa da família é concedida com vencimentos integrais pelo prazo máximo de noventa dias, admitida prorrogação, sem remuneração, por até cento e vinte dias.",
+"c": true,
+"prof": "Certo. Art. 65.",
+"x": "A licença não é renovável no período de doze meses após sua concessão e só é concedida se a assistência direta do policial for indispensável e não puder ser prestada simultaneamente com o exercício do cargo, com laudo de junta médica oficial.",
+"e": "Família: 90 dias pagos + 120 sem remuneração."
+},
+{
+"p": "Pela LC 129/2013, o policial civil pode afastar-se, sem prejuízo da remuneração, por oito dias consecutivos em razão de:",
+"alts": [
+"aniversário e férias-prêmio",
+"casamento e falecimento de cônjuge ou companheiro, ascendente, descendente ou irmão",
+"mudança de domicílio",
+"doação de sangue",
+"aprovação em concurso"
+],
+"r": 1,
+"n": [
+"Não há essa previsão.",
+"Correta: art. 67.",
+"Não há essa previsão.",
+"Não é a hipótese do art. 67.",
+"Não há essa previsão."
+],
+"prof": "Art. 67.",
+"x": "O art. 67 prevê oito dias consecutivos para casamento e para luto (cônjuge ou companheiro, ascendente, descendente ou irmão). No casamento, o afastamento deve ser comunicado com antecedência.",
+"e": "Casamento e luto: 8 dias."
+},
+{
+"p": "A licença por acidente em serviço é concedida sem prejuízo dos vencimentos pelo prazo máximo de seis meses.",
+"c": false,
+"prof": "Prazo máximo de dois anos.",
+"x": "O art. 66 prevê a licença por acidente em serviço pelo prazo máximo de dois anos. Equipara-se ao acidente o dano decorrente de agressão sofrida no exercício funcional e o sofrido no trânsito a ele pertinente.",
+"e": "Acidente em serviço: até 2 anos."
+},
+{
+"p": "À família do policial civil que falecer em consequência de acidente no desempenho de suas funções ou de ato praticado no estrito cumprimento do dever é assegurada pensão especial, que não poderá ser inferior ao vencimento e às demais vantagens que ele percebia à época do evento.",
+"c": true,
+"prof": "Certo. Art. 74.",
+"x": "A pensão especial é reajustada nas mesmas bases do reajustamento concedido à remuneração do cargo equivalente.",
+"e": "Pensão especial: não inferior ao que recebia."
+},
+{
+"p": "O afastamento do policial civil para tratar de interesses particulares, previsto na LC 129/2013, tem prazo máximo de:",
+"alts": [
+"6 meses",
+"1 ano",
+"2 anos",
+"3 anos",
+"5 anos"
+],
+"r": 2,
+"n": [
+"Não corresponde.",
+"Não corresponde.",
+"Correta: art. 70, IV.",
+"Não corresponde.",
+"Não corresponde."
+],
+"prof": "Art. 70.",
+"x": "O afastamento para tratar de interesses particulares tem prazo máximo de dois anos e não é concedido a quem está em estágio probatório ou reúne as condições para aposentadoria, entre outras restrições do § 1º.",
+"e": "Interesses particulares: 2 anos."
+},
+{
+"p": "O afastamento para frequentar curso relacionado às funções do cargo pode ser concedido ao policial civil em estágio probatório ou submetido a processo administrativo disciplinar.",
+"c": false,
+"prof": "É vedado nesses casos.",
+"x": "O art. 68, § 1º, proíbe o afastamento para cursos ao policial em estágio probatório ou submetido a sindicância ou processo administrativo disciplinar.",
+"e": "Probatório ou PAD: sem afastamento para curso."
 }
 ]
 },
@@ -588,6 +868,76 @@ export default {
 "prof": "Na investigação social, omitir é tão grave quanto o fato omitido.",
 "x": "O art. 86 prevê a exclusão por incapacidade moral, envolvimento em fato comprometedor, antecedentes, demissão de outra instituição policial ou omissão desses dados.",
 "e": "Omitir = excluir."
+},
+{
+"p": "São carreiras policiais civis, nos termos da LC 129/2013, as de Delegado de Polícia, Escrivão de Polícia, Investigador de Polícia, Médico-Legista e Perito Criminal.",
+"c": true,
+"prof": "Certo. Art. 76.",
+"x": "O quadro de pessoal da PCMG inclui ainda outras carreiras de apoio, mas as carreiras policiais civis são essas cinco.",
+"e": "Cinco carreiras policiais."
+},
+{
+"p": "Segundo a LC 129/2013, o policial civil submete-se a estágio probatório pelo prazo de:",
+"alts": [
+"2 anos, contados da nomeação",
+"3 anos, contados do ato da posse",
+"3 anos, contados do término do curso de formação",
+"1 ano, contado do exercício",
+"4 anos, contados da posse"
+],
+"r": 1,
+"n": [
+"Não corresponde.",
+"Correta: art. 87.",
+"O termo inicial é a posse.",
+"Não corresponde.",
+"Não corresponde."
+],
+"prof": "Art. 87.",
+"x": "Durante o estágio probatório, avaliam-se, entre outros critérios, idoneidade moral, conduta compatível com o cargo, dedicação, disciplina e eficiência, por comissão de policiais estáveis.",
+"e": "Estágio: 3 anos da posse."
+},
+{
+"p": "O concurso público para ingresso nas carreiras policiais civis é realizado exclusivamente pela Secretaria de Planejamento, vedada a terceirização.",
+"c": false,
+"prof": "Cabe à Academia de Polícia Civil, admitida terceirização.",
+"x": "O art. 83, § 1º, atribui privativamente à Academia de Polícia Civil a realização do concurso, admitida a terceirização no todo ou em parte, sob sua supervisão, e do curso de formação.",
+"e": "Concurso: Academia."
+},
+{
+"p": "Constitui motivo para exclusão do candidato, durante o concurso, mediante investigação social e assegurada ampla defesa, a omissão de dados sobre antecedentes criminais na ficha destinada à investigação social.",
+"c": true,
+"prof": "Certo. Art. 86, III.",
+"x": "Também são motivos a incapacidade moral ou física, a inaptidão para o cargo e o envolvimento em fato que comprometa o candidato moral ou profissionalmente.",
+"e": "Omitir antecedentes: exclusão."
+},
+{
+"p": "O Corregedor-Geral de Polícia Civil, no estágio probatório, pode:",
+"alts": [
+"declarar a estabilidade do policial",
+"impugnar fundamentadamente, a qualquer tempo, a permanência do policial no cargo, suspendendo-se o estágio até o julgamento",
+"prorrogar o estágio por mais 2 anos",
+"promover o policial ao nível seguinte",
+"dispensar a avaliação de desempenho"
+],
+"r": 1,
+"n": [
+"O ato declaratório de estabilidade é do Chefe da PCMG (art. 91).",
+"Correta: art. 89.",
+"Não há essa previsão.",
+"Não há essa previsão.",
+"Não há essa previsão."
+],
+"prof": "Art. 89.",
+"x": "A impugnação pode ser feita de ofício ou mediante provocação; o período de estágio fica suspenso até o julgamento definitivo. O Corregedor também apresenta parecer ao Conselho Superior até 90 dias antes do término do estágio (art. 90).",
+"e": "Corregedor impugna."
+},
+{
+"p": "Na carreira de Delegado de Polícia, a habilitação exigida para ingresso é a graduação em Direito; na de Médico-Legista, a graduação em Medicina.",
+"c": true,
+"prof": "Certo. Art. 85.",
+"x": "Para Escrivão, Investigador e Perito Criminal, a habilitação de nível superior é a definida no edital do concurso.",
+"e": "Delegado: Direito; Legista: Medicina."
 }
 ]
 },
@@ -714,6 +1064,55 @@ export default {
 "prof": "Prova emprestada + autorização judicial + contraditório.",
 "x": "A Súmula 591 do STJ permite a prova emprestada no PAD, desde que autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa.",
 "e": "Súmula 591."
+},
+{
+"p": "Na Lei 5.406/1969, a suspensão disciplinar não pode exceder 90 dias e pode ser convertida em multa de 50% por dia de vencimento, permanecendo o servidor em serviço.",
+"c": true,
+"prof": "Certo.",
+"x": "A conversão em multa atende à conveniência do serviço: o policial continua trabalhando, mas perde metade da remuneração dos dias de suspensão.",
+"e": "Suspensão: até 90 dias; multa 50%."
+},
+{
+"p": "Pela Lei 5.406/1969, configura abandono de cargo a ausência ao serviço por mais de 60 dias consecutivos.",
+"c": false,
+"prof": "Mais de 30 dias consecutivos.",
+"x": "Abandono: mais de 30 dias consecutivos. Inassiduidade: mais de 45 dias interpolados em um ano. Os prazos da Lei 8.112 (federal) são diferentes.",
+"e": "Abandono: 30 consecutivos."
+},
+{
+"p": "Segundo a Lei 5.406/1969, a classificação da transgressão disciplinar como leve ou grave cabe:",
+"alts": [
+"ao Governador do Estado",
+"à Comissão Processante",
+"à autoridade competente para aplicar a pena, considerando a natureza do fato, as circunstâncias e os antecedentes",
+"ao Ministério Público",
+"ao próprio transgressor, em sua defesa"
+],
+"r": 2,
+"n": [
+"Não é a regra.",
+"A comissão instrui.",
+"Correta.",
+"Não é a regra.",
+"Não é a regra."
+],
+"prof": "Quem pune, classifica.",
+"x": "A autoridade competente para aplicar a pena classifica a transgressão. São sempre graves as transgressões infamantes, ofensivas à dignidade policial, atentatórias às instituições, dolosas e prejudiciais ao serviço ou contrárias à hierarquia.",
+"e": "Classificação: autoridade que pune."
+},
+{
+"p": "As responsabilidades penal, civil e administrativa do policial são independentes, e a absolvição criminal só repercute na esfera administrativa quando reconhece a inexistência do fato ou a negativa de autoria.",
+"c": true,
+"prof": "Certo.",
+"x": "A absolvição por falta de provas não impede a punição disciplinar, porque os critérios de prova e a natureza da responsabilidade são diferentes.",
+"e": "Absolvição por inexistência ou negativa de autoria vincula."
+},
+{
+"p": "Segundo a Súmula Vinculante 5 do STF, a falta de defesa técnica por advogado no processo administrativo disciplinar gera nulidade absoluta.",
+"c": false,
+"prof": "Não ofende a Constituição.",
+"x": "A SV 5 afirma que a falta de defesa técnica por advogado no PAD não ofende a Constituição. Se o acusado for revel, porém, nomeia-se defensor.",
+"e": "PAD sem advogado: válido."
 }
 ]
 },
@@ -830,6 +1229,76 @@ export default {
 "prof": "Judiciário controla legalidade, não conveniência.",
 "x": "A Súmula 665 do STJ limita o controle judicial do PAD à regularidade do procedimento e à legalidade do ato, salvo flagrante ilegalidade, teratologia ou manifesta desproporcionalidade da sanção.",
 "e": "Súmula 665."
+},
+{
+"p": "Na Lei 5.406/1969, as Comissões Processantes Permanentes são compostas por três servidores estáveis e presididas por Delegado de carreira.",
+"c": true,
+"prof": "Certo.",
+"x": "O processo deve ser iniciado em até 8 dias após o ato de instauração e concluído em 60 dias contados da citação.",
+"e": "Comissão: 3 estáveis, presidida por Delegado."
+},
+{
+"p": "Segundo a Lei 5.406/1969, o processo administrativo é obrigatório quando:",
+"alts": [
+"houver qualquer transgressão leve",
+"a falta, por sua natureza, puder determinar a pena de demissão",
+"o servidor for estável há mais de 10 anos",
+"o fato for apurado em inquérito policial",
+"o servidor solicitar"
+],
+"r": 1,
+"n": [
+"Para faltas leves, há procedimentos mais simples.",
+"Correta.",
+"Não é o critério.",
+"Não é o critério.",
+"Não é o critério."
+],
+"prof": "Demissão exige processo.",
+"x": "A pena de demissão só pode ser aplicada após processo administrativo, com ampla defesa. A sindicância precede o processo quando faltam elementos sobre a existência da falta ou a autoria.",
+"e": "Demissão: processo obrigatório."
+},
+{
+"p": "No processo por abandono de cargo, a defesa pode versar sobre qualquer matéria, com prazo de 15 dias.",
+"c": false,
+"prof": "Só força maior ou coação ilegal, em 5 dias.",
+"x": "A Lei 5.406 limita a defesa no processo por abandono à alegação de força maior ou coação ilegal, com prazo de 5 dias para defesa ou requerimento de provas.",
+"e": "Abandono: força maior ou coação, 5 dias."
+},
+{
+"p": "A revisão do processo administrativo pode ser requerida a qualquer tempo, quando surgirem fatos ou circunstâncias que justifiquem a inocência do punido ou a inadequação da pena, não podendo resultar em agravamento da penalidade.",
+"c": true,
+"prof": "Certo.",
+"x": "Quem integrou a comissão do processo original não pode funcionar na revisão.",
+"e": "Revisão: nunca agrava."
+},
+{
+"p": "Na Lei 5.406/1969, a citação por edital do acusado em lugar incerto ou que se oculta tem prazo de:",
+"alts": [
+"5 dias, publicada uma vez",
+"10 dias, publicada 5 vezes seguidas no órgão oficial",
+"15 dias, publicada 3 vezes",
+"30 dias, publicada uma vez",
+"60 dias, sem publicação"
+],
+"r": 1,
+"n": [
+"Não corresponde.",
+"Correta.",
+"Não corresponde.",
+"Não corresponde.",
+"Não corresponde."
+],
+"prof": "10 dias, 5 publicações.",
+"x": "Esgotado o prazo sem comparecimento, o processo segue à revelia, e o Presidente nomeia defensor, de preferência bacharel em Direito.",
+"e": "Edital: 10 dias, 5 vezes."
+},
+{
+"p": "Segundo a Súmula 641 do STJ, a portaria de instauração do processo administrativo disciplinar prescinde da exposição detalhada dos fatos a serem apurados.",
+"c": true,
+"prof": "Certo.",
+"x": "O detalhamento dos fatos ocorre na indiciação ou na acusação formal, contra a qual o servidor exerce a defesa.",
+"e": "Portaria: sem detalhamento."
 }
 ]
 }

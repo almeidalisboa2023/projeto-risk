@@ -26,7 +26,7 @@ const VISUAL = {
 const junta = (a, x) => (x ? { ...a, aprof: (a.aprof || '') + (x.html || ''), quiz: [...(a.quiz || []), ...(x.quiz || [])] } : a);
 // Texto aprofundado (profundo.js) substitui o texto curto do assunto e soma as questões novas
 // O texto antigo não se perde: vai para a aba Aprofundamento como leitura complementar.
-const fundo = (a, p) => (p ? { ...a, html: p.html, aprof: `<h3 class="lt-aprof">📚 Leitura complementar: outros exemplos e quadros</h3>${a.html || ''}${a.aprof || ''}`, quiz: [...(p.quiz || []), ...(a.quiz || [])], profundo: true } : a);
+const fundo = (a, p) => (p ? { ...a, html: p.html, aprof: `<h3 class="lt-aprof">📚 Leitura complementar: outros exemplos e quadros</h3>${p.ant || ''}${a.html || ''}${a.aprof || ''}`, quiz: [...(p.quiz || []), ...(a.quiz || [])], profundo: true } : a);
 const aprofundar = (m) => ({ ...m, assuntos: m.assuntos.map((a) => junta(junta(fundo(a, PROFUNDO[m.id]?.[a.id]), APROFUNDA[m.id]?.[a.id]), JURIS[m.id]?.[a.id])) });
 // Gabarito comentado: junta explicação (x), pegadinha (pg) e notas das alternativas (n) pela chave do enunciado (hash FNV-1a)
 export const chaveQ = (p) => { let h = 2166136261; for (const c of norm(p)) { h ^= c.codePointAt(0); h = Math.imul(h, 16777619) >>> 0; } return h.toString(36); };
