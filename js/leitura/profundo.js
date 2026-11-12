@@ -7529,5 +7529,1606 @@ export const PROFUNDO = {
 }
 ]
 }
+},
+"constitucional": {
+"teoria-constituicao": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>7</b><span>Constituições brasileiras: 1824, 1891, 1934, 1937, 1946, 1967 e 1988</span></div><div class=\"lt-stat\"><b>3</b><span>graus de eficácia (José Afonso da Silva): plena, contida e limitada</span></div><div class=\"lt-stat\"><b>0</b><span>força normativa do preâmbulo, segundo o STF</span></div><div class=\"lt-stat\"><b>250</b><span>artigos no corpo permanente da CF/1988, além do ADCT</span></div></div>\n<div class=\"lt-box\"><b class=\"lt-tit\">O que este tópico responde</b><p>O que é uma Constituição? De onde ela vem? Como classificá-la? Quanto \"vale\" cada norma dela? Essas perguntas parecem teóricas, mas a banca as transforma em itens objetivos: \"a CF/1988 é rígida\", \"o preâmbulo tem força normativa\", \"norma de eficácia contida depende de lei para produzir efeitos\". Aqui você aprende a responder cada uma com segurança.</p></div>\n<h3>1. Constitucionalismo e conceito de Constituição</h3>\n<ul><li><b>Constitucionalismo</b> é o movimento político e jurídico que busca <b>limitar o poder</b> do Estado por meio de uma Constituição, garantindo <b>direitos</b> às pessoas. Marcos: a <b>Magna Carta</b> (1215, Inglaterra), as Constituições escritas dos <b>Estados Unidos</b> (1787) e da <b>França</b> (1791), e, no século XX, o <b>constitucionalismo social</b> (México, 1917; Weimar, 1919), que incluiu direitos sociais. Hoje se fala em <b>neoconstitucionalismo</b>: a Constituição está no centro do sistema, tem <b>força normativa</b> e os princípios são aplicados diretamente pelo juiz.</li><li><b>Constituição</b> é a <b>lei fundamental</b> do Estado: organiza o poder (quem manda e como), define a forma de Estado e de governo e assegura direitos fundamentais.</li></ul>\n<table class=\"tab\"><thead><tr><th>Concepção</th><th>Autor</th><th>A Constituição é...</th></tr></thead><tbody><tr><td><b>Sociológica</b></td><td>Ferdinand <b>Lassalle</b></td><td>a soma dos <b>fatores reais de poder</b>; se a Constituição escrita não corresponder a eles, é só uma \"folha de papel\"</td></tr><tr><td><b>Política</b></td><td>Carl <b>Schmitt</b></td><td>a <b>decisão política fundamental</b> do titular do poder; distingue Constituição (decisões fundamentais) de <b>leis constitucionais</b> (o resto do texto)</td></tr><tr><td><b>Jurídica</b></td><td>Hans <b>Kelsen</b></td><td><b>norma pura</b>, fundamento de validade das demais normas, no topo da pirâmide; seu fundamento é a <b>norma hipotética fundamental</b></td></tr><tr><td><b>Culturalista</b></td><td>doutrina moderna</td><td>produto da cultura de um povo, que ao mesmo tempo a condiciona</td></tr><tr><td><b>Força normativa</b></td><td>Konrad <b>Hesse</b></td><td>a Constituição tem força própria e pode moldar a realidade, desde que haja \"vontade de Constituição\"</td></tr></tbody></table>\n<h3>2. Classificações</h3>\n<table class=\"tab\"><thead><tr><th>Critério</th><th>Espécies</th><th>CF/1988</th></tr></thead><tbody><tr><td><b>Origem</b></td><td><b>promulgada</b> (democrática, popular: feita por assembleia eleita); <b>outorgada</b> (imposta pelo governante); <b>cesarista</b> (outorgada e depois submetida a plebiscito ou referendo); <b>pactuada</b> (acordo entre forças políticas, como o rei e o parlamento)</td><td><b>promulgada</b></td></tr><tr><td><b>Forma</b></td><td><b>escrita</b> (em documento único e solene); <b>não escrita</b> (costumeira, como a inglesa)</td><td><b>escrita</b></td></tr><tr><td><b>Extensão</b></td><td><b>analítica</b> (prolixa: trata de muitas matérias com detalhamento); <b>sintética</b> (concisa: só o essencial, como a dos EUA)</td><td><b>analítica</b></td></tr><tr><td><b>Conteúdo</b></td><td><b>material</b> (só é constitucional o que trata de matéria constitucional: poder e direitos); <b>formal</b> (é constitucional tudo o que está no documento, independentemente do conteúdo, porque foi criado por processo especial)</td><td><b>formal</b></td></tr><tr><td><b>Estabilidade</b> (alterabilidade)</td><td><b>imutável</b>; <b>rígida</b> (exige processo mais difícil que o das leis); <b>flexível</b> (alterada como lei comum); <b>semirrígida</b> ou semiflexível (parte rígida, parte flexível, como a de 1824)</td><td><b>rígida</b> (para alguns, <b>super-rígida</b>, por causa das cláusulas pétreas)</td></tr><tr><td><b>Modo de elaboração</b></td><td><b>dogmática</b> (escrita, elaborada de uma vez por órgão constituinte, sistematiza os <b>dogmas e ideias dominantes</b> do momento); <b>histórica</b> (lenta formação a partir de costumes, sempre não escrita)</td><td><b>dogmática</b></td></tr><tr><td><b>Ideologia</b></td><td><b>ortodoxa</b> (uma só ideologia); <b>eclética</b> (concilia várias correntes)</td><td><b>eclética</b></td></tr><tr><td><b>Finalidade</b></td><td><b>garantia</b> (limita o poder, típica do liberalismo); <b>dirigente</b> (traça <b>metas, programas e fins</b> para o Estado e a sociedade); <b>balanço</b> (registra um estágio, típica das Constituições soviéticas)</td><td><b>dirigente</b> (ex.: art. 3º, objetivos fundamentais)</td></tr><tr><td><b>Correspondência com a realidade</b> (Loewenstein)</td><td><b>normativa</b> (efetivamente regula o poder); <b>nominal</b> (não consegue regular a realidade); <b>semântica</b> (só legitima quem está no poder)</td><td><b>normativa</b> (pretensão)</td></tr></tbody></table>\n<ul><li><b>Atenção à pegadinha</b>: Constituição <b>dirigente</b> é justamente a que <b>traça metas</b> para a atuação estatal; a que só organiza o Estado sem programas é a <b>Constituição garantia</b>.</li></ul>\n<h3>3. As Constituições brasileiras</h3>\n<table class=\"tab\"><thead><tr><th>Constituição</th><th>Origem</th><th>Destaques</th></tr></thead><tbody><tr><td><b>1824</b> (Império)</td><td><b>outorgada</b> por D. Pedro I</td><td><b>semirrígida</b>; <b>Poder Moderador</b>; religião oficial católica; voto censitário</td></tr><tr><td><b>1891</b> (1ª República)</td><td><b>promulgada</b> (Assembleia Constituinte; Deodoro foi eleito presidente por ela)</td><td><b>federação</b>, <b>república</b>, <b>presidencialismo</b>; Estado <b>laico</b>; controle difuso de constitucionalidade; habeas corpus constitucionalizado</td></tr><tr><td><b>1934</b></td><td>promulgada</td><td>direitos <b>sociais</b> e trabalhistas; voto <b>feminino</b> e secreto; mandado de segurança; ação popular</td></tr><tr><td><b>1937</b> (Estado Novo, \"Polaca\")</td><td><b>outorgada</b> por Getúlio Vargas</td><td>autoritária; extinguiu partidos; previa pena de morte para crimes políticos</td></tr><tr><td><b>1946</b></td><td>promulgada</td><td>redemocratização; restabeleceu direitos</td></tr><tr><td><b>1967</b></td><td>formalmente promulgada por um Congresso sem liberdade (materialmente imposta)</td><td>regime militar; concentração no Executivo</td></tr><tr><td><b>EC 1/1969</b></td><td>outorgada pela junta militar</td><td>para muitos, uma nova Constituição</td></tr><tr><td><b>1988</b> (\"Cidadã\")</td><td><b>promulgada</b></td><td>ampliou direitos fundamentais; Ministério Público forte; município como ente federativo</td></tr></tbody></table>\n<h3>4. A Constituição de 1988: estrutura</h3>\n<ul><li>Divide-se em <b>preâmbulo</b>, <b>corpo permanente</b> (9 títulos, arts. 1º a 250) e <b>ADCT</b> (Ato das Disposições Constitucionais Transitórias), que regula a transição e também tem força de norma constitucional (pode ser alterado por emenda e serve de parâmetro de controle).</li><li><b>Preâmbulo</b>: anuncia os valores da nova ordem (\"Nós, representantes do povo brasileiro... sob a proteção de Deus...\"). Para o <b>STF</b> (ADI 2.076), o preâmbulo <b>não tem força normativa</b>, <b>não é norma central</b> de reprodução obrigatória e situa-se no domínio da <b>política</b>, não do direito. Por isso, as <b>Constituições estaduais não são obrigadas</b> a reproduzir a invocação da \"proteção de Deus\" e o preâmbulo <b>não</b> serve de parâmetro para controle de constitucionalidade. Serve como <b>vetor interpretativo</b>.</li></ul>\n<h3>5. Eficácia e aplicabilidade das normas constitucionais</h3>\n<table class=\"tab\"><thead><tr><th>Classificação (José Afonso da Silva)</th><th>Características</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Eficácia plena</b></td><td>aplicabilidade <b>direta, imediata e integral</b>; produzem todos os efeitos desde a promulgação, <b>sem precisar de lei</b> e sem que a lei possa restringi-las</td><td>art. 1º; art. 2º; art. 5º, III (ninguém será submetido a tortura); remédios constitucionais</td></tr><tr><td><b>Eficácia contida</b> (restringível, redutível)</td><td>aplicabilidade <b>direta e imediata</b>, mas <b>possivelmente não integral</b>: produzem efeitos desde logo, <b>mas a lei pode reduzir seu alcance</b></td><td>art. 5º, <b>XIII</b> (livre exercício de qualquer profissão, <b>atendidas as qualificações que a lei estabelecer</b>: o Exame da OAB); art. 5º, XV (locomoção)</td></tr><tr><td><b>Eficácia limitada</b></td><td>aplicabilidade <b>indireta, mediata e reduzida</b>: <b>dependem de lei</b> (ou de outra norma) para produzir seus efeitos essenciais</td><td>de <b>princípio institutivo</b> (organizam órgãos: art. 33, territórios; art. 37, VII, greve do servidor) ou <b>programáticas</b> (fixam programas: art. 196, saúde; art. 215, cultura)</td></tr></tbody></table>\n<ul><li>Mesmo as normas de eficácia limitada têm <b>eficácia mínima</b>: revogam leis anteriores contrárias (não as recepcionam), servem de parâmetro de controle e impedem leis em sentido contrário (<b>eficácia negativa</b>). A omissão em regulamentá-las pode ser combatida por <b>mandado de injunção</b> ou <b>ADO</b>.</li><li><b>Normas de eficácia exaurida</b>: já cumpriram seu papel, sobretudo no ADCT (ex.: art. 3º do ADCT, sobre a revisão de 1993).</li><li><b>Maria Helena Diniz</b> usa outra nomenclatura: normas <b>supereficazes</b> (absolutas: cláusulas pétreas), de eficácia <b>plena</b>, de eficácia <b>relativa restringível</b> (= contida) e de eficácia <b>relativa complementável</b> (= limitada).</li><li><b>Art. 5º, § 1º</b>: as normas definidoras dos direitos e garantias fundamentais têm <b>aplicação imediata</b>. Isso não significa que todas sejam de eficácia plena, mas que o intérprete deve buscar sua máxima efetividade.</li></ul>\n<h3>6. Interpretação constitucional</h3>\n<ul><li><b>Princípios de interpretação</b> (Canotilho e doutrina): <b>unidade da Constituição</b> (não há hierarquia entre normas constitucionais originárias; devem ser harmonizadas); <b>efeito integrador</b>; <b>máxima efetividade</b> (dar à norma o sentido que lhe dê mais eficácia); <b>justeza ou conformidade funcional</b> (o intérprete não pode subverter a repartição de funções); <b>concordância prática ou harmonização</b> (em conflito de direitos, sacrificar o mínimo de cada um); <b>força normativa</b>.</li><li><b>Interpretação conforme a Constituição</b>: diante de várias interpretações possíveis de uma <b>lei</b>, escolhe-se a que é compatível com a Constituição, sem declarar o texto inconstitucional.</li><li><b>Não há hierarquia</b> entre normas constitucionais <b>originárias</b>: o STF não admite a tese de \"normas constitucionais inconstitucionais\" (Otto Bachof) em relação ao texto originário (ADI 815).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O preâmbulo tem força normativa e deve ser reproduzido pelos Estados</span><br>✅ <span class=\"certo\">Não tem (ADI 2.076); a menção a Deus não é obrigatória.</span></li><li>❌ <span class=\"banca\">A CF/1988 é sintética</span><br>✅ <span class=\"certo\">É ANALÍTICA.</span></li><li>❌ <span class=\"banca\">Constituição dirigente só organiza o Estado</span><br>✅ <span class=\"certo\">Ela traça metas e programas.</span></li><li>❌ <span class=\"banca\">Norma de eficácia contida depende de lei para produzir efeitos</span><br>✅ <span class=\"certo\">Produz efeitos imediatos; a lei pode RESTRINGI-los.</span></li><li>❌ <span class=\"banca\">A Constituição de 1891 foi outorgada</span><br>✅ <span class=\"certo\">Foi PROMULGADA.</span></li><li>❌ <span class=\"banca\">A CF/1988 é flexível</span><br>✅ <span class=\"certo\">É rígida (super-rígida para parte da doutrina).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Concepção de Lassalle?</span></span><span class=\"vs\"><span><b>Sociológica</b>: fatores reais de poder.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Concepção de Kelsen?</span></span><span class=\"vs\"><span><b>Jurídica</b>: norma pura, fundamento de validade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Concepção de Schmitt?</span></span><span class=\"vs\"><span><b>Política</b>: decisão política fundamental.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Classificação da CF/1988?</span></span><span class=\"vs\"><span>Promulgada, escrita, analítica, formal, rígida, dogmática, eclética, dirigente.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Preâmbulo, segundo o STF?</span></span><span class=\"vs\"><span>Sem força normativa; não é de reprodução obrigatória.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eficácia contida?</span></span><span class=\"vs\"><span>Imediata, mas <b>restringível</b> por lei (ex.: art. 5º, XIII).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eficácia limitada?</span></span><span class=\"vs\"><span>Depende de lei; <b>institutivas</b> ou <b>programáticas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Constituições outorgadas?</span></span><span class=\"vs\"><span><b>1824, 1937</b> e a EC 1/1969 (1967 é discutida).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O exame de ordem</b><p>Um bacharel em Direito questiona a exigência de aprovação no Exame da OAB, alegando que o art. 5º, XIII, garante o livre exercício de qualquer profissão.</p><details><summary>Ver a solução comentada</summary><p>O inciso XIII é norma de <b>eficácia contida</b>: o direito existe desde a promulgação, mas a lei pode <b>restringi-lo</b>, estabelecendo <b>qualificações profissionais</b>. O Estatuto da OAB (Lei 8.906/1994) fez isso, e o STF declarou o exame constitucional (RE 603.583).</p></details></div>",
+"quiz": [
+{
+"p": "Quanto ao conteúdo, considera-se formal a Constituição cujas normas valem pela forma solene de sua criação, independentemente da matéria que tratem.",
+"c": true,
+"prof": "Certo.",
+"x": "Na concepção formal, tudo o que está no texto constitucional, elaborado por processo especial, é norma constitucional, ainda que trate de assunto secundário (como o art. 242, § 2º, que mantém o Colégio Pedro II na órbita federal). A CF/1988 é formal.",
+"e": "Formal: vale pela forma."
+},
+{
+"p": "Constituição dirigente é aquela que se limita a organizar o Estado e a garantir liberdades, sem traçar metas para a atuação estatal.",
+"c": false,
+"prof": "Essa é a Constituição garantia.",
+"x": "A Constituição dirigente estabelece programas, fins e metas para o Estado (como os objetivos do art. 3º da CF/1988). A que apenas limita o poder e organiza o Estado é chamada de Constituição garantia.",
+"e": "Dirigente traça metas."
+},
+{
+"p": "Segundo o STF, a respeito do preâmbulo da Constituição de 1988, é correto afirmar que:",
+"alts": [
+"tem força normativa e serve de parâmetro para controle de constitucionalidade",
+"é norma de reprodução obrigatória nas Constituições estaduais",
+"não tem força normativa e não é de reprodução obrigatória, podendo servir de vetor interpretativo",
+"integra o ADCT",
+"só pode ser alterado por emenda aprovada por unanimidade"
+],
+"r": 2,
+"n": [
+"Não tem força normativa.",
+"Não é de reprodução obrigatória.",
+"Correta: ADI 2.076.",
+"Não integra o ADCT.",
+"Não há essa regra."
+],
+"prof": "Preâmbulo é política, não norma.",
+"x": "O STF decidiu que o preâmbulo se situa no domínio da política e não tem relevância jurídica autônoma. Por isso a Constituição do Acre, que não invocava a proteção de Deus, foi considerada válida.",
+"e": "Preâmbulo: sem força normativa."
+},
+{
+"p": "A norma do art. 5º, XIII, da Constituição, que garante o livre exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer, é exemplo de norma de eficácia contida.",
+"c": true,
+"prof": "Certo.",
+"x": "Ela produz efeitos desde logo (qualquer pessoa pode exercer profissões não regulamentadas), mas a lei pode restringir seu alcance, como faz o Estatuto da OAB ao exigir aprovação no exame.",
+"e": "Profissão: eficácia contida."
+},
+{
+"p": "A Constituição escrita, elaborada de uma só vez por um órgão constituinte e que sistematiza os dogmas e ideias dominantes no momento de sua criação, é classificada como:",
+"alts": [
+"histórica",
+"dogmática",
+"costumeira",
+"flexível",
+"sintética"
+],
+"r": 1,
+"n": [
+"A histórica resulta de lenta evolução e é não escrita.",
+"Correta.",
+"Costumeira é não escrita.",
+"Flexível diz respeito à alteração.",
+"Sintética diz respeito à extensão."
+],
+"prof": "Modo de elaboração.",
+"x": "Quanto ao modo de elaboração, a Constituição pode ser dogmática (escrita, feita de uma vez, consagrando os dogmas do momento) ou histórica (formada lentamente pelos costumes). A CF/1988 é dogmática.",
+"e": "Dogmática: dogmas do momento."
+},
+{
+"p": "A Constituição de 1891, primeira da República, foi outorgada pelo Marechal Deodoro da Fonseca.",
+"c": false,
+"prof": "Foi promulgada.",
+"x": "A Constituição de 1891 foi elaborada por Assembleia Constituinte e promulgada; a mesma assembleia elegeu Deodoro presidente. As outorgadas foram a de 1824, a de 1937 e a EC 1/1969.",
+"e": "1891: promulgada."
+},
+{
+"p": "São características da Constituição Federal de 1988, EXCETO:",
+"alts": [
+"promulgada",
+"analítica",
+"rígida",
+"dirigente",
+"sintética"
+],
+"r": 4,
+"n": [
+"É promulgada.",
+"É analítica.",
+"É rígida.",
+"É dirigente.",
+"Correta (não é característica): a CF/1988 é analítica."
+],
+"prof": "Extensão.",
+"x": "A CF/1988 trata de grande número de matérias com detalhamento (analítica), em oposição às Constituições sintéticas, como a dos EUA, que se limitam ao essencial.",
+"e": "CF/1988: analítica."
+},
+{
+"p": "As normas constitucionais de eficácia limitada, embora dependam de regulamentação para produzir seus efeitos essenciais, possuem eficácia jurídica mínima, como a de revogar normas anteriores incompatíveis.",
+"c": true,
+"prof": "Certo.",
+"x": "Toda norma constitucional tem alguma eficácia. As de eficácia limitada não recepcionam leis anteriores contrárias, servem de parâmetro de controle e impedem a edição de normas em sentido oposto (eficácia negativa).",
+"e": "Limitada: eficácia mínima."
+}
+]
+},
+"poder-constituinte": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3/5</b><span>dos votos, em dois turnos, em cada Casa, para aprovar emenda</span></div><div class=\"lt-stat\"><b>4</b><span>cláusulas pétreas expressas (art. 60, § 4º)</span></div><div class=\"lt-stat\"><b>1993</b><span>ano da revisão constitucional do art. 3º do ADCT</span></div><div class=\"lt-stat\"><b>6</b><span>emendas constitucionais de revisão aprovadas em 1994</span></div></div>\n<h3>1. Conceito e titularidade</h3>\n<ul><li><b>Poder constituinte</b> é o poder de <b>criar</b> ou <b>modificar</b> uma Constituição. A teoria foi formulada por <b>Emmanuel Sieyès</b> (\"O que é o Terceiro Estado?\", 1789), que distinguiu o <b>poder constituinte</b> (que cria) dos <b>poderes constituídos</b> (criados pela Constituição).</li><li><b>Titularidade</b>: para a doutrina moderna, o titular é o <b>povo</b> (CF, art. 1º, parágrafo único: \"<b>todo o poder emana do povo</b>, que o exerce por meio de representantes eleitos ou diretamente\"). Sieyès falava em <b>nação</b>. <b>Exercício</b>: pode ser feito por uma assembleia constituinte (democrático) ou por quem toma o poder (outorga).</li></ul>\n<h3>2. Poder constituinte originário</h3>\n<ul><li>Cria uma <b>nova Constituição</b>, rompendo com a ordem anterior. Pode ser <b>histórico</b> (cria a primeira Constituição do Estado) ou <b>revolucionário</b> (cria as seguintes).</li></ul>\n<table class=\"tab\"><thead><tr><th>Característica</th><th>Significado</th></tr></thead><tbody><tr><td><b>Inicial</b></td><td>inaugura uma nova ordem jurídica; não se apoia na anterior</td></tr><tr><td><b>Ilimitado</b> (autônomo, soberano)</td><td>não se submete a limites da ordem jurídica anterior. Para a corrente <b>jusnaturalista</b>, encontra limites no direito natural; para os positivistas, é juridicamente ilimitado</td></tr><tr><td><b>Incondicionado</b></td><td>não segue procedimento previamente fixado</td></tr><tr><td><b>Permanente</b></td><td>não se esgota com a criação da Constituição: permanece latente</td></tr></tbody></table>\n<ul><li><b>Não cabe controle de constitucionalidade</b> de norma <b>originária</b>: o STF não admite ADI contra norma constitucional originária (ADI 815), porque não há hierarquia entre normas da mesma Constituição.</li></ul>\n<h3>3. Poder constituinte derivado</h3>\n<table class=\"tab\"><thead><tr><th>Espécie</th><th>O que faz</th><th>Limites</th></tr></thead><tbody><tr><td><b>Reformador</b></td><td>altera a Constituição por <b>emendas</b> (art. 60)</td><td>formais, circunstanciais, materiais e implícitos</td></tr><tr><td><b>Revisor</b></td><td>fez a <b>revisão</b> prevista no <b>art. 3º do ADCT</b></td><td>realizada <b>após 5 anos</b> da promulgação, em <b>sessão unicameral</b> do Congresso, por <b>maioria absoluta</b>; ocorreu em <b>1993/1994</b> e resultou em <b>6 emendas de revisão</b>; <b>eficácia exaurida</b>: não pode ser repetida</td></tr><tr><td><b>Decorrente</b></td><td>permite aos <b>Estados</b> elaborarem suas Constituições (art. 25 da CF e art. 11 do ADCT) e à Lei Orgânica do DF</td><td>deve respeitar os princípios da CF (sensíveis, extensíveis e estabelecidos). Os <b>municípios</b> têm Lei Orgânica, mas a maioria da doutrina <b>não</b> reconhece nela poder constituinte decorrente</td></tr></tbody></table>\n<ul><li>O poder derivado é <b>secundário</b>, <b>limitado</b> e <b>condicionado</b>: só existe porque a Constituição o criou e deve seguir as regras que ela fixou.</li></ul>\n<h3>4. Limites ao poder reformador (art. 60)</h3>\n<ul><li><b>Limites formais (procedimentais)</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Fase</th><th>Regra</th></tr></thead><tbody><tr><td><b>Iniciativa</b> (art. 60, I a III)</td><td><b>1/3</b>, no mínimo, dos membros da <b>Câmara</b> ou do <b>Senado</b>; o <b>Presidente da República</b>; <b>mais da metade das Assembleias Legislativas</b> das unidades da Federação, manifestando-se cada uma pela <b>maioria relativa</b> de seus membros. <b>Não há iniciativa popular</b> de emenda à CF (há quem defenda, mas o texto não prevê)</td></tr><tr><td><b>Discussão e votação</b> (§ 2º)</td><td>em <b>cada Casa</b> do Congresso, em <b>dois turnos</b>, considerando-se aprovada se obtiver, em ambos, <b>3/5 dos votos</b> dos respectivos membros</td></tr><tr><td><b>Promulgação</b> (§ 3º)</td><td>pelas <b>Mesas da Câmara e do Senado</b>, com o respectivo número de ordem. <b>Não há sanção nem veto</b> do Presidente</td></tr><tr><td><b>Rejeição</b> (§ 5º)</td><td>a matéria de PEC <b>rejeitada</b> ou havida por <b>prejudicada</b> <b>não pode</b> ser objeto de nova proposta <b>na mesma sessão legislativa</b> (limite absoluto, diferente do projeto de lei, que admite reapresentação por maioria absoluta)</td></tr></tbody></table>\n<ul><li><b>Limites circunstanciais</b> (§ 1º): a Constituição <b>não poderá ser emendada</b> na vigência de <b>intervenção federal</b>, de <b>estado de defesa</b> ou de <b>estado de sítio</b>. Nesses períodos, a PEC pode até tramitar, mas não pode ser votada e promulgada.</li><li><b>Limites materiais: cláusulas pétreas</b> (§ 4º): \"não será objeto de deliberação a proposta de emenda <b>tendente a abolir</b>\": <b>I – a forma federativa de Estado</b>; <b>II – o voto direto, secreto, universal e periódico</b>; <b>III – a separação dos Poderes</b>; <b>IV – os direitos e garantias individuais</b>. Macete: <b>FO-VO-SE-DI</b>.</li><li>\"<b>Tendente a abolir</b>\": o STF entende que as cláusulas pétreas protegem o <b>núcleo essencial</b> dos princípios, e não a literalidade dos dispositivos. Emendas que <b>ampliam</b> direitos ou mudam detalhes sem atingir o núcleo são válidas. O <b>voto obrigatório</b> <b>não</b> é cláusula pétrea (pode ser transformado em facultativo); a <b>República</b> também <b>não</b> é cláusula pétrea expressa (alguns autores a consideram implícita, após o plebiscito de 1993).</li><li><b>Direitos e garantias individuais</b>: o STF entende que não estão apenas no art. 5º (a <b>anterioridade tributária</b>, art. 150, III, \"b\", é cláusula pétrea: ADI 939). Os <b>direitos sociais</b> do art. 7º <b>não estão expressamente listados</b> no § 4º; a doutrina diverge sobre sua proteção como cláusula pétrea.</li><li><b>Limites implícitos</b>: não se pode alterar o <b>titular</b> do poder constituinte nem o <b>titular do poder reformador</b>, nem o <b>próprio procedimento</b> do art. 60 para facilitá-lo. Por isso a doutrina majoritária <b>rejeita a dupla revisão</b> (primeiro revogar o § 4º e, depois, abolir a cláusula pétrea).</li><li><b>Controle</b>: o STF admite <b>mandado de segurança impetrado por parlamentar</b> para impedir a tramitação de PEC tendente a abolir cláusula pétrea (controle preventivo), e admite <b>ADI contra emenda constitucional</b> (controle repressivo), justamente porque o poder reformador é limitado.</li></ul>\n<h3>5. Tratados de direitos humanos (art. 5º, § 3º)</h3>\n<ul><li>Os tratados e convenções internacionais sobre <b>direitos humanos</b> aprovados, em <b>cada Casa</b> do Congresso, em <b>dois turnos</b>, por <b>3/5 dos votos</b> dos membros, são <b>equivalentes às emendas constitucionais</b> (EC 45/2004). Exemplos: Convenção sobre os Direitos das Pessoas com Deficiência (2009) e o Tratado de Marraqueche.</li><li>Tratados de direitos humanos aprovados <b>sem</b> esse rito têm status <b>supralegal</b> (acima das leis, abaixo da Constituição), segundo o STF (RE 466.343): é o caso do <b>Pacto de San José da Costa Rica</b>, que levou à <b>SV 25</b> (proibição da prisão do depositário infiel).</li></ul>\n<h3>6. Direito constitucional intertemporal</h3>\n<table class=\"tab\"><thead><tr><th>Fenômeno</th><th>O que é</th><th>No Brasil</th></tr></thead><tbody><tr><td><b>Recepção</b></td><td>a lei anterior <b>compatível materialmente</b> com a nova Constituição continua valendo, podendo ganhar nova natureza (o CTN, lei ordinária, foi recebido como <b>lei complementar</b>)</td><td><b>adotada</b></td></tr><tr><td><b>Não recepção (revogação)</b></td><td>a lei anterior <b>incompatível</b> com a nova Constituição é <b>revogada</b> por ela</td><td>o STF <b>não</b> fala em \"inconstitucionalidade superveniente\": trata-se de não recepção, verificável por <b>ADPF</b></td></tr><tr><td><b>Repristinação</b></td><td>a lei revogada volta a valer porque a lei revogadora foi revogada</td><td><b>não é automática</b>: só ocorre se houver <b>previsão expressa</b> (LINDB, art. 2º, § 3º)</td></tr><tr><td><b>Desconstitucionalização</b></td><td>normas da Constituição antiga continuam valendo como <b>leis ordinárias</b></td><td><b>não adotada</b>, salvo previsão expressa</td></tr><tr><td><b>Mutação constitucional</b></td><td><b>alteração do sentido</b> da norma <b>sem alteração do texto</b>, por nova interpretação (poder constituinte <b>difuso</b>)</td><td>admitida; ex.: reconhecimento da <b>união homoafetiva</b> como entidade familiar (ADI 4.277)</td></tr></tbody></table>\n<ul><li><b>Efeito repristinatório</b> é diferente: ocorre quando o STF declara <b>inconstitucional</b> uma lei que revogou outra; como a lei nula não produz efeitos, a anterior volta a valer.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Há iniciativa popular de emenda à CF</span><br>✅ <span class=\"certo\">O art. 60 não prevê.</span></li><li>❌ <span class=\"banca\">O Presidente sanciona a emenda</span><br>✅ <span class=\"certo\">Emenda é promulgada pelas Mesas da Câmara e do Senado; não há sanção.</span></li><li>❌ <span class=\"banca\">PEC rejeitada pode ser reapresentada na mesma sessão por maioria absoluta</span><br>✅ <span class=\"certo\">Vedado na mesma sessão legislativa (regra absoluta).</span></li><li>❌ <span class=\"banca\">O voto obrigatório é cláusula pétrea</span><br>✅ <span class=\"certo\">Pétreo é o voto direto, secreto, universal e periódico.</span></li><li>❌ <span class=\"banca\">Lei anterior incompatível com a nova CF é inconstitucional</span><br>✅ <span class=\"certo\">STF: é NÃO RECEPCIONADA (revogada).</span></li><li>❌ <span class=\"banca\">A repristinação é automática</span><br>✅ <span class=\"certo\">Só com previsão expressa.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Características do originário?</span></span><span class=\"vs\"><span><b>Inicial, ilimitado, incondicionado, permanente</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Iniciativa de PEC?</span></span><span class=\"vs\"><span><b>1/3</b> da Câmara ou do Senado; <b>Presidente</b>; <b>mais da metade das Assembleias</b> (maioria relativa).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quórum de PEC?</span></span><span class=\"vs\"><span><b>3/5</b>, <b>dois turnos</b>, <b>cada Casa</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Limites circunstanciais?</span></span><span class=\"vs\"><span><b>Intervenção federal, estado de defesa, estado de sítio</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cláusulas pétreas?</span></span><span class=\"vs\"><span><b>Forma federativa, voto direto secreto universal periódico, separação de Poderes, direitos e garantias individuais</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Revisão do ADCT?</span></span><span class=\"vs\"><span>Após 5 anos, sessão <b>unicameral</b>, <b>maioria absoluta</b>; exaurida.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mutação constitucional?</span></span><span class=\"vs\"><span>Muda o <b>sentido</b> sem mudar o <b>texto</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tratado de DH com rito do § 3º?</span></span><span class=\"vs\"><span>Equivale a <b>emenda constitucional</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A PEC da pena de morte</b><p>Um deputado apresenta PEC para permitir a pena de morte para crimes hediondos em tempo de paz.</p><details><summary>Ver a solução comentada</summary><p>A vedação à pena de morte (art. 5º, XLVII) é <b>direito e garantia individual</b> e, portanto, <b>cláusula pétrea</b> (art. 60, § 4º, IV). A PEC é <b>tendente a abolir</b> essa garantia e não pode sequer ser objeto de deliberação. Um parlamentar pode impetrar <b>mandado de segurança</b> no STF para impedir sua tramitação (controle preventivo).</p></details></div>",
+"quiz": [
+{
+"p": "O titular do poder constituinte, segundo a doutrina moderna, é o povo.",
+"c": true,
+"prof": "Certo.",
+"x": "A CF/1988 consagra a soberania popular no art. 1º, parágrafo único: todo o poder emana do povo. Sieyès, o formulador da teoria, atribuía a titularidade à nação.",
+"e": "Titular: povo."
+},
+{
+"p": "Os direitos sociais do art. 7º estão expressamente listados como cláusulas pétreas no art. 60, § 4º, da Constituição.",
+"c": false,
+"prof": "Não estão expressos.",
+"x": "O § 4º menciona os \"direitos e garantias individuais\". A proteção dos direitos sociais como cláusula pétrea é tema de divergência doutrinária, mas não há previsão expressa.",
+"e": "Sociais: não expressos no § 4º."
+},
+{
+"p": "Sobre a revisão constitucional prevista no art. 3º do ADCT, é correto afirmar que:",
+"alts": [
+"pode ser realizada a cada cinco anos",
+"exige quórum de 3/5 em dois turnos em cada Casa",
+"foi realizada após cinco anos da promulgação, em sessão unicameral, por maioria absoluta, e tem eficácia exaurida",
+"ainda não foi realizada",
+"depende de plebiscito"
+],
+"r": 2,
+"n": [
+"Foi prevista uma única vez.",
+"Esse é o rito da emenda.",
+"Correta.",
+"Ocorreu em 1993/1994.",
+"Não exige plebiscito."
+],
+"prof": "Revisão: única, unicameral.",
+"x": "A revisão ocorreu entre 1993 e 1994 e gerou seis emendas constitucionais de revisão. Como a norma se esgotou, não pode ser usada novamente.",
+"e": "Revisão: exaurida."
+},
+{
+"p": "A mutação constitucional consiste na alteração do sentido de uma norma constitucional sem alteração de seu texto.",
+"c": true,
+"prof": "Certo.",
+"x": "É obra do chamado poder constituinte difuso, exercido principalmente pela interpretação dos tribunais, como no reconhecimento das uniões homoafetivas pelo STF.",
+"e": "Mutação: muda o sentido."
+},
+{
+"p": "No Brasil, a repristinação ocorre automaticamente quando a lei revogadora é revogada.",
+"c": false,
+"prof": "Exige previsão expressa.",
+"x": "A LINDB (art. 2º, § 3º) diz que, salvo disposição em contrário, a lei revogada não se restaura por ter a lei revogadora perdido a vigência. A repristinação só ocorre se a nova lei disser expressamente.",
+"e": "Repristinação: só expressa."
+},
+{
+"p": "Uma lei de 1980, materialmente incompatível com a Constituição de 1988, segundo o STF:",
+"alts": [
+"é inconstitucional por inconstitucionalidade superveniente, podendo ser impugnada por ADI",
+"não foi recepcionada, ou seja, foi revogada pela nova Constituição, podendo a questão ser levada ao STF por ADPF",
+"continua válida até que o Congresso a revogue",
+"foi desconstitucionalizada",
+"é válida, pois a Constituição não retroage"
+],
+"r": 1,
+"n": [
+"O STF rejeita a tese.",
+"Correta.",
+"Foi revogada com a promulgação.",
+"Desconstitucionalização é outra coisa e não é adotada.",
+"A Constituição tem aplicação imediata."
+],
+"prof": "Lei velha x Constituição nova.",
+"x": "Para o STF, o conflito entre lei anterior e Constituição posterior resolve-se pela recepção ou não recepção (revogação). A ADI não serve para leis anteriores à CF; usa-se a ADPF.",
+"e": "Lei anterior incompatível: não recepcionada."
+},
+{
+"p": "Segundo o STF, não cabe ação direta de inconstitucionalidade contra norma constitucional originária.",
+"c": true,
+"prof": "Certo. ADI 815.",
+"x": "Não há hierarquia entre normas constitucionais originárias, e o STF não é órgão revisor do poder constituinte originário. Já as emendas constitucionais podem ser objeto de ADI.",
+"e": "Originária: sem controle."
+},
+{
+"p": "A Constituição NÃO poderá ser emendada na vigência de:",
+"alts": [
+"período eleitoral",
+"recesso parlamentar",
+"estado de sítio",
+"calamidade pública reconhecida pelo Congresso",
+"crise econômica"
+],
+"r": 2,
+"n": [
+"Não é limite.",
+"Não é limite.",
+"Correta: art. 60, § 1º.",
+"Não está no art. 60.",
+"Não está no art. 60."
+],
+"prof": "Limites circunstanciais.",
+"x": "São limites circunstanciais a intervenção federal, o estado de defesa e o estado de sítio. Nesses períodos, presume-se que não há normalidade para alterar a Constituição.",
+"e": "Sítio, defesa, intervenção."
+},
+{
+"p": "A proposta de emenda constitucional rejeitada pode ser reapresentada na mesma sessão legislativa mediante proposta da maioria absoluta dos membros de qualquer das Casas.",
+"c": false,
+"prof": "Na PEC a vedação é absoluta.",
+"x": "O art. 60, § 5º, proíbe nova proposta na mesma sessão legislativa. A exceção da maioria absoluta existe apenas para projetos de lei (art. 67).",
+"e": "PEC rejeitada: só na próxima sessão."
+}
+]
+},
+"principios-fundamentais": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>fundamentos da República (art. 1º): SO-CI-DI-VA-PLU</span></div><div class=\"lt-stat\"><b>4</b><span>objetivos fundamentais (art. 3º), todos começando por verbos</span></div><div class=\"lt-stat\"><b>10</b><span>princípios das relações internacionais (art. 4º)</span></div><div class=\"lt-stat\"><b>1993</b><span>plebiscito que manteve a república presidencialista</span></div></div>\n<h3>1. Estrutura do Título I (arts. 1º a 4º)</h3>\n<ul><li>O Título I traz os <b>princípios fundamentais</b>: a \"identidade\" da República. Responde a cinco perguntas: <b>que Estado é este</b> (art. 1º, caput), <b>em que se baseia</b> (fundamentos), <b>de onde vem o poder</b> (parágrafo único), <b>como se organizam os Poderes</b> (art. 2º), <b>aonde quer chegar</b> (objetivos, art. 3º) e <b>como se relaciona com o mundo</b> (art. 4º).</li></ul>\n<h3>2. Forma de Estado, forma de governo, sistema e regime</h3>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>Brasil</th><th>Explicação</th></tr></thead><tbody><tr><td><b>Forma de Estado</b></td><td><b>Federação</b> (\"união indissolúvel dos Estados e Municípios e do Distrito Federal\")</td><td>o poder político é repartido entre entes autônomos; é <b>cláusula pétrea</b>; não há direito de <b>secessão</b> (indissolubilidade). O Brasil <b>não</b> é Estado unitário</td></tr><tr><td><b>Forma de governo</b></td><td><b>República</b></td><td>governantes <b>eleitos</b>, por <b>mandato temporário</b>, com <b>responsabilidade</b> pelos atos; oposta à <b>monarquia</b> (hereditária, vitalícia, sem responsabilidade)</td></tr><tr><td><b>Sistema de governo</b></td><td><b>presidencialismo</b></td><td>o Presidente acumula as chefias de <b>Estado</b> e de <b>Governo</b>; no <b>parlamentarismo</b> elas se separam (rei ou presidente x primeiro-ministro)</td></tr><tr><td><b>Regime político</b></td><td><b>democrático</b> (\"Estado Democrático de Direito\")</td><td>o poder emana do povo e é limitado pelo direito</td></tr></tbody></table>\n<ul><li><b>Plebiscito de 1993</b> (art. 2º do ADCT): o povo escolheu manter a <b>república</b> e o <b>presidencialismo</b>. A república e o presidencialismo <b>não</b> são cláusulas pétreas expressas.</li><li><b>Estado Democrático de Direito</b>: une o <b>Estado de Direito</b> (governo das leis, separação de Poderes, direitos fundamentais) à <b>democracia</b> (participação popular).</li></ul>\n<h3>3. Fundamentos (art. 1º)</h3>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Fundamento</th><th>Significado</th></tr></thead><tbody><tr><td>I</td><td><b>so</b>berania</td><td>poder supremo na ordem interna e independência na ordem internacional</td></tr><tr><td>II</td><td><b>ci</b>dadania</td><td>participação política e, em sentido amplo, exercício pleno de direitos</td></tr><tr><td>III</td><td><b>di</b>gnidade da pessoa humana</td><td>valor-fonte de todos os direitos fundamentais; o ser humano é fim, nunca meio</td></tr><tr><td>IV</td><td>os <b>va</b>lores sociais do trabalho e da livre iniciativa</td><td>equilíbrio entre capital e trabalho</td></tr><tr><td>V</td><td>o <b>plu</b>ralismo político</td><td>pluralidade de <b>ideias</b>, opiniões, crenças e organizações sociais, e <b>não apenas</b> de partidos políticos</td></tr></tbody></table>\n<ul><li><b>Parágrafo único</b>: \"Todo o poder emana do povo, que o exerce por meio de <b>representantes eleitos</b> ou <b>diretamente</b>, nos termos desta Constituição\". É a <b>democracia semidireta</b> (ou participativa): representação + instrumentos de participação direta (<b>plebiscito</b>, <b>referendo</b> e <b>iniciativa popular</b>, art. 14).</li></ul>\n<h3>4. Separação dos Poderes (art. 2º)</h3>\n<ul><li>\"São Poderes da União, <b>independentes e harmônicos</b> entre si, o <b>Legislativo</b>, o <b>Executivo</b> e o <b>Judiciário</b>.\" Inspirada em <b>Montesquieu</b>. Cada Poder tem uma função <b>típica</b> (legislar, administrar, julgar) e funções <b>atípicas</b> (o Judiciário administra seus servidores; o Legislativo julga o Presidente nos crimes de responsabilidade; o Executivo edita medidas provisórias).</li><li><b>Sistema de freios e contrapesos</b> (<i>checks and balances</i>): um Poder controla o outro (veto, controle de constitucionalidade, CPI, aprovação de ministros pelo Senado). A separação é <b>cláusula pétrea</b>.</li><li>O <b>Ministério Público</b> e os <b>Tribunais de Contas</b> não são Poderes.</li></ul>\n<h3>5. Objetivos fundamentais (art. 3º)</h3>\n<ul><li>Sempre começam por <b>verbos</b> (são metas a alcançar): <b>I – construir</b> uma sociedade livre, justa e solidária; <b>II – garantir</b> o desenvolvimento nacional; <b>III – erradicar</b> a pobreza e a marginalização e <b>reduzir</b> as desigualdades sociais e regionais; <b>IV – promover</b> o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação. Macete: <b>CON-GA-ER-PRO</b>.</li><li>Pegadinhas: \"<b>erradicar</b> a pobreza\" (e não \"reduzir\"); \"<b>reduzir</b> as desigualdades\" (e não \"erradicar\"). \"Garantir a soberania\" <b>não</b> é objetivo (é fundamento).</li></ul>\n<h3>6. Princípios das relações internacionais (art. 4º)</h3>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Princípio</th></tr></thead><tbody><tr><td>I</td><td><b>independência nacional</b></td></tr><tr><td>II</td><td><b>prevalência dos direitos humanos</b></td></tr><tr><td>III</td><td><b>autodeterminação dos povos</b></td></tr><tr><td>IV</td><td><b>não intervenção</b></td></tr><tr><td>V</td><td><b>igualdade entre os Estados</b></td></tr><tr><td>VI</td><td><b>defesa da paz</b></td></tr><tr><td>VII</td><td><b>solução pacífica dos conflitos</b></td></tr><tr><td>VIII</td><td><b>repúdio ao terrorismo e ao racismo</b></td></tr><tr><td>IX</td><td><b>cooperação entre os povos</b> para o progresso da humanidade</td></tr><tr><td>X</td><td><b>concessão de asilo político</b></td></tr></tbody></table>\n<ul><li><b>Asilo político</b>: é concedido a quem sofre <b>perseguição política</b>, e <b>não</b> a criminosos comuns. O asilo pode ser <b>territorial</b> (no território do país) ou <b>diplomático</b> (na embaixada); a CF fala apenas em asilo <b>político</b>.</li><li><b>Parágrafo único</b>: a República buscará a <b>integração econômica, política, social e cultural dos povos da América Latina</b>, visando à formação de uma <b>comunidade latino-americana de nações</b>.</li><li>Para memorizar, agrupe: <b>soberania</b> (independência nacional, não intervenção, igualdade entre os Estados), <b>paz</b> (defesa da paz, solução pacífica, repúdio ao terrorismo e ao racismo), <b>humanidade</b> (prevalência dos direitos humanos, cooperação entre os povos, asilo político) e <b>povos</b> (autodeterminação).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Brasil é Estado unitário descentralizado</span><br>✅ <span class=\"certo\">É Estado FEDERAL.</span></li><li>❌ <span class=\"banca\">O pluralismo político refere-se só a partidos</span><br>✅ <span class=\"certo\">Pluralidade de ideias e organizações sociais.</span></li><li>❌ <span class=\"banca\">Erradicar as desigualdades é objetivo</span><br>✅ <span class=\"certo\">Erradicar a POBREZA; REDUZIR as desigualdades.</span></li><li>❌ <span class=\"banca\">A Constituição prevê asilo a criminosos comuns</span><br>✅ <span class=\"certo\">Asilo POLÍTICO.</span></li><li>❌ <span class=\"banca\">República e presidencialismo são cláusulas pétreas expressas</span><br>✅ <span class=\"certo\">Não são.</span></li><li>❌ <span class=\"banca\">A soberania é objetivo fundamental</span><br>✅ <span class=\"certo\">É fundamento (art. 1º, I).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fundamentos (art. 1º)?</span></span><span class=\"vs\"><span><b>SO-CI-DI-VA-PLU</b>: soberania, cidadania, dignidade, valores sociais do trabalho e da livre iniciativa, pluralismo político.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Objetivos (art. 3º)?</span></span><span class=\"vs\"><span><b>Construir, garantir, erradicar/reduzir, promover</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Forma de Estado?</span></span><span class=\"vs\"><span><b>Federação</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Forma de governo?</span></span><span class=\"vs\"><span><b>República</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sistema de governo?</span></span><span class=\"vs\"><span><b>Presidencialismo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Democracia brasileira?</span></span><span class=\"vs\"><span><b>Semidireta</b>: representantes + plebiscito, referendo, iniciativa popular.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Asilo previsto?</span></span><span class=\"vs\"><span><b>Político</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Integração prevista no p. único do art. 4º?</span></span><span class=\"vs\"><span><b>América Latina</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O deputado que defendia a monarquia</b><p>Um deputado apresenta PEC para restabelecer a monarquia parlamentarista. Colegas afirmam que a proposta é inconstitucional por violar cláusula pétrea.</p><details><summary>Ver a solução comentada</summary><p>A forma <b>republicana</b> e o sistema <b>presidencialista</b> <b>não</b> estão no art. 60, § 4º. A doutrina diverge sobre a República ser limite implícito (pela vontade popular do plebiscito de 1993); a posição mais segura em prova é: <b>não são cláusulas pétreas expressas</b>. Uma mudança desse porte, por coerência democrática, dependeria de nova consulta popular.</p></details></div>",
+"quiz": [
+{
+"p": "A forma de Estado adotada pelo Brasil é o Estado unitário descentralizado.",
+"c": false,
+"prof": "O Brasil é uma Federação.",
+"x": "O art. 1º declara a República Federativa do Brasil formada pela união indissolúvel dos Estados, Municípios e Distrito Federal. A forma federativa é cláusula pétrea (art. 60, § 4º, I).",
+"e": "Brasil: federação."
+},
+{
+"p": "O pluralismo político, previsto como fundamento da República, refere-se exclusivamente à pluralidade de partidos políticos.",
+"c": false,
+"prof": "É muito mais amplo.",
+"x": "O pluralismo político abrange a diversidade de ideias, crenças, opiniões e organizações sociais. O pluripartidarismo é apenas uma de suas manifestações (art. 17).",
+"e": "Pluralismo: de ideias."
+},
+{
+"p": "Sistema e forma de governo adotados no Brasil são, respectivamente:",
+"alts": [
+"parlamentarismo e república",
+"presidencialismo e república",
+"presidencialismo e federação",
+"república e presidencialismo",
+"federação e democracia"
+],
+"r": 1,
+"n": [
+"O sistema é presidencialista.",
+"Correta.",
+"Federação é forma de Estado.",
+"Ordem invertida.",
+"Federação é forma de Estado; democracia, regime."
+],
+"prof": "Sistema ≠ forma.",
+"x": "Forma de governo é a república (eletividade, temporariedade, responsabilidade); sistema de governo é o presidencialismo (Presidente chefe de Estado e de Governo); forma de Estado é a federação; regime é o democrático.",
+"e": "Presidencialismo + república."
+},
+{
+"p": "Os objetivos fundamentais da República Federativa do Brasil, previstos no art. 3º da Constituição, são enunciados por verbos, como construir, garantir, erradicar e promover.",
+"c": true,
+"prof": "Certo.",
+"x": "Os objetivos expressam metas a serem alcançadas: construir uma sociedade livre, justa e solidária; garantir o desenvolvimento nacional; erradicar a pobreza e a marginalização e reduzir as desigualdades; promover o bem de todos.",
+"e": "Objetivos: verbos."
+},
+{
+"p": "A concessão de asilo diplomático a criminosos comuns é princípio que rege as relações internacionais do Brasil.",
+"c": false,
+"prof": "A CF fala em asilo político.",
+"x": "O art. 4º, X, prevê a concessão de asilo político, destinado a perseguidos políticos. Criminosos comuns não são beneficiados.",
+"e": "Asilo político."
+},
+{
+"p": "Assinale o que constitui fundamento da República Federativa do Brasil (art. 1º):",
+"alts": [
+"erradicar a pobreza",
+"prevalência dos direitos humanos",
+"dignidade da pessoa humana",
+"independência nacional",
+"garantir o desenvolvimento nacional"
+],
+"r": 2,
+"n": [
+"Objetivo (art. 3º).",
+"Princípio das relações internacionais (art. 4º).",
+"Correta: art. 1º, III.",
+"Princípio das relações internacionais.",
+"Objetivo (art. 3º)."
+],
+"prof": "Fundamento x objetivo x relação internacional.",
+"x": "Os fundamentos são soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa e pluralismo político.",
+"e": "Dignidade: fundamento."
+},
+{
+"p": "Segundo a Constituição, todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, o que caracteriza a democracia semidireta.",
+"c": true,
+"prof": "Certo. Art. 1º, parágrafo único.",
+"x": "A participação direta ocorre por plebiscito, referendo e iniciativa popular (art. 14), além de outros instrumentos, como a ação popular.",
+"e": "Democracia semidireta."
+},
+{
+"p": "O Ministério Público é considerado o quarto Poder da República, ao lado do Legislativo, do Executivo e do Judiciário.",
+"c": false,
+"prof": "Os Poderes são três.",
+"x": "O art. 2º só menciona Legislativo, Executivo e Judiciário. O MP é instituição autônoma, função essencial à Justiça, mas não é Poder.",
+"e": "Três Poderes."
+}
+]
+},
+"direitos-individuais": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>78 +</b><span>incisos do art. 5º (o LXXIX veio com a EC 115/2022)</span></div><div class=\"lt-stat\"><b>5</b><span>direitos do caput: vida, liberdade, igualdade, segurança e propriedade</span></div><div class=\"lt-stat\"><b>2</b><span>regras para associações: suspensão por decisão judicial; dissolução só com trânsito em julgado</span></div><div class=\"lt-stat\"><b>1</b><span>dia de diferença: casa, de noite, só flagrante, desastre, socorro ou consentimento</span></div></div>\n<h3>1. Teoria dos direitos fundamentais</h3>\n<ul><li><b>Gerações (dimensões)</b>: <b>1ª</b> – <b>liberdade</b> (direitos civis e políticos; abstenção do Estado); <b>2ª</b> – <b>igualdade</b> (direitos sociais, econômicos e culturais; prestação do Estado); <b>3ª</b> – <b>fraternidade/solidariedade</b> (direitos difusos: meio ambiente, paz, desenvolvimento). Fala-se ainda em 4ª (democracia, pluralismo, informação) e 5ª (paz) dimensões. O lema da Revolução Francesa ajuda: <b>liberdade, igualdade, fraternidade</b>.</li><li><b>Características</b>: <b>historicidade</b>, <b>universalidade</b>, <b>inalienabilidade</b>, <b>imprescritibilidade</b>, <b>irrenunciabilidade</b> (o exercício pode deixar de ocorrer, mas não se renuncia ao direito), <b>relatividade</b> (nenhum direito é absoluto; podem ser limitados e ponderados), <b>indivisibilidade</b>, <b>complementaridade</b>.</li><li><b>Destinatários</b>: o caput fala em \"brasileiros e estrangeiros <b>residentes</b> no País\", mas o STF estende os direitos aos <b>estrangeiros não residentes</b> (turistas) e às <b>pessoas jurídicas</b>, no que couber.</li><li><b>Eficácia horizontal</b>: os direitos fundamentais também se aplicam às <b>relações entre particulares</b> (ex.: direito de defesa antes da exclusão de sócio de associação, RE 201.819).</li></ul>\n<h3>2. O caput e a igualdade</h3>\n<ul><li>\"Todos são <b>iguais perante a lei</b>, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à <b>vida</b>, à <b>liberdade</b>, à <b>igualdade</b>, à <b>segurança</b> e à <b>propriedade</b>.\"</li><li><b>Igualdade formal</b> (perante a lei) e <b>material</b> (tratar desigualmente os desiguais, na medida da desigualdade): fundamenta as <b>ações afirmativas</b>, como as <b>cotas raciais</b> em universidades e concursos (ADPF 186 e ADC 41) e a idade mínima diferenciada em alguns cargos, se justificada pela natureza das atribuições (Súmula 683 do STF).</li><li><b>Inciso I</b>: homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição.</li></ul>\n<h3>3. Legalidade, tortura e liberdade de expressão (incisos II a X)</h3>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Conteúdo</th></tr></thead><tbody><tr><td><b>II</b></td><td><b>ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei</b> (legalidade para o particular: pode fazer tudo o que a lei não proíbe; para a Administração, só o que a lei permite)</td></tr><tr><td><b>III</b></td><td>ninguém será submetido a <b>tortura</b> nem a tratamento <b>desumano ou degradante</b></td></tr><tr><td><b>IV</b></td><td>é livre a <b>manifestação do pensamento</b>, sendo <b>vedado o anonimato</b></td></tr><tr><td><b>V</b></td><td>é assegurado o <b>direito de resposta</b>, <b>proporcional ao agravo</b>, <b>além da indenização</b> por dano material, moral ou à imagem</td></tr><tr><td><b>VI</b></td><td>é <b>inviolável a liberdade de consciência e de crença</b>, assegurado o livre exercício dos cultos religiosos e garantida a proteção aos locais de culto e suas liturgias</td></tr><tr><td><b>VII</b></td><td>assegurada a <b>prestação de assistência religiosa</b> nas entidades civis e militares de internação coletiva</td></tr><tr><td><b>VIII</b></td><td>ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, <b>salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa</b> (escusa de consciência)</td></tr><tr><td><b>IX</b></td><td>é livre a expressão da atividade intelectual, artística, científica e de comunicação, <b>independentemente de censura ou licença</b></td></tr><tr><td><b>X</b></td><td>são <b>invioláveis a intimidade, a vida privada, a honra e a imagem</b> das pessoas, assegurado o direito a indenização pelo dano material ou moral</td></tr></tbody></table>\n<ul><li><b>Anonimato</b>: a vedação impede que a manifestação seja feita sem identificação do autor, justamente para permitir a responsabilização. Por isso a <b>denúncia anônima</b>, isolada, não basta para instaurar inquérito ou decretar medidas invasivas.</li><li><b>Escusa de consciência</b> (VIII): quem se recusa ao serviço militar por convicção religiosa deve cumprir <b>prestação alternativa</b> (art. 143, § 1º). Se recusar também a alternativa, sofre <b>perda ou suspensão</b> dos direitos políticos (art. 15, IV).</li><li><b>Liberdade de expressão</b> não é absoluta: não protege discurso de ódio, racismo (HC 82.424, caso Ellwanger), incitação ao crime. O STF considerou <b>inexigível autorização</b> para <b>biografias</b> (ADI 4.815).</li></ul>\n<h3>4. Inviolabilidade do domicílio e das comunicações (XI e XII)</h3>\n<ul><li><b>XI – A casa é asilo inviolável</b> do indivíduo, ninguém nela podendo penetrar <b>sem consentimento do morador</b>, <b>salvo</b> em caso de <b>flagrante delito</b> ou <b>desastre</b>, ou para <b>prestar socorro</b>, ou, <b>durante o dia</b>, <b>por determinação judicial</b>. Portanto, <b>à noite</b>, <b>nem com ordem judicial</b> se pode entrar sem consentimento (salvo flagrante, desastre ou socorro).</li><li>\"Casa\" abrange escritório, consultório, quarto de hotel ocupado (STF). O <b>Tema 280</b> do STF exige <b>fundadas razões</b> para o ingresso forçado em flagrante.</li><li><b>XII</b> – é <b>inviolável o sigilo da correspondência</b> e das <b>comunicações telegráficas, de dados</b> e das <b>comunicações telefônicas</b>, <b>salvo, no último caso</b>, por <b>ordem judicial</b>, nas hipóteses e na forma que a lei estabelecer (Lei 9.296/1996), <b>para fins de investigação criminal ou instrução processual penal</b>. A interceptação telefônica <b>não</b> pode ser usada para processo cível ou administrativo como finalidade principal (mas a prova pode ser <b>emprestada</b> a processo administrativo disciplinar: Súmula 591 do STJ).</li></ul>\n<h3>5. Trabalho, informação, locomoção, reunião e associação (XIII a XXI)</h3>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Conteúdo</th></tr></thead><tbody><tr><td><b>XIII</b></td><td>é livre o exercício de <b>qualquer trabalho, ofício ou profissão</b>, <b>atendidas as qualificações profissionais que a lei estabelecer</b> (eficácia contida)</td></tr><tr><td><b>XIV</b></td><td>acesso à <b>informação</b>, resguardado o <b>sigilo da fonte</b>, quando necessário ao exercício profissional</td></tr><tr><td><b>XV</b></td><td>é livre a <b>locomoção</b> no território nacional <b>em tempo de paz</b>, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens</td></tr><tr><td><b>XVI</b></td><td>todos podem <b>reunir-se pacificamente, sem armas</b>, em locais abertos ao público, <b>independentemente de autorização</b>, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, <b>sendo apenas exigido prévio aviso</b> à autoridade competente</td></tr><tr><td><b>XVII</b></td><td>é plena a <b>liberdade de associação</b> para fins lícitos, <b>vedada a de caráter paramilitar</b></td></tr><tr><td><b>XVIII</b></td><td>a <b>criação de associações</b> e, na forma da lei, a de <b>cooperativas</b> <b>independem de autorização</b>, sendo <b>vedada a interferência estatal</b> em seu funcionamento</td></tr><tr><td><b>XIX</b></td><td>as associações só poderão ser <b>compulsoriamente dissolvidas</b> ou ter suas atividades <b>suspensas</b> por <b>decisão judicial</b>, <b>exigindo-se, no primeiro caso (dissolução), o trânsito em julgado</b></td></tr><tr><td><b>XX</b></td><td><b>ninguém poderá ser compelido a associar-se ou a permanecer associado</b></td></tr><tr><td><b>XXI</b></td><td>as entidades associativas, <b>quando expressamente autorizadas</b>, têm legitimidade para <b>representar seus filiados</b> judicial ou extrajudicialmente</td></tr></tbody></table>\n<ul><li><b>Reunião</b>: <b>aviso</b> não é pedido de autorização. A polícia pode ser comunicada para garantir a segurança e evitar conflito com outra reunião. Em <b>estado de defesa</b> e de <b>sítio</b>, o direito de reunião pode ser restringido (arts. 136 e 139).</li><li><b>Associação</b>: a dissolução compulsória <b>nunca</b> ocorre por <b>ato administrativo</b>, nem mesmo após processo com ampla defesa: depende de <b>decisão judicial transitada em julgado</b>. Para <b>suspender</b> as atividades, basta decisão judicial (sem trânsito).</li></ul>\n<h3>6. Propriedade (XXII a XXXI)</h3>\n<ul><li><b>XXII</b> – é garantido o <b>direito de propriedade</b>; <b>XXIII</b> – a propriedade atenderá a sua <b>função social</b>.</li><li><b>XXIV – Desapropriação</b>: por <b>necessidade ou utilidade pública</b>, ou por <b>interesse social</b>, mediante <b>justa e prévia indenização em dinheiro</b>, ressalvados os casos previstos na Constituição (desapropriação-sanção com títulos da dívida: arts. 182 e 184; <b>expropriação confiscatória</b>, sem indenização, de propriedades com <b>culturas ilegais de plantas psicotrópicas</b> ou <b>trabalho escravo</b>: art. 243).</li><li><b>XXV – Requisição administrativa</b>: <b>no caso de iminente perigo público</b>, a autoridade competente <b>poderá usar de propriedade particular</b>, assegurada ao proprietário <b>indenização ulterior, se houver dano</b>. (O policial que usa o carro de um particular para perseguir criminosos em fuga é exemplo.)</li><li><b>XXVI</b> – a <b>pequena propriedade rural</b>, assim definida em lei, <b>desde que trabalhada pela família</b>, <b>não será objeto de penhora</b> para pagamento de débitos <b>decorrentes de sua atividade produtiva</b>.</li><li><b>XXVII a XXIX</b>: direitos de <b>autor</b> (transmissível aos herdeiros pelo tempo que a lei fixar), participação em obras coletivas, <b>propriedade industrial</b> (privilégio temporário para inventos, marcas e nomes de empresas).</li><li><b>XXX e XXXI</b>: é garantido o <b>direito de herança</b>; a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do falecido.</li></ul>\n<h3>7. Petição, certidões, defesa do consumidor e acesso à informação pública</h3>\n<ul><li><b>XXXII</b> – o Estado promoverá a <b>defesa do consumidor</b> (CDC). <b>XXXIII</b> – todos têm direito a receber dos órgãos públicos <b>informações</b> de seu interesse particular, ou de interesse coletivo ou geral, prestadas <b>no prazo da lei</b> (Lei 12.527/2011, Lei de Acesso à Informação), sob pena de responsabilidade, <b>ressalvadas</b> aquelas cujo <b>sigilo</b> seja imprescindível à segurança da sociedade e do Estado.</li><li><b>XXXIV</b> – são a todos assegurados, <b>independentemente do pagamento de taxas</b>: a) o <b>direito de petição</b> aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder; b) a obtenção de <b>certidões</b> em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal.</li></ul>\n<h3>8. Direitos ligados à matéria penal (visão geral)</h3>\n<ul><li><b>XXXIX</b> (legalidade penal), <b>XL</b> (irretroatividade da lei penal mais grave), <b>XLI</b> (punição de discriminação), <b>XLII</b> (<b>racismo</b> inafiançável e imprescritível, sujeito à <b>reclusão</b>), <b>XLIII</b> (<b>tortura, tráfico, terrorismo e hediondos</b>: inafiançáveis e insuscetíveis de <b>graça ou anistia</b>), <b>XLIV</b> (<b>ação de grupos armados</b> contra a ordem constitucional: inafiançável e imprescritível), <b>XLV</b> (intranscendência: <b>nenhuma pena passará da pessoa do condenado</b>, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser estendidas aos sucessores, até o limite do valor do patrimônio transferido), <b>XLVI</b> (individualização: privação ou restrição da liberdade, perda de bens, multa, prestação social alternativa, suspensão ou interdição de direitos), <b>XLVII</b> (proibição das penas de morte, salvo guerra declarada, perpétuas, de trabalhos forçados, de banimento e cruéis).</li><li><b>Presos</b>: <b>XLVIII</b> – a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado; <b>XLIX</b> – é assegurado aos presos o respeito à <b>integridade física e moral</b>; <b>L</b> – às <b>presidiárias</b> serão asseguradas condições para que possam <b>permanecer com seus filhos durante o período de amamentação</b>.</li><li>Os demais incisos processuais (LIII a LXXIX) estão no tópico \"Garantias\".</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">À noite, com ordem judicial, a polícia pode entrar na casa</span><br>✅ <span class=\"certo\">Ordem judicial só durante o dia.</span></li><li>❌ <span class=\"banca\">Associação pode ser dissolvida por ato administrativo após processo com ampla defesa</span><br>✅ <span class=\"certo\">Só por decisão judicial transitada em julgado.</span></li><li>❌ <span class=\"banca\">Reunião depende de autorização</span><br>✅ <span class=\"certo\">Só prévio aviso.</span></li><li>❌ <span class=\"banca\">O direito de resposta exclui a indenização</span><br>✅ <span class=\"certo\">É \"além da indenização\".</span></li><li>❌ <span class=\"banca\">A requisição administrativa exige indenização prévia</span><br>✅ <span class=\"certo\">Indenização ULTERIOR, se houver dano.</span></li><li>❌ <span class=\"banca\">A locomoção é livre em qualquer tempo</span><br>✅ <span class=\"certo\">\"Em tempo de paz\".</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Caput do art. 5º?</span></span><span class=\"vs\"><span>Vida, liberdade, igualdade, segurança e propriedade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Manifestação do pensamento?</span></span><span class=\"vs\"><span>Livre, <b>vedado o anonimato</b> (IV).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Casa à noite?</span></span><span class=\"vs\"><span>Só <b>flagrante, desastre, socorro</b> ou consentimento.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sigilo telefônico?</span></span><span class=\"vs\"><span>Quebra por <b>ordem judicial</b>, para <b>investigação criminal ou instrução processual penal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reunião?</span></span><span class=\"vs\"><span>Pacífica, sem armas, local aberto, <b>sem autorização</b>, com <b>prévio aviso</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dissolução de associação?</span></span><span class=\"vs\"><span><b>Decisão judicial transitada em julgado</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Requisição administrativa?</span></span><span class=\"vs\"><span><b>Iminente perigo público</b>; indenização <b>ulterior, se houver dano</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pequena propriedade rural?</span></span><span class=\"vs\"><span>Impenhorável por débitos da <b>atividade produtiva</b>, se trabalhada pela família.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A manifestação na praça</b><p>Um grupo convoca, pelas redes sociais, um protesto pacífico na praça central de Belo Horizonte e comunica a data à Polícia Militar. O comandante responde que \"não autoriza\" o ato. Outro grupo havia avisado antes que faria um evento no mesmo local e horário.</p><details><summary>Ver a solução comentada</summary><p>O direito de reunião <b>independe de autorização</b> (XVI): a \"não autorização\" não tem valor. Mas o direito tem limites: a reunião deve ser <b>pacífica</b>, <b>sem armas</b> e <b>não pode frustrar outra anteriormente convocada</b> para o mesmo local. Como o outro grupo avisou antes, a autoridade pode orientar a mudança de local ou horário para evitar o conflito. O papel da polícia é garantir a segurança de ambos.</p></details></div>",
+"quiz": [
+{
+"p": "As associações só poderão ser compulsoriamente dissolvidas por decisão judicial transitada em julgado.",
+"c": true,
+"prof": "Certo. Art. 5º, XIX.",
+"x": "Para a dissolução, exige-se trânsito em julgado; para a suspensão das atividades, basta decisão judicial. Nunca por ato administrativo.",
+"e": "Dissolução: trânsito em julgado."
+},
+{
+"p": "As associações podem ser compulsoriamente dissolvidas por ato administrativo, desde que precedido de processo com ampla defesa.",
+"c": false,
+"prof": "Só por decisão judicial.",
+"x": "O inciso XIX reserva ao Judiciário a suspensão e a dissolução compulsória das associações, exigindo o trânsito em julgado para a dissolução. A Administração não pode dissolver associações.",
+"e": "Associação: só o juiz."
+},
+{
+"p": "Policiais, com mandado de busca expedido pelo juiz, chegam à residência do investigado às 23h. Sem consentimento do morador e sem situação de flagrante, a entrada:",
+"alts": [
+"é lícita, pois há ordem judicial",
+"é lícita se o juiz tiver autorizado expressamente o cumprimento noturno",
+"é ilícita, porque a determinação judicial só autoriza o ingresso durante o dia",
+"é lícita se acompanhada por duas testemunhas",
+"depende apenas de autorização do delegado"
+],
+"r": 2,
+"n": [
+"Ordem judicial: só de dia.",
+"O juiz não pode autorizar o que a CF proíbe.",
+"Correta: art. 5º, XI.",
+"Testemunhas não suprem o requisito.",
+"O delegado não autoriza ingresso em domicílio."
+],
+"prof": "Noite: sem mandado valendo.",
+"x": "O art. 5º, XI, só admite ingresso por determinação judicial durante o dia. À noite, sem consentimento, apenas em flagrante, desastre ou socorro. A Lei 13.869/2019 pune o cumprimento de mandado de busca após as 21h ou antes das 5h.",
+"e": "Mandado: de dia."
+},
+{
+"p": "No caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano.",
+"c": true,
+"prof": "Certo. Art. 5º, XXV.",
+"x": "É a requisição administrativa. A indenização não é prévia nem obrigatória: só existe se houver dano, e é paga depois.",
+"e": "Requisição: indenização posterior, se dano."
+},
+{
+"p": "É assegurado o direito de resposta, proporcional ao agravo, sem prejuízo da indenização apenas por dano material.",
+"c": false,
+"prof": "Abrange dano material, moral ou à imagem.",
+"x": "O inciso V assegura o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem.",
+"e": "Resposta + indenização."
+},
+{
+"p": "Segundo a Constituição, o direito de reunião:",
+"alts": [
+"depende de autorização da autoridade policial",
+"pode ser exercido com armas, desde que registradas",
+"independe de autorização, exigindo-se apenas prévio aviso à autoridade competente",
+"só pode ocorrer em locais fechados",
+"prevalece sobre reunião anteriormente convocada para o mesmo local"
+],
+"r": 2,
+"n": [
+"Independe de autorização.",
+"Exige-se que seja sem armas.",
+"Correta: art. 5º, XVI.",
+"Ocorre em locais abertos ao público.",
+"Não pode frustrar reunião anteriormente convocada."
+],
+"prof": "Aviso ≠ autorização.",
+"x": "O direito de reunião pressupõe caráter pacífico, ausência de armas e local aberto ao público; o prévio aviso serve para que o poder público garanta a segurança e evite conflito com outra reunião.",
+"e": "Reunião: só aviso."
+},
+{
+"p": "Ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei.",
+"c": true,
+"prof": "Certo. Art. 5º, VIII.",
+"x": "É a escusa de consciência. Quem se recusa à obrigação legal e também à prestação alternativa pode ter os direitos políticos perdidos ou suspensos (art. 15, IV).",
+"e": "Escusa: prestação alternativa."
+},
+{
+"p": "A quebra do sigilo das comunicações telefônicas pode ser determinada por ordem judicial para instruir processo civil de alimentos.",
+"c": false,
+"prof": "Só para fins penais.",
+"x": "O inciso XII restringe a interceptação telefônica a fins de investigação criminal ou instrução processual penal. A prova validamente obtida pode ser emprestada a processo administrativo disciplinar (Súmula 591 do STJ).",
+"e": "Interceptação: fins penais."
+},
+{
+"p": "A pequena propriedade rural, assim definida em lei, desde que trabalhada pela família:",
+"alts": [
+"é absolutamente impenhorável",
+"não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva",
+"não pode ser desapropriada em nenhuma hipótese",
+"é isenta de todos os tributos",
+"só pode ser vendida com autorização judicial"
+],
+"r": 1,
+"n": [
+"A proteção é para débitos da atividade produtiva.",
+"Correta: art. 5º, XXVI.",
+"Não é o que diz o inciso.",
+"Não há essa isenção geral.",
+"Não há essa exigência."
+],
+"prof": "Impenhorabilidade específica.",
+"x": "A Constituição protege a pequena propriedade rural trabalhada pela família contra a penhora por dívidas da própria atividade produtiva, e a lei disporá sobre meios de financiar seu desenvolvimento.",
+"e": "Pequena propriedade: dívida produtiva."
+}
+]
+},
+"garantias": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>LVI</b><span>inciso: provas ilícitas inadmissíveis</span></div><div class=\"lt-stat\"><b>LXVII</b><span>inciso: só há prisão civil do devedor de alimentos (SV 25)</span></div><div class=\"lt-stat\"><b>3/5</b><span>quórum dos tratados de direitos humanos com força de emenda</span></div><div class=\"lt-stat\"><b>LXXIX</b><span>proteção de dados pessoais (EC 115/2022)</span></div></div>\n<h3>1. Direitos x garantias</h3>\n<ul><li><b>Direitos</b> são os bens e vantagens declarados pela Constituição (vida, liberdade, propriedade); <b>garantias</b> são os <b>instrumentos</b> que asseguram o exercício desses direitos (o devido processo, o habeas corpus, a vedação de provas ilícitas). Rui Barbosa: as garantias são \"disposições assecuratórias\". Os <b>remédios constitucionais</b> são as garantias que têm forma de <b>ação</b> (tópico próprio).</li></ul>\n<h3>2. Garantias de acesso à Justiça e segurança jurídica</h3>\n<ul><li><b>XXXV – Inafastabilidade da jurisdição</b>: \"a lei <b>não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito</b>\". Não se exige esgotamento da via administrativa, salvo exceções (Justiça Desportiva, art. 217, § 1º; habeas data, que exige recusa administrativa prévia).</li><li><b>XXXVI – Segurança jurídica</b>: a lei não prejudicará o <b>direito adquirido</b>, o <b>ato jurídico perfeito</b> e a <b>coisa julgada</b>. Não há direito adquirido a <b>regime jurídico</b> (o servidor não tem direito a manter as regras da época da posse) nem contra a Constituição originária.</li><li><b>XXXVII</b>: <b>não haverá juízo ou tribunal de exceção</b> (juiz natural). <b>LIII</b>: ninguém será processado nem sentenciado senão pela <b>autoridade competente</b>.</li><li><b>XXXVIII – Tribunal do Júri</b>: é reconhecida a instituição do júri, com a organização que lhe der a lei, assegurados: a) a <b>plenitude de defesa</b>; b) o <b>sigilo das votações</b>; c) a <b>soberania dos veredictos</b>; d) a <b>competência para o julgamento dos crimes dolosos contra a vida</b>. A competência é <b>mínima</b>: a lei pode ampliá-la. O <b>foro por prerrogativa</b> previsto na <b>Constituição Federal</b> prevalece sobre o Júri; o previsto <b>exclusivamente</b> em Constituição <b>estadual</b>, não (<b>SV 45</b>).</li></ul>\n<h3>3. Garantias processuais (LIV a LX)</h3>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Garantia</th></tr></thead><tbody><tr><td><b>LIV</b></td><td>ninguém será privado da liberdade ou de seus bens <b>sem o devido processo legal</b></td></tr><tr><td><b>LV</b></td><td>aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o <b>contraditório</b> e a <b>ampla defesa</b>, com os meios e recursos a ela inerentes</td></tr><tr><td><b>LVI</b></td><td>são <b>inadmissíveis</b>, no processo, as <b>provas obtidas por meios ilícitos</b></td></tr><tr><td><b>LVII</b></td><td><b>ninguém será considerado culpado até o trânsito em julgado</b> de sentença penal condenatória</td></tr><tr><td><b>LVIII</b></td><td>o <b>civilmente identificado</b> não será submetido a <b>identificação criminal</b>, salvo nas hipóteses previstas em lei (Lei 12.037/2009)</td></tr><tr><td><b>LIX</b></td><td>será admitida <b>ação privada nos crimes de ação pública, se esta não for intentada no prazo legal</b> (ação privada subsidiária)</td></tr><tr><td><b>LX</b></td><td>a lei só poderá <b>restringir a publicidade</b> dos atos processuais quando a <b>defesa da intimidade</b> ou o <b>interesse social</b> o exigirem</td></tr></tbody></table>\n<ul><li><b>Provas ilícitas</b>: são inadmissíveis <b>mesmo que relevantes</b> para a descoberta da verdade. A jurisprudência admite a prova ilícita <b>a favor do réu</b>, por proporcionalidade.</li><li><b>SV 14</b>: é direito do defensor ter <b>acesso amplo aos elementos de prova já documentados</b> em procedimento investigatório realizado por órgão com competência de polícia judiciária. <b>SV 5</b>: a falta de defesa técnica por advogado no <b>processo administrativo disciplinar</b> <b>não</b> ofende a Constituição. <b>SV 3</b>: nos processos perante o TCU, asseguram-se contraditório e ampla defesa quando a decisão puder anular ou revogar ato que beneficie o interessado (salvo a apreciação inicial de aposentadoria).</li></ul>\n<h3>4. Garantias da prisão (LXI a LXVI)</h3>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Garantia</th></tr></thead><tbody><tr><td><b>LXI</b></td><td>ninguém será preso senão em <b>flagrante delito</b> ou por <b>ordem escrita e fundamentada de autoridade judiciária</b> competente, <b>salvo</b> nos casos de <b>transgressão militar</b> ou <b>crime propriamente militar</b>, definidos em lei</td></tr><tr><td><b>LXII</b></td><td>a prisão de qualquer pessoa e o local onde se encontre serão <b>comunicados imediatamente ao juiz</b> competente e à <b>família do preso</b> ou à pessoa por ele indicada</td></tr><tr><td><b>LXIII</b></td><td>o preso será informado de seus direitos, entre os quais o de <b>permanecer calado</b>, sendo-lhe assegurada a <b>assistência da família e de advogado</b></td></tr><tr><td><b>LXIV</b></td><td>o preso tem direito à <b>identificação dos responsáveis por sua prisão ou por seu interrogatório policial</b></td></tr><tr><td><b>LXV</b></td><td>a prisão ilegal será <b>imediatamente relaxada pela autoridade judiciária</b></td></tr><tr><td><b>LXVI</b></td><td>ninguém será levado à prisão ou nela mantido quando a lei admitir a <b>liberdade provisória, com ou sem fiança</b></td></tr></tbody></table>\n<ul><li>Atenção: quem <b>relaxa</b> a prisão ilegal é a <b>autoridade judiciária</b> (juiz). O delegado, ao receber um conduzido sem situação de flagrante, simplesmente <b>não lavra</b> o auto e o libera, mas o texto constitucional atribui o <b>relaxamento</b> ao juiz.</li><li><b>LXVII – Prisão civil</b>: \"não haverá prisão civil por dívida, <b>salvo</b> a do responsável pelo <b>inadimplemento voluntário e inescusável de obrigação alimentícia</b> e a do <b>depositário infiel</b>\". A segunda hipótese foi afastada pelo STF por força do <b>Pacto de San José</b> (status supralegal): <b>SV 25</b>: \"é <b>ilícita</b> a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito\". Hoje, <b>só existe prisão civil do devedor de alimentos</b>.</li><li><b>LI e LII – Extradição</b>: <b>nenhum brasileiro será extraditado</b>, <b>salvo o naturalizado</b>, em caso de <b>crime comum praticado antes da naturalização</b>, ou de <b>comprovado envolvimento em tráfico ilícito de entorpecentes</b> e drogas afins, na forma da lei. O <b>brasileiro nato nunca</b> é extraditado. <b>Não será concedida extradição de estrangeiro por crime político ou de opinião</b>.</li></ul>\n<h3>5. Gratuidades e indenização (LXXIV a LXXVII)</h3>\n<ul><li><b>LXXIV</b>: o Estado prestará <b>assistência jurídica integral e gratuita</b> aos que comprovarem insuficiência de recursos (Defensoria Pública).</li><li><b>LXXV</b>: o Estado <b>indenizará o condenado por erro judiciário</b>, assim como <b>o que ficar preso além do tempo fixado na sentença</b>.</li><li><b>LXXVI</b>: são <b>gratuitos para os reconhecidamente pobres</b>, na forma da lei: a) o <b>registro civil de nascimento</b>; b) a <b>certidão de óbito</b>.</li><li><b>LXXVII</b>: são <b>gratuitas</b> as ações de <b>habeas corpus</b> e <b>habeas data</b>, e, na forma da lei, os atos necessários ao exercício da cidadania.</li><li><b>LXXVIII</b>: a todos, no âmbito judicial e administrativo, são assegurados a <b>razoável duração do processo</b> e os meios que garantam a celeridade de sua tramitação (EC 45/2004).</li><li><b>LXXIX</b>: é assegurado, nos termos da lei, o <b>direito à proteção dos dados pessoais</b>, inclusive nos meios digitais (EC 115/2022; a LGPD é a Lei 13.709/2018).</li></ul>\n<h3>6. Parágrafos do art. 5º</h3>\n<table class=\"tab\"><thead><tr><th>Parágrafo</th><th>Conteúdo</th></tr></thead><tbody><tr><td><b>§ 1º</b></td><td>as normas definidoras dos direitos e garantias fundamentais têm <b>aplicação imediata</b></td></tr><tr><td><b>§ 2º</b></td><td>os direitos e garantias expressos <b>não excluem outros</b> decorrentes do regime e dos princípios adotados ou dos <b>tratados</b> internacionais (rol <b>não taxativo</b>: cláusula de abertura)</td></tr><tr><td><b>§ 3º</b></td><td>tratados de <b>direitos humanos</b> aprovados em cada Casa, em <b>dois turnos</b>, por <b>3/5</b> dos membros, equivalem a <b>emendas constitucionais</b></td></tr><tr><td><b>§ 4º</b></td><td>o Brasil se submete à jurisdição de <b>Tribunal Penal Internacional</b> a cuja criação tenha manifestado adesão (TPI, Estatuto de Roma)</td></tr></tbody></table>\n<ul><li>O TPI julga <b>genocídio, crimes contra a humanidade, crimes de guerra e agressão</b>, de forma <b>complementar</b> às jurisdições nacionais. A <b>entrega</b> (<i>surrender</i>) de pessoa ao TPI não se confunde com extradição.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Provas ilícitas são admitidas se relevantes para a verdade</span><br>✅ <span class=\"certo\">Inadmissíveis (LVI); admite-se só a favor do réu.</span></li><li>❌ <span class=\"banca\">A prisão ilegal será relaxada pelo delegado</span><br>✅ <span class=\"certo\">Pela AUTORIDADE JUDICIÁRIA (LXV).</span></li><li>❌ <span class=\"banca\">Cabe prisão do depositário infiel</span><br>✅ <span class=\"certo\">Ilícita (SV 25); só alimentos.</span></li><li>❌ <span class=\"banca\">O brasileiro nato pode ser extraditado por tráfico</span><br>✅ <span class=\"certo\">Nunca; o naturalizado sim.</span></li><li>❌ <span class=\"banca\">O rol do art. 5º é taxativo</span><br>✅ <span class=\"certo\">É exemplificativo (§ 2º).</span></li><li>❌ <span class=\"banca\">Todo tratado internacional tem força de emenda</span><br>✅ <span class=\"certo\">Só os de DH com rito de 3/5 em dois turnos.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Inafastabilidade?</span></span><span class=\"vs\"><span>A lei não excluirá do Judiciário <b>lesão ou ameaça</b> a direito (XXXV).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Garantias do Júri?</span></span><span class=\"vs\"><span><b>Plenitude de defesa, sigilo das votações, soberania dos veredictos, crimes dolosos contra a vida</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem relaxa prisão ilegal?</span></span><span class=\"vs\"><span><b>Autoridade judiciária</b> (LXV).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Direito do preso (LXIV)?</span></span><span class=\"vs\"><span><b>Identificação dos responsáveis</b> pela prisão ou interrogatório.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prisão civil hoje?</span></span><span class=\"vs\"><span>Só do <b>devedor de alimentos</b> (SV 25).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Extradição do naturalizado?</span></span><span class=\"vs\"><span>Crime <b>comum antes</b> da naturalização ou <b>tráfico</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gratuidade para pobres?</span></span><span class=\"vs\"><span><b>Registro de nascimento</b> e <b>certidão de óbito</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ações sempre gratuitas?</span></span><span class=\"vs\"><span><b>Habeas corpus</b> e <b>habeas data</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O preso sem nome dos policiais</b><p>Na delegacia, o conduzido pede para saber o nome dos policiais que o prenderam e do delegado que o interrogou. O escrivão se recusa, dizendo que \"é procedimento sigiloso\".</p><details><summary>Ver a solução comentada</summary><p>O preso tem <b>direito constitucional</b> à <b>identificação dos responsáveis</b> por sua prisão e por seu interrogatório policial (art. 5º, LXIV). A recusa viola a Constituição e pode configurar abuso de autoridade (Lei 13.869, art. 16). O nome do condutor e das testemunhas também deve constar da <b>nota de culpa</b>.</p></details></div>",
+"quiz": [
+{
+"p": "São admissíveis no processo as provas obtidas por meios ilícitos, desde que relevantes para a descoberta da verdade.",
+"c": false,
+"prof": "São inadmissíveis.",
+"x": "O art. 5º, LVI, veda provas obtidas por meios ilícitos, independentemente de sua relevância. A doutrina e a jurisprudência admitem a prova ilícita apenas em favor do réu.",
+"e": "Ilícita: fora."
+},
+{
+"p": "Será admitida ação privada nos crimes de ação pública, se esta não for intentada no prazo legal.",
+"c": true,
+"prof": "Certo. Art. 5º, LIX.",
+"x": "É a ação penal privada subsidiária da pública, que pressupõe a inércia do Ministério Público. Não cabe quando o MP pede arquivamento.",
+"e": "Inércia do MP: ação subsidiária."
+},
+{
+"p": "A prisão ilegal será imediatamente relaxada pelo delegado de polícia.",
+"c": false,
+"prof": "Pela autoridade judiciária.",
+"x": "O art. 5º, LXV, atribui o relaxamento à autoridade judiciária. É o juiz quem relaxa a prisão ilegal, inclusive na audiência de custódia.",
+"e": "Relaxa: juiz."
+},
+{
+"p": "O preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial.",
+"c": true,
+"prof": "Certo. Art. 5º, LXIV.",
+"x": "A garantia permite a responsabilização de abusos. Os nomes do condutor e das testemunhas também constam da nota de culpa (CPP, art. 306, § 2º).",
+"e": "Preso sabe quem o prendeu."
+},
+{
+"p": "Sobre a prisão civil por dívida, segundo a Constituição e a jurisprudência do STF:",
+"alts": [
+"é admitida para o depositário infiel e para o devedor de alimentos",
+"é vedada em qualquer hipótese",
+"só é admitida em relação ao responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia",
+"é admitida para dívidas tributárias",
+"depende de autorização do Senado"
+],
+"r": 2,
+"n": [
+"A do depositário infiel é ilícita (SV 25).",
+"A de alimentos é admitida.",
+"Correta.",
+"Não há essa hipótese.",
+"Não há essa regra."
+],
+"prof": "SV 25.",
+"x": "O texto constitucional prevê as duas hipóteses, mas o STF, aplicando o Pacto de San José (status supralegal), considerou ilícita a prisão do depositário infiel. Resta só a do devedor de alimentos.",
+"e": "Prisão civil: só alimentos."
+},
+{
+"p": "O Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença.",
+"c": true,
+"prof": "Certo. Art. 5º, LXXV.",
+"x": "É hipótese de responsabilidade do Estado por ato jurisdicional expressamente prevista na Constituição.",
+"e": "Erro judiciário: indeniza."
+},
+{
+"p": "Sobre a extradição, a Constituição estabelece que:",
+"alts": [
+"o brasileiro nato pode ser extraditado por tráfico de drogas",
+"o brasileiro naturalizado pode ser extraditado por crime comum praticado antes da naturalização ou por comprovado envolvimento em tráfico de drogas",
+"o estrangeiro pode ser extraditado por crime político",
+"nenhum estrangeiro pode ser extraditado",
+"o naturalizado nunca pode ser extraditado"
+],
+"r": 1,
+"n": [
+"O nato nunca.",
+"Correta: art. 5º, LI.",
+"Vedado (LII).",
+"Estrangeiros podem, salvo crime político ou de opinião.",
+"Há duas hipóteses."
+],
+"prof": "Nato nunca; naturalizado às vezes.",
+"x": "O inciso LI veda a extradição de brasileiros, salvo o naturalizado nas duas hipóteses. O inciso LII veda a extradição de estrangeiro por crime político ou de opinião.",
+"e": "Naturalizado: crime anterior ou tráfico."
+},
+{
+"p": "São gratuitos para os reconhecidamente pobres, na forma da lei, o registro civil de nascimento e a certidão de óbito.",
+"c": true,
+"prof": "Certo. Art. 5º, LXXVI.",
+"x": "Já o habeas corpus e o habeas data são gratuitos para todos (LXXVII). A Lei 9.534/1997 estendeu a gratuidade dos registros de nascimento e óbito a todos.",
+"e": "Nascimento e óbito: gratuitos."
+},
+{
+"p": "O rol de direitos e garantias do art. 5º é taxativo, não admitindo direitos decorrentes de tratados internacionais.",
+"c": false,
+"prof": "É exemplificativo.",
+"x": "O § 2º do art. 5º estabelece que os direitos expressos não excluem outros decorrentes do regime e dos princípios adotados ou dos tratados de que o Brasil seja parte.",
+"e": "Rol aberto."
+}
+]
+},
+"remedios": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>6</b><span>remédios: HC, HD, MS individual, MS coletivo, MI e ação popular</span></div><div class=\"lt-stat\"><b>120 dias</b><span>prazo decadencial do mandado de segurança</span></div><div class=\"lt-stat\"><b>1 ano</b><span>de funcionamento exigido de associação para MS coletivo</span></div><div class=\"lt-stat\"><b>0</b><span>custas na ação popular, salvo má-fé</span></div></div>\n<h3>1. Habeas corpus (art. 5º, LXVIII)</h3>\n<ul><li>\"Conceder-se-á <b>habeas corpus</b> sempre que alguém <b>sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção</b>, por ilegalidade ou abuso de poder.\"</li></ul>\n<table class=\"tab\"><thead><tr><th>Aspecto</th><th>Regra</th></tr></thead><tbody><tr><td>Espécies</td><td><b>liberatório ou repressivo</b> (a coação já ocorreu: pede-se alvará de soltura); <b>preventivo</b> (há ameaça: pede-se <b>salvo-conduto</b>)</td></tr><tr><td>Impetrante</td><td><b>qualquer pessoa</b>, física ou jurídica, nacional ou estrangeira, <b>independentemente de advogado</b>; o MP também pode impetrar; o juiz pode concedê-lo <b>de ofício</b></td></tr><tr><td>Paciente</td><td>sempre <b>pessoa física</b> (quem sofre a coação)</td></tr><tr><td>Coator</td><td>autoridade pública ou <b>particular</b> (o hospital que retém o paciente por dívida)</td></tr><tr><td>Custas</td><td><b>gratuito</b> (LXXVII)</td></tr><tr><td>Limite</td><td><b>não cabe</b> HC em relação a <b>punições disciplinares militares</b> (art. 142, § 2º), quanto ao <b>mérito</b>; cabe para discutir a <b>legalidade</b> (competência, rito, pena prevista em lei)</td></tr></tbody></table>\n<ul><li><b>Súmulas do STF</b>: não cabe HC quando já extinta a pena privativa de liberdade (Súmula 695); nem contra a imposição da <b>pena de multa</b> ou processo em que ela seja a única pena cominada (Súmula 693); nem contra decisão que condena a pena de <b>perda da função pública</b> (Súmula 694).</li></ul>\n<h3>2. Habeas data (art. 5º, LXXII)</h3>\n<ul><li>Conceder-se-á <b>habeas data</b>: a) para <b>assegurar o conhecimento de informações relativas à pessoa do impetrante</b>, constantes de registros ou bancos de dados de <b>entidades governamentais ou de caráter público</b>; b) para a <b>retificação de dados</b>, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo. A Lei 9.507/1997 acrescentou a <b>anotação</b> de contestação ou explicação sobre dado verdadeiro.</li><li><b>Personalíssimo</b>: serve para informações <b>do próprio impetrante</b>; <b>não</b> serve para obter informações de <b>terceiros</b> (para isso, usa-se o mandado de segurança ou a Lei de Acesso à Informação). O STF admite, excepcionalmente, a impetração pelos <b>herdeiros</b> em relação ao falecido.</li><li><b>Recusa administrativa prévia</b>: <b>Súmula 2 do STJ</b>: não cabe habeas data se não houve <b>recusa</b> de informações por parte da autoridade administrativa (interesse de agir).</li><li>É <b>gratuito</b> e exige <b>advogado</b>. \"Caráter público\" alcança bancos privados abertos a terceiros, como o <b>SPC</b> e o <b>Serasa</b>.</li></ul>\n<h3>3. Mandado de segurança individual (art. 5º, LXIX)</h3>\n<ul><li>\"Conceder-se-á <b>mandado de segurança</b> para proteger <b>direito líquido e certo</b>, <b>não amparado por habeas corpus ou habeas data</b>, quando o responsável pela ilegalidade ou abuso de poder for <b>autoridade pública</b> ou <b>agente de pessoa jurídica no exercício de atribuições do Poder Público</b>.\"</li><li><b>Direito líquido e certo</b> é aquele comprovado <b>de plano</b>, por <b>prova documental pré-constituída</b>. <b>Não há dilação probatória</b> (não se ouvem testemunhas nem se fazem perícias). A complexidade jurídica da questão não impede o MS (Súmula 625 do STF).</li><li><b>Caráter residual</b>: só cabe se não for caso de HC (liberdade de locomoção) nem de HD (dados pessoais).</li><li><b>Prazo</b>: o direito de requerer MS <b>extingue-se em 120 dias</b>, contados da <b>ciência</b> do ato impugnado (Lei 12.016/2009, art. 23). O prazo é <b>decadencial</b> e constitucional (Súmula 632 do STF).</li><li><b>Não cabe</b>: contra <b>lei em tese</b> (Súmula 266 do STF); contra decisão judicial transitada em julgado (Súmula 268); como substitutivo de <b>ação de cobrança</b> (Súmula 269); contra ato do qual caiba recurso administrativo com efeito suspensivo, independentemente de caução.</li></ul>\n<h3>4. Mandado de segurança coletivo (art. 5º, LXX)</h3>\n<ul><li>Pode ser impetrado por: a) <b>partido político com representação no Congresso Nacional</b> (basta 1 parlamentar em qualquer das Casas); b) <b>organização sindical</b>, <b>entidade de classe</b> ou <b>associação legalmente constituída e em funcionamento há pelo menos 1 ano</b>, em defesa dos interesses de seus <b>membros ou associados</b>.</li><li>O requisito de <b>1 ano</b> de funcionamento aplica-se <b>somente às associações</b> (não aos sindicatos e entidades de classe, segundo o STF). A entidade <b>não precisa de autorização</b> expressa dos associados (<b>Súmula 629 do STF</b>: substituição processual), e pode defender interesse de <b>parte</b> da categoria (Súmula 630).</li></ul>\n<h3>5. Mandado de injunção (art. 5º, LXXI)</h3>\n<ul><li>\"Conceder-se-á <b>mandado de injunção</b> sempre que a <b>falta de norma regulamentadora</b> torne <b>inviável o exercício dos direitos e liberdades constitucionais</b> e das prerrogativas inerentes à <b>nacionalidade</b>, à <b>soberania</b> e à <b>cidadania</b>.\"</li><li>Combate a <b>omissão</b> em normas de <b>eficácia limitada</b>. A Lei 13.300/2016 adotou a <b>teoria concretista intermediária</b>: o tribunal fixa <b>prazo</b> para o legislador e, se não houver norma, estabelece as condições para o exercício do direito no caso concreto (efeito <b>inter partes</b>, que pode ser estendido). O STF, nos MIs 670, 708 e 712, aplicou ao <b>direito de greve dos servidores</b> a lei de greve da iniciativa privada.</li><li>Há MI <b>individual</b> e <b>coletivo</b> (legitimados semelhantes aos do MS coletivo, além do MP e da Defensoria).</li></ul>\n<h3>6. Ação popular (art. 5º, LXXIII)</h3>\n<ul><li>\"Qualquer <b>cidadão</b> é parte legítima para propor ação popular que vise a <b>anular ato lesivo</b> ao <b>patrimônio público</b> ou de entidade de que o Estado participe, à <b>moralidade administrativa</b>, ao <b>meio ambiente</b> e ao <b>patrimônio histórico e cultural</b>, ficando o autor, <b>salvo comprovada má-fé</b>, <b>isento de custas judiciais e do ônus da sucumbência</b>.\"</li><li><b>Cidadão</b> = eleitor em gozo dos direitos políticos (prova-se com o <b>título de eleitor</b>). <b>Pessoa jurídica não pode</b> propor (Súmula 365 do STF). O MP <b>não</b> propõe, mas acompanha e pode assumir a ação se o autor desistir.</li><li><b>Competência</b>: é do <b>juízo de primeiro grau</b>, mesmo que o ato seja do <b>Presidente da República</b> ou de outra autoridade com foro privilegiado: <b>o STF não julga originariamente</b> ação popular (salvo situações excepcionais, como as do art. 102, I, \"f\" ou \"n\").</li><li>A ação popular <b>não</b> serve para proteger o <b>direito de propriedade particular</b> do autor nem para impugnar <b>lei em tese</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Remédio</th><th>Protege</th><th>Legitimado</th><th>Gratuito?</th></tr></thead><tbody><tr><td><b>HC</b></td><td>liberdade de <b>locomoção</b></td><td>qualquer pessoa</td><td><b>sim</b></td></tr><tr><td><b>HD</b></td><td>informações <b>sobre o impetrante</b> em bancos públicos</td><td>o titular dos dados</td><td><b>sim</b></td></tr><tr><td><b>MS</b></td><td>direito líquido e certo não amparado por HC/HD</td><td>titular do direito</td><td>não</td></tr><tr><td><b>MS coletivo</b></td><td>direitos de membros ou associados</td><td>partido com representação no CN; sindicato; entidade de classe; associação com 1 ano</td><td>não</td></tr><tr><td><b>MI</b></td><td>direitos inviabilizados por <b>falta de norma</b></td><td>titular do direito (e coletivos)</td><td>não</td></tr><tr><td><b>Ação popular</b></td><td>patrimônio público, <b>moralidade</b>, meio ambiente, patrimônio histórico e cultural</td><td><b>cidadão</b></td><td><b>isenção</b> de custas e sucumbência, salvo má-fé</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O habeas data serve para obter informações de terceiros</span><br>✅ <span class=\"certo\">Só sobre o próprio impetrante.</span></li><li>❌ <span class=\"banca\">O MS admite oitiva de testemunhas</span><br>✅ <span class=\"certo\">Exige prova pré-constituída.</span></li><li>❌ <span class=\"banca\">O prazo do MS é de 120 dias contados da publicação da lei</span><br>✅ <span class=\"certo\">Da ciência do ato impugnado; não cabe contra lei em tese.</span></li><li>❌ <span class=\"banca\">Ação popular contra o Presidente é julgada pelo STF</span><br>✅ <span class=\"certo\">Juízo de primeiro grau.</span></li><li>❌ <span class=\"banca\">Pessoa jurídica pode propor ação popular</span><br>✅ <span class=\"certo\">Não (Súmula 365).</span></li><li>❌ <span class=\"banca\">Cabe HC no mérito de punição disciplinar militar</span><br>✅ <span class=\"certo\">Não cabe, salvo para questões de legalidade.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>HC?</span></span><span class=\"vs\"><span>Violência ou coação na <b>liberdade de locomoção</b>; qualquer pessoa impetra; gratuito.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>HD?</span></span><span class=\"vs\"><span>Conhecer ou <b>retificar</b> informações <b>do impetrante</b>; exige recusa prévia (Súmula 2 do STJ).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MS?</span></span><span class=\"vs\"><span><b>Direito líquido e certo</b>, prova pré-constituída, <b>120 dias</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MS coletivo?</span></span><span class=\"vs\"><span><b>Partido com representação no CN</b>, sindicato, entidade de classe, <b>associação com 1 ano</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MI?</span></span><span class=\"vs\"><span><b>Falta de norma regulamentadora</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação popular?</span></span><span class=\"vs\"><span><b>Cidadão</b>; patrimônio público, <b>moralidade</b>, meio ambiente, patrimônio histórico e cultural.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Custas da ação popular?</span></span><span class=\"vs\"><span>Isento, <b>salvo má-fé</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>HC contra punição militar?</span></span><span class=\"vs\"><span>Não no mérito (art. 142, § 2º).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O cadastro na delegacia</b><p>Um cidadão descobre que consta como \"suspeito de furto\" no banco de dados de uma delegacia e quer saber o que há registrado e corrigir a informação. Ele pede administrativamente e não recebe resposta.</p><details><summary>Ver a solução comentada</summary><p>O remédio é o <b>habeas data</b>: informações <b>relativas à pessoa do impetrante</b>, em banco de <b>entidade governamental</b>, para <b>conhecimento e retificação</b>. Como houve pedido administrativo sem resposta (recusa tácita), está presente o interesse de agir (Súmula 2 do STJ). A ação é <b>gratuita</b>, mas exige advogado. Se quisesse dados de outra pessoa, o caminho seria outro (MS ou Lei de Acesso à Informação).</p></details></div>",
+"quiz": [
+{
+"p": "Conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder.",
+"c": true,
+"prof": "Certo. Art. 5º, LXVIII.",
+"x": "O HC pode ser preventivo (ameaça: salvo-conduto) ou liberatório (coação consumada). Pode ser impetrado por qualquer pessoa, sem advogado, e é gratuito.",
+"e": "HC: locomoção."
+},
+{
+"p": "O habeas data pode ser utilizado para obter informações sobre terceiros constantes de bancos de dados públicos.",
+"c": false,
+"prof": "É personalíssimo.",
+"x": "O art. 5º, LXXII, fala em informações relativas à pessoa do impetrante. Para dados de terceiros, usa-se o mandado de segurança ou a Lei de Acesso à Informação.",
+"e": "HD: dados próprios."
+},
+{
+"p": "Sobre o mandado de segurança, assinale a correta.",
+"alts": [
+"Admite ampla produção de prova testemunhal",
+"Pode ser impetrado contra lei em tese",
+"O direito de requerê-lo extingue-se em 120 dias, contados da ciência do ato impugnado",
+"Substitui a ação de cobrança",
+"Protege a liberdade de locomoção"
+],
+"r": 2,
+"n": [
+"Exige prova pré-constituída.",
+"Súmula 266 do STF.",
+"Correta: Lei 12.016/2009, art. 23.",
+"Súmula 269 do STF.",
+"Para isso há o HC."
+],
+"prof": "Prazo decadencial.",
+"x": "O MS protege direito líquido e certo, comprovado de plano por documentos, não amparado por HC ou HD. O prazo de 120 dias é decadencial e constitucional (Súmula 632 do STF).",
+"e": "MS: 120 dias."
+},
+{
+"p": "O mandado de segurança coletivo pode ser impetrado por partido político com representação no Congresso Nacional.",
+"c": true,
+"prof": "Certo. Art. 5º, LXX, \"a\".",
+"x": "Também podem impetrá-lo organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos 1 ano, em defesa de seus membros ou associados.",
+"e": "Partido no Congresso."
+},
+{
+"p": "A ação popular contra ato do Presidente da República é julgada originariamente pelo Supremo Tribunal Federal.",
+"c": false,
+"prof": "Primeiro grau.",
+"x": "A competência para a ação popular é do juízo de primeiro grau, ainda que a autoridade tenha foro privilegiado em outras ações. A Constituição não incluiu a ação popular na competência originária do STF.",
+"e": "Ação popular: primeiro grau."
+},
+{
+"p": "A ação popular visa anular ato lesivo, EXCETO ao(à):",
+"alts": [
+"patrimônio público",
+"moralidade administrativa",
+"meio ambiente",
+"patrimônio histórico e cultural",
+"propriedade particular do autor"
+],
+"r": 4,
+"n": [
+"Protegido.",
+"Protegido.",
+"Protegido.",
+"Protegido.",
+"Correta (não é protegido): a ação popular tutela interesses da coletividade."
+],
+"prof": "Bens da coletividade.",
+"x": "O art. 5º, LXXIII, protege o patrimônio público ou de entidade de que o Estado participe, a moralidade administrativa, o meio ambiente e o patrimônio histórico e cultural.",
+"e": "Ação popular: interesse coletivo."
+},
+{
+"p": "Conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.",
+"c": true,
+"prof": "Certo. Art. 5º, LXXI.",
+"x": "A Lei 13.300/2016 adotou a teoria concretista: o tribunal pode fixar prazo para o legislador e estabelecer as condições de exercício do direito.",
+"e": "MI: falta de norma."
+},
+{
+"p": "Direito líquido e certo é aquele de complexidade jurídica reduzida, não podendo ser reconhecido quando a questão de direito for controvertida.",
+"c": false,
+"prof": "Líquido e certo diz respeito à prova.",
+"x": "Direito líquido e certo é o comprovado de plano por prova documental pré-constituída. A Súmula 625 do STF diz que controvérsia sobre matéria de direito não impede a concessão do MS.",
+"e": "Líquido e certo: prova pronta."
+},
+{
+"p": "O habeas corpus NÃO é cabível:",
+"alts": [
+"para trancar inquérito policial sem justa causa",
+"contra prisão ilegal decretada por juiz",
+"em relação ao mérito de punições disciplinares militares",
+"quando houver ameaça de prisão ilegal",
+"contra particular que restringe a liberdade de locomoção de alguém"
+],
+"r": 2,
+"n": [
+"É cabível.",
+"É cabível.",
+"Correta: art. 142, § 2º.",
+"Cabe HC preventivo.",
+"O coator pode ser particular."
+],
+"prof": "Exceção militar.",
+"x": "O art. 142, § 2º, afasta o HC em relação a punições disciplinares militares. O STF admite o HC para discutir os pressupostos de legalidade (hierarquia, poder disciplinar, ato ligado à função, pena prevista em lei), mas não o mérito.",
+"e": "Disciplina militar: sem HC no mérito."
+}
+]
+},
+"sociais": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>11</b><span>direitos sociais do art. 6º</span></div><div class=\"lt-stat\"><b>5 / 2</b><span>anos: prescrição trabalhista, até 2 anos após o fim do contrato</span></div><div class=\"lt-stat\"><b>8 h / 44 h</b><span>jornada diária e semanal máxima</span></div><div class=\"lt-stat\"><b>200</b><span>empregados: empresa com representante eleito (art. 11)</span></div></div>\n<h3>1. O art. 6º</h3>\n<ul><li>\"São direitos sociais a <b>educação</b>, a <b>saúde</b>, a <b>alimentação</b>, o <b>trabalho</b>, a <b>moradia</b>, o <b>transporte</b>, o <b>lazer</b>, a <b>segurança</b>, a <b>previdência social</b>, a <b>proteção à maternidade e à infância</b>, a <b>assistência aos desamparados</b>, na forma desta Constituição.\" <b>Alimentação</b> (EC 64/2010), <b>moradia</b> (EC 26/2000) e <b>transporte</b> (EC 90/2015) foram incluídos por emenda. O <b>parágrafo único</b> (EC 114/2021) prevê a <b>renda básica familiar</b> garantida pelo poder público a todo brasileiro em situação de vulnerabilidade social.</li><li><b>Propriedade não está no art. 6º</b>: é direito individual (art. 5º, XXII).</li><li>São direitos de <b>2ª dimensão</b> (prestacionais). Duas ideias aparecem em prova: <b>reserva do possível</b> (o Estado só pode atender na medida de seus recursos) e <b>mínimo existencial</b> (núcleo que o Estado não pode negar); a <b>proibição do retrocesso social</b> impede suprimir direitos já concretizados sem compensação.</li></ul>\n<h3>2. Direitos dos trabalhadores (art. 7º): os mais cobrados</h3>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Direito</th></tr></thead><tbody><tr><td>I</td><td>relação de emprego protegida contra <b>despedida arbitrária ou sem justa causa</b>, nos termos de <b>lei complementar</b>, que preverá <b>indenização compensatória</b>, dentre outros direitos (ainda não editada; aplica-se a multa de 40% do FGTS, ADCT, art. 10)</td></tr><tr><td>II</td><td><b>seguro-desemprego</b>, em caso de desemprego <b>involuntário</b></td></tr><tr><td>III</td><td><b>FGTS</b></td></tr><tr><td>IV</td><td><b>salário mínimo</b>, fixado em lei, nacionalmente unificado, <b>vedada sua vinculação para qualquer fim</b></td></tr><tr><td>VII</td><td>garantia de salário, <b>nunca inferior ao mínimo</b>, para os que percebem <b>remuneração variável</b></td></tr><tr><td>VIII</td><td><b>décimo terceiro</b> com base na <b>remuneração integral</b> ou no valor da <b>aposentadoria</b></td></tr><tr><td>IX</td><td>remuneração do <b>trabalho noturno superior</b> à do diurno</td></tr><tr><td>X</td><td>proteção do salário, constituindo <b>crime sua retenção dolosa</b></td></tr><tr><td>XIII</td><td>duração do trabalho normal <b>não superior a 8 horas diárias e 44 semanais</b>, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva</td></tr><tr><td>XIV</td><td>jornada de <b>6 horas</b> para o trabalho em <b>turnos ininterruptos de revezamento</b>, salvo negociação coletiva</td></tr><tr><td>XV</td><td><b>repouso semanal remunerado, preferencialmente aos domingos</b></td></tr><tr><td>XVI</td><td>hora extra com adicional de, no mínimo, <b>50%</b></td></tr><tr><td>XVII</td><td><b>férias anuais</b> remuneradas com, pelo menos, <b>1/3 a mais</b></td></tr><tr><td>XVIII</td><td><b>licença à gestante</b>, sem prejuízo do emprego e do salário, de <b>120 dias</b></td></tr><tr><td>XIX</td><td><b>licença-paternidade</b> (5 dias, pelo ADCT, até a lei regulamentar)</td></tr><tr><td>XXI</td><td><b>aviso prévio proporcional</b> ao tempo de serviço, sendo no mínimo de <b>30 dias</b></td></tr><tr><td>XXIII</td><td><b>adicional de remuneração</b> para as atividades <b>penosas, insalubres ou perigosas</b></td></tr><tr><td>XXVI</td><td>reconhecimento das <b>convenções e acordos coletivos</b></td></tr><tr><td>XXIX</td><td><b>ação</b> quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de <b>5 anos</b> para os trabalhadores urbanos e rurais, <b>até o limite de 2 anos após a extinção do contrato</b></td></tr><tr><td>XXX</td><td><b>proibição de diferença de salários</b>, de exercício de funções e de critério de admissão por motivo de <b>sexo, idade, cor ou estado civil</b></td></tr><tr><td>XXXIII</td><td><b>proibição de trabalho noturno, perigoso ou insalubre a menores de 18</b> e de <b>qualquer trabalho a menores de 16</b>, <b>salvo na condição de aprendiz, a partir de 14</b></td></tr><tr><td>XXXIV</td><td><b>igualdade de direitos</b> entre o trabalhador com vínculo empregatício permanente e o <b>trabalhador avulso</b></td></tr></tbody></table>\n<ul><li><b>Pegadinha do menor</b>: o <b>aprendiz</b> pode trabalhar a partir dos <b>14</b>, mas o trabalho <b>noturno, perigoso ou insalubre</b> é proibido a <b>todo menor de 18</b>, <b>inclusive</b> o aprendiz.</li><li><b>Domésticos</b> (parágrafo único, EC 72/2013): têm a maioria dos direitos do art. 7º, alguns dependentes de regulamentação (LC 150/2015).</li></ul>\n<h3>3. Direitos coletivos: sindicatos e greve (arts. 8º a 11)</h3>\n<ul><li><b>Liberdade sindical</b> (art. 8º): <b>a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente</b>, vedadas ao poder público a interferência e a intervenção. <b>Unicidade sindical</b>: é vedada a criação de mais de um sindicato da mesma categoria na mesma <b>base territorial</b>, que <b>não pode ser inferior à área de um Município</b>.</li><li><b>Ninguém será obrigado a filiar-se ou a manter-se filiado</b> a sindicato (V). É <b>obrigatória a participação dos sindicatos nas negociações coletivas</b> de trabalho (VI). O <b>aposentado filiado</b> tem direito a <b>votar e ser votado</b> nas organizações sindicais (VII).</li><li><b>Estabilidade do dirigente sindical</b> (VIII): é vedada a dispensa do empregado sindicalizado <b>a partir do registro da candidatura</b> a cargo de direção ou representação sindical e, se eleito, ainda que suplente, <b>até 1 ano após o final do mandato</b>, salvo falta grave.</li><li><b>Greve</b> (art. 9º): assegurado o direito de greve, competindo aos trabalhadores decidir sobre a <b>oportunidade</b> e os <b>interesses</b> a defender. A lei definirá os <b>serviços ou atividades essenciais</b> e disporá sobre o atendimento das necessidades inadiáveis. <b>Os abusos cometidos sujeitam os responsáveis às penas da lei</b> (§ 2º).</li><li><b>Servidores</b>: o servidor civil tem direito de greve nos termos de <b>lei específica</b> (art. 37, VII), aplicando-se a Lei 7.783/1989 enquanto ela não vem (MIs 670, 708 e 712). <b>Militares</b> são <b>proibidos</b> de fazer greve e de se sindicalizar (art. 142, § 3º, IV). O STF estendeu a proibição de greve a <b>todos os policiais</b>, inclusive <b>policiais civis</b> e servidores que atuam diretamente na segurança pública (ARE 654.432, Tema 541), com obrigatoriedade de o poder público participar de mediação.</li><li><b>Art. 10</b>: é assegurada a participação dos trabalhadores e empregadores nos <b>colegiados dos órgãos públicos</b> em que seus interesses profissionais ou previdenciários sejam objeto de discussão. <b>Art. 11</b>: nas empresas de <b>mais de 200 empregados</b>, é assegurada a <b>eleição de um representante</b> destes com a finalidade exclusiva de promover-lhes o <b>entendimento direto com os empregadores</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A propriedade é direito social do art. 6º</span><br>✅ <span class=\"certo\">É direito individual (art. 5º).</span></li><li>❌ <span class=\"banca\">A prescrição trabalhista é de 2 anos, contados de cada lesão</span><br>✅ <span class=\"certo\">5 anos, até o limite de 2 anos após a extinção do contrato.</span></li><li>❌ <span class=\"banca\">O aprendiz pode trabalhar à noite</span><br>✅ <span class=\"certo\">Noturno, perigoso e insalubre: vedado a todo menor de 18.</span></li><li>❌ <span class=\"banca\">O Estado autoriza a criação de sindicatos</span><br>✅ <span class=\"certo\">Não exige autorização; só registro.</span></li><li>❌ <span class=\"banca\">Policiais civis podem fazer greve</span><br>✅ <span class=\"certo\">STF (Tema 541): vedado a todos os policiais.</span></li><li>❌ <span class=\"banca\">A participação dos sindicatos na negociação coletiva é facultativa</span><br>✅ <span class=\"certo\">É obrigatória (art. 8º, VI).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Direitos sociais (art. 6º)?</span></span><span class=\"vs\"><span>Educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência, proteção à maternidade e à infância, assistência aos desamparados.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prescrição trabalhista?</span></span><span class=\"vs\"><span><b>5 anos</b>, até <b>2 anos</b> após o fim do contrato.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Jornada?</span></span><span class=\"vs\"><span><b>8 h</b> diárias e <b>44 h</b> semanais; <b>6 h</b> em turnos ininterruptos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hora extra?</span></span><span class=\"vs\"><span>Mínimo de <b>50%</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Férias?</span></span><span class=\"vs\"><span><b>1/3</b> a mais.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Menor?</span></span><span class=\"vs\"><span>Nenhum trabalho antes dos <b>16</b>, salvo aprendiz a partir dos <b>14</b>; noturno/perigoso/insalubre só após os <b>18</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dirigente sindical?</span></span><span class=\"vs\"><span>Estável do <b>registro da candidatura</b> até <b>1 ano</b> após o mandato.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Representante em empresa?</span></span><span class=\"vs\"><span><b>Mais de 200</b> empregados.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O aprendiz no turno da noite</b><p>Um supermercado contrata um aprendiz de 15 anos e o escala para repor mercadorias das 22h às 2h, com adicional noturno.</p><details><summary>Ver a solução comentada</summary><p>A contratação como <b>aprendiz</b> a partir dos 14 anos é válida, mas o art. 7º, XXXIII, <b>proíbe o trabalho noturno</b> (bem como o perigoso e o insalubre) a <b>menores de 18 anos</b>, sem exceção para o aprendiz. O pagamento de adicional não convalida a escala. A empresa responde perante a fiscalização do trabalho e a Justiça do Trabalho.</p></details></div>",
+"quiz": [
+{
+"p": "O direito à propriedade está listado entre os direitos sociais do art. 6º da Constituição.",
+"c": false,
+"prof": "É direito individual.",
+"x": "O art. 6º lista educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade e à infância e assistência aos desamparados. A propriedade está no art. 5º, XXII.",
+"e": "Propriedade: art. 5º."
+},
+{
+"p": "A ação quanto aos créditos resultantes das relações de trabalho prescreve em cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho.",
+"c": true,
+"prof": "Certo. Art. 7º, XXIX.",
+"x": "São dois prazos combinados: o trabalhador tem até 2 anos depois do fim do contrato para ajuizar a ação e, nela, pode cobrar os últimos 5 anos.",
+"e": "5 anos / 2 anos."
+},
+{
+"p": "É permitido o trabalho noturno ao menor de dezoito anos, desde que na condição de aprendiz.",
+"c": false,
+"prof": "Vedado a todo menor de 18.",
+"x": "O art. 7º, XXXIII, proíbe trabalho noturno, perigoso ou insalubre a menores de 18 e qualquer trabalho a menores de 16, salvo como aprendiz a partir de 14. A ressalva do aprendiz refere-se apenas à idade mínima geral.",
+"e": "Noturno: só após 18."
+},
+{
+"p": "Segundo a Constituição, a duração do trabalho normal:",
+"alts": [
+"não pode ser superior a 10 horas diárias e 48 semanais",
+"não pode ser superior a 8 horas diárias e 44 semanais, facultada a compensação e a redução mediante acordo ou convenção coletiva",
+"é de 6 horas diárias para todos os trabalhadores",
+"não pode ser objeto de compensação",
+"é fixada livremente por contrato individual"
+],
+"r": 1,
+"n": [
+"Não é o limite.",
+"Correta: art. 7º, XIII.",
+"6 horas é para turnos ininterruptos de revezamento.",
+"A compensação é facultada.",
+"Há limite constitucional."
+],
+"prof": "8 e 44.",
+"x": "A jornada normal é de até 8 horas diárias e 44 semanais. Para turnos ininterruptos de revezamento, 6 horas, salvo negociação coletiva (XIV).",
+"e": "8 h / 44 h."
+},
+{
+"p": "A lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente.",
+"c": true,
+"prof": "Certo. Art. 8º, I.",
+"x": "A Constituição consagra a liberdade sindical, vedando interferência e intervenção do poder público. A unicidade sindical impede mais de um sindicato da mesma categoria na mesma base territorial, não inferior a um Município.",
+"e": "Sindicato: só registro."
+},
+{
+"p": "Os abusos cometidos no exercício do direito de greve não sujeitam os responsáveis às penas da lei, por se tratar de direito fundamental.",
+"c": false,
+"prof": "Sujeitam.",
+"x": "O art. 9º, § 2º, é expresso: os abusos cometidos sujeitam os responsáveis às penas da lei. Nenhum direito é absoluto.",
+"e": "Abuso na greve: punível."
+},
+{
+"p": "Segundo o STF, o direito de greve:",
+"alts": [
+"é assegurado aos policiais civis, nos termos da Lei 7.783/1989",
+"é vedado aos policiais civis e a todos os servidores que atuam diretamente na área de segurança pública",
+"é assegurado aos militares, desde que comunicado com 72 horas",
+"depende de autorização judicial prévia para qualquer servidor",
+"é vedado a todos os servidores públicos"
+],
+"r": 1,
+"n": [
+"O STF vedou.",
+"Correta: Tema 541.",
+"Militares são proibidos (art. 142, § 3º, IV).",
+"Não há essa exigência geral.",
+"Servidores civis em geral podem, nos termos da lei."
+],
+"prof": "Segurança pública e greve.",
+"x": "O STF (ARE 654.432) entendeu que o exercício do direito de greve, sob qualquer forma, é vedado aos policiais civis e a todos os servidores que atuem diretamente na segurança pública, sendo obrigatória a participação do poder público em mediação.",
+"e": "Policial: sem greve."
+},
+{
+"p": "Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores.",
+"c": true,
+"prof": "Certo. Art. 11.",
+"x": "O representante não se confunde com o dirigente sindical: ele atua dentro da empresa, para o diálogo direto.",
+"e": "Mais de 200: representante."
+},
+{
+"p": "O aposentado filiado não tem direito a votar nem a ser votado nas organizações sindicais.",
+"c": false,
+"prof": "Tem os dois direitos.",
+"x": "O art. 8º, VII, assegura ao aposentado filiado o direito de votar e ser votado nas organizações sindicais.",
+"e": "Aposentado vota e é votado."
+}
+]
+},
+"administracao-publica": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>LIMPE</b><span>princípios do art. 37: legalidade, impessoalidade, moralidade, publicidade e eficiência</span></div><div class=\"lt-stat\"><b>2 + 2</b><span>anos: validade máxima do concurso, prorrogável uma vez</span></div><div class=\"lt-stat\"><b>3</b><span>anos de efetivo exercício para a estabilidade</span></div><div class=\"lt-stat\"><b>75</b><span>anos: aposentadoria compulsória</span></div></div>\n<h3>1. Princípios expressos (art. 37, caput)</h3>\n<ul><li>\"A administração pública <b>direta e indireta</b> de <b>qualquer dos Poderes</b> da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de <b>legalidade</b>, <b>impessoalidade</b>, <b>moralidade</b>, <b>publicidade</b> e <b>eficiência</b>.\" (<b>LIMPE</b>; a eficiência veio com a <b>EC 19/1998</b>.)</li><li><b>Publicidade e promoção pessoal</b> (§ 1º): a publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter <b>educativo, informativo ou de orientação social</b>, dela <b>não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal</b> de autoridades ou servidores públicos.</li><li><b>SV 13 (nepotismo)</b>: a nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, <b>até o 3º grau</b>, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para cargo em comissão ou de confiança, viola a Constituição (inclusive o <b>nepotismo cruzado</b>). O STF excepciona, em regra, os <b>cargos políticos</b> (secretários, ministros), salvo fraude ou falta de qualificação.</li></ul>\n<h3>2. Acesso a cargos e concurso público (incisos I a IV)</h3>\n<ul><li><b>I</b> – cargos, empregos e funções públicas são acessíveis aos <b>brasileiros</b> que preencham os requisitos da lei, assim como aos <b>estrangeiros</b>, na forma da lei.</li><li><b>II</b> – a investidura em cargo ou emprego público depende de <b>aprovação prévia em concurso público de provas ou de provas e títulos</b>, de acordo com a natureza e a complexidade do cargo, <b>ressalvadas as nomeações para cargo em comissão</b> declarado em lei de <b>livre nomeação e exoneração</b>.</li><li><b>III</b> – o <b>prazo de validade</b> do concurso será de <b>até 2 anos</b>, <b>prorrogável uma vez, por igual período</b>.</li><li><b>IV</b> – durante o <b>prazo improrrogável</b> previsto no edital, o aprovado será <b>convocado com prioridade sobre novos concursados</b> para assumir o cargo na carreira.</li><li><b>§ 2º</b>: a não observância do concurso e do prazo de validade <b>implicará a nulidade do ato e a punição da autoridade responsável</b>.</li><li><b>Jurisprudência</b>: o candidato aprovado <b>dentro do número de vagas</b> tem <b>direito subjetivo à nomeação</b> (Tema 161 do STF); é inconstitucional o <b>provimento derivado</b> em cargo de carreira diversa sem concurso (<b>SV 43</b>); o exame <b>psicotécnico</b> só pode ser exigido se previsto em <b>lei</b>, com critérios objetivos (<b>SV 44</b>); <b>tatuagem</b> não pode, em regra, impedir o acesso (Tema 838).</li></ul>\n<h3>3. Cargos em comissão e funções de confiança (inciso V)</h3>\n<ul><li><b>Funções de confiança</b>: exercidas <b>exclusivamente por servidores ocupantes de cargo efetivo</b>. <b>Cargos em comissão</b>: preenchidos por servidores de carreira <b>nos casos, condições e percentuais mínimos previstos em lei</b>, podendo o restante ser de pessoas de fora. Ambos destinam-se <b>apenas às atribuições de direção, chefia e assessoramento</b>.</li><li>Por isso, <b>não</b> podem ser criados cargos em comissão para atribuições <b>técnicas, burocráticas ou operacionais permanentes</b> (STF, Tema 1.010). O cargo em comissão <b>dispensa concurso</b>.</li></ul>\n<h3>4. Greve, sindicalização, deficiência e contratação temporária (VI a IX)</h3>\n<ul><li><b>VI</b> – é garantido ao servidor <b>civil</b> o direito à <b>livre associação sindical</b>. <b>VII</b> – o direito de <b>greve</b> será exercido nos termos e nos limites definidos em <b>lei específica</b> (norma de eficácia limitada; aplica-se a Lei 7.783/1989, por decisão do STF em MI). Policiais: vedada (Tema 541).</li><li><b>VIII</b> – a lei reservará <b>percentual</b> dos cargos e empregos públicos para as <b>pessoas com deficiência</b>.</li><li><b>IX</b> – a lei estabelecerá os casos de <b>contratação por tempo determinado</b> para atender a <b>necessidade temporária de excepcional interesse público</b>.</li></ul>\n<h3>5. Remuneração e teto (X a XV)</h3>\n<ul><li><b>X</b> – a remuneração e o subsídio somente podem ser fixados ou alterados por <b>lei específica</b>, observada a iniciativa privativa em cada caso, assegurada <b>revisão geral anual</b>, <b>sempre na mesma data</b> e <b>sem distinção de índices</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Teto (inciso XI)</th><th>Limite</th></tr></thead><tbody><tr><td><b>Geral</b></td><td>subsídio mensal dos <b>Ministros do STF</b></td></tr><tr><td><b>Municípios</b></td><td>subsídio do <b>Prefeito</b></td></tr><tr><td><b>Estados e DF – Executivo</b></td><td>subsídio do <b>Governador</b></td></tr><tr><td><b>Estados e DF – Legislativo</b></td><td>subsídio dos <b>Deputados Estaduais e Distritais</b></td></tr><tr><td><b>Estados e DF – Judiciário</b></td><td>subsídio dos <b>Desembargadores do TJ</b>, limitado a <b>90,25%</b> do subsídio dos Ministros do STF; este limite vale também para os membros do <b>MP</b>, os <b>Procuradores</b> e os <b>Defensores Públicos</b></td></tr></tbody></table>\n<ul><li>O STF decidiu que os <b>procuradores municipais</b> se submetem ao teto do <b>subsídio dos desembargadores</b> (90,25% do STF), e não ao do Prefeito (RE 663.696). Os estados podem, por emenda à sua Constituição, adotar <b>subteto único</b> igual ao dos desembargadores (§ 12), exceto para deputados e vereadores.</li><li><b>XIII</b> – é <b>vedada a vinculação ou equiparação</b> de quaisquer espécies remuneratórias (<b>SV 37</b>: não cabe ao Judiciário aumentar vencimentos sob fundamento de isonomia). <b>XIV</b> – os <b>acréscimos pecuniários</b> percebidos por servidor <b>não serão computados nem acumulados</b> para fins de concessão de acréscimos ulteriores (\"efeito cascata\"). <b>XV</b> – o subsídio e os vencimentos são <b>irredutíveis</b>, ressalvado o teto.</li></ul>\n<h3>6. Acumulação de cargos (XVI e XVII)</h3>\n<ul><li>É <b>vedada</b> a acumulação remunerada de cargos públicos, <b>exceto, quando houver compatibilidade de horários</b>, observado o teto: a) a de <b>dois cargos de professor</b>; b) a de <b>um cargo de professor com outro técnico ou científico</b>; c) a de <b>dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas</b>. A proibição <b>estende-se</b> a empregos e funções na administração indireta (XVII).</li></ul>\n<h3>7. Administração indireta e outras regras (XIX a XXII e §§)</h3>\n<ul><li><b>XIX</b> – <b>somente por lei específica</b> poderá ser <b>criada autarquia</b> e <b>autorizada</b> a instituição de <b>empresa pública</b>, <b>sociedade de economia mista</b> e <b>fundação</b>, cabendo à <b>lei complementar</b> definir as áreas de atuação da fundação.</li><li><b>XXI</b> – ressalvados os casos especificados na legislação, obras, serviços, compras e alienações serão contratados mediante <b>processo de licitação pública</b> (Lei 14.133/2021).</li><li><b>§ 4º</b> – os atos de <b>improbidade administrativa</b> importarão a <b>suspensão dos direitos políticos</b>, a <b>perda da função pública</b>, a <b>indisponibilidade dos bens</b> e o <b>ressarcimento ao erário</b>, na forma e gradação previstas em lei, <b>sem prejuízo da ação penal cabível</b>.</li><li><b>§ 5º e Tema 897</b>: as ações de <b>ressarcimento</b> ao erário fundadas em ato <b>doloso</b> de improbidade são <b>imprescritíveis</b>.</li><li><b>§ 6º</b> – as pessoas jurídicas de direito público e as de direito privado <b>prestadoras de serviços públicos</b> responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de <b>regresso</b> contra o responsável nos casos de <b>dolo ou culpa</b> (responsabilidade <b>objetiva</b>, teoria do <b>risco administrativo</b>).</li></ul>\n<h3>8. Servidor e mandato eletivo (art. 38)</h3>\n<table class=\"tab\"><thead><tr><th>Mandato</th><th>Regra</th></tr></thead><tbody><tr><td><b>Federal, estadual ou distrital</b></td><td><b>afastado</b> do cargo</td></tr><tr><td><b>Prefeito</b></td><td><b>afastado</b>, sendo-lhe facultado <b>optar pela remuneração</b></td></tr><tr><td><b>Vereador</b></td><td><b>havendo compatibilidade de horários</b>, perceberá as <b>vantagens de seu cargo</b>, <b>sem prejuízo da remuneração do cargo eletivo</b> (acumula); <b>não havendo</b>, aplica-se a regra do Prefeito (afasta-se e opta)</td></tr></tbody></table>\n<ul><li>Em qualquer caso de afastamento, o tempo de serviço é contado para todos os efeitos, <b>exceto para promoção por merecimento</b>.</li></ul>\n<h3>9. Estabilidade, aposentadoria e despesa com pessoal (arts. 40, 41 e 169)</h3>\n<ul><li><b>Estabilidade</b> (art. 41): são estáveis após <b>3 anos de efetivo exercício</b> os servidores nomeados para cargo de <b>provimento efetivo</b> em virtude de concurso. <b>Condição</b> obrigatória: <b>avaliação especial de desempenho por comissão instituída para essa finalidade</b> (§ 4º).</li><li><b>Perda do cargo do estável</b>: I – <b>sentença judicial transitada em julgado</b>; II – <b>processo administrativo</b> com ampla defesa; III – <b>procedimento de avaliação periódica de desempenho</b>, na forma de <b>lei complementar</b>, assegurada ampla defesa; e ainda pelo <b>excesso de despesa com pessoal</b> (art. 169, § 4º).</li><li><b>Aposentadoria compulsória</b> (art. 40, § 1º, II): aos <b>70 anos</b>, ou aos <b>75 anos</b>, na forma de <b>lei complementar</b> (LC 152/2015 fixou <b>75 anos</b> para todos os servidores).</li><li><b>Despesa com pessoal</b> (art. 169): a despesa com pessoal ativo e inativo <b>não poderá exceder os limites estabelecidos em lei complementar</b> (LRF, LC 101/2000). Para cumprir os limites, adota-se esta <b>ordem</b>: <b>1º</b> – redução em <b>pelo menos 20%</b> das despesas com <b>cargos em comissão e funções de confiança</b>; <b>2º</b> – <b>exoneração dos servidores não estáveis</b>; <b>3º</b> – se ainda insuficiente, o servidor <b>estável</b> poderá perder o cargo, por ato normativo motivado, com <b>indenização de 1 remuneração por ano de serviço</b> (§§ 4º e 5º). O cargo objeto da redução será considerado <b>extinto</b>, <b>vedada a criação de cargo, emprego ou função com atribuições iguais ou assemelhadas pelo prazo de 4 anos</b> (§ 6º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Cargo em comissão depende de concurso</span><br>✅ <span class=\"certo\">Livre nomeação e exoneração.</span></li><li>❌ <span class=\"banca\">A revisão geral anual pode ter índices diferentes por carreira</span><br>✅ <span class=\"certo\">Mesma data e sem distinção de índices.</span></li><li>❌ <span class=\"banca\">O teto nos municípios é o subsídio do vereador</span><br>✅ <span class=\"certo\">É o do PREFEITO.</span></li><li>❌ <span class=\"banca\">Primeira medida do art. 169 é exonerar estáveis</span><br>✅ <span class=\"certo\">Primeiro: cortar 20% de comissionados e funções; depois não estáveis; por último, estáveis.</span></li><li>❌ <span class=\"banca\">Cargo extinto pode ser recriado no ano seguinte</span><br>✅ <span class=\"certo\">Vedado por 4 anos.</span></li><li>❌ <span class=\"banca\">Vereador sempre se afasta do cargo efetivo</span><br>✅ <span class=\"certo\">Com compatibilidade de horários, acumula.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípios do art. 37?</span></span><span class=\"vs\"><span><b>LIMPE</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Validade do concurso?</span></span><span class=\"vs\"><span><b>Até 2 anos</b>, prorrogável <b>uma vez</b> por igual período.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Funções de confiança?</span></span><span class=\"vs\"><span>Só <b>servidores efetivos</b>; direção, chefia e assessoramento.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Teto geral?</span></span><span class=\"vs\"><span>Subsídio dos <b>Ministros do STF</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Acumulações permitidas?</span></span><span class=\"vs\"><span><b>Dois de professor</b>; <b>professor + técnico/científico</b>; <b>dois de saúde</b> regulamentados.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Criação de autarquia?</span></span><span class=\"vs\"><span><b>Lei específica</b> (as demais entidades: lei específica <b>autoriza</b>).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estabilidade?</span></span><span class=\"vs\"><span><b>3 anos</b> + <b>avaliação especial</b> de desempenho.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ordem do art. 169?</span></span><span class=\"vs\"><span><b>20% comissionados</b> → <b>não estáveis</b> → <b>estáveis</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A propaganda da obra</b><p>A prefeitura de uma cidade mineira instala placas na nova UPA com a frase \"Mais uma obra do Prefeito João\" e a foto dele.</p><details><summary>Ver a solução comentada</summary><p>A publicidade oficial deve ter caráter <b>educativo, informativo ou de orientação social</b>, e dela <b>não podem constar nomes, símbolos ou imagens que caracterizem promoção pessoal</b> (art. 37, § 1º). A conduta viola os princípios da <b>impessoalidade</b> e da <b>moralidade</b> e pode configurar <b>improbidade administrativa</b> (Lei 8.429/1992, art. 11, XII), além de ilícito eleitoral, conforme o período.</p></details></div>",
+"quiz": [
+{
+"p": "A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+"c": true,
+"prof": "Certo. Art. 37, caput.",
+"x": "O princípio da eficiência foi incluído pela EC 19/1998. Os princípios valem para toda a Administração, inclusive a indireta e a dos Poderes Legislativo e Judiciário em suas funções administrativas.",
+"e": "LIMPE."
+},
+{
+"p": "A nomeação para cargo em comissão depende de aprovação prévia em concurso público.",
+"c": false,
+"prof": "É de livre nomeação e exoneração.",
+"x": "O art. 37, II, ressalva da exigência de concurso as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração, destinados a direção, chefia e assessoramento.",
+"e": "Comissão: sem concurso."
+},
+{
+"p": "O teto remuneratório no âmbito dos Municípios é o subsídio dos Vereadores.",
+"c": false,
+"prof": "É o do Prefeito.",
+"x": "O art. 37, XI, fixa como teto nos Municípios o subsídio do Prefeito. Os procuradores municipais, segundo o STF, submetem-se ao teto dos desembargadores.",
+"e": "Município: Prefeito."
+},
+{
+"p": "Os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores.",
+"c": true,
+"prof": "Certo. Art. 37, XIV.",
+"x": "A regra impede o \"efeito cascata\", em que uma gratificação incidiria sobre outra.",
+"e": "Sem efeito cascata."
+},
+{
+"p": "Para atender ao limite de gastos com pessoal, o art. 169 da Constituição prevê a seguinte ordem de medidas:",
+"alts": [
+"exoneração dos estáveis; exoneração dos não estáveis; redução dos comissionados",
+"redução de pelo menos 20% das despesas com cargos em comissão e funções de confiança; exoneração dos não estáveis; perda do cargo pelos estáveis",
+"exoneração dos não estáveis; redução dos comissionados; perda do cargo pelos estáveis",
+"redução de salários de todos os servidores",
+"demissão dos servidores em estágio probatório apenas"
+],
+"r": 1,
+"n": [
+"Ordem invertida.",
+"Correta: art. 169, §§ 3º e 4º.",
+"O corte de comissionados vem primeiro.",
+"A irredutibilidade impede.",
+"Não é a regra."
+],
+"prof": "Do mais precário ao mais protegido.",
+"x": "Primeiro se reduzem comissionados e funções de confiança (no mínimo 20%), depois se exoneram os não estáveis e, só se insuficiente, os estáveis, com indenização. O cargo extinto não pode ser recriado com atribuições iguais por 4 anos.",
+"e": "Comissionados → não estáveis → estáveis."
+},
+{
+"p": "É permitida a acumulação remunerada de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas, quando houver compatibilidade de horários.",
+"c": true,
+"prof": "Certo. Art. 37, XVI, \"c\".",
+"x": "As outras hipóteses são dois cargos de professor e um de professor com outro técnico ou científico. O teto se aplica a cada vínculo isoladamente, segundo o STF.",
+"e": "Dois de saúde: pode."
+},
+{
+"p": "O servidor público efetivo eleito Vereador:",
+"alts": [
+"deve afastar-se obrigatoriamente do cargo, sem opção de remuneração",
+"havendo compatibilidade de horários, perceberá as vantagens de seu cargo, sem prejuízo da remuneração do cargo eletivo",
+"deve sempre optar entre a remuneração do cargo e a do mandato",
+"perde o cargo efetivo",
+"só pode exercer o mandato se for estável"
+],
+"r": 1,
+"n": [
+"Não é a regra do vereador.",
+"Correta: art. 38, III.",
+"A opção é a regra do Prefeito, aplicável ao vereador só sem compatibilidade de horários.",
+"Não perde.",
+"Não há essa exigência."
+],
+"prof": "Vereador pode acumular.",
+"x": "Com compatibilidade de horários, o vereador acumula o cargo e o mandato, com as duas remunerações. Sem compatibilidade, afasta-se e opta pela remuneração, como o Prefeito.",
+"e": "Vereador com horário: acumula."
+},
+{
+"p": "Como condição para a aquisição da estabilidade, é obrigatória a avaliação especial de desempenho por comissão instituída para essa finalidade.",
+"c": true,
+"prof": "Certo. Art. 41, § 4º.",
+"x": "Além dos 3 anos de efetivo exercício em cargo efetivo provido por concurso, exige-se a avaliação especial de desempenho.",
+"e": "Estabilidade: 3 anos + avaliação."
+},
+{
+"p": "A criação de autarquia exige apenas autorização legislativa genérica, sendo a entidade criada por decreto.",
+"c": false,
+"prof": "A autarquia é criada por lei específica.",
+"x": "O art. 37, XIX, determina que somente por lei específica será criada autarquia. Para empresa pública, sociedade de economia mista e fundação, a lei específica autoriza a instituição.",
+"e": "Autarquia: criada por lei."
+}
+]
+},
+"legislativo": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>513</b><span>deputados federais (mínimo 8 e máximo 70 por Estado)</span></div><div class=\"lt-stat\"><b>81</b><span>senadores (3 por Estado e DF, mandato de 8 anos)</span></div><div class=\"lt-stat\"><b>1/3</b><span>dos membros para criar CPI</span></div><div class=\"lt-stat\"><b>15 dias úteis</b><span>prazo do Presidente para sancionar ou vetar</span></div></div>\n<h3>1. Estrutura: bicameralismo federativo</h3>\n<ul><li>O Poder Legislativo da União é exercido pelo <b>Congresso Nacional</b>, composto da <b>Câmara dos Deputados</b> (representantes do <b>povo</b>) e do <b>Senado Federal</b> (representantes dos <b>Estados e do DF</b>). Nos Estados, DF e Municípios, o Legislativo é <b>unicameral</b> (Assembleia, Câmara Legislativa e Câmara Municipal).</li></ul>\n<table class=\"tab\"><thead><tr><th>Casa</th><th>Câmara dos Deputados (art. 45)</th><th>Senado Federal (art. 46)</th></tr></thead><tbody><tr><td>Representa</td><td>o <b>povo</b></td><td>os <b>Estados e o DF</b></td></tr><tr><td>Sistema eleitoral</td><td><b>proporcional</b></td><td><b>majoritário</b></td></tr><tr><td>Número</td><td>proporcional à população; <b>nenhuma unidade terá menos de 8 nem mais de 70</b> deputados; cada <b>Território</b> elege <b>4</b></td><td><b>3 senadores</b> por Estado e DF, cada um com <b>2 suplentes</b></td></tr><tr><td>Mandato</td><td><b>4 anos</b> (uma legislatura)</td><td><b>8 anos</b> (duas legislaturas)</td></tr><tr><td>Renovação</td><td>total, a cada 4 anos</td><td><b>de 4 em 4 anos, alternadamente, por 1/3 e 2/3</b></td></tr><tr><td>Idade mínima</td><td><b>21 anos</b></td><td><b>35 anos</b></td></tr></tbody></table>\n<ul><li><b>Legislatura</b>: período de <b>4 anos</b>. <b>Sessão legislativa ordinária</b>: de <b>2 de fevereiro a 17 de julho</b> e de <b>1º de agosto a 22 de dezembro</b> (art. 57). A sessão <b>não será interrompida</b> sem a aprovação do projeto de <b>lei de diretrizes orçamentárias</b>.</li><li><b>Quórum</b>: salvo disposição constitucional em contrário, as deliberações de cada Casa e de suas comissões serão tomadas por <b>maioria dos votos, presente a maioria absoluta</b> de seus membros (art. 47).</li></ul>\n<h3>2. Competências</h3>\n<ul><li><b>Congresso Nacional</b> (art. 48, com sanção; art. 49, <b>exclusiva</b>, por <b>decreto legislativo</b>, sem sanção): resolver definitivamente sobre tratados que acarretem encargos ao patrimônio nacional; autorizar o Presidente a declarar guerra; <b>aprovar o estado de defesa e a intervenção federal, autorizar o estado de sítio</b>, ou suspender qualquer dessas medidas; <b>sustar os atos normativos do Executivo que exorbitem do poder regulamentar</b> ou dos limites de delegação legislativa; <b>julgar anualmente as contas</b> do Presidente; autorizar referendo e convocar plebiscito.</li><li><b>Câmara</b> (art. 51, privativa, por resolução): <b>autorizar, por 2/3 de seus membros, a instauração de processo contra o Presidente, o Vice e os Ministros de Estado</b>; proceder à tomada de contas do Presidente, quando não apresentadas no prazo.</li><li><b>Senado</b> (art. 52, privativa): <b>processar e julgar</b> o Presidente e o Vice nos <b>crimes de responsabilidade</b>, bem como os Ministros de Estado e os Comandantes das Forças Armadas nos crimes conexos; processar e julgar os <b>Ministros do STF</b>, os membros do CNJ e do CNMP, o <b>PGR</b> e o <b>AGU</b> nos crimes de responsabilidade; <b>aprovar previamente, por voto secreto, após arguição pública</b>, a escolha de magistrados (nos casos da CF), <b>Ministros do TCU</b> indicados pelo Presidente, Governador de Território, <b>presidente e diretores do Banco Central</b>, <b>Procurador-Geral da República</b> e outros cargos que a lei determinar; aprovar, por voto secreto, após arguição <b>em sessão secreta</b>, a escolha dos chefes de <b>missão diplomática</b> permanente; <b>suspender a execução</b> de lei declarada inconstitucional por decisão definitiva do STF (controle difuso, art. 52, X).</li></ul>\n<h3>3. Estatuto dos congressistas (art. 53)</h3>\n<ul><li><b>Imunidade material</b>: deputados e senadores são <b>invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos</b>, desde que ligados ao exercício do mandato (dentro do Congresso, a ligação é presumida).</li><li><b>Foro</b>: desde a <b>expedição do diploma</b>, são submetidos a julgamento perante o <b>STF</b>. Pelo entendimento do STF (AP 937 e posterior), o foro abrange crimes cometidos <b>no exercício do cargo e em razão das funções</b>, e se <b>mantém</b> mesmo após o fim do mandato quanto a esses fatos (entendimento firmado pelo STF em 2025).</li><li><b>Imunidade formal quanto à prisão</b> (§ 2º): desde a expedição do diploma, <b>não poderão ser presos, salvo em flagrante de crime inafiançável</b>. Nesse caso, os autos serão <b>remetidos dentro de 24 horas à Casa respectiva</b>, para que, pelo <b>voto da maioria de seus membros</b>, resolva sobre a prisão.</li><li><b>Imunidade formal quanto ao processo</b> (§ 3º): recebida a denúncia contra senador ou deputado por crime ocorrido <b>após a diplomação</b>, o STF <b>dará ciência à Casa</b>, que, por iniciativa de partido político nela representado e pelo voto da <b>maioria de seus membros</b>, poderá, até a decisão final, <b>sustar o andamento da ação</b>. A sustação <b>suspende a prescrição</b> enquanto durar o mandato.</li><li><b>Testemunho</b> (§ 6º): não são obrigados a testemunhar sobre informações recebidas ou prestadas em razão do mandato. <b>Estado de sítio</b> (§ 8º): as imunidades <b>subsistem</b> durante o sítio, só podendo ser <b>suspensas</b> mediante o voto de <b>2/3</b> dos membros da Casa, nos casos de atos praticados <b>fora do recinto</b> do Congresso que sejam incompatíveis com a execução da medida.</li><li><b>Deputados estaduais</b> têm as mesmas imunidades (art. 27, § 1º). <b>Vereadores</b> têm <b>somente a imunidade material</b>, nos limites da <b>circunscrição do Município</b> (art. 29, VIII): <b>não</b> têm imunidade formal nem foro no STF.</li></ul>\n<h3>4. Comissões parlamentares de inquérito (art. 58, § 3º)</h3>\n<ul><li>As CPIs terão <b>poderes de investigação próprios das autoridades judiciais</b>, além de outros previstos nos regimentos, e serão criadas pela Câmara e pelo Senado, em conjunto ou separadamente, <b>mediante requerimento de 1/3 de seus membros</b>, para a apuração de <b>fato determinado</b> e <b>por prazo certo</b>, sendo suas conclusões, se for o caso, encaminhadas ao <b>Ministério Público</b>, para que promova a responsabilidade civil ou criminal dos infratores.</li><li><b>Podem</b>: convocar testemunhas e investigados; <b>quebrar sigilo bancário, fiscal e de dados telefônicos (registros)</b>, por decisão fundamentada da maioria; requisitar documentos; determinar perícias. <b>Não podem</b> (<b>cláusula de reserva de jurisdição</b>): decretar <b>interceptação telefônica</b>, <b>busca domiciliar</b>, <b>prisão</b> (salvo em flagrante, como qualquer pessoa), indisponibilidade de bens, proibição de sair do país; nem julgar ou punir.</li><li>A criação, preenchidos os requisitos, é <b>direito da minoria</b>: o presidente da Casa não pode impedi-la (STF).</li></ul>\n<h3>5. Processo legislativo (arts. 59 a 69)</h3>\n<ul><li><b>Espécies normativas</b> (art. 59): <b>emendas à Constituição</b>, <b>leis complementares</b>, <b>leis ordinárias</b>, <b>leis delegadas</b>, <b>medidas provisórias</b>, <b>decretos legislativos</b> e <b>resoluções</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Fase</th><th>Regras</th></tr></thead><tbody><tr><td><b>Iniciativa</b> (art. 61)</td><td>qualquer membro ou comissão da Câmara, do Senado ou do Congresso; <b>Presidente da República</b>; <b>STF</b>; <b>Tribunais Superiores</b>; <b>PGR</b>; <b>cidadãos</b> (iniciativa popular). Iniciativa <b>privativa do Presidente</b> (§ 1º): fixar ou modificar os efetivos das Forças Armadas; criar cargos na administração direta e autárquica ou aumentar sua remuneração; servidores públicos da União e Territórios, seu regime jurídico e provimento; organização da DPU e do MPU (concorrente com o PGR); criação e extinção de Ministérios</td></tr><tr><td><b>Iniciativa popular</b> (§ 2º)</td><td>projeto subscrito por, no mínimo, <b>1% do eleitorado nacional</b>, distribuído por pelo menos <b>5 Estados</b>, com não menos de <b>0,3%</b> dos eleitores de cada um, apresentado à <b>Câmara</b></td></tr><tr><td><b>Casa iniciadora</b></td><td>em regra, a <b>Câmara</b> (projetos do Presidente, do STF, dos Tribunais Superiores, do PGR e populares começam por ela); projetos de senadores começam no Senado</td></tr><tr><td><b>Urgência</b> (art. 64)</td><td>o Presidente <b>pode solicitar urgência</b> para projetos <b>de sua iniciativa</b>: cada Casa tem <b>45 dias</b>; vencido o prazo, a matéria tranca a pauta</td></tr><tr><td><b>Revisão</b> (art. 65)</td><td>aprovado em uma Casa, vai à outra em <b>um só turno</b>; se a revisora <b>emendar</b>, volta à iniciadora; se <b>rejeitar</b>, é arquivado</td></tr><tr><td><b>Sanção e veto</b> (art. 66)</td><td>o Presidente tem <b>15 dias úteis</b> para <b>sancionar</b> ou <b>vetar</b> (total ou parcialmente); o <b>silêncio</b> importa <b>sanção tácita</b>; o veto deve ser comunicado ao Presidente do Senado em <b>48 horas</b>, com os motivos</td></tr><tr><td><b>Apreciação do veto</b></td><td>em <b>sessão conjunta</b>, dentro de <b>30 dias</b>; só pode ser <b>rejeitado</b> pelo voto da <b>maioria absoluta</b> dos deputados e senadores (votação aberta, desde a EC 76/2013)</td></tr><tr><td><b>Promulgação e publicação</b></td><td>pelo Presidente; se ele não promulgar em <b>48 horas</b>, o Presidente do Senado o fará; se este não o fizer em igual prazo, o <b>Vice-Presidente do Senado</b></td></tr></tbody></table>\n<ul><li><b>Veto parcial</b> só pode abranger texto <b>integral</b> de artigo, parágrafo, inciso ou alínea (não palavras isoladas). O veto é <b>expresso, motivado</b> (inconstitucionalidade ou contrariedade ao interesse público), <b>supressivo</b> e <b>superável</b>.</li><li><b>Reapresentação</b> (art. 67): a matéria de <b>projeto de lei rejeitado</b> só pode ser objeto de novo projeto <b>na mesma sessão legislativa</b> mediante proposta da <b>maioria absoluta</b> dos membros de qualquer das Casas.</li><li><b>Lei complementar x ordinária</b>: a LC exige <b>maioria absoluta</b> (art. 69) e é reservada às matérias que a Constituição expressamente indica; a ordinária, <b>maioria simples</b>. Não há hierarquia entre elas (o STF fala em campos materiais distintos).</li><li><b>Leis delegadas</b> (art. 68): elaboradas pelo <b>Presidente da República</b>, que deverá <b>solicitar a delegação ao Congresso Nacional</b>; a delegação tem a forma de <b>resolução</b> do Congresso, que especifica conteúdo e termos. <b>Não podem ser delegados</b>: atos de <b>competência exclusiva do Congresso</b>, os de competência <b>privativa da Câmara ou do Senado</b>, a <b>matéria reservada a lei complementar</b>, nem a legislação sobre <b>organização do Judiciário e do MP</b>, <b>nacionalidade, cidadania, direitos individuais, políticos e eleitorais</b>, e <b>planos plurianuais, diretrizes orçamentárias e orçamentos</b>. Se a resolução determinar <b>apreciação do projeto pelo Congresso</b>, este o fará em <b>votação única</b>, <b>vedada qualquer emenda</b>.</li><li><b>Medidas provisórias</b>: estudadas no tópico \"Poder Executivo\".</li></ul>\n<h3>6. Fiscalização e Tribunal de Contas (arts. 70 a 75)</h3>\n<ul><li>A fiscalização <b>contábil, financeira, orçamentária, operacional e patrimonial</b> da União é exercida pelo <b>Congresso</b>, mediante <b>controle externo</b>, e pelo sistema de <b>controle interno</b> de cada Poder. O controle externo conta com o auxílio do <b>TCU</b> (9 Ministros), que <b>aprecia</b> as contas do Presidente (<b>parecer prévio</b>, em 60 dias) e <b>julga</b> as contas dos demais administradores.</li><li><b>Municípios</b> (art. 31): a fiscalização é exercida pela <b>Câmara Municipal</b> (controle externo), com auxílio dos Tribunais de Contas; o <b>parecer prévio</b> sobre as contas do Prefeito <b>só deixará de prevalecer</b> por decisão de <b>2/3 dos membros da Câmara</b>; as contas dos Municípios ficam, <b>durante 60 dias, anualmente, à disposição de qualquer contribuinte</b>, para exame e apreciação, que poderá questionar-lhes a legitimidade; é <b>vedada a criação de novos Tribunais de Contas municipais</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Vereadores têm imunidade formal</span><br>✅ <span class=\"certo\">Só material, na circunscrição do município.</span></li><li>❌ <span class=\"banca\">Nenhum Estado terá menos de 10 deputados</span><br>✅ <span class=\"certo\">Mínimo 8, máximo 70.</span></li><li>❌ <span class=\"banca\">A CPI pode decretar interceptação telefônica</span><br>✅ <span class=\"certo\">Reserva de jurisdição.</span></li><li>❌ <span class=\"banca\">O veto é rejeitado por 2/3</span><br>✅ <span class=\"certo\">Maioria ABSOLUTA, em sessão conjunta.</span></li><li>❌ <span class=\"banca\">Matéria de lei complementar pode ser delegada</span><br>✅ <span class=\"certo\">Vedado.</span></li><li>❌ <span class=\"banca\">O Senado é renovado inteiramente a cada 8 anos</span><br>✅ <span class=\"certo\">A cada 4 anos, alternadamente, 1/3 e 2/3.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mínimo e máximo de deputados por Estado?</span></span><span class=\"vs\"><span><b>8 e 70</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mandato de senador?</span></span><span class=\"vs\"><span><b>8 anos</b>; renovação de <b>1/3 e 2/3</b> a cada 4 anos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem autoriza processo contra o Presidente?</span></span><span class=\"vs\"><span><b>Câmara</b>, por <b>2/3</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem julga o Presidente por crime de responsabilidade?</span></span><span class=\"vs\"><span><b>Senado</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prisão de parlamentar?</span></span><span class=\"vs\"><span>Só <b>flagrante de crime inafiançável</b>; autos à Casa em <b>24 h</b>; decide a <b>maioria</b> dos membros.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CPI?</span></span><span class=\"vs\"><span><b>1/3</b> dos membros, <b>fato determinado</b>, <b>prazo certo</b>; conclusões ao <b>MP</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Iniciativa popular?</span></span><span class=\"vs\"><span><b>1%</b> do eleitorado, <b>5 Estados</b>, <b>0,3%</b> em cada.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rejeição do veto?</span></span><span class=\"vs\"><span><b>Maioria absoluta</b>, sessão conjunta, em <b>30 dias</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A CPI que queria grampear</b><p>Uma CPI da Assembleia Legislativa que investiga desvios na saúde aprova requerimento para \"interceptar os telefones\" de um secretário e \"fazer busca e apreensão\" no gabinete dele.</p><details><summary>Ver a solução comentada</summary><p>A CPI tem poderes <b>de investigação próprios das autoridades judiciais</b>, mas <b>não</b> pode praticar atos sujeitos à <b>reserva de jurisdição</b>: <b>interceptação telefônica</b> (art. 5º, XII) e <b>busca domiciliar</b> (art. 5º, XI) dependem de <b>ordem judicial</b>. A CPI pode, por decisão fundamentada, <b>quebrar o sigilo dos registros telefônicos</b> (dados das ligações), bancário e fiscal, ouvir testemunhas e requisitar documentos.</p></details></div>",
+"quiz": [
+{
+"p": "Nenhuma unidade da Federação terá menos de oito ou mais de setenta Deputados.",
+"c": true,
+"prof": "Certo. Art. 45, § 1º.",
+"x": "O número total de deputados é fixado por lei complementar, proporcionalmente à população. Cada Território, se criado, elege quatro deputados.",
+"e": "8 a 70."
+},
+{
+"p": "Os vereadores gozam de imunidade formal quanto à prisão, nos mesmos moldes dos congressistas.",
+"c": false,
+"prof": "Vereadores só têm imunidade material.",
+"x": "O art. 29, VIII, garante aos vereadores inviolabilidade por opiniões, palavras e votos no exercício do mandato e na circunscrição do Município. Não há imunidade formal nem foro especial.",
+"e": "Vereador: só material."
+},
+{
+"p": "As comissões parlamentares de inquérito são criadas mediante requerimento de um terço dos membros, para apuração de fato determinado e por prazo certo.",
+"c": true,
+"prof": "Certo. Art. 58, § 3º.",
+"x": "Preenchidos os requisitos, a criação é direito da minoria parlamentar. As conclusões são encaminhadas ao Ministério Público, se for o caso.",
+"e": "CPI: 1/3, fato determinado, prazo certo."
+},
+{
+"p": "O veto presidencial a projeto de lei é rejeitado pelo voto:",
+"alts": [
+"de 2/3 dos membros de cada Casa, em sessões separadas",
+"de 3/5 dos membros, em dois turnos",
+"da maioria absoluta dos Deputados e Senadores, em sessão conjunta",
+"da maioria simples, presente a maioria absoluta",
+"do Presidente do Congresso"
+],
+"r": 2,
+"n": [
+"Não é o quórum.",
+"Esse é o quórum da PEC.",
+"Correta: art. 66, § 4º.",
+"Não é o quórum.",
+"Não há essa regra."
+],
+"prof": "Veto: sessão conjunta.",
+"x": "O veto é apreciado em sessão conjunta, dentro de 30 dias de seu recebimento, e só pode ser rejeitado pela maioria absoluta dos deputados e senadores. A votação é aberta.",
+"e": "Veto: maioria absoluta."
+},
+{
+"p": "Matéria reservada à lei complementar pode ser objeto de lei delegada, desde que a resolução do Congresso especifique seu conteúdo.",
+"c": false,
+"prof": "É vedado.",
+"x": "O art. 68, § 1º, proíbe a delegação de matéria reservada a lei complementar, de atos de competência exclusiva do Congresso ou privativa de suas Casas, e de outras matérias, como direitos individuais e orçamento.",
+"e": "LC não se delega."
+},
+{
+"p": "No caso de prisão em flagrante de parlamentar por crime inafiançável, os autos são remetidos em vinte e quatro horas à Casa respectiva, que, pelo voto da maioria de seus membros, resolverá sobre a prisão.",
+"c": true,
+"prof": "Certo. Art. 53, § 2º.",
+"x": "Desde a diplomação, o parlamentar só pode ser preso em flagrante de crime inafiançável. A votação na Casa é aberta.",
+"e": "Parlamentar preso: Casa decide em 24 h."
+},
+{
+"p": "A autorização para instaurar processo contra o Presidente da República é dada:",
+"alts": [
+"pelo Senado Federal, por maioria absoluta",
+"pela Câmara dos Deputados, por dois terços de seus membros",
+"pelo STF, por maioria absoluta",
+"pelo Congresso Nacional, em sessão conjunta",
+"pelo Procurador-Geral da República"
+],
+"r": 1,
+"n": [
+"O Senado julga nos crimes de responsabilidade.",
+"Correta: arts. 51, I, e 86.",
+"O STF julga nas infrações comuns, após autorização.",
+"Não é sessão conjunta.",
+"O PGR oferece denúncia nas infrações comuns."
+],
+"prof": "Câmara autoriza.",
+"x": "Tanto nos crimes comuns quanto nos de responsabilidade, a Câmara autoriza por 2/3. Depois, o STF julga os comuns e o Senado, os de responsabilidade.",
+"e": "Câmara: 2/3."
+},
+{
+"p": "A representação de cada Estado e do Distrito Federal no Senado é renovada de quatro em quatro anos, alternadamente, por um e dois terços.",
+"c": true,
+"prof": "Certo. Art. 46, § 2º.",
+"x": "Cada senador tem mandato de 8 anos. Em uma eleição renovam-se 27 cadeiras (1/3); na seguinte, 54 (2/3).",
+"e": "Senado: 1/3 e 2/3."
+},
+{
+"p": "Na CPI, a quebra de sigilo bancário e a interceptação telefônica podem ser determinadas por decisão fundamentada da maioria de seus membros.",
+"c": false,
+"prof": "A interceptação é reservada ao juiz.",
+"x": "A CPI pode quebrar os sigilos bancário, fiscal e de dados (registros telefônicos), mas não pode determinar interceptação telefônica, busca domiciliar nem prisão, que dependem de ordem judicial.",
+"e": "CPI: sem grampo."
+}
+]
+},
+"executivo": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>35</b><span>anos: idade mínima para Presidente e Vice</span></div><div class=\"lt-stat\"><b>5 de janeiro</b><span>posse do Presidente a partir de 2027 (EC 111/2021)</span></div><div class=\"lt-stat\"><b>60 + 60</b><span>dias de vigência da medida provisória</span></div><div class=\"lt-stat\"><b>180</b><span>dias: afastamento máximo do Presidente processado</span></div></div>\n<h3>1. Eleição, mandato e posse (arts. 76 a 83)</h3>\n<ul><li>O Poder Executivo é exercido pelo <b>Presidente da República</b>, auxiliado pelos <b>Ministros de Estado</b>. No presidencialismo, o Presidente é <b>chefe de Estado</b> e <b>chefe de Governo</b>.</li><li><b>Eleição</b> (art. 77): realiza-se, simultaneamente, no <b>primeiro domingo de outubro</b>, em primeiro turno, e no <b>último domingo de outubro</b>, em segundo turno, se houver. Será eleito o candidato que obtiver a <b>maioria absoluta de votos</b>, <b>não computados os em branco e os nulos</b>. Se ninguém a obtiver, há <b>segundo turno</b> entre os <b>dois mais votados</b>. A eleição do Presidente importa a do <b>Vice</b> com ele registrado.</li><li><b>Requisitos</b>: brasileiro <b>nato</b>, <b>35 anos</b>, pleno exercício dos direitos políticos, alistamento, domicílio eleitoral, filiação partidária.</li><li><b>Mandato</b>: <b>4 anos</b>, permitida <b>uma reeleição</b> para o período subsequente (EC 16/1997). <b>Posse</b> (EC 111/2021): o mandato começa em <b>5 de janeiro</b> do ano seguinte ao da eleição (regra aplicada a partir da posse de 2027; os Governadores tomam posse em <b>6 de janeiro</b>). Se o Presidente ou o Vice não assumir em <b>10 dias</b>, salvo força maior, o cargo é declarado vago.</li><li><b>Ausência do país</b> (art. 83): o Presidente e o Vice não podem ausentar-se do País <b>por mais de 15 dias</b> sem <b>licença do Congresso</b>, sob pena de perda do cargo.</li></ul>\n<h3>2. Substituição, sucessão e vacância (arts. 79 a 81)</h3>\n<ul><li>O <b>Vice</b> substitui o Presidente nos impedimentos (temporários) e o <b>sucede</b> na vaga (definitiva).</li><li><b>Impedimento ou vacância de ambos</b>: serão <b>sucessivamente chamados</b> ao exercício da Presidência: o <b>Presidente da Câmara</b>, o <b>Presidente do Senado</b> e o <b>Presidente do STF</b>. Eles apenas <b>exercem</b> a Presidência temporariamente.</li></ul>\n<table class=\"tab\"><thead><tr><th>Dupla vacância (art. 81)</th><th>Eleição</th></tr></thead><tbody><tr><td>Nos <b>dois primeiros anos</b> do mandato</td><td><b>direta</b>, <b>90 dias</b> depois de aberta a última vaga</td></tr><tr><td>Nos <b>dois últimos anos</b></td><td><b>indireta</b>, pelo <b>Congresso Nacional</b>, <b>30 dias</b> depois da última vaga, na forma da lei</td></tr><tr><td>Em ambos os casos</td><td>os eleitos apenas <b>completam o período</b> dos antecessores (<b>mandato-tampão</b>)</td></tr></tbody></table>\n<h3>3. Atribuições do Presidente (art. 84)</h3>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Competência privativa (destaques)</th></tr></thead><tbody><tr><td>I</td><td>nomear e exonerar os <b>Ministros de Estado</b></td></tr><tr><td>III</td><td>iniciar o processo legislativo</td></tr><tr><td><b>IV</b></td><td><b>sancionar, promulgar e fazer publicar as leis</b>, bem como <b>expedir decretos e regulamentos</b> para sua fiel execução</td></tr><tr><td><b>V</b></td><td><b>vetar</b> projetos de lei, total ou parcialmente</td></tr><tr><td><b>VI</b></td><td>dispor, mediante <b>decreto</b>, sobre: a) <b>organização e funcionamento da administração federal</b>, quando <b>não implicar aumento de despesa nem criação ou extinção de órgãos públicos</b>; b) <b>extinção de funções ou cargos públicos, quando vagos</b> (decreto autônomo)</td></tr><tr><td>VII e VIII</td><td>manter relações com Estados estrangeiros; <b>celebrar tratados</b>, sujeitos a referendo do Congresso</td></tr><tr><td>IX e X</td><td>decretar o <b>estado de defesa</b> e o <b>estado de sítio</b>; decretar e executar a <b>intervenção federal</b></td></tr><tr><td>XII</td><td><b>conceder indulto e comutar penas</b></td></tr><tr><td><b>XIII</b></td><td>exercer o <b>comando supremo das Forças Armadas</b>, nomear os Comandantes</td></tr><tr><td>XIV</td><td>nomear, após aprovação pelo Senado, os Ministros do STF e dos Tribunais Superiores, os Governadores de Territórios, o <b>PGR</b>, o presidente e os diretores do Banco Central</td></tr><tr><td>XIX</td><td><b>declarar guerra</b>, no caso de agressão estrangeira, autorizado pelo Congresso</td></tr><tr><td>XXVI</td><td>editar <b>medidas provisórias</b> com força de lei</td></tr></tbody></table>\n<ul><li><b>Delegação</b> (parágrafo único): o Presidente <b>pode delegar</b> as atribuições dos incisos <b>VI</b> (decretos autônomos), <b>XII</b> (indulto) e <b>XXV</b>, primeira parte (<b>prover</b> cargos públicos), aos <b>Ministros de Estado</b>, ao <b>PGR</b> ou ao <b>AGU</b>.</li></ul>\n<h3>4. Responsabilidade do Presidente (arts. 85 e 86)</h3>\n<ul><li><b>Crimes de responsabilidade</b> (art. 85): atos do Presidente que <b>atentem contra a Constituição</b> e, especialmente, contra: a existência da União; o <b>livre exercício dos Poderes</b> e do MP; o exercício dos direitos políticos, individuais e sociais; a segurança interna; a <b>probidade na administração</b>; a <b>lei orçamentária</b>; o cumprimento das leis e das decisões judiciais. São definidos em <b>lei especial</b> (Lei 1.079/1950), de competência da União (<b>SV 46</b>).</li></ul>\n<table class=\"tab\"><thead><tr><th>Etapa</th><th>Infrações comuns</th><th>Crimes de responsabilidade</th></tr></thead><tbody><tr><td><b>Autorização</b></td><td><b>Câmara</b>, por <b>2/3</b></td><td><b>Câmara</b>, por <b>2/3</b></td></tr><tr><td><b>Julgamento</b></td><td><b>STF</b></td><td><b>Senado Federal</b>, sob a presidência do <b>Presidente do STF</b></td></tr><tr><td><b>Afastamento</b></td><td>após o <b>recebimento da denúncia ou queixa</b> pelo STF</td><td>após a <b>instauração do processo</b> pelo Senado</td></tr><tr><td><b>Condenação</b></td><td>pena do crime</td><td><b>2/3</b> dos votos do Senado: <b>perda do cargo</b> e <b>inabilitação por 8 anos</b> para função pública</td></tr></tbody></table>\n<ul><li><b>Prazo do afastamento</b> (art. 86, § 2º): se, <b>decorrido o prazo de 180 dias</b>, o julgamento <b>não estiver concluído</b>, <b>cessará o afastamento</b>, sem prejuízo do regular prosseguimento do processo.</li><li><b>Imunidade à prisão</b> (§ 3º): enquanto não sobrevier <b>sentença condenatória</b>, nas infrações comuns, o Presidente <b>não estará sujeito a prisão</b>.</li><li><b>Irresponsabilidade relativa</b> (§ 4º): o Presidente, <b>na vigência de seu mandato</b>, <b>não pode ser responsabilizado por atos estranhos ao exercício de suas funções</b> (as investigações sobre esses atos aguardam o fim do mandato, mas a prescrição fica suspensa).</li><li>Essas imunidades <b>não</b> se estendem aos Governadores. O STF também declarou inconstitucional a exigência de autorização da Assembleia Legislativa para processar o Governador por crime comum (ADI 5.540).</li></ul>\n<h3>5. Medidas provisórias (art. 62)</h3>\n<ul><li>Em caso de <b>relevância e urgência</b>, o Presidente poderá adotar medidas provisórias, <b>com força de lei</b>, devendo submetê-las <b>de imediato ao Congresso Nacional</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Regra</th><th>Conteúdo</th></tr></thead><tbody><tr><td><b>Vigência</b></td><td><b>60 dias</b>, <b>prorrogável uma vez por igual período</b> (total de 120); o prazo <b>suspende-se durante o recesso</b> parlamentar</td></tr><tr><td><b>Urgência</b> (§ 6º)</td><td>se não for apreciada em até <b>45 dias</b> contados de sua publicação, entra em <b>regime de urgência</b> em cada Casa, <b>sobrestando</b> as demais deliberações legislativas (trancamento de pauta, que, segundo o STF, alcança só os projetos de lei ordinária sobre matérias que podem ser objeto de MP)</td></tr><tr><td><b>Votação</b></td><td>começa na <b>Câmara</b>; uma <b>comissão mista</b> emite parecer antes do plenário de cada Casa</td></tr><tr><td><b>Perda de eficácia</b></td><td>se não convertida em lei no prazo, perde a eficácia <b>desde a edição</b> (ex tunc); o Congresso disciplina as relações jurídicas dela decorrentes por <b>decreto legislativo</b>, em <b>60 dias</b>; se não editar, as relações constituídas durante sua vigência continuam regidas por ela</td></tr><tr><td><b>Reedição</b></td><td>é <b>vedada</b> a reedição, <b>na mesma sessão legislativa</b>, de MP que tenha sido <b>rejeitada</b> ou perdido a eficácia por decurso de prazo</td></tr><tr><td><b>Impostos</b> (§ 2º)</td><td>MP que implique <b>instituição ou majoração de impostos</b> (salvo II, IE, IPI, IOF e imposto extraordinário de guerra) <b>só produzirá efeitos no exercício financeiro seguinte se houver sido convertida em lei até o último dia daquele em que foi editada</b></td></tr></tbody></table>\n<ul><li><b>Matérias vedadas</b> (§ 1º): <b>nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral</b>; <b>direito penal, processual penal e processual civil</b>; organização do Judiciário e do MP, carreira e garantias de seus membros; planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais (ressalvado o crédito extraordinário); detenção ou <b>sequestro de bens, de poupança popular</b> ou qualquer outro ativo financeiro; matéria reservada a <b>lei complementar</b>; matéria já disciplinada em projeto aprovado pelo Congresso e pendente de sanção ou veto. Também é vedada MP para regulamentar artigo cuja redação tenha sido alterada por <b>emenda promulgada entre 1995 e a EC 32/2001</b> (art. 246).</li><li><b>Estados</b> podem prever MP em suas Constituições, seguindo o modelo federal (STF). É <b>vedado</b> aos Estados editar MP para regulamentar a exploração dos <b>serviços locais de gás canalizado</b> (art. 25, § 2º).</li></ul>\n<h3>6. Ministros e Conselhos</h3>\n<ul><li><b>Ministros de Estado</b> (art. 87): escolhidos entre <b>brasileiros maiores de 21 anos</b> e no exercício dos direitos políticos (o <b>Ministro da Defesa</b> deve ser <b>brasileiro nato</b>). Referendam os atos do Presidente na sua área.</li><li><b>Conselho da República</b> (art. 89): órgão superior de <b>consulta</b> do Presidente; pronuncia-se sobre <b>intervenção federal, estado de defesa e estado de sítio</b> e questões relevantes para a estabilidade das instituições. Inclui o Vice, os presidentes da Câmara e do Senado, os líderes da maioria e da minoria nas duas Casas, o Ministro da Justiça e <b>6 cidadãos brasileiros natos</b> com mais de 35 anos.</li><li><b>Conselho de Defesa Nacional</b> (art. 91): consulta sobre <b>soberania nacional e defesa do Estado democrático</b>; opina sobre declaração de guerra e celebração da paz, decretação dos estados de exceção e intervenção federal, e uso de <b>áreas indispensáveis à segurança do território</b> (faixa de fronteira). As manifestações dos dois Conselhos <b>não vinculam</b> o Presidente.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O mandato do Presidente começa em 1º de janeiro</span><br>✅ <span class=\"certo\">A partir de 2027, em 5 de janeiro (EC 111/2021).</span></li><li>❌ <span class=\"banca\">A MP perde a eficácia em 30 dias</span><br>✅ <span class=\"certo\">60 + 60 dias.</span></li><li>❌ <span class=\"banca\">Em dupla vacância nos dois últimos anos, há eleição direta</span><br>✅ <span class=\"certo\">Indireta, pelo Congresso, em 30 dias.</span></li><li>❌ <span class=\"banca\">O Presidente pode delegar a sanção de leis</span><br>✅ <span class=\"certo\">Só os incisos VI, XII e XXV (1ª parte).</span></li><li>❌ <span class=\"banca\">O afastamento do Presidente é por tempo indeterminado</span><br>✅ <span class=\"certo\">Cessa após 180 dias sem julgamento.</span></li><li>❌ <span class=\"banca\">MP pode tratar de direito penal</span><br>✅ <span class=\"certo\">Vedado (art. 62, § 1º, I, \"b\").</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eleição presidencial?</span></span><span class=\"vs\"><span><b>1º domingo de outubro</b> (1º turno) e <b>último domingo de outubro</b> (2º).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Maioria absoluta conta brancos e nulos?</span></span><span class=\"vs\"><span><b>Não</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Linha sucessória?</span></span><span class=\"vs\"><span>Vice → <b>Presidente da Câmara</b> → <b>do Senado</b> → <b>do STF</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dupla vacância?</span></span><span class=\"vs\"><span><b>2 primeiros anos</b>: direta em 90 dias; <b>2 últimos</b>: indireta em 30 dias.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Delegáveis?</span></span><span class=\"vs\"><span>Decreto autônomo (VI), <b>indulto</b> (XII), <b>prover</b> cargos (XXV).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento máximo?</span></span><span class=\"vs\"><span><b>180 dias</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MP: prazo e urgência?</span></span><span class=\"vs\"><span><b>60 + 60</b>; urgência após <b>45 dias</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Condenação no Senado?</span></span><span class=\"vs\"><span><b>2/3</b>: perda do cargo + <b>inabilitação por 8 anos</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A medida provisória do porte de arma</b><p>O Presidente edita MP que cria um novo crime de porte de arma em escolas e aumenta a pena do porte ilegal.</p><details><summary>Ver a solução comentada</summary><p>A MP é <b>inconstitucional</b>: o art. 62, § 1º, I, \"b\", <b>veda</b> medida provisória sobre <b>direito penal</b> e <b>processual penal</b>. Crime e pena só podem ser criados por <b>lei em sentido estrito</b> (reserva legal). O STF admite MP penal apenas quando <b>beneficia</b> o réu.</p></details></div>",
+"quiz": [
+{
+"p": "A eleição do Presidente e do Vice-Presidente realiza-se no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver.",
+"c": true,
+"prof": "Certo. Art. 77.",
+"x": "Será eleito o candidato que obtiver a maioria absoluta dos votos válidos (não computados brancos e nulos). Se ninguém a obtiver, os dois mais votados disputam o segundo turno.",
+"e": "1º e último domingo de outubro."
+},
+{
+"p": "As medidas provisórias perdem a eficácia, desde a edição, se não forem convertidas em lei no prazo de trinta dias.",
+"c": false,
+"prof": "O prazo é de 60 dias, prorrogável por mais 60.",
+"x": "Pelo art. 62, § 3º, a MP perde a eficácia se não convertida em lei em 60 dias, prorrogáveis uma vez por igual período. O prazo se suspende no recesso.",
+"e": "MP: 60 + 60."
+},
+{
+"p": "Em caso de vacância dos cargos de Presidente e Vice-Presidente nos dois últimos anos do mandato:",
+"alts": [
+"assume definitivamente o Presidente da Câmara",
+"far-se-á eleição direta noventa dias depois da última vaga",
+"a eleição será feita trinta dias depois da última vaga, pelo Congresso Nacional",
+"assume o Presidente do STF até o fim do mandato",
+"convoca-se plebiscito"
+],
+"r": 2,
+"n": [
+"Ele só exerce temporariamente.",
+"A direta é nos dois primeiros anos.",
+"Correta: art. 81, § 1º.",
+"Ele só exerce temporariamente.",
+"Não há essa previsão."
+],
+"prof": "Últimos dois anos: indireta.",
+"x": "Nos dois primeiros anos, a eleição é direta, em 90 dias; nos dois últimos, indireta, pelo Congresso, em 30 dias. Os eleitos completam o período dos antecessores.",
+"e": "Fim do mandato: eleição indireta."
+},
+{
+"p": "Se, decorrido o prazo de cento e oitenta dias, o julgamento não estiver concluído, cessará o afastamento do Presidente, sem prejuízo do regular prosseguimento do processo.",
+"c": true,
+"prof": "Certo. Art. 86, § 2º.",
+"x": "O Presidente é afastado após o recebimento da denúncia pelo STF (infrações comuns) ou após a instauração do processo pelo Senado (crimes de responsabilidade). O afastamento não pode passar de 180 dias.",
+"e": "Afastamento: 180 dias."
+},
+{
+"p": "O Presidente da República pode delegar aos Ministros de Estado, ao PGR ou ao AGU a competência para:",
+"alts": [
+"sancionar e vetar leis",
+"exercer o comando supremo das Forças Armadas",
+"conceder indulto e comutar penas",
+"editar medidas provisórias",
+"decretar estado de sítio"
+],
+"r": 2,
+"n": [
+"Indelegável.",
+"Indelegável.",
+"Correta: art. 84, XII e parágrafo único.",
+"Indelegável.",
+"Indelegável."
+],
+"prof": "VI, XII e XXV.",
+"x": "O parágrafo único do art. 84 permite delegar as atribuições dos incisos VI (decretos autônomos), XII (indulto e comutação) e XXV, primeira parte (prover cargos).",
+"e": "Indulto: delegável."
+},
+{
+"p": "Compete privativamente ao Presidente da República exercer o comando supremo das Forças Armadas.",
+"c": true,
+"prof": "Certo. Art. 84, XIII.",
+"x": "O Presidente também nomeia os Comandantes da Marinha, do Exército e da Aeronáutica e promove seus oficiais-generais.",
+"e": "Comandante supremo: Presidente."
+},
+{
+"p": "É permitida a edição de medida provisória para regulamentar a exploração dos serviços locais de gás canalizado pelos Estados.",
+"c": false,
+"prof": "É vedado.",
+"x": "O art. 25, § 2º, atribui aos Estados a exploração dos serviços locais de gás canalizado, vedada a edição de medida provisória para sua regulamentação.",
+"e": "Gás canalizado: sem MP."
+},
+{
+"p": "Medida provisória que implique majoração do imposto de renda:",
+"alts": [
+"produz efeitos imediatamente",
+"só produzirá efeitos no exercício financeiro seguinte se houver sido convertida em lei até o último dia daquele em que foi editada",
+"é vedada em qualquer hipótese",
+"só produz efeitos após 90 dias",
+"depende de aprovação por maioria absoluta"
+],
+"r": 1,
+"n": [
+"Não é a regra.",
+"Correta: art. 62, § 2º.",
+"Não é vedada.",
+"Não é a regra do § 2º.",
+"Não há essa exigência."
+],
+"prof": "MP tributária.",
+"x": "A regra vale para impostos em geral, exceto II, IE, IPI, IOF e o imposto extraordinário de guerra. A anterioridade nonagesimal também deve ser observada, conforme o tributo.",
+"e": "MP de imposto: conversão no mesmo ano."
+},
+{
+"p": "Enquanto não sobrevier sentença condenatória, o Governador de Estado não estará sujeito a prisão nas infrações comuns, por simetria com o Presidente da República.",
+"c": false,
+"prof": "A imunidade é exclusiva do Presidente.",
+"x": "O STF entende que as imunidades do art. 86, §§ 3º e 4º, são prerrogativas do Chefe de Estado e não podem ser estendidas aos Governadores pelas Constituições estaduais.",
+"e": "Imunidade à prisão: só Presidente."
+}
+]
+},
+"judiciario": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>11</b><span>Ministros do STF (35 a 70 anos)</span></div><div class=\"lt-stat\"><b>33</b><span>Ministros do STJ, no mínimo</span></div><div class=\"lt-stat\"><b>15</b><span>membros do CNJ, mandato de 2 anos</span></div><div class=\"lt-stat\"><b>3 anos</b><span>de atividade jurídica para ingressar na magistratura</span></div></div>\n<h3>1. Órgãos (art. 92)</h3>\n<ul><li>São órgãos do Poder Judiciário: o <b>STF</b>; o <b>CNJ</b>; o <b>STJ</b>; o <b>TST</b>; os <b>TRFs</b> e juízes federais; os <b>TRTs</b> e juízes do trabalho; os <b>TREs</b> e juízes eleitorais; os <b>Tribunais e juízes militares</b>; os <b>Tribunais e juízes dos Estados e do DF</b>. O STF e os Tribunais Superiores têm sede na <b>Capital Federal</b>, e jurisdição em todo o território nacional.</li><li>O <b>CNJ</b> é órgão do Judiciário, mas <b>não tem função jurisdicional</b>: faz o <b>controle administrativo, financeiro e disciplinar</b> do Judiciário e <b>não</b> tem competência sobre o <b>STF</b> (ADI 3.367).</li></ul>\n<h3>2. Estatuto da magistratura (art. 93)</h3>\n<ul><li><b>Ingresso</b> na carreira: o cargo inicial é o de <b>juiz substituto</b>, mediante <b>concurso público de provas e títulos</b>, com a <b>participação da OAB</b> em todas as fases, exigindo-se do <b>bacharel em direito</b>, no mínimo, <b>3 anos de atividade jurídica</b>.</li><li><b>Publicidade e fundamentação</b> (IX): <b>todos os julgamentos</b> dos órgãos do Judiciário serão <b>públicos</b>, e <b>fundamentadas todas as decisões</b>, <b>sob pena de nulidade</b>, podendo a lei limitar a presença, em determinados atos, às partes e a seus advogados, ou somente a estes, em casos nos quais a preservação da intimidade não prejudique o interesse público à informação.</li><li><b>Atividade jurisdicional ininterrupta</b>: vedadas <b>férias coletivas</b> nos juízos e tribunais de segundo grau; funcionará <b>plantão permanente</b>. A distribuição de processos será <b>imediata</b>.</li></ul>\n<h3>3. Garantias e vedações (art. 95)</h3>\n<table class=\"tab\"><thead><tr><th>Garantia</th><th>Conteúdo</th></tr></thead><tbody><tr><td><b>Vitaliciedade</b></td><td>no <b>primeiro grau</b>, adquirida após <b>2 anos de exercício</b>; a perda do cargo depende, nesse período, de deliberação do tribunal e, após, de <b>sentença judicial transitada em julgado</b>. Nos tribunais (inclusive pelo quinto), a vitaliciedade é adquirida na posse</td></tr><tr><td><b>Inamovibilidade</b></td><td>salvo por motivo de <b>interesse público</b>, por decisão da <b>maioria absoluta</b> do tribunal ou do CNJ, assegurada ampla defesa</td></tr><tr><td><b>Irredutibilidade de subsídio</b></td><td>ressalvados o teto e os tributos</td></tr></tbody></table>\n<ul><li><b>Vedações</b> (parágrafo único): exercer, ainda que em disponibilidade, <b>outro cargo ou função, salvo uma de magistério</b>; receber custas ou participação em processo; dedicar-se à <b>atividade político-partidária</b>; receber auxílios ou contribuições de pessoas físicas ou entidades, ressalvadas as exceções legais; <b>exercer a advocacia no juízo ou tribunal do qual se afastou, antes de decorridos 3 anos</b> do afastamento por aposentadoria ou exoneração (<b>quarentena</b>).</li><li><b>Autonomia</b> (art. 99): ao Poder Judiciário é assegurada <b>autonomia administrativa e financeira</b>. Os tribunais elaboram suas propostas orçamentárias dentro dos limites da LDO.</li></ul>\n<h3>4. Quinto constitucional (art. 94)</h3>\n<ul><li><b>1/5</b> dos lugares dos <b>TRFs</b>, dos <b>TJs</b> e do <b>TJDFT</b> será composto de membros do <b>Ministério Público</b> com mais de <b>10 anos de carreira</b> e de <b>advogados</b> de <b>notório saber jurídico e reputação ilibada</b>, com mais de <b>10 anos de efetiva atividade profissional</b>, indicados em <b>lista sêxtupla</b> pelos órgãos de representação das respectivas classes. Recebidas as indicações, o <b>tribunal forma lista tríplice</b> e a envia ao <b>Poder Executivo</b>, que, <b>nos 20 dias subsequentes</b>, escolherá um de seus integrantes para nomeação.</li></ul>\n<h3>5. STF (arts. 101 a 103-B)</h3>\n<ul><li><b>Composição</b>: <b>11 Ministros</b>, escolhidos dentre cidadãos com <b>mais de 35 e menos de 70 anos</b> de idade (EC 122/2022), de <b>notável saber jurídico</b> e <b>reputação ilibada</b>, nomeados pelo <b>Presidente da República</b>, depois de aprovada a escolha pela <b>maioria absoluta do Senado</b>. Exige-se ser <b>brasileiro nato</b> (art. 12, § 3º, IV). <b>Não se exige</b> formação em Direito no texto, mas o notável saber jurídico.</li><li><b>Competência originária</b> (art. 102, I, destaques): ADI, ADC, ADO e ADPF; nas <b>infrações penais comuns</b>, o <b>Presidente</b>, o <b>Vice</b>, os membros do <b>Congresso</b>, seus próprios Ministros e o <b>PGR</b>; nas infrações comuns e nos crimes de responsabilidade, os <b>Ministros de Estado</b> e os <b>Comandantes das Forças Armadas</b> (ressalvado o art. 52, I), os membros dos <b>Tribunais Superiores</b>, do <b>TCU</b> e os chefes de missão diplomática permanente; <b>habeas corpus</b> quando o paciente for alguma dessas pessoas; <b>extradição</b> solicitada por Estado estrangeiro; litígio entre Estado estrangeiro e a União, Estado ou DF; <b>conflitos entre a União e os Estados</b>.</li><li><b>Recurso extraordinário</b> (III): contra causas decididas em <b>única ou última instância</b> que contrariem a Constituição, declarem a inconstitucionalidade de tratado ou lei federal, julguem válida lei ou ato de governo local contestado em face da CF ou julguem válida lei local contestada em face de lei federal. O recorrente deve demonstrar a <b>repercussão geral</b> das questões constitucionais (§ 3º); o STF só pode <b>recusar</b> o recurso por manifestação de <b>2/3</b> de seus membros.</li><li><b>Súmula vinculante</b> (art. 103-A): aprovada pelo STF, de ofício ou por provocação, por <b>2/3</b> dos membros, após <b>reiteradas decisões</b> sobre matéria constitucional; vincula os demais órgãos do <b>Judiciário</b> e a <b>administração pública direta e indireta</b>, nas esferas federal, estadual e municipal (<b>não</b> vincula o <b>Legislativo</b> na função de legislar). Contra ato que a contrarie cabe <b>reclamação</b> ao STF.</li></ul>\n<h3>6. CNJ, STJ e demais tribunais</h3>\n<ul><li><b>CNJ</b> (art. 103-B): compõe-se de <b>15 membros</b>, com <b>mandato de 2 anos</b>, <b>admitida 1 recondução</b>; é presidido pelo <b>Presidente do STF</b>. Inclui magistrados, membros do MP, advogados e <b>2 cidadãos de notável saber jurídico e reputação ilibada</b>, indicados um pela Câmara e outro pelo Senado. Pode <b>receber reclamações</b> contra membros do Judiciário, <b>avocar processos disciplinares</b> e aplicar sanções administrativas (remoção, disponibilidade, aposentadoria com subsídios proporcionais).</li><li><b>STJ</b> (art. 104): compõe-se de, <b>no mínimo, 33 Ministros</b>, nomeados pelo Presidente, dentre brasileiros com <b>mais de 35 e menos de 70 anos</b>, depois de aprovada a escolha pela <b>maioria absoluta do Senado</b>: <b>1/3 juízes dos TRFs</b>, <b>1/3 desembargadores dos TJs</b> (lista tríplice do STJ) e <b>1/3</b> divididos igualmente entre <b>advogados</b> e membros do <b>MP</b>. Julga o <b>recurso especial</b> (contrariedade a <b>lei federal</b>; desde a EC 125/2022, exige-se demonstração da <b>relevância</b> das questões de direito federal) e, originariamente, nos crimes comuns, os <b>Governadores</b> e, nos comuns e de responsabilidade, os <b>desembargadores</b>, os membros dos Tribunais de Contas dos Estados e os do MPU que oficiem perante tribunais.</li><li><b>Justiça Federal</b> (art. 109): julga, entre outras, as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas; <b>crimes políticos</b> e infrações penais <b>em detrimento de bens, serviços ou interesse da União</b> e de suas autarquias e empresas públicas (excluídas contravenções); crimes previstos em <b>tratado</b> quando iniciada a execução no País e o resultado ocorreu ou devia ocorrer no exterior (tráfico transnacional); <b>graves violações de direitos humanos</b>, mediante <b>incidente de deslocamento de competência</b> suscitado pelo <b>PGR</b> perante o <b>STJ</b> (§ 5º); crimes cometidos a bordo de <b>navios ou aeronaves</b>, ressalvada a competência militar; crimes contra a <b>organização do trabalho</b>; ingresso ou permanência irregular de estrangeiro; disputa sobre <b>direitos indígenas</b>.</li><li><b>Justiça Estadual</b> (art. 125): competência <b>residual</b>. A <b>Justiça Militar estadual</b> julga os <b>militares dos Estados</b> nos crimes militares definidos em lei e as ações judiciais contra <b>atos disciplinares</b> militares, ressalvada a competência do <b>Júri</b> quando a vítima for <b>civil</b> (crime doloso contra a vida). Em Minas Gerais, há <b>Tribunal de Justiça Militar</b> (efetivo militar superior a 20 mil integrantes, § 3º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O STF tem 15 Ministros</span><br>✅ <span class=\"certo\">Tem 11 (15 é o CNJ).</span></li><li>❌ <span class=\"banca\">Para a magistratura bastam 2 anos de prática</span><br>✅ <span class=\"certo\">São 3 anos de atividade jurídica.</span></li><li>❌ <span class=\"banca\">A súmula vinculante obriga o Legislativo a legislar conforme ela</span><br>✅ <span class=\"certo\">Não vincula a função legislativa.</span></li><li>❌ <span class=\"banca\">O CNJ controla o STF</span><br>✅ <span class=\"certo\">O STF não se submete ao CNJ.</span></li><li>❌ <span class=\"banca\">No quinto, o tribunal escolhe o nome</span><br>✅ <span class=\"certo\">O tribunal forma a lista tríplice; o Executivo escolhe em 20 dias.</span></li><li>❌ <span class=\"banca\">A vitaliciedade do juiz é imediata</span><br>✅ <span class=\"certo\">No 1º grau, após 2 anos.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ministros do STF?</span></span><span class=\"vs\"><span><b>11</b>, de <b>35 a 70 anos</b>, nato, aprovação por <b>maioria absoluta</b> do Senado.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>STJ?</span></span><span class=\"vs\"><span><b>No mínimo 33</b> Ministros.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CNJ?</span></span><span class=\"vs\"><span><b>15</b> membros, <b>2 anos</b>, <b>1 recondução</b>, presidido pelo <b>Presidente do STF</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ingresso na magistratura?</span></span><span class=\"vs\"><span>Juiz substituto, concurso de provas e títulos com OAB, <b>3 anos</b> de atividade jurídica.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quarentena?</span></span><span class=\"vs\"><span><b>3 anos</b> para advogar no juízo de onde saiu.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quinto constitucional?</span></span><span class=\"vs\"><span>Lista <b>sêxtupla</b> da classe → <b>tríplice</b> do tribunal → <b>Executivo</b> em <b>20 dias</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Súmula vinculante?</span></span><span class=\"vs\"><span><b>2/3</b> do STF; vincula Judiciário e Administração.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Recusa de repercussão geral?</span></span><span class=\"vs\"><span><b>2/3</b> dos membros.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O crime no avião</b><p>Durante voo doméstico de Belo Horizonte a Brasília, um passageiro agride uma comissária de bordo, causando lesão corporal. A aeronave pousa e o agressor é preso pela PF.</p><details><summary>Ver a solução comentada</summary><p>O art. 109, IX, atribui à <b>Justiça Federal</b> os crimes cometidos <b>a bordo de aeronaves</b>, ressalvada a competência da Justiça Militar. Como a aeronave estava em voo, a competência é <b>federal</b>, mesmo que o crime não atinja bens da União. A investigação cabe à <b>Polícia Federal</b> (polícia judiciária da União).</p></details></div>",
+"quiz": [
+{
+"p": "O ingresso na carreira da magistratura, cujo cargo inicial é o de juiz substituto, ocorre mediante concurso público de provas e títulos, com a participação da OAB em todas as fases, exigindo-se do bacharel em direito, no mínimo, três anos de atividade jurídica.",
+"c": true,
+"prof": "Certo. Art. 93, I.",
+"x": "A exigência de três anos de atividade jurídica foi introduzida pela EC 45/2004 e se aplica também ao Ministério Público (art. 129, § 3º).",
+"e": "Magistratura: 3 anos."
+},
+{
+"p": "O número de Ministros do STF é:",
+"alts": [
+"9",
+"11",
+"15",
+"33",
+"variável, fixado em lei"
+],
+"r": 1,
+"n": [
+"Não é o número.",
+"Correta: art. 101.",
+"É o número do CNJ.",
+"É o mínimo do STJ.",
+"O número é fixado na Constituição."
+],
+"prof": "Composição do STF.",
+"x": "O STF compõe-se de onze Ministros, brasileiros natos, com mais de 35 e menos de 70 anos, de notável saber jurídico e reputação ilibada, nomeados pelo Presidente após aprovação pela maioria absoluta do Senado.",
+"e": "STF: 11."
+},
+{
+"p": "No quinto constitucional, o tribunal forma lista tríplice a partir da lista sêxtupla enviada pelos órgãos de classe e a encaminha ao Poder Executivo, que, nos vinte dias subsequentes, escolhe um de seus integrantes.",
+"c": true,
+"prof": "Certo. Art. 94, parágrafo único.",
+"x": "Concorrem membros do MP com mais de 10 anos de carreira e advogados com mais de 10 anos de efetiva atividade, de notório saber jurídico e reputação ilibada.",
+"e": "Sêxtupla → tríplice → 20 dias."
+},
+{
+"p": "O CNJ compõe-se de onze membros, com mandato de quatro anos, vedada a recondução.",
+"c": false,
+"prof": "São 15 membros, 2 anos, uma recondução.",
+"x": "O art. 103-B prevê 15 membros, mandato de 2 anos, admitida 1 recondução, sob a presidência do Presidente do STF.",
+"e": "CNJ: 15, 2 anos."
+},
+{
+"p": "É vedado aos juízes exercer a advocacia no juízo ou tribunal do qual se afastaram antes de decorridos três anos do afastamento do cargo por aposentadoria ou exoneração.",
+"c": true,
+"prof": "Certo. Art. 95, parágrafo único, V.",
+"x": "É a chamada quarentena, incluída pela EC 45/2004. Regra semelhante vale para os membros do MP (art. 128, § 6º).",
+"e": "Quarentena: 3 anos."
+},
+{
+"p": "A súmula vinculante aprovada pelo STF:",
+"alts": [
+"vincula todos os Poderes, inclusive o Legislativo na função de legislar",
+"vincula os demais órgãos do Judiciário e a administração pública direta e indireta, em todas as esferas",
+"depende de aprovação do Senado",
+"é aprovada por maioria absoluta",
+"só pode ser editada a pedido do PGR"
+],
+"r": 1,
+"n": [
+"Não vincula a função legislativa.",
+"Correta: art. 103-A.",
+"Não depende.",
+"Exige 2/3.",
+"Pode ser editada de ofício ou por provocação dos legitimados."
+],
+"prof": "Alcance da súmula vinculante.",
+"x": "A súmula vinculante exige 2/3 dos membros do STF, reiteradas decisões sobre matéria constitucional e vincula Judiciário e Administração. Contra ato que a contrarie, cabe reclamação ao STF.",
+"e": "SV: Judiciário + Administração."
+},
+{
+"p": "Todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade.",
+"c": true,
+"prof": "Certo. Art. 93, IX.",
+"x": "A lei pode limitar a presença em determinados atos às partes e a seus advogados, quando a preservação da intimidade não prejudicar o interesse público à informação.",
+"e": "Decisão sem fundamento: nula."
+},
+{
+"p": "Compete ao STF processar e julgar, originariamente, os Governadores dos Estados nas infrações penais comuns.",
+"c": false,
+"prof": "Compete ao STJ.",
+"x": "O art. 105, I, \"a\", atribui ao STJ o julgamento dos Governadores nas infrações penais comuns. Nos crimes de responsabilidade, a competência é de tribunal especial previsto na Lei 1.079/1950.",
+"e": "Governador: STJ."
+},
+{
+"p": "Compete à Justiça Federal processar e julgar:",
+"alts": [
+"o furto de celular em agência dos Correios franqueada a particular",
+"os crimes cometidos a bordo de aeronaves, ressalvada a competência da Justiça Militar",
+"as contravenções penais praticadas contra bens da União",
+"todos os crimes de tráfico de drogas",
+"o homicídio de servidor estadual"
+],
+"r": 1,
+"n": [
+"A agência franqueada é particular; a competência é estadual.",
+"Correta: art. 109, IX.",
+"Contravenções são excluídas (art. 109, IV).",
+"Só o tráfico transnacional.",
+"Não há interesse federal."
+],
+"prof": "Competência federal.",
+"x": "A Justiça Federal julga crimes em detrimento de bens, serviços ou interesse da União, crimes políticos, crimes previstos em tratado com caráter transnacional, crimes a bordo de navios ou aeronaves e outros do art. 109. Contravenções vão sempre à Justiça Estadual.",
+"e": "A bordo de aeronave: federal."
+}
+]
+},
+"funcoes-essenciais": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>ramos do MPU: MPF, MPT, MPM e MPDFT</span></div><div class=\"lt-stat\"><b>2 anos</b><span>mandato do PGR, permitida recondução</span></div><div class=\"lt-stat\"><b>14</b><span>membros do CNMP</span></div><div class=\"lt-stat\"><b>3</b><span>princípios institucionais do MP: unidade, indivisibilidade e independência funcional</span></div></div>\n<h3>1. Ministério Público (arts. 127 a 130-A)</h3>\n<ul><li>O MP é <b>instituição permanente</b>, <b>essencial à função jurisdicional</b> do Estado, incumbindo-lhe a <b>defesa da ordem jurídica</b>, do <b>regime democrático</b> e dos <b>interesses sociais e individuais indisponíveis</b>. Não é Poder; tem <b>autonomia funcional e administrativa</b> e elabora sua proposta orçamentária.</li><li><b>Princípios institucionais</b> (§ 1º): <b>unidade</b> (os membros integram um só órgão, sob uma chefia), <b>indivisibilidade</b> (os membros podem substituir-se sem alteração do processo) e <b>independência funcional</b> (o membro só se submete à lei e à sua consciência; a hierarquia é apenas administrativa).</li></ul>\n<table class=\"tab\"><thead><tr><th>Estrutura (art. 128)</th><th>Ramos</th></tr></thead><tbody><tr><td><b>MP da União</b> (chefe: <b>PGR</b>)</td><td><b>MP Federal</b>, <b>MP do Trabalho</b>, <b>MP Militar</b> e <b>MP do DF e Territórios</b></td></tr><tr><td><b>MP dos Estados</b> (chefe: <b>Procurador-Geral de Justiça</b>)</td><td>um em cada Estado</td></tr></tbody></table>\n<ul><li>O <b>MP junto aos Tribunais de Contas</b> <b>não</b> integra o MP comum: é órgão da estrutura do Tribunal de Contas, mas a seus membros aplicam-se as disposições sobre <b>direitos, vedações e forma de investidura</b> do MP (art. 130).</li><li><b>PGR</b>: nomeado pelo <b>Presidente da República</b> dentre integrantes da carreira, <b>maiores de 35 anos</b>, após aprovação de seu nome pela <b>maioria absoluta do Senado</b>, para mandato de <b>2 anos</b>, <b>permitida a recondução</b> (sem limite de vezes). Sua <b>destituição</b>, por iniciativa do Presidente, depende de autorização da <b>maioria absoluta do Senado</b>.</li><li><b>PGJ</b> (Estados): o MP forma <b>lista tríplice</b> dentre integrantes da carreira; o <b>Governador</b> nomeia para mandato de <b>2 anos</b>, permitida <b>uma recondução</b>. A destituição depende de deliberação da <b>maioria absoluta da Assembleia Legislativa</b>.</li><li><b>Garantias</b> dos membros: <b>vitaliciedade</b> (após <b>2 anos</b> de exercício), <b>inamovibilidade</b> (salvo interesse público, por decisão do órgão colegiado competente, por <b>maioria absoluta</b>) e <b>irredutibilidade de subsídio</b>. <b>Vedações</b>: receber honorários ou custas; <b>exercer a advocacia</b>; participar de sociedade comercial; exercer outra função pública, <b>salvo uma de magistério</b>; <b>atividade político-partidária</b>; quarentena de <b>3 anos</b>. Ingresso por concurso de provas e títulos, com OAB, exigindo-se <b>3 anos de atividade jurídica</b>.</li></ul>\n<h3>2. Funções institucionais do MP (art. 129)</h3>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Função</th></tr></thead><tbody><tr><td><b>I</b></td><td><b>promover, privativamente, a ação penal pública</b>, na forma da lei</td></tr><tr><td>II</td><td>zelar pelo efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos direitos assegurados na Constituição</td></tr><tr><td><b>III</b></td><td>promover o <b>inquérito civil</b> e a <b>ação civil pública</b>, para a proteção do <b>patrimônio público e social</b>, do <b>meio ambiente</b> e de outros <b>interesses difusos e coletivos</b></td></tr><tr><td>IV</td><td>promover a ação de inconstitucionalidade ou representação para fins de <b>intervenção</b></td></tr><tr><td>V</td><td>defender judicialmente os direitos e interesses das <b>populações indígenas</b></td></tr><tr><td>VI</td><td>expedir notificações e requisitar informações e documentos</td></tr><tr><td><b>VII</b></td><td>exercer o <b>controle externo da atividade policial</b></td></tr><tr><td><b>VIII</b></td><td><b>requisitar diligências investigatórias</b> e a <b>instauração de inquérito policial</b>, indicados os fundamentos jurídicos de suas manifestações</td></tr><tr><td>IX</td><td>outras funções compatíveis com sua finalidade, <b>vedada a representação judicial e a consultoria jurídica de entidades públicas</b></td></tr></tbody></table>\n<ul><li><b>§ 1º</b>: a legitimação do MP para as <b>ações civis</b> previstas neste artigo <b>não impede a de terceiros</b> (Defensoria, entes públicos, associações também propõem ação civil pública).</li><li><b>Investigação pelo MP</b>: o STF (Tema 184, RE 593.727) reconheceu que o MP <b>pode promover, por autoridade própria, investigações de natureza penal</b>, respeitados os direitos do investigado, as prerrogativas dos advogados, a reserva de jurisdição e com prazo razoável, sujeitas a controle judicial e documentadas (o que o STF reforçou em 2024 ao fixar parâmetros para os PICs).</li><li><b>Controle externo da atividade policial</b>: o MP fiscaliza a legalidade dos atos da polícia (visitas a delegacias, acesso a documentos, requisição de informações), <b>sem subordinação hierárquica</b> da polícia ao MP.</li></ul>\n<h3>3. CNMP (art. 130-A)</h3>\n<ul><li>Compõe-se de <b>14 membros</b>, nomeados pelo Presidente da República, depois de aprovada a escolha pela <b>maioria absoluta do Senado</b>, para mandato de <b>2 anos</b>, admitida <b>uma recondução</b>. É <b>presidido pelo PGR</b>. Faz o <b>controle da atuação administrativa e financeira</b> do MP e do cumprimento dos deveres funcionais de seus membros.</li></ul>\n<h3>4. Advocacia Pública (arts. 131 e 132)</h3>\n<ul><li><b>AGU</b>: representa a <b>União</b>, judicial e extrajudicialmente, e presta <b>consultoria e assessoramento jurídico</b> ao Executivo. Chefe: <b>Advogado-Geral da União</b>, de <b>livre nomeação</b> pelo Presidente dentre cidadãos <b>maiores de 35 anos</b>, de notável saber jurídico e reputação ilibada (não precisa ser da carreira nem passar pelo Senado). Na <b>execução da dívida ativa tributária</b>, a União é representada pela <b>Procuradoria-Geral da Fazenda Nacional</b>.</li><li><b>Procuradores dos Estados e do DF</b>: organizados em carreira, com ingresso por <b>concurso de provas e títulos</b>, com <b>participação da OAB</b> em todas as fases; adquirem <b>estabilidade após 3 anos</b> de efetivo exercício, mediante avaliação de desempenho.</li><li><b>Honorários de sucumbência</b>: o STF considerou <b>constitucional</b> o recebimento de honorários de sucumbência pelos advogados públicos, <b>observado o teto</b> remuneratório (ADI 6.053).</li></ul>\n<h3>5. Advocacia e Defensoria Pública (arts. 133 a 135)</h3>\n<ul><li><b>Advocacia</b> (art. 133): o <b>advogado é indispensável à administração da justiça</b>, sendo <b>inviolável</b> por seus atos e manifestações no exercício da profissão, nos limites da lei. Há exceções em que se dispensa advogado: <b>habeas corpus</b>, Juizados Especiais (em certos limites), Justiça do Trabalho (<i>jus postulandi</i>).</li><li><b>Defensoria Pública</b> (art. 134): instituição permanente, essencial à função jurisdicional, incumbida da <b>orientação jurídica</b>, da promoção dos <b>direitos humanos</b> e da <b>defesa</b>, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, <b>de forma integral e gratuita</b>, aos <b>necessitados</b> (art. 5º, LXXIV). Princípios: <b>unidade, indivisibilidade e independência funcional</b> (EC 80/2014). As Defensorias estaduais têm <b>autonomia funcional e administrativa</b> e iniciativa de sua proposta orçamentária. Os defensores têm <b>inamovibilidade</b> e são <b>vedados de exercer a advocacia</b> fora das atribuições institucionais.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O MP é o quarto Poder</span><br>✅ <span class=\"certo\">É instituição permanente, essencial à Justiça, sem ser Poder.</span></li><li>❌ <span class=\"banca\">O PGR pode ser reconduzido só uma vez</span><br>✅ <span class=\"certo\">Permitida a recondução (sem limite); o PGJ é que tem uma recondução.</span></li><li>❌ <span class=\"banca\">O MP junto ao Tribunal de Contas integra o MP comum</span><br>✅ <span class=\"certo\">É do Tribunal de Contas, com as regras de direitos, vedações e investidura do MP.</span></li><li>❌ <span class=\"banca\">A legitimidade do MP para ação civil pública é exclusiva</span><br>✅ <span class=\"certo\">Não impede a de terceiros.</span></li><li>❌ <span class=\"banca\">O AGU é escolhido entre membros da carreira com aprovação do Senado</span><br>✅ <span class=\"certo\">Livre nomeação, maior de 35 anos.</span></li><li>❌ <span class=\"banca\">O MP não pode investigar crimes</span><br>✅ <span class=\"certo\">Pode (STF, Tema 184).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípios do MP?</span></span><span class=\"vs\"><span><b>Unidade, indivisibilidade, independência funcional</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ramos do MPU?</span></span><span class=\"vs\"><span><b>MPF, MPT, MPM, MPDFT</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>PGR?</span></span><span class=\"vs\"><span>Carreira, <b>35+</b>, <b>maioria absoluta</b> do Senado, <b>2 anos</b>, recondução permitida.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>PGJ?</span></span><span class=\"vs\"><span><b>Lista tríplice</b>, Governador, <b>2 anos</b>, <b>uma</b> recondução.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CNMP?</span></span><span class=\"vs\"><span><b>14</b> membros, presidido pelo <b>PGR</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Função privativa do MP?</span></span><span class=\"vs\"><span><b>Ação penal pública</b> (art. 129, I).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Controle externo da polícia?</span></span><span class=\"vs\"><span><b>MP</b> (art. 129, VII).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>AGU?</span></span><span class=\"vs\"><span><b>Livre nomeação</b>, maior de 35 anos.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A visita do promotor à delegacia</b><p>Um promotor de justiça comparece a uma delegacia do interior, pede para ver o livro de registro de presos e os inquéritos em andamento e requisita a instauração de inquérito sobre um fato que chegou à Promotoria. O escrivão diz que só o delegado regional poderia autorizar.</p><details><summary>Ver a solução comentada</summary><p>O MP exerce o <b>controle externo da atividade policial</b> (art. 129, VII) e pode <b>requisitar</b> a instauração de inquérito e diligências (VIII). O acesso a registros e procedimentos é parte desse controle (LC 75/1993 e Resolução 20/2007 do CNMP). Não há subordinação hierárquica: o delegado mantém a <b>condução técnica</b> da investigação, mas não pode negar o acesso nem descumprir a requisição sem fundamento legal.</p></details></div>",
+"quiz": [
+{
+"p": "O Ministério Público abrange o Ministério Público da União, que compreende o MPF, o MPT, o MPM e o MPDFT, e os Ministérios Públicos dos Estados.",
+"c": true,
+"prof": "Certo. Art. 128.",
+"x": "O MP junto aos Tribunais de Contas não integra essa estrutura, embora seus membros tenham os mesmos direitos, vedações e forma de investidura.",
+"e": "MPU: quatro ramos."
+},
+{
+"p": "O Procurador-Geral da República é nomeado pelo Presidente da República:",
+"alts": [
+"livremente, dentre advogados com mais de 10 anos de prática",
+"dentre lista tríplice elaborada pelo MPF, para mandato de 4 anos",
+"dentre integrantes da carreira, maiores de 35 anos, após aprovação pela maioria absoluta do Senado, para mandato de 2 anos, permitida a recondução",
+"dentre membros do MP com mais de 10 anos de carreira, para mandato vitalício",
+"após aprovação de 2/3 do Senado, para mandato de 2 anos, vedada a recondução"
+],
+"r": 2,
+"n": [
+"Deve ser da carreira.",
+"Não há lista tríplice constitucional nem mandato de 4 anos.",
+"Correta: art. 128, § 1º.",
+"O mandato é de 2 anos.",
+"É maioria absoluta e a recondução é permitida."
+],
+"prof": "PGR: carreira + Senado.",
+"x": "O PGR é escolhido pelo Presidente dentre integrantes da carreira, maiores de 35 anos, com aprovação da maioria absoluta do Senado, para mandato de 2 anos, permitida a recondução. A lista tríplice existe só para o PGJ dos Estados.",
+"e": "PGR: 2 anos, recondução."
+},
+{
+"p": "É função institucional do Ministério Público promover o inquérito civil e a ação civil pública para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos.",
+"c": true,
+"prof": "Certo. Art. 129, III.",
+"x": "A legitimação do MP para essas ações não impede a de terceiros (art. 129, § 1º).",
+"e": "Inquérito civil e ACP."
+},
+{
+"p": "A legitimação do Ministério Público para as ações civis previstas no art. 129 da Constituição é exclusiva, impedindo a atuação de terceiros.",
+"c": false,
+"prof": "Não é exclusiva.",
+"x": "O § 1º do art. 129 diz expressamente que a legitimação do MP não impede a de terceiros, nas mesmas hipóteses.",
+"e": "ACP: legitimação concorrente."
+},
+{
+"p": "O Conselho Nacional do Ministério Público compõe-se de quatorze membros e é presidido pelo Procurador-Geral da República.",
+"c": true,
+"prof": "Certo. Art. 130-A.",
+"x": "Os membros são nomeados pelo Presidente da República, após aprovação pela maioria absoluta do Senado, para mandato de 2 anos, admitida uma recondução.",
+"e": "CNMP: 14, PGR."
+},
+{
+"p": "Aos membros do Ministério Público junto aos Tribunais de Contas não se aplicam as disposições sobre direitos, vedações e forma de investidura do Ministério Público comum.",
+"c": false,
+"prof": "Aplicam-se.",
+"x": "O art. 130 estende aos membros do MP de Contas as disposições sobre direitos, vedações e forma de investidura do MP, embora o órgão integre a estrutura do Tribunal de Contas.",
+"e": "MP de Contas: mesmas regras."
+},
+{
+"p": "Segundo o STF, é constitucional o recebimento de honorários de sucumbência pelos advogados públicos, observado o teto remuneratório.",
+"c": true,
+"prof": "Certo. ADI 6.053.",
+"x": "O STF entendeu que os honorários são verba de natureza remuneratória e, por isso, devem respeitar o teto do art. 37, XI.",
+"e": "Honorários: sim, com teto."
+},
+{
+"p": "Exercer o controle externo da atividade policial é função institucional:",
+"alts": [
+"do Poder Judiciário",
+"da Defensoria Pública",
+"do Ministério Público",
+"do Tribunal de Contas",
+"da Corregedoria de Polícia"
+],
+"r": 2,
+"n": [
+"Não é função constitucional do Judiciário.",
+"Não é.",
+"Correta: art. 129, VII.",
+"Não é.",
+"A Corregedoria faz o controle interno."
+],
+"prof": "Controle externo.",
+"x": "O MP exerce o controle externo da atividade policial, sem hierarquia sobre a polícia. As corregedorias de polícia fazem o controle interno, disciplinar e correicional.",
+"e": "Controle externo: MP."
+},
+{
+"p": "O Advogado-Geral da União é nomeado dentre membros da carreira, após aprovação de seu nome pela maioria absoluta do Senado Federal.",
+"c": false,
+"prof": "É de livre nomeação.",
+"x": "O art. 131, § 1º, prevê que o AGU é de livre nomeação pelo Presidente dentre cidadãos maiores de 35 anos, de notável saber jurídico e reputação ilibada, sem sabatina no Senado.",
+"e": "AGU: livre nomeação."
+}
+]
+},
+"defesa-estado": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>30 + 30</b><span>dias: duração máxima do estado de defesa</span></div><div class=\"lt-stat\"><b>10 dias</b><span>prazo máximo da prisão no estado de defesa sem autorização judicial</span></div><div class=\"lt-stat\"><b>30</b><span>dias por vez: estado de sítio por comoção grave</span></div><div class=\"lt-stat\"><b>6</b><span>incisos do art. 144 com os órgãos de segurança pública (o VI, das polícias penais, veio com a EC 104/2019)</span></div></div>\n<h3>1. Sistema constitucional de crises</h3>\n<ul><li>O Título V trata da <b>defesa do Estado e das instituições democráticas</b>: dois <b>estados de exceção</b> (estado de <b>defesa</b> e estado de <b>sítio</b>), as <b>Forças Armadas</b> e a <b>segurança pública</b>. Os estados de exceção seguem os princípios da <b>necessidade</b> (só em situação grave), da <b>temporariedade</b> (prazo certo) e da <b>proporcionalidade</b> (medidas na medida do necessário), e são submetidos a <b>controle político</b> (Congresso) e <b>jurisdicional</b> (Judiciário, quanto à legalidade das medidas).</li></ul>\n<h3>2. Estado de defesa (art. 136)</h3>\n<table class=\"tab\"><thead><tr><th>Aspecto</th><th>Regra</th></tr></thead><tbody><tr><td><b>Hipóteses</b></td><td>preservar ou prontamente restabelecer, em <b>locais restritos e determinados</b>, a <b>ordem pública</b> ou a <b>paz social</b> ameaçadas por <b>grave e iminente instabilidade institucional</b> ou atingidas por <b>calamidades de grandes proporções na natureza</b></td></tr><tr><td><b>Quem decreta</b></td><td>o <b>Presidente da República</b>, <b>ouvidos</b> o Conselho da República e o Conselho de Defesa Nacional (opinião não vinculante)</td></tr><tr><td><b>Controle do Congresso</b></td><td>o decreto é submetido em <b>24 horas</b> ao Congresso, que decide por <b>maioria absoluta</b> em <b>10 dias</b>; se estiver em <b>recesso</b>, será <b>convocado extraordinariamente em 5 dias</b>. Rejeitado, cessa imediatamente</td></tr><tr><td><b>Conteúdo do decreto</b></td><td>determinará o <b>tempo de duração</b>, especificará as <b>áreas abrangidas</b> e indicará as <b>medidas coercitivas</b></td></tr><tr><td><b>Duração</b></td><td><b>não superior a 30 dias</b>, <b>prorrogável uma vez</b>, por igual período</td></tr></tbody></table>\n<ul><li><b>Medidas coercitivas possíveis</b>: restrições aos direitos de <b>reunião</b> (ainda que exercida no seio das associações), <b>sigilo de correspondência</b>, <b>sigilo de comunicação telegráfica e telefônica</b>; e, na calamidade pública, <b>ocupação e uso temporário de bens e serviços públicos</b>, respondendo a União pelos danos.</li><li><b>Prisão</b> (§ 3º): a prisão por <b>crime contra o Estado</b>, determinada pelo <b>executor</b> da medida, será por ele <b>comunicada imediatamente ao juiz</b>, que a <b>relaxará se não for legal</b>, facultado ao preso requerer <b>exame de corpo de delito</b>; a comunicação será acompanhada de declaração do estado físico e mental do detido; a prisão <b>não poderá ser superior a 10 dias</b>, salvo quando autorizada pelo Judiciário; é <b>vedada a incomunicabilidade</b> do preso.</li></ul>\n<h3>3. Estado de sítio (arts. 137 a 139)</h3>\n<table class=\"tab\"><thead><tr><th>Aspecto</th><th>Sítio por comoção (art. 137, I)</th><th>Sítio por guerra (art. 137, II)</th></tr></thead><tbody><tr><td><b>Hipótese</b></td><td><b>comoção grave de repercussão nacional</b> ou ocorrência de fatos que comprovem a <b>ineficácia</b> de medida tomada durante o <b>estado de defesa</b></td><td><b>declaração de estado de guerra</b> ou resposta a <b>agressão armada estrangeira</b></td></tr><tr><td><b>Controle</b></td><td>o Presidente <b>solicita autorização prévia</b> ao Congresso, <b>relatando os motivos determinantes do pedido</b>; o Congresso decide por <b>maioria absoluta</b></td><td>idem</td></tr><tr><td><b>Duração</b></td><td><b>não superior a 30 dias</b>, podendo ser <b>prorrogado, de cada vez</b>, por prazo não superior (prorrogações sucessivas)</td><td><b>por todo o tempo</b> que perdurar a guerra ou a agressão</td></tr><tr><td><b>Medidas</b></td><td>só as do <b>art. 139</b> (abaixo)</td><td>qualquer garantia pode ser suspensa, em tese, desde que indicada no decreto</td></tr></tbody></table>\n<ul><li><b>Medidas do sítio por comoção</b> (art. 139): <b>obrigação de permanência em localidade determinada</b>; <b>detenção em edifício não destinado a acusados ou condenados por crimes comuns</b>; <b>restrições</b> à inviolabilidade da correspondência, ao sigilo das comunicações, à prestação de informações e à <b>liberdade de imprensa</b>, radiodifusão e televisão (não se inclui a difusão de pronunciamentos de parlamentares autorizados pela Mesa); <b>suspensão da liberdade de reunião</b>; <b>busca e apreensão em domicílio</b>; <b>intervenção nas empresas de serviços públicos</b>; <b>requisição de bens</b>.</li><li><b>Congresso durante o sítio</b>: permanece em funcionamento até o término das medidas. As <b>imunidades parlamentares subsistem</b> e só podem ser suspensas pelo voto de <b>2/3</b> da Casa, quanto a atos praticados <b>fora do recinto</b> do Congresso incompatíveis com a execução da medida (art. 53, § 8º). Não há suspensão automática.</li><li><b>Fim</b> (art. 141): <b>cessado</b> o estado de defesa ou de sítio, <b>cessarão também seus efeitos</b>, <b>sem prejuízo da responsabilidade pelos ilícitos</b> cometidos por seus executores ou agentes. O Presidente relatará ao Congresso as medidas adotadas.</li><li>Durante ambos os estados (e na intervenção federal), a Constituição <b>não pode ser emendada</b> (art. 60, § 1º).</li></ul>\n<h3>4. Forças Armadas (arts. 142 e 143)</h3>\n<ul><li><b>Marinha, Exército e Aeronáutica</b> são instituições nacionais <b>permanentes e regulares</b>, organizadas com base na <b>hierarquia e na disciplina</b>, sob a <b>autoridade suprema do Presidente da República</b>, e destinam-se à <b>defesa da Pátria</b>, à <b>garantia dos poderes constitucionais</b> e, <b>por iniciativa de qualquer destes</b>, da <b>lei e da ordem</b> (operações de GLO, LC 97/1999).</li><li>O STF (ADI 6.457) afastou qualquer interpretação de que as Forças Armadas exerceriam um <b>\"poder moderador\"</b> entre os Poderes: a garantia da lei e da ordem é <b>subsidiária</b>, temporária e depende de requisição de um dos Poderes.</li><li><b>Regime dos militares</b> (§ 3º): ao militar são <b>proibidas a sindicalização e a greve</b>; enquanto em serviço ativo, <b>não pode estar filiado a partidos políticos</b>; o militar em atividade que tomar posse em cargo civil permanente é transferido para a reserva. <b>Não caberá habeas corpus</b> em relação a <b>punições disciplinares militares</b> (§ 2º), salvo quanto à legalidade.</li><li><b>Serviço militar</b> (art. 143): <b>obrigatório</b> nos termos da lei. Compete às Forças Armadas atribuir <b>serviço alternativo</b> aos que alegarem <b>imperativo de consciência</b> (crença religiosa, convicção filosófica ou política). <b>As mulheres e os eclesiásticos ficam isentos do serviço militar obrigatório em tempo de paz</b>, sujeitos a outros encargos que a lei lhes atribuir.</li></ul>\n<h3>5. Segurança pública (art. 144)</h3>\n<ul><li>\"A segurança pública, <b>dever do Estado</b>, <b>direito e responsabilidade de todos</b>, é exercida para a <b>preservação da ordem pública e da incolumidade das pessoas e do patrimônio</b>\", por meio dos seguintes órgãos (rol <b>taxativo</b>, segundo o STF: os Estados não podem criar novos órgãos de segurança pública além dos previstos no art. 144):</li></ul>\n<table class=\"tab\"><thead><tr><th>Órgão</th><th>Atribuições</th></tr></thead><tbody><tr><td><b>Polícia Federal</b> (§ 1º)</td><td>apurar infrações penais <b>contra a ordem política e social</b> ou em detrimento de <b>bens, serviços e interesses da União</b> ou de suas entidades autárquicas e empresas públicas, e outras infrações com <b>repercussão interestadual ou internacional</b> que exijam repressão uniforme; <b>prevenir e reprimir o tráfico ilícito de entorpecentes</b>, o <b>contrabando e o descaminho</b>; exercer as funções de <b>polícia marítima, aeroportuária e de fronteiras</b>; exercer, <b>com exclusividade</b>, as funções de <b>polícia judiciária da União</b></td></tr><tr><td><b>Polícia Rodoviária Federal</b> (§ 2º)</td><td><b>patrulhamento ostensivo das rodovias federais</b></td></tr><tr><td><b>Polícia Ferroviária Federal</b> (§ 3º)</td><td>patrulhamento ostensivo das ferrovias federais</td></tr><tr><td><b>Polícias Civis</b> (§ 4º)</td><td>dirigidas por <b>delegados de polícia de carreira</b>, incumbem-lhes, <b>ressalvada a competência da União</b>, as funções de <b>polícia judiciária</b> e a <b>apuração de infrações penais, exceto as militares</b></td></tr><tr><td><b>Polícias Militares</b> (§ 5º)</td><td><b>polícia ostensiva</b> e <b>preservação da ordem pública</b></td></tr><tr><td><b>Corpos de Bombeiros Militares</b> (§ 5º)</td><td>além das atribuições legais, execução de atividades de <b>defesa civil</b></td></tr><tr><td><b>Polícias penais</b> federal, estaduais e distrital (§ 5º-A, EC 104/2019)</td><td><b>segurança dos estabelecimentos penais</b></td></tr></tbody></table>\n<ul><li><b>Subordinação</b> (§ 6º): as <b>polícias militares e os corpos de bombeiros militares</b>, <b>forças auxiliares e reserva do Exército</b>, subordinam-se, juntamente com as <b>polícias civis</b> e as <b>polícias penais</b> estaduais e distrital, aos <b>Governadores</b> dos Estados, do DF e dos Territórios.</li><li><b>Guardas municipais</b> (§ 8º): os Municípios <b>poderão</b> constituí-las, destinadas à <b>proteção de seus bens, serviços e instalações</b>, conforme dispuser a lei (Lei 13.022/2014, Estatuto Geral das Guardas Municipais). O STF reconheceu que as guardas <b>integram o Sistema Único de Segurança Pública</b> (ADPF 995) e, no <b>Tema 656</b> (2025), que é constitucional o exercício, pelas guardas, de <b>ações de segurança urbana</b>, inclusive <b>policiamento ostensivo e comunitário</b>, <b>respeitadas as atribuições dos demais órgãos</b> do art. 144 e <b>excluída qualquer atividade de polícia judiciária</b>, sob controle externo do Ministério Público.</li><li><b>Remuneração</b> (§ 9º): a remuneração dos <b>servidores policiais</b> integrantes dos órgãos do art. 144 será fixada na forma de <b>subsídio</b> (parcela única).</li><li><b>Segurança viária</b> (§ 10, EC 82/2014): exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio nas vias públicas, <b>compreende a educação, a engenharia e a fiscalização de trânsito</b>, além de outras atividades previstas em lei, que assegurem ao cidadão o direito à mobilidade urbana eficiente; compete, no âmbito dos Estados, do DF e dos Municípios, aos respectivos <b>órgãos ou entidades executivos e seus agentes de trânsito</b>, estruturados em <b>carreira</b>.</li><li><b>Lei 13.675/2018</b>: institui o <b>Sistema Único de Segurança Pública (SUSP)</b> e a Política Nacional de Segurança Pública e Defesa Social.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na vigência do estado de sítio, as imunidades parlamentares ficam automaticamente suspensas</span><br>✅ <span class=\"certo\">Subsistem; a suspensão exige 2/3 da Casa.</span></li><li>❌ <span class=\"banca\">O estado de defesa depende de autorização prévia do Congresso</span><br>✅ <span class=\"certo\">É decretado e submetido ao Congresso em 24 h.</span></li><li>❌ <span class=\"banca\">O estado de sítio por comoção dura no máximo 60 dias</span><br>✅ <span class=\"certo\">30 dias, prorrogáveis de cada vez.</span></li><li>❌ <span class=\"banca\">Ao militar é permitida a greve com aviso prévio</span><br>✅ <span class=\"certo\">É proibida.</span></li><li>❌ <span class=\"banca\">Mulheres são isentas do serviço militar em qualquer tempo</span><br>✅ <span class=\"certo\">Em tempo de paz.</span></li><li>❌ <span class=\"banca\">Polícia civil apura crimes militares</span><br>✅ <span class=\"certo\">Exceto os militares.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estado de defesa: hipóteses?</span></span><span class=\"vs\"><span><b>Grave e iminente instabilidade institucional</b> ou <b>calamidade</b> de grandes proporções, em <b>locais restritos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estado de defesa: prazo?</span></span><span class=\"vs\"><span><b>30 dias</b>, prorrogável <b>uma vez</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Controle do estado de defesa?</span></span><span class=\"vs\"><span>Submetido ao Congresso em <b>24 h</b>; decide em <b>10 dias</b> (recesso: convocação em <b>5 dias</b>).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estado de sítio?</span></span><span class=\"vs\"><span><b>Autorização prévia</b> do Congresso, <b>maioria absoluta</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prisão no estado de defesa?</span></span><span class=\"vs\"><span>Comunicada ao juiz; máx. <b>10 dias</b>; sem incomunicabilidade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Isentos do serviço militar em paz?</span></span><span class=\"vs\"><span><b>Mulheres e eclesiásticos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Polícias civis?</span></span><span class=\"vs\"><span><b>Delegados de carreira</b>; polícia judiciária e apuração, <b>exceto militares</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Segurança viária?</span></span><span class=\"vs\"><span><b>Educação, engenharia e fiscalização</b> de trânsito.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Enchente no Vale do Jequitinhonha</b><p>Chuvas destroem cidades de uma região de Minas, e há saques e conflitos. O Presidente cogita medidas excepcionais.</p><details><summary>Ver a solução comentada</summary><p>Trata-se de <b>calamidade de grandes proporções na natureza</b> em <b>local restrito e determinado</b>: cabe <b>estado de defesa</b> (art. 136), decretado pelo Presidente, ouvidos os Conselhos, com submissão ao Congresso em 24 horas. O decreto fixará <b>duração</b> (até 30 dias, prorrogáveis uma vez), <b>áreas</b> e <b>medidas</b> (restrições a reunião, ocupação temporária de bens e serviços públicos). Prisões por crime contra o Estado devem ser comunicadas ao juiz e não podem passar de 10 dias sem autorização judicial.</p></details></div>",
+"quiz": [
+{
+"p": "O decreto que instituir o estado de defesa determinará o tempo de sua duração, especificará as áreas a serem abrangidas e indicará as medidas coercitivas a vigorarem.",
+"c": true,
+"prof": "Certo. Art. 136, § 1º.",
+"x": "As medidas possíveis são restrições aos direitos de reunião, ao sigilo de correspondência e de comunicações, e, na calamidade pública, a ocupação e o uso temporário de bens e serviços públicos.",
+"e": "Decreto: tempo, área, medidas."
+},
+{
+"p": "Decretado o estado de defesa, se o Congresso estiver em recesso, será convocado extraordinariamente, no prazo de cinco dias.",
+"c": true,
+"prof": "Certo. Art. 136, § 5º.",
+"x": "O decreto é submetido ao Congresso em 24 horas, e o Congresso deve apreciá-lo em 10 dias contados do recebimento, decidindo por maioria absoluta.",
+"e": "Recesso: convocação em 5 dias."
+},
+{
+"p": "Na vigência do estado de sítio, as imunidades parlamentares ficam automaticamente suspensas.",
+"c": false,
+"prof": "As imunidades subsistem.",
+"x": "O art. 53, § 8º, diz que as imunidades subsistem durante o sítio e só podem ser suspensas pelo voto de 2/3 dos membros da Casa, quanto a atos praticados fora do recinto do Congresso incompatíveis com a execução da medida.",
+"e": "Sítio: imunidade continua."
+},
+{
+"p": "O Presidente da República, ao solicitar autorização para decretar o estado de sítio:",
+"alts": [
+"dispensa a manifestação do Congresso se houver urgência",
+"relatará os motivos determinantes do pedido, devendo o Congresso decidir por maioria absoluta",
+"precisa de autorização do STF",
+"pode decretá-lo antes e submetê-lo ao Congresso em 24 horas",
+"precisa de aprovação de 3/5 em dois turnos"
+],
+"r": 1,
+"n": [
+"A autorização é sempre prévia.",
+"Correta: art. 137, parágrafo único.",
+"Não há participação do STF.",
+"Esse é o rito do estado de defesa.",
+"Não é o quórum."
+],
+"prof": "Sítio: autorização prévia.",
+"x": "No estado de sítio o controle político é prévio: o Congresso autoriza por maioria absoluta. No estado de defesa, o controle é posterior (decreto submetido em 24 horas).",
+"e": "Sítio: pede antes."
+},
+{
+"p": "Ao militar é permitida a greve, desde que comunicada com antecedência mínima de setenta e duas horas.",
+"c": false,
+"prof": "É proibida.",
+"x": "O art. 142, § 3º, IV, proíbe ao militar a sindicalização e a greve. O STF estendeu a proibição de greve a todos os policiais civis e servidores da segurança pública (Tema 541).",
+"e": "Militar: sem greve."
+},
+{
+"p": "As mulheres e os eclesiásticos ficam isentos do serviço militar obrigatório em tempo de paz, sujeitos, porém, a outros encargos que a lei lhes atribuir.",
+"c": true,
+"prof": "Certo. Art. 143, § 2º.",
+"x": "Em tempo de guerra, a isenção pode não se aplicar. A escusa de consciência gera a obrigação de serviço alternativo (§ 1º).",
+"e": "Isentos em paz."
+},
+{
+"p": "A Polícia Federal destina-se a prevenir e reprimir o tráfico ilícito de entorpecentes e drogas afins, o contrabando e o descaminho, sem prejuízo da ação fazendária e de outros órgãos públicos nas respectivas áreas de competência.",
+"c": true,
+"prof": "Certo. Art. 144, § 1º, II.",
+"x": "A PF também exerce as funções de polícia marítima, aeroportuária e de fronteiras e, com exclusividade, as de polícia judiciária da União.",
+"e": "PF: tráfico, contrabando, descaminho."
+},
+{
+"p": "A segurança viária, segundo o art. 144, § 10, da Constituição, compreende:",
+"alts": [
+"apenas a fiscalização de trânsito pelas polícias militares",
+"a educação, a engenharia e a fiscalização de trânsito, além de outras atividades previstas em lei",
+"o patrulhamento ostensivo das rodovias estaduais pelas guardas municipais",
+"a apuração das infrações penais de trânsito",
+"o licenciamento de veículos pelas polícias civis"
+],
+"r": 1,
+"n": [
+"Não é só fiscalização nem só da PM.",
+"Correta.",
+"Não é o conteúdo do dispositivo.",
+"Isso é polícia judiciária.",
+"Não é o conteúdo do dispositivo."
+],
+"prof": "Tripé da segurança viária.",
+"x": "A EC 82/2014 incluiu a segurança viária no art. 144, atribuindo-a aos órgãos ou entidades executivos de trânsito e a seus agentes, estruturados em carreira.",
+"e": "Educação, engenharia, fiscalização."
+},
+{
+"p": "A remuneração dos servidores policiais integrantes dos órgãos relacionados no art. 144 será fixada na forma de subsídio.",
+"c": true,
+"prof": "Certo. Art. 144, § 9º.",
+"x": "Subsídio é parcela única, vedado o acréscimo de gratificações, adicionais e outras espécies remuneratórias, ressalvadas as verbas indenizatórias e os direitos do art. 39, § 3º.",
+"e": "Policial: subsídio."
+}
+]
+},
+"ordem-economica": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>9</b><span>princípios da ordem econômica (art. 170)</span></div><div class=\"lt-stat\"><b>250 m²</b><span>área máxima da usucapião especial urbana</span></div><div class=\"lt-stat\"><b>50 ha</b><span>área máxima da usucapião especial rural</span></div><div class=\"lt-stat\"><b>20 mil</b><span>habitantes: plano diretor obrigatório</span></div></div>\n<h3>1. Fundamentos, finalidade e princípios (art. 170)</h3>\n<ul><li>A ordem econômica, <b>fundada na valorização do trabalho humano e na livre iniciativa</b>, tem por fim <b>assegurar a todos existência digna</b>, conforme os ditames da <b>justiça social</b>. Atenção: <b>livre iniciativa</b> e <b>valorização do trabalho</b> são <b>fundamentos</b> (estão no <b>caput</b>), e <b>não</b> estão entre os incisos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Princípio</th></tr></thead><tbody><tr><td>I</td><td><b>soberania nacional</b></td></tr><tr><td>II</td><td><b>propriedade privada</b></td></tr><tr><td>III</td><td><b>função social da propriedade</b></td></tr><tr><td>IV</td><td><b>livre concorrência</b></td></tr><tr><td>V</td><td><b>defesa do consumidor</b></td></tr><tr><td>VI</td><td><b>defesa do meio ambiente</b>, inclusive mediante tratamento diferenciado conforme o impacto ambiental</td></tr><tr><td>VII</td><td><b>redução das desigualdades regionais e sociais</b></td></tr><tr><td>VIII</td><td><b>busca do pleno emprego</b></td></tr><tr><td>IX</td><td><b>tratamento favorecido para as empresas de pequeno porte</b> constituídas sob as leis brasileiras e que tenham sua sede e administração no País</td></tr></tbody></table>\n<ul><li><b>Parágrafo único</b>: é assegurado a todos o <b>livre exercício de qualquer atividade econômica</b>, <b>independentemente de autorização</b> de órgãos públicos, <b>salvo nos casos previstos em lei</b>. Com base na livre concorrência, o STF considera inconstitucional lei municipal que <b>impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área</b> (<b>SV 49</b>), como a lei que proíbe farmácias a menos de 500 metros umas das outras.</li></ul>\n<h3>2. O Estado na economia (arts. 173 a 177)</h3>\n<ul><li><b>Exploração direta</b> (art. 173): ressalvados os casos previstos na Constituição, a exploração direta de atividade econômica pelo Estado só será permitida quando necessária aos <b>imperativos da segurança nacional</b> ou a <b>relevante interesse coletivo</b>, conforme definidos em lei.</li><li><b>Estatuto jurídico das estatais</b> (§ 1º): a lei (Lei 13.303/2016) estabelece o estatuto da <b>empresa pública</b>, da <b>sociedade de economia mista</b> e de suas subsidiárias que explorem atividade econômica, dispondo sobre sua <b>função social</b>, formas de fiscalização, <b>sujeição ao regime próprio das empresas privadas</b> (inclusive quanto a obrigações trabalhistas e tributárias), licitação e contratação. As estatais <b>não podem gozar de privilégios fiscais</b> não extensivos ao setor privado (§ 2º). A lei regulamentará as <b>relações da empresa pública com o Estado e a sociedade</b> (§ 3º).</li><li><b>Abuso do poder econômico</b> (§ 4º): a lei reprimirá o abuso do poder econômico que vise à <b>dominação dos mercados</b>, à <b>eliminação da concorrência</b> e ao <b>aumento arbitrário dos lucros</b> (Lei 12.529/2011, CADE).</li><li><b>Estado regulador</b> (art. 174): como agente <b>normativo e regulador</b> da atividade econômica, o Estado exercerá as funções de <b>fiscalização, incentivo e planejamento</b>, sendo este <b>determinante para o setor público</b> e <b>indicativo para o setor privado</b>. A lei <b>apoiará e estimulará o cooperativismo</b> e outras formas de <b>associativismo</b> (§ 2º).</li><li><b>Serviços públicos</b> (art. 175): incumbe ao Poder Público, na forma da lei, diretamente ou sob regime de <b>concessão ou permissão</b>, <b>sempre através de licitação</b>, a prestação de serviços públicos.</li><li><b>Recursos minerais</b> (art. 176): as jazidas e os potenciais de energia hidráulica pertencem à <b>União</b>, distintos da propriedade do solo; o concessionário tem a propriedade do produto da lavra; ao proprietário do solo é assegurada participação nos resultados.</li><li><b>Monopólio da União</b> (art. 177): a pesquisa e a lavra de <b>petróleo e gás natural</b>; a <b>refinação</b> do petróleo; a importação e exportação desses produtos; o <b>transporte marítimo</b> e por conduto do petróleo e derivados; e a <b>pesquisa, a lavra, o enriquecimento, o reprocessamento, a industrialização e o comércio de minérios e minerais nucleares</b> e seus derivados (com exceção dos <b>radioisótopos</b> para uso médico, agrícola e industrial, que podem ser produzidos sob regime de permissão). A União <b>pode contratar</b> empresas estatais ou privadas para as atividades do petróleo (§ 1º).</li></ul>\n<h3>3. Política urbana (arts. 182 e 183)</h3>\n<ul><li>A política de desenvolvimento urbano, executada pelo <b>Poder Público municipal</b>, tem por objetivo ordenar o pleno desenvolvimento das <b>funções sociais da cidade</b> e garantir o bem-estar de seus habitantes (regulamentada pelo <b>Estatuto da Cidade</b>, Lei 10.257/2001).</li><li><b>Plano diretor</b>: aprovado pela Câmara Municipal, <b>obrigatório para cidades com mais de 20 mil habitantes</b>, é o instrumento básico da política urbana.</li><li><b>Imóvel urbano não edificado, subutilizado ou não utilizado</b> (§ 4º): o Município pode exigir, sucessivamente: <b>parcelamento ou edificação compulsórios</b>; <b>IPTU progressivo no tempo</b>; <b>desapropriação com pagamento em títulos da dívida pública</b>.</li><li><b>Usucapião especial urbana</b> (art. 183): aquele que <b>possuir como sua área urbana de até 250 m²</b>, <b>por 5 anos, ininterruptamente e sem oposição</b>, utilizando-a para <b>sua moradia ou de sua família</b>, adquirir-lhe-á o domínio, <b>desde que não seja proprietário de outro imóvel urbano ou rural</b>. O direito <b>não será reconhecido ao mesmo possuidor mais de uma vez</b>. Os <b>imóveis públicos não serão adquiridos por usucapião</b> (§ 3º).</li></ul>\n<h3>4. Política agrícola e reforma agrária (arts. 184 a 191)</h3>\n<ul><li><b>Desapropriação para reforma agrária</b> (art. 184): compete à <b>União</b> desapropriar, por interesse social, o <b>imóvel rural que não esteja cumprindo sua função social</b>, mediante prévia e justa indenização em <b>títulos da dívida agrária</b> (resgatáveis em até 20 anos); as <b>benfeitorias úteis e necessárias</b> são indenizadas em <b>dinheiro</b>.</li><li><b>Insuscetíveis</b> de desapropriação para reforma agrária (art. 185): a <b>pequena e média propriedade rural</b>, desde que seu proprietário <b>não possua outra</b>; e a <b>propriedade produtiva</b>.</li><li><b>Função social da propriedade rural</b> (art. 186): aproveitamento racional e adequado; utilização adequada dos recursos naturais e preservação do meio ambiente; observância das disposições que regulam as relações de trabalho; exploração que favoreça o bem-estar dos proprietários e dos trabalhadores.</li><li><b>Usucapião especial rural</b> (art. 191): aquele que, <b>não sendo proprietário de imóvel rural ou urbano</b>, possua como seu, <b>por 5 anos ininterruptos, sem oposição</b>, área de terra em zona rural <b>não superior a 50 hectares</b>, tornando-a <b>produtiva</b> por seu trabalho ou de sua família, tendo nela sua <b>moradia</b>, adquirir-lhe-á a propriedade. Imóveis públicos não são usucapíveis.</li></ul>\n<h3>5. Sistema financeiro nacional (art. 192)</h3>\n<ul><li>O sistema financeiro nacional será estruturado de forma a <b>promover o desenvolvimento equilibrado do País</b> e a <b>servir aos interesses da coletividade</b>, em todas as partes que o compõem, abrangendo as cooperativas de crédito, e será regulado por <b>leis complementares</b>. (O antigo limite de <b>juros de 12% ao ano</b> foi revogado pela EC 40/2003; a <b>SV 7</b> já dizia que ele dependia de lei complementar.)</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A livre iniciativa é princípio listado nos incisos do art. 170</span><br>✅ <span class=\"certo\">É FUNDAMENTO (caput).</span></li><li>❌ <span class=\"banca\">O planejamento estatal é determinante para o setor privado</span><br>✅ <span class=\"certo\">Determinante para o público, indicativo para o privado.</span></li><li>❌ <span class=\"banca\">A usucapião especial urbana alcança áreas de até 500 m²</span><br>✅ <span class=\"certo\">Até 250 m².</span></li><li>❌ <span class=\"banca\">A usucapião rural alcança até 100 hectares</span><br>✅ <span class=\"certo\">Até 50 hectares.</span></li><li>❌ <span class=\"banca\">A propriedade produtiva pode ser desapropriada para reforma agrária</span><br>✅ <span class=\"certo\">É insuscetível.</span></li><li>❌ <span class=\"banca\">Imóvel público pode ser usucapido após 15 anos</span><br>✅ <span class=\"certo\">Imóveis públicos não são usucapidos.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fundamentos da ordem econômica?</span></span><span class=\"vs\"><span><b>Valorização do trabalho humano</b> e <b>livre iniciativa</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípios (art. 170)?</span></span><span class=\"vs\"><span>Soberania, propriedade privada, função social, livre concorrência, consumidor, meio ambiente, redução de desigualdades, pleno emprego, tratamento favorecido a EPP.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SV 49?</span></span><span class=\"vs\"><span>Lei municipal não pode impedir estabelecimento do mesmo ramo em certa área.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exploração direta pelo Estado?</span></span><span class=\"vs\"><span><b>Segurança nacional</b> ou <b>relevante interesse coletivo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Planejamento?</span></span><span class=\"vs\"><span><b>Determinante</b> (público) e <b>indicativo</b> (privado).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Plano diretor?</span></span><span class=\"vs\"><span>Obrigatório para cidades com <b>mais de 20 mil</b> habitantes.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Usucapião urbana?</span></span><span class=\"vs\"><span><b>250 m²</b>, <b>5 anos</b>, moradia, sem outro imóvel.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Usucapião rural?</span></span><span class=\"vs\"><span><b>50 ha</b>, <b>5 anos</b>, produtiva e moradia.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A lei das farmácias</b><p>A Câmara de um município aprova lei proibindo a abertura de nova farmácia a menos de 500 metros de outra já existente, \"para proteger o comércio local\".</p><details><summary>Ver a solução comentada</summary><p>A lei viola o princípio da <b>livre concorrência</b> (art. 170, IV) e é inconstitucional, nos termos da <b>SV 49</b>: \"ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área\". O município pode regular zoneamento e posturas, mas não criar reserva de mercado.</p></details></div>",
+"quiz": [
+{
+"p": "A livre iniciativa é princípio da ordem econômica listado entre os incisos do art. 170 da Constituição.",
+"c": false,
+"prof": "É fundamento, no caput.",
+"x": "O caput do art. 170 diz que a ordem econômica é fundada na valorização do trabalho humano e na livre iniciativa. Os incisos listam os princípios, entre eles a livre concorrência, que não se confunde com a livre iniciativa.",
+"e": "Livre iniciativa: fundamento."
+},
+{
+"p": "A lei reprimirá o abuso do poder econômico que vise à dominação dos mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros.",
+"c": true,
+"prof": "Certo. Art. 173, § 4º.",
+"x": "A Lei 12.529/2011 estrutura o Sistema Brasileiro de Defesa da Concorrência, com o CADE.",
+"e": "Abuso econômico: reprimido."
+},
+{
+"p": "Lei municipal que proíbe a instalação de farmácias a menos de 500 metros umas das outras é:",
+"alts": [
+"constitucional, por se tratar de interesse local",
+"constitucional, pela proteção à saúde",
+"inconstitucional, por ofender o princípio da livre concorrência",
+"inconstitucional, por invadir competência privativa da União sobre saúde",
+"constitucional, se aprovada por maioria absoluta"
+],
+"r": 2,
+"n": [
+"O interesse local não autoriza reserva de mercado.",
+"Não há relação com a saúde.",
+"Correta: SV 49.",
+"O fundamento é a livre concorrência.",
+"O quórum não altera o vício."
+],
+"prof": "SV 49.",
+"x": "Ofende o princípio da livre concorrência a lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área.",
+"e": "Distância mínima: inconstitucional."
+},
+{
+"p": "Aquele que possuir como sua área urbana de até duzentos e cinquenta metros quadrados, por cinco anos ininterruptos e sem oposição, utilizando-a para sua moradia ou de sua família, adquirir-lhe-á o domínio, desde que não seja proprietário de outro imóvel urbano ou rural.",
+"c": true,
+"prof": "Certo. Art. 183.",
+"x": "O direito não é reconhecido ao mesmo possuidor mais de uma vez, e os imóveis públicos não podem ser usucapidos.",
+"e": "250 m², 5 anos."
+},
+{
+"p": "A usucapião especial rural alcança área de terra em zona rural de até cem hectares.",
+"c": false,
+"prof": "O limite é de 50 hectares.",
+"x": "O art. 191 exige área não superior a 50 hectares, posse de 5 anos ininterruptos e sem oposição, terra tornada produtiva pelo trabalho do possuidor ou de sua família e moradia no local.",
+"e": "Rural: 50 ha."
+},
+{
+"p": "Constitui monopólio da União, nos termos do art. 177:",
+"alts": [
+"a distribuição de gás canalizado",
+"a exploração de serviços de telecomunicações",
+"a pesquisa, a lavra, o enriquecimento, o reprocessamento, a industrialização e o comércio de minérios e minerais nucleares e seus derivados, salvo os radioisótopos nas hipóteses constitucionais",
+"a mineração de ouro",
+"a geração de energia elétrica"
+],
+"r": 2,
+"n": [
+"É competência dos Estados (art. 25, § 2º).",
+"É competência da União, mas não monopólio do art. 177.",
+"Correta.",
+"Não é monopólio.",
+"Não é monopólio."
+],
+"prof": "Monopólio: petróleo e nuclear.",
+"x": "O art. 177 lista o monopólio do petróleo, do gás natural (pesquisa, lavra, refinação, importação, exportação e transporte) e dos minérios nucleares. A União pode contratar empresas para as atividades do petróleo.",
+"e": "Monopólio nuclear."
+},
+{
+"p": "Como agente normativo e regulador da atividade econômica, o Estado exercerá as funções de fiscalização, incentivo e planejamento, sendo este determinante para o setor público e indicativo para o setor privado.",
+"c": true,
+"prof": "Certo. Art. 174.",
+"x": "O planejamento não pode ser imposto à iniciativa privada, o que respeita a livre iniciativa. A lei também apoiará e estimulará o cooperativismo (§ 2º).",
+"e": "Planejamento: indicativo para o privado."
+},
+{
+"p": "A pequena e média propriedade rural, ainda que seu proprietário possua outra, é insuscetível de desapropriação para fins de reforma agrária.",
+"c": false,
+"prof": "Exige que o proprietário não possua outra.",
+"x": "O art. 185, I, protege a pequena e a média propriedade rural desde que seu proprietário não possua outra. A propriedade produtiva também é insuscetível (II).",
+"e": "Pequena/média: só se única."
+},
+{
+"p": "O sistema financeiro nacional será estruturado de forma a promover o desenvolvimento equilibrado do País e a servir aos interesses da coletividade.",
+"c": true,
+"prof": "Certo. Art. 192.",
+"x": "O sistema é regulado por leis complementares e abrange as cooperativas de crédito. O antigo teto de juros de 12% ao ano foi revogado pela EC 40/2003.",
+"e": "Sistema financeiro: coletividade."
+}
+]
+},
+"ordem-social": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>áreas da seguridade social: saúde, previdência e assistência</span></div><div class=\"lt-stat\"><b>18% / 25%</b><span>da receita de impostos em educação: União / Estados, DF e Municípios</span></div><div class=\"lt-stat\"><b>4 a 17</b><span>anos: educação básica obrigatória e gratuita</span></div><div class=\"lt-stat\"><b>1</b><span>salário mínimo: piso dos benefícios que substituem o salário</span></div></div>\n<h3>1. Base e objetivos (art. 193)</h3>\n<ul><li>\"A ordem social tem como <b>base o primado do trabalho</b>, e como <b>objetivo o bem-estar e a justiça sociais</b>.\" O Estado exerce a função de <b>planejamento</b> das políticas sociais, assegurada a participação da sociedade.</li></ul>\n<h3>2. Seguridade social (arts. 194 e 195)</h3>\n<ul><li>\"A seguridade social compreende um <b>conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade</b>, destinadas a assegurar os direitos relativos à <b>saúde</b>, à <b>previdência</b> e à <b>assistência social</b>.\"</li></ul>\n<table class=\"tab\"><thead><tr><th>Objetivo (art. 194, p. único)</th><th>Significado</th></tr></thead><tbody><tr><td><b>Universalidade da cobertura e do atendimento</b></td><td>alcançar todos os riscos e todas as pessoas</td></tr><tr><td><b>Uniformidade e equivalência</b> dos benefícios e serviços às populações <b>urbanas e rurais</b></td><td>sem discriminação entre campo e cidade</td></tr><tr><td><b>Seletividade e distributividade</b></td><td>priorizar quem mais precisa</td></tr><tr><td><b>Irredutibilidade do valor dos benefícios</b></td><td>valor nominal protegido</td></tr><tr><td><b>Equidade na forma de participação no custeio</b></td><td>contribui mais quem pode mais</td></tr><tr><td><b>Diversidade da base de financiamento</b></td><td>várias fontes (folha, faturamento, lucro, concursos de prognósticos, importação)</td></tr><tr><td><b>Caráter democrático e descentralizado</b> da administração</td><td><b>gestão quadripartite</b>: trabalhadores, empregadores, aposentados e Governo</td></tr></tbody></table>\n<ul><li><b>Financiamento</b> (art. 195): por <b>toda a sociedade</b>, de forma direta e indireta, mediante recursos dos orçamentos dos entes e de <b>contribuições sociais</b> (do empregador sobre folha, receita ou faturamento e lucro; do trabalhador; sobre a receita de <b>concursos de prognósticos</b>; do importador). Nenhum benefício será criado, majorado ou estendido <b>sem a correspondente fonte de custeio total</b> (§ 5º). As contribuições sociais respeitam a <b>anterioridade nonagesimal</b> (90 dias), mas não a do exercício (§ 6º).</li></ul>\n<h3>3. Saúde (arts. 196 a 200)</h3>\n<ul><li>\"A <b>saúde é direito de todos e dever do Estado</b>, garantido mediante <b>políticas sociais e econômicas</b> que visem à redução do risco de doença e de outros agravos e ao <b>acesso universal e igualitário</b> às ações e serviços para sua promoção, proteção e recuperação.\"</li><li>As ações e serviços públicos de saúde integram uma <b>rede regionalizada e hierarquizada</b> e constituem um <b>sistema único</b> (SUS), organizado de acordo com as diretrizes: <b>descentralização</b>, com direção única em cada esfera; <b>atendimento integral</b>, com prioridade para as atividades preventivas; <b>participação da comunidade</b> (art. 198).</li><li><b>Aplicação mínima</b>: a União aplica, anualmente, no mínimo <b>15% da receita corrente líquida</b>; Estados, <b>12%</b>, e Municípios, <b>15%</b> da receita de impostos e transferências (LC 141/2012).</li><li><b>Iniciativa privada</b> (art. 199): a assistência à saúde é <b>livre à iniciativa privada</b>, que pode participar do SUS de forma <b>complementar</b>, por contrato ou convênio, com preferência às entidades <b>filantrópicas e sem fins lucrativos</b>. É <b>vedada a destinação de recursos públicos</b> para auxílios ou subvenções às instituições privadas <b>com fins lucrativos</b>. É vedada a participação direta ou indireta de empresas ou <b>capitais estrangeiros</b> na assistência à saúde, salvo nos casos previstos em lei.</li><li><b>Órgãos e sangue</b> (§ 4º): a lei disporá sobre as condições e os requisitos que facilitem a <b>remoção de órgãos, tecidos e substâncias humanas para fins de transplante</b>, pesquisa e tratamento, bem como a coleta, o processamento e a transfusão de sangue e seus derivados, <b>sendo vedado todo tipo de comercialização</b> (Lei 9.434/1997).</li><li><b>Competências do SUS</b> (art. 200): controlar e fiscalizar procedimentos, produtos e substâncias; executar as ações de <b>vigilância sanitária e epidemiológica</b> e de saúde do trabalhador; ordenar a formação de recursos humanos; participar do controle de agrotóxicos e tóxicos; colaborar na proteção do meio ambiente, <b>nele compreendido o do trabalho</b>.</li></ul>\n<h3>4. Previdência e assistência social (arts. 201 a 204)</h3>\n<ul><li><b>Previdência</b> (art. 201): organizada sob a forma do <b>Regime Geral</b>, de <b>caráter contributivo</b> e de <b>filiação obrigatória</b>, observados critérios que preservem o <b>equilíbrio financeiro e atuarial</b>. Cobre eventos de <b>incapacidade temporária ou permanente</b>, <b>idade avançada</b>, <b>maternidade</b>, <b>desemprego involuntário</b>, salário-família e auxílio-reclusão para os dependentes dos segurados de <b>baixa renda</b>, e <b>pensão por morte</b>.</li><li><b>Piso</b> (§ 2º): <b>nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salário mínimo</b>. Após a EC 103/2019, a aposentadoria no RGPS exige, em regra, <b>65 anos (homem) e 62 anos (mulher)</b>, com tempo mínimo de contribuição.</li><li><b>Assistência social</b> (art. 203): será prestada <b>a quem dela necessitar, independentemente de contribuição</b> à seguridade social. Objetivos incluem a proteção à família, à maternidade, à infância, à adolescência e à velhice, a habilitação e reabilitação das pessoas com deficiência e a <b>garantia de 1 salário mínimo</b> de benefício mensal à <b>pessoa com deficiência</b> e ao <b>idoso</b> que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família (<b>BPC</b>, Lei 8.742/1993, LOAS).</li></ul>\n<h3>5. Educação (arts. 205 a 214)</h3>\n<ul><li>\"A <b>educação</b>, direito de todos e <b>dever do Estado e da família</b>, será promovida e incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho\" (art. 205).</li><li><b>Princípios</b> (art. 206): igualdade de condições para o acesso e permanência; liberdade de aprender, ensinar, pesquisar; pluralismo de ideias e de concepções pedagógicas; <b>gratuidade do ensino público em estabelecimentos oficiais</b> (<b>SV 12</b>: a cobrança de <b>taxa de matrícula</b> nas universidades públicas viola esse princípio); valorização dos profissionais; <b>gestão democrática</b> do ensino público; garantia de padrão de qualidade; <b>piso salarial profissional nacional</b>.</li><li><b>Dever do Estado</b> (art. 208): <b>educação básica obrigatória e gratuita dos 4 aos 17 anos</b>, assegurada também a quem não teve acesso na idade própria; atendimento educacional especializado às pessoas com deficiência, <b>preferencialmente na rede regular</b>; <b>educação infantil, em creche e pré-escola, às crianças até 5 anos</b>. O acesso ao ensino obrigatório e gratuito é <b>direito público subjetivo</b> (§ 1º).</li><li><b>Ensino religioso</b> (art. 210, § 1º): de <b>matrícula facultativa</b>, constituirá disciplina dos <b>horários normais</b> das escolas públicas de <b>ensino fundamental</b>. O STF admitiu o ensino religioso <b>confessional</b> (ADI 4.439), desde que facultativo.</li><li><b>Língua</b> (§ 2º): o ensino fundamental regular será ministrado em <b>língua portuguesa</b>, assegurada às <b>comunidades indígenas</b> também a utilização de suas <b>línguas maternas</b> e processos próprios de aprendizagem.</li><li><b>Financiamento</b> (art. 212): a <b>União</b> aplicará, anualmente, <b>nunca menos de 18%</b>, e os <b>Estados, o DF e os Municípios</b>, <b>25%, no mínimo</b>, da receita resultante de impostos, compreendida a proveniente de transferências, na <b>manutenção e desenvolvimento do ensino</b>. O <b>Fundeb</b> é permanente desde a EC 108/2020 (art. 212-A).</li><li><b>Universidades</b> (art. 207): gozam de <b>autonomia didático-científica, administrativa e de gestão financeira e patrimonial</b> e obedecem ao princípio da <b>indissociabilidade entre ensino, pesquisa e extensão</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A saúde é dever exclusivo do Estado</span><br>✅ <span class=\"certo\">Direito de todos e dever do Estado; a iniciativa privada é livre e complementar.</span></li><li>❌ <span class=\"banca\">Pode haver comercialização de órgãos com autorização judicial</span><br>✅ <span class=\"certo\">Vedado todo tipo de comercialização.</span></li><li>❌ <span class=\"banca\">A assistência social exige contribuição</span><br>✅ <span class=\"certo\">Independentemente de contribuição.</span></li><li>❌ <span class=\"banca\">A União aplica 25% dos impostos em educação</span><br>✅ <span class=\"certo\">União 18%; Estados, DF e Municípios 25%.</span></li><li>❌ <span class=\"banca\">O ensino religioso é obrigatório</span><br>✅ <span class=\"certo\">Matrícula facultativa.</span></li><li>❌ <span class=\"banca\">Benefício que substitui o salário pode ser inferior ao mínimo</span><br>✅ <span class=\"certo\">Nunca.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Seguridade social?</span></span><span class=\"vs\"><span><b>Saúde, previdência e assistência</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Base e objetivo da ordem social?</span></span><span class=\"vs\"><span><b>Primado do trabalho</b>; <b>bem-estar e justiça sociais</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SUS?</span></span><span class=\"vs\"><span>Rede <b>regionalizada e hierarquizada</b>; descentralização, atendimento integral, participação da comunidade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Previdência?</span></span><span class=\"vs\"><span><b>Contributiva</b>, filiação <b>obrigatória</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Assistência?</span></span><span class=\"vs\"><span>A quem necessitar, <b>sem contribuição</b>; BPC de <b>1 salário mínimo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Educação básica obrigatória?</span></span><span class=\"vs\"><span><b>4 a 17 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aplicação em educação?</span></span><span class=\"vs\"><span>União <b>18%</b>; demais <b>25%</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SV 12?</span></span><span class=\"vs\"><span>Taxa de matrícula em universidade pública: inconstitucional.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O hospital particular e o SUS</b><p>Um hospital privado com fins lucrativos pede à prefeitura uma \"subvenção\" com recursos públicos para ampliar sua UTI e, em troca, atender pacientes do SUS.</p><details><summary>Ver a solução comentada</summary><p>A Constituição permite que instituições privadas participem do SUS de forma <b>complementar</b>, por <b>contrato ou convênio</b>, com <b>preferência às filantrópicas</b>. Mas é <b>vedada a destinação de recursos públicos para auxílios ou subvenções</b> a instituições privadas <b>com fins lucrativos</b> (art. 199, § 2º). O caminho legal é a contratação de serviços, com pagamento pelos atendimentos, e não a subvenção.</p></details></div>",
+"quiz": [
+{
+"p": "A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social.",
+"c": true,
+"prof": "Certo. Art. 194.",
+"x": "A saúde é universal, a previdência é contributiva e a assistência é prestada a quem dela necessitar, independentemente de contribuição.",
+"e": "Seguridade: saúde, previdência, assistência."
+},
+{
+"p": "As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único.",
+"c": true,
+"prof": "Certo. Art. 198.",
+"x": "As diretrizes são descentralização, com direção única em cada esfera de governo; atendimento integral, com prioridade para as atividades preventivas; e participação da comunidade.",
+"e": "SUS: regionalizado e hierarquizado."
+},
+{
+"p": "Admite-se a comercialização de órgãos e tecidos humanos para fins de transplante, desde que autorizada judicialmente.",
+"c": false,
+"prof": "É vedado todo tipo de comercialização.",
+"x": "O art. 199, § 4º, veda qualquer comercialização de órgãos, tecidos, substâncias humanas e sangue. A Lei 9.434/1997 tipifica como crime a compra e venda de órgãos.",
+"e": "Órgãos: sem comércio."
+},
+{
+"p": "Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado terá valor mensal:",
+"alts": [
+"superior ao teto do RGPS",
+"inferior ao salário mínimo",
+"inferior a meio salário mínimo",
+"superior a dez salários mínimos",
+"inferior ao último salário recebido"
+],
+"r": 1,
+"n": [
+"É verdade que há teto, mas não é o que diz o § 2º.",
+"Correta: art. 201, § 2º.",
+"O piso é de um salário mínimo.",
+"Não é a regra.",
+"Não há essa garantia."
+],
+"prof": "Piso previdenciário.",
+"x": "O art. 201, § 2º, garante que benefícios substitutivos de renda (aposentadoria, pensão, auxílio por incapacidade) não sejam inferiores ao salário mínimo. Benefícios que não substituem renda, como o auxílio-acidente, podem ser menores.",
+"e": "Piso: 1 salário mínimo."
+},
+{
+"p": "É garantida a gratuidade do ensino público em estabelecimentos oficiais.",
+"c": true,
+"prof": "Certo. Art. 206, IV.",
+"x": "Com base nesse princípio, a SV 12 declarou inconstitucional a cobrança de taxa de matrícula nas universidades públicas.",
+"e": "Ensino público: gratuito."
+},
+{
+"p": "A União aplicará, anualmente, nunca menos de vinte e cinco por cento da receita resultante de impostos na manutenção e desenvolvimento do ensino.",
+"c": false,
+"prof": "A União aplica 18%.",
+"x": "O art. 212 fixa 18% para a União e 25%, no mínimo, para Estados, DF e Municípios, considerada a receita de impostos, inclusive a proveniente de transferências.",
+"e": "União: 18%."
+},
+{
+"p": "O ensino religioso, de matrícula facultativa, constitui disciplina dos horários normais das escolas públicas de ensino fundamental.",
+"c": true,
+"prof": "Certo. Art. 210, § 1º.",
+"x": "O STF (ADI 4.439) admitiu o ensino religioso confessional nas escolas públicas, desde que de matrícula facultativa.",
+"e": "Ensino religioso: facultativo."
+},
+{
+"p": "A assistência social será prestada:",
+"alts": [
+"apenas aos segurados que contribuíram por pelo menos 12 meses",
+"a quem dela necessitar, independentemente de contribuição à seguridade social",
+"somente a idosos com mais de 80 anos",
+"mediante contribuição reduzida",
+"apenas pelos Municípios"
+],
+"r": 1,
+"n": [
+"Independe de contribuição.",
+"Correta: art. 203.",
+"O BPC alcança idosos (65 anos, pela lei) e pessoas com deficiência.",
+"Não há contribuição.",
+"É responsabilidade de todos os entes."
+],
+"prof": "Assistência: sem contribuição.",
+"x": "A assistência social é não contributiva. Entre seus objetivos está a garantia de um salário mínimo mensal à pessoa com deficiência e ao idoso que comprovem não ter meios de se manter.",
+"e": "Assistência: quem precisar."
+}
+]
+},
+"ordem-social-2": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>biomas e regiões declarados patrimônio nacional (art. 225, § 4º)</span></div><div class=\"lt-stat\"><b>65</b><span>anos: transporte coletivo urbano gratuito ao idoso (art. 230)</span></div><div class=\"lt-stat\"><b>10</b><span>anos de naturalização para ser dono de empresa jornalística (art. 222)</span></div><div class=\"lt-stat\"><b>60</b><span>dias: prazo da Justiça Desportiva antes do Judiciário</span></div></div>\n<h3>1. Cultura, desporto, ciência e comunicação social</h3>\n<ul><li><b>Cultura</b> (art. 215): o Estado garantirá a todos o pleno exercício dos <b>direitos culturais</b> e o acesso às fontes da cultura nacional. Constituem <b>patrimônio cultural</b> os bens de natureza material e imaterial (formas de expressão, modos de criar, fazer e viver, sítios de valor histórico) (art. 216); o tombamento e outras formas de proteção são instrumentos de preservação. Ficam <b>tombados</b> todos os documentos e sítios detentores de reminiscências históricas dos antigos <b>quilombos</b>.</li><li><b>Desporto</b> (art. 217): o Poder Judiciário só admitirá ações relativas à disciplina e às competições desportivas <b>após esgotarem-se as instâncias da Justiça Desportiva</b>, que terá o prazo máximo de <b>60 dias</b>, contados da instauração do processo, para proferir decisão final. É uma das exceções à inafastabilidade imediata da jurisdição.</li><li><b>Ciência, tecnologia e inovação</b> (arts. 218 a 219-B): o Estado promoverá e incentivará o desenvolvimento científico, a pesquisa, a capacitação científica e tecnológica e a inovação.</li><li><b>Comunicação social</b> (arts. 220 a 224): a manifestação do pensamento, a criação, a expressão e a informação, sob qualquer forma, <b>não sofrerão qualquer restrição</b>; nenhuma lei conterá dispositivo que possa constituir embaraço à <b>plena liberdade de informação jornalística</b>; é <b>vedada toda e qualquer censura</b> de natureza política, ideológica e artística. A <b>propriedade de empresa jornalística e de radiodifusão</b> é privativa de <b>brasileiros natos ou naturalizados há mais de 10 anos</b>, ou de pessoas jurídicas constituídas sob as leis brasileiras e com sede no País; pelo menos <b>70% do capital</b> total e votante deve pertencer a esses brasileiros (art. 222). A <b>publicidade de tabaco, bebidas alcoólicas, agrotóxicos, medicamentos e terapias</b> está sujeita a restrições legais e conterá advertência sobre os malefícios (art. 220, § 4º).</li></ul>\n<h3>2. Meio ambiente (art. 225)</h3>\n<ul><li>\"Todos têm direito ao <b>meio ambiente ecologicamente equilibrado</b>, <b>bem de uso comum do povo</b> e essencial à sadia qualidade de vida, impondo-se ao <b>Poder Público e à coletividade</b> o dever de defendê-lo e preservá-lo <b>para as presentes e futuras gerações</b>.\" É direito de <b>3ª dimensão</b> e fundamenta o princípio da <b>solidariedade intergeracional</b>.</li><li><b>Incumbências do Poder Público</b> (§ 1º, destaques): preservar e restaurar os processos ecológicos essenciais; preservar a diversidade e a integridade do patrimônio genético; definir <b>espaços territoriais especialmente protegidos</b>, cuja alteração e supressão só são permitidas <b>por lei</b>; exigir, para instalação de obra ou atividade potencialmente causadora de significativa degradação, <b>estudo prévio de impacto ambiental</b> (EIA), a que se dará <b>publicidade</b>; promover a <b>educação ambiental</b>; proteger a fauna e a flora, <b>vedadas</b> as práticas que submetam os animais à <b>crueldade</b>.</li><li><b>Responsabilidade</b> (§ 3º): as condutas e atividades lesivas ao meio ambiente sujeitarão os infratores, <b>pessoas físicas ou jurídicas</b>, a <b>sanções penais e administrativas</b>, independentemente da obrigação de <b>reparar os danos</b> causados (tríplice responsabilidade: penal, administrativa e civil). É o fundamento da <b>responsabilidade penal da pessoa jurídica</b> (Lei 9.605/1998), que o STF admite <b>independentemente</b> da responsabilização simultânea da pessoa física (RE 548.181).</li><li><b>Patrimônio nacional</b> (§ 4º): a <b>Floresta Amazônica brasileira</b>, a <b>Mata Atlântica</b>, a <b>Serra do Mar</b>, o <b>Pantanal Mato-Grossense</b> e a <b>Zona Costeira</b>; sua utilização far-se-á, na forma da lei, dentro de condições que assegurem a preservação do meio ambiente. Atenção: <b>Cerrado</b> e <b>Caatinga</b> <b>não</b> estão na lista (embora haja propostas para incluí-los).</li><li><b>§ 5º</b>: são <b>indisponíveis</b> as terras <b>devolutas</b> ou arrecadadas pelos Estados, por ações discriminatórias, necessárias à proteção dos ecossistemas naturais.</li><li><b>§ 6º</b>: as usinas que operem com <b>reator nuclear</b> deverão ter sua <b>localização definida em lei federal</b>, sem o que não poderão ser instaladas.</li><li><b>§ 7º (EC 96/2017)</b>: não se consideram cruéis as <b>práticas desportivas que utilizem animais</b>, desde que sejam <b>manifestações culturais</b> registradas como bem de natureza imaterial do patrimônio cultural brasileiro, regulamentadas por lei que assegure o <b>bem-estar dos animais</b> (a \"emenda da vaquejada\", editada após o STF declarar inconstitucional a vaquejada na ADI 4.983).</li></ul>\n<h3>3. Família, criança, adolescente, jovem e idoso (arts. 226 a 230)</h3>\n<ul><li><b>Família</b> (art. 226): <b>base da sociedade</b>, tem <b>especial proteção do Estado</b>. O <b>casamento é civil</b> e <b>gratuita a celebração</b> (§ 1º); o casamento religioso tem efeito civil, nos termos da lei. É reconhecida a <b>união estável</b> entre o homem e a mulher como entidade familiar (o STF estendeu o reconhecimento às <b>uniões homoafetivas</b>, ADI 4.277). Entende-se também como entidade familiar a comunidade formada por <b>qualquer dos pais e seus descendentes</b> (família monoparental). Os direitos e deveres conjugais são exercidos <b>igualmente</b> pelo homem e pela mulher. O casamento civil pode ser dissolvido pelo <b>divórcio</b>, <b>sem exigência de prazo</b> de separação (EC 66/2010). O <b>planejamento familiar</b> é livre decisão do casal (§ 7º). O Estado criará mecanismos para <b>coibir a violência no âmbito de suas relações</b> (§ 8º), base constitucional da <b>Lei Maria da Penha</b>.</li><li><b>Criança, adolescente e jovem</b> (art. 227): é dever da <b>família, da sociedade e do Estado</b> assegurar, com <b>absoluta prioridade</b>, o direito à vida, à saúde, à alimentação, à educação, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária, além de colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão. A lei punirá <b>severamente</b> o <b>abuso, a violência e a exploração sexual</b> da criança e do adolescente (§ 4º). Os <b>filhos</b>, havidos ou não da relação do casamento, ou por adoção, terão os <b>mesmos direitos e qualificações</b>, proibidas quaisquer designações discriminatórias (§ 6º). A idade mínima para o trabalho segue o art. 7º, XXXIII.</li><li><b>Inimputabilidade</b> (art. 228): são penalmente <b>inimputáveis os menores de 18 anos</b>, sujeitos às normas da legislação especial (ECA).</li><li><b>Art. 229</b>: os <b>pais</b> têm o dever de assistir, criar e educar os filhos menores, e os <b>filhos maiores</b> têm o dever de ajudar e amparar os pais na velhice, carência ou enfermidade.</li><li><b>Idoso</b> (art. 230): a família, a sociedade e o Estado têm o dever de amparar as pessoas idosas, assegurando sua participação na comunidade. Os programas de amparo serão executados <b>preferencialmente em seus lares</b>. Aos <b>maiores de 65 anos</b> é garantida a <b>gratuidade dos transportes coletivos urbanos</b>.</li></ul>\n<h3>4. Índios (arts. 231 e 232)</h3>\n<ul><li>São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os <b>direitos originários sobre as terras que tradicionalmente ocupam</b>, competindo à <b>União</b> demarcá-las, protegê-las e fazer respeitar todos os seus bens.</li><li>As terras tradicionalmente ocupadas destinam-se à sua <b>posse permanente</b>, cabendo-lhes o <b>usufruto exclusivo</b> das riquezas do solo, dos rios e dos lagos nelas existentes; são <b>bens da União</b> (art. 20, XI), <b>inalienáveis e indisponíveis</b>, e os direitos sobre elas, <b>imprescritíveis</b>. O aproveitamento de recursos hídricos e minerais nessas terras só pode ser feito com <b>autorização do Congresso Nacional</b>, <b>ouvidas as comunidades afetadas</b>. É <b>vedada a remoção</b> dos grupos indígenas de suas terras, salvo casos excepcionais (catástrofe, epidemia, interesse da soberania), com referendo do Congresso e retorno assim que cessar o risco.</li><li><b>Art. 232</b>: os índios, suas comunidades e organizações são <b>partes legítimas para ingressar em juízo</b> em defesa de seus direitos e interesses, intervindo o <b>MP</b> em todos os atos do processo. A disputa sobre direitos indígenas é de competência da <b>Justiça Federal</b> (art. 109, XI).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O casamento civil é oneroso, gratuito só para pobres</span><br>✅ <span class=\"certo\">A celebração é GRATUITA (art. 226, § 1º).</span></li><li>❌ <span class=\"banca\">O Cerrado é patrimônio nacional no art. 225</span><br>✅ <span class=\"certo\">A lista é Amazônia, Mata Atlântica, Serra do Mar, Pantanal e Zona Costeira.</span></li><li>❌ <span class=\"banca\">A pessoa jurídica só responde por crime ambiental junto com a pessoa física</span><br>✅ <span class=\"certo\">STF: responsabilidade independente.</span></li><li>❌ <span class=\"banca\">A usina nuclear pode ser instalada por decreto</span><br>✅ <span class=\"certo\">Localização definida em lei federal.</span></li><li>❌ <span class=\"banca\">O idoso tem transporte coletivo gratuito a partir dos 60</span><br>✅ <span class=\"certo\">A CF garante aos maiores de 65 (leis podem ampliar).</span></li><li>❌ <span class=\"banca\">A Justiça Desportiva tem 90 dias</span><br>✅ <span class=\"certo\">60 dias.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Meio ambiente?</span></span><span class=\"vs\"><span><b>Bem de uso comum do povo</b>, dever do Poder Público e da coletividade, para as <b>presentes e futuras gerações</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Patrimônio nacional (§ 4º)?</span></span><span class=\"vs\"><span><b>Amazônia, Mata Atlântica, Serra do Mar, Pantanal Mato-Grossense, Zona Costeira</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Responsabilidade ambiental?</span></span><span class=\"vs\"><span><b>Penal, administrativa e civil</b>, de <b>pessoas físicas ou jurídicas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Terras devolutas para ecossistemas?</span></span><span class=\"vs\"><span><b>Indisponíveis</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reator nuclear?</span></span><span class=\"vs\"><span>Localização em <b>lei federal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Casamento?</span></span><span class=\"vs\"><span><b>Civil</b>, celebração <b>gratuita</b>; divórcio <b>sem prazo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Criança e adolescente?</span></span><span class=\"vs\"><span><b>Absoluta prioridade</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Idoso?</span></span><span class=\"vs\"><span>Transporte coletivo urbano gratuito aos <b>maiores de 65</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A mineração na terra indígena</b><p>Uma mineradora obtém licença estadual para extrair ouro em área tradicionalmente ocupada por uma comunidade indígena no norte de Minas, sem consultar a comunidade.</p><details><summary>Ver a solução comentada</summary><p>As terras tradicionalmente ocupadas são <b>bens da União</b>, de <b>posse permanente</b> e <b>usufruto exclusivo</b> dos índios. A exploração de <b>recursos minerais</b> nelas depende de <b>autorização do Congresso Nacional</b>, <b>ouvidas as comunidades afetadas</b> (art. 231, § 3º). A licença estadual não supre esses requisitos, e a disputa é de competência da <b>Justiça Federal</b>, com intervenção do <b>MP</b>.</p></details></div>",
+"quiz": [
+{
+"p": "A celebração do casamento civil é sempre onerosa, sendo gratuita apenas para os comprovadamente pobres.",
+"c": false,
+"prof": "A celebração é gratuita.",
+"x": "O art. 226, § 1º, diz que o casamento é civil e gratuita a celebração. A gratuidade de que trata a Constituição é a da celebração; a habilitação e outros atos podem ter custos, com isenção para os pobres na forma da lei.",
+"e": "Celebração: gratuita."
+},
+{
+"p": "As usinas que operem com reator nuclear deverão ter sua localização definida em lei federal, sem o que não poderão ser instaladas.",
+"c": true,
+"prof": "Certo. Art. 225, § 6º.",
+"x": "A competência para legislar sobre atividades nucleares é privativa da União (art. 22, XXVI), e qualquer atividade nuclear depende de aprovação do Congresso.",
+"e": "Reator: lei federal."
+},
+{
+"p": "São indisponíveis as terras devolutas ou arrecadadas pelos Estados, por ações discriminatórias, necessárias à proteção dos ecossistemas naturais.",
+"c": true,
+"prof": "Certo. Art. 225, § 5º.",
+"x": "A indisponibilidade impede que essas terras sejam alienadas ou destinadas a outros usos incompatíveis com a proteção ambiental.",
+"e": "Devolutas ambientais: indisponíveis."
+},
+{
+"p": "Segundo o art. 225, § 4º, da Constituição, são patrimônio nacional:",
+"alts": [
+"a Floresta Amazônica, o Cerrado e a Caatinga",
+"a Floresta Amazônica brasileira, a Mata Atlântica, a Serra do Mar, o Pantanal Mato-Grossense e a Zona Costeira",
+"apenas a Floresta Amazônica e o Pantanal",
+"todos os biomas brasileiros",
+"a Mata Atlântica, o Pampa e o Cerrado"
+],
+"r": 1,
+"n": [
+"Cerrado e Caatinga não estão.",
+"Correta.",
+"A lista é maior.",
+"Não são todos.",
+"Pampa e Cerrado não estão."
+],
+"prof": "Lista fechada do § 4º.",
+"x": "A utilização desses espaços far-se-á, na forma da lei, dentro de condições que assegurem a preservação do meio ambiente, inclusive quanto ao uso dos recursos naturais.",
+"e": "Patrimônio nacional: 5 itens."
+},
+{
+"p": "As condutas lesivas ao meio ambiente sujeitam apenas as pessoas físicas a sanções penais, cabendo às pessoas jurídicas somente sanções administrativas.",
+"c": false,
+"prof": "Pessoas jurídicas também respondem penalmente.",
+"x": "O art. 225, § 3º, prevê sanções penais e administrativas para pessoas físicas ou jurídicas, além da obrigação de reparar o dano. O STF admite a responsabilização penal da pessoa jurídica independentemente da da pessoa física.",
+"e": "Pessoa jurídica: responde penalmente."
+},
+{
+"p": "É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, o direito à vida, à saúde, à alimentação, à educação e à convivência familiar e comunitária, entre outros.",
+"c": true,
+"prof": "Certo. Art. 227.",
+"x": "A absoluta prioridade significa preferência na formulação de políticas, na destinação de recursos e no atendimento nos serviços públicos (ECA, art. 4º).",
+"e": "Criança: absoluta prioridade."
+},
+{
+"p": "Aos maiores de sessenta e cinco anos, a Constituição garante:",
+"alts": [
+"aposentadoria integral automática",
+"a gratuidade dos transportes coletivos urbanos",
+"isenção de imposto de renda",
+"prioridade no voto",
+"assistência social independentemente de necessidade"
+],
+"r": 1,
+"n": [
+"Não há essa garantia.",
+"Correta: art. 230, § 2º.",
+"Não há essa garantia constitucional.",
+"Não há essa garantia.",
+"A assistência é para quem necessita."
+],
+"prof": "Idoso no transporte.",
+"x": "O art. 230, § 2º, garante aos maiores de 65 anos a gratuidade dos transportes coletivos urbanos. O Estatuto da Pessoa Idosa disciplina outros direitos.",
+"e": "65+: ônibus urbano gratuito."
+},
+{
+"p": "O Poder Judiciário só admitirá ações relativas à disciplina e às competições desportivas após esgotarem-se as instâncias da Justiça Desportiva, que terá o prazo máximo de sessenta dias para proferir decisão final.",
+"c": true,
+"prof": "Certo. Art. 217, §§ 1º e 2º.",
+"x": "Esgotado o prazo sem decisão, o interessado pode recorrer ao Judiciário. É exceção ao acesso imediato à jurisdição.",
+"e": "Desporto: 60 dias."
+},
+{
+"p": "A propriedade de empresa jornalística e de radiodifusão é privativa de brasileiros natos.",
+"c": false,
+"prof": "Também naturalizados há mais de 10 anos.",
+"x": "O art. 222 admite brasileiros natos ou naturalizados há mais de 10 anos e pessoas jurídicas constituídas sob as leis brasileiras e com sede no País, com pelo menos 70% do capital pertencente a esses brasileiros.",
+"e": "Imprensa: nato ou naturalizado há 10 anos."
+}
+]
+}
 }
 };
