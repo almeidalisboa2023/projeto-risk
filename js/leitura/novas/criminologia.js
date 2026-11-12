@@ -418,6 +418,101 @@ export default {
 ]
 },
 {
+"id": "labeling-critica",
+"titulo": "Do labelling approach à criminologia crítica; sistema penal, cárcere e marginalidade social",
+"arts": "Noções de Criminologia 8.6 a 8.8",
+"chaves": [
+"labelling approach",
+"etiquetamento",
+"becker",
+"lemert",
+"desvio primario",
+"desvio secundario",
+"criminologia critica",
+"baratta",
+"seletividade",
+"criminalizacao primaria",
+"criminalizacao secundaria",
+"carcere",
+"prisionizacao",
+"abolicionismo",
+"minimalismo"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1963</b><span>\"Outsiders\", de Howard Becker</span></div><div class=\"lt-stat\"><b>2</b><span>desvios de Lemert: primário e secundário</span></div><div class=\"lt-stat\"><b>2</b><span>criminalizações: primária (lei) e secundária (agências)</span></div><div class=\"lt-stat\"><b>1975</b><span>\"Vigiar e Punir\", de Foucault</span></div></div>\n<h3>1. Labelling approach (teoria do etiquetamento ou da reação social)</h3>\n<ul><li>Muda a pergunta: em vez de \"<b>por que</b> a pessoa comete crimes?\", pergunta \"<b>por que</b> certas pessoas e condutas são <b>definidas</b> como criminosas?\". O desvio <b>não é qualidade do ato</b>, mas resultado da <b>reação social</b> que rotula.</li><li><b>Howard Becker</b> (\"<b>Outsiders</b>\", 1963): o desviante é aquele a quem o <b>rótulo</b> foi aplicado com sucesso; os \"<b>empreendedores morais</b>\" criam as regras.</li><li><b>Edwin Lemert</b>: <b>desvio primário</b> (o ato inicial, sem grande impacto na identidade) e <b>desvio secundário</b> (a pessoa, estigmatizada pela reação social, <b>assume a identidade</b> de desviante e passa a reincidir).</li><li><b>Erving Goffman</b>: <b>estigma</b> e <b>instituições totais</b> (prisões, manicômios), que despersonalizam o internado.</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> O labelling é teoria do <b>conflito</b> (ou da reação social) e é a <b>ponte</b> para a criminologia crítica. Ele <b>não</b> explica a origem do primeiro ato, e sim como a <b>rotulação</b> produz a carreira criminosa.</div>\n<h3>2. Criminologia crítica</h3>\n<ul><li>Parte do labelling, mas acrescenta a dimensão <b>econômica e política</b> (influência marxista): o sistema penal reproduz as <b>desigualdades</b> da sociedade capitalista. Obras-chave: \"The New Criminology\" (Taylor, Walton e Young, 1973) e <b>Alessandro Baratta</b>, \"<b>Criminologia Crítica e Crítica do Direito Penal</b>\".</li><li><b>Seletividade</b>: a <b>criminalização primária</b> (o legislador escolhe o que é crime) e a <b>secundária</b> (as agências — sobretudo a <b>polícia</b> — escolhem quem será efetivamente perseguido) recaem preferencialmente sobre os grupos <b>vulneráveis</b>, enquanto crimes das elites ficam na cifra dourada.</li><li><b>Sistema penal e reprodução da realidade social</b> (Baratta): o sistema penal não só reflete, mas <b>reproduz</b> e <b>legitima</b> a estratificação social, ao etiquetar os pobres como \"delinquentes\".</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Cárcere e marginalidade social</h3>\n<ul><li><b>Michel Foucault</b> (\"<b>Vigiar e Punir</b>\", 1975): a prisão moderna é instituição <b>disciplinar</b>, que produz \"corpos dóceis\" e \"fabrica\" a delinquência útil ao controle das classes populares; o <b>Panóptico</b> (Bentham) como modelo de vigilância.</li><li><b>Prisionização</b> (Clemmer): o preso assimila a cultura carcerária, o que dificulta a reinserção. A prisão <b>reforça a marginalidade</b> e alimenta a <b>reincidência</b>.</li><li>Dario Melossi e Massimo Pavarini (\"Cárcere e Fábrica\"): relação entre prisão e mercado de trabalho; Loïc Wacquant: o Estado penal como gestão da miséria.</li></ul>\n<h3>4. Respostas: abolicionismo e minimalismo</h3>\n<ul><li><b>Abolicionismo</b> (Hulsman, Christie, Mathiesen): o sistema penal causa mais dor do que resolve; propõe substituí-lo por soluções comunitárias.</li><li><b>Minimalismo / garantismo</b> (Ferrajoli; Zaffaroni com o \"realismo marginal\"): Direito Penal <b>mínimo</b>, como *ultima ratio*, com garantias máximas.</li><li><b>Realismo de esquerda</b> (Jock Young): leva a sério o medo do crime nas periferias, sem abandonar a crítica. <b>Realismo de direita / Lei e Ordem</b>: endurecimento penal (tolerância zero).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O labelling explica por que a pessoa comete o primeiro crime</span><br>✅ <span class=\"certo\">Explica como a REAÇÃO SOCIAL rotula e consolida a carreira (desvio secundário).</span></li><li>❌ <span class=\"banca\">Criminalização secundária é a elaboração das leis penais</span><br>✅ <span class=\"certo\">Primária = lei; secundária = atuação das agências (polícia, Justiça).</span></li><li>❌ <span class=\"banca\">A criminologia crítica é teoria do consenso</span><br>✅ <span class=\"certo\">É teoria do CONFLITO.</span></li><li>❌ <span class=\"banca\">Desvio primário é o que gera a identidade criminosa</span><br>✅ <span class=\"certo\">O desvio SECUNDÁRIO decorre da rotulação e consolida a identidade.</span></li><li>❌ <span class=\"banca\">Foucault defendia a prisão como meio eficaz de ressocialização</span><br>✅ <span class=\"certo\">Criticava a prisão como instituição disciplinar que produz delinquência.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Labelling?</span></span><span class=\"vs\"><span>O desvio é produto da <b>reação social</b> (rotulação).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Becker?</span></span><span class=\"vs\"><span>\"<b>Outsiders</b>\" (1963); <b>empreendedores morais</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lemert?</span></span><span class=\"vs\"><span><b>Desvio primário</b> e <b>secundário</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Criminalização primária x secundária?</span></span><span class=\"vs\"><span><b>Lei</b> x <b>agências</b> (polícia, Justiça).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Baratta?</span></span><span class=\"vs\"><span><b>Criminologia crítica</b>; sistema penal <b>reproduz</b> a desigualdade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prisionização?</span></span><span class=\"vs\"><span>Assimilação da <b>cultura carcerária</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Para o labelling approach, o desvio não é qualidade intrínseca do ato, mas resultado da aplicação de um rótulo pela reação social.",
+"c": true,
+"prof": "Certo.",
+"x": "Becker afirma que o desviante é aquele a quem o rótulo foi aplicado com sucesso.",
+"e": "Desvio = rótulo."
+},
+{
+"p": "Para Edwin Lemert, o desvio secundário corresponde ao primeiro ato desviante praticado pelo indivíduo, antes de qualquer reação social.",
+"c": false,
+"prof": "Conceitos invertidos.",
+"x": "O desvio primário é o ato inicial. O secundário surge quando, estigmatizado pela reação social, o indivíduo assume a identidade de desviante.",
+"e": "Secundário = após a rotulação."
+},
+{
+"p": "A criminalização secundária consiste na ação punitiva exercida sobre pessoas concretas pelas agências do sistema penal, como a polícia.",
+"c": true,
+"prof": "Certo.",
+"x": "A criminalização primária é a elaboração das leis penais pelo legislador.",
+"e": "Secundária = agências."
+},
+{
+"p": "A criminologia crítica sustenta que o sistema penal atua de forma igualitária sobre todas as classes sociais.",
+"c": false,
+"prof": "A tese é a oposta.",
+"x": "A criminologia crítica denuncia a seletividade do sistema penal, que recai sobre os grupos vulneráveis e reproduz as desigualdades sociais.",
+"e": "Seletividade."
+},
+{
+"p": "Um adolescente pobre, detido por pequeno furto, passa a ser tratado na escola e no bairro como \"bandido\", perde oportunidades e, aceitando o papel, insere-se em atividades criminosas mais graves. O fenômeno é melhor explicado:",
+"alts": [
+"pela teoria do criminoso nato de Lombroso",
+"pela escola clássica de Beccaria",
+"pelo labelling approach, como passagem do desvio primário ao desvio secundário",
+"pela teoria das atividades rotineiras",
+"pela teoria da escolha racional"
+],
+"r": 2,
+"n": [
+"Não há causa biológica.",
+"Os clássicos tratam do livre-arbítrio e da pena.",
+"Correta.",
+"Explica a oportunidade do crime, não a rotulação.",
+"Explica o cálculo de custo e benefício."
+],
+"prof": "O rótulo vira identidade.",
+"x": "A rotulação social (reação ao desvio primário) leva o jovem a assumir a identidade de criminoso e a reiterar o desvio (desvio secundário), como descreve Lemert.",
+"e": "Labelling."
+},
+{
+"p": "Sobre a criminologia crítica, assinale a afirmativa correta.",
+"alts": [
+"Explica o crime exclusivamente por fatores biológicos.",
+"Denuncia a seletividade do sistema penal, que, nas criminalizações primária e secundária, atinge preferencialmente os grupos socialmente vulneráveis.",
+"Defende o aumento das penas como principal política criminal.",
+"É teoria do consenso, derivada da Escola de Chicago.",
+"Nega qualquer relação entre sistema penal e estrutura social."
+],
+"r": 1,
+"n": [
+"É abordagem sociopolítica.",
+"Correta.",
+"Esse é o discurso da Lei e Ordem.",
+"É teoria do conflito.",
+"Afirma justamente essa relação."
+],
+"prof": "Crítica = seletividade + desigualdade.",
+"x": "A criminologia crítica (Baratta) mostra que o sistema penal é seletivo e contribui para reproduzir as relações de desigualdade.",
+"e": "Seletividade."
+}
+]
+},
+{
 "id": "vitimologia",
 "titulo": "Vitimologia, vitimização e prevenção do delito",
 "arts": "Mendelsohn, von Hentig; prevenção primária, secundária e terciária",
@@ -549,6 +644,190 @@ export default {
 "c": true,
 "x": "Visam evitar a reincidência.",
 "e": "Prevenção terciária."
+}
+]
+},
+{
+"id": "justica-reconhecimento",
+"titulo": "Modelo consensual de Justiça Criminal, justiça restaurativa e criminologia do reconhecimento",
+"arts": "Noções de Criminologia 8.9 a 8.13",
+"chaves": [
+"modelo consensual de justica criminal",
+"justica restaurativa",
+"transacao penal",
+"composicao civil",
+"suspensao condicional do processo",
+"anpp",
+"resolucao cnj 225",
+"criminologia do reconhecimento",
+"honneth",
+"invisibilidade social",
+"imaginario punitivo",
+"regulacao e emancipacao"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>9.099</b><span>lei de 1995 que inaugurou o modelo consensual no Brasil</span></div><div class=\"lt-stat\"><b>225</b><span>Resolução do CNJ (2016) sobre justiça restaurativa</span></div><div class=\"lt-stat\"><b>3</b><span>esferas de reconhecimento de Honneth (amor, direito, estima social)</span></div><div class=\"lt-stat\"><b>ANPP</b><span>acordo do Pacote Anticrime (CPP, art. 28-A)</span></div></div>\n<h3>1. Modelo consensual de Justiça Criminal</h3>\n<ul><li>Em oposição ao <b>modelo conflitivo/retributivo</b> (processo + pena), o modelo <b>consensual</b> busca soluções <b>negociadas</b>, com <b>participação</b> das partes, celeridade e menos prisão, especialmente para a criminalidade de menor gravidade.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instituto</th><th>Onde</th><th>O que é</th></tr></thead><tbody><tr><td><b>Composição civil dos danos</b></td><td>Lei 9.099/1995</td><td>acordo entre autor e vítima; nos crimes de ação privada ou pública condicionada, <b>extingue a punibilidade</b> (renúncia)</td></tr><tr><td><b>Transação penal</b></td><td>Lei 9.099/1995</td><td>MP propõe pena restritiva ou multa <b>sem processo</b>, nas infrações de menor potencial ofensivo</td></tr><tr><td><b>Suspensão condicional do processo</b></td><td>Lei 9.099/1995, art. 89</td><td>crimes com pena <b>mínima</b> de até 1 ano: o processo fica suspenso por 2 a 4 anos, com condições</td></tr><tr><td><b>ANPP</b></td><td>CPP, art. 28-A</td><td>crimes sem violência, pena mínima menor que 4 anos, com <b>confissão</b></td></tr><tr><td>Colaboração premiada</td><td>Lei 12.850/2013</td><td>justiça negociada em crimes graves, com benefícios ao colaborador</td></tr></tbody></table>\n<h3>2. Justiça restaurativa</h3>\n<ul><li>Foca na <b>reparação do dano</b>, na <b>responsabilização</b> do ofensor e na <b>participação</b> da vítima e da comunidade, por meio de <b>círculos</b> e <b>encontros</b> facilitados. No Brasil, é regida pela <b>Resolução CNJ 225/2016</b>.</li><li>Princípios: corresponsabilidade, reparação dos danos, atendimento às necessidades de todos, voluntariedade, confidencialidade, consensualidade.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Criminologia do reconhecimento</h3>\n<ul><li>Inspira-se na <b>teoria do reconhecimento</b> de <b>Axel Honneth</b>: a identidade se forma pelo reconhecimento em três esferas — <b>amor</b> (afeto, autoconfiança), <b>direito</b> (igualdade jurídica, autorrespeito) e <b>solidariedade/estima social</b> (valorização das capacidades, autoestima). As formas de <b>desrespeito</b> (violência, privação de direitos, humilhação) estão na raiz de <b>conflitos sociais</b>.</li><li><b>(In)visibilidade social</b>: grupos tratados como invisíveis (jovens de periferia, população de rua) têm sua dignidade negada; a violência pode surgir como <b>busca de reconhecimento</b> e visibilidade, e a reação estatal pode reforçar a exclusão. Para essa abordagem, a <b>dignidade da pessoa humana</b> é o eixo: políticas de segurança e respostas penais devem <b>reconhecer</b> vítimas e infratores como sujeitos.</li><li><b>Fontes da violência na comunidade política democrática</b>: desigualdade, desrespeito, negação de direitos e de participação, que comprometem a coesão democrática.</li><li><b>Genealogia do imaginário punitivo moderno entre regulação e emancipação</b>: o direito moderno oscila entre o pilar da <b>regulação</b> (ordem, controle) e o da <b>emancipação</b> (liberdade, igualdade), conforme a análise de Boaventura de Sousa Santos. O imaginário punitivo moderno privilegiou a <b>regulação</b> (punir, vigiar), e a criminologia do reconhecimento propõe recuperar a dimensão <b>emancipatória</b> (direitos, inclusão).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A transação penal pressupõe condenação</span><br>✅ <span class=\"certo\">É acordo SEM processo e sem condenação.</span></li><li>❌ <span class=\"banca\">A suspensão condicional do processo exige pena máxima de 1 ano</span><br>✅ <span class=\"certo\">Exige pena MÍNIMA de até 1 ano.</span></li><li>❌ <span class=\"banca\">A justiça restaurativa exclui a vítima</span><br>✅ <span class=\"certo\">A vítima e a comunidade PARTICIPAM.</span></li><li>❌ <span class=\"banca\">Para Honneth, o reconhecimento tem uma única esfera</span><br>✅ <span class=\"certo\">São três: amor, direito e estima social.</span></li><li>❌ <span class=\"banca\">O modelo consensual se aplica só a crimes graves</span><br>✅ <span class=\"certo\">Nasceu para a criminalidade de menor gravidade (Lei 9.099).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Modelo consensual?</span></span><span class=\"vs\"><span>Soluções <b>negociadas</b>: composição civil, transação, sursis processual, ANPP, colaboração.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Justiça restaurativa?</span></span><span class=\"vs\"><span><b>Reparação</b>, responsabilização e <b>participação</b> da vítima e da comunidade (Res. CNJ 225/2016).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Honneth?</span></span><span class=\"vs\"><span>Reconhecimento em <b>amor, direito e estima social</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Invisibilidade social?</span></span><span class=\"vs\"><span>Negação da dignidade de grupos, fonte de conflitos e violência.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regulação x emancipação?</span></span><span class=\"vs\"><span>Os dois pilares da modernidade (Boaventura).</span></span></button></div></div>",
+"quiz": [
+{
+"p": "A transação penal, prevista na Lei 9.099/1995, é instrumento do modelo consensual de Justiça Criminal, permitindo a aplicação imediata de pena restritiva de direitos ou multa sem instauração de processo.",
+"c": true,
+"prof": "Certo.",
+"x": "Aplica-se às infrações de menor potencial ofensivo, com proposta do MP e aceitação do autor.",
+"e": "Transação: sem processo."
+},
+{
+"p": "A suspensão condicional do processo é cabível nos crimes cuja pena máxima não ultrapasse um ano.",
+"c": false,
+"prof": "O critério é a pena mínima.",
+"x": "O art. 89 da Lei 9.099 exige pena mínima cominada igual ou inferior a um ano.",
+"e": "Sursis processual: pena mínima."
+},
+{
+"p": "A justiça restaurativa valoriza a participação da vítima, do ofensor e da comunidade na construção de soluções para o conflito e na reparação do dano.",
+"c": true,
+"prof": "Certo.",
+"x": "No Brasil, é disciplinada pela Resolução CNJ 225/2016.",
+"e": "Restaurativa: participação."
+},
+{
+"p": "Para Axel Honneth, o reconhecimento se limita à esfera jurídica da igualdade formal.",
+"c": false,
+"prof": "Há outras esferas.",
+"x": "Honneth identifica três esferas de reconhecimento: amor (afeto), direito (igualdade jurídica) e solidariedade ou estima social.",
+"e": "Três esferas."
+},
+{
+"p": "Sobre o modelo consensual de Justiça Criminal no Brasil, assinale a afirmativa correta.",
+"alts": [
+"Foi inaugurado pelo Código de Processo Penal de 1941.",
+"Aplica-se exclusivamente aos crimes hediondos.",
+"Inclui institutos como a composição civil dos danos, a transação penal, a suspensão condicional do processo e o acordo de não persecução penal.",
+"Impede qualquer participação da vítima.",
+"Pressupõe a condenação definitiva do autor."
+],
+"r": 2,
+"n": [
+"Foi inaugurado pela Lei 9.099/1995.",
+"Nasceu para a menor gravidade.",
+"Correta.",
+"A composição civil depende da vítima.",
+"Os institutos evitam o processo ou a condenação."
+],
+"prof": "Consenso = acordo, não sentença.",
+"x": "O modelo consensual reúne instrumentos negociados, como a composição civil, a transação penal, o sursis processual (Lei 9.099/1995) e o ANPP (CPP, art. 28-A).",
+"e": "Institutos consensuais."
+},
+{
+"p": "A abordagem criminológica que vincula a violência à negação de dignidade e à invisibilidade social de determinados grupos, propondo que as respostas estatais reconheçam vítimas e infratores como sujeitos de direitos, é a:",
+"alts": [
+"Escola Positiva",
+"Escola Clássica",
+"criminologia do reconhecimento",
+"teoria da escolha racional",
+"teoria das janelas quebradas"
+],
+"r": 2,
+"n": [
+"Determinismo biológico.",
+"Livre-arbítrio e pena proporcional.",
+"Correta.",
+"Cálculo de custo e benefício.",
+"Desordem física e social."
+],
+"prof": "Reconhecimento x desrespeito.",
+"x": "A criminologia do reconhecimento, a partir de Honneth, relaciona conflitos e violência a experiências de desrespeito e invisibilidade, tendo a dignidade da pessoa humana como eixo.",
+"e": "Reconhecimento."
+}
+]
+},
+{
+"id": "policiamento",
+"titulo": "Criminologia, policiamento e segurança pública no século XXI",
+"arts": "Noções de Criminologia 8.14",
+"chaves": [
+"policiamento comunitario",
+"policiamento orientado para problemas",
+"sara",
+"hot spots",
+"policiamento orientado por inteligencia",
+"janelas quebradas",
+"tolerancia zero",
+"prevencao situacional",
+"atividades rotineiras",
+"escolha racional",
+"cpted",
+"policiamento baseado em evidencias"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1829</b><span>princípios de Robert Peel (polícia de Londres)</span></div><div class=\"lt-stat\"><b>1979</b><span>policiamento orientado para problemas (Goldstein)</span></div><div class=\"lt-stat\"><b>1982</b><span>\"Broken Windows\" (Wilson e Kelling)</span></div><div class=\"lt-stat\"><b>3</b><span>elementos das atividades rotineiras (ofensor, alvo, ausência de guardião)</span></div></div>\n<h3>1. Modelos de policiamento</h3>\n<table class=\"tab\"><thead><tr><th>Modelo</th><th>Ideia central</th></tr></thead><tbody><tr><td><b>Tradicional / reativo</b></td><td>responder a chamadas, patrulhamento aleatório, prisões; mede-se por números de ocorrências atendidas</td></tr><tr><td><b>Comunitário</b></td><td><b>parceria</b> polícia-comunidade, foco em problemas locais, <b>descentralização</b>, policial fixo no território; inspira-se nos princípios de <b>Peel</b> (\"a polícia é o público e o público é a polícia\")</td></tr><tr><td><b>Orientado para problemas</b> (Goldstein)</td><td>tratar as <b>causas</b> de problemas recorrentes, pelo método <b>SARA</b>: <b>S</b>canning (identificar), <b>A</b>nalysis (analisar), <b>R</b>esponse (responder), <b>A</b>ssessment (avaliar)</td></tr><tr><td><b>Hot spots</b></td><td>concentrar recursos nos <b>lugares e horários</b> onde o crime se concentra</td></tr><tr><td><b>Orientado por inteligência</b></td><td>decisões com base em <b>análise criminal</b> e inteligência (CompStat, mapas, redes criminosas)</td></tr><tr><td><b>Baseado em evidências</b></td><td>adotar práticas cuja eficácia foi <b>testada</b> cientificamente</td></tr></tbody></table>\n<h3>2. Teorias de oportunidade</h3>\n<ul><li><b>Escolha racional</b> (Cornish e Clarke): o infrator calcula <b>custos e benefícios</b>.</li><li><b>Atividades rotineiras</b> (Cohen e Felson, 1979): o crime ocorre quando convergem no tempo e no espaço um <b>ofensor motivado</b>, um <b>alvo adequado</b> e a <b>ausência de guardião capaz</b>.</li><li><b>Prevenção situacional</b> (Ronald Clarke): reduzir oportunidades agindo sobre o ambiente: <b>aumentar o esforço</b> (trancas, controle de acesso), <b>aumentar os riscos</b> (vigilância, iluminação, câmeras), <b>reduzir as recompensas</b> (marcar bens, não exibir valores), <b>reduzir provocações</b> e <b>remover desculpas</b> (regras claras, sinalização). <b>CPTED</b>: prevenção do crime pelo <b>desenho urbano</b>.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Janelas quebradas e tolerância zero</h3>\n<ul><li><b>Broken Windows</b> (Wilson e Kelling, 1982): sinais de <b>desordem</b> (janela quebrada, pichação, lixo) transmitem a ideia de que ninguém controla o lugar e atraem crimes mais graves. Inspirou a <b>tolerância zero</b> em Nova York (anos 1990), com repressão a pequenas infrações.</li><li>Críticas: risco de <b>seletividade</b>, abordagens excessivas contra pobres e minorias, efeito incerto (a queda do crime em NY teve múltiplas causas).</li></ul>\n<h3>4. Segurança pública no século XXI</h3>\n<ul><li>Tendências: <b>análise criminal</b> e georreferenciamento, <b>inteligência</b>, integração entre agências, <b>câmeras corporais</b>, <b>transparência</b> de dados, controle da <b>letalidade</b> policial, <b>participação social</b> (segurança cidadã), atenção às <b>vítimas</b> e prevenção baseada em <b>evidências</b>.</li><li>No Brasil: <b>SUSP</b> (Lei 13.675/2018), com a ideia de política nacional integrada, metas e avaliação de resultados.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Policiamento comunitário é sinônimo de policiamento reativo</span><br>✅ <span class=\"certo\">Comunitário é proativo, em parceria e com foco em problemas.</span></li><li>❌ <span class=\"banca\">Na teoria das atividades rotineiras basta o ofensor motivado</span><br>✅ <span class=\"certo\">Exige ofensor motivado + alvo adequado + AUSÊNCIA de guardião capaz.</span></li><li>❌ <span class=\"banca\">SARA é técnica de interrogatório</span><br>✅ <span class=\"certo\">É o método do policiamento orientado para problemas.</span></li><li>❌ <span class=\"banca\">Janelas quebradas defende que só crimes graves devem ser reprimidos</span><br>✅ <span class=\"certo\">Defende enfrentar a DESORDEM e pequenas infrações.</span></li><li>❌ <span class=\"banca\">Prevenção situacional atua nas causas sociais profundas</span><br>✅ <span class=\"certo\">Atua nas OPORTUNIDADES do ambiente.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípios de Peel?</span></span><span class=\"vs\"><span><b>Polícia comunitária</b>: \"a polícia é o público\".</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SARA?</span></span><span class=\"vs\"><span><b>Scanning, Analysis, Response, Assessment</b> (Goldstein).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atividades rotineiras?</span></span><span class=\"vs\"><span><b>Ofensor motivado + alvo adequado + ausência de guardião</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Broken windows?</span></span><span class=\"vs\"><span><b>Desordem</b> atrai crime (Wilson e Kelling, 1982).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prevenção situacional?</span></span><span class=\"vs\"><span>Reduzir <b>oportunidades</b> (Clarke).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hot spots?</span></span><span class=\"vs\"><span>Concentrar recursos em <b>lugares</b> críticos.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Os furtos na saída do metrô</b><p>A análise criminal mostra que 60% dos furtos de celular de uma região ocorrem em duas esquinas, entre 18h e 20h, na saída do metrô, em área escura e com comércio informal.</p><details><summary>Ver a solução comentada</summary><p>Pelo <b>policiamento orientado para problemas</b> (SARA) e pela <b>prevenção situacional</b>: identificar o problema (scanning), analisar padrões (analysis), responder com presença policial nos <b>hot spots</b> e horários, <b>iluminação</b>, câmeras, campanha de prevenção e investigação de <b>receptadores</b> (response), e <b>avaliar</b> o resultado (assessment).</p></details></div>",
+"quiz": [
+{
+"p": "A teoria das atividades rotineiras sustenta que o crime ocorre com a convergência, no tempo e no espaço, de um ofensor motivado, um alvo adequado e a ausência de um guardião capaz.",
+"c": true,
+"prof": "Certo.",
+"x": "A teoria foi formulada por Cohen e Felson (1979) e fundamenta estratégias de prevenção situacional.",
+"e": "Três elementos."
+},
+{
+"p": "O método SARA, do policiamento orientado para problemas, é composto pelas etapas de suspeita, abordagem, revista e autuação.",
+"c": false,
+"prof": "As letras significam outra coisa.",
+"x": "SARA = Scanning (identificação), Analysis (análise), Response (resposta) e Assessment (avaliação).",
+"e": "SARA."
+},
+{
+"p": "A teoria das janelas quebradas sustenta que sinais de desordem física e social favorecem o surgimento de crimes mais graves.",
+"c": true,
+"prof": "Certo.",
+"x": "Formulada por Wilson e Kelling (1982), inspirou a política de tolerância zero, alvo de críticas por seletividade.",
+"e": "Desordem gera crime."
+},
+{
+"p": "A prevenção situacional busca eliminar as causas sociais profundas da criminalidade, como a desigualdade de renda.",
+"c": false,
+"prof": "O foco é outro.",
+"x": "A prevenção situacional atua sobre as oportunidades do ambiente (aumentar esforço e riscos, reduzir recompensas). As causas sociais são o campo da prevenção primária.",
+"e": "Situacional = oportunidade."
+},
+{
+"p": "Uma delegacia passou a mapear os locais e horários de maior incidência de roubos, concentrando ali equipes de investigação e patrulhamento, e a avaliar mensalmente os resultados. Essa estratégia corresponde, principalmente, ao policiamento:",
+"alts": [
+"tradicional aleatório",
+"de hot spots, orientado por análise criminal",
+"baseado no criminoso nato",
+"abolicionista",
+"exclusivamente reativo"
+],
+"r": 1,
+"n": [
+"O patrulhamento aleatório não usa dados.",
+"Correta.",
+"Sem relação.",
+"Não é modelo de policiamento.",
+"Há proatividade."
+],
+"prof": "Dados + lugares críticos = hot spots.",
+"x": "O policiamento de hot spots concentra recursos nos locais e horários de maior concentração criminal, com base em análise e avaliação de resultados.",
+"e": "Hot spots."
+},
+{
+"p": "O policiamento comunitário caracteriza-se por:",
+"alts": [
+"centralização das decisões e atendimento exclusivo a chamadas de emergência",
+"parceria com a comunidade, descentralização e foco na solução de problemas locais",
+"rodízio constante dos policiais entre bairros para evitar vínculos",
+"priorização de prisões em flagrante como única métrica",
+"substituição da investigação por patrulhamento"
+],
+"r": 1,
+"n": [
+"Esse é o modelo tradicional.",
+"Correta.",
+"O comunitário busca a fixação do policial no território.",
+"A métrica é a solução de problemas.",
+"Não substitui a investigação."
+],
+"prof": "Comunitário = proximidade + parceria + problemas.",
+"x": "O policiamento comunitário aproxima a polícia da população, descentraliza decisões e foca na prevenção e na solução conjunta de problemas locais.",
+"e": "Parceria e problemas."
 }
 ]
 }

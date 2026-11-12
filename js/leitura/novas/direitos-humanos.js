@@ -544,6 +544,97 @@ export default {
 ]
 },
 {
+"id": "democracia-seguranca",
+"titulo": "Democracia, cidadania e Direitos Humanos; segurança pública e Direitos Humanos",
+"arts": "Noções de Direitos Humanos 6.5 e 6.10",
+"chaves": [
+"democracia",
+"cidadania",
+"seguranca publica e direitos humanos",
+"uso da forca",
+"lei 13.060",
+"portaria 4.226",
+"codigo de conduta para encarregados da aplicacao da lei",
+"principios basicos sobre o uso da forca",
+"susp",
+"lei 13.675",
+"sumula vinculante 11"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1979</b><span>Código de Conduta da ONU para os Encarregados da Aplicação da Lei</span></div><div class=\"lt-stat\"><b>1990</b><span>Princípios Básicos sobre o Uso da Força e Armas de Fogo</span></div><div class=\"lt-stat\"><b>13.060</b><span>Lei de 2014 sobre instrumentos de menor potencial ofensivo</span></div><div class=\"lt-stat\"><b>13.675</b><span>Lei de 2018 que criou o SUSP</span></div></div>\n<h3>1. Democracia e cidadania</h3>\n<ul><li>Direitos humanos e democracia <b>se reforçam</b>: sem liberdades (expressão, reunião, voto) não há democracia, e sem democracia os direitos não têm garantia. A <b>Carta Democrática Interamericana</b> (2001) afirma que os povos das Américas têm <b>direito à democracia</b>.</li><li><b>Cidadania</b> é fundamento da República (CF, art. 1º, II). Em sentido amplo, é ter <b>direitos civis, políticos e sociais</b> (T. H. Marshall) e participar da vida pública: conselhos, conferências, audiências públicas, controle social da polícia.</li></ul>\n<h3>2. Segurança pública como direito</h3>\n<ul><li>A segurança pública é <b>dever do Estado, direito e responsabilidade de todos</b> (CF, art. 144). A polícia é <b>garantidora</b> de direitos: protege a vida, a integridade e o patrimônio, e por isso também deve respeitá-los.</li><li><b>Lei 13.675/2018</b> (SUSP e Política Nacional de Segurança Pública e Defesa Social): entre os princípios, <b>proteção dos direitos humanos</b>, <b>respeito ao ordenamento jurídico</b>, <b>participação e controle social</b>, <b>uso comedido e proporcional da força</b>, eficiência na prevenção e na repressão, <b>transparência</b> e responsabilização.</li></ul>\n<h3>3. Uso da força: o padrão internacional e nacional</h3>\n<table class=\"tab\"><thead><tr><th>Norma</th><th>Ideia central</th></tr></thead><tbody><tr><td><b>Código de Conduta da ONU</b> (1979)</td><td>o encarregado de aplicar a lei respeita a dignidade; usa a força <b>só quando estritamente necessária</b> e na medida exigida; <b>nunca tortura</b>, ainda que haja ordem superior</td></tr><tr><td><b>Princípios Básicos da ONU</b> (1990)</td><td>arma de fogo <b>só em último caso</b>: legítima defesa própria ou de terceiros contra <b>ameaça iminente de morte ou ferimento grave</b>; identificar-se e <b>avisar</b>, quando possível</td></tr><tr><td><b>Portaria Interministerial 4.226/2010</b></td><td>princípios de <b>legalidade, necessidade, proporcionalidade, moderação e conveniência</b>; não é legítimo atirar contra pessoa em <b>fuga desarmada</b> ou contra <b>veículo</b> que fura bloqueio sem representar risco imediato; <b>disparo de advertência</b> não é prática aceitável</td></tr><tr><td><b>Lei 13.060/2014</b></td><td>prioridade aos <b>instrumentos de menor potencial ofensivo</b>; repete as vedações acima; <b>formação e capacitação</b> obrigatórias</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Gradação do uso da força: <b>presença</b> → <b>verbalização</b> → controle de <b>contato</b> (técnicas de mãos livres) → <b>menor potencial ofensivo</b> (espargidor, condutor de energia) → <b>força letal</b>, só diante de ameaça iminente à vida.</div>\n<div class=\"lt-pare\"></div>\n<h3>4. Algemas, custódia e tortura</h3>\n<ul><li><b>Súmula Vinculante 11</b>: só é lícito o uso de <b>algemas</b> em caso de <b>resistência</b>, <b>fundado receio de fuga</b> ou <b>perigo</b> à integridade física própria ou alheia, <b>justificada por escrito</b>, sob pena de responsabilidade e de nulidade da prisão ou do ato. O CPP proíbe algemas em mulher <b>durante o parto</b> e no período imediato.</li><li><b>Tortura</b> é crime inafiançável e insuscetível de graça ou anistia (CF, art. 5º, XLIII; Lei 9.455/1997). Responde também quem se <b>omite</b> quando tinha o dever de evitá-la ou apurá-la. O <b>Protocolo de Istambul</b> orienta a investigação e documentação da tortura, e a Lei 12.847/2013 criou o <b>Mecanismo Nacional de Prevenção e Combate à Tortura</b>.</li><li><b>Regras de Mandela</b> (ONU, 2015): tratamento mínimo de pessoas presas (proibição de isolamento prolongado, acesso à saúde, registro de presos).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 11</b><p class=\"jc-tese\">Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito.</p><p class=\"jc-com\">Na prática da PCMG: anote no auto ou no boletim <b>por que</b> algemou. A falta de justificativa gera responsabilidade e pode anular o ato.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADPF 635 (\"ADPF das Favelas\")</b><p class=\"jc-tese\">O STF fixou parâmetros para operações policiais em comunidades do Rio de Janeiro, como uso proporcional da força, preservação de locais de crime, câmeras corporais e investigação independente de mortes.</p><p class=\"jc-com\">A decisão dialoga com o caso Favela Nova Brasília e com a ideia de que a letalidade policial deve ser <b>controlada e investigada</b>.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Disparo de advertência é procedimento recomendado</span><br>✅ <span class=\"certo\">A Portaria 4.226/2010 diz que não é prática aceitável.</span></li><li>❌ <span class=\"banca\">Pode-se atirar em pessoa em fuga desarmada</span><br>✅ <span class=\"certo\">Não é legítimo, salvo risco imediato de morte ou lesão grave.</span></li><li>❌ <span class=\"banca\">Ordem superior justifica tortura</span><br>✅ <span class=\"certo\">Nunca (Código de Conduta da ONU; Lei 9.455/1997).</span></li><li>❌ <span class=\"banca\">Algemas exigem só justificativa verbal</span><br>✅ <span class=\"certo\">A justificativa deve ser POR ESCRITO (SV 11).</span></li><li>❌ <span class=\"banca\">Segurança pública é dever exclusivo da polícia</span><br>✅ <span class=\"certo\">É dever do Estado, direito e responsabilidade de TODOS (art. 144).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípios do uso da força (Portaria 4.226)?</span></span><span class=\"vs\"><span><b>Legalidade, necessidade, proporcionalidade, moderação e conveniência</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arma de fogo?</span></span><span class=\"vs\"><span>Último recurso, contra <b>ameaça iminente de morte ou lesão grave</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Disparo de advertência?</span></span><span class=\"vs\"><span><b>Não</b> é prática aceitável.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Algemas?</span></span><span class=\"vs\"><span><b>Resistência, fuga ou perigo</b>, justificadas <b>por escrito</b> (SV 11).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei do SUSP?</span></span><span class=\"vs\"><span><b>Lei 13.675/2018</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O veículo que furou o bloqueio</b><p>Durante blitz, um carro desobedece à ordem de parada e acelera, sem atirar nem avançar contra os policiais. Um agente pensa em atirar nos pneus para pará-lo.</p><details><summary>Ver a solução comentada</summary><p>Pela Lei 13.060/2014 e pela Portaria 4.226/2010, <b>não é legítimo</b> atirar contra veículo que desrespeita bloqueio policial, <b>salvo</b> se representar <b>risco imediato de morte ou lesão grave</b> aos agentes ou a terceiros. O correto é acompanhar, informar, cercar e usar outros meios.</p></details></div>",
+"quiz": [
+{
+"p": "Segundo a Lei 13.060/2014, não é legítimo o uso de arma de fogo contra pessoa em fuga que esteja desarmada ou que não represente risco imediato de morte ou de lesão aos agentes de segurança ou a terceiros.",
+"c": true,
+"prof": "Certo.",
+"x": "A lei também veda o disparo contra veículo que desrespeite bloqueio policial, salvo risco imediato de morte ou lesão.",
+"e": "Fuga desarmada: não atirar."
+},
+{
+"p": "O disparo de arma de fogo para o alto, como advertência, é procedimento recomendado pelas diretrizes nacionais sobre uso da força.",
+"c": false,
+"prof": "É o contrário.",
+"x": "A Portaria Interministerial 4.226/2010 estabelece que os disparos de advertência não são considerados prática aceitável, pela imprevisibilidade dos efeitos.",
+"e": "Advertência: não."
+},
+{
+"p": "A segurança pública é dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.",
+"c": true,
+"prof": "Certo. CF, art. 144, caput.",
+"x": "A visão democrática da segurança pública envolve participação e controle social.",
+"e": "Art. 144."
+},
+{
+"p": "Segundo o Código de Conduta da ONU para os Encarregados da Aplicação da Lei, a ordem de superior hierárquico justifica a prática de tortura em situações excepcionais.",
+"c": false,
+"prof": "A proibição é absoluta.",
+"x": "O Código de Conduta proíbe a tortura e afirma que nenhuma ordem superior ou circunstância excepcional a justifica.",
+"e": "Tortura: nunca."
+},
+{
+"p": "Conforme a Súmula Vinculante 11, o uso de algemas é lícito:",
+"alts": [
+"em qualquer prisão em flagrante, como medida de rotina",
+"em caso de resistência, fundado receio de fuga ou perigo à integridade física, justificado por escrito",
+"apenas por ordem judicial prévia",
+"somente em presos condenados definitivamente",
+"sempre que o preso for reincidente"
+],
+"r": 1,
+"n": [
+"Não é medida de rotina.",
+"Correta.",
+"Não se exige ordem judicial.",
+"Não é critério.",
+"Reincidência isolada não justifica."
+],
+"prof": "Algema é exceção justificada por escrito.",
+"x": "A SV 11 admite algemas em caso de resistência, fundado receio de fuga ou perigo, com justificativa escrita, sob pena de responsabilidade e nulidade do ato.",
+"e": "SV 11."
+},
+{
+"p": "Segundo a Portaria Interministerial 4.226/2010, os princípios que devem orientar o uso da força pelos agentes de segurança pública são:",
+"alts": [
+"hierarquia, disciplina, obediência e lealdade",
+"legalidade, necessidade, proporcionalidade, moderação e conveniência",
+"eficiência, celeridade, economicidade e publicidade",
+"autoridade, imperatividade, presunção de legitimidade e coercibilidade",
+"razoabilidade, discricionariedade e autoexecutoriedade"
+],
+"r": 1,
+"n": [
+"Valores institucionais, não princípios do uso da força.",
+"Correta.",
+"Princípios da administração em geral.",
+"Atributos de ato administrativo.",
+"Não é a lista da Portaria."
+],
+"prof": "L-N-P-M-C.",
+"x": "A Portaria 4.226/2010 lista legalidade, necessidade, proporcionalidade, moderação e conveniência como princípios do uso da força.",
+"e": "LNPMC."
+}
+]
+},
+{
 "id": "grupos",
 "titulo": "Grupos vulneráveis e políticas públicas",
 "arts": "Estatutos e convenções",
@@ -676,6 +767,184 @@ export default {
 "c": true,
 "x": "Lei 9.474, art. 11.",
 "e": "Lei 9.474."
+}
+]
+},
+{
+"id": "pndh-educacao",
+"titulo": "Política Nacional de Direitos Humanos (PNDH-3) e educação e cultura em Direitos Humanos",
+"arts": "Noções de Direitos Humanos 6.7 e 6.8",
+"chaves": [
+"pndh",
+"pndh-3",
+"decreto 7.037",
+"programa nacional de direitos humanos",
+"eixos orientadores",
+"memoria e verdade",
+"educacao em direitos humanos",
+"pnedh",
+"diretrizes nacionais para a educacao em direitos humanos"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>Programas Nacionais: 1996, 2002 e 2009</span></div><div class=\"lt-stat\"><b>6</b><span>eixos orientadores do PNDH-3</span></div><div class=\"lt-stat\"><b>5</b><span>eixos do Plano Nacional de Educação em Direitos Humanos (PNEDH)</span></div><div class=\"lt-stat\"><b>2012</b><span>Diretrizes Nacionais para a Educação em DH (CNE)</span></div></div>\n<h3>1. Os Programas Nacionais de Direitos Humanos</h3>\n<ul><li>Atendendo à recomendação da <b>Conferência de Viena (1993)</b>, o Brasil lançou o <b>PNDH-1 (1996)</b>, com ênfase em <b>direitos civis e políticos</b>; o <b>PNDH-2 (2002)</b> incorporou os <b>direitos econômicos, sociais e culturais</b>; o <b>PNDH-3</b> foi instituído pelo <b>Decreto 7.037/2009</b> e é o vigente.</li></ul>\n<table class=\"tab\"><thead><tr><th>PNDH-3: eixos orientadores</th><th>Exemplos de diretrizes</th></tr></thead><tbody><tr><td>I – <b>Interação democrática</b> entre Estado e sociedade civil</td><td>participação social, fortalecimento de conselhos</td></tr><tr><td>II – <b>Desenvolvimento</b> e Direitos Humanos</td><td>desenvolvimento sustentável e inclusivo</td></tr><tr><td>III – <b>Universalizar direitos</b> em um contexto de desigualdades</td><td>combate à discriminação, proteção de grupos vulneráveis</td></tr><tr><td>IV – <b>Segurança pública, acesso à justiça e combate à violência</b></td><td>democratização e modernização da segurança, combate à tortura, controle do uso da força, valorização dos profissionais</td></tr><tr><td>V – <b>Educação e cultura</b> em Direitos Humanos</td><td>formação de profissionais, inclusive da segurança pública</td></tr><tr><td>VI – Direito à <b>memória e à verdade</b></td><td>preservação da memória histórica sobre violações (Comissão Nacional da Verdade)</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> O eixo de <b>segurança pública</b> (IV) prevê, entre outros, a <b>modernização</b> das polícias, a <b>padronização</b> de procedimentos, o <b>controle externo</b> e a <b>redução da letalidade</b> nas ações policiais. É o eixo que mais aparece em provas de carreira policial.</div>\n<div class=\"lt-pare\"></div>\n<h3>2. Educação e cultura em Direitos Humanos</h3>\n<ul><li>A educação em DH busca formar <b>sujeitos de direitos</b>, com conhecimento histórico, valores e atitudes, para uma <b>cultura de direitos humanos</b> (respeito à diversidade, tolerância, solidariedade).</li><li><b>Plano Nacional de Educação em Direitos Humanos (PNEDH)</b>: <b>5 eixos</b>: educação <b>básica</b>; educação <b>superior</b>; educação <b>não formal</b>; <b>educação dos profissionais dos sistemas de justiça e segurança</b>; educação e <b>mídia</b>.</li><li><b>Diretrizes Nacionais para a Educação em DH</b> (Resolução CNE/CP 1/2012): princípios como <b>dignidade humana</b>, <b>igualdade de direitos</b>, <b>reconhecimento e valorização das diferenças</b>, <b>laicidade do Estado</b>, <b>democracia na educação</b>, transversalidade e sustentabilidade socioambiental.</li><li>No plano internacional: Década da ONU para a Educação em DH (1995-2004) e <b>Programa Mundial de Educação em DH</b> (desde 2005), cuja segunda fase incluiu a formação de <b>servidores públicos, policiais e militares</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O PNDH-3 foi instituído por lei</span><br>✅ <span class=\"certo\">Foi instituído pelo DECRETO 7.037/2009.</span></li><li>❌ <span class=\"banca\">O PNDH-1 priorizou direitos sociais</span><br>✅ <span class=\"certo\">Priorizou direitos civis e políticos; o PNDH-2 incorporou os sociais.</span></li><li>❌ <span class=\"banca\">Educação em DH é só a escolar</span><br>✅ <span class=\"certo\">Inclui educação não formal, mídia e formação de profissionais da justiça e da segurança.</span></li><li>❌ <span class=\"banca\">O PNDH-3 tem 3 eixos</span><br>✅ <span class=\"certo\">São 6 eixos orientadores.</span></li><li>❌ <span class=\"banca\">O direito à memória e à verdade não integra o PNDH-3</span><br>✅ <span class=\"certo\">É o eixo VI.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>PNDH-3?</span></span><span class=\"vs\"><span><b>Decreto 7.037/2009</b>; <b>6 eixos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eixo IV do PNDH-3?</span></span><span class=\"vs\"><span><b>Segurança pública, acesso à justiça e combate à violência</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eixo VI?</span></span><span class=\"vs\"><span><b>Memória e verdade</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eixos do PNEDH?</span></span><span class=\"vs\"><span>Básica, superior, <b>não formal</b>, <b>profissionais de justiça e segurança</b>, <b>mídia</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Origem dos programas nacionais?</span></span><span class=\"vs\"><span><b>Viena, 1993</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "O Programa Nacional de Direitos Humanos 3 (PNDH-3) foi instituído pelo Decreto 7.037/2009 e organiza-se em seis eixos orientadores.",
+"c": true,
+"prof": "Certo.",
+"x": "Os eixos vão da interação democrática entre Estado e sociedade civil até o direito à memória e à verdade.",
+"e": "Decreto 7.037; 6 eixos."
+},
+{
+"p": "O PNDH-1, de 1996, teve como foco principal os direitos econômicos, sociais e culturais.",
+"c": false,
+"prof": "O foco foi outro.",
+"x": "O PNDH-1 priorizou os direitos civis e políticos. O PNDH-2 (2002) incorporou os direitos econômicos, sociais e culturais.",
+"e": "PNDH-1: civis e políticos."
+},
+{
+"p": "Segurança pública, acesso à justiça e combate à violência constituem um dos eixos orientadores do PNDH-3.",
+"c": true,
+"prof": "Certo. Eixo IV.",
+"x": "O eixo prevê, entre outras diretrizes, a modernização das polícias, o combate à tortura e o controle do uso da força.",
+"e": "Eixo IV."
+},
+{
+"p": "A educação em direitos humanos limita-se ao ensino formal nas escolas e universidades.",
+"c": false,
+"prof": "O conceito é mais amplo.",
+"x": "O PNEDH abrange também a educação não formal, a mídia e a formação dos profissionais dos sistemas de justiça e segurança.",
+"e": "Educação em DH ampla."
+},
+{
+"p": "São eixos do Plano Nacional de Educação em Direitos Humanos (PNEDH):",
+"alts": [
+"saúde, previdência e assistência social",
+"educação básica, educação superior, educação não formal, educação dos profissionais dos sistemas de justiça e segurança, e educação e mídia",
+"segurança pública, defesa nacional e relações exteriores",
+"memória e verdade, desenvolvimento e interação democrática",
+"ensino fundamental, ensino médio e pós-graduação, apenas"
+],
+"r": 1,
+"n": [
+"Seguridade social, não educação em DH.",
+"Correta.",
+"Não são eixos do PNEDH.",
+"São eixos do PNDH-3.",
+"Lista incompleta e errada."
+],
+"prof": "Cinco espaços onde se educa para os direitos humanos.",
+"x": "O PNEDH organiza-se em cinco eixos: educação básica, superior, não formal, dos profissionais dos sistemas de justiça e segurança, e educação e mídia.",
+"e": "5 eixos do PNEDH."
+},
+{
+"p": "Assinale a alternativa que relaciona corretamente o eixo orientador do PNDH-3 e o seu conteúdo.",
+"alts": [
+"Eixo VI – desenvolvimento econômico sustentável",
+"Eixo IV – segurança pública, acesso à justiça e combate à violência",
+"Eixo I – memória e verdade",
+"Eixo V – política externa",
+"Eixo II – universalização dos direitos em contexto de desigualdades"
+],
+"r": 1,
+"n": [
+"O eixo VI é memória e verdade.",
+"Correta.",
+"O eixo I é interação democrática.",
+"O eixo V é educação e cultura em DH.",
+"O eixo II é desenvolvimento e DH; universalizar direitos é o III."
+],
+"prof": "I interação, II desenvolvimento, III universalizar, IV segurança, V educação, VI memória.",
+"x": "O eixo IV do PNDH-3 trata de segurança pública, acesso à justiça e combate à violência.",
+"e": "Eixo IV."
+}
+]
+},
+{
+"id": "agenda-2030",
+"titulo": "Agenda 2030 e os Objetivos de Desenvolvimento Sustentável",
+"arts": "Noções de Direitos Humanos 6.9",
+"chaves": [
+"agenda 2030",
+"objetivos de desenvolvimento sustentavel",
+"ods",
+"ods 16",
+"ods 5",
+"onu 2015",
+"5 ps",
+"nao deixar ninguem para tras",
+"objetivos de desenvolvimento do milenio"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>17</b><span>Objetivos de Desenvolvimento Sustentável</span></div><div class=\"lt-stat\"><b>169</b><span>metas</span></div><div class=\"lt-stat\"><b>2015</b><span>ano de adoção pela Assembleia Geral da ONU</span></div><div class=\"lt-stat\"><b>5 Ps</b><span>pessoas, planeta, prosperidade, paz e parcerias</span></div></div>\n<h3>1. O que é</h3>\n<ul><li>A <b>Agenda 2030</b> (\"Transformando Nosso Mundo\") foi adotada em <b>setembro de 2015</b> pelos Estados-membros da ONU. Sucede os <b>8 Objetivos de Desenvolvimento do Milênio</b> (2000-2015) e traz <b>17 ODS</b> e <b>169 metas</b> a serem alcançados até <b>2030</b>.</li><li>Princípio central: <b>\"não deixar ninguém para trás\"</b>. Os ODS são <b>integrados e indivisíveis</b> e equilibram as dimensões <b>econômica, social e ambiental</b> do desenvolvimento.</li><li>Natureza: <b>compromisso político</b>, <b>não é tratado</b> com força vinculante. O acompanhamento é feito por relatórios voluntários e indicadores.</li></ul>\n<table class=\"tab\"><thead><tr><th>Os 5 Ps</th><th>Ideia</th></tr></thead><tbody><tr><td><b>Pessoas</b></td><td>erradicar a pobreza e a fome; dignidade e igualdade</td></tr><tr><td><b>Planeta</b></td><td>proteger os recursos naturais e o clima</td></tr><tr><td><b>Prosperidade</b></td><td>vidas prósperas e progresso econômico em harmonia com a natureza</td></tr><tr><td><b>Paz</b></td><td>sociedades pacíficas, justas e inclusivas</td></tr><tr><td><b>Parcerias</b></td><td>implementação com solidariedade global</td></tr></tbody></table>\n<h3>2. Os ODS mais ligados à segurança pública e aos direitos humanos</h3>\n<table class=\"tab\"><thead><tr><th>ODS</th><th>Tema</th></tr></thead><tbody><tr><td>1</td><td>Erradicação da <b>pobreza</b></td></tr><tr><td>4</td><td><b>Educação</b> de qualidade</td></tr><tr><td><b>5</b></td><td><b>Igualdade de gênero</b> (inclui eliminar a violência contra mulheres e meninas, o casamento infantil e a mutilação genital)</td></tr><tr><td>10</td><td><b>Redução das desigualdades</b></td></tr><tr><td>11</td><td>Cidades e comunidades sustentáveis (seguras e inclusivas)</td></tr><tr><td><b>16</b></td><td><b>Paz, justiça e instituições eficazes</b>: reduzir a violência e as mortes relacionadas; acabar com abuso, exploração, <b>tráfico</b> e tortura de crianças; <b>estado de direito e acesso à justiça</b>; combater fluxos ilícitos de <b>armas</b> e dinheiro e o <b>crime organizado</b>; reduzir a <b>corrupção</b>; <b>registro civil</b> para todos; instituições transparentes</td></tr><tr><td>17</td><td>Parcerias e meios de implementação</td></tr></tbody></table>\n<div class=\"lt-pare\"></div>\n<ul><li>Para a polícia, o <b>ODS 16</b> é a ponte direta: investigação eficiente, redução de homicídios, combate à corrupção e ao tráfico de pessoas e de armas, e instituições <b>eficazes, responsáveis e transparentes</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Agenda 2030 tem 8 objetivos</span><br>✅ <span class=\"certo\">Tem 17 ODS e 169 metas; 8 eram os Objetivos do Milênio.</span></li><li>❌ <span class=\"banca\">A Agenda 2030 é tratado vinculante</span><br>✅ <span class=\"certo\">É compromisso político, sem força vinculante.</span></li><li>❌ <span class=\"banca\">O ODS 16 trata de clima</span><br>✅ <span class=\"certo\">ODS 16 = paz, justiça e instituições eficazes (clima é o 13).</span></li><li>❌ <span class=\"banca\">A Agenda 2030 foi adotada em 2000</span><br>✅ <span class=\"certo\">Em 2015 (os ODM é que eram de 2000).</span></li><li>❌ <span class=\"banca\">Os ODS são independentes entre si</span><br>✅ <span class=\"certo\">São integrados e indivisíveis.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quantos ODS e metas?</span></span><span class=\"vs\"><span><b>17</b> e <b>169</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quando foi adotada?</span></span><span class=\"vs\"><span><b>2015</b>, pela Assembleia Geral da ONU.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lema?</span></span><span class=\"vs\"><span><b>\"Não deixar ninguém para trás\"</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ODS 16?</span></span><span class=\"vs\"><span><b>Paz, justiça e instituições eficazes</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ODS 5?</span></span><span class=\"vs\"><span><b>Igualdade de gênero</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Os 5 Ps?</span></span><span class=\"vs\"><span><b>Pessoas, planeta, prosperidade, paz e parcerias</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "A Agenda 2030 para o Desenvolvimento Sustentável contém 17 objetivos e 169 metas, adotados pelos Estados-membros da ONU em 2015.",
+"c": true,
+"prof": "Certo.",
+"x": "Ela sucedeu os 8 Objetivos de Desenvolvimento do Milênio (2000-2015).",
+"e": "17 ODS, 169 metas."
+},
+{
+"p": "O ODS 16 trata da ação contra a mudança global do clima.",
+"c": false,
+"prof": "Números trocados.",
+"x": "O ODS 16 trata de paz, justiça e instituições eficazes. A ação climática é o ODS 13.",
+"e": "ODS 16 = paz e justiça."
+},
+{
+"p": "A Agenda 2030 não é tratado internacional e não possui força jurídica vinculante, constituindo compromisso político dos Estados.",
+"c": true,
+"prof": "Certo.",
+"x": "O acompanhamento é feito por relatórios voluntários e indicadores nacionais e globais.",
+"e": "Compromisso político."
+},
+{
+"p": "Os Objetivos de Desenvolvimento Sustentável devem ser implementados de forma isolada, cada um com prioridade sobre os demais.",
+"c": false,
+"prof": "A Agenda diz o oposto.",
+"x": "Os ODS são integrados e indivisíveis e equilibram as dimensões econômica, social e ambiental.",
+"e": "Integrados."
+},
+{
+"p": "Reduzir significativamente todas as formas de violência e as taxas de mortalidade relacionadas, combater o crime organizado, reduzir a corrupção e garantir acesso à justiça são metas do:",
+"alts": [
+"ODS 3 – Saúde e bem-estar",
+"ODS 8 – Trabalho decente",
+"ODS 16 – Paz, justiça e instituições eficazes",
+"ODS 13 – Ação contra a mudança do clima",
+"ODS 14 – Vida na água"
+],
+"r": 2,
+"n": [
+"Saúde.",
+"Trabalho e crescimento econômico.",
+"Correta.",
+"Clima.",
+"Oceanos."
+],
+"prof": "Violência, crime, corrupção e justiça = 16.",
+"x": "O ODS 16 promove sociedades pacíficas e inclusivas, acesso à justiça e instituições eficazes, responsáveis e inclusivas.",
+"e": "ODS 16."
+},
+{
+"p": "Sobre a Agenda 2030, assinale a afirmativa correta.",
+"alts": [
+"Foi aprovada como tratado pelo Congresso Nacional, com status supralegal.",
+"Tem como princípio \"não deixar ninguém para trás\" e estrutura-se nas dimensões pessoas, planeta, prosperidade, paz e parcerias.",
+"Substituiu a Declaração Universal dos Direitos Humanos.",
+"Tem prazo final em 2050.",
+"Possui 8 objetivos, todos voltados ao meio ambiente."
+],
+"r": 1,
+"n": [
+"Não é tratado.",
+"Correta.",
+"Não substitui a DUDH.",
+"O prazo é 2030.",
+"São 17 objetivos, de várias áreas."
+],
+"prof": "5 Ps e \"ninguém para trás\".",
+"x": "A Agenda 2030 é um plano de ação baseado nos 5 Ps e no compromisso de não deixar ninguém para trás, com 17 ODS e 169 metas.",
+"e": "5 Ps."
 }
 ]
 }

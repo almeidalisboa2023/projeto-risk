@@ -850,3 +850,27 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .cp-config { margin: 10px 0; border: 1px solid var(--borda); border-radius: 12px; padding: 10px 14px; }
 .cp-config ol { line-height: 1.7; padding-left: 20px; }
 .cp-url { display: inline-block; background: var(--pill); padding: 3px 8px; border-radius: 6px; font-size: 12.5px; overflow-wrap: anywhere; }
+
+/* ===== Imagens no conteúdo programático (inseridas pelo administrador) ===== */
+.lt-fig { margin: 14px auto; text-align: center; max-width: 100%; }
+.lt-fig img { display: block; width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--borda); background: var(--hero); }
+.lt-fig figcaption { font-size: 13px; color: var(--txt2); margin-top: 6px; line-height: 1.4; }
+.lt-fig-p { width: 35%; } .lt-fig-m { width: 60%; } .lt-fig-g { width: 100%; }
+.lt-fig-centro { display: block; clear: both; }
+.lt-fig-esq { float: left; margin: 6px 18px 12px 0; }
+.lt-fig-dir { float: right; margin: 6px 0 12px 18px; }
+.lt-fig-g.lt-fig-esq, .lt-fig-g.lt-fig-dir { float: none; margin: 14px auto; }
+.lt-corpo h3, .lt-corpo .lt-box, .lt-corpo table, .lt-corpo .lt-pegs { clear: both; }
+@media (max-width: 640px) { .lt-fig, .lt-fig-p, .lt-fig-m { width: 100%; float: none !important; margin: 12px 0 !important; } }
+.lt-corpo { position: relative; }
+.ed-area .lt-fig { cursor: grab; outline: 2px dashed transparent; outline-offset: 4px; border-radius: 12px; }
+.ed-area .lt-fig:hover { outline-color: color-mix(in srgb, var(--ouro2) 60%, transparent); }
+.ed-area .lt-fig.ed-sel { outline: 3px solid var(--ouro2); }
+.ed-area .ed-arrastando { opacity: .4; }
+.ed-area .ed-alvo { box-shadow: 0 -3px 0 var(--ouro2); }
+.ed-area .ed-alvo.ed-alvo-baixo { box-shadow: 0 3px 0 var(--ouro2); }
+.ed-figbar { position: absolute; z-index: 5; display: flex; flex-wrap: wrap; gap: 3px; align-items: center; background: var(--card); border: 1px solid var(--borda); border-radius: 10px; padding: 4px; box-shadow: 0 6px 20px rgba(0,0,0,.15); }
+.ed-figbar button { border: 1px solid var(--borda); background: var(--card); color: var(--txt); border-radius: 7px; padding: 3px 8px; font-size: 13px; cursor: pointer; }
+.ed-figbar button:hover { background: color-mix(in srgb, var(--ouro) 18%, transparent); }
+.ed-figbar span { width: 1px; height: 18px; background: var(--borda); margin: 0 2px; }
+.ed-prev img { max-width: 100%; max-height: 200px; border-radius: 10px; margin-bottom: 8px; }

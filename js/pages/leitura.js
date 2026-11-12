@@ -2,7 +2,7 @@
 import { S, isAdmin } from '../state.js';
 import { padronizar, minutosLeitura } from '../estetica.js';
 import { esc, norm, iso, hoje } from '../util.js';
-import { db } from '../backend.js';
+import { db, storage, MODO_DEMO } from '../backend.js';
 import { toast, modal } from '../ui.js';
 import { visiveis, materiasDe, acharLeitura, chaveQ } from '../leitura/index.js';
 import { meuCurso, minhaBanca } from '../cursos.js';
@@ -298,12 +298,98 @@ export function quiz(el, mat, a, ctx0) {
   desenhar();
 }
 
+// ---------- imagens no editor (só administrador) ----------
+// Insere a imagem onde estava o cursor; depois, clicando nela, dá para mudar posição, tamanho, legenda,
+// subir/descer de bloco ou arrastar para qualquer ponto do texto.
+const POS = { esq: 'lt-fig-esq', centro: 'lt-fig-centro', dir: 'lt-fig-dir' };
+const TAM = { p: 'lt-fig-p', m: 'lt-fig-m', g: 'lt-fig-g' };
+function figuraHtml(src, legenda, pos, tam, alt) {
+  return `<figure class="lt-fig ${POS[pos] || POS.centro} ${TAM[tam] || TAM.m}" contenteditable="false" draggable="true"><img src="${esc(src)}" alt="${esc(alt || legenda || 'Imagem ilustrativa')}" loading="lazy">${legenda ? `<figcaption>${esc(legenda)}</figcaption>` : ''}</figure>`;
+}
+function ligarImagens(area, corpo) {
+  let faixa = null; // ponto do texto onde a imagem vai entrar
+  const guarda = () => { const sel = getSelection(); if (sel.rangeCount && area.contains(sel.anchorNode)) faixa = sel.getRangeAt(0).cloneRange(); };
+  area.addEventListener('keyup', guarda); area.addEventListener('mouseup', guarda);
+  const blocoDe = (n) => { while (n && n.parentNode !== area) n = n.parentNode; return n && n !== area ? n : null; };
+  const inserir = (htmlFig) => {
+    const tmp = document.createElement('div'); tmp.innerHTML = htmlFig; const fig = tmp.firstElementChild;
+    const bl = faixa ? blocoDe(faixa.startContainer) : null;
+    if (bl) bl.after(fig); else area.appendChild(fig);
+    seleciona(fig); fig.scrollIntoView({ block: 'center', behavior: 'smooth' });
+  };
+  corpo.querySelector('[data-img]').onclick = () => {
+    guarda();
+    modal(`<h3>Inserir imagem</h3>
+      <p class="muted" style="font-size:13px;margin-top:-6px">A imagem entra logo depois do parágrafo onde está o cursor. Depois você pode arrastá-la ou usar ↑ ↓ para mudar de lugar.</p>
+      <div class="campo"><label>Arquivo (JPG, PNG ou WebP, até 5 MB)</label><input type="file" id="imF" accept="image/*"></div>
+      <div class="campo"><label>ou endereço da imagem (https://…)</label><input id="imU" placeholder="https://" style="width:100%"></div>
+      <div class="ed-prev" id="imP" hidden></div>
+      <div class="campo"><label>Legenda (opcional)</label><input id="imL" style="width:100%" placeholder="Ex.: Fluxo do inquérito policial"></div>
+      <div class="row"><div class="campo"><label>Posição</label><select id="imPos"><option value="centro">Centro (sozinha na linha)</option><option value="esq">À esquerda, texto ao lado</option><option value="dir">À direita, texto ao lado</option></select></div>
+        <div class="campo"><label>Tamanho</label><select id="imTam"><option value="p">Pequena</option><option value="m" selected>Média</option><option value="g">Largura total</option></select></div></div>
+      <p class="muted" style="font-size:12px">Use imagens próprias ou com direito de uso. Evite brasões e logotipos oficiais.</p>
+      <div class="row"><span class="sp"></span><button class="btn" id="imOk">Inserir</button></div>`, {
+      onMount: (m, close) => {
+        const $ = (q) => m.querySelector(q); let arq = null;
+        $('#imF').onchange = (e) => { arq = e.target.files[0] || null; if (!arq) return; if (arq.size > 5 * 1024 * 1024) { arq = null; e.target.value = ''; return toast('A imagem deve ter até 5 MB.', 'erro'); } $('#imP').hidden = false; $('#imP').innerHTML = `<img src="${URL.createObjectURL(arq)}" alt="">`; };
+        $('#imOk').onclick = async (ev) => {
+          const url = $('#imU').value.trim();
+          if (!arq && !/^https:\/\//i.test(url)) return toast('Escolha um arquivo ou cole um endereço https://', 'erro');
+          ev.target.disabled = true;
+          try {
+            let src = url;
+            if (arq) { const ext = (arq.name.split('.').pop() || 'jpg').toLowerCase().replace(/[^a-z0-9]/g, ''); src = await storage.upload('leitura', `img-${Date.now()}-${Math.random().toString(36).slice(2, 7)}.${ext}`, arq); }
+            inserir(figuraHtml(src, $('#imL').value.trim(), $('#imPos').value, $('#imTam').value));
+            if (MODO_DEMO && arq) toast('No modo demonstração a imagem some ao recarregar.');
+            close();
+          } catch (e) { toast(/bucket|not found|leitura/i.test(e.message) ? 'Rode a atualização 17 no Supabase para poder enviar imagens.' : e.message, 'erro'); ev.target.disabled = false; }
+        };
+      },
+    });
+  };
+  // Barra de ajuste da imagem selecionada
+  const barra = document.createElement('div'); barra.className = 'ed-figbar'; barra.hidden = true;
+  barra.innerHTML = `<button data-f="esq" title="À esquerda">⬅</button><button data-f="centro" title="Centro">⬛</button><button data-f="dir" title="À direita">➡</button><span></span><button data-t="p">P</button><button data-t="m">M</button><button data-t="g">G</button><span></span><button data-mv="-1" title="Subir um bloco">↑</button><button data-mv="1" title="Descer um bloco">↓</button><button data-leg title="Legenda">✏ Legenda</button><button data-del title="Remover">🗑</button>`;
+  corpo.appendChild(barra);
+  let sel = null;
+  const posiciona = () => { if (!sel) return; const r = sel.getBoundingClientRect(), c = corpo.getBoundingClientRect(); barra.style.top = `${r.top - c.top - 44 + corpo.scrollTop}px`; barra.style.left = `${Math.max(0, r.left - c.left)}px`; };
+  function seleciona(fig) { area.querySelectorAll('.ed-sel').forEach((x) => x.classList.remove('ed-sel')); sel = fig; if (fig) { fig.classList.add('ed-sel'); barra.hidden = false; posiciona(); } else barra.hidden = true; }
+  area.addEventListener('click', (e) => { const f = e.target.closest('figure.lt-fig'); seleciona(f && area.contains(f) ? f : null); });
+  barra.onmousedown = (e) => e.preventDefault();
+  barra.querySelectorAll('[data-f]').forEach((b) => (b.onclick = () => { if (!sel) return; Object.values(POS).forEach((c) => sel.classList.remove(c)); sel.classList.add(POS[b.dataset.f]); posiciona(); }));
+  barra.querySelectorAll('[data-t]').forEach((b) => (b.onclick = () => { if (!sel) return; Object.values(TAM).forEach((c) => sel.classList.remove(c)); sel.classList.add(TAM[b.dataset.t]); posiciona(); }));
+  barra.querySelectorAll('[data-mv]').forEach((b) => (b.onclick = () => { if (!sel) return; if (b.dataset.mv === '-1') sel.previousElementSibling?.before(sel); else sel.nextElementSibling?.after(sel); posiciona(); sel.scrollIntoView({ block: 'nearest' }); }));
+  barra.querySelector('[data-leg]').onclick = () => { if (!sel) return; const atual = sel.querySelector('figcaption')?.textContent || ''; const t = prompt('Legenda da imagem (deixe vazio para tirar):', atual); if (t === null) return; let fc = sel.querySelector('figcaption'); if (!t.trim()) { fc?.remove(); return; } if (!fc) { fc = document.createElement('figcaption'); sel.appendChild(fc); } fc.textContent = t.trim(); const im = sel.querySelector('img'); if (im && (!im.alt || im.alt === 'Imagem ilustrativa')) im.alt = t.trim(); };
+  barra.querySelector('[data-del]').onclick = () => { if (sel && confirm('Remover esta imagem do texto?')) { sel.remove(); seleciona(null); } };
+  window.addEventListener('scroll', posiciona, { passive: true });
+  // Arrastar e soltar em qualquer ponto do texto
+  let arrastando = null;
+  area.addEventListener('dragstart', (e) => { const f = e.target.closest?.('figure.lt-fig'); if (!f) return; arrastando = f; e.dataTransfer.effectAllowed = 'move'; e.dataTransfer.setData('text/plain', ''); f.classList.add('ed-arrastando'); });
+  area.addEventListener('dragend', () => { arrastando?.classList.remove('ed-arrastando'); arrastando = null; area.querySelectorAll('.ed-alvo').forEach((x) => x.classList.remove('ed-alvo', 'ed-alvo-baixo')); });
+  area.addEventListener('dragover', (e) => {
+    if (!arrastando) return; e.preventDefault();
+    area.querySelectorAll('.ed-alvo').forEach((x) => x.classList.remove('ed-alvo', 'ed-alvo-baixo'));
+    const bl = blocoDe(e.target); if (!bl || bl === arrastando) return;
+    const r = bl.getBoundingClientRect(); bl.classList.add('ed-alvo'); if (e.clientY > r.top + r.height / 2) bl.classList.add('ed-alvo-baixo');
+  });
+  area.addEventListener('drop', (e) => {
+    if (!arrastando) return; e.preventDefault();
+    const bl = blocoDe(e.target);
+    if (bl && bl !== arrastando) { const r = bl.getBoundingClientRect(); if (e.clientY > r.top + r.height / 2) bl.after(arrastando); else bl.before(arrastando); }
+    area.querySelectorAll('.ed-alvo').forEach((x) => x.classList.remove('ed-alvo', 'ed-alvo-baixo'));
+    seleciona(arrastando); arrastando.classList.remove('ed-arrastando'); arrastando = null;
+  });
+}
+
 // ---------- edição do texto pelo administrador ----------
 // Edita o texto "cru" do tópico (sem as questões e marcações automáticas) e grava em leitura_edicoes: vale para todos os alunos.
 const limparEdicao = (html) => {
   const t = document.createElement('template'); t.innerHTML = html;
   t.content.querySelectorAll('script,iframe,object,embed,style,link,meta').forEach((x) => x.remove());
-  t.content.querySelectorAll('*').forEach((x) => [...x.attributes].forEach((at) => { if (/^on/i.test(at.name) || /javascript:/i.test(at.value) || at.name === 'contenteditable') x.removeAttribute(at.name); }));
+  t.content.querySelectorAll('*').forEach((x) => [...x.attributes].forEach((at) => { if (/^on/i.test(at.name) || /javascript:/i.test(at.value) || ['contenteditable', 'draggable'].includes(at.name)) x.removeAttribute(at.name); }));
+  t.content.querySelectorAll('img').forEach((im) => { if (!/^(https:|data:image\/|blob:)/i.test(im.getAttribute('src') || '')) im.closest('figure')?.remove() ?? im.remove(); });
+  t.content.querySelectorAll('.ed-sel').forEach((x) => x.classList.remove('ed-sel'));
+  t.content.querySelectorAll('.ed-figbar').forEach((x) => x.remove());
   return t.innerHTML.replace(/<p>\s*(<br>)?\s*<\/p>/g, '').trim();
 };
 function editar(el, q, mat, a) {
@@ -320,6 +406,7 @@ function editar(el, q, mat, a) {
       <button data-x="lt-dica" title="Caixa de dica">💡 Dica</button>
       <button data-x="lt-ex" title="Caixa de exemplo">✍ Exemplo</button>
       <button data-x="lt-lei" title="Quadro de texto da lei">📜 Lei</button>
+      <button data-img title="Inserir imagem no ponto onde está o cursor">🖼 Imagem</button>
       <button data-c="undo" title="Desfazer">↶</button>
       <button data-html title="Editar o código HTML">&lt;/&gt;</button>
     </div>
@@ -345,6 +432,7 @@ function editar(el, q, mat, a) {
     const d = document.createElement('div'); d.className = b.dataset.x; d.innerHTML = `<b class="lt-tit">${TIT[b.dataset.x]}</b> `;
     n.before(d); d.appendChild(n);
   }));
+  ligarImagens(area, corpo);
   corpo.querySelector('[data-html]').onclick = () => {
     if (cod.hidden) { cod.value = area.innerHTML; cod.hidden = false; area.hidden = true; }
     else { area.innerHTML = cod.value; cod.hidden = true; area.hidden = false; }

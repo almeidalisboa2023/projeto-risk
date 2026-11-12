@@ -315,6 +315,244 @@ export default {
 ]
 },
 {
+"id": "internet-navegadores",
+"titulo": "Internet: URL, domínios, protocolos, Google Chrome, cookies, proxy e Marco Civil",
+"arts": "Informática Básica 3.4",
+"chaves": [
+"url",
+"dominio",
+"google chrome",
+"cookies",
+"navegacao anonima",
+"proxy",
+"marco civil da internet",
+"lei 12.965",
+"protocolos da camada de aplicacao"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>6 meses</b><span>guarda dos registros de acesso a aplicações (provedor de aplicação)</span></div><div class=\"lt-stat\"><b>1 ano</b><span>guarda dos registros de conexão (provedor de conexão)</span></div><div class=\"lt-stat\"><b>Ctrl+Shift+N</b><span>janela anônima no Chrome</span></div><div class=\"lt-stat\"><b>443</b><span>porta padrão do HTTPS</span></div></div>\n<h3>1. URL e domínios</h3>\n<code class=\"lt-formula\">protocolo://servidor:porta/caminho/arquivo?consulta#fragmento</code>\n<ul><li>Exemplo: <b>https://www.policiacivil.mg.gov.br/noticias?ano=2026</b>. O <b>protocolo</b> (https), o <b>domínio</b> (policiacivil.mg.gov.br), o <b>caminho</b> (/noticias) e a <b>consulta</b> (?ano=2026).</li><li><b>Tipos de URL</b>: <b>absoluta</b> (endereço completo) e <b>relativa</b> (parte do endereço, a partir da página atual). URLs também servem para outros protocolos: <b>ftp://</b>, <b>mailto:</b>, <b>file://</b>.</li><li><b>Domínios</b>: o <b>de primeiro nível</b> (TLD) é o final (.br, .com). No Brasil, o <b>registro.br</b> administra os domínios <b>.br</b>: <b>.gov.br</b> (governo), <b>.jus.br</b> (Judiciário), <b>.leg.br</b> (Legislativo), <b>.mp.br</b> (Ministério Público), <b>.mil.br</b> (militares), <b>.edu.br</b>, <b>.org.br</b>, <b>.com.br</b>.</li></ul>\n<h3>2. Protocolos da camada de aplicação</h3>\n<ul><li><b>HTTP</b> (web), <b>HTTPS</b> (web com <b>TLS</b>: cadeado no navegador), <b>FTP</b> (arquivos), <b>SMTP</b> (envio de e-mail), <b>POP3/IMAP</b> (recebimento), <b>DNS</b> (nomes), <b>DHCP</b>, <b>SSH</b>, <b>SNMP</b>.</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> O <b>cadeado do HTTPS</b> garante que a <b>comunicação está cifrada</b> e que o site tem certificado. <b>Não garante que o site é honesto</b>: páginas de phishing também usam HTTPS.</div>\n<h3>3. Google Chrome (versão 93 ou superior)</h3>\n<table class=\"tab\"><thead><tr><th>Atalho</th><th>Função</th></tr></thead><tbody><tr><td>Ctrl+T</td><td>nova guia</td></tr><tr><td>Ctrl+Shift+T</td><td><b>reabrir</b> a guia fechada</td></tr><tr><td>Ctrl+N</td><td>nova janela</td></tr><tr><td><b>Ctrl+Shift+N</b></td><td>janela <b>anônima</b></td></tr><tr><td>Ctrl+H</td><td>histórico</td></tr><tr><td>Ctrl+J</td><td>downloads</td></tr><tr><td>Ctrl+D</td><td>adicionar aos favoritos</td></tr><tr><td>Ctrl+Shift+B</td><td>mostrar/ocultar barra de favoritos</td></tr><tr><td>Ctrl+Shift+Del</td><td>limpar dados de navegação</td></tr><tr><td>Ctrl+L (ou F6)</td><td>selecionar a barra de endereços</td></tr><tr><td>F5 / Ctrl+R</td><td>recarregar</td></tr><tr><td>F11</td><td>tela cheia</td></tr><tr><td>Ctrl+F</td><td>localizar na página</td></tr></tbody></table>\n<ul><li><b>Navegação anônima</b>: ao fechar as janelas anônimas, o Chrome <b>não guarda histórico, cookies, dados de formulários e permissões</b> daquela sessão. Mas <b>downloads e favoritos ficam</b>, e a navegação <b>continua visível</b> para o provedor de internet, o empregador/rede da escola e os sites visitados.</li><li><b>Cookies</b>: pequenos arquivos que os sites gravam no navegador (login, preferências, carrinho, rastreamento). <b>De sessão</b> (somem ao fechar) e <b>persistentes</b> (ficam até expirar); <b>primários</b> (do site visitado) e <b>de terceiros</b> (de anunciantes, usados para rastrear). Podem ser bloqueados nas configurações de <b>Privacidade e segurança</b>.</li><li><b>Privacidade e segurança</b> no Chrome: Navegação segura (alerta de sites perigosos), bloqueio de cookies de terceiros, permissões por site (câmera, microfone, localização), verificação de senhas vazadas.</li></ul>\n<h3>4. Proxy</h3>\n<ul><li><b>Servidor proxy</b> é um <b>intermediário</b> entre o computador e a internet: pode <b>filtrar</b> sites, guardar páginas em <b>cache</b>, registrar acessos e esconder o IP interno. Em órgãos públicos é comum o proxy corporativo.</li><li>No <b>Chrome</b>, a configuração de proxy usa a do <b>sistema operacional</b> (em Configurações > Sistema > \"Abrir as configurações de proxy do computador\").</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>5. Marco Civil da Internet (Lei 12.965/2014)</h3>\n<ul><li><b>Fundamentos e princípios</b>: liberdade de expressão, <b>proteção da privacidade e dos dados pessoais</b>, <b>neutralidade de rede</b> (tratar os pacotes de forma isonômica, sem discriminar por conteúdo, origem ou aplicação), preservação da estabilidade e da segurança da rede.</li><li><b>Guarda de registros</b>: o provedor de <b>conexão</b> guarda os <b>registros de conexão</b> por <b>1 ano</b>; o provedor de <b>aplicação</b> (sites, redes sociais) guarda os <b>registros de acesso a aplicações</b> por <b>6 meses</b>, em sigilo. O fornecimento depende de <b>ordem judicial</b>. Autoridade policial ou MP podem <b>requerer cautelarmente</b> que os registros sejam guardados por prazo maior.</li><li><b>Dados cadastrais</b> (qualificação pessoal, filiação e endereço) podem ser requisitados <b>diretamente</b> por autoridades com competência legal (como o <b>Delegado</b>), sem ordem judicial.</li><li>Provedor de <b>conexão</b> não responde por conteúdo de terceiros. O provedor de <b>aplicação</b> tinha, pelo art. 19, responsabilidade só depois de <b>ordem judicial</b> específica não cumprida.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Temas 533 e 987 (2025)</b><p class=\"jc-tese\">O art. 19 do Marco Civil é parcialmente inconstitucional: para conteúdos ilícitos graves (como crimes), o provedor de aplicação pode responder se, notificado, não remover o conteúdo; para crimes contra a honra, continua valendo a regra da ordem judicial.</p><p class=\"jc-com\">A decisão ampliou o dever de cuidado das plataformas. Para a prova, guarde a regra do texto (art. 19: ordem judicial) e saiba que o STF a flexibilizou. A exceção do art. 21 (nudez ou ato sexual privado divulgado sem autorização) sempre funcionou com <b>notificação da vítima</b>.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A navegação anônima esconde o acesso do provedor de internet</span><br>✅ <span class=\"certo\">O provedor, a rede corporativa e os sites ainda veem o acesso.</span></li><li>❌ <span class=\"banca\">Downloads feitos no modo anônimo são apagados</span><br>✅ <span class=\"certo\">Os arquivos baixados e os favoritos permanecem.</span></li><li>❌ <span class=\"banca\">HTTPS garante que o site é confiável</span><br>✅ <span class=\"certo\">HTTPS garante canal cifrado, não a honestidade do site.</span></li><li>❌ <span class=\"banca\">Registros de acesso a aplicações são guardados por 1 ano</span><br>✅ <span class=\"certo\">Aplicações: 6 meses; conexão: 1 ano.</span></li><li>❌ <span class=\"banca\">Dados cadastrais só com ordem judicial</span><br>✅ <span class=\"certo\">Podem ser requisitados diretamente pela autoridade com competência legal.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ctrl+Shift+T no Chrome?</span></span><span class=\"vs\"><span><b>Reabre</b> a última guia fechada.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>O que o modo anônimo NÃO guarda?</span></span><span class=\"vs\"><span>Histórico, cookies e dados de formulário da sessão.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Proxy?</span></span><span class=\"vs\"><span><b>Intermediário</b> entre o usuário e a internet: filtro, cache, registro.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Guarda de registros (Marco Civil)?</span></span><span class=\"vs\"><span>Conexão <b>1 ano</b>; aplicações <b>6 meses</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Neutralidade de rede?</span></span><span class=\"vs\"><span>Tratar os pacotes de forma <b>isonômica</b>, sem discriminar conteúdo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Delegado requisita dados cadastrais?</span></span><span class=\"vs\"><span><b>Sim</b>, sem ordem judicial.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Na navegação anônima do Google Chrome, o histórico e os cookies da sessão não são mantidos após o fechamento das janelas anônimas, mas os arquivos baixados permanecem no computador.",
+"c": true,
+"prof": "Certo.",
+"x": "Os downloads e os favoritos criados no modo anônimo continuam salvos. A navegação também não fica oculta para o provedor de internet nem para a rede corporativa.",
+"e": "Anônimo apaga sessão, não downloads."
+},
+{
+"p": "O cadeado exibido na barra de endereços garante que o site acessado é legítimo e não se trata de golpe.",
+"c": false,
+"prof": "O cadeado diz respeito ao canal.",
+"x": "O cadeado indica conexão HTTPS cifrada com certificado válido. Sites de phishing também podem ter HTTPS.",
+"e": "Cadeado ≠ site honesto."
+},
+{
+"p": "Segundo o Marco Civil da Internet, o provedor de aplicações deve manter os registros de acesso a aplicações de internet, sob sigilo, pelo prazo de seis meses.",
+"c": true,
+"prof": "Certo. É o art. 15.",
+"x": "O provedor de conexão guarda os registros de conexão por 1 ano (art. 13). O acesso aos registros depende de ordem judicial.",
+"e": "Aplicação: 6 meses."
+},
+{
+"p": "A neutralidade de rede autoriza o provedor a reduzir a velocidade de aplicativos de vídeo concorrentes de seus serviços.",
+"c": false,
+"prof": "É exatamente o que a neutralidade proíbe.",
+"x": "A neutralidade exige tratamento isonômico dos pacotes, sem distinção por conteúdo, origem, destino, serviço ou aplicação.",
+"e": "Neutralidade = isonomia."
+},
+{
+"p": "O servidor proxy atua como intermediário entre os computadores da rede interna e a internet, podendo filtrar acessos e armazenar páginas em cache.",
+"c": true,
+"prof": "Certo.",
+"x": "Em órgãos públicos, o proxy corporativo controla e registra a navegação.",
+"e": "Proxy intermediário."
+},
+{
+"p": "Um investigador fechou, por engano, uma guia do Google Chrome com uma consulta importante. Para reabri-la rapidamente, deve usar:",
+"alts": [
+"Ctrl + T",
+"Ctrl + N",
+"Ctrl + Shift + T",
+"Ctrl + H",
+"Ctrl + Shift + N"
+],
+"r": 2,
+"n": [
+"Abre guia nova vazia.",
+"Abre janela nova.",
+"Correta.",
+"Abre o histórico (também resolveria, mas não \"rapidamente\").",
+"Abre janela anônima."
+],
+"prof": "O Shift \"desfaz\" o T.",
+"x": "Ctrl+Shift+T reabre a última guia fechada, inclusive várias vezes seguidas, na ordem inversa.",
+"e": "Ctrl+Shift+T."
+},
+{
+"p": "Na URL https://www.exemplo.mg.gov.br:8443/sistema/consulta?placa=ABC1D23, assinale a afirmativa correta.",
+"alts": [
+"\"consulta\" é o domínio de primeiro nível.",
+"8443 indica a porta utilizada, diferente da porta padrão do HTTPS.",
+"\"placa=ABC1D23\" é o protocolo de transporte.",
+"\"gov.br\" indica um site de empresa privada.",
+"O protocolo usado é o FTP."
+],
+"r": 1,
+"n": [
+"O TLD é .br.",
+"Correta: a porta padrão do HTTPS é 443.",
+"É a string de consulta.",
+".gov.br é governo.",
+"O protocolo é HTTPS."
+],
+"prof": "Depois dos dois-pontos do servidor vem a porta.",
+"x": "A estrutura é protocolo (https), servidor (www.exemplo.mg.gov.br), porta (8443), caminho (/sistema/consulta) e consulta (?placa=...).",
+"e": ":8443 = porta."
+},
+{
+"p": "Investigando ameaças publicadas em rede social, o Delegado precisa identificar quem usava determinada conta. À luz do Marco Civil da Internet:",
+"alts": [
+"o provedor deve entregar os registros de acesso diretamente ao Delegado, sem ordem judicial",
+"os registros de acesso dependem de ordem judicial, mas os dados cadastrais (qualificação, filiação e endereço) podem ser requisitados pela autoridade com competência legal",
+"nenhum dado pode ser fornecido em investigação criminal",
+"o provedor de aplicação guarda os registros por 5 anos",
+"o provedor de conexão é responsável pelo conteúdo das ameaças"
+],
+"r": 1,
+"n": [
+"Registros exigem ordem judicial.",
+"Correta: arts. 10, § 3º, e 15, § 3º.",
+"Há previsão de fornecimento.",
+"O prazo é de 6 meses.",
+"O provedor de conexão não responde por conteúdo de terceiros."
+],
+"prof": "Separe registros (ordem judicial) de dados cadastrais (requisição direta).",
+"x": "O Marco Civil exige ordem judicial para os registros de conexão e de acesso, mas permite que autoridades com competência legal requisitem dados cadastrais. Por isso a investigação costuma começar pelo pedido judicial de registros e pelo cadastro.",
+"e": "Registro: juiz. Cadastro: requisição."
+}
+]
+},
+{
+"id": "email-outlook",
+"titulo": "Correio eletrônico e Microsoft Outlook 2016",
+"arts": "Informática Básica 3.5",
+"chaves": [
+"correio eletronico",
+"e-mail",
+"outlook 2016",
+"webmail",
+"cc",
+"cco",
+"responder a todos",
+"encaminhar",
+"pst",
+"pgp e-mail",
+"smtp",
+"pop3",
+"imap"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>Cco</b><span>destinatários ocultos</span></div><div class=\"lt-stat\"><b>25/587</b><span>portas do SMTP (envio)</span></div><div class=\"lt-stat\"><b>.pst</b><span>arquivo de dados (backup) do Outlook</span></div><div class=\"lt-stat\"><b>2</b><span>chaves no PGP: pública e privada</span></div></div>\n<h3>1. Endereço e campos</h3>\n<ul><li>Endereço: <b>usuario@dominio</b> (investigador@pc.mg.gov.br). O que vem depois do @ é o domínio do servidor de e-mail.</li></ul>\n<table class=\"tab\"><thead><tr><th>Campo</th><th>Função</th></tr></thead><tbody><tr><td><b>Para</b></td><td>destinatários principais</td></tr><tr><td><b>Cc</b> (com cópia)</td><td>recebem cópia; <b>todos veem</b> quem está em Cc</td></tr><tr><td><b>Cco</b> (com cópia oculta)</td><td>recebem cópia sem que os demais saibam; <b>ninguém vê</b> os endereços em Cco</td></tr><tr><td><b>Assunto</b></td><td>resumo da mensagem</td></tr><tr><td><b>Anexo</b></td><td>arquivo enviado junto (limite de tamanho do servidor)</td></tr></tbody></table>\n<ul><li><b>Responder</b>: só ao remetente, <b>sem os anexos</b>. <b>Responder a todos</b>: ao remetente e aos que estavam em Para e Cc (<b>não</b> inclui quem estava em <b>Cco</b>), sem anexos. <b>Encaminhar</b>: a outra pessoa, <b>com os anexos</b>.</li></ul>\n<h3>2. Envio e recebimento</h3>\n<ul><li><b>SMTP</b> envia (do programa ao servidor e entre servidores). <b>POP3</b> baixa as mensagens para o computador (em geral, apaga do servidor). <b>IMAP</b> sincroniza: as mensagens <b>ficam no servidor</b> e aparecem iguais em todos os dispositivos.</li><li><b>Webmail</b>: acesso pelo <b>navegador</b> (Gmail, Outlook.com), sem instalar programa. <b>Cliente de e-mail</b>: programa instalado (Outlook, Thunderbird).</li></ul>\n<h3>3. Outlook 2016</h3>\n<ul><li>Pastas padrão: <b>Caixa de Entrada</b>, <b>Itens Enviados</b>, <b>Rascunhos</b>, <b>Caixa de Saída</b> (aguardando envio), <b>Lixo Eletrônico</b> (spam), <b>Itens Excluídos</b>, <b>Arquivo Morto</b>.</li><li><b>Regras</b>: mover automaticamente mensagens por remetente, assunto ou palavras. <b>Categorias</b>, <b>sinalizadores</b> e <b>pesquisa</b> ajudam a organizar.</li><li><b>Backup</b>: o Outlook guarda os dados em <b>arquivos .pst</b> (Arquivo de Dados do Outlook), que podem ser <b>exportados/importados</b>; o <b>.ost</b> é a cópia off-line de contas Exchange/IMAP. O <b>Arquivamento</b> (AutoArquivar) move mensagens antigas para um .pst.</li><li><b>Compactação</b>: arquivos grandes podem ser compactados (.zip) antes de anexar; o Outlook também tem \"Limpeza da Caixa de Correio\".</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>4. Sigilo e autenticidade com PGP</h3>\n<table class=\"tab\"><thead><tr><th>Objetivo</th><th>Quem usa qual chave</th></tr></thead><tbody><tr><td><b>Sigilo</b> (confidencialidade)</td><td>o remetente <b>cifra</b> com a <b>chave pública do destinatário</b>; só a <b>chave privada do destinatário</b> decifra</td></tr><tr><td><b>Autenticidade</b> (e integridade, não repúdio)</td><td>o remetente <b>assina</b> com a <b>sua chave privada</b>; qualquer um confere com a <b>chave pública do remetente</b></td></tr></tbody></table>\n<ul><li>A <b>chave pública</b> pode ser divulgada (inclusive em <b>servidores de chaves</b>, consultados pela web ou por aplicativos); a <b>chave privada</b> nunca é compartilhada.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para <b>esconder</b>, use a chave do <b>outro</b> (pública do destinatário). Para <b>assinar</b>, use a <b>sua</b> (privada).</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quem está em Cco recebe as respostas do \"Responder a todos\"</span><br>✅ <span class=\"certo\">O \"Responder a todos\" não inclui os destinatários em Cco.</span></li><li>❌ <span class=\"banca\">Responder envia os anexos de volta</span><br>✅ <span class=\"certo\">Responder não reenvia anexos; Encaminhar envia.</span></li><li>❌ <span class=\"banca\">POP3 mantém tudo sincronizado em vários aparelhos</span><br>✅ <span class=\"certo\">Quem sincroniza é o IMAP.</span></li><li>❌ <span class=\"banca\">Para cifrar uso minha chave privada</span><br>✅ <span class=\"certo\">Para cifrar, a chave PÚBLICA do destinatário; para assinar, a minha PRIVADA.</span></li><li>❌ <span class=\"banca\">O arquivo .pst é o executável do Outlook</span><br>✅ <span class=\"certo\">.pst é o arquivo de dados (backup) das mensagens.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cc x Cco?</span></span><span class=\"vs\"><span><b>Cc</b>: todos veem. <b>Cco</b>: ninguém vê os endereços.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Encaminhar leva anexos?</span></span><span class=\"vs\"><span><b>Sim</b>. Responder <b>não</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SMTP, POP3, IMAP?</span></span><span class=\"vs\"><span><b>Envio</b>; baixar; <b>sincronizar</b> no servidor.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Backup do Outlook?</span></span><span class=\"vs\"><span>Arquivo <b>.pst</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>PGP: cifrar?</span></span><span class=\"vs\"><span><b>Chave pública do destinatário</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>PGP: assinar?</span></span><span class=\"vs\"><span><b>Minha chave privada</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Os destinatários incluídos no campo Cco recebem a mensagem sem que os demais destinatários vejam seus endereços.",
+"c": true,
+"prof": "Certo.",
+"x": "Cco (cópia oculta) protege a lista de destinatários. É útil para avisos coletivos.",
+"e": "Cco oculta."
+},
+{
+"p": "Ao utilizar a opção Responder a todos, a resposta é enviada também aos destinatários que estavam em Cco na mensagem original.",
+"c": false,
+"prof": "Quem estava oculto continua fora.",
+"x": "Responder a todos inclui o remetente e os destinatários de Para e Cc. Os de Cco não aparecem para os demais e não recebem a resposta.",
+"e": "Cco fora do Responder a todos."
+},
+{
+"p": "A opção Encaminhar envia a mensagem a outro destinatário, mantendo os anexos originais.",
+"c": true,
+"prof": "Certo.",
+"x": "Responder e Responder a todos, em regra, não reenviam os anexos.",
+"e": "Encaminhar leva anexos."
+},
+{
+"p": "O protocolo POP3 mantém as mensagens sincronizadas no servidor, permitindo que apareçam iguais no celular e no computador.",
+"c": false,
+"prof": "Esse é o IMAP.",
+"x": "O POP3 baixa as mensagens para o dispositivo. O IMAP mantém as mensagens no servidor, sincronizadas.",
+"e": "IMAP sincroniza."
+},
+{
+"p": "No PGP, para garantir que apenas o destinatário leia a mensagem, o remetente deve cifrá-la com a chave pública do destinatário.",
+"c": true,
+"prof": "Certo.",
+"x": "Só a chave privada correspondente, que fica com o destinatário, decifra a mensagem.",
+"e": "Sigilo: pública do destinatário."
+},
+{
+"p": "Uma escrivã precisa enviar um relatório a um Delegado, comprovando que foi ela quem o enviou e que o conteúdo não foi alterado. Usando PGP, ela deve:",
+"alts": [
+"cifrar a mensagem com a chave pública do Delegado",
+"cifrar a mensagem com a chave privada do Delegado",
+"assinar a mensagem com a sua própria chave privada",
+"assinar a mensagem com a chave pública do Delegado",
+"enviar a sua chave privada junto da mensagem"
+],
+"r": 2,
+"n": [
+"Isso garante sigilo, não autoria.",
+"Ela não tem a chave privada do Delegado.",
+"Correta: assinatura digital.",
+"Chave pública não assina.",
+"A chave privada nunca é enviada."
+],
+"prof": "Autoria = assinatura = minha chave privada.",
+"x": "A assinatura digital, feita com a chave privada do remetente, garante autenticidade, integridade e não repúdio; o Delegado confere com a chave pública da escrivã.",
+"e": "Assinar com a minha privada."
+},
+{
+"p": "Em ambiente corporativo com o Outlook 2016, o usuário quer fazer cópia de segurança de todas as mensagens e pastas para restaurá-las em outro computador. Ele deve:",
+"alts": [
+"copiar o atalho do Outlook da área de trabalho",
+"exportar os dados para um arquivo .pst",
+"esvaziar a pasta Itens Excluídos",
+"criar uma regra de encaminhamento",
+"mover as mensagens para Rascunhos"
+],
+"r": 1,
+"n": [
+"O atalho não contém dados.",
+"Correta.",
+"Isso apaga mensagens.",
+"Encaminhamento não é backup.",
+"Rascunhos é só uma pasta."
+],
+"prof": ".pst = backup do Outlook.",
+"x": "O Arquivo de Dados do Outlook (.pst) guarda mensagens, contatos e calendário e pode ser importado em outro computador.",
+"e": "Exportar .pst."
+},
+{
+"p": "Um investigador deseja enviar um alerta a 40 vítimas de um golpe, sem que uma veja o e-mail das outras. Ele deve colocar os endereços das vítimas no campo:",
+"alts": [
+"Para",
+"Cc",
+"Cco",
+"Assunto",
+"Responder para"
+],
+"r": 2,
+"n": [
+"Todos veriam.",
+"Todos veriam.",
+"Correta.",
+"Não é campo de endereço.",
+"Define para quem vão as respostas."
+],
+"prof": "Privacidade dos destinatários = Cco.",
+"x": "Em Cco, cada destinatário recebe a mensagem sem ver os demais endereços, o que protege dados pessoais das vítimas.",
+"e": "Cco."
+}
+]
+},
+{
 "id": "seguranca",
 "titulo": "Segurança da informação: ameaças, backup e criptografia",
 "arts": "Princípios e pragas virtuais",
@@ -468,6 +706,128 @@ export default {
 ]
 },
 {
+"id": "certificacao-software-livre",
+"titulo": "Certificação digital, ICP-Brasil, criptografia PGP e software livre",
+"arts": "Informática Básica 3.8 e 3.9",
+"chaves": [
+"certificacao digital",
+"certificado digital",
+"icp-brasil",
+"autoridade certificadora",
+"a1",
+"a3",
+"criptografia assimetrica",
+"pgp",
+"chave publica",
+"chave privada",
+"software livre",
+"gpl",
+"bsd",
+"fsdg"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>MP 2.200-2</b><span>criou a ICP-Brasil (2001)</span></div><div class=\"lt-stat\"><b>ITI</b><span>é a AC-Raiz brasileira</span></div><div class=\"lt-stat\"><b>A1 / A3</b><span>certificado em arquivo (até 1 ano) / em token ou cartão (até 5 anos)</span></div><div class=\"lt-stat\"><b>4</b><span>liberdades do software livre (0 a 3)</span></div></div>\n<h3>1. Criptografia: simétrica e assimétrica</h3>\n<ul><li><b>Simétrica</b>: <b>uma única chave</b> cifra e decifra (rápida; problema é compartilhar a chave). Ex.: AES.</li><li><b>Assimétrica</b> (chave pública): <b>par de chaves</b> matematicamente ligadas. O que uma cifra, só a outra decifra. Ex.: RSA. É a base da <b>certificação digital</b> e do <b>PGP</b>.</li><li><b>Hash</b>: \"impressão digital\" de tamanho fixo de um arquivo (SHA-256). Qualquer alteração muda o hash: serve para conferir <b>integridade</b> (muito usado em prova digital).</li></ul>\n<h3>2. Assinatura digital e certificado digital</h3>\n<ul><li><b>Assinatura digital</b> = hash do documento cifrado com a <b>chave privada</b> do signatário. Garante <b>autenticidade</b>, <b>integridade</b> e <b>não repúdio</b>. <b>Não garante sigilo</b>.</li><li><b>Certificado digital</b> é o documento eletrônico que <b>vincula uma chave pública a uma pessoa ou instituição</b>, emitido e assinado por uma <b>Autoridade Certificadora (AC)</b>. Tem prazo de validade e pode ser <b>revogado</b> (lista de certificados revogados).</li></ul>\n<h3>3. ICP-Brasil (MP 2.200-2/2001)</h3>\n<div class=\"lt-fluxo\"><span>AC-Raiz (ITI)</span> <em>→</em> <span>Autoridades Certificadoras (ACs)</span> <em>→</em> <span>Autoridades de Registro (ARs: validação presencial ou por videoconferência)</span> <em>→</em> <span>Titular do certificado</span></div>\n<ul><li>Documentos assinados com certificado <b>ICP-Brasil</b> têm <b>presunção de veracidade</b> em relação ao signatário (equivalem à assinatura de próprio punho). A Lei 14.063/2020 chama essa assinatura de <b>qualificada</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Onde fica a chave</th><th>Validade usual</th></tr></thead><tbody><tr><td><b>A1</b></td><td>arquivo no computador (software)</td><td>até <b>1 ano</b></td></tr><tr><td><b>A3</b></td><td><b>token</b>, <b>cartão inteligente</b> ou nuvem (hardware criptográfico)</td><td>até <b>5 anos</b></td></tr><tr><td>S1 / S3</td><td>certificados de <b>sigilo</b> (cifragem)</td><td>conforme a política</td></tr><tr><td>T3 / T4</td><td>carimbo do <b>tempo</b></td><td>conforme a política</td></tr></tbody></table>\n<ul><li><b>Aplicativos de segurança</b>: antivírus, firewall, antispyware, antispam, gerenciadores de senha, VPN e os programas de assinatura e de cifragem (como o GnuPG, que implementa o padrão OpenPGP).</li></ul>\n<h3>4. PGP na prática</h3>\n<ul><li>O PGP combina criptografia simétrica (rápida, para a mensagem) e assimétrica (para proteger a chave e assinar). Usa a <b>rede de confiança</b>: os usuários assinam as chaves uns dos outros, em vez de depender de uma AC central.</li><li><b>Chaves públicas</b> podem ser <b>enviadas e consultadas em servidores de chaves</b> (keyservers) pela <b>interface web</b> ou pelos próprios aplicativos; a <b>impressão digital</b> (fingerprint) serve para conferir se a chave é mesmo de quem diz ser.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>5. Software livre</h3>\n<ul><li>Segundo a Free Software Foundation, é livre o software que respeita <b>quatro liberdades</b>: <b>0</b> – executar para qualquer finalidade; <b>1</b> – estudar e adaptar (exige <b>acesso ao código-fonte</b>); <b>2</b> – redistribuir cópias; <b>3</b> – melhorar e distribuir as melhorias. <b>Livre não significa grátis</b> (free as in freedom).</li></ul>\n<table class=\"tab\"><thead><tr><th>Licença</th><th>Tipo</th><th>Efeito</th></tr></thead><tbody><tr><td><b>GPLv2</b> (1991) e <b>GPLv3</b> (2007)</td><td><b>copyleft</b></td><td>quem distribui versão modificada deve mantê-la <b>sob a mesma licença</b> e liberar o código; a v3 trata de <b>patentes</b> e <b>tivoização</b> (impedir que o hardware rode versões modificadas)</td></tr><tr><td><b>BSD</b></td><td><b>permissiva</b></td><td>permite incorporar o código, inclusive em <b>software proprietário</b>, mantendo o aviso de direitos autorais</td></tr><tr><td><b>GNU FSDG</b></td><td>diretrizes da FSF</td><td>critérios para uma <b>distribuição</b> ser 100% livre: sem programas, firmwares (\"blobs\") ou repositórios não livres, nem incentivo a instalá-los</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> O <b>Linux</b> (kernel) é GPLv2. Distribuições populares como Ubuntu e Debian <b>não</b> estão na lista da FSF de distribuições que seguem a FSDG, porque oferecem ou incluem componentes não livres; exemplos aceitos são o <b>Trisquel</b> e o <b>Parabola</b>.</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Assinatura digital garante sigilo</span><br>✅ <span class=\"certo\">Garante autenticidade, integridade e não repúdio; sigilo vem da cifragem.</span></li><li>❌ <span class=\"banca\">A AC-Raiz da ICP-Brasil é o Serpro</span><br>✅ <span class=\"certo\">A AC-Raiz é o ITI.</span></li><li>❌ <span class=\"banca\">O certificado A1 fica em token</span><br>✅ <span class=\"certo\">O A1 fica em arquivo; o A3 em token ou cartão.</span></li><li>❌ <span class=\"banca\">Software livre é sempre gratuito</span><br>✅ <span class=\"certo\">Livre = liberdades; pode ser vendido.</span></li><li>❌ <span class=\"banca\">A BSD obriga o código derivado a continuar livre</span><br>✅ <span class=\"certo\">Quem obriga é a GPL (copyleft); a BSD é permissiva.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Assinatura digital garante?</span></span><span class=\"vs\"><span><b>Autenticidade, integridade e não repúdio</b> (não sigilo).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>AC-Raiz da ICP-Brasil?</span></span><span class=\"vs\"><span><b>ITI</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>A1 x A3?</span></span><span class=\"vs\"><span><b>A1</b>: arquivo, até 1 ano. <b>A3</b>: token/cartão, até 5 anos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>4 liberdades?</span></span><span class=\"vs\"><span><b>Executar, estudar, redistribuir, melhorar</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>GPL x BSD?</span></span><span class=\"vs\"><span><b>GPL</b>: copyleft. <b>BSD</b>: permissiva.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>FSDG?</span></span><span class=\"vs\"><span>Diretrizes da FSF para <b>distribuições</b> totalmente livres.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "A assinatura digital garante a autenticidade, a integridade e o não repúdio de um documento, mas não garante, por si só, a sua confidencialidade.",
+"c": true,
+"prof": "Certo.",
+"x": "Para confidencialidade é preciso cifrar o conteúdo, por exemplo com a chave pública do destinatário.",
+"e": "Assinatura ≠ sigilo."
+},
+{
+"p": "Na ICP-Brasil, a Autoridade Certificadora Raiz é exercida pelas Autoridades de Registro, responsáveis por emitir os certificados aos usuários finais.",
+"c": false,
+"prof": "Funções trocadas.",
+"x": "A AC-Raiz é o ITI. As ACs emitem os certificados, e as ARs fazem a identificação e o cadastro dos titulares.",
+"e": "AC-Raiz = ITI."
+},
+{
+"p": "O certificado digital do tipo A3 tem a chave privada armazenada em hardware criptográfico, como token ou cartão inteligente.",
+"c": true,
+"prof": "Certo.",
+"x": "O A1 fica em arquivo no computador e tem validade usual de até 1 ano.",
+"e": "A3 = hardware."
+},
+{
+"p": "Por definição, software livre é aquele distribuído gratuitamente, ainda que sem acesso ao código-fonte.",
+"c": false,
+"prof": "Liberdade, não preço.",
+"x": "Software livre garante as quatro liberdades, e a liberdade de estudar e adaptar exige acesso ao código-fonte. Pode ser vendido; freeware fechado não é software livre.",
+"e": "Livre ≠ grátis."
+},
+{
+"p": "A licença GPL é do tipo copyleft, exigindo que as obras derivadas distribuídas mantenham a mesma licença.",
+"c": true,
+"prof": "Certo.",
+"x": "A licença BSD, ao contrário, é permissiva e admite a incorporação do código em software proprietário.",
+"e": "GPL = copyleft."
+},
+{
+"p": "Um perito precisa demonstrar, em juízo, que o arquivo de vídeo entregue à defesa é exatamente igual ao extraído do DVR apreendido. O recurso técnico mais adequado é:",
+"alts": [
+"comparar o tamanho dos dois arquivos em megabytes",
+"assistir aos dois vídeos ao mesmo tempo",
+"calcular e comparar o hash (por exemplo, SHA-256) dos dois arquivos",
+"converter os arquivos para PDF",
+"renomear os arquivos com a data da apreensão"
+],
+"r": 2,
+"n": [
+"Arquivos diferentes podem ter o mesmo tamanho.",
+"Comparação visual não prova identidade.",
+"Correta.",
+"Conversão altera o arquivo.",
+"Nome não comprova conteúdo."
+],
+"prof": "Integridade de arquivo = hash.",
+"x": "Qualquer alteração em um bit gera hash completamente diferente. Hashes iguais demonstram que os arquivos são idênticos.",
+"e": "Hash."
+},
+{
+"p": "Sobre a ICP-Brasil e os certificados digitais, assinale a afirmativa correta.",
+"alts": [
+"O certificado digital vincula uma chave privada a uma pessoa e deve ser divulgado amplamente.",
+"O certificado digital vincula uma chave pública ao seu titular e é assinado por uma Autoridade Certificadora.",
+"O certificado A1 tem validade usual de 5 anos e fica em cartão inteligente.",
+"A ICP-Brasil foi criada pela LGPD.",
+"Documento assinado com certificado ICP-Brasil não tem validade jurídica."
+],
+"r": 1,
+"n": [
+"Vincula a chave PÚBLICA; a privada é secreta.",
+"Correta.",
+"Essas são características do A3.",
+"Foi criada pela MP 2.200-2/2001.",
+"Tem presunção de veracidade."
+],
+"prof": "Certificado = chave pública + identidade + assinatura da AC.",
+"x": "O certificado associa a chave pública ao titular e é assinado pela AC. Documentos assinados com certificado ICP-Brasil presumem-se verdadeiros em relação aos signatários.",
+"e": "Certificado: chave pública."
+},
+{
+"p": "Uma empresa quer usar código de um projeto livre em seu produto comercial de código fechado, sem divulgar o código-fonte das alterações. A licença do projeto que permite isso é a:",
+"alts": [
+"GPLv2",
+"GPLv3",
+"BSD",
+"qualquer licença copyleft",
+"nenhuma licença livre permite"
+],
+"r": 2,
+"n": [
+"GPL exige manter a licença nas obras distribuídas.",
+"Também copyleft.",
+"Correta: licença permissiva.",
+"Copyleft impede o fechamento.",
+"Licenças permissivas permitem."
+],
+"prof": "Permissiva deixa fechar; copyleft não.",
+"x": "A BSD exige apenas a manutenção do aviso de direitos autorais e permite incorporar o código em software proprietário. A GPL (v2 e v3) obriga as obras derivadas distribuídas a seguir livres.",
+"e": "BSD permite."
+}
+]
+},
+{
 "id": "office",
 "titulo": "Editores de texto e planilhas (Word, Excel, LibreOffice)",
 "arts": "Pacotes de escritório",
@@ -615,6 +975,118 @@ export default {
 "A coluna de A1 não muda ao copiar para baixo."
 ],
 "e": "Referências."
+}
+]
+},
+{
+"id": "apresentacoes",
+"titulo": "Apresentações: PowerPoint 2016 e LibreOffice Impress 7.1",
+"arts": "Informática Básica 3.6.1",
+"chaves": [
+"powerpoint",
+"impress",
+"slide mestre",
+"transicao",
+"animacao",
+"apresentacao de slides",
+"f5",
+"shift+f5",
+"ppsx",
+"odp",
+"modo de exibicao"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>F5</b><span>inicia a apresentação do começo</span></div><div class=\"lt-stat\"><b>Shift+F5</b><span>inicia do slide atual</span></div><div class=\"lt-stat\"><b>.pptx / .odp</b><span>formatos padrão (PowerPoint / Impress)</span></div><div class=\"lt-stat\"><b>.ppsx</b><span>abre direto no modo apresentação</span></div></div>\n<h3>1. Estrutura</h3>\n<ul><li><b>Slide mestre</b> (PowerPoint: Exibir > <b>Slide Mestre</b>; Impress: Exibir > <b>Slide mestre</b>) controla fontes, cores, logotipos e posições de <b>todos</b> os slides que o usam. <b>Layouts</b> (Título e conteúdo, Duas colunas…) são modelos de disposição.</li><li><b>Modos de exibição</b> do PowerPoint: <b>Normal</b> (edição), <b>Classificação de Slides</b> (miniaturas para reordenar), <b>Anotações</b> (notas do apresentador), <b>Modo de Exibição de Leitura</b> e <b>Apresentação de Slides</b>. O <b>Modo do Apresentador</b> mostra as anotações e o próximo slide só para quem apresenta.</li></ul>\n<h3>2. Edição e formatação</h3>\n<ul><li>Inserir: caixas de texto, imagens, formas, <b>SmartArt</b>, tabelas, gráficos, <b>áudio e vídeo</b>, hiperlinks, numeração de slides e rodapé.</li><li><b>Transição</b> = efeito <b>entre</b> um slide e outro. <b>Animação</b> = efeito em um <b>objeto dentro</b> do slide (entrada, ênfase, saída, trajetória).</li><li><b>Ocultar slide</b>: ele continua no arquivo, mas não aparece na apresentação.</li><li><b>Impressão</b>: slides inteiros, <b>folhetos</b> (vários slides por página, para o público) ou <b>anotações</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Atalho</th><th>PowerPoint</th><th>Impress</th></tr></thead><tbody><tr><td>Iniciar do começo</td><td><b>F5</b></td><td><b>F5</b></td></tr><tr><td>Iniciar do slide atual</td><td><b>Shift+F5</b></td><td>Shift+F5</td></tr><tr><td>Encerrar</td><td>Esc</td><td>Esc</td></tr><tr><td>Novo slide</td><td>Ctrl+M</td><td>(menu Slide > Novo slide)</td></tr></tbody></table>\n<div class=\"lt-pare\"></div>\n<h3>3. Formatos</h3>\n<ul><li>PowerPoint: <b>.pptx</b> (apresentação), <b>.ppsx</b> (abre <b>direto em apresentação</b>), <b>.potx</b> (modelo), <b>.pptm</b> (com macros). Impress: <b>.odp</b> (apresentação) e <b>.otp</b> (modelo). Ambos exportam para <b>PDF</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Transição e animação são sinônimos</span><br>✅ <span class=\"certo\">Transição é ENTRE slides; animação é em OBJETOS do slide.</span></li><li>❌ <span class=\"banca\">Shift+F5 inicia do primeiro slide</span><br>✅ <span class=\"certo\">Inicia do slide ATUAL; F5 inicia do começo.</span></li><li>❌ <span class=\"banca\">Slide oculto é apagado do arquivo</span><br>✅ <span class=\"certo\">Continua no arquivo, só não aparece na apresentação.</span></li><li>❌ <span class=\"banca\">Alterar o slide mestre muda só o slide selecionado</span><br>✅ <span class=\"certo\">Muda todos os slides que usam aquele mestre.</span></li><li>❌ <span class=\"banca\">.ppsx abre no modo de edição</span><br>✅ <span class=\"certo\">Abre direto no modo apresentação.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>F5 x Shift+F5?</span></span><span class=\"vs\"><span>Do <b>começo</b> x do <b>slide atual</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Transição x animação?</span></span><span class=\"vs\"><span><b>Entre slides</b> x <b>objeto no slide</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Slide mestre?</span></span><span class=\"vs\"><span>Padroniza o visual de <b>todos</b> os slides que o usam.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>.ppsx?</span></span><span class=\"vs\"><span>Abre direto em <b>apresentação</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Folheto?</span></span><span class=\"vs\"><span>Impressão de <b>vários slides por página</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "No PowerPoint 2016, a tecla F5 inicia a apresentação a partir do primeiro slide, ao passo que Shift+F5 a inicia a partir do slide atual.",
+"c": true,
+"prof": "Certo.",
+"x": "No Impress, os atalhos são os mesmos.",
+"e": "F5 começo; Shift+F5 atual."
+},
+{
+"p": "Transição é o efeito aplicado a um objeto dentro do slide, como a entrada de uma imagem.",
+"c": false,
+"prof": "Esse é o conceito de animação.",
+"x": "A transição ocorre na passagem de um slide para outro. A animação é aplicada aos objetos do slide.",
+"e": "Transição = entre slides."
+},
+{
+"p": "Alterações feitas no slide mestre refletem em todos os slides baseados nele.",
+"c": true,
+"prof": "Certo.",
+"x": "É a forma de padronizar logotipo, fonte e cores de uma apresentação institucional.",
+"e": "Mestre padroniza."
+},
+{
+"p": "Um slide oculto é excluído do arquivo e não pode mais ser recuperado.",
+"c": false,
+"prof": "Ocultar não é excluir.",
+"x": "O slide oculto permanece no arquivo e pode ser reexibido; apenas não aparece durante a apresentação.",
+"e": "Oculto continua no arquivo."
+},
+{
+"p": "Um Delegado vai apresentar um briefing de operação e quer que todos os slides tenham o brasão da unidade no canto e a mesma fonte, sem precisar formatar slide por slide. Ele deve usar:",
+"alts": [
+"o Modo de Classificação de Slides",
+"o Slide Mestre",
+"a transição \"Esmaecer\" em todos os slides",
+"o recurso Ocultar Slide",
+"o Modo de Exibição de Leitura"
+],
+"r": 1,
+"n": [
+"Serve para reordenar slides.",
+"Correta.",
+"Transição não insere logotipo.",
+"Oculta slides.",
+"Só exibe."
+],
+"prof": "Padronizar tudo de uma vez = mestre.",
+"x": "O slide mestre controla os elementos comuns e a formatação de todos os slides baseados nele.",
+"e": "Slide Mestre."
+},
+{
+"p": "Durante uma apresentação no PowerPoint, o apresentador quer ver suas anotações e o próximo slide na tela do notebook, enquanto o público vê apenas o slide atual no projetor. Ele deve usar:",
+"alts": [
+"o Modo de Exibição de Leitura",
+"o Modo do Apresentador",
+"o Modo de Classificação de Slides",
+"a impressão de folhetos",
+"o recurso de ocultar slides"
+],
+"r": 1,
+"n": [
+"Não separa telas.",
+"Correta.",
+"É para reorganizar slides.",
+"É impressão.",
+"Não resolve."
+],
+"prof": "Duas telas, duas visões: Modo do Apresentador.",
+"x": "O Modo do Apresentador mostra notas, cronômetro e próximo slide ao apresentador, enquanto o projetor exibe só o slide.",
+"e": "Modo do Apresentador."
+},
+{
+"p": "Para enviar um arquivo que, ao ser aberto com duplo clique, já comece no modo de apresentação, o usuário do PowerPoint deve salvá-lo como:",
+"alts": [
+".pptx",
+".ppsx",
+".potx",
+".odt",
+".xlsx"
+],
+"r": 1,
+"n": [
+"Abre em edição.",
+"Correta.",
+"É modelo.",
+"É texto do Writer.",
+"É planilha."
+],
+"prof": "S de \"show\".",
+"x": "O formato .ppsx (Apresentação de Slides do PowerPoint) abre diretamente no modo apresentação.",
+"e": ".ppsx."
 }
 ]
 },

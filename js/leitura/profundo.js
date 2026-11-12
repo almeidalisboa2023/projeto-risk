@@ -2999,5 +2999,2308 @@ export const PROFUNDO = {
 }
 ]
 }
+},
+"informatica": {
+"hardware-so": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>8</b><span>questões de Informática na prova de Investigador (FGV)</span></div><div class=\"lt-stat\"><b>32 / 128</b><span>bits de um endereço IPv4 / IPv6 (veja Redes)</span></div><div class=\"lt-stat\"><b>rwx</b><span>as três permissões básicas do Linux</span></div><div class=\"lt-stat\"><b>\\ e /</b><span>separadores de pasta no Windows e no Linux</span></div></div>\n<h3>1. Arquitetura básica do computador</h3>\n<ul><li><b>CPU</b> (processador): executa as instruções. Tem a <b>Unidade de Controle</b> (busca e decodifica), a <b>ULA</b> (cálculos e comparações) e os <b>registradores</b> (memórias ultrarrápidas internas).</li><li><b>Memória principal</b>: <b>RAM</b> (leitura e escrita, <b>volátil</b>: apaga ao desligar) e <b>ROM</b> (somente leitura, <b>não volátil</b>, guarda o firmware/BIOS/UEFI). A <b>cache</b> é pequena e rapidíssima, entre a CPU e a RAM.</li><li><b>Armazenamento</b> (memória secundária, não volátil): <b>HD</b> (disco magnético, partes móveis), <b>SSD</b> (memória flash, sem partes móveis, mais rápido), pendrive, cartões SD, mídias ópticas (CD, DVD, Blu-ray) e armazenamento em rede/nuvem.</li><li>Hierarquia de velocidade: <b>registradores > cache > RAM > SSD > HD</b>. Quanto mais rápido, mais caro e menor.</li></ul>\n<table class=\"tab\"><thead><tr><th>Periférico</th><th>Tipo</th><th>Exemplos</th></tr></thead><tbody><tr><td>Entrada</td><td>envia dados ao computador</td><td>teclado, mouse, scanner, webcam, microfone, leitor biométrico</td></tr><tr><td>Saída</td><td>recebe dados do computador</td><td>monitor, impressora, caixa de som, projetor</td></tr><tr><td>Entrada e saída (híbrido)</td><td>faz as duas coisas</td><td><b>multifuncional</b>, <b>tela touchscreen</b>, headset, pendrive e HD externo (armazenamento)</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> A <b>multifuncional</b> (impressora + scanner) e a <b>tela sensível ao toque</b> são periféricos de <b>entrada e saída</b>. A banca gosta de classificá-las só como saída.</div>\n<h3>2. Sistema operacional: conceitos</h3>\n<ul><li>O <b>SO</b> gerencia hardware e software: processos (multitarefa), memória, arquivos, dispositivos (drivers) e usuários. O <b>núcleo</b> é o <b>kernel</b>; o usuário interage pela <b>interface gráfica</b> ou pelo <b>terminal</b> (shell).</li><li><b>Windows</b> é proprietário; <b>Linux</b> é um <b>kernel livre</b>, distribuído em <b>distribuições</b> (Ubuntu, Debian, Fedora, Mint…), com interfaces como GNOME e KDE.</li></ul>\n<h3>3. Arquivos, pastas e caminhos</h3>\n<table class=\"tab\"><thead><tr><th>; Windows 10</th><th>Linux</th></tr></thead><tbody><tr><td>Separador</td><td><b>\\\\</b> (C:\\\\Users\\\\Ana)</td><td><b>/</b> (/home/ana)</td></tr><tr><td>Raiz</td><td>letras de unidade (C:, D:)</td><td>uma única raiz <b>/</b></td></tr><tr><td>Maiúsculas</td><td><b>não</b> diferencia (Foto.jpg = foto.jpg)</td><td><b>diferencia</b> (Foto.jpg ≠ foto.jpg)</td></tr><tr><td>Arquivos ocultos</td><td>atributo \"oculto\"</td><td>nome começa com <b>ponto</b> (.bashrc)</td></tr><tr><td>Administrador</td><td>conta de administrador / UAC</td><td><b>root</b> (superusuário); <b>sudo</b></td></tr></tbody></table>\n<ul><li>Pastas importantes do Linux: <b>/home</b> (usuários), <b>/etc</b> (configurações), <b>/bin</b> e <b>/usr/bin</b> (programas), <b>/tmp</b> (temporários), <b>/var</b> (logs e dados variáveis), <b>/dev</b> (dispositivos), <b>/boot</b> (inicialização), <b>/root</b> (pasta do superusuário).</li><li>Extensões comuns: .docx/.odt (texto), .xlsx/.ods (planilha), .pptx/.odp (apresentação), .pdf, .txt, .csv, .jpg/.png, .mp3/.mp4, .zip/.rar/.7z (compactados), .exe (executável Windows).</li><li><b>Caminho absoluto</b> começa da raiz (C:\\\\Dados\\\\a.txt ou /home/ana/a.txt); <b>relativo</b> parte da pasta atual (..\\\\a.txt; ../a.txt). <b>.</b> = pasta atual; <b>..</b> = pasta acima.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>4. Copiar, mover e atalhos (Windows)</h3>\n<ul><li>Arrastar para pasta da <b>mesma unidade</b> = <b>mover</b>; para <b>outra unidade</b> = <b>copiar</b>. Com <b>Ctrl</b> força copiar; com <b>Shift</b> força mover; com <b>Alt</b> (ou Ctrl+Shift) cria <b>atalho</b>.</li><li><b>Excluir</b> manda para a Lixeira; <b>Shift+Delete</b> exclui <b>definitivamente</b>. Itens apagados de <b>pendrive</b> ou de <b>pasta de rede</b> <b>não vão para a Lixeira</b>.</li><li>O <b>atalho</b> (.lnk) é só um ponteiro: apagar o atalho não apaga o arquivo.</li></ul>\n<table class=\"tab\"><thead><tr><th>Atalho</th><th>Função</th></tr></thead><tbody><tr><td>Win+E</td><td>Explorador de Arquivos</td></tr><tr><td>Win+D</td><td>mostrar a área de trabalho</td></tr><tr><td>Win+L</td><td><b>bloquear</b> a sessão</td></tr><tr><td>Win+R</td><td>Executar</td></tr><tr><td>Win+I</td><td>Configurações</td></tr><tr><td>Ctrl+Shift+Esc</td><td>Gerenciador de Tarefas</td></tr><tr><td>Alt+Tab</td><td>alternar janelas</td></tr><tr><td>F2</td><td>renomear</td></tr><tr><td>Ctrl+Shift+N</td><td>nova pasta (no Explorador)</td></tr></tbody></table>\n<h3>5. Permissões</h3>\n<ul><li><b>Linux</b>: cada arquivo tem dono (<b>u</b>), grupo (<b>g</b>) e outros (<b>o</b>), cada um com <b>r</b> (ler = 4), <b>w</b> (escrever = 2) e <b>x</b> (executar = 1). Exemplo: <b>chmod 754</b> = dono rwx (7), grupo r-x (5), outros r-- (4). <b>chown</b> muda o dono; <b>ls -l</b> mostra as permissões.</li><li><b>Windows (NTFS)</b>: Controle total, Modificar, Leitura e execução, Listar conteúdo da pasta, Leitura e Gravação, atribuídas a <b>usuários e grupos</b>. O <b>compartilhamento</b> de pasta em rede tem permissões próprias; vale a <b>mais restritiva</b> entre compartilhamento e NTFS.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 chmod 640 em relatorio.txt</b><ol><li><span>6 = 4+2 → dono lê e escreve (rw-)</span></li><li><span>4 → grupo só lê (r--)</span></li><li><span>0 → outros não têm acesso (---)</span></li></ol><span class=\"res\">-rw-r----- : só o dono altera; o grupo lê; os demais não acessam</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">RAM guarda os dados depois de desligar</span><br>✅ <span class=\"certo\">RAM é VOLÁTIL; quem guarda é o armazenamento (HD, SSD).</span></li><li>❌ <span class=\"banca\">No Linux, Relatorio.txt e relatorio.txt são o mesmo arquivo</span><br>✅ <span class=\"certo\">O Linux DIFERENCIA maiúsculas de minúsculas.</span></li><li>❌ <span class=\"banca\">Arrastar para outra unidade move o arquivo</span><br>✅ <span class=\"certo\">Para outra unidade, o padrão é COPIAR.</span></li><li>❌ <span class=\"banca\">Shift+Delete manda para a Lixeira</span><br>✅ <span class=\"certo\">Exclui DEFINITIVAMENTE.</span></li><li>❌ <span class=\"banca\">chmod 777 é a permissão mais segura</span><br>✅ <span class=\"certo\">777 dá tudo a todos; é a MENOS segura.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>RAM x ROM?</span></span><span class=\"vs\"><span><b>RAM</b>: volátil, leitura e escrita. <b>ROM</b>: não volátil, firmware.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Separador de pastas?</span></span><span class=\"vs\"><span>Windows <b>\\\\</b>; Linux <b>/</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>chmod 755?</span></span><span class=\"vs\"><span>Dono <b>rwx</b>; grupo e outros <b>r-x</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Win+L?</span></span><span class=\"vs\"><span><b>Bloqueia</b> a sessão.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arrastar com Alt?</span></span><span class=\"vs\"><span>Cria <b>atalho</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arquivo oculto no Linux?</span></span><span class=\"vs\"><span>Nome começando com <b>ponto</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "A memória RAM é volátil, de modo que seu conteúdo é perdido quando o computador é desligado.",
+"c": true,
+"prof": "Certo.",
+"x": "A RAM guarda temporariamente dados e programas em uso. O que deve sobreviver ao desligamento fica em armazenamento não volátil (HD, SSD).",
+"e": "RAM volátil."
+},
+{
+"p": "No Linux, os arquivos Laudo.pdf e laudo.pdf não podem coexistir na mesma pasta, pois o sistema não diferencia maiúsculas de minúsculas.",
+"c": false,
+"prof": "É o contrário.",
+"x": "O Linux é case sensitive: Laudo.pdf e laudo.pdf são arquivos diferentes e podem coexistir. O Windows é que não diferencia.",
+"e": "Linux diferencia."
+},
+{
+"p": "No Explorador de Arquivos do Windows 10, arrastar um arquivo com o mouse para uma pasta localizada em outra unidade de disco copia o arquivo, por padrão.",
+"c": true,
+"prof": "Certo.",
+"x": "Mesma unidade: mover. Outra unidade: copiar. Ctrl força cópia e Shift força movimentação.",
+"e": "Outra unidade = copiar."
+},
+{
+"p": "Arquivos excluídos de um pendrive no Windows são enviados para a Lixeira, de onde podem ser restaurados.",
+"c": false,
+"prof": "Mídias removíveis não usam a Lixeira.",
+"x": "Arquivos apagados de pendrive, cartão ou pasta de rede são excluídos diretamente, sem passar pela Lixeira.",
+"e": "Pendrive não vai para a Lixeira."
+},
+{
+"p": "Um analista executou, no Linux, o comando chmod 750 em uma pasta de inquéritos. Com isso:",
+"alts": [
+"todos os usuários podem ler e alterar a pasta",
+"o dono tem leitura, gravação e execução; o grupo tem leitura e execução; os demais usuários não têm acesso",
+"o dono só pode ler; o grupo pode ler e gravar; os demais podem executar",
+"apenas o root pode acessar a pasta",
+"o grupo tem controle total e o dono, apenas leitura"
+],
+"r": 1,
+"n": [
+"7-5-0 não dá nada aos outros.",
+"Correta.",
+"Interpretação invertida dos dígitos.",
+"O dono e o grupo também acessam.",
+"O primeiro dígito é do dono."
+],
+"prof": "Some r=4, w=2, x=1 para cada dígito: dono, grupo, outros.",
+"x": "7 = 4+2+1 (rwx) para o dono; 5 = 4+1 (r-x) para o grupo; 0 = nenhum acesso para os outros. Em pasta, o x permite entrar nela.",
+"e": "750: rwx r-x ---."
+},
+{
+"p": "Um investigador precisa, no Windows 10, bloquear rapidamente o computador ao sair da sala, sem fechar os programas abertos. Deve usar:",
+"alts": [
+"Win + D",
+"Alt + F4",
+"Win + L",
+"Ctrl + Shift + Esc",
+"Win + E"
+],
+"r": 2,
+"n": [
+"Mostra a área de trabalho, sem bloquear.",
+"Fecha a janela ativa.",
+"Correta: bloqueia a sessão.",
+"Abre o Gerenciador de Tarefas.",
+"Abre o Explorador de Arquivos."
+],
+"prof": "L de \"Lock\".",
+"x": "Win+L bloqueia a sessão, mantendo os programas abertos. É o hábito básico de segurança em ambiente de trabalho.",
+"e": "Win+L."
+},
+{
+"p": "Assinale a alternativa que classifica corretamente os dispositivos.",
+"alts": [
+"teclado – saída; monitor – entrada; impressora multifuncional – saída",
+"scanner – entrada; projetor – saída; tela touchscreen – entrada e saída",
+"webcam – saída; caixa de som – entrada; pendrive – entrada",
+"mouse – entrada e saída; impressora – entrada; microfone – saída",
+"SSD – periférico de saída; RAM – periférico de entrada; HD – processador"
+],
+"r": 1,
+"n": [
+"Teclado é entrada, monitor é saída e multifuncional é híbrida.",
+"Correta.",
+"Webcam é entrada e caixa de som é saída.",
+"Mouse é entrada; impressora, saída; microfone, entrada.",
+"SSD e HD são armazenamento; RAM é memória principal."
+],
+"prof": "Pergunte: o dado entra no computador, sai dele, ou as duas coisas?",
+"x": "Scanner captura (entrada), projetor exibe (saída), touchscreen exibe e captura toques (entrada e saída).",
+"e": "Touchscreen = híbrido."
+},
+{
+"p": "Em relação aos sistemas de arquivos e diretórios, assinale a afirmativa correta.",
+"alts": [
+"No Linux, a pasta /etc guarda os arquivos pessoais dos usuários.",
+"No Windows, o separador de diretórios é a barra normal (/).",
+"No Linux, arquivos cujo nome começa com ponto são, por padrão, ocultos.",
+"No Linux, há uma letra de unidade para cada partição, como no Windows.",
+"O caminho relativo sempre começa pela raiz do sistema."
+],
+"r": 2,
+"n": [
+"Arquivos pessoais ficam em /home; /etc guarda configurações.",
+"O Windows usa a barra invertida.",
+"Correta.",
+"O Linux tem uma árvore única a partir de /.",
+"Quem começa da raiz é o caminho absoluto."
+],
+"prof": "Ponto no início = oculto no Linux.",
+"x": "Arquivos como .bashrc ficam ocultos por padrão e aparecem com ls -a. O Linux usa árvore única a partir de /; o Windows usa letras de unidade e barra invertida.",
+"e": "Ponto = oculto."
+}
+]
+},
+"redes-internet": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>camadas do modelo TCP/IP (aplicação, transporte, internet, acesso à rede)</span></div><div class=\"lt-stat\"><b>53</b><span>porta do DNS</span></div><div class=\"lt-stat\"><b>443</b><span>porta do HTTPS</span></div><div class=\"lt-stat\"><b>161</b><span>porta do SNMP (consultas)</span></div></div>\n<h3>1. Conceitos e tipos de rede</h3>\n<ul><li>Por <b>abrangência</b>: <b>PAN</b> (pessoal, ex.: Bluetooth), <b>LAN</b> (local), <b>MAN</b> (metropolitana), <b>WAN</b> (longa distância; a internet é a maior WAN).</li><li><b>Internet</b> é pública; <b>intranet</b> é rede <b>privada</b> que usa as mesmas tecnologias da internet (TCP/IP, navegador); <b>extranet</b> é a parte da intranet aberta a parceiros externos autorizados.</li><li><b>Com fio</b>: cabo de <b>par trançado</b> (Ethernet, padrão <b>IEEE 802.3</b>, conector RJ-45), <b>fibra óptica</b> (luz, imune a interferência eletromagnética, longas distâncias). <b>Sem fio</b>: <b>Wi-Fi</b> (<b>IEEE 802.11</b>), Bluetooth, redes móveis (4G/5G). Segurança Wi-Fi: <b>WPA2/WPA3</b>; o <b>WEP</b> é inseguro.</li></ul>\n<h3>2. Topologias</h3>\n<table class=\"tab\"><thead><tr><th>Topologia</th><th>Como é</th><th>Ponto fraco/forte</th></tr></thead><tbody><tr><td>Barramento</td><td>todos num cabo único</td><td>uma falha no cabo derruba a rede</td></tr><tr><td>Anel</td><td>cada nó ligado ao próximo, em círculo</td><td>um nó parado pode interromper</td></tr><tr><td><b>Estrela</b></td><td>todos ligados a um equipamento central (switch)</td><td>a mais usada; se o centro cair, a rede cai</td></tr><tr><td>Malha</td><td>vários caminhos entre os nós</td><td>alta redundância; cara</td></tr><tr><td>Árvore (hierárquica)</td><td>estrelas interligadas</td><td>facilita expansão</td></tr></tbody></table>\n<h3>3. Endereçamento TCP/IP</h3>\n<ul><li><b>IPv4</b>: <b>32 bits</b>, quatro números de 0 a 255 (192.168.0.10). <b>IPv6</b>: <b>128 bits</b>, oito grupos hexadecimais (2001:db8::1), criado pela falta de endereços IPv4.</li><li><b>Máscara de rede</b> (ex.: 255.255.255.0 ou /24): separa a parte de <b>rede</b> da parte de <b>host</b>. <b>Gateway padrão</b>: o roteador que leva os pacotes para fora da rede local.</li><li>Faixas <b>privadas</b> (não roteadas na internet): <b>10.0.0.0/8</b>, <b>172.16.0.0/12</b> e <b>192.168.0.0/16</b>. <b>Loopback</b>: 127.0.0.1 (IPv4) e ::1 (IPv6).</li><li><b>DNS</b> traduz <b>nomes</b> (pc.mg.gov.br) em <b>endereços IP</b>. <b>DHCP</b> <b>distribui automaticamente</b> IP, máscara, gateway e DNS aos computadores.</li><li><b>TCP</b>: orientado à conexão, confiável (confirma entrega e reordena). <b>UDP</b>: sem conexão, mais rápido, sem garantia (streaming, DNS, VoIP).</li></ul>\n<table class=\"tab\"><thead><tr><th>Protocolo</th><th>Porta</th><th>Função</th></tr></thead><tbody><tr><td>HTTP / HTTPS</td><td>80 / 443</td><td>páginas web (HTTPS com criptografia TLS)</td></tr><tr><td>FTP</td><td>20 e 21</td><td>transferência de arquivos</td></tr><tr><td>SSH / Telnet</td><td>22 / 23</td><td>acesso remoto (SSH cifrado; Telnet sem criptografia)</td></tr><tr><td>SMTP</td><td>25 (587)</td><td><b>envio</b> de e-mail</td></tr><tr><td>POP3 / IMAP</td><td>110 / 143</td><td><b>recebimento</b> de e-mail (995/993 com TLS)</td></tr><tr><td>DNS</td><td>53</td><td>resolução de nomes</td></tr><tr><td>DHCP</td><td>67 e 68</td><td>configuração automática de IP</td></tr><tr><td>SNMP</td><td>161 e 162</td><td><b>gerenciamento</b> de equipamentos de rede</td></tr></tbody></table>\n<div class=\"lt-pare\"></div>\n<h3>4. Equipamentos de rede</h3>\n<table class=\"tab\"><thead><tr><th>Equipamento</th><th>Camada</th><th>O que faz</th></tr></thead><tbody><tr><td><b>Repetidor</b></td><td>física (1)</td><td>regenera o sinal para aumentar o alcance</td></tr><tr><td><b>Hub</b></td><td>física (1)</td><td>repete o que recebe para <b>todas</b> as portas (mais colisões, menos segurança)</td></tr><tr><td><b>Bridge (ponte)</b></td><td>enlace (2)</td><td>une dois segmentos e filtra pelo endereço <b>MAC</b></td></tr><tr><td><b>Switch (comutador)</b></td><td>enlace (2)</td><td>envia o quadro <b>só para a porta do destino</b>, com tabela de MAC</td></tr><tr><td><b>Roteador</b></td><td>rede (3)</td><td>liga redes diferentes e escolhe rotas pelo <b>IP</b></td></tr></tbody></table>\n<ul><li><b>SNMP</b> (Simple Network Management Protocol): o <b>gerente</b> consulta <b>agentes</b> instalados em switches, roteadores e servidores, cujas informações ficam organizadas na <b>MIB</b>; os agentes também enviam alertas (<b>traps</b>). Usa <b>UDP</b> (161/162).</li></ul>\n<h3>5. Contas, grupos e compartilhamento</h3>\n<ul><li>Permissões são dadas a <b>usuários</b> e, de preferência, a <b>grupos</b> (mais fácil de administrar). No Windows, uma pasta compartilhada tem permissões de <b>compartilhamento</b> e de <b>NTFS</b>: vale a mais restritiva. No Linux, o compartilhamento com Windows costuma usar <b>Samba</b> (SMB).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Hub e switch funcionam igual</span><br>✅ <span class=\"certo\">O hub repete para TODAS as portas; o switch envia só para o destino.</span></li><li>❌ <span class=\"banca\">DNS atribui IP automaticamente</span><br>✅ <span class=\"certo\">Quem atribui é o DHCP; o DNS traduz nomes.</span></li><li>❌ <span class=\"banca\">IPv6 tem 64 bits</span><br>✅ <span class=\"certo\">IPv6 tem 128 bits (IPv4 tem 32).</span></li><li>❌ <span class=\"banca\">Intranet é rede pública</span><br>✅ <span class=\"certo\">Intranet é PRIVADA, com tecnologia da internet.</span></li><li>❌ <span class=\"banca\">SNMP serve para enviar e-mails</span><br>✅ <span class=\"certo\">SNMP gerencia equipamentos de rede; e-mail é SMTP.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>IPv4 x IPv6?</span></span><span class=\"vs\"><span><b>32 bits</b> x <b>128 bits</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem distribui IP automaticamente?</span></span><span class=\"vs\"><span><b>DHCP</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem traduz nomes em IP?</span></span><span class=\"vs\"><span><b>DNS</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Switch x hub?</span></span><span class=\"vs\"><span>Switch envia <b>só ao destino</b> (camada 2); hub repete para <b>todas</b> as portas (camada 1).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SNMP?</span></span><span class=\"vs\"><span><b>Gerenciamento</b> de rede; gerente, agentes, MIB, traps; UDP 161/162.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Faixas privadas?</span></span><span class=\"vs\"><span><b>10/8</b>, <b>172.16/12</b>, <b>192.168/16</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "O DHCP é o protocolo responsável por atribuir automaticamente endereço IP, máscara de rede, gateway e servidores DNS aos dispositivos de uma rede.",
+"c": true,
+"prof": "Certo.",
+"x": "O DNS traduz nomes em IPs; o DHCP faz a configuração automática de rede.",
+"e": "DHCP configura."
+},
+{
+"p": "O endereço 192.168.10.25 é um endereço IPv4 público, roteável na internet.",
+"c": false,
+"prof": "Essa faixa é reservada.",
+"x": "192.168.0.0/16 é uma das faixas privadas, assim como 10.0.0.0/8 e 172.16.0.0/12. Para sair à internet, usa-se NAT no roteador.",
+"e": "192.168 é privado."
+},
+{
+"p": "O switch encaminha os quadros apenas para a porta em que está conectado o destinatário, o que reduz colisões em relação ao hub.",
+"c": true,
+"prof": "Certo.",
+"x": "O switch aprende os endereços MAC de cada porta; o hub apenas repete o sinal para todas.",
+"e": "Switch: só ao destino."
+},
+{
+"p": "O protocolo SNMP é utilizado para o envio de mensagens de correio eletrônico entre servidores.",
+"c": false,
+"prof": "Não confunda SNMP com SMTP.",
+"x": "SNMP é o protocolo de gerenciamento de redes. O envio de e-mail é feito pelo SMTP.",
+"e": "SNMP gerencia; SMTP envia."
+},
+{
+"p": "A intranet é uma rede privada que utiliza as mesmas tecnologias da internet, como o protocolo TCP/IP e os navegadores.",
+"c": true,
+"prof": "Certo.",
+"x": "A extranet é a parte da intranet acessível a parceiros externos autorizados.",
+"e": "Intranet: privada com tecnologia web."
+},
+{
+"p": "Em uma delegacia, todos os computadores perderam o acesso a sites pelo nome (ex.: www.mg.gov.br), mas continuam acessando normalmente quando se digita o endereço IP do site. O serviço que provavelmente falhou é o:",
+"alts": [
+"DHCP",
+"DNS",
+"SNMP",
+"SMTP",
+"FTP"
+],
+"r": 1,
+"n": [
+"Se o DHCP falhasse, nem o IP funcionaria corretamente.",
+"Correta: o DNS traduz nomes em IP.",
+"Gerenciamento de rede.",
+"Envio de e-mails.",
+"Transferência de arquivos."
+],
+"prof": "Funciona pelo número, não pelo nome? É o DNS.",
+"x": "O DNS converte nomes de domínio em endereços IP. Se o acesso pelo IP funciona, a rede está bem e o problema está na resolução de nomes.",
+"e": "Nome falha, IP funciona = DNS."
+},
+{
+"p": "Assinale a correspondência correta entre equipamento e camada de atuação.",
+"alts": [
+"hub – camada de rede",
+"roteador – camada física",
+"switch – camada de enlace; roteador – camada de rede",
+"repetidor – camada de aplicação",
+"bridge – camada de transporte"
+],
+"r": 2,
+"n": [
+"Hub é camada física.",
+"Roteador é camada de rede.",
+"Correta.",
+"Repetidor é camada física.",
+"Bridge é camada de enlace."
+],
+"prof": "Física (sinal), enlace (MAC), rede (IP).",
+"x": "Repetidor e hub: camada física. Bridge e switch: enlace (MAC). Roteador: rede (IP).",
+"e": "Switch L2; roteador L3."
+},
+{
+"p": "O administrador da rede da PCMG quer monitorar, de uma estação central, o uso de banda e o estado de switches e roteadores, recebendo alertas quando um equipamento falhar. O protocolo adequado é o:",
+"alts": [
+"POP3",
+"SNMP",
+"DHCP",
+"Telnet",
+"HTTP"
+],
+"r": 1,
+"n": [
+"Recebimento de e-mail.",
+"Correta.",
+"Configuração de IP.",
+"Acesso remoto sem criptografia.",
+"Páginas web."
+],
+"prof": "Gerenciar e monitorar rede = SNMP.",
+"x": "O SNMP permite que um gerente consulte agentes nos equipamentos (MIB) e receba traps de alerta.",
+"e": "Monitorar rede = SNMP."
+}
+]
+},
+"seguranca": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>pilares: confidencialidade, integridade e disponibilidade</span></div><div class=\"lt-stat\"><b>154-A</b><span>artigo do CP sobre invasão de dispositivo informático</span></div><div class=\"lt-stat\"><b>1 a 4 anos</b><span>pena de reclusão da invasão de dispositivo (Lei 14.155/2021)</span></div><div class=\"lt-stat\"><b>3-2-1</b><span>regra de backup: 3 cópias, 2 mídias, 1 fora do local</span></div></div>\n<h3>1. Princípios</h3>\n<ul><li><b>Confidencialidade</b> (só quem pode, vê), <b>integridade</b> (não é alterado sem autorização), <b>disponibilidade</b> (está acessível quando preciso). Somam-se <b>autenticidade</b> (quem diz ser) e <b>não repúdio</b> (não pode negar a autoria).</li></ul>\n<h3>2. Pragas e golpes</h3>\n<table class=\"tab\"><thead><tr><th>Ameaça</th><th>Como age</th></tr></thead><tbody><tr><td><b>Vírus</b></td><td>infecta arquivos e <b>precisa de um hospedeiro</b> e de execução para se propagar</td></tr><tr><td><b>Worm</b></td><td><b>propaga-se sozinho</b> pela rede, explorando falhas; consome recursos</td></tr><tr><td><b>Cavalo de Troia</b></td><td>parece útil, mas executa ações maliciosas escondidas</td></tr><tr><td><b>Spyware</b></td><td>espiona e envia dados; <b>keylogger</b> captura teclas; <b>screenlogger</b>, telas</td></tr><tr><td><b>Ransomware</b></td><td><b>sequestra</b> (criptografa) os dados e exige <b>resgate</b></td></tr><tr><td><b>Backdoor</b></td><td>abre \"porta dos fundos\" para acesso remoto</td></tr><tr><td><b>Bot/botnet</b></td><td>computador controlado à distância, em rede de \"zumbis\" (ataques DDoS)</td></tr><tr><td><b>Phishing</b></td><td>mensagem ou site falso que <b>engana</b> a vítima para obter dados (engenharia social)</td></tr><tr><td><b>Pharming</b></td><td><b>redireciona</b> para site falso <b>mesmo digitando o endereço correto</b> (envenenamento de DNS)</td></tr><tr><td><b>Spam</b></td><td>mensagens em massa <b>não solicitadas</b></td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> <b>Phishing</b> depende de a vítima <b>clicar/acreditar</b>. <b>Pharming</b> engana <b>mesmo quem digita o endereço certo</b>, porque o redirecionamento acontece no DNS.</div>\n<h3>3. Riscos no e-mail e na internet</h3>\n<ul><li>Anexos executáveis e links encurtados, remetentes falsificados (spoofing), sites falsos de bancos e órgãos públicos, redes Wi-Fi abertas, downloads piratas.</li><li>Boas práticas: atualizar sistema e programas; <b>antivírus</b> e <b>firewall</b> ativos; senhas fortes e <b>autenticação de dois fatores</b>; desconfiar de urgência e de \"prêmios\"; conferir o endereço do site.</li></ul>\n<h3>4. Backup</h3>\n<ul><li><b>Completo</b> (tudo), <b>incremental</b> (só o que mudou desde o <b>último backup de qualquer tipo</b>: rápido para fazer, lento para restaurar) e <b>diferencial</b> (o que mudou desde o <b>último completo</b>: cresce a cada dia, restauração mais simples).</li><li>Onde guardar: mídias externas (HD, pendrive), <b>drives virtuais</b> e <b>pastas compartilhadas</b> na rede, <b>nuvem</b>. O backup deve ficar <b>separado</b> do original (ransomware também criptografa backups conectados). Regra <b>3-2-1</b>.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>5. Crimes cibernéticos e LGPD</h3>\n<ul><li><b>Invasão de dispositivo informático</b> (CP, art. 154-A, Lei 12.737/2012, \"Lei Carolina Dieckmann\"): invadir dispositivo <b>alheio</b>, conectado ou não à rede, para obter, adulterar ou destruir dados sem autorização, ou instalar vulnerabilidades. Pena de <b>reclusão de 1 a 4 anos</b> e multa (Lei 14.155/2021), com aumento se houver prejuízo econômico. A ação penal é <b>condicionada à representação</b>, salvo contra a Administração Pública.</li><li><b>Fraude eletrônica</b> (CP, art. 171, § 2º-A) e <b>furto mediante fraude eletrônica</b> (art. 155, § 4º-B) têm penas maiores.</li><li><b>LGPD (Lei 13.709/2018)</b>: protege dados pessoais; dados <b>sensíveis</b> (origem racial, religião, saúde, biometria, vida sexual etc.) têm proteção reforçada; a <b>ANPD</b> fiscaliza. A LGPD <b>não se aplica</b> ao tratamento feito <b>exclusivamente</b> para <b>segurança pública</b> e <b>investigação e repressão de infrações penais</b> (art. 4º, III), que depende de lei específica.</li><li><b>Vazamento</b> de dados é incidente de segurança que deve ser comunicado à ANPD e aos titulares quando houver risco relevante.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · AgRg no RHC 133.430 e precedentes</b><p class=\"jc-tese\">Prints de conversas de WhatsApp obtidos sem cadeia de custódia e sem garantia de integridade podem ser considerados prova inadmissível ou frágil.</p><p class=\"jc-com\">Prova digital precisa de <b>integridade</b>: extração pericial, cálculo de <b>hash</b> e registro da cadeia de custódia (CPP, arts. 158-A a 158-F).</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · RHC 51.531</b><p class=\"jc-tese\">É ilícita a prova obtida pelo acesso direto, sem autorização judicial, a mensagens armazenadas no celular apreendido no flagrante.</p><p class=\"jc-com\">A apreensão do aparelho não autoriza devassar o conteúdo: o Delegado deve representar pela quebra do sigilo dos dados.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Worm precisa de um arquivo hospedeiro</span><br>✅ <span class=\"certo\">Quem precisa de hospedeiro é o vírus; o worm se propaga sozinho.</span></li><li>❌ <span class=\"banca\">Phishing e pharming são iguais</span><br>✅ <span class=\"certo\">Pharming redireciona mesmo digitando o endereço certo (DNS).</span></li><li>❌ <span class=\"banca\">Backup incremental copia tudo desde o último completo</span><br>✅ <span class=\"certo\">Isso é o diferencial.</span></li><li>❌ <span class=\"banca\">A LGPD se aplica integralmente às investigações policiais</span><br>✅ <span class=\"certo\">O art. 4º, III, exclui o tratamento exclusivo para segurança pública e investigação criminal.</span></li><li>❌ <span class=\"banca\">Invasão de dispositivo é crime de ação pública incondicionada</span><br>✅ <span class=\"certo\">Em regra, condicionada à representação.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vírus x worm?</span></span><span class=\"vs\"><span><b>Vírus</b> precisa de hospedeiro; <b>worm</b> se propaga sozinho.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ransomware?</span></span><span class=\"vs\"><span><b>Criptografa</b> e pede <b>resgate</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pharming?</span></span><span class=\"vs\"><span>Redireciona a site falso <b>mesmo com o endereço certo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Incremental x diferencial?</span></span><span class=\"vs\"><span><b>Incremental</b>: desde o último backup; <b>diferencial</b>: desde o último <b>completo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Invasão de dispositivo?</span></span><span class=\"vs\"><span>CP, art. <b>154-A</b>; reclusão de <b>1 a 4 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>LGPD e investigação?</span></span><span class=\"vs\"><span><b>Não se aplica</b> ao tratamento exclusivo para investigação (art. 4º, III).</span></span></button></div></div>",
+"quiz": [
+{
+"p": "O worm é um programa capaz de se propagar automaticamente pelas redes, enviando cópias de si mesmo, sem precisar infectar outro arquivo.",
+"c": true,
+"prof": "Certo.",
+"x": "O vírus, ao contrário, depende de um arquivo hospedeiro e da execução desse arquivo.",
+"e": "Worm se propaga sozinho."
+},
+{
+"p": "O pharming depende de o usuário clicar em link recebido por e-mail, ao passo que o phishing redireciona o usuário mesmo quando ele digita corretamente o endereço do site.",
+"c": false,
+"prof": "Os conceitos foram trocados.",
+"x": "Phishing é a isca (mensagem/site falso que engana). Pharming corrompe a resolução de nomes (DNS) e leva a site falso mesmo com o endereço correto digitado.",
+"e": "Pharming = DNS envenenado."
+},
+{
+"p": "O backup diferencial copia os arquivos alterados desde o último backup completo.",
+"c": true,
+"prof": "Certo.",
+"x": "O incremental copia o que mudou desde o último backup de qualquer tipo.",
+"e": "Diferencial: desde o completo."
+},
+{
+"p": "A Lei Geral de Proteção de Dados aplica-se integralmente ao tratamento de dados realizado exclusivamente para fins de investigação e repressão de infrações penais.",
+"c": false,
+"prof": "Há exclusão expressa.",
+"x": "O art. 4º, III, da LGPD exclui o tratamento realizado exclusivamente para segurança pública, defesa nacional, segurança do Estado e investigação e repressão de infrações penais, que deve ser regido por lei específica.",
+"e": "LGPD não alcança investigação criminal exclusiva."
+},
+{
+"p": "Segundo o STJ, é ilícita a prova obtida pelo acesso, sem autorização judicial, às conversas armazenadas no celular apreendido do preso em flagrante.",
+"c": true,
+"prof": "Certo.",
+"x": "A apreensão do aparelho é válida, mas o acesso ao conteúdo depende de autorização judicial (RHC 51.531).",
+"e": "Celular: conteúdo só com juiz."
+},
+{
+"p": "Os computadores de um cartório de delegacia exibiram mensagem informando que os arquivos foram criptografados e que a chave só seria liberada mediante pagamento em criptomoeda. Trata-se de:",
+"alts": [
+"spyware",
+"phishing",
+"ransomware",
+"worm",
+"spam"
+],
+"r": 2,
+"n": [
+"Spyware espiona, não sequestra.",
+"Phishing é isca para obter dados.",
+"Correta.",
+"Worm se propaga, mas a mensagem descrita é de sequestro.",
+"Spam é mensagem em massa."
+],
+"prof": "Criptografou e pediu resgate = ransomware.",
+"x": "O ransomware sequestra os dados por criptografia e exige resgate. A melhor defesa é backup isolado (offline) e atualizado.",
+"e": "Ransomware."
+},
+{
+"p": "Um investigador digita corretamente o endereço do banco no navegador, mas é levado a uma página falsa idêntica, que captura sua senha. O ataque descrito é o:",
+"alts": [
+"phishing por e-mail",
+"pharming",
+"spam",
+"keylogger instalado por pendrive",
+"ataque de força bruta"
+],
+"r": 1,
+"n": [
+"Phishing depende da isca, e o endereço foi digitado certo.",
+"Correta: redirecionamento por DNS.",
+"Spam é mensagem em massa.",
+"Keylogger captura teclas, não redireciona.",
+"Força bruta testa senhas."
+],
+"prof": "Endereço certo + site falso = pharming.",
+"x": "No pharming, a resolução de nomes é corrompida (DNS envenenado ou arquivo hosts alterado), levando a vítima ao site falso mesmo com o endereço correto.",
+"e": "Pharming."
+},
+{
+"p": "Em uma investigação de fraude, a perícia precisa extrair as conversas de um celular apreendido de forma que a defesa não possa alegar adulteração. O procedimento mais adequado é:",
+"alts": [
+"fotografar a tela do celular com outro aparelho",
+"pedir ao suspeito que encaminhe as conversas por e-mail",
+"fazer a extração pericial com autorização judicial, calcular o hash do material e documentar a cadeia de custódia",
+"copiar os arquivos para um pendrive sem registro",
+"imprimir as conversas e anexá-las ao inquérito"
+],
+"r": 2,
+"n": [
+"Prints são frágeis e sem garantia de integridade.",
+"Depende do investigado e não garante integridade.",
+"Correta.",
+"Sem registro não há cadeia de custódia.",
+"Impressão não garante integridade."
+],
+"prof": "Prova digital = integridade comprovada.",
+"x": "O acesso ao conteúdo depende de autorização judicial; a extração pericial com hash e registro da cadeia de custódia (CPP, arts. 158-A e seguintes) garante a integridade da prova digital.",
+"e": "Hash + cadeia de custódia."
+}
+]
+},
+"office": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>$A$1</b><span>referência absoluta (não muda ao copiar)</span></div><div class=\"lt-stat\"><b>! x .</b><span>separador de planilha: Excel (Plan1!A1) x Calc (Plan1.A1)</span></div><div class=\"lt-stat\"><b>.xlsm</b><span>planilha do Excel com macros</span></div><div class=\"lt-stat\"><b>Correspondências</b><span>guia da mala direta no Word</span></div></div>\n<h3>1. Editores de texto: Word 2016 e Writer 7.1</h3>\n<ul><li><b>Formatação</b>: de <b>caractere</b> (fonte, negrito), de <b>parágrafo</b> (alinhamento, recuo, espaçamento) e de <b>página/seção</b> (margens, orientação, colunas, cabeçalho e rodapé). <b>Quebra de seção</b> permite páginas com orientação ou numeração diferentes no mesmo documento.</li><li><b>Estilos</b> (Título 1, Título 2…) padronizam o texto e permitem gerar <b>sumário automático</b>.</li><li><b>Tabelas</b>: inserir, mesclar e dividir células, converter texto em tabela, repetir linha de cabeçalho.</li><li><b>Mala direta</b> (Word: guia <b>Correspondências</b>; Writer: <b>Ferramentas > Assistente de mala direta</b>): junta um <b>documento principal</b> (a carta) a uma <b>fonte de dados</b> (planilha, contatos) para gerar documentos personalizados (intimações, etiquetas, e-mails).</li><li><b>Proteção</b>: Word – <b>Revisão > Restringir Edição</b> e <b>Arquivo > Proteger Documento</b> (senha para abrir/modificar); Writer – senha ao salvar e seções protegidas. <b>Controlar alterações</b> registra quem mudou o quê.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ação</th><th>Word 2016 (português)</th><th>Writer</th></tr></thead><tbody><tr><td>Negrito</td><td><b>Ctrl+N</b></td><td>Ctrl+B</td></tr><tr><td>Itálico</td><td>Ctrl+I</td><td>Ctrl+I</td></tr><tr><td>Sublinhado</td><td><b>Ctrl+S</b></td><td>Ctrl+U</td></tr><tr><td>Salvar</td><td><b>Ctrl+B</b></td><td>Ctrl+S</td></tr><tr><td>Abrir</td><td>Ctrl+A</td><td>Ctrl+O</td></tr><tr><td>Selecionar tudo</td><td><b>Ctrl+T</b></td><td>Ctrl+A</td></tr><tr><td>Centralizar</td><td>Ctrl+E</td><td>Ctrl+E</td></tr><tr><td>Justificar</td><td>Ctrl+J</td><td>Ctrl+J</td></tr><tr><td>Localizar e substituir</td><td>Ctrl+U (substituir)</td><td>Ctrl+H</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> No <b>Word em português</b>, <b>Ctrl+S é sublinhado</b> e <b>Ctrl+B é salvar</b>. No <b>Writer</b>, os atalhos seguem o inglês (<b>Ctrl+S salva</b>, <b>Ctrl+B negrito</b>). É a pegadinha mais antiga das provas de informática.</div>\n<h3>2. Planilhas: Excel 2016 e Calc 7.1</h3>\n<ul><li>Fórmulas começam com <b>=</b> (no Calc também com + ou -). Referência <b>relativa</b> (A1) muda ao copiar; <b>absoluta</b> ($A$1) não muda; <b>mista</b> ($A1 ou A$1) trava só coluna ou só linha.</li><li>Intervalo: <b>A1:A10</b> (de A1 até A10); <b>A1;A10</b> (A1 e A10, no padrão brasileiro). Outra planilha: Excel <b>Plan1!A1</b>; Calc <b>Plan1.A1</b> (ou $Plan1.A1).</li></ul>\n<table class=\"tab\"><thead><tr><th>Função</th><th>O que faz</th></tr></thead><tbody><tr><td>SOMA, MÉDIA, MÁXIMO, MÍNIMO</td><td>soma, média aritmética, maior e menor</td></tr><tr><td><b>SE</b>(teste; se_verdadeiro; se_falso)</td><td>decisão lógica</td></tr><tr><td><b>CONT.SE</b>(intervalo; critério)</td><td>conta células que atendem ao critério</td></tr><tr><td><b>CONT.VALORES</b></td><td>conta células <b>não vazias</b></td></tr><tr><td><b>CONT.NÚM</b></td><td>conta células com <b>números</b></td></tr><tr><td><b>SOMASE</b></td><td>soma com critério</td></tr><tr><td><b>PROCV</b>(valor; tabela; coluna; FALSO)</td><td>busca vertical (FALSO = correspondência exata)</td></tr><tr><td>ARRED(número; casas)</td><td>arredonda</td></tr><tr><td>HOJE() e AGORA()</td><td>data atual / data e hora</td></tr><tr><td>E, OU</td><td>testes lógicos combinados</td></tr></tbody></table>\n<ul><li>Erros: <b>#DIV/0!</b> (divisão por zero), <b>#N/D</b> (valor não encontrado, comum no PROCV), <b>#NOME?</b> (função com nome errado), <b>#REF!</b> (referência inválida, célula excluída), <b>#VALOR!</b> (tipo de dado errado), <b>####</b> (coluna estreita).</li><li><b>Classificar e filtrar</b> dados, <b>formatação condicional</b>, <b>gráficos</b> (colunas, barras, pizza, linhas), <b>tabela dinâmica</b>.</li><li><b>Macros</b>: sequência de comandos gravada para automatizar tarefas. Excel usa <b>VBA</b> e salva em <b>.xlsm</b> (o .xlsx não guarda macros); o LibreOffice usa <b>Basic</b>. Macros de origem desconhecida são vetor de <b>vírus de macro</b>.</li></ul>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Copiando fórmula com referência mista</b><ol><li><span>Em C2 está =A2*$B$1</span></li><li><span>Copiada para C3, vira =A3*$B$1 (a parte relativa anda; a absoluta fica)</span></li><li><span>Se fosse =A$2*B1 copiada de C2 para D3: =B$2*C2 (linha 2 travada; o resto anda uma coluna e uma linha)</span></li></ol><span class=\"res\">Regra: o $ trava exatamente o que vem logo depois dele</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No Excel, =Plan1.A1 referencia outra planilha</span><br>✅ <span class=\"certo\">Excel usa ! (Plan1!A1); o ponto é do Calc.</span></li><li>❌ <span class=\"banca\">CONT.VALORES conta só números</span><br>✅ <span class=\"certo\">Conta células NÃO VAZIAS; números é CONT.NÚM.</span></li><li>❌ <span class=\"banca\">.xlsx guarda macros</span><br>✅ <span class=\"certo\">Macros exigem .xlsm.</span></li><li>❌ <span class=\"banca\">#N/D indica divisão por zero</span><br>✅ <span class=\"certo\">#DIV/0! é divisão por zero; #N/D é valor não encontrado.</span></li><li>❌ <span class=\"banca\">Ctrl+S salva no Word em português</span><br>✅ <span class=\"certo\">No Word pt-BR, Ctrl+S sublinha; Ctrl+B salva.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>$A$1?</span></span><span class=\"vs\"><span>Referência <b>absoluta</b>: não muda ao copiar.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CONT.VALORES x CONT.NÚM?</span></span><span class=\"vs\"><span><b>Não vazias</b> x <b>números</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>PROCV com FALSO?</span></span><span class=\"vs\"><span>Busca <b>exata</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>#REF!?</span></span><span class=\"vs\"><span>Referência <b>inválida</b> (célula excluída).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mala direta?</span></span><span class=\"vs\"><span>Documento principal + <b>fonte de dados</b> = documentos personalizados.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Word pt-BR: Ctrl+N e Ctrl+B?</span></span><span class=\"vs\"><span><b>Negrito</b> e <b>Salvar</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "No Microsoft Excel, a referência $A$1 permanece inalterada quando a fórmula é copiada para outras células.",
+"c": true,
+"prof": "Certo.",
+"x": "O cifrão trava a coluna e a linha. A referência relativa (A1) se ajusta conforme a posição da cópia.",
+"e": "$A$1 absoluta."
+},
+{
+"p": "No Microsoft Word 2016 em português, o atalho Ctrl+S é utilizado para salvar o documento.",
+"c": false,
+"prof": "Clássica pegadinha de idioma.",
+"x": "No Word em português, Ctrl+S aplica sublinhado e Ctrl+B salva. No Writer, Ctrl+S salva.",
+"e": "Word pt-BR: Ctrl+B salva."
+},
+{
+"p": "No LibreOffice Calc, a referência à célula A1 da planilha chamada Dados pode ser escrita como Dados.A1.",
+"c": true,
+"prof": "Certo.",
+"x": "No Excel, a mesma referência seria Dados!A1.",
+"e": "Calc usa ponto."
+},
+{
+"p": "A função CONT.VALORES conta apenas as células que contêm valores numéricos.",
+"c": false,
+"prof": "Não confunda com CONT.NÚM.",
+"x": "CONT.VALORES conta todas as células não vazias (texto, número, data). CONT.NÚM conta apenas números.",
+"e": "CONT.VALORES = não vazias."
+},
+{
+"p": "A mala direta permite combinar um documento principal com uma fonte de dados para gerar várias cartas ou etiquetas personalizadas.",
+"c": true,
+"prof": "Certo.",
+"x": "No Word, o recurso fica na guia Correspondências.",
+"e": "Mala direta."
+},
+{
+"p": "Em uma planilha de controle de inquéritos, a célula D2 contém =SE(C2>30;\"ATRASADO\";\"NO PRAZO\"), em que C2 é o número de dias desde a instauração. Se C2 = 30, o resultado será:",
+"alts": [
+"ATRASADO",
+"NO PRAZO",
+"#VALOR!",
+"VERDADEIRO",
+"30"
+],
+"r": 1,
+"n": [
+"30 não é maior que 30.",
+"Correta.",
+"Não há erro de tipo.",
+"A função devolve o texto, não o valor lógico.",
+"A função devolve um dos textos."
+],
+"prof": "\"Maior que\" não inclui o igual.",
+"x": "O teste C2>30 é FALSO quando C2 vale 30, então a função devolve o terceiro argumento, \"NO PRAZO\".",
+"e": "30 > 30 é falso."
+},
+{
+"p": "Na célula C2 de uma planilha do Excel há a fórmula =B2*$F$1. Ao copiar C2 para C5, a fórmula resultante será:",
+"alts": [
+"=B2*$F$1",
+"=B5*$F$4",
+"=B5*$F$1",
+"=E5*$F$1",
+"=B5*F4"
+],
+"r": 2,
+"n": [
+"A parte relativa muda.",
+"A parte absoluta não muda.",
+"Correta.",
+"A coluna B não muda (mesma coluna).",
+"O $ mantém F1."
+],
+"prof": "Desceu 3 linhas: só a parte sem $ desce.",
+"x": "B2 é relativa e vira B5. $F$1 é absoluta e permanece. Resultado: =B5*$F$1.",
+"e": "=B5*$F$1."
+},
+{
+"p": "Um escrivão usa PROCV para buscar o nome do investigado pelo número do CPF, mas a célula exibe #N/D. A causa mais provável é:",
+"alts": [
+"divisão por zero na fórmula",
+"o CPF procurado não foi encontrado na primeira coluna da tabela",
+"o nome da função foi digitado errado",
+"a coluna está estreita demais",
+"a célula de referência foi excluída"
+],
+"r": 1,
+"n": [
+"Isso gera #DIV/0!.",
+"Correta.",
+"Isso gera #NOME?.",
+"Isso gera ####.",
+"Isso gera #REF!."
+],
+"prof": "#N/D = \"não disponível\": não achou.",
+"x": "O PROCV procura na primeira coluna da tabela. Se o valor não existe (ou está formatado diferente, como CPF com e sem pontos), o resultado é #N/D.",
+"e": "#N/D = não encontrado."
+},
+{
+"p": "Uma planilha com macro de automação foi salva como .xlsx e, ao reabrir, a macro desapareceu. Isso ocorreu porque:",
+"alts": [
+"o Excel não aceita macros em nenhuma hipótese",
+"o formato .xlsx não armazena macros; seria necessário salvar como .xlsm",
+"macros só funcionam no LibreOffice",
+"a macro foi bloqueada pelo antivírus por ser vírus",
+"o arquivo precisa ser salvo em .csv"
+],
+"r": 1,
+"n": [
+"O Excel aceita macros.",
+"Correta.",
+"Excel usa VBA.",
+"Não há indício disso.",
+"CSV não guarda macros nem formatação."
+],
+"prof": "m de macro: .xlsm.",
+"x": "O .xlsx é o formato padrão sem macros. Para guardar código VBA, salva-se como Pasta de Trabalho Habilitada para Macro (.xlsm).",
+"e": "Macro = .xlsm."
+}
+]
+}
+},
+"extravagante": {
+"hediondos": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3 T</b><span>equiparados a hediondos: Tortura, Tráfico e Terrorismo (CF, art. 5º, XLIII)</span></div><div class=\"lt-stat\"><b>40% a 70%</b><span>frações de progressão em crimes hediondos (LEP, art. 112)</span></div><div class=\"lt-stat\"><b>30 + 30</b><span>dias de prisão temporária em hediondo</span></div><div class=\"lt-stat\"><b>0</b><span>anistia, graça, indulto ou fiança</span></div></div>\n<h3>1. O que é crime hediondo</h3>\n<ul><li>O Brasil adota o <b>sistema legal</b>: hediondo é só o que <b>a lei</b> (Lei 8.072/1990, art. 1º) diz que é, <b>consumado ou tentado</b>. O juiz não pode declarar hediondo um crime fora da lista.</li><li>A Constituição (art. 5º, XLIII) equipara aos hediondos a <b>tortura</b>, o <b>tráfico de drogas</b> e o <b>terrorismo</b> (os \"TTT\"). Eles <b>não estão no rol</b> da Lei 8.072, mas recebem o mesmo tratamento.</li></ul>\n<table class=\"tab\"><thead><tr><th>Grupo</th><th>Crimes do rol (principais)</th></tr></thead><tbody><tr><td>Vida</td><td>homicídio <b>qualificado</b>; homicídio <b>simples</b> em atividade típica de <b>grupo de extermínio</b>; <b>feminicídio</b> (hoje crime autônomo, art. 121-A)</td></tr><tr><td>Agentes de segurança</td><td>lesão <b>gravíssima</b> e lesão <b>seguida de morte</b> contra integrantes das forças de segurança (CF, arts. 142 e 144) e da Força Nacional, no exercício ou em razão da função, ou contra seus <b>familiares até o 3º grau</b></td></tr><tr><td>Patrimônio</td><td><b>roubo</b> com restrição da liberdade da vítima, com <b>arma de fogo</b> (inclusive de uso proibido ou restrito) e qualificado por <b>lesão grave ou morte</b> (latrocínio); <b>extorsão</b> qualificada (restrição de liberdade, lesão grave ou morte); <b>extorsão mediante sequestro</b>; <b>furto com explosivo</b></td></tr><tr><td>Dignidade sexual</td><td><b>estupro</b>; <b>estupro de vulnerável</b>; <b>favorecimento da prostituição</b> de criança, adolescente ou vulnerável</td></tr><tr><td>Saúde pública</td><td>epidemia com resultado morte; falsificação de produto terapêutico ou medicinal</td></tr><tr><td>Parágrafo único</td><td><b>genocídio</b>; <b>posse ou porte de arma de fogo de uso proibido</b>; <b>comércio ilegal</b> e <b>tráfico internacional</b> de armas; <b>organização criminosa</b> voltada a crimes hediondos ou equiparados</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Depois do Pacote Anticrime, só a posse ou porte de arma de <b>uso PROIBIDO</b> é hediondo. A de <b>uso restrito</b> deixou de ser (STJ). E o <b>tráfico privilegiado</b> (art. 33, § 4º, da Lei de Drogas) <b>não é hediondo</b> (STF e LEP, art. 112, § 5º).</div>\n<h3>2. Consequências</h3>\n<ul><li><b>Insuscetíveis de anistia, graça, indulto e fiança</b> (art. 2º). Mas cabe <b>liberdade provisória sem fiança</b>, se ausentes os requisitos da preventiva.</li><li>O <b>regime inicial fechado obrigatório</b> foi declarado <b>inconstitucional</b> pelo STF (HC 111.840): o juiz fixa o regime conforme o art. 33 do CP.</li><li><b>Prisão temporária</b>: <b>30 dias</b>, prorrogáveis por mais <b>30</b> em caso de extrema e comprovada necessidade (art. 2º, § 4º). Nos demais crimes, são 5 + 5 dias (Lei 7.960/1989).</li><li><b>Associação criminosa</b> para praticar hediondo ou equiparado: <b>3 a 6 anos</b> (art. 8º); o participante que denunciar o bando, possibilitando seu desmantelamento, tem pena reduzida de <b>1 a 2/3</b>.</li><li><b>Livramento condicional</b>: após <b>2/3</b> da pena, se não for <b>reincidente específico</b> em crime hediondo (CP, art. 83, V); vedado se o crime hediondo teve <b>resultado morte</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Progressão (LEP, art. 112)</th><th>Fração</th></tr></thead><tbody><tr><td>Primário, hediondo ou equiparado</td><td><b>40%</b></td></tr><tr><td>Primário, hediondo <b>com resultado morte</b> (sem livramento); comando de organização criminosa para hediondo; <b>milícia</b></td><td><b>50%</b></td></tr><tr><td><b>Reincidente em hediondo</b></td><td><b>60%</b></td></tr><tr><td>Reincidente em hediondo <b>com resultado morte</b> (sem livramento)</td><td><b>70%</b></td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 1.084 (ARE 1.327.963)</b><p class=\"jc-tese\">O condenado por crime hediondo que é reincidente, mas não em crime hediondo, progride com a fração do primário (40% ou 50%), por falta de previsão legal específica.</p><p class=\"jc-com\">A lei só previu 60% e 70% para o reincidente <b>em hediondo</b>. Na dúvida, aplica-se a interpretação mais favorável ao condenado.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 26 e Lei 14.843/2024</b><p class=\"jc-tese\">Para a progressão em crime hediondo, o juiz pode determinar exame criminológico; com a Lei 14.843/2024, o exame passou a ser exigido para a progressão em geral (LEP, art. 112, § 1º).</p><p class=\"jc-com\">A FGV costuma cobrar a súmula. Fique atento à mudança legislativa recente.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Tráfico de drogas está no rol do art. 1º da Lei 8.072</span><br>✅ <span class=\"certo\">É EQUIPARADO pela Constituição, não está no rol.</span></li><li>❌ <span class=\"banca\">Crime hediondo não admite liberdade provisória</span><br>✅ <span class=\"certo\">Veda-se a FIANÇA; a liberdade provisória sem fiança é possível.</span></li><li>❌ <span class=\"banca\">O regime inicial é sempre fechado</span><br>✅ <span class=\"certo\">O STF declarou inconstitucional essa obrigatoriedade.</span></li><li>❌ <span class=\"banca\">Temporária em hediondo: 5 + 5 dias</span><br>✅ <span class=\"certo\">30 + 30 dias.</span></li><li>❌ <span class=\"banca\">Reincidente comum condenado por hediondo progride com 60%</span><br>✅ <span class=\"certo\">60% é para reincidente EM HEDIONDO; o reincidente comum usa 40% (Tema 1.084).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equiparados a hediondos?</span></span><span class=\"vs\"><span><b>Tortura, tráfico e terrorismo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vedações?</span></span><span class=\"vs\"><span><b>Anistia, graça, indulto e fiança</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Temporária em hediondo?</span></span><span class=\"vs\"><span><b>30 + 30 dias</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Progressão do primário em hediondo?</span></span><span class=\"vs\"><span><b>40%</b> (50% com resultado morte).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tráfico privilegiado é hediondo?</span></span><span class=\"vs\"><span><b>Não</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Porte de arma de uso restrito é hediondo?</span></span><span class=\"vs\"><span><b>Não</b> (só uso <b>proibido</b>).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O latrocínio tentado</b><p>Dois assaltantes atiram contra a vítima para levar o carro; ela sobrevive com lesões leves e nada é subtraído. A defesa sustenta que, sem morte, não há crime hediondo.</p><details><summary>Ver a solução comentada</summary><p>O latrocínio (roubo qualificado pelo resultado morte) é hediondo <b>consumado ou tentado</b>. Havendo dolo de matar e não ocorrendo a morte, há latrocínio <b>tentado</b>, também hediondo. Além disso, o roubo com emprego de <b>arma de fogo</b> já está no rol.</p></details></div>",
+"quiz": [
+{
+"p": "São considerados hediondos os crimes listados na Lei 8.072/1990, consumados ou tentados.",
+"c": true,
+"prof": "Certo. É o caput do art. 1º.",
+"x": "O Brasil adota o sistema legal: só é hediondo o que a lei lista, na forma consumada ou tentada.",
+"e": "Rol legal, consumado ou tentado."
+},
+{
+"p": "O tráfico de drogas, por estar expressamente previsto no rol do art. 1º da Lei 8.072/1990, é crime hediondo.",
+"c": false,
+"prof": "Ele é equiparado, não hediondo.",
+"x": "Tráfico, tortura e terrorismo são equiparados a hediondos pela Constituição (art. 5º, XLIII) e recebem o mesmo tratamento, mas não integram o rol do art. 1º.",
+"e": "Tráfico: equiparado."
+},
+{
+"p": "O crime de tráfico privilegiado, previsto no art. 33, § 4º, da Lei de Drogas, não tem natureza hedionda.",
+"c": true,
+"prof": "Certo.",
+"x": "O STF firmou esse entendimento, e o Pacote Anticrime o positivou na LEP (art. 112, § 5º).",
+"e": "Privilegiado não é hediondo."
+},
+{
+"p": "Por expressa vedação legal válida, os crimes hediondos não admitem liberdade provisória, com ou sem fiança.",
+"c": false,
+"prof": "A vedação é só da fiança.",
+"x": "A Lei 8.072 veda anistia, graça, indulto e fiança. A liberdade provisória sem fiança é cabível quando ausentes os requisitos da prisão preventiva.",
+"e": "Só fiança vedada."
+},
+{
+"p": "A prisão temporária, nos crimes hediondos, tem prazo de 30 dias, prorrogável por igual período em caso de extrema e comprovada necessidade.",
+"c": true,
+"prof": "Certo.",
+"x": "Nos demais crimes da Lei 7.960/1989, o prazo é de 5 dias, prorrogável por mais 5.",
+"e": "30 + 30."
+},
+{
+"p": "Pedro, reincidente por furto simples, foi condenado por estupro (crime hediondo, sem resultado morte). Para progredir de regime, segundo a LEP e a jurisprudência do STF, deverá cumprir:",
+"alts": [
+"60% da pena, por ser reincidente",
+"70% da pena",
+"40% da pena, pois a reincidência não é específica em crime hediondo",
+"25% da pena",
+"16% da pena"
+],
+"r": 2,
+"n": [
+"60% é para o reincidente em crime hediondo.",
+"70% é para o reincidente em hediondo com resultado morte.",
+"Correta: Tema 1.084 do STF.",
+"25% é para crime comum com violência, primário.",
+"16% é para crime comum sem violência, primário."
+],
+"prof": "A reincidência só \"pesa\" na tabela dos hediondos se for em hediondo.",
+"x": "O art. 112 da LEP prevê 60% para o reincidente na prática de crime hediondo. Como Pedro é reincidente em crime comum, aplica-se, por analogia favorável, a fração do primário: 40%.",
+"e": "Reincidente comum: 40%."
+},
+{
+"p": "Assinale a alternativa que contém apenas crimes hediondos, segundo a Lei 8.072/1990 com as alterações do Pacote Anticrime.",
+"alts": [
+"homicídio simples; furto qualificado por rompimento de obstáculo; porte de arma de uso restrito",
+"latrocínio; estupro de vulnerável; posse ou porte de arma de fogo de uso proibido",
+"tráfico privilegiado; extorsão simples; associação criminosa",
+"roubo simples; lesão corporal grave contra particular; estelionato",
+"tortura; terrorismo; tráfico de drogas"
+],
+"r": 1,
+"n": [
+"Nenhum desses é hediondo nessas formas.",
+"Correta.",
+"Nenhum está no rol.",
+"Nenhum está no rol.",
+"São equiparados, não hediondos."
+],
+"prof": "Cuidado com a diferença entre \"hediondo\" e \"equiparado\".",
+"x": "Latrocínio (roubo qualificado pela morte), estupro de vulnerável e posse ou porte de arma de fogo de uso proibido estão no rol da Lei 8.072. Tortura, terrorismo e tráfico são equiparados pela Constituição.",
+"e": "Hediondo ≠ equiparado."
+},
+{
+"p": "Um homem é condenado por homicídio qualificado. Na sentença, o juiz fixa o regime inicial fechado afirmando que a Lei 8.072/1990 o impõe obrigatoriamente. A fundamentação está:",
+"alts": [
+"correta, pois a lei impõe regime integralmente fechado",
+"correta, pois a lei impõe regime inicial fechado e o STF a considera válida",
+"incorreta, pois o STF declarou inconstitucional a obrigatoriedade do regime inicial fechado, devendo o regime ser fixado pelas regras do Código Penal",
+"incorreta, pois crimes hediondos começam sempre no semiaberto",
+"incorreta, pois crimes hediondos não admitem pena privativa de liberdade"
+],
+"r": 2,
+"n": [
+"O regime integralmente fechado também foi declarado inconstitucional.",
+"O STF declarou a obrigatoriedade inconstitucional.",
+"Correta: HC 111.840.",
+"Não há essa regra.",
+"Absurdo."
+],
+"prof": "Individualização da pena impede regime automático.",
+"x": "O STF (HC 111.840) declarou inconstitucional o § 1º do art. 2º da Lei 8.072 na parte em que impõe o regime inicial fechado. O juiz pode até fixar o fechado, mas pelos critérios do art. 33 do CP, com fundamentação concreta.",
+"e": "Regime fixado pelo CP."
+}
+]
+},
+"drogas": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5 a 15</b><span>anos de reclusão para o tráfico (art. 33)</span></div><div class=\"lt-stat\"><b>1/6 a 2/3</b><span>redução do tráfico privilegiado (§ 4º)</span></div><div class=\"lt-stat\"><b>40 g</b><span>presunção de usuário de maconha (STF, RE 635.659)</span></div><div class=\"lt-stat\"><b>30 / 90</b><span>dias do inquérito (preso / solto), duplicáveis</span></div></div>\n<h3>1. Porte para consumo pessoal (art. 28)</h3>\n<ul><li>Adquirir, guardar, ter em depósito, transportar ou trazer consigo droga <b>para consumo pessoal</b>: <b>advertência</b>, <b>prestação de serviços à comunidade</b> ou <b>medida educativa</b> (até 5 meses; 10 na reincidência). <b>Não há pena de prisão</b> e <b>não se impõe prisão em flagrante</b>: o autor é levado ao juiz ou assina <b>termo circunstanciado</b>. A pretensão prescreve em <b>2 anos</b>.</li><li>Para saber se é consumo ou tráfico, consideram-se <b>natureza e quantidade</b> da droga, <b>local e condições</b> da ação, circunstâncias sociais e pessoais, <b>conduta e antecedentes</b> (art. 28, § 2º).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · RE 635.659 (Tema 506, 2024)</b><p class=\"jc-tese\">O porte de maconha para consumo pessoal é ilícito administrativo, sem natureza penal; presume-se usuário quem porta até 40 gramas ou seis plantas fêmeas, presunção que admite prova em contrário.</p><p class=\"jc-com\">A polícia <b>continua apreendendo</b> a droga e lavrando o registro, mas o caso vai ao juízo sem efeitos penais. Acima de 40 g não há presunção de tráfico, e abaixo dela pode haver tráfico se houver outros elementos (balança, embalagens, anotações). A decisão vale <b>só para maconha</b>.</p></div>\n<h3>2. Tráfico (art. 33) e figuras equiparadas</h3>\n<ul><li>18 verbos (\"importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, <b>ainda que gratuitamente</b>\"): <b>reclusão de 5 a 15 anos</b> e multa. Crime de <b>ação múltipla</b>: praticar vários verbos no mesmo contexto é <b>um só crime</b>.</li><li><b>§ 1º</b>: matéria-prima e insumos; <b>cultivo</b> de plantas; utilizar local para o tráfico; vender a <b>agente policial disfarçado</b>, havendo elementos de conduta criminal preexistente (Pacote Anticrime).</li><li><b>§ 2º</b>: induzir, instigar ou auxiliar alguém ao uso: detenção de 1 a 3 anos.</li><li><b>§ 3º</b>: oferecer droga <b>eventualmente</b> e <b>sem lucro</b> a pessoa do seu relacionamento, <b>para juntos consumirem</b>: detenção de 6 meses a 1 ano (uso compartilhado).</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 33, § 4º (tráfico privilegiado)</div><div class=\"art-lei\">Nos delitos do caput e do § 1º, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Requisitos <b>cumulativos</b>: primário + bons antecedentes + não se dedica ao crime + não integra organização.</li><li>A redução varia de <b>1/6 a 2/3</b> conforme as circunstâncias (quantidade e natureza da droga podem modular a fração, sem bis in idem).</li><li><b>Não é hediondo</b> (LEP, art. 112, § 5º).</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que basta ser primário.</li><li>Dizer que é hediondo.</li><li>Usar inquéritos e ações em andamento, por si sós, para negar o benefício (o STJ não admite isso como prova de dedicação ao crime).</li></ul></div></div>\n<h3>3. Outros crimes</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td>34</td><td>maquinário e instrumentos para fabricar drogas</td><td>3 a 10 anos</td></tr><tr><td><b>35</b></td><td><b>associação para o tráfico</b>: <b>2 ou mais</b> pessoas, com <b>estabilidade</b>, para os arts. 33 e 34</td><td><b>3 a 10 anos</b> (não é hediondo)</td></tr><tr><td><b>36</b></td><td><b>financiar ou custear</b> o tráfico</td><td><b>8 a 20 anos</b></td></tr><tr><td><b>37</b></td><td>colaborar como <b>informante</b> de grupo de tráfico</td><td>2 a 6 anos</td></tr><tr><td>38</td><td>prescrever ou ministrar culposamente droga</td><td>detenção 6 meses a 2 anos</td></tr><tr><td>39</td><td>conduzir embarcação ou aeronave após consumir droga, expondo a dano</td><td>detenção 6 meses a 3 anos</td></tr></tbody></table>\n<div class=\"lt-pare\"></div>\n<h3>4. Causas de aumento (art. 40: 1/6 a 2/3)</h3>\n<ul><li><b>Transnacionalidade</b>; tráfico <b>entre estados</b> ou com o DF; prevalecimento de função pública; nas <b>imediações</b> de escolas, hospitais, presídios, transporte público etc.; com <b>violência, grave ameaça ou arma de fogo</b>; envolvendo <b>criança, adolescente</b> ou quem tem capacidade reduzida; <b>financiar</b> o tráfico.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 587</b><p class=\"jc-tese\">Para a incidência da majorante do art. 40, V, da Lei 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.</p><p class=\"jc-com\">A PRF que aborda o ônibus ainda em Minas, com droga destinada a São Paulo, já permite o aumento.</p></div>\n<h3>5. Investigação e procedimento</h3>\n<ul><li><b>Laudo de constatação</b> (preliminar) basta para o <b>flagrante</b> e para a denúncia; o <b>laudo definitivo</b> é indispensável para a condenação.</li><li><b>Inquérito</b>: <b>30 dias</b> (preso) e <b>90 dias</b> (solto), podendo ser <b>duplicados</b> pelo juiz, ouvido o MP, mediante pedido justificado do Delegado (art. 51).</li><li><b>Infiltração</b> de agentes e <b>ação controlada</b> (não atuação policial sobre portadores de drogas para identificar mais integrantes) dependem de <b>autorização judicial</b> e oitiva do MP (art. 53). Diferente da Lei de Organizações Criminosas, em que a ação controlada exige só <b>comunicação</b> prévia ao juiz.</li><li><b>Destruição</b> da droga apreendida em flagrante: em até <b>15 dias</b>, por ordem do juiz, guardada amostra para o laudo definitivo.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 280 (RE 603.616)</b><p class=\"jc-tese\">A entrada forçada em domicílio sem mandado, inclusive à noite, só é lícita quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem situação de flagrante delito.</p><p class=\"jc-com\">Denúncia anônima isolada, \"atitude suspeita\" ou fuga ao avistar a viatura, por si sós, <b>não bastam</b> (STJ). Se a entrada depender do consentimento do morador, ele deve ser <b>documentado</b> (preferencialmente por escrito e com gravação).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Usuário de drogas pode ser preso em flagrante</span><br>✅ <span class=\"certo\">Para o art. 28 não se impõe prisão em flagrante; lavra-se termo circunstanciado.</span></li><li>❌ <span class=\"banca\">Associação para o tráfico exige 3 pessoas</span><br>✅ <span class=\"certo\">Bastam 2 pessoas, com estabilidade (art. 35).</span></li><li>❌ <span class=\"banca\">Ação controlada na Lei de Drogas exige só comunicação ao juiz</span><br>✅ <span class=\"certo\">Na Lei de Drogas exige AUTORIZAÇÃO judicial.</span></li><li>❌ <span class=\"banca\">Tráfico interestadual exige atravessar a divisa</span><br>✅ <span class=\"certo\">Basta a intenção inequívoca (Súmula 587).</span></li><li>❌ <span class=\"banca\">Uso compartilhado é tráfico comum</span><br>✅ <span class=\"certo\">É o § 3º: eventual, sem lucro, pessoa do relacionamento, para consumirem juntos.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena do tráfico?</span></span><span class=\"vs\"><span><b>Reclusão de 5 a 15 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tráfico privilegiado?</span></span><span class=\"vs\"><span>Redução de <b>1/6 a 2/3</b>: primário, bons antecedentes, não se dedica ao crime nem integra organização.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Associação para o tráfico?</span></span><span class=\"vs\"><span><b>2 ou mais</b> pessoas, com <b>estabilidade</b>; 3 a 10 anos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do inquérito?</span></span><span class=\"vs\"><span><b>30</b> (preso) / <b>90</b> (solto), duplicáveis.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Laudo de constatação?</span></span><span class=\"vs\"><span>Basta para <b>flagrante e denúncia</b>; condenação exige laudo definitivo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>STF e maconha?</span></span><span class=\"vs\"><span>Até <b>40 g</b> ou 6 plantas fêmeas: presunção (relativa) de usuário; ilícito administrativo.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A abordagem na rodoviária</b><p>Policiais civis abordam Ana na rodoviária de Belo Horizonte com 300 g de cocaína escondidas na mala, passagem para Vitória e R$ 2.000 em notas pequenas. Ela é primária e sem antecedentes.</p><details><summary>Ver a solução comentada</summary><p>Há <b>tráfico</b> (transportar, trazer consigo) com aumento pelo <b>tráfico interestadual</b> (art. 40, V), ainda que a divisa não tenha sido cruzada (Súmula 587). O <b>tráfico privilegiado</b> pode ser analisado pelo juiz: primariedade e bons antecedentes não bastam se houver prova de que ela se dedica ao crime ou integra organização (por exemplo, \"mula\" a serviço de facção, conforme o caso concreto).</p></details></div>",
+"quiz": [
+{
+"p": "Ao autor do crime de porte de droga para consumo pessoal não se impõe prisão em flagrante, devendo ser lavrado termo circunstanciado ou ser ele encaminhado ao juízo competente.",
+"c": true,
+"prof": "Certo. É o art. 48, § 2º.",
+"x": "As medidas do art. 28 são advertência, prestação de serviços e medida educativa, sem pena privativa de liberdade.",
+"e": "Usuário: sem flagrante."
+},
+{
+"p": "A associação para o tráfico, prevista no art. 35 da Lei 11.343/2006, exige a reunião de pelo menos três pessoas.",
+"c": false,
+"prof": "O número é menor.",
+"x": "Bastam duas ou mais pessoas, com vínculo estável e permanente. A associação criminosa do art. 288 do CP é que exige três ou mais.",
+"e": "Art. 35: duas pessoas."
+},
+{
+"p": "Para a incidência da causa de aumento do tráfico interestadual, é desnecessária a efetiva transposição da fronteira entre os estados, bastando a demonstração inequívoca da intenção.",
+"c": true,
+"prof": "Certo. Súmula 587 do STJ.",
+"x": "O tráfico interestadual se caracteriza pela destinação da droga a outro estado.",
+"e": "Súmula 587."
+},
+{
+"p": "Na Lei de Drogas, a ação controlada dispensa autorização judicial, bastando a comunicação prévia ao juiz competente.",
+"c": false,
+"prof": "Esse regime é o da Lei de Organizações Criminosas.",
+"x": "Na Lei 11.343, a não atuação policial sobre portadores de drogas depende de autorização judicial e oitiva do MP (art. 53, II). Na Lei 12.850 basta a comunicação prévia ao juiz.",
+"e": "Drogas: autorização."
+},
+{
+"p": "O laudo de constatação da natureza e da quantidade da droga é suficiente para a lavratura do auto de prisão em flagrante.",
+"c": true,
+"prof": "Certo. É o art. 50, § 1º.",
+"x": "O laudo definitivo é necessário para a condenação.",
+"e": "Constatação basta para o flagrante."
+},
+{
+"p": "Segundo o STF (RE 635.659), assinale a afirmativa correta sobre o porte de maconha para consumo próprio.",
+"alts": [
+"Tornou-se conduta lícita, devendo a polícia devolver a droga ao portador.",
+"Continua sendo crime punido com detenção.",
+"É ilícito administrativo, presumindo-se usuário quem porta até 40 gramas ou seis plantas fêmeas, presunção que admite prova em contrário.",
+"A presunção de usuário é absoluta até 40 gramas.",
+"A decisão alcança todas as drogas ilícitas."
+],
+"r": 2,
+"n": [
+"A droga continua sendo apreendida; a conduta segue ilícita.",
+"Passou a ser ilícito sem natureza penal.",
+"Correta.",
+"A presunção é relativa.",
+"Vale só para maconha."
+],
+"prof": "Despenalizou ≠ legalizou.",
+"x": "O STF afastou a natureza penal do porte de maconha para consumo, mantendo-o como ilícito administrativo, e fixou presunção relativa de usuário até 40 g ou 6 plantas fêmeas. A apreensão e a lavratura de registro continuam.",
+"e": "Ilícito administrativo; presunção relativa."
+},
+{
+"p": "João, primário, entregou gratuitamente um cigarro de maconha a um amigo com quem costumava sair, para que fumassem juntos naquela noite. A conduta configura:",
+"alts": [
+"tráfico de drogas (art. 33, caput)",
+"o crime do art. 33, § 3º (uso compartilhado), com pena de detenção de 6 meses a 1 ano",
+"fato atípico, por ser gratuito",
+"associação para o tráfico",
+"porte para consumo pessoal, apenas"
+],
+"r": 1,
+"n": [
+"A lei tem figura específica para essa situação.",
+"Correta.",
+"\"Ainda que gratuitamente\" no tráfico; aqui há tipo próprio.",
+"Não há vínculo estável para traficar.",
+"Ele ofereceu a outra pessoa."
+],
+"prof": "Eventual + sem lucro + pessoa do relacionamento + juntos consumirem.",
+"x": "O § 3º do art. 33 tipifica oferecer droga eventualmente e sem objetivo de lucro a pessoa de seu relacionamento, para juntos a consumirem, com pena de detenção de 6 meses a 1 ano, sem prejuízo das penas do art. 28.",
+"e": "Uso compartilhado."
+},
+{
+"p": "Policiais civis, após denúncia anônima, sem qualquer diligência prévia, arrombam a porta de uma casa à noite e encontram drogas. Segundo a jurisprudência do STF e do STJ:",
+"alts": [
+"a prova é lícita, porque o tráfico é crime permanente e o flagrante sempre autoriza o ingresso",
+"a prova é lícita, porque a denúncia anônima é suficiente para o ingresso noturno",
+"a prova é ilícita, pois a denúncia anônima, isoladamente, não constitui fundada razão para o ingresso forçado em domicílio",
+"a prova é lícita se o morador for reincidente",
+"a prova é ilícita apenas se o crime for o de porte para consumo"
+],
+"r": 2,
+"n": [
+"O flagrante precisa estar demonstrado por fundadas razões prévias.",
+"A denúncia anônima isolada não basta.",
+"Correta: Tema 280 do STF e precedentes do STJ.",
+"Antecedentes não justificam o ingresso.",
+"O raciocínio vale para qualquer crime."
+],
+"prof": "Primeiro investigue, depois entre: as fundadas razões vêm antes da porta aberta.",
+"x": "O STF exige fundadas razões, justificadas a posteriori, que indiquem flagrante no interior da casa. O STJ entende que denúncia anônima isolada, sem diligências que a confirmem, não basta, e a prova obtida é ilícita.",
+"e": "Denúncia anônima sozinha não basta."
+}
+]
+},
+"desarmamento": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1 a 3</b><span>anos de detenção na posse irregular de uso permitido (art. 12)</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão no porte ilegal de uso permitido (art. 14)</span></div><div class=\"lt-stat\"><b>4 a 12</b><span>anos na posse ou porte de arma de uso proibido (art. 16, § 2º)</span></div><div class=\"lt-stat\"><b>SINARM / SIGMA</b><span>cadastros da PF (uso permitido) / do Exército (uso restrito)</span></div></div>\n<h3>1. Posse x porte</h3>\n<ul><li><b>Posse</b>: manter a arma <b>dentro</b> da residência ou do <b>local de trabalho</b> (sendo o titular ou responsável pelo estabelecimento). <b>Porte</b>: levar a arma <b>fora</b> desses locais (na rua, no carro, na mochila).</li><li><b>Registro</b> autoriza a posse; o <b>porte</b> depende de autorização específica, em regra proibido aos civis (art. 6º), com exceções (forças de segurança, como os <b>policiais civis</b>, art. 6º, II; guardas municipais; vigilantes etc.).</li></ul>\n<table class=\"tab\"><thead><tr><th>Crime</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>Art. 12</b></td><td><b>posse irregular</b> de arma, acessório ou munição de <b>uso permitido</b>, em casa ou no trabalho</td><td><b>detenção 1 a 3 anos</b></td></tr><tr><td>Art. 13</td><td><b>omissão de cautela</b>: deixar menor de 18 ou deficiente mental se apoderar da arma</td><td>detenção 1 a 2 anos</td></tr><tr><td><b>Art. 14</b></td><td><b>porte ilegal</b> de arma de <b>uso permitido</b></td><td><b>reclusão 2 a 4 anos</b></td></tr><tr><td><b>Art. 15</b></td><td><b>disparo</b> de arma em lugar habitado ou via pública (se não for meio para outro crime)</td><td>reclusão 2 a 4 anos</td></tr><tr><td><b>Art. 16</b></td><td><b>posse ou porte</b> de arma de <b>uso restrito</b></td><td><b>reclusão 3 a 6 anos</b></td></tr><tr><td><b>Art. 16, § 2º</b></td><td>se a arma for de <b>uso proibido</b></td><td><b>reclusão 4 a 12 anos</b> (hediondo)</td></tr><tr><td><b>Art. 17</b></td><td><b>comércio ilegal</b></td><td>reclusão 6 a 12 anos</td></tr><tr><td><b>Art. 18</b></td><td><b>tráfico internacional</b></td><td>reclusão 8 a 16 anos</td></tr></tbody></table>\n<ul><li><b>Art. 16, § 1º</b> (mesma pena do art. 16): suprimir ou alterar marca ou numeração; <b>portar, possuir ou adquirir arma com numeração raspada</b>; vender arma a criança ou adolescente; produzir ou recarregar munição sem autorização, entre outros.</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Arma de <b>uso permitido</b> com <b>numeração raspada</b> cai no <b>art. 16, § 1º, IV</b> (3 a 6 anos), e não no art. 12 ou 14. A banca sempre \"esconde\" a numeração raspada no enunciado.</div>\n<h3>2. Teses que a prova cobra</h3>\n<ul><li>Os crimes são de <b>perigo abstrato</b>: não precisa provar risco concreto. <b>Arma desmuniciada</b> configura o crime (STF e STJ).</li><li><b>Munição isolada</b>, em pequena quantidade e <b>sem arma</b>, pode levar à <b>insignificância</b>, conforme o caso (STF e STJ).</li><li><b>Arma absolutamente inapta</b> para disparar, comprovada por laudo, torna o fato <b>atípico</b> (crime impossível).</li><li>Várias armas ou munições no <b>mesmo contexto</b> = <b>um só crime</b> (com reflexo na pena), salvo se de tipos penais diferentes (art. 12 e art. 16 → concurso).</li><li>Os parágrafos únicos dos arts. 14 e 15 (que diziam \"inafiançável\") foram declarados <b>inconstitucionais</b> (ADI 3.112). Na <b>posse irregular (art. 12)</b>, com pena máxima de 3 anos, o <b>Delegado pode arbitrar fiança</b> (CPP, art. 322).</li></ul>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 513</b><p class=\"jc-tese\">A abolitio criminis temporária prevista na Lei 10.826/2003 aplica-se ao crime de posse de arma de fogo de uso permitido com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado, praticado somente até 23/10/2005.</p><p class=\"jc-com\">Depois disso, a posse de arma com numeração raspada é crime do art. 16, § 1º, IV, sem \"anistia\".</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · porte e posse no mesmo contexto</b><p class=\"jc-tese\">Quem guarda arma em casa e, no mesmo contexto, sai portando-a responde por um único crime (o mais grave), pelo princípio da consunção.</p><p class=\"jc-com\">Se as armas são de calibres com tipos diferentes (uso permitido e uso restrito), o STJ admite concurso de crimes.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Arma desmuniciada não configura porte ilegal</span><br>✅ <span class=\"certo\">Configura: crime de perigo abstrato.</span></li><li>❌ <span class=\"banca\">Posse de arma de uso permitido é crime inafiançável</span><br>✅ <span class=\"certo\">Pena máx. 3 anos: o Delegado pode arbitrar fiança.</span></li><li>❌ <span class=\"banca\">Porte de arma de uso restrito é hediondo</span><br>✅ <span class=\"certo\">Após o Anticrime, só a de uso PROIBIDO é hediondo.</span></li><li>❌ <span class=\"banca\">Arma com numeração raspada de calibre permitido é art. 12</span><br>✅ <span class=\"certo\">É art. 16, § 1º, IV.</span></li><li>❌ <span class=\"banca\">Arma em casa = porte</span><br>✅ <span class=\"certo\">Em casa ou no trabalho (como responsável) = POSSE.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Posse x porte?</span></span><span class=\"vs\"><span><b>Posse</b>: em casa/trabalho. <b>Porte</b>: fora deles.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 12?</span></span><span class=\"vs\"><span>Posse de uso permitido: <b>detenção 1 a 3</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 14?</span></span><span class=\"vs\"><span>Porte de uso permitido: <b>reclusão 2 a 4</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Numeração raspada?</span></span><span class=\"vs\"><span><b>Art. 16, § 1º, IV</b> (3 a 6).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Uso proibido?</span></span><span class=\"vs\"><span><b>4 a 12 anos</b>, hediondo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arma desmuniciada?</span></span><span class=\"vs\"><span><b>Crime</b> (perigo abstrato).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O revólver no porta-luvas</b><p>Em blitz, a polícia encontra no porta-luvas de um carro um revólver calibre .38 (uso permitido), sem munição e com a numeração raspada. O motorista não tem registro nem porte.</p><details><summary>Ver a solução comentada</summary><p>A arma estar desmuniciada não afasta o crime (perigo abstrato). Como a <b>numeração está raspada</b>, a conduta é a do <b>art. 16, § 1º, IV</b> (reclusão de 3 a 6 anos), e não o porte de uso permitido do art. 14. Não é hediondo, pois a arma não é de uso proibido.</p></details></div>",
+"quiz": [
+{
+"p": "Os crimes de posse e de porte ilegal de arma de fogo são de perigo abstrato, configurando-se ainda que a arma esteja desmuniciada.",
+"c": true,
+"prof": "Certo.",
+"x": "STF e STJ entendem que basta a conduta; não é preciso provar perigo concreto. Só a inaptidão absoluta, atestada em laudo, afasta o crime.",
+"e": "Desmuniciada: crime."
+},
+{
+"p": "A posse irregular de arma de fogo de uso permitido é punida com reclusão de 2 a 4 anos, sendo inafiançável.",
+"c": false,
+"prof": "Pena e regime trocados com o porte.",
+"x": "O art. 12 prevê detenção de 1 a 3 anos e multa. Por ter pena máxima de até 4 anos, o Delegado pode arbitrar fiança. Reclusão de 2 a 4 anos é o porte do art. 14.",
+"e": "Art. 12: detenção 1 a 3."
+},
+{
+"p": "Portar arma de fogo de uso permitido com numeração raspada configura o crime do art. 16, § 1º, IV, do Estatuto do Desarmamento.",
+"c": true,
+"prof": "Certo.",
+"x": "A supressão da numeração desloca a conduta para o art. 16, com pena de reclusão de 3 a 6 anos, independentemente do calibre.",
+"e": "Raspada: art. 16, § 1º."
+},
+{
+"p": "Após o Pacote Anticrime, a posse ou o porte ilegal de arma de fogo de uso restrito passou a ser crime hediondo.",
+"c": false,
+"prof": "Foi o contrário.",
+"x": "O Anticrime restringiu o rol: só a posse ou porte de arma de uso proibido é hediondo. O de uso restrito deixou de ser (STJ).",
+"e": "Hediondo: uso proibido."
+},
+{
+"p": "Um comerciante mantinha, dentro de sua loja, da qual é o dono, uma pistola .380 (uso permitido) sem registro. A conduta configura:",
+"alts": [
+"porte ilegal de arma de uso permitido (art. 14)",
+"posse irregular de arma de uso permitido (art. 12)",
+"posse de arma de uso restrito (art. 16)",
+"fato atípico",
+"omissão de cautela (art. 13)"
+],
+"r": 1,
+"n": [
+"Dentro do estabelecimento do qual é responsável, é posse.",
+"Correta.",
+"A .380 é de uso permitido.",
+"Sem registro é crime.",
+"Omissão de cautela envolve menor ou deficiente."
+],
+"prof": "Local de trabalho do qual é titular = posse.",
+"x": "O art. 12 abrange manter a arma no interior da residência ou no local de trabalho, desde que o agente seja o titular ou o responsável legal pelo estabelecimento.",
+"e": "Loja própria = posse."
+},
+{
+"p": "Em uma residência, a polícia apreende uma pistola 9 mm de uso permitido registrada em nome do morador e, no mesmo armário, um fuzil de uso restrito sem registro. Segundo o STJ:",
+"alts": [
+"há crime único do art. 12",
+"há crime único do art. 16, por consunção",
+"há concurso de crimes, pois as armas se enquadram em tipos penais distintos",
+"o fato é atípico em relação às duas armas",
+"há apenas infração administrativa"
+],
+"r": 2,
+"n": [
+"O fuzil de uso restrito tem tipo próprio.",
+"O STJ admite concurso quando os tipos são diferentes.",
+"Correta.",
+"O fuzil sem registro é crime.",
+"Há crime."
+],
+"prof": "Mesmo contexto, tipos diferentes = concurso.",
+"x": "Para o STJ, a apreensão de armas no mesmo contexto gera crime único se o tipo penal for o mesmo; se as condutas se encaixam em tipos diferentes (art. 12 e art. 16), há concurso. Aqui, a pistola registrada nem é crime, e o fuzil sem registro configura o art. 16.",
+"e": "Tipos distintos: concurso."
+},
+{
+"p": "Preso em flagrante por posse irregular de arma de fogo de uso permitido (art. 12 da Lei 10.826/2003), o autuado pede fiança na delegacia. O Delegado:",
+"alts": [
+"não pode conceder, pois o crime é inafiançável",
+"pode arbitrar fiança, pois a pena máxima não supera 4 anos",
+"só pode conceder com autorização do MP",
+"deve soltar o preso sem fiança em qualquer caso",
+"deve encaminhar o pedido ao Chefe da PCMG"
+],
+"r": 1,
+"n": [
+"Não há vedação válida.",
+"Correta: CPP, art. 322.",
+"Não precisa de autorização.",
+"A fiança é o instrumento cabível.",
+"Não há essa exigência."
+],
+"prof": "Pena máxima até 4 anos: fiança pelo Delegado.",
+"x": "O art. 322 do CPP permite ao Delegado conceder fiança nas infrações com pena privativa de liberdade máxima não superior a 4 anos. O art. 12 tem pena máxima de 3 anos.",
+"e": "Delegado arbitra fiança."
+}
+]
+},
+"abuso": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>finalidades específicas que caracterizam o abuso (prejudicar, beneficiar, capricho)</span></div><div class=\"lt-stat\"><b>21h às 5h</b><span>horário em que é crime cumprir mandado de busca domiciliar (art. 22, § 1º, III)</span></div><div class=\"lt-stat\"><b>1 a 5</b><span>anos de inabilitação para cargo (efeito da condenação)</span></div><div class=\"lt-stat\"><b>Incondicionada</b><span>natureza da ação penal</span></div></div>\n<h3>1. Estrutura da Lei 13.869/2019</h3>\n<ul><li><b>Sujeito ativo</b>: <b>agente público</b>, servidor ou não, da administração direta ou indireta de qualquer Poder, inclusive quem exerce função <b>transitória e sem remuneração</b> (art. 2º).</li><li><b>Dolo específico</b> (art. 1º, § 1º): só há crime se o agente agir com a <b>finalidade de prejudicar outrem</b>, de <b>beneficiar a si mesmo ou a terceiro</b>, ou por <b>mero capricho ou satisfação pessoal</b>.</li><li><b>Divergência</b> na interpretação da lei ou na avaliação de fatos e provas <b>não configura abuso</b> (art. 1º, § 2º): é a vedação ao \"crime de hermenêutica\".</li><li><b>Ação penal pública incondicionada</b>, admitida a <b>ação privada subsidiária</b> se o MP não agir no prazo (art. 3º).</li><li><b>Efeitos da condenação</b> (art. 4º): indenizar o dano (automático, mas o juiz fixa o mínimo a requerimento); <b>inabilitação</b> para cargo por <b>1 a 5 anos</b> e <b>perda do cargo</b> só na <b>reincidência</b> em crime de abuso e <b>por decisão motivada</b> (não automáticos).</li></ul>\n<h3>2. Crimes mais cobrados de polícia</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta (resumo)</th></tr></thead><tbody><tr><td>9º</td><td>decretar prisão em desconformidade com a lei; deixar o juiz de relaxar prisão ilegal etc.</td></tr><tr><td>10</td><td><b>condução coercitiva</b> de testemunha ou investigado <b>manifestamente descabida</b> ou <b>sem prévia intimação</b> de comparecimento</td></tr><tr><td>12</td><td>deixar <b>injustificadamente</b> de comunicar prisão em flagrante ao juiz no prazo legal, ou de entregar a nota de culpa em 24 h</td></tr><tr><td><b>13</b></td><td>constranger o preso, com violência, grave ameaça ou redução da capacidade de resistência, a <b>exibir-se</b> à curiosidade pública, a submeter-se a situação <b>vexatória</b> ou a <b>produzir prova contra si</b></td></tr><tr><td><b>15</b></td><td>constranger a depor quem deve guardar segredo; <b>prosseguir o interrogatório</b> de quem decidiu <b>ficar calado</b> ou que pediu <b>advogado</b> (sem que ele esteja presente)</td></tr><tr><td>16</td><td>deixar de <b>identificar-se</b> ao preso ou identificar-se falsamente</td></tr><tr><td><b>18</b></td><td>submeter o preso a <b>interrogatório durante o repouso noturno</b>, salvo flagrante ou se ele, assistido, consentir</td></tr><tr><td><b>22</b></td><td><b>invadir</b> ou permanecer em imóvel alheio sem autorização judicial ou fora das hipóteses legais; § 1º, III: cumprir <b>mandado de busca domiciliar após as 21h ou antes das 5h</b></td></tr><tr><td>24</td><td>constranger hospital a admitir pessoa <b>já morta</b> para alterar o local ou o momento do crime</td></tr><tr><td><b>25</b></td><td>obter prova por <b>meio manifestamente ilícito</b> ou usá-la sabendo de sua ilicitude</td></tr><tr><td>27</td><td>instaurar procedimento investigatório <b>sem qualquer indício</b> (salvo sindicância ou investigação preliminar sumária justificada)</td></tr><tr><td>28</td><td><b>divulgar gravação</b> sem relação com a prova, expondo a intimidade do investigado</td></tr><tr><td>30</td><td>iniciar persecução <b>sem justa causa</b> ou contra quem sabe inocente</td></tr><tr><td>31</td><td>estender <b>injustificadamente</b> a investigação, em prejuízo do investigado</td></tr><tr><td><b>32</b></td><td><b>negar ao defensor acesso aos autos</b> de investigação já documentados (SV 14)</td></tr><tr><td><b>38</b></td><td><b>antecipar</b>, por meio de comunicação (inclusive rede social), <b>atribuição de culpa</b> antes de concluídas as apurações e formalizada a acusação</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> A lei <b>não</b> criminaliza o uso de <b>algemas</b> (o artigo foi vetado). O tema segue regido pela <b>Súmula Vinculante 11</b>: algemas só em caso de resistência, receio de fuga ou perigo, com <b>justificativa por escrito</b>.</div>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 14</b><p class=\"jc-tese\">É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.</p><p class=\"jc-com\">Diligências <b>em andamento</b> (como interceptação em curso) podem ser preservadas; o que já está <b>documentado</b> deve ser franqueado. Negar acesso injustificadamente é crime do art. 32.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · dolo específico</b><p class=\"jc-tese\">Sem a finalidade especial do art. 1º, § 1º (prejudicar, beneficiar ou capricho), não há crime de abuso, ainda que a decisão do agente seja reformada depois.</p><p class=\"jc-com\">A FGV costuma descrever uma conduta ilegal mas de boa-fé (erro de interpretação, decisão revista pelo juiz) e perguntar se é abuso. A resposta é não.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo erro de interpretação da lei é abuso de autoridade</span><br>✅ <span class=\"certo\">Divergência na interpretação ou na avaliação de provas NÃO configura abuso.</span></li><li>❌ <span class=\"banca\">A perda do cargo é efeito automático</span><br>✅ <span class=\"certo\">Exige reincidência em abuso e decisão motivada.</span></li><li>❌ <span class=\"banca\">A ação penal é condicionada à representação da vítima</span><br>✅ <span class=\"certo\">É pública incondicionada, com ação privada subsidiária.</span></li><li>❌ <span class=\"banca\">Cumprir mandado de busca às 20h é crime</span><br>✅ <span class=\"certo\">O crime é após as 21h ou antes das 5h.</span></li><li>❌ <span class=\"banca\">Usar algemas sem justificativa é crime da Lei 13.869</span><br>✅ <span class=\"certo\">O artigo foi vetado; aplica-se a SV 11.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dolo específico do abuso?</span></span><span class=\"vs\"><span><b>Prejudicar</b> outrem, <b>beneficiar</b> a si/terceiro, ou <b>capricho/satisfação pessoal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação penal?</span></span><span class=\"vs\"><span><b>Pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perda do cargo?</span></span><span class=\"vs\"><span>Só na <b>reincidência</b>, com decisão <b>motivada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mandado de busca à noite?</span></span><span class=\"vs\"><span>Crime <b>após 21h ou antes das 5h</b> (art. 22).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Interrogatório noturno?</span></span><span class=\"vs\"><span>Crime, salvo <b>flagrante</b> ou consentimento do preso assistido (art. 18).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Antecipar culpa em rede social?</span></span><span class=\"vs\"><span><b>Art. 38</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A entrevista após a prisão</b><p>Logo após prender um suspeito de homicídio, o Delegado dá entrevista ao vivo dizendo \"este é o assassino, caso encerrado\", antes de concluir o inquérito.</p><details><summary>Ver a solução comentada</summary><p>A conduta pode configurar o <b>art. 38</b> (antecipar atribuição de culpa antes de concluídas as apurações e formalizada a acusação), desde que presente a finalidade específica do art. 1º, § 1º. A divulgação institucional deve ser <b>objetiva</b>, sem juízo de culpa.</p></details></div>",
+"quiz": [
+{
+"p": "Os crimes de abuso de autoridade exigem que o agente atue com a finalidade específica de prejudicar outrem, de beneficiar a si mesmo ou a terceiro, ou por mero capricho ou satisfação pessoal.",
+"c": true,
+"prof": "Certo. É o art. 1º, § 1º.",
+"x": "Sem esse dolo específico, a conduta pode ser ilegal, mas não é crime de abuso de autoridade.",
+"e": "Dolo específico."
+},
+{
+"p": "A divergência na interpretação da lei pelo agente público configura crime de abuso de autoridade quando a decisão é posteriormente reformada.",
+"c": false,
+"prof": "A lei afasta expressamente essa hipótese.",
+"x": "O § 2º do art. 1º estabelece que a divergência na interpretação da lei ou na avaliação de fatos e provas não configura abuso de autoridade.",
+"e": "Sem crime de hermenêutica."
+},
+{
+"p": "A inabilitação para o exercício de cargo e a perda do cargo, como efeitos da condenação por abuso de autoridade, dependem de reincidência e não são automáticas.",
+"c": true,
+"prof": "Certo. É o art. 4º, parágrafo único.",
+"x": "Devem ser declaradas motivadamente na sentença. A inabilitação vai de 1 a 5 anos.",
+"e": "Reincidência e motivação."
+},
+{
+"p": "Constitui crime de abuso de autoridade cumprir mandado judicial de busca e apreensão domiciliar às 20 horas.",
+"c": false,
+"prof": "Confira o horário da lei.",
+"x": "O art. 22, § 1º, III, criminaliza cumprir mandado de busca domiciliar após as 21h ou antes das 5h.",
+"e": "Crime: após 21h ou antes 5h."
+},
+{
+"p": "Configura crime de abuso de autoridade prosseguir com o interrogatório de pessoa que tenha decidido exercer o direito ao silêncio.",
+"c": true,
+"prof": "Certo. É o art. 15, parágrafo único, I.",
+"x": "Também é crime prosseguir no interrogatório de quem optou por ser assistido por advogado, sem a presença dele.",
+"e": "Silêncio respeitado."
+},
+{
+"p": "Assinale a alternativa correta sobre a Lei 13.869/2019.",
+"alts": [
+"A ação penal é pública condicionada à representação do ofendido.",
+"O uso de algemas sem justificativa por escrito é crime previsto na lei.",
+"O agente público que, por meio de rede social, antecipa a atribuição de culpa antes de concluídas as apurações e formalizada a acusação pode responder por crime de abuso de autoridade.",
+"A perda do cargo é efeito automático da condenação.",
+"A lei só se aplica a servidores efetivos."
+],
+"r": 2,
+"n": [
+"É incondicionada.",
+"O artigo das algemas foi vetado.",
+"Correta: art. 38.",
+"Depende de reincidência e motivação.",
+"Alcança qualquer agente público, ainda que transitório e sem remuneração."
+],
+"prof": "Art. 38: a \"condenação pela imprensa\".",
+"x": "O art. 38 pune quem antecipa, por meio de comunicação, inclusive rede social, a atribuição de culpa antes de concluídas as apurações e formalizada a acusação, exigido o dolo específico do art. 1º, § 1º.",
+"e": "Art. 38."
+},
+{
+"p": "O advogado de um investigado pede acesso ao inquérito. O Delegado nega acesso a todos os documentos, inclusive os depoimentos já colhidos, alegando que há interceptação telefônica em andamento. Diante da SV 14 e da Lei 13.869/2019:",
+"alts": [
+"a negativa total é correta, pois o inquérito é sigiloso",
+"o Delegado pode preservar a diligência em andamento, mas deve franquear os elementos já documentados; a negativa injustificada pode configurar crime",
+"o advogado só tem acesso após a denúncia",
+"o advogado tem acesso inclusive às diligências em curso",
+"o acesso depende de autorização do Chefe da PCMG"
+],
+"r": 1,
+"n": [
+"O sigilo não alcança o que já está documentado.",
+"Correta.",
+"O acesso é na fase investigatória.",
+"Diligências em curso podem ser preservadas.",
+"Não depende dessa autorização."
+],
+"prof": "Documentado = acesso. Em andamento = pode reservar.",
+"x": "A SV 14 assegura ao defensor acesso aos elementos já documentados. A interceptação em andamento pode ser preservada. Negar acesso injustificadamente aos autos pode configurar o crime do art. 32.",
+"e": "SV 14."
+}
+]
+},
+"maria-penha": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>formas de violência (física, psicológica, sexual, patrimonial e moral)</span></div><div class=\"lt-stat\"><b>48 h</b><span>para remeter ao juiz o pedido de medidas protetivas</span></div><div class=\"lt-stat\"><b>24 h</b><span>para comunicar ao juiz o afastamento do lar feito pelo Delegado ou policial</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão por descumprir medida protetiva (art. 24-A)</span></div></div>\n<h3>1. Quando se aplica</h3>\n<ul><li><b>Violência doméstica e familiar contra a mulher</b>: ação ou omissão <b>baseada no gênero</b> que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial (art. 5º), no âmbito: (I) da <b>unidade doméstica</b> (inclusive pessoas esporadicamente agregadas); (II) da <b>família</b>; (III) de <b>relação íntima de afeto</b>, <b>independentemente de coabitação</b>.</li><li>O <b>sujeito ativo</b> pode ser homem ou <b>mulher</b> (ex.: relação homoafetiva, mãe e filha). A vítima é <b>mulher</b>, inclusive <b>mulher trans</b> (STJ, REsp 1.977.124).</li><li>As relações independem de <b>orientação sexual</b> (art. 5º, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma (art. 7º)</th><th>Exemplos</th></tr></thead><tbody><tr><td>Física</td><td>agressões, empurrões, lesões</td></tr><tr><td><b>Psicológica</b></td><td>ameaça, humilhação, <b>controle</b>, vigilância, isolamento, manipulação</td></tr><tr><td>Sexual</td><td>forçar relação, impedir uso de contraceptivo, forçar aborto ou prostituição</td></tr><tr><td><b>Patrimonial</b></td><td>reter, subtrair ou <b>destruir</b> objetos, documentos, instrumentos de trabalho</td></tr><tr><td><b>Moral</b></td><td><b>calúnia, difamação ou injúria</b></td></tr></tbody></table>\n<h3>2. A atuação da polícia (arts. 10 a 12-C)</h3>\n<ul><li>Atendimento policial e pericial <b>especializado</b>, ininterrupto, preferencialmente por <b>servidoras do sexo feminino</b>, evitando a <b>revitimização</b> (perguntas repetidas e contato com o agressor).</li><li>A autoridade policial deve: registrar a ocorrência e ouvir a vítima; colher provas; <b>remeter ao juiz, em 48 horas</b>, o pedido de <b>medidas protetivas</b>; determinar exames periciais; ouvir o agressor; verificar se ele tem <b>arma</b> e comunicar o órgão competente; remeter o inquérito.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 12-C (afastamento do lar pela polícia)</div><div class=\"art-lei\">Verificado risco atual ou iminente à vida ou à integridade da mulher, o agressor será imediatamente afastado do lar: I – pela autoridade judicial; II – pelo Delegado de Polícia, quando o Município não for sede de comarca; III – pelo policial, quando o Município não for sede de comarca e não houver Delegado disponível no momento da denúncia.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>É uma das poucas medidas que a <b>polícia</b> aplica diretamente.</li><li>A ordem é <b>escalonada</b>: juiz → Delegado (sem comarca) → policial (sem comarca e sem Delegado).</li><li>O juiz deve ser comunicado em <b>24 horas</b> e decide sobre a manutenção.</li><li>Nesses casos, <b>não se concede liberdade provisória</b> ao preso enquanto houver risco à vítima ou à efetividade da medida.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que o Delegado pode afastar o agressor em qualquer município.</li><li>Dizer que o policial pode afastar mesmo havendo Delegado disponível.</li></ul></div></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Medidas protetivas e consequências penais</h3>\n<ul><li>As medidas são concedidas pelo <b>juiz</b> em <b>48 horas</b>, a pedido da vítima ou do MP, e <b>independem</b> de tipificação penal, de ajuizamento de ação, de inquérito ou de registro de ocorrência (art. 19, § 5º, Lei 14.550/2023). Vigoram <b>enquanto houver risco</b>.</li><li><b>Descumprir medida protetiva</b> (art. 24-A): <b>reclusão de 2 a 5 anos</b> (Lei 14.994/2024). Na prisão em flagrante, <b>só o juiz</b> concede fiança.</li><li><b>Não se aplica a Lei 9.099</b> (art. 41): sem transação penal nem suspensão condicional do processo (Súmula 536 STJ).</li><li><b>Lesão corporal</b> (mesmo leve) contra a mulher em contexto doméstico: <b>ação penal pública incondicionada</b> (Súmula 542 STJ e ADI 4.424). Já a <b>ameaça</b> depende de representação, e a <b>renúncia</b> só vale perante o <b>juiz</b>, em audiência, antes do recebimento da denúncia (art. 16).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 600</b><p class=\"jc-tese\">Para a configuração da violência doméstica e familiar prevista no art. 5º da Lei 11.340/2006, não se exige a coabitação entre autor e vítima.</p><p class=\"jc-com\">Ex-namorado que agride a ex-companheira por inconformismo com o fim da relação está alcançado pela lei.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmulas 588 e 589</b><p class=\"jc-tese\">É inviável a substituição da pena privativa de liberdade por restritiva de direitos em crimes ou contravenções com violência ou grave ameaça contra a mulher no ambiente doméstico (588); e é inaplicável o princípio da insignificância nesses crimes (589).</p><p class=\"jc-com\">Também é vedada a aplicação isolada de pena de cesta básica ou prestação pecuniária (art. 17 da Lei).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A lei só se aplica se o casal morar junto</span><br>✅ <span class=\"certo\">Independe de coabitação (Súmula 600).</span></li><li>❌ <span class=\"banca\">O agressor precisa ser homem</span><br>✅ <span class=\"certo\">Sujeito ativo pode ser mulher; a vítima é mulher.</span></li><li>❌ <span class=\"banca\">Lesão leve contra a mulher depende de representação</span><br>✅ <span class=\"certo\">Ação pública incondicionada (Súmula 542).</span></li><li>❌ <span class=\"banca\">Cabe transação penal em violência doméstica</span><br>✅ <span class=\"certo\">A Lei 9.099 não se aplica (art. 41; Súmula 536).</span></li><li>❌ <span class=\"banca\">Medida protetiva exige boletim de ocorrência</span><br>✅ <span class=\"certo\">Independe de BO, inquérito ou ação (art. 19, § 5º).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Formas de violência?</span></span><span class=\"vs\"><span><b>Física, psicológica, sexual, patrimonial e moral</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo para remeter pedido de medida protetiva?</span></span><span class=\"vs\"><span><b>48 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento do lar pela polícia?</span></span><span class=\"vs\"><span><b>Delegado</b> (município sem comarca) ou <b>policial</b> (sem comarca e sem Delegado); juiz comunicado em <b>24 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Descumprir medida protetiva?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 5 anos</b>; fiança só pelo <b>juiz</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão leve doméstica?</span></span><span class=\"vs\"><span>Ação <b>pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 9.099?</span></span><span class=\"vs\"><span><b>Não se aplica</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A cidade sem comarca</b><p>Em um pequeno município mineiro que não é sede de comarca, a vítima chega à delegacia relatando que o marido ameaça matá-la com uma faca. O Delegado está presente.</p><details><summary>Ver a solução comentada</summary><p>Havendo risco atual ou iminente, o <b>Delegado</b> pode determinar o <b>afastamento imediato do agressor do lar</b> (art. 12-C, II), comunicando o juiz em <b>24 horas</b>. Deve ainda remeter o pedido de outras medidas protetivas em 48 horas, verificar se o agressor tem arma e registrar a ameaça (que depende de representação; a renúncia só perante o juiz).</p></details></div>",
+"quiz": [
+{
+"p": "A configuração da violência doméstica e familiar contra a mulher no âmbito de relação íntima de afeto independe de coabitação.",
+"c": true,
+"prof": "Certo. Art. 5º, III, e Súmula 600 do STJ.",
+"x": "Basta a relação íntima de afeto, atual ou passada.",
+"e": "Sem coabitação."
+},
+{
+"p": "A Lei Maria da Penha exige que o agressor seja do sexo masculino.",
+"c": false,
+"prof": "O foco está na vítima.",
+"x": "O sujeito ativo pode ser homem ou mulher. O que se exige é violência baseada no gênero contra a mulher, no âmbito doméstico, familiar ou de relação íntima de afeto.",
+"e": "Agressor pode ser mulher."
+},
+{
+"p": "O crime de lesão corporal praticado contra a mulher no âmbito das relações domésticas é de ação penal pública incondicionada, ainda que a lesão seja leve.",
+"c": true,
+"prof": "Certo. Súmula 542 do STJ.",
+"x": "O STF (ADI 4.424) fixou o mesmo entendimento.",
+"e": "Lesão: incondicionada."
+},
+{
+"p": "Na hipótese de prisão em flagrante pelo crime de descumprimento de medida protetiva de urgência, o Delegado de Polícia pode arbitrar fiança.",
+"c": false,
+"prof": "A lei reserva a fiança a outra autoridade.",
+"x": "O art. 24-A, § 2º, estabelece que, na prisão em flagrante, apenas a autoridade judicial pode conceder fiança.",
+"e": "Fiança: só juiz."
+},
+{
+"p": "As medidas protetivas de urgência independem da tipificação penal da violência, do ajuizamento de ação penal ou cível, da existência de inquérito ou do registro de boletim de ocorrência.",
+"c": true,
+"prof": "Certo. Art. 19, § 5º (Lei 14.550/2023).",
+"x": "Vigoram enquanto persistir o risco à integridade da mulher ou de seus dependentes.",
+"e": "Medida protetiva autônoma."
+},
+{
+"p": "Em município que não é sede de comarca, sem Delegado disponível no momento, um policial civil atende a mulher ameaçada de morte pelo companheiro, que está em casa armado com faca. Segundo a Lei 11.340/2006:",
+"alts": [
+"o policial nada pode fazer, devendo aguardar decisão judicial",
+"o policial pode determinar o afastamento imediato do agressor do lar, comunicando o juiz em 24 horas",
+"somente o Delegado de outro município pode determinar o afastamento",
+"o afastamento depende de autorização do MP",
+"o policial pode afastar o agressor, devendo comunicar o juiz em 30 dias"
+],
+"r": 1,
+"n": [
+"A lei autoriza o policial nessa hipótese.",
+"Correta: art. 12-C, III, e § 1º.",
+"O policial é competente se não houver Delegado disponível.",
+"Não depende do MP.",
+"O prazo de comunicação é de 24 horas."
+],
+"prof": "Escada: juiz → Delegado (sem comarca) → policial (sem comarca e sem Delegado).",
+"x": "O art. 12-C autoriza o afastamento pelo policial quando o município não for sede de comarca e não houver Delegado disponível. O juiz é comunicado em 24 horas e decide sobre a manutenção ou revogação.",
+"e": "Policial afasta e comunica em 24 h."
+},
+{
+"p": "Assinale a alternativa correta, segundo a Lei Maria da Penha e a jurisprudência do STJ.",
+"alts": [
+"Cabe suspensão condicional do processo nos crimes de violência doméstica de menor potencial ofensivo.",
+"A substituição da pena por cesta básica é admitida se o agressor for primário.",
+"É vedada a substituição da pena privativa de liberdade por restritiva de direitos em crime com violência ou grave ameaça contra a mulher no ambiente doméstico.",
+"O princípio da insignificância se aplica a lesões levíssimas.",
+"A renúncia à representação na ameaça pode ser feita na delegacia."
+],
+"r": 2,
+"n": [
+"A Lei 9.099 não se aplica (Súmula 536).",
+"É vedada (art. 17).",
+"Correta: Súmula 588.",
+"Inaplicável (Súmula 589).",
+"Só perante o juiz, em audiência (art. 16)."
+],
+"prof": "A lei fecha todas as \"portas\" de solução leve para a violência doméstica.",
+"x": "A Súmula 588 do STJ veda a substituição por restritiva de direitos em crimes com violência ou grave ameaça contra a mulher no ambiente doméstico. Também não se aplicam a Lei 9.099 nem a insignificância.",
+"e": "Súmula 588."
+},
+{
+"p": "Um homem rasgou os documentos pessoais e quebrou o celular da ex-companheira para impedi-la de procurar emprego. À luz do art. 7º da Lei 11.340/2006, trata-se de violência:",
+"alts": [
+"moral",
+"sexual",
+"patrimonial",
+"psicológica, exclusivamente",
+"física"
+],
+"r": 2,
+"n": [
+"Moral é calúnia, difamação ou injúria.",
+"Não há conteúdo sexual.",
+"Correta.",
+"Pode haver também psicológica, mas a destruição de bens e documentos é patrimonial.",
+"Não houve agressão física."
+],
+"prof": "Bens, documentos, instrumentos de trabalho = patrimonial.",
+"x": "A violência patrimonial inclui retenção, subtração ou destruição de objetos, instrumentos de trabalho e documentos pessoais da mulher.",
+"e": "Patrimonial."
+}
+]
+},
+"orcrim": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>pessoas, no mínimo, para organização criminosa</span></div><div class=\"lt-stat\"><b>> 4 anos</b><span>pena máxima das infrações visadas (ou caráter transnacional)</span></div><div class=\"lt-stat\"><b>3 a 8</b><span>anos de reclusão (art. 2º)</span></div><div class=\"lt-stat\"><b>6 meses</b><span>prazo da infiltração, renovável (virtual: até 720 dias no total)</span></div></div>\n<h3>1. Conceito (art. 1º, § 1º)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 1º, § 1º</div><div class=\"art-lei\">Considera-se organização criminosa a associação de 4 ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais cujas penas máximas sejam superiores a 4 anos, ou que sejam de caráter transnacional.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>4 ou mais</b> pessoas (na associação criminosa do CP, art. 288, são <b>3 ou mais</b>).</li><li><b>Estrutura ordenada</b> + <b>divisão de tarefas</b> (mesmo informal).</li><li>Infrações com pena máxima <b>superior a 4 anos</b> <b>ou</b> de caráter <b>transnacional</b>.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer \"3 pessoas\".</li><li>Dizer \"pena máxima igual ou superior a 4 anos\" (é SUPERIOR).</li><li>Exigir divisão formal de tarefas.</li></ul></div></div>\n<ul><li><b>Promover, constituir, financiar ou integrar</b> organização criminosa: <b>reclusão de 3 a 8 anos</b>, sem prejuízo das penas das infrações praticadas (art. 2º). <b>Embaraçar a investigação</b> tem a mesma pena (§ 1º).</li><li>Aumento até a <b>metade</b> se houver emprego de <b>arma de fogo</b>; agravante para quem exerce o <b>comando</b>. Aumento de 1/6 a 2/3 se houver criança ou adolescente, funcionário público que se vale do cargo, produto destinado ao exterior, conexão com outras organizações ou transnacionalidade.</li><li><b>Funcionário público</b> condenado: <b>perda do cargo</b> e <b>interdição</b> para função pública por <b>8 anos</b> após o cumprimento da pena. Lideranças armadas iniciam a pena em <b>estabelecimento de segurança máxima</b>.</li></ul>\n<h3>2. Meios de obtenção de prova (art. 3º)</h3>\n<ul><li><b>Colaboração premiada</b>; <b>captação ambiental</b>; <b>ação controlada</b>; acesso a registros e dados cadastrais; <b>interceptação</b>; quebra de sigilos financeiro, bancário e fiscal; <b>infiltração</b> de agentes; cooperação entre órgãos.</li><li>O <b>Delegado</b> pode <b>requisitar diretamente</b> dados cadastrais (qualificação, filiação e endereço) a Justiça Eleitoral, empresas telefônicas, bancos, provedores e administradoras de cartão (art. 15).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Colaboração premiada</h3>\n<ul><li><b>Negócio jurídico processual</b> e meio de obtenção de prova (art. 3º-A). Pode ser celebrada pelo <b>Delegado</b>, nos autos do inquérito, com manifestação do MP, ou pelo MP (STF, ADI 5.508). O juiz <b>não participa</b> das negociações; ele <b>homologa</b> (regularidade, legalidade e voluntariedade).</li><li><b>Benefícios</b>: perdão judicial, redução de até <b>2/3</b> da pena ou substituição por restritiva de direitos; se posterior à sentença, redução até a metade ou progressão sem os requisitos objetivos.</li><li><b>Resultados</b> exigidos (um ou mais): identificar coautores e crimes; revelar a estrutura; prevenir infrações; <b>recuperar o produto</b> do crime; <b>localizar a vítima</b> com integridade física preservada.</li><li>Garantias: <b>nenhuma sentença condenatória</b>, nem <b>medida cautelar</b>, nem <b>recebimento de denúncia</b> pode se basear <b>apenas</b> nas declarações do colaborador (art. 4º, § 16).</li></ul>\n<h3>4. Ação controlada e infiltração</h3>\n<table class=\"tab\"><thead><tr><th>Instituto</th><th>Regra na Lei 12.850</th></tr></thead><tbody><tr><td><b>Ação controlada</b></td><td>retardar a intervenção policial para o momento mais eficaz; exige só <b>comunicação prévia ao juiz</b>, que pode estabelecer limites (art. 8º)</td></tr><tr><td><b>Infiltração de agentes</b></td><td><b>autorização judicial</b> circunstanciada e sigilosa; a pedido do <b>Delegado</b> (com manifestação do MP) ou do MP; prazo de <b>até 6 meses</b>, renovável; só se a prova <b>não puder ser produzida por outros meios</b></td></tr><tr><td><b>Infiltração virtual</b> (art. 10-A)</td><td>até 6 meses, renovável, <b>até 720 dias</b> no total</td></tr><tr><td>Responsabilidade do infiltrado</td><td>não é punível o crime cometido na infiltração quando <b>inexigível conduta diversa</b>; responde pelos excessos</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 5.508</b><p class=\"jc-tese\">O Delegado de Polícia pode formalizar acordo de colaboração premiada na fase de inquérito, respeitadas as prerrogativas do MP, que deve se manifestar, cabendo ao juiz a homologação.</p><p class=\"jc-com\">A PCMG pode conduzir acordos de colaboração em investigações de facções, desde que o MP seja ouvido.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Organização criminosa exige 3 pessoas</span><br>✅ <span class=\"certo\">São 4 ou mais (associação criminosa do CP é que tem 3).</span></li><li>❌ <span class=\"banca\">Pena máxima igual a 4 anos basta</span><br>✅ <span class=\"certo\">Tem que ser SUPERIOR a 4 anos, ou transnacional.</span></li><li>❌ <span class=\"banca\">Ação controlada exige autorização judicial</span><br>✅ <span class=\"certo\">Na Lei 12.850, só comunicação prévia ao juiz.</span></li><li>❌ <span class=\"banca\">O juiz participa da negociação da colaboração</span><br>✅ <span class=\"certo\">O juiz não participa; só homologa.</span></li><li>❌ <span class=\"banca\">O juiz pode condenar só com a palavra do colaborador</span><br>✅ <span class=\"certo\">Vedado (art. 4º, § 16).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Organização criminosa?</span></span><span class=\"vs\"><span><b>4+</b> pessoas, estrutura, divisão de tarefas, infrações com pena máx. <b>> 4 anos</b> ou transnacionais.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena do art. 2º?</span></span><span class=\"vs\"><span><b>Reclusão de 3 a 8 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação controlada (Lei 12.850)?</span></span><span class=\"vs\"><span><b>Comunicação</b> prévia ao juiz.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infiltração?</span></span><span class=\"vs\"><span><b>Autorização judicial</b>; até <b>6 meses</b> renováveis.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem celebra colaboração?</span></span><span class=\"vs\"><span><b>MP</b> ou <b>Delegado</b> (com manifestação do MP).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Palavra do colaborador sozinha?</span></span><span class=\"vs\"><span><b>Não</b> basta para condenar, prender ou receber denúncia.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A facção do bairro</b><p>Uma investigação revela que 5 pessoas, com funções definidas (gerente, olheiros, \"vapores\"), vendem drogas e cometem roubos em um bairro de Contagem.</p><details><summary>Ver a solução comentada</summary><p>Há <b>organização criminosa</b> (4+ pessoas, estrutura e divisão de tarefas, crimes com pena máxima superior a 4 anos) em <b>concurso material</b> com os crimes praticados (tráfico, roubos). A associação para o tráfico (art. 35 da Lei de Drogas) também pode ser analisada, conforme o caso, evitando-se bis in idem.</p></details></div>",
+"quiz": [
+{
+"p": "Considera-se organização criminosa a associação de quatro ou mais pessoas, estruturalmente ordenada e com divisão de tarefas, ainda que informal, para obter vantagem mediante infrações penais com pena máxima superior a quatro anos ou de caráter transnacional.",
+"c": true,
+"prof": "Certo. É o art. 1º, § 1º.",
+"x": "A associação criminosa do art. 288 do CP exige três ou mais pessoas e não exige estrutura nem pena mínima das infrações visadas.",
+"e": "Quatro ou mais."
+},
+{
+"p": "Na Lei 12.850/2013, a ação controlada depende de prévia autorização judicial.",
+"c": false,
+"prof": "A lei exige menos.",
+"x": "O art. 8º, § 1º, exige apenas a comunicação prévia ao juiz competente, que pode estabelecer limites. Na Lei de Drogas é que se exige autorização judicial.",
+"e": "Comunicação, não autorização."
+},
+{
+"p": "Nenhuma sentença condenatória pode ser proferida com fundamento apenas nas declarações do colaborador.",
+"c": true,
+"prof": "Certo. Art. 4º, § 16.",
+"x": "A mesma vedação alcança a decretação de medidas cautelares e o recebimento da denúncia.",
+"e": "Corroboração obrigatória."
+},
+{
+"p": "O juiz deve participar das negociações do acordo de colaboração premiada para garantir sua voluntariedade.",
+"c": false,
+"prof": "O juiz fica de fora da negociação.",
+"x": "O juiz não participa das negociações. Ele analisa a regularidade, a legalidade e a voluntariedade na homologação.",
+"e": "Juiz só homologa."
+},
+{
+"p": "A infiltração de agentes de polícia em tarefas de investigação depende de autorização judicial circunstanciada, motivada e sigilosa.",
+"c": true,
+"prof": "Certo. Art. 10.",
+"x": "Pode ser representada pelo Delegado (com manifestação do MP) ou requerida pelo MP, e só é admitida se a prova não puder ser produzida por outros meios.",
+"e": "Infiltração: autorização judicial."
+},
+{
+"p": "Três pessoas se associam de forma estável, com divisão de tarefas, para praticar estelionatos (pena máxima de 5 anos). Segundo a legislação, configura-se:",
+"alts": [
+"organização criminosa (Lei 12.850/2013)",
+"associação criminosa (CP, art. 288), pois a organização criminosa exige quatro ou mais pessoas",
+"fato atípico",
+"associação para o tráfico",
+"milícia privada"
+],
+"r": 1,
+"n": [
+"Faltou o número mínimo de integrantes.",
+"Correta.",
+"Há crime de associação.",
+"Não é tráfico.",
+"Não há milícia."
+],
+"prof": "Conte as pessoas: 3 = associação; 4+ = organização.",
+"x": "A organização criminosa exige quatro ou mais pessoas. Com três, configura-se a associação criminosa do art. 288 do CP (3 ou mais pessoas, para o fim específico de cometer crimes).",
+"e": "3 = associação criminosa."
+},
+{
+"p": "Sobre a colaboração premiada na Lei 12.850/2013, assinale a afirmativa correta.",
+"alts": [
+"Só o Ministério Público pode celebrar o acordo, sendo vedada a participação do Delegado.",
+"O Delegado pode celebrar o acordo nos autos do inquérito, com manifestação do Ministério Público, cabendo ao juiz homologá-lo.",
+"O juiz deve participar das negociações.",
+"A palavra do colaborador basta para a decretação da prisão preventiva.",
+"O benefício máximo é a redução de 1/3 da pena."
+],
+"r": 1,
+"n": [
+"O STF admitiu o acordo pelo Delegado (ADI 5.508).",
+"Correta.",
+"O juiz não participa.",
+"Vedado pelo art. 4º, § 16.",
+"Pode chegar ao perdão judicial ou à redução de 2/3."
+],
+"prof": "Delegado negocia; MP opina; juiz homologa.",
+"x": "O STF (ADI 5.508) reconheceu a legitimidade do Delegado para celebrar acordo de colaboração na fase de inquérito, com manifestação do MP. Os benefícios vão de redução de até 2/3 ao perdão judicial.",
+"e": "Delegado pode."
+},
+{
+"p": "Em investigação de organização criminosa, policiais percebem que, se prenderem agora um \"mula\", perderão a chance de identificar o chefe da facção, que receberá a carga em dois dias. Para retardar a prisão, segundo a Lei 12.850/2013:",
+"alts": [
+"precisam de autorização judicial prévia e parecer do MP",
+"basta a comunicação prévia ao juiz competente, que poderá estabelecer limites, com posterior relatório",
+"não podem retardar, pois o flagrante é obrigatório em qualquer caso",
+"precisam de autorização do Chefe da PCMG",
+"podem retardar livremente, sem comunicar ninguém"
+],
+"r": 1,
+"n": [
+"Esse é o regime da Lei de Drogas.",
+"Correta: ação controlada (art. 8º).",
+"A lei autoriza o flagrante diferido.",
+"Não há essa exigência.",
+"A comunicação prévia é obrigatória."
+],
+"prof": "Ação controlada da Lei 12.850 = comunicar antes, relatar depois.",
+"x": "A ação controlada consiste em retardar a intervenção policial para que se concretize no momento mais eficaz. Na Lei 12.850, exige comunicação prévia ao juiz, que pode fixar limites e comunicará o MP; ao final, elabora-se auto circunstanciado.",
+"e": "Comunicação prévia."
+}
+]
+},
+"interceptacao": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>15</b><span>dias de interceptação, renováveis (sucessivamente, se indispensável)</span></div><div class=\"lt-stat\"><b>24 h</b><span>prazo do juiz para decidir o pedido</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão por interceptar sem autorização (art. 10)</span></div><div class=\"lt-stat\"><b>Detenção</b><span>crimes punidos só com detenção não admitem interceptação</span></div></div>\n<h3>1. Regras da Lei 9.296/1996</h3>\n<ul><li>A interceptação de comunicações <b>telefônicas</b> e de <b>fluxo de comunicações em sistemas de informática e telemática</b> depende de <b>ordem do juiz competente da ação principal</b>, sob <b>segredo de justiça</b> (art. 1º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Não cabe interceptação (art. 2º) quando:</th></tr></thead><tbody><tr><td><b>não houver indícios razoáveis</b> de autoria ou participação</td></tr><tr><td>a prova <b>puder ser feita por outros meios</b> disponíveis (subsidiariedade)</td></tr><tr><td>o fato for punido, <b>no máximo, com detenção</b></td></tr></tbody></table>\n<ul><li>Quem pede: a <b>autoridade policial</b> (na investigação) ou o <b>MP</b> (na investigação e na ação). A lei também fala em decretação <b>de ofício</b> pelo juiz, o que hoje é visto com reservas no sistema acusatório.</li><li>O pedido deve demonstrar a <b>necessidade</b> e indicar os <b>meios</b>; excepcionalmente pode ser <b>verbal</b>, reduzido a termo. O juiz decide em <b>24 horas</b>.</li><li>Prazo de <b>15 dias</b>, <b>renovável por igual período</b> quando comprovada a indispensabilidade. O STF admite <b>renovações sucessivas</b>, desde que fundamentadas (Tema 661).</li><li>A <b>autoridade policial conduz</b> a interceptação e dá ciência ao MP, que pode acompanhar. As gravações que não interessarem à prova são <b>inutilizadas</b> por decisão judicial (art. 9º).</li></ul>\n<h3>2. Captação ambiental (art. 8º-A, Pacote Anticrime)</h3>\n<ul><li>Captação de sinais eletromagnéticos, ópticos ou acústicos, a requerimento da <b>autoridade policial</b> ou do <b>MP</b>, com <b>autorização judicial</b>, quando a prova não puder ser feita por outros meios e houver indícios em crimes com <b>pena máxima superior a 4 anos</b> ou conexos. Prazo de <b>15 dias</b>, renovável.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Conceitos que caem</h3>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Precisa de ordem judicial?</th></tr></thead><tbody><tr><td><b>Interceptação</b>: terceiro capta conversa alheia sem que os interlocutores saibam</td><td><b>Sim</b> (Lei 9.296)</td></tr><tr><td><b>Escuta</b>: terceiro capta com o conhecimento de um dos interlocutores</td><td>Sim, em regra</td></tr><tr><td><b>Gravação clandestina</b>: um dos interlocutores grava a própria conversa</td><td><b>Não</b>: é lícita (STF, Tema 237), salvo causa legal de sigilo</td></tr><tr><td>Acesso a <b>dados</b> já armazenados no celular (mensagens, fotos)</td><td>Sim, mas não pela Lei 9.296: é quebra de sigilo de dados</td></tr><tr><td><b>Registros</b> de ligações (quem ligou, quando)</td><td>Sim, quebra de sigilo telefônico (não é interceptação)</td></tr></tbody></table>\n<ul><li><b>Encontro fortuito (serendipidade)</b>: provas de outros crimes ou de outras pessoas obtidas em interceptação <b>válida</b> podem ser usadas, mesmo que o crime descoberto seja punido com detenção (STF e STJ).</li><li><b>Crimes</b> (art. 10 e 10-A): realizar interceptação, escuta ambiental ou quebrar segredo de justiça sem autorização ou com objetivos não autorizados: <b>reclusão de 2 a 4 anos</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 237 (RE 583.937)</b><p class=\"jc-tese\">É lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro.</p><p class=\"jc-com\">A vítima de extorsão que grava a ligação do extorsionário produz prova válida.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 661 (RE 625.263)</b><p class=\"jc-tese\">São lícitas as sucessivas renovações de interceptação telefônica, desde que verificados os requisitos do art. 2º da Lei 9.296/1996 e demonstrada a necessidade da medida, com fundamentação de cada decisão.</p><p class=\"jc-com\">Renovação \"automática\", sem fundamentação concreta, torna a prova ilícita.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Cabe interceptação em qualquer crime</span><br>✅ <span class=\"certo\">Não cabe em crime punido, no máximo, com detenção.</span></li><li>❌ <span class=\"banca\">O prazo é de 30 dias</span><br>✅ <span class=\"certo\">15 dias, renovável por igual período.</span></li><li>❌ <span class=\"banca\">A gravação feita por um dos interlocutores é ilícita sem ordem judicial</span><br>✅ <span class=\"certo\">É lícita (Tema 237).</span></li><li>❌ <span class=\"banca\">A prova de crime de detenção descoberta fortuitamente é ilícita</span><br>✅ <span class=\"certo\">O encontro fortuito em interceptação válida é admitido.</span></li><li>❌ <span class=\"banca\">O MP conduz a interceptação</span><br>✅ <span class=\"certo\">Quem conduz é a autoridade policial, com ciência ao MP.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quando NÃO cabe interceptação?</span></span><span class=\"vs\"><span>Sem <b>indícios</b> de autoria; prova possível por <b>outros meios</b>; crime punido no máximo com <b>detenção</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo?</span></span><span class=\"vs\"><span><b>15 dias</b>, renovável (sucessivamente, se fundamentado).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juiz decide em?</span></span><span class=\"vs\"><span><b>24 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gravação por interlocutor?</span></span><span class=\"vs\"><span><b>Lícita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Serendipidade?</span></span><span class=\"vs\"><span>Válida se a interceptação for <b>lícita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Crime do art. 10?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 4 anos</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A descoberta inesperada</b><p>Em interceptação autorizada para investigar tráfico, a polícia ouve o investigado combinando com um vereador o pagamento de propina para liberar um alvará.</p><details><summary>Ver a solução comentada</summary><p>Trata-se de <b>encontro fortuito</b> de provas. Como a interceptação era <b>válida</b>, as informações podem ser usadas para investigar a corrupção. A polícia deve comunicar o juiz e instaurar procedimento próprio.</p></details></div>",
+"quiz": [
+{
+"p": "Não será admitida a interceptação de comunicações telefônicas quando o fato investigado constituir infração penal punida, no máximo, com pena de detenção.",
+"c": true,
+"prof": "Certo. É o art. 2º, III.",
+"x": "Também não cabe sem indícios razoáveis de autoria ou participação, ou quando a prova puder ser feita por outros meios.",
+"e": "Detenção: não cabe."
+},
+{
+"p": "A interceptação telefônica tem prazo de 30 dias, renovável uma única vez.",
+"c": false,
+"prof": "Prazo e regra de renovação errados.",
+"x": "O prazo é de 15 dias, renovável por igual período quando comprovada a indispensabilidade. O STF admite renovações sucessivas fundamentadas (Tema 661).",
+"e": "15 dias renováveis."
+},
+{
+"p": "É lícita a gravação de conversa telefônica feita por um dos interlocutores, sem o conhecimento do outro.",
+"c": true,
+"prof": "Certo. Tema 237 do STF.",
+"x": "A Lei 9.296 protege contra a interceptação por terceiros; a gravação clandestina por interlocutor não depende de ordem judicial, salvo hipóteses de sigilo legal.",
+"e": "Gravação por interlocutor: lícita."
+},
+{
+"p": "A interceptação telefônica é conduzida pelo Ministério Público, que dá ciência à autoridade policial.",
+"c": false,
+"prof": "Papéis invertidos.",
+"x": "Pelo art. 6º, a autoridade policial conduz os procedimentos de interceptação, dando ciência ao MP, que poderá acompanhar sua realização.",
+"e": "Polícia conduz."
+},
+{
+"p": "A Lei 9.296/1996 aplica-se também à interceptação do fluxo de comunicações em sistemas de informática e telemática.",
+"c": true,
+"prof": "Certo. Parágrafo único do art. 1º.",
+"x": "Alcança comunicações por aplicativos e e-mails em trânsito. O acesso a dados já armazenados é quebra de sigilo de dados, também com ordem judicial.",
+"e": "Telemática incluída."
+},
+{
+"p": "Em interceptação autorizada para apurar roubo de cargas, a polícia descobre que um dos investigados também pratica ameaça (crime punido com detenção). Sobre o uso dessa prova:",
+"alts": [
+"é ilícita, pois a ameaça é punida com detenção",
+"é ilícita, pois a interceptação só pode ser usada para o crime que a justificou",
+"é admissível, por se tratar de encontro fortuito em interceptação validamente autorizada",
+"só pode ser usada se o investigado confessar",
+"só pode ser usada se houver nova interceptação específica para a ameaça"
+],
+"r": 2,
+"n": [
+"A vedação do art. 2º, III, é para a DECRETAÇÃO da medida.",
+"A jurisprudência admite a serendipidade.",
+"Correta.",
+"Não depende de confissão.",
+"Não é preciso nova interceptação."
+],
+"prof": "A restrição da detenção vale para PEDIR a interceptação, não para aproveitar o que foi achado.",
+"x": "STF e STJ admitem o encontro fortuito de provas em interceptação válida, inclusive de crimes punidos com detenção, desde que conexos ou que a medida original seja legítima.",
+"e": "Serendipidade."
+},
+{
+"p": "Sobre a Lei 9.296/1996, assinale a afirmativa correta.",
+"alts": [
+"A interceptação pode ser determinada por qualquer juiz criminal, ainda que não seja o competente para a ação principal.",
+"O pedido de interceptação deve ser sempre escrito, vedada a forma verbal.",
+"O juiz decidirá o pedido em 24 horas, e a interceptação não poderá exceder 15 dias, renovável por igual tempo, comprovada a indispensabilidade.",
+"As gravações que não interessarem à prova devem ser mantidas indefinidamente nos autos.",
+"É lícita a interceptação para investigar contravenção penal."
+],
+"r": 2,
+"n": [
+"Deve ser o juiz competente da ação principal.",
+"Excepcionalmente pode ser verbal, reduzido a termo.",
+"Correta: arts. 4º e 5º.",
+"Devem ser inutilizadas (art. 9º).",
+"Contravenção não admite."
+],
+"prof": "24 h para decidir; 15 dias de duração.",
+"x": "O juiz decide em 24 horas (art. 4º, § 2º); a diligência dura até 15 dias, renovável por igual período (art. 5º). O pedido verbal é excepcional e deve ser reduzido a termo.",
+"e": "24 h e 15 dias."
+}
+]
+}
+},
+"direitos-humanos": {
+"teoria": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>questões de Direitos Humanos na prova de Investigador</span></div><div class=\"lt-stat\"><b>1948</b><span>ano da Declaração Universal (10 de dezembro)</span></div><div class=\"lt-stat\"><b>1993</b><span>Conferência de Viena: universalidade e indivisibilidade</span></div><div class=\"lt-stat\"><b>3</b><span>dimensões clássicas: liberdade, igualdade, fraternidade</span></div></div>\n<h3>1. Conceito</h3>\n<ul><li><b>Direitos humanos</b> são os direitos essenciais à <b>dignidade</b> de toda pessoa, reconhecidos no plano <b>internacional</b> (tratados, declarações). Quando positivados na <b>Constituição</b> de um país, costuma-se chamá-los de <b>direitos fundamentais</b>.</li><li>O fundamento comum é a <b>dignidade da pessoa humana</b>, que na CF/1988 é <b>fundamento da República</b> (art. 1º, III).</li></ul>\n<h3>2. Características (as mais cobradas)</h3>\n<table class=\"tab\"><thead><tr><th>Característica</th><th>Significado</th></tr></thead><tbody><tr><td><b>Universalidade</b></td><td>pertencem a todas as pessoas, pela simples condição humana</td></tr><tr><td><b>Indivisibilidade</b></td><td>formam um todo: não se protege a liberdade abandonando os direitos sociais</td></tr><tr><td><b>Interdependência</b> e inter-relação</td><td>a realização de um depende dos outros (Declaração de Viena, 1993)</td></tr><tr><td><b>Inalienabilidade</b></td><td>não podem ser vendidos ou transferidos</td></tr><tr><td><b>Irrenunciabilidade</b></td><td>o titular pode deixar de exercer, mas não renunciar</td></tr><tr><td><b>Imprescritibilidade</b></td><td>não se perdem pelo decurso do tempo</td></tr><tr><td><b>Historicidade</b></td><td>surgem e se ampliam ao longo da história (não nasceram todos de uma vez)</td></tr><tr><td><b>Vedação ao retrocesso</b></td><td>conquistas não podem ser suprimidas sem compensação</td></tr><tr><td><b>Relatividade</b></td><td>nenhum direito é absoluto: podem colidir e ser ponderados (há quem aponte exceções, como a proibição da tortura)</td></tr></tbody></table>\n<h3>3. Dimensões (gerações)</h3>\n<table class=\"tab\"><thead><tr><th>Dimensão</th><th>Valor</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>1ª</b></td><td><b>liberdade</b> (abstenção do Estado)</td><td>direitos <b>civis e políticos</b>: vida, liberdade, propriedade, voto</td></tr><tr><td><b>2ª</b></td><td><b>igualdade</b> (prestações do Estado)</td><td>direitos <b>sociais, econômicos e culturais</b>: saúde, educação, trabalho</td></tr><tr><td><b>3ª</b></td><td><b>fraternidade/solidariedade</b></td><td>direitos <b>difusos</b>: meio ambiente, paz, desenvolvimento, autodeterminação dos povos</td></tr><tr><td>4ª (Bonavides)</td><td>globalização política</td><td>democracia, informação, pluralismo</td></tr><tr><td>5ª (Bonavides)</td><td>paz</td><td>direito à paz como direito autônomo</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> A classificação em gerações é <b>didática</b> (Karel Vasak, 1979). Por isso a doutrina prefere \"<b>dimensões</b>\": uma não substitui a outra; elas se <b>somam</b>.</div>\n<div class=\"lt-pare\"></div>\n<h3>4. Processo histórico de construção e afirmação</h3>\n<div class=\"lt-fluxo\"><span>Magna Carta (1215)</span> <em>→</em> <span>Petição de Direitos (1628) e Habeas Corpus Act (1679)</span> <em>→</em> <span>Bill of Rights (1689)</span> <em>→</em> <span>Declaração de Virgínia (1776)</span> <em>→</em> <span>Declaração dos Direitos do Homem e do Cidadão (1789)</span> <em>→</em> <span>Constituições do México (1917) e de Weimar (1919)</span> <em>→</em> <span>Carta da ONU (1945)</span> <em>→</em> <span>DUDH (1948)</span></div>\n<ul><li>Antecedentes da <b>internacionalização</b>: o <b>direito humanitário</b> (Cruz Vermelha, Convenção de Genebra de 1864), a <b>Liga das Nações</b> (1919) e a <b>OIT</b> (1919) mostraram que o Estado podia ser limitado por normas internacionais.</li><li>Marco decisivo: as atrocidades da <b>Segunda Guerra</b> e do <b>Holocausto</b> levaram à <b>Carta da ONU (1945)</b> e à <b>Declaração Universal (1948)</b>, inaugurando o <b>direito internacional dos direitos humanos</b>.</li><li>Os <b>Pactos de 1966</b> (Direitos Civis e Políticos; Direitos Econômicos, Sociais e Culturais) deram forma de tratado à DUDH (o Brasil aderiu em <b>1992</b>). A <b>Conferência de Viena (1993)</b> reafirmou que os direitos humanos são <b>universais, indivisíveis, interdependentes e inter-relacionados</b> e recomendou que os países criassem <b>programas nacionais</b> (origem do PNDH brasileiro).</li><li><b>Eficácia horizontal</b>: os direitos fundamentais também valem nas <b>relações entre particulares</b> (STF, RE 201.819).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Direitos humanos e direitos fundamentais são sempre sinônimos</span><br>✅ <span class=\"certo\">Em regra, humanos = plano internacional; fundamentais = positivados na Constituição.</span></li><li>❌ <span class=\"banca\">Direitos de 2ª dimensão exigem abstenção do Estado</span><br>✅ <span class=\"certo\">Exigem PRESTAÇÕES; a abstenção é marca da 1ª dimensão.</span></li><li>❌ <span class=\"banca\">As gerações se substituem</span><br>✅ <span class=\"certo\">Elas se somam (por isso \"dimensões\").</span></li><li>❌ <span class=\"banca\">A DUDH foi o primeiro documento de direitos da história</span><br>✅ <span class=\"certo\">Há antecedentes desde a Magna Carta (1215).</span></li><li>❌ <span class=\"banca\">Direitos humanos são absolutos</span><br>✅ <span class=\"certo\">São relativos e podem ser ponderados.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1ª, 2ª e 3ª dimensões?</span></span><span class=\"vs\"><span><b>Liberdade</b> (civis e políticos), <b>igualdade</b> (sociais), <b>fraternidade</b> (difusos).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Viena 1993?</span></span><span class=\"vs\"><span>Universalidade, <b>indivisibilidade</b>, interdependência; recomendou programas nacionais.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>DUDH?</span></span><span class=\"vs\"><span><b>10/12/1948</b>, Assembleia Geral da ONU.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pactos de 1966?</span></span><span class=\"vs\"><span><b>PIDCP</b> e <b>PIDESC</b> (Brasil, 1992).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eficácia horizontal?</span></span><span class=\"vs\"><span>Direitos fundamentais valem <b>entre particulares</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "A indivisibilidade dos direitos humanos significa que os direitos civis e políticos e os direitos econômicos, sociais e culturais formam um conjunto integrado, sem hierarquia entre eles.",
+"c": true,
+"prof": "Certo.",
+"x": "A Declaração de Viena (1993) afirmou que os direitos humanos são universais, indivisíveis, interdependentes e inter-relacionados.",
+"e": "Indivisibilidade."
+},
+{
+"p": "Os direitos de segunda dimensão caracterizam-se pela exigência de abstenção do Estado, como a liberdade de expressão e o direito de propriedade.",
+"c": false,
+"prof": "Exemplos e característica são da primeira dimensão.",
+"x": "A segunda dimensão (igualdade) exige prestações estatais: saúde, educação, trabalho, previdência. A primeira (liberdade) exige abstenção.",
+"e": "2ª dimensão = prestação."
+},
+{
+"p": "A Conferência Mundial de Direitos Humanos de Viena, de 1993, recomendou aos Estados a elaboração de programas nacionais de direitos humanos.",
+"c": true,
+"prof": "Certo.",
+"x": "O Brasil atendeu com o PNDH-1 (1996), depois o PNDH-2 (2002) e o PNDH-3 (2009).",
+"e": "Viena → PNDH."
+},
+{
+"p": "A Declaração Universal dos Direitos Humanos foi aprovada em 1966, juntamente com os Pactos Internacionais.",
+"c": false,
+"prof": "Datas trocadas.",
+"x": "A DUDH é de 10 de dezembro de 1948. Os Pactos (civis e políticos; econômicos, sociais e culturais) são de 1966.",
+"e": "DUDH 1948; Pactos 1966."
+},
+{
+"p": "Assinale a alternativa que relaciona corretamente a dimensão de direitos e o seu exemplo.",
+"alts": [
+"1ª dimensão – direito ao meio ambiente equilibrado",
+"2ª dimensão – direito de voto",
+"3ª dimensão – direito à paz e ao desenvolvimento",
+"1ª dimensão – direito à saúde",
+"2ª dimensão – liberdade de locomoção"
+],
+"r": 2,
+"n": [
+"Meio ambiente é 3ª dimensão.",
+"Voto é 1ª dimensão (político).",
+"Correta.",
+"Saúde é 2ª dimensão.",
+"Locomoção é 1ª dimensão."
+],
+"prof": "Liberdade, igualdade, fraternidade: siga o lema da Revolução Francesa.",
+"x": "Os direitos de 3ª dimensão (solidariedade) são difusos: paz, desenvolvimento, meio ambiente, autodeterminação dos povos.",
+"e": "Paz = 3ª."
+},
+{
+"p": "Sobre o processo histórico de afirmação dos direitos humanos, assinale a afirmativa correta.",
+"alts": [
+"A Magna Carta de 1215 é o marco inicial da internacionalização dos direitos humanos.",
+"A Segunda Guerra Mundial e o Holocausto impulsionaram a criação da ONU e a aprovação da Declaração Universal de 1948.",
+"A Constituição de Weimar consagrou apenas direitos de primeira dimensão.",
+"A Declaração de Viena de 1993 negou a universalidade dos direitos humanos.",
+"Os direitos sociais surgiram antes dos direitos civis."
+],
+"r": 1,
+"n": [
+"É marco da limitação do poder no plano interno inglês.",
+"Correta.",
+"Weimar (1919) é marco dos direitos sociais.",
+"Reafirmou a universalidade.",
+"Historicamente, os civis vieram antes."
+],
+"prof": "Internacionalização = pós-1945.",
+"x": "As violações da Segunda Guerra levaram à Carta da ONU (1945) e à DUDH (1948), marco do direito internacional dos direitos humanos.",
+"e": "Pós-guerra."
+}
+]
+},
+"sistema-global": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>193</b><span>Estados-membros da ONU</span></div><div class=\"lt-stat\"><b>1945</b><span>Carta da ONU (São Francisco)</span></div><div class=\"lt-stat\"><b>2006</b><span>criação do Conselho de Direitos Humanos</span></div><div class=\"lt-stat\"><b>1998</b><span>Estatuto de Roma (TPI)</span></div></div>\n<h3>1. Estrutura normativa</h3>\n<ul><li><b>Carta da ONU</b> (1945): tratado que criou a organização e tem entre seus propósitos promover o respeito aos direitos humanos.</li><li><b>Declaração Universal (1948)</b>: aprovada por <b>resolução</b> da Assembleia Geral, não é tratado; mas seus princípios são vistos como <b>costume internacional</b> e <b>jus cogens</b> em parte.</li><li><b>Carta Internacional de Direitos Humanos</b> (International Bill of Rights) = <b>DUDH + PIDCP + PIDESC</b> (e protocolos).</li></ul>\n<table class=\"tab\"><thead><tr><th>Tratado</th><th>Ano</th><th>Órgão de monitoramento</th></tr></thead><tbody><tr><td>Pacto de Direitos Civis e Políticos (PIDCP)</td><td>1966</td><td><b>Comitê de Direitos Humanos</b></td></tr><tr><td>Pacto de Direitos Econômicos, Sociais e Culturais (PIDESC)</td><td>1966</td><td>Comitê DESC</td></tr><tr><td>Eliminação da Discriminação Racial</td><td>1965</td><td>CERD</td></tr><tr><td>Eliminação da Discriminação contra a Mulher (<b>CEDAW</b>)</td><td>1979</td><td>Comitê CEDAW</td></tr><tr><td><b>Contra a Tortura</b></td><td>1984</td><td>Comitê contra a Tortura (e Subcomitê de Prevenção)</td></tr><tr><td><b>Direitos da Criança</b></td><td>1989</td><td>Comitê dos Direitos da Criança</td></tr><tr><td><b>Direitos das Pessoas com Deficiência</b></td><td>2006</td><td>Comitê CDPD (no Brasil, com <b>status de emenda constitucional</b>)</td></tr></tbody></table>\n<h3>2. Mecanismos de monitoramento</h3>\n<ul><li><b>Relatórios periódicos</b> enviados pelos Estados aos comitês (mecanismo obrigatório).</li><li><b>Petições individuais</b> (em geral, por protocolo facultativo ou cláusula de aceitação), <b>comunicações interestatais</b> e <b>investigações</b> in loco.</li><li><b>Conselho de Direitos Humanos</b> (2006, substituiu a antiga Comissão): <b>Revisão Periódica Universal</b> (todos os Estados são avaliados pelos pares) e <b>procedimentos especiais</b> (relatores especiais).</li><li><b>Alto Comissariado</b> das Nações Unidas para os Direitos Humanos coordena a área.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Tribunal Penal Internacional (TPI)</h3>\n<ul><li>Criado pelo <b>Estatuto de Roma (1998)</b>, sede em <b>Haia</b>; julga <b>pessoas</b> (não Estados) por <b>genocídio</b>, <b>crimes contra a humanidade</b>, <b>crimes de guerra</b> e <b>crime de agressão</b>.</li><li>Atua de forma <b>complementar</b> às jurisdições nacionais: só quando o Estado não quer ou não consegue julgar. O Brasil se submete à sua jurisdição (CF, art. 5º, § 4º).</li><li>O TPI não admite reservas ao Estatuto e prevê a <b>prisão perpétua</b> em casos extremos; para o STF, a <b>entrega</b> (surrender) de pessoa ao TPI é diferente da extradição.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A DUDH é um tratado internacional</span><br>✅ <span class=\"certo\">É uma declaração aprovada por resolução; não é tratado, mas tem força de costume.</span></li><li>❌ <span class=\"banca\">O TPI julga Estados</span><br>✅ <span class=\"certo\">Julga PESSOAS (responsabilidade penal individual).</span></li><li>❌ <span class=\"banca\">O TPI substitui a Justiça brasileira</span><br>✅ <span class=\"certo\">Atua de forma COMPLEMENTAR.</span></li><li>❌ <span class=\"banca\">O Conselho de DH existe desde 1946</span><br>✅ <span class=\"certo\">A antiga Comissão era de 1946; o Conselho é de 2006.</span></li><li>❌ <span class=\"banca\">A Corte Internacional de Justiça é o tribunal de direitos humanos da ONU</span><br>✅ <span class=\"certo\">A CIJ resolve litígios entre Estados; não há \"corte de DH\" da ONU.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carta Internacional de DH?</span></span><span class=\"vs\"><span><b>DUDH + PIDCP + PIDESC</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Conselho de DH?</span></span><span class=\"vs\"><span><b>2006</b>; Revisão Periódica Universal.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mecanismo obrigatório dos tratados?</span></span><span class=\"vs\"><span><b>Relatórios periódicos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>TPI julga?</span></span><span class=\"vs\"><span><b>Pessoas</b>: genocídio, contra a humanidade, guerra, agressão.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípio do TPI?</span></span><span class=\"vs\"><span><b>Complementaridade</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "A Declaração Universal dos Direitos Humanos foi adotada por resolução da Assembleia Geral da ONU e não tem, formalmente, natureza de tratado.",
+"c": true,
+"prof": "Certo.",
+"x": "Ainda assim, seus princípios são reconhecidos como costume internacional, com força jurídica.",
+"e": "DUDH: resolução."
+},
+{
+"p": "O Tribunal Penal Internacional tem competência para julgar Estados por violações de direitos humanos.",
+"c": false,
+"prof": "O TPI julga indivíduos.",
+"x": "O TPI julga pessoas por genocídio, crimes contra a humanidade, crimes de guerra e agressão. Estados são responsabilizados em cortes como a Corte Interamericana.",
+"e": "TPI julga pessoas."
+},
+{
+"p": "A jurisdição do Tribunal Penal Internacional é complementar às jurisdições penais nacionais.",
+"c": true,
+"prof": "Certo.",
+"x": "O TPI atua quando o Estado não tem vontade ou capacidade de processar os responsáveis.",
+"e": "Complementaridade."
+},
+{
+"p": "O envio de relatórios periódicos pelos Estados é mecanismo facultativo, dependente de protocolo adicional.",
+"c": false,
+"prof": "É o mecanismo básico.",
+"x": "Os relatórios periódicos são obrigatórios para os Estados-partes. As petições individuais é que costumam depender de protocolo facultativo ou declaração de aceitação.",
+"e": "Relatórios: obrigatórios."
+},
+{
+"p": "Sobre o sistema global de proteção dos direitos humanos, assinale a afirmativa correta.",
+"alts": [
+"A Carta Internacional de Direitos Humanos é formada pela Carta da ONU e pela Convenção Americana.",
+"A Revisão Periódica Universal é mecanismo do Conselho de Direitos Humanos em que todos os Estados-membros da ONU são avaliados.",
+"O Comitê contra a Tortura julga indivíduos acusados de tortura.",
+"A Convenção sobre os Direitos das Pessoas com Deficiência tem status de lei ordinária no Brasil.",
+"O Conselho de Direitos Humanos foi criado pela Carta da ONU em 1945."
+],
+"r": 1,
+"n": [
+"É DUDH + Pactos de 1966.",
+"Correta.",
+"Comitês não julgam indivíduos.",
+"Tem status de emenda constitucional (art. 5º, § 3º).",
+"Foi criado em 2006."
+],
+"prof": "Revisão Periódica Universal = \"todos avaliam todos\".",
+"x": "A Revisão Periódica Universal, criada com o Conselho de Direitos Humanos (2006), avalia a situação de direitos humanos de todos os Estados-membros.",
+"e": "RPU."
+},
+{
+"p": "Um comandante militar estrangeiro acusado de ordenar ataques sistemáticos contra a população civil não é processado em seu país. O órgão internacional competente para julgá-lo, se presentes os requisitos, é:",
+"alts": [
+"a Corte Interamericana de Direitos Humanos",
+"a Corte Internacional de Justiça",
+"o Tribunal Penal Internacional",
+"o Conselho de Segurança da ONU, como tribunal",
+"o Comitê de Direitos Humanos"
+],
+"r": 2,
+"n": [
+"A Corte IDH julga Estados.",
+"A CIJ julga litígios entre Estados.",
+"Correta.",
+"O Conselho de Segurança não é tribunal (pode, porém, remeter casos ao TPI).",
+"Comitês não julgam pessoas."
+],
+"prof": "Pessoa + crime internacional grave + inércia nacional = TPI.",
+"x": "Ataques sistemáticos contra civis podem configurar crimes contra a humanidade, de competência do TPI, que atua de forma complementar quando o Estado não julga.",
+"e": "TPI."
+}
+]
+},
+"sistema-interamericano": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1969</b><span>Convenção Americana (Pacto de San José)</span></div><div class=\"lt-stat\"><b>1992</b><span>adesão do Brasil (Decreto 678)</span></div><div class=\"lt-stat\"><b>1998</b><span>Brasil reconhece a jurisdição contenciosa da Corte</span></div><div class=\"lt-stat\"><b>7</b><span>membros da Comissão e juízes da Corte</span></div></div>\n<h3>1. Base normativa</h3>\n<ul><li><b>Carta da OEA</b> e <b>Declaração Americana dos Direitos e Deveres do Homem</b> (<b>abril de 1948</b>, meses <b>antes</b> da DUDH).</li><li><b>Convenção Americana sobre Direitos Humanos</b> (<b>Pacto de San José da Costa Rica</b>, 1969; vigência em 1978; Brasil em <b>1992</b>): essencialmente direitos civis e políticos. <b>Protocolo de San Salvador</b> (1988): direitos econômicos, sociais e culturais. Outros: Convenção contra a Tortura (1985), <b>Convenção de Belém do Pará</b> (violência contra a mulher, 1994).</li></ul>\n<h3>2. Comissão e Corte</h3>\n<table class=\"tab\"><thead><tr><th>; Comissão Interamericana (CIDH)</th><th>Corte Interamericana (Corte IDH)</th></tr></thead><tbody><tr><td>Sede</td><td><b>Washington</b></td><td><b>San José</b> (Costa Rica)</td></tr><tr><td>Composição</td><td>7 membros</td><td>7 juízes</td></tr><tr><td>Natureza</td><td>órgão da <b>OEA</b> e da Convenção; <b>não é tribunal</b></td><td><b>tribunal</b> (órgão jurisdicional)</td></tr><tr><td>Quem aciona</td><td><b>qualquer pessoa, grupo ou ONG</b> reconhecida pode peticionar</td><td><b>só os Estados-partes e a Comissão</b> podem submeter casos</td></tr><tr><td>Funções</td><td>recebe petições, faz recomendações, visitas, <b>medidas cautelares</b></td><td>função <b>contenciosa</b> (sentenças obrigatórias) e <b>consultiva</b> (pareceres); <b>medidas provisórias</b></td></tr></tbody></table>\n<ul><li><b>Requisitos de admissibilidade</b> da petição à Comissão: <b>esgotamento dos recursos internos</b>; apresentação em até <b>6 meses</b> da decisão definitiva; <b>ausência de litispendência</b> internacional. O esgotamento é dispensado se não houver devido processo, se a vítima for impedida de acessar os recursos ou se houver <b>demora injustificada</b>.</li><li>O Brasil reconheceu a competência contenciosa da Corte em <b>1998</b>, para fatos <b>posteriores a 10/12/1998</b>. As sentenças são <b>definitivas e inapeláveis</b>, e a parte indenizatória pode ser executada internamente.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Casos contra o Brasil que a polícia precisa conhecer</h3>\n<table class=\"tab\"><thead><tr><th>Caso</th><th>Tema</th></tr></thead><tbody><tr><td><b>Ximenes Lopes</b> (2006)</td><td>primeira condenação do Brasil: morte de pessoa com deficiência mental em clínica</td></tr><tr><td><b>Escher</b> (2009)</td><td><b>interceptações telefônicas ilegais</b> e divulgação de gravações (Paraná)</td></tr><tr><td><b>Gomes Lund</b> (2010)</td><td>Guerrilha do Araguaia: a <b>Lei de Anistia</b> não pode impedir a investigação de graves violações</td></tr><tr><td><b>Fazenda Brasil Verde</b> (2016)</td><td><b>trabalho escravo</b> e discriminação estrutural</td></tr><tr><td><b>Favela Nova Brasília</b> (2017)</td><td>mortes em <b>operações policiais</b> no Rio: investigação por <b>órgão independente</b> da polícia envolvida e fim dos \"autos de resistência\"</td></tr><tr><td><b>Herzog</b> (2018)</td><td>tortura e morte do jornalista na ditadura: crimes contra a humanidade imprescritíveis</td></tr><tr><td><b>Honorato e outros</b> (2023)</td><td>mortes na \"Operação Castelinho\" (SP): uso letal da força pela polícia</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · RE 466.343 e Súmula Vinculante 25</b><p class=\"jc-tese\">Os tratados de direitos humanos aprovados sem o rito do art. 5º, § 3º, têm status supralegal; por isso é ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.</p><p class=\"jc-com\">O Pacto de San José só admite prisão civil por dívida alimentar. Daí nasce o <b>controle de convencionalidade</b>: as leis internas devem ser compatíveis com os tratados de DH.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · Corte IDH · Favela Nova Brasília vs. Brasil (2017)</b><p class=\"jc-tese\">O Estado deve garantir que mortes e violações em intervenções policiais sejam investigadas por órgão independente e diferente da força envolvida, com participação das vítimas.</p><p class=\"jc-com\">Afeta diretamente a rotina das polícias civis: o registro de morte decorrente de intervenção policial deve gerar <b>investigação imparcial</b>, não presunção automática de legítima defesa.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Qualquer pessoa pode acionar diretamente a Corte IDH</span><br>✅ <span class=\"certo\">O indivíduo peticiona à COMISSÃO; só Estados e Comissão submetem casos à Corte.</span></li><li>❌ <span class=\"banca\">A Comissão fica em San José</span><br>✅ <span class=\"certo\">Comissão em Washington; Corte em San José.</span></li><li>❌ <span class=\"banca\">A Declaração Americana é posterior à DUDH</span><br>✅ <span class=\"certo\">É de abril de 1948, ANTES da DUDH (dezembro).</span></li><li>❌ <span class=\"banca\">O Brasil aceitou a Corte para qualquer fato</span><br>✅ <span class=\"certo\">Para fatos posteriores a 10/12/1998.</span></li><li>❌ <span class=\"banca\">O Pacto de San José admite prisão do depositário infiel</span><br>✅ <span class=\"certo\">Só a do devedor de alimentos (SV 25).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sede da Comissão e da Corte?</span></span><span class=\"vs\"><span>Comissão: <b>Washington</b>. Corte: <b>San José</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem leva caso à Corte?</span></span><span class=\"vs\"><span><b>Estados-partes</b> e a <b>Comissão</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Requisitos da petição?</span></span><span class=\"vs\"><span>Esgotar recursos internos; <b>6 meses</b>; sem litispendência.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Brasil e a Corte?</span></span><span class=\"vs\"><span>Competência contenciosa desde <b>1998</b> (fatos após 10/12/1998).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Caso sobre operações policiais?</span></span><span class=\"vs\"><span><b>Favela Nova Brasília</b> (2017).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Status do Pacto de San José?</span></span><span class=\"vs\"><span><b>Supralegal</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "No sistema interamericano, o indivíduo não tem legitimidade para submeter diretamente um caso à Corte Interamericana, devendo peticionar à Comissão Interamericana.",
+"c": true,
+"prof": "Certo.",
+"x": "Só os Estados-partes e a Comissão podem submeter casos à Corte. Qualquer pessoa, grupo ou ONG reconhecida pode peticionar à Comissão.",
+"e": "Indivíduo → Comissão."
+},
+{
+"p": "A Comissão Interamericana de Direitos Humanos tem sede em San José, na Costa Rica, e é órgão jurisdicional.",
+"c": false,
+"prof": "Dois erros.",
+"x": "A Comissão tem sede em Washington e não é tribunal. A Corte é que fica em San José e exerce jurisdição.",
+"e": "Comissão: Washington."
+},
+{
+"p": "Um dos requisitos de admissibilidade das petições à Comissão Interamericana é o esgotamento dos recursos da jurisdição interna, salvo exceções como a demora injustificada.",
+"c": true,
+"prof": "Certo.",
+"x": "Também se exige a apresentação em até 6 meses da decisão definitiva e a ausência de litispendência internacional.",
+"e": "Esgotamento, com exceções."
+},
+{
+"p": "Os tratados de direitos humanos ratificados pelo Brasil sem o rito especial do art. 5º, § 3º, têm status de lei ordinária, segundo o STF.",
+"c": false,
+"prof": "O STF deu status mais elevado.",
+"x": "Pelo RE 466.343, esses tratados têm status supralegal: acima das leis, abaixo da Constituição. Por isso a prisão do depositário infiel é ilícita (SV 25).",
+"e": "Supralegal."
+},
+{
+"p": "No caso Favela Nova Brasília, a Corte Interamericana determinou que mortes em intervenções policiais sejam investigadas por órgão independente e diferente da força pública envolvida.",
+"c": true,
+"prof": "Certo.",
+"x": "A decisão trata da violência policial em operações no Rio de Janeiro e da investigação imparcial.",
+"e": "Nova Brasília: investigação independente."
+},
+{
+"p": "Um preso relata ter sido torturado em delegacia. Após anos sem resposta das instâncias brasileiras, seus familiares desejam levar o caso ao sistema interamericano. O caminho correto é:",
+"alts": [
+"ajuizar ação diretamente na Corte Interamericana",
+"apresentar petição à Comissão Interamericana, que, admitida e não solucionada, poderá submeter o caso à Corte",
+"apresentar petição ao Tribunal Penal Internacional",
+"requerer ao STF a remessa do caso à OEA",
+"apresentar petição ao Conselho de Segurança da ONU"
+],
+"r": 1,
+"n": [
+"O indivíduo não acessa a Corte diretamente.",
+"Correta.",
+"O TPI não julga Estados nem casos isolados desse tipo.",
+"Não há esse procedimento.",
+"Não é a via adequada."
+],
+"prof": "Pessoa → Comissão → (Estado ou Comissão) → Corte.",
+"x": "A petição vai à Comissão. A demora injustificada dispensa o esgotamento dos recursos internos. Se o Estado não cumprir as recomendações, a Comissão pode levar o caso à Corte.",
+"e": "Comissão primeiro."
+},
+{
+"p": "Sobre a Convenção Americana sobre Direitos Humanos e sua aplicação no Brasil, assinale a afirmativa correta.",
+"alts": [
+"Foi incorporada ao ordenamento brasileiro com status de emenda constitucional.",
+"Admite a prisão civil do depositário infiel.",
+"Tem status supralegal, o que fundamenta o controle de convencionalidade das leis internas.",
+"Prevê que a Corte Interamericana tem sede em Washington.",
+"Foi assinada em 1948, junto com a DUDH."
+],
+"r": 2,
+"n": [
+"Não passou pelo rito do art. 5º, § 3º.",
+"Só admite a prisão por alimentos.",
+"Correta.",
+"A Corte fica em San José.",
+"É de 1969."
+],
+"prof": "Supralegal = acima das leis, abaixo da CF.",
+"x": "Para o STF, a CADH tem status supralegal. Leis incompatíveis com ela têm sua eficácia paralisada (controle de convencionalidade).",
+"e": "Supralegal."
+}
+]
+},
+"cf-dh": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>§ 3º</b><span>tratado de DH com rito de emenda: 2 turnos, 3/5, em cada Casa</span></div><div class=\"lt-stat\"><b>§ 5º</b><span>art. 109: incidente de deslocamento de competência (IDC)</span></div><div class=\"lt-stat\"><b>4</b><span>tratados aprovados com status de emenda (CDPD, Protocolo, Marraqueche, Convenção contra o Racismo)</span></div><div class=\"lt-stat\"><b>1º, III</b><span>dignidade da pessoa humana como fundamento</span></div></div>\n<h3>1. A Constituição de 1988 e os direitos humanos</h3>\n<ul><li><b>Dignidade da pessoa humana</b> é fundamento da República (art. 1º, III); a <b>prevalência dos direitos humanos</b> rege as relações internacionais (art. 4º, II).</li><li><b>Art. 5º, § 1º</b>: as normas definidoras de direitos fundamentais têm <b>aplicação imediata</b>.</li><li><b>Art. 5º, § 2º</b>: os direitos da Constituição <b>não excluem</b> outros decorrentes do regime, dos princípios e dos <b>tratados</b> (cláusula de abertura).</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 5º, § 3º</div><div class=\"art-lei\">Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Rito: <b>cada Casa</b>, <b>2 turnos</b>, <b>3/5</b> (igual ao das emendas).</li><li>Aprovados por esse rito: <b>Convenção sobre os Direitos das Pessoas com Deficiência</b> e seu Protocolo; <b>Tratado de Marraqueche</b> (acesso a obras para pessoas cegas); <b>Convenção Interamericana contra o Racismo</b>.</li><li>Os demais tratados de DH: <b>supralegais</b> (STF).</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer \"maioria absoluta\".</li><li>Dizer que todo tratado de DH tem status constitucional automaticamente.</li></ul></div></div>\n<ul><li><b>Art. 5º, § 4º</b>: o Brasil se submete à jurisdição do <b>TPI</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Hierarquia dos tratados no Brasil (STF)</th><th>Status</th></tr></thead><tbody><tr><td>Tratado de DH aprovado pelo rito do § 3º</td><td><b>emenda constitucional</b></td></tr><tr><td>Tratado de DH sem o rito</td><td><b>supralegal</b></td></tr><tr><td>Tratado comum (não DH)</td><td><b>lei ordinária</b></td></tr></tbody></table>\n<div class=\"lt-pare\"></div>\n<h3>2. Federalização das graves violações (art. 109, § 5º)</h3>\n<ul><li>Nas <b>hipóteses de grave violação</b> de direitos humanos, o <b>Procurador-Geral da República</b> pode suscitar, perante o <b>STJ</b>, o <b>incidente de deslocamento de competência (IDC)</b> para a Justiça Federal, a fim de assegurar o cumprimento de obrigações internacionais.</li><li>Requisitos (STJ): <b>grave violação</b>, <b>risco de responsabilização internacional</b> do Brasil e <b>incapacidade</b> ou omissão das autoridades estaduais. Exemplo: caso Manoel Mattos (IDC 2).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · IDC 2 (caso Manoel Mattos)</b><p class=\"jc-tese\">Admite-se o deslocamento de competência quando demonstradas a grave violação de direitos humanos, o risco de descumprimento de obrigações internacionais e a incapacidade das instâncias locais de dar resposta adequada.</p><p class=\"jc-com\">O IDC é <b>excepcional</b>: a regra é a Justiça Estadual investigar e julgar, com a polícia civil atuando normalmente.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo tratado de direitos humanos tem status de emenda</span><br>✅ <span class=\"certo\">Só os aprovados pelo rito do § 3º; os demais são supralegais.</span></li><li>❌ <span class=\"banca\">O rito do § 3º exige maioria absoluta</span><br>✅ <span class=\"certo\">Exige 3/5, em 2 turnos, em cada Casa.</span></li><li>❌ <span class=\"banca\">O IDC é suscitado pelo Ministro da Justiça ao STF</span><br>✅ <span class=\"certo\">É suscitado pelo PGR ao STJ.</span></li><li>❌ <span class=\"banca\">O IDC desloca para a Justiça Militar</span><br>✅ <span class=\"certo\">Desloca para a Justiça FEDERAL.</span></li><li>❌ <span class=\"banca\">As normas de direitos fundamentais dependem de lei para valer</span><br>✅ <span class=\"certo\">Têm aplicação imediata (§ 1º).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rito do § 3º?</span></span><span class=\"vs\"><span><b>Cada Casa</b>, <b>2 turnos</b>, <b>3/5</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tratado de DH sem o rito?</span></span><span class=\"vs\"><span><b>Supralegal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>IDC?</span></span><span class=\"vs\"><span><b>PGR</b> suscita ao <b>STJ</b>; vai para a <b>Justiça Federal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cláusula de abertura?</span></span><span class=\"vs\"><span><b>Art. 5º, § 2º</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tratados com status de emenda?</span></span><span class=\"vs\"><span><b>CDPD</b> (e Protocolo), <b>Marraqueche</b>, <b>Convenção contra o Racismo</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Os tratados e convenções internacionais sobre direitos humanos aprovados, em cada Casa do Congresso, em dois turnos, por três quintos dos votos dos respectivos membros, são equivalentes às emendas constitucionais.",
+"c": true,
+"prof": "Certo. Art. 5º, § 3º.",
+"x": "A Convenção sobre os Direitos das Pessoas com Deficiência foi o primeiro tratado aprovado por esse rito.",
+"e": "§ 3º: emenda."
+},
+{
+"p": "O incidente de deslocamento de competência é suscitado pelo Ministro da Justiça perante o STF.",
+"c": false,
+"prof": "Legitimado e tribunal errados.",
+"x": "O IDC é suscitado pelo Procurador-Geral da República perante o STJ, deslocando o caso para a Justiça Federal (art. 109, § 5º).",
+"e": "PGR → STJ."
+},
+{
+"p": "As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.",
+"c": true,
+"prof": "Certo. Art. 5º, § 1º.",
+"x": "Isso não impede que algumas normas dependam de regulamentação para produzir todos os efeitos, mas o ponto de partida é a aplicabilidade imediata.",
+"e": "Aplicação imediata."
+},
+{
+"p": "Segundo o STF, um tratado internacional de direitos humanos ratificado pelo Brasil antes da EC 45/2004, sem o rito do art. 5º, § 3º, possui hierarquia:",
+"alts": [
+"constitucional",
+"de lei complementar",
+"supralegal",
+"de lei ordinária",
+"infralegal, abaixo dos decretos"
+],
+"r": 2,
+"n": [
+"Só com o rito do § 3º.",
+"Não há essa categoria para tratados.",
+"Correta.",
+"É o status dos tratados comuns.",
+"Não."
+],
+"prof": "Acima da lei, abaixo da Constituição.",
+"x": "No RE 466.343, o STF fixou que os tratados de DH sem o rito especial têm status supralegal. É o caso do Pacto de San José.",
+"e": "Supralegal."
+},
+{
+"p": "Em determinado estado, sucessivos homicídios de defensores de direitos humanos permanecem sem investigação efetiva, apesar de pressões internacionais. Diante disso, a medida constitucional prevista é:",
+"alts": [
+"intervenção federal automática no estado",
+"o incidente de deslocamento de competência, suscitado pelo PGR perante o STJ, para a Justiça Federal",
+"o julgamento direto do caso pela Corte Interamericana",
+"a remessa do inquérito à Polícia Militar",
+"a declaração de estado de defesa"
+],
+"r": 1,
+"n": [
+"A intervenção tem outros requisitos.",
+"Correta.",
+"A Corte julga o Estado, não substitui o processo interno.",
+"Não é solução constitucional.",
+"Não é o instrumento."
+],
+"prof": "Grave violação + risco internacional + inércia local = IDC.",
+"x": "O art. 109, § 5º, permite ao PGR suscitar no STJ o deslocamento para a Justiça Federal em caso de grave violação de direitos humanos, para garantir o cumprimento de obrigações internacionais.",
+"e": "IDC."
+}
+]
+},
+"grupos": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>60</b><span>anos: pessoa idosa (Lei 10.741/2003); prioridade especial aos 80</span></div><div class=\"lt-stat\"><b>1951</b><span>Convenção sobre o Estatuto dos Refugiados</span></div><div class=\"lt-stat\"><b>169</b><span>Convenção da OIT sobre povos indígenas (consulta prévia)</span></div><div class=\"lt-stat\"><b>2019</b><span>STF enquadra a homotransfobia na Lei do Racismo</span></div></div>\n<h3>1. Minorias e grupos vulneráveis</h3>\n<ul><li><b>Minorias</b> costumam ser grupos com identidade própria (étnica, religiosa, linguística) em posição <b>não dominante</b>; <b>grupos vulneráveis</b> são os que, por condições sociais, físicas ou econômicas, estão mais expostos a violações. A proteção específica concretiza a <b>igualdade material</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Grupo</th><th>Normas-chave</th><th>Destaques</th></tr></thead><tbody><tr><td><b>Mulheres</b></td><td>CEDAW (1979); Convenção de <b>Belém do Pará</b> (1994); Lei Maria da Penha</td><td>o caso <b>Maria da Penha</b> na CIDH (2001) levou à Lei 11.340/2006</td></tr><tr><td><b>Pessoa idosa</b></td><td>Estatuto da Pessoa Idosa (Lei 10.741/2003)</td><td><b>60 anos</b>; prioridade <b>especial</b> aos <b>80</b>; crimes próprios do Estatuto</td></tr><tr><td><b>Crianças e adolescentes</b></td><td>Convenção sobre os Direitos da Criança (1989); <b>ECA</b>; CF, art. 227</td><td><b>proteção integral</b> e <b>prioridade absoluta</b>; escuta especializada e depoimento especial (Lei 13.431/2017)</td></tr><tr><td><b>Povos indígenas</b></td><td><b>Convenção 169 da OIT</b>; Declaração da ONU (2007); CF, art. 231</td><td><b>consulta prévia, livre e informada</b>; o STF rejeitou o \"marco temporal\" (Tema 1.031)</td></tr><tr><td><b>Pessoas com deficiência</b></td><td><b>CDPD</b> (status de emenda); Lei Brasileira de Inclusão (Lei 13.146/2015)</td><td><b>modelo social</b>: a deficiência resulta da interação com <b>barreiras</b>; <b>adaptação razoável</b></td></tr><tr><td><b>LGBTQIA+</b></td><td>Princípios de Yogyakarta; decisões do STF</td><td>homotransfobia como <b>racismo</b> (ADO 26 e MI 4.733); união homoafetiva (ADI 4.277); alteração de <b>nome e gênero</b> sem cirurgia (ADI 4.275)</td></tr><tr><td><b>Refugiados</b></td><td>Convenção de 1951 e Protocolo de 1967; <b>Lei 9.474/1997</b></td><td><b>CONARE</b> decide; <b>não devolução</b> (non-refoulement); conceito ampliado: <b>grave e generalizada violação de DH</b></td></tr><tr><td>Migrantes</td><td>Lei de Migração (13.445/2017)</td><td>não criminalização da migração; acolhida humanitária</td></tr></tbody></table>\n<div class=\"lt-pare\"></div>\n<h3>2. Pontos de atuação policial</h3>\n<ul><li><b>Pessoa idosa</b>: atendimento <b>prioritário</b>; crimes do Estatuto são de <b>ação pública incondicionada</b> e <b>não se aplica</b> a escusa absolutória do art. 181 do CP aos crimes patrimoniais contra idoso.</li><li><b>Criança e adolescente vítima</b>: <b>escuta especializada</b> (rede de proteção) e <b>depoimento especial</b> (perante autoridade policial ou judicial), em ambiente acolhedor, <b>uma única vez</b> sempre que possível, evitando revitimização.</li><li><b>Pessoa trans</b>: respeito ao <b>nome social</b> em registros e atendimentos; na custódia, observam-se as normas do CNJ sobre o local de cumprimento.</li><li><b>Refugiado</b>: o pedido de refúgio <b>suspende</b> procedimento de extradição e impede a <b>deportação</b> para o país onde corre risco; a entrada irregular <b>não impede</b> o pedido.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADO 26 e MI 4.733 (2019)</b><p class=\"jc-tese\">Até que o Congresso edite lei específica, as condutas homofóbicas e transfóbicas enquadram-se nos crimes da Lei 7.716/1989 (racismo), por se tratar de racismo em sua dimensão social.</p><p class=\"jc-com\">Na delegacia, a ofensa ou discriminação por orientação sexual ou identidade de gênero deve ser registrada e investigada como <b>racismo</b> (imprescritível e inafiançável), sem afetar a liberdade religiosa exercida sem incitar ódio.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Pessoa idosa é quem tem 65 anos</span><br>✅ <span class=\"certo\">O Estatuto adota 60 anos (prioridade especial aos 80).</span></li><li>❌ <span class=\"banca\">A Convenção 169 da OIT trata de refugiados</span><br>✅ <span class=\"certo\">Trata de POVOS INDÍGENAS e tribais (consulta prévia).</span></li><li>❌ <span class=\"banca\">A deficiência é condição exclusivamente médica</span><br>✅ <span class=\"certo\">A CDPD adota o modelo SOCIAL (interação com barreiras).</span></li><li>❌ <span class=\"banca\">Homotransfobia não é crime no Brasil</span><br>✅ <span class=\"certo\">O STF enquadrou na Lei 7.716/1989 (racismo).</span></li><li>❌ <span class=\"banca\">Entrar irregularmente no país impede o refúgio</span><br>✅ <span class=\"certo\">Não impede o pedido de refúgio.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pessoa idosa?</span></span><span class=\"vs\"><span><b>60 anos</b>; prioridade especial aos <b>80</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Modelo da CDPD?</span></span><span class=\"vs\"><span><b>Social</b>: deficiência = impedimento + <b>barreiras</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Convenção 169 OIT?</span></span><span class=\"vs\"><span>Povos indígenas: <b>consulta prévia, livre e informada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Homotransfobia?</span></span><span class=\"vs\"><span>Enquadrada como <b>racismo</b> (STF, 2019).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Refugiado?</span></span><span class=\"vs\"><span><b>Lei 9.474/1997</b>; CONARE; <b>não devolução</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Depoimento especial?</span></span><span class=\"vs\"><span>Criança ou adolescente vítima/testemunha, <b>uma única vez</b> sempre que possível.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Segundo a Convenção sobre os Direitos das Pessoas com Deficiência, a deficiência resulta da interação entre pessoas com impedimentos e as barreiras que impedem sua participação plena na sociedade.",
+"c": true,
+"prof": "Certo.",
+"x": "É o modelo social, adotado também pela Lei Brasileira de Inclusão (Lei 13.146/2015).",
+"e": "Modelo social."
+},
+{
+"p": "O Estatuto da Pessoa Idosa considera idosa a pessoa com idade igual ou superior a sessenta e cinco anos.",
+"c": false,
+"prof": "A idade é menor.",
+"x": "O Estatuto considera idosa a pessoa com 60 anos ou mais; entre os idosos, os maiores de 80 têm prioridade especial.",
+"e": "60 anos."
+},
+{
+"p": "Por decisão do STF, as condutas homofóbicas e transfóbicas enquadram-se, até a edição de lei específica, nos tipos penais da Lei 7.716/1989.",
+"c": true,
+"prof": "Certo. ADO 26 e MI 4.733.",
+"x": "O STF tratou a homotransfobia como forma de racismo social.",
+"e": "Homotransfobia = racismo."
+},
+{
+"p": "A Convenção 169 da OIT disciplina a proteção internacional dos refugiados e o princípio da não devolução.",
+"c": false,
+"prof": "Assunto trocado.",
+"x": "A Convenção 169 da OIT trata dos povos indígenas e tribais, com o direito à consulta prévia, livre e informada. Refugiados: Convenção de 1951, Protocolo de 1967 e Lei 9.474/1997.",
+"e": "169 = indígenas."
+},
+{
+"p": "Um estrangeiro, que entrou irregularmente no Brasil fugindo de perseguição política, é abordado pela polícia e manifesta o desejo de pedir refúgio. Segundo a Lei 9.474/1997:",
+"alts": [
+"deve ser imediatamente deportado, pois a entrada irregular impede o refúgio",
+"a entrada irregular não impede o pedido de refúgio, e ele não pode ser devolvido ao país onde sua vida ou liberdade esteja ameaçada",
+"o pedido deve ser decidido pela Polícia Civil",
+"o refúgio só é concedido a quem tem passaporte válido",
+"deve ser preso preventivamente até a decisão do CONARE"
+],
+"r": 1,
+"n": [
+"A lei protege quem entra irregularmente.",
+"Correta: não devolução.",
+"Quem decide é o CONARE.",
+"Não se exige passaporte.",
+"Não há prisão pelo simples pedido."
+],
+"prof": "Non-refoulement: não devolver quem corre risco.",
+"x": "A Lei 9.474/1997 assegura o direito de pedir refúgio mesmo com ingresso irregular e consagra a não devolução. O pedido é decidido pelo CONARE.",
+"e": "Não devolução."
+},
+{
+"p": "Uma menina de 9 anos, vítima de abuso sexual, precisa ser ouvida no inquérito. Conforme a Lei 13.431/2017, a forma adequada é:",
+"alts": [
+"o interrogatório tradicional, na presença do suspeito, para garantir o contraditório",
+"o depoimento especial, em ambiente acolhedor, com profissionais capacitados, realizado preferencialmente uma única vez",
+"a acareação entre a vítima e o suspeito",
+"a oitiva por qualquer policial, sem protocolo",
+"a dispensa total de oitiva, mesmo que seja a única prova"
+],
+"r": 1,
+"n": [
+"É justamente o que a lei quer evitar.",
+"Correta.",
+"Expõe a vítima e é vedado nesse contexto.",
+"Exige profissionais capacitados e protocolo.",
+"A oitiva protegida é possível e, muitas vezes, necessária."
+],
+"prof": "Proteger a criança da revitimização.",
+"x": "A Lei 13.431/2017 prevê a escuta especializada e o depoimento especial, em local apropriado, com profissionais capacitados, evitando contato com o suspeito e repetição desnecessária.",
+"e": "Depoimento especial."
+}
+]
+}
+},
+"medicina-legal": {
+"pericia": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>questões de Medicina Legal na prova de Investigador</span></div><div class=\"lt-stat\"><b>1</b><span>perito oficial com diploma superior basta (CPP, art. 159)</span></div><div class=\"lt-stat\"><b>10 dias</b><span>prazo do laudo, prorrogável</span></div><div class=\"lt-stat\"><b>6 h</b><span>após o óbito, em regra, para a necropsia</span></div></div>\n<h3>1. Perícia e peritos no CPP</h3>\n<ul><li><b>Exame de corpo de delito</b> (art. 158): <b>indispensável</b> quando a infração <b>deixa vestígios</b>, direto (sobre o próprio vestígio) ou indireto (por testemunhas, documentos), <b>não podendo supri-lo a confissão</b>. Tem <b>prioridade</b> quando envolve violência doméstica e familiar contra a mulher, ou violência contra criança, adolescente, idoso ou pessoa com deficiência.</li><li><b>Quem faz</b> (art. 159): <b>um perito oficial</b> portador de diploma de curso superior. Na falta, <b>duas pessoas idôneas</b>, com diploma superior, preferencialmente na área, que prestam compromisso.</li><li><b>Assistente técnico</b>: indicado pelas partes, atua <b>após</b> a admissão pelo juiz e a <b>conclusão</b> dos exames pelos oficiais; não participa do exame inicial no inquérito.</li><li>O laudo é elaborado em <b>até 10 dias</b>, prorrogável em casos excepcionais (art. 160). O juiz <b>não fica adstrito</b> ao laudo: pode aceitá-lo ou rejeitá-lo, no todo ou em parte (art. 182).</li><li><b>Necropsia</b>: pelo menos <b>6 horas</b> depois do óbito, salvo se os peritos, pela evidência dos sinais de morte, julgarem possível fazê-la antes (art. 162). <b>Exumação</b>: em dia e hora previamente marcados pela autoridade (art. 163).</li><li><b>Lesão corporal grave</b> por incapacidade para as ocupações habituais por mais de 30 dias: o <b>exame complementar</b> é feito logo que decorra o prazo de <b>30 dias</b> da data do crime; sua falta pode ser suprida por <b>prova testemunhal</b> (art. 168).</li><li>A <b>Lei 12.030/2009</b> garante às perícias oficiais <b>autonomia técnica, científica e funcional</b> e define como peritos de natureza criminal os <b>peritos criminais</b>, <b>peritos médico-legistas</b> e <b>peritos odontolegistas</b>.</li></ul>\n<h3>2. Documentos médico-legais</h3>\n<table class=\"tab\"><thead><tr><th>Documento</th><th>O que é</th></tr></thead><tbody><tr><td><b>Notificação</b></td><td>comunicação compulsória de fato à autoridade (doenças, violência contra mulher, criança, idoso)</td></tr><tr><td><b>Atestado</b></td><td>afirmação simples e escrita de um fato médico e suas consequências</td></tr><tr><td><b>Relatório médico-legal</b></td><td>descrição minuciosa da perícia: é <b>auto</b> quando ditado ao escrivão, e <b>laudo</b> quando redigido pelos próprios peritos</td></tr><tr><td><b>Parecer</b></td><td>resposta de especialista a consulta sobre ponto controvertido, <b>sem exame direto</b>; vale pela autoridade de quem o assina</td></tr><tr><td>Depoimento oral</td><td>esclarecimentos do perito em audiência</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Partes do laudo</th><th>Conteúdo</th></tr></thead><tbody><tr><td>Preâmbulo</td><td>quem, quando, onde, a pedido de quem</td></tr><tr><td>Quesitos</td><td>perguntas da autoridade</td></tr><tr><td>Histórico (comemorativo)</td><td>relato do fato pelo periciando ou pela autoridade</td></tr><tr><td><b>Descrição</b></td><td>o \"visum et repertum\": o que foi visto e achado — a parte <b>mais importante</b></td></tr><tr><td>Discussão</td><td>análise das hipóteses</td></tr><tr><td>Conclusão</td><td>síntese</td></tr><tr><td>Respostas aos quesitos</td><td>objetivas</td></tr></tbody></table>\n<h3>3. Quesitos oficiais da lesão corporal</h3>\n<ul><li>1º Houve ofensa à integridade corporal ou à saúde? 2º Qual o instrumento ou meio que a produziu? 3º Foi produzida por veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel? 4º Resultou <b>incapacidade</b> para as ocupações habituais por mais de <b>30 dias</b>? 5º Resultou <b>perigo de vida</b>? 6º Resultou <b>debilidade permanente</b> de membro, sentido ou função? 7º Resultou incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, sentido ou função, ou <b>deformidade permanente</b>? 8º Resultou aceleração de parto ou <b>aborto</b>?</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>4. Ética e perícia</h3>\n<ul><li>O médico <b>não pode ser perito de paciente seu</b>, de pessoa de sua família ou de quem tenha relação capaz de influir no trabalho (Código de Ética Médica). O perito deve ser <b>imparcial</b>, respeitar o <b>sigilo</b> e a <b>dignidade</b> do periciando e não pode ser obrigado a fazer exame invasivo sem consentimento.</li><li>O periciando não é obrigado a produzir prova contra si (exame de sangue, bafômetro), mas pode ser identificado e examinado externamente. A coleta de <b>perfil genético</b> é obrigatória para condenados por certos crimes (LEP, art. 9º-A).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A confissão supre o exame de corpo de delito</span><br>✅ <span class=\"certo\">Não supre (art. 158).</span></li><li>❌ <span class=\"banca\">São sempre necessários dois peritos oficiais</span><br>✅ <span class=\"certo\">Basta UM perito oficial; dois só se forem não oficiais.</span></li><li>❌ <span class=\"banca\">O juiz deve seguir o laudo</span><br>✅ <span class=\"certo\">O juiz não fica adstrito ao laudo (art. 182).</span></li><li>❌ <span class=\"banca\">Parecer é o documento feito após o exame direto da vítima</span><br>✅ <span class=\"certo\">Parecer responde a consulta, SEM exame direto.</span></li><li>❌ <span class=\"banca\">A necropsia pode ser feita a qualquer momento após a morte</span><br>✅ <span class=\"certo\">Regra: pelo menos 6 horas depois.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem faz o exame?</span></span><span class=\"vs\"><span><b>1 perito oficial</b> com diploma superior (ou 2 pessoas idôneas).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Confissão supre exame?</span></span><span class=\"vs\"><span><b>Não</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do laudo?</span></span><span class=\"vs\"><span><b>10 dias</b>, prorrogável.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Auto x laudo?</span></span><span class=\"vs\"><span><b>Auto</b>: ditado ao escrivão. <b>Laudo</b>: redigido pelos peritos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parte mais importante do laudo?</span></span><span class=\"vs\"><span><b>Descrição</b> (visum et repertum).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exame complementar da lesão grave?</span></span><span class=\"vs\"><span>Após <b>30 dias</b>; supre-se por <b>testemunhas</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "O exame de corpo de delito é indispensável nas infrações que deixam vestígios, não podendo supri-lo a confissão do acusado.",
+"c": true,
+"prof": "Certo. CPP, art. 158.",
+"x": "Quando os vestígios desaparecem, o exame indireto (por testemunhas) pode suprir o direto (art. 167).",
+"e": "Confissão não supre."
+},
+{
+"p": "O exame de corpo de delito deve ser realizado obrigatoriamente por dois peritos oficiais.",
+"c": false,
+"prof": "Desde 2008 a regra mudou.",
+"x": "Basta um perito oficial portador de diploma superior. Na falta dele, duas pessoas idôneas com diploma superior.",
+"e": "Um perito oficial."
+},
+{
+"p": "O parecer médico-legal é a resposta de um especialista a uma consulta sobre ponto controvertido, sem que ele tenha realizado exame direto.",
+"c": true,
+"prof": "Certo.",
+"x": "O valor do parecer depende da autoridade técnica de quem o assina.",
+"e": "Parecer sem exame."
+},
+{
+"p": "A parte mais importante do laudo pericial é o histórico, em que se registra a versão do periciando.",
+"c": false,
+"prof": "A parte essencial é outra.",
+"x": "A descrição (visum et repertum) é a parte mais importante, pois registra objetivamente o que foi examinado.",
+"e": "Descrição."
+},
+{
+"p": "Para a classificação de lesão corporal grave por incapacidade para as ocupações habituais por mais de 30 dias, o exame complementar deve ser feito logo após o decurso desse prazo, podendo ser suprido por prova testemunhal.",
+"c": true,
+"prof": "Certo. Art. 168, §§ 2º e 3º.",
+"x": "É uma das poucas hipóteses em que a lei admite expressamente o suprimento por testemunhas.",
+"e": "Exame complementar."
+},
+{
+"p": "Em comarca sem perito oficial, o Delegado precisa realizar exame de corpo de delito em vítima de lesão. Segundo o CPP, o exame deve ser feito por:",
+"alts": [
+"um policial civil designado pelo Delegado",
+"duas pessoas idôneas, portadoras de diploma de curso superior, preferencialmente na área específica, que prestarão compromisso",
+"qualquer médico, sem necessidade de compromisso",
+"o próprio Delegado, que é bacharel em Direito",
+"apenas por perito oficial de outra comarca, sendo vedados peritos não oficiais"
+],
+"r": 1,
+"n": [
+"Não é a regra.",
+"Correta: art. 159, §§ 1º e 2º.",
+"São duas pessoas e há compromisso.",
+"O Delegado não faz perícia.",
+"A lei admite peritos não oficiais."
+],
+"prof": "Sem oficial: dois, com diploma, compromissados.",
+"x": "Na falta de perito oficial, o exame é feito por duas pessoas idôneas, com diploma superior, preferencialmente na área, que prestam compromisso de bem desempenhar o encargo.",
+"e": "Dois não oficiais."
+},
+{
+"p": "Assinale a alternativa que relaciona corretamente o documento médico-legal à sua característica.",
+"alts": [
+"Atestado – descrição minuciosa de uma perícia, ditada ao escrivão",
+"Auto – relatório médico-legal ditado diretamente ao escrivão durante o exame",
+"Parecer – documento que exige exame direto do periciando",
+"Laudo – comunicação compulsória de doença",
+"Notificação – resposta de especialista a consulta"
+],
+"r": 1,
+"n": [
+"Isso é o auto.",
+"Correta.",
+"O parecer dispensa exame direto.",
+"Isso é a notificação.",
+"Isso é o parecer."
+],
+"prof": "Auto = ditado; laudo = redigido.",
+"x": "O relatório médico-legal é chamado de auto quando ditado ao escrivão, e de laudo quando redigido pelos próprios peritos.",
+"e": "Auto ditado."
+}
+]
+},
+"traumatologia": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>6</b><span>tipos de instrumento mecânico</span></div><div class=\"lt-stat\"><b>30 dias</b><span>marco da lesão grave por incapacidade</span></div><div class=\"lt-stat\"><b>4</b><span>orlas e zonas do tiro a curta distância (contusão, enxugo, tatuagem, esfumaçamento)</span></div><div class=\"lt-stat\"><b>3</b><span>graus jurídicos de lesão (leve, grave, gravíssima) + seguida de morte</span></div></div>\n<h3>1. Energias de ordem mecânica</h3>\n<table class=\"tab\"><thead><tr><th>Instrumento</th><th>Ação</th><th>Lesão</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Perfurante</b></td><td>pressão em um ponto</td><td><b>puntiforme</b> ou punctória</td><td>agulha, prego, furador de gelo</td></tr><tr><td><b>Cortante</b></td><td>deslizamento de gume</td><td><b>incisa</b> (bordas regulares, sem pontes, com <b>cauda de escoriação</b> no fim)</td><td>navalha, bisturi, caco de vidro</td></tr><tr><td><b>Contundente</b></td><td>pressão, choque, explosão</td><td><b>contusa</b> (escoriação, equimose, hematoma, fraturas)</td><td>soco, pau, queda, para-choque</td></tr><tr><td><b>Perfurocortante</b></td><td>ponta + gume</td><td><b>perfuroincisa</b></td><td>faca, punhal</td></tr><tr><td><b>Perfurocontundente</b></td><td>ponta romba + pressão</td><td><b>perfurocontusa</b></td><td><b>projétil de arma de fogo</b>, ponta de guarda-chuva</td></tr><tr><td><b>Cortocontundente</b></td><td>gume + peso</td><td><b>cortocontusa</b></td><td>machado, facão, foice, <b>mordida</b></td></tr></tbody></table>\n<ul><li><b>Equimose</b> (sangue infiltrado na pele, sem coleção): sua cor evolui com o tempo (espectro de <b>Legrand du Saulle</b>): <b>vermelha</b> (1º dia) → <b>violácea</b> (2º e 3º) → <b>azul</b> (4º a 6º) → <b>esverdeada</b> (7º a 10º) → <b>amarelada</b> (12º em diante) → desaparece. <b>Hematoma</b> é coleção de sangue que forma relevo.</li><li>Lesões de defesa: cortes nas palmas e nos antebraços sugerem que a vítima tentou se proteger.</li></ul>\n<h3>2. Ferimentos por projétil de arma de fogo</h3>\n<table class=\"tab\"><thead><tr><th>Característica</th><th>Entrada</th><th>Saída</th></tr></thead><tbody><tr><td>Tamanho</td><td>em regra <b>menor</b></td><td>em regra <b>maior</b>, irregular</td></tr><tr><td>Bordas</td><td><b>invertidas</b> (para dentro)</td><td><b>evertidas</b> (para fora)</td></tr><tr><td>Orlas</td><td><b>orla de contusão/escoriação</b> e <b>orla de enxugo</b> (sujidade do projétil)</td><td>sem orlas</td></tr><tr><td>Tiro a curta distância</td><td><b>zona de tatuagem</b> (grãos de pólvora incrustados, não sai com lavagem) e <b>zona de esfumaçamento</b> (fuligem, sai com lavagem)</td><td>—</td></tr></tbody></table>\n<ul><li><b>Tiro encostado</b>: boca do cano contra a pele; os gases entram e formam a <b>câmara de mina de Hoffmann</b> sobre plano ósseo (crânio), com bordas rasgadas; pode haver a marca do cano (<b>sinal de Werkgaertner</b>) e fuligem na tábua óssea (<b>sinal de Benassi</b>).</li><li>A tatuagem e o esfumaçamento indicam <b>curta distância</b>; sua ausência sugere tiro a <b>longa distância</b> (ou anteparo, como roupa).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Classificação jurídica das lesões (CP, art. 129)</h3>\n<table class=\"tab\"><thead><tr><th>Grau</th><th>Resultados</th></tr></thead><tbody><tr><td><b>Leve</b> (caput)</td><td>o que não se enquadra nos parágrafos</td></tr><tr><td><b>Grave</b> (§ 1º)</td><td>incapacidade para as ocupações habituais por <b>mais de 30 dias</b>; <b>perigo de vida</b>; <b>debilidade permanente</b> de membro, sentido ou função; <b>aceleração de parto</b></td></tr><tr><td><b>Gravíssima</b> (§ 2º)</td><td>incapacidade <b>permanente</b> para o trabalho; <b>enfermidade incurável</b>; <b>perda ou inutilização</b> de membro, sentido ou função; <b>deformidade permanente</b>; <b>aborto</b></td></tr><tr><td><b>Seguida de morte</b> (§ 3º)</td><td>dolo na lesão e culpa na morte (preterdolo)</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Grave = <b>D</b>ebilidade, <b>I</b>ncapacidade +30, <b>P</b>erigo de vida, <b>A</b>celeração de parto (\"DIPA\"). Gravíssima = <b>P</b>erda/inutilização, <b>E</b>nfermidade incurável, <b>I</b>ncapacidade permanente, <b>D</b>eformidade, <b>A</b>borto (\"PEIDA\").</div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · debilidade x perda</b><p class=\"jc-tese\">A perda de <b>um dos órgãos duplos</b> (um rim, um olho) costuma gerar <b>debilidade</b> permanente (grave), e não perda da função (gravíssima), porque o órgão restante mantém a função.</p><p class=\"jc-com\">A FGV cobra o raciocínio: perda do olho esquerdo com visão preservada no direito = debilidade da visão = lesão <b>grave</b>.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Faca é instrumento perfurante</span><br>✅ <span class=\"certo\">Faca (ponta + gume) é PERFUROCORTANTE; lesão perfuroincisa.</span></li><li>❌ <span class=\"banca\">Projétil de arma de fogo é perfurocortante</span><br>✅ <span class=\"certo\">É PERFUROCONTUNDENTE.</span></li><li>❌ <span class=\"banca\">Orifício de entrada tem bordas evertidas</span><br>✅ <span class=\"certo\">Entrada: invertidas; saída: evertidas.</span></li><li>❌ <span class=\"banca\">Esfumaçamento não sai com lavagem</span><br>✅ <span class=\"certo\">A fuligem SAI; a tatuagem (pólvora incrustada) é que não sai.</span></li><li>❌ <span class=\"banca\">Debilidade permanente é lesão gravíssima</span><br>✅ <span class=\"certo\">Debilidade = GRAVE; perda ou inutilização = gravíssima.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão de faca?</span></span><span class=\"vs\"><span><b>Perfuroincisa</b> (instrumento perfurocortante).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Projétil?</span></span><span class=\"vs\"><span><b>Perfurocontundente</b> (perfurocontusa).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Machado e mordida?</span></span><span class=\"vs\"><span><b>Cortocontundentes</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Entrada x saída?</span></span><span class=\"vs\"><span>Entrada: menor, bordas <b>invertidas</b>, orlas. Saída: maior, <b>evertidas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tatuagem x esfumaçamento?</span></span><span class=\"vs\"><span>Tatuagem <b>não sai</b> com lavagem; esfumaçamento <b>sai</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equimose esverdeada?</span></span><span class=\"vs\"><span>Por volta do <b>7º ao 10º dia</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A vítima com cortes nas mãos</b><p>Um corpo apresenta ferida perfuroincisa no tórax e vários cortes superficiais nas palmas das mãos e nos antebraços. O suspeito alega que a vítima \"caiu sobre a faca\".</p><details><summary>Ver a solução comentada</summary><p>As <b>lesões de defesa</b> nas mãos e antebraços indicam que a vítima tentou se proteger de golpes, o que é incompatível com uma queda acidental única. A ferida perfuroincisa é típica de instrumento <b>perfurocortante</b> (faca).</p></details></div>",
+"quiz": [
+{
+"p": "A faca é instrumento perfurocortante, produzindo lesões perfuroincisas.",
+"c": true,
+"prof": "Certo.",
+"x": "Atua pela ponta (perfura) e pelo gume (corta).",
+"e": "Faca: perfurocortante."
+},
+{
+"p": "O projétil de arma de fogo é classificado como instrumento perfurocortante.",
+"c": false,
+"prof": "A classificação é outra.",
+"x": "O projétil age por pressão em ponta romba, sendo perfurocontundente e produzindo lesão perfurocontusa.",
+"e": "Projétil: perfurocontundente."
+},
+{
+"p": "No orifício de entrada de projétil disparado a curta distância, podem ser observadas a zona de tatuagem e a zona de esfumaçamento.",
+"c": true,
+"prof": "Certo.",
+"x": "A tatuagem resulta de grãos de pólvora incrustados e não sai com lavagem; o esfumaçamento é fuligem depositada e sai com lavagem.",
+"e": "Curta distância: tatuagem e esfumaçamento."
+},
+{
+"p": "A debilidade permanente de membro, sentido ou função caracteriza lesão corporal gravíssima.",
+"c": false,
+"prof": "Esse resultado está no § 1º.",
+"x": "Debilidade permanente qualifica a lesão como grave. Perda ou inutilização de membro, sentido ou função é que a torna gravíssima.",
+"e": "Debilidade = grave."
+},
+{
+"p": "A lesão corporal que resulta em aborto é considerada gravíssima.",
+"c": true,
+"prof": "Certo. Art. 129, § 2º, V.",
+"x": "A aceleração de parto é lesão grave (§ 1º, IV). O aborto, gravíssima.",
+"e": "Aborto = gravíssima."
+},
+{
+"p": "Em necropsia, o perito descreve, no orifício de entrada, orla de escoriação, zona de tatuagem e zona de esfumaçamento. Essa descrição indica, em regra, disparo:",
+"alts": [
+"a longa distância",
+"a curta distância",
+"encostado, com câmara de mina",
+"por instrumento cortocontundente",
+"após a morte da vítima, necessariamente"
+],
+"r": 1,
+"n": [
+"A longa distância não há tatuagem nem esfumaçamento.",
+"Correta.",
+"No encostado os resíduos tendem a penetrar, com câmara de mina sobre osso.",
+"Não se trata de instrumento cortocontundente.",
+"Não há indicação disso."
+],
+"prof": "Tatuagem + esfumaçamento = curta distância.",
+"x": "Os resíduos de pólvora e a fuligem só alcançam a pele quando o disparo ocorre a curta distância.",
+"e": "Curta distância."
+},
+{
+"p": "Em briga, a vítima perdeu a visão do olho esquerdo, mantendo a visão normal no olho direito. Para a classificação jurídica da lesão, segundo a doutrina médico-legal majoritária, houve:",
+"alts": [
+"lesão leve",
+"lesão grave, por debilidade permanente da função visual",
+"lesão gravíssima, por perda da função visual",
+"lesão gravíssima, por deformidade permanente, necessariamente",
+"lesão seguida de morte"
+],
+"r": 1,
+"n": [
+"A lesão é mais que leve.",
+"Correta.",
+"A função visual não foi perdida, pois o outro olho a mantém.",
+"A deformidade dependeria de dano estético relevante, a ser avaliado.",
+"Não houve morte."
+],
+"prof": "Órgão duplo: perder um = enfraquecer a função.",
+"x": "Nos órgãos duplos, a perda de um deles gera, em regra, debilidade permanente da função (lesão grave). A perda da função ocorreria se ambos fossem atingidos.",
+"e": "Órgão duplo: debilidade."
+},
+{
+"p": "Assinale a correspondência correta entre instrumento e lesão.",
+"alts": [
+"navalha – lesão contusa",
+"martelo – lesão incisa",
+"machado – lesão cortocontusa",
+"prego – lesão perfuroincisa",
+"soco – lesão perfurocontusa"
+],
+"r": 2,
+"n": [
+"Navalha produz lesão incisa.",
+"Martelo produz contusa.",
+"Correta.",
+"Prego produz puntiforme.",
+"Soco produz contusa."
+],
+"prof": "Gume + peso = cortocontundente.",
+"x": "O machado age pelo gume e pelo peso, produzindo lesão cortocontusa, com bordas menos regulares que as incisas.",
+"e": "Machado: cortocontusa."
+}
+]
+},
+"tanatologia": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2–3 h</b><span>aparecimento dos livores</span></div><div class=\"lt-stat\"><b>8–12 h</b><span>fixação dos livores</span></div><div class=\"lt-stat\"><b>1–2 h</b><span>início da rigidez (mandíbula e nuca)</span></div><div class=\"lt-stat\"><b>18–24 h</b><span>mancha verde abdominal (início da putrefação)</span></div></div>\n<h3>1. Morte e tanatognose</h3>\n<ul><li><b>Tanatologia</b> estuda a morte e suas consequências. <b>Tanatognose</b> é o <b>diagnóstico</b> da realidade da morte; <b>cronotanatognose</b>, a estimativa do <b>tempo</b> decorrido desde a morte.</li><li><b>Morte encefálica</b>: parada total e irreversível das funções encefálicas, constatada por protocolo do CFM (Lei 9.434/1997, que trata do transplante). Permite a retirada de órgãos com autorização da família.</li></ul>\n<table class=\"tab\"><thead><tr><th>Fenômenos cadavéricos</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Abióticos imediatos</b> (sinais de probabilidade)</td><td>perda da consciência, insensibilidade, imobilidade, parada respiratória e circulatória, perda do tônus</td></tr><tr><td><b>Abióticos consecutivos</b> (sinais de certeza)</td><td><b>desidratação</b> (perda de peso, pergaminhamento da pele, mancha da esclerótica), <b>resfriamento</b> (cerca de 0,5 a 1,5 °C por hora, conforme o ambiente), <b>livores</b> (hipóstases), <b>rigidez</b></td></tr><tr><td><b>Transformativos destrutivos</b></td><td><b>autólise</b>, <b>putrefação</b>, <b>maceração</b></td></tr><tr><td><b>Transformativos conservadores</b></td><td><b>mumificação</b>, <b>saponificação</b> (adipocera), calcificação, corificação, congelação</td></tr></tbody></table>\n<h3>2. Livores e rigidez</h3>\n<ul><li><b>Livores</b> (hipóstases): sangue se deposita nas partes <b>mais baixas</b> do corpo pela gravidade. Surgem em <b>2 a 3 horas</b> e <b>fixam-se</b> em <b>8 a 12 horas</b>. Livores em posição incompatível com a do corpo indicam que o <b>cadáver foi movido</b> após a fixação.</li><li><b>Rigidez cadavérica</b>: começa em <b>1 a 2 horas</b> pela <b>mandíbula e nuca</b> e desce no sentido <b>crânio-caudal</b> (lei de <b>Nysten</b>), generaliza-se em cerca de <b>6 a 8 horas</b> e desaparece em <b>24 a 36 horas</b>, na mesma ordem. O <b>espasmo cadavérico</b> é a rigidez instantânea (ex.: mão crispada na arma), sem relaxamento prévio.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Putrefação e fenômenos conservadores</h3>\n<div class=\"lt-fluxo\"><span>Período cromático (mancha verde abdominal na fossa ilíaca direita, 18–24 h)</span> <em>→</em> <span>Período gasoso (enfisema, circulação póstuma de Brouardel, bolhas)</span> <em>→</em> <span>Período coliquativo (dissolução dos tecidos)</span> <em>→</em> <span>Esqueletização</span></div>\n<ul><li>No <b>afogado</b>, a mancha verde costuma começar na <b>cabeça e no tórax</b>. <b>Maceração</b>: amolecimento em meio líquido (feto morto retido, afogados).</li><li><b>Mumificação</b>: ambiente <b>quente, seco e ventilado</b>. <b>Saponificação (adipocera)</b>: ambiente <b>úmido</b>, solo <b>argiloso</b>, pouco ventilado. <b>Corificação</b>: corpos em <b>urnas metálicas</b> fechadas.</li></ul>\n<h3>4. Necropsia, exumação, causa da morte e cadáver</h3>\n<ul><li><b>Necropsia</b> (necroscopia ou autópsia): exame interno do cadáver para determinar a causa e as circunstâncias da morte. <b>Exumação</b>: desenterrar o cadáver para nova perícia, por ordem da autoridade.</li><li><b>Causa jurídica da morte</b>: <b>natural</b> ou <b>violenta</b> (homicídio, suicídio, acidente); quando não se sabe, <b>morte suspeita</b>, que exige investigação.</li><li><b>Comoriência</b> (CC, art. 8º): se duas pessoas morrem na mesma ocasião e não se sabe quem morreu primeiro, presumem-se <b>simultaneamente mortas</b>. <b>Premoriência</b>: prova de que uma morreu antes.</li><li><b>Direitos sobre o cadáver</b>: respeito e destinação digna; <b>destruição, subtração ou ocultação</b> de cadáver e <b>vilipêndio</b> a cadáver são crimes (CP, arts. 211 e 212); a retirada de órgãos post mortem depende de <b>autorização do cônjuge ou parente</b> maior (Lei 9.434/1997).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A rigidez começa pelos pés</span><br>✅ <span class=\"certo\">Começa pela mandíbula e nuca (crânio-caudal, Nysten).</span></li><li>❌ <span class=\"banca\">Livores aparecem logo após a morte e nunca mudam</span><br>✅ <span class=\"certo\">Surgem em 2–3 h e só se fixam em 8–12 h.</span></li><li>❌ <span class=\"banca\">A mancha verde começa no tórax em qualquer morte</span><br>✅ <span class=\"certo\">Em regra começa na fossa ilíaca direita; no afogado, cabeça e tórax.</span></li><li>❌ <span class=\"banca\">Mumificação ocorre em ambiente úmido</span><br>✅ <span class=\"certo\">Ambiente quente, SECO e ventilado; o úmido gera saponificação.</span></li><li>❌ <span class=\"banca\">Na comoriência presume-se que o mais velho morreu antes</span><br>✅ <span class=\"certo\">Presume-se morte SIMULTÂNEA.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Livores?</span></span><span class=\"vs\"><span>Surgem em <b>2–3 h</b>; fixam em <b>8–12 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rigidez?</span></span><span class=\"vs\"><span>Começa em <b>1–2 h</b> (mandíbula/nuca), generaliza em <b>6–8 h</b>, some em <b>24–36 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mancha verde?</span></span><span class=\"vs\"><span><b>Fossa ilíaca direita</b>, <b>18–24 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mumificação x saponificação?</span></span><span class=\"vs\"><span><b>Seco e ventilado</b> x <b>úmido e argiloso</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comoriência?</span></span><span class=\"vs\"><span>Morte <b>simultânea</b> presumida.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Espasmo cadavérico?</span></span><span class=\"vs\"><span>Rigidez <b>instantânea</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O corpo mudado de lugar</b><p>O cadáver é encontrado de bruços, mas os livores estão fixados nas costas.</p><details><summary>Ver a solução comentada</summary><p>Os livores se formam nas partes mais baixas e se fixam em 8 a 12 horas. Livores nas costas de um corpo de bruços indicam que ele ficou <b>de costas</b> por horas após a morte e foi <b>movido depois</b> da fixação: forte indício de <b>alteração do local</b> do crime.</p></details></div>",
+"quiz": [
+{
+"p": "A rigidez cadavérica inicia-se, em regra, pela mandíbula e pela nuca e progride no sentido crânio-caudal.",
+"c": true,
+"prof": "Certo. Lei de Nysten.",
+"x": "Ela se generaliza em 6 a 8 horas e desaparece em 24 a 36 horas, na mesma ordem.",
+"e": "Crânio-caudal."
+},
+{
+"p": "A mumificação é fenômeno transformativo conservador que ocorre em ambientes úmidos e de solo argiloso.",
+"c": false,
+"prof": "Esse ambiente gera outro fenômeno.",
+"x": "Ambiente úmido e argiloso favorece a saponificação (adipocera). A mumificação ocorre em ambiente quente, seco e ventilado.",
+"e": "Mumificação: seco."
+},
+{
+"p": "A fixação dos livores cadavéricos ocorre, em média, entre 8 e 12 horas após a morte.",
+"c": true,
+"prof": "Certo.",
+"x": "Antes disso, mudando-se a posição do corpo, os livores se deslocam.",
+"e": "Fixação: 8 a 12 h."
+},
+{
+"p": "Na comoriência, presume-se que o mais idoso faleceu antes dos demais.",
+"c": false,
+"prof": "O Código Civil adota presunção diferente.",
+"x": "O art. 8º do CC presume a morte simultânea quando não se pode averiguar quem morreu primeiro.",
+"e": "Comoriência: simultânea."
+},
+{
+"p": "A mancha verde abdominal, marco do período cromático da putrefação, surge em regra na fossa ilíaca direita, entre 18 e 24 horas após a morte.",
+"c": true,
+"prof": "Certo.",
+"x": "No afogado, a putrefação tende a começar pela cabeça e pelo tórax.",
+"e": "Mancha verde: FID."
+},
+{
+"p": "Um corpo foi encontrado em casa de campo com rigidez generalizada, livores fixos e sem mancha verde abdominal. A estimativa mais compatível do tempo de morte é:",
+"alts": [
+"menos de 1 hora",
+"entre 1 e 2 horas",
+"entre cerca de 8 e 18 horas",
+"mais de 72 horas",
+"mais de um mês"
+],
+"r": 2,
+"n": [
+"Ainda não haveria rigidez nem livores.",
+"A rigidez estaria apenas começando.",
+"Correta: rigidez generalizada e livores fixos, antes da mancha verde.",
+"Haveria sinais claros de putrefação.",
+"Haveria putrefação avançada."
+],
+"prof": "Cruze os relógios: rigidez (6–8 h), livores fixos (8–12 h), mancha verde (18–24 h).",
+"x": "Rigidez generalizada (a partir de 6–8 h), livores fixados (8–12 h) e ausência de mancha verde (que surge por volta de 18–24 h) apontam para algo entre 8 e 18 horas, sujeito às condições ambientais.",
+"e": "Cronotanatognose combinada."
+},
+{
+"p": "Um cadáver foi exumado de uma urna metálica hermeticamente fechada e apresentava pele com aspecto de couro curtido. O fenômeno é a:",
+"alts": [
+"mumificação",
+"saponificação",
+"corificação",
+"maceração",
+"calcificação"
+],
+"r": 2,
+"n": [
+"Exige ambiente seco e ventilado.",
+"Exige ambiente úmido.",
+"Correta.",
+"Ocorre em meio líquido.",
+"Típica de fetos (litopédio)."
+],
+"prof": "Urna metálica = corificação.",
+"x": "A corificação é fenômeno conservador observado em cadáveres em urnas metálicas, com pele de aspecto de couro.",
+"e": "Corificação."
+}
+]
+},
+"asfixiologia": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>Oblíquo</b><span>sulco do enforcamento (ascendente, interrompido no nó)</span></div><div class=\"lt-stat\"><b>Horizontal</b><span>sulco do estrangulamento (contínuo)</span></div><div class=\"lt-stat\"><b>Mãos</b><span>esganadura: sempre homicídio</span></div><div class=\"lt-stat\"><b>Rosa-cereja</b><span>cor dos livores na intoxicação por CO</span></div></div>\n<h3>1. Conceito e sinais gerais</h3>\n<ul><li><b>Asfixia</b> é a falta de oxigênio nos tecidos (anoxemia) com acúmulo de gás carbônico. É energia de ordem <b>físico-química</b>.</li><li>Sinais gerais (inespecíficos): <b>cianose</b>, <b>petéquias</b> (manchas de <b>Tardieu</b>) nas pleuras e no pericárdio, <b>congestão</b> dos órgãos, sangue <b>fluido e escuro</b>.</li></ul>\n<h3>2. Asfixias em espécie</h3>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Mecanismo</th><th>Achados típicos</th></tr></thead><tbody><tr><td><b>Gases irrespiráveis / confinamento</b></td><td>ambiente sem O₂ ou com gás que o desloca</td><td>confinamento em espaço fechado (cofre, porta-malas): consumo do oxigênio</td></tr><tr><td><b>Monóxido de carbono</b></td><td>CO se liga à hemoglobina (carboxiemoglobina)</td><td><b>livores e sangue róseo/vermelho-cereja</b>; acidentes com aquecedores, incêndios, motor ligado em garagem</td></tr><tr><td><b>Sufocação direta</b></td><td>obstrução dos <b>orifícios</b> (nariz, boca) ou das <b>vias aéreas</b> (engasgo, corpo estranho)</td><td>lesões ao redor da boca e do nariz; corpo estranho na via aérea</td></tr><tr><td><b>Sufocação indireta</b></td><td><b>compressão do tórax</b> impedindo a respiração</td><td>multidões, soterramento parcial, peso sobre o peito; máscara equimótica (cabeça e pescoço arroxeados)</td></tr><tr><td><b>Afogamento</b></td><td>líquido nas vias aéreas</td><td><b>cogumelo de espuma</b> na boca e nariz; <b>manchas de Paltauf</b> nos pulmões; <b>mãos de lavadeira</b> (maceração da pele); pulmões volumosos</td></tr><tr><td><b>Soterramento</b></td><td>vias aéreas obstruídas por terra, areia ou grãos</td><td>material sólido nas vias aéreas</td></tr></tbody></table>\n<h3>3. Constrição do pescoço</h3>\n<table class=\"tab\"><thead><tr><th>; <b>Enforcamento</b></th><th><b>Estrangulamento</b></th><th><b>Esganadura</b></th></tr></thead><tbody><tr><td>Força</td><td><b>peso do próprio corpo</b></td><td>força externa (pessoa ou mecanismo) por <b>laço</b></td><td><b>mãos</b> do agressor</td></tr><tr><td>Sulco</td><td><b>oblíquo ascendente</b>, <b>interrompido</b> na altura do nó, em regra <b>acima</b> da cartilagem tireoide, profundo e apergaminhado</td><td><b>horizontal</b>, <b>contínuo</b>, em regra <b>abaixo</b> da tireoide, de profundidade uniforme</td><td><b>não há sulco</b>: há <b>escoriações ungueais</b> (marcas de unhas) e equimoses digitais</td></tr><tr><td>Jurídico</td><td>em regra <b>suicídio</b></td><td>em regra <b>homicídio</b> (pode ser acidente)</td><td><b>sempre homicídio</b> (ninguém se esgana)</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Enforcamento <b>completo</b> (corpo suspenso) e <b>incompleto</b> (partes do corpo apoiadas) existem: o peso parcial basta para comprimir o pescoço. \"Pés tocando o chão\" <b>não exclui</b> enforcamento.</div>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · simulação de suicídio</b><p class=\"jc-tese\">Sulco horizontal e contínuo, abaixo da tireoide, ou marcas de unhas no pescoço de um \"enforcado\" indicam estrangulamento ou esganadura seguidos de suspensão do corpo.</p><p class=\"jc-com\">É o tipo de discrepância que a perícia aponta e o investigador deve explorar: o local de crime precisa ser <b>preservado</b> até a chegada dos peritos.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Esganadura pode ser suicídio</span><br>✅ <span class=\"certo\">Esganadura (com as mãos) é sempre homicídio.</span></li><li>❌ <span class=\"banca\">O sulco do enforcamento é horizontal e contínuo</span><br>✅ <span class=\"certo\">É OBLÍQUO ascendente e interrompido no nó.</span></li><li>❌ <span class=\"banca\">Se os pés tocam o chão, não é enforcamento</span><br>✅ <span class=\"certo\">Existe enforcamento incompleto.</span></li><li>❌ <span class=\"banca\">Na intoxicação por CO os livores são violáceos escuros</span><br>✅ <span class=\"certo\">São róseos/vermelho-cereja.</span></li><li>❌ <span class=\"banca\">Cogumelo de espuma é sinal de enforcamento</span><br>✅ <span class=\"certo\">É sinal de afogamento.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Enforcamento?</span></span><span class=\"vs\"><span>Peso do corpo; sulco <b>oblíquo</b>, <b>interrompido</b>, acima da tireoide; em regra suicídio.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estrangulamento?</span></span><span class=\"vs\"><span>Laço por força externa; sulco <b>horizontal</b> e <b>contínuo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Esganadura?</span></span><span class=\"vs\"><span><b>Mãos</b>; marcas de unhas; <b>sempre homicídio</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CO?</span></span><span class=\"vs\"><span>Livores <b>vermelho-cereja</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afogamento?</span></span><span class=\"vs\"><span><b>Cogumelo de espuma</b>, <b>Paltauf</b>, mãos de lavadeira.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sufocação indireta?</span></span><span class=\"vs\"><span><b>Compressão do tórax</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Na esganadura, a constrição do pescoço é feita pelas mãos do agressor, não havendo sulco, mas podendo haver escoriações produzidas pelas unhas.",
+"c": true,
+"prof": "Certo.",
+"x": "A esganadura é sempre homicida, pois é impossível alguém se esganar até a morte.",
+"e": "Esganadura: mãos."
+},
+{
+"p": "O sulco do enforcamento é tipicamente horizontal, contínuo e situado abaixo da cartilagem tireoide.",
+"c": false,
+"prof": "Essas são características do estrangulamento.",
+"x": "No enforcamento, o sulco é oblíquo ascendente, interrompido na altura do nó e situado, em regra, acima da cartilagem tireoide.",
+"e": "Enforcamento: oblíquo."
+},
+{
+"p": "A intoxicação por monóxido de carbono confere aos livores e ao sangue coloração rósea ou vermelho-cereja.",
+"c": true,
+"prof": "Certo.",
+"x": "Isso se deve à formação de carboxiemoglobina.",
+"e": "CO: vermelho-cereja."
+},
+{
+"p": "A presença dos pés do cadáver apoiados no solo exclui a hipótese de enforcamento.",
+"c": false,
+"prof": "Há enforcamento incompleto.",
+"x": "No enforcamento incompleto, o corpo está parcialmente apoiado, mas o peso que resta é suficiente para comprimir o pescoço.",
+"e": "Enforcamento incompleto existe."
+},
+{
+"p": "A sufocação indireta decorre da compressão do tórax, que impede os movimentos respiratórios.",
+"c": true,
+"prof": "Certo.",
+"x": "A sufocação direta envolve a obstrução dos orifícios respiratórios ou das vias aéreas.",
+"e": "Indireta: tórax."
+},
+{
+"p": "Em um \"suicídio por enforcamento\", o perito encontra sulco horizontal, contínuo e de profundidade uniforme abaixo da cartilagem tireoide, além do sulco oblíquo. A hipótese mais compatível é:",
+"alts": [
+"enforcamento típico, sem indício de crime",
+"estrangulamento seguido de suspensão do corpo para simular suicídio",
+"afogamento",
+"esganadura, exclusivamente",
+"intoxicação por monóxido de carbono"
+],
+"r": 1,
+"n": [
+"O sulco horizontal não é próprio do enforcamento.",
+"Correta.",
+"Não há elementos de afogamento.",
+"A esganadura não deixa sulco.",
+"Não há relação."
+],
+"prof": "Dois sulcos diferentes contam duas histórias.",
+"x": "O sulco horizontal e contínuo é típico de estrangulamento por laço com força externa. A presença dele indica que a vítima pode ter sido estrangulada e depois pendurada.",
+"e": "Estrangulamento + simulação."
+},
+{
+"p": "São sinais característicos do afogamento:",
+"alts": [
+"sulco oblíquo e escoriações ungueais",
+"cogumelo de espuma, manchas de Paltauf e mãos de lavadeira",
+"livores vermelho-cereja e cheiro de amêndoas amargas",
+"figuras de Lichtenberg",
+"zona de tatuagem e esfumaçamento"
+],
+"r": 1,
+"n": [
+"Constrição do pescoço.",
+"Correta.",
+"CO e cianeto, respectivamente.",
+"Fulguração (raio).",
+"Arma de fogo."
+],
+"prof": "Água: espuma, Paltauf e pele enrugada.",
+"x": "O cogumelo de espuma, as manchas de Paltauf nos pulmões e a maceração das mãos são achados típicos do afogamento.",
+"e": "Afogamento."
+}
+]
+},
+"sexologia": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>< 14</b><span>anos: vulnerável no estupro de vulnerável</span></div><div class=\"lt-stat\"><b>72 h</b><span>janela usual para encontrar espermatozoides na vagina</span></div><div class=\"lt-stat\"><b>PSA</b><span>marcador de líquido seminal (útil mesmo sem espermatozoides)</span></div><div class=\"lt-stat\"><b>12.845</b><span>Lei de atendimento obrigatório às vítimas de violência sexual</span></div></div>\n<h3>1. Os crimes</h3>\n<ul><li><b>Estupro</b> (CP, art. 213): constranger alguém, mediante <b>violência ou grave ameaça</b>, a ter <b>conjunção carnal</b> ou a praticar ou permitir que com ele se pratique <b>outro ato libidinoso</b>. Pode ter vítima de <b>qualquer sexo</b>.</li><li><b>Estupro de vulnerável</b> (art. 217-A): conjunção carnal ou ato libidinoso com <b>menor de 14 anos</b>, ou com quem, por enfermidade ou deficiência mental, não tem discernimento, ou não pode oferecer resistência (ex.: embriaguez completa, sedação). O <b>consentimento</b> e a <b>experiência sexual anterior</b> da vítima menor de 14 são <b>irrelevantes</b> (Súmula 593 STJ).</li><li><b>Conjunção carnal</b> = cópula pênis-vagina. <b>Ato libidinoso</b> = qualquer ato de natureza sexual para satisfazer a lascívia (sexo oral, anal, toques).</li></ul>\n<h3>2. A perícia sexológica</h3>\n<table class=\"tab\"><thead><tr><th>Exame</th><th>O que procura</th></tr></thead><tbody><tr><td><b>Conjunção carnal</b></td><td>lesões genitais; estado do <b>hímen</b> (rotura recente: bordas avermelhadas, edemaciadas, sangrantes; antiga: cicatrizada); <b>hímen complacente</b> permite a cópula sem romper</td></tr><tr><td><b>Material biológico</b></td><td><b>espermatozoides</b> (em geral até cerca de <b>72 horas</b> na vagina), <b>fosfatase ácida</b> e <b>PSA (p30)</b> (indicam sêmen, inclusive de homem vasectomizado), <b>DNA</b> para identificar o autor</td></tr><tr><td><b>Ato libidinoso diverso</b></td><td>lesões anais, orais, marcas de mordida, secreções</td></tr><tr><td><b>Lesões extragenitais</b></td><td>equimoses nas coxas, braços, pescoço (sinais de <b>violência</b> e de <b>contenção</b>)</td></tr><tr><td>Toxicológico</td><td>álcool e drogas que reduziram a resistência (vulnerabilidade)</td></tr></tbody></table>\n<ul><li><b>Rotura himenal</b> atinge a <b>borda de inserção</b> e não regride; os <b>entalhes congênitos</b> são simétricos e não chegam à inserção.</li><li><b>Ausência de vestígios não exclui o crime</b>: muitos atos libidinosos não deixam lesões, e a palavra da vítima tem <b>especial relevância</b> nos crimes sexuais, se coerente com as demais provas.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Atendimento à vítima</h3>\n<ul><li><b>Lei 12.845/2013</b>: atendimento <b>obrigatório, imediato e integral</b> no SUS (profilaxia da gravidez e de ISTs, coleta de material, orientação). A coleta e a preservação dos vestígios no hospital devem respeitar a <b>cadeia de custódia</b>.</li><li>Vítima criança ou adolescente: <b>escuta especializada</b> e <b>depoimento especial</b> (Lei 13.431/2017). O exame de corpo de delito tem <b>prioridade</b> (CPP, art. 158, parágrafo único).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 593</b><p class=\"jc-tese\">O crime de estupro de vulnerável se configura com a conjunção carnal ou prática de ato libidinoso com menor de 14 anos, sendo irrelevante eventual consentimento da vítima para a prática do ato, sua experiência sexual anterior ou existência de relacionamento amoroso com o agente.</p><p class=\"jc-com\">A Lei 13.718/2018 incorporou esse entendimento ao art. 217-A, § 5º.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · palavra da vítima</b><p class=\"jc-tese\">Nos crimes contra a dignidade sexual, geralmente praticados na clandestinidade, a palavra da vítima tem especial relevância, desde que coerente e em consonância com os demais elementos de prova.</p><p class=\"jc-com\">Para o investigador: laudo negativo <b>não encerra</b> a investigação; busque provas indiretas (mensagens, testemunhas de contexto, vídeos, relatório psicológico).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Estupro só tem vítima mulher</span><br>✅ <span class=\"certo\">Desde 2009, qualquer pessoa pode ser vítima.</span></li><li>❌ <span class=\"banca\">Hímen íntegro prova que não houve conjunção carnal</span><br>✅ <span class=\"certo\">O hímen complacente permite cópula sem rotura.</span></li><li>❌ <span class=\"banca\">Sem espermatozoide não há prova de sêmen</span><br>✅ <span class=\"certo\">PSA e fosfatase ácida indicam sêmen, inclusive de vasectomizado.</span></li><li>❌ <span class=\"banca\">Consentimento da vítima de 13 anos afasta o crime</span><br>✅ <span class=\"certo\">É irrelevante (Súmula 593).</span></li><li>❌ <span class=\"banca\">Laudo sem lesões afasta o estupro</span><br>✅ <span class=\"certo\">A ausência de vestígios não exclui o crime.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vulnerável?</span></span><span class=\"vs\"><span><b>Menor de 14</b>, sem discernimento por doença/deficiência, ou <b>sem possibilidade de resistir</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hímen complacente?</span></span><span class=\"vs\"><span>Permite conjunção <b>sem romper</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marcadores de sêmen?</span></span><span class=\"vs\"><span><b>Espermatozoides</b>, <b>PSA (p30)</b>, <b>fosfatase ácida</b>, <b>DNA</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rotura x entalhe?</span></span><span class=\"vs\"><span><b>Rotura</b> atinge a borda de inserção; <b>entalhe</b> não.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 12.845?</span></span><span class=\"vs\"><span>Atendimento <b>obrigatório e integral</b> no SUS.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "No estupro de vulnerável praticado contra menor de 14 anos, são irrelevantes o consentimento da vítima e sua experiência sexual anterior.",
+"c": true,
+"prof": "Certo. Súmula 593 do STJ e art. 217-A, § 5º.",
+"x": "A vulnerabilidade do menor de 14 anos é objetiva.",
+"e": "Consentimento irrelevante."
+},
+{
+"p": "A integridade do hímen comprova que não houve conjunção carnal.",
+"c": false,
+"prof": "Há exceção conhecida.",
+"x": "O hímen complacente é elástico e permite a conjunção carnal sem se romper.",
+"e": "Hímen complacente."
+},
+{
+"p": "A pesquisa de PSA (antígeno prostático específico) pode indicar a presença de sêmen mesmo quando não são encontrados espermatozoides.",
+"c": true,
+"prof": "Certo.",
+"x": "Isso ocorre, por exemplo, com agressores vasectomizados. O DNA permite identificar o autor.",
+"e": "PSA indica sêmen."
+},
+{
+"p": "A ausência de lesões genitais e extragenitais no exame pericial afasta a ocorrência de estupro.",
+"c": false,
+"prof": "Vestígios podem não existir.",
+"x": "Muitos atos libidinosos não deixam lesões. A palavra da vítima, coerente com o conjunto probatório, tem especial relevância nesses crimes.",
+"e": "Sem lesão ≠ sem crime."
+},
+{
+"p": "No exame de uma vítima de estupro, o perito diferencia uma rotura himenal antiga de um entalhe congênito. O critério correto é:",
+"alts": [
+"o entalhe sempre sangra no exame",
+"a rotura atinge a borda de inserção do hímen, ao passo que o entalhe congênito não a alcança e costuma ser simétrico",
+"a rotura antiga desaparece após 30 dias",
+"o entalhe só ocorre em mulheres adultas",
+"não é possível diferenciá-los"
+],
+"r": 1,
+"n": [
+"Entalhe não sangra.",
+"Correta.",
+"A rotura cicatriza, mas não desaparece.",
+"É congênito.",
+"A perícia faz a distinção."
+],
+"prof": "A rotura \"vai até a raiz\" do hímen.",
+"x": "A rotura himenal compromete a borda de inserção e não se regenera; os entalhes congênitos são simétricos e não atingem a inserção.",
+"e": "Rotura atinge a inserção."
+},
+{
+"p": "Uma mulher foi abusada após ingerir bebida batizada com sedativo, ficando inconsciente. Juridicamente e para a perícia, assinale a alternativa correta.",
+"alts": [
+"Não há crime, pois não houve violência física",
+"Há estupro de vulnerável, pois a vítima não podia oferecer resistência, sendo útil o exame toxicológico",
+"Há apenas importunação sexual",
+"Há estupro simples, que exige lesões para ser provado",
+"O crime depende de representação, sem necessidade de perícia"
+],
+"r": 1,
+"n": [
+"A vulnerabilidade dispensa violência.",
+"Correta: art. 217-A, § 1º.",
+"É crime mais grave.",
+"O caso é de vulnerável, e lesões não são exigidas.",
+"A ação é pública incondicionada (Lei 13.718/2018), e a perícia é fundamental."
+],
+"prof": "Sem possibilidade de resistir = vulnerável.",
+"x": "Quem, por qualquer causa, não pode oferecer resistência é vulnerável. O exame toxicológico ajuda a comprovar a sedação, e o material biológico identifica o autor.",
+"e": "Vulnerável por sedação."
+}
+]
+},
+"toxicologia-psiquiatria": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>Coagulante</b><span>cáustico ácido: escara seca e dura</span></div><div class=\"lt-stat\"><b>Liquefaciente</b><span>cáustico alcalino: escara úmida e mole</span></div><div class=\"lt-stat\"><b>3</b><span>fases clássicas da embriaguez</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de dependência: física e psíquica</span></div></div>\n<h3>1. Energias de ordem química</h3>\n<ul><li><b>Cáusticos</b>: substâncias que destroem os tecidos por contato. <b>Coagulantes</b> (em geral <b>ácidos</b>: sulfúrico, nítrico) produzem <b>escaras secas, duras</b>, de bordas nítidas. <b>Liquefacientes</b> (em geral <b>bases/álcalis</b>: soda cáustica, amônia) produzem <b>escaras úmidas, moles</b>, mais profundas.</li><li>O <b>vitriolagem</b> (lançar ácido na vítima) costuma gerar <b>deformidade permanente</b> (lesão gravíssima).</li><li><b>Venenos</b>: substâncias que, introduzidas no organismo, causam dano à saúde ou morte por ação química. O <b>meio</b> insidioso qualifica o homicídio (CP, art. 121, § 2º, III). A perícia identifica o tóxico no sangue, na urina, no conteúdo gástrico e nas vísceras.</li><li>Sinais clássicos: <b>cianeto</b> (odor de amêndoas amargas, livores vermelho-vivos); <b>monóxido de carbono</b> (vermelho-cereja); <b>organofosforados</b> (miose, sialorreia, sudorese).</li></ul>\n<h3>2. Embriaguez alcoólica</h3>\n<table class=\"tab\"><thead><tr><th>Fase</th><th>Características</th></tr></thead><tbody><tr><td><b>Excitação</b> (fase do \"macaco\")</td><td>euforia, desinibição, loquacidade</td></tr><tr><td><b>Confusão</b> (fase do \"leão\")</td><td>agressividade, perda do equilíbrio e da coordenação, fala pastosa</td></tr><tr><td><b>Sono</b> / comatosa (fase do \"porco\")</td><td>sonolência, coma, risco de morte</td></tr></tbody></table>\n<ul><li>Diagnóstico: <b>dosagem</b> no sangue (alcoolemia) ou no ar expirado (etilômetro) e <b>exame clínico</b> (marcha, equilíbrio, fala, hálito, pupilas, coordenação).</li><li><b>Alcoolismo</b> é doença <b>crônica</b> (dependência); a embriaguez é <b>intoxicação aguda</b>. Complicações do alcoolismo: <b>delirium tremens</b> (abstinência), síndrome de <b>Korsakoff</b> (amnésia).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Toxicomanias (toxicofilias)</h3>\n<ul><li><b>Dependência química</b>: <b>física</b> (o organismo precisa da droga; a falta causa <b>síndrome de abstinência</b>) e <b>psíquica</b> (desejo compulsivo, craving). <b>Tolerância</b>: necessidade de doses maiores para o mesmo efeito.</li><li>Classificação das drogas pela ação no sistema nervoso: <b>depressoras</b> (álcool, opioides, benzodiazepínicos), <b>estimulantes</b> (cocaína, crack, anfetaminas) e <b>perturbadoras/alucinógenas</b> (LSD, maconha em parte, ecstasy com efeitos mistos).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Ácidos produzem escaras úmidas e moles</span><br>✅ <span class=\"certo\">Ácidos (coagulantes) produzem escaras SECAS e duras; bases, úmidas e moles.</span></li><li>❌ <span class=\"banca\">Embriaguez e alcoolismo são a mesma coisa</span><br>✅ <span class=\"certo\">Embriaguez = intoxicação aguda; alcoolismo = doença crônica.</span></li><li>❌ <span class=\"banca\">Odor de amêndoas amargas indica CO</span><br>✅ <span class=\"certo\">Indica CIANETO.</span></li><li>❌ <span class=\"banca\">Tolerância é o mesmo que abstinência</span><br>✅ <span class=\"certo\">Tolerância = precisar de doses maiores; abstinência = sintomas na falta.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico ácido?</span></span><span class=\"vs\"><span><b>Coagulante</b>: escara <b>seca e dura</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico alcalino?</span></span><span class=\"vs\"><span><b>Liquefaciente</b>: escara <b>úmida e mole</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases da embriaguez?</span></span><span class=\"vs\"><span><b>Excitação</b>, <b>confusão</b>, <b>sono/coma</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Amêndoas amargas?</span></span><span class=\"vs\"><span><b>Cianeto</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dependência física?</span></span><span class=\"vs\"><span>Falta da droga gera <b>abstinência</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Os cáusticos coagulantes, como os ácidos, produzem escaras secas e endurecidas.",
+"c": true,
+"prof": "Certo.",
+"x": "Os cáusticos liquefacientes, como as bases (soda cáustica), produzem escaras úmidas e moles.",
+"e": "Ácido: escara seca."
+},
+{
+"p": "O alcoolismo e a embriaguez são expressões sinônimas, ambas indicando intoxicação aguda pelo álcool.",
+"c": false,
+"prof": "São conceitos distintos.",
+"x": "A embriaguez é a intoxicação aguda; o alcoolismo é a dependência crônica, uma doença.",
+"e": "Embriaguez ≠ alcoolismo."
+},
+{
+"p": "A tolerância consiste na necessidade de doses progressivamente maiores da substância para obter o mesmo efeito.",
+"c": true,
+"prof": "Certo.",
+"x": "A síndrome de abstinência, por sua vez, decorre da interrupção do uso na dependência física.",
+"e": "Tolerância."
+},
+{
+"p": "Uma vítima teve o rosto atingido por soda cáustica, apresentando lesões úmidas, moles e profundas. Do ponto de vista médico-legal, trata-se de:",
+"alts": [
+"cáustico coagulante",
+"cáustico liquefaciente",
+"energia de ordem física por calor",
+"asfixia por gases",
+"energia biodinâmica"
+],
+"r": 1,
+"n": [
+"Coagulantes (ácidos) dão escaras secas.",
+"Correta.",
+"Não é calor.",
+"Não há asfixia.",
+"Não é o caso."
+],
+"prof": "Base = liquefaz.",
+"x": "Os álcalis (como a soda cáustica) são liquefacientes, produzindo escaras úmidas, moles e mais profundas, frequentemente com deformidade permanente.",
+"e": "Soda = liquefaciente."
+},
+{
+"p": "Em exame clínico de embriaguez, o periciando apresenta agressividade, fala pastosa, marcha cambaleante e incoordenação motora, mas está acordado. Segundo a classificação clássica, encontra-se na fase:",
+"alts": [
+"de excitação",
+"de confusão",
+"de sono ou coma",
+"de abstinência",
+"de tolerância"
+],
+"r": 1,
+"n": [
+"Excitação é euforia e desinibição.",
+"Correta.",
+"Haveria sonolência ou coma.",
+"Não é fase da embriaguez.",
+"Não é fase da embriaguez."
+],
+"prof": "Leão: bravo e desequilibrado.",
+"x": "A fase de confusão caracteriza-se por agressividade, perturbação do equilíbrio e da coordenação e fala arrastada.",
+"e": "Confusão."
+}
+]
+}
+},
+"criminologia": {
+"conceito": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>questões de Criminologia na prova de Investigador</span></div><div class=\"lt-stat\"><b>4</b><span>objetos: delito, delinquente, vítima e controle social</span></div><div class=\"lt-stat\"><b>Empírico</b><span>método da Criminologia (indutivo e interdisciplinar)</span></div><div class=\"lt-stat\"><b>3</b><span>ciências do \"modelo integrado\": Criminologia, Política Criminal e Direito Penal</span></div></div>\n<h3>1. Criminologia como ciência</h3>\n<ul><li>A Criminologia é a <b>ciência empírica e interdisciplinar</b> que estuda o <b>crime</b>, o <b>criminoso</b>, a <b>vítima</b> e o <b>controle social</b> do comportamento desviado, buscando informação válida sobre a gênese, a dinâmica e as variáveis do crime, para <b>preveni-lo</b> e <b>intervir</b> nele (definição consagrada por García-Pablos de Molina).</li><li><b>Empírica</b>: baseia-se na <b>observação</b> da realidade (ciência do <b>ser</b>). <b>Interdisciplinar</b>: integra sociologia, psicologia, biologia, psiquiatria, estatística, direito.</li></ul>\n<table class=\"tab\"><thead><tr><th>; Criminologia</th><th>Direito Penal</th></tr></thead><tbody><tr><td>Natureza</td><td>ciência do <b>ser</b> (fatos)</td><td>ciência do <b>dever ser</b> (normas)</td></tr><tr><td>Método</td><td><b>empírico</b>, <b>indutivo</b> (do caso para a regra)</td><td><b>normativo</b>, <b>dedutivo</b> (da norma para o caso)</td></tr><tr><td>Pergunta</td><td><b>por que</b> e <b>como</b> o crime acontece</td><td><b>o que</b> é crime e <b>qual</b> a pena</td></tr></tbody></table>\n<h3>2. Objeto</h3>\n<ul><li><b>Delito</b>: para a Criminologia, não é só o fato típico; é <b>problema social e comunitário</b> (com incidência massiva, aflitiva, persistente e com consenso sobre a necessidade de enfrentá-lo).</li><li><b>Delinquente</b>: o ser humano real, analisado sob várias óticas (o \"pecador\" dos clássicos, o \"doente/anormal\" dos positivistas, o ser condicionado pela sociedade das teorias sociológicas).</li><li><b>Vítima</b>: redescoberta a partir da Segunda Guerra (Vitimologia).</li><li><b>Controle social</b>: conjunto de mecanismos que buscam a conformidade às normas. <b>Informal</b>: família, escola, igreja, vizinhança, opinião pública. <b>Formal</b>: <b>polícia</b>, Ministério Público, Judiciário, sistema prisional. O controle formal atua quando o informal falha, e é <b>seletivo</b>.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Método, sistema e funções</h3>\n<ul><li><b>Método</b>: empírico, indutivo, com técnicas <b>quantitativas</b> (estatísticas, pesquisas de vitimização) e <b>qualitativas</b> (entrevistas, observação).</li><li><b>Sistema</b>: o \"<b>modelo integrado</b>\" de ciências criminais (a \"ciência total do direito penal\" de <b>Franz von Liszt</b>): a <b>Criminologia</b> fornece o conhecimento da realidade; a <b>Política Criminal</b> transforma esse conhecimento em <b>estratégias</b> e propostas de reforma; o <b>Direito Penal</b> converte as opções em <b>normas</b>.</li><li><b>Funções</b>: <b>informar</b> a sociedade e os poderes públicos sobre o crime; <b>prevenir</b> o delito (mais que reprimir); <b>intervir</b> na pessoa do infrator e na vítima; avaliar a eficácia das respostas penais.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Criminologia é ciência normativa</span><br>✅ <span class=\"certo\">É ciência EMPÍRICA (do ser); normativo é o Direito Penal.</span></li><li>❌ <span class=\"banca\">O método da Criminologia é dedutivo</span><br>✅ <span class=\"certo\">É INDUTIVO e empírico.</span></li><li>❌ <span class=\"banca\">A polícia é controle social informal</span><br>✅ <span class=\"certo\">Polícia é controle FORMAL.</span></li><li>❌ <span class=\"banca\">O objeto da Criminologia é só o criminoso</span><br>✅ <span class=\"certo\">Delito, delinquente, vítima e controle social.</span></li><li>❌ <span class=\"banca\">Política Criminal e Criminologia são a mesma coisa</span><br>✅ <span class=\"certo\">A Política Criminal transforma o conhecimento criminológico em estratégias.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Criminologia é?</span></span><span class=\"vs\"><span>Ciência <b>empírica</b> e <b>interdisciplinar</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Objetos?</span></span><span class=\"vs\"><span><b>Delito, delinquente, vítima, controle social</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Controle formal x informal?</span></span><span class=\"vs\"><span><b>Formal</b>: polícia, MP, juiz, prisão. <b>Informal</b>: família, escola, igreja, comunidade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Método?</span></span><span class=\"vs\"><span><b>Empírico, indutivo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Modelo integrado?</span></span><span class=\"vs\"><span>Criminologia → <b>Política Criminal</b> → Direito Penal.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "A Criminologia é ciência empírica e interdisciplinar, que tem por objeto o delito, o delinquente, a vítima e o controle social.",
+"c": true,
+"prof": "Certo.",
+"x": "É a definição consagrada por García-Pablos de Molina, muito usada pela FGV.",
+"e": "Quatro objetos."
+},
+{
+"p": "A Criminologia, assim como o Direito Penal, é ciência normativa, que utiliza o método dedutivo.",
+"c": false,
+"prof": "São ciências de natureza diferente.",
+"x": "A Criminologia é ciência do ser, empírica e indutiva; o Direito Penal é ciência do dever ser, normativa e dedutiva.",
+"e": "Criminologia: empírica."
+},
+{
+"p": "A polícia integra as instâncias formais de controle social.",
+"c": true,
+"prof": "Certo.",
+"x": "Família, escola, igreja e comunidade são instâncias informais.",
+"e": "Polícia = formal."
+},
+{
+"p": "A Política Criminal é ramo do Direito Penal destinado a interpretar os tipos penais.",
+"c": false,
+"prof": "A função é outra.",
+"x": "A Política Criminal transforma o conhecimento empírico da Criminologia em estratégias e propostas de reforma legislativa e de ação estatal.",
+"e": "Política Criminal = estratégia."
+},
+{
+"p": "Sobre a Criminologia, assinale a afirmativa correta.",
+"alts": [
+"Utiliza o método dedutivo, partindo da norma para o caso concreto.",
+"Seu objeto restringe-se ao fato típico, ilícito e culpável.",
+"É ciência empírica e interdisciplinar, que se vale de métodos quantitativos e qualitativos para conhecer a realidade criminal.",
+"Dispensa o estudo da vítima, objeto exclusivo do Direito Penal.",
+"Estuda apenas o controle social informal."
+],
+"r": 2,
+"n": [
+"Esse é o método do Direito Penal.",
+"O delito, para a Criminologia, é problema social.",
+"Correta.",
+"A vítima é objeto da Criminologia.",
+"Estuda os controles formal e informal."
+],
+"prof": "Empírica = observa a realidade com números e entrevistas.",
+"x": "A Criminologia busca conhecer a realidade criminal pela observação, com técnicas quantitativas (estatísticas, pesquisas de vitimização) e qualitativas.",
+"e": "Empírica e interdisciplinar."
+},
+{
+"p": "No chamado modelo integrado das ciências criminais, a função de transformar o conhecimento sobre o crime em estratégias e opções de intervenção cabe:",
+"alts": [
+"à Criminologia",
+"à Política Criminal",
+"ao Direito Penal",
+"à Medicina Legal",
+"à Vitimologia"
+],
+"r": 1,
+"n": [
+"Fornece o conhecimento empírico.",
+"Correta.",
+"Converte as opções em normas.",
+"Ciência auxiliar pericial.",
+"Ramo da Criminologia que estuda a vítima."
+],
+"prof": "Conhecer (Criminologia) → escolher (Política Criminal) → normatizar (Direito Penal).",
+"x": "A Política Criminal é a ponte entre o saber empírico da Criminologia e a normatização do Direito Penal.",
+"e": "Política Criminal."
+}
+]
+},
+"escolas": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1764</b><span>\"Dos Delitos e das Penas\", de Beccaria</span></div><div class=\"lt-stat\"><b>1876</b><span>\"O Homem Delinquente\", de Lombroso</span></div><div class=\"lt-stat\"><b>3</b><span>nomes do positivismo: Lombroso, Ferri e Garofalo</span></div><div class=\"lt-stat\"><b>Livre-arbítrio x determinismo</b><span>divisor entre clássicos e positivistas</span></div></div>\n<h3>1. Precursores e Iluminismo</h3>\n<ul><li><b>Fisiognomonia</b> (Della Porta, Lavater: o caráter revelado pelo rosto) e <b>frenologia</b> (Gall: o formato do crânio refletiria faculdades mentais) anteciparam a busca de causas biológicas.</li><li><b>Estatística moral</b> (<b>Quetelet</b> e Guerry, séc. XIX): o crime apresenta <b>regularidades</b> (por idade, sexo, estação do ano), o que indica causas sociais.</li><li><b>Iluminismo</b>: contrato social, legalidade, humanização das penas. <b>John Howard</b> e <b>Bentham</b> (Panóptico) influenciaram o penitenciarismo.</li></ul>\n<h3>2. Escola Clássica</h3>\n<ul><li>Expoentes: <b>Cesare Beccaria</b> (\"Dos Delitos e das Penas\", <b>1764</b>) e <b>Francesco Carrara</b> (crime como <b>ente jurídico</b>). Também Feuerbach, Romagnosi.</li><li>Ideias: o homem age com <b>livre-arbítrio</b> e é <b>racional</b>; o crime é <b>violação do contrato social</b>; a pena deve ser <b>legal</b>, <b>proporcional</b>, <b>pronta</b> e <b>certa</b> (\"a certeza da punição dissuade mais que a severidade\"); contra a tortura e a pena de morte (Beccaria). Método <b>dedutivo</b>, lógico-abstrato. O foco é o <b>fato</b>, não o autor.</li></ul>\n<h3>3. Escola Positiva (positivismo criminológico)</h3>\n<table class=\"tab\"><thead><tr><th>Autor</th><th>Ênfase</th><th>Ideias-chave</th></tr></thead><tbody><tr><td><b>Cesare Lombroso</b></td><td><b>antropológica/biológica</b></td><td>\"<b>O Homem Delinquente</b>\" (1876); <b>criminoso nato</b> com estigmas físicos; <b>atavismo</b> (regressão evolutiva); estudo empírico de presos</td></tr><tr><td><b>Enrico Ferri</b></td><td><b>sociológica</b></td><td>\"Sociologia Criminal\"; fatores <b>antropológicos, físicos e sociais</b>; classificação dos criminosos (nato, louco, habitual, ocasional, passional); <b>substitutivos penais</b> (prevenção social)</td></tr><tr><td><b>Raffaele Garofalo</b></td><td><b>jurídica/psicológica</b></td><td>usou o termo \"<b>Criminologia</b>\" (1885); <b>delito natural</b> (ofensa aos sentimentos de <b>piedade e probidade</b>); <b>temibilidade</b> (periculosidade) como medida da reação</td></tr></tbody></table>\n<ul><li>Ideias comuns: <b>determinismo</b> (o crime tem causas, não é escolha livre), <b>método empírico-indutivo</b>, foco no <b>autor</b> e na <b>periculosidade</b>, defesa social; a pena vira <b>tratamento</b> ou <b>medida de segurança</b>.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>4. Escolas intermediárias e o legado</h3>\n<ul><li><b>Terza Scuola</b> italiana (Carnevale, Alimena): conciliou clássicos e positivistas (responsabilidade moral + causas do crime). <b>Escola de Política Criminal</b> (von Liszt): pena com finalidade preventiva especial.</li><li>O CP brasileiro de 1940 reflete o embate: culpabilidade e livre-arbítrio (clássico) convivendo com <b>medida de segurança</b> e periculosidade (positivista).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Lombroso é o pai da Escola Clássica</span><br>✅ <span class=\"certo\">Lombroso é positivista; Beccaria é clássico.</span></li><li>❌ <span class=\"banca\">Os clássicos adotavam o determinismo</span><br>✅ <span class=\"certo\">Clássicos: livre-arbítrio; positivistas: determinismo.</span></li><li>❌ <span class=\"banca\">Garofalo criou a figura do criminoso nato</span><br>✅ <span class=\"certo\">Criminoso nato é de Lombroso; Garofalo: delito natural e temibilidade.</span></li><li>❌ <span class=\"banca\">Ferri defendia apenas causas biológicas</span><br>✅ <span class=\"certo\">Ferri deu ênfase a fatores SOCIAIS (sociologia criminal).</span></li><li>❌ <span class=\"banca\">O método clássico era empírico</span><br>✅ <span class=\"certo\">Era dedutivo, lógico-abstrato; o empírico é positivista.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Beccaria?</span></span><span class=\"vs\"><span><b>Escola Clássica</b>; \"Dos Delitos e das Penas\" (<b>1764</b>); proporcionalidade e certeza da pena.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lombroso?</span></span><span class=\"vs\"><span><b>Criminoso nato</b>, <b>atavismo</b>, \"O Homem Delinquente\" (<b>1876</b>).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ferri?</span></span><span class=\"vs\"><span><b>Sociologia criminal</b>, substitutivos penais.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Garofalo?</span></span><span class=\"vs\"><span><b>Delito natural</b>, <b>temibilidade</b>; termo \"Criminologia\".</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Clássicos x positivistas?</span></span><span class=\"vs\"><span><b>Livre-arbítrio</b>/fato x <b>determinismo</b>/autor.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Para a Escola Clássica, o crime decorre do livre-arbítrio do agente, e a pena deve ser proporcional ao fato praticado.",
+"c": true,
+"prof": "Certo.",
+"x": "Beccaria e Carrara viam o homem como racional e o crime como violação do contrato social (Carrara: ente jurídico).",
+"e": "Clássicos: livre-arbítrio."
+},
+{
+"p": "Cesare Beccaria, autor de \"O Homem Delinquente\", desenvolveu a teoria do criminoso nato.",
+"c": false,
+"prof": "Autor e obra trocados.",
+"x": "\"O Homem Delinquente\" (1876) é de Cesare Lombroso, que formulou a ideia do criminoso nato. Beccaria escreveu \"Dos Delitos e das Penas\" (1764).",
+"e": "Lombroso: criminoso nato."
+},
+{
+"p": "Raffaele Garofalo formulou o conceito de delito natural, ligado à ofensa aos sentimentos de piedade e probidade.",
+"c": true,
+"prof": "Certo.",
+"x": "Garofalo também defendeu a temibilidade (periculosidade) como critério da reação penal.",
+"e": "Garofalo: delito natural."
+},
+{
+"p": "Enrico Ferri limitou a explicação do crime a fatores exclusivamente biológicos, rejeitando a influência do meio social.",
+"c": false,
+"prof": "Ferri é o contrário disso.",
+"x": "Ferri destacou os fatores sociais (além dos antropológicos e físicos) e propôs os substitutivos penais, medidas de prevenção social.",
+"e": "Ferri: fatores sociais."
+},
+{
+"p": "Assinale a alternativa que associa corretamente o autor e a sua contribuição.",
+"alts": [
+"Beccaria – criminoso nato e atavismo",
+"Lombroso – delito como ente jurídico",
+"Ferri – sociologia criminal e substitutivos penais",
+"Carrara – temibilidade do delinquente",
+"Garofalo – Dos Delitos e das Penas"
+],
+"r": 2,
+"n": [
+"Lombroso.",
+"Carrara.",
+"Correta.",
+"Garofalo.",
+"Beccaria."
+],
+"prof": "Monte um quadro autor-ideia e revise na véspera.",
+"x": "Ferri desenvolveu a sociologia criminal, com fatores antropológicos, físicos e sociais, e os substitutivos penais (prevenção social).",
+"e": "Ferri: sociologia criminal."
+},
+{
+"p": "A afirmação \"não é a severidade das penas que mais previne os crimes, mas a certeza da punição\" sintetiza o pensamento de:",
+"alts": [
+"Lombroso",
+"Beccaria",
+"Garofalo",
+"Ferri",
+"Durkheim"
+],
+"r": 1,
+"n": [
+"Positivista biológico.",
+"Correta.",
+"Positivista.",
+"Positivista.",
+"Sociólogo do séc. XIX-XX."
+],
+"prof": "Certeza > severidade = Iluminismo penal.",
+"x": "Beccaria, em \"Dos Delitos e das Penas\", defendeu penas proporcionais, prontas e certas, e criticou a crueldade inútil.",
+"e": "Beccaria."
+}
+]
+},
+"teorias-sociologicas": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>modos de adaptação de Merton</span></div><div class=\"lt-stat\"><b>1938</b><span>\"Estrutura Social e Anomia\", de Merton</span></div><div class=\"lt-stat\"><b>1955</b><span>\"Delinquent Boys\", de Albert Cohen (subculturas)</span></div><div class=\"lt-stat\"><b>5</b><span>técnicas de neutralização (Sykes e Matza)</span></div></div>\n<h3>1. Os modelos da Criminologia científica moderna</h3>\n<table class=\"tab\"><thead><tr><th>Modelo</th><th>Explica o crime por</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Biológico</b></td><td>fatores orgânicos</td><td>antropologia criminal, endocrinologia, genética, neurociências</td></tr><tr><td><b>Psicológico</b></td><td>fatores mentais e de personalidade</td><td>psicanálise (Freud: crime por sentimento de culpa), <b>psicopatia</b> (Cleckley, Hare), aprendizagem social</td></tr><tr><td><b>Sociológico</b></td><td>estrutura e processos sociais</td><td>Escola de Chicago, anomia, subculturas, associação diferencial, labelling</td></tr></tbody></table>\n<ul><li>As teorias sociológicas se dividem em <b>teorias do consenso</b> (a sociedade compartilha valores; o crime é <b>disfunção</b>) e <b>teorias do conflito</b> (a sociedade é marcada por disputa de <b>poder</b>; o crime é <b>definido</b> pelos grupos dominantes).</li></ul>\n<h3>2. Teorias do consenso</h3>\n<table class=\"tab\"><thead><tr><th>Teoria</th><th>Autores</th><th>Ideia central</th></tr></thead><tbody><tr><td><b>Escola de Chicago</b> (ecologia criminal)</td><td>Park, Burgess, Shaw e McKay</td><td>cidade em <b>zonas concêntricas</b>; a <b>zona de transição</b> concentra crime por <b>desorganização social</b>; o crime está ligado ao lugar, não às pessoas</td></tr><tr><td><b>Associação diferencial</b></td><td><b>Edwin Sutherland</b></td><td>o crime é <b>aprendido</b> na interação com grupos próximos; criou o conceito de <b>crime do colarinho branco</b></td></tr><tr><td><b>Anomia / estrutural-funcionalista</b></td><td><b>Durkheim</b> e <b>Merton</b></td><td>Durkheim: o crime é <b>normal</b> e até <b>funcional</b>; anomia = ausência de normas. Merton: <b>tensão</b> entre <b>metas culturais</b> (sucesso) e <b>meios institucionalizados</b> de alcançá-las</td></tr><tr><td><b>Subculturas criminais</b></td><td><b>Albert Cohen</b>; Cloward e Ohlin</td><td>jovens de classes baixas, frustrados, criam <b>valores próprios</b> (não utilitários, maliciosos, negativistas); oportunidades ilegítimas também são desiguais</td></tr><tr><td>Controle social (vínculos)</td><td>Travis Hirschi</td><td>o crime ocorre quando enfraquecem os <b>vínculos</b>: apego, compromisso, envolvimento e crença</td></tr><tr><td><b>Neutralização</b></td><td>Sykes e Matza</td><td>o infrator justifica a conduta: nega a <b>responsabilidade</b>, o <b>dano</b>, a <b>vítima</b>, <b>condena os condenadores</b> e <b>apela a lealdades superiores</b></td></tr></tbody></table>\n<div class=\"lt-pare\"></div>\n<h3>3. Os modos de adaptação de Merton</h3>\n<table class=\"tab\"><thead><tr><th>Modo</th><th>Metas culturais</th><th>Meios institucionais</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Conformidade</b></td><td>aceita</td><td>aceita</td><td>trabalhador comum</td></tr><tr><td><b>Inovação</b></td><td>aceita</td><td><b>rejeita</b></td><td>quem busca riqueza por <b>meios ilícitos</b> (furto, fraude, tráfico)</td></tr><tr><td><b>Ritualismo</b></td><td>rejeita/abandona</td><td>aceita</td><td>burocrata que cumpre regras sem objetivo</td></tr><tr><td><b>Retraimento (evasão)</b></td><td>rejeita</td><td>rejeita</td><td>dependentes químicos, moradores de rua</td></tr><tr><td><b>Rebelião</b></td><td>substitui por novas</td><td>substitui por novos</td><td>movimentos revolucionários</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para Merton, o crime patrimonial típico é <b>inovação</b>: a pessoa <b>quer o sucesso</b> (meta) mas <b>usa meios ilegítimos</b>.</div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · Escola de Chicago e prevenção</b><p class=\"jc-tese\">A ideia de que o crime se concentra em lugares desorganizados inspirou a <b>prevenção situacional</b>, o <b>CPTED</b> (prevenção pelo desenho urbano) e o policiamento de <b>hot spots</b>.</p><p class=\"jc-com\">Questões da FGV costumam ligar a ecologia criminal a políticas de iluminação, ocupação de espaços públicos e revitalização urbana.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Para Durkheim, o crime é sempre patológico</span><br>✅ <span class=\"certo\">Para Durkheim, o crime é NORMAL e pode ser funcional.</span></li><li>❌ <span class=\"banca\">Na inovação, o indivíduo rejeita as metas</span><br>✅ <span class=\"certo\">Rejeita os MEIOS e mantém as metas.</span></li><li>❌ <span class=\"banca\">Sutherland explicava o crime pela pobreza</span><br>✅ <span class=\"certo\">Pelo APRENDIZADO (associação diferencial), inclusive no colarinho branco.</span></li><li>❌ <span class=\"banca\">A Escola de Chicago é teoria do conflito</span><br>✅ <span class=\"certo\">É teoria do CONSENSO (ecologia criminal).</span></li><li>❌ <span class=\"banca\">A subcultura delinquente é utilitária</span><br>✅ <span class=\"certo\">Cohen a descreve como não utilitária, maliciosa e negativista.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Escola de Chicago?</span></span><span class=\"vs\"><span><b>Ecologia criminal</b>; zonas concêntricas; <b>desorganização social</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sutherland?</span></span><span class=\"vs\"><span><b>Associação diferencial</b>; <b>colarinho branco</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Merton?</span></span><span class=\"vs\"><span><b>Anomia</b> como tensão entre <b>metas</b> e <b>meios</b>; 5 modos de adaptação.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Inovação?</span></span><span class=\"vs\"><span>Mantém metas, <b>rejeita meios</b> legítimos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Albert Cohen?</span></span><span class=\"vs\"><span><b>Subculturas</b> delinquentes.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Técnicas de neutralização?</span></span><span class=\"vs\"><span><b>Sykes e Matza</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Para Robert Merton, a anomia resulta da tensão entre as metas culturais valorizadas pela sociedade e os meios institucionalizados disponíveis para alcançá-las.",
+"c": true,
+"prof": "Certo.",
+"x": "A teoria estrutural-funcionalista da anomia explica o crime como uma das formas de adaptação a essa tensão.",
+"e": "Merton: metas x meios."
+},
+{
+"p": "Na tipologia de Merton, a inovação caracteriza-se pela rejeição das metas culturais e pela aceitação dos meios institucionalizados.",
+"c": false,
+"prof": "Essa é a descrição do ritualismo.",
+"x": "Na inovação, o indivíduo aceita as metas (sucesso) e rejeita os meios legítimos, buscando-as por meios ilícitos.",
+"e": "Inovação: metas sim, meios não."
+},
+{
+"p": "A teoria da associação diferencial, de Sutherland, sustenta que o comportamento criminoso é aprendido na interação com outras pessoas.",
+"c": true,
+"prof": "Certo.",
+"x": "Sutherland também cunhou a expressão \"crime do colarinho branco\", mostrando que o crime não é exclusivo das classes pobres.",
+"e": "Crime é aprendido."
+},
+{
+"p": "A Escola de Chicago integra as teorias do conflito, pois explica o crime pela luta de classes.",
+"c": false,
+"prof": "Classificação errada.",
+"x": "A Escola de Chicago é teoria do consenso, que explica o crime pela desorganização social em determinadas áreas da cidade (ecologia criminal).",
+"e": "Chicago: consenso."
+},
+{
+"p": "A teoria das subculturas criminais, de Albert Cohen, explica a delinquência juvenil pela formação de grupos com valores próprios, em reação à frustração de jovens das classes baixas.",
+"c": true,
+"prof": "Certo.",
+"x": "Cohen descreve a subcultura delinquente como não utilitária, maliciosa e negativista.",
+"e": "Subculturas."
+},
+{
+"p": "Um jovem deseja ter carro e roupas de marca, valores difundidos pela publicidade, mas, sem acesso a emprego, passa a praticar furtos. Segundo a tipologia de Merton, sua conduta corresponde à:",
+"alts": [
+"conformidade",
+"inovação",
+"ritualismo",
+"retraimento",
+"rebelião"
+],
+"r": 1,
+"n": [
+"Ele não usa meios legítimos.",
+"Correta.",
+"O ritualista abandona as metas.",
+"O retraído rejeita metas e meios.",
+"O rebelde quer substituir o sistema."
+],
+"prof": "Quer o sucesso, mas pelo atalho ilícito.",
+"x": "Na inovação, a pessoa internaliza as metas culturais (consumo, sucesso), mas rejeita os meios institucionalizados, recorrendo a meios ilícitos.",
+"e": "Inovação."
+},
+{
+"p": "Um empresário preso por fraude afirma: \"Não prejudiquei ninguém, o banco é rico e tem seguro\". Segundo Sykes e Matza, ele usa a técnica de neutralização denominada:",
+"alts": [
+"negação da responsabilidade",
+"negação do dano",
+"condenação dos condenadores",
+"apelo a lealdades superiores",
+"inovação"
+],
+"r": 1,
+"n": [
+"Seria \"não foi culpa minha\".",
+"Correta.",
+"Seria atacar quem o julga.",
+"Seria agir em nome do grupo.",
+"É conceito de Merton."
+],
+"prof": "\"Ninguém se feriu\" = negação do dano.",
+"x": "As técnicas de neutralização permitem ao infrator justificar o ato sem abandonar os valores convencionais. Negar o dano é minimizar o prejuízo causado.",
+"e": "Negação do dano."
+}
+]
+},
+"vitimologia": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1948</b><span>\"O Criminoso e sua Vítima\", de von Hentig</span></div><div class=\"lt-stat\"><b>3</b><span>tipos de vitimização: primária, secundária e terciária</span></div><div class=\"lt-stat\"><b>5</b><span>classes de vítimas de Mendelsohn</span></div><div class=\"lt-stat\"><b>3</b><span>níveis de prevenção: primária, secundária e terciária</span></div></div>\n<h3>1. Vitimologia</h3>\n<ul><li>Estuda a <b>vítima</b>: sua personalidade, seu papel na dinâmica do crime, os efeitos do crime sobre ela e a resposta do Estado. A redescoberta da vítima ganhou força após a <b>Segunda Guerra</b>.</li><li><b>Benjamin Mendelsohn</b> (considerado o pai da Vitimologia) e <b>Hans von Hentig</b> (\"<b>O Criminoso e sua Vítima</b>\", <b>1948</b>) são os pioneiros.</li></ul>\n<table class=\"tab\"><thead><tr><th>Mendelsohn: classificação</th><th>Exemplo</th></tr></thead><tbody><tr><td>Vítima <b>completamente inocente</b> (ideal)</td><td>criança atingida por bala perdida</td></tr><tr><td>Vítima <b>menos culpada</b> que o infrator (por ignorância)</td><td>quem cai em golpe por imprudência leve</td></tr><tr><td>Vítima <b>tão culpada quanto</b> o infrator (voluntária)</td><td>pacto de morte, roleta-russa</td></tr><tr><td>Vítima <b>mais culpada</b> que o infrator (provocadora, imprudente)</td><td>quem provoca a agressão</td></tr><tr><td>Vítima <b>unicamente culpada</b></td><td>vítima agressora (morta em legítima defesa), <b>simuladora</b> ou <b>imaginária</b></td></tr></tbody></table>\n<h3>2. Vitimização</h3>\n<ul><li><b>Primária</b>: o dano causado <b>diretamente pelo crime</b> (físico, psicológico, patrimonial).</li><li><b>Secundária</b> (sobrevitimização): o sofrimento causado pelas <b>instâncias formais de controle</b> — <b>polícia</b>, MP, Judiciário — ao tratar a vítima com descaso, desconfiança, perguntas repetidas e exposição. É a <b>revitimização</b> institucional.</li><li><b>Terciária</b>: o sofrimento causado pela <b>família, pelo grupo social e pela comunidade</b> (estigma, culpabilização), ou a falta de amparo após o crime.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · Lei 14.321/2022 (violência institucional)</b><p class=\"jc-tese\">Constitui crime submeter a vítima de infração penal ou testemunha de crimes violentos a procedimentos desnecessários, repetitivos ou invasivos, que a levem a reviver a situação de violência ou estigmatização (art. 15-A da Lei 13.869/2019).</p><p class=\"jc-com\">É a <b>vitimização secundária</b> transformada em crime. Na delegacia: ouça uma vez, bem, em local reservado; evite perguntas sobre a vida pregressa da vítima sem relação com o fato (Lei 14.245/2021, \"Lei Mariana Ferrer\", também protege a dignidade da vítima em audiências).</p></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Cifra negra e prevenção do delito</h3>\n<ul><li><b>Cifra negra</b> (oculta): crimes que <b>não chegam ao conhecimento</b> do sistema (não notificados) ou não são registrados; medida por <b>pesquisas de vitimização</b>. <b>Cifra dourada</b>: crimes das elites (colarinho branco) que escapam ao controle. Contribuem para a cifra negra: medo, descrédito na polícia, vergonha, crimes sem vítima direta.</li></ul>\n<table class=\"tab\"><thead><tr><th>Prevenção</th><th>Alvo</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Primária</b></td><td>a sociedade, nas <b>raízes</b> do crime</td><td>educação, emprego, moradia, saúde, urbanização</td></tr><tr><td><b>Secundária</b></td><td>grupos e <b>áreas de risco</b>, onde o crime se manifesta</td><td><b>policiamento</b>, iluminação, controle de armas, programas para jovens em risco</td></tr><tr><td><b>Terciária</b></td><td>a <b>população presa</b> / o infrator</td><td>ressocialização, trabalho e estudo no cárcere, evitar a <b>reincidência</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Vitimização secundária é a causada pelo crime</span><br>✅ <span class=\"certo\">Primária é a do crime; secundária, a das instâncias formais (polícia, Justiça).</span></li><li>❌ <span class=\"banca\">Vitimização terciária é causada pela polícia</span><br>✅ <span class=\"certo\">Terciária: família, grupo social, comunidade.</span></li><li>❌ <span class=\"banca\">Prevenção primária atua no preso</span><br>✅ <span class=\"certo\">Primária atua nas raízes sociais; terciária, no preso.</span></li><li>❌ <span class=\"banca\">Policiamento ostensivo é prevenção primária</span><br>✅ <span class=\"certo\">É prevenção SECUNDÁRIA.</span></li><li>❌ <span class=\"banca\">Cifra negra são crimes registrados e não solucionados</span><br>✅ <span class=\"certo\">São crimes que NÃO chegam ao conhecimento oficial.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pai da Vitimologia?</span></span><span class=\"vs\"><span><b>Mendelsohn</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Von Hentig?</span></span><span class=\"vs\"><span>\"<b>O Criminoso e sua Vítima</b>\" (1948).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vitimização secundária?</span></span><span class=\"vs\"><span>Causada pelas <b>instâncias formais</b> (polícia, Justiça).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vitimização terciária?</span></span><span class=\"vs\"><span><b>Família, grupo, comunidade</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prevenção secundária?</span></span><span class=\"vs\"><span>Grupos e <b>áreas de risco</b>; policiamento.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cifra negra?</span></span><span class=\"vs\"><span>Crimes <b>não comunicados</b> ou não registrados.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "A vitimização secundária decorre do tratamento inadequado dispensado à vítima pelas instâncias formais de controle social, como a polícia e o Judiciário.",
+"c": true,
+"prof": "Certo.",
+"x": "É a revitimização institucional, hoje também tipificada como crime de violência institucional (Lei 14.321/2022).",
+"e": "Secundária: instâncias formais."
+},
+{
+"p": "A vitimização terciária é o dano causado diretamente pela prática do crime.",
+"c": false,
+"prof": "Confusão de conceitos.",
+"x": "O dano direto do crime é a vitimização primária. A terciária vem da família, do grupo social ou da comunidade (estigma, abandono).",
+"e": "Primária = crime."
+},
+{
+"p": "A prevenção terciária volta-se à população presa e tem por objetivo evitar a reincidência.",
+"c": true,
+"prof": "Certo.",
+"x": "A primária atua nas causas sociais do crime; a secundária, em grupos e áreas de risco.",
+"e": "Terciária: preso."
+},
+{
+"p": "O policiamento ostensivo em áreas de alta incidência criminal é exemplo de prevenção primária.",
+"c": false,
+"prof": "Nível errado.",
+"x": "Ações focadas em áreas e grupos de risco, como o policiamento, são prevenção secundária.",
+"e": "Policiamento: secundária."
+},
+{
+"p": "Uma vítima de estupro é ouvida quatro vezes na delegacia, por policiais diferentes, com perguntas sobre sua roupa e sua vida sexual anterior. Esse fenômeno é denominado:",
+"alts": [
+"vitimização primária",
+"vitimização secundária",
+"vitimização terciária",
+"cifra negra",
+"prevenção terciária"
+],
+"r": 1,
+"n": [
+"Primária é o dano do próprio crime.",
+"Correta.",
+"Terciária vem da família e da comunidade.",
+"Cifra negra são crimes não notificados.",
+"Prevenção terciária atua sobre o preso."
+],
+"prof": "Quem fere aqui é o sistema.",
+"x": "A vitimização secundária é causada pelas instâncias formais de controle. Procedimentos repetitivos e invasivos podem configurar o crime de violência institucional (art. 15-A da Lei 13.869/2019).",
+"e": "Secundária."
+},
+{
+"p": "Segundo a classificação de Mendelsohn, a pessoa que morre ao ser repelida em legítima defesa, depois de iniciar uma agressão injusta, é considerada vítima:",
+"alts": [
+"completamente inocente",
+"menos culpada que o infrator",
+"tão culpada quanto o infrator",
+"unicamente culpada (vítima agressora)",
+"ideal"
+],
+"r": 3,
+"n": [
+"Ela deu causa ao fato.",
+"Ela é mais que \"menos culpada\".",
+"Não há culpa equivalente.",
+"Correta.",
+"Ideal é a inocente."
+],
+"prof": "Quem começa a agressão e sofre a defesa é \"vítima\" só no nome.",
+"x": "Na categoria das vítimas unicamente culpadas, Mendelsohn inclui a vítima agressora, além da simuladora e da imaginária.",
+"e": "Vítima agressora."
+}
+]
+}
 }
 };
