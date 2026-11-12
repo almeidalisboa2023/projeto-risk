@@ -546,7 +546,7 @@ export default {
 {
 "id": "democracia-seguranca",
 "titulo": "Democracia, cidadania e Direitos Humanos; segurança pública e Direitos Humanos",
-"arts": "Noções de Direitos Humanos 6.5 e 6.10",
+"arts": "Direitos Humanos, democracia e segurança pública",
 "chaves": [
 "democracia",
 "cidadania",
@@ -773,7 +773,7 @@ export default {
 {
 "id": "pndh-educacao",
 "titulo": "Política Nacional de Direitos Humanos (PNDH-3) e educação e cultura em Direitos Humanos",
-"arts": "Noções de Direitos Humanos 6.7 e 6.8",
+"arts": "PNDH-3 e educação em Direitos Humanos",
 "chaves": [
 "pndh",
 "pndh-3",
@@ -862,7 +862,7 @@ export default {
 {
 "id": "agenda-2030",
 "titulo": "Agenda 2030 e os Objetivos de Desenvolvimento Sustentável",
-"arts": "Noções de Direitos Humanos 6.9",
+"arts": "Agenda 2030 (ONU)",
 "chaves": [
 "agenda 2030",
 "objetivos de desenvolvimento sustentavel",

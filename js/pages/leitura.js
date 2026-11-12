@@ -132,7 +132,7 @@ function leitura(el, q, mat, idx) {
         ${isAdmin() ? '<button class="btn sec mini" id="ltEditar" title="Só o administrador vê este botão">✏️ Editar conteúdo</button>' : ''}
         <button class="btn sec mini" id="ltMenos" title="Diminuir letra">A−</button><button class="btn sec mini" id="ltMais" title="Aumentar letra">A+</button></div>
       <h2 style="margin:10px 0 4px">${esc(a.titulo)}</h2>
-      <p class="muted" style="font-size:12.5px;margin:0 0 8px">${a.editado ? 'Revisado pelo administrador' : 'Atualizado em ' + esc(mat.atualizado)} · <button class="linkbtn" id="ltErro">⚑ Reportar erro neste texto</button></p>
+      <p class="muted" style="font-size:12.5px;margin:0 0 8px">${a.editado ? 'Revisado pelo administrador' : 'Atualizado em ' + esc(String(mat.atualizado || '').split(' · ')[0]) + ' · ' + (a.quiz || []).length + ' questões neste tópico'} · <button class="linkbtn" id="ltErro">⚑ Reportar erro neste texto</button></p>
       <div class="abas lt-abas" id="ltAbas">
         <button data-aba="ess" class="on">📘 Essencial</button>
         ${a.aprof ? '<button data-aba="apr">🔬 Aprofundamento</button>' : ''}

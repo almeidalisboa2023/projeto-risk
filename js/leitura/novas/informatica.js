@@ -317,7 +317,7 @@ export default {
 {
 "id": "internet-navegadores",
 "titulo": "Internet: URL, domínios, protocolos, Google Chrome, cookies, proxy e Marco Civil",
-"arts": "Informática Básica 3.4",
+"arts": "Internet, intranet e navegadores",
 "chaves": [
 "url",
 "dominio",
@@ -434,7 +434,7 @@ export default {
 {
 "id": "email-outlook",
 "titulo": "Correio eletrônico e Microsoft Outlook 2016",
-"arts": "Informática Básica 3.5",
+"arts": "Correio eletrônico",
 "chaves": [
 "correio eletronico",
 "e-mail",
@@ -708,7 +708,7 @@ export default {
 {
 "id": "certificacao-software-livre",
 "titulo": "Certificação digital, ICP-Brasil, criptografia PGP e software livre",
-"arts": "Informática Básica 3.8 e 3.9",
+"arts": "Editores de apresentação",
 "chaves": [
 "certificacao digital",
 "certificado digital",
@@ -981,7 +981,7 @@ export default {
 {
 "id": "apresentacoes",
 "titulo": "Apresentações: PowerPoint 2016 e LibreOffice Impress 7.1",
-"arts": "Informática Básica 3.6.1",
+"arts": "Licenças de software e software livre",
 "chaves": [
 "powerpoint",
 "impress",

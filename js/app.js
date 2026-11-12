@@ -33,7 +33,7 @@ export function alternaTema() {
 async function iniciar() {
   const tipo = auth.fromUrlHash();
   const u = await auth.loadUser();
-  if (!u) return /^#\/cursos/.test(location.hash) ? telaPublica() : telaLogin();
+  if (!u) return deslogado();
   S.user = u;
   if (tipo === 'recovery') return telaNovaSenha();
   // Compra feita na Hotmart com o mesmo e-mail: libera o acesso na hora
@@ -106,6 +106,20 @@ async function rota() {
 }
 export const recarregar = rota;
 
+// Visitante sem login: a página inicial é a vitrine de cursos; Entrar/Criar conta ficam no canto
+const ROTA_LOGIN = /^#\/(entrar|criar|esqueci)\b/;
+function deslogado() {
+  const h = location.hash;
+  if (ROTA_LOGIN.test(h)) telaLogin(h.slice(2).split(/[?&]/)[0]);
+  else { if (!/^#\/cursos/.test(h)) history.replaceState(null, '', location.pathname + location.search + '#/cursos'); telaPublica(); }
+  if (window.__riskDeslog) return; window.__riskDeslog = true;
+  window.addEventListener('hashchange', () => {
+    if (S.user) return; const h2 = location.hash;
+    if (ROTA_LOGIN.test(h2)) telaLogin(h2.slice(2).split(/[?&]/)[0]);
+    else if (!root.querySelector('.pub')) { if (!/^#\/cursos/.test(h2)) history.replaceState(null, '', location.pathname + location.search + '#/cursos'); telaPublica(); }
+  });
+}
+
 function telaLogin(modo = 'entrar') {
   root.innerHTML = `<div class="login"><div class="card">
     <div class="login-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></div>
@@ -125,8 +139,8 @@ function telaLogin(modo = 'entrar') {
       ${modo === 'entrar' ? '<button class="linkbtn" data-m="esqueci">Esqueci a senha</button>' : ''}
     </div>
     <a class="btn sec" href="#/cursos" id="verCursos" style="width:100%;margin-top:14px;text-align:center">🎓 Ver cursos preparatórios</a></div></div>`;
-  root.querySelector('#verCursos').onclick = (e) => { e.preventDefault(); location.hash = '#/cursos'; telaPublica(); };
-  root.querySelectorAll('[data-m]').forEach((b) => (b.onclick = () => telaLogin(b.dataset.m)));
+  root.querySelector('#verCursos').onclick = (e) => { e.preventDefault(); location.hash = '#/cursos'; };
+  root.querySelectorAll('[data-m]').forEach((b) => (b.onclick = () => { location.hash = '#/' + b.dataset.m; }));
   const g = root.querySelector('#google'); if (g) g.onclick = () => auth.signInGoogle();
   root.querySelector('#f').onsubmit = async (e) => {
     e.preventDefault();
@@ -145,10 +159,10 @@ function telaLogin(modo = 'entrar') {
 // Vitrine de cursos para quem ainda não entrou
 async function telaPublica() {
   root.innerHTML = `<div class="pub"><header class="pub-top"><a href="#/cursos" class="pub-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></a><span class="sp"></span><button class="btn sec mini" id="pubE">Entrar</button><button class="btn mini" id="pubC">Criar conta</button></header><main class="pub-main" id="pubM">${loading()}</main></div>`;
-  root.querySelector('#pubE').onclick = () => { location.hash = ''; telaLogin('entrar'); };
-  root.querySelector('#pubC').onclick = () => { location.hash = ''; telaLogin('criar'); };
+  root.querySelector('#pubE').onclick = () => { location.hash = '#/entrar'; };
+  root.querySelector('#pubC').onclick = () => { location.hash = '#/criar'; };
   const mod = await import('./pages/vitrine.js');
-  const desenha = () => { if (!/^#\/cursos/.test(location.hash)) { window.removeEventListener('hashchange', desenha); return; } const q = new URLSearchParams(location.hash.split('?')[1] || ''); mod.render(root.querySelector('#pubM'), q, { publico: true, aoEntrar: (m) => { location.hash = ''; telaLogin(m); } }); window.scrollTo(0, 0); };
+  const desenha = () => { if (!/^#\/cursos/.test(location.hash)) { window.removeEventListener('hashchange', desenha); return; } const q = new URLSearchParams(location.hash.split('?')[1] || ''); mod.render(root.querySelector('#pubM'), q, { publico: true, aoEntrar: (m) => { location.hash = '#/' + (m === 'criar' ? 'criar' : 'entrar'); } }); window.scrollTo(0, 0); };
   window.addEventListener('hashchange', desenha);
   desenha();
 }

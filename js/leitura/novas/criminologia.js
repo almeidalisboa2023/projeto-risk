@@ -420,7 +420,7 @@ export default {
 {
 "id": "labeling-critica",
 "titulo": "Do labelling approach à criminologia crítica; sistema penal, cárcere e marginalidade social",
-"arts": "Noções de Criminologia 8.6 a 8.8",
+"arts": "Criminologia crítica e sistema penal",
 "chaves": [
 "labelling approach",
 "etiquetamento",
@@ -650,7 +650,7 @@ export default {
 {
 "id": "justica-reconhecimento",
 "titulo": "Modelo consensual de Justiça Criminal, justiça restaurativa e criminologia do reconhecimento",
-"arts": "Noções de Criminologia 8.9 a 8.13",
+"arts": "Criminologia: modelos de reação ao delito",
 "chaves": [
 "modelo consensual de justica criminal",
 "justica restaurativa",
@@ -742,7 +742,7 @@ export default {
 {
 "id": "policiamento",
 "titulo": "Criminologia, policiamento e segurança pública no século XXI",
-"arts": "Noções de Criminologia 8.14",
+"arts": "Criminologia e segurança pública",
 "chaves": [
 "policiamento comunitario",
 "policiamento orientado para problemas",
