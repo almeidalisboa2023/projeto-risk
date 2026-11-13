@@ -15780,6 +15780,1596 @@ export const PROFUNDO = {
 "e": "Pensão especial: valor integral."
 }
 ]
+},
+"lc129-ingresso": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>carreiras policiais civis (art. 76)</span></div><div class=\"lt-stat\"><b>3 anos</b><span>de estágio probatório, contados da posse (art. 87)</span></div><div class=\"lt-stat\"><b>40 h</b><span>semanais, com no máximo 8 h por dia e plantão de até 12 h (art. 82)</span></div><div class=\"lt-stat\"><b>8 anos</b><span>no mesmo nível para a promoção especial de Escrivão e Investigador (art. 96)</span></div></div>\n<h3>1. As carreiras policiais civis (arts. 76 a 81)</h3>\n<ul><li><b>Carreiras policiais civis</b> (art. 76): <b>Delegado de Polícia</b>, <b>Escrivão de Polícia</b>, <b>Investigador de Polícia</b>, <b>Médico-Legista</b> e <b>Perito Criminal</b>. Integram ainda o quadro de pessoal da PCMG as <b>carreiras administrativas</b>, instituídas por lei específica.</li></ul>\n<table class=\"tab\"><thead><tr><th>Conceito (art. 78)</th><th>Definição</th></tr></thead><tbody><tr><td><b>Carreira</b></td><td>conjunto de <b>cargos de provimento efetivo</b> agrupados segundo sua natureza e complexidade e estruturados em <b>níveis e graus</b>, escalonados conforme a responsabilidade e as atribuições</td></tr><tr><td><b>Cargo de provimento efetivo</b></td><td>unidade de ocupação funcional <b>privativa de servidor aprovado em concurso</b>, com criação, remuneração e quantitativo definidos em <b>lei ordinária</b>, e atribuições, responsabilidades, direitos e deveres estatutários fixados em <b>lei complementar</b></td></tr><tr><td><b>Nível</b></td><td>posição do servidor na <b>hierarquia</b> da carreira (muda com a <b>promoção</b>)</td></tr><tr><td><b>Grau</b></td><td>posição do servidor <b>dentro do nível</b> (muda com a <b>progressão</b>)</td></tr></tbody></table>\n<ul><li><b>Natureza das atribuições</b> (art. 79): são <b>essenciais, próprias e típicas de Estado</b>, de natureza especial, com caráter <b>técnico-científico-jurídico</b> para a carreira de <b>Delegado</b> e <b>técnico-científico</b> para as <b>demais</b>. Além das atribuições específicas de cada cargo (Anexo II), todo policial civil exerce funções de <b>polícia judiciária</b> e de <b>investigação criminal</b>.</li><li><b>Lotação</b> (art. 80): os cargos são lotados no quadro de pessoal da PCMG, sendo <b>vedadas a mudança de lotação</b> desses cargos e a <b>transferência</b> de seus ocupantes para outros órgãos e entidades da administração pública.</li><li><b>Hierarquia</b> (art. 81): as carreiras obedecem à ordem hierárquica entre os seus níveis, <b>mantido o poder hierárquico e disciplinar do Delegado de Polícia</b> (art. 139 da Constituição do Estado), ressalvado o exercido pelos titulares de unidades da <b>Superintendência de Polícia Técnico-Científica</b>, do <b>IML</b>, do <b>Instituto de Criminalística</b> e do <b>Hospital da Polícia Civil</b>. A hierarquia e a disciplina são valores de integração e buscam a <b>unidade técnico-científica da investigação</b>. <b>Não há</b> subordinação hierárquica entre carreiras como Escrivão e Investigador: cada uma tem suas atribuições, sob a direção do Delegado.</li><li><b>Jornada</b> (art. 82): <b>40 horas semanais</b>, <b>vedada</b> jornada diária superior a <b>8 horas</b> e <b>plantão</b> superior a <b>12 horas ininterruptas</b>, salvo, excepcionalmente, para concluir determinada atividade policial. O Chefe da PCMG, com aprovação do Conselho Superior, pode fixar regras complementares; o <b>plantão</b> das delegacias funciona no período <b>noturno</b>, nos <b>fins de semana</b> e <b>feriados</b>.</li></ul>\n<h3>2. Ingresso: concurso e habilitação (arts. 83 a 86)</h3>\n<ul><li><b>Concurso público de provas e títulos</b>; o ingresso se dá no <b>primeiro grau do nível inicial</b> da carreira (art. 83).</li><li>Cabe <b>privativamente à Academia de Polícia Civil</b> realizar o <b>concurso</b> (admitida a <b>terceirização</b>, total ou parcial, <b>sob supervisão da Academia</b>) e o <b>curso de formação técnico-profissional</b>. O aprovado nas etapas do concurso é, <b>depois da nomeação e posse</b>, <b>matriculado automaticamente</b> no curso de formação.</li></ul>\n<table class=\"tab\"><thead><tr><th>Etapas do concurso (art. 84)</th><th>Finalidade</th></tr></thead><tbody><tr><td><b>Provas e títulos</b></td><td>conhecimentos e formação</td></tr><tr><td><b>Exame psicotécnico</b></td><td>avaliar cognição, aptidões específicas e características de personalidade adequadas ao cargo</td></tr><tr><td><b>Exames biomédicos</b></td><td>aferir a <b>higidez física e mental</b></td></tr><tr><td><b>Exames biofísicos</b> (testes físicos)</td><td>condições para o exercício profissional e existência de deficiência física que incapacite para a função</td></tr><tr><td><b>Investigação social</b></td><td>verificar a <b>idoneidade</b> do candidato, sob os aspectos moral, social e criminal</td></tr></tbody></table>\n<ul><li><b>Habilitação mínima em nível superior</b> (art. 85): <b>graduação em direito</b> para <b>Delegado</b>; <b>graduação em medicina</b> para <b>Médico-Legista</b>; <b>conforme o edital</b> para <b>Escrivão, Investigador e Perito Criminal</b>.</li><li><b>Exclusão do candidato</b> (art. 86), apurada na <b>investigação social</b>, <b>assegurada ampla defesa</b>: <b>I</b> – incapacidade moral, física ou inaptidão para o cargo; <b>II</b> – envolvimento em fato que o comprometa moral ou profissionalmente; <b>III</b> – registro de <b>antecedentes criminais</b>, <b>demissão de outra instituição policial</b> ou a <b>omissão desses dados</b> na ficha de informações.</li></ul>\n<h3>3. Estágio probatório e estabilidade (arts. 87 a 91)</h3>\n<ul><li><b>Prazo</b>: <b>3 anos</b>, <b>a partir do ato da posse</b>, com avaliação <b>permanente</b> da aptidão para a declaração de <b>estabilidade</b> (art. 87). Critérios: <b>idoneidade moral</b>; conduta compatível com o cargo; <b>dedicação</b>; <b>eficiência, pontualidade, assiduidade</b> e comprometimento; presteza e segurança na atuação, entre outros previstos em regulamento.</li><li><b>Comissão de avaliação</b> (art. 88): <b>comissão de acompanhamento e avaliação especial de desempenho</b>, composta por <b>policiais civis estáveis</b> e instituída por <b>ato do Chefe da PCMG</b>. Para <b>Delegados</b>, é formada por um Delegado da <b>Corregedoria-Geral</b>, um da <b>Superintendência de Investigação e Polícia Judiciária</b> e um da <b>Academia de Polícia Civil</b>; para as demais carreiras, inclui Delegado da Corregedoria e integrantes da respectiva carreira.</li><li><b>Impugnação</b> (art. 89): o <b>Corregedor-Geral</b> pode, <b>a qualquer tempo</b> do estágio, <b>de ofício ou mediante provocação</b>, <b>impugnar fundamentadamente</b> a permanência do policial no cargo. O <b>estágio fica suspenso</b> até o julgamento definitivo da impugnação.</li><li><b>Homologação</b> (art. 90): o Corregedor-Geral apresenta ao <b>Conselho Superior</b>, <b>em até 90 dias antes do término</b> do estágio, <b>parecer</b> sobre a homologação. A homologação implica a declaração de estabilidade. Se o Conselho Superior decidir, <b>por maioria simples</b>, pela <b>não homologação</b>, o <b>Chefe da PCMG</b> propõe a <b>exoneração</b>, mediante processo administrativo próprio.</li><li><b>Ato declaratório de estabilidade</b> (art. 91): compete ao <b>Chefe da PCMG</b>.</li></ul>\n<h3>4. Desenvolvimento na carreira: progressão e promoção (arts. 92 a 102)</h3>\n<table class=\"tab\"><thead><tr><th>Forma</th><th>O que é</th><th>Requisitos principais</th></tr></thead><tbody><tr><td><b>Progressão</b> (art. 93)</td><td>passagem para o <b>grau subsequente</b>, <b>no mesmo nível</b></td><td>efetivo exercício; <b>interstício mínimo de 1 ano</b> no mesmo grau; avaliação de desempenho satisfatória</td></tr><tr><td><b>Promoção</b> (art. 94)</td><td>passagem para o <b>nível subsequente</b> da carreira</td><td>efetivo exercício, interstício, avaliações satisfatórias e demais exigências do regulamento</td></tr></tbody></table>\n<ul><li><b>Modalidades de promoção</b> (art. 94, § 1º): <b>por antiguidade</b> (critérios <b>especial</b> e <b>aposentadoria</b>); <b>por merecimento</b> (critérios <b>mérito profissional</b> e <b>ato de bravura</b>); <b>por invalidez</b>; e <b>post mortem</b>.</li><li><b>Quando ocorrem</b>: as promoções por <b>antiguidade e merecimento</b>, alternadas, ocorrem <b>anualmente</b>, em <b>junho e dezembro</b>; esses períodos podem valer também para a promoção por <b>ato de bravura</b> e a <b>especial</b>. As promoções por <b>invalidez</b>, <b>post mortem</b> e <b>por aposentadoria</b> podem ocorrer <b>em qualquer época</b> do ano e <b>independem de vaga</b>.</li><li><b>Delegado</b>: é promovido de <b>Delegado de Polícia Substituto</b> para <b>Delegado de Polícia Titular \"A\"</b> após a publicação da <b>declaração de estabilidade</b> (art. 95).</li><li><b>Promoção especial</b> (art. 96): para <b>Escrivão</b> e <b>Investigador</b> que estejam em efetivo exercício, tenham permanecido <b>8 anos</b> no mesmo nível, com avaliações satisfatórias e aprovação em <b>atividades de aperfeiçoamento</b>.</li><li>Concluído o estágio, o policial <b>apto</b> é posicionado no <b>grau \"D\"</b> do nível de ingresso (salvo o Delegado, art. 95). A contagem para a <b>segunda promoção</b> começa após a <b>homologação do estágio</b> (arts. 97 e 98).</li><li><b>Perde o direito</b> à progressão e à promoção, no período aquisitivo (art. 99), quem <b>sofrer suspensão disciplinar de 30 dias ou mais</b> ou <b>afastar-se</b> das funções específicas do cargo (salvo casos considerados de efetivo exercício). O absolvido em processo administrativo ou reabilitado pode computar o tempo da suspensão.</li><li><b>Desempate na promoção</b> (art. 101), sucessivamente: maior média nas <b>avaliações de desempenho</b> do período; maior tempo no <b>nível</b>; maior tempo na <b>carreira</b>; maior tempo no <b>serviço público estadual</b>; maior tempo em <b>serviço público</b>; e, por fim, <b>maior idade</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O estágio probatório do policial civil conta da nomeação</span><br>✅ <span class=\"certo\">Conta da POSSE.</span></li><li>❌ <span class=\"banca\">O concurso é realizado exclusivamente pela Seplag, vedada a terceirização</span><br>✅ <span class=\"certo\">Cabe à Academia de Polícia Civil, admitida a terceirização sob sua supervisão.</span></li><li>❌ <span class=\"banca\">O ato de estabilidade é do Governador</span><br>✅ <span class=\"certo\">É do Chefe da PCMG.</span></li><li>❌ <span class=\"banca\">Progressão muda o nível</span><br>✅ <span class=\"certo\">Progressão muda o GRAU; promoção muda o NÍVEL.</span></li><li>❌ <span class=\"banca\">Promoção post mortem depende de vaga</span><br>✅ <span class=\"certo\">Invalidez, post mortem e aposentadoria independem de vaga.</span></li><li>❌ <span class=\"banca\">O Investigador é subordinado ao Escrivão</span><br>✅ <span class=\"certo\">Não há hierarquia entre essas carreiras.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carreiras policiais civis?</span></span><span class=\"vs\"><span><b>Delegado, Escrivão, Investigador, Médico-Legista e Perito Criminal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem faz o concurso?</span></span><span class=\"vs\"><span><b>Academia de Polícia Civil</b> (terceirização sob sua supervisão).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Etapas do concurso?</span></span><span class=\"vs\"><span><b>Provas e títulos, psicotécnico, biomédicos, biofísicos e investigação social</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estágio probatório?</span></span><span class=\"vs\"><span><b>3 anos da posse</b>; comissão de policiais estáveis; Corregedor pode impugnar (suspende o estágio).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estabilidade?</span></span><span class=\"vs\"><span>Ato declaratório do <b>Chefe da PCMG</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Progressão x promoção?</span></span><span class=\"vs\"><span><b>Grau</b> x <b>nível</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Promoções sem vaga e em qualquer época?</span></span><span class=\"vs\"><span><b>Invalidez, post mortem e aposentadoria</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A suspensão no período aquisitivo</b><p>Um investigador, no segundo ano após a homologação do estágio, sofre suspensão disciplinar de 30 dias e, meses depois, pede a promoção por merecimento de dezembro.</p><details><summary>Ver a solução comentada</summary><p>Pelo <b>art. 99, I</b>, quem sofre <b>suspensão de 30 dias ou mais</b> no período aquisitivo <b>perde o direito</b> à progressão e à promoção naquele período. Se depois for <b>absolvido</b> em revisão do processo administrativo ou <b>reabilitado</b>, poderá computar o tempo da suspensão (art. 99, § 1º).</p></details></div>",
+"quiz": [
+{
+"p": "Segundo a LC 129/2013, cargo de provimento efetivo é a unidade de ocupação funcional privativa de servidor aprovado em concurso, com criação, remuneração e quantitativo definidos em lei ordinária.",
+"c": true,
+"prof": "Art. 78, II.",
+"x": "As atribuições, responsabilidades, direitos e deveres estatutários são estabelecidos em lei complementar.",
+"e": "Cargo efetivo: concurso."
+},
+{
+"p": "Na LC 129/2013, a progressão é a passagem do policial civil para o nível subsequente da carreira.",
+"c": false,
+"prof": "Grau x nível.",
+"x": "A progressão é a passagem para o grau subsequente, no mesmo nível. A passagem para o nível subsequente é a promoção (art. 94).",
+"e": "Progressão: grau."
+},
+{
+"p": "As promoções por antiguidade e merecimento, alternadas, ocorrem anualmente nos meses de junho e dezembro.",
+"c": true,
+"prof": "Art. 94, § 2º.",
+"x": "Esses períodos podem ser aplicados também à promoção por ato de bravura e à promoção especial.",
+"e": "Junho e dezembro."
+},
+{
+"p": "As promoções por invalidez, post mortem e por aposentadoria podem ocorrer em qualquer época do ano e independem da existência de vagas.",
+"c": true,
+"prof": "Art. 94, § 4º.",
+"x": "As demais seguem os períodos de junho e dezembro.",
+"e": "Sem vaga e a qualquer tempo."
+},
+{
+"p": "Segundo a LC 129/2013, a promoção por ato de bravura é modalidade de promoção por:",
+"alts": [
+"antiguidade",
+"merecimento",
+"invalidez",
+"aposentadoria",
+"post mortem"
+],
+"r": 1,
+"n": [
+"Antiguidade compreende especial e aposentadoria.",
+"Correta: art. 94, § 1º, II, \"b\".",
+"É modalidade autônoma.",
+"É critério da antiguidade.",
+"É modalidade autônoma."
+],
+"prof": "Merecimento: mérito profissional e bravura.",
+"x": "A promoção por merecimento abrange os critérios de mérito profissional e de ato de bravura.",
+"e": "Bravura: merecimento."
+},
+{
+"p": "O Delegado de Polícia é promovido de Delegado de Polícia Substituto para Delegado de Polícia Titular \"A\" após a publicação da declaração de estabilidade.",
+"c": true,
+"prof": "Art. 95.",
+"x": "As demais carreiras, após o estágio, são posicionadas no grau \"D\" do nível de ingresso.",
+"e": "Delegado Substituto → Titular \"A\"."
+},
+{
+"p": "Faz jus à promoção especial o Escrivão ou o Investigador que tenha permanecido no mesmo nível por oito anos de efetivo exercício, com avaliações satisfatórias e aprovação em atividades de aperfeiçoamento.",
+"c": true,
+"prof": "Art. 96.",
+"x": "A promoção especial é critério da promoção por antiguidade.",
+"e": "Promoção especial: 8 anos."
+},
+{
+"p": "A suspensão disciplinar de qualquer duração faz o policial civil perder o direito à promoção no período aquisitivo.",
+"c": false,
+"prof": "Art. 99, I.",
+"x": "A perda ocorre com a suspensão de 30 dias ou mais.",
+"e": "Suspensão ≥ 30 dias."
+},
+{
+"p": "No desempate do processo de promoção, o primeiro critério aplicado é o(a):",
+"alts": [
+"maior idade",
+"maior tempo na carreira",
+"maior média nas avaliações de desempenho no período aquisitivo",
+"maior tempo no serviço público estadual",
+"maior tempo no nível"
+],
+"r": 2,
+"n": [
+"É o último critério.",
+"É o terceiro.",
+"Correta: art. 101, I.",
+"É o quarto.",
+"É o segundo."
+],
+"prof": "Art. 101.",
+"x": "A ordem é: média das avaliações; tempo no nível; tempo na carreira; tempo no serviço público estadual; tempo em serviço público; maior idade.",
+"e": "Desempate: avaliações."
+},
+{
+"p": "O Corregedor-Geral apresentará ao Conselho Superior da PCMG parecer sobre a homologação do estágio probatório em até noventa dias antes do seu término.",
+"c": true,
+"prof": "Art. 90.",
+"x": "Decidida a não homologação por maioria simples do Conselho, o Chefe da PCMG propõe a exoneração, mediante processo próprio.",
+"e": "Parecer: 90 dias antes."
+},
+{
+"p": "Para a carreira de Delegado de Polícia, a comissão de avaliação do estágio probatório é composta por Delegados da Corregedoria-Geral, da Superintendência de Investigação e Polícia Judiciária e da Academia de Polícia Civil.",
+"c": true,
+"prof": "Art. 88, § 1º, I.",
+"x": "A comissão é instituída por ato do Chefe da PCMG e formada por policiais estáveis.",
+"e": "Comissão do Delegado."
+},
+{
+"p": "O policial civil aprovado no concurso é matriculado no curso de formação técnico-profissional antes da nomeação, como etapa eliminatória do concurso.",
+"c": false,
+"prof": "Art. 83, § 2º.",
+"x": "Na LC 129/2013, o aprovado nas etapas do concurso é, depois da nomeação e posse, matriculado automaticamente no curso de formação.",
+"e": "Curso de formação: após a posse."
+}
+]
+},
+"lc129-disciplinar": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>35</b><span>transgressões listadas no art. 150</span></div><div class=\"lt-stat\"><b>6</b><span>penas disciplinares (art. 154)</span></div><div class=\"lt-stat\"><b>90 dias</b><span>teto da suspensão, da prisão administrativa e da suspensão preventiva</span></div><div class=\"lt-stat\"><b>30 dias</b><span>consecutivos de ausência = abandono de cargo (art. 158, § 1º)</span></div></div>\n<h3>1. Por que a Lei 5.406/1969 ainda cai na prova</h3>\n<ul><li>A <b>Lei estadual 5.406/1969</b> foi a antiga Lei Orgânica da Polícia Civil de Minas Gerais. Quase toda ela foi substituída pela <b>LC 129/2013</b>, mas <b>não a parte disciplinar</b>.</li><li>A própria LC 129/2013 (<b>art. 116</b>) mandou o Poder Executivo enviar à Assembleia um projeto de <b>Estatuto Disciplinar da Polícia Civil</b> e determinou, no <b>parágrafo único</b>, que <b>até a publicação desse estatuto</b> se aplica o disposto nos <b>arts. 142 a 205 da Lei 5.406/1969</b> e normas complementares.</li><li>Resultado: deveres, proibições, transgressões, penas, competência para punir, prisão administrativa, suspensão preventiva, sindicância, processo administrativo e revisão continuam regidos pela Lei 5.406.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Como estudar esta lei | Ela é cobrada quase sempre na <b>letra da lei</b>: números (90, 60, 30, 10, 5 dias), listas (6 penas, 3 graus, 6 causas justificativas) e palavras-chave (“manifestamente ilegais”, “verdade sabida”, “não se sujeita à sequência”). Este tópico traz as regras materiais (arts. 142 a 162); o tópico seguinte traz o processo (arts. 163 a 205).</div>\n<h3>2. Alcance, fundamento e princípios da disciplina (arts. 142 a 144)</h3>\n<ul><li><b>A quem se aplica</b> (art. 142): a <b>todos os servidores no exercício de funções de natureza policial</b>.</li><li><b>Fundamento</b> (art. 143): a disciplina policial fundamenta-se na <b>subordinação hierárquica e funcional</b> e no <b>cumprimento das leis, regulamentos e normas de serviço</b>.</li><li><b>Princípios básicos da disciplina</b> (art. 144), <b>além de outros a serem enumerados em regulamentação</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Princípio</th></tr></thead><tbody><tr><td>I</td><td><b>subordinação hierárquica</b></td></tr><tr><td>II</td><td><b>obediência aos superiores</b></td></tr><tr><td>III</td><td><b>respeito às leis vigentes e às normas éticas</b></td></tr><tr><td>IV</td><td><b>cooperação e respeito</b> às autoridades de <b>corporações policiais diversas</b> e de outros Poderes ou Secretarias</td></tr><tr><td>V</td><td><b>apuração ou comunicação</b> à autoridade competente, <b>pela via hierárquica</b>, da prática de transgressão disciplinar</td></tr><tr><td>VI</td><td>observância das condições e normas para a <b>boa execução</b> das atividades policiais</td></tr><tr><td>VII</td><td><b>espírito de camaradagem e de cooperação, mesmo quando de folga</b></td></tr><tr><td>VIII</td><td><b>atendimento ao público</b> dentro das normas de <b>urbanidade</b> e <b>sem preferência</b></td></tr></tbody></table>\n<ul><li>Repare: a lista é <b>exemplificativa</b> (“além de outros a serem enumerados em regulamentação”), e o dever de camaradagem vale <b>inclusive na folga</b>.</li></ul>\n<h3>3. Hierarquia (art. 145)</h3>\n<ul><li>A lei fixa a escala, em ordem decrescente: <b>I</b> – Secretário de Estado da Segurança Pública; <b>II</b> – dirigentes dos Órgãos Superiores da Polícia Civil; <b>III</b> – chefes de Departamentos Policiais e unidades equiparadas; <b>IV</b> – Delegados de Polícia, em ordem descendente de classes; <b>V</b> – Médicos-Legistas, Peritos Criminais Especialistas, Inspetores Gerais e Chefes de Serviços Policiais; <b>VI</b> – ocupantes das demais chefias policiais, na escala descendente de níveis de vencimentos; <b>VII</b> – cargos das demais classes policiais, pelo mesmo critério.</li><li><b>Desempate</b> (parágrafo único): <b>I</b> – em igualdade de cargo de chefia ou de classe, é superior quem tiver <b>mais antiguidade</b> nele; <b>II</b> – se a antiguidade for a mesma, prevalece a do <b>cargo ou classe anterior</b>, e assim sucessivamente, até o <b>maior tempo de serviço na classe</b> e, <b>por fim, a idade</b>.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Leitura atualizada | Os nomes de cargos do art. 145 são de 1969 (Secretaria de Segurança Pública, Departamentos). Hoje a estrutura e as carreiras são as da LC 129/2013, mas a prova costuma cobrar a <b>lógica</b>: a hierarquia segue a escala de cargos, e o <b>desempate</b> é por antiguidade, depois cargo anterior, tempo na classe e, por último, idade.</div>\n<h3>4. Ordens superiores (art. 146)</h3>\n<ul><li>As ordens superiores devem ser <b>prontamente executadas</b>, <b>quando não sejam manifestamente ilegais</b>.</li><li>A <b>responsabilidade</b> cabe a <b>quem as determinar</b>, mas o agente <b>responde pelos excessos que cometer</b>.</li><li>Se a ordem parecer <b>obscura ou de difícil entendimento</b>, o agente deve <b>solicitar os esclarecimentos necessários no ato de recebê-la</b> (parágrafo único).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ordem do superior</b><p>O Delegado manda o Investigador conduzir uma testemunha à delegacia para depor, e o Investigador, no caminho, a algema sem necessidade.</p><details><summary>Ver a solução comentada</summary><p>A ordem era legal e devia ser cumprida, e a responsabilidade por ela é do Delegado. Mas o Investigador <b>responde pelo excesso</b> (uso da algema sem necessidade), que é dele (art. 146). Se a ordem fosse <b>manifestamente ilegal</b>, não haveria dever de cumpri-la.</p></details></div>\n<h3>5. Deveres e proibições (arts. 147 e 148)</h3>\n<ul><li><b>Deveres</b> (art. 147): além dos inerentes ao cargo, os dos <b>regulamentos especiais</b>, os das <b>normas comuns a todos os funcionários</b> e os que vierem em <b>nova regulamentação</b>.</li><li><b>Proibições</b> (art. 148), além de outras vigentes ou de regulamento. É <b>vedado</b> ao servidor policial:</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Proibição</th><th>Detalhe que cai</th></tr></thead><tbody><tr><td>I</td><td>participar de <b>atividades político-partidárias</b></td><td><b>salvo se licenciado</b> para tratar de <b>interesses particulares</b></td></tr><tr><td>II</td><td>exercer <b>outras ocupações</b></td><td>quando <b>em detrimento</b> do exercício normal e imparcial das funções</td></tr><tr><td>III</td><td><b>recusar encargos</b> do cargo ou função para os quais for designado</td><td>-</td></tr><tr><td>IV</td><td><b>fomentar discussões ou antagonismo</b> entre carreiras ou corporações policiais</td><td><b>a qualquer pretexto</b></td></tr><tr><td>V</td><td>aceitar <b>presentes ou donativos</b></td><td>por motivo de cumprimento de <b>missão policial</b></td></tr><tr><td>VI</td><td><b>censurar</b>, por veículos de divulgação, as autoridades ou <b>criticar</b> os atos da administração</td><td><b>ressalvado</b> o trabalho de <b>cunho doutrinário</b>, com sentido de colaboração</td></tr><tr><td>VII</td><td><b>quebrar sigilo</b> de assuntos policiais</td><td><b>de modo a prejudicar</b> as investigações ou outros trabalhos</td></tr></tbody></table>\n<h3>6. Transgressão disciplinar (arts. 149 e 150)</h3>\n<ul><li><b>Conceito</b> (art. 149): <b>toda ação ou omissão</b> contrária às disposições e aos deveres do servidor policial, <b>ainda que constitua infração penal</b>, é transgressão disciplinar. A mesma conduta pode ser, ao mesmo tempo, <b>crime e falta disciplinar</b>.</li><li><b>Rol do art. 150</b>: são <b>35 incisos</b>, <b>além de outras</b> previstas nos regulamentos e das aplicáveis aos servidores públicos em geral (rol <b>exemplificativo</b>). Agrupados por assunto:</li></ul>\n<table class=\"tab\"><thead><tr><th>Grupo</th><th>Transgressões (art. 150)</th></tr></thead><tbody><tr><td><b>Imagem e imprensa</b></td><td>concorrer para a divulgação, pela imprensa, de fatos da repartição capazes de provocar <b>escândalo e desprestígio</b> (I); <b>publicar sem ordem expressa</b>, ou permitir que se divulguem, <b>documentos oficiais, ainda que não classificados como reservados</b> (XXI)</td></tr><tr><td><b>Vida particular</b></td><td>deixar de pagar <b>dívidas legítimas</b> ou assumir compromissos acima das possibilidades, comprometendo o bom nome da instituição (III); manter <b>amizade</b> ou apresentar-se publicamente com pessoas de <b>notórios e desabonadores antecedentes criminais</b>, <b>salvo por motivo de serviço</b> (IV); <b>frequentar</b>, exceto em razão de serviço, <b>lugares incompatíveis com o decoro</b> (XIV); apresentar-se <b>embriagado ou sob ação de entorpecente, em serviço ou fora dele</b> (XXXII); entregar-se a <b>vícios</b> ou atos atentatórios à moral (XXXIII)</td></tr><tr><td><b>Hierarquia e lealdade</b></td><td><b>indispor subordinados</b> contra superiores (II); <b>faltar com a verdade, por má-fé ou malícia</b> (VI); <b>utilizar-se do anonimato</b> (VII); apresentar partes, queixas ou reclamações <b>maliciosa ou tendenciosamente</b> (IX); <b>dificultar, retardar ou frustrar</b> ordens legais (X); <b>atribuir-se</b> qualidade ou posição hierárquica que não tem (XIII); desrespeitar ou <b>procrastinar</b> decisão judicial ou da <b>autoridade corregedora</b>, ou <b>criticá-las</b> (XIX); dirigir-se a superior ou autoridades <b>de modo desrespeitoso</b> (XX); <b>desrespeitar ou maltratar superior</b>, em razão do serviço <b>ou fora dele</b>, <b>mesmo que ele não esteja em exercício</b> (XXVII); não atender <b>imediatamente</b> à convocação da <b>autoridade corregedora</b> nem lhe prestar diretamente informações (XXXV)</td></tr><tr><td><b>Serviço</b></td><td><b>transferir encargos</b> a pessoa estranha aos quadros (V); deixar de <b>comunicar</b> informações de interesse policial, especialmente em caso de iminente perturbação da ordem (VIII); <b>permutar serviço sem permissão</b> expressa (XI); <b>abandonar o serviço</b> para o qual foi designado (XII); <b>negligenciar prazos</b> de inquéritos e processos disciplinares (XXII); não desempenhar a contento as missões, <b>intencionalmente ou por negligência</b> (XXX); <b>faltar ou chegar atrasado</b>, ou não avisar <b>com antecedência</b> a impossibilidade de comparecer, <b>salvo motivo justo</b> (XXXI); <b>provocar ou participar de paralisação</b> total ou parcial do serviço (XXIX)</td></tr><tr><td><b>Presos e força</b></td><td>submeter preso a <b>maus-tratos, vexames ou constrangimentos</b> não autorizados em lei, ou usar <b>violência desnecessária</b> (XVI); permitir que presos <b>conservem instrumentos</b> capazes de causar dano (XVII); <b>omitir-se no zelo da integridade física ou moral</b> do preso (XVIII); ordenar ou executar <b>medida privativa de liberdade</b> sem as formalidades legais ou com abuso de poder (XXVIII)</td></tr><tr><td><b>Bens, registros e dinheiro</b></td><td><b>uso indevido de arma ou equipamento</b> confiado para o serviço (XV); <b>negligenciar a guarda</b> de objetos e valores confiados (XXIV); lançar em livros e registros dados <b>intencionalmente errôneos ou incompletos</b> (XXV); <b>cobrar carceragem, custas, emolumentos</b> ou despesas sem apoio em lei (XXXIV)</td></tr><tr><td><b>Postura</b></td><td><b>prevalecer-se abusivamente</b> da condição de policial (XXIII); <b>indicar ou insinuar nomes de advogados</b> para quem figura em inquérito ou outro procedimento (XXVI)</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A transgressão disciplinar só existe se a conduta não for crime</span><br>✅ <span class=\"certo\">Art. 149: é transgressão <b>ainda que constitua infração penal</b></span></li><li>❌ <span class=\"banca\">Publicar documento oficial só é falta se ele for reservado</span><br>✅ <span class=\"certo\">Art. 150, XXI: <b>ainda que não classificado como reservado</b></span></li><li>❌ <span class=\"banca\">Desrespeitar superior fora do serviço não é falta</span><br>✅ <span class=\"certo\">Art. 150, XXVII: <b>em razão do serviço ou fora dele</b>, mesmo que o superior <b>não esteja em exercício</b></span></li><li>❌ <span class=\"banca\">Apresentar-se embriagado só é falta em serviço</span><br>✅ <span class=\"certo\">Art. 150, XXXII: <b>em serviço ou fora dele</b></span></li><li>❌ <span class=\"banca\">O policial pode recomendar um advogado ao preso, por cortesia</span><br>✅ <span class=\"certo\">Art. 150, XXVI: <b>indicar ou insinuar</b> nomes de advogados é transgressão</span></li><li>❌ <span class=\"banca\">Faltar ao serviço é sempre transgressão</span><br>✅ <span class=\"certo\">Art. 150, XXXI ressalva o <b>motivo justo</b></span></li></ol></div>\n<h3>7. Classificação das transgressões (arts. 151 e 152)</h3>\n<ul><li>As transgressões classificam-se, <b>segundo a intensidade do dolo ou o grau da culpa</b>, em <b>leves, médias e graves</b> (art. 151).</li><li><b>Quem classifica</b>: a <b>autoridade competente para impor a penalidade</b>, considerando o <b>fato</b>, suas <b>condições</b> e os <b>antecedentes pessoais</b> do transgressor (art. 152).</li><li><b>Finalidade da pena</b> (§ 1º): só é necessária e eficaz quando dela advém <b>benefício ao punido</b> (pela <b>reeducação</b>) ou <b>à classe</b> (pelo fortalecimento da <b>disciplina e da justiça</b>).</li><li><b>Sempre grave</b> (§ 2º) a transgressão: <b>I</b> – de natureza <b>infamante e desonrosa</b>; <b>II</b> – <b>ofensiva à dignidade</b> policial ou profissional; <b>III</b> – <b>atentatória às instituições ou à ordem legal</b>; <b>IV</b> – decorrente de ação ou omissão <b>deliberada, prejudicial ao serviço</b>; <b>V</b> – <b>contrária à hierarquia</b> e ao respeito à autoridade.</li></ul>\n<h3>8. Causas justificativas, atenuantes e agravantes (art. 153)</h3>\n<ul><li>Influem no julgamento as <b>causas justificativas</b> e as circunstâncias <b>atenuantes</b> e <b>agravantes</b>.</li><li><b>Efeito das justificativas</b> (§ 4º): <b>não haverá punição</b> quando for reconhecida <b>qualquer causa justificativa</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Causas justificativas (§ 1º)</th><th>Atenuantes (§ 2º)</th><th>Agravantes (§ 3º)</th></tr></thead><tbody><tr><td>I – <b>ignorância plenamente comprovada</b>, quando não atente contra os sentimentos normais de <b>patriotismo, humanidade e probidade</b></td><td>I – <b>bom comportamento</b> anterior</td><td>I – <b>reincidência</b> específica <b>ou genérica</b></td></tr><tr><td>II – <b>força maior</b> plenamente comprovada e justificada</td><td>II – <b>relevância de serviços</b> prestados</td><td>II – <b>mau comportamento</b> anterior</td></tr><tr><td>III – prática de <b>ação meritória</b>, no interesse do serviço, da ordem ou do sossego público</td><td>III – <b>falta de prática</b> do serviço</td><td>III – prática <b>simultânea ou conexão</b> de duas ou mais transgressões</td></tr><tr><td>IV – <b>obediência a ordem superior</b></td><td>IV – transgressão em <b>defesa própria, de outrem ou de direitos</b></td><td>IV – <b>concurso de dois ou mais agentes</b></td></tr><tr><td>V – <b>legítima defesa</b> própria ou de outrem</td><td>V – para <b>evitar mal maior</b></td><td>V – durante a <b>execução do serviço</b> ou em prejuízo dele</td></tr><tr><td>VI – uso <b>imperativo de meios violentos</b> para compelir o <b>subordinado</b> a cumprir o dever, em caso de <b>perigo, necessidade urgente, calamidade pública, manutenção da ordem e da disciplina</b></td><td>VI – participação <b>de somenos importância</b></td><td>VI – <b>abuso de autoridade ou poder</b></td></tr><tr><td>-</td><td>VII – <b>aceitável ignorância</b> ou errônea compreensão das normas</td><td>VII – <b>uso indevido de meios de coerção</b> e intimidação</td></tr><tr><td>-</td><td>VIII – procurar <b>diminuir as consequências</b>, <b>antes da pena</b>, <b>reparando o dano</b></td><td>VIII – <b>coação, instigação ou determinação</b> para que outro policial pratique a falta</td></tr><tr><td>-</td><td>IX – <b>confissão espontânea</b> perante a <b>autoridade sindicante</b>, facilitando a apuração</td><td>IX – <b>impedir ou dificultar</b> a apuração</td></tr><tr><td>-</td><td>-</td><td>X – falta cometida <b>na presença de subordinados</b></td></tr><tr><td>-</td><td>-</td><td>XI – <b>premeditação</b></td></tr><tr><td>-</td><td>-</td><td>XII – em <b>lugar público</b></td></tr></tbody></table>\n<ul><li>As <b>agravantes</b> só incidem <b>quando não constituírem ou qualificarem outra transgressão</b> (evita punir duas vezes pelo mesmo dado).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Legítima defesa é atenuante na Lei 5.406</span><br>✅ <span class=\"certo\">É <b>causa justificativa</b> (§ 1º, V), e afasta a punição. A <b>defesa própria, de outrem ou de direitos</b> aparece como <b>atenuante</b> (§ 2º, IV)</span></li><li>❌ <span class=\"banca\">Toda ignorância da lei justifica a falta</span><br>✅ <span class=\"certo\">Só a ignorância <b>plenamente comprovada</b> e que <b>não atente</b> contra patriotismo, humanidade e probidade; a ignorância <b>aceitável</b> é só <b>atenuante</b></span></li><li>❌ <span class=\"banca\">A reincidência agravante precisa ser específica</span><br>✅ <span class=\"certo\">Vale a reincidência <b>específica ou genérica</b> (§ 3º, I)</span></li><li>❌ <span class=\"banca\">Confessar a falta a qualquer pessoa atenua a pena</span><br>✅ <span class=\"certo\">A confissão deve ser <b>espontânea</b>, <b>perante a autoridade sindicante</b>, de modo a <b>facilitar</b> a apuração</span></li><li>❌ <span class=\"banca\">Reconhecida causa justificativa, a pena é reduzida</span><br>✅ <span class=\"certo\"><b>Não há punição</b> (§ 4º)</span></li></ol></div>\n<h3>9. As penas disciplinares (arts. 154 a 160)</h3>\n<ul><li><b>Seis penas</b> (art. 154): <b>I</b> – repreensão; <b>II</b> – suspensão; <b>III</b> – multa; <b>IV</b> – demissão; <b>V</b> – demissão a bem do serviço público; <b>VI</b> – cassação de aposentadoria ou disponibilidade.</li><li><b>Não há gradação obrigatória</b> (parágrafo único): a aplicação <b>não se sujeita à sequência</b> do artigo; é <b>autônoma</b>, segundo cada caso, consideradas a <b>natureza e a gravidade</b> da infração e os <b>danos</b> para o serviço. Ou seja, um policial sem nenhuma punição anterior pode ser <b>demitido</b> de imediato, se a falta comportar.</li></ul>\n<table class=\"tab\"><thead><tr><th>Pena</th><th>Quando</th><th>Regras</th></tr></thead><tbody><tr><td><b>Repreensão</b> (art. 155)</td><td>faltas de cumprimento de deveres e transgressões <b>leves</b></td><td>aplicada <b>por escrito</b>. Se houver <b>dolo ou má-fé</b>, a falta de cumprimento de dever é punida com <b>suspensão</b></td></tr><tr><td><b>Suspensão</b> (art. 156)</td><td><b>falta grave</b> ou <b>reincidência</b></td><td><b>até 90 dias</b>. O suspenso <b>perde todas as vantagens e direitos</b> do cargo. Pode ser <b>convertida em multa</b> de <b>50% por dia</b> de vencimento ou remuneração, e o servidor fica <b>obrigado a permanecer em serviço</b></td></tr><tr><td><b>Multa</b> (art. 157)</td><td>nos casos <b>expressamente previstos</b> em lei ou regulamento</td><td>-</td></tr><tr><td><b>Demissão</b> (art. 158)</td><td>I – <b>abandono de cargo</b>; II – <b>procedimento irregular de natureza grave</b>; III – <b>ineficiência</b> no serviço; IV – <b>aplicação indevida de dinheiros públicos</b>; V – ausência sem causa justificável <b>por mais de 45 dias, interpoladamente, durante um ano</b>; VI – <b>atividade remunerada</b> estando <b>licenciado para tratamento de saúde</b></td><td><b>Abandono</b> = não comparecimento <b>por mais de 30 dias consecutivos</b> (§ 1º). Demissão por <b>ineficiência</b> só quando verificada a <b>impossibilidade de readaptação</b> (§ 2º)</td></tr><tr><td><b>Demissão a bem do serviço público</b> (art. 159)</td><td>14 hipóteses (quadro abaixo)</td><td>é a forma mais grave de demissão</td></tr><tr><td><b>Cassação de aposentadoria ou disponibilidade</b> (art. 160)</td><td>servidor <b>inativo</b> que: I – praticou, <b>em atividade</b>, falta punida com demissão ou demissão a bem do serviço público; II – <b>aceitou ilegalmente</b> cargo ou função pública; III – aceitou <b>representação de Estado estrangeiro sem prévia autorização do Presidente da República</b>; IV – quando <b>convocado</b> para funções policiais, praticou transgressão punível com demissão a bem do serviço público</td><td>atinge quem já está aposentado ou em disponibilidade</td></tr></tbody></table>\n<ul><li><b>Demissão a bem do serviço público</b> (art. 159), para o servidor que:</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Hipótese</th></tr></thead><tbody><tr><td>I</td><td>for dado à <b>incontinência pública e escandalosa</b>, ao <b>vício de jogos proibidos</b>, à <b>embriaguez habitual</b> ou ao uso de <b>entorpecentes que determine dependência</b></td></tr><tr><td>II</td><td>praticar <b>crime contra a boa ordem, a administração pública e a Fazenda Estadual</b>, ou previsto nas leis de <b>segurança e defesa nacional</b></td></tr><tr><td>III</td><td><b>revelar segredos</b> conhecidos em razão do cargo, <b>dolosamente e com prejuízo</b> para o Estado ou particulares</td></tr><tr><td>IV</td><td>praticar <b>insubordinação grave</b></td></tr><tr><td>V</td><td>praticar, em serviço ou em decorrência dele, <b>ofensas físicas</b> contra funcionários ou particulares, <b>salvo em legítima defesa</b></td></tr><tr><td>VI</td><td><b>lesar os cofres públicos</b> ou <b>dilapidar o patrimônio</b> do Estado</td></tr><tr><td>VII</td><td><b>receber ou solicitar propinas</b>, comissões, presentes ou vantagens, direta ou indiretamente, em razão de missão policial</td></tr><tr><td>VIII</td><td><b>pedir dinheiro emprestado</b> a quem tenha interesse na repartição ou esteja sujeito à sua fiscalização</td></tr><tr><td>IX</td><td>praticar <b>crime infamante</b>, que o incompatibilize com a função policial</td></tr><tr><td>X</td><td>exercer <b>advocacia administrativa</b></td></tr><tr><td>XI</td><td>for <b>contumaz</b> na prática de transgressões</td></tr><tr><td>XII</td><td>praticar <b>usura</b> em qualquer de suas formas</td></tr><tr><td>XIII</td><td><b>incitar greves ou a elas aderir</b>, ou praticar <b>sabotagem</b> contra o regime ou o serviço</td></tr><tr><td>XIV</td><td>apresentar, <b>com dolo</b>, <b>declaração falsa</b> em matéria de abono familiar ou outro benefício</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As penas devem seguir a ordem: repreensão, suspensão e só depois demissão</span><br>✅ <span class=\"certo\">Art. 154, parágrafo único: a aplicação <b>não se sujeita à sequência</b>; é <b>autônoma</b></span></li><li>❌ <span class=\"banca\">A suspensão pode chegar a 120 dias</span><br>✅ <span class=\"certo\">O teto é <b>90 dias</b> (art. 156)</span></li><li>❌ <span class=\"banca\">Convertida a suspensão em multa, o policial fica em casa</span><br>✅ <span class=\"certo\">Fica <b>obrigado a permanecer em serviço</b>, recebendo com desconto de <b>50% por dia</b></span></li><li>❌ <span class=\"banca\">Abandono de cargo = 30 faltas no ano</span><br>✅ <span class=\"certo\">Abandono = <b>mais de 30 dias consecutivos</b>; as faltas <b>interpoladas</b> só geram demissão acima de <b>45 dias em um ano</b></span></li><li>❌ <span class=\"banca\">Ineficiência gera demissão direta</span><br>✅ <span class=\"certo\">Só se for verificada a <b>impossibilidade de readaptação</b> (art. 158, § 2º)</span></li><li>❌ <span class=\"banca\">Aceitar presente por missão policial é só proibição leve</span><br>✅ <span class=\"certo\"><b>Receber ou solicitar</b> presentes ou vantagens em razão de missão policial leva à <b>demissão a bem do serviço público</b> (art. 159, VII)</span></li></ol></div>\n<h3>10. Quem pode punir (art. 161)</h3>\n<table class=\"tab\"><thead><tr><th>Autoridade</th><th>Pode aplicar</th></tr></thead><tbody><tr><td>I – <b>Governador do Estado</b></td><td><b>qualquer pena</b></td></tr><tr><td>II – <b>Secretário</b> de Estado da Segurança Pública</td><td>até <b>suspensão de 90 dias</b></td></tr><tr><td>III – <b>órgão disciplinar</b> da Polícia Civil</td><td>até <b>suspensão de 60 dias</b></td></tr><tr><td>IV – <b>Corregedor-Geral de Polícia</b></td><td>até <b>suspensão de 30 dias</b></td></tr><tr><td>V – <b>Superintendentes</b>, Diretor da <b>Academia de Polícia</b>, Diretor da Casa de Detenção e <b>Chefes de Departamentos</b></td><td>até <b>suspensão de 30 dias</b></td></tr><tr><td>VI – <b>Delegados Gerais</b>, Delegados de <b>Classe Especial</b> e Delegados <b>Regionais</b></td><td>até <b>suspensão de 10 dias</b></td></tr><tr><td>VII – <b>demais Delegados</b> de carreira</td><td>até <b>suspensão de 5 dias</b></td></tr></tbody></table>\n<ul><li>A competência dos itens <b>V, VI e VII</b> é <b>limitada ao pessoal diretamente subordinado</b> (parágrafo único).</li><li>Consequência: <b>demissão, demissão a bem do serviço público e cassação</b> são penas que, pela lista, só o <b>Governador</b> aplica (“em qualquer caso”).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Memorize a escada | <b>Governador: tudo → 90 → 60 → 30 → 30 → 10 → 5</b>. Os três últimos degraus (V, VI e VII) só punem <b>subordinados diretos</b>.</div>\n<h3>11. Prisão administrativa e suspensão preventiva (art. 162)</h3>\n<ul><li>No <b>curso do processo administrativo disciplinar</b> podem ser aplicadas, como <b>medidas acessórias</b>, a <b>prisão administrativa</b> e a <b>suspensão preventiva</b>, nos termos de lei e regulamentos.</li><li><b>Prazo máximo</b>: <b>90 dias</b> (§ 1º).</li><li><b>Competência</b> (§ 2º): o <b>Secretário de Estado</b> aplica <b>as duas</b> (prisão administrativa e suspensão preventiva); o <b>Órgão Disciplinar</b> da Polícia Civil e o <b>Corregedor-Geral</b> aplicam <b>só a suspensão preventiva</b>.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Atenção à Constituição | A <b>prisão administrativa</b> prevista em 1969 não é compatível com a Constituição de 1988, que só admite prisão em flagrante ou por ordem escrita e fundamentada da <b>autoridade judiciária</b> (art. 5º, LXI), salvo transgressão militar. A prova de lei seca cobra o texto do art. 162; em questão discursiva ou de análise, lembre essa ressalva.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Teto da suspensão disciplinar</span></span><span class=\"vs\"><span>90 dias (art. 156)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Abandono de cargo</span></span><span class=\"vs\"><span>mais de 30 dias consecutivos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Faltas interpoladas que geram demissão</span></span><span class=\"vs\"><span>mais de 45 dias em 1 ano</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Conversão da suspensão em multa</span></span><span class=\"vs\"><span>50% por dia, e o servidor continua trabalhando</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Competência do Corregedor-Geral</span></span><span class=\"vs\"><span>até suspensão de 30 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Competência dos demais Delegados</span></span><span class=\"vs\"><span>até 5 dias, só subordinados diretos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem aplica qualquer pena</span></span><span class=\"vs\"><span>Governador</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Efeito da causa justificativa</span></span><span class=\"vs\"><span>não há punição</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem aplica prisão administrativa</span></span><span class=\"vs\"><span>só o Secretário</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo máximo da suspensão preventiva</span></span><span class=\"vs\"><span>90 dias</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Segundo a LC 129/2013, até a publicação do Estatuto Disciplinar da Polícia Civil, aplicam-se os arts. 142 a 205 da Lei 5.406/1969.",
+"c": true,
+"prof": "LC 129/2013, art. 116, parágrafo único.",
+"x": "É por isso que o regime disciplinar da Lei 5.406/1969 continua em vigor e é cobrado nas provas da PCMG.",
+"e": "LC 129, art. 116: aplica a Lei 5.406."
+},
+{
+"p": "O regime disciplinar da Lei 5.406/1969 foi integralmente revogado pela LC 129/2013.",
+"c": false,
+"prof": "LC 129/2013, art. 116.",
+"x": "A LC 129 manteve a aplicação dos arts. 142 a 205 da Lei 5.406 até a publicação do Estatuto Disciplinar.",
+"e": "Arts. 142 a 205 seguem aplicáveis."
+},
+{
+"p": "As disposições disciplinares da Lei 5.406/1969 aplicam-se a todos os servidores no exercício de funções de natureza policial.",
+"c": true,
+"prof": "Art. 142.",
+"x": "O critério é o exercício de funções de natureza policial.",
+"e": "Alcance: todos em função policial."
+},
+{
+"p": "A disciplina policial fundamenta-se na subordinação hierárquica e funcional e no cumprimento das leis, regulamentos e normas de serviço.",
+"c": true,
+"prof": "Art. 143.",
+"x": "Esse é o fundamento expresso da disciplina na Lei 5.406.",
+"e": "Fundamento: hierarquia + leis."
+},
+{
+"p": "O rol de princípios da disciplina policial previsto na Lei 5.406/1969 é taxativo.",
+"c": false,
+"prof": "Art. 144.",
+"x": "O artigo fala em princípios básicos “além de outros a serem enumerados em regulamentação”: o rol é exemplificativo.",
+"e": "Princípios: rol exemplificativo."
+},
+{
+"p": "É princípio básico da disciplina policial o espírito de camaradagem e de cooperação, mesmo quando de folga o servidor policial.",
+"c": true,
+"prof": "Art. 144, VII.",
+"x": "O dever de camaradagem não se limita ao horário de serviço.",
+"e": "Camaradagem: até na folga."
+},
+{
+"p": "O atendimento ao público pelo policial deve observar a urbanidade, admitida a preferência em favor de autoridades.",
+"c": false,
+"prof": "Art. 144, VIII.",
+"x": "O princípio é o atendimento dentro das normas de urbanidade e sem preferência.",
+"e": "Atendimento: sem preferência."
+},
+{
+"p": "A apuração ou a comunicação da prática de transgressão disciplinar à autoridade competente deve seguir a via hierárquica respectiva.",
+"c": true,
+"prof": "Art. 144, V.",
+"x": "É princípio básico da disciplina policial.",
+"e": "Comunicar falta: via hierárquica."
+},
+{
+"p": "Segundo a Lei 5.406/1969, NÃO é princípio básico da disciplina policial:",
+"alts": [
+"a obediência aos superiores",
+"o respeito às leis vigentes e às normas éticas",
+"a cooperação e o respeito às autoridades de corporações policiais diversas",
+"a autonomia funcional do agente para recusar ordens que considere inconvenientes",
+"o atendimento ao público sem preferência"
+],
+"r": 3,
+"n": [
+"Art. 144, II.",
+"Art. 144, III.",
+"Art. 144, IV.",
+"Correta: a lei só dispensa o cumprimento da ordem manifestamente ilegal, não da que o agente acha inconveniente.",
+"Art. 144, VIII."
+],
+"prof": "Arts. 144 e 146.",
+"x": "As ordens devem ser prontamente executadas, salvo as manifestamente ilegais.",
+"e": "Inconveniência não autoriza recusa."
+},
+{
+"p": "Em igualdade de cargo de chefia ou de classe, é considerado hierarquicamente superior o servidor que contar com mais antiguidade num ou noutro.",
+"c": true,
+"prof": "Art. 145, parágrafo único, I.",
+"x": "A antiguidade é o primeiro critério de desempate.",
+"e": "Desempate: antiguidade."
+},
+{
+"p": "Para desempate no grau de hierarquia, a Lei 5.406/1969 adota primeiro o critério da idade.",
+"c": false,
+"prof": "Art. 145, parágrafo único.",
+"x": "A idade é o último critério. Antes vêm a antiguidade no cargo ou classe, a do cargo ou classe anterior e o maior tempo de serviço na classe.",
+"e": "Idade: último critério."
+},
+{
+"p": "Quando a antiguidade de cargo ou classe for a mesma, prevalece a do cargo ou classe anterior, e assim sucessivamente, até o maior tempo de serviço na classe e, por fim, a idade.",
+"c": true,
+"prof": "Art. 145, parágrafo único, II.",
+"x": "É a sequência de desempate prevista na lei.",
+"e": "Desempate sucessivo."
+},
+{
+"p": "As ordens superiores devem ser prontamente executadas quando não forem manifestamente ilegais.",
+"c": true,
+"prof": "Art. 146.",
+"x": "Só a ilegalidade manifesta afasta o dever de cumprir.",
+"e": "Cumpre-se, salvo manifesta ilegalidade."
+},
+{
+"p": "Cumprida ordem superior legal, o agente não responde por nada, nem mesmo pelos excessos que cometer, pois a responsabilidade é de quem determinou a ordem.",
+"c": false,
+"prof": "Art. 146.",
+"x": "A responsabilidade pela ordem cabe a quem a determinou, mas o agente responde pelos excessos que cometer.",
+"e": "Excesso: responde o agente."
+},
+{
+"p": "Quando a ordem parecer obscura ou de difícil entendimento, compete ao agente solicitar os esclarecimentos necessários no ato de recebê-la.",
+"c": true,
+"prof": "Art. 146, parágrafo único.",
+"x": "O momento é o do recebimento da ordem.",
+"e": "Ordem obscura: pedir esclarecimento ao receber."
+},
+{
+"p": "Diante de ordem obscura, o agente pode deixar de cumpri-la até que o superior a esclareça por escrito, a qualquer tempo.",
+"c": false,
+"prof": "Art. 146, parágrafo único.",
+"x": "A lei manda pedir esclarecimentos no ato de receber a ordem; não autoriza o descumprimento nem exige forma escrita.",
+"e": "Esclarecimento: no ato."
+},
+{
+"p": "É vedado ao servidor policial participar de atividades político-partidárias, salvo se licenciado para tratar de interesses particulares.",
+"c": true,
+"prof": "Art. 148, I.",
+"x": "A ressalva é a licença para tratar de interesses particulares.",
+"e": "Política partidária: só licenciado."
+},
+{
+"p": "A Lei 5.406/1969 proíbe ao policial o exercício de qualquer outra ocupação, ainda que compatível com suas funções.",
+"c": false,
+"prof": "Art. 148, II.",
+"x": "A vedação é exercer outras ocupações em detrimento do exercício normal e imparcial das funções.",
+"e": "Outra ocupação: vedada se prejudicar."
+},
+{
+"p": "É vedado ao servidor policial fomentar discussões ou antagonismo entre os integrantes das diferentes carreiras ou corporações policiais, a qualquer pretexto.",
+"c": true,
+"prof": "Art. 148, IV.",
+"x": "A proibição não admite justificativa (“a qualquer pretexto”).",
+"e": "Antagonismo entre corporações: vedado."
+},
+{
+"p": "É vedado ao servidor policial aceitar presentes ou donativos por motivo de cumprimento de missão policial.",
+"c": true,
+"prof": "Art. 148, V.",
+"x": "E receber ou solicitar presentes ou vantagens em razão de missão policial é caso de demissão a bem do serviço público (art. 159, VII).",
+"e": "Presente por missão: vedado."
+},
+{
+"p": "É vedado ao policial publicar trabalho de cunho doutrinário que analise atos da administração, ainda que com sentido de colaboração.",
+"c": false,
+"prof": "Art. 148, VI.",
+"x": "A lei proíbe censurar autoridades ou criticar atos da administração por veículos de divulgação, mas ressalva o trabalho de cunho doutrinário com sentido de colaboração e cooperação.",
+"e": "Trabalho doutrinário: permitido."
+},
+{
+"p": "É vedado ao servidor policial quebrar sigilo de assuntos policiais de modo a prejudicar o andamento das investigações ou outros trabalhos policiais.",
+"c": true,
+"prof": "Art. 148, VII.",
+"x": "A proibição é ligada ao prejuízo às investigações ou aos trabalhos.",
+"e": "Sigilo policial."
+},
+{
+"p": "Recusar-se a aceitar encargo do cargo para o qual foi designado não configura proibição, desde que o policial apresente justificativa escrita.",
+"c": false,
+"prof": "Art. 148, III.",
+"x": "A lei veda recusar-se a aceitar encargos do cargo ou função para os quais for designado, sem essa ressalva.",
+"e": "Recusar encargo: vedado."
+},
+{
+"p": "Toda ação ou omissão contrária às disposições e aos deveres do servidor policial, ainda que constitua infração penal, é considerada transgressão disciplinar.",
+"c": true,
+"prof": "Art. 149.",
+"x": "A conduta pode ser crime e falta disciplinar ao mesmo tempo.",
+"e": "Crime também pode ser transgressão."
+},
+{
+"p": "A conduta que constitui infração penal não pode ser, ao mesmo tempo, transgressão disciplinar.",
+"c": false,
+"prof": "Art. 149.",
+"x": "A lei diz o contrário: é transgressão ainda que constitua infração penal.",
+"e": "Instâncias independentes."
+},
+{
+"p": "O rol de transgressões do art. 150 da Lei 5.406/1969 é taxativo.",
+"c": false,
+"prof": "Art. 150, caput.",
+"x": "O artigo prevê as transgressões “além de outras enumeradas nos regulamentos dos órgãos policiais e das aplicáveis aos servidores públicos em geral”.",
+"e": "Art. 150: exemplificativo."
+},
+{
+"p": "É transgressão disciplinar publicar, sem ordem expressa da autoridade competente, documentos oficiais, ainda que não classificados como reservados.",
+"c": true,
+"prof": "Art. 150, XXI.",
+"x": "Não é preciso que o documento seja reservado.",
+"e": "Documento oficial: mesmo não reservado."
+},
+{
+"p": "Constitui transgressão disciplinar desrespeitar ou maltratar superior hierárquico, em razão do serviço ou fora dele, mesmo que este não esteja, na ocasião, no exercício de suas funções.",
+"c": true,
+"prof": "Art. 150, XXVII.",
+"x": "A falta existe dentro ou fora do serviço.",
+"e": "Desrespeito ao superior: mesmo fora do serviço."
+},
+{
+"p": "Apresentar-se embriagado só configura transgressão se o policial estiver em serviço.",
+"c": false,
+"prof": "Art. 150, XXXII.",
+"x": "A lei diz “em serviço ou fora dele”.",
+"e": "Embriaguez: em serviço ou fora."
+},
+{
+"p": "Constitui transgressão disciplinar indicar ou insinuar nomes de advogados para assistir pessoa que figure em inquérito policial ou qualquer outro procedimento.",
+"c": true,
+"prof": "Art. 150, XXVI.",
+"x": "Basta insinuar o nome.",
+"e": "Indicar advogado: transgressão."
+},
+{
+"p": "Manter relações de amizade com pessoas de notórios e desabonadores antecedentes criminais é transgressão, salvo se por motivo de serviço.",
+"c": true,
+"prof": "Art. 150, IV.",
+"x": "A ressalva é o motivo de serviço.",
+"e": "Amizade com criminoso: salvo serviço."
+},
+{
+"p": "Frequentar lugares incompatíveis com o decoro da função policial é transgressão em qualquer hipótese, inclusive em razão de serviço.",
+"c": false,
+"prof": "Art. 150, XIV.",
+"x": "A lei ressalva a frequência em razão de serviço.",
+"e": "Lugar incompatível: salvo serviço."
+},
+{
+"p": "Utilizar-se do anonimato é transgressão disciplinar prevista na Lei 5.406/1969.",
+"c": true,
+"prof": "Art. 150, VII.",
+"x": "Está no rol do art. 150.",
+"e": "Anonimato: transgressão."
+},
+{
+"p": "Permutar serviço sem expressa permissão da autoridade competente constitui transgressão disciplinar.",
+"c": true,
+"prof": "Art. 150, XI.",
+"x": "A troca de serviço depende de permissão expressa.",
+"e": "Permuta: com permissão expressa."
+},
+{
+"p": "Faltar com a verdade, por má-fé ou malícia, no exercício das funções é transgressão disciplinar.",
+"c": true,
+"prof": "Art. 150, VI.",
+"x": "O tipo exige má-fé ou malícia.",
+"e": "Mentir com má-fé."
+},
+{
+"p": "Faltar ou chegar atrasado ao serviço, ou deixar de comunicar com antecedência a impossibilidade de comparecer, é transgressão, salvo por motivo justo.",
+"c": true,
+"prof": "Art. 150, XXXI.",
+"x": "O motivo justo afasta a falta.",
+"e": "Atraso: salvo motivo justo."
+},
+{
+"p": "Deixar de atender imediatamente à convocação de autoridade policial corregedora, ou de prestar-lhe diretamente as informações solicitadas, é transgressão disciplinar.",
+"c": true,
+"prof": "Art. 150, XXXV.",
+"x": "É o último inciso do art. 150.",
+"e": "Convocação da corregedoria: atender já."
+},
+{
+"p": "É transgressão disciplinar desrespeitar ou procrastinar o cumprimento de decisão ou ordem judicial ou da autoridade policial corregedora, bem como criticá-las.",
+"c": true,
+"prof": "Art. 150, XIX.",
+"x": "A crítica a essas decisões também está no tipo.",
+"e": "Ordem judicial: não procrastinar nem criticar."
+},
+{
+"p": "Cobrar carceragem, custas, emolumentos ou qualquer outra despesa que não tenha apoio em lei é transgressão disciplinar.",
+"c": true,
+"prof": "Art. 150, XXXIV.",
+"x": "Só pode ser cobrada despesa prevista em lei.",
+"e": "Cobrança sem lei."
+},
+{
+"p": "Provocar a paralisação, total ou parcial, do serviço policial ou dela participar constitui transgressão disciplinar.",
+"c": true,
+"prof": "Art. 150, XXIX.",
+"x": "Participar já basta.",
+"e": "Paralisação: transgressão."
+},
+{
+"p": "Submeter a maus-tratos, vexames ou constrangimentos não autorizados em lei preso sob sua guarda, bem como usar de violência desnecessária, é transgressão disciplinar.",
+"c": true,
+"prof": "Art. 150, XVI.",
+"x": "Proteção do preso sob custódia.",
+"e": "Maus-tratos ao preso."
+},
+{
+"p": "Omitir-se no zelo da integridade física ou moral de preso sob sua guarda é transgressão disciplinar.",
+"c": true,
+"prof": "Art. 150, XVIII.",
+"x": "A omissão também é punida.",
+"e": "Omissão no zelo do preso."
+},
+{
+"p": "Ordenar ou executar medida privativa da liberdade individual sem as formalidades legais ou com abuso de poder é transgressão disciplinar.",
+"c": true,
+"prof": "Art. 150, XXVIII.",
+"x": "Pode ser também crime de abuso de autoridade; o art. 149 admite as duas responsabilidades.",
+"e": "Prisão sem formalidades."
+},
+{
+"p": "Negligenciar no cumprimento de prazos para conclusão de inquéritos policiais e processos disciplinares constitui transgressão disciplinar.",
+"c": true,
+"prof": "Art. 150, XXII.",
+"x": "Abrange as demais obrigações deles decorrentes.",
+"e": "Prazos de inquérito."
+},
+{
+"p": "Lançar em livros e registros oficiais dados intencionalmente errôneos ou incompletos é transgressão disciplinar.",
+"c": true,
+"prof": "Art. 150, XXV.",
+"x": "Também inserir anotações indevidas.",
+"e": "Registro falso."
+},
+{
+"p": "Deixar de pagar dívidas legítimas, de modo a comprometer o bom nome da instituição, é transgressão disciplinar.",
+"c": true,
+"prof": "Art. 150, III.",
+"x": "Também assumir compromissos superiores às possibilidades financeiras.",
+"e": "Dívidas: bom nome da instituição."
+},
+{
+"p": "As transgressões disciplinares classificam-se, segundo a intensidade do dolo ou o grau da culpa, em leves, médias e graves.",
+"c": true,
+"prof": "Art. 151.",
+"x": "Três graus.",
+"e": "Leve, média, grave."
+},
+{
+"p": "As transgressões disciplinares classificam-se em leves e graves, conforme o prejuízo causado ao erário.",
+"c": false,
+"prof": "Art. 151.",
+"x": "São três graus (leves, médias e graves), segundo a intensidade do dolo ou o grau da culpa.",
+"e": "Três graus, por dolo/culpa."
+},
+{
+"p": "A classificação da transgressão é feita pela autoridade competente para impor a penalidade, tendo em vista o fato, suas condições e os antecedentes pessoais do transgressor.",
+"c": true,
+"prof": "Art. 152.",
+"x": "Quem pune é quem classifica.",
+"e": "Classifica quem pune."
+},
+{
+"p": "Segundo a Lei 5.406/1969, só se torna necessária e eficaz a aplicação da pena quando dela advém benefício ao punido, pela reeducação, ou à classe, pelo fortalecimento da disciplina e da justiça.",
+"c": true,
+"prof": "Art. 152, § 1º.",
+"x": "É a finalidade da pena disciplinar.",
+"e": "Pena: reeducar ou fortalecer disciplina."
+},
+{
+"p": "Segundo a Lei 5.406/1969, será SEMPRE classificada como grave a transgressão:",
+"alts": [
+"praticada por servidor em estágio probatório",
+"cometida fora do horário de serviço",
+"contrária aos preceitos da hierarquia e de respeito à autoridade",
+"culposa que cause prejuízo de pequeno valor",
+"praticada pela primeira vez"
+],
+"r": 2,
+"n": [
+"Não há essa hipótese.",
+"Não há essa hipótese.",
+"Correta: art. 152, § 2º, V.",
+"Não há essa hipótese.",
+"Primariedade não torna a falta grave."
+],
+"prof": "Art. 152, § 2º.",
+"x": "Sempre grave: infamante e desonrosa; ofensiva à dignidade; atentatória às instituições ou à ordem legal; ação ou omissão deliberada prejudicial ao serviço; contrária à hierarquia.",
+"e": "5 casos de falta sempre grave."
+},
+{
+"p": "É sempre classificada como grave a transgressão de natureza infamante e desonrosa.",
+"c": true,
+"prof": "Art. 152, § 2º, I.",
+"x": "É uma das cinco hipóteses de gravidade obrigatória.",
+"e": "Infamante = grave."
+},
+{
+"p": "É sempre grave a transgressão decorrente de ação ou omissão deliberada, prejudicial ao serviço policial.",
+"c": true,
+"prof": "Art. 152, § 2º, IV.",
+"x": "O elemento é a conduta deliberada.",
+"e": "Deliberada e prejudicial = grave."
+},
+{
+"p": "Influem no julgamento das transgressões as causas justificativas e as circunstâncias atenuantes e agravantes.",
+"c": true,
+"prof": "Art. 153.",
+"x": "São os três elementos.",
+"e": "Justificativas, atenuantes, agravantes."
+},
+{
+"p": "Não haverá punição quando, no julgamento da transgressão, for reconhecida qualquer causa justificativa.",
+"c": true,
+"prof": "Art. 153, § 4º.",
+"x": "A justificativa exclui a punição.",
+"e": "Justificativa: sem punição."
+},
+{
+"p": "Reconhecida causa justificativa, a pena deve ser reduzida à metade.",
+"c": false,
+"prof": "Art. 153, § 4º.",
+"x": "Não há punição.",
+"e": "Justificativa ≠ redução."
+},
+{
+"p": "É causa justificativa ter sido a transgressão cometida em legítima defesa própria ou de outrem.",
+"c": true,
+"prof": "Art. 153, § 1º, V.",
+"x": "Afasta a punição.",
+"e": "Legítima defesa: justificativa."
+},
+{
+"p": "É causa justificativa ter sido a transgressão cometida em obediência a ordem superior.",
+"c": true,
+"prof": "Art. 153, § 1º, IV.",
+"x": "Combine com o art. 146: a ordem não pode ser manifestamente ilegal.",
+"e": "Ordem superior: justificativa."
+},
+{
+"p": "A ignorância plenamente comprovada é causa justificativa, quando não atente contra os sentimentos normais de patriotismo, humanidade e probidade.",
+"c": true,
+"prof": "Art. 153, § 1º, I.",
+"x": "Precisa ser plenamente comprovada e não ofender esses sentimentos.",
+"e": "Ignorância comprovada: justificativa."
+},
+{
+"p": "A aceitável ignorância ou errônea compreensão das disposições legais é causa justificativa, que afasta a punição.",
+"c": false,
+"prof": "Art. 153, § 2º, VII.",
+"x": "A aceitável ignorância é circunstância atenuante. A causa justificativa é a ignorância plenamente comprovada (§ 1º, I).",
+"e": "Ignorância aceitável: só atenua."
+},
+{
+"p": "É causa justificativa ter sido a transgressão cometida na prática de ação meritória, no interesse do serviço, da ordem ou do sossego público.",
+"c": true,
+"prof": "Art. 153, § 1º, III.",
+"x": "Ação meritória justifica.",
+"e": "Ação meritória."
+},
+{
+"p": "O motivo de força maior plenamente comprovado e justificado é causa justificativa.",
+"c": true,
+"prof": "Art. 153, § 1º, II.",
+"x": "Exige comprovação plena.",
+"e": "Força maior: justificativa."
+},
+{
+"p": "É circunstância atenuante ter o transgressor confessado espontaneamente a falta perante a autoridade sindicante, de modo a facilitar a sua apuração.",
+"c": true,
+"prof": "Art. 153, § 2º, IX.",
+"x": "A confissão deve ser espontânea e facilitar a apuração.",
+"e": "Confissão espontânea: atenua."
+},
+{
+"p": "É atenuante ter o transgressor procurado diminuir as consequências da falta, antes da pena, reparando o dano.",
+"c": true,
+"prof": "Art. 153, § 2º, VIII.",
+"x": "A reparação deve vir antes da pena.",
+"e": "Reparar antes da pena: atenua."
+},
+{
+"p": "A falta de prática do serviço é circunstância atenuante.",
+"c": true,
+"prof": "Art. 153, § 2º, III.",
+"x": "Está no rol de atenuantes.",
+"e": "Inexperiência atenua."
+},
+{
+"p": "Segundo a Lei 5.406/1969, é circunstância AGRAVANTE:",
+"alts": [
+"bom comportamento anterior",
+"relevância de serviços prestados",
+"ter sido cometida a falta em presença de subordinados",
+"ter sido de somenos importância a participação do indiciado",
+"ter sido a transgressão cometida para evitar mal maior"
+],
+"r": 2,
+"n": [
+"Atenuante (§ 2º, I).",
+"Atenuante (§ 2º, II).",
+"Correta: agravante (§ 3º, X).",
+"Atenuante (§ 2º, VI).",
+"Atenuante (§ 2º, V)."
+],
+"prof": "Art. 153, §§ 2º e 3º.",
+"x": "As agravantes incluem reincidência, mau comportamento, concurso de agentes, abuso de poder, premeditação, lugar público e presença de subordinados.",
+"e": "Presença de subordinados: agrava."
+},
+{
+"p": "São circunstâncias agravantes a reincidência específica ou genérica e o mau comportamento anterior.",
+"c": true,
+"prof": "Art. 153, § 3º, I e II.",
+"x": "A reincidência pode ser genérica.",
+"e": "Reincidência genérica agrava."
+},
+{
+"p": "Para agravar a pena disciplinar, a reincidência deve ser específica.",
+"c": false,
+"prof": "Art. 153, § 3º, I.",
+"x": "A lei admite reincidência específica ou genérica.",
+"e": "Reincidência: específica ou genérica."
+},
+{
+"p": "Ter sido a transgressão praticada com premeditação ou em lugar público são circunstâncias agravantes.",
+"c": true,
+"prof": "Art. 153, § 3º, XI e XII.",
+"x": "Ambas estão no rol.",
+"e": "Premeditação e lugar público."
+},
+{
+"p": "As circunstâncias agravantes só incidem quando não constituírem ou qualificarem outra transgressão disciplinar.",
+"c": true,
+"prof": "Art. 153, § 3º, caput.",
+"x": "Evita considerar o mesmo dado duas vezes.",
+"e": "Agravante não pode ser a própria falta."
+},
+{
+"p": "Impedir ou dificultar, de qualquer maneira, a apuração de falta é circunstância agravante.",
+"c": true,
+"prof": "Art. 153, § 3º, IX.",
+"x": "Está no rol de agravantes.",
+"e": "Atrapalhar a apuração agrava."
+},
+{
+"p": "São penas disciplinares: repreensão, suspensão, multa, demissão, demissão a bem do serviço público e cassação de aposentadoria ou disponibilidade.",
+"c": true,
+"prof": "Art. 154.",
+"x": "São seis penas.",
+"e": "6 penas."
+},
+{
+"p": "A advertência verbal é pena disciplinar prevista na Lei 5.406/1969.",
+"c": false,
+"prof": "Art. 154.",
+"x": "Não há advertência; a repreensão é aplicada por escrito.",
+"e": "Sem advertência; repreensão escrita."
+},
+{
+"p": "A aplicação das penas disciplinares deve obedecer à sequência do art. 154, começando sempre pela repreensão.",
+"c": false,
+"prof": "Art. 154, parágrafo único.",
+"x": "A aplicação não se sujeita à sequência; é autônoma, conforme a natureza e a gravidade da infração e os danos ao serviço.",
+"e": "Pena autônoma, sem escada."
+},
+{
+"p": "A pena de repreensão é aplicada por escrito e corresponde, em princípio, às faltas de cumprimento de deveres e às transgressões leves.",
+"c": true,
+"prof": "Art. 155.",
+"x": "Repreensão: escrita, para faltas leves.",
+"e": "Repreensão: escrita, leves."
+},
+{
+"p": "Havendo dolo ou má-fé, as faltas de cumprimento de deveres são punidas com suspensão.",
+"c": true,
+"prof": "Art. 155, parágrafo único.",
+"x": "O dolo ou a má-fé afastam a repreensão.",
+"e": "Dolo/má-fé: suspensão."
+},
+{
+"p": "A pena de suspensão não excederá noventa dias e será aplicada no caso de falta grave ou de reincidência.",
+"c": true,
+"prof": "Art. 156.",
+"x": "Teto de 90 dias.",
+"e": "Suspensão: até 90 dias."
+},
+{
+"p": "O servidor policial suspenso mantém as vantagens do cargo, perdendo apenas o vencimento básico.",
+"c": false,
+"prof": "Art. 156, § 1º.",
+"x": "O suspenso perde todas as vantagens e direitos decorrentes do exercício do cargo.",
+"e": "Suspenso perde tudo."
+},
+{
+"p": "A autoridade que aplicar a suspensão pode convertê-la em multa, na base de 50% por dia de vencimento ou remuneração, ficando o servidor obrigado a permanecer em serviço.",
+"c": true,
+"prof": "Art. 156, § 2º.",
+"x": "A conversão mantém o servidor trabalhando.",
+"e": "Conversão: 50%/dia, em serviço."
+},
+{
+"p": "Convertida a suspensão em multa, o servidor fica afastado do serviço e perde 100% da remuneração diária.",
+"c": false,
+"prof": "Art. 156, § 2º.",
+"x": "O desconto é de 50% por dia, e o servidor permanece em serviço.",
+"e": "Multa: 50%, trabalhando."
+},
+{
+"p": "A pena de multa é aplicada na forma e nos casos expressamente previstos em lei ou regulamentos.",
+"c": true,
+"prof": "Art. 157.",
+"x": "Depende de previsão expressa.",
+"e": "Multa: previsão expressa."
+},
+{
+"p": "Considera-se abandono de cargo o não comparecimento do servidor ao serviço por mais de trinta dias consecutivos.",
+"c": true,
+"prof": "Art. 158, § 1º.",
+"x": "O abandono gera demissão.",
+"e": "Abandono: +30 dias seguidos."
+},
+{
+"p": "Considera-se abandono de cargo a ausência injustificada por mais de quarenta e cinco dias interpolados durante um ano.",
+"c": false,
+"prof": "Art. 158, I e V, e § 1º.",
+"x": "Abandono é mais de 30 dias consecutivos. A ausência por mais de 45 dias interpolados no ano é outra causa de demissão (inassiduidade).",
+"e": "30 seguidos ≠ 45 interpolados."
+},
+{
+"p": "É aplicada a pena de demissão ao servidor que se ausentar do serviço, sem causa justificável, por mais de quarenta e cinco dias, interpoladamente, durante um ano.",
+"c": true,
+"prof": "Art. 158, V.",
+"x": "São faltas não consecutivas somadas no ano.",
+"e": "45 interpolados/ano: demissão."
+},
+{
+"p": "A pena de demissão por ineficiência no serviço só é aplicada quando verificada a impossibilidade de readaptação.",
+"c": true,
+"prof": "Art. 158, § 2º.",
+"x": "A readaptação vem antes.",
+"e": "Ineficiência: tentar readaptar."
+},
+{
+"p": "Exercer qualquer atividade remunerada estando licenciado para tratamento de saúde é causa de demissão.",
+"c": true,
+"prof": "Art. 158, VI.",
+"x": "Está no art. 158.",
+"e": "Trabalhar na licença-saúde: demissão."
+},
+{
+"p": "A aplicação indevida de dinheiros públicos é causa de demissão.",
+"c": true,
+"prof": "Art. 158, IV.",
+"x": "Está entre as hipóteses do art. 158.",
+"e": "Dinheiro público mal aplicado."
+},
+{
+"p": "É aplicada a pena de demissão a bem do serviço público ao servidor policial que receber ou solicitar propinas, comissões, presentes ou vantagens de qualquer espécie, direta ou indiretamente, em razão de cumprimento de missão policial.",
+"c": true,
+"prof": "Art. 159, VII.",
+"x": "Também pedir dinheiro emprestado a quem tenha interesse na repartição (VIII).",
+"e": "Propina: demissão a bem do serviço."
+},
+{
+"p": "É causa de demissão a bem do serviço público praticar, em serviço ou em decorrência dele, ofensas físicas contra funcionários ou particulares, salvo em legítima defesa.",
+"c": true,
+"prof": "Art. 159, V.",
+"x": "A legítima defesa afasta a hipótese.",
+"e": "Ofensa física: salvo legítima defesa."
+},
+{
+"p": "Ser contumaz na prática de transgressões disciplinares é causa de demissão a bem do serviço público.",
+"c": true,
+"prof": "Art. 159, XI.",
+"x": "A reiteração habitual leva à pena máxima.",
+"e": "Contumácia: demissão a bem."
+},
+{
+"p": "Exercer advocacia administrativa e praticar usura em qualquer de suas formas são causas de demissão a bem do serviço público.",
+"c": true,
+"prof": "Art. 159, X e XII.",
+"x": "Ambas estão no art. 159.",
+"e": "Advocacia administrativa e usura."
+},
+{
+"p": "Revelar segredos conhecidos em razão do cargo, dolosamente e com prejuízo para o Estado ou particulares, é causa de demissão a bem do serviço público.",
+"c": true,
+"prof": "Art. 159, III.",
+"x": "Exige dolo e prejuízo.",
+"e": "Revelar segredo com dolo e prejuízo."
+},
+{
+"p": "A embriaguez habitual e o uso de substâncias entorpecentes que determine dependência física ou psíquica estão entre as causas de demissão a bem do serviço público.",
+"c": true,
+"prof": "Art. 159, I.",
+"x": "O inciso também cita a incontinência pública e escandalosa e o vício de jogos proibidos.",
+"e": "Embriaguez habitual: demissão a bem."
+},
+{
+"p": "Incitar greves ou a elas aderir é causa de demissão a bem do serviço público na Lei 5.406/1969.",
+"c": true,
+"prof": "Art. 159, XIII.",
+"x": "Também praticar atos de sabotagem contra o regime ou o serviço público.",
+"e": "Greve: demissão a bem (texto da lei)."
+},
+{
+"p": "Apresentar, com dolo, declaração falsa em matéria de abono familiar ou de outro benefício é causa de demissão a bem do serviço público, sem prejuízo da responsabilidade civil e criminal.",
+"c": true,
+"prof": "Art. 159, XIV.",
+"x": "As responsabilidades são independentes.",
+"e": "Declaração falsa de benefício."
+},
+{
+"p": "É aplicada a cassação de aposentadoria ou disponibilidade se ficar provado que o servidor inativo praticou, quando em atividade, falta grave punida com demissão ou demissão a bem do serviço público.",
+"c": true,
+"prof": "Art. 160, I.",
+"x": "A aposentadoria não apaga a falta cometida em atividade.",
+"e": "Cassação: falta da ativa."
+},
+{
+"p": "Aceitar representação de Estado estrangeiro sem prévia autorização do Presidente da República é causa de cassação de aposentadoria ou disponibilidade.",
+"c": true,
+"prof": "Art. 160, III.",
+"x": "Também aceitar ilegalmente cargo ou função pública (II).",
+"e": "Representar Estado estrangeiro."
+},
+{
+"p": "Para a aplicação das penalidades disciplinares, o Governador do Estado é competente em qualquer caso.",
+"c": true,
+"prof": "Art. 161, I.",
+"x": "É a única autoridade sem limite.",
+"e": "Governador: qualquer pena."
+},
+{
+"p": "O Corregedor-Geral de Polícia é competente para aplicar penalidades até a de suspensão por trinta dias.",
+"c": true,
+"prof": "Art. 161, IV.",
+"x": "O órgão disciplinar vai até 60 dias; o Secretário, até 90.",
+"e": "Corregedor: até 30 dias."
+},
+{
+"p": "O órgão disciplinar da Polícia Civil pode aplicar suspensão de até noventa dias.",
+"c": false,
+"prof": "Art. 161, II e III.",
+"x": "O órgão disciplinar vai até 60 dias; 90 dias é o limite do Secretário.",
+"e": "Órgão disciplinar: 60."
+},
+{
+"p": "Os demais Delegados de Polícia de carreira podem aplicar até a pena de suspensão por cinco dias, limitada a competência ao pessoal diretamente subordinado.",
+"c": true,
+"prof": "Art. 161, VII e parágrafo único.",
+"x": "Os itens V, VI e VII são limitados aos subordinados diretos.",
+"e": "Delegado: 5 dias, subordinados."
+},
+{
+"p": "Os Delegados Regionais e os Delegados de Classe Especial podem aplicar até suspensão por dez dias.",
+"c": true,
+"prof": "Art. 161, VI.",
+"x": "Limitada ao pessoal diretamente subordinado.",
+"e": "Regionais: 10 dias."
+},
+{
+"p": "A competência de todas as autoridades do art. 161 é limitada ao pessoal que lhes é diretamente subordinado.",
+"c": false,
+"prof": "Art. 161, parágrafo único.",
+"x": "A limitação vale só para os itens V, VI e VII.",
+"e": "Limite de subordinação: só V a VII."
+},
+{
+"p": "Segundo a Lei 5.406/1969, a autoridade competente para aplicar suspensão de até 60 dias é:",
+"alts": [
+"o Governador do Estado, apenas",
+"o Corregedor-Geral de Polícia",
+"o órgão disciplinar da Polícia Civil",
+"os Delegados Regionais",
+"os Chefes de Departamento"
+],
+"r": 2,
+"n": [
+"O Governador aplica qualquer pena, mas o limite de 60 dias é o do órgão disciplinar.",
+"Até 30 dias.",
+"Correta: art. 161, III.",
+"Até 10 dias.",
+"Até 30 dias."
+],
+"prof": "Art. 161.",
+"x": "Escada: Governador (tudo), Secretário (90), órgão disciplinar (60), Corregedor (30), Superintendentes e Chefes de Departamento (30), Regionais (10), demais Delegados (5).",
+"e": "60 dias: órgão disciplinar."
+},
+{
+"p": "No curso do processo administrativo disciplinar, podem ser aplicadas como medidas acessórias a prisão administrativa e a suspensão preventiva.",
+"c": true,
+"prof": "Art. 162.",
+"x": "São medidas acessórias.",
+"e": "Medidas acessórias."
+},
+{
+"p": "A prisão administrativa e a suspensão preventiva não podem exceder noventa dias.",
+"c": true,
+"prof": "Art. 162, § 1º.",
+"x": "Teto de 90 dias.",
+"e": "Medidas: até 90 dias."
+},
+{
+"p": "O Corregedor-Geral de Polícia é competente para aplicar a prisão administrativa.",
+"c": false,
+"prof": "Art. 162, § 2º.",
+"x": "O Corregedor-Geral e o Órgão Disciplinar só aplicam a suspensão preventiva; a prisão administrativa cabe ao Secretário.",
+"e": "Corregedor: só suspensão preventiva."
+},
+{
+"p": "O Órgão Disciplinar da Polícia Civil e o Corregedor-Geral de Polícia são competentes para aplicar a suspensão preventiva.",
+"c": true,
+"prof": "Art. 162, § 2º, II.",
+"x": "O Secretário aplica as duas medidas.",
+"e": "Suspensão preventiva: Corregedor também."
+}
+]
+},
+"lei5406-processo": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2</b><span>feitos de apuração: sindicância e processo (art. 164)</span></div><div class=\"lt-stat\"><b>8 dias</b><span>para iniciar o processo, contados do ato de instauração (art. 178)</span></div><div class=\"lt-stat\"><b>60 + 60 + 60</b><span>dias: prazo do processo e prorrogações (art. 188)</span></div><div class=\"lt-stat\"><b>10</b><span>testemunhas, no máximo, para o acusado (art. 181)</span></div></div>\n<h3>1. Sindicância e processo administrativo (arts. 163 a 168)</h3>\n<ul><li>O procedimento para apurar transgressões dos servidores da Polícia Civil compreende <b>dois feitos</b> (art. 164): <b>I – sindicância administrativa</b> e <b>II – processo administrativo</b>. Instaura-se um ou outro para apurar ação ou omissão punível disciplinarmente (art. 165).</li><li><b>Processo obrigatório</b> (art. 166): quando a falta, <b>por sua natureza, possa determinar a pena de demissão</b>.</li><li><b>Sindicância antes do processo</b> (parágrafo único): o processo será <b>precedido de sindicância</b> quando <b>não houver elementos suficientes</b> para concluir pela <b>existência da falta ou de sua autoria</b>.</li><li><b>Verdade sabida</b> (art. 167): nos casos do <b>art. 150</b>, pode-se aplicar a pena <b>pela verdade sabida</b>, salvo se, pelas circunstâncias, for conveniente instaurar sindicância ou processo. <b>Verdade sabida</b> é o <b>conhecimento pessoal e direto da falta</b> pela <b>autoridade competente para aplicar a pena</b>.</li><li><b>Quem instaura</b> (art. 168): o <b>processo administrativo</b>, as autoridades do art. 161 <b>até o item IV</b> (Governador, Secretário, órgão disciplinar e Corregedor-Geral); a <b>sindicância</b>, as autoridades <b>até o item VII</b> (todas, incluindo Superintendentes, Delegados Regionais e demais Delegados).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Verdade sabida x Constituição | A <b>verdade sabida</b> (punir sem processo porque a autoridade viu a falta) vem de 1969. Depois da Constituição de 1988, que garante <b>contraditório e ampla defesa</b> também no processo administrativo (art. 5º, LV), a doutrina e os tribunais entendem que <b>não se pode aplicar pena sem defesa</b>. Em prova de lei seca, porém, cobra-se o texto do art. 167.</div>\n<table class=\"tab\"><thead><tr><th>Feito</th><th>Natureza</th><th>Quando</th></tr></thead><tbody><tr><td><b>Sindicância</b></td><td>meio <b>sumário</b> e, o quanto possível, <b>sigiloso</b> de verificação</td><td>apurar fatos e autoria; preparar o processo quando faltam elementos</td></tr><tr><td><b>Processo administrativo</b></td><td>procedimento completo, com citação, instrução, defesa e relatório</td><td><b>obrigatório</b> se a falta puder levar à <b>demissão</b></td></tr></tbody></table>\n<h3>2. A sindicância (arts. 169 a 172)</h3>\n<ul><li><b>Quem conduz</b> (art. 169): um <b>funcionário</b> ou uma <b>comissão de funcionários</b> de condição hierárquica <b>nunca inferior à do indiciado</b>, ou a <b>Comissão Processante Permanente</b>.</li><li><b>Diligências</b> (art. 170): o sindicante, dando <b>início imediato</b>, <b>ouve testemunhas</b> sobre os fatos da portaria ou despacho e, <b>sempre que possível, o acusado</b>; <b>colhe as demais provas</b> e conclui pela <b>procedência ou não</b> da arguição.</li><li><b>Inquérito policial como sindicância</b> (art. 171): a critério da autoridade superior, as <b>provas colhidas em inquérito policial</b> instaurado contra o policial, das quais resulte <b>responsabilidade administrativa a que caiba pena de suspensão</b>, podem valer como <b>sindicância</b>.</li><li><b>Dedicação exclusiva</b> (art. 172): a critério da autoridade que o designar, o sindicante pode dedicar <b>todo o seu tempo</b> ao encargo, ficando <b>automaticamente dispensado</b> do serviço da repartição durante os trabalhos.</li></ul>\n<h3>3. Comissões Processantes Permanentes (arts. 173 a 177)</h3>\n<ul><li><b>Onde</b> (art. 173): na estrutura correcional da Polícia Civil (o texto de 1969 fala em Superintendência de Polícia Judiciária e Correições), destinadas a realizar os <b>processos administrativos</b>. Os membros são <b>designados pelo Secretário de Estado</b>. Isso <b>não impede</b> a designação de <b>Comissões Especiais</b> pelo <b>Secretário</b>, pelo <b>Corregedor-Geral</b> ou pelo <b>órgão disciplinar</b>.</li><li><b>Composição</b> (art. 174): <b>três servidores estáveis</b> da Polícia Civil, com <b>presidência de Delegado de Polícia de carreira</b>. Haverá <b>tantas comissões quantas forem necessárias</b>.</li><li><b>Impedimento</b> (art. 175): não pode conduzir sindicância nem integrar a Comissão, <b>nem mesmo como secretário</b>, <b>parente consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau inclusive</b>, do <b>denunciante ou do indiciado</b>, nem o <b>subordinado</b> deste. O designado deve <b>comunicar desde logo</b> o impedimento à autoridade.</li><li><b>Dedicação</b> (art. 176): os membros das <b>Permanentes</b> e seus secretários dedicam <b>todo o tempo</b> aos processos e sindicâncias, <b>dispensados de outros serviços</b> durante a designação. Nas <b>comissões não permanentes</b> (também de <b>três membros</b>), o afastamento dos cargos <b>só ocorre por expressa determinação</b> da autoridade que as designar.</li><li><b>Jurisdição</b> (art. 177): as Comissões <b>Permanentes e Especiais</b> têm jurisdição <b>em todo o Estado</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O sindicante pode ser de hierarquia inferior à do indiciado, se for mais experiente</span><br>✅ <span class=\"certo\">Art. 169: condição hierárquica <b>nunca inferior</b> à do indiciado</span></li><li>❌ <span class=\"banca\">O secretário da comissão pode ser primo do acusado, pois não vota</span><br>✅ <span class=\"certo\">Art. 175: o impedimento vale <b>mesmo como secretário</b>, para parentes <b>até o 3º grau</b> (primo é 4º grau colateral, mas tio e sobrinho, 3º grau, estão impedidos)</span></li><li>❌ <span class=\"banca\">A comissão processante é formada por dois servidores e um Delegado</span><br>✅ <span class=\"certo\">São <b>três servidores estáveis</b>, com <b>presidência</b> de Delegado de carreira</span></li><li>❌ <span class=\"banca\">A comissão só atua na região onde foi criada</span><br>✅ <span class=\"certo\">Jurisdição <b>em todo o Estado</b> (art. 177)</span></li><li>❌ <span class=\"banca\">Integrantes de comissão especial ficam sempre afastados dos cargos</span><br>✅ <span class=\"certo\">Só por <b>expressa determinação</b> da autoridade que a designar (art. 176, parágrafo único)</span></li></ol></div>\n<h3>4. Atos do processo: início, citação e defesa (arts. 178 a 180)</h3>\n<ul><li><b>Início</b> (art. 178): o processo deve <b>iniciar-se em 8 dias</b>, contados da <b>data do ato que determinou a instauração</b>.</li><li><b>Ampla defesa</b> (art. 179): o acusado pode, <b>pessoalmente ou por procurador</b>, acompanhar todos os atos, <b>indicar e inquirir testemunhas</b>, requerer <b>juntada de documentos</b>, ter <b>vista dos autos em mãos da Comissão</b> e o mais que julgar necessário. A ampla defesa é a oportunidade de praticar esses atos <b>na fase instrutória</b>; a autoridade processante <b>não é obrigada a suprir de ofício</b> a omissão do acusado nessa fase.</li><li><b>Portaria</b> (art. 180): nela o <b>Presidente</b> da Comissão <b>ordena a citação</b> do acusado e <b>nomeia um dos membros</b> para <b>secretariar</b> os trabalhos.</li><li><b>Citação</b>: por <b>mandado próprio</b>, instruído com <b>cópia da portaria inicial</b> (§ 1º). Se o paradeiro for <b>desconhecido</b> ou o acusado <b>se ocultar</b>, a citação é feita <b>por edital</b>, com <b>prazo de 10 dias</b>, <b>publicado 5 vezes seguidas</b> no órgão oficial; findo o prazo, o processo segue <b>à revelia</b> (§ 2º).</li><li><b>Revel</b> (§ 3º): o funcionário que, citado ou intimado, <b>deixar de comparecer ou de se fazer representar</b>.</li></ul>\n<h3>5. Instrução (arts. 181 a 184)</h3>\n<ul><li>Feita a citação, começa a <b>instrução</b>: o Presidente marca <b>dia e hora</b> para o <b>interrogatório</b> e a <b>inquirição de testemunhas</b> (art. 181). O acusado é notificado para apresentar, <b>se quiser</b>, <b>rol de até 10 testemunhas</b>, <b>em 5 dias</b>. Durante a instrução, pode <b>substituí-las</b> ou indicar outras no lugar das que <b>não comparecerem</b>, respeitado o limite.</li><li><b>Ordem dos depoimentos</b> (art. 182): primeiro as testemunhas <b>arroladas pela Comissão</b>; depois, as <b>indicadas pelo acusado</b>. O defensor ou o acusado pode <b>reperguntar</b>. Se não comparecerem, o fato é registrado no termo. O Presidente pode <b>indeferir perguntas sem conexão</b> com a falta, <b>consignando-as no termo</b>. Testemunho de <b>servidores públicos ou militares</b>: requisitado aos seus <b>chefes ou comandantes imediatos</b>.</li><li><b>Diligências</b> (art. 183): o Presidente pode ordenar <b>qualquer diligência</b> conveniente; o acusado pode requerer o necessário à defesa, <b>desde que não seja protelatório</b>, prejudicial ao andamento ou sem interesse para os fatos. Se a pretensão for descabida, o Presidente a <b>recusa em despacho fundamentado</b>.</li><li><b>Arguições novas</b> (art. 184): a Comissão pode conhecer, na instrução, de <b>novas acusações</b> que surgirem, garantido ao acusado <b>produzir provas contra elas</b>.</li></ul>\n<h3>6. Defesa final, relatório e prazos (arts. 185 a 188)</h3>\n<ul><li><b>Fim da instrução</b> (art. 185): o acusado <b>não pode mais requerer diligências</b> e, <b>em 48 horas</b>, deve ser <b>citado para apresentar, por escrito, as razões finais</b>. Prazo da defesa: <b>10 dias</b>, com <b>vista dos autos</b> perante o secretário ou um membro da Comissão, <b>no lugar do processo</b>.</li><li><b>Defensor dativo</b> (art. 186): na <b>revelia</b> ou se o acusado <b>perder o prazo</b> da defesa, o Presidente <b>nomeia um funcionário</b>, <b>sempre que possível bacharel em Direito</b>, para produzi-la.</li><li><b>Relatório</b> (arts. 186 e 187): findo o prazo da defesa, a Comissão, <b>em 10 dias</b>, aprecia a prova e a defesa e apresenta o <b>relatório</b>. Nele aprecia, <b>para cada acusado separadamente</b>, as faltas atribuídas, as provas e as razões da defesa, <b>propondo absolvição ou punição</b> (indicando a pena cabível), e pode <b>sugerir outras providências</b> de interesse do serviço.</li><li><b>Prazo do processo</b> (art. 188): <b>60 dias</b>, contados da <b>citação do acusado</b>. A autoridade que instaurou pode <b>prorrogar por mais 60 dias</b>, por despacho, mediante <b>representação circunstanciada do Presidente</b>. Em <b>casos especiais</b>, o <b>Secretário de Estado</b> pode autorizar <b>nova e última prorrogação</b>, por tempo <b>não excedente</b> ao anterior (até 60 dias).</li></ul>\n<table class=\"tab\"><thead><tr><th>Ato</th><th>Prazo</th></tr></thead><tbody><tr><td>Iniciar o processo</td><td><b>8 dias</b> do ato de instauração (art. 178)</td></tr><tr><td>Citação por edital</td><td><b>10 dias</b>, edital publicado <b>5 vezes seguidas</b> (art. 180, § 2º)</td></tr><tr><td>Rol de testemunhas do acusado</td><td><b>5 dias</b>, até <b>10 testemunhas</b> (art. 181)</td></tr><tr><td>Citar para razões finais</td><td><b>48 horas</b> após o fim da instrução (art. 185)</td></tr><tr><td>Razões finais</td><td><b>10 dias</b> (art. 185, parágrafo único)</td></tr><tr><td>Relatório da Comissão</td><td><b>10 dias</b> (art. 187)</td></tr><tr><td>Conclusão do processo</td><td><b>60 dias</b> da citação + <b>60</b> (autoridade instauradora) + <b>até 60</b> (Secretário, última) (art. 188)</td></tr><tr><td>Julgamento</td><td><b>30 dias</b>, prorrogáveis por igual período (art. 189)</td></tr><tr><td>Publicação da decisão</td><td><b>8 dias</b> (art. 191)</td></tr><tr><td>Defesa no abandono de cargo</td><td><b>5 dias</b> (art. 194)</td></tr></tbody></table>\n<h3>7. Julgamento e regras gerais (arts. 189 a 193)</h3>\n<ul><li><b>Julgamento</b> (art. 189): recebendo os autos, a <b>autoridade que instaurou</b> o processo julga <b>em 30 dias, prorrogáveis por igual período</b>.</li><li><b>Atraso no julgamento</b> (parágrafo único): se o processo não for julgado no prazo, o acusado <b>suspenso preventivamente reassume automaticamente</b> o cargo e aguarda o julgamento <b>em exercício</b>, <b>salvo</b> se ainda durar <b>prisão administrativa</b> ou se o caso for de <b>abandono de cargo ou função</b>.</li><li><b>Pena acima da alçada</b> (art. 190): se a pena cabível escapar à sua competência, a autoridade instauradora deve <b>propô-la, justificadamente</b>, à autoridade competente, <b>dentro do prazo do julgamento</b>.</li><li><b>Publicação</b> (art. 191): as decisões são <b>sempre publicadas</b> no órgão oficial, <b>em 8 dias</b>.</li><li><b>Independência</b> (art. 192): o processo administrativo <b>não pode ser sobrestado</b> para aguardar decisão de <b>ação penal ou civil</b>.</li><li><b>Nulidades</b> (art. 193): não se declara nulo ato que <b>não tenha influído</b> na apuração da <b>verdade substancial</b> ou na <b>decisão</b>; os atos nulos <b>não afetam o processo todo</b>, só a <b>diligência</b> que contenham (sem prejuízo, sem nulidade).</li></ul>\n<h3>8. Processo por abandono de cargo (art. 194)</h3>\n<ul><li>Instaurado o processo e feita a citação, comparecendo o acusado e tomadas suas declarações, ele tem <b>5 dias</b> para oferecer defesa ou requerer provas, que <b>só podem versar sobre força maior ou coação ilegal</b>.</li><li>No mais, aplica-se, no que couber, o rito dos arts. 182 e seguintes. Na <b>revelia</b>, o Presidente designa um <b>funcionário como defensor</b>.</li></ul>\n<h3>9. Revisão do processo (arts. 195 a 205)</h3>\n<ul><li><b>Cabimento</b> (art. 195): revisão dos <b>processos findos</b>, mediante <b>recurso do punido</b>, quando: <b>I</b> – a decisão for <b>contrária a texto expresso de lei ou à evidência dos autos</b>; <b>II</b> – a decisão se fundar em <b>depoimentos, exames ou documentos comprovadamente falsos ou errados</b>; <b>III</b> – após a decisão, surgirem <b>novas provas da inocência</b> ou de circunstâncias que autorizem <b>pena mais branda</b>.</li><li>Pedido fora desses casos e <b>sem provas documentadas</b> é <b>indeferido liminarmente</b> (§ 1º). O pedido é dirigido à <b>autoridade que aplicou a pena</b> ou que a <b>confirmou em recurso</b> (§ 2º). <b>Não se admite reiteração</b>, <b>salvo</b> se fundada em <b>novas provas</b> (§ 3º).</li><li><b>Quando</b> (art. 196): <b>a qualquer tempo</b>. <b>Não autoriza agravar a pena</b> (proibição da <i>reformatio in pejus</i>).</li><li><b>Quem pede</b> (art. 197): o <b>próprio punido</b>, <b>procurador</b> habilitado ou, em caso de <b>morte</b> do punido, o <b>cônjuge, ascendente, descendente ou irmão</b>.</li><li><b>Não é fundamento</b> (art. 198): a <b>simples alegação de injustiça</b> da penalidade.</li><li><b>Quem processa</b> (art. 199): <b>Comissão Processante Permanente</b> ou, a juízo do <b>Secretário</b>, <b>Comissão Especial</b>. <b>Fica impedido</b> quem <b>integrou a comissão do processo</b> original. O Presidente designa um <b>secretário</b>.</li><li><b>Rito</b> (arts. 200 a 205): apensa-se o processo original (ou cópia); o requerente tem <b>5 dias</b> para juntar ou indicar provas; concluída a instrução, <b>10 dias</b> de vista para <b>alegações</b>; depois, com ou sem alegações, a Comissão envia o processo com <b>relatório fundamentado</b>, <b>em 15 dias</b>, à autoridade julgadora, que decide <b>em 30 dias</b> (sem prejuízo de diligências). Aplicam-se, no que couber, as regras do <b>art. 178 e seguintes</b>.</li><li><b>Resultado</b> (art. 204): <b>procedente</b> a revisão, a Administração determina a <b>redução ou o cancelamento</b> da pena.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A revisão só pode ser pedida em até 5 anos</span><br>✅ <span class=\"certo\">Pode ser pedida <b>a qualquer tempo</b> (art. 196)</span></li><li>❌ <span class=\"banca\">Na revisão, a comissão pode concluir que a pena foi branda e aumentá-la</span><br>✅ <span class=\"certo\">A revisão <b>não autoriza a agravação</b> da pena</span></li><li>❌ <span class=\"banca\">A alegação de que a pena foi injusta basta para revisar</span><br>✅ <span class=\"certo\">A <b>simples alegação de injustiça</b> não é fundamento (art. 198)</span></li><li>❌ <span class=\"banca\">Morto o punido, qualquer interessado pode pedir a revisão</span><br>✅ <span class=\"certo\">Só <b>cônjuge, ascendente, descendente ou irmão</b> (art. 197)</span></li><li>❌ <span class=\"banca\">Membro da comissão do processo original pode atuar na revisão</span><br>✅ <span class=\"certo\">Está <b>impedido</b> (art. 199, § 1º)</span></li><li>❌ <span class=\"banca\">O processo disciplinar deve aguardar o fim da ação penal</span><br>✅ <span class=\"certo\"><b>Não pode ser sobrestado</b> (art. 192)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Processo obrigatório</span></span><span class=\"vs\"><span>quando a falta puder levar à demissão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Verdade sabida</span></span><span class=\"vs\"><span>conhecimento pessoal e direto da falta pela autoridade que pune</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem instaura processo</span></span><span class=\"vs\"><span>autoridades do art. 161, I a IV</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem instaura sindicância</span></span><span class=\"vs\"><span>autoridades do art. 161, I a VII</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Composição da Comissão Permanente</span></span><span class=\"vs\"><span>3 servidores estáveis, presidida por Delegado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Impedimento de parentes</span></span><span class=\"vs\"><span>até o 3º grau, inclusive o secretário</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Citação por edital</span></span><span class=\"vs\"><span>10 dias, 5 publicações seguidas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Testemunhas do acusado</span></span><span class=\"vs\"><span>até 10, rol em 5 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Razões finais</span></span><span class=\"vs\"><span>citação em 48 h, prazo de 10 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do processo</span></span><span class=\"vs\"><span>60 dias da citação, +60, +60 (última, pelo Secretário)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Julgamento</span></span><span class=\"vs\"><span>30 dias, prorrogáveis por igual período</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Revisão</span></span><span class=\"vs\"><span>a qualquer tempo, sem agravar a pena</span></span></button></div></div>",
+"quiz": [
+{
+"p": "O procedimento administrativo para apuração das transgressões dos servidores da Polícia Civil compreende a sindicância administrativa e o processo administrativo.",
+"c": true,
+"prof": "Art. 164.",
+"x": "São dois feitos.",
+"e": "Sindicância e processo."
+},
+{
+"p": "Será obrigatório o processo administrativo quando a falta disciplinar, por sua natureza, possa determinar a pena de demissão.",
+"c": true,
+"prof": "Art. 166.",
+"x": "A possibilidade de demissão exige processo.",
+"e": "Demissão possível: processo obrigatório."
+},
+{
+"p": "A pena de demissão pode ser aplicada ao final de sindicância, dispensando-se o processo administrativo quando a autoria for evidente.",
+"c": false,
+"prof": "Art. 166.",
+"x": "O processo é obrigatório quando a falta puder determinar demissão.",
+"e": "Demissão: sempre processo."
+},
+{
+"p": "O processo administrativo será precedido de sindicância quando não houver elementos suficientes para se concluir pela existência da falta ou de sua autoria.",
+"c": true,
+"prof": "Art. 166, parágrafo único.",
+"x": "A sindicância prepara o processo.",
+"e": "Faltam elementos: sindicância antes."
+},
+{
+"p": "A sindicância deve sempre preceder o processo administrativo disciplinar.",
+"c": false,
+"prof": "Art. 166, parágrafo único.",
+"x": "Só precede quando faltarem elementos sobre a existência da falta ou sua autoria.",
+"e": "Sindicância prévia: só se faltar prova."
+},
+{
+"p": "Segundo a Lei 5.406/1969, entende-se por verdade sabida o conhecimento pessoal e direto da falta por parte da autoridade competente para aplicar a pena.",
+"c": true,
+"prof": "Art. 167, parágrafo único.",
+"x": "É a definição legal.",
+"e": "Verdade sabida."
+},
+{
+"p": "Nos casos do art. 150, a Lei 5.406/1969 permite aplicar a pena pela verdade sabida, salvo se, pelas circunstâncias da falta, for conveniente instaurar sindicância ou processo.",
+"c": true,
+"prof": "Art. 167.",
+"x": "É o texto legal; lembre que a Constituição de 1988 exige contraditório e ampla defesa.",
+"e": "Verdade sabida: art. 150."
+},
+{
+"p": "Verdade sabida é o conhecimento da falta por meio de denúncia anônima confirmada por testemunhas.",
+"c": false,
+"prof": "Art. 167, parágrafo único.",
+"x": "É o conhecimento pessoal e direto da falta pela própria autoridade competente para punir.",
+"e": "Verdade sabida: pessoal e direto."
+},
+{
+"p": "São competentes para determinar a instauração de processo administrativo as autoridades do art. 161 até o item IV, inclusive.",
+"c": true,
+"prof": "Art. 168.",
+"x": "Governador, Secretário, órgão disciplinar e Corregedor-Geral.",
+"e": "Processo: itens I a IV."
+},
+{
+"p": "Os Delegados de Polícia de carreira podem determinar a instauração de sindicância, mas não de processo administrativo.",
+"c": true,
+"prof": "Art. 168.",
+"x": "A sindicância pode ser instaurada pelas autoridades até o item VII do art. 161; o processo, só até o item IV.",
+"e": "Delegado: sindicância sim, processo não."
+},
+{
+"p": "Os Delegados Regionais de Polícia são competentes para determinar a instauração de processo administrativo disciplinar.",
+"c": false,
+"prof": "Art. 168.",
+"x": "Delegados Regionais estão no item VI; só instauram sindicância.",
+"e": "Regional: só sindicância."
+},
+{
+"p": "A sindicância é meio sumário e, o quanto possível, sigiloso de verificação.",
+"c": true,
+"prof": "Art. 169.",
+"x": "Sumária e sigilosa na medida do possível.",
+"e": "Sindicância: sumária e sigilosa."
+},
+{
+"p": "A sindicância será cometida a funcionário ou comissão de funcionários de condição hierárquica nunca inferior à do indiciado, ou à Comissão Processante Permanente.",
+"c": true,
+"prof": "Art. 169.",
+"x": "O sindicante não pode ser hierarquicamente inferior.",
+"e": "Sindicante: nunca inferior."
+},
+{
+"p": "A sindicância pode ser conduzida por servidor de hierarquia inferior à do indiciado, desde que seja estável.",
+"c": false,
+"prof": "Art. 169.",
+"x": "A condição hierárquica deve ser nunca inferior à do indiciado.",
+"e": "Nunca inferior."
+},
+{
+"p": "Na sindicância, o sindicante ouvirá testemunhas e, sempre que possível, o acusado, e colherá as demais provas, concluindo pela procedência ou não da arguição.",
+"c": true,
+"prof": "Art. 170.",
+"x": "A oitiva do acusado se dá sempre que possível.",
+"e": "Sindicância: testemunhas e acusado."
+},
+{
+"p": "As provas colhidas em inquérito policial instaurado contra o servidor, das quais resulte responsabilidade administrativa a que caiba suspensão, podem, a critério da autoridade superior, valer como sindicância.",
+"c": true,
+"prof": "Art. 171.",
+"x": "É o aproveitamento do inquérito.",
+"e": "Inquérito pode valer como sindicância."
+},
+{
+"p": "As provas de inquérito policial podem valer como sindicância para qualquer pena, inclusive a demissão.",
+"c": false,
+"prof": "Arts. 166 e 171.",
+"x": "O art. 171 fala em responsabilidade a que caiba pena de suspensão; a demissão exige processo administrativo.",
+"e": "Inquérito como sindicância: suspensão."
+},
+{
+"p": "A critério da autoridade que o designar, o sindicante pode dedicar todo o seu tempo à sindicância, ficando automaticamente dispensado do serviço da repartição.",
+"c": true,
+"prof": "Art. 172.",
+"x": "Depende do critério da autoridade.",
+"e": "Sindicante: dedicação a critério."
+},
+{
+"p": "Os membros das Comissões Processantes Permanentes são designados pelo Secretário de Estado.",
+"c": true,
+"prof": "Art. 173, § 1º.",
+"x": "A lei também permite Comissões Especiais.",
+"e": "Comissão Permanente: designada pelo Secretário."
+},
+{
+"p": "A existência de Comissões Processantes Permanentes não impede a designação de Comissões Especiais pelo Secretário, pelo Corregedor-Geral ou pelo órgão disciplinar da Polícia Civil.",
+"c": true,
+"prof": "Art. 173, § 2º.",
+"x": "Três autoridades podem designar Comissões Especiais.",
+"e": "Comissões Especiais."
+},
+{
+"p": "As Comissões Processantes Permanentes são constituídas de três servidores estáveis da Polícia Civil, com presidência de Delegado de Polícia de carreira.",
+"c": true,
+"prof": "Art. 174.",
+"x": "Três membros estáveis.",
+"e": "3 estáveis, presidente Delegado."
+},
+{
+"p": "A Comissão Processante Permanente é composta de cinco membros, presidida pelo Corregedor-Geral.",
+"c": false,
+"prof": "Art. 174.",
+"x": "São três servidores estáveis, presididos por Delegado de carreira.",
+"e": "Comissão: 3 membros."
+},
+{
+"p": "Haverá tantas Comissões Processantes Permanentes quantas forem julgadas necessárias.",
+"c": true,
+"prof": "Art. 174, parágrafo único.",
+"x": "Não há número fixo.",
+"e": "Quantas necessárias."
+},
+{
+"p": "Não pode integrar a Comissão Processante Permanente, nem mesmo como secretário, parente consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau inclusive, do denunciante ou do indiciado.",
+"c": true,
+"prof": "Art. 175.",
+"x": "Também o subordinado do indiciado.",
+"e": "Impedimento: até 3º grau."
+},
+{
+"p": "O impedimento de parentes na Comissão Processante abrange apenas os membros com direito a voto, não alcançando o secretário.",
+"c": false,
+"prof": "Art. 175.",
+"x": "A lei diz “mesmo como secretário desta”.",
+"e": "Secretário também impedido."
+},
+{
+"p": "O subordinado do indiciado não pode ser encarregado de sindicância contra ele.",
+"c": true,
+"prof": "Art. 175.",
+"x": "O artigo impede também o subordinado do indiciado.",
+"e": "Subordinado impedido."
+},
+{
+"p": "O funcionário designado para sindicância ou comissão deve comunicar desde logo à autoridade competente o impedimento que houver.",
+"c": true,
+"prof": "Art. 175, parágrafo único.",
+"x": "É dever do próprio designado.",
+"e": "Comunicar impedimento."
+},
+{
+"p": "Os membros das Comissões Processantes Permanentes e seus secretários dedicam todo o tempo aos processos e sindicâncias, ficando dispensados de outros serviços durante a designação.",
+"c": true,
+"prof": "Art. 176.",
+"x": "Dedicação integral nas Permanentes.",
+"e": "Permanentes: dedicação integral."
+},
+{
+"p": "Nas comissões não permanentes, também de três membros, os integrantes só podem ser afastados do exercício dos cargos por expressa determinação da autoridade que as designar.",
+"c": true,
+"prof": "Art. 176, parágrafo único.",
+"x": "Diferente das Permanentes, o afastamento não é automático.",
+"e": "Não permanentes: afastamento expresso."
+},
+{
+"p": "As Comissões Processantes Permanentes e Especiais têm jurisdição em todo o Estado.",
+"c": true,
+"prof": "Art. 177.",
+"x": "Jurisdição estadual.",
+"e": "Jurisdição: todo o Estado."
+},
+{
+"p": "O processo administrativo deve iniciar-se no prazo de oito dias, contados da data do ato que determinou sua instauração.",
+"c": true,
+"prof": "Art. 178.",
+"x": "8 dias.",
+"e": "Início: 8 dias."
+},
+{
+"p": "O processo administrativo deve iniciar-se em até trinta dias da publicação do ato de instauração.",
+"c": false,
+"prof": "Art. 178.",
+"x": "O prazo é de 8 dias, contados da data do ato que determinou a instauração.",
+"e": "8, não 30."
+},
+{
+"p": "É assegurado ao acusado o direito de ampla defesa, podendo, pessoalmente ou por procurador, acompanhar todos os atos processuais, indicar e inquirir testemunhas e requerer juntada de documentos.",
+"c": true,
+"prof": "Art. 179.",
+"x": "Também ter vista dos autos em mãos da Comissão.",
+"e": "Ampla defesa: atos do art. 179."
+},
+{
+"p": "A autoridade processante não é obrigada a suprir de ofício a omissão do acusado na fase instrutória.",
+"c": true,
+"prof": "Art. 179, § 2º.",
+"x": "A ampla defesa é a oportunidade de agir; a omissão do acusado não é suprida de ofício.",
+"e": "Omissão do acusado: não suprida."
+},
+{
+"p": "Na portaria que der início ao processo, o Presidente da Comissão ordenará a citação do acusado e nomeará um dos membros da Comissão para secretariar os trabalhos.",
+"c": true,
+"prof": "Art. 180.",
+"x": "O secretário é um dos membros.",
+"e": "Portaria: citação + secretário."
+},
+{
+"p": "A citação do acusado é feita em mandado próprio, instruído com cópia da portaria inicial.",
+"c": true,
+"prof": "Art. 180, § 1º.",
+"x": "É a regra.",
+"e": "Citação: mandado + portaria."
+},
+{
+"p": "Se for desconhecido o paradeiro do acusado ou se ele se ocultar, a citação será feita por edital, com prazo de dez dias, publicado cinco vezes seguidas no órgão oficial.",
+"c": true,
+"prof": "Art. 180, § 2º.",
+"x": "Findo o prazo, segue-se à revelia.",
+"e": "Edital: 10 dias, 5 vezes."
+},
+{
+"p": "A citação por edital tem prazo de quinze dias, com publicação única no órgão oficial.",
+"c": false,
+"prof": "Art. 180, § 2º.",
+"x": "Prazo de 10 dias, com edital publicado cinco vezes seguidas.",
+"e": "Edital: 10 dias, 5 publicações."
+},
+{
+"p": "É considerado revel o funcionário que, citado ou intimado para os atos processuais, deixar de comparecer ou de se fazer representar.",
+"c": true,
+"prof": "Art. 180, § 3º.",
+"x": "Basta não comparecer nem se fazer representar.",
+"e": "Revelia."
+},
+{
+"p": "O acusado pode apresentar rol de até dez testemunhas, no prazo de cinco dias.",
+"c": true,
+"prof": "Art. 181.",
+"x": "Pode substituí-las durante a instrução, respeitado o limite.",
+"e": "10 testemunhas, 5 dias."
+},
+{
+"p": "O acusado pode arrolar até cinco testemunhas, no prazo de dez dias.",
+"c": false,
+"prof": "Art. 181.",
+"x": "Os números estão invertidos: até 10 testemunhas, em 5 dias.",
+"e": "10 testemunhas em 5 dias."
+},
+{
+"p": "Respeitado o limite legal, o acusado pode, durante a fase instrutória, substituir testemunhas ou indicar outras no lugar das que não comparecerem.",
+"c": true,
+"prof": "Art. 181, parágrafo único.",
+"x": "A substituição respeita o limite de dez.",
+"e": "Substituir testemunhas."
+},
+{
+"p": "No processo administrativo, são ouvidas primeiro as testemunhas arroladas pela Comissão e, a seguir, as indicadas pelo acusado.",
+"c": true,
+"prof": "Art. 182.",
+"x": "Ordem: Comissão, depois defesa.",
+"e": "Ordem: Comissão → acusado."
+},
+{
+"p": "O Presidente pode indeferir as perguntas que não tiverem conexão com a falta, consignando-se no termo as que forem indeferidas.",
+"c": true,
+"prof": "Art. 182, § 3º.",
+"x": "As indeferidas ficam registradas.",
+"e": "Perguntas sem conexão: indeferidas e consignadas."
+},
+{
+"p": "Havendo necessidade do testemunho de servidores públicos ou militares, as solicitações devem ser feitas a seus chefes ou comandantes imediatos.",
+"c": true,
+"prof": "Art. 182, § 4º.",
+"x": "Requisição pela chefia imediata.",
+"e": "Testemunha servidor: via chefe."
+},
+{
+"p": "O Presidente da Comissão pode recusar, em despacho fundamentado, diligência requerida pelo acusado que seja protelatória, prejudicial ao andamento dos trabalhos ou de nenhum interesse para o esclarecimento dos fatos.",
+"c": true,
+"prof": "Art. 183 e parágrafo único.",
+"x": "A recusa precisa ser fundamentada.",
+"e": "Diligência protelatória: recusa fundamentada."
+},
+{
+"p": "A Comissão pode tomar conhecimento, na fase instrutória, de arguições novas contra o acusado, caso em que ele tem direito de produzir provas contra elas.",
+"c": true,
+"prof": "Art. 184.",
+"x": "Novas acusações exigem oportunidade de defesa.",
+"e": "Arguições novas."
+},
+{
+"p": "Encerrada a instrução, o acusado não pode mais requerer diligências e, em quarenta e oito horas, deve ser citado para apresentar, por escrito, as razões finais de defesa.",
+"c": true,
+"prof": "Art. 185.",
+"x": "Citação em 48 horas.",
+"e": "48 h: citar para razões finais."
+},
+{
+"p": "O acusado tem o prazo de dez dias para apresentar as razões finais, com vista dos autos perante o secretário ou qualquer membro da Comissão, no lugar do processo.",
+"c": true,
+"prof": "Art. 185, parágrafo único.",
+"x": "10 dias.",
+"e": "Razões finais: 10 dias."
+},
+{
+"p": "Para as razões finais, o acusado pode retirar os autos da repartição pelo prazo de dez dias.",
+"c": false,
+"prof": "Art. 185, parágrafo único.",
+"x": "A vista é dada no lugar do processo, em presença do secretário ou de membro da Comissão.",
+"e": "Vista no lugar do processo."
+},
+{
+"p": "No caso de revelia ou de perda do prazo para defesa, o Presidente nomeará um funcionário, sempre que possível bacharel em Direito, para produzi-la.",
+"c": true,
+"prof": "Art. 186.",
+"x": "É o defensor dativo.",
+"e": "Defensor dativo: preferencialmente bacharel."
+},
+{
+"p": "Na revelia, o processo segue sem defesa escrita, pois o acusado renunciou a esse direito.",
+"c": false,
+"prof": "Art. 186.",
+"x": "O Presidente deve nomear funcionário para produzir a defesa.",
+"e": "Revel tem defensor."
+},
+{
+"p": "Findo o prazo para a defesa, a Comissão, em dez dias, apreciará a prova e a defesa e apresentará seu relatório.",
+"c": true,
+"prof": "Art. 187.",
+"x": "Relatório em 10 dias.",
+"e": "Relatório: 10 dias."
+},
+{
+"p": "No relatório, a Comissão aprecia, em relação a cada acusado separadamente, as faltas, as provas e as razões da defesa, propondo a absolvição ou a punição e indicando, neste caso, a pena cabível.",
+"c": true,
+"prof": "Arts. 186 e 187 (regras do relatório).",
+"x": "Também pode sugerir outras providências de interesse do serviço.",
+"e": "Relatório: por acusado."
+},
+{
+"p": "O processo administrativo deve ser concluído no prazo de sessenta dias, a contar da citação do acusado.",
+"c": true,
+"prof": "Art. 188.",
+"x": "Conta-se da citação, não da portaria.",
+"e": "60 dias da citação."
+},
+{
+"p": "A autoridade que determinou a instauração pode prorrogar o prazo do processo por até mais sessenta dias, mediante representação circunstanciada do Presidente da Comissão.",
+"c": true,
+"prof": "Art. 188, § 1º.",
+"x": "Primeira prorrogação.",
+"e": "+60 pela autoridade instauradora."
+},
+{
+"p": "Em casos especiais, o Secretário de Estado pode autorizar nova e última prorrogação, por tempo não excedente ao da primeira.",
+"c": true,
+"prof": "Art. 188, § 2º.",
+"x": "Total possível: 60 + 60 + 60.",
+"e": "Última prorrogação: Secretário."
+},
+{
+"p": "O Corregedor-Geral pode autorizar sucessivas prorrogações do prazo do processo administrativo, sem limite, enquanto houver diligências pendentes.",
+"c": false,
+"prof": "Art. 188.",
+"x": "Há uma prorrogação pela autoridade instauradora e uma última, em casos especiais, pelo Secretário, cada uma de até 60 dias.",
+"e": "Prorrogações limitadas."
+},
+{
+"p": "Recebendo os autos, a autoridade que determinou a instauração do processo deve julgá-lo em trinta dias, prorrogáveis por igual período.",
+"c": true,
+"prof": "Art. 189.",
+"x": "30 + 30.",
+"e": "Julgamento: 30 dias."
+},
+{
+"p": "Se o processo não for julgado no prazo, o acusado suspenso preventivamente reassume automaticamente o cargo e aguarda em exercício o julgamento, salvo prisão administrativa que ainda perdure e abandono de cargo.",
+"c": true,
+"prof": "Art. 189, parágrafo único.",
+"x": "O retorno é automático, com essas exceções.",
+"e": "Atraso no julgamento: volta ao cargo."
+},
+{
+"p": "Se o julgamento atrasar, o acusado suspenso preventivamente reassume o cargo em qualquer caso, inclusive no processo por abandono de cargo.",
+"c": false,
+"prof": "Art. 189, parágrafo único.",
+"x": "O abandono de cargo e a prisão administrativa ainda em curso são exceções.",
+"e": "Exceção: abandono."
+},
+{
+"p": "Quando a penalidade cabível escapar à sua alçada, a autoridade que instaurou o processo deve propô-la, justificadamente, à autoridade competente, dentro do prazo do julgamento.",
+"c": true,
+"prof": "Art. 190.",
+"x": "Ela propõe, não aplica.",
+"e": "Fora da alçada: propõe."
+},
+{
+"p": "As decisões dos processos administrativos serão sempre publicadas no órgão oficial, dentro do prazo de oito dias.",
+"c": true,
+"prof": "Art. 191.",
+"x": "8 dias.",
+"e": "Publicação: 8 dias."
+},
+{
+"p": "O processo administrativo não pode ser sobrestado para aguardar a decisão de ação penal ou civil.",
+"c": true,
+"prof": "Art. 192.",
+"x": "As instâncias são independentes.",
+"e": "Sem sobrestamento."
+},
+{
+"p": "Quando o fato também for crime, o processo administrativo deve ficar suspenso até o trânsito em julgado da ação penal.",
+"c": false,
+"prof": "Art. 192.",
+"x": "A lei proíbe o sobrestamento.",
+"e": "Não espera a ação penal."
+},
+{
+"p": "Não se declara a nulidade de ato processual que não houver influído na apuração da verdade substancial ou na decisão do processo ou da sindicância.",
+"c": true,
+"prof": "Art. 193.",
+"x": "Sem prejuízo, não há nulidade.",
+"e": "Nulidade exige prejuízo."
+},
+{
+"p": "Os atos declarados nulos não afetam o processo em seu todo, mas apenas a diligência que contenham.",
+"c": true,
+"prof": "Art. 193.",
+"x": "A nulidade é parcial.",
+"e": "Nulidade parcial."
+},
+{
+"p": "No processo por abandono de cargo, o acusado tem cinco dias para oferecer defesa ou requerer provas, que só podem versar sobre força maior ou coação ilegal.",
+"c": true,
+"prof": "Art. 194.",
+"x": "A defesa é limitada.",
+"e": "Abandono: 5 dias, força maior ou coação."
+},
+{
+"p": "No processo por abandono de cargo, a defesa pode versar sobre qualquer matéria, inclusive dificuldades financeiras do servidor.",
+"c": false,
+"prof": "Art. 194.",
+"x": "Só pode versar sobre força maior ou coação ilegal.",
+"e": "Defesa restrita no abandono."
+},
+{
+"p": "No processo por abandono de cargo, havendo revelia, o Presidente designará um funcionário para servir de defensor.",
+"c": true,
+"prof": "Art. 194, § 2º.",
+"x": "Também aqui há defensor.",
+"e": "Abandono revel: defensor."
+},
+{
+"p": "Cabe revisão de processo findo quando a decisão for contrária a texto expresso de lei ou à evidência dos autos.",
+"c": true,
+"prof": "Art. 195, I.",
+"x": "Primeira hipótese.",
+"e": "Revisão: contra lei/autos."
+},
+{
+"p": "Cabe revisão quando, após a decisão, se descobrirem novas provas da inocência do punido ou de circunstâncias que autorizem pena mais branda.",
+"c": true,
+"prof": "Art. 195, III.",
+"x": "Também cabe se a decisão se fundou em prova falsa ou errada (II).",
+"e": "Revisão: provas novas."
+},
+{
+"p": "Os pedidos de revisão que não se fundarem nos casos legais e que não vierem documentados de provas serão indeferidos liminarmente.",
+"c": true,
+"prof": "Art. 195, § 1º.",
+"x": "Indeferimento in limine.",
+"e": "Revisão sem base: in limine."
+},
+{
+"p": "O pedido de revisão é dirigido à autoridade que aplicou a pena ou que a tiver confirmado em grau de recurso.",
+"c": true,
+"prof": "Art. 195, § 2º.",
+"x": "É a regra de endereçamento.",
+"e": "Revisão: a quem aplicou/confirmou."
+},
+{
+"p": "Não se admite a reiteração do pedido de revisão, salvo se fundado em novas provas.",
+"c": true,
+"prof": "Art. 195, § 3º.",
+"x": "Novas provas permitem novo pedido.",
+"e": "Reiteração: só com provas novas."
+},
+{
+"p": "A revisão pode ser pedida a qualquer tempo e não autoriza a agravação da pena.",
+"c": true,
+"prof": "Art. 196.",
+"x": "Sem prazo e sem reformatio in pejus.",
+"e": "Revisão: qualquer tempo, sem agravar."
+},
+{
+"p": "A revisão do processo disciplinar deve ser pedida em até cinco anos da decisão.",
+"c": false,
+"prof": "Art. 196.",
+"x": "Pode ser pedida a qualquer tempo.",
+"e": "Sem prazo."
+},
+{
+"p": "Julgada a revisão, a Administração pode agravar a pena se verificar que a punição original foi insuficiente.",
+"c": false,
+"prof": "Art. 196.",
+"x": "A revisão não autoriza a agravação da pena.",
+"e": "Proibido agravar."
+},
+{
+"p": "No caso de morte do punido, a revisão pode ser pedida pelo cônjuge, ascendente, descendente ou irmão.",
+"c": true,
+"prof": "Art. 197.",
+"x": "Em vida, pelo próprio punido ou procurador.",
+"e": "Morte: cônjuge, ascendente, descendente, irmão."
+},
+{
+"p": "Não constitui fundamento para revisão a simples alegação de injustiça da penalidade.",
+"c": true,
+"prof": "Art. 198.",
+"x": "É preciso uma das hipóteses do art. 195.",
+"e": "Injustiça não basta."
+},
+{
+"p": "A revisão será processada por Comissão Processante Permanente ou, a juízo do Secretário de Estado, por Comissão Especial.",
+"c": true,
+"prof": "Art. 199.",
+"x": "Dois caminhos.",
+"e": "Revisão: Permanente ou Especial."
+},
+{
+"p": "Fica impedido de funcionar na revisão quem houver integrado a comissão do processo administrativo.",
+"c": true,
+"prof": "Art. 199, § 1º.",
+"x": "Garante imparcialidade.",
+"e": "Impedido quem processou."
+},
+{
+"p": "Na revisão, o Presidente marca o prazo de cinco dias para que o requerente junte as provas que tiver ou indique as que pretende produzir.",
+"c": true,
+"prof": "Art. 200.",
+"x": "O processo original é apensado.",
+"e": "Revisão: 5 dias para provas."
+},
+{
+"p": "Concluída a instrução da revisão, abre-se vista ao requerente por dez dias para alegações.",
+"c": true,
+"prof": "Art. 201.",
+"x": "Perante o secretário da comissão.",
+"e": "Revisão: 10 dias alegações."
+},
+{
+"p": "Decorrido o prazo de alegações, ainda que sem elas, o processo de revisão é encaminhado com relatório fundamentado, em quinze dias, à autoridade competente para julgamento.",
+"c": true,
+"prof": "Art. 202.",
+"x": "15 dias.",
+"e": "Revisão: 15 dias para enviar."
+},
+{
+"p": "O prazo para julgamento da revisão é de trinta dias, sem prejuízo das diligências que a autoridade entenda necessárias.",
+"c": true,
+"prof": "Art. 203.",
+"x": "30 dias.",
+"e": "Revisão: julgar em 30."
+},
+{
+"p": "Julgada procedente a revisão, a Administração determinará a redução ou o cancelamento da pena.",
+"c": true,
+"prof": "Art. 204.",
+"x": "Nunca o agravamento.",
+"e": "Revisão: reduz ou cancela."
+},
+{
+"p": "Sobre a revisão do processo administrativo na Lei 5.406/1969, assinale a alternativa correta.",
+"alts": [
+"Deve ser pedida em até 120 dias da publicação da decisão.",
+"Pode ser processada pela mesma comissão que conduziu o processo original.",
+"Pode ser pedida, em caso de morte do punido, por irmão dele.",
+"A simples alegação de injustiça da pena é fundamento suficiente.",
+"Pode resultar em agravamento da pena, se surgirem provas novas contra o punido."
+],
+"r": 2,
+"n": [
+"Pode ser pedida a qualquer tempo (art. 196).",
+"Quem integrou a comissão original fica impedido (art. 199, § 1º).",
+"Correta: art. 197.",
+"Não é fundamento (art. 198).",
+"A revisão não autoriza agravação (art. 196)."
+],
+"prof": "Arts. 195 a 204.",
+"x": "Revisão: a qualquer tempo, sem agravar, só nas hipóteses do art. 195, por comissão diferente.",
+"e": "Revisão: regras."
+},
+{
+"p": "Na Lei 5.406/1969, os prazos para iniciar o processo administrativo, para o acusado apresentar o rol de testemunhas e para as razões finais são, respectivamente:",
+"alts": [
+"5, 8 e 10 dias",
+"8, 5 e 10 dias",
+"10, 5 e 8 dias",
+"8, 10 e 5 dias",
+"30, 5 e 15 dias"
+],
+"r": 1,
+"n": [
+"Inverteu o início e o rol.",
+"Correta: arts. 178, 181 e 185.",
+"Errado.",
+"Errado.",
+"Errado."
+],
+"prof": "Arts. 178, 181 e 185.",
+"x": "Início em 8 dias; rol de testemunhas em 5 dias; razões finais em 10 dias.",
+"e": "8 / 5 / 10."
+}
+]
 }
 }
 };
