@@ -72,6 +72,7 @@ function detalhe(el, c, ctx) {
         ${c.duracao_dias ? `<div class="muted" style="font-size:13px;margin:6px 0 12px">Acesso por ${c.duracao_dias % 30 === 0 && c.duracao_dias >= 30 ? `${c.duracao_dias / 30} ${c.duracao_dias === 30 ? 'mês' : 'meses'}` : `${c.duracao_dias} dias`}</div>` : ''}
         ${c.link_compra ? '<button class="btn" id="vtComprar" style="width:100%">Comprar agora</button>' : '<p class="muted">Vendas em breve.</p>'}
         <ul class="vt-inclui"><li>Calendário de estudos montado para o edital</li><li>Conteúdo programático com quadros e pegadinhas</li><li>Questões comentadas e flashcards</li><li>Liberação automática após o pagamento</li></ul>
+        ${c.link_compra ? '<p class="muted vt-aviso">🔒 Pagamento seguro pela Hotmart. Desistiu? Você tem <b>7 dias após a compra</b> para pedir o reembolso integral (art. 49 do Código de Defesa do Consumidor). Ao comprar, você concorda com os <a href="termos.html" target="_blank" rel="noopener">Termos de Uso</a>.</p>' : ''}
       </aside>
     </div>`;
   const b = el.querySelector('#vtComprar'); if (b) b.onclick = () => comprar(c, ctx);

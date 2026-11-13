@@ -11,6 +11,7 @@ import { usuarios, conferir } from './admin-usuarios.js';
 import { cursosVenda } from './admin-vitrine.js';
 import { compras } from './admin-compras.js';
 import { situacao } from '../acesso.js';
+import { backupCompleto } from '../privacidade.js';
 
 const COLS = 'codigo;modalidade;enunciado;alt_a;alt_b;alt_c;alt_d;alt_e;gabarito;comentario;materia;assunto;subassunto;banca;orgao;cargo;nivel;ano;dificuldade;situacao;origem;fonte;tags'.split(';');
 
@@ -23,6 +24,8 @@ const PASTAS = [
   ['materias', '📚', 'Matérias por curso', 'Incluir ou tirar matérias de cada curso'],
   ['pdfs', '📄', 'Conteúdo em PDF', 'Enviar PDF para virar conteúdo programático'],
   ['erros', '⚑', 'Erros reportados', 'Avisos de erro enviados pelos alunos'],
+  ['excluidas', '🗑', 'Contas excluídas', 'Alunos que excluíram a própria conta (aviso automático)'],
+  ['backup', '💾', 'Backup dos dados', 'Baixar uma cópia de segurança de todo o banco'],
   ['importar', '⬇', 'Importar do Base44', 'Migração dos dados antigos'],
 ];
 
@@ -36,6 +39,7 @@ export async function render(el, q) {
   const F = {
     usuarios: () => usuarios(box, atual), cadastros: () => cadastros(box, atual), vitrine: () => cursosVenda(box), compras: () => compras(box),
     materias: () => materiasCursos(box), pdfs: () => conteudoPdf(box), erros: () => reportes(box), importar: () => migracao(box),
+    excluidas: () => excluidas(box, atual), backup: () => backup(box),
   };
   try { await F[pasta[0]](); } catch (e) { box.innerHTML = `<p class="bad">${esc(e.message)}</p>`; }
 }
@@ -53,6 +57,9 @@ async function capa(el) {
     const cp = await db.select('compras', { select: 'id,status,aplicado_em', status: 'eq.aprovada' }).catch(() => []);
     const semConta = cp.filter((c) => !c.aplicado_em).length;
     tag('compras', cp.length ? `${cp.length} aprovada(s)${semConta ? ` · <i class="us-dot amarelo"></i>${semConta} sem conta` : ''}` : '');
+    const ex = await db.select('contas_excluidas', { select: 'id,vista' }).catch(() => []);
+    const exN = ex.filter((x) => !x.vista).length;
+    tag('excluidas', exN ? `<i class="us-dot vermelho"></i>${exN} nova(s)` : ex.length ? `${ex.length} registro(s)` : '');
     const cv = await db.select('cursos_venda', { select: 'id,publicado' }).catch(() => []);
     tag('vitrine', cv.length ? `${cv.filter((c) => c.publicado).length} publicado(s) de ${cv.length}` : '');
   } catch {}
@@ -208,4 +215,36 @@ async function reportes(box) {
   box.innerHTML = `<h3 style="margin-top:0">⚑ Erros reportados no conteúdo programático</h3>
     ${lista.length ? lista.map((r) => `<div class="row" style="border-top:1px solid var(--borda);padding:8px 0;align-items:flex-start"><div style="flex:1"><div class="muted" style="font-size:12px">${esc(String(r.created_at || '').slice(0, 10).split('-').reverse().join('/'))}</div>${esc(r.texto || '')}</div><button class="btn sec mini" data-ok="${r.id}">Resolvido</button></div>`).join('') : '<p class="muted">Nenhum erro pendente.</p>'}`;
   box.querySelectorAll('[data-ok]').forEach((b) => (b.onclick = async () => { try { await db.update('reportes', { id: 'eq.' + b.dataset.ok }, { resolvido: true }); reportes(box); } catch (e) { toast(e.message, 'erro'); } }));
+}
+
+// ---------- CONTAS EXCLUÍDAS ----------
+async function excluidas(box, atual) {
+  const ls = await db.select('contas_excluidas', { order: 'excluida_em.desc' });
+  const novas = ls.filter((x) => !x.vista).length;
+  box.innerHTML = `<div class="row"><h3 style="margin:0">Contas excluídas (${ls.length})</h3><span class="sp"></span>${novas ? '<button class="btn mini" id="exVistas">Marcar todas como vistas</button>' : ''}</div>
+    <p class="muted" style="font-size:13.5px">Quando um aluno usa “Excluir minha conta” no Perfil, a conta e os dados de estudo dele são apagados na hora, e ele aparece aqui. Guardamos só nome, e-mail, curso, motivo e data, por 6 meses. As compras dele continuam na pasta Compras Hotmart.</p>
+    ${ls.map((x) => `<div class="row" style="border-top:1px solid var(--borda);padding:10px 0;gap:10px;align-items:flex-start">
+      <div style="flex:1">${x.vista ? '' : '<span class="pill" style="background:var(--vermelho);color:#fff">nova</span> '}<b>${esc(x.nome || '(sem nome)')}</b> <span class="muted">${esc(x.email || '')}</span>
+        <div class="muted" style="font-size:13px">Excluída em ${new Date(x.excluida_em).toLocaleString('pt-BR')}${x.curso ? ' · curso: ' + esc(cursoInfo(x.curso)?.nome || x.curso) : ''}</div>
+        ${x.motivo ? `<div style="font-size:13.5px;margin-top:4px">💬 ${esc(x.motivo)}</div>` : ''}</div>
+      ${x.vista ? '' : `<button class="btn mini sec" data-vista="${x.id}">Marcar como vista</button>`}</div>`).join('') || '<p class="muted">Nenhuma conta excluída.</p>'}`;
+  const marca = async (filtro) => { await db.update('contas_excluidas', filtro, { vista: true }); await carregarTudo().catch(() => {}); atual(); };
+  const t = box.querySelector('#exVistas'); if (t) t.onclick = () => marca({ vista: 'eq.false' });
+  box.querySelectorAll('[data-vista]').forEach((b) => (b.onclick = () => marca({ id: 'eq.' + b.dataset.vista })));
+}
+
+// ---------- BACKUP ----------
+async function backup(box) {
+  box.innerHTML = `<h3 style="margin-top:0">Backup dos dados</h3>
+    <p class="muted" style="font-size:14px">Baixa um arquivo (.json) com todas as tabelas do banco: alunos, cursos, compras, questões, calendários, respostas e conteúdos editados. Faça <b>uma vez por semana</b> e guarde o arquivo no Google Drive ou no computador. O plano gratuito do Supabase não guarda cópias que você possa baixar.</p>
+    <p class="muted" style="font-size:13px">⚠ O arquivo contém dados pessoais dos alunos (nome, e-mail, CPF, WhatsApp). Guarde em local protegido e não compartilhe. Os PDFs enviados (apostilas e simulados) não entram: eles ficam no Storage do Supabase.</p>
+    <button class="btn" id="bkGo">💾 Baixar backup agora</button><div id="bkRes" style="margin-top:12px"></div>`;
+  box.querySelector('#bkGo').onclick = async (e) => {
+    e.target.disabled = true; e.target.textContent = 'Gerando backup…';
+    try {
+      const r = await backupCompleto();
+      box.querySelector('#bkRes').innerHTML = `<p class="ok">Backup baixado.</p><div class="muted" style="font-size:13px">${Object.entries(r).map(([k, v]) => `${esc(k)}: <b>${v}</b>`).join(' · ')}</div>`;
+    } catch (er) { toast(er.message, 'erro'); }
+    e.target.disabled = false; e.target.textContent = '💾 Baixar backup agora';
+  };
 }
