@@ -62,6 +62,55 @@ export default {
 "e": "Fases da vítima."
 },
 {
+"p": "A Criminologia é uma ciência empírica e interdisciplinar que se ocupa do crime, do infrator, da vítima e do controle social.",
+"c": true,
+"prof": "Os quatro objetos.",
+"x": "É a definição clássica de García-Pablos de Molina, que inclui a vítima e o controle social entre os objetos.",
+"e": "Crime, infrator, vítima, controle social."
+},
+{
+"p": "O método da Criminologia é dedutivo e abstrato, como o da dogmática penal.",
+"c": false,
+"prof": "Ciência do ser.",
+"x": "A Criminologia usa método empírico e indutivo (observação da realidade). A dogmática penal é ciência do dever-ser, normativa e dedutiva.",
+"e": "Criminologia: empírica e indutiva."
+},
+{
+"p": "Criminologia, Política Criminal e Direito Penal são saberes distintos e complementares: a primeira informa sobre a realidade do crime, a segunda propõe estratégias e o terceiro converte essas opções em normas.",
+"c": true,
+"prof": "Modelo integrado.",
+"x": "É a ideia de \"ciência penal total\", em que cada saber tem função própria.",
+"e": "Criminologia, Política Criminal, Direito Penal."
+},
+{
+"p": "A prevenção do delito dirigida a grupos ou pessoas com maior risco de se tornarem infratores ou vítimas, atuando nos momentos e locais em que o crime se manifesta, é a prevenção:",
+"alts": [
+"primária",
+"secundária",
+"terciária",
+"geral negativa",
+"especial positiva"
+],
+"r": 1,
+"n": [
+"A primária atua nas causas, para toda a sociedade.",
+"Correta.",
+"A terciária atua sobre quem já delinquiu.",
+"Função da pena.",
+"Função da pena."
+],
+"prof": "Primária, secundária, terciária.",
+"x": "A prevenção primária atua nas raízes sociais (educação, emprego, moradia); a secundária, sobre grupos de risco e locais; a terciária, sobre o condenado, para evitar reincidência.",
+"e": "Secundária: grupos de risco."
+},
+{
+"p": "A prevenção terciária dirige-se à população reclusa, buscando evitar a reincidência.",
+"c": true,
+"prof": "Prevenção terciária.",
+"x": "É a menos ampla e a mais tardia das formas de prevenção.",
+"e": "Terciária: preso."
+},
+{
 "p": "A criminologia é considerada uma ciência do “ser”, enquanto o Direito Penal é ciência do “dever ser”.",
 "c": true,
 "x": "A criminologia observa a realidade; o Direito Penal trabalha com normas.",
@@ -196,6 +245,55 @@ export default {
 "Escola Clássica."
 ],
 "e": "Ferri."
+},
+{
+"p": "Para a Escola Clássica, o crime é um ente jurídico, e o homem é dotado de livre-arbítrio, devendo a pena ser proporcional ao delito.",
+"c": true,
+"prof": "Beccaria e Carrara.",
+"x": "A pena tem fundamento retributivo e deve ser certa, proporcional e prevista em lei.",
+"e": "Clássica: livre-arbítrio."
+},
+{
+"p": "Cesare Lombroso é o principal representante da Escola Clássica e autor de \"Dos delitos e das penas\".",
+"c": false,
+"prof": "Autores trocados.",
+"x": "\"Dos delitos e das penas\" (1764) é de Beccaria, da Escola Clássica. Lombroso, autor de \"O homem delinquente\" (1876), é da Escola Positiva.",
+"e": "Beccaria: Dos delitos e das penas."
+},
+{
+"p": "Para a Escola Positiva, o crime é um fenômeno natural e social, e o delinquente é determinado por fatores biológicos, psicológicos e sociais.",
+"c": true,
+"prof": "Determinismo.",
+"x": "Lombroso (fase antropológica), Ferri (sociológica) e Garofalo (jurídica) são seus principais nomes.",
+"e": "Positiva: determinismo."
+},
+{
+"p": "O autor da Escola Positiva que formulou o conceito de \"delito natural\" e defendeu a periculosidade como fundamento da pena foi:",
+"alts": [
+"Beccaria",
+"Lombroso",
+"Ferri",
+"Garofalo",
+"Carrara"
+],
+"r": 3,
+"n": [
+"Escola Clássica.",
+"Criminoso nato.",
+"Classificação dos criminosos e fatores sociais.",
+"Correta.",
+"Escola Clássica."
+],
+"prof": "Fase jurídica.",
+"x": "Rafael Garofalo cunhou o termo \"Criminologia\" no título de sua obra (1885) e formulou o conceito de delito natural.",
+"e": "Garofalo: delito natural."
+},
+{
+"p": "Enrico Ferri destacou os fatores sociais do crime e classificou os criminosos em natos, loucos, habituais, ocasionais e passionais.",
+"c": true,
+"prof": "Fase sociológica.",
+"x": "Ferri é o principal nome da fase sociológica da Escola Positiva.",
+"e": "Ferri: fatores sociais."
 },
 {
 "p": "Beccaria defendeu a proporcionalidade das penas e se opôs à tortura e à pena de morte.",
@@ -340,6 +438,55 @@ export default {
 "É o labelling."
 ],
 "e": "Atividades rotineiras."
+},
+{
+"p": "As teorias do consenso partem da ideia de que a sociedade se funda em valores compartilhados, enquanto as teorias do conflito veem a sociedade marcada por disputas de poder e interesses.",
+"c": true,
+"prof": "Consenso x conflito.",
+"x": "Chicago, anomia, associação diferencial e subcultura são de consenso; labelling e criminologia crítica são de conflito.",
+"e": "Consenso x conflito."
+},
+{
+"p": "A Escola de Chicago explicava o crime principalmente por características biológicas do indivíduo.",
+"c": false,
+"prof": "Ecologia criminal.",
+"x": "A Escola de Chicago relacionou a criminalidade à desorganização social das áreas urbanas, especialmente as zonas de transição.",
+"e": "Chicago: desorganização social."
+},
+{
+"p": "Segundo a teoria da associação diferencial, de Edwin Sutherland, o comportamento criminoso é aprendido na interação com outras pessoas, sobretudo em grupos íntimos.",
+"c": true,
+"prof": "Sutherland.",
+"x": "Sutherland também cunhou a expressão \"crime de colarinho branco\".",
+"e": "Sutherland: aprendizagem."
+},
+{
+"p": "Na teoria da anomia de Merton, o indivíduo que aceita as metas culturais, mas usa meios ilegítimos para alcançá-las, adota a forma de adaptação denominada:",
+"alts": [
+"conformidade",
+"inovação",
+"ritualismo",
+"retraimento",
+"rebelião"
+],
+"r": 1,
+"n": [
+"Aceita metas e meios.",
+"Correta.",
+"Rejeita metas, aceita meios.",
+"Rejeita ambos.",
+"Substitui metas e meios."
+],
+"prof": "Cinco adaptações.",
+"x": "Conformidade, inovação, ritualismo, retraimento (evasão) e rebelião. A inovação é a mais associada ao crime patrimonial.",
+"e": "Inovação."
+},
+{
+"p": "Albert Cohen, na teoria da subcultura delinquente, explicou a delinquência de jovens de classes baixas como reação à frustração diante dos valores da classe média.",
+"c": true,
+"prof": "Subcultura.",
+"x": "A subcultura delinquente teria caráter não utilitário, malicioso e negativista.",
+"e": "Cohen: subcultura."
 },
 {
 "p": "A teoria da subcultura delinquente, de Albert Cohen, explica a delinquência juvenil como reação de grupos de jovens de classe baixa aos valores da classe média.",
@@ -564,6 +711,55 @@ export default {
 "Não é a classificação usual."
 ],
 "e": "Lei 13.431/2017."
+},
+{
+"p": "Benjamin Mendelsohn e Hans von Hentig são considerados precursores da Vitimologia.",
+"c": true,
+"prof": "Origem.",
+"x": "Mendelsohn propôs uma classificação das vítimas conforme sua participação no delito.",
+"e": "Mendelsohn e von Hentig."
+},
+{
+"p": "A vitimização causada pelo próprio sistema de justiça criminal, quando a vítima é tratada com descaso, submetida a perguntas repetidas ou exposta ao agressor, é chamada de:",
+"alts": [
+"primária",
+"secundária",
+"terciária",
+"heterovitimização",
+"autovitimização"
+],
+"r": 1,
+"n": [
+"Decorre do crime.",
+"Correta.",
+"Decorre do meio social.",
+"Não é a classificação.",
+"Não é a classificação."
+],
+"prof": "Sobrevitimização.",
+"x": "A secundária decorre das instâncias formais de controle (polícia, Judiciário). A terciária vem do meio social (família, comunidade).",
+"e": "Secundária: sistema."
+},
+{
+"p": "A vitimização terciária decorre do meio social da vítima, como a estigmatização e a falta de apoio da família e da comunidade.",
+"c": true,
+"prof": "Terciária.",
+"x": "A primária é o dano causado pelo próprio crime.",
+"e": "Terciária: meio social."
+},
+{
+"p": "Na classificação de Mendelsohn, a vítima completamente inocente é aquela cuja conduta provocou o crime.",
+"c": false,
+"prof": "Vítima ideal.",
+"x": "A vítima completamente inocente (ideal) não contribui em nada para o crime. A que provoca o delito é classificada como vítima provocadora ou mais culpada que o infrator.",
+"e": "Inocente: não contribui."
+},
+{
+"p": "A cifra negra corresponde à diferença entre a criminalidade real e a criminalidade registrada pelas instâncias formais de controle.",
+"c": true,
+"prof": "Criminalidade oculta.",
+"x": "Pesquisas de vitimização ajudam a estimá-la.",
+"e": "Cifra negra."
 },
 {
 "p": "A vítima provocadora, na classificação de Mendelsohn, é considerada mais culpada que o infrator.",

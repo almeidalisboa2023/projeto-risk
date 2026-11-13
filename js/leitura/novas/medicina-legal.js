@@ -228,6 +228,62 @@ export default {
 "prof": "Documento suspeito = identificação criminal.",
 "x": "A Lei 12.037/2009 permite a identificação criminal quando o documento apresentar rasura ou tiver indício de falsificação.",
 "e": "Documento adulterado."
+},
+{
+"p": "Identidade é o conjunto de caracteres próprios que individualizam uma pessoa; identificação é o processo técnico usado para estabelecer essa identidade.",
+"c": true,
+"prof": "Identidade x identificação.",
+"x": "A identificação compara caracteres registrados com os encontrados, para afirmar ou excluir a identidade.",
+"e": "Identidade x identificação."
+},
+{
+"p": "Entre os requisitos técnicos de um bom método de identificação, aquele segundo o qual os caracteres não se alteram ao longo da vida é a:",
+"alts": [
+"unicidade",
+"imutabilidade",
+"praticabilidade",
+"classificabilidade",
+"perenidade"
+],
+"r": 1,
+"n": [
+"Unicidade: caracteres exclusivos de cada pessoa.",
+"Correta.",
+"Facilidade de obtenção.",
+"Possibilidade de arquivar e localizar.",
+"Perenidade: resistência à ação do tempo, durando a vida toda (e após a morte)."
+],
+"prof": "Requisitos de Bertillon e Vucetich.",
+"x": "Os requisitos são unicidade, imutabilidade, perenidade, praticabilidade e classificabilidade. As impressões digitais preenchem todos.",
+"e": "Imutabilidade."
+},
+{
+"p": "A datiloscopia, sistematizada no Brasil a partir do método de Vucetich, utiliza os desenhos das cristas papilares das polpas digitais.",
+"c": true,
+"prof": "Datiloscopia.",
+"x": "Os tipos fundamentais são arco, presilha interna, presilha externa e verticilo, classificados pelo número de deltas.",
+"e": "Vucetich."
+},
+{
+"p": "No sistema de Vucetich, o verticilo é o tipo fundamental que não possui delta.",
+"c": false,
+"prof": "Contagem de deltas.",
+"x": "O arco não tem delta; as presilhas têm um delta; o verticilo tem dois deltas.",
+"e": "Arco: sem delta; verticilo: dois."
+},
+{
+"p": "A pelve é a parte do esqueleto mais confiável para a determinação do sexo em ossadas.",
+"c": true,
+"prof": "Diagnóstico do sexo.",
+"x": "A pelve feminina é mais larga e baixa, adaptada ao parto. O crânio é o segundo elemento mais útil.",
+"e": "Sexo: pelve."
+},
+{
+"p": "A Lei 12.037/2009 permite a identificação criminal do civilmente identificado em hipóteses como documento rasurado, insuficiente ou com indícios de falsificação, ou quando a identificação for essencial às investigações, segundo despacho da autoridade judiciária.",
+"c": true,
+"prof": "CF, art. 5º, LVIII.",
+"x": "O civilmente identificado, em regra, não será submetido à identificação criminal, salvo nas hipóteses legais.",
+"e": "Lei 12.037: exceções."
 }
 ]
 },
@@ -456,6 +512,55 @@ export default {
 "prof": "Cores diferentes = datas diferentes.",
 "x": "Lesões em diferentes estágios de evolução, incompatíveis com a história de um único acidente, caracterizam a síndrome da criança espancada (energia mista) e exigem notificação e investigação.",
 "e": "Maus-tratos."
+},
+{
+"p": "Pela regra dos nove, de Wallace, cada membro superior corresponde a cerca de 9% da superfície corporal do adulto.",
+"c": true,
+"prof": "Extensão das queimaduras.",
+"x": "A cabeça também vale 9%; cada membro inferior, 18%; o tronco anterior e o posterior, 18% cada; o períneo, 1%.",
+"e": "Regra dos nove."
+},
+{
+"p": "A queimadura que atinge toda a espessura da pele, com escara e destruição das terminações nervosas, sendo por isso pouco dolorosa, é classificada como de:",
+"alts": [
+"primeiro grau",
+"segundo grau superficial",
+"terceiro grau",
+"eritema",
+"flictena"
+],
+"r": 2,
+"n": [
+"Só eritema.",
+"Bolhas (flictenas), muito dolorosa.",
+"Correta.",
+"Sinal do primeiro grau.",
+"Sinal do segundo grau."
+],
+"prof": "Profundidade.",
+"x": "Primeiro grau: eritema; segundo grau: flictenas (bolhas); terceiro grau: escara, destruição da pele, pouco dolorosa por lesão nervosa.",
+"e": "Terceiro grau: escara."
+},
+{
+"p": "A marca elétrica de Jellinek é a lesão característica no ponto de entrada da corrente elétrica industrial.",
+"c": true,
+"prof": "Eletroplessão.",
+"x": "É lesão endurecida, de bordas elevadas e pouco dolorosa.",
+"e": "Jellinek."
+},
+{
+"p": "A fulguração é a ação da eletricidade natural (raio) sobre o organismo, que pode deixar a figura arboriforme de Lichtenberg na pele.",
+"c": true,
+"prof": "Raio.",
+"x": "Quando o raio causa a morte, fala-se em fulminação.",
+"e": "Lichtenberg: raio."
+},
+{
+"p": "Eletroplessão é o nome dado à ação da eletricidade natural (raio).",
+"c": false,
+"prof": "Natural x artificial.",
+"x": "Eletroplessão é o efeito da eletricidade artificial (industrial). A eletricidade natural (raio) produz fulguração ou fulminação.",
+"e": "Eletroplessão: industrial."
 }
 ]
 },
@@ -781,6 +886,55 @@ export default {
 "É fenômeno destrutivo inicial."
 ],
 "e": "Fenômenos conservadores."
+},
+{
+"p": "A Lei 9.434/1997 adota a morte encefálica como critério para a retirada de órgãos para transplante.",
+"c": true,
+"prof": "Critério de morte.",
+"x": "A morte encefálica é constatada por critérios clínicos e exames complementares definidos pelo Conselho Federal de Medicina.",
+"e": "Morte encefálica."
+},
+{
+"p": "Os livores cadavéricos são manchas formadas pelo acúmulo de sangue nas partes mais baixas do cadáver, por ação da gravidade.",
+"c": true,
+"prof": "Hipóstases.",
+"x": "Surgem nas primeiras horas e se fixam em torno de 12 horas; antes disso, mudam de posição se o corpo for movido.",
+"e": "Livores: gravidade."
+},
+{
+"p": "A rigidez cadavérica, segundo a lei de Nysten, inicia-se:",
+"alts": [
+"pelos membros inferiores",
+"pela mandíbula e nuca, progredindo para os membros superiores, tronco e membros inferiores",
+"pelo tronco",
+"ao mesmo tempo em todo o corpo",
+"só após 24 horas"
+],
+"r": 1,
+"n": [
+"Os membros inferiores são os últimos.",
+"Correta.",
+"Não é o ponto inicial.",
+"Há progressão.",
+"Começa nas primeiras horas."
+],
+"prof": "Sentido craniocaudal.",
+"x": "A rigidez começa na mandíbula e na nuca (1 a 2 horas), generaliza-se em cerca de 8 horas e desaparece, na mesma ordem, com a putrefação.",
+"e": "Nysten: craniocaudal."
+},
+{
+"p": "A mancha verde abdominal, primeiro sinal da putrefação, surge em regra na fossa ilíaca direita.",
+"c": true,
+"prof": "Período cromático.",
+"x": "Aparece em geral entre 18 e 24 horas após a morte, pela proximidade do ceco, rico em bactérias.",
+"e": "Mancha verde: fossa ilíaca direita."
+},
+{
+"p": "Saponificação, mumificação e corificação são fases da putrefação que destroem o cadáver.",
+"c": false,
+"prof": "Fenômenos conservadores.",
+"x": "São fenômenos transformativos conservadores, que preservam o cadáver em condições especiais (umidade, calor seco, urnas metálicas).",
+"e": "Conservadores."
 },
 {
 "p": "A rigidez cadavérica desaparece com o início da putrefação, na mesma ordem em que surgiu.",

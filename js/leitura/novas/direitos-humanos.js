@@ -335,6 +335,62 @@ export default {
 "e": "CADH, art. 7.7."
 },
 {
+"p": "A Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica) foi adotada em 1969 e promulgada no Brasil pelo Decreto 678/1992.",
+"c": true,
+"prof": "CADH.",
+"x": "Entrou em vigor internacionalmente em 1978.",
+"e": "CADH: 1969; Brasil 1992."
+},
+{
+"p": "Qualquer pessoa pode submeter um caso diretamente à Corte Interamericana de Direitos Humanos.",
+"c": false,
+"prof": "Acesso à Corte.",
+"x": "O indivíduo peticiona à Comissão Interamericana. Só os Estados-partes e a Comissão podem submeter casos à Corte.",
+"e": "Indivíduo: Comissão."
+},
+{
+"p": "O Brasil reconheceu a competência contenciosa da Corte Interamericana em 1998, para fatos posteriores ao reconhecimento.",
+"c": true,
+"prof": "Decreto 4.463/2002.",
+"x": "Por isso, casos sobre fatos anteriores só podem ser julgados quanto a violações que continuaram depois, como a falta de investigação.",
+"e": "Corte: 1998."
+},
+{
+"p": "O primeiro caso em que o Brasil foi condenado pela Corte Interamericana de Direitos Humanos, envolvendo a morte de um paciente com deficiência mental em clínica psiquiátrica, foi o caso:",
+"alts": [
+"Gomes Lund",
+"Herzog",
+"Ximenes Lopes",
+"Escher",
+"Favela Nova Brasília"
+],
+"r": 2,
+"n": [
+"Guerrilha do Araguaia (2010).",
+"Morte do jornalista na ditadura (2018).",
+"Correta (2006).",
+"Interceptações telefônicas ilegais (2009).",
+"Operações policiais no Rio (2017)."
+],
+"prof": "Primeira condenação.",
+"x": "No caso Ximenes Lopes (2006), a Corte condenou o Brasil pela morte de Damião Ximenes Lopes em clínica conveniada ao SUS, no Ceará.",
+"e": "Ximenes Lopes."
+},
+{
+"p": "No caso Escher, a Corte Interamericana condenou o Brasil por interceptações telefônicas ilegais e pela divulgação das gravações de integrantes de movimentos sociais.",
+"c": true,
+"prof": "Escher (2009).",
+"x": "O caso envolve o direito à privacidade e à liberdade de associação.",
+"e": "Escher: interceptação ilegal."
+},
+{
+"p": "Segundo o STF, é ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito, em razão do Pacto de San José da Costa Rica.",
+"c": true,
+"prof": "SV 25.",
+"x": "A CADH (art. 7.7) só admite prisão civil por dívida de alimentos. O STF atribuiu aos tratados de direitos humanos status supralegal.",
+"e": "Depositário infiel: SV 25."
+},
+{
 "p": "A Comissão Interamericana de Direitos Humanos pode adotar medidas cautelares em situações de gravidade e urgência.",
 "c": true,
 "x": "Previstas no seu Regulamento.",
@@ -856,6 +912,55 @@ export default {
 "prof": "I interação, II desenvolvimento, III universalizar, IV segurança, V educação, VI memória.",
 "x": "O eixo IV do PNDH-3 trata de segurança pública, acesso à justiça e combate à violência.",
 "e": "Eixo IV."
+},
+{
+"p": "O Programa Nacional de Direitos Humanos 3 (PNDH-3) foi aprovado pelo Decreto 7.037/2009.",
+"c": true,
+"prof": "PNDH-3.",
+"x": "O PNDH-1 é de 1996 e o PNDH-2, de 2002.",
+"e": "PNDH-3: Decreto 7.037/2009."
+},
+{
+"p": "São eixos orientadores do PNDH-3, EXCETO:",
+"alts": [
+"interação democrática entre Estado e sociedade civil",
+"desenvolvimento e direitos humanos",
+"segurança pública, acesso à justiça e combate à violência",
+"direito à memória e à verdade",
+"redução da maioridade penal"
+],
+"r": 4,
+"n": [
+"Eixo I.",
+"Eixo II.",
+"Eixo IV.",
+"Eixo VI.",
+"Correta: não é eixo do programa."
+],
+"prof": "Seis eixos.",
+"x": "Os eixos são: interação democrática Estado-sociedade civil; desenvolvimento e direitos humanos; universalizar direitos em contexto de desigualdades; segurança pública, acesso à justiça e combate à violência; educação e cultura em direitos humanos; direito à memória e à verdade.",
+"e": "Seis eixos do PNDH-3."
+},
+{
+"p": "A educação em direitos humanos dos profissionais dos sistemas de justiça e segurança é um dos eixos do Plano Nacional de Educação em Direitos Humanos (PNEDH).",
+"c": true,
+"prof": "PNEDH.",
+"x": "Os outros eixos são educação básica, educação superior, educação não formal e educação e mídia.",
+"e": "PNEDH: justiça e segurança."
+},
+{
+"p": "A Resolução CNE/CP 1/2012 estabelece as Diretrizes Nacionais para a Educação em Direitos Humanos.",
+"c": true,
+"prof": "Diretrizes.",
+"x": "A educação em direitos humanos deve estar presente em todos os níveis e modalidades de ensino.",
+"e": "Diretrizes: CNE/CP 1/2012."
+},
+{
+"p": "O direito à memória e à verdade não integra o PNDH-3, por tratar de fatos passados.",
+"c": false,
+"prof": "Eixo VI.",
+"x": "O direito à memória e à verdade é o eixo orientador VI do PNDH-3, relacionado às violações ocorridas no regime militar.",
+"e": "Memória e verdade: eixo VI."
 }
 ]
 },
@@ -945,6 +1050,55 @@ export default {
 "prof": "5 Ps e \"ninguém para trás\".",
 "x": "A Agenda 2030 é um plano de ação baseado nos 5 Ps e no compromisso de não deixar ninguém para trás, com 17 ODS e 169 metas.",
 "e": "5 Ps."
+},
+{
+"p": "A Agenda 2030 foi adotada em 2015 pelos Estados-membros da ONU e contém 17 Objetivos de Desenvolvimento Sustentável e 169 metas.",
+"c": true,
+"prof": "ODS.",
+"x": "Sucedeu os Objetivos de Desenvolvimento do Milênio (2000-2015).",
+"e": "17 ODS, 169 metas."
+},
+{
+"p": "O Objetivo de Desenvolvimento Sustentável que trata de promover sociedades pacíficas e inclusivas, acesso à justiça para todos e instituições eficazes é o ODS:",
+"alts": [
+"1",
+"5",
+"10",
+"16",
+"17"
+],
+"r": 3,
+"n": [
+"Erradicação da pobreza.",
+"Igualdade de gênero.",
+"Redução das desigualdades.",
+"Correta.",
+"Parcerias e meios de implementação."
+],
+"prof": "Paz, justiça e instituições.",
+"x": "O ODS 16 é o mais ligado à segurança pública, com metas de redução da violência e do tráfico de armas.",
+"e": "ODS 16."
+},
+{
+"p": "A Agenda 2030 organiza-se em torno de cinco dimensões, conhecidas como os \"5 Ps\": pessoas, planeta, prosperidade, paz e parcerias.",
+"c": true,
+"prof": "5 Ps.",
+"x": "O lema é \"não deixar ninguém para trás\".",
+"e": "5 Ps."
+},
+{
+"p": "A Agenda 2030 é um tratado internacional com força vinculante, que prevê sanções aos Estados que não cumprirem as metas.",
+"c": false,
+"prof": "Natureza jurídica.",
+"x": "A Agenda 2030 é um compromisso político (soft law), sem sanções jurídicas, acompanhado por relatórios voluntários.",
+"e": "Agenda 2030: não vinculante."
+},
+{
+"p": "O ODS 5 trata de alcançar a igualdade de gênero e empoderar todas as mulheres e meninas.",
+"c": true,
+"prof": "ODS 5.",
+"x": "Inclui metas de eliminação de todas as formas de violência contra mulheres e meninas.",
+"e": "ODS 5: gênero."
 }
 ]
 }
