@@ -4,21 +4,65 @@ import { esc, iso, hoje, norm, DIAS } from '../util.js';
 import { toast, barra, modal, loading } from '../ui.js';
 import { parseCSV, toCSV, baixar } from '../csv.js';
 import { recarregar } from '../app.js';
-import { TEMAS, detectarTema } from '../temas.js';
-import { ajustarDatas } from './edital-ferramentas.js';
+import { cursoInfo } from '../cursos.js';
+import { materiasCursos } from './admin-cursos.js';
+import { conteudoPdf } from './admin-pdf.js';
+import { usuarios, conferir } from './admin-usuarios.js';
+import { cursosVenda } from './admin-vitrine.js';
+import { compras } from './admin-compras.js';
+import { situacao } from '../acesso.js';
+import { backupCompleto } from '../privacidade.js';
 
 const COLS = 'codigo;modalidade;enunciado;alt_a;alt_b;alt_c;alt_d;alt_e;gabarito;comentario;materia;assunto;subassunto;banca;orgao;cargo;nivel;ano;dificuldade;situacao;origem;fonte;tags'.split(';');
 
-export async function render(el) {
-  el.innerHTML = `<div class="mono up">Administrador</div><h1>Painel do administrador</h1>
-    <div class="card" id="cad">${loading()}</div>
-    <div class="card" style="margin-top:16px" id="migra"></div>
-    <div class="card" style="margin-top:16px" id="alunos">${loading()}</div>
-    <div class="card" style="margin-top:16px" id="reps"></div>`;
-  reportes(el.querySelector('#reps'));
-  const atual = async () => { await Promise.all([cadastros(el.querySelector('#cad'), atual), alunos(el.querySelector('#alunos'), atual)]); };
-  migracao(el.querySelector('#migra'));
-  await atual();
+// O painel do administrador é organizado em pastas
+const PASTAS = [
+  ['usuarios', '👥', 'Usuários', 'Cada aluno com o próprio cartão: prazo de acesso, contato e avisos'],
+  ['cadastros', '📝', 'Cadastros pendentes', 'Conferir dados e aprovar quem se cadastrou'],
+  ['vitrine', '🎓', 'Cursos preparatórios', 'Vitrine pública: foto do órgão, vagas, matérias, preço e link'],
+  ['compras', '🛒', 'Compras Hotmart', 'Pagamentos recebidos e liberações automáticas'],
+  ['materias', '📚', 'Matérias por curso', 'Incluir ou tirar matérias de cada curso'],
+  ['pdfs', '📄', 'Conteúdo em PDF', 'Enviar PDF para virar conteúdo programático'],
+  ['erros', '⚑', 'Erros reportados', 'Avisos de erro enviados pelos alunos'],
+  ['excluidas', '🗑', 'Contas excluídas', 'Alunos que excluíram a própria conta (aviso automático)'],
+  ['backup', '💾', 'Backup dos dados', 'Baixar uma cópia de segurança de todo o banco'],
+  ['importar', '⬇', 'Importar do Base44', 'Migração dos dados antigos'],
+];
+
+export async function render(el, q) {
+  const p = q?.get?.('p');
+  const pasta = PASTAS.find((x) => x[0] === p);
+  if (!pasta) return capa(el);
+  el.innerHTML = `<div class="row"><a class="btn sec mini" href="#/admin">‹ Pastas</a></div><div class="mono up" style="margin-top:8px">Administrador</div><h1>${pasta[1]} ${esc(pasta[2])}</h1><div class="card" id="pasta">${loading()}</div>`;
+  const box = el.querySelector('#pasta');
+  const atual = () => render(el, q);
+  const F = {
+    usuarios: () => usuarios(box, atual), cadastros: () => cadastros(box, atual), vitrine: () => cursosVenda(box), compras: () => compras(box),
+    materias: () => materiasCursos(box), pdfs: () => conteudoPdf(box), erros: () => reportes(box), importar: () => migracao(box),
+    excluidas: () => excluidas(box, atual), backup: () => backup(box),
+  };
+  try { await F[pasta[0]](); } catch (e) { box.innerHTML = `<p class="bad">${esc(e.message)}</p>`; }
+}
+
+async function capa(el) {
+  el.innerHTML = `<div class="mono up">Administrador</div><h1>Painel do administrador</h1><div class="adm-pastas">${PASTAS.map(([k, ic, n, d]) => `<a class="adm-pasta" href="#/admin?p=${k}" data-p="${k}"><span class="adm-pasta-ico">${ic}</span><b>${esc(n)}</b><small>${esc(d)}</small><span class="adm-pasta-tag" hidden></span></a>`).join('')}</div>`;
+  // contadores nas pastas
+  try {
+    const ps = await db.select('profiles', { select: 'id,role,status,bloqueado,acesso_ate' });
+    const sit = ps.map(situacao);
+    const am = sit.filter((s) => s.cor === 'amarelo').length, vm = sit.filter((s) => s.cor === 'vermelho').length, pend = ps.filter((p) => p.status === 'pendente').length;
+    const tag = (k, html) => { const t = el.querySelector(`[data-p="${k}"] .adm-pasta-tag`); if (t && html) { t.innerHTML = html; t.hidden = false; } };
+    tag('usuarios', [ps.length + ' usuários', am && `<i class="us-dot amarelo"></i>${am}`, vm && `<i class="us-dot vermelho"></i>${vm}`].filter(Boolean).join(' '));
+    tag('cadastros', pend ? `<i class="us-dot vermelho"></i>${pend} aguardando` : '');
+    const cp = await db.select('compras', { select: 'id,status,aplicado_em', status: 'eq.aprovada' }).catch(() => []);
+    const semConta = cp.filter((c) => !c.aplicado_em).length;
+    tag('compras', cp.length ? `${cp.length} aprovada(s)${semConta ? ` · <i class="us-dot amarelo"></i>${semConta} sem conta` : ''}` : '');
+    const ex = await db.select('contas_excluidas', { select: 'id,vista' }).catch(() => []);
+    const exN = ex.filter((x) => !x.vista).length;
+    tag('excluidas', exN ? `<i class="us-dot vermelho"></i>${exN} nova(s)` : ex.length ? `${ex.length} registro(s)` : '');
+    const cv = await db.select('cursos_venda', { select: 'id,publicado' }).catch(() => []);
+    tag('vitrine', cv.length ? `${cv.filter((c) => c.publicado).length} publicado(s) de ${cv.length}` : '');
+  } catch {}
 }
 
 // ---------- BANCO DE QUESTÕES ----------
@@ -148,42 +192,59 @@ async function cadastros(box, atual) {
   S.pendentes = ps.length;
   const b = document.querySelector('.side a[href="#/admin"] .badge'); if (b) { if (ps.length) b.textContent = ps.length; else b.remove(); }
   box.innerHTML = `<div class="row"><h3 style="margin:0">Cadastros aguardando aprovação</h3>${ps.length ? `<span class="pill" style="background:var(--vermelho);color:#fff">${ps.length}</span>` : ''}</div>
-    <p class="muted" style="font-size:13px">Quem se cadastra (por e-mail ou Google) só entra no site depois que você aprovar.</p>
-    ${ps.length ? `<table class="tab"><tr><th>Nome</th><th>E-mail</th><th>Cadastrou em</th><th></th></tr>
-      ${ps.map((p) => `<tr><td><b>${esc(p.nome || '')}</b></td><td>${esc(p.email || '')}</td><td>${p.created_at ? new Date(p.created_at).toLocaleString('pt-BR') : ''}</td>
-        <td><button class="btn mini verde" data-ap="${p.id}">Aprovar</button> <button class="btn mini sec" data-rc="${p.id}">Recusar</button></td></tr>`).join('')}</table>`
+    <p class="muted" style="font-size:13px">Confira os dados, defina o curso e a banca e aprove. O aluno só vê as matérias do curso.</p>
+    ${ps.length ? `<div style="overflow-x:auto"><table class="tab"><tr><th>Nome</th><th>Contato</th><th>Curso pedido</th><th>Cadastrou em</th><th></th></tr>
+      ${ps.map((p) => `<tr><td><b>${esc(p.nome || '')}</b>${p.cpf ? `<br><span class="muted" style="font-size:12px">CPF ${esc(fmtCpf(p.cpf))}</span>` : ''}</td>
+        <td>${esc(p.email || '')}${p.telefone ? `<br><span class="muted" style="font-size:12px">${esc(p.telefone)} · ${esc(p.cidade || '')}</span>` : ''}</td>
+        <td>${p.dados_ok_em ? esc(cursoInfo(p.curso_solicitado)?.nome || 'não escolheu') : '<span class="muted">ainda preenchendo o cadastro</span>'}</td>
+        <td>${p.created_at ? new Date(p.created_at).toLocaleString('pt-BR') : ''}</td>
+        <td><button class="btn mini verde" data-conf="${p.id}">Conferir e aprovar</button> <button class="btn mini sec" data-rc="${p.id}">Recusar</button></td></tr>`).join('')}</table></div>`
       : '<p class="muted">Nenhum cadastro pendente.</p>'}`;
-  const muda = async (id, status) => { try { await db.update('profiles', { id: 'eq.' + id }, { status }); toast(status === 'aprovado' ? 'Cadastro aprovado!' : 'Cadastro recusado.'); atual(); } catch (e) { toast(e.message, 'erro'); } };
-  box.querySelectorAll('[data-ap]').forEach((x) => (x.onclick = () => muda(x.dataset.ap, 'aprovado')));
-  box.querySelectorAll('[data-rc]').forEach((x) => (x.onclick = () => { if (confirm('Recusar este cadastro? A pessoa não vai conseguir entrar.')) muda(x.dataset.rc, 'recusado'); }));
-}
-
-// ---------- ALUNOS ----------
-async function alunos(box, atual) {
-  const ps = await db.select('profiles', { order: 'created_at.asc' });
-  const eds = await db.select('editais', { select: 'id,user_id,concurso,cargo,tema,ativo,data_inicio', order: 'created_at.asc' }).catch(() => []);
-  const temaSel = (e) => `<select data-tema="${e.id}" style="padding:4px 6px;font-size:12.5px"><option value="">Automático: ${esc(TEMAS[detectarTema(e)].nome)}</option>${Object.entries(TEMAS).map(([k, t]) => `<option value="${k}" ${e.tema === k ? 'selected' : ''}>${esc(t.nome)}</option>`).join('')}</select>`;
-  const edsDe = (uid) => eds.filter((e) => e.user_id === uid && e.ativo !== false);
-  const ST = { pendente: 'Aguardando', aprovado: 'Aprovado', recusado: 'Recusado' };
-  box.innerHTML = `<h3>Alunos e usuários (${ps.length})</h3><div style="overflow-x:auto"><table class="tab"><tr><th>Nome</th><th>E-mail</th><th>Perfil</th><th>Cadastro</th><th>Acesso</th><th>Tema do calendário (por edital)</th><th></th></tr>
-    ${ps.map((p) => `<tr><td>${esc(p.nome || '')}</td><td>${esc(p.email || '')}</td><td>${p.role === 'admin' ? 'Administrador' : 'Aluno'}</td><td>${ST[p.status] || 'Aprovado'}</td><td>${p.bloqueado ? 'Bloqueado' : 'Ativo'}</td><td>${edsDe(p.id).map((e) => `<div style="margin:2px 0"><span class="muted" style="font-size:12px">${esc(e.concurso)}</span><br>${temaSel(e)} <button class="linkbtn" data-datas="${e.id}" style="font-size:12px">📅 datas</button></div>`).join('') || '<span class="muted">sem edital</span>'}${p.tema_padrao ? '<div class="muted" style="font-size:11.5px">aluno usa o tema padrão</div>' : ''}</td>
-      <td>${p.id === S.user.id ? '<span class="muted">você</span>' : `${p.status !== 'aprovado' ? `<button class="btn mini verde" data-ap="${p.id}">Aprovar</button> ` : `<button class="btn mini sec" data-rc="${p.id}">Revogar</button> `}<button class="btn mini sec" data-bl="${p.id}">${p.bloqueado ? 'Desbloquear' : 'Bloquear'}</button> <button class="btn mini sec" data-adm="${p.id}">${p.role === 'admin' ? 'Tirar admin' : 'Tornar admin'}</button>`}</td></tr>`).join('')}</table></div>`;
-  const up = async (id, v) => { try { await db.update('profiles', { id: 'eq.' + id }, v); atual(); } catch (e) { toast(e.message, 'erro'); } };
-  box.querySelectorAll('[data-ap]').forEach((b) => (b.onclick = () => up(b.dataset.ap, { status: 'aprovado' })));
-  box.querySelectorAll('[data-rc]').forEach((b) => (b.onclick = () => { if (confirm('Revogar o acesso deste usuário?')) up(b.dataset.rc, { status: 'recusado' }); }));
-  box.querySelectorAll('[data-tema]').forEach((s) => (s.onchange = async () => {
-    try { await db.update('editais', { id: 'eq.' + s.dataset.tema }, { tema: s.value || null }); toast('Tema atualizado.'); const e = S.editais.find((x) => x.id === s.dataset.tema); if (e) e.tema = s.value || null; } catch (e) { toast(e.message, 'erro'); }
+  box.querySelectorAll('[data-conf]').forEach((x) => (x.onclick = () => conferir(ps.find((p) => p.id === x.dataset.conf), atual)));
+  box.querySelectorAll('[data-rc]').forEach((x) => (x.onclick = async () => {
+    if (!confirm('Recusar este cadastro? A pessoa não vai conseguir entrar.')) return;
+    try { await db.update('profiles', { id: 'eq.' + x.dataset.rc }, { status: 'recusado' }); toast('Cadastro recusado.'); atual(); } catch (e) { toast(e.message, 'erro'); }
   }));
-  box.querySelectorAll('[data-datas]').forEach((b) => (b.onclick = () => ajustarDatas(eds.find((x) => x.id === b.dataset.datas), () => alunos(box, atual))));
-  box.querySelectorAll('[data-bl]').forEach((b) => (b.onclick = () => { const p = ps.find((x) => x.id === b.dataset.bl); up(p.id, { bloqueado: !p.bloqueado }); }));
-  box.querySelectorAll('[data-adm]').forEach((b) => (b.onclick = () => { const p = ps.find((x) => x.id === b.dataset.adm); if (confirm('Alterar o perfil deste usuário?')) up(p.id, { role: p.role === 'admin' ? 'aluno' : 'admin', status: 'aprovado' }); }));
 }
+const fmtCpf = (c) => String(c || '').replace(/\D/g, '').replace(/(\d{3})(\d{3})(\d{3})(\d{2})/, '$1.$2.$3-$4');
 
 // ---------- ERROS REPORTADOS NA LEITURA ----------
 async function reportes(box) {
   let lista = [];
   try { lista = (await db.select('reportes', { order: 'created_at.desc', limit: 200 })).filter((r) => !r.resolvido); } catch { lista = []; }
-  box.innerHTML = `<h3 style="margin-top:0">⚑ Erros reportados na leitura</h3>
+  box.innerHTML = `<h3 style="margin-top:0">⚑ Erros reportados no conteúdo programático</h3>
     ${lista.length ? lista.map((r) => `<div class="row" style="border-top:1px solid var(--borda);padding:8px 0;align-items:flex-start"><div style="flex:1"><div class="muted" style="font-size:12px">${esc(String(r.created_at || '').slice(0, 10).split('-').reverse().join('/'))}</div>${esc(r.texto || '')}</div><button class="btn sec mini" data-ok="${r.id}">Resolvido</button></div>`).join('') : '<p class="muted">Nenhum erro pendente.</p>'}`;
   box.querySelectorAll('[data-ok]').forEach((b) => (b.onclick = async () => { try { await db.update('reportes', { id: 'eq.' + b.dataset.ok }, { resolvido: true }); reportes(box); } catch (e) { toast(e.message, 'erro'); } }));
+}
+
+// ---------- CONTAS EXCLUÍDAS ----------
+async function excluidas(box, atual) {
+  const ls = await db.select('contas_excluidas', { order: 'excluida_em.desc' });
+  const novas = ls.filter((x) => !x.vista).length;
+  box.innerHTML = `<div class="row"><h3 style="margin:0">Contas excluídas (${ls.length})</h3><span class="sp"></span>${novas ? '<button class="btn mini" id="exVistas">Marcar todas como vistas</button>' : ''}</div>
+    <p class="muted" style="font-size:13.5px">Quando um aluno usa “Excluir minha conta” no Perfil, a conta e os dados de estudo dele são apagados na hora, e ele aparece aqui. Guardamos só nome, e-mail, curso, motivo e data, por 6 meses. As compras dele continuam na pasta Compras Hotmart.</p>
+    ${ls.map((x) => `<div class="row" style="border-top:1px solid var(--borda);padding:10px 0;gap:10px;align-items:flex-start">
+      <div style="flex:1">${x.vista ? '' : '<span class="pill" style="background:var(--vermelho);color:#fff">nova</span> '}<b>${esc(x.nome || '(sem nome)')}</b> <span class="muted">${esc(x.email || '')}</span>
+        <div class="muted" style="font-size:13px">Excluída em ${new Date(x.excluida_em).toLocaleString('pt-BR')}${x.curso ? ' · curso: ' + esc(cursoInfo(x.curso)?.nome || x.curso) : ''}</div>
+        ${x.motivo ? `<div style="font-size:13.5px;margin-top:4px">💬 ${esc(x.motivo)}</div>` : ''}</div>
+      ${x.vista ? '' : `<button class="btn mini sec" data-vista="${x.id}">Marcar como vista</button>`}</div>`).join('') || '<p class="muted">Nenhuma conta excluída.</p>'}`;
+  const marca = async (filtro) => { await db.update('contas_excluidas', filtro, { vista: true }); await carregarTudo().catch(() => {}); atual(); };
+  const t = box.querySelector('#exVistas'); if (t) t.onclick = () => marca({ vista: 'eq.false' });
+  box.querySelectorAll('[data-vista]').forEach((b) => (b.onclick = () => marca({ id: 'eq.' + b.dataset.vista })));
+}
+
+// ---------- BACKUP ----------
+async function backup(box) {
+  box.innerHTML = `<h3 style="margin-top:0">Backup dos dados</h3>
+    <p class="muted" style="font-size:14px">Baixa um arquivo (.json) com todas as tabelas do banco: alunos, cursos, compras, questões, calendários, respostas e conteúdos editados. Faça <b>uma vez por semana</b> e guarde o arquivo no Google Drive ou no computador. O plano gratuito do Supabase não guarda cópias que você possa baixar.</p>
+    <p class="muted" style="font-size:13px">⚠ O arquivo contém dados pessoais dos alunos (nome, e-mail, CPF, WhatsApp). Guarde em local protegido e não compartilhe. Os PDFs enviados (apostilas e simulados) não entram: eles ficam no Storage do Supabase.</p>
+    <button class="btn" id="bkGo">💾 Baixar backup agora</button><div id="bkRes" style="margin-top:12px"></div>`;
+  box.querySelector('#bkGo').onclick = async (e) => {
+    e.target.disabled = true; e.target.textContent = 'Gerando backup…';
+    try {
+      const r = await backupCompleto();
+      box.querySelector('#bkRes').innerHTML = `<p class="ok">Backup baixado.</p><div class="muted" style="font-size:13px">${Object.entries(r).map(([k, v]) => `${esc(k)}: <b>${v}</b>`).join(' · ')}</div>`;
+    } catch (er) { toast(er.message, 'erro'); }
+    e.target.disabled = false; e.target.textContent = '💾 Baixar backup agora';
+  };
 }
