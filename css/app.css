@@ -879,3 +879,11 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .pub-rodape a { color: inherit; text-decoration: underline; }
 .vt-aviso { font-size: 12.5px; margin: 12px 0 0; line-height: 1.5; }
 .lt-ia { font-size: 12px; margin: 0 0 10px; opacity: .8; }
+
+/* Modo aluno (administrador vendo como aluno) */
+.faixa-visao { background: #1d4e89; color: #fff; padding: 8px 14px; font-size: 13.5px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: center; position: sticky; top: 0; z-index: 30; }
+.faixa-visao select { padding: 3px 6px; font-size: 13px; border-radius: 8px; }
+.faixa-visao .btn { background: #fff; color: #1d4e89; border-color: #fff; }
+/* Tabelas do conteúdo: nunca cortar o texto em telas estreitas (rolam para o lado) */
+.lt-corpo table.tab { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.lt-corpo table.tab td { overflow-wrap: break-word; hyphens: auto; min-width: 7em; }
