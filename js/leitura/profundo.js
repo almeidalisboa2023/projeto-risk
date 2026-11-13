@@ -7262,6 +7262,242 @@ export const PROFUNDO = {
 "e": "Violência: ODS 16."
 }
 ]
+},
+"democracia-seguranca": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1979</b><span>Código de Conduta da ONU para os Encarregados da Aplicação da Lei</span></div><div class=\"lt-stat\"><b>1990</b><span>Princípios Básicos sobre o Uso da Força e de Armas de Fogo (Havana)</span></div><div class=\"lt-stat\"><b>13.060</b><span>Lei de 2014: instrumentos de menor potencial ofensivo</span></div><div class=\"lt-stat\"><b>24 h</b><span>prazo para a audiência de custódia (CPP, art. 310)</span></div></div>\n<h3>1. Democracia, cidadania e Direitos Humanos</h3>\n<ul><li>O Brasil é um <b>Estado Democrático de Direito</b> (CF, art. 1º), com fundamentos na <b>soberania</b>, na <b>cidadania</b>, na <b>dignidade da pessoa humana</b>, nos <b>valores sociais do trabalho e da livre iniciativa</b> e no <b>pluralismo político</b>. \"Todo o poder emana do povo\", exercido por <b>representantes eleitos</b> ou <b>diretamente</b> (democracia <b>semidireta</b>: plebiscito, referendo e iniciativa popular).</li><li><b>Democracia e Direitos Humanos são interdependentes</b>: não há democracia real sem garantia de direitos, e os direitos dependem de instituições democráticas para serem protegidos. A <b>Declaração e Programa de Ação de Viena</b> (Conferência Mundial de Direitos Humanos, <b>1993</b>) afirma que <b>democracia, desenvolvimento e respeito aos direitos humanos</b> são <b>interdependentes</b> e se reforçam mutuamente. No continente, a <b>Carta Democrática Interamericana</b> (OEA, <b>2001</b>) afirma que os povos da América têm <b>direito à democracia</b>.</li><li><b>Cidadania</b>: em sentido estrito, é o gozo dos <b>direitos políticos</b>; em sentido amplo, é a participação plena na vida social, com acesso a <b>direitos civis, políticos e sociais</b>. <b>T. H. Marshall</b> descreveu a expansão histórica da cidadania na Inglaterra: direitos <b>civis</b> (século XVIII), <b>políticos</b> (século XIX) e <b>sociais</b> (século XX). <b>Hannah Arendt</b> definiu a cidadania como o \"<b>direito a ter direitos</b>\".</li></ul>\n<h3>2. Segurança pública como direito</h3>\n<ul><li>A segurança aparece na Constituição como <b>direito individual</b> (art. 5º, caput), <b>direito social</b> (art. 6º) e <b>dever do Estado, direito e responsabilidade de todos</b> (art. 144). A polícia, nessa visão, é <b>garantidora de direitos</b>, e não sua inimiga: protege a vida, a integridade e a liberdade de todos, inclusive do suspeito.</li><li><b>Segurança cidadã</b> (conceito difundido pelo <b>PNUD</b> e pela <b>CIDH</b>) x <b>segurança nacional</b>: a primeira foca a <b>proteção das pessoas</b> e de seus direitos, com prevenção, participação social e respeito à lei; a segunda, típica de regimes autoritários, foca a <b>defesa do Estado</b> contra \"inimigos internos\".</li></ul>\n<table class=\"tab\"><thead><tr><th>Código de Conduta para os Encarregados da Aplicação da Lei (ONU, Res. 34/169, 1979)</th><th>Dever</th></tr></thead><tbody><tr><td><b>Art. 1º</b></td><td>cumprir sempre o dever imposto por lei, <b>servindo a comunidade</b> e protegendo todas as pessoas contra atos ilegais</td></tr><tr><td><b>Art. 2º</b></td><td><b>respeitar e proteger a dignidade</b> humana e os direitos humanos de todas as pessoas</td></tr><tr><td><b>Art. 3º</b></td><td>usar a força <b>apenas quando estritamente necessário</b> e na medida exigida para cumprir o dever</td></tr><tr><td><b>Art. 4º</b></td><td>manter em <b>sigilo</b> as informações confidenciais, salvo se o dever ou a justiça exigirem o contrário</td></tr><tr><td><b>Art. 5º</b></td><td><b>nenhum</b> agente pode infligir, instigar ou tolerar <b>tortura</b> ou tratamento cruel, desumano ou degradante, nem invocar <b>ordens superiores</b> ou circunstâncias excepcionais (guerra, ameaça à segurança) para justificá-la</td></tr><tr><td><b>Art. 6º</b></td><td>assegurar a <b>proteção da saúde</b> das pessoas sob sua guarda</td></tr><tr><td><b>Art. 7º</b></td><td>não cometer nenhum ato de <b>corrupção</b> e opor-se a eles rigorosamente</td></tr><tr><td><b>Art. 8º</b></td><td><b>respeitar a lei e o Código</b> e, havendo violação, comunicá-la aos superiores e, se necessário, a outras autoridades</td></tr></tbody></table>\n<ul><li>A expressão \"<b>encarregados da aplicação da lei</b>\" abrange <b>todos os agentes</b> que exercem poderes policiais, especialmente de <b>prisão ou detenção</b>, inclusive militares e agentes de segurança do Estado que exerçam essas funções.</li></ul>\n<h3>3. Uso da força: padrão internacional e nacional</h3>\n<ul><li><b>Princípios Básicos sobre o Uso da Força e de Armas de Fogo</b> (ONU, <b>Havana, 1990</b>): os agentes devem, <b>sempre que possível</b>, aplicar <b>meios não violentos</b> antes de recorrer à força e às armas de fogo; quando o uso da força for inevitável, devem agir com <b>moderação</b> e <b>proporcionalidade</b> à gravidade da infração, <b>minimizar danos</b>, garantir <b>socorro médico</b> aos feridos e <b>comunicar</b> familiares.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Princípio 9 (armas de fogo)</div><div class=\"art-lei\">Os responsáveis pela aplicação da lei não usarão armas de fogo contra pessoas, exceto em casos de legítima defesa própria ou de outrem contra ameaça iminente de morte ou ferimento grave; para impedir a perpetração de crime particularmente grave que envolva séria ameaça à vida; para efetuar a prisão de alguém que represente essa ameaça e resista à autoridade, ou impedir a sua fuga; e somente quando medidas menos extremas se mostrarem insuficientes. Em qualquer caso, só poderão fazer uso intencional letal de armas de fogo quando estritamente inevitável à proteção da vida.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>A arma de fogo é o <b>último recurso</b>, ligado à <b>proteção da vida</b>.</li><li>Antes de atirar, o agente deve <b>identificar-se</b> como tal e <b>advertir</b> claramente, com tempo para a advertência ser observada, salvo se isso o colocar em risco ou for inútil (Princípio 10).</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que a arma de fogo pode ser usada para proteger o patrimônio.</li><li>Dizer que a fuga, por si só, autoriza o disparo.</li></ul></div></div>\n<ul><li><b>Princípios do uso diferenciado (progressivo) da força</b>: <b>legalidade</b> (base em lei e objetivo legal), <b>necessidade</b> (só quando outros meios forem insuficientes), <b>proporcionalidade</b> (equilíbrio entre a ameaça e a resposta), <b>moderação</b> e <b>conveniência</b> (avaliar o contexto, como a presença de terceiros). O policial escala ou reduz a força conforme o comportamento do abordado: <b>presença</b> policial, <b>verbalização</b>, <b>controles de contato</b> (mãos livres), <b>técnicas de submissão</b>, <b>instrumentos de menor potencial ofensivo</b> e, como último recurso, <b>força potencialmente letal</b>.</li><li><b>Portaria Interministerial 4.226/2010</b> (diretrizes nacionais): <b>não é legítimo</b> o uso de arma de fogo contra <b>pessoa em fuga</b> que esteja <b>desarmada</b> ou que, mesmo armada, <b>não represente risco imediato</b> de morte ou lesão grave; <b>não é legítimo</b> atirar contra <b>veículo que desrespeite bloqueio</b> policial, salvo risco imediato de morte ou lesão grave; os \"<b>disparos de advertência</b>\" <b>não são</b> prática aceitável; não se deve <b>apontar arma</b> durante abordagens como procedimento de rotina.</li><li><b>Lei 13.060/2014</b>: os órgãos de segurança pública devem <b>priorizar</b> os <b>instrumentos de menor potencial ofensivo</b> (como espargidores de pimenta, armas de choque elétrico e munições de impacto controlado), desde que seu uso não coloque em risco a integridade física ou psíquica dos policiais; repete as hipóteses em que <b>não é legítimo</b> o uso de arma de fogo (fuga de pessoa desarmada e veículo em bloqueio sem risco); e assegura <b>atendimento médico</b> aos feridos e <b>comunicação</b> à família. A lei foi regulamentada pelo <b>Decreto 12.341/2024</b>.</li></ul>\n<h3>4. Algemas, custódia e combate à tortura</h3>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 11</b><p class=\"jc-tese\">Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.</p><p class=\"jc-com\">Algema não é regra, é <b>exceção justificada por escrito</b>. É <b>vedado</b> algemar <b>mulheres grávidas</b> durante o <b>parto</b> e no período de <b>puerpério imediato</b>, e durante atos médico-hospitalares preparatórios (CPP, art. 292, parágrafo único).</p></div>\n<ul><li><b>Direitos do preso na Constituição</b> (art. 5º): a prisão e o local onde a pessoa se encontra serão <b>comunicados imediatamente</b> ao <b>juiz</b> e à <b>família</b> ou pessoa indicada (LXII); o preso será <b>informado de seus direitos</b>, entre eles o de <b>permanecer calado</b>, assegurada a assistência da família e de <b>advogado</b> (LXIII); tem direito à <b>identificação dos responsáveis</b> por sua prisão ou interrogatório (LXIV); a prisão <b>ilegal</b> será imediatamente <b>relaxada</b> (LXV).</li><li><b>Audiência de custódia</b>: o preso em flagrante deve ser apresentado ao juiz em até <b>24 horas</b> (CPP, art. 310; <b>Resolução CNJ 213/2015</b>; CADH, art. 7.5). O juiz verifica a <b>legalidade</b> da prisão, a necessidade de cautelares e eventuais <b>maus-tratos ou tortura</b>.</li><li><b>Tortura</b>: é <b>crime inafiançável e insuscetível de graça ou anistia</b> (CF, art. 5º, XLIII), definido na <b>Lei 9.455/1997</b>. Tratados: <b>Convenção da ONU contra a Tortura</b> (1984) e <b>Convenção Interamericana para Prevenir e Punir a Tortura</b> (1985). O <b>Protocolo de Istambul</b> orienta a <b>documentação</b> médica e psicológica de casos de tortura. A <b>Lei 12.847/2013</b> criou o <b>Sistema Nacional de Prevenção e Combate à Tortura</b>, com o <b>Mecanismo Nacional</b> (peritos com acesso a locais de privação de liberdade).</li><li><b>Caso Favela Nova Brasília vs. Brasil</b> (Corte IDH, <b>2017</b>): condenou o Brasil por mortes e violência sexual em operações policiais no Rio de Janeiro e determinou, entre outras medidas, que mortes decorrentes de intervenção policial sejam investigadas por <b>órgão independente</b> da força envolvida e que se abandone a expressão \"auto de resistência\" nos registros.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O policial pode usar arma de fogo para impedir a fuga de qualquer suspeito</span><br>✅ <span class=\"certo\">Só se a pessoa representar ameaça iminente à vida e meios menos extremos forem insuficientes.</span></li><li>❌ <span class=\"banca\">Disparo de advertência é técnica recomendada</span><br>✅ <span class=\"certo\">Não é prática aceitável (Portaria 4.226/2010).</span></li><li>❌ <span class=\"banca\">Algemar é procedimento padrão em toda prisão</span><br>✅ <span class=\"certo\">SV 11: só em resistência, receio de fuga ou perigo, justificado por escrito.</span></li><li>❌ <span class=\"banca\">Ordem superior justifica a tortura</span><br>✅ <span class=\"certo\">Nenhuma ordem ou circunstância excepcional a justifica (art. 5º do Código de Conduta).</span></li><li>❌ <span class=\"banca\">Segurança cidadã e segurança nacional são sinônimos</span><br>✅ <span class=\"certo\">A cidadã foca pessoas e direitos; a nacional, a defesa do Estado.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Viena (1993)?</span></span><span class=\"vs\"><span>Democracia, desenvolvimento e direitos humanos são <b>interdependentes</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Código de Conduta da ONU?</span></span><span class=\"vs\"><span><b>1979</b>, 8 artigos: força só quando <b>estritamente necessário</b>, proibição de <b>tortura</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípios de Havana?</span></span><span class=\"vs\"><span><b>1990</b>: arma de fogo só para <b>proteger a vida</b>, como último recurso.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípios do uso da força?</span></span><span class=\"vs\"><span><b>Legalidade, necessidade, proporcionalidade, moderação e conveniência</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Portaria 4.226/2010?</span></span><span class=\"vs\"><span>Sem tiro em fugitivo <b>desarmado</b>, em veículo no bloqueio sem risco, sem <b>disparo de advertência</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 13.060/2014?</span></span><span class=\"vs\"><span>Priorizar <b>menor potencial ofensivo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SV 11?</span></span><span class=\"vs\"><span>Algemas só com <b>justificativa escrita</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A fuga no beco</b><p>Durante abordagem em Belo Horizonte, um jovem desarmado foge correndo. Um policial pensa em dar um tiro para o alto e, depois, atirar nas pernas para impedir a fuga.</p><details><summary>Ver a solução comentada</summary><p>Nenhuma das condutas é legítima: o <b>disparo de advertência</b> não é prática aceitável, e o uso de arma de fogo contra <b>pessoa em fuga desarmada</b>, que <b>não representa risco</b> imediato de morte ou lesão grave, é vedado (Portaria 4.226/2010 e Lei 13.060/2014, em linha com os Princípios de Havana). O correto é acompanhar, pedir apoio e usar meios <b>não letais</b> quando proporcional. Se houvesse disparo e feridos, o agente deveria garantir <b>socorro</b> e comunicar o fato.</p></details></div>",
+"quiz": [
+{
+"p": "A Declaração e Programa de Ação de Viena, de 1993, afirma que a democracia, o desenvolvimento e o respeito aos direitos humanos são interdependentes e se reforçam mutuamente.",
+"c": true,
+"prof": "Conferência Mundial de Viena.",
+"x": "Viena também reafirmou a universalidade, a indivisibilidade e a interdependência dos direitos humanos.",
+"e": "Viena: interdependência."
+},
+{
+"p": "A Carta Democrática Interamericana, aprovada pela OEA em 2001, afirma que os povos da América têm direito à democracia.",
+"c": true,
+"prof": "Sistema regional.",
+"x": "A Carta vincula a democracia representativa ao respeito aos direitos humanos.",
+"e": "Carta Democrática: 2001."
+},
+{
+"p": "Segundo T. H. Marshall, os direitos que compõem a cidadania se desenvolveram historicamente na seguinte ordem:",
+"alts": [
+"sociais, políticos e civis",
+"políticos, civis e sociais",
+"civis, políticos e sociais",
+"civis, sociais e políticos",
+"políticos, sociais e civis"
+],
+"r": 2,
+"n": [
+"Ordem inversa.",
+"Ordem errada.",
+"Correta.",
+"Ordem errada.",
+"Ordem errada."
+],
+"prof": "Séculos XVIII, XIX e XX.",
+"x": "Direitos civis (século XVIII), políticos (século XIX) e sociais (século XX), segundo a análise de Marshall sobre a Inglaterra.",
+"e": "Civis, políticos, sociais."
+},
+{
+"p": "Hannah Arendt definiu a cidadania como o \"direito a ter direitos\".",
+"c": true,
+"prof": "Arendt.",
+"x": "A ideia surgiu da reflexão sobre os apátridas, que perdiam a proteção de qualquer Estado.",
+"e": "Direito a ter direitos."
+},
+{
+"p": "Na Constituição de 1988, a segurança aparece como direito individual, direito social e dever do Estado.",
+"c": true,
+"prof": "Arts. 5º, 6º e 144.",
+"x": "A segurança pública é dever do Estado, direito e responsabilidade de todos (art. 144).",
+"e": "Segurança: direito e dever."
+},
+{
+"p": "O conceito de segurança cidadã privilegia a defesa do Estado contra inimigos internos, em detrimento dos direitos individuais.",
+"c": false,
+"prof": "Cidadã x nacional.",
+"x": "A segurança cidadã foca a proteção das pessoas e de seus direitos, com prevenção e participação. A defesa do Estado contra \"inimigos internos\" é marca da doutrina de segurança nacional.",
+"e": "Cidadã: pessoas e direitos."
+},
+{
+"p": "O Código de Conduta para os Encarregados da Aplicação da Lei foi adotado pela Assembleia Geral da ONU em 1979.",
+"c": true,
+"prof": "Resolução 34/169.",
+"x": "Tem 8 artigos, entre eles o uso da força só quando estritamente necessário e a proibição da tortura.",
+"e": "Código de Conduta: 1979."
+},
+{
+"p": "Segundo o Código de Conduta da ONU, os encarregados da aplicação da lei só podem empregar a força quando estritamente necessário e na medida exigida para o cumprimento do seu dever.",
+"c": true,
+"prof": "Art. 3º.",
+"x": "O uso da força é excepcional.",
+"e": "Força: estritamente necessária."
+},
+{
+"p": "Segundo o Código de Conduta da ONU, a ordem de um superior hierárquico justifica a prática de tortura pelo agente.",
+"c": false,
+"prof": "Art. 5º.",
+"x": "Nenhum agente pode invocar ordens superiores ou circunstâncias excepcionais, como estado de guerra ou ameaça à segurança nacional, para justificar a tortura.",
+"e": "Ordem superior não justifica."
+},
+{
+"p": "Pelo Código de Conduta da ONU, os encarregados da aplicação da lei devem assegurar a proteção da saúde das pessoas sob sua guarda.",
+"c": true,
+"prof": "Art. 6º.",
+"x": "Devem, em especial, tomar medidas imediatas para garantir atendimento médico quando necessário.",
+"e": "Saúde dos custodiados."
+},
+{
+"p": "A expressão \"encarregados da aplicação da lei\" abrange todos os agentes que exercem poderes policiais, especialmente de prisão ou detenção.",
+"c": true,
+"prof": "Comentário ao art. 1º.",
+"x": "Inclui militares e agentes de segurança do Estado quando exercem essas funções.",
+"e": "Encarregados: todos com poder de polícia."
+},
+{
+"p": "Pelos Princípios Básicos sobre o Uso da Força e de Armas de Fogo, os agentes devem, sempre que possível, aplicar meios não violentos antes de recorrer à força e às armas de fogo.",
+"c": true,
+"prof": "Havana, 1990.",
+"x": "O uso da força deve ser excepcional, moderado e proporcional.",
+"e": "Meios não violentos primeiro."
+},
+{
+"p": "Segundo os Princípios Básicos sobre o Uso da Força e de Armas de Fogo (ONU, 1990), o uso intencional letal de armas de fogo só é admitido:",
+"alts": [
+"para proteger o patrimônio público",
+"para impedir a fuga de qualquer pessoa presa",
+"quando estritamente inevitável à proteção da vida",
+"sempre que houver ordem superior",
+"para dispersar manifestações"
+],
+"r": 2,
+"n": [
+"Patrimônio não justifica.",
+"Só se a pessoa representar ameaça à vida.",
+"Correta: Princípio 9.",
+"Ordem superior não justifica.",
+"Não justifica."
+],
+"prof": "Princípio 9.",
+"x": "A arma de fogo é o último recurso, para defesa contra ameaça iminente de morte ou ferimento grave, e o uso letal intencional só quando inevitável para proteger a vida.",
+"e": "Letal: só para proteger a vida."
+},
+{
+"p": "Antes de usar arma de fogo, o agente deve, salvo se isso o colocar em risco ou for inútil, identificar-se como tal e advertir claramente sobre sua intenção.",
+"c": true,
+"prof": "Princípio 10.",
+"x": "A advertência deve dar tempo suficiente para ser observada.",
+"e": "Identificar-se e advertir."
+},
+{
+"p": "São princípios do uso diferenciado da força a legalidade, a necessidade, a proporcionalidade, a moderação e a conveniência.",
+"c": true,
+"prof": "Uso progressivo.",
+"x": "A força é escalonada conforme a conduta do abordado: presença, verbalização, controles de contato, técnicas de submissão, menor potencial ofensivo e, por último, força letal.",
+"e": "Legalidade, necessidade, proporcionalidade."
+},
+{
+"p": "Segundo a Portaria Interministerial 4.226/2010, o disparo de advertência é prática recomendada antes do uso da força letal.",
+"c": false,
+"prof": "Diretrizes nacionais.",
+"x": "Os chamados \"disparos de advertência\" não são considerados prática aceitável, pelo risco a terceiros.",
+"e": "Advertência com tiro: inaceitável."
+},
+{
+"p": "Não é legítimo o uso de arma de fogo contra pessoa em fuga que esteja desarmada ou que, mesmo armada, não represente risco imediato de morte ou de lesão grave.",
+"c": true,
+"prof": "Portaria 4.226/2010 e Lei 13.060/2014.",
+"x": "A fuga, por si só, não autoriza o disparo.",
+"e": "Fuga desarmada: sem tiro."
+},
+{
+"p": "É legítimo o uso de arma de fogo contra veículo que desrespeite bloqueio policial em via pública, ainda que não haja risco a terceiros.",
+"c": false,
+"prof": "Bloqueio policial.",
+"x": "Só é legítimo se o ato representar risco imediato de morte ou lesão grave aos agentes ou a terceiros.",
+"e": "Bloqueio: só com risco."
+},
+{
+"p": "A Lei 13.060/2014 determina que os órgãos de segurança pública priorizem a utilização de instrumentos de menor potencial ofensivo, desde que seu uso não coloque em risco a integridade dos policiais.",
+"c": true,
+"prof": "Lei 13.060.",
+"x": "São exemplos os espargidores de agente químico, as armas de choque elétrico e as munições de impacto controlado.",
+"e": "Menor potencial ofensivo: prioridade."
+},
+{
+"p": "Um preso em flagrante, calmo e cooperativo, é algemado por rotina, sem qualquer justificativa por escrito. Segundo a Súmula Vinculante 11:",
+"alts": [
+"a conduta é regular, pois algemar é procedimento padrão",
+"o uso foi ilícito, pois as algemas só se justificam por resistência, fundado receio de fuga ou perigo, com justificativa escrita",
+"basta a justificativa verbal",
+"só a autoridade judicial pode autorizar algemas",
+"algemas são proibidas em qualquer caso"
+],
+"r": 1,
+"n": [
+"Não é procedimento padrão.",
+"Correta.",
+"Exige-se justificativa por escrito.",
+"O próprio agente justifica.",
+"São admitidas nas hipóteses da súmula."
+],
+"prof": "SV 11.",
+"x": "O uso indevido gera responsabilidade disciplinar, civil e penal do agente e pode anular a prisão ou o ato.",
+"e": "Algemas: excepcionais e justificadas."
+},
+{
+"p": "É vedado o uso de algemas em mulheres grávidas durante os atos médico-hospitalares preparatórios para o parto, durante o trabalho de parto e no período de puerpério imediato.",
+"c": true,
+"prof": "CPP, art. 292, parágrafo único.",
+"x": "A regra foi incluída pela Lei 13.434/2017.",
+"e": "Gestante no parto: sem algemas."
+},
+{
+"p": "A prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada.",
+"c": true,
+"prof": "CF, art. 5º, LXII.",
+"x": "O preso também deve ser informado de seus direitos, entre eles o de permanecer calado (LXIII).",
+"e": "Comunicação imediata."
+},
+{
+"p": "O preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial.",
+"c": true,
+"prof": "CF, art. 5º, LXIV.",
+"x": "Deixar de se identificar ao preso pode configurar abuso de autoridade (Lei 13.869, art. 16).",
+"e": "Identificação dos responsáveis."
+},
+{
+"p": "Na audiência de custódia, o juiz verifica a legalidade da prisão, a necessidade de medidas cautelares e a ocorrência de eventuais maus-tratos ou tortura.",
+"c": true,
+"prof": "Resolução CNJ 213/2015 e CPP, art. 310.",
+"x": "A apresentação deve ocorrer em até 24 horas. A base convencional é o art. 7.5 da CADH.",
+"e": "Custódia: 24 h."
+},
+{
+"p": "O Protocolo de Istambul é o manual da ONU para a investigação e documentação eficazes da tortura e de outros tratamentos cruéis, desumanos ou degradantes.",
+"c": true,
+"prof": "Documentação.",
+"x": "Orienta peritos médicos e psicólogos na avaliação de vítimas.",
+"e": "Protocolo de Istambul."
+},
+{
+"p": "A Lei 12.847/2013 instituiu o Sistema Nacional de Prevenção e Combate à Tortura e criou o Mecanismo Nacional de Prevenção e Combate à Tortura.",
+"c": true,
+"prof": "Mecanismo Nacional.",
+"x": "Seus peritos podem visitar locais de privação de liberdade, como presídios e delegacias.",
+"e": "Lei 12.847/2013."
+},
+{
+"p": "No caso Favela Nova Brasília, a Corte Interamericana determinou que mortes decorrentes de intervenção policial sejam investigadas por órgão independente da força envolvida.",
+"c": true,
+"prof": "Corte IDH, 2017.",
+"x": "Também determinou o abandono da expressão \"auto de resistência\" nos registros oficiais.",
+"e": "Investigação independente."
+}
+]
 }
 },
 "medicina-legal": {
@@ -8261,6 +8497,485 @@ export const PROFUNDO = {
 "e": "Posição de boxeador: calor."
 }
 ]
+},
+"obstetricia-forense": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>40</b><span>semanas: duração média da gestação (cerca de 280 dias)</span></div><div class=\"lt-stat\"><b>3</b><span>fases do parto: dilatação, expulsão e dequitação</span></div><div class=\"lt-stat\"><b>2 a 6</b><span>anos de detenção no infanticídio (CP, art. 123)</span></div><div class=\"lt-stat\"><b>2</b><span>hipóteses de aborto legal no CP (art. 128) + anencefalia (ADPF 54)</span></div></div>\n<h3>1. Gravidez: diagnóstico e duração</h3>\n<ul><li>O diagnóstico médico-legal da gravidez interessa a crimes (aborto, infanticídio, aumento de pena), a questões civis (filiação, herança) e trabalhistas.</li></ul>\n<table class=\"tab\"><thead><tr><th>Sinais</th><th>Exemplos</th><th>Valor</th></tr></thead><tbody><tr><td><b>Presunção</b> (relatados pela mulher)</td><td>atraso menstrual, náuseas, aumento das mamas, sonolência</td><td><b>não</b> provam a gravidez</td></tr><tr><td><b>Probabilidade</b> (observados pelo médico)</td><td>aumento do volume do útero, amolecimento do colo, <b>teste de gravidez</b> positivo (beta-hCG)</td><td>tornam a gravidez <b>provável</b></td></tr><tr><td><b>Certeza</b></td><td><b>batimentos cardíacos fetais</b>, <b>movimentos fetais</b> percebidos pelo examinador, visualização do embrião ou feto por <b>ultrassonografia</b></td><td><b>comprovam</b> a gravidez</td></tr></tbody></table>\n<ul><li><b>Duração</b>: cerca de <b>280 dias</b> (40 semanas) a partir da última menstruação. O Código Civil (art. 1.597) presume concebidos na constância do casamento os filhos nascidos <b>180 dias</b>, pelo menos, depois de estabelecida a convivência conjugal, e os nascidos nos <b>300 dias</b> subsequentes à dissolução da sociedade conjugal.</li><li><b>Gravidez simulada</b> (a mulher finge estar grávida, por exemplo para obter vantagem) x <b>dissimulada</b> (esconde uma gravidez real, comum em casos de aborto e infanticídio). A <b>pseudociese</b> (gravidez psicológica) é condição em que a mulher acredita estar grávida e apresenta sinais, sem gestação real.</li></ul>\n<h3>2. Parto e puerpério</h3>\n<ul><li><b>Parto</b> é o conjunto de fenômenos que levam à expulsão do feto e de seus anexos. Tem <b>três fases</b>: <b>dilatação</b> (do colo do útero), <b>expulsão</b> (saída do feto) e <b>dequitação</b> ou <b>secundamento</b> (saída da placenta e anexos).</li><li>O <b>início do parto</b>, para o direito penal, marca a passagem do <b>aborto</b> (crime contra a vida intrauterina) para o <b>homicídio</b> ou <b>infanticídio</b> (vida extrauterina). Para a doutrina majoritária, o parto começa com a <b>dilatação</b> (no parto normal) ou com a <b>incisão</b> abdominal (na cesariana).</li><li><b>Sinais de parto recente</b>: útero aumentado, colo dilatado, <b>lóquios</b> (secreção uterina pós-parto), <b>colostro</b> nas mamas, lacerações do períneo e da vagina, edema vulvar. <b>Sinais de parto antigo</b>: estrias, cicatrizes de episiotomia ou de cesárea, modificações do colo (orifício em fenda transversal).</li><li><b>Puerpério</b>: período que vai do fim do parto até a volta do organismo ao estado anterior à gravidez (cerca de <b>6 a 8 semanas</b>). O <b>estado puerperal</b> é a alteração psíquica que pode acometer a mulher durante o parto ou logo após, por fatores físicos e emocionais; não se confunde com <b>psicose puerperal</b> (doença mental, que leva ao art. 26 do CP).</li></ul>\n<h3>3. Infanticídio (CP, art. 123)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 123 do Código Penal</div><div class=\"art-lei\">Matar, sob a influência do estado puerperal, o próprio filho, durante o parto ou logo após: Pena – detenção, de 2 (dois) a 6 (seis) anos.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Critério <b>fisiopsíquico</b> (biopsicológico): não basta matar no puerpério; é preciso que a mãe esteja <b>sob a influência</b> do estado puerperal.</li><li><b>Sujeito ativo</b>: a <b>mãe</b> (crime próprio). <b>Sujeito passivo</b>: o <b>próprio filho</b>, <b>nascente</b> (durante o parto) ou <b>recém-nascido</b> (logo após).</li><li>Não há forma <b>culposa</b>: se a mãe, no estado puerperal, mata o filho por culpa, responde por <b>homicídio culposo</b> (ou o fato é atípico, segundo parte da doutrina).</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que basta o crime ocorrer no puerpério.</li><li>Dizer que o terceiro que ajuda a mãe responde por homicídio (a maioria entende que responde por infanticídio, art. 30).</li></ul></div></div>\n<ul><li><b>Concurso de pessoas</b>: o <b>estado puerperal</b> é <b>elementar</b> do tipo; por isso, segundo a doutrina majoritária, <b>comunica-se</b> ao terceiro que participa (CP, art. 30), que também responde por <b>infanticídio</b>.</li><li><b>Erro sobre a pessoa</b>: a mãe que, sob a influência do estado puerperal, mata <b>outro recém-nascido</b> pensando ser o seu responde por <b>infanticídio</b> (CP, art. 20, § 3º).</li><li><b>A perícia</b> deve provar: (1) que a mãe estava em <b>estado puerperal</b> e sob sua influência (exame psiquiátrico e obstétrico); (2) que o filho <b>nasceu com vida</b> (respirou); (3) a <b>causa da morte</b> (asfixia, traumatismos, abandono); (4) o tempo da morte em relação ao parto (\"durante ou logo após\").</li></ul>\n<table class=\"tab\"><thead><tr><th>Docimásias (provas de vida extrauterina)</th><th>Princípio</th></tr></thead><tbody><tr><td><b>Hidrostática pulmonar de Galeno</b> (a mais famosa)</td><td>o pulmão que <b>respirou</b> tem ar nos alvéolos e <b>flutua</b> na água; o que não respirou é compacto e <b>afunda</b>. A putrefação pode dar falso positivo (gases)</td></tr><tr><td><b>Óptica de Bouchut</b></td><td>aspecto dos alvéolos ao exame visual (dilatados se houve respiração)</td></tr><tr><td><b>Histológica</b></td><td>exame microscópico dos alvéolos (expandidos ou colabados)</td></tr><tr><td><b>Gastrointestinal de Breslau</b></td><td>presença de <b>ar no estômago e no intestino</b>, deglutido ao respirar</td></tr></tbody></table>\n<h3>4. Aborto (CP, arts. 124 a 128)</h3>\n<ul><li><b>Conceito</b>: interrupção da gravidez com a <b>morte do produto da concepção</b> (ovo, embrião ou feto), antes do início do parto. Pode ser <b>espontâneo</b> (natural, sem relevância penal), <b>acidental</b> ou <b>provocado</b> (criminoso ou legal).</li></ul>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>124</b></td><td><b>autoaborto</b> ou consentir que outrem lhe provoque</td><td>detenção de <b>1 a 3 anos</b></td></tr><tr><td><b>125</b></td><td>provocar aborto <b>sem</b> o consentimento da gestante</td><td>reclusão de <b>3 a 10 anos</b></td></tr><tr><td><b>126</b></td><td>provocar aborto <b>com</b> o consentimento da gestante</td><td>reclusão de <b>1 a 4 anos</b>; aplica-se a pena do art. 125 se a gestante é <b>menor de 14 anos</b>, <b>alienada ou débil mental</b>, ou se o consentimento foi obtido mediante <b>fraude, grave ameaça ou violência</b></td></tr><tr><td><b>127</b></td><td>formas majoradas (arts. 125 e 126)</td><td>aumento de <b>1/3</b> se a gestante sofre <b>lesão grave</b>; penas <b>duplicadas</b> se sobrevém <b>morte</b></td></tr></tbody></table>\n<ul><li><b>Aborto legal</b> (art. 128): praticado por <b>médico</b>, não se pune: <b>I</b> – <b>aborto necessário</b> (terapêutico): se não há outro meio de salvar a <b>vida da gestante</b> (dispensa o consentimento); <b>II</b> – <b>aborto no caso de gravidez resultante de estupro</b> (sentimental, humanitário ou ético): precedido de <b>consentimento</b> da gestante ou, quando incapaz, de seu representante legal. Não se exige autorização judicial nem boletim de ocorrência.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADPF 54 (2012)</b><p class=\"jc-tese\">É inconstitucional a interpretação segundo a qual a interrupção da gravidez de feto anencéfalo é conduta tipificada nos arts. 124, 126 e 128, I e II, do Código Penal.</p><p class=\"jc-com\">A antecipação terapêutica do parto de <b>feto anencéfalo</b> (diagnosticado por médico) é <b>atípica</b>: não há vida viável. Não depende de autorização judicial.</p></div>\n<ul><li><b>Perícia no aborto</b>: (1) <b>na mulher viva</b>: sinais de gravidez recente e de sua interrupção, lesões do colo e do útero (por instrumentos), restos placentários, presença de substâncias abortivas; (2) <b>no cadáver</b> da mulher: causa da morte (hemorragia, infecção, perfuração uterina, embolia); (3) <b>no produto</b> expulso: idade gestacional, sinais de violência, vitalidade. Métodos de provocação: <b>químicos</b> (medicamentos e substâncias abortivas) e <b>mecânicos</b> (instrumentos, sondas, curetagem).</li></ul>\n<h3>5. Reprodução assistida e questões de sexualidade</h3>\n<ul><li><b>Inseminação artificial</b>: introdução do sêmen no aparelho genital feminino. <b>Homóloga</b> (sêmen do marido ou companheiro) x <b>heteróloga</b> (sêmen de <b>doador</b>). <b>Fertilização in vitro</b>: fecundação fora do corpo e transferência do embrião.</li><li><b>Presunções do Código Civil</b> (art. 1.597): presumem-se concebidos na constância do casamento os filhos <b>III</b> – havidos por fecundação artificial <b>homóloga</b>, <b>mesmo que falecido o marido</b>; <b>IV</b> – havidos, a qualquer tempo, quando se tratar de <b>embriões excedentários</b>, decorrentes de concepção artificial homóloga; <b>V</b> – havidos por inseminação artificial <b>heteróloga</b>, desde que tenha <b>prévia autorização do marido</b>.</li><li><b>Gestação de substituição</b> (\"barriga solidária\"): regulada por <b>resoluções do Conselho Federal de Medicina</b>; não pode ter <b>caráter lucrativo</b> ou comercial, e a cedente do útero deve, em regra, ser <b>parente</b> de um dos parceiros (até o 4º grau), salvo autorização do Conselho Regional.</li><li><b>Estados intersexuais</b> (antigo \"hermafroditismo\"): condições em que as características sexuais não se enquadram nas definições típicas de masculino ou feminino; a perícia determina o <b>sexo genético, gonadal, morfológico e psicológico</b>.</li><li><b>Transexualidade</b>: identidade de gênero diferente do sexo designado ao nascer. O STF (<b>ADI 4.275</b>, 2018) reconheceu o direito de alterar <b>nome e gênero</b> no registro civil <b>diretamente no cartório</b>, <b>sem cirurgia</b>, sem laudo e sem autorização judicial.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O infanticídio pode ser praticado pelo pai</span><br>✅ <span class=\"certo\">Crime próprio da mãe; o terceiro participa (art. 30).</span></li><li>❌ <span class=\"banca\">Basta o crime ocorrer no puerpério</span><br>✅ <span class=\"certo\">Exige estar sob a influência do estado puerperal.</span></li><li>❌ <span class=\"banca\">A docimásia de Galeno prova a morte do feto</span><br>✅ <span class=\"certo\">Prova se houve respiração (vida extrauterina).</span></li><li>❌ <span class=\"banca\">O aborto em caso de estupro exige autorização judicial</span><br>✅ <span class=\"certo\">Exige só o consentimento da gestante e ser feito por médico.</span></li><li>❌ <span class=\"banca\">Aborto de anencéfalo é crime</span><br>✅ <span class=\"certo\">ADPF 54: conduta atípica.</span></li><li>❌ <span class=\"banca\">A inseminação heteróloga dispensa autorização do marido para a presunção</span><br>✅ <span class=\"certo\">Exige prévia autorização.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sinais de certeza da gravidez?</span></span><span class=\"vs\"><span><b>Batimentos cardíacos fetais</b>, <b>movimentos fetais</b> percebidos pelo médico, <b>ultrassom</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases do parto?</span></span><span class=\"vs\"><span><b>Dilatação, expulsão e dequitação</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infanticídio?</span></span><span class=\"vs\"><span>Mãe, <b>sob influência do estado puerperal</b>, mata o filho <b>durante o parto ou logo após</b>; detenção de <b>2 a 6 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Docimásia hidrostática?</span></span><span class=\"vs\"><span><b>Galeno</b>: pulmão que respirou <b>flutua</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aborto legal?</span></span><span class=\"vs\"><span><b>Necessário</b> (vida da gestante) e <b>estupro</b> (consentimento), por <b>médico</b>; e anencefalia (<b>ADPF 54</b>).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 125?</span></span><span class=\"vs\"><span>Aborto <b>sem consentimento</b>: <b>3 a 10 anos</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O bebê no banheiro</b><p>Uma jovem que escondeu a gravidez dá à luz sozinha no banheiro e, em estado de confusão, asfixia o recém-nascido. A perícia encontra o corpo dias depois.</p><details><summary>Ver a solução comentada</summary><p>A perícia precisa provar que o bebê <b>nasceu com vida</b> (docimásias, como a <b>hidrostática de Galeno</b>, e a <b>histológica</b>, mais segura se houver putrefação), a <b>causa da morte</b> (asfixia) e o momento (\"logo após\" o parto). O exame da mãe deve avaliar o <b>estado puerperal</b> e sua <b>influência</b> na conduta. Comprovada essa influência, há <b>infanticídio</b> (art. 123); se ausente, <b>homicídio</b>. A gravidez <b>dissimulada</b> é dado relevante.</p></details></div>",
+"quiz": [
+{
+"p": "A percepção dos batimentos cardíacos fetais pelo examinador é sinal de certeza da gravidez.",
+"c": true,
+"prof": "Presunção, probabilidade e certeza.",
+"x": "Também são sinais de certeza os movimentos fetais percebidos pelo examinador e a visualização do feto por ultrassonografia.",
+"e": "BCF: certeza."
+},
+{
+"p": "O atraso menstrual e as náuseas são sinais de certeza da gravidez.",
+"c": false,
+"prof": "Quem relata é a mulher.",
+"x": "São sinais de presunção, que não provam a gravidez.",
+"e": "Atraso: presunção."
+},
+{
+"p": "Presumem-se concebidos na constância do casamento os filhos nascidos 180 dias, pelo menos, depois de estabelecida a convivência conjugal.",
+"c": true,
+"prof": "CC, art. 1.597, I.",
+"x": "Também os nascidos nos 300 dias subsequentes à dissolução da sociedade conjugal.",
+"e": "180 e 300 dias."
+},
+{
+"p": "A gravidez dissimulada é aquela em que a mulher esconde uma gravidez real, situação comum em casos de aborto e infanticídio.",
+"c": true,
+"prof": "Simulada x dissimulada.",
+"x": "Na simulada, a mulher finge uma gravidez que não existe.",
+"e": "Dissimulada: esconde."
+},
+{
+"p": "As fases do parto, em ordem, são:",
+"alts": [
+"expulsão, dilatação e dequitação",
+"dilatação, expulsão e dequitação (secundamento)",
+"dequitação, dilatação e expulsão",
+"puerpério, dilatação e expulsão",
+"dilatação, puerpério e expulsão"
+],
+"r": 1,
+"n": [
+"Ordem errada.",
+"Correta.",
+"Ordem errada.",
+"O puerpério vem depois do parto.",
+"O puerpério vem depois do parto."
+],
+"prof": "Colo, feto, placenta.",
+"x": "Primeiro dilata o colo, depois o feto é expulso e, por fim, saem a placenta e os anexos (dequitação ou secundamento).",
+"e": "Dilatação, expulsão, dequitação."
+},
+{
+"p": "Lóquios e colostro são sinais de parto recente.",
+"c": true,
+"prof": "Sinais de parto recente.",
+"x": "Também o útero aumentado, o colo dilatado e lacerações recentes do períneo.",
+"e": "Lóquios: parto recente."
+},
+{
+"p": "Para a doutrina majoritária, no parto normal, o início do parto, que marca o fim da possibilidade de aborto, se dá com a dilatação do colo do útero.",
+"c": true,
+"prof": "Aborto x homicídio/infanticídio.",
+"x": "Na cesariana, considera-se iniciado o parto com a incisão abdominal.",
+"e": "Início do parto: dilatação."
+},
+{
+"p": "O estado puerperal e a psicose puerperal são expressões sinônimas.",
+"c": false,
+"prof": "Alteração transitória x doença mental.",
+"x": "O estado puerperal é alteração psíquica transitória ligada ao parto; a psicose puerperal é doença mental, que pode levar à inimputabilidade (art. 26).",
+"e": "Estado puerperal ≠ psicose."
+},
+{
+"p": "O infanticídio consiste em matar, sob a influência do estado puerperal, o próprio filho, durante o parto ou logo após, com pena de detenção de dois a seis anos.",
+"c": true,
+"prof": "CP, art. 123.",
+"x": "É crime próprio da mãe, e o critério é fisiopsíquico.",
+"e": "Infanticídio: 2 a 6 anos."
+},
+{
+"p": "Para configurar o infanticídio, basta que a morte do filho ocorra durante o puerpério.",
+"c": false,
+"prof": "Critério fisiopsíquico.",
+"x": "Exige-se que a mãe esteja sob a influência do estado puerperal; não basta o critério temporal.",
+"e": "Influência do estado puerperal."
+},
+{
+"p": "Segundo a doutrina majoritária, o terceiro que auxilia a mãe a matar o próprio filho sob a influência do estado puerperal responde por infanticídio.",
+"c": true,
+"prof": "CP, art. 30.",
+"x": "O estado puerperal é elementar do tipo e se comunica ao partícipe.",
+"e": "Partícipe: infanticídio."
+},
+{
+"p": "A mãe que, sob a influência do estado puerperal, mata outro recém-nascido acreditando ser o seu filho responde por infanticídio.",
+"c": true,
+"prof": "Erro sobre a pessoa.",
+"x": "Consideram-se as condições da vítima pretendida (CP, art. 20, § 3º).",
+"e": "Erro sobre a pessoa: infanticídio."
+},
+{
+"p": "O infanticídio admite a forma culposa.",
+"c": false,
+"prof": "Não há previsão legal.",
+"x": "Não há infanticídio culposo. A mãe que mata o filho por culpa responde, em tese, por homicídio culposo.",
+"e": "Sem infanticídio culposo."
+},
+{
+"p": "A docimásia que se baseia no fato de que o pulmão que respirou flutua na água, enquanto o que não respirou afunda, é a:",
+"alts": [
+"óptica de Bouchut",
+"hidrostática pulmonar de Galeno",
+"gastrointestinal de Breslau",
+"histológica",
+"de Icard"
+],
+"r": 1,
+"n": [
+"Avalia o aspecto dos alvéolos.",
+"Correta.",
+"Pesquisa ar no estômago e no intestino.",
+"Exame microscópico.",
+"Não é esta prova."
+],
+"prof": "A mais famosa.",
+"x": "A hidrostática de Galeno prova a respiração (vida extrauterina). A putrefação pode gerar falso positivo pelos gases.",
+"e": "Galeno: flutua."
+},
+{
+"p": "A docimásia gastrointestinal de Breslau pesquisa a presença de ar no estômago e no intestino do recém-nascido, deglutido ao respirar.",
+"c": true,
+"prof": "Breslau.",
+"x": "É prova complementar de vida extrauterina.",
+"e": "Breslau: ar no trato digestivo."
+},
+{
+"p": "A putrefação do cadáver do recém-nascido não interfere no resultado da docimásia hidrostática de Galeno.",
+"c": false,
+"prof": "Falso positivo.",
+"x": "Os gases da putrefação podem fazer o pulmão flutuar mesmo sem respiração. Nesses casos, a docimásia histológica é mais segura.",
+"e": "Putrefação: falso positivo."
+},
+{
+"p": "Provocar aborto sem o consentimento da gestante é punido com reclusão de três a dez anos.",
+"c": true,
+"prof": "CP, art. 125.",
+"x": "É a forma mais grave de aborto.",
+"e": "Art. 125: 3 a 10 anos."
+},
+{
+"p": "Um homem provoca aborto em uma adolescente de 13 anos, com o consentimento dela. Segundo o Código Penal, ele responde pela pena do:",
+"alts": [
+"art. 124 (autoaborto)",
+"art. 126 (com consentimento)",
+"art. 125 (sem consentimento), pois o consentimento de menor de 14 anos é inválido",
+"art. 128",
+"fato atípico"
+],
+"r": 2,
+"n": [
+"É crime da gestante.",
+"O consentimento é inválido.",
+"Correta: art. 126, parágrafo único.",
+"Não é aborto legal.",
+"É crime."
+],
+"prof": "Consentimento inválido.",
+"x": "Aplica-se a pena do art. 125 se a gestante não é maior de 14 anos, é alienada ou débil mental, ou se o consentimento é obtido com fraude, grave ameaça ou violência.",
+"e": "Menor de 14: pena do art. 125."
+},
+{
+"p": "Se, em consequência do aborto provocado por terceiro, sobrevém a morte da gestante, as penas são duplicadas.",
+"c": true,
+"prof": "CP, art. 127.",
+"x": "Se resulta lesão grave, a pena é aumentada de 1/3.",
+"e": "Morte da gestante: dobro."
+},
+{
+"p": "Não se pune o aborto praticado por médico se não há outro meio de salvar a vida da gestante.",
+"c": true,
+"prof": "Aborto necessário.",
+"x": "O aborto necessário dispensa o consentimento da gestante (art. 128, I).",
+"e": "Aborto necessário."
+},
+{
+"p": "O aborto em caso de gravidez resultante de estupro depende de autorização judicial e de boletim de ocorrência.",
+"c": false,
+"prof": "Art. 128, II.",
+"x": "Exige que seja praticado por médico e precedido do consentimento da gestante ou de seu representante legal. Não se exige autorização judicial.",
+"e": "Estupro: só consentimento + médico."
+},
+{
+"p": "Segundo o STF (ADPF 54), a interrupção da gravidez de feto anencéfalo não configura crime de aborto.",
+"c": true,
+"prof": "Anencefalia.",
+"x": "O STF considerou a conduta atípica, sem necessidade de autorização judicial.",
+"e": "Anencéfalo: atípico."
+},
+{
+"p": "Presumem-se concebidos na constância do casamento os filhos havidos por inseminação artificial heteróloga, desde que tenha prévia autorização do marido.",
+"c": true,
+"prof": "CC, art. 1.597, V.",
+"x": "Na heteróloga, o sêmen é de doador; por isso a lei exige a autorização prévia.",
+"e": "Heteróloga: autorização do marido."
+},
+{
+"p": "Presumem-se concebidos na constância do casamento os filhos havidos por fecundação artificial homóloga, mesmo que falecido o marido.",
+"c": true,
+"prof": "CC, art. 1.597, III.",
+"x": "Na homóloga, o material genético é do próprio marido.",
+"e": "Homóloga: mesmo após a morte."
+},
+{
+"p": "A gestação de substituição pode ter caráter lucrativo, desde que haja contrato escrito.",
+"c": false,
+"prof": "Normas do CFM.",
+"x": "A cessão temporária do útero não pode ter caráter lucrativo ou comercial.",
+"e": "Barriga solidária: sem lucro."
+},
+{
+"p": "Segundo o STF, a pessoa transgênero pode alterar nome e gênero no registro civil diretamente no cartório, sem cirurgia de redesignação e sem autorização judicial.",
+"c": true,
+"prof": "ADI 4.275.",
+"x": "Basta a autodeclaração da identidade de gênero.",
+"e": "ADI 4.275."
+}
+]
+},
+"psicopatologia": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>elementos do critério biopsicológico: causa, consequência e totalidade</span></div><div class=\"lt-stat\"><b>1/3 a 2/3</b><span>redução de pena da semi-imputabilidade (CP, art. 26, parágrafo único)</span></div><div class=\"lt-stat\"><b>1 a 3</b><span>anos: prazo mínimo da medida de segurança</span></div><div class=\"lt-stat\"><b>16</b><span>anos: idade abaixo da qual a pessoa é absolutamente incapaz (CC, art. 3º)</span></div></div>\n<h3>1. Imputabilidade penal (CP, arts. 26 e 27)</h3>\n<ul><li><b>Imputabilidade</b> é a capacidade de <b>entender o caráter ilícito</b> do fato e de <b>determinar-se</b> de acordo com esse entendimento. É elemento da <b>culpabilidade</b>.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 26 do Código Penal</div><div class=\"art-lei\">É isento de pena o agente que, por doença mental ou desenvolvimento mental incompleto ou retardado, era, ao tempo da ação ou da omissão, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento. Parágrafo único – A pena pode ser reduzida de um a dois terços, se o agente, em virtude de perturbação de saúde mental ou por desenvolvimento mental incompleto ou retardado não era inteiramente capaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>O CP adota o critério <b>biopsicológico</b>: exige uma <b>causa biológica</b> (doença mental, desenvolvimento incompleto ou retardado) <b>mais</b> a <b>consequência psicológica</b> (incapacidade de entender ou de se determinar) <b>ao tempo do fato</b>.</li><li><b>Inimputável</b> (caput): <b>inteiramente</b> incapaz → <b>absolvição imprópria</b> com <b>medida de segurança</b>.</li><li><b>Semi-imputável</b> (parágrafo único): <b>parcialmente</b> capaz → <b>condenação</b> com pena <b>reduzida de 1/3 a 2/3</b>, que pode ser <b>substituída</b> por medida de segurança (art. 98).</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que basta ter doença mental para ser inimputável (é preciso a incapacidade ao tempo do fato).</li><li>Dizer que o semi-imputável é absolvido.</li></ul></div></div>\n<ul><li><b>Menores de 18 anos</b> (art. 27; CF, art. 228): inimputáveis por critério <b>biológico</b> puro (presunção absoluta), sujeitos ao <b>ECA</b>.</li><li><b>Medidas de segurança</b> (arts. 96 a 98): <b>internação</b> em hospital de custódia (se o crime é punido com <b>reclusão</b>) ou <b>tratamento ambulatorial</b> (se punido com <b>detenção</b>, a critério do juiz). Prazo <b>indeterminado</b>, com perícia anual, e prazo <b>mínimo</b> de <b>1 a 3 anos</b>. A <b>Súmula 527 do STJ</b> limita a duração ao <b>máximo da pena abstrata</b> do crime.</li><li><b>Incidente de insanidade mental</b> (CPP, art. 149): havendo <b>dúvida</b> sobre a integridade mental do acusado, o juiz ordena exame médico-legal, de ofício ou a requerimento do MP, do defensor, do curador, de ascendente, descendente, irmão ou cônjuge. Pode ser ordenado <b>ainda na fase do inquérito</b>, mediante <b>representação da autoridade policial</b>. O processo fica <b>suspenso</b>; o exame tem prazo de <b>45 dias</b>, prorrogável.</li><li><b>Doença mental superveniente</b> (CPP, art. 152): se a doença surgir <b>depois do fato</b>, o processo fica <b>suspenso</b> até o acusado se restabelecer (crise de insanidade). Na execução, a pena pode ser convertida em medida de segurança (LEP, art. 183).</li></ul>\n<h3>2. Embriaguez (CP, art. 28)</h3>\n<ul><li><b>Não excluem a imputabilidade</b>: <b>I</b> – a <b>emoção ou a paixão</b>; <b>II</b> – a <b>embriaguez, voluntária ou culposa</b>, pelo álcool ou substância de efeitos análogos. Aplica-se a teoria da <b>actio libera in causa</b> (ação livre na causa): a liberdade é aferida no momento em que a pessoa decidiu beber.</li></ul>\n<table class=\"tab\"><thead><tr><th>Espécie de embriaguez</th><th>Consequência penal</th></tr></thead><tbody><tr><td><b>Voluntária</b> (quis embriagar-se) ou <b>culposa</b> (bebeu sem cuidado)</td><td><b>não exclui</b> a imputabilidade (art. 28, II)</td></tr><tr><td><b>Preordenada</b> (bebeu para criar coragem e cometer o crime)</td><td><b>não exclui</b> e é <b>agravante</b> (art. 61, II, \"l\")</td></tr><tr><td><b>Acidental completa</b>, por <b>caso fortuito ou força maior</b></td><td><b>isenta de pena</b> (art. 28, § 1º)</td></tr><tr><td><b>Acidental incompleta</b></td><td><b>reduz</b> a pena de <b>1/3 a 2/3</b> (art. 28, § 2º)</td></tr><tr><td><b>Patológica</b> (doença)</td><td>tratada como <b>doença mental</b> (art. 26)</td></tr></tbody></table>\n<ul><li><b>Fases clínicas da embriaguez alcoólica</b>: <b>excitação</b> (fase do \"macaco\": euforia, desinibição, loquacidade), <b>confusão</b> (fase do \"leão\": agressividade, perturbação da coordenação e do equilíbrio, fala arrastada) e <b>sono</b> (fase do \"porco\": torpor, coma). A perícia usa <b>exame clínico</b> e <b>alcoolemia</b> (sangue) ou <b>etilometria</b> (ar alveolar).</li></ul>\n<h3>3. Modificadores da imputabilidade e da capacidade civil</h3>\n<ul><li><b>Emoção e paixão</b>: não excluem a imputabilidade, mas a <b>violenta emoção</b> pode <b>atenuar</b> a pena (art. 65, III, \"c\") ou configurar <b>privilégio</b> no homicídio (art. 121, § 1º) e na lesão corporal.</li><li><b>Surdo-mudez, cegueira, senilidade</b>: só afastam ou reduzem a imputabilidade se causarem a incapacidade prevista no art. 26.</li><li><b>Capacidade civil</b> (após o <b>Estatuto da Pessoa com Deficiência</b>, Lei 13.146/2015): <b>absolutamente incapazes</b> são <b>apenas os menores de 16 anos</b> (CC, art. 3º). <b>Relativamente incapazes</b> (art. 4º): maiores de <b>16</b> e menores de <b>18</b>; <b>ébrios habituais</b> e <b>viciados em tóxico</b>; os que, por causa <b>transitória ou permanente</b>, <b>não puderem exprimir sua vontade</b>; e os <b>pródigos</b>.</li><li>A <b>deficiência</b>, por si só, <b>não afeta a plena capacidade civil</b> (Lei 13.146, art. 6º). A <b>curatela</b> é medida <b>extraordinária</b>, proporcional e limitada a atos de natureza <b>patrimonial e negocial</b>; há também a <b>tomada de decisão apoiada</b> (CC, art. 1.783-A).</li><li><b>Psicopatia</b> (transtorno de personalidade antissocial): o psicopata, em regra, <b>entende</b> o caráter ilícito do fato; por isso é considerado, em regra, <b>imputável</b> (ou, em casos específicos, semi-imputável). Instrumento de avaliação conhecido: escala <b>PCL-R</b> (Robert <b>Hare</b>).</li></ul>\n<h3>4. Simulação, dissimulação e supersimulação</h3>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>O que é</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Simulação</b></td><td><b>fingir</b> doença ou sintoma <b>inexistente</b></td><td>preso que finge loucura para ir ao hospital de custódia</td></tr><tr><td><b>Dissimulação</b></td><td><b>esconder</b> doença ou sintoma <b>existente</b></td><td>candidato que oculta transtorno para passar no exame psicológico do concurso</td></tr><tr><td><b>Supersimulação</b> (sobressimulação)</td><td><b>exagerar</b> sintomas de doença <b>real</b></td><td>acidentado com dor leve que alega incapacidade total</td></tr><tr><td><b>Metassimulação</b></td><td>continuar alegando sintomas de doença que <b>já foi curada</b></td><td>segurado que mantém queixas após a cura para seguir afastado</td></tr></tbody></table>\n<ul><li><b>Sinais de simulação</b>: sintomas <b>incoerentes</b> com quadros conhecidos, exagerados ou <b>teatrais</b>; piora diante do examinador; contradições; ganho evidente (fugir de processo, obter benefício). A perícia usa entrevistas repetidas, observação prolongada, testes psicológicos e exames complementares.</li><li><b>Síndrome de Ganser</b>: quadro dissociativo descrito em <b>presos</b>, com <b>respostas aproximadas</b> e absurdas a perguntas simples (\"quantas pernas tem um cavalo?\" \"Cinco\"); deve ser diferenciada da simulação.</li></ul>\n<h3>5. Alcoolismo e toxicofilias</h3>\n<ul><li><b>Dependência</b>: uso compulsivo, <b>tolerância</b> (necessidade de doses maiores) e <b>síndrome de abstinência</b> ao parar.</li><li><b>Quadros ligados ao álcool</b>: <b>delirium tremens</b> (abstinência grave: tremores, confusão, <b>alucinações visuais</b>, como pequenos animais, febre, risco de morte); <b>alucinose alcoólica</b> (alucinações <b>auditivas</b>, com consciência preservada); <b>síndrome de Korsakoff</b> (amnésia para fatos recentes e <b>confabulação</b>, ligada à falta de vitamina B1); <b>delírio de ciúme</b> (ciúme patológico, associado a violência doméstica).</li><li><b>Lei de Drogas</b>: é <b>isento de pena</b> o agente que, em razão da <b>dependência</b>, ou sob o efeito de droga proveniente de <b>caso fortuito ou força maior</b>, era, ao tempo da ação, <b>inteiramente incapaz</b> de entender o caráter ilícito do fato ou de determinar-se (art. 45); se a capacidade era apenas <b>reduzida</b>, a pena é diminuída de <b>1/3 a 2/3</b> (art. 46). O juiz pode determinar <b>tratamento</b> (art. 47).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quem tem doença mental é sempre inimputável</span><br>✅ <span class=\"certo\">Exige incapacidade total ao tempo do fato (critério biopsicológico).</span></li><li>❌ <span class=\"banca\">O semi-imputável é absolvido</span><br>✅ <span class=\"certo\">É condenado, com pena reduzida ou substituída.</span></li><li>❌ <span class=\"banca\">Embriaguez voluntária completa isenta de pena</span><br>✅ <span class=\"certo\">Só a acidental completa (caso fortuito ou força maior).</span></li><li>❌ <span class=\"banca\">Após 2015, o deficiente mental é absolutamente incapaz</span><br>✅ <span class=\"certo\">Absolutamente incapazes são só os menores de 16.</span></li><li>❌ <span class=\"banca\">Simulação é exagerar sintomas reais</span><br>✅ <span class=\"certo\">Isso é supersimulação; simular é fingir doença inexistente.</span></li><li>❌ <span class=\"banca\">Delirium tremens é intoxicação aguda</span><br>✅ <span class=\"certo\">É quadro de abstinência.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Critério do art. 26?</span></span><span class=\"vs\"><span><b>Biopsicológico</b>: causa (doença ou desenvolvimento) + incapacidade <b>ao tempo do fato</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Semi-imputável?</span></span><span class=\"vs\"><span>Pena reduzida de <b>1/3 a 2/3</b> ou <b>medida de segurança</b> (art. 98).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Menor de 18?</span></span><span class=\"vs\"><span>Critério <b>biológico</b> (art. 27).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Embriaguez que isenta?</span></span><span class=\"vs\"><span><b>Acidental completa</b> (caso fortuito/força maior).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases da embriaguez?</span></span><span class=\"vs\"><span><b>Excitação, confusão e sono</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Simulação x dissimulação?</span></span><span class=\"vs\"><span><b>Fingir</b> doença inexistente x <b>esconder</b> doença existente.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Absolutamente incapaz hoje?</span></span><span class=\"vs\"><span>Só o <b>menor de 16 anos</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O réu que \"ouvia vozes\"</b><p>Preso por homicídio, João passa a dizer que ouve vozes e responde a perguntas simples com respostas absurdas. A defesa pede exame de insanidade.</p><details><summary>Ver a solução comentada</summary><p>Havendo <b>dúvida</b>, o juiz instaura o <b>incidente de insanidade</b> (CPP, art. 149), suspendendo o processo. O perito deve verificar se há <b>doença mental</b>, se ela existia <b>ao tempo do fato</b> e se ele era <b>inteiramente</b> ou <b>parcialmente</b> incapaz, além de investigar <b>simulação</b> ou <b>síndrome de Ganser</b>. Se a doença surgiu <b>depois</b> do crime, aplica-se o art. 152 (suspensão do processo), e não a absolvição imprópria.</p></details></div>",
+"quiz": [
+{
+"p": "O Código Penal adota o critério biopsicológico para a aferição da inimputabilidade por doença mental.",
+"c": true,
+"prof": "Causa + consequência.",
+"x": "Exige-se a causa biológica (doença mental ou desenvolvimento incompleto ou retardado) e a consequência psicológica (incapacidade de entender ou de se determinar) ao tempo do fato.",
+"e": "Biopsicológico."
+},
+{
+"p": "Para o Código Penal, o simples diagnóstico de doença mental basta para isentar o agente de pena.",
+"c": false,
+"prof": "Não basta a causa.",
+"x": "É preciso que, por causa da doença, o agente fosse inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se, ao tempo da ação ou omissão.",
+"e": "Doença + incapacidade."
+},
+{
+"p": "O inimputável por doença mental é absolvido, mas sujeito a medida de segurança (absolvição imprópria).",
+"c": true,
+"prof": "Art. 26, caput, e art. 97.",
+"x": "A medida pode ser internação (crime punido com reclusão) ou tratamento ambulatorial (detenção, a critério do juiz).",
+"e": "Absolvição imprópria."
+},
+{
+"p": "O semi-imputável é absolvido e submetido obrigatoriamente a medida de segurança.",
+"c": false,
+"prof": "Art. 26, parágrafo único.",
+"x": "O semi-imputável é condenado, com pena reduzida de 1/3 a 2/3, que pode ser substituída por medida de segurança se necessitar de especial tratamento curativo (art. 98).",
+"e": "Semi-imputável: condenado."
+},
+{
+"p": "Os menores de 18 anos são penalmente inimputáveis, adotando-se, nesse caso, o critério biológico.",
+"c": true,
+"prof": "Art. 27 e CF, art. 228.",
+"x": "A presunção é absoluta; ficam sujeitos à legislação especial (ECA).",
+"e": "Menor: critério biológico."
+},
+{
+"p": "Segundo o STJ, o tempo de duração da medida de segurança não deve ultrapassar o limite máximo da pena abstratamente cominada ao delito praticado.",
+"c": true,
+"prof": "Súmula 527.",
+"x": "O CP prevê prazo indeterminado, com mínimo de 1 a 3 anos, mas o STJ fixou esse teto.",
+"e": "Súmula 527."
+},
+{
+"p": "Havendo dúvida sobre a integridade mental do acusado, o juiz ordenará que ele seja submetido a exame médico-legal. Sobre o incidente de insanidade mental, é correto afirmar que:",
+"alts": [
+"só pode ser instaurado a pedido da defesa",
+"pode ser ordenado na fase do inquérito, mediante representação da autoridade policial ao juiz",
+"é determinado pelo Delegado, sem participação judicial",
+"não suspende o processo",
+"o exame deve ser concluído em 10 dias"
+],
+"r": 1,
+"n": [
+"Pode ser de ofício ou a pedido de vários legitimados.",
+"Correta: CPP, art. 149, § 1º.",
+"A decisão é do juiz.",
+"O processo fica suspenso.",
+"O prazo é de 45 dias."
+],
+"prof": "CPP, art. 149.",
+"x": "O juiz ordena o exame de ofício ou a requerimento do MP, defensor, curador ou parentes; no inquérito, por representação da autoridade policial. O processo fica suspenso, e o prazo do exame é de 45 dias.",
+"e": "Inquérito: representação do Delegado."
+},
+{
+"p": "Se a doença mental sobrevier à infração, o processo continuará suspenso até que o acusado se restabeleça.",
+"c": true,
+"prof": "CPP, art. 152.",
+"x": "É diferente da inimputabilidade ao tempo do fato, que leva à absolvição imprópria.",
+"e": "Doença superveniente: suspensão."
+},
+{
+"p": "A emoção e a paixão não excluem a imputabilidade penal.",
+"c": true,
+"prof": "CP, art. 28, I.",
+"x": "A violenta emoção pode, porém, atenuar a pena ou configurar o privilégio do homicídio.",
+"e": "Emoção não exclui."
+},
+{
+"p": "A embriaguez voluntária completa exclui a imputabilidade penal.",
+"c": false,
+"prof": "Actio libera in causa.",
+"x": "A embriaguez voluntária ou culposa não exclui a imputabilidade (art. 28, II). Só a embriaguez completa por caso fortuito ou força maior isenta de pena.",
+"e": "Voluntária: não exclui."
+},
+{
+"p": "É isento de pena o agente que, por embriaguez completa proveniente de caso fortuito ou força maior, era, ao tempo da ação, inteiramente incapaz de entender o caráter ilícito do fato.",
+"c": true,
+"prof": "CP, art. 28, § 1º.",
+"x": "Se a embriaguez acidental for incompleta, a pena é reduzida de 1/3 a 2/3 (§ 2º).",
+"e": "Acidental completa: isenta."
+},
+{
+"p": "Um homem bebe deliberadamente para \"criar coragem\" e matar o desafeto. Sobre sua responsabilidade penal:",
+"alts": [
+"é isento de pena, pela embriaguez completa",
+"tem a pena reduzida de 1/3 a 2/3",
+"responde normalmente, incidindo a agravante da embriaguez preordenada",
+"é semi-imputável",
+"deve receber medida de segurança"
+],
+"r": 2,
+"n": [
+"A isenção é só para a acidental.",
+"A redução é para a acidental incompleta.",
+"Correta: art. 61, II, \"l\".",
+"Não há perturbação mental.",
+"Não há doença mental."
+],
+"prof": "Preordenada.",
+"x": "A embriaguez preordenada não exclui a imputabilidade e é circunstância agravante.",
+"e": "Preordenada: agravante."
+},
+{
+"p": "A embriaguez patológica é tratada como doença mental, podendo conduzir à inimputabilidade ou à semi-imputabilidade, nos termos do art. 26 do CP.",
+"c": true,
+"prof": "Embriaguez como doença.",
+"x": "Não se aplica a ela a regra da actio libera in causa.",
+"e": "Patológica: art. 26."
+},
+{
+"p": "A fase da embriaguez alcoólica caracterizada por agressividade, perturbação da coordenação motora e do equilíbrio e fala arrastada é a fase de:",
+"alts": [
+"excitação",
+"confusão",
+"sono",
+"abstinência",
+"tolerância"
+],
+"r": 1,
+"n": [
+"Euforia e desinibição.",
+"Correta: fase do \"leão\".",
+"Torpor e coma.",
+"Não é fase da embriaguez.",
+"Não é fase da embriaguez."
+],
+"prof": "Macaco, leão, porco.",
+"x": "As fases clínicas são excitação (euforia), confusão (agressividade, incoordenação) e sono (torpor, coma).",
+"e": "Confusão."
+},
+{
+"p": "Após o Estatuto da Pessoa com Deficiência, são absolutamente incapazes de exercer pessoalmente os atos da vida civil apenas os menores de 16 anos.",
+"c": true,
+"prof": "CC, art. 3º.",
+"x": "Os ébrios habituais, os viciados em tóxico e os que não puderem exprimir sua vontade passaram ao rol dos relativamente incapazes (art. 4º).",
+"e": "Absolutamente incapaz: < 16."
+},
+{
+"p": "A deficiência mental, por si só, torna a pessoa absolutamente incapaz para os atos da vida civil.",
+"c": false,
+"prof": "Lei 13.146/2015, art. 6º.",
+"x": "A deficiência não afeta a plena capacidade civil da pessoa. A curatela é medida extraordinária, restrita a atos patrimoniais e negociais.",
+"e": "Deficiência não retira a capacidade."
+},
+{
+"p": "São relativamente incapazes os ébrios habituais e os viciados em tóxico.",
+"c": true,
+"prof": "CC, art. 4º, II.",
+"x": "Também os maiores de 16 e menores de 18, os que não puderem exprimir sua vontade e os pródigos.",
+"e": "Ébrio habitual: relativamente incapaz."
+},
+{
+"p": "O psicopata (transtorno de personalidade antissocial) é, em regra, considerado imputável, pois mantém a capacidade de entender o caráter ilícito do fato.",
+"c": true,
+"prof": "Psicopatia.",
+"x": "Em situações específicas, a perícia pode reconhecer semi-imputabilidade. A escala PCL-R, de Hare, é um instrumento de avaliação.",
+"e": "Psicopata: em regra, imputável."
+},
+{
+"p": "O segurado que, já curado de uma lesão, continua alegando dores para manter o afastamento do trabalho pratica:",
+"alts": [
+"simulação",
+"dissimulação",
+"supersimulação",
+"metassimulação",
+"síndrome de Ganser"
+],
+"r": 3,
+"n": [
+"Simular é fingir doença inexistente.",
+"Dissimular é esconder doença.",
+"Supersimular é exagerar doença atual.",
+"Correta.",
+"É quadro dissociativo em presos."
+],
+"prof": "Doença que já passou.",
+"x": "Metassimulação é continuar alegando sintomas de doença já curada.",
+"e": "Metassimulação."
+},
+{
+"p": "Dissimulação é a ocultação de doença ou sintoma existente, como faz o candidato que esconde um transtorno para ser aprovado em exame de concurso.",
+"c": true,
+"prof": "Esconder.",
+"x": "É o oposto da simulação, que finge doença inexistente.",
+"e": "Dissimulação: esconder."
+},
+{
+"p": "Supersimulação é fingir uma doença que nunca existiu.",
+"c": false,
+"prof": "Exagero.",
+"x": "Supersimulação é o exagero dos sintomas de uma doença real. Fingir doença inexistente é simulação.",
+"e": "Supersimulação: exagero."
+},
+{
+"p": "A síndrome de Ganser, descrita em presos, caracteriza-se por respostas aproximadas e absurdas a perguntas simples e deve ser diferenciada da simulação.",
+"c": true,
+"prof": "Quadro dissociativo.",
+"x": "Exemplo: responder \"cinco\" a \"quantas pernas tem um cavalo?\".",
+"e": "Ganser: respostas aproximadas."
+},
+{
+"p": "O delirium tremens é quadro grave de abstinência alcoólica, com tremores, confusão mental e alucinações predominantemente visuais.",
+"c": true,
+"prof": "Abstinência.",
+"x": "Pode levar à morte se não tratado.",
+"e": "Delirium tremens: abstinência."
+},
+{
+"p": "O quadro ligado ao alcoolismo crônico, caracterizado por amnésia para fatos recentes e confabulação, associado à deficiência de vitamina B1, é a:",
+"alts": [
+"alucinose alcoólica",
+"síndrome de Korsakoff",
+"delirium tremens",
+"embriaguez patológica",
+"síndrome de Ganser"
+],
+"r": 1,
+"n": [
+"Alucinações auditivas com consciência preservada.",
+"Correta.",
+"Abstinência com alucinações visuais.",
+"Reação anormal a pequenas doses.",
+"Quadro dissociativo de presos."
+],
+"prof": "Amnésia + confabulação.",
+"x": "A síndrome de Korsakoff decorre da deficiência de tiamina (vitamina B1), comum no alcoolismo crônico.",
+"e": "Korsakoff."
+},
+{
+"p": "Segundo a Lei de Drogas, é isento de pena o agente que, em razão da dependência, era, ao tempo da ação, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.",
+"c": true,
+"prof": "Lei 11.343, art. 45.",
+"x": "Se a capacidade era apenas reduzida, a pena é diminuída de 1/3 a 2/3 (art. 46).",
+"e": "Dependência total: isenção."
+}
+]
 }
 },
 "criminologia": {
@@ -8854,6 +9569,637 @@ export const PROFUNDO = {
 }
 ],
 "ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1948</b><span>\"O Criminoso e sua Vítima\", de von Hentig</span></div><div class=\"lt-stat\"><b>3</b><span>tipos de vitimização: primária, secundária e terciária</span></div><div class=\"lt-stat\"><b>5</b><span>classes de vítimas de Mendelsohn</span></div><div class=\"lt-stat\"><b>3</b><span>níveis de prevenção: primária, secundária e terciária</span></div></div>\n<h3>1. Vitimologia</h3>\n<ul><li>Estuda a <b>vítima</b>: sua personalidade, seu papel na dinâmica do crime, os efeitos do crime sobre ela e a resposta do Estado. A redescoberta da vítima ganhou força após a <b>Segunda Guerra</b>.</li><li><b>Benjamin Mendelsohn</b> (considerado o pai da Vitimologia) e <b>Hans von Hentig</b> (\"<b>O Criminoso e sua Vítima</b>\", <b>1948</b>) são os pioneiros.</li></ul>\n<table class=\"tab\"><thead><tr><th>Mendelsohn: classificação</th><th>Exemplo</th></tr></thead><tbody><tr><td>Vítima <b>completamente inocente</b> (ideal)</td><td>criança atingida por bala perdida</td></tr><tr><td>Vítima <b>menos culpada</b> que o infrator (por ignorância)</td><td>quem cai em golpe por imprudência leve</td></tr><tr><td>Vítima <b>tão culpada quanto</b> o infrator (voluntária)</td><td>pacto de morte, roleta-russa</td></tr><tr><td>Vítima <b>mais culpada</b> que o infrator (provocadora, imprudente)</td><td>quem provoca a agressão</td></tr><tr><td>Vítima <b>unicamente culpada</b></td><td>vítima agressora (morta em legítima defesa), <b>simuladora</b> ou <b>imaginária</b></td></tr></tbody></table>\n<h3>2. Vitimização</h3>\n<ul><li><b>Primária</b>: o dano causado <b>diretamente pelo crime</b> (físico, psicológico, patrimonial).</li><li><b>Secundária</b> (sobrevitimização): o sofrimento causado pelas <b>instâncias formais de controle</b> — <b>polícia</b>, MP, Judiciário — ao tratar a vítima com descaso, desconfiança, perguntas repetidas e exposição. É a <b>revitimização</b> institucional.</li><li><b>Terciária</b>: o sofrimento causado pela <b>família, pelo grupo social e pela comunidade</b> (estigma, culpabilização), ou a falta de amparo após o crime.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · Lei 14.321/2022 (violência institucional)</b><p class=\"jc-tese\">Constitui crime submeter a vítima de infração penal ou testemunha de crimes violentos a procedimentos desnecessários, repetitivos ou invasivos, que a levem a reviver a situação de violência ou estigmatização (art. 15-A da Lei 13.869/2019).</p><p class=\"jc-com\">É a <b>vitimização secundária</b> transformada em crime. Na delegacia: ouça uma vez, bem, em local reservado; evite perguntas sobre a vida pregressa da vítima sem relação com o fato (Lei 14.245/2021, \"Lei Mariana Ferrer\", também protege a dignidade da vítima em audiências).</p></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Cifra negra e prevenção do delito</h3>\n<ul><li><b>Cifra negra</b> (oculta): crimes que <b>não chegam ao conhecimento</b> do sistema (não notificados) ou não são registrados; medida por <b>pesquisas de vitimização</b>. <b>Cifra dourada</b>: crimes das elites (colarinho branco) que escapam ao controle. Contribuem para a cifra negra: medo, descrédito na polícia, vergonha, crimes sem vítima direta.</li></ul>\n<table class=\"tab\"><thead><tr><th>Prevenção</th><th>Alvo</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Primária</b></td><td>a sociedade, nas <b>raízes</b> do crime</td><td>educação, emprego, moradia, saúde, urbanização</td></tr><tr><td><b>Secundária</b></td><td>grupos e <b>áreas de risco</b>, onde o crime se manifesta</td><td><b>policiamento</b>, iluminação, controle de armas, programas para jovens em risco</td></tr><tr><td><b>Terciária</b></td><td>a <b>população presa</b> / o infrator</td><td>ressocialização, trabalho e estudo no cárcere, evitar a <b>reincidência</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Vitimização secundária é a causada pelo crime</span><br>✅ <span class=\"certo\">Primária é a do crime; secundária, a das instâncias formais (polícia, Justiça).</span></li><li>❌ <span class=\"banca\">Vitimização terciária é causada pela polícia</span><br>✅ <span class=\"certo\">Terciária: família, grupo social, comunidade.</span></li><li>❌ <span class=\"banca\">Prevenção primária atua no preso</span><br>✅ <span class=\"certo\">Primária atua nas raízes sociais; terciária, no preso.</span></li><li>❌ <span class=\"banca\">Policiamento ostensivo é prevenção primária</span><br>✅ <span class=\"certo\">É prevenção SECUNDÁRIA.</span></li><li>❌ <span class=\"banca\">Cifra negra são crimes registrados e não solucionados</span><br>✅ <span class=\"certo\">São crimes que NÃO chegam ao conhecimento oficial.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pai da Vitimologia?</span></span><span class=\"vs\"><span><b>Mendelsohn</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Von Hentig?</span></span><span class=\"vs\"><span>\"<b>O Criminoso e sua Vítima</b>\" (1948).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vitimização secundária?</span></span><span class=\"vs\"><span>Causada pelas <b>instâncias formais</b> (polícia, Justiça).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vitimização terciária?</span></span><span class=\"vs\"><span><b>Família, grupo, comunidade</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prevenção secundária?</span></span><span class=\"vs\"><span>Grupos e <b>áreas de risco</b>; policiamento.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cifra negra?</span></span><span class=\"vs\"><span>Crimes <b>não comunicados</b> ou não registrados.</span></span></button></div></div>"
+},
+"labeling-critica": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1963</b><span>ano de \"Outsiders\", de Howard Becker, obra-símbolo do labelling</span></div><div class=\"lt-stat\"><b>2</b><span>desvios na teoria de Lemert: primário e secundário</span></div><div class=\"lt-stat\"><b>4 D</b><span>política criminal do labelling (descriminalização, diversão, devido processo, desinstitucionalização)</span></div><div class=\"lt-stat\"><b>1975</b><span>\"Vigiar e punir\", de Michel Foucault</span></div></div>\n<h3>1. Labelling approach (teoria do etiquetamento, da rotulação ou da reação social)</h3>\n<ul><li>Surge nos <b>Estados Unidos</b>, nos <b>anos 1960</b>, a partir do <b>interacionismo simbólico</b> (George Mead). É uma teoria do <b>conflito</b> e marca a <b>virada</b> da Criminologia: em vez de perguntar \"<b>por que</b> a pessoa comete crimes?\" (paradigma <b>etiológico</b>), pergunta \"<b>por que</b> certas condutas e certas pessoas são <b>definidas</b> como criminosas?\" (paradigma da <b>reação social</b>).</li><li><b>Ideia central</b>: o crime <b>não é uma qualidade da conduta</b>, mas um <b>rótulo</b> atribuído por processos sociais de definição e seleção. \"Desviante é aquele a quem o rótulo foi aplicado com sucesso\" (<b>Howard Becker</b>, <i>Outsiders</i>, <b>1963</b>).</li></ul>\n<table class=\"tab\"><thead><tr><th>Autor</th><th>Contribuição</th></tr></thead><tbody><tr><td><b>Frank Tannenbaum</b> (1938)</td><td><b>dramatização do mal</b>: a reação da comunidade ao jovem infrator o etiqueta e o empurra para a delinquência</td></tr><tr><td><b>Edwin Lemert</b></td><td><b>desvio primário</b> (o ato inicial, ocasional, com pouca repercussão na identidade) x <b>desvio secundário</b> (o comportamento que surge <b>como resposta</b> ao rótulo, quando a pessoa assume a identidade de desviante)</td></tr><tr><td><b>Howard Becker</b></td><td><b>empreendedores morais</b> (grupos que fazem as regras e lutam para impô-las) e <b>carreira desviante</b></td></tr><tr><td><b>Erving Goffman</b></td><td><b>estigma</b> e <b>instituições totais</b> (prisões, manicômios), com a \"<b>mortificação do eu</b>\" do internado</td></tr><tr><td><b>Harold Garfinkel</b></td><td><b>cerimônias degradantes</b>: rituais (como o julgamento e a prisão) que rebaixam publicamente o status da pessoa</td></tr></tbody></table>\n<ul><li><b>Consequências</b> do rótulo: <b>profecia autorrealizável</b> (a pessoa passa a agir conforme o rótulo); <b>estigmatização</b> e fechamento de oportunidades (emprego, convívio); formação de uma <b>carreira criminal</b>; <b>seletividade</b>: o sistema penal escolhe sempre os mesmos (jovens, pobres, negros), produzindo a \"clientela\" que depois diz combater.</li><li><b>Criminalização primária</b> (a <b>lei</b> define o crime, função do Legislativo) x <b>criminalização secundária</b> (as <b>agências</b> policiais e judiciais <b>escolhem</b> quem será efetivamente perseguido e punido). A seletividade aparece sobretudo na secundária.</li><li><b>Política criminal dos \"4 D\"</b>: <b>descriminalização</b> (retirar condutas do direito penal), <b>diversão</b> (desviar o caso do sistema penal formal para soluções alternativas), <b>devido processo legal</b> e <b>desinstitucionalização</b> (evitar a prisão e as instituições totais).</li><li><b>Críticas</b>: não explica o <b>desvio primário</b> (por que a pessoa agiu antes de ser rotulada); exagera a passividade do rotulado; e não discute <b>quem tem o poder</b> de rotular e por quê, lacuna que a criminologia crítica vai ocupar.</li></ul>\n<h3>2. Criminologia crítica (radical, nova criminologia)</h3>\n<ul><li>Desenvolve-se nos <b>anos 1970</b>, com base <b>marxista</b>, levando o labelling às últimas consequências: o sistema penal é um instrumento de <b>controle das classes subalternas</b> e de <b>reprodução das desigualdades</b> sociais.</li><li><b>Marcos</b>: <i>The New Criminology</i> (<b>Taylor, Walton e Young</b>, 1973), na Inglaterra; <b>Alessandro Baratta</b>, <i>Criminologia crítica e crítica do direito penal</i>, na Itália. Na América Latina e no Brasil: <b>Zaffaroni</b>, <b>Juarez Cirino dos Santos</b>, <b>Nilo Batista</b>, <b>Vera Malaguti Batista</b>, <b>Lola Aniyar de Castro</b>.</li><li>Teses principais: o direito penal <b>não é igualitário</b> (mito da igualdade); protege prioritariamente a <b>propriedade</b> e os interesses das classes dominantes; os <b>crimes dos poderosos</b> (colarinho branco, corrupção, crimes econômicos) formam a <b>cifra dourada</b>, que quase não chega ao sistema; a <b>pena</b> cumpre funções reais diferentes das declaradas (em vez de ressocializar, <b>exclui e estigmatiza</b>).</li><li><b>Desdobramentos</b>: o <b>realismo de esquerda</b> (Jock Young, anos 1980) reconhece que o crime atinge principalmente os <b>pobres</b> e defende respostas efetivas à criminalidade, sem abandonar a crítica; o <b>realismo de direita</b> (<i>law and order</i>) defende mais pena e mais polícia.</li></ul>\n<h3>3. Cárcere e marginalidade social</h3>\n<ul><li><b>Michel Foucault</b>, <i>Vigiar e punir</i> (<b>1975</b>): a prisão moderna é uma tecnologia de <b>poder disciplinar</b>, que vigia, examina e normaliza corpos. O <b>panóptico</b> (projeto de <b>Jeremy Bentham</b>) é a metáfora do poder que vê sem ser visto. A prisão \"fracassa\" em ressocializar, mas <b>funciona</b> produzindo e gerindo a <b>delinquência</b>.</li><li><b>Rusche e Kirchheimer</b>, <i>Punição e estrutura social</i> (1939): as formas de punição variam conforme o <b>mercado de trabalho</b>; quando sobra mão de obra, a pena fica mais dura.</li><li><b>Prisionização</b> (<b>Donald Clemmer</b>, 1940): o preso <b>assimila a cultura carcerária</b> (códigos, hierarquias, linguagem), o que dificulta o retorno à vida livre. Junto com a \"mortificação do eu\" de Goffman, explica a <b>dessocialização</b> produzida pela prisão.</li><li><b>Loïc Wacquant</b> (<i>As prisões da miséria</i>): com o recuo do Estado social, cresce o <b>Estado penal</b>, que administra a pobreza pela prisão. <b>David Garland</b> (<i>A cultura do controle</i>): as sociedades contemporâneas passaram a priorizar o <b>controle</b> e a gestão de riscos.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADPF 347</b><p class=\"jc-tese\">O sistema prisional brasileiro configura um estado de coisas inconstitucional, diante da violação massiva e persistente de direitos fundamentais dos presos, causada por falhas estruturais e falência de políticas públicas.</p><p class=\"jc-com\">O STF reconheceu o problema em 2015 (cautelar que impôs as <b>audiências de custódia</b>) e, no mérito (2023), determinou a elaboração de um <b>plano nacional</b> para enfrentar a superlotação e as condições degradantes. É a criminologia crítica dialogando com a jurisprudência.</p></div>\n<h3>4. Respostas: abolicionismo, minimalismo e garantismo</h3>\n<table class=\"tab\"><thead><tr><th>Corrente</th><th>Ideia</th><th>Autores</th></tr></thead><tbody><tr><td><b>Abolicionismo</b></td><td>o sistema penal causa mais dor do que resolve; deve ser <b>abolido</b> e substituído por formas comunitárias de resolver as \"<b>situações-problemáticas</b>\" (expressão que substitui \"crime\")</td><td><b>Louk Hulsman</b>, <b>Nils Christie</b> (<i>Limites à dor</i>), <b>Thomas Mathiesen</b></td></tr><tr><td><b>Minimalismo</b> (direito penal mínimo)</td><td>o direito penal deve ser a <b>última razão</b>, reduzido ao essencial, com respeito às garantias, como etapa de contenção</td><td><b>Alessandro Baratta</b>, <b>Eugenio Raúl Zaffaroni</b></td></tr><tr><td><b>Garantismo penal</b></td><td>direito penal mínimo, com um sistema de <b>garantias</b> (legalidade, lesividade, culpabilidade, contraditório, presunção de inocência) que limita o poder punitivo</td><td><b>Luigi Ferrajoli</b> (<i>Direito e razão</i>)</td></tr><tr><td><b>Contraponto: direito penal do inimigo</b></td><td>certos indivíduos perigosos deveriam ser tratados como \"inimigos\", com menos garantias</td><td><b>Günther Jakobs</b> (criticado por ser incompatível com o Estado Democrático de Direito)</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O labelling é uma teoria etiológica, que busca as causas do crime</span><br>✅ <span class=\"certo\">Rompe com o paradigma etiológico; estuda a reação social.</span></li><li>❌ <span class=\"banca\">Desvio secundário é o primeiro ato ilícito</span><br>✅ <span class=\"certo\">É a conduta que resulta do rótulo; o primeiro ato é o desvio primário.</span></li><li>❌ <span class=\"banca\">Criminalização primária é a escolha de quem será preso</span><br>✅ <span class=\"certo\">Primária é a definição legal; secundária é a seleção pelas agências.</span></li><li>❌ <span class=\"banca\">Cifra dourada é a criminalidade de rua não registrada</span><br>✅ <span class=\"certo\">São os crimes dos poderosos (colarinho branco).</span></li><li>❌ <span class=\"banca\">Abolicionismo e minimalismo são a mesma coisa</span><br>✅ <span class=\"certo\">O minimalismo mantém um direito penal mínimo; o abolicionismo quer extingui-lo.</span></li><li>❌ <span class=\"banca\">Prisionização é a ressocialização do preso</span><br>✅ <span class=\"certo\">É a assimilação da cultura carcerária.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Labelling?</span></span><span class=\"vs\"><span>O crime é um <b>rótulo</b> atribuído pela reação social (Becker, 1963).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lemert?</span></span><span class=\"vs\"><span>Desvio <b>primário</b> (ato inicial) x <b>secundário</b> (resposta ao rótulo).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Goffman?</span></span><span class=\"vs\"><span><b>Estigma</b> e <b>instituições totais</b> (mortificação do eu).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>4 D?</span></span><span class=\"vs\"><span><b>Descriminalização, diversão, devido processo e desinstitucionalização</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Criminologia crítica?</span></span><span class=\"vs\"><span>Base <b>marxista</b>; sistema penal <b>seletivo</b> e de classe (Baratta; Taylor, Walton e Young).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cifra dourada?</span></span><span class=\"vs\"><span>Crimes dos <b>poderosos</b> que não chegam ao sistema.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prisionização?</span></span><span class=\"vs\"><span>Assimilação da <b>cultura carcerária</b> (Clemmer).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Abolicionismo?</span></span><span class=\"vs\"><span><b>Hulsman, Christie, Mathiesen</b>: \"situações-problemáticas\".</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O rótulo do bairro</b><p>Um adolescente de uma vila de BH é apreendido por um pequeno furto. Depois disso, é abordado pela polícia quase todos os dias, perde a vaga no curso profissionalizante e passa a andar com um grupo envolvido no tráfico, assumindo a fama de \"bandido\".</p><details><summary>Ver a solução comentada</summary><p>Pelo <b>labelling</b>, o furto é o <b>desvio primário</b>; a reação (abordagens seletivas, estigma, perda de oportunidades) produz o <b>desvio secundário</b>, em que ele assume a identidade de desviante (<b>profecia autorrealizável</b>). Respostas compatíveis com a teoria: <b>diversão</b> (medidas em meio aberto e práticas restaurativas), evitar a internação e reduzir a <b>seletividade</b> das abordagens.</p></details></div>",
+"quiz": [
+{
+"p": "O labelling approach desloca o objeto da Criminologia das causas do crime para os processos de definição e seleção pelos quais determinadas condutas e pessoas são rotuladas como criminosas.",
+"c": true,
+"prof": "Paradigma da reação social.",
+"x": "O labelling rompe com o paradigma etiológico (causal). O desvio passa a ser visto como resultado da reação social.",
+"e": "Labelling: reação social."
+},
+{
+"p": "Para o labelling approach, o crime é uma qualidade intrínseca da conduta, que existe independentemente da reação social.",
+"c": false,
+"prof": "O que é o crime para essa teoria?",
+"x": "Para o labelling, o crime não é qualidade da conduta, mas um rótulo atribuído com sucesso por processos sociais (Becker).",
+"e": "Crime = rótulo."
+},
+{
+"p": "O labelling approach tem suas bases no interacionismo simbólico.",
+"c": true,
+"prof": "Origem teórica.",
+"x": "O interacionismo simbólico (Mead) estuda como os significados são construídos nas interações sociais, inclusive o significado de \"desviante\".",
+"e": "Base: interacionismo simbólico."
+},
+{
+"p": "Segundo Edwin Lemert, o comportamento que a pessoa passa a adotar como resposta à reação social ao seu primeiro ato desviante, assumindo a identidade de desviante, é denominado:",
+"alts": [
+"desvio primário",
+"desvio secundário",
+"cifra negra",
+"anomia",
+"associação diferencial"
+],
+"r": 1,
+"n": [
+"O primário é o ato inicial.",
+"Correta.",
+"Cifra negra é criminalidade oculta.",
+"Anomia é conceito de Durkheim e Merton.",
+"Associação diferencial é de Sutherland."
+],
+"prof": "Resposta ao rótulo.",
+"x": "O desvio primário é o ato inicial, com pouca repercussão na identidade. O desvio secundário é a conduta que resulta da estigmatização.",
+"e": "Desvio secundário."
+},
+{
+"p": "A obra \"Outsiders\", de Howard Becker, publicada em 1963, é um dos marcos do labelling approach.",
+"c": true,
+"prof": "Becker.",
+"x": "Becker também cunhou a ideia dos \"empreendedores morais\", que criam regras e lutam para impô-las.",
+"e": "Becker: Outsiders."
+},
+{
+"p": "Erving Goffman desenvolveu a teoria da associação diferencial, segundo a qual o crime é aprendido nas interações com grupos íntimos.",
+"c": false,
+"prof": "Autor certo, teoria errada.",
+"x": "A associação diferencial é de Edwin Sutherland. Goffman estudou o estigma e as instituições totais, como prisões e manicômios.",
+"e": "Goffman: estigma e instituições totais."
+},
+{
+"p": "As cerimônias degradantes, descritas por Garfinkel, são rituais que rebaixam publicamente o status de uma pessoa, como ocorre no processo penal e na prisão.",
+"c": true,
+"prof": "Garfinkel.",
+"x": "Elas contribuem para a estigmatização e para a construção da identidade de desviante.",
+"e": "Cerimônias degradantes."
+},
+{
+"p": "A política criminal inspirada no labelling approach é conhecida como política dos \"4 D\": descriminalização, diversão, devido processo legal e desinstitucionalização.",
+"c": true,
+"prof": "4 D.",
+"x": "A ideia é evitar o contato desnecessário com o sistema penal, que estigmatiza e reforça a carreira desviante.",
+"e": "4 D."
+},
+{
+"p": "A criminalização secundária corresponde à elaboração de leis penais que definem condutas como crime.",
+"c": false,
+"prof": "Primária x secundária.",
+"x": "A criminalização primária é a definição legal (Legislativo). A secundária é a seleção das pessoas efetivamente perseguidas pelas agências policiais e judiciais.",
+"e": "Secundária: agências."
+},
+{
+"p": "Uma das críticas ao labelling approach é não explicar o desvio primário, isto é, por que a pessoa praticou o primeiro ato antes de ser rotulada.",
+"c": true,
+"prof": "Limitações da teoria.",
+"x": "Também se critica a falta de análise sobre quem detém o poder de rotular, ponto desenvolvido pela criminologia crítica.",
+"e": "Crítica: desvio primário."
+},
+{
+"p": "A criminologia crítica, de base marxista, sustenta que o sistema penal é seletivo e atua como instrumento de controle das classes subalternas.",
+"c": true,
+"prof": "Criminologia crítica.",
+"x": "Para essa corrente, o direito penal não é igualitário e reproduz as desigualdades sociais.",
+"e": "Crítica: seletividade de classe."
+},
+{
+"p": "A obra \"The New Criminology\" (1973), marco da criminologia crítica na Inglaterra, foi escrita por:",
+"alts": [
+"Lombroso, Ferri e Garofalo",
+"Taylor, Walton e Young",
+"Shaw e McKay",
+"Wilson e Kelling",
+"Cohen e Felson"
+],
+"r": 1,
+"n": [
+"Escola Positiva.",
+"Correta.",
+"Escola de Chicago.",
+"Janelas quebradas.",
+"Atividades rotineiras."
+],
+"prof": "Nova criminologia.",
+"x": "Ian Taylor, Paul Walton e Jock Young publicaram a obra, inaugurando a criminologia radical inglesa.",
+"e": "Taylor, Walton e Young."
+},
+{
+"p": "A cifra dourada da criminalidade corresponde aos crimes patrimoniais de rua que não chegam ao conhecimento da polícia.",
+"c": false,
+"prof": "Cifra negra x cifra dourada.",
+"x": "A cifra dourada refere-se aos crimes dos poderosos (colarinho branco, crimes econômicos e corrupção) que escapam do sistema penal. A cifra negra é a criminalidade oculta em geral.",
+"e": "Cifra dourada: poderosos."
+},
+{
+"p": "Alessandro Baratta é autor de \"Criminologia crítica e crítica do direito penal\" e defensor de uma política criminal de direito penal mínimo.",
+"c": true,
+"prof": "Baratta.",
+"x": "Baratta via o minimalismo como etapa de contenção do poder punitivo.",
+"e": "Baratta: crítica + minimalismo."
+},
+{
+"p": "O realismo de esquerda, associado a Jock Young, reconhece que a criminalidade atinge sobretudo as classes populares e defende respostas efetivas ao crime, sem abandonar a perspectiva crítica.",
+"c": true,
+"prof": "Realismo de esquerda.",
+"x": "Opõe-se tanto ao \"idealismo\" de esquerda quanto ao realismo de direita (law and order).",
+"e": "Realismo de esquerda: Jock Young."
+},
+{
+"p": "Em \"Vigiar e punir\", Michel Foucault analisa a prisão como tecnologia do poder disciplinar, usando o panóptico de Bentham como metáfora do poder que vê sem ser visto.",
+"c": true,
+"prof": "Foucault.",
+"x": "Para Foucault, a prisão fracassa em ressocializar, mas funciona produzindo e gerindo a delinquência.",
+"e": "Foucault: panóptico."
+},
+{
+"p": "Prisionização é o processo pelo qual o preso é ressocializado, assimilando os valores da sociedade livre.",
+"c": false,
+"prof": "Clemmer.",
+"x": "Prisionização é a assimilação da cultura carcerária pelo preso, o que dificulta sua reinserção social.",
+"e": "Prisionização: cultura carcerária."
+},
+{
+"p": "Rusche e Kirchheimer relacionaram as formas de punição às condições do mercado de trabalho.",
+"c": true,
+"prof": "Punição e estrutura social.",
+"x": "Quando há excesso de mão de obra, a tendência é o endurecimento das penas.",
+"e": "Pena e mercado de trabalho."
+},
+{
+"p": "Segundo o STF, o sistema prisional brasileiro configura um estado de coisas inconstitucional.",
+"c": true,
+"prof": "ADPF 347.",
+"x": "A cautelar de 2015 impôs a realização das audiências de custódia, e o mérito, em 2023, determinou um plano nacional para o sistema prisional.",
+"e": "ADPF 347."
+},
+{
+"p": "A corrente que propõe a extinção do sistema penal e sua substituição por formas comunitárias de resolver as \"situações-problemáticas\" é o(a):",
+"alts": [
+"minimalismo penal",
+"garantismo",
+"abolicionismo",
+"realismo de direita",
+"direito penal do inimigo"
+],
+"r": 2,
+"n": [
+"O minimalismo mantém um direito penal mínimo.",
+"O garantismo limita o poder punitivo, sem aboli-lo.",
+"Correta.",
+"Defende mais pena.",
+"Defende menos garantias para \"inimigos\"."
+],
+"prof": "Hulsman, Christie, Mathiesen.",
+"x": "O abolicionismo vê o sistema penal como causador de dor e propõe substituí-lo por soluções comunitárias.",
+"e": "Abolicionismo."
+},
+{
+"p": "Luigi Ferrajoli, em \"Direito e razão\", sistematizou o garantismo penal, fundado em um direito penal mínimo e em garantias como legalidade, lesividade e culpabilidade.",
+"c": true,
+"prof": "Garantismo.",
+"x": "O garantismo é um modelo de limitação do poder punitivo no Estado Democrático de Direito.",
+"e": "Ferrajoli: garantismo."
+},
+{
+"p": "O direito penal do inimigo, de Günther Jakobs, é uma vertente da criminologia crítica que busca ampliar as garantias dos acusados.",
+"c": false,
+"prof": "Contraponto.",
+"x": "Jakobs propõe tratar certos indivíduos como \"inimigos\", com redução de garantias. É criticado justamente por ser incompatível com o Estado Democrático de Direito.",
+"e": "Jakobs: menos garantias."
+},
+{
+"p": "Na teoria de Tannenbaum, a \"dramatização do mal\" descreve como a reação da comunidade ao jovem infrator acaba por etiquetá-lo e reforçar sua delinquência.",
+"c": true,
+"prof": "Precursor do labelling.",
+"x": "Tannenbaum (1938) antecipou a ideia de que a reação social pode produzir o próprio desvio.",
+"e": "Dramatização do mal."
+},
+{
+"p": "A profecia autorrealizável, no contexto do labelling, ocorre quando a pessoa rotulada passa a se comportar conforme o rótulo que lhe foi atribuído.",
+"c": true,
+"prof": "Efeito do rótulo.",
+"x": "A estigmatização fecha oportunidades e empurra a pessoa para a identidade desviante.",
+"e": "Profecia autorrealizável."
+}
+]
+},
+"justica-reconhecimento": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>modelos de reação ao delito: dissuasório, ressocializador e integrador</span></div><div class=\"lt-stat\"><b>225</b><span>Resolução do CNJ (2016) sobre justiça restaurativa</span></div><div class=\"lt-stat\"><b>2002</b><span>princípios básicos da ONU (ECOSOC, Res. 2002/12)</span></div><div class=\"lt-stat\"><b>3</b><span>esferas de reconhecimento em Honneth: amor, direito e solidariedade</span></div></div>\n<h3>1. Modelos de reação ao delito</h3>\n<ul><li>A Criminologia moderna (García-Pablos de Molina) identifica <b>três modelos</b> de resposta ao crime:</li></ul>\n<table class=\"tab\"><thead><tr><th>Modelo</th><th>Foco</th><th>Características</th></tr></thead><tbody><tr><td><b>Dissuasório</b> (clássico, retributivo)</td><td><b>punir</b> para intimidar</td><td>a pena, severa, certa e rápida, deve <b>dissuadir</b> o infrator e a sociedade; vítima e comunidade ficam em segundo plano</td></tr><tr><td><b>Ressocializador</b></td><td><b>o infrator</b></td><td>a pena deve <b>reintegrar</b> o condenado, com tratamento, trabalho e educação; parte da execução penal (LEP, art. 1º)</td></tr><tr><td><b>Integrador</b> (consensual, restaurador)</td><td><b>o conflito</b> e as <b>pessoas</b> envolvidas</td><td>busca a <b>reparação do dano</b>, a <b>conciliação</b> entre infrator, vítima e comunidade e a <b>pacificação social</b></td></tr></tbody></table>\n<ul><li>O modelo <b>consensual</b> de Justiça Criminal abre <b>espaços de consenso</b> dentro do processo penal, em vez de sempre seguir o modelo de <b>conflito</b> (acusação x defesa até a sentença).</li></ul>\n<table class=\"tab\"><thead><tr><th>Instituto consensual no Brasil</th><th>Base legal</th></tr></thead><tbody><tr><td><b>Composição civil dos danos</b> (extingue a punibilidade na ação privada e na condicionada)</td><td>Lei 9.099/1995, art. 74</td></tr><tr><td><b>Transação penal</b> (aplicação imediata de pena restritiva ou multa)</td><td>Lei 9.099/1995, art. 76</td></tr><tr><td><b>Suspensão condicional do processo</b> (período de prova de 2 a 4 anos)</td><td>Lei 9.099/1995, art. 89</td></tr><tr><td><b>Acordo de não persecução penal</b> (ANPP)</td><td>CPP, art. 28-A (Pacote Anticrime)</td></tr><tr><td><b>Colaboração premiada</b></td><td>Lei 12.850/2013</td></tr></tbody></table>\n<ul><li>A Constituição prevê <b>juizados especiais</b> com <b>transação</b> (art. 98, I). O modelo brasileiro é de <b>consenso limitado</b> (justiça penal <b>negociada</b> em hipóteses legais), diferente do <b>plea bargaining</b> amplo dos Estados Unidos.</li><li><b>Críticas</b>: risco de <b>pressão</b> sobre o acusado para aceitar acordos; menor controle judicial; e a possibilidade de que a pressa substitua a busca da verdade. <b>Vantagens</b>: celeridade, desafogamento do Judiciário, reparação à vítima e evitar o estigma do processo.</li></ul>\n<h3>2. Justiça restaurativa</h3>\n<ul><li><b>Conceito</b>: forma de lidar com o crime que o vê, antes de tudo, como uma <b>violação de pessoas e de relacionamentos</b>, e não só como violação da lei. Busca <b>reparar o dano</b>, atender às <b>necessidades da vítima</b>, <b>responsabilizar</b> o ofensor de forma ativa e reconstruir os laços com a <b>comunidade</b>.</li><li><b>Howard Zehr</b>, <i>Trocando as lentes</i> (1990), é a obra de referência: em vez da \"lente retributiva\" (que pergunta: que lei foi violada, quem fez e que pena merece?), propõe a \"lente restaurativa\" (quem foi prejudicado, quais são suas necessidades e de quem é a obrigação de reparar?).</li></ul>\n<table class=\"tab\"><thead><tr><th>Justiça retributiva</th><th>Justiça restaurativa</th></tr></thead><tbody><tr><td>o crime é violação da <b>lei</b> e do <b>Estado</b></td><td>o crime é violação de <b>pessoas e relações</b></td></tr><tr><td>foco na <b>culpa</b> e na <b>pena</b></td><td>foco no <b>dano</b> e na <b>reparação</b></td></tr><tr><td>vítima é <b>testemunha</b></td><td>vítima é <b>protagonista</b></td></tr><tr><td>decisão imposta por <b>terceiro</b> (juiz)</td><td>decisão construída pelos <b>envolvidos</b>, com um facilitador</td></tr><tr><td>olha para o <b>passado</b></td><td>olha também para o <b>futuro</b> (prevenção e reintegração)</td></tr></tbody></table>\n<ul><li><b>Práticas</b>: <b>mediação vítima-ofensor</b>; <b>círculos de construção de paz</b> (Kay Pranis), com bastão de fala e facilitador; <b>conferências familiares</b> (inspiradas nos povos <b>maori</b>, na <b>Nova Zelândia</b>).</li><li><b>Princípios</b>: <b>voluntariedade</b> (ninguém é obrigado a participar), <b>consensualidade</b>, <b>confidencialidade</b>, <b>informalidade</b>, participação da <b>vítima</b>, do <b>ofensor</b> e da <b>comunidade</b>, e <b>respeito</b> à dignidade de todos. O ofensor deve <b>reconhecer</b> os fatos essenciais, mas a participação <b>não</b> pode ser usada como prova de culpa no processo.</li><li><b>Normas</b>: <b>ONU</b>, Resolução <b>2002/12</b> do Conselho Econômico e Social (princípios básicos para programas de justiça restaurativa); no Brasil, <b>Resolução CNJ 225/2016</b> (Política Nacional de Justiça Restaurativa no Poder Judiciário); o <b>SINASE</b> (Lei 12.594/2012, art. 35, III) dá <b>prioridade a práticas restaurativas</b> na execução das medidas socioeducativas.</li><li>A justiça restaurativa <b>não substitui necessariamente</b> o processo penal: pode ocorrer <b>antes</b>, <b>durante</b> ou <b>depois</b> dele (inclusive na execução da pena), e seu resultado pode ser levado em conta pelo juiz.</li></ul>\n<h3>3. Criminologia do reconhecimento</h3>\n<ul><li>Parte da <b>teoria do reconhecimento</b> de <b>Axel Honneth</b> (<i>Luta por reconhecimento</i>, 1992): as pessoas constroem sua identidade quando são <b>reconhecidas</b> pelos outros em três esferas:</li></ul>\n<table class=\"tab\"><thead><tr><th>Esfera</th><th>Forma de reconhecimento</th><th>Forma de desrespeito</th></tr></thead><tbody><tr><td><b>Amor</b> (relações afetivas)</td><td><b>autoconfiança</b></td><td>maus-tratos, violência física</td></tr><tr><td><b>Direito</b> (relações jurídicas)</td><td><b>autorrespeito</b>: ser tratado como sujeito de direitos igual aos demais</td><td><b>privação de direitos</b>, exclusão</td></tr><tr><td><b>Solidariedade</b> (estima social)</td><td><b>autoestima</b>: ter suas capacidades valorizadas</td><td><b>degradação</b>, ofensa, estigma</td></tr></tbody></table>\n<ul><li>Para Honneth, as experiências de <b>desrespeito</b> (humilhação, exclusão) geram sofrimento e podem alimentar <b>conflitos sociais</b>. <b>Nancy Fraser</b> acrescenta que justiça exige <b>redistribuição</b> (econômica) e <b>reconhecimento</b> (cultural).</li><li>Aplicada à Criminologia, a perspectiva do reconhecimento: (1) ajuda a entender parte da violência como reação a <b>experiências de desrespeito</b> e exclusão; (2) exige que a <b>vítima</b> seja reconhecida como <b>sujeito</b> (e não mero meio de prova), com direito a ser ouvida, informada e reparada; (3) exige que o <b>ofensor</b> seja tratado como sujeito de direitos, condição para sua <b>reintegração</b>; (4) aproxima-se da <b>justiça restaurativa</b>, que busca o reconhecimento mútuo do dano e das necessidades.</li><li>No processo penal, a ideia aparece em medidas de <b>proteção e participação da vítima</b> (CPP, art. 201: comunicação dos atos processuais, espaço separado, encaminhamento a atendimento) e na vedação da <b>revitimização</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Justiça restaurativa só pode ser aplicada no lugar do processo penal</span><br>✅ <span class=\"certo\">Pode ocorrer antes, durante ou depois do processo, inclusive na execução.</span></li><li>❌ <span class=\"banca\">A participação na justiça restaurativa é obrigatória para o ofensor</span><br>✅ <span class=\"certo\">É voluntária para todos.</span></li><li>❌ <span class=\"banca\">O plea bargaining norte-americano foi adotado integralmente no Brasil</span><br>✅ <span class=\"certo\">O consenso brasileiro é limitado às hipóteses legais.</span></li><li>❌ <span class=\"banca\">O modelo ressocializador foca na reparação à vítima</span><br>✅ <span class=\"certo\">Foca no infrator; quem foca na reparação é o integrador.</span></li><li>❌ <span class=\"banca\">Na justiça restaurativa, a vítima é mera testemunha</span><br>✅ <span class=\"certo\">É protagonista.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Três modelos de reação?</span></span><span class=\"vs\"><span><b>Dissuasório</b>, <b>ressocializador</b> e <b>integrador</b> (consensual, restaurador).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Institutos consensuais?</span></span><span class=\"vs\"><span><b>Composição civil, transação, sursis processual</b> (Lei 9.099), <b>ANPP</b>, colaboração premiada.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Obra de Zehr?</span></span><span class=\"vs\"><span><i>Trocando as lentes</i> (1990).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Práticas restaurativas?</span></span><span class=\"vs\"><span><b>Mediação vítima-ofensor</b>, <b>círculos</b> (Kay Pranis), <b>conferências familiares</b> (maori).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Norma do CNJ?</span></span><span class=\"vs\"><span><b>Resolução 225/2016</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Honneth?</span></span><span class=\"vs\"><span>Reconhecimento no <b>amor</b>, no <b>direito</b> e na <b>solidariedade</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O círculo na escola</b><p>Dois adolescentes picham e quebram vidros de uma escola estadual em Contagem. A direção, a promotoria e as famílias aceitam participar de um círculo restaurativo.</p><details><summary>Ver a solução comentada</summary><p>No círculo, conduzido por facilitador, os jovens <b>reconhecem</b> o dano, ouvem professores e alunos afetados e assumem compromissos (reparar os vidros, participar de um projeto de grafite autorizado). É prática <b>restaurativa</b>, <b>voluntária</b>, priorizada pelo <b>SINASE</b> (art. 35, III) e que pode ser considerada pelo juiz, reduzindo a necessidade de medidas mais gravosas.</p></details></div>",
+"quiz": [
+{
+"p": "O modelo dissuasório de reação ao delito busca intimidar o infrator e a sociedade por meio de uma pena severa, certa e rápida.",
+"c": true,
+"prof": "Modelo clássico.",
+"x": "É o modelo retributivo tradicional, em que vítima e comunidade ficam em segundo plano.",
+"e": "Dissuasório: intimidação."
+},
+{
+"p": "O modelo ressocializador tem como foco principal a reparação do dano causado à vítima.",
+"c": false,
+"prof": "Foco de cada modelo.",
+"x": "O modelo ressocializador foca no infrator e na sua reintegração. O foco na reparação e na conciliação é do modelo integrador (restaurador).",
+"e": "Ressocializador: infrator."
+},
+{
+"p": "O modelo integrador de reação ao delito busca a reparação do dano, a conciliação entre infrator, vítima e comunidade e a pacificação social.",
+"c": true,
+"prof": "Modelo consensual.",
+"x": "É o modelo que inspira a justiça restaurativa e os institutos de consenso.",
+"e": "Integrador: reparação e conciliação."
+},
+{
+"p": "São institutos do modelo consensual de Justiça Criminal no Brasil, EXCETO:",
+"alts": [
+"transação penal",
+"suspensão condicional do processo",
+"acordo de não persecução penal",
+"composição civil dos danos",
+"prisão preventiva"
+],
+"r": 4,
+"n": [
+"Lei 9.099, art. 76.",
+"Lei 9.099, art. 89.",
+"CPP, art. 28-A.",
+"Lei 9.099, art. 74.",
+"Correta: é medida cautelar."
+],
+"prof": "Espaços de consenso.",
+"x": "Composição civil, transação, sursis processual, ANPP e colaboração premiada são espaços de consenso. A prisão preventiva é medida cautelar coercitiva.",
+"e": "Preventiva não é consenso."
+},
+{
+"p": "O Brasil adotou o modelo de plea bargaining amplo dos Estados Unidos, permitindo acordos em qualquer crime.",
+"c": false,
+"prof": "Consenso limitado.",
+"x": "O consenso brasileiro é limitado às hipóteses previstas em lei (Lei 9.099, ANPP, colaboração premiada).",
+"e": "Brasil: consenso limitado."
+},
+{
+"p": "A Constituição prevê juizados especiais criminais, permitindo a transação nas infrações penais de menor potencial ofensivo.",
+"c": true,
+"prof": "Art. 98, I.",
+"x": "É a base constitucional do modelo consensual implantado pela Lei 9.099/1995.",
+"e": "Art. 98, I."
+},
+{
+"p": "Para a justiça restaurativa, o crime é, antes de tudo, uma violação de pessoas e de relacionamentos, e não apenas uma violação da lei.",
+"c": true,
+"prof": "Lente restaurativa.",
+"x": "Por isso o foco está no dano, nas necessidades da vítima e na responsabilização ativa do ofensor.",
+"e": "Crime = violação de pessoas."
+},
+{
+"p": "\"Trocando as lentes\", de Howard Zehr, é obra de referência da justiça restaurativa.",
+"c": true,
+"prof": "Zehr.",
+"x": "Zehr contrapõe a lente retributiva à lente restaurativa.",
+"e": "Zehr."
+},
+{
+"p": "Na justiça restaurativa, a vítima atua como mera testemunha, e a decisão é imposta por um terceiro imparcial.",
+"c": false,
+"prof": "Retributiva x restaurativa.",
+"x": "Na justiça restaurativa, a vítima é protagonista e a solução é construída pelos envolvidos, com ajuda de um facilitador.",
+"e": "Vítima protagonista."
+},
+{
+"p": "A participação na justiça restaurativa é voluntária, tanto para a vítima quanto para o ofensor.",
+"c": true,
+"prof": "Princípios.",
+"x": "Também são princípios a confidencialidade, a consensualidade, a informalidade e o respeito à dignidade de todos.",
+"e": "Voluntariedade."
+},
+{
+"p": "O reconhecimento dos fatos pelo ofensor em um círculo restaurativo pode ser usado como confissão no processo penal.",
+"c": false,
+"prof": "Confidencialidade.",
+"x": "A participação não pode ser usada como prova de culpa em processo judicial posterior, segundo os princípios da ONU e a Resolução 225 do CNJ.",
+"e": "Círculo: não vira prova."
+},
+{
+"p": "A prática restaurativa conduzida por um facilitador, em que os participantes se sentam em roda e falam um de cada vez, com o uso de um objeto da palavra, e que foi difundida por Kay Pranis, é o(a):",
+"alts": [
+"mediação vítima-ofensor",
+"círculo de construção de paz",
+"conferência familiar",
+"transação penal",
+"audiência de custódia"
+],
+"r": 1,
+"n": [
+"Envolve basicamente vítima e ofensor.",
+"Correta.",
+"Inspirada nos maori.",
+"Não é prática restaurativa.",
+"Não é prática restaurativa."
+],
+"prof": "Círculos.",
+"x": "Os círculos de construção de paz reúnem vítima, ofensor, familiares e comunidade, com facilitador e objeto da palavra.",
+"e": "Círculo: Kay Pranis."
+},
+{
+"p": "As conferências familiares restaurativas inspiram-se em práticas dos povos maori, da Nova Zelândia.",
+"c": true,
+"prof": "Origem das conferências.",
+"x": "Nelas, familiares e pessoas de apoio participam da construção da solução.",
+"e": "Conferências: maori."
+},
+{
+"p": "A Resolução 225/2016 do CNJ dispõe sobre a Política Nacional de Justiça Restaurativa no âmbito do Poder Judiciário.",
+"c": true,
+"prof": "Norma brasileira.",
+"x": "No plano internacional, a referência é a Resolução 2002/12 do Conselho Econômico e Social da ONU.",
+"e": "CNJ 225/2016."
+},
+{
+"p": "A Lei do SINASE (Lei 12.594/2012) prevê, entre os princípios da execução das medidas socioeducativas, a prioridade a práticas ou medidas restaurativas.",
+"c": true,
+"prof": "Art. 35, III.",
+"x": "Sempre que possível, devem ser atendidas as necessidades das vítimas.",
+"e": "SINASE: prioriza práticas restaurativas."
+},
+{
+"p": "A justiça restaurativa só pode ser aplicada antes do início do processo penal, como alternativa a ele.",
+"c": false,
+"prof": "Momento.",
+"x": "As práticas restaurativas podem ocorrer antes, durante ou depois do processo, inclusive na execução da pena.",
+"e": "Em qualquer fase."
+},
+{
+"p": "Axel Honneth identifica três esferas de reconhecimento: o amor, o direito e a solidariedade.",
+"c": true,
+"prof": "Luta por reconhecimento.",
+"x": "Correspondem à autoconfiança, ao autorrespeito e à autoestima.",
+"e": "Amor, direito, solidariedade."
+},
+{
+"p": "Segundo Honneth, a esfera de reconhecimento que garante à pessoa o autorrespeito, por ser tratada como sujeito de direitos igual aos demais, é a do(a):",
+"alts": [
+"amor",
+"direito",
+"solidariedade",
+"redistribuição",
+"dissuasão"
+],
+"r": 1,
+"n": [
+"Gera autoconfiança.",
+"Correta.",
+"Gera autoestima.",
+"Conceito de Nancy Fraser.",
+"Modelo de reação ao delito."
+],
+"prof": "Direito = autorrespeito.",
+"x": "O desrespeito correspondente é a privação de direitos e a exclusão.",
+"e": "Direito: autorrespeito."
+},
+{
+"p": "Nancy Fraser sustenta que a justiça exige tanto redistribuição econômica quanto reconhecimento cultural.",
+"c": true,
+"prof": "Fraser.",
+"x": "Ela dialoga com Honneth sobre as dimensões da justiça social.",
+"e": "Redistribuição + reconhecimento."
+},
+{
+"p": "Na perspectiva do reconhecimento, a vítima deve ser tratada como sujeito, com direito a ser ouvida, informada e reparada, e não como mero meio de prova.",
+"c": true,
+"prof": "Reconhecimento da vítima.",
+"x": "O CPP (art. 201) prevê a comunicação dos atos processuais à vítima, espaço separado e encaminhamento a atendimento.",
+"e": "Vítima sujeito."
+},
+{
+"p": "A criminologia do reconhecimento aproxima-se da justiça restaurativa, ao valorizar o reconhecimento mútuo do dano e das necessidades dos envolvidos.",
+"c": true,
+"prof": "Pontes entre as teorias.",
+"x": "Ambas tratam vítima e ofensor como sujeitos e buscam a reintegração social.",
+"e": "Reconhecimento + restaurativa."
+},
+{
+"p": "Para a teoria do reconhecimento, experiências de humilhação e exclusão são irrelevantes para a compreensão dos conflitos sociais.",
+"c": false,
+"prof": "Desrespeito.",
+"x": "Para Honneth, o desrespeito gera sofrimento e pode alimentar conflitos sociais, inclusive violência.",
+"e": "Desrespeito alimenta conflitos."
+},
+{
+"p": "Uma crítica dirigida ao modelo consensual é o risco de pressão sobre o acusado para aceitar acordos, com menor controle judicial.",
+"c": true,
+"prof": "Críticas.",
+"x": "As vantagens apontadas são a celeridade, a reparação à vítima e a redução do estigma do processo.",
+"e": "Risco de pressão."
+}
+]
+},
+"policiamento": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>elementos das atividades rotineiras: ofensor motivado, alvo adequado e ausência de guardião</span></div><div class=\"lt-stat\"><b>4</b><span>etapas do método SARA</span></div><div class=\"lt-stat\"><b>1982</b><span>artigo \"Broken Windows\", de Wilson e Kelling</span></div><div class=\"lt-stat\"><b>13.675</b><span>Lei do Sistema Único de Segurança Pública (2018)</span></div></div>\n<h3>1. Modelos de policiamento</h3>\n<table class=\"tab\"><thead><tr><th>Modelo</th><th>Ideia</th><th>Marcas</th></tr></thead><tbody><tr><td><b>Tradicional</b> (profissional, reativo)</td><td>a polícia <b>reage</b> às ocorrências</td><td>patrulha aleatória, <b>resposta rápida</b> ao chamado e <b>investigação reativa</b>; medido por números de prisões e tempo de resposta</td></tr><tr><td><b>Comunitário</b></td><td><b>parceria</b> entre polícia e comunidade para identificar e resolver problemas</td><td><b>prevenção</b>, <b>proximidade</b>, descentralização, policial fixo na área, <b>conselhos comunitários</b> (no Brasil, os <b>Consegs</b>); Robert <b>Trojanowicz</b> é referência</td></tr><tr><td><b>Orientado ao problema</b> (POP)</td><td>atacar as <b>causas</b> dos problemas que geram chamados repetidos</td><td><b>Herman Goldstein</b> (1979); método <b>SARA</b></td></tr><tr><td><b>Hot spots</b> (pontos quentes)</td><td>concentrar o policiamento nos <b>poucos lugares</b> onde ocorre grande parte dos crimes</td><td><b>Lawrence Sherman</b> (estudos em Minneapolis)</td></tr><tr><td><b>Orientado por inteligência</b> (ILP)</td><td>usar <b>análise criminal</b> e inteligência para decidir prioridades</td><td>foco em infratores contumazes e redes</td></tr><tr><td><b>Baseado em evidências</b></td><td>adotar o que <b>pesquisas</b> mostram que funciona</td><td>Lawrence <b>Sherman</b> (1998)</td></tr></tbody></table>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Método SARA (policiamento orientado ao problema)</div><div class=\"art-lei\"><b>S</b>canning (identificação do problema) · <b>A</b>nalysis (análise das causas, com o triângulo do problema: ofensor, vítima/alvo e local) · <b>R</b>esponse (resposta sob medida, muitas vezes com outros órgãos) · <b>A</b>ssessment (avaliação dos resultados).</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>O policiamento deixa de \"apagar incêndios\" e passa a resolver o problema que gera as ocorrências.</li><li>A resposta pode envolver iluminação pública, limpeza de terrenos, mediação de conflitos ou fiscalização, e não só prisões.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que o SARA é um modelo de patrulha aleatória.</li><li>Confundir o policiamento orientado ao problema com tolerância zero.</li></ul></div></div>\n<h3>2. Teorias da oportunidade e prevenção situacional</h3>\n<ul><li><b>Teoria da escolha racional</b> (<b>Cornish e Clarke</b>): o infrator <b>avalia custos e benefícios</b> antes de agir; aumentar o risco e o esforço e reduzir a recompensa desestimula o crime.</li><li><b>Teoria das atividades rotineiras</b> (<b>Cohen e Felson</b>, <b>1979</b>): o crime ocorre quando se encontram, no <b>tempo e no espaço</b>, três elementos: <b>ofensor motivado</b>, <b>alvo adequado</b> e <b>ausência de guardião capaz</b>. Mudanças na rotina social (casas vazias durante o dia, mais bens portáteis) aumentam as oportunidades.</li><li><b>Teoria do padrão criminal</b> (<b>Brantingham</b>): os crimes se concentram nos espaços de atividade e de deslocamento dos infratores (casa, trabalho, lazer e trajetos).</li><li><b>Prevenção situacional</b> (<b>Ronald Clarke</b>): reduz oportunidades em situações específicas, com <b>25 técnicas</b> agrupadas em <b>5 categorias</b>: <b>aumentar o esforço</b>, <b>aumentar o risco</b>, <b>reduzir a recompensa</b>, <b>reduzir as provocações</b> e <b>remover as desculpas</b>.</li><li><b>CPTED</b> (prevenção do crime pelo desenho ambiental, <b>C. Ray Jeffery</b>, 1971) e <b>espaço defensável</b> (<b>Oscar Newman</b>, 1972): iluminação, vigilância natural, controle de acessos, manutenção e sentimento de <b>territorialidade</b> reduzem o crime.</li><li><b>Deslocamento</b> x <b>difusão de benefícios</b>: teme-se que a prevenção apenas <b>desloque</b> o crime para outro lugar, hora ou alvo; as pesquisas mostram que o deslocamento costuma ser <b>parcial</b> e que muitas vezes há <b>difusão de benefícios</b> (a melhora se espalha para áreas vizinhas).</li></ul>\n<h3>3. Janelas quebradas e tolerância zero</h3>\n<ul><li><b>Teoria das janelas quebradas</b> (<i>Broken Windows</i>), de <b>James Q. Wilson e George Kelling</b> (<b>1982</b>): sinais de <b>desordem</b> não tratados (janelas quebradas, pichações, lixo, pequenas incivilidades) transmitem a mensagem de que <b>ninguém se importa</b>, enfraquecem o controle social informal e abrem caminho para crimes mais graves. Inspirou-se em experimento de <b>Philip Zimbardo</b> (1969), com carros abandonados.</li><li><b>Tolerância zero</b>: aplicação em <b>Nova York</b>, a partir de <b>1994</b> (prefeito <b>Rudolph Giuliani</b> e comissário <b>William Bratton</b>), com repressão intensa a pequenas infrações e o uso do <b>CompStat</b> (estatísticas georreferenciadas e cobrança de resultados dos comandantes).</li><li><b>Críticas</b>: aumento de <b>abordagens abusivas</b> e da seletividade contra minorias (o <i>stop-and-frisk</i> de NY foi julgado inconstitucional em 2013, na forma como aplicado); a queda do crime nos EUA nos anos 1990 também ocorreu em cidades <b>sem</b> tolerância zero, sendo <b>multifatorial</b>. Os próprios autores distinguiam a manutenção da ordem com <b>parceria comunitária</b> da repressão indiscriminada.</li></ul>\n<h3>4. Segurança pública no século XXI</h3>\n<ul><li><b>Constituição, art. 144</b>: a segurança pública é <b>dever do Estado</b>, <b>direito e responsabilidade de todos</b>, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.</li><li><b>Lei 13.675/2018 (SUSP)</b>: institui o <b>Sistema Único de Segurança Pública</b> e a <b>Política Nacional de Segurança Pública e Defesa Social</b> (PNSPDS). Diretrizes como <b>atuação integrada</b> dos órgãos, <b>planejamento</b> com metas e avaliação, <b>prevenção</b>, <b>uso de dados</b> e estatísticas padronizadas, <b>participação social</b>, <b>valorização</b> dos profissionais e respeito aos <b>direitos humanos</b>. Os <b>Conselhos de Segurança Pública</b> e os planos decenais fazem parte do sistema.</li><li><b>Tendências</b>: gestão por <b>resultados</b> e <b>análise criminal</b>; integração entre polícias, Ministério Público e municípios; <b>câmeras corporais</b>; foco em <b>homicídios</b> e em <b>crimes violentos</b>; programas de <b>prevenção social</b> voltados a jovens; <b>mediação de conflitos</b>.</li><li><b>Exemplo mineiro</b>: o <b>Programa Controle de Homicídios Fica Vivo!</b> (implantado em <b>2003</b>, em Belo Horizonte) combina <b>proteção social</b> (oficinas e acompanhamento de jovens de 12 a 24 anos em áreas com muitos homicídios) com <b>intervenção estratégica</b> (ações integradas das polícias, MP e Judiciário). É citado como exemplo de política baseada em evidências e de prevenção focalizada.</li><li><b>Dados</b>: o <b>Fórum Brasileiro de Segurança Pública</b> (Anuário) e o <b>IPEA</b> (Atlas da Violência) produzem os principais indicadores nacionais; a <b>subnotificação</b> (cifra negra) exige <b>pesquisas de vitimização</b> para conhecer a criminalidade real.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Policiamento comunitário é sinônimo de tolerância zero</span><br>✅ <span class=\"certo\">O comunitário é parceria e prevenção; a tolerância zero é repressão intensa a pequenas infrações.</span></li><li>❌ <span class=\"banca\">Nas atividades rotineiras, basta o ofensor motivado</span><br>✅ <span class=\"certo\">São três elementos: ofensor, alvo e ausência de guardião.</span></li><li>❌ <span class=\"banca\">A prevenção situacional sempre desloca o crime integralmente</span><br>✅ <span class=\"certo\">O deslocamento costuma ser parcial, e há difusão de benefícios.</span></li><li>❌ <span class=\"banca\">O método SARA é de Wilson e Kelling</span><br>✅ <span class=\"certo\">É do policiamento orientado ao problema (Goldstein).</span></li><li>❌ <span class=\"banca\">As janelas quebradas defendem que a desordem é irrelevante</span><br>✅ <span class=\"certo\">Defendem o contrário: a desordem não tratada favorece crimes graves.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Policiamento comunitário?</span></span><span class=\"vs\"><span><b>Parceria</b> com a comunidade, prevenção e proximidade (Consegs).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>POP?</span></span><span class=\"vs\"><span><b>Goldstein</b> (1979), método <b>SARA</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SARA?</span></span><span class=\"vs\"><span><b>Scanning, Analysis, Response, Assessment</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atividades rotineiras?</span></span><span class=\"vs\"><span><b>Ofensor motivado + alvo adequado + ausência de guardião</b> (Cohen e Felson).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prevenção situacional?</span></span><span class=\"vs\"><span><b>Clarke</b>: 25 técnicas em 5 categorias.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Janelas quebradas?</span></span><span class=\"vs\"><span><b>Wilson e Kelling</b> (1982).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tolerância zero?</span></span><span class=\"vs\"><span><b>Nova York</b>, 1994, <b>Giuliani/Bratton</b>, <b>CompStat</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fica Vivo!?</span></span><span class=\"vs\"><span>Prevenção de homicídios de jovens em MG (2003).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Os furtos de celular no centro</b><p>Uma Delegacia de Belo Horizonte percebe que metade dos furtos de celular da região ocorre em três pontos de ônibus, à noite, perto de uma praça mal iluminada.</p><details><summary>Ver a solução comentada</summary><p>Aplicando o <b>SARA</b>: identificar o problema (<b>scanning</b>); analisar vítimas, horários e local (<b>analysis</b>: alvo adequado e ausência de guardião); responder com policiamento nos <b>hot spots</b>, pedido de <b>iluminação</b> à prefeitura, campanha de alerta e investigação de <b>receptadores</b> (<b>response</b>); e medir os resultados depois de alguns meses (<b>assessment</b>), verificando se houve <b>deslocamento</b> ou <b>difusão de benefícios</b>.</p></details></div>",
+"quiz": [
+{
+"p": "O policiamento tradicional, ou reativo, caracteriza-se pela patrulha aleatória, pela resposta rápida aos chamados e pela investigação após a ocorrência.",
+"c": true,
+"prof": "Modelo profissional.",
+"x": "Seu desempenho costuma ser medido pelo tempo de resposta e pelo número de prisões.",
+"e": "Tradicional: reativo."
+},
+{
+"p": "O policiamento comunitário baseia-se na parceria entre a polícia e a comunidade para identificar e resolver problemas de segurança, com ênfase na prevenção e na proximidade.",
+"c": true,
+"prof": "Comunitário.",
+"x": "No Brasil, os Conselhos Comunitários de Segurança (Consegs) são instrumento dessa parceria.",
+"e": "Comunitário: parceria."
+},
+{
+"p": "O policiamento comunitário dispensa a participação da comunidade, concentrando-se no aumento do número de prisões.",
+"c": false,
+"prof": "Essência do modelo.",
+"x": "A participação da comunidade é a essência do policiamento comunitário.",
+"e": "Comunitário: participação."
+},
+{
+"p": "O policiamento orientado ao problema, proposto por Herman Goldstein, busca atacar as causas dos problemas que geram ocorrências repetidas.",
+"c": true,
+"prof": "POP.",
+"x": "Utiliza o método SARA: scanning, analysis, response e assessment.",
+"e": "POP: Goldstein."
+},
+{
+"p": "No método SARA, a etapa em que se avaliam os resultados da resposta adotada é o(a):",
+"alts": [
+"scanning",
+"analysis",
+"response",
+"assessment",
+"surveillance"
+],
+"r": 3,
+"n": [
+"Identificação do problema.",
+"Análise das causas.",
+"Resposta.",
+"Correta.",
+"Não faz parte do SARA."
+],
+"prof": "S-A-R-A.",
+"x": "Scanning (identificar), Analysis (analisar), Response (responder) e Assessment (avaliar).",
+"e": "Assessment: avaliação."
+},
+{
+"p": "O policiamento de pontos quentes (hot spots) concentra recursos nos poucos lugares onde ocorre grande parte dos crimes.",
+"c": true,
+"prof": "Hot spots.",
+"x": "Lawrence Sherman demonstrou a concentração do crime em poucos locais em estudos em Minneapolis.",
+"e": "Hot spots: concentração."
+},
+{
+"p": "Para a teoria das atividades rotineiras, de Cohen e Felson, o crime ocorre quando convergem, no tempo e no espaço, um ofensor motivado, um alvo adequado e a ausência de um guardião capaz.",
+"c": true,
+"prof": "Três elementos.",
+"x": "Mudanças nas rotinas sociais aumentam ou reduzem essas convergências.",
+"e": "Ofensor + alvo + sem guardião."
+},
+{
+"p": "A teoria da escolha racional sustenta que o crime decorre de fatores biológicos herdados, sem qualquer cálculo do infrator.",
+"c": false,
+"prof": "Cornish e Clarke.",
+"x": "Para a escolha racional, o infrator avalia custos e benefícios antes de agir. A explicação biológica é da Escola Positiva.",
+"e": "Escolha racional: custos x benefícios."
+},
+{
+"p": "A prevenção situacional, desenvolvida por Ronald Clarke, organiza suas técnicas em categorias como aumentar o esforço, aumentar o risco, reduzir a recompensa, reduzir as provocações e remover as desculpas.",
+"c": true,
+"prof": "5 categorias.",
+"x": "São 25 técnicas no total, voltadas a reduzir oportunidades em situações específicas.",
+"e": "Clarke: 5 categorias."
+},
+{
+"p": "A instalação de iluminação em uma praça, a poda de árvores para ampliar a visibilidade e o controle de acessos a um condomínio são medidas típicas do(a):",
+"alts": [
+"abolicionismo penal",
+"CPTED (prevenção do crime pelo desenho ambiental)",
+"labelling approach",
+"direito penal do inimigo",
+"modelo dissuasório puro"
+],
+"r": 1,
+"n": [
+"Não trata de desenho urbano.",
+"Correta.",
+"É teoria da reação social.",
+"Não é estratégia de prevenção.",
+"O dissuasório trata da pena."
+],
+"prof": "Desenho ambiental.",
+"x": "O CPTED (Jeffery) e o espaço defensável (Newman) usam iluminação, vigilância natural, controle de acesso e manutenção para prevenir o crime.",
+"e": "CPTED."
+},
+{
+"p": "O espaço defensável é conceito de Oscar Newman, que associa o desenho arquitetônico ao sentimento de territorialidade e à vigilância natural.",
+"c": true,
+"prof": "Newman (1972).",
+"x": "O conceito influenciou o planejamento de conjuntos habitacionais e de espaços públicos.",
+"e": "Espaço defensável: Newman."
+},
+{
+"p": "As pesquisas demonstram que a prevenção situacional sempre desloca integralmente o crime para outro local.",
+"c": false,
+"prof": "Deslocamento x difusão.",
+"x": "O deslocamento costuma ser parcial, e muitas vezes ocorre difusão de benefícios para áreas vizinhas.",
+"e": "Deslocamento parcial."
+},
+{
+"p": "A teoria das janelas quebradas, de Wilson e Kelling, sustenta que sinais de desordem não tratados favorecem o surgimento de crimes mais graves.",
+"c": true,
+"prof": "Broken Windows (1982).",
+"x": "A desordem transmite a mensagem de que ninguém se importa e enfraquece o controle social informal.",
+"e": "Janelas quebradas."
+},
+{
+"p": "A política de tolerância zero foi aplicada em Nova York, a partir de 1994, na gestão de Rudolph Giuliani, com William Bratton à frente da polícia.",
+"c": true,
+"prof": "Tolerância zero.",
+"x": "O CompStat, sistema de estatísticas e cobrança de resultados, foi uma de suas ferramentas.",
+"e": "NY, 1994."
+},
+{
+"p": "A queda da criminalidade nos Estados Unidos nos anos 1990 é unanimemente atribuída à tolerância zero.",
+"c": false,
+"prof": "Críticas.",
+"x": "A queda ocorreu também em cidades sem tolerância zero e é considerada multifatorial.",
+"e": "Queda multifatorial."
+},
+{
+"p": "O CompStat é uma ferramenta de gestão policial baseada em estatísticas criminais georreferenciadas e na cobrança de resultados dos comandantes de área.",
+"c": true,
+"prof": "Gestão por resultados.",
+"x": "Foi difundido a partir de Nova York e inspirou modelos de gestão no Brasil.",
+"e": "CompStat."
+},
+{
+"p": "Segundo a Constituição, a segurança pública é dever do Estado, direito e responsabilidade de todos.",
+"c": true,
+"prof": "Art. 144.",
+"x": "É exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.",
+"e": "Art. 144."
+},
+{
+"p": "A Lei 13.675/2018 institui o Sistema Único de Segurança Pública (SUSP) e a Política Nacional de Segurança Pública e Defesa Social.",
+"c": true,
+"prof": "SUSP.",
+"x": "Entre as diretrizes estão a atuação integrada, o planejamento com metas, o uso de dados e o respeito aos direitos humanos.",
+"e": "SUSP: Lei 13.675."
+},
+{
+"p": "O programa mineiro voltado à redução de homicídios de jovens, que combina proteção social com intervenção estratégica das instituições do sistema de justiça criminal, é o:",
+"alts": [
+"CompStat",
+"Fica Vivo!",
+"Broken Windows",
+"Pacto pela Vida de Nova York",
+"SARA"
+],
+"r": 1,
+"n": [
+"Ferramenta de gestão de NY.",
+"Correta.",
+"Teoria criminológica.",
+"Não existe.",
+"Método de policiamento."
+],
+"prof": "Programa Controle de Homicídios.",
+"x": "O Fica Vivo! foi implantado em 2003 em Belo Horizonte e atende jovens em áreas com alta incidência de homicídios.",
+"e": "Fica Vivo!"
+},
+{
+"p": "Pesquisas de vitimização são instrumentos importantes para estimar a cifra negra da criminalidade.",
+"c": true,
+"prof": "Subnotificação.",
+"x": "Elas perguntam diretamente à população se foi vítima de crimes, inclusive os não registrados.",
+"e": "Pesquisa de vitimização."
+},
+{
+"p": "O policiamento orientado por inteligência dispensa a análise criminal, baseando-se na intuição do comandante.",
+"c": false,
+"prof": "ILP.",
+"x": "O policiamento orientado por inteligência usa análise criminal e inteligência para definir prioridades.",
+"e": "ILP: análise de dados."
+},
+{
+"p": "O policiamento baseado em evidências propõe adotar estratégias cuja eficácia foi demonstrada por pesquisas.",
+"c": true,
+"prof": "Sherman (1998).",
+"x": "Avalia-se o que funciona, o que não funciona e o que é promissor.",
+"e": "Baseado em evidências."
+},
+{
+"p": "A teoria das janelas quebradas inspirou-se em experimento de Philip Zimbardo com veículos abandonados em bairros diferentes.",
+"c": true,
+"prof": "Origem.",
+"x": "O carro deixado em bairro rico só foi depredado depois que o pesquisador quebrou uma de suas janelas.",
+"e": "Zimbardo."
+}
+]
 }
 },
 "penal": {
