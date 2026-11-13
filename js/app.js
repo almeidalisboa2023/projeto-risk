@@ -14,6 +14,7 @@ const PAGINAS = {
   horas: ['Horas de estudo', '⏱', () => import('./pages/horas.js')],
   registrar: ['Registrar questões', '✎', () => import('./pages/registrar.js')],
   leitura: ['Conteúdo programático', '📖', () => import('./pages/leitura.js')],
+  pegadinhas: ['Treino de pegadinhas', '🪤', () => import('./pages/pegadinhas.js')],
   cursos: ['Cursos preparatórios', '🎓', () => import('./pages/vitrine.js')],
   apostilas: ['Apostilas', '📚', () => import('./pages/apostilas.js')],
   materiais: ['Materiais', '📄', () => import('./pages/materiais.js')],
