@@ -19,6 +19,7 @@ export async function carregarTudo() {
   S.sessoes = await db.selectAll('sessoes_estudo', { user_id: 'eq.' + S.user.id, order: 'data.asc' }).catch(() => []);
   const ativos = S.editais.filter((e) => e.ativo !== false);
   S.pendentes = S.profile.role === 'admin' ? (await db.select('profiles', { status: 'eq.pendente', select: 'id' }).catch(() => [])).length : 0;
+  if (S.profile.role === 'admin') S.pendentes += (await db.select('contas_excluidas', { vista: 'eq.false', select: 'id' }).catch(() => [])).length;
   S.edital = ativos.find((e) => e.id === S.profile.edital_atual) || ativos[0] || null;
   await carregarEdital();
   S.ready = true;

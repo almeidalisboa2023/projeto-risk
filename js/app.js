@@ -5,6 +5,8 @@ import { toast, loading } from './ui.js';
 import { flutuante } from './crono.js';
 import { CURSOS, cursoInfo } from './cursos.js';
 import { situacao, acessoVencido, fmtData, diasRestantes, AVISO_DIAS } from './acesso.js';
+import { TERMOS_VERSAO } from './privacidade.js';
+import { rodapeLegal } from './fornecedor.js';
 
 const PAGINAS = {
   painel: ['Painel', '⌂', () => import('./pages/painel.js')],
@@ -38,10 +40,11 @@ async function iniciar() {
   if (tipo === 'recovery') return telaNovaSenha();
   // Compra feita na Hotmart com o mesmo e-mail: libera o acesso na hora
   try { if (!MODO_DEMO) { const n = await db.rpc('verificar_minha_compra'); if (Number(n) > 0) toast('Pagamento reconhecido! Seu acesso foi liberado.'); } } catch {}
-  try { await carregarTudo(); } catch (e) { root.innerHTML = `<div class="login"><div class="card"><h2>Não foi possível carregar</h2><p>${esc(e.message)}</p><button class="btn" onclick="location.reload()">Tentar de novo</button></div></div>`; return; }
+  try { await carregarTudo(); } catch (e) { root.innerHTML = `<div class="login"><div class="card"><h2>Não foi possível carregar</h2><p>${esc(e.message)}</p><button class="btn" id="tentaDeNovo">Tentar de novo</button></div></div>`; root.querySelector('#tentaDeNovo').onclick = () => location.reload(); return; }
   if (S.profile.bloqueado) return telaAviso('Acesso bloqueado', 'Fale com o administrador do Projeto R.I.S.K.', false, false, true);
   // Todo aluno informa WhatsApp e dados uma vez (inclusive quem já entrou liberado pela compra)
   if (S.profile.role !== 'admin' && !S.profile.dados_ok_em && S.profile.status !== 'recusado') return telaCadastroCurso();
+  if (S.profile.role !== 'admin' && !S.profile.termos_aceitos_em && S.profile.status !== 'recusado' && !MODO_DEMO) return telaAceite();
   if (S.profile.role !== 'admin' && S.profile.status === 'pendente') {
     const c = cursoInfo(S.profile.curso_solicitado);
     return telaAviso('Cadastro em análise', `Olá, ${esc((S.profile.nome || '').split(' ')[0] || 'tudo bem')}! Recebemos o seu cadastro (${esc(S.user.email)})${c ? ` para o curso <b>${esc(c.nome)}</b>` : ''}. Se você comprou pela Hotmart com este e-mail, o acesso é liberado sozinho assim que o pagamento for confirmado (Pix e cartão em minutos; boleto em até 3 dias úteis). Caso contrário, o administrador confere os seus dados e libera. Clique em “Verificar de novo” depois de pagar.`, true, true, true);
@@ -131,6 +134,7 @@ function telaLogin(modo = 'entrar') {
       ${modo === 'criar' ? '<div class="campo"><label>Seu nome</label><input name="nome" required style="width:100%"></div>' : ''}
       <div class="campo"><label>E-mail</label><input name="email" type="email" required autocomplete="email" style="width:100%"></div>
       ${modo !== 'esqueci' ? `<div class="campo"><label>Senha</label><input name="senha" type="password" required minlength="6" autocomplete="${modo === 'criar' ? 'new-password' : 'current-password'}" style="width:100%"></div>` : ''}
+      ${modo === 'criar' ? CHECK_TERMOS : ''}
       <button class="btn" style="width:100%">${{ entrar: 'Entrar', criar: 'Criar conta', esqueci: 'Enviar link para trocar a senha' }[modo]}</button>
     </form>
     ${modo === 'criar' ? `<p class="muted" style="font-size:13px;text-align:center;margin:10px 0 0">${(() => { try { return localStorage.getItem('risk-comprar'); } catch { return null; } })() ? 'Comprando com o mesmo e-mail, o acesso é liberado automaticamente.' : 'Quem compra um curso tem o acesso liberado automaticamente. Os demais cadastros passam pela aprovação do administrador.'}</p>` : ''}
@@ -158,7 +162,7 @@ function telaLogin(modo = 'entrar') {
 
 // Vitrine de cursos para quem ainda não entrou
 async function telaPublica() {
-  root.innerHTML = `<div class="pub"><header class="pub-top"><a href="#/cursos" class="pub-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></a><span class="sp"></span><button class="btn sec mini" id="pubE">Entrar</button><button class="btn mini" id="pubC">Criar conta</button></header><main class="pub-main" id="pubM">${loading()}</main></div>`;
+  root.innerHTML = `<div class="pub"><header class="pub-top"><a href="#/cursos" class="pub-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></a><span class="sp"></span><button class="btn sec mini" id="pubE">Entrar</button><button class="btn mini" id="pubC">Criar conta</button></header><main class="pub-main" id="pubM">${loading()}</main>${rodapeLegal()}</div>`;
   root.querySelector('#pubE').onclick = () => { location.hash = '#/entrar'; };
   root.querySelector('#pubC').onclick = () => { location.hash = '#/criar'; };
   const mod = await import('./pages/vitrine.js');
@@ -179,7 +183,7 @@ function telaAviso(titulo, texto, verificar = false, corrigir = false, cursos = 
 }
 
 async function telaVitrineLogado() {
-  root.innerHTML = `<div class="pub"><header class="pub-top"><a href="#/cursos" class="pub-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></a><span class="sp"></span><button class="btn sec mini" id="pubV">Voltar</button></header><main class="pub-main" id="pubM">${loading()}</main></div>`;
+  root.innerHTML = `<div class="pub"><header class="pub-top"><a href="#/cursos" class="pub-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></a><span class="sp"></span><button class="btn sec mini" id="pubV">Voltar</button></header><main class="pub-main" id="pubM">${loading()}</main>${rodapeLegal()}</div>`;
   root.querySelector('#pubV').onclick = () => { location.hash = ''; location.reload(); };
   const mod = await import('./pages/vitrine.js');
   const desenha = () => { if (!/^#\/cursos/.test(location.hash)) return; mod.render(root.querySelector('#pubM'), new URLSearchParams(location.hash.split('?')[1] || '')); };
@@ -201,6 +205,7 @@ function telaCadastroCurso() {
       <div class="row"><div class="campo" style="flex:1"><label>CPF</label><input name="cpf" inputmode="numeric" maxlength="14" placeholder="000.000.000-00" required style="width:100%" value="${esc(p.cpf || '')}"></div>
         <div class="campo" style="flex:1"><label>WhatsApp</label><input name="telefone" inputmode="tel" placeholder="(31) 90000-0000" required style="width:100%" value="${esc(p.telefone || '')}"></div></div>
       <div class="campo"><label>Cidade / UF</label><input name="cidade" placeholder="Pirapora/MG" required style="width:100%" value="${esc(p.cidade || '')}"></div>
+      ${p.termos_aceitos_em ? '' : CHECK_TERMOS}
       <button class="btn" style="width:100%">${p.status === 'aprovado' ? 'Salvar e entrar' : 'Enviar para aprovação'}</button>
     </form>
     <div class="row" style="justify-content:center;margin-top:10px"><button class="btn sec mini" id="fcS">Sair</button></div></div></div>`;
@@ -213,11 +218,31 @@ function telaCadastroCurso() {
     const b = e.target.querySelector('button'); b.disabled = true;
     try {
       const v = { nome: f.nome.trim(), cpf, telefone: f.telefone.trim(), cidade: f.cidade.trim(), curso_solicitado: f.curso, dados_ok_em: new Date().toISOString() };
+      if (!p.termos_aceitos_em) Object.assign(v, { termos_aceitos_em: new Date().toISOString(), termos_versao: TERMOS_VERSAO });
       await db.update('profiles', { id: 'eq.' + S.user.id }, v);
       Object.assign(S.profile, v);
       toast(S.profile.status === 'aprovado' ? 'Dados salvos! Bons estudos.' : 'Cadastro enviado! Agora é só aguardar a aprovação.');
       location.reload();
     } catch (err) { toast(err.message, 'erro'); b.disabled = false; }
+  };
+}
+
+const CHECK_TERMOS = `<label class="check" style="font-size:13.5px;margin:4px 0 12px;align-items:flex-start"><input type="checkbox" name="termos" required style="margin-top:3px"> <span>Li e aceito os <a href="termos.html" target="_blank" rel="noopener">Termos de Uso</a> e a <a href="privacidade.html" target="_blank" rel="noopener">Política de Privacidade</a>.</span></label>`;
+
+// Quem já tinha conta antes dos Termos aceita uma única vez
+function telaAceite() {
+  root.innerHTML = `<div class="login"><div class="card" style="max-width:560px">
+    <div class="login-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></div>
+    <h2 style="margin-bottom:4px">Atualizamos nossos termos</h2>
+    <p class="muted" style="margin-top:0">Para continuar usando o PROJETO R.I.S.K., leia e aceite os Termos de Uso e a Política de Privacidade. Neles explicamos quais dados guardamos, para quê, por quanto tempo e como você pode baixar ou excluir os seus dados a qualquer momento (Perfil → Privacidade e dados).</p>
+    <form id="fa">${CHECK_TERMOS}<button class="btn" style="width:100%">Aceitar e continuar</button></form>
+    <div class="row" style="justify-content:center;margin-top:10px"><button class="btn sec mini" id="faS">Sair</button></div></div></div>`;
+  root.querySelector('#faS').onclick = () => { auth.signOut(); location.hash = ''; location.reload(); };
+  root.querySelector('#fa').onsubmit = async (e) => {
+    e.preventDefault();
+    const b = e.target.querySelector('button'); b.disabled = true;
+    try { await db.update('profiles', { id: 'eq.' + S.user.id }, { termos_aceitos_em: new Date().toISOString(), termos_versao: TERMOS_VERSAO }); location.reload(); }
+    catch (err) { toast(err.message, 'erro'); b.disabled = false; }
   };
 }
 
