@@ -1,9 +1,9 @@
 import { auth, db, MODO_DEMO } from './backend.js';
-import { S, carregarTudo, trocarEdital, isAdmin } from './state.js';
+import { S, carregarTudo, trocarEdital, isAdmin, visaoAluno } from './state.js';
 import { esc } from './util.js';
 import { toast, loading } from './ui.js';
 import { flutuante } from './crono.js';
-import { CURSOS, cursoInfo } from './cursos.js';
+import { CURSOS, cursoInfo, entrarVisao, sairVisao, BANCAS } from './cursos.js';
 import { situacao, acessoVencido, fmtData, diasRestantes, AVISO_DIAS } from './acesso.js';
 import { TERMOS_VERSAO } from './privacidade.js';
 import { rodapeLegal } from './fornecedor.js';
@@ -57,6 +57,14 @@ async function iniciar() {
   import('./pages/vitrine.js').then((v) => v.retomarCompra()).catch(() => {});
 }
 
+// Faixa do modo aluno (só o administrador vê)
+function faixaVisao(v) {
+  return `<div class="faixa-visao">👁 <b>Modo aluno</b>: você está vendo o app como um aluno do curso
+    <select id="visCurso" aria-label="Curso">${CURSOS.map((c) => `<option value="${c.id}" ${c.id === v.curso ? 'selected' : ''}>${esc(c.curto)}</option>`).join('')}</select>
+    banca <select id="visBanca" aria-label="Banca"><option value="">não definida</option>${Object.entries(BANCAS).map(([k, b]) => `<option value="${k}" ${k === v.banca ? 'selected' : ''}>${esc(b.nome)}</option>`).join('')}</select>
+    <button class="btn mini" id="visSair">Sair do modo aluno</button></div>`;
+}
+
 // Aviso no topo para o aluno com acesso perto de vencer
 function faixaVencimento() {
   const p = S.profile; if (!p || p.role === 'admin') return '';
@@ -68,7 +76,8 @@ function faixaVencimento() {
 function layout(atual) {
   const itens = Object.entries(PAGINAS).filter(([k]) => k !== 'admin' || isAdmin());
   const ativos = S.editais.filter((e) => e.ativo !== false);
-  return `${MODO_DEMO ? '<div class="demo">Modo demonstração – dados de exemplo salvos só neste navegador</div>' : ''}
+  const vis = visaoAluno();
+  return `${MODO_DEMO ? '<div class="demo">Modo demonstração – dados de exemplo salvos só neste navegador</div>' : ''}${vis ? faixaVisao(vis) : ''}
   <div class="shell">
     <nav class="side" id="side">
       <a class="logo-img" href="#/painel" title="PROJETO R.I.S.K."><img src="img/logo-escuro.webp" alt="PROJETO R.I.S.K."></a>
@@ -94,6 +103,10 @@ async function rota() {
   document.getElementById('burger').onclick = () => document.getElementById('side').classList.toggle('aberto');
   document.getElementById('btnSair').onclick = (e) => { e.preventDefault(); auth.signOut(); location.hash = ''; location.reload(); };
   document.getElementById('btnTema').onclick = (e) => { e.preventDefault(); alternaTema(); rota(); };
+  const vC = document.getElementById('visCurso'), vB = document.getElementById('visBanca');
+  if (vC) vC.onchange = () => { entrarVisao(vC.value); rota(); };
+  if (vB) vB.onchange = () => { entrarVisao(visaoAluno().curso, vB.value); rota(); };
+  const vS = document.getElementById('visSair'); if (vS) vS.onclick = () => { sairVisao(); location.hash = '#/admin'; rota(); };
   const sel = document.getElementById('selEdital');
   if (sel) sel.onchange = async () => { await trocarEdital(sel.value); rota(); };
   const el = document.getElementById('pagina');

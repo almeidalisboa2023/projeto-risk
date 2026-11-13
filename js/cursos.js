@@ -1,6 +1,6 @@
 // Cursos do Projeto R.I.S.K.: cada curso segue o último edital do concurso e libera só as matérias dele.
 // O aluno escolhe o curso no cadastro; o administrador confere, define a banca e pode remover/restaurar matérias.
-import { S } from './state.js';
+import { S, visaoAluno, VISAO_KEY } from './state.js';
 import { norm } from './util.js';
 
 // Bancas: o "padrão" muda o formato das questões mostradas por padrão (C/E ou múltipla escolha)
@@ -91,8 +91,10 @@ export const CURSOS = [
 export const cursoInfo = (id) => CURSOS.find((c) => c.id === id) || null;
 
 // Curso efetivo do aluno logado (o que o administrador definiu)
-export const meuCurso = () => (S.profile?.role === 'admin' ? null : cursoInfo(S.profile?.curso));
-export const minhaBanca = () => bancaInfo(S.profile?.banca) || null;
+export const meuCurso = () => { const v = visaoAluno(); if (v) return cursoInfo(v.curso); return S.profile?.role === 'admin' ? null : cursoInfo(S.profile?.curso); };
+export const minhaBanca = () => { const v = visaoAluno(); if (v) return bancaInfo(v.banca ?? cursoInfo(v.curso)?.banca) || null; return bancaInfo(S.profile?.banca) || null; };
+export function entrarVisao(curso, banca) { try { sessionStorage.setItem(VISAO_KEY, JSON.stringify({ curso, banca: banca ?? cursoInfo(curso)?.banca ?? '' })); } catch {} }
+export function sairVisao() { try { sessionStorage.removeItem(VISAO_KEY); } catch {} }
 
 // Matérias do curso com os ajustes do administrador (tabela cursos_ajustes): tira as excluídas e põe as incluídas.
 export function materiasDoCurso(c, ajustes = S.cursosAjustes || []) {
@@ -107,6 +109,8 @@ export function materiasDoCurso(c, ajustes = S.cursosAjustes || []) {
 // Filtra a lista completa de matérias para o aluno: só as do curso, sem as removidas pelo administrador,
 // e com os assuntos restritos ao que o edital cobra. Sem curso definido (contas antigas) ou administrador: tudo.
 export function filtrarMaterias(todas, perfil = S.profile) {
+  const v = perfil === S.profile ? visaoAluno() : null;
+  if (v) perfil = { role: 'aluno', curso: v.curso, materias_removidas: [] };
   if (!perfil || perfil.role === 'admin') return todas;
   const c = cursoInfo(perfil.curso);
   // Aluno sem curso definido: vê só as matérias que aparecem no edital dele

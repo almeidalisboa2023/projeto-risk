@@ -93,4 +93,10 @@ export async function atualizarTopico(id, valores) {
   const i = S.topicos.findIndex((x) => x.id === id); if (i >= 0) S.topicos[i] = t; avisa();
   return t;
 }
-export const isAdmin = () => S.profile?.role === 'admin';
+// Modo aluno: o administrador navega como se fosse aluno de um curso (só no próprio navegador, até sair)
+export const VISAO_KEY = 'risk-visao';
+export function visaoAluno() {
+  if (S.profile?.role !== 'admin') return null;
+  try { return JSON.parse(sessionStorage.getItem(VISAO_KEY) || 'null'); } catch { return null; }
+}
+export const isAdmin = () => S.profile?.role === 'admin' && !visaoAluno();
