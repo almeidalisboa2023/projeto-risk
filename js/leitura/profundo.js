@@ -5785,7 +5785,7 @@ export const PROFUNDO = {
 ]
 },
 "maria-penha": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>formas de violência (física, psicológica, sexual, patrimonial e moral)</span></div><div class=\"lt-stat\"><b>48 h</b><span>para remeter ao juiz o pedido de medidas protetivas</span></div><div class=\"lt-stat\"><b>24 h</b><span>para comunicar ao juiz o afastamento do lar feito pelo Delegado ou policial</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão por descumprir medida protetiva (art. 24-A)</span></div></div>\n<h3>1. Quando se aplica</h3>\n<ul><li><b>Violência doméstica e familiar contra a mulher</b>: ação ou omissão <b>baseada no gênero</b> que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial (art. 5º), no âmbito: (I) da <b>unidade doméstica</b> (inclusive pessoas esporadicamente agregadas); (II) da <b>família</b>; (III) de <b>relação íntima de afeto</b>, <b>independentemente de coabitação</b>.</li><li>O <b>sujeito ativo</b> pode ser homem ou <b>mulher</b> (ex.: relação homoafetiva, mãe e filha). A vítima é <b>mulher</b>, inclusive <b>mulher trans</b> (STJ, REsp 1.977.124).</li><li>As relações independem de <b>orientação sexual</b> (art. 5º, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma (art. 7º)</th><th>Exemplos</th></tr></thead><tbody><tr><td>Física</td><td>agressões, empurrões, lesões</td></tr><tr><td><b>Psicológica</b></td><td>ameaça, humilhação, <b>controle</b>, vigilância, isolamento, manipulação</td></tr><tr><td>Sexual</td><td>forçar relação, impedir uso de contraceptivo, forçar aborto ou prostituição</td></tr><tr><td><b>Patrimonial</b></td><td>reter, subtrair ou <b>destruir</b> objetos, documentos, instrumentos de trabalho</td></tr><tr><td><b>Moral</b></td><td><b>calúnia, difamação ou injúria</b></td></tr></tbody></table>\n<h3>2. A atuação da polícia (arts. 10 a 12-C)</h3>\n<ul><li>Atendimento policial e pericial <b>especializado</b>, ininterrupto, preferencialmente por <b>servidoras do sexo feminino</b>, evitando a <b>revitimização</b> (perguntas repetidas e contato com o agressor).</li><li>A autoridade policial deve: registrar a ocorrência e ouvir a vítima; colher provas; <b>remeter ao juiz, em 48 horas</b>, o pedido de <b>medidas protetivas</b>; determinar exames periciais; ouvir o agressor; verificar se ele tem <b>arma</b> e comunicar o órgão competente; remeter o inquérito.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 12-C (afastamento do lar pela polícia)</div><div class=\"art-lei\">Verificado risco atual ou iminente à vida ou à integridade da mulher, o agressor será imediatamente afastado do lar: I – pela autoridade judicial; II – pelo Delegado de Polícia, quando o Município não for sede de comarca; III – pelo policial, quando o Município não for sede de comarca e não houver Delegado disponível no momento da denúncia.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>É uma das poucas medidas que a <b>polícia</b> aplica diretamente.</li><li>A ordem é <b>escalonada</b>: juiz → Delegado (sem comarca) → policial (sem comarca e sem Delegado).</li><li>O juiz deve ser comunicado em <b>24 horas</b> e decide sobre a manutenção.</li><li>Nesses casos, <b>não se concede liberdade provisória</b> ao preso enquanto houver risco à vítima ou à efetividade da medida.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que o Delegado pode afastar o agressor em qualquer município.</li><li>Dizer que o policial pode afastar mesmo havendo Delegado disponível.</li></ul></div></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Medidas protetivas e consequências penais</h3>\n<ul><li>As medidas são concedidas pelo <b>juiz</b> em <b>48 horas</b>, a pedido da vítima ou do MP, e <b>independem</b> de tipificação penal, de ajuizamento de ação, de inquérito ou de registro de ocorrência (art. 19, § 5º, Lei 14.550/2023). Vigoram <b>enquanto houver risco</b>.</li><li><b>Descumprir medida protetiva</b> (art. 24-A): <b>reclusão de 2 a 5 anos</b> (Lei 14.994/2024). Na prisão em flagrante, <b>só o juiz</b> concede fiança.</li><li><b>Não se aplica a Lei 9.099</b> (art. 41): sem transação penal nem suspensão condicional do processo (Súmula 536 STJ).</li><li><b>Lesão corporal</b> (mesmo leve) contra a mulher em contexto doméstico: <b>ação penal pública incondicionada</b> (Súmula 542 STJ e ADI 4.424). Já a <b>ameaça</b> depende de representação, e a <b>renúncia</b> só vale perante o <b>juiz</b>, em audiência, antes do recebimento da denúncia (art. 16).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 600</b><p class=\"jc-tese\">Para a configuração da violência doméstica e familiar prevista no art. 5º da Lei 11.340/2006, não se exige a coabitação entre autor e vítima.</p><p class=\"jc-com\">Ex-namorado que agride a ex-companheira por inconformismo com o fim da relação está alcançado pela lei.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmulas 588 e 589</b><p class=\"jc-tese\">É inviável a substituição da pena privativa de liberdade por restritiva de direitos em crimes ou contravenções com violência ou grave ameaça contra a mulher no ambiente doméstico (588); e é inaplicável o princípio da insignificância nesses crimes (589).</p><p class=\"jc-com\">Também é vedada a aplicação isolada de pena de cesta básica ou prestação pecuniária (art. 17 da Lei).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A lei só se aplica se o casal morar junto</span><br>✅ <span class=\"certo\">Independe de coabitação (Súmula 600).</span></li><li>❌ <span class=\"banca\">O agressor precisa ser homem</span><br>✅ <span class=\"certo\">Sujeito ativo pode ser mulher; a vítima é mulher.</span></li><li>❌ <span class=\"banca\">Lesão leve contra a mulher depende de representação</span><br>✅ <span class=\"certo\">Ação pública incondicionada (Súmula 542).</span></li><li>❌ <span class=\"banca\">Cabe transação penal em violência doméstica</span><br>✅ <span class=\"certo\">A Lei 9.099 não se aplica (art. 41; Súmula 536).</span></li><li>❌ <span class=\"banca\">Medida protetiva exige boletim de ocorrência</span><br>✅ <span class=\"certo\">Independe de BO, inquérito ou ação (art. 19, § 5º).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Formas de violência?</span></span><span class=\"vs\"><span><b>Física, psicológica, sexual, patrimonial e moral</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo para remeter pedido de medida protetiva?</span></span><span class=\"vs\"><span><b>48 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento do lar pela polícia?</span></span><span class=\"vs\"><span><b>Delegado</b> (município sem comarca) ou <b>policial</b> (sem comarca e sem Delegado); juiz comunicado em <b>24 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Descumprir medida protetiva?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 5 anos</b>; fiança só pelo <b>juiz</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão leve doméstica?</span></span><span class=\"vs\"><span>Ação <b>pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 9.099?</span></span><span class=\"vs\"><span><b>Não se aplica</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A cidade sem comarca</b><p>Em um pequeno município mineiro que não é sede de comarca, a vítima chega à delegacia relatando que o marido ameaça matá-la com uma faca. O Delegado está presente.</p><details><summary>Ver a solução comentada</summary><p>Havendo risco atual ou iminente, o <b>Delegado</b> pode determinar o <b>afastamento imediato do agressor do lar</b> (art. 12-C, II), comunicando o juiz em <b>24 horas</b>. Deve ainda remeter o pedido de outras medidas protetivas em 48 horas, verificar se o agressor tem arma e registrar a ameaça (que depende de representação; a renúncia só perante o juiz).</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>formas de violência (física, psicológica, sexual, patrimonial e moral)</span></div><div class=\"lt-stat\"><b>48 h</b><span>para remeter ao juiz o pedido de medidas protetivas</span></div><div class=\"lt-stat\"><b>24 h</b><span>para comunicar ao juiz o afastamento do lar feito pelo Delegado ou policial</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão por descumprir medida protetiva (art. 24-A)</span></div></div>\n<h3>1. Quando se aplica</h3>\n<ul><li><b>Violência doméstica e familiar contra a mulher</b>: ação ou omissão <b>baseada no gênero</b> que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial (art. 5º), no âmbito: (I) da <b>unidade doméstica</b> (inclusive pessoas esporadicamente agregadas); (II) da <b>família</b>; (III) de <b>relação íntima de afeto</b>, <b>independentemente de coabitação</b>.</li><li>O <b>sujeito ativo</b> pode ser homem ou <b>mulher</b> (ex.: relação homoafetiva, mãe e filha). A vítima é <b>mulher</b>, inclusive <b>mulher trans</b> (STJ, REsp 1.977.124).</li><li>As relações independem de <b>orientação sexual</b> (art. 5º, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma (art. 7º)</th><th>Exemplos</th></tr></thead><tbody><tr><td>Física</td><td>agressões, empurrões, lesões</td></tr><tr><td><b>Psicológica</b></td><td>ameaça, humilhação, <b>controle</b>, vigilância, isolamento, manipulação</td></tr><tr><td>Sexual</td><td>forçar relação, impedir uso de contraceptivo, forçar aborto ou prostituição</td></tr><tr><td><b>Patrimonial</b></td><td>reter, subtrair ou <b>destruir</b> objetos, documentos, instrumentos de trabalho</td></tr><tr><td><b>Moral</b></td><td><b>calúnia, difamação ou injúria</b></td></tr></tbody></table>\n<h3>2. A atuação da polícia (arts. 10 a 12-C)</h3>\n<ul><li>Atendimento policial e pericial <b>especializado</b>, ininterrupto, preferencialmente por <b>servidoras do sexo feminino</b>, evitando a <b>revitimização</b> (perguntas repetidas e contato com o agressor).</li><li>A autoridade policial deve: registrar a ocorrência e ouvir a vítima; colher provas; <b>remeter ao juiz, em 48 horas</b>, o pedido de <b>medidas protetivas</b>; determinar exames periciais; ouvir o agressor; verificar se ele tem <b>arma</b> e comunicar o órgão competente; remeter o inquérito.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 12-C (afastamento do lar pela polícia)</div><div class=\"art-lei\">Verificado risco atual ou iminente à vida ou à integridade da mulher, o agressor será imediatamente afastado do lar: I – pela autoridade judicial; II – pelo Delegado de Polícia, quando o Município não for sede de comarca; III – pelo policial, quando o Município não for sede de comarca e não houver Delegado disponível no momento da denúncia.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>É uma das poucas medidas que a <b>polícia</b> aplica diretamente.</li><li>A ordem é <b>escalonada</b>: juiz → Delegado (sem comarca) → policial (sem comarca e sem Delegado).</li><li>O juiz deve ser comunicado em <b>24 horas</b> e decide sobre a manutenção.</li><li>Nesses casos, <b>não se concede liberdade provisória</b> ao preso enquanto houver risco à vítima ou à efetividade da medida.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que o Delegado pode afastar o agressor em qualquer município.</li><li>Dizer que o policial pode afastar mesmo havendo Delegado disponível.</li></ul></div></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Medidas protetivas e consequências penais</h3>\n<ul><li><b>Providências imediatas da polícia</b> (art. 11): garantir <b>proteção policial</b>, comunicando de imediato o MP e o Judiciário; <b>encaminhar</b> a ofendida ao hospital, posto de saúde e IML; fornecer <b>transporte</b> para ela e os dependentes até <b>abrigo</b> ou local seguro, quando houver risco de vida; <b>acompanhá-la</b> para retirar seus pertences do domicílio; <b>informá-la</b> dos seus direitos. A ofendida <b>não pode entregar</b> intimação ou notificação ao agressor (art. 21, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Medidas que obrigam o agressor (art. 22)</th><th>Medidas em favor da ofendida (arts. 23 e 24)</th></tr></thead><tbody><tr><td><b>suspensão da posse ou restrição do porte</b> de armas</td><td>encaminhamento a programa de <b>proteção</b> ou de atendimento</td></tr><tr><td><b>afastamento do lar</b></td><td><b>recondução</b> ao domicílio após o afastamento do agressor</td></tr><tr><td><b>proibição de aproximação</b> da ofendida, familiares e testemunhas, <b>fixando o limite mínimo de distância</b></td><td>afastamento da ofendida do lar, sem prejuízo de seus direitos</td></tr><tr><td>proibição de <b>contato</b> por qualquer meio de comunicação</td><td>matrícula dos dependentes em escola próxima</td></tr><tr><td>proibição de <b>frequentar</b> determinados lugares</td><td><b>restituição de bens</b> indevidamente subtraídos pelo agressor</td></tr><tr><td>restrição ou suspensão de <b>visitas</b> aos dependentes</td><td>proibição temporária de atos e contratos de compra, venda e locação de bens comuns</td></tr><tr><td><b>alimentos</b> provisionais; comparecimento a programas de <b>recuperação</b>; acompanhamento psicossocial</td><td>prestação de <b>caução</b> provisória por perdas e danos</td></tr></tbody></table>\n<ul><li><b>Juizados de Violência Doméstica e Familiar contra a Mulher</b> (art. 14): órgãos da Justiça Ordinária com competência <b>cível e criminal</b>, para processar, julgar e executar as causas decorrentes desses casos. Enquanto não instalados, as varas criminais acumulam essa competência (art. 33).</li><li><b>Prisão preventiva</b> (art. 20): cabe <b>em qualquer fase</b> do inquérito ou da instrução, a requerimento do MP ou mediante <b>representação da autoridade policial</b> (após o Pacote Anticrime, o juiz não a decreta de ofício). O descumprimento de medida protetiva também autoriza a preventiva (CPP, art. 313, III).</li><li>As medidas são concedidas pelo <b>juiz</b> em <b>48 horas</b>, a pedido da vítima ou do MP, e <b>independem</b> de tipificação penal, de ajuizamento de ação, de inquérito ou de registro de ocorrência (art. 19, § 5º, Lei 14.550/2023). Vigoram <b>enquanto houver risco</b>.</li><li><b>Descumprir medida protetiva</b> (art. 24-A): <b>reclusão de 2 a 5 anos</b> (Lei 14.994/2024). Na prisão em flagrante, <b>só o juiz</b> concede fiança.</li><li><b>Não se aplica a Lei 9.099</b> (art. 41): sem transação penal nem suspensão condicional do processo (Súmula 536 STJ).</li><li><b>Lesão corporal</b> (mesmo leve) contra a mulher em contexto doméstico: <b>ação penal pública incondicionada</b> (Súmula 542 STJ e ADI 4.424). Já a <b>ameaça</b> depende de representação, e a <b>renúncia</b> só vale perante o <b>juiz</b>, em audiência, antes do recebimento da denúncia (art. 16).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 600</b><p class=\"jc-tese\">Para a configuração da violência doméstica e familiar prevista no art. 5º da Lei 11.340/2006, não se exige a coabitação entre autor e vítima.</p><p class=\"jc-com\">Ex-namorado que agride a ex-companheira por inconformismo com o fim da relação está alcançado pela lei.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmulas 588 e 589</b><p class=\"jc-tese\">É inviável a substituição da pena privativa de liberdade por restritiva de direitos em crimes ou contravenções com violência ou grave ameaça contra a mulher no ambiente doméstico (588); e é inaplicável o princípio da insignificância nesses crimes (589).</p><p class=\"jc-com\">Também é vedada a aplicação isolada de pena de cesta básica ou prestação pecuniária (art. 17 da Lei).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A lei só se aplica se o casal morar junto</span><br>✅ <span class=\"certo\">Independe de coabitação (Súmula 600).</span></li><li>❌ <span class=\"banca\">O agressor precisa ser homem</span><br>✅ <span class=\"certo\">Sujeito ativo pode ser mulher; a vítima é mulher.</span></li><li>❌ <span class=\"banca\">Lesão leve contra a mulher depende de representação</span><br>✅ <span class=\"certo\">Ação pública incondicionada (Súmula 542).</span></li><li>❌ <span class=\"banca\">Cabe transação penal em violência doméstica</span><br>✅ <span class=\"certo\">A Lei 9.099 não se aplica (art. 41; Súmula 536).</span></li><li>❌ <span class=\"banca\">Medida protetiva exige boletim de ocorrência</span><br>✅ <span class=\"certo\">Independe de BO, inquérito ou ação (art. 19, § 5º).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Formas de violência?</span></span><span class=\"vs\"><span><b>Física, psicológica, sexual, patrimonial e moral</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo para remeter pedido de medida protetiva?</span></span><span class=\"vs\"><span><b>48 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento do lar pela polícia?</span></span><span class=\"vs\"><span><b>Delegado</b> (município sem comarca) ou <b>policial</b> (sem comarca e sem Delegado); juiz comunicado em <b>24 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Descumprir medida protetiva?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 5 anos</b>; fiança só pelo <b>juiz</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão leve doméstica?</span></span><span class=\"vs\"><span>Ação <b>pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 9.099?</span></span><span class=\"vs\"><span><b>Não se aplica</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A cidade sem comarca</b><p>Em um pequeno município mineiro que não é sede de comarca, a vítima chega à delegacia relatando que o marido ameaça matá-la com uma faca. O Delegado está presente.</p><details><summary>Ver a solução comentada</summary><p>Havendo risco atual ou iminente, o <b>Delegado</b> pode determinar o <b>afastamento imediato do agressor do lar</b> (art. 12-C, II), comunicando o juiz em <b>24 horas</b>. Deve ainda remeter o pedido de outras medidas protetivas em 48 horas, verificar se o agressor tem arma e registrar a ameaça (que depende de representação; a renúncia só perante o juiz).</p></details></div>",
 "quiz": [
 {
 "p": "A configuração da violência doméstica e familiar contra a mulher no âmbito de relação íntima de afeto independe de coabitação.",
@@ -12680,6 +12680,1606 @@ export const PROFUNDO = {
 "prof": "Também naturalizados há mais de 10 anos.",
 "x": "O art. 222 admite brasileiros natos ou naturalizados há mais de 10 anos e pessoas jurídicas constituídas sob as leis brasileiras e com sede no País, com pelo menos 70% do capital pertencente a esses brasileiros.",
 "e": "Imprensa: nato ou naturalizado há 10 anos."
+}
+]
+},
+"nacionalidade": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>hipóteses de brasileiro nato (art. 12, I)</span></div><div class=\"lt-stat\"><b>7</b><span>cargos privativos de brasileiro nato (art. 12, § 3º)</span></div><div class=\"lt-stat\"><b>15 anos</b><span>de residência na naturalização extraordinária</span></div><div class=\"lt-stat\"><b>1 ano</b><span>de antecedência: anterioridade da lei eleitoral (art. 16)</span></div></div>\n<h3>1. Conceitos básicos</h3>\n<ul><li><b>Nacionalidade</b> é o vínculo jurídico-político que liga uma pessoa a um Estado, tornando-a parte do seu <b>povo</b>. Não confunda: <b>povo</b> (os nacionais), <b>população</b> (todos que estão no território, inclusive estrangeiros) e <b>cidadão</b> (o nacional no gozo dos direitos políticos, que vota e pode ser votado).</li><li><b>Nacionalidade primária (originária)</b>: decorre do <b>nascimento</b>; a pessoa não escolhe. Gera o <b>brasileiro nato</b>. Critérios: <b>ius soli</b> (lugar do nascimento) e <b>ius sanguinis</b> (sangue, filiação). O Brasil adota o ius soli como regra, com hipóteses de ius sanguinis.</li><li><b>Nacionalidade secundária (adquirida)</b>: decorre de um <b>ato de vontade</b> depois do nascimento, pela <b>naturalização</b>. Gera o <b>brasileiro naturalizado</b>.</li><li>Só a <b>Constituição</b> pode tratar das hipóteses de nacionalidade originária e das diferenças entre natos e naturalizados. A lei <b>não pode</b> criar distinções, salvo nos casos previstos na própria Constituição (art. 12, § 2º).</li></ul>\n<h3>2. Brasileiro nato (art. 12, I)</h3>\n<table class=\"tab\"><thead><tr><th>Hipótese</th><th>Onde nasceu</th><th>Condição</th><th>Critério</th></tr></thead><tbody><tr><td><b>a)</b></td><td><b>no Brasil</b></td><td>ainda que de pais estrangeiros, <b>desde que estes não estejam a serviço de seu país</b></td><td>ius soli</td></tr><tr><td><b>b)</b></td><td><b>no estrangeiro</b></td><td>filho de pai <b>ou</b> mãe brasileiros, desde que <b>qualquer deles</b> esteja <b>a serviço da República Federativa do Brasil</b></td><td>ius sanguinis + serviço</td></tr><tr><td><b>c)</b></td><td><b>no estrangeiro</b></td><td>filho de pai ou mãe brasileiros, desde que seja <b>registrado em repartição brasileira competente</b> <b>ou</b> venha a <b>residir no Brasil</b> e <b>opte</b>, <b>a qualquer tempo, depois de atingida a maioridade</b>, pela nacionalidade brasileira</td><td>ius sanguinis + registro ou opção (nacionalidade <b>potestativa</b>)</td></tr></tbody></table>\n<ul><li>Na alínea \"a\", se <b>só um</b> dos pais estrangeiros está a serviço do seu país e o outro não, a criança nascida no Brasil é <b>brasileira nata</b>: a exceção exige que os pais estejam a serviço do país estrangeiro.</li><li>\"A serviço da República Federativa do Brasil\" abrange o serviço da <b>União, Estados, DF, Municípios</b> e de suas entidades da administração indireta, e não só o serviço diplomático.</li><li>A <b>opção</b> da alínea \"c\" é <b>personalíssima</b>, só pode ser feita <b>depois da maioridade</b> e é processada perante a <b>Justiça Federal</b> (art. 109, X). Enquanto <b>menor</b>, quem veio residir no Brasil é considerado brasileiro nato; <b>atingida a maioridade</b>, a nacionalidade fica <b>suspensa</b> até que ele faça a opção (condição suspensiva, segundo o STF).</li></ul>\n<h3>3. Brasileiro naturalizado (art. 12, II)</h3>\n<table class=\"tab\"><thead><tr><th>Espécie</th><th>Requisitos</th><th>Observação</th></tr></thead><tbody><tr><td><b>Ordinária</b> (art. 12, II, \"a\")</td><td>na forma da lei; para originários de <b>países de língua portuguesa</b>, basta <b>residência por 1 ano ininterrupto</b> e <b>idoneidade moral</b></td><td>para os demais, a <b>Lei de Migração</b> (Lei 13.445/2017) exige, entre outros: capacidade civil, <b>residência por 4 anos</b> (pode ser reduzida), comunicar-se em português e não ter condenação. A concessão é <b>ato discricionário</b> do Poder Executivo</td></tr><tr><td><b>Extraordinária</b> (art. 12, II, \"b\")</td><td>estrangeiro de qualquer nacionalidade, residente no Brasil há <b>mais de 15 anos ininterruptos</b> e <b>sem condenação penal</b>, <b>desde que requeira</b></td><td>preenchidos os requisitos, é <b>direito subjetivo</b> (o Estado não pode negar)</td></tr><tr><td><b>Provisória</b> (Lei 13.445, art. 70)</td><td>criança ou adolescente que <b>fixou residência no Brasil antes dos 10 anos</b></td><td>torna-se <b>definitiva</b> se requerida em até <b>2 anos após a maioridade</b></td></tr></tbody></table>\n<ul><li><b>Quase-nacionalidade</b> (art. 12, § 1º): aos <b>portugueses com residência permanente</b> no Brasil, <b>se houver reciprocidade</b> em favor dos brasileiros, são atribuídos os direitos inerentes ao <b>brasileiro</b>, <b>salvo</b> os casos previstos na Constituição. O português não se naturaliza: continua português, mas exerce direitos de brasileiro (inclusive votar e ser votado, se requerer).</li></ul>\n<h3>4. Diferenças entre nato e naturalizado (taxativas)</h3>\n<table class=\"tab\"><thead><tr><th>Diferença</th><th>Regra</th></tr></thead><tbody><tr><td><b>Cargos privativos de nato</b> (art. 12, § 3º)</td><td><b>Presidente e Vice-Presidente da República</b>; <b>Presidente da Câmara</b> dos Deputados; <b>Presidente do Senado</b> Federal; <b>Ministro do STF</b>; carreira <b>diplomática</b>; <b>oficial das Forças Armadas</b>; <b>Ministro de Estado da Defesa</b></td></tr><tr><td><b>Conselho da República</b> (art. 89, VII)</td><td><b>6 cidadãos brasileiros natos</b> com mais de 35 anos</td></tr><tr><td><b>Extradição</b> (art. 5º, LI)</td><td>o <b>nato nunca</b> é extraditado; o <b>naturalizado</b> pode ser, por <b>crime comum praticado antes da naturalização</b> ou por <b>comprovado envolvimento em tráfico de drogas</b>, na forma da lei (antes ou depois)</td></tr><tr><td><b>Empresa jornalística e de radiodifusão</b> (art. 222)</td><td>propriedade privativa de brasileiros <b>natos</b> ou <b>naturalizados há mais de 10 anos</b></td></tr><tr><td><b>Perda da nacionalidade</b> (art. 12, § 4º, I)</td><td>só o <b>naturalizado</b> pode ter a naturalização <b>cancelada</b> por sentença</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> MP3.COM | <b>M</b>inistro do STF · <b>P</b>residente e Vice da República · <b>P</b>residente da Câmara · <b>P</b>residente do Senado · <b>C</b>arreira diplomática · <b>O</b>ficial das Forças Armadas · <b>M</b>inistro da Defesa.</div>\n<ul><li>Por que esses cargos? São os da <b>linha sucessória</b> da Presidência (Vice, Presidente da Câmara, Presidente do Senado, Presidente do STF, que sai dos Ministros do STF) e os ligados à <b>segurança nacional</b> e à <b>representação externa</b> (diplomatas, oficiais, Ministro da Defesa).</li><li><b>Deputado, senador, ministro de Estado em geral, ministro do STJ, governador e prefeito podem ser naturalizados.</b> Só a <b>presidência</b> das Casas é privativa de nato.</li></ul>\n<h3>5. Perda da nacionalidade (art. 12, §§ 4º e 5º, com a EC 131/2023)</h3>\n<ul><li>Perde a nacionalidade o brasileiro que: <b>I</b> – tiver <b>cancelada sua naturalização</b>, por <b>sentença judicial</b>, em razão de <b>fraude</b> relacionada ao processo de naturalização ou de <b>atentado contra a ordem constitucional e o Estado Democrático</b>; <b>II</b> – fizer <b>pedido expresso de perda</b> da nacionalidade brasileira perante autoridade brasileira competente, <b>ressalvadas situações que acarretem apatridia</b>.</li><li>A renúncia do inciso II <b>não impede</b> o interessado de <b>readquirir</b> sua nacionalidade brasileira <b>originária</b>, nos termos da lei (§ 5º).</li><li><b>O que mudou</b>: antes da EC 131/2023, o brasileiro que <b>adquirisse outra nacionalidade</b> perdia a brasileira (salvo exceções). Hoje, <b>adquirir outra nacionalidade não faz perder</b> a brasileira: a perda depende de <b>pedido expresso</b>.</li><li>O cancelamento do inciso I atinge só o <b>naturalizado</b> e depende de <b>sentença judicial</b> (ação proposta pelo MPF na Justiça Federal). Cancelada a naturalização, a pessoa só pode readquiri-la por <b>ação rescisória</b>, segundo a doutrina majoritária.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quem nasce no Brasil de pais estrangeiros nunca é brasileiro nato</span><br>✅ <span class=\"certo\">É nato, salvo se os pais estiverem a serviço do seu país.</span></li><li>❌ <span class=\"banca\">A opção da alínea \"c\" pode ser feita pelos pais quando o filho é menor</span><br>✅ <span class=\"certo\">É personalíssima e só depois da maioridade.</span></li><li>❌ <span class=\"banca\">Ministro de Estado precisa ser nato</span><br>✅ <span class=\"certo\">Só o Ministro da DEFESA.</span></li><li>❌ <span class=\"banca\">Senador e deputado precisam ser natos</span><br>✅ <span class=\"certo\">Só os PRESIDENTES das Casas.</span></li><li>❌ <span class=\"banca\">O brasileiro que adquire outra nacionalidade perde a brasileira</span><br>✅ <span class=\"certo\">Após a EC 131/2023, só perde por pedido expresso.</span></li><li>❌ <span class=\"banca\">O naturalizado nunca pode ser extraditado</span><br>✅ <span class=\"certo\">Pode: crime comum antes da naturalização ou tráfico.</span></li></ol></div>\n<h3>6. Direitos políticos: soberania popular e alistamento (art. 14)</h3>\n<ul><li>A soberania popular é exercida pelo <b>sufrágio universal</b> e pelo <b>voto direto e secreto</b>, com valor igual para todos, e, nos termos da lei, mediante <b>plebiscito</b> (consulta <b>prévia</b> ao ato), <b>referendo</b> (consulta <b>posterior</b>, que confirma ou rejeita o ato) e <b>iniciativa popular</b>.</li><li><b>Sufrágio</b> é o direito de votar e ser votado; <b>voto</b> é o exercício do sufrágio; <b>escrutínio</b> é o modo de votar (secreto). O <b>voto direto, secreto, universal e periódico</b> é <b>cláusula pétrea</b> (art. 60, § 4º, II). A <b>obrigatoriedade</b> do voto <b>não</b> é cláusula pétrea.</li><li><b>Iniciativa popular de lei federal</b> (art. 61, § 2º): projeto subscrito por, no mínimo, <b>1% do eleitorado nacional</b>, distribuído por pelo menos <b>5 Estados</b>, com não menos de <b>0,3%</b> dos eleitores de cada um deles.</li></ul>\n<table class=\"tab\"><thead><tr><th>Alistamento e voto</th><th>Quem</th></tr></thead><tbody><tr><td><b>Obrigatórios</b></td><td>maiores de <b>18</b> anos</td></tr><tr><td><b>Facultativos</b></td><td><b>analfabetos</b>; maiores de <b>70</b> anos; maiores de <b>16</b> e menores de <b>18</b> anos</td></tr><tr><td><b>Inalistáveis</b> (não votam)</td><td><b>estrangeiros</b> e, durante o serviço militar obrigatório, os <b>conscritos</b></td></tr></tbody></table>\n<h3>7. Elegibilidade e inelegibilidades</h3>\n<ul><li><b>Condições de elegibilidade</b> (art. 14, § 3º): nacionalidade brasileira; pleno exercício dos direitos políticos; alistamento eleitoral; <b>domicílio eleitoral</b> na circunscrição; <b>filiação partidária</b> (não existe candidatura avulsa); e <b>idade mínima</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Idade mínima</th><th>Cargos</th></tr></thead><tbody><tr><td><b>35</b></td><td>Presidente, Vice-Presidente e <b>Senador</b></td></tr><tr><td><b>30</b></td><td>Governador e Vice-Governador</td></tr><tr><td><b>21</b></td><td>Deputado federal, estadual ou distrital, Prefeito, Vice-Prefeito e <b>juiz de paz</b></td></tr><tr><td><b>18</b></td><td><b>Vereador</b></td></tr></tbody></table>\n<ul><li>A idade mínima é verificada, em regra, na <b>data da posse</b>; para vereador (18 anos), na <b>data-limite do pedido de registro</b> (Lei 9.504/1997, art. 11, § 2º).</li><li><b>Inelegíveis absolutos</b> (§ 4º): os <b>inalistáveis</b> e os <b>analfabetos</b>. O analfabeto <b>pode votar</b> (facultativo), mas <b>não pode ser votado</b>.</li><li><b>Reeleição</b> (§ 5º): Presidente, Governadores, Prefeitos e quem os houver sucedido ou substituído no curso do mandato podem ser reeleitos para <b>um único período subsequente</b>.</li><li><b>Desincompatibilização</b> (§ 6º): para concorrer a <b>outros cargos</b>, o Presidente, os Governadores e os Prefeitos devem <b>renunciar</b> aos mandatos até <b>6 meses antes</b> do pleito. Para a <b>reeleição</b>, não precisam se afastar.</li><li><b>Inelegibilidade reflexa</b> (§ 7º): são inelegíveis, <b>no território de jurisdição do titular</b>, o <b>cônjuge</b> e os <b>parentes</b> consanguíneos ou afins, <b>até o segundo grau</b> ou por adoção, do Presidente, Governador, Prefeito ou de quem os haja substituído nos 6 meses anteriores ao pleito, <b>salvo</b> se já titular de mandato eletivo e candidato à <b>reeleição</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 18</b><p class=\"jc-tese\">A dissolução da sociedade ou do vínculo conjugal, no curso do mandato, não afasta a inelegibilidade prevista no § 7º do art. 14 da Constituição Federal.</p><p class=\"jc-com\">O divórcio durante o mandato não \"libera\" a ex-esposa do prefeito para concorrer à sucessão dele: a súmula evita fraude ao impedimento.</p></div>\n<ul><li><b>Militar alistável</b> (§ 8º): se contar <b>menos de 10 anos</b> de serviço, deve <b>afastar-se</b> da atividade; se contar <b>mais de 10 anos</b>, será <b>agregado</b> pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a <b>inatividade</b>.</li><li><b>Outros casos de inelegibilidade</b>: por <b>lei complementar</b> (§ 9º), para proteger a probidade, a moralidade e a normalidade das eleições. É a <b>LC 64/1990</b>, alterada pela <b>LC 135/2010 (Lei da Ficha Limpa)</b>, que, por exemplo, torna inelegível por <b>8 anos</b> o condenado por órgão colegiado por certos crimes, mesmo antes do trânsito em julgado.</li><li><b>Ação de impugnação de mandato eletivo</b> (§§ 10 e 11): proposta na Justiça Eleitoral em até <b>15 dias</b> contados da <b>diplomação</b>, instruída com provas de <b>abuso do poder econômico, corrupção ou fraude</b>; tramita em <b>segredo de justiça</b>.</li></ul>\n<h3>8. Perda e suspensão dos direitos políticos (art. 15)</h3>\n<ul><li>É <b>vedada a cassação</b> de direitos políticos. A Constituição só admite <b>perda</b> (definitiva) ou <b>suspensão</b> (temporária), nos casos taxativos do art. 15:</li></ul>\n<table class=\"tab\"><thead><tr><th>Hipótese</th><th>Natureza (doutrina)</th></tr></thead><tbody><tr><td><b>Cancelamento da naturalização</b> por sentença transitada em julgado</td><td><b>perda</b></td></tr><tr><td><b>Incapacidade civil absoluta</b></td><td>suspensão</td></tr><tr><td><b>Condenação criminal transitada em julgado</b>, enquanto durarem seus efeitos</td><td>suspensão (vale para crime e contravenção, mesmo com pena substituída ou suspensa)</td></tr><tr><td><b>Recusa de cumprir obrigação a todos imposta ou prestação alternativa</b> (art. 5º, VIII)</td><td>para a maioria, suspensão (para parte da doutrina, perda)</td></tr><tr><td><b>Improbidade administrativa</b> (art. 37, § 4º)</td><td>suspensão</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 370 (RE 601.182)</b><p class=\"jc-tese\">A suspensão de direitos políticos prevista no art. 15, III, da Constituição Federal aplica-se no caso de substituição da pena privativa de liberdade pela restritiva de direitos.</p><p class=\"jc-com\">Mesmo quem cumpre pena alternativa fica com os direitos políticos suspensos até a extinção da pena. Cumprida ou extinta a pena, os direitos voltam automaticamente, sem necessidade de reabilitação (Súmula 9 do TSE).</p></div>\n<h3>9. Anterioridade eleitoral e partidos políticos</h3>\n<ul><li><b>Anterioridade eleitoral</b> (art. 16): a lei que <b>alterar o processo eleitoral</b> entra em vigor na <b>data de sua publicação</b>, mas <b>não se aplica à eleição que ocorra até 1 ano</b> da data de sua vigência. Protege a igualdade de chances e evita mudar as regras \"no meio do jogo\".</li><li><b>Partidos políticos</b> (art. 17): é <b>livre</b> a criação, fusão, incorporação e extinção, resguardados a <b>soberania nacional</b>, o <b>regime democrático</b>, o <b>pluripartidarismo</b> e os <b>direitos fundamentais</b>. Preceitos: <b>caráter nacional</b>; <b>proibição de receber recursos de entidade ou governo estrangeiros</b> ou de subordinação a eles; <b>prestação de contas</b> à Justiça Eleitoral; funcionamento parlamentar de acordo com a lei.</li><li>Os partidos adquirem <b>personalidade jurídica na forma da lei civil</b> (são <b>pessoas jurídicas de direito privado</b>) e registram seus estatutos no <b>TSE</b>. Têm <b>autonomia</b> para definir estrutura interna e organização.</li><li>É <b>vedada</b> a utilização de <b>organização paramilitar</b> pelos partidos e a celebração de <b>coligações nas eleições proporcionais</b> (deputados e vereadores), desde a EC 97/2017. As coligações continuam permitidas nas eleições <b>majoritárias</b>.</li><li><b>Cláusula de desempenho</b>: só têm acesso ao <b>fundo partidário</b> e ao <b>tempo gratuito de rádio e TV</b> os partidos que atingirem um percentual mínimo de votos ou de deputados eleitos.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 5.081</b><p class=\"jc-tese\">A perda do mandato em razão de mudança de partido não se aplica aos candidatos eleitos pelo sistema majoritário, sob pena de violação da soberania popular e das escolhas feitas pelo eleitor.</p><p class=\"jc-com\">A <b>fidelidade partidária</b> (perda do mandato por trocar de partido sem justa causa) vale para os cargos <b>proporcionais</b> (deputados e vereadores), em que o mandato \"pertence\" ao partido. Senadores, prefeitos, governadores e o Presidente não perdem o mandato por isso.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O analfabeto não pode votar</span><br>✅ <span class=\"certo\">Pode votar (facultativo); não pode ser votado.</span></li><li>❌ <span class=\"banca\">O conscrito pode votar se quiser</span><br>✅ <span class=\"certo\">É inalistável durante o serviço militar obrigatório.</span></li><li>❌ <span class=\"banca\">A Constituição admite cassação de direitos políticos</span><br>✅ <span class=\"certo\">Veda a cassação; admite perda e suspensão.</span></li><li>❌ <span class=\"banca\">Para concorrer à reeleição, o Prefeito deve se afastar 6 meses antes</span><br>✅ <span class=\"certo\">A desincompatibilização é para OUTROS cargos.</span></li><li>❌ <span class=\"banca\">Divórcio no curso do mandato afasta a inelegibilidade reflexa</span><br>✅ <span class=\"certo\">SV 18: não afasta.</span></li><li>❌ <span class=\"banca\">Coligações são vedadas em todas as eleições</span><br>✅ <span class=\"certo\">Só nas PROPORCIONAIS.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hipóteses de nato?</span></span><span class=\"vs\"><span>Nascido no Brasil (pais estrangeiros não a serviço de seu país); no exterior, pai ou mãe a <b>serviço do Brasil</b>; no exterior, pai ou mãe brasileiro + <b>registro</b> ou <b>residência e opção</b> após a maioridade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Naturalização extraordinária?</span></span><span class=\"vs\"><span><b>15 anos</b> ininterruptos + sem condenação + requerimento.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cargos de nato?</span></span><span class=\"vs\"><span><b>MP3.COM</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perda da nacionalidade hoje?</span></span><span class=\"vs\"><span><b>Cancelamento</b> judicial da naturalização ou <b>pedido expresso</b> (sem apatridia).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Idades mínimas?</span></span><span class=\"vs\"><span><b>35</b> Presidente/Vice/Senador; <b>30</b> Governador; <b>21</b> Deputado/Prefeito/juiz de paz; <b>18</b> Vereador.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Inelegibilidade reflexa?</span></span><span class=\"vs\"><span>Cônjuge e parentes até o <b>2º grau</b>, no território do titular, salvo reeleição.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Anterioridade eleitoral?</span></span><span class=\"vs\"><span>Vigora na publicação; não se aplica à eleição em até <b>1 ano</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O filho do diplomata</b><p>Pedro nasceu em Lisboa, filho de mãe brasileira que trabalhava no consulado do Brasil e de pai português. Aos 30 anos, quer ser candidato a Senador por Minas.</p><details><summary>Ver a solução comentada</summary><p>Pedro é <b>brasileiro nato</b> (art. 12, I, \"b\": nascido no estrangeiro de mãe brasileira <b>a serviço do Brasil</b>), sem necessidade de registro ou opção. Para concorrer a Senador precisa ter <b>35 anos</b> na posse, estar alistado, ter domicílio eleitoral em MG e filiação partidária. Com 30 anos, ainda não preenche a idade mínima.</p></details></div>",
+"quiz": [
+{
+"p": "É brasileiro nato o nascido no Brasil, filho de pai alemão e mãe argentina, ambos turistas no país, sem qualquer vínculo de serviço com seus Estados de origem.",
+"c": true,
+"prof": "Ius soli com uma única exceção.",
+"x": "O art. 12, I, \"a\", só afasta a nacionalidade originária quando os pais estrangeiros estão a serviço de seu país. Pais turistas não afastam o ius soli.",
+"e": "Pais turistas: filho nato."
+},
+{
+"p": "O filho de diplomatas franceses em serviço no Brasil, nascido em Brasília, é brasileiro nato.",
+"c": false,
+"prof": "É a exceção do ius soli.",
+"x": "Nascido no Brasil de pais estrangeiros que estejam a serviço do seu país não é brasileiro nato (art. 12, I, \"a\").",
+"e": "Pais a serviço do seu país: não é nato."
+},
+{
+"p": "É brasileiro nato o nascido no estrangeiro, de pai brasileiro que lá estava a serviço de um Município brasileiro.",
+"c": true,
+"prof": "\"A serviço da República Federativa do Brasil\" é amplo.",
+"x": "O serviço pode ser da União, de Estado, do DF, de Município ou de suas entidades. Basta que um dos pais esteja a serviço do Brasil.",
+"e": "Serviço de Município conta."
+},
+{
+"p": "A opção pela nacionalidade brasileira prevista no art. 12, I, \"c\", pode ser manifestada pelos pais em nome do filho menor, desde que residam no Brasil.",
+"c": false,
+"prof": "Ato personalíssimo.",
+"x": "A opção só pode ser feita pelo próprio interessado, a qualquer tempo, depois de atingida a maioridade, perante a Justiça Federal.",
+"e": "Opção: só após a maioridade."
+},
+{
+"p": "O originário de país de língua portuguesa pode se naturalizar brasileiro com residência por um ano ininterrupto e idoneidade moral.",
+"c": true,
+"prof": "Art. 12, II, \"a\".",
+"x": "É a naturalização ordinária facilitada. Para os demais estrangeiros, os requisitos estão na Lei de Migração.",
+"e": "Língua portuguesa: 1 ano + idoneidade."
+},
+{
+"p": "A naturalização extraordinária exige residência no Brasil por mais de 10 anos ininterruptos e ausência de condenação penal.",
+"c": false,
+"prof": "O prazo é maior.",
+"x": "São exigidos mais de 15 anos ininterruptos de residência, sem condenação penal, e requerimento do interessado (art. 12, II, \"b\").",
+"e": "Extraordinária: 15 anos."
+},
+{
+"p": "Preenchidos os requisitos da naturalização extraordinária, o estrangeiro tem direito subjetivo à naturalização, segundo o STF.",
+"c": true,
+"prof": "Ordinária x extraordinária.",
+"x": "Na ordinária, a concessão é discricionária. Na extraordinária, cumpridos os requisitos constitucionais, o Estado não pode negar.",
+"e": "Extraordinária: direito subjetivo."
+},
+{
+"p": "O português com residência permanente no Brasil adquire automaticamente a nacionalidade brasileira, desde que haja reciprocidade.",
+"c": false,
+"prof": "Quase-nacionalidade não é naturalização.",
+"x": "Havendo reciprocidade, ele recebe os direitos inerentes ao brasileiro, salvo os casos previstos na Constituição, mas continua português (art. 12, § 1º).",
+"e": "Português: direitos de brasileiro, não nacionalidade."
+},
+{
+"p": "Lei ordinária pode estabelecer novas distinções entre brasileiros natos e naturalizados, desde que razoáveis.",
+"c": false,
+"prof": "Art. 12, § 2º.",
+"x": "A lei não pode estabelecer distinção entre natos e naturalizados, salvo nos casos previstos na própria Constituição.",
+"e": "Distinções: só a CF."
+},
+{
+"p": "O cargo de Ministro de Estado da Justiça pode ser ocupado por brasileiro naturalizado.",
+"c": true,
+"prof": "Qual ministério é exceção?",
+"x": "Entre os Ministros de Estado, só o da Defesa precisa ser brasileiro nato (art. 12, § 3º, VII).",
+"e": "Só o Ministro da Defesa é nato."
+},
+{
+"p": "Somente brasileiros natos podem ser eleitos Senadores da República.",
+"c": false,
+"prof": "Membro x Presidente da Casa.",
+"x": "Senadores e deputados podem ser naturalizados. Privativo de nato é apenas o cargo de Presidente do Senado e o de Presidente da Câmara.",
+"e": "Senador pode ser naturalizado."
+},
+{
+"p": "Integram o Conselho da República seis cidadãos brasileiros natos, com mais de 35 anos de idade.",
+"c": true,
+"prof": "Art. 89, VII.",
+"x": "Dois são nomeados pelo Presidente da República, dois eleitos pelo Senado e dois eleitos pela Câmara, com mandato de 3 anos, vedada a recondução.",
+"e": "Conselho da República: 6 natos."
+},
+{
+"p": "Sobre a extradição de brasileiros, segundo a Constituição, assinale a afirmativa correta.",
+"alts": [
+"O brasileiro nato pode ser extraditado por tráfico de drogas.",
+"O naturalizado nunca pode ser extraditado.",
+"O naturalizado pode ser extraditado por crime comum praticado antes da naturalização ou por comprovado envolvimento em tráfico ilícito de entorpecentes.",
+"O naturalizado pode ser extraditado por qualquer crime praticado depois da naturalização.",
+"Só o estrangeiro naturalizado há menos de 10 anos pode ser extraditado."
+],
+"r": 2,
+"n": [
+"O nato nunca é extraditado.",
+"Há duas hipóteses.",
+"Correta: art. 5º, LI.",
+"Depois da naturalização, só o tráfico.",
+"Não há esse critério."
+],
+"prof": "Nato: nunca. Naturalizado: crime comum antes ou tráfico.",
+"x": "O art. 5º, LI, proíbe a extradição do nato e a admite para o naturalizado em caso de crime comum praticado antes da naturalização ou de comprovado envolvimento em tráfico, na forma da lei.",
+"e": "Naturalizado: crime anterior ou tráfico."
+},
+{
+"p": "A propriedade de empresa jornalística e de radiodifusão sonora e de sons e imagens é privativa de brasileiros natos ou naturalizados há mais de dez anos.",
+"c": true,
+"prof": "Art. 222.",
+"x": "A regra também se aplica a pessoas jurídicas constituídas sob as leis brasileiras e com sede no país.",
+"e": "Imprensa: natos ou naturalizados há + de 10 anos."
+},
+{
+"p": "Após a EC 131/2023, o brasileiro nato que adquire voluntariamente outra nacionalidade perde a nacionalidade brasileira.",
+"c": false,
+"prof": "A emenda mudou essa regra.",
+"x": "Hoje, a perda só ocorre por cancelamento judicial da naturalização (fraude ou atentado contra a ordem constitucional) ou por pedido expresso, ressalvada a apatridia.",
+"e": "Outra nacionalidade não faz perder."
+},
+{
+"p": "A renúncia expressa à nacionalidade brasileira não impede o interessado de readquirir a nacionalidade brasileira originária, nos termos da lei.",
+"c": true,
+"prof": "Art. 12, § 5º (EC 131/2023).",
+"x": "A perda por pedido expresso não pode gerar apatridia, e a pessoa pode voltar a ser brasileira nata.",
+"e": "Renúncia: pode readquirir."
+},
+{
+"p": "O cancelamento da naturalização pode ser feito por ato administrativo do Ministro da Justiça.",
+"c": false,
+"prof": "Exige o Judiciário.",
+"x": "O cancelamento depende de sentença judicial, por fraude no processo de naturalização ou atentado contra a ordem constitucional e o Estado Democrático (art. 12, § 4º, I).",
+"e": "Cancelamento: sentença judicial."
+},
+{
+"p": "O alistamento eleitoral e o voto são facultativos para os maiores de setenta anos e para os maiores de dezesseis e menores de dezoito anos.",
+"c": true,
+"prof": "Art. 14, § 1º, II.",
+"x": "Também são facultativos para os analfabetos.",
+"e": "Facultativo: analfabeto, + 70, 16 e 17 anos."
+},
+{
+"p": "O analfabeto, por ter alistamento facultativo, pode votar e ser votado.",
+"c": false,
+"prof": "Votar x ser votado.",
+"x": "O analfabeto pode votar, mas é inelegível (art. 14, § 4º).",
+"e": "Analfabeto: vota, não é votado."
+},
+{
+"p": "Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.",
+"c": true,
+"prof": "Art. 14, § 2º.",
+"x": "São os inalistáveis. Por consequência, também são inelegíveis.",
+"e": "Inalistáveis: estrangeiros e conscritos."
+},
+{
+"p": "Assinale a alternativa que contém a idade mínima correta como condição de elegibilidade.",
+"alts": [
+"Senador: 30 anos.",
+"Governador: 35 anos.",
+"Prefeito: 21 anos.",
+"Vereador: 21 anos.",
+"Deputado federal: 25 anos."
+],
+"r": 2,
+"n": [
+"Senador: 35.",
+"Governador: 30.",
+"Correta.",
+"Vereador: 18.",
+"Deputado: 21."
+],
+"prof": "35, 30, 21, 18.",
+"x": "35 anos para Presidente, Vice e Senador; 30 para Governador e Vice; 21 para Deputados, Prefeito, Vice e juiz de paz; 18 para Vereador.",
+"e": "Prefeito: 21."
+},
+{
+"p": "Para concorrer à reeleição, o Prefeito deve renunciar ao mandato até seis meses antes do pleito.",
+"c": false,
+"prof": "Desincompatibilização é para outros cargos.",
+"x": "A renúncia 6 meses antes é exigida para concorrer a OUTROS cargos (art. 14, § 6º). Para a reeleição, não há necessidade de afastamento.",
+"e": "Reeleição: sem afastamento."
+},
+{
+"p": "São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consanguíneos ou afins, até o segundo grau ou por adoção, do Prefeito, salvo se já titular de mandato eletivo e candidato à reeleição.",
+"c": true,
+"prof": "Inelegibilidade reflexa.",
+"x": "É o art. 14, § 7º. Pela SV 18, a dissolução do vínculo conjugal no curso do mandato não afasta essa inelegibilidade.",
+"e": "Reflexa: até o 2º grau."
+},
+{
+"p": "O irmão do Governador de Minas Gerais, sem mandato eletivo, deseja ser candidato. Segundo o art. 14, § 7º, ele:",
+"alts": [
+"não pode concorrer a nenhum cargo em todo o país",
+"não pode concorrer a cargos eletivos no território de Minas Gerais, mas pode concorrer em outro Estado, preenchidos os demais requisitos",
+"pode concorrer a deputado estadual em MG, pois não é cargo do Executivo",
+"pode concorrer a qualquer cargo, pois irmão é parente de 3º grau",
+"só fica impedido de concorrer a Governador"
+],
+"r": 1,
+"n": [
+"A inelegibilidade é territorial.",
+"Correta.",
+"Alcança todos os cargos no território do titular.",
+"Irmão é parente colateral de 2º grau.",
+"Alcança todos os cargos na circunscrição."
+],
+"prof": "Irmão = 2º grau colateral; território do titular = o Estado.",
+"x": "A inelegibilidade reflexa alcança cônjuge e parentes até o 2º grau no território de jurisdição do titular. O território do Governador é o Estado inteiro.",
+"e": "Inelegível em MG."
+},
+{
+"p": "O militar alistável com mais de dez anos de serviço será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade.",
+"c": true,
+"prof": "Art. 14, § 8º, II.",
+"x": "Com menos de 10 anos de serviço, ele deve afastar-se da atividade.",
+"e": "+ de 10 anos: agregado."
+},
+{
+"p": "O mandato eletivo pode ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, com provas de abuso do poder econômico, corrupção ou fraude.",
+"c": true,
+"prof": "Art. 14, § 10.",
+"x": "A ação tramita em segredo de justiça, e o autor responde se a ação for temerária ou de manifesta má-fé.",
+"e": "AIME: 15 dias da diplomação."
+},
+{
+"p": "A Constituição admite a cassação de direitos políticos em caso de condenação por improbidade administrativa.",
+"c": false,
+"prof": "Cassação é vedada.",
+"x": "O art. 15 veda a cassação. A improbidade gera suspensão dos direitos políticos, nos termos do art. 37, § 4º.",
+"e": "Improbidade: suspensão."
+},
+{
+"p": "A suspensão dos direitos políticos decorrente de condenação criminal transitada em julgado aplica-se ainda que a pena privativa de liberdade tenha sido substituída por restritiva de direitos.",
+"c": true,
+"prof": "Tema 370 do STF.",
+"x": "A suspensão dura enquanto durarem os efeitos da condenação e cessa automaticamente com a extinção da pena.",
+"e": "Pena substituída: suspende igual."
+},
+{
+"p": "Constitui hipótese de PERDA (e não de suspensão) dos direitos políticos, segundo a doutrina:",
+"alts": [
+"incapacidade civil absoluta",
+"condenação criminal transitada em julgado",
+"improbidade administrativa",
+"cancelamento da naturalização por sentença transitada em julgado",
+"condenação por crime eleitoral"
+],
+"r": 3,
+"n": [
+"É suspensão.",
+"É suspensão, enquanto durarem os efeitos.",
+"É suspensão.",
+"Correta: definitiva.",
+"É hipótese de condenação criminal (suspensão)."
+],
+"prof": "Perda = definitiva.",
+"x": "O cancelamento da naturalização faz a pessoa deixar de ser brasileira, perdendo os direitos políticos. As demais hipóteses são temporárias.",
+"e": "Cancelamento da naturalização: perda."
+},
+{
+"p": "A lei que alterar o processo eleitoral só entra em vigor um ano após a sua publicação.",
+"c": false,
+"prof": "Vigência x aplicação.",
+"x": "A lei entra em vigor na data da publicação, mas não se aplica à eleição que ocorra até um ano da data de sua vigência (art. 16).",
+"e": "Vigência imediata; aplicação após 1 ano."
+},
+{
+"p": "É vedado aos partidos políticos receber recursos financeiros de entidade ou governo estrangeiros.",
+"c": true,
+"prof": "Art. 17, II.",
+"x": "Os partidos também devem ter caráter nacional, prestar contas à Justiça Eleitoral e não podem utilizar organização paramilitar.",
+"e": "Sem recursos estrangeiros."
+},
+{
+"p": "Os partidos políticos são pessoas jurídicas de direito público, criadas por registro no TSE.",
+"c": false,
+"prof": "Natureza jurídica.",
+"x": "Os partidos adquirem personalidade jurídica na forma da lei civil (pessoas jurídicas de direito privado) e depois registram seus estatutos no TSE.",
+"e": "Partido: direito privado."
+},
+{
+"p": "Desde a EC 97/2017, são vedadas as coligações partidárias em todas as eleições.",
+"c": false,
+"prof": "Proporcionais x majoritárias.",
+"x": "A vedação alcança só as eleições proporcionais (deputados e vereadores). Nas majoritárias, as coligações são permitidas.",
+"e": "Vedação: só proporcionais."
+},
+{
+"p": "Segundo o STF, a perda do mandato por infidelidade partidária não se aplica aos eleitos pelo sistema majoritário.",
+"c": true,
+"prof": "ADI 5.081.",
+"x": "A fidelidade partidária alcança os cargos proporcionais. Para os majoritários, a perda violaria a soberania popular.",
+"e": "Majoritário: não perde por trocar de partido."
+},
+{
+"p": "João, nascido na Itália, filho de pai brasileiro e mãe italiana, foi registrado no consulado brasileiro em Roma logo após o nascimento. Segundo a Constituição, João é:",
+"alts": [
+"estrangeiro, até que venha morar no Brasil",
+"brasileiro naturalizado",
+"brasileiro nato",
+"brasileiro nato, desde que opte pela nacionalidade após os 18 anos",
+"português equiparado"
+],
+"r": 2,
+"n": [
+"O registro já basta.",
+"Não houve naturalização.",
+"Correta: art. 12, I, \"c\", primeira parte.",
+"A opção só é necessária para quem não foi registrado.",
+"Não se trata de português."
+],
+"prof": "Registro em repartição brasileira competente.",
+"x": "O nascido no estrangeiro de pai ou mãe brasileiros que for registrado em repartição brasileira competente é brasileiro nato, sem necessidade de opção.",
+"e": "Registro no consulado: nato."
+}
+]
+},
+"organizacao-estado": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>entes federativos autônomos: União, Estados, DF e Municípios</span></div><div class=\"lt-stat\"><b>2/3</b><span>da Câmara Municipal para aprovar a Lei Orgânica e para derrubar o parecer do Tribunal de Contas</span></div><div class=\"lt-stat\"><b>24 h</b><span>prazo para submeter o decreto de intervenção ao Legislativo</span></div><div class=\"lt-stat\"><b>5%</b><span>do eleitorado: iniciativa popular de lei municipal</span></div></div>\n<h3>1. A forma federativa de Estado</h3>\n<ul><li>O Brasil é uma <b>República Federativa</b>, formada pela <b>união indissolúvel</b> dos Estados, dos Municípios e do Distrito Federal (art. 1º). A organização político-administrativa compreende <b>União, Estados, DF e Municípios</b>, todos <b>autônomos</b> (art. 18). <b>Soberana</b> é só a <b>República Federativa do Brasil</b>; a <b>União</b> representa o país no plano internacional.</li><li>Características da nossa federação: <b>indissolubilidade</b> (não há direito de secessão); <b>autonomia</b> dos entes; <b>repartição constitucional de competências</b>; Constituição <b>rígida</b>; <b>Senado</b> representando os Estados e o DF; <b>STF</b> como guardião; e a possibilidade de <b>intervenção</b> para manter o pacto federativo.</li><li>A <b>forma federativa</b> é <b>cláusula pétrea</b> (art. 60, § 4º, I): não pode ser objeto de emenda <b>tendente a aboli-la</b>.</li><li>Brasília é a <b>Capital Federal</b> (art. 18, § 1º). Os <b>Territórios Federais</b> <b>integram a União</b> e não são entes federativos (§ 2º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Capacidade</th><th>O que significa</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Auto-organização</b></td><td>elaborar a própria lei maior</td><td>Constituição do Estado de MG; Lei Orgânica de Pirapora</td></tr><tr><td><b>Autogoverno</b></td><td>eleger seus governantes e ter Poderes próprios</td><td>eleição do Governador e da Assembleia</td></tr><tr><td><b>Autoadministração</b></td><td>prestar serviços e gerir pessoal e bens</td><td>concurso da PCMG</td></tr><tr><td><b>Autolegislação</b></td><td>editar leis sobre suas competências</td><td>lei municipal de uso do solo</td></tr></tbody></table>\n<h3>2. Mudanças territoriais (art. 18, §§ 3º e 4º)</h3>\n<table class=\"tab\"><thead><tr><th>Ente</th><th>Requisitos</th></tr></thead><tbody><tr><td><b>Estados</b> (incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros ou formarem novos Estados ou Territórios)</td><td><b>plebiscito</b> com a população <b>diretamente interessada</b> + <b>lei complementar federal</b> (o Congresso ouve as Assembleias, sem efeito vinculante)</td></tr><tr><td><b>Municípios</b> (criação, incorporação, fusão e desmembramento)</td><td><b>lei estadual</b>, dentro do <b>período determinado por lei complementar federal</b>, e dependerão de <b>consulta prévia, mediante plebiscito</b>, às populações dos Municípios envolvidos, após divulgação dos <b>Estudos de Viabilidade Municipal</b>, apresentados e publicados na forma da lei</td></tr><tr><td><b>Territórios</b> (criação, transformação em Estado ou reintegração ao Estado de origem)</td><td><b>lei complementar</b> federal</td></tr></tbody></table>\n<ul><li>Como a <b>lei complementar federal</b> exigida pelo § 4º (desde a EC 15/1996) <b>nunca foi editada</b>, novos Municípios não podem ser criados validamente. A <b>EC 57/2008</b> <b>convalidou</b> os atos de criação, fusão, incorporação e desmembramento de Municípios publicados <b>até 31/12/2006</b>.</li><li>\"População diretamente interessada\" abrange tanto a da área que se desmembra quanto a da área remanescente (STF, ADI 2.650).</li></ul>\n<h3>3. Vedações a todos os entes (art. 19)</h3>\n<ul><li>É vedado à União, aos Estados, ao DF e aos Municípios: <b>I</b> – estabelecer <b>cultos religiosos ou igrejas</b>, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou seus representantes <b>relações de dependência ou aliança</b>, <b>ressalvada, na forma da lei, a colaboração de interesse público</b>; <b>II</b> – <b>recusar fé aos documentos públicos</b>; <b>III</b> – criar <b>distinções entre brasileiros</b> ou <b>preferências entre si</b>.</li><li>O inciso I traduz a <b>laicidade</b> do Estado: o Brasil não tem religião oficial, mas pode colaborar com entidades religiosas em atividades de interesse público (por exemplo, hospitais filantrópicos).</li></ul>\n<h3>4. Os Estados-membros (arts. 25 a 28)</h3>\n<ul><li><b>Auto-organização</b>: regem-se pelas <b>Constituições e leis que adotarem</b>, observados os princípios da Constituição Federal (princípios <b>sensíveis</b>, <b>extensíveis</b> e <b>estabelecidos</b>).</li><li><b>Competência remanescente</b> (art. 25, § 1º): são reservadas aos Estados as competências que <b>não lhes sejam vedadas</b> pela Constituição.</li><li><b>Gás canalizado</b> (§ 2º): cabe aos Estados explorar, <b>diretamente ou mediante concessão</b>, os serviços locais de gás canalizado, <b>vedada a edição de medida provisória</b> para a sua regulamentação.</li><li><b>Regiões metropolitanas, aglomerações urbanas e microrregiões</b> (§ 3º): instituídas por <b>lei complementar estadual</b>, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum.</li><li><b>Bens dos Estados</b> (art. 26): <b>águas</b> superficiais ou subterrâneas, fluentes, emergentes e em depósito (ressalvadas as decorrentes de obras da União); áreas nas <b>ilhas oceânicas e costeiras</b> que estiverem no seu domínio; <b>ilhas fluviais e lacustres</b> não pertencentes à União; <b>terras devolutas</b> não compreendidas entre as da União.</li></ul>\n<table class=\"tab\"><thead><tr><th>Assembleia Legislativa (art. 27)</th><th>Regra</th></tr></thead><tbody><tr><td><b>Número de deputados estaduais</b></td><td>o <b>triplo</b> da representação do Estado na Câmara dos Deputados; atingido o número de <b>36</b>, acrescido de tantos quantos forem os deputados federais <b>acima de 12</b></td></tr><tr><td><b>Mandato</b></td><td><b>4 anos</b>, com as regras da Constituição sobre sistema eleitoral, inviolabilidade, imunidades, remuneração, perda do mandato e licença</td></tr><tr><td><b>Subsídio</b></td><td>fixado por <b>lei de iniciativa da Assembleia</b>, até <b>75%</b> do subsídio dos deputados federais</td></tr><tr><td><b>Iniciativa popular estadual</b></td><td>a lei disporá sobre ela</td></tr></tbody></table>\n<ul><li><b>Exemplo do cálculo</b>: Minas Gerais tem <b>53</b> deputados federais. Os 12 primeiros valem o triplo (12 × 3 = 36); os outros 41 somam-se um a um: 36 + 41 = <b>77 deputados estaduais</b>.</li><li><b>Governador</b> (art. 28): mandato de <b>4 anos</b>, eleição no <b>1º domingo de outubro</b> (2º turno no último domingo de outubro, se necessário), e posse em <b>6 de janeiro</b> do ano seguinte (regra da EC 111/2021, aplicável a partir das eleições de 2026). Perde o mandato se assumir <b>outro cargo ou função na administração pública direta ou indireta</b>, <b>ressalvada</b> a posse em virtude de <b>concurso público</b> (observado o art. 38).</li></ul>\n<h3>5. Os Municípios (arts. 29 a 31)</h3>\n<ul><li><b>Lei Orgânica</b> (art. 29): votada em <b>2 turnos</b>, com <b>interstício mínimo de 10 dias</b>, e aprovada por <b>2/3</b> dos membros da Câmara Municipal, <b>que a promulgará</b>.</li><li><b>Prefeito e Vice</b>: eleição direta, simultânea em todo o país; nos Municípios com <b>mais de 200 mil eleitores</b>, aplica-se o <b>2º turno</b>. Posse em <b>1º de janeiro</b> do ano subsequente.</li><li><b>Vereadores</b> (art. 29, IV): número proporcional à população, de no máximo <b>9</b> (até 15 mil habitantes) a no máximo <b>55</b> (mais de 8 milhões de habitantes), em faixas definidas na Constituição.</li><li><b>Inviolabilidade</b> (VIII): os vereadores são <b>invioláveis por suas opiniões, palavras e votos no exercício do mandato e na circunscrição do Município</b>. Vereador <b>não tem imunidade formal</b> (não tem foro nem proteção contra prisão e processo).</li><li><b>Julgamento do Prefeito</b> (X): perante o <b>Tribunal de Justiça</b> nos crimes comuns.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula 702</b><p class=\"jc-tese\">A competência do Tribunal de Justiça para julgar Prefeitos restringe-se aos crimes de competência da Justiça comum estadual; nos demais casos, a competência originária caberá ao respectivo tribunal de segundo grau.</p><p class=\"jc-com\">Prefeito que desvia verba federal sujeita à prestação de contas perante órgão federal é julgado pelo <b>TRF</b>; em crime eleitoral, pelo <b>TRE</b>. Nos crimes de responsabilidade em sentido político (infrações político-administrativas do DL 201/1967), o julgamento é da <b>Câmara Municipal</b>.</p></div>\n<ul><li><b>Iniciativa popular</b> (XIII): projetos de lei de interesse específico do Município, da cidade ou de bairros, por manifestação de, pelo menos, <b>5% do eleitorado</b>.</li><li><b>Subsídios</b>: o dos <b>vereadores</b> é fixado pela <b>Câmara</b> em cada legislatura <b>para a subsequente</b>, com limites percentuais em relação ao subsídio dos deputados estaduais (de <b>20%</b>, em Municípios de até 10 mil habitantes, a <b>75%</b>, acima de 500 mil); o do <b>Prefeito, Vice e Secretários</b> é fixado por <b>lei de iniciativa da Câmara</b>. O total da despesa com subsídio dos vereadores não pode passar de <b>5% da receita</b> do Município.</li><li><b>Limites da Câmara</b> (art. 29-A): o total da despesa do Poder Legislativo municipal (incluídos os subsídios e excluídos os inativos) não pode ultrapassar percentuais da <b>receita tributária e das transferências</b> do exercício anterior, que vão de <b>7%</b> (Municípios de até 100 mil habitantes) a <b>3,5%</b> (mais de 8 milhões). A Câmara não pode gastar mais de <b>70%</b> de sua receita com <b>folha de pagamento</b>.</li><li><b>Crimes de responsabilidade ligados ao art. 29-A</b>: do <b>Prefeito</b>, efetuar repasse <b>acima</b> dos limites, <b>não enviar</b> o repasse <b>até o dia 20 de cada mês</b> ou enviá-lo <b>a menor</b> que a proporção da lei orçamentária; do <b>Presidente da Câmara</b>, desrespeitar o limite de 70% com folha.</li></ul>\n<h3>6. Fiscalização do Município (art. 31)</h3>\n<ul><li>A fiscalização é exercida pelo <b>Poder Legislativo Municipal</b> (controle <b>externo</b>) e pelos sistemas de <b>controle interno</b> do Executivo.</li><li>O controle externo da Câmara é exercido com o <b>auxílio dos Tribunais de Contas dos Estados</b> ou do Município, ou dos <b>Conselhos ou Tribunais de Contas dos Municípios</b>, onde houver.</li><li>O <b>parecer prévio</b> do Tribunal de Contas sobre as contas do Prefeito <b>só deixará de prevalecer</b> por decisão de <b>2/3 dos membros da Câmara</b>.</li><li>As contas dos Municípios ficarão, durante <b>60 dias, anualmente</b>, à disposição de <b>qualquer contribuinte</b>, para exame e apreciação, que poderá questionar-lhes a legitimidade.</li><li>É <b>vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais</b> (§ 4º). Os que já existiam em 1988 (São Paulo e Rio de Janeiro) foram mantidos.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 835 (RE 848.826)</b><p class=\"jc-tese\">Para os fins do art. 1º, I, \"g\", da LC 64/1990, a apreciação das contas de prefeito, tanto as de governo quanto as de gestão, será exercida pelas Câmaras Municipais, com o auxílio dos Tribunais de Contas competentes, cujo parecer prévio somente deixará de prevalecer por decisão de 2/3 dos vereadores.</p><p class=\"jc-com\">O Tribunal de Contas <b>não julga</b> as contas do Prefeito para efeito de inelegibilidade: ele dá <b>parecer</b>, e quem <b>julga</b> é a <b>Câmara</b>.</p></div>\n<h3>7. Distrito Federal e Territórios (arts. 32 e 33)</h3>\n<ul><li>O <b>DF</b> rege-se por <b>Lei Orgânica</b> (votada em 2 turnos, interstício de 10 dias, aprovada por 2/3 da Câmara Legislativa, que a promulga). É <b>vedada sua divisão em Municípios</b>. Acumula as competências legislativas <b>reservadas aos Estados e aos Municípios</b>.</li><li>O Governador e o Vice do DF e os deputados distritais seguem as regras dos Estados. A <b>Câmara Legislativa</b> é o Poder Legislativo distrital.</li><li>Compete à <b>União organizar e manter</b> a <b>polícia civil</b>, a <b>polícia penal</b>, a <b>polícia militar</b> e o <b>corpo de bombeiros militar</b> do DF, bem como prestar assistência financeira ao DF para a execução de serviços públicos (art. 21, XIV); <b>lei federal</b> disporá sobre a <b>utilização</b> dessas forças pelo Governo do DF (art. 32, § 4º).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 39</b><p class=\"jc-tese\">Compete privativamente à União legislar sobre vencimentos dos membros das polícias civil e militar e do corpo de bombeiros militar do Distrito Federal.</p><p class=\"jc-com\">Lei distrital que concede aumento a policiais do DF é <b>inconstitucional</b>, por vício de competência.</p></div>\n<ul><li><b>Territórios</b> (art. 33): <b>integram a União</b>; podem ser divididos em <b>Municípios</b>; as contas do Governo do Território são submetidas ao <b>Congresso</b>, com parecer prévio do <b>TCU</b>; nos Territórios com <b>mais de 100 mil habitantes</b>, haverá <b>Governador nomeado</b> (aprovado pelo Senado), órgãos judiciários de primeira e segunda instância, membros do MP e defensores públicos federais, e <b>Câmara Territorial</b> eleita. Cada Território elege <b>4 deputados federais</b> e <b>não elege senadores</b>. Hoje <b>não existem</b> Territórios Federais.</li></ul>\n<h3>8. Intervenção federal (arts. 34 e 36)</h3>\n<ul><li>A regra é a <b>não intervenção</b>. A intervenção é <b>excepcional</b>, <b>temporária</b> e só cabe nas hipóteses <b>taxativas</b> da Constituição. A <b>União</b> intervém nos <b>Estados e no DF</b>; nos <b>Municípios</b>, só se estiverem localizados em <b>Território Federal</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Hipótese (art. 34)</th><th>Como se inicia (art. 36)</th></tr></thead><tbody><tr><td>I – manter a <b>integridade nacional</b>; II – repelir <b>invasão estrangeira</b> ou de uma unidade da Federação em outra; III – pôr termo a <b>grave comprometimento da ordem pública</b>; V – <b>reorganizar as finanças</b> (suspensão do pagamento da dívida fundada por mais de 2 anos, salvo força maior, ou não entrega aos Municípios das receitas tributárias fixadas na Constituição)</td><td><b>de ofício</b> pelo Presidente (intervenção <b>espontânea</b>)</td></tr><tr><td>IV – garantir o <b>livre exercício de qualquer dos Poderes</b> nas unidades da Federação</td><td><b>solicitação</b> do Poder Legislativo ou Executivo coacto ou impedido; ou <b>requisição do STF</b>, se a coação for contra o Judiciário</td></tr><tr><td>VI – prover a execução de <b>ordem ou decisão judicial</b></td><td><b>requisição</b> do <b>STF</b>, do <b>STJ</b> ou do <b>TSE</b></td></tr><tr><td>VI – prover a execução de <b>lei federal</b></td><td>provimento, pelo <b>STF</b>, de <b>representação do PGR</b></td></tr><tr><td>VII – assegurar a observância dos <b>princípios sensíveis</b></td><td>provimento, pelo <b>STF</b>, de <b>representação do PGR</b> (<b>ADI interventiva</b>)</td></tr></tbody></table>\n<ul><li><b>Princípios sensíveis</b> (art. 34, VII): <b>forma republicana, sistema representativo e regime democrático</b>; <b>direitos da pessoa humana</b>; <b>autonomia municipal</b>; <b>prestação de contas</b> da administração pública, direta e indireta; <b>aplicação do mínimo exigido</b> da receita de impostos na <b>manutenção e desenvolvimento do ensino</b> e nas <b>ações e serviços públicos de saúde</b>.</li><li><b>Decreto</b> (art. 36, § 1º): o decreto do <b>Presidente da República</b> especifica a <b>amplitude</b>, o <b>prazo</b> e as <b>condições</b> de execução e, se couber, nomeia o <b>interventor</b>. É submetido à apreciação do <b>Congresso Nacional</b> em <b>24 horas</b>; se o Congresso estiver em recesso, é convocado extraordinariamente, no mesmo prazo.</li><li><b>Dispensa do controle político</b> (§ 3º): nos casos do art. 34, <b>VI</b> (execução de lei federal, ordem ou decisão judicial) e <b>VII</b> (princípios sensíveis), dispensa-se a apreciação pelo Congresso, e o decreto <b>limita-se a suspender a execução do ato impugnado</b>, se essa medida bastar para restabelecer a normalidade.</li><li><b>Fim</b>: cessados os motivos, as autoridades afastadas <b>voltam aos seus cargos</b>, salvo impedimento legal (§ 4º).</li><li>Antes de decretar, o Presidente <b>ouve</b> o <b>Conselho da República</b> (art. 90, I) e o <b>Conselho de Defesa Nacional</b> (art. 91, § 1º, II), cujas opiniões <b>não vinculam</b>.</li><li>Na vigência de <b>intervenção federal</b>, de <b>estado de defesa</b> ou de <b>estado de sítio</b>, a Constituição <b>não pode ser emendada</b> (art. 60, § 1º).</li></ul>\n<h3>9. Intervenção estadual nos Municípios (arts. 35 e 36)</h3>\n<ul><li>O <b>Estado</b> intervém nos <b>seus Municípios</b> (e a União nos Municípios de Território) quando: <b>I</b> – deixar de ser paga, sem motivo de força maior, por <b>2 anos consecutivos</b>, a <b>dívida fundada</b>; <b>II</b> – <b>não forem prestadas contas devidas</b>, na forma da lei; <b>III</b> – <b>não tiver sido aplicado o mínimo</b> exigido da receita municipal na manutenção e desenvolvimento do <b>ensino</b> e nas ações e serviços públicos de <b>saúde</b>; <b>IV</b> – o <b>Tribunal de Justiça</b> der provimento a <b>representação</b> para assegurar a observância de princípios indicados na <b>Constituição Estadual</b>, ou para prover a execução de lei, de ordem ou de decisão judicial.</li><li>O decreto é do <b>Governador</b>, submetido à <b>Assembleia Legislativa</b> em <b>24 horas</b> (salvo no caso do inciso IV, se bastar suspender o ato).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula 637</b><p class=\"jc-tese\">Não cabe recurso extraordinário contra acórdão de Tribunal de Justiça que defere pedido de intervenção estadual em Município.</p><p class=\"jc-com\">A decisão do TJ na representação interventiva tem natureza <b>político-administrativa</b>, e não jurisdicional em sentido estrito; por isso não desafia RE.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os Estados são soberanos</span><br>✅ <span class=\"certo\">Soberana é só a República Federativa; os entes são autônomos.</span></li><li>❌ <span class=\"banca\">A União pode intervir em qualquer Município</span><br>✅ <span class=\"certo\">Só nos Municípios de Território Federal; nos demais, quem intervém é o Estado.</span></li><li>❌ <span class=\"banca\">Criação de Município depende só de lei estadual</span><br>✅ <span class=\"certo\">Exige LC federal (período), estudo de viabilidade, plebiscito e lei estadual.</span></li><li>❌ <span class=\"banca\">Vereador tem imunidade para não ser preso</span><br>✅ <span class=\"certo\">Só tem inviolabilidade material, no exercício do mandato e na circunscrição do Município.</span></li><li>❌ <span class=\"banca\">O parecer do Tribunal de Contas vincula a Câmara</span><br>✅ <span class=\"certo\">Pode ser derrubado por 2/3 dos vereadores.</span></li><li>❌ <span class=\"banca\">A intervenção para assegurar princípios sensíveis é decretada de ofício</span><br>✅ <span class=\"certo\">Depende de provimento do STF a representação do PGR.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Capacidades da autonomia?</span></span><span class=\"vs\"><span><b>Auto-organização, autogoverno, autoadministração e autolegislação</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Criação de Município?</span></span><span class=\"vs\"><span><b>Lei estadual</b> + período em <b>LC federal</b> + <b>estudo de viabilidade</b> + <b>plebiscito</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei Orgânica municipal?</span></span><span class=\"vs\"><span><b>2 turnos</b>, interstício de <b>10 dias</b>, <b>2/3</b> da Câmara, que <b>promulga</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prefeito julgado por?</span></span><span class=\"vs\"><span><b>TJ</b> nos crimes comuns estaduais (Súmula 702).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parecer prévio do TC?</span></span><span class=\"vs\"><span>Só cai por <b>2/3</b> da Câmara.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípios sensíveis?</span></span><span class=\"vs\"><span>República/representativo/democracia, direitos humanos, <b>autonomia municipal</b>, prestação de contas, mínimos de <b>ensino e saúde</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto de intervenção ao Congresso?</span></span><span class=\"vs\"><span><b>24 horas</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A Câmara de Pirapora e o repasse</b><p>O Prefeito de um Município mineiro com 80 mil habitantes deixa de repassar à Câmara o duodécimo até o dia 20 por três meses, alegando queda de arrecadação. Os vereadores querem saber o que fazer.</p><details><summary>Ver a solução comentada</summary><p>Não enviar o repasse até o dia 20 de cada mês é <b>crime de responsabilidade do Prefeito</b> (art. 29-A, § 2º, II). A Câmara pode adotar as medidas cabíveis, inclusive o processo político-administrativo, e buscar o repasse judicialmente. A queda de arrecadação ajusta o valor proporcional, mas não autoriza a falta de repasse.</p></details></div>",
+"quiz": [
+{
+"p": "A República Federativa do Brasil é formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal.",
+"c": true,
+"prof": "Art. 1º.",
+"x": "A indissolubilidade significa que não existe direito de secessão. Tentar separar um Estado autoriza a intervenção federal para manter a integridade nacional.",
+"e": "União indissolúvel."
+},
+{
+"p": "Os Estados-membros, assim como a União, são dotados de soberania.",
+"c": false,
+"prof": "Soberania x autonomia.",
+"x": "Soberana é só a República Federativa do Brasil. União, Estados, DF e Municípios são autônomos (art. 18).",
+"e": "Entes: autonomia."
+},
+{
+"p": "Os Territórios Federais integram a União, e sua criação, transformação em Estado ou reintegração ao Estado de origem serão reguladas em lei complementar.",
+"c": true,
+"prof": "Art. 18, § 2º.",
+"x": "Os Territórios não são entes federativos: são descentralizações administrativas da União.",
+"e": "Território: integra a União."
+},
+{
+"p": "A forma federativa de Estado pode ser abolida por emenda constitucional aprovada em dois turnos, por três quintos dos votos em cada Casa.",
+"c": false,
+"prof": "Cláusula pétrea.",
+"x": "Não será objeto de deliberação a proposta de emenda tendente a abolir a forma federativa de Estado (art. 60, § 4º, I).",
+"e": "Federação: cláusula pétrea."
+},
+{
+"p": "Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se, mediante aprovação da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei complementar.",
+"c": true,
+"prof": "Art. 18, § 3º.",
+"x": "São dois requisitos cumulativos: plebiscito e lei complementar federal.",
+"e": "Estados: plebiscito + LC."
+},
+{
+"p": "A criação de um novo Município, segundo o art. 18, § 4º, da Constituição, depende de:",
+"alts": [
+"lei complementar estadual e referendo",
+"lei estadual, dentro do período determinado por lei complementar federal, após estudos de viabilidade municipal e plebiscito com as populações dos Municípios envolvidos",
+"lei federal e plebiscito apenas da população do novo Município",
+"decreto do Governador e aprovação da Assembleia",
+"lei orgânica do Município de origem"
+],
+"r": 1,
+"n": [
+"A lei é ordinária estadual e a consulta é plebiscito.",
+"Correta.",
+"A lei é estadual e o plebiscito envolve todos os Municípios envolvidos.",
+"Não há decreto.",
+"Não é a Lei Orgânica."
+],
+"prof": "Quatro requisitos.",
+"x": "São exigidos: lei complementar federal fixando o período, estudos de viabilidade municipal divulgados, plebiscito com as populações envolvidas e lei estadual.",
+"e": "LC federal + estudo + plebiscito + lei estadual."
+},
+{
+"p": "A EC 57/2008 convalidou os atos de criação, fusão, incorporação e desmembramento de Municípios cuja lei tenha sido publicada até 31 de dezembro de 2006.",
+"c": true,
+"prof": "Art. 96 do ADCT.",
+"x": "Como a lei complementar federal nunca foi editada, a emenda resolveu a situação dos Municípios já criados até aquela data.",
+"e": "EC 57: convalidação até 31/12/2006."
+},
+{
+"p": "É vedado aos entes federativos colaborar com entidades religiosas em qualquer hipótese.",
+"c": false,
+"prof": "Art. 19, I.",
+"x": "A Constituição ressalva, na forma da lei, a colaboração de interesse público. O que se veda é estabelecer cultos, subvencioná-los ou manter relação de dependência ou aliança.",
+"e": "Colaboração de interesse público: permitida."
+},
+{
+"p": "É vedado à União, aos Estados, ao Distrito Federal e aos Municípios recusar fé aos documentos públicos.",
+"c": true,
+"prof": "Art. 19, II.",
+"x": "Um ente não pode deixar de reconhecer a validade de documento público emitido por outro.",
+"e": "Fé aos documentos públicos."
+},
+{
+"p": "São reservadas aos Estados as competências que não lhes sejam vedadas pela Constituição.",
+"c": true,
+"prof": "Competência remanescente.",
+"x": "É a regra do art. 25, § 1º. A União tem competências enumeradas, e os Municípios, as de interesse local.",
+"e": "Estados: remanescente."
+},
+{
+"p": "Cabe aos Estados explorar os serviços locais de gás canalizado, podendo a matéria ser regulamentada por medida provisória estadual.",
+"c": false,
+"prof": "Art. 25, § 2º.",
+"x": "Os Estados exploram o serviço diretamente ou por concessão, mas é vedada a edição de medida provisória para a sua regulamentação.",
+"e": "Gás canalizado: vedada MP."
+},
+{
+"p": "Os Estados poderão, mediante lei complementar, instituir regiões metropolitanas, aglomerações urbanas e microrregiões.",
+"c": true,
+"prof": "Art. 25, § 3º.",
+"x": "A lei complementar é estadual.",
+"e": "Região metropolitana: LC estadual."
+},
+{
+"p": "Um Estado tem 20 deputados federais. Segundo o art. 27 da Constituição, sua Assembleia Legislativa terá:",
+"alts": [
+"40 deputados estaduais",
+"60 deputados estaduais",
+"44 deputados estaduais",
+"36 deputados estaduais",
+"20 deputados estaduais"
+],
+"r": 2,
+"n": [
+"Cálculo errado.",
+"Seria o triplo puro, que só vale até 36.",
+"Correta: 36 + (20 − 12) = 44.",
+"Faltam os acima de 12.",
+"Não é igual à bancada federal."
+],
+"prof": "Triplo até 36; depois, soma um a um.",
+"x": "Os 12 primeiros deputados federais valem o triplo (36). Os 8 restantes somam-se um a um: 36 + 8 = 44.",
+"e": "44."
+},
+{
+"p": "O subsídio dos deputados estaduais é fixado por resolução da Assembleia, sem limite em relação ao dos deputados federais.",
+"c": false,
+"prof": "Art. 27, § 2º.",
+"x": "O subsídio é fixado por lei de iniciativa da Assembleia Legislativa, na razão de, no máximo, 75% daquele dos deputados federais.",
+"e": "Até 75% do federal."
+},
+{
+"p": "Perderá o mandato o Governador que assumir outro cargo ou função na administração pública direta ou indireta, ressalvada a posse em virtude de concurso público.",
+"c": true,
+"prof": "Art. 28, § 1º.",
+"x": "Mesmo na ressalva do concurso, aplicam-se as regras do art. 38 sobre o servidor no exercício de mandato.",
+"e": "Governador: perde o mandato, salvo concurso."
+},
+{
+"p": "A Lei Orgânica do Município será votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará.",
+"c": true,
+"prof": "Art. 29, caput.",
+"x": "Não há sanção do Prefeito: quem promulga é a própria Câmara.",
+"e": "LOM: 2 turnos, 10 dias, 2/3."
+},
+{
+"p": "Em todos os Municípios, se nenhum candidato a Prefeito obtiver maioria absoluta, haverá segundo turno.",
+"c": false,
+"prof": "Há um limite de eleitores.",
+"x": "O segundo turno só se aplica aos Municípios com mais de 200 mil eleitores (art. 29, II).",
+"e": "2º turno: + de 200 mil eleitores."
+},
+{
+"p": "Os vereadores são invioláveis por suas opiniões, palavras e votos no exercício do mandato e na circunscrição do Município.",
+"c": true,
+"prof": "Art. 29, VIII.",
+"x": "É a imunidade material. Vereador não tem imunidade formal nem foro por prerrogativa de função previsto na CF.",
+"e": "Vereador: só imunidade material."
+},
+{
+"p": "O vereador só pode ser preso em flagrante de crime inafiançável, como os deputados e senadores.",
+"c": false,
+"prof": "Vereador não tem imunidade formal.",
+"x": "A imunidade formal quanto à prisão (art. 53, § 2º) não se estende aos vereadores. Eles têm apenas a inviolabilidade material na circunscrição do Município.",
+"e": "Vereador: sem imunidade formal."
+},
+{
+"p": "Um Prefeito mineiro é acusado de desviar verba federal repassada por convênio e sujeita à prestação de contas perante o TCU. Segundo a Súmula 702 do STF, ele será julgado pelo:",
+"alts": [
+"Tribunal de Justiça de Minas Gerais",
+"juiz de direito da comarca",
+"Tribunal Regional Federal",
+"Superior Tribunal de Justiça",
+"Câmara Municipal"
+],
+"r": 2,
+"n": [
+"O TJ só julga os crimes de competência da Justiça estadual.",
+"Prefeito tem foro em tribunal.",
+"Correta.",
+"O STJ julga governadores.",
+"A Câmara julga infrações político-administrativas."
+],
+"prof": "Crime federal: tribunal de 2º grau federal.",
+"x": "A competência do TJ para julgar Prefeitos restringe-se aos crimes da Justiça comum estadual. Em crime federal, o julgamento é no TRF.",
+"e": "Crime federal: TRF."
+},
+{
+"p": "A iniciativa popular de projetos de lei de interesse específico do Município, da cidade ou de bairros exige a manifestação de, pelo menos, cinco por cento do eleitorado.",
+"c": true,
+"prof": "Art. 29, XIII.",
+"x": "No plano federal, exige-se 1% do eleitorado nacional, distribuído por 5 Estados.",
+"e": "Município: 5%."
+},
+{
+"p": "O subsídio dos vereadores é fixado por lei de iniciativa do Prefeito, para vigorar na mesma legislatura.",
+"c": false,
+"prof": "Art. 29, VI.",
+"x": "É fixado pelas Câmaras Municipais em cada legislatura para a subsequente, observados os limites constitucionais.",
+"e": "Vereador: Câmara fixa para a próxima legislatura."
+},
+{
+"p": "Constitui crime de responsabilidade do Prefeito não enviar o repasse à Câmara Municipal até o dia vinte de cada mês.",
+"c": true,
+"prof": "Art. 29-A, § 2º.",
+"x": "Também é crime efetuar repasse que supere os limites ou enviá-lo a menor em relação à proporção fixada na lei orçamentária.",
+"e": "Repasse: até o dia 20."
+},
+{
+"p": "A Câmara Municipal não gastará mais de setenta por cento de sua receita com folha de pagamento, incluído o gasto com o subsídio de seus vereadores.",
+"c": true,
+"prof": "Art. 29-A, § 1º.",
+"x": "O descumprimento é crime de responsabilidade do Presidente da Câmara (§ 3º).",
+"e": "Câmara: até 70% com folha."
+},
+{
+"p": "O parecer prévio emitido pelo Tribunal de Contas sobre as contas que o Prefeito deve anualmente prestar vincula a Câmara Municipal.",
+"c": false,
+"prof": "Art. 31, § 2º.",
+"x": "O parecer prévio só deixará de prevalecer por decisão de dois terços dos membros da Câmara.",
+"e": "Parecer: cai por 2/3."
+},
+{
+"p": "As contas dos Municípios ficarão, durante sessenta dias, anualmente, à disposição de qualquer contribuinte, para exame e apreciação, o qual poderá questionar-lhes a legitimidade.",
+"c": true,
+"prof": "Art. 31, § 3º.",
+"x": "É um instrumento de controle social das contas municipais.",
+"e": "60 dias para o contribuinte."
+},
+{
+"p": "Os Municípios podem criar Tribunais de Contas próprios, desde que tenham mais de um milhão de habitantes.",
+"c": false,
+"prof": "Art. 31, § 4º.",
+"x": "É vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais. Só foram mantidos os que já existiam (São Paulo e Rio de Janeiro).",
+"e": "Novo TC municipal: vedado."
+},
+{
+"p": "Segundo o STF, compete à Câmara Municipal julgar as contas de governo e de gestão do Prefeito, para fins de inelegibilidade, com o auxílio do Tribunal de Contas.",
+"c": true,
+"prof": "Tema 835.",
+"x": "O Tribunal de Contas emite parecer prévio, que só cai por 2/3 dos vereadores. O julgamento é da Câmara.",
+"e": "Contas do Prefeito: Câmara julga."
+},
+{
+"p": "O Distrito Federal pode ser dividido em Municípios, por lei distrital aprovada em plebiscito.",
+"c": false,
+"prof": "Art. 32, caput.",
+"x": "É vedada a divisão do DF em Municípios. Por isso ele acumula competências estaduais e municipais.",
+"e": "DF: indivisível em Municípios."
+},
+{
+"p": "Compete privativamente à União legislar sobre vencimentos dos membros das polícias civil e militar e do corpo de bombeiros militar do Distrito Federal.",
+"c": true,
+"prof": "SV 39.",
+"x": "A União organiza e mantém essas corporações (art. 21, XIV). Lei distrital sobre o tema é inconstitucional.",
+"e": "Vencimentos das polícias do DF: União."
+},
+{
+"p": "Os Territórios Federais elegem três senadores, como os Estados.",
+"c": false,
+"prof": "Território não é ente federativo.",
+"x": "Os Territórios elegem 4 deputados federais (art. 45, § 2º), mas não elegem senadores.",
+"e": "Território: 4 deputados, nenhum senador."
+},
+{
+"p": "A União pretende intervir em um Município situado no interior do Estado de Goiás que deixou de aplicar o mínimo constitucional em saúde. Segundo a Constituição:",
+"alts": [
+"a intervenção federal é cabível, decretada pelo Presidente",
+"a União não pode intervir, pois só intervém em Municípios localizados em Território Federal; cabe ao Estado de Goiás a intervenção",
+"a intervenção depende de representação do PGR ao STF",
+"a intervenção depende de autorização do Senado",
+"o Município não pode sofrer intervenção"
+],
+"r": 1,
+"n": [
+"A União não intervém em Municípios de Estados.",
+"Correta: art. 35.",
+"A representação do PGR é para intervenção federal em Estado.",
+"Não há essa exigência.",
+"O art. 35, III, prevê essa hipótese."
+],
+"prof": "Quem intervém em Município?",
+"x": "A União intervém nos Estados, no DF e nos Municípios de Territórios. Nos Municípios dos Estados, a intervenção é estadual, e não aplicar o mínimo em saúde é uma das hipóteses (art. 35, III).",
+"e": "Município de Estado: intervenção estadual."
+},
+{
+"p": "A União poderá intervir nos Estados para reorganizar as finanças da unidade da Federação que suspender o pagamento da dívida fundada por mais de dois anos consecutivos, salvo motivo de força maior.",
+"c": true,
+"prof": "Art. 34, V, \"a\".",
+"x": "Também cabe intervenção se o Estado deixar de entregar aos Municípios as receitas tributárias fixadas na Constituição.",
+"e": "Dívida fundada: + de 2 anos."
+},
+{
+"p": "A intervenção federal para assegurar a observância dos princípios constitucionais sensíveis depende de:",
+"alts": [
+"decreto espontâneo do Presidente da República",
+"solicitação do Governador do Estado",
+"provimento, pelo STF, de representação do Procurador-Geral da República",
+"requisição do TSE",
+"autorização prévia do Congresso Nacional"
+],
+"r": 2,
+"n": [
+"Não é hipótese espontânea.",
+"A solicitação é para a coação contra o Poder.",
+"Correta: art. 36, III.",
+"O TSE requisita para executar suas decisões.",
+"O controle do Congresso é posterior e, aqui, dispensado."
+],
+"prof": "ADI interventiva.",
+"x": "Nos casos do art. 34, VII (princípios sensíveis), a intervenção depende de provimento, pelo STF, da representação do PGR. Se bastar, o decreto apenas suspende o ato impugnado.",
+"e": "Princípios sensíveis: STF + PGR."
+},
+{
+"p": "A autonomia municipal é princípio constitucional sensível, cuja violação pelo Estado pode autorizar intervenção federal.",
+"c": true,
+"prof": "Art. 34, VII, \"c\".",
+"x": "Os princípios sensíveis são: forma republicana, sistema representativo e regime democrático; direitos da pessoa humana; autonomia municipal; prestação de contas; aplicação dos mínimos em ensino e saúde.",
+"e": "Autonomia municipal: sensível."
+},
+{
+"p": "O decreto de intervenção federal será submetido à apreciação do Congresso Nacional no prazo de dez dias.",
+"c": false,
+"prof": "Prazo curto.",
+"x": "O decreto é submetido ao Congresso em 24 horas; se ele estiver em recesso, será convocado extraordinariamente no mesmo prazo (art. 36, §§ 1º e 2º).",
+"e": "24 horas."
+},
+{
+"p": "Na intervenção para prover a execução de ordem judicial, se a suspensão do ato impugnado bastar para restabelecer a normalidade, fica dispensada a apreciação do decreto pelo Congresso Nacional.",
+"c": true,
+"prof": "Art. 36, § 3º.",
+"x": "A dispensa vale para os casos do art. 34, VI e VII.",
+"e": "Execução de ordem judicial: dispensa o Congresso."
+},
+{
+"p": "Não cabe recurso extraordinário contra acórdão de Tribunal de Justiça que defere pedido de intervenção estadual em Município.",
+"c": true,
+"prof": "Súmula 637 do STF.",
+"x": "A decisão do TJ em representação interventiva tem natureza político-administrativa.",
+"e": "Intervenção estadual: sem RE."
+},
+{
+"p": "Durante a vigência de intervenção federal, a Constituição pode ser emendada, desde que a emenda não trate do Estado sob intervenção.",
+"c": false,
+"prof": "Limitação circunstancial.",
+"x": "A Constituição não pode ser emendada na vigência de intervenção federal, estado de defesa ou estado de sítio (art. 60, § 1º).",
+"e": "Intervenção: sem emendas."
+}
+]
+},
+"uniao": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>150 km</b><span>largura máxima da faixa de fronteira (art. 20, § 2º)</span></div><div class=\"lt-stat\"><b>4</b><span>tipos de competência: exclusiva, privativa, comum e concorrente</span></div><div class=\"lt-stat\"><b>LC</b><span>lei complementar permite delegar a privativa aos Estados</span></div><div class=\"lt-stat\"><b>0</b><span>Municípios na competência concorrente do art. 24</span></div></div>\n<h3>1. A União e seus bens (art. 20)</h3>\n<ul><li>A <b>União</b> é pessoa jurídica de <b>direito público interno</b>, <b>autônoma</b> como os demais entes. No plano <b>internacional</b>, é ela quem <b>representa a República Federativa do Brasil</b> (que é a soberana).</li></ul>\n<table class=\"tab\"><thead><tr><th>Bens da União (art. 20)</th><th>Detalhe</th></tr></thead><tbody><tr><td>os que <b>atualmente lhe pertencem</b> e os que lhe vierem a ser atribuídos</td><td>inciso I</td></tr><tr><td><b>terras devolutas indispensáveis</b> à defesa das fronteiras, das <b>fortificações e construções militares</b>, das <b>vias federais de comunicação</b> e à <b>preservação ambiental</b>, definidas em lei</td><td>as demais terras devolutas são dos Estados (art. 26, IV)</td></tr><tr><td><b>lagos, rios</b> e correntes de água em terrenos de seu domínio, ou que <b>banhem mais de um Estado</b>, sirvam de <b>limites com outros países</b>, ou se estendam a território estrangeiro ou dele provenham, e os terrenos marginais e praias fluviais</td><td>rio que fica todo dentro de um Estado é estadual</td></tr><tr><td><b>ilhas fluviais e lacustres</b> nas zonas limítrofes com outros países; <b>praias marítimas</b>; <b>ilhas oceânicas e costeiras</b></td><td>excluídas das ilhas costeiras as que contenham a <b>sede de Municípios</b> (salvo áreas afetadas ao serviço público e a unidade ambiental federal)</td></tr><tr><td>recursos naturais da <b>plataforma continental</b> e da <b>zona econômica exclusiva</b></td><td>incisos V</td></tr><tr><td><b>mar territorial</b></td><td>inciso VI</td></tr><tr><td><b>terrenos de marinha</b> e seus acrescidos</td><td>inciso VII</td></tr><tr><td><b>potenciais de energia hidráulica</b></td><td>inciso VIII</td></tr><tr><td><b>recursos minerais, inclusive os do subsolo</b></td><td>o proprietário do solo não é dono do minério (art. 176)</td></tr><tr><td><b>cavidades naturais subterrâneas</b> e <b>sítios arqueológicos e pré-históricos</b></td><td>inciso X</td></tr><tr><td><b>terras tradicionalmente ocupadas pelos índios</b></td><td>inciso XI</td></tr></tbody></table>\n<ul><li><b>Royalties</b> (§ 1º): é assegurada aos Estados, ao DF, aos Municípios e a órgãos da administração direta da União <b>participação no resultado da exploração</b> de petróleo ou gás natural, de recursos hídricos para geração de energia e de outros recursos minerais, ou <b>compensação financeira</b> por essa exploração.</li><li><b>Faixa de fronteira</b> (§ 2º): faixa de <b>até 150 km</b> de largura ao longo das fronteiras terrestres, considerada <b>fundamental para a defesa</b> do território nacional; sua ocupação e utilização são reguladas em <b>lei</b>.</li></ul>\n<h3>2. Como a Constituição reparte as competências</h3>\n<ul><li><b>Princípio da predominância do interesse</b>: assuntos de interesse <b>geral</b> ficam com a <b>União</b>; de interesse <b>regional</b>, com os <b>Estados</b>; de interesse <b>local</b>, com os <b>Municípios</b>. O <b>DF</b> acumula as competências estaduais e municipais.</li><li><b>Técnica horizontal</b>: cada ente recebe competências próprias e separadas (União: enumeradas nos arts. 21 e 22; Municípios: interesse local, art. 30; Estados: <b>remanescentes</b>, art. 25, § 1º).</li><li><b>Técnica vertical</b>: vários entes atuam sobre a mesma matéria, em níveis diferentes (competência <b>concorrente</b>, art. 24: a União faz normas gerais e os Estados suplementam).</li></ul>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Tipo</th><th>Natureza</th><th>Quem</th><th>Delegável?</th></tr></thead><tbody><tr><td><b>21</b></td><td><b>exclusiva</b></td><td><b>material</b> (administrativa, fazer)</td><td>só a <b>União</b></td><td><b>não</b></td></tr><tr><td><b>22</b></td><td><b>privativa</b></td><td><b>legislativa</b> (fazer leis)</td><td><b>União</b></td><td><b>sim</b>: <b>lei complementar</b> pode autorizar os <b>Estados</b> a legislar sobre <b>questões específicas</b> (parágrafo único)</td></tr><tr><td><b>23</b></td><td><b>comum</b></td><td><b>material</b></td><td><b>União, Estados, DF e Municípios</b></td><td>— (cooperação por <b>leis complementares</b>)</td></tr><tr><td><b>24</b></td><td><b>concorrente</b></td><td><b>legislativa</b></td><td><b>União, Estados e DF</b> (não os Municípios)</td><td>—</td></tr><tr><td><b>25, § 1º</b></td><td><b>remanescente</b></td><td>legislativa e material</td><td><b>Estados</b></td><td>—</td></tr><tr><td><b>30</b></td><td><b>local</b> e <b>suplementar</b></td><td>legislativa e material</td><td><b>Municípios</b></td><td>—</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Material x legislativa | \"Exclusiva\" e \"comum\" são de <b>fazer</b> (executar, administrar). \"Privativa\" e \"concorrente\" são de <b>legislar</b>. A privativa <b>pode</b> ser delegada aos Estados por LC; a exclusiva <b>não</b>.</div>\n<h3>3. Competência exclusiva da União (art. 21): o que mais cai</h3>\n<ul><li><b>Relações exteriores</b>: manter relações com Estados estrangeiros e participar de organizações internacionais; <b>declarar a guerra e celebrar a paz</b>; assegurar a defesa nacional; permitir que forças estrangeiras transitem pelo território.</li><li><b>Crises e intervenção</b>: decretar o <b>estado de sítio</b>, o <b>estado de defesa</b> e a <b>intervenção federal</b>; conceder <b>anistia</b>.</li><li><b>Moeda e serviços</b>: <b>emitir moeda</b>; manter o <b>serviço postal e o correio aéreo nacional</b>; explorar, diretamente ou por autorização, concessão ou permissão, os serviços de <b>telecomunicações</b>, <b>radiodifusão</b>, <b>energia elétrica</b>, <b>navegação aérea</b> e infraestrutura aeroportuária, <b>transporte ferroviário e aquaviário</b> entre portos brasileiros e fronteiras nacionais, <b>transporte rodoviário interestadual e internacional de passageiros</b> e os <b>portos</b> marítimos, fluviais e lacustres.</li><li><b>Segurança</b>: executar os serviços de <b>polícia marítima, aeroportuária e de fronteiras</b> (XXII); <b>organizar e manter</b> a polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do <b>Distrito Federal</b> (XIV).</li><li><b>Nuclear</b> (XXIII): explorar os serviços e instalações nucleares e exercer o <b>monopólio estatal</b> sobre a pesquisa, lavra, enriquecimento e reprocessamento de minérios nucleares; a atividade nuclear só é admitida para <b>fins pacíficos</b> e mediante aprovação do Congresso. A <b>responsabilidade civil por danos nucleares independe de culpa</b>.</li><li>Outras: organizar e manter o Poder Judiciário e o MP do DF e dos Territórios; <b>organizar, manter e executar a inspeção do trabalho</b>; estabelecer as áreas e as condições para o exercício da <b>garimpagem</b>, em forma associativa.</li></ul>\n<h3>4. Competência privativa da União para legislar (art. 22)</h3>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> CAPACETE de PM | <b>C</b>ivil · <b>A</b>grário · <b>P</b>enal · <b>A</b>eronáutico · <b>C</b>omercial · <b>E</b>leitoral · <b>T</b>rabalho · <b>E</b>spacial · <b>P</b>rocessual · <b>M</b>arítimo (art. 22, I).</div>\n<ul><li>Também são privativas da União, entre outras: <b>desapropriação</b>; <b>requisições civis e militares</b>, em caso de iminente perigo e em tempo de guerra; <b>águas, energia, informática, telecomunicações e radiodifusão</b>; <b>serviço postal</b>; <b>sistema monetário</b>; <b>trânsito e transporte</b>; <b>jazidas, minas e outros recursos minerais</b>; <b>nacionalidade, cidadania e naturalização</b>; <b>populações indígenas</b>; <b>emigração, imigração</b>, entrada, extradição e expulsão de estrangeiros; <b>registros públicos</b>; <b>normas gerais de licitação e contratação</b> (XXVII); <b>defesa territorial, aeroespacial, marítima, civil e mobilização nacional</b>; <b>seguridade social</b>; <b>diretrizes e bases da educação nacional</b>; <b>propaganda comercial</b>; <b>competência da polícia federal, da polícia rodoviária federal e da polícia ferroviária federal</b>; <b>normas gerais</b> de organização, efetivos, material bélico, garantias, convocação, mobilização, inatividades e pensões das <b>polícias militares e dos corpos de bombeiros militares</b> (XXI); e <b>proteção e tratamento de dados pessoais</b> (XXX, EC 115/2022).</li><li><b>Delegação</b> (parágrafo único): <b>lei complementar</b> pode autorizar os <b>Estados</b> a legislar sobre <b>questões específicas</b> das matérias do art. 22. A delegação deve alcançar <b>todos</b> os Estados (sem privilégio a alguns, art. 19, III).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 46</b><p class=\"jc-tese\">A definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são da competência legislativa privativa da União.</p><p class=\"jc-com\">Constituição estadual ou Lei Orgânica não pode criar novos crimes de responsabilidade para Governador ou Prefeito, nem mudar o rito do impeachment.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 2</b><p class=\"jc-tese\">É inconstitucional a lei ou ato normativo estadual ou distrital que disponha sobre sistemas de consórcios e sorteios, inclusive bingos e loterias.</p><p class=\"jc-com\">Legislar sobre o tema é privativo da União (sistemas de consórcios e sorteios, art. 22, XX). O STF admitiu depois que os Estados <b>explorem</b> loterias (ADPFs 492 e 493), mas continuam proibidos de <b>legislar</b> sobre o tema.</p></div>\n<ul><li><b>Trânsito</b> (art. 22, XI): lei estadual ou municipal que cria <b>infração de trânsito</b>, obriga equipamento em veículos ou altera regra de circulação é <b>inconstitucional</b>. O Município pode <b>organizar e fiscalizar</b> o trânsito local (estacionamento rotativo, sinalização), mas não <b>legislar</b> sobre trânsito.</li></ul>\n<h3>5. Competência comum (art. 23)</h3>\n<ul><li>É de <b>todos</b> os entes (União, Estados, DF e Municípios). Exemplos: zelar pela guarda da Constituição, das leis e das instituições democráticas e <b>conservar o patrimônio público</b>; cuidar da <b>saúde</b> e assistência pública e da proteção das <b>pessoas com deficiência</b>; proteger documentos, obras, <b>monumentos, paisagens naturais notáveis e sítios arqueológicos</b>; proporcionar os meios de acesso à <b>cultura, educação, ciência</b>; <b>proteger o meio ambiente e combater a poluição</b>; preservar as <b>florestas, a fauna e a flora</b>; fomentar a produção agropecuária e o abastecimento; promover programas de <b>moradia</b> e de <b>saneamento básico</b>; <b>combater as causas da pobreza</b> e os fatores de marginalização; estabelecer e implantar política de educação para a <b>segurança do trânsito</b>.</li><li><b>Leis complementares</b> fixarão normas para a <b>cooperação</b> entre os entes, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional (parágrafo único). Exemplo: <b>LC 140/2011</b>, sobre a cooperação em matéria <b>ambiental</b> (licenciamento e fiscalização).</li></ul>\n<h3>6. Competência concorrente (art. 24)</h3>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> PUFETO | <b>P</b>enitenciário · <b>U</b>rbanístico · <b>F</b>inanceiro · <b>E</b>conômico · <b>T</b>ributário · <b>O</b>rçamento (art. 24, I e II).</div>\n<ul><li>Também são concorrentes, entre outras: <b>juntas comerciais</b>; <b>custas dos serviços forenses</b>; <b>produção e consumo</b>; <b>florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e dos recursos naturais, proteção do meio ambiente</b> e controle da poluição; <b>proteção ao patrimônio histórico, cultural, artístico, turístico e paisagístico</b>; <b>responsabilidade por dano ao meio ambiente, ao consumidor</b> e a bens de valor artístico; <b>educação, cultura, ensino, desporto</b>, ciência e tecnologia; criação, funcionamento e processo do <b>juizado de pequenas causas</b>; <b>procedimentos em matéria processual</b>; <b>previdência social, proteção e defesa da saúde</b>; <b>assistência jurídica e Defensoria Pública</b>; proteção e integração social das <b>pessoas com deficiência</b>; proteção à <b>infância e à juventude</b>; <b>organização, garantias, direitos e deveres das polícias civis</b>.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 24, §§ 1º a 4º</div><div class=\"art-lei\">§ 1º No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer normas gerais. § 2º A competência da União para legislar sobre normas gerais não exclui a competência suplementar dos Estados. § 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para atender a suas peculiaridades. § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>União: <b>normas gerais</b>. Estados: <b>suplementam</b> (normas específicas).</li><li>Sem lei federal: Estado legisla <b>plenamente</b>, inclusive sobre normas gerais, mas só para atender às <b>suas peculiaridades</b>.</li><li>Lei federal posterior <b>suspende</b> a eficácia da lei estadual <b>no que for contrária</b>. Não revoga: se a lei federal cair, a estadual volta a produzir efeitos.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que a lei federal superveniente <b>revoga</b> a estadual (ela <b>suspende</b> a eficácia).</li><li>Incluir o <b>Município</b> no art. 24 (ele suplementa com base no art. 30, II).</li></ul></div></div>\n<ul><li><b>Normas gerais x específicas</b>: a União não pode descer a detalhes que esgotem o tema; o Estado não pode contrariar as normas gerais federais. Lei estadual <b>mais protetiva</b> ao meio ambiente ou ao consumidor costuma ser válida, desde que não contrarie a norma geral (STF).</li></ul>\n<h3>7. Competência dos Municípios (art. 30)</h3>\n<ul><li><b>I</b> – legislar sobre assuntos de <b>interesse local</b>; <b>II</b> – <b>suplementar</b> a legislação federal e a estadual <b>no que couber</b>; <b>III</b> – instituir e arrecadar seus <b>tributos</b> e aplicar suas rendas; <b>IV</b> – criar, organizar e suprimir <b>distritos</b>, observada a legislação estadual; <b>V</b> – organizar e prestar os <b>serviços públicos de interesse local</b>, incluído o <b>transporte coletivo</b>, que tem caráter <b>essencial</b>; <b>VI</b> – manter, com a cooperação técnica e financeira da União e do Estado, programas de <b>educação infantil e de ensino fundamental</b>; <b>VII</b> – prestar serviços de <b>atendimento à saúde</b> da população, com a mesma cooperação; <b>VIII</b> – promover o adequado <b>ordenamento territorial</b>, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano; <b>IX</b> – promover a proteção do <b>patrimônio histórico-cultural local</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>O que o Município pode</th><th>O que o Município não pode</th></tr></thead><tbody><tr><td>fixar o <b>horário de funcionamento</b> do comércio local (<b>SV 38</b>)</td><td>impedir a instalação de estabelecimentos do <b>mesmo ramo</b> em determinada área (<b>SV 49</b>, livre concorrência). Ex.: proibir farmácia a menos de 500 metros de outra</td></tr><tr><td>fixar <b>tempo máximo de espera em fila</b> de banco e exigir conforto aos usuários (Tema 272)</td><td>fixar o <b>horário de funcionamento dos bancos</b> (é da União, Súmula 19 do STJ)</td></tr><tr><td>legislar sobre <b>meio ambiente</b> no limite do <b>interesse local</b>, em harmonia com as normas federais e estaduais (Tema 145)</td><td>criar <b>infração de trânsito</b> (art. 22, XI)</td></tr><tr><td>organizar o <b>transporte coletivo urbano</b> e o estacionamento rotativo</td><td>legislar sobre <b>direito civil, penal, trabalhista</b> (art. 22, I)</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 38 e Súmula Vinculante 49</b><p class=\"jc-tese\">É competente o Município para fixar o horário de funcionamento de estabelecimento comercial (SV 38). Ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área (SV 49).</p><p class=\"jc-com\">A primeira é <b>interesse local</b>. A segunda mostra que o interesse local <b>não autoriza</b> restringir a <b>livre concorrência</b> (art. 170, IV).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A competência privativa do art. 22 é indelegável</span><br>✅ <span class=\"certo\">Pode ser delegada aos Estados por LC, sobre questões específicas.</span></li><li>❌ <span class=\"banca\">A competência exclusiva do art. 21 pode ser delegada por LC</span><br>✅ <span class=\"certo\">Exclusiva é indelegável.</span></li><li>❌ <span class=\"banca\">O Município participa da competência concorrente do art. 24</span><br>✅ <span class=\"certo\">Não; suplementa pelo art. 30, II.</span></li><li>❌ <span class=\"banca\">Lei federal superveniente revoga a lei estadual</span><br>✅ <span class=\"certo\">Suspende a eficácia no que for contrária.</span></li><li>❌ <span class=\"banca\">Município pode criar infração de trânsito</span><br>✅ <span class=\"certo\">Trânsito é privativo da União.</span></li><li>❌ <span class=\"banca\">Rio que corta mais de um Estado é estadual</span><br>✅ <span class=\"certo\">É bem da União.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exclusiva x privativa?</span></span><span class=\"vs\"><span><b>Exclusiva</b> (art. 21): material, <b>indelegável</b>. <b>Privativa</b> (art. 22): legislativa, <b>delegável</b> aos Estados por <b>LC</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 23?</span></span><span class=\"vs\"><span>Competência <b>comum</b>, material, de <b>todos</b> os entes.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 24?</span></span><span class=\"vs\"><span><b>Concorrente</b>, legislativa, <b>União, Estados e DF</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sem norma geral federal?</span></span><span class=\"vs\"><span>Estado exerce competência <b>plena</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei federal posterior?</span></span><span class=\"vs\"><span><b>Suspende</b> a eficácia da estadual contrária.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SV 38?</span></span><span class=\"vs\"><span>Município fixa <b>horário do comércio</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SV 49?</span></span><span class=\"vs\"><span>Lei municipal não pode impedir <b>mesmo ramo</b> na área.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Faixa de fronteira?</span></span><span class=\"vs\"><span>Até <b>150 km</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A lei da farmácia</b><p>A Câmara de um Município mineiro aprova lei que (1) proíbe abrir farmácia a menos de 300 metros de outra, (2) fixa o horário de funcionamento do comércio aos domingos e (3) cria multa para quem usar celular ao volante dentro da cidade.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Inconstitucional</b>: ofende a livre concorrência (SV 49). (2) <b>Constitucional</b>: horário do comércio é interesse local (SV 38). (3) <b>Inconstitucional</b>: criar infração de trânsito é competência privativa da União (art. 22, XI); o CTB já trata do tema.</p></details></div>",
+"quiz": [
+{
+"p": "São bens da União os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou que banhem mais de um Estado, sirvam de limites com outros países, ou se estendam a território estrangeiro ou dele provenham.",
+"c": true,
+"prof": "Art. 20, III.",
+"x": "Também os terrenos marginais e as praias fluviais. O rio que nasce e termina dentro de um mesmo Estado é bem estadual.",
+"e": "Rio interestadual: União."
+},
+{
+"p": "Todas as terras devolutas do país pertencem à União.",
+"c": false,
+"prof": "Art. 20, II, e art. 26, IV.",
+"x": "São da União apenas as terras devolutas indispensáveis à defesa das fronteiras, das fortificações e construções militares, das vias federais de comunicação e à preservação ambiental. As demais pertencem aos Estados.",
+"e": "Terras devolutas: em regra, dos Estados."
+},
+{
+"p": "Os recursos minerais, inclusive os do subsolo, são bens da União.",
+"c": true,
+"prof": "Art. 20, IX.",
+"x": "Por isso, o proprietário do solo não é dono das jazidas, embora lhe seja assegurada participação no resultado da lavra (art. 176).",
+"e": "Minérios: União."
+},
+{
+"p": "As ilhas costeiras que contenham a sede de Municípios pertencem integralmente à União.",
+"c": false,
+"prof": "Art. 20, IV.",
+"x": "As ilhas costeiras que contenham sede de Municípios estão excluídas dos bens da União, salvo as áreas afetadas ao serviço público e a unidade ambiental federal.",
+"e": "Ilha com sede de Município: excluída."
+},
+{
+"p": "A faixa de até cento e cinquenta quilômetros de largura ao longo das fronteiras terrestres, designada como faixa de fronteira, é considerada fundamental para a defesa do território nacional.",
+"c": true,
+"prof": "Art. 20, § 2º.",
+"x": "Sua ocupação e utilização são reguladas em lei.",
+"e": "Faixa de fronteira: 150 km."
+},
+{
+"p": "As terras tradicionalmente ocupadas pelos índios são bens da União.",
+"c": true,
+"prof": "Art. 20, XI.",
+"x": "Os índios têm a posse permanente e o usufruto exclusivo das riquezas do solo, dos rios e dos lagos nelas existentes (art. 231, § 2º).",
+"e": "Terras indígenas: União."
+},
+{
+"p": "Assinale a competência que é EXCLUSIVA da União (art. 21), e não legislativa privativa (art. 22).",
+"alts": [
+"Legislar sobre direito penal.",
+"Legislar sobre trânsito e transporte.",
+"Emitir moeda e decretar a intervenção federal.",
+"Legislar sobre desapropriação.",
+"Legislar sobre registros públicos."
+],
+"r": 2,
+"n": [
+"É privativa (art. 22, I).",
+"É privativa (art. 22, XI).",
+"Correta: competências materiais do art. 21.",
+"É privativa (art. 22, II).",
+"É privativa (art. 22, XXV)."
+],
+"prof": "Exclusiva = fazer.",
+"x": "O art. 21 traz competências materiais (administrar, executar), como emitir moeda e decretar intervenção. O art. 22 lista matérias sobre as quais a União legisla.",
+"e": "Art. 21: emitir moeda, intervenção."
+},
+{
+"p": "A competência exclusiva da União prevista no art. 21 pode ser delegada aos Estados por meio de lei complementar.",
+"c": false,
+"prof": "Exclusiva x privativa.",
+"x": "A competência exclusiva é indelegável. O que pode ser delegado por lei complementar é a competência privativa do art. 22, sobre questões específicas.",
+"e": "Exclusiva: indelegável."
+},
+{
+"p": "Lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas no art. 22 da Constituição.",
+"c": true,
+"prof": "Art. 22, parágrafo único.",
+"x": "A delegação não pode privilegiar apenas alguns Estados, sob pena de violar o art. 19, III.",
+"e": "Delegação: LC + questões específicas."
+},
+{
+"p": "Compete à União executar os serviços de polícia marítima, aeroportuária e de fronteiras.",
+"c": true,
+"prof": "Art. 21, XXII.",
+"x": "Na prática, essas funções cabem à Polícia Federal (art. 144, § 1º, III).",
+"e": "Polícia de fronteiras: União."
+},
+{
+"p": "A responsabilidade civil por danos nucleares depende da comprovação de culpa do operador.",
+"c": false,
+"prof": "Art. 21, XXIII, \"d\".",
+"x": "A responsabilidade civil por danos nucleares independe da existência de culpa.",
+"e": "Dano nuclear: sem culpa."
+},
+{
+"p": "Compete privativamente à União legislar sobre direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho.",
+"c": true,
+"prof": "Art. 22, I.",
+"x": "É o \"CAPACETE de PM\". Atenção: procedimentos em matéria processual são concorrentes (art. 24, XI).",
+"e": "CAPACETE de PM."
+},
+{
+"p": "Compete aos Estados legislar sobre a competência da polícia rodoviária federal.",
+"c": false,
+"prof": "Art. 22, XXII.",
+"x": "Legislar sobre a competência da polícia federal, da polícia rodoviária federal e da polícia ferroviária federal é privativo da União.",
+"e": "Competência da PRF: União legisla."
+},
+{
+"p": "Compete privativamente à União legislar sobre proteção e tratamento de dados pessoais.",
+"c": true,
+"prof": "Art. 22, XXX (EC 115/2022).",
+"x": "A EC 115/2022 também incluiu a proteção de dados pessoais entre os direitos fundamentais (art. 5º, LXXIX).",
+"e": "Dados pessoais: União."
+},
+{
+"p": "Compete privativamente à União legislar sobre normas gerais de licitação e contratação, em todas as modalidades, para as administrações públicas diretas, autárquicas e fundacionais da União, Estados, DF e Municípios.",
+"c": true,
+"prof": "Art. 22, XXVII.",
+"x": "Estados e Municípios podem editar normas específicas sobre licitação, respeitadas as normas gerais federais (Lei 14.133/2021).",
+"e": "Licitação: normas gerais da União."
+},
+{
+"p": "É constitucional lei estadual que disponha sobre bingos e loterias, desde que não contrarie a legislação federal.",
+"c": false,
+"prof": "SV 2.",
+"x": "É inconstitucional a lei estadual ou distrital que disponha sobre sistemas de consórcios e sorteios, inclusive bingos e loterias. Os Estados podem explorar loterias, mas não legislar sobre elas.",
+"e": "Loteria: Estado não legisla."
+},
+{
+"p": "A definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são da competência legislativa privativa da União.",
+"c": true,
+"prof": "SV 46.",
+"x": "Constituição estadual não pode tipificar novos crimes de responsabilidade do Governador.",
+"e": "Crime de responsabilidade: União."
+},
+{
+"p": "Uma lei municipal cria multa para o motorista que estacionar sobre a calçada e define essa conduta como nova infração de trânsito, não prevista no CTB. A lei é:",
+"alts": [
+"constitucional, por tratar de interesse local",
+"constitucional, com base na competência comum do art. 23",
+"inconstitucional, pois legislar sobre trânsito é competência privativa da União",
+"constitucional, pois o Município suplementa o CTB",
+"inconstitucional, pois trânsito é competência exclusiva dos Estados"
+],
+"r": 2,
+"n": [
+"Interesse local não autoriza criar infração.",
+"O art. 23, XII, fala em educação para segurança do trânsito, não em legislar.",
+"Correta: art. 22, XI.",
+"Criar infração não é suplementar.",
+"Não é estadual."
+],
+"prof": "Art. 22, XI.",
+"x": "Trânsito e transporte são de competência legislativa privativa da União. O Município fiscaliza e organiza o trânsito local, mas não cria infrações.",
+"e": "Infração de trânsito: só a União."
+},
+{
+"p": "Cuidar da saúde e assistência pública e proteger o meio ambiente e combater a poluição em qualquer de suas formas são competências comuns da União, dos Estados, do DF e dos Municípios.",
+"c": true,
+"prof": "Art. 23, II e VI.",
+"x": "As leis complementares fixarão normas de cooperação entre os entes, como a LC 140/2011 na área ambiental.",
+"e": "Saúde e meio ambiente: comum."
+},
+{
+"p": "A competência comum do art. 23 é legislativa e exclui a atuação dos Municípios.",
+"c": false,
+"prof": "Comum = material de todos.",
+"x": "A competência comum é material (administrativa) e inclui União, Estados, DF e Municípios.",
+"e": "Art. 23: material, todos os entes."
+},
+{
+"p": "Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre direito tributário, financeiro, penitenciário, econômico e urbanístico.",
+"c": true,
+"prof": "Art. 24, I.",
+"x": "Os Municípios não estão no art. 24, mas podem suplementar a legislação federal e estadual no que couber (art. 30, II).",
+"e": "PUFETO."
+},
+{
+"p": "Compete à União, aos Estados e ao DF legislar concorrentemente sobre organização, garantias, direitos e deveres das polícias civis.",
+"c": true,
+"prof": "Art. 24, XVI.",
+"x": "A União edita as normas gerais (Lei Orgânica Nacional das Polícias Civis, Lei 14.735/2023) e os Estados, as específicas (como a LC 129/2013 em Minas).",
+"e": "Polícias civis: concorrente."
+},
+{
+"p": "No âmbito da legislação concorrente, a superveniência de lei federal sobre normas gerais revoga a lei estadual no que lhe for contrária.",
+"c": false,
+"prof": "Suspende ou revoga?",
+"x": "A lei federal superveniente suspende a eficácia da lei estadual no que lhe for contrária (art. 24, § 4º).",
+"e": "Suspende, não revoga."
+},
+{
+"p": "Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para atender a suas peculiaridades.",
+"c": true,
+"prof": "Art. 24, § 3º.",
+"x": "A competência plena autoriza o Estado a editar também as normas gerais, enquanto a União não o fizer.",
+"e": "Sem norma geral: competência plena."
+},
+{
+"p": "Os Municípios integram a competência legislativa concorrente prevista no art. 24 da Constituição.",
+"c": false,
+"prof": "Quem está no caput do art. 24?",
+"x": "O art. 24 menciona apenas União, Estados e DF. O Município suplementa com base no art. 30, II.",
+"e": "Art. 24: sem Municípios."
+},
+{
+"p": "É competente o Município para fixar o horário de funcionamento de estabelecimento comercial.",
+"c": true,
+"prof": "SV 38.",
+"x": "Trata-se de assunto de interesse local (art. 30, I). O horário de funcionamento dos bancos, porém, é tema da União.",
+"e": "Horário do comércio: Município."
+},
+{
+"p": "É constitucional lei municipal que proíbe a instalação de nova farmácia a menos de 500 metros de outra já existente, para proteger o comércio local.",
+"c": false,
+"prof": "SV 49.",
+"x": "Lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área ofende a livre concorrência.",
+"e": "Distância mínima entre farmácias: inconstitucional."
+},
+{
+"p": "Compete aos Municípios organizar e prestar, diretamente ou sob regime de concessão ou permissão, os serviços públicos de interesse local, incluído o de transporte coletivo, que tem caráter essencial.",
+"c": true,
+"prof": "Art. 30, V.",
+"x": "O transporte coletivo intermunicipal é estadual, e o interestadual de passageiros, federal (art. 21, XII, \"e\").",
+"e": "Transporte coletivo urbano: Município."
+},
+{
+"p": "Sobre a competência municipal, segundo a jurisprudência do STF, assinale a afirmativa correta.",
+"alts": [
+"O Município pode fixar o horário de funcionamento das agências bancárias.",
+"O Município pode legislar sobre tempo máximo de espera de clientes em filas de agências bancárias.",
+"O Município pode legislar sobre direito do trabalho dos comerciários locais.",
+"O Município pode criar novas hipóteses de crime de responsabilidade do Prefeito.",
+"O Município não pode legislar sobre meio ambiente em nenhuma hipótese."
+],
+"r": 1,
+"n": [
+"O horário bancário é da União.",
+"Correta: interesse local (Tema 272).",
+"Direito do trabalho é privativo da União.",
+"SV 46.",
+"Pode, no limite do interesse local (Tema 145)."
+],
+"prof": "Fila de banco x horário de banco.",
+"x": "O STF reconheceu o interesse local na fixação do tempo de espera em filas e no conforto dos usuários. O horário das agências bancárias, porém, é matéria da União.",
+"e": "Fila de banco: Município."
+},
+{
+"p": "Compete aos Municípios promover, no que couber, adequado ordenamento territorial, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano.",
+"c": true,
+"prof": "Art. 30, VIII.",
+"x": "O instrumento básico da política urbana é o plano diretor, obrigatório para cidades com mais de 20 mil habitantes (art. 182, § 1º).",
+"e": "Uso do solo urbano: Município."
+},
+{
+"p": "Compete ao Município legislar sobre o horário de funcionamento das agências bancárias, por ser assunto de interesse local.",
+"c": false,
+"prof": "Súmula 19 do STJ.",
+"x": "A fixação do horário bancário, para atendimento ao público, é da competência da União.",
+"e": "Horário bancário: União."
+}
+]
+},
+"controle": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>9</b><span>legitimados para ADI, ADC e ADO (art. 103)</span></div><div class=\"lt-stat\"><b>2/3</b><span>dos ministros para modular os efeitos (Lei 9.868, art. 27)</span></div><div class=\"lt-stat\"><b>6</b><span>votos para declarar a (in)constitucionalidade, com 8 ministros presentes</span></div><div class=\"lt-stat\"><b>30 dias</b><span>prazo do órgão administrativo na ADO</span></div></div>\n<h3>1. Pressupostos e tipos de inconstitucionalidade</h3>\n<ul><li>O controle de constitucionalidade verifica a <b>compatibilidade</b> de leis e atos normativos com a Constituição. Pressupõe uma Constituição <b>suprema</b> (no topo do ordenamento) e <b>rígida</b> (que exige processo mais difícil para ser alterada), além de um <b>órgão</b> competente para fazer o controle.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>O que está errado</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Formal orgânica</b></td><td>o <b>ente</b> não tinha competência</td><td>lei municipal sobre trânsito</td></tr><tr><td><b>Formal subjetiva</b> (vício de <b>iniciativa</b>)</td><td><b>quem propôs</b> não podia propor</td><td>vereador propõe lei que cria cargos no Executivo</td></tr><tr><td><b>Formal objetiva</b></td><td>o <b>procedimento</b> não foi seguido</td><td>matéria de lei complementar aprovada por maioria simples</td></tr><tr><td><b>Material</b></td><td>o <b>conteúdo</b> contraria a Constituição</td><td>lei que institui pena de morte em tempo de paz</td></tr><tr><td><b>Por omissão</b> (total ou parcial)</td><td>falta a norma exigida pela Constituição</td><td>demora na lei do direito de greve do servidor</td></tr></tbody></table>\n<ul><li>O <b>vício de iniciativa não é sanado pela sanção</b> do Chefe do Executivo (a antiga Súmula 5 do STF está superada).</li><li><b>Não há inconstitucionalidade superveniente</b> no Brasil: a lei <b>anterior</b> à Constituição que é incompatível com ela <b>não foi recepcionada</b> (foi revogada). Se é compatível, foi <b>recepcionada</b>, ainda que com outra roupagem (o CTN, lei ordinária, foi recepcionado como <b>lei complementar</b>).</li></ul>\n<h3>2. Momentos do controle</h3>\n<table class=\"tab\"><thead><tr><th>Momento</th><th>Por quem</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Preventivo</b> (sobre o <b>projeto</b>)</td><td><b>Legislativo</b></td><td><b>Comissão de Constituição e Justiça</b> (CCJ)</td></tr><tr><td>; <b>Executivo</b></td><td><b>veto jurídico</b> (por inconstitucionalidade)</td></tr><tr><td>; <b>Judiciário</b></td><td><b>mandado de segurança impetrado por parlamentar</b> da Casa onde tramita o projeto, para garantir o <b>devido processo legislativo</b></td></tr><tr><td><b>Repressivo</b> (sobre a <b>lei pronta</b>)</td><td><b>Judiciário</b> (regra)</td><td>controle difuso e concentrado</td></tr><tr><td>; <b>Legislativo</b> (exceção)</td><td>Congresso <b>susta atos normativos do Executivo</b> que exorbitem do poder regulamentar ou dos limites de delegação legislativa (art. 49, V); <b>rejeição de medida provisória</b> inconstitucional</td></tr><tr><td>; <b>Executivo</b> (exceção)</td><td>o Chefe do Executivo pode <b>deixar de aplicar</b> lei que considere inconstitucional, motivadamente, até decisão judicial (posição tradicional do STF)</td></tr></tbody></table>\n<ul><li>No <b>MS do parlamentar</b>, o STF só examina <b>vícios formais</b> (procedimento). Ele <b>não</b> faz controle preventivo de <b>conteúdo</b> de projeto de lei, salvo para PEC tendente a abolir <b>cláusula pétrea</b> (art. 60, § 4º: \"não será objeto de <b>deliberação</b>\").</li></ul>\n<h3>3. Controle difuso (concreto, incidental)</h3>\n<ul><li>Origem: caso <b>Marbury v. Madison</b> (EUA, <b>1803</b>). Existe no Brasil desde a <b>Constituição de 1891</b>.</li><li>Feito por <b>qualquer juiz ou tribunal</b>, em <b>qualquer processo</b>. A inconstitucionalidade é <b>questão prejudicial</b>, a <b>causa de pedir</b>, e não o pedido principal. Por isso é possível em <b>ação civil pública</b>, desde que a inconstitucionalidade não seja o pedido principal (se fosse, a ACP funcionaria como ADI).</li><li><b>Efeitos</b>: em regra, <b>inter partes</b> (só entre as partes) e <b>ex tunc</b> (retroativos).</li><li><b>Recurso extraordinário</b> (art. 102, III): leva a questão ao STF; exige <b>repercussão geral</b>, que o STF só pode recusar pelo voto de <b>2/3</b> dos seus membros (art. 102, § 3º).</li><li><b>Senado</b> (art. 52, X): suspende, <b>no todo ou em parte</b>, a execução de lei declarada inconstitucional por <b>decisão definitiva do STF</b> no controle difuso. A resolução do Senado é <b>discricionária</b> e tem efeitos <b>erga omnes</b>. Hoje o STF entende que a decisão do <b>Plenário</b>, mesmo no controle difuso, já tem <b>efeito geral</b>, cabendo ao Senado apenas dar <b>publicidade</b> (<b>abstrativização</b>, ADIs 3.406 e 3.470).</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 97 (cláusula de reserva de plenário)</div><div class=\"art-lei\">Somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Vale para os <b>tribunais</b> (o juiz singular não se submete).</li><li>Viola a regra a decisão de <b>órgão fracionário</b> (turma, câmara) que, <b>embora não declare expressamente</b> a inconstitucionalidade, <b>afasta a incidência</b> da lei, no todo ou em parte (<b>SV 10</b>).</li><li><b>Exceção</b> (CPC, art. 949, parágrafo único): o órgão fracionário pode aplicar diretamente a inconstitucionalidade se já houver pronunciamento do <b>plenário do próprio tribunal</b> ou do <b>plenário do STF</b> sobre a questão.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Exigir reserva de plenário para o juiz de primeiro grau.</li><li>Dizer que basta a turma não \"declarar\" a inconstitucionalidade para escapar da regra (SV 10).</li></ul></div></div>\n<h3>4. Controle concentrado (abstrato): as ações</h3>\n<ul><li>Origem: modelo de <b>Hans Kelsen</b> (Constituição da <b>Áustria, 1920</b>). No Brasil, desde a <b>EC 16/1965</b> (representação de inconstitucionalidade). Hoje o sistema é <b>misto</b> (difuso + concentrado).</li><li>É um <b>processo objetivo</b>: não há partes nem interesses subjetivos; defende-se a ordem constitucional.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ação</th><th>Objeto</th><th>Detalhe</th></tr></thead><tbody><tr><td><b>ADI</b> (genérica)</td><td>lei ou ato normativo <b>federal ou estadual</b> (e <b>distrital</b> de natureza estadual) <b>posterior</b> à Constituição</td><td>não cabe contra <b>lei municipal</b>, nem contra norma <b>pré-constitucional</b>, nem contra lei do DF de natureza <b>municipal</b> (Súmula 642)</td></tr><tr><td><b>ADC</b></td><td>lei ou ato normativo <b>federal</b></td><td>exige <b>controvérsia judicial relevante</b> sobre a validade da lei</td></tr><tr><td><b>ADO</b></td><td><b>omissão</b> de medida para tornar efetiva norma constitucional</td><td>dá <b>ciência</b> ao Poder competente; órgão <b>administrativo</b>: prazo de <b>30 dias</b> (art. 103, § 2º)</td></tr><tr><td><b>ADPF</b> (Lei 9.882/1999)</td><td><b>qualquer ato do Poder Público</b> que lese <b>preceito fundamental</b>, inclusive <b>municipal</b>, <b>pré-constitucional</b> e <b>decisões judiciais</b></td><td><b>subsidiária</b>: só cabe se não houver outro meio eficaz de sanar a lesividade</td></tr><tr><td><b>ADI interventiva</b> (art. 36, III)</td><td>violação de <b>princípio sensível</b> pelo Estado ou recusa à execução de lei federal</td><td>só o <b>PGR</b> propõe; o efeito é permitir a <b>intervenção federal</b></td></tr></tbody></table>\n<ul><li><b>ADI e ADC têm caráter dúplice (ambivalente)</b>: julgada <b>improcedente</b> a ADI, a lei é declarada <b>constitucional</b>; julgada improcedente a ADC, a lei é declarada <b>inconstitucional</b> (Lei 9.868, art. 24).</li><li><b>Não há prazo</b> para propor ADI: a inconstitucionalidade não se convalida com o tempo (Súmula 360 do STF).</li></ul>\n<h3>5. Quem pode propor (art. 103)</h3>\n<table class=\"tab\"><thead><tr><th>Legitimados</th><th>Quais</th></tr></thead><tbody><tr><td><b>Universais</b> (não precisam demonstrar pertinência temática)</td><td><b>Presidente da República</b>; <b>Mesa do Senado</b>; <b>Mesa da Câmara dos Deputados</b>; <b>Procurador-Geral da República</b>; <b>Conselho Federal da OAB</b>; <b>partido político com representação no Congresso Nacional</b></td></tr><tr><td><b>Especiais</b> (precisam de <b>pertinência temática</b>: relação entre a norma e seus interesses)</td><td><b>Mesa de Assembleia Legislativa</b> ou da Câmara Legislativa do DF; <b>Governador</b> de Estado ou do DF; <b>confederação sindical</b> ou <b>entidade de classe de âmbito nacional</b></td></tr></tbody></table>\n<ul><li>A <b>representação no Congresso</b> do partido é aferida no <b>momento da propositura</b>: a perda superveniente da bancada <b>não prejudica</b> a ação.</li><li><b>Capacidade postulatória</b>: partidos políticos, confederações sindicais e entidades de classe precisam de <b>advogado</b>; os demais legitimados (como o Governador e o Presidente) podem assinar a petição <b>diretamente</b>.</li><li><b>Prefeito</b>, <b>Mesa de Câmara Municipal</b>, <b>Defensor Público-Geral</b>, <b>sindicato</b> e <b>federação sindical</b> <b>não</b> podem propor ADI no STF.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Go-Me-Co | Especiais: <b>Go</b>vernador, <b>Me</b>sa de Assembleia (ou da Câmara Legislativa do DF) e <b>Co</b>nfederação sindical ou entidade de classe de âmbito nacional.</div>\n<h3>6. Processo e efeitos da decisão (Lei 9.868/1999)</h3>\n<ul><li>O <b>PGR</b> é ouvido em <b>todas</b> as ações (art. 103, § 1º). O <b>AGU</b> atua como <b>curador</b> da norma impugnada, defendendo-a (§ 3º), mas pode deixar de defendê-la quando o STF já tiver decidido pela sua inconstitucionalidade.</li><li><b>Não se admite desistência</b> nem <b>intervenção de terceiros</b>. Admite-se o <b>amicus curiae</b> (entidades com representatividade), por decisão <b>irrecorrível</b> do relator (art. 7º, § 2º).</li><li><b>Medida cautelar</b> em ADI: concedida pela <b>maioria absoluta</b> dos ministros; efeitos, em regra, <b>ex nunc</b> e <b>erga omnes</b>; torna <b>aplicável a legislação anterior</b>, se existente (efeito <b>repristinatório</b>), salvo manifestação em contrário (art. 11).</li><li><b>Julgamento</b>: exige a presença de pelo menos <b>8 ministros</b>; a (in)constitucionalidade é proclamada com pelo menos <b>6 votos</b> no mesmo sentido.</li><li><b>Efeitos da decisão definitiva</b>: eficácia <b>erga omnes</b>, <b>efeito vinculante</b> em relação aos demais órgãos do <b>Poder Judiciário</b> e à <b>administração pública direta e indireta</b>, nas esferas federal, estadual e municipal (art. 102, § 2º), e, em regra, <b>ex tunc</b>. O efeito vinculante <b>não alcança o Poder Legislativo</b> em sua função de legislar (ele pode aprovar nova lei igual) nem o <b>próprio STF</b>.</li><li><b>Modulação de efeitos</b> (art. 27): por razões de <b>segurança jurídica</b> ou de <b>excepcional interesse social</b>, por <b>2/3</b> dos ministros, o STF pode restringir os efeitos ou decidir que só terão eficácia a partir do trânsito em julgado ou de outro momento.</li><li>A decisão é <b>irrecorrível</b>, salvo <b>embargos de declaração</b>, e <b>não cabe ação rescisória</b> (art. 26). O descumprimento autoriza <b>reclamação</b> ao STF.</li></ul>\n<h3>7. Técnicas de decisão</h3>\n<ul><li><b>Interpretação conforme a Constituição</b>: entre várias interpretações possíveis, o STF fixa a que é compatível com a Constituição, <b>sem alterar o texto</b>.</li><li><b>Declaração parcial de nulidade sem redução de texto</b>: o STF afasta <b>uma hipótese de aplicação</b> da lei, mantendo o texto intacto.</li><li><b>Inconstitucionalidade por arrastamento</b> (por atração): a declaração de inconstitucionalidade de uma norma alcança outras que dela dependem, mesmo que não tenham sido impugnadas.</li><li><b>Lei ainda constitucional</b> (inconstitucionalidade progressiva): a lei é mantida enquanto subsistirem as circunstâncias que a justificam (exemplo clássico: prazo em dobro da Defensoria Pública enquanto ela não estiver plenamente estruturada).</li></ul>\n<h3>8. Controle nos Estados (art. 125, § 2º)</h3>\n<ul><li>Cabe aos Estados instituir <b>representação de inconstitucionalidade</b> de leis ou atos normativos <b>estaduais ou municipais</b> em face da <b>Constituição Estadual</b>, julgada pelo <b>Tribunal de Justiça</b>, <b>vedada a atribuição da legitimação para agir a um único órgão</b>.</li><li>Se a norma da Constituição Estadual <b>reproduz norma de observância obrigatória</b> da Constituição Federal, cabe <b>recurso extraordinário</b> ao STF contra a decisão do TJ (Tema 484).</li><li>Se a mesma lei estadual for impugnada ao mesmo tempo no <b>TJ</b> (em face da CE) e no <b>STF</b> (em face da CF), o processo no TJ fica <b>suspenso</b> até a decisão do STF.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Lei municipal pode ser objeto de ADI no STF</span><br>✅ <span class=\"certo\">Não; cabem ADPF, controle difuso ou representação no TJ.</span></li><li>❌ <span class=\"banca\">Lei anterior à CF incompatível com ela é inconstitucional</span><br>✅ <span class=\"certo\">Não foi recepcionada; cabe ADPF, não ADI.</span></li><li>❌ <span class=\"banca\">Juiz de primeiro grau precisa observar a reserva de plenário</span><br>✅ <span class=\"certo\">Só os tribunais.</span></li><li>❌ <span class=\"banca\">O efeito vinculante alcança o Legislativo</span><br>✅ <span class=\"certo\">Não na função de legislar.</span></li><li>❌ <span class=\"banca\">A sanção do Executivo sana o vício de iniciativa</span><br>✅ <span class=\"certo\">Não sana.</span></li><li>❌ <span class=\"banca\">Prefeito pode propor ADI no STF</span><br>✅ <span class=\"certo\">Não está no art. 103.</span></li><li>❌ <span class=\"banca\">Modulação exige maioria absoluta</span><br>✅ <span class=\"certo\">Exige 2/3.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Difuso x concentrado?</span></span><span class=\"vs\"><span><b>Difuso</b>: qualquer juiz, caso concreto, inter partes. <b>Concentrado</b>: STF (ou TJ), processo objetivo, erga omnes e vinculante.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reserva de plenário?</span></span><span class=\"vs\"><span>Maioria absoluta do tribunal ou do órgão especial (art. 97; <b>SV 10</b>).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ADPF?</span></span><span class=\"vs\"><span>Qualquer ato do Poder Público, inclusive <b>municipal</b> e <b>pré-constitucional</b>; <b>subsidiária</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ADC?</span></span><span class=\"vs\"><span>Lei <b>federal</b> + <b>controvérsia judicial relevante</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Legitimados especiais?</span></span><span class=\"vs\"><span><b>Governador, Mesa de Assembleia, confederação sindical ou entidade de classe</b> (pertinência temática).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quorum?</span></span><span class=\"vs\"><span><b>8</b> presentes, <b>6</b> votos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Modulação?</span></span><span class=\"vs\"><span><b>2/3</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A lei de Belo Vale</b><p>Uma lei de Belo Vale cria gratificação para servidores sem prever a fonte de custeio e foi proposta por um vereador. Um servidor prejudicado quer contestá-la, e um partido político quer levá-la ao STF.</p><details><summary>Ver a solução comentada</summary><p>A lei tem <b>vício de iniciativa</b> (matéria de iniciativa do Prefeito), que a sanção não sana. Como é <b>lei municipal</b>, <b>não cabe ADI no STF</b>. As vias são: <b>controle difuso</b> em qualquer processo concreto; <b>ADPF</b> no STF (subsidiária), proposta por um legitimado do art. 103, como o partido com representação no Congresso; ou <b>representação de inconstitucionalidade no TJMG</b>, em face da Constituição de Minas.</p></details></div>",
+"quiz": [
+{
+"p": "O controle de constitucionalidade pressupõe a supremacia e a rigidez da Constituição.",
+"c": true,
+"prof": "Por que controlar?",
+"x": "Só há hierarquia entre a Constituição e as leis se ela for suprema e exigir um processo mais difícil para ser alterada (rígida).",
+"e": "Supremacia + rigidez."
+},
+{
+"p": "A sanção do projeto de lei pelo Chefe do Executivo supre o vício de iniciativa, segundo o entendimento atual do STF.",
+"c": false,
+"prof": "Súmula 5 do STF superada.",
+"x": "A sanção não convalida o vício de iniciativa: a lei continua formalmente inconstitucional.",
+"e": "Sanção não sana o vício."
+},
+{
+"p": "Lei ordinária que trate de matéria reservada a lei complementar padece de inconstitucionalidade formal objetiva.",
+"c": true,
+"prof": "Procedimento errado.",
+"x": "A lei complementar exige quórum de maioria absoluta. Usar o rito da lei ordinária viola o procedimento previsto na Constituição.",
+"e": "Formal objetiva."
+},
+{
+"p": "No Brasil, admite-se a inconstitucionalidade superveniente de lei anterior à Constituição.",
+"c": false,
+"prof": "Recepção.",
+"x": "A lei pré-constitucional incompatível com a nova Constituição não é recepcionada (é revogada). O STF não admite a tese da inconstitucionalidade superveniente.",
+"e": "Pré-constitucional: recepção ou não."
+},
+{
+"p": "O veto do Chefe do Executivo fundado na inconstitucionalidade do projeto é exemplo de controle preventivo de constitucionalidade.",
+"c": true,
+"prof": "Veto jurídico.",
+"x": "Outros exemplos de controle preventivo são a análise pela CCJ e o mandado de segurança impetrado por parlamentar.",
+"e": "Veto jurídico: preventivo."
+},
+{
+"p": "O parlamentar tem legitimidade para impetrar mandado de segurança no STF a fim de garantir o devido processo legislativo na tramitação de proposta de emenda constitucional na Casa a que pertence.",
+"c": true,
+"prof": "Controle preventivo judicial.",
+"x": "A legitimidade é exclusiva do parlamentar da Casa onde tramita a proposição, e o controle é, em regra, de vícios formais.",
+"e": "MS do parlamentar."
+},
+{
+"p": "A sustação, pelo Congresso Nacional, de atos normativos do Poder Executivo que exorbitem do poder regulamentar é exemplo de controle repressivo exercido pelo Legislativo.",
+"c": true,
+"prof": "Art. 49, V.",
+"x": "É uma exceção à regra de que o controle repressivo é feito pelo Judiciário. Outro exemplo é a rejeição de medida provisória inconstitucional.",
+"e": "Art. 49, V: repressivo legislativo."
+},
+{
+"p": "No controle difuso, a declaração de inconstitucionalidade é o pedido principal da ação.",
+"c": false,
+"prof": "Questão prejudicial.",
+"x": "No controle difuso, a inconstitucionalidade é a causa de pedir (questão incidental). O pedido é a tutela do direito no caso concreto.",
+"e": "Difuso: causa de pedir."
+},
+{
+"p": "É admissível o controle difuso de constitucionalidade em ação civil pública, desde que a inconstitucionalidade seja invocada como causa de pedir, e não como pedido principal.",
+"c": true,
+"prof": "ACP x ADI.",
+"x": "Se a declaração de inconstitucionalidade fosse o próprio pedido, a ACP usurparia a competência do STF.",
+"e": "ACP: inconstitucionalidade como causa de pedir."
+},
+{
+"p": "Somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.",
+"c": true,
+"prof": "Art. 97.",
+"x": "É a cláusula de reserva de plenário, que não se aplica ao juiz singular.",
+"e": "Reserva de plenário."
+},
+{
+"p": "Viola a cláusula de reserva de plenário a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei, afasta sua incidência, no todo ou em parte.",
+"c": true,
+"prof": "SV 10.",
+"x": "A súmula impede que turmas e câmaras contornem o art. 97 deixando de aplicar a lei sem declarar formalmente sua inconstitucionalidade.",
+"e": "SV 10."
+},
+{
+"p": "O juiz de direito de primeiro grau só pode deixar de aplicar lei inconstitucional após manifestação do órgão especial do tribunal.",
+"c": false,
+"prof": "A quem se aplica o art. 97?",
+"x": "A reserva de plenário vincula os tribunais. O juiz singular exerce o controle difuso livremente.",
+"e": "Juiz singular: sem reserva."
+},
+{
+"p": "Os órgãos fracionários dos tribunais não submeterão ao plenário a arguição de inconstitucionalidade quando já houver pronunciamento deles ou do plenário do STF sobre a questão.",
+"c": true,
+"prof": "CPC, art. 949, parágrafo único.",
+"x": "É exceção à cláusula de reserva de plenário, por economia processual.",
+"e": "Exceção do art. 949."
+},
+{
+"p": "Sobre a atuação do Senado Federal no controle difuso, assinale a afirmativa correta.",
+"alts": [
+"O Senado está obrigado a suspender a lei declarada inconstitucional pelo STF.",
+"O Senado pode revogar a lei federal declarada inconstitucional.",
+"Compete privativamente ao Senado suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do STF.",
+"O Senado só atua no controle concentrado.",
+"O Senado pode suspender lei declarada inconstitucional por qualquer tribunal."
+],
+"r": 2,
+"n": [
+"A atuação é discricionária.",
+"O Senado suspende, não revoga.",
+"Correta: art. 52, X.",
+"Atua no difuso; o concentrado já tem efeito geral.",
+"Só decisões definitivas do STF."
+],
+"prof": "Art. 52, X.",
+"x": "O Senado suspende a execução da lei, com efeitos gerais. O STF passou a entender que a decisão do Plenário já tem efeito geral, cabendo ao Senado dar publicidade.",
+"e": "Senado suspende."
+},
+{
+"p": "No recurso extraordinário, o STF pode recusar a repercussão geral pelo voto da maioria simples de seus membros.",
+"c": false,
+"prof": "Art. 102, § 3º.",
+"x": "O STF só pode recusar o recurso por ausência de repercussão geral pela manifestação de dois terços de seus membros.",
+"e": "Recusar repercussão geral: 2/3."
+},
+{
+"p": "Não cabe ação direta de inconstitucionalidade no STF contra lei municipal em face da Constituição Federal.",
+"c": true,
+"prof": "Objeto da ADI.",
+"x": "A ADI no STF tem por objeto lei ou ato normativo federal ou estadual. Contra lei municipal, cabem ADPF, controle difuso ou representação no TJ em face da Constituição Estadual.",
+"e": "Lei municipal: sem ADI no STF."
+},
+{
+"p": "Cabe ADI no STF contra lei do Distrito Federal editada no exercício de competência municipal.",
+"c": false,
+"prof": "Súmula 642 do STF.",
+"x": "Não cabe ADI perante o STF tendo por objeto lei do DF derivada de sua competência legislativa municipal.",
+"e": "Lei distrital municipal: sem ADI."
+},
+{
+"p": "A ação declaratória de constitucionalidade tem por objeto lei ou ato normativo federal e exige a demonstração de controvérsia judicial relevante.",
+"c": true,
+"prof": "ADC.",
+"x": "A ADC busca transformar a presunção relativa de constitucionalidade em absoluta, diante de decisões judiciais divergentes.",
+"e": "ADC: federal + controvérsia."
+},
+{
+"p": "A ADPF pode ter por objeto lei municipal e norma anterior à Constituição de 1988.",
+"c": true,
+"prof": "Amplitude da ADPF.",
+"x": "A ADPF cabe contra qualquer ato do Poder Público que lese preceito fundamental, mas é subsidiária: só cabe quando não houver outro meio eficaz.",
+"e": "ADPF: municipal e pré-constitucional."
+},
+{
+"p": "A ADPF pode ser ajuizada mesmo quando houver outro meio eficaz para sanar a lesividade, a critério do autor.",
+"c": false,
+"prof": "Subsidiariedade.",
+"x": "A Lei 9.882/1999 (art. 4º, § 1º) não admite ADPF quando houver qualquer outro meio eficaz de sanar a lesividade.",
+"e": "ADPF: subsidiária."
+},
+{
+"p": "Declarada a inconstitucionalidade por omissão, será dada ciência ao Poder competente para a adoção das providências necessárias e, em se tratando de órgão administrativo, para fazê-lo em trinta dias.",
+"c": true,
+"prof": "Art. 103, § 2º.",
+"x": "Ao Poder Legislativo o STF apenas dá ciência; ao órgão administrativo fixa o prazo de 30 dias.",
+"e": "ADO: órgão administrativo, 30 dias."
+},
+{
+"p": "Proclamada a constitucionalidade, julgar-se-á improcedente a ação direta ou procedente eventual ação declaratória, e vice-versa, dado o caráter dúplice dessas ações.",
+"c": true,
+"prof": "Lei 9.868, art. 24.",
+"x": "ADI e ADC são ações de sinal trocado: a improcedência de uma equivale à procedência da outra.",
+"e": "ADI e ADC: dúplices."
+},
+{
+"p": "O direito de propor ação direta de inconstitucionalidade prescreve em cinco anos contados da publicação da lei.",
+"c": false,
+"prof": "Súmula 360 do STF.",
+"x": "Não há prazo prescricional ou decadencial para a ADI: a inconstitucionalidade não se convalida pelo tempo.",
+"e": "ADI: sem prazo."
+},
+{
+"p": "Assinale a alternativa que contém apenas legitimados UNIVERSAIS para propor ADI.",
+"alts": [
+"Governador, PGR e Mesa do Senado",
+"Presidente da República, Conselho Federal da OAB e partido político com representação no Congresso",
+"Mesa de Assembleia Legislativa, PGR e confederação sindical",
+"Prefeito, Governador e Presidente",
+"Entidade de classe de âmbito nacional e Mesa da Câmara dos Deputados"
+],
+"r": 1,
+"n": [
+"O Governador é especial.",
+"Correta.",
+"Mesa de Assembleia e confederação são especiais.",
+"O Prefeito não é legitimado.",
+"A entidade de classe é especial."
+],
+"prof": "Especiais: Go-Me-Co.",
+"x": "São universais: Presidente, Mesas do Senado e da Câmara, PGR, Conselho Federal da OAB e partido com representação no Congresso. Os especiais precisam demonstrar pertinência temática.",
+"e": "Universais: os 6 \"nacionais\"."
+},
+{
+"p": "O Governador de Estado deve demonstrar pertinência temática para propor ADI no STF contra lei de outro Estado.",
+"c": true,
+"prof": "Legitimado especial.",
+"x": "Governador, Mesa de Assembleia e confederação sindical ou entidade de classe nacional precisam demonstrar a relação entre a norma impugnada e seus interesses.",
+"e": "Governador: pertinência temática."
+},
+{
+"p": "A perda superveniente de representação do partido político no Congresso Nacional extingue a ADI por ele proposta.",
+"c": false,
+"prof": "Momento da aferição.",
+"x": "A legitimidade é aferida no momento da propositura. A perda superveniente da bancada não prejudica a ação.",
+"e": "Representação: aferida no ajuizamento."
+},
+{
+"p": "O Governador de Estado tem capacidade postulatória para propor ADI, podendo assinar a petição inicial sem advogado.",
+"c": true,
+"prof": "Quem precisa de advogado?",
+"x": "Precisam de advogado os partidos políticos, as confederações sindicais e as entidades de classe de âmbito nacional.",
+"e": "Governador: assina direto."
+},
+{
+"p": "Proposta a ação direta de inconstitucionalidade, o autor pode desistir dela a qualquer tempo.",
+"c": false,
+"prof": "Processo objetivo.",
+"x": "A Lei 9.868/1999 (art. 5º) não admite desistência da ADI proposta.",
+"e": "ADI: sem desistência."
+},
+{
+"p": "Na ADI, o Advogado-Geral da União será citado para defender o ato ou texto impugnado.",
+"c": true,
+"prof": "Art. 103, § 3º.",
+"x": "Segundo o STF, o AGU pode deixar de defender a norma quando já houver decisão do tribunal pela sua inconstitucionalidade.",
+"e": "AGU: curador da norma."
+},
+{
+"p": "Sobre o julgamento da ADI, segundo a Lei 9.868/1999, assinale a afirmativa correta.",
+"alts": [
+"Basta a maioria simples dos ministros presentes para declarar a inconstitucionalidade.",
+"Exige-se a presença de pelo menos 8 ministros, e a inconstitucionalidade é proclamada se ao menos 6 votarem nesse sentido.",
+"A modulação dos efeitos exige maioria absoluta.",
+"A decisão admite ação rescisória em até 2 anos.",
+"A medida cautelar exige 2/3 dos ministros."
+],
+"r": 1,
+"n": [
+"Exige maioria absoluta (6).",
+"Correta: arts. 22 e 23.",
+"A modulação exige 2/3.",
+"Não cabe rescisória (art. 26).",
+"A cautelar exige maioria absoluta."
+],
+"prof": "8 presentes, 6 votos.",
+"x": "O quórum de instalação é de 8 ministros, e a declaração exige 6 votos no mesmo sentido. A modulação depende de 2/3, e a cautelar, de maioria absoluta.",
+"e": "8 e 6."
+},
+{
+"p": "A medida cautelar em ADI, dotada de eficácia contra todos, será concedida com efeito ex nunc, salvo se o Tribunal entender que deva conceder-lhe eficácia retroativa.",
+"c": true,
+"prof": "Lei 9.868, art. 11, § 1º.",
+"x": "A concessão da cautelar torna aplicável a legislação anterior, se existente, salvo expressa manifestação em sentido contrário.",
+"e": "Cautelar: ex nunc, em regra."
+},
+{
+"p": "O efeito vinculante da decisão em ADI impede o Poder Legislativo de editar nova lei com conteúdo idêntico ao da norma declarada inconstitucional.",
+"c": false,
+"prof": "Alcance do efeito vinculante.",
+"x": "O efeito vinculante alcança os demais órgãos do Judiciário e a administração pública, mas não o Legislativo em sua função típica de legislar, para evitar a \"fossilização\" da Constituição.",
+"e": "Vinculante não alcança o Legislativo."
+},
+{
+"p": "Ao declarar a inconstitucionalidade de lei, tendo em vista razões de segurança jurídica ou de excepcional interesse social, o STF poderá, por maioria de dois terços de seus membros, restringir os efeitos da declaração.",
+"c": true,
+"prof": "Modulação (Lei 9.868, art. 27).",
+"x": "É possível também decidir que a decisão só terá eficácia a partir do trânsito em julgado ou de outro momento fixado.",
+"e": "Modulação: 2/3."
+},
+{
+"p": "O STF, ao julgar uma ADI, mantém o texto da lei, mas afirma que ele só é constitucional se for entendido em determinado sentido, excluindo as demais interpretações. Trata-se da técnica de:",
+"alts": [
+"inconstitucionalidade por arrastamento",
+"modulação de efeitos",
+"interpretação conforme a Constituição",
+"lei ainda constitucional",
+"mutação constitucional"
+],
+"r": 2,
+"n": [
+"Arrastamento estende a decisão a outras normas.",
+"Modulação trata do tempo dos efeitos.",
+"Correta.",
+"Lei ainda constitucional depende de circunstâncias fáticas.",
+"Mutação é mudança informal da Constituição."
+],
+"prof": "Escolher o sentido compatível.",
+"x": "Na interpretação conforme, o STF fixa, entre os sentidos possíveis do texto, aquele compatível com a Constituição, sem alterar a redação.",
+"e": "Interpretação conforme."
+},
+{
+"p": "A declaração de inconstitucionalidade de uma norma pode estender-se a outras normas que dela dependam, ainda que não impugnadas, pela técnica da inconstitucionalidade por arrastamento.",
+"c": true,
+"prof": "Inconstitucionalidade por atração.",
+"x": "É exceção ao princípio do pedido, justificada pela relação de dependência entre as normas.",
+"e": "Arrastamento."
+},
+{
+"p": "Cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da legitimação para agir a um único órgão.",
+"c": true,
+"prof": "Art. 125, § 2º.",
+"x": "O julgamento é do Tribunal de Justiça. Se o parâmetro for norma de reprodução obrigatória da CF, cabe recurso extraordinário ao STF.",
+"e": "Controle estadual: TJ."
+},
+{
+"p": "O Tribunal de Justiça pode julgar representação de inconstitucionalidade de lei municipal tendo como parâmetro qualquer norma da Constituição Federal, ainda que não seja de reprodução obrigatória pelos Estados.",
+"c": false,
+"prof": "Parâmetro do controle estadual.",
+"x": "O parâmetro é a Constituição Estadual. O TJ pode, porém, usar normas da CF de reprodução obrigatória, ainda que não repetidas expressamente na CE (Tema 484).",
+"e": "Parâmetro: Constituição Estadual."
+}
+]
+},
+"tributario": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>espécies tributárias (teoria pentapartida, STF)</span></div><div class=\"lt-stat\"><b>90 dias</b><span>anterioridade nonagesimal</span></div><div class=\"lt-stat\"><b>2% a 5%</b><span>alíquotas mínima e máxima do ISS</span></div><div class=\"lt-stat\"><b>25%</b><span>do ICMS (e do IBS estadual) pertence aos Municípios</span></div></div>\n<h3>1. Tributo, competência e capacidade</h3>\n<ul><li><b>Tributo</b> é toda prestação <b>pecuniária compulsória</b>, em moeda ou cujo valor nela se possa exprimir, que <b>não constitua sanção de ato ilícito</b>, <b>instituída em lei</b> e cobrada mediante atividade administrativa <b>plenamente vinculada</b> (CTN, art. 3º). Multa não é tributo.</li><li>A Constituição <b>não cria tributos</b>: ela <b>distribui competências</b> para que cada ente os institua por <b>lei</b>, <b>limita</b> esse poder e <b>reparte as receitas</b>.</li><li><b>Competência tributária</b> (poder de <b>instituir</b> tributo por lei): é <b>indelegável</b>, <b>facultativa</b> (o ente pode não instituir, como a União com o imposto sobre grandes fortunas) e <b>incaducável</b> (não se perde pelo tempo).</li><li><b>Capacidade tributária ativa</b> (poder de <b>cobrar e fiscalizar</b>): <b>pode ser delegada</b> a outra pessoa jurídica de direito público. Exemplo: o Município que <b>opta</b> por fiscalizar e cobrar o <b>ITR</b> (art. 153, § 4º, III).</li></ul>\n<h3>2. As espécies tributárias</h3>\n<table class=\"tab\"><thead><tr><th>Espécie</th><th>Fato gerador</th><th>Quem institui</th></tr></thead><tbody><tr><td><b>Imposto</b></td><td>situação <b>independente de qualquer atividade estatal</b> relativa ao contribuinte (renda, propriedade, consumo)</td><td>cada ente, os seus</td></tr><tr><td><b>Taxa</b></td><td>exercício regular do <b>poder de polícia</b> ou utilização, efetiva ou potencial, de <b>serviço público específico e divisível</b>, prestado ou posto à disposição</td><td>todos os entes, nas suas atribuições</td></tr><tr><td><b>Contribuição de melhoria</b></td><td><b>valorização imobiliária</b> decorrente de <b>obra pública</b></td><td>todos os entes</td></tr><tr><td><b>Empréstimo compulsório</b> (art. 148)</td><td>despesas extraordinárias de <b>calamidade pública, guerra externa</b> ou sua iminência; <b>investimento público</b> de caráter <b>urgente e de relevante interesse nacional</b></td><td>só a <b>União</b>, por <b>lei complementar</b></td></tr><tr><td><b>Contribuições especiais</b> (arts. 149, 149-A e 195)</td><td>sociais, de <b>intervenção no domínio econômico</b> (CIDE), de interesse das <b>categorias profissionais</b> ou econômicas</td><td>em regra, a <b>União</b>; Estados, DF e Municípios instituem a <b>previdenciária</b> de seus servidores; Municípios e DF, a de <b>iluminação pública</b> (COSIP, art. 149-A)</td></tr></tbody></table>\n<ul><li><b>Imposto não tem destinação vinculada</b>: é <b>vedada a vinculação</b> da receita de impostos a órgão, fundo ou despesa (art. 167, IV), salvo exceções constitucionais (saúde, educação, repartição de receitas, administração tributária).</li><li><b>Taxa</b> não pode ter <b>base de cálculo própria de impostos</b> (art. 145, § 2º). Pela <b>SV 29</b>, é constitucional a taxa que adote <b>um ou mais elementos</b> da base de cálculo de imposto, desde que não haja <b>integral identidade</b> entre uma base e a outra.</li><li><b>Taxa x preço público (tarifa)</b>: a taxa é <b>compulsória</b> e tem regime <b>tributário</b> (exige lei, anterioridade); a tarifa é <b>facultativa</b>, de natureza <b>contratual</b>, cobrada pela prestação de serviço por concessionária (Súmula 545 do STF).</li><li>O <b>empréstimo compulsório</b> é <b>restituível</b>, e a aplicação dos recursos é <b>vinculada à despesa</b> que fundamentou sua instituição. O de <b>guerra ou calamidade</b> não respeita anterioridade; o de <b>investimento</b> respeita a anual e a nonagesimal.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmulas Vinculantes 19 e 41</b><p class=\"jc-tese\">A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis não viola o art. 145, II, da Constituição (SV 19). O serviço de iluminação pública não pode ser remunerado mediante taxa (SV 41).</p><p class=\"jc-com\">Coleta de lixo domiciliar é serviço <b>específico e divisível</b> (cabe taxa). Iluminação pública é serviço <b>indivisível</b> (não cabe taxa); por isso criou-se a <b>contribuição</b> do art. 149-A (COSIP).</p></div>\n<h3>3. Capacidade contributiva e lei complementar</h3>\n<ul><li><b>Capacidade contributiva</b> (art. 145, § 1º): <b>sempre que possível</b>, os impostos terão <b>caráter pessoal</b> e serão <b>graduados segundo a capacidade econômica</b> do contribuinte, facultado à administração tributária identificar o patrimônio, os rendimentos e as atividades econômicas do contribuinte, respeitados os direitos individuais.</li><li><b>Cabe à lei complementar</b> (art. 146): <b>I</b> – dispor sobre <b>conflitos de competência</b> em matéria tributária entre os entes; <b>II</b> – regular as <b>limitações constitucionais ao poder de tributar</b>; <b>III</b> – estabelecer <b>normas gerais</b> em matéria de legislação tributária, especialmente sobre definição de tributos e espécies, fatos geradores, bases de cálculo e contribuintes dos impostos; obrigação, <b>lançamento</b>, crédito, <b>prescrição e decadência</b>; e <b>tratamento diferenciado e favorecido</b> para as <b>microempresas e empresas de pequeno porte</b> (Simples Nacional).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 8</b><p class=\"jc-tese\">São inconstitucionais o parágrafo único do art. 5º do Decreto-Lei 1.569/1977 e os arts. 45 e 46 da Lei 8.212/1991, que tratam de prescrição e decadência de crédito tributário.</p><p class=\"jc-com\">Prescrição e decadência tributárias são matéria de <b>lei complementar</b> (art. 146, III, \"b\"). Lei ordinária que fixou prazo de 10 anos para as contribuições previdenciárias é inconstitucional; vale o prazo de 5 anos do CTN.</p></div>\n<h3>4. Quem cobra o quê</h3>\n<table class=\"tab\"><thead><tr><th>Ente</th><th>Impostos</th></tr></thead><tbody><tr><td><b>União</b> (art. 153)</td><td><b>II</b> (importação), <b>IE</b> (exportação), <b>IR</b> (renda), <b>IPI</b> (produtos industrializados), <b>IOF</b> (operações financeiras), <b>ITR</b> (propriedade territorial rural), <b>grandes fortunas</b> (por LC, nunca instituído) e o <b>Imposto Seletivo</b> (EC 132/2023, sobre bens e serviços prejudiciais à saúde ou ao meio ambiente); <b>residual</b> (art. 154, I) e <b>extraordinário de guerra</b> (art. 154, II)</td></tr><tr><td><b>Estados e DF</b> (art. 155)</td><td><b>ITCMD</b> (transmissão causa mortis e doação), <b>ICMS</b> e <b>IPVA</b></td></tr><tr><td><b>Municípios e DF</b> (art. 156)</td><td><b>IPTU</b>, <b>ITBI</b> (transmissão inter vivos onerosa de imóveis) e <b>ISS</b></td></tr><tr><td><b>Estados, DF e Municípios</b> (art. 156-A, EC 132/2023)</td><td><b>IBS</b> (Imposto sobre Bens e Serviços), de <b>competência compartilhada</b></td></tr></tbody></table>\n<ul><li><b>Imposto residual</b> (art. 154, I): a União pode instituir, por <b>lei complementar</b>, impostos não previstos, desde que sejam <b>não cumulativos</b> e não tenham <b>fato gerador ou base de cálculo próprios</b> dos discriminados na Constituição.</li><li><b>Imposto extraordinário de guerra</b> (art. 154, II): na iminência ou no caso de <b>guerra externa</b>, a União pode instituí-lo, por <b>lei ordinária</b>, compreendidos ou não em sua competência, suprimido gradativamente cessadas as causas.</li><li><b>Reforma tributária (EC 132/2023)</b>: cria o <b>IBS</b> (Estados, DF e Municípios) e a <b>CBS</b> (Contribuição sobre Bens e Serviços, federal), que formam o <b>IVA dual</b>, e o <b>Imposto Seletivo</b>. O IBS substituirá o <b>ICMS</b> e o <b>ISS</b>, e a CBS substituirá <b>PIS e Cofins</b>, numa <b>transição</b> que vai até <b>2033</b>. A EC 132 também tornou o <b>ITCMD progressivo</b> em razão do valor e permitiu ao IPVA alíquotas diferenciadas por tipo, valor, utilização e <b>impacto ambiental</b>, alcançando veículos <b>aquáticos e aéreos</b> (com exceções).</li></ul>\n<h3>5. Limitações ao poder de tributar (arts. 150 a 152)</h3>\n<table class=\"tab\"><thead><tr><th>Princípio</th><th>Regra</th><th>Exceções que mais caem</th></tr></thead><tbody><tr><td><b>Legalidade</b> (150, I)</td><td>só <b>lei</b> cria ou aumenta tributo</td><td>o <b>Executivo</b> pode <b>alterar alíquotas</b> de <b>II, IE, IPI e IOF</b>, nos limites da lei (art. 153, § 1º), e <b>reduzir e restabelecer</b> alíquotas da <b>CIDE-combustíveis</b> e do <b>ICMS monofásico sobre combustíveis</b></td></tr><tr><td><b>Isonomia</b> (150, II)</td><td>vedado tratamento desigual entre contribuintes em situação equivalente, proibida distinção por <b>ocupação profissional ou função</b></td><td>—</td></tr><tr><td><b>Irretroatividade</b> (150, III, \"a\")</td><td>não cobra tributo sobre fatos anteriores à lei que o instituiu ou aumentou</td><td>—</td></tr><tr><td><b>Anterioridade anual</b> (150, III, \"b\")</td><td>não cobra no <b>mesmo exercício</b> em que publicada a lei</td><td>ver quadro abaixo</td></tr><tr><td><b>Anterioridade nonagesimal</b> (150, III, \"c\")</td><td>não cobra antes de <b>90 dias</b> da publicação</td><td>ver quadro abaixo</td></tr><tr><td><b>Não confisco</b> (150, IV)</td><td>tributo não pode ter efeito confiscatório</td><td>vale também para <b>multas</b> (STF)</td></tr><tr><td><b>Liberdade de tráfego</b> (150, V)</td><td>vedadas limitações ao tráfego de pessoas ou bens por tributos interestaduais ou intermunicipais</td><td>ressalvado o <b>pedágio</b></td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Exceção</th><th>Tributos</th></tr></thead><tbody><tr><td><b>Nenhuma</b> das anterioridades (cobra <b>imediatamente</b>)</td><td><b>II, IE, IOF</b>, <b>imposto extraordinário de guerra</b> e <b>empréstimo compulsório de guerra ou calamidade</b></td></tr><tr><td><b>Só a nonagesimal</b> (cobra no mesmo ano, após 90 dias)</td><td><b>IPI</b>, <b>contribuições para a seguridade social</b> (art. 195, § 6º), restabelecimento de alíquotas da <b>CIDE-combustíveis</b> e do <b>ICMS sobre combustíveis</b></td></tr><tr><td><b>Só a anual</b> (cobra em 1º de janeiro, mesmo sem 90 dias)</td><td><b>IR</b>, e a fixação da <b>base de cálculo</b> do <b>IPVA</b> e do <b>IPTU</b></td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 50</b><p class=\"jc-tese\">Norma legal que altera o prazo de recolhimento de obrigação tributária não se sujeita ao princípio da anterioridade.</p><p class=\"jc-com\">A anterioridade protege contra <b>criação ou aumento</b> de tributo. Antecipar a data de pagamento não aumenta o tributo; por isso pode valer de imediato.</p></div>\n<ul><li><b>Outras vedações</b>: à <b>União</b>, instituir tributo <b>não uniforme</b> em todo o território (permitidos incentivos para reduzir desigualdades regionais) e conceder <b>isenção de tributos estaduais e municipais</b> (<b>isenção heterônoma</b>, art. 151, III; não alcança <b>tratados internacionais</b>, segundo o STF); aos <b>Estados, DF e Municípios</b>, estabelecer diferença tributária entre bens e serviços em razão de sua <b>procedência ou destino</b> (art. 152).</li></ul>\n<h3>6. Imunidades (art. 150, VI, e outras)</h3>\n<ul><li><b>Imunidade</b> é a <b>proibição constitucional</b> de tributar (não incidência qualificada pela Constituição). <b>Isenção</b> é a <b>dispensa legal</b> do pagamento de um tributo que o ente poderia cobrar. Quando o art. 195, § 7º, fala em entidades \"isentas\", o STF entende que se trata de <b>imunidade</b>.</li><li>As imunidades do art. 150, VI, alcançam <b>impostos</b> (não taxas nem contribuições, salvo previsão própria):</li></ul>\n<table class=\"tab\"><thead><tr><th>Imunidade</th><th>Alcance</th></tr></thead><tbody><tr><td><b>Recíproca</b> (\"a\")</td><td>os entes não cobram impostos sobre <b>patrimônio, renda ou serviços</b> uns dos outros; estende-se às <b>autarquias e fundações instituídas e mantidas pelo Poder Público</b> (§ 2º), quanto às finalidades essenciais; <b>não</b> se aplica à exploração de <b>atividade econômica</b> nem quando houver <b>contraprestação ou pagamento de preços ou tarifas</b> pelo usuário (§ 3º). O STF a estende a <b>estatais prestadoras de serviço público</b> em regime não concorrencial (Correios, Infraero)</td></tr><tr><td><b>Entidades religiosas e templos</b> de qualquer culto (\"b\")</td><td>inclusive suas <b>organizações assistenciais e beneficentes</b> (redação da EC 132/2023); alcança patrimônio, renda e serviços <b>relacionados às finalidades essenciais</b></td></tr><tr><td><b>Partidos políticos</b> e suas fundações, <b>entidades sindicais dos trabalhadores</b>, <b>instituições de educação e de assistência social sem fins lucrativos</b> (\"c\")</td><td>atendidos os <b>requisitos da lei</b> (complementar, CTN, art. 14). Sindicato <b>patronal</b> não tem a imunidade</td></tr><tr><td><b>Livros, jornais, periódicos e o papel</b> destinado à sua impressão (\"d\")</td><td><b>imunidade objetiva</b>: protege o produto, não a editora (que paga IR sobre seus lucros)</td></tr><tr><td><b>Fonogramas e videofonogramas musicais produzidos no Brasil</b> (\"e\")</td><td>contendo obras de autores brasileiros ou interpretadas por artistas brasileiros, e os <b>suportes materiais ou arquivos digitais</b> que os contenham, <b>salvo</b> na etapa de replicação industrial de mídias ópticas de leitura a laser</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 57</b><p class=\"jc-tese\">A imunidade tributária constante do art. 150, VI, \"d\", da CF/88 aplica-se à importação e comercialização, no mercado interno, do livro eletrônico (e-book) e dos suportes exclusivamente utilizados para fixá-lo, como leitores de livros eletrônicos (e-readers), ainda que possuam funcionalidades acessórias.</p><p class=\"jc-com\">O tablet de uso geral <b>não</b> é imune; o <b>e-reader</b> (feito para ler livros) é.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 52</b><p class=\"jc-tese\">Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel pertencente a qualquer das entidades referidas pelo art. 150, VI, \"c\", da CF, desde que o valor dos aluguéis seja aplicado nas atividades para as quais tais entidades foram constituídas.</p><p class=\"jc-com\">Uma escola sem fins lucrativos que aluga uma sala comercial e usa o aluguel na própria escola continua imune ao IPTU sobre essa sala.</p></div>\n<h3>7. Impostos municipais em detalhe</h3>\n<ul><li><b>IPTU</b> (art. 156, I, e § 1º): pode ser <b>progressivo em razão do valor</b> do imóvel e ter <b>alíquotas diferentes</b> de acordo com a <b>localização e o uso</b> (EC 29/2000); pode ser <b>progressivo no tempo</b> para o imóvel urbano <b>não edificado, subutilizado ou não utilizado</b> que descumpre a <b>função social</b> (art. 182, § 4º, II). A <b>base de cálculo</b> pode ser atualizada pelo Executivo, conforme critérios da lei municipal (EC 132/2023). Antes da EC 29, a progressividade fiscal era inconstitucional (Súmula 668).</li><li><b>ITBI</b> (art. 156, II): transmissão <b>inter vivos</b>, a <b>título oneroso</b>, de <b>bens imóveis</b> e de direitos reais sobre imóveis (exceto os de garantia). Compete ao <b>Município da situação do bem</b>. <b>Não incide</b> sobre a transmissão de bens incorporados ao <b>patrimônio de pessoa jurídica</b> em realização de capital, nem na fusão, incorporação, cisão ou extinção, <b>salvo</b> se a atividade preponderante do adquirente for a compra e venda, locação ou arrendamento de imóveis. O <b>fato gerador</b> só ocorre com a <b>transferência efetiva</b> da propriedade, no <b>registro</b> em cartório (STF, Tema 1.124).</li><li><b>ISS</b> (art. 156, III): serviços de qualquer natureza, <b>não compreendidos no ICMS</b>, definidos em <b>lei complementar</b> (LC 116/2003). Alíquota <b>mínima de 2%</b> (ADCT, art. 88) e <b>máxima de 5%</b> (LC 116). Não incide nas exportações de serviços. Será substituído pelo <b>IBS</b> ao fim da transição.</li></ul>\n<h3>8. Repartição das receitas tributárias (arts. 157 a 162)</h3>\n<table class=\"tab\"><thead><tr><th>O Município recebe</th><th>Fonte</th></tr></thead><tbody><tr><td><b>100%</b> do <b>IR retido na fonte</b> sobre rendimentos pagos pelo próprio Município, suas autarquias e fundações</td><td>art. 158, I</td></tr><tr><td><b>50%</b> do <b>ITR</b> dos imóveis nele situados, ou <b>100%</b> se <b>optar</b> por fiscalizar e cobrar</td><td>art. 158, II</td></tr><tr><td><b>50%</b> do <b>IPVA</b> dos veículos <b>licenciados</b> em seu território</td><td>art. 158, III</td></tr><tr><td><b>25%</b> do <b>ICMS</b> (e, com a reforma, da parcela estadual do <b>IBS</b>)</td><td>art. 158, IV</td></tr><tr><td><b>FPM</b>: <b>22,5%</b> do IR e do IPI, mais três parcelas de <b>1%</b> (entregues em <b>dezembro</b>, <b>julho</b> e <b>setembro</b>)</td><td>art. 159, I</td></tr></tbody></table>\n<ul><li>É <b>vedada a retenção</b> ou qualquer restrição à entrega dos recursos repartidos, <b>admitido</b> condicioná-la ao pagamento de créditos do ente que repassa e ao cumprimento dos <b>mínimos de saúde</b> (art. 160).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Iluminação pública pode ser cobrada por taxa</span><br>✅ <span class=\"certo\">SV 41: não; cabe a contribuição do art. 149-A.</span></li><li>❌ <span class=\"banca\">Competência tributária pode ser delegada</span><br>✅ <span class=\"certo\">Indelegável; delegável é a capacidade de cobrar.</span></li><li>❌ <span class=\"banca\">O IR respeita as duas anterioridades</span><br>✅ <span class=\"certo\">Só a anual.</span></li><li>❌ <span class=\"banca\">IPI pode ser cobrado no dia seguinte ao aumento</span><br>✅ <span class=\"certo\">Respeita os 90 dias.</span></li><li>❌ <span class=\"banca\">A imunidade recíproca alcança as empresas estatais que exploram atividade econômica</span><br>✅ <span class=\"certo\">Não; só as prestadoras de serviço público sem concorrência.</span></li><li>❌ <span class=\"banca\">Mudar a data de pagamento do tributo exige anterioridade</span><br>✅ <span class=\"certo\">SV 50: não exige.</span></li><li>❌ <span class=\"banca\">Sindicato patronal é imune</span><br>✅ <span class=\"certo\">Só sindicatos dos trabalhadores.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Espécies tributárias?</span></span><span class=\"vs\"><span><b>Impostos, taxas, contribuições de melhoria, empréstimos compulsórios e contribuições especiais</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Taxa x imposto?</span></span><span class=\"vs\"><span>Taxa: <b>poder de polícia</b> ou <b>serviço específico e divisível</b>. Imposto: independe de atividade estatal.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sem nenhuma anterioridade?</span></span><span class=\"vs\"><span><b>II, IE, IOF</b>, guerra e empréstimo de guerra/calamidade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Só nonagesimal?</span></span><span class=\"vs\"><span><b>IPI</b>, contribuições da seguridade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Só anual?</span></span><span class=\"vs\"><span><b>IR</b> e base de cálculo de <b>IPVA e IPTU</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ISS?</span></span><span class=\"vs\"><span>Mínimo <b>2%</b>, máximo <b>5%</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Município recebe?</span></span><span class=\"vs\"><span><b>50% IPVA</b>, <b>25% ICMS</b>, <b>50% ITR</b> (100% se optar), IR na fonte, FPM.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O templo e a sala alugada</b><p>Uma igreja de Pirapora tem o templo, um estacionamento usado pelos fiéis e uma sala comercial alugada, cujo aluguel paga as atividades da igreja. O Município quer cobrar IPTU dos três.</p><details><summary>Ver a solução comentada</summary><p>O <b>templo</b> e o <b>estacionamento</b> ligados às finalidades essenciais são <b>imunes</b> (art. 150, VI, \"b\", e § 4º). A <b>sala alugada</b> também é imune se o aluguel for aplicado nas finalidades essenciais (raciocínio da <b>SV 52</b>, aplicado pelo STF também aos templos). O Município pode, porém, cobrar <b>taxas</b> (como a de coleta de lixo, SV 19), pois a imunidade alcança só <b>impostos</b>.</p></details></div>",
+"quiz": [
+{
+"p": "As multas por infração à legislação tributária são espécies de tributo.",
+"c": false,
+"prof": "CTN, art. 3º.",
+"x": "Tributo é prestação que não constitui sanção de ato ilícito. A multa é penalidade, embora integre a obrigação tributária principal.",
+"e": "Multa não é tributo."
+},
+{
+"p": "A competência tributária é indelegável, mas a capacidade tributária ativa, consistente nas funções de arrecadar e fiscalizar, pode ser delegada.",
+"c": true,
+"prof": "Instituir x cobrar.",
+"x": "Exemplo: o Município pode optar por fiscalizar e cobrar o ITR, ficando com 100% da arrecadação (art. 153, § 4º, III).",
+"e": "Competência: indelegável."
+},
+{
+"p": "O não exercício da competência tributária não a transfere a outro ente nem faz com que ela se extinga.",
+"c": true,
+"prof": "Facultatividade e incaducabilidade.",
+"x": "A União nunca instituiu o imposto sobre grandes fortunas, mas continua competente para fazê-lo.",
+"e": "Competência: facultativa e incaducável."
+},
+{
+"p": "Segundo o STF, o sistema tributário nacional adota a teoria pentapartida das espécies tributárias.",
+"c": true,
+"prof": "Cinco espécies.",
+"x": "Impostos, taxas, contribuições de melhoria, empréstimos compulsórios e contribuições especiais.",
+"e": "Pentapartida."
+},
+{
+"p": "A receita de impostos pode ser livremente vinculada por lei a órgão, fundo ou despesa específica.",
+"c": false,
+"prof": "Art. 167, IV.",
+"x": "É vedada a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas as exceções constitucionais (saúde, educação, repartição de receitas, entre outras).",
+"e": "Impostos: não vinculados."
+},
+{
+"p": "As taxas não poderão ter base de cálculo própria de impostos.",
+"c": true,
+"prof": "Art. 145, § 2º.",
+"x": "Pela SV 29, a taxa pode adotar um ou mais elementos da base de cálculo de imposto, desde que não haja integral identidade entre elas.",
+"e": "Taxa x base de imposto."
+},
+{
+"p": "O serviço de iluminação pública pode ser remunerado por taxa, por ser serviço prestado à coletividade.",
+"c": false,
+"prof": "SV 41.",
+"x": "A iluminação pública é serviço indivisível e não pode ser remunerada por taxa. Os Municípios e o DF podem instituir a contribuição do art. 149-A (COSIP).",
+"e": "Iluminação: contribuição, não taxa."
+},
+{
+"p": "A taxa cobrada exclusivamente em razão dos serviços de coleta, remoção e tratamento ou destinação de lixo provenientes de imóveis não viola o art. 145, II, da Constituição.",
+"c": true,
+"prof": "SV 19.",
+"x": "A coleta de lixo domiciliar é serviço específico e divisível.",
+"e": "Taxa de lixo: válida."
+},
+{
+"p": "Sobre o empréstimo compulsório, assinale a afirmativa correta.",
+"alts": [
+"Pode ser instituído pelos Estados em caso de calamidade pública.",
+"Pode ser instituído por lei ordinária federal.",
+"Só a União pode instituí-lo, por lei complementar, e a aplicação dos recursos é vinculada à despesa que fundamentou sua instituição.",
+"O de investimento público urgente pode ser cobrado no mesmo exercício da lei.",
+"Não precisa ser restituído."
+],
+"r": 2,
+"n": [
+"Só a União.",
+"Exige lei complementar.",
+"Correta: art. 148.",
+"O de investimento respeita as anterioridades.",
+"É restituível."
+],
+"prof": "Art. 148.",
+"x": "O empréstimo compulsório é da União, por LC, com destinação vinculada. O de guerra ou calamidade não respeita anterioridade; o de investimento respeita.",
+"e": "União + LC + destinação vinculada."
+},
+{
+"p": "Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte.",
+"c": true,
+"prof": "Art. 145, § 1º.",
+"x": "É o princípio da capacidade contributiva, que autoriza, por exemplo, a progressividade do IR.",
+"e": "Capacidade contributiva."
+},
+{
+"p": "Cabe à lei complementar dispor sobre conflitos de competência, em matéria tributária, entre a União, os Estados, o Distrito Federal e os Municípios.",
+"c": true,
+"prof": "Art. 146, I.",
+"x": "Também cabe à LC regular as limitações ao poder de tributar e estabelecer normas gerais, como prescrição e decadência.",
+"e": "Conflitos de competência: LC."
+},
+{
+"p": "Lei ordinária pode estabelecer prazo de prescrição e decadência de dez anos para as contribuições previdenciárias.",
+"c": false,
+"prof": "SV 8.",
+"x": "Prescrição e decadência tributárias são matéria de lei complementar (art. 146, III, \"b\"). Os arts. 45 e 46 da Lei 8.212/1991 foram declarados inconstitucionais.",
+"e": "Prescrição tributária: LC."
+},
+{
+"p": "A União poderá instituir, mediante lei complementar, impostos não previstos na Constituição, desde que sejam não cumulativos e não tenham fato gerador ou base de cálculo próprios dos nela discriminados.",
+"c": true,
+"prof": "Competência residual (art. 154, I).",
+"x": "O imposto extraordinário de guerra, por outro lado, pode ser criado por lei ordinária e ter fato gerador de imposto já existente.",
+"e": "Residual: LC + não cumulativo."
+},
+{
+"p": "Compete aos Municípios instituir impostos sobre:",
+"alts": [
+"propriedade de veículos automotores, serviços e transmissão causa mortis",
+"propriedade predial e territorial urbana, transmissão inter vivos onerosa de bens imóveis e serviços de qualquer natureza não compreendidos no ICMS",
+"propriedade territorial rural e serviços",
+"circulação de mercadorias e serviços de transporte",
+"renda e propriedade urbana"
+],
+"r": 1,
+"n": [
+"IPVA e ITCMD são estaduais.",
+"Correta: art. 156.",
+"ITR é da União.",
+"ICMS é estadual.",
+"IR é da União."
+],
+"prof": "IPTU, ITBI e ISS.",
+"x": "Os impostos municipais são IPTU, ITBI e ISS (art. 156). Com a reforma, o Município também participa do IBS, de competência compartilhada.",
+"e": "Municípios: IPTU, ITBI, ISS."
+},
+{
+"p": "A EC 132/2023 criou o Imposto sobre Bens e Serviços (IBS), de competência compartilhada entre Estados, Distrito Federal e Municípios.",
+"c": true,
+"prof": "Reforma tributária.",
+"x": "O IBS substituirá o ICMS e o ISS, numa transição que vai até 2033. A CBS, federal, substituirá PIS e Cofins.",
+"e": "IBS: compartilhado."
+},
+{
+"p": "O Poder Executivo pode, por decreto, aumentar as alíquotas do imposto de renda, atendidas as condições e os limites da lei.",
+"c": false,
+"prof": "Exceções à legalidade.",
+"x": "O Executivo pode alterar, nos limites da lei, as alíquotas do II, IE, IPI e IOF (art. 153, § 1º). O IR não está entre as exceções.",
+"e": "Exceções: II, IE, IPI, IOF."
+},
+{
+"p": "A lei que aumenta o IPI pode ser aplicada no dia seguinte ao da sua publicação.",
+"c": false,
+"prof": "O IPI é exceção a qual anterioridade?",
+"x": "O IPI é exceção apenas à anterioridade anual: deve respeitar os 90 dias (art. 150, § 1º).",
+"e": "IPI: 90 dias."
+},
+{
+"p": "O imposto de renda majorado por lei publicada em 31 de dezembro pode ser cobrado a partir de 1º de janeiro do ano seguinte.",
+"c": true,
+"prof": "O IR é exceção à nonagesimal.",
+"x": "O IR respeita a anterioridade anual, mas não a nonagesimal.",
+"e": "IR: só anual."
+},
+{
+"p": "Assinale o tributo que NÃO se sujeita à anterioridade anual nem à nonagesimal.",
+"alts": [
+"IPI",
+"IR",
+"IPTU",
+"Imposto de importação",
+"Contribuição para a seguridade social"
+],
+"r": 3,
+"n": [
+"Respeita a nonagesimal.",
+"Respeita a anual.",
+"Respeita ambas (só a base de cálculo é exceção à nonagesimal).",
+"Correta.",
+"Respeita a nonagesimal (art. 195, § 6º)."
+],
+"prof": "II, IE, IOF, guerra.",
+"x": "II, IE, IOF, imposto extraordinário de guerra e empréstimo compulsório de guerra ou calamidade podem ser cobrados imediatamente.",
+"e": "II: cobrança imediata."
+},
+{
+"p": "A fixação da base de cálculo do IPTU e do IPVA não se sujeita à anterioridade nonagesimal.",
+"c": true,
+"prof": "Art. 150, § 1º.",
+"x": "Respeita a anterioridade anual: a nova base vale a partir de 1º de janeiro do exercício seguinte, ainda que não decorram 90 dias.",
+"e": "Base de IPTU/IPVA: só anual."
+},
+{
+"p": "Norma legal que altera o prazo de recolhimento de obrigação tributária não se sujeita ao princípio da anterioridade.",
+"c": true,
+"prof": "SV 50.",
+"x": "A anterioridade protege contra a instituição ou o aumento de tributo, o que não ocorre na simples alteração da data de pagamento.",
+"e": "SV 50."
+},
+{
+"p": "O princípio do não confisco aplica-se apenas aos tributos, não alcançando as multas tributárias.",
+"c": false,
+"prof": "Jurisprudência do STF.",
+"x": "O STF aplica a vedação ao confisco também às multas, considerando confiscatórias, por exemplo, as multas punitivas superiores ao valor do tributo, como regra.",
+"e": "Não confisco: também multas."
+},
+{
+"p": "A União pode conceder isenção de ISS por lei federal ordinária, desde que para incentivar o desenvolvimento regional.",
+"c": false,
+"prof": "Isenção heterônoma.",
+"x": "É vedado à União instituir isenções de tributos da competência dos Estados, do DF ou dos Municípios (art. 151, III). O STF admite exceção só para tratados internacionais.",
+"e": "Isenção heterônoma: vedada."
+},
+{
+"p": "É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino.",
+"c": true,
+"prof": "Art. 152.",
+"x": "É o princípio da não discriminação pela procedência ou destino.",
+"e": "Art. 152."
+},
+{
+"p": "A imunidade recíproca é extensiva às autarquias e às fundações instituídas e mantidas pelo Poder Público, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais.",
+"c": true,
+"prof": "Art. 150, § 2º.",
+"x": "Não se aplica à exploração de atividade econômica nem quando houver contraprestação ou pagamento de preços ou tarifas pelo usuário (§ 3º).",
+"e": "Recíproca: autarquias e fundações."
+},
+{
+"p": "A imunidade recíproca alcança as sociedades de economia mista que exploram atividade econômica em regime de concorrência.",
+"c": false,
+"prof": "Atividade econômica x serviço público.",
+"x": "O STF estende a imunidade a estatais prestadoras de serviço público em regime não concorrencial (como os Correios), não às que exploram atividade econômica em concorrência.",
+"e": "Estatal em concorrência: sem imunidade."
+},
+{
+"p": "São imunes a impostos o patrimônio, a renda e os serviços das entidades sindicais dos trabalhadores, atendidos os requisitos da lei.",
+"c": true,
+"prof": "Art. 150, VI, \"c\".",
+"x": "Os sindicatos patronais não têm essa imunidade.",
+"e": "Sindicato dos trabalhadores: imune."
+},
+{
+"p": "A imunidade dos livros, jornais e periódicos aplica-se ao livro eletrônico e aos suportes exclusivamente utilizados para fixá-lo, como os leitores de livros eletrônicos.",
+"c": true,
+"prof": "SV 57.",
+"x": "O tablet de uso geral não é imune; o e-reader, feito para ler livros, é.",
+"e": "E-book e e-reader: imunes."
+},
+{
+"p": "São imunes a impostos os fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham.",
+"c": true,
+"prof": "Art. 150, VI, \"e\".",
+"x": "A imunidade não alcança a etapa de replicação industrial de mídias ópticas de leitura a laser.",
+"e": "Música nacional: imune."
+},
+{
+"p": "Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel pertencente a instituição de educação sem fins lucrativos, desde que o valor dos aluguéis seja aplicado nas atividades para as quais foi constituída.",
+"c": true,
+"prof": "SV 52.",
+"x": "A destinação da renda às finalidades essenciais é o que mantém a imunidade.",
+"e": "SV 52."
+},
+{
+"p": "A imunidade dos templos de qualquer culto impede a cobrança de taxas municipais sobre o imóvel do templo.",
+"c": false,
+"prof": "Alcance das imunidades do art. 150, VI.",
+"x": "As imunidades do art. 150, VI, alcançam impostos. Taxas e contribuições podem ser cobradas, salvo imunidade específica.",
+"e": "Imunidade do art. 150, VI: só impostos."
+},
+{
+"p": "Sobre o IPTU, assinale a afirmativa correta.",
+"alts": [
+"É vedada sua progressividade em razão do valor do imóvel.",
+"Pode ser progressivo em razão do valor do imóvel e ter alíquotas diferentes de acordo com a localização e o uso do imóvel.",
+"A progressividade no tempo independe do descumprimento da função social.",
+"É de competência dos Estados.",
+"Sua base de cálculo deve respeitar a anterioridade nonagesimal."
+],
+"r": 1,
+"n": [
+"Permitida desde a EC 29/2000.",
+"Correta: art. 156, § 1º.",
+"A progressividade no tempo pune o descumprimento da função social.",
+"É municipal.",
+"A base é exceção à nonagesimal."
+],
+"prof": "EC 29/2000.",
+"x": "O IPTU pode ser progressivo em razão do valor (fiscal), seletivo por localização e uso, e progressivo no tempo como sanção urbanística (art. 182, § 4º).",
+"e": "IPTU progressivo."
+},
+{
+"p": "O ITBI compete ao Município do domicílio do adquirente do imóvel.",
+"c": false,
+"prof": "Art. 156, § 2º, II.",
+"x": "O ITBI compete ao Município da situação do bem.",
+"e": "ITBI: Município do imóvel."
+},
+{
+"p": "Segundo o STF, o fato gerador do ITBI somente ocorre com a efetiva transferência da propriedade imobiliária, mediante o registro.",
+"c": true,
+"prof": "Tema 1.124.",
+"x": "Por isso, não se pode cobrar o ITBI na assinatura do compromisso de compra e venda.",
+"e": "ITBI: no registro."
+},
+{
+"p": "O ITBI incide sobre a transmissão de imóveis incorporados ao patrimônio de pessoa jurídica em realização de capital, em qualquer hipótese.",
+"c": false,
+"prof": "Imunidade do art. 156, § 2º, I.",
+"x": "Em regra, não incide, salvo se a atividade preponderante do adquirente for a compra e venda, locação ou arrendamento mercantil de imóveis.",
+"e": "Integralização de capital: em regra, sem ITBI."
+},
+{
+"p": "O ISS tem alíquota mínima de 2% e máxima de 5%.",
+"c": true,
+"prof": "ADCT, art. 88, e LC 116/2003.",
+"x": "A alíquota mínima evita a guerra fiscal entre Municípios.",
+"e": "ISS: 2% a 5%."
+},
+{
+"p": "Um Município mineiro deseja saber quanto lhe cabe do IPVA arrecadado pelo Estado. Segundo a Constituição, pertencem aos Municípios:",
+"alts": [
+"25% do IPVA dos veículos licenciados em seu território",
+"50% do IPVA dos veículos licenciados em seu território",
+"100% do IPVA dos veículos licenciados em seu território",
+"50% do IPVA arrecadado em todo o Estado, dividido igualmente",
+"nada, pois o IPVA é estadual"
+],
+"r": 1,
+"n": [
+"25% é a parcela do ICMS.",
+"Correta: art. 158, III.",
+"O Estado fica com metade.",
+"A divisão é pelo licenciamento.",
+"Há repartição."
+],
+"prof": "Art. 158.",
+"x": "Pertencem aos Municípios 50% do IPVA dos veículos licenciados em seu território, 25% do ICMS, 50% do ITR (ou 100%, se optar) e o IR retido na fonte sobre seus pagamentos.",
+"e": "IPVA: 50%."
+},
+{
+"p": "Pertence aos Municípios o produto da arrecadação do imposto de renda incidente na fonte sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem.",
+"c": true,
+"prof": "Art. 158, I.",
+"x": "Por isso, o IR retido na fonte dos servidores municipais fica com o próprio Município.",
+"e": "IR na fonte: 100% do Município."
+},
+{
+"p": "É permitido à União reter livremente as parcelas do FPM devidas aos Municípios, como forma de sanção política.",
+"c": false,
+"prof": "Art. 160.",
+"x": "É vedada a retenção ou restrição à entrega dos recursos repartidos, admitido apenas condicioná-la ao pagamento de créditos do ente que repassa e ao cumprimento dos mínimos em saúde.",
+"e": "Retenção: vedada, salvo exceções."
 }
 ]
 }
