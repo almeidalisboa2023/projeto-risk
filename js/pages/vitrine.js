@@ -1,5 +1,6 @@
 // Cursos preparatórios: vitrine aberta a qualquer pessoa (mesmo sem conta). O administrador cadastra os cursos.
-import { S } from '../state.js';
+import { S, isAdmin } from '../state.js';
+import { CURSOS, cursoInfo, entrarVisao } from '../cursos.js';
 import { db } from '../backend.js';
 import { esc } from '../util.js';
 import { modal, loading } from '../ui.js';
@@ -51,10 +52,20 @@ export async function render(el, q, { publico = false, aoEntrar } = {}) {
         ${c.cargo ? `<div class="muted" style="font-size:14px">${esc(c.cargo)}</div>` : ''}
         <div class="vt-chips">${chips(c)}</div>
         <div class="vt-rodape">${c.preco ? `<div class="vt-preco">${esc(c.preco)}</div>` : '<span></span>'}
-          <div class="row" style="gap:6px"><a class="btn sec mini" href="#/cursos?c=${c.id}">Ver detalhes</a>${c.link_compra ? `<button class="btn mini" data-comprar="${c.id}">Comprar</button>` : ''}</div></div>
+          <div class="row" style="gap:6px"><a class="btn sec mini" href="#/cursos?c=${c.id}">Ver detalhes</a>${!publico && isAdmin() ? (cursoInfo(c.curso) ? `<button class="btn mini" data-visao="${esc(c.curso)}">👁 Ver como aluno</button>` : '') : c.link_compra ? `<button class="btn mini" data-comprar="${c.id}">Comprar</button>` : ''}</div></div>
       </div></article>`).join('')}</div>`
       : '<div class="card"><b>Nenhum curso disponível no momento.</b><p class="muted">Novas turmas são abertas conforme os editais. Volte em breve.</p></div>'}`;
   el.querySelectorAll('[data-comprar]').forEach((b) => (b.onclick = () => comprar(cursos.find((x) => x.id === b.dataset.comprar), { publico, aoEntrar })));
+  ligaVisao(el);
+  if (!publico && isAdmin()) el.insertAdjacentHTML('beforeend', `<div class="card" style="margin-top:18px"><h3 style="margin-top:0">👁 Ver como aluno</h3>
+    <p class="muted" style="font-size:14px;margin-top:0">Como administrador, você tem acesso livre a todos os cursos. Escolha um para navegar pelo app exatamente como o aluno daquele curso vê (conteúdo, questões, apostilas e simulados). Uma faixa no topo deixa você trocar de curso ou sair.</p>
+    <div class="row" style="gap:6px;flex-wrap:wrap">${CURSOS_LISTA().map((k) => `<button class="btn sec mini" data-visao="${k.id}">${esc(k.curto)}</button>`).join('')}</div></div>`);
+  ligaVisao(el);
+}
+
+const CURSOS_LISTA = () => CURSOS;
+function ligaVisao(el) {
+  el.querySelectorAll('[data-visao]').forEach((b) => (b.onclick = () => { entrarVisao(b.dataset.visao); location.hash = '#/leitura'; }));
 }
 
 function detalhe(el, c, ctx) {
@@ -70,12 +81,13 @@ function detalhe(el, c, ctx) {
       <aside class="card vt-compra">
         ${c.preco ? `<div class="muted" style="font-size:13px">Investimento</div><div class="vt-preco vt-preco-g">${esc(c.preco)}</div>` : ''}
         ${c.duracao_dias ? `<div class="muted" style="font-size:13px;margin:6px 0 12px">Acesso por ${c.duracao_dias % 30 === 0 && c.duracao_dias >= 30 ? `${c.duracao_dias / 30} ${c.duracao_dias === 30 ? 'mês' : 'meses'}` : `${c.duracao_dias} dias`}</div>` : ''}
-        ${c.link_compra ? '<button class="btn" id="vtComprar" style="width:100%">Comprar agora</button>' : '<p class="muted">Vendas em breve.</p>'}
+        ${!ctx.publico && isAdmin() ? (cursoInfo(c.curso) ? `<button class="btn" data-visao="${esc(c.curso)}" style="width:100%">👁 Ver como aluno</button><p class="muted" style="font-size:12.5px">Você é administrador: acesso livre, sem precisar comprar.</p>` : '<p class="muted">Ligue este curso a um curso do app (Administrador → Cursos preparatórios) para poder vê-lo como aluno.</p>') : c.link_compra ? '<button class="btn" id="vtComprar" style="width:100%">Comprar agora</button>' : '<p class="muted">Vendas em breve.</p>'}
         <ul class="vt-inclui"><li>Calendário de estudos montado para o edital</li><li>Conteúdo programático com quadros e pegadinhas</li><li>Questões comentadas e flashcards</li><li>Liberação automática após o pagamento</li></ul>
         ${c.link_compra ? '<p class="muted vt-aviso">🔒 Pagamento seguro pela Hotmart. Desistiu? Você tem <b>7 dias após a compra</b> para pedir o reembolso integral (art. 49 do Código de Defesa do Consumidor). Ao comprar, você concorda com os <a href="termos.html" target="_blank" rel="noopener">Termos de Uso</a>.</p>' : ''}
       </aside>
     </div>`;
   const b = el.querySelector('#vtComprar'); if (b) b.onclick = () => comprar(c, ctx);
+  ligaVisao(el);
 }
 
 // Comprar: sem conta → pede para criar a conta primeiro (o e-mail da conta vai para o checkout); com conta → vai direto.

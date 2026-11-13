@@ -1,5 +1,5 @@
 // Apostilas, Materiais e Simulados por curso: o administrador envia PDFs, escolhe a seção, a ordem e os cursos; o aluno lê dentro do app, sem baixar.
-import { S } from '../state.js';
+import { S, isAdmin } from '../state.js';
 import { db, storage } from '../backend.js';
 import { esc } from '../util.js';
 import { toast, loading } from '../ui.js';
@@ -8,7 +8,7 @@ import { lerPdf, acharQuestoes, paraQuiz, mascaras, painelQuestoes, carregaPdfJs
 import { blocoQuiz, quiz } from './leitura.js';
 import { embaralhar } from '../questao.js';
 
-const ehAdmin = () => S.profile?.role === 'admin';
+const ehAdmin = () => isAdmin();
 const lib = carregaPdfJs;
 const tam = (b) => (b > 1048576 ? (b / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(b / 1024)) + ' KB');
 
@@ -25,7 +25,7 @@ export async function render(el, q, tipo = 'apostila') {
   el.innerHTML = loading();
   let lista = [];
   try { lista = await db.select('apostilas', { order: 'ordem.asc,created_at.asc' }); } catch (e) { el.innerHTML = `<div class="card"><p>${esc(e.message)}</p></div>`; return; }
-  if (!ehAdmin()) lista = lista.filter((a) => a.ativo !== false && (a.cursos || []).includes(S.profile?.curso));
+  if (!ehAdmin()) lista = lista.filter((a) => a.ativo !== false && (a.cursos || []).includes(meuCurso()?.id ?? S.profile?.curso));
   if (abrir) { const a = lista.find((x) => x.id === abrir); if (a) return leitor(el, a); }
   pagina(el, lista.filter((a) => tipoDe(a) === tipo), tipo, lista);
 }
