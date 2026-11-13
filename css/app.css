@@ -874,3 +874,8 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .ed-figbar button:hover { background: color-mix(in srgb, var(--ouro) 18%, transparent); }
 .ed-figbar span { width: 1px; height: 18px; background: var(--borda); margin: 0 2px; }
 .ed-prev img { max-width: 100%; max-height: 200px; border-radius: 10px; margin-bottom: 8px; }
+/* Rodapé legal (vitrine pública) */
+.pub-rodape { max-width: 1120px; margin: 0 auto; padding: 18px 16px 34px; border-top: 1px solid var(--borda); font-size: 12.5px; line-height: 1.7; color: var(--txt2, inherit); text-align: center; }
+.pub-rodape a { color: inherit; text-decoration: underline; }
+.vt-aviso { font-size: 12.5px; margin: 12px 0 0; line-height: 1.5; }
+.lt-ia { font-size: 12px; margin: 0 0 10px; opacity: .8; }
