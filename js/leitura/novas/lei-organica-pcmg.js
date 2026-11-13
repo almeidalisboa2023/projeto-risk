@@ -225,6 +225,118 @@ export default {
 "prof": "Subordina-se diretamente ao Governador.",
 "x": "O art. 15 da LC 129/2013 dispõe que a PCMG subordina-se diretamente ao Governador do Estado e integra, para fins operacionais, o Sistema de Defesa Social.",
 "e": "Subordinação: Governador."
+},
+{
+"p": "Segundo a LC 129/2013, a PCMG é órgão autônomo, essencial à segurança pública, à realização da justiça e à defesa das instituições democráticas.",
+"c": true,
+"prof": "Art. 2º.",
+"x": "É fundada na promoção da cidadania, da dignidade humana e dos direitos e garantias fundamentais.",
+"e": "PCMG: órgão autônomo."
+},
+{
+"p": "Segundo a LC 129/2013, NÃO é princípio que a PCMG deve observar em sua atuação, além dos princípios constitucionais da administração pública:",
+"alts": [
+"o uso proporcional da força",
+"a mediação de conflitos",
+"a participação e interação comunitária",
+"a hierarquia e a disciplina",
+"a discricionariedade na apuração das infrações penais"
+],
+"r": 4,
+"n": [
+"Art. 3º, IV.",
+"Art. 3º, III.",
+"Art. 3º, II.",
+"Art. 3º, VI.",
+"Correta: a lei prevê a obrigatoriedade de atuação e a indeclinabilidade do dever de apurar."
+],
+"prof": "Art. 3º e art. 4º.",
+"x": "O art. 3º lista, entre outros, a promoção dos direitos humanos, a participação comunitária, a mediação de conflitos, o uso proporcional da força, a hierarquia e a disciplina e a transparência. O art. 4º afirma a obrigatoriedade de atuação e a indeclinabilidade do dever de apurar.",
+"e": "Não há discricionariedade para apurar."
+},
+{
+"p": "Orientam a investigação criminal, entre outros, os princípios da indisponibilidade do interesse público, da oficialidade, do sigilo e da imparcialidade.",
+"c": true,
+"prof": "Art. 4º.",
+"x": "O art. 4º também prevê a indivisibilidade e a interdisciplinaridade da investigação criminal e a uniformidade de procedimentos policiais.",
+"e": "Art. 4º: princípios da investigação."
+},
+{
+"p": "Segundo a LC 129/2013, a atribuição funcional do policial civil pode ser delegada a particulares, desde que haja convênio.",
+"c": false,
+"prof": "Art. 4º, V.",
+"x": "A lei consagra a indelegabilidade da atribuição funcional do policial civil.",
+"e": "Indelegabilidade."
+},
+{
+"p": "À PCMG é assegurada autonomia administrativa e financeira, cabendo-lhe, especialmente, elaborar sua programação financeira anual, executar contabilidade própria e adquirir materiais, viaturas e equipamentos específicos.",
+"c": true,
+"prof": "Art. 5º.",
+"x": "As atividades de planejamento e orçamento subordinam-se tecnicamente à Secretaria de Planejamento e Gestão, e as de administração financeira e contabilidade, à Secretaria de Fazenda.",
+"e": "Autonomia administrativa e financeira."
+},
+{
+"p": "A investigação criminal tem caráter técnico-jurídico-científico.",
+"c": true,
+"prof": "Art. 6º.",
+"x": "Ela produz, em articulação com o sistema de defesa social, conhecimentos e indicadores sociopolíticos, econômicos e culturais revelados no fenômeno criminal.",
+"e": "Técnico-jurídico-científico."
+},
+{
+"p": "O exercício da investigação criminal se encerra com a apuração da infração penal ou do ato infracional ou com o exaurimento das possibilidades investigativas.",
+"c": true,
+"prof": "Art. 7º.",
+"x": "Começa com o conhecimento de ato ou fato que possa caracterizar infração penal.",
+"e": "Fim da investigação."
+},
+{
+"p": "Segundo a LC 129/2013, a função de polícia judiciária compreende, entre outros:",
+"alts": [
+"o julgamento das infrações de menor potencial ofensivo",
+"a definição sobre a autuação da prisão em flagrante e a concessão de fiança",
+"a decretação de prisão preventiva pelo Delegado",
+"o arquivamento do inquérito policial",
+"o oferecimento da denúncia"
+],
+"r": 1,
+"n": [
+"É do Juizado.",
+"Correta: art. 10, IV.",
+"O Delegado representa; quem decreta é o juiz.",
+"O Delegado não arquiva inquérito.",
+"É do Ministério Público."
+],
+"prof": "Art. 10.",
+"x": "A função de polícia judiciária inclui o exame preliminar da tipicidade, as diligências, a instauração de inquérito, TCO e procedimento de ato infracional, a definição sobre o flagrante e a fiança e as representações judiciais.",
+"e": "Flagrante e fiança."
+},
+{
+"p": "A PCMG subordina-se diretamente ao Governador do Estado e integra, para fins operacionais, o Sistema de Defesa Social.",
+"c": true,
+"prof": "Art. 15.",
+"x": "Não há subordinação a Secretaria de Estado.",
+"e": "Subordinação: Governador."
+},
+{
+"p": "São atividades privativas da PCMG a polícia técnico-científica, o processamento e o arquivo de identificação civil e criminal, bem como o registro e o licenciamento de veículo automotor e a habilitação de condutor.",
+"c": true,
+"prof": "Art. 14, parágrafo único.",
+"x": "Por isso o Departamento de Trânsito de Minas Gerais (Detran-MG) integra a estrutura da PCMG.",
+"e": "Identificação e trânsito: privativos da PCMG."
+},
+{
+"p": "Compete à PCMG exercer o registro de controle policial, especialmente quanto a estabelecimentos de hospedagem, diversões públicas e comercialização de produtos controlados.",
+"c": true,
+"prof": "Art. 16.",
+"x": "Também o prévio aviso relativo a reuniões e eventos em ambientes públicos, nos termos do art. 5º, XVI, da Constituição.",
+"e": "Registro de controle policial."
+},
+{
+"p": "Compete à PCMG apurar as infrações penais militares praticadas no território do Estado.",
+"c": false,
+"prof": "Art. 14.",
+"x": "A PCMG apura as infrações penais e os atos infracionais no território do Estado, ressalvada a competência da União e exceto as infrações militares.",
+"e": "Exceto militares."
 }
 ]
 },
@@ -426,6 +538,125 @@ export default {
 "prof": "Certo. Art. 17, § 8º.",
 "x": "Para o Chefe e o Chefe Adjunto, exige-se tempo maior: vinte anos de efetivo serviço policial (arts. 18 e 23).",
 "e": "Titulares: 15 anos; Chefe: 20."
+},
+{
+"p": "São órgãos da administração superior da PCMG a Chefia da PCMG, a Chefia Adjunta, o Conselho Superior e a Corregedoria-Geral de Polícia Civil.",
+"c": true,
+"prof": "Art. 17, I.",
+"x": "Os órgãos de administração incluem o Gabinete, a Academia de Polícia Civil, o Detran-MG e as Superintendências.",
+"e": "Administração superior: 4 órgãos."
+},
+{
+"p": "O Departamento de Trânsito de Minas Gerais é órgão de administração da PCMG.",
+"c": true,
+"prof": "Art. 17, II, \"c\".",
+"x": "As Circunscrições Regionais de Trânsito (Ciretrans) integram as Delegacias Regionais de Polícia Civil.",
+"e": "Detran-MG: órgão da PCMG."
+},
+{
+"p": "O Chefe da PCMG é nomeado pelo Governador dentre os integrantes, em atividade, do nível final da carreira de Delegado de Polícia com, no mínimo, vinte anos de efetivo serviço policial.",
+"c": true,
+"prof": "Art. 18, parágrafo único.",
+"x": "É vedada a nomeação de quem seja inelegível em razão de atos ilícitos, nos termos da legislação federal.",
+"e": "Chefe: 20 anos, nível final."
+},
+{
+"p": "O Chefe da PCMG tem prerrogativas, vantagens e padrão remuneratório do cargo de Secretário de Estado.",
+"c": true,
+"prof": "Art. 19.",
+"x": "O Chefe da PCMG também preside o Conselho Superior e integra o Conselho de Defesa Social.",
+"e": "Status de Secretário."
+},
+{
+"p": "Nos afastamentos eventuais do Chefe da PCMG e do Chefe Adjunto, assume a Chefia, em primeiro lugar, o:",
+"alts": [
+"Superintendente de Investigação e Polícia Judiciária",
+"Corregedor-Geral de Polícia Civil",
+"Chefe de Gabinete",
+"Diretor do Detran-MG",
+"Diretor da Academia de Polícia Civil"
+],
+"r": 1,
+"n": [
+"É o segundo da lista.",
+"Correta: art. 20, I.",
+"É o terceiro.",
+"É o quarto.",
+"É o quinto."
+],
+"prof": "Ordem do art. 20.",
+"x": "A ordem é: Chefe Adjunto; Corregedor-Geral; Superintendente de Investigação e Polícia Judiciária; Chefe de Gabinete; Diretor do Detran-MG; Diretor da Academia; Superintendente de Informações e Inteligência; Superintendente de Planejamento, Gestão e Finanças; Delegado Assistente da Chefia.",
+"e": "Corregedor-Geral."
+},
+{
+"p": "O Chefe Adjunto da PCMG é escolhido pelo Governador, a partir de lista tríplice elaborada pelo Conselho Superior.",
+"c": false,
+"prof": "Art. 23.",
+"x": "O Chefe Adjunto é escolhido pelo Chefe da PCMG, dentre Delegados do nível final com no mínimo 20 anos de serviço, e nomeado pelo Governador.",
+"e": "Chefe Adjunto: escolha do Chefe."
+},
+{
+"p": "O Conselho Superior da PCMG é composto pelo Chefe da PCMG, que o preside, pelo Chefe Adjunto, pelo Corregedor-Geral, pelos titulares de órgãos de administração e pelos Inspetores-Gerais de Escrivães e de Investigadores de Polícia.",
+"c": true,
+"prof": "Art. 25.",
+"x": "São 13 membros no total.",
+"e": "Conselho Superior: 13 membros."
+},
+{
+"p": "O órgão do Conselho Superior da PCMG que se pronuncia sobre recurso contra decisão que nega a instauração de inquérito policial é o(a):",
+"alts": [
+"Câmara Disciplinar",
+"Câmara de Planejamento e Orçamento",
+"Órgão Especial",
+"Corregedoria-Geral",
+"Academia de Polícia Civil"
+],
+"r": 2,
+"n": [
+"Julga recursos contra atos do Corregedor-Geral.",
+"Trata do orçamento.",
+"Correta: art. 29.",
+"Não integra o Conselho como câmara.",
+"Não é órgão do Conselho."
+],
+"prof": "Órgão Especial.",
+"x": "O Órgão Especial é composto exclusivamente por Delegados-Gerais titulares de órgãos do art. 25 e pelo Delegado Assistente da Chefia.",
+"e": "Órgão Especial: recurso contra não instauração de IP."
+},
+{
+"p": "A Câmara Disciplinar do Conselho Superior é presidida pelo Chefe Adjunto da PCMG e julga recursos contra atos do Corregedor-Geral de Polícia Civil.",
+"c": true,
+"prof": "Art. 30.",
+"x": "Integram-na os membros do Conselho titulares de unidades, à exceção do Chefe da PCMG.",
+"e": "Câmara Disciplinar: Chefe Adjunto."
+},
+{
+"p": "A Corregedoria-Geral de Polícia Civil é órgão orientador, fiscalizador e correicional das atividades funcionais e da conduta dos servidores da PCMG.",
+"c": true,
+"prof": "Art. 32.",
+"x": "Compete-lhe, entre outros, determinar a instauração de processo administrativo disciplinar e instaurar sindicância e inquérito para apurar infrações de servidores.",
+"e": "Corregedoria: correicional."
+},
+{
+"p": "A competência da Corregedoria-Geral para fins de atividade correicional pode ser delegada aos titulares de órgãos e unidades da PCMG e aos Delegados de Polícia, com a participação de, no mínimo, um representante da respectiva carreira policial.",
+"c": true,
+"prof": "Art. 34.",
+"x": "A participação de representante da carreira garante a pluralidade no procedimento correicional.",
+"e": "Delegação correicional."
+},
+{
+"p": "Os cargos de Chefe de Departamento de Polícia Civil e de Delegado Regional podem ser ocupados pelo mesmo servidor, na mesma unidade, por tempo indeterminado.",
+"c": false,
+"prof": "Art. 109, § 3º.",
+"x": "Esses cargos só podem ser ocupados por um mesmo servidor, na mesma unidade, pelo período máximo de 5 anos, ininterruptos ou não.",
+"e": "Limite: 5 anos."
+},
+{
+"p": "Os cargos cujos titulares compõem o Conselho Superior da PCMG somente poderão ser ocupados por um mesmo servidor pelo período máximo de sete anos, ininterruptos ou não, exceto os de Chefe e Chefe Adjunto da PCMG.",
+"c": true,
+"prof": "Art. 109, §§ 1º e 2º.",
+"x": "Os cargos em comissão da PCMG são privativos de policiais civis que não tenham excedido em 5 anos o tempo exigido para a aposentadoria voluntária, ressalvados os de Chefe e Chefe Adjunto.",
+"e": "Conselho: até 7 anos."
 }
 ]
 },
@@ -613,6 +844,41 @@ export default {
 "prof": "Certo. Art. 58, II.",
 "x": "O regime também envolve condições adversas de segurança, plantões noturnos e convocações a qualquer hora, garantidas as compensações quando excedida a carga horária legal.",
 "e": "Presenciou: atua."
+},
+{
+"p": "O Delegado de Polícia, no exercício da função, só pode ser preso por ordem judicial escrita, salvo em flagrante de crime inafiançável, caso em que a autoridade fará, em até vinte e quatro horas, a comunicação e a apresentação do Delegado ao Chefe da PCMG.",
+"c": true,
+"prof": "Art. 46, II.",
+"x": "O Delegado também pode requisitar diretamente informações, dados cadastrais, documentos, exames e perícias.",
+"e": "Delegado: prisão só por ordem escrita, salvo flagrante inafiançável."
+},
+{
+"p": "Constitui prerrogativa do policial civil exercer poder de polícia, inclusive realizando busca pessoal e veicular, no caso de fundadas suspeitas de prática criminosa ou para cumprimento de mandado judicial.",
+"c": true,
+"prof": "Art. 45, VI.",
+"x": "O policial civil também tem porte livre de arma e carteira funcional válidos em todo o território nacional.",
+"e": "Busca pessoal e veicular."
+},
+{
+"p": "O policial civil preso provisoriamente é afastado do exercício das funções, sem prejuízo de sua remuneração, até decisão final transitada em julgado.",
+"c": true,
+"prof": "Art. 47.",
+"x": "Em liberdade provisória, retorna ao exercício das funções.",
+"e": "Preso provisório: afastado com remuneração."
+},
+{
+"p": "A remoção de Delegado de Polícia por conveniência da disciplina pode ocorrer independentemente de sindicância ou processo administrativo.",
+"c": false,
+"prof": "Art. 53.",
+"x": "Só ocorre após a abertura de sindicância ou processo administrativo com ampla defesa e a aprovação da proposta por maioria simples do Órgão Especial do Conselho Superior.",
+"e": "Remoção disciplinar: exige procedimento."
+},
+{
+"p": "A remoção ex officio de policial civil durante o gozo de férias, férias-prêmio ou licença para tratamento de saúde somente produzirá efeitos após o término do afastamento.",
+"c": true,
+"prof": "Art. 56.",
+"x": "A licença para tratamento de saúde não impede a remoção ex officio se já iniciado o processo disciplinar.",
+"e": "Remoção nas férias: efeitos depois."
 }
 ]
 },
@@ -771,6 +1037,90 @@ export default {
 "prof": "É vedado nesses casos.",
 "x": "O art. 68, § 1º, proíbe o afastamento para cursos ao policial em estágio probatório ou submetido a sindicância ou processo administrativo disciplinar.",
 "e": "Probatório ou PAD: sem afastamento para curso."
+},
+{
+"p": "Segundo a LC 129/2013, a licença para exercer mandato eletivo em diretoria de entidade sindical representativa das carreiras policiais civis é considerada de efetivo exercício, sem prejuízo da remuneração integral.",
+"c": true,
+"prof": "Art. 59, V.",
+"x": "Vale pelo período do mandato.",
+"e": "Mandato sindical: efetivo exercício."
+},
+{
+"p": "O policial civil licenciado para tratamento de saúde não pode dedicar-se a qualquer atividade remunerada.",
+"c": true,
+"prof": "Art. 61.",
+"x": "A licença depende de inspeção por junta médica oficial, inclusive para a prorrogação (art. 62).",
+"e": "Licença saúde: sem atividade remunerada."
+},
+{
+"p": "A licença para tratamento de saúde concedida dentro do prazo de sessenta dias do término da anterior é considerada prorrogação.",
+"c": true,
+"prof": "Art. 62, § 1º.",
+"x": "Quem se licenciou por três meses nos doze meses anteriores deve submeter-se à verificação de invalidez (§ 2º).",
+"e": "60 dias: prorrogação."
+},
+{
+"p": "Segundo a LC 129/2013, a licença por motivo de doença em pessoa da família é concedida com vencimentos integrais pelo prazo máximo de:",
+"alts": [
+"30 dias, prorrogável por igual período com remuneração",
+"60 dias, improrrogável",
+"90 dias, admitida a prorrogação, sem remuneração, por até 120 dias",
+"120 dias, com remuneração integral",
+"2 anos"
+],
+"r": 2,
+"n": [
+"Não é o prazo.",
+"Não é o prazo.",
+"Correta: art. 65.",
+"Os 120 dias são da prorrogação sem remuneração.",
+"É o prazo da licença por acidente em serviço."
+],
+"prof": "Art. 65.",
+"x": "A licença não é renovável nos 12 meses seguintes à concessão e só é concedida se a assistência direta do policial for indispensável e incompatível com o exercício do cargo.",
+"e": "90 dias + até 120 sem remuneração."
+},
+{
+"p": "Equipara-se ao acidente em serviço o dano decorrente de agressão sofrida no exercício funcional, bem como o dano sofrido no trânsito a ele pertinente.",
+"c": true,
+"prof": "Art. 66, II.",
+"x": "A licença por acidente em serviço é concedida sem prejuízo dos vencimentos, pelo prazo máximo de dois anos.",
+"e": "Agressão em serviço: acidente."
+},
+{
+"p": "Sem prejuízo da remuneração, o policial civil pode afastar-se por oito dias consecutivos em razão de casamento ou de falecimento de cônjuge, companheiro, ascendente, descendente ou irmão.",
+"c": true,
+"prof": "Art. 67.",
+"x": "No caso de casamento, deve comunicar o afastamento com antecedência ao titular da unidade.",
+"e": "8 dias: casamento e luto."
+},
+{
+"p": "O afastamento para frequentar curso relacionado às funções do cargo pode ser concedido ao policial civil em estágio probatório.",
+"c": false,
+"prof": "Art. 68, § 1º.",
+"x": "Esse afastamento (até 3 meses, prorrogável por até mais 3) não é concedido a quem está em estágio probatório ou submetido a sindicância ou processo disciplinar.",
+"e": "Curso: não no estágio probatório."
+},
+{
+"p": "O policial civil afastado não pode exercer nenhuma de suas funções, ou outra, pública ou particular, diversa da que motivou o ato, sob pena de cassação do afastamento e de imediato retorno às atividades.",
+"c": true,
+"prof": "Art. 69.",
+"x": "O afastamento é vinculado à finalidade que o justificou.",
+"e": "Afastado: só a finalidade do ato."
+},
+{
+"p": "A aposentadoria compulsória do policial civil ocorre aos setenta anos de idade, nos termos da Constituição da República, segundo o texto da LC 129/2013.",
+"c": true,
+"prof": "Art. 71, § 1º.",
+"x": "A lei também adota regime especial de aposentadoria, por ser a atividade policial considerada de risco (§ 2º).",
+"e": "Compulsória: 70 anos (texto da LC)."
+},
+{
+"p": "À família do policial civil que falecer em consequência de acidente no desempenho de suas funções ou de ato praticado no estrito cumprimento do dever é assegurada pensão especial não inferior ao vencimento e às demais vantagens que ele percebia.",
+"c": true,
+"prof": "Art. 74.",
+"x": "A pensão especial é reajustada nas mesmas bases do reajuste da remuneração do cargo equivalente.",
+"e": "Pensão especial."
 }
 ]
 },
@@ -938,6 +1288,104 @@ export default {
 "prof": "Certo. Art. 85.",
 "x": "Para Escrivão, Investigador e Perito Criminal, a habilitação de nível superior é a definida no edital do concurso.",
 "e": "Delegado: Direito; Legista: Medicina."
+},
+{
+"p": "São carreiras policiais civis as de Delegado de Polícia, Escrivão de Polícia, Investigador de Polícia, Médico-Legista e Perito Criminal.",
+"c": true,
+"prof": "Art. 76.",
+"x": "Integram ainda o quadro de pessoal da PCMG as carreiras administrativas, instituídas por lei específica.",
+"e": "Cinco carreiras policiais."
+},
+{
+"p": "As atribuições da carreira de Delegado de Polícia têm caráter técnico-científico-jurídico, e as das demais carreiras policiais civis, caráter técnico-científico.",
+"c": true,
+"prof": "Art. 79.",
+"x": "São atribuições essenciais, próprias e típicas de Estado.",
+"e": "Delegado: técnico-científico-jurídico."
+},
+{
+"p": "Os cargos das carreiras policiais civis podem ser transferidos para outros órgãos da administração pública estadual, por ato do Governador.",
+"c": false,
+"prof": "Art. 80, parágrafo único.",
+"x": "São vedadas a mudança de lotação desses cargos e a transferência de seus ocupantes para os demais órgãos e entidades da administração pública.",
+"e": "Transferência: vedada."
+},
+{
+"p": "A carga horária semanal dos policiais civis é de quarenta horas, vedada jornada diária superior a oito horas e plantão superior a doze horas ininterruptas, salvo em caráter excepcional.",
+"c": true,
+"prof": "Art. 82.",
+"x": "A exceção é para a conclusão de determinada atividade policial civil.",
+"e": "40 h; 8 h/dia; plantão até 12 h."
+},
+{
+"p": "O ingresso nas carreiras policiais civis depende de aprovação em concurso público de provas e títulos e se dá no primeiro grau do nível inicial da carreira.",
+"c": true,
+"prof": "Art. 83.",
+"x": "Cabe privativamente à Academia de Polícia Civil realizar o concurso, admitida a terceirização sob sua supervisão, e o curso de formação técnico-profissional.",
+"e": "Concurso de provas e títulos."
+},
+{
+"p": "Segundo a LC 129/2013, são etapas do concurso público para ingresso nas carreiras policiais civis, EXCETO:",
+"alts": [
+"provas e títulos",
+"exame psicotécnico",
+"exames biomédicos",
+"investigação social",
+"entrevista política com o Chefe da PCMG"
+],
+"r": 4,
+"n": [
+"Art. 84, I.",
+"Art. 84, II.",
+"Art. 84, III.",
+"Art. 84, V.",
+"Correta: não existe."
+],
+"prof": "Art. 84.",
+"x": "As etapas incluem provas e títulos, exame psicotécnico, exames biomédicos, exames biofísicos (testes físicos) e investigação social.",
+"e": "Sem entrevista política."
+},
+{
+"p": "Para ingresso na carreira de Médico-Legista, exige-se graduação em medicina; para a de Delegado, graduação em direito.",
+"c": true,
+"prof": "Art. 85.",
+"x": "Para Escrivão, Investigador e Perito Criminal, a graduação exigida é a definida no edital.",
+"e": "Delegado: direito; Médico-Legista: medicina."
+},
+{
+"p": "Constitui motivo de exclusão do candidato, apurado em investigação social com ampla defesa, a omissão, na ficha de informações, de registro de antecedentes criminais ou de demissão de outra instituição policial.",
+"c": true,
+"prof": "Art. 86, III.",
+"x": "Também excluem a incapacidade moral, física ou a inaptidão e o envolvimento em fato que comprometa o candidato moral ou profissionalmente.",
+"e": "Omissão de antecedentes: exclusão."
+},
+{
+"p": "O policial civil é avaliado no estágio probatório por comissão de acompanhamento e avaliação especial de desempenho composta por policiais civis estáveis, instituída por ato do Chefe da PCMG.",
+"c": true,
+"prof": "Art. 88.",
+"x": "Para Delegados, a comissão é formada por Delegados da Corregedoria, da Superintendência de Investigação e Polícia Judiciária e da Academia.",
+"e": "Comissão de policiais estáveis."
+},
+{
+"p": "Impugnada pelo Corregedor-Geral a permanência do policial civil no cargo durante o estágio probatório, o período do estágio fica suspenso até o julgamento definitivo da impugnação.",
+"c": true,
+"prof": "Art. 89, parágrafo único.",
+"x": "O Corregedor pode impugnar a qualquer tempo do estágio, de ofício ou mediante provocação, fundamentadamente.",
+"e": "Impugnação suspende o estágio."
+},
+{
+"p": "Compete ao Governador do Estado o ato declaratório de estabilidade do policial civil.",
+"c": false,
+"prof": "Art. 91.",
+"x": "O ato declaratório de estabilidade compete ao Chefe da PCMG.",
+"e": "Estabilidade: Chefe da PCMG."
+},
+{
+"p": "Progressão é a passagem do policial civil do grau em que se encontra para o grau subsequente, no mesmo nível da carreira.",
+"c": true,
+"prof": "Art. 93.",
+"x": "Exige efetivo exercício, interstício mínimo de um ano no mesmo grau e avaliação de desempenho satisfatória.",
+"e": "Progressão: grau seguinte, mesmo nível."
 }
 ]
 },
