@@ -141,7 +141,7 @@ function leitura(el, q, mat, idx) {
         ${a.quiz?.length ? `<button data-aba="qst">🎯 Questões (${a.quiz.length})</button>` : ''}
       </div>
       <div class="lt-corpo" style="font-size:${fonte}px">
-        <section data-pane="ess">${a.html}</section>
+        <section data-pane="ess">${a.html}${/lt-pegs|lt-peg"/.test(a.html + (a.aprof || '')) ? `<p class="lt-pegtreino"><a class="btn sec mini" href="#/pegadinhas?m=${mat.id}">🪤 Treinar as pegadinhas de ${esc(mat.nome)} (ache a correção)</a></p>` : ''}</section>
         ${a.aprof ? `<section data-pane="apr" hidden>${a.aprof}</section>` : ''}
         <section data-pane="jur" hidden><p class="muted">Súmulas e decisões dos tribunais superiores que mais caem sobre este tópico. Confira sempre se houve mudança recente de entendimento.</p></section>
       </div>

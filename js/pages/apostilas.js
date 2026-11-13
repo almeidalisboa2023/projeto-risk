@@ -7,6 +7,7 @@ import { CURSOS, cursoInfo, meuCurso } from '../cursos.js';
 import { lerPdf, acharQuestoes, paraQuiz, mascaras, painelQuestoes, carregaPdfJs, enviarAoBanco } from '../pdf-questoes.js';
 import { blocoQuiz, quiz } from './leitura.js';
 import { embaralhar } from '../questao.js';
+import { criarAviso } from '../avisos.js';
 
 const ehAdmin = () => isAdmin();
 const lib = carregaPdfJs;
@@ -26,7 +27,12 @@ export async function render(el, q, tipo = 'apostila') {
   let lista = [];
   try { lista = await db.select('apostilas', { order: 'ordem.asc,created_at.asc' }); } catch (e) { el.innerHTML = `<div class="card"><p>${esc(e.message)}</p></div>`; return; }
   if (!ehAdmin()) lista = lista.filter((a) => a.ativo !== false && (a.cursos || []).includes(meuCurso()?.id ?? S.profile?.curso));
-  if (abrir) { const a = lista.find((x) => x.id === abrir); if (a) return leitor(el, a); }
+  if (abrir) {
+    const a = lista.find((x) => x.id === abrir);
+    if (a && !ehAdmin() && bloqueado(a)) { toast(`Este ${SECOES[tipoDe(a)].um} será liberado em ${dataBR(a.liberar_em)}.`, 'erro'); }
+    else if (a) return leitor(el, a);
+  }
+  if (tipo === 'simulado' && !ehAdmin()) return quadroSimulados(el, lista.filter((a) => tipoDe(a) === 'simulado'));
   pagina(el, lista.filter((a) => tipoDe(a) === tipo), tipo, lista);
 }
 
@@ -51,7 +57,7 @@ function pagina(el, lista, tipo, todas) {
         <div class="ap-ico">${sec.ico}</div>
         <div style="flex:1;min-width:0"><b>${ehAdmin() ? `<span class="muted">${i + 1}.</span> ` : ''}${esc(a.titulo)}</b>
           ${a.descricao ? `<p class="muted" style="margin:4px 0 0;font-size:13.5px">${esc(a.descricao)}</p>` : ''}
-          <p class="muted" style="margin:4px 0 0;font-size:12.5px">${a.quiz?.length ? '🎯 ' + a.quiz.length + ' questões · ' : ''}${a.paginas ? a.paginas + ' páginas · ' : ''}${a.tamanho ? tam(a.tamanho) + ' · ' : ''}${new Date(a.created_at).toLocaleDateString('pt-BR')}</p>
+          <p class="muted" style="margin:4px 0 0;font-size:12.5px">${a.categoria ? '🏷 ' + esc(a.categoria) + ' · ' : ''}${a.liberar_em ? (bloqueado(a) ? '🔒 libera em ' : '🔓 liberado em ') + dataBR(a.liberar_em) + ' · ' : ''}${a.quiz?.length ? '🎯 ' + a.quiz.length + ' questões · ' : ''}${a.paginas ? a.paginas + ' páginas · ' : ''}${a.tamanho ? tam(a.tamanho) + ' · ' : ''}${new Date(a.created_at).toLocaleDateString('pt-BR')}</p>
           ${ehAdmin() ? `<p style="margin:6px 0 0">${(a.cursos || []).map((k) => `<span class="pill">${esc(cursoInfo(k)?.curto || k)}</span>`).join(' ') || '<span class="pill" style="background:var(--vermelho);color:#fff">sem curso</span>'}${a.ativo === false ? ' <span class="pill">oculto</span>' : ''}</p>` : ''}
           <div class="row" style="margin-top:10px;flex-wrap:wrap;gap:6px"><a class="btn mini" href="#/${sec.rota}?ver=${a.id}">Abrir</a>
             ${ehAdmin() ? `<button class="btn mini sec" data-mv="${a.id}" data-d="-1" title="Subir" ${i === 0 ? 'disabled' : ''}>↑</button><button class="btn mini sec" data-mv="${a.id}" data-d="1" title="Descer" ${i === lista.length - 1 ? 'disabled' : ''}>↓</button>
@@ -105,6 +111,8 @@ function formulario(el, ap, tipoPagina, todas) {
     <div class="row"><div class="campo" style="flex:2;min-width:220px"><label>Título</label><input id="apT" style="width:100%" value="${esc(ap?.titulo || '')}" placeholder="Ex.: Direito Civil · Parte Geral"></div>
       <div class="campo" style="flex:1;min-width:160px"><label>Matéria (opcional)</label><input id="apM" style="width:100%" value="${esc(ap?.materia || '')}" placeholder="Ex.: Direito Civil"></div></div>
     <div class="campo"><label>Descrição (opcional)</label><input id="apD" style="width:100%" value="${esc(ap?.descricao || '')}"></div>
+    <div class="row"><div class="campo" style="flex:1;min-width:160px"><label>Categoria (opcional)</label><input id="apCat" list="apCats" style="width:100%" value="${esc(ap?.categoria || '')}" placeholder="Ex.: Completo, Mini"><datalist id="apCats"><option value="Completo"><option value="Mini"><option value="Por matéria"><option value="Discursiva"></datalist></div>
+      <div class="campo" style="flex:1;min-width:160px"><label>Liberar para os alunos em</label><input type="date" id="apLib" style="width:100%" value="${esc(ap?.liberar_em || '')}"><small class="muted">Em branco: libera na hora. Até a data, o aluno vê o quadro com o cadeado.</small></div></div>
     <div class="campo"><label>Cursos que vão receber</label>
       <div class="row" style="flex-wrap:wrap;gap:6px 14px">${CURSOS.map((c) => `<label style="font-size:14px"><input type="checkbox" class="apC" value="${c.id}" ${marcados.has(c.id) ? 'checked' : ''}> ${esc(c.curto)}</label>`).join('')}</div></div>
     ${ap ? `<div class="row" style="margin:4px 0 8px"><button type="button" class="btn sec mini" id="apReq">🔎 Procurar questões neste PDF</button><span class="muted" style="font-size:12.5px">${ap.quiz?.length ? ap.quiz.length + ' questões já ativas. Procurar de novo substitui a lista.' : 'Transforma as questões do PDF em questões para responder.'}</span></div>` : ''}
@@ -141,7 +149,8 @@ function formulario(el, ap, tipoPagina, todas) {
   box.querySelector('#apOk').onclick = async (ev) => {
     const cursos = [...box.querySelectorAll('.apC:checked')].map((x) => x.value);
     const tipo = box.querySelector('#apTipo').value, pos = Number(box.querySelector('#apPos').value);
-    const v = { tipo, titulo: box.querySelector('#apT').value.trim(), materia: box.querySelector('#apM').value.trim() || null, descricao: box.querySelector('#apD').value.trim() || null, cursos };
+    const v = { tipo, titulo: box.querySelector('#apT').value.trim(), materia: box.querySelector('#apM').value.trim() || null, descricao: box.querySelector('#apD').value.trim() || null, cursos,
+      categoria: box.querySelector('#apCat').value.trim() || null, liberar_em: box.querySelector('#apLib').value || null };
     if (!ap && !arquivo) return toast('Escolha o PDF.', 'erro');
     if (!v.titulo) return toast('Escreva o título.', 'erro');
     if (!cursos.length) return toast('Marque pelo menos um curso.', 'erro');
@@ -156,6 +165,8 @@ function formulario(el, ap, tipoPagina, todas) {
         const extra = { quiz: escolhidas().map((q) => paraQuiz(q, v.titulo)), mascara: mascaras(achou ? [...achou.esconder] : []) };
         [reg] = await db.insert('apostilas', [{ ...v, arquivo: caminho, paginas, tamanho: arquivo.size, ativo: true, ordem: 0, ...extra }]);
       }
+      // aviso automático na página inicial dos alunos dos cursos marcados (no dia da liberação, se houver)
+      if (!ap) criarAviso({ titulo: `${SECOES[tipo].novo[0].toUpperCase() + SECOES[tipo].novo.slice(1)} disponível: ${v.titulo}`, texto: [v.categoria, v.materia].filter(Boolean).join(' · '), tipo, cursos, link: `#/${SECOES[tipo].rota}?ver=${reg?.id || ''}`, publicar_em: v.liberar_em ? v.liberar_em + 'T00:00:00-03:00' : null });
       // as questões do PDF também vão para o banco de questões
       const qz = achou ? escolhidas().map((q) => paraQuiz(q, v.titulo)) : [];
       if (qz.length) enviarAoBanco(qz, { materia: v.materia || '', assunto: v.titulo, fonte: v.titulo }).catch(() => {});
@@ -174,13 +185,20 @@ async function leitor(el, a0) {
   const sec = SECOES[tipoDe(a)];
   el.innerHTML = `<div class="row"><a class="btn sec mini" href="#/${sec.rota}">‹ ${sec.nome}</a><span class="sp"></span>
       <button class="btn sec mini" id="lzMenos" title="Diminuir">−</button><span class="muted" id="lzZoom" style="font-size:13px;min-width:44px;text-align:center"></span><button class="btn sec mini" id="lzMais" title="Aumentar">+</button></div>
-    <h1 style="margin:10px 0 2px">${esc(a.titulo)}</h1>
+    <h1 style="margin:10px 0 2px">${esc(a.titulo)}</h1>${tipoDe(a) === 'simulado' && !ehAdmin() ? '<button class="btn sec mini" id="lzFeito" style="margin:4px 0">…</button>' : ''}
     <p class="muted" style="margin:0 0 10px;font-size:13px">${a.materia ? esc(a.materia) + ' · ' : ''}<span id="lzPag">Carregando…</span></p>
     ${a.quiz?.length ? `<div class="abas lt-abas" id="lzAbas" style="margin-bottom:10px"><button data-aba="pdf" class="on">📖 ${tipoDe(a) === 'simulado' ? 'Prova' : 'PDF'}</button><button data-aba="qst">🎯 Questões (${a.quiz.length})</button></div>` : ''}
     <div class="ap-leitor" id="lz"></div>
     ${a.quiz?.length ? `<div id="lzQ" hidden>${blocoQuiz(a)}</div>` : ''}
     <p class="muted" style="font-size:12px;text-align:center;margin-top:10px">Material de uso exclusivo dos alunos do Projeto R.I.S.K.${S.user?.email ? ' · ' + esc(S.user.email) : ''}</p>`;
   const caixa = el.querySelector('#lz');
+  const bF = el.querySelector('#lzFeito');
+  if (bF) {
+    let feito = (await feitos()).has(a.id);
+    const pinta = () => { bF.textContent = feito ? '✅ Resolvido (clique para desmarcar)' : '☐ Marcar como resolvido'; };
+    pinta();
+    bF.onclick = async () => { try { if (feito) await db.remove('apostilas_feitas', { apostila_id: 'eq.' + a.id, user_id: 'eq.' + S.user.id }); else await db.insert('apostilas_feitas', [{ apostila_id: a.id, user_id: S.user.id }]); feito = !feito; pinta(); } catch (e) { toast(e.message, 'erro'); } };
+  }
   if (a.quiz?.length) {
     quiz(el, { id: 'apostila-' + a.id, nome: a.materia || a.titulo }, a);
     el.querySelectorAll('#lzAbas [data-aba]').forEach((b) => (b.onclick = () => {
@@ -228,4 +246,39 @@ async function leitor(el, a0) {
   const pagAtual = () => { let n = 1; for (const d of paginas) if (d.getBoundingClientRect().top < innerHeight / 2) n = Number(d.dataset.n); el.querySelector('#lzPag').textContent = `Página ${n} de ${doc.numPages}`; };
   pagAtual(); window.addEventListener('scroll', pagAtual, { passive: true });
   window.addEventListener('hashchange', () => { obs.disconnect(); window.removeEventListener('scroll', pagAtual); doc.destroy?.(); }, { once: true });
+}
+
+// ---------- Quadro de simulados (visão do aluno) ----------
+const hojeISO = () => { const d = new Date(); return new Date(d.getTime() - d.getTimezoneOffset() * 6e4).toISOString().slice(0, 10); };
+export const bloqueado = (a) => !!a.liberar_em && String(a.liberar_em) > hojeISO();
+export const dataBR = (d) => { const [y, m, dd] = String(d || '').slice(0, 10).split('-'); return y ? `${dd}/${m}/${y.slice(2)}` : ''; };
+async function feitos() {
+  try { return new Set((await db.select('apostilas_feitas', { user_id: 'eq.' + S.user.id, select: 'apostila_id' })).map((x) => x.apostila_id)); } catch { return new Set(); }
+}
+async function quadroSimulados(el, lista) {
+  const c = meuCurso();
+  const F = await feitos();
+  let filtro = 'todos', busca = '';
+  // ordem: pela data de liberação (os sem data primeiro, na ordem definida pelo administrador)
+  const ord = [...lista].sort((x, y) => String(x.liberar_em || '').localeCompare(String(y.liberar_em || '')) || (x.ordem || 0) - (y.ordem || 0));
+  el.innerHTML = `<div class="sm-quadro">
+    <div class="sm-topo"><div><div class="mono up">${c ? esc(c.curto) : 'Seu curso'}</div><h1 class="sm-h1">SIMULADOS</h1></div>
+      <div class="sm-seg">${[['todos', 'Todos'], ['feitos', 'Resolvidos'], ['abertos', 'Não resolvidos']].map(([k, n]) => `<button data-f="${k}">${n}</button>`).join('')}</div></div>
+    <label class="sm-busca"><span>🔎</span><input id="smB" type="search" placeholder="Pesquisar simulado…"></label>
+    <div id="smL"></div></div>`;
+  const desenha = () => {
+    el.querySelectorAll('.sm-seg [data-f]').forEach((b) => b.classList.toggle('on', b.dataset.f === filtro));
+    const t = busca.toLowerCase();
+    const vis = ord.filter((a) => (filtro === 'todos' || (filtro === 'feitos') === F.has(a.id)) && (!t || (a.titulo + ' ' + (a.categoria || '') + ' ' + (a.materia || '')).toLowerCase().includes(t)));
+    el.querySelector('#smL').innerHTML = vis.map((a) => {
+      const lock = bloqueado(a), ok = F.has(a.id);
+      return `<a class="sm-card ${lock ? 'lock' : ''} ${ok ? 'ok' : ''}" href="${lock ? '#/simulados' : '#/simulados?ver=' + a.id}" data-id="${a.id}">
+        <div class="sm-info"><b>${esc(a.titulo)}</b><small>${esc(a.categoria || a.materia || 'Simulado')}${a.quiz?.length ? ' · ' + a.quiz.length + ' questões' : ''}${ok ? ' · ✅ resolvido' : ''}</small></div>
+        <div class="sm-data"><i></i><span>${lock ? '🔒 ' : ''}${a.liberar_em ? dataBR(a.liberar_em) : 'Liberado'}</span></div></a>`;
+    }).join('') || `<div class="card"><p class="muted" style="margin:0">${lista.length ? 'Nenhum simulado neste filtro.' : 'Os simulados do seu curso aparecem aqui assim que forem disponibilizados.'}</p></div>`;
+    el.querySelectorAll('.sm-card.lock').forEach((x) => (x.onclick = (e) => { e.preventDefault(); const a = lista.find((y) => y.id === x.dataset.id); toast(`Este simulado será liberado em ${dataBR(a.liberar_em)}.`); }));
+  };
+  el.querySelectorAll('.sm-seg [data-f]').forEach((b) => (b.onclick = () => { filtro = b.dataset.f; desenha(); }));
+  el.querySelector('#smB').oninput = (e) => { busca = e.target.value; desenha(); };
+  desenha();
 }

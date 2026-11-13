@@ -4,7 +4,8 @@ import { esc, iso, hoje, norm, DIAS } from '../util.js';
 import { toast, barra, modal, loading } from '../ui.js';
 import { parseCSV, toCSV, baixar } from '../csv.js';
 import { recarregar } from '../app.js';
-import { cursoInfo } from '../cursos.js';
+import { cursoInfo, CURSOS } from '../cursos.js';
+import { criarAviso } from '../avisos.js';
 import { materiasCursos } from './admin-cursos.js';
 import { conteudoPdf } from './admin-pdf.js';
 import { usuarios, conferir } from './admin-usuarios.js';
@@ -23,6 +24,7 @@ const PASTAS = [
   ['compras', '🛒', 'Compras Hotmart', 'Pagamentos recebidos e liberações automáticas'],
   ['materias', '📚', 'Matérias por curso', 'Incluir ou tirar matérias de cada curso'],
   ['pdfs', '📄', 'Conteúdo em PDF', 'Enviar PDF para virar conteúdo programático'],
+  ['avisos', '📣', 'Avisos da página inicial', 'Publicar recados para os alunos (conteúdo novo, simulado, datas)'],
   ['erros', '⚑', 'Erros reportados', 'Avisos de erro enviados pelos alunos'],
   ['excluidas', '🗑', 'Contas excluídas', 'Alunos que excluíram a própria conta (aviso automático)'],
   ['backup', '💾', 'Backup dos dados', 'Baixar uma cópia de segurança de todo o banco'],
@@ -39,7 +41,7 @@ export async function render(el, q) {
   const F = {
     usuarios: () => usuarios(box, atual), cadastros: () => cadastros(box, atual), vitrine: () => cursosVenda(box), compras: () => compras(box),
     materias: () => materiasCursos(box), pdfs: () => conteudoPdf(box), erros: () => reportes(box), importar: () => migracao(box),
-    excluidas: () => excluidas(box, atual), backup: () => backup(box),
+    excluidas: () => excluidas(box, atual), backup: () => backup(box), avisos: () => avisosAdm(box, atual),
   };
   try { await F[pasta[0]](); } catch (e) { box.innerHTML = `<p class="bad">${esc(e.message)}</p>`; }
 }
@@ -218,6 +220,40 @@ async function reportes(box) {
 }
 
 // ---------- CONTAS EXCLUÍDAS ----------
+// ---------- AVISOS DA PÁGINA INICIAL ----------
+async function avisosAdm(box, atual) {
+  const ls = await db.select('avisos', { order: 'publicar_em.desc', limit: 100 });
+  const agora = new Date().toISOString();
+  box.innerHTML = `<h3 style="margin:0 0 4px">Novo aviso</h3>
+    <p class="muted" style="font-size:13.5px;margin:0 0 10px">Aparece na caixa “📣 Avisos” da página inicial dos alunos. Quando você envia apostila, material, simulado ou conteúdo em PDF, o aviso já é criado sozinho. Use aqui para recados avulsos.</p>
+    <div class="campo"><label>Título</label><input id="avT" style="width:100%" placeholder="Ex.: Conteúdo novo disponível: Lei 5.406"></div>
+    <div class="campo"><label>Texto (opcional)</label><textarea id="avX" rows="2" style="width:100%" placeholder="Ex.: 80 questões novas de processo disciplinar"></textarea></div>
+    <div class="row" style="gap:10px;flex-wrap:wrap">
+      <div class="campo" style="flex:1;min-width:150px"><label>Tipo</label><select id="avTp" style="width:100%"><option value="aviso">📣 Recado</option><option value="conteudo">📖 Conteúdo novo</option><option value="questoes">🎯 Questões novas</option><option value="simulado">📝 Simulado</option><option value="apostila">📕 Apostila</option><option value="material">📄 Material</option></select></div>
+      <div class="campo" style="flex:1;min-width:150px"><label>Publicar em</label><input type="datetime-local" id="avQ" style="width:100%"><small class="muted">Em branco: agora.</small></div>
+      <div class="campo" style="flex:1;min-width:150px"><label>Link no site (opcional)</label><input id="avL" style="width:100%" placeholder="#/simulados"></div></div>
+    <div class="campo"><label>Para quais cursos? (nenhum marcado = todos os alunos)</label><div class="row" style="gap:12px;flex-wrap:wrap">${CURSOS.map((c) => `<label style="font-size:14px"><input type="checkbox" class="avC" value="${c.id}"> ${esc(c.curto)}</label>`).join('')}</div></div>
+    <button class="btn" id="avGo">Publicar aviso</button>
+    <h3 style="margin:22px 0 6px">Avisos publicados (${ls.length})</h3>
+    ${ls.map((a) => `<div class="row" style="border-top:1px solid var(--borda);padding:10px 0;gap:10px;align-items:flex-start"><div style="flex:1;min-width:0">
+      <b>${esc(a.titulo)}</b>${a.ativo ? '' : ' <span class="pill">oculto</span>'}${a.publicar_em > agora ? ' <span class="pill">agendado</span>' : ''}
+      ${a.texto ? `<div class="muted" style="font-size:13.5px">${esc(a.texto)}</div>` : ''}
+      <div class="muted" style="font-size:12.5px">${new Date(a.publicar_em).toLocaleString('pt-BR')} · ${(a.cursos || []).length ? a.cursos.map((c) => esc(cursoInfo(c)?.curto || c)).join(', ') : 'todos os alunos'}</div></div>
+      <button class="btn mini sec" data-oc="${a.id}" data-v="${a.ativo ? 0 : 1}">${a.ativo ? 'Ocultar' : 'Mostrar'}</button><button class="btn mini sec" data-del="${a.id}">Apagar</button></div>`).join('') || '<p class="muted">Nenhum aviso ainda.</p>'}`;
+  box.querySelector('#avGo').onclick = async (e) => {
+    const titulo = box.querySelector('#avT').value.trim();
+    if (!titulo) return toast('Escreva o título do aviso.', 'erro');
+    const q = box.querySelector('#avQ').value;
+    e.target.disabled = true;
+    const r = await criarAviso({ titulo, texto: box.querySelector('#avX').value.trim(), tipo: box.querySelector('#avTp').value, link: box.querySelector('#avL').value.trim() || null,
+      cursos: [...box.querySelectorAll('.avC:checked')].map((x) => x.value), publicar_em: q ? new Date(q).toISOString() : null });
+    if (!r) { e.target.disabled = false; return toast('Não deu para publicar. Rodou a atualização 19 no Supabase?', 'erro'); }
+    toast('Aviso publicado.'); atual();
+  };
+  box.querySelectorAll('[data-oc]').forEach((b) => (b.onclick = async () => { try { await db.update('avisos', { id: 'eq.' + b.dataset.oc }, { ativo: b.dataset.v === '1' }); atual(); } catch (er) { toast(er.message, 'erro'); } }));
+  box.querySelectorAll('[data-del]').forEach((b) => (b.onclick = async () => { if (!confirm('Apagar este aviso?')) return; try { await db.remove('avisos', { id: 'eq.' + b.dataset.del }); atual(); } catch (er) { toast(er.message, 'erro'); } }));
+}
+
 async function excluidas(box, atual) {
   const ls = await db.select('contas_excluidas', { order: 'excluida_em.desc' });
   const novas = ls.filter((x) => !x.vista).length;

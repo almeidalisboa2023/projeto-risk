@@ -7,6 +7,7 @@ import { sugestoes, escolherDia, dataTarefa } from '../revisoes.js';
 import { atrasados } from './replanejar.js';
 import { fmtMin } from '../crono.js';
 import { contarFlash } from '../questao.js';
+import { caixaAvisos } from '../avisos.js';
 
 let timer = null;
 
@@ -54,6 +55,7 @@ export async function render(el) {
       <button class="btn" id="tema">${tema() === 'dark' ? '☀ Modo claro' : '☾ Modo noturno'}</button>
     </div>
   </div>
+  <div id="avisosBox" style="margin-bottom:16px"></div>
   <section class="hero">
     <h1>Bem-vindo, ${esc(nome)}!</h1>
     <div class="muted">Vamos em busca do seu sonho.</div>
@@ -93,6 +95,7 @@ export async function render(el) {
       <a class="btn sec mini" href="#/calendario" style="margin-top:8px">Abrir o dia →</a></div>
   </div>
   <div class="card" style="margin-top:16px"><h3>Desempenho por matéria</h3><div id="pormat"></div></div>`;
+  caixaAvisos(el.querySelector('#avisosBox')).catch(() => {});
   contarFlash().then((r) => { const n = el.querySelector('#pFlash'); if (!n) return; if (!r) { n.textContent = '—'; return; } n.textContent = r.cartoes; el.querySelector('#pFlashSub').textContent = `${r.viradas} viradas no total · ir para a leitura →`; });
 
   const ligaSug = (box) => box.querySelectorAll('[data-ag]').forEach((b) => (b.onclick = () => escolherDia(sug.find((x) => x.tp.id === b.dataset.ag).tp, () => render(el))));

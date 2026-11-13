@@ -8,6 +8,7 @@ import { CURSOS } from '../cursos.js';
 import { MATERIAS_TODAS, comConteudos, chaveQ } from '../leitura/index.js';
 import { lerPdf, acharQuestoes, paraQuiz, painelQuestoes, enviarAoBanco } from '../pdf-questoes.js';
 import { enxugar } from '../estetica.js';
+import { criarAviso } from '../avisos.js';
 
 // Transforma as linhas em HTML de leitura: títulos (letra maior, CAIXA ALTA, Título/Capítulo/Seção), parágrafos, listas e artigos.
 function montarHtml(paginas, pular = new Set(), marcas = new Map()) {
@@ -250,6 +251,7 @@ export function conteudoPdf(box) {
         let noBanco = 0;
         if (quiz.length) noBanco = await enviarAoBanco(quiz, { materia: reg.materia_nome || m?.nome || '', assunto: titulo, fonte: lido.file.name }).catch(() => 0);
         S.conteudos = [...(S.conteudos || []), novo || reg];
+        criarAviso({ titulo: `Conteúdo novo: ${reg.materia_nome || m?.nome || 'matéria'}`, texto: titulo + (quiz.length ? ` · ${quiz.length} questões` : ''), tipo: quiz.length ? 'questoes' : 'conteudo', cursos: reg.cursos?.length ? reg.cursos : CURSOS.filter((c) => (c.materias || []).some((it) => it.id === materiaId)).map((c) => c.id), link: '#/leitura?a=' + materiaId + '/' });
         toast((comp ? 'Pronto! O tópico foi complementado.' : 'Pronto! O tópico novo já está na leitura da matéria.') + (quiz.length ? ` ${quiz.length} questões viraram respondíveis${noBanco ? ' e foram para o banco de questões' : ''}.` : ''));
         lido = null; desenha();
       } catch (er) { toast(er.message, 'erro'); ev.target.disabled = false; ev.target.textContent = 'Confirmar e enviar para a matéria'; }
