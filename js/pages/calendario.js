@@ -10,12 +10,20 @@ import * as crono from '../crono.js';
 import { acharLeitura } from '../leitura/index.js';
 import { TEMAS, temaAtual, progressoHTML } from '../temas.js';
 import { topicosValidos } from '../state.js';
+import { meuCurso } from '../cursos.js';
+import { assistente, convite } from './cronograma.js';
 
 let semanaSel = null, diaSel = null, visao = 'semana', mesSel = null, edSel = null;
 
-export async function render(el) {
+export async function render(el, q) {
   const ed = S.edital;
-  if (!ed) { el.innerHTML = '<div class="card"><h2>Sem edital</h2><p>Peça ao administrador para importar seu edital ou crie um na aba Edital.</p></div>'; return; }
+  const curso = meuCurso();
+  if (curso && q?.get('montar')) return assistente(el, { voltar: () => { location.hash = '#/calendario'; } });
+  if (!ed || (curso && !S.tarefas.length)) {
+    el.innerHTML = curso ? `<div class="mono up">Calendário de estudos</div><h1>Seu calendário está vazio</h1>${convite(curso)}`
+      : '<div class="card"><h2>Sem edital</h2><p>Peça ao administrador para importar seu edital ou crie um na aba Edital.</p></div>';
+    return;
+  }
   const h = hoje();
   const semAtual = semanaDe(ed.data_inicio, h);
   if (edSel !== ed.id + ed.data_inicio) { edSel = ed.id + ed.data_inicio; semanaSel = null; }
@@ -36,7 +44,7 @@ export async function render(el) {
 
   el.innerHTML = `
     <div class="row" style="margin-bottom:6px"><div class="abas"><button class="on">Semana</button><button id="vmes">Mês</button></div><span class="sp"></span>
-      <button class="btn ${nAtr ? 'vermelho' : 'sec'} mini" id="atr">${nAtr ? `Corrigir atrasos (${nAtr})` : 'Reorganizar calendário'}</button></div>
+      ${curso ? '<a class="btn sec mini" href="#/calendario?montar=1" title="Responder de novo as perguntas e regerar os blocos que ainda não foram feitos">🧭 Refazer cronograma</a>' : ''}<button class="btn ${nAtr ? 'vermelho' : 'sec'} mini" id="atr">${nAtr ? `Corrigir atrasos (${nAtr})` : 'Reorganizar calendário'}</button></div>
     <div class="mono up">${esc(dataExtenso(dataSel))} · Semana ${semanaSel}${semanaSel === semAtual ? ' (atual)' : ''}</div>
     <h1>${iso(dataSel) === iso(h) ? 'Hoje' : esc(DIAS[diaSel])}${T && iso(dataSel) === iso(h) ? ` <span class="tema-hoje">${T.hoje}</span>` : ''}</h1>
     <div class="card">
@@ -103,7 +111,7 @@ export async function render(el) {
       ${itens.map(([k, txt, auto]) => `<label class="check"><input type="checkbox" data-k="${k}" ${cl[k] || auto ? 'checked' : ''}> ${esc(txt)}</label>`).join('')}
       ${t.duvida ? `<div class="muted" style="font-size:13px">📝 ${esc(t.duvida)}</div>` : ''}
       ${(() => { const lt = acharLeitura(tp?.materia || t.materia, (tp?.topico || '') + ' ' + (t.topico || '')); return lt ? `<div class="row" style="margin-top:10px"><a class="btn sec mini lt-link" style="--c:${lt.mat.cor}" href="${lt.link}">📖 ${lt.a ? 'Ler o assunto: ' + esc(lt.rotulo) : 'Leitura de ' + esc(lt.rotulo)}</a></div>` : ''; })()}
-      <div class="row" style="margin-top:10px"><span class="crono ${rodando ? 'rodando' : ''}">⏱ ${rodando ? 'Cronômetro rodando' : `Tempo estudado: ${crono.fmtMin(t.minutos || 0)}`}</span><button class="btn sec mini" data-a="crono">${rodando ? '■ Parar' : '▶ Iniciar cronômetro'}</button></div>
+      <div class="row" style="margin-top:10px"><span class="crono ${rodando ? 'rodando' : ''}">⏱ ${rodando ? 'Cronômetro rodando' : `Tempo estudado: ${crono.fmtMin(t.minutos || 0)}${t.previsto ? ' de ' + crono.fmtMin(t.previsto) + ' previstos' : ''}`}</span><button class="btn sec mini" data-a="crono">${rodando ? '■ Parar' : '▶ Iniciar cronômetro'}</button></div>
       <div class="row" style="margin-top:12px">
         <button class="btn bl-btn" data-a="concluir" ${t.concluido ? 'title="Clique para reabrir"' : ''}>${T ? (t.concluido ? T.feito : T.btn) : t.concluido ? 'Reabrir bloco' : 'Concluí o bloco'}</button>
         ${tp ? `<button class="btn sec" data-a="terminei">${tp.concluido ? 'Reabrir assunto' : 'Terminei este assunto'}</button>

@@ -65,7 +65,7 @@ export async function render(el, q, { publico = false, aoEntrar } = {}) {
 
 const CURSOS_LISTA = () => CURSOS;
 function ligaVisao(el) {
-  el.querySelectorAll('[data-visao]').forEach((b) => (b.onclick = () => { entrarVisao(b.dataset.visao); location.hash = '#/leitura'; }));
+  el.querySelectorAll('[data-visao]').forEach((b) => (b.onclick = () => { entrarVisao(b.dataset.visao); location.hash = '#/painel'; location.reload(); }));
 }
 
 function detalhe(el, c, ctx) {

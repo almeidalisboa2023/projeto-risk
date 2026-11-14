@@ -8,6 +8,8 @@ import { atrasados } from './replanejar.js';
 import { fmtMin } from '../crono.js';
 import { contarFlash } from '../questao.js';
 import { caixaAvisos } from '../avisos.js';
+import { meuCurso } from '../cursos.js';
+import { convite } from './cronograma.js';
 
 let timer = null;
 
@@ -55,6 +57,7 @@ export async function render(el) {
       <button class="btn" id="tema">${tema() === 'dark' ? '☀ Modo claro' : '☾ Modo noturno'}</button>
     </div>
   </div>
+  ${meuCurso() && (!ed || !S.tarefas.length) ? convite(meuCurso()) : ''}
   <div id="avisosBox" style="margin-bottom:16px"></div>
   <section class="hero">
     <h1>Bem-vindo, ${esc(nome)}!</h1>
