@@ -7502,8 +7502,848 @@ export const PROFUNDO = {
 },
 "medicina-legal": {
 "pericia": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1</b><span>perito oficial com diploma de curso superior (CPP, art. 159)</span></div><div class=\"lt-stat\"><b>10 dias</b><span>prazo do laudo, prorrogável (art. 160, p. único)</span></div><div class=\"lt-stat\"><b>6</b><span>partes clássicas do relatório médico-legal</span></div><div class=\"lt-stat\"><b>72 h</b><span>janela ideal para coleta em crimes sexuais</span></div></div>\n<h3>1. Medicina Legal e perícia</h3>\n<ul><li><b>Medicina Legal</b> é a aplicação dos conhecimentos médicos e biológicos ao Direito. <b>Perícia</b> é o exame técnico feito por especialista para esclarecer fato de interesse da Justiça. O <b>perito</b> é auxiliar da Justiça e está sujeito às mesmas <b>suspeições e impedimentos</b> dos juízes (CPP, art. 280).</li><li><b>Corpo de delito</b> é o conjunto de <b>vestígios materiais</b> da infração. <b>Exame de corpo de delito</b> é a perícia sobre esses vestígios: <b>direto</b> (sobre o próprio vestígio) ou <b>indireto</b> (com base em prontuários, fichas, testemunhas qualificadas).</li></ul>\n<h3>2. Regras do CPP (arts. 158 a 184)</h3>\n<table class=\"tab\"><thead><tr><th>Regra</th><th>Conteúdo</th></tr></thead><tbody><tr><td><b>Indispensabilidade</b> (art. 158)</td><td>quando a infração deixar vestígios, o exame de corpo de delito é <b>indispensável</b> e <b>não pode ser suprido pela confissão</b> do acusado</td></tr><tr><td><b>Supressão por testemunhas</b> (art. 167)</td><td>se os vestígios <b>desapareceram</b>, a <b>prova testemunhal</b> pode suprir a falta do exame</td></tr><tr><td><b>Perito</b> (art. 159)</td><td><b>1 perito oficial</b> com diploma de curso superior; na falta, <b>2 pessoas idôneas</b> com diploma superior, preferencialmente na área, que prestam <b>compromisso</b> de bem e fielmente desempenhar o encargo</td></tr><tr><td><b>Quesitos e assistente técnico</b> (art. 159, § 3º)</td><td>facultados ao MP, ao assistente de acusação, ao ofendido, ao querelante e ao acusado; o assistente atua <b>após a conclusão</b> do laudo oficial</td></tr><tr><td><b>Prazo</b> (art. 160)</td><td>laudo em <b>10 dias</b>, prorrogável em casos excepcionais</td></tr><tr><td><b>Autópsia</b> (art. 162)</td><td><b>pelo menos 6 horas</b> após o óbito, salvo evidência dos sinais de morte; basta <b>exame externo</b> em morte violenta sem infração a apurar ou quando as lesões externas bastarem</td></tr><tr><td><b>Cadáveres</b> (art. 164)</td><td>serão <b>sempre fotografados na posição em que forem encontrados</b></td></tr><tr><td><b>Exumação</b> (art. 163)</td><td>em dia e hora previamente marcados, lavrando-se auto circunstanciado</td></tr><tr><td><b>Lesões</b> (art. 168)</td><td>exame <b>complementar</b>; para a incapacidade por <b>mais de 30 dias</b>, o exame deve ser feito logo que decorrido esse prazo</td></tr><tr><td><b>Liberdade do juiz</b> (art. 182)</td><td>o juiz <b>não fica adstrito</b> ao laudo</td></tr></tbody></table>\n<ul><li><b>Prioridade</b> (art. 158, p. único): o exame terá prioridade em crimes com <b>violência doméstica contra a mulher</b> e violência contra <b>criança, adolescente, idoso ou pessoa com deficiência</b>.</li></ul>\n<h3>3. Documentos médico-legais</h3>\n<table class=\"tab\"><thead><tr><th>Documento</th><th>O que é</th></tr></thead><tbody><tr><td><b>Notificação</b></td><td>comunicação <b>compulsória</b> à autoridade de fatos de interesse público (doenças de notificação obrigatória, violência contra a mulher, maus-tratos a crianças)</td></tr><tr><td><b>Atestado</b></td><td>afirmação <b>simples e por escrito</b> de um fato médico e suas consequências; o <b>atestado médico falso</b> dado por médico no exercício da profissão é <b>crime</b> (CP, art. 302)</td></tr><tr><td><b>Relatório médico-legal</b></td><td>descrição minuciosa da perícia: chama-se <b>auto</b> quando ditado ao escrivão na presença da autoridade, e <b>laudo</b> quando redigido pelo próprio perito</td></tr><tr><td><b>Parecer</b> (consulta médico-legal)</td><td>opinião de especialista sobre perícia já feita, a pedido de uma parte</td></tr><tr><td><b>Depoimento oral</b></td><td>esclarecimentos do perito em audiência</td></tr></tbody></table>\n<h3>4. Estrutura do relatório (laudo)</h3>\n<div class=\"lt-fluxo\"><span>Preâmbulo (qualificação, autoridade, objetivo)</span> <em>→</em> <span>Quesitos</span> <em>→</em> <span>Histórico ou comemorativo (relato dos fatos pelo examinado)</span> <em>→</em> <span>Descrição (o que o perito viu: visum et repertum)</span> <em>→</em> <span>Discussão (análise e hipóteses)</span> <em>→</em> <span>Conclusão</span> <em>→</em> <span>Respostas aos quesitos</span></div>\n<ul><li>A <b>descrição</b> é a <b>parte mais importante</b>: o perito relata minuciosamente o que observou, de forma objetiva, sem opinião. Uma lesão mal descrita não pode ser reavaliada depois que cicatriza.</li></ul>\n<h3>5. Perícias de identificação e locais de crime</h3>\n<ul><li><b>Local de crime</b>: deve ser <b>isolado e preservado</b> (CPP, art. 6º, I, e cadeia de custódia, arts. 158-A a 158-F). Locais <b>idôneos</b> (preservados) e <b>inidôneos</b> (alterados). A <b>cadeia de custódia</b> documenta o vestígio do reconhecimento ao descarte.</li><li><b>Crimes sexuais</b>: o exame deve ser feito o quanto antes (idealmente em até <b>72 horas</b>), com coleta de material para <b>sêmen</b> e <b>DNA</b> e pesquisa de substâncias (drogas que facilitam o abuso).</li><li><b>Embriaguez</b>: exame <b>clínico</b> (comportamento, hálito, marcha, fala) e <b>laboratorial</b> (dosagem no sangue).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O exame de corpo de delito exige dois peritos oficiais</span><br>✅ <span class=\"certo\">Basta um perito oficial.</span></li><li>❌ <span class=\"banca\">Os peritos não oficiais dispensam compromisso</span><br>✅ <span class=\"certo\">Prestam compromisso.</span></li><li>❌ <span class=\"banca\">O juiz está vinculado ao laudo</span><br>✅ <span class=\"certo\">Não fica adstrito (art. 182).</span></li><li>❌ <span class=\"banca\">Atestado médico falso não é crime</span><br>✅ <span class=\"certo\">É crime (CP, art. 302).</span></li><li>❌ <span class=\"banca\">A parte mais importante do laudo é a conclusão</span><br>✅ <span class=\"certo\">É a DESCRIÇÃO (visum et repertum).</span></li><li>❌ <span class=\"banca\">A confissão supre o exame</span><br>✅ <span class=\"certo\">Não supre; testemunhas suprem se os vestígios sumiram.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perito?</span></span><span class=\"vs\"><span><b>1 oficial</b> ou <b>2 não oficiais</b> com curso superior e compromisso.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do laudo?</span></span><span class=\"vs\"><span><b>10 dias</b>, prorrogável.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Autópsia?</span></span><span class=\"vs\"><span>Após <b>6 horas</b>, salvo evidência de morte.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cadáver?</span></span><span class=\"vs\"><span>Sempre <b>fotografado</b> na posição encontrada.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parte mais importante do laudo?</span></span><span class=\"vs\"><span><b>Descrição</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Auto x laudo?</span></span><span class=\"vs\"><span>Auto: <b>ditado</b> ao escrivão; laudo: <b>redigido</b> pelo perito.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parecer?</span></span><span class=\"vs\"><span>Opinião de especialista sobre perícia <b>já feita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vestígios desapareceram?</span></span><span class=\"vs\"><span><b>Prova testemunhal</b> supre.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A comarca sem IML</b><p>Em comarca do interior sem perito oficial, uma mulher chega à delegacia com lesões no rosto, dizendo ter sido agredida pelo companheiro.</p><details><summary>Ver a solução comentada</summary><p>O exame de corpo de delito é <b>indispensável</b> (art. 158) e tem <b>prioridade</b> por se tratar de violência doméstica contra a mulher. Sem perito oficial, o Delegado nomeia <b>duas pessoas idôneas</b> com diploma de curso superior, <b>preferencialmente médicos</b>, que prestam <b>compromisso</b> (art. 159, § 1º). Se as lesões puderem gerar incapacidade por mais de 30 dias, deve-se agendar <b>exame complementar</b>.</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>10 dias</b><span>prazo do laudo, prorrogável (CPP, art. 160)</span></div><div class=\"lt-stat\"><b>6 horas</b><span>mínimo depois do óbito para a autópsia (CPP, art. 162)</span></div><div class=\"lt-stat\"><b>30 dias</b><span>para o exame complementar da lesão grave (CPP, art. 168, § 2º)</span></div><div class=\"lt-stat\"><b>10</b><span>etapas da cadeia de custódia (CPP, art. 158-B)</span></div></div>\n<h3>1. O que é Medicina Legal</h3>\n<ul><li><b>Medicina Legal</b> é a ciência que aplica os conhecimentos médicos e biológicos às necessidades do <b>Direito</b>: esclarece fatos de interesse da Justiça (lesões, mortes, crimes sexuais, idade, identidade, sanidade mental) e ajuda a elaborar e interpretar leis que dependem de conhecimento médico.</li><li>Ela não é uma especialidade \"de consultório\": seu destinatário principal é a <b>autoridade</b> (delegado, promotor, juiz). O médico-legista não trata o examinado; ele <b>examina, descreve e interpreta</b> para que a autoridade decida.</li><li>Outros nomes que aparecem em prova: <b>Medicina Forense</b> (de <i>forum</i>, o lugar onde se julgava), <b>Medicina Judiciária</b>, <b>Jurisprudência Médica</b>, <b>Medicina Jurídica</b>. Todos indicam a mesma ponte entre Medicina e Direito.</li><li><b>Por que interessa ao policial</b>: a investigação criminal depende de prova técnica. Saber o que o perito pode responder, como preservar o local, quando o exame é obrigatório e o que torna um laudo nulo evita perder a prova do crime.</li></ul>\n<table class=\"tab\"><thead><tr><th>Divisão didática</th><th>O que estuda</th></tr></thead><tbody><tr><td><b>Medicina Legal geral</b> (deontologia e diceologia)</td><td>os <b>deveres</b> (deontologia) e os <b>direitos</b> (diceologia) do médico; ética e responsabilidade profissional</td></tr><tr><td><b>Antropologia forense</b></td><td><b>identidade e identificação</b> de vivos, cadáveres e ossadas</td></tr><tr><td><b>Traumatologia forense</b></td><td>as <b>lesões</b> e as <b>energias</b> que as produzem (mecânicas, físicas, químicas, físico-químicas, bioquímicas, biodinâmicas e mistas)</td></tr><tr><td><b>Asfixiologia</b></td><td>as <b>asfixias</b> (enforcamento, estrangulamento, esganadura, afogamento, sufocação…)</td></tr><tr><td><b>Tanatologia</b></td><td>a <b>morte</b>, os fenômenos cadavéricos e o tempo de morte</td></tr><tr><td><b>Sexologia forense</b></td><td>crimes contra a dignidade sexual, gravidez, parto, aborto, infanticídio</td></tr><tr><td><b>Toxicologia forense</b></td><td>venenos, drogas e embriaguez</td></tr><tr><td><b>Psicopatologia e Psiquiatria forense</b></td><td>imputabilidade, capacidade civil, simulação</td></tr><tr><td><b>Infortunística</b></td><td>acidentes e doenças do trabalho</td></tr><tr><td><b>Criminalística</b></td><td>vestígios do crime fora do corpo humano (local, armas, documentos)</td></tr><tr><td><b>Criminologia e Vitimologia</b></td><td>o crime, o criminoso e a vítima como fenômenos</td></tr></tbody></table>\n<ul><li><b>Deontologia x Diceologia</b> (cai muito): <b>deontologia</b> = estudo dos <b>deveres</b> do médico; <b>diceologia</b> = estudo dos <b>direitos</b> do médico. Dica: <i>deon</i> = dever; <i>dike</i> = direito/justiça.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Medicina Legal x Criminalística | A <b>Medicina Legal</b> examina o <b>corpo humano</b> (vivo ou morto) e o que dele se extrai (sangue, sêmen, vísceras). A <b>Criminalística</b> examina os <b>vestígios fora do corpo</b>: local do crime, arma, projétil, documento, veículo, impressões no ambiente. As duas se completam e, na prática, trabalham juntas (IML e Instituto de Criminalística).</div>\n<h3>2. Um pouco de história (o que a prova cobra)</h3>\n<ul><li>Na Antiguidade já havia exame de cadáveres em casos de morte suspeita, mas a Medicina Legal como disciplina organizada nasce nos séculos XVI e XVII.</li><li><b>Ambroise Paré</b> (cirurgião francês do século XVI) escreveu sobre ferimentos, morte súbita e relatórios para a Justiça e é apontado por parte da doutrina brasileira como <b>pai da Medicina Legal</b>.</li><li><b>Paulo Zacchia</b> (médico italiano), com a obra <i>Quaestiones medico-legales</i> (século XVII), também é citado como <b>pai da Medicina Legal</b>, por ter sistematizado a disciplina. Em prova, as duas atribuições aparecem; leia o enunciado com atenção ao autor citado.</li><li><b>No Brasil</b>, destacam-se <b>Raimundo Nina Rodrigues</b> (Bahia), considerado o grande nome da <b>nacionalização</b> da Medicina Legal brasileira, e seus seguidores, como <b>Afrânio Peixoto</b> e <b>Oscar Freire</b>; e, depois, <b>Flamínio Fávero</b>, autor de obra clássica. Na doutrina atual, as referências mais usadas em concursos são <b>Genival Veloso de França</b> e <b>Hygino de Carvalho Hércules</b>, entre outros.</li></ul>\n<h3>3. Perícia: conceito, objeto e finalidade</h3>\n<ul><li><b>Perícia</b> é o exame realizado por pessoa com <b>conhecimento técnico ou científico</b> (o <b>perito</b>) para <b>verificar, interpretar e documentar</b> fatos que interessam à Justiça e que o juiz, sozinho, não teria condições técnicas de esclarecer.</li><li><b>Perícia médico-legal</b> é a perícia feita por médico (perito médico-legista) sobre <b>pessoas vivas</b>, <b>cadáveres</b>, <b>ossadas</b>, <b>partes do corpo</b> e <b>materiais biológicos</b> (sangue, sêmen, pelos, vísceras, secreções).</li><li><b>Objeto</b>: o <b>fato</b> (lesão, morte, conjunção carnal, idade, embriaguez, sanidade mental, parentesco biológico...). O perito não julga pessoas: ele <b>constata e interpreta fatos</b>.</li><li><b>Finalidade</b>: produzir <b>prova técnica</b>. O laudo é <b>meio de prova</b>, que o juiz aprecia livremente (CPP, art. 182).</li><li><b>Perito</b> é o técnico que, nomeado pela autoridade ou investido no cargo por concurso, examina e responde ao que lhe é perguntado (<b>quesitos</b>). É um <b>auxiliar da Justiça</b>.</li></ul>\n<h3>4. Classificação das perícias</h3>\n<table class=\"tab\"><thead><tr><th>Critério</th><th>Espécies</th><th>Explicação</th></tr></thead><tbody><tr><td><b>Momento processual</b></td><td><b>judicial</b> x <b>extrajudicial</b> (ou policial)</td><td>judicial: determinada pelo juiz no processo; extrajudicial: requisitada pela autoridade policial no inquérito ou feita fora do processo</td></tr><tr><td><b>Natureza da atividade do perito</b></td><td><b>percipiendi</b> x <b>deducendi</b></td><td><i>percipiendi</i>: o perito <b>percebe e descreve</b> o fato (ex.: descreve a lesão); <i>deducendi</i>: o perito <b>interpreta</b>, a partir de dados, um fato já ocorrido ou suas consequências (ex.: deduz a causa da morte a partir dos achados)</td></tr><tr><td><b>Tempo do fato examinado</b></td><td><b>retrospectiva</b> x <b>prospectiva</b></td><td>retrospectiva: examina fato <b>passado</b> (como foi a morte); prospectiva: projeta <b>consequências futuras</b> (incapacidade permanente, deformidade, periculosidade)</td></tr><tr><td><b>Forma</b></td><td><b>direta</b> x <b>indireta</b></td><td>direta: sobre o próprio vestígio (corpo, local); indireta: quando os vestígios desapareceram, a partir de <b>outros elementos</b> (prontuário, fichas, fotografias, depoimentos)</td></tr><tr><td><b>Quem realiza</b></td><td><b>oficial</b> x <b>não oficial</b> (leigos ou <i>ad hoc</i>)</td><td>oficial: perito de carreira, concursado; não oficial: duas pessoas idôneas nomeadas na falta de perito oficial (CPP, art. 159, § 1º)</td></tr><tr><td><b>Obrigatoriedade</b></td><td><b>obrigatória</b> x <b>facultativa</b></td><td>obrigatória: exame de corpo de delito nas infrações que deixam vestígios (art. 158); facultativa: as demais, que a autoridade pode negar se desnecessárias (art. 184)</td></tr><tr><td><b>Objeto</b></td><td>em <b>vivos</b>, em <b>cadáveres</b>, em <b>animais</b>, em <b>coisas</b></td><td>ex.: lesão corporal, necropsia, exame de material, exame de arma</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Perícia percipiendi é a que interpreta fatos</span><br>✅ <span class=\"certo\"><i>Percipiendi</i> = <b>perceber e descrever</b>; quem <b>interpreta/deduz</b> é a perícia <i>deducendi</i></span></li><li>❌ <span class=\"banca\">Perícia prospectiva examina fato passado</span><br>✅ <span class=\"certo\">Prospectiva <b>projeta consequências futuras</b>; a que examina fato passado é a <b>retrospectiva</b></span></li><li>❌ <span class=\"banca\">Perícia indireta é a feita por perito não oficial</span><br>✅ <span class=\"certo\">Indireta é a feita <b>sem o vestígio</b>, a partir de outros elementos; não tem relação com o perito ser ou não oficial</span></li></ol></div>\n<h3>5. Corpo de delito e exame de corpo de delito</h3>\n<ul><li><b>Corpo de delito</b> é o <b>conjunto dos vestígios materiais</b> deixados pela infração penal. Não é \"o corpo da vítima\": é tudo o que de <b>material</b> o crime deixou (a lesão, o cadáver, a porta arrombada, o documento falsificado).</li><li>A doutrina decompõe o corpo de delito em: <b>corpus criminis</b> (a pessoa ou coisa sobre a qual recai a ação: a vítima, o objeto), <b>corpus instrumentorum</b> (os <b>instrumentos</b> usados: faca, arma, veneno) e <b>corpus probatorium</b> (os demais <b>elementos de prova</b> materiais: manchas, pegadas, projéteis).</li><li><b>Exame de corpo de delito</b> é a <b>perícia</b> feita sobre esses vestígios para comprovar a <b>materialidade</b> do crime.</li><li><b>Direto</b>: feito pelo perito <b>sobre os próprios vestígios</b>. <b>Indireto</b>: feito quando os vestígios <b>não podem mais ser examinados diretamente</b>, a partir de outros elementos (fichas médicas, fotografias, prontuário). Há ainda a hipótese do art. 167 do CPP, em que a <b>prova testemunhal</b> supre a falta do exame.</li><li><b>Obrigatoriedade</b> (CPP, <b>art. 158</b>): quando a infração <b>deixar vestígios</b>, será <b>indispensável</b> o exame de corpo de delito, <b>direto ou indireto</b>, <b>não podendo supri-lo a confissão do acusado</b>.</li><li><b>Prioridade</b> (art. 158, parágrafo único, incluído pela Lei 13.721/2018): dá-se <b>prioridade</b> à realização do exame de corpo de delito quando se tratar de crime que envolva: <b>I</b> – <b>violência doméstica e familiar contra a mulher</b>; <b>II</b> – <b>violência contra criança, adolescente, idoso ou pessoa com deficiência</b>.</li><li><b>Consequência da falta</b>: o CPP considera <b>nulidade</b> a falta do exame de corpo de delito nos crimes que deixam vestígios, <b>ressalvado o art. 167</b> (art. 564, III, <i>b</i>).</li><li><b>Suprimento pela prova testemunhal</b> (art. 167): <b>não sendo possível</b> o exame de corpo de delito, por <b>haverem desaparecido os vestígios</b>, a <b>prova testemunhal</b> poderá suprir-lhe a falta. Atenção: a lei fala em <b>testemunhas</b>, não em confissão.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Confissão sem exame</b><p>Um homem confessa ter agredido a vizinha, que tinha hematomas visíveis, mas ninguém requisitou o exame de corpo de delito e a vítima já está curada quando o caso chega ao promotor.</p><details><summary>Ver a solução comentada</summary><p>A <b>confissão não supre</b> o exame (art. 158). Como os vestígios <b>desapareceram</b>, a materialidade pode ser provada por <b>testemunhas</b> que viram as lesões (art. 167), ou por <b>exame indireto</b> a partir de prontuário e fotografias. Se a autoridade podia ter feito o exame e não fez, a defesa pode alegar nulidade (art. 564, III, <i>b</i>).</p></details></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A confissão do acusado pode suprir o exame de corpo de delito</span><br>✅ <span class=\"certo\">Art. 158: <b>não pode</b> supri-lo a confissão</span></li><li>❌ <span class=\"banca\">Desaparecidos os vestígios, o processo é necessariamente nulo</span><br>✅ <span class=\"certo\">Art. 167: a <b>prova testemunhal</b> pode suprir a falta</span></li><li>❌ <span class=\"banca\">Corpo de delito é o cadáver da vítima</span><br>✅ <span class=\"certo\">É o <b>conjunto de vestígios materiais</b> do crime, em qualquer infração que os deixe</span></li><li>❌ <span class=\"banca\">A prioridade do exame vale só para violência contra a mulher</span><br>✅ <span class=\"certo\">Vale também para violência contra <b>criança, adolescente, idoso e pessoa com deficiência</b> (art. 158, parágrafo único)</span></li></ol></div>\n<h3>6. Cadeia de custódia (CPP, arts. 158-A a 158-F)</h3>\n<ul><li>Incluída pelo <b>Pacote Anticrime</b> (Lei 13.964/2019). Garante que o vestígio examinado pelo perito é <b>o mesmo</b> coletado no local, sem troca, contaminação ou adulteração.</li><li><b>Conceito</b> (art. 158-A): conjunto de todos os <b>procedimentos</b> utilizados para <b>manter e documentar a história cronológica</b> do vestígio coletado em locais ou em vítimas de crimes, para <b>rastrear sua posse e manuseio</b> a partir de seu <b>reconhecimento até o descarte</b>.</li><li><b>Início</b> (§ 1º): com a <b>preservação do local de crime</b> ou com procedimentos policiais ou periciais nos quais seja detectada a existência de vestígio.</li><li><b>Responsável pela preservação</b> (§ 2º): o <b>agente público</b> que <b>reconhecer</b> um elemento como de potencial interesse para a produção da prova pericial fica <b>responsável por sua preservação</b>.</li><li><b>Vestígio</b> (§ 3º): <b>todo objeto ou material bruto, visível ou latente, constatado ou recolhido</b>, que se relaciona à infração penal.</li></ul>\n<table class=\"tab\"><thead><tr><th>Etapa (art. 158-B)</th><th>O que é</th></tr></thead><tbody><tr><td>I – <b>Reconhecimento</b></td><td>distinguir um elemento como de <b>potencial interesse</b> para a prova pericial</td></tr><tr><td>II – <b>Isolamento</b></td><td>evitar que se altere o estado das coisas: <b>isolar e preservar</b> o ambiente imediato, mediato e relacionado aos vestígios e ao local de crime</td></tr><tr><td>III – <b>Fixação</b></td><td><b>descrição detalhada</b> do vestígio como se encontra no local ou no corpo de delito, e sua posição, com fotografias, filmagens ou croqui, sendo <b>indispensável</b> a descrição no <b>laudo</b></td></tr><tr><td>IV – <b>Coleta</b></td><td><b>recolhimento</b> do vestígio, respeitadas suas características e natureza</td></tr><tr><td>V – <b>Acondicionamento</b></td><td>cada vestígio <b>embalado de forma individualizada</b>, conforme suas características físicas, químicas e biológicas, com anotação de data, hora e nome de quem coletou e acondicionou</td></tr><tr><td>VI – <b>Transporte</b></td><td>transferência do vestígio de um local para outro, nas condições adequadas (embalagens, veículos, temperatura) para manter suas características originais e controlar sua posse</td></tr><tr><td>VII – <b>Recebimento</b></td><td>ato <b>formal</b> de transferência da posse, documentado (procedimento, unidade, quem transportou, código de rastreamento, natureza do exame, tipo do vestígio, protocolo, assinatura e identificação de quem recebeu)</td></tr><tr><td>VIII – <b>Processamento</b></td><td><b>exame pericial</b> propriamente dito, manipulando o vestígio pela metodologia adequada, com resultado formalizado em <b>laudo</b> produzido por perito</td></tr><tr><td>IX – <b>Armazenamento</b></td><td>guarda, em condições adequadas, do material a ser processado, guardado para contraperícia, descartado ou transportado, vinculado ao número do laudo</td></tr><tr><td>X – <b>Descarte</b></td><td>liberação do vestígio, respeitada a legislação vigente e, quando pertinente, <b>mediante autorização judicial</b></td></tr></tbody></table>\n<ul><li><b>Coleta</b> (art. 158-C): realizada <b>preferencialmente por perito oficial</b>, que dará o encaminhamento necessário para a <b>central de custódia</b>, mesmo quando for necessária a realização de exames complementares.</li><li><b>Proibição</b> (art. 158-C, § 2º): é <b>proibida a entrada em locais isolados</b> e a <b>remoção de quaisquer vestígios</b> de locais de crime <b>antes da liberação por parte do perito responsável</b>, sendo <b>tipificada como fraude processual</b> a sua realização.</li><li><b>Recipiente</b> (art. 158-D): o recipiente para acondicionamento do vestígio é determinado pela natureza do material; todos os recipientes devem ser <b>selados com lacres</b>, com <b>numeração individualizada</b>. O recipiente só pode ser <b>aberto pelo perito</b> que vai examinar o vestígio ou, motivadamente, por pessoa autorizada; após cada rompimento do lacre, registram-se no recipiente o nome e a matrícula de quem o abriu, a data, o local e a finalidade, e o vestígio recebe <b>novo lacre</b>, cujo número também é registrado.</li><li><b>Central de custódia</b> (art. 158-E): todos os <b>Institutos de Criminalística</b> deverão ter uma <b>central de custódia</b> destinada à guarda e ao controle dos vestígios, com gestão <b>vinculada diretamente ao órgão central de perícia oficial</b> de natureza criminal. Toda pessoa que tiver acesso ao vestígio armazenado deverá ser <b>identificada</b>, com registro de data e hora do acesso.</li><li><b>Devolução</b> (art. 158-F): após a perícia, o material deve ser <b>devolvido à central de custódia</b>, onde permanece. Se a central não tiver espaço ou condições de armazenar determinado material, a autoridade policial ou judiciária determina as condições de depósito em local diverso, mediante requerimento do diretor do órgão central de perícia.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Quebra da cadeia de custódia | A lei não diz qual é a consequência da quebra da cadeia. A posição que prevalece nos tribunais superiores é que a <b>quebra não gera nulidade automática</b>: o juiz avalia, com as demais provas, se o vestígio continua <b>confiável</b>. Ou seja, a quebra afeta o <b>valor (peso) da prova</b>, analisado caso a caso.</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A cadeia de custódia começa com a coleta do vestígio</span><br>✅ <span class=\"certo\">Começa com a <b>preservação do local</b> ou com o procedimento em que se <b>detecta</b> o vestígio (art. 158-A, § 1º); a primeira etapa do art. 158-B é o <b>reconhecimento</b></span></li><li>❌ <span class=\"banca\">A coleta é feita exclusivamente pelo perito oficial</span><br>✅ <span class=\"certo\">É feita <b>preferencialmente</b> por perito oficial (art. 158-C)</span></li><li>❌ <span class=\"banca\">Remover vestígio de local isolado antes da liberação é mera falta administrativa</span><br>✅ <span class=\"certo\">É <b>fraude processual</b> (art. 158-C, § 2º)</span></li><li>❌ <span class=\"banca\">O vestígio pode ser embalado junto com outros do mesmo tipo</span><br>✅ <span class=\"certo\">O acondicionamento é <b>individualizado</b> (art. 158-B, V)</span></li><li>❌ <span class=\"banca\">Quebrada a cadeia de custódia, a prova é sempre nula</span><br>✅ <span class=\"certo\">A lei não fixa nulidade automática; o juiz avalia a <b>confiabilidade</b> da prova</span></li></ol></div>\n<h3>7. Quem faz a perícia: perito oficial e peritos não oficiais (CPP, art. 159)</h3>\n<ul><li><b>Regra</b> (art. 159, <i>caput</i>, com redação da Lei 11.690/2008): o exame de corpo de delito e outras perícias são realizados por <b>perito oficial</b>, portador de <b>diploma de curso superior</b>. Basta <b>um</b> perito oficial.</li><li><b>Na falta de perito oficial</b> (§ 1º): o exame é realizado por <b>2 (duas) pessoas idôneas</b>, portadoras de <b>diploma de curso superior</b>, <b>preferencialmente na área específica</b>, dentre as que tiverem <b>habilitação técnica</b> relacionada com a natureza do exame.</li><li><b>Compromisso</b> (§ 2º): os peritos <b>não oficiais</b> prestam o <b>compromisso de bem e fielmente desempenhar o encargo</b>. O perito oficial não presta esse compromisso a cada caso, porque já está investido no cargo.</li><li><b>Súmula 361 do STF</b>: \"No processo penal, é <b>nulo</b> o exame realizado por <b>um só perito</b>, considerando-se impedido o que tiver funcionado, anteriormente, na diligência de apreensão.\" Depois da Lei 11.690/2008, ela continua valendo para os <b>peritos não oficiais</b> (que devem ser dois), mas <b>não</b> para o perito oficial, que pode atuar sozinho.</li></ul>\n<table class=\"tab\"><thead><tr><th>Perito</th><th>Quantos</th><th>Formação</th><th>Compromisso</th></tr></thead><tbody><tr><td><b>Oficial</b></td><td><b>1</b> basta</td><td>diploma de <b>curso superior</b></td><td>não presta a cada caso (é investido no cargo)</td></tr><tr><td><b>Não oficial</b> (<i>ad hoc</i>)</td><td><b>2</b> pessoas idôneas</td><td>diploma de <b>curso superior</b>, <b>preferencialmente na área específica</b>, com habilitação técnica</td><td><b>presta compromisso</b> de bem e fielmente desempenhar o encargo</td></tr></tbody></table>\n<ul><li><b>Quesitos e assistente técnico</b> (§ 3º): são facultadas ao <b>Ministério Público</b>, ao <b>assistente de acusação</b>, ao <b>ofendido</b>, ao <b>querelante</b> e ao <b>acusado</b> a formulação de <b>quesitos</b> e a indicação de <b>assistente técnico</b>.</li><li><b>Momento do assistente técnico</b> (§ 4º): o assistente técnico atua <b>a partir de sua admissão pelo juiz</b> e <b>após a conclusão dos exames e elaboração do laudo pelos peritos oficiais</b>, sendo as partes intimadas dessa decisão. Por isso, <b>no inquérito policial não há assistente técnico</b> acompanhando o exame.</li><li><b>Esclarecimentos em audiência</b> (§ 5º): durante o curso do processo, as partes podem: <b>I</b> – requerer a <b>oitiva dos peritos</b> para esclarecerem a prova ou responderem a quesitos, desde que o mandado de intimação e os quesitos ou questões a serem esclarecidas sejam encaminhados com antecedência <b>mínima de 10 dias</b>, podendo os peritos apresentar as respostas em <b>laudo complementar</b>; <b>II</b> – indicar <b>assistentes técnicos</b>, que podem apresentar <b>pareceres</b> em prazo fixado pelo juiz ou ser <b>inquiridos em audiência</b>.</li><li><b>Acesso ao material</b> (§ 6º): havendo requerimento das partes, o material probatório que serviu de base à perícia é disponibilizado <b>no ambiente do órgão oficial</b>, que manterá sempre sua guarda, e <b>na presença de perito oficial</b>, para exame pelos assistentes, <b>salvo se for impossível a sua conservação</b>.</li><li><b>Perícia complexa</b> (§ 7º): tratando-se de perícia complexa que abranja <b>mais de uma área de conhecimento</b> especializado, pode-se designar a atuação de <b>mais de um perito oficial</b>, e a parte pode indicar <b>mais de um assistente técnico</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Para a perícia oficial são exigidos dois peritos</span><br>✅ <span class=\"certo\">Desde a Lei 11.690/2008, basta <b>um</b> perito oficial; dois só para peritos <b>não oficiais</b></span></li><li>❌ <span class=\"banca\">O perito oficial presta compromisso a cada exame</span><br>✅ <span class=\"certo\">Quem presta compromisso é o perito <b>não oficial</b> (art. 159, § 2º)</span></li><li>❌ <span class=\"banca\">O assistente técnico acompanha o exame desde o início, no inquérito</span><br>✅ <span class=\"certo\">Atua <b>após a admissão pelo juiz</b> e <b>depois</b> de concluído o laudo oficial (§ 4º)</span></li><li>❌ <span class=\"banca\">O pedido de oitiva do perito pode ser feito com 48 horas de antecedência</span><br>✅ <span class=\"certo\">A antecedência mínima é de <b>10 dias</b> (§ 5º, I)</span></li><li>❌ <span class=\"banca\">Perito não oficial pode ser qualquer pessoa idônea</span><br>✅ <span class=\"certo\">Deve ter <b>diploma de curso superior</b>, preferencialmente na área, e habilitação técnica (§ 1º)</span></li></ol></div>\n<h3>8. Perícias oficiais de natureza criminal (Lei 12.030/2009)</h3>\n<ul><li>A Lei 12.030/2009 trata das <b>perícias oficiais</b> de natureza criminal.</li><li><b>Autonomia</b>: no exercício da atividade de perícia oficial de natureza criminal, é assegurada <b>autonomia técnica, científica e funcional</b>, exigido <b>concurso público</b>, com <b>formação acadêmica específica</b>, para o provimento do cargo de perito oficial.</li><li><b>Quem são</b> os peritos de natureza criminal: os <b>peritos criminais</b>, os <b>peritos médico-legistas</b> e os <b>peritos odontolegistas</b>, com formação superior específica, de acordo com a necessidade de cada órgão e por área de atuação.</li><li><b>Regime de trabalho</b>: em razão do exercício das atividades de perícia oficial, os peritos submetem-se a <b>regime especial de trabalho</b>, observada a legislação específica de cada ente.</li><li><b>Organização nos Estados</b>: cada Estado organiza seus órgãos de perícia. Em alguns, a perícia é órgão autônomo (Polícia Científica ou Instituto-Geral de Perícias); em <b>Minas Gerais</b>, o <b>IML</b> e o <b>Instituto de Criminalística</b> integram a <b>Polícia Civil</b>, na <b>Superintendência de Polícia Técnico-Científica</b> (LC 129/2013), e os <b>Médicos-Legistas</b> e <b>Peritos Criminais</b> são carreiras policiais civis.</li></ul>\n<h3>9. O laudo: prazo, conteúdo e formalidades (CPP, arts. 160 a 165 e 178 a 181)</h3>\n<ul><li><b>Conteúdo</b> (art. 160): os peritos elaboram o <b>laudo pericial</b>, no qual <b>descrevem minuciosamente</b> o que examinarem e <b>respondem aos quesitos</b> formulados.</li><li><b>Prazo</b> (art. 160, parágrafo único): o laudo é elaborado no prazo <b>máximo de 10 dias</b>, podendo esse prazo ser <b>prorrogado</b>, em casos <b>excepcionais</b>, a <b>requerimento dos peritos</b>.</li><li><b>Quando fazer o exame</b> (art. 161): o exame de corpo de delito pode ser feito <b>em qualquer dia e a qualquer hora</b>. Não há dia ou horário proibido.</li><li><b>Requisição</b> (art. 178): no caso de perito oficial, o exame é <b>requisitado pela autoridade ao diretor da repartição</b>, juntando-se ao processo o laudo assinado pelos peritos.</li><li><b>Peritos não oficiais</b> (art. 179): o <b>escrivão</b> lavra o <b>auto</b> respectivo, que é assinado pelos peritos e, se presente ao exame, também pela autoridade. Se o laudo for apresentado no prazo do art. 160, é <b>subscrito e rubricado em suas folhas por todos os peritos</b>.</li><li><b>Divergência entre peritos</b> (art. 180): se houver divergência, são consignadas no auto as declarações e respostas de um e de outro, ou <b>cada um redige separadamente o seu laudo</b>, e a autoridade nomeia um <b>terceiro</b>; se este divergir de ambos, a autoridade pode mandar proceder a <b>novo exame por outros peritos</b>.</li><li><b>Laudo com defeito</b> (art. 181): no caso de <b>inobservância de formalidades</b>, ou no caso de <b>omissões, obscuridades ou contradições</b>, a autoridade judiciária manda <b>suprir a formalidade, complementar ou esclarecer</b> o laudo. A autoridade pode também ordenar <b>novo exame, por outros peritos</b>, se julgar conveniente.</li><li><b>Livre apreciação</b> (art. 182): o <b>juiz não fica adstrito ao laudo</b>, podendo <b>aceitá-lo ou rejeitá-lo, no todo ou em parte</b>. É o chamado <b>sistema liberatório</b> (o juiz é livre diante da perícia), em oposição ao sistema <b>vinculatório</b>, em que o juiz ficaria preso ao laudo.</li><li><b>Perícia negada</b> (art. 184): <b>salvo o caso de exame de corpo de delito</b>, o juiz ou a autoridade policial <b>negará a perícia</b> requerida pelas partes quando <b>não for necessária</b> ao esclarecimento da verdade.</li><li><b>Quesitos</b> (art. 176): a autoridade e as partes podem formular quesitos <b>até o ato da diligência</b>.</li><li><b>Precatória</b> (art. 177): no exame por precatória, a <b>nomeação dos peritos</b> é feita <b>no juízo deprecado</b>. Havendo, porém, <b>no caso de ação privada, acordo das partes</b>, essa nomeação pode ser feita pelo <b>juiz deprecante</b>. Os quesitos do juiz e das partes são <b>transcritos na precatória</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Regra do CPP</th></tr></thead><tbody><tr><td>Prazo do laudo</td><td><b>10 dias</b>, prorrogável excepcionalmente a pedido dos <b>peritos</b> (art. 160)</td></tr><tr><td>Horário do exame</td><td><b>qualquer dia e hora</b> (art. 161)</td></tr><tr><td>Divergência entre peritos</td><td>laudos separados e <b>terceiro perito</b>; se divergir de ambos, <b>novo exame</b> (art. 180)</td></tr><tr><td>Laudo omisso ou contraditório</td><td><b>suprir, complementar ou esclarecer</b>; ou novo exame (art. 181)</td></tr><tr><td>Juiz e laudo</td><td><b>não fica adstrito</b>; aceita ou rejeita, no todo ou em parte (art. 182)</td></tr><tr><td>Perícia desnecessária</td><td>pode ser <b>negada</b>, <b>salvo</b> exame de corpo de delito (art. 184)</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O prazo do laudo é de 30 dias</span><br>✅ <span class=\"certo\">É de <b>10 dias</b> (art. 160, parágrafo único), prorrogável excepcionalmente</span></li><li>❌ <span class=\"banca\">A prorrogação do prazo do laudo é pedida pelo MP</span><br>✅ <span class=\"certo\">É a <b>requerimento dos peritos</b></span></li><li>❌ <span class=\"banca\">O exame de corpo de delito não pode ser feito à noite nem em feriado</span><br>✅ <span class=\"certo\">Pode ser feito <b>em qualquer dia e a qualquer hora</b> (art. 161)</span></li><li>❌ <span class=\"banca\">O juiz deve seguir o laudo, salvo se houver outro laudo</span><br>✅ <span class=\"certo\">O juiz <b>não fica adstrito</b> ao laudo (art. 182)</span></li><li>❌ <span class=\"banca\">A autoridade pode negar o exame de corpo de delito se o achar desnecessário</span><br>✅ <span class=\"certo\">O art. 184 permite negar perícias desnecessárias, <b>salvo o exame de corpo de delito</b></span></li></ol></div>\n<h3>10. Necropsia, exumação, fotografias e reconhecimento do cadáver (CPP, arts. 162 a 166)</h3>\n<ul><li><b>Autópsia</b> (ou <b>necropsia</b>, <b>necroscopia</b>): exame do cadáver, externo e interno, para determinar a <b>causa da morte</b> e suas circunstâncias.</li><li><b>Tempo mínimo</b> (art. 162): a autópsia é feita <b>pelo menos 6 horas depois do óbito</b>, <b>salvo</b> se os peritos, pela <b>evidência dos sinais de morte</b>, julgarem que possa ser feita <b>antes</b>, o que <b>declararão no auto</b>. A regra existe para evitar autopsiar alguém que ainda não morreu (morte aparente).</li><li><b>Exame só externo</b> (art. 162, parágrafo único): nos casos de <b>morte violenta</b>, basta o <b>simples exame externo</b> do cadáver quando <b>não houver infração penal a apurar</b>, ou quando as <b>lesões externas permitirem precisar a causa da morte</b> e não houver necessidade de exame interno para verificar alguma circunstância relevante.</li><li><b>Exumação</b> (art. 163): é o desenterramento do cadáver para exame. A autoridade providencia para que, <b>em dia e hora previamente marcados</b>, se realize a diligência, da qual se lavra <b>auto circunstanciado</b>. O <b>administrador do cemitério</b> (público ou particular) <b>indica o lugar da sepultura</b>, sob pena de <b>desobediência</b>. Em caso de recusa ou de falta de quem indique a sepultura, ou de encontrar-se o cadáver em lugar não destinado a inumações, a autoridade procede às <b>pesquisas necessárias</b>, o que tudo constará do auto.</li><li><b>Inumação</b> é o <b>sepultamento</b>; <b>exumação</b> é o <b>desenterramento</b>. Cuidado para não inverter.</li><li><b>Fotografias</b> (art. 164): os cadáveres são <b>fotografados na posição em que forem encontrados</b>, bem como, na medida do possível, <b>todas as lesões externas</b> e <b>vestígios</b> deixados no local do crime.</li><li><b>Representação das lesões</b> (art. 165): para representar as lesões encontradas no cadáver, os peritos, quando possível, juntam ao laudo do exame <b>provas fotográficas, esquemas ou desenhos</b>, devidamente <b>rubricados</b>.</li><li><b>Dúvida sobre a identidade</b> (art. 166): havendo dúvida sobre a identidade do <b>cadáver exumado</b>, procede-se ao <b>reconhecimento</b> pelo <b>Instituto de Identificação e Estatística</b> ou repartição congênere, ou pela <b>inquirição de testemunhas</b>, lavrando-se <b>auto de reconhecimento e de identidade</b>, no qual se descreve o cadáver, com todos os sinais e indicações. Em qualquer caso, são <b>arrecadados e autenticados</b> todos os <b>objetos encontrados</b> que possam ser úteis para a identificação.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A autópsia só pode ser feita 24 horas depois do óbito</span><br>✅ <span class=\"certo\">O mínimo é de <b>6 horas</b> (art. 162), e pode ser antes se os sinais de morte forem evidentes</span></li><li>❌ <span class=\"banca\">Em morte violenta, a necropsia interna é sempre obrigatória</span><br>✅ <span class=\"certo\">Basta o <b>exame externo</b> se não houver infração a apurar ou se as lesões externas bastarem para precisar a causa (art. 162, parágrafo único)</span></li><li>❌ <span class=\"banca\">Inumação é o desenterramento do cadáver</span><br>✅ <span class=\"certo\">Inumação é o <b>sepultamento</b>; o desenterramento é a <b>exumação</b></span></li><li>❌ <span class=\"banca\">O administrador do cemitério que se recusa a indicar a sepultura comete prevaricação</span><br>✅ <span class=\"certo\">A lei fala em <b>desobediência</b> (art. 163, parágrafo único)</span></li></ol></div>\n<h3>11. Lesões corporais: o exame complementar (CPP, art. 168)</h3>\n<ul><li>Em caso de <b>lesões corporais</b>, se o primeiro exame pericial tiver sido <b>incompleto</b>, procede-se a <b>exame complementar</b> por determinação da <b>autoridade policial ou judiciária</b>, <b>de ofício</b>, ou a <b>requerimento do Ministério Público, do ofendido ou do acusado, ou de seu defensor</b>.</li><li>No exame complementar, os peritos têm presente o <b>auto de corpo de delito</b>, a fim de <b>suprir-lhe a deficiência ou retificá-lo</b> (§ 1º).</li><li><b>Lesão grave por incapacidade de mais de 30 dias</b>: se o exame tiver por fim precisar a classificação do delito no <b>art. 129, § 1º, I, do Código Penal</b> (incapacidade para as <b>ocupações habituais por mais de 30 dias</b>), deve ser feito <b>logo que decorra o prazo de 30 dias, contado da data do crime</b> (§ 2º).</li><li><b>Suprimento</b> (§ 3º): a falta de exame complementar pode ser <b>suprida pela prova testemunhal</b>.</li><li><b>Ocupações habituais</b> não significa só trabalho remunerado: abrange as atividades rotineiras da vítima (estudar, cuidar da casa, brincar, no caso da criança). Por isso, até um aposentado ou uma criança podem sofrer lesão grave por incapacidade para as ocupações habituais.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O exame dos 30 dias</b><p>Em 2 de março, a vítima leva uma facada no braço. O primeiro laudo, de 3 de março, descreve a ferida e diz que não é possível afirmar, ainda, a duração da incapacidade.</p><details><summary>Ver a solução comentada</summary><p>A autoridade deve requisitar o <b>exame complementar</b> logo que passarem <b>30 dias da data do crime</b> (a partir de 1º de abril), para dizer se a vítima ficou <b>mais de 30 dias</b> incapacitada para as ocupações habituais (CP, art. 129, § 1º, I). Se o exame não for feito, <b>testemunhas</b> podem suprir a falta (CPP, art. 168, § 3º).</p></details></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O prazo de 30 dias do exame complementar conta da data do primeiro exame</span><br>✅ <span class=\"certo\">Conta da <b>data do crime</b> (art. 168, § 2º)</span></li><li>❌ <span class=\"banca\">Só o juiz pode determinar o exame complementar</span><br>✅ <span class=\"certo\">A <b>autoridade policial</b> também, de ofício ou a requerimento (art. 168)</span></li><li>❌ <span class=\"banca\">A falta do exame complementar torna impossível condenar por lesão grave</span><br>✅ <span class=\"certo\">Pode ser <b>suprida por prova testemunhal</b> (art. 168, § 3º)</span></li><li>❌ <span class=\"banca\">Ocupação habitual é apenas o trabalho remunerado</span><br>✅ <span class=\"certo\">Abrange as <b>atividades rotineiras</b> da vítima, mesmo sem remuneração</span></li></ol></div>\n<h3>12. Local do crime e outras perícias do CPP (arts. 169 a 175)</h3>\n<ul><li><b>Local da infração</b> (art. 169): para o efeito de exame do local onde houver sido praticada a infração, a autoridade providencia <b>imediatamente</b> para que <b>não se altere o estado das coisas até a chegada dos peritos</b>, que podem instruir seus laudos com <b>fotografias, desenhos ou esquemas elucidativos</b>. Os peritos <b>registram no laudo as alterações</b> do estado das coisas e <b>discutem no relatório as consequências</b> dessas alterações na dinâmica dos fatos (parágrafo único).</li><li>O dever de preservar o local também está no art. 6º do CPP: logo que tiver conhecimento da infração, a autoridade policial deve <b>dirigir-se ao local</b> e providenciar para que <b>não se alterem o estado e a conservação das coisas</b> até a chegada dos peritos criminais.</li><li><b>Perícias de laboratório</b> (art. 170): os peritos <b>guardam material suficiente</b> para a eventualidade de <b>nova perícia</b>. Sempre que conveniente, os laudos são ilustrados com provas fotográficas, microfotográficas, desenhos ou esquemas.</li><li><b>Furto qualificado</b> (art. 171): nos crimes cometidos com <b>destruição ou rompimento de obstáculo</b> à subtração da coisa, ou por meio de <b>escalada</b>, os peritos, além de descrever os vestígios, indicam <b>com que instrumentos, por que meios e em que época</b> presumem ter sido o fato praticado.</li><li><b>Avaliação</b> (art. 172): procede-se, quando necessário, à <b>avaliação</b> de coisas destruídas, deterioradas ou que constituam produto do crime. Se impossível a avaliação direta, os peritos procedem à avaliação por meio dos elementos existentes nos autos e dos que resultarem de diligências.</li><li><b>Incêndio</b> (art. 173): os peritos verificam a <b>causa e o lugar</b> em que começou, o <b>perigo</b> que dele resultou para a vida ou o patrimônio alheio, a <b>extensão do dano</b> e o seu <b>valor</b> e as demais circunstâncias que interessarem à elucidação do fato.</li><li><b>Exame grafotécnico</b> (art. 174): no exame para <b>reconhecimento de escritos, por comparação de letra</b>, a pessoa a quem se atribua o escrito é intimada para o ato, se for encontrada; servem para comparação documentos que ela reconhecer ou que já tiverem sido judicialmente reconhecidos como seus, ou cuja autenticidade não houver dúvida; e a autoridade, quando necessário, manda que a pessoa <b>escreva o que lhe for ditado</b>.</li><li><b>Instrumentos do crime</b> (art. 175): são sujeitos a exame os instrumentos empregados para a prática da infração, a fim de se lhes verificar a <b>natureza e a eficiência</b>.</li></ul>\n<h3>13. Peritos: deveres, impedimentos e responsabilidade (CPP, arts. 275 a 281)</h3>\n<ul><li>O perito, <b>ainda quando não oficial</b>, está sujeito à <b>disciplina judiciária</b> (art. 275).</li><li><b>As partes não intervêm na nomeação</b> do perito (art. 276).</li><li><b>Obrigação de aceitar</b> (art. 277): o perito nomeado pela autoridade é <b>obrigado a aceitar o encargo</b>, sob pena de <b>multa</b>, <b>salvo escusa atendível</b>. Incorre na mesma multa o perito que, <b>sem justa causa</b>, provada imediatamente: <b>a)</b> deixar de acudir à intimação ou ao chamado da autoridade; <b>b)</b> não comparecer no dia e local designados para o exame; <b>c)</b> não der o laudo, ou concorrer para que a perícia não seja feita, nos prazos estabelecidos.</li><li><b>Condução</b> (art. 278): no caso de não comparecimento do perito, <b>sem justa causa</b>, a autoridade pode determinar a sua <b>condução</b>.</li><li><b>Não podem ser peritos</b> (art. 279): <b>I</b> – os que estiverem sujeitos a <b>interdição de direito</b> (proibição de exercer cargo, profissão ou atividade); <b>II</b> – os que tiverem <b>prestado depoimento no processo</b> ou <b>opinado anteriormente</b> sobre o objeto da perícia; <b>III</b> – os <b>analfabetos</b> e os <b>menores de 21 anos</b>.</li><li><b>Suspeição</b> (art. 280): é <b>extensivo aos peritos</b>, no que lhes for aplicável, o disposto sobre <b>suspeição dos juízes</b>.</li><li><b>Intérpretes</b> (art. 281): são, para todos os efeitos, <b>equiparados aos peritos</b>.</li><li><b>Falsa perícia</b> (CP, art. 342): fazer afirmação falsa, ou negar ou calar a verdade como <b>perito</b>, contador, tradutor ou intérprete em processo judicial, administrativo, inquérito policial ou juízo arbitral: <b>reclusão de 2 a 4 anos e multa</b>. A pena aumenta de <b>1/6 a 1/3</b> se o crime é praticado mediante <b>suborno</b> ou com o fim de obter prova destinada a produzir efeito em <b>processo penal</b>, ou em processo civil em que for parte entidade da administração pública. <b>O fato deixa de ser punível</b> se, <b>antes da sentença</b> no processo em que ocorreu o ilícito, o agente <b>se retrata ou declara a verdade</b>.</li><li><b>Corrupção de perito</b> (CP, art. 343): dar, oferecer ou prometer dinheiro ou vantagem a perito para que faça afirmação falsa, negue ou cale a verdade em perícia é crime.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Menor de 18 anos pode ser perito não oficial se tiver curso superior</span><br>✅ <span class=\"certo\">O art. 279, III, impede os <b>menores de 21 anos</b></span></li><li>❌ <span class=\"banca\">A parte pode indicar o perito oficial do caso</span><br>✅ <span class=\"certo\">As partes <b>não intervêm na nomeação</b> (art. 276); indicam <b>assistente técnico</b></span></li><li>❌ <span class=\"banca\">O perito nomeado pode recusar o encargo livremente</span><br>✅ <span class=\"certo\">É <b>obrigado a aceitar</b>, salvo <b>escusa atendível</b>, sob pena de multa (art. 277)</span></li><li>❌ <span class=\"banca\">A retratação do perito falso nunca extingue a punibilidade</span><br>✅ <span class=\"certo\">O fato deixa de ser punível se ele se retrata <b>antes da sentença</b> (CP, art. 342)</span></li></ol></div>\n<h3>14. Perícias especiais em leis esparsas</h3>\n<ul><li><b>Drogas</b> (Lei 11.343/2006, art. 50): para a <b>lavratura do auto de prisão em flagrante</b> e o estabelecimento da <b>materialidade</b> do delito, basta o <b>laudo de constatação</b> da natureza e da quantidade da droga, firmado por <b>perito oficial</b> ou, na falta deste, por <b>pessoa idônea</b>. O perito que subscreve o laudo de constatação <b>não fica impedido</b> de participar da elaboração do <b>laudo definitivo</b>. Para condenar, exige-se, em regra, o <b>laudo definitivo</b> (toxicológico).</li><li><b>Juizados Especiais</b> (Lei 9.099/1995, art. 77, § 1º): para o oferecimento da <b>denúncia</b> nas infrações de menor potencial ofensivo, a <b>materialidade</b> pode ser comprovada por <b>boletim médico ou prova equivalente</b>, dispensando-se o exame de corpo de delito para esse fim.</li><li><b>Violência doméstica</b> (Lei 11.340/2006, art. 12, § 3º): serão admitidos como <b>meios de prova</b> os <b>laudos ou prontuários médicos</b> fornecidos por <b>hospitais e postos de saúde</b>.</li><li><b>Exame de insanidade mental</b> (CPP, arts. 149 a 154): quando houver <b>dúvida sobre a integridade mental</b> do acusado, o juiz ordena, <b>de ofício</b> ou a requerimento do <b>MP</b>, do <b>defensor</b>, do <b>curador</b>, do <b>ascendente, descendente, irmão ou cônjuge</b> do acusado, que ele seja submetido a exame médico-legal. O exame pode ser ordenado <b>ainda na fase do inquérito</b>, mediante <b>representação da autoridade policial</b> ao juiz. O juiz nomeia <b>curador</b> ao acusado, ficando <b>suspenso o processo</b>, se já iniciada a ação penal, salvo quanto às diligências que possam ser prejudicadas pelo adiamento. Para o exame, o acusado, se estiver preso, é internado em manicômio judiciário (hoje, hospital de custódia e tratamento psiquiátrico) ou, se estiver solto e os peritos pedirem, em estabelecimento adequado. <b>O exame não dura mais de 45 dias</b>, salvo se os peritos demonstrarem a necessidade de maior prazo. Esse tema é aprofundado no tópico de Psicopatologia médico-legal.</li></ul>\n<table class=\"tab\"><thead><tr><th>Lei</th><th>Regra pericial</th></tr></thead><tbody><tr><td><b>Drogas</b> (art. 50, Lei 11.343)</td><td>flagrante e materialidade provisória: <b>laudo de constatação</b> por perito oficial ou, na falta, <b>pessoa idônea</b>; o mesmo perito pode fazer o laudo definitivo</td></tr><tr><td><b>Juizados</b> (art. 77, § 1º, Lei 9.099)</td><td>denúncia com <b>boletim médico ou prova equivalente</b></td></tr><tr><td><b>Maria da Penha</b> (art. 12, § 3º)</td><td><b>laudos ou prontuários</b> de hospitais e postos de saúde são meios de prova</td></tr><tr><td><b>Insanidade mental</b> (CPP, arts. 149 a 154)</td><td>dúvida sobre a saúde mental do acusado; até <b>45 dias</b>, prorrogáveis; processo suspenso, com curador</td></tr></tbody></table>\n<h3>15. Documentos médico-legais: visão geral</h3>\n<ul><li><b>Documentos médico-legais</b> são as formas pelas quais o médico leva à autoridade, ao paciente ou à sociedade informações de interesse jurídico. A doutrina clássica aponta: <b>notificações</b>, <b>atestados</b>, <b>relatórios</b> (auto e laudo), <b>pareceres</b> (consulta médico-legal) e <b>depoimentos orais</b>. Ao lado deles estão o <b>prontuário</b> e a <b>declaração de óbito</b>, cobrados com frequência.</li></ul>\n<table class=\"tab\"><thead><tr><th>Documento</th><th>O que é</th><th>Destinatário típico</th></tr></thead><tbody><tr><td><b>Notificação</b></td><td><b>comunicação compulsória</b> feita pelo médico à autoridade (doenças, violências, acidentes)</td><td>autoridade sanitária, policial, conselho tutelar</td></tr><tr><td><b>Atestado</b></td><td><b>afirmação simples e por escrito</b> de um fato médico e de suas consequências</td><td>paciente, empregador, escola, órgão público</td></tr><tr><td><b>Relatório médico-legal</b> (auto ou laudo)</td><td><b>descrição minuciosa</b> da perícia, com discussão, conclusão e respostas aos quesitos</td><td>autoridade policial ou judiciária</td></tr><tr><td><b>Parecer</b> (consulta médico-legal)</td><td><b>opinião técnica</b> de especialista sobre fatos e documentos já existentes, sem novo exame</td><td>quem consultou (juiz, parte, advogado)</td></tr><tr><td><b>Depoimento oral</b></td><td>esclarecimentos prestados <b>verbalmente</b> pelo perito, em audiência</td><td>juiz e partes</td></tr></tbody></table>\n<h3>16. Notificações compulsórias</h3>\n<ul><li>São <b>comunicações obrigatórias</b> que o médico faz às autoridades, por <b>dever legal</b>. Nesses casos, <b>não há quebra ilícita do sigilo</b>, porque existe <b>dever legal</b> de comunicar.</li><li><b>Doenças de notificação compulsória</b>: a lista é definida pelo Ministério da Saúde. <b>Deixar o médico de denunciar</b> à autoridade pública doença cuja notificação é compulsória é <b>crime</b> (CP, art. 269: detenção de 6 meses a 2 anos e multa).</li><li><b>Crime de ação pública</b> conhecido no exercício da profissão: a Lei das Contravenções Penais (art. 66, II) pune quem deixa de comunicar à autoridade crime de ação pública de que teve conhecimento <b>no exercício da medicina</b> ou de outra profissão sanitária, <b>desde que a ação penal não dependa de representação</b> e <b>a comunicação não exponha o cliente a procedimento criminal</b>. Ou seja, o médico <b>não é obrigado a denunciar o próprio paciente</b>.</li><li><b>Violência contra a mulher</b>: os serviços de saúde, públicos e privados, devem fazer <b>notificação compulsória</b> dos casos de violência contra a mulher atendida (Lei 10.778/2003).</li><li><b>Criança e adolescente</b>: casos de <b>suspeita ou confirmação</b> de castigo físico, tratamento cruel ou degradante e de <b>maus-tratos</b> devem ser <b>obrigatoriamente comunicados ao Conselho Tutelar</b> (ECA, art. 13). O médico ou responsável por estabelecimento de saúde que deixa de comunicar comete <b>infração administrativa</b> (ECA, art. 245, multa).</li><li><b>Idoso</b>: os casos de suspeita ou confirmação de violência contra a pessoa idosa são objeto de <b>notificação compulsória</b> pelos serviços de saúde à autoridade sanitária e comunicados também a órgãos como a autoridade policial, o Ministério Público e os conselhos do idoso (Estatuto da Pessoa Idosa, art. 19).</li><li><b>Acidente de trabalho</b>: comunicação por meio da <b>CAT</b> (Comunicação de Acidente de Trabalho).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O médico é sempre obrigado a comunicar à polícia o crime que o paciente lhe confessou</span><br>✅ <span class=\"certo\">Não: a LCP (art. 66, II) exclui a comunicação que <b>exponha o cliente a procedimento criminal</b></span></li><li>❌ <span class=\"banca\">Notificar doença compulsória viola o sigilo médico</span><br>✅ <span class=\"certo\">Há <b>dever legal</b>, que é justa causa para a revelação</span></li><li>❌ <span class=\"banca\">A omissão de comunicar maus-tratos contra criança é crime do ECA</span><br>✅ <span class=\"certo\">É <b>infração administrativa</b> (ECA, art. 245), punida com multa</span></li></ol></div>\n<h3>17. Atestados médicos</h3>\n<ul><li><b>Atestado</b> (ou certificado) é a <b>afirmação simples e por escrito</b> de um <b>fato médico</b> e de suas <b>consequências</b>. Exemplo: \"atesto que o paciente esteve sob meus cuidados e necessita de 3 dias de afastamento\".</li><li>O atestado é <b>direito do paciente</b> e não pode ser cobrado como ato à parte da consulta em que foi emitido. O médico só pode fornecê-lo se tiver <b>examinado</b> o paciente ou praticado o ato que o justifique.</li></ul>\n<table class=\"tab\"><thead><tr><th>Classificação quanto à finalidade</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Administrativo</b></td><td>justificar falta ao serviço público, licença, aptidão para cargo</td></tr><tr><td><b>Judiciário</b></td><td>requisitado pelo juiz ou destinado a processo</td></tr><tr><td><b>Oficioso</b> (de interesse privado)</td><td>justificar falta à escola, ao trabalho privado, prática de esporte</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Classificação quanto ao conteúdo</th><th>O que é</th></tr></thead><tbody><tr><td><b>Idôneo</b></td><td>corresponde à <b>verdade</b> e foi emitido após exame</td></tr><tr><td><b>Gracioso</b> (complacente, de favor)</td><td>dado <b>sem exame</b> ou para <b>favorecer</b> alguém, sem base real</td></tr><tr><td><b>Imprudente</b></td><td>emitido de forma <b>inconsequente</b>, com base na palavra de terceiro, sem cautela</td></tr><tr><td><b>Falso</b></td><td>o médico <b>sabe que é falso</b> o que atesta: configura <b>crime</b></td></tr></tbody></table>\n<ul><li><b>Crime de falsidade de atestado médico</b> (CP, art. 302): <b>dar o médico</b>, no exercício da sua profissão, <b>atestado falso</b>: <b>detenção de 1 mês a 1 ano</b>. Se o crime é cometido com o <b>fim de lucro</b>, aplica-se <b>também multa</b>. É <b>crime próprio</b>: só o <b>médico</b> pode cometê-lo. Se quem falsifica não é médico, o crime é outro (falsificação de documento, por exemplo).</li><li><b>Uso</b>: quem <b>usa</b> o atestado falso responde pelo crime de <b>uso de documento falso</b> (CP, art. 304).</li><li><b>Código de Ética Médica</b> (Resolução CFM 2.217/2018): é vedado ao médico expedir documento médico <b>sem ter praticado ato profissional que o justifique</b>, que seja <b>tendencioso</b> ou que <b>não corresponda à verdade</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Qualquer pessoa pode cometer o crime de falsidade de atestado médico</span><br>✅ <span class=\"certo\">É <b>crime próprio do médico</b> (CP, art. 302)</span></li><li>❌ <span class=\"banca\">A pena do art. 302 é de reclusão de 1 a 5 anos</span><br>✅ <span class=\"certo\">É <b>detenção de 1 mês a 1 ano</b>; com fim de lucro, também multa</span></li><li>❌ <span class=\"banca\">Atestado gracioso é o emitido após exame cuidadoso</span><br>✅ <span class=\"certo\">Gracioso (complacente) é o dado <b>por favor, sem base real</b>; o correto é o <b>idôneo</b></span></li></ol></div>\n<h3>18. Declaração de óbito</h3>\n<ul><li>A <b>Declaração de Óbito (DO)</b> é o documento padronizado pelo <b>Ministério da Saúde</b> que atesta a morte e suas causas. Com ela, o cartório lavra a <b>certidão de óbito</b> e autoriza o sepultamento (Lei 6.015/1973, Lei de Registros Públicos).</li><li>A DO tem finalidade <b>jurídica</b> (prova da morte, efeitos civis e sucessórios) e <b>epidemiológica</b> (estatística de mortalidade). Por isso, a causa da morte deve ser preenchida com cuidado, da causa <b>imediata</b> até a causa <b>básica</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação da morte</th><th>Quem preenche a DO</th></tr></thead><tbody><tr><td><b>Morte natural com assistência médica</b></td><td>o <b>médico que vinha prestando assistência</b> ao paciente (ou o substituto, plantonista)</td></tr><tr><td><b>Morte natural sem assistência médica</b>, em local com <b>Serviço de Verificação de Óbito (SVO)</b></td><td>médico do <b>SVO</b></td></tr><tr><td><b>Morte natural sem assistência</b>, em local <b>sem SVO</b></td><td>médico do serviço público de saúde mais próximo ou, na falta, <b>qualquer médico</b> da localidade</td></tr><tr><td><b>Morte violenta ou suspeita</b> (homicídio, suicídio, acidente, morte suspeita)</td><td><b>obrigatoriamente o IML</b>, após necropsia</td></tr></tbody></table>\n<ul><li><b>Causa externa</b> (morte violenta): a DO deve ser feita pelo <b>médico-legista</b>, ainda que o paciente tenha morrido no hospital, dias depois do fato. O hospital <b>não</b> preenche a DO de quem morreu em consequência de agressão, acidente ou suicídio: o corpo vai ao <b>IML</b>.</li><li><b>Morte encefálica</b>: o diagnóstico segue protocolo próprio e é condição para a retirada de órgãos para transplante (Lei 9.434/1997). O tema é aprofundado em Tanatologia.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O hospital preenche a DO de paciente que morreu dias depois de um acidente de trânsito</span><br>✅ <span class=\"certo\">Morte por <b>causa externa</b> vai ao <b>IML</b>, que preenche a DO</span></li><li>❌ <span class=\"banca\">Morte natural sem assistência médica sempre vai ao IML</span><br>✅ <span class=\"certo\">Vai ao <b>SVO</b>, onde houver; o IML é para morte <b>violenta ou suspeita</b></span></li><li>❌ <span class=\"banca\">A certidão de óbito é emitida pelo médico</span><br>✅ <span class=\"certo\">O médico preenche a <b>declaração de óbito</b>; a <b>certidão</b> é lavrada pelo <b>cartório</b></span></li></ol></div>\n<h3>19. O relatório médico-legal: auto e laudo</h3>\n<ul><li><b>Relatório médico-legal</b> é o documento mais completo: a <b>narração escrita e minuciosa</b> da perícia.</li><li><b>Auto</b>: o relatório <b>ditado</b> pelo perito <b>ao escrivão</b>, <b>durante</b> o exame ou logo depois, na <b>presença da autoridade</b>. <b>Laudo</b>: o relatório <b>redigido pelos próprios peritos</b>, <b>depois</b> do exame, com mais tempo e consulta a exames complementares. Hoje, o laudo é a forma comum.</li></ul>\n<table class=\"tab\"><thead><tr><th>Parte do relatório</th><th>Conteúdo</th></tr></thead><tbody><tr><td><b>Preâmbulo</b></td><td>qualificação: autoridade que requisitou, peritos, examinado, data, hora, local e natureza do exame</td></tr><tr><td><b>Quesitos</b></td><td>as <b>perguntas</b> formuladas pela autoridade e pelas partes (nos exames de rotina, os <b>quesitos oficiais</b>)</td></tr><tr><td><b>Histórico</b> (ou comemorativo)</td><td>o relato do fato <b>segundo o examinado</b> ou a requisição; é a parte de <b>menor valor</b> probante, pois não é constatação do perito</td></tr><tr><td><b>Descrição</b></td><td>a parte <b>mais importante</b>: o que o perito <b>viu e constatou</b> (o <i>visum et repertum</i>), em linguagem objetiva, sem conclusões</td></tr><tr><td><b>Discussão</b></td><td>a análise técnica dos achados, com as hipóteses e a fundamentação científica</td></tr><tr><td><b>Conclusão</b></td><td>a síntese do que o perito concluiu</td></tr><tr><td><b>Respostas aos quesitos</b></td><td>respostas <b>claras e objetivas</b>, uma a uma; quando não for possível responder, o perito diz \"<b>sem elementos</b>\" ou \"<b>aguarda exame complementar</b>\"</td></tr></tbody></table>\n<ul><li><b>Visum et repertum</b> (\"visto e encontrado\"): expressão latina que define a <b>descrição</b> como o núcleo do laudo. Se o laudo se perder, a descrição bem feita permite que outro perito reinterprete o caso.</li><li><b>Linguagem</b>: a descrição deve ser <b>objetiva, clara e precisa</b>, com localização das lesões por regiões anatômicas, medidas, forma, cor e direção. O laudo deve ser compreensível pelo juiz, que não é médico.</li></ul>\n<table class=\"tab\"><thead><tr><th>Quesitos oficiais do exame de lesão corporal</th><th>Ligação com o Código Penal</th></tr></thead><tbody><tr><td>1º Há ofensa à integridade corporal ou à saúde do examinado?</td><td>existência da lesão (CP, art. 129, <i>caput</i>)</td></tr><tr><td>2º Qual o instrumento ou meio que a produziu?</td><td>natureza do agente (instrumento contundente, cortante, perfurante...)</td></tr><tr><td>3º Foi produzida por meio de veneno, fogo, explosivo, asfixia ou tortura, ou por outro meio insidioso ou cruel?</td><td>qualificadoras/agravantes (CP, art. 61, II, <i>d</i>)</td></tr><tr><td>4º Resultou incapacidade para as ocupações habituais por mais de 30 dias?</td><td>lesão <b>grave</b> (art. 129, § 1º, I)</td></tr><tr><td>5º Resultou perigo de vida?</td><td>lesão <b>grave</b> (§ 1º, II)</td></tr><tr><td>6º Resultou debilidade permanente, ou perda ou inutilização de membro, sentido ou função?</td><td><b>debilidade</b> = grave (§ 1º, III); <b>perda ou inutilização</b> = gravíssima (§ 2º, III)</td></tr><tr><td>7º Resultou incapacidade permanente para o trabalho, ou enfermidade incurável, ou deformidade permanente?</td><td>lesão <b>gravíssima</b> (§ 2º, I, II e IV)</td></tr><tr><td>8º Resultou aceleração de parto ou aborto?</td><td>grave (§ 1º, IV) ou gravíssima (§ 2º, V)</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Quesitos oficiais do exame cadavérico (necropsia)</th><th>Finalidade</th></tr></thead><tbody><tr><td>1º Houve morte?</td><td>confirma o óbito</td></tr><tr><td>2º Qual a causa da morte?</td><td>causa médica (ex.: hemorragia interna)</td></tr><tr><td>3º Qual o instrumento ou meio que produziu a morte?</td><td>instrumento/energia</td></tr><tr><td>4º Foi produzida por meio de veneno, fogo, explosivo, asfixia ou tortura, ou por outro meio insidioso ou cruel?</td><td>qualificadoras do homicídio (CP, art. 121, § 2º, III)</td></tr></tbody></table>\n<ul><li><b>Perigo de vida</b> deve ser <b>concreto</b>, constatado pelo perito no exame (ex.: choque hemorrágico, lesão de órgão vital com necessidade de cirurgia de urgência). Não basta dizer que a lesão \"poderia\" matar.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Laudo bem feito | O policial que requisita o exame deve fazer um <b>histórico</b> fiel (data, hora e dinâmica do fato) e, se for o caso, <b>quesitos complementares</b> específicos (ex.: \"a lesão é compatível com unhada?\", \"há sinais de defesa?\"). Quesito genérico gera resposta genérica.</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O histórico é a parte mais importante do laudo</span><br>✅ <span class=\"certo\">A parte mais importante é a <b>descrição</b> (<i>visum et repertum</i>); o histórico é a de <b>menor valor</b></span></li><li>❌ <span class=\"banca\">Auto é o relatório redigido pelos peritos depois do exame</span><br>✅ <span class=\"certo\">Esse é o <b>laudo</b>; o <b>auto</b> é <b>ditado ao escrivão</b> na presença da autoridade</span></li><li>❌ <span class=\"banca\">Se não puder responder, o perito deve presumir a resposta mais provável</span><br>✅ <span class=\"certo\">Deve responder \"<b>sem elementos</b>\" ou que <b>aguarda exame complementar</b></span></li></ol></div>\n<h3>20. Parecer médico-legal e depoimento oral</h3>\n<ul><li><b>Parecer</b> (ou <b>consulta médico-legal</b>): é a <b>resposta</b> de um especialista a uma <b>consulta</b> sobre fatos e documentos <b>já existentes</b> (laudos, prontuários, fotografias). Em regra, o parecerista <b>não examina</b> a pessoa: ele <b>analisa</b> e <b>opina</b>. Por isso, o parecer <b>não tem a parte de descrição</b>; suas partes são <b>preâmbulo</b>, <b>exposição</b> (do caso), <b>discussão</b> e <b>conclusão</b> (respostas às perguntas).</li><li>É o documento típico do <b>assistente técnico</b> e dos especialistas de renome consultados pelas partes. Seu valor depende da <b>autoridade científica</b> de quem o assina e da qualidade da fundamentação.</li><li><b>Depoimento oral</b>: esclarecimento <b>verbal</b> do perito em <b>audiência</b> (CPP, art. 159, § 5º, I), para explicar o laudo ou responder a novos quesitos. No júri, por exemplo, o perito pode ser ouvido para explicar a dinâmica da morte.</li></ul>\n<h3>21. Prontuário médico</h3>\n<ul><li><b>Prontuário</b> é o conjunto de documentos padronizados que registram <b>todo o atendimento</b> ao paciente: anamnese, exame físico, exames complementares, hipóteses diagnósticas, evolução, prescrições, procedimentos e alta.</li><li><b>Pertence ao paciente</b> quanto às informações; a <b>guarda</b> cabe ao médico ou à instituição. O paciente (ou seu representante legal) tem <b>direito de acesso</b> e de obter <b>cópia</b>.</li><li><b>Prazo de guarda</b>: a Lei 13.787/2018 permite a <b>digitalização</b> e a utilização de sistemas informatizados para guarda do prontuário; decorrido o prazo <b>mínimo de 20 anos</b> a partir do <b>último registro</b>, os prontuários em papel e os digitalizados podem ser eliminados (ou devolvidos ao paciente), observadas as regras da lei.</li><li><b>Requisição pela autoridade</b>: o prontuário é protegido pelo <b>sigilo</b>. Em regra, o envio de cópia à autoridade policial ou ao MP depende de <b>autorização do paciente</b> ou de <b>ordem judicial</b>; ao <b>perito</b>, o prontuário pode ser disponibilizado para a realização da perícia. Na violência doméstica, o prontuário é <b>meio de prova</b> (Lei Maria da Penha, art. 12, § 3º).</li></ul>\n<h3>22. Segredo médico</h3>\n<ul><li>O médico deve guardar <b>sigilo</b> sobre o que souber em razão da profissão. É um <b>dever ético e legal</b>, que protege a intimidade do paciente e a confiança na relação médico-paciente.</li><li><b>Crime</b> (CP, art. 154 – violação do segredo profissional): revelar alguém, <b>sem justa causa</b>, segredo de que tem ciência em razão de função, ministério, ofício ou profissão, e cuja revelação possa produzir <b>dano a outrem</b>: <b>detenção de 3 meses a 1 ano, ou multa</b>. Somente se procede mediante <b>representação</b>.</li><li><b>Exceções</b> (quando a revelação é lícita): <b>justa causa</b>, <b>dever legal</b> (ex.: notificação compulsória) e <b>consentimento</b>, por escrito, do paciente. O Código de Ética Médica (art. 73) proíbe revelar fato conhecido no exercício da profissão, <b>salvo por motivo justo, dever legal ou consentimento, por escrito, do paciente</b>, e a proibição <b>permanece</b> mesmo que o fato seja de conhecimento público ou que o paciente tenha <b>falecido</b>.</li><li><b>Médico como testemunha</b> (CPP, art. 207): são <b>proibidas de depor</b> as pessoas que, em razão de função, ministério, ofício ou profissão, devam guardar segredo, <b>salvo se, desobrigadas pela parte interessada, quiserem dar o seu testemunho</b>. Mesmo desobrigado, o médico <b>pode</b> depor, mas não é obrigado. Intimado, ele <b>comparece</b> e declara o seu impedimento.</li><li><b>Investigação de crime</b>: o Código de Ética Médica veda ao médico revelar segredo que possa expor o paciente a <b>processo penal</b>, mesmo na investigação de suspeita de crime.</li><li><b>Perito e sigilo</b>: o perito <b>não tem relação médico-paciente</b> com o examinado; seu dever é <b>informar a autoridade</b> sobre o que for objeto da perícia. Ainda assim, ele deve limitar-se ao que interessa ao exame e não divulgar fatos estranhos à perícia.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A violação do segredo profissional é crime de ação pública incondicionada</span><br>✅ <span class=\"certo\">Somente se procede mediante <b>representação</b> (CP, art. 154, parágrafo único)</span></li><li>❌ <span class=\"banca\">Desobrigado pelo paciente, o médico é obrigado a depor</span><br>✅ <span class=\"certo\">Desobrigado, ele <b>pode</b> depor <b>se quiser</b> (CPP, art. 207)</span></li><li>❌ <span class=\"banca\">Com a morte do paciente, o sigilo médico acaba</span><br>✅ <span class=\"certo\">O dever <b>permanece</b> após a morte do paciente (CEM, art. 73)</span></li><li>❌ <span class=\"banca\">O perito deve guardar sigilo do laudo perante a autoridade que o requisitou</span><br>✅ <span class=\"certo\">O perito <b>informa a autoridade</b>; não há relação médico-paciente na perícia</span></li></ol></div>\n<h3>23. Perícia no processo civil (noções)</h3>\n<ul><li>No <b>processo civil</b> (CPC, arts. 156 e 464 a 480), o juiz é assistido por <b>perito</b> quando a prova do fato depender de conhecimento técnico ou científico. O perito é nomeado entre os profissionais legalmente habilitados e os órgãos técnicos ou científicos <b>inscritos em cadastro</b> mantido pelo tribunal.</li><li>As partes podem <b>arguir impedimento ou suspeição</b> do perito, <b>indicar assistente técnico</b> e <b>apresentar quesitos</b> no prazo de 15 dias da intimação do despacho de nomeação.</li><li><b>Perícia consensual</b>: as partes, sendo plenamente capazes e a causa admitindo autocomposição, podem <b>escolher o perito de comum acordo</b> (CPC, art. 471).</li><li><b>Prova técnica simplificada</b>: quando o ponto controvertido for de menor complexidade, o juiz pode substituir a perícia pela <b>inquirição de especialista</b> (CPC, art. 464, §§ 2º a 4º).</li><li>O juiz, também no cível, <b>não está adstrito ao laudo</b> e aprecia a prova pericial indicando na sentença os motivos que o levaram a considerar ou deixar de considerar as conclusões do laudo (CPC, art. 479).</li><li>Exemplos de perícia médico-legal cível: investigação de <b>paternidade</b> (DNA), <b>interdição</b> (capacidade civil), <b>erro médico</b>, <b>danos corporais</b> em acidentes, perícias previdenciárias e trabalhistas (infortunística).</li></ul>\n<h3>24. Mapa de revisão do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Tema</th><th>Número ou palavra-chave</th></tr></thead><tbody><tr><td>Exame de corpo de delito</td><td><b>indispensável</b> se houver vestígios; <b>confissão não supre</b>; testemunhas suprem se os vestígios desapareceram</td></tr><tr><td>Prioridade no exame</td><td>violência doméstica contra a mulher; criança, adolescente, idoso e pessoa com deficiência</td></tr><tr><td>Perito oficial</td><td><b>1</b>, com curso superior; Súmula 361 vale para os <b>não oficiais</b></td></tr><tr><td>Peritos não oficiais</td><td><b>2</b> pessoas idôneas, curso superior, <b>compromisso</b></td></tr><tr><td>Assistente técnico</td><td>atua <b>após</b> o laudo oficial, admitido pelo juiz</td></tr><tr><td>Oitiva dos peritos</td><td>pedido com <b>10 dias</b> de antecedência</td></tr><tr><td>Prazo do laudo</td><td><b>10 dias</b>, prorrogável a pedido dos peritos</td></tr><tr><td>Autópsia</td><td>no mínimo <b>6 horas</b> após o óbito</td></tr><tr><td>Exame complementar da lesão grave</td><td>logo após <b>30 dias da data do crime</b></td></tr><tr><td>Cadeia de custódia</td><td><b>10 etapas</b>, do reconhecimento ao descarte; coleta <b>preferencialmente</b> por perito oficial</td></tr><tr><td>Juiz e laudo</td><td><b>sistema liberatório</b> (art. 182)</td></tr><tr><td>Impedidos de ser perito</td><td>interditados, quem depôs ou opinou antes, <b>analfabetos</b> e <b>menores de 21</b></td></tr><tr><td>Falsa perícia</td><td>reclusão de <b>2 a 4 anos</b>; retratação <b>antes da sentença</b> extingue a punibilidade</td></tr><tr><td>Atestado falso</td><td>crime <b>próprio do médico</b>, detenção de <b>1 mês a 1 ano</b></td></tr><tr><td>Segredo profissional</td><td>CP, art. 154, ação mediante <b>representação</b></td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Corpo de delito</span></span><span class=\"vs\"><span>conjunto dos vestígios materiais do crime</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exame de corpo de delito pode ser suprido pela confissão?</span></span><span class=\"vs\"><span>Não (CPP, art. 158)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prova que supre o exame quando os vestígios desapareceram</span></span><span class=\"vs\"><span>prova testemunhal (art. 167)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quantos peritos oficiais são necessários?</span></span><span class=\"vs\"><span>Um, com curso superior</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Peritos não oficiais</span></span><span class=\"vs\"><span>duas pessoas idôneas com curso superior, sob compromisso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do laudo</span></span><span class=\"vs\"><span>10 dias, prorrogável a pedido dos peritos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Autópsia</span></span><span class=\"vs\"><span>pelo menos 6 horas após o óbito, salvo sinais evidentes de morte</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exame complementar da lesão grave</span></span><span class=\"vs\"><span>logo que decorram 30 dias da data do crime</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sistema adotado pelo CPP quanto ao laudo</span></span><span class=\"vs\"><span>liberatório: o juiz não fica adstrito</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perícia percipiendi</span></span><span class=\"vs\"><span>o perito percebe e descreve o fato</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perícia deducendi</span></span><span class=\"vs\"><span>o perito interpreta e deduz</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Visum et repertum</span></span><span class=\"vs\"><span>a descrição, parte mais importante do laudo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Deontologia</span></span><span class=\"vs\"><span>deveres do médico</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diceologia</span></span><span class=\"vs\"><span>direitos do médico</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem preenche a DO em morte violenta</span></span><span class=\"vs\"><span>o IML</span></span></button></div></div>",
 "quiz": [
+{
+"p": "Deontologia médica é o estudo dos deveres do médico, e diceologia, o estudo dos seus direitos.",
+"c": true,
+"prof": "Medicina Legal geral.",
+"x": "Deon = dever; dike = direito.",
+"e": "Deontologia: deveres; diceologia: direitos."
+},
+{
+"p": "A Criminalística estuda os vestígios encontrados no corpo humano, e a Medicina Legal, os vestígios encontrados no local do crime.",
+"c": false,
+"prof": "Medicina Legal x Criminalística.",
+"x": "É o contrário: a Medicina Legal examina o corpo humano; a Criminalística, os vestígios fora dele.",
+"e": "Corpo = Medicina Legal."
+},
+{
+"p": "A Antropologia forense é o ramo da Medicina Legal que estuda a identidade e a identificação.",
+"c": true,
+"prof": "Divisão da Medicina Legal.",
+"x": "Identificação de vivos, cadáveres e ossadas.",
+"e": "Antropologia: identidade."
+},
+{
+"p": "Infortunística é o ramo da Medicina Legal que estuda os acidentes e as doenças do trabalho.",
+"c": true,
+"prof": "Divisão da Medicina Legal.",
+"x": "Está ligada às perícias trabalhistas e previdenciárias.",
+"e": "Infortunística: trabalho."
+},
+{
+"p": "Perícia percipiendi é aquela em que o perito percebe e descreve o fato; perícia deducendi é aquela em que ele interpreta e deduz a partir de dados.",
+"c": true,
+"prof": "Classificação das perícias.",
+"x": "Percipiendi = perceber; deducendi = deduzir.",
+"e": "Percipiendi x deducendi."
+},
+{
+"p": "Perícia prospectiva é aquela que examina um fato passado, como a dinâmica de um homicídio.",
+"c": false,
+"prof": "Classificação das perícias.",
+"x": "A que examina o passado é a retrospectiva; a prospectiva projeta consequências futuras.",
+"e": "Prospectiva: futuro."
+},
+{
+"p": "A perícia indireta é realizada quando os vestígios não podem mais ser examinados diretamente, a partir de outros elementos, como prontuários e fotografias.",
+"c": true,
+"prof": "Classificação das perícias.",
+"x": "Não se confunde com perícia feita por perito não oficial.",
+"e": "Indireta: sem o vestígio."
+},
+{
+"p": "Corpo de delito é o conjunto dos vestígios materiais deixados pela infração penal.",
+"c": true,
+"prof": "Corpo de delito.",
+"x": "Não é apenas o cadáver; abrange todos os vestígios materiais.",
+"e": "Corpo de delito = vestígios."
+},
+{
+"p": "Na decomposição doutrinária do corpo de delito, o corpus instrumentorum corresponde aos instrumentos utilizados na prática do crime.",
+"c": true,
+"prof": "Corpo de delito.",
+"x": "Corpus criminis: a pessoa ou coisa atingida; corpus probatorium: os demais elementos de prova.",
+"e": "Corpus instrumentorum."
+},
+{
+"p": "Quando a infração deixar vestígios, é indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo a confissão do acusado.",
+"c": true,
+"prof": "CPP, art. 158.",
+"x": "Regra central da prova pericial.",
+"e": "Confissão não supre."
+},
+{
+"p": "A confissão do acusado, corroborada por outras provas, supre a falta do exame de corpo de delito nos crimes que deixam vestígios.",
+"c": false,
+"prof": "CPP, art. 158.",
+"x": "A lei é expressa: a confissão não pode suprir o exame.",
+"e": "Confissão nunca supre."
+},
+{
+"p": "Não sendo possível o exame de corpo de delito, por haverem desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta.",
+"c": true,
+"prof": "CPP, art. 167.",
+"x": "É a exceção legal à indispensabilidade do exame.",
+"e": "Testemunhas suprem."
+},
+{
+"p": "Dá-se prioridade à realização do exame de corpo de delito quando se tratar de crime que envolva violência contra criança, adolescente, idoso ou pessoa com deficiência.",
+"c": true,
+"prof": "CPP, art. 158, parágrafo único, II.",
+"x": "Também na violência doméstica e familiar contra a mulher (inciso I).",
+"e": "Prioridade no exame."
+},
+{
+"p": "A prioridade na realização do exame de corpo de delito alcança apenas os crimes de violência doméstica e familiar contra a mulher.",
+"c": false,
+"prof": "CPP, art. 158, parágrafo único.",
+"x": "Alcança também a violência contra criança, adolescente, idoso e pessoa com deficiência.",
+"e": "Prioridade: dois incisos."
+},
+{
+"p": "O CPP prevê como nulidade a falta do exame de corpo de delito nos crimes que deixam vestígios, ressalvado o disposto no art. 167.",
+"c": true,
+"prof": "CPP, art. 564, III, b.",
+"x": "A ressalva é o suprimento pela prova testemunhal.",
+"e": "Nulidade: falta do exame."
+},
+{
+"p": "Segundo o CPP, a cadeia de custódia tem início:",
+"alts": [
+"com a coleta do vestígio pelo perito oficial",
+"com a requisição do exame pela autoridade policial",
+"com a preservação do local de crime ou com procedimentos policiais ou periciais nos quais seja detectada a existência de vestígio",
+"com o recebimento do vestígio na central de custódia",
+"com a instauração do inquérito policial"
+],
+"r": 2,
+"n": [
+"A coleta é etapa posterior.",
+"Não é o marco legal.",
+"Correta: art. 158-A, § 1º.",
+"É etapa posterior.",
+"Não é o marco legal."
+],
+"prof": "CPP, art. 158-A, § 1º.",
+"x": "A cadeia começa antes da coleta: na preservação do local ou na detecção do vestígio.",
+"e": "Início: preservação do local."
+},
+{
+"p": "Segundo o CPP, vestígio é todo objeto ou material bruto, visível ou latente, constatado ou recolhido, que se relaciona à infração penal.",
+"c": true,
+"prof": "CPP, art. 158-A, § 3º.",
+"x": "Abrange o que é visível e o que é latente.",
+"e": "Vestígio: visível ou latente."
+},
+{
+"p": "O agente público que reconhecer um elemento como de potencial interesse para a produção da prova pericial fica responsável por sua preservação.",
+"c": true,
+"prof": "CPP, art. 158-A, § 2º.",
+"x": "Vale para qualquer agente público, não só para o perito.",
+"e": "Quem reconhece, preserva."
+},
+{
+"p": "A primeira e a última etapas da cadeia de custódia, segundo o art. 158-B do CPP, são, respectivamente:",
+"alts": [
+"isolamento e armazenamento",
+"coleta e processamento",
+"reconhecimento e descarte",
+"fixação e recebimento",
+"acondicionamento e descarte"
+],
+"r": 2,
+"n": [
+"O isolamento é a 2ª etapa.",
+"Não são a primeira e a última.",
+"Correta: I e X.",
+"Não.",
+"O acondicionamento é a 5ª."
+],
+"prof": "CPP, art. 158-B.",
+"x": "Reconhecimento, isolamento, fixação, coleta, acondicionamento, transporte, recebimento, processamento, armazenamento e descarte.",
+"e": "Do reconhecimento ao descarte."
+},
+{
+"p": "Na cadeia de custódia, fixação é a descrição detalhada do vestígio conforme se encontra no local de crime ou no corpo de delito, e a sua posição, sendo indispensável a sua descrição no laudo pericial.",
+"c": true,
+"prof": "CPP, art. 158-B, III.",
+"x": "Pode ser feita com fotografias, filmagens ou croqui.",
+"e": "Fixação: descrever e registrar."
+},
+{
+"p": "Na etapa de acondicionamento, vestígios de mesma natureza podem ser embalados em conjunto, para facilitar o transporte.",
+"c": false,
+"prof": "CPP, art. 158-B, V.",
+"x": "Cada vestígio deve ser embalado de forma individualizada.",
+"e": "Acondicionamento individual."
+},
+{
+"p": "Na cadeia de custódia, processamento é o exame pericial em si, com resultado formalizado em laudo produzido por perito.",
+"c": true,
+"prof": "CPP, art. 158-B, VIII.",
+"x": "É a manipulação do vestígio pela metodologia adequada.",
+"e": "Processamento = exame."
+},
+{
+"p": "A coleta dos vestígios deve ser realizada preferencialmente por perito oficial, que dará o encaminhamento necessário para a central de custódia.",
+"c": true,
+"prof": "CPP, art. 158-C.",
+"x": "Preferencialmente, não exclusivamente.",
+"e": "Coleta: preferencialmente perito."
+},
+{
+"p": "A coleta de vestígios é ato privativo do perito oficial, sendo nula a coleta feita por policial não perito.",
+"c": false,
+"prof": "CPP, art. 158-C.",
+"x": "A lei diz \"preferencialmente\" por perito oficial.",
+"e": "Não é privativa."
+},
+{
+"p": "É proibida a entrada em locais isolados e a remoção de quaisquer vestígios de locais de crime antes da liberação pelo perito responsável, sendo tipificada como fraude processual a sua realização.",
+"c": true,
+"prof": "CPP, art. 158-C, § 2º.",
+"x": "É a proteção do local de crime.",
+"e": "Mexer no local: fraude processual."
+},
+{
+"p": "Todos os recipientes de vestígios devem ser selados com lacres, com numeração individualizada, e somente o perito que vai examiná-los ou pessoa autorizada pode abri-los, registrando-se o rompimento.",
+"c": true,
+"prof": "CPP, art. 158-D.",
+"x": "Após cada rompimento, o vestígio recebe novo lacre, também registrado.",
+"e": "Lacre numerado."
+},
+{
+"p": "Todos os Institutos de Criminalística devem ter uma central de custódia destinada à guarda e ao controle dos vestígios.",
+"c": true,
+"prof": "CPP, art. 158-E.",
+"x": "Quem acessa o vestígio deve ser identificado, com data e hora.",
+"e": "Central de custódia."
+},
+{
+"p": "Após a realização da perícia, o material deve ser devolvido à central de custódia, onde permanecerá.",
+"c": true,
+"prof": "CPP, art. 158-F.",
+"x": "Garante a possibilidade de contraperícia.",
+"e": "Volta à central."
+},
+{
+"p": "Segundo o CPP, a quebra da cadeia de custódia gera nulidade absoluta e automática da prova pericial.",
+"c": false,
+"prof": "CPP, arts. 158-A a 158-F.",
+"x": "A lei não prevê nulidade automática; prevalece que o juiz avalia a confiabilidade da prova no caso concreto.",
+"e": "Quebra: avalia-se a confiabilidade."
+},
+{
+"p": "O exame de corpo de delito e outras perícias são realizados por perito oficial, portador de diploma de curso superior.",
+"c": true,
+"prof": "CPP, art. 159.",
+"x": "Basta um perito oficial.",
+"e": "Um perito oficial."
+},
+{
+"p": "Segundo o CPP, o exame de corpo de delito deve ser realizado por dois peritos oficiais, sob pena de nulidade.",
+"c": false,
+"prof": "CPP, art. 159.",
+"x": "Desde a Lei 11.690/2008, basta um perito oficial; dois só se não oficiais.",
+"e": "Oficial: um basta."
+},
+{
+"p": "Na falta de perito oficial, o exame será realizado por duas pessoas idôneas, portadoras de diploma de curso superior, preferencialmente na área específica, dentre as que tiverem habilitação técnica relacionada com a natureza do exame.",
+"c": true,
+"prof": "CPP, art. 159, § 1º.",
+"x": "São os peritos não oficiais (ad hoc).",
+"e": "Dois não oficiais."
+},
+{
+"p": "Os peritos não oficiais prestarão o compromisso de bem e fielmente desempenhar o encargo.",
+"c": true,
+"prof": "CPP, art. 159, § 2º.",
+"x": "O perito oficial não presta compromisso a cada caso.",
+"e": "Compromisso: não oficial."
+},
+{
+"p": "Após a Lei 11.690/2008, a Súmula 361 do STF continua aplicável aos peritos não oficiais, mas não ao perito oficial, que pode atuar sozinho.",
+"c": true,
+"prof": "Súmula 361/STF e CPP, art. 159.",
+"x": "A súmula exige dois peritos e considera impedido quem participou da apreensão.",
+"e": "Súmula 361: não oficiais."
+},
+{
+"p": "Segundo o CPP, podem formular quesitos e indicar assistente técnico:",
+"alts": [
+"apenas o Ministério Público e o acusado",
+"apenas o juiz e a autoridade policial",
+"o Ministério Público, o assistente de acusação, o ofendido, o querelante e o acusado",
+"apenas as partes que forem advogados",
+"apenas o ofendido e o acusado, no inquérito"
+],
+"r": 2,
+"n": [
+"Rol incompleto.",
+"Não é o rol do § 3º.",
+"Correta: art. 159, § 3º.",
+"Não existe essa exigência.",
+"Rol incompleto e o assistente técnico só atua no processo."
+],
+"prof": "CPP, art. 159, § 3º.",
+"x": "São cinco legitimados.",
+"e": "Quesitos e assistente técnico."
+},
+{
+"p": "O assistente técnico atuará a partir de sua admissão pelo juiz e após a conclusão dos exames e elaboração do laudo pelos peritos oficiais.",
+"c": true,
+"prof": "CPP, art. 159, § 4º.",
+"x": "Por isso não acompanha o exame no inquérito.",
+"e": "Assistente: depois do laudo."
+},
+{
+"p": "O assistente técnico indicado pelo investigado pode acompanhar o exame de corpo de delito realizado durante o inquérito policial.",
+"c": false,
+"prof": "CPP, art. 159, § 4º.",
+"x": "Ele atua após a admissão pelo juiz e após a elaboração do laudo oficial.",
+"e": "Inquérito: sem assistente técnico."
+},
+{
+"p": "Durante o processo, as partes podem requerer a oitiva dos peritos, desde que o mandado de intimação e os quesitos sejam encaminhados com antecedência mínima de 10 dias.",
+"c": true,
+"prof": "CPP, art. 159, § 5º, I.",
+"x": "Os peritos podem responder em laudo complementar.",
+"e": "Oitiva do perito: 10 dias."
+},
+{
+"p": "Havendo requerimento das partes, o material probatório que serviu de base à perícia será disponibilizado no ambiente do órgão oficial, na presença de perito oficial, para exame pelos assistentes, salvo se for impossível a sua conservação.",
+"c": true,
+"prof": "CPP, art. 159, § 6º.",
+"x": "O órgão oficial mantém sempre a guarda do material.",
+"e": "Material fica no órgão oficial."
+},
+{
+"p": "Tratando-se de perícia complexa que abranja mais de uma área de conhecimento especializado, pode-se designar mais de um perito oficial, e a parte pode indicar mais de um assistente técnico.",
+"c": true,
+"prof": "CPP, art. 159, § 7º.",
+"x": "É a perícia multidisciplinar.",
+"e": "Perícia complexa."
+},
+{
+"p": "A Lei 12.030/2009 assegura aos peritos oficiais de natureza criminal autonomia técnica, científica e funcional.",
+"c": true,
+"prof": "Lei 12.030/2009.",
+"x": "Exige concurso público com formação acadêmica específica.",
+"e": "Autonomia técnica, científica e funcional."
+},
+{
+"p": "Segundo a Lei 12.030/2009, são peritos de natureza criminal os peritos criminais, os peritos médico-legistas e os peritos odontolegistas.",
+"c": true,
+"prof": "Lei 12.030/2009, art. 5º.",
+"x": "Com formação superior específica.",
+"e": "Três peritos de natureza criminal."
+},
+{
+"p": "Os peritos elaborarão o laudo pericial, no qual descreverão minuciosamente o que examinarem e responderão aos quesitos formulados.",
+"c": true,
+"prof": "CPP, art. 160.",
+"x": "Descrição e respostas aos quesitos.",
+"e": "Laudo: descrever e responder."
+},
+{
+"p": "O laudo pericial será elaborado no prazo máximo de 10 dias, podendo ser prorrogado, em casos excepcionais, a requerimento dos peritos.",
+"c": true,
+"prof": "CPP, art. 160, parágrafo único.",
+"x": "Quem pede a prorrogação são os peritos.",
+"e": "Laudo: 10 dias."
+},
+{
+"p": "O laudo pericial deve ser elaborado em 30 dias, prorrogáveis por igual período a requerimento do Ministério Público.",
+"c": false,
+"prof": "CPP, art. 160, parágrafo único.",
+"x": "São 10 dias, prorrogáveis excepcionalmente a requerimento dos peritos.",
+"e": "10 dias, peritos."
+},
+{
+"p": "O exame de corpo de delito poderá ser feito em qualquer dia e a qualquer hora.",
+"c": true,
+"prof": "CPP, art. 161.",
+"x": "Não há restrição de horário.",
+"e": "Qualquer dia e hora."
+},
+{
+"p": "A autópsia será feita pelo menos seis horas depois do óbito, salvo se os peritos, pela evidência dos sinais de morte, julgarem que possa ser feita antes, o que declararão no auto.",
+"c": true,
+"prof": "CPP, art. 162.",
+"x": "Evita a autópsia em morte aparente.",
+"e": "Autópsia: 6 horas."
+},
+{
+"p": "Segundo o CPP, a necropsia somente pode ser realizada após 24 horas do óbito, sem exceções.",
+"c": false,
+"prof": "CPP, art. 162.",
+"x": "O prazo é de 6 horas e admite exceção diante de sinais evidentes de morte.",
+"e": "6 horas, com exceção."
+},
+{
+"p": "Nos casos de morte violenta, bastará o simples exame externo do cadáver quando não houver infração penal que apurar, ou quando as lesões externas permitirem precisar a causa da morte e não houver necessidade de exame interno para a verificação de alguma circunstância relevante.",
+"c": true,
+"prof": "CPP, art. 162, parágrafo único.",
+"x": "Exceção à necropsia completa.",
+"e": "Exame só externo."
+},
+{
+"p": "Exumação é o desenterramento do cadáver; inumação é o sepultamento.",
+"c": true,
+"prof": "CPP, art. 163.",
+"x": "Não confunda os termos.",
+"e": "Exumar = desenterrar."
+},
+{
+"p": "Na exumação para exame cadavérico, a autoridade providenciará para que, em dia e hora previamente marcados, se realize a diligência, da qual se lavrará auto circunstanciado.",
+"c": true,
+"prof": "CPP, art. 163.",
+"x": "O administrador do cemitério indica a sepultura, sob pena de desobediência.",
+"e": "Exumação: dia e hora marcados."
+},
+{
+"p": "Os cadáveres serão sempre fotografados na posição em que forem encontrados, bem como, na medida do possível, todas as lesões externas e vestígios deixados no local do crime.",
+"c": true,
+"prof": "CPP, art. 164.",
+"x": "A fotografia fixa a cena.",
+"e": "Fotografar na posição encontrada."
+},
+{
+"p": "Havendo dúvida sobre a identidade do cadáver exumado, proceder-se-á ao reconhecimento pelo Instituto de Identificação ou repartição congênere, ou pela inquirição de testemunhas, lavrando-se auto de reconhecimento e de identidade.",
+"c": true,
+"prof": "CPP, art. 166.",
+"x": "Objetos úteis à identificação são arrecadados e autenticados.",
+"e": "Identidade do cadáver exumado."
+},
+{
+"p": "Em caso de lesões corporais, se o primeiro exame pericial tiver sido incompleto, proceder-se-á a exame complementar por determinação da autoridade policial ou judiciária, de ofício, ou a requerimento do Ministério Público, do ofendido ou do acusado, ou de seu defensor.",
+"c": true,
+"prof": "CPP, art. 168.",
+"x": "A autoridade policial também pode determiná-lo.",
+"e": "Exame complementar."
+},
+{
+"p": "Se o exame complementar tiver por fim precisar a classificação do delito no art. 129, § 1º, I, do CP, deverá ser feito logo que decorra o prazo de 30 dias, contado da data do crime.",
+"c": true,
+"prof": "CPP, art. 168, § 2º.",
+"x": "Verifica a incapacidade para as ocupações habituais por mais de 30 dias.",
+"e": "30 dias da data do crime."
+},
+{
+"p": "O prazo de 30 dias para o exame complementar de lesão corporal é contado da data do primeiro exame pericial.",
+"c": false,
+"prof": "CPP, art. 168, § 2º.",
+"x": "Conta-se da data do crime.",
+"e": "Data do crime."
+},
+{
+"p": "A falta de exame complementar poderá ser suprida pela prova testemunhal.",
+"c": true,
+"prof": "CPP, art. 168, § 3º.",
+"x": "Exceção semelhante à do art. 167.",
+"e": "Testemunhas suprem o complementar."
+},
+{
+"p": "Para o efeito de exame do local onde houver sido praticada a infração, a autoridade providenciará imediatamente para que não se altere o estado das coisas até a chegada dos peritos.",
+"c": true,
+"prof": "CPP, art. 169.",
+"x": "Os peritos registram as alterações e discutem suas consequências.",
+"e": "Preservar o local."
+},
+{
+"p": "Nas perícias de laboratório, os peritos guardarão material suficiente para a eventualidade de nova perícia.",
+"c": true,
+"prof": "CPP, art. 170.",
+"x": "Permite a contraperícia.",
+"e": "Guardar material."
+},
+{
+"p": "Nos crimes cometidos com destruição ou rompimento de obstáculo, ou por meio de escalada, os peritos indicarão com que instrumentos, por que meios e em que época presumem ter sido o fato praticado.",
+"c": true,
+"prof": "CPP, art. 171.",
+"x": "Interessa às qualificadoras do furto.",
+"e": "Rompimento e escalada."
+},
+{
+"p": "No caso de incêndio, os peritos verificarão a causa e o lugar em que houver começado, o perigo que dele tiver resultado para a vida ou para o patrimônio alheio, a extensão do dano e o seu valor.",
+"c": true,
+"prof": "CPP, art. 173.",
+"x": "Também as demais circunstâncias de interesse.",
+"e": "Perícia de incêndio."
+},
+{
+"p": "Serão sujeitos a exame os instrumentos empregados para a prática da infração, a fim de se lhes verificar a natureza e a eficiência.",
+"c": true,
+"prof": "CPP, art. 175.",
+"x": "Exemplo: eficiência da arma de fogo.",
+"e": "Instrumentos: natureza e eficiência."
+},
+{
+"p": "A autoridade e as partes poderão formular quesitos até o ato da diligência.",
+"c": true,
+"prof": "CPP, art. 176.",
+"x": "Até o momento do exame.",
+"e": "Quesitos até a diligência."
+},
+{
+"p": "No exame por precatória, a nomeação dos peritos far-se-á no juízo deprecado; havendo, porém, no caso de ação privada, acordo das partes, essa nomeação poderá ser feita pelo juiz deprecante.",
+"c": true,
+"prof": "CPP, art. 177.",
+"x": "Os quesitos são transcritos na precatória.",
+"e": "Precatória: juízo deprecado."
+},
+{
+"p": "Havendo divergência entre os peritos, cada um poderá redigir separadamente o seu laudo, e a autoridade nomeará um terceiro; se este divergir de ambos, a autoridade poderá mandar proceder a novo exame por outros peritos.",
+"c": true,
+"prof": "CPP, art. 180.",
+"x": "É a solução legal para a divergência.",
+"e": "Divergência: terceiro perito."
+},
+{
+"p": "No caso de omissões, obscuridades ou contradições no laudo, a autoridade judiciária mandará suprir a formalidade, complementar ou esclarecer o laudo, podendo ainda ordenar novo exame por outros peritos.",
+"c": true,
+"prof": "CPP, art. 181.",
+"x": "O laudo defeituoso pode ser corrigido.",
+"e": "Laudo com defeito."
+},
+{
+"p": "O juiz não ficará adstrito ao laudo, podendo aceitá-lo ou rejeitá-lo, no todo ou em parte.",
+"c": true,
+"prof": "CPP, art. 182.",
+"x": "É o sistema liberatório.",
+"e": "Sistema liberatório."
+},
+{
+"p": "Pelo sistema vinculatório adotado pelo CPP, o juiz só pode afastar o laudo se houver outro laudo em sentido contrário.",
+"c": false,
+"prof": "CPP, art. 182.",
+"x": "O CPP adota o sistema liberatório: o juiz não fica adstrito ao laudo.",
+"e": "CPP: liberatório."
+},
+{
+"p": "Salvo o caso de exame de corpo de delito, o juiz ou a autoridade policial negará a perícia requerida pelas partes quando não for necessária ao esclarecimento da verdade.",
+"c": true,
+"prof": "CPP, art. 184.",
+"x": "O exame de corpo de delito não pode ser negado.",
+"e": "Perícia desnecessária: negada, salvo corpo de delito."
+},
+{
+"p": "O perito, ainda quando não oficial, estará sujeito à disciplina judiciária.",
+"c": true,
+"prof": "CPP, art. 275.",
+"x": "É auxiliar da Justiça.",
+"e": "Disciplina judiciária."
+},
+{
+"p": "As partes não intervirão na nomeação do perito.",
+"c": true,
+"prof": "CPP, art. 276.",
+"x": "Elas indicam assistente técnico e formulam quesitos.",
+"e": "Partes não nomeiam perito."
+},
+{
+"p": "O perito nomeado pela autoridade será obrigado a aceitar o encargo, sob pena de multa, salvo escusa atendível.",
+"c": true,
+"prof": "CPP, art. 277.",
+"x": "A multa também cabe se ele não comparecer ou não der o laudo no prazo, sem justa causa.",
+"e": "Obrigado a aceitar."
+},
+{
+"p": "No caso de não comparecimento do perito, sem justa causa, a autoridade poderá determinar a sua condução.",
+"c": true,
+"prof": "CPP, art. 278.",
+"x": "Condução coercitiva do perito.",
+"e": "Condução do perito."
+},
+{
+"p": "Segundo o CPP, NÃO pode ser perito:",
+"alts": [
+"o médico com menos de 5 anos de formado",
+"o servidor público estadual",
+"quem tiver prestado depoimento no processo ou opinado anteriormente sobre o objeto da perícia",
+"o profissional que não seja médico, em perícia de local",
+"quem já atuou como perito em outro processo do mesmo réu"
+],
+"r": 2,
+"n": [
+"Não há essa regra.",
+"Não é impedimento.",
+"Correta: art. 279, II.",
+"Peritos criminais não precisam ser médicos.",
+"Não é impedimento legal."
+],
+"prof": "CPP, art. 279.",
+"x": "Também não podem os interditados de direito, os analfabetos e os menores de 21 anos.",
+"e": "Impedidos de ser perito."
+},
+{
+"p": "Pode ser nomeado perito não oficial o estudante de 19 anos que já concluiu curso superior de tecnologia.",
+"c": false,
+"prof": "CPP, art. 279, III.",
+"x": "Os menores de 21 anos não podem ser peritos.",
+"e": "Menor de 21: não."
+},
+{
+"p": "É extensivo aos peritos, no que lhes for aplicável, o disposto sobre a suspeição dos juízes.",
+"c": true,
+"prof": "CPP, art. 280.",
+"x": "As partes podem arguir a suspeição do perito.",
+"e": "Suspeição do perito."
+},
+{
+"p": "Os intérpretes são, para todos os efeitos, equiparados aos peritos.",
+"c": true,
+"prof": "CPP, art. 281.",
+"x": "Sujeitam-se às mesmas regras.",
+"e": "Intérprete = perito."
+},
+{
+"p": "Fazer afirmação falsa como perito em inquérito policial configura o crime de falso testemunho ou falsa perícia, punido com reclusão de 2 a 4 anos e multa.",
+"c": true,
+"prof": "CP, art. 342.",
+"x": "Também em processo judicial, administrativo ou juízo arbitral.",
+"e": "Falsa perícia."
+},
+{
+"p": "No crime de falsa perícia, o fato deixa de ser punível se, antes da sentença no processo em que ocorreu o ilícito, o agente se retrata ou declara a verdade.",
+"c": true,
+"prof": "CP, art. 342, § 2º.",
+"x": "É causa de extinção da punibilidade.",
+"e": "Retratação antes da sentença."
+},
+{
+"p": "Segundo a Lei de Drogas, para a lavratura do auto de prisão em flagrante e o estabelecimento da materialidade, é suficiente o laudo de constatação da natureza e quantidade da droga, firmado por perito oficial ou, na falta deste, por pessoa idônea.",
+"c": true,
+"prof": "Lei 11.343/2006, art. 50, § 1º.",
+"x": "Para a condenação, exige-se em regra o laudo definitivo.",
+"e": "Laudo de constatação."
+},
+{
+"p": "O perito que subscreveu o laudo de constatação da droga fica impedido de participar da elaboração do laudo definitivo.",
+"c": false,
+"prof": "Lei 11.343/2006, art. 50, § 2º.",
+"x": "A lei diz expressamente que ele não fica impedido.",
+"e": "Mesmo perito pode fazer o definitivo."
+},
+{
+"p": "Nas infrações de menor potencial ofensivo, para o oferecimento da denúncia, o exame de corpo de delito pode ser dispensado quando a materialidade estiver aferida por boletim médico ou prova equivalente.",
+"c": true,
+"prof": "Lei 9.099/1995, art. 77, § 1º.",
+"x": "Regra própria dos Juizados.",
+"e": "Juizado: boletim médico."
+},
+{
+"p": "Na Lei Maria da Penha, são admitidos como meios de prova os laudos ou prontuários médicos fornecidos por hospitais e postos de saúde.",
+"c": true,
+"prof": "Lei 11.340/2006, art. 12, § 3º.",
+"x": "Facilita a prova da violência doméstica.",
+"e": "Prontuário como prova."
+},
+{
+"p": "O exame de insanidade mental pode ser ordenado na fase do inquérito, mediante representação da autoridade policial ao juiz competente.",
+"c": true,
+"prof": "CPP, art. 149, § 1º.",
+"x": "Quem ordena é o juiz.",
+"e": "Insanidade: representação do delegado."
+},
+{
+"p": "A autoridade policial pode determinar diretamente o exame de insanidade mental do indiciado, sem representação ao juiz.",
+"c": false,
+"prof": "CPP, art. 149.",
+"x": "O exame é ordenado pelo juiz; no inquérito, a autoridade policial representa.",
+"e": "Delegado representa."
+},
+{
+"p": "O exame de insanidade mental não durará mais de 45 dias, salvo se os peritos demonstrarem a necessidade de maior prazo.",
+"c": true,
+"prof": "CPP, art. 150, § 1º.",
+"x": "Prazo do exame.",
+"e": "Insanidade: 45 dias."
+},
+{
+"p": "Deixar o médico de denunciar à autoridade pública doença cuja notificação é compulsória é crime.",
+"c": true,
+"prof": "CP, art. 269.",
+"x": "Omissão de notificação de doença.",
+"e": "Omissão de notificação."
+},
+{
+"p": "Pela Lei das Contravenções Penais, o médico não é obrigado a comunicar crime de que teve conhecimento no exercício da profissão quando a comunicação expuser o seu cliente a procedimento criminal.",
+"c": true,
+"prof": "LCP, art. 66, II.",
+"x": "Também não há dever se a ação penal depender de representação.",
+"e": "Não denunciar o paciente."
+},
+{
+"p": "Os casos de suspeita ou confirmação de maus-tratos contra criança ou adolescente serão obrigatoriamente comunicados ao Conselho Tutelar.",
+"c": true,
+"prof": "ECA, art. 13.",
+"x": "A omissão do médico é infração administrativa (art. 245).",
+"e": "Maus-tratos: Conselho Tutelar."
+},
+{
+"p": "Atestado é a afirmação simples e por escrito de um fato médico e de suas consequências.",
+"c": true,
+"prof": "Documentos médico-legais.",
+"x": "É o documento mais comum da prática médica.",
+"e": "Atestado: afirmação simples."
+},
+{
+"p": "Atestado gracioso, também chamado complacente, é aquele fornecido por favor, sem base real em exame.",
+"c": true,
+"prof": "Classificação dos atestados.",
+"x": "O correto é o atestado idôneo.",
+"e": "Gracioso = de favor."
+},
+{
+"p": "Dar o médico, no exercício da sua profissão, atestado falso é crime punido com detenção de 1 mês a 1 ano, aplicando-se também multa se cometido com o fim de lucro.",
+"c": true,
+"prof": "CP, art. 302.",
+"x": "Crime próprio do médico.",
+"e": "Atestado falso: art. 302."
+},
+{
+"p": "O crime de falsidade de atestado médico pode ser praticado por qualquer pessoa que redija atestado em nome de médico.",
+"c": false,
+"prof": "CP, art. 302.",
+"x": "É crime próprio: o sujeito ativo é o médico. Quem não é médico responde por outro crime.",
+"e": "Crime próprio."
+},
+{
+"p": "Paciente morre no hospital três dias depois de ser atropelado. A declaração de óbito deve ser preenchida:",
+"alts": [
+"pelo médico assistente do hospital",
+"pelo Serviço de Verificação de Óbito",
+"pelo médico-legista do IML, após exame",
+"por qualquer médico da localidade",
+"pelo oficial do cartório de registro civil"
+],
+"r": 2,
+"n": [
+"Morte por causa externa vai ao IML.",
+"O SVO é para morte natural sem assistência.",
+"Correta: morte violenta = IML.",
+"Não.",
+"O cartório lavra a certidão, não a declaração."
+],
+"prof": "Declaração de óbito.",
+"x": "Em morte violenta ou suspeita, a DO é obrigatoriamente do IML, ainda que a morte ocorra no hospital.",
+"e": "Causa externa: IML."
+},
+{
+"p": "Na morte natural sem assistência médica, em localidade com Serviço de Verificação de Óbito, a declaração de óbito é fornecida pelo médico do SVO.",
+"c": true,
+"prof": "Declaração de óbito.",
+"x": "Sem SVO, pelo médico do serviço público de saúde mais próximo ou qualquer médico da localidade.",
+"e": "Morte natural sem assistência: SVO."
+},
+{
+"p": "Auto é o relatório ditado pelo perito ao escrivão, na presença da autoridade; laudo é o relatório redigido pelos próprios peritos após o exame.",
+"c": true,
+"prof": "Relatório médico-legal.",
+"x": "Hoje predomina o laudo.",
+"e": "Auto x laudo."
+},
+{
+"p": "A parte mais importante do relatório médico-legal, conhecida como visum et repertum, é:",
+"alts": [
+"o preâmbulo",
+"o histórico",
+"a descrição",
+"a discussão",
+"os quesitos"
+],
+"r": 2,
+"n": [
+"Apenas qualifica as partes.",
+"É a parte de menor valor.",
+"Correta: o que o perito viu e encontrou.",
+"Interpreta os achados.",
+"São as perguntas."
+],
+"prof": "Relatório médico-legal.",
+"x": "A descrição é o núcleo do laudo.",
+"e": "Visum et repertum = descrição."
+},
+{
+"p": "O histórico, por ser o relato do próprio examinado, é a parte de maior valor probante do laudo.",
+"c": false,
+"prof": "Relatório médico-legal.",
+"x": "O histórico é a parte de menor valor, pois não é constatação do perito.",
+"e": "Histórico: menor valor."
+},
+{
+"p": "Quando não houver elementos para responder a um quesito, o perito deve declarar que não há elementos ou que aguarda exame complementar.",
+"c": true,
+"prof": "Relatório médico-legal.",
+"x": "O perito não deve presumir respostas.",
+"e": "\"Sem elementos\"."
+},
+{
+"p": "O quesito sobre incapacidade para as ocupações habituais por mais de 30 dias relaciona-se à lesão corporal de natureza grave.",
+"c": true,
+"prof": "CP, art. 129, § 1º, I.",
+"x": "É o 4º quesito oficial do exame de lesão corporal.",
+"e": "+30 dias = grave."
+},
+{
+"p": "Para caracterizar a lesão grave por perigo de vida, o perito deve constatar um perigo concreto, e não meramente potencial.",
+"c": true,
+"prof": "CP, art. 129, § 1º, II.",
+"x": "Ex.: choque hemorrágico; não basta dizer que a lesão \"poderia\" matar.",
+"e": "Perigo de vida concreto."
+},
+{
+"p": "O parecer médico-legal é a resposta de um especialista a uma consulta sobre fatos e documentos já existentes e, em regra, não contém a parte de descrição.",
+"c": true,
+"prof": "Documentos médico-legais.",
+"x": "Partes: preâmbulo, exposição, discussão e conclusão.",
+"e": "Parecer: sem descrição."
+},
+{
+"p": "Pela Lei 13.787/2018, decorrido o prazo mínimo de 20 anos a partir do último registro, os prontuários em papel e os digitalizados podem ser eliminados, observadas as regras legais.",
+"c": true,
+"prof": "Lei 13.787/2018.",
+"x": "A lei também permite a digitalização do prontuário.",
+"e": "Prontuário: 20 anos."
+},
+{
+"p": "A violação do segredo profissional é crime que somente se procede mediante representação.",
+"c": true,
+"prof": "CP, art. 154.",
+"x": "Pena: detenção de 3 meses a 1 ano, ou multa.",
+"e": "Art. 154: representação."
+},
+{
+"p": "São proibidas de depor as pessoas que, em razão de profissão, devam guardar segredo, salvo se, desobrigadas pela parte interessada, quiserem dar o seu testemunho.",
+"c": true,
+"prof": "CPP, art. 207.",
+"x": "Mesmo desobrigado, o médico não é obrigado a depor.",
+"e": "Desobrigado: pode depor se quiser."
+},
+{
+"p": "Segundo o Código de Ética Médica, o dever de sigilo cessa com a morte do paciente.",
+"c": false,
+"prof": "CEM, art. 73, parágrafo único.",
+"x": "A proibição permanece mesmo que o paciente tenha falecido.",
+"e": "Sigilo após a morte."
+},
+{
+"p": "No processo civil, o juiz não está adstrito ao laudo e deve indicar na sentença os motivos que o levaram a considerar ou deixar de considerar as conclusões do perito.",
+"c": true,
+"prof": "CPC, art. 479.",
+"x": "Também no cível vigora a livre apreciação fundamentada.",
+"e": "CPC: juiz não adstrito."
+},
+{
+"p": "No processo civil, as partes plenamente capazes podem, de comum acordo, escolher o perito, quando a causa puder ser resolvida por autocomposição.",
+"c": true,
+"prof": "CPC, art. 471.",
+"x": "É a perícia consensual.",
+"e": "Perícia consensual."
+},
 {
 "p": "O exame de corpo de delito é indispensável nas infrações que deixam vestígios, não podendo supri-lo a confissão do acusado.",
 "c": true,
@@ -7652,7 +8492,7 @@ export const PROFUNDO = {
 "e": "Auto ditado."
 }
 ],
-"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1</b><span>perito oficial com diploma superior basta (CPP, art. 159)</span></div><div class=\"lt-stat\"><b>10 dias</b><span>prazo do laudo, prorrogável</span></div><div class=\"lt-stat\"><b>6 h</b><span>após o óbito, em regra, para a necropsia</span></div></div>\n<h3>1. Perícia e peritos no CPP</h3>\n<ul><li><b>Exame de corpo de delito</b> (art. 158): <b>indispensável</b> quando a infração <b>deixa vestígios</b>, direto (sobre o próprio vestígio) ou indireto (por testemunhas, documentos), <b>não podendo supri-lo a confissão</b>. Tem <b>prioridade</b> quando envolve violência doméstica e familiar contra a mulher, ou violência contra criança, adolescente, idoso ou pessoa com deficiência.</li><li><b>Quem faz</b> (art. 159): <b>um perito oficial</b> portador de diploma de curso superior. Na falta, <b>duas pessoas idôneas</b>, com diploma superior, preferencialmente na área, que prestam compromisso.</li><li><b>Assistente técnico</b>: indicado pelas partes, atua <b>após</b> a admissão pelo juiz e a <b>conclusão</b> dos exames pelos oficiais; não participa do exame inicial no inquérito.</li><li>O laudo é elaborado em <b>até 10 dias</b>, prorrogável em casos excepcionais (art. 160). O juiz <b>não fica adstrito</b> ao laudo: pode aceitá-lo ou rejeitá-lo, no todo ou em parte (art. 182).</li><li><b>Necropsia</b>: pelo menos <b>6 horas</b> depois do óbito, salvo se os peritos, pela evidência dos sinais de morte, julgarem possível fazê-la antes (art. 162). <b>Exumação</b>: em dia e hora previamente marcados pela autoridade (art. 163).</li><li><b>Lesão corporal grave</b> por incapacidade para as ocupações habituais por mais de 30 dias: o <b>exame complementar</b> é feito logo que decorra o prazo de <b>30 dias</b> da data do crime; sua falta pode ser suprida por <b>prova testemunhal</b> (art. 168).</li><li>A <b>Lei 12.030/2009</b> garante às perícias oficiais <b>autonomia técnica, científica e funcional</b> e define como peritos de natureza criminal os <b>peritos criminais</b>, <b>peritos médico-legistas</b> e <b>peritos odontolegistas</b>.</li></ul>\n<h3>2. Documentos médico-legais</h3>\n<table class=\"tab\"><thead><tr><th>Documento</th><th>O que é</th></tr></thead><tbody><tr><td><b>Notificação</b></td><td>comunicação compulsória de fato à autoridade (doenças, violência contra mulher, criança, idoso)</td></tr><tr><td><b>Atestado</b></td><td>afirmação simples e escrita de um fato médico e suas consequências</td></tr><tr><td><b>Relatório médico-legal</b></td><td>descrição minuciosa da perícia: é <b>auto</b> quando ditado ao escrivão, e <b>laudo</b> quando redigido pelos próprios peritos</td></tr><tr><td><b>Parecer</b></td><td>resposta de especialista a consulta sobre ponto controvertido, <b>sem exame direto</b>; vale pela autoridade de quem o assina</td></tr><tr><td>Depoimento oral</td><td>esclarecimentos do perito em audiência</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Partes do laudo</th><th>Conteúdo</th></tr></thead><tbody><tr><td>Preâmbulo</td><td>quem, quando, onde, a pedido de quem</td></tr><tr><td>Quesitos</td><td>perguntas da autoridade</td></tr><tr><td>Histórico (comemorativo)</td><td>relato do fato pelo periciando ou pela autoridade</td></tr><tr><td><b>Descrição</b></td><td>o \"visum et repertum\": o que foi visto e achado — a parte <b>mais importante</b></td></tr><tr><td>Discussão</td><td>análise das hipóteses</td></tr><tr><td>Conclusão</td><td>síntese</td></tr><tr><td>Respostas aos quesitos</td><td>objetivas</td></tr></tbody></table>\n<h3>3. Quesitos oficiais da lesão corporal</h3>\n<ul><li>1º Houve ofensa à integridade corporal ou à saúde? 2º Qual o instrumento ou meio que a produziu? 3º Foi produzida por veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel? 4º Resultou <b>incapacidade</b> para as ocupações habituais por mais de <b>30 dias</b>? 5º Resultou <b>perigo de vida</b>? 6º Resultou <b>debilidade permanente</b> de membro, sentido ou função? 7º Resultou incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, sentido ou função, ou <b>deformidade permanente</b>? 8º Resultou aceleração de parto ou <b>aborto</b>?</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>4. Ética e perícia</h3>\n<ul><li>O médico <b>não pode ser perito de paciente seu</b>, de pessoa de sua família ou de quem tenha relação capaz de influir no trabalho (Código de Ética Médica). O perito deve ser <b>imparcial</b>, respeitar o <b>sigilo</b> e a <b>dignidade</b> do periciando e não pode ser obrigado a fazer exame invasivo sem consentimento.</li><li>O periciando não é obrigado a produzir prova contra si (exame de sangue, bafômetro), mas pode ser identificado e examinado externamente. A coleta de <b>perfil genético</b> é obrigatória para condenados por certos crimes (LEP, art. 9º-A).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A confissão supre o exame de corpo de delito</span><br>✅ <span class=\"certo\">Não supre (art. 158).</span></li><li>❌ <span class=\"banca\">São sempre necessários dois peritos oficiais</span><br>✅ <span class=\"certo\">Basta UM perito oficial; dois só se forem não oficiais.</span></li><li>❌ <span class=\"banca\">O juiz deve seguir o laudo</span><br>✅ <span class=\"certo\">O juiz não fica adstrito ao laudo (art. 182).</span></li><li>❌ <span class=\"banca\">Parecer é o documento feito após o exame direto da vítima</span><br>✅ <span class=\"certo\">Parecer responde a consulta, SEM exame direto.</span></li><li>❌ <span class=\"banca\">A necropsia pode ser feita a qualquer momento após a morte</span><br>✅ <span class=\"certo\">Regra: pelo menos 6 horas depois.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem faz o exame?</span></span><span class=\"vs\"><span><b>1 perito oficial</b> com diploma superior (ou 2 pessoas idôneas).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Confissão supre exame?</span></span><span class=\"vs\"><span><b>Não</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do laudo?</span></span><span class=\"vs\"><span><b>10 dias</b>, prorrogável.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Auto x laudo?</span></span><span class=\"vs\"><span><b>Auto</b>: ditado ao escrivão. <b>Laudo</b>: redigido pelos peritos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parte mais importante do laudo?</span></span><span class=\"vs\"><span><b>Descrição</b> (visum et repertum).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exame complementar da lesão grave?</span></span><span class=\"vs\"><span>Após <b>30 dias</b>; supre-se por <b>testemunhas</b>.</span></span></button></div></div>"
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1</b><span>perito oficial com diploma de curso superior (CPP, art. 159)</span></div><div class=\"lt-stat\"><b>10 dias</b><span>prazo do laudo, prorrogável (art. 160, p. único)</span></div><div class=\"lt-stat\"><b>6</b><span>partes clássicas do relatório médico-legal</span></div><div class=\"lt-stat\"><b>72 h</b><span>janela ideal para coleta em crimes sexuais</span></div></div>\n<h3>1. Medicina Legal e perícia</h3>\n<ul><li><b>Medicina Legal</b> é a aplicação dos conhecimentos médicos e biológicos ao Direito. <b>Perícia</b> é o exame técnico feito por especialista para esclarecer fato de interesse da Justiça. O <b>perito</b> é auxiliar da Justiça e está sujeito às mesmas <b>suspeições e impedimentos</b> dos juízes (CPP, art. 280).</li><li><b>Corpo de delito</b> é o conjunto de <b>vestígios materiais</b> da infração. <b>Exame de corpo de delito</b> é a perícia sobre esses vestígios: <b>direto</b> (sobre o próprio vestígio) ou <b>indireto</b> (com base em prontuários, fichas, testemunhas qualificadas).</li></ul>\n<h3>2. Regras do CPP (arts. 158 a 184)</h3>\n<table class=\"tab\"><thead><tr><th>Regra</th><th>Conteúdo</th></tr></thead><tbody><tr><td><b>Indispensabilidade</b> (art. 158)</td><td>quando a infração deixar vestígios, o exame de corpo de delito é <b>indispensável</b> e <b>não pode ser suprido pela confissão</b> do acusado</td></tr><tr><td><b>Supressão por testemunhas</b> (art. 167)</td><td>se os vestígios <b>desapareceram</b>, a <b>prova testemunhal</b> pode suprir a falta do exame</td></tr><tr><td><b>Perito</b> (art. 159)</td><td><b>1 perito oficial</b> com diploma de curso superior; na falta, <b>2 pessoas idôneas</b> com diploma superior, preferencialmente na área, que prestam <b>compromisso</b> de bem e fielmente desempenhar o encargo</td></tr><tr><td><b>Quesitos e assistente técnico</b> (art. 159, § 3º)</td><td>facultados ao MP, ao assistente de acusação, ao ofendido, ao querelante e ao acusado; o assistente atua <b>após a conclusão</b> do laudo oficial</td></tr><tr><td><b>Prazo</b> (art. 160)</td><td>laudo em <b>10 dias</b>, prorrogável em casos excepcionais</td></tr><tr><td><b>Autópsia</b> (art. 162)</td><td><b>pelo menos 6 horas</b> após o óbito, salvo evidência dos sinais de morte; basta <b>exame externo</b> em morte violenta sem infração a apurar ou quando as lesões externas bastarem</td></tr><tr><td><b>Cadáveres</b> (art. 164)</td><td>serão <b>sempre fotografados na posição em que forem encontrados</b></td></tr><tr><td><b>Exumação</b> (art. 163)</td><td>em dia e hora previamente marcados, lavrando-se auto circunstanciado</td></tr><tr><td><b>Lesões</b> (art. 168)</td><td>exame <b>complementar</b>; para a incapacidade por <b>mais de 30 dias</b>, o exame deve ser feito logo que decorrido esse prazo</td></tr><tr><td><b>Liberdade do juiz</b> (art. 182)</td><td>o juiz <b>não fica adstrito</b> ao laudo</td></tr></tbody></table>\n<ul><li><b>Prioridade</b> (art. 158, p. único): o exame terá prioridade em crimes com <b>violência doméstica contra a mulher</b> e violência contra <b>criança, adolescente, idoso ou pessoa com deficiência</b>.</li></ul>\n<h3>3. Documentos médico-legais</h3>\n<table class=\"tab\"><thead><tr><th>Documento</th><th>O que é</th></tr></thead><tbody><tr><td><b>Notificação</b></td><td>comunicação <b>compulsória</b> à autoridade de fatos de interesse público (doenças de notificação obrigatória, violência contra a mulher, maus-tratos a crianças)</td></tr><tr><td><b>Atestado</b></td><td>afirmação <b>simples e por escrito</b> de um fato médico e suas consequências; o <b>atestado médico falso</b> dado por médico no exercício da profissão é <b>crime</b> (CP, art. 302)</td></tr><tr><td><b>Relatório médico-legal</b></td><td>descrição minuciosa da perícia: chama-se <b>auto</b> quando ditado ao escrivão na presença da autoridade, e <b>laudo</b> quando redigido pelo próprio perito</td></tr><tr><td><b>Parecer</b> (consulta médico-legal)</td><td>opinião de especialista sobre perícia já feita, a pedido de uma parte</td></tr><tr><td><b>Depoimento oral</b></td><td>esclarecimentos do perito em audiência</td></tr></tbody></table>\n<h3>4. Estrutura do relatório (laudo)</h3>\n<div class=\"lt-fluxo\"><span>Preâmbulo (qualificação, autoridade, objetivo)</span> <em>→</em> <span>Quesitos</span> <em>→</em> <span>Histórico ou comemorativo (relato dos fatos pelo examinado)</span> <em>→</em> <span>Descrição (o que o perito viu: visum et repertum)</span> <em>→</em> <span>Discussão (análise e hipóteses)</span> <em>→</em> <span>Conclusão</span> <em>→</em> <span>Respostas aos quesitos</span></div>\n<ul><li>A <b>descrição</b> é a <b>parte mais importante</b>: o perito relata minuciosamente o que observou, de forma objetiva, sem opinião. Uma lesão mal descrita não pode ser reavaliada depois que cicatriza.</li></ul>\n<h3>5. Perícias de identificação e locais de crime</h3>\n<ul><li><b>Local de crime</b>: deve ser <b>isolado e preservado</b> (CPP, art. 6º, I, e cadeia de custódia, arts. 158-A a 158-F). Locais <b>idôneos</b> (preservados) e <b>inidôneos</b> (alterados). A <b>cadeia de custódia</b> documenta o vestígio do reconhecimento ao descarte.</li><li><b>Crimes sexuais</b>: o exame deve ser feito o quanto antes (idealmente em até <b>72 horas</b>), com coleta de material para <b>sêmen</b> e <b>DNA</b> e pesquisa de substâncias (drogas que facilitam o abuso).</li><li><b>Embriaguez</b>: exame <b>clínico</b> (comportamento, hálito, marcha, fala) e <b>laboratorial</b> (dosagem no sangue).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O exame de corpo de delito exige dois peritos oficiais</span><br>✅ <span class=\"certo\">Basta um perito oficial.</span></li><li>❌ <span class=\"banca\">Os peritos não oficiais dispensam compromisso</span><br>✅ <span class=\"certo\">Prestam compromisso.</span></li><li>❌ <span class=\"banca\">O juiz está vinculado ao laudo</span><br>✅ <span class=\"certo\">Não fica adstrito (art. 182).</span></li><li>❌ <span class=\"banca\">Atestado médico falso não é crime</span><br>✅ <span class=\"certo\">É crime (CP, art. 302).</span></li><li>❌ <span class=\"banca\">A parte mais importante do laudo é a conclusão</span><br>✅ <span class=\"certo\">É a DESCRIÇÃO (visum et repertum).</span></li><li>❌ <span class=\"banca\">A confissão supre o exame</span><br>✅ <span class=\"certo\">Não supre; testemunhas suprem se os vestígios sumiram.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perito?</span></span><span class=\"vs\"><span><b>1 oficial</b> ou <b>2 não oficiais</b> com curso superior e compromisso.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do laudo?</span></span><span class=\"vs\"><span><b>10 dias</b>, prorrogável.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Autópsia?</span></span><span class=\"vs\"><span>Após <b>6 horas</b>, salvo evidência de morte.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cadáver?</span></span><span class=\"vs\"><span>Sempre <b>fotografado</b> na posição encontrada.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parte mais importante do laudo?</span></span><span class=\"vs\"><span><b>Descrição</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Auto x laudo?</span></span><span class=\"vs\"><span>Auto: <b>ditado</b> ao escrivão; laudo: <b>redigido</b> pelo perito.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parecer?</span></span><span class=\"vs\"><span>Opinião de especialista sobre perícia <b>já feita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vestígios desapareceram?</span></span><span class=\"vs\"><span><b>Prova testemunhal</b> supre.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A comarca sem IML</b><p>Em comarca do interior sem perito oficial, uma mulher chega à delegacia com lesões no rosto, dizendo ter sido agredida pelo companheiro.</p><details><summary>Ver a solução comentada</summary><p>O exame de corpo de delito é <b>indispensável</b> (art. 158) e tem <b>prioridade</b> por se tratar de violência doméstica contra a mulher. Sem perito oficial, o Delegado nomeia <b>duas pessoas idôneas</b> com diploma de curso superior, <b>preferencialmente médicos</b>, que prestam <b>compromisso</b> (art. 159, § 1º). Se as lesões puderem gerar incapacidade por mais de 30 dias, deve-se agendar <b>exame complementar</b>.</p></details></div><div class=\"lt-stats\"><div class=\"lt-stat\"><b>1</b><span>perito oficial com diploma superior basta (CPP, art. 159)</span></div><div class=\"lt-stat\"><b>10 dias</b><span>prazo do laudo, prorrogável</span></div><div class=\"lt-stat\"><b>6 h</b><span>após o óbito, em regra, para a necropsia</span></div></div>\n<h3>1. Perícia e peritos no CPP</h3>\n<ul><li><b>Exame de corpo de delito</b> (art. 158): <b>indispensável</b> quando a infração <b>deixa vestígios</b>, direto (sobre o próprio vestígio) ou indireto (por testemunhas, documentos), <b>não podendo supri-lo a confissão</b>. Tem <b>prioridade</b> quando envolve violência doméstica e familiar contra a mulher, ou violência contra criança, adolescente, idoso ou pessoa com deficiência.</li><li><b>Quem faz</b> (art. 159): <b>um perito oficial</b> portador de diploma de curso superior. Na falta, <b>duas pessoas idôneas</b>, com diploma superior, preferencialmente na área, que prestam compromisso.</li><li><b>Assistente técnico</b>: indicado pelas partes, atua <b>após</b> a admissão pelo juiz e a <b>conclusão</b> dos exames pelos oficiais; não participa do exame inicial no inquérito.</li><li>O laudo é elaborado em <b>até 10 dias</b>, prorrogável em casos excepcionais (art. 160). O juiz <b>não fica adstrito</b> ao laudo: pode aceitá-lo ou rejeitá-lo, no todo ou em parte (art. 182).</li><li><b>Necropsia</b>: pelo menos <b>6 horas</b> depois do óbito, salvo se os peritos, pela evidência dos sinais de morte, julgarem possível fazê-la antes (art. 162). <b>Exumação</b>: em dia e hora previamente marcados pela autoridade (art. 163).</li><li><b>Lesão corporal grave</b> por incapacidade para as ocupações habituais por mais de 30 dias: o <b>exame complementar</b> é feito logo que decorra o prazo de <b>30 dias</b> da data do crime; sua falta pode ser suprida por <b>prova testemunhal</b> (art. 168).</li><li>A <b>Lei 12.030/2009</b> garante às perícias oficiais <b>autonomia técnica, científica e funcional</b> e define como peritos de natureza criminal os <b>peritos criminais</b>, <b>peritos médico-legistas</b> e <b>peritos odontolegistas</b>.</li></ul>\n<h3>2. Documentos médico-legais</h3>\n<table class=\"tab\"><thead><tr><th>Documento</th><th>O que é</th></tr></thead><tbody><tr><td><b>Notificação</b></td><td>comunicação compulsória de fato à autoridade (doenças, violência contra mulher, criança, idoso)</td></tr><tr><td><b>Atestado</b></td><td>afirmação simples e escrita de um fato médico e suas consequências</td></tr><tr><td><b>Relatório médico-legal</b></td><td>descrição minuciosa da perícia: é <b>auto</b> quando ditado ao escrivão, e <b>laudo</b> quando redigido pelos próprios peritos</td></tr><tr><td><b>Parecer</b></td><td>resposta de especialista a consulta sobre ponto controvertido, <b>sem exame direto</b>; vale pela autoridade de quem o assina</td></tr><tr><td>Depoimento oral</td><td>esclarecimentos do perito em audiência</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Partes do laudo</th><th>Conteúdo</th></tr></thead><tbody><tr><td>Preâmbulo</td><td>quem, quando, onde, a pedido de quem</td></tr><tr><td>Quesitos</td><td>perguntas da autoridade</td></tr><tr><td>Histórico (comemorativo)</td><td>relato do fato pelo periciando ou pela autoridade</td></tr><tr><td><b>Descrição</b></td><td>o \"visum et repertum\": o que foi visto e achado — a parte <b>mais importante</b></td></tr><tr><td>Discussão</td><td>análise das hipóteses</td></tr><tr><td>Conclusão</td><td>síntese</td></tr><tr><td>Respostas aos quesitos</td><td>objetivas</td></tr></tbody></table>\n<h3>3. Quesitos oficiais da lesão corporal</h3>\n<ul><li>1º Houve ofensa à integridade corporal ou à saúde? 2º Qual o instrumento ou meio que a produziu? 3º Foi produzida por veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel? 4º Resultou <b>incapacidade</b> para as ocupações habituais por mais de <b>30 dias</b>? 5º Resultou <b>perigo de vida</b>? 6º Resultou <b>debilidade permanente</b> de membro, sentido ou função? 7º Resultou incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, sentido ou função, ou <b>deformidade permanente</b>? 8º Resultou aceleração de parto ou <b>aborto</b>?</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>4. Ética e perícia</h3>\n<ul><li>O médico <b>não pode ser perito de paciente seu</b>, de pessoa de sua família ou de quem tenha relação capaz de influir no trabalho (Código de Ética Médica). O perito deve ser <b>imparcial</b>, respeitar o <b>sigilo</b> e a <b>dignidade</b> do periciando e não pode ser obrigado a fazer exame invasivo sem consentimento.</li><li>O periciando não é obrigado a produzir prova contra si (exame de sangue, bafômetro), mas pode ser identificado e examinado externamente. A coleta de <b>perfil genético</b> é obrigatória para condenados por certos crimes (LEP, art. 9º-A).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A confissão supre o exame de corpo de delito</span><br>✅ <span class=\"certo\">Não supre (art. 158).</span></li><li>❌ <span class=\"banca\">São sempre necessários dois peritos oficiais</span><br>✅ <span class=\"certo\">Basta UM perito oficial; dois só se forem não oficiais.</span></li><li>❌ <span class=\"banca\">O juiz deve seguir o laudo</span><br>✅ <span class=\"certo\">O juiz não fica adstrito ao laudo (art. 182).</span></li><li>❌ <span class=\"banca\">Parecer é o documento feito após o exame direto da vítima</span><br>✅ <span class=\"certo\">Parecer responde a consulta, SEM exame direto.</span></li><li>❌ <span class=\"banca\">A necropsia pode ser feita a qualquer momento após a morte</span><br>✅ <span class=\"certo\">Regra: pelo menos 6 horas depois.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem faz o exame?</span></span><span class=\"vs\"><span><b>1 perito oficial</b> com diploma superior (ou 2 pessoas idôneas).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Confissão supre exame?</span></span><span class=\"vs\"><span><b>Não</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do laudo?</span></span><span class=\"vs\"><span><b>10 dias</b>, prorrogável.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Auto x laudo?</span></span><span class=\"vs\"><span><b>Auto</b>: ditado ao escrivão. <b>Laudo</b>: redigido pelos peritos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parte mais importante do laudo?</span></span><span class=\"vs\"><span><b>Descrição</b> (visum et repertum).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exame complementar da lesão grave?</span></span><span class=\"vs\"><span>Após <b>30 dias</b>; supre-se por <b>testemunhas</b>.</span></span></button></div></div>"
 },
 "traumatologia": {
 "html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>6</b><span>tipos de instrumentos mecânicos (punctórios, cortantes, contundentes e mistos)</span></div><div class=\"lt-stat\"><b>4</b><span>zonas do tiro a curta distância: orla de escoriação, orla de enxugo, tatuagem e esfumaçamento</span></div><div class=\"lt-stat\"><b>~15 a 20 dias</b><span>tempo para a equimose desaparecer (espectro equimótico)</span></div><div class=\"lt-stat\"><b>4</b><span>graus de queimadura</span></div></div>\n<h3>1. Traumatologia: energias e instrumentos</h3>\n<ul><li>Estuda as <b>lesões</b> produzidas por <b>energias</b>: <b>mecânicas</b> (instrumentos), <b>físicas</b> (calor, frio, eletricidade, radiação, pressão), <b>químicas</b> (cáusticos, venenos), <b>físico-químicas</b> (asfixias), <b>bioquímicas</b> e <b>biodinâmicas</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instrumento</th><th>Como age</th><th>Lesão</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Perfurante</b> (punctório)</td><td>ponta, pressão</td><td><b>puntiforme</b> (punctória)</td><td>agulha, prego, furador de gelo</td></tr><tr><td><b>Cortante</b></td><td>gume, deslizamento</td><td><b>incisa</b>: bordas regulares, mais longa que profunda, cauda de escoriação</td><td>navalha, bisturi, caco de vidro</td></tr><tr><td><b>Contundente</b></td><td>pressão, choque, sem ponta nem gume</td><td><b>contusa</b>: escoriação, equimose, hematoma, fratura, ferida contusa de bordas irregulares</td><td>soco, pedaço de pau, queda, atropelamento</td></tr><tr><td><b>Perfurocortante</b></td><td>ponta e gume</td><td><b>perfuroincisa</b></td><td>faca, punhal, canivete</td></tr><tr><td><b>Perfurocontundente</b></td><td>ponta romba e pressão</td><td><b>perfurocontusa</b></td><td><b>projétil de arma de fogo</b>, ponta de guarda-chuva</td></tr><tr><td><b>Cortocontundente</b></td><td>gume e peso</td><td><b>cortocontusa</b></td><td>machado, facão, foice, dentes</td></tr></tbody></table>\n<h3>2. Lesões contusas</h3>\n<ul><li><b>Escoriação</b>: arrancamento da <b>epiderme</b>, expondo a derme (o \"ralado\"). <b>Equimose</b>: extravasamento de sangue que <b>infiltra</b> os tecidos <b>sem formar cavidade</b> (o \"roxo\"). <b>Hematoma</b>: sangue extravasado que <b>forma cavidade</b> nos tecidos, geralmente com <b>abaulamento</b> (o \"galo\").</li><li><b>Espectro equimótico de Legrand du Saulle</b> (estimativa da idade da lesão): <b>vermelho</b> (1º dia) → <b>violáceo</b> (2º e 3º) → <b>azul</b> (4º a 6º) → <b>esverdeado</b> (7º a 10º) → <b>amarelado</b> (10º a 12º), desaparecendo por volta de <b>15 a 20 dias</b>. Equimoses de <b>cores diferentes</b> no mesmo corpo indicam agressões em <b>momentos diferentes</b>, sinal clássico de <b>maus-tratos repetidos</b>.</li><li><b>Síndrome da criança espancada</b> (Silverman ou Caffey): equimoses de várias idades, <b>fraturas em diferentes fases de consolidação</b>, lesões incompatíveis com a história relatada pelos responsáveis.</li></ul>\n<h3>3. Lesões por projétil de arma de fogo</h3>\n<table class=\"tab\"><thead><tr><th>Elemento</th><th>Características</th></tr></thead><tbody><tr><td><b>Orifício de entrada</b></td><td>geralmente <b>menor</b>, arredondado ou oval, bordas <b>invertidas</b> (para dentro); <b>orla de escoriação/contusão</b> (arrancamento da epiderme pelo projétil) e <b>orla de enxugo</b> (impurezas do projétil deixadas na borda)</td></tr><tr><td><b>Zona de tatuagem</b></td><td><b>grãos de pólvora incrustados</b> na pele; <b>não sai com a lavagem</b>; indica tiro a <b>curta distância</b></td></tr><tr><td><b>Zona de esfumaçamento</b></td><td><b>fuligem</b> depositada sobre a pele; <b>sai com a lavagem</b>; indica tiro a <b>curtíssima distância</b></td></tr><tr><td><b>Tiro encostado</b></td><td><b>câmara de mina de Hoffmann</b> (bordas lacerantes, aspecto estrelado em região com osso logo abaixo) e sinal de <b>Puppe-Werkgaertner</b> (marca da boca do cano)</td></tr><tr><td><b>Orifício de saída</b></td><td>geralmente <b>maior</b>, <b>irregular</b>, bordas <b>evertidas</b> (para fora), <b>sem</b> orlas de escoriação e enxugo e <b>sem</b> tatuagem</td></tr></tbody></table>\n<ul><li><b>Distância do tiro</b>: <b>encostado</b> (câmara de mina); <b>curta distância</b> (dentro do alcance dos resíduos, presença de <b>tatuagem e/ou esfumaçamento</b>); <b>longa distância</b> (só orlas de escoriação e enxugo, sem resíduos da pólvora).</li></ul>\n<h3>4. Lesão corporal e Código Penal</h3>\n<ul><li>O perito descreve; o enquadramento jurídico é do Delegado, do MP e do juiz. A perícia, porém, responde aos <b>quesitos</b> que permitem classificar a lesão (art. 129 do CP): <b>leve</b>; <b>grave</b> (incapacidade para as ocupações habituais por <b>mais de 30 dias</b>, <b>perigo de vida</b>, <b>debilidade permanente</b> de membro, sentido ou função, <b>aceleração de parto</b>); <b>gravíssima</b> (<b>incapacidade permanente</b> para o trabalho, <b>enfermidade incurável</b>, <b>perda ou inutilização</b> de membro, sentido ou função, <b>deformidade permanente</b>, <b>aborto</b>).</li><li><b>Órgãos duplos</b>: perder a visão de <b>um olho</b>, mantendo a do outro, é, em regra, <b>debilidade permanente</b> da função visual (<b>lesão grave</b>), e não perda da função (gravíssima). Perder a visão dos <b>dois</b> olhos é perda (gravíssima).</li><li><b>Deformidade permanente</b>: dano estético <b>visível, irreparável e capaz de causar impressão vexatória</b> (cicatriz extensa no rosto).</li></ul>\n<h3>5. Energias físicas (visão geral)</h3>\n<ul><li><b>Temperatura (calor)</b>: queimaduras de <b>1º grau</b> (<b>eritema</b>: só epiderme, vermelhidão); <b>2º grau</b> (<b>flictenas</b>, \"bolhas\"); <b>3º grau</b> (<b>necrose</b>, escara, atinge planos profundos); <b>4º grau</b> (<b>carbonização</b>). A <b>regra dos 9</b> (Wallace) estima a superfície corporal queimada.</li><li><b>Eletricidade</b>: <b>eletroplessão</b> (natural, <b>raio</b>): pode produzir as <b>figuras de Lichtenberg</b>, desenhos <b>arborescentes</b> na pele; <b>eletrocussão</b> (eletricidade <b>industrial</b>): <b>marca elétrica de Jellinek</b>, lesão endurecida no ponto de entrada da corrente.</li><li><b>Carbonização e vitalidade</b>: se a vítima <b>estava viva</b> no incêndio, respirou a fumaça: encontra-se <b>fuligem na traqueia e nos brônquios</b> e <b>carboxiemoglobina elevada</b> no sangue. A ausência desses sinais sugere que já estava morta (incêndio para ocultar homicídio).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A faca é instrumento cortante</span><br>✅ <span class=\"certo\">É PERFUROCORTANTE (lesão perfuroincisa).</span></li><li>❌ <span class=\"banca\">O projétil é perfurante</span><br>✅ <span class=\"certo\">É PERFUROCONTUNDENTE.</span></li><li>❌ <span class=\"banca\">A tatuagem sai com a lavagem</span><br>✅ <span class=\"certo\">A tatuagem (pólvora incrustada) não sai; o esfumaçamento (fuligem) sai.</span></li><li>❌ <span class=\"banca\">Equimose forma cavidade</span><br>✅ <span class=\"certo\">Quem forma cavidade é o hematoma.</span></li><li>❌ <span class=\"banca\">Perder a visão de um olho é lesão gravíssima</span><br>✅ <span class=\"certo\">Em regra, debilidade: lesão grave.</span></li><li>❌ <span class=\"banca\">Queimadura de 1º grau forma bolhas</span><br>✅ <span class=\"certo\">Bolhas (flictenas) são de 2º grau.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Faca?</span></span><span class=\"vs\"><span><b>Perfurocortante</b> → perfuroincisa.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Projétil?</span></span><span class=\"vs\"><span><b>Perfurocontundente</b> → perfurocontusa.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Machado?</span></span><span class=\"vs\"><span><b>Cortocontundente</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equimose x hematoma?</span></span><span class=\"vs\"><span>Infiltra <b>sem</b> cavidade x <b>forma</b> cavidade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Espectro equimótico?</span></span><span class=\"vs\"><span>Vermelho, violáceo, azul, verde, amarelo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tatuagem?</span></span><span class=\"vs\"><span><b>Pólvora incrustada</b>; não sai; curta distância.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Câmara de mina?</span></span><span class=\"vs\"><span>Tiro <b>encostado</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Figuras de Lichtenberg?</span></span><span class=\"vs\"><span><b>Raio</b> (eletroplessão).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O corpo no carro queimado</b><p>Um corpo carbonizado é encontrado em veículo incendiado. A necropsia revela fuligem na traqueia e nos brônquios e carboxiemoglobina elevada. Em outro caso semelhante, não há fuligem nas vias aéreas e há um orifício de entrada com zona de tatuagem no crânio.</p><details><summary>Ver a solução comentada</summary><p>No primeiro caso, os sinais indicam que a vítima <b>estava viva</b> durante o incêndio (respirou a fumaça): <b>reação vital</b>. No segundo, a ausência de fuligem sugere que a vítima <b>já estava morta</b> quando o carro foi incendiado, e a <b>zona de tatuagem</b> indica <b>tiro a curta distância</b>: provável <b>homicídio com incêndio para ocultar o crime</b>.</p></details></div>",
