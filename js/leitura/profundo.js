@@ -8495,8 +8495,715 @@ export const PROFUNDO = {
 "ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1</b><span>perito oficial com diploma de curso superior (CPP, art. 159)</span></div><div class=\"lt-stat\"><b>10 dias</b><span>prazo do laudo, prorrogável (art. 160, p. único)</span></div><div class=\"lt-stat\"><b>6</b><span>partes clássicas do relatório médico-legal</span></div><div class=\"lt-stat\"><b>72 h</b><span>janela ideal para coleta em crimes sexuais</span></div></div>\n<h3>1. Medicina Legal e perícia</h3>\n<ul><li><b>Medicina Legal</b> é a aplicação dos conhecimentos médicos e biológicos ao Direito. <b>Perícia</b> é o exame técnico feito por especialista para esclarecer fato de interesse da Justiça. O <b>perito</b> é auxiliar da Justiça e está sujeito às mesmas <b>suspeições e impedimentos</b> dos juízes (CPP, art. 280).</li><li><b>Corpo de delito</b> é o conjunto de <b>vestígios materiais</b> da infração. <b>Exame de corpo de delito</b> é a perícia sobre esses vestígios: <b>direto</b> (sobre o próprio vestígio) ou <b>indireto</b> (com base em prontuários, fichas, testemunhas qualificadas).</li></ul>\n<h3>2. Regras do CPP (arts. 158 a 184)</h3>\n<table class=\"tab\"><thead><tr><th>Regra</th><th>Conteúdo</th></tr></thead><tbody><tr><td><b>Indispensabilidade</b> (art. 158)</td><td>quando a infração deixar vestígios, o exame de corpo de delito é <b>indispensável</b> e <b>não pode ser suprido pela confissão</b> do acusado</td></tr><tr><td><b>Supressão por testemunhas</b> (art. 167)</td><td>se os vestígios <b>desapareceram</b>, a <b>prova testemunhal</b> pode suprir a falta do exame</td></tr><tr><td><b>Perito</b> (art. 159)</td><td><b>1 perito oficial</b> com diploma de curso superior; na falta, <b>2 pessoas idôneas</b> com diploma superior, preferencialmente na área, que prestam <b>compromisso</b> de bem e fielmente desempenhar o encargo</td></tr><tr><td><b>Quesitos e assistente técnico</b> (art. 159, § 3º)</td><td>facultados ao MP, ao assistente de acusação, ao ofendido, ao querelante e ao acusado; o assistente atua <b>após a conclusão</b> do laudo oficial</td></tr><tr><td><b>Prazo</b> (art. 160)</td><td>laudo em <b>10 dias</b>, prorrogável em casos excepcionais</td></tr><tr><td><b>Autópsia</b> (art. 162)</td><td><b>pelo menos 6 horas</b> após o óbito, salvo evidência dos sinais de morte; basta <b>exame externo</b> em morte violenta sem infração a apurar ou quando as lesões externas bastarem</td></tr><tr><td><b>Cadáveres</b> (art. 164)</td><td>serão <b>sempre fotografados na posição em que forem encontrados</b></td></tr><tr><td><b>Exumação</b> (art. 163)</td><td>em dia e hora previamente marcados, lavrando-se auto circunstanciado</td></tr><tr><td><b>Lesões</b> (art. 168)</td><td>exame <b>complementar</b>; para a incapacidade por <b>mais de 30 dias</b>, o exame deve ser feito logo que decorrido esse prazo</td></tr><tr><td><b>Liberdade do juiz</b> (art. 182)</td><td>o juiz <b>não fica adstrito</b> ao laudo</td></tr></tbody></table>\n<ul><li><b>Prioridade</b> (art. 158, p. único): o exame terá prioridade em crimes com <b>violência doméstica contra a mulher</b> e violência contra <b>criança, adolescente, idoso ou pessoa com deficiência</b>.</li></ul>\n<h3>3. Documentos médico-legais</h3>\n<table class=\"tab\"><thead><tr><th>Documento</th><th>O que é</th></tr></thead><tbody><tr><td><b>Notificação</b></td><td>comunicação <b>compulsória</b> à autoridade de fatos de interesse público (doenças de notificação obrigatória, violência contra a mulher, maus-tratos a crianças)</td></tr><tr><td><b>Atestado</b></td><td>afirmação <b>simples e por escrito</b> de um fato médico e suas consequências; o <b>atestado médico falso</b> dado por médico no exercício da profissão é <b>crime</b> (CP, art. 302)</td></tr><tr><td><b>Relatório médico-legal</b></td><td>descrição minuciosa da perícia: chama-se <b>auto</b> quando ditado ao escrivão na presença da autoridade, e <b>laudo</b> quando redigido pelo próprio perito</td></tr><tr><td><b>Parecer</b> (consulta médico-legal)</td><td>opinião de especialista sobre perícia já feita, a pedido de uma parte</td></tr><tr><td><b>Depoimento oral</b></td><td>esclarecimentos do perito em audiência</td></tr></tbody></table>\n<h3>4. Estrutura do relatório (laudo)</h3>\n<div class=\"lt-fluxo\"><span>Preâmbulo (qualificação, autoridade, objetivo)</span> <em>→</em> <span>Quesitos</span> <em>→</em> <span>Histórico ou comemorativo (relato dos fatos pelo examinado)</span> <em>→</em> <span>Descrição (o que o perito viu: visum et repertum)</span> <em>→</em> <span>Discussão (análise e hipóteses)</span> <em>→</em> <span>Conclusão</span> <em>→</em> <span>Respostas aos quesitos</span></div>\n<ul><li>A <b>descrição</b> é a <b>parte mais importante</b>: o perito relata minuciosamente o que observou, de forma objetiva, sem opinião. Uma lesão mal descrita não pode ser reavaliada depois que cicatriza.</li></ul>\n<h3>5. Perícias de identificação e locais de crime</h3>\n<ul><li><b>Local de crime</b>: deve ser <b>isolado e preservado</b> (CPP, art. 6º, I, e cadeia de custódia, arts. 158-A a 158-F). Locais <b>idôneos</b> (preservados) e <b>inidôneos</b> (alterados). A <b>cadeia de custódia</b> documenta o vestígio do reconhecimento ao descarte.</li><li><b>Crimes sexuais</b>: o exame deve ser feito o quanto antes (idealmente em até <b>72 horas</b>), com coleta de material para <b>sêmen</b> e <b>DNA</b> e pesquisa de substâncias (drogas que facilitam o abuso).</li><li><b>Embriaguez</b>: exame <b>clínico</b> (comportamento, hálito, marcha, fala) e <b>laboratorial</b> (dosagem no sangue).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O exame de corpo de delito exige dois peritos oficiais</span><br>✅ <span class=\"certo\">Basta um perito oficial.</span></li><li>❌ <span class=\"banca\">Os peritos não oficiais dispensam compromisso</span><br>✅ <span class=\"certo\">Prestam compromisso.</span></li><li>❌ <span class=\"banca\">O juiz está vinculado ao laudo</span><br>✅ <span class=\"certo\">Não fica adstrito (art. 182).</span></li><li>❌ <span class=\"banca\">Atestado médico falso não é crime</span><br>✅ <span class=\"certo\">É crime (CP, art. 302).</span></li><li>❌ <span class=\"banca\">A parte mais importante do laudo é a conclusão</span><br>✅ <span class=\"certo\">É a DESCRIÇÃO (visum et repertum).</span></li><li>❌ <span class=\"banca\">A confissão supre o exame</span><br>✅ <span class=\"certo\">Não supre; testemunhas suprem se os vestígios sumiram.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perito?</span></span><span class=\"vs\"><span><b>1 oficial</b> ou <b>2 não oficiais</b> com curso superior e compromisso.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do laudo?</span></span><span class=\"vs\"><span><b>10 dias</b>, prorrogável.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Autópsia?</span></span><span class=\"vs\"><span>Após <b>6 horas</b>, salvo evidência de morte.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cadáver?</span></span><span class=\"vs\"><span>Sempre <b>fotografado</b> na posição encontrada.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parte mais importante do laudo?</span></span><span class=\"vs\"><span><b>Descrição</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Auto x laudo?</span></span><span class=\"vs\"><span>Auto: <b>ditado</b> ao escrivão; laudo: <b>redigido</b> pelo perito.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parecer?</span></span><span class=\"vs\"><span>Opinião de especialista sobre perícia <b>já feita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vestígios desapareceram?</span></span><span class=\"vs\"><span><b>Prova testemunhal</b> supre.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A comarca sem IML</b><p>Em comarca do interior sem perito oficial, uma mulher chega à delegacia com lesões no rosto, dizendo ter sido agredida pelo companheiro.</p><details><summary>Ver a solução comentada</summary><p>O exame de corpo de delito é <b>indispensável</b> (art. 158) e tem <b>prioridade</b> por se tratar de violência doméstica contra a mulher. Sem perito oficial, o Delegado nomeia <b>duas pessoas idôneas</b> com diploma de curso superior, <b>preferencialmente médicos</b>, que prestam <b>compromisso</b> (art. 159, § 1º). Se as lesões puderem gerar incapacidade por mais de 30 dias, deve-se agendar <b>exame complementar</b>.</p></details></div><div class=\"lt-stats\"><div class=\"lt-stat\"><b>1</b><span>perito oficial com diploma superior basta (CPP, art. 159)</span></div><div class=\"lt-stat\"><b>10 dias</b><span>prazo do laudo, prorrogável</span></div><div class=\"lt-stat\"><b>6 h</b><span>após o óbito, em regra, para a necropsia</span></div></div>\n<h3>1. Perícia e peritos no CPP</h3>\n<ul><li><b>Exame de corpo de delito</b> (art. 158): <b>indispensável</b> quando a infração <b>deixa vestígios</b>, direto (sobre o próprio vestígio) ou indireto (por testemunhas, documentos), <b>não podendo supri-lo a confissão</b>. Tem <b>prioridade</b> quando envolve violência doméstica e familiar contra a mulher, ou violência contra criança, adolescente, idoso ou pessoa com deficiência.</li><li><b>Quem faz</b> (art. 159): <b>um perito oficial</b> portador de diploma de curso superior. Na falta, <b>duas pessoas idôneas</b>, com diploma superior, preferencialmente na área, que prestam compromisso.</li><li><b>Assistente técnico</b>: indicado pelas partes, atua <b>após</b> a admissão pelo juiz e a <b>conclusão</b> dos exames pelos oficiais; não participa do exame inicial no inquérito.</li><li>O laudo é elaborado em <b>até 10 dias</b>, prorrogável em casos excepcionais (art. 160). O juiz <b>não fica adstrito</b> ao laudo: pode aceitá-lo ou rejeitá-lo, no todo ou em parte (art. 182).</li><li><b>Necropsia</b>: pelo menos <b>6 horas</b> depois do óbito, salvo se os peritos, pela evidência dos sinais de morte, julgarem possível fazê-la antes (art. 162). <b>Exumação</b>: em dia e hora previamente marcados pela autoridade (art. 163).</li><li><b>Lesão corporal grave</b> por incapacidade para as ocupações habituais por mais de 30 dias: o <b>exame complementar</b> é feito logo que decorra o prazo de <b>30 dias</b> da data do crime; sua falta pode ser suprida por <b>prova testemunhal</b> (art. 168).</li><li>A <b>Lei 12.030/2009</b> garante às perícias oficiais <b>autonomia técnica, científica e funcional</b> e define como peritos de natureza criminal os <b>peritos criminais</b>, <b>peritos médico-legistas</b> e <b>peritos odontolegistas</b>.</li></ul>\n<h3>2. Documentos médico-legais</h3>\n<table class=\"tab\"><thead><tr><th>Documento</th><th>O que é</th></tr></thead><tbody><tr><td><b>Notificação</b></td><td>comunicação compulsória de fato à autoridade (doenças, violência contra mulher, criança, idoso)</td></tr><tr><td><b>Atestado</b></td><td>afirmação simples e escrita de um fato médico e suas consequências</td></tr><tr><td><b>Relatório médico-legal</b></td><td>descrição minuciosa da perícia: é <b>auto</b> quando ditado ao escrivão, e <b>laudo</b> quando redigido pelos próprios peritos</td></tr><tr><td><b>Parecer</b></td><td>resposta de especialista a consulta sobre ponto controvertido, <b>sem exame direto</b>; vale pela autoridade de quem o assina</td></tr><tr><td>Depoimento oral</td><td>esclarecimentos do perito em audiência</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Partes do laudo</th><th>Conteúdo</th></tr></thead><tbody><tr><td>Preâmbulo</td><td>quem, quando, onde, a pedido de quem</td></tr><tr><td>Quesitos</td><td>perguntas da autoridade</td></tr><tr><td>Histórico (comemorativo)</td><td>relato do fato pelo periciando ou pela autoridade</td></tr><tr><td><b>Descrição</b></td><td>o \"visum et repertum\": o que foi visto e achado — a parte <b>mais importante</b></td></tr><tr><td>Discussão</td><td>análise das hipóteses</td></tr><tr><td>Conclusão</td><td>síntese</td></tr><tr><td>Respostas aos quesitos</td><td>objetivas</td></tr></tbody></table>\n<h3>3. Quesitos oficiais da lesão corporal</h3>\n<ul><li>1º Houve ofensa à integridade corporal ou à saúde? 2º Qual o instrumento ou meio que a produziu? 3º Foi produzida por veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel? 4º Resultou <b>incapacidade</b> para as ocupações habituais por mais de <b>30 dias</b>? 5º Resultou <b>perigo de vida</b>? 6º Resultou <b>debilidade permanente</b> de membro, sentido ou função? 7º Resultou incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, sentido ou função, ou <b>deformidade permanente</b>? 8º Resultou aceleração de parto ou <b>aborto</b>?</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>4. Ética e perícia</h3>\n<ul><li>O médico <b>não pode ser perito de paciente seu</b>, de pessoa de sua família ou de quem tenha relação capaz de influir no trabalho (Código de Ética Médica). O perito deve ser <b>imparcial</b>, respeitar o <b>sigilo</b> e a <b>dignidade</b> do periciando e não pode ser obrigado a fazer exame invasivo sem consentimento.</li><li>O periciando não é obrigado a produzir prova contra si (exame de sangue, bafômetro), mas pode ser identificado e examinado externamente. A coleta de <b>perfil genético</b> é obrigatória para condenados por certos crimes (LEP, art. 9º-A).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A confissão supre o exame de corpo de delito</span><br>✅ <span class=\"certo\">Não supre (art. 158).</span></li><li>❌ <span class=\"banca\">São sempre necessários dois peritos oficiais</span><br>✅ <span class=\"certo\">Basta UM perito oficial; dois só se forem não oficiais.</span></li><li>❌ <span class=\"banca\">O juiz deve seguir o laudo</span><br>✅ <span class=\"certo\">O juiz não fica adstrito ao laudo (art. 182).</span></li><li>❌ <span class=\"banca\">Parecer é o documento feito após o exame direto da vítima</span><br>✅ <span class=\"certo\">Parecer responde a consulta, SEM exame direto.</span></li><li>❌ <span class=\"banca\">A necropsia pode ser feita a qualquer momento após a morte</span><br>✅ <span class=\"certo\">Regra: pelo menos 6 horas depois.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem faz o exame?</span></span><span class=\"vs\"><span><b>1 perito oficial</b> com diploma superior (ou 2 pessoas idôneas).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Confissão supre exame?</span></span><span class=\"vs\"><span><b>Não</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do laudo?</span></span><span class=\"vs\"><span><b>10 dias</b>, prorrogável.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Auto x laudo?</span></span><span class=\"vs\"><span><b>Auto</b>: ditado ao escrivão. <b>Laudo</b>: redigido pelos peritos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parte mais importante do laudo?</span></span><span class=\"vs\"><span><b>Descrição</b> (visum et repertum).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exame complementar da lesão grave?</span></span><span class=\"vs\"><span>Após <b>30 dias</b>; supre-se por <b>testemunhas</b>.</span></span></button></div></div>"
 },
 "traumatologia": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>6</b><span>tipos de instrumentos mecânicos (punctórios, cortantes, contundentes e mistos)</span></div><div class=\"lt-stat\"><b>4</b><span>zonas do tiro a curta distância: orla de escoriação, orla de enxugo, tatuagem e esfumaçamento</span></div><div class=\"lt-stat\"><b>~15 a 20 dias</b><span>tempo para a equimose desaparecer (espectro equimótico)</span></div><div class=\"lt-stat\"><b>4</b><span>graus de queimadura</span></div></div>\n<h3>1. Traumatologia: energias e instrumentos</h3>\n<ul><li>Estuda as <b>lesões</b> produzidas por <b>energias</b>: <b>mecânicas</b> (instrumentos), <b>físicas</b> (calor, frio, eletricidade, radiação, pressão), <b>químicas</b> (cáusticos, venenos), <b>físico-químicas</b> (asfixias), <b>bioquímicas</b> e <b>biodinâmicas</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instrumento</th><th>Como age</th><th>Lesão</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Perfurante</b> (punctório)</td><td>ponta, pressão</td><td><b>puntiforme</b> (punctória)</td><td>agulha, prego, furador de gelo</td></tr><tr><td><b>Cortante</b></td><td>gume, deslizamento</td><td><b>incisa</b>: bordas regulares, mais longa que profunda, cauda de escoriação</td><td>navalha, bisturi, caco de vidro</td></tr><tr><td><b>Contundente</b></td><td>pressão, choque, sem ponta nem gume</td><td><b>contusa</b>: escoriação, equimose, hematoma, fratura, ferida contusa de bordas irregulares</td><td>soco, pedaço de pau, queda, atropelamento</td></tr><tr><td><b>Perfurocortante</b></td><td>ponta e gume</td><td><b>perfuroincisa</b></td><td>faca, punhal, canivete</td></tr><tr><td><b>Perfurocontundente</b></td><td>ponta romba e pressão</td><td><b>perfurocontusa</b></td><td><b>projétil de arma de fogo</b>, ponta de guarda-chuva</td></tr><tr><td><b>Cortocontundente</b></td><td>gume e peso</td><td><b>cortocontusa</b></td><td>machado, facão, foice, dentes</td></tr></tbody></table>\n<h3>2. Lesões contusas</h3>\n<ul><li><b>Escoriação</b>: arrancamento da <b>epiderme</b>, expondo a derme (o \"ralado\"). <b>Equimose</b>: extravasamento de sangue que <b>infiltra</b> os tecidos <b>sem formar cavidade</b> (o \"roxo\"). <b>Hematoma</b>: sangue extravasado que <b>forma cavidade</b> nos tecidos, geralmente com <b>abaulamento</b> (o \"galo\").</li><li><b>Espectro equimótico de Legrand du Saulle</b> (estimativa da idade da lesão): <b>vermelho</b> (1º dia) → <b>violáceo</b> (2º e 3º) → <b>azul</b> (4º a 6º) → <b>esverdeado</b> (7º a 10º) → <b>amarelado</b> (10º a 12º), desaparecendo por volta de <b>15 a 20 dias</b>. Equimoses de <b>cores diferentes</b> no mesmo corpo indicam agressões em <b>momentos diferentes</b>, sinal clássico de <b>maus-tratos repetidos</b>.</li><li><b>Síndrome da criança espancada</b> (Silverman ou Caffey): equimoses de várias idades, <b>fraturas em diferentes fases de consolidação</b>, lesões incompatíveis com a história relatada pelos responsáveis.</li></ul>\n<h3>3. Lesões por projétil de arma de fogo</h3>\n<table class=\"tab\"><thead><tr><th>Elemento</th><th>Características</th></tr></thead><tbody><tr><td><b>Orifício de entrada</b></td><td>geralmente <b>menor</b>, arredondado ou oval, bordas <b>invertidas</b> (para dentro); <b>orla de escoriação/contusão</b> (arrancamento da epiderme pelo projétil) e <b>orla de enxugo</b> (impurezas do projétil deixadas na borda)</td></tr><tr><td><b>Zona de tatuagem</b></td><td><b>grãos de pólvora incrustados</b> na pele; <b>não sai com a lavagem</b>; indica tiro a <b>curta distância</b></td></tr><tr><td><b>Zona de esfumaçamento</b></td><td><b>fuligem</b> depositada sobre a pele; <b>sai com a lavagem</b>; indica tiro a <b>curtíssima distância</b></td></tr><tr><td><b>Tiro encostado</b></td><td><b>câmara de mina de Hoffmann</b> (bordas lacerantes, aspecto estrelado em região com osso logo abaixo) e sinal de <b>Puppe-Werkgaertner</b> (marca da boca do cano)</td></tr><tr><td><b>Orifício de saída</b></td><td>geralmente <b>maior</b>, <b>irregular</b>, bordas <b>evertidas</b> (para fora), <b>sem</b> orlas de escoriação e enxugo e <b>sem</b> tatuagem</td></tr></tbody></table>\n<ul><li><b>Distância do tiro</b>: <b>encostado</b> (câmara de mina); <b>curta distância</b> (dentro do alcance dos resíduos, presença de <b>tatuagem e/ou esfumaçamento</b>); <b>longa distância</b> (só orlas de escoriação e enxugo, sem resíduos da pólvora).</li></ul>\n<h3>4. Lesão corporal e Código Penal</h3>\n<ul><li>O perito descreve; o enquadramento jurídico é do Delegado, do MP e do juiz. A perícia, porém, responde aos <b>quesitos</b> que permitem classificar a lesão (art. 129 do CP): <b>leve</b>; <b>grave</b> (incapacidade para as ocupações habituais por <b>mais de 30 dias</b>, <b>perigo de vida</b>, <b>debilidade permanente</b> de membro, sentido ou função, <b>aceleração de parto</b>); <b>gravíssima</b> (<b>incapacidade permanente</b> para o trabalho, <b>enfermidade incurável</b>, <b>perda ou inutilização</b> de membro, sentido ou função, <b>deformidade permanente</b>, <b>aborto</b>).</li><li><b>Órgãos duplos</b>: perder a visão de <b>um olho</b>, mantendo a do outro, é, em regra, <b>debilidade permanente</b> da função visual (<b>lesão grave</b>), e não perda da função (gravíssima). Perder a visão dos <b>dois</b> olhos é perda (gravíssima).</li><li><b>Deformidade permanente</b>: dano estético <b>visível, irreparável e capaz de causar impressão vexatória</b> (cicatriz extensa no rosto).</li></ul>\n<h3>5. Energias físicas (visão geral)</h3>\n<ul><li><b>Temperatura (calor)</b>: queimaduras de <b>1º grau</b> (<b>eritema</b>: só epiderme, vermelhidão); <b>2º grau</b> (<b>flictenas</b>, \"bolhas\"); <b>3º grau</b> (<b>necrose</b>, escara, atinge planos profundos); <b>4º grau</b> (<b>carbonização</b>). A <b>regra dos 9</b> (Wallace) estima a superfície corporal queimada.</li><li><b>Eletricidade</b>: <b>eletroplessão</b> (natural, <b>raio</b>): pode produzir as <b>figuras de Lichtenberg</b>, desenhos <b>arborescentes</b> na pele; <b>eletrocussão</b> (eletricidade <b>industrial</b>): <b>marca elétrica de Jellinek</b>, lesão endurecida no ponto de entrada da corrente.</li><li><b>Carbonização e vitalidade</b>: se a vítima <b>estava viva</b> no incêndio, respirou a fumaça: encontra-se <b>fuligem na traqueia e nos brônquios</b> e <b>carboxiemoglobina elevada</b> no sangue. A ausência desses sinais sugere que já estava morta (incêndio para ocultar homicídio).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A faca é instrumento cortante</span><br>✅ <span class=\"certo\">É PERFUROCORTANTE (lesão perfuroincisa).</span></li><li>❌ <span class=\"banca\">O projétil é perfurante</span><br>✅ <span class=\"certo\">É PERFUROCONTUNDENTE.</span></li><li>❌ <span class=\"banca\">A tatuagem sai com a lavagem</span><br>✅ <span class=\"certo\">A tatuagem (pólvora incrustada) não sai; o esfumaçamento (fuligem) sai.</span></li><li>❌ <span class=\"banca\">Equimose forma cavidade</span><br>✅ <span class=\"certo\">Quem forma cavidade é o hematoma.</span></li><li>❌ <span class=\"banca\">Perder a visão de um olho é lesão gravíssima</span><br>✅ <span class=\"certo\">Em regra, debilidade: lesão grave.</span></li><li>❌ <span class=\"banca\">Queimadura de 1º grau forma bolhas</span><br>✅ <span class=\"certo\">Bolhas (flictenas) são de 2º grau.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Faca?</span></span><span class=\"vs\"><span><b>Perfurocortante</b> → perfuroincisa.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Projétil?</span></span><span class=\"vs\"><span><b>Perfurocontundente</b> → perfurocontusa.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Machado?</span></span><span class=\"vs\"><span><b>Cortocontundente</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equimose x hematoma?</span></span><span class=\"vs\"><span>Infiltra <b>sem</b> cavidade x <b>forma</b> cavidade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Espectro equimótico?</span></span><span class=\"vs\"><span>Vermelho, violáceo, azul, verde, amarelo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tatuagem?</span></span><span class=\"vs\"><span><b>Pólvora incrustada</b>; não sai; curta distância.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Câmara de mina?</span></span><span class=\"vs\"><span>Tiro <b>encostado</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Figuras de Lichtenberg?</span></span><span class=\"vs\"><span><b>Raio</b> (eletroplessão).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O corpo no carro queimado</b><p>Um corpo carbonizado é encontrado em veículo incendiado. A necropsia revela fuligem na traqueia e nos brônquios e carboxiemoglobina elevada. Em outro caso semelhante, não há fuligem nas vias aéreas e há um orifício de entrada com zona de tatuagem no crânio.</p><details><summary>Ver a solução comentada</summary><p>No primeiro caso, os sinais indicam que a vítima <b>estava viva</b> durante o incêndio (respirou a fumaça): <b>reação vital</b>. No segundo, a ausência de fuligem sugere que a vítima <b>já estava morta</b> quando o carro foi incendiado, e a <b>zona de tatuagem</b> indica <b>tiro a curta distância</b>: provável <b>homicídio com incêndio para ocultar o crime</b>.</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>6</b><span>tipos de instrumentos mecânicos (perfurante, cortante, contundente e os três mistos)</span></div><div class=\"lt-stat\"><b>15 a 20 dias</b><span>para a equimose desaparecer (espectro de Legrand du Saulle)</span></div><div class=\"lt-stat\"><b>30 dias</b><span>marco da lesão grave por incapacidade (CP, art. 129, § 1º, I)</span></div><div class=\"lt-stat\"><b>3</b><span>zonas do tiro a curta distância (chamuscamento, esfumaçamento e tatuagem)</span></div></div>\n<h3>1. Traumatologia forense: conceito e energias</h3>\n<ul><li><b>Traumatologia forense</b> (ou lesonologia) é a parte da Medicina Legal que estuda as <b>lesões corporais</b> e os <b>agentes</b> (energias) que as produzem, com o objetivo de responder à Justiça: <b>houve lesão? Qual o instrumento? Qual a gravidade? Como aconteceu?</b></li><li><b>Lesão</b> (ou trauma) é qualquer <b>dano à integridade corporal ou à saúde</b>, física ou mental, produzido por uma <b>energia externa</b> que atua sobre o corpo.</li><li>As energias que produzem lesões são classificadas, na doutrina brasileira (Genival Veloso de França, a partir de Borri), em grupos:</li></ul>\n<table class=\"tab\"><thead><tr><th>Energia</th><th>Exemplos</th><th>Estudada em</th></tr></thead><tbody><tr><td><b>Mecânica</b></td><td>faca, bala, pau, soco, queda, atropelamento</td><td><b>este tópico</b></td></tr><tr><td><b>Física</b></td><td>temperatura (calor e frio), eletricidade, pressão atmosférica, radiações, luz e som</td><td>Energias de ordem física</td></tr><tr><td><b>Química</b></td><td>cáusticos e venenos</td><td>Energias de ordem química (Toxicologia)</td></tr><tr><td><b>Físico-química</b></td><td>asfixias (enforcamento, afogamento...)</td><td>Asfixiologia</td></tr><tr><td><b>Bioquímica</b></td><td>perturbações alimentares (inanição), autointoxicações, infecções</td><td>Energias de ordem física, biodinâmicas e mistas</td></tr><tr><td><b>Biodinâmica</b></td><td>choque, síndrome de falência múltipla de órgãos</td><td>idem</td></tr><tr><td><b>Mista</b></td><td>fadiga, doenças parasitárias, sevícias (maus-tratos)</td><td>idem</td></tr></tbody></table>\n<ul><li><b>Energia mecânica</b> é a que modifica o <b>estado de repouso ou de movimento</b> de um corpo. Pode atuar de três formas: o <b>instrumento em movimento</b> atinge o corpo parado (soco, facada); o <b>corpo em movimento</b> atinge o instrumento parado (queda contra o chão, choque contra um muro); ou <b>ambos em movimento</b> (colisão de veículos, atropelamento).</li></ul>\n<h3>2. Os instrumentos mecânicos e suas lesões</h3>\n<ul><li>A classificação clássica se baseia no <b>modo de ação</b> do instrumento sobre o corpo: por <b>ponta</b> (pressão concentrada em um ponto), por <b>gume</b> (corte por deslizamento de uma lâmina) ou por <b>superfície</b> (pressão, choque, compressão). Combinando essas formas, temos seis tipos:</li></ul>\n<table class=\"tab\"><thead><tr><th>Instrumento</th><th>Modo de ação</th><th>Lesão produzida</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Perfurante</b></td><td><b>ponta</b>, por pressão, afastando as fibras</td><td>ferida <b>punctória</b> (perfurante)</td><td>agulha, prego, furador de gelo, alfinete, espinho</td></tr><tr><td><b>Cortante</b></td><td><b>gume</b>, por <b>deslizamento</b> e pressão leve</td><td>ferida <b>incisa</b></td><td>navalha, bisturi, lâmina de barbear, caco de vidro</td></tr><tr><td><b>Contundente</b></td><td><b>superfície</b>, por pressão, percussão, compressão, torção, tração, arrasto</td><td>ferida <b>contusa</b> e demais lesões contusas (escoriação, equimose, hematoma, fratura)</td><td>pau, pedra, soco, chute, chão, para-choque</td></tr><tr><td><b>Perfurocortante</b></td><td><b>ponta e gume</b></td><td>ferida <b>perfuroincisa</b></td><td>faca de ponta, punhal, canivete, espada, tesoura aberta</td></tr><tr><td><b>Perfurocontundente</b></td><td><b>ponta romba</b>, por pressão e percussão</td><td>ferida <b>perfurocontusa</b></td><td><b>projétil de arma de fogo</b>, ponta de guarda-chuva, vergalhão</td></tr><tr><td><b>Cortocontundente</b></td><td><b>gume</b> sustentado por <b>peso</b> ou força, cortando e contundindo</td><td>ferida <b>cortocontusa</b></td><td>machado, foice, facão, enxada, <b>dentes</b> (mordida), hélice</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Faca de ponta é instrumento cortante</span><br>✅ <span class=\"certo\">É <b>perfurocortante</b> (ponta e gume); a lesão é <b>perfuroincisa</b></span></li><li>❌ <span class=\"banca\">Projétil de arma de fogo é instrumento perfurante</span><br>✅ <span class=\"certo\">É <b>perfurocontundente</b>; a lesão é <b>perfurocontusa</b></span></li><li>❌ <span class=\"banca\">Machado produz ferida incisa</span><br>✅ <span class=\"certo\">Produz ferida <b>cortocontusa</b> (gume + peso)</span></li><li>❌ <span class=\"banca\">A mordida humana é lesão contusa simples</span><br>✅ <span class=\"certo\">Os dentes agem como instrumento <b>cortocontundente</b>, embora também produzam escoriações e equimoses</span></li></ol></div>\n<h3>3. Instrumentos perfurantes e feridas punctórias</h3>\n<ul><li><b>Características</b>: instrumentos <b>finos, alongados e pontiagudos</b>, de pequeno diâmetro. Agem <b>afastando</b> as fibras dos tecidos, mais do que cortando.</li><li><b>Ferida punctória</b>: <b>orifício de entrada pequeno</b>, às vezes puntiforme, com <b>pouco sangramento externo</b>; <b>profundidade maior que a largura</b> (podem atingir órgãos internos com lesão externa mínima, o que as torna traiçoeiras).</li><li><b>Leis de Filhos</b> (instrumentos perfurantes de <b>médio calibre</b>): <b>1ª lei</b>: as feridas produzidas por instrumentos perfurantes de médio calibre têm <b>forma de fenda</b> (\"botoeira\"), parecida com a ferida produzida por instrumento <b>cortante de dois gumes</b>. <b>2ª lei</b>: quando produzidas numa <b>mesma região</b> do corpo, em que as <b>linhas de força</b> da pele têm <b>direção única</b>, as fendas têm <b>sempre a mesma direção</b>.</li><li><b>Lei de Langer</b>: na <b>confluência</b> de regiões com <b>linhas de força de direções diferentes</b>, a ferida punctória assume forma de <b>ponta de seta</b>, <b>triângulo</b> ou <b>quadrilátero</b>.</li><li><b>Linhas de Langer</b> são as linhas de tensão da pele. Elas explicam por que um instrumento cilíndrico não deixa um furo redondo, e sim uma fenda: a pele \"abre\" na direção das linhas de força.</li><li><b>Consequência pericial</b>: a forma da ferida punctória <b>não reproduz</b> fielmente a forma do instrumento. Um furador de seção redonda pode deixar uma fenda que parece feita por uma lâmina de dois gumes. O perito deve analisar o <b>conjunto</b> (profundidade, trajeto, região).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O instrumento perfurante cilíndrico sempre deixa orifício redondo</span><br>✅ <span class=\"certo\">Pela <b>1ª lei de Filhos</b>, deixa <b>fenda</b> (botoeira), semelhante à de instrumento de dois gumes</span></li><li>❌ <span class=\"banca\">As leis de Filhos tratam de instrumentos cortantes</span><br>✅ <span class=\"certo\">Tratam de instrumentos <b>perfurantes de médio calibre</b></span></li><li>❌ <span class=\"banca\">Na confluência de linhas de força, a ferida punctória é sempre em fenda</span><br>✅ <span class=\"certo\">Pela <b>lei de Langer</b>, assume forma de <b>ponta de seta, triângulo ou quadrilátero</b></span></li></ol></div>\n<h3>4. Instrumentos cortantes e feridas incisas</h3>\n<ul><li><b>Características</b>: possuem <b>gume</b> (borda afiada) e agem por <b>deslizamento</b>, com pouca pressão. A ferida é produzida pelo <b>corte</b>, não pelo esmagamento.</li></ul>\n<table class=\"tab\"><thead><tr><th>Característica da ferida incisa</th><th>Explicação</th></tr></thead><tbody><tr><td><b>Bordas regulares, lisas</b></td><td>o gume corta de forma limpa</td></tr><tr><td><b>Ausência de pontes de tecido</b></td><td>não sobram fibras unindo as bordas (diferente da ferida contusa)</td></tr><tr><td><b>Comprimento maior que a profundidade</b></td><td>o gume desliza mais do que penetra</td></tr><tr><td><b>Fundo regular</b></td><td>em forma de \"V\" no corte transversal</td></tr><tr><td><b>Hemorragia abundante</b></td><td>os vasos são seccionados de forma limpa e não se retraem bem</td></tr><tr><td><b>Afastamento das bordas</b></td><td>pela retração da pele e dos músculos cortados</td></tr><tr><td><b>Extremidades em ângulo agudo</b>, com <b>cauda de escoriação</b></td><td>a ferida é mais profunda no início e mais <b>superficial no fim</b>, onde o gume vai saindo e deixa uma <b>escoriação</b> (cauda), que indica a <b>direção</b> do golpe</td></tr></tbody></table>\n<ul><li><b>Cauda de escoriação</b>: permite saber em que <b>sentido</b> o instrumento foi puxado: a ferida começa mais profunda e termina em cauda superficial. Essa informação ajuda a saber, por exemplo, se o agressor estava atrás ou na frente da vítima.</li><li><b>Esgorjamento</b>: ferida incisa na região <b>anterior do pescoço</b> (corte da \"garganta\"). <b>Degola</b> (degolamento): ferida na região <b>posterior</b> do pescoço (nuca). <b>Decapitação</b>: separação completa da cabeça.</li></ul>\n<table class=\"tab\"><thead><tr><th>Esgorjamento suicida</th><th>Esgorjamento homicida</th></tr></thead><tbody><tr><td>em regra da <b>esquerda para a direita</b> em destros (o suicida destro puxa a lâmina de um lado ao outro)</td><td>direção variável; muitas vezes da esquerda para a direita quando o agressor está <b>atrás</b> da vítima</td></tr><tr><td><b>lesões de hesitação</b> (ensaio): cortes <b>superficiais e paralelos</b> perto da ferida principal</td><td><b>lesões de defesa</b> nas mãos e antebraços da vítima</td></tr><tr><td>ferida de profundidade irregular, mais profunda no início</td><td>ferida geralmente <b>profunda e única</b>, ou várias, com violência</td></tr></tbody></table>\n<ul><li><b>Lesões de hesitação</b> (ou de ensaio, ou de tentativa): cortes <b>superficiais, paralelos e múltiplos</b>, em regiões acessíveis ao próprio sujeito (punhos, pescoço), sugerindo <b>suicídio</b> ou autolesão.</li><li><b>Lesões de defesa</b>: cortes nas <b>palmas das mãos</b>, nos <b>dedos</b> e na <b>borda dos antebraços</b>, produzidos quando a vítima tenta <b>segurar a lâmina</b> ou <b>se proteger</b>. São fortes indícios de <b>homicídio</b> (ou de agressão por terceiro).</li><li><b>Autolesão para simular agressão</b>: lesões superficiais, em regiões acessíveis à mão dominante, paralelas, sem roupas cortadas no mesmo ponto (a pessoa levanta a roupa antes), sem lesões de defesa. O perito deve comparar as lesões com a versão dada.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Ferida incisa tem bordas irregulares e pontes de tecido</span><br>✅ <span class=\"certo\">Isso é a ferida <b>contusa</b>; a incisa tem bordas <b>regulares</b> e <b>sem pontes</b></span></li><li>❌ <span class=\"banca\">A cauda de escoriação marca o início do corte</span><br>✅ <span class=\"certo\">Marca o <b>fim</b>, onde a lâmina sai da pele, indicando a <b>direção</b> do golpe</span></li><li>❌ <span class=\"banca\">Degola é o corte da parte anterior do pescoço</span><br>✅ <span class=\"certo\">Anterior = <b>esgorjamento</b>; degola é na região <b>posterior</b> (nuca)</span></li><li>❌ <span class=\"banca\">Lesões de defesa sugerem suicídio</span><br>✅ <span class=\"certo\">Sugerem <b>agressão por terceiro</b>; o suicídio sugere <b>lesões de hesitação</b></span></li></ol></div>\n<h3>5. Instrumentos contundentes: o grupo mais variado</h3>\n<ul><li>Agem por <b>superfície</b>, transmitindo energia por <b>pressão, percussão, compressão, descompressão, explosão, deslizamento, torção, tração, arrastamento</b>. São os mais frequentes na prática: socos, chutes, pauladas, quedas, acidentes de trânsito.</li><li>Produzem lesões que vão das mais leves às mais graves: <b>rubefação</b>, <b>escoriação</b>, <b>equimose</b>, <b>hematoma</b>, <b>bossa</b>, <b>ferida contusa</b>, <b>fraturas</b>, <b>luxações</b>, <b>entorses</b>, <b>rupturas de órgãos</b> internos e <b>esmagamentos</b>.</li><li><b>Rubefação</b>: vermelhidão passageira da pele, por <b>vasodilatação</b>, que desaparece em minutos ou horas (exemplo: marca de um tapa). Como é fugaz, muitas vezes já sumiu quando a vítima chega ao IML; por isso o exame deve ser <b>rápido</b>.</li></ul>\n<h3>6. Escoriação</h3>\n<ul><li><b>Escoriação</b> é o <b>arrancamento da epiderme</b> (a camada mais superficial da pele), expondo a derme, por ação <b>tangencial</b> (de raspão) ou de pressão com deslizamento. É a \"ralada\".</li><li><b>Crosta</b>: a escoriação que atinge só a epiderme forma <b>crosta serosa</b> (amarelada, de plasma); se atinge a <b>derme papilar</b> (onde há capilares), forma <b>crosta sero-hemática ou hemática</b> (escura). A crosta cai em cerca de <b>uma a duas semanas</b>, sem deixar cicatriz em regra.</li><li><b>Valor pericial</b>: a escoriação é uma das lesões mais <b>eloquentes</b>: ela <b>reproduz o agente</b> e indica sua <b>direção</b>. Exemplos: <b>estigmas ungueais</b> (marcas de <b>unhas</b>, em forma de meia-lua ou arco, típicas da <b>esganadura</b> e da violência sexual), escoriações em placa nos joelhos e cotovelos (queda), marcas de <b>arrasto</b> (atropelamento), escoriações em linha (cordas, fios).</li><li><b>Reação vital</b>: escoriação produzida em <b>vida</b> forma crosta e tem infiltração; produzida <b>depois da morte</b>, fica com aspecto <b>apergaminhado</b> (seco, amarelado, endurecido), sem crosta e sem reação inflamatória. Isso ajuda a saber se a lesão é <b>ante mortem</b> ou <b>post mortem</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A escoriação atinge a derme profunda</span><br>✅ <span class=\"certo\">Atinge a <b>epiderme</b>, expondo a derme; se atinge a derme papilar, a crosta é <b>hemática</b></span></li><li>❌ <span class=\"banca\">Escoriação post mortem forma crosta normal</span><br>✅ <span class=\"certo\">Fica <b>apergaminhada</b>, sem crosta nem reação vital</span></li><li>❌ <span class=\"banca\">Estigmas ungueais são marcas de dentes</span><br>✅ <span class=\"certo\">São marcas de <b>unhas</b>, típicas da <b>esganadura</b></span></li></ol></div>\n<h3>7. Equimose, hematoma e bossa</h3>\n<ul><li><b>Equimose</b> é a <b>infiltração de sangue</b> nas malhas dos tecidos (<b>extravasamento</b> dos vasos rompidos, sem formar cavidade). É o popular \"roxo\". Só se forma em <b>vida</b> (precisa de circulação), sendo, por isso, sinal de <b>reação vital</b>.</li><li><b>Espectro equimótico de Legrand du Saulle</b>: a equimose muda de cor com o tempo, à medida que a hemoglobina é degradada. A sequência clássica cobrada em prova:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tempo aproximado</th><th>Cor da equimose</th></tr></thead><tbody><tr><td><b>1º dia</b></td><td><b>vermelha</b> (sangue recente)</td></tr><tr><td><b>2º e 3º dias</b></td><td><b>violácea</b></td></tr><tr><td><b>4º ao 6º dia</b></td><td><b>azulada</b></td></tr><tr><td><b>7º ao 10º dia</b></td><td><b>esverdeada</b> (biliverdina)</td></tr><tr><td><b>12º dia em diante</b></td><td><b>amarelada</b> (bilirrubina, hemossiderina)</td></tr><tr><td><b>15 a 20 dias</b></td><td><b>desaparece</b></td></tr></tbody></table>\n<ul><li><b>Atenção</b>: o espectro é <b>aproximado</b>. A velocidade varia com a <b>idade</b>, a <b>profundidade</b>, a <b>extensão</b>, a <b>região</b> (as equimoses das <b>conjuntivas</b>, do olho, ficam <b>vermelhas</b> por muito tempo, porque o oxigênio do ar mantém a hemoglobina oxigenada) e com doenças. Por isso o laudo fala em \"<b>compatível com</b> lesão de tantos dias\".</li><li><b>Formas e nomes</b>: <b>petéquias</b> (pontinhos, do tamanho de cabeça de alfinete, típicos das asfixias); <b>sugilação</b> (pequenas equimoses agrupadas, granulosas, como as do <b>\"chupão\"</b>); <b>víbices</b> (equimoses <b>lineares</b>, em estrias, produzidas por <b>chicote, vara, cinto</b>); <b>sufusão</b> (equimose em <b>lençol</b>, extensa).</li><li><b>Equimose em \"trilho de trem\"</b>: duas faixas paralelas com o <b>centro pálido</b>, produzidas por instrumento <b>cilíndrico</b> (cassetete, bastão, mangueira): o sangue é empurrado para as bordas da área comprimida.</li><li><b>Equimoses a distância</b>: o sangue pode <b>migrar</b> pela gravidade e aparecer longe do ponto do trauma (exemplo: equimose <b>periorbitária</b> \"em óculos\" ou \"olhos de guaxinim\" em fraturas da <b>base do crânio</b>; equimose atrás da orelha, o <b>sinal de Battle</b>, também em fratura de base de crânio).</li><li><b>Hematoma</b>: coleção de sangue que <b>forma uma cavidade</b> nova nos tecidos, com <b>abaulamento</b> (elevação) da pele. É maior e mais profundo que a equimose.</li><li><b>Bossa sanguínea</b>: hematoma que se forma sobre um <b>plano ósseo</b> (como o couro cabeludo sobre o crânio), fazendo um \"galo\".</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A equimose recente é amarelada</span><br>✅ <span class=\"certo\">A recente é <b>vermelha</b>; a amarelada é <b>antiga</b> (12º dia em diante)</span></li><li>❌ <span class=\"banca\">A cor esverdeada aparece no segundo dia</span><br>✅ <span class=\"certo\">Aparece por volta do <b>7º ao 10º dia</b></span></li><li>❌ <span class=\"banca\">Equimose pode se formar depois da morte</span><br>✅ <span class=\"certo\">Equimose é sinal de <b>reação vital</b>: exige circulação</span></li><li>❌ <span class=\"banca\">Víbices são equimoses puntiformes</span><br>✅ <span class=\"certo\">Puntiformes são as <b>petéquias</b>; víbices são <b>lineares</b> (chicote, vara)</span></li><li>❌ <span class=\"banca\">Hematoma e equimose são a mesma coisa</span><br>✅ <span class=\"certo\">O <b>hematoma</b> forma <b>cavidade</b> e abaulamento; a equimose é <b>infiltração</b> sem cavidade</span></li></ol></div>\n<h3>8. Ferida contusa, fraturas e lesões profundas</h3>\n<ul><li><b>Ferida contusa</b>: a pele se <b>rompe</b> por pressão ou choque. Características: <b>bordas irregulares</b>, <b>escoriadas</b> e <b>equimosadas</b>; <b>pontes de tecido</b> (vasos e nervos que resistem e ficam unindo as bordas, no fundo da ferida); <b>fundo irregular</b>; <b>sangramento menor</b> que o da ferida incisa (os vasos são esmagados); <b>ângulos arredondados</b>. É comum sobre <b>saliências ósseas</b> (couro cabeludo, sobrancelha, queixo, canela), onde a pele fica \"presa\" entre o instrumento e o osso e se rompe, às vezes parecendo um corte.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ferida incisa (cortante)</th><th>Ferida contusa (contundente)</th></tr></thead><tbody><tr><td>bordas <b>regulares e lisas</b></td><td>bordas <b>irregulares, escoriadas, equimosadas</b></td></tr><tr><td><b>sem pontes</b> de tecido</td><td><b>com pontes</b> de tecido</td></tr><tr><td>sangramento <b>abundante</b></td><td>sangramento <b>menor</b></td></tr><tr><td>ângulos <b>agudos</b>, com cauda</td><td>ângulos <b>arredondados</b></td></tr><tr><td>fundo <b>regular</b></td><td>fundo <b>irregular</b></td></tr></tbody></table>\n<ul><li><b>Fraturas</b>: rupturas do osso. Podem ser <b>diretas</b> (no ponto do impacto) ou <b>indiretas</b> (longe dele, por torção ou flexão, como a fratura da clavícula em queda sobre a mão espalmada). No <b>crânio</b>, interessam: fraturas <b>lineares</b>, <b>cominutivas</b> (em vários fragmentos), <b>afundamentos</b> (que podem <b>reproduzir a forma</b> do instrumento, como a cabeça de um martelo) e fraturas da <b>base</b> do crânio.</li><li><b>Luxação</b>: o osso <b>sai da articulação</b> (desencaixa). <b>Entorse</b>: estiramento ou ruptura dos ligamentos, sem perda permanente do encaixe.</li><li><b>Lesões internas</b> sem lesão externa visível: o trauma contundente pode <b>romper órgãos</b> (baço, fígado, rins, intestino, pulmões) sem deixar marca relevante na pele, sobretudo no <b>abdome</b>, que é mole. Por isso a <b>necropsia interna</b> é importante, e uma vítima de chute no abdome pode morrer de <b>hemorragia interna</b> com pele quase intacta.</li><li><b>Traumatismo cranioencefálico</b>: o encéfalo pode sofrer <b>concussão</b> (perturbação funcional passageira), <b>contusão</b> (lesão do tecido cerebral), <b>hematomas</b> (<b>extradural</b>, entre o osso e a dura-máter, geralmente por ruptura da <b>artéria meníngea média</b>, com o clássico \"<b>intervalo lúcido</b>\": a vítima fica bem por algumas horas e depois piora; <b>subdural</b>, sob a dura-máter, por ruptura de <b>veias</b>, comum em idosos e no <b>bebê sacudido</b>) e lesões por <b>aceleração e desaceleração</b> (o cérebro bate contra o crânio no ponto do impacto, <b>golpe</b>, e no lado oposto, <b>contragolpe</b>).</li><li><b>Contragolpe</b>: em uma <b>queda</b> de costas com a nuca no chão, as contusões cerebrais podem ser mais graves na região <b>frontal</b> (oposta ao impacto). Esse padrão ajuda a diferenciar a <b>queda</b> (cabeça em movimento que bate em superfície parada, com contragolpe) da <b>agressão</b> com objeto (cabeça parada atingida, com lesão no ponto do golpe).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No hematoma extradural, a vítima piora imediatamente após o trauma</span><br>✅ <span class=\"certo\">É clássico o <b>intervalo lúcido</b>: piora horas depois</span></li><li>❌ <span class=\"banca\">O contragolpe é a lesão no ponto exato do impacto</span><br>✅ <span class=\"certo\">Contragolpe é a lesão no <b>lado oposto</b> ao impacto, típica de <b>quedas</b></span></li><li>❌ <span class=\"banca\">Trauma abdominal grave sempre deixa marca na pele</span><br>✅ <span class=\"certo\">O abdome mole pode ter <b>rupturas internas</b> com pele quase intacta</span></li></ol></div>\n<h3>9. Quedas, precipitação e atropelamento</h3>\n<ul><li><b>Queda</b> (do próprio plano) e <b>precipitação</b> (queda de altura): as lesões dependem da <b>altura</b>, da <b>superfície</b> de impacto e da <b>parte do corpo</b> que bate primeiro. Na precipitação, é típico o contraste entre lesões <b>externas discretas</b> e lesões <b>internas graves</b> (fraturas múltiplas, rupturas de órgãos). Fraturas de <b>calcâneos</b>, <b>pernas</b> e <b>coluna</b> sugerem queda <b>de pé</b>; fraturas de <b>punhos</b> sugerem tentativa de amparar a queda.</li><li><b>Suicídio, homicídio ou acidente?</b> A distância horizontal do corpo em relação ao prédio, as lesões de defesa ou de luta, sinais de arrasto, o local de onde caiu e a investigação de contexto ajudam a responder. A medicina legal descreve; a conclusão sobre a <b>causa jurídica</b> (homicídio, suicídio ou acidente) depende do <b>conjunto</b> da investigação.</li><li><b>Queda de escada x agressão</b>: na queda de escada, as lesões costumam ser <b>múltiplas</b>, em <b>saliências</b> do corpo (testa, cotovelos, joelhos, quadris), em diferentes lados, compatíveis com rolamento; na agressão, predominam lesões <b>concentradas</b> na cabeça e no rosto, lesões de <b>defesa</b> e padrões de objeto. Quedas da própria altura raramente causam lesões graves em adultos saudáveis, mas podem ser fatais em idosos e em pessoas embriagadas (traumatismo craniano). A história deve ser <b>compatível</b> com as lesões; quando não é, o perito registra a incompatibilidade.</li><li><b>Atropelamento</b> clássico: fases de <b>choque</b> (o para-choque atinge as <b>pernas</b> do adulto em pé, causando <b>fraturas</b> na altura do para-choque, o que permite estimar a <b>altura</b> do veículo e se o motorista <b>freou</b>, pois o carro \"abaixa\" a frente na frenagem), <b>queda</b> sobre o capô ou o para-brisa (lesões na cabeça e no tronco), <b>projeção</b> ao solo e, às vezes, <b>arrastamento</b> (escoriações extensas) e <b>passagem</b> do veículo sobre o corpo (esmagamentos, marcas de pneu na pele ou nas roupas).</li><li><b>Lesões de cinto e de volante</b>: nos ocupantes do veículo, a marca do <b>cinto de segurança</b> em diagonal no tórax e no abdome, as lesões do <b>volante</b> no tórax do motorista e do <b>painel</b> nos joelhos ajudam a saber <b>quem dirigia</b> e onde cada um estava sentado.</li></ul>\n<h3>10. Instrumentos perfurocortantes e feridas perfuroincisas</h3>\n<ul><li><b>Características</b>: têm <b>ponta e gume</b> (um, dois ou mais). Penetram pela <b>ponta</b> e cortam pelo <b>gume</b>. A <b>faca de cozinha</b> é o exemplo mais comum.</li><li><b>Ferida perfuroincisa</b>: o <b>orifício de entrada</b> tem a forma de <b>fenda</b> (botoeira); a <b>profundidade</b> é, em regra, <b>maior</b> que o comprimento; o sangramento é <b>abundante</b>, externo e interno.</li></ul>\n<table class=\"tab\"><thead><tr><th>Número de gumes do instrumento</th><th>Aspecto da ferida</th></tr></thead><tbody><tr><td><b>1 gume</b> (faca comum)</td><td>fenda com <b>um ângulo agudo</b> (lado do gume) e <b>outro arredondado</b> ou \"rombo\" (lado do dorso, a parte sem fio)</td></tr><tr><td><b>2 gumes</b> (punhal, adaga)</td><td>fenda com <b>os dois ângulos agudos</b></td></tr><tr><td><b>3 ou mais gumes</b> (lima triangular, espada de seção triangular)</td><td>ferida <b>estrelada</b>, triangular ou com três raios</td></tr></tbody></table>\n<ul><li><b>Comprimento da ferida x largura da lâmina</b>: a ferida na pele pode ser <b>menor</b> que a largura da lâmina (pela elasticidade e retração da pele) ou <b>maior</b> (se a lâmina \"cortou\" ao entrar ou sair, movimento de alavanca). Por isso, a medida da ferida dá só uma <b>ideia aproximada</b> do instrumento.</li><li><b>Profundidade x comprimento da lâmina</b>: a profundidade do trajeto pode ser <b>maior</b> que o comprimento da lâmina, quando o golpe <b>comprime</b> os tecidos moles (como o abdome), que depois voltam à posição. Por isso, uma faca de 10 cm pode produzir um trajeto de 13 cm no abdome.</li><li><b>Cauda de escoriação</b> também aparece na saída da lâmina, indicando a direção do movimento.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Faca de um gume produz ferida com os dois ângulos agudos</span><br>✅ <span class=\"certo\">Um ângulo <b>agudo</b> (gume) e outro <b>arredondado</b> (dorso); dois agudos = <b>dois gumes</b></span></li><li>❌ <span class=\"banca\">A profundidade do trajeto nunca excede o comprimento da lâmina</span><br>✅ <span class=\"certo\">Pode exceder, pela <b>compressão</b> dos tecidos moles</span></li><li>❌ <span class=\"banca\">A largura da ferida é sempre igual à da lâmina</span><br>✅ <span class=\"certo\">Pode ser menor (elasticidade) ou maior (alavanca)</span></li></ol></div>\n<h3>11. Feridas por projétil de arma de fogo (perfurocontusas)</h3>\n<ul><li>O <b>projétil</b> age como instrumento <b>perfurocontundente</b>: penetra pela <b>ponta romba</b>, empurrando e esmagando os tecidos. A ferida tem <b>orifício de entrada</b>, <b>trajeto</b> e, se o projétil sair, <b>orifício de saída</b>.</li><li><b>Orifício de entrada</b> (características gerais, a qualquer distância): em regra <b>menor</b> que o de saída; <b>arredondado</b> (tiro perpendicular) ou <b>ovalado</b> (tiro oblíquo); <b>bordas invertidas</b> (voltadas para dentro); cercado pela <b>orla de contusão e escoriação</b> (anel avermelhado produzido pelo atrito e pela pressão do projétil ao penetrar a pele) e pela <b>orla de enxugo</b> (anel escuro, de resíduos de <b>graxa, sujeira e pólvora</b> que o projétil traz da arma e \"limpa\" na pele). Às vezes há <b>aréola equimótica</b> ao redor.</li><li><b>Tiro oblíquo</b>: a orla de contusão fica <b>mais larga</b> do lado de onde o projétil veio, indicando a <b>direção</b> do disparo.</li><li><b>Elementos que saem da arma junto com o projétil</b> em disparos próximos: <b>chama</b> (gases quentes), <b>fumaça</b> (fuligem) e <b>grãos de pólvora</b> (queimados e não queimados). Eles produzem as <b>zonas</b> (ou <b>halos</b>) do <b>tiro a curta distância</b>, que <b>só existem</b> quando o disparo é feito perto o bastante para que esses elementos alcancem a pele:</li></ul>\n<table class=\"tab\"><thead><tr><th>Zona (tiro a curta distância)</th><th>Causa</th><th>Característica</th></tr></thead><tbody><tr><td><b>Zona de chamuscamento</b> (queimadura)</td><td><b>chama</b> e gases quentes</td><td>queimadura da pele e dos pelos; só em disparo <b>muito próximo</b></td></tr><tr><td><b>Zona de esfumaçamento</b></td><td><b>fumaça</b> (fuligem)</td><td>mancha escura <b>que sai com lavagem</b> (é depósito superficial)</td></tr><tr><td><b>Zona de tatuagem</b></td><td><b>grãos de pólvora</b> que se incrustam na pele</td><td>pontilhado que <b>não sai com lavagem</b> (os grãos estão encravados); é a de <b>maior alcance</b>, permitindo estimar a distância</td></tr></tbody></table>\n<ul><li><b>Classificação pela distância</b> (doutrina): <b>tiro encostado</b> (cano apoiado na pele); <b>tiro a curta distância</b> (ou à queima-roupa: dentro do alcance dos resíduos, com zonas de tatuagem e/ou esfumaçamento); <b>tiro a distância</b> (fora do alcance dos resíduos: só as <b>orlas</b> de contusão e enxugo, sem zonas). A distância exata em que os resíduos deixam de chegar à pele depende da <b>arma</b> e da <b>munição</b>; o perito pode fazer <b>disparos de teste</b> com a mesma arma para comparar.</li><li><b>Tiro encostado</b>: os gases entram <b>sob a pele</b> junto com o projétil. Sinais: ferida de entrada <b>irregular, estrelada</b> e de <b>bordas evertidas</b> quando há <b>osso</b> logo abaixo (os gases se expandem entre a pele e o osso e a pele \"estoura\": é a <b>câmara de mina de Hoffmann</b>); <b>sinal de Werkgaertner</b> (o <b>desenho da boca do cano</b> e da massa de mira <b>impresso na pele</b>, por queimadura ou contusão); <b>sinal de Benassi</b> (<b>fuligem</b> depositada na <b>tábua externa</b> do osso, sob a pele, visível ao rebater o couro cabeludo); geralmente <b>sem zona de tatuagem</b> externa (os resíduos entram na ferida).</li><li><b>Sinal do funil de Bonnet</b> (nos ossos planos, como o <b>crânio</b>): o projétil faz no osso um <b>cone</b> que se <b>abre</b> no sentido do trajeto. No <b>orifício de entrada</b>, a tábua <b>externa</b> tem orifício <b>menor</b> e a tábua <b>interna</b>, maior (bisel <b>interno</b>); no <b>orifício de saída</b>, o contrário (bisel <b>externo</b>). Isso permite saber, olhando o crânio (inclusive de ossadas), <b>de onde para onde</b> foi o tiro.</li><li><b>Orifício de saída</b>: geralmente <b>maior e irregular</b> (o projétil pode estar deformado, girando ou levando fragmentos de osso); <b>bordas evertidas</b> (voltadas para fora); <b>sem orla de contusão, sem orla de enxugo e sem zonas</b> de tatuagem ou esfumaçamento. Sangra mais. <b>Exceção</b>: se a pele no ponto de saída estiver <b>apoiada</b> em superfície firme (parede, cadeira, cinto), pode aparecer uma <b>orla de contusão</b> \"falsa\" na saída (<b>saída apoiada</b>).</li><li><b>Trajeto</b> é o caminho do projétil <b>dentro do corpo</b>; <b>trajetória</b> é o caminho do projétil <b>fora do corpo</b>, da arma até o alvo (estudada pela Balística). O trajeto pode <b>não ser retilíneo</b> (o projétil desvia ao bater em ossos).</li><li><b>Projéteis múltiplos</b> (espingarda de <b>chumbo</b>): a <b>dispersão</b> dos grãos (o \"<b>leque</b>\") aumenta com a distância. Em tiro muito próximo, entra tudo por um <b>orifício único</b> e irregular; à medida que a distância aumenta, aparecem <b>orifícios satélites</b> ao redor e, a distâncias maiores, só grãos espalhados. A medida da área de dispersão permite estimar a distância do disparo.</li><li><b>Projétil retido</b>: deve ser <b>retirado e preservado</b> com cuidado (sem pinças metálicas que risquem as estrias, que são usadas no <b>confronto balístico</b> com a arma suspeita) e entregue na <b>cadeia de custódia</b>.</li><li><b>Residuograma</b> (pesquisa de resíduos de disparo nas mãos do suspeito): busca partículas de chumbo, bário e antimônio. Resultado positivo indica <b>contato com resíduos</b> de disparo (atirou, estava perto de quem atirou ou tocou em arma ou superfície com resíduos); resultado negativo <b>não exclui</b> que tenha atirado (lavagem das mãos, tempo, luvas). É prova <b>indiciária</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Entrada</th><th>Saída</th></tr></thead><tbody><tr><td>em regra <b>menor</b></td><td>em regra <b>maior</b></td></tr><tr><td>bordas <b>invertidas</b></td><td>bordas <b>evertidas</b></td></tr><tr><td><b>orla de contusão e enxugo</b></td><td><b>sem orlas</b> (salvo saída apoiada)</td></tr><tr><td>pode ter <b>zonas</b> (tatuagem, esfumaçamento, chamuscamento) se o tiro foi próximo</td><td><b>nunca</b> tem zonas</td></tr><tr><td>no crânio, bisel <b>interno</b> (funil de Bonnet)</td><td>no crânio, bisel <b>externo</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A zona de esfumaçamento não sai com lavagem</span><br>✅ <span class=\"certo\">A que <b>não sai</b> é a de <b>tatuagem</b> (grãos encravados); a fumaça (esfumaçamento) <b>sai</b></span></li><li>❌ <span class=\"banca\">Orla de enxugo é resultado da queimadura da chama</span><br>✅ <span class=\"certo\">É o anel de <b>sujeira, graxa e resíduos</b> que o projétil deixa ao penetrar</span></li><li>❌ <span class=\"banca\">Câmara de mina de Hoffmann ocorre no orifício de saída</span><br>✅ <span class=\"certo\">Ocorre no <b>tiro encostado</b> sobre <b>plano ósseo</b>, na <b>entrada</b></span></li><li>❌ <span class=\"banca\">No crânio, o orifício de entrada tem bisel externo</span><br>✅ <span class=\"certo\">Na entrada, o bisel é <b>interno</b>; na saída, <b>externo</b> (funil de Bonnet)</span></li><li>❌ <span class=\"banca\">Tiro a distância deixa zona de tatuagem</span><br>✅ <span class=\"certo\">Fora do alcance dos resíduos, só há <b>orlas</b></span></li><li>❌ <span class=\"banca\">Residuograma negativo prova que o suspeito não atirou</span><br>✅ <span class=\"certo\"><b>Não exclui</b>: as mãos podem ter sido lavadas, ou ele pode ter usado luvas</span></li><li>❌ <span class=\"banca\">Trajeto e trajetória são sinônimos</span><br>✅ <span class=\"certo\"><b>Trajeto</b> é dentro do corpo; <b>trajetória</b>, fora dele</span></li></ol></div>\n<h3>12. Instrumentos cortocontundentes e mordeduras</h3>\n<ul><li><b>Instrumentos cortocontundentes</b> têm <b>gume</b> (geralmente pouco afiado) e agem também pelo <b>peso</b> ou pela <b>força</b> do golpe: <b>machado, foice, facão, enxada, cutelo, hélices</b>, e os <b>dentes</b>.</li><li><b>Ferida cortocontusa</b>: bordas relativamente <b>regulares</b> (pelo gume), mas com <b>escoriações e equimoses</b> nas margens (pela contusão); costuma atingir planos <b>profundos</b>, com <b>fraturas</b> subjacentes (o machado \"corta\" o osso). A gravidade costuma ser grande.</li><li><b>Mordedura humana</b>: deixa marcas em <b>arco</b>, com equimoses e escoriações correspondentes aos dentes, às vezes com <b>sucção</b> (sugilação) no centro. Deve ser <b>fotografada com escala</b> e ter coletado <b>swab</b> para <b>DNA da saliva</b> antes de qualquer limpeza. Mordeduras de <b>animais</b> (cães) têm padrão diferente (arcada maior, caninos marcantes, lacerações).</li></ul>\n<h3>13. Lesões vitais e lesões post mortem</h3>\n<ul><li>É essencial saber se a lesão foi produzida <b>em vida</b> (com <b>reação vital</b>) ou <b>depois da morte</b>: um cadáver pode ser ferido para simular um crime, ou sofrer lesões no transporte, na ação de animais, no resgate.</li></ul>\n<table class=\"tab\"><thead><tr><th>Lesão em vida (vital)</th><th>Lesão post mortem</th></tr></thead><tbody><tr><td><b>hemorragia</b> abundante e <b>infiltração</b> de sangue nos tecidos (o sangue impregna as bordas e não sai com lavagem)</td><td>pouca ou nenhuma hemorragia; sangue que <b>sai com lavagem</b>, sem infiltração</td></tr><tr><td><b>coagulação</b> do sangue extravasado</td><td>sangue <b>não coagulado</b> (ou coágulos frouxos)</td></tr><tr><td><b>retração</b> das bordas da ferida (os tecidos vivos se contraem)</td><td>bordas <b>não retraídas</b></td></tr><tr><td><b>equimose</b></td><td>não há equimose verdadeira</td></tr><tr><td><b>reação inflamatória</b> e <b>crosta</b> (se a vítima sobreviveu algum tempo)</td><td>ausência de inflamação; escoriações <b>apergaminhadas</b></td></tr></tbody></table>\n<ul><li><b>Lesões perimortais</b>: produzidas por volta do momento da morte podem ter reação vital <b>mínima</b>, dificultando a conclusão. Exames microscópicos e bioquímicos ajudam, mas nem sempre resolvem.</li></ul>\n<h3>14. Lesão corporal no Código Penal (art. 129) e a leitura médico-legal</h3>\n<ul><li>O <b>art. 129 do CP</b> pune \"ofender a <b>integridade corporal ou a saúde</b> de outrem\". A lesão pode ser <b>física</b> ou <b>mental</b> (um transtorno psíquico provocado pela agressão também é lesão à saúde). Dor sem dano, ou simples vermelhidão passageira, em regra não configura lesão (pode ser <b>vias de fato</b>, contravenção do art. 21 da LCP).</li></ul>\n<table class=\"tab\"><thead><tr><th>Espécie</th><th>Resultado (CP, art. 129)</th><th>Pena</th></tr></thead><tbody><tr><td><b>Leve</b> (<i>caput</i>)</td><td>ofensa à integridade ou à saúde <b>sem</b> os resultados abaixo</td><td>detenção de <b>3 meses a 1 ano</b></td></tr><tr><td><b>Grave</b> (§ 1º)</td><td><b>I</b> – incapacidade para as <b>ocupações habituais por mais de 30 dias</b>; <b>II</b> – <b>perigo de vida</b>; <b>III</b> – <b>debilidade permanente</b> de membro, sentido ou função; <b>IV</b> – <b>aceleração de parto</b></td><td>reclusão de <b>1 a 5 anos</b></td></tr><tr><td><b>Gravíssima</b> (§ 2º)</td><td><b>I</b> – <b>incapacidade permanente para o trabalho</b>; <b>II</b> – <b>enfermidade incurável</b>; <b>III</b> – <b>perda ou inutilização</b> de membro, sentido ou função; <b>IV</b> – <b>deformidade permanente</b>; <b>V</b> – <b>aborto</b></td><td>reclusão de <b>2 a 8 anos</b></td></tr><tr><td><b>Seguida de morte</b> (§ 3º)</td><td>a morte resulta <b>culposamente</b> (o agente não quis nem assumiu o risco de matar)</td><td>reclusão de <b>4 a 12 anos</b></td></tr><tr><td><b>Culposa</b> (§ 6º)</td><td>lesão por imprudência, negligência ou imperícia</td><td>detenção de <b>2 meses a 1 ano</b></td></tr></tbody></table>\n<ul><li>O médico-legista <b>não classifica o crime</b>: ele <b>responde aos quesitos</b> (há incapacidade por mais de 30 dias? houve perigo de vida? há debilidade permanente?), e o <b>juiz</b> faz o <b>enquadramento jurídico</b>. Mas o legista precisa conhecer os conceitos para responder com precisão.</li></ul>\n<table class=\"tab\"><thead><tr><th>Expressão do CP</th><th>Interpretação médico-legal</th></tr></thead><tbody><tr><td><b>Incapacidade para as ocupações habituais</b></td><td>impossibilidade de exercer as <b>atividades rotineiras</b> (não só o trabalho remunerado); vale para criança, aposentado, desempregado; conta-se <b>da data do crime</b>; comprovada no <b>exame complementar</b> após 30 dias (CPP, art. 168, § 2º)</td></tr><tr><td><b>Perigo de vida</b></td><td>probabilidade <b>concreta e imediata</b> de morte, <b>constatada</b> (choque hemorrágico, lesão de órgão vital, necessidade de cirurgia de urgência); <b>não</b> é o perigo hipotético (\"poderia ter matado\")</td></tr><tr><td><b>Membro</b></td><td>braços e pernas (membros superiores e inferiores)</td></tr><tr><td><b>Sentido</b></td><td>visão, audição, olfato, paladar, tato</td></tr><tr><td><b>Função</b></td><td>atividade de um órgão ou sistema (mastigatória, respiratória, reprodutora, locomotora, circulatória...)</td></tr><tr><td><b>Debilidade</b></td><td><b>diminuição</b> da capacidade, permanente (ex.: perda de <b>um olho</b>, de <b>um rim</b>, de <b>dedos</b> sem perda da mão)</td></tr><tr><td><b>Perda</b></td><td><b>ablação</b> (o membro ou órgão deixa de existir: amputação)</td></tr><tr><td><b>Inutilização</b></td><td>o órgão <b>existe</b>, mas <b>não funciona</b> (mão paralisada, perda da função de um membro)</td></tr><tr><td><b>Incapacidade permanente para o trabalho</b></td><td>impossibilidade <b>definitiva</b> de exercer <b>qualquer</b> trabalho (a doutrina majoritária entende trabalho em geral, não só a profissão da vítima)</td></tr><tr><td><b>Enfermidade incurável</b></td><td>doença sem cura com os recursos médicos atuais (ex.: transmissão <b>intencional do HIV</b>, que o STJ já enquadrou como lesão gravíssima)</td></tr><tr><td><b>Deformidade permanente</b></td><td>dano <b>estético</b> <b>visível</b>, <b>considerável</b> e <b>irreparável</b>, que cause impressão vexatória (cicatriz extensa no rosto, perda da orelha); avalia-se também a pessoa e a região</td></tr><tr><td><b>Aceleração de parto</b></td><td>o feto <b>nasce vivo</b> antes do tempo por causa da lesão (grave)</td></tr><tr><td><b>Aborto</b></td><td>a lesão causa a <b>morte do feto</b> (gravíssima); exige que o agente <b>soubesse</b> da gravidez</td></tr></tbody></table>\n<ul><li><b>Órgãos duplos</b> (olhos, rins, ouvidos, testículos, ovários): a perda de <b>um</b> deles, em regra, configura <b>debilidade</b> permanente (a função continua com o outro), e <b>não perda</b> de sentido ou função. A perda dos <b>dois</b> configura <b>perda</b> (gravíssima).</li><li><b>Debilidade x deformidade</b>: são resultados diferentes; a mesma lesão pode gerar os dois (perder um olho causa debilidade da visão e, conforme o caso, deformidade permanente).</li><li><b>Lesão corporal na violência doméstica</b> (art. 129, §§ 9º a 13): o CP prevê formas <b>qualificadas</b> quando a lesão é praticada contra ascendente, descendente, irmão, cônjuge ou companheiro, ou com quem o agente conviva ou tenha convivido, ou prevalecendo-se das relações domésticas, e quando praticada contra a <b>mulher por razões da condição do sexo feminino</b>. A Lei Maria da Penha se aplica, e o laudo ou o <b>prontuário</b> do hospital são meios de prova.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Perder um olho é perda de sentido (gravíssima)</span><br>✅ <span class=\"certo\">Em órgão duplo, em regra é <b>debilidade</b> permanente (grave); perder os dois é perda</span></li><li>❌ <span class=\"banca\">Perigo de vida é a possibilidade abstrata de morte</span><br>✅ <span class=\"certo\">Deve ser <b>concreto</b>, constatado pelo perito</span></li><li>❌ <span class=\"banca\">Incapacidade para ocupações habituais exige trabalho remunerado</span><br>✅ <span class=\"certo\">Abrange <b>atividades rotineiras</b> de qualquer pessoa</span></li><li>❌ <span class=\"banca\">Inutilização é o mesmo que perda</span><br>✅ <span class=\"certo\">Na inutilização, o órgão <b>existe</b> mas não funciona; na perda, há <b>ablação</b></span></li><li>❌ <span class=\"banca\">Aceleração de parto é lesão gravíssima</span><br>✅ <span class=\"certo\">É <b>grave</b> (§ 1º, IV); o <b>aborto</b> é que é gravíssima (§ 2º, V)</span></li><li>❌ <span class=\"banca\">O legista classifica o crime de lesão no laudo</span><br>✅ <span class=\"certo\">O legista <b>responde aos quesitos</b>; o <b>juiz</b> faz o enquadramento</span></li></ol></div>\n<h3>15. Tortura e maus-tratos: o olhar pericial</h3>\n<ul><li><b>Tortura</b> (Lei 9.455/1997): entre outras condutas, constranger alguém com emprego de <b>violência ou grave ameaça</b>, causando-lhe <b>sofrimento físico ou mental</b>, para obter informação, declaração ou confissão, para provocar ação ou omissão criminosa ou em razão de discriminação racial ou religiosa; e submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a <b>intenso sofrimento físico ou mental</b>, como forma de aplicar <b>castigo</b> pessoal ou medida de caráter preventivo.</li><li><b>Lesões sugestivas de tortura</b>: equimoses e escoriações <b>em padrão</b> (algemas, cordas, amarras nos punhos e tornozelos), <b>queimaduras</b> pequenas e redondas (cigarro) ou elétricas, lesões nas <b>plantas dos pés</b> (espancamento, \"falanga\"), lesões <b>em diferentes fases de evolução</b> (equimoses de cores diferentes, sugerindo agressões repetidas), lesões em regiões <b>cobertas</b> pela roupa, <b>suspensão</b> pelos braços (lesões nos ombros e punhos), sufocação com saco plástico (petéquias).</li><li><b>Protocolo de Istambul</b> (ONU): manual internacional para <b>investigar e documentar</b> tortura e maus-tratos, que orienta o exame médico (entrevista, exame minucioso, fotografias, avaliação psicológica) e a <b>interpretação</b> (grau de compatibilidade entre as lesões e o relato). A <b>ausência de lesões</b> visíveis <b>não exclui</b> a tortura: muitos métodos não deixam marca duradoura, e o sofrimento <b>mental</b> também caracteriza o crime.</li><li><b>Exame de preso e de pessoa custodiada</b>: o exame de corpo de delito de quem é preso (no ingresso e na saída de unidades, e quando há alegação de violência) protege o <b>preso</b> contra abusos e protege o <b>agente público</b> contra falsas acusações. O perito deve examinar com <b>privacidade</b> e descrever <b>todas</b> as lesões, com fotografias.</li><li><b>Crianças e idosos</b>: sinais de alerta para violência são lesões <b>incompatíveis com a história</b> contada pelos responsáveis (uma \"queda do sofá\" que produz fraturas múltiplas), lesões em regiões <b>protegidas</b> (orelhas, pescoço, abdome, nádegas, parte interna das coxas), equimoses em <b>diferentes fases de cor</b>, marcas com <b>formato de objeto</b> (fivela, fio, mão), <b>demora</b> injustificada em procurar atendimento e fraturas em bebês que <b>ainda não andam</b>. O tema da criança vítima de maus-tratos reiterados (síndrome da criança espancada) é aprofundado em Energias de ordem física, biodinâmicas e mistas. Diante desses sinais, a comunicação ao <b>Conselho Tutelar</b> é obrigatória (ECA, art. 13), e, no caso de idosos, a notificação compulsória e a comunicação às autoridades (Estatuto da Pessoa Idosa, art. 19).</li></ul>\n<h3>16. O exame de lesão corporal na prática</h3>\n<ul><li><b>Requisição</b>: a autoridade policial requisita o exame com o <b>histórico</b> (data, hora, meio empregado) e, se for o caso, <b>quesitos complementares</b>. A vítima deve ser encaminhada <b>logo</b>: equimoses mudam, escoriações cicatrizam, rubefações somem.</li><li><b>Exame</b>: o perito descreve cada lesão com <b>tipo</b> (escoriação, equimose, ferida...), <b>localização</b> anatômica precisa, <b>forma</b>, <b>dimensões</b> (em centímetros), <b>cor</b> (equimoses), <b>direção</b> e <b>características</b> especiais (bordas, cauda, orlas). Fotografa com <b>escala</b>.</li><li><b>Exames complementares</b>: radiografias (fraturas), ultrassom, tomografia, avaliação de especialistas (oftalmologista, otorrino), exames laboratoriais.</li><li><b>Respostas</b>: aos <b>quesitos oficiais</b> (existência da lesão; instrumento; meio cruel; incapacidade por mais de 30 dias; perigo de vida; debilidade; incapacidade permanente, enfermidade incurável, perda, inutilização ou deformidade; aceleração de parto ou aborto). Quando a resposta depende do tempo (30 dias, sequelas), o perito responde que <b>aguarda exame complementar</b>.</li><li><b>Exame indireto</b>: se a vítima foi atendida em hospital e as lesões sumiram, o perito pode basear o laudo no <b>prontuário</b> e nos exames de imagem (exame indireto). A <b>testemunha</b> também pode suprir a falta do exame (CPP, art. 167).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Briga de bar</b><p>A vítima chega ao IML 5 dias depois de uma briga com um \"roxo\" esverdeado no braço, uma ferida de bordas irregulares no supercílio, já suturada no hospital, e diz que levou um soco e uma garrafada.</p><details><summary>Ver a solução comentada</summary><p>A equimose <b>esverdeada</b> é compatível com cerca de <b>7 a 10 dias</b> pelo espectro clássico (a cor varia; o perito usa o termo <b>compatível</b>). Se o relato for de 5 dias, a divergência é pequena e explicável, mas deve ser registrada. A ferida de <b>bordas irregulares</b> no supercílio, região sobre <b>plano ósseo</b>, é compatível com <b>instrumento contundente</b> (ferida contusa por soco ou fundo de garrafa), e não com corte. Como foi suturada, o perito usa o <b>prontuário</b> do hospital para descrever o aspecto inicial e responde aos quesitos de incapacidade e deformidade <b>depois</b> (exame complementar).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Disparo em discussão</b><p>O suspeito diz que a arma disparou durante luta corporal, \"encostada\" na vítima. O laudo mostra, no tórax, orifício de entrada redondo, com orla de contusão e de enxugo, sem zonas de tatuagem ou esfumaçamento, e orifício de saída nas costas.</p><details><summary>Ver a solução comentada</summary><p>Um disparo <b>encostado</b> ou durante luta corporal (a centímetros) deixaria <b>sinais de tiro próximo</b> (zonas de esfumaçamento e tatuagem, ou sinais de tiro encostado, como Werkgaertner e lesão estrelada). A <b>ausência</b> de zonas indica disparo <b>a distância</b> (fora do alcance dos resíduos), o que <b>contradiz</b> a versão. Antes de concluir, o perito verifica se havia <b>roupa</b> interposta (a roupa pode <b>reter</b> os resíduos: por isso as <b>vestes</b> devem ser enviadas ao exame).</p></details></div>\n<ul><li><b>Roupas</b>: as vestes da vítima são <b>vestígios</b>: mostram orifícios, resíduos de disparo, cortes que devem coincidir com as feridas, manchas de sangue e de outras substâncias. Não devem ser descartadas no hospital nem lavadas; devem ir para a <b>cadeia de custódia</b>.</li></ul>\n<h3>17. Por que as feridas matam: causas médicas da morte no trauma</h3>\n<ul><li><b>Hemorragia</b> (choque hemorrágico): a causa mais comum nas feridas por arma branca e de fogo. A perda rápida de grande volume de sangue (externa ou interna, para dentro do tórax ou do abdome) leva à queda da pressão e à falta de oxigênio nos órgãos. Sinais na necropsia: <b>palidez</b> dos órgãos, <b>livores</b> pouco intensos e grande quantidade de sangue nas cavidades (<b>hemotórax</b>, <b>hemoperitônio</b>).</li><li><b>Tamponamento cardíaco</b>: o sangue se acumula no <b>pericárdio</b> (a bolsa que envolve o coração) e comprime o coração, que não consegue se encher. Uma ferida pequena no coração pode matar por tamponamento, mesmo com pouco sangramento externo.</li><li><b>Pneumotórax</b>: entrada de <b>ar</b> na cavidade pleural, que colapsa o pulmão. No <b>pneumotórax hipertensivo</b>, o ar entra e não sai, empurrando o coração e os vasos, e pode matar em minutos.</li><li><b>Embolia gasosa</b>: entrada de <b>ar em veias</b> de grosso calibre (ferimentos do pescoço, por exemplo), que chega ao coração e bloqueia a circulação.</li><li><b>Lesão do sistema nervoso central</b>: projéteis e golpes na cabeça podem matar por destruição do encéfalo, hemorragias intracranianas, edema cerebral e aumento da pressão dentro do crânio.</li><li><b>Infecção</b> e <b>complicações tardias</b>: peritonite (por perfuração do intestino), sepse, embolia pulmonar após imobilização, insuficiência de órgãos. Se a vítima morre dias ou semanas depois, em consequência do trauma, o <b>nexo causal</b> com a agressão se mantém (concausa superveniente que se insere na linha de desdobramento da lesão).</li><li><b>Concausas</b>: condições prévias da vítima (doença cardíaca, hemofilia, uso de anticoagulantes) que somam efeito ao trauma. O perito deve <b>descrevê-las</b>; a consequência jurídica (se o agente responde pela morte) é tema do Direito Penal (CP, art. 13) e depende do caso.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Ferida pequena no coração nunca é fatal</span><br>✅ <span class=\"certo\">Pode matar por <b>tamponamento cardíaco</b>, mesmo com pouco sangue externo</span></li><li>❌ <span class=\"banca\">Se a vítima morre de infecção semanas depois, o agressor não responde pela morte</span><br>✅ <span class=\"certo\">A complicação que decorre da lesão <b>mantém o nexo causal</b>, em regra</span></li><li>❌ <span class=\"banca\">O perito deve omitir doenças prévias para não prejudicar a acusação</span><br>✅ <span class=\"certo\">Deve <b>descrever as concausas</b>; a valoração jurídica é do juiz</span></li></ol></div>\n<h3>18. Noções de balística úteis ao legista</h3>\n<ul><li><b>Balística</b> estuda as armas de fogo, as munições e os efeitos dos disparos. Divide-se, didaticamente, em <b>interna</b> (o que acontece dentro da arma), <b>externa</b> (trajetória do projétil no ar) e <b>terminal</b> ou dos efeitos (o que acontece quando o projétil atinge o alvo), esta última a mais próxima da Medicina Legal.</li><li><b>Cartucho</b> (munição): <b>estojo</b>, <b>espoleta</b> (que inicia a queima), <b>carga de projeção</b> (pólvora) e <b>projétil</b>. Ao disparar, a pólvora queima e gera <b>gases</b>, que empurram o projétil pelo cano; junto saem <b>chama, fumaça e grãos</b> de pólvora, que formam as zonas do tiro próximo.</li><li><b>Raiamento</b>: os canos das armas curtas e de muitos fuzis têm <b>raias</b> (sulcos em hélice) que fazem o projétil <b>girar</b>, dando estabilidade. As raias deixam no projétil <b>estrias</b> (marcas) que funcionam como \"impressão digital\" da arma: o <b>confronto balístico</b> compara o projétil da vítima com projéteis de teste disparados com a arma suspeita.</li><li><b>Armas de alma lisa</b> (espingardas) não têm raias e geralmente disparam <b>projéteis múltiplos</b> (chumbo), por isso o confronto pelo projétil não é possível do mesmo modo; o estojo, a bucha e a dispersão dos grãos dão outras informações.</li><li><b>Calibre</b>: medida relacionada ao <b>diâmetro interno</b> do cano (ou do projétil). Atenção: o <b>orifício de entrada</b> na pele <b>não permite medir o calibre</b> com precisão, porque a pele é elástica e o orifício costuma ser <b>menor</b> que o projétil. Já o orifício em <b>osso</b> (especialmente no crânio) aproxima melhor o calibre.</li><li><b>Tipos de projéteis</b>: de <b>chumbo</b> nu (deformam-se com facilidade), <b>encamisados</b> (com capa de metal mais duro, que penetram mais e se deformam menos), de <b>ponta oca</b> (expandem ao atingir o alvo, causando lesões mais largas) e outros.</li><li><b>Velocidade e energia</b>: projéteis de <b>alta velocidade</b> (fuzis) transferem muita energia aos tecidos e produzem, além da <b>cavidade permanente</b> (o túnel destruído pelo projétil), uma <b>cavidade temporária</b> (os tecidos são empurrados para os lados e voltam), que lesa órgãos <b>distantes do trajeto</b>. Por isso os ferimentos de fuzil são muito mais destrutivos, com orifícios de saída grandes e fraturas cominutivas.</li><li><b>Ricochete e projéteis deformados</b>: o projétil que bate em superfície antes de atingir a vítima chega deformado, às vezes \"de lado\" (<b>tiro de lado</b> ou com o projétil instável), produzindo orifício de entrada <b>irregular</b> e <b>sem as características típicas</b>, o que pode confundir a análise da distância e da direção.</li><li><b>Disparo em vidro ou através de anteparos</b>: o vidro e outras barreiras alteram o projétil e retêm resíduos; fragmentos do anteparo podem produzir <b>pequenas lesões satélites</b> que lembram tatuagem (<b>pseudotatuagem</b>), o que exige cuidado na interpretação.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O tamanho do orifício de entrada na pele indica com precisão o calibre</span><br>✅ <span class=\"certo\">A pele é elástica; o orifício costuma ser <b>menor</b> que o projétil; o <b>osso</b> aproxima melhor o calibre</span></li><li>❌ <span class=\"banca\">Projéteis de espingarda permitem confronto pelas estrias das raias</span><br>✅ <span class=\"certo\">Espingarda tem <b>alma lisa</b> e projéteis múltiplos; não há estrias de raiamento</span></li><li>❌ <span class=\"banca\">A cavidade temporária só lesa os tecidos no trajeto do projétil</span><br>✅ <span class=\"certo\">Lesa tecidos <b>à distância</b> do trajeto, sobretudo em projéteis de <b>alta velocidade</b></span></li></ol></div>\n<h3>19. Explosões (lesões por blast)</h3>\n<ul><li><b>Explosão</b> libera energia de forma súbita, gerando <b>onda de pressão</b>, <b>fragmentos</b>, <b>projeção</b> de corpos e <b>calor</b>. As lesões são classificadas em quatro grupos:</li></ul>\n<table class=\"tab\"><thead><tr><th>Lesão</th><th>Causa</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Primária</b></td><td>a própria <b>onda de pressão</b> (atinge órgãos com ar)</td><td>ruptura do <b>tímpano</b>, lesão dos <b>pulmões</b> (\"pulmão de blast\", com hemorragias), lesões intestinais</td></tr><tr><td><b>Secundária</b></td><td><b>fragmentos</b> e estilhaços projetados</td><td>feridas perfurantes, cortantes e perfurocontusas múltiplas</td></tr><tr><td><b>Terciária</b></td><td><b>projeção do corpo</b> contra estruturas</td><td>fraturas, traumatismo craniano, amputações traumáticas</td></tr><tr><td><b>Quaternária</b></td><td>demais efeitos</td><td><b>queimaduras</b>, inalação de fumaça e gases tóxicos, esmagamento por desabamento</td></tr></tbody></table>\n<ul><li><b>Valor pericial</b>: a distribuição das lesões indica a <b>posição</b> da vítima em relação ao artefato (quem estava mais perto tem lesões mais destrutivas e queimaduras); fragmentos retirados do corpo ajudam a identificar o <b>tipo de artefato</b>, e devem ser preservados na cadeia de custódia.</li><li>A <b>morte por explosão</b> pode ocorrer sem lesões externas importantes (lesão pulmonar pela onda de pressão), por isso a necropsia completa é essencial.</li></ul>\n<h3>20. Acidentes de trânsito: além do atropelamento</h3>\n<ul><li><b>Ocupantes de veículos</b>: lesões de <b>desaceleração</b> (o corpo para bruscamente, mas os órgãos continuam em movimento: ruptura da <b>aorta</b>, lesões do <b>fígado</b> e do <b>baço</b>), lesões de <b>cinto</b> (faixa de escoriação e equimose em diagonal; lesões intestinais e de coluna lombar no cinto abdominal), lesões de <b>airbag</b> (escoriações e queimaduras leves no rosto e antebraços), fratura do <b>esterno</b> e de costelas pelo <b>volante</b>, lesões nos <b>joelhos</b> e quadris pelo painel (que podem luxar o quadril).</li><li><b>\"Chicote\" cervical</b> (*whiplash*): movimento brusco da cabeça para trás e para a frente em colisões traseiras, com lesões na coluna cervical.</li><li><b>Motociclistas</b>: traumatismo craniano (mesmo com capacete), fraturas de membros, escoriações extensas por <b>arrasto</b> no asfalto, lesões por impacto contra o guidão (região inguinal e pélvica).</li><li><b>Ciclistas e pedestres</b>: padrão de atropelamento, com as fases de choque, queda, projeção e, eventualmente, passagem.</li><li><b>Quem dirigia?</b> O padrão de lesões (volante, cinto do lado esquerdo do pescoço ou do direito, pedais marcados na sola do calçado, lesões por airbag) e os vestígios biológicos no interior do veículo (sangue, cabelos no para-brisa) ajudam a responder, com a perícia de local e do veículo.</li><li><b>Embriaguez</b>: em todo acidente com morte, a necropsia deve incluir coleta de <b>sangue</b> para <b>dosagem de álcool</b> e pesquisa de drogas, no motorista e, se for o caso, na vítima (tema de Toxicologia).</li></ul>\n<h3>21. Como as bancas cobram este tópico</h3>\n<ul><li><b>Instrumento x ferida</b>: a banca troca os pares (faca de ponta como \"cortante\"; projétil como \"perfurante\"; machado como \"cortante\"). Memorize os seis instrumentos e suas seis feridas.</li><li><b>Características das feridas</b>: pontes de tecido (<b>contusa</b>), cauda de escoriação (<b>incisa</b>, no <b>fim</b>), botoeira (<b>punctória</b>, leis de Filhos), ângulo rombo (<b>perfuroincisa</b> de um gume).</li><li><b>Espectro equimótico</b>: perguntam a cor de determinado dia ou a ordem das cores. Sequência: <b>vermelha, violácea, azul, verde, amarela</b>. Lembre também que é <b>aproximado</b> e que a conjuntiva fica vermelha.</li><li><b>Arma de fogo</b>: é o tema mais cobrado. Diferenciar <b>orlas</b> (presentes a qualquer distância: contusão e enxugo) de <b>zonas</b> (só de perto: chamuscamento, esfumaçamento e tatuagem); qual <b>sai com lavagem</b> (esfumaçamento) e qual <b>não sai</b> (tatuagem); sinais do <b>tiro encostado</b> (Hoffmann, Werkgaertner, Benassi); <b>funil de Bonnet</b>; diferenças <b>entrada x saída</b>.</li><li><b>Art. 129 do CP</b>: troca entre <b>grave</b> e <b>gravíssima</b> (aceleração de parto x aborto; debilidade x perda), perigo de vida <b>concreto</b>, órgãos duplos, ocupações habituais <b>não</b> só trabalho.</li><li><b>Golpe e contragolpe</b>, <b>intervalo lúcido</b> (extradural) e lesões <b>vitais x post mortem</b> completam o núcleo do tópico.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo</b><p>\"Diferencie, quanto às características, o orifício de entrada e o orifício de saída de um projétil de arma de fogo e explique o que são as zonas de esfumaçamento e de tatuagem.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: a <b>entrada</b> é, em regra, menor, de bordas invertidas, com <b>orla de contusão e escoriação</b> e <b>orla de enxugo</b>, podendo ter zonas de tiro próximo; a <b>saída</b> é maior, irregular, de bordas evertidas, <b>sem orlas</b> (salvo saída apoiada) e <b>sem zonas</b>. A <b>zona de esfumaçamento</b> é o depósito de <b>fuligem</b> ao redor da entrada, que <b>sai com lavagem</b>; a <b>zona de tatuagem</b> é formada por <b>grãos de pólvora</b> incrustados na pele, que <b>não saem com lavagem</b>. Ambas só ocorrem em <b>disparos a curta distância</b>, dentro do alcance desses resíduos, e sua ausência (sem anteparo) indica tiro a distância.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 2</b><p>\"Uma vítima de agressão perdeu a visão de um olho. Classifique a lesão segundo o CP, explicando o raciocínio médico-legal.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: o olho é <b>órgão duplo</b>; com a perda de um deles, a <b>visão</b> (sentido) continua pelo outro, apenas <b>diminuída</b>. Há, portanto, <b>debilidade permanente de sentido</b>, lesão <b>grave</b> (art. 129, § 1º, III). Seria <b>gravíssima</b> (perda ou inutilização do sentido, § 2º, III) se houvesse cegueira <b>bilateral</b>. Conforme o aspecto, pode haver também <b>deformidade permanente</b> (§ 2º, IV), se o dano estético for visível, considerável e irreparável.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 3</b><p>\"Um homem é encontrado morto em casa, com uma única ferida no pescoço e uma faca na mão direita. A família afirma que foi suicídio; o vizinho ouviu discussão. Que achados periciais ajudam a distinguir suicídio de homicídio?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: a perícia não decide sozinha a causa jurídica, mas fornece elementos. <b>A favor do suicídio</b>: <b>lesões de hesitação</b> (cortes superficiais e paralelos junto à ferida principal), ferida em região <b>acessível</b> à mão dominante, direção compatível com o próprio punho (em destro, em regra da esquerda para a direita), <b>ausência de lesões de defesa</b>, roupas <b>afastadas</b> do local cortado, faca com sangue em padrão compatível com a empunhadura e ausência de sinais de luta no local. <b>A favor do homicídio</b>: <b>lesões de defesa</b> nas mãos e antebraços, ferida <b>profunda e única</b> em região de difícil acesso, <b>múltiplos golpes</b> em regiões variadas, escoriações e equimoses de <b>luta</b> ou <b>contenção</b> (punhos, braços, rosto), arma colocada na mão de forma artificial (a \"mão do morto\" não costuma segurar a faca com firmeza após um golpe fatal), manchas de sangue em locais incompatíveis com a versão, e sinais de <b>alteração do local</b>. O perito descreve e discute; a conclusão sobre suicídio ou homicídio vem do <b>conjunto</b> da investigação (local, testemunhas, histórico, exames toxicológicos).</p></details></div>\n<h3>22. Glossário do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Trauma</b></td><td>lesão produzida por energia externa</td></tr><tr><td><b>Escoriação</b></td><td>arrancamento da epiderme</td></tr><tr><td><b>Crosta serosa / hemática</b></td><td>crosta de plasma (epiderme) / de sangue (derme papilar atingida)</td></tr><tr><td><b>Equimose</b></td><td>infiltração de sangue nos tecidos, sem cavidade</td></tr><tr><td><b>Hematoma</b></td><td>coleção de sangue em cavidade nova, com abaulamento</td></tr><tr><td><b>Bossa</b></td><td>hematoma sobre plano ósseo</td></tr><tr><td><b>Petéquia</b></td><td>equimose puntiforme</td></tr><tr><td><b>Sugilação</b></td><td>equimoses pequenas e agrupadas (chupão)</td></tr><tr><td><b>Víbice</b></td><td>equimose linear (chicote, vara)</td></tr><tr><td><b>Sufusão</b></td><td>equimose extensa, em lençol</td></tr><tr><td><b>Ferida punctória</b></td><td>produzida por instrumento perfurante</td></tr><tr><td><b>Ferida incisa</b></td><td>produzida por instrumento cortante</td></tr><tr><td><b>Ferida contusa</b></td><td>produzida por instrumento contundente</td></tr><tr><td><b>Perfuroincisa</b></td><td>produzida por perfurocortante</td></tr><tr><td><b>Perfurocontusa</b></td><td>produzida por perfurocontundente (projétil)</td></tr><tr><td><b>Cortocontusa</b></td><td>produzida por cortocontundente (machado, dentes)</td></tr><tr><td><b>Pontes de tecido</b></td><td>fibras que unem as bordas no fundo da ferida contusa</td></tr><tr><td><b>Cauda de escoriação</b></td><td>final superficial da ferida incisa, indica a direção</td></tr><tr><td><b>Botoeira</b></td><td>ferida em fenda (leis de Filhos)</td></tr><tr><td><b>Orla de contusão</b></td><td>anel de escoriação ao redor da entrada do projétil</td></tr><tr><td><b>Orla de enxugo</b></td><td>anel de sujeira e resíduos deixado pelo projétil</td></tr><tr><td><b>Zona de tatuagem</b></td><td>grãos de pólvora encravados (não sai com lavagem)</td></tr><tr><td><b>Zona de esfumaçamento</b></td><td>fuligem depositada (sai com lavagem)</td></tr><tr><td><b>Zona de chamuscamento</b></td><td>queimadura pela chama</td></tr><tr><td><b>Câmara de mina de Hoffmann</b></td><td>ferida estrelada do tiro encostado sobre osso</td></tr><tr><td><b>Funil de Bonnet</b></td><td>bisel do orifício no osso, que indica o sentido do tiro</td></tr><tr><td><b>Contragolpe</b></td><td>lesão cerebral no lado oposto ao impacto</td></tr><tr><td><b>Intervalo lúcido</b></td><td>período sem sintomas antes da piora, típico do hematoma extradural</td></tr><tr><td><b>Lesão vital</b></td><td>produzida em vida, com reação (infiltração, coagulação, retração)</td></tr><tr><td><b>Lesão post mortem</b></td><td>produzida após a morte, sem reação vital</td></tr></tbody></table>\n<h3>23. Ligações com outros tópicos e com o trabalho policial</h3>\n<ul><li><b>Com as Perícias</b>: os quesitos oficiais do exame de lesão corporal, o <b>exame complementar</b> após 30 dias (CPP, art. 168) e a regra do <b>exame indireto</b> e da prova testemunhal (art. 167) são a moldura processual de tudo o que se estudou aqui.</li><li><b>Com a Tanatologia</b>: a diferença entre lesão <b>vital</b> e <b>post mortem</b>, o tempo de morte e os fenômenos cadavéricos ajudam a entender quando e como as lesões foram produzidas.</li><li><b>Com a Asfixiologia</b>: as <b>estigmas ungueais</b> e as <b>equimoses</b> do pescoço da esganadura são lesões contusas típicas estudadas aqui e aplicadas lá.</li><li><b>Com a Sexologia forense</b>: lesões contusas (equimoses em coxas e punhos, escoriações, mordidas) são vestígios importantes da violência sexual.</li><li><b>Com o trabalho policial</b>: no local de crime, o policial <b>não deve manipular</b> o cadáver nem retirar armas ou projéteis; deve <b>preservar as roupas</b> da vítima no hospital, <b>requisitar o exame</b> logo (as lesões mudam com os dias), formular <b>quesitos específicos</b> quando a dinâmica estiver em discussão (distância do disparo, número de golpes, posição da vítima, lesões de defesa) e anotar no histórico a <b>data e a hora</b> do fato, que serão comparadas com a evolução das lesões.</li><li><b>Dica final de estudo</b>: faça as questões deste tópico e depois use o <b>Treino de pegadinhas</b> de Medicina Legal. As trocas mais comuns (instrumento x ferida, entrada x saída, zonas que saem ou não com lavagem, grave x gravíssima) aparecem lá para você treinar até automatizar.</li></ul>\n<h3>24. Mapa de revisão do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Tema</th><th>Palavra-chave</th></tr></thead><tbody><tr><td>Perfurante</td><td>ponta; ferida <b>punctória</b>; leis de <b>Filhos</b> (botoeira, mesma direção) e de <b>Langer</b> (ponta de seta)</td></tr><tr><td>Cortante</td><td>gume; ferida <b>incisa</b>; bordas regulares, sem pontes; <b>cauda de escoriação</b> no fim</td></tr><tr><td>Contundente</td><td>superfície; escoriação, equimose, hematoma, <b>ferida contusa</b> (bordas irregulares, <b>pontes</b>), fraturas</td></tr><tr><td>Perfurocortante</td><td>ponta + gume; <b>perfuroincisa</b>; um gume = um ângulo agudo e outro rombo</td></tr><tr><td>Perfurocontundente</td><td>projétil; <b>perfurocontusa</b>; orlas de <b>contusão</b> e <b>enxugo</b></td></tr><tr><td>Cortocontundente</td><td>gume + peso; machado, foice, dentes</td></tr><tr><td>Equimose</td><td>vermelha → violácea → azul → verde → amarela → some (15 a 20 dias)</td></tr><tr><td>Tiro próximo</td><td><b>chamuscamento</b> (chama), <b>esfumaçamento</b> (sai com lavagem), <b>tatuagem</b> (não sai)</td></tr><tr><td>Tiro encostado</td><td><b>Hoffmann</b> (câmara de mina), <b>Werkgaertner</b> (desenho do cano), <b>Benassi</b> (fuligem no osso)</td></tr><tr><td>Crânio</td><td><b>funil de Bonnet</b>: entrada com bisel interno, saída com bisel externo</td></tr><tr><td>Lesão grave</td><td>+30 dias, perigo de vida, debilidade, aceleração de parto</td></tr><tr><td>Lesão gravíssima</td><td>incapacidade permanente, enfermidade incurável, perda/inutilização, deformidade, aborto</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ferida incisa</span></span><span class=\"vs\"><span>bordas regulares, sem pontes, cauda de escoriação no fim</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ferida contusa</span></span><span class=\"vs\"><span>bordas irregulares, escoriadas, com pontes de tecido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Leis de Filhos</span></span><span class=\"vs\"><span>perfurante de médio calibre deixa fenda (botoeira), na mesma direção numa região</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei de Langer</span></span><span class=\"vs\"><span>na confluência de linhas de força, ferida em ponta de seta, triângulo ou quadrilátero</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Faca de um gume</span></span><span class=\"vs\"><span>ferida com um ângulo agudo e outro arredondado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equimose esverdeada</span></span><span class=\"vs\"><span>por volta do 7º ao 10º dia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Víbices</span></span><span class=\"vs\"><span>equimoses lineares (chicote, vara)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equimose em trilho de trem</span></span><span class=\"vs\"><span>instrumento cilíndrico</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Orla de enxugo</span></span><span class=\"vs\"><span>resíduos limpos pelo projétil na pele</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Zona de tatuagem</span></span><span class=\"vs\"><span>grãos de pólvora encravados; não sai com lavagem</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Zona de esfumaçamento</span></span><span class=\"vs\"><span>fuligem; sai com lavagem</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Câmara de mina de Hoffmann</span></span><span class=\"vs\"><span>tiro encostado sobre osso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sinal de Werkgaertner</span></span><span class=\"vs\"><span>desenho da boca do cano na pele</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sinal de Benassi</span></span><span class=\"vs\"><span>fuligem na tábua externa do osso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Funil de Bonnet</span></span><span class=\"vs\"><span>bisel interno na entrada e externo na saída (crânio)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Trajeto x trajetória</span></span><span class=\"vs\"><span>dentro x fora do corpo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Contragolpe</span></span><span class=\"vs\"><span>lesão cerebral no lado oposto ao impacto, típica de queda</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Intervalo lúcido</span></span><span class=\"vs\"><span>hematoma extradural</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perda de um olho</span></span><span class=\"vs\"><span>debilidade permanente (lesão grave)</span></span></button></div></div>",
 "quiz": [
+{
+"p": "Os instrumentos perfurantes agem por ponta e produzem feridas punctórias.",
+"c": true,
+"prof": "Instrumentos mecânicos.",
+"x": "Ex.: agulha, prego, furador.",
+"e": "Perfurante: punctória."
+},
+{
+"p": "A faca de ponta é instrumento perfurocortante e produz ferida perfuroincisa.",
+"c": true,
+"prof": "Instrumentos mecânicos.",
+"x": "Age pela ponta e pelo gume.",
+"e": "Faca: perfuroincisa."
+},
+{
+"p": "O projétil de arma de fogo é instrumento perfurocortante.",
+"c": false,
+"prof": "Instrumentos mecânicos.",
+"x": "É perfurocontundente e produz ferida perfurocontusa.",
+"e": "Projétil: perfurocontundente."
+},
+{
+"p": "Machado, foice e facão são exemplos de instrumentos cortocontundentes.",
+"c": true,
+"prof": "Instrumentos mecânicos.",
+"x": "Gume associado ao peso.",
+"e": "Cortocontundente."
+},
+{
+"p": "Assinale a correspondência correta entre instrumento e ferida:",
+"alts": [
+"perfurante – ferida incisa",
+"cortante – ferida punctória",
+"contundente – ferida contusa",
+"perfurocontundente – ferida perfuroincisa",
+"cortocontundente – ferida punctória"
+],
+"r": 2,
+"n": [
+"Perfurante produz punctória.",
+"Cortante produz incisa.",
+"Correta.",
+"Perfurocontundente produz perfurocontusa.",
+"Cortocontundente produz cortocontusa."
+],
+"prof": "Instrumentos mecânicos.",
+"x": "Cada instrumento tem a sua ferida típica.",
+"e": "Instrumento x ferida."
+},
+{
+"p": "Pela primeira lei de Filhos, as feridas produzidas por instrumentos perfurantes de médio calibre têm forma de fenda, semelhante à das produzidas por instrumento cortante de dois gumes.",
+"c": true,
+"prof": "Leis de Filhos.",
+"x": "É a \"botoeira\".",
+"e": "1ª lei de Filhos."
+},
+{
+"p": "Pela segunda lei de Filhos, as feridas punctórias numa mesma região, onde as linhas de força têm direção única, têm sempre a mesma direção.",
+"c": true,
+"prof": "Leis de Filhos.",
+"x": "As linhas de Langer orientam a fenda.",
+"e": "2ª lei de Filhos."
+},
+{
+"p": "Pela lei de Langer, na confluência de linhas de força de direções diferentes, a ferida punctória assume forma de ponta de seta, triângulo ou quadrilátero.",
+"c": true,
+"prof": "Lei de Langer.",
+"x": "A pele abre conforme as linhas de tensão.",
+"e": "Lei de Langer."
+},
+{
+"p": "A forma da ferida punctória reproduz fielmente a seção transversal do instrumento perfurante.",
+"c": false,
+"prof": "Feridas punctórias.",
+"x": "A pele abre em fenda, conforme as linhas de força; não reproduz fielmente o instrumento.",
+"e": "Punctória: não reproduz."
+},
+{
+"p": "Nas feridas punctórias, a profundidade costuma ser maior que a largura, e o sangramento externo é pequeno.",
+"c": true,
+"prof": "Feridas punctórias.",
+"x": "Podem lesar órgãos internos com lesão externa mínima.",
+"e": "Punctória: funda e estreita."
+},
+{
+"p": "A ferida incisa apresenta bordas regulares, ausência de pontes de tecido e hemorragia abundante.",
+"c": true,
+"prof": "Ferida incisa.",
+"x": "O gume corta de forma limpa.",
+"e": "Incisa: regular, sem pontes."
+},
+{
+"p": "A cauda de escoriação da ferida incisa localiza-se na extremidade final do corte e indica a direção do golpe.",
+"c": true,
+"prof": "Ferida incisa.",
+"x": "O gume sai da pele de forma superficial.",
+"e": "Cauda: fim do corte."
+},
+{
+"p": "Na ferida incisa, a profundidade é, em regra, maior que o comprimento.",
+"c": false,
+"prof": "Ferida incisa.",
+"x": "O comprimento predomina sobre a profundidade.",
+"e": "Incisa: mais longa que funda."
+},
+{
+"p": "Esgorjamento é a ferida incisa na região anterior do pescoço, e degola, a ferida na região posterior.",
+"c": true,
+"prof": "Feridas do pescoço.",
+"x": "Decapitação é a separação completa.",
+"e": "Esgorjamento x degola."
+},
+{
+"p": "Lesões de hesitação, superficiais e paralelas, junto à ferida principal, sugerem suicídio.",
+"c": true,
+"prof": "Ferida incisa.",
+"x": "São cortes de ensaio.",
+"e": "Hesitação: suicídio."
+},
+{
+"p": "Lesões nas palmas das mãos e na borda dos antebraços, produzidas ao tentar segurar a lâmina ou se proteger, são lesões de defesa e sugerem agressão por terceiro.",
+"c": true,
+"prof": "Lesões de defesa.",
+"x": "Forte indício de homicídio.",
+"e": "Defesa: terceiro."
+},
+{
+"p": "Rubefação é a vermelhidão passageira da pele, por vasodilatação, que desaparece em pouco tempo.",
+"c": true,
+"prof": "Lesões contusas.",
+"x": "Ex.: marca de tapa.",
+"e": "Rubefação."
+},
+{
+"p": "Escoriação é o arrancamento da epiderme, expondo a derme.",
+"c": true,
+"prof": "Escoriação.",
+"x": "É a \"ralada\".",
+"e": "Escoriação: epiderme."
+},
+{
+"p": "Estigmas ungueais são escoriações em forma de meia-lua produzidas pelas unhas, típicas da esganadura.",
+"c": true,
+"prof": "Escoriação.",
+"x": "Também aparecem em violência sexual.",
+"e": "Estigmas ungueais."
+},
+{
+"p": "A escoriação produzida após a morte apresenta aspecto apergaminhado, sem crosta e sem reação vital.",
+"c": true,
+"prof": "Escoriação.",
+"x": "Em vida, forma crosta.",
+"e": "Apergaminhada: post mortem."
+},
+{
+"p": "A escoriação reproduz o agente e indica a direção de sua ação, sendo uma das lesões mais eloquentes.",
+"c": true,
+"prof": "Escoriação.",
+"x": "Ex.: marcas de unha, de corda, de arrasto.",
+"e": "Escoriação eloquente."
+},
+{
+"p": "Equimose é a infiltração de sangue nas malhas dos tecidos, sem formação de cavidade, e é sinal de reação vital.",
+"c": true,
+"prof": "Equimose.",
+"x": "Exige circulação.",
+"e": "Equimose: infiltração."
+},
+{
+"p": "Pelo espectro equimótico de Legrand du Saulle, a equimose de coloração esverdeada é compatível com:",
+"alts": [
+"o 1º dia",
+"o 2º e o 3º dias",
+"o 4º ao 6º dia",
+"o 7º ao 10º dia",
+"mais de 20 dias"
+],
+"r": 3,
+"n": [
+"Vermelha.",
+"Violácea.",
+"Azulada.",
+"Correta.",
+"Já desapareceu."
+],
+"prof": "Espectro de Legrand du Saulle.",
+"x": "Vermelha, violácea, azul, verde, amarela; desaparece em 15 a 20 dias.",
+"e": "Verde: 7º ao 10º dia."
+},
+{
+"p": "A equimose recente apresenta coloração amarelada, e a antiga, coloração vermelha.",
+"c": false,
+"prof": "Espectro de Legrand du Saulle.",
+"x": "É o inverso: a recente é vermelha e a antiga, amarelada.",
+"e": "Vermelha = recente."
+},
+{
+"p": "As equimoses das conjuntivas permanecem vermelhas por longo tempo, por causa da oxigenação da hemoglobina pelo ar.",
+"c": true,
+"prof": "Espectro equimótico.",
+"x": "É exceção ao espectro clássico.",
+"e": "Conjuntiva: vermelha."
+},
+{
+"p": "Víbices são equimoses lineares, produzidas por instrumentos como chicote, vara ou cinto.",
+"c": true,
+"prof": "Formas de equimose.",
+"x": "Petéquias são puntiformes.",
+"e": "Víbices: lineares."
+},
+{
+"p": "Petéquias são pequenas equimoses puntiformes, comuns nas asfixias.",
+"c": true,
+"prof": "Formas de equimose.",
+"x": "Do tamanho de cabeça de alfinete.",
+"e": "Petéquias."
+},
+{
+"p": "A equimose em trilho de trem, com duas faixas paralelas e centro pálido, é produzida por instrumento cilíndrico.",
+"c": true,
+"prof": "Formas de equimose.",
+"x": "Ex.: cassetete.",
+"e": "Trilho: cilíndrico."
+},
+{
+"p": "A equimose periorbitária bilateral (em óculos) pode indicar fratura da base do crânio, por migração de sangue.",
+"c": true,
+"prof": "Equimoses a distância.",
+"x": "Também o sinal de Battle, atrás da orelha.",
+"e": "Olhos de guaxinim."
+},
+{
+"p": "Hematoma é a coleção de sangue que forma cavidade nos tecidos, com abaulamento.",
+"c": true,
+"prof": "Hematoma.",
+"x": "Difere da equimose, que é infiltração.",
+"e": "Hematoma: cavidade."
+},
+{
+"p": "Bossa sanguínea é o hematoma formado sobre plano ósseo, como no couro cabeludo.",
+"c": true,
+"prof": "Bossa.",
+"x": "O popular \"galo\".",
+"e": "Bossa."
+},
+{
+"p": "A ferida contusa apresenta bordas irregulares, escoriadas e equimosadas e pontes de tecido no fundo.",
+"c": true,
+"prof": "Ferida contusa.",
+"x": "Os vasos esmagados sangram menos.",
+"e": "Contusa: pontes."
+},
+{
+"p": "As pontes de tecido unindo as bordas são características da ferida incisa.",
+"c": false,
+"prof": "Ferida contusa x incisa.",
+"x": "Pontes caracterizam a ferida contusa.",
+"e": "Pontes: contusa."
+},
+{
+"p": "Feridas contusas são comuns sobre saliências ósseas, como o supercílio e o couro cabeludo, onde podem simular cortes.",
+"c": true,
+"prof": "Ferida contusa.",
+"x": "A pele se rompe entre o instrumento e o osso.",
+"e": "Contusa sobre osso."
+},
+{
+"p": "Fraturas indiretas ocorrem longe do ponto de impacto, por mecanismos como torção ou flexão.",
+"c": true,
+"prof": "Fraturas.",
+"x": "Ex.: clavícula em queda sobre a mão.",
+"e": "Fratura indireta."
+},
+{
+"p": "Afundamentos do crânio podem reproduzir a forma do instrumento, como a cabeça de um martelo.",
+"c": true,
+"prof": "Fraturas do crânio.",
+"x": "Ajuda a identificar o instrumento.",
+"e": "Afundamento."
+},
+{
+"p": "O trauma contundente no abdome pode romper órgãos internos com pouca ou nenhuma lesão visível na pele.",
+"c": true,
+"prof": "Lesões internas.",
+"x": "Por isso a necropsia interna é importante.",
+"e": "Abdome: lesão interna."
+},
+{
+"p": "O hematoma extradural, geralmente por ruptura da artéria meníngea média, pode apresentar intervalo lúcido.",
+"c": true,
+"prof": "Traumatismo cranioencefálico.",
+"x": "A vítima piora horas depois.",
+"e": "Extradural: intervalo lúcido."
+},
+{
+"p": "O hematoma subdural resulta, em regra, da ruptura de veias e é comum em idosos e na síndrome do bebê sacudido.",
+"c": true,
+"prof": "Traumatismo cranioencefálico.",
+"x": "Fica sob a dura-máter.",
+"e": "Subdural: veias."
+},
+{
+"p": "Lesão de contragolpe é a lesão cerebral no lado oposto ao impacto, típica das quedas.",
+"c": true,
+"prof": "Golpe e contragolpe.",
+"x": "O cérebro em movimento bate no lado oposto.",
+"e": "Contragolpe."
+},
+{
+"p": "No atropelamento, a altura das fraturas das pernas pode indicar a altura do para-choque e se o motorista freou.",
+"c": true,
+"prof": "Atropelamento.",
+"x": "Na frenagem, a frente do carro abaixa.",
+"e": "Fratura do para-choque."
+},
+{
+"p": "Na precipitação, é comum o contraste entre lesões externas discretas e lesões internas graves.",
+"c": true,
+"prof": "Precipitação.",
+"x": "Fraturas múltiplas e rupturas de órgãos.",
+"e": "Precipitação."
+},
+{
+"p": "Ferida perfuroincisa produzida por faca de um gume apresenta um ângulo agudo e outro arredondado.",
+"c": true,
+"prof": "Ferida perfuroincisa.",
+"x": "O agudo corresponde ao gume; o rombo, ao dorso.",
+"e": "Um gume."
+},
+{
+"p": "Ferida perfuroincisa com os dois ângulos agudos indica faca de um só gume.",
+"c": false,
+"prof": "Ferida perfuroincisa.",
+"x": "Dois ângulos agudos indicam instrumento de dois gumes.",
+"e": "Dois agudos: dois gumes."
+},
+{
+"p": "Instrumento perfurocortante de três gumes, como a lima triangular, produz ferida estrelada ou triangular.",
+"c": true,
+"prof": "Ferida perfuroincisa.",
+"x": "Com três raios.",
+"e": "Três gumes: estrelada."
+},
+{
+"p": "A profundidade do trajeto de uma facada no abdome pode ser maior que o comprimento da lâmina, pela compressão dos tecidos moles.",
+"c": true,
+"prof": "Ferida perfuroincisa.",
+"x": "Os tecidos voltam à posição.",
+"e": "Trajeto > lâmina."
+},
+{
+"p": "O orifício de entrada do projétil apresenta, em regra, bordas invertidas e orlas de contusão e de enxugo.",
+"c": true,
+"prof": "Arma de fogo.",
+"x": "A qualquer distância.",
+"e": "Entrada: orlas."
+},
+{
+"p": "A orla de enxugo é formada pelos resíduos de graxa, sujeira e pólvora deixados pelo projétil ao penetrar na pele.",
+"c": true,
+"prof": "Arma de fogo.",
+"x": "Não é queimadura.",
+"e": "Orla de enxugo."
+},
+{
+"p": "Em tiro oblíquo, a orla de contusão é mais larga do lado de onde veio o projétil.",
+"c": true,
+"prof": "Arma de fogo.",
+"x": "Indica a direção do disparo.",
+"e": "Orla mais larga: origem."
+},
+{
+"p": "As zonas de chamuscamento, esfumaçamento e tatuagem só aparecem nos disparos a curta distância.",
+"c": true,
+"prof": "Arma de fogo.",
+"x": "Fora do alcance dos resíduos, só há orlas.",
+"e": "Zonas: tiro próximo."
+},
+{
+"p": "A zona de tatuagem é formada por grãos de pólvora incrustados na pele e não desaparece com a lavagem.",
+"c": true,
+"prof": "Arma de fogo.",
+"x": "É a de maior alcance.",
+"e": "Tatuagem: não sai."
+},
+{
+"p": "A zona de esfumaçamento é formada por grãos de pólvora encravados na pele e não sai com lavagem.",
+"c": false,
+"prof": "Arma de fogo.",
+"x": "O esfumaçamento é depósito de fuligem e sai com lavagem; quem não sai é a tatuagem.",
+"e": "Esfumaçamento sai."
+},
+{
+"p": "A zona de chamuscamento é produzida pela chama e pelos gases quentes, em disparos muito próximos.",
+"c": true,
+"prof": "Arma de fogo.",
+"x": "Queima pele e pelos.",
+"e": "Chamuscamento: chama."
+},
+{
+"p": "A câmara de mina de Hoffmann é observada no tiro encostado em região com plano ósseo subjacente.",
+"c": true,
+"prof": "Tiro encostado.",
+"x": "Os gases se expandem sob a pele, que se rompe de forma estrelada.",
+"e": "Hoffmann: encostado sobre osso."
+},
+{
+"p": "O sinal de Werkgaertner é o desenho da boca do cano impresso na pele no tiro encostado.",
+"c": true,
+"prof": "Tiro encostado.",
+"x": "Por queimadura ou contusão.",
+"e": "Werkgaertner: boca do cano."
+},
+{
+"p": "O sinal de Benassi é a fuligem depositada na tábua externa do osso no tiro encostado.",
+"c": true,
+"prof": "Tiro encostado.",
+"x": "Visível ao rebater a pele.",
+"e": "Benassi: fuligem no osso."
+},
+{
+"p": "No crânio, o sinal do funil de Bonnet indica que:",
+"alts": [
+"o orifício de entrada tem bisel externo",
+"o orifício de entrada tem bisel na tábua interna e o de saída, na tábua externa",
+"os dois orifícios têm bisel interno",
+"o bisel indica a distância do disparo",
+"o bisel só aparece em tiro encostado"
+],
+"r": 1,
+"n": [
+"Na entrada, o bisel é interno.",
+"Correta.",
+"O de saída é externo.",
+"Indica o sentido, não a distância.",
+"Aparece a qualquer distância."
+],
+"prof": "Funil de Bonnet.",
+"x": "O cone se abre no sentido do trajeto.",
+"e": "Bonnet: sentido do tiro."
+},
+{
+"p": "O orifício de saída do projétil é, em regra, maior, irregular, de bordas evertidas e sem orlas e zonas.",
+"c": true,
+"prof": "Arma de fogo.",
+"x": "Exceção: saída apoiada pode ter orla de contusão.",
+"e": "Saída: sem orlas."
+},
+{
+"p": "Na saída apoiada, quando a pele está encostada em superfície firme, pode surgir orla de contusão no orifício de saída.",
+"c": true,
+"prof": "Arma de fogo.",
+"x": "Exceção à regra.",
+"e": "Saída apoiada."
+},
+{
+"p": "Trajeto é o caminho do projétil dentro do corpo; trajetória é o caminho fora do corpo.",
+"c": true,
+"prof": "Arma de fogo.",
+"x": "Não são sinônimos.",
+"e": "Trajeto x trajetória."
+},
+{
+"p": "Nos tiros de espingarda com projéteis múltiplos, a dispersão dos grãos aumenta com a distância, permitindo estimá-la.",
+"c": true,
+"prof": "Projéteis múltiplos.",
+"x": "Orifício único em tiro muito próximo; depois satélites.",
+"e": "Dispersão = distância."
+},
+{
+"p": "O projétil retirado do corpo deve ser manuseado sem pinças metálicas que risquem as estrias, para não prejudicar o confronto balístico.",
+"c": true,
+"prof": "Projétil retido.",
+"x": "Entra na cadeia de custódia.",
+"e": "Preservar estrias."
+},
+{
+"p": "O resultado negativo do exame residuográfico nas mãos prova que o suspeito não efetuou disparo.",
+"c": false,
+"prof": "Residuograma.",
+"x": "Não exclui: mãos lavadas, luvas, tempo decorrido.",
+"e": "Residuograma negativo não exclui."
+},
+{
+"p": "A ferida cortocontusa tem bordas relativamente regulares, com escoriações e equimoses nas margens, e costuma atingir planos profundos.",
+"c": true,
+"prof": "Ferida cortocontusa.",
+"x": "Gume associado à contusão.",
+"e": "Cortocontusa."
+},
+{
+"p": "Na marca de mordida, deve-se coletar material com swab para DNA da saliva antes de qualquer limpeza.",
+"c": true,
+"prof": "Mordeduras.",
+"x": "E fotografar com escala.",
+"e": "Mordida: swab."
+},
+{
+"p": "São sinais de reação vital: hemorragia com infiltração, coagulação, retração das bordas e equimose.",
+"c": true,
+"prof": "Lesões vitais.",
+"x": "Lesões post mortem não os apresentam.",
+"e": "Reação vital."
+},
+{
+"p": "A ferida produzida após a morte apresenta bordas retraídas e sangue coagulado infiltrado nos tecidos.",
+"c": false,
+"prof": "Lesões post mortem.",
+"x": "Esses são sinais de lesão em vida.",
+"e": "Post mortem: sem reação."
+},
+{
+"p": "Lesão corporal leve é punida com detenção de 3 meses a 1 ano.",
+"c": true,
+"prof": "CP, art. 129, caput.",
+"x": "Sem os resultados dos §§ 1º e 2º.",
+"e": "Leve: 3 meses a 1 ano."
+},
+{
+"p": "Resultar perigo de vida qualifica a lesão corporal como grave.",
+"c": true,
+"prof": "CP, art. 129, § 1º, II.",
+"x": "Reclusão de 1 a 5 anos.",
+"e": "Perigo de vida: grave."
+},
+{
+"p": "O perigo de vida que qualifica a lesão deve ser concreto, constatado pelo perito, e não meramente presumido.",
+"c": true,
+"prof": "CP, art. 129, § 1º, II.",
+"x": "Ex.: choque hemorrágico.",
+"e": "Perigo concreto."
+},
+{
+"p": "A enfermidade incurável e a deformidade permanente qualificam a lesão corporal como gravíssima.",
+"c": true,
+"prof": "CP, art. 129, § 2º.",
+"x": "Reclusão de 2 a 8 anos.",
+"e": "Gravíssima."
+},
+{
+"p": "A aceleração de parto qualifica a lesão corporal como gravíssima.",
+"c": false,
+"prof": "CP, art. 129, § 1º, IV.",
+"x": "Aceleração de parto é lesão grave; o aborto é que é gravíssima.",
+"e": "Aceleração: grave."
+},
+{
+"p": "Debilidade é a diminuição permanente da capacidade de um membro, sentido ou função; perda é a ablação; inutilização é a perda da função com manutenção do órgão.",
+"c": true,
+"prof": "Conceitos médico-legais.",
+"x": "Debilidade = grave; perda e inutilização = gravíssima.",
+"e": "Debilidade, perda, inutilização."
+},
+{
+"p": "A perda de um dos olhos configura, em regra, debilidade permanente da visão, e não perda do sentido.",
+"c": true,
+"prof": "Órgãos duplos.",
+"x": "O sentido continua pelo outro olho.",
+"e": "Um olho: debilidade."
+},
+{
+"p": "A incapacidade para as ocupações habituais abrange as atividades rotineiras da vítima, e não apenas o trabalho remunerado.",
+"c": true,
+"prof": "CP, art. 129, § 1º, I.",
+"x": "Vale para criança e aposentado.",
+"e": "Ocupações habituais."
+},
+{
+"p": "A deformidade permanente exige dano estético visível, considerável e irreparável.",
+"c": true,
+"prof": "CP, art. 129, § 2º, IV.",
+"x": "Causa impressão vexatória.",
+"e": "Deformidade."
+},
+{
+"p": "A lesão corporal seguida de morte pressupõe que o resultado morte tenha sido culposo.",
+"c": true,
+"prof": "CP, art. 129, § 3º.",
+"x": "Reclusão de 4 a 12 anos.",
+"e": "Seguida de morte: culposa."
+},
+{
+"p": "O médico-legista responde aos quesitos, e o enquadramento jurídico da lesão cabe ao juiz.",
+"c": true,
+"prof": "Exame de lesão corporal.",
+"x": "O laudo é meio de prova.",
+"e": "Legista responde; juiz classifica."
+},
+{
+"p": "A ausência de lesões visíveis não exclui a ocorrência de tortura, que pode ser praticada por métodos que não deixam marcas e por sofrimento mental.",
+"c": true,
+"prof": "Tortura.",
+"x": "Protocolo de Istambul.",
+"e": "Tortura sem marcas."
+},
+{
+"p": "Equimoses em diferentes fases de coloração sugerem agressões repetidas em momentos distintos.",
+"c": true,
+"prof": "Maus-tratos e tortura.",
+"x": "Típico de violência continuada.",
+"e": "Cores diferentes: repetição."
+},
+{
+"p": "O Protocolo de Istambul é o manual da ONU para investigação e documentação de tortura e maus-tratos.",
+"c": true,
+"prof": "Tortura.",
+"x": "Orienta exame e interpretação.",
+"e": "Istambul."
+},
+{
+"p": "As roupas da vítima de disparo devem ser preservadas e encaminhadas ao exame, pois podem reter resíduos e mostrar orifícios.",
+"c": true,
+"prof": "Vestes.",
+"x": "A ausência de zonas na pele pode decorrer da roupa interposta.",
+"e": "Preservar roupas."
+},
+{
+"p": "A ausência de zonas de esfumaçamento e tatuagem na pele, sem roupa interposta, indica disparo fora do alcance dos resíduos.",
+"c": true,
+"prof": "Arma de fogo.",
+"x": "Contradiz versão de tiro encostado.",
+"e": "Sem zonas: distância."
+},
+{
+"p": "O tamponamento cardíaco ocorre quando o sangue se acumula no pericárdio e comprime o coração, podendo matar mesmo com pouco sangramento externo.",
+"c": true,
+"prof": "Causas de morte no trauma.",
+"x": "Feridas pequenas no coração podem ser fatais.",
+"e": "Tamponamento."
+},
+{
+"p": "No pneumotórax hipertensivo, o ar entra na cavidade pleural e não sai, comprimindo o pulmão e deslocando o coração e os vasos.",
+"c": true,
+"prof": "Causas de morte no trauma.",
+"x": "Pode matar em minutos.",
+"e": "Pneumotórax hipertensivo."
+},
+{
+"p": "A embolia gasosa pode ocorrer em ferimentos do pescoço que atingem veias de grosso calibre.",
+"c": true,
+"prof": "Causas de morte no trauma.",
+"x": "O ar chega ao coração.",
+"e": "Embolia gasosa."
+},
+{
+"p": "O perito deve descrever as concausas, como doenças prévias da vítima, cabendo ao juiz a valoração jurídica do nexo causal.",
+"c": true,
+"prof": "Concausas.",
+"x": "CP, art. 13.",
+"e": "Descrever concausas."
+},
+{
+"p": "As raias do cano deixam estrias no projétil que permitem o confronto balístico com a arma suspeita.",
+"c": true,
+"prof": "Balística.",
+"x": "Funcionam como impressão digital da arma.",
+"e": "Estrias: confronto."
+},
+{
+"p": "O diâmetro do orifício de entrada na pele permite determinar com precisão o calibre do projétil.",
+"c": false,
+"prof": "Balística.",
+"x": "A pele é elástica e o orifício costuma ser menor; o osso aproxima melhor o calibre.",
+"e": "Pele não mede calibre."
+},
+{
+"p": "Projéteis de alta velocidade produzem cavidade temporária que pode lesar tecidos distantes do trajeto.",
+"c": true,
+"prof": "Balística terminal.",
+"x": "Por isso fuzis são mais destrutivos.",
+"e": "Cavidade temporária."
+},
+{
+"p": "Espingardas são armas de alma lisa, que em regra disparam projéteis múltiplos.",
+"c": true,
+"prof": "Balística.",
+"x": "Não têm raiamento.",
+"e": "Alma lisa."
+},
+{
+"p": "Nas explosões, a lesão primária é causada pela onda de pressão e atinge principalmente órgãos que contêm ar, como tímpanos, pulmões e intestinos.",
+"c": true,
+"prof": "Lesões por explosão.",
+"x": "Secundária: fragmentos; terciária: projeção do corpo; quaternária: demais efeitos.",
+"e": "Blast primário."
+},
+{
+"p": "Nas explosões, as lesões causadas por fragmentos e estilhaços são classificadas como secundárias.",
+"c": true,
+"prof": "Lesões por explosão.",
+"x": "A projeção do corpo gera lesões terciárias.",
+"e": "Blast secundário."
+},
+{
+"p": "A desaceleração brusca em colisões pode romper a aorta e lesar fígado e baço.",
+"c": true,
+"prof": "Acidentes de trânsito.",
+"x": "Os órgãos continuam em movimento.",
+"e": "Desaceleração."
+},
+{
+"p": "O padrão das lesões de cinto, volante e airbag pode ajudar a identificar quem dirigia o veículo.",
+"c": true,
+"prof": "Acidentes de trânsito.",
+"x": "Com a perícia de local e do veículo.",
+"e": "Quem dirigia."
+},
 {
 "p": "A zona de tatuagem, formada pela incrustação de grãos de pólvora na pele, indica tiro a curta distância e não é removida com a lavagem.",
 "c": true,
@@ -8666,7 +9373,7 @@ export const PROFUNDO = {
 "e": "Machado: cortocontusa."
 }
 ],
-"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>6</b><span>tipos de instrumento mecânico</span></div><div class=\"lt-stat\"><b>30 dias</b><span>marco da lesão grave por incapacidade</span></div><div class=\"lt-stat\"><b>4</b><span>orlas e zonas do tiro a curta distância (contusão, enxugo, tatuagem, esfumaçamento)</span></div><div class=\"lt-stat\"><b>3</b><span>graus jurídicos de lesão (leve, grave, gravíssima) + seguida de morte</span></div></div>\n<h3>1. Energias de ordem mecânica</h3>\n<table class=\"tab\"><thead><tr><th>Instrumento</th><th>Ação</th><th>Lesão</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Perfurante</b></td><td>pressão em um ponto</td><td><b>puntiforme</b> ou punctória</td><td>agulha, prego, furador de gelo</td></tr><tr><td><b>Cortante</b></td><td>deslizamento de gume</td><td><b>incisa</b> (bordas regulares, sem pontes, com <b>cauda de escoriação</b> no fim)</td><td>navalha, bisturi, caco de vidro</td></tr><tr><td><b>Contundente</b></td><td>pressão, choque, explosão</td><td><b>contusa</b> (escoriação, equimose, hematoma, fraturas)</td><td>soco, pau, queda, para-choque</td></tr><tr><td><b>Perfurocortante</b></td><td>ponta + gume</td><td><b>perfuroincisa</b></td><td>faca, punhal</td></tr><tr><td><b>Perfurocontundente</b></td><td>ponta romba + pressão</td><td><b>perfurocontusa</b></td><td><b>projétil de arma de fogo</b>, ponta de guarda-chuva</td></tr><tr><td><b>Cortocontundente</b></td><td>gume + peso</td><td><b>cortocontusa</b></td><td>machado, facão, foice, <b>mordida</b></td></tr></tbody></table>\n<ul><li><b>Equimose</b> (sangue infiltrado na pele, sem coleção): sua cor evolui com o tempo (espectro de <b>Legrand du Saulle</b>): <b>vermelha</b> (1º dia) → <b>violácea</b> (2º e 3º) → <b>azul</b> (4º a 6º) → <b>esverdeada</b> (7º a 10º) → <b>amarelada</b> (12º em diante) → desaparece. <b>Hematoma</b> é coleção de sangue que forma relevo.</li><li>Lesões de defesa: cortes nas palmas e nos antebraços sugerem que a vítima tentou se proteger.</li></ul>\n<h3>2. Ferimentos por projétil de arma de fogo</h3>\n<table class=\"tab\"><thead><tr><th>Característica</th><th>Entrada</th><th>Saída</th></tr></thead><tbody><tr><td>Tamanho</td><td>em regra <b>menor</b></td><td>em regra <b>maior</b>, irregular</td></tr><tr><td>Bordas</td><td><b>invertidas</b> (para dentro)</td><td><b>evertidas</b> (para fora)</td></tr><tr><td>Orlas</td><td><b>orla de contusão/escoriação</b> e <b>orla de enxugo</b> (sujidade do projétil)</td><td>sem orlas</td></tr><tr><td>Tiro a curta distância</td><td><b>zona de tatuagem</b> (grãos de pólvora incrustados, não sai com lavagem) e <b>zona de esfumaçamento</b> (fuligem, sai com lavagem)</td><td>—</td></tr></tbody></table>\n<ul><li><b>Tiro encostado</b>: boca do cano contra a pele; os gases entram e formam a <b>câmara de mina de Hoffmann</b> sobre plano ósseo (crânio), com bordas rasgadas; pode haver a marca do cano (<b>sinal de Werkgaertner</b>) e fuligem na tábua óssea (<b>sinal de Benassi</b>).</li><li>A tatuagem e o esfumaçamento indicam <b>curta distância</b>; sua ausência sugere tiro a <b>longa distância</b> (ou anteparo, como roupa).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Classificação jurídica das lesões (CP, art. 129)</h3>\n<table class=\"tab\"><thead><tr><th>Grau</th><th>Resultados</th></tr></thead><tbody><tr><td><b>Leve</b> (caput)</td><td>o que não se enquadra nos parágrafos</td></tr><tr><td><b>Grave</b> (§ 1º)</td><td>incapacidade para as ocupações habituais por <b>mais de 30 dias</b>; <b>perigo de vida</b>; <b>debilidade permanente</b> de membro, sentido ou função; <b>aceleração de parto</b></td></tr><tr><td><b>Gravíssima</b> (§ 2º)</td><td>incapacidade <b>permanente</b> para o trabalho; <b>enfermidade incurável</b>; <b>perda ou inutilização</b> de membro, sentido ou função; <b>deformidade permanente</b>; <b>aborto</b></td></tr><tr><td><b>Seguida de morte</b> (§ 3º)</td><td>dolo na lesão e culpa na morte (preterdolo)</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Grave = <b>D</b>ebilidade, <b>I</b>ncapacidade +30, <b>P</b>erigo de vida, <b>A</b>celeração de parto (\"DIPA\"). Gravíssima = <b>P</b>erda/inutilização, <b>E</b>nfermidade incurável, <b>I</b>ncapacidade permanente, <b>D</b>eformidade, <b>A</b>borto (\"PEIDA\").</div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · debilidade x perda</b><p class=\"jc-tese\">A perda de <b>um dos órgãos duplos</b> (um rim, um olho) costuma gerar <b>debilidade</b> permanente (grave), e não perda da função (gravíssima), porque o órgão restante mantém a função.</p><p class=\"jc-com\">A FGV cobra o raciocínio: perda do olho esquerdo com visão preservada no direito = debilidade da visão = lesão <b>grave</b>.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Faca é instrumento perfurante</span><br>✅ <span class=\"certo\">Faca (ponta + gume) é PERFUROCORTANTE; lesão perfuroincisa.</span></li><li>❌ <span class=\"banca\">Projétil de arma de fogo é perfurocortante</span><br>✅ <span class=\"certo\">É PERFUROCONTUNDENTE.</span></li><li>❌ <span class=\"banca\">Orifício de entrada tem bordas evertidas</span><br>✅ <span class=\"certo\">Entrada: invertidas; saída: evertidas.</span></li><li>❌ <span class=\"banca\">Esfumaçamento não sai com lavagem</span><br>✅ <span class=\"certo\">A fuligem SAI; a tatuagem (pólvora incrustada) é que não sai.</span></li><li>❌ <span class=\"banca\">Debilidade permanente é lesão gravíssima</span><br>✅ <span class=\"certo\">Debilidade = GRAVE; perda ou inutilização = gravíssima.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão de faca?</span></span><span class=\"vs\"><span><b>Perfuroincisa</b> (instrumento perfurocortante).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Projétil?</span></span><span class=\"vs\"><span><b>Perfurocontundente</b> (perfurocontusa).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Machado e mordida?</span></span><span class=\"vs\"><span><b>Cortocontundentes</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Entrada x saída?</span></span><span class=\"vs\"><span>Entrada: menor, bordas <b>invertidas</b>, orlas. Saída: maior, <b>evertidas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tatuagem x esfumaçamento?</span></span><span class=\"vs\"><span>Tatuagem <b>não sai</b> com lavagem; esfumaçamento <b>sai</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equimose esverdeada?</span></span><span class=\"vs\"><span>Por volta do <b>7º ao 10º dia</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A vítima com cortes nas mãos</b><p>Um corpo apresenta ferida perfuroincisa no tórax e vários cortes superficiais nas palmas das mãos e nos antebraços. O suspeito alega que a vítima \"caiu sobre a faca\".</p><details><summary>Ver a solução comentada</summary><p>As <b>lesões de defesa</b> nas mãos e antebraços indicam que a vítima tentou se proteger de golpes, o que é incompatível com uma queda acidental única. A ferida perfuroincisa é típica de instrumento <b>perfurocortante</b> (faca).</p></details></div>"
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>6</b><span>tipos de instrumentos mecânicos (punctórios, cortantes, contundentes e mistos)</span></div><div class=\"lt-stat\"><b>4</b><span>zonas do tiro a curta distância: orla de escoriação, orla de enxugo, tatuagem e esfumaçamento</span></div><div class=\"lt-stat\"><b>~15 a 20 dias</b><span>tempo para a equimose desaparecer (espectro equimótico)</span></div><div class=\"lt-stat\"><b>4</b><span>graus de queimadura</span></div></div>\n<h3>1. Traumatologia: energias e instrumentos</h3>\n<ul><li>Estuda as <b>lesões</b> produzidas por <b>energias</b>: <b>mecânicas</b> (instrumentos), <b>físicas</b> (calor, frio, eletricidade, radiação, pressão), <b>químicas</b> (cáusticos, venenos), <b>físico-químicas</b> (asfixias), <b>bioquímicas</b> e <b>biodinâmicas</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instrumento</th><th>Como age</th><th>Lesão</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Perfurante</b> (punctório)</td><td>ponta, pressão</td><td><b>puntiforme</b> (punctória)</td><td>agulha, prego, furador de gelo</td></tr><tr><td><b>Cortante</b></td><td>gume, deslizamento</td><td><b>incisa</b>: bordas regulares, mais longa que profunda, cauda de escoriação</td><td>navalha, bisturi, caco de vidro</td></tr><tr><td><b>Contundente</b></td><td>pressão, choque, sem ponta nem gume</td><td><b>contusa</b>: escoriação, equimose, hematoma, fratura, ferida contusa de bordas irregulares</td><td>soco, pedaço de pau, queda, atropelamento</td></tr><tr><td><b>Perfurocortante</b></td><td>ponta e gume</td><td><b>perfuroincisa</b></td><td>faca, punhal, canivete</td></tr><tr><td><b>Perfurocontundente</b></td><td>ponta romba e pressão</td><td><b>perfurocontusa</b></td><td><b>projétil de arma de fogo</b>, ponta de guarda-chuva</td></tr><tr><td><b>Cortocontundente</b></td><td>gume e peso</td><td><b>cortocontusa</b></td><td>machado, facão, foice, dentes</td></tr></tbody></table>\n<h3>2. Lesões contusas</h3>\n<ul><li><b>Escoriação</b>: arrancamento da <b>epiderme</b>, expondo a derme (o \"ralado\"). <b>Equimose</b>: extravasamento de sangue que <b>infiltra</b> os tecidos <b>sem formar cavidade</b> (o \"roxo\"). <b>Hematoma</b>: sangue extravasado que <b>forma cavidade</b> nos tecidos, geralmente com <b>abaulamento</b> (o \"galo\").</li><li><b>Espectro equimótico de Legrand du Saulle</b> (estimativa da idade da lesão): <b>vermelho</b> (1º dia) → <b>violáceo</b> (2º e 3º) → <b>azul</b> (4º a 6º) → <b>esverdeado</b> (7º a 10º) → <b>amarelado</b> (10º a 12º), desaparecendo por volta de <b>15 a 20 dias</b>. Equimoses de <b>cores diferentes</b> no mesmo corpo indicam agressões em <b>momentos diferentes</b>, sinal clássico de <b>maus-tratos repetidos</b>.</li><li><b>Síndrome da criança espancada</b> (Silverman ou Caffey): equimoses de várias idades, <b>fraturas em diferentes fases de consolidação</b>, lesões incompatíveis com a história relatada pelos responsáveis.</li></ul>\n<h3>3. Lesões por projétil de arma de fogo</h3>\n<table class=\"tab\"><thead><tr><th>Elemento</th><th>Características</th></tr></thead><tbody><tr><td><b>Orifício de entrada</b></td><td>geralmente <b>menor</b>, arredondado ou oval, bordas <b>invertidas</b> (para dentro); <b>orla de escoriação/contusão</b> (arrancamento da epiderme pelo projétil) e <b>orla de enxugo</b> (impurezas do projétil deixadas na borda)</td></tr><tr><td><b>Zona de tatuagem</b></td><td><b>grãos de pólvora incrustados</b> na pele; <b>não sai com a lavagem</b>; indica tiro a <b>curta distância</b></td></tr><tr><td><b>Zona de esfumaçamento</b></td><td><b>fuligem</b> depositada sobre a pele; <b>sai com a lavagem</b>; indica tiro a <b>curtíssima distância</b></td></tr><tr><td><b>Tiro encostado</b></td><td><b>câmara de mina de Hoffmann</b> (bordas lacerantes, aspecto estrelado em região com osso logo abaixo) e sinal de <b>Puppe-Werkgaertner</b> (marca da boca do cano)</td></tr><tr><td><b>Orifício de saída</b></td><td>geralmente <b>maior</b>, <b>irregular</b>, bordas <b>evertidas</b> (para fora), <b>sem</b> orlas de escoriação e enxugo e <b>sem</b> tatuagem</td></tr></tbody></table>\n<ul><li><b>Distância do tiro</b>: <b>encostado</b> (câmara de mina); <b>curta distância</b> (dentro do alcance dos resíduos, presença de <b>tatuagem e/ou esfumaçamento</b>); <b>longa distância</b> (só orlas de escoriação e enxugo, sem resíduos da pólvora).</li></ul>\n<h3>4. Lesão corporal e Código Penal</h3>\n<ul><li>O perito descreve; o enquadramento jurídico é do Delegado, do MP e do juiz. A perícia, porém, responde aos <b>quesitos</b> que permitem classificar a lesão (art. 129 do CP): <b>leve</b>; <b>grave</b> (incapacidade para as ocupações habituais por <b>mais de 30 dias</b>, <b>perigo de vida</b>, <b>debilidade permanente</b> de membro, sentido ou função, <b>aceleração de parto</b>); <b>gravíssima</b> (<b>incapacidade permanente</b> para o trabalho, <b>enfermidade incurável</b>, <b>perda ou inutilização</b> de membro, sentido ou função, <b>deformidade permanente</b>, <b>aborto</b>).</li><li><b>Órgãos duplos</b>: perder a visão de <b>um olho</b>, mantendo a do outro, é, em regra, <b>debilidade permanente</b> da função visual (<b>lesão grave</b>), e não perda da função (gravíssima). Perder a visão dos <b>dois</b> olhos é perda (gravíssima).</li><li><b>Deformidade permanente</b>: dano estético <b>visível, irreparável e capaz de causar impressão vexatória</b> (cicatriz extensa no rosto).</li></ul>\n<h3>5. Energias físicas (visão geral)</h3>\n<ul><li><b>Temperatura (calor)</b>: queimaduras de <b>1º grau</b> (<b>eritema</b>: só epiderme, vermelhidão); <b>2º grau</b> (<b>flictenas</b>, \"bolhas\"); <b>3º grau</b> (<b>necrose</b>, escara, atinge planos profundos); <b>4º grau</b> (<b>carbonização</b>). A <b>regra dos 9</b> (Wallace) estima a superfície corporal queimada.</li><li><b>Eletricidade</b>: <b>eletroplessão</b> (natural, <b>raio</b>): pode produzir as <b>figuras de Lichtenberg</b>, desenhos <b>arborescentes</b> na pele; <b>eletrocussão</b> (eletricidade <b>industrial</b>): <b>marca elétrica de Jellinek</b>, lesão endurecida no ponto de entrada da corrente.</li><li><b>Carbonização e vitalidade</b>: se a vítima <b>estava viva</b> no incêndio, respirou a fumaça: encontra-se <b>fuligem na traqueia e nos brônquios</b> e <b>carboxiemoglobina elevada</b> no sangue. A ausência desses sinais sugere que já estava morta (incêndio para ocultar homicídio).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A faca é instrumento cortante</span><br>✅ <span class=\"certo\">É PERFUROCORTANTE (lesão perfuroincisa).</span></li><li>❌ <span class=\"banca\">O projétil é perfurante</span><br>✅ <span class=\"certo\">É PERFUROCONTUNDENTE.</span></li><li>❌ <span class=\"banca\">A tatuagem sai com a lavagem</span><br>✅ <span class=\"certo\">A tatuagem (pólvora incrustada) não sai; o esfumaçamento (fuligem) sai.</span></li><li>❌ <span class=\"banca\">Equimose forma cavidade</span><br>✅ <span class=\"certo\">Quem forma cavidade é o hematoma.</span></li><li>❌ <span class=\"banca\">Perder a visão de um olho é lesão gravíssima</span><br>✅ <span class=\"certo\">Em regra, debilidade: lesão grave.</span></li><li>❌ <span class=\"banca\">Queimadura de 1º grau forma bolhas</span><br>✅ <span class=\"certo\">Bolhas (flictenas) são de 2º grau.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Faca?</span></span><span class=\"vs\"><span><b>Perfurocortante</b> → perfuroincisa.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Projétil?</span></span><span class=\"vs\"><span><b>Perfurocontundente</b> → perfurocontusa.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Machado?</span></span><span class=\"vs\"><span><b>Cortocontundente</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equimose x hematoma?</span></span><span class=\"vs\"><span>Infiltra <b>sem</b> cavidade x <b>forma</b> cavidade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Espectro equimótico?</span></span><span class=\"vs\"><span>Vermelho, violáceo, azul, verde, amarelo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tatuagem?</span></span><span class=\"vs\"><span><b>Pólvora incrustada</b>; não sai; curta distância.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Câmara de mina?</span></span><span class=\"vs\"><span>Tiro <b>encostado</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Figuras de Lichtenberg?</span></span><span class=\"vs\"><span><b>Raio</b> (eletroplessão).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O corpo no carro queimado</b><p>Um corpo carbonizado é encontrado em veículo incendiado. A necropsia revela fuligem na traqueia e nos brônquios e carboxiemoglobina elevada. Em outro caso semelhante, não há fuligem nas vias aéreas e há um orifício de entrada com zona de tatuagem no crânio.</p><details><summary>Ver a solução comentada</summary><p>No primeiro caso, os sinais indicam que a vítima <b>estava viva</b> durante o incêndio (respirou a fumaça): <b>reação vital</b>. No segundo, a ausência de fuligem sugere que a vítima <b>já estava morta</b> quando o carro foi incendiado, e a <b>zona de tatuagem</b> indica <b>tiro a curta distância</b>: provável <b>homicídio com incêndio para ocultar o crime</b>.</p></details></div><div class=\"lt-stats\"><div class=\"lt-stat\"><b>6</b><span>tipos de instrumento mecânico</span></div><div class=\"lt-stat\"><b>30 dias</b><span>marco da lesão grave por incapacidade</span></div><div class=\"lt-stat\"><b>4</b><span>orlas e zonas do tiro a curta distância (contusão, enxugo, tatuagem, esfumaçamento)</span></div><div class=\"lt-stat\"><b>3</b><span>graus jurídicos de lesão (leve, grave, gravíssima) + seguida de morte</span></div></div>\n<h3>1. Energias de ordem mecânica</h3>\n<table class=\"tab\"><thead><tr><th>Instrumento</th><th>Ação</th><th>Lesão</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Perfurante</b></td><td>pressão em um ponto</td><td><b>puntiforme</b> ou punctória</td><td>agulha, prego, furador de gelo</td></tr><tr><td><b>Cortante</b></td><td>deslizamento de gume</td><td><b>incisa</b> (bordas regulares, sem pontes, com <b>cauda de escoriação</b> no fim)</td><td>navalha, bisturi, caco de vidro</td></tr><tr><td><b>Contundente</b></td><td>pressão, choque, explosão</td><td><b>contusa</b> (escoriação, equimose, hematoma, fraturas)</td><td>soco, pau, queda, para-choque</td></tr><tr><td><b>Perfurocortante</b></td><td>ponta + gume</td><td><b>perfuroincisa</b></td><td>faca, punhal</td></tr><tr><td><b>Perfurocontundente</b></td><td>ponta romba + pressão</td><td><b>perfurocontusa</b></td><td><b>projétil de arma de fogo</b>, ponta de guarda-chuva</td></tr><tr><td><b>Cortocontundente</b></td><td>gume + peso</td><td><b>cortocontusa</b></td><td>machado, facão, foice, <b>mordida</b></td></tr></tbody></table>\n<ul><li><b>Equimose</b> (sangue infiltrado na pele, sem coleção): sua cor evolui com o tempo (espectro de <b>Legrand du Saulle</b>): <b>vermelha</b> (1º dia) → <b>violácea</b> (2º e 3º) → <b>azul</b> (4º a 6º) → <b>esverdeada</b> (7º a 10º) → <b>amarelada</b> (12º em diante) → desaparece. <b>Hematoma</b> é coleção de sangue que forma relevo.</li><li>Lesões de defesa: cortes nas palmas e nos antebraços sugerem que a vítima tentou se proteger.</li></ul>\n<h3>2. Ferimentos por projétil de arma de fogo</h3>\n<table class=\"tab\"><thead><tr><th>Característica</th><th>Entrada</th><th>Saída</th></tr></thead><tbody><tr><td>Tamanho</td><td>em regra <b>menor</b></td><td>em regra <b>maior</b>, irregular</td></tr><tr><td>Bordas</td><td><b>invertidas</b> (para dentro)</td><td><b>evertidas</b> (para fora)</td></tr><tr><td>Orlas</td><td><b>orla de contusão/escoriação</b> e <b>orla de enxugo</b> (sujidade do projétil)</td><td>sem orlas</td></tr><tr><td>Tiro a curta distância</td><td><b>zona de tatuagem</b> (grãos de pólvora incrustados, não sai com lavagem) e <b>zona de esfumaçamento</b> (fuligem, sai com lavagem)</td><td>—</td></tr></tbody></table>\n<ul><li><b>Tiro encostado</b>: boca do cano contra a pele; os gases entram e formam a <b>câmara de mina de Hoffmann</b> sobre plano ósseo (crânio), com bordas rasgadas; pode haver a marca do cano (<b>sinal de Werkgaertner</b>) e fuligem na tábua óssea (<b>sinal de Benassi</b>).</li><li>A tatuagem e o esfumaçamento indicam <b>curta distância</b>; sua ausência sugere tiro a <b>longa distância</b> (ou anteparo, como roupa).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Classificação jurídica das lesões (CP, art. 129)</h3>\n<table class=\"tab\"><thead><tr><th>Grau</th><th>Resultados</th></tr></thead><tbody><tr><td><b>Leve</b> (caput)</td><td>o que não se enquadra nos parágrafos</td></tr><tr><td><b>Grave</b> (§ 1º)</td><td>incapacidade para as ocupações habituais por <b>mais de 30 dias</b>; <b>perigo de vida</b>; <b>debilidade permanente</b> de membro, sentido ou função; <b>aceleração de parto</b></td></tr><tr><td><b>Gravíssima</b> (§ 2º)</td><td>incapacidade <b>permanente</b> para o trabalho; <b>enfermidade incurável</b>; <b>perda ou inutilização</b> de membro, sentido ou função; <b>deformidade permanente</b>; <b>aborto</b></td></tr><tr><td><b>Seguida de morte</b> (§ 3º)</td><td>dolo na lesão e culpa na morte (preterdolo)</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Grave = <b>D</b>ebilidade, <b>I</b>ncapacidade +30, <b>P</b>erigo de vida, <b>A</b>celeração de parto (\"DIPA\"). Gravíssima = <b>P</b>erda/inutilização, <b>E</b>nfermidade incurável, <b>I</b>ncapacidade permanente, <b>D</b>eformidade, <b>A</b>borto (\"PEIDA\").</div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · debilidade x perda</b><p class=\"jc-tese\">A perda de <b>um dos órgãos duplos</b> (um rim, um olho) costuma gerar <b>debilidade</b> permanente (grave), e não perda da função (gravíssima), porque o órgão restante mantém a função.</p><p class=\"jc-com\">A FGV cobra o raciocínio: perda do olho esquerdo com visão preservada no direito = debilidade da visão = lesão <b>grave</b>.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Faca é instrumento perfurante</span><br>✅ <span class=\"certo\">Faca (ponta + gume) é PERFUROCORTANTE; lesão perfuroincisa.</span></li><li>❌ <span class=\"banca\">Projétil de arma de fogo é perfurocortante</span><br>✅ <span class=\"certo\">É PERFUROCONTUNDENTE.</span></li><li>❌ <span class=\"banca\">Orifício de entrada tem bordas evertidas</span><br>✅ <span class=\"certo\">Entrada: invertidas; saída: evertidas.</span></li><li>❌ <span class=\"banca\">Esfumaçamento não sai com lavagem</span><br>✅ <span class=\"certo\">A fuligem SAI; a tatuagem (pólvora incrustada) é que não sai.</span></li><li>❌ <span class=\"banca\">Debilidade permanente é lesão gravíssima</span><br>✅ <span class=\"certo\">Debilidade = GRAVE; perda ou inutilização = gravíssima.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão de faca?</span></span><span class=\"vs\"><span><b>Perfuroincisa</b> (instrumento perfurocortante).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Projétil?</span></span><span class=\"vs\"><span><b>Perfurocontundente</b> (perfurocontusa).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Machado e mordida?</span></span><span class=\"vs\"><span><b>Cortocontundentes</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Entrada x saída?</span></span><span class=\"vs\"><span>Entrada: menor, bordas <b>invertidas</b>, orlas. Saída: maior, <b>evertidas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tatuagem x esfumaçamento?</span></span><span class=\"vs\"><span>Tatuagem <b>não sai</b> com lavagem; esfumaçamento <b>sai</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equimose esverdeada?</span></span><span class=\"vs\"><span>Por volta do <b>7º ao 10º dia</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A vítima com cortes nas mãos</b><p>Um corpo apresenta ferida perfuroincisa no tórax e vários cortes superficiais nas palmas das mãos e nos antebraços. O suspeito alega que a vítima \"caiu sobre a faca\".</p><details><summary>Ver a solução comentada</summary><p>As <b>lesões de defesa</b> nas mãos e antebraços indicam que a vítima tentou se proteger de golpes, o que é incompatível com uma queda acidental única. A ferida perfuroincisa é típica de instrumento <b>perfurocortante</b> (faca).</p></details></div>"
 },
 "tanatologia": {
 "html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2–3 h</b><span>aparecimento dos livores</span></div><div class=\"lt-stat\"><b>8–12 h</b><span>fixação dos livores</span></div><div class=\"lt-stat\"><b>1–2 h</b><span>início da rigidez (mandíbula e nuca)</span></div><div class=\"lt-stat\"><b>18–24 h</b><span>mancha verde abdominal (início da putrefação)</span></div></div>\n<h3>1. Morte e tanatognose</h3>\n<ul><li><b>Tanatologia</b> estuda a morte e suas consequências. <b>Tanatognose</b> é o <b>diagnóstico</b> da realidade da morte; <b>cronotanatognose</b>, a estimativa do <b>tempo</b> decorrido desde a morte.</li><li><b>Morte encefálica</b>: parada total e irreversível das funções encefálicas, constatada por protocolo do CFM (Lei 9.434/1997, que trata do transplante). Permite a retirada de órgãos com autorização da família.</li></ul>\n<table class=\"tab\"><thead><tr><th>Fenômenos cadavéricos</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Abióticos imediatos</b> (sinais de probabilidade)</td><td>perda da consciência, insensibilidade, imobilidade, parada respiratória e circulatória, perda do tônus</td></tr><tr><td><b>Abióticos consecutivos</b> (sinais de certeza)</td><td><b>desidratação</b> (perda de peso, pergaminhamento da pele, mancha da esclerótica), <b>resfriamento</b> (cerca de 0,5 a 1,5 °C por hora, conforme o ambiente), <b>livores</b> (hipóstases), <b>rigidez</b></td></tr><tr><td><b>Transformativos destrutivos</b></td><td><b>autólise</b>, <b>putrefação</b>, <b>maceração</b></td></tr><tr><td><b>Transformativos conservadores</b></td><td><b>mumificação</b>, <b>saponificação</b> (adipocera), calcificação, corificação, congelação</td></tr></tbody></table>\n<h3>2. Livores e rigidez</h3>\n<ul><li><b>Livores</b> (hipóstases): sangue se deposita nas partes <b>mais baixas</b> do corpo pela gravidade. Surgem em <b>2 a 3 horas</b> e <b>fixam-se</b> em <b>8 a 12 horas</b>. Livores em posição incompatível com a do corpo indicam que o <b>cadáver foi movido</b> após a fixação.</li><li><b>Rigidez cadavérica</b>: começa em <b>1 a 2 horas</b> pela <b>mandíbula e nuca</b> e desce no sentido <b>crânio-caudal</b> (lei de <b>Nysten</b>), generaliza-se em cerca de <b>6 a 8 horas</b> e desaparece em <b>24 a 36 horas</b>, na mesma ordem. O <b>espasmo cadavérico</b> é a rigidez instantânea (ex.: mão crispada na arma), sem relaxamento prévio.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Putrefação e fenômenos conservadores</h3>\n<div class=\"lt-fluxo\"><span>Período cromático (mancha verde abdominal na fossa ilíaca direita, 18–24 h)</span> <em>→</em> <span>Período gasoso (enfisema, circulação póstuma de Brouardel, bolhas)</span> <em>→</em> <span>Período coliquativo (dissolução dos tecidos)</span> <em>→</em> <span>Esqueletização</span></div>\n<ul><li>No <b>afogado</b>, a mancha verde costuma começar na <b>cabeça e no tórax</b>. <b>Maceração</b>: amolecimento em meio líquido (feto morto retido, afogados).</li><li><b>Mumificação</b>: ambiente <b>quente, seco e ventilado</b>. <b>Saponificação (adipocera)</b>: ambiente <b>úmido</b>, solo <b>argiloso</b>, pouco ventilado. <b>Corificação</b>: corpos em <b>urnas metálicas</b> fechadas.</li></ul>\n<h3>4. Necropsia, exumação, causa da morte e cadáver</h3>\n<ul><li><b>Necropsia</b> (necroscopia ou autópsia): exame interno do cadáver para determinar a causa e as circunstâncias da morte. <b>Exumação</b>: desenterrar o cadáver para nova perícia, por ordem da autoridade.</li><li><b>Causa jurídica da morte</b>: <b>natural</b> ou <b>violenta</b> (homicídio, suicídio, acidente); quando não se sabe, <b>morte suspeita</b>, que exige investigação.</li><li><b>Comoriência</b> (CC, art. 8º): se duas pessoas morrem na mesma ocasião e não se sabe quem morreu primeiro, presumem-se <b>simultaneamente mortas</b>. <b>Premoriência</b>: prova de que uma morreu antes.</li><li><b>Direitos sobre o cadáver</b>: respeito e destinação digna; <b>destruição, subtração ou ocultação</b> de cadáver e <b>vilipêndio</b> a cadáver são crimes (CP, arts. 211 e 212); a retirada de órgãos post mortem depende de <b>autorização do cônjuge ou parente</b> maior (Lei 9.434/1997).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A rigidez começa pelos pés</span><br>✅ <span class=\"certo\">Começa pela mandíbula e nuca (crânio-caudal, Nysten).</span></li><li>❌ <span class=\"banca\">Livores aparecem logo após a morte e nunca mudam</span><br>✅ <span class=\"certo\">Surgem em 2–3 h e só se fixam em 8–12 h.</span></li><li>❌ <span class=\"banca\">A mancha verde começa no tórax em qualquer morte</span><br>✅ <span class=\"certo\">Em regra começa na fossa ilíaca direita; no afogado, cabeça e tórax.</span></li><li>❌ <span class=\"banca\">Mumificação ocorre em ambiente úmido</span><br>✅ <span class=\"certo\">Ambiente quente, SECO e ventilado; o úmido gera saponificação.</span></li><li>❌ <span class=\"banca\">Na comoriência presume-se que o mais velho morreu antes</span><br>✅ <span class=\"certo\">Presume-se morte SIMULTÂNEA.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Livores?</span></span><span class=\"vs\"><span>Surgem em <b>2–3 h</b>; fixam em <b>8–12 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rigidez?</span></span><span class=\"vs\"><span>Começa em <b>1–2 h</b> (mandíbula/nuca), generaliza em <b>6–8 h</b>, some em <b>24–36 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mancha verde?</span></span><span class=\"vs\"><span><b>Fossa ilíaca direita</b>, <b>18–24 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mumificação x saponificação?</span></span><span class=\"vs\"><span><b>Seco e ventilado</b> x <b>úmido e argiloso</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comoriência?</span></span><span class=\"vs\"><span>Morte <b>simultânea</b> presumida.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Espasmo cadavérico?</span></span><span class=\"vs\"><span>Rigidez <b>instantânea</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O corpo mudado de lugar</b><p>O cadáver é encontrado de bruços, mas os livores estão fixados nas costas.</p><details><summary>Ver a solução comentada</summary><p>Os livores se formam nas partes mais baixas e se fixam em 8 a 12 horas. Livores nas costas de um corpo de bruços indicam que ele ficou <b>de costas</b> por horas após a morte e foi <b>movido depois</b> da fixação: forte indício de <b>alteração do local</b> do crime.</p></details></div>",
@@ -8751,8 +9458,631 @@ export const PROFUNDO = {
 ]
 },
 "asfixiologia": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>asfixias por constrição do pescoço: enforcamento, estrangulamento e esganadura</span></div><div class=\"lt-stat\"><b>1</b><span>esganadura: sempre homicídio (não há suicídio por esganadura)</span></div><div class=\"lt-stat\"><b>2</b><span>sufocações: direta (vias aéreas) e indireta (compressão do tórax)</span></div><div class=\"lt-stat\"><b>0</b><span>valor das \"mãos de lavadeira\" para provar afogamento (indicam só permanência na água)</span></div></div>\n<h3>1. Conceito e sinais gerais</h3>\n<ul><li><b>Asfixia</b> é a <b>falta de oxigênio</b> nos tecidos com acúmulo de gás carbônico, causada por um obstáculo à respiração. As asfixias mecânicas pertencem às <b>energias de ordem físico-química</b>.</li><li><b>Sinais gerais</b> (inespecíficos, aparecem em várias asfixias): <b>cianose</b> (coloração azulada da face e extremidades), <b>petéquias</b> (pequenas hemorragias puntiformes) nas conjuntivas e na face, <b>manchas de Tardieu</b> (petéquias subpleurais e subepicárdicas), <b>congestão</b> dos órgãos, <b>sangue fluido e escuro</b>, livores precoces e intensos.</li></ul>\n<h3>2. Constrição do pescoço</h3>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Agente constritor</th><th>Força</th><th>Sulco ou marcas</th><th>Causa jurídica mais comum</th></tr></thead><tbody><tr><td><b>Enforcamento</b></td><td><b>laço</b></td><td>o <b>peso do próprio corpo</b></td><td>sulco <b>oblíquo ascendente</b>, <b>descontínuo</b> (interrompido no ponto do nó), geralmente <b>acima da laringe</b>, com fundo <b>apergaminhado</b> (pele seca e endurecida)</td><td><b>suicídio</b> (homicídio é raro e simulações devem ser investigadas)</td></tr><tr><td><b>Estrangulamento</b></td><td><b>laço</b></td><td><b>força muscular</b> do agressor (ou outra força ativa)</td><td>sulco <b>horizontal</b>, <b>contínuo</b> (dá a volta completa), geralmente <b>abaixo ou na altura da laringe</b>, de profundidade uniforme</td><td><b>homicídio</b></td></tr><tr><td><b>Esganadura</b></td><td><b>mãos</b> do agressor</td><td>força muscular</td><td><b>não há sulco</b>; há <b>equimoses</b> e <b>escoriações</b> em forma de <b>unha</b> (estigmas ungueais), equimoses digitais, fraturas da laringe e do osso hioide</td><td><b>sempre homicídio</b> (ninguém se esgana a si mesmo)</td></tr></tbody></table>\n<ul><li><b>Enforcamento típico x atípico</b>: típico quando o nó fica na <b>nuca</b> (região occipital); atípico nas demais posições. <b>Completo</b> (corpo totalmente suspenso) x <b>incompleto</b> (parte do corpo apoiada no chão: joelhos, pés), que é possível porque bastam poucos quilos de pressão para ocluir as artérias do pescoço.</li><li><b>Sinais de reação vital</b>: equimoses e infiltração hemorrágica no sulco indicam que a pessoa estava <b>viva</b> quando o laço atuou; ajudam a distinguir de <b>simulação</b> (corpo pendurado depois de morto).</li></ul>\n<h3>3. Obstrução das vias respiratórias e compressão</h3>\n<ul><li><b>Sufocação direta</b>: obstrução da <b>boca e do nariz</b> (mãos, travesseiro, saco plástico) ou das <b>vias aéreas</b> (corpo estranho, como alimento, prótese dentária, mordaça). Sinais: escoriações e equimoses em volta da boca e do nariz, marcas de unhas, lesões na mucosa labial.</li><li><b>Sufocação indireta</b>: <b>compressão do tórax e do abdome</b> que impede os movimentos respiratórios (multidões em tumulto, soterramento parcial, alguém que se senta sobre a vítima). Sinal típico: <b>máscara equimótica</b> de Morestin (cianose e petéquias na face, pescoço e parte superior do tórax).</li><li><b>Confinamento</b>: permanência em ambiente fechado sem renovação de ar (crianças trancadas em carro, porta-malas): o oxigênio se esgota e o CO₂ se acumula.</li><li><b>Soterramento</b>: obstrução por <b>sólidos</b> (terra, areia, grãos); achado característico é a presença do material nas <b>vias aéreas</b> e no <b>estômago</b>, indicando que a vítima respirava e deglutia ao ser soterrada.</li></ul>\n<h3>4. Afogamento</h3>\n<ul><li><b>Afogamento</b> é a asfixia por <b>substituição do ar por líquido</b> nas vias respiratórias.</li></ul>\n<table class=\"tab\"><thead><tr><th>Sinal</th><th>O que indica</th></tr></thead><tbody><tr><td><b>Cogumelo de espuma</b> na boca e no nariz</td><td>espuma fina, branca ou rósea, persistente: sinal de <b>afogamento em vida</b> (mistura de ar, água e muco pela respiração)</td></tr><tr><td><b>Enfisema hidroaéreo</b> dos pulmões</td><td>pulmões volumosos, encharcados</td></tr><tr><td><b>Água e corpos estranhos</b> (areia, algas) no estômago e nas vias aéreas</td><td>deglutição e aspiração em vida</td></tr><tr><td><b>Diatomáceas</b> (algas microscópicas) na <b>medula óssea</b> e em órgãos</td><td>passaram à circulação pela respiração: forte indício de afogamento em vida</td></tr><tr><td><b>Maceração da pele</b> (\"<b>mãos de lavadeira</b>\", pele enrugada e esbranquiçada)</td><td>indica apenas <b>permanência do corpo na água</b>, e <b>não</b> que houve afogamento</td></tr><tr><td><b>Mancha verde da putrefação</b> no tórax (e não no abdome)</td><td>nos afogados, a putrefação costuma começar pela parte superior do tórax</td></tr></tbody></table>\n<ul><li><b>Afogado branco x azul</b>: o \"azul\" (asfíctico) tem cianose intensa; o \"branco\" decorre de inibição reflexa (morte súbita por choque com a água fria, sem as alterações asfíticas típicas).</li><li><b>Corpo que flutua</b>: com a putrefação, os gases fazem o cadáver <b>voltar à superfície</b> dias depois.</li></ul>\n<h3>5. Outras asfixias</h3>\n<ul><li><b>Asfixia por gases irrespiráveis</b> ou ar rarefeito (grandes altitudes, ambientes saturados de gases inertes). <b>Monóxido de carbono</b> é tratado como asfixia <b>química</b> (livores vermelho-carmim).</li><li><b>Asfixia posicional</b>: a posição do corpo impede a respiração (contenção em decúbito ventral com peso sobre as costas). É relevante na análise de mortes durante <b>contenção policial</b>: técnicas que comprimem tórax ou pescoço por tempo prolongado podem causar morte por asfixia.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O sulco do enforcamento é horizontal e contínuo</span><br>✅ <span class=\"certo\">Esse é o do estrangulamento; o do enforcamento é oblíquo ascendente e descontínuo.</span></li><li>❌ <span class=\"banca\">Esganadura pode ser suicídio</span><br>✅ <span class=\"certo\">Sempre homicídio.</span></li><li>❌ <span class=\"banca\">Mãos de lavadeira provam afogamento</span><br>✅ <span class=\"certo\">Indicam só permanência na água.</span></li><li>❌ <span class=\"banca\">O enforcamento incompleto é impossível</span><br>✅ <span class=\"certo\">Basta pouca pressão para ocluir as artérias; é possível com os pés no chão.</span></li><li>❌ <span class=\"banca\">A máscara equimótica é sinal de esganadura</span><br>✅ <span class=\"certo\">É da sufocação indireta (compressão do tórax).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Enforcamento?</span></span><span class=\"vs\"><span>Laço + <b>peso do corpo</b>; sulco <b>oblíquo, descontínuo</b>, acima da laringe.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estrangulamento?</span></span><span class=\"vs\"><span>Laço + <b>força ativa</b>; sulco <b>horizontal, contínuo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Esganadura?</span></span><span class=\"vs\"><span><b>Mãos</b>; estigmas <b>ungueais</b>; sempre <b>homicídio</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sufocação indireta?</span></span><span class=\"vs\"><span><b>Compressão do tórax</b>; máscara equimótica.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cogumelo de espuma?</span></span><span class=\"vs\"><span>Afogamento <b>em vida</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diatomáceas na medula?</span></span><span class=\"vs\"><span>Afogamento <b>em vida</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mãos de lavadeira?</span></span><span class=\"vs\"><span>Só <b>permanência na água</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Soterramento?</span></span><span class=\"vs\"><span>Material nas <b>vias aéreas e no estômago</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O corpo no galpão</b><p>Um homem é encontrado pendurado por uma corda no galpão de casa. O perito observa que o sulco no pescoço é <b>horizontal</b>, <b>contínuo</b> e abaixo da laringe, com escoriações ungueais ao redor, e não há sinais de reação vital no sulco.</p><details><summary>Ver a solução comentada</summary><p>Os achados são <b>incompatíveis com enforcamento suicida</b>: o sulco horizontal e contínuo é típico de <b>estrangulamento</b>; as <b>escoriações ungueais</b> sugerem luta ou esganadura; a ausência de reação vital no sulco indica que o corpo pode ter sido <b>pendurado depois da morte</b> (simulação). A hipótese principal é <b>homicídio</b>, com montagem de cena de suicídio. O local deve ser preservado e o caso investigado como crime contra a vida.</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>formas de constrição do pescoço (enforcamento, estrangulamento e esganadura)</span></div><div class=\"lt-stat\"><b>4</b><span>fases clássicas da asfixia</span></div><div class=\"lt-stat\"><b>100%</b><span>das esganaduras são homicidas (a mão afrouxa quando a vítima perde a consciência)</span></div><div class=\"lt-stat\"><b>1</b><span>sinal vital clássico do afogamento: o cogumelo de espuma</span></div></div>\n<h3>1. O que é asfixia</h3>\n<ul><li><b>Asfixia</b> (do grego, \"sem pulso\") é, em Medicina Legal, a síndrome causada pelo <b>impedimento das trocas respiratórias</b>: o oxigênio não chega aos tecidos (<b>hipóxia</b>, até <b>anóxia</b>) e o <b>gás carbônico</b> se acumula no sangue (<b>hipercapnia</b>). O cérebro é o órgão mais sensível: em poucos minutos sem oxigênio, sofre lesões irreversíveis.</li><li>Na classificação das energias lesivas, as asfixias são produzidas por <b>energias de ordem físico-química</b>: um agente <b>físico</b> (a corda, a mão, a água, a terra) desencadeia uma alteração <b>química</b> (a falta de oxigênio e o excesso de gás carbônico).</li><li><b>Asfixias mecânicas</b> (as mais estudadas) são as produzidas por um <b>obstáculo mecânico</b> à respiração: no <b>pescoço</b> (constrição), nas <b>vias aéreas</b> (oclusão ou obstrução), no <b>tórax</b> (compressão) ou no <b>meio</b> (água, terra, ar sem oxigênio).</li></ul>\n<table class=\"tab\"><thead><tr><th>Grupo</th><th>Espécies</th><th>Ideia central</th></tr></thead><tbody><tr><td><b>Constrição do pescoço</b></td><td><b>enforcamento</b>, <b>estrangulamento</b>, <b>esganadura</b></td><td>algo aperta o pescoço (laço ou mãos)</td></tr><tr><td><b>Oclusão e obstrução das vias aéreas</b></td><td><b>sufocação direta</b> (tapar boca e nariz; corpo estranho na garganta; mordaça)</td><td>o ar não entra</td></tr><tr><td><b>Compressão do tórax e do abdome</b></td><td><b>sufocação indireta</b> (compressão torácica, asfixia traumática, asfixia posicional)</td><td>o tórax não consegue se expandir</td></tr><tr><td><b>Modificação do meio respirável</b></td><td><b>afogamento</b> (líquido), <b>soterramento</b> (sólido), <b>confinamento</b> (ar viciado), <b>gases irrespiráveis</b></td><td>a pessoa respira algo que não é ar adequado</td></tr></tbody></table>\n<h3>2. As fases da asfixia</h3>\n<ul><li>A doutrina descreve, com pequenas variações entre autores, uma evolução em <b>fases</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Fase</th><th>O que acontece</th></tr></thead><tbody><tr><td><b>1ª – Dispneia inspiratória</b> (fase de excitação)</td><td>a vítima faz <b>inspirações profundas e rápidas</b>, fica agitada, com <b>cianose</b> progressiva (cor arroxeada), aumento da pressão e da frequência cardíaca</td></tr><tr><td><b>2ª – Dispneia expiratória e convulsões</b></td><td>expirações forçadas, <b>perda da consciência</b>, <b>convulsões</b>; podem ocorrer liberação de urina, fezes e esperma</td></tr><tr><td><b>3ª – Pausa respiratória</b> (morte aparente)</td><td>a respiração para; o coração ainda bate; ainda há chance de <b>reanimação</b></td></tr><tr><td><b>4ª – Respirações agônicas e parada cardíaca</b></td><td>movimentos respiratórios isolados (agônicos), depois <b>parada do coração</b> e morte</td></tr></tbody></table>\n<ul><li><b>Tempo</b>: a perda de consciência pode ocorrer em <b>segundos</b> (na compressão das artérias do pescoço) ou em um a dois minutos; a morte, em poucos minutos, variando com o mecanismo. Por isso, o socorro imediato (desfazer o laço, retirar da água, desobstruir a via aérea e reanimar) salva vidas.</li></ul>\n<h3>3. Sinais gerais da asfixia (e por que não bastam)</h3>\n<ul><li>Na necropsia, alguns achados aparecem em muitas asfixias, mas <b>não são exclusivos</b> delas (também ocorrem em outras mortes rápidas, como algumas mortes cardíacas):</li></ul>\n<table class=\"tab\"><thead><tr><th>Sinal geral</th><th>Descrição</th></tr></thead><tbody><tr><td><b>Cianose</b></td><td>coloração arroxeada da <b>face</b>, dos lábios e das unhas</td></tr><tr><td><b>Petéquias</b> (incluindo as <b>manchas de Tardieu</b>)</td><td>pequenas hemorragias puntiformes na face, nas <b>conjuntivas</b> (olhos), sob a <b>pleura</b> (pulmões) e o <b>epicárdio</b> (coração)</td></tr><tr><td><b>Sangue escuro e fluido</b></td><td>o sangue tende a permanecer líquido e escuro</td></tr><tr><td><b>Congestão</b> dos órgãos e <b>edema pulmonar</b></td><td>órgãos cheios de sangue; pulmões pesados, com líquido</td></tr><tr><td><b>Livores</b> intensos e escuros</td><td>manchas de hipóstase precoces e arroxeadas</td></tr><tr><td><b>Equimoses subconjuntivais</b></td><td>manchas vermelhas nos olhos, por aumento da pressão venosa na cabeça</td></tr></tbody></table>\n<ul><li><b>Manchas de Tardieu</b>: são as <b>petéquias subpleurais e subepicárdicas</b>, isto é, pequenos pontos hemorrágicos na superfície dos <b>pulmões</b> e do <b>coração</b>, clássicas das asfixias (sobretudo das que envolvem esforço respiratório contra obstáculo).</li><li><b>Limite diagnóstico</b>: os sinais gerais são <b>inespecíficos</b>. O que <b>prova</b> o tipo de asfixia são os <b>sinais locais</b> (o <b>sulco</b> do laço, as <b>marcas de dedos</b>, as lesões da boca e do nariz, a <b>espuma</b> e a água do afogado, a terra nas vias aéreas do soterrado) e a <b>perícia do local</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As manchas de Tardieu são equimoses grandes no pescoço</span><br>✅ <span class=\"certo\">São <b>petéquias</b> sob a <b>pleura</b> e o <b>epicárdio</b></span></li><li>❌ <span class=\"banca\">Os sinais gerais bastam para diagnosticar a asfixia</span><br>✅ <span class=\"certo\">São <b>inespecíficos</b>; o diagnóstico depende dos <b>sinais locais</b> e do local</span></li><li>❌ <span class=\"banca\">Na pausa respiratória a vítima já está irremediavelmente morta</span><br>✅ <span class=\"certo\">Na 3ª fase o coração ainda bate e há chance de <b>reanimação</b></span></li></ol></div>\n<h3>4. Enforcamento: conceito e formas</h3>\n<ul><li><b>Enforcamento</b> é a constrição do pescoço por um <b>laço</b> acionado pelo <b>peso do próprio corpo</b> da vítima. A força que aperta não vem dos músculos de alguém, e sim da <b>gravidade</b>.</li><li><b>Laços</b>: <b>duros</b> (arame, corrente, fio), <b>semirrígidos</b> (cordas, cintos) e <b>moles</b> (lençol, toalha, gravata, roupas). O laço deixa no pescoço um <b>sulco</b> que, muitas vezes, reproduz sua textura (o trançado da corda, a fivela do cinto).</li></ul>\n<table class=\"tab\"><thead><tr><th>Classificação</th><th>Espécies</th></tr></thead><tbody><tr><td><b>Quanto à posição do nó</b></td><td><b>típico</b>: nó na <b>nuca</b> (região posterior, na linha média); <b>atípico</b>: nó em <b>outra posição</b> (lateral, sob o queixo)</td></tr><tr><td><b>Quanto à suspensão</b></td><td><b>completo</b>: corpo <b>totalmente suspenso</b>, sem apoio; <b>incompleto</b>: parte do corpo <b>apoiada</b> (pés no chão, joelhos, sentado, deitado)</td></tr></tbody></table>\n<ul><li><b>Enforcamento incompleto</b>: é muito frequente e confunde leigos. Basta uma parte do peso do corpo, mesmo com a pessoa <b>ajoelhada, sentada ou quase deitada</b>, para comprimir as artérias do pescoço e matar. Por isso, ver a vítima com os pés no chão <b>não</b> prova que alguém a pendurou ou que não foi suicídio.</li><li><b>Causa jurídica</b>: o enforcamento é, na imensa maioria dos casos, <b>suicida</b>. O enforcamento <b>homicida</b> é raro e exige que a vítima esteja <b>incapacitada</b> (desacordada, embriagada, drogada, criança) ou que haja <b>vários agressores</b>. Existe também o <b>enforcamento acidental</b> (crianças com cordões de cortinas, práticas autoeróticas) e o <b>judicial</b> (execução, inexistente no Brasil).</li><li><b>Simulação</b>: o agressor pode <b>pendurar</b> o corpo de quem já foi morto por outro meio (esganadura, estrangulamento, pancada) para simular suicídio. A perícia procura <b>dois sulcos</b> ou um sulco <b>sem reação vital</b>, lesões que o enforcamento não explica e sinais de <b>luta</b>.</li></ul>\n<h3>5. Mecanismos de morte no enforcamento</h3>\n<ul><li><b>Compressão das artérias</b> do pescoço (carótidas e vertebrais): interrompe o sangue para o cérebro. Com poucos quilos de força as carótidas se fecham, e a <b>perda de consciência</b> é rápida. É o mecanismo <b>principal</b>.</li><li><b>Compressão das veias</b> jugulares: o sangue chega à cabeça, mas não volta, causando <b>congestão</b> e cianose da face (quando as artérias não são totalmente fechadas).</li><li><b>Obstrução das vias aéreas</b>: a base da língua é empurrada contra a faringe e a laringe é comprimida.</li><li><b>Inibição reflexa</b> (vagal): a pressão sobre o <b>seio carotídeo</b> pode provocar <b>parada cardíaca</b> súbita reflexa.</li><li><b>Lesão da coluna cervical</b>: no <b>enforcamento judicial com queda</b> (a pessoa cai alguns metros antes de o laço se esticar), ocorre a <b>fratura-luxação da 2ª vértebra cervical</b> (a \"<b>fratura do enforcado</b>\" ou do carrasco), com lesão da medula. No enforcamento suicida comum, sem queda, essa fratura é <b>rara</b>.</li><li><b>Enforcado branco x enforcado azul</b>: quando o laço fecha <b>completamente</b> as artérias (geralmente no enforcamento típico e completo), a face fica <b>pálida</b> (\"enforcado branco\"), porque o sangue não chega à cabeça; quando fecha as <b>veias</b> mas não completamente as artérias (enforcamento atípico ou incompleto), a face fica <b>congesta e cianótica</b>, com petéquias (\"enforcado azul\").</li></ul>\n<h3>6. O sulco do enforcamento e os outros sinais</h3>\n<table class=\"tab\"><thead><tr><th>Característica do sulco do enforcamento</th><th>Explicação</th></tr></thead><tbody><tr><td><b>Oblíquo e ascendente</b></td><td>sobe em direção ao <b>nó</b>, porque o laço é puxado para cima pelo peso do corpo</td></tr><tr><td><b>Descontínuo</b> (interrompido)</td><td><b>não</b> circunda todo o pescoço: falta na região do <b>nó</b>, onde o laço se afasta da pele</td></tr><tr><td><b>Alto</b></td><td>situa-se <b>acima</b> da cartilagem tireoide (entre a laringe e o queixo)</td></tr><tr><td><b>Profundidade desigual</b></td><td><b>mais profundo</b> do lado <b>oposto</b> ao nó, onde a pressão é maior, e mais raso perto do nó</td></tr><tr><td><b>Fundo apergaminhado</b></td><td>seco, <b>pálido</b>, endurecido, amarelado (pela compressão e dessecação da pele)</td></tr><tr><td><b>Bordas</b></td><td>podem ter pequenas <b>equimoses</b> e escoriações (sinais de reação vital)</td></tr></tbody></table>\n<ul><li><b>Sinais no pescoço</b>: equimoses e infiltrações hemorrágicas nos <b>músculos</b> sob o sulco; <b>sinal de Amussat</b> (ruptura <b>transversal</b> da camada <b>íntima</b> da artéria <b>carótida</b>, pelo estiramento); <b>sinal de Friedberg</b> (sufusão hemorrágica na camada externa, <b>adventícia</b>, da carótida); fraturas do <b>osso hioide</b> e da <b>cartilagem tireoide</b> (mais comuns em <b>idosos</b>, cujas cartilagens estão calcificadas).</li><li><b>Sinais no corpo</b>: <b>língua</b> projetada entre os dentes, às vezes escurecida; saliva escorrendo pelo canto da boca no sentido da gravidade (sinal de que a pessoa estava viva e suspensa); <b>livores</b> nas partes mais baixas, isto é, <b>pernas, pés e mãos</b> (em \"<b>luva e meia</b>\") quando o corpo ficou suspenso por horas; <b>equimoses</b> em pernas e braços por choque contra objetos próximos durante as convulsões; eventualmente <b>ereção, ejaculação</b>, urina e fezes.</li><li><b>Sulco vital x post mortem</b>: o sulco produzido em <b>vida</b> tem <b>infiltração hemorrágica</b> nas bordas e nos tecidos profundos e pode ter as lesões vasculares (Amussat, Friedberg); o laço colocado no <b>cadáver</b> produz sulco <b>sem reação vital</b>, sem infiltração e sem as lesões vasculares. A diferenciação, nos casos limítrofes, exige <b>exame microscópico</b> e análise do conjunto.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O sulco do enforcamento é horizontal e contínuo</span><br>✅ <span class=\"certo\">É <b>oblíquo ascendente</b> e <b>descontínuo</b> (falta na região do nó)</span></li><li>❌ <span class=\"banca\">O sulco do enforcamento é mais profundo junto ao nó</span><br>✅ <span class=\"certo\">É mais profundo do lado <b>oposto</b> ao nó</span></li><li>❌ <span class=\"banca\">No enforcamento típico, o nó fica sob o queixo</span><br>✅ <span class=\"certo\">No <b>típico</b>, o nó fica na <b>nuca</b></span></li><li>❌ <span class=\"banca\">Se a vítima estava com os pés no chão, não pode ter havido enforcamento</span><br>✅ <span class=\"certo\">É o enforcamento <b>incompleto</b>, muito comum</span></li><li>❌ <span class=\"banca\">A fratura da 2ª vértebra cervical é comum no enforcamento suicida</span><br>✅ <span class=\"certo\">É típica do enforcamento <b>judicial com queda</b>; no suicida é <b>rara</b></span></li><li>❌ <span class=\"banca\">Sinal de Amussat é a equimose da pele do pescoço</span><br>✅ <span class=\"certo\">É a <b>ruptura transversal da íntima da carótida</b></span></li></ol></div>\n<h3>7. Estrangulamento</h3>\n<ul><li><b>Estrangulamento</b> é a constrição do pescoço por um <b>laço</b> acionado por uma <b>força muscular</b> (em regra, a de <b>outra pessoa</b>), e não pelo peso do corpo.</li></ul>\n<table class=\"tab\"><thead><tr><th>Característica do sulco do estrangulamento</th><th>Explicação</th></tr></thead><tbody><tr><td><b>Horizontal</b></td><td>o laço é puxado no plano do pescoço, não para cima</td></tr><tr><td><b>Contínuo</b></td><td>circunda <b>todo</b> o pescoço (pode ter um ponto de cruzamento ou de nó)</td></tr><tr><td><b>Baixo</b></td><td>situa-se na altura ou <b>abaixo</b> da cartilagem tireoide</td></tr><tr><td><b>Profundidade uniforme</b></td><td>a pressão se distribui por igual</td></tr><tr><td><b>Fundo</b> menos apergaminhado e mais <b>equimótico</b></td><td>com <b>escoriações</b> e <b>equimoses</b>, às vezes com várias voltas e marcas de luta</td></tr></tbody></table>\n<ul><li><b>Face</b>: geralmente <b>congesta e cianótica</b>, com <b>petéquias</b> abundantes na face e nas conjuntivas (as veias são comprimidas, e a vítima luta, mantendo o sangue chegando e não saindo da cabeça).</li><li><b>Causa jurídica</b>: quase sempre <b>homicida</b>. O estrangulamento <b>suicida</b> é <b>raro</b>, mas possível quando a pessoa usa um mecanismo que mantém o laço apertado depois que ela perde a consciência (por exemplo, um torniquete com um bastão travado). O <b>acidental</b> ocorre com roupas, cachecóis presos em máquinas, cordões em crianças.</li><li><b>Sinais de luta</b>: escoriações produzidas pelas <b>unhas da própria vítima</b> tentando afastar o laço (escoriações verticais, paralelas, junto ao sulco), lesões de <b>defesa</b>, outras agressões. Material sob as <b>unhas</b> da vítima (pele e sangue do agressor) deve ser coletado para <b>DNA</b>.</li><li><b>Estrangulamento por antebraço</b> (a \"gravata\" ou \"mata-leão\"): o agressor comprime o pescoço com o <b>braço</b>. Pode <b>não deixar sulco</b>, mas costuma deixar equimoses difusas, lesões musculares profundas no pescoço, fraturas do hioide ou da cartilagem tireoide e sinais de asfixia. Interessa também ao <b>uso da força</b> por agentes de segurança: técnicas de imobilização pelo pescoço podem matar em segundos (por compressão das carótidas e reflexo vagal), e seu uso é objeto de grande controvérsia e de restrições em muitos protocolos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O estrangulamento é, em regra, suicida</span><br>✅ <span class=\"certo\">É quase sempre <b>homicida</b>; o suicida é raro (exige mecanismo que mantenha o aperto)</span></li><li>❌ <span class=\"banca\">O sulco do estrangulamento é oblíquo e descontínuo</span><br>✅ <span class=\"certo\">É <b>horizontal</b> e <b>contínuo</b> (oblíquo e descontínuo é o do <b>enforcamento</b>)</span></li><li>❌ <span class=\"banca\">A \"gravata\" sempre deixa sulco nítido</span><br>✅ <span class=\"certo\">Pode <b>não deixar sulco</b>; deixa equimoses e lesões profundas</span></li></ol></div>\n<h3>8. Esganadura</h3>\n<ul><li><b>Esganadura</b> é a constrição do pescoço pelas <b>mãos</b> do agressor (com uma ou duas mãos).</li><li><b>Sinais locais</b>: <b>estigmas ungueais</b> (escoriações em <b>meia-lua</b> ou arco produzidas pelas <b>unhas</b> do agressor e também da vítima tentando se soltar) e <b>equimoses digitais</b> (manchas arredondadas produzidas pela pressão das <b>polpas dos dedos</b>; classicamente, a do <b>polegar</b> de um lado do pescoço e a dos <b>outros dedos</b> do outro lado); lesões profundas dos <b>músculos</b>; <b>fraturas</b> do <b>osso hioide</b> e das <b>cartilagens da laringe</b> (tireoide, cricoide), frequentes pela pressão concentrada dos dedos.</li><li><b>Face</b>: <b>congesta e cianótica</b>, com <b>petéquias</b> intensas nas conjuntivas e na face.</li><li><b>Causa jurídica</b>: a esganadura é <b>sempre homicida</b>. Não existe <b>esganadura suicida</b>, porque, ao perder a consciência, a pessoa <b>afrouxa as próprias mãos</b>, e a compressão cessa. A <b>acidental</b> é, na prática, inexistente.</li><li><b>Contexto</b>: a esganadura é forma comum de homicídio em <b>violência doméstica</b> e <b>violência sexual</b>, porque não exige arma e é feita \"corpo a corpo\". O exame minucioso do pescoço e a coleta de material sob as <b>unhas</b> da vítima são essenciais.</li></ul>\n<table class=\"tab\"><thead><tr><th>Comparação</th><th>Enforcamento</th><th>Estrangulamento</th><th>Esganadura</th></tr></thead><tbody><tr><td><b>Agente</b></td><td>laço + <b>peso do corpo</b></td><td>laço + <b>força muscular</b></td><td><b>mãos</b></td></tr><tr><td><b>Sulco</b></td><td><b>oblíquo ascendente</b>, <b>descontínuo</b>, <b>alto</b>, profundidade <b>desigual</b>, fundo <b>apergaminhado</b></td><td><b>horizontal</b>, <b>contínuo</b>, <b>baixo</b>, profundidade <b>uniforme</b></td><td><b>não há sulco</b>: há <b>estigmas ungueais</b> e <b>equimoses digitais</b></td></tr><tr><td><b>Face</b></td><td><b>pálida</b> (típico completo) ou cianótica</td><td><b>cianótica</b>, petéquias</td><td><b>cianótica</b>, petéquias intensas</td></tr><tr><td><b>Fraturas de hioide/laringe</b></td><td>possíveis (mais em idosos)</td><td>possíveis</td><td><b>frequentes</b></td></tr><tr><td><b>Causa jurídica mais comum</b></td><td><b>suicídio</b></td><td><b>homicídio</b></td><td><b>sempre homicídio</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Existe esganadura suicida</span><br>✅ <span class=\"certo\"><b>Não existe</b>: a mão afrouxa quando a pessoa perde a consciência</span></li><li>❌ <span class=\"banca\">Equimoses digitais são produzidas pelas unhas</span><br>✅ <span class=\"certo\">As <b>unhas</b> produzem os <b>estigmas ungueais</b>; as <b>polpas</b> dos dedos, as <b>equimoses digitais</b></span></li><li>❌ <span class=\"banca\">A esganadura deixa sulco horizontal</span><br>✅ <span class=\"certo\">A esganadura <b>não deixa sulco</b>; deixa marcas de <b>dedos e unhas</b></span></li></ol></div>\n<h3>9. Sufocação direta: oclusão e obstrução das vias aéreas</h3>\n<ul><li><b>Oclusão dos orifícios respiratórios</b> (boca e nariz): com a <b>mão</b>, um <b>travesseiro</b>, um <b>saco plástico</b> na cabeça, fita adesiva. Os sinais podem ser <b>discretos</b>: escoriações e equimoses ao redor do <b>nariz e da boca</b>, lesões na <b>face interna dos lábios</b> (comprimida contra os dentes), marcas de unhas, petéquias. Com objetos macios (travesseiro), pode <b>não haver lesão</b> visível, especialmente em <b>crianças pequenas e idosos</b> (que resistem pouco), o que torna o diagnóstico difícil.</li><li><b>Obstrução interna das vias aéreas</b>: por <b>corpo estranho</b> (alimento, brinquedo, prótese dentária) que fica preso na laringe ou na traqueia (o \"<b>engasgo</b>\"), por <b>mordaças</b> introduzidas na boca, por sangue ou vômito aspirado (em pessoas inconscientes, embriagadas, em convulsões). O achado do <b>corpo estranho</b> na via aérea, durante a necropsia, define o diagnóstico; a investigação define se foi acidente (criança que engoliu peça pequena; adulto embriagado que se engasgou com carne) ou crime (mordaça).</li><li><b>Sufocação de recém-nascidos e lactentes</b>: pode ser <b>acidental</b> (bebê que dorme na cama dos pais e é sufocado por um adulto, por travesseiros ou cobertores, ou em posição de bruços), ou <b>criminosa</b> (<b>infanticídio</b> ou homicídio por oclusão da boca e do nariz). O diagnóstico diferencial com a <b>síndrome da morte súbita do lactente</b> (morte inexplicada de bebê aparentemente saudável durante o sono, que é um diagnóstico <b>de exclusão</b>) é um dos mais difíceis da Medicina Legal: exige necropsia completa, exames complementares, <b>investigação do local</b> (como o bebê dormia) e da história.</li><li><b>Saco plástico na cabeça</b>: pode ser suicida (às vezes com gases como hélio ou nitrogênio), acidental ou homicida. Os sinais são pobres; o diagnóstico depende muito do <b>local</b> e das circunstâncias.</li></ul>\n<h3>10. Sufocação indireta: compressão do tórax e asfixia posicional</h3>\n<ul><li><b>Sufocação indireta</b> (ou <b>asfixia por compressão</b>): o <b>tórax e o abdome</b> são comprimidos, impedindo os movimentos da respiração, embora as vias aéreas estejam livres. Exemplos: vítimas de <b>multidões</b> (tumultos em estádios, shows e festas, em que as pessoas são esmagadas contra grades), <b>soterramento parcial</b> (o corpo enterrado até o peito), <b>desabamentos</b>, pessoas presas sob <b>veículos</b> ou máquinas.</li><li><b>Máscara equimótica de Morestin</b>: na compressão intensa e prolongada do tórax, a face, o pescoço e a parte superior do tórax ficam <b>intensamente arroxeados</b>, com <b>petéquias</b> abundantes e hemorragias nos olhos, contrastando com a pele de baixo (é a \"<b>asfixia traumática</b>\"). O sangue venoso é empurrado com força para a cabeça, que não tem válvulas venosas.</li><li><b>Asfixia posicional</b>: a vítima fica em uma <b>posição</b> que impede a respiração adequada e não consegue sair dela (por embriaguez, intoxicação, doença, imobilização): cabeça pendente, pescoço dobrado, corpo de bruços em espaço estreito.</li><li><b>Asfixia por contenção</b>: interessa diretamente à <b>atividade policial</b>: pessoas <b>imobilizadas de bruços</b> (decúbito ventral), <b>algemadas</b> com as mãos para trás e com <b>peso</b> (joelho, corpo do agente) sobre as <b>costas</b> ou o <b>pescoço</b> podem morrer por <b>dificuldade de respirar</b>, sobretudo se estiverem agitadas, sob efeito de drogas estimulantes, obesas ou com doenças cardíacas. A orientação técnica é <b>reduzir o tempo</b> em decúbito ventral, <b>evitar peso</b> sobre o tórax e o pescoço, <b>colocar a pessoa de lado ou sentada</b> logo que contida e <b>monitorar</b> a respiração e a consciência. O uso da força deve observar a <b>Lei 13.060/2014</b> (legalidade, necessidade, razoabilidade e proporcionalidade).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A máscara equimótica de Morestin é típica do afogamento</span><br>✅ <span class=\"certo\">É típica da <b>compressão do tórax</b> (asfixia traumática)</span></li><li>❌ <span class=\"banca\">Na sufocação indireta, as vias aéreas estão obstruídas</span><br>✅ <span class=\"certo\">As vias aéreas estão <b>livres</b>; o que impede a respiração é a <b>compressão do tórax</b></span></li><li>❌ <span class=\"banca\">Pessoa contida de bruços não corre risco se as vias aéreas estiverem livres</span><br>✅ <span class=\"certo\">Há risco de <b>asfixia posicional/por contenção</b> pela compressão do tórax</span></li></ol></div>\n<h3>11. Afogamento: conceito e mecanismo</h3>\n<ul><li><b>Afogamento</b> é a asfixia produzida pela <b>penetração de líquido</b> (em regra, água) nas <b>vias aéreas</b>, impedindo as trocas gasosas. Não é preciso estar em rio ou mar: basta que o nariz e a boca fiquem submersos (há afogamentos em <b>banheiras, baldes e poças</b>, sobretudo de crianças, de epilépticos e de pessoas embriagadas).</li><li><b>Evolução</b>: a vítima prende a respiração, depois <b>inspira água</b> involuntariamente, tosse, engole água, entra em convulsões e perde a consciência; a água chega aos alvéolos e o pulmão deixa de trocar gases.</li><li><b>Água doce x água salgada</b>: na água <b>doce</b>, parte da água é <b>absorvida</b> pelo sangue (que fica diluído); na <b>salgada</b>, ocorre o contrário (líquido sai do sangue para os pulmões, aumentando o edema). Na prática, a morte é por <b>asfixia</b> nos dois casos, e as diferenças laboratoriais têm valor limitado na perícia.</li><li><b>Afogado azul x afogado branco</b>: o <b>afogado azul</b> (ou verdadeiro) é o que morreu por <b>asfixia</b>, aspirando água: tem cianose e os sinais típicos. O <b>afogado branco</b> (descrito como \"de Parrot\") é o que morre <b>logo ao cair na água</b>, por <b>inibição reflexa</b> (parada cardíaca súbita pelo choque térmico ou pela entrada de água fria nas vias aéreas), <b>sem</b> aspirar água em quantidade e, por isso, <b>sem</b> os sinais típicos de afogamento, com face pálida.</li></ul>\n<h3>12. Sinais do afogamento</h3>\n<table class=\"tab\"><thead><tr><th>Sinal</th><th>Descrição</th><th>Valor</th></tr></thead><tbody><tr><td><b>Cogumelo de espuma</b></td><td>espuma <b>branca</b>, <b>fina</b>, abundante e <b>persistente</b>, que sai pela <b>boca e pelo nariz</b> (às vezes rósea)</td><td><b>sinal de reação vital</b>: forma-se pela mistura de água, ar e muco com a <b>respiração</b></td></tr><tr><td><b>Água e corpos estranhos</b> nas vias aéreas profundas e no <b>estômago</b></td><td>areia, algas, lama nos brônquios; água no estômago</td><td>indica que a pessoa <b>respirou e engoliu</b> na água</td></tr><tr><td><b>Enfisema aquoso</b> dos pulmões</td><td>pulmões <b>volumosos</b>, encharcados, que não se retraem ao abrir o tórax</td><td>típico do afogado verdadeiro</td></tr><tr><td><b>Manchas de Paltauf</b></td><td>manchas <b>subpleurais</b> azuladas ou avermelhadas, <b>grandes</b> e pálidas, por <b>hemólise</b> (o sangue diluído)</td><td>sinal do afogamento</td></tr><tr><td><b>Sinal de Wydler</b></td><td>o conteúdo do estômago se separa em <b>três camadas</b> (espuma em cima, líquido no meio e sólidos embaixo)</td><td>sugere que a vítima engoliu água</td></tr><tr><td><b>Diatomáceas</b></td><td>algas microscópicas da água encontradas no <b>sangue</b> e em órgãos fechados (medula óssea, rins, fígado)</td><td>só chegam aos órgãos pela <b>circulação</b>, se a vítima <b>respirou</b> a água viva</td></tr></tbody></table>\n<ul><li><b>Sinais de permanência na água</b> (não provam afogamento, mas indicam que o corpo <b>ficou</b> na água): <b>pele anserina</b> (arrepiada, \"de galinha\"), <b>maceração</b> das mãos e dos pés (<b>mãos de lavadeira</b>, enrugadas e esbranquiçadas, que, com dias, chegam a se soltar como luvas), <b>algor</b> acelerado (o corpo esfria mais rápido na água), livores claros. Esses sinais aparecem <b>também</b> em um cadáver <b>jogado na água depois de morto</b>.</li><li><b>Corpo na água depois da morte</b>: se a pessoa foi morta por outro meio e jogada na água, faltam o <b>cogumelo de espuma</b>, a água e os corpos estranhos nas vias aéreas profundas, as <b>diatomáceas</b> nos órgãos e as manchas de Paltauf; e podem existir lesões que explicam a morte (projétil, esganadura). A perícia, então, aponta <b>morte antes da submersão</b>.</li><li><b>Comportamento do cadáver na água</b>: o corpo afunda e, com a <b>putrefação</b>, os gases o fazem <b>flutuar</b> (em dias, mais rápido na água quente). O cadáver afogado costuma ficar de <b>bruços</b>, com a cabeça mais baixa; por isso, apresenta <b>lesões post mortem por arrasto</b> no fundo (testa, nariz, joelhos, dorso das mãos e dos pés) e lesões por <b>animais aquáticos</b> e hélices, que <b>não</b> devem ser confundidas com agressão.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O cogumelo de espuma pode se formar em cadáver jogado na água</span><br>✅ <span class=\"certo\">É sinal <b>vital</b>: forma-se com a <b>respiração</b> na água</span></li><li>❌ <span class=\"banca\">Mãos de lavadeira provam que a vítima se afogou</span><br>✅ <span class=\"certo\">Indicam apenas <b>permanência</b> na água (também em quem foi jogado morto)</span></li><li>❌ <span class=\"banca\">Diatomáceas nos órgãos fechados indicam que o corpo foi jogado morto</span><br>✅ <span class=\"certo\">Indicam que a vítima <b>respirou</b> a água em vida (chegaram pela circulação)</span></li><li>❌ <span class=\"banca\">O afogado branco tem pulmões encharcados e espuma abundante</span><br>✅ <span class=\"certo\">O <b>afogado branco</b> morre por <b>inibição</b> e tem <b>poucos</b> sinais; o encharcado é o <b>azul</b></span></li><li>❌ <span class=\"banca\">Lesões na testa e nos joelhos de afogado indicam agressão</span><br>✅ <span class=\"certo\">Podem ser <b>post mortem por arrasto</b> no fundo</span></li></ol></div>\n<h3>13. Soterramento, confinamento e gases irrespiráveis</h3>\n<ul><li><b>Soterramento</b>: asfixia por <b>obstrução das vias aéreas</b> por substâncias <b>sólidas</b> ou <b>pulverulentas</b> (terra, areia, lama, grãos em silos, cimento), geralmente associada à <b>compressão do tórax</b>. <b>Sinal vital</b>: presença do material nas <b>vias aéreas profundas</b> (traqueia, brônquios) e no <b>estômago</b>, mostrando que a vítima <b>respirou e engoliu</b> sob a terra. Um corpo <b>enterrado depois de morto</b> tem terra apenas na boca e no nariz, não nas vias profundas. Exemplos: desmoronamentos de valas em obras, deslizamentos de encostas, acidentes em silos de grãos, rompimento de barragens.</li><li><b>Confinamento</b>: asfixia em <b>espaço fechado</b> sem renovação do ar: o oxigênio <b>cai</b> e o gás carbônico <b>sobe</b> à medida que a pessoa respira. Ocorre com crianças que se escondem em <b>baús, geladeiras e freezers</b> antigos, em <b>porta-malas</b> (vítimas de sequestro), em poços, tanques e galerias. Os sinais são os <b>gerais</b> da asfixia; o diagnóstico depende do <b>local</b>.</li><li><b>Gases irrespiráveis e tóxicos</b>: em ambientes com <b>monóxido de carbono</b> (geradores, aquecedores a gás e churrasqueiras em locais fechados, motores de carros em garagens fechadas, incêndios), com gases que <b>deslocam o oxigênio</b> (nitrogênio, gás carbônico em silos e poços, hélio) ou com gases tóxicos (sulfídrico em esgotos, cianídrico em incêndios). O <b>monóxido de carbono</b> deixa <b>livores e sangue vermelho-carmim</b> (vermelho-cereja), pela carboxi-hemoglobina, e é estudado em Toxicologia. Muitas mortes em <b>espaços confinados de trabalho</b> (poços, tanques, galerias) atingem também quem desce para <b>socorrer</b> sem proteção.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Terra na boca e no nariz prova que a vítima foi enterrada viva</span><br>✅ <span class=\"certo\">O sinal vital é a terra nas <b>vias aéreas profundas</b> e no <b>estômago</b></span></li><li>❌ <span class=\"banca\">No confinamento, há sulco ou obstáculo nas vias aéreas</span><br>✅ <span class=\"certo\">Os sinais são <b>gerais</b>; o diagnóstico depende do <b>local</b> fechado</span></li><li>❌ <span class=\"banca\">A intoxicação por monóxido deixa livores azulados</span><br>✅ <span class=\"certo\">Deixa livores <b>vermelho-carmim</b> (cereja)</span></li></ol></div>\n<h3>14. Asfixia autoerótica</h3>\n<ul><li>É a morte <b>acidental</b> de quem pratica a restrição do oxigênio (geralmente com <b>laço</b> no pescoço ou saco na cabeça) para intensificar a excitação sexual, perdendo a consciência antes de conseguir soltar o mecanismo.</li><li><b>Achados típicos do local</b>: vítima geralmente <b>sozinha</b>, em local <b>reservado</b> e trancado; laço com <b>acolchoamento</b> (toalha entre o laço e o pescoço, para não deixar marcas); <b>mecanismo de liberação</b> (nó corrediço, que a vítima esperava soltar); material de conteúdo erótico; às vezes, sinais de práticas anteriores (marcas antigas, objetos preparados).</li><li><b>Importância pericial</b>: diferenciar de <b>suicídio</b> (não há intenção de morrer) e de <b>homicídio</b>. A investigação cuidadosa do local e o respeito à <b>dignidade</b> do morto e da família são essenciais; a causa jurídica é <b>acidente</b>.</li></ul>\n<h3>15. Asfixia e o Direito Penal</h3>\n<ul><li><b>Qualificadora do homicídio</b>: o emprego de <b>asfixia</b> qualifica o homicídio (CP, art. 121, § 2º, III: \"com emprego de veneno, fogo, explosivo, <b>asfixia</b>, tortura ou outro meio insidioso ou cruel\"). Por isso, o <b>quesito</b> oficial da necropsia pergunta se a morte foi produzida por meio de asfixia, e o laudo deve especificar a <b>espécie</b> (esganadura, estrangulamento etc.).</li><li><b>Feminicídio</b> e violência doméstica: esganadura e estrangulamento são meios frequentes. Episódios <b>não fatais</b> de apertar o pescoço da parceira são considerados, nos estudos de risco, um <b>sinal de alto risco</b> de feminicídio, o que justifica atenção redobrada em medidas protetivas.</li><li><b>Lesão corporal por constrição do pescoço</b>: mesmo sem morte, pode haver <b>perigo de vida</b> (perda de consciência, sinais de asfixia), fraturas da laringe, lesões de voz. O exame deve ser <b>rápido</b>, porque as marcas do pescoço mudam em poucos dias, e deve procurar <b>petéquias nos olhos</b>, rouquidão, dor ao engolir e marcas sutis.</li><li><b>Tortura</b>: afogamento simulado, saco plástico na cabeça e estrangulamento repetido até a perda de consciência são métodos de tortura descritos no Protocolo de Istambul; podem deixar <b>poucas marcas</b> externas.</li><li><b>Infanticídio e homicídio de lactentes</b>: a sufocação por oclusão é um meio usado, com sinais muitas vezes discretos, exigindo investigação do local e da história.</li></ul>\n<h3>16. Casos práticos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Enforcamento ou homicídio?</b><p>Um homem é encontrado pendurado por uma corda na viga da garagem, com os pés tocando o chão. A esposa diz que ele estava deprimido. O irmão desconfia dela.</p><details><summary>Ver a solução comentada</summary><p>Os <b>pés no chão</b> indicam enforcamento <b>incompleto</b>, que é <b>comum</b> e não exclui suicídio. O perito examina o <b>sulco</b>: se for <b>oblíquo ascendente</b>, <b>descontínuo</b>, alto, mais profundo do lado oposto ao nó, com fundo apergaminhado e <b>reação vital</b>, é compatível com enforcamento em vida. Procura <b>sinais de outra causa</b> (equimoses digitais e estigmas ungueais de esganadura, sulco <b>horizontal</b> de estrangulamento sob o do enforcamento, lesões na cabeça, sinais de luta), dosa <b>álcool e drogas</b> (vítima incapacitada) e verifica as <b>mãos</b> e as unhas. A investigação considera o local (nó, objeto de apoio, porta trancada), bilhetes e histórico. Sem sinais de outra causa, o quadro é compatível com <b>suicídio</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Mulher encontrada morta na cama</b><p>Uma mulher é encontrada morta na cama, sem ferimentos aparentes. O companheiro diz que ela \"passou mal durante a noite\".</p><details><summary>Ver a solução comentada</summary><p>O perito examina com atenção o <b>pescoço</b> (equimoses digitais, estigmas ungueais, que podem ser discretos), a <b>face</b> (cianose, <b>petéquias</b> nas conjuntivas e na face), a <b>boca e o nariz</b> (escoriações, lesões na face interna dos lábios, sugestivas de oclusão), e faz <b>dissecção cuidadosa</b> do pescoço em camadas (infiltrações nos músculos e fraturas do hioide ou da laringe que não aparecem por fora). Coleta material sob as <b>unhas</b>. Achados de esganadura ou sufocação apontam <b>homicídio</b> (possível <b>feminicídio</b>), enquanto a ausência deles leva a investigar causas naturais e tóxicas.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Corpo no rio</b><p>Um corpo é retirado de um rio após 3 dias, com mãos de lavadeira, escoriações na testa e nos joelhos e sem espuma visível.</p><details><summary>Ver a solução comentada</summary><p>As <b>mãos de lavadeira</b> indicam <b>permanência</b> na água, não afogamento. As escoriações na testa e nos joelhos podem ser <b>post mortem por arrasto</b> no fundo (posição de bruços). A espuma pode ter <b>desaparecido</b> com a putrefação e a manipulação. O diagnóstico de afogamento depende da necropsia: água e corpos estranhos (<b>areia</b>, algas) nas <b>vias aéreas profundas</b> e no estômago, pulmões encharcados e pesquisa de <b>diatomáceas</b> nos órgãos fechados. Se faltarem esses sinais e houver lesão que explique a morte (fratura de crânio com reação vital, projétil), a hipótese é de <b>morte antes</b> da submersão.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Tumulto em estádio</b><p>Após um tumulto em um portão de estádio, duas pessoas morrem esmagadas contra a grade, sem ferimentos graves.</p><details><summary>Ver a solução comentada</summary><p>O quadro é de <b>sufocação indireta</b> (compressão do tórax): face e pescoço intensamente arroxeados com <b>petéquias</b> (<b>máscara equimótica de Morestin</b>), fraturas de costelas, vias aéreas livres. A responsabilidade (organização do evento, segurança, controle de público) é apurada na investigação, e o laudo deve descrever claramente o <b>mecanismo</b> da morte.</p></details></div>\n<h3>17. Base fisiológica: por que a falta de ar mata tão rápido</h3>\n<ul><li><b>Respiração</b> tem duas partes: a <b>ventilação</b> (o ar entra e sai dos pulmões) e a <b>troca gasosa</b> (nos alvéolos, o oxigênio passa para o sangue e o gás carbônico sai). Depois, o sangue <b>transporta</b> o oxigênio, preso à <b>hemoglobina</b>, até as células, que o usam para produzir energia.</li><li>As asfixias podem atacar <b>qualquer etapa</b>: o <b>pescoço</b> apertado bloqueia a ventilação e o sangue para o cérebro; a <b>água</b> nos alvéolos impede a troca; a <b>compressão do tórax</b> impede a ventilação; o <b>monóxido de carbono</b> ocupa o lugar do oxigênio na hemoglobina (transporte); o <b>cianeto</b> impede a célula de usar o oxigênio.</li><li><b>Cérebro</b>: consome muito oxigênio e não tem reservas. Sem oxigênio, a <b>consciência</b> se perde em segundos a poucos minutos, e lesões <b>irreversíveis</b> começam em poucos minutos. Por isso, quem sobrevive a uma asfixia prolongada pode ficar com <b>sequelas neurológicas</b> graves (o que interessa à classificação da lesão corporal: debilidade ou perda de função, incapacidade permanente).</li><li><b>Coração</b>: com a falta de oxigênio, surgem <b>arritmias</b> e, por fim, <b>parada cardíaca</b>. Em algumas situações (compressão do seio carotídeo, choque térmico na água fria), a parada é <b>reflexa</b> e quase imediata.</li><li><b>Por que há petéquias</b>: quando as <b>veias</b> do pescoço são comprimidas e as <b>artérias</b> continuam levando sangue à cabeça, a pressão dentro dos pequenos vasos da face e dos olhos sobe e eles se <b>rompem</b>, formando as petéquias. Isso explica por que o <b>estrangulamento</b> e a <b>esganadura</b> (que apertam as veias mais que as artérias) costumam ter <b>mais petéquias</b> e face mais <b>arroxeada</b> que o enforcamento típico e completo.</li></ul>\n<h3>18. O local do enforcamento: o que observar e preservar</h3>\n<ul><li><b>Preservar o laço e o nó</b>: se for necessário retirar o corpo (por exemplo, para tentar socorro), o laço deve ser <b>cortado longe do nó</b>, e as pontas cortadas devem ser <b>identificadas</b> (marcadas), para que o perito possa reconstituir o <b>tipo de nó</b>, o tamanho da alça e a forma como o laço foi feito. O nó pode indicar se quem o fez tinha alguma habilidade especial e se é compatível com a própria vítima.</li><li><b>Ponto de fixação</b>: onde o laço estava preso (viga, grade, maçaneta, galho) e se a vítima <b>alcançaria</b> esse ponto (com a ajuda de cadeira, banco, escada). A <b>altura</b> e a distância do corpo ao chão ajudam a entender se o enforcamento foi completo ou incompleto.</li><li><b>Objeto de apoio</b>: cadeira caída, banco, caixa. A ausência de qualquer apoio, em suspensão completa e alta, merece análise (como a vítima subiu?).</li><li><b>Marcas no ponto de fixação</b>: o atrito da corda deixa marcas (fibras deslocadas, poeira removida) que indicam se o corpo <b>caiu e esticou</b> a corda (suicídio) ou se foi <b>puxado para cima</b> (o atrito vai em sentido diferente), o que pode sugerir que outra pessoa <b>içou</b> o corpo.</li><li><b>Ambiente</b>: porta trancada por dentro, bilhete, sinais de luta, desordem, objetos quebrados, presença de álcool e medicamentos, histórico de ameaças. Nada disso, isoladamente, decide o caso; o conjunto, sim.</li><li><b>Corpo</b>: posição, livores (compatíveis com a suspensão?), rigidez, temperatura, lesões além do sulco, estado das mãos e das unhas, roupas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Para retirar o enforcado, deve-se desfazer o nó</span><br>✅ <span class=\"certo\">Corta-se o laço <b>longe do nó</b>, preservando-o e marcando as pontas</span></li><li>❌ <span class=\"banca\">Cadeira caída prova suicídio</span><br>✅ <span class=\"certo\">É <b>um indício</b> entre vários; o conjunto do local e do corpo é que orienta</span></li><li>❌ <span class=\"banca\">Porta trancada por dentro exclui homicídio</span><br>✅ <span class=\"certo\">É indício forte, mas a investigação deve verificar outras formas de saída e de travamento</span></li></ol></div>\n<h3>19. Afogamento: circunstâncias e causas jurídicas</h3>\n<ul><li><b>Acidental</b> (a maioria): crianças em piscinas, baldes e caixas-d'água sem proteção (bastam poucos minutos de desatenção); adultos <b>embriagados</b> em rios, lagoas e no mar; pessoas que <b>não sabem nadar</b>; <b>epilépticos</b> durante crise; <b>mergulho em águas rasas</b>, que causa <b>fratura da coluna cervical</b> e paralisia, levando ao afogamento; câimbras, exaustão, correntes marítimas; acidentes com embarcações.</li><li><b>Suicida</b>: geralmente em pontes, cais, rios e mar, às vezes com <b>pesos</b> amarrados ao corpo pela própria pessoa (os nós e a forma de amarrar precisam ser compatíveis com a própria vítima) ou após ingestão de medicamentos.</li><li><b>Homicida</b>: menos comum, exige vítima mais fraca ou incapacitada (crianças, idosos, pessoas embriagadas ou drogadas) ou <b>imobilização</b>; pode haver lesões de <b>contenção</b> (equimoses nos braços, no pescoço, na nuca, como de quem teve a cabeça segurada debaixo d'água) e lesões de <b>defesa</b>. Também é comum o <b>homicídio por outro meio</b> seguido de <b>ocultação do corpo</b> na água.</li><li><b>Síndrome de imersão</b> (hidrocussão): morte <b>súbita</b> ao entrar em água fria, por reflexo cardíaco, muitas vezes após refeições pesadas, álcool ou exposição ao sol; corresponde ao quadro do <b>afogado branco</b>.</li><li><b>Afogamento em banheira</b>: em adultos, levanta suspeita de <b>intoxicação</b> (álcool, medicamentos), <b>doença</b> (epilepsia, problema cardíaco), <b>choque elétrico</b> (aparelhos perto da água) ou <b>homicídio</b>; em crianças pequenas, de <b>desatenção</b> dos responsáveis ou de <b>maus-tratos</b>. O exame toxicológico e a perícia do local são indispensáveis.</li><li><b>Estimativa do tempo na água</b>: o grau de <b>maceração</b> das mãos e dos pés, a <b>putrefação</b> e a flutuação dão ideia de quanto tempo o corpo ficou na água, mas variam muito com a <b>temperatura</b> da água (na água fria tudo é mais lento).</li></ul>\n<h3>20. Asfixias em crianças e recém-nascidos</h3>\n<ul><li><b>Recém-nascidos</b>: a sufocação (mão sobre a boca e o nariz, panos, travesseiros), o estrangulamento (inclusive com o <b>cordão umbilical</b>, que também pode enrolar no pescoço de forma natural durante o parto) e o afogamento (em vasos sanitários, baldes) são meios descritos em <b>infanticídios</b> e homicídios. O primeiro passo da perícia é saber se a criança <b>nasceu viva</b> (respirou), o que se estuda na <b>docimasia</b> (provas de vida extrauterina), tema da Sexologia médico-legal (obstetrícia forense).</li><li><b>Circular de cordão</b>: o cordão umbilical enrolado no pescoço é <b>frequente</b> em partos normais e, em regra, <b>não</b> causa a morte nem deixa sulco verdadeiro com reação vital. O perito diferencia o sulco natural (mole, sem infiltração) da constrição intencional.</li><li><b>Lactentes</b>: sufocação acidental ao dormir com adultos ou em superfícies macias, de bruços; engasgo com leite ou pequenos objetos; e, raramente, sufocação intencional, às vezes ligada à <b>síndrome de Munchausen por procuração</b> (o cuidador provoca episódios de falta de ar para levar a criança ao hospital). O diagnóstico diferencial com a <b>morte súbita do lactente</b> exige necropsia completa, exames e investigação do local.</li><li><b>Crianças maiores</b>: acidentes com <b>cordões</b> de cortinas e persianas, roupas presas em brinquedos, sacos plásticos, freezers e baús (confinamento), piscinas e baldes. As medidas de <b>prevenção</b> (proteção de piscinas, cordões fora do alcance, supervisão) explicam por que a investigação pode também apurar <b>responsabilidade</b> por negligência.</li></ul>\n<h3>21. Questões discursivas comentadas</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 1</b><p>\"Diferencie enforcamento, estrangulamento e esganadura quanto ao agente, às características locais e à causa jurídica mais frequente.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: no <b>enforcamento</b>, o laço é acionado pelo <b>peso do corpo</b>; o sulco é <b>oblíquo ascendente</b>, <b>descontínuo</b> (interrompido no nó), <b>alto</b> (acima da cartilagem tireoide), de profundidade <b>desigual</b> (mais profundo do lado oposto ao nó) e fundo <b>apergaminhado</b>; a causa mais frequente é o <b>suicídio</b>. No <b>estrangulamento</b>, o laço é acionado por <b>força muscular</b>; o sulco é <b>horizontal</b>, <b>contínuo</b>, <b>baixo</b> e de profundidade <b>uniforme</b>, com equimoses e escoriações; a face é cianótica, com petéquias; a causa é quase sempre <b>homicídio</b>. Na <b>esganadura</b>, a constrição é feita pelas <b>mãos</b>; <b>não há sulco</b>, mas <b>estigmas ungueais</b> e <b>equimoses digitais</b>, frequentemente com fraturas do <b>hioide</b> e da <b>laringe</b>; é <b>sempre homicida</b>, pois não há esganadura suicida.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 2</b><p>\"Como o perito diferencia o afogamento verdadeiro do cadáver lançado na água após a morte?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: procurando os <b>sinais vitais</b> do afogamento, que exigem <b>respiração</b> na água: <b>cogumelo de espuma</b> (fino, branco, persistente) na boca e no nariz; <b>água e corpos estranhos</b> (areia, algas, lama) nas <b>vias aéreas profundas</b> e no <b>estômago</b>; <b>pulmões encharcados</b> (enfisema aquoso); <b>manchas de Paltauf</b>; <b>sinal de Wydler</b>; e <b>diatomáceas</b> em órgãos fechados (medula óssea, rins), que só chegam pela circulação. Os sinais de <b>permanência</b> na água (pele anserina, <b>mãos de lavadeira</b>, maceração) <b>não</b> provam afogamento, pois ocorrem também no cadáver lançado na água. Se faltam os sinais vitais e há lesão que explique a morte, conclui-se por <b>morte anterior</b> à submersão. A putrefação avançada pode apagar alguns sinais, e a pesquisa de diatomáceas ganha importância.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 3</b><p>\"Explique o que é a asfixia posicional ou por contenção e quais cuidados os agentes de segurança devem adotar ao imobilizar uma pessoa.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: é a asfixia que ocorre quando a <b>posição do corpo</b> ou a <b>compressão do tórax</b> impede a respiração adequada, mesmo com as vias aéreas livres, como na pessoa <b>imobilizada de bruços</b>, algemada com as mãos para trás e com <b>peso</b> sobre as costas ou o pescoço. O risco aumenta com <b>agitação</b>, uso de <b>drogas estimulantes</b>, <b>obesidade</b> e doenças cardíacas. Os cuidados: <b>reduzir ao mínimo</b> o tempo em decúbito ventral, <b>não</b> apoiar peso sobre o tórax e o pescoço, <b>evitar</b> técnicas de compressão do pescoço, colocar a pessoa <b>de lado ou sentada</b> assim que contida, <b>monitorar</b> respiração e consciência e acionar <b>socorro</b> médico diante de sinais de mal-estar. O uso da força deve respeitar a <b>legalidade</b>, a <b>necessidade</b>, a <b>razoabilidade</b> e a <b>proporcionalidade</b> (Lei 13.060/2014).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 4</b><p>\"Uma mulher é encontrada pendurada pelo pescoço com um cinto na porta do quarto. A necropsia mostra um sulco oblíquo ascendente e, abaixo dele, um segundo sulco horizontal, contínuo, com equimoses; há petéquias abundantes na face e estigmas ungueais no pescoço. Interprete.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: há <b>dois padrões</b> diferentes no pescoço. O sulco <b>oblíquo ascendente</b> é compatível com a <b>suspensão</b> pelo cinto; o sulco <b>horizontal, contínuo e baixo</b>, com equimoses, é compatível com <b>estrangulamento</b>; os <b>estigmas ungueais</b> sugerem <b>esganadura</b> ou luta. As <b>petéquias abundantes</b> e a face congesta combinam com estrangulamento e esganadura (compressão venosa), e não com um enforcamento típico e completo. O perito verifica se o sulco da suspensão tem <b>reação vital</b>: se <b>não</b> tiver, o corpo foi pendurado <b>depois</b> da morte. O conjunto aponta para <b>homicídio</b> (provável estrangulamento e/ou esganadura) seguido de <b>simulação de suicídio</b>, devendo a investigação apurar a autoria (material sob as unhas, DNA, câmeras, histórico de violência doméstica e possível <b>feminicídio</b>).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 5</b><p>\"Por que se afirma que não existe esganadura suicida, mas que o estrangulamento suicida, embora raro, é possível?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: na <b>esganadura</b>, a força que comprime o pescoço é a das <b>mãos</b> da própria pessoa; quando ela <b>perde a consciência</b> (em segundos ou poucos minutos), os músculos relaxam, as mãos <b>afrouxam</b> e a compressão cessa, permitindo que a respiração e a circulação voltem. Por isso, a esganadura é <b>sempre homicida</b>. No <b>estrangulamento</b>, o laço pode ser mantido apertado por um <b>mecanismo</b> que não dependa da força contínua da vítima (um <b>torniquete</b> travado com um bastão, um nó que não se desfaz, várias voltas de um laço que permanece tenso), de modo que a compressão continua depois da perda de consciência. Daí a possibilidade, <b>rara</b>, de estrangulamento suicida, que exige análise cuidadosa do laço e do local.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 6</b><p>\"Quais são os sinais que permitem afirmar que uma vítima de soterramento estava viva quando foi coberta pela terra, e por que isso importa?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: o principal sinal é a presença de <b>terra, areia ou lama nas vias aéreas profundas</b> (traqueia e brônquios) e no <b>estômago</b>, pois só chega até lá quem <b>respirou e engoliu</b> sob o material. Também podem estar presentes sinais gerais de asfixia (cianose, petéquias, congestão) e de <b>compressão do tórax</b> (máscara equimótica, fraturas de costelas com reação vital), além de lesões com <b>reação vital</b> produzidas pelo desmoronamento. Um corpo <b>enterrado depois de morto</b> tem material apenas na <b>boca e no nariz</b>, sem penetração profunda, e pode ter outras lesões que expliquem a morte. Isso importa para distinguir <b>acidente</b> (desabamento, deslizamento) de <b>ocultação de cadáver</b> após homicídio, e para avaliar se houve <b>sobrevida</b> (por exemplo, para responsabilizar quem deixou de socorrer ou para estimar o tempo de soterramento).</p></details></div>\n<ul><li><b>Para fixar</b>: em todos os tipos de asfixia, a pergunta-chave é a mesma: <b>o que prova que a vítima estava viva quando o mecanismo atuou?</b> No enforcamento, o sulco com <b>reação vital</b>; no afogamento, a <b>espuma</b>, os corpos estranhos profundos e as <b>diatomáceas</b>; no soterramento, a <b>terra</b> nas vias profundas e no estômago; no incêndio (Energias físicas), a <b>fuligem</b> e a <b>carboxi-hemoglobina</b>. Quem domina essa lógica responde à maioria das questões de prova e entende como a perícia separa o crime do acidente e a morte da simulação.</li></ul>\n<h3>22. Ligações com outros tópicos e com o trabalho policial</h3>\n<ul><li><b>Com a Traumatologia</b>: estigmas ungueais e equimoses digitais são <b>lesões contusas</b>; as fraturas da laringe e do hioide e as lesões por arrasto no afogado também se estudam lá.</li><li><b>Com a Tanatologia</b>: livores (em luva e meia no enforcado; claros no afogado; carmim no monóxido), putrefação e flutuação do afogado, tempo de morte.</li><li><b>Com a Toxicologia</b>: monóxido de carbono, cianeto, álcool e drogas (que favorecem afogamentos e asfixias posicionais e incapacitam vítimas de enforcamento homicida).</li><li><b>Com a Sexologia médico-legal</b>: docimasias e infanticídio.</li><li><b>Com o trabalho policial</b>: preservar o <b>laço</b> e o <b>nó</b> (cortar longe do nó), não alterar o local, registrar a posição do corpo e o ponto de fixação, coletar material sob as <b>unhas</b> em suspeitas de esganadura e estrangulamento, requisitar <b>exame toxicológico</b>, examinar rapidamente as <b>vítimas sobreviventes</b> de constrição do pescoço (marcas somem rápido) e adotar técnicas de contenção que <b>não comprimam</b> o pescoço e o tórax.</li><li><b>Dica final de estudo</b>: monte uma tabela de três colunas (enforcamento, estrangulamento, esganadura) e preencha de memória: agente, sulco (direção, continuidade, altura, profundidade), face, fraturas e causa jurídica. Depois, faça as questões e o <b>Treino de pegadinhas</b>. Repita até acertar todas.</li><li><b>Monóxido de carbono, em resumo</b> (aprofundado em Toxicologia): é um gás <b>incolor e inodoro</b>, produzido pela <b>queima incompleta</b> de combustíveis (motores, geradores, aquecedores a gás, braseiros, incêndios). Liga-se à <b>hemoglobina</b> com força muito maior que o oxigênio, formando a <b>carboxi-hemoglobina</b>, que não transporta oxigênio. Os sintomas iniciais (dor de cabeça, tontura, náuseas, sonolência) são confundidos com mal-estar comum, e famílias inteiras podem morrer dormindo. Na necropsia, a <b>cor vermelho-carmim</b> (cereja) do sangue, dos livores e dos órgãos chama a atenção, e a <b>dosagem</b> da carboxi-hemoglobina confirma o diagnóstico. A perícia do local procura a <b>fonte</b> (escapamento defeituoso, aquecedor sem exaustão, gerador em ambiente fechado) e define se houve <b>acidente</b>, <b>suicídio</b> (motor ligado em garagem fechada) ou <b>homicídio</b>, e se há <b>responsabilidade</b> de terceiros (instalação irregular, manutenção).</li><li><b>Ambientes com pouco oxigênio no trabalho</b>: poços, cisternas, tanques de fermentação, porões de navios, galerias de esgoto e silos podem acumular gases que <b>deslocam o oxigênio</b> (gás carbônico, nitrogênio, metano) ou gases tóxicos (sulfídrico, com cheiro de ovo podre que logo deixa de ser percebido). O trabalhador perde a consciência em segundos, e os colegas que descem para ajudá-lo, sem equipamento de respiração, também caem: é por isso que tantas tragédias nesses locais têm <b>várias vítimas</b>. As normas de segurança exigem <b>medição dos gases</b>, ventilação, equipamentos de proteção respiratória e vigia do lado de fora. Para a perícia, o exame do corpo mostra apenas <b>sinais gerais</b> de asfixia; a <b>medição do ar no local</b>, logo após o fato, e a análise das condições de trabalho é que esclarecem o mecanismo e a responsabilidade (acidente de trabalho, homicídio culposo por negligência do empregador).</li><li><b>Asfixia e embriaguez</b>: o <b>álcool</b> e outras drogas depressoras aparecem em grande parte das mortes por asfixia <b>acidental</b>: a pessoa embriagada vomita e <b>aspira</b> o vômito (sufocação direta por obstrução), adormece em <b>posição</b> que dobra o pescoço ou comprime o tórax (asfixia posicional), afoga-se em pouca água, engasga com alimento ou não percebe o monóxido de carbono. Por isso, a <b>dosagem de álcool</b> e a pesquisa de drogas fazem parte da necropsia de toda asfixia, e o resultado ajuda a explicar por que alguém não conseguiu reagir.</li></ul>\n<h3>23. Exame da vítima viva de constrição do pescoço</h3>\n<ul><li>Muitas vítimas de <b>estrangulamento</b> e <b>esganadura</b> sobrevivem, especialmente em violência doméstica, e chegam à delegacia com queixas vagas (\"ele me apertou o pescoço\"), às vezes <b>sem marcas</b> visíveis. O exame deve ser <b>rápido</b> e <b>completo</b>.</li><li><b>O que procurar</b>: equimoses, escoriações e estigmas ungueais no pescoço (às vezes discretos, só visíveis com boa luz ou dias depois); <b>petéquias</b> nas <b>conjuntivas</b>, nas pálpebras, atrás das orelhas e no céu da boca; <b>hemorragia subconjuntival</b> (olho vermelho); marcas de unhas da própria vítima; lesões na mucosa da boca.</li><li><b>Sintomas que o histórico deve registrar</b>: <b>perda de consciência</b> (mesmo breve), <b>liberação de urina ou fezes</b>, <b>rouquidão</b> ou alteração da voz, <b>dor ao engolir</b>, dificuldade para respirar, tosse, tontura, visão turva, sensação de que ia morrer. Esses dados ajudam o perito a responder ao quesito do <b>perigo de vida</b> (a perda de consciência por constrição do pescoço indica que a vítima esteve próxima da morte) e orientam exames complementares (laringoscopia, tomografia do pescoço).</li><li><b>Exames complementares</b>: avaliação da <b>laringe</b> (fraturas e lesões que podem obstruir a respiração horas depois) e, em alguns casos, exames de imagem dos vasos do pescoço (lesões das carótidas podem causar <b>AVC</b> dias depois).</li><li><b>Fotografias seriadas</b>: as equimoses do pescoço podem ficar mais evidentes no dia seguinte; fotografar em mais de um momento documenta melhor a agressão.</li><li><b>Importância</b>: além da lesão em si, o registro de que houve <b>constrição do pescoço</b> em contexto de violência doméstica é um <b>fator de alto risco</b> para feminicídio e deve constar da avaliação de risco e dos pedidos de <b>medidas protetivas</b>.</li></ul>\n<h3>24. Outras situações especiais</h3>\n<ul><li><b>Gases inertes</b> (hélio, nitrogênio) em saco plástico ou máscara: deslocam o oxigênio, causando perda de consciência rápida e morte quase <b>sem sinais</b> (sem cianose intensa nem petéquias). Usados em suicídios; o diagnóstico depende do <b>local</b> (cilindro, mangueira, saco) e da análise dos gases quando possível.</li><li><b>Celas e locais superlotados</b>: a falta de ventilação, o calor e a superlotação podem levar a mortes por <b>confinamento</b> e <b>termonose</b> associados; o Estado responde pela integridade física dos presos sob sua custódia.</li><li><b>Porta-malas e compartimentos</b>: em sequestros, a vítima pode morrer por <b>confinamento</b>, calor (<b>intermação</b>) e, se o motor estiver ligado com escapamento defeituoso, por <b>monóxido de carbono</b>. A perícia combina exame do corpo, toxicologia e perícia do veículo.</li><li><b>Silos de grãos</b>: o trabalhador que entra no silo pode ser <b>soterrado</b> pelos grãos (que se comportam como areia movediça) ou asfixiado por <b>gases</b> da fermentação (gás carbônico); é acidente de trabalho grave e evitável com procedimentos de segurança.</li><li><b>Sufocação com saco plástico como tortura</b>: deixa poucos sinais (petéquias, às vezes escoriações no pescoço pela amarração do saco); o relato detalhado da vítima e o exame precoce, segundo o Protocolo de Istambul, são decisivos.</li><li><b>Engasgo em adultos</b> (\"<b>café coronary</b>\"): pessoa, muitas vezes embriagada ou idosa com próteses dentárias, engasga com um pedaço de carne e morre rapidamente, sendo às vezes confundida com morte cardíaca. A necropsia encontra o <b>bolo alimentar</b> na laringe.</li></ul>\n<h3>25. Mais casos práticos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Bebê encontrado sem vida no berço</b><p>Um bebê de 3 meses é encontrado sem vida pela manhã, de bruços, com o rosto sobre um travesseiro macio. Não há lesões externas.</p><details><summary>Ver a solução comentada</summary><p>O quadro pode corresponder a <b>sufocação acidental</b> (posição de bruços, superfície macia), a <b>síndrome da morte súbita do lactente</b> (diagnóstico de <b>exclusão</b>) ou, raramente, a <b>sufocação intencional</b>. A perícia faz <b>necropsia completa</b> (procurando lesões discretas de lábios e gengivas, petéquias, fraturas antigas, infecções), <b>exames toxicológicos</b> e de outras doenças, e a polícia faz a <b>investigação do local</b> (reconstituição de como o bebê dormia) e da <b>história</b> familiar (episódios anteriores de falta de ar, internações). Só depois de <b>afastadas</b> outras causas se conclui pela morte súbita do lactente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Preso morto na cela</b><p>Um preso é encontrado enforcado com um lençol na grade da cela. A família alega que ele foi morto pelos agentes.</p><details><summary>Ver a solução comentada</summary><p>O perito examina o <b>sulco</b> (características do enforcamento, com reação vital, ou de estrangulamento), procura <b>outras lesões</b> (equimoses de agressão, lesões de defesa, fraturas), petéquias e lesões no pescoço que o lençol não explique, e coleta material sob as <b>unhas</b>. A investigação analisa o <b>local</b> (ponto de fixação, altura, apoio), as <b>câmeras</b>, os horários de ronda, os depoimentos e o histórico do preso. Por ser morte sob <b>custódia do Estado</b>, a apuração deve ser <b>independente e minuciosa</b>, e a <b>família</b> tem direito a informações e, conforme o caso, a indicar assistente técnico no processo.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Morte durante abordagem</b><p>Durante uma abordagem, um homem agitado é imobilizado de bruços por três agentes, algemado e mantido no chão com um joelho sobre as costas por vários minutos. Ele para de responder e morre.</p><details><summary>Ver a solução comentada</summary><p>A necropsia procura sinais de <b>asfixia por compressão</b> ou <b>posicional</b> (petéquias, congestão facial, lesões no pescoço e no tórax), <b>lesões traumáticas</b> da contenção, e faz <b>exames toxicológicos</b> (drogas estimulantes aumentam o risco) e avaliação do <b>coração</b>. O laudo deve descrever com precisão o <b>mecanismo</b> da morte e as <b>concausas</b>; a avaliação da conduta dos agentes (uso proporcional da força, protocolos, omissão de socorro) cabe à investigação e ao Judiciário.</p></details></div>\n<h3>26. Resumo em uma página</h3>\n<ul><li><b>Conceito</b>: asfixia = impedimento das trocas respiratórias (hipóxia + hipercapnia); energia <b>físico-química</b>. <b>Fases</b>: dispneia inspiratória, dispneia expiratória com convulsões, pausa (reanimável), parada cardíaca. <b>Sinais gerais</b> (inespecíficos): cianose, petéquias (<b>Tardieu</b>), sangue escuro e fluido, congestão.</li><li><b>Constrição do pescoço</b>: <b>enforcamento</b> (peso do corpo; sulco oblíquo, ascendente, descontínuo, alto, desigual, apergaminhado; típico = nó na nuca; incompleto = apoiado; branco x azul; <b>Amussat</b>, <b>Friedberg</b>; C2 no judicial; em regra <b>suicídio</b>); <b>estrangulamento</b> (força muscular; sulco horizontal, contínuo, baixo, uniforme; quase sempre <b>homicídio</b>); <b>esganadura</b> (mãos; estigmas ungueais e equimoses digitais, fraturas da laringe; <b>sempre homicídio</b>).</li><li><b>Sufocação</b>: <b>direta</b> (boca e nariz, corpo estranho, mordaça; sinais discretos) e <b>indireta</b> (compressão do tórax; <b>Morestin</b>; asfixia <b>posicional</b> e por <b>contenção</b>).</li><li><b>Afogamento</b>: <b>cogumelo de espuma</b> (vital), corpos estranhos nas vias profundas e no estômago, pulmões encharcados, <b>Paltauf</b>, <b>Wydler</b>, <b>diatomáceas</b> (vital); permanência na água (anserina, <b>mãos de lavadeira</b>) não prova afogamento; <b>azul</b> (asfixia) x <b>branco</b> (inibição); lesões post mortem por arrasto.</li><li><b>Soterramento</b> (terra nas vias profundas e no estômago = vital), <b>confinamento</b> (espaço fechado; diagnóstico pelo local), <b>gases</b> (monóxido = livores carmim).</li><li><b>Direito</b>: asfixia <b>qualifica</b> o homicídio; constrição do pescoço na violência doméstica é <b>alto risco</b>; exame rápido da vítima viva; preservação do <b>laço</b> (cortar longe do nó).</li></ul>\n<h3>27. Como as bancas cobram este tópico</h3>\n<ul><li><b>Diferenças entre enforcamento, estrangulamento e esganadura</b>: é o núcleo. Sulco oblíquo ascendente, descontínuo e alto (<b>enforcamento</b>) x horizontal, contínuo e baixo (<b>estrangulamento</b>) x sem sulco, com marcas de dedos e unhas (<b>esganadura</b>). Peso do corpo x força muscular x mãos. Suicídio x homicídio x sempre homicídio.</li><li><b>Enforcamento</b>: típico (nó na nuca) e atípico; completo e incompleto (pés no chão não excluem); enforcado branco e azul; sinais de <b>Amussat</b> e <b>Friedberg</b>; fratura do enforcado (C2) no <b>judicial</b>.</li><li><b>Afogamento</b>: <b>cogumelo de espuma</b> (vital), manchas de <b>Paltauf</b>, sinal de <b>Wydler</b>, <b>diatomáceas</b>, afogado <b>azul</b> x <b>branco</b>, mãos de lavadeira (permanência, não afogamento), lesões post mortem por arrasto.</li><li><b>Sinais gerais</b>: manchas de <b>Tardieu</b> (petéquias subpleurais e subepicárdicas), cianose, sangue fluido e escuro; e o fato de serem <b>inespecíficos</b>.</li><li><b>Sufocação</b>: direta (boca, nariz, corpo estranho) x indireta (compressão do tórax, <b>máscara de Morestin</b>).</li><li><b>Soterramento</b>: terra nas vias <b>profundas</b> e no estômago = vital.</li></ul>\n<h3>28. Glossário do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Hipóxia / anóxia</b></td><td>falta parcial / total de oxigênio nos tecidos</td></tr><tr><td><b>Hipercapnia</b></td><td>excesso de gás carbônico no sangue</td></tr><tr><td><b>Cianose</b></td><td>cor arroxeada da pele e das mucosas</td></tr><tr><td><b>Petéquias</b></td><td>pequenas hemorragias puntiformes</td></tr><tr><td><b>Manchas de Tardieu</b></td><td>petéquias subpleurais e subepicárdicas</td></tr><tr><td><b>Enforcamento</b></td><td>laço + peso do corpo</td></tr><tr><td><b>Estrangulamento</b></td><td>laço + força muscular</td></tr><tr><td><b>Esganadura</b></td><td>constrição do pescoço pelas mãos</td></tr><tr><td><b>Sulco</b></td><td>marca deixada pelo laço no pescoço</td></tr><tr><td><b>Típico / atípico</b></td><td>nó na nuca / em outra posição</td></tr><tr><td><b>Completo / incompleto</b></td><td>corpo totalmente suspenso / parcialmente apoiado</td></tr><tr><td><b>Sinal de Amussat</b></td><td>ruptura transversal da íntima da carótida</td></tr><tr><td><b>Sinal de Friedberg</b></td><td>sufusão hemorrágica da adventícia da carótida</td></tr><tr><td><b>Fratura do enforcado</b></td><td>fratura-luxação de C2 no enforcamento judicial com queda</td></tr><tr><td><b>Estigmas ungueais</b></td><td>escoriações em meia-lua pelas unhas</td></tr><tr><td><b>Equimoses digitais</b></td><td>manchas pelas polpas dos dedos</td></tr><tr><td><b>Sufocação direta</b></td><td>oclusão de boca e nariz ou obstrução interna</td></tr><tr><td><b>Sufocação indireta</b></td><td>compressão do tórax e do abdome</td></tr><tr><td><b>Máscara de Morestin</b></td><td>cianose e petéquias intensas da face na compressão torácica</td></tr><tr><td><b>Asfixia posicional</b></td><td>posição do corpo que impede a respiração</td></tr><tr><td><b>Cogumelo de espuma</b></td><td>espuma fina e persistente na boca e no nariz do afogado (vital)</td></tr><tr><td><b>Manchas de Paltauf</b></td><td>manchas subpleurais grandes e pálidas do afogado</td></tr><tr><td><b>Sinal de Wydler</b></td><td>conteúdo gástrico em três camadas</td></tr><tr><td><b>Diatomáceas</b></td><td>algas microscópicas que chegam aos órgãos pela circulação do afogado</td></tr><tr><td><b>Mãos de lavadeira</b></td><td>maceração pela permanência na água</td></tr><tr><td><b>Afogado azul / branco</b></td><td>asfixia verdadeira / morte por inibição reflexa</td></tr><tr><td><b>Soterramento</b></td><td>obstrução por terra, areia ou grãos</td></tr><tr><td><b>Confinamento</b></td><td>espaço fechado sem renovação do ar</td></tr></tbody></table>\n<h3>29. Mapa de revisão do tópico</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Enforcamento</span></span><span class=\"vs\"><span>laço acionado pelo peso do próprio corpo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estrangulamento</span></span><span class=\"vs\"><span>laço acionado por força muscular</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Esganadura</span></span><span class=\"vs\"><span>constrição do pescoço pelas mãos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sulco do enforcamento</span></span><span class=\"vs\"><span>oblíquo ascendente, descontínuo, alto, mais profundo do lado oposto ao nó</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sulco do estrangulamento</span></span><span class=\"vs\"><span>horizontal, contínuo, baixo, profundidade uniforme</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Esganadura deixa</span></span><span class=\"vs\"><span>estigmas ungueais e equimoses digitais (sem sulco)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Enforcamento típico</span></span><span class=\"vs\"><span>nó na nuca</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Enforcamento incompleto</span></span><span class=\"vs\"><span>parte do corpo apoiada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Esganadura suicida</span></span><span class=\"vs\"><span>não existe</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sinal de Amussat</span></span><span class=\"vs\"><span>ruptura transversal da íntima da carótida</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fratura do enforcado (C2)</span></span><span class=\"vs\"><span>enforcamento judicial com queda</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Manchas de Tardieu</span></span><span class=\"vs\"><span>petéquias subpleurais e subepicárdicas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Máscara de Morestin</span></span><span class=\"vs\"><span>compressão do tórax</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cogumelo de espuma</span></span><span class=\"vs\"><span>sinal vital do afogamento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Manchas de Paltauf</span></span><span class=\"vs\"><span>manchas subpleurais do afogado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diatomáceas nos órgãos</span></span><span class=\"vs\"><span>vítima respirou a água em vida</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mãos de lavadeira</span></span><span class=\"vs\"><span>permanência na água, não prova afogamento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afogado branco</span></span><span class=\"vs\"><span>morte por inibição, poucos sinais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Soterramento vital</span></span><span class=\"vs\"><span>terra nas vias aéreas profundas e no estômago</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Asfixia no CP</span></span><span class=\"vs\"><span>qualificadora do homicídio (art. 121, § 2º, III)</span></span></button></div></div>",
 "quiz": [
+{
+"p": "Asfixia é a síndrome causada pelo impedimento das trocas respiratórias, com hipóxia e hipercapnia.",
+"c": true,
+"prof": "Conceito.",
+"x": "O cérebro é o órgão mais sensível.",
+"e": "Asfixia."
+},
+{
+"p": "As asfixias são produzidas por energias de ordem físico-química.",
+"c": true,
+"prof": "Classificação das energias.",
+"x": "Agente físico, alteração química.",
+"e": "Asfixia: físico-química."
+},
+{
+"p": "Na primeira fase da asfixia, ocorre dispneia inspiratória, com inspirações profundas, agitação e cianose progressiva.",
+"c": true,
+"prof": "Fases da asfixia.",
+"x": "Depois vêm convulsões, pausa e parada cardíaca.",
+"e": "1ª fase: dispneia inspiratória."
+},
+{
+"p": "Na fase de pausa respiratória, o coração ainda bate e a vítima ainda pode ser reanimada.",
+"c": true,
+"prof": "Fases da asfixia.",
+"x": "É a morte aparente.",
+"e": "Pausa: reanimável."
+},
+{
+"p": "As manchas de Tardieu são petéquias subpleurais e subepicárdicas, sinal geral das asfixias.",
+"c": true,
+"prof": "Sinais gerais.",
+"x": "Pontos hemorrágicos nos pulmões e no coração.",
+"e": "Tardieu."
+},
+{
+"p": "Os sinais gerais da asfixia, como cianose e petéquias, são exclusivos das mortes por asfixia e bastam para o diagnóstico.",
+"c": false,
+"prof": "Sinais gerais.",
+"x": "São inespecíficos; o diagnóstico depende dos sinais locais e do local.",
+"e": "Gerais: inespecíficos."
+},
+{
+"p": "Enforcamento é a constrição do pescoço por laço acionado pelo peso do próprio corpo da vítima.",
+"c": true,
+"prof": "Enforcamento.",
+"x": "A força vem da gravidade.",
+"e": "Enforcamento: peso."
+},
+{
+"p": "Estrangulamento é a constrição do pescoço por laço acionado por força muscular.",
+"c": true,
+"prof": "Estrangulamento.",
+"x": "Em regra, a de outra pessoa.",
+"e": "Estrangulamento: força muscular."
+},
+{
+"p": "Esganadura é a constrição do pescoço pelas mãos.",
+"c": true,
+"prof": "Esganadura.",
+"x": "Sempre homicida.",
+"e": "Esganadura: mãos."
+},
+{
+"p": "Laço no pescoço acionado pela força muscular do agressor caracteriza:",
+"alts": [
+"enforcamento",
+"estrangulamento",
+"esganadura",
+"sufocação direta",
+"confinamento"
+],
+"r": 1,
+"n": [
+"No enforcamento, a força é o peso do corpo.",
+"Correta.",
+"Na esganadura, são as mãos.",
+"É oclusão de boca e nariz.",
+"É espaço fechado."
+],
+"prof": "Constrição do pescoço.",
+"x": "Laço + força muscular = estrangulamento.",
+"e": "Laço + força = estrangulamento."
+},
+{
+"p": "No enforcamento típico, o nó do laço fica na nuca.",
+"c": true,
+"prof": "Enforcamento.",
+"x": "No atípico, em outra posição.",
+"e": "Típico: nuca."
+},
+{
+"p": "No enforcamento incompleto, parte do corpo da vítima está apoiada, como os pés ou os joelhos.",
+"c": true,
+"prof": "Enforcamento.",
+"x": "É muito frequente.",
+"e": "Incompleto: apoiado."
+},
+{
+"p": "O fato de a vítima de enforcamento estar com os pés tocando o chão afasta a hipótese de suicídio.",
+"c": false,
+"prof": "Enforcamento incompleto.",
+"x": "O enforcamento incompleto é comum e compatível com suicídio.",
+"e": "Pés no chão: possível."
+},
+{
+"p": "O enforcamento é, na grande maioria dos casos, suicida.",
+"c": true,
+"prof": "Enforcamento.",
+"x": "O homicida é raro e exige vítima incapacitada ou vários agressores.",
+"e": "Enforcamento: suicídio."
+},
+{
+"p": "O mecanismo principal da morte no enforcamento é a compressão das artérias do pescoço, com interrupção do fluxo de sangue para o cérebro.",
+"c": true,
+"prof": "Mecanismos.",
+"x": "Também compressão venosa, das vias aéreas e inibição reflexa.",
+"e": "Compressão arterial."
+},
+{
+"p": "A pressão sobre o seio carotídeo pode provocar parada cardíaca súbita por inibição reflexa.",
+"c": true,
+"prof": "Mecanismos.",
+"x": "Reflexo vagal.",
+"e": "Seio carotídeo."
+},
+{
+"p": "A fratura-luxação da segunda vértebra cervical, chamada fratura do enforcado, é típica do enforcamento judicial com queda.",
+"c": true,
+"prof": "Enforcamento judicial.",
+"x": "No suicida sem queda, é rara.",
+"e": "C2: judicial."
+},
+{
+"p": "No enforcado branco, a face é pálida porque o laço fechou completamente as artérias; no enforcado azul, a face é cianótica porque o fechamento arterial foi incompleto.",
+"c": true,
+"prof": "Enforcado branco x azul.",
+"x": "Típico completo tende a ser branco.",
+"e": "Branco x azul."
+},
+{
+"p": "O sulco do enforcamento é oblíquo, ascendente em direção ao nó e descontínuo.",
+"c": true,
+"prof": "Sulco.",
+"x": "Falta na região do nó.",
+"e": "Sulco do enforcamento."
+},
+{
+"p": "O sulco do enforcamento é mais profundo na região do nó.",
+"c": false,
+"prof": "Sulco.",
+"x": "É mais profundo do lado oposto ao nó.",
+"e": "Mais fundo oposto ao nó."
+},
+{
+"p": "O sulco do enforcamento situa-se, em regra, acima da cartilagem tireoide.",
+"c": true,
+"prof": "Sulco.",
+"x": "O do estrangulamento é mais baixo.",
+"e": "Enforcamento: alto."
+},
+{
+"p": "O fundo do sulco do enforcamento é apergaminhado: seco, pálido e endurecido.",
+"c": true,
+"prof": "Sulco.",
+"x": "Pela compressão e dessecação da pele.",
+"e": "Fundo apergaminhado."
+},
+{
+"p": "O sinal de Amussat é a ruptura transversal da túnica íntima da artéria carótida.",
+"c": true,
+"prof": "Sinais no pescoço.",
+"x": "Pelo estiramento.",
+"e": "Amussat."
+},
+{
+"p": "O sinal de Friedberg é a sufusão hemorrágica da adventícia da carótida.",
+"c": true,
+"prof": "Sinais no pescoço.",
+"x": "Camada externa da artéria.",
+"e": "Friedberg."
+},
+{
+"p": "Fraturas do osso hioide e da cartilagem tireoide são mais comuns em idosos, cujas cartilagens estão calcificadas.",
+"c": true,
+"prof": "Sinais no pescoço.",
+"x": "Ocorrem em todas as constrições.",
+"e": "Hioide em idosos."
+},
+{
+"p": "No enforcado que permanece suspenso por horas, os livores localizam-se nas pernas, pés e mãos, em luva e meia.",
+"c": true,
+"prof": "Sinais do enforcamento.",
+"x": "Partes mais baixas do corpo.",
+"e": "Livores em luva e meia."
+},
+{
+"p": "O sulco produzido em vida apresenta infiltração hemorrágica, ao contrário do produzido por laço colocado no cadáver.",
+"c": true,
+"prof": "Sulco vital.",
+"x": "Casos limítrofes exigem microscopia.",
+"e": "Sulco vital."
+},
+{
+"p": "A presença de dois sulcos, um deles horizontal e sem relação com o laço da suspensão, pode indicar estrangulamento seguido de simulação de enforcamento.",
+"c": true,
+"prof": "Simulação.",
+"x": "O agressor pendura o corpo já morto.",
+"e": "Dois sulcos."
+},
+{
+"p": "O sulco do estrangulamento é horizontal, contínuo, situado na altura ou abaixo da cartilagem tireoide e de profundidade uniforme.",
+"c": true,
+"prof": "Estrangulamento.",
+"x": "Oposto ao do enforcamento.",
+"e": "Sulco do estrangulamento."
+},
+{
+"p": "O sulco do estrangulamento é oblíquo, ascendente e interrompido na região do nó.",
+"c": false,
+"prof": "Estrangulamento.",
+"x": "Essas são características do enforcamento.",
+"e": "Estrangulamento: horizontal."
+},
+{
+"p": "O estrangulamento é quase sempre homicida, sendo o suicida raro e dependente de mecanismo que mantenha o laço apertado.",
+"c": true,
+"prof": "Estrangulamento.",
+"x": "Ex.: torniquete travado.",
+"e": "Estrangulamento: homicídio."
+},
+{
+"p": "No estrangulamento, a face costuma ser congesta e cianótica, com petéquias abundantes.",
+"c": true,
+"prof": "Estrangulamento.",
+"x": "As veias são comprimidas.",
+"e": "Face cianótica."
+},
+{
+"p": "Escoriações verticais e paralelas junto ao sulco podem ser produzidas pelas unhas da própria vítima tentando afastar o laço.",
+"c": true,
+"prof": "Sinais de luta.",
+"x": "Material sob as unhas deve ser coletado.",
+"e": "Unhas da vítima."
+},
+{
+"p": "O estrangulamento pelo antebraço pode não deixar sulco, mas costuma deixar equimoses difusas e lesões profundas no pescoço.",
+"c": true,
+"prof": "Estrangulamento por antebraço.",
+"x": "\"Gravata\" ou \"mata-leão\".",
+"e": "Gravata."
+},
+{
+"p": "Na esganadura, encontram-se estigmas ungueais e equimoses digitais no pescoço.",
+"c": true,
+"prof": "Esganadura.",
+"x": "Polegar de um lado, demais dedos do outro.",
+"e": "Unhas e dedos."
+},
+{
+"p": "A esganadura deixa sulco horizontal e contínuo no pescoço.",
+"c": false,
+"prof": "Esganadura.",
+"x": "A esganadura não deixa sulco; deixa marcas de unhas e dedos.",
+"e": "Esganadura sem sulco."
+},
+{
+"p": "Não existe esganadura suicida, porque, ao perder a consciência, a pessoa afrouxa as próprias mãos.",
+"c": true,
+"prof": "Esganadura.",
+"x": "É sempre homicida.",
+"e": "Esganadura: sempre homicídio."
+},
+{
+"p": "Fraturas do hioide e das cartilagens da laringe são frequentes na esganadura, pela pressão concentrada dos dedos.",
+"c": true,
+"prof": "Esganadura.",
+"x": "Exigem dissecção cuidadosa do pescoço.",
+"e": "Hioide na esganadura."
+},
+{
+"p": "Quanto à causa jurídica, é correto afirmar que, em regra:",
+"alts": [
+"o enforcamento é homicida e a esganadura, suicida",
+"o enforcamento é suicida, o estrangulamento é homicida e a esganadura é sempre homicida",
+"as três formas são, em regra, acidentais",
+"o estrangulamento é suicida",
+"a esganadura pode ser suicida com uso das duas mãos"
+],
+"r": 1,
+"n": [
+"Inverte.",
+"Correta.",
+"Não.",
+"É quase sempre homicida.",
+"A mão afrouxa ao perder a consciência."
+],
+"prof": "Constrição do pescoço.",
+"x": "É a regra cobrada.",
+"e": "Causas jurídicas."
+},
+{
+"p": "Na sufocação direta por oclusão de boca e nariz com objeto macio, pode não haver lesão visível, especialmente em crianças e idosos.",
+"c": true,
+"prof": "Sufocação direta.",
+"x": "Diagnóstico difícil.",
+"e": "Oclusão sem marcas."
+},
+{
+"p": "Lesões na face interna dos lábios, comprimidos contra os dentes, podem indicar oclusão da boca.",
+"c": true,
+"prof": "Sufocação direta.",
+"x": "Também escoriações ao redor do nariz e da boca.",
+"e": "Lábios internos."
+},
+{
+"p": "A obstrução das vias aéreas por corpo estranho é forma de sufocação direta.",
+"c": true,
+"prof": "Sufocação direta.",
+"x": "Ex.: engasgo com alimento.",
+"e": "Engasgo."
+},
+{
+"p": "A síndrome da morte súbita do lactente é diagnóstico de exclusão e deve ser diferenciada da sufocação.",
+"c": true,
+"prof": "Lactentes.",
+"x": "Exige necropsia completa e investigação do local.",
+"e": "Morte súbita do lactente."
+},
+{
+"p": "Na sufocação indireta, as vias aéreas estão livres, mas a compressão do tórax e do abdome impede os movimentos respiratórios.",
+"c": true,
+"prof": "Sufocação indireta.",
+"x": "Ex.: multidões, soterramento parcial.",
+"e": "Compressão torácica."
+},
+{
+"p": "A máscara equimótica de Morestin, com face e pescoço intensamente arroxeados e petéquias, é típica da compressão do tórax.",
+"c": true,
+"prof": "Asfixia traumática.",
+"x": "O sangue venoso é empurrado para a cabeça.",
+"e": "Morestin."
+},
+{
+"p": "A máscara equimótica de Morestin é sinal típico do afogamento.",
+"c": false,
+"prof": "Asfixia traumática.",
+"x": "É típica da compressão torácica.",
+"e": "Morestin: compressão."
+},
+{
+"p": "Pessoas contidas de bruços, algemadas e com peso sobre as costas podem morrer por asfixia posicional ou por contenção.",
+"c": true,
+"prof": "Asfixia por contenção.",
+"x": "Reduzir o tempo de bruços e evitar peso sobre o tórax.",
+"e": "Contenção de bruços."
+},
+{
+"p": "Afogamento é a asfixia pela penetração de líquido nas vias aéreas, podendo ocorrer mesmo em pequena quantidade de água, como em banheiras e baldes.",
+"c": true,
+"prof": "Afogamento.",
+"x": "Basta submergir nariz e boca.",
+"e": "Afogamento em pouca água."
+},
+{
+"p": "O afogado azul é o que morreu por asfixia, aspirando água; o afogado branco morre por inibição reflexa, sem aspirar água em quantidade.",
+"c": true,
+"prof": "Afogamento.",
+"x": "O branco tem poucos sinais.",
+"e": "Azul x branco."
+},
+{
+"p": "O cogumelo de espuma, branca, fina e persistente na boca e no nariz, é sinal de reação vital do afogamento.",
+"c": true,
+"prof": "Sinais do afogamento.",
+"x": "Forma-se com a respiração na água.",
+"e": "Cogumelo de espuma."
+},
+{
+"p": "O cogumelo de espuma forma-se igualmente em corpos jogados na água após a morte.",
+"c": false,
+"prof": "Sinais do afogamento.",
+"x": "É sinal vital: exige respiração.",
+"e": "Espuma: vital."
+},
+{
+"p": "As manchas de Paltauf são manchas subpleurais grandes, pálidas, azuladas ou avermelhadas, decorrentes de hemólise, encontradas no afogamento.",
+"c": true,
+"prof": "Sinais do afogamento.",
+"x": "Sinal clássico.",
+"e": "Paltauf."
+},
+{
+"p": "Pelo sinal de Wydler, o conteúdo gástrico do afogado separa-se em três camadas: espuma, líquido e sólidos.",
+"c": true,
+"prof": "Sinais do afogamento.",
+"x": "Indica deglutição de água.",
+"e": "Wydler."
+},
+{
+"p": "A presença de diatomáceas em órgãos fechados, como medula óssea e rins, indica que a vítima aspirou a água em vida.",
+"c": true,
+"prof": "Sinais do afogamento.",
+"x": "Chegam pela circulação.",
+"e": "Diatomáceas: vital."
+},
+{
+"p": "Areia e algas nas vias aéreas profundas e água no estômago indicam que a pessoa respirou e engoliu na água.",
+"c": true,
+"prof": "Sinais do afogamento.",
+"x": "Sinal vital.",
+"e": "Corpos estranhos profundos."
+},
+{
+"p": "As mãos de lavadeira indicam permanência do corpo na água, mas não provam que a morte foi por afogamento.",
+"c": true,
+"prof": "Sinais de permanência.",
+"x": "Aparecem também em quem foi jogado morto.",
+"e": "Lavadeira: permanência."
+},
+{
+"p": "A pele anserina e a maceração são sinais de permanência na água.",
+"c": true,
+"prof": "Sinais de permanência.",
+"x": "Não são vitais.",
+"e": "Anserina."
+},
+{
+"p": "O cadáver afogado costuma ficar de bruços, com a cabeça mais baixa, e pode apresentar lesões post mortem por arrasto na testa, nos joelhos e no dorso das mãos.",
+"c": true,
+"prof": "Cadáver na água.",
+"x": "Não confundir com agressão.",
+"e": "Arrasto post mortem."
+},
+{
+"p": "Com a putrefação, os gases fazem o cadáver submerso flutuar, em geral após alguns dias.",
+"c": true,
+"prof": "Cadáver na água.",
+"x": "Mais rápido em água quente.",
+"e": "Flutuação."
+},
+{
+"p": "A ausência de sinais vitais de afogamento, com lesão que explique a morte, indica que a vítima morreu antes da submersão.",
+"c": true,
+"prof": "Corpo jogado na água.",
+"x": "Ex.: projétil, esganadura.",
+"e": "Morta antes da água."
+},
+{
+"p": "No soterramento, a presença de terra nas vias aéreas profundas e no estômago indica que a vítima respirou e engoliu sob a terra.",
+"c": true,
+"prof": "Soterramento.",
+"x": "Corpo enterrado morto tem terra só na boca e no nariz.",
+"e": "Soterramento vital."
+},
+{
+"p": "Confinamento é a asfixia em espaço fechado sem renovação do ar, com queda do oxigênio e aumento do gás carbônico.",
+"c": true,
+"prof": "Confinamento.",
+"x": "Ex.: criança em freezer antigo.",
+"e": "Confinamento."
+},
+{
+"p": "Muitas mortes em espaços confinados de trabalho atingem também quem desce para socorrer sem proteção.",
+"c": true,
+"prof": "Gases irrespiráveis.",
+"x": "Poços, tanques, galerias.",
+"e": "Socorrista vítima."
+},
+{
+"p": "A asfixia autoerótica é, em regra, morte acidental, com achados como acolchoamento do laço e mecanismo de liberação.",
+"c": true,
+"prof": "Asfixia autoerótica.",
+"x": "Diferencia-se de suicídio e homicídio.",
+"e": "Autoerótica: acidente."
+},
+{
+"p": "O emprego de asfixia qualifica o homicídio.",
+"c": true,
+"prof": "CP, art. 121, § 2º, III.",
+"x": "O laudo deve especificar a espécie.",
+"e": "Asfixia qualifica."
+},
+{
+"p": "Episódios não fatais de apertar o pescoço da parceira são considerados sinal de alto risco de feminicídio.",
+"c": true,
+"prof": "Violência doméstica.",
+"x": "Atenção nas medidas protetivas.",
+"e": "Constrição: alto risco."
+},
+{
+"p": "Na vítima sobrevivente de constrição do pescoço, devem ser procuradas petéquias nos olhos, rouquidão e dor ao engolir, e o exame deve ser rápido.",
+"c": true,
+"prof": "Lesão corporal.",
+"x": "As marcas mudam em poucos dias.",
+"e": "Sobrevivente: exame rápido."
+},
+{
+"p": "Na suspeita de esganadura, a dissecção do pescoço em camadas pode revelar infiltrações musculares e fraturas que não aparecem por fora.",
+"c": true,
+"prof": "Necropsia do pescoço.",
+"x": "Coletar material sob as unhas.",
+"e": "Dissecção em camadas."
+},
+{
+"p": "Na morte por compressão do tórax em tumulto, as vias aéreas estão livres e pode haver fraturas de costelas e máscara equimótica.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Sufocação indireta.",
+"e": "Tumulto."
+},
+{
+"p": "As petéquias são mais frequentes no estrangulamento e na esganadura porque a compressão das veias, com as artérias ainda levando sangue à cabeça, eleva a pressão nos pequenos vasos da face.",
+"c": true,
+"prof": "Fisiologia.",
+"x": "O enforcamento típico completo tende à face pálida.",
+"e": "Por que há petéquias."
+},
+{
+"p": "Quem sobrevive a uma asfixia prolongada pode ficar com sequelas neurológicas graves.",
+"c": true,
+"prof": "Fisiologia.",
+"x": "Interessa à classificação da lesão corporal.",
+"e": "Sequelas neurológicas."
+},
+{
+"p": "Para retirar o corpo de um enforcado, o laço deve ser cortado longe do nó, preservando-o, e as pontas cortadas devem ser identificadas.",
+"c": true,
+"prof": "Local do enforcamento.",
+"x": "Permite reconstituir o nó.",
+"e": "Cortar longe do nó."
+},
+{
+"p": "As marcas de atrito da corda no ponto de fixação podem indicar se o corpo caiu e esticou o laço ou se foi içado por outra pessoa.",
+"c": true,
+"prof": "Local do enforcamento.",
+"x": "O sentido do atrito difere.",
+"e": "Atrito no ponto de fixação."
+},
+{
+"p": "O mergulho em águas rasas pode causar fratura da coluna cervical e paralisia, levando ao afogamento.",
+"c": true,
+"prof": "Afogamento acidental.",
+"x": "Causa comum de afogamento.",
+"e": "Águas rasas."
+},
+{
+"p": "Equimoses nos braços, no pescoço e na nuca de afogado podem indicar que a vítima foi contida debaixo d'água.",
+"c": true,
+"prof": "Afogamento homicida.",
+"x": "Lesões de contenção.",
+"e": "Contenção na água."
+},
+{
+"p": "A síndrome de imersão corresponde à morte súbita reflexa ao entrar em água fria, quadro do afogado branco.",
+"c": true,
+"prof": "Síndrome de imersão.",
+"x": "Poucos sinais de afogamento.",
+"e": "Hidrocussão."
+},
+{
+"p": "Na água fria, a maceração e a putrefação são mais lentas, o que altera a estimativa do tempo de permanência na água.",
+"c": true,
+"prof": "Tempo na água.",
+"x": "A temperatura da água influencia.",
+"e": "Água fria: mais lento."
+},
+{
+"p": "A circular de cordão umbilical é frequente em partos normais e, em regra, não deixa sulco com reação vital.",
+"c": true,
+"prof": "Recém-nascidos.",
+"x": "O perito diferencia da constrição intencional.",
+"e": "Circular de cordão."
+},
+{
+"p": "Na suspeita de asfixia em recém-nascido, a perícia deve inicialmente verificar se a criança nasceu viva, por meio das docimasias.",
+"c": true,
+"prof": "Recém-nascidos.",
+"x": "Tema da obstetrícia forense.",
+"e": "Nasceu viva?"
+},
+{
+"p": "Na vítima sobrevivente de constrição do pescoço, a perda de consciência, ainda que breve, é dado relevante para o quesito do perigo de vida.",
+"c": true,
+"prof": "Exame da vítima viva.",
+"x": "Indica proximidade da morte.",
+"e": "Perda de consciência."
+},
+{
+"p": "Lesões das carótidas causadas por constrição do pescoço podem provocar acidente vascular cerebral dias depois.",
+"c": true,
+"prof": "Exame da vítima viva.",
+"x": "Justifica exames complementares.",
+"e": "Carótida e AVC."
+},
+{
+"p": "Gases inertes, como hélio e nitrogênio, deslocam o oxigênio e podem causar a morte quase sem sinais de asfixia.",
+"c": true,
+"prof": "Situações especiais.",
+"x": "Diagnóstico depende do local.",
+"e": "Gases inertes."
+},
+{
+"p": "O engasgo com bolo alimentar em adultos, às vezes confundido com morte cardíaca, é diagnosticado pelo achado do alimento na laringe na necropsia.",
+"c": true,
+"prof": "Situações especiais.",
+"x": "Comum em idosos e embriagados.",
+"e": "Café coronary."
+},
+{
+"p": "Nas mortes de presos sob custódia, a apuração deve ser independente e minuciosa, por se tratar de pessoa sob responsabilidade do Estado.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Exame do sulco, outras lesões, local e câmeras.",
+"e": "Morte sob custódia."
+},
+{
+"p": "O uso de drogas estimulantes aumenta o risco de morte na contenção prolongada em decúbito ventral.",
+"c": true,
+"prof": "Asfixia por contenção.",
+"x": "Também obesidade e doenças cardíacas.",
+"e": "Estimulantes e contenção."
+},
 {
 "p": "No enforcamento, o sulco no pescoço costuma ser oblíquo ascendente, descontínuo na região do nó e localizado acima da laringe.",
 "c": true,
@@ -8901,7 +10231,7 @@ export const PROFUNDO = {
 "e": "Afogamento."
 }
 ],
-"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>Oblíquo</b><span>sulco do enforcamento (ascendente, interrompido no nó)</span></div><div class=\"lt-stat\"><b>Horizontal</b><span>sulco do estrangulamento (contínuo)</span></div><div class=\"lt-stat\"><b>Mãos</b><span>esganadura: sempre homicídio</span></div><div class=\"lt-stat\"><b>Rosa-cereja</b><span>cor dos livores na intoxicação por CO</span></div></div>\n<h3>1. Conceito e sinais gerais</h3>\n<ul><li><b>Asfixia</b> é a falta de oxigênio nos tecidos (anoxemia) com acúmulo de gás carbônico. É energia de ordem <b>físico-química</b>.</li><li>Sinais gerais (inespecíficos): <b>cianose</b>, <b>petéquias</b> (manchas de <b>Tardieu</b>) nas pleuras e no pericárdio, <b>congestão</b> dos órgãos, sangue <b>fluido e escuro</b>.</li></ul>\n<h3>2. Asfixias em espécie</h3>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Mecanismo</th><th>Achados típicos</th></tr></thead><tbody><tr><td><b>Gases irrespiráveis / confinamento</b></td><td>ambiente sem O₂ ou com gás que o desloca</td><td>confinamento em espaço fechado (cofre, porta-malas): consumo do oxigênio</td></tr><tr><td><b>Monóxido de carbono</b></td><td>CO se liga à hemoglobina (carboxiemoglobina)</td><td><b>livores e sangue róseo/vermelho-cereja</b>; acidentes com aquecedores, incêndios, motor ligado em garagem</td></tr><tr><td><b>Sufocação direta</b></td><td>obstrução dos <b>orifícios</b> (nariz, boca) ou das <b>vias aéreas</b> (engasgo, corpo estranho)</td><td>lesões ao redor da boca e do nariz; corpo estranho na via aérea</td></tr><tr><td><b>Sufocação indireta</b></td><td><b>compressão do tórax</b> impedindo a respiração</td><td>multidões, soterramento parcial, peso sobre o peito; máscara equimótica (cabeça e pescoço arroxeados)</td></tr><tr><td><b>Afogamento</b></td><td>líquido nas vias aéreas</td><td><b>cogumelo de espuma</b> na boca e nariz; <b>manchas de Paltauf</b> nos pulmões; <b>mãos de lavadeira</b> (maceração da pele); pulmões volumosos</td></tr><tr><td><b>Soterramento</b></td><td>vias aéreas obstruídas por terra, areia ou grãos</td><td>material sólido nas vias aéreas</td></tr></tbody></table>\n<h3>3. Constrição do pescoço</h3>\n<table class=\"tab\"><thead><tr><th>; <b>Enforcamento</b></th><th><b>Estrangulamento</b></th><th><b>Esganadura</b></th></tr></thead><tbody><tr><td>Força</td><td><b>peso do próprio corpo</b></td><td>força externa (pessoa ou mecanismo) por <b>laço</b></td><td><b>mãos</b> do agressor</td></tr><tr><td>Sulco</td><td><b>oblíquo ascendente</b>, <b>interrompido</b> na altura do nó, em regra <b>acima</b> da cartilagem tireoide, profundo e apergaminhado</td><td><b>horizontal</b>, <b>contínuo</b>, em regra <b>abaixo</b> da tireoide, de profundidade uniforme</td><td><b>não há sulco</b>: há <b>escoriações ungueais</b> (marcas de unhas) e equimoses digitais</td></tr><tr><td>Jurídico</td><td>em regra <b>suicídio</b></td><td>em regra <b>homicídio</b> (pode ser acidente)</td><td><b>sempre homicídio</b> (ninguém se esgana)</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Enforcamento <b>completo</b> (corpo suspenso) e <b>incompleto</b> (partes do corpo apoiadas) existem: o peso parcial basta para comprimir o pescoço. \"Pés tocando o chão\" <b>não exclui</b> enforcamento.</div>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · simulação de suicídio</b><p class=\"jc-tese\">Sulco horizontal e contínuo, abaixo da tireoide, ou marcas de unhas no pescoço de um \"enforcado\" indicam estrangulamento ou esganadura seguidos de suspensão do corpo.</p><p class=\"jc-com\">É o tipo de discrepância que a perícia aponta e o investigador deve explorar: o local de crime precisa ser <b>preservado</b> até a chegada dos peritos.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Esganadura pode ser suicídio</span><br>✅ <span class=\"certo\">Esganadura (com as mãos) é sempre homicídio.</span></li><li>❌ <span class=\"banca\">O sulco do enforcamento é horizontal e contínuo</span><br>✅ <span class=\"certo\">É OBLÍQUO ascendente e interrompido no nó.</span></li><li>❌ <span class=\"banca\">Se os pés tocam o chão, não é enforcamento</span><br>✅ <span class=\"certo\">Existe enforcamento incompleto.</span></li><li>❌ <span class=\"banca\">Na intoxicação por CO os livores são violáceos escuros</span><br>✅ <span class=\"certo\">São róseos/vermelho-cereja.</span></li><li>❌ <span class=\"banca\">Cogumelo de espuma é sinal de enforcamento</span><br>✅ <span class=\"certo\">É sinal de afogamento.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Enforcamento?</span></span><span class=\"vs\"><span>Peso do corpo; sulco <b>oblíquo</b>, <b>interrompido</b>, acima da tireoide; em regra suicídio.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estrangulamento?</span></span><span class=\"vs\"><span>Laço por força externa; sulco <b>horizontal</b> e <b>contínuo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Esganadura?</span></span><span class=\"vs\"><span><b>Mãos</b>; marcas de unhas; <b>sempre homicídio</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CO?</span></span><span class=\"vs\"><span>Livores <b>vermelho-cereja</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afogamento?</span></span><span class=\"vs\"><span><b>Cogumelo de espuma</b>, <b>Paltauf</b>, mãos de lavadeira.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sufocação indireta?</span></span><span class=\"vs\"><span><b>Compressão do tórax</b>.</span></span></button></div></div>"
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>asfixias por constrição do pescoço: enforcamento, estrangulamento e esganadura</span></div><div class=\"lt-stat\"><b>1</b><span>esganadura: sempre homicídio (não há suicídio por esganadura)</span></div><div class=\"lt-stat\"><b>2</b><span>sufocações: direta (vias aéreas) e indireta (compressão do tórax)</span></div><div class=\"lt-stat\"><b>0</b><span>valor das \"mãos de lavadeira\" para provar afogamento (indicam só permanência na água)</span></div></div>\n<h3>1. Conceito e sinais gerais</h3>\n<ul><li><b>Asfixia</b> é a <b>falta de oxigênio</b> nos tecidos com acúmulo de gás carbônico, causada por um obstáculo à respiração. As asfixias mecânicas pertencem às <b>energias de ordem físico-química</b>.</li><li><b>Sinais gerais</b> (inespecíficos, aparecem em várias asfixias): <b>cianose</b> (coloração azulada da face e extremidades), <b>petéquias</b> (pequenas hemorragias puntiformes) nas conjuntivas e na face, <b>manchas de Tardieu</b> (petéquias subpleurais e subepicárdicas), <b>congestão</b> dos órgãos, <b>sangue fluido e escuro</b>, livores precoces e intensos.</li></ul>\n<h3>2. Constrição do pescoço</h3>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Agente constritor</th><th>Força</th><th>Sulco ou marcas</th><th>Causa jurídica mais comum</th></tr></thead><tbody><tr><td><b>Enforcamento</b></td><td><b>laço</b></td><td>o <b>peso do próprio corpo</b></td><td>sulco <b>oblíquo ascendente</b>, <b>descontínuo</b> (interrompido no ponto do nó), geralmente <b>acima da laringe</b>, com fundo <b>apergaminhado</b> (pele seca e endurecida)</td><td><b>suicídio</b> (homicídio é raro e simulações devem ser investigadas)</td></tr><tr><td><b>Estrangulamento</b></td><td><b>laço</b></td><td><b>força muscular</b> do agressor (ou outra força ativa)</td><td>sulco <b>horizontal</b>, <b>contínuo</b> (dá a volta completa), geralmente <b>abaixo ou na altura da laringe</b>, de profundidade uniforme</td><td><b>homicídio</b></td></tr><tr><td><b>Esganadura</b></td><td><b>mãos</b> do agressor</td><td>força muscular</td><td><b>não há sulco</b>; há <b>equimoses</b> e <b>escoriações</b> em forma de <b>unha</b> (estigmas ungueais), equimoses digitais, fraturas da laringe e do osso hioide</td><td><b>sempre homicídio</b> (ninguém se esgana a si mesmo)</td></tr></tbody></table>\n<ul><li><b>Enforcamento típico x atípico</b>: típico quando o nó fica na <b>nuca</b> (região occipital); atípico nas demais posições. <b>Completo</b> (corpo totalmente suspenso) x <b>incompleto</b> (parte do corpo apoiada no chão: joelhos, pés), que é possível porque bastam poucos quilos de pressão para ocluir as artérias do pescoço.</li><li><b>Sinais de reação vital</b>: equimoses e infiltração hemorrágica no sulco indicam que a pessoa estava <b>viva</b> quando o laço atuou; ajudam a distinguir de <b>simulação</b> (corpo pendurado depois de morto).</li></ul>\n<h3>3. Obstrução das vias respiratórias e compressão</h3>\n<ul><li><b>Sufocação direta</b>: obstrução da <b>boca e do nariz</b> (mãos, travesseiro, saco plástico) ou das <b>vias aéreas</b> (corpo estranho, como alimento, prótese dentária, mordaça). Sinais: escoriações e equimoses em volta da boca e do nariz, marcas de unhas, lesões na mucosa labial.</li><li><b>Sufocação indireta</b>: <b>compressão do tórax e do abdome</b> que impede os movimentos respiratórios (multidões em tumulto, soterramento parcial, alguém que se senta sobre a vítima). Sinal típico: <b>máscara equimótica</b> de Morestin (cianose e petéquias na face, pescoço e parte superior do tórax).</li><li><b>Confinamento</b>: permanência em ambiente fechado sem renovação de ar (crianças trancadas em carro, porta-malas): o oxigênio se esgota e o CO₂ se acumula.</li><li><b>Soterramento</b>: obstrução por <b>sólidos</b> (terra, areia, grãos); achado característico é a presença do material nas <b>vias aéreas</b> e no <b>estômago</b>, indicando que a vítima respirava e deglutia ao ser soterrada.</li></ul>\n<h3>4. Afogamento</h3>\n<ul><li><b>Afogamento</b> é a asfixia por <b>substituição do ar por líquido</b> nas vias respiratórias.</li></ul>\n<table class=\"tab\"><thead><tr><th>Sinal</th><th>O que indica</th></tr></thead><tbody><tr><td><b>Cogumelo de espuma</b> na boca e no nariz</td><td>espuma fina, branca ou rósea, persistente: sinal de <b>afogamento em vida</b> (mistura de ar, água e muco pela respiração)</td></tr><tr><td><b>Enfisema hidroaéreo</b> dos pulmões</td><td>pulmões volumosos, encharcados</td></tr><tr><td><b>Água e corpos estranhos</b> (areia, algas) no estômago e nas vias aéreas</td><td>deglutição e aspiração em vida</td></tr><tr><td><b>Diatomáceas</b> (algas microscópicas) na <b>medula óssea</b> e em órgãos</td><td>passaram à circulação pela respiração: forte indício de afogamento em vida</td></tr><tr><td><b>Maceração da pele</b> (\"<b>mãos de lavadeira</b>\", pele enrugada e esbranquiçada)</td><td>indica apenas <b>permanência do corpo na água</b>, e <b>não</b> que houve afogamento</td></tr><tr><td><b>Mancha verde da putrefação</b> no tórax (e não no abdome)</td><td>nos afogados, a putrefação costuma começar pela parte superior do tórax</td></tr></tbody></table>\n<ul><li><b>Afogado branco x azul</b>: o \"azul\" (asfíctico) tem cianose intensa; o \"branco\" decorre de inibição reflexa (morte súbita por choque com a água fria, sem as alterações asfíticas típicas).</li><li><b>Corpo que flutua</b>: com a putrefação, os gases fazem o cadáver <b>voltar à superfície</b> dias depois.</li></ul>\n<h3>5. Outras asfixias</h3>\n<ul><li><b>Asfixia por gases irrespiráveis</b> ou ar rarefeito (grandes altitudes, ambientes saturados de gases inertes). <b>Monóxido de carbono</b> é tratado como asfixia <b>química</b> (livores vermelho-carmim).</li><li><b>Asfixia posicional</b>: a posição do corpo impede a respiração (contenção em decúbito ventral com peso sobre as costas). É relevante na análise de mortes durante <b>contenção policial</b>: técnicas que comprimem tórax ou pescoço por tempo prolongado podem causar morte por asfixia.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O sulco do enforcamento é horizontal e contínuo</span><br>✅ <span class=\"certo\">Esse é o do estrangulamento; o do enforcamento é oblíquo ascendente e descontínuo.</span></li><li>❌ <span class=\"banca\">Esganadura pode ser suicídio</span><br>✅ <span class=\"certo\">Sempre homicídio.</span></li><li>❌ <span class=\"banca\">Mãos de lavadeira provam afogamento</span><br>✅ <span class=\"certo\">Indicam só permanência na água.</span></li><li>❌ <span class=\"banca\">O enforcamento incompleto é impossível</span><br>✅ <span class=\"certo\">Basta pouca pressão para ocluir as artérias; é possível com os pés no chão.</span></li><li>❌ <span class=\"banca\">A máscara equimótica é sinal de esganadura</span><br>✅ <span class=\"certo\">É da sufocação indireta (compressão do tórax).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Enforcamento?</span></span><span class=\"vs\"><span>Laço + <b>peso do corpo</b>; sulco <b>oblíquo, descontínuo</b>, acima da laringe.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estrangulamento?</span></span><span class=\"vs\"><span>Laço + <b>força ativa</b>; sulco <b>horizontal, contínuo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Esganadura?</span></span><span class=\"vs\"><span><b>Mãos</b>; estigmas <b>ungueais</b>; sempre <b>homicídio</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sufocação indireta?</span></span><span class=\"vs\"><span><b>Compressão do tórax</b>; máscara equimótica.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cogumelo de espuma?</span></span><span class=\"vs\"><span>Afogamento <b>em vida</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diatomáceas na medula?</span></span><span class=\"vs\"><span>Afogamento <b>em vida</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mãos de lavadeira?</span></span><span class=\"vs\"><span>Só <b>permanência na água</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Soterramento?</span></span><span class=\"vs\"><span>Material nas <b>vias aéreas e no estômago</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O corpo no galpão</b><p>Um homem é encontrado pendurado por uma corda no galpão de casa. O perito observa que o sulco no pescoço é <b>horizontal</b>, <b>contínuo</b> e abaixo da laringe, com escoriações ungueais ao redor, e não há sinais de reação vital no sulco.</p><details><summary>Ver a solução comentada</summary><p>Os achados são <b>incompatíveis com enforcamento suicida</b>: o sulco horizontal e contínuo é típico de <b>estrangulamento</b>; as <b>escoriações ungueais</b> sugerem luta ou esganadura; a ausência de reação vital no sulco indica que o corpo pode ter sido <b>pendurado depois da morte</b> (simulação). A hipótese principal é <b>homicídio</b>, com montagem de cena de suicídio. O local deve ser preservado e o caso investigado como crime contra a vida.</p></details></div><div class=\"lt-stats\"><div class=\"lt-stat\"><b>Oblíquo</b><span>sulco do enforcamento (ascendente, interrompido no nó)</span></div><div class=\"lt-stat\"><b>Horizontal</b><span>sulco do estrangulamento (contínuo)</span></div><div class=\"lt-stat\"><b>Mãos</b><span>esganadura: sempre homicídio</span></div><div class=\"lt-stat\"><b>Rosa-cereja</b><span>cor dos livores na intoxicação por CO</span></div></div>\n<h3>1. Conceito e sinais gerais</h3>\n<ul><li><b>Asfixia</b> é a falta de oxigênio nos tecidos (anoxemia) com acúmulo de gás carbônico. É energia de ordem <b>físico-química</b>.</li><li>Sinais gerais (inespecíficos): <b>cianose</b>, <b>petéquias</b> (manchas de <b>Tardieu</b>) nas pleuras e no pericárdio, <b>congestão</b> dos órgãos, sangue <b>fluido e escuro</b>.</li></ul>\n<h3>2. Asfixias em espécie</h3>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Mecanismo</th><th>Achados típicos</th></tr></thead><tbody><tr><td><b>Gases irrespiráveis / confinamento</b></td><td>ambiente sem O₂ ou com gás que o desloca</td><td>confinamento em espaço fechado (cofre, porta-malas): consumo do oxigênio</td></tr><tr><td><b>Monóxido de carbono</b></td><td>CO se liga à hemoglobina (carboxiemoglobina)</td><td><b>livores e sangue róseo/vermelho-cereja</b>; acidentes com aquecedores, incêndios, motor ligado em garagem</td></tr><tr><td><b>Sufocação direta</b></td><td>obstrução dos <b>orifícios</b> (nariz, boca) ou das <b>vias aéreas</b> (engasgo, corpo estranho)</td><td>lesões ao redor da boca e do nariz; corpo estranho na via aérea</td></tr><tr><td><b>Sufocação indireta</b></td><td><b>compressão do tórax</b> impedindo a respiração</td><td>multidões, soterramento parcial, peso sobre o peito; máscara equimótica (cabeça e pescoço arroxeados)</td></tr><tr><td><b>Afogamento</b></td><td>líquido nas vias aéreas</td><td><b>cogumelo de espuma</b> na boca e nariz; <b>manchas de Paltauf</b> nos pulmões; <b>mãos de lavadeira</b> (maceração da pele); pulmões volumosos</td></tr><tr><td><b>Soterramento</b></td><td>vias aéreas obstruídas por terra, areia ou grãos</td><td>material sólido nas vias aéreas</td></tr></tbody></table>\n<h3>3. Constrição do pescoço</h3>\n<table class=\"tab\"><thead><tr><th>; <b>Enforcamento</b></th><th><b>Estrangulamento</b></th><th><b>Esganadura</b></th></tr></thead><tbody><tr><td>Força</td><td><b>peso do próprio corpo</b></td><td>força externa (pessoa ou mecanismo) por <b>laço</b></td><td><b>mãos</b> do agressor</td></tr><tr><td>Sulco</td><td><b>oblíquo ascendente</b>, <b>interrompido</b> na altura do nó, em regra <b>acima</b> da cartilagem tireoide, profundo e apergaminhado</td><td><b>horizontal</b>, <b>contínuo</b>, em regra <b>abaixo</b> da tireoide, de profundidade uniforme</td><td><b>não há sulco</b>: há <b>escoriações ungueais</b> (marcas de unhas) e equimoses digitais</td></tr><tr><td>Jurídico</td><td>em regra <b>suicídio</b></td><td>em regra <b>homicídio</b> (pode ser acidente)</td><td><b>sempre homicídio</b> (ninguém se esgana)</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Enforcamento <b>completo</b> (corpo suspenso) e <b>incompleto</b> (partes do corpo apoiadas) existem: o peso parcial basta para comprimir o pescoço. \"Pés tocando o chão\" <b>não exclui</b> enforcamento.</div>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · simulação de suicídio</b><p class=\"jc-tese\">Sulco horizontal e contínuo, abaixo da tireoide, ou marcas de unhas no pescoço de um \"enforcado\" indicam estrangulamento ou esganadura seguidos de suspensão do corpo.</p><p class=\"jc-com\">É o tipo de discrepância que a perícia aponta e o investigador deve explorar: o local de crime precisa ser <b>preservado</b> até a chegada dos peritos.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Esganadura pode ser suicídio</span><br>✅ <span class=\"certo\">Esganadura (com as mãos) é sempre homicídio.</span></li><li>❌ <span class=\"banca\">O sulco do enforcamento é horizontal e contínuo</span><br>✅ <span class=\"certo\">É OBLÍQUO ascendente e interrompido no nó.</span></li><li>❌ <span class=\"banca\">Se os pés tocam o chão, não é enforcamento</span><br>✅ <span class=\"certo\">Existe enforcamento incompleto.</span></li><li>❌ <span class=\"banca\">Na intoxicação por CO os livores são violáceos escuros</span><br>✅ <span class=\"certo\">São róseos/vermelho-cereja.</span></li><li>❌ <span class=\"banca\">Cogumelo de espuma é sinal de enforcamento</span><br>✅ <span class=\"certo\">É sinal de afogamento.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Enforcamento?</span></span><span class=\"vs\"><span>Peso do corpo; sulco <b>oblíquo</b>, <b>interrompido</b>, acima da tireoide; em regra suicídio.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estrangulamento?</span></span><span class=\"vs\"><span>Laço por força externa; sulco <b>horizontal</b> e <b>contínuo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Esganadura?</span></span><span class=\"vs\"><span><b>Mãos</b>; marcas de unhas; <b>sempre homicídio</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CO?</span></span><span class=\"vs\"><span>Livores <b>vermelho-cereja</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afogamento?</span></span><span class=\"vs\"><span><b>Cogumelo de espuma</b>, <b>Paltauf</b>, mãos de lavadeira.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sufocação indireta?</span></span><span class=\"vs\"><span><b>Compressão do tórax</b>.</span></span></button></div></div>"
 },
 "sexologia": {
 "html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>72 h</b><span>janela ideal para o exame e a coleta em crimes sexuais</span></div><div class=\"lt-stat\"><b>3</b><span>provas de conjunção carnal: rotura himenal, sêmen e gravidez (ou DST)</span></div><div class=\"lt-stat\"><b>PSA</b><span>marcador de sêmen mesmo sem espermatozoides</span></div><div class=\"lt-stat\"><b>14</b><span>anos: abaixo dessa idade, vulnerabilidade absoluta (CP, art. 217-A)</span></div></div>\n<h3>1. Sexologia forense: objeto</h3>\n<ul><li>Estuda as questões médico-legais ligadas à <b>sexualidade</b>: provas de <b>conjunção carnal</b> e de <b>atos libidinosos</b>, <b>estupro</b> e <b>estupro de vulnerável</b>, <b>gravidez, parto, puerpério e aborto</b> (obstetrícia forense), desvios da sexualidade (parafilias) e casamento.</li><li>O perito <b>descreve</b> os vestígios; a <b>tipificação</b> (estupro, importunação, violação mediante fraude) é jurídica. Muitos crimes sexuais <b>não deixam vestígios físicos</b>: a ausência de lesões <b>não exclui</b> o crime.</li></ul>\n<h3>2. Provas de conjunção carnal</h3>\n<ul><li><b>Rotura himenal</b> (desvirginamento): <b>recente</b> (bordas avermelhadas, edemaciadas, sangrantes, até cerca de 3 a 4 dias) ou <b>antiga</b> (bordas cicatrizadas). <b>Rotura x entalhe congênito</b>: a <b>rotura</b> é <b>irregular</b>, geralmente <b>assimétrica</b> e <b>atinge a borda de inserção</b> do hímen na vagina; o <b>entalhe</b> é <b>congênito</b>, de bordas <b>regulares</b>, <b>simétrico</b> e <b>não atinge</b> a borda de inserção.</li><li><b>Hímen complacente</b>: elástico, permite a conjunção carnal <b>sem se romper</b>. Por isso, <b>a integridade do hímen não exclui a conjunção carnal</b>.</li><li><b>Sêmen</b>: pesquisa de <b>espermatozoides</b> (prova de certeza), <b>fosfatase ácida</b> e <b>PSA</b> (antígeno prostático específico, ou p30), que indica a presença de <b>sêmen mesmo sem espermatozoides</b> (homem vasectomizado ou com azoospermia). O material permite <b>DNA</b> do agressor.</li><li><b>Outras provas</b>: <b>gravidez</b> e <b>doenças sexualmente transmissíveis</b> compatíveis com o tempo do fato; lesões genitais e <b>extragenitais</b> (equimoses em coxas, punhos, pescoço, indicativas de contenção).</li></ul>\n<h3>3. Atos libidinosos e violência</h3>\n<ul><li>Atos libidinosos diversos da conjunção carnal podem deixar vestígios (fissuras anais, equimoses, saliva), mas frequentemente <b>não</b> deixam. A palavra da vítima tem <b>especial relevância</b> nos crimes sexuais, desde que coerente com os demais elementos (STJ).</li><li><b>Estupro de vulnerável por incapacidade de resistência</b>: a vítima que, por <b>substância</b> (bebida \"batizada\", sedativos) ou outra causa, <b>não pode oferecer resistência</b> é <b>vulnerável</b> (CP, art. 217-A, § 1º). A perícia deve coletar <b>sangue e urina</b> rapidamente para pesquisa toxicológica, porque muitas dessas drogas são eliminadas em poucas horas.</li><li><b>Menor de 14 anos</b>: vulnerabilidade <b>absoluta</b>; consentimento e experiência anterior são irrelevantes (CP, art. 217-A, § 5º; Súmula 593 do STJ).</li></ul>\n<h3>4. Exame e atendimento</h3>\n<ul><li>O exame deve ocorrer o <b>mais cedo possível</b> (idealmente em até <b>72 horas</b>), antes de banho, troca de roupas ou uso do banheiro, quando possível. As <b>roupas</b> devem ser recolhidas em embalagem de <b>papel</b> (não plástico, que degrada o material biológico).</li><li><b>Atendimento humanizado</b> (Lei 12.845/2013): hospitais do SUS devem prestar atendimento <b>emergencial, integral e multidisciplinar</b> às vítimas de violência sexual, inclusive <b>profilaxia da gravidez</b> e das DST, coleta de material e encaminhamento ao IML. O Decreto 7.958/2013 permite a coleta de vestígios no próprio serviço de saúde.</li><li><b>Lei 13.431/2017</b>: criança e adolescente vítimas são ouvidos por <b>escuta especializada</b> ou <b>depoimento especial</b>, evitando a <b>revitimização</b>.</li></ul>\n<h3>5. Parafilias e outros temas</h3>\n<ul><li><b>Parafilias</b> (desvios da sexualidade): <b>pedofilia</b> (atração por crianças pré-púberes), <b>exibicionismo</b>, <b>voyeurismo</b>, <b>fetichismo</b>, <b>sadismo</b>, <b>masoquismo</b>, <b>necrofilia</b>, <b>frotteurismo</b> (tocar ou esfregar-se em pessoa sem consentimento, comum no transporte público). A parafilia, em regra, <b>não</b> exclui a imputabilidade: o agente entende o caráter ilícito.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Hímen íntegro exclui conjunção carnal</span><br>✅ <span class=\"certo\">Há hímens complacentes.</span></li><li>❌ <span class=\"banca\">Sem espermatozoides, não há prova de sêmen</span><br>✅ <span class=\"certo\">O PSA indica sêmen mesmo sem espermatozoides.</span></li><li>❌ <span class=\"banca\">O entalhe congênito atinge a borda de inserção</span><br>✅ <span class=\"certo\">Quem atinge é a rotura.</span></li><li>❌ <span class=\"banca\">Ausência de lesões exclui o estupro</span><br>✅ <span class=\"certo\">Muitos crimes sexuais não deixam lesões.</span></li><li>❌ <span class=\"banca\">Roupas da vítima vão em saco plástico</span><br>✅ <span class=\"certo\">Embalagem de PAPEL.</span></li><li>❌ <span class=\"banca\">Pedofilia exclui a imputabilidade</span><br>✅ <span class=\"certo\">Em regra, não.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rotura x entalhe?</span></span><span class=\"vs\"><span>Rotura <b>irregular</b>, atinge a <b>borda de inserção</b>; entalhe regular e simétrico.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hímen complacente?</span></span><span class=\"vs\"><span>Permite conjunção <b>sem romper</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>PSA?</span></span><span class=\"vs\"><span>Indica <b>sêmen</b> mesmo sem espermatozoides.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prova de certeza do sêmen?</span></span><span class=\"vs\"><span><b>Espermatozoides</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Janela do exame?</span></span><span class=\"vs\"><span>Ideal em até <b>72 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vítima dopada?</span></span><span class=\"vs\"><span><b>Vulnerável</b> (art. 217-A, § 1º).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Roupas?</span></span><span class=\"vs\"><span>Embalagem de <b>papel</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Frotteurismo?</span></span><span class=\"vs\"><span>Esfregar-se sem consentimento.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A bebida batizada</b><p>Uma jovem relata ter acordado em local desconhecido, sem lembrar de nada após aceitar uma bebida numa festa, com dor e roupas desarrumadas.</p><details><summary>Ver a solução comentada</summary><p>Juridicamente, se houve ato sexual com ela incapaz de resistir, há <b>estupro de vulnerável</b> (art. 217-A, § 1º). Para a perícia: encaminhamento <b>imediato</b> ao IML ou ao serviço de referência, coleta de <b>sangue e urina</b> para toxicologia (drogas de eliminação rápida), <b>swabs</b> para sêmen, PSA e DNA, exame de lesões extragenitais e recolhimento das roupas em <b>papel</b>. A ausência de lesões não afasta o crime.</p></details></div>",
@@ -9189,8 +10519,834 @@ export const PROFUNDO = {
 "ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>Coagulante</b><span>cáustico ácido: escara seca e dura</span></div><div class=\"lt-stat\"><b>Liquefaciente</b><span>cáustico alcalino: escara úmida e mole</span></div><div class=\"lt-stat\"><b>3</b><span>fases clássicas da embriaguez</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de dependência: física e psíquica</span></div></div>\n<h3>1. Energias de ordem química</h3>\n<ul><li><b>Cáusticos</b>: substâncias que destroem os tecidos por contato. <b>Coagulantes</b> (em geral <b>ácidos</b>: sulfúrico, nítrico) produzem <b>escaras secas, duras</b>, de bordas nítidas. <b>Liquefacientes</b> (em geral <b>bases/álcalis</b>: soda cáustica, amônia) produzem <b>escaras úmidas, moles</b>, mais profundas.</li><li>O <b>vitriolagem</b> (lançar ácido na vítima) costuma gerar <b>deformidade permanente</b> (lesão gravíssima).</li><li><b>Venenos</b>: substâncias que, introduzidas no organismo, causam dano à saúde ou morte por ação química. O <b>meio</b> insidioso qualifica o homicídio (CP, art. 121, § 2º, III). A perícia identifica o tóxico no sangue, na urina, no conteúdo gástrico e nas vísceras.</li><li>Sinais clássicos: <b>cianeto</b> (odor de amêndoas amargas, livores vermelho-vivos); <b>monóxido de carbono</b> (vermelho-cereja); <b>organofosforados</b> (miose, sialorreia, sudorese).</li></ul>\n<h3>2. Embriaguez alcoólica</h3>\n<table class=\"tab\"><thead><tr><th>Fase</th><th>Características</th></tr></thead><tbody><tr><td><b>Excitação</b> (fase do \"macaco\")</td><td>euforia, desinibição, loquacidade</td></tr><tr><td><b>Confusão</b> (fase do \"leão\")</td><td>agressividade, perda do equilíbrio e da coordenação, fala pastosa</td></tr><tr><td><b>Sono</b> / comatosa (fase do \"porco\")</td><td>sonolência, coma, risco de morte</td></tr></tbody></table>\n<ul><li>Diagnóstico: <b>dosagem</b> no sangue (alcoolemia) ou no ar expirado (etilômetro) e <b>exame clínico</b> (marcha, equilíbrio, fala, hálito, pupilas, coordenação).</li><li><b>Alcoolismo</b> é doença <b>crônica</b> (dependência); a embriaguez é <b>intoxicação aguda</b>. Complicações do alcoolismo: <b>delirium tremens</b> (abstinência), síndrome de <b>Korsakoff</b> (amnésia).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Toxicomanias (toxicofilias)</h3>\n<ul><li><b>Dependência química</b>: <b>física</b> (o organismo precisa da droga; a falta causa <b>síndrome de abstinência</b>) e <b>psíquica</b> (desejo compulsivo, craving). <b>Tolerância</b>: necessidade de doses maiores para o mesmo efeito.</li><li>Classificação das drogas pela ação no sistema nervoso: <b>depressoras</b> (álcool, opioides, benzodiazepínicos), <b>estimulantes</b> (cocaína, crack, anfetaminas) e <b>perturbadoras/alucinógenas</b> (LSD, maconha em parte, ecstasy com efeitos mistos).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Ácidos produzem escaras úmidas e moles</span><br>✅ <span class=\"certo\">Ácidos (coagulantes) produzem escaras SECAS e duras; bases, úmidas e moles.</span></li><li>❌ <span class=\"banca\">Embriaguez e alcoolismo são a mesma coisa</span><br>✅ <span class=\"certo\">Embriaguez = intoxicação aguda; alcoolismo = doença crônica.</span></li><li>❌ <span class=\"banca\">Odor de amêndoas amargas indica CO</span><br>✅ <span class=\"certo\">Indica CIANETO.</span></li><li>❌ <span class=\"banca\">Tolerância é o mesmo que abstinência</span><br>✅ <span class=\"certo\">Tolerância = precisar de doses maiores; abstinência = sintomas na falta.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico ácido?</span></span><span class=\"vs\"><span><b>Coagulante</b>: escara <b>seca e dura</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico alcalino?</span></span><span class=\"vs\"><span><b>Liquefaciente</b>: escara <b>úmida e mole</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases da embriaguez?</span></span><span class=\"vs\"><span><b>Excitação</b>, <b>confusão</b>, <b>sono/coma</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Amêndoas amargas?</span></span><span class=\"vs\"><span><b>Cianeto</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dependência física?</span></span><span class=\"vs\"><span>Falta da droga gera <b>abstinência</b>.</span></span></button></div></div>"
 },
 "antropologia": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>requisitos da identificação: unicidade, imutabilidade, perenidade, praticabilidade e classificabilidade</span></div><div class=\"lt-stat\"><b>4</b><span>tipos fundamentais de Vucetich: arco, presilha interna, presilha externa e verticilo</span></div><div class=\"lt-stat\"><b>1</b><span>peça mais confiável para estimar o sexo em ossada: a pelve</span></div><div class=\"lt-stat\"><b>12.037</b><span>lei da identificação criminal</span></div></div>\n<h3>1. Identidade e identificação</h3>\n<ul><li><b>Identidade</b> é o conjunto de caracteres que tornam uma pessoa <b>única</b>. <b>Identificação</b> é o <b>processo</b> técnico de estabelecer essa identidade. <b>Reconhecimento</b> é ato de prova baseado na <b>memória</b> de alguém (CPP, art. 226), distinto da identificação técnica.</li><li><b>Identificação médico-legal</b>: feita pelo perito médico, com base em caracteres biológicos (sexo, idade, estatura, ancestralidade, sinais particulares, arcada dentária, DNA), útil sobretudo em <b>cadáveres</b> e ossadas. <b>Identificação judiciária ou policial</b>: feita por técnicos, principalmente pela <b>datiloscopia</b>.</li></ul>\n<h3>2. Requisitos de um bom método</h3>\n<ul><li><b>Unicidade</b> (individualidade: só aquela pessoa tem), <b>imutabilidade</b> (não muda com o tempo), <b>perenidade</b> (persiste por toda a vida e até após a morte), <b>praticabilidade</b> (fácil de coletar e barato) e <b>classificabilidade</b> (permite arquivar e pesquisar). A <b>datiloscopia</b> atende a todos.</li></ul>\n<h3>3. Datiloscopia</h3>\n<ul><li>Método de identificação pelas <b>impressões digitais</b>, sistematizado no Brasil pelo método de <b>Juan Vucetich</b> (adotado em 1903). Classifica os desenhos em quatro tipos fundamentais, pelo número de <b>deltas</b>: <b>arco</b> (sem delta), <b>presilha interna</b> (delta à direita do observador), <b>presilha externa</b> (delta à esquerda) e <b>verticilo</b> (dois deltas).</li><li>A identificação positiva se faz pela coincidência de <b>pontos característicos</b> (minúcias: bifurcações, terminações de linhas, ilhotas). <b>Papiloscopia</b> é o gênero (inclui impressões palmares e plantares); <b>datiloscopia</b> é a das pontas dos dedos.</li><li>O <b>antigo método de Bertillon</b> (antropometria: medidas do corpo) foi abandonado por falta de precisão.</li></ul>\n<h3>4. Ossadas: sexo, idade, estatura</h3>\n<ul><li><b>Sexo</b>: a <b>pelve</b> é a peça <b>mais confiável</b> (a feminina é mais larga, com ângulo subpúbico mais aberto, adaptada ao parto); o <b>crânio</b> vem em segundo lugar (o masculino tem relevos mais marcados, mandíbula mais robusta). Em uma questão que afirme que o crânio supera a pelve, a resposta é <b>errada</b>.</li><li><b>Idade</b>: pelo grau de <b>ossificação</b> (fechamento das epífises e suturas cranianas) e pelos <b>dentes</b> (erupção e desgaste), mais precisos na infância e na adolescência.</li><li><b>Estatura</b>: estimada a partir do comprimento dos <b>ossos longos</b> (fêmur, úmero), por tabelas.</li><li><b>Odontologia legal</b>: a <b>arcada dentária</b> (restaurações, próteses, ausências) é muito usada em corpos <b>carbonizados</b> ou em decomposição, comparando com fichas e radiografias do dentista.</li></ul>\n<h3>5. DNA e identificação criminal</h3>\n<ul><li>O <b>exame de DNA</b> pode ser feito a partir de <b>sangue, sêmen, saliva, cabelo com bulbo, ossos, dentes, pele</b> e outros vestígios biológicos. Fio de cabelo <b>sem bulbo</b> permite apenas DNA mitocondrial, menos individualizante.</li><li><b>Lei 12.037/2009</b>: o <b>civilmente identificado não será submetido a identificação criminal</b>, salvo nas hipóteses legais (documento com <b>rasura ou indício de falsificação</b>, insuficiente, conflitante, essencial às investigações por decisão judicial, uso de outros nomes, mau estado ou antiguidade do documento). Documento com <b>foto adulterada</b> autoriza a identificação criminal pela autoridade, sem ordem judicial.</li><li><b>LEP, art. 9º-A</b>: identificação do <b>perfil genético</b> dos <b>condenados</b> por crime doloso com <b>violência grave contra a pessoa</b>, contra a <b>vida</b>, contra a <b>liberdade sexual</b> ou <b>sexual contra vulnerável</b>, por <b>técnica adequada e indolor</b>. A recusa é <b>falta grave</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O crânio é mais confiável que a pelve para o sexo</span><br>✅ <span class=\"certo\">A pelve é a mais confiável.</span></li><li>❌ <span class=\"banca\">Reconhecimento de pessoas é identificação técnica</span><br>✅ <span class=\"certo\">É ato de prova baseado na memória (CPP, art. 226).</span></li><li>❌ <span class=\"banca\">O DNA do condenado pode ser colhido por qualquer meio</span><br>✅ <span class=\"certo\">Técnica adequada e INDOLOR.</span></li><li>❌ <span class=\"banca\">Cabelo sem bulbo dá DNA nuclear completo</span><br>✅ <span class=\"certo\">Só mitocondrial.</span></li><li>❌ <span class=\"banca\">O verticilo não tem delta</span><br>✅ <span class=\"certo\">Tem dois; o arco é que não tem.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Requisitos da identificação?</span></span><span class=\"vs\"><span><b>Unicidade, imutabilidade, perenidade, praticabilidade, classificabilidade</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Método datiloscópico brasileiro?</span></span><span class=\"vs\"><span><b>Vucetich</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arco?</span></span><span class=\"vs\"><span><b>Sem delta</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Verticilo?</span></span><span class=\"vs\"><span><b>Dois deltas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sexo em ossada?</span></span><span class=\"vs\"><span><b>Pelve</b> (depois o crânio).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Corpo carbonizado?</span></span><span class=\"vs\"><span><b>Arcada dentária</b> e DNA.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Identificação criminal do civilmente identificado?</span></span><span class=\"vs\"><span>Só nas hipóteses da <b>Lei 12.037/2009</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>DNA de condenados?</span></span><span class=\"vs\"><span><b>LEP, art. 9º-A</b>; técnica indolor.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A ossada na mata</b><p>Uma ossada é encontrada em área rural. A família de um desaparecido acredita que seja dele.</p><details><summary>Ver a solução comentada</summary><p>A perícia estima o <b>sexo pela pelve</b>, a <b>idade</b> pela ossificação e pelos dentes, e a <b>estatura</b> pelos ossos longos. A <b>arcada dentária</b> pode ser comparada com a ficha do dentista do desaparecido. A confirmação definitiva vem do <b>DNA</b> (ossos ou dentes), comparado com amostras de <b>familiares</b> (pais, filhos). O reconhecimento visual pela família não serve para ossadas.</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>requisitos de um bom método de identificação</span></div><div class=\"lt-stat\"><b>4</b><span>tipos fundamentais de Vucetich</span></div><div class=\"lt-stat\"><b>3</b><span>métodos primários de identificação em desastres (papiloscopia, odontologia e DNA)</span></div><div class=\"lt-stat\"><b>12.037</b><span>Lei da Identificação Criminal (2009)</span></div></div>\n<h3>1. Identidade, identificação e reconhecimento</h3>\n<ul><li><b>Identidade</b> é o <b>conjunto de caracteres</b> próprios de uma pessoa (ou coisa) que a <b>individualizam</b>, tornando-a <b>igual somente a si mesma</b> e diferente de todas as demais.</li><li><b>Identificação</b> é o <b>processo técnico</b> pelo qual se <b>determina</b> essa identidade, comparando dados colhidos agora com dados registrados antes (ou deduzindo características a partir do exame).</li><li><b>Reconhecimento</b> é ato de <b>memória</b> de uma pessoa (vítima ou testemunha) que afirma \"é ele\" ou \"é ela\". É prova <b>subjetiva</b>, sujeita a erros de percepção e de memória, e tem procedimento próprio no CPP (art. 226). Não se confunde com identificação, que é <b>técnica e objetiva</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>Natureza</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Identidade</b></td><td><b>conjunto de caracteres</b> (o que se quer provar)</td><td>as impressões digitais, o DNA, os dentes, as cicatrizes de Fulano</td></tr><tr><td><b>Identificação</b></td><td><b>processo técnico</b> (como se prova)</td><td>o confronto datiloscópico entre a digital do local e a ficha do suspeito</td></tr><tr><td><b>Reconhecimento</b></td><td>ato de <b>memória</b> de testemunha (subjetivo)</td><td>a vítima aponta o autor entre pessoas colocadas lado a lado</td></tr></tbody></table>\n<ul><li>A identidade tem várias dimensões: <b>física</b> (corpo, traços, impressões), <b>psíquica</b> (personalidade, memória) e <b>jurídica</b> ou civil (nome, filiação, estado civil, documentos). A Medicina Legal e a Papiloscopia cuidam sobretudo da identidade <b>física</b>.</li><li><b>Por que importa ao Direito</b>: não se pode processar, condenar ou prender a pessoa errada; não se pode entregar o corpo à família errada; não se pode registrar óbito, herança ou pensão sem saber de quem se trata. A identificação é pressuposto de quase todos os atos da persecução penal.</li></ul>\n<h3>2. Identificação médico-legal x identificação policial (judiciária)</h3>\n<ul><li><b>Identificação médico-legal</b>: exige <b>conhecimentos médicos</b>, anatômicos e biológicos. É feita pelo <b>médico-legista</b> (e pelo odontolegista). Busca a <b>espécie</b>, o <b>sexo</b>, a <b>idade</b>, a <b>estatura</b>, a <b>ancestralidade</b>, os <b>sinais individuais</b> (malformações, cicatrizes, tatuagens, próteses) e os <b>dentes</b>. É a usada em <b>cadáveres, ossadas e restos humanos</b>, e em vivos quando se discute idade, sexo ou identidade.</li><li><b>Identificação policial ou judiciária</b>: feita por <b>técnicos não necessariamente médicos</b> (no Brasil, os <b>papiloscopistas</b> e peritos de identificação), a partir de <b>registros prévios</b>: <b>papiloscopia</b> (impressões digitais, palmares e plantares), <b>fotografia</b>, <b>assinalamento</b>, retrato falado e, hoje, bancos de <b>perfis genéticos</b>.</li><li>Na prática, os dois campos se completam: o IML descreve o cadáver (sexo, idade aproximada, sinais), e a papiloscopia e o DNA fecham a identificação individual.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Genérica x individual | Sexo, idade, estatura e ancestralidade são caracteres <b>genéricos</b>: reduzem o universo de pessoas possíveis, mas <b>não individualizam</b>. Quem individualiza são os métodos <b>primários</b>: <b>impressões papilares</b>, <b>dentes</b> (comparação com registros anteriores) e <b>DNA</b>.</div>\n<h3>3. Requisitos de um bom método de identificação</h3>\n<ul><li>A doutrina exige, de um método de identificação, requisitos <b>biológicos</b> e <b>técnicos</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Requisito</th><th>Significado</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Unicidade</b> (individualidade)</td><td>o caráter só existe naquela pessoa</td><td>dois dedos nunca têm o mesmo desenho papilar</td></tr><tr><td><b>Imutabilidade</b></td><td>o caráter <b>não muda</b> ao longo da vida</td><td>o desenho das cristas é o mesmo da infância à velhice</td></tr><tr><td><b>Perenidade</b> (permanência)</td><td>o caráter <b>resiste ao tempo</b> e existe desde cedo até depois da morte</td><td>as cristas surgem na vida intrauterina e persistem até a putrefação</td></tr><tr><td><b>Praticabilidade</b></td><td>a coleta é <b>simples, rápida e barata</b></td><td>basta tinta e papel, ou um leitor digital</td></tr><tr><td><b>Classificabilidade</b></td><td>permite <b>arquivar</b> e <b>localizar</b> o registro com rapidez</td><td>a fórmula datiloscópica de Vucetich</td></tr></tbody></table>\n<ul><li><b>Unicidade, imutabilidade e perenidade</b> são requisitos <b>biológicos</b> (dependem do caráter estudado); <b>praticabilidade e classificabilidade</b> são requisitos <b>técnicos</b> (dependem do método).</li><li>A <b>antropometria</b> de Bertillon foi abandonada justamente porque <b>falhava na unicidade e na imutabilidade</b>: medidas corporais mudam com a idade e podem coincidir entre pessoas diferentes.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Imutabilidade e perenidade são a mesma coisa</span><br>✅ <span class=\"certo\"><b>Imutabilidade</b> = não muda; <b>perenidade</b> = <b>dura</b> desde cedo até depois da morte</span></li><li>❌ <span class=\"banca\">Praticabilidade é requisito biológico</span><br>✅ <span class=\"certo\">É requisito <b>técnico</b>, ao lado da <b>classificabilidade</b></span></li><li>❌ <span class=\"banca\">A antropometria foi abandonada por ser cara</span><br>✅ <span class=\"certo\">Foi abandonada por falhar na <b>unicidade</b> e na <b>imutabilidade</b></span></li></ol></div>\n<h3>4. Evolução histórica dos métodos de identificação</h3>\n<ul><li><b>Métodos antigos e abandonados</b>: o <b>ferrete</b> (marca com ferro em brasa), as <b>mutilações</b> (cortar orelha, mão) e a <b>tatuagem compulsória</b> de condenados. Além de cruéis, eram imprecisos e hoje são incompatíveis com a dignidade humana.</li><li><b>Nome e documentos</b>: falham porque podem ser <b>falsificados</b> ou <b>trocados</b>.</li><li><b>Fotografia sinalética</b> (de frente e de perfil) e <b>retrato falado</b>: úteis para buscas e divulgação, mas insuficientes sozinhos, pois a aparência muda (idade, peso, barba, cirurgia).</li><li><b>Antropometria (bertillonagem)</b>: criada na França, no fim do século XIX, por <b>Alphonse Bertillon</b>. Baseava-se em <b>medidas do corpo</b> (altura, envergadura, comprimento da cabeça, do pé, do dedo médio, da orelha etc.), associadas à fotografia e ao <b>assinalamento descritivo</b> (cor dos olhos, sinais particulares). Foi usada no mundo todo e depois <b>abandonada</b> pela datiloscopia.</li><li><b>Datiloscopia</b>: o estudo científico das impressões digitais ganhou força no fim do século XIX, com contribuições de pesquisadores europeus (Purkinje, que descreveu os desenhos; Faulds e Galton, na Inglaterra; e Henry, com sistema de classificação adotado no Reino Unido). <b>Juan Vucetich</b>, na <b>Argentina</b>, criou o <b>sistema de classificação</b> que leva o seu nome, adotado no <b>Brasil</b> no início do século XX e até hoje o sistema oficial brasileiro.</li><li><b>DNA</b>: a partir dos anos 1980, a análise do DNA (perfil genético) revolucionou a identificação de restos humanos, manchas e vestígios biológicos.</li></ul>\n<h3>5. Papiloscopia: a pele das mãos e dos pés</h3>\n<ul><li><b>Papiloscopia</b> é a ciência que trata da identificação por meio das <b>papilas dérmicas</b> (as saliências da pele das polpas dos dedos, das palmas e das plantas). Divide-se em:</li></ul>\n<table class=\"tab\"><thead><tr><th>Ramo</th><th>Região estudada</th></tr></thead><tbody><tr><td><b>Datiloscopia</b></td><td><b>polpas dos dedos</b> (impressões digitais)</td></tr><tr><td><b>Quiroscopia</b></td><td><b>palmas das mãos</b></td></tr><tr><td><b>Podoscopia</b></td><td><b>plantas dos pés</b> (útil, por exemplo, em recém-nascidos)</td></tr><tr><td><b>Poroscopia</b></td><td>os <b>poros</b> sudoríparos ao longo das cristas (forma, tamanho e posição); estudada por <b>Locard</b></td></tr></tbody></table>\n<ul><li><b>Cristas papilares</b>: as linhas em relevo que formam o desenho; entre elas ficam os <b>sulcos interpapilares</b>. Nas cristas abrem-se os <b>poros</b> das glândulas sudoríparas.</li><li><b>Formação</b>: o desenho papilar se forma na <b>vida intrauterina</b>, estando definido por volta do <b>6º mês</b> de gestação, e <b>persiste</b> por toda a vida e após a morte, <b>até a destruição da pele pela putrefação</b>.</li><li><b>Imutabilidade</b>: lesões <b>superficiais</b> (queimaduras leves, cortes superficiais) se regeneram com o <b>mesmo desenho</b>. Lesões <b>profundas</b>, que atingem a derme, deixam <b>cicatriz</b>, que passa a ser um <b>sinal particular</b> (e também ajuda a identificar).</li><li><b>Unicidade</b>: não há registro de dois dedos com o mesmo desenho papilar, nem entre <b>gêmeos idênticos</b> (univitelinos). Este é um ponto importante: <b>o DNA nuclear dos gêmeos univitelinos é igual, mas as digitais são diferentes</b>.</li></ul>\n<h3>6. O sistema datiloscópico de Vucetich</h3>\n<ul><li><b>Elementos do datilograma</b>: o desenho tem <b>três sistemas de linhas</b>: <b>basilar</b> (linhas da base, perto da prega da falange), <b>marginal</b> (linhas da ponta e das bordas do dedo) e <b>nuclear</b> (as do centro, o <b>núcleo</b>). O <b>delta</b> é a figura em forma de <b>triângulo</b> (lembra a letra grega delta) que se forma onde os três sistemas de linhas se encontram.</li><li>A classificação de Vucetich se baseia na <b>presença e na posição do delta</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo fundamental</th><th>Delta</th><th>Polegar</th><th>Demais dedos</th></tr></thead><tbody><tr><td><b>Arco</b></td><td><b>não tem</b> delta (as linhas atravessam o dedo de um lado a outro, em forma de arco)</td><td><b>A</b></td><td><b>1</b></td></tr><tr><td><b>Presilha interna</b></td><td><b>1 delta</b>, à <b>direita do observador</b> (as linhas do núcleo voltam para a <b>esquerda</b> do observador)</td><td><b>I</b></td><td><b>2</b></td></tr><tr><td><b>Presilha externa</b></td><td><b>1 delta</b>, à <b>esquerda do observador</b> (as linhas do núcleo voltam para a <b>direita</b> do observador)</td><td><b>E</b></td><td><b>3</b></td></tr><tr><td><b>Verticilo</b></td><td><b>2 deltas</b>, um de cada lado (as linhas do núcleo formam círculos, espirais ou ovais)</td><td><b>V</b></td><td><b>4</b></td></tr></tbody></table>\n<ul><li><b>Atenção</b>: \"interna\" e \"externa\" são definidas em relação ao <b>observador</b> que olha a impressão (na ficha), e não à mão da pessoa.</li><li><b>Símbolos especiais</b>: <b>0</b> (zero) para dedo <b>amputado</b> ou ausente; <b>X</b> para dedo com <b>cicatriz ou anomalia</b> que impeça a classificação.</li><li><b>Fórmula datiloscópica</b>: na ficha, os dez dedos são classificados e organizados como uma \"fração\":</li></ul>\n<table class=\"tab\"><thead><tr><th>Parte</th><th>Dedos</th><th>Representação</th></tr></thead><tbody><tr><td><b>Série</b> (numerador)</td><td><b>mão direita</b></td><td><b>Fundamental</b> = polegar direito (letra) + <b>Divisão</b> = indicador, médio, anular e mínimo direitos (números)</td></tr><tr><td><b>Seção</b> (denominador)</td><td><b>mão esquerda</b></td><td><b>Subclassificação</b> = polegar esquerdo (letra) + <b>Subdivisão</b> = demais dedos esquerdos (números)</td></tr></tbody></table>\n<ul><li>Exemplo: <b>V 4343 / E 3232</b> significa: polegar direito verticilo; indicador direito verticilo, médio direito presilha externa etc.; polegar esquerdo presilha externa, e assim por diante.</li><li>A fórmula serve para <b>arquivar e localizar</b> a ficha (classificabilidade). A <b>identificação</b> propriamente dita (a prova de que duas impressões são do mesmo dedo) se faz pela coincidência dos <b>pontos característicos</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na presilha interna, o delta fica à esquerda do observador</span><br>✅ <span class=\"certo\">Fica à <b>direita</b> do observador; na externa, à <b>esquerda</b></span></li><li>❌ <span class=\"banca\">O arco tem um delta central</span><br>✅ <span class=\"certo\">O arco <b>não tem delta</b></span></li><li>❌ <span class=\"banca\">O símbolo X indica dedo amputado</span><br>✅ <span class=\"certo\">Amputação = <b>0</b>; <b>X</b> = cicatriz ou anomalia que impede classificar</span></li><li>❌ <span class=\"banca\">A série corresponde à mão esquerda</span><br>✅ <span class=\"certo\">A <b>série</b> é a <b>mão direita</b>; a <b>seção</b> é a <b>mão esquerda</b></span></li><li>❌ <span class=\"banca\">Gêmeos idênticos têm digitais iguais</span><br>✅ <span class=\"certo\">As digitais são <b>diferentes</b>; o que é igual é o <b>DNA nuclear</b></span></li></ol></div>\n<h3>7. Pontos característicos (minúcias) e o confronto papiloscópico</h3>\n<ul><li><b>Pontos característicos</b> (minúcias) são os <b>acidentes</b> das cristas papilares: onde uma crista <b>termina</b>, <b>se divide</b>, <b>forma uma ilha</b> etc. Os principais:</li></ul>\n<table class=\"tab\"><thead><tr><th>Ponto característico</th><th>Descrição</th></tr></thead><tbody><tr><td><b>Ponto</b></td><td>crista curtíssima, quase um ponto</td></tr><tr><td><b>Ilhota</b></td><td>crista curta e isolada</td></tr><tr><td><b>Cortada</b> (terminação)</td><td>crista que <b>termina</b> abruptamente</td></tr><tr><td><b>Bifurcação</b></td><td>crista que se <b>divide em duas</b></td></tr><tr><td><b>Forquilha</b></td><td>duas cristas que <b>se unem</b> em uma</td></tr><tr><td><b>Encerro</b> (lago)</td><td>crista que se divide e se reúne de novo, formando um <b>pequeno espaço fechado</b></td></tr><tr><td><b>Anastomose</b></td><td>pequena crista que <b>liga</b> duas cristas vizinhas</td></tr></tbody></table>\n<ul><li><b>Confronto</b>: o perito compara a impressão questionada (do local ou do cadáver) com a impressão padrão (da ficha). Para afirmar a <b>identidade</b>, exige-se a <b>coincidência de pontos característicos</b> quanto à <b>natureza, posição e relação</b> entre eles, <b>sem nenhuma divergência inexplicável</b>.</li><li><b>Número de pontos</b>: a lei brasileira <b>não fixa</b> um número. A tradição pericial brasileira e a doutrina costumam mencionar <b>12 pontos</b> coincidentes como referência, mas o que vale é a análise técnica do conjunto (qualidade da impressão, raridade dos pontos). <b>Uma única divergência real</b> afasta a identidade.</li><li><b>AFIS</b> (<i>Automated Fingerprint Identification System</i>): sistema informatizado que compara automaticamente uma impressão com milhões de registros e aponta os <b>candidatos mais prováveis</b>. A <b>conclusão final</b> é do <b>perito papiloscopista</b>, que faz o confronto.</li></ul>\n<h3>8. Impressões no local do crime</h3>\n<table class=\"tab\"><thead><tr><th>Tipo de impressão</th><th>Como se forma</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Visível</b></td><td>o dedo sujo de substância deixa a marca à vista</td><td>digital de sangue, tinta ou graxa</td></tr><tr><td><b>Latente</b></td><td>formada pelo <b>suor e pela gordura</b> da pele; <b>invisível</b> a olho nu, precisa ser <b>revelada</b></td><td>digital em copo, vidro, maçaneta</td></tr><tr><td><b>Moldada</b> (plástica)</td><td>o dedo <b>afunda</b> em superfície mole e deixa o <b>molde</b></td><td>digital em massa de vidraceiro, cera, sabão, chocolate</td></tr></tbody></table>\n<ul><li><b>Revelação de latentes</b>: <b>pós</b> (reveladores de cor contrastante, aplicados com pincel), <b>vapores de iodo</b>, <b>ninidrina</b> (reage com aminoácidos do suor, ótima em <b>papel</b>), <b>cianoacrilato</b> (vapor de \"supercola\", que polimeriza sobre a digital) e outras técnicas químicas e de luz forense.</li><li><b>Cadeia de custódia</b>: a impressão revelada é <b>fotografada</b> e <b>levantada</b> (com fita própria) e passa a ser vestígio, com toda a documentação dos arts. 158-A a 158-F do CPP.</li><li><b>Cuidado do policial</b>: não tocar em superfícies lisas no local (copos, garrafas, maçanetas, volante do carro) e usar luvas. Uma digital do próprio policial no local é <b>contaminação</b> e pode confundir a investigação.</li></ul>\n<h3>9. Necropapiloscopia: identificação de cadáveres pelas digitais</h3>\n<ul><li>No <b>cadáver recente</b>, a coleta é feita como no vivo, às vezes com ajuda de instrumentos (colher curva) por causa da rigidez.</li><li>Na <b>putrefação</b>, a camada superficial da pele (epiderme) se <b>destaca</b> das mãos como uma \"<b>luva</b>\" (luva cadavérica). O perito pode <b>vestir</b> essa luva sobre a própria mão enluvada para coletar as impressões. Também se pode coletar da <b>derme</b>, que conserva o desenho.</li><li>Em dedos <b>mumificados</b> ou <b>desidratados</b>, usam-se técnicas de <b>reidratação</b> (soluções que devolvem o volume às polpas) antes da coleta.</li><li>Em <b>afogados</b>, a pele fica enrugada (mão de lavadeira) e pode exigir técnicas de <b>injeção</b> de líquido sob a polpa para esticar a pele.</li><li>Quando a pele foi destruída (carbonização total, putrefação avançada, esqueletização), as digitais <b>não servem</b>, e a identificação passa à <b>odontologia</b> e ao <b>DNA</b>.</li></ul>\n<h3>10. Outros métodos baseados no corpo</h3>\n<table class=\"tab\"><thead><tr><th>Método</th><th>O que estuda</th><th>Observação</th></tr></thead><tbody><tr><td><b>Queiloscopia</b></td><td>os <b>sulcos dos lábios</b> (impressão labial)</td><td>útil em marcas de batom em copos, guardanapos</td></tr><tr><td><b>Rugoscopia palatina</b> (palatoscopia)</td><td>as <b>rugosidades do palato</b> (céu da boca)</td><td>protegidas pelos dentes e pela língua; resistem bem a queimaduras</td></tr><tr><td><b>Otoscopia</b> (otomorfologia)</td><td>a <b>forma da orelha</b></td><td>marcas de orelha encostada em portas e janelas</td></tr><tr><td><b>Reconhecimento facial</b></td><td>proporções e pontos do <b>rosto</b></td><td>auxiliar; depende da qualidade da imagem e tem margem de erro</td></tr><tr><td><b>Retina e íris</b></td><td>padrões vasculares da retina e desenho da íris</td><td>usados em controle de acesso; pouca aplicação pericial em cadáveres</td></tr><tr><td><b>Voz</b></td><td>características acústicas da fala</td><td>perícia de <b>comparação de locutor</b> em gravações</td></tr></tbody></table>\n<ul><li><b>Assinalamento sucinto</b> (ou descritivo): registro organizado dos <b>sinais particulares</b>: cicatrizes, tatuagens, manchas, malformações, sinais profissionais (calos), defeitos físicos. Ajuda muito na identificação, sobretudo de cadáveres.</li></ul>\n<h3>11. Identificação médico-legal: o roteiro do legista</h3>\n<ul><li>Diante de um cadáver desconhecido ou de uma ossada, o legista segue, em regra, uma sequência: <b>1)</b> é material <b>humano</b>? <b>2)</b> qual o <b>sexo</b>? <b>3)</b> qual a <b>idade</b> aproximada? <b>4)</b> qual a <b>estatura</b>? <b>5)</b> qual a <b>ancestralidade</b>? <b>6)</b> há <b>sinais individuais</b> (fraturas antigas, próteses, tatuagens, doenças)? <b>7)</b> há <b>registros anteriores</b> para comparar (fichas dentárias, radiografias, digitais, DNA de parentes)? Paralelamente, estima o <b>tempo de morte</b> (tema de Tanatologia) e a <b>causa da morte</b>.</li></ul>\n<h3>12. Espécie: é humano?</h3>\n<ul><li><b>Ossos inteiros</b>: a anatomia comparada resolve a maioria dos casos (forma, tamanho, proporções). Ossos de animais (boi, porco, cachorro) às vezes são confundidos por leigos com ossos humanos.</li><li><b>Fragmentos de osso</b>: o exame <b>microscópico</b> ajuda: os <b>canais de Havers</b> (onde passam vasos no osso compacto) têm diâmetro e distribuição diferentes no homem e em muitos animais.</li><li><b>Manchas de sangue</b>: primeiro se confirma que é <b>sangue</b> (testes de orientação e de certeza) e depois a <b>espécie</b>, por <b>reações imunológicas</b> (soro anti-humano, que reage só com proteínas humanas, como na reação de precipitação) ou por <b>DNA</b>.</li><li><b>Pelos</b>: a microscopia da <b>medula</b>, da <b>cutícula</b> e do <b>córtex</b> diferencia pelos humanos dos de animais.</li></ul>\n<h3>13. Sexo</h3>\n<ul><li><b>No vivo</b>: em regra, o exame dos caracteres sexuais resolve. Nos <b>estados intersexuais</b> (anomalias da diferenciação sexual), o diagnóstico exige avaliação genética (cariótipo), hormonal e anatômica. O <b>corpúsculo de Barr</b> (cromatina sexual, presente nas células com dois cromossomos X) e a <b>análise do DNA</b> (como o gene da <b>amelogenina</b>, que diferencia X e Y) ajudam no sexo <b>genético</b>.</li><li><b>No cadáver recente</b>: exame externo e interno (genitais internos, útero, próstata).</li><li><b>Na ossada</b>: a <b>pelve</b> é a parte do esqueleto <b>mais confiável</b> para o sexo, porque a pelve feminina é adaptada à <b>gestação e ao parto</b>. Depois vêm o <b>crânio</b> e os ossos longos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Estrutura</th><th>Feminino</th><th>Masculino</th></tr></thead><tbody><tr><td><b>Pelve (conjunto)</b></td><td>mais <b>larga e baixa</b>; abertura superior <b>arredondada/oval</b></td><td>mais <b>alta e estreita</b>; abertura em forma de <b>coração</b></td></tr><tr><td><b>Ângulo subpúbico</b></td><td><b>amplo</b> (aberto, em \"U\", em torno de 90° ou mais)</td><td><b>fechado</b> (em \"V\", bem menor)</td></tr><tr><td><b>Incisura isquiática maior</b></td><td><b>larga</b></td><td><b>estreita</b></td></tr><tr><td><b>Sacro</b></td><td>mais <b>curto e largo</b></td><td>mais <b>longo e estreito</b></td></tr><tr><td><b>Crânio</b></td><td>mais leve e liso; <b>fronte vertical</b>; arcos superciliares e glabela <b>pouco marcados</b>; bordas superiores das órbitas <b>cortantes</b></td><td>mais pesado e robusto; <b>glabela e arcos superciliares salientes</b>; processos <b>mastoides</b> maiores; <b>protuberância occipital</b> marcada; bordas das órbitas <b>rombas</b></td></tr><tr><td><b>Mandíbula</b></td><td>mais delicada; mento arredondado</td><td>mais robusta; mento <b>quadrado</b>; ângulo mandibular mais marcado</td></tr><tr><td><b>Ossos longos</b></td><td>mais finos; inserções musculares discretas</td><td>mais robustos; inserções musculares marcadas; <b>cabeça do fêmur</b> maior</td></tr></tbody></table>\n<ul><li><b>Margem de erro</b>: com a pelve inteira, a estimativa do sexo é muito confiável; com o crânio sozinho, menos; com fragmentos, pode ser impossível. Antes da <b>puberdade</b>, as diferenças ósseas são pequenas, e o sexo de esqueletos infantis é difícil de estimar pela morfologia: o <b>DNA</b> resolve.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O crânio é a peça mais confiável para o sexo</span><br>✅ <span class=\"certo\">A <b>pelve</b> é a mais confiável</span></li><li>❌ <span class=\"banca\">A pelve masculina tem ângulo subpúbico amplo</span><br>✅ <span class=\"certo\">Amplo é o <b>feminino</b>; o masculino é <b>fechado</b></span></li><li>❌ <span class=\"banca\">As bordas orbitárias do homem são cortantes</span><br>✅ <span class=\"certo\">Cortantes no <b>feminino</b>; <b>rombas</b> no masculino</span></li><li>❌ <span class=\"banca\">O sexo de esqueleto de criança é facilmente estimado pela pelve</span><br>✅ <span class=\"certo\">Antes da puberdade, a estimativa morfológica é difícil; usa-se <b>DNA</b></span></li></ol></div>\n<h3>14. Idade</h3>\n<ul><li>A estimativa da idade interessa ao Direito em muitas situações: <b>imputabilidade penal</b> (18 anos), <b>estupro de vulnerável</b> (menor de 14), aplicação do <b>ECA</b>, <b>atenuante</b> e <b>prescrição</b> (menor de 21 na data do fato; maior de 70 na data da sentença), <b>Estatuto da Pessoa Idosa</b> (60 anos), adoção, casamento, alistamento militar, aposentadoria, identificação de cadáveres.</li></ul>\n<table class=\"tab\"><thead><tr><th>Idade</th><th>Relevância jurídica</th></tr></thead><tbody><tr><td><b>Menor de 12</b></td><td><b>criança</b> (ECA, art. 2º): medidas de proteção, não socioeducativas</td></tr><tr><td><b>12 a 18</b> incompletos</td><td><b>adolescente</b> (ECA): medidas socioeducativas</td></tr><tr><td><b>Menor de 14</b></td><td>vítima de <b>estupro de vulnerável</b> (CP, art. 217-A)</td></tr><tr><td><b>18</b></td><td><b>imputabilidade penal</b> (CP, art. 27; CF, art. 228)</td></tr><tr><td><b>Menor de 21 na data do fato</b></td><td><b>atenuante</b> genérica (CP, art. 65, I) e <b>prescrição pela metade</b> (CP, art. 115)</td></tr><tr><td><b>60</b></td><td><b>pessoa idosa</b> (Estatuto da Pessoa Idosa)</td></tr><tr><td><b>Maior de 70 na data da sentença</b></td><td><b>atenuante</b> (art. 65, I) e <b>prescrição pela metade</b> (art. 115)</td></tr></tbody></table>\n<ul><li><b>No feto e no recém-nascido</b>: comprimento, peso, perímetros e, principalmente, os <b>núcleos de ossificação</b>. O <b>núcleo de Béclard</b> (centro de ossificação da <b>epífise distal do fêmur</b>) aparece no <b>fim da gestação</b>, e sua presença é sinal de <b>maturidade fetal</b> (feto a termo), dado importante no infanticídio e no aborto.</li><li><b>Na criança e no adolescente</b>: <b>erupção dentária</b> e <b>idade óssea</b> (radiografia de <b>mão e punho</b>, que mostra o aparecimento e a fusão dos centros de ossificação).</li></ul>\n<table class=\"tab\"><thead><tr><th>Dentição</th><th>Época aproximada</th></tr></thead><tbody><tr><td><b>Decídua</b> (de leite, 20 dentes)</td><td>começa por volta dos <b>6 meses</b> e se completa por volta dos <b>2 a 3 anos</b></td></tr><tr><td><b>Permanente</b> (32 dentes)</td><td>o <b>primeiro molar permanente</b> surge por volta dos <b>6 anos</b>; o <b>segundo molar</b>, por volta dos <b>12 anos</b></td></tr><tr><td><b>Terceiro molar</b> (siso)</td><td>geralmente entre <b>17 e 21 anos</b> ou mais; pode não erupcionar; sua <b>formação radiográfica</b> é usada para estimar se a pessoa tem <b>mais ou menos de 18 anos</b></td></tr></tbody></table>\n<ul><li><b>No adulto jovem</b>: a <b>fusão das epífises</b> (soldadura das extremidades dos ossos longos às diáfises) e a <b>fusão de outros centros</b> (como a da extremidade medial da clavícula, uma das últimas a fundir, por volta dos 20 e poucos anos) indicam o fim do crescimento.</li><li><b>No adulto e no idoso</b>: a estimativa fica mais imprecisa. Usam-se: o aspecto da <b>sínfise púbica</b> (que muda de rugosa e ondulada no jovem para lisa e irregular com a idade), a <b>extremidade esternal das costelas</b>, o <b>fechamento das suturas cranianas</b> (progressivo, mas muito variável), o desgaste dentário, a <b>osteoporose</b>, a artrose, e, no vivo, pele, cabelos, <b>arco senil</b> (anel esbranquiçado na córnea) e outros sinais.</li><li><b>Faixas, não números exatos</b>: o laudo deve informar uma <b>faixa de idade</b> (\"entre 25 e 35 anos\") e não uma idade precisa. Quanto mais velha a pessoa, maior a margem de erro.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Idade de quem não tem documento</b><p>Um jovem sem documentos é preso em flagrante por roubo e diz ter 17 anos. Não há registro civil localizado.</p><details><summary>Ver a solução comentada</summary><p>A autoridade pode requisitar <b>perícia de estimativa de idade</b> (exame clínico, dentário e radiografias de mão e punho, clavícula e terceiros molares). O laudo indicará uma <b>faixa</b>. Se a dúvida persistir, ela deve ser resolvida <b>a favor</b> do investigado quanto à inimputabilidade, até prova em contrário (por isso a busca do registro civil continua sendo essencial).</p></details></div>\n<h3>15. Estatura</h3>\n<ul><li><b>No vivo e no cadáver inteiro</b>: medida direta (no cadáver, a medida pode variar alguns centímetros por causa do relaxamento das articulações).</li><li><b>Em ossadas</b>: o comprimento dos <b>ossos longos</b> permite estimar a estatura por meio de <b>tabelas e fórmulas</b> de regressão (como as de Trotter e Gleser, entre outras). O <b>fêmur</b> é o osso que fornece as melhores estimativas isoladas; a tíbia, o úmero e o rádio também são usados. As fórmulas variam conforme o <b>sexo</b> e a <b>população</b>, e o resultado é dado com <b>margem de erro</b>.</li><li><b>Em fragmentos</b>: há tabelas que estimam o osso inteiro a partir de partes (e daí a estatura), com margem de erro maior.</li></ul>\n<h3>16. Ancestralidade (antigamente \"raça\")</h3>\n<ul><li>Livros antigos de Medicina Legal trazem classificações de \"<b>raças</b>\" (como a de <b>Ottolenghi</b>, que dividia em tipos caucásico, mongólico, negroide, indiano e australoide), baseadas em cor da pele, cabelo, forma do crânio e do rosto. Essas classificações <b>ainda aparecem em provas</b> como conteúdo histórico.</li><li>A ciência atual entende que \"raça\" <b>não é uma categoria biológica</b> precisa em seres humanos: a variação é <b>contínua</b>, e a população brasileira é intensamente <b>miscigenada</b>. Por isso, a antropologia forense moderna fala em <b>ancestralidade</b> (origem geográfica predominante dos antepassados), estimada por <b>traços cranianos</b> e, com mais precisão, por <b>marcadores genéticos</b>, sempre como <b>dado auxiliar</b> e com margem de incerteza.</li></ul>\n<h3>17. Sinais individuais</h3>\n<ul><li><b>Malformações</b> e <b>anomalias</b> (dedos extras, fenda labial, assimetrias).</li><li><b>Cicatrizes</b> cirúrgicas ou traumáticas, <b>tatuagens</b> (desenho, local, técnica) e <b>piercings</b>.</li><li><b>Sinais profissionais</b>: calos e deformidades típicas de certas atividades (mãos de trabalhador braçal, calosidade de músicos de corda), manchas de produtos químicos.</li><li><b>Próteses e implantes</b>: próteses ortopédicas, marca-passos e implantes mamários podem ter <b>número de série</b>, rastreável até o hospital e o paciente.</li><li><b>Fraturas consolidadas</b> e <b>alterações ósseas</b> comparáveis com <b>radiografias feitas em vida</b> (seios frontais, coluna, implantes). Os <b>seios frontais</b> têm forma muito individual, e sua comparação radiográfica é método reconhecido.</li><li><b>Doenças e tratamentos</b> que deixam marcas (cirurgias, órgãos retirados, cálculos, próteses dentárias).</li></ul>\n<h3>18. Odontologia legal</h3>\n<ul><li>A <b>Odontologia Legal</b> aplica a odontologia ao Direito. O <b>odontolegista</b> é perito de natureza criminal (Lei 12.030/2009).</li><li><b>Por que os dentes são tão úteis</b>: são as estruturas <b>mais resistentes</b> do corpo (resistem ao <b>fogo</b>, à <b>putrefação</b> e ao tempo) e são muito <b>individuais</b>: número, posição, forma, desgastes, cáries, <b>restaurações</b>, tratamentos de canal, <b>próteses</b>, implantes e aparelhos.</li><li><b>Método</b>: <b>comparação</b> entre os dados <b>post mortem</b> (exame da arcada do cadáver, radiografias) e os dados <b>ante mortem</b> (prontuário do dentista, radiografias panorâmicas, fotografias, modelos de gesso). Por isso a importância de o dentista <b>manter o prontuário</b> do paciente.</li><li><b>Estimativas</b>: os dentes também ajudam a estimar <b>idade</b> (erupção, formação radicular, desgaste) e às vezes hábitos (fumo, bruxismo).</li><li><b>Marcas de mordida</b>: em vítimas de agressão sexual ou em alimentos deixados no local. Podem ajudar a <b>incluir ou excluir</b> suspeitos, mas a comparação de mordidas tem <b>limitações científicas</b> reconhecidas (a pele se deforma), e hoje o maior valor está no <b>DNA da saliva</b> coletado da mordida.</li><li><b>Rugoscopia palatina</b>: as rugosidades do céu da boca são individuais e protegidas do fogo; registros em próteses ou modelos podem ser comparados.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os dentes são destruídos rapidamente pelo fogo</span><br>✅ <span class=\"certo\">São as estruturas <b>mais resistentes</b> ao fogo e à putrefação</span></li><li>❌ <span class=\"banca\">A odontologia legal dispensa registros anteriores</span><br>✅ <span class=\"certo\">A identificação se faz por <b>comparação</b> com dados <b>ante mortem</b> (prontuário, radiografias)</span></li><li>❌ <span class=\"banca\">A marca de mordida é prova infalível de autoria</span><br>✅ <span class=\"certo\">Tem <b>limitações</b>; o maior valor está no <b>DNA da saliva</b></span></li></ol></div>\n<h3>19. DNA (perfil genético)</h3>\n<ul><li>O <b>DNA</b> carrega a informação genética. Para identificação, não se lê o genoma inteiro: analisam-se regiões que <b>variam muito entre as pessoas</b> (os <b>STR</b>, repetições curtas em sequência). O resultado é um <b>perfil genético</b>, uma espécie de \"código\" numérico.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de DNA</th><th>Herança</th><th>Uso típico</th></tr></thead><tbody><tr><td><b>DNA nuclear</b> (autossômico)</td><td>metade do pai, metade da mãe</td><td><b>identificação individual</b> e <b>vínculo genético</b> (paternidade); padrão de referência</td></tr><tr><td><b>Cromossomo Y</b></td><td>passa <b>de pai para filho</b> (linhagem <b>paterna</b>), igual em todos os homens da mesma linhagem</td><td>misturas de material de homem e mulher (crimes sexuais); buscas por parentes do lado paterno</td></tr><tr><td><b>DNA mitocondrial</b></td><td>passa <b>da mãe para todos os filhos</b> (linhagem <b>materna</b>)</td><td>ossos antigos, dentes, <b>cabelos sem raiz</b>, material muito degradado; comparação com parentes <b>maternos</b></td></tr></tbody></table>\n<ul><li><b>Onde se encontra</b>: sangue, sêmen, saliva, pelos <b>com raiz</b> (bulbo), células da pele (DNA de toque), ossos, dentes, unhas, tecidos.</li><li><b>Gêmeos univitelinos</b> têm o <b>mesmo DNA nuclear</b>: o exame comum <b>não os diferencia</b>. Já as <b>impressões digitais</b> dos gêmeos são <b>diferentes</b>.</li><li><b>Identificação de cadáver por DNA</b>: compara-se o perfil do cadáver com o de <b>objetos pessoais</b> do desaparecido (escova de dentes, pente) ou com o de <b>parentes biológicos</b> (pais e filhos são as melhores referências; irmãos também ajudam).</li><li><b>Contaminação</b>: o DNA é sensível; o material deve ser coletado com <b>luvas, máscara</b>, instrumentos <b>descartáveis</b> e embalagens <b>separadas</b> e adequadas (manchas úmidas secam antes de embalar, em papel, não em plástico fechado, para evitar fungos). Tudo isso dentro da <b>cadeia de custódia</b>.</li><li><b>Paternidade</b>: o filho herda metade dos marcadores do pai e metade da mãe; a <b>exclusão</b> é categórica (se o suposto pai não tem os marcadores paternos, não é o pai), e a <b>inclusão</b> é expressa em <b>probabilidade</b> muito alta. No processo civil, a <b>recusa</b> do suposto pai a fazer o exame gera <b>presunção relativa</b> de paternidade (Súmula 301 do STJ).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O DNA diferencia gêmeos idênticos</span><br>✅ <span class=\"certo\">Gêmeos univitelinos têm o <b>mesmo DNA nuclear</b>; as <b>digitais</b> é que diferem</span></li><li>❌ <span class=\"banca\">O DNA mitocondrial é herdado do pai</span><br>✅ <span class=\"certo\">É herdado da <b>mãe</b>; o do <b>cromossomo Y</b> passa de pai para filho</span></li><li>❌ <span class=\"banca\">Cabelo arrancado sem raiz serve para DNA nuclear</span><br>✅ <span class=\"certo\">Sem raiz, em regra só serve o DNA <b>mitocondrial</b></span></li><li>❌ <span class=\"banca\">Mancha de sangue úmida deve ser embalada em saco plástico fechado</span><br>✅ <span class=\"certo\">Deve <b>secar</b> e ir em <b>papel</b>, para não degradar</span></li></ol></div>\n<h3>20. Banco Nacional de Perfis Genéticos</h3>\n<ul><li>A <b>Lei 12.654/2012</b> alterou a Lei 12.037/2009 e a <b>LEP</b> para permitir a coleta de <b>perfil genético</b> e criou a base para os <b>bancos de perfis genéticos</b>, geridos por <b>unidade oficial de perícia criminal</b>.</li><li><b>Na identificação criminal</b> (Lei 12.037/2009, art. 5º, parágrafo único): na hipótese em que a identificação é <b>essencial às investigações</b> (art. 3º, IV), ela pode incluir a <b>coleta de material biológico</b> para obter o perfil genético, por <b>decisão judicial</b>.</li><li><b>Limites</b> (art. 5º-A): os dados <b>não podem revelar traços somáticos ou comportamentais</b> das pessoas, <b>exceto determinação genética de gênero</b>, de acordo com normas de direitos humanos; os dados têm <b>caráter sigiloso</b>, respondendo civil, penal e administrativamente quem os usar para fins diversos.</li><li><b>Exclusão do perfil</b> (art. 7º-A): ocorre no caso de <b>absolvição</b> do acusado ou, no caso de <b>condenação</b>, mediante requerimento, após decorridos <b>20 anos</b> do cumprimento da pena.</li><li><b>Condenados</b> (LEP, art. 9º-A): os condenados pelos crimes ali previstos (crimes dolosos praticados com <b>violência grave contra a pessoa</b>, entre outros) são submetidos <b>obrigatoriamente</b> à identificação do perfil genético, por técnica <b>adequada e indolor</b>. A <b>recusa</b> do condenado em se submeter ao procedimento constitui <b>falta grave</b> (LEP, art. 9º-A, § 8º).</li></ul>\n<h3>21. Identificação criminal (CF, art. 5º, LVIII, e Lei 12.037/2009)</h3>\n<ul><li><b>Regra constitucional</b>: \"o <b>civilmente identificado não será submetido a identificação criminal</b>, <b>salvo nas hipóteses previstas em lei</b>\" (CF, art. 5º, LVIII). A antiga <b>Súmula 568 do STF</b> (que dizia que a identificação criminal não constituía constrangimento ilegal, ainda que o indiciado já estivesse identificado civilmente) ficou <b>superada</b> pela Constituição de 1988.</li><li><b>Documentos que provam a identificação civil</b> (art. 2º): carteira de <b>identidade</b>, carteira de <b>trabalho</b>, carteira <b>profissional</b>, <b>passaporte</b>, carteira de <b>identificação funcional</b> ou <b>outro documento público</b> que permita a identificação. Equiparam-se aos documentos civis os de identificação <b>militares</b>.</li><li><b>Identificação criminal</b> compreende o processo <b>datiloscópico</b> e o <b>fotográfico</b>, juntados aos autos (art. 5º), e, na hipótese do art. 3º, IV, a coleta de material biológico.</li></ul>\n<table class=\"tab\"><thead><tr><th>Hipóteses de identificação criminal do civilmente identificado (art. 3º)</th><th>Exemplo</th></tr></thead><tbody><tr><td>I – o documento apresentar <b>rasura</b> ou tiver <b>indício de falsificação</b></td><td>foto da carteira com sinais de troca</td></tr><tr><td>II – o documento apresentado for <b>insuficiente</b> para identificar cabalmente o indiciado</td><td>documento sem foto</td></tr><tr><td>III – o indiciado portar <b>documentos de identidade distintos</b>, com <b>informações conflitantes</b> entre si</td><td>dois RGs com datas de nascimento diferentes</td></tr><tr><td>IV – a identificação criminal for <b>essencial às investigações policiais</b>, segundo <b>despacho da autoridade judiciária</b> competente, que decidirá <b>de ofício</b> ou mediante representação da <b>autoridade policial</b>, do <b>MP</b> ou da <b>defesa</b></td><td>suspeito de série de crimes com digitais no local</td></tr><tr><td>V – constar de registros policiais o <b>uso de outros nomes</b> ou diferentes qualificações</td><td>ficha com vários \"vulgos\" e nomes</td></tr><tr><td>VI – o <b>estado de conservação</b> ou a <b>distância temporal</b> ou a <b>localidade da expedição</b> do documento impossibilitar a completa identificação dos caracteres essenciais</td><td>RG muito antigo, ilegível, com foto de criança</td></tr></tbody></table>\n<ul><li><b>Constrangimento</b> (art. 4º): quando houver necessidade de identificação criminal, a autoridade encarregada tomará as providências necessárias para <b>evitar o constrangimento</b> do identificado.</li><li><b>Sigilo</b> (art. 6º): é <b>vedado mencionar</b> a identificação criminal do indiciado em <b>atestados de antecedentes</b> ou em informações <b>não destinadas ao juízo criminal</b>, <b>antes do trânsito em julgado</b> da sentença condenatória.</li><li><b>Retirada da foto</b> (art. 7º): no caso de <b>não oferecimento da denúncia</b>, ou sua <b>rejeição</b>, ou <b>absolvição</b>, é facultado ao indiciado ou ao réu, <b>após o arquivamento definitivo</b> do inquérito ou o <b>trânsito em julgado</b> da sentença, requerer a <b>retirada da identificação fotográfica</b> do inquérito ou processo, desde que apresente provas de sua <b>identificação civil</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O preso em flagrante sempre deve ser identificado criminalmente</span><br>✅ <span class=\"certo\">O <b>civilmente identificado</b> só é identificado criminalmente nas <b>hipóteses do art. 3º</b></span></li><li>❌ <span class=\"banca\">A identificação criminal essencial às investigações pode ser determinada pelo delegado</span><br>✅ <span class=\"certo\">Depende de <b>despacho da autoridade judiciária</b>; o delegado <b>representa</b></span></li><li>❌ <span class=\"banca\">A identificação criminal compreende apenas a datiloscopia</span><br>✅ <span class=\"certo\">Compreende o processo <b>datiloscópico e fotográfico</b> (e, no caso do art. 3º, IV, a coleta de material biológico)</span></li><li>❌ <span class=\"banca\">O perfil genético pode revelar traços físicos e de comportamento</span><br>✅ <span class=\"certo\">É <b>vedado</b>, <b>exceto</b> a determinação genética de <b>gênero</b></span></li><li>❌ <span class=\"banca\">A Súmula 568 do STF continua em vigor</span><br>✅ <span class=\"certo\">Foi <b>superada</b> pela CF/1988 (art. 5º, LVIII)</span></li></ol></div>\n<h3>22. Reconhecimento de pessoas (CPP, art. 226)</h3>\n<ul><li>O <b>reconhecimento</b> não é método de identificação técnica, mas é cobrado junto. Procedimento: <b>I</b> – a pessoa que tiver de fazer o reconhecimento é convidada a <b>descrever</b> a pessoa a ser reconhecida; <b>II</b> – a pessoa a ser reconhecida é colocada, <b>se possível</b>, ao lado de <b>outras que com ela tiverem qualquer semelhança</b>, convidando-se quem tiver de fazer o reconhecimento a apontá-la; <b>III</b> – se houver razão para recear que a pessoa chamada para o reconhecimento, por intimidação ou outra influência, não diga a verdade em face da pessoa a ser reconhecida, a autoridade providenciará para que <b>esta não veja aquela</b>; <b>IV</b> – do ato lavra-se <b>auto pormenorizado</b>, subscrito pela autoridade, pela pessoa chamada para proceder ao reconhecimento e por <b>duas testemunhas presenciais</b>.</li><li>O disposto no inciso III <b>não tem aplicação</b> na fase da <b>instrução criminal</b> ou em plenário de julgamento (parágrafo único).</li><li>A jurisprudência do STJ passou a exigir a <b>observância</b> do procedimento do art. 226: o reconhecimento feito de forma irregular (por exemplo, por <b>foto única</b> mostrada à vítima) <b>não serve, sozinho</b>, para fundamentar condenação, e deve ser confirmado por outras provas independentes.</li></ul>\n<h3>23. Identificação em desastres e em corpos carbonizados</h3>\n<ul><li>Em <b>desastres de massa</b> (queda de avião, enchente, rompimento de barragem, incêndio de grandes proporções), adota-se o protocolo <b>DVI</b> (<i>Disaster Victim Identification</i>) da <b>Interpol</b>, que organiza o trabalho em: coleta de dados <b>post mortem</b> (no IML), coleta de dados <b>ante mortem</b> (com as famílias: fotos, prontuários, objetos pessoais, amostras de DNA de parentes) e <b>confronto</b> (reconciliação).</li></ul>\n<table class=\"tab\"><thead><tr><th>Métodos em desastres (Interpol)</th><th>Quais</th></tr></thead><tbody><tr><td><b>Primários</b> (individualizam com segurança)</td><td><b>papiloscopia</b>, <b>odontologia</b> (comparação dentária) e <b>DNA</b></td></tr><tr><td><b>Secundários</b> (apenas auxiliam)</td><td>descrição pessoal, <b>sinais médicos</b> (cicatrizes, próteses, tatuagens), <b>objetos pessoais</b> (roupas, documentos, joias)</td></tr></tbody></table>\n<ul><li><b>Documento, roupa ou objeto encontrados com o corpo</b> são indícios, <b>não identificação</b>: podem ter sido trocados, emprestados ou deslocados.</li><li><b>Carbonizados</b>: as digitais costumam ser destruídas; a <b>arcada dentária</b> (que resiste ao fogo) e o <b>DNA</b> de ossos e dentes são os métodos principais. Próteses metálicas com número de série também ajudam.</li><li><b>Reconhecimento visual pela família</b> em corpos desfigurados é <b>pouco confiável</b> (há muitos casos de engano). Por isso, sempre que possível, confirma-se por método primário.</li></ul>\n<h3>24. Identidade jurídica: registro civil e documentos</h3>\n<ul><li>A identidade <b>jurídica</b> (civil) da pessoa nasce com o <b>registro de nascimento</b> no Cartório de Registro Civil (Lei 6.015/1973). Dele decorrem o <b>nome</b>, a <b>filiação</b>, a <b>data e o local de nascimento</b> e, depois, o casamento, o óbito e as averbações.</li><li><b>Recém-nascido</b>: o <b>ECA</b> (art. 10, II) obriga hospitais e demais estabelecimentos de atenção à saúde de gestantes a <b>identificar o recém-nascido</b> mediante o <b>registro de sua impressão plantar e digital</b> e da <b>impressão digital da mãe</b>. É uma medida simples contra <b>troca de bebês</b> e subtração de recém-nascidos. Repare que, no recém-nascido, a <b>planta do pé</b> (podoscopia) é mais fácil de registrar que as pequenas polpas dos dedos.</li><li><b>Número único</b>: a <b>Lei 14.534/2023</b> adotou o número do <b>CPF</b> como número <b>suficiente</b> para a identificação do cidadão nos bancos de dados de serviços públicos. A nova <b>Carteira de Identidade Nacional</b> usa o CPF como número de registro, o que reduz o problema de uma mesma pessoa ter vários RGs em Estados diferentes.</li><li><b>Fraudes de identidade</b>: documentos verdadeiros obtidos com dados falsos (\"documento ideologicamente falso\"), documentos adulterados (troca de foto) e uso de documento de outra pessoa. Por isso, a papiloscopia continua sendo o <b>pilar</b> da identificação civil: o Instituto de Identificação confere as digitais de quem pede a carteira com os registros anteriores.</li><li><b>Falsa identidade</b> (CP, art. 307): atribuir-se ou atribuir a terceiro <b>falsa identidade</b> para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem. A <b>Súmula 522 do STJ</b> afirma que a conduta de atribuir-se falsa identidade <b>perante autoridade policial</b> é <b>típica</b>, <b>ainda que em situação de alegada autodefesa</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Mentir o nome para o delegado é autodefesa e não é crime</span><br>✅ <span class=\"certo\">Súmula 522 do STJ: a conduta é <b>típica</b>, ainda que em alegada autodefesa</span></li><li>❌ <span class=\"banca\">Na maternidade, só se coleta a digital da mãe</span><br>✅ <span class=\"certo\">Coleta-se a <b>impressão plantar e digital do recém-nascido</b> e a <b>digital da mãe</b> (ECA, art. 10, II)</span></li></ol></div>\n<h3>25. Coleta de impressões e a ficha datiloscópica</h3>\n<ul><li><b>Ficha decadactilar</b>: registra as impressões dos <b>dez dedos</b>, cada uma em seu campo, e é a base do arquivo civil e criminal.</li><li><b>Impressão rolada</b>: o dedo é <b>rolado de uma borda à outra</b> da unha, sobre a tinta e depois sobre o papel, para registrar <b>toda a polpa</b>, incluindo os <b>deltas</b> laterais. É a que permite a <b>classificação</b> de Vucetich.</li><li><b>Impressão pousada</b> (batida ou simultânea): os dedos são <b>pousados</b> ao mesmo tempo, sem rolar. Serve para <b>conferir a ordem</b> dos dedos na ficha (evita que o dedo de uma posição seja registrado no lugar de outro).</li><li><b>Coleta digital</b>: hoje, leitores ópticos (*live scan*) substituem tinta e papel em muitos órgãos, com o mesmo princípio (rolada e pousada) e envio direto para o AFIS.</li><li><b>Qualidade</b>: dedos muito secos, muito suados, com calos, cortes recentes ou com a pele gasta (pedreiros, faxineiras, idosos) geram impressões ruins. O técnico ajusta a pressão, limpa e hidrata ou seca a pele, conforme o caso.</li><li><b>Fragmentos</b>: no local de crime, a impressão costuma ser <b>parcial</b> (só uma parte da polpa, borrada ou sobreposta). Mesmo assim, se tiver <b>pontos característicos</b> suficientes e nítidos, permite a identificação por confronto.</li></ul>\n<h3>26. Pelos, cabelos e manchas biológicas</h3>\n<ul><li><b>Pelos e cabelos</b> encontrados no local ou no corpo da vítima podem indicar: se são <b>humanos ou animais</b>; a <b>região do corpo</b> de origem (couro cabeludo, pubianos, axilares, pelos do corpo); se foram <b>arrancados</b> (com raiz/bulbo) ou <b>caíram</b> naturalmente; se foram <b>cortados</b> ou <b>tingidos</b>; e, com raiz, o <b>DNA nuclear</b> da pessoa.</li><li><b>Exame microscópico</b> do pelo: <b>cutícula</b> (escamas da superfície), <b>córtex</b> (onde está o pigmento) e <b>medula</b> (canal central). A comparação microscópica sozinha é <b>pouco individualizadora</b>: pode apontar semelhança, não identidade. Por isso, o exame de DNA é o que identifica.</li><li><b>Manchas de sangue</b>: provas de <b>orientação</b> (indicam que pode ser sangue, como as reações com reagentes que mudam de cor ou brilham na presença de hemoglobina, por exemplo o <b>luminol</b>, útil em locais lavados) e provas de <b>certeza</b> (confirmam que é sangue). Depois: <b>espécie</b> (humano?) e <b>DNA</b> (de quem?). A <b>forma e a distribuição</b> das manchas (gotas, respingos, escorrimentos, marcas de arrasto) ajudam a reconstituir a dinâmica (análise de padrões de manchas de sangue).</li><li><b>Manchas de sêmen</b>: localizadas com <b>luz forense</b> (fluorescência), confirmadas por exames laboratoriais (pesquisa de <b>espermatozoides</b> ao microscópio, ou de substâncias próprias do líquido seminal, como a <b>fosfatase ácida</b> e o antígeno prostático específico, o <b>PSA</b>, que ajuda mesmo quando o agressor não tem espermatozoides, como em vasectomizados) e identificadas por <b>DNA</b> (inclusive do <b>cromossomo Y</b>, útil quando o material está misturado com o da vítima). Tema aprofundado em Sexologia forense.</li><li><b>Saliva</b>: em bitucas de cigarro, copos, envelopes, marcas de mordida; fonte de <b>DNA</b>.</li><li><b>DNA de toque</b>: células da pele deixadas ao manusear objetos (cabo de faca, volante, gatilho). Quantidade pequena, sensível à contaminação; deve ser coletado com técnica (suabes) antes de outras manipulações do objeto.</li></ul>\n<h3>27. Roteiro completo de identificação de uma ossada</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ossada encontrada em mata</b><p>Trabalhadores encontram ossos humanos espalhados em uma área de mata, com restos de roupas e um tênis. Há uma pessoa desaparecida na região há 2 anos.</p><details><summary>Ver a solução comentada</summary><p><b>1) Local</b>: preservação e <b>escavação</b> técnica (com registro da posição de cada osso, do solo, das roupas e dos objetos), porque a disposição dos restos ajuda a entender o que houve (enterro, deslocamento por animais, arrasto pela chuva). <b>2) IML</b>: confirmação de que os ossos são <b>humanos</b>; contagem do <b>número mínimo de indivíduos</b> (se há ossos repetidos, há mais de uma pessoa). <b>3) Perfil biológico</b>: <b>sexo</b> (pelve e crânio), <b>idade</b> (sínfise púbica, costelas, dentes), <b>estatura</b> (fêmur), <b>ancestralidade</b> (com cautela) e <b>sinais individuais</b> (fraturas consolidadas, próteses, tratamentos dentários). <b>4) Causa da morte</b>: lesões <b>perimortem</b> (fraturas sem sinais de consolidação, de bordas com características de osso fresco, perfurações por projétil, cortes) distinguidas de lesões <b>post mortem</b> (quebras de osso seco, ação de animais, raízes). <b>5) Comparação</b>: com a <b>ficha dentária</b> e as <b>radiografias</b> do desaparecido (dados ante mortem), e coleta de <b>DNA</b> de um osso longo ou de dentes para comparar com os <b>pais</b> ou <b>filhos</b>. <b>6) Conclusão</b>: identificação <b>positiva</b> só com método primário (DNA, dentes ou, se houver pele preservada, digitais); roupas e tênis são apenas <b>indícios</b>.</p></details></div>\n<ul><li><b>Tafonomia</b> é o estudo do que acontece com o corpo <b>depois da morte</b> até ser encontrado (decomposição, ação de animais, insetos, plantas, água, clima). Ajuda a estimar o <b>tempo desde a morte</b> e a separar o que é lesão do crime do que é efeito do ambiente.</li><li><b>Lesão perimortem x post mortem</b>: o osso <b>fresco</b> (vivo ou recém-morto) é elástico e quebra com bordas <b>lisas e anguladas</b>, às vezes com fissuras irradiadas; o osso <b>seco</b> quebra de forma mais <b>perpendicular e irregular</b>, com bordas de cor diferente da superfície (fratura \"nova\" em osso velho). Lesões <b>antemortem</b> antigas mostram <b>calo ósseo</b> (sinais de consolidação), o que prova que a pessoa sobreviveu a elas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Roupas e documentos junto à ossada bastam para a identificação positiva</span><br>✅ <span class=\"certo\">São <b>indícios</b>; a identificação positiva exige <b>método primário</b></span></li><li>❌ <span class=\"banca\">Fratura com calo ósseo foi produzida no momento da morte</span><br>✅ <span class=\"certo\">O <b>calo</b> indica que a pessoa <b>sobreviveu</b> (lesão <b>antemortem</b> antiga)</span></li><li>❌ <span class=\"banca\">Encontrando dois fêmures direitos, há um só indivíduo</span><br>✅ <span class=\"certo\">Ossos repetidos indicam <b>pelo menos dois</b> indivíduos (número mínimo de indivíduos)</span></li></ol></div>\n<h3>28. Retrato falado, fotografia e reconhecimento facial</h3>\n<ul><li><b>Retrato falado</b>: imagem do rosto construída a partir da <b>descrição da testemunha</b>, hoje feita em programas de computador com bancos de traços (olhos, nariz, boca, cabelo). Serve para <b>divulgação e busca</b>, não para identificação: depende da memória de quem descreve.</li><li><b>Fotografia de identificação</b>: de frente e de perfil, com padrão de luz e fundo. É parte da identificação criminal (Lei 12.037/2009), ao lado da datiloscopia.</li><li><b>Reconhecimento facial automatizado</b>: programas comparam rostos captados por câmeras com bancos de fotos e apontam <b>candidatos</b>. Tem margens de erro, que variam com a qualidade da imagem, a iluminação, o ângulo e o próprio algoritmo. Por isso, um \"alerta\" do sistema é <b>ponto de partida</b> da investigação, e não prova de autoria: precisa ser confirmado por outros elementos (como a papiloscopia).</li><li><b>Envelhecimento e progressão de idade</b>: em crianças desaparecidas há muitos anos, técnicas de computação projetam como o rosto estaria hoje, para auxiliar buscas.</li><li><b>Comparação facial pericial</b>: o perito compara a imagem questionada (câmera de segurança) com a fotografia padrão do suspeito, analisando proporções e <b>traços morfológicos</b> (forma da orelha, cicatrizes, sinais). O resultado costuma ser expresso em <b>graus de compatibilidade</b>, raramente como certeza.</li></ul>\n<h3>29. Casos práticos para fixar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Digital no copo</b><p>Após um homicídio em um bar, o perito revela uma impressão latente parcial em um copo. O AFIS indica três candidatos.</p><details><summary>Ver a solução comentada</summary><p>O AFIS só <b>sugere</b> candidatos. O <b>perito papiloscopista</b> faz o <b>confronto</b> de pontos característicos com as fichas dos três. Se encontrar coincidência suficiente e <b>nenhuma divergência</b>, conclui pela identidade com um deles. A presença da digital prova que a pessoa <b>tocou o copo</b>, não necessariamente que matou: o investigador precisa ligar esse fato às demais provas (horário, testemunhas, câmeras).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Gêmeo suspeito</b><p>O DNA do sêmen colhido da vítima de estupro coincide com o de um suspeito, que tem um irmão gêmeo univitelino.</p><details><summary>Ver a solução comentada</summary><p>O DNA nuclear <b>não diferencia</b> gêmeos idênticos. A investigação precisa de <b>outros elementos</b>: impressões digitais (que são <b>diferentes</b> entre gêmeos), álibi, câmeras, reconhecimento, telefonia. É um exemplo de que o DNA é poderoso, mas tem limites.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Corpo carbonizado em veículo</b><p>Um carro é encontrado incendiado com um corpo carbonizado no banco do motorista. O carro é de um empresário desaparecido.</p><details><summary>Ver a solução comentada</summary><p>Que o carro seja do empresário é só <b>indício</b>: o corpo pode ser de outra pessoa (inclusive em fraudes contra seguro). O IML deve estimar sexo, idade e estatura, buscar <b>próteses</b> e tratamentos <b>dentários</b>, e fazer o <b>confronto odontológico</b> com o dentista do empresário e o <b>DNA</b> de ossos ou dentes com o dos pais ou filhos. Também verifica se a vítima estava <b>viva no incêndio</b> (fuligem nas vias aéreas, monóxido de carbono no sangue), tema de Energias físicas e Toxicologia.</p></details></div>\n<h3>30. Pessoas desaparecidas e cadáveres não identificados</h3>\n<ul><li><b>Busca imediata</b>: não existe a regra popular de \"esperar 24 horas\" para registrar o desaparecimento. A <b>Lei 13.812/2019</b> instituiu a <b>Política Nacional de Busca de Pessoas Desaparecidas</b> e tratou a busca como <b>prioridade</b>, com caráter de <b>urgência</b>. Para crianças e adolescentes, o <b>ECA</b> (art. 208, § 2º) determina que a investigação do desaparecimento seja realizada <b>imediatamente</b> após a notificação aos órgãos competentes.</li><li><b>Cadastro Nacional de Pessoas Desaparecidas</b>: criado pela mesma lei, reúne informações dos desaparecidos e deve ser cruzado com dados de <b>cadáveres não identificados</b>, de hospitais, abrigos e serviços de assistência.</li><li><b>Papel do IML</b>: todo cadáver <b>não identificado</b> deve ter o <b>máximo de dados registrados</b> antes do sepultamento: <b>fotografias</b> do rosto e de sinais particulares, <b>impressões digitais</b>, <b>ficha odontológica</b>, <b>radiografias</b>, descrição de <b>roupas e objetos</b>, e <b>coleta de material para DNA</b> (dentes, osso, sangue). Assim, se a família aparecer depois, a identificação é possível mesmo após o enterro (e evita <b>exumações</b> desnecessárias).</li><li><b>Coleta de referência das famílias</b>: a família de um desaparecido pode fornecer <b>amostra de DNA</b> (de pais, filhos ou irmãos) para comparação com os perfis de cadáveres não identificados guardados nos bancos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">É preciso esperar 24 horas para comunicar o desaparecimento de uma pessoa</span><br>✅ <span class=\"certo\">Não há essa exigência; a busca é <b>prioridade</b> e, para crianças e adolescentes, a investigação é <b>imediata</b> (ECA, art. 208, § 2º)</span></li><li>❌ <span class=\"banca\">Cadáver não identificado pode ser sepultado sem coleta de material</span><br>✅ <span class=\"certo\">Devem ser registrados digitais, fotos, dentes e <b>material para DNA</b> antes do sepultamento</span></li></ol></div>\n<h3>31. Identidade de gênero, nome social e registro civil</h3>\n<ul><li><b>Sexo biológico</b> (cromossômico, gonadal, anatômico), <b>identidade de gênero</b> (como a pessoa se reconhece) e <b>nome</b> são conceitos diferentes. A Medicina Legal clássica estudava a \"identidade sexual\" sobretudo nos <b>estados intersexuais</b>; hoje o tema inclui também a identidade de gênero.</li><li>O <b>STF</b> (ADI 4.275, 2018) reconheceu às pessoas <b>transgênero</b> o direito à <b>alteração do prenome e do sexo no registro civil</b> diretamente no <b>cartório</b>, <b>independentemente de cirurgia</b> de redesignação ou de laudos médicos ou psicológicos, e independentemente de ação judicial.</li><li><b>Consequência para a identificação</b>: a <b>identidade jurídica</b> (nome e sexo no registro) pode não coincidir com o <b>sexo genético</b> que o DNA indica. Na identificação de um cadáver, por exemplo, o perito deve registrar os achados biológicos com precisão técnica e a autoridade deve considerar o <b>registro civil</b> e as informações da família para não descartar um candidato por divergência apenas aparente.</li><li><b>Estados intersexuais</b>: são condições em que os componentes do sexo (cromossomos, gônadas, genitais, hormônios) não se alinham no padrão típico masculino ou feminino. O diagnóstico é <b>médico e multidisciplinar</b> (genético, hormonal, cirúrgico e psicológico) e pode ter reflexos no registro civil, que hoje admite retificação.</li></ul>\n<h3>32. Identificação de vivos em situações especiais</h3>\n<ul><li><b>Pessoa inconsciente ou sem documentos</b> em hospital: coleta de <b>impressões digitais</b> e consulta ao Instituto de Identificação, fotografias e descrição de sinais. A divulgação de imagem deve respeitar a <b>dignidade</b> e a <b>privacidade</b> da pessoa.</li><li><b>Estrangeiros</b>: confronto com documentos de viagem (passaporte), registros migratórios e cooperação internacional (Interpol). As digitais podem ser comparadas com bancos de outros países por canais oficiais.</li><li><b>Pessoas com mutilação ou doença de pele</b> nos dedos: usam-se as <b>palmas</b> (quiroscopia), outros sinais e o DNA.</li><li><b>Suspeito que se recusa a fornecer as digitais</b>: se a identificação criminal for cabível (Lei 12.037/2009), a recusa não impede o procedimento, que deve ser feito com respeito à integridade física. Já a coleta de <b>material biológico</b> para DNA no investigado depende das regras específicas (decisão judicial na hipótese do art. 3º, IV) e se aproveita, em muitos casos, de <b>material descartado</b> (copo, bituca de cigarro), coletado com cadeia de custódia.</li></ul>\n<h3>33. Estimativa de idade: técnicas e limites</h3>\n<ul><li><b>Métodos dentários radiográficos</b>: avaliam as <b>fases de formação</b> das coroas e raízes (há tabelas e métodos padronizados, como o de Demirjian, muito citado). São os mais confiáveis em <b>crianças</b>, porque a formação dentária segue um ritmo regular.</li><li><b>Idade óssea</b> (mão e punho): compara a radiografia com <b>atlas</b> de referência. Útil até o fim do crescimento; depois de completada a fusão das epífises, perde valor.</li><li><b>Clavícula</b>: a fusão da extremidade <b>medial</b> (junto ao esterno) é das <b>últimas</b> a ocorrer; observada por tomografia, ajuda a separar quem tem <b>mais ou menos de 21 anos</b>, aproximadamente.</li><li><b>Terceiro molar</b>: o grau de formação das <b>raízes</b> dos sisos é usado para estimar se a pessoa tem <b>18 anos ou mais</b>, sempre com margem de erro.</li><li><b>Combinação</b>: recomenda-se usar <b>mais de um método</b> (exame físico, dentes e ossos) e expressar o resultado como <b>faixa</b> com probabilidade. A estimativa de idade de pessoas vivas para fins legais deve ser feita com cautela, porque uma conclusão errada pode levar alguém à prisão comum (se for adolescente) ou negar-lhe proteção.</li><li><b>Variações populacionais e individuais</b>: nutrição, doenças, hormônios e origem populacional alteram o ritmo de crescimento. É por isso que nenhum método dá idade exata.</li></ul>\n<h3>34. Revisão dos principais nomes e termos</h3>\n<table class=\"tab\"><thead><tr><th>Nome ou termo</th><th>O que lembrar</th></tr></thead><tbody><tr><td><b>Alphonse Bertillon</b></td><td>antropometria (bertillonagem), retrato falado e assinalamento; método abandonado</td></tr><tr><td><b>Juan Vucetich</b></td><td>sistema datiloscópico usado no Brasil</td></tr><tr><td><b>Edmond Locard</b></td><td><b>poroscopia</b>; também famoso pelo <b>princípio da troca</b> (\"todo contato deixa um vestígio\"), base da Criminalística</td></tr><tr><td><b>Purkinje</b></td><td>descreveu os desenhos papilares</td></tr><tr><td><b>Galton</b> e <b>Henry</b></td><td>estudos e classificação das impressões digitais na Inglaterra</td></tr><tr><td><b>Ottolenghi</b></td><td>classificação antiga de \"raças\" (conteúdo histórico)</td></tr><tr><td><b>Béclard</b></td><td>núcleo de ossificação do fêmur distal, maturidade fetal</td></tr><tr><td><b>Havers</b></td><td>canais do osso compacto, úteis para diferenciar osso humano e animal</td></tr><tr><td><b>Barr</b></td><td>corpúsculo de cromatina sexual</td></tr><tr><td><b>DVI</b></td><td>protocolo da Interpol para vítimas de desastres</td></tr></tbody></table>\n<ul><li><b>Princípio de Locard</b> (princípio da troca): todo contato entre duas superfícies deixa <b>vestígios</b> recíprocos. O criminoso leva algo do local (terra, fibras, sangue da vítima) e deixa algo nele (digitais, pelos, DNA). É a ideia que justifica a busca minuciosa de vestígios e a preservação do local.</li></ul>\n<h3>35. Como as bancas cobram este tópico (análise comentada)</h3>\n<ul><li><b>Tema 1: conceitos trocados.</b> A banca escreve \"identificação é o conjunto de caracteres que individualizam a pessoa\" e espera que você marque <b>errado</b>: esse é o conceito de <b>identidade</b>. Do mesmo modo, troca \"reconhecimento\" por \"identificação\". Treine a frase: <b>identidade é o quê; identificação é o como; reconhecimento é a memória de alguém</b>.</li><li><b>Tema 2: requisitos do método.</b> As questões trocam as definições (dizem que <b>perenidade</b> é \"não mudar\", quando isso é <b>imutabilidade</b>) ou perguntam qual requisito <b>falhou</b> na antropometria (unicidade e imutabilidade). Também é comum perguntar quais são <b>técnicos</b> (praticabilidade e classificabilidade).</li><li><b>Tema 3: Vucetich.</b> As pegadinhas clássicas: o número de deltas (arco: zero; presilhas: um; verticilo: dois), o <b>lado do delta</b> nas presilhas (sempre em relação ao <b>observador</b>: interna = direita; externa = esquerda), a <b>notação</b> (polegares com letra, demais dedos com número) e a <b>fórmula</b> (série = mão direita; seção = mão esquerda). Um bom truque: na presilha <b>interna</b>, as linhas do núcleo \"entram\" para a esquerda e o delta fica do outro lado, à <b>direita</b>.</li><li><b>Tema 4: gêmeos.</b> É a pegadinha favorita: gêmeos univitelinos têm <b>DNA nuclear igual</b> e <b>digitais diferentes</b>. Se a afirmação disser que o DNA os distingue, ou que as digitais são iguais, está <b>errada</b>.</li><li><b>Tema 5: sexo e idade na ossada.</b> A banca afirma que o <b>crânio</b> é o melhor indicador do sexo (errado: é a <b>pelve</b>) ou que o ângulo subpúbico <b>masculino</b> é amplo (errado: amplo é o <b>feminino</b>). Em idade, cobra o <b>núcleo de Béclard</b> (fêmur distal, feto a termo) e a ideia de que a idade do adulto se estima em <b>faixas</b>.</li><li><b>Tema 6: DNA mitocondrial e cromossomo Y.</b> \"O DNA mitocondrial é transmitido pelo pai\" (errado: <b>mãe</b>). \"O cromossomo Y permite identificar a linhagem materna\" (errado: <b>paterna</b>). \"Cabelo sem raiz fornece DNA nuclear\" (em regra, <b>errado</b>: só mitocondrial).</li><li><b>Tema 7: Lei 12.037/2009.</b> A banca troca a autoridade que decide a identificação <b>essencial às investigações</b> (é o <b>juiz</b>, de ofício ou por representação do delegado, do MP ou da defesa), afirma que a identificação criminal é <b>só datiloscópica</b> (é <b>datiloscópica e fotográfica</b>) ou inventa hipóteses fora do rol (por exemplo, \"crime hediondo\" ou \"reincidência\", que <b>não</b> estão no art. 3º). Cobra também o art. 6º (não constar em atestado de antecedentes antes do trânsito em julgado) e o art. 7º (retirada da foto).</li><li><b>Tema 8: bancos de perfis genéticos.</b> Pegadinhas: o perfil <b>pode revelar características físicas</b> (errado: só <b>gênero</b>); a exclusão do perfil do condenado ocorre \"após 5 anos\" (errado: <b>20 anos</b> do cumprimento da pena, mediante requerimento); a recusa do condenado é \"mera infração disciplinar leve\" (errado: <b>falta grave</b>).</li><li><b>Tema 9: desastres.</b> \"Documentos encontrados com o corpo são método primário\" (errado). Métodos primários: <b>digitais, dentes e DNA</b>.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo</b><p>\"Explique a diferença entre identidade, identificação e reconhecimento e indique os métodos considerados primários na identificação de vítimas de desastres de massa.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: identidade é o <b>conjunto de caracteres</b> que individualiza a pessoa; identificação é o <b>processo técnico</b> que determina essa identidade por comparação ou dedução, com métodos que atendam aos requisitos de unicidade, imutabilidade, perenidade, praticabilidade e classificabilidade; reconhecimento é ato <b>subjetivo</b> de memória de testemunha, regulado pelo art. 226 do CPP. Nos desastres, o protocolo DVI da Interpol considera <b>primários</b> a <b>papiloscopia</b>, a <b>odontologia legal</b> (comparação ante e post mortem) e o <b>DNA</b>; sinais médicos, tatuagens e objetos pessoais são <b>secundários</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 2</b><p>\"Um preso em flagrante apresenta carteira de identidade válida, sem rasuras. O delegado pode submetê-lo à identificação criminal? E se houver suspeita de que ele usa outros nomes?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: a regra constitucional (CF, art. 5º, LVIII) é que o <b>civilmente identificado não será submetido</b> a identificação criminal, salvo nas hipóteses da <b>Lei 12.037/2009</b>. Com documento válido e sem dúvida, <b>não cabe</b>. Se constar de <b>registros policiais o uso de outros nomes</b> ou diferentes qualificações, incide o <b>art. 3º, V</b>, e a identificação criminal (datiloscópica e fotográfica) passa a ser possível, com providências para <b>evitar constrangimento</b> (art. 4º).</p></details></div>\n<h3>36. Glossário do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Antropometria</b></td><td>medição do corpo humano; base do método de Bertillon</td></tr><tr><td><b>Assinalamento</b></td><td>descrição organizada dos sinais particulares (cicatrizes, tatuagens, defeitos)</td></tr><tr><td><b>Cristas papilares</b></td><td>linhas em relevo da pele das polpas, palmas e plantas</td></tr><tr><td><b>Sulcos interpapilares</b></td><td>espaços entre as cristas</td></tr><tr><td><b>Delta</b></td><td>figura triangular onde se encontram os sistemas basilar, marginal e nuclear</td></tr><tr><td><b>Núcleo</b></td><td>região central do datilograma</td></tr><tr><td><b>Datilograma</b></td><td>o desenho papilar do dedo, ou sua impressão</td></tr><tr><td><b>Minúcias</b></td><td>os pontos característicos (bifurcação, ilhota, cortada, encerro...)</td></tr><tr><td><b>Latente</b></td><td>impressão invisível, que precisa ser revelada</td></tr><tr><td><b>AFIS</b></td><td>sistema automatizado de busca de impressões digitais</td></tr><tr><td><b>Necropapiloscopia</b></td><td>coleta de impressões em cadáveres</td></tr><tr><td><b>Luva cadavérica</b></td><td>epiderme das mãos destacada pela putrefação</td></tr><tr><td><b>STR</b></td><td>regiões do DNA com repetições curtas, usadas no perfil genético</td></tr><tr><td><b>DNA mitocondrial</b></td><td>herança materna; útil em material degradado</td></tr><tr><td><b>Cromossomo Y</b></td><td>herança paterna; útil em misturas de material masculino e feminino</td></tr><tr><td><b>Ante mortem</b></td><td>dados registrados em vida (prontuário, radiografias, fotos)</td></tr><tr><td><b>Post mortem</b></td><td>dados colhidos no cadáver</td></tr><tr><td><b>Perimortem</b></td><td>lesão produzida por volta do momento da morte</td></tr><tr><td><b>Tafonomia</b></td><td>estudo das alterações do corpo depois da morte até ser encontrado</td></tr><tr><td><b>Número mínimo de indivíduos</b></td><td>estimativa de quantas pessoas há em um conjunto de ossos</td></tr><tr><td><b>Seios frontais</b></td><td>cavidades do osso frontal, de forma individual, comparáveis em radiografias</td></tr><tr><td><b>Rugoscopia palatina</b></td><td>estudo das rugosidades do céu da boca</td></tr><tr><td><b>Queiloscopia</b></td><td>estudo dos sulcos dos lábios</td></tr><tr><td><b>Poroscopia</b></td><td>estudo dos poros das cristas papilares</td></tr><tr><td><b>Podoscopia</b></td><td>estudo das impressões das plantas dos pés</td></tr><tr><td><b>Quiroscopia</b></td><td>estudo das impressões das palmas das mãos</td></tr><tr><td><b>DVI</b></td><td>protocolo da Interpol para identificar vítimas de desastres</td></tr></tbody></table>\n<ul><li><b>Dica final de estudo</b>: depois de ler o tópico, faça as questões e use o <b>Treino de pegadinhas</b> desta matéria. As frases erradas mais cobradas aqui (gêmeos e DNA, lado do delta, pelve x crânio, mitocondrial x Y, quem decide a identificação criminal) aparecem lá para você treinar até acertar sem pensar.</li><li><b>Ligação com outros tópicos</b>: a identificação conversa com a <b>Tanatologia</b> (tempo de morte, putrefação, que destrói as digitais), com a <b>Traumatologia</b> (lesões perimortem em ossadas, cicatrizes), com as <b>Energias físicas</b> (carbonizados), com a <b>Sexologia forense</b> (DNA de sêmen) e com as <b>Perícias</b> (cadeia de custódia, laudo, perito oficial). Ao estudar esses tópicos, volte aqui para revisar os métodos de identificação usados em cada situação.</li><li><b>Ligação com o trabalho policial</b>: no dia a dia da delegacia, você vai lidar com identificação criminal do preso, requisição de exame de DNA, comunicação de desaparecimento, cadáver não identificado no IML e preservação de local com possíveis impressões latentes. Saber o que a lei exige e o que cada método consegue (ou não consegue) provar evita prisões indevidas, perda de provas e nulidades no processo, e ajuda a escrever relatórios mais precisos.</li><li><b>Ligação com a ética e os direitos humanos</b>: identificar corretamente é também uma forma de respeito. Para as famílias de desaparecidos e de vítimas de desastres, a identificação devolve o direito ao <b>luto</b>, ao <b>sepultamento</b> e à <b>verdade</b>; para o investigado, evita que alguém seja confundido com outra pessoa e processado por crime que não cometeu. Por isso as leis exigem cautela na identificação criminal (evitar constrangimento, sigilo dos dados, retirada da foto após absolvição) e limitam o uso dos perfis genéticos ao fim de <b>identificação</b>, vedando revelar traços físicos ou de comportamento. O bom profissional une <b>técnica</b>, <b>legalidade</b> e <b>dignidade</b> da pessoa humana em cada etapa do trabalho.</li></ul>\n<h3>37. Mapa de revisão do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Tema</th><th>Palavra-chave</th></tr></thead><tbody><tr><td>Identidade x identificação x reconhecimento</td><td><b>conjunto de caracteres</b> x <b>processo técnico</b> x <b>ato de memória</b></td></tr><tr><td>Requisitos</td><td><b>unicidade, imutabilidade, perenidade</b> (biológicos) + <b>praticabilidade, classificabilidade</b> (técnicos)</td></tr><tr><td>Bertillon</td><td><b>antropometria</b>, abandonada (falha na unicidade e imutabilidade)</td></tr><tr><td>Vucetich</td><td><b>arco</b> (sem delta), <b>presilha interna</b> (delta à direita do observador), <b>presilha externa</b> (delta à esquerda), <b>verticilo</b> (2 deltas)</td></tr><tr><td>Fórmula</td><td><b>série</b> = mão direita; <b>seção</b> = mão esquerda</td></tr><tr><td>Símbolos</td><td><b>0</b> = amputação; <b>X</b> = cicatriz/anomalia</td></tr><tr><td>Papiloscopia</td><td>datiloscopia (dedos), quiroscopia (palmas), podoscopia (pés), poroscopia (poros)</td></tr><tr><td>Sexo na ossada</td><td><b>pelve</b> é o melhor indicador</td></tr><tr><td>Maturidade fetal</td><td><b>núcleo de Béclard</b> (fêmur distal)</td></tr><tr><td>Estatura</td><td>ossos longos, sobretudo o <b>fêmur</b></td></tr><tr><td>Dentes</td><td>mais resistentes ao fogo; comparação <b>ante x post mortem</b></td></tr><tr><td>DNA</td><td>gêmeos univitelinos <b>iguais</b>; mitocondrial = <b>mãe</b>; Y = <b>pai</b></td></tr><tr><td>Métodos primários (Interpol)</td><td><b>digitais, dentes e DNA</b></td></tr><tr><td>Identificação criminal</td><td>só nas hipóteses do <b>art. 3º da Lei 12.037/2009</b>; datiloscópica + fotográfica</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Identidade</span></span><span class=\"vs\"><span>conjunto de caracteres que individualizam a pessoa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Identificação</span></span><span class=\"vs\"><span>processo técnico para determinar a identidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Requisitos biológicos de um método</span></span><span class=\"vs\"><span>unicidade, imutabilidade e perenidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Requisitos técnicos</span></span><span class=\"vs\"><span>praticabilidade e classificabilidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arco</span></span><span class=\"vs\"><span>sem delta (A / 1)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Presilha interna</span></span><span class=\"vs\"><span>delta à direita do observador (I / 2)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Presilha externa</span></span><span class=\"vs\"><span>delta à esquerda do observador (E / 3)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Verticilo</span></span><span class=\"vs\"><span>dois deltas (V / 4)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Série da fórmula datiloscópica</span></span><span class=\"vs\"><span>mão direita</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dedo amputado na ficha</span></span><span class=\"vs\"><span>0</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Melhor osso para o sexo</span></span><span class=\"vs\"><span>pelve</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Melhor osso isolado para a estatura</span></span><span class=\"vs\"><span>fêmur</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Núcleo de Béclard</span></span><span class=\"vs\"><span>epífise distal do fêmur, sinal de feto a termo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>DNA de linhagem materna</span></span><span class=\"vs\"><span>mitocondrial</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>DNA de linhagem paterna</span></span><span class=\"vs\"><span>cromossomo Y</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gêmeos univitelinos</span></span><span class=\"vs\"><span>mesmo DNA nuclear, digitais diferentes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Métodos primários em desastres</span></span><span class=\"vs\"><span>papiloscopia, odontologia e DNA</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Identificação criminal do civilmente identificado</span></span><span class=\"vs\"><span>só nas hipóteses da Lei 12.037/2009</span></span></button></div></div>",
 "quiz": [
+{
+"p": "Identidade é o conjunto de caracteres que individualizam uma pessoa; identificação é o processo técnico para determinar essa identidade.",
+"c": true,
+"prof": "Conceitos.",
+"x": "Uma é o que se prova; a outra, como se prova.",
+"e": "Identidade x identificação."
+},
+{
+"p": "Reconhecimento e identificação são sinônimos, pois ambos são métodos técnicos e objetivos.",
+"c": false,
+"prof": "Conceitos.",
+"x": "O reconhecimento é ato de memória de testemunha, subjetivo; a identificação é técnica.",
+"e": "Reconhecimento: subjetivo."
+},
+{
+"p": "Unicidade, imutabilidade e perenidade são requisitos biológicos de um método de identificação; praticabilidade e classificabilidade são requisitos técnicos.",
+"c": true,
+"prof": "Requisitos.",
+"x": "São os cinco requisitos clássicos.",
+"e": "3 biológicos + 2 técnicos."
+},
+{
+"p": "Perenidade é a capacidade do caráter de resistir ao tempo, existindo desde cedo até depois da morte.",
+"c": true,
+"prof": "Requisitos.",
+"x": "Imutabilidade é não mudar; perenidade é durar.",
+"e": "Perenidade: durar."
+},
+{
+"p": "Classificabilidade é o requisito segundo o qual o caráter não se altera ao longo da vida.",
+"c": false,
+"prof": "Requisitos.",
+"x": "Isso é imutabilidade; classificabilidade é permitir arquivar e localizar.",
+"e": "Classificabilidade: arquivar."
+},
+{
+"p": "A antropometria de Bertillon foi abandonada por falhar na unicidade e na imutabilidade das medidas corporais.",
+"c": true,
+"prof": "Histórico.",
+"x": "Medidas mudam com a idade e podem coincidir.",
+"e": "Bertillon abandonado."
+},
+{
+"p": "O sistema datiloscópico oficial no Brasil é o de Vucetich.",
+"c": true,
+"prof": "Datiloscopia.",
+"x": "Criado por Juan Vucetich, na Argentina.",
+"e": "Vucetich no Brasil."
+},
+{
+"p": "A identificação médico-legal exige conhecimentos médicos e busca dados como espécie, sexo, idade, estatura e sinais individuais.",
+"c": true,
+"prof": "Identificação médico-legal.",
+"x": "A identificação policial usa registros prévios, como a papiloscopia.",
+"e": "Médico-legal x policial."
+},
+{
+"p": "Sexo, idade e estatura são caracteres genéricos, que reduzem o universo de possibilidades, mas não individualizam a pessoa.",
+"c": true,
+"prof": "Identificação.",
+"x": "Individualizam: digitais, dentes e DNA.",
+"e": "Genéricos não individualizam."
+},
+{
+"p": "Papiloscopia é a ciência da identificação pelas papilas dérmicas, abrangendo a datiloscopia, a quiroscopia, a podoscopia e a poroscopia.",
+"c": true,
+"prof": "Papiloscopia.",
+"x": "Dedos, palmas, plantas e poros.",
+"e": "Ramos da papiloscopia."
+},
+{
+"p": "Quiroscopia é o estudo das impressões das plantas dos pés.",
+"c": false,
+"prof": "Papiloscopia.",
+"x": "Quiroscopia estuda as palmas das mãos; os pés são objeto da podoscopia.",
+"e": "Quiro = mão."
+},
+{
+"p": "A poroscopia estuda os poros sudoríparos ao longo das cristas papilares e é associada a Locard.",
+"c": true,
+"prof": "Papiloscopia.",
+"x": "Forma, tamanho e posição dos poros.",
+"e": "Poroscopia: Locard."
+},
+{
+"p": "O desenho papilar se forma na vida intrauterina, por volta do 6º mês de gestação, e persiste até a destruição da pele pela putrefação.",
+"c": true,
+"prof": "Datiloscopia.",
+"x": "Fundamenta a perenidade.",
+"e": "Digitais: 6º mês."
+},
+{
+"p": "Lesões superficiais da pele das polpas digitais regeneram-se com o mesmo desenho papilar; lesões profundas deixam cicatriz.",
+"c": true,
+"prof": "Datiloscopia.",
+"x": "A cicatriz passa a ser sinal particular.",
+"e": "Lesão superficial: mesmo desenho."
+},
+{
+"p": "Gêmeos univitelinos apresentam impressões digitais idênticas.",
+"c": false,
+"prof": "Datiloscopia.",
+"x": "As digitais dos gêmeos são diferentes; o DNA nuclear é que é igual.",
+"e": "Gêmeos: digitais diferentes."
+},
+{
+"p": "O delta é a figura triangular formada no ponto de encontro dos sistemas de linhas basilar, marginal e nuclear.",
+"c": true,
+"prof": "Vucetich.",
+"x": "A classificação se baseia no delta.",
+"e": "Delta: três sistemas."
+},
+{
+"p": "No sistema de Vucetich, o arco não possui delta.",
+"c": true,
+"prof": "Vucetich.",
+"x": "As linhas atravessam o dedo de um lado a outro.",
+"e": "Arco: sem delta."
+},
+{
+"p": "Na presilha interna, o delta situa-se à direita do observador.",
+"c": true,
+"prof": "Vucetich.",
+"x": "Na externa, à esquerda.",
+"e": "Interna: delta à direita."
+},
+{
+"p": "Na presilha externa, o delta situa-se à direita do observador.",
+"c": false,
+"prof": "Vucetich.",
+"x": "Na externa, o delta fica à esquerda do observador.",
+"e": "Externa: delta à esquerda."
+},
+{
+"p": "O verticilo apresenta dois deltas.",
+"c": true,
+"prof": "Vucetich.",
+"x": "Um de cada lado.",
+"e": "Verticilo: dois deltas."
+},
+{
+"p": "Na ficha datiloscópica, um verticilo no polegar e uma presilha interna no indicador são representados, respectivamente, por:",
+"alts": [
+"4 e I",
+"V e 2",
+"V e I",
+"4 e 2",
+"E e 3"
+],
+"r": 1,
+"n": [
+"Polegar usa letra; demais dedos, número.",
+"Correta.",
+"Indicador usa número.",
+"Polegar usa letra.",
+"Não corresponde."
+],
+"prof": "Vucetich.",
+"x": "Polegares: A, I, E, V; demais dedos: 1, 2, 3, 4.",
+"e": "Polegar letra; dedos número."
+},
+{
+"p": "Na fórmula datiloscópica de Vucetich, a série corresponde à mão direita e a seção, à mão esquerda.",
+"c": true,
+"prof": "Fórmula datiloscópica.",
+"x": "Fundamental e divisão; subclassificação e subdivisão.",
+"e": "Série: mão direita."
+},
+{
+"p": "O polegar direito é a fundamental, e o polegar esquerdo, a subclassificação.",
+"c": true,
+"prof": "Fórmula datiloscópica.",
+"x": "Os demais dedos formam a divisão (direita) e a subdivisão (esquerda).",
+"e": "Fundamental: polegar direito."
+},
+{
+"p": "Na ficha datiloscópica, o símbolo 0 indica dedo amputado, e o X, cicatriz ou anomalia que impede a classificação.",
+"c": true,
+"prof": "Símbolos especiais.",
+"x": "Não troque os símbolos.",
+"e": "0 amputado; X cicatriz."
+},
+{
+"p": "A identificação por impressões digitais se faz pela coincidência de pontos característicos, sem divergência inexplicável.",
+"c": true,
+"prof": "Confronto papiloscópico.",
+"x": "A fórmula serve para arquivar; os pontos, para identificar.",
+"e": "Identificar: pontos característicos."
+},
+{
+"p": "A lei brasileira fixa em 12 o número mínimo de pontos característicos para a identificação papiloscópica.",
+"c": false,
+"prof": "Confronto papiloscópico.",
+"x": "A lei não fixa número; 12 é referência da tradição pericial.",
+"e": "12 pontos: tradição, não lei."
+},
+{
+"p": "Bifurcação é o ponto característico em que uma crista papilar se divide em duas.",
+"c": true,
+"prof": "Pontos característicos.",
+"x": "Forquilha é quando duas se unem.",
+"e": "Bifurcação."
+},
+{
+"p": "Ilhota é uma crista papilar curta e isolada.",
+"c": true,
+"prof": "Pontos característicos.",
+"x": "O ponto é ainda menor.",
+"e": "Ilhota."
+},
+{
+"p": "Encerro é a crista que se divide e volta a se unir, formando um pequeno espaço fechado.",
+"c": true,
+"prof": "Pontos característicos.",
+"x": "Também chamado de lago.",
+"e": "Encerro."
+},
+{
+"p": "O AFIS indica candidatos prováveis, mas a conclusão final do confronto é do perito papiloscopista.",
+"c": true,
+"prof": "AFIS.",
+"x": "O sistema é ferramenta de busca.",
+"e": "AFIS: candidatos."
+},
+{
+"p": "Impressões latentes são formadas pelo suor e pela gordura da pele e são invisíveis a olho nu, precisando ser reveladas.",
+"c": true,
+"prof": "Impressões no local.",
+"x": "Ex.: digital em copo.",
+"e": "Latente: precisa revelar."
+},
+{
+"p": "Impressão moldada ou plástica é a deixada pelo dedo em superfície mole, como cera ou massa de vidraceiro.",
+"c": true,
+"prof": "Impressões no local.",
+"x": "Forma um molde.",
+"e": "Moldada."
+},
+{
+"p": "A ninidrina reage com aminoácidos do suor e é especialmente útil para revelar impressões latentes em papel.",
+"c": true,
+"prof": "Revelação.",
+"x": "Outros: pós, iodo, cianoacrilato.",
+"e": "Ninidrina: papel."
+},
+{
+"p": "O vapor de cianoacrilato é usado para revelar impressões latentes, polimerizando sobre os resíduos da digital.",
+"c": true,
+"prof": "Revelação.",
+"x": "Popularmente, a técnica da \"supercola\".",
+"e": "Cianoacrilato."
+},
+{
+"p": "Na putrefação, a epiderme das mãos pode destacar-se como uma luva, que o perito pode utilizar para coletar as impressões.",
+"c": true,
+"prof": "Necropapiloscopia.",
+"x": "Luva cadavérica.",
+"e": "Luva cadavérica."
+},
+{
+"p": "Em dedos mumificados, podem ser usadas técnicas de reidratação das polpas antes da coleta das impressões.",
+"c": true,
+"prof": "Necropapiloscopia.",
+"x": "Devolve volume à pele.",
+"e": "Reidratação."
+},
+{
+"p": "Queiloscopia é o estudo dos sulcos dos lábios.",
+"c": true,
+"prof": "Outros métodos.",
+"x": "Útil em marcas de batom.",
+"e": "Queiloscopia: lábios."
+},
+{
+"p": "Rugoscopia palatina estuda as rugosidades do palato, que resistem bem ao fogo por estarem protegidas.",
+"c": true,
+"prof": "Outros métodos.",
+"x": "Também chamada palatoscopia.",
+"e": "Palato."
+},
+{
+"p": "A otoscopia, em identificação, é o estudo das impressões labiais.",
+"c": false,
+"prof": "Outros métodos.",
+"x": "Otoscopia (otomorfologia) estuda a forma da orelha; lábios são queiloscopia.",
+"e": "Oto = orelha."
+},
+{
+"p": "A diferenciação entre sangue humano e animal pode ser feita por reações imunológicas com soro anti-humano ou por DNA.",
+"c": true,
+"prof": "Espécie.",
+"x": "Primeiro confirma-se que é sangue.",
+"e": "Soro anti-humano."
+},
+{
+"p": "O exame microscópico dos canais de Havers ajuda a diferenciar fragmentos ósseos humanos e de animais.",
+"c": true,
+"prof": "Espécie.",
+"x": "Diâmetro e distribuição diferem.",
+"e": "Canais de Havers."
+},
+{
+"p": "A pelve é a estrutura óssea mais confiável para a determinação do sexo.",
+"c": true,
+"prof": "Sexo.",
+"x": "Adaptada à gestação e ao parto.",
+"e": "Sexo: pelve."
+},
+{
+"p": "O ângulo subpúbico masculino é mais amplo que o feminino.",
+"c": false,
+"prof": "Sexo.",
+"x": "O amplo é o feminino; o masculino é mais fechado.",
+"e": "Subpúbico amplo: mulher."
+},
+{
+"p": "No crânio masculino, em regra, a glabela e os arcos superciliares são mais salientes e os processos mastoides maiores.",
+"c": true,
+"prof": "Sexo.",
+"x": "O feminino é mais liso, com fronte vertical.",
+"e": "Crânio masculino robusto."
+},
+{
+"p": "As bordas superiores das órbitas tendem a ser cortantes no crânio feminino e rombas no masculino.",
+"c": true,
+"prof": "Sexo.",
+"x": "Dado clássico do crânio.",
+"e": "Órbita cortante: feminino."
+},
+{
+"p": "Em esqueletos de crianças, a estimativa do sexo pela morfologia óssea é difícil, sendo o DNA o método mais seguro.",
+"c": true,
+"prof": "Sexo.",
+"x": "As diferenças surgem na puberdade.",
+"e": "Criança: DNA."
+},
+{
+"p": "O corpúsculo de Barr (cromatina sexual) está presente em células com dois cromossomos X.",
+"c": true,
+"prof": "Sexo genético.",
+"x": "Ajuda no sexo genético; o DNA (amelogenina) também.",
+"e": "Barr."
+},
+{
+"p": "O núcleo de Béclard, centro de ossificação da epífise distal do fêmur, indica maturidade fetal.",
+"c": true,
+"prof": "Idade.",
+"x": "Importante no infanticídio e no aborto.",
+"e": "Béclard: feto a termo."
+},
+{
+"p": "O núcleo de ossificação de Béclard localiza-se:",
+"alts": [
+"na epífise proximal do úmero",
+"na epífise distal do fêmur",
+"na extremidade medial da clavícula",
+"na sínfise púbica",
+"no calcâneo"
+],
+"r": 1,
+"n": [
+"Não.",
+"Correta.",
+"É uma das últimas fusões no adulto jovem.",
+"Usada na idade do adulto.",
+"Não."
+],
+"prof": "Idade fetal.",
+"x": "Sua presença indica feto a termo.",
+"e": "Béclard: fêmur distal."
+},
+{
+"p": "A dentição decídua começa a erupcionar por volta dos 6 meses e se completa por volta dos 2 a 3 anos.",
+"c": true,
+"prof": "Idade.",
+"x": "São 20 dentes de leite.",
+"e": "Decídua."
+},
+{
+"p": "O primeiro molar permanente surge por volta dos 6 anos e o segundo molar por volta dos 12 anos.",
+"c": true,
+"prof": "Idade.",
+"x": "O terceiro molar, por volta dos 17 a 21 anos ou mais.",
+"e": "Molares: 6 e 12."
+},
+{
+"p": "A radiografia de mão e punho é usada para estimar a idade óssea de crianças e adolescentes.",
+"c": true,
+"prof": "Idade.",
+"x": "Mostra centros de ossificação e fusões.",
+"e": "Idade óssea: mão e punho."
+},
+{
+"p": "A estimativa de idade em adultos é feita em faixas, com margem de erro maior quanto mais velha a pessoa.",
+"c": true,
+"prof": "Idade.",
+"x": "Usa sínfise púbica, costelas, suturas, desgaste dentário.",
+"e": "Idade em faixas."
+},
+{
+"p": "O fechamento das suturas cranianas permite estimar com precisão de um ano a idade de um adulto.",
+"c": false,
+"prof": "Idade.",
+"x": "O fechamento é progressivo e muito variável; a estimativa é grosseira.",
+"e": "Suturas: imprecisas."
+},
+{
+"p": "A atenuante da menoridade relativa aplica-se ao agente menor de 21 anos na data do fato, e a da senilidade, ao maior de 70 anos na data da sentença.",
+"c": true,
+"prof": "CP, art. 65, I.",
+"x": "Os mesmos marcos reduzem a prescrição pela metade (art. 115).",
+"e": "21 no fato; 70 na sentença."
+},
+{
+"p": "O fêmur é o osso longo que fornece as melhores estimativas isoladas de estatura em ossadas.",
+"c": true,
+"prof": "Estatura.",
+"x": "Por tabelas e fórmulas de regressão.",
+"e": "Estatura: fêmur."
+},
+{
+"p": "As fórmulas de estimativa de estatura variam conforme o sexo e a população e fornecem resultado com margem de erro.",
+"c": true,
+"prof": "Estatura.",
+"x": "Ex.: Trotter e Gleser.",
+"e": "Estatura com margem."
+},
+{
+"p": "A antropologia forense moderna prefere o termo ancestralidade a raça, por ser a variação humana contínua e a população miscigenada.",
+"c": true,
+"prof": "Ancestralidade.",
+"x": "Classificações como a de Ottolenghi são conteúdo histórico.",
+"e": "Ancestralidade."
+},
+{
+"p": "Próteses ortopédicas e implantes podem conter número de série rastreável até o paciente.",
+"c": true,
+"prof": "Sinais individuais.",
+"x": "Útil em cadáveres e carbonizados.",
+"e": "Prótese com série."
+},
+{
+"p": "A comparação radiográfica dos seios frontais é método reconhecido de identificação, pela forma muito individual dessas cavidades.",
+"c": true,
+"prof": "Sinais individuais.",
+"x": "Compara-se com radiografias feitas em vida.",
+"e": "Seios frontais."
+},
+{
+"p": "Os dentes são as estruturas do corpo mais resistentes ao fogo e à putrefação.",
+"c": true,
+"prof": "Odontologia legal.",
+"x": "Por isso são essenciais em carbonizados.",
+"e": "Dentes resistem."
+},
+{
+"p": "A identificação odontológica faz-se pela comparação entre dados post mortem e dados ante mortem, como prontuário e radiografias do dentista.",
+"c": true,
+"prof": "Odontologia legal.",
+"x": "Sem registro anterior, só há estimativas.",
+"e": "Ante x post mortem."
+},
+{
+"p": "A comparação de marcas de mordida em pele é método infalível de identificação do agressor.",
+"c": false,
+"prof": "Odontologia legal.",
+"x": "Tem limitações (a pele se deforma); o maior valor está no DNA da saliva.",
+"e": "Mordida: limitada."
+},
+{
+"p": "Os peritos odontolegistas são peritos de natureza criminal, segundo a Lei 12.030/2009.",
+"c": true,
+"prof": "Odontologia legal.",
+"x": "Ao lado dos peritos criminais e médicos-legistas.",
+"e": "Odontolegista: perito oficial."
+},
+{
+"p": "Gêmeos univitelinos possuem o mesmo perfil de DNA nuclear.",
+"c": true,
+"prof": "DNA.",
+"x": "O exame comum não os diferencia.",
+"e": "Gêmeos: mesmo DNA."
+},
+{
+"p": "O DNA mitocondrial é herdado da mãe e é útil em material degradado, ossos antigos e cabelos sem raiz.",
+"c": true,
+"prof": "DNA.",
+"x": "Compara-se com parentes maternos.",
+"e": "Mitocondrial: mãe."
+},
+{
+"p": "O DNA do cromossomo Y é transmitido pela mãe a todos os filhos.",
+"c": false,
+"prof": "DNA.",
+"x": "Passa de pai para filho homem (linhagem paterna); o mitocondrial é materno.",
+"e": "Y: paterno."
+},
+{
+"p": "Para a identificação de cadáver por DNA, pode-se comparar o perfil com o de objetos pessoais do desaparecido ou com o de parentes biológicos.",
+"c": true,
+"prof": "DNA.",
+"x": "Pais e filhos são as melhores referências.",
+"e": "DNA: objetos ou parentes."
+},
+{
+"p": "Mancha de sangue úmida deve secar antes de ser embalada, preferencialmente em papel, para evitar a degradação do DNA.",
+"c": true,
+"prof": "Coleta de DNA.",
+"x": "Plástico fechado favorece fungos.",
+"e": "Secar e papel."
+},
+{
+"p": "Na investigação de paternidade, a exclusão é categórica e a inclusão é expressa em probabilidade.",
+"c": true,
+"prof": "DNA.",
+"x": "Se faltam os marcadores paternos, não é o pai.",
+"e": "Exclusão categórica."
+},
+{
+"p": "No processo civil, a recusa do suposto pai a submeter-se ao exame de DNA induz presunção relativa de paternidade.",
+"c": true,
+"prof": "Súmula 301/STJ.",
+"x": "Presunção juris tantum.",
+"e": "Recusa: presunção relativa."
+},
+{
+"p": "Segundo a CF, o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses previstas em lei.",
+"c": true,
+"prof": "CF, art. 5º, LVIII.",
+"x": "Lei 12.037/2009.",
+"e": "Regra constitucional."
+},
+{
+"p": "A Súmula 568 do STF, segundo a qual a identificação criminal não constituía constrangimento ilegal ainda que o indiciado já fosse identificado civilmente, foi superada pela Constituição de 1988.",
+"c": true,
+"prof": "Súmula 568/STF.",
+"x": "A CF passou a proibir, salvo exceção legal.",
+"e": "Súmula 568 superada."
+},
+{
+"p": "Segundo a Lei 12.037/2009, a carteira de identificação funcional e o passaporte atestam a identificação civil.",
+"c": true,
+"prof": "Lei 12.037/2009, art. 2º.",
+"x": "Também identidade, trabalho, profissional e outro documento público.",
+"e": "Documentos civis."
+},
+{
+"p": "Os documentos de identificação militares equiparam-se aos documentos de identificação civis.",
+"c": true,
+"prof": "Lei 12.037/2009, art. 2º, parágrafo único.",
+"x": "Previsão expressa.",
+"e": "Militar = civil."
+},
+{
+"p": "Segundo a Lei 12.037/2009, NÃO é hipótese de identificação criminal do civilmente identificado:",
+"alts": [
+"documento com indício de falsificação",
+"documentos com informações conflitantes",
+"registros policiais com uso de outros nomes",
+"documento muito antigo que impossibilite a identificação",
+"prática de crime hediondo, independentemente da documentação"
+],
+"r": 4,
+"n": [
+"Art. 3º, I.",
+"Art. 3º, III.",
+"Art. 3º, V.",
+"Art. 3º, VI.",
+"Correta: a gravidade do crime, por si, não está no rol."
+],
+"prof": "Lei 12.037/2009, art. 3º.",
+"x": "O rol é ligado à dúvida sobre a identidade ou à essencialidade para a investigação, com decisão judicial.",
+"e": "Crime hediondo não basta."
+},
+{
+"p": "A identificação criminal essencial às investigações depende de despacho da autoridade judiciária, de ofício ou mediante representação da autoridade policial, do Ministério Público ou da defesa.",
+"c": true,
+"prof": "Lei 12.037/2009, art. 3º, IV.",
+"x": "O delegado não decide sozinho.",
+"e": "Essencial: decisão judicial."
+},
+{
+"p": "A autoridade policial pode determinar, por despacho próprio, a identificação criminal do civilmente identificado quando a considerar essencial às investigações.",
+"c": false,
+"prof": "Lei 12.037/2009, art. 3º, IV.",
+"x": "Depende de despacho da autoridade judiciária; o delegado representa.",
+"e": "Delegado representa."
+},
+{
+"p": "A identificação criminal inclui o processo datiloscópico e o fotográfico.",
+"c": true,
+"prof": "Lei 12.037/2009, art. 5º.",
+"x": "E, na hipótese do art. 3º, IV, pode incluir a coleta de material biológico.",
+"e": "Datiloscópica + fotográfica."
+},
+{
+"p": "Os dados dos bancos de perfis genéticos não poderão revelar traços somáticos ou comportamentais das pessoas, exceto a determinação genética de gênero.",
+"c": true,
+"prof": "Lei 12.037/2009, art. 5º-A, § 1º.",
+"x": "Os dados são sigilosos.",
+"e": "Só gênero."
+},
+{
+"p": "A exclusão do perfil genético do banco de dados ocorre no caso de absolvição ou, no caso de condenação, mediante requerimento, após 20 anos do cumprimento da pena.",
+"c": true,
+"prof": "Lei 12.037/2009, art. 7º-A.",
+"x": "Redação do Pacote Anticrime.",
+"e": "Exclusão: absolvição ou 20 anos."
+},
+{
+"p": "Constitui falta grave a recusa do condenado em submeter-se ao procedimento de identificação do perfil genético, nas hipóteses da LEP.",
+"c": true,
+"prof": "LEP, art. 9º-A, § 8º.",
+"x": "A técnica deve ser adequada e indolor.",
+"e": "Recusa do DNA: falta grave."
+},
+{
+"p": "É vedado mencionar a identificação criminal do indiciado em atestados de antecedentes ou em informações não destinadas ao juízo criminal, antes do trânsito em julgado da sentença condenatória.",
+"c": true,
+"prof": "Lei 12.037/2009, art. 6º.",
+"x": "Protege a pessoa ainda não condenada.",
+"e": "Antecedentes: não mencionar."
+},
+{
+"p": "Arquivado definitivamente o inquérito, rejeitada a denúncia ou absolvido o réu, é facultado a ele requerer a retirada da identificação fotográfica dos autos, desde que apresente provas de sua identificação civil.",
+"c": true,
+"prof": "Lei 12.037/2009, art. 7º.",
+"x": "Após o arquivamento definitivo ou o trânsito em julgado.",
+"e": "Retirar a foto."
+},
+{
+"p": "No reconhecimento de pessoas, quem vai reconhecer é primeiro convidado a descrever a pessoa a ser reconhecida.",
+"c": true,
+"prof": "CPP, art. 226, I.",
+"x": "Depois, a pessoa é colocada ao lado de outras semelhantes, se possível.",
+"e": "Primeiro descrever."
+},
+{
+"p": "A providência para que a pessoa a ser reconhecida não veja quem faz o reconhecimento não se aplica na fase da instrução criminal ou em plenário de julgamento.",
+"c": true,
+"prof": "CPP, art. 226, parágrafo único.",
+"x": "Refere-se ao inciso III.",
+"e": "Isolamento: só no inquérito."
+},
+{
+"p": "Segundo o protocolo DVI da Interpol, os métodos primários de identificação são a papiloscopia, a odontologia e o DNA.",
+"c": true,
+"prof": "Identificação em desastres.",
+"x": "Os demais são secundários.",
+"e": "Primários: digitais, dentes, DNA."
+},
+{
+"p": "Documentos e objetos pessoais encontrados junto ao corpo constituem método primário de identificação.",
+"c": false,
+"prof": "Identificação em desastres.",
+"x": "São indícios secundários: podem ter sido trocados ou deslocados.",
+"e": "Objetos: secundários."
+},
+{
+"p": "Em corpos carbonizados, a arcada dentária e o DNA de ossos e dentes costumam ser os métodos principais de identificação.",
+"c": true,
+"prof": "Carbonizados.",
+"x": "As digitais costumam ser destruídas.",
+"e": "Carbonizado: dentes e DNA."
+},
+{
+"p": "O reconhecimento visual de corpos desfigurados por familiares é pouco confiável e deve, sempre que possível, ser confirmado por método primário.",
+"c": true,
+"prof": "Identificação de cadáveres.",
+"x": "Há muitos casos de engano.",
+"e": "Reconhecimento visual: frágil."
+},
+{
+"p": "O ECA obriga os estabelecimentos de saúde a identificar o recém-nascido mediante o registro de sua impressão plantar e digital e da impressão digital da mãe.",
+"c": true,
+"prof": "ECA, art. 10, II.",
+"x": "Medida contra troca e subtração de bebês.",
+"e": "RN: plantar + digital da mãe."
+},
+{
+"p": "Segundo a Súmula 522 do STJ, a conduta de atribuir-se falsa identidade perante autoridade policial é típica, ainda que em situação de alegada autodefesa.",
+"c": true,
+"prof": "Súmula 522/STJ; CP, art. 307.",
+"x": "Não se aplica a tese da autodefesa.",
+"e": "Falsa identidade: típica."
+},
+{
+"p": "A Lei 14.534/2023 adotou o número do CPF como número suficiente para a identificação do cidadão nos bancos de dados de serviços públicos.",
+"c": true,
+"prof": "Lei 14.534/2023.",
+"x": "A Carteira de Identidade Nacional usa o CPF.",
+"e": "CPF: número único."
+},
+{
+"p": "A impressão rolada registra toda a polpa digital, inclusive os deltas, e permite a classificação; a pousada serve para conferir a ordem dos dedos na ficha.",
+"c": true,
+"prof": "Coleta de impressões.",
+"x": "Ficha decadactilar: dez dedos.",
+"e": "Rolada x pousada."
+},
+{
+"p": "Uma impressão digital parcial encontrada no local pode permitir a identificação, desde que tenha pontos característicos suficientes e nítidos.",
+"c": true,
+"prof": "Confronto papiloscópico.",
+"x": "Fragmentos são comuns no local.",
+"e": "Fragmento serve."
+},
+{
+"p": "A comparação microscópica de pelos é pouco individualizadora, sendo o DNA do bulbo o exame que identifica a pessoa.",
+"c": true,
+"prof": "Pelos.",
+"x": "O microscópio aponta semelhança, não identidade.",
+"e": "Pelo: DNA do bulbo."
+},
+{
+"p": "O luminol é prova de orientação útil para localizar vestígios de sangue em locais que foram lavados.",
+"c": true,
+"prof": "Manchas de sangue.",
+"x": "Depois são necessárias provas de certeza, de espécie e DNA.",
+"e": "Luminol: orientação."
+},
+{
+"p": "A pesquisa do antígeno prostático específico (PSA) ajuda a identificar sêmen mesmo quando o agressor não tem espermatozoides, como em vasectomizados.",
+"c": true,
+"prof": "Manchas de sêmen.",
+"x": "Também a fosfatase ácida.",
+"e": "PSA: sêmen sem espermatozoides."
+},
+{
+"p": "A presença de ossos repetidos, como dois fêmures direitos, indica a existência de pelo menos dois indivíduos.",
+"c": true,
+"prof": "Ossadas.",
+"x": "Número mínimo de indivíduos.",
+"e": "NMI."
+},
+{
+"p": "Fratura óssea com calo de consolidação indica lesão antemortem antiga, à qual a pessoa sobreviveu.",
+"c": true,
+"prof": "Ossadas.",
+"x": "Lesão perimortem não tem sinais de consolidação.",
+"e": "Calo: sobreviveu."
+},
+{
+"p": "Tafonomia é o estudo do que acontece com o corpo após a morte até ser encontrado.",
+"c": true,
+"prof": "Ossadas.",
+"x": "Ajuda a separar lesões do crime de efeitos do ambiente.",
+"e": "Tafonomia."
+},
+{
+"p": "O retrato falado é método de identificação individual de alto grau de certeza.",
+"c": false,
+"prof": "Retrato falado.",
+"x": "Depende da memória da testemunha e serve para divulgação e busca.",
+"e": "Retrato falado: busca."
+},
+{
+"p": "O alerta de um sistema de reconhecimento facial é ponto de partida da investigação e precisa ser confirmado por outros elementos.",
+"c": true,
+"prof": "Reconhecimento facial.",
+"x": "Há margens de erro.",
+"e": "Facial: indício."
+},
+{
+"p": "A presença de uma impressão digital em um objeto do local prova que a pessoa tocou o objeto, mas não demonstra, por si só, a autoria do crime.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "É preciso ligar o fato às demais provas.",
+"e": "Digital: contato, não autoria."
+},
+{
+"p": "A Lei 13.812/2019 instituiu a Política Nacional de Busca de Pessoas Desaparecidas e o Cadastro Nacional de Pessoas Desaparecidas.",
+"c": true,
+"prof": "Lei 13.812/2019.",
+"x": "A busca é prioridade, com caráter de urgência.",
+"e": "Desaparecidos: Lei 13.812."
+},
+{
+"p": "A comunicação do desaparecimento de uma pessoa só pode ser registrada após 24 horas.",
+"c": false,
+"prof": "Lei 13.812/2019; ECA, art. 208, § 2º.",
+"x": "Não existe esse prazo; para crianças e adolescentes, a investigação é imediata.",
+"e": "Sem espera de 24 h."
+},
+{
+"p": "Antes do sepultamento de cadáver não identificado, devem ser registrados fotografias, impressões digitais, dados odontológicos e coletado material para DNA.",
+"c": true,
+"prof": "Cadáveres não identificados.",
+"x": "Permite identificar depois, sem exumação.",
+"e": "Registrar antes de sepultar."
+},
+{
+"p": "O STF reconheceu às pessoas transgênero o direito à alteração do prenome e do sexo no registro civil diretamente no cartório, independentemente de cirurgia.",
+"c": true,
+"prof": "STF, ADI 4.275.",
+"x": "Independe de laudos e de ação judicial.",
+"e": "Retificação no cartório."
+},
+{
+"p": "A fusão da extremidade medial da clavícula é uma das últimas a ocorrer e auxilia a estimativa de idade de adultos jovens.",
+"c": true,
+"prof": "Idade.",
+"x": "Avaliada por tomografia.",
+"e": "Clavícula medial."
+},
+{
+"p": "Na estimativa de idade de pessoas vivas, recomenda-se combinar mais de um método e expressar o resultado em faixa.",
+"c": true,
+"prof": "Idade.",
+"x": "Nutrição, doenças e origem alteram o crescimento.",
+"e": "Vários métodos, faixa."
+},
+{
+"p": "Segundo o princípio de Locard, todo contato entre duas superfícies deixa vestígios recíprocos.",
+"c": true,
+"prof": "Princípio da troca.",
+"x": "Base da busca de vestígios na Criminalística.",
+"e": "Locard: troca."
+},
+{
+"p": "Os métodos dentários radiográficos, que avaliam as fases de formação de coroas e raízes, são especialmente confiáveis para estimar a idade de crianças.",
+"c": true,
+"prof": "Idade.",
+"x": "A formação dentária segue ritmo regular.",
+"e": "Dentes: crianças."
+},
 {
 "p": "Para a determinação do sexo em ossada, o crânio é a peça mais confiável, superando a pelve.",
 "c": false,
@@ -9261,11 +11417,740 @@ export const PROFUNDO = {
 "x": "Arco: nenhum delta; presilhas: um delta (à direita ou à esquerda); verticilo: dois deltas.",
 "e": "Verticilo: dois deltas."
 }
-]
+],
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>requisitos da identificação: unicidade, imutabilidade, perenidade, praticabilidade e classificabilidade</span></div><div class=\"lt-stat\"><b>4</b><span>tipos fundamentais de Vucetich: arco, presilha interna, presilha externa e verticilo</span></div><div class=\"lt-stat\"><b>1</b><span>peça mais confiável para estimar o sexo em ossada: a pelve</span></div><div class=\"lt-stat\"><b>12.037</b><span>lei da identificação criminal</span></div></div>\n<h3>1. Identidade e identificação</h3>\n<ul><li><b>Identidade</b> é o conjunto de caracteres que tornam uma pessoa <b>única</b>. <b>Identificação</b> é o <b>processo</b> técnico de estabelecer essa identidade. <b>Reconhecimento</b> é ato de prova baseado na <b>memória</b> de alguém (CPP, art. 226), distinto da identificação técnica.</li><li><b>Identificação médico-legal</b>: feita pelo perito médico, com base em caracteres biológicos (sexo, idade, estatura, ancestralidade, sinais particulares, arcada dentária, DNA), útil sobretudo em <b>cadáveres</b> e ossadas. <b>Identificação judiciária ou policial</b>: feita por técnicos, principalmente pela <b>datiloscopia</b>.</li></ul>\n<h3>2. Requisitos de um bom método</h3>\n<ul><li><b>Unicidade</b> (individualidade: só aquela pessoa tem), <b>imutabilidade</b> (não muda com o tempo), <b>perenidade</b> (persiste por toda a vida e até após a morte), <b>praticabilidade</b> (fácil de coletar e barato) e <b>classificabilidade</b> (permite arquivar e pesquisar). A <b>datiloscopia</b> atende a todos.</li></ul>\n<h3>3. Datiloscopia</h3>\n<ul><li>Método de identificação pelas <b>impressões digitais</b>, sistematizado no Brasil pelo método de <b>Juan Vucetich</b> (adotado em 1903). Classifica os desenhos em quatro tipos fundamentais, pelo número de <b>deltas</b>: <b>arco</b> (sem delta), <b>presilha interna</b> (delta à direita do observador), <b>presilha externa</b> (delta à esquerda) e <b>verticilo</b> (dois deltas).</li><li>A identificação positiva se faz pela coincidência de <b>pontos característicos</b> (minúcias: bifurcações, terminações de linhas, ilhotas). <b>Papiloscopia</b> é o gênero (inclui impressões palmares e plantares); <b>datiloscopia</b> é a das pontas dos dedos.</li><li>O <b>antigo método de Bertillon</b> (antropometria: medidas do corpo) foi abandonado por falta de precisão.</li></ul>\n<h3>4. Ossadas: sexo, idade, estatura</h3>\n<ul><li><b>Sexo</b>: a <b>pelve</b> é a peça <b>mais confiável</b> (a feminina é mais larga, com ângulo subpúbico mais aberto, adaptada ao parto); o <b>crânio</b> vem em segundo lugar (o masculino tem relevos mais marcados, mandíbula mais robusta). Em uma questão que afirme que o crânio supera a pelve, a resposta é <b>errada</b>.</li><li><b>Idade</b>: pelo grau de <b>ossificação</b> (fechamento das epífises e suturas cranianas) e pelos <b>dentes</b> (erupção e desgaste), mais precisos na infância e na adolescência.</li><li><b>Estatura</b>: estimada a partir do comprimento dos <b>ossos longos</b> (fêmur, úmero), por tabelas.</li><li><b>Odontologia legal</b>: a <b>arcada dentária</b> (restaurações, próteses, ausências) é muito usada em corpos <b>carbonizados</b> ou em decomposição, comparando com fichas e radiografias do dentista.</li></ul>\n<h3>5. DNA e identificação criminal</h3>\n<ul><li>O <b>exame de DNA</b> pode ser feito a partir de <b>sangue, sêmen, saliva, cabelo com bulbo, ossos, dentes, pele</b> e outros vestígios biológicos. Fio de cabelo <b>sem bulbo</b> permite apenas DNA mitocondrial, menos individualizante.</li><li><b>Lei 12.037/2009</b>: o <b>civilmente identificado não será submetido a identificação criminal</b>, salvo nas hipóteses legais (documento com <b>rasura ou indício de falsificação</b>, insuficiente, conflitante, essencial às investigações por decisão judicial, uso de outros nomes, mau estado ou antiguidade do documento). Documento com <b>foto adulterada</b> autoriza a identificação criminal pela autoridade, sem ordem judicial.</li><li><b>LEP, art. 9º-A</b>: identificação do <b>perfil genético</b> dos <b>condenados</b> por crime doloso com <b>violência grave contra a pessoa</b>, contra a <b>vida</b>, contra a <b>liberdade sexual</b> ou <b>sexual contra vulnerável</b>, por <b>técnica adequada e indolor</b>. A recusa é <b>falta grave</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O crânio é mais confiável que a pelve para o sexo</span><br>✅ <span class=\"certo\">A pelve é a mais confiável.</span></li><li>❌ <span class=\"banca\">Reconhecimento de pessoas é identificação técnica</span><br>✅ <span class=\"certo\">É ato de prova baseado na memória (CPP, art. 226).</span></li><li>❌ <span class=\"banca\">O DNA do condenado pode ser colhido por qualquer meio</span><br>✅ <span class=\"certo\">Técnica adequada e INDOLOR.</span></li><li>❌ <span class=\"banca\">Cabelo sem bulbo dá DNA nuclear completo</span><br>✅ <span class=\"certo\">Só mitocondrial.</span></li><li>❌ <span class=\"banca\">O verticilo não tem delta</span><br>✅ <span class=\"certo\">Tem dois; o arco é que não tem.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Requisitos da identificação?</span></span><span class=\"vs\"><span><b>Unicidade, imutabilidade, perenidade, praticabilidade, classificabilidade</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Método datiloscópico brasileiro?</span></span><span class=\"vs\"><span><b>Vucetich</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arco?</span></span><span class=\"vs\"><span><b>Sem delta</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Verticilo?</span></span><span class=\"vs\"><span><b>Dois deltas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sexo em ossada?</span></span><span class=\"vs\"><span><b>Pelve</b> (depois o crânio).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Corpo carbonizado?</span></span><span class=\"vs\"><span><b>Arcada dentária</b> e DNA.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Identificação criminal do civilmente identificado?</span></span><span class=\"vs\"><span>Só nas hipóteses da <b>Lei 12.037/2009</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>DNA de condenados?</span></span><span class=\"vs\"><span><b>LEP, art. 9º-A</b>; técnica indolor.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A ossada na mata</b><p>Uma ossada é encontrada em área rural. A família de um desaparecido acredita que seja dele.</p><details><summary>Ver a solução comentada</summary><p>A perícia estima o <b>sexo pela pelve</b>, a <b>idade</b> pela ossificação e pelos dentes, e a <b>estatura</b> pelos ossos longos. A <b>arcada dentária</b> pode ser comparada com a ficha do dentista do desaparecido. A confirmação definitiva vem do <b>DNA</b> (ossos ou dentes), comparado com amostras de <b>familiares</b> (pais, filhos). O reconhecimento visual pela família não serve para ossadas.</p></details></div>"
 },
 "energias-fisicas": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>graus de queimadura (Hofmann)</span></div><div class=\"lt-stat\"><b>9%</b><span>regra dos 9: cada membro superior representa 9% da superfície corporal</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de lesão elétrica: eletroplessão (raio) e eletrocussão (industrial)</span></div><div class=\"lt-stat\"><b>3</b><span>lesões pelo frio: eritema, flictena e necrose (geladura)</span></div></div>\n<h3>1. Energias de ordem física</h3>\n<ul><li>São as energias capazes de lesionar o corpo <b>sem</b> ser mecânicas: <b>temperatura</b> (calor e frio), <b>eletricidade</b>, <b>pressão atmosférica</b>, <b>radioatividade</b>, <b>luz</b> e <b>som</b>. As mais cobradas são <b>calor</b>, <b>eletricidade</b> e <b>frio</b>.</li></ul>\n<h3>2. Calor</h3>\n<ul><li><b>Termonoses</b> (calor difuso): <b>insolação</b> (calor do sol, ao ar livre) e <b>intermação</b> (ambiente fechado e quente, como caldeiras ou um carro fechado ao sol). A morte de criança esquecida em carro fechado é <b>intermação</b>.</li><li><b>Queimaduras</b> (calor direto): <b>classificação de Hofmann</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Grau</th><th>Atinge</th><th>Aspecto</th></tr></thead><tbody><tr><td><b>1º</b></td><td><b>epiderme</b></td><td><b>eritema</b> (vermelhidão), dor; regride sem cicatriz (queimadura solar)</td></tr><tr><td><b>2º</b></td><td>epiderme e <b>derme</b></td><td><b>flictenas</b> (bolhas com líquido)</td></tr><tr><td><b>3º</b></td><td>tecidos <b>profundos</b> (subcutâneo, músculos)</td><td><b>necrose</b>, escara, área insensível; cicatriz</td></tr><tr><td><b>4º</b></td><td>todos os planos, inclusive ossos</td><td><b>carbonização</b></td></tr></tbody></table>\n<ul><li><b>Gravidade</b>: depende mais da <b>extensão</b> (percentual da superfície corporal) do que da profundidade. A <b>regra dos 9</b> (Wallace) estima a superfície no adulto: cabeça e pescoço <b>9%</b>; cada membro superior <b>9%</b>; tronco anterior <b>18%</b>; tronco posterior <b>18%</b>; cada membro inferior <b>18%</b>; períneo <b>1%</b>.</li><li><b>Reação vital</b>: queimaduras produzidas em <b>vida</b> têm <b>flictenas com líquido rico em proteínas</b> e halo inflamatório (sinal de Chambert); as produzidas <b>após a morte</b> não têm reação inflamatória. No <b>carbonizado</b>, a presença de <b>fuligem nas vias aéreas</b> e <b>carboxiemoglobina</b> elevada indica que a vítima estava viva durante o incêndio.</li><li><b>Posição de boxeador (pugilística)</b>: o cadáver carbonizado fica com membros flexionados pela retração muscular causada pelo calor; <b>não</b> indica luta.</li></ul>\n<h3>3. Eletricidade</h3>\n<ul><li><b>Eletroplessão</b>: eletricidade <b>natural</b> (<b>raio</b>). Pode deixar as <b>figuras de Lichtenberg</b>: desenhos <b>arborescentes</b> (em forma de folha de samambaia) avermelhados na pele, que desaparecem em horas ou dias. Os corpos fulminados podem ter queimaduras, roupas rasgadas e objetos metálicos magnetizados.</li><li><b>Eletrocussão</b>: eletricidade <b>industrial</b> (artificial: rede elétrica). Marca típica: <b>marca elétrica de Jellinek</b>, lesão <b>endurecida, esbranquiçada ou amarelada, indolor</b>, com bordas elevadas, no <b>ponto de entrada</b> da corrente. Pode haver lesão de saída. A morte ocorre geralmente por <b>fibrilação ventricular</b> ou parada respiratória.</li><li><b>Eletrocussão</b> também designa a execução por cadeira elétrica (nos EUA).</li></ul>\n<h3>4. Frio e outras energias</h3>\n<ul><li><b>Frio</b>: lesões locais (<b>geladuras</b>: eritema, flictenas, necrose, de acordo com a intensidade) e efeitos gerais (<b>hipotermia</b>). Na morte pelo frio, encontram-se <b>manchas de Wischnewski</b> (pequenas erosões hemorrágicas na mucosa do estômago).</li><li><b>Pressão atmosférica</b>: <b>barotrauma</b>; doença descompressiva dos mergulhadores (embolia gasosa); \"mal das montanhas\" na altitude.</li><li><b>Radiação</b>: radiodermites, síndrome aguda da radiação (o acidente com césio-137 em Goiânia, 1987, é exemplo).</li><li><b>Explosões</b> combinam energias: mecânica (onda de choque, estilhaços), térmica (calor) e química.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Criança morta em carro fechado ao sol é insolação</span><br>✅ <span class=\"certo\">É INTERMAÇÃO (ambiente fechado).</span></li><li>❌ <span class=\"banca\">Figuras de Lichtenberg são da eletricidade industrial</span><br>✅ <span class=\"certo\">São do RAIO (eletroplessão).</span></li><li>❌ <span class=\"banca\">A marca de Jellinek aparece no raio</span><br>✅ <span class=\"certo\">Aparece na eletricidade industrial.</span></li><li>❌ <span class=\"banca\">Posição de boxeador indica luta</span><br>✅ <span class=\"certo\">Decorre da retração muscular pelo calor.</span></li><li>❌ <span class=\"banca\">2º grau é necrose</span><br>✅ <span class=\"certo\">2º grau são flictenas; 3º, necrose.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Insolação x intermação?</span></span><span class=\"vs\"><span>Sol <b>ao ar livre</b> x ambiente <b>fechado</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Queimaduras de Hofmann?</span></span><span class=\"vs\"><span>1º eritema; 2º <b>flictenas</b>; 3º necrose; 4º <b>carbonização</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra dos 9?</span></span><span class=\"vs\"><span>Cada membro superior <b>9%</b>; cada inferior <b>18%</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Raio?</span></span><span class=\"vs\"><span><b>Eletroplessão</b>; figuras de <b>Lichtenberg</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eletricidade industrial?</span></span><span class=\"vs\"><span><b>Eletrocussão</b>; marca de <b>Jellinek</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carbonizado vivo?</span></span><span class=\"vs\"><span><b>Fuligem</b> nas vias aéreas e <b>carboxiemoglobina</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Posição pugilística?</span></span><span class=\"vs\"><span>Retração muscular pelo <b>calor</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Morte pelo frio?</span></span><span class=\"vs\"><span>Manchas de <b>Wischnewski</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O eletricista e o agricultor</b><p>Dois corpos chegam ao IML: um eletricista encontrado junto a um poste, com lesão endurecida e amarelada na palma da mão; e um agricultor encontrado no campo após uma tempestade, com desenhos arborescentes avermelhados no tronco.</p><details><summary>Ver a solução comentada</summary><p>O eletricista apresenta <b>marca elétrica de Jellinek</b>, típica da <b>eletrocussão</b> (eletricidade industrial), no ponto de entrada da corrente. O agricultor apresenta <b>figuras de Lichtenberg</b>, típicas da <b>eletroplessão</b> (raio). Em ambos, a causa da morte é física (energia elétrica), e a perícia deve afastar outras hipóteses.</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>graus de queimadura (eritema, flictena, escara, carbonização)</span></div><div class=\"lt-stat\"><b>9%</b><span>cada membro superior na regra dos nove</span></div><div class=\"lt-stat\"><b>2</b><span>nomes da morte por eletricidade industrial (eletroplessão) e por raio (fulminação)</span></div><div class=\"lt-stat\"><b>3</b><span>sinais clássicos de vida no incêndio: fuligem nas vias aéreas, carboxi-hemoglobina e reação vital</span></div></div>\n<h3>1. O que são as energias de ordem física</h3>\n<ul><li>Na classificação das energias lesivas, as <b>energias de ordem física</b> são as que alteram o corpo <b>sem ação mecânica direta</b> (não são pancada, corte ou perfuração) e <b>sem ação química</b>: são a <b>temperatura</b> (calor e frio), a <b>pressão atmosférica</b>, a <b>eletricidade</b>, as <b>radiações</b>, a <b>luz</b> e o <b>som</b>.</li><li>Este tópico estuda também as energias <b>bioquímicas</b> (perturbações alimentares, autointoxicações e infecções), <b>biodinâmicas</b> (choque e falência de órgãos) e <b>mistas</b> (fadiga, doenças parasitárias e <b>sevícias</b>, isto é, maus-tratos), além das síndromes de violência contra crianças.</li></ul>\n<table class=\"tab\"><thead><tr><th>Energia</th><th>Agentes</th><th>Lesões e quadros típicos</th></tr></thead><tbody><tr><td><b>Física: temperatura</b></td><td>calor (sol, ambiente quente, chama, líquidos, sólidos aquecidos) e frio</td><td><b>termonoses</b> (insolação, intermação), <b>queimaduras</b>, <b>geladuras</b>, <b>hipotermia</b></td></tr><tr><td><b>Física: pressão</b></td><td>aumento (mergulho, câmaras) e diminuição (altitude, aviação)</td><td><b>barotraumas</b>, <b>doença descompressiva</b>, <b>mal das montanhas</b></td></tr><tr><td><b>Física: eletricidade</b></td><td><b>natural</b> (raio) e <b>artificial</b> ou industrial (rede elétrica)</td><td><b>fulguração</b> e <b>fulminação</b> (raio); <b>eletroplessão</b> (rede); <b>marca elétrica de Jellinek</b>; <b>figuras de Lichtenberg</b></td></tr><tr><td><b>Física: radiações</b></td><td>ionizantes (raios X, gama) e não ionizantes (ultravioleta, infravermelho, laser)</td><td><b>radiodermites</b>, síndrome aguda da radiação, queimaduras, lesões oculares</td></tr><tr><td><b>Física: luz e som</b></td><td>luz intensa, laser; ruído, explosão</td><td>lesões oculares; <b>trauma acústico</b>, perda auditiva</td></tr><tr><td><b>Bioquímica</b></td><td>falta de alimentos, autointoxicações, infecções</td><td><b>inanição</b>, caquexia</td></tr><tr><td><b>Biodinâmica</b></td><td>choque, falência de órgãos</td><td><b>choque</b> hipovolêmico, séptico etc.; falência múltipla</td></tr><tr><td><b>Mista</b></td><td>fadiga, parasitoses, <b>sevícias</b></td><td><b>síndrome da criança espancada</b>, maus-tratos a idosos</td></tr></tbody></table>\n<h3>2. Calor: as termonoses (insolação e intermação)</h3>\n<ul><li><b>Termonoses</b> são os quadros causados pelo <b>calor ambiental</b> sobre o organismo <b>como um todo</b> (e não por contato direto com fonte quente). O corpo não consegue perder calor e a temperatura interna sobe, podendo levar a <b>colapso</b>, <b>convulsões</b>, falência de órgãos e <b>morte</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Termonose</th><th>Causa</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Insolação</b></td><td>exposição prolongada ao <b>sol</b>, ao <b>ar livre</b></td><td>trabalhador rural, soldado em marcha, criança na praia sem proteção</td></tr><tr><td><b>Intermação</b></td><td>calor em <b>ambiente fechado</b>, <b>úmido</b> e <b>sem ventilação</b> (calor confinado, sem sol direto)</td><td>caldeiras, porões de navios, fornos, <b>criança esquecida dentro do carro</b> fechado</td></tr></tbody></table>\n<ul><li><b>Achados</b>: na necropsia, os achados são pouco específicos (congestão, edema, pequenas hemorragias); o diagnóstico depende muito do <b>histórico</b> e do <b>local</b> (temperatura do ambiente, tempo de exposição).</li><li><b>Interesse jurídico</b>: mortes de crianças <b>esquecidas em veículos</b>, de trabalhadores em condições inadequadas (infortunística) e de pessoas submetidas a <b>maus-tratos</b> ou <b>tortura</b> em locais fechados e quentes.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Insolação ocorre em ambiente fechado e úmido</span><br>✅ <span class=\"certo\">Isso é <b>intermação</b>; a insolação é pelo <b>sol</b>, ao ar livre</span></li><li>❌ <span class=\"banca\">Termonose é queimadura por contato</span><br>✅ <span class=\"certo\">Termonose é efeito <b>geral</b> do <b>calor ambiental</b>; queimadura é <b>lesão local</b> por contato ou radiação</span></li></ol></div>\n<h3>3. Queimaduras: conceito, agentes e graus</h3>\n<ul><li><b>Queimadura</b> é a lesão <b>local</b> produzida pelo <b>calor</b> que age diretamente sobre os tecidos, seja por <b>chama</b>, <b>líquidos ferventes</b> (escaldaduras), <b>sólidos aquecidos</b> (ferro de passar, metal quente), <b>gases</b> e vapores, <b>radiação</b> (sol, fontes intensas) ou <b>eletricidade</b>. Agentes <b>químicos</b> (ácidos e bases) produzem lesões semelhantes, estudadas em Toxicologia (cáusticos).</li><li><b>Classificação em graus</b> mais usada na Medicina Legal (Hoffmann e Lussena, entre outros):</li></ul>\n<table class=\"tab\"><thead><tr><th>Grau</th><th>Lesão</th><th>Características</th></tr></thead><tbody><tr><td><b>1º grau</b></td><td><b>eritema</b></td><td>vermelhidão, ardor, sem bolhas; regride em poucos dias, sem cicatriz (ex.: queimadura de sol leve)</td></tr><tr><td><b>2º grau</b></td><td><b>flictena</b> (bolha)</td><td>bolhas com líquido; dor intensa; pode cicatrizar sem sequela se superficial</td></tr><tr><td><b>3º grau</b></td><td><b>escara</b> (necrose)</td><td>destruição da pele em toda a espessura, com crosta escura ou branca, endurecida; <b>cicatriz</b> e retrações</td></tr><tr><td><b>4º grau</b></td><td><b>carbonização</b></td><td>destruição profunda de tecidos, músculos e ossos; corpo enegrecido e endurecido</td></tr></tbody></table>\n<ul><li>Na clínica médica moderna, fala-se em <b>1º, 2º (superficial e profundo) e 3º graus</b>; a classificação em <b>quatro graus</b>, com a <b>carbonização</b>, é a mais cobrada em Medicina Legal.</li><li><b>Gravidade</b>: depende mais da <b>extensão</b> (porcentagem da superfície corporal queimada) do que da profundidade. Queimaduras extensas, mesmo de 2º grau, podem matar por <b>choque</b>, perda de líquidos, infecção e falência de órgãos.</li><li><b>Regra dos nove</b> (de Wallace), para estimar a superfície corporal queimada no adulto:</li></ul>\n<table class=\"tab\"><thead><tr><th>Região</th><th>Porcentagem</th></tr></thead><tbody><tr><td><b>Cabeça e pescoço</b></td><td><b>9%</b></td></tr><tr><td><b>Cada membro superior</b></td><td><b>9%</b> (total 18%)</td></tr><tr><td><b>Tronco anterior</b></td><td><b>18%</b></td></tr><tr><td><b>Tronco posterior</b></td><td><b>18%</b></td></tr><tr><td><b>Cada membro inferior</b></td><td><b>18%</b> (total 36%)</td></tr><tr><td><b>Períneo</b> (genitais)</td><td><b>1%</b></td></tr></tbody></table>\n<ul><li>Em <b>crianças</b>, a cabeça é proporcionalmente <b>maior</b> e os membros inferiores <b>menores</b>, e usam-se tabelas próprias.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Flictena é a queimadura de 1º grau</span><br>✅ <span class=\"certo\">1º grau = <b>eritema</b>; <b>flictena</b> (bolha) = <b>2º grau</b></span></li><li>❌ <span class=\"banca\">A gravidade da queimadura depende apenas da profundidade</span><br>✅ <span class=\"certo\">A <b>extensão</b> costuma pesar mais que a profundidade</span></li><li>❌ <span class=\"banca\">Pela regra dos nove, cada membro inferior corresponde a 9%</span><br>✅ <span class=\"certo\">Cada membro <b>inferior</b> = <b>18%</b>; cada membro <b>superior</b> = <b>9%</b></span></li></ol></div>\n<h3>4. Queimaduras: o que o perito descobre</h3>\n<ul><li><b>Forma e agente</b>: <b>sólidos aquecidos</b> reproduzem o <b>formato</b> do objeto (ferro de passar, grelha, ponta de cigarro, que deixa lesões <b>circulares</b> de cerca de 1 cm, muito sugestivas de <b>tortura ou maus-tratos</b> quando múltiplas); <b>líquidos</b> (escaldaduras) formam <b>escorrimentos</b>, mais intensos no ponto de contato e diminuindo para baixo, e em regra <b>não queimam os pelos</b> (diferente da chama); <b>chama</b> queima <b>pelos e roupas</b> e tende a subir.</li><li><b>Escaldadura por imersão</b> (criança colocada em água quente): lesões de <b>limites nítidos</b>, em \"<b>luva</b>\" ou \"<b>meia</b>\", simétricas, sem respingos, poupando as dobras flexionadas (a criança encolhe as pernas). É padrão forte de <b>maus-tratos</b>, diferente da queimadura acidental (por derramamento), que é irregular, com respingos.</li><li><b>Queimadura em vida ou depois da morte</b>: o <b>sinal de Chambert</b> compara as flictenas: a flictena <b>vital</b> tem conteúdo rico em <b>albumina e leucócitos</b> e base <b>avermelhada</b>, com reação inflamatória; a flictena <b>post mortem</b> (por calor sobre o cadáver ou por putrefação) tem conteúdo <b>pobre</b> (às vezes só <b>gás</b>), sem reação inflamatória na base.</li><li><b>A vítima estava viva no incêndio?</b> Os principais sinais: <b>fuligem nas vias aéreas</b> abaixo das cordas vocais (traqueia, brônquios), às vezes também no <b>esôfago e no estômago</b> (a vítima respirava e engolia), o que se descreve como <b>sinal de Montalti</b>; <b>carboxi-hemoglobina</b> elevada no sangue (a vítima respirou o <b>monóxido de carbono</b> da fumaça), que dá aos <b>livores e ao sangue cor vermelho-cereja</b>; e <b>reação vital</b> nas queimaduras (flictenas vitais, inflamação). Se o corpo foi <b>queimado depois de morto</b> (para ocultar um homicídio), faltam esses sinais.</li></ul>\n<table class=\"tab\"><thead><tr><th>Indício de que a vítima estava <b>viva</b> no incêndio</th><th>Indício de que o corpo foi queimado <b>após a morte</b></th></tr></thead><tbody><tr><td><b>fuligem</b> na traqueia e nos brônquios (e no estômago)</td><td>vias aéreas <b>limpas</b>, sem fuligem abaixo da glote</td></tr><tr><td><b>carboxi-hemoglobina</b> elevada; sangue e livores vermelho-cereja</td><td>carboxi-hemoglobina <b>normal</b></td></tr><tr><td>flictenas <b>vitais</b> (sinal de Chambert), reação inflamatória</td><td>flictenas pobres em albumina, sem reação</td></tr><tr><td>pode haver outras lesões, mas a causa da morte é compatível com o fogo</td><td><b>outras lesões</b> que explicam a morte (facada, tiro, esganadura) sem reação ao fogo</td></tr></tbody></table>\n<ul><li><b>Posição de boxeador</b> (pugilística ou de lutador): o cadáver carbonizado fica com braços e pernas <b>flexionados</b>, como um lutador em guarda. É efeito do <b>calor</b>, que <b>retrai os músculos</b> (coagulação das proteínas), e <b>não indica</b> que a vítima estivesse lutando ou se defendendo.</li><li><b>Fraturas e \"hematoma\" pelo calor</b>: o calor intenso pode causar <b>fraturas</b> do crânio e dos ossos longos e um acúmulo de sangue entre o crânio e a dura-máter de <b>cor achocolatada</b> e aspecto esponjoso (<b>hematoma extradural térmico</b>, post mortem). O perito deve diferenciá-los de lesões <b>traumáticas</b> produzidas antes do fogo (que teriam características de lesão vital).</li><li><b>Identificação</b> do carbonizado: <b>dentes</b> e <b>DNA</b> (de ossos, dentes, sangue cardíaco preservado), próteses e implantes (ver Antropologia).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A posição de boxeador indica que a vítima lutou antes de morrer</span><br>✅ <span class=\"certo\">É efeito do <b>calor</b> (retração muscular), sem relação com luta</span></li><li>❌ <span class=\"banca\">Fuligem só na boca e no nariz prova que a vítima respirava no incêndio</span><br>✅ <span class=\"certo\">O sinal valioso é a fuligem <b>abaixo das cordas vocais</b> (traqueia, brônquios)</span></li><li>❌ <span class=\"banca\">Escaldadura queima os pelos como a chama</span><br>✅ <span class=\"certo\">Líquidos quentes em regra <b>poupam os pelos</b>; a chama os queima</span></li><li>❌ <span class=\"banca\">Fratura do crânio em carbonizado prova agressão anterior</span><br>✅ <span class=\"certo\">O calor pode causar fraturas <b>post mortem</b>; é preciso diferenciar</span></li></ol></div>\n<h3>5. Frio: geladuras e hipotermia</h3>\n<ul><li><b>Geladuras</b> (lesões locais pelo frio): atingem extremidades (dedos, orelhas, nariz) e evoluem em graus: <b>eritema</b> (pele avermelhada e depois arroxeada), <b>flictenas</b> e <b>necrose</b> (gangrena), às vezes com perda dos dedos. São raras no Brasil, mas cobradas em prova.</li><li><b>Hipotermia</b> (efeito geral do frio): queda da temperatura interna, com confusão mental, sonolência, arritmias e morte. Contribuem: <b>embriaguez</b> (o álcool dilata os vasos da pele e aumenta a perda de calor), <b>idade</b> extrema, <b>imobilidade</b>, <b>roupas molhadas</b>, desnutrição, pessoas em <b>situação de rua</b>.</li><li><b>Achados</b>: <b>livores de cor vermelho-clara</b> (o frio mantém a hemoglobina oxigenada), <b>manchas de Wischnewski</b> (pequenas erosões <b>hemorrágicas</b> na mucosa do <b>estômago</b>, sinal clássico de morte por frio), placas avermelhadas nas articulações.</li><li><b>Desnudamento paradoxal</b>: na fase final da hipotermia, a vítima pode <b>tirar as roupas</b> (sensação de calor por alteração dos vasos e do centro termorregulador). Encontrar a vítima <b>despida</b> pode levar a suspeitar falsamente de <b>crime sexual</b>. Também é descrito o comportamento de se <b>esconder</b> em locais apertados antes da morte.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Vítima de hipotermia encontrada despida indica violência sexual</span><br>✅ <span class=\"certo\">Pode ser <b>desnudamento paradoxal</b>, típico da hipotermia</span></li><li>❌ <span class=\"banca\">Manchas de Wischnewski são equimoses da pele</span><br>✅ <span class=\"certo\">São <b>erosões hemorrágicas</b> da mucosa do <b>estômago</b></span></li></ol></div>\n<h3>6. Pressão atmosférica: baropatias</h3>\n<ul><li><b>Hiperbarismo</b> (aumento da pressão), típico do <b>mergulho</b> e de trabalhos em <b>tubulões</b> e câmaras: <b>barotraumas</b> (lesões nos ouvidos, seios da face e pulmões pela diferença de pressão) e, na <b>subida rápida</b> (descompressão brusca), a <b>doença descompressiva</b>: o nitrogênio dissolvido no sangue forma <b>bolhas</b> (como ao abrir um refrigerante), causando dores articulares, lesões neurológicas e <b>embolia gasosa</b>.</li><li><b>Hipobarismo</b> (diminuição da pressão), típico de <b>grandes altitudes</b> e da aviação: falta de oxigênio, <b>mal das montanhas</b> (dor de cabeça, náuseas, edema pulmonar e cerebral nas formas graves) e problemas por <b>despressurização</b> de aeronaves.</li><li><b>Interesse jurídico</b>: acidentes de trabalho (<b>infortunística</b>), responsabilidade de empresas e instrutores de mergulho, acidentes aéreos.</li></ul>\n<h3>7. Eletricidade: conceitos e nomenclatura</h3>\n<table class=\"tab\"><thead><tr><th>Origem</th><th>Lesão sem morte</th><th>Morte</th></tr></thead><tbody><tr><td><b>Natural ou cósmica</b> (raio, descarga atmosférica)</td><td><b>fulguração</b></td><td><b>fulminação</b></td></tr><tr><td><b>Artificial ou industrial</b> (rede elétrica, aparelhos)</td><td>lesões elétricas (choque elétrico)</td><td><b>eletroplessão</b> (morte acidental)</td></tr><tr><td><b>Execução judicial</b> (em países que a adotam)</td><td>-</td><td><b>eletrocussão</b></td></tr></tbody></table>\n<ul><li>Cuidado com a palavra \"eletrocussão\": tecnicamente, a doutrina médico-legal brasileira reserva o termo para a <b>execução</b> na cadeira elétrica; a morte <b>acidental</b> por eletricidade industrial é <b>eletroplessão</b>. Em linguagem comum e em algumas bancas, os termos aparecem misturados: leia a alternativa com atenção.</li><li><b>Fatores que determinam a gravidade</b> do choque elétrico: <b>intensidade</b> da corrente (amperagem, o fator mais importante para o dano), <b>tensão</b> (voltagem), <b>tipo de corrente</b> (a <b>alternada</b>, da rede doméstica, é mais perigosa que a contínua em baixas tensões, porque provoca <b>tetanização</b> muscular, que impede a vítima de soltar o fio, e <b>fibrilação ventricular</b>), <b>resistência</b> do corpo (a pele <b>úmida ou molhada</b> conduz muito mais que a pele seca e calejada), <b>trajeto</b> (a corrente que passa pelo <b>coração</b>, como mão-mão ou mão-pé, é a mais perigosa) e <b>tempo</b> de contato.</li><li><b>Mecanismos de morte</b>: <b>fibrilação ventricular</b> (mais comum em <b>baixa tensão</b>, como a rede doméstica), <b>parada respiratória</b> (por <b>tetanização</b> dos músculos respiratórios ou lesão do centro respiratório no tronco cerebral) e <b>queimaduras</b> extensas e lesões internas (mais comuns em <b>alta tensão</b>). Quedas de altura (eletricistas em postes) somam lesões traumáticas.</li></ul>\n<h3>8. Marca elétrica de Jellinek e outros sinais</h3>\n<ul><li><b>Marca elétrica de Jellinek</b> (marca de entrada da corrente): pequena lesão, <b>arredondada ou elíptica</b>, de cor <b>branco-amarelada</b> ou acinzentada, <b>endurecida</b>, de <b>bordas elevadas</b> e <b>centro deprimido</b> (em cratera), <b>indolor</b>, <b>sem reação inflamatória</b> ao redor e <b>sem sangramento</b>, que <b>reproduz</b> às vezes a forma do condutor (fio, pino de tomada). Pode haver também marca de <b>saída</b> (no ponto de contato com a terra: pés, mãos).</li><li><b>Metalização</b>: depósito de <b>partículas do metal</b> do condutor na pele, que pode ser detectado por exames (útil para indicar o tipo de condutor: cobre, alumínio).</li><li>A marca pode ser <b>mínima</b> e passar despercebida, sobretudo em baixa tensão com pele úmida (banheiro, piscina), quando a resistência baixa faz a corrente entrar sem queimar muito. Por isso, em mortes súbitas em locais com água e aparelhos elétricos, o perito procura a marca com atenção, e a <b>perícia do local</b> (fios desencapados, aparelhos) é decisiva.</li><li><b>Alta tensão</b>: queimaduras extensas e profundas, carbonização parcial, lesões ósseas (\"<b>pérolas</b>\" de fosfato de cálcio fundido nos ossos), amputações.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A marca elétrica de Jellinek é dolorosa, sangrante e com halo inflamatório</span><br>✅ <span class=\"certo\">É <b>indolor</b>, <b>sem sangramento</b> e <b>sem reação inflamatória</b></span></li><li>❌ <span class=\"banca\">Corrente contínua é mais perigosa que a alternada em baixa tensão</span><br>✅ <span class=\"certo\">A <b>alternada</b> é mais perigosa (tetaniza e causa fibrilação)</span></li><li>❌ <span class=\"banca\">A ausência de marca elétrica exclui morte por eletricidade</span><br>✅ <span class=\"certo\">Em pele <b>úmida</b>, a marca pode ser <b>mínima</b> ou ausente</span></li></ol></div>\n<h3>9. Raio: fulguração e fulminação</h3>\n<ul><li><b>Fulguração</b>: lesões por raio <b>sem morte</b>. <b>Fulminação</b>: <b>morte</b> por raio.</li><li><b>Figuras de Lichtenberg</b> (ou arborizações): desenhos <b>avermelhados</b>, <b>ramificados</b>, em forma de <b>árvore</b> ou <b>samambaia</b> na pele, produzidos pela passagem da descarga. São <b>passageiros</b>: <b>desaparecem</b> em horas ou poucos dias, por isso devem ser <b>fotografados</b> logo. São muito característicos do raio (não da eletricidade industrial).</li><li><b>Outros sinais</b>: queimaduras (inclusive lineares, ao longo de áreas úmidas de suor), <b>roupas rasgadas</b> ou chamuscadas e calçados arrebentados, <b>objetos metálicos</b> derretidos ou <b>magnetizados</b> (relógio, fivela, moedas), perfuração de tímpanos, lesões oculares (catarata tardia).</li><li><b>Mecanismo de morte</b>: em geral <b>parada cardíaca e respiratória</b> imediata. Vítimas de raio podem ser <b>reanimadas</b> se socorridas rapidamente (e não \"dão choque\" em quem as toca depois da descarga).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Fulguração é a morte por raio</span><br>✅ <span class=\"certo\"><b>Fulguração</b> = lesão <b>sem</b> morte; <b>fulminação</b> = morte</span></li><li>❌ <span class=\"banca\">As figuras de Lichtenberg permanecem por semanas</span><br>✅ <span class=\"certo\">São <b>efêmeras</b>: desaparecem em horas ou poucos dias</span></li><li>❌ <span class=\"banca\">As figuras de Lichtenberg são típicas da rede elétrica doméstica</span><br>✅ <span class=\"certo\">São características do <b>raio</b></span></li><li>❌ <span class=\"banca\">Quem toca na vítima de raio leva choque</span><br>✅ <span class=\"certo\">Após a descarga, a vítima <b>não conduz</b> eletricidade; deve ser socorrida</span></li></ol></div>\n<h3>10. Radiações, luz e som</h3>\n<ul><li><b>Radiações ionizantes</b> (raios X, raios gama, partículas de material radioativo): danificam o DNA das células. Exposição <b>local</b> intensa produz <b>radiodermites</b> (vermelhidão, bolhas, úlceras de difícil cicatrização, que aparecem <b>dias ou semanas</b> depois, e não na hora). Exposição de <b>corpo inteiro</b> a doses altas causa a <b>síndrome aguda da radiação</b> (náuseas, vômitos, queda das células do sangue, infecções, hemorragias, lesões intestinais e, nas doses muito altas, morte). A longo prazo, aumentam o risco de <b>câncer</b> e de alterações genéticas.</li><li><b>Acidente de Goiânia (1987)</b>: o caso brasileiro mais conhecido: uma cápsula de <b>césio-137</b> de um aparelho de radioterapia abandonado foi aberta, e o pó brilhante foi manuseado por várias pessoas, causando mortes e contaminação. É exemplo de como a <b>ausência de sinais imediatos</b> (a radiação não dói nem queima na hora) torna esse agente traiçoeiro.</li><li><b>Radiações não ionizantes</b>: <b>ultravioleta</b> (queimaduras solares, lesões oculares), <b>infravermelho</b> (calor), <b>micro-ondas</b> e <b>laser</b> (queimaduras e lesões oculares, inclusive na retina, com perda de visão).</li><li><b>Luz</b>: luz intensa pode <b>ofuscar</b> (risco de acidentes de trânsito) e lesar a retina (observação direta do sol, laser apontado aos olhos de pilotos).</li><li><b>Som</b>: ruído <b>muito intenso e súbito</b> (explosões, disparos próximos) causa <b>trauma acústico</b> (ruptura de tímpano, perda auditiva); ruído <b>contínuo</b> no trabalho causa <b>perda auditiva induzida por ruído</b> (PAIR), tema de <b>infortunística</b> (doença ocupacional).</li></ul>\n<h3>11. Energias bioquímicas: inanição e outras</h3>\n<ul><li><b>Inanição</b> (privação de alimentos) pode ser <b>total</b> ou <b>parcial</b>, <b>voluntária</b> (greve de fome) ou <b>imposta</b> (abandono, cárcere privado, maus-tratos). Leva a <b>emagrecimento</b> extremo (<b>caquexia</b>), perda de massa muscular e de gordura, pele seca e frouxa, edemas, alterações de cabelos e unhas, infecções e morte.</li><li><b>Desidratação</b>: a privação de <b>água</b> mata muito mais rápido que a de alimentos (dias, conforme o calor e a idade). Crianças e idosos são os mais vulneráveis.</li><li><b>Interesse jurídico</b>: crimes de <b>maus-tratos</b> (CP, art. 136), <b>abandono de incapaz</b> (art. 133), cárcere privado, <b>homicídio</b> por omissão de quem tinha o dever de alimentar (pais, cuidadores), negligência contra <b>idosos</b> em instituições ou na família.</li><li><b>Achados</b>: o perito descreve o <b>estado nutricional</b> (peso, altura, índice de massa corporal, gordura subcutânea), compara com padrões para a idade e procura <b>outras causas</b> (doenças que emagrecem, como câncer, tuberculose, aids) antes de atribuir o quadro à privação de alimentos. Exames do estômago e do intestino vazios, ausência de gordura e atrofia de órgãos reforçam o diagnóstico.</li><li><b>Autointoxicações e infecções</b>: doenças em que o próprio organismo produz substâncias tóxicas (insuficiência renal ou hepática) e infecções que podem ser <b>transmitidas</b> dolosa ou culposamente (contágio venéreo, art. 130 do CP; perigo de contágio de moléstia grave, art. 131) entram na classificação como energias <b>bioquímicas</b>.</li></ul>\n<h3>12. Energias biodinâmicas e mistas</h3>\n<ul><li><b>Choque</b>: falência da circulação, com fluxo de sangue insuficiente para os órgãos. Tipos principais: <b>hipovolêmico</b> (perda de sangue ou de líquidos: hemorragias, queimaduras extensas, desidratação), <b>cardiogênico</b> (falha do coração), <b>séptico</b> (infecção generalizada), <b>neurogênico</b> (lesão da medula), <b>anafilático</b> (alergia grave). É o elo final de muitas mortes por trauma.</li><li><b>Síndrome de falência de múltiplos órgãos</b>: comprometimento progressivo de vários órgãos (pulmões, rins, fígado, coração) após trauma grave, queimaduras ou infecção. Quando a vítima morre dias depois da agressão por essa síndrome, a morte continua <b>ligada à lesão</b> inicial (nexo causal).</li><li><b>Energias mistas</b>: <b>fadiga</b> (exaustão por trabalho ou esforço excessivo, que pode matar em condições extremas), <b>doenças parasitárias</b> e <b>sevícias</b> (maus-tratos repetidos), que combinam várias energias (mecânica, física, bioquímica).</li></ul>\n<h3>13. Síndrome da criança espancada (maus-tratos infantis)</h3>\n<ul><li><b>Histórico</b>: o médico francês <b>Ambroise Tardieu</b> descreveu, no século XIX, casos de crianças maltratadas; o radiologista <b>Caffey</b> chamou a atenção para a associação de <b>fraturas</b> e <b>hematomas subdurais</b> em bebês; e <b>Kempe</b> e colaboradores consagraram a expressão \"<b>síndrome da criança espancada</b>\" (<i>battered child syndrome</i>) na década de 1960. Em algumas obras, aparece também como <b>síndrome de Silverman</b> ou de Caffey.</li><li><b>Achados típicos</b> (o \"padrão\" que levanta suspeita):</li></ul>\n<table class=\"tab\"><thead><tr><th>Achado</th><th>Por que preocupa</th></tr></thead><tbody><tr><td><b>Fraturas em diferentes fases de consolidação</b> (umas recentes, outras com calo ósseo)</td><td>mostram <b>agressões repetidas</b> em momentos diferentes</td></tr><tr><td><b>Fraturas de costelas posteriores</b> e das <b>metáfises</b> dos ossos longos (lesão em \"alça de balde\" ou \"canto\")</td><td>são produzidas por <b>apertar e sacudir</b> a criança, raras em acidentes comuns</td></tr><tr><td><b>Equimoses em várias cores</b> (fases)</td><td>agressões <b>repetidas</b></td></tr><tr><td>Lesões em <b>regiões protegidas</b> (orelhas, pescoço, abdome, nádegas, genitais, parte interna das coxas)</td><td>quedas acidentais atingem <b>saliências</b> (testa, joelhos, cotovelos)</td></tr><tr><td>Lesões com <b>forma de objeto</b> (fivela, fio, mão, dentes) ou <b>queimaduras</b> de cigarro e por imersão</td><td>indicam ação <b>intencional</b></td></tr><tr><td><b>Hematoma subdural</b> e <b>hemorragias retinianas</b></td><td>sugerem <b>sacudimento</b> violento</td></tr><tr><td><b>História incompatível</b> ou que muda a cada relato; <b>demora</b> em procurar socorro</td><td>o relato não explica as lesões</td></tr></tbody></table>\n<ul><li><b>Síndrome do bebê sacudido</b> (<i>shaken baby syndrome</i>, ou traumatismo craniano abusivo): o bebê é <b>sacudido violentamente</b>, e o cérebro, a cabeça desproporcionalmente pesada e o pescoço fraco sofrem forças de aceleração e desaceleração. Tríade clássica: <b>hematoma subdural</b>, <b>hemorragias retinianas</b> e <b>lesão/edema cerebral</b>, muitas vezes <b>sem lesão externa</b> visível. Pode deixar sequelas graves ou matar.</li><li><b>Síndrome de Munchausen por procuração</b> (transtorno factício imposto a outro): o <b>cuidador</b> (frequentemente a mãe) <b>inventa, simula ou provoca</b> sintomas na criança (adiciona sangue à urina, dá medicamentos, sufoca) para obter atenção médica. A criança passa por internações e exames repetidos sem diagnóstico. É forma grave de <b>maus-tratos</b>.</li><li><b>Negligência</b>: a forma mais comum de maus-tratos: falta de alimentação, higiene, cuidados de saúde, vacinação, proteção e supervisão. Deixa sinais como <b>desnutrição</b>, dermatites, cáries extensas, atraso de desenvolvimento.</li><li><b>O que fazer</b>: a suspeita deve ser <b>comunicada ao Conselho Tutelar</b> (ECA, art. 13), e o caso, investigado pela polícia. A <b>Lei 13.431/2017</b> organiza a <b>escuta especializada</b> e o <b>depoimento especial</b> de crianças e adolescentes vítimas ou testemunhas de violência, para evitar que a criança repita o relato muitas vezes (<b>revitimização</b>). A <b>Lei 14.344/2022</b> (Lei Henry Borel) criou mecanismos para prevenir e enfrentar a <b>violência doméstica e familiar</b> contra a criança e o adolescente.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Fraturas em diferentes fases de consolidação indicam doença óssea, e não violência</span><br>✅ <span class=\"certo\">São o achado típico de <b>agressões repetidas</b> (síndrome da criança espancada), embora doenças ósseas devam ser descartadas</span></li><li>❌ <span class=\"banca\">Na síndrome do bebê sacudido sempre há lesões externas visíveis</span><br>✅ <span class=\"certo\">Muitas vezes <b>não há</b> lesão externa; a tríade é subdural, hemorragia retiniana e lesão cerebral</span></li><li>❌ <span class=\"banca\">Na Munchausen por procuração, a própria criança simula a doença</span><br>✅ <span class=\"certo\">Quem simula ou provoca é o <b>cuidador</b></span></li><li>❌ <span class=\"banca\">A forma mais comum de maus-tratos é o espancamento</span><br>✅ <span class=\"certo\">A mais comum é a <b>negligência</b></span></li></ol></div>\n<h3>14. Maus-tratos contra idosos e pessoas dependentes</h3>\n<ul><li><b>Formas</b>: física (agressões, contenções inadequadas), psicológica, <b>financeira</b> (apropriação de aposentadoria, bens), sexual, <b>negligência</b> e <b>abandono</b> (desnutrição, desidratação, <b>úlceras de pressão</b> por falta de mudança de posição, falta de medicação e higiene).</li><li><b>Úlceras de pressão</b> (escaras de decúbito) extensas e infectadas, desnutrição e desidratação em idoso acamado são sinais importantes de <b>negligência</b> do cuidador ou da instituição, embora possam ocorrer mesmo com bons cuidados em doentes graves: o perito avalia o <b>conjunto</b>.</li><li><b>Diagnóstico diferencial</b>: idosos se machucam com mais facilidade (pele fina, osteoporose, quedas, uso de anticoagulantes). O perito compara as lesões com a história, como nas crianças.</li><li><b>Normas</b>: o <b>Estatuto da Pessoa Idosa</b> (Lei 10.741/2003) prevê crimes específicos (como abandonar a pessoa idosa em hospitais e entidades, expô-la a perigo, privá-la de alimentos e cuidados) e a <b>notificação compulsória</b> dos casos de violência pelos serviços de saúde (art. 19).</li></ul>\n<h3>15. Casos práticos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Criança esquecida no carro</b><p>Uma criança de 2 anos morre dentro de um carro fechado, estacionado ao sol por 4 horas.</p><details><summary>Ver a solução comentada</summary><p>Quadro de <b>termonose</b> por <b>intermação</b> (calor confinado em ambiente fechado), e não de insolação (o sol aquece o carro, mas a criança não está exposta ao sol ao ar livre). A necropsia tem achados <b>pouco específicos</b>; o diagnóstico vem do <b>histórico</b> e da <b>perícia do local</b> (temperatura interna do veículo, tempo). A responsabilidade penal (homicídio culposo, abandono de incapaz) é discutida conforme as circunstâncias.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Casa incendiada</b><p>Após um incêndio, é encontrado o corpo carbonizado de uma mulher, em posição de boxeador. O ex-companheiro é suspeito.</p><details><summary>Ver a solução comentada</summary><p>A posição de boxeador é efeito do <b>calor</b> e não prova luta. O perito procura: <b>fuligem abaixo das cordas vocais</b> e <b>carboxi-hemoglobina</b> (se presentes, ela <b>respirava</b> durante o incêndio); <b>outras lesões</b> com reação vital (fraturas de hioide, facadas, projéteis) que expliquem a morte <b>antes</b> do fogo; e diferencia fraturas e \"hematoma\" <b>térmicos</b> de lesões traumáticas. Se as vias aéreas estiverem limpas e houver ferida de faca com reação vital, a hipótese é de <b>homicídio seguido de incêndio</b> para ocultar o crime. A identificação é feita por <b>dentes e DNA</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Morte no banheiro</b><p>Um jovem é encontrado morto na banheira, com um secador de cabelo ligado caído na água. Não há marcas evidentes na pele.</p><details><summary>Ver a solução comentada</summary><p>Em ambiente <b>úmido</b>, a resistência da pele é baixa e a <b>marca elétrica</b> pode ser <b>mínima ou ausente</b>. A <b>perícia do local</b> (secador ligado, instalação elétrica, disjuntor) é decisiva, junto com o exame cuidadoso da pele e a exclusão de outras causas (afogamento, intoxicação). O mecanismo provável é <b>fibrilação ventricular</b> (baixa tensão, corrente alternada). A investigação define se foi acidente, suicídio ou homicídio.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Bebê com convulsões</b><p>Um bebê de 4 meses chega ao hospital com convulsões e vômitos. Os pais dizem que \"ele caiu do sofá\". A tomografia mostra hematoma subdural e o oftalmologista vê hemorragias nas retinas; não há lesões na pele.</p><details><summary>Ver a solução comentada</summary><p>O quadro sugere <b>síndrome do bebê sacudido</b> (traumatismo craniano abusivo): a tríade <b>subdural + hemorragia retiniana + lesão cerebral</b>, sem lesão externa e com história <b>incompatível</b> (queda de pequena altura raramente causa esse quadro). O hospital deve <b>comunicar ao Conselho Tutelar</b> e às autoridades; radiografias de todo o esqueleto podem revelar <b>fraturas antigas</b>. O caso é investigado como violência doméstica contra criança.</p></details></div>\n<h3>16. Por que o queimado morre: mecanismos de morte no fogo</h3>\n<ul><li><b>Morte imediata</b> (no local): principalmente pela <b>inalação de fumaça</b>. A fumaça de um incêndio contém <b>monóxido de carbono</b> (que se liga à hemoglobina muito mais fortemente que o oxigênio e impede o transporte de oxigênio), <b>gás cianídrico</b> (liberado pela queima de <b>plásticos</b>, espumas, estofados e tecidos sintéticos, que bloqueia a respiração das células), gases irritantes e <b>ar superaquecido</b> (que queima as vias aéreas e provoca <b>edema de glote</b>). Muitas vítimas de incêndio morrem <b>intoxicadas antes</b> de serem atingidas pelas chamas.</li><li><b>Morte precoce</b> (horas a poucos dias): <b>choque</b> pela perda maciça de líquidos pela pele queimada (choque hipovolêmico), alterações dos eletrólitos, <b>insuficiência renal</b> (a destruição muscular libera substâncias que lesam os rins) e lesão pulmonar por inalação.</li><li><b>Morte tardia</b> (dias a semanas): <b>infecção</b> (a pele queimada perde a barreira de proteção, e a sepse é a grande causa de morte tardia), <b>falência de múltiplos órgãos</b>, complicações respiratórias e tromboembolismo.</li><li><b>Nexo causal</b>: a morte por infecção semanas depois de alguém ter sido queimado intencionalmente continua ligada ao ato (a infecção é complicação esperada da queimadura).</li><li><b>Queimaduras químicas</b> (ácidos e bases fortes) podem parecer queimaduras térmicas: os <b>ácidos</b> tendem a formar <b>escaras secas e duras</b> (necrose de coagulação), e as <b>bases</b> (soda cáustica), lesões <b>moles e profundas</b> (necrose de liquefação), que continuam a destruir os tecidos enquanto não forem lavadas. O tema é aprofundado em Toxicologia (cáusticos), mas é cobrado junto com queimaduras, por exemplo em ataques com ácido no rosto (lesão gravíssima por <b>deformidade permanente</b>).</li></ul>\n<h3>17. Fogo e investigação: acidente, suicídio ou homicídio?</h3>\n<ul><li><b>Perícia de incêndio</b> (CPP, art. 173): os peritos verificam a <b>causa</b> e o <b>lugar</b> em que o fogo começou, o <b>perigo</b> que dele resultou, a <b>extensão</b> do dano e o seu <b>valor</b>. Procuram o <b>foco</b> (ponto de origem), sinais de <b>acelerantes</b> (gasolina, álcool, querosene), múltiplos focos (indício de incêndio provocado) e falhas elétricas.</li><li><b>Autoimolação</b> (suicídio pelo fogo): geralmente a vítima se <b>encharca</b> com líquido inflamável e ateia fogo; as queimaduras predominam na parte <b>superior</b> e <b>anterior</b> do corpo e na cabeça, com padrão de escorrimento do líquido; pode haver recipiente e isqueiro por perto, e histórico de crise.</li><li><b>Homicídio com fogo</b>: a vítima pode ter sido <b>agredida, amarrada ou morta antes</b> (lesões com reação vital que não são do fogo; vias aéreas limpas; fraturas do hioide; projéteis). O fogo usado para <b>ocultar</b> o homicídio é comum, e a necropsia (raio X do corpo carbonizado para procurar projéteis, exame das vias aéreas, dosagem de carboxi-hemoglobina) é decisiva.</li><li><b>Acidentes</b>: incêndios domésticos (curto-circuito, fogão, vela, cigarro na cama, sobretudo em idosos e pessoas embriagadas), explosões de botijões, queimaduras em crianças (líquidos quentes na cozinha).</li><li><b>Queimaduras como tortura</b> e castigo: marcas de cigarro, de objetos aquecidos e de imersão, sobretudo em crianças, pessoas presas ou em situação de dependência. O padrão (formato regular, várias fases de cicatrização, regiões cobertas) é o que denuncia a intencionalidade.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quem morre em incêndio morre queimado pelas chamas</span><br>✅ <span class=\"certo\">Muitas vítimas morrem antes, <b>intoxicadas</b> pela fumaça (monóxido de carbono, cianeto)</span></li><li>❌ <span class=\"banca\">A sepse é causa rara de morte em queimados</span><br>✅ <span class=\"certo\">A <b>infecção</b> é a grande causa de morte <b>tardia</b></span></li><li>❌ <span class=\"banca\">Queimadura por base forte é seca e superficial</span><br>✅ <span class=\"certo\">Bases causam lesões <b>moles e profundas</b> (liquefação); os <b>ácidos</b>, escaras secas</span></li><li>❌ <span class=\"banca\">Múltiplos focos de incêndio indicam curto-circuito</span><br>✅ <span class=\"certo\">Múltiplos focos são indício de incêndio <b>provocado</b></span></li></ol></div>\n<h3>18. Instrumentos de choque elétrico e uso da força</h3>\n<ul><li><b>Dispositivos de eletrochoque</b> (armas de condução elétrica, como as conhecidas pelo nome comercial \"taser\"): disparam dois <b>dardos</b> presos a fios, ou são encostados no corpo, e liberam pulsos de alta tensão e baixa intensidade que provocam <b>incapacitação neuromuscular</b> (contrações involuntárias e perda do controle do corpo).</li><li><b>Lesões</b>: pequenas lesões <b>puntiformes pareadas</b> (nos pontos dos dardos ou dos eletrodos), às vezes com pequena queimadura ao redor; lesões <b>secundárias</b> por <b>queda</b> (traumatismo craniano, fraturas). Mortes associadas ao uso desses dispositivos geralmente envolvem <b>fatores somados</b> (doenças cardíacas, uso de drogas estimulantes, esforço extremo, contenção prolongada), e a perícia deve analisar o <b>conjunto</b>.</li><li><b>Uso pelas forças de segurança</b>: a <b>Lei 13.060/2014</b> disciplina o uso dos <b>instrumentos de menor potencial ofensivo</b> pelos agentes de segurança pública, que devem priorizá-los sempre que não houver risco para a integridade do agente ou de terceiros, observando os princípios da <b>legalidade</b>, <b>necessidade</b>, <b>razoabilidade e proporcionalidade</b>. O uso indevido pode configurar abuso de autoridade, lesão corporal ou tortura.</li><li><b>Choque elétrico como tortura</b>: aplicação de corrente em regiões sensíveis (genitais, orelhas, mamilos, boca) deixa lesões pequenas, às vezes mínimas e que desaparecem rápido. Por isso, o exame deve ser <b>precoce</b> e minucioso, e a ausência de marcas <b>não exclui</b> a tortura (Protocolo de Istambul).</li></ul>\n<h3>19. Trabalho, ambiente e infortunística</h3>\n<ul><li>Muitos dos agentes deste tópico aparecem em <b>acidentes de trabalho</b> e <b>doenças ocupacionais</b>: choque elétrico de eletricistas e trabalhadores da construção, queimaduras em metalúrgicas e cozinhas industriais, intermação em caldeiras e porões, trabalho a céu aberto sob sol intenso (insolação), mergulhadores profissionais (barotraumas e descompressão), exposição a <b>radiação</b> (radiologia, indústria), <b>ruído</b> (perda auditiva), frio em câmaras frigoríficas.</li><li>A <b>infortunística</b> estuda esses casos para fins <b>trabalhistas, previdenciários e civis</b> (indenizações) e também penais (crimes por negligência do empregador). O perito avalia o <b>nexo</b> entre a atividade e o dano e o grau de <b>incapacidade</b> resultante.</li><li><b>Comunicação de Acidente de Trabalho (CAT)</b>: o acidente de trabalho deve ser comunicado à Previdência Social.</li></ul>\n<h3>20. Maus-tratos, tortura-castigo e a \"Lei da Palmada\"</h3>\n<ul><li><b>Maus-tratos</b> (CP, art. 136): expor a perigo a vida ou a saúde de pessoa sob sua <b>autoridade, guarda ou vigilância</b>, para fim de <b>educação, ensino, tratamento ou custódia</b>, quer <b>privando-a de alimentação ou cuidados indispensáveis</b>, quer sujeitando-a a <b>trabalho excessivo ou inadequado</b>, quer <b>abusando de meios de correção ou disciplina</b>. Pena: detenção de <b>2 meses a 1 ano</b>, ou multa. Se resulta <b>lesão grave</b>: reclusão de <b>1 a 4 anos</b>; se resulta <b>morte</b>: reclusão de <b>4 a 12 anos</b>. Aumenta-se a pena de <b>1/3</b> se o crime é praticado contra pessoa <b>menor de 14 anos</b>.</li><li><b>Tortura-castigo</b> (Lei 9.455/1997, art. 1º, II): submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a <b>intenso sofrimento físico ou mental</b>, como forma de aplicar <b>castigo pessoal</b> ou medida de caráter preventivo. Pena: reclusão de <b>2 a 8 anos</b>.</li><li><b>Diferença</b>: nos <b>maus-tratos</b>, há <b>abuso</b> de meios de correção com finalidade (distorcida) de educar, e o resultado é <b>perigo</b>; na <b>tortura-castigo</b>, a finalidade é <b>fazer sofrer</b>, e o sofrimento é <b>intenso</b>. A <b>perícia</b> ajuda a medir a <b>intensidade</b> (quantidade, gravidade e repetição das lesões, uso de instrumentos, queimaduras, privação prolongada), mas a classificação é do juiz.</li><li><b>Lei da Palmada (Lei 13.010/2014)</b>: incluiu no ECA o <b>art. 18-A</b>, segundo o qual a criança e o adolescente têm o <b>direito de ser educados e cuidados sem o uso de castigo físico ou de tratamento cruel ou degradante</b>, como formas de correção, disciplina ou educação, pelos pais, responsáveis, agentes públicos e cuidadores. A lei define castigo físico como ação de natureza disciplinar ou punitiva com uso de <b>força física</b> que resulte em <b>sofrimento físico ou lesão</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Maus-tratos e tortura-castigo são o mesmo crime</span><br>✅ <span class=\"certo\">Nos maus-tratos há <b>abuso de meios de correção</b> (perigo); na tortura-castigo, <b>intenso sofrimento</b> para castigar</span></li><li>❌ <span class=\"banca\">Maus-tratos contra menor de 14 anos não têm aumento de pena</span><br>✅ <span class=\"certo\">A pena aumenta de <b>1/3</b> (CP, art. 136, § 3º)</span></li><li>❌ <span class=\"banca\">A Lei da Palmada criou um novo crime</span><br>✅ <span class=\"certo\">Ela incluiu o <b>art. 18-A no ECA</b> (direito de ser educado sem castigo físico), com medidas protetivas, sem criar tipo penal novo</span></li></ol></div>\n<h3>21. Questões discursivas comentadas</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 1</b><p>\"Como o perito pode determinar se a vítima de um incêndio estava viva no momento em que o fogo começou?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: pela pesquisa de <b>sinais de reação vital ao fogo</b>: <b>fuligem nas vias aéreas</b> abaixo das cordas vocais (traqueia, brônquios), às vezes também no esôfago e no estômago, mostrando que a vítima <b>respirava e engolia</b> fumaça; <b>carboxi-hemoglobina</b> elevada no sangue (inalação de monóxido de carbono), com coloração <b>vermelho-cereja</b> do sangue e dos livores; <b>flictenas vitais</b> (sinal de Chambert, com conteúdo rico em albumina e leucócitos) e reação inflamatória nas queimaduras. A <b>ausência</b> desses sinais, com outras lesões vitais que expliquem a morte (ferimento por arma, fratura do hioide), indica que o corpo foi <b>queimado depois da morte</b>, possivelmente para ocultar homicídio. A <b>posição de boxeador</b> e as fraturas e hematomas térmicos <b>não</b> indicam luta nem agressão anterior.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 2</b><p>\"Diferencie fulguração, fulminação, eletroplessão e eletrocussão e descreva as marcas características da eletricidade natural e da industrial.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: <b>fulguração</b> é a lesão por <b>raio</b> sem morte; <b>fulminação</b>, a <b>morte</b> por raio; <b>eletroplessão</b>, a morte <b>acidental</b> por eletricidade <b>artificial (industrial)</b>; <b>eletrocussão</b>, a <b>execução</b> por eletricidade. O <b>raio</b> deixa as <b>figuras de Lichtenberg</b> (arborizações avermelhadas e <b>efêmeras</b>), queimaduras, roupas rasgadas e objetos metálicos fundidos ou magnetizados. A eletricidade <b>industrial</b> deixa a <b>marca elétrica de Jellinek</b> na entrada (e às vezes na saída): lesão pequena, <b>endurecida</b>, <b>indolor</b>, branco-amarelada, de <b>bordas elevadas e centro deprimido</b>, <b>sem reação inflamatória</b> e sem sangramento, que pode reproduzir o condutor, além da <b>metalização</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 3</b><p>\"Quais achados periciais caracterizam a síndrome da criança espancada e qual a conduta exigida dos profissionais de saúde?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: <b>fraturas em diferentes fases de consolidação</b> (indicando agressões repetidas), fraturas de <b>costelas posteriores</b> e <b>metafisárias</b>, <b>equimoses de várias cores</b>, lesões em <b>regiões protegidas</b> e com <b>forma de objeto</b>, <b>queimaduras</b> intencionais (cigarro, imersão), <b>hematoma subdural</b> e <b>hemorragias retinianas</b> (sacudimento), sinais de <b>negligência</b> e <b>história incompatível</b> com as lesões ou que muda, com <b>demora</b> no atendimento. Doenças que causam fraturas fáceis devem ser <b>excluídas</b>. Os profissionais devem <b>comunicar obrigatoriamente o Conselho Tutelar</b> (ECA, art. 13), sob pena de infração administrativa (art. 245), e a escuta da criança deve seguir a <b>Lei 13.431/2017</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 4</b><p>\"Diferencie insolação de intermação e explique por que as mortes por termonose dependem tanto do histórico e da perícia do local.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: ambas são <b>termonoses</b>, efeitos <b>gerais</b> do calor ambiental sobre o organismo, que perde a capacidade de dissipar calor (hipertermia). A <b>insolação</b> decorre da exposição prolongada ao <b>sol</b>, <b>ao ar livre</b>; a <b>intermação</b>, do calor em <b>ambiente fechado</b>, <b>úmido</b> e <b>sem ventilação</b> (caldeiras, porões, veículos fechados), em que o suor não evapora. Os achados de necropsia são <b>pouco específicos</b> (congestão, edema, pequenas hemorragias), sem uma \"marca\" própria; por isso, o diagnóstico depende do <b>histórico</b> (tempo de exposição, esforço, idade, drogas e medicamentos, doenças) e da <b>perícia do local</b> (temperatura e umidade do ambiente, ventilação), além da <b>exclusão</b> de outras causas de morte.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 5</b><p>\"Por que a vítima de choque elétrico em ambiente molhado pode não apresentar a marca elétrica de Jellinek, e como se faz o diagnóstico nesses casos?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: a marca de Jellinek resulta do <b>calor</b> gerado pela passagem da corrente no ponto de contato, que depende da <b>resistência</b> da pele. Com a pele <b>molhada</b> e um contato amplo, a resistência é <b>baixa</b>: passa muita corrente (suficiente para causar <b>fibrilação ventricular</b>), mas o aquecimento local é pequeno, e a marca pode ser <b>mínima ou ausente</b>. O diagnóstico, então, apoia-se na <b>perícia do local</b> (aparelho energizado na água, fiação, disjuntores), no exame cuidadoso de toda a pele (inclusive mãos e pés), na eventual <b>metalização</b> e na <b>exclusão</b> de outras causas (afogamento, intoxicação, trauma, doença cardíaca), com o histórico da situação.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 6</b><p>\"Uma criança de 3 anos chega ao pronto-socorro com queimaduras nas duas mãos, em forma de luva, de limites nítidos, sem respingos. A mãe diz que a criança 'encostou' na panela. Analise o caso.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: o padrão em <b>luva</b>, <b>bilateral</b>, com <b>limites nítidos</b> e <b>sem respingos</b>, é típico de <b>escaldadura por imersão</b> (as mãos foram mantidas dentro de líquido quente), e <b>não</b> do contato acidental com uma panela, que deixaria lesão irregular, unilateral e com forma do objeto ou com respingos. A <b>história é incompatível</b> com as lesões, o que é sinal de alerta de <b>maus-tratos</b>. A conduta é tratar a criança, documentar com fotografias e descrição minuciosa, <b>comunicar o Conselho Tutelar</b> (ECA, art. 13) e as autoridades, investigar outras lesões (exame físico completo e radiografias do esqueleto para fraturas antigas) e ouvir a criança, quando possível, por meio da <b>escuta especializada</b> ou do <b>depoimento especial</b> (Lei 13.431/2017). Os quesitos de lesão corporal (incapacidade, debilidade da função das mãos, deformidade) dependerão do <b>exame complementar</b>.</p></details></div>\n<ul><li><b>Resumo em uma página (para revisar na véspera)</b>: <b>calor</b> geral = termonoses (<b>insolação</b> ao sol; <b>intermação</b> em local fechado e úmido); <b>calor</b> local = queimaduras (eritema, flictena, escara, carbonização; <b>regra dos nove</b>; <b>Chambert</b> para flictena vital; <b>fuligem</b> abaixo da glote e <b>carboxi-hemoglobina</b> para vida no incêndio; <b>boxeador</b> = efeito do calor). <b>Frio</b> = geladuras e hipotermia (<b>livores claros</b>, <b>Wischnewski</b>, <b>desnudamento paradoxal</b>). <b>Pressão</b> = barotraumas e doença descompressiva (mergulho), mal das montanhas (altitude). <b>Eletricidade</b>: raio (<b>fulguração</b> sem morte, <b>fulminação</b> com morte, <b>Lichtenberg</b> efêmero) e industrial (<b>eletroplessão</b>, <b>Jellinek</b> endurecida e indolor, metalização; alternada mais perigosa; fibrilação em baixa tensão). <b>Radiações</b>: efeitos tardios, radiodermite, síndrome aguda, irradiado não contamina. <b>Bioquímicas</b>: inanição e desidratação. <b>Biodinâmicas</b>: choque e falência de órgãos. <b>Mistas</b>: sevícias, com a <b>síndrome da criança espancada</b> (fraturas em fases diferentes, regiões protegidas, história incompatível), o <b>bebê sacudido</b> (subdural, retina, cérebro) e a <b>Munchausen por procuração</b> (o cuidador simula). Conduta: <b>Conselho Tutelar</b> (ECA, art. 13) e <b>depoimento especial</b> (Lei 13.431/2017). Para idosos, <b>notificação compulsória</b> e comunicação às autoridades (Estatuto da Pessoa Idosa, art. 19). Em todos os casos, a regra de ouro do perito é a mesma: <b>descrever com precisão</b>, <b>fotografar</b>, <b>comparar a lesão com a história contada</b> e registrar quando a história <b>não explica</b> o que foi encontrado, deixando a conclusão jurídica para a autoridade competente, com base no conjunto das provas.</li><li><b>Por que este tópico importa para o policial</b>: muitas das mortes estudadas aqui parecem, à primeira vista, <b>naturais</b> ou <b>acidentais</b> (um idoso que \"morreu de fraqueza\", uma criança que \"caiu\", um homem que \"morreu no frio\", um incêndio \"acidental\", um choque \"no chuveiro\"). Saber quais sinais procurar e quais perguntas fazer ao perito é o que permite descobrir os casos em que, por trás do aparente acidente, houve <b>negligência criminosa</b>, <b>maus-tratos</b>, <b>tortura</b> ou <b>homicídio</b>. E, no sentido inverso, evita que pessoas inocentes sejam acusadas quando os achados são, de fato, compatíveis com acidente.</li></ul>\n<h3>22. Ligações com outros tópicos e com o trabalho policial</h3>\n<ul><li><b>Com a Traumatologia</b>: lesões contusas (equimoses em várias fases, fraturas) e o hematoma subdural formam a base da síndrome da criança espancada; as lesões por <b>explosão</b> (onda de pressão, fragmentos, projeção e queimaduras) unem os dois tópicos.</li><li><b>Com a Toxicologia</b>: monóxido de carbono, cianeto, cáusticos (ácidos e bases) e álcool (que favorece a hipotermia e os acidentes) são estudados lá.</li><li><b>Com a Tanatologia</b>: a diferença entre fenômenos <b>vitais</b> e <b>post mortem</b> (flictenas, livores, fraturas térmicas) e o tempo de morte em corpos carbonizados.</li><li><b>Com a Antropologia</b>: a identificação de carbonizados por <b>dentes</b> e <b>DNA</b>.</li><li><b>Com o trabalho policial</b>: em incêndios com vítima, o local deve ser <b>preservado</b> para a perícia (foco, acelerantes); o corpo carbonizado deve ser removido com cuidado (fragmentos ósseos e dentários se soltam); em mortes por eletricidade, <b>não se deve mexer</b> na instalação antes da perícia (e sempre desligar a energia para socorrer com segurança); em suspeita de maus-tratos a crianças e idosos, a vítima deve ser <b>examinada rapidamente</b>, e o histórico deve registrar com exatidão a versão de cada responsável, para comparação com as lesões.</li><li><b>Dica final de estudo</b>: os nomes próprios deste tópico (Jellinek, Lichtenberg, Chambert, Wischnewski, Montalti, Tardieu, Kempe, Caffey) são os preferidos das bancas. Faça as questões e o <b>Treino de pegadinhas</b> de Medicina Legal até associar cada nome ao seu achado sem hesitar.</li></ul>\n<h3>23. Aprofundamento: como o corpo lida com o calor e o frio</h3>\n<ul><li><b>Termorregulação</b>: o corpo humano mantém a temperatura interna perto de <b>37 °C</b>. Para perder calor, ele <b>dilata os vasos da pele</b> (a pele fica vermelha e quente), <b>produz suor</b> (a evaporação esfria a pele) e aumenta a respiração; para conservar calor, <b>contrai os vasos</b> da pele (palidez), provoca <b>tremores</b> (que geram calor) e muda o comportamento (procurar abrigo, agasalhar-se).</li><li><b>Quando falha no calor</b>: em ambiente <b>muito quente e úmido</b>, o suor não evapora e o corpo não consegue esfriar; o calor se acumula (é por isso que a <b>intermação</b>, em locais fechados e úmidos, é tão perigosa). O <b>golpe de calor por esforço</b> atinge atletas, soldados e trabalhadores em atividade intensa no calor. Certas <b>drogas</b> (cocaína, anfetaminas, ecstasy) e alguns medicamentos elevam a temperatura e dificultam a perda de calor, somando risco em festas e ambientes lotados.</li><li><b>Febre x hipertermia</b>: na <b>febre</b>, o próprio organismo \"eleva o termostato\" (por infecção, por exemplo); na <b>hipertermia</b>, o termostato está normal, mas o corpo <b>não consegue perder</b> o calor recebido ou produzido. As termonoses são hipertermias.</li><li><b>Quando falha no frio</b>: a temperatura interna cai; abaixo de cerca de <b>35 °C</b> fala-se em <b>hipotermia</b>. Com a queda progressiva, surgem tremores (depois desaparecem), confusão, sonolência, arritmias e parada cardíaca. A hipotermia também ocorre no Brasil, sobretudo em pessoas em <b>situação de rua</b> em noites frias, <b>embriagadas</b>, idosas ou em <b>imersão em água fria</b> (a água rouba calor muito mais rápido que o ar).</li><li><b>Morte aparente no frio</b>: a hipotermia profunda pode simular a morte (pulso e respiração muito fracos). Por isso, na prática médica, diz-se que a vítima de hipotermia só deve ser considerada morta <b>depois de aquecida</b>: há casos de reanimação bem-sucedida.</li></ul>\n<h3>24. Aprofundamento: eletricidade em números e efeitos no corpo</h3>\n<ul><li><b>Lei de Ohm</b>: a <b>intensidade</b> da corrente (I) é igual à <b>tensão</b> (V) dividida pela <b>resistência</b> (R). Para uma mesma tensão (por exemplo, a da rede doméstica), quanto <b>menor a resistência</b> do corpo (pele molhada, contato amplo, pés descalços em piso molhado), <b>maior a corrente</b> que passa e maior o dano. Isso explica por que o mesmo chuveiro que \"dá um choque leve\" em pele seca pode matar em pele molhada.</li><li><b>Efeitos aproximados conforme a intensidade</b> (corrente alternada, passando pelo tronco, por alguns segundos): por volta de <b>1 miliampère</b>, apenas <b>percepção</b> (formigamento); por volta de <b>10 a 20 miliampères</b>, <b>contração muscular</b> que pode impedir a vítima de <b>soltar</b> o condutor; a partir de cerca de <b>50 a 100 miliampères</b>, risco de <b>fibrilação ventricular</b>; correntes muito altas causam <b>parada cardíaca</b>, <b>queimaduras</b> profundas e lesões internas. Os valores variam com o tempo de contato, o trajeto e a pessoa; o que a prova cobra é a ideia de que a <b>intensidade</b> é o fator principal.</li><li><b>Lesões internas e tardias</b>: a corrente de alta tensão pode destruir <b>músculos</b> profundamente (com pele pouco lesada), provocar <b>insuficiência renal</b> (pela liberação de mioglobina), lesões neurológicas e <b>catarata</b> (às vezes meses depois). Por isso, a vítima de choque de alta tensão deve ser acompanhada, e o perito, em caso de lesão corporal, pode precisar de <b>exame complementar</b>.</li><li><b>Socorro seguro</b>: antes de tocar na vítima presa ao condutor, é preciso <b>desligar a energia</b> (disjuntor) ou afastar o fio com material <b>isolante</b> seco. Quem socorre sem cuidado vira nova vítima. Depois de desligada a corrente, a vítima pode e deve ser <b>reanimada</b> (massagem cardíaca e ventilação), porque a fibrilação pode ser revertida.</li><li><b>Animais e ambiente</b>: em áreas rurais, mortes por raio e por cercas eletrificadas irregulares envolvem também responsabilidade civil e criminal de quem instalou o equipamento fora das normas.</li></ul>\n<h3>25. Aprofundamento: radiação, doses e responsabilidade</h3>\n<ul><li><b>Dose</b>: os efeitos das radiações ionizantes dependem da <b>dose</b> recebida, da <b>parte do corpo</b> exposta e do <b>tempo</b>. Doses pequenas e repetidas (trabalhadores mal protegidos) aumentam o risco de <b>câncer</b> a longo prazo; doses altas e únicas causam lesões <b>agudas</b>.</li><li><b>Fases da síndrome aguda da radiação</b>: uma fase <b>inicial</b> (náuseas, vômitos, mal-estar nas primeiras horas), uma fase <b>latente</b> (melhora aparente), e a fase de <b>doença manifesta</b> (queda das células do sangue, infecções, hemorragias, lesões do intestino e da pele), que pode evoluir para a recuperação ou para a morte, conforme a dose.</li><li><b>Contaminação x irradiação</b>: a pessoa <b>irradiada</b> recebeu radiação de uma fonte externa, mas <b>não fica radioativa</b>; a pessoa <b>contaminada</b> tem material radioativo <b>sobre o corpo ou dentro dele</b> (ingerido, inalado), e pode <b>contaminar</b> outras pessoas e ambientes, exigindo descontaminação (como ocorreu em Goiânia).</li><li><b>Responsabilidade</b>: erros em <b>radioterapia</b>, descarte irregular de <b>fontes radioativas</b> e falta de proteção de trabalhadores podem gerar responsabilidade civil, administrativa e penal. A perícia avalia o nexo entre a exposição e o dano, o que é difícil nos efeitos tardios (câncer), porque eles também ocorrem sem radiação.</li><li><b>Ultravioleta</b>: a exposição excessiva ao sol causa queimaduras (1º e 2º graus), envelhecimento da pele e <b>câncer de pele</b>; é tema de saúde do trabalhador ao ar livre.</li></ul>\n<h3>26. Aprofundamento: inanição, desidratação e realimentação</h3>\n<ul><li><b>Inanição total</b> (sem alimento, com água): o organismo consome primeiro as reservas de <b>açúcar</b> (glicogênio, em poucas horas a um dia), depois a <b>gordura</b> e, por fim, as <b>proteínas</b> dos músculos e órgãos. A sobrevivência, com água, pode chegar a <b>semanas</b>, variando muito com as reservas, a idade e as condições. Crianças e idosos resistem menos.</li><li><b>Desidratação</b>: sem água, a sobrevivência é de <b>poucos dias</b>, menos ainda no calor, em crianças pequenas e em quem tem diarreia ou febre. Sinais: boca e mucosas secas, olhos fundos, pele que fica \"em prega\" ao ser beliscada, urina escassa, confusão.</li><li><b>Inanição parcial e crônica</b> (mais comum nos casos de maus-tratos): desnutrição progressiva, atraso de crescimento em crianças, infecções repetidas, feridas que não cicatrizam, queda de cabelos, edema (inchaço) nas formas graves por falta de proteínas.</li><li><b>Síndrome de realimentação</b>: quem está gravemente desnutrido não pode ser realimentado de forma brusca, porque mudanças rápidas nos sais minerais do sangue podem causar arritmias e morte. É um cuidado médico; para o perito, explica mortes que ocorrem <b>logo após o resgate</b> de vítimas mantidas em privação.</li><li><b>Greve de fome</b>: é inanição <b>voluntária</b>. Levanta questões éticas e jurídicas (autonomia da pessoa capaz, dever de cuidado do Estado com presos). O perito pode ser chamado a avaliar o estado nutricional e o risco de morte.</li><li><b>Perícia nos casos de privação</b>: além do exame do corpo (peso, altura, gordura, músculos, pele, dentes, curvas de crescimento comparadas com o prontuário de pediatria ou com fotos), o perito observa o <b>estômago e os intestinos</b> (vazios), a <b>ausência de gordura</b> nas cavidades, a <b>atrofia</b> de órgãos e a <b>concentração</b> do sangue e da urina, e procura afastar doenças que expliquem o quadro.</li></ul>\n<h3>27. Mais casos práticos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Morador de rua em noite fria</b><p>Um homem é encontrado morto pela manhã em uma praça, sem camisa, ao lado de uma garrafa de cachaça. A noite foi a mais fria do ano.</p><details><summary>Ver a solução comentada</summary><p>Os achados podem indicar <b>hipotermia</b> favorecida pelo <b>álcool</b> (vasodilatação e perda de calor). A ausência de camisa pode ser <b>desnudamento paradoxal</b>, e não sinal de agressão ou crime sexual. Na necropsia, procuram-se <b>livores vermelho-claros</b>, <b>manchas de Wischnewski</b> no estômago e exclui-se trauma; a <b>dosagem de álcool</b> no sangue completa o quadro. A investigação confirma ou afasta a participação de terceiros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Eletricista no poste</b><p>Um eletricista cai de um poste após tocar em um cabo energizado e morre no hospital horas depois.</p><details><summary>Ver a solução comentada</summary><p>O perito procura a <b>marca de entrada</b> (geralmente na mão) e de <b>saída</b> (pés, outra mão), queimaduras profundas de <b>alta tensão</b> e <b>lesões traumáticas</b> da queda (crânio, coluna, fraturas). Deve dizer qual foi a causa da morte (eletricidade, queda ou ambas). A perícia do <b>local</b> e a análise das condições de trabalho (equipamentos de proteção, desligamento da rede, normas de segurança) definem eventual <b>responsabilidade</b> da empresa (homicídio culposo, indenização).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Idosa acamada</b><p>Uma idosa acamada morre em casa. A família afirma que ela \"não comia mais\". O IML encontra extensas úlceras de pressão infectadas, desnutrição grave e desidratação.</p><details><summary>Ver a solução comentada</summary><p>Os achados são compatíveis com <b>negligência</b> grave, mas o perito deve verificar <b>doenças</b> que expliquem a perda de peso e as escaras (câncer avançado, demência terminal), registrar a <b>extensão e a profundidade</b> das úlceras e seu tempo de evolução, e o estado de higiene. A investigação apura se houve <b>omissão</b> de cuidados por quem tinha o dever de cuidar (crimes do Estatuto da Pessoa Idosa, maus-tratos ou homicídio por omissão, conforme o caso).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ataque com ácido</b><p>Uma mulher tem ácido jogado no rosto pelo ex-companheiro e fica com cicatrizes extensas e perda da visão de um olho.</p><details><summary>Ver a solução comentada</summary><p>A lesão química por <b>ácido</b> produz <b>escaras</b> e, depois, <b>cicatrizes</b> retráteis. Os quesitos de lesão corporal devem ser respondidos com <b>exame complementar</b>: a cicatriz visível, extensa e irreparável no rosto caracteriza <b>deformidade permanente</b> (lesão <b>gravíssima</b>), e a perda de um olho, <b>debilidade permanente</b> da visão. O meio empregado (substância cáustica) é relevante para o quesito do <b>meio insidioso ou cruel</b>. Por ter sido praticada contra a mulher em contexto de relação afetiva, incide a <b>Lei Maria da Penha</b>.</p></details></div>\n<h3>28. Queimaduras e lesão corporal: evolução, sequelas e quesitos</h3>\n<ul><li><b>Evolução no tempo</b> (dado útil para comparar a lesão com a data alegada do fato): o <b>eritema</b> (1º grau) desaparece em poucos dias, às vezes com descamação, sem cicatriz. As queimaduras de <b>2º grau superficiais</b> cicatrizam em cerca de duas a três semanas, em geral sem cicatriz importante; as de <b>2º grau profundas</b> demoram mais e podem deixar cicatrizes. As de <b>3º grau</b> destroem toda a espessura da pele e, salvo se forem pequenas, exigem <b>enxertos</b> e deixam <b>cicatrizes</b>, muitas vezes <b>retráteis</b> (que repuxam a pele e limitam os movimentos das articulações).</li><li><b>Quesitos e classificação</b>: a queimadura extensa pode gerar <b>perigo de vida</b> (choque, infecção grave), <b>incapacidade</b> para as ocupações habituais por <b>mais de 30 dias</b> (internações longas), <b>debilidade permanente</b> de função (cicatriz que limita o movimento da mão ou do cotovelo), <b>deformidade permanente</b> (cicatrizes extensas e visíveis, sobretudo no rosto e no pescoço) e, em casos graves, <b>perda ou inutilização</b> de membro ou função. Por isso, o exame de queimaduras quase sempre exige <b>exame complementar</b> após a fase aguda.</li><li><b>Meio cruel</b>: o emprego de <b>fogo</b> é expressamente mencionado no quesito do meio insidioso ou cruel (e é qualificadora do homicídio, CP, art. 121, § 2º, III). O perito responde, de forma técnica, se a lesão foi produzida por fogo ou por outro meio cruel.</li><li><b>Fotografia seriada</b>: em queimaduras, fotografias em datas diferentes documentam a evolução e ajudam o juiz a compreender a gravidade e as sequelas.</li></ul>\n<h3>29. Pressão atmosférica: detalhes que caem em prova</h3>\n<ul><li><b>Princípio</b>: quanto maior a profundidade na água, maior a <b>pressão</b>; os gases do corpo (ar nos pulmões, ouvidos e seios da face) são <b>comprimidos</b> na descida e <b>expandem</b> na subida.</li><li><b>Barotrauma de descida</b>: o ar dos <b>ouvidos</b> e <b>seios da face</b> não se equilibra com a pressão externa, causando dor, sangramento e até <b>ruptura do tímpano</b>. Por isso os mergulhadores fazem manobras para \"compensar\".</li><li><b>Barotrauma pulmonar de subida</b>: se o mergulhador sobe <b>prendendo a respiração</b>, o ar dos pulmões se expande e pode <b>romper os alvéolos</b>, levando ar para os vasos (<b>embolia gasosa arterial</b>, que pode atingir o cérebro e matar em minutos) ou para a pleura (pneumotórax).</li><li><b>Doença descompressiva</b>: diferente do barotrauma, depende do <b>nitrogênio dissolvido</b> no sangue e nos tecidos durante o mergulho; na subida rápida, ele forma <b>bolhas</b>. Causa dores nas articulações (\"<b>bends</b>\"), manchas na pele, alterações neurológicas e pode matar. O tratamento é a <b>câmara hiperbárica</b>. Voar de avião logo depois de mergulhar aumenta o risco (pressão ainda menor).</li><li><b>Necropsia</b>: em mortes de mergulhadores, o perito procura <b>ar nos vasos e nas cavidades</b> do coração (com técnica própria, abrindo o corpo sob água para ver as bolhas), lesões pulmonares e sinais de <b>afogamento</b>, que muitas vezes é a causa final. A análise do <b>equipamento</b> (cilindro, regulador, gás respirado) é parte essencial da perícia.</li><li><b>Altitude</b>: acima de alguns milhares de metros, a menor pressão reduz o oxigênio disponível (<b>hipóxia</b>). Em aeronaves, a <b>despressurização</b> súbita expõe os ocupantes a hipóxia rápida (por isso as máscaras de oxigênio) e a barotraumas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Barotrauma e doença descompressiva são a mesma coisa</span><br>✅ <span class=\"certo\"><b>Barotrauma</b> decorre da compressão e expansão do <b>ar</b> em cavidades; a <b>doença descompressiva</b>, das <b>bolhas de nitrogênio</b> dissolvido na subida rápida</span></li><li>❌ <span class=\"banca\">Subir prendendo a respiração protege os pulmões</span><br>✅ <span class=\"certo\">Pode <b>romper alvéolos</b> e causar <b>embolia gasosa arterial</b></span></li></ol></div>\n<h3>30. Luz, laser e som: aplicações periciais</h3>\n<ul><li><b>Laser</b>: feixes de laser de alta potência podem causar <b>lesões na retina</b> com perda permanente de parte da visão, em segundos. Apontar laser para <b>pilotos de aeronaves</b> cria risco de acidente (ofuscamento) e é conduta que pode configurar crime contra a segurança do transporte aéreo. Em lesão corporal, a perda parcial e permanente da visão de um olho configura, em regra, <b>debilidade permanente</b> de sentido.</li><li><b>Luz intensa e ofuscamento</b>: faróis altos e luzes potentes podem cegar momentaneamente motoristas, o que interessa à <b>perícia de acidentes de trânsito</b>.</li><li><b>Som intenso</b>: explosões e disparos muito próximos do ouvido podem <b>romper o tímpano</b> e lesar o ouvido interno, com zumbido e perda auditiva. Na lesão corporal, a perda auditiva permanente de um ouvido é, em regra, <b>debilidade</b> permanente do sentido da audição (órgão duplo).</li><li><b>Ruído ocupacional</b>: a perda auditiva induzida por ruído é <b>progressiva</b>, <b>bilateral</b> e geralmente <b>irreversível</b>; é doença do trabalho prevenível com protetores auriculares e controle do ruído, tema da infortunística.</li><li><b>Infrassom e ultrassom</b> de alta intensidade têm efeitos descritos em ambientes industriais, com pouca relevância pericial prática.</li></ul>\n<h3>31. Revisão dos nomes próprios do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Nome</th><th>Achado ou contribuição</th></tr></thead><tbody><tr><td><b>Jellinek</b></td><td>marca elétrica de entrada (endurecida, indolor, bordas elevadas, centro deprimido)</td></tr><tr><td><b>Lichtenberg</b></td><td>figuras arborescentes do raio, efêmeras</td></tr><tr><td><b>Chambert</b></td><td>sinal que diferencia flictena vital de post mortem</td></tr><tr><td><b>Montalti</b></td><td>fuligem nas vias aéreas, sinal de que a vítima respirava no incêndio</td></tr><tr><td><b>Wischnewski</b></td><td>erosões hemorrágicas do estômago na morte pelo frio</td></tr><tr><td><b>Wallace</b></td><td>regra dos nove para a extensão das queimaduras</td></tr><tr><td><b>Hoffmann</b> e <b>Lussena</b></td><td>classificação das queimaduras em graus</td></tr><tr><td><b>Tardieu</b></td><td>descrição pioneira dos maus-tratos infantis</td></tr><tr><td><b>Caffey</b></td><td>fraturas e hematoma subdural em bebês</td></tr><tr><td><b>Kempe</b></td><td>\"síndrome da criança espancada\"</td></tr><tr><td><b>Silverman</b></td><td>outro nome associado à síndrome</td></tr></tbody></table>\n<ul><li><b>Truque de memória</b>: \"<b>J</b>ellinek = <b>J</b>unto ao fio\" (marca da eletricidade industrial); \"<b>L</b>ichtenberg = <b>L</b>ampejo do céu\" (raio); \"<b>Ch</b>ambert = <b>Ch</b>eca a bolha\"; \"<b>W</b>ischnewski = <b>W</b>inter\" (inverno, frio).</li></ul>\n<h3>32. Como as bancas cobram este tópico</h3>\n<ul><li><b>Nomes</b>: insolação (sol, ao ar livre) x <b>intermação</b> (ambiente fechado e úmido); <b>fulguração</b> (raio, sem morte) x <b>fulminação</b> (raio, com morte); <b>eletroplessão</b> (eletricidade industrial, morte acidental) x <b>eletrocussão</b> (execução).</li><li><b>Sinais</b>: <b>Jellinek</b> (marca elétrica de entrada: endurecida, indolor, bordas elevadas, centro deprimido, sem inflamação), <b>Lichtenberg</b> (raio: arborizações efêmeras), <b>Chambert</b> (flictena vital x post mortem), <b>Montalti</b> (fuligem nas vias aéreas), <b>Wischnewski</b> (erosões gástricas no frio), <b>posição de boxeador</b> (calor, não luta).</li><li><b>Graus de queimadura</b> (eritema, flictena, escara, carbonização) e <b>regra dos nove</b> (cabeça 9, cada braço 9, tronco anterior 18, posterior 18, cada perna 18, períneo 1).</li><li><b>Vida no incêndio</b>: fuligem abaixo da glote e carboxi-hemoglobina.</li><li><b>Criança espancada</b>: fraturas em diferentes fases, lesões em regiões protegidas, história incompatível; bebê sacudido (tríade); Munchausen por procuração (o cuidador simula); negligência é a forma mais comum.</li></ul>\n<h3>33. Glossário do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Termonose</b></td><td>efeito geral do calor ambiental</td></tr><tr><td><b>Insolação</b></td><td>termonose pelo sol, ao ar livre</td></tr><tr><td><b>Intermação</b></td><td>termonose em ambiente fechado, quente e úmido</td></tr><tr><td><b>Eritema</b></td><td>vermelhidão (queimadura de 1º grau)</td></tr><tr><td><b>Flictena</b></td><td>bolha (queimadura de 2º grau)</td></tr><tr><td><b>Escara</b></td><td>necrose (queimadura de 3º grau)</td></tr><tr><td><b>Carbonização</b></td><td>queimadura de 4º grau</td></tr><tr><td><b>Escaldadura</b></td><td>queimadura por líquido quente</td></tr><tr><td><b>Sinal de Chambert</b></td><td>diferença entre flictena vital e post mortem</td></tr><tr><td><b>Carboxi-hemoglobina</b></td><td>hemoglobina ligada ao monóxido de carbono; cor vermelho-cereja</td></tr><tr><td><b>Geladura</b></td><td>lesão local pelo frio</td></tr><tr><td><b>Hipotermia</b></td><td>queda da temperatura do corpo</td></tr><tr><td><b>Desnudamento paradoxal</b></td><td>vítima de hipotermia que tira a roupa</td></tr><tr><td><b>Manchas de Wischnewski</b></td><td>erosões hemorrágicas do estômago na morte pelo frio</td></tr><tr><td><b>Barotrauma</b></td><td>lesão pela variação de pressão</td></tr><tr><td><b>Doença descompressiva</b></td><td>bolhas de gás no sangue na subida rápida do mergulho</td></tr><tr><td><b>Fulguração</b></td><td>lesão por raio sem morte</td></tr><tr><td><b>Fulminação</b></td><td>morte por raio</td></tr><tr><td><b>Eletroplessão</b></td><td>morte acidental por eletricidade industrial</td></tr><tr><td><b>Eletrocussão</b></td><td>execução por eletricidade</td></tr><tr><td><b>Marca de Jellinek</b></td><td>marca elétrica de entrada</td></tr><tr><td><b>Metalização</b></td><td>depósito de metal do condutor na pele</td></tr><tr><td><b>Figuras de Lichtenberg</b></td><td>arborizações cutâneas efêmeras do raio</td></tr><tr><td><b>Radiodermite</b></td><td>lesão da pele por radiação ionizante</td></tr><tr><td><b>Caquexia</b></td><td>emagrecimento extremo</td></tr><tr><td><b>Sevícias</b></td><td>maus-tratos repetidos</td></tr><tr><td><b>Bebê sacudido</b></td><td>trauma craniano abusivo (subdural, retina, cérebro)</td></tr></tbody></table>\n<h3>34. Mapa de revisão do tópico</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Insolação</span></span><span class=\"vs\"><span>calor do sol, ao ar livre</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Intermação</span></span><span class=\"vs\"><span>calor em ambiente fechado e úmido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Queimadura de 2º grau</span></span><span class=\"vs\"><span>flictena (bolha)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Queimadura de 4º grau</span></span><span class=\"vs\"><span>carbonização</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra dos nove: cada membro superior</span></span><span class=\"vs\"><span>9%</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra dos nove: cada membro inferior</span></span><span class=\"vs\"><span>18%</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sinal de Chambert</span></span><span class=\"vs\"><span>flictena vital rica em albumina e leucócitos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vida no incêndio</span></span><span class=\"vs\"><span>fuligem abaixo das cordas vocais e carboxi-hemoglobina elevada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Posição de boxeador</span></span><span class=\"vs\"><span>efeito do calor, não indica luta</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Manchas de Wischnewski</span></span><span class=\"vs\"><span>erosões gástricas na morte pelo frio</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Desnudamento paradoxal</span></span><span class=\"vs\"><span>hipotermia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fulguração</span></span><span class=\"vs\"><span>raio sem morte</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fulminação</span></span><span class=\"vs\"><span>morte por raio</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eletroplessão</span></span><span class=\"vs\"><span>morte acidental por eletricidade industrial</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marca de Jellinek</span></span><span class=\"vs\"><span>endurecida, indolor, bordas elevadas, centro deprimido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Figuras de Lichtenberg</span></span><span class=\"vs\"><span>arborizações do raio, efêmeras</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Corrente mais perigosa em baixa tensão</span></span><span class=\"vs\"><span>alternada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Síndrome do bebê sacudido</span></span><span class=\"vs\"><span>subdural, hemorragias retinianas e lesão cerebral</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Munchausen por procuração</span></span><span class=\"vs\"><span>o cuidador simula ou provoca a doença</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Forma mais comum de maus-tratos</span></span><span class=\"vs\"><span>negligência</span></span></button></div></div>",
 "quiz": [
+{
+"p": "As energias de ordem física incluem a temperatura, a pressão atmosférica, a eletricidade, as radiações, a luz e o som.",
+"c": true,
+"prof": "Classificação das energias.",
+"x": "Agem sem ação mecânica direta e sem ação química.",
+"e": "Energias físicas."
+},
+{
+"p": "Sevícias, fadiga e doenças parasitárias são classificadas como energias mistas.",
+"c": true,
+"prof": "Classificação das energias.",
+"x": "Combinam várias energias.",
+"e": "Energias mistas."
+},
+{
+"p": "O choque e a síndrome de falência de múltiplos órgãos são exemplos de energias biodinâmicas.",
+"c": true,
+"prof": "Classificação das energias.",
+"x": "Elo final de muitas mortes por trauma.",
+"e": "Biodinâmicas."
+},
+{
+"p": "A inanição é exemplo de energia de ordem bioquímica.",
+"c": true,
+"prof": "Classificação das energias.",
+"x": "Perturbação alimentar.",
+"e": "Inanição: bioquímica."
+},
+{
+"p": "Termonoses são quadros causados pelo calor ambiental sobre o organismo como um todo.",
+"c": true,
+"prof": "Termonoses.",
+"x": "Não se confundem com queimaduras, que são lesões locais.",
+"e": "Termonose: efeito geral."
+},
+{
+"p": "Insolação é a termonose decorrente da exposição ao sol ao ar livre; intermação é a decorrente do calor em ambiente fechado, úmido e sem ventilação.",
+"c": true,
+"prof": "Termonoses.",
+"x": "Ex. de intermação: criança no carro fechado.",
+"e": "Insolação x intermação."
+},
+{
+"p": "A intermação é a termonose causada pela exposição direta ao sol em ambiente aberto.",
+"c": false,
+"prof": "Termonoses.",
+"x": "Essa é a insolação.",
+"e": "Intermação: fechado."
+},
+{
+"p": "Na morte por termonose, os achados de necropsia são pouco específicos, e o diagnóstico depende muito do histórico e do local.",
+"c": true,
+"prof": "Termonoses.",
+"x": "Temperatura e tempo de exposição.",
+"e": "Termonose: histórico."
+},
+{
+"p": "Na classificação médico-legal clássica, a queimadura de 1º grau é o eritema, a de 2º grau, a flictena, a de 3º grau, a escara, e a de 4º grau, a carbonização.",
+"c": true,
+"prof": "Queimaduras.",
+"x": "Classificação em quatro graus.",
+"e": "Graus da queimadura."
+},
+{
+"p": "A flictena caracteriza a queimadura de 3º grau.",
+"c": false,
+"prof": "Queimaduras.",
+"x": "Flictena é 2º grau; 3º grau é escara.",
+"e": "Flictena: 2º grau."
+},
+{
+"p": "A gravidade das queimaduras depende sobretudo da extensão da superfície corporal atingida.",
+"c": true,
+"prof": "Queimaduras.",
+"x": "Queimaduras extensas matam por choque e infecção.",
+"e": "Extensão pesa mais."
+},
+{
+"p": "Pela regra dos nove, em adulto, a superfície correspondente a cada membro inferior é de:",
+"alts": [
+"9%",
+"18%",
+"27%",
+"36%",
+"1%"
+],
+"r": 1,
+"n": [
+"É cada membro superior ou a cabeça.",
+"Correta.",
+"Não.",
+"É a soma dos dois membros inferiores.",
+"É o períneo."
+],
+"prof": "Regra dos nove.",
+"x": "Cabeça 9, cada membro superior 9, tronco anterior 18, posterior 18, cada membro inferior 18, períneo 1.",
+"e": "Membro inferior: 18%."
+},
+{
+"p": "Pela regra dos nove, a cabeça e o pescoço correspondem a 9% e o períneo, a 1% da superfície corporal do adulto.",
+"c": true,
+"prof": "Regra dos nove.",
+"x": "Em crianças, usam-se tabelas próprias.",
+"e": "Cabeça 9; períneo 1."
+},
+{
+"p": "As queimaduras por sólidos aquecidos tendem a reproduzir a forma do objeto.",
+"c": true,
+"prof": "Queimaduras.",
+"x": "Ex.: ferro de passar, ponta de cigarro.",
+"e": "Sólido: reproduz forma."
+},
+{
+"p": "Queimaduras circulares de cerca de 1 cm, múltiplas, sugerem ponta de cigarro e podem indicar tortura ou maus-tratos.",
+"c": true,
+"prof": "Queimaduras.",
+"x": "Padrão intencional.",
+"e": "Cigarro: maus-tratos."
+},
+{
+"p": "As escaldaduras, produzidas por líquidos quentes, formam escorrimentos e em regra poupam os pelos.",
+"c": true,
+"prof": "Queimaduras.",
+"x": "A chama queima os pelos.",
+"e": "Escaldadura poupa pelos."
+},
+{
+"p": "A escaldadura por imersão, com limites nítidos em luva ou meia e sem respingos, é padrão sugestivo de maus-tratos.",
+"c": true,
+"prof": "Queimaduras em crianças.",
+"x": "A acidental é irregular, com respingos.",
+"e": "Imersão: luva ou meia."
+},
+{
+"p": "Pelo sinal de Chambert, a flictena produzida em vida tem conteúdo rico em albumina e leucócitos e base com reação inflamatória.",
+"c": true,
+"prof": "Sinal de Chambert.",
+"x": "A post mortem tem conteúdo pobre, às vezes gasoso.",
+"e": "Chambert: flictena vital."
+},
+{
+"p": "A presença de fuligem nas vias aéreas abaixo das cordas vocais indica que a vítima respirava durante o incêndio.",
+"c": true,
+"prof": "Vida no incêndio.",
+"x": "Também pode haver fuligem no esôfago e no estômago.",
+"e": "Fuligem traqueal."
+},
+{
+"p": "A elevação da carboxi-hemoglobina no sangue indica que a vítima inalou monóxido de carbono, estando viva durante o incêndio.",
+"c": true,
+"prof": "Vida no incêndio.",
+"x": "Sangue e livores vermelho-cereja.",
+"e": "Carboxi-hemoglobina."
+},
+{
+"p": "A posição de boxeador do cadáver carbonizado demonstra que a vítima lutou contra o agressor antes de morrer.",
+"c": false,
+"prof": "Carbonização.",
+"x": "É efeito do calor, que retrai os músculos.",
+"e": "Boxeador: calor."
+},
+{
+"p": "O calor intenso pode produzir fraturas e um acúmulo extradural de sangue de cor achocolatada, post mortem, que devem ser diferenciados de lesões traumáticas.",
+"c": true,
+"prof": "Carbonização.",
+"x": "Hematoma extradural térmico.",
+"e": "Lesões térmicas post mortem."
+},
+{
+"p": "Corpo carbonizado com vias aéreas limpas, carboxi-hemoglobina normal e ferida de faca com reação vital sugere homicídio seguido de incêndio.",
+"c": true,
+"prof": "Vida no incêndio.",
+"x": "O fogo foi posterior à morte.",
+"e": "Queimado depois de morto."
+},
+{
+"p": "Na identificação de carbonizados, os dentes e o DNA de ossos e dentes são os principais métodos.",
+"c": true,
+"prof": "Carbonização.",
+"x": "As digitais costumam ser destruídas.",
+"e": "Carbonizado: dentes e DNA."
+},
+{
+"p": "As geladuras evoluem em graus: eritema, flictenas e necrose.",
+"c": true,
+"prof": "Frio.",
+"x": "Atingem extremidades.",
+"e": "Geladuras."
+},
+{
+"p": "O álcool favorece a hipotermia, por dilatar os vasos da pele e aumentar a perda de calor.",
+"c": true,
+"prof": "Hipotermia.",
+"x": "Também idade extrema, imobilidade e roupas molhadas.",
+"e": "Álcool e frio."
+},
+{
+"p": "As manchas de Wischnewski são pequenas erosões hemorrágicas da mucosa gástrica, sinal clássico de morte pelo frio.",
+"c": true,
+"prof": "Hipotermia.",
+"x": "Também livores vermelho-claros.",
+"e": "Wischnewski: estômago."
+},
+{
+"p": "No desnudamento paradoxal, a vítima de hipotermia retira as roupas na fase final, o que pode levar à falsa suspeita de crime sexual.",
+"c": true,
+"prof": "Hipotermia.",
+"x": "Sensação de calor por alterações vasculares.",
+"e": "Desnudamento paradoxal."
+},
+{
+"p": "Os livores da morte por hipotermia têm coloração arroxeada escura, típica da asfixia.",
+"c": false,
+"prof": "Hipotermia.",
+"x": "São vermelho-claros, pela hemoglobina oxigenada no frio.",
+"e": "Frio: livor vermelho-claro."
+},
+{
+"p": "A doença descompressiva ocorre na subida rápida do mergulho, pela formação de bolhas de nitrogênio no sangue.",
+"c": true,
+"prof": "Pressão.",
+"x": "Pode causar embolia gasosa.",
+"e": "Descompressão."
+},
+{
+"p": "O mal das montanhas é consequência do hipobarismo, típico das grandes altitudes.",
+"c": true,
+"prof": "Pressão.",
+"x": "Falta de oxigênio.",
+"e": "Hipobarismo."
+},
+{
+"p": "Fulguração é a lesão produzida por raio sem morte; fulminação é a morte por raio.",
+"c": true,
+"prof": "Eletricidade natural.",
+"x": "Não inverta.",
+"e": "Fulguração x fulminação."
+},
+{
+"p": "Fulminação é a lesão por raio que não causa a morte.",
+"c": false,
+"prof": "Eletricidade natural.",
+"x": "Fulminação é a morte; a lesão sem morte é fulguração.",
+"e": "Fulminação = morte."
+},
+{
+"p": "Eletroplessão é a morte acidental causada por eletricidade artificial ou industrial.",
+"c": true,
+"prof": "Eletricidade artificial.",
+"x": "Eletrocussão é a execução judicial.",
+"e": "Eletroplessão."
+},
+{
+"p": "Na doutrina médico-legal, eletrocussão designa a execução por meio da eletricidade.",
+"c": true,
+"prof": "Eletricidade artificial.",
+"x": "A morte acidental é eletroplessão.",
+"e": "Eletrocussão: execução."
+},
+{
+"p": "Em baixa tensão, a corrente alternada é mais perigosa que a contínua, por provocar tetanização muscular e fibrilação ventricular.",
+"c": true,
+"prof": "Eletricidade.",
+"x": "A vítima não consegue soltar o condutor.",
+"e": "Alternada mais perigosa."
+},
+{
+"p": "A pele úmida ou molhada tem resistência menor à passagem da corrente elétrica do que a pele seca.",
+"c": true,
+"prof": "Eletricidade.",
+"x": "Por isso banheiros são perigosos.",
+"e": "Úmida conduz."
+},
+{
+"p": "O trajeto da corrente que passa pelo coração, como mão-mão ou mão-pé, é o mais perigoso.",
+"c": true,
+"prof": "Eletricidade.",
+"x": "Risco de fibrilação.",
+"e": "Trajeto pelo coração."
+},
+{
+"p": "A fibrilação ventricular é mecanismo de morte comum no choque de baixa tensão, como o da rede doméstica.",
+"c": true,
+"prof": "Eletricidade.",
+"x": "Em alta tensão, predominam queimaduras.",
+"e": "Baixa tensão: fibrilação."
+},
+{
+"p": "A marca elétrica de Jellinek é endurecida, indolor, de bordas elevadas e centro deprimido, sem reação inflamatória e sem sangramento.",
+"c": true,
+"prof": "Marca de Jellinek.",
+"x": "Marca de entrada da corrente.",
+"e": "Jellinek."
+},
+{
+"p": "A marca elétrica de Jellinek é dolorosa e apresenta halo inflamatório e sangramento abundante.",
+"c": false,
+"prof": "Marca de Jellinek.",
+"x": "É indolor, sem inflamação e sem sangramento.",
+"e": "Jellinek: indolor."
+},
+{
+"p": "A marca elétrica pode reproduzir a forma do condutor, como um fio ou o pino de uma tomada.",
+"c": true,
+"prof": "Marca de Jellinek.",
+"x": "Ajuda a identificar o condutor.",
+"e": "Marca reproduz condutor."
+},
+{
+"p": "Metalização é o depósito de partículas do metal do condutor na pele.",
+"c": true,
+"prof": "Eletricidade.",
+"x": "Indica o tipo de condutor.",
+"e": "Metalização."
+},
+{
+"p": "Em ambiente úmido, a marca elétrica pode ser mínima ou ausente, sendo decisiva a perícia do local.",
+"c": true,
+"prof": "Eletricidade.",
+"x": "Baixa resistência da pele.",
+"e": "Sem marca não exclui."
+},
+{
+"p": "As figuras de Lichtenberg são arborizações avermelhadas na pele, características do raio, que desaparecem em horas ou poucos dias.",
+"c": true,
+"prof": "Raio.",
+"x": "Devem ser fotografadas logo.",
+"e": "Lichtenberg: efêmeras."
+},
+{
+"p": "As figuras de Lichtenberg são permanentes e típicas da eletricidade industrial.",
+"c": false,
+"prof": "Raio.",
+"x": "São efêmeras e características do raio.",
+"e": "Lichtenberg: raio."
+},
+{
+"p": "O raio pode magnetizar ou derreter objetos metálicos usados pela vítima e rasgar suas roupas e calçados.",
+"c": true,
+"prof": "Raio.",
+"x": "Outros sinais da descarga.",
+"e": "Raio: objetos metálicos."
+},
+{
+"p": "A vítima de raio não transmite choque a quem a socorre após a descarga.",
+"c": true,
+"prof": "Raio.",
+"x": "Deve ser socorrida e reanimada.",
+"e": "Socorrer vítima de raio."
+},
+{
+"p": "As radiodermites, lesões de pele por radiação ionizante, costumam aparecer dias ou semanas após a exposição.",
+"c": true,
+"prof": "Radiações.",
+"x": "A radiação não dói nem queima na hora.",
+"e": "Radiodermite tardia."
+},
+{
+"p": "A síndrome aguda da radiação decorre da exposição de corpo inteiro a doses altas de radiação ionizante.",
+"c": true,
+"prof": "Radiações.",
+"x": "Náuseas, queda das células do sangue, infecções.",
+"e": "Síndrome aguda da radiação."
+},
+{
+"p": "O acidente de Goiânia, em 1987, envolveu uma cápsula de césio-137 de aparelho de radioterapia abandonado.",
+"c": true,
+"prof": "Radiações.",
+"x": "Causou mortes e contaminação.",
+"e": "Goiânia: césio-137."
+},
+{
+"p": "O ruído contínuo no ambiente de trabalho pode causar perda auditiva induzida por ruído, tema de infortunística.",
+"c": true,
+"prof": "Som.",
+"x": "Ruído súbito intenso causa trauma acústico.",
+"e": "PAIR."
+},
+{
+"p": "A privação de água leva à morte muito mais rapidamente do que a privação de alimentos.",
+"c": true,
+"prof": "Inanição.",
+"x": "Crianças e idosos são mais vulneráveis.",
+"e": "Desidratação mata rápido."
+},
+{
+"p": "Antes de atribuir a caquexia à privação de alimentos, o perito deve excluir doenças que causam emagrecimento.",
+"c": true,
+"prof": "Inanição.",
+"x": "Ex.: câncer, tuberculose.",
+"e": "Excluir doenças."
+},
+{
+"p": "O choque hipovolêmico decorre da perda de sangue ou de líquidos, como em hemorragias e queimaduras extensas.",
+"c": true,
+"prof": "Choque.",
+"x": "Outros: cardiogênico, séptico, neurogênico, anafilático.",
+"e": "Hipovolêmico."
+},
+{
+"p": "Quando a vítima de agressão morre dias depois por falência de múltiplos órgãos decorrente da lesão, o nexo causal com a agressão se mantém.",
+"c": true,
+"prof": "Biodinâmicas.",
+"x": "A complicação decorre da lesão.",
+"e": "Falência: nexo mantido."
+},
+{
+"p": "Fraturas em diferentes fases de consolidação e equimoses de cores diferentes em uma criança sugerem agressões repetidas.",
+"c": true,
+"prof": "Síndrome da criança espancada.",
+"x": "Doenças ósseas devem ser descartadas.",
+"e": "Fases diferentes: repetição."
+},
+{
+"p": "Lesões em regiões protegidas, como orelhas, pescoço, abdome e parte interna das coxas, são sinais de alerta para maus-tratos infantis.",
+"c": true,
+"prof": "Síndrome da criança espancada.",
+"x": "Quedas acidentais atingem saliências.",
+"e": "Regiões protegidas."
+},
+{
+"p": "A expressão síndrome da criança espancada foi consagrada por Kempe e colaboradores, a partir de descrições anteriores de Tardieu e de Caffey.",
+"c": true,
+"prof": "Histórico.",
+"x": "Também chamada síndrome de Silverman.",
+"e": "Kempe."
+},
+{
+"p": "A tríade clássica da síndrome do bebê sacudido é:",
+"alts": [
+"fratura de crânio, equimoses e escoriações",
+"hematoma subdural, hemorragias retinianas e lesão cerebral",
+"queimaduras, fraturas de costelas e desnutrição",
+"hematoma extradural, intervalo lúcido e fratura temporal",
+"petéquias, cianose e fratura do hioide"
+],
+"r": 1,
+"n": [
+"Muitas vezes não há lesão externa.",
+"Correta.",
+"Não é a tríade.",
+"É quadro de trauma com ruptura arterial.",
+"Achados de asfixia."
+],
+"prof": "Bebê sacudido.",
+"x": "Pode não haver lesão externa visível.",
+"e": "Subdural + retina + cérebro."
+},
+{
+"p": "Na síndrome do bebê sacudido, há sempre lesões externas evidentes na cabeça.",
+"c": false,
+"prof": "Bebê sacudido.",
+"x": "Muitas vezes não há lesão externa.",
+"e": "Sem lesão externa."
+},
+{
+"p": "Fraturas de costelas posteriores e das metáfises dos ossos longos em bebês são sugestivas de maus-tratos por apertar e sacudir.",
+"c": true,
+"prof": "Síndrome da criança espancada.",
+"x": "Raras em acidentes comuns.",
+"e": "Costelas posteriores."
+},
+{
+"p": "Na síndrome de Munchausen por procuração, o cuidador inventa, simula ou provoca sintomas na criança.",
+"c": true,
+"prof": "Munchausen por procuração.",
+"x": "Forma grave de maus-tratos.",
+"e": "Cuidador simula."
+},
+{
+"p": "A negligência é a forma mais comum de maus-tratos contra crianças.",
+"c": true,
+"prof": "Maus-tratos.",
+"x": "Falta de alimentação, higiene, cuidados.",
+"e": "Negligência."
+},
+{
+"p": "A Lei 13.431/2017 disciplina a escuta especializada e o depoimento especial de crianças e adolescentes vítimas ou testemunhas de violência.",
+"c": true,
+"prof": "Lei 13.431/2017.",
+"x": "Evita a revitimização.",
+"e": "Depoimento especial."
+},
+{
+"p": "A Lei 14.344/2022, conhecida como Lei Henry Borel, criou mecanismos para prevenir e enfrentar a violência doméstica e familiar contra a criança e o adolescente.",
+"c": true,
+"prof": "Lei 14.344/2022.",
+"x": "Complementa o ECA.",
+"e": "Lei Henry Borel."
+},
+{
+"p": "Úlceras de pressão extensas, desnutrição e desidratação em idoso acamado podem indicar negligência do cuidador ou da instituição.",
+"c": true,
+"prof": "Maus-tratos a idosos.",
+"x": "O perito avalia o conjunto.",
+"e": "Escaras: negligência."
+},
+{
+"p": "Os serviços de saúde devem notificar compulsoriamente os casos de suspeita ou confirmação de violência contra a pessoa idosa.",
+"c": true,
+"prof": "Estatuto da Pessoa Idosa, art. 19.",
+"x": "E comunicar às autoridades.",
+"e": "Idoso: notificação."
+},
+{
+"p": "Criança que morre em carro fechado estacionado ao sol é vítima de termonose por intermação.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Calor confinado em ambiente fechado.",
+"e": "Carro: intermação."
+},
+{
+"p": "Uma queda de pequena altura raramente explica hematoma subdural com hemorragias retinianas em bebê, sendo a história incompatível sinal de alerta.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Sugere trauma abusivo.",
+"e": "História incompatível."
+},
+{
+"p": "A transmissão dolosa ou culposa de doenças, como no contágio venéreo, é tratada pela classificação das energias como bioquímica e tem tipos penais próprios.",
+"c": true,
+"prof": "Energias bioquímicas.",
+"x": "CP, arts. 130 e 131.",
+"e": "Contágio: bioquímica."
+},
+{
+"p": "Muitas vítimas de incêndio morrem antes de serem atingidas pelas chamas, intoxicadas pelo monóxido de carbono e pelo gás cianídrico da fumaça.",
+"c": true,
+"prof": "Mecanismos de morte no fogo.",
+"x": "O cianeto vem da queima de plásticos e espumas.",
+"e": "Fumaça mata."
+},
+{
+"p": "A infecção é a principal causa de morte tardia nos grandes queimados.",
+"c": true,
+"prof": "Mecanismos de morte no fogo.",
+"x": "A pele queimada perde a barreira de proteção.",
+"e": "Sepse tardia."
+},
+{
+"p": "Queimaduras por bases fortes tendem a produzir lesões moles e profundas, enquanto os ácidos tendem a formar escaras secas.",
+"c": true,
+"prof": "Queimaduras químicas.",
+"x": "Liquefação x coagulação.",
+"e": "Base: mole e profunda."
+},
+{
+"p": "Na perícia de incêndio, os peritos verificam a causa e o lugar em que o fogo começou, o perigo, a extensão do dano e o seu valor.",
+"c": true,
+"prof": "CPP, art. 173.",
+"x": "Procuram foco e acelerantes.",
+"e": "Perícia de incêndio."
+},
+{
+"p": "A existência de múltiplos focos de incêndio é indício de incêndio provocado.",
+"c": true,
+"prof": "Perícia de incêndio.",
+"x": "Também vestígios de acelerantes.",
+"e": "Múltiplos focos."
+},
+{
+"p": "A Lei 13.060/2014 disciplina o uso de instrumentos de menor potencial ofensivo pelos agentes de segurança pública.",
+"c": true,
+"prof": "Lei 13.060/2014.",
+"x": "Legalidade, necessidade, razoabilidade e proporcionalidade.",
+"e": "Menor potencial ofensivo."
+},
+{
+"p": "Os dispositivos de eletrochoque com dardos costumam deixar pequenas lesões puntiformes pareadas na pele.",
+"c": true,
+"prof": "Instrumentos de choque.",
+"x": "Lesões secundárias podem vir da queda.",
+"e": "Lesões pareadas."
+},
+{
+"p": "A ausência de marcas visíveis não exclui a tortura por choque elétrico, cujas lesões podem ser mínimas e passageiras.",
+"c": true,
+"prof": "Tortura.",
+"x": "Exame precoce e minucioso.",
+"e": "Choque sem marcas."
+},
+{
+"p": "O crime de maus-tratos tem pena aumentada de um terço se praticado contra pessoa menor de 14 anos.",
+"c": true,
+"prof": "CP, art. 136, § 3º.",
+"x": "Pena-base: detenção de 2 meses a 1 ano, ou multa.",
+"e": "Maus-tratos: +1/3."
+},
+{
+"p": "Nos maus-tratos há abuso dos meios de correção ou disciplina, enquanto na tortura-castigo a vítima é submetida a intenso sofrimento físico ou mental como castigo pessoal.",
+"c": true,
+"prof": "CP, art. 136; Lei 9.455/1997, art. 1º, II.",
+"x": "A perícia ajuda a avaliar a intensidade.",
+"e": "Maus-tratos x tortura-castigo."
+},
+{
+"p": "A Lei 13.010/2014 incluiu no ECA o direito da criança e do adolescente de serem educados sem o uso de castigo físico ou de tratamento cruel ou degradante.",
+"c": true,
+"prof": "ECA, art. 18-A.",
+"x": "Conhecida como Lei da Palmada.",
+"e": "Lei da Palmada."
+},
+{
+"p": "Se resulta morte, o crime de maus-tratos é punido com reclusão de 4 a 12 anos.",
+"c": true,
+"prof": "CP, art. 136, § 2º.",
+"x": "Se resulta lesão grave, reclusão de 1 a 4 anos.",
+"e": "Maus-tratos com morte."
+},
+{
+"p": "Infortunística é o ramo que estuda os acidentes e as doenças do trabalho, avaliando nexo e grau de incapacidade.",
+"c": true,
+"prof": "Infortunística.",
+"x": "Fins trabalhistas, previdenciários, civis e penais.",
+"e": "Infortunística."
+},
+{
+"p": "No suicídio pelo fogo, as queimaduras costumam predominar na parte superior e anterior do corpo, com padrão de escorrimento do líquido inflamável.",
+"c": true,
+"prof": "Autoimolação.",
+"x": "Recipiente e isqueiro por perto.",
+"e": "Autoimolação."
+},
+{
+"p": "Na febre, o organismo eleva o próprio termostato; na hipertermia, ele não consegue perder o calor recebido ou produzido.",
+"c": true,
+"prof": "Termorregulação.",
+"x": "As termonoses são hipertermias.",
+"e": "Febre x hipertermia."
+},
+{
+"p": "A vítima de hipotermia profunda pode aparentar estar morta, devendo ser aquecida antes de ser declarada morta.",
+"c": true,
+"prof": "Hipotermia.",
+"x": "Há casos de reanimação bem-sucedida.",
+"e": "Morte aparente no frio."
+},
+{
+"p": "Pela lei de Ohm, para uma mesma tensão, quanto menor a resistência do corpo, maior a intensidade da corrente que o atravessa.",
+"c": true,
+"prof": "Eletricidade.",
+"x": "Pele molhada reduz a resistência.",
+"e": "Ohm."
+},
+{
+"p": "A intensidade da corrente é o fator principal para a gravidade do choque elétrico.",
+"c": true,
+"prof": "Eletricidade.",
+"x": "Tempo, trajeto e resistência também influem.",
+"e": "Intensidade."
+},
+{
+"p": "Antes de tocar na vítima presa a um condutor energizado, deve-se desligar a energia ou afastar o fio com material isolante seco.",
+"c": true,
+"prof": "Socorro.",
+"x": "Depois, iniciar a reanimação.",
+"e": "Desligar antes."
+},
+{
+"p": "A pessoa irradiada por fonte externa não se torna radioativa; a pessoa contaminada tem material radioativo sobre ou dentro do corpo e pode contaminar outras.",
+"c": true,
+"prof": "Radiações.",
+"x": "Exige descontaminação.",
+"e": "Irradiado x contaminado."
+},
+{
+"p": "Na inanição total com acesso à água, o organismo consome primeiro o glicogênio, depois a gordura e, por fim, as proteínas.",
+"c": true,
+"prof": "Inanição.",
+"x": "A sobrevivência pode chegar a semanas.",
+"e": "Ordem das reservas."
+},
+{
+"p": "A síndrome de realimentação pode causar arritmias e morte em pessoas gravemente desnutridas realimentadas de forma brusca.",
+"c": true,
+"prof": "Inanição.",
+"x": "Explica mortes logo após o resgate.",
+"e": "Realimentação."
+},
+{
+"p": "O ácido lançado no rosto que deixa cicatrizes extensas, visíveis e irreparáveis pode caracterizar deformidade permanente, lesão gravíssima.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "CP, art. 129, § 2º, IV.",
+"e": "Ácido: deformidade."
+},
+{
+"p": "Queimaduras de 3º grau, salvo as pequenas, exigem enxertos e deixam cicatrizes, muitas vezes retráteis.",
+"c": true,
+"prof": "Evolução das queimaduras.",
+"x": "Podem limitar movimentos.",
+"e": "3º grau: enxerto."
+},
+{
+"p": "O fogo é mencionado no quesito oficial sobre meio insidioso ou cruel e é qualificadora do homicídio.",
+"c": true,
+"prof": "Quesitos.",
+"x": "CP, art. 121, § 2º, III.",
+"e": "Fogo: meio cruel."
+},
+{
+"p": "O barotrauma decorre da compressão e expansão do ar em cavidades do corpo; a doença descompressiva, da formação de bolhas de nitrogênio dissolvido na subida rápida.",
+"c": true,
+"prof": "Pressão.",
+"x": "Tratamento: câmara hiperbárica.",
+"e": "Barotrauma x descompressão."
+},
+{
+"p": "Subir à superfície prendendo a respiração pode romper alvéolos e causar embolia gasosa arterial.",
+"c": true,
+"prof": "Pressão.",
+"x": "Pode matar em minutos.",
+"e": "Embolia arterial."
+},
+{
+"p": "Feixes de laser de alta potência podem causar lesões permanentes na retina em segundos.",
+"c": true,
+"prof": "Luz e laser.",
+"x": "Perda parcial da visão de um olho é, em regra, debilidade permanente.",
+"e": "Laser: retina."
+},
+{
+"p": "A perda auditiva induzida por ruído ocupacional é progressiva, bilateral e geralmente irreversível.",
+"c": true,
+"prof": "Som.",
+"x": "Doença do trabalho prevenível.",
+"e": "PAIR irreversível."
+},
 {
 "p": "A lesão por eletricidade atmosférica (raio) pode produzir as figuras de Lichtenberg, desenhos arborescentes na pele.",
 "c": true,
@@ -9336,7 +12221,8 @@ export const PROFUNDO = {
 "x": "A posição pugilística decorre da retração dos músculos flexores pela ação do calor, ocorrendo inclusive em cadáveres. Não tem valor para indicar luta.",
 "e": "Posição de boxeador: calor."
 }
-]
+],
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>graus de queimadura (Hofmann)</span></div><div class=\"lt-stat\"><b>9%</b><span>regra dos 9: cada membro superior representa 9% da superfície corporal</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de lesão elétrica: eletroplessão (raio) e eletrocussão (industrial)</span></div><div class=\"lt-stat\"><b>3</b><span>lesões pelo frio: eritema, flictena e necrose (geladura)</span></div></div>\n<h3>1. Energias de ordem física</h3>\n<ul><li>São as energias capazes de lesionar o corpo <b>sem</b> ser mecânicas: <b>temperatura</b> (calor e frio), <b>eletricidade</b>, <b>pressão atmosférica</b>, <b>radioatividade</b>, <b>luz</b> e <b>som</b>. As mais cobradas são <b>calor</b>, <b>eletricidade</b> e <b>frio</b>.</li></ul>\n<h3>2. Calor</h3>\n<ul><li><b>Termonoses</b> (calor difuso): <b>insolação</b> (calor do sol, ao ar livre) e <b>intermação</b> (ambiente fechado e quente, como caldeiras ou um carro fechado ao sol). A morte de criança esquecida em carro fechado é <b>intermação</b>.</li><li><b>Queimaduras</b> (calor direto): <b>classificação de Hofmann</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Grau</th><th>Atinge</th><th>Aspecto</th></tr></thead><tbody><tr><td><b>1º</b></td><td><b>epiderme</b></td><td><b>eritema</b> (vermelhidão), dor; regride sem cicatriz (queimadura solar)</td></tr><tr><td><b>2º</b></td><td>epiderme e <b>derme</b></td><td><b>flictenas</b> (bolhas com líquido)</td></tr><tr><td><b>3º</b></td><td>tecidos <b>profundos</b> (subcutâneo, músculos)</td><td><b>necrose</b>, escara, área insensível; cicatriz</td></tr><tr><td><b>4º</b></td><td>todos os planos, inclusive ossos</td><td><b>carbonização</b></td></tr></tbody></table>\n<ul><li><b>Gravidade</b>: depende mais da <b>extensão</b> (percentual da superfície corporal) do que da profundidade. A <b>regra dos 9</b> (Wallace) estima a superfície no adulto: cabeça e pescoço <b>9%</b>; cada membro superior <b>9%</b>; tronco anterior <b>18%</b>; tronco posterior <b>18%</b>; cada membro inferior <b>18%</b>; períneo <b>1%</b>.</li><li><b>Reação vital</b>: queimaduras produzidas em <b>vida</b> têm <b>flictenas com líquido rico em proteínas</b> e halo inflamatório (sinal de Chambert); as produzidas <b>após a morte</b> não têm reação inflamatória. No <b>carbonizado</b>, a presença de <b>fuligem nas vias aéreas</b> e <b>carboxiemoglobina</b> elevada indica que a vítima estava viva durante o incêndio.</li><li><b>Posição de boxeador (pugilística)</b>: o cadáver carbonizado fica com membros flexionados pela retração muscular causada pelo calor; <b>não</b> indica luta.</li></ul>\n<h3>3. Eletricidade</h3>\n<ul><li><b>Eletroplessão</b>: eletricidade <b>natural</b> (<b>raio</b>). Pode deixar as <b>figuras de Lichtenberg</b>: desenhos <b>arborescentes</b> (em forma de folha de samambaia) avermelhados na pele, que desaparecem em horas ou dias. Os corpos fulminados podem ter queimaduras, roupas rasgadas e objetos metálicos magnetizados.</li><li><b>Eletrocussão</b>: eletricidade <b>industrial</b> (artificial: rede elétrica). Marca típica: <b>marca elétrica de Jellinek</b>, lesão <b>endurecida, esbranquiçada ou amarelada, indolor</b>, com bordas elevadas, no <b>ponto de entrada</b> da corrente. Pode haver lesão de saída. A morte ocorre geralmente por <b>fibrilação ventricular</b> ou parada respiratória.</li><li><b>Eletrocussão</b> também designa a execução por cadeira elétrica (nos EUA).</li></ul>\n<h3>4. Frio e outras energias</h3>\n<ul><li><b>Frio</b>: lesões locais (<b>geladuras</b>: eritema, flictenas, necrose, de acordo com a intensidade) e efeitos gerais (<b>hipotermia</b>). Na morte pelo frio, encontram-se <b>manchas de Wischnewski</b> (pequenas erosões hemorrágicas na mucosa do estômago).</li><li><b>Pressão atmosférica</b>: <b>barotrauma</b>; doença descompressiva dos mergulhadores (embolia gasosa); \"mal das montanhas\" na altitude.</li><li><b>Radiação</b>: radiodermites, síndrome aguda da radiação (o acidente com césio-137 em Goiânia, 1987, é exemplo).</li><li><b>Explosões</b> combinam energias: mecânica (onda de choque, estilhaços), térmica (calor) e química.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Criança morta em carro fechado ao sol é insolação</span><br>✅ <span class=\"certo\">É INTERMAÇÃO (ambiente fechado).</span></li><li>❌ <span class=\"banca\">Figuras de Lichtenberg são da eletricidade industrial</span><br>✅ <span class=\"certo\">São do RAIO (eletroplessão).</span></li><li>❌ <span class=\"banca\">A marca de Jellinek aparece no raio</span><br>✅ <span class=\"certo\">Aparece na eletricidade industrial.</span></li><li>❌ <span class=\"banca\">Posição de boxeador indica luta</span><br>✅ <span class=\"certo\">Decorre da retração muscular pelo calor.</span></li><li>❌ <span class=\"banca\">2º grau é necrose</span><br>✅ <span class=\"certo\">2º grau são flictenas; 3º, necrose.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Insolação x intermação?</span></span><span class=\"vs\"><span>Sol <b>ao ar livre</b> x ambiente <b>fechado</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Queimaduras de Hofmann?</span></span><span class=\"vs\"><span>1º eritema; 2º <b>flictenas</b>; 3º necrose; 4º <b>carbonização</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra dos 9?</span></span><span class=\"vs\"><span>Cada membro superior <b>9%</b>; cada inferior <b>18%</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Raio?</span></span><span class=\"vs\"><span><b>Eletroplessão</b>; figuras de <b>Lichtenberg</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eletricidade industrial?</span></span><span class=\"vs\"><span><b>Eletrocussão</b>; marca de <b>Jellinek</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carbonizado vivo?</span></span><span class=\"vs\"><span><b>Fuligem</b> nas vias aéreas e <b>carboxiemoglobina</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Posição pugilística?</span></span><span class=\"vs\"><span>Retração muscular pelo <b>calor</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Morte pelo frio?</span></span><span class=\"vs\"><span>Manchas de <b>Wischnewski</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O eletricista e o agricultor</b><p>Dois corpos chegam ao IML: um eletricista encontrado junto a um poste, com lesão endurecida e amarelada na palma da mão; e um agricultor encontrado no campo após uma tempestade, com desenhos arborescentes avermelhados no tronco.</p><details><summary>Ver a solução comentada</summary><p>O eletricista apresenta <b>marca elétrica de Jellinek</b>, típica da <b>eletrocussão</b> (eletricidade industrial), no ponto de entrada da corrente. O agricultor apresenta <b>figuras de Lichtenberg</b>, típicas da <b>eletroplessão</b> (raio). Em ambos, a causa da morte é física (energia elétrica), e a perícia deve afastar outras hipóteses.</p></details></div>"
 },
 "obstetricia-forense": {
 "html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>40</b><span>semanas: duração média da gestação (cerca de 280 dias)</span></div><div class=\"lt-stat\"><b>3</b><span>fases do parto: dilatação, expulsão e dequitação</span></div><div class=\"lt-stat\"><b>2 a 6</b><span>anos de detenção no infanticídio (CP, art. 123)</span></div><div class=\"lt-stat\"><b>2</b><span>hipóteses de aborto legal no CP (art. 128) + anencefalia (ADPF 54)</span></div></div>\n<h3>1. Gravidez: diagnóstico e duração</h3>\n<ul><li>O diagnóstico médico-legal da gravidez interessa a crimes (aborto, infanticídio, aumento de pena), a questões civis (filiação, herança) e trabalhistas.</li></ul>\n<table class=\"tab\"><thead><tr><th>Sinais</th><th>Exemplos</th><th>Valor</th></tr></thead><tbody><tr><td><b>Presunção</b> (relatados pela mulher)</td><td>atraso menstrual, náuseas, aumento das mamas, sonolência</td><td><b>não</b> provam a gravidez</td></tr><tr><td><b>Probabilidade</b> (observados pelo médico)</td><td>aumento do volume do útero, amolecimento do colo, <b>teste de gravidez</b> positivo (beta-hCG)</td><td>tornam a gravidez <b>provável</b></td></tr><tr><td><b>Certeza</b></td><td><b>batimentos cardíacos fetais</b>, <b>movimentos fetais</b> percebidos pelo examinador, visualização do embrião ou feto por <b>ultrassonografia</b></td><td><b>comprovam</b> a gravidez</td></tr></tbody></table>\n<ul><li><b>Duração</b>: cerca de <b>280 dias</b> (40 semanas) a partir da última menstruação. O Código Civil (art. 1.597) presume concebidos na constância do casamento os filhos nascidos <b>180 dias</b>, pelo menos, depois de estabelecida a convivência conjugal, e os nascidos nos <b>300 dias</b> subsequentes à dissolução da sociedade conjugal.</li><li><b>Gravidez simulada</b> (a mulher finge estar grávida, por exemplo para obter vantagem) x <b>dissimulada</b> (esconde uma gravidez real, comum em casos de aborto e infanticídio). A <b>pseudociese</b> (gravidez psicológica) é condição em que a mulher acredita estar grávida e apresenta sinais, sem gestação real.</li></ul>\n<h3>2. Parto e puerpério</h3>\n<ul><li><b>Parto</b> é o conjunto de fenômenos que levam à expulsão do feto e de seus anexos. Tem <b>três fases</b>: <b>dilatação</b> (do colo do útero), <b>expulsão</b> (saída do feto) e <b>dequitação</b> ou <b>secundamento</b> (saída da placenta e anexos).</li><li>O <b>início do parto</b>, para o direito penal, marca a passagem do <b>aborto</b> (crime contra a vida intrauterina) para o <b>homicídio</b> ou <b>infanticídio</b> (vida extrauterina). Para a doutrina majoritária, o parto começa com a <b>dilatação</b> (no parto normal) ou com a <b>incisão</b> abdominal (na cesariana).</li><li><b>Sinais de parto recente</b>: útero aumentado, colo dilatado, <b>lóquios</b> (secreção uterina pós-parto), <b>colostro</b> nas mamas, lacerações do períneo e da vagina, edema vulvar. <b>Sinais de parto antigo</b>: estrias, cicatrizes de episiotomia ou de cesárea, modificações do colo (orifício em fenda transversal).</li><li><b>Puerpério</b>: período que vai do fim do parto até a volta do organismo ao estado anterior à gravidez (cerca de <b>6 a 8 semanas</b>). O <b>estado puerperal</b> é a alteração psíquica que pode acometer a mulher durante o parto ou logo após, por fatores físicos e emocionais; não se confunde com <b>psicose puerperal</b> (doença mental, que leva ao art. 26 do CP).</li></ul>\n<h3>3. Infanticídio (CP, art. 123)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 123 do Código Penal</div><div class=\"art-lei\">Matar, sob a influência do estado puerperal, o próprio filho, durante o parto ou logo após: Pena – detenção, de 2 (dois) a 6 (seis) anos.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Critério <b>fisiopsíquico</b> (biopsicológico): não basta matar no puerpério; é preciso que a mãe esteja <b>sob a influência</b> do estado puerperal.</li><li><b>Sujeito ativo</b>: a <b>mãe</b> (crime próprio). <b>Sujeito passivo</b>: o <b>próprio filho</b>, <b>nascente</b> (durante o parto) ou <b>recém-nascido</b> (logo após).</li><li>Não há forma <b>culposa</b>: se a mãe, no estado puerperal, mata o filho por culpa, responde por <b>homicídio culposo</b> (ou o fato é atípico, segundo parte da doutrina).</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que basta o crime ocorrer no puerpério.</li><li>Dizer que o terceiro que ajuda a mãe responde por homicídio (a maioria entende que responde por infanticídio, art. 30).</li></ul></div></div>\n<ul><li><b>Concurso de pessoas</b>: o <b>estado puerperal</b> é <b>elementar</b> do tipo; por isso, segundo a doutrina majoritária, <b>comunica-se</b> ao terceiro que participa (CP, art. 30), que também responde por <b>infanticídio</b>.</li><li><b>Erro sobre a pessoa</b>: a mãe que, sob a influência do estado puerperal, mata <b>outro recém-nascido</b> pensando ser o seu responde por <b>infanticídio</b> (CP, art. 20, § 3º).</li><li><b>A perícia</b> deve provar: (1) que a mãe estava em <b>estado puerperal</b> e sob sua influência (exame psiquiátrico e obstétrico); (2) que o filho <b>nasceu com vida</b> (respirou); (3) a <b>causa da morte</b> (asfixia, traumatismos, abandono); (4) o tempo da morte em relação ao parto (\"durante ou logo após\").</li></ul>\n<table class=\"tab\"><thead><tr><th>Docimásias (provas de vida extrauterina)</th><th>Princípio</th></tr></thead><tbody><tr><td><b>Hidrostática pulmonar de Galeno</b> (a mais famosa)</td><td>o pulmão que <b>respirou</b> tem ar nos alvéolos e <b>flutua</b> na água; o que não respirou é compacto e <b>afunda</b>. A putrefação pode dar falso positivo (gases)</td></tr><tr><td><b>Óptica de Bouchut</b></td><td>aspecto dos alvéolos ao exame visual (dilatados se houve respiração)</td></tr><tr><td><b>Histológica</b></td><td>exame microscópico dos alvéolos (expandidos ou colabados)</td></tr><tr><td><b>Gastrointestinal de Breslau</b></td><td>presença de <b>ar no estômago e no intestino</b>, deglutido ao respirar</td></tr></tbody></table>\n<h3>4. Aborto (CP, arts. 124 a 128)</h3>\n<ul><li><b>Conceito</b>: interrupção da gravidez com a <b>morte do produto da concepção</b> (ovo, embrião ou feto), antes do início do parto. Pode ser <b>espontâneo</b> (natural, sem relevância penal), <b>acidental</b> ou <b>provocado</b> (criminoso ou legal).</li></ul>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>124</b></td><td><b>autoaborto</b> ou consentir que outrem lhe provoque</td><td>detenção de <b>1 a 3 anos</b></td></tr><tr><td><b>125</b></td><td>provocar aborto <b>sem</b> o consentimento da gestante</td><td>reclusão de <b>3 a 10 anos</b></td></tr><tr><td><b>126</b></td><td>provocar aborto <b>com</b> o consentimento da gestante</td><td>reclusão de <b>1 a 4 anos</b>; aplica-se a pena do art. 125 se a gestante é <b>menor de 14 anos</b>, <b>alienada ou débil mental</b>, ou se o consentimento foi obtido mediante <b>fraude, grave ameaça ou violência</b></td></tr><tr><td><b>127</b></td><td>formas majoradas (arts. 125 e 126)</td><td>aumento de <b>1/3</b> se a gestante sofre <b>lesão grave</b>; penas <b>duplicadas</b> se sobrevém <b>morte</b></td></tr></tbody></table>\n<ul><li><b>Aborto legal</b> (art. 128): praticado por <b>médico</b>, não se pune: <b>I</b> – <b>aborto necessário</b> (terapêutico): se não há outro meio de salvar a <b>vida da gestante</b> (dispensa o consentimento); <b>II</b> – <b>aborto no caso de gravidez resultante de estupro</b> (sentimental, humanitário ou ético): precedido de <b>consentimento</b> da gestante ou, quando incapaz, de seu representante legal. Não se exige autorização judicial nem boletim de ocorrência.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADPF 54 (2012)</b><p class=\"jc-tese\">É inconstitucional a interpretação segundo a qual a interrupção da gravidez de feto anencéfalo é conduta tipificada nos arts. 124, 126 e 128, I e II, do Código Penal.</p><p class=\"jc-com\">A antecipação terapêutica do parto de <b>feto anencéfalo</b> (diagnosticado por médico) é <b>atípica</b>: não há vida viável. Não depende de autorização judicial.</p></div>\n<ul><li><b>Perícia no aborto</b>: (1) <b>na mulher viva</b>: sinais de gravidez recente e de sua interrupção, lesões do colo e do útero (por instrumentos), restos placentários, presença de substâncias abortivas; (2) <b>no cadáver</b> da mulher: causa da morte (hemorragia, infecção, perfuração uterina, embolia); (3) <b>no produto</b> expulso: idade gestacional, sinais de violência, vitalidade. Métodos de provocação: <b>químicos</b> (medicamentos e substâncias abortivas) e <b>mecânicos</b> (instrumentos, sondas, curetagem).</li></ul>\n<h3>5. Reprodução assistida e questões de sexualidade</h3>\n<ul><li><b>Inseminação artificial</b>: introdução do sêmen no aparelho genital feminino. <b>Homóloga</b> (sêmen do marido ou companheiro) x <b>heteróloga</b> (sêmen de <b>doador</b>). <b>Fertilização in vitro</b>: fecundação fora do corpo e transferência do embrião.</li><li><b>Presunções do Código Civil</b> (art. 1.597): presumem-se concebidos na constância do casamento os filhos <b>III</b> – havidos por fecundação artificial <b>homóloga</b>, <b>mesmo que falecido o marido</b>; <b>IV</b> – havidos, a qualquer tempo, quando se tratar de <b>embriões excedentários</b>, decorrentes de concepção artificial homóloga; <b>V</b> – havidos por inseminação artificial <b>heteróloga</b>, desde que tenha <b>prévia autorização do marido</b>.</li><li><b>Gestação de substituição</b> (\"barriga solidária\"): regulada por <b>resoluções do Conselho Federal de Medicina</b>; não pode ter <b>caráter lucrativo</b> ou comercial, e a cedente do útero deve, em regra, ser <b>parente</b> de um dos parceiros (até o 4º grau), salvo autorização do Conselho Regional.</li><li><b>Estados intersexuais</b> (antigo \"hermafroditismo\"): condições em que as características sexuais não se enquadram nas definições típicas de masculino ou feminino; a perícia determina o <b>sexo genético, gonadal, morfológico e psicológico</b>.</li><li><b>Transexualidade</b>: identidade de gênero diferente do sexo designado ao nascer. O STF (<b>ADI 4.275</b>, 2018) reconheceu o direito de alterar <b>nome e gênero</b> no registro civil <b>diretamente no cartório</b>, <b>sem cirurgia</b>, sem laudo e sem autorização judicial.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O infanticídio pode ser praticado pelo pai</span><br>✅ <span class=\"certo\">Crime próprio da mãe; o terceiro participa (art. 30).</span></li><li>❌ <span class=\"banca\">Basta o crime ocorrer no puerpério</span><br>✅ <span class=\"certo\">Exige estar sob a influência do estado puerperal.</span></li><li>❌ <span class=\"banca\">A docimásia de Galeno prova a morte do feto</span><br>✅ <span class=\"certo\">Prova se houve respiração (vida extrauterina).</span></li><li>❌ <span class=\"banca\">O aborto em caso de estupro exige autorização judicial</span><br>✅ <span class=\"certo\">Exige só o consentimento da gestante e ser feito por médico.</span></li><li>❌ <span class=\"banca\">Aborto de anencéfalo é crime</span><br>✅ <span class=\"certo\">ADPF 54: conduta atípica.</span></li><li>❌ <span class=\"banca\">A inseminação heteróloga dispensa autorização do marido para a presunção</span><br>✅ <span class=\"certo\">Exige prévia autorização.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sinais de certeza da gravidez?</span></span><span class=\"vs\"><span><b>Batimentos cardíacos fetais</b>, <b>movimentos fetais</b> percebidos pelo médico, <b>ultrassom</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases do parto?</span></span><span class=\"vs\"><span><b>Dilatação, expulsão e dequitação</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infanticídio?</span></span><span class=\"vs\"><span>Mãe, <b>sob influência do estado puerperal</b>, mata o filho <b>durante o parto ou logo após</b>; detenção de <b>2 a 6 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Docimásia hidrostática?</span></span><span class=\"vs\"><span><b>Galeno</b>: pulmão que respirou <b>flutua</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aborto legal?</span></span><span class=\"vs\"><span><b>Necessário</b> (vida da gestante) e <b>estupro</b> (consentimento), por <b>médico</b>; e anencefalia (<b>ADPF 54</b>).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 125?</span></span><span class=\"vs\"><span>Aborto <b>sem consentimento</b>: <b>3 a 10 anos</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O bebê no banheiro</b><p>Uma jovem que escondeu a gravidez dá à luz sozinha no banheiro e, em estado de confusão, asfixia o recém-nascido. A perícia encontra o corpo dias depois.</p><details><summary>Ver a solução comentada</summary><p>A perícia precisa provar que o bebê <b>nasceu com vida</b> (docimásias, como a <b>hidrostática de Galeno</b>, e a <b>histológica</b>, mais segura se houver putrefação), a <b>causa da morte</b> (asfixia) e o momento (\"logo após\" o parto). O exame da mãe deve avaliar o <b>estado puerperal</b> e sua <b>influência</b> na conduta. Comprovada essa influência, há <b>infanticídio</b> (art. 123); se ausente, <b>homicídio</b>. A gravidez <b>dissimulada</b> é dado relevante.</p></details></div>",
