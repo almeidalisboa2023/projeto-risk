@@ -246,6 +246,24 @@ function questoesJuris(el, ctx) {
   const idx = q.map((x, i) => [x, i]).filter(([x]) => JURIS_RE.test(`${x.p} ${x.prof || ''} ${x.x || ''}`)).map(([, i]) => i);
   if (!idx.length) return;
   bt.hidden = false;
+  // Jurisprudência comentada antes das questões: cada entendimento cobrado, com a explicação
+  const REF_RE = /(S[uú]mula\s+(?:Vinculante\s+)?(?:n[ºo°.]\s*)?\d+(?:\s+do\s+(?:STF|STJ|TST))?|Tema\s+(?:n[ºo°.]\s*)?[\d.]+(?:\s+d[oa]\s+(?:STF|STJ|repercuss[aã]o geral))?|\b(?:RE|REsp|HC|RHC|ADI|ADPF|ADC|AgRg)\s+(?:n[ºo°.]\s*)?[\d.]+|\bSTF\b|\bSTJ\b|\bTST\b|\bTSE\b)/i;
+  const ESP_RE = new RegExp(REF_RE.source.split('|\\bSTF')[0] + ')', 'i');
+  const vistos = new Set(); const cards = [];
+  idx.forEach((i) => {
+    const x = q[i]; const exp = String(x.x || x.prof || '').trim(); if (!exp) return;
+    const chave = exp.slice(0, 80); if (vistos.has(chave)) return; vistos.add(chave);
+    const t = `${x.p} ${exp}`; const esp = t.match(ESP_RE);
+    const ref = ((esp && esp[0]) || (t.match(REF_RE) || ['Tribunais superiores'])[0]).replace(/\s+/g, ' ');
+    cards.push({ ref: /^(STF|STJ|TST|TSE)$/i.test(ref) ? `Entendimento do ${ref.toUpperCase()}` : ref, exp, resumo: x.e || '' });
+  });
+  if (cards.length) {
+    const jc = document.createElement('div'); jc.className = 'lt-jauto';
+    jc.innerHTML = `<h3 style="margin-top:18px">📚 Jurisprudência comentada (${cards.length})</h3><p class="muted" style="margin-top:0">Leia a explicação de cada entendimento antes de responder às questões abaixo.</p>` +
+      cards.map((c, k) => `<div class="lt-jc" style="border-left:4px solid var(--brand, #b8860b);padding:10px 14px;margin:10px 0;border-radius:8px;background:color-mix(in srgb, var(--brand, #b8860b) 7%, transparent)">
+        <b>⚖ ${k + 1}. ${c.ref}</b><p style="margin:6px 0 0">${c.exp}</p>${c.resumo ? `<p style="margin:6px 0 0"><b>Em resumo:</b> ${c.resumo}</p>` : ''}</div>`).join('');
+    pane.appendChild(jc);
+  }
   const box = document.createElement('div'); box.className = 'lt-jq';
   box.innerHTML = `<h3 style="margin-top:22px">🎯 Questões de jurisprudência (${idx.length})</h3><p class="muted" style="margin-top:0">Questões do tópico que cobram súmulas, temas e decisões dos tribunais.</p>`;
   idx.forEach((i, k) => {
