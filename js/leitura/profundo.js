@@ -3071,8 +3071,624 @@ export const PROFUNDO = {
 },
 "portugues": {
 "interpretacao": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>erros clássicos nas alternativas: extrapolação, redução e contradição</span></div><div class=\"lt-stat\"><b>5</b><span>passos da técnica de leitura para a prova</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de informação implícita: pressuposto e subentendido</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: a resposta está no texto</span></div></div>\n<div class=\"lt-box\"><b class=\"lt-tit\">Por que este tópico vale mais que os outros</b><p>Em quase toda prova de Português, metade ou mais das questões depende de leitura: interpretação, sentido de palavras, reescrita e coesão. Gramática decorada sem leitura atenta não resolve. Este tópico ensina o método: o que a banca quer, como ela monta as alternativas erradas e como provar, com o texto, qual é a certa.</p></div>\n<h3>1. Compreender x interpretar</h3>\n<ul><li><b>Compreender</b> é identificar o que o texto <b>diz explicitamente</b>: quem fez o quê, quando, por quê, segundo quem. Perguntas típicas: \"<b>segundo o texto</b>\", \"<b>de acordo com o autor</b>\", \"<b>o texto informa que</b>\". A resposta está escrita, ainda que com outras palavras.</li><li><b>Interpretar</b> é extrair o que o texto <b>permite concluir</b>, sem dizer expressamente: a intenção do autor, a crítica implícita, a conclusão lógica de duas afirmações. Perguntas típicas: \"<b>infere-se</b>\", \"<b>depreende-se</b>\", \"<b>conclui-se</b>\", \"<b>o autor sugere</b>\". A conclusão precisa estar <b>autorizada</b> pelo texto: não vale opinião pessoal nem conhecimento de mundo que o texto não apoia.</li><li><b>Os três níveis de leitura</b>: <b>literal</b> (o que está escrito), <b>inferencial</b> (o que se deduz com segurança) e <b>crítico</b> (avaliar a qualidade dos argumentos, a posição do autor, os efeitos de sentido). As provas de nível médio e superior cobram muito o inferencial.</li></ul>\n<h3>2. Os erros que a banca planta nas alternativas</h3>\n<table class=\"tab\"><thead><tr><th>Erro</th><th>Como aparece</th><th>Exemplo com um texto sobre aumento de furtos de celular</th></tr></thead><tbody><tr><td><b>Extrapolação</b></td><td>a alternativa vai <b>além</b> do texto: generaliza, acrescenta causa, consequência ou opinião não ditas</td><td>\"O texto afirma que <b>a polícia é incompetente</b>\" (o texto só falou em aumento dos furtos)</td></tr><tr><td><b>Redução</b></td><td>pega <b>uma parte</b> do texto e a apresenta como se fosse o todo</td><td>\"O texto trata <b>apenas</b> da falta de policiamento\" (quando também falava em receptação e em descuido dos usuários)</td></tr><tr><td><b>Contradição</b></td><td>afirma o <b>contrário</b> do texto, às vezes com uma palavra trocada</td><td>\"Os furtos <b>diminuíram</b> no centro\" (o texto disse que aumentaram)</td></tr><tr><td><b>Troca de sujeito ou de voz</b></td><td>atribui ao autor a fala de outra pessoa citada</td><td>\"O autor defende a pena de prisão para o usuário\" (quem defendeu foi um entrevistado)</td></tr></tbody></table>\n<ul><li><b>Palavras de alerta</b>: <b>sempre, nunca, todos, nenhum, somente, apenas, exclusivamente, totalmente, comprovadamente</b>. Elas costumam indicar <b>extrapolação</b>, porque a maioria dos textos não é tão categórica. Não é regra absoluta: se o texto também é categórico, a alternativa pode estar certa.</li><li><b>Modalizadores</b>: palavras que indicam o grau de certeza ou a opinião do autor: <b>talvez, possivelmente, provavelmente, certamente, é provável que, parece que, infelizmente, felizmente</b>. Trocar \"<b>pode</b> causar\" por \"<b>causa</b>\" ou \"<b>provavelmente</b>\" por \"<b>certamente</b>\" <b>altera o sentido</b> (de possibilidade para certeza). Isso é muito cobrado em questões de interpretação e de reescrita.</li></ul>\n<h3>3. Pressuposto e subentendido</h3>\n<ul><li><b>Pressuposto</b>: informação implícita <b>marcada por uma palavra</b> do enunciado; o leitor não pode negá-la sem negar a frase. Marcadores: <b>verbos</b> que indicam mudança ou permanência (<b>deixar de, continuar, passar a, voltar a</b>), <b>advérbios</b> (<b>ainda, já, também, até</b>), <b>adjetivos</b>, orações adjetivas. Ex.: \"O suspeito <b>voltou a</b> frequentar o bairro\" pressupõe que ele <b>já frequentava</b> e <b>tinha deixado de</b> frequentar. \"<b>Até</b> o delegado ficou surpreso\" pressupõe que o delegado <b>raramente se surpreende</b>.</li><li><b>Subentendido</b>: insinuação que <b>depende do contexto</b> e da interpretação do leitor; o falante pode negar que quis dizê-la. Ex.: alguém diz, numa sala abafada, \"<b>Como está quente aqui!</b>\" (pode estar subentendido o pedido para abrir a janela).</li></ul>\n<h3>4. Tese, argumentos e vozes do texto</h3>\n<ul><li><b>Tese</b> é a <b>ideia central</b> que o autor defende, geralmente no primeiro ou no último parágrafo. <b>Argumentos</b> são as razões que a sustentam: dados e estatísticas, exemplos, argumento de <b>autoridade</b> (citação de especialista), relações de <b>causa e consequência</b>, <b>comparação</b>, alusão histórica.</li><li><b>Polifonia</b>: o texto pode trazer <b>outras vozes</b> (citações, discurso relatado, aspas). A banca pergunta \"<b>segundo o especialista citado</b>\" ou \"<b>na opinião do autor</b>\": são coisas diferentes. Expressões como \"<b>segundo</b>\", \"<b>de acordo com</b>\", \"<b>para fulano</b>\" indicam voz alheia; <b>aspas</b> podem indicar citação, <b>ironia</b> ou <b>distanciamento</b> (o autor usa a palavra, mas não concorda com ela: a \"solução\" do governo).</li><li><b>Título e ideia principal</b>: a alternativa correta sobre a ideia principal é a que <b>abrange o texto todo</b>, não um detalhe (evite a redução) nem algo mais amplo do que ele (evite a extrapolação).</li></ul>\n<h3>5. Técnica de prova em 5 passos</h3>\n<div class=\"lt-fluxo\"><span>1. Leia o enunciado e as alternativas antes (sem decorar)</span> <em>→</em> <span>2. Leia o texto inteiro, marcando a tese e os conectores</span> <em>→</em> <span>3. Volte ao trecho indicado pela questão</span> <em>→</em> <span>4. Elimine as alternativas com extrapolação, redução ou contradição</span> <em>→</em> <span>5. Prove a correta com uma frase do texto</span></div>\n<ul><li><b>Leia o comando com atenção</b>: \"<b>incorreta</b>\", \"<b>exceto</b>\", \"<b>não</b> se pode inferir\", \"<b>mantém</b> o sentido\", \"<b>altera</b> o sentido\". Muitos erros vêm de responder o contrário do que se pediu.</li><li><b>Releia o parágrafo</b> citado, e não só a linha: o sentido de uma palavra ou de um pronome depende do contexto.</li><li><b>Prove</b>: só marque a alternativa se você conseguir apontar o trecho que a sustenta. Se ela \"parece verdade\", mas o texto não diz, é extrapolação.</li></ul>\n<h3>6. Sentido de palavras e expressões no contexto</h3>\n<ul><li>A banca pergunta o <b>sentido contextual</b>: a palavra \"<b>operação</b>\", num texto policial, significa ação planejada de polícia; num texto médico, cirurgia; numa notícia econômica, transação. A resposta certa é a que <b>cabe naquele contexto</b>, mesmo que o dicionário traga outros sentidos.</li><li><b>Substituição de palavra</b>: verifique se a nova palavra (1) mantém o <b>sentido</b>, (2) mantém a <b>correção gramatical</b> (regência, concordância, crase) e (3) se encaixa no <b>registro</b> (formal ou informal) do texto. Ex.: \"O investigador <b>constatou</b> a fraude\" → \"<b>verificou</b>\" (mantém); \"<b>cogitou</b>\" (altera: cogitar é pensar na hipótese).</li><li><b>Linguagem figurada</b>: identificar metáfora, ironia e outras figuras faz parte da interpretação (veja o tópico de semântica).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Infere-se\" significa que a informação está escrita no texto</span><br>✅ <span class=\"certo\">Inferir é concluir o que não está explícito, mas é autorizado pelo texto.</span></li><li>❌ <span class=\"banca\">Alternativa com \"sempre\" está sempre errada</span><br>✅ <span class=\"certo\">Costuma indicar extrapolação, mas confira no texto.</span></li><li>❌ <span class=\"banca\">Trocar \"pode causar\" por \"causa\" mantém o sentido</span><br>✅ <span class=\"certo\">Muda de possibilidade para certeza.</span></li><li>❌ <span class=\"banca\">Subentendido é marcado por palavras do enunciado</span><br>✅ <span class=\"certo\">Isso é o PRESSUPOSTO; o subentendido depende do contexto.</span></li><li>❌ <span class=\"banca\">A opinião do especialista citado é a do autor</span><br>✅ <span class=\"certo\">São vozes diferentes.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Compreender x interpretar?</span></span><span class=\"vs\"><span>Compreender: o que está <b>escrito</b>; interpretar: o que se <b>conclui</b> com base no texto.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Extrapolação?</span></span><span class=\"vs\"><span>Ir <b>além</b> do texto.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Redução?</span></span><span class=\"vs\"><span>Tomar <b>parte</b> pelo todo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pressuposto?</span></span><span class=\"vs\"><span>Implícito <b>marcado</b> por palavra (deixar de, ainda, voltar a).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Subentendido?</span></span><span class=\"vs\"><span>Insinuação que depende do <b>contexto</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Modalizadores?</span></span><span class=\"vs\"><span>Indicam <b>grau de certeza</b> ou opinião (talvez, certamente).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aspas podem indicar?</span></span><span class=\"vs\"><span>Citação, <b>ironia</b> ou <b>distanciamento</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra de ouro?</span></span><span class=\"vs\"><span><b>Provar</b> a alternativa com um trecho do texto.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A notícia e a alternativa sedutora</b><p>Texto: \"Segundo a Secretaria, os registros de furto de celular no centro cresceram 18% no semestre. Para a comerciante Ana, a culpa é da iluminação precária. A Secretaria, porém, aponta a revenda em feiras como principal estímulo ao crime.\" Alternativa: \"O texto conclui que a má iluminação é a principal causa dos furtos.\"</p><details><summary>Ver a solução comentada</summary><p>A alternativa está <b>errada</b>: a má iluminação é a opinião de <b>uma entrevistada</b> (voz alheia), e a Secretaria aponta <b>outra</b> causa principal (revenda). Há <b>troca de voz</b> e <b>extrapolação</b>. Uma alternativa correta seria: \"O texto apresenta explicações divergentes para o aumento dos furtos\".</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>erros clássicos de leitura (extrapolação, redução e contradição)</span></div><div class=\"lt-stat\"><b>2</b><span>níveis de leitura (compreensão e interpretação)</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de informação implícita (pressuposto e subentendido)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: toda resposta precisa estar autorizada pelo texto</span></div></div>\n<h3>1. Por que interpretação é a matéria que mais decide a prova</h3>\n<ul><li>Em quase todos os concursos, <b>interpretação de textos</b> é o assunto com <b>mais questões</b> de Língua Portuguesa, e as questões de gramática também vêm, muitas vezes, <b>ligadas a um texto</b> (\"no segundo parágrafo, a palavra X refere-se a...\"). Quem lê bem acerta mais <b>em todas as matérias</b>, porque também lê melhor os enunciados de Direito, as alternativas e as pegadinhas.</li><li>A boa notícia: interpretação <b>se treina</b>. Existe <b>método</b>: entender o que a banca pede, localizar a informação, separar o que o texto <b>diz</b> do que você <b>acha</b>, reconhecer os erros que as alternativas armam.</li></ul>\n<h3>2. Compreensão x interpretação</h3>\n<table class=\"tab\"><thead><tr><th>Nível</th><th>O que é</th><th>Comandos típicos</th></tr></thead><tbody><tr><td><b>Compreensão</b></td><td>entender o que o texto <b>diz explicitamente</b>: a informação está <b>escrita</b>, com essas ou outras palavras</td><td>\"<b>segundo</b> o texto\", \"<b>de acordo com</b> o autor\", \"o texto <b>informa</b> que\", \"o autor <b>afirma</b>\"</td></tr><tr><td><b>Interpretação</b></td><td>tirar <b>conclusões</b> a partir do texto: o que ele <b>permite deduzir</b>, sem estar escrito</td><td>\"<b>infere-se</b>\", \"<b>depreende-se</b>\", \"<b>conclui-se</b>\", \"o texto <b>sugere</b>\", \"<b>pode-se deduzir</b>\", \"<b>permite concluir</b>\"</td></tr></tbody></table>\n<ul><li><b>Compreensão</b> é como <b>localizar</b> um dado: a resposta certa costuma ser uma <b>paráfrase</b> (a mesma ideia, com outras palavras) de um trecho.</li><li><b>Interpretação</b> exige <b>raciocínio</b>, mas <b>dentro dos limites</b> do texto: a conclusão precisa ser <b>necessária</b> ou fortemente <b>autorizada</b> pelo que está escrito, e não apenas \"possível\" ou \"razoável\" no mundo real.</li><li><b>Regra de ouro</b>: a resposta deve ser <b>autorizada pelo texto</b>. Seu conhecimento de mundo ajuda a <b>entender</b>, mas não pode <b>substituir</b> o texto. Se a alternativa traz algo <b>verdadeiro na vida real</b>, mas que o texto <b>não diz nem permite concluir</b>, ela está <b>errada</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se a afirmação é verdadeira no mundo real, a alternativa está correta</span><br>✅ <span class=\"certo\">Só está correta se for <b>autorizada pelo texto</b></span></li><li>❌ <span class=\"banca\">\"Infere-se\" pede que o candidato localize uma frase copiada do texto</span><br>✅ <span class=\"certo\">\"Infere-se\" pede <b>conclusão implícita</b>, autorizada pelo texto</span></li><li>❌ <span class=\"banca\">\"Segundo o texto\" admite conclusões pessoais do leitor</span><br>✅ <span class=\"certo\">\"Segundo o texto\" pede o que o texto <b>diz</b> (compreensão)</span></li></ol></div>\n<h3>3. Os três erros clássicos das alternativas</h3>\n<table class=\"tab\"><thead><tr><th>Erro</th><th>O que a alternativa faz</th><th>Exemplo (texto: \"Muitos jovens brasileiros têm deixado a escola antes de concluir o ensino médio, sobretudo por necessidade de trabalhar.\")</th></tr></thead><tbody><tr><td><b>Extrapolação</b></td><td>vai <b>além</b> do texto: acrescenta informação, generaliza, exagera, conclui o que não dá para concluir</td><td>\"<b>Todos</b> os jovens brasileiros abandonam a escola\" ou \"O governo é o culpado pela evasão\" (o texto não fala em todos nem em culpa do governo)</td></tr><tr><td><b>Redução</b></td><td>fica <b>aquém</b> do texto: toma uma <b>parte</b> pelo todo, omite algo essencial, restringe</td><td>\"O texto trata apenas da necessidade de trabalhar\" (o texto diz \"sobretudo\", o que indica que há outros motivos)</td></tr><tr><td><b>Contradição</b></td><td>diz o <b>contrário</b> do texto</td><td>\"Poucos jovens deixam a escola antes do ensino médio\" ou \"O trabalho não influencia a evasão\"</td></tr></tbody></table>\n<ul><li><b>Palavras de alerta</b> (costumam indicar <b>extrapolação</b> quando o texto não as autoriza): <b>sempre, nunca, todos, nenhum, apenas, somente, exclusivamente, necessariamente, certamente, o único, a maior, a principal</b>. Elas tornam a afirmação <b>absoluta</b>. Se o texto disse \"muitos\", \"frequentemente\", \"pode\", a alternativa com \"todos\", \"sempre\", \"deve\" <b>extrapola</b>.</li><li><b>Palavras que relativizam</b> (geralmente aparecem nas alternativas <b>corretas</b>, porque os textos costumam ser cuidadosos): <b>pode, parece, sugere, em geral, muitas vezes, alguns, tende a, provavelmente</b>.</li><li><b>Cuidado com o contrário</b>: nem toda alternativa com \"sempre\" está errada (se o texto disser \"sempre\", ela pode estar certa), e nem toda alternativa com \"pode\" está certa. A palavra <b>acende o alerta</b>; a <b>comparação com o texto</b> decide.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Alternativa com \"todos\" ou \"sempre\" está sempre errada</span><br>✅ <span class=\"certo\">As palavras <b>absolutas</b> são <b>alerta</b>, mas a alternativa pode estar certa se o <b>texto</b> também for absoluto</span></li><li>❌ <span class=\"banca\">Redução é acrescentar informação ao texto</span><br>✅ <span class=\"certo\">Acrescentar é <b>extrapolação</b>; <b>redução</b> é restringir, tomar a parte pelo todo</span></li></ol></div>\n<h3>4. Informação explícita e implícita: pressuposto e subentendido</h3>\n<ul><li><b>Explícita</b>: está <b>dita</b> no texto.</li><li><b>Implícita</b>: não está dita, mas é <b>transmitida</b>. Há dois tipos principais:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Definição</th><th>Exemplo</th><th>Característica</th></tr></thead><tbody><tr><td><b>Pressuposto</b></td><td>informação implícita <b>marcada na própria frase</b> por uma palavra ou construção; quem afirma a frase <b>aceita</b> essa informação</td><td>\"Paulo <b>parou de</b> fumar\" → pressupõe que Paulo <b>fumava</b></td><td>é <b>objetivo</b>: <b>não pode ser negado</b> sem contradição (\"Paulo parou de fumar, mas nunca fumou\" é absurdo)</td></tr><tr><td><b>Subentendido</b></td><td>insinuação que <b>depende do contexto</b> e da interpretação do ouvinte; não está marcada em palavra</td><td>\"Está calor aqui, não?\" (dito a quem está perto da janela fechada) → subentende-se um <b>pedido</b> para abrir a janela</td><td>é <b>subjetivo</b>: quem fala pode <b>negar</b> (\"Eu só comentei o tempo\")</td></tr></tbody></table>\n<ul><li><b>Marcadores de pressuposto</b> (muito cobrados): <b>verbos</b> que indicam mudança ou continuidade de estado (<b>parar de, deixar de, continuar, começar a, voltar a, tornar-se</b>): \"Ele <b>voltou a</b> estudar\" pressupõe que <b>estudava antes</b> e <b>parou</b>; <b>advérbios</b> como <b>ainda, já, também, até, só</b>: \"<b>Ainda</b> chove\" pressupõe que <b>chovia antes</b>; \"<b>Até</b> o diretor veio\" pressupõe que o diretor <b>não era esperado</b>; <b>adjetivos</b> e expressões: \"o <b>novo</b> chefe\" pressupõe um chefe <b>anterior</b>; <b>orações adjetivas</b> e <b>conectivos</b> que trazem informação dada como certa: \"O policial <b>que salvou a criança</b> foi homenageado\" pressupõe que <b>um policial salvou a criança</b>.</li><li><b>Por que importa</b>: as bancas perguntam \"a frase X <b>pressupõe</b> que...\" ou \"o emprego de 'ainda' indica que...\". O pressuposto é <b>seguro</b>: dá para afirmar com certeza. O subentendido é <b>inferência de contexto</b> e precisa ser muito bem amparado.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O subentendido não pode ser negado por quem fala</span><br>✅ <span class=\"certo\">Quem <b>não pode negar</b> é o <b>pressuposto</b>; o subentendido <b>pode</b> ser negado</span></li><li>❌ <span class=\"banca\">\"Ele deixou de beber\" não traz informação implícita</span><br>✅ <span class=\"certo\">Pressupõe que ele <b>bebia</b> antes</span></li><li>❌ <span class=\"banca\">\"Até o goleiro marcou gol\" pressupõe que o goleiro costuma marcar gols</span><br>✅ <span class=\"certo\">Pressupõe o <b>contrário</b>: que <b>não era esperado</b> que ele marcasse</span></li></ol></div>\n<h3>5. Tema, tese, ideia principal e argumentos</h3>\n<ul><li><b>Assunto</b> (ou tema amplo): <b>de que</b> o texto fala (ex.: segurança pública).</li><li><b>Tema</b> (recorte): o aspecto específico tratado (ex.: o uso de câmeras corporais por policiais).</li><li><b>Tese</b>: o <b>posicionamento</b> do autor sobre o tema, aquilo que ele <b>defende</b> (ex.: as câmeras corporais protegem tanto o cidadão quanto o policial e devem ser ampliadas). Só existe tese em textos <b>argumentativos</b> (dissertativo-argumentativos, artigos de opinião, editoriais, resenhas críticas).</li><li><b>Ideia principal</b> de um parágrafo: a ideia central que o parágrafo desenvolve, geralmente apresentada no <b>tópico frasal</b> (muitas vezes a <b>primeira frase</b>), seguida de explicações, exemplos e detalhes.</li><li><b>Argumentos</b>: as razões que sustentam a tese. <b>Tipos mais cobrados</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de argumento</th><th>Como funciona</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Autoridade</b></td><td>cita especialista, instituição, pesquisa reconhecida</td><td>\"Segundo estudo da universidade X...\"</td></tr><tr><td><b>Exemplificação / ilustração</b></td><td>usa casos concretos, fatos, narrativas</td><td>\"Na cidade X, após a medida, os roubos caíram\"</td></tr><tr><td><b>Dados estatísticos</b> (provas concretas)</td><td>números, porcentagens, índices</td><td>\"A taxa caiu 30% em dois anos\"</td></tr><tr><td><b>Causa e consequência</b></td><td>mostra o que provoca o quê</td><td>\"Como a iluminação melhorou, os assaltos diminuíram\"</td></tr><tr><td><b>Comparação / analogia</b></td><td>aproxima situações semelhantes</td><td>\"Assim como o cinto de segurança, a medida protege mesmo quem a critica\"</td></tr><tr><td><b>Senso comum / consenso</b></td><td>apoia-se no que todos aceitam</td><td>\"Ninguém duvida de que educação reduz a violência\" (argumento fraco se não comprovado)</td></tr><tr><td><b>Contra-argumentação (concessão e refutação)</b></td><td>reconhece a objeção e a rebate</td><td>\"<b>Embora</b> haja custos, os benefícios são maiores\"</td></tr></tbody></table>\n<ul><li><b>Concessão</b>: reconhecer parcialmente a posição contrária para depois <b>reforçar</b> a própria (conectivos <b>embora, ainda que, apesar de, mesmo que, conquanto</b>). A ideia <b>mais importante</b> costuma estar na oração <b>principal</b>, não na concessiva: em \"Embora caro, o projeto é necessário\", o autor <b>defende</b> o projeto.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo texto tem uma tese</span><br>✅ <span class=\"certo\">Só os textos <b>argumentativos</b>; narrativos e descritivos não defendem posição</span></li><li>❌ <span class=\"banca\">Em \"Embora seja caro, o projeto é necessário\", o autor critica o projeto</span><br>✅ <span class=\"certo\">O autor <b>defende</b> o projeto; a concessiva apenas reconhece o custo</span></li><li>❌ <span class=\"banca\">Tema e tese são a mesma coisa</span><br>✅ <span class=\"certo\">Tema é <b>sobre o quê</b>; tese é <b>o que o autor defende</b></span></li></ol></div>\n<h3>6. Vozes do texto e ponto de vista</h3>\n<ul><li>Nem tudo o que está no texto é <b>opinião do autor</b>. O texto pode trazer <b>outras vozes</b>: citações, falas de entrevistados, opiniões que o autor <b>apresenta para criticar</b>.</li><li><b>Discurso direto</b> (a fala reproduzida, entre aspas ou com travessão), <b>discurso indireto</b> (o autor relata o que alguém disse: \"O ministro afirmou que...\") e <b>discurso indireto livre</b> (a voz da personagem se mistura à do narrador, comum na literatura).</li><li><b>Cuidado</b>: se o texto diz \"<b>Alguns especialistas afirmam</b> que a pena de prisão resolve o problema, <b>mas</b> os dados mostram o contrário\", a ideia de que a prisão resolve <b>não é do autor</b>; ele a <b>apresenta para refutar</b>. A alternativa que atribui essa opinião ao autor está <b>errada</b>.</li><li><b>Aspas</b>: podem indicar <b>citação</b>, <b>ironia</b> (sentido contrário: \"o 'brilhante' plano fracassou\"), <b>estrangeirismo</b>, <b>neologismo</b> ou <b>distanciamento</b> (o autor usa a palavra, mas não se responsabiliza por ela: os chamados \"efeitos colaterais\").</li><li><b>Modalizadores</b>: palavras que mostram <b>o grau de certeza ou a avaliação</b> do autor: <b>certamente, talvez, possivelmente, felizmente, infelizmente, é provável que, é necessário que, deve-se</b>. Identificam o <b>ponto de vista</b>: \"<b>Infelizmente</b>, a medida demorou\" mostra avaliação <b>negativa</b> do autor sobre a demora.</li></ul>\n<h3>7. Paráfrase: dizer o mesmo com outras palavras</h3>\n<ul><li><b>Paráfrase</b> é a reescrita que <b>mantém o sentido</b> do original. Muitas questões perguntam qual alternativa <b>reproduz adequadamente</b> uma ideia do texto.</li><li><b>Como testar</b>: compare <b>ponto por ponto</b>: quem faz o quê, com que intensidade, com que certeza, em que tempo, com que restrições. Basta mudar <b>um</b> desses elementos para a paráfrase falhar.</li><li><b>Pontos que costumam ser alterados</b> nas alternativas erradas: <b>quantificadores</b> (muitos → todos), <b>modalização</b> (pode → deve; talvez → certamente), <b>tempo verbal</b> (aumentou → aumentará), <b>causa e consequência invertidas</b> (\"A chuva causou o alagamento\" → \"O alagamento causou a chuva\"), <b>negação</b> acrescentada ou retirada, <b>agente</b> trocado (quem fez a ação).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Paráfrase em prática</b><p>Trecho: \"A ampliação do horário dos postos de saúde pode reduzir a procura pelos prontos-socorros.\"</p><details><summary>Ver a solução comentada</summary><p><b>Correta</b>: \"Estender o funcionamento dos postos de saúde talvez diminua a demanda nos prontos-socorros\" (mantém a <b>possibilidade</b>: \"pode\" → \"talvez\"). <b>Errada</b>: \"A ampliação do horário dos postos <b>reduzirá</b> a procura\" (transforma possibilidade em <b>certeza</b>). <b>Errada</b>: \"A procura pelos prontos-socorros <b>causa</b> a ampliação do horário\" (inverte <b>causa e efeito</b>). <b>Errada</b>: \"Somente a ampliação do horário reduz a procura\" (acrescenta <b>exclusividade</b>).</p></details></div>\n<h3>8. Referenciação: a quem se refere cada palavra</h3>\n<ul><li>Os textos retomam ideias com <b>pronomes</b> (ele, isso, o qual, cujo, este, aquele), <b>sinônimos</b>, expressões gerais (\"o fato\", \"a medida\", \"o problema\"), <b>numerais</b> e até com <b>elipse</b> (a palavra fica subentendida). Saber <b>a que</b> cada termo se refere é tema frequente: \"o pronome 'isso' (linha 5) retoma...\".</li><li><b>Anáfora</b>: retoma algo <b>já dito</b> (\"O delegado chegou. <b>Ele</b> ouviu as testemunhas\"). <b>Catáfora</b>: antecipa algo que <b>ainda será dito</b> (\"O problema é <b>este</b>: falta efetivo\").</li><li><b>Este x esse x aquele</b> (no texto): <b>este</b> costuma anunciar o que <b>vem</b> (catáfora) ou referir-se ao <b>mais próximo</b>; <b>esse</b> retoma o que <b>já foi dito</b>; <b>aquele</b> retoma o termo <b>mais distante</b>. Em \"Pedro e Ana chegaram; <b>esta</b> sorria, <b>aquele</b> estava sério\", <b>esta</b> = Ana (mais próxima), <b>aquele</b> = Pedro (mais distante).</li><li><b>Isso / isto</b> podem retomar <b>uma ideia inteira</b> (uma oração, um parágrafo), e não só uma palavra. A pegadinha é dizer que retoma apenas um substantivo.</li><li><b>Método</b>: substitua o pronome pelo termo candidato e veja se a frase <b>mantém o sentido</b> e a <b>concordância</b> (gênero e número).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Este\" sempre retoma o que já foi dito</span><br>✅ <span class=\"certo\">\"Este\" costuma <b>anunciar</b> o que vem ou indicar o mais <b>próximo</b>; quem retoma é \"esse\"</span></li><li>❌ <span class=\"banca\">\"Isso\" só pode retomar um substantivo</span><br>✅ <span class=\"certo\">Pode retomar <b>uma ideia inteira</b></span></li><li>❌ <span class=\"banca\">Em \"Pedro e Ana chegaram; esta sorria, aquele estava sério\", \"aquele\" refere-se a Ana</span><br>✅ <span class=\"certo\">\"Aquele\" = o <b>mais distante</b> (Pedro); \"esta\" = Ana</span></li></ol></div>\n<h3>9. Conectivos e relações de sentido</h3>\n<ul><li>Os <b>conectivos</b> (conjunções, preposições, locuções, advérbios de ligação) mostram a <b>relação lógica</b> entre as ideias. Trocá-los muda o sentido do texto, e as bancas exploram muito isso.</li></ul>\n<table class=\"tab\"><thead><tr><th>Relação</th><th>Conectivos típicos</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Adição</b></td><td>e, nem, além disso, também, não só... mas também</td><td>\"Treinou e passou\"</td></tr><tr><td><b>Oposição / adversidade</b></td><td>mas, porém, contudo, todavia, entretanto, no entanto</td><td>\"Estudou, <b>mas</b> não passou\"</td></tr><tr><td><b>Concessão</b></td><td>embora, ainda que, mesmo que, apesar de, conquanto, posto que</td><td>\"<b>Embora</b> tenha estudado, não passou\"</td></tr><tr><td><b>Causa</b></td><td>porque, pois (antes do verbo... ver nota), como (no início), já que, visto que, uma vez que</td><td>\"<b>Como</b> choveu, o jogo foi adiado\"</td></tr><tr><td><b>Consequência</b></td><td>tão... que, tanto que, de modo que, de forma que</td><td>\"Choveu <b>tanto que</b> alagou\"</td></tr><tr><td><b>Conclusão</b></td><td>logo, portanto, por isso, assim, então, pois (depois do verbo, entre vírgulas)</td><td>\"Estudou muito; <b>logo</b>, passou\"</td></tr><tr><td><b>Condição</b></td><td>se, caso, desde que, contanto que</td><td>\"<b>Caso</b> chova, adiaremos\"</td></tr><tr><td><b>Finalidade</b></td><td>para que, a fim de que, para</td><td>\"Estudou <b>para</b> passar\"</td></tr><tr><td><b>Tempo</b></td><td>quando, enquanto, assim que, logo que, depois que</td><td>\"<b>Assim que</b> chegou, começou\"</td></tr><tr><td><b>Comparação</b></td><td>como, tal qual, mais... (do) que</td><td>\"Corre <b>como</b> um atleta\"</td></tr><tr><td><b>Conformidade</b></td><td>conforme, segundo, consoante, como</td><td>\"<b>Conforme</b> previsto, o prazo acabou\"</td></tr><tr><td><b>Proporção</b></td><td>à medida que, à proporção que, quanto mais... mais</td><td>\"<b>À medida que</b> estudava, aprendia\"</td></tr></tbody></table>\n<ul><li><b>\"Pois\"</b>: é <b>explicativo/causal</b> quando vem <b>antes</b> do verbo, iniciando a oração (\"Saiu cedo, <b>pois</b> tinha prova\"); é <b>conclusivo</b> quando vem <b>depois</b> do verbo, entre vírgulas (\"Tinha prova; saiu, <b>pois</b>, cedo\").</li><li><b>\"Como\"</b> pode indicar <b>causa</b> (no início: \"<b>Como</b> estava doente, faltou\"), <b>comparação</b> (\"forte <b>como</b> um touro\") ou <b>conformidade</b> (\"<b>Como</b> combinamos, cheguei cedo\").</li><li><b>Substituição de conectivos</b>: só se troca um conectivo por outro da <b>mesma relação</b> (mas → porém; embora → ainda que), observando também o <b>modo verbal</b> (embora pede <b>subjuntivo</b>: \"Embora <b>esteja</b> cansado\"; \"apesar de\" pede <b>infinitivo</b> ou substantivo: \"Apesar de <b>estar</b> cansado\", \"apesar do cansaço\").</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Embora\" e \"mas\" são intercambiáveis sem nenhuma alteração</span><br>✅ <span class=\"certo\">Ambos opõem ideias, mas <b>embora</b> é <b>concessivo</b> e exige <b>subjuntivo</b> e reestruturação; \"mas\" é <b>adversativo</b></span></li><li>❌ <span class=\"banca\">\"Pois\" é sempre explicativo</span><br>✅ <span class=\"certo\">Depois do verbo, entre vírgulas, é <b>conclusivo</b></span></li><li>❌ <span class=\"banca\">\"Portanto\" indica causa</span><br>✅ <span class=\"certo\">Indica <b>conclusão</b></span></li></ol></div>\n<h3>10. Textos verbais e não verbais: charges, tirinhas e gráficos</h3>\n<ul><li><b>Charge</b>: desenho <b>crítico</b> e <b>humorístico</b> sobre fato <b>atual</b> (política, sociedade). Exige conhecer o contexto e perceber a <b>ironia</b> ou a <b>crítica</b>.</li><li><b>Cartum</b>: humor <b>atemporal</b>, sem ligação com fato específico.</li><li><b>Tirinha</b> (tira): sequência de quadrinhos; o humor costuma estar na <b>quebra de expectativa</b> do último quadro. Leia <b>todos os quadros</b> e a <b>relação</b> entre imagem e texto.</li><li><b>Infográficos, tabelas e gráficos</b>: leia <b>título, legenda, unidades, eixos, fonte e período</b>. A pegadinha mais comum é afirmar uma <b>tendência</b> ou uma <b>causa</b> que o gráfico <b>não mostra</b> (gráfico mostra <b>correlação</b>, não necessariamente <b>causa</b>) ou comparar dados de <b>períodos ou unidades</b> diferentes.</li><li><b>Linguagem não verbal</b>: expressões faciais, cores, tamanho das letras (grito), balões (fala, pensamento, cochicho) também <b>significam</b> e entram na interpretação.</li></ul>\n<h3>11. Ironia, humor e duplo sentido</h3>\n<ul><li><b>Ironia</b>: dizer o <b>contrário</b> do que se pensa, com intenção crítica ou humorística, percebida pelo <b>contexto</b> (\"Que beleza! O ônibus atrasou de novo\"). Muitas questões perguntam qual é o <b>sentido real</b> do trecho irônico.</li><li><b>Ambiguidade</b>: frase com <b>dois sentidos</b> possíveis. Pode ser <b>defeito</b> (em textos técnicos e oficiais, deve ser evitada: \"O policial abordou o suspeito em seu carro\": carro de quem?) ou <b>recurso expressivo</b> (em propagandas, piadas e títulos, é usada de propósito).</li><li><b>Humor</b>: frequentemente nasce da <b>ambiguidade</b>, da <b>quebra de expectativa</b>, do <b>exagero</b> ou da <b>ironia</b>. Identificar o <b>mecanismo</b> do humor é pedido comum em tirinhas.</li></ul>\n<h3>12. Título, estrutura e progressão do texto</h3>\n<ul><li><b>Título</b>: resume, antecipa ou provoca. Pode ser <b>ambíguo</b> ou <b>irônico</b> de propósito. Questões pedem o título <b>mais adequado</b> (aquele que abrange o <b>tema central</b>, sem reduzir a um detalhe nem extrapolar).</li><li><b>Estrutura do texto argumentativo</b>: <b>introdução</b> (apresenta o tema e, muitas vezes, a tese), <b>desenvolvimento</b> (argumentos, um por parágrafo, em regra) e <b>conclusão</b> (retoma a tese, sintetiza, propõe solução).</li><li><b>Progressão</b>: o texto avança acrescentando informação nova ao que já foi dito. Questões perguntam a <b>função</b> de um parágrafo (introduzir, exemplificar, contrapor, concluir) ou de um trecho entre parênteses ou travessões (explicar, exemplificar, acrescentar comentário).</li><li><b>Função dos sinais</b>: <b>dois-pontos</b> introduzem explicação, enumeração, citação ou conclusão; <b>parênteses e travessões duplos</b> isolam comentários ou explicações; <b>aspas</b> marcam citação, ironia ou destaque.</li></ul>\n<h3>13. Sentido das palavras no contexto</h3>\n<ul><li><b>Sentido denotativo</b>: o sentido <b>literal</b>, de dicionário (\"O <b>coração</b> bombeia o sangue\"). <b>Sentido conotativo</b>: o sentido <b>figurado</b>, que depende do contexto (\"Ele é o <b>coração</b> do time\").</li><li><b>Sinonímia contextual</b>: a questão pergunta qual palavra <b>substitui</b> outra <b>sem alterar o sentido</b> no texto. A resposta depende do <b>contexto</b>: \"<b>grave</b>\" pode ser <b>sério</b> (\"situação grave\"), <b>baixo</b> (\"som grave\") ou <b>acentuado</b> (\"acento grave\").</li><li><b>Polissemia</b>: uma palavra com <b>vários sentidos</b> relacionados (\"pé\" da mesa, \"pé\" de alface, \"pé\" humano). <b>Homonímia</b>: palavras <b>iguais na forma</b>, com sentidos <b>sem relação</b> (\"são\" de santo, de sadio e do verbo ser).</li><li><b>Parônimos</b>: palavras <b>parecidas</b> na forma, com sentidos diferentes (<b>descrição</b> x <b>discrição</b>; <b>eminente</b> x <b>iminente</b>; <b>ratificar</b> x <b>retificar</b>; <b>comprimento</b> x <b>cumprimento</b>; <b>infligir</b> x <b>infringir</b>; <b>mandado</b> x <b>mandato</b>). São cobrados também em ortografia e reescrita.</li></ul>\n<table class=\"tab\"><thead><tr><th>Par</th><th>Diferença</th></tr></thead><tbody><tr><td><b>Eminente / iminente</b></td><td>eminente = <b>ilustre</b>, elevado; iminente = <b>prestes a acontecer</b></td></tr><tr><td><b>Ratificar / retificar</b></td><td>ratificar = <b>confirmar</b>; retificar = <b>corrigir</b></td></tr><tr><td><b>Infligir / infringir</b></td><td>infligir = <b>aplicar</b> (pena, castigo); infringir = <b>violar</b> (lei, regra)</td></tr><tr><td><b>Mandado / mandato</b></td><td>mandado = <b>ordem</b> judicial (mandado de prisão); mandato = <b>período</b> de representação ou procuração (mandato do prefeito)</td></tr><tr><td><b>Descrição / discrição</b></td><td>descrição = <b>descrever</b>; discrição = <b>reserva</b>, ser discreto</td></tr><tr><td><b>Flagrante / fragrante</b></td><td>flagrante = <b>evidente</b>, no ato; fragrante = <b>perfumado</b></td></tr><tr><td><b>Deferir / diferir</b></td><td>deferir = <b>atender</b>, conceder; diferir = <b>adiar</b> ou ser diferente</td></tr><tr><td><b>Delatar / dilatar</b></td><td>delatar = <b>denunciar</b>; dilatar = <b>ampliar</b></td></tr><tr><td><b>Emigrar / imigrar</b></td><td>emigrar = <b>sair</b> do país; imigrar = <b>entrar</b> em país estrangeiro</td></tr><tr><td><b>Tráfego / tráfico</b></td><td>tráfego = <b>trânsito</b>; tráfico = <b>comércio ilegal</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O juiz ratificou a sentença para corrigir um erro</span><br>✅ <span class=\"certo\">Corrigir é <b>retificar</b>; ratificar é <b>confirmar</b></span></li><li>❌ <span class=\"banca\">A pena foi infringida ao réu</span><br>✅ <span class=\"certo\">Aplicar pena = <b>infligir</b>; infringir é <b>violar</b></span></li><li>❌ <span class=\"banca\">O mandato de prisão foi cumprido</span><br>✅ <span class=\"certo\">Ordem judicial = <b>mandado</b>; mandato é período de representação</span></li><li>❌ <span class=\"banca\">Perigo eminente</span><br>✅ <span class=\"certo\">Prestes a acontecer = <b>iminente</b></span></li></ol></div>\n<h3>14. Método prático para resolver questões de interpretação</h3>\n<ul><li><b>1) Leia o comando primeiro</b>: descubra se a questão pede <b>compreensão</b> (\"segundo o texto\"), <b>interpretação</b> (\"infere-se\"), <b>sentido de palavra</b>, <b>referência</b>, <b>função</b> de trecho ou a alternativa <b>incorreta</b> (atenção ao \"<b>exceto</b>\", \"<b>incorreta</b>\", \"<b>não</b>\").</li><li><b>2) Leia o texto inteiro</b> com atenção, identificando o <b>tema</b>, a <b>tese</b> (se houver) e a <b>ideia principal</b> de cada parágrafo. Em textos longos, sublinhe palavras-chave e conectivos.</li><li><b>3) Volte ao trecho</b> indicado e leia <b>antes e depois</b> dele (o contexto resolve a maioria das dúvidas).</li><li><b>4) Teste cada alternativa</b> contra o texto: procure <b>extrapolação</b>, <b>redução</b>, <b>contradição</b>, troca de quantificadores, de modalização, de tempo, de causa e consequência, de agente.</li><li><b>5) Elimine</b> as alternativas com erro claro e compare as que sobram: a correta é a <b>mais fiel</b> ao texto, não a mais \"bonita\" ou a mais completa sobre o assunto.</li><li><b>6) Desconfie</b> de alternativas que trazem <b>opinião do candidato</b> (frases que soam corretas moralmente mas não estão no texto) e de alternativas que <b>copiam</b> trechos do texto mudando <b>uma palavra</b>.</li></ul>\n<h3>15. Como a FGV e outras bancas cobram</h3>\n<ul><li>A <b>FGV</b> (banca de referência para a PCMG) costuma usar textos <b>jornalísticos e opinativos</b> atuais, com questões que exigem <b>inferência</b> fina, <b>paráfrase</b>, <b>sentido contextual</b> de palavras, <b>função</b> de conectivos e de trechos, <b>pressupostos</b> e análise de <b>argumentos</b> (\"o argumento utilizado no segundo parágrafo é de...\", \"o autor se vale de...\"). As alternativas costumam ser <b>longas</b> e muito <b>parecidas</b>, diferindo em um detalhe.</li><li><b>Cebraspe</b> (Certo/Errado): cobra <b>paráfrase</b> e <b>reescrita</b> (manutenção de sentido e correção), inferências e o <b>sentido</b> de trechos; um único detalhe torna o item errado.</li><li><b>Outras bancas</b> (Fumarc, Consulplan, Vunesp, IBFC): misturam compreensão direta, sentido de palavras e gramática aplicada ao texto.</li></ul>\n<h3>16. Casos práticos de leitura</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto e inferência</b><p>Texto: \"Desde que o bairro passou a contar com a ronda escolar, os pais relatam mais tranquilidade na saída dos alunos. A diretora, porém, lembra que a iluminação da praça ao lado continua precária.\"</p><details><summary>Ver a solução comentada</summary><p><b>Pode-se inferir</b>: a ronda escolar <b>é recente</b> (pressuposto de \"desde que passou a contar\"); a diretora considera que <b>ainda há problemas</b> de segurança (o \"porém\" contrapõe e o \"continua\" pressupõe que a iluminação já era precária). <b>Não se pode inferir</b>: que a violência <b>acabou</b> (extrapolação), que os pais <b>não confiam</b> na ronda (contradição) ou que a iluminação é responsabilidade da escola (extrapolação).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ponto de vista e outras vozes</b><p>Texto: \"Há quem diga que o videomonitoramento resolve sozinho a criminalidade urbana. A experiência de várias cidades, contudo, mostra que câmeras sem equipe para acompanhar as imagens pouco adiantam.\"</p><details><summary>Ver a solução comentada</summary><p>A ideia de que o videomonitoramento resolve <b>sozinho</b> o problema <b>não é do autor</b>: é atribuída a \"há quem diga\" e <b>refutada</b> pelo \"contudo\". O autor defende que as câmeras dependem de <b>equipe</b> para funcionar. Uma alternativa que diga \"o autor é contrário ao videomonitoramento\" <b>extrapola</b>: ele critica a ideia de que as câmeras <b>bastam sozinhas</b>, não as câmeras em si.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Palavra no contexto</b><p>Frase: \"O relatório apontou falhas graves na fiscalização, o que exige uma resposta imediata.\"</p><details><summary>Ver a solução comentada</summary><p><b>Graves</b> = <b>sérias</b>, <b>importantes</b> (não \"de som baixo\"). <b>Imediata</b> = <b>sem demora</b>. O pronome \"<b>o que</b>\" retoma <b>toda a ideia</b> anterior (o fato de o relatório ter apontado falhas), e não só a palavra \"fiscalização\".</p></details></div>\n<h3>17. Textos literários: narrador, eu lírico e linguagem figurada</h3>\n<ul><li>Algumas provas trazem <b>crônicas</b>, <b>contos</b> e <b>poemas</b>. A leitura exige atenção a elementos próprios:</li></ul>\n<table class=\"tab\"><thead><tr><th>Elemento</th><th>O que é</th><th>Como aparece na questão</th></tr></thead><tbody><tr><td><b>Narrador</b></td><td>quem <b>conta</b> a história (não é o autor real)</td><td>\"o narrador do texto...\"</td></tr><tr><td><b>Foco narrativo em 1ª pessoa</b></td><td>narrador <b>personagem</b> (participa da história: \"eu fui...\")</td><td>visão <b>limitada</b> ao que ele sabe e sente</td></tr><tr><td><b>Foco narrativo em 3ª pessoa</b></td><td>narrador <b>observador</b> (conta de fora) ou <b>onisciente</b> (conhece pensamentos e sentimentos das personagens)</td><td>\"o narrador conhece o que a personagem pensa\"</td></tr><tr><td><b>Eu lírico</b> (eu poético)</td><td>a <b>voz</b> que fala no poema; não se confunde com o poeta</td><td>\"o eu lírico expressa...\"</td></tr><tr><td><b>Crônica</b></td><td>texto curto, ligado ao <b>cotidiano</b>, com tom leve, humorístico ou reflexivo, publicado em jornal ou revista</td><td>\"o cronista parte de um fato banal para refletir...\"</td></tr><tr><td><b>Linguagem figurada</b></td><td>metáforas, comparações, personificações</td><td>\"a expressão X foi empregada em sentido figurado\"</td></tr></tbody></table>\n<ul><li><b>Cuidado</b>: na crônica e no poema, o sentido <b>figurado</b> é a regra. Uma questão que pede o sentido de \"O tempo é um rio\" não quer \"o tempo é feito de água\", e sim a ideia de <b>passagem contínua</b>, que não volta. As figuras de linguagem são aprofundadas no tópico de Semântica.</li><li><b>Personagens e falas</b>: no discurso <b>direto</b>, a fala é reproduzida com as palavras da personagem; no <b>indireto</b>, o narrador relata o que ela disse; no <b>indireto livre</b>, a fala ou o pensamento da personagem aparece misturado à narração, sem verbo de fala e sem aspas.</li></ul>\n<h3>18. Inferência na prática: o que pode e o que não pode</h3>\n<ul><li><b>Inferência válida</b> é a conclusão que <b>decorre</b> do texto com segurança ou com alta probabilidade, sem depender de suposições externas.</li><li><b>Exemplo 1</b>: \"O delegado só conseguiu ouvir a testemunha no terceiro dia, quando ela finalmente compareceu.\" <b>Pode-se inferir</b>: a testemunha <b>não compareceu</b> nos dois primeiros dias (pressuposto de \"só\" e \"finalmente\"); houve <b>demora</b> ou dificuldade. <b>Não se pode inferir</b>: que a testemunha <b>mentiu</b>, que estava <b>com medo</b> ou que o delegado foi <b>negligente</b> (todas são suposições).</li><li><b>Exemplo 2</b>: \"Com a nova lei, os motoristas flagrados pela segunda vez perderão a habilitação.\" <b>Pode-se inferir</b>: na primeira vez, a perda da habilitação <b>não</b> é automática pela regra mencionada (o texto fala em \"segunda vez\"); a lei é <b>nova</b>. <b>Não se pode inferir</b>: que a lei <b>reduzirá</b> os acidentes (efeito não afirmado) ou que antes não havia nenhuma punição (o texto não diz).</li><li><b>Exemplo 3</b>: \"Ao contrário do que se previa, a obra terminou no prazo.\" <b>Pode-se inferir</b>: havia <b>expectativa</b> de atraso. <b>Não se pode inferir</b>: que obras públicas <b>sempre</b> atrasam (generalização).</li><li><b>Teste rápido</b>: pergunte \"<b>o texto me obriga</b> a concluir isso?\" Se a resposta for \"não, mas é provável no mundo real\", a alternativa provavelmente <b>extrapola</b>.</li></ul>\n<h3>19. Função de trechos e de parágrafos</h3>\n<ul><li>Muitas questões não perguntam <b>o que</b> o texto diz, mas <b>para que</b> um trecho foi usado. Funções frequentes:</li></ul>\n<table class=\"tab\"><thead><tr><th>Função</th><th>Sinais típicos</th></tr></thead><tbody><tr><td><b>Introduzir o tema</b></td><td>primeiro parágrafo, apresentação do assunto, dados gerais</td></tr><tr><td><b>Apresentar a tese</b></td><td>frase opinativa central, muitas vezes no fim da introdução</td></tr><tr><td><b>Exemplificar</b></td><td>\"por exemplo\", \"como\", casos concretos, nomes de cidades, números</td></tr><tr><td><b>Explicar / esclarecer</b></td><td>\"isto é\", \"ou seja\", parênteses, dois-pontos</td></tr><tr><td><b>Ressalvar / contrapor</b></td><td>\"mas\", \"porém\", \"embora\", \"por outro lado\"</td></tr><tr><td><b>Retomar / resumir</b></td><td>\"em suma\", \"em síntese\", \"dessa forma\"</td></tr><tr><td><b>Concluir / propor</b></td><td>último parágrafo, \"portanto\", \"é preciso\", \"cabe ao poder público\"</td></tr><tr><td><b>Introduzir outra voz</b></td><td>\"segundo\", \"de acordo com\", \"para fulano\", aspas</td></tr><tr><td><b>Retificar</b></td><td>\"ou melhor\", \"aliás\", correção de algo dito antes</td></tr></tbody></table>\n<ul><li><b>Parênteses</b> e <b>travessões</b> costumam acrescentar <b>explicação</b>, <b>exemplo</b> ou <b>comentário</b> do autor; retirá-los, em geral, <b>não prejudica</b> a correção gramatical, mas pode tirar uma informação.</li><li><b>Pergunta retórica</b>: pergunta feita <b>sem esperar resposta</b>, para provocar reflexão ou reforçar a tese (\"Até quando vamos aceitar isso?\").</li></ul>\n<h3>20. Exercício comentado com texto completo</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto para análise</b><p>\"Em muitas cidades brasileiras, o policiamento comunitário deixou de ser uma promessa e passou a fazer parte da rotina. A ideia é simples: o mesmo grupo de policiais atua por longo tempo no mesmo bairro, conhece os moradores e é conhecido por eles. Os resultados, porém, dependem menos do nome do programa do que da continuidade. Quando os policiais são trocados a todo momento, a confiança construída se perde, e a população volta a enxergar a farda como algo distante. Há, ainda, quem veja no modelo apenas uma estratégia de imagem. Os números de algumas experiências bem conduzidas, no entanto, mostram queda de crimes e aumento das denúncias anônimas, sinal de que a comunidade passou a colaborar. O desafio, portanto, não é criar novos programas a cada gestão, mas manter os que funcionam.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tese</b>: o sucesso do policiamento comunitário depende da <b>continuidade</b>; o desafio é <b>manter</b> os programas que funcionam (último período, introduzido por \"portanto\"). <b>2) Pressuposto</b> de \"deixou de ser uma promessa\": antes, o policiamento comunitário <b>era apenas promessa</b>. <b>3) Função de \"A ideia é simples:\"</b>: anuncia uma <b>explicação</b> do conceito (os dois-pontos introduzem o esclarecimento). <b>4) \"Porém\"</b> (3º período): introduz <b>ressalva</b>: os resultados não vêm automaticamente. <b>5) \"Há, ainda, quem veja no modelo apenas uma estratégia de imagem\"</b>: é <b>outra voz</b>, que o autor <b>refuta</b> com o \"no entanto\" seguinte; atribuir essa visão ao autor é <b>erro</b>. <b>6) Argumento</b> do penúltimo período: <b>dados/provas concretas</b> (\"os números... mostram\"). <b>7) Inferência válida</b>: a troca constante de policiais <b>prejudica</b> a confiança da população. <b>8) Inferência inválida</b> (extrapolação): \"o policiamento comunitário reduz a criminalidade em <b>todas</b> as cidades onde é implantado\" (o texto fala em \"algumas experiências <b>bem conduzidas</b>\"). <b>9) Redução</b>: \"o texto trata <b>apenas</b> da queda dos crimes\" (ignora o tema central, a continuidade). <b>10) Sentido de \"farda\"</b>: metonímia para a <b>polícia/instituição</b> (a parte pelo todo), e não apenas a roupa.</p></details></div>\n<h3>21. Estratégia de prova e controle do tempo</h3>\n<ul><li><b>Textos longos</b>: faça uma primeira leitura <b>rápida</b> para captar tema e estrutura e, depois, leia com atenção os trechos indicados pelas questões. Marque <b>conectivos</b> e palavras <b>absolutas</b> e <b>modalizadoras</b>.</li><li><b>Ordem das questões</b>: comece pelas de <b>compreensão</b> e <b>sentido de palavras</b> (mais rápidas) e deixe as de inferência mais complexa para depois, voltando ao texto com calma.</li><li><b>Alternativas longas</b> (comuns na FGV): divida a alternativa em <b>partes</b> e verifique cada uma. Basta <b>um</b> pedaço errado para eliminá-la.</li><li><b>Questões \"exceto/incorreta\"</b>: marque o comando com destaque; muitos erros vêm de responder o contrário do que foi pedido.</li><li><b>Não brigue com o texto</b>: mesmo que você discorde da opinião do autor, a questão pede o que <b>o texto</b> diz ou permite concluir.</li><li><b>Treino</b>: a habilidade cresce com a <b>prática diária</b> de leitura (editoriais, artigos de opinião, reportagens) e de questões comentadas da banca. Ao errar, anote o <b>tipo de erro</b> (extrapolou? reduziu? confundiu voz?) para não repeti-lo.</li></ul>\n<h3>22. Segundo exercício comentado: texto expositivo</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto para análise</b><p>\"O número de golpes aplicados por mensagens de celular cresceu nos últimos anos. Em geral, o criminoso se apresenta como um parente ou um funcionário de banco e cria um senso de urgência: pede uma transferência imediata, alegando um problema grave. Especialistas recomendam desconfiar de qualquer pedido de dinheiro por mensagem, sobretudo quando acompanhado de pressa, e confirmar a história por outro canal, como uma ligação para o número já conhecido do parente. Nem sempre, porém, a vítima consegue pensar com calma, pois o golpista explora justamente o medo e o afeto.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tipo de texto</b>: predominantemente <b>expositivo/injuntivo</b>: informa sobre o golpe e traz <b>recomendações</b> (não defende uma tese polêmica). <b>2) \"Em geral\"</b>: <b>relativiza</b>; uma alternativa que diga que o criminoso \"<b>sempre</b> se apresenta como parente\" <b>extrapola</b> (o texto também cita funcionário de banco e usa \"em geral\"). <b>3) \"Sobretudo\"</b>: indica <b>destaque</b>, não exclusividade; \"a desconfiança só é necessária quando há pressa\" é <b>redução/contradição</b> (o texto manda desconfiar de <b>qualquer</b> pedido). <b>4) \"Como uma ligação...\"</b>: <b>exemplifica</b> o \"outro canal\". <b>5) \"Porém\"</b> no último período: <b>ressalva</b> à recomendação: nem sempre a vítima consegue segui-la. <b>6) \"Pois\"</b> (antes do verbo): <b>explicativo/causal</b>: explica por que a vítima não pensa com calma. <b>7) Inferência válida</b>: o <b>senso de urgência</b> é uma estratégia do golpista para reduzir a reflexão da vítima. <b>8) Inferência inválida</b>: \"os bancos são responsáveis pelos golpes\" (o texto não trata de responsabilidade); \"os golpes diminuirão com as recomendações\" (efeito não afirmado).</p></details></div>\n<h3>23. Terceiro exercício comentado: tirinha descrita</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Tirinha (descrição)</b><p>Quadro 1: um homem diz ao amigo: \"Comecei a correr todo dia para ter mais saúde.\" Quadro 2: o amigo pergunta: \"E como está indo?\" Quadro 3: o homem, deitado no sofá, comendo pizza e vendo televisão, responde: \"Ótimo! Já corro todo dia... atrás do entregador da pizzaria.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Mecanismo do humor</b>: <b>quebra de expectativa</b> e <b>ambiguidade</b> do verbo \"correr\": no início, \"correr\" sugere <b>exercício físico</b>; no fim, revela-se o sentido de <b>correr atrás</b> do entregador (para pegar a pizza). <b>2) Ironia/contradição</b> entre o objetivo (saúde) e o comportamento mostrado (sedentarismo e pizza). <b>3) Linguagem não verbal</b>: a <b>imagem</b> do último quadro (sofá, pizza, TV) é essencial para o humor e contradiz a fala inicial. <b>4) Inferência válida</b>: o personagem <b>não</b> pratica corrida como exercício. <b>5) Inferência inválida</b>: \"o personagem trabalha como entregador\" (contradição: ele corre <b>atrás</b> do entregador) ou \"a tirinha critica as pizzarias\" (extrapolação).</p></details></div>\n<h3>24. Interpretação de textos legais e de enunciados de outras matérias</h3>\n<ul><li>A habilidade de interpretação vale para <b>ler a lei</b>: muitas questões de Direito são, na verdade, questões de <b>leitura atenta</b> do texto legal, com as mesmas armadilhas: troca de \"<b>pode</b>\" por \"<b>deve</b>\", de \"<b>poderá</b>\" por \"<b>será</b>\", de \"<b>salvo</b>\" por \"<b>inclusive</b>\", de prazos e quantificadores (\"<b>até</b> 10 dias\" x \"<b>no mínimo</b> 10 dias\"; \"<b>e</b>\" x \"<b>ou</b>\").</li><li><b>Palavras que mudam tudo</b> em textos normativos: <b>salvo, exceto, ressalvado</b> (exceção); <b>inclusive, também</b> (inclusão); <b>somente, apenas, exclusivamente, privativamente</b> (exclusividade); <b>vedado, proibido</b> (proibição); <b>facultado, poderá</b> (faculdade); <b>deverá, será, é obrigatório</b> (obrigação); <b>até, no máximo, no mínimo, não inferior a, não superior a</b> (limites).</li><li><b>Exemplo</b>: \"O laudo será elaborado no prazo <b>máximo</b> de 10 dias, <b>podendo</b> ser prorrogado, em casos <b>excepcionais</b>, a requerimento dos peritos.\" Uma alternativa que diga \"o prazo de 10 dias é <b>improrrogável</b>\" contradiz o texto; outra que diga \"o prazo <b>será</b> prorrogado a pedido de <b>qualquer parte</b>\" troca a <b>faculdade</b> por <b>obrigação</b> e o <b>legitimado</b>.</li><li><b>Enunciados longos de Direito</b> (casos práticos): leia como um texto: identifique <b>quem</b> fez <b>o quê</b>, <b>quando</b>, <b>com que intenção</b>, e o que a questão <b>pergunta</b>. Muitos erros vêm de ignorar um dado do enunciado (a idade da vítima, o prazo, a relação entre as pessoas).</li></ul>\n<h3>25. Erros mais comuns dos candidatos (e como evitar)</h3>\n<ul><li><b>Responder com a própria opinião</b>: escolher a alternativa que parece \"mais justa\" ou \"mais correta\" no mundo, e não a que o texto autoriza. <b>Remédio</b>: para cada alternativa, apontar <b>onde</b> no texto está a base.</li><li><b>Ler só o trecho indicado</b>: muitas vezes o sentido depende da frase anterior ou seguinte. <b>Remédio</b>: ler <b>antes e depois</b>.</li><li><b>Ignorar conectivos e modalizadores</b>: deixar passar um \"porém\", um \"talvez\", um \"nem sempre\". <b>Remédio</b>: sublinhar conectivos e palavras de certeza.</li><li><b>Confundir a voz do autor com a de terceiros</b>: atribuir ao autor uma opinião que ele cita para criticar. <b>Remédio</b>: perguntar \"<b>quem</b> está dizendo isso no texto?\".</li><li><b>Não perceber o comando \"incorreta/exceto\"</b>: marcar a primeira alternativa verdadeira. <b>Remédio</b>: circular o comando antes de ler as alternativas.</li><li><b>Cansaço e pressa</b>: interpretação exige concentração; deixar para o fim da prova costuma prejudicar. <b>Remédio</b>: resolver os textos em um momento de boa atenção e controlar o tempo por bloco de questões.</li><li><b>Achar que toda alternativa bem escrita é correta</b>: as alternativas erradas costumam ser <b>bem redigidas</b> e parecidas com o texto. <b>Remédio</b>: comparar <b>palavra por palavra</b> os pontos sensíveis (quantificadores, tempo, causa, agente, modalização).</li></ul>\n<h3>26. Quarto exercício comentado: crônica</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Crônica (texto autoral)</b><p>\"Toda segunda-feira, seu Antônio abre a padaria antes das cinco. Diz que é para pegar o pão saindo do forno, mas a vizinhança sabe que é para conversar com os primeiros fregueses: o motorista do ônibus, a enfermeira do plantão, o vigia que volta para casa. Entre um café e outro, ele resolve, de graça, os problemas do bairro, e às vezes os do país. Na semana passada, a padaria não abriu. Ninguém sabia o que dizer. O motorista atrasou a saída, a enfermeira chegou ao hospital sem o pão de queijo, o vigia foi dormir sem ouvir que 'amanhã vai ser melhor'. Na terça, seu Antônio voltou, gripado, mas voltou. E o bairro, que nem sabia que precisava dele, respirou aliviado.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Gênero</b>: <b>crônica</b>: parte de um fato do <b>cotidiano</b> para refletir sobre as <b>relações humanas</b> e a importância de pequenos gestos. <b>2) Ironia leve</b> em \"resolve, de graça, os problemas do bairro, e às vezes os do país\": <b>humor</b> com exagero (hipérbole), mostrando o hábito de conversar e opinar. <b>3) Pressuposto</b> de \"Na terça, seu Antônio <b>voltou</b>\": ele <b>havia faltado</b> antes. <b>4) Inferência válida</b>: a ausência de seu Antônio <b>afetou a rotina</b> dos fregueses, mostrando que sua presença tinha <b>valor afetivo</b> para o bairro. <b>5) Inferência inválida</b>: \"seu Antônio fechou a padaria por falência\" (o texto indica <b>gripe</b>; extrapolação/contradição) ou \"o bairro não gostava de seu Antônio\" (contradição). <b>6) \"Mas a vizinhança sabe que é para conversar\"</b>: o \"mas\" opõe o <b>motivo declarado</b> (pão saindo do forno) ao <b>motivo real</b> percebido pela vizinhança (conversar). <b>7) Tese?</b> Crônica não defende tese como um artigo de opinião; ela <b>sugere uma reflexão</b> (o valor das pequenas presenças no cotidiano). <b>8) Narrador</b>: em <b>3ª pessoa</b>, observador, com tom afetuoso.</p></details></div>\n<h3>27. Quinto exercício comentado: leitura de gráfico</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Gráfico (descrição)</b><p>Título: \"Ocorrências de furto de celular no centro da cidade (por mês)\". Eixo horizontal: janeiro a junho. Eixo vertical: número de ocorrências. Valores: janeiro 120, fevereiro 135, março 90, abril 85, maio 80, junho 82. Nota de rodapé: \"Em março foi instalado o videomonitoramento na praça central.\" Fonte: Secretaria Municipal de Segurança.</p><details><summary>Ver a solução comentada</summary><p><b>1) Leitura correta</b>: houve <b>aumento</b> de janeiro para fevereiro, <b>queda</b> acentuada em março e <b>estabilidade</b> com pequenas variações de abril a junho (aumento leve em junho). <b>2) Inferência possível</b>: a queda <b>coincide</b> com a instalação do videomonitoramento. <b>3) Inferência indevida</b>: \"o videomonitoramento <b>causou</b> a queda dos furtos\" (o gráfico mostra <b>coincidência no tempo</b>, não prova a causa; outros fatores podem ter influído, como mais policiamento ou mudança de comércio). <b>4) Erro de leitura</b>: \"os furtos caíram <b>todos os meses</b> após março\" (em junho houve <b>leve aumento</b>: 80 → 82). <b>5) Erro de unidade/escopo</b>: \"os furtos caíram na <b>cidade inteira</b>\" (o gráfico trata do <b>centro</b>). <b>6) Atenção à fonte e ao período</b>: dados de <b>seis meses</b> não permitem afirmar tendência de <b>longo prazo</b>.</p></details></div>\n<h3>28. Sexto exercício comentado: artigo de opinião</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Artigo de opinião (texto autoral)</b><p>\"Proibir o celular nas salas de aula tornou-se bandeira de muitas escolas. A medida parece óbvia: sem a tela por perto, o aluno presta mais atenção. Ainda assim, convém evitar o entusiasmo fácil. O celular não é o único responsável pela distração, e aulas pouco interessantes continuarão pouco interessantes sem ele. Além disso, o aparelho pode ser ferramenta valiosa quando o professor o integra ao planejamento, como em pesquisas rápidas ou em exercícios interativos. Isso não significa liberar o uso sem regras; significa reconhecer que a proibição, sozinha, não resolve. Mais eficaz do que banir é ensinar os jovens a usar a tecnologia com propósito, algo de que precisarão para o resto da vida.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tese</b>: a <b>proibição isolada</b> do celular <b>não resolve</b> a distração; é mais eficaz <b>ensinar o uso com propósito</b> (últimos períodos). <b>2) \"A medida parece óbvia\"</b>: o verbo \"<b>parece</b>\" já sinaliza que o autor vai <b>relativizar</b> essa ideia; não é afirmação de concordância plena. <b>3) \"Ainda assim\"</b>: conectivo de <b>concessão/oposição</b>: mesmo reconhecendo o argumento da atenção, o autor pede cautela. <b>4) \"Além disso\"</b>: <b>adição</b> de novo argumento (o celular como ferramenta pedagógica). <b>5) \"Como em pesquisas rápidas...\"</b>: <b>exemplificação</b>. <b>6) \"Isso não significa...\"</b>: o \"isso\" retoma a <b>ideia anterior</b> (o uso pedagógico do aparelho) e o trecho <b>antecipa uma objeção</b> (a de que o autor defenderia liberar tudo), refutando-a: é <b>contra-argumentação</b>. <b>7) Inferência válida</b>: o autor <b>não é favorável</b> ao uso irrestrito do celular. <b>8) Inferência inválida</b> (contradição): \"o autor defende a liberação total do celular\". <b>9) Inferência inválida</b> (extrapolação): \"o autor considera que os professores são os culpados pela distração\" (ele menciona aulas pouco interessantes, mas não atribui culpa aos professores). <b>10) Redução</b>: \"o texto trata apenas dos benefícios do celular\" (ele também reconhece o argumento da atenção e a necessidade de regras).</p></details></div>\n<ul><li><b>Observação</b>: repare como os <b>conectivos</b> (\"ainda assim\", \"além disso\", \"isso não significa... significa\") organizam o raciocínio. Em textos argumentativos, <b>mapear os conectivos</b> é o caminho mais rápido para achar a <b>tese</b> e a <b>função</b> de cada parte.</li></ul>\n<h3>29. Sétimo exercício comentado: notícia</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Notícia (texto autoral)</b><p>\"A Prefeitura anunciou ontem que vai ampliar o horário de funcionamento de cinco unidades básicas de saúde, que passarão a atender até as 22 horas a partir do próximo mês. Segundo a secretária de Saúde, a medida busca reduzir a superlotação dos prontos-socorros, que recebem muitos casos sem urgência no período noturno. O sindicato dos servidores, por sua vez, afirma que não houve contratação de novos profissionais e teme sobrecarga das equipes atuais. A Prefeitura não informou o custo da mudança.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Gênero</b>: <b>notícia</b>: relata um fato com <b>vozes</b> de diferentes fontes, sem opinião explícita do jornalista. <b>2) Vozes</b>: a <b>secretária</b> (objetivo da medida) e o <b>sindicato</b> (crítica); a afirmação de que \"não houve contratação\" é do <b>sindicato</b>, não do jornal. <b>3) Inferência válida</b>: atualmente, essas unidades <b>não</b> funcionam até as 22 horas (pressuposto de \"<b>vai ampliar</b>\" e \"<b>passarão a</b> atender\"). <b>4) Inferência válida</b>: há <b>divergência</b> entre a Prefeitura e o sindicato quanto às condições de implantação. <b>5) Inferência inválida</b> (extrapolação): \"a medida <b>reduzirá</b> a superlotação\" (é o <b>objetivo</b> declarado pela secretária, não um resultado garantido). <b>6) Inferência inválida</b>: \"o jornal considera a medida inadequada\" (o texto não traz opinião do jornal; apenas registra a crítica do sindicato). <b>7) Último período</b>: \"A Prefeitura <b>não informou</b> o custo\" é dado factual, e não prova de que o custo seja alto; dizer isso seria extrapolar. <b>8) \"Por sua vez\"</b>: introduz a <b>outra parte</b>, marcando o contraponto entre as fontes.</p></details></div>\n<ul><li><b>Checklist final antes de marcar a resposta</b>: (1) Respondi exatamente ao <b>comando</b> (correta, incorreta, infere-se, segundo o texto)? (2) A alternativa escolhida tem <b>base</b> em um trecho que consigo apontar? (3) Ela mantém os <b>quantificadores</b> (alguns, muitos, todos), a <b>modalização</b> (pode, deve, talvez) e o <b>tempo</b> verbal do texto? (4) Ela atribui as ideias à <b>voz certa</b> (autor ou terceiros)? (5) Ela respeita a <b>relação lógica</b> (causa, consequência, oposição, concessão) estabelecida pelos conectivos? (6) Não estou trazendo <b>conhecimento de fora</b> que o texto não autoriza? Se as seis respostas forem \"sim\", a chance de acerto é muito alta. Repetir esse checklist em cada questão, durante os treinos, faz com que ele se torne automático no dia da prova, e é nesse momento que a interpretação deixa de depender do \"feeling\" e passa a ser um procedimento seguro.</li><li><b>Como treinar em casa (rotina sugerida)</b>: escolha diariamente <b>um texto opinativo</b> (editorial ou artigo) e <b>uma notícia</b>. No texto opinativo, sublinhe a <b>tese</b>, numere os <b>argumentos</b> e circule os <b>conectivos</b>; depois, escreva em duas linhas o que o autor defende. Na notícia, separe <b>fato</b>, <b>falas</b> e <b>dados</b>. Em seguida, resolva de 10 a 15 questões da banca do seu concurso e, para cada erro, anote a <b>causa</b> (extrapolação, redução, contradição, voz trocada, conectivo, comando). Em poucas semanas, os erros se repetem cada vez menos, porque você passa a reconhecer os padrões das alternativas erradas. Esse treino também melhora a sua <b>escrita</b> (redação e peças discursivas), porque quem identifica bem a estrutura dos textos dos outros aprende a organizar melhor os próprios.</li><li><b>Lembrete sobre o vocabulário</b>: muitas questões de interpretação dependem de conhecer o <b>sentido de palavras</b> menos usadas no dia a dia (exíguo = escasso; profícuo = proveitoso; inócuo = sem efeito; ínfimo = mínimo; precípuo = principal; óbice = obstáculo; dirimir = resolver uma dúvida; coibir = reprimir). Ler textos variados e consultar o dicionário quando aparecer palavra desconhecida amplia o vocabulário e evita erros por desconhecimento de um único termo-chave.</li><li><b>Lição da notícia</b>: em textos jornalísticos, separe sempre <b>o fato</b> (o que aconteceu), <b>as falas</b> (quem disse o quê) e <b>as conclusões</b> que a questão propõe. A maioria das alternativas erradas mistura esses três planos.</li></ul>\n<h3>30. Treino rápido de pegadinhas de leitura</h3>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quando o texto diz \"pode reduzir\", a alternativa \"reduz\" mantém o sentido</span><br>✅ <span class=\"certo\">Transforma <b>possibilidade</b> em <b>certeza</b></span></li><li>❌ <span class=\"banca\">Quando o texto diz \"alguns especialistas\", a alternativa \"os especialistas\" mantém o sentido</span><br>✅ <span class=\"certo\">Generaliza: é <b>extrapolação</b></span></li><li>❌ <span class=\"banca\">Se o texto critica uma opinião, a alternativa pode atribuir essa opinião ao autor</span><br>✅ <span class=\"certo\">O autor <b>refuta</b> a opinião; atribuí-la a ele é erro</span></li><li>❌ <span class=\"banca\">Coincidência no tempo, em um gráfico, prova causa</span><br>✅ <span class=\"certo\">Mostra <b>correlação</b>; causa exige outros elementos</span></li><li>❌ <span class=\"banca\">Crônica sempre defende uma tese explícita</span><br>✅ <span class=\"certo\">A crônica costuma sugerir <b>reflexão</b> a partir do cotidiano, sem tese formal</span></li><li>❌ <span class=\"banca\">\"Nem sempre\" equivale a \"nunca\"</span><br>✅ <span class=\"certo\">\"Nem sempre\" = <b>às vezes não</b>; \"nunca\" é absoluto</span></li></ol></div>\n<ul><li><b>Fechamento</b>: interpretar bem é <b>comparar com rigor</b> o que está escrito com o que a alternativa afirma. Com o método deste tópico (comando, leitura completa, contexto, teste de cada alternativa, eliminação) e treino constante, a interpretação deixa de ser \"sorte\" e passa a ser <b>técnica</b>.</li></ul>\n<h3>31. Glossário e mapa de revisão</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Compreensão</b></td><td>entender o que o texto diz explicitamente</td></tr><tr><td><b>Interpretação</b></td><td>concluir o que o texto permite deduzir</td></tr><tr><td><b>Extrapolação</b></td><td>ir além do texto</td></tr><tr><td><b>Redução</b></td><td>ficar aquém do texto, tomar a parte pelo todo</td></tr><tr><td><b>Contradição</b></td><td>afirmar o contrário do texto</td></tr><tr><td><b>Pressuposto</b></td><td>informação implícita marcada na frase, que não pode ser negada</td></tr><tr><td><b>Subentendido</b></td><td>insinuação que depende do contexto e pode ser negada</td></tr><tr><td><b>Tese</b></td><td>posição defendida pelo autor</td></tr><tr><td><b>Tópico frasal</b></td><td>frase que apresenta a ideia principal do parágrafo</td></tr><tr><td><b>Concessão</b></td><td>reconhecer a objeção para reforçar a própria tese</td></tr><tr><td><b>Paráfrase</b></td><td>reescrita que mantém o sentido</td></tr><tr><td><b>Anáfora / catáfora</b></td><td>retoma o já dito / antecipa o que virá</td></tr><tr><td><b>Modalizador</b></td><td>palavra que mostra certeza ou avaliação do autor</td></tr><tr><td><b>Denotação / conotação</b></td><td>sentido literal / figurado</td></tr><tr><td><b>Polissemia</b></td><td>vários sentidos relacionados</td></tr><tr><td><b>Parônimos</b></td><td>palavras parecidas com sentidos diferentes</td></tr><tr><td><b>Charge / cartum</b></td><td>humor crítico atual / atemporal</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Segundo o texto\" pede</span></span><span class=\"vs\"><span>compreensão (o que está dito)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Infere-se\" pede</span></span><span class=\"vs\"><span>interpretação (conclusão autorizada)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Extrapolação</span></span><span class=\"vs\"><span>ir além do texto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Redução</span></span><span class=\"vs\"><span>restringir, tomar a parte pelo todo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Contradição</span></span><span class=\"vs\"><span>dizer o contrário do texto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pressuposto</span></span><span class=\"vs\"><span>marcado na frase; não pode ser negado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Subentendido</span></span><span class=\"vs\"><span>depende do contexto; pode ser negado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Parou de fumar\" pressupõe</span></span><span class=\"vs\"><span>que fumava</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tese</span></span><span class=\"vs\"><span>o que o autor defende</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Argumento de autoridade</span></span><span class=\"vs\"><span>cita especialista ou instituição</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Concessão</span></span><span class=\"vs\"><span>embora, ainda que, apesar de</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Pois\" antes do verbo</span></span><span class=\"vs\"><span>explicativo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Pois\" depois do verbo, entre vírgulas</span></span><span class=\"vs\"><span>conclusivo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Este x esse</span></span><span class=\"vs\"><span>este anuncia/próximo; esse retoma</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ratificar x retificar</span></span><span class=\"vs\"><span>confirmar x corrigir</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infligir x infringir</span></span><span class=\"vs\"><span>aplicar x violar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mandado x mandato</span></span><span class=\"vs\"><span>ordem x período de representação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gráfico mostra</span></span><span class=\"vs\"><span>correlação, não necessariamente causa</span></span></button></div></div>",
 "quiz": [
+{
+"p": "Questões introduzidas por \"segundo o texto\" pedem, em regra, compreensão, isto é, o que o texto diz explicitamente.",
+"c": true,
+"prof": "Compreensão x interpretação.",
+"x": "A resposta costuma ser uma paráfrase.",
+"e": "Segundo o texto: compreensão."
+},
+{
+"p": "Comandos como \"infere-se\" e \"depreende-se\" pedem conclusões implícitas, mas autorizadas pelo texto.",
+"c": true,
+"prof": "Compreensão x interpretação.",
+"x": "Não valem conclusões apenas possíveis.",
+"e": "Infere-se: interpretação."
+},
+{
+"p": "Em questão de interpretação, deve ser marcada a alternativa verdadeira no mundo real, ainda que o texto não trate do assunto.",
+"c": false,
+"prof": "Regra de ouro.",
+"x": "A resposta deve ser autorizada pelo texto.",
+"e": "Autorizado pelo texto."
+},
+{
+"p": "Extrapolação é o erro de leitura que vai além do texto, acrescentando ou generalizando informações.",
+"c": true,
+"prof": "Erros de leitura.",
+"x": "Ex.: trocar \"muitos\" por \"todos\".",
+"e": "Extrapolação."
+},
+{
+"p": "Redução é o erro que restringe o sentido do texto, tomando uma parte pelo todo.",
+"c": true,
+"prof": "Erros de leitura.",
+"x": "Ex.: \"apenas\" onde o texto diz \"sobretudo\".",
+"e": "Redução."
+},
+{
+"p": "Contradição é o erro que consiste em acrescentar ao texto informação nova que não o contraria.",
+"c": false,
+"prof": "Erros de leitura.",
+"x": "Isso é extrapolação; contradição é afirmar o contrário.",
+"e": "Contradição: o oposto."
+},
+{
+"p": "Palavras como \"sempre\", \"todos\" e \"apenas\" funcionam como alerta de possível extrapolação, mas a decisão depende da comparação com o texto.",
+"c": true,
+"prof": "Palavras de alerta.",
+"x": "Se o texto também for absoluto, podem estar certas.",
+"e": "Alerta, não regra."
+},
+{
+"p": "Texto: \"Muitos motoristas reduzem a velocidade ao avistar radares.\" A alternativa que extrapola o texto é:",
+"alts": [
+"Há motoristas que reduzem a velocidade diante de radares.",
+"Parte dos motoristas diminui a velocidade quando vê radares.",
+"Todos os motoristas respeitam o limite de velocidade por causa dos radares.",
+"A presença de radares influencia a conduta de muitos motoristas.",
+"Radares podem levar motoristas a reduzir a velocidade."
+],
+"r": 2,
+"n": [
+"Paráfrase adequada.",
+"Paráfrase adequada.",
+"Correta: \"todos\" e \"respeitam o limite\" vão além do texto.",
+"Paráfrase adequada.",
+"Compatível com o texto."
+],
+"prof": "Extrapolação.",
+"x": "O texto fala em \"muitos\" e em reduzir a velocidade, não em todos nem em respeitar o limite.",
+"e": "\"Muitos\" ≠ \"todos\"."
+},
+{
+"p": "Na frase \"Paulo parou de fumar\", pressupõe-se que Paulo fumava antes.",
+"c": true,
+"prof": "Pressuposto.",
+"x": "Verbo de mudança de estado.",
+"e": "Parar de: pressuposto."
+},
+{
+"p": "O pressuposto não pode ser negado sem contradição; o subentendido pode ser negado por quem fala.",
+"c": true,
+"prof": "Pressuposto x subentendido.",
+"x": "O subentendido depende do contexto.",
+"e": "Pressuposto firme."
+},
+{
+"p": "O subentendido é a informação implícita marcada por uma palavra da frase, que o falante não pode negar.",
+"c": false,
+"prof": "Pressuposto x subentendido.",
+"x": "Essa é a definição de pressuposto.",
+"e": "Subentendido: contexto."
+},
+{
+"p": "Na frase \"Ainda há vagas\", o advérbio \"ainda\" pressupõe que havia vagas antes.",
+"c": true,
+"prof": "Marcadores de pressuposto.",
+"x": "Também indica que podem acabar.",
+"e": "Ainda: pressuposto."
+},
+{
+"p": "Na frase \"Até o goleiro marcou gol\", pressupõe-se que não era esperado que o goleiro marcasse.",
+"c": true,
+"prof": "Marcadores de pressuposto.",
+"x": "\"Até\" indica inclusão inesperada.",
+"e": "Até: inesperado."
+},
+{
+"p": "Na frase \"Ele voltou a estudar\", pressupõe-se que ele estudava antes e deixou de estudar.",
+"c": true,
+"prof": "Marcadores de pressuposto.",
+"x": "Verbo de retomada.",
+"e": "Voltar a."
+},
+{
+"p": "Tese é o posicionamento defendido pelo autor e existe apenas em textos argumentativos.",
+"c": true,
+"prof": "Tese.",
+"x": "Tema é sobre o que se fala.",
+"e": "Tese."
+},
+{
+"p": "Tópico frasal é a frase que apresenta a ideia principal do parágrafo, frequentemente no início.",
+"c": true,
+"prof": "Ideia principal.",
+"x": "Depois vêm explicações e exemplos.",
+"e": "Tópico frasal."
+},
+{
+"p": "Citar estudo de universidade ou instituição reconhecida para sustentar a tese é argumento de autoridade.",
+"c": true,
+"prof": "Argumentos.",
+"x": "Outros: exemplificação, dados, causa e consequência.",
+"e": "Autoridade."
+},
+{
+"p": "Em \"Embora seja caro, o projeto é necessário\", o autor defende o projeto, e a oração concessiva reconhece um aspecto contrário.",
+"c": true,
+"prof": "Concessão.",
+"x": "A ideia principal está na oração principal.",
+"e": "Concessão."
+},
+{
+"p": "Na contra-argumentação, o autor reconhece a objeção e a rebate.",
+"c": true,
+"prof": "Argumentos.",
+"x": "Concessão seguida de refutação.",
+"e": "Contra-argumentação."
+},
+{
+"p": "Toda opinião presente no texto deve ser atribuída ao autor.",
+"c": false,
+"prof": "Vozes do texto.",
+"x": "O texto pode trazer outras vozes, inclusive para refutá-las.",
+"e": "Outras vozes."
+},
+{
+"p": "As aspas podem indicar citação, ironia, estrangeirismo, neologismo ou distanciamento do autor em relação à palavra.",
+"c": true,
+"prof": "Aspas.",
+"x": "O contexto define.",
+"e": "Funções das aspas."
+},
+{
+"p": "Modalizadores, como \"certamente\", \"talvez\" e \"infelizmente\", revelam o grau de certeza ou a avaliação do autor.",
+"c": true,
+"prof": "Modalização.",
+"x": "Identificam o ponto de vista.",
+"e": "Modalizadores."
+},
+{
+"p": "Paráfrase é a reescrita que mantém o sentido do texto original.",
+"c": true,
+"prof": "Paráfrase.",
+"x": "Basta mudar um elemento para falhar.",
+"e": "Paráfrase."
+},
+{
+"p": "Trocar \"pode reduzir\" por \"reduzirá\" mantém o sentido original, por tratar do mesmo fato.",
+"c": false,
+"prof": "Paráfrase.",
+"x": "Transforma possibilidade em certeza.",
+"e": "Pode ≠ reduzirá."
+},
+{
+"p": "Inverter a relação de causa e consequência altera o sentido do trecho e invalida a paráfrase.",
+"c": true,
+"prof": "Paráfrase.",
+"x": "Ponto frequentemente explorado.",
+"e": "Causa invertida."
+},
+{
+"p": "Anáfora é a retomada de algo já dito; catáfora é a antecipação de algo que ainda será dito.",
+"c": true,
+"prof": "Referenciação.",
+"x": "\"Este\" costuma anunciar.",
+"e": "Anáfora x catáfora."
+},
+{
+"p": "Em \"Pedro e Ana chegaram; esta sorria, aquele estava sério\", \"esta\" refere-se a Ana e \"aquele\", a Pedro.",
+"c": true,
+"prof": "Referenciação.",
+"x": "Este = mais próximo; aquele = mais distante.",
+"e": "Esta x aquele."
+},
+{
+"p": "Pronomes como \"isso\" podem retomar uma ideia inteira, e não apenas um substantivo.",
+"c": true,
+"prof": "Referenciação.",
+"x": "Ex.: \"o que\" retomando toda a oração.",
+"e": "Isso: ideia inteira."
+},
+{
+"p": "Os conectivos \"mas\", \"porém\", \"contudo\" e \"todavia\" estabelecem relação de oposição.",
+"c": true,
+"prof": "Conectivos.",
+"x": "Adversativos.",
+"e": "Oposição."
+},
+{
+"p": "\"Embora\", \"ainda que\" e \"apesar de\" introduzem ideia de concessão.",
+"c": true,
+"prof": "Conectivos.",
+"x": "Embora pede subjuntivo.",
+"e": "Concessão."
+},
+{
+"p": "\"Logo\" e \"portanto\" introduzem conclusão.",
+"c": true,
+"prof": "Conectivos.",
+"x": "Não indicam causa.",
+"e": "Conclusão."
+},
+{
+"p": "\"Portanto\" é conjunção que introduz causa.",
+"c": false,
+"prof": "Conectivos.",
+"x": "Introduz conclusão.",
+"e": "Portanto: conclusão."
+},
+{
+"p": "\"Pois\" anteposto ao verbo é explicativo; posposto ao verbo, entre vírgulas, é conclusivo.",
+"c": true,
+"prof": "Conectivos.",
+"x": "Posição define o sentido.",
+"e": "Pois."
+},
+{
+"p": "\"Como\", no início do período, pode indicar causa, como em \"Como estava doente, faltou\".",
+"c": true,
+"prof": "Conectivos.",
+"x": "Também comparação e conformidade.",
+"e": "Como causal."
+},
+{
+"p": "\"À medida que\" e \"à proporção que\" indicam proporção.",
+"c": true,
+"prof": "Conectivos.",
+"x": "Não confundir com \"na medida em que\".",
+"e": "Proporção."
+},
+{
+"p": "\"Desde que\" pode indicar condição, como em \"Sairemos, desde que pare de chover\".",
+"c": true,
+"prof": "Conectivos.",
+"x": "Também pode ser temporal.",
+"e": "Desde que."
+},
+{
+"p": "Ao substituir \"embora\" por \"apesar de\", é necessário reestruturar a oração, pois \"apesar de\" exige infinitivo ou substantivo.",
+"c": true,
+"prof": "Substituição de conectivos.",
+"x": "Ex.: \"apesar de estar cansado\".",
+"e": "Embora x apesar de."
+},
+{
+"p": "A charge faz crítica humorística de fato atual, enquanto o cartum tem humor atemporal.",
+"c": true,
+"prof": "Textos não verbais.",
+"x": "Charge exige contexto.",
+"e": "Charge x cartum."
+},
+{
+"p": "Nas tirinhas, o humor costuma estar na quebra de expectativa do último quadro.",
+"c": true,
+"prof": "Tirinhas.",
+"x": "Ler todos os quadros.",
+"e": "Quebra de expectativa."
+},
+{
+"p": "Um gráfico que mostra dois índices variando juntos prova que um é causa do outro.",
+"c": false,
+"prof": "Gráficos.",
+"x": "Mostra correlação, não necessariamente causa.",
+"e": "Correlação ≠ causa."
+},
+{
+"p": "Ironia é dizer o contrário do que se pensa, com intenção crítica ou humorística, percebida pelo contexto.",
+"c": true,
+"prof": "Ironia.",
+"x": "As aspas podem marcá-la.",
+"e": "Ironia."
+},
+{
+"p": "A ambiguidade deve ser evitada em textos técnicos e oficiais, mas pode ser recurso expressivo em propagandas e piadas.",
+"c": true,
+"prof": "Ambiguidade.",
+"x": "Ex.: \"o policial abordou o suspeito em seu carro\".",
+"e": "Ambiguidade."
+},
+{
+"p": "O título mais adequado é o que abrange o tema central, sem reduzir a um detalhe nem extrapolar.",
+"c": true,
+"prof": "Título.",
+"x": "Pode ser irônico ou ambíguo de propósito.",
+"e": "Título adequado."
+},
+{
+"p": "Os dois-pontos podem introduzir explicação, enumeração, citação ou conclusão.",
+"c": true,
+"prof": "Pontuação no texto.",
+"x": "Parênteses e travessões isolam comentários.",
+"e": "Dois-pontos."
+},
+{
+"p": "Sentido denotativo é o literal; sentido conotativo é o figurado, dependente do contexto.",
+"c": true,
+"prof": "Sentido das palavras.",
+"x": "\"Coração do time\" é conotativo.",
+"e": "Denotação x conotação."
+},
+{
+"p": "Polissemia é a propriedade de uma palavra ter vários sentidos relacionados.",
+"c": true,
+"prof": "Sentido das palavras.",
+"x": "Homonímia: formas iguais sem relação de sentido.",
+"e": "Polissemia."
+},
+{
+"p": "Ratificar significa confirmar, e retificar significa corrigir.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Muito cobrado.",
+"e": "Ratificar x retificar."
+},
+{
+"p": "\"O juiz infringiu pena de dois anos ao réu\" está correto, pois infringir significa aplicar.",
+"c": false,
+"prof": "Parônimos.",
+"x": "Aplicar pena é infligir; infringir é violar.",
+"e": "Infligir pena."
+},
+{
+"p": "Mandado é ordem judicial; mandato é período de representação ou procuração.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Mandado de prisão; mandato do prefeito.",
+"e": "Mandado x mandato."
+},
+{
+"p": "Iminente significa prestes a acontecer; eminente significa ilustre.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Perigo iminente.",
+"e": "Iminente x eminente."
+},
+{
+"p": "Tráfego refere-se a trânsito; tráfico, a comércio ilegal.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Tráfego de veículos; tráfico de drogas.",
+"e": "Tráfego x tráfico."
+},
+{
+"p": "Ao resolver questões de interpretação, deve-se ler primeiro o comando, para saber se pede compreensão, interpretação ou a alternativa incorreta.",
+"c": true,
+"prof": "Método.",
+"x": "Atenção a \"exceto\" e \"incorreta\".",
+"e": "Ler o comando."
+},
+{
+"p": "Em texto que diz \"Há quem diga que X resolve o problema; os dados, contudo, mostram o contrário\", a ideia de que X resolve o problema não é do autor.",
+"c": true,
+"prof": "Vozes do texto.",
+"x": "O autor a apresenta para refutá-la.",
+"e": "Voz refutada."
+},
+{
+"p": "A expressão \"desde que o bairro passou a contar com a ronda\" pressupõe que a ronda é algo que antes não existia no bairro.",
+"c": true,
+"prof": "Pressuposto.",
+"x": "\"Passou a\" indica mudança.",
+"e": "Passou a."
+},
+{
+"p": "Em \"A iluminação continua precária\", o verbo \"continuar\" pressupõe que a iluminação já era precária antes.",
+"c": true,
+"prof": "Pressuposto.",
+"x": "Verbo de continuidade.",
+"e": "Continuar."
+},
+{
+"p": "O narrador não se confunde com o autor real, e o eu lírico não se confunde com o poeta.",
+"c": true,
+"prof": "Textos literários.",
+"x": "São vozes do texto.",
+"e": "Narrador ≠ autor."
+},
+{
+"p": "O narrador onisciente conhece os pensamentos e sentimentos das personagens.",
+"c": true,
+"prof": "Foco narrativo.",
+"x": "Narra em 3ª pessoa.",
+"e": "Onisciente."
+},
+{
+"p": "No discurso indireto livre, a fala ou o pensamento da personagem aparece misturado à narração, sem verbo de fala e sem aspas.",
+"c": true,
+"prof": "Discurso.",
+"x": "Comum na literatura.",
+"e": "Indireto livre."
+},
+{
+"p": "Em \"O delegado só conseguiu ouvir a testemunha no terceiro dia, quando ela finalmente compareceu\", pode-se inferir que a testemunha não compareceu nos dias anteriores.",
+"c": true,
+"prof": "Inferência.",
+"x": "\"Só\" e \"finalmente\" marcam a demora.",
+"e": "Inferência válida."
+},
+{
+"p": "Em \"O delegado só conseguiu ouvir a testemunha no terceiro dia\", pode-se inferir que a testemunha mentiu ou estava com medo.",
+"c": false,
+"prof": "Inferência.",
+"x": "São suposições não autorizadas pelo texto.",
+"e": "Suposição não é inferência."
+},
+{
+"p": "Em \"Ao contrário do que se previa, a obra terminou no prazo\", pressupõe-se que havia expectativa de atraso.",
+"c": true,
+"prof": "Inferência.",
+"x": "Não autoriza generalizar sobre todas as obras.",
+"e": "Ao contrário do previsto."
+},
+{
+"p": "Pergunta retórica é a feita sem esperar resposta, para provocar reflexão ou reforçar a tese.",
+"c": true,
+"prof": "Função de trechos.",
+"x": "Ex.: \"Até quando vamos aceitar isso?\".",
+"e": "Pergunta retórica."
+},
+{
+"p": "Expressões como \"isto é\" e \"ou seja\" introduzem explicação ou esclarecimento.",
+"c": true,
+"prof": "Função de trechos.",
+"x": "Também parênteses e dois-pontos.",
+"e": "Explicação."
+},
+{
+"p": "Expressões como \"ou melhor\" e \"aliás\" podem introduzir retificação do que foi dito.",
+"c": true,
+"prof": "Função de trechos.",
+"x": "Correção de algo anterior.",
+"e": "Retificação."
+},
+{
+"p": "No texto sobre policiamento comunitário, a tese é a de que o sucesso do programa depende de sua continuidade.",
+"c": true,
+"prof": "Exercício comentado.",
+"x": "Último período, com \"portanto\".",
+"e": "Tese: continuidade."
+},
+{
+"p": "Na frase \"o policiamento comunitário deixou de ser uma promessa\", pressupõe-se que antes ele era apenas promessa.",
+"c": true,
+"prof": "Exercício comentado.",
+"x": "\"Deixar de\" indica mudança de estado.",
+"e": "Deixou de ser."
+},
+{
+"p": "Em \"a população volta a enxergar a farda como algo distante\", \"farda\" é empregada como metonímia da instituição policial.",
+"c": true,
+"prof": "Exercício comentado.",
+"x": "A parte pelo todo.",
+"e": "Farda: metonímia."
+},
+{
+"p": "Em alternativas longas, basta que uma parte esteja em desacordo com o texto para que a alternativa seja eliminada.",
+"c": true,
+"prof": "Estratégia.",
+"x": "Dividir a alternativa em partes.",
+"e": "Uma parte errada basta."
+},
+{
+"p": "No texto sobre golpes por mensagem, a expressão \"em geral\" relativiza a afirmação, de modo que dizer que o criminoso sempre se apresenta como parente extrapola o texto.",
+"c": true,
+"prof": "Exercício comentado.",
+"x": "O texto cita também funcionário de banco.",
+"e": "Em geral ≠ sempre."
+},
+{
+"p": "\"Sobretudo\" indica destaque, e não exclusividade.",
+"c": true,
+"prof": "Exercício comentado.",
+"x": "Ler \"sobretudo\" como \"apenas\" é redução.",
+"e": "Sobretudo."
+},
+{
+"p": "Na tirinha em que o personagem \"corre todo dia atrás do entregador de pizza\", o humor resulta da quebra de expectativa e da ambiguidade do verbo \"correr\".",
+"c": true,
+"prof": "Exercício comentado.",
+"x": "A imagem final contradiz a fala inicial.",
+"e": "Humor por ambiguidade."
+},
+{
+"p": "Em textos normativos, a troca de \"poderá\" por \"deverá\" transforma faculdade em obrigação e altera o sentido.",
+"c": true,
+"prof": "Leitura de lei.",
+"x": "Armadilha frequente em questões de Direito.",
+"e": "Poderá x deverá."
+},
+{
+"p": "Expressões como \"salvo\", \"exceto\" e \"ressalvado\" introduzem exceções no texto normativo.",
+"c": true,
+"prof": "Leitura de lei.",
+"x": "\"Inclusive\" indica inclusão.",
+"e": "Salvo: exceção."
+},
+{
+"p": "Se a lei diz que o prazo \"poderá ser prorrogado em casos excepcionais\", é correto afirmar que o prazo é improrrogável.",
+"c": false,
+"prof": "Leitura de lei.",
+"x": "Contradiz o texto.",
+"e": "Prorrogável."
+},
+{
+"p": "Atribuir ao autor uma opinião que ele apenas cita para criticar é um dos erros mais comuns de leitura.",
+"c": true,
+"prof": "Erros comuns.",
+"x": "Perguntar quem está dizendo.",
+"e": "Quem diz?"
+},
+{
+"p": "A crônica parte de fatos do cotidiano para provocar reflexão, frequentemente com tom leve, humorístico ou afetivo.",
+"c": true,
+"prof": "Crônica.",
+"x": "Não costuma defender tese formal.",
+"e": "Crônica."
+},
+{
+"p": "Em gráfico que mostra queda de furtos no mês em que se instalou o videomonitoramento, é possível afirmar a coincidência temporal, mas não, apenas com esses dados, a relação de causa.",
+"c": true,
+"prof": "Leitura de gráfico.",
+"x": "Outros fatores podem ter influído.",
+"e": "Coincidência ≠ causa."
+},
+{
+"p": "Dados de um gráfico restrito ao centro da cidade não autorizam conclusões sobre a cidade inteira.",
+"c": true,
+"prof": "Leitura de gráfico.",
+"x": "Erro de escopo.",
+"e": "Escopo do gráfico."
+},
+{
+"p": "\"Nem sempre\" significa que às vezes não ocorre, e não equivale a \"nunca\".",
+"c": true,
+"prof": "Pegadinhas de leitura.",
+"x": "\"Nunca\" é absoluto.",
+"e": "Nem sempre ≠ nunca."
+},
+{
+"p": "Trocar \"alguns especialistas\" por \"os especialistas\" generaliza a afirmação e constitui extrapolação.",
+"c": true,
+"prof": "Pegadinhas de leitura.",
+"x": "Quantificador alterado.",
+"e": "Alguns ≠ os."
+},
+{
+"p": "No artigo de opinião sobre celulares nas escolas, a tese é a de que a proibição isolada não resolve a distração e que é mais eficaz ensinar o uso com propósito.",
+"c": true,
+"prof": "Exercício comentado.",
+"x": "Últimos períodos do texto.",
+"e": "Tese do artigo."
+},
+{
+"p": "Em \"A medida parece óbvia\", o verbo \"parecer\" sinaliza que o autor vai relativizar a ideia apresentada.",
+"c": true,
+"prof": "Modalização.",
+"x": "Não é concordância plena.",
+"e": "Parece."
+},
+{
+"p": "O trecho \"Isso não significa liberar o uso sem regras\" antecipa e refuta uma objeção, sendo exemplo de contra-argumentação.",
+"c": true,
+"prof": "Contra-argumentação.",
+"x": "\"Isso\" retoma a ideia anterior.",
+"e": "Antecipar objeção."
+},
+{
+"p": "Na notícia, a afirmação atribuída ao sindicato não deve ser tomada como opinião do jornal.",
+"c": true,
+"prof": "Vozes do texto.",
+"x": "O jornal registra as falas.",
+"e": "Fala de fonte."
+},
+{
+"p": "Em \"As unidades passarão a atender até as 22 horas\", pressupõe-se que hoje não atendem até esse horário.",
+"c": true,
+"prof": "Pressuposto.",
+"x": "\"Passar a\" indica mudança.",
+"e": "Passarão a."
+},
+{
+"p": "Se a secretária afirma que a medida busca reduzir a superlotação, pode-se concluir que a superlotação certamente será reduzida.",
+"c": false,
+"prof": "Inferência.",
+"x": "Objetivo declarado não é resultado garantido.",
+"e": "Objetivo ≠ resultado."
+},
 {
 "p": "Em questões que pedem o que \"se infere\" do texto, a resposta correta deve estar autorizada pelas informações do texto, ainda que não esteja escrita de forma explícita.",
 "c": true,
@@ -3172,11 +3788,669 @@ export const PROFUNDO = {
 "e": "Até, também, ainda: alteram o sentido."
 }
 ],
-"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2</b><span>operações diferentes: compreender (o que está escrito) e interpretar (o que se conclui)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: só vale o que o texto autoriza</span></div><div class=\"lt-stat\"><b>3</b><span>erros clássicos: extrapolar, reduzir e contradizer</span></div><div class=\"lt-stat\"><b>1</b><span>pergunta a fazer sempre: \"o texto autoriza isso?\"</span></div></div>\n<p>Interpretação de texto é o tema mais cobrado de Língua Portuguesa no Cebraspe, e quase toda questão de gramática também começa num texto. O que derruba candidatos não é falta de leitura, e sim <b>ler demais</b>: completar o texto com o que se sabe do mundo. A banca premia quem fica <b>dentro</b> do texto.</p>\n<h3>1. Compreender x interpretar</h3>\n<table class=\"tab\"><thead><tr><th>; Compreensão</th><th>Interpretação</th></tr></thead><tbody><tr><td>Pergunta</td><td>o que o texto DIZ?</td><td>o que se pode CONCLUIR do texto?</td></tr><tr><td>Verbos da banca</td><td>\"segundo o texto\", \"o autor afirma\", \"de acordo com o texto\"</td><td>\"infere-se\", \"depreende-se\", \"conclui-se\", \"o texto sugere\"</td></tr><tr><td>Base</td><td>informação explícita</td><td>informação implícita, mas autorizada pelo texto</td></tr><tr><td>Risco</td><td>trocar uma palavra do texto</td><td>ir além do texto (extrapolar)</td></tr></tbody></table>\n<h3>2. Os três erros que a banca explora</h3>\n<ul><li><b>Extrapolação</b>: o item traz uma ideia que <b>não está</b> no texto, ainda que seja verdadeira no mundo real. \"O texto, que fala da queda de acidentes, permite concluir que a fiscalização da PRF é a melhor do país\" — o texto não disse isso.</li><li><b>Redução</b>: o item toma <b>uma parte</b> pelo <b>todo</b> (\"o texto trata apenas de…\", \"a única causa é…\").</li><li><b>Contradição</b>: o item afirma o <b>oposto</b> do texto, muitas vezes trocando uma palavra (sempre/às vezes, aumentou/diminuiu, causa/consequência).</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Palavras absolutas no item (<b>sempre, nunca, todos, nenhum, apenas, somente, exclusivamente, único</b>) costumam indicar extrapolação ou redução. Não é regra infalível, mas é um sinal para reler o trecho.</div>\n<figure class=\"lt-charge\"><svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Relação no tempo não prova causa única. Fique no que o texto afirma.\"><rect width=\"640\" height=\"300\" fill=\"#fffdf5\"/><rect y=\"262\" width=\"640\" height=\"38\" fill=\"#cfcfcf\"/><rect x=\"40\" y=\"279\" width=\"60\" height=\"5\" fill=\"#fff\"/><rect x=\"160\" y=\"279\" width=\"60\" height=\"5\" fill=\"#fff\"/><rect x=\"280\" y=\"279\" width=\"60\" height=\"5\" fill=\"#fff\"/><rect x=\"400\" y=\"279\" width=\"60\" height=\"5\" fill=\"#fff\"/><rect x=\"520\" y=\"279\" width=\"60\" height=\"5\" fill=\"#fff\"/><circle cx=\"110\" cy=\"144\" r=\"24\" fill=\"#f2c9a0\" stroke=\"#222\" stroke-width=\"2\"/><path d=\"M90,122 q20,-16 40,0\" fill=\"#5b3a1e\"/><circle cx=\"102\" cy=\"142\" r=\"3\" fill=\"#222\"/><circle cx=\"118\" cy=\"142\" r=\"3\" fill=\"#222\"/><path d=\"M102,156 q8,6 16,0\" fill=\"none\" stroke=\"#222\" stroke-width=\"2\"/><rect x=\"84\" y=\"170\" width=\"52\" height=\"62\" rx=\"12\" fill=\"#7aa6d6\" stroke=\"#222\" stroke-width=\"2\"/><line x1=\"96\" y1=\"232\" x2=\"94\" y2=\"262\" stroke=\"#222\" stroke-width=\"6\" stroke-linecap=\"round\"/><line x1=\"124\" y1=\"232\" x2=\"126\" y2=\"262\" stroke=\"#222\" stroke-width=\"6\" stroke-linecap=\"round\"/><circle cx=\"530\" cy=\"144\" r=\"24\" fill=\"#f2c9a0\" stroke=\"#222\" stroke-width=\"2\"/><path d=\"M508,120 q22,-18 44,0 l4,8 h-52 z\" fill=\"#1b2a4a\"/><rect x=\"504\" y=\"126\" width=\"52\" height=\"6\" rx=\"3\" fill=\"#1b2a4a\"/><circle cx=\"530\" cy=\"120\" r=\"3\" fill=\"#f5c518\"/><circle cx=\"522\" cy=\"142\" r=\"3\" fill=\"#222\"/><circle cx=\"538\" cy=\"142\" r=\"3\" fill=\"#222\"/><path d=\"M522,156 q8,6 16,0\" fill=\"none\" stroke=\"#222\" stroke-width=\"2\"/><rect x=\"504\" y=\"170\" width=\"52\" height=\"62\" rx=\"12\" fill=\"#e9c46a\" stroke=\"#222\" stroke-width=\"2\"/><line x1=\"516\" y1=\"232\" x2=\"514\" y2=\"262\" stroke=\"#222\" stroke-width=\"6\" stroke-linecap=\"round\"/><line x1=\"544\" y1=\"232\" x2=\"546\" y2=\"262\" stroke=\"#222\" stroke-width=\"6\" stroke-linecap=\"round\"/><rect x=\"150\" y=\"14\" width=\"250\" height=\"90\" rx=\"14\" fill=\"#fff\" stroke=\"#222\" stroke-width=\"2\"/><path d=\"M180,104 l14,22 l8,-22\" fill=\"#fff\" stroke=\"#222\" stroke-width=\"2\"/><text x=\"162\" y=\"36\" font-size=\"14\" font-family=\"Comic Sans MS, Comic Neue, cursive\" fill=\"#111\"><tspan x=\"162\" dy=\"0\">O texto diz que os acidentes</tspan><tspan x=\"162\" dy=\"17\">caíram depois da Lei Seca. Então</tspan><tspan x=\"162\" dy=\"17\">a Lei Seca é a única causa da</tspan><tspan x=\"162\" dy=\"17\">queda!</tspan></text><rect x=\"300\" y=\"120\" width=\"250\" height=\"90\" rx=\"14\" fill=\"#fff\" stroke=\"#222\" stroke-width=\"2\"/><path d=\"M510,210 l-14,22 l-8,-22\" fill=\"#fff\" stroke=\"#222\" stroke-width=\"2\"/><text x=\"312\" y=\"142\" font-size=\"14\" font-family=\"Comic Sans MS, Comic Neue, cursive\" fill=\"#111\"><tspan x=\"312\" dy=\"0\">Opa! O texto mostra que houve</tspan><tspan x=\"312\" dy=\"17\">queda depois da lei; dizer que</tspan><tspan x=\"312\" dy=\"17\">ela é a ÚNICA causa é ir além do</tspan><tspan x=\"312\" dy=\"17\">que está escrito.</tspan></text></svg><figcaption>Relação no tempo não prova causa única. Fique no que o texto afirma.</figcaption></figure>\n<div class=\"lt-pare\"></div>\n<h3>3. Pressuposto e subentendido</h3>\n<ul><li><b>Pressuposto</b>: informação que está <b>marcada na própria frase</b> e não pode ser negada sem contradição. \"O motorista <b>voltou</b> a dirigir alcoolizado\" pressupõe que ele <b>já</b> dirigiu alcoolizado antes. Palavras como \"voltar a\", \"continuar\", \"deixar de\", \"ainda\", \"também\", \"até\" criam pressupostos.</li><li><b>Subentendido</b>: insinuação que depende do contexto e da interpretação do leitor; o autor pode negar que quis dizer aquilo. \"Está calor aqui, não?\" pode subentender \"abra a janela\".</li></ul>\n<table class=\"tab\"><thead><tr><th>Frase</th><th>Pressuposto</th></tr></thead><tbody><tr><td>\"Ele deixou de usar o celular ao volante.\"</td><td>antes ele usava</td></tr><tr><td>\"Até o motorista mais cuidadoso foi multado.\"</td><td>o motorista cuidadoso era o menos provável de ser multado</td></tr><tr><td>\"A fiscalização continua intensa.\"</td><td>já era intensa antes</td></tr><tr><td>\"Ainda há trechos sem sinalização.\"</td><td>esperava-se que todos já estivessem sinalizados</td></tr></tbody></table>\n<h3>4. Modalizadores: o grau de certeza do autor</h3>\n<p>O autor pode afirmar com certeza (\"é\", \"certamente\") ou com dúvida (\"talvez\", \"possivelmente\", \"pode ser\", \"parece\"). Se o texto diz que algo <b>pode</b> reduzir acidentes, o item que diz que o texto <b>afirma</b> que reduz está <b>errado</b>: mudou o grau de certeza.</p>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Troca de modalidade é pegadinha frequente: o texto diz \"<b>é provável</b> que\", o item diz \"o texto <b>garante</b> que\". Leia o verbo e o advérbio com lupa.</div>\n<h3>5. Técnica de prova (passo a passo)</h3>\n<div class=\"lt-fluxo\"><span>Leia o comando e identifique o tipo: compreensão ou inferência</span> <em>→</em> <span>Volte ao trecho exato do texto citado</span> <em>→</em> <span>Compare o item com o trecho, palavra por palavra</span> <em>→</em> <span>Procure extrapolação, redução, contradição ou mudança de certeza</span> <em>→</em> <span>Só então marque</span></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> No Cebraspe, quando o item cita linhas ou parágrafos, <b>leia o parágrafo inteiro</b>, não só a linha: o sentido muitas vezes depende da frase anterior ou do conector que vem depois.</div>\n<h3>6. Sentido de palavras e expressões no contexto</h3>\n<p>A banca pede que você diga se uma palavra \"poderia ser substituída por X sem prejuízo do sentido\". A resposta depende do <b>contexto</b>: \"grave\" pode ser \"sério\" (acidente grave) ou \"solene\" (tom grave). Teste a substituição <b>na frase</b>, nunca no dicionário de cabeça.</p>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se o fato é verdadeiro no mundo real, o item está certo</span><br>✅ <span class=\"certo\">Só está certo se o TEXTO autorizar.</span></li><li>❌ <span class=\"banca\">\"Infere-se\" exige que a informação esteja escrita</span><br>✅ <span class=\"certo\">Inferir é concluir o que está IMPLÍCITO, mas autorizado pelo texto.</span></li><li>❌ <span class=\"banca\">\"Talvez reduza\" equivale a \"reduz\"</span><br>✅ <span class=\"certo\">Mudou o grau de certeza: o item está errado.</span></li><li>❌ <span class=\"banca\">O título resume sempre todo o texto</span><br>✅ <span class=\"certo\">Nem sempre; a ideia central se confirma no desenvolvimento.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>O que é extrapolar?</span></span><span class=\"vs\"><span>Ir <b>além</b> do texto, trazendo informação que ele não autoriza.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Ele voltou a fumar\" pressupõe o quê?</span></span><span class=\"vs\"><span>Que ele <b>já fumava</b> antes.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Possivelmente\" indica o quê?</span></span><span class=\"vs\"><span><b>Dúvida/possibilidade</b>: o autor não afirma com certeza.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Palavras absolutas no item são sinal de quê?</span></span><span class=\"vs\"><span>Possível <b>extrapolação ou redução</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pressuposto pode ser negado?</span></span><span class=\"vs\"><span><b>Não</b> sem contradizer a frase; o subentendido pode.</span></span></button></div></div>"
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>erros clássicos nas alternativas: extrapolação, redução e contradição</span></div><div class=\"lt-stat\"><b>5</b><span>passos da técnica de leitura para a prova</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de informação implícita: pressuposto e subentendido</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: a resposta está no texto</span></div></div>\n<div class=\"lt-box\"><b class=\"lt-tit\">Por que este tópico vale mais que os outros</b><p>Em quase toda prova de Português, metade ou mais das questões depende de leitura: interpretação, sentido de palavras, reescrita e coesão. Gramática decorada sem leitura atenta não resolve. Este tópico ensina o método: o que a banca quer, como ela monta as alternativas erradas e como provar, com o texto, qual é a certa.</p></div>\n<h3>1. Compreender x interpretar</h3>\n<ul><li><b>Compreender</b> é identificar o que o texto <b>diz explicitamente</b>: quem fez o quê, quando, por quê, segundo quem. Perguntas típicas: \"<b>segundo o texto</b>\", \"<b>de acordo com o autor</b>\", \"<b>o texto informa que</b>\". A resposta está escrita, ainda que com outras palavras.</li><li><b>Interpretar</b> é extrair o que o texto <b>permite concluir</b>, sem dizer expressamente: a intenção do autor, a crítica implícita, a conclusão lógica de duas afirmações. Perguntas típicas: \"<b>infere-se</b>\", \"<b>depreende-se</b>\", \"<b>conclui-se</b>\", \"<b>o autor sugere</b>\". A conclusão precisa estar <b>autorizada</b> pelo texto: não vale opinião pessoal nem conhecimento de mundo que o texto não apoia.</li><li><b>Os três níveis de leitura</b>: <b>literal</b> (o que está escrito), <b>inferencial</b> (o que se deduz com segurança) e <b>crítico</b> (avaliar a qualidade dos argumentos, a posição do autor, os efeitos de sentido). As provas de nível médio e superior cobram muito o inferencial.</li></ul>\n<h3>2. Os erros que a banca planta nas alternativas</h3>\n<table class=\"tab\"><thead><tr><th>Erro</th><th>Como aparece</th><th>Exemplo com um texto sobre aumento de furtos de celular</th></tr></thead><tbody><tr><td><b>Extrapolação</b></td><td>a alternativa vai <b>além</b> do texto: generaliza, acrescenta causa, consequência ou opinião não ditas</td><td>\"O texto afirma que <b>a polícia é incompetente</b>\" (o texto só falou em aumento dos furtos)</td></tr><tr><td><b>Redução</b></td><td>pega <b>uma parte</b> do texto e a apresenta como se fosse o todo</td><td>\"O texto trata <b>apenas</b> da falta de policiamento\" (quando também falava em receptação e em descuido dos usuários)</td></tr><tr><td><b>Contradição</b></td><td>afirma o <b>contrário</b> do texto, às vezes com uma palavra trocada</td><td>\"Os furtos <b>diminuíram</b> no centro\" (o texto disse que aumentaram)</td></tr><tr><td><b>Troca de sujeito ou de voz</b></td><td>atribui ao autor a fala de outra pessoa citada</td><td>\"O autor defende a pena de prisão para o usuário\" (quem defendeu foi um entrevistado)</td></tr></tbody></table>\n<ul><li><b>Palavras de alerta</b>: <b>sempre, nunca, todos, nenhum, somente, apenas, exclusivamente, totalmente, comprovadamente</b>. Elas costumam indicar <b>extrapolação</b>, porque a maioria dos textos não é tão categórica. Não é regra absoluta: se o texto também é categórico, a alternativa pode estar certa.</li><li><b>Modalizadores</b>: palavras que indicam o grau de certeza ou a opinião do autor: <b>talvez, possivelmente, provavelmente, certamente, é provável que, parece que, infelizmente, felizmente</b>. Trocar \"<b>pode</b> causar\" por \"<b>causa</b>\" ou \"<b>provavelmente</b>\" por \"<b>certamente</b>\" <b>altera o sentido</b> (de possibilidade para certeza). Isso é muito cobrado em questões de interpretação e de reescrita.</li></ul>\n<h3>3. Pressuposto e subentendido</h3>\n<ul><li><b>Pressuposto</b>: informação implícita <b>marcada por uma palavra</b> do enunciado; o leitor não pode negá-la sem negar a frase. Marcadores: <b>verbos</b> que indicam mudança ou permanência (<b>deixar de, continuar, passar a, voltar a</b>), <b>advérbios</b> (<b>ainda, já, também, até</b>), <b>adjetivos</b>, orações adjetivas. Ex.: \"O suspeito <b>voltou a</b> frequentar o bairro\" pressupõe que ele <b>já frequentava</b> e <b>tinha deixado de</b> frequentar. \"<b>Até</b> o delegado ficou surpreso\" pressupõe que o delegado <b>raramente se surpreende</b>.</li><li><b>Subentendido</b>: insinuação que <b>depende do contexto</b> e da interpretação do leitor; o falante pode negar que quis dizê-la. Ex.: alguém diz, numa sala abafada, \"<b>Como está quente aqui!</b>\" (pode estar subentendido o pedido para abrir a janela).</li></ul>\n<h3>4. Tese, argumentos e vozes do texto</h3>\n<ul><li><b>Tese</b> é a <b>ideia central</b> que o autor defende, geralmente no primeiro ou no último parágrafo. <b>Argumentos</b> são as razões que a sustentam: dados e estatísticas, exemplos, argumento de <b>autoridade</b> (citação de especialista), relações de <b>causa e consequência</b>, <b>comparação</b>, alusão histórica.</li><li><b>Polifonia</b>: o texto pode trazer <b>outras vozes</b> (citações, discurso relatado, aspas). A banca pergunta \"<b>segundo o especialista citado</b>\" ou \"<b>na opinião do autor</b>\": são coisas diferentes. Expressões como \"<b>segundo</b>\", \"<b>de acordo com</b>\", \"<b>para fulano</b>\" indicam voz alheia; <b>aspas</b> podem indicar citação, <b>ironia</b> ou <b>distanciamento</b> (o autor usa a palavra, mas não concorda com ela: a \"solução\" do governo).</li><li><b>Título e ideia principal</b>: a alternativa correta sobre a ideia principal é a que <b>abrange o texto todo</b>, não um detalhe (evite a redução) nem algo mais amplo do que ele (evite a extrapolação).</li></ul>\n<h3>5. Técnica de prova em 5 passos</h3>\n<div class=\"lt-fluxo\"><span>1. Leia o enunciado e as alternativas antes (sem decorar)</span> <em>→</em> <span>2. Leia o texto inteiro, marcando a tese e os conectores</span> <em>→</em> <span>3. Volte ao trecho indicado pela questão</span> <em>→</em> <span>4. Elimine as alternativas com extrapolação, redução ou contradição</span> <em>→</em> <span>5. Prove a correta com uma frase do texto</span></div>\n<ul><li><b>Leia o comando com atenção</b>: \"<b>incorreta</b>\", \"<b>exceto</b>\", \"<b>não</b> se pode inferir\", \"<b>mantém</b> o sentido\", \"<b>altera</b> o sentido\". Muitos erros vêm de responder o contrário do que se pediu.</li><li><b>Releia o parágrafo</b> citado, e não só a linha: o sentido de uma palavra ou de um pronome depende do contexto.</li><li><b>Prove</b>: só marque a alternativa se você conseguir apontar o trecho que a sustenta. Se ela \"parece verdade\", mas o texto não diz, é extrapolação.</li></ul>\n<h3>6. Sentido de palavras e expressões no contexto</h3>\n<ul><li>A banca pergunta o <b>sentido contextual</b>: a palavra \"<b>operação</b>\", num texto policial, significa ação planejada de polícia; num texto médico, cirurgia; numa notícia econômica, transação. A resposta certa é a que <b>cabe naquele contexto</b>, mesmo que o dicionário traga outros sentidos.</li><li><b>Substituição de palavra</b>: verifique se a nova palavra (1) mantém o <b>sentido</b>, (2) mantém a <b>correção gramatical</b> (regência, concordância, crase) e (3) se encaixa no <b>registro</b> (formal ou informal) do texto. Ex.: \"O investigador <b>constatou</b> a fraude\" → \"<b>verificou</b>\" (mantém); \"<b>cogitou</b>\" (altera: cogitar é pensar na hipótese).</li><li><b>Linguagem figurada</b>: identificar metáfora, ironia e outras figuras faz parte da interpretação (veja o tópico de semântica).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Infere-se\" significa que a informação está escrita no texto</span><br>✅ <span class=\"certo\">Inferir é concluir o que não está explícito, mas é autorizado pelo texto.</span></li><li>❌ <span class=\"banca\">Alternativa com \"sempre\" está sempre errada</span><br>✅ <span class=\"certo\">Costuma indicar extrapolação, mas confira no texto.</span></li><li>❌ <span class=\"banca\">Trocar \"pode causar\" por \"causa\" mantém o sentido</span><br>✅ <span class=\"certo\">Muda de possibilidade para certeza.</span></li><li>❌ <span class=\"banca\">Subentendido é marcado por palavras do enunciado</span><br>✅ <span class=\"certo\">Isso é o PRESSUPOSTO; o subentendido depende do contexto.</span></li><li>❌ <span class=\"banca\">A opinião do especialista citado é a do autor</span><br>✅ <span class=\"certo\">São vozes diferentes.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Compreender x interpretar?</span></span><span class=\"vs\"><span>Compreender: o que está <b>escrito</b>; interpretar: o que se <b>conclui</b> com base no texto.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Extrapolação?</span></span><span class=\"vs\"><span>Ir <b>além</b> do texto.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Redução?</span></span><span class=\"vs\"><span>Tomar <b>parte</b> pelo todo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pressuposto?</span></span><span class=\"vs\"><span>Implícito <b>marcado</b> por palavra (deixar de, ainda, voltar a).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Subentendido?</span></span><span class=\"vs\"><span>Insinuação que depende do <b>contexto</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Modalizadores?</span></span><span class=\"vs\"><span>Indicam <b>grau de certeza</b> ou opinião (talvez, certamente).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aspas podem indicar?</span></span><span class=\"vs\"><span>Citação, <b>ironia</b> ou <b>distanciamento</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra de ouro?</span></span><span class=\"vs\"><span><b>Provar</b> a alternativa com um trecho do texto.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A notícia e a alternativa sedutora</b><p>Texto: \"Segundo a Secretaria, os registros de furto de celular no centro cresceram 18% no semestre. Para a comerciante Ana, a culpa é da iluminação precária. A Secretaria, porém, aponta a revenda em feiras como principal estímulo ao crime.\" Alternativa: \"O texto conclui que a má iluminação é a principal causa dos furtos.\"</p><details><summary>Ver a solução comentada</summary><p>A alternativa está <b>errada</b>: a má iluminação é a opinião de <b>uma entrevistada</b> (voz alheia), e a Secretaria aponta <b>outra</b> causa principal (revenda). Há <b>troca de voz</b> e <b>extrapolação</b>. Uma alternativa correta seria: \"O texto apresenta explicações divergentes para o aumento dos furtos\".</p></details></div><div class=\"lt-stats\"><div class=\"lt-stat\"><b>2</b><span>operações diferentes: compreender (o que está escrito) e interpretar (o que se conclui)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: só vale o que o texto autoriza</span></div><div class=\"lt-stat\"><b>3</b><span>erros clássicos: extrapolar, reduzir e contradizer</span></div><div class=\"lt-stat\"><b>1</b><span>pergunta a fazer sempre: \"o texto autoriza isso?\"</span></div></div>\n<p>Interpretação de texto é o tema mais cobrado de Língua Portuguesa no Cebraspe, e quase toda questão de gramática também começa num texto. O que derruba candidatos não é falta de leitura, e sim <b>ler demais</b>: completar o texto com o que se sabe do mundo. A banca premia quem fica <b>dentro</b> do texto.</p>\n<h3>1. Compreender x interpretar</h3>\n<table class=\"tab\"><thead><tr><th>; Compreensão</th><th>Interpretação</th></tr></thead><tbody><tr><td>Pergunta</td><td>o que o texto DIZ?</td><td>o que se pode CONCLUIR do texto?</td></tr><tr><td>Verbos da banca</td><td>\"segundo o texto\", \"o autor afirma\", \"de acordo com o texto\"</td><td>\"infere-se\", \"depreende-se\", \"conclui-se\", \"o texto sugere\"</td></tr><tr><td>Base</td><td>informação explícita</td><td>informação implícita, mas autorizada pelo texto</td></tr><tr><td>Risco</td><td>trocar uma palavra do texto</td><td>ir além do texto (extrapolar)</td></tr></tbody></table>\n<h3>2. Os três erros que a banca explora</h3>\n<ul><li><b>Extrapolação</b>: o item traz uma ideia que <b>não está</b> no texto, ainda que seja verdadeira no mundo real. \"O texto, que fala da queda de acidentes, permite concluir que a fiscalização da PRF é a melhor do país\" — o texto não disse isso.</li><li><b>Redução</b>: o item toma <b>uma parte</b> pelo <b>todo</b> (\"o texto trata apenas de…\", \"a única causa é…\").</li><li><b>Contradição</b>: o item afirma o <b>oposto</b> do texto, muitas vezes trocando uma palavra (sempre/às vezes, aumentou/diminuiu, causa/consequência).</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Palavras absolutas no item (<b>sempre, nunca, todos, nenhum, apenas, somente, exclusivamente, único</b>) costumam indicar extrapolação ou redução. Não é regra infalível, mas é um sinal para reler o trecho.</div>\n<figure class=\"lt-charge\"><svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Relação no tempo não prova causa única. Fique no que o texto afirma.\"><rect width=\"640\" height=\"300\" fill=\"#fffdf5\"/><rect y=\"262\" width=\"640\" height=\"38\" fill=\"#cfcfcf\"/><rect x=\"40\" y=\"279\" width=\"60\" height=\"5\" fill=\"#fff\"/><rect x=\"160\" y=\"279\" width=\"60\" height=\"5\" fill=\"#fff\"/><rect x=\"280\" y=\"279\" width=\"60\" height=\"5\" fill=\"#fff\"/><rect x=\"400\" y=\"279\" width=\"60\" height=\"5\" fill=\"#fff\"/><rect x=\"520\" y=\"279\" width=\"60\" height=\"5\" fill=\"#fff\"/><circle cx=\"110\" cy=\"144\" r=\"24\" fill=\"#f2c9a0\" stroke=\"#222\" stroke-width=\"2\"/><path d=\"M90,122 q20,-16 40,0\" fill=\"#5b3a1e\"/><circle cx=\"102\" cy=\"142\" r=\"3\" fill=\"#222\"/><circle cx=\"118\" cy=\"142\" r=\"3\" fill=\"#222\"/><path d=\"M102,156 q8,6 16,0\" fill=\"none\" stroke=\"#222\" stroke-width=\"2\"/><rect x=\"84\" y=\"170\" width=\"52\" height=\"62\" rx=\"12\" fill=\"#7aa6d6\" stroke=\"#222\" stroke-width=\"2\"/><line x1=\"96\" y1=\"232\" x2=\"94\" y2=\"262\" stroke=\"#222\" stroke-width=\"6\" stroke-linecap=\"round\"/><line x1=\"124\" y1=\"232\" x2=\"126\" y2=\"262\" stroke=\"#222\" stroke-width=\"6\" stroke-linecap=\"round\"/><circle cx=\"530\" cy=\"144\" r=\"24\" fill=\"#f2c9a0\" stroke=\"#222\" stroke-width=\"2\"/><path d=\"M508,120 q22,-18 44,0 l4,8 h-52 z\" fill=\"#1b2a4a\"/><rect x=\"504\" y=\"126\" width=\"52\" height=\"6\" rx=\"3\" fill=\"#1b2a4a\"/><circle cx=\"530\" cy=\"120\" r=\"3\" fill=\"#f5c518\"/><circle cx=\"522\" cy=\"142\" r=\"3\" fill=\"#222\"/><circle cx=\"538\" cy=\"142\" r=\"3\" fill=\"#222\"/><path d=\"M522,156 q8,6 16,0\" fill=\"none\" stroke=\"#222\" stroke-width=\"2\"/><rect x=\"504\" y=\"170\" width=\"52\" height=\"62\" rx=\"12\" fill=\"#e9c46a\" stroke=\"#222\" stroke-width=\"2\"/><line x1=\"516\" y1=\"232\" x2=\"514\" y2=\"262\" stroke=\"#222\" stroke-width=\"6\" stroke-linecap=\"round\"/><line x1=\"544\" y1=\"232\" x2=\"546\" y2=\"262\" stroke=\"#222\" stroke-width=\"6\" stroke-linecap=\"round\"/><rect x=\"150\" y=\"14\" width=\"250\" height=\"90\" rx=\"14\" fill=\"#fff\" stroke=\"#222\" stroke-width=\"2\"/><path d=\"M180,104 l14,22 l8,-22\" fill=\"#fff\" stroke=\"#222\" stroke-width=\"2\"/><text x=\"162\" y=\"36\" font-size=\"14\" font-family=\"Comic Sans MS, Comic Neue, cursive\" fill=\"#111\"><tspan x=\"162\" dy=\"0\">O texto diz que os acidentes</tspan><tspan x=\"162\" dy=\"17\">caíram depois da Lei Seca. Então</tspan><tspan x=\"162\" dy=\"17\">a Lei Seca é a única causa da</tspan><tspan x=\"162\" dy=\"17\">queda!</tspan></text><rect x=\"300\" y=\"120\" width=\"250\" height=\"90\" rx=\"14\" fill=\"#fff\" stroke=\"#222\" stroke-width=\"2\"/><path d=\"M510,210 l-14,22 l-8,-22\" fill=\"#fff\" stroke=\"#222\" stroke-width=\"2\"/><text x=\"312\" y=\"142\" font-size=\"14\" font-family=\"Comic Sans MS, Comic Neue, cursive\" fill=\"#111\"><tspan x=\"312\" dy=\"0\">Opa! O texto mostra que houve</tspan><tspan x=\"312\" dy=\"17\">queda depois da lei; dizer que</tspan><tspan x=\"312\" dy=\"17\">ela é a ÚNICA causa é ir além do</tspan><tspan x=\"312\" dy=\"17\">que está escrito.</tspan></text></svg><figcaption>Relação no tempo não prova causa única. Fique no que o texto afirma.</figcaption></figure>\n<div class=\"lt-pare\"></div>\n<h3>3. Pressuposto e subentendido</h3>\n<ul><li><b>Pressuposto</b>: informação que está <b>marcada na própria frase</b> e não pode ser negada sem contradição. \"O motorista <b>voltou</b> a dirigir alcoolizado\" pressupõe que ele <b>já</b> dirigiu alcoolizado antes. Palavras como \"voltar a\", \"continuar\", \"deixar de\", \"ainda\", \"também\", \"até\" criam pressupostos.</li><li><b>Subentendido</b>: insinuação que depende do contexto e da interpretação do leitor; o autor pode negar que quis dizer aquilo. \"Está calor aqui, não?\" pode subentender \"abra a janela\".</li></ul>\n<table class=\"tab\"><thead><tr><th>Frase</th><th>Pressuposto</th></tr></thead><tbody><tr><td>\"Ele deixou de usar o celular ao volante.\"</td><td>antes ele usava</td></tr><tr><td>\"Até o motorista mais cuidadoso foi multado.\"</td><td>o motorista cuidadoso era o menos provável de ser multado</td></tr><tr><td>\"A fiscalização continua intensa.\"</td><td>já era intensa antes</td></tr><tr><td>\"Ainda há trechos sem sinalização.\"</td><td>esperava-se que todos já estivessem sinalizados</td></tr></tbody></table>\n<h3>4. Modalizadores: o grau de certeza do autor</h3>\n<p>O autor pode afirmar com certeza (\"é\", \"certamente\") ou com dúvida (\"talvez\", \"possivelmente\", \"pode ser\", \"parece\"). Se o texto diz que algo <b>pode</b> reduzir acidentes, o item que diz que o texto <b>afirma</b> que reduz está <b>errado</b>: mudou o grau de certeza.</p>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Troca de modalidade é pegadinha frequente: o texto diz \"<b>é provável</b> que\", o item diz \"o texto <b>garante</b> que\". Leia o verbo e o advérbio com lupa.</div>\n<h3>5. Técnica de prova (passo a passo)</h3>\n<div class=\"lt-fluxo\"><span>Leia o comando e identifique o tipo: compreensão ou inferência</span> <em>→</em> <span>Volte ao trecho exato do texto citado</span> <em>→</em> <span>Compare o item com o trecho, palavra por palavra</span> <em>→</em> <span>Procure extrapolação, redução, contradição ou mudança de certeza</span> <em>→</em> <span>Só então marque</span></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> No Cebraspe, quando o item cita linhas ou parágrafos, <b>leia o parágrafo inteiro</b>, não só a linha: o sentido muitas vezes depende da frase anterior ou do conector que vem depois.</div>\n<h3>6. Sentido de palavras e expressões no contexto</h3>\n<p>A banca pede que você diga se uma palavra \"poderia ser substituída por X sem prejuízo do sentido\". A resposta depende do <b>contexto</b>: \"grave\" pode ser \"sério\" (acidente grave) ou \"solene\" (tom grave). Teste a substituição <b>na frase</b>, nunca no dicionário de cabeça.</p>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se o fato é verdadeiro no mundo real, o item está certo</span><br>✅ <span class=\"certo\">Só está certo se o TEXTO autorizar.</span></li><li>❌ <span class=\"banca\">\"Infere-se\" exige que a informação esteja escrita</span><br>✅ <span class=\"certo\">Inferir é concluir o que está IMPLÍCITO, mas autorizado pelo texto.</span></li><li>❌ <span class=\"banca\">\"Talvez reduza\" equivale a \"reduz\"</span><br>✅ <span class=\"certo\">Mudou o grau de certeza: o item está errado.</span></li><li>❌ <span class=\"banca\">O título resume sempre todo o texto</span><br>✅ <span class=\"certo\">Nem sempre; a ideia central se confirma no desenvolvimento.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>O que é extrapolar?</span></span><span class=\"vs\"><span>Ir <b>além</b> do texto, trazendo informação que ele não autoriza.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Ele voltou a fumar\" pressupõe o quê?</span></span><span class=\"vs\"><span>Que ele <b>já fumava</b> antes.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Possivelmente\" indica o quê?</span></span><span class=\"vs\"><span><b>Dúvida/possibilidade</b>: o autor não afirma com certeza.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Palavras absolutas no item são sinal de quê?</span></span><span class=\"vs\"><span>Possível <b>extrapolação ou redução</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pressuposto pode ser negado?</span></span><span class=\"vs\"><span><b>Não</b> sem contradizer a frase; o subentendido pode.</span></span></button></div></div>"
 },
 "tipologia": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>tipos textuais: narração, descrição, dissertação (exposição e argumentação), injunção e diálogo</span></div><div class=\"lt-stat\"><b>∞</b><span>gêneros textuais: notícia, ofício, bula, receita, crônica...</span></div><div class=\"lt-stat\"><b>6</b><span>funções da linguagem de Jakobson</span></div><div class=\"lt-stat\"><b>3</b><span>partes da dissertação: introdução, desenvolvimento e conclusão</span></div></div>\n<h3>1. Tipo e gênero não são a mesma coisa</h3>\n<ul><li><b>Tipo textual</b> é um <b>modo de organizar</b> o texto, com marcas linguísticas próprias (tempos verbais, conectores, estrutura). São poucos: <b>narrativo</b>, <b>descritivo</b>, <b>dissertativo</b> (expositivo ou argumentativo), <b>injuntivo</b> (instrucional) e, para alguns autores, <b>dialogal</b>.</li><li><b>Gênero textual</b> é a <b>forma concreta</b> que o texto assume na vida social, com função, suporte e público: notícia, reportagem, crônica, artigo de opinião, editorial, carta, e-mail, ofício, boletim de ocorrência, relatório, receita, bula, manual, charge, tirinha. Um gênero pode <b>misturar vários tipos</b>: a <b>bula</b> combina <b>injunção</b> (posologia, modo de usar) e <b>exposição/descrição</b> (composição, indicações, reações adversas); o <b>boletim de ocorrência</b> combina <b>narração</b> (os fatos) e <b>descrição</b> (pessoas e objetos).</li></ul>\n<h3>2. Os tipos, um por um</h3>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Objetivo</th><th>Marcas linguísticas</th></tr></thead><tbody><tr><td><b>Narrativo</b></td><td>contar fatos em sequência</td><td>verbos de ação no <b>pretérito perfeito</b>; marcadores de <b>tempo</b> (depois, em seguida, naquela noite); personagens, narrador, tempo, espaço, enredo (situação inicial, conflito, clímax, desfecho)</td></tr><tr><td><b>Descritivo</b></td><td>retratar seres, objetos, lugares, como uma \"fotografia\"</td><td><b>adjetivos</b>, verbos de <b>estado</b> (ser, estar, parecer), <b>pretérito imperfeito</b> ou presente; enumeração de características</td></tr><tr><td><b>Expositivo</b></td><td><b>informar</b> e explicar um tema, sem defender opinião</td><td><b>presente</b> atemporal, linguagem objetiva, definições, dados, exemplos</td></tr><tr><td><b>Argumentativo</b></td><td><b>convencer</b> o leitor de uma tese</td><td><b>tese + argumentos</b>; conectores de <b>causa, consequência, oposição e conclusão</b>; modalizadores; 1ª ou 3ª pessoa</td></tr><tr><td><b>Injuntivo</b></td><td><b>orientar</b> o leitor a agir</td><td>verbos no <b>imperativo</b> ou no <b>infinitivo</b> (\"Misture\", \"Tomar 1 comprimido\"); passos numerados</td></tr></tbody></table>\n<ul><li><b>Narrador</b>: em <b>1ª pessoa</b> (narrador-personagem, participa da história) ou em <b>3ª pessoa</b> (narrador-observador, que só relata; ou onisciente, que conhece pensamentos e sentimentos dos personagens).</li></ul>\n<h3>3. A dissertação argumentativa</h3>\n<ul><li><b>Introdução</b>: apresenta o tema e a <b>tese</b>. <b>Desenvolvimento</b>: cada parágrafo traz um <b>argumento</b>, com tópico frasal e fundamentação. <b>Conclusão</b>: retoma a tese e, em muitas provas, apresenta <b>proposta de intervenção</b> (o quê, quem, como, para quê).</li><li><b>Tipos de argumento</b>: <b>autoridade</b> (citação de especialista ou instituição); <b>dados e estatísticas</b>; <b>exemplificação</b>; <b>causa e consequência</b>; <b>comparação ou analogia</b>; <b>alusão histórica</b>; <b>contra-argumentação</b> (o autor apresenta a posição contrária e a refuta: \"É verdade que... <b>porém</b>...\").</li><li><b>Exposição x argumentação</b>: o texto <b>expositivo</b> explica (um verbete de enciclopédia, um texto didático); o <b>argumentativo</b> defende um ponto de vista (artigo de opinião, editorial). A banca pergunta \"qual a finalidade do texto\": se ele quer <b>informar</b>, é expositivo; se quer <b>convencer</b>, argumentativo.</li></ul>\n<h3>4. Gêneros que mais aparecem</h3>\n<table class=\"tab\"><thead><tr><th>Gênero</th><th>Características</th></tr></thead><tbody><tr><td><b>Notícia</b></td><td>relata fato <b>recente</b> e de interesse público, em <b>3ª pessoa</b>, com linguagem objetiva; estrutura de <b>pirâmide invertida</b> (o mais importante primeiro: quem, o quê, quando, onde, como, por quê)</td></tr><tr><td><b>Reportagem</b></td><td>mais longa e aprofundada; pode trazer entrevistas, dados e análise</td></tr><tr><td><b>Editorial</b></td><td>texto <b>opinativo</b> que expressa a posição do <b>veículo</b> (jornal ou revista), sem assinatura individual</td></tr><tr><td><b>Artigo de opinião</b></td><td>texto argumentativo <b>assinado</b> por um autor, que defende sua posição</td></tr><tr><td><b>Crônica</b></td><td>texto curto que parte de um <b>fato do cotidiano</b>, com linguagem leve, muitas vezes humor, ironia ou lirismo; mistura narração e reflexão</td></tr><tr><td><b>Charge</b></td><td>desenho que combina linguagem <b>verbal e não verbal</b>, com <b>humor e crítica</b> sobre fato <b>atual</b> (o cartum trata de temas atemporais)</td></tr><tr><td><b>Tirinha</b></td><td>sequência de quadrinhos, geralmente com humor</td></tr><tr><td><b>Boletim de ocorrência</b></td><td>registro oficial: <b>narração</b> dos fatos e <b>descrição</b> de pessoas, objetos e locais, em linguagem objetiva</td></tr><tr><td><b>Relatório</b></td><td>expõe fatos apurados ou atividades realizadas</td></tr><tr><td><b>Bula e manual</b></td><td>predominantemente <b>injuntivos</b>, com trechos expositivos</td></tr></tbody></table>\n<h3>5. Funções da linguagem (Jakobson)</h3>\n<table class=\"tab\"><thead><tr><th>Função</th><th>Foco</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Referencial</b> (denotativa)</td><td>o <b>assunto</b> (referente); informar com objetividade</td><td>notícias, textos científicos, relatórios</td></tr><tr><td><b>Emotiva</b> (expressiva)</td><td>o <b>emissor</b>: emoções e opiniões em <b>1ª pessoa</b></td><td>diários, desabafos, cartas pessoais</td></tr><tr><td><b>Conativa</b> (apelativa)</td><td>o <b>receptor</b>: convencer, ordenar; <b>imperativo</b>, vocativo, 2ª pessoa</td><td>propagandas, discursos (\"<b>Denuncie!</b> Ligue 181\")</td></tr><tr><td><b>Fática</b></td><td>o <b>canal</b>: testar ou manter a comunicação</td><td>\"Alô? Está me ouvindo?\", \"Bom dia, tudo bem?\"</td></tr><tr><td><b>Metalinguística</b></td><td>o <b>código</b>: a linguagem falando de si mesma</td><td>dicionários, gramáticas, um poema sobre fazer poemas</td></tr><tr><td><b>Poética</b></td><td>a <b>mensagem</b>: a forma, o arranjo das palavras</td><td>poemas, slogans com rima e trocadilhos</td></tr></tbody></table>\n<ul><li>Um texto pode ter <b>várias funções</b>; a banca pergunta a <b>predominante</b>. Campanhas policiais (\"Não reaja!\", \"Denuncie\") têm função <b>conativa</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Tipo e gênero são sinônimos</span><br>✅ <span class=\"certo\">Tipo é modo de organização; gênero é a forma social concreta.</span></li><li>❌ <span class=\"banca\">A bula é texto narrativo</span><br>✅ <span class=\"certo\">É injuntiva e expositiva.</span></li><li>❌ <span class=\"banca\">Editorial é assinado por um jornalista</span><br>✅ <span class=\"certo\">Expressa a opinião do VEÍCULO, sem assinatura individual.</span></li><li>❌ <span class=\"banca\">Texto expositivo defende uma tese</span><br>✅ <span class=\"certo\">Expositivo informa; argumentativo defende.</span></li><li>❌ <span class=\"banca\">Função fática é a da emoção</span><br>✅ <span class=\"certo\">Fática é a do canal; a emotiva é a do emissor.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cinco tipos textuais?</span></span><span class=\"vs\"><span><b>Narrativo, descritivo, expositivo, argumentativo, injuntivo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marca do injuntivo?</span></span><span class=\"vs\"><span>Verbos no <b>imperativo ou infinitivo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marca do descritivo?</span></span><span class=\"vs\"><span><b>Adjetivos</b> e verbos de estado.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Notícia?</span></span><span class=\"vs\"><span>Fato recente, <b>3ª pessoa</b>, pirâmide invertida.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Editorial?</span></span><span class=\"vs\"><span>Opinião do <b>veículo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Charge?</span></span><span class=\"vs\"><span>Verbal + não verbal, <b>crítica</b> a fato <b>atual</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Função conativa?</span></span><span class=\"vs\"><span>Foco no <b>receptor</b>; imperativo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Função metalinguística?</span></span><span class=\"vs\"><span>A língua falando da <b>própria língua</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O boletim de ocorrência</b><p>\"No dia 3, por volta das 22h, a vítima caminhava pela Rua Sete quando foi abordada por um homem de aproximadamente 1,80 m, magro, de boné vermelho, que exigiu seu celular e fugiu em direção à praça.\"</p><details><summary>Ver a solução comentada</summary><p>O gênero é o <b>boletim de ocorrência</b>. O trecho combina <b>narração</b> (sequência de ações no pretérito perfeito: foi abordada, exigiu, fugiu, com marcadores de tempo) e <b>descrição</b> (características físicas do autor: altura, porte, boné). A linguagem é <b>referencial</b> (objetiva), como exige o registro policial.</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>tipos textuais clássicos (narração, descrição, exposição, argumentação e injunção)</span></div><div class=\"lt-stat\"><b>6</b><span>funções da linguagem de Jakobson</span></div><div class=\"lt-stat\"><b>4</b><span>tipos de variação linguística (histórica, geográfica, social e situacional)</span></div><div class=\"lt-stat\"><b>∞</b><span>gêneros textuais: são praticamente ilimitados</span></div></div>\n<h3>1. Tipo textual x gênero textual</h3>\n<ul><li><b>Tipos textuais</b> (ou sequências tipológicas) são <b>poucos</b> e definidos pela <b>estrutura linguística</b> predominante: o modo como o texto se organiza (sequência de fatos, características, explicação, defesa de ideia, instrução). São eles: <b>narração</b>, <b>descrição</b>, <b>dissertação expositiva</b>, <b>dissertação argumentativa</b> e <b>injunção</b> (alguns autores acrescentam a <b>predição</b> e o <b>diálogo</b>).</li><li><b>Gêneros textuais</b> são <b>praticamente ilimitados</b>: são os textos <b>concretos</b> que circulam na sociedade, definidos pela <b>função social</b>, pelo <b>contexto</b> e pelo <b>formato</b>: notícia, reportagem, editorial, artigo de opinião, carta, e-mail, receita, bula, manual, conto, crônica, piada, ofício, requerimento, boletim de ocorrência, sentença, edital, anúncio, post de rede social...</li><li><b>Relação</b>: um gênero usa um ou mais tipos. A <b>receita</b> é um gênero em que predomina o tipo <b>injuntivo</b> (instruções), mas também traz <b>descrição</b> (ingredientes). A <b>crônica</b> pode mesclar <b>narração</b> e <b>argumentação</b>. O <b>boletim de ocorrência</b> combina <b>narração</b> (o fato) e <b>descrição</b> (pessoas, objetos, local).</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo textual</th><th>Gênero textual</th></tr></thead><tbody><tr><td><b>poucos</b> (estrutura)</td><td><b>muitos</b> (função social)</td></tr><tr><td>definido por <b>traços linguísticos</b> (tempos verbais, organização)</td><td>definido pelo <b>uso</b> na sociedade (finalidade, público, suporte)</td></tr><tr><td>ex.: <b>narração</b></td><td>ex.: <b>conto, notícia, boletim de ocorrência, fábula</b></td></tr><tr><td>ex.: <b>injunção</b></td><td>ex.: <b>receita, manual, bula, regulamento</b></td></tr></tbody></table>\n<ul><li><b>Domínio discursivo</b>: a esfera social em que os gêneros circulam: <b>jornalístico</b> (notícia, reportagem, editorial), <b>jurídico</b> (petição, sentença, lei), <b>acadêmico</b> (resumo, resenha, artigo científico), <b>literário</b> (conto, romance, poema), <b>publicitário</b> (anúncio, slogan), <b>oficial/administrativo</b> (ofício, requerimento, relatório), <b>digital</b> (post, e-mail, mensagem instantânea).</li><li><b>Suporte</b>: o meio físico ou virtual em que o texto aparece (jornal impresso, site, livro, outdoor, rótulo, tela do celular). O suporte influencia o gênero (o tamanho do texto, o uso de imagens, a linguagem).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Tipos textuais são ilimitados</span><br>✅ <span class=\"certo\"><b>Gêneros</b> são praticamente ilimitados; <b>tipos</b> são <b>poucos</b></span></li><li>❌ <span class=\"banca\">Receita é um tipo textual</span><br>✅ <span class=\"certo\">Receita é <b>gênero</b>; o <b>tipo</b> predominante é o <b>injuntivo</b></span></li><li>❌ <span class=\"banca\">Cada gênero usa apenas um tipo</span><br>✅ <span class=\"certo\">Os gêneros costumam <b>mesclar</b> tipos, com um <b>predominante</b></span></li></ol></div>\n<h3>2. Narração</h3>\n<ul><li><b>Narração</b> conta <b>fatos</b> que se sucedem no <b>tempo</b>, envolvendo <b>personagens</b> em um <b>espaço</b>. Responde à pergunta \"<b>o que aconteceu?</b>\".</li><li><b>Elementos da narrativa</b>: <b>narrador</b> (quem conta), <b>personagens</b> (quem vive a história: protagonista, antagonista, secundárias), <b>enredo</b> (a sequência dos fatos), <b>tempo</b> (cronológico ou psicológico), <b>espaço</b> (onde ocorre) e <b>conflito</b> (o problema que move a história).</li><li><b>Estrutura clássica do enredo</b>: <b>situação inicial</b> (apresentação), <b>complicação</b> (conflito), <b>desenvolvimento</b>, <b>clímax</b> (momento de maior tensão) e <b>desfecho</b> (resolução).</li><li><b>Marcas linguísticas</b>: <b>verbos de ação</b>, predominância do <b>pretérito perfeito</b> (\"chegou\", \"abriu\") e do <b>imperfeito</b> (\"chovia\", \"era\"), <b>advérbios e expressões de tempo</b> (\"depois\", \"no dia seguinte\", \"de repente\"), progressão temporal.</li><li><b>Foco narrativo</b>: <b>1ª pessoa</b> (narrador-personagem, que participa da história, com visão limitada) ou <b>3ª pessoa</b> (narrador <b>observador</b>, que conta de fora, ou <b>onisciente</b>, que conhece pensamentos e sentimentos das personagens).</li><li><b>Tempo cronológico x psicológico</b>: o <b>cronológico</b> segue a ordem dos acontecimentos; o <b>psicológico</b> acompanha as lembranças e sensações da personagem, com idas e vindas (<b>flashback</b>: volta ao passado; <b>flashforward</b>: antecipação do futuro).</li><li><b>Gêneros narrativos</b>: conto, romance, novela, crônica narrativa, fábula (com animais e <b>moral</b>), lenda, mito, anedota (piada), notícia, relato pessoal, biografia, diário, história em quadrinhos, <b>boletim de ocorrência</b> (narrativa objetiva de um fato).</li></ul>\n<h3>3. Descrição</h3>\n<ul><li><b>Descrição</b> apresenta as <b>características</b> de um ser, objeto, lugar ou situação, como uma \"<b>fotografia</b>\" em palavras. Responde a \"<b>como é?</b>\".</li><li><b>Marcas linguísticas</b>: <b>adjetivos</b> e <b>locuções adjetivas</b>, <b>verbos de estado</b> ou de ligação (ser, estar, parecer, ter), <b>presente</b> ou <b>pretérito imperfeito</b> (\"a sala <b>era</b> ampla, as janelas <b>davam</b> para o jardim\"), comparações, enumerações, ausência de progressão temporal (as características são <b>simultâneas</b>).</li><li><b>Descrição objetiva</b>: <b>impessoal</b>, precisa, sem impressões pessoais (comum em laudos, relatórios, manuais, classificados). Exemplo: \"Homem de aproximadamente 1,75 m, pele morena, cabelos curtos e pretos, vestindo camiseta azul.\"</li><li><b>Descrição subjetiva</b>: traz as <b>impressões</b> e emoções de quem descreve (comum na literatura). Exemplo: \"Tinha um olhar cansado, de quem já desistira de esperar.\"</li><li><b>Interesse para o policial</b>: o <b>auto de reconhecimento</b>, a <b>descrição de suspeitos</b>, a descrição do <b>local de crime</b> e de <b>objetos apreendidos</b> exigem descrição <b>objetiva</b>, precisa e sem juízos de valor.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Descrição usa predominantemente verbos de ação no pretérito perfeito</span><br>✅ <span class=\"certo\">Isso marca a <b>narração</b>; a descrição usa <b>verbos de estado</b> e <b>adjetivos</b></span></li><li>❌ <span class=\"banca\">A descrição em um laudo deve ser subjetiva, com as impressões do perito</span><br>✅ <span class=\"certo\">Em laudos, a descrição é <b>objetiva</b> e impessoal</span></li></ol></div>\n<h3>4. Dissertação: exposição e argumentação</h3>\n<ul><li><b>Dissertação</b> discute um <b>tema</b>, organizando <b>ideias</b> e <b>conceitos</b>. Responde a \"<b>o que penso/sei sobre isso?</b>\". Divide-se em duas modalidades:</li></ul>\n<table class=\"tab\"><thead><tr><th>Modalidade</th><th>Objetivo</th><th>Marcas</th><th>Exemplos de gêneros</th></tr></thead><tbody><tr><td><b>Expositiva</b> (explicativa, informativa)</td><td><b>explicar, informar</b>, apresentar conhecimento <b>sem defender</b> uma posição polêmica</td><td>linguagem objetiva, conceitos, definições, classificações, dados, <b>presente atemporal</b> (\"a água ferve a 100 °C ao nível do mar\")</td><td>verbete de enciclopédia, aula, texto didático, artigo de divulgação científica, seminário</td></tr><tr><td><b>Argumentativa</b></td><td><b>convencer</b>, defender uma <b>tese</b> com <b>argumentos</b></td><td>tese, argumentos, contra-argumentos, conectivos lógicos, modalizadores, avaliações</td><td>artigo de opinião, editorial, resenha crítica, carta argumentativa, redação de concurso, petição</td></tr></tbody></table>\n<ul><li><b>Estrutura da dissertação argumentativa</b>: <b>introdução</b> (apresentação do tema e da <b>tese</b>), <b>desenvolvimento</b> (argumentos, geralmente um por parágrafo, com fundamentação) e <b>conclusão</b> (retomada da tese e, em muitas provas, <b>proposta de solução</b>).</li><li><b>Impessoalidade</b>: em textos dissertativos formais (como a redação de concurso), prefere-se a <b>3ª pessoa</b> ou a <b>1ª do plural</b> (\"percebe-se\", \"é preciso\", \"observamos\"), evitando o \"eu acho\".</li><li><b>Exposição x argumentação</b>: a fronteira nem sempre é rígida. Um texto expositivo pode ter <b>trechos argumentativos</b>, e vice-versa. A questão costuma perguntar qual tipo <b>predomina</b>: há <b>tese polêmica</b> defendida? Então é argumentativo.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo texto dissertativo defende uma tese</span><br>✅ <span class=\"certo\">A dissertação <b>expositiva</b> <b>explica</b> sem defender posição polêmica</span></li><li>❌ <span class=\"banca\">Na dissertação argumentativa formal, recomenda-se o uso de \"eu acho\" para marcar a opinião</span><br>✅ <span class=\"certo\">Prefere-se <b>impessoalidade</b> (3ª pessoa, \"é preciso\", \"percebe-se\")</span></li><li>❌ <span class=\"banca\">O texto de enciclopédia é argumentativo</span><br>✅ <span class=\"certo\">É <b>expositivo</b></span></li></ol></div>\n<h3>5. Injunção (texto instrucional)</h3>\n<ul><li><b>Injunção</b> orienta o leitor a <b>fazer algo</b>: dá <b>instruções</b>, ordens, conselhos, procedimentos. Responde a \"<b>como fazer?</b>\".</li><li><b>Marcas linguísticas</b>: verbos no <b>imperativo</b> (\"misture\", \"aperte\", \"não use\") ou no <b>infinitivo</b> (\"misturar\", \"apertar\"), às vezes no futuro (\"você deverá\"), <b>sequência de passos</b> numerados ou ordenados, linguagem clara e direta, interlocução com o leitor.</li><li><b>Gêneros injuntivos</b>: <b>receita</b>, <b>manual de instruções</b>, <b>bula</b> (em parte), <b>regulamento</b>, <b>lei</b> (prescrições), <b>edital</b> (em parte), <b>placa de orientação</b>, <b>tutorial</b>, <b>guia de procedimentos</b> (como o procedimento operacional padrão da polícia), <b>propaganda</b> (que muitas vezes usa o imperativo: \"Compre já!\").</li><li><b>Prescritivo x injuntivo</b>: alguns autores distinguem o texto <b>prescritivo</b> (normas obrigatórias, como leis e regulamentos, com sanção) do <b>injuntivo</b> em sentido estrito (instruções que o leitor segue se quiser alcançar o resultado, como a receita).</li></ul>\n<h3>6. Predição e diálogo (tipos complementares)</h3>\n<ul><li><b>Predição</b>: anuncia o que <b>vai acontecer</b> (previsão do tempo, horóscopo, profecias, prognósticos). Marcas: <b>futuro do presente</b> (\"amanhã <b>choverá</b>\"), expressões de probabilidade.</li><li><b>Diálogo</b> (ou dialogal/conversacional): troca de <b>turnos</b> de fala entre interlocutores (entrevista, conversa, peça de teatro, chat). Marcas: travessões ou nomes dos falantes, perguntas e respostas, marcas de oralidade.</li></ul>\n<h3>7. Principais gêneros e suas características</h3>\n<table class=\"tab\"><thead><tr><th>Gênero</th><th>Finalidade</th><th>Tipo predominante</th><th>Traços marcantes</th></tr></thead><tbody><tr><td><b>Notícia</b></td><td><b>informar</b> um fato recente</td><td>narrativo/expositivo</td><td><b>lide</b> (primeiro parágrafo com o essencial: o quê, quem, quando, onde, como, por quê), linguagem objetiva, 3ª pessoa, título no presente</td></tr><tr><td><b>Reportagem</b></td><td>aprofundar um tema, com pesquisa e várias fontes</td><td>expositivo (com narração e, às vezes, argumentação)</td><td>mais longa, entrevistas, dados, contexto</td></tr><tr><td><b>Editorial</b></td><td>expressar a <b>opinião do veículo</b> (jornal, revista)</td><td>argumentativo</td><td><b>sem assinatura</b> individual, linguagem formal</td></tr><tr><td><b>Artigo de opinião</b></td><td>defender opinião de um <b>autor</b> identificado</td><td>argumentativo</td><td><b>assinado</b>, tese e argumentos</td></tr><tr><td><b>Crônica</b></td><td>refletir sobre o <b>cotidiano</b> de forma leve</td><td>narrativo e/ou argumentativo</td><td>curta, linguagem próxima da oral, humor ou lirismo, publicada em jornais e revistas</td></tr><tr><td><b>Resenha</b></td><td>apresentar e <b>avaliar</b> uma obra (livro, filme)</td><td>descritivo + argumentativo</td><td>resumo + <b>crítica</b></td></tr><tr><td><b>Resumo</b></td><td>condensar as ideias principais <b>sem opinião</b></td><td>expositivo</td><td>fiel ao original, sem comentários</td></tr><tr><td><b>Carta do leitor</b></td><td>manifestar opinião sobre matéria publicada</td><td>argumentativo</td><td>dirige-se ao veículo, cita a matéria</td></tr><tr><td><b>Anúncio publicitário</b></td><td><b>persuadir</b> a consumir ou aderir</td><td>argumentativo/injuntivo</td><td>imperativo, apelo emocional, imagens, slogan</td></tr><tr><td><b>Charge</b></td><td>criticar fato atual com humor</td><td>não verbal + verbal</td><td>caricatura, ironia</td></tr><tr><td><b>Entrevista</b></td><td>reproduzir conversa com alguém</td><td>dialogal</td><td>perguntas e respostas</td></tr><tr><td><b>Biografia / autobiografia</b></td><td>contar a vida de alguém / a própria vida</td><td>narrativo</td><td>ordem cronológica, 3ª / 1ª pessoa</td></tr><tr><td><b>Fábula</b></td><td>transmitir <b>ensinamento</b></td><td>narrativo</td><td>animais personificados, <b>moral</b></td></tr><tr><td><b>Bula</b></td><td>informar sobre medicamento e orientar o uso</td><td>expositivo + injuntivo</td><td>composição, indicações, contraindicações, posologia</td></tr><tr><td><b>Edital</b></td><td>tornar público e regular um procedimento</td><td>injuntivo/prescritivo</td><td>regras, prazos, requisitos (concursos, licitações)</td></tr></tbody></table>\n<ul><li><b>Lide</b> (do inglês <i>lead</i>): o primeiro parágrafo da notícia, que responde às perguntas essenciais (<b>o quê, quem, quando, onde, como e por quê</b>). Questões perguntam qual informação <b>não</b> está no lide ou qual é a função do primeiro parágrafo.</li><li><b>Editorial x artigo de opinião</b>: os dois são argumentativos; o <b>editorial</b> representa a <b>opinião do jornal</b> e não é assinado; o <b>artigo</b> é <b>assinado</b> e representa a opinião do <b>autor</b> (que pode até divergir do jornal).</li><li><b>Resumo x resenha</b>: o <b>resumo</b> apenas condensa, <b>sem opinar</b>; a <b>resenha</b> resume <b>e avalia</b>.</li><li><b>Gêneros digitais</b>: e-mail, post, comentário, mensagem instantânea, meme, blog, podcast (oral). Características: <b>hipertexto</b> (links), linguagem <b>multimodal</b> (texto, imagem, vídeo, emoji), registro geralmente <b>informal</b>, rapidez.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Editorial é assinado por um jornalista e expressa sua opinião pessoal</span><br>✅ <span class=\"certo\">O editorial expressa a opinião do <b>veículo</b> e <b>não é assinado</b>; o artigo de opinião é assinado</span></li><li>❌ <span class=\"banca\">O resumo deve trazer a avaliação crítica do autor do resumo</span><br>✅ <span class=\"certo\">Avaliação é da <b>resenha</b>; o resumo <b>não opina</b></span></li><li>❌ <span class=\"banca\">O lide é o último parágrafo da notícia</span><br>✅ <span class=\"certo\">É o <b>primeiro</b>, com as informações essenciais</span></li></ol></div>\n<h3>8. Hibridismo e intertextualidade de gêneros</h3>\n<ul><li><b>Hibridismo</b> (ou intergenericidade): um gênero assume a <b>forma</b> de outro para produzir efeito. Exemplo: um anúncio publicitário escrito em forma de <b>receita</b> (\"Ingredientes: amor, carinho...\"), um poema em forma de <b>classificado</b>, uma campanha de trânsito em forma de <b>bula</b>. A questão pergunta qual é o <b>gênero</b> real (o anúncio) e qual o gênero <b>imitado</b> (a receita), e qual o <b>efeito</b> (chamar a atenção, humor, criatividade).</li><li><b>Intertextualidade</b>: relação entre textos (citação, paródia, paráfrase, alusão). É aprofundada no tópico de Semântica.</li></ul>\n<h3>9. Funções da linguagem (Jakobson)</h3>\n<ul><li>O linguista <b>Roman Jakobson</b> associou cada <b>elemento da comunicação</b> a uma <b>função da linguagem</b>. Um texto pode ter várias funções, mas costuma haver uma <b>predominante</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Elemento da comunicação</th><th>Função</th><th>Foco</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Emissor</b> (remetente)</td><td><b>emotiva</b> (expressiva)</td><td>as <b>emoções</b> e opiniões de quem fala; 1ª pessoa, interjeições, exclamações</td><td>diários, cartas pessoais, poemas líricos, desabafos</td></tr><tr><td><b>Receptor</b> (destinatário)</td><td><b>conativa</b> (apelativa)</td><td><b>convencer</b> ou influenciar o receptor; 2ª pessoa, <b>imperativo</b>, vocativo</td><td>propagandas, discursos políticos, sermões, campanhas</td></tr><tr><td><b>Referente</b> (contexto, assunto)</td><td><b>referencial</b> (denotativa, informativa)</td><td><b>informar</b> de modo objetivo; 3ª pessoa, linguagem denotativa</td><td>notícias, textos científicos, didáticos, laudos</td></tr><tr><td><b>Mensagem</b></td><td><b>poética</b></td><td>a <b>forma</b> da mensagem (seleção e combinação das palavras), sons, ritmo, figuras</td><td>poemas, slogans, letras de música, trocadilhos</td></tr><tr><td><b>Canal</b></td><td><b>fática</b></td><td><b>testar ou manter</b> o contato</td><td>\"alô?\", \"tá me ouvindo?\", \"pois é\", \"né?\", cumprimentos</td></tr><tr><td><b>Código</b></td><td><b>metalinguística</b></td><td>a linguagem <b>falando de si mesma</b> (o código explicando o código)</td><td>dicionários, gramáticas, poema sobre fazer poemas, filme sobre fazer cinema</td></tr></tbody></table>\n<ul><li><b>Dicas</b>: <b>conativa</b> = foco em <b>você</b> (o receptor), muito imperativo; <b>emotiva</b> = foco no <b>eu</b>; <b>referencial</b> = foco na <b>informação</b>; <b>fática</b> = foco no <b>contato</b> (\"alô\"); <b>metalinguística</b> = <b>código explicando o código</b> (verbete de dicionário, aula de gramática, poema que fala do próprio poema); <b>poética</b> = foco na <b>forma</b> da mensagem (não é exclusiva da poesia: aparece em slogans e propagandas criativas).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A função poética aparece somente em poemas</span><br>✅ <span class=\"certo\">Aparece também em <b>slogans</b>, propagandas e trocadilhos (foco na <b>forma</b> da mensagem)</span></li><li>❌ <span class=\"banca\">A função fática tem como foco o receptor</span><br>✅ <span class=\"certo\">O foco no receptor é a função <b>conativa</b>; a <b>fática</b> foca o <b>canal</b> (manter o contato)</span></li><li>❌ <span class=\"banca\">O verbete de dicionário tem função emotiva</span><br>✅ <span class=\"certo\">É <b>metalinguístico</b> (o código explicando o código)</span></li><li>❌ <span class=\"banca\">A propaganda tem função referencial predominante</span><br>✅ <span class=\"certo\">Predomina a <b>conativa</b> (convencer o receptor)</span></li></ol></div>\n<h3>10. Variação linguística</h3>\n<ul><li>A língua <b>varia</b>: não existe uma única forma \"correta\" em todas as situações, mas formas <b>adequadas</b> a cada contexto. A <b>norma-padrão</b> (culta) é a variedade de <b>prestígio</b>, exigida em textos formais, oficiais e em provas, mas as outras variedades são <b>legítimas</b> e seguem regras próprias. Tratar uma variedade como \"errada\" de forma depreciativa é <b>preconceito linguístico</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de variação</th><th>Também chamada</th><th>Fator</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Histórica</b></td><td><b>diacrônica</b></td><td><b>tempo</b> (a língua muda ao longo dos séculos)</td><td>\"vossa mercê\" → \"vosmecê\" → \"você\" → \"cê\"; grafias antigas (\"pharmácia\")</td></tr><tr><td><b>Geográfica</b></td><td><b>diatópica</b> (regional)</td><td><b>lugar</b> (regiões, países)</td><td>\"mandioca\", \"aipim\", \"macaxeira\"; sotaques; diferenças entre o português do Brasil e o de Portugal</td></tr><tr><td><b>Social</b></td><td><b>diastrática</b></td><td><b>grupo social</b> (classe, escolaridade, idade, profissão, tribos)</td><td>gírias de jovens, jargões profissionais (\"autos\", \"flagrante\", \"B.O.\"), variedades populares</td></tr><tr><td><b>Situacional</b></td><td><b>diafásica</b> (estilística)</td><td><b>situação</b> de comunicação (formal ou informal)</td><td>falar com o chefe em reunião x conversar com amigos</td></tr></tbody></table>\n<ul><li><b>Registro formal x informal</b>: o <b>formal</b> segue a norma-padrão e é usado em situações oficiais (ofícios, provas, entrevistas de emprego, audiências); o <b>informal</b> é espontâneo (conversas familiares, mensagens entre amigos). O falante competente <b>adapta</b> o registro à situação.</li><li><b>Jargão</b>: vocabulário técnico de um grupo profissional (jurídico, médico, policial). <b>Gíria</b>: vocabulário de grupos sociais, muitas vezes passageiro. Ambos são variação <b>diastrática</b>.</li><li><b>Oralidade x escrita</b>: a fala tem marcas próprias (repetições, hesitações, \"né\", \"aí\", frases interrompidas) que, transpostas para a escrita formal, devem ser <b>adaptadas</b> (retextualização).</li><li><b>Variação diamésica</b>: alguns autores falam também da variação conforme o <b>meio</b> (oral x escrito).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Variação diatópica está ligada ao tempo</span><br>✅ <span class=\"certo\"><b>Diatópica</b> = <b>lugar</b>; ligada ao <b>tempo</b> é a <b>diacrônica</b> (histórica)</span></li><li>❌ <span class=\"banca\">Gírias e jargões são exemplos de variação geográfica</span><br>✅ <span class=\"certo\">São variação <b>social</b> (<b>diastrática</b>)</span></li><li>❌ <span class=\"banca\">A norma-padrão é a única forma correta da língua em qualquer situação</span><br>✅ <span class=\"certo\">É a variedade de <b>prestígio</b>, exigida em contextos <b>formais</b>; as outras são <b>legítimas</b> e adequadas a outros contextos</span></li><li>❌ <span class=\"banca\">Variação diafásica depende da região do falante</span><br>✅ <span class=\"certo\"><b>Diafásica</b> depende da <b>situação</b> (formal ou informal)</span></li></ol></div>\n<h3>11. Gêneros do trabalho policial</h3>\n<ul><li>O policial produz e lê muitos gêneros com <b>tipologia mista</b>, e saber identificá-los ajuda na prova e na prática:</li></ul>\n<table class=\"tab\"><thead><tr><th>Gênero</th><th>Tipos predominantes</th><th>Cuidados de linguagem</th></tr></thead><tbody><tr><td><b>Boletim de ocorrência</b></td><td><b>narração</b> (o que aconteceu, em ordem cronológica) + <b>descrição</b> (pessoas, objetos, local)</td><td>objetividade, clareza, <b>3ª pessoa</b>, sem juízos de valor ou suposições, registro fiel das versões (\"segundo a vítima...\")</td></tr><tr><td><b>Termo de declarações / depoimento</b></td><td><b>narração</b> em discurso indireto ou direto</td><td>fidelidade ao que foi dito, linguagem formal, sem alterar o sentido</td></tr><tr><td><b>Auto</b> (de prisão em flagrante, de apreensão, de reconhecimento)</td><td><b>descrição</b> e <b>narração</b></td><td>formalidades legais, precisão</td></tr><tr><td><b>Relatório</b> (do inquérito, de diligência)</td><td><b>narração</b> + <b>exposição</b> + conclusão</td><td>ordem lógica, impessoalidade, síntese das provas</td></tr><tr><td><b>Ofício</b> e <b>memorando</b> (comunicação)</td><td><b>expositivo/injuntivo</b></td><td>padrão oficial de redação (ver tópico de Redação oficial)</td></tr><tr><td><b>Laudo pericial</b></td><td><b>descrição</b> (visum et repertum) + <b>exposição</b> + conclusão</td><td>objetividade, linguagem técnica clara</td></tr></tbody></table>\n<ul><li><b>Erro comum</b> em boletins e relatórios: misturar <b>fatos</b> com <b>opiniões</b> (\"o suspeito, claramente culpado, fugiu\"). O texto deve <b>narrar e descrever</b>, deixando a avaliação jurídica para a autoridade competente.</li></ul>\n<h3>12. Como identificar o tipo e o gênero na prova</h3>\n<ul><li><b>Perguntas-chave</b>: o texto <b>conta</b> fatos no tempo (narração)? <b>Caracteriza</b> algo (descrição)? <b>Explica</b> um assunto (exposição)? <b>Defende</b> uma ideia (argumentação)? <b>Orienta</b> a fazer algo (injunção)?</li><li><b>Observe os verbos</b>: pretérito perfeito e ação → <b>narração</b>; verbos de estado e adjetivos → <b>descrição</b>; presente atemporal e conceitos → <b>exposição</b>; modalizadores, avaliações e conectivos argumentativos → <b>argumentação</b>; imperativo e infinitivo em sequência → <b>injunção</b>; futuro do presente → <b>predição</b>.</li><li><b>Observe a finalidade e o suporte</b> para nomear o <b>gênero</b>: um texto com lide em site de notícias → <b>notícia</b>; texto opinativo sem assinatura em jornal → <b>editorial</b>; texto com moral e animais → <b>fábula</b>; instruções de remédio → <b>bula</b>.</li><li><b>Pergunte qual tipo predomina</b>: quase todo gênero mistura tipos; a resposta certa é o tipo <b>predominante</b> ou o que corresponde à <b>finalidade</b> principal.</li></ul>\n<h3>13. Casos práticos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Identificando tipos</b><p>Trecho A: \"Na madrugada de sábado, dois homens renderam o vigia, arrombaram o cofre e fugiram em um carro prata.\" Trecho B: \"O imóvel tem três quartos, piso de cerâmica e janelas amplas voltadas para o norte.\" Trecho C: \"Misture a farinha com os ovos e leve ao forno por 30 minutos.\" Trecho D: \"O aumento da pena, isoladamente, não reduz a criminalidade; é preciso investir também na certeza da punição.\"</p><details><summary>Ver a solução comentada</summary><p><b>A</b> = <b>narração</b> (fatos em sequência, pretérito perfeito, verbos de ação). <b>B</b> = <b>descrição</b> (características, verbo de estado, adjetivos). <b>C</b> = <b>injunção</b> (imperativo, instrução). <b>D</b> = <b>argumentação</b> (tese e avaliação, conectivo, \"é preciso\").</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Identificando a função da linguagem</b><p>1) \"Vote consciente: o futuro da cidade está nas suas mãos.\" 2) \"Alô? Está me ouvindo? Alô?\" 3) \"Substantivo é a palavra que nomeia os seres.\" 4) \"Que saudade imensa eu sinto de casa!\" 5) \"A inflação de outubro foi de 0,4%.\" 6) \"Pedra, pedra, pedra no caminho do poeta, ritmo de pedra.\"</p><details><summary>Ver a solução comentada</summary><p><b>1</b> = <b>conativa</b> (imperativo, apelo ao receptor). <b>2</b> = <b>fática</b> (teste do canal). <b>3</b> = <b>metalinguística</b> (a língua explicando a língua). <b>4</b> = <b>emotiva</b> (emoção do emissor, exclamação). <b>5</b> = <b>referencial</b> (informação objetiva). <b>6</b> = <b>poética</b> (repetição, ritmo, foco na forma).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Variação linguística</b><p>Em uma tirinha, um personagem do interior diz: \"Ocê num vai trazê o trem que eu pidi?\" e outro, da capital, responde: \"Que trem? Eu não trouxe trem nenhum!\"</p><details><summary>Ver a solução comentada</summary><p>O humor nasce da <b>variação geográfica (diatópica)</b>: em parte de Minas Gerais, \"<b>trem</b>\" é usado como \"<b>coisa, objeto</b>\". Há também marcas de <b>oralidade</b> e de variedade <b>popular</b> (\"ocê\", \"trazê\", \"pidi\"). A interpretação correta não trata a fala do personagem como \"errada\", mas como <b>variedade regional</b> adequada àquele contexto informal; na redação de um ofício, porém, exigiria a norma-padrão.</p></details></div>\n<h3>14. Gêneros narrativos literários: diferenças</h3>\n<table class=\"tab\"><thead><tr><th>Gênero</th><th>Características</th></tr></thead><tbody><tr><td><b>Romance</b></td><td>narrativa <b>longa</b>, com <b>vários conflitos</b>, muitas personagens, tempo e espaço amplos, desenvolvimento psicológico</td></tr><tr><td><b>Novela</b></td><td>extensão <b>intermediária</b>, sucessão de episódios, menos personagens que o romance</td></tr><tr><td><b>Conto</b></td><td>narrativa <b>curta</b>, com <b>um conflito central</b>, poucas personagens, tempo e espaço reduzidos, efeito concentrado</td></tr><tr><td><b>Crônica</b></td><td>texto curto, <b>cotidiano</b>, tom de conversa, publicado em jornal; pode ser narrativa, reflexiva ou humorística</td></tr><tr><td><b>Fábula</b></td><td>animais personificados e <b>moral</b> explícita</td></tr><tr><td><b>Apólogo</b></td><td>semelhante à fábula, mas com <b>objetos</b> ou seres inanimados personificados (ex.: a agulha e a linha discutindo)</td></tr><tr><td><b>Parábola</b></td><td>narrativa com <b>pessoas</b> e ensinamento moral ou religioso, de forma alegórica</td></tr><tr><td><b>Lenda</b></td><td>narrativa popular que mistura fatos reais e fantasia, ligada a um lugar ou personagem</td></tr><tr><td><b>Mito</b></td><td>narrativa que explica a <b>origem</b> do mundo, dos fenômenos ou de costumes, com deuses e heróis</td></tr></tbody></table>\n<ul><li><b>Fábula x apólogo x parábola</b>: a diferença está nos <b>personagens</b>: <b>animais</b> (fábula), <b>objetos</b> (apólogo) e <b>pessoas</b> (parábola).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Apólogo é a fábula protagonizada por pessoas</span><br>✅ <span class=\"certo\"><b>Parábola</b> tem pessoas; o <b>apólogo</b> tem <b>objetos</b> personificados</span></li><li>❌ <span class=\"banca\">O conto apresenta vários conflitos paralelos e muitas personagens</span><br>✅ <span class=\"certo\">Isso caracteriza o <b>romance</b>; o conto tem <b>um conflito central</b></span></li></ol></div>\n<h3>15. Discurso direto, indireto e indireto livre (transposição)</h3>\n<ul><li><b>Discurso direto</b>: reproduz a fala <b>exatamente</b> como foi dita, com <b>verbo de elocução</b> (dizer, afirmar, perguntar, responder), dois-pontos e travessão ou aspas. Ex.: O delegado disse: <b>\"Eu vou ouvir a testemunha amanhã.\"</b></li><li><b>Discurso indireto</b>: o narrador <b>relata</b> a fala com suas palavras, em geral com \"<b>que</b>\" ou \"<b>se</b>\". Ex.: O delegado disse <b>que ouviria a testemunha no dia seguinte</b>.</li><li><b>Discurso indireto livre</b>: a fala ou o pensamento da personagem se mistura à narração, <b>sem</b> verbo de elocução e <b>sem</b> marcas gráficas. Ex.: \"O delegado olhou o relógio. <b>Amanhã ouviria aquela testemunha, custasse o que custasse.</b>\"</li></ul>\n<table class=\"tab\"><thead><tr><th>No discurso direto</th><th>No discurso indireto (verbo de elocução no passado)</th></tr></thead><tbody><tr><td><b>Presente</b> (\"Eu <b>vou</b> / <b>estou</b>\")</td><td><b>pretérito imperfeito</b> (\"ia\" / \"estava\")</td></tr><tr><td><b>Pretérito perfeito</b> (\"Eu <b>fiz</b>\")</td><td><b>pretérito mais-que-perfeito</b> (\"tinha feito\" / \"fizera\")</td></tr><tr><td><b>Futuro do presente</b> (\"Eu <b>farei</b>\")</td><td><b>futuro do pretérito</b> (\"faria\")</td></tr><tr><td><b>Imperativo</b> (\"<b>Saia</b>!\")</td><td><b>pretérito imperfeito do subjuntivo</b> (\"que saísse\")</td></tr><tr><td><b>1ª e 2ª pessoas</b> (\"eu\", \"você\")</td><td><b>3ª pessoa</b> (\"ele\", \"ela\")</td></tr><tr><td><b>Este, esta, isto</b></td><td><b>aquele, aquela, aquilo</b></td></tr><tr><td><b>Aqui</b></td><td><b>ali, lá</b></td></tr><tr><td><b>Hoje, amanhã, ontem</b></td><td><b>naquele dia, no dia seguinte, na véspera</b></td></tr></tbody></table>\n<ul><li><b>Exemplos</b>: Direto: A vítima afirmou: \"<b>Eu vi</b> o carro <b>aqui ontem</b>.\" → Indireto: A vítima afirmou que <b>tinha visto</b> o carro <b>ali na véspera</b>. Direto: O policial ordenou: \"<b>Abaixe</b> a arma!\" → Indireto: O policial ordenou que ele <b>abaixasse</b> a arma. Direto: Perguntou: \"<b>Você está</b> bem?\" → Indireto: Perguntou <b>se ele estava</b> bem.</li><li><b>Interesse prático</b>: nos <b>termos de declarações</b> e relatórios, a fala do depoente costuma ser registrada em discurso <b>indireto</b> (\"o declarante afirmou que...\"); trechos importantes podem ser reproduzidos em discurso <b>direto</b>, entre aspas, para preservar as palavras exatas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na passagem para o discurso indireto, o futuro do presente se mantém</span><br>✅ <span class=\"certo\">Passa ao <b>futuro do pretérito</b> (\"farei\" → \"faria\")</span></li><li>❌ <span class=\"banca\">O imperativo do discurso direto passa ao presente do indicativo</span><br>✅ <span class=\"certo\">Passa ao <b>imperfeito do subjuntivo</b> (\"saia\" → \"que saísse\")</span></li><li>❌ <span class=\"banca\">\"Hoje\", no discurso indireto, mantém-se \"hoje\"</span><br>✅ <span class=\"certo\">Passa a \"<b>naquele dia</b>\" (quando o verbo de elocução está no passado)</span></li></ol></div>\n<h3>16. Gêneros acadêmicos e técnicos</h3>\n<table class=\"tab\"><thead><tr><th>Gênero</th><th>Finalidade</th><th>Características</th></tr></thead><tbody><tr><td><b>Resumo</b></td><td>condensar</td><td>fiel ao original, <b>sem opinião</b>, em geral em 3ª pessoa</td></tr><tr><td><b>Resenha</b></td><td>descrever e <b>avaliar</b></td><td>resumo + crítica fundamentada</td></tr><tr><td><b>Fichamento</b></td><td>registrar leituras para estudo</td><td>citações, resumos e comentários organizados por obra</td></tr><tr><td><b>Artigo científico</b></td><td>divulgar pesquisa</td><td>introdução, metodologia, resultados, discussão, conclusão, referências</td></tr><tr><td><b>Relatório</b></td><td>relatar atividades, fatos ou resultados</td><td>objetivo, ordem lógica, conclusões e recomendações</td></tr><tr><td><b>Parecer</b></td><td>dar <b>opinião técnica</b> fundamentada sobre uma questão</td><td>ementa, relatório, fundamentação, conclusão (comum no Direito e na administração)</td></tr></tbody></table>\n<ul><li><b>Resumo de concurso</b> (quando pedido em prova discursiva): manter as <b>ideias principais</b> na ordem lógica do texto, usar as <b>próprias palavras</b> (paráfrase), <b>não</b> acrescentar opinião nem exemplos novos, respeitar o limite de linhas.</li></ul>\n<h3>17. Retextualização: da fala para a escrita formal</h3>\n<ul><li><b>Retextualizar</b> é transformar um texto em outro gênero ou modalidade, mantendo o conteúdo essencial. O caso mais comum no trabalho policial é passar a <b>fala</b> de uma pessoa (entrevista, depoimento) para um <b>texto escrito formal</b> (termo de declarações, relatório).</li><li><b>O que se ajusta</b>: retiram-se <b>marcas de oralidade</b> (repetições, hesitações, \"né\", \"tipo\", \"aí\"), organiza-se a <b>ordem</b> dos fatos, aplica-se a <b>norma-padrão</b> (concordância, regência, pontuação), substituem-se <b>gírias</b> por termos neutros, <b>sem alterar o sentido</b> do que foi dito.</li><li><b>Exemplo</b>: fala: \"Aí, tipo, eu tava lá na esquina, né, e o cara chegou de moto, aí ele puxou a arma e falou pra mim passar o celular.\" → escrita: \"O declarante relatou que estava na esquina quando um homem chegou de motocicleta, sacou uma arma e exigiu que ele entregasse o celular.\"</li><li><b>Cuidado</b>: a retextualização <b>não</b> pode <b>acrescentar</b> interpretação (\"o criminoso, agindo com frieza...\"), <b>omitir</b> dados relevantes ou trocar palavras que mudem o sentido (dizer \"ameaçou\" quando a pessoa disse apenas \"pediu\").</li></ul>\n<h3>18. Adequação de registro em textos profissionais</h3>\n<ul><li><b>E-mail institucional</b>: saudação e fecho cordiais e formais, assunto claro, linguagem objetiva, sem gírias, abreviações de mensagem (\"vc\", \"blz\") ou emojis.</li><li><b>Mensagens em grupos de trabalho</b>: mesmo em aplicativos, mensagens funcionais devem ser <b>claras e respeitosas</b>; informações sensíveis (dados de investigados, vítimas) exigem <b>sigilo</b> e canais oficiais.</li><li><b>Atendimento ao público</b>: adequar a linguagem ao interlocutor (explicar termos técnicos a quem não é da área) é parte da <b>eficiência</b> e da <b>urbanidade</b> no serviço público.</li><li><b>Princípio geral</b>: não existe linguagem \"certa\" em abstrato, e sim linguagem <b>adequada</b> ao gênero, ao interlocutor e à situação. O mesmo conteúdo pode ser dito de modo informal entre colegas e de modo formal em um ofício.</li></ul>\n<h3>19. Mais casos práticos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Gênero pelo contexto</b><p>Texto publicado na página 2 de um jornal, sem assinatura, com o título \"A cidade não pode esperar\", defendendo a construção de um novo hospital e criticando a demora da prefeitura.</p><details><summary>Ver a solução comentada</summary><p>É um <b>editorial</b>: texto <b>argumentativo</b>, <b>sem assinatura</b>, que expressa a <b>opinião do veículo</b>. Se o mesmo texto viesse assinado por um médico convidado, seria um <b>artigo de opinião</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Tipo predominante em texto misto</b><p>Uma reportagem conta a história de uma vítima de golpe (narração), descreve o modo de agir dos criminosos (descrição/exposição), traz dados da polícia (exposição) e termina com dicas de prevenção (injunção).</p><details><summary>Ver a solução comentada</summary><p>O <b>gênero</b> é a <b>reportagem</b>. O <b>tipo predominante</b> é o <b>expositivo</b> (informar sobre o golpe), com trechos <b>narrativos</b>, <b>descritivos</b> e <b>injuntivos</b> a serviço dessa finalidade. Se a questão perguntar o tipo do <b>último parágrafo</b>, a resposta é <b>injuntivo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Função da linguagem em anúncio</b><p>Campanha: \"Se beber, não dirija. Sua família espera você em casa.\"</p><details><summary>Ver a solução comentada</summary><p>Predomina a função <b>conativa</b>: imperativo (\"não dirija\"), apelo direto ao receptor (\"sua família espera <b>você</b>\"). Há também apelo <b>emocional</b> e, em menor grau, efeito <b>poético</b> na construção da frase.</p></details></div>\n<h3>20. Pegadinhas e dicas finais</h3>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Narração e descrição não podem aparecer no mesmo texto</span><br>✅ <span class=\"certo\">Quase todos os gêneros <b>mesclam</b> tipos</span></li><li>❌ <span class=\"banca\">A notícia é texto argumentativo</span><br>✅ <span class=\"certo\">A notícia é predominantemente <b>narrativa/expositiva</b>, com objetividade</span></li><li>❌ <span class=\"banca\">A carta pessoal tem função metalinguística predominante</span><br>✅ <span class=\"certo\">Predomina, em geral, a função <b>emotiva</b> (ou a conativa, conforme o objetivo)</span></li><li>❌ <span class=\"banca\">Gíria é sempre erro de português</span><br>✅ <span class=\"certo\">É variedade <b>social</b> legítima, inadequada apenas em contextos <b>formais</b></span></li></ol></div>\n<ul><li><b>Dica final</b>: diante de um texto, pergunte em sequência: <b>(1)</b> qual é a <b>finalidade</b> (informar, convencer, instruir, contar, caracterizar)? <b>(2)</b> qual <b>tipo</b> predomina, segundo os traços linguísticos? <b>(3)</b> em que <b>suporte</b> e <b>domínio</b> ele circula? <b>(4)</b> qual é o <b>gênero</b> resultante? <b>(5)</b> qual <b>função da linguagem</b> predomina? <b>(6)</b> o <b>registro</b> é adequado à situação? Com essas seis perguntas, a maioria das questões deste tópico se resolve com segurança.</li></ul>\n<h3>21. O texto dissertativo-argumentativo por dentro</h3>\n<ul><li>É o tipo cobrado nas <b>redações</b> de concurso. Conhecer sua estrutura ajuda tanto a <b>escrever</b> quanto a <b>interpretar</b> textos opinativos.</li><li><b>Introdução</b> (um parágrafo): <b>contextualiza</b> o tema e apresenta a <b>tese</b>. Estratégias comuns: <b>definição</b> do conceito central; <b>dado estatístico</b>; <b>contextualização histórica</b>; <b>citação</b> de autoridade; <b>pergunta retórica</b>; <b>contraste</b> entre o ideal (a lei, a Constituição) e a realidade. A tese deve ficar <b>clara</b>, de preferência já anunciando os argumentos que serão desenvolvidos.</li><li><b>Desenvolvimento</b> (geralmente dois ou três parágrafos): cada parágrafo traz <b>um argumento</b>, com <b>tópico frasal</b> (a ideia), <b>fundamentação</b> (explicação, causa, dado, exemplo, autoridade) e <b>fechamento</b> (ligação com a tese). Os parágrafos se ligam por <b>conectivos</b> (\"além disso\", \"por outro lado\", \"nesse sentido\", \"em contrapartida\").</li><li><b>Conclusão</b> (um parágrafo): <b>retoma</b> a tese com outras palavras, <b>sintetiza</b> os argumentos e, quando o edital pedir, apresenta <b>proposta de solução</b> (o que fazer, quem deve fazer, como fazer, para quê), respeitando os direitos humanos.</li><li><b>Coerência argumentativa</b>: os argumentos devem <b>sustentar</b> a tese, sem contradição; exemplos e dados devem ser <b>pertinentes</b>; a conclusão não pode trazer ideia <b>nova</b> que não foi desenvolvida.</li><li><b>Erros frequentes</b>: tese ausente ou vaga; parágrafos com várias ideias soltas; argumentos baseados apenas em <b>senso comum</b>; conclusão que só repete a introdução; uso de \"eu acho\"; linguagem informal; fuga ao tema (escrever sobre o assunto amplo e não sobre o recorte pedido).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A conclusão do texto argumentativo deve apresentar argumentos novos para surpreender o leitor</span><br>✅ <span class=\"certo\">A conclusão <b>retoma</b> e <b>sintetiza</b>; ideia nova sem desenvolvimento prejudica a coerência</span></li><li>❌ <span class=\"banca\">Cada parágrafo do desenvolvimento deve trazer vários argumentos diferentes</span><br>✅ <span class=\"certo\">O ideal é <b>um argumento por parágrafo</b>, bem fundamentado</span></li></ol></div>\n<h3>22. Sequências textuais (a visão de Adam)</h3>\n<ul><li>O linguista <b>Jean-Michel Adam</b> descreve os textos como combinações de <b>sequências</b>: <b>narrativa</b> (ações encadeadas com transformação), <b>descritiva</b> (propriedades e partes), <b>argumentativa</b> (dados → conclusão, com garantias e restrições), <b>explicativa</b> (problema → explicação → conclusão: \"por que\" e \"como\") e <b>dialogal</b> (turnos de fala).</li><li>Na prática das provas, a ideia central é a mesma da classificação tradicional: um texto é <b>heterogêneo</b>, composto de sequências diferentes, com uma <b>dominante</b>. A sequência <b>explicativa</b> corresponde, em grande parte, ao que se chama de <b>expositivo</b>.</li></ul>\n<h3>23. Elementos da comunicação e ruído</h3>\n<ul><li><b>Emissor</b> (quem envia), <b>receptor</b> (quem recebe), <b>mensagem</b> (o conteúdo), <b>código</b> (a língua ou sistema de sinais), <b>canal</b> (o meio físico: voz, papel, rádio, internet) e <b>referente</b> (o assunto, o contexto). São esses os elementos que Jakobson ligou às funções da linguagem.</li><li><b>Ruído</b>: qualquer interferência que <b>prejudica</b> a comunicação: barulho no ambiente, letra ilegível, palavra ambígua, termo técnico desconhecido do receptor, falha na conexão. Em atendimentos e comunicações operacionais (rádio), reduzir o ruído (falar pausadamente, usar códigos padronizados, confirmar o recebimento) é questão de <b>segurança</b>.</li><li><b>Redundância</b>: repetição de informação para <b>garantir</b> a compreensão, útil em comunicações por rádio (\"repito\"), embora deva ser evitada em textos escritos formais quando não acrescenta nada.</li><li><b>Feedback</b> (retorno): a resposta do receptor, que permite ao emissor saber se foi compreendido.</li></ul>\n<h3>24. Gêneros orais formais</h3>\n<ul><li><b>Seminário</b>: exposição oral planejada sobre um tema, com apoio de roteiro ou slides; predomina o tipo <b>expositivo</b>.</li><li><b>Debate</b>: confronto de posições sobre tema polêmico, com regras de tempo e de fala; predomina o <b>argumentativo</b>, com turnos.</li><li><b>Entrevista</b>: perguntas e respostas; pode ser jornalística, de emprego, de pesquisa ou <b>investigativa</b> (oitiva). Exige <b>perguntas claras</b>, sem induzir a resposta.</li><li><b>Palestra e aula</b>: exposição para um público, com finalidade <b>didática</b>.</li><li><b>Interesse prático</b>: a <b>oitiva</b> de testemunhas e vítimas é um gênero oral com regras próprias; perguntas abertas (\"o que aconteceu?\") favorecem relatos mais completos e menos influenciados do que perguntas fechadas ou sugestivas (\"ele estava de camisa vermelha, não estava?\").</li></ul>\n<h3>25. Exercícios comentados adicionais</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exposição ou argumentação?</b><p>Trecho: \"A cadeia de custódia é o conjunto de procedimentos que documentam a história cronológica de um vestígio, desde o reconhecimento até o descarte. Ela permite rastrear quem teve contato com o material e em que condições.\"</p><details><summary>Ver a solução comentada</summary><p>Predomina a <b>exposição</b>: o trecho <b>define</b> e <b>explica</b> um conceito, sem defender posição polêmica. Uma alternativa que diga que o autor \"<b>defende</b> a ampliação da cadeia de custódia\" <b>extrapola</b>. Se o trecho dissesse \"É <b>inadmissível</b> que ainda haja delegacias sem central de custódia; é <b>urgente</b> investir nisso\", passaria a ser <b>argumentativo</b> (avaliação e tese).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Gênero e registro</b><p>Uma mensagem enviada pelo celular de um servidor à chefia: \"e aí chefe, blz? amanhã n vou pq to ruim, vlw\".</p><details><summary>Ver a solução comentada</summary><p>O <b>gênero</b> (mensagem instantânea) admite certa informalidade, mas a situação (comunicação <b>funcional</b> com a chefia, justificando ausência) pede registro <b>mais formal</b>: \"Bom dia, senhor. Informo que não poderei comparecer amanhã por motivo de saúde. Apresentarei o atestado médico no retorno.\" A questão costuma perguntar sobre <b>adequação</b> de registro à situação, e não sobre \"erro\" da variedade informal em si.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Variação histórica</b><p>Texto antigo: \"Vossa mercê haverá de perdoar a demora desta carta, que a pharmácia da villa estava fechada.\"</p><details><summary>Ver a solução comentada</summary><p>Marcas de <b>variação histórica (diacrônica)</b>: o pronome de tratamento \"<b>Vossa mercê</b>\" (que deu origem a \"você\"), a grafia \"<b>pharmácia</b>\" e \"<b>villa</b>\" (anteriores às reformas ortográficas) e o uso de \"haverá de\" com sentido de dever. Não se trata de erro, mas de <b>estado anterior</b> da língua.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Gênero imitado</b><p>Cartaz de campanha contra o desperdício de água: \"Bula da água. Indicações: vida. Posologia: use com moderação. Contraindicações: torneira aberta enquanto escova os dentes.\"</p><details><summary>Ver a solução comentada</summary><p><b>Hibridismo</b>: o <b>gênero real</b> é a <b>campanha publicitária/institucional</b> (finalidade de persuadir), que <b>imita</b> a forma da <b>bula</b> (gênero do domínio da saúde) para chamar a atenção. Predominam a função <b>conativa</b> (persuadir) e o tipo <b>injuntivo</b> (orientar o comportamento).</p></details></div>\n<h3>26. Gêneros jornalísticos em detalhe</h3>\n<ul><li><b>Partes da matéria jornalística</b>: <b>manchete</b> (título principal da capa), <b>título</b> (da matéria), <b>linha fina</b> ou <b>subtítulo</b> (frase sob o título que completa a informação), <b>olho</b> (trecho destacado no meio do texto para atrair o leitor), <b>lide</b> (primeiro parágrafo), <b>corpo</b> (desenvolvimento, em ordem decrescente de importância, a chamada <b>pirâmide invertida</b>), <b>legenda</b> (texto da foto).</li><li><b>Pirâmide invertida</b>: na notícia, as informações <b>mais importantes</b> vêm <b>primeiro</b>; os detalhes, depois. Por isso o leitor que lê só o lide já sabe o essencial.</li><li><b>Fato x opinião</b>: a <b>notícia</b> e a <b>reportagem</b> devem separar o <b>fato</b> (verificável) da <b>opinião</b> (avaliação). Opiniões aparecem atribuídas a <b>fontes</b> (\"segundo o especialista...\") ou em gêneros <b>opinativos</b> (editorial, artigo, coluna, crônica, charge, carta do leitor).</li><li><b>Nota</b>: notícia muito curta, sem desenvolvimento. <b>Coluna</b>: espaço fixo assinado por um colunista, com opinião e informações de bastidores. <b>Entrevista pingue-pongue</b>: perguntas e respostas reproduzidas em sequência.</li><li><b>Títulos de notícia</b>: costumam usar <b>verbo no presente</b> para fatos passados (\"Polícia <b>prende</b> suspeito de assalto\"), linguagem <b>concisa</b> e omissão de artigos. É uma convenção do gênero, não erro.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na notícia, os detalhes vêm primeiro e o essencial no final</span><br>✅ <span class=\"certo\">É a <b>pirâmide invertida</b>: o essencial vem <b>primeiro</b> (lide)</span></li><li>❌ <span class=\"banca\">Usar o presente no título de notícia sobre fato passado é erro de tempo verbal</span><br>✅ <span class=\"certo\">É <b>convenção do gênero</b> (presente histórico/jornalístico)</span></li><li>❌ <span class=\"banca\">A charge é gênero informativo neutro</span><br>✅ <span class=\"certo\">A charge é gênero <b>opinativo/crítico</b></span></li></ol></div>\n<h3>27. Gêneros publicitários e estratégias de persuasão</h3>\n<ul><li><b>Propaganda</b> (ideias, causas, campanhas institucionais) e <b>publicidade</b> (produtos e serviços) são gêneros de função <b>conativa</b>, que buscam <b>persuadir</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Estratégia persuasiva</th><th>Como funciona</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Apelo emocional</b></td><td>desperta medo, afeto, culpa, orgulho</td><td>\"Sua família espera você em casa\"</td></tr><tr><td><b>Autoridade</b></td><td>uso de especialista ou instituição</td><td>\"Recomendado por dentistas\"</td></tr><tr><td><b>Testemunhal</b></td><td>pessoa conhecida ou consumidor comum relata a experiência</td><td>celebridade usando o produto</td></tr><tr><td><b>Humor</b></td><td>torna a mensagem simpática e memorável</td><td>trocadilhos, situações cômicas</td></tr><tr><td><b>Pertencimento / efeito manada</b></td><td>\"todos estão fazendo\"</td><td>\"Milhões de brasileiros já aderiram\"</td></tr><tr><td><b>Exclusividade / escassez</b></td><td>urgência e raridade</td><td>\"Últimas unidades\", \"só hoje\"</td></tr><tr><td><b>Slogan</b></td><td>frase curta e memorável associada à marca ou causa</td><td>recursos sonoros, rima, ritmo (função poética)</td></tr></tbody></table>\n<ul><li><b>Linguagem verbal e não verbal</b> se combinam: cores, imagens, tipografia e disposição na página reforçam a mensagem. Questões pedem a relação entre <b>imagem e texto</b>.</li><li><b>Leitura crítica</b>: identificar a estratégia persuasiva ajuda a perceber quando o texto <b>manipula</b> (exagero, generalização, dado sem fonte) em vez de <b>informar</b>.</li></ul>\n<h3>28. Gêneros do domínio jurídico (noções)</h3>\n<ul><li><b>Lei</b>: texto <b>prescritivo</b>, organizado em artigos, parágrafos, incisos e alíneas; linguagem impessoal, presente ou futuro com valor de obrigação (\"será\", \"é vedado\", \"compete\").</li><li><b>Petição</b>: texto <b>argumentativo</b> dirigido ao juiz, com narração dos fatos, fundamentos jurídicos e <b>pedido</b>.</li><li><b>Sentença</b>: decisão do juiz, com <b>relatório</b> (resumo do processo: narração/exposição), <b>fundamentação</b> (argumentação) e <b>dispositivo</b> (a decisão: injunção/prescrição).</li><li><b>Acórdão</b>: decisão de tribunal (órgão colegiado), com <b>ementa</b> (resumo dos pontos decididos).</li><li><b>Parecer</b>: opinião técnica fundamentada (do Ministério Público, de procuradores, de consultores).</li><li><b>Relatório do inquérito policial</b>: texto em que a autoridade <b>expõe</b> as diligências e as provas colhidas e, ao final, indica suas conclusões, em linguagem <b>objetiva</b> e <b>impessoal</b>.</li><li><b>Por que isso interessa</b>: em provas de nível superior, aparecem textos jurídicos para análise de tipologia e de linguagem (impessoalidade, precisão, formalidade), e o policial redige vários desses gêneros na rotina.</li></ul>\n<h3>29. Questões discursivas comentadas</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 1</b><p>\"Diferencie tipo textual de gênero textual e dê dois exemplos de gêneros em que predominem tipos diferentes.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: <b>tipo textual</b> é a <b>estrutura linguística</b> predominante de um texto (narração, descrição, exposição, argumentação, injunção), definida por traços como tempos verbais, organização e conectivos; os tipos são <b>poucos</b>. <b>Gênero textual</b> é o texto <b>concreto</b> que cumpre uma <b>função social</b> em determinado contexto e suporte (notícia, receita, editorial, boletim de ocorrência); os gêneros são <b>praticamente ilimitados</b> e costumam <b>mesclar</b> tipos. Exemplos: <b>receita</b> (gênero) com predomínio <b>injuntivo</b>; <b>editorial</b> (gênero) com predomínio <b>argumentativo</b>; <b>boletim de ocorrência</b> com predomínio <b>narrativo</b> e trechos descritivos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 2</b><p>\"Explique o que é variação linguística, cite seus tipos e comente a relação entre norma-padrão e preconceito linguístico.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: variação linguística é a característica de toda língua de <b>apresentar diferenças</b> conforme o <b>tempo</b> (diacrônica), o <b>lugar</b> (diatópica), o <b>grupo social</b> (diastrática) e a <b>situação</b> de comunicação (diafásica). A <b>norma-padrão</b> é a variedade de <b>prestígio</b>, exigida em contextos formais (documentos oficiais, provas, situações profissionais), mas <b>não</b> é a única legítima: as demais variedades seguem regras próprias e são adequadas a outros contextos. <b>Preconceito linguístico</b> é considerar \"erradas\" ou inferiores as variedades não padrão e, por extensão, discriminar seus falantes. O critério correto é a <b>adequação</b> da linguagem à situação.</p></details></div>\n<h3>30. Treino comentado: dez trechos para identificar</h3>\n<ul><li><b>1)</b> \"Às 14h, a equipe chegou ao local, isolou a área e acionou a perícia.\" → <b>narração</b> (ações em sequência, pretérito perfeito). Gênero provável: <b>relatório</b> ou <b>boletim</b>.</li><li><b>2)</b> \"O suspeito é alto, magro, tem tatuagem no antebraço esquerdo e usava boné preto.\" → <b>descrição</b> objetiva (características, verbos de estado). Gênero provável: <b>comunicado de busca</b> ou <b>termo de reconhecimento</b>.</li><li><b>3)</b> \"Denuncie: ligue 181. Sua identidade será preservada.\" → <b>injunção</b> e função <b>conativa</b> (imperativo, apelo ao leitor). Gênero: <b>campanha institucional</b>.</li><li><b>4)</b> \"A violência doméstica é um fenômeno complexo, que envolve fatores culturais, econômicos e psicológicos.\" → <b>exposição</b> (explica, sem tese polêmica). Gênero provável: <b>texto didático</b> ou <b>reportagem</b>.</li><li><b>5)</b> \"Não basta endurecer as penas; sem investigação eficiente, a impunidade continuará estimulando o crime.\" → <b>argumentação</b> (tese e justificativa). Gênero provável: <b>artigo de opinião</b> ou <b>editorial</b>.</li><li><b>6)</b> \"Amanhã, o céu ficará nublado, com possibilidade de chuva à tarde.\" → <b>predição</b> (futuro do presente). Gênero: <b>previsão do tempo</b>.</li><li><b>7)</b> \"— Onde o senhor estava ontem à noite? — Em casa, assistindo ao jogo.\" → <b>diálogo</b> (turnos de fala). Gênero: <b>entrevista/oitiva</b> ou trecho de narrativa.</li><li><b>8)</b> \"Substantivo é a classe de palavras que dá nome aos seres.\" → <b>exposição</b> e função <b>metalinguística</b>. Gênero: <b>gramática</b> ou <b>material didático</b>.</li><li><b>9)</b> \"Que alívio ver meu filho de volta, depois de três dias de angústia!\" → função <b>emotiva</b> (emoção do emissor, exclamação). Gênero: <b>depoimento pessoal</b>, <b>carta</b> ou <b>post</b>.</li><li><b>10)</b> \"Alguém aí? Pessoal, tá chegando o áudio?\" → função <b>fática</b> (teste do canal). Contexto: <b>reunião virtual</b> ou <b>rádio</b>.</li></ul>\n<h3>31. Recursos linguísticos típicos de cada tipo</h3>\n<ul><li><b>Narração</b>: conectivos <b>temporais</b> (quando, depois, em seguida, enquanto, no dia seguinte), verbos de <b>ação</b> e de <b>movimento</b>, alternância entre <b>pretérito perfeito</b> (ações pontuais: \"entrou\", \"gritou\") e <b>imperfeito</b> (ações em curso, hábitos, cenário: \"chovia\", \"costumava\"), uso do <b>mais-que-perfeito</b> para fatos anteriores a outros (\"quando a polícia chegou, o suspeito <b>tinha fugido</b>\").</li><li><b>Descrição</b>: <b>adjetivos</b>, <b>locuções adjetivas</b> (\"de cor azul\", \"de madeira\"), <b>orações adjetivas</b> (\"que usava boné\"), <b>verbos de ligação</b>, <b>comparações</b> (\"alto como o pai\"), enumerações, organização <b>espacial</b> (de cima para baixo, da esquerda para a direita, do geral para o particular).</li><li><b>Exposição</b>: <b>definições</b> (\"X é...\"), <b>classificações</b> (\"divide-se em...\"), <b>exemplos</b> (\"por exemplo\", \"como\"), <b>explicações</b> de causa (\"isso ocorre porque...\"), presente <b>atemporal</b>, vocabulário técnico, 3ª pessoa.</li><li><b>Argumentação</b>: conectivos <b>argumentativos</b> (portanto, logo, porém, embora, além disso, afinal, com efeito), <b>modalizadores</b> (é necessário, certamente, talvez), <b>avaliações</b> (adjetivos e advérbios valorativos: \"inaceitável\", \"felizmente\"), <b>perguntas retóricas</b>, citações, dados.</li><li><b>Injunção</b>: <b>imperativo</b> ou <b>infinitivo</b>, enumeração de <b>passos</b>, advérbios de <b>modo</b> e de <b>tempo</b> (\"cuidadosamente\", \"em seguida\"), condicionais (\"se a luz piscar, desligue\").</li><li><b>Por que isso importa</b>: as questões costumam pedir qual <b>marca linguística</b> comprova o tipo predominante. Responder \"o uso do imperativo comprova o caráter injuntivo\" ou \"a sequência de ações no pretérito perfeito comprova a narração\" é exatamente o que a banca espera.</li></ul>\n<h3>32. Exercício: o boletim de ocorrência mal redigido</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Corrigindo o BO</b><p>Versão inadequada: \"O vagabundo, que já é conhecido de todo mundo, chegou todo agressivo e com certeza queria roubar, aí a vítima, coitada, entregou tudo.\" Versão adequada: \"Segundo a vítima, um homem, por ela reconhecido como morador do bairro, aproximou-se em atitude agressiva e exigiu a entrega de seus pertences, o que ela fez.\"</p><details><summary>Ver a solução comentada</summary><p><b>Problemas da primeira versão</b>: termos <b>pejorativos</b> e juízos de valor (\"vagabundo\", \"coitada\"), <b>suposições</b> apresentadas como fato (\"com certeza queria roubar\"), <b>generalização</b> sem base (\"conhecido de todo mundo\"), marcas de <b>oralidade</b> (\"aí\", \"todo agressivo\"). <b>Acertos da segunda</b>: <b>atribuição</b> da informação à fonte (\"segundo a vítima\"), <b>narração objetiva</b> em 3ª pessoa, <b>descrição</b> neutra (\"atitude agressiva\"), norma-padrão. O BO é <b>documento</b> que pode instruir um processo: precisa ser <b>fiel</b>, <b>claro</b>, <b>objetivo</b> e <b>impessoal</b>, e o juízo sobre o crime cabe à autoridade e ao juiz.</p></details></div>\n<h3>33. Intertextualidade entre gêneros e paródia</h3>\n<ul><li>Um texto pode <b>dialogar</b> com outro gênero de várias formas: <b>paródia</b> (imita com intenção <b>crítica</b> ou <b>humorística</b>, alterando o sentido: uma \"receita de como perder um concurso\"), <b>paráfrase</b> (reescreve mantendo o sentido), <b>pastiche</b> (imitação de estilo, sem intenção necessariamente crítica), <b>citação</b> e <b>alusão</b>.</li><li>Esse diálogo é frequente em <b>charges</b>, <b>propagandas</b> e <b>crônicas</b>. A questão pode pedir o <b>gênero original</b> imitado, o <b>efeito</b> produzido (humor, crítica, chamar a atenção) ou a <b>função</b> predominante.</li><li><b>Exemplo</b>: um poema escrito como <b>notícia de jornal</b> (\"Coração é encontrado partido no centro da cidade; testemunhas relatam saudade\") usa a <b>forma</b> da notícia (manchete, lide) com sentido <b>figurado</b> e <b>lírico</b>: o gênero real é o <b>poema</b>, com função <b>poética/emotiva</b>, e o gênero imitado é a <b>notícia</b>.</li></ul>\n<h3>34. Funções da linguagem: casos que confundem</h3>\n<ul><li><b>Várias funções no mesmo texto</b>: um anúncio pode ter função <b>conativa</b> (persuadir), <b>poética</b> (slogan com rima) e <b>referencial</b> (preço, endereço). A questão pede a <b>predominante</b>, que se identifica pela <b>finalidade principal</b> do texto (no anúncio, convencer = conativa).</li><li><b>Metalinguagem fora da gramática</b>: um <b>filme sobre fazer cinema</b>, uma <b>música que fala de compor música</b>, um <b>poema sobre escrever poemas</b> e um <b>verbete</b> de dicionário são metalinguísticos: o código fala de si mesmo. Um texto <b>sobre</b> cinema que não discute a linguagem do cinema (uma crítica de filme comum) não é necessariamente metalinguístico.</li><li><b>Emotiva x conativa</b>: \"Estou tão cansado!\" (foco no <b>eu</b>: emotiva); \"Descanse um pouco!\" (foco no <b>você</b>: conativa).</li><li><b>Fática além do \"alô\"</b>: cumprimentos (\"bom dia\", \"tudo bem?\"), expressões que mantêm a conversa (\"hum, hum\", \"sei\", \"entendi\", \"né?\") e despedidas também são fáticos: servem para <b>abrir, manter ou fechar</b> o canal.</li><li><b>Referencial e objetividade</b>: notícias, laudos, relatórios e verbetes científicos são <b>referenciais</b>; isso <b>não</b> significa ausência total de escolhas do autor, mas predomínio da <b>informação</b> sobre a emoção ou o apelo.</li></ul>\n<h3>35. Variação linguística no atendimento ao público</h3>\n<ul><li>O policial atende pessoas de <b>origens, idades e escolaridades</b> muito diferentes. Compreender as <b>variedades</b> regionais e sociais (gírias, expressões locais, sotaques) é necessário para <b>entender</b> corretamente relatos e evitar mal-entendidos que podem prejudicar uma investigação.</li><li><b>Linguagem simples</b>: ao explicar direitos, procedimentos ou documentos a um cidadão, deve-se usar linguagem <b>clara e acessível</b>, explicando termos técnicos (\"representação\", \"medida protetiva\", \"termo circunstanciado\"). Isso é <b>adequação</b> de registro, e não \"rebaixar\" a linguagem.</li><li><b>Registro nos documentos</b>: a fala informal do cidadão é <b>compreendida</b> no atendimento e <b>retextualizada</b> na norma-padrão no documento, sem alterar o sentido; quando a expressão exata importa (uma ameaça, um apelido, uma gíria que identifica o autor), ela é registrada <b>entre aspas</b>, como dita.</li><li><b>Respeito</b>: corrigir ou ridicularizar a forma de falar de alguém durante o atendimento é <b>preconceito linguístico</b> e fere a <b>urbanidade</b> exigida do servidor.</li></ul>\n<h3>36. Exercício final comentado: um texto, várias perguntas</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto (autoral)</b><p>\"Prezados moradores, informamos que, a partir de segunda-feira, o portão principal do condomínio ficará fechado entre 22h e 6h. Nesse horário, a entrada será feita apenas pelo portão lateral, com identificação na portaria. A medida foi aprovada em assembleia, após três ocorrências de furto no estacionamento. Contamos com a colaboração de todos.\"</p><details><summary>Ver a solução comentada</summary><p><b>Gênero</b>: <b>comunicado</b> (aviso) de condomínio. <b>Tipo predominante</b>: <b>injuntivo/expositivo</b> (informa e orienta comportamentos: horários, procedimento de entrada). <b>Trecho narrativo</b>: \"A medida foi aprovada em assembleia, após três ocorrências de furto\" (relata fatos que justificam a medida). <b>Função da linguagem</b>: predominantemente <b>referencial</b> (informar), com traço <b>conativo</b> no fecho (\"Contamos com a colaboração de todos\") e <b>fático</b> na saudação (\"Prezados moradores\"). <b>Registro</b>: <b>formal</b>, adequado ao gênero. <b>Pressuposto</b> de \"a partir de segunda-feira... ficará fechado\": <b>hoje</b> o portão <b>não</b> fica fechado nesse horário. <b>Inferência válida</b>: a medida tem relação com a <b>segurança</b> (os furtos são citados como motivo). <b>Inferência inválida</b>: \"os furtos foram cometidos por moradores\" (o texto não diz) ou \"o portão lateral ficará fechado\" (contradição).</p></details></div>\n<ul><li><b>Por que este exercício é útil</b>: em uma única questão, a banca pode combinar <b>gênero</b>, <b>tipo</b>, <b>função da linguagem</b>, <b>registro</b>, <b>pressuposto</b> e <b>inferência</b>. Ler o texto com essas lentes, de forma organizada, permite responder a todas as perguntas com segurança e rapidez.</li></ul>\n<h3>37. Perguntas de revisão para responder sem consultar</h3>\n<ul><li>Qual a diferença entre <b>tipo</b> e <b>gênero</b>? Dê um exemplo de gênero que mescla três tipos.</li><li>Quais marcas linguísticas indicam <b>narração</b>, <b>descrição</b>, <b>exposição</b>, <b>argumentação</b> e <b>injunção</b>?</li><li>O que distingue <b>editorial</b> de <b>artigo de opinião</b>, <b>resumo</b> de <b>resenha</b>, <b>notícia</b> de <b>reportagem</b>?</li><li>Qual é a diferença entre <b>fábula</b>, <b>apólogo</b> e <b>parábola</b>?</li><li>Associe cada <b>função da linguagem</b> ao elemento da comunicação e dê um exemplo de cada.</li><li>O que são variações <b>diacrônica</b>, <b>diatópica</b>, <b>diastrática</b> e <b>diafásica</b>? O que é <b>preconceito linguístico</b>?</li><li>Como fica, no discurso <b>indireto</b>, a frase: O policial disse: \"Amanhã eu volto aqui\"? (Resposta: O policial disse que <b>no dia seguinte voltaria ali</b>.)</li><li>Por que o <b>boletim de ocorrência</b> deve ser objetivo e impessoal? Quais erros de linguagem devem ser evitados?</li><li>Se você conseguir responder a essas perguntas com segurança, o conteúdo essencial do tópico está dominado. Caso contrário, volte à seção correspondente e refaça as questões dela.</li><li><b>Ligação com outros tópicos de Português</b>: este tópico se apoia na <b>Interpretação</b> (tese, vozes, inferência), conversa com <b>Semântica</b> (figuras, intertextualidade, sentido das palavras), com <b>Coesão</b> (conectivos de cada tipo) e com <b>Redação oficial</b> (gêneros administrativos como ofício e requerimento, com padrão próprio). Ao estudar esses tópicos, volte aqui para revisar como cada <b>gênero</b> organiza a linguagem, e use os exercícios comentados como modelo para analisar os textos das provas anteriores da sua banca. Assim, o estudo deixa de ser uma lista de definições soltas e passa a ser uma ferramenta de <b>leitura</b> e de <b>escrita</b> para a prova e para o trabalho.</li><li><b>Mais um par que confunde: relato x narrativa ficcional</b>. O <b>relato</b> (pessoal, de viagem, de experiência, de ocorrência) conta fatos <b>reais</b> vividos ou presenciados, geralmente em ordem cronológica, com compromisso com a <b>verdade</b>; a <b>narrativa ficcional</b> (conto, romance) conta fatos <b>inventados</b>, ainda que verossímeis. O depoimento de uma testemunha e o boletim de ocorrência pertencem ao universo do <b>relato</b>: por isso, a fidelidade aos fatos e a identificação da fonte de cada informação são exigências do gênero, e não apenas de estilo. Em provas, a banca pode apresentar um relato real e perguntar se se trata de texto ficcional: a presença de dados verificáveis (datas, nomes de lugares reais, compromisso com a veracidade) indica o <b>relato</b>.</li><li><b>E o texto que mistura tudo?</b> Alguns gêneros contemporâneos (como os <b>posts</b> longos de redes sociais, os <b>podcasts</b> transcritos e as <b>reportagens multimídia</b>) misturam narração pessoal, explicação, opinião, imagens e links. Diante deles, a pergunta continua a mesma: qual é a <b>finalidade principal</b>? Se o post conta uma experiência para <b>alertar</b> sobre um golpe, a finalidade é <b>orientar</b> (traço injuntivo/argumentativo), ainda que a maior parte do texto seja <b>narrativa</b>. A banca valoriza o candidato que percebe essa diferença entre <b>o que predomina na superfície</b> e <b>para que o texto foi escrito</b>.</li></ul>\n<h3>38. Resumo em uma página</h3>\n<ul><li><b>Tipo x gênero</b>: tipos são <b>poucos</b> (estrutura); gêneros são <b>muitos</b> (função social); gêneros <b>mesclam</b> tipos, com um predominante.</li><li><b>Narração</b>: fatos no tempo, verbos de ação, pretérito; elementos: narrador, personagens, enredo, tempo, espaço, conflito; foco em 1ª ou 3ª pessoa (observador ou onisciente).</li><li><b>Descrição</b>: características, verbos de estado, adjetivos; <b>objetiva</b> (laudos, BO) ou <b>subjetiva</b> (literatura).</li><li><b>Exposição</b>: explicar sem polêmica (enciclopédia, aula). <b>Argumentação</b>: tese + argumentos (artigo, editorial); estrutura introdução, desenvolvimento, conclusão.</li><li><b>Injunção</b>: instruções, imperativo (receita, manual). <b>Predição</b>: futuro (previsão do tempo).</li><li><b>Gêneros-chave</b>: notícia (lide, pirâmide invertida), reportagem (aprofunda), editorial (sem assinatura) x artigo (assinado), resumo (sem opinião) x resenha (avalia), crônica (cotidiano), fábula (animais), apólogo (objetos), parábola (pessoas), charge (crítica atual) x cartum (atemporal).</li><li><b>Funções da linguagem</b>: emotiva (emissor), conativa (receptor), referencial (assunto), poética (mensagem), fática (canal), metalinguística (código).</li><li><b>Variação</b>: diacrônica (tempo), diatópica (lugar), diastrática (grupo social), diafásica (situação); norma-padrão = prestígio, não única legítima; <b>adequação</b> e combate ao <b>preconceito linguístico</b>.</li><li><b>Discurso</b>: direto (fala exata), indireto (relatada: presente → imperfeito; futuro → futuro do pretérito; imperativo → imperfeito do subjuntivo; hoje → naquele dia), indireto livre (mistura).</li></ul>\n<h3>39. Como estudar este tópico</h3>\n<ul><li><b>Leia gêneros variados</b> com olhar de \"classificador\": ao ler uma notícia, identifique o lide; num editorial, a tese; numa propaganda, a função conativa e as estratégias.</li><li><b>Monte fichas</b> com os pares que mais confundem (editorial x artigo; resumo x resenha; fábula x apólogo x parábola; fática x conativa; diatópica x diastrática x diafásica x diacrônica).</li><li><b>Pratique a transposição</b> de discurso direto para indireto com frases do dia a dia e da rotina policial (\"O suspeito disse: 'Eu não estava lá'\" → \"O suspeito disse que não estava lá\").</li><li><b>Resolva questões</b> da banca do seu concurso e, ao errar, anote qual distinção falhou. Este tópico tem muitas definições parecidas: a repetição espaçada (flashcards) é a melhor estratégia para fixá-las.</li></ul>\n<h3>40. Como as bancas cobram este tópico</h3>\n<ul><li><b>Identificação do tipo predominante</b> em um trecho ou texto, com atenção aos traços linguísticos (tempos verbais, adjetivos, imperativo).</li><li><b>Identificação do gênero</b> a partir da finalidade e do suporte (notícia, editorial, crônica, resenha, charge, anúncio).</li><li><b>Diferenças finas</b>: editorial x artigo de opinião; resumo x resenha; notícia x reportagem; exposição x argumentação.</li><li><b>Funções da linguagem</b>: em especial, <b>conativa</b> (propaganda), <b>metalinguística</b> (texto que fala da linguagem), <b>fática</b> (contato) e <b>poética</b> (forma).</li><li><b>Variação linguística</b>: nomes técnicos (<b>diacrônica</b>, <b>diatópica</b>, <b>diastrática</b>, <b>diafásica</b>), adequação ao contexto e <b>preconceito linguístico</b>.</li><li><b>Hibridismo de gêneros</b>: anúncio em forma de receita, poema em forma de notícia.</li></ul>\n<h3>41. Glossário e mapa de revisão</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Tipo textual</b></td><td>estrutura linguística predominante (poucos tipos)</td></tr><tr><td><b>Gênero textual</b></td><td>texto concreto com função social (muitos gêneros)</td></tr><tr><td><b>Domínio discursivo</b></td><td>esfera social de circulação (jornalística, jurídica...)</td></tr><tr><td><b>Suporte</b></td><td>meio em que o texto circula</td></tr><tr><td><b>Narração</b></td><td>fatos no tempo, com personagens</td></tr><tr><td><b>Descrição</b></td><td>características, \"fotografia\"</td></tr><tr><td><b>Exposição</b></td><td>explicar, informar sem polêmica</td></tr><tr><td><b>Argumentação</b></td><td>defender tese</td></tr><tr><td><b>Injunção</b></td><td>instruir, orientar</td></tr><tr><td><b>Predição</b></td><td>anunciar o futuro</td></tr><tr><td><b>Lide</b></td><td>primeiro parágrafo da notícia</td></tr><tr><td><b>Editorial</b></td><td>opinião do veículo, sem assinatura</td></tr><tr><td><b>Resenha</b></td><td>resumo + avaliação</td></tr><tr><td><b>Hibridismo</b></td><td>um gênero na forma de outro</td></tr><tr><td><b>Função conativa</b></td><td>foco no receptor</td></tr><tr><td><b>Função fática</b></td><td>foco no canal</td></tr><tr><td><b>Função metalinguística</b></td><td>código explicando o código</td></tr><tr><td><b>Diacrônica / diatópica / diastrática / diafásica</b></td><td>variação no tempo / no espaço / social / situacional</td></tr><tr><td><b>Preconceito linguístico</b></td><td>discriminar variedades não padrão</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tipos textuais</span></span><span class=\"vs\"><span>poucos: narração, descrição, exposição, argumentação, injunção</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gêneros textuais</span></span><span class=\"vs\"><span>muitos, definidos pela função social</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Narração</span></span><span class=\"vs\"><span>fatos no tempo, verbos de ação, pretérito perfeito</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Descrição</span></span><span class=\"vs\"><span>características, verbos de estado, adjetivos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exposição</span></span><span class=\"vs\"><span>explicar sem defender tese</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Argumentação</span></span><span class=\"vs\"><span>tese + argumentos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Injunção</span></span><span class=\"vs\"><span>instruções, imperativo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lide</span></span><span class=\"vs\"><span>primeiro parágrafo da notícia (o quê, quem, quando, onde, como, por quê)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Editorial</span></span><span class=\"vs\"><span>opinião do veículo, sem assinatura</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Artigo de opinião</span></span><span class=\"vs\"><span>opinião do autor, assinado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Resumo x resenha</span></span><span class=\"vs\"><span>resumo não opina; resenha avalia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Função conativa</span></span><span class=\"vs\"><span>foco no receptor (propaganda)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Função metalinguística</span></span><span class=\"vs\"><span>código falando do código (dicionário)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Função fática</span></span><span class=\"vs\"><span>testar o canal (\"alô?\")</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Função poética</span></span><span class=\"vs\"><span>foco na forma (poema, slogan)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Variação diatópica</span></span><span class=\"vs\"><span>geográfica</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Variação diastrática</span></span><span class=\"vs\"><span>social (gírias, jargões)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Variação diafásica</span></span><span class=\"vs\"><span>situacional (formal x informal)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Variação diacrônica</span></span><span class=\"vs\"><span>histórica</span></span></button></div></div>",
 "quiz": [
+{
+"p": "Os tipos textuais são poucos e definidos pela estrutura linguística, enquanto os gêneros textuais são praticamente ilimitados e definidos pela função social.",
+"c": true,
+"prof": "Tipo x gênero.",
+"x": "Ex.: tipo injuntivo; gênero receita.",
+"e": "Tipo x gênero."
+},
+{
+"p": "Receita, notícia e editorial são exemplos de tipos textuais.",
+"c": false,
+"prof": "Tipo x gênero.",
+"x": "São gêneros textuais.",
+"e": "Gêneros, não tipos."
+},
+{
+"p": "Um mesmo gênero pode mesclar vários tipos textuais, com um deles predominante.",
+"c": true,
+"prof": "Tipo x gênero.",
+"x": "Ex.: boletim de ocorrência: narração + descrição.",
+"e": "Mistura de tipos."
+},
+{
+"p": "Domínio discursivo é a esfera social em que os gêneros circulam, como o jornalístico, o jurídico e o acadêmico.",
+"c": true,
+"prof": "Domínio discursivo.",
+"x": "Suporte é o meio físico ou virtual.",
+"e": "Domínio discursivo."
+},
+{
+"p": "A narração conta fatos que se sucedem no tempo, com predominância de verbos de ação no pretérito.",
+"c": true,
+"prof": "Narração.",
+"x": "Responde a \"o que aconteceu?\".",
+"e": "Narração."
+},
+{
+"p": "São elementos da narrativa o narrador, as personagens, o enredo, o tempo, o espaço e o conflito.",
+"c": true,
+"prof": "Narração.",
+"x": "Estrutura: situação inicial, complicação, clímax, desfecho.",
+"e": "Elementos da narrativa."
+},
+{
+"p": "O clímax é o momento de maior tensão da narrativa.",
+"c": true,
+"prof": "Narração.",
+"x": "Precede o desfecho.",
+"e": "Clímax."
+},
+{
+"p": "Flashback é a volta ao passado na narrativa, típica do tempo psicológico.",
+"c": true,
+"prof": "Narração.",
+"x": "Tempo psicológico tem idas e vindas.",
+"e": "Flashback."
+},
+{
+"p": "A fábula é narrativa com animais personificados que transmite um ensinamento moral.",
+"c": true,
+"prof": "Gêneros narrativos.",
+"x": "Termina com a moral.",
+"e": "Fábula."
+},
+{
+"p": "A descrição apresenta características de seres, objetos ou lugares, com predominância de adjetivos e verbos de estado.",
+"c": true,
+"prof": "Descrição.",
+"x": "Responde a \"como é?\".",
+"e": "Descrição."
+},
+{
+"p": "A descrição objetiva é impessoal e precisa, sendo a adequada para laudos e descrição de suspeitos.",
+"c": true,
+"prof": "Descrição.",
+"x": "A subjetiva traz impressões pessoais.",
+"e": "Descrição objetiva."
+},
+{
+"p": "A descrição caracteriza-se pela progressão temporal dos fatos.",
+"c": false,
+"prof": "Descrição.",
+"x": "Na descrição, as características são simultâneas; a progressão temporal é da narração.",
+"e": "Descrição sem progressão."
+},
+{
+"p": "A dissertação expositiva explica e informa sem defender posição polêmica.",
+"c": true,
+"prof": "Dissertação.",
+"x": "Ex.: verbete de enciclopédia.",
+"e": "Expositiva."
+},
+{
+"p": "A dissertação argumentativa busca convencer o leitor, defendendo uma tese com argumentos.",
+"c": true,
+"prof": "Dissertação.",
+"x": "Ex.: artigo de opinião, editorial.",
+"e": "Argumentativa."
+},
+{
+"p": "Todo texto dissertativo defende uma tese.",
+"c": false,
+"prof": "Dissertação.",
+"x": "A expositiva não defende tese polêmica.",
+"e": "Expositiva sem tese."
+},
+{
+"p": "Na redação formal de concurso, recomenda-se a impessoalidade, evitando expressões como \"eu acho\".",
+"c": true,
+"prof": "Dissertação.",
+"x": "Prefere-se a 3ª pessoa.",
+"e": "Impessoalidade."
+},
+{
+"p": "O texto injuntivo orienta o leitor a fazer algo, com verbos no imperativo ou no infinitivo.",
+"c": true,
+"prof": "Injunção.",
+"x": "Ex.: receita, manual.",
+"e": "Injunção."
+},
+{
+"p": "Manuais de instruções, receitas e regulamentos são gêneros em que predomina o tipo injuntivo.",
+"c": true,
+"prof": "Injunção.",
+"x": "Também placas de orientação e tutoriais.",
+"e": "Gêneros injuntivos."
+},
+{
+"p": "A predição anuncia o que vai acontecer, com predomínio do futuro do presente.",
+"c": true,
+"prof": "Predição.",
+"x": "Ex.: previsão do tempo.",
+"e": "Predição."
+},
+{
+"p": "O lide é o primeiro parágrafo da notícia, que responde às perguntas essenciais sobre o fato.",
+"c": true,
+"prof": "Notícia.",
+"x": "O quê, quem, quando, onde, como, por quê.",
+"e": "Lide."
+},
+{
+"p": "O editorial expressa a opinião do veículo e não é assinado; o artigo de opinião é assinado e expressa a opinião do autor.",
+"c": true,
+"prof": "Editorial x artigo.",
+"x": "Ambos são argumentativos.",
+"e": "Editorial x artigo."
+},
+{
+"p": "O editorial é assinado por um jornalista e representa sua opinião pessoal.",
+"c": false,
+"prof": "Editorial.",
+"x": "Representa a opinião do veículo, sem assinatura.",
+"e": "Editorial sem assinatura."
+},
+{
+"p": "O resumo condensa as ideias principais sem opinião, enquanto a resenha resume e avalia a obra.",
+"c": true,
+"prof": "Resumo x resenha.",
+"x": "A resenha tem parte crítica.",
+"e": "Resumo x resenha."
+},
+{
+"p": "A reportagem aprofunda um tema, com pesquisa, dados e várias fontes, sendo em geral mais longa que a notícia.",
+"c": true,
+"prof": "Notícia x reportagem.",
+"x": "A notícia informa o fato recente.",
+"e": "Reportagem."
+},
+{
+"p": "A crônica é gênero curto, ligado ao cotidiano, com linguagem próxima da oral e tom leve ou reflexivo.",
+"c": true,
+"prof": "Crônica.",
+"x": "Publicada em jornais e revistas.",
+"e": "Crônica."
+},
+{
+"p": "A bula combina características expositivas e injuntivas.",
+"c": true,
+"prof": "Bula.",
+"x": "Informa e orienta o uso.",
+"e": "Bula."
+},
+{
+"p": "Hibridismo de gêneros ocorre quando um gênero assume a forma de outro, como um anúncio escrito em forma de receita.",
+"c": true,
+"prof": "Hibridismo.",
+"x": "Gera humor e chama a atenção.",
+"e": "Hibridismo."
+},
+{
+"p": "Gêneros digitais, como posts e mensagens instantâneas, costumam ser multimodais e apresentar registro informal.",
+"c": true,
+"prof": "Gêneros digitais.",
+"x": "Usam hipertexto, imagens e emojis.",
+"e": "Digitais."
+},
+{
+"p": "A função conativa da linguagem tem foco no receptor e é predominante nas propagandas, com uso do imperativo.",
+"c": true,
+"prof": "Funções da linguagem.",
+"x": "Também discursos e campanhas.",
+"e": "Conativa."
+},
+{
+"p": "A função emotiva tem foco no emissor e expressa emoções e opiniões, com marcas de 1ª pessoa e exclamações.",
+"c": true,
+"prof": "Funções da linguagem.",
+"x": "Ex.: cartas pessoais, diários.",
+"e": "Emotiva."
+},
+{
+"p": "A função referencial tem foco no assunto e informa de modo objetivo, predominando em notícias e textos científicos.",
+"c": true,
+"prof": "Funções da linguagem.",
+"x": "Linguagem denotativa.",
+"e": "Referencial."
+},
+{
+"p": "A função fática tem foco no canal e busca testar ou manter o contato, como em \"Alô? Está me ouvindo?\".",
+"c": true,
+"prof": "Funções da linguagem.",
+"x": "Cumprimentos também.",
+"e": "Fática."
+},
+{
+"p": "A função fática tem como foco o receptor e busca convencê-lo.",
+"c": false,
+"prof": "Funções da linguagem.",
+"x": "Foco no receptor é a conativa; a fática foca o canal.",
+"e": "Fática: canal."
+},
+{
+"p": "A função metalinguística ocorre quando o código explica o próprio código, como em verbetes de dicionário e gramáticas.",
+"c": true,
+"prof": "Funções da linguagem.",
+"x": "Também poema sobre fazer poemas.",
+"e": "Metalinguística."
+},
+{
+"p": "A função poética tem foco na forma da mensagem e aparece também em slogans e propagandas criativas.",
+"c": true,
+"prof": "Funções da linguagem.",
+"x": "Não é exclusiva da poesia.",
+"e": "Poética."
+},
+{
+"p": "Em \"Pedra, pedra, pedra no caminho do poeta, ritmo de pedra\", predomina a função:",
+"alts": [
+"fática",
+"conativa",
+"referencial",
+"poética",
+"metalinguística"
+],
+"r": 3,
+"n": [
+"Não há teste de canal.",
+"Não há apelo ao receptor.",
+"Não é informação objetiva.",
+"Correta: repetição, ritmo, foco na forma.",
+"Não explica o código."
+],
+"prof": "Funções da linguagem.",
+"x": "Foco na forma da mensagem.",
+"e": "Poética: forma."
+},
+{
+"p": "A norma-padrão é a variedade de prestígio exigida em contextos formais, mas as demais variedades são legítimas e seguem regras próprias.",
+"c": true,
+"prof": "Variação linguística.",
+"x": "Depreciar variedades é preconceito linguístico.",
+"e": "Norma-padrão."
+},
+{
+"p": "A variação diacrônica está ligada ao tempo, isto é, às mudanças da língua ao longo da história.",
+"c": true,
+"prof": "Variação linguística.",
+"x": "Ex.: \"vossa mercê\" → \"você\".",
+"e": "Diacrônica: tempo."
+},
+{
+"p": "A variação diatópica é a variação geográfica ou regional.",
+"c": true,
+"prof": "Variação linguística.",
+"x": "Ex.: mandioca, aipim, macaxeira.",
+"e": "Diatópica: lugar."
+},
+{
+"p": "A variação diastrática está ligada aos grupos sociais, como gírias e jargões profissionais.",
+"c": true,
+"prof": "Variação linguística.",
+"x": "Classe, idade, profissão.",
+"e": "Diastrática: social."
+},
+{
+"p": "A variação diafásica depende da situação de comunicação, como o uso de registro formal ou informal.",
+"c": true,
+"prof": "Variação linguística.",
+"x": "Também chamada estilística.",
+"e": "Diafásica: situação."
+},
+{
+"p": "A variação diatópica está relacionada às mudanças da língua ao longo do tempo.",
+"c": false,
+"prof": "Variação linguística.",
+"x": "Diatópica é geográfica; a do tempo é diacrônica.",
+"e": "Diatópica ≠ tempo."
+},
+{
+"p": "Jargão é o vocabulário técnico de um grupo profissional, como expressões jurídicas e policiais.",
+"c": true,
+"prof": "Variação linguística.",
+"x": "Variação diastrática.",
+"e": "Jargão."
+},
+{
+"p": "Preconceito linguístico é a discriminação de falantes por usarem variedades diferentes da norma-padrão.",
+"c": true,
+"prof": "Variação linguística.",
+"x": "Adequação ao contexto é o critério.",
+"e": "Preconceito linguístico."
+},
+{
+"p": "No boletim de ocorrência, predominam a narração e a descrição, com linguagem objetiva e sem juízos de valor.",
+"c": true,
+"prof": "Gêneros policiais.",
+"x": "Registrar as versões com \"segundo a vítima\".",
+"e": "BO."
+},
+{
+"p": "No relatório policial, é recomendável incluir opiniões pessoais sobre a culpa do investigado para orientar o juiz.",
+"c": false,
+"prof": "Gêneros policiais.",
+"x": "O texto deve narrar e expor com impessoalidade.",
+"e": "Relatório impessoal."
+},
+{
+"p": "Em \"Na madrugada de sábado, dois homens renderam o vigia e fugiram\", predomina a narração.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Fatos em sequência, verbos de ação.",
+"e": "Trecho narrativo."
+},
+{
+"p": "Em \"O imóvel tem três quartos e janelas amplas\", predomina a descrição.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Características, verbo de estado.",
+"e": "Trecho descritivo."
+},
+{
+"p": "Em \"Misture a farinha com os ovos e leve ao forno\", predomina a injunção.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Imperativo.",
+"e": "Trecho injuntivo."
+},
+{
+"p": "Na tirinha em que \"trem\" significa \"coisa\" para um personagem e \"veículo\" para outro, o humor decorre de variação geográfica.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Uso regional mineiro.",
+"e": "Trem = coisa."
+},
+{
+"p": "Na fábula os personagens são animais; no apólogo, objetos personificados; na parábola, pessoas.",
+"c": true,
+"prof": "Gêneros narrativos.",
+"x": "Todos transmitem ensinamento.",
+"e": "Fábula, apólogo, parábola."
+},
+{
+"p": "O conto é narrativa curta com um conflito central, enquanto o romance é longo e apresenta vários conflitos.",
+"c": true,
+"prof": "Gêneros narrativos.",
+"x": "A novela tem extensão intermediária.",
+"e": "Conto x romance."
+},
+{
+"p": "O mito explica a origem do mundo, de fenômenos ou costumes, com deuses e heróis.",
+"c": true,
+"prof": "Gêneros narrativos.",
+"x": "A lenda mistura fatos reais e fantasia.",
+"e": "Mito."
+},
+{
+"p": "Na passagem do discurso direto para o indireto, com verbo de elocução no passado, o futuro do presente passa ao futuro do pretérito.",
+"c": true,
+"prof": "Transposição de discurso.",
+"x": "\"Farei\" → \"faria\".",
+"e": "Futuro → futuro do pretérito."
+},
+{
+"p": "Na passagem para o discurso indireto, o imperativo passa ao pretérito imperfeito do subjuntivo.",
+"c": true,
+"prof": "Transposição de discurso.",
+"x": "\"Abaixe a arma\" → \"que abaixasse a arma\".",
+"e": "Imperativo → subjuntivo."
+},
+{
+"p": "Na transposição para o discurso indireto, \"hoje\" passa a \"naquele dia\" e \"aqui\" passa a \"ali\" ou \"lá\".",
+"c": true,
+"prof": "Transposição de discurso.",
+"x": "Também \"este\" → \"aquele\".",
+"e": "Hoje → naquele dia."
+},
+{
+"p": "No discurso indireto livre, a fala ou o pensamento da personagem aparece sem verbo de elocução e sem marcas gráficas.",
+"c": true,
+"prof": "Discurso.",
+"x": "Mistura-se à narração.",
+"e": "Indireto livre."
+},
+{
+"p": "O parecer é gênero que dá opinião técnica fundamentada sobre uma questão.",
+"c": true,
+"prof": "Gêneros técnicos.",
+"x": "Comum no Direito e na administração.",
+"e": "Parecer."
+},
+{
+"p": "Na retextualização de um depoimento oral para o termo escrito, retiram-se as marcas de oralidade sem alterar o sentido do que foi dito.",
+"c": true,
+"prof": "Retextualização.",
+"x": "Não se acrescentam interpretações.",
+"e": "Retextualizar."
+},
+{
+"p": "Na retextualização da fala do declarante, é recomendável acrescentar avaliações sobre a frieza do criminoso para dar mais força ao texto.",
+"c": false,
+"prof": "Retextualização.",
+"x": "Não se pode acrescentar interpretação.",
+"e": "Fidelidade ao relato."
+},
+{
+"p": "Texto argumentativo sem assinatura, publicado como opinião do jornal, é um editorial; o mesmo texto assinado por convidado seria um artigo de opinião.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "A assinatura define.",
+"e": "Assinatura."
+},
+{
+"p": "Uma reportagem pode ter tipo predominante expositivo, com trechos narrativos, descritivos e injuntivos.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "O tipo de um parágrafo pode diferir do predominante.",
+"e": "Reportagem mista."
+},
+{
+"p": "Na campanha \"Se beber, não dirija. Sua família espera você em casa\", predomina a função conativa.",
+"c": true,
+"prof": "Funções da linguagem.",
+"x": "Imperativo e apelo ao receptor.",
+"e": "Campanha: conativa."
+},
+{
+"p": "Em e-mails institucionais, devem ser evitadas gírias, abreviações de mensagem e emojis.",
+"c": true,
+"prof": "Registro.",
+"x": "Linguagem objetiva e cordial.",
+"e": "E-mail formal."
+},
+{
+"p": "Na introdução do texto dissertativo-argumentativo, devem ser apresentados o tema contextualizado e a tese.",
+"c": true,
+"prof": "Dissertação argumentativa.",
+"x": "Estratégias: definição, dado, citação, pergunta.",
+"e": "Introdução."
+},
+{
+"p": "No desenvolvimento, recomenda-se um argumento por parágrafo, com tópico frasal e fundamentação.",
+"c": true,
+"prof": "Dissertação argumentativa.",
+"x": "Ligados por conectivos.",
+"e": "Desenvolvimento."
+},
+{
+"p": "A conclusão do texto argumentativo deve apresentar argumentos novos, ainda não desenvolvidos.",
+"c": false,
+"prof": "Dissertação argumentativa.",
+"x": "A conclusão retoma e sintetiza.",
+"e": "Conclusão sem ideia nova."
+},
+{
+"p": "Ruído é qualquer interferência que prejudica a comunicação, como barulho, ambiguidade ou termo desconhecido do receptor.",
+"c": true,
+"prof": "Elementos da comunicação.",
+"x": "Em comunicações por rádio, reduzir o ruído é questão de segurança.",
+"e": "Ruído."
+},
+{
+"p": "Canal é o meio físico pelo qual a mensagem é transmitida.",
+"c": true,
+"prof": "Elementos da comunicação.",
+"x": "Voz, papel, rádio, internet.",
+"e": "Canal."
+},
+{
+"p": "Na oitiva de testemunhas, perguntas abertas tendem a produzir relatos mais completos e menos influenciados do que perguntas sugestivas.",
+"c": true,
+"prof": "Gêneros orais.",
+"x": "Evitar induzir a resposta.",
+"e": "Perguntas abertas."
+},
+{
+"p": "Trecho que define e explica um conceito, sem defender posição polêmica, é predominantemente expositivo.",
+"c": true,
+"prof": "Exposição x argumentação.",
+"x": "Avaliações e \"é urgente\" indicariam argumentação.",
+"e": "Definir: expositivo."
+},
+{
+"p": "A grafia \"pharmácia\" e o pronome \"Vossa mercê\" em texto antigo são marcas de variação histórica.",
+"c": true,
+"prof": "Variação diacrônica.",
+"x": "Estado anterior da língua.",
+"e": "Pharmácia."
+},
+{
+"p": "Campanha que imita a forma de uma bula para persuadir o leitor é exemplo de hibridismo de gêneros.",
+"c": true,
+"prof": "Hibridismo.",
+"x": "Gênero real: campanha.",
+"e": "Bula imitada."
+},
+{
+"p": "Na notícia, a organização em pirâmide invertida coloca as informações mais importantes no início.",
+"c": true,
+"prof": "Gêneros jornalísticos.",
+"x": "O lide traz o essencial.",
+"e": "Pirâmide invertida."
+},
+{
+"p": "A linha fina é a frase sob o título que completa a informação, e o olho é o trecho destacado no meio do texto.",
+"c": true,
+"prof": "Gêneros jornalísticos.",
+"x": "Legenda acompanha a foto.",
+"e": "Linha fina e olho."
+},
+{
+"p": "O uso do presente em títulos de notícias sobre fatos passados é convenção do gênero jornalístico.",
+"c": true,
+"prof": "Gêneros jornalísticos.",
+"x": "Ex.: \"Polícia prende suspeito\".",
+"e": "Presente no título."
+},
+{
+"p": "O apelo testemunhal é a estratégia persuasiva em que uma pessoa relata sua experiência com o produto ou causa.",
+"c": true,
+"prof": "Persuasão.",
+"x": "Celebridade ou consumidor comum.",
+"e": "Testemunhal."
+},
+{
+"p": "Expressões como \"últimas unidades\" e \"só hoje\" exploram a estratégia de escassez e urgência.",
+"c": true,
+"prof": "Persuasão.",
+"x": "Comuns na publicidade.",
+"e": "Escassez."
+},
+{
+"p": "A sentença judicial combina relatório, fundamentação e dispositivo.",
+"c": true,
+"prof": "Gêneros jurídicos.",
+"x": "Narração, argumentação e decisão.",
+"e": "Partes da sentença."
+},
+{
+"p": "A ementa é o resumo dos pontos decididos em um acórdão.",
+"c": true,
+"prof": "Gêneros jurídicos.",
+"x": "Acórdão é decisão colegiada.",
+"e": "Ementa."
+},
+{
+"p": "Em \"Denuncie: ligue 181. Sua identidade será preservada\", predominam a injunção e a função conativa.",
+"c": true,
+"prof": "Treino comentado.",
+"x": "Imperativo e apelo ao leitor.",
+"e": "Denuncie."
+},
+{
+"p": "Em \"Amanhã, o céu ficará nublado, com possibilidade de chuva\", predomina a predição.",
+"c": true,
+"prof": "Treino comentado.",
+"x": "Futuro do presente.",
+"e": "Previsão."
+},
+{
+"p": "Na transposição de \"O suspeito disse: 'Eu não estava lá'\" para o discurso indireto, obtém-se \"O suspeito disse que não estava lá\".",
+"c": true,
+"prof": "Transposição.",
+"x": "1ª pessoa → 3ª; \"lá\" se mantém pelo contexto.",
+"e": "Indireto."
+},
+{
+"p": "Na narração, o pretérito mais-que-perfeito é usado para indicar fato anterior a outro fato passado, como em \"quando a polícia chegou, o suspeito tinha fugido\".",
+"c": true,
+"prof": "Recursos da narração.",
+"x": "Perfeito para ações pontuais; imperfeito para cenário.",
+"e": "Mais-que-perfeito."
+},
+{
+"p": "No boletim de ocorrência, informações fornecidas pela vítima devem ser atribuídas à fonte, com expressões como \"segundo a vítima\".",
+"c": true,
+"prof": "BO.",
+"x": "Evitar suposições como fato.",
+"e": "Atribuir à fonte."
+},
+{
+"p": "Termos pejorativos e juízos de valor tornam o boletim de ocorrência mais preciso e devem ser estimulados.",
+"c": false,
+"prof": "BO.",
+"x": "O BO deve ser objetivo e impessoal.",
+"e": "Sem juízos de valor."
+},
+{
+"p": "Paródia é a imitação de um texto ou gênero com intenção crítica ou humorística, alterando o sentido original.",
+"c": true,
+"prof": "Intertextualidade.",
+"x": "Paráfrase mantém o sentido.",
+"e": "Paródia."
+},
+{
+"p": "Um filme sobre o processo de fazer cinema é exemplo de metalinguagem.",
+"c": true,
+"prof": "Funções da linguagem.",
+"x": "O código fala de si mesmo.",
+"e": "Metalinguagem no cinema."
+},
+{
+"p": "Cumprimentos e expressões que mantêm a conversa, como \"entendi\" e \"né?\", são manifestações da função fática.",
+"c": true,
+"prof": "Funções da linguagem.",
+"x": "Abrir, manter ou fechar o canal.",
+"e": "Fática ampla."
+},
+{
+"p": "Na retextualização de um depoimento, expressões exatas relevantes, como uma ameaça ou um apelido, podem ser registradas entre aspas, como foram ditas.",
+"c": true,
+"prof": "Variação e registro.",
+"x": "Preserva a fidelidade.",
+"e": "Aspas no depoimento."
+},
+{
+"p": "No comunicado de condomínio que informa novo horário do portão e orienta a entrada pelo portão lateral, predominam os tipos expositivo e injuntivo.",
+"c": true,
+"prof": "Exercício final.",
+"x": "Informa e orienta comportamentos.",
+"e": "Comunicado."
+},
+{
+"p": "Em comunicado que diz que o portão \"ficará fechado a partir de segunda-feira\", pressupõe-se que atualmente ele não fica fechado nesse horário.",
+"c": true,
+"prof": "Exercício final.",
+"x": "Mudança anunciada.",
+"e": "Pressuposto do aviso."
+},
 {
 "p": "A bula de remédio é gênero textual que combina predominantemente os tipos injuntivo e expositivo.",
 "c": true,
@@ -3276,7 +4550,7 @@ export const PROFUNDO = {
 "e": "Imperativo e convencimento: conativa."
 }
 ],
-"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>tipos textuais: narração, descrição, dissertação (argumentativa e expositiva) e injunção</span></div><div class=\"lt-stat\"><b>∞</b><span>gêneros: notícia, ofício, editorial, crônica, boletim de ocorrência…</span></div><div class=\"lt-stat\"><b>1</b><span>texto real costuma misturar tipos, com um predominante</span></div><div class=\"lt-stat\"><b>6</b><span>funções da linguagem (Jakobson)</span></div></div>\n<p><b>Tipo textual</b> é o \"modo de organizar\" o texto (narrar, descrever, argumentar, instruir). <b>Gênero</b> é o texto concreto que circula na sociedade (notícia, ofício, boletim de ocorrência, receita, edital). Um gênero pode misturar tipos: um boletim de ocorrência <b>narra</b> o fato e <b>descreve</b> o local e os envolvidos.</p>\n<h3>1. Os tipos e suas marcas</h3>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Objetivo</th><th>Marcas linguísticas</th><th>Exemplo</th></tr></thead><tbody><tr><td>Narrativo</td><td>contar fatos em sequência</td><td>verbos no pretérito, marcadores de tempo, personagens, narrador</td><td>relato do acidente no BO</td></tr><tr><td>Descritivo</td><td>retratar como algo é</td><td>adjetivos, verbos de estado, enumeração de características</td><td>descrição do veículo suspeito</td></tr><tr><td>Dissertativo-argumentativo</td><td>defender um ponto de vista</td><td>tese, argumentos, conectores de causa e conclusão, verbos no presente</td><td>editorial sobre a Lei Seca</td></tr><tr><td>Dissertativo-expositivo</td><td>explicar um tema sem defender tese</td><td>definições, dados, linguagem objetiva</td><td>verbete, texto didático</td></tr><tr><td>Injuntivo (instrucional)</td><td>orientar o que fazer</td><td>verbos no imperativo ou infinitivo, sequência de passos</td><td>manual, edital, receita, normas</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para identificar o tipo, pergunte: o texto <b>conta</b> (narra), <b>mostra</b> (descreve), <b>defende</b> (argumenta), <b>explica</b> (expõe) ou <b>manda</b> (injunção)?</div>\n<div class=\"lt-pare\"></div>\n<h3>2. A estrutura da dissertação argumentativa</h3>\n<ul><li><b>Introdução</b>: apresenta o tema e a <b>tese</b> (opinião central).</li><li><b>Desenvolvimento</b>: <b>argumentos</b> que sustentam a tese (dados, exemplos, causa e consequência, autoridade, comparação).</li><li><b>Conclusão</b>: retoma a tese e, muitas vezes, propõe solução.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de argumento</th><th>Exemplo</th></tr></thead><tbody><tr><td>Dados/estatística</td><td>\"Mais de 30 mil pessoas morrem por ano no trânsito brasileiro.\"</td></tr><tr><td>Autoridade</td><td>\"Segundo a OMS, a velocidade é fator-chave.\"</td></tr><tr><td>Exemplificação</td><td>\"Na Suécia, o programa Visão Zero reduziu mortes.\"</td></tr><tr><td>Causa e consequência</td><td>\"Como a fiscalização aumentou, a velocidade média caiu.\"</td></tr><tr><td>Contra-argumentação</td><td>\"Embora alguns vejam a multa como arrecadação, ela salva vidas.\"</td></tr></tbody></table>\n<h3>3. Gêneros que a banca usa</h3>\n<table class=\"tab\"><thead><tr><th>Gênero</th><th>Tipo predominante</th><th>Característica</th></tr></thead><tbody><tr><td>Notícia</td><td>narrativo/expositivo</td><td>fato recente, linguagem objetiva, 3ª pessoa</td></tr><tr><td>Reportagem</td><td>expositivo</td><td>aprofundamento, dados, entrevistas</td></tr><tr><td>Editorial</td><td>argumentativo</td><td>opinião do veículo, sem assinatura</td></tr><tr><td>Artigo de opinião</td><td>argumentativo</td><td>opinião assinada</td></tr><tr><td>Crônica</td><td>narrativo</td><td>fato cotidiano, tom leve ou reflexivo</td></tr><tr><td>Ofício</td><td>expositivo/injuntivo</td><td>comunicação oficial, padrão do Manual de Redação</td></tr><tr><td>Boletim de ocorrência</td><td>narrativo/descritivo</td><td>relato objetivo, impessoal</td></tr></tbody></table>\n<h3>4. Funções da linguagem (Jakobson)</h3>\n<table class=\"tab\"><thead><tr><th>Função</th><th>Foco</th><th>Exemplo</th></tr></thead><tbody><tr><td>Referencial</td><td>o assunto (informar)</td><td>notícia, texto científico</td></tr><tr><td>Emotiva</td><td>o emissor (sentimentos)</td><td>diário, depoimento</td></tr><tr><td>Conativa (apelativa)</td><td>o receptor (convencer, mandar)</td><td>propaganda, campanha \"Se beber, não dirija\"</td></tr><tr><td>Fática</td><td>o canal (testar o contato)</td><td>\"Alô? Está me ouvindo?\"</td></tr><tr><td>Metalinguística</td><td>o código (a língua falando dela mesma)</td><td>dicionário, gramática</td></tr><tr><td>Poética</td><td>a mensagem (forma)</td><td>poesia, slogan com rima</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Campanha educativa de trânsito (\"Use o cinto!\") é <b>conativa/apelativa</b>: o foco é convencer o receptor. Notícia sobre a campanha é <b>referencial</b>. A banca troca as duas.</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Tipo e gênero são a mesma coisa</span><br>✅ <span class=\"certo\">Tipo é o modo de organização; gênero é o texto concreto (notícia, ofício…).</span></li><li>❌ <span class=\"banca\">Texto narrativo não pode ter descrição</span><br>✅ <span class=\"certo\">Os tipos se misturam; vale o predominante.</span></li><li>❌ <span class=\"banca\">Editorial é texto expositivo neutro</span><br>✅ <span class=\"certo\">É ARGUMENTATIVO: expressa a opinião do veículo.</span></li><li>❌ <span class=\"banca\">Propaganda tem função referencial</span><br>✅ <span class=\"certo\">Predomina a CONATIVA (apelativa).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Notícia: tipo predominante?</span></span><span class=\"vs\"><span><b>Narrativo/expositivo</b>, objetivo, em 3ª pessoa.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Editorial: tipo?</span></span><span class=\"vs\"><span><b>Argumentativo</b> (opinião do veículo).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marca do texto injuntivo?</span></span><span class=\"vs\"><span>Verbos no <b>imperativo</b> ou infinitivo, passos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Se beber, não dirija\": função?</span></span><span class=\"vs\"><span><b>Conativa</b> (apelativa).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dicionário: função?</span></span><span class=\"vs\"><span><b>Metalinguística</b>.</span></span></button></div></div>"
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>tipos textuais: narração, descrição, dissertação (exposição e argumentação), injunção e diálogo</span></div><div class=\"lt-stat\"><b>∞</b><span>gêneros textuais: notícia, ofício, bula, receita, crônica...</span></div><div class=\"lt-stat\"><b>6</b><span>funções da linguagem de Jakobson</span></div><div class=\"lt-stat\"><b>3</b><span>partes da dissertação: introdução, desenvolvimento e conclusão</span></div></div>\n<h3>1. Tipo e gênero não são a mesma coisa</h3>\n<ul><li><b>Tipo textual</b> é um <b>modo de organizar</b> o texto, com marcas linguísticas próprias (tempos verbais, conectores, estrutura). São poucos: <b>narrativo</b>, <b>descritivo</b>, <b>dissertativo</b> (expositivo ou argumentativo), <b>injuntivo</b> (instrucional) e, para alguns autores, <b>dialogal</b>.</li><li><b>Gênero textual</b> é a <b>forma concreta</b> que o texto assume na vida social, com função, suporte e público: notícia, reportagem, crônica, artigo de opinião, editorial, carta, e-mail, ofício, boletim de ocorrência, relatório, receita, bula, manual, charge, tirinha. Um gênero pode <b>misturar vários tipos</b>: a <b>bula</b> combina <b>injunção</b> (posologia, modo de usar) e <b>exposição/descrição</b> (composição, indicações, reações adversas); o <b>boletim de ocorrência</b> combina <b>narração</b> (os fatos) e <b>descrição</b> (pessoas e objetos).</li></ul>\n<h3>2. Os tipos, um por um</h3>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Objetivo</th><th>Marcas linguísticas</th></tr></thead><tbody><tr><td><b>Narrativo</b></td><td>contar fatos em sequência</td><td>verbos de ação no <b>pretérito perfeito</b>; marcadores de <b>tempo</b> (depois, em seguida, naquela noite); personagens, narrador, tempo, espaço, enredo (situação inicial, conflito, clímax, desfecho)</td></tr><tr><td><b>Descritivo</b></td><td>retratar seres, objetos, lugares, como uma \"fotografia\"</td><td><b>adjetivos</b>, verbos de <b>estado</b> (ser, estar, parecer), <b>pretérito imperfeito</b> ou presente; enumeração de características</td></tr><tr><td><b>Expositivo</b></td><td><b>informar</b> e explicar um tema, sem defender opinião</td><td><b>presente</b> atemporal, linguagem objetiva, definições, dados, exemplos</td></tr><tr><td><b>Argumentativo</b></td><td><b>convencer</b> o leitor de uma tese</td><td><b>tese + argumentos</b>; conectores de <b>causa, consequência, oposição e conclusão</b>; modalizadores; 1ª ou 3ª pessoa</td></tr><tr><td><b>Injuntivo</b></td><td><b>orientar</b> o leitor a agir</td><td>verbos no <b>imperativo</b> ou no <b>infinitivo</b> (\"Misture\", \"Tomar 1 comprimido\"); passos numerados</td></tr></tbody></table>\n<ul><li><b>Narrador</b>: em <b>1ª pessoa</b> (narrador-personagem, participa da história) ou em <b>3ª pessoa</b> (narrador-observador, que só relata; ou onisciente, que conhece pensamentos e sentimentos dos personagens).</li></ul>\n<h3>3. A dissertação argumentativa</h3>\n<ul><li><b>Introdução</b>: apresenta o tema e a <b>tese</b>. <b>Desenvolvimento</b>: cada parágrafo traz um <b>argumento</b>, com tópico frasal e fundamentação. <b>Conclusão</b>: retoma a tese e, em muitas provas, apresenta <b>proposta de intervenção</b> (o quê, quem, como, para quê).</li><li><b>Tipos de argumento</b>: <b>autoridade</b> (citação de especialista ou instituição); <b>dados e estatísticas</b>; <b>exemplificação</b>; <b>causa e consequência</b>; <b>comparação ou analogia</b>; <b>alusão histórica</b>; <b>contra-argumentação</b> (o autor apresenta a posição contrária e a refuta: \"É verdade que... <b>porém</b>...\").</li><li><b>Exposição x argumentação</b>: o texto <b>expositivo</b> explica (um verbete de enciclopédia, um texto didático); o <b>argumentativo</b> defende um ponto de vista (artigo de opinião, editorial). A banca pergunta \"qual a finalidade do texto\": se ele quer <b>informar</b>, é expositivo; se quer <b>convencer</b>, argumentativo.</li></ul>\n<h3>4. Gêneros que mais aparecem</h3>\n<table class=\"tab\"><thead><tr><th>Gênero</th><th>Características</th></tr></thead><tbody><tr><td><b>Notícia</b></td><td>relata fato <b>recente</b> e de interesse público, em <b>3ª pessoa</b>, com linguagem objetiva; estrutura de <b>pirâmide invertida</b> (o mais importante primeiro: quem, o quê, quando, onde, como, por quê)</td></tr><tr><td><b>Reportagem</b></td><td>mais longa e aprofundada; pode trazer entrevistas, dados e análise</td></tr><tr><td><b>Editorial</b></td><td>texto <b>opinativo</b> que expressa a posição do <b>veículo</b> (jornal ou revista), sem assinatura individual</td></tr><tr><td><b>Artigo de opinião</b></td><td>texto argumentativo <b>assinado</b> por um autor, que defende sua posição</td></tr><tr><td><b>Crônica</b></td><td>texto curto que parte de um <b>fato do cotidiano</b>, com linguagem leve, muitas vezes humor, ironia ou lirismo; mistura narração e reflexão</td></tr><tr><td><b>Charge</b></td><td>desenho que combina linguagem <b>verbal e não verbal</b>, com <b>humor e crítica</b> sobre fato <b>atual</b> (o cartum trata de temas atemporais)</td></tr><tr><td><b>Tirinha</b></td><td>sequência de quadrinhos, geralmente com humor</td></tr><tr><td><b>Boletim de ocorrência</b></td><td>registro oficial: <b>narração</b> dos fatos e <b>descrição</b> de pessoas, objetos e locais, em linguagem objetiva</td></tr><tr><td><b>Relatório</b></td><td>expõe fatos apurados ou atividades realizadas</td></tr><tr><td><b>Bula e manual</b></td><td>predominantemente <b>injuntivos</b>, com trechos expositivos</td></tr></tbody></table>\n<h3>5. Funções da linguagem (Jakobson)</h3>\n<table class=\"tab\"><thead><tr><th>Função</th><th>Foco</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Referencial</b> (denotativa)</td><td>o <b>assunto</b> (referente); informar com objetividade</td><td>notícias, textos científicos, relatórios</td></tr><tr><td><b>Emotiva</b> (expressiva)</td><td>o <b>emissor</b>: emoções e opiniões em <b>1ª pessoa</b></td><td>diários, desabafos, cartas pessoais</td></tr><tr><td><b>Conativa</b> (apelativa)</td><td>o <b>receptor</b>: convencer, ordenar; <b>imperativo</b>, vocativo, 2ª pessoa</td><td>propagandas, discursos (\"<b>Denuncie!</b> Ligue 181\")</td></tr><tr><td><b>Fática</b></td><td>o <b>canal</b>: testar ou manter a comunicação</td><td>\"Alô? Está me ouvindo?\", \"Bom dia, tudo bem?\"</td></tr><tr><td><b>Metalinguística</b></td><td>o <b>código</b>: a linguagem falando de si mesma</td><td>dicionários, gramáticas, um poema sobre fazer poemas</td></tr><tr><td><b>Poética</b></td><td>a <b>mensagem</b>: a forma, o arranjo das palavras</td><td>poemas, slogans com rima e trocadilhos</td></tr></tbody></table>\n<ul><li>Um texto pode ter <b>várias funções</b>; a banca pergunta a <b>predominante</b>. Campanhas policiais (\"Não reaja!\", \"Denuncie\") têm função <b>conativa</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Tipo e gênero são sinônimos</span><br>✅ <span class=\"certo\">Tipo é modo de organização; gênero é a forma social concreta.</span></li><li>❌ <span class=\"banca\">A bula é texto narrativo</span><br>✅ <span class=\"certo\">É injuntiva e expositiva.</span></li><li>❌ <span class=\"banca\">Editorial é assinado por um jornalista</span><br>✅ <span class=\"certo\">Expressa a opinião do VEÍCULO, sem assinatura individual.</span></li><li>❌ <span class=\"banca\">Texto expositivo defende uma tese</span><br>✅ <span class=\"certo\">Expositivo informa; argumentativo defende.</span></li><li>❌ <span class=\"banca\">Função fática é a da emoção</span><br>✅ <span class=\"certo\">Fática é a do canal; a emotiva é a do emissor.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cinco tipos textuais?</span></span><span class=\"vs\"><span><b>Narrativo, descritivo, expositivo, argumentativo, injuntivo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marca do injuntivo?</span></span><span class=\"vs\"><span>Verbos no <b>imperativo ou infinitivo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marca do descritivo?</span></span><span class=\"vs\"><span><b>Adjetivos</b> e verbos de estado.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Notícia?</span></span><span class=\"vs\"><span>Fato recente, <b>3ª pessoa</b>, pirâmide invertida.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Editorial?</span></span><span class=\"vs\"><span>Opinião do <b>veículo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Charge?</span></span><span class=\"vs\"><span>Verbal + não verbal, <b>crítica</b> a fato <b>atual</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Função conativa?</span></span><span class=\"vs\"><span>Foco no <b>receptor</b>; imperativo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Função metalinguística?</span></span><span class=\"vs\"><span>A língua falando da <b>própria língua</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O boletim de ocorrência</b><p>\"No dia 3, por volta das 22h, a vítima caminhava pela Rua Sete quando foi abordada por um homem de aproximadamente 1,80 m, magro, de boné vermelho, que exigiu seu celular e fugiu em direção à praça.\"</p><details><summary>Ver a solução comentada</summary><p>O gênero é o <b>boletim de ocorrência</b>. O trecho combina <b>narração</b> (sequência de ações no pretérito perfeito: foi abordada, exigiu, fugiu, com marcadores de tempo) e <b>descrição</b> (características físicas do autor: altura, porte, boné). A linguagem é <b>referencial</b> (objetiva), como exige o registro policial.</p></details></div><div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>tipos textuais: narração, descrição, dissertação (argumentativa e expositiva) e injunção</span></div><div class=\"lt-stat\"><b>∞</b><span>gêneros: notícia, ofício, editorial, crônica, boletim de ocorrência…</span></div><div class=\"lt-stat\"><b>1</b><span>texto real costuma misturar tipos, com um predominante</span></div><div class=\"lt-stat\"><b>6</b><span>funções da linguagem (Jakobson)</span></div></div>\n<p><b>Tipo textual</b> é o \"modo de organizar\" o texto (narrar, descrever, argumentar, instruir). <b>Gênero</b> é o texto concreto que circula na sociedade (notícia, ofício, boletim de ocorrência, receita, edital). Um gênero pode misturar tipos: um boletim de ocorrência <b>narra</b> o fato e <b>descreve</b> o local e os envolvidos.</p>\n<h3>1. Os tipos e suas marcas</h3>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Objetivo</th><th>Marcas linguísticas</th><th>Exemplo</th></tr></thead><tbody><tr><td>Narrativo</td><td>contar fatos em sequência</td><td>verbos no pretérito, marcadores de tempo, personagens, narrador</td><td>relato do acidente no BO</td></tr><tr><td>Descritivo</td><td>retratar como algo é</td><td>adjetivos, verbos de estado, enumeração de características</td><td>descrição do veículo suspeito</td></tr><tr><td>Dissertativo-argumentativo</td><td>defender um ponto de vista</td><td>tese, argumentos, conectores de causa e conclusão, verbos no presente</td><td>editorial sobre a Lei Seca</td></tr><tr><td>Dissertativo-expositivo</td><td>explicar um tema sem defender tese</td><td>definições, dados, linguagem objetiva</td><td>verbete, texto didático</td></tr><tr><td>Injuntivo (instrucional)</td><td>orientar o que fazer</td><td>verbos no imperativo ou infinitivo, sequência de passos</td><td>manual, edital, receita, normas</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para identificar o tipo, pergunte: o texto <b>conta</b> (narra), <b>mostra</b> (descreve), <b>defende</b> (argumenta), <b>explica</b> (expõe) ou <b>manda</b> (injunção)?</div>\n<div class=\"lt-pare\"></div>\n<h3>2. A estrutura da dissertação argumentativa</h3>\n<ul><li><b>Introdução</b>: apresenta o tema e a <b>tese</b> (opinião central).</li><li><b>Desenvolvimento</b>: <b>argumentos</b> que sustentam a tese (dados, exemplos, causa e consequência, autoridade, comparação).</li><li><b>Conclusão</b>: retoma a tese e, muitas vezes, propõe solução.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de argumento</th><th>Exemplo</th></tr></thead><tbody><tr><td>Dados/estatística</td><td>\"Mais de 30 mil pessoas morrem por ano no trânsito brasileiro.\"</td></tr><tr><td>Autoridade</td><td>\"Segundo a OMS, a velocidade é fator-chave.\"</td></tr><tr><td>Exemplificação</td><td>\"Na Suécia, o programa Visão Zero reduziu mortes.\"</td></tr><tr><td>Causa e consequência</td><td>\"Como a fiscalização aumentou, a velocidade média caiu.\"</td></tr><tr><td>Contra-argumentação</td><td>\"Embora alguns vejam a multa como arrecadação, ela salva vidas.\"</td></tr></tbody></table>\n<h3>3. Gêneros que a banca usa</h3>\n<table class=\"tab\"><thead><tr><th>Gênero</th><th>Tipo predominante</th><th>Característica</th></tr></thead><tbody><tr><td>Notícia</td><td>narrativo/expositivo</td><td>fato recente, linguagem objetiva, 3ª pessoa</td></tr><tr><td>Reportagem</td><td>expositivo</td><td>aprofundamento, dados, entrevistas</td></tr><tr><td>Editorial</td><td>argumentativo</td><td>opinião do veículo, sem assinatura</td></tr><tr><td>Artigo de opinião</td><td>argumentativo</td><td>opinião assinada</td></tr><tr><td>Crônica</td><td>narrativo</td><td>fato cotidiano, tom leve ou reflexivo</td></tr><tr><td>Ofício</td><td>expositivo/injuntivo</td><td>comunicação oficial, padrão do Manual de Redação</td></tr><tr><td>Boletim de ocorrência</td><td>narrativo/descritivo</td><td>relato objetivo, impessoal</td></tr></tbody></table>\n<h3>4. Funções da linguagem (Jakobson)</h3>\n<table class=\"tab\"><thead><tr><th>Função</th><th>Foco</th><th>Exemplo</th></tr></thead><tbody><tr><td>Referencial</td><td>o assunto (informar)</td><td>notícia, texto científico</td></tr><tr><td>Emotiva</td><td>o emissor (sentimentos)</td><td>diário, depoimento</td></tr><tr><td>Conativa (apelativa)</td><td>o receptor (convencer, mandar)</td><td>propaganda, campanha \"Se beber, não dirija\"</td></tr><tr><td>Fática</td><td>o canal (testar o contato)</td><td>\"Alô? Está me ouvindo?\"</td></tr><tr><td>Metalinguística</td><td>o código (a língua falando dela mesma)</td><td>dicionário, gramática</td></tr><tr><td>Poética</td><td>a mensagem (forma)</td><td>poesia, slogan com rima</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Campanha educativa de trânsito (\"Use o cinto!\") é <b>conativa/apelativa</b>: o foco é convencer o receptor. Notícia sobre a campanha é <b>referencial</b>. A banca troca as duas.</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Tipo e gênero são a mesma coisa</span><br>✅ <span class=\"certo\">Tipo é o modo de organização; gênero é o texto concreto (notícia, ofício…).</span></li><li>❌ <span class=\"banca\">Texto narrativo não pode ter descrição</span><br>✅ <span class=\"certo\">Os tipos se misturam; vale o predominante.</span></li><li>❌ <span class=\"banca\">Editorial é texto expositivo neutro</span><br>✅ <span class=\"certo\">É ARGUMENTATIVO: expressa a opinião do veículo.</span></li><li>❌ <span class=\"banca\">Propaganda tem função referencial</span><br>✅ <span class=\"certo\">Predomina a CONATIVA (apelativa).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Notícia: tipo predominante?</span></span><span class=\"vs\"><span><b>Narrativo/expositivo</b>, objetivo, em 3ª pessoa.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Editorial: tipo?</span></span><span class=\"vs\"><span><b>Argumentativo</b> (opinião do veículo).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marca do texto injuntivo?</span></span><span class=\"vs\"><span>Verbos no <b>imperativo</b> ou infinitivo, passos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Se beber, não dirija\": função?</span></span><span class=\"vs\"><span><b>Conativa</b> (apelativa).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dicionário: função?</span></span><span class=\"vs\"><span><b>Metalinguística</b>.</span></span></button></div></div>"
 },
 "ortografia": {
 "html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2009</b><span>ano de início da vigência do Acordo Ortográfico no Brasil (Decreto 6.583/2008)</span></div><div class=\"lt-stat\"><b>3</b><span>posições da sílaba tônica: oxítona, paroxítona e proparoxítona</span></div><div class=\"lt-stat\"><b>100%</b><span>das proparoxítonas são acentuadas</span></div><div class=\"lt-stat\"><b>4</b><span>porquês: por que, por quê, porque e porquê</span></div></div>\n<h3>1. Sílaba tônica: o primeiro passo</h3>\n<ul><li>Para acentuar, descubra a sílaba <b>mais forte</b>: <b>oxítona</b> (última: ca-<b>fé</b>), <b>paroxítona</b> (penúltima: <b>lá</b>-pis), <b>proparoxítona</b> (antepenúltima: <b>pú</b>-bli-co). Monossílabos podem ser <b>tônicos</b> (pé, mês, já) ou <b>átonos</b> (de, que, se).</li></ul>\n<h3>2. As regras de acentuação</h3>\n<table class=\"tab\"><thead><tr><th>Regra</th><th>Acentuam-se</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Proparoxítonas</b></td><td><b>todas</b></td><td>público, árvore, lâmpada, código, médico</td></tr><tr><td><b>Oxítonas</b></td><td>terminadas em <b>a(s), e(s), o(s), em, ens</b></td><td>sofá, você, avô, também, parabéns</td></tr><tr><td><b>Monossílabos tônicos</b></td><td>terminados em <b>a(s), e(s), o(s)</b></td><td>pá, pés, nós, dó</td></tr><tr><td><b>Paroxítonas</b></td><td>terminadas em <b>l, n, r, x, ps, ã(s), ão(s), i(s), us, um, uns, ei(s)</b>, e em <b>ditongo</b> oral</td><td>fácil, hífen, caráter, tórax, bíceps, órfã, órgão, júri, vírus, álbum, jóquei, história, série</td></tr><tr><td><b>Ditongos abertos</b> éi, éu, ói</td><td>nas <b>oxítonas</b> e monossílabos: papéis, chapéu, herói, dói; <b>não</b> nas paroxítonas: ideia, assembleia, heroico, jiboia</td></tr><tr><td><b>Hiatos</b> com i e u tônicos</td><td>quando sozinhos na sílaba ou com s: saída, saúde, baú, país; <b>não</b> se acentuam se seguidos de <b>nh</b> (rainha) ou se repetidos (xiita) ou, nas paroxítonas, após ditongo (feiura, baiuca)</td></tr></tbody></table>\n<ul><li><b>Dica para as paroxítonas</b>: elas são a maioria das palavras e, por isso, <b>só são acentuadas nas terminações \"menos comuns\"</b>. As paroxítonas terminadas em <b>a, e, o, em, ens</b> <b>não</b> levam acento (casa, jovem, itens). Por isso <b>hífen</b> tem acento e <b>hifens</b> não.</li></ul>\n<h3>3. O que o Acordo Ortográfico mudou</h3>\n<ul><li><b>Trema</b>: <b>abolido</b> em palavras portuguesas (linguiça, frequente, consequência, tranquilo), mantido só em nomes estrangeiros e derivados (Müller, mülleriano).</li><li><b>Ditongos abertos ei e oi nas paroxítonas</b>: perderam o acento (<b>ideia, assembleia, heroico, jiboia, plateia</b>). Nas <b>oxítonas</b>, continua (<b>papéis, herói, anéis, troféu</b>).</li><li><b>Hiatos ee e oo</b>: perderam o acento (<b>creem, deem, leem, veem, voo, enjoo, perdoo</b>).</li><li><b>Acentos diferenciais</b>: caíram em <b>para</b> (verbo) / para (preposição), <b>pela/pelo</b>, <b>polo</b>, <b>pera</b>. <b>Continuam</b>: <b>pôr</b> (verbo) / por (preposição); <b>pôde</b> (pretérito) / pode (presente); <b>têm/vêm</b> (plural) / tem/vem (singular); derivados como <b>mantêm, detêm, obtêm</b> (plural) / mantém (singular). <b>Fôrma/forma</b> é <b>facultativo</b>.</li><li><b>i e u tônicos após ditongo em paroxítonas</b>: perderam o acento (feiura, baiuca, Bocaiuva).</li></ul>\n<h3>4. Hífen com prefixos (o essencial)</h3>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Regra</th><th>Exemplos</th></tr></thead><tbody><tr><td>Prefixo terminado em <b>vogal igual</b> à que inicia o segundo elemento</td><td><b>com hífen</b></td><td>micro-ondas, anti-inflamatório, contra-ataque</td></tr><tr><td>Vogais <b>diferentes</b></td><td><b>sem hífen</b>, junta</td><td>autoescola, infraestrutura, extraoficial, semiaberto</td></tr><tr><td>Segundo elemento começa com <b>h</b></td><td><b>com hífen</b></td><td>anti-higiênico, super-homem, pré-história</td></tr><tr><td>Prefixo terminado em vogal + palavra com <b>r ou s</b></td><td><b>sem hífen</b>, <b>dobra</b> o r ou o s</td><td>antirrábico, autorretrato, contrassenso, minissaia</td></tr><tr><td>Prefixo terminado em <b>r</b> + palavra iniciada por <b>r</b></td><td><b>com hífen</b></td><td>inter-racial, super-resistente, hiper-realista</td></tr><tr><td>Prefixos <b>ex</b> (anterioridade), <b>vice</b>, <b>sem, além, aquém, recém, pós, pré, pró</b> (tônicos)</td><td><b>sempre com hífen</b></td><td>ex-delegado, vice-diretor, sem-teto, recém-chegado, pós-graduação</td></tr><tr><td><b>co</b></td><td>em geral <b>sem hífen</b>, mesmo diante de o</td><td>coautor, coordenar, cooperar, coerdeiro</td></tr></tbody></table>\n<h3>5. Grafia: dúvidas campeãs</h3>\n<ul><li><b>Os porquês</b>: <b>por que</b> (separado, sem acento) em <b>perguntas</b> e quando equivale a \"<b>pelo qual</b>\" (\"Por que ele fugiu?\"; \"o motivo <b>por que</b> fugiu\"); <b>por quê</b> (separado, com acento) no <b>fim da frase</b> ou antes de pausa (\"Ele fugiu <b>por quê</b>?\"); <b>porque</b> (junto, sem acento) é <b>conjunção</b> = <b>pois, uma vez que</b> (\"Fugiu <b>porque</b> estava armado\"); <b>porquê</b> (junto, com acento) é <b>substantivo</b> = <b>o motivo</b>, vem com artigo (\"Não sei <b>o porquê</b> da fuga\").</li><li><b>Mal x mau</b>: <b>mal</b> é o oposto de <b>bem</b> (advérbio ou substantivo: \"agiu <b>mal</b>\", \"o <b>mal</b> venceu\"); <b>mau</b> é o oposto de <b>bom</b> (adjetivo: \"um <b>mau</b> policial\").</li><li><b>Há x a</b>: <b>há</b> indica <b>tempo passado</b> (= faz): \"Ele saiu <b>há</b> duas horas\"; <b>a</b> indica <b>futuro ou distância</b>: \"Daqui <b>a</b> duas horas\", \"<b>a</b> dois quilômetros\".</li><li><b>Onde x aonde</b>: <b>onde</b> = lugar em que (verbos de permanência: \"<b>Onde</b> você mora?\"); <b>aonde</b> = lugar a que (verbos de movimento: \"<b>Aonde</b> você vai?\").</li><li><b>Senão x se não</b>: <b>senão</b> = caso contrário, a não ser (\"Corra, <b>senão</b> perde o ônibus\"); <b>se não</b> = caso não (\"<b>Se não</b> chover, iremos\").</li><li><b>Parônimos campeões</b>: <b>descrição</b> (descrever) x <b>discrição</b> (ser discreto); <b>flagrante</b> (evidente, no ato) x <b>fragrante</b> (perfumado); <b>eminente</b> (ilustre) x <b>iminente</b> (prestes a ocorrer); <b>mandado</b> (ordem judicial) x <b>mandato</b> (período de representação); <b>ratificar</b> (confirmar) x <b>retificar</b> (corrigir); <b>deferir</b> (atender) x <b>diferir</b> (adiar, diferenciar); <b>infligir</b> (aplicar pena) x <b>infringir</b> (violar lei); <b>tráfego</b> (trânsito) x <b>tráfico</b> (comércio ilegal); <b>cessão</b> (ceder) x <b>seção</b> (setor) x <b>sessão</b> (reunião).</li><li><b>S, Z, Ç, SS</b>: substantivos derivados de verbos terminados em <b>-ter, -tir, -der</b> usam <b>-ção/-são</b> conforme o radical: deter → deten<b>ção</b>; omitir → omis<b>são</b>; ceder → ces<b>são</b>. Adjetivos pátrios e títulos usam <b>-ês, -esa</b> (português, francesa, marquesa); substantivos abstratos de adjetivos usam <b>-ez, -eza</b> (rapidez, beleza). Verbos com <b>-isar</b> quando o radical tem <b>s</b> (analisar, pesquisar) e <b>-izar</b> nos demais (realizar, civilizar).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Ideia\" continua com acento</span><br>✅ <span class=\"certo\">Paroxítona com ditongo aberto perdeu o acento.</span></li><li>❌ <span class=\"banca\">\"Herói\" perdeu o acento</span><br>✅ <span class=\"certo\">Oxítona com ditongo aberto mantém.</span></li><li>❌ <span class=\"banca\">\"Pôde\" perdeu o acento diferencial</span><br>✅ <span class=\"certo\">Continua (pôde x pode).</span></li><li>❌ <span class=\"banca\">\"Auto-escola\" tem hífen</span><br>✅ <span class=\"certo\">Vogais diferentes: autoescola.</span></li><li>❌ <span class=\"banca\">\"Anti-rábico\"</span><br>✅ <span class=\"certo\">Dobra o r: antirrábico.</span></li><li>❌ <span class=\"banca\">\"Porque\" no fim da pergunta</span><br>✅ <span class=\"certo\">\"Por quê?\" separado e com acento.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Proparoxítonas?</span></span><span class=\"vs\"><span><b>Todas</b> acentuadas.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Paroxítonas terminadas em \"a, e, o, em\"?</span></span><span class=\"vs\"><span><b>Sem</b> acento.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ideia, assembleia, heroico?</span></span><span class=\"vs\"><span><b>Sem</b> acento desde o Acordo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Papéis, herói, chapéu?</span></span><span class=\"vs\"><span><b>Com</b> acento (oxítonas).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Creem, leem, voo?</span></span><span class=\"vs\"><span><b>Sem</b> acento.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Acentos diferenciais que ficaram?</span></span><span class=\"vs\"><span><b>pôr, pôde, têm/vêm</b> (e fôrma facultativo).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Por que x porque?</span></span><span class=\"vs\"><span>Pergunta/pelo qual x <b>conjunção</b> (pois).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mandado x mandato?</span></span><span class=\"vs\"><span><b>Ordem judicial</b> x <b>período de representação</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O relatório com erros</b><p>Um investigador escreveu: \"O suspeito agiu com muita descrição e fugiu a duas horas, por que tinha um mandato de prisão contra ele.\"</p><details><summary>Ver a solução comentada</summary><p>Correções: \"<b>discrição</b>\" (ser discreto; descrição é o ato de descrever); \"<b>há</b> duas horas\" (tempo passado = faz); \"<b>porque</b>\" (conjunção explicativa = pois); \"<b>mandado</b> de prisão\" (ordem judicial; mandato é o período de um cargo eletivo). Versão correta: \"O suspeito agiu com muita discrição e fugiu há duas horas, porque havia um mandado de prisão contra ele.\"</p></details></div>",
@@ -4487,6 +5761,1654 @@ export const PROFUNDO = {
 "prof": "Duas regras numa questão só: regência de \"assistir\" e o caso especial da palavra \"casa\".",
 "x": "\"Assistir\", no sentido de presenciar, exige a preposição \"a\": \"assistiu à reunião\". \"Casa\", no sentido de lar da própria pessoa e sem especificação, não admite artigo: \"voltou a casa\".",
 "e": "Assistir (ver) = à. Casa sem especificação = a."
+}
+]
+},
+"semantica-discurso": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>grupos de figuras (de palavra, de construção, de pensamento e de som)</span></div><div class=\"lt-stat\"><b>6</b><span>relações de sentido básicas (sinonímia, antonímia, hiponímia, hiperonímia, polissemia e homonímia)</span></div><div class=\"lt-stat\"><b>3</b><span>tipos de discurso (direto, indireto e indireto livre)</span></div><div class=\"lt-stat\"><b>5</b><span>formas de intertextualidade mais cobradas (citação, alusão, paráfrase, paródia e epígrafe)</span></div></div>\n<h3>1. Semântica: o estudo do sentido</h3>\n<ul><li><b>Semântica</b> é a parte da gramática que estuda o <b>significado</b> das palavras, das frases e dos textos, e as <b>relações de sentido</b> entre eles. Nas provas, aparece em questões de <b>sentido contextual</b>, <b>substituição</b> de palavras, <b>figuras de linguagem</b>, <b>ambiguidade</b> e <b>intertextualidade</b>.</li><li><b>Significado em contexto</b>: o sentido de uma palavra depende do <b>contexto</b> em que ela aparece. \"Ele <b>pegou</b> o ônibus\" (embarcou), \"<b>pegou</b> uma gripe\" (contraiu), \"<b>pegou</b> o ladrão\" (prendeu), \"a ideia não <b>pegou</b>\" (não teve aceitação). Por isso, toda questão de sentido exige <b>voltar ao texto</b>.</li></ul>\n<h3>2. Denotação e conotação</h3>\n<ul><li><b>Denotação</b>: sentido <b>literal</b>, objetivo, de dicionário. \"O <b>ouro</b> é um metal precioso.\"</li><li><b>Conotação</b>: sentido <b>figurado</b>, ampliado, que depende do contexto e carrega valores e emoções. \"Aquele jogador é <b>ouro</b> para o time\" (valioso).</li><li><b>Onde predominam</b>: a <b>denotação</b> em textos científicos, técnicos, jornalísticos informativos, laudos e documentos oficiais (que precisam de precisão); a <b>conotação</b> em textos literários, publicitários, crônicas e na fala cotidiana.</li><li><b>Expressões idiomáticas</b> são conotativas e não se traduzem palavra por palavra: \"<b>pagar o pato</b>\" (levar a culpa), \"<b>chutar o balde</b>\" (desistir com raiva), \"<b>dar com a língua nos dentes</b>\" (revelar segredo), \"<b>engolir sapo</b>\" (suportar algo calado), \"<b>pisar na bola</b>\" (cometer um erro).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Linguagem conotativa é a mais adequada em laudos e relatórios</span><br>✅ <span class=\"certo\">Em textos técnicos e oficiais predomina a <b>denotação</b> (precisão)</span></li><li>❌ <span class=\"banca\">\"Ele é o braço direito do chefe\" está em sentido denotativo</span><br>✅ <span class=\"certo\">É sentido <b>conotativo</b> (pessoa de confiança)</span></li></ol></div>\n<h3>3. Relações de sentido entre palavras</h3>\n<table class=\"tab\"><thead><tr><th>Relação</th><th>Definição</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Sinonímia</b></td><td>palavras de sentido <b>semelhante</b> (raramente idêntico)</td><td>casa/lar; começar/iniciar; apreender/confiscar (em certos contextos)</td></tr><tr><td><b>Antonímia</b></td><td>palavras de sentido <b>oposto</b></td><td>claro/escuro; culpado/inocente; deferir/indeferir</td></tr><tr><td><b>Hiperonímia</b></td><td>palavra de sentido <b>mais amplo</b> (o gênero)</td><td><b>arma</b> em relação a revólver, faca, pistola; <b>veículo</b> em relação a carro e moto</td></tr><tr><td><b>Hiponímia</b></td><td>palavra de sentido <b>mais específico</b> (a espécie)</td><td><b>revólver</b> em relação a arma; <b>homicídio</b> em relação a crime</td></tr><tr><td><b>Polissemia</b></td><td>uma palavra com <b>vários sentidos relacionados</b> entre si</td><td><b>pé</b> (da mesa, de alface, humano); <b>cabeça</b> (do corpo, do movimento, de alho)</td></tr><tr><td><b>Homonímia</b></td><td>palavras com a <b>mesma forma</b> (som e/ou grafia) e sentidos <b>sem relação</b></td><td><b>são</b> (santo, sadio, verbo ser); <b>manga</b> (fruta e parte da camisa)</td></tr></tbody></table>\n<ul><li><b>Hiperônimos como recurso de coesão</b>: o texto retoma \"o revólver\" com \"<b>a arma</b>\" (hiperônimo), evitando repetição. Essa troca é cobrada em questões de referenciação.</li><li><b>Sinônimos perfeitos são raros</b>: a troca de uma palavra por um \"sinônimo\" pode alterar o <b>registro</b> (formal x informal), a <b>intensidade</b> (\"cansado\" x \"exausto\") ou o sentido no contexto. A banca pergunta se a substituição <b>mantém</b> o sentido <b>naquele contexto</b>.</li><li><b>Homônimos</b>: <b>homófonos</b> (mesmo som, grafia diferente: <b>cela</b>/sela, <b>sessão</b>/seção/cessão, <b>concerto</b>/conserto, <b>cassar</b>/caçar, <b>censo</b>/senso, <b>acento</b>/assento); <b>homógrafos</b> (mesma grafia, som diferente: <b>colher</b> [ê] verbo / <b>colher</b> [é] substantivo; <b>sede</b> [ê] vontade de beber / <b>sede</b> [é] lugar); <b>homônimos perfeitos</b> (mesma grafia e som: <b>são</b>, <b>manga</b>, <b>rio</b> do verbo rir e rio curso d'água).</li></ul>\n<table class=\"tab\"><thead><tr><th>Homófonos frequentes</th><th>Sentidos</th></tr></thead><tbody><tr><td><b>Cela / sela</b></td><td>cela = <b>compartimento</b> de prisão; sela = <b>arreio</b> de cavalo (ou verbo selar)</td></tr><tr><td><b>Sessão / seção / cessão</b></td><td>sessão = <b>reunião</b>, duração (sessão de cinema); seção = <b>divisão</b>, setor; cessão = ato de <b>ceder</b></td></tr><tr><td><b>Cassar / caçar</b></td><td>cassar = <b>anular</b> (cassar mandato, licença); caçar = <b>perseguir</b> animais</td></tr><tr><td><b>Concerto / conserto</b></td><td>concerto = <b>apresentação musical</b>, harmonia; conserto = <b>reparo</b></td></tr><tr><td><b>Censo / senso</b></td><td>censo = <b>recenseamento</b>; senso = <b>juízo</b> (bom senso)</td></tr><tr><td><b>Acento / assento</b></td><td>acento = <b>sinal gráfico</b>, tom; assento = <b>lugar</b> para sentar</td></tr><tr><td><b>Incipiente / insipiente</b></td><td>incipiente = <b>iniciante</b>; insipiente = <b>ignorante</b></td></tr><tr><td><b>Expiar / espiar</b></td><td>expiar = <b>pagar</b> (culpa); espiar = <b>observar</b> às escondidas</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O preso foi recolhido à sela</span><br>✅ <span class=\"certo\">Compartimento de prisão = <b>cela</b>; sela é arreio</span></li><li>❌ <span class=\"banca\">A câmara cassou a licença de caça</span><br>✅ <span class=\"certo\">Está correto: <b>cassar</b> = anular; <b>caça</b> = perseguir animais</span></li><li>❌ <span class=\"banca\">Sessão é sinônimo de divisão</span><br>✅ <span class=\"certo\">Divisão = <b>seção</b>; sessão = <b>reunião</b></span></li><li>❌ <span class=\"banca\">Polissemia é o mesmo que homonímia</span><br>✅ <span class=\"certo\">Na polissemia os sentidos são <b>relacionados</b>; na homonímia, <b>sem relação</b></span></li></ol></div>\n<h3>4. Parônimos (revisão ampliada)</h3>\n<ul><li><b>Parônimos</b> são palavras <b>parecidas</b> na escrita e na pronúncia, mas com sentidos <b>diferentes</b>. São muito cobrados em questões de \"palavra adequada ao contexto\".</li></ul>\n<table class=\"tab\"><thead><tr><th>Par</th><th>Diferença</th></tr></thead><tbody><tr><td><b>Absolver / absorver</b></td><td>absolver = <b>inocentar</b>; absorver = <b>sorver</b>, assimilar</td></tr><tr><td><b>Comprimento / cumprimento</b></td><td>comprimento = <b>extensão</b>; cumprimento = <b>saudação</b> ou <b>execução</b> (cumprimento de pena)</td></tr><tr><td><b>Deferir / diferir</b></td><td>deferir = <b>conceder</b>, atender; diferir = <b>adiar</b> ou ser <b>diferente</b></td></tr><tr><td><b>Descriminar / discriminar</b></td><td>descriminar = <b>deixar de considerar crime</b>; discriminar = <b>distinguir</b> ou tratar com preconceito</td></tr><tr><td><b>Despensa / dispensa</b></td><td>despensa = <b>lugar</b> de guardar mantimentos; dispensa = <b>liberação</b>, licença</td></tr><tr><td><b>Emergir / imergir</b></td><td>emergir = <b>vir à tona</b>; imergir = <b>mergulhar</b></td></tr><tr><td><b>Eminente / iminente</b></td><td>eminente = <b>ilustre</b>; iminente = <b>prestes a ocorrer</b></td></tr><tr><td><b>Flagrante / fragrante</b></td><td>flagrante = <b>evidente</b>, no ato; fragrante = <b>perfumado</b></td></tr><tr><td><b>Inflação / infração</b></td><td>inflação = <b>alta de preços</b>; infração = <b>violação</b> de norma</td></tr><tr><td><b>Infligir / infringir</b></td><td>infligir = <b>aplicar</b> pena; infringir = <b>violar</b></td></tr><tr><td><b>Mandado / mandato</b></td><td>mandado = <b>ordem</b> judicial; mandato = <b>período</b> de representação</td></tr><tr><td><b>Ratificar / retificar</b></td><td>ratificar = <b>confirmar</b>; retificar = <b>corrigir</b></td></tr><tr><td><b>Sortir / surtir</b></td><td>sortir = <b>abastecer</b>; surtir = <b>produzir</b> (efeito)</td></tr><tr><td><b>Tráfego / tráfico</b></td><td>tráfego = <b>trânsito</b>; tráfico = <b>comércio ilegal</b></td></tr><tr><td><b>Vultoso / vultuoso</b></td><td>vultoso = <b>volumoso</b>, de grande valor (quantia vultosa); vultuoso = <b>inchado</b>, congestionado (rosto vultuoso)</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A medida não sortiu efeito</span><br>✅ <span class=\"certo\">Produzir efeito = <b>surtir</b>; sortir é abastecer</span></li><li>❌ <span class=\"banca\">O STF descriminou o porte para uso pessoal (no sentido de discriminar pessoas)</span><br>✅ <span class=\"certo\"><b>Descriminar</b> = deixar de ser crime; <b>discriminar</b> = distinguir ou tratar com preconceito</span></li><li>❌ <span class=\"banca\">Quantia vultuosa</span><br>✅ <span class=\"certo\">Grande valor = <b>vultosa</b>; vultuoso é inchado</span></li><li>❌ <span class=\"banca\">O réu foi absorvido pelo júri</span><br>✅ <span class=\"certo\">Inocentado = <b>absolvido</b></span></li></ol></div>\n<h3>5. Figuras de linguagem: visão geral</h3>\n<ul><li><b>Figuras de linguagem</b> são recursos que se afastam do uso comum para dar <b>expressividade</b>, ênfase, beleza ou humor ao texto. Dividem-se em quatro grupos:</li></ul>\n<table class=\"tab\"><thead><tr><th>Grupo</th><th>Atuam sobre</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Figuras de palavra</b> (tropos)</td><td>o <b>sentido</b> das palavras (mudança de significado)</td><td>metáfora, comparação, metonímia, sinestesia, catacrese, antonomásia, perífrase</td></tr><tr><td><b>Figuras de construção</b> (de sintaxe)</td><td>a <b>estrutura</b> da frase</td><td>elipse, zeugma, pleonasmo, polissíndeto, assíndeto, anáfora, hipérbato, anacoluto, silepse</td></tr><tr><td><b>Figuras de pensamento</b></td><td>a <b>ideia</b>, o sentido global</td><td>antítese, paradoxo, ironia, hipérbole, eufemismo, gradação, prosopopeia (personificação), apóstrofe</td></tr><tr><td><b>Figuras de som</b> (de harmonia)</td><td>a <b>sonoridade</b></td><td>aliteração, assonância, onomatopeia, paronomásia</td></tr></tbody></table>\n<h3>6. Figuras de palavra</h3>\n<ul><li><b>Comparação</b> (símile): aproxima dois elementos com <b>conectivo comparativo explícito</b> (como, tal qual, feito, assim como, que nem). \"Ele é forte <b>como</b> um touro.\"</li><li><b>Metáfora</b>: comparação <b>implícita</b>, <b>sem</b> conectivo; atribui a um ser características de outro. \"Ele é <b>um touro</b>.\" \"A vida é <b>uma viagem</b>.\" É a figura mais cobrada.</li><li><b>Metonímia</b>: substituição de uma palavra por outra com a qual mantém <b>relação de proximidade</b> (contiguidade), não de semelhança:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de metonímia</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Autor pela obra</b></td><td>\"Li <b>Machado de Assis</b>\" (os livros dele)</td></tr><tr><td><b>Continente pelo conteúdo</b></td><td>\"Bebeu <b>um copo</b> de água\" (a água do copo)</td></tr><tr><td><b>Marca pelo produto</b></td><td>\"Comprei <b>um Gillette</b>\" (lâmina); \"Passe o <b>Bombril</b>\"</td></tr><tr><td><b>Parte pelo todo</b> (sinédoque)</td><td>\"Há <b>dez cabeças</b> no rebanho\"; \"Não tem <b>um teto</b>\" (casa)</td></tr><tr><td><b>Lugar pelo produto ou pela instituição</b></td><td>\"O <b>Planalto</b> decidiu\" (a Presidência); \"Bebeu um <b>Porto</b>\" (vinho)</td></tr><tr><td><b>Símbolo pelo simbolizado</b></td><td>\"A <b>farda</b> chegou\" (a polícia); \"A <b>coroa</b> decidiu\" (o rei)</td></tr><tr><td><b>Instrumento pelo usuário</b></td><td>\"É um bom <b>garfo</b>\" (come bem); \"O <b>volante</b> da equipe\" (o motorista/piloto)</td></tr><tr><td><b>Concreto pelo abstrato</b></td><td>\"Tem bom <b>coração</b>\" (bondade)</td></tr><tr><td><b>Efeito pela causa</b></td><td>\"Ganha o pão com o <b>suor</b>\" (trabalho)</td></tr></tbody></table>\n<ul><li><b>Sinestesia</b>: mistura de <b>sensações</b> de sentidos diferentes (visão, audição, tato, olfato, paladar). \"Uma voz <b>doce</b>\" (audição + paladar); \"cores <b>quentes</b>\" (visão + tato); \"um olhar <b>frio</b>\".</li><li><b>Catacrese</b>: metáfora já <b>desgastada</b>, usada por <b>falta de palavra própria</b>, que não é mais percebida como figura. \"<b>Pé</b> da mesa\", \"<b>braço</b> da cadeira\", \"<b>céu</b> da boca\", \"<b>dente</b> de alho\", \"<b>embarcar</b> no ônibus\" (originalmente, entrar em barco).</li><li><b>Antonomásia</b> (ou perífrase de pessoa): substituir um <b>nome próprio</b> por uma característica conhecida. \"O <b>Poeta dos Escravos</b>\" (Castro Alves); \"a <b>Cidade Maravilhosa</b>\" (Rio de Janeiro, também perífrase de lugar).</li><li><b>Perífrase</b>: expressão que <b>designa</b> um ser por meio de suas características. \"O <b>astro-rei</b>\" (o Sol); \"a <b>última flor do Lácio</b>\" (a língua portuguesa); \"o <b>rei dos animais</b>\" (o leão).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Ele é forte como um touro\" é metáfora</span><br>✅ <span class=\"certo\">Com conectivo <b>como</b>, é <b>comparação</b>; sem conectivo (\"ele é um touro\"), <b>metáfora</b></span></li><li>❌ <span class=\"banca\">\"Li Machado de Assis\" é metáfora</span><br>✅ <span class=\"certo\">É <b>metonímia</b> (autor pela obra)</span></li><li>❌ <span class=\"banca\">\"Pé da mesa\" é metáfora expressiva intencional</span><br>✅ <span class=\"certo\">É <b>catacrese</b> (metáfora desgastada, por falta de termo próprio)</span></li><li>❌ <span class=\"banca\">Sinestesia é a repetição de sons consonantais</span><br>✅ <span class=\"certo\">Isso é <b>aliteração</b>; sinestesia é <b>mistura de sentidos</b></span></li></ol></div>\n<h3>7. Figuras de construção (sintaxe)</h3>\n<table class=\"tab\"><thead><tr><th>Figura</th><th>Definição</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Elipse</b></td><td><b>omissão</b> de termo facilmente subentendido (não mencionado antes)</td><td>\"Na sala, apenas três pessoas.\" (omissão de \"havia\")</td></tr><tr><td><b>Zeugma</b></td><td>omissão de termo <b>já mencionado</b> antes</td><td>\"Eu gosto de café; ela, de chá.\" (omissão de \"gosta\")</td></tr><tr><td><b>Pleonasmo</b></td><td><b>repetição</b> de ideia para reforço (expressivo) ou por vício (vicioso)</td><td>\"Vi <b>com meus próprios olhos</b>\" (expressivo); \"<b>subir para cima</b>\" (vicioso)</td></tr><tr><td><b>Polissíndeto</b></td><td><b>repetição</b> de conjunções (geralmente \"e\")</td><td>\"E corre, <b>e</b> grita, <b>e</b> chora, <b>e</b> não para.\"</td></tr><tr><td><b>Assíndeto</b></td><td><b>ausência</b> de conjunções entre termos ou orações</td><td>\"Vim, vi, venci.\"</td></tr><tr><td><b>Anáfora</b></td><td><b>repetição</b> de palavra ou expressão no <b>início</b> de frases ou versos</td><td>\"<b>Cada</b> passo, <b>cada</b> pista, <b>cada</b> detalhe conta na investigação.\"</td></tr><tr><td><b>Hipérbato</b> (inversão)</td><td><b>inversão</b> da ordem direta da frase</td><td>\"Da janela, todo o crime <b>viu</b> a vizinha.\" (ordem direta: A vizinha viu todo o crime da janela.)</td></tr><tr><td><b>Anacoluto</b></td><td>termo <b>solto</b> no início, sem função sintática na frase, com quebra da estrutura</td><td>\"<b>Eu</b>, parece que tudo deu errado.\"</td></tr><tr><td><b>Silepse</b></td><td>concordância com a <b>ideia</b>, e não com a forma gramatical</td><td>de <b>gênero</b> (\"Vossa Excelência está <b>cansado</b>\", referindo-se a homem); de <b>número</b> (\"A multidão gritou; <b>pediam</b> justiça\"); de <b>pessoa</b> (\"Os brasileiros <b>somos</b> otimistas\")</td></tr></tbody></table>\n<ul><li><b>Elipse x zeugma</b>: na <b>elipse</b>, o termo omitido <b>não</b> apareceu antes; no <b>zeugma</b>, o termo omitido <b>já</b> foi dito antes (é uma elipse de termo anterior).</li><li><b>Pleonasmo vicioso</b> (a evitar em textos formais): \"subir para cima\", \"entrar para dentro\", \"elo de ligação\", \"há anos atrás\", \"surpresa inesperada\", \"encarar de frente\", \"repetir de novo\", \"manter o mesmo\". Questões de reescrita costumam cobrar sua <b>eliminação</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Zeugma é a omissão de termo que não foi dito antes no texto</span><br>✅ <span class=\"certo\">Essa é a <b>elipse</b>; o <b>zeugma</b> omite termo <b>já mencionado</b></span></li><li>❌ <span class=\"banca\">\"Há dez anos atrás\" é construção correta e elegante</span><br>✅ <span class=\"certo\">É <b>pleonasmo vicioso</b>: use \"<b>há</b> dez anos\" ou \"dez anos <b>atrás</b>\"</span></li><li>❌ <span class=\"banca\">Polissíndeto é a ausência de conjunções</span><br>✅ <span class=\"certo\">É a <b>repetição</b> de conjunções; a ausência é o <b>assíndeto</b></span></li><li>❌ <span class=\"banca\">Em \"A multidão gritou; pediam justiça\" há erro de concordância</span><br>✅ <span class=\"certo\">É <b>silepse de número</b> (concordância com a ideia de plural)</span></li></ol></div>\n<h3>8. Figuras de pensamento</h3>\n<table class=\"tab\"><thead><tr><th>Figura</th><th>Definição</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Antítese</b></td><td>aproximação de <b>ideias opostas</b> (sem contradição lógica)</td><td>\"Nasce o <b>sol</b>, e não dura mais que um <b>dia</b>; depois da <b>luz</b> se segue a <b>noite</b> escura.\"</td></tr><tr><td><b>Paradoxo</b> (oxímoro)</td><td>ideias opostas que parecem <b>contraditórias</b> e se referem ao <b>mesmo</b> ser, ao mesmo tempo</td><td>\"O amor é <b>fogo que arde sem se ver</b>\"; \"um <b>silêncio ensurdecedor</b>\"</td></tr><tr><td><b>Ironia</b></td><td>dizer o <b>contrário</b> do que se pensa, com intenção crítica ou humorística</td><td>\"Que <b>ótimo</b>! Perdi o ônibus de novo.\"</td></tr><tr><td><b>Hipérbole</b></td><td><b>exagero</b> intencional</td><td>\"Já te disse <b>um milhão de vezes</b>.\" \"Morri de rir.\"</td></tr><tr><td><b>Eufemismo</b></td><td><b>suavizar</b> expressão desagradável</td><td>\"Ele <b>partiu desta para melhor</b>\" (morreu); \"<b>faltou com a verdade</b>\" (mentiu)</td></tr><tr><td><b>Disfemismo</b></td><td>o contrário do eufemismo: expressão <b>grosseira</b> ou depreciativa</td><td>\"<b>bater as botas</b>\"</td></tr><tr><td><b>Gradação</b></td><td>sequência de ideias em ordem <b>crescente</b> (clímax) ou <b>decrescente</b> (anticlímax)</td><td>\"Um <b>sonho</b>, uma <b>meta</b>, uma <b>obsessão</b>.\"</td></tr><tr><td><b>Prosopopeia</b> (personificação)</td><td>atribuir características <b>humanas</b> a seres inanimados ou animais</td><td>\"A cidade <b>dormia</b>.\" \"O vento <b>sussurrava</b>.\"</td></tr><tr><td><b>Apóstrofe</b></td><td><b>invocação</b> ou chamamento a alguém ou algo (vocativo enfático)</td><td>\"<b>Ó mar salgado</b>, quanto do teu sal são lágrimas de Portugal!\"</td></tr></tbody></table>\n<ul><li><b>Antítese x paradoxo</b>: na <b>antítese</b>, as ideias opostas <b>convivem</b> sem contradição lógica (dia e noite, em momentos diferentes); no <b>paradoxo</b>, a oposição parece <b>absurda</b> porque se aplica ao <b>mesmo</b> ser ao mesmo tempo (\"silêncio ensurdecedor\", \"estou cego e vejo\").</li><li><b>Eufemismo no texto oficial e jornalístico</b>: expressões como \"<b>óbito</b>\" (morte), \"<b>pessoa em situação de rua</b>\", \"<b>privado de liberdade</b>\" podem ser eufemismos ou escolhas de linguagem <b>respeitosa</b> e técnica. Questões perguntam o <b>efeito</b> da escolha (suavizar, respeitar, mascarar).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Antítese e paradoxo são a mesma figura</span><br>✅ <span class=\"certo\">Na <b>antítese</b> os opostos convivem sem contradição; no <b>paradoxo</b> a oposição se aplica ao <b>mesmo</b> ser e parece absurda</span></li><li>❌ <span class=\"banca\">\"Morri de rir\" é eufemismo</span><br>✅ <span class=\"certo\">É <b>hipérbole</b> (exagero)</span></li><li>❌ <span class=\"banca\">Prosopopeia é a invocação de um ser ausente</span><br>✅ <span class=\"certo\">Invocação é <b>apóstrofe</b>; <b>prosopopeia</b> é personificação</span></li><li>❌ <span class=\"banca\">\"Faltar com a verdade\" é hipérbole</span><br>✅ <span class=\"certo\">É <b>eufemismo</b> (suaviza \"mentir\")</span></li></ol></div>\n<h3>9. Figuras de som</h3>\n<ul><li><b>Aliteração</b>: repetição de <b>sons consonantais</b>. \"O <b>r</b>ato <b>r</b>oeu a <b>r</b>oupa do <b>r</b>ei de <b>R</b>oma.\" \"<b>V</b>ozes <b>v</b>eladas, <b>v</b>eludosas <b>v</b>ozes...\"</li><li><b>Assonância</b>: repetição de <b>sons vocálicos</b>. \"A m<b>a</b>lv<b>a</b> e <b>a</b> c<b>a</b>l<b>a</b>nd<b>ra</b> n<b>a</b> l<b>a</b>rg<b>a</b> c<b>a</b>lç<b>a</b>d<b>a</b>.\" (repetição do som <b>a</b>)</li><li><b>Onomatopeia</b>: palavra que <b>imita</b> um som. \"<b>Tic-tac</b>\", \"<b>bum</b>\", \"<b>miau</b>\", \"o <b>zum-zum-zum</b> da plateia\".</li><li><b>Paronomásia</b>: aproximação de palavras de <b>som parecido</b> e sentido diferente (trocadilho). \"Quem <b>casa</b> quer <b>casa</b>.\" \"<b>Conhecer</b> é <b>con-viver</b>.\"</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Aliteração é a repetição de vogais</span><br>✅ <span class=\"certo\"><b>Aliteração</b> = <b>consoantes</b>; <b>assonância</b> = <b>vogais</b></span></li><li>❌ <span class=\"banca\">\"Tic-tac\" é aliteração</span><br>✅ <span class=\"certo\">É <b>onomatopeia</b> (imita som)</span></li></ol></div>\n<h3>10. Ambiguidade</h3>\n<ul><li><b>Ambiguidade</b> (ou anfibologia) ocorre quando uma frase admite <b>mais de uma interpretação</b>. Em textos <b>oficiais, técnicos e policiais</b>, é <b>defeito grave</b>; em textos humorísticos e publicitários, pode ser <b>recurso</b> intencional.</li></ul>\n<table class=\"tab\"><thead><tr><th>Causa da ambiguidade</th><th>Exemplo ambíguo</th><th>Como corrigir</th></tr></thead><tbody><tr><td><b>Pronome possessivo</b> (seu, sua)</td><td>\"O delegado conversou com o investigador em <b>sua</b> sala.\" (sala de quem?)</td><td>\"...na sala <b>do investigador</b>\" ou \"...na <b>própria</b> sala\"</td></tr><tr><td><b>Pronome relativo</b> (que, o qual)</td><td>\"Encontrei o filho da vizinha <b>que</b> estava doente.\" (quem estava doente?)</td><td>\"...o filho da vizinha, <b>o qual</b> estava doente\" ou \"...a vizinha, <b>a qual</b>...\"</td></tr><tr><td><b>Posição de termos</b> (adjunto)</td><td>\"Vi o ladrão <b>correndo</b>.\" (quem corria?)</td><td>\"Vi o ladrão, <b>que corria</b>\" ou \"<b>Correndo</b>, vi o ladrão\" (se era eu)</td></tr><tr><td><b>Palavra polissêmica</b></td><td>\"O banco estava quebrado.\" (assento ou instituição?)</td><td>deixar o contexto claro: \"O <b>banco da praça</b>...\"</td></tr><tr><td><b>Adjetivo ou termo com dois possíveis referentes</b></td><td>\"Vendem-se <b>meias e sapatos usados</b>.\" (as meias também são usadas?)</td><td>\"Vendem-se sapatos usados e meias\"</td></tr><tr><td><b>Oração reduzida</b></td><td>\"<b>Ao sair do carro</b>, o policial viu o suspeito.\" (quem saiu?)</td><td>\"<b>Quando o suspeito saiu</b> do carro, o policial o viu\"</td></tr></tbody></table>\n<ul><li><b>Questões típicas</b>: \"assinale a frase <b>ambígua</b>\" ou \"a reescrita que <b>elimina</b> a ambiguidade\". A correção costuma usar <b>o qual/a qual</b> (que marca gênero e número), substituir o possessivo por <b>dele/dela</b> ou <b>do + nome</b>, ou <b>reposicionar</b> o termo.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Seu\" sempre se refere à pessoa com quem se fala</span><br>✅ <span class=\"certo\">Pode referir-se a <b>vários</b> antecedentes e gerar ambiguidade; \"dele/dela\" desfaz a dúvida</span></li><li>❌ <span class=\"banca\">A ambiguidade é sempre defeito</span><br>✅ <span class=\"certo\">Em <b>humor</b> e <b>publicidade</b>, pode ser recurso intencional; em textos <b>oficiais</b>, é defeito</span></li></ol></div>\n<h3>11. Intertextualidade</h3>\n<ul><li><b>Intertextualidade</b> é o <b>diálogo entre textos</b>: um texto retoma, cita, imita ou alude a outro. Exige <b>conhecimento de mundo</b> do leitor para ser percebida.</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma</th><th>Definição</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Citação</b></td><td>reprodução <b>literal</b> de trecho de outro texto, com <b>aspas</b> e indicação da fonte</td><td>\"Como diz a Constituição, 'todos são iguais perante a lei'.\"</td></tr><tr><td><b>Alusão</b></td><td><b>referência indireta</b>, sem citar literalmente</td><td>\"Foi um verdadeiro <b>cavalo de Troia</b>.\" (alusão à mitologia)</td></tr><tr><td><b>Paráfrase</b></td><td><b>reescrita</b> que <b>mantém o sentido</b> do original</td><td>resumir com outras palavras uma lei ou um poema</td></tr><tr><td><b>Paródia</b></td><td><b>imitação</b> que <b>altera o sentido</b>, com intenção <b>crítica</b> ou <b>humorística</b></td><td>versão cômica de um poema famoso; propaganda que imita um ditado mudando o final</td></tr><tr><td><b>Epígrafe</b></td><td>citação colocada no <b>início</b> de um texto ou capítulo, relacionada ao tema</td><td>frase de um autor antes do primeiro capítulo de um livro</td></tr><tr><td><b>Pastiche</b></td><td>imitação do <b>estilo</b> de um autor, sem intenção crítica necessária</td><td>texto escrito \"à maneira de\" um escritor</td></tr><tr><td><b>Tradução</b> e <b>referência</b> bibliográfica</td><td>também são formas de diálogo entre textos</td><td>-</td></tr></tbody></table>\n<ul><li><b>Paráfrase x paródia</b>: a <b>paráfrase</b> <b>mantém</b> o sentido (reforça, explica); a <b>paródia</b> <b>subverte</b> o sentido (critica, ironiza, faz rir).</li><li><b>Intertextualidade explícita</b> (citação com fonte, referência) x <b>implícita</b> (alusão, paródia sem indicação), que depende do repertório do leitor.</li><li><b>Provérbios e ditados</b> retomados com alteração (\"Quem espera <b>nunca</b> alcança\", em vez de \"Quem espera sempre alcança\") são exemplos clássicos de <b>paródia</b> em propagandas e charges.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Paródia mantém o sentido original para reforçá-lo</span><br>✅ <span class=\"certo\">Quem mantém é a <b>paráfrase</b>; a <b>paródia</b> altera o sentido (crítica ou humor)</span></li><li>❌ <span class=\"banca\">Alusão exige aspas e indicação de fonte</span><br>✅ <span class=\"certo\">A alusão é <b>indireta</b>; aspas e fonte são da <b>citação</b></span></li><li>❌ <span class=\"banca\">Epígrafe é a citação no final do texto</span><br>✅ <span class=\"certo\">Fica no <b>início</b> do texto ou capítulo</span></li></ol></div>\n<h3>12. Tipos de discurso (revisão)</h3>\n<ul><li><b>Direto</b>: reproduz a fala <b>literalmente</b> (\"O suspeito afirmou: — Eu não estava lá.\").</li><li><b>Indireto</b>: o narrador <b>relata</b> a fala (\"O suspeito afirmou <b>que não estava lá</b>.\").</li><li><b>Indireto livre</b>: a fala ou o pensamento da personagem se <b>mistura</b> à narração, sem verbo de elocução nem aspas (\"O suspeito olhava para o chão. <b>Não estava lá, não estava, ninguém ia provar o contrário.</b>\").</li><li>A transposição entre direto e indireto (mudanças de tempo verbal, pessoa, pronomes e advérbios) foi detalhada no tópico de Tipologia e é cobrada também aqui.</li></ul>\n<h3>13. Vícios de linguagem</h3>\n<table class=\"tab\"><thead><tr><th>Vício</th><th>Definição</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Barbarismo</b></td><td>erro na <b>forma</b> da palavra (grafia, pronúncia, flexão)</td><td>\"excessão\" (exceção), \"rúbrica\" (rubrica), \"interviu\" (interveio)</td></tr><tr><td><b>Solecismo</b></td><td>erro de <b>sintaxe</b> (concordância, regência, colocação)</td><td>\"Fazem dois anos\" (faz); \"Assisti o filme\" (ao filme, no padrão)</td></tr><tr><td><b>Ambiguidade</b></td><td>duplo sentido indesejado</td><td>ver item 10</td></tr><tr><td><b>Cacofonia</b> (cacófato)</td><td>som <b>desagradável</b> ou ridículo formado pela junção de palavras</td><td>\"<b>boca dela</b>\" (cadela), \"<b>por cada</b>\", \"<b>vez passada</b>\"</td></tr><tr><td><b>Pleonasmo vicioso</b></td><td>redundância sem valor expressivo</td><td>\"subir para cima\", \"há anos atrás\"</td></tr><tr><td><b>Eco</b></td><td>repetição de <b>terminações</b> iguais em prosa</td><td>\"A <b>solução</b> da <b>questão</b> exige <b>atenção</b> e <b>dedicação</b>.\"</td></tr><tr><td><b>Neologismo</b></td><td>palavra <b>nova</b>, ainda não incorporada (vício quando desnecessária)</td><td>\"imexível\" (em certos contextos, aceito)</td></tr><tr><td><b>Arcaísmo</b></td><td>palavra ou construção <b>antiquada</b></td><td>\"vosmecê\", \"asinha\" (depressa)</td></tr><tr><td><b>Estrangeirismo</b></td><td>uso de palavra estrangeira quando há equivalente em português (vício quando excessivo)</td><td>\"fazer um <b>meeting</b>\" (reunião), \"<b>deadline</b>\" (prazo)</td></tr><tr><td><b>Preciosismo</b></td><td>linguagem <b>rebuscada</b> em excesso</td><td>\"O astro-rei derramava seus raios áureos sobre a urbe\" (em vez de \"fazia sol na cidade\")</td></tr></tbody></table>\n<ul><li><b>Nos textos oficiais e policiais</b>, os vícios mais graves são a <b>ambiguidade</b> (gera interpretações diferentes de um documento), o <b>pleonasmo vicioso</b> e o <b>preciosismo</b> (contrariam a <b>concisão</b> e a <b>clareza</b>).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Barbarismo é erro de concordância</span><br>✅ <span class=\"certo\">Erro de <b>sintaxe</b> é <b>solecismo</b>; <b>barbarismo</b> é erro na <b>forma</b> da palavra</span></li><li>❌ <span class=\"banca\">Cacofonia é a repetição de terminações iguais</span><br>✅ <span class=\"certo\">Isso é <b>eco</b>; cacofonia é <b>som desagradável</b> da junção de palavras</span></li><li>❌ <span class=\"banca\">Estrangeirismo é sempre erro</span><br>✅ <span class=\"certo\">É vício quando <b>desnecessário</b> ou excessivo; muitas palavras estrangeiras já foram incorporadas</span></li></ol></div>\n<h3>14. Casos práticos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Identifique a figura</b><p>1) \"O silêncio gritava na sala vazia.\" 2) \"Bebi dois copos e fiquei satisfeito.\" 3) \"Já li todo o Graciliano.\" 4) \"Ele não é muito inteligente\", disse sobre o colega que tirou zero em tudo. 5) \"Chorei rios de lágrimas.\" 6) \"A sociedade pede, exige, implora por segurança.\" 7) \"Ela tem um sorriso de sol.\" 8) \"O policial estava calmo; o suspeito, nervoso.\"</p><details><summary>Ver a solução comentada</summary><p><b>1</b> = <b>prosopopeia</b> (o silêncio \"grita\") e também <b>paradoxo</b> (silêncio que grita). <b>2</b> = <b>metonímia</b> (continente pelo conteúdo). <b>3</b> = <b>metonímia</b> (autor pela obra). <b>4</b> = <b>eufemismo</b> (suaviza \"ele é muito pouco inteligente\") ou ironia, conforme o tom. <b>5</b> = <b>hipérbole</b>. <b>6</b> = <b>gradação</b> (crescente: pede, exige, implora). <b>7</b> = <b>metáfora</b> (sorriso comparado ao sol, sem conectivo). <b>8</b> = <b>zeugma</b> (omissão de \"estava\", já dito) e <b>antítese</b> (calmo x nervoso).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ambiguidade em documento policial</b><p>Trecho de relatório: \"A vítima reconheceu o autor do roubo que estava preso na delegacia.\"</p><details><summary>Ver a solução comentada</summary><p><b>Ambíguo</b>: quem estava preso? O <b>autor</b> (o que seria esperado no reconhecimento) ou houve outro roubo <b>que estava preso</b> (absurdo, mas gramaticalmente possível pela posição do \"que\")? E \"reconheceu o autor do roubo\" pode ser lido como \"reconheceu o autor de um roubo específico, ocorrido na delegacia\". <b>Reescrita clara</b>: \"A vítima reconheceu, entre os presos na delegacia, o autor do roubo\" ou \"A vítima reconheceu o autor do roubo, <b>o qual</b> estava preso na delegacia\".</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Intertextualidade em propaganda</b><p>Anúncio de uma academia: \"Diga-me com quem andas... e eu te direi quantas calorias você perdeu.\"</p><details><summary>Ver a solução comentada</summary><p><b>Paródia</b> do provérbio \"Diga-me com quem andas e eu te direi quem és\": a estrutura é mantida e o final é <b>alterado</b>, com intenção <b>humorística</b> e <b>persuasiva</b> (função conativa). A percepção do efeito depende do <b>conhecimento prévio</b> do provérbio.</p></details></div>\n<h3>15. Pares de figuras que mais confundem</h3>\n<ul><li><b>Metáfora x metonímia</b>: a <b>metáfora</b> se baseia em <b>semelhança</b> (\"ele é uma <b>raposa</b>\": esperto como a raposa); a <b>metonímia</b>, em <b>proximidade/relação real</b> (\"o <b>Planalto</b> decidiu\": o lugar pela instituição que ali funciona). Pergunte: há <b>comparação</b> de qualidades (metáfora) ou <b>substituição</b> por algo ligado de fato (metonímia)?</li><li><b>Metáfora x catacrese</b>: a <b>metáfora</b> é <b>criativa</b> e intencional (\"o tempo é um <b>rio</b>\"); a <b>catacrese</b> é <b>cristalizada</b>, usada porque <b>falta</b> palavra própria (\"<b>asa</b> da xícara\", \"<b>barriga</b> da perna\", \"<b>cabeça</b> do prego\").</li><li><b>Ironia x sarcasmo</b>: o <b>sarcasmo</b> é uma ironia <b>agressiva</b>, mordaz, que fere (\"Parabéns pelo excelente trabalho de destruir tudo\").</li><li><b>Hipérbole x gradação</b>: a <b>hipérbole</b> é um <b>exagero</b> em um ponto (\"chorei rios\"); a <b>gradação</b> é uma <b>sequência</b> progressiva de ideias (\"chorei, solucei, me desesperei\").</li><li><b>Eufemismo x litotes</b>: o <b>eufemismo</b> <b>suaviza</b> substituindo a expressão (\"ele nos deixou\" por \"morreu\"); a <b>litotes</b> afirma algo pela <b>negação do contrário</b> (\"ele <b>não é nada bobo</b>\" = é esperto; \"<b>não foi um bom</b> resultado\" = foi ruim). A litotes também pode atenuar ou ironizar.</li><li><b>Antítese x paradoxo</b>: já visto: opostos que <b>convivem</b> (antítese) x opostos aplicados ao <b>mesmo</b> ser ao mesmo tempo (paradoxo).</li><li><b>Prosopopeia x apóstrofe</b>: <b>personificar</b> (o vento \"chora\") x <b>invocar</b> (\"Ó vento, leva minha saudade!\"). Às vezes as duas aparecem juntas: invocar um ser inanimado como se pudesse ouvir.</li><li><b>Elipse x zeugma</b>: termo <b>não dito</b> antes x termo <b>já dito</b> antes.</li><li><b>Anáfora (figura) x anáfora (coesão)</b>: a palavra \"anáfora\" tem <b>dois sentidos</b> em Português: como <b>figura de construção</b>, é a <b>repetição</b> de termo no início de frases; em <b>coesão</b>, é a <b>retomada</b> de algo já dito por um pronome ou sinônimo. Leia o enunciado para saber qual sentido está em jogo.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Não é nada bobo\" é eufemismo</span><br>✅ <span class=\"certo\">É <b>litotes</b> (afirmação pela negação do contrário)</span></li><li>❌ <span class=\"banca\">\"Asa da xícara\" é metáfora criativa</span><br>✅ <span class=\"certo\">É <b>catacrese</b> (metáfora cristalizada, por falta de termo próprio)</span></li><li>❌ <span class=\"banca\">\"O Planalto vetou o projeto\" é metáfora</span><br>✅ <span class=\"certo\">É <b>metonímia</b> (lugar pela instituição)</span></li><li>❌ <span class=\"banca\">Sarcasmo e ironia não têm relação</span><br>✅ <span class=\"certo\">O <b>sarcasmo</b> é ironia <b>agressiva</b></span></li></ol></div>\n<h3>16. Prefixos, sufixos e radicais: pistas para o sentido</h3>\n<ul><li>Conhecer o sentido de <b>prefixos</b> e <b>radicais</b> ajuda a descobrir o significado de palavras desconhecidas e a resolver questões de vocabulário.</li></ul>\n<table class=\"tab\"><thead><tr><th>Prefixo ou radical</th><th>Sentido</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>a-, an-</b> (grego)</td><td>negação, privação</td><td><b>a</b>político, <b>an</b>alfabeto, <b>a</b>normal</td></tr><tr><td><b>anti-</b></td><td>contra</td><td><b>anti</b>corrupção, <b>anti</b>ético</td></tr><tr><td><b>ante-</b></td><td>antes</td><td><b>ante</b>ontem, <b>ante</b>por</td></tr><tr><td><b>contra-</b></td><td>oposição</td><td><b>contra</b>dizer, <b>contra</b>ordem</td></tr><tr><td><b>des-, de-</b></td><td>negação, ação contrária</td><td><b>des</b>fazer, <b>de</b>cair</td></tr><tr><td><b>ex-</b></td><td>para fora, anterioridade</td><td><b>ex</b>portar, <b>ex</b>-presidente</td></tr><tr><td><b>in-, i-</b></td><td>negação ou movimento para dentro</td><td><b>in</b>feliz, <b>i</b>legal; <b>in</b>gerir</td></tr><tr><td><b>inter-</b></td><td>entre</td><td><b>inter</b>estadual, <b>inter</b>vir</td></tr><tr><td><b>pre-</b></td><td>antes</td><td><b>pre</b>ver, <b>pre</b>ventivo</td></tr><tr><td><b>re-</b></td><td>repetição, retorno</td><td><b>re</b>fazer, <b>re</b>incidência</td></tr><tr><td><b>sub-</b></td><td>abaixo</td><td><b>sub</b>solo, <b>sub</b>ordinado</td></tr><tr><td><b>super-, sobre-</b></td><td>acima, excesso</td><td><b>super</b>lotação, <b>sobre</b>carga</td></tr><tr><td><b>trans-</b></td><td>através, além</td><td><b>trans</b>porte, <b>trans</b>gredir</td></tr><tr><td><b>homo-</b> (grego)</td><td>igual</td><td><b>homô</b>nimo, <b>homo</b>gêneo</td></tr><tr><td><b>hetero-</b></td><td>diferente</td><td><b>hetero</b>gêneo</td></tr><tr><td><b>-cida</b> (latim)</td><td>que mata</td><td>homi<b>cida</b>, sui<b>cida</b>, inseti<b>cida</b></td></tr><tr><td><b>-logia</b> (grego)</td><td>estudo</td><td>crimino<b>logia</b>, bio<b>logia</b></td></tr><tr><td><b>tanato-</b></td><td>morte</td><td><b>tanato</b>logia</td></tr><tr><td><b>-fobia</b></td><td>medo, aversão</td><td>claustro<b>fobia</b>, xeno<b>fobia</b></td></tr></tbody></table>\n<ul><li><b>Exemplo de uso</b>: \"reincidência\" = <b>re</b> (de novo) + <b>incidir</b> (cair, cometer): cometer <b>de novo</b>. \"Transgressão\" = <b>trans</b> (além) + <b>gredir</b> (andar): ir <b>além</b> do permitido. \"Homicídio\" = <b>homo</b> (homem, em latim *homo*) + <b>-cídio</b> (matar).</li></ul>\n<h3>17. Coesão lexical e sentido</h3>\n<ul><li>A <b>coesão lexical</b> liga as partes do texto por meio do <b>vocabulário</b>: <b>repetição</b>, <b>sinônimos</b>, <b>hiperônimos</b>, <b>hipônimos</b>, <b>nominalizações</b> e <b>expressões definidas</b>.</li><li><b>Nominalização</b>: transformar uma ação (verbo) em substantivo para retomá-la: \"A polícia <b>prendeu</b> o suspeito. <b>A prisão</b> ocorreu às 10h.\" \"Os moradores <b>reclamaram</b>. <b>As reclamações</b>...\"</li><li><b>Expressões avaliativas</b> na retomada revelam o <b>ponto de vista</b>: retomar \"o projeto\" como \"<b>a iniciativa</b>\" (neutro) ou como \"<b>a aventura</b>\" (negativo) muda a avaliação. Questões perguntam o <b>efeito</b> dessa escolha.</li><li><b>Cuidado com a coerência</b>: o termo que retoma deve ser <b>compatível</b> com o referente. Retomar \"o revólver\" com \"a faca\" é incoerente; com \"a arma\", coerente.</li></ul>\n<h3>18. Polissemia no vocabulário jurídico e policial</h3>\n<ul><li>Muitas palavras têm sentido <b>técnico</b> diferente do sentido comum, e o contexto define qual é o pretendido:</li></ul>\n<table class=\"tab\"><thead><tr><th>Palavra</th><th>Sentido comum</th><th>Sentido técnico</th></tr></thead><tbody><tr><td><b>Ação</b></td><td>ato, atitude</td><td><b>ação penal</b> ou <b>ação judicial</b> (o direito de pedir ao juiz)</td></tr><tr><td><b>Competência</b></td><td>habilidade</td><td><b>atribuição</b> legal de um órgão ou juiz para decidir</td></tr><tr><td><b>Pena</b></td><td>pena de ave; sofrimento</td><td><b>sanção</b> penal (pena de prisão)</td></tr><tr><td><b>Processo</b></td><td>procedimento qualquer</td><td><b>processo judicial</b> (o conjunto de atos perante o juiz)</td></tr><tr><td><b>Representação</b></td><td>encenação</td><td>manifestação da vítima autorizando a ação penal; ou pedido da autoridade policial ao juiz</td></tr><tr><td><b>Prescrição</b></td><td>receita médica</td><td><b>perda do direito</b> de punir ou de agir pelo decurso do tempo</td></tr><tr><td><b>Termo</b></td><td>palavra; fim</td><td><b>documento</b> (termo de declarações) ou <b>prazo</b></td></tr><tr><td><b>Auto</b></td><td>carro</td><td><b>documento</b> formal (auto de prisão em flagrante)</td></tr><tr><td><b>Mandado</b></td><td>algo ordenado</td><td><b>ordem</b> escrita do juiz (mandado de busca)</td></tr></tbody></table>\n<ul><li><b>Interesse para a prova</b>: questões de sentido contextual podem usar textos jurídicos ou policiais; reconhecer o sentido <b>técnico</b> evita erros (\"a <b>competência</b> do juiz\" não é a habilidade do juiz).</li></ul>\n<h3>19. Exercício comentado: doze frases</h3>\n<ul><li><b>1)</b> \"Aquele escritório é um formigueiro.\" → <b>metáfora</b> (muita gente trabalhando, movimento).</li><li><b>2)</b> \"Ele vive como um rei.\" → <b>comparação</b> (conectivo \"como\").</li><li><b>3)</b> \"A Justiça é cega.\" → <b>prosopopeia/metáfora</b> (atribui à Justiça característica humana, com sentido de imparcialidade).</li><li><b>4)</b> \"O Brasil inteiro parou para ver o jogo.\" → <b>metonímia</b> (o país pelos seus habitantes) e <b>hipérbole</b> (nem todos pararam).</li><li><b>5)</b> \"A notícia caiu como uma bomba.\" → <b>comparação</b> (com \"como\").</li><li><b>6)</b> \"Não foi uma decisão das mais inteligentes.\" → <b>litotes</b> (diz que foi pouco inteligente negando o contrário), com tom irônico.</li><li><b>7)</b> \"Era um grito silencioso de socorro.\" → <b>paradoxo</b> (grito silencioso).</li><li><b>8)</b> \"O réu foi condenado; a ré, absolvida.\" → <b>zeugma</b> (omissão de \"foi\") e <b>antítese</b> (condenado x absolvida).</li><li><b>9)</b> \"E fala, e grita, e ameaça, e não para.\" → <b>polissíndeto</b>.</li><li><b>10)</b> \"Chegou, viu a cena, chamou a perícia.\" → <b>assíndeto</b>.</li><li><b>11)</b> \"O cheiro amargo da derrota.\" → <b>sinestesia</b> (olfato + paladar) e <b>metáfora</b>.</li><li><b>12)</b> \"Ele foi convidado a se retirar da empresa.\" → <b>eufemismo</b> (foi demitido).</li></ul>\n<h3>20. Questões discursivas comentadas</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 1</b><p>\"Diferencie metáfora de metonímia e dê um exemplo de cada.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: a <b>metáfora</b> é uma comparação <b>implícita</b>, baseada em <b>semelhança</b> entre dois elementos, sem conectivo comparativo (\"Aquele policial é uma <b>rocha</b>\": firme, resistente). A <b>metonímia</b> é a substituição de uma palavra por outra com a qual mantém relação de <b>proximidade</b> ou <b>contiguidade</b> real, como autor pela obra, continente pelo conteúdo, lugar pela instituição, parte pelo todo (\"Li <b>Machado de Assis</b>\"; \"O <b>Planalto</b> vetou o projeto\"). A diferença está no fundamento: <b>semelhança</b> (metáfora) x <b>relação concreta</b> (metonímia).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 2</b><p>\"Explique o que é ambiguidade, por que deve ser evitada em documentos oficiais e reescreva a frase 'O investigador informou ao delegado que seu carro foi furtado' de modo a eliminá-la.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: ambiguidade é a possibilidade de uma frase admitir <b>mais de um sentido</b>. Em documentos oficiais e policiais, deve ser evitada porque compromete a <b>clareza</b> e a <b>precisão</b>, pode gerar decisões erradas e conflitos de interpretação. Na frase, o possessivo \"<b>seu</b>\" pode referir-se ao carro do <b>investigador</b> ou do <b>delegado</b>. Reescritas: \"O investigador informou ao delegado que o carro <b>dele, delegado</b>, foi furtado\" ou, melhor, \"O investigador informou ao delegado que o <b>próprio</b> carro (do investigador) foi furtado\", ou ainda \"O investigador informou que <b>seu carro</b> foi furtado e comunicou o fato ao delegado\", conforme o sentido pretendido.</p></details></div>\n<h3>21. Expressões que mudam de sentido com um detalhe</h3>\n<table class=\"tab\"><thead><tr><th>Expressão</th><th>Sentido</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Ao encontro de</b></td><td><b>a favor de</b>, em harmonia com</td><td>\"A medida vem <b>ao encontro</b> dos interesses da população\" (agrada)</td></tr><tr><td><b>De encontro a</b></td><td><b>contra</b>, em choque com</td><td>\"A medida vai <b>de encontro</b> aos interesses da população\" (contraria); \"O carro foi <b>de encontro ao</b> poste\"</td></tr><tr><td><b>Em vez de</b></td><td><b>no lugar de</b> (substituição, qualquer caso)</td><td>\"<b>Em vez de</b> estudar, dormiu\"</td></tr><tr><td><b>Ao invés de</b></td><td><b>ao contrário de</b> (só com ideias <b>opostas</b>)</td><td>\"<b>Ao invés de</b> subir, desceu\"</td></tr><tr><td><b>A par</b></td><td><b>ciente</b>, informado</td><td>\"Estou <b>a par</b> da situação\"</td></tr><tr><td><b>Ao par</b></td><td><b>equivalência</b> cambial (economia)</td><td>\"O real e a moeda X estavam <b>ao par</b>\"</td></tr><tr><td><b>A fim de</b></td><td><b>com a finalidade de</b></td><td>\"Saiu cedo <b>a fim de</b> chegar a tempo\"</td></tr><tr><td><b>Afim</b></td><td><b>semelhante</b>, com afinidade; parente por afinidade</td><td>\"Áreas <b>afins</b>\"; \"parente <b>afim</b>\"</td></tr><tr><td><b>Acerca de</b></td><td><b>sobre</b>, a respeito de</td><td>\"Falou <b>acerca do</b> crime\"</td></tr><tr><td><b>Há cerca de</b></td><td><b>faz aproximadamente</b> (tempo passado) ou <b>existem aproximadamente</b></td><td>\"<b>Há cerca de</b> dez anos\"; \"<b>Há cerca de</b> vinte presos\"</td></tr><tr><td><b>A cerca de</b></td><td><b>a uma distância aproximada de</b> ou <b>a aproximadamente</b></td><td>\"O suspeito estava <b>a cerca de</b> cem metros\"</td></tr><tr><td><b>Senão</b></td><td><b>caso contrário</b>; <b>a não ser</b>; <b>mas sim</b></td><td>\"Estude, <b>senão</b> reprovará\"; \"Não fez <b>senão</b> reclamar\"</td></tr><tr><td><b>Se não</b></td><td><b>caso não</b> (condição)</td><td>\"<b>Se não</b> chover, iremos\"</td></tr><tr><td><b>Tampouco</b></td><td><b>também não</b></td><td>\"Não estudou, <b>tampouco</b> trabalhou\"</td></tr><tr><td><b>Tão pouco</b></td><td><b>muito pouco</b></td><td>\"Estudou <b>tão pouco</b> que reprovou\"</td></tr><tr><td><b>Mal</b></td><td>advérbio (oposto de <b>bem</b>)</td><td>\"Ele dormiu <b>mal</b>\"</td></tr><tr><td><b>Mau</b></td><td>adjetivo (oposto de <b>bom</b>)</td><td>\"Ele é um <b>mau</b> policial\"</td></tr><tr><td><b>Demais</b></td><td><b>excessivamente</b>; <b>os outros</b></td><td>\"Falou <b>demais</b>\"; \"os <b>demais</b> presos\"</td></tr><tr><td><b>De mais</b></td><td>oposto de <b>de menos</b></td><td>\"Não vejo nada <b>de mais</b> nisso\"</td></tr></tbody></table>\n<ul><li><b>Ao encontro de x de encontro a</b> é a mais cobrada: uma inverte totalmente o sentido da outra. Uma decisão que vai \"<b>de encontro</b>\" à lei <b>contraria</b> a lei.</li><li><b>Em vez de x ao invés de</b>: \"em vez de\" serve para <b>qualquer</b> substituição; \"ao invés de\" só para <b>opostos</b>. Em caso de dúvida, \"<b>em vez de</b>\" é sempre aceito.</li><li><b>Mal x mau</b>: substitua por <b>bem/bom</b>: se couber \"bem\", use <b>mal</b>; se couber \"bom\", use <b>mau</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"A proposta vem de encontro aos anseios da população\" indica que ela os atende</span><br>✅ <span class=\"certo\"><b>De encontro</b> = <b>contra</b>; quem atende é <b>ao encontro de</b></span></li><li>❌ <span class=\"banca\">\"Ao invés de\" pode ser usado em qualquer substituição</span><br>✅ <span class=\"certo\">Só para <b>ideias opostas</b>; para qualquer substituição, <b>em vez de</b></span></li><li>❌ <span class=\"banca\">\"Há cerca de cem metros, havia um carro\" está correto para indicar distância</span><br>✅ <span class=\"certo\">Distância = <b>a cerca de</b>; \"há cerca de\" indica <b>tempo passado</b> ou <b>existência</b></span></li><li>❌ <span class=\"banca\">\"Ele é um mal exemplo\"</span><br>✅ <span class=\"certo\">Oposto de \"bom\" = <b>mau</b> exemplo</span></li></ol></div>\n<h3>22. Por que, porque, por quê e porquê</h3>\n<ul><li>Embora seja tema de <b>ortografia</b>, é cobrado também como <b>sentido</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma</th><th>Uso</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Por que</b> (separado, sem acento)</td><td>perguntas diretas e indiretas (= <b>por qual motivo</b>); ou <b>pelo qual / pela qual</b></td><td>\"<b>Por que</b> você faltou?\"; \"Não sei <b>por que</b> faltou\"; \"A rua <b>por que</b> passei\"</td></tr><tr><td><b>Por quê</b> (separado, com acento)</td><td>no <b>final</b> da frase ou antes de pausa forte</td><td>\"Você faltou <b>por quê</b>?\"; \"Faltou sem dizer <b>por quê</b>.\"</td></tr><tr><td><b>Porque</b> (junto, sem acento)</td><td><b>explicação</b> ou <b>causa</b> (= pois, uma vez que)</td><td>\"Faltei <b>porque</b> estava doente\"</td></tr><tr><td><b>Porquê</b> (junto, com acento)</td><td><b>substantivo</b> (= o motivo), acompanhado de artigo ou determinante</td><td>\"Não entendi o <b>porquê</b> da decisão\"; \"Explique os <b>porquês</b>\"</td></tr></tbody></table>\n<h3>23. Figuras na publicidade, nas charges e nas manchetes</h3>\n<ul><li>A <b>publicidade</b> usa figuras para <b>chamar a atenção</b> e <b>persuadir</b>: <b>metáforas</b> (o produto como \"um abraço\"), <b>hipérboles</b> (\"o melhor do mundo\"), <b>paronomásias</b> e trocadilhos (jogos com nomes de marcas), <b>personificações</b> (o carro que \"pensa em você\"), <b>ambiguidade intencional</b> (duplo sentido divertido) e <b>paródias</b> de provérbios, músicas e filmes.</li><li>As <b>charges</b> exploram <b>ironia</b>, <b>hipérbole</b> (caricatura: exagero de traços), <b>metáforas visuais</b> (políticos desenhados como animais) e <b>intertextualidade</b> com fatos e obras conhecidas.</li><li>As <b>manchetes</b> jornalísticas usam <b>trocadilhos</b> e <b>ambiguidade</b> de propósito para atrair o leitor, mas a notícia deve ser <b>clara</b> no corpo do texto. Quando a ambiguidade é <b>involuntária</b> (\"Polícia prende ladrão com arma de brinquedo\": quem estava com a arma?), torna-se defeito.</li><li><b>Questões típicas</b>: \"qual figura sustenta o efeito humorístico?\", \"o duplo sentido da palavra X contribui para...\", \"a imagem dialoga com qual texto conhecido?\".</li></ul>\n<h3>24. Treino de ambiguidade: oito frases comentadas</h3>\n<ul><li><b>1)</b> \"O policial viu o assaltante <b>com o binóculo</b>.\" → quem estava com o binóculo? <b>Reescrita</b>: \"<b>Com o binóculo</b>, o policial viu o assaltante\" (se era o policial).</li><li><b>2)</b> \"A mãe deixou a filha <b>preocupada</b>.\" → a mãe estava preocupada ou deixou a filha preocupada? <b>Reescrita</b>: \"<b>Preocupada</b>, a mãe deixou a filha\" ou \"A mãe deixou a filha <b>em estado de</b> preocupação\".</li><li><b>3)</b> \"Pedro disse a João que <b>ele</b> seria promovido.\" → quem será promovido? <b>Reescrita</b>: \"Pedro disse a João que <b>este</b> seria promovido\" (João) ou \"Pedro disse a João: '<b>Você</b> será promovido.'\"</li><li><b>4)</b> \"Vende-se <b>casa de praia</b> com piscina <b>para família grande</b>.\" → a piscina é para família grande? Em geral se entende a casa; <b>reescrita</b>: \"Vende-se, para família grande, casa de praia com piscina\".</li><li><b>5)</b> \"O juiz condenou o réu <b>que agrediu a esposa</b> a cinco anos.\" → aqui o \"que\" é restritivo e claro (o réu); a frase <b>não</b> é ambígua; cuidado para não ver ambiguidade onde não há.</li><li><b>6)</b> \"Encontrei a professora <b>do meu filho que mora em Belo Horizonte</b>.\" → quem mora em BH? <b>Reescrita</b>: \"...a professora do meu filho, <b>a qual</b> mora em Belo Horizonte\" (a professora) ou \"<b>o qual</b>\" (o filho).</li><li><b>7)</b> \"O delegado mandou o escrivão <b>sair</b> <b>de seu gabinete</b>.\" → gabinete de quem? <b>Reescrita</b>: \"...sair do gabinete <b>do delegado</b>\".</li><li><b>8)</b> \"Proibida a entrada de <b>pessoas armadas e crianças</b>.\" → as crianças também estariam \"armadas\"? Embora o sentido pretendido seja claro pelo bom senso, a construção é <b>ambígua</b> quanto ao alcance do adjetivo; <b>reescrita</b>: \"Proibida a entrada de crianças e de pessoas armadas\".</li></ul>\n<h3>25. Intertextualidade: mais casos</h3>\n<ul><li><b>Charge</b> que mostra um político com nariz crescendo → <b>alusão</b> a Pinóquio (mentira).</li><li><b>Título de reportagem</b> \"Crime e castigo nas ruas da capital\" → <b>alusão</b> ao título do romance de Dostoiévski, sugerindo reflexão sobre culpa e punição.</li><li><b>Propaganda</b> \"Penso, logo compro\" → <b>paródia</b> de \"Penso, logo existo\" (Descartes), com efeito humorístico e crítico (consumismo).</li><li><b>Texto acadêmico</b> que reproduz entre aspas um artigo de lei, com a referência → <b>citação</b> (intertextualidade <b>explícita</b>).</li><li><b>Resumo</b> de um capítulo com as próprias palavras → <b>paráfrase</b>.</li><li><b>Frase de Rui Barbosa</b> no início de uma monografia de Direito → <b>epígrafe</b>.</li><li><b>Lição</b>: para identificar a forma de intertextualidade, pergunte: há <b>reprodução literal</b> com fonte (citação)? <b>referência indireta</b> (alusão)? <b>mesmo sentido</b> com outras palavras (paráfrase)? <b>sentido alterado</b> com crítica ou humor (paródia)? <b>citação de abertura</b> (epígrafe)?</li></ul>\n<h3>26. Questão discursiva modelo 3</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 3</b><p>\"Explique a diferença de sentido entre 'A nova lei veio ao encontro das reivindicações dos servidores' e 'A nova lei veio de encontro às reivindicações dos servidores'.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: na primeira frase, \"<b>ao encontro de</b>\" significa <b>a favor de</b>, em harmonia com: a lei <b>atendeu</b> às reivindicações. Na segunda, \"<b>de encontro a</b>\" significa <b>contra</b>, em choque com: a lei <b>contrariou</b> as reivindicações. As expressões têm sentidos <b>opostos</b>, e a troca de uma pela outra inverte completamente a informação, o que torna o uso correto essencial em textos oficiais e jornalísticos.</p></details></div>\n<h3>27. Posição do adjetivo e mudança de sentido</h3>\n<ul><li>Em português, a <b>posição</b> do adjetivo (antes ou depois do substantivo) pode <b>mudar o sentido</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Antes do substantivo</th><th>Depois do substantivo</th></tr></thead><tbody><tr><td>\"um <b>grande</b> homem\" (<b>ilustre</b>, importante)</td><td>\"um homem <b>grande</b>\" (de <b>estatura</b> alta)</td></tr><tr><td>\"um <b>pobre</b> homem\" (<b>coitado</b>, digno de pena)</td><td>\"um homem <b>pobre</b>\" (sem <b>dinheiro</b>)</td></tr><tr><td>\"um <b>alto</b> funcionário\" (de <b>cargo elevado</b>)</td><td>\"um funcionário <b>alto</b>\" (de <b>estatura</b>)</td></tr><tr><td>\"um <b>simples</b> funcionário\" (<b>mero</b>, sem destaque)</td><td>\"um funcionário <b>simples</b>\" (<b>modesto</b>, humilde)</td></tr><tr><td>\"um <b>velho</b> amigo\" (amigo <b>de longa data</b>)</td><td>\"um amigo <b>velho</b>\" (<b>idoso</b>)</td></tr><tr><td>\"<b>certas</b> provas\" (algumas, determinadas)</td><td>\"provas <b>certas</b>\" (<b>corretas</b>, seguras)</td></tr><tr><td>\"<b>diferentes</b> pessoas\" (<b>várias</b>)</td><td>\"pessoas <b>diferentes</b>\" (que <b>não são iguais</b>)</td></tr><tr><td>\"<b>único</b> filho\" (filho <b>só</b>, sem irmãos)</td><td>\"filho <b>único</b>\" (mesmo sentido, mas também pode ser \"<b>extraordinário</b>\", em contexto)</td></tr><tr><td>\"<b>novo</b> carro\" (outro carro, <b>recém-adquirido</b>)</td><td>\"carro <b>novo</b>\" (<b>sem uso</b>, zero)</td></tr></tbody></table>\n<ul><li><b>Questões típicas</b>: \"a inversão da ordem 'grande homem' para 'homem grande' altera o sentido?\" (<b>sim</b>). Ou: \"na reescrita, o deslocamento do adjetivo mantém o sentido?\" Em muitos adjetivos, a troca de posição altera o sentido ou o tom (o adjetivo anteposto costuma ter valor mais <b>subjetivo</b> ou <b>afetivo</b>).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Um grande homem\" e \"um homem grande\" têm o mesmo sentido</span><br>✅ <span class=\"certo\"><b>Grande homem</b> = ilustre; <b>homem grande</b> = alto</span></li><li>❌ <span class=\"banca\">\"Certas provas\" significa provas corretas</span><br>✅ <span class=\"certo\">Significa <b>algumas</b> provas; <b>provas certas</b> = corretas</span></li></ol></div>\n<h3>28. Substituição de palavras sem alterar o sentido: treino comentado</h3>\n<ul><li>Para cada frase, verifique se a substituição <b>mantém o sentido</b> no contexto:</li><li><b>1)</b> \"A investigação foi <b>minuciosa</b>\" → \"<b>detalhada</b>\": <b>mantém</b>.</li><li><b>2)</b> \"O relatório foi <b>sucinto</b>\" → \"<b>resumido/conciso</b>\": <b>mantém</b>; → \"<b>incompleto</b>\": <b>altera</b> (sucinto não significa faltar algo).</li><li><b>3)</b> \"A medida é <b>paliativa</b>\" → \"<b>provisória, que atenua sem resolver</b>\": <b>mantém</b>; → \"<b>definitiva</b>\": <b>altera</b> (oposto).</li><li><b>4)</b> \"O depoimento foi <b>contundente</b>\" → \"<b>incisivo, convincente</b>\": <b>mantém</b> (sentido figurado); → \"<b>agressivo fisicamente</b>\": <b>altera</b> (o sentido próprio de contundente, \"que causa contusão\", não cabe aqui).</li><li><b>5)</b> \"A situação é <b>precária</b>\" → \"<b>instável, deficiente</b>\": <b>mantém</b>.</li><li><b>6)</b> \"O prazo é <b>exíguo</b>\" → \"<b>curto, escasso</b>\": <b>mantém</b>; → \"<b>longo</b>\": <b>altera</b>.</li><li><b>7)</b> \"A autoridade <b>coibiu</b> os abusos\" → \"<b>reprimiu, impediu</b>\": <b>mantém</b>.</li><li><b>8)</b> \"Foi uma decisão <b>arbitrária</b>\" → \"<b>sem fundamento, abusiva</b>\": <b>mantém</b> (no contexto de crítica); → \"<b>decidida por árbitro</b>\": <b>altera</b> (sentido não pretendido).</li><li><b>9)</b> \"A testemunha foi <b>evasiva</b>\" → \"<b>esquiva, imprecisa</b>\": <b>mantém</b>.</li><li><b>10)</b> \"O réu foi <b>absolvido</b>\" → \"<b>inocentado</b>\": <b>mantém</b>; → \"<b>perdoado</b>\": <b>altera</b> (perdão é instituto diferente da absolvição).</li><li><b>11)</b> \"A operação foi <b>deflagrada</b> ontem\" → \"<b>iniciada, desencadeada</b>\": <b>mantém</b>.</li><li><b>12)</b> \"Os dados são <b>inequívocos</b>\" → \"<b>claros, sem margem a dúvida</b>\": <b>mantém</b>; → \"<b>equivocados</b>\": <b>altera</b> (oposto).</li><li><b>13)</b> \"O policial agiu com <b>parcimônia</b>\" → \"<b>moderação, comedimento</b>\": <b>mantém</b>.</li><li><b>14)</b> \"O argumento é <b>falacioso</b>\" → \"<b>enganoso</b>\": <b>mantém</b>.</li><li><b>15)</b> \"A lei é <b>omissa</b> quanto ao tema\" → \"<b>não trata</b> do tema\": <b>mantém</b>.</li><li><b>Lição</b>: a banca costuma oferecer um <b>falso sinônimo</b> (palavra parecida no som ou de sentido próximo, mas diferente no contexto) e um <b>antônimo disfarçado</b>. Teste sempre a troca <b>na frase</b>.</li></ul>\n<h3>29. Formação de palavras e sentido</h3>\n<ul><li><b>Derivação prefixal e sufixal</b> cria palavras com sentidos previsíveis: \"<b>in</b>justo\" (negação), \"<b>re</b>ver\" (repetição), \"polici<b>amento</b>\" (ação de policiar), \"<b>des</b>armamento\" (ação contrária), \"crimin<b>oso</b>\" (cheio de, relacionado a).</li><li><b>Composição</b>: junção de radicais: \"<b>guarda-roupa</b>\", \"<b>passatempo</b>\", \"<b>planalto</b>\" (plano + alto).</li><li><b>Neologismos</b>: palavras <b>novas</b>, criadas por necessidade (tecnologia: \"deletar\", \"printar\", \"ciberataque\") ou por efeito estilístico (literatura). Podem ser incorporadas ao vocabulário com o tempo. Em textos formais, usam-se com <b>cautela</b>, preferindo termos já consagrados.</li><li><b>Siglas e acrônimos</b>: \"<b>PCMG</b>\", \"<b>IML</b>\", \"<b>BO</b>\"; em textos formais, a sigla deve ser escrita <b>por extenso</b> na primeira ocorrência, seguida da sigla entre parênteses: \"Instituto Médico-Legal (IML)\".</li><li><b>Interesse para o sentido</b>: reconhecer a <b>formação</b> ajuda a deduzir significados (\"<b>pré</b>-requisito\" = requisito <b>anterior</b>; \"<b>contra</b>prova\" = prova <b>contrária</b> ou de verificação; \"<b>sub</b>notificação\" = notificação <b>abaixo</b> do real).</li></ul>\n<h3>30. Figuras na literatura (exemplos clássicos de domínio público)</h3>\n<ul><li><b>Metáfora</b> em Camões: \"Amor é <b>fogo</b> que arde sem se ver\" (o amor comparado ao fogo, sem conectivo; o verso todo é também <b>paradoxo</b>: fogo que arde sem ser visto).</li><li><b>Antítese</b> em Gregório de Matos, nos poemas sobre a brevidade da vida: o contraste entre <b>luz</b> e <b>sombra</b>, <b>dia</b> e <b>noite</b>, <b>alegria</b> e <b>tristeza</b>, típico do Barroco.</li><li><b>Prosopopeia</b> e <b>apóstrofe</b> em Fernando Pessoa (\"Ó mar salgado\"): o poeta <b>invoca</b> o mar (apóstrofe) como se ele pudesse ouvir.</li><li><b>Aliteração</b> em Cruz e Sousa (\"Vozes veladas, veludosas vozes\"): repetição do som <b>v</b>, que cria musicalidade e sensação de suavidade, típica do Simbolismo.</li><li><b>Ironia</b> em Machado de Assis: o narrador de suas obras frequentemente comenta os fatos com ironia fina, dizendo uma coisa e sugerindo outra; é traço marcante do autor.</li><li><b>Por que isso importa</b>: algumas bancas trazem trechos literários; reconhecer o <b>estilo de época</b> (Barroco: antíteses e paradoxos; Simbolismo: musicalidade e sinestesia; Romantismo: emoção e exageros) ajuda a identificar as figuras predominantes.</li></ul>\n<h3>31. Mais dez frases para identificar</h3>\n<ul><li><b>1)</b> \"A cidade acordou em silêncio, como quem teme o próprio dia.\" → <b>prosopopeia</b> (cidade que acorda e teme) + <b>comparação</b> (como quem...).</li><li><b>2)</b> \"Esperei uma eternidade na fila do banco.\" → <b>hipérbole</b>.</li><li><b>3)</b> \"Ele faltou com a verdade no depoimento.\" → <b>eufemismo</b> (mentiu).</li><li><b>4)</b> \"Fui ao médico; ela, ao dentista.\" → <b>zeugma</b> (omissão de \"foi\").</li><li><b>5)</b> \"Na delegacia, muita gente e pouca solução.\" → <b>elipse</b> (omissão de \"havia\") + <b>antítese</b> (muita x pouca).</li><li><b>6)</b> \"O tic-tac do relógio enchia a sala.\" → <b>onomatopeia</b>.</li><li><b>7)</b> \"O povo brasileiro somos teimosos.\" → <b>silepse de pessoa</b> (concordância com \"nós\", o falante incluído).</li><li><b>8)</b> \"Tomou um Engov antes da festa.\" → <b>metonímia</b> (marca pelo produto).</li><li><b>9)</b> \"Seus olhos eram duas estrelas.\" → <b>metáfora</b>.</li><li><b>10)</b> \"Um doce silêncio tomou conta da casa.\" → <b>sinestesia</b> (paladar + audição).</li></ul>\n<h3>32. Silepse x erro de concordância</h3>\n<ul><li>Nem toda concordância \"diferente\" é erro: a <b>silepse</b> é concordância <b>ideológica</b> aceita pela gramática quando há intenção expressiva clara: \"<b>A maioria</b> dos presos <b>pediram</b> transferência\" pode aparecer como silepse de número, embora a norma-padrão registre preferência pela concordância com o núcleo (\"a maioria... <b>pediu</b>\") e aceite as duas em certos casos (expressões partitivas).</li><li><b>Silepse de pessoa</b>: \"<b>Os policiais</b> desta delegacia <b>trabalhamos</b> muito\" (quem fala se inclui no grupo).</li><li><b>Silepse de gênero</b>: \"<b>São Paulo</b> é <b>linda</b>\" (concordância com a ideia de <b>cidade</b>); \"<b>Vossa Senhoria</b> está <b>enganado</b>\" (dirigindo-se a homem).</li><li><b>Na prova</b>: a banca pode perguntar se a construção é <b>erro</b> ou <b>silepse</b>. Se houver uma <b>ideia</b> implícita que justifique a concordância (cidade, grupo do qual o falante faz parte, sexo da pessoa a quem o pronome de tratamento se refere), é silepse. Concordância de verbos com expressões partitivas (\"a maioria de\", \"grande parte de\") é detalhada no tópico de <b>Concordância</b>.</li></ul>\n<h3>33. Questão discursiva modelo 4</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 4</b><p>\"Explique por que, em boletins de ocorrência e relatórios policiais, a linguagem deve ser denotativa e livre de ambiguidade, citando dois exemplos de construções que devem ser evitadas.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: documentos policiais são <b>meios de prova</b> e de comunicação oficial: precisam ser <b>claros, precisos e objetivos</b>, para que a autoridade, o Ministério Público, a defesa e o juiz entendam <b>exatamente</b> o que ocorreu, sem margem a interpretações diferentes. A linguagem <b>conotativa</b> (figurada) e as figuras de linguagem introduzem <b>subjetividade</b> e imprecisão (\"o suspeito era uma fera\", \"a vítima morreu de medo\"); a <b>ambiguidade</b> pode gerar dúvidas sobre <b>quem</b> fez o quê (\"o policial abordou o suspeito em <b>seu</b> carro\": carro de quem?; \"a testemunha viu o autor <b>correndo</b>\": quem corria?). Devem ser evitados, ainda, <b>eufemismos</b> que mascarem fatos (\"o preso foi <b>contido</b>\", quando houve uso de força que precisa ser descrito) e <b>juízos de valor</b>. O texto deve narrar e descrever com <b>denotação</b>, atribuindo as versões às respectivas fontes.</p></details></div>\n<h3>34. Mais pares de homônimos e parônimos úteis</h3>\n<table class=\"tab\"><thead><tr><th>Par</th><th>Diferença</th></tr></thead><tbody><tr><td><b>Acender / ascender</b></td><td>acender = <b>pôr fogo</b>, ligar; ascender = <b>subir</b></td></tr><tr><td><b>Apreçar / apressar</b></td><td>apreçar = <b>dar preço</b>; apressar = <b>acelerar</b></td></tr><tr><td><b>Caçar / cassar</b></td><td>perseguir animais / <b>anular</b></td></tr><tr><td><b>Cegar / segar</b></td><td>tirar a visão / <b>cortar</b> (ceifar)</td></tr><tr><td><b>Cerrar / serrar</b></td><td><b>fechar</b> / cortar com serra</td></tr><tr><td><b>Coser / cozer</b></td><td><b>costurar</b> / <b>cozinhar</b></td></tr><tr><td><b>Estrato / extrato</b></td><td><b>camada</b> (estrato social) / <b>resumo</b> ou substância extraída (extrato bancário)</td></tr><tr><td><b>Paço / passo</b></td><td><b>palácio</b> / passada</td></tr><tr><td><b>Tachar / taxar</b></td><td><b>acusar</b>, qualificar (tachar de mentiroso) / <b>cobrar taxa</b>, tributar</td></tr><tr><td><b>Arrear / arriar</b></td><td>pôr arreios / <b>abaixar</b> (arriar a bandeira)</td></tr><tr><td><b>Comprimento / cumprimento</b></td><td>extensão / saudação ou execução</td></tr><tr><td><b>Delatar / dilatar</b></td><td><b>denunciar</b> / ampliar</td></tr><tr><td><b>Docente / discente</b></td><td><b>professor</b> / <b>aluno</b></td></tr><tr><td><b>Proeminente / preeminente</b></td><td><b>saliente</b> / superior, que se destaca em importância</td></tr><tr><td><b>Prescrever / proscrever</b></td><td><b>receitar</b>, determinar, ou perder o direito pelo tempo / <b>proibir</b>, banir (drogas proscritas)</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Ele foi taxado de mentiroso</span><br>✅ <span class=\"certo\">Qualificar negativamente = <b>tachar</b>; <b>taxar</b> é tributar</span></li><li>❌ <span class=\"banca\">O extrato social mais pobre</span><br>✅ <span class=\"certo\">Camada = <b>estrato</b>; <b>extrato</b> é resumo/substância</span></li><li>❌ <span class=\"banca\">Substâncias prescritas pela Anvisa (no sentido de proibidas)</span><br>✅ <span class=\"certo\">Proibidas = <b>proscritas</b>; <b>prescrever</b> é receitar ou determinar</span></li></ol></div>\n<h3>35. Exercício com texto curto</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto (autoral)</b><p>\"A cidade dormia. Só o rádio da viatura, insone, chiava na madrugada fria. O sargento, homem de poucas palavras e muitos anos de rua, olhou o relógio: três horas. 'Noite tranquila', pensou, desconfiado, porque sabia que tranquilidade, naquela área, era quase sempre a calmaria antes da tempestade.\"</p><details><summary>Ver a solução comentada</summary><p><b>Figuras e sentidos</b>: \"<b>A cidade dormia</b>\" = <b>prosopopeia</b> (cidade personificada) e <b>metonímia</b> (a cidade pelos moradores). \"<b>Rádio insone</b>\" = <b>prosopopeia</b> (o rádio \"sem sono\"). \"<b>Chiava</b>\" = sentido <b>denotativo</b> (ruído) com efeito sonoro próximo da <b>onomatopeia</b>. \"<b>Homem de poucas palavras e muitos anos de rua</b>\" = <b>antítese</b> (poucas x muitos) e <b>metonímia/perífrase</b> (\"anos de rua\" = experiência no policiamento). \"<b>Noite tranquila</b>\" entre aspas = discurso direto do <b>pensamento</b> (com o verbo \"pensou\"). \"<b>A calmaria antes da tempestade</b>\" = <b>metáfora</b> (tempestade = confusão, ocorrência grave) e expressão <b>cristalizada</b>, com <b>alusão</b> ao ditado. O adjetivo \"<b>desconfiado</b>\", deslocado entre vírgulas, indica o <b>estado</b> do sargento ao pensar, sugerindo <b>ironia</b>: a frase \"noite tranquila\" não expressa tranquilidade real. <b>Tipo de texto</b>: narrativo, em 3ª pessoa, com acesso ao pensamento da personagem (narrador <b>onisciente</b>).</p></details></div>\n<h3>36. Estratégia para questões de semântica</h3>\n<ul><li><b>Sentido de palavra</b>: volte ao texto, leia a frase inteira e teste a substituição. Desconfie de <b>falsos sinônimos</b> (sucinto ≠ incompleto; arbitrário ≠ de árbitro; inequívoco ≠ equivocado).</li><li><b>Figuras</b>: identifique primeiro o <b>grupo</b> (palavra, construção, pensamento, som) e depois a figura. Lembre-se dos pares que confundem: metáfora x comparação; metáfora x metonímia; antítese x paradoxo; eufemismo x litotes; elipse x zeugma; aliteração x assonância; prosopopeia x apóstrofe.</li><li><b>Ambiguidade</b>: procure <b>possessivos</b>, <b>pronomes relativos</b>, <b>gerúndios</b> e <b>adjuntos</b> mal posicionados; na reescrita, a alternativa correta é a que <b>elimina</b> a dúvida <b>sem</b> mudar o sentido pretendido e <b>sem</b> criar erro gramatical.</li><li><b>Intertextualidade</b>: pergunte se há <b>reprodução literal</b> (citação), <b>referência indireta</b> (alusão), <b>mesmo sentido</b> (paráfrase), <b>sentido alterado</b> (paródia) ou <b>citação de abertura</b> (epígrafe).</li><li><b>Parônimos e homônimos</b>: memorize os pares por <b>frases-modelo</b> (\"O preso voltou à <b>cela</b>\"; \"A Câmara <b>cassou</b> o mandato\"; \"O juiz <b>ratificou</b> a decisão\"; \"A medida <b>surtiu</b> efeito\"; \"Foi expedido <b>mandado</b> de prisão\"). Frases com contexto fixam melhor do que listas soltas.</li></ul>\n<h3>37. Questões discursivas modelo 5 e 6</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 5</b><p>\"Diferencie antítese de paradoxo, eufemismo de litotes e elipse de zeugma, com um exemplo de cada.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: <b>antítese</b> é a aproximação de ideias <b>opostas</b> que convivem sem contradição lógica (\"Uns <b>choram</b>, outros <b>riem</b>\"); <b>paradoxo</b> (oxímoro) é a união de ideias opostas aplicadas ao <b>mesmo</b> ser, ao mesmo tempo, gerando aparente absurdo (\"um <b>silêncio ensurdecedor</b>\"). <b>Eufemismo</b> suaviza uma ideia desagradável <b>substituindo</b> a expressão (\"ele <b>nos deixou</b>\" = morreu); <b>litotes</b> afirma algo pela <b>negação do contrário</b> (\"ele <b>não é nada bobo</b>\" = é esperto). <b>Elipse</b> é a omissão de um termo facilmente subentendido que <b>não</b> foi mencionado antes (\"<b>Na sala</b>, apenas três pessoas\" = havia); <b>zeugma</b> é a omissão de um termo <b>já</b> mencionado (\"Eu gosto de café; ela, <b>de chá</b>\" = gosta).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 6</b><p>\"Explique o que são parônimos e homônimos e mostre, com exemplos do vocabulário jurídico e policial, como a troca entre eles pode alterar o sentido de um documento.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: <b>homônimos</b> são palavras de <b>mesma forma</b> (som e/ou grafia) e sentidos <b>sem relação</b> (cela/sela; cassar/caçar; sessão/seção/cessão); <b>parônimos</b> são palavras <b>parecidas</b>, mas não iguais, com sentidos <b>diferentes</b> (ratificar/retificar; mandado/mandato; infligir/infringir; deferir/diferir; descriminar/discriminar). Em documentos oficiais, a troca altera o sentido de forma grave: \"o juiz <b>ratificou</b> a decisão\" (confirmou) é o oposto de \"o juiz <b>retificou</b> a decisão\" (corrigiu); \"foi expedido <b>mandato</b> de prisão\" é erro (o correto é <b>mandado</b>, ordem judicial); \"o pedido foi <b>diferido</b>\" significa que foi <b>adiado</b>, e não <b>deferido</b> (atendido); \"o réu <b>infligiu</b> a lei\" é erro (quem viola a lei a <b>infringe</b>; <b>infligir</b> é aplicar pena). Por isso, a revisão do vocabulário é parte essencial da redação de documentos policiais.</p></details></div>\n<h3>38. Semântica e coerência textual</h3>\n<ul><li><b>Coerência</b> é a <b>lógica</b> do texto: as ideias precisam fazer sentido entre si e com o mundo que o texto apresenta. Muitas questões de semântica, na verdade, testam a coerência: a troca de uma palavra que torna a frase <b>contraditória</b> (\"Apesar de ter estudado muito, foi aprovado\" é <b>incoerente</b> com o sentido concessivo esperado, porque estudar muito favorece a aprovação; o normal seria \"Apesar de ter estudado pouco, foi aprovado\").</li><li><b>Incoerência por antônimo</b>: trocar \"<b>aumentou</b>\" por \"<b>diminuiu</b>\", \"<b>deferiu</b>\" por \"<b>indeferiu</b>\", \"<b>inclusive</b>\" por \"<b>exceto</b>\" muda o sentido e pode tornar o texto contraditório.</li><li><b>Incoerência por figura mal usada</b>: uma metáfora que choca com o tom do texto (humor em texto oficial) ou que não combina com o contexto prejudica a coerência e a adequação.</li><li><b>Coerência e conhecimento de mundo</b>: o leitor completa o sentido com o que sabe. \"Choveu muito; por isso, o jogo foi adiado\" é coerente porque sabemos que chuva forte pode impedir o jogo. Questões perguntam qual conectivo <b>mantém</b> a coerência ou qual reescrita <b>preserva</b> a relação lógica.</li><li><b>Dica</b>: ao avaliar uma reescrita, além de conferir a gramática, pergunte: <b>a relação lógica</b> (causa, oposição, concessão, conclusão) e o <b>sentido das palavras</b> continuam os mesmos? Se algo ficou contraditório, a reescrita está errada.</li></ul>\n<h3>39. Perguntas de revisão</h3>\n<ul><li>Qual a diferença entre <b>denotação</b> e <b>conotação</b>? Em que textos predomina cada uma?</li><li>Dê um exemplo de <b>hiperônimo</b> e de <b>hipônimo</b> e explique como servem à coesão.</li><li>Diferencie <b>polissemia</b> de <b>homonímia</b>, e <b>homônimos</b> de <b>parônimos</b>.</li><li>Explique a diferença entre <b>cela</b> e <b>sela</b>, <b>cassar</b> e <b>caçar</b>, <b>sessão</b>, <b>seção</b> e <b>cessão</b>, <b>ratificar</b> e <b>retificar</b>, <b>mandado</b> e <b>mandato</b>, <b>infligir</b> e <b>infringir</b>, <b>surtir</b> e <b>sortir</b>, <b>vultoso</b> e <b>vultuoso</b>, <b>ao encontro de</b> e <b>de encontro a</b>.</li><li>Diferencie <b>comparação</b> de <b>metáfora</b>, <b>metáfora</b> de <b>metonímia</b> e <b>catacrese</b>.</li><li>Diferencie <b>antítese</b> de <b>paradoxo</b>, <b>eufemismo</b> de <b>litotes</b>, <b>elipse</b> de <b>zeugma</b>, <b>polissíndeto</b> de <b>assíndeto</b>, <b>aliteração</b> de <b>assonância</b>, <b>prosopopeia</b> de <b>apóstrofe</b>.</li><li>O que é <b>silepse</b>? Dê exemplos de gênero, número e pessoa.</li><li>Quais as causas mais comuns de <b>ambiguidade</b> e como corrigi-las?</li><li>Diferencie <b>citação</b>, <b>alusão</b>, <b>paráfrase</b>, <b>paródia</b> e <b>epígrafe</b>.</li><li>Diferencie <b>barbarismo</b> de <b>solecismo</b> e dê exemplos de <b>cacofonia</b> e de <b>pleonasmo vicioso</b>.</li><li><b>Semântica no trabalho policial</b>: o domínio do sentido das palavras evita erros que podem ter consequências sérias: descrever como \"<b>agressão</b>\" o que a vítima chamou de \"<b>empurrão</b>\", registrar \"<b>ameaçou</b>\" quando a pessoa disse \"<b>avisou</b>\", ou usar \"<b>suspeito</b>\", \"<b>autor</b>\" e \"<b>criminoso</b>\" como se fossem sinônimos (não são: <b>suspeito</b> é quem é investigado; <b>autor</b> é quem praticou o fato, conforme a apuração; <b>criminoso</b>, juridicamente, pressupõe condenação). A precisão vocabular protege a vítima, o investigado e a própria validade do trabalho policial.</li><li><b>Mais um cuidado de vocabulário</b>: em textos policiais e jurídicos, \"<b>vítima fatal</b>\" é expressão consagrada pelo uso jornalístico, mas criticada por alguns gramáticos (a vítima não é \"fatal\"; o acidente é que foi fatal); \"<b>acidente fatal</b>\" ou \"<b>vítima que morreu</b>\" são alternativas mais precisas. Da mesma forma, \"<b>o mesmo</b>\" como pronome (\"o suspeito fugiu e <b>o mesmo</b> foi preso\") é condenado por manuais de redação: prefira \"<b>ele</b>\" ou outro termo de retomada (\"o suspeito fugiu e <b>foi preso</b> horas depois\").</li><li><b>E as palavras \"que pesam\"?</b> Alguns termos carregam <b>avaliação</b> implícita: \"<b>invasão</b>\" x \"<b>ocupação</b>\", \"<b>confronto</b>\" x \"<b>execução</b>\", \"<b>menor</b>\" x \"<b>adolescente</b>\", \"<b>viciado</b>\" x \"<b>pessoa que usa drogas</b>\". Em textos oficiais e jornalísticos, a escolha revela posicionamento ou pode ser preferida por ser <b>técnica</b> (o ECA, por exemplo, fala em \"<b>criança</b>\" e \"<b>adolescente</b>\"). As provas perguntam o <b>efeito de sentido</b> dessas escolhas: neutralidade, crítica, suavização ou estigmatização. Reconhecê-lo é parte da leitura crítica.</li><li><b>Como fixar de vez</b>: escolha <b>três</b> textos curtos por semana (uma crônica, uma propaganda e uma notícia) e marque neles as figuras de linguagem, as palavras usadas em sentido figurado e os casos de intertextualidade. Depois, reescreva uma frase de cada texto trocando uma palavra por um sinônimo contextual e verifique se o sentido se manteve. Esse exercício, repetido, treina exatamente o raciocínio que as bancas cobram: perceber <b>como</b> o sentido é construído e <b>o que muda</b> quando se altera uma palavra, uma posição ou uma figura.</li><li>Se conseguir responder a todas essas perguntas sem consultar o material, o tópico está dominado. Use o <b>Treino de pegadinhas</b> para revisar os pares que ainda confundem.</li></ul>\n<h3>40. Glossário do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Semântica</b></td><td>estudo do sentido</td></tr><tr><td><b>Denotação / conotação</b></td><td>literal / figurado</td></tr><tr><td><b>Sinonímia / antonímia</b></td><td>semelhança / oposição de sentido</td></tr><tr><td><b>Hiperonímia / hiponímia</b></td><td>sentido amplo / específico</td></tr><tr><td><b>Polissemia</b></td><td>vários sentidos relacionados</td></tr><tr><td><b>Homonímia</b></td><td>mesma forma, sentidos sem relação</td></tr><tr><td><b>Homófonos</b></td><td>mesmo som, grafia diferente</td></tr><tr><td><b>Homógrafos</b></td><td>mesma grafia, som diferente</td></tr><tr><td><b>Parônimos</b></td><td>formas parecidas, sentidos diferentes</td></tr><tr><td><b>Metáfora</b></td><td>comparação implícita</td></tr><tr><td><b>Metonímia</b></td><td>substituição por proximidade</td></tr><tr><td><b>Catacrese</b></td><td>metáfora cristalizada</td></tr><tr><td><b>Sinestesia</b></td><td>mistura de sentidos</td></tr><tr><td><b>Elipse / zeugma</b></td><td>omissão de termo não dito / já dito</td></tr><tr><td><b>Silepse</b></td><td>concordância com a ideia</td></tr><tr><td><b>Antítese / paradoxo</b></td><td>opostos que convivem / opostos no mesmo ser</td></tr><tr><td><b>Eufemismo / litotes</b></td><td>suavizar / afirmar negando o contrário</td></tr><tr><td><b>Prosopopeia / apóstrofe</b></td><td>personificar / invocar</td></tr><tr><td><b>Aliteração / assonância</b></td><td>consoantes / vogais repetidas</td></tr><tr><td><b>Intertextualidade</b></td><td>diálogo entre textos</td></tr><tr><td><b>Paráfrase / paródia</b></td><td>mantém / altera o sentido</td></tr><tr><td><b>Barbarismo / solecismo</b></td><td>erro de forma / de sintaxe</td></tr><tr><td><b>Cacofonia</b></td><td>som desagradável na junção de palavras</td></tr></tbody></table>\n<h3>41. Resumo em uma página</h3>\n<ul><li><b>Sentido</b>: depende do <b>contexto</b>; denotação (literal, textos técnicos) x conotação (figurado, literatura e publicidade).</li><li><b>Relações</b>: sinonímia (imperfeita), antonímia, hiperonímia (amplo) x hiponímia (específico), polissemia (sentidos ligados) x homonímia (sem relação); homófonos (cela/sela, cassar/caçar, sessão/seção/cessão, censo/senso, concerto/conserto); parônimos (ratificar/retificar, infligir/infringir, mandado/mandato, surtir/sortir, vultoso/vultuoso, descriminar/discriminar, deferir/diferir).</li><li><b>Figuras de palavra</b>: comparação (com conectivo), metáfora (sem), metonímia (proximidade), sinestesia (sentidos), catacrese (cristalizada), antonomásia, perífrase.</li><li><b>Construção</b>: elipse (não dito) x zeugma (já dito), pleonasmo (expressivo x vicioso), polissíndeto x assíndeto, anáfora, hipérbato, anacoluto, silepse (gênero, número, pessoa).</li><li><b>Pensamento</b>: antítese x paradoxo, ironia (e sarcasmo), hipérbole, eufemismo x litotes, gradação, prosopopeia, apóstrofe.</li><li><b>Som</b>: aliteração (consoantes), assonância (vogais), onomatopeia, paronomásia.</li><li><b>Ambiguidade</b>: possessivos, relativos, posição de termos; corrigir com \"dele/dela\", \"o qual\", reposicionamento.</li><li><b>Intertextualidade</b>: citação (literal, com fonte), alusão (indireta), paráfrase (mantém sentido), paródia (altera), epígrafe (no início), pastiche (estilo).</li><li><b>Vícios</b>: barbarismo (forma), solecismo (sintaxe), cacofonia (som), eco (terminações), pleonasmo vicioso, arcaísmo, estrangeirismo desnecessário, preciosismo.</li></ul>\n<h3>42. Como as bancas cobram este tópico</h3>\n<ul><li><b>Sentido de palavras no contexto</b> e <b>substituição</b> sem alteração de sentido (sinônimos contextuais).</li><li><b>Parônimos e homônimos</b> (cela/sela, cassar/caçar, ratificar/retificar, mandado/mandato, infligir/infringir, sessão/seção/cessão, vultoso/vultuoso, surtir/sortir).</li><li><b>Figuras de linguagem</b>: sobretudo <b>metáfora x comparação</b>, <b>metonímia</b> (autor pela obra, continente pelo conteúdo, parte pelo todo), <b>antítese x paradoxo</b>, <b>eufemismo</b>, <b>hipérbole</b>, <b>ironia</b>, <b>prosopopeia</b>, <b>gradação</b>, <b>pleonasmo</b>, <b>elipse x zeugma</b>, <b>silepse</b> e figuras de som.</li><li><b>Ambiguidade</b>: identificar e corrigir, especialmente com pronomes possessivos e relativos.</li><li><b>Intertextualidade</b>: distinguir <b>citação, alusão, paráfrase, paródia</b> e <b>epígrafe</b>.</li><li><b>Vícios de linguagem</b>: barbarismo x solecismo, cacofonia, eco, pleonasmo vicioso.</li></ul>\n<h3>43. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Denotação</span></span><span class=\"vs\"><span>sentido literal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Conotação</span></span><span class=\"vs\"><span>sentido figurado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hiperônimo</span></span><span class=\"vs\"><span>termo mais amplo (arma)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hipônimo</span></span><span class=\"vs\"><span>termo mais específico (revólver)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Polissemia</span></span><span class=\"vs\"><span>vários sentidos relacionados</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Homonímia</span></span><span class=\"vs\"><span>mesma forma, sentidos sem relação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cela x sela</span></span><span class=\"vs\"><span>prisão x arreio</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cassar x caçar</span></span><span class=\"vs\"><span>anular x perseguir animais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sessão x seção x cessão</span></span><span class=\"vs\"><span>reunião x divisão x ato de ceder</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Surtir x sortir</span></span><span class=\"vs\"><span>produzir efeito x abastecer</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vultoso x vultuoso</span></span><span class=\"vs\"><span>volumoso x inchado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comparação</span></span><span class=\"vs\"><span>com conectivo (como)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Metáfora</span></span><span class=\"vs\"><span>comparação implícita, sem conectivo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Metonímia</span></span><span class=\"vs\"><span>relação de proximidade (autor pela obra)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Catacrese</span></span><span class=\"vs\"><span>metáfora desgastada (pé da mesa)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sinestesia</span></span><span class=\"vs\"><span>mistura de sentidos (voz doce)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Elipse</span></span><span class=\"vs\"><span>omissão de termo não dito antes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Zeugma</span></span><span class=\"vs\"><span>omissão de termo já dito</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Polissíndeto x assíndeto</span></span><span class=\"vs\"><span>repetição x ausência de conjunções</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Silepse</span></span><span class=\"vs\"><span>concordância com a ideia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Antítese</span></span><span class=\"vs\"><span>opostos sem contradição</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Paradoxo</span></span><span class=\"vs\"><span>opostos no mesmo ser (silêncio ensurdecedor)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eufemismo</span></span><span class=\"vs\"><span>suavizar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hipérbole</span></span><span class=\"vs\"><span>exagero</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prosopopeia</span></span><span class=\"vs\"><span>personificação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Apóstrofe</span></span><span class=\"vs\"><span>invocação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aliteração</span></span><span class=\"vs\"><span>repetição de consoantes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Assonância</span></span><span class=\"vs\"><span>repetição de vogais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Onomatopeia</span></span><span class=\"vs\"><span>imita sons</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Paráfrase</span></span><span class=\"vs\"><span>mantém o sentido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Paródia</span></span><span class=\"vs\"><span>altera o sentido (crítica ou humor)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Barbarismo</span></span><span class=\"vs\"><span>erro na forma da palavra</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Solecismo</span></span><span class=\"vs\"><span>erro de sintaxe</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cacofonia</span></span><span class=\"vs\"><span>som desagradável (boca dela)</span></span></button></div></div>",
+"quiz": [
+{
+"p": "O sentido de uma palavra depende do contexto, como mostram os usos de \"pegar\" em \"pegou o ônibus\", \"pegou uma gripe\" e \"pegou o ladrão\".",
+"c": true,
+"prof": "Semântica.",
+"x": "Polissemia.",
+"e": "Sentido em contexto."
+},
+{
+"p": "Em textos técnicos e oficiais, como laudos e relatórios, predomina a linguagem denotativa.",
+"c": true,
+"prof": "Denotação.",
+"x": "Precisão é essencial.",
+"e": "Denotação técnica."
+},
+{
+"p": "\"Ele é o braço direito do chefe\" apresenta sentido conotativo.",
+"c": true,
+"prof": "Conotação.",
+"x": "Pessoa de confiança.",
+"e": "Braço direito."
+},
+{
+"p": "Hiperônimo é a palavra de sentido mais amplo, e hipônimo, a de sentido mais específico, como \"arma\" e \"revólver\".",
+"c": true,
+"prof": "Relações de sentido.",
+"x": "Usados como recurso de coesão.",
+"e": "Hiper x hipônimo."
+},
+{
+"p": "Na polissemia, uma palavra tem vários sentidos relacionados; na homonímia, palavras de mesma forma têm sentidos sem relação.",
+"c": true,
+"prof": "Relações de sentido.",
+"x": "Ex.: pé (polissemia); manga (homonímia).",
+"e": "Polissemia x homonímia."
+},
+{
+"p": "Sinônimos perfeitos são raros, e a substituição de uma palavra pode alterar intensidade ou registro.",
+"c": true,
+"prof": "Sinonímia.",
+"x": "Ex.: cansado x exausto.",
+"e": "Sinônimos imperfeitos."
+},
+{
+"p": "Cela é o compartimento de prisão; sela é o arreio de cavalo.",
+"c": true,
+"prof": "Homófonos.",
+"x": "Também verbo selar.",
+"e": "Cela x sela."
+},
+{
+"p": "\"A Câmara caçou o mandato do vereador\" está correto, pois caçar significa anular.",
+"c": false,
+"prof": "Homófonos.",
+"x": "Anular é cassar.",
+"e": "Cassar mandato."
+},
+{
+"p": "Sessão é reunião ou duração; seção é divisão; cessão é o ato de ceder.",
+"c": true,
+"prof": "Homófonos.",
+"x": "Muito cobrado.",
+"e": "Sessão, seção, cessão."
+},
+{
+"p": "Censo é recenseamento, e senso é juízo, como em \"bom senso\".",
+"c": true,
+"prof": "Homófonos.",
+"x": "Mesmo som.",
+"e": "Censo x senso."
+},
+{
+"p": "Concerto é apresentação musical, e conserto é reparo.",
+"c": true,
+"prof": "Homófonos.",
+"x": "Conserto de carro.",
+"e": "Concerto x conserto."
+},
+{
+"p": "Incipiente significa iniciante, e insipiente significa ignorante.",
+"c": true,
+"prof": "Homófonos.",
+"x": "Investigação incipiente.",
+"e": "Incipiente."
+},
+{
+"p": "Expiar significa pagar uma culpa, e espiar significa observar às escondidas.",
+"c": true,
+"prof": "Homófonos.",
+"x": "Expiar o crime.",
+"e": "Expiar x espiar."
+},
+{
+"p": "Absolver significa inocentar; absorver significa sorver ou assimilar.",
+"c": true,
+"prof": "Parônimos.",
+"x": "O réu foi absolvido.",
+"e": "Absolver."
+},
+{
+"p": "Deferir significa conceder ou atender; diferir significa adiar ou ser diferente.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Pedido deferido.",
+"e": "Deferir x diferir."
+},
+{
+"p": "Descriminar significa deixar de considerar crime; discriminar significa distinguir ou tratar com preconceito.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Descriminalizar.",
+"e": "Descriminar."
+},
+{
+"p": "Surtir significa produzir (efeito); sortir significa abastecer.",
+"c": true,
+"prof": "Parônimos.",
+"x": "\"A medida surtiu efeito\".",
+"e": "Surtir efeito."
+},
+{
+"p": "\"A quantia vultuosa foi apreendida\" está correto, pois vultuoso significa de grande valor.",
+"c": false,
+"prof": "Parônimos.",
+"x": "De grande valor é vultosa; vultuoso é inchado.",
+"e": "Vultosa."
+},
+{
+"p": "Emergir significa vir à tona; imergir significa mergulhar.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Opostos.",
+"e": "Emergir x imergir."
+},
+{
+"p": "Despensa é o lugar de guardar mantimentos; dispensa é liberação.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Dispensa do serviço.",
+"e": "Despensa x dispensa."
+},
+{
+"p": "Comparação é a figura que aproxima dois elementos com conectivo explícito, como \"forte como um touro\".",
+"c": true,
+"prof": "Figuras de palavra.",
+"x": "Sem conectivo é metáfora.",
+"e": "Comparação."
+},
+{
+"p": "Metáfora é a comparação implícita, sem conectivo, como em \"Ele é um touro\".",
+"c": true,
+"prof": "Figuras de palavra.",
+"x": "Figura mais cobrada.",
+"e": "Metáfora."
+},
+{
+"p": "Em \"Ela é linda como uma flor\" há metáfora, pois há comparação.",
+"c": false,
+"prof": "Figuras de palavra.",
+"x": "Com conectivo \"como\", é comparação.",
+"e": "Como = comparação."
+},
+{
+"p": "Metonímia é a substituição de uma palavra por outra com a qual mantém relação de proximidade, como autor pela obra.",
+"c": true,
+"prof": "Metonímia.",
+"x": "Ex.: \"Li Machado de Assis\".",
+"e": "Metonímia."
+},
+{
+"p": "Em \"Bebi dois copos de água\", há metonímia do continente pelo conteúdo.",
+"c": true,
+"prof": "Metonímia.",
+"x": "Bebe-se a água, não o copo.",
+"e": "Continente pelo conteúdo."
+},
+{
+"p": "Em \"A farda chegou\", a palavra \"farda\" é metonímia que representa a polícia.",
+"c": true,
+"prof": "Metonímia.",
+"x": "Símbolo pelo simbolizado.",
+"e": "Farda."
+},
+{
+"p": "Sinédoque, isto é, a parte pelo todo, é considerada uma espécie de metonímia.",
+"c": true,
+"prof": "Metonímia.",
+"x": "Ex.: \"não tem um teto\".",
+"e": "Parte pelo todo."
+},
+{
+"p": "Sinestesia é a mistura de sensações de sentidos diferentes, como em \"voz doce\".",
+"c": true,
+"prof": "Sinestesia.",
+"x": "Audição + paladar.",
+"e": "Sinestesia."
+},
+{
+"p": "Catacrese é a metáfora desgastada usada por falta de palavra própria, como \"pé da mesa\" e \"céu da boca\".",
+"c": true,
+"prof": "Catacrese.",
+"x": "Não é mais percebida como figura.",
+"e": "Catacrese."
+},
+{
+"p": "Antonomásia é a substituição de um nome próprio por uma característica conhecida.",
+"c": true,
+"prof": "Antonomásia.",
+"x": "Ex.: \"o Poeta dos Escravos\".",
+"e": "Antonomásia."
+},
+{
+"p": "Perífrase é a expressão que designa um ser por suas características, como \"o astro-rei\" para o Sol.",
+"c": true,
+"prof": "Perífrase.",
+"x": "\"Última flor do Lácio\" = língua portuguesa.",
+"e": "Perífrase."
+},
+{
+"p": "Elipse é a omissão de termo facilmente subentendido, não mencionado antes; zeugma é a omissão de termo já mencionado.",
+"c": true,
+"prof": "Figuras de construção.",
+"x": "Ex. de zeugma: \"Eu gosto de café; ela, de chá\".",
+"e": "Elipse x zeugma."
+},
+{
+"p": "Pleonasmo vicioso é a redundância sem valor expressivo, como \"subir para cima\" e \"há anos atrás\".",
+"c": true,
+"prof": "Pleonasmo.",
+"x": "O expressivo reforça a ideia.",
+"e": "Pleonasmo vicioso."
+},
+{
+"p": "Em \"Vi com meus próprios olhos\", há pleonasmo expressivo, usado para reforço.",
+"c": true,
+"prof": "Pleonasmo.",
+"x": "Não é vício.",
+"e": "Pleonasmo expressivo."
+},
+{
+"p": "Polissíndeto é a repetição de conjunções; assíndeto é a ausência delas.",
+"c": true,
+"prof": "Figuras de construção.",
+"x": "\"Vim, vi, venci\" = assíndeto.",
+"e": "Polissíndeto x assíndeto."
+},
+{
+"p": "Anáfora, como figura de construção, é a repetição de palavra no início de frases ou versos.",
+"c": true,
+"prof": "Figuras de construção.",
+"x": "Ex.: \"Cada passo, cada pista, cada detalhe\".",
+"e": "Anáfora figura."
+},
+{
+"p": "Hipérbato é a inversão da ordem direta da frase.",
+"c": true,
+"prof": "Figuras de construção.",
+"x": "Ex.: \"Da janela, todo o crime viu a vizinha\".",
+"e": "Hipérbato."
+},
+{
+"p": "Anacoluto é a quebra da estrutura sintática, com termo solto no início da frase sem função sintática.",
+"c": true,
+"prof": "Figuras de construção.",
+"x": "Ex.: \"Eu, parece que tudo deu errado\".",
+"e": "Anacoluto."
+},
+{
+"p": "Silepse é a concordância com a ideia, e não com a forma gramatical, podendo ser de gênero, número ou pessoa.",
+"c": true,
+"prof": "Silepse.",
+"x": "Ex.: \"Os brasileiros somos otimistas\".",
+"e": "Silepse."
+},
+{
+"p": "Em \"A multidão gritou; pediam justiça\", há silepse de número.",
+"c": true,
+"prof": "Silepse.",
+"x": "Multidão = ideia de plural.",
+"e": "Silepse de número."
+},
+{
+"p": "Em \"Vossa Excelência está cansado\", referindo-se a um homem, há silepse de gênero.",
+"c": true,
+"prof": "Silepse.",
+"x": "Concordância com o sexo da pessoa.",
+"e": "Silepse de gênero."
+},
+{
+"p": "Antítese é a aproximação de ideias opostas sem contradição lógica.",
+"c": true,
+"prof": "Figuras de pensamento.",
+"x": "Ex.: dia e noite.",
+"e": "Antítese."
+},
+{
+"p": "Paradoxo é a aproximação de ideias opostas aplicadas ao mesmo ser, que parecem contraditórias, como \"silêncio ensurdecedor\".",
+"c": true,
+"prof": "Figuras de pensamento.",
+"x": "Também chamado oxímoro.",
+"e": "Paradoxo."
+},
+{
+"p": "Em \"silêncio ensurdecedor\" há antítese simples, sem contradição.",
+"c": false,
+"prof": "Figuras de pensamento.",
+"x": "É paradoxo (oxímoro).",
+"e": "Silêncio ensurdecedor."
+},
+{
+"p": "Ironia consiste em dizer o contrário do que se pensa, com intenção crítica ou humorística.",
+"c": true,
+"prof": "Ironia.",
+"x": "Percebida pelo contexto.",
+"e": "Ironia."
+},
+{
+"p": "Hipérbole é o exagero intencional, como em \"Já te disse um milhão de vezes\".",
+"c": true,
+"prof": "Hipérbole.",
+"x": "\"Morri de rir\" também.",
+"e": "Hipérbole."
+},
+{
+"p": "Eufemismo é a suavização de expressão desagradável, como \"partiu desta para melhor\" em vez de \"morreu\".",
+"c": true,
+"prof": "Eufemismo.",
+"x": "\"Faltar com a verdade\" = mentir.",
+"e": "Eufemismo."
+},
+{
+"p": "\"Morri de rir\" é exemplo de eufemismo.",
+"c": false,
+"prof": "Figuras de pensamento.",
+"x": "É hipérbole.",
+"e": "Morri de rir."
+},
+{
+"p": "Gradação é a sequência de ideias em ordem crescente ou decrescente.",
+"c": true,
+"prof": "Gradação.",
+"x": "Ex.: \"pede, exige, implora\".",
+"e": "Gradação."
+},
+{
+"p": "Prosopopeia, ou personificação, atribui características humanas a seres inanimados, como \"a cidade dormia\".",
+"c": true,
+"prof": "Prosopopeia.",
+"x": "Também a animais.",
+"e": "Prosopopeia."
+},
+{
+"p": "Apóstrofe é a invocação ou o chamamento enfático de alguém ou algo.",
+"c": true,
+"prof": "Apóstrofe.",
+"x": "Ex.: \"Ó mar salgado\".",
+"e": "Apóstrofe."
+},
+{
+"p": "Prosopopeia é a invocação de um ser ausente por meio de vocativo.",
+"c": false,
+"prof": "Figuras de pensamento.",
+"x": "Isso é apóstrofe.",
+"e": "Apóstrofe ≠ prosopopeia."
+},
+{
+"p": "Aliteração é a repetição de sons consonantais; assonância, de sons vocálicos.",
+"c": true,
+"prof": "Figuras de som.",
+"x": "Ex.: \"o rato roeu a roupa do rei de Roma\".",
+"e": "Aliteração x assonância."
+},
+{
+"p": "Onomatopeia é a palavra que imita um som, como \"tic-tac\".",
+"c": true,
+"prof": "Figuras de som.",
+"x": "Também \"zum-zum-zum\".",
+"e": "Onomatopeia."
+},
+{
+"p": "Paronomásia é a aproximação de palavras de som parecido e sentido diferente, como em \"Quem casa quer casa\".",
+"c": true,
+"prof": "Figuras de som.",
+"x": "Trocadilho.",
+"e": "Paronomásia."
+},
+{
+"p": "A frase \"O delegado conversou com o investigador em sua sala\" é ambígua, pelo uso do possessivo \"sua\".",
+"c": true,
+"prof": "Ambiguidade.",
+"x": "Sala de quem?",
+"e": "Seu ambíguo."
+},
+{
+"p": "O uso de \"o qual\" ou \"a qual\" pode eliminar ambiguidade causada pelo pronome \"que\", por marcar gênero e número.",
+"c": true,
+"prof": "Ambiguidade.",
+"x": "Ex.: \"o filho da vizinha, o qual estava doente\".",
+"e": "O qual desfaz."
+},
+{
+"p": "Em \"Vi o ladrão correndo\", a posição do gerúndio gera ambiguidade sobre quem corria.",
+"c": true,
+"prof": "Ambiguidade.",
+"x": "Reposicionar o termo.",
+"e": "Gerúndio ambíguo."
+},
+{
+"p": "Em textos oficiais e policiais, a ambiguidade é defeito grave; em humor e publicidade, pode ser recurso intencional.",
+"c": true,
+"prof": "Ambiguidade.",
+"x": "Clareza é exigida em documentos.",
+"e": "Ambiguidade: defeito ou recurso."
+},
+{
+"p": "Intertextualidade é o diálogo entre textos, que pode ocorrer por citação, alusão, paráfrase, paródia, epígrafe, entre outras formas.",
+"c": true,
+"prof": "Intertextualidade.",
+"x": "Depende do repertório do leitor.",
+"e": "Intertextualidade."
+},
+{
+"p": "Citação é a reprodução literal de trecho de outro texto, com aspas e indicação da fonte.",
+"c": true,
+"prof": "Intertextualidade.",
+"x": "Intertextualidade explícita.",
+"e": "Citação."
+},
+{
+"p": "Alusão é a referência indireta a outro texto ou fato, sem citação literal.",
+"c": true,
+"prof": "Intertextualidade.",
+"x": "Ex.: \"cavalo de Troia\".",
+"e": "Alusão."
+},
+{
+"p": "Paráfrase mantém o sentido do texto original; paródia altera o sentido, com intenção crítica ou humorística.",
+"c": true,
+"prof": "Intertextualidade.",
+"x": "Diferença central.",
+"e": "Paráfrase x paródia."
+},
+{
+"p": "A paródia é a reescrita que mantém fielmente o sentido do texto original.",
+"c": false,
+"prof": "Intertextualidade.",
+"x": "Isso é paráfrase; a paródia subverte.",
+"e": "Paródia subverte."
+},
+{
+"p": "Epígrafe é a citação colocada no início de um texto ou capítulo, relacionada ao tema.",
+"c": true,
+"prof": "Intertextualidade.",
+"x": "Não fica no final.",
+"e": "Epígrafe."
+},
+{
+"p": "O anúncio \"Diga-me com quem andas... e eu te direi quantas calorias você perdeu\" é paródia de um provérbio.",
+"c": true,
+"prof": "Intertextualidade.",
+"x": "Mantém a estrutura e altera o final.",
+"e": "Paródia de provérbio."
+},
+{
+"p": "Barbarismo é o erro na forma da palavra, como \"excessão\" em vez de \"exceção\".",
+"c": true,
+"prof": "Vícios de linguagem.",
+"x": "Grafia, pronúncia ou flexão.",
+"e": "Barbarismo."
+},
+{
+"p": "Solecismo é o erro de sintaxe, como de concordância, regência ou colocação.",
+"c": true,
+"prof": "Vícios de linguagem.",
+"x": "Ex.: \"Fazem dois anos\".",
+"e": "Solecismo."
+},
+{
+"p": "\"Fazem dois anos que não o vejo\" é exemplo de barbarismo.",
+"c": false,
+"prof": "Vícios de linguagem.",
+"x": "É solecismo (concordância): o correto é \"Faz dois anos\".",
+"e": "Fazem dois anos: solecismo."
+},
+{
+"p": "Cacofonia é o som desagradável ou ridículo formado pela junção de palavras, como \"boca dela\".",
+"c": true,
+"prof": "Vícios de linguagem.",
+"x": "Também \"por cada\".",
+"e": "Cacofonia."
+},
+{
+"p": "Eco é a repetição desagradável de terminações iguais em prosa.",
+"c": true,
+"prof": "Vícios de linguagem.",
+"x": "Ex.: \"solução da questão exige atenção\".",
+"e": "Eco."
+},
+{
+"p": "Arcaísmo é o uso de palavra ou construção antiquada.",
+"c": true,
+"prof": "Vícios de linguagem.",
+"x": "Ex.: \"vosmecê\".",
+"e": "Arcaísmo."
+},
+{
+"p": "O estrangeirismo é vício quando desnecessário ou excessivo, havendo equivalente em português.",
+"c": true,
+"prof": "Vícios de linguagem.",
+"x": "Ex.: \"deadline\" por \"prazo\".",
+"e": "Estrangeirismo."
+},
+{
+"p": "Em \"O silêncio gritava na sala vazia\", há prosopopeia.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Também pode ser lido como paradoxo.",
+"e": "Silêncio gritava."
+},
+{
+"p": "Em \"O policial estava calmo; o suspeito, nervoso\", há zeugma e antítese.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Omissão de \"estava\" e oposição de ideias.",
+"e": "Zeugma + antítese."
+},
+{
+"p": "A frase \"A vítima reconheceu o autor do roubo, o qual estava preso na delegacia\" elimina a ambiguidade da versão com \"que\".",
+"c": true,
+"prof": "Casos práticos.",
+"x": "\"O qual\" retoma \"autor\".",
+"e": "Reescrita clara."
+},
+{
+"p": "Litotes é a figura que afirma algo pela negação do contrário, como em \"ele não é nada bobo\".",
+"c": true,
+"prof": "Figuras de pensamento.",
+"x": "Difere do eufemismo, que substitui a expressão.",
+"e": "Litotes."
+},
+{
+"p": "Sarcasmo é uma forma de ironia agressiva e mordaz.",
+"c": true,
+"prof": "Figuras de pensamento.",
+"x": "Ironia que fere.",
+"e": "Sarcasmo."
+},
+{
+"p": "A metáfora baseia-se em semelhança; a metonímia, em relação de proximidade real.",
+"c": true,
+"prof": "Metáfora x metonímia.",
+"x": "\"Ele é uma raposa\" x \"O Planalto decidiu\".",
+"e": "Semelhança x proximidade."
+},
+{
+"p": "A palavra \"anáfora\" pode designar tanto uma figura de repetição no início de frases quanto a retomada de termo já dito, em coesão.",
+"c": true,
+"prof": "Anáfora.",
+"x": "O enunciado define o sentido.",
+"e": "Dois sentidos de anáfora."
+},
+{
+"p": "O prefixo \"re-\" indica repetição, como em \"reincidência\", que significa cometer de novo.",
+"c": true,
+"prof": "Prefixos.",
+"x": "\"Trans-\" indica além.",
+"e": "Re-."
+},
+{
+"p": "O sufixo \"-cida\" significa \"que mata\", como em homicida e inseticida.",
+"c": true,
+"prof": "Radicais.",
+"x": "Origem latina.",
+"e": "-cida."
+},
+{
+"p": "Nominalização é a retomada de uma ação por meio de substantivo, como em \"A polícia prendeu o suspeito. A prisão ocorreu às 10h\".",
+"c": true,
+"prof": "Coesão lexical.",
+"x": "Recurso de coesão.",
+"e": "Nominalização."
+},
+{
+"p": "Retomar \"o projeto\" com a expressão \"a aventura\" revela avaliação negativa do autor.",
+"c": true,
+"prof": "Coesão lexical.",
+"x": "Expressões avaliativas indicam ponto de vista.",
+"e": "Retomada avaliativa."
+},
+{
+"p": "No vocabulário jurídico, \"competência\" designa a atribuição legal de um órgão ou juiz para decidir.",
+"c": true,
+"prof": "Polissemia técnica.",
+"x": "Não é habilidade.",
+"e": "Competência técnica."
+},
+{
+"p": "No vocabulário jurídico, \"prescrição\" pode significar a perda do direito de punir pelo decurso do tempo.",
+"c": true,
+"prof": "Polissemia técnica.",
+"x": "No sentido comum, é receita médica.",
+"e": "Prescrição."
+},
+{
+"p": "Em \"Era um grito silencioso de socorro\", há paradoxo.",
+"c": true,
+"prof": "Exercício comentado.",
+"x": "Grito silencioso.",
+"e": "Grito silencioso."
+},
+{
+"p": "Em \"Ele foi convidado a se retirar da empresa\", em lugar de \"foi demitido\", há eufemismo.",
+"c": true,
+"prof": "Exercício comentado.",
+"x": "Suaviza.",
+"e": "Convidado a se retirar."
+},
+{
+"p": "Em \"O cheiro amargo da derrota\" há sinestesia, pela mistura de olfato e paladar.",
+"c": true,
+"prof": "Exercício comentado.",
+"x": "Também metáfora.",
+"e": "Cheiro amargo."
+},
+{
+"p": "\"Ao encontro de\" significa a favor de, e \"de encontro a\" significa contra.",
+"c": true,
+"prof": "Expressões.",
+"x": "Sentidos opostos.",
+"e": "Ao encontro x de encontro."
+},
+{
+"p": "\"A decisão veio de encontro aos anseios da população\" indica que a decisão atendeu aos anseios.",
+"c": false,
+"prof": "Expressões.",
+"x": "\"De encontro a\" indica oposição.",
+"e": "De encontro = contra."
+},
+{
+"p": "\"Em vez de\" indica substituição em geral; \"ao invés de\" é usado para ideias opostas.",
+"c": true,
+"prof": "Expressões.",
+"x": "Em dúvida, \"em vez de\".",
+"e": "Em vez de x ao invés de."
+},
+{
+"p": "\"A cerca de\" indica distância aproximada; \"há cerca de\" indica tempo passado ou existência aproximada; \"acerca de\" significa sobre.",
+"c": true,
+"prof": "Expressões.",
+"x": "\"O suspeito estava a cerca de cem metros\".",
+"e": "Acerca, a cerca, há cerca."
+},
+{
+"p": "\"Tampouco\" significa também não, e \"tão pouco\" significa muito pouco.",
+"c": true,
+"prof": "Expressões.",
+"x": "\"Não estudou, tampouco trabalhou\".",
+"e": "Tampouco."
+},
+{
+"p": "\"Mau\" é adjetivo, oposto de bom; \"mal\" é advérbio, oposto de bem.",
+"c": true,
+"prof": "Expressões.",
+"x": "Ele é um mau policial; dormiu mal.",
+"e": "Mal x mau."
+},
+{
+"p": "\"Porquê\", junto e com acento, é substantivo e vem acompanhado de determinante, como em \"o porquê da decisão\".",
+"c": true,
+"prof": "Porquês.",
+"x": "\"Porque\" junto indica causa.",
+"e": "Porquê substantivo."
+},
+{
+"p": "\"Por quê\", separado e com acento, é usado no final da frase ou antes de pausa forte.",
+"c": true,
+"prof": "Porquês.",
+"x": "\"Faltou por quê?\".",
+"e": "Por quê final."
+},
+{
+"p": "\"Afim\" significa semelhante ou com afinidade; \"a fim de\" indica finalidade.",
+"c": true,
+"prof": "Expressões.",
+"x": "Áreas afins; a fim de chegar.",
+"e": "Afim x a fim."
+},
+{
+"p": "A propaganda \"Penso, logo compro\" é paródia de frase célebre, com efeito humorístico e crítico.",
+"c": true,
+"prof": "Intertextualidade.",
+"x": "Altera o sentido original.",
+"e": "Penso, logo compro."
+},
+{
+"p": "Em \"Pedro disse a João que ele seria promovido\", há ambiguidade quanto ao referente de \"ele\".",
+"c": true,
+"prof": "Ambiguidade.",
+"x": "Pode-se usar \"este\" ou discurso direto.",
+"e": "Ele ambíguo."
+},
+{
+"p": "\"Um grande homem\" significa homem ilustre, enquanto \"um homem grande\" significa homem de estatura alta.",
+"c": true,
+"prof": "Posição do adjetivo.",
+"x": "A posição altera o sentido.",
+"e": "Grande homem."
+},
+{
+"p": "\"Um pobre homem\" indica pessoa digna de pena; \"um homem pobre\", pessoa sem dinheiro.",
+"c": true,
+"prof": "Posição do adjetivo.",
+"x": "Anteposto: valor afetivo.",
+"e": "Pobre homem."
+},
+{
+"p": "\"Certas provas\" significa algumas provas; \"provas certas\" significa provas corretas ou seguras.",
+"c": true,
+"prof": "Posição do adjetivo.",
+"x": "Mudança de sentido.",
+"e": "Certas provas."
+},
+{
+"p": "Em \"O relatório foi sucinto\", a substituição de \"sucinto\" por \"conciso\" mantém o sentido, mas por \"incompleto\" o altera.",
+"c": true,
+"prof": "Substituição.",
+"x": "Sucinto = breve, não falho.",
+"e": "Sucinto."
+},
+{
+"p": "Em \"O prazo é exíguo\", \"exíguo\" pode ser substituído por \"curto\" sem alteração de sentido.",
+"c": true,
+"prof": "Substituição.",
+"x": "Exíguo = escasso.",
+"e": "Exíguo."
+},
+{
+"p": "\"Coibir\" significa reprimir ou impedir.",
+"c": true,
+"prof": "Substituição.",
+"x": "\"A autoridade coibiu os abusos\".",
+"e": "Coibir."
+},
+{
+"p": "\"Inequívoco\" significa claro, sem margem a dúvida, e não equivocado.",
+"c": true,
+"prof": "Substituição.",
+"x": "Falso parente de \"equivocado\".",
+"e": "Inequívoco."
+},
+{
+"p": "Agir com parcimônia significa agir com moderação.",
+"c": true,
+"prof": "Substituição.",
+"x": "Comedimento.",
+"e": "Parcimônia."
+},
+{
+"p": "Em textos formais, a sigla deve aparecer por extenso na primeira ocorrência, seguida da sigla entre parênteses.",
+"c": true,
+"prof": "Siglas.",
+"x": "Ex.: Instituto Médico-Legal (IML).",
+"e": "Sigla por extenso."
+},
+{
+"p": "O prefixo \"sub-\" em \"subnotificação\" indica notificação abaixo do real.",
+"c": true,
+"prof": "Formação de palavras.",
+"x": "Sub = abaixo.",
+"e": "Subnotificação."
+},
+{
+"p": "Em \"Esperei uma eternidade na fila do banco\", há hipérbole.",
+"c": true,
+"prof": "Figuras.",
+"x": "Exagero intencional.",
+"e": "Eternidade na fila."
+},
+{
+"p": "Em \"Os policiais desta delegacia trabalhamos muito\", há silepse de pessoa.",
+"c": true,
+"prof": "Silepse.",
+"x": "O falante se inclui no grupo.",
+"e": "Silepse de pessoa."
+},
+{
+"p": "Em \"São Paulo é linda\", a concordância no feminino é silepse de gênero, pela ideia de cidade.",
+"c": true,
+"prof": "Silepse.",
+"x": "Concordância ideológica.",
+"e": "São Paulo é linda."
+},
+{
+"p": "A aliteração do som \"v\" em \"Vozes veladas, veludosas vozes\" contribui para a musicalidade do verso.",
+"c": true,
+"prof": "Figuras de som.",
+"x": "Típico do Simbolismo.",
+"e": "Aliteração em v."
+},
+{
+"p": "Em documentos policiais, eufemismos que mascarem fatos relevantes devem ser evitados.",
+"c": true,
+"prof": "Linguagem oficial.",
+"x": "O uso de força deve ser descrito com precisão.",
+"e": "Sem eufemismo mascarador."
+},
+{
+"p": "Tachar significa qualificar negativamente; taxar significa cobrar taxa ou tributar.",
+"c": true,
+"prof": "Homônimos.",
+"x": "\"Foi tachado de mentiroso\".",
+"e": "Tachar x taxar."
+},
+{
+"p": "Estrato significa camada, como em \"estrato social\"; extrato significa resumo ou substância extraída.",
+"c": true,
+"prof": "Homônimos.",
+"x": "Extrato bancário.",
+"e": "Estrato x extrato."
+},
+{
+"p": "Proscrever significa proibir ou banir; prescrever pode significar receitar, determinar ou perder o direito pelo decurso do tempo.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Drogas proscritas.",
+"e": "Proscrever."
+},
+{
+"p": "Docente é o professor; discente é o aluno.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Corpo docente e discente.",
+"e": "Docente x discente."
+},
+{
+"p": "Em \"A cidade dormia\", há prosopopeia e também metonímia, pois a cidade representa seus moradores.",
+"c": true,
+"prof": "Exercício com texto.",
+"x": "Duas figuras na mesma expressão.",
+"e": "Cidade dormia."
+},
+{
+"p": "A frase \"Apesar de ter estudado muito, foi aprovado\" é incoerente com o valor concessivo esperado, pois estudar muito favorece a aprovação.",
+"c": true,
+"prof": "Coerência.",
+"x": "O natural seria \"estudado pouco\".",
+"e": "Concessão incoerente."
+},
+{
+"p": "A troca de \"deferiu\" por \"indeferiu\" ou de \"inclusive\" por \"exceto\" inverte o sentido e pode gerar contradição no texto.",
+"c": true,
+"prof": "Coerência.",
+"x": "Antônimos.",
+"e": "Troca por antônimo."
+},
+{
+"p": "Manuais de redação recomendam evitar \"o mesmo\" como pronome de retomada, como em \"o suspeito fugiu e o mesmo foi preso\", preferindo \"ele\" ou outra construção.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Uso condenado em textos formais.",
+"e": "Evitar \"o mesmo\"."
+},
+{
+"p": "Suspeito, autor e criminoso não são sinônimos perfeitos em textos policiais e jurídicos.",
+"c": true,
+"prof": "Precisão vocabular.",
+"x": "Criminoso pressupõe condenação.",
+"e": "Suspeito ≠ criminoso."
+}
+]
+},
+"generos-oficiais": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3ª</b><span>edição do Manual de Redação da Presidência da República (2018), referência das provas</span></div><div class=\"lt-stat\"><b>2</b><span>fechos do padrão ofício (Respeitosamente e Atenciosamente)</span></div><div class=\"lt-stat\"><b>1</b><span>só \"ofício\" para as comunicações oficiais: aviso e memorando deixaram de existir como espécies próprias</span></div><div class=\"lt-stat\"><b>3ª</b><span>pessoa: concordância dos pronomes de tratamento (Vossa Excelência está...)</span></div></div>\n<h3>1. O que é redação oficial e onde ela se aplica</h3>\n<ul><li><b>Redação oficial</b> é a forma pela qual o <b>Poder Público</b> redige <b>comunicações oficiais</b> e <b>atos normativos</b>. O documento de referência é o <b>Manual de Redação da Presidência da República</b>, cuja <b>3ª edição</b> (2018) atualizou várias regras e é a base da maioria das questões de concurso.</li><li><b>Por que interessa ao policial</b>: a polícia produz e recebe ofícios, requerimentos, relatórios, despachos e comunicações eletrônicas todos os dias. Um documento bem escrito é <b>claro</b>, <b>impessoal</b> e <b>formal</b>, evita retrabalho e protege o servidor e a administração.</li><li><b>Fundamento</b>: a redação oficial decorre dos <b>princípios da administração pública</b> (CF, art. 37), especialmente a <b>impessoalidade</b> e a <b>publicidade</b> (que exige textos <b>compreensíveis</b> por todos), e da necessidade de <b>padronização</b>.</li></ul>\n<h3>2. Atributos (qualidades) da redação oficial</h3>\n<table class=\"tab\"><thead><tr><th>Atributo</th><th>O que significa</th><th>Como se obtém</th></tr></thead><tbody><tr><td><b>Clareza e precisão</b></td><td>o texto deve ser entendido <b>de imediato</b>, com <b>um só sentido</b> possível</td><td>palavras de uso geral, termos técnicos explicados, frases em ordem direta, sem ambiguidade</td></tr><tr><td><b>Objetividade</b></td><td>ir <b>direto ao assunto</b>, sem rodeios</td><td>ideia principal logo no início, eliminação do que não acrescenta</td></tr><tr><td><b>Concisão</b></td><td>transmitir o <b>máximo de informação</b> com o <b>mínimo de palavras</b>, sem perder a clareza</td><td>cortar redundâncias, adjetivos e advérbios inúteis, frases feitas</td></tr><tr><td><b>Coesão e coerência</b></td><td>texto <b>articulado</b> e <b>lógico</b></td><td>conectivos adequados, referência clara, ideias encadeadas</td></tr><tr><td><b>Impessoalidade</b></td><td>o texto fala <b>em nome do serviço público</b>, não do servidor; trata o destinatário de modo <b>neutro</b></td><td>ausência de impressões pessoais, de intimidade e de juízos de valor; o assunto é tratado de forma objetiva</td></tr><tr><td><b>Formalidade e padronização</b></td><td>uso de <b>formas de tratamento</b> adequadas, cortesia, <b>padrão</b> gráfico e de diagramação</td><td>seguir os modelos do Manual (padrão ofício)</td></tr><tr><td><b>Uso da norma-padrão</b></td><td>correção gramatical</td><td>respeito à gramática, vocabulário adequado</td></tr></tbody></table>\n<ul><li><b>Impessoalidade em três sentidos</b>: (1) <b>quem comunica</b> é sempre o <b>serviço público</b> (o órgão), mesmo que assine um servidor; (2) <b>quem recebe</b> é o <b>público</b> ou outro órgão, tratado de forma <b>neutra</b>; (3) <b>o assunto</b> é sempre de <b>interesse público</b>, tratado sem marcas pessoais.</li><li><b>Concisão não é omissão</b>: ser conciso é <b>eliminar o supérfluo</b>, não cortar informações necessárias. Um texto curto e obscuro <b>não</b> é conciso: é falho.</li><li><b>O que evitar</b>: <b>jargão burocrático</b> (\"venho por meio deste\", \"outrossim\", \"no aguardo\", \"sem mais para o momento\"), <b>linguagem rebuscada</b> e <b>preciosismos</b>, <b>gírias</b> e <b>coloquialismos</b>, <b>estrangeirismos</b> desnecessários, <b>adjetivação</b> excessiva, <b>frases longas</b> e <b>ambíguas</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Concisão significa escrever o menor texto possível, ainda que falte informação</span><br>✅ <span class=\"certo\">Concisão = <b>máximo de informação</b> com <b>mínimo de palavras</b>, sem perder a clareza</span></li><li>❌ <span class=\"banca\">A impessoalidade impede o uso da primeira pessoa</span><br>✅ <span class=\"certo\">O Manual admite a 1ª pessoa (do singular ou do plural) no texto, desde que o tratamento seja <b>impessoal</b> e o foco seja o <b>interesse público</b></span></li><li>❌ <span class=\"banca\">\"Venho por meio deste solicitar\" é fórmula recomendada pelo Manual</span><br>✅ <span class=\"certo\">É fórmula <b>desnecessária</b>; vá direto ao assunto: \"Solicito...\"</span></li></ol></div>\n<h3>3. Pronomes de tratamento: quem recebe o quê</h3>\n<table class=\"tab\"><thead><tr><th>Pronome</th><th>Abreviatura</th><th>Para quem (exemplos)</th></tr></thead><tbody><tr><td><b>Vossa Excelência</b></td><td>V. Exa.</td><td><b>Poder Executivo</b>: Presidente e Vice-Presidente da República, Ministros de Estado, Governadores e Vice-Governadores, Prefeitos e Vice-Prefeitos, oficiais-generais das Forças Armadas, embaixadores e secretários de Estado dos governos estaduais, entre outros; <b>Poder Legislativo</b>: Deputados, Senadores, Vereadores, Ministros do TCU, Deputados Estaduais, conselheiros dos Tribunais de Contas; <b>Poder Judiciário</b>: Ministros dos Tribunais Superiores, membros de Tribunais, Juízes, Auditores da Justiça Militar; e outras altas autoridades previstas no Manual</td></tr><tr><td><b>Vossa Senhoria</b></td><td>V. Sa.</td><td><b>demais autoridades</b> e <b>particulares</b> (servidores em geral, diretores, chefes de seção, cidadãos)</td></tr><tr><td><b>Vossa Magnificência</b></td><td>V. Maga.</td><td><b>reitores</b> de universidades</td></tr><tr><td><b>Vossa Santidade</b></td><td>V. S.</td><td><b>Papa</b></td></tr><tr><td><b>Vossa Eminência</b></td><td>V. Ema.</td><td><b>cardeais</b></td></tr><tr><td><b>Vossa Majestade</b> / <b>Vossa Alteza</b></td><td>V. M. / V. A.</td><td>reis e rainhas / príncipes e duques</td></tr></tbody></table>\n<ul><li><b>Concordância</b> com os pronomes de tratamento: embora se refiram à <b>2ª pessoa</b> (a quem se fala), levam o <b>verbo</b> e os <b>pronomes</b> para a <b>3ª pessoa</b>: \"Vossa Excelência <b>está</b> ciente de que <b>seu</b> pedido...\", e <b>não</b> \"estais\" ou \"vosso\". O <b>adjetivo</b> concorda com o <b>sexo</b> da pessoa: \"Vossa Excelência está <b>cansado</b>\" (homem), \"<b>cansada</b>\" (mulher).</li><li><b>Vossa x Sua</b>: usa-se \"<b>Vossa</b> Excelência\" ao <b>falar com</b> a autoridade (dirigir-se a ela); \"<b>Sua</b> Excelência\" ao <b>falar sobre</b> ela (referir-se a ela, em 3ª pessoa): \"<b>Sua</b> Excelência o Governador visitará a cidade\".</li><li><b>Vocativos</b>: para <b>Chefes de Poder</b> (Presidente da República, Presidente do Congresso Nacional, Presidente do STF), usa-se \"<b>Excelentíssimo Senhor</b>\" seguido do cargo: \"<b>Excelentíssimo Senhor Presidente da República,</b>\". Para as <b>demais autoridades</b> tratadas por Vossa Excelência, usa-se \"<b>Senhor</b>\" seguido do cargo: \"<b>Senhor Senador,</b>\", \"<b>Senhor Juiz,</b>\", \"<b>Senhor Delegado,</b>\" (quando for o caso). Para as tratadas por Vossa Senhoria: \"<b>Senhor</b>\" + cargo ou \"<b>Senhor</b>\" + nome.</li><li><b>Dispensados pela 3ª edição</b>: o emprego do superlativo \"<b>Ilustríssimo</b>\" (para autoridades tratadas por Vossa Senhoria e particulares) e de \"<b>Digníssimo</b>\" (DD.), considerados desnecessários: a dignidade é pressuposto do cargo.</li><li><b>\"Doutor\"</b>: <b>não</b> é forma de tratamento; o Manual recomenda usá-lo apenas para quem tem <b>título de doutorado</b> (grau acadêmico), e não indiscriminadamente para bacharéis, médicos ou autoridades. Em comunicações oficiais, prefere-se \"<b>Senhor</b>\".</li><li><b>Endereçamento</b> (no envelope e no bloco do destinatário): \"<b>A Sua Excelência o Senhor</b> [nome] [cargo] [endereço]\" para autoridades tratadas por Vossa Excelência; \"<b>Ao Senhor</b> [nome] [cargo] [endereço]\" para as tratadas por Vossa Senhoria.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Vossa Excelência exige verbo na 2ª pessoa do plural (\"estais\")</span><br>✅ <span class=\"certo\">Verbo e pronomes na <b>3ª pessoa</b> (\"está\", \"seu\")</span></li><li>❌ <span class=\"banca\">\"Vossa Excelência\" é usado para falar sobre a autoridade</span><br>✅ <span class=\"certo\">Para falar <b>sobre</b>, usa-se \"<b>Sua</b> Excelência\"; \"<b>Vossa</b>\" é para falar <b>com</b> ela</span></li><li>❌ <span class=\"banca\">O vocativo \"Excelentíssimo Senhor\" é usado para qualquer autoridade</span><br>✅ <span class=\"certo\">Apenas para <b>Chefes de Poder</b>; para as demais, \"<b>Senhor</b>\" + cargo</span></li><li>❌ <span class=\"banca\">\"Ilustríssimo\" continua obrigatório para tratamento de Vossa Senhoria</span><br>✅ <span class=\"certo\">A 3ª edição <b>dispensou</b> \"Ilustríssimo\" e \"Digníssimo\"</span></li><li>❌ <span class=\"banca\">Reitor de universidade é tratado por Vossa Excelência</span><br>✅ <span class=\"certo\">Reitor = <b>Vossa Magnificência</b></span></li></ol></div>\n<h3>4. O padrão ofício e o fim do aviso e do memorando</h3>\n<ul><li>Até a 2ª edição, o Manual distinguia <b>três</b> expedientes com a mesma estrutura (o \"<b>padrão ofício</b>\"): o <b>ofício</b> (comunicação com outros órgãos e com particulares), o <b>aviso</b> (expedido por Ministros de Estado a autoridades de mesma hierarquia) e o <b>memorando</b> (comunicação <b>interna</b>, entre unidades do mesmo órgão).</li><li>A <b>3ª edição</b> (2018) <b>aboliu essa distinção</b>: passou-se a usar apenas o <b>ofício</b> para as comunicações oficiais, com a mesma diagramação, independentemente de o destinatário ser interno ou externo. O <b>memorando</b> e o <b>aviso</b> deixaram de existir como espécies próprias no Manual (alguns órgãos ainda os mantêm em normas internas, mas a referência das provas é o Manual).</li><li><b>Consequência para a prova</b>: questões sobre \"memorando para comunicação interna\" ou \"aviso entre ministros\" devem ser lidas com atenção: se a banca cobra a <b>3ª edição</b>, a resposta é que <b>todos</b> passaram a ser <b>ofício</b>.</li></ul>\n<h3>5. Partes do ofício (padrão ofício)</h3>\n<table class=\"tab\"><thead><tr><th>Parte</th><th>Como fica</th><th>Detalhes</th></tr></thead><tbody><tr><td><b>Cabeçalho</b></td><td>brasão, nome do órgão (e da unidade)</td><td>centralizado, no topo da <b>primeira página</b></td></tr><tr><td><b>Identificação do expediente</b></td><td>\"<b>OFÍCIO Nº 123/2026/SDS/PCMG</b>\"</td><td>nome do documento em <b>maiúsculas</b>, <b>número</b>, <b>ano</b> e <b>siglas</b> do órgão (da menor para a maior unidade), alinhado à <b>esquerda</b></td></tr><tr><td><b>Local e data</b></td><td>\"<b>Belo Horizonte, 1º de março de 2026.</b>\"</td><td>alinhados à <b>direita</b>; mês em <b>minúscula</b>, dia <b>1º</b> com ordinal, <b>ponto final</b>; sem zero à esquerda nos dias (5, e não 05)</td></tr><tr><td><b>Endereçamento</b> (destinatário)</td><td>\"<b>A Sua Excelência o Senhor</b> / [Nome] / [Cargo] / [Endereço]\"</td><td>alinhado à esquerda, antes do assunto</td></tr><tr><td><b>Assunto</b></td><td>\"<b>Assunto: Solicitação de laudo pericial.</b>\"</td><td>resumo do teor, em <b>negrito</b>, com ponto final; poucas palavras</td></tr><tr><td><b>Vocativo</b></td><td>\"<b>Senhor Diretor,</b>\"</td><td>seguido de <b>vírgula</b>; precede o texto</td></tr><tr><td><b>Texto</b></td><td>introdução, desenvolvimento e conclusão</td><td>parágrafos <b>numerados</b> (ver nota abaixo)</td></tr><tr><td><b>Fecho</b></td><td>\"<b>Respeitosamente,</b>\" ou \"<b>Atenciosamente,</b>\"</td><td>com vírgula, alinhado conforme o modelo</td></tr><tr><td><b>Assinatura</b></td><td><b>nome</b> e <b>cargo</b> do signatário</td><td>nome sem negrito exagerado, sem linha para assinatura no modelo eletrônico</td></tr></tbody></table>\n<ul><li><b>Numeração dos parágrafos</b>: no padrão ofício, a regra é <b>numerar</b> os parágrafos do texto (com algarismos arábicos), <b>salvo</b> quando o texto estiver organizado em <b>itens</b> ou em <b>títulos e subtítulos</b>; o <b>vocativo</b> e o <b>fecho</b> não recebem numeração. A numeração facilita a referência a trechos (\"conforme o item 3\").</li><li><b>Estrutura do texto</b>: <b>introdução</b> (apresenta o assunto, sem rodeios: \"Encaminho...\", \"Informo...\", \"Solicito...\"), <b>desenvolvimento</b> (detalha, um assunto por parágrafo) e <b>conclusão</b> (reafirma a posição ou o pedido). Quando o expediente apenas <b>encaminha</b> documentos, o texto é curto: informa a referência (\"Em resposta ao Ofício nº..., encaminho...\") e o que segue em anexo.</li><li><b>Diagramação</b> (segundo o Manual): fonte <b>Calibri</b> ou <b>Carlito</b>, corpo <b>12</b> no texto, <b>11</b> nas citações e <b>10</b> nas notas de rodapé; margens com <b>3 cm</b> à <b>esquerda</b> e <b>1,5 cm</b> à <b>direita</b>; espaçamento <b>simples</b>; papel A4; numeração de páginas a partir da segunda.</li><li><b>Fechos</b> (a 3ª edição manteve apenas dois):</li></ul>\n<table class=\"tab\"><thead><tr><th>Fecho</th><th>Para quem</th></tr></thead><tbody><tr><td><b>Respeitosamente,</b></td><td>autoridades de <b>hierarquia superior</b> à do remetente, inclusive o <b>Presidente da República</b></td></tr><tr><td><b>Atenciosamente,</b></td><td>autoridades de <b>mesma hierarquia</b> ou de hierarquia <b>inferior</b>, e particulares</td></tr></tbody></table>\n<ul><li><b>Comunicações assinadas pelo Presidente da República</b> dispensam a identificação do signatário; as demais trazem <b>nome</b> e <b>cargo</b> de quem assina.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No ofício, o mês da data é escrito com inicial maiúscula</span><br>✅ <span class=\"certo\">Mês com <b>minúscula</b>: \"1º de março de 2026\"</span></li><li>❌ <span class=\"banca\">Para o Presidente da República, o fecho é \"Atenciosamente\"</span><br>✅ <span class=\"certo\">É \"<b>Respeitosamente</b>\" (hierarquia superior)</span></li><li>❌ <span class=\"banca\">O fecho do ofício recebe numeração como os demais parágrafos</span><br>✅ <span class=\"certo\">O <b>vocativo</b> e o <b>fecho</b> <b>não</b> são numerados</span></li><li>❌ <span class=\"banca\">O assunto do ofício deve ser longo e detalhado</span><br>✅ <span class=\"certo\">É um <b>resumo</b> do teor, em poucas palavras, em negrito</span></li></ol></div>\n<h3>6. Outras comunicações do Manual</h3>\n<ul><li><b>Exposição de motivos</b>: expediente dirigido ao <b>Presidente da República</b> (ou ao Vice) por <b>Ministro de Estado</b>, para <b>informar</b> sobre assunto, <b>propor</b> medida ou <b>submeter</b> projeto de ato normativo. Pode ser assinada por mais de um ministro (<b>interministerial</b>). Segue o padrão ofício, com particularidades.</li><li><b>Mensagem</b>: instrumento de comunicação <b>oficial</b> entre os <b>Chefes dos Poderes</b> públicos, especialmente as mensagens do <b>Presidente da República</b> ao <b>Congresso Nacional</b> (encaminhar projetos de lei, comunicar vetos, apresentar o plano de governo na abertura da sessão legislativa). <b>Não</b> traz identificação do signatário quando assinada pelo Presidente.</li><li><b>Correio eletrônico</b> (e-mail): forma de comunicação oficial reconhecida pelo Manual, desde que observe as regras de <b>formalidade</b> e de <b>clareza</b>. Deve ter <b>assunto</b> claro, <b>vocativo</b> e <b>fecho</b> adequados, <b>sem</b> abreviações, emojis ou formatações exageradas. Para ter <b>valor documental</b> (como prova), deve existir <b>certificação digital</b> que ateste a identidade do remetente, nos termos da legislação.</li><li><b>Atos normativos</b>: decretos, portarias e outros atos seguem regras próprias de redação (Lei Complementar 95/1998), com estrutura em <b>artigos</b>, <b>parágrafos</b>, <b>incisos</b> e <b>alíneas</b>.</li></ul>\n<h3>7. Gêneros administrativos frequentes</h3>\n<table class=\"tab\"><thead><tr><th>Gênero</th><th>Finalidade</th><th>Estrutura e marcas</th></tr></thead><tbody><tr><td><b>Requerimento</b></td><td><b>pedir</b> algo a uma autoridade, a que se tem (ou se supõe ter) direito</td><td>vocativo ou destinatário (cargo da autoridade); <b>qualificação</b> do requerente (nome, nacionalidade, estado civil, profissão, documento, endereço); <b>exposição</b> do pedido e fundamento; fecho tradicional \"<b>Nestes termos, pede deferimento.</b>\" (ou \"Termos em que pede deferimento\"); local, data e assinatura; texto em <b>3ª pessoa</b></td></tr><tr><td><b>Relatório</b></td><td><b>relatar</b> fatos, atividades ou resultados e, em regra, <b>concluir</b> ou <b>recomendar</b></td><td>introdução (objetivo, período), desenvolvimento (fatos, dados, diligências), conclusão (análise e recomendações); linguagem objetiva, ordem lógica</td></tr><tr><td><b>Parecer</b></td><td>dar <b>opinião técnica</b> fundamentada para subsidiar decisão</td><td>ementa (resumo), relatório (histórico), fundamentação (análise), conclusão (\"É o parecer\"); assinado por técnico ou jurista</td></tr><tr><td><b>Ata</b></td><td>registrar <b>fielmente</b> o que ocorreu em uma <b>reunião</b></td><td>texto <b>corrido</b>, sem parágrafos nem rasuras (ou com ressalvas), números por extenso; data, local, presentes, pauta, deliberações; assinada pelos presentes ou pelo secretário e presidente</td></tr><tr><td><b>Atestado</b></td><td><b>afirmar</b> fato ou situação <b>transitória</b> em favor de alguém</td><td>\"Atesto, para os devidos fins, que...\"</td></tr><tr><td><b>Certidão</b></td><td>reproduzir, com <b>fé pública</b>, informação constante de <b>registro</b> ou documento oficial</td><td>\"Certifico que...\"</td></tr><tr><td><b>Declaração</b></td><td>afirmar existência ou não de um fato, direito ou situação</td><td>\"Declaro, para os devidos fins, que...\"</td></tr><tr><td><b>Despacho</b></td><td><b>decisão</b> ou encaminhamento proferido em processo ou documento</td><td>curto, objetivo: \"Encaminhe-se...\", \"Defiro.\", \"Arquive-se.\"</td></tr><tr><td><b>Portaria</b></td><td><b>ato</b> administrativo pelo qual a autoridade expede <b>determinações</b> gerais ou especiais a subordinados (instaurar inquérito, designar servidor)</td><td>numeração, ementa, considerandos (opcional), artigos</td></tr><tr><td><b>Circular</b></td><td>comunicação dirigida <b>simultaneamente</b> a <b>vários</b> destinatários (internos) com o mesmo conteúdo</td><td>mesmo padrão, vários destinatários</td></tr></tbody></table>\n<ul><li><b>Atestado x certidão x declaração</b>: o <b>atestado</b> afirma algo <b>transitório</b> ou de conhecimento do signatário (atestado médico, de comparecimento); a <b>certidão</b> transcreve, com <b>fé pública</b>, o que consta de <b>registros</b> oficiais (certidão de antecedentes, de nascimento); a <b>declaração</b> afirma um fato ou situação sob responsabilidade de quem declara.</li><li><b>Interesse policial</b>: a <b>portaria</b> de instauração de <b>inquérito policial</b> é o ato da autoridade policial que dá início à investigação em casos que não sejam de flagrante; o <b>relatório</b> final do inquérito encerra a investigação; os <b>despachos</b> movimentam o procedimento; os <b>ofícios</b> requisitam perícias e informações.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Requerimento é escrito em primeira pessoa e termina com \"Atenciosamente\"</span><br>✅ <span class=\"certo\">É, em regra, redigido em <b>3ª pessoa</b>, com fecho \"<b>Nestes termos, pede deferimento</b>\"</span></li><li>❌ <span class=\"banca\">Certidão é documento em que se afirma fato transitório do conhecimento do signatário</span><br>✅ <span class=\"certo\">Isso é o <b>atestado</b>; <b>certidão</b> transcreve, com <b>fé pública</b>, o que consta de <b>registros</b></span></li><li>❌ <span class=\"banca\">A ata pode ter espaços em branco e rasuras livremente</span><br>✅ <span class=\"certo\">A ata é redigida de forma <b>corrida</b>, sem espaços nem rasuras (correções por ressalva)</span></li><li>❌ <span class=\"banca\">O e-mail não é forma de comunicação oficial</span><br>✅ <span class=\"certo\">O Manual reconhece o <b>correio eletrônico</b>; para valor documental, exige <b>certificação digital</b></span></li></ol></div>\n<h3>8. Modelo comentado de ofício (fictício)</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ofício modelo</b><p>POLÍCIA CIVIL DE MINAS GERAIS / Delegacia de Polícia de Exemplópolis — OFÍCIO Nº 45/2026/DP-EXEMPLÓPOLIS/PCMG — Exemplópolis, 10 de março de 2026. — Ao Senhor / Fulano de Tal / Diretor do Instituto de Criminalística / Rua Exemplo, 100 / 30000-000 Belo Horizonte – MG — Assunto: Solicitação de urgência em laudo de exame em local de crime. — Senhor Diretor, — 1. Solicito a Vossa Senhoria a priorização do laudo referente ao exame de local realizado em 2 de março de 2026, na Rua das Flores, nº 50, nesta cidade, vinculado ao Inquérito Policial nº 123/2026. — 2. O investigado encontra-se preso preventivamente, e a conclusão do inquérito depende das informações do laudo, em razão dos prazos legais. — 3. Coloco-me à disposição para os esclarecimentos que se fizerem necessários. — Atenciosamente, — [Nome] — Delegado de Polícia</p><details><summary>Ver a solução comentada</summary><p><b>Comentários</b>: <b>identificação</b> com número, ano e siglas; <b>data</b> alinhada à direita, mês em minúscula, ponto final; <b>endereçamento</b> \"Ao Senhor\" (autoridade tratada por <b>Vossa Senhoria</b>); <b>assunto</b> curto e claro; <b>vocativo</b> \"Senhor Diretor,\" com vírgula; texto <b>direto</b> (\"Solicito...\") sem \"venho por meio deste\"; <b>pronome</b> \"Vossa Senhoria\" com verbo na 3ª pessoa; parágrafos do texto <b>numerados</b> (o vocativo e o fecho não); <b>fecho</b> \"Atenciosamente,\" (destinatário de hierarquia não superior); <b>assinatura</b> com nome e cargo. <b>Impessoalidade</b>: o pedido é justificado pelo <b>interesse do serviço</b> (prazos do inquérito, preso preventivo), sem apelos pessoais.</p></details></div>\n<h3>9. Vícios comuns em documentos oficiais (e como corrigir)</h3>\n<table class=\"tab\"><thead><tr><th>Construção inadequada</th><th>Problema</th><th>Versão adequada</th></tr></thead><tbody><tr><td>\"Venho por meio deste solicitar...\"</td><td>fórmula vazia, prolixa</td><td>\"Solicito...\"</td></tr><tr><td>\"Sem mais para o momento, subscrevo-me.\"</td><td>fecho fora do padrão</td><td>\"Atenciosamente,\"</td></tr><tr><td>\"Ilustríssimo Senhor Delegado\"</td><td>superlativo dispensado</td><td>\"Senhor Delegado,\"</td></tr><tr><td>\"Dr. Fulano\" (sem doutorado)</td><td>\"doutor\" não é tratamento</td><td>\"Senhor Fulano\"</td></tr><tr><td>\"Vossa Excelência sabeis que...\"</td><td>concordância na 2ª pessoa</td><td>\"Vossa Excelência sabe que...\"</td></tr><tr><td>\"Solicito a V. Exa. que envie o vosso parecer\"</td><td>possessivo \"vosso\"</td><td>\"...que envie seu parecer\"</td></tr><tr><td>\"O mesmo informou que...\"</td><td>\"o mesmo\" como pronome</td><td>\"Ele informou...\" ou \"O servidor informou...\"</td></tr><tr><td>\"No aguardo de breve retorno\"</td><td>clichê, frase incompleta</td><td>eliminar ou \"Solicito resposta até [data].\"</td></tr><tr><td>\"A nível de investigação...\"</td><td>expressão condenada</td><td>\"Em relação à investigação...\" / \"No âmbito da investigação...\"</td></tr><tr><td>\"Encaminho em anexo o relatório.\"</td><td>aceitável (\"em anexo\" é correto); \"anexo\" concorda: \"Seguem <b>anexas</b> as fotos\"</td><td>-</td></tr><tr><td>\"Atenciosamente, Respeitosamente,\"</td><td>dois fechos</td><td>escolher um, conforme a hierarquia</td></tr></tbody></table>\n<h3>10. Modelo comentado de requerimento (fictício)</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Requerimento modelo</b><p>Senhor Delegado de Polícia da Delegacia de Exemplópolis, — Fulano de Tal, brasileiro, casado, comerciante, portador da carteira de identidade nº [número], residente na Rua Exemplo, nº 10, nesta cidade, vem requerer a Vossa Senhoria a expedição de certidão de ocorrência referente ao Boletim de Ocorrência nº [número], registrado em 5 de fevereiro de 2026, para fins de apresentação à seguradora. — Nestes termos, pede deferimento. — Exemplópolis, 12 de março de 2026. — [Assinatura]</p><details><summary>Ver a solução comentada</summary><p><b>Comentários</b>: <b>destinatário</b> identificado pelo cargo; <b>qualificação</b> completa do requerente; redação em <b>3ª pessoa</b> (\"vem requerer\"); <b>pedido</b> claro e <b>finalidade</b> indicada; <b>fecho</b> tradicional \"Nestes termos, pede deferimento\"; <b>local e data</b>; <b>assinatura</b>. Não há necessidade de \"Ilustríssimo\" nem de fórmulas longas.</p></details></div>\n<h3>11. Modelo resumido de relatório (fictício)</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Relatório modelo</b><p>RELATÓRIO DE DILIGÊNCIA — 1. <b>Objetivo</b>: cumprir a ordem de missão nº 15/2026, para localizar testemunhas do fato apurado no IP nº 123/2026. — 2. <b>Diligências realizadas</b>: em 8 de março de 2026, a equipe compareceu à Rua das Flores, onde entrevistou três moradores; dois afirmaram ter ouvido disparos por volta das 23h; nenhum viu os autores. — 3. <b>Resultados</b>: identificada uma testemunha que gravou o som dos disparos em vídeo, cuja cópia foi entregue e segue anexa, devidamente lacrada. — 4. <b>Conclusão e sugestões</b>: sugere-se a oitiva formal da testemunha e a requisição de imagens de câmeras de dois estabelecimentos comerciais da via. — [Local, data, nome e cargo]</p><details><summary>Ver a solução comentada</summary><p><b>Comentários</b>: estrutura em <b>objetivo, diligências, resultados e conclusão</b>; linguagem <b>objetiva</b>, impessoal, com datas e locais precisos; informações <b>atribuídas</b> às fontes (\"afirmaram\"); <b>sugestões</b> separadas dos fatos; menção à <b>cadeia de custódia</b> do material entregue.</p></details></div>\n<h3>12. Casos práticos de tratamento</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Qual pronome e qual fecho?</b><p>1) Ofício do Delegado ao Juiz de Direito da comarca. 2) Ofício do Delegado ao Diretor do IML. 3) Ofício do Chefe da Polícia Civil ao Governador do Estado. 4) Ofício do Delegado ao Reitor de uma universidade. 5) Resposta do Delegado a um cidadão.</p><details><summary>Ver a solução comentada</summary><p><b>1)</b> Juiz: <b>Vossa Excelência</b>; vocativo \"<b>Senhor Juiz,</b>\"; fecho: considerando o juiz autoridade de hierarquia e poder diversos, usa-se em geral \"<b>Respeitosamente,</b>\" (forma de cortesia a autoridade de maior hierarquia). <b>2)</b> Diretor do IML: <b>Vossa Senhoria</b>; \"<b>Senhor Diretor,</b>\"; \"<b>Atenciosamente,</b>\". <b>3)</b> Governador: <b>Vossa Excelência</b>; \"<b>Senhor Governador,</b>\"; \"<b>Respeitosamente,</b>\" (hierarquia superior). <b>4)</b> Reitor: <b>Vossa Magnificência</b>; \"<b>Magnífico Reitor,</b>\"; fecho conforme a hierarquia, em geral \"<b>Atenciosamente,</b>\" ou \"<b>Respeitosamente,</b>\" segundo a praxe do órgão. <b>5)</b> Cidadão: <b>Vossa Senhoria</b> (ou, no texto, simplesmente \"o senhor/a senhora\"); \"<b>Senhor</b> [nome],\" ; \"<b>Atenciosamente,</b>\".</p></details></div>\n<h3>13. Os atributos da redação oficial, um a um, com exemplos</h3>\n<p>A redação oficial não é um estilo \"difícil\" ou rebuscado. Ao contrário: o Manual de Redação da Presidência da República insiste que o texto oficial deve ser <b>compreendido por qualquer cidadão</b> e que a formalidade não se confunde com pompa. Os atributos funcionam como um conjunto: um texto pode estar gramaticalmente perfeito e, mesmo assim, falhar por ser ambíguo, prolixo ou pessoal. A seguir, cada atributo é explicado com exemplos de construções inadequadas e de sua correção.</p>\n<ul><li><b>Clareza</b>: o texto claro é aquele que permite <b>compreensão imediata</b> pelo leitor, sem que ele precise reler ou adivinhar o que o autor quis dizer. Para isso, usa-se vocabulário de uso corrente, frases em <b>ordem direta</b> (sujeito, verbo, complementos), uma ideia por período e cuidado com a <b>pontuação</b>. Exemplo inadequado: \"Tendo em vista o que dispõe o documento anteriormente referido e considerando a necessidade, em face do que foi exposto, de providências, solicita-se a adoção daquelas cabíveis.\" Versão clara: \"Solicito que Vossa Senhoria adote as providências necessárias para cumprir o mandado de busca referido no item 1.\" A clareza é o atributo-síntese: os demais (precisão, concisão, coesão) existem para que o texto seja claro.</li><li><b>Precisão</b>: consiste em usar a <b>palavra exata</b> para cada ideia, evitando termos vagos (\"coisa\", \"questão\", \"situação\") e sinônimos que mudem o sentido técnico. Em documentos policiais, a precisão é ainda mais importante: \"detido\", \"preso em flagrante\", \"conduzido\" e \"custodiado\" não são sinônimos perfeitos; \"laudo\" e \"parecer\" também não. Exemplo impreciso: \"O indivíduo foi pego com umas coisas na região central.\" Versão precisa: \"O conduzido foi abordado na Rua X, nº 100, Centro, às 22h15, portando três porções de substância análoga a cocaína.\"</li><li><b>Objetividade</b>: é ir <b>direto ao ponto</b>, apresentando a ideia principal logo no início e eliminando informações que não contribuam para o propósito do documento. A objetividade não significa secura nem descortesia: a cortesia está no tratamento e no fecho, não em rodeios.</li><li><b>Concisão</b>: é transmitir o <b>máximo de informações com o mínimo de palavras</b>. O texto conciso elimina repetições, redundâncias (\"elo de ligação\", \"encarar de frente\", \"há anos atrás\"), adjetivos desnecessários e fórmulas vazias (\"venho por meio deste\", \"vimos pelo presente\"). A concisão <b>não autoriza</b> omitir informação relevante: um ofício que pede perícia precisa dizer qual exame, em que objeto, vinculado a qual procedimento.</li><li><b>Coesão e coerência</b>: a <b>coesão</b> é a ligação entre as partes do texto, feita por conectivos (portanto, contudo, além disso) e por retomadas (pronomes, sinônimos, elipses); a <b>coerência</b> é a lógica do conteúdo, a ausência de contradições e a progressão das ideias. Um ofício que no item 2 afirma que o investigado está preso e no item 3 pede a expedição de mandado de prisão contra ele é incoerente.</li><li><b>Impessoalidade</b>: o texto oficial deve ser <b>isento de impressões pessoais</b> do redator. Como explica o Manual, a impessoalidade decorre de três fatores: quem comunica é sempre o <b>serviço público</b> (ainda que o documento seja assinado por uma pessoa, ela fala como agente do órgão); o destinatário é o <b>público</b> ou outro órgão; e o assunto é de <b>interesse público</b>. Por isso, evitam-se adjetivos de valor (\"o excelente trabalho do ilustre colega\"), desabafos, ironias, gírias e referências à vida pessoal. A impessoalidade <b>não impede</b> o uso da 1ª pessoa do singular no padrão ofício (\"Solicito\", \"Informo\"), porque quem fala é a autoridade em nome do órgão.</li><li><b>Formalidade e padronização</b>: a formalidade diz respeito à <b>civilidade</b> no trato com o destinatário, ao uso correto dos <b>pronomes de tratamento</b> e dos fechos e à adoção de um registro culto, sem coloquialismos. A padronização diz respeito à <b>uniformidade</b> gráfica e estrutural: todos os ofícios do órgão têm a mesma diagramação, o que facilita a leitura, o arquivamento e a identificação da origem.</li><li><b>Uso da norma-padrão</b>: os textos oficiais seguem a <b>norma-padrão</b> da língua portuguesa, com observância das regras de concordância, regência, colocação pronominal, crase, pontuação e ortografia oficial (Acordo Ortográfico). Isso não significa usar vocabulário raro: significa correção gramatical a serviço da clareza.</li></ul>\n<table class=\"tab\"><thead><tr><th>Atributo</th><th>Pergunta que o redator deve fazer</th><th>Vício correspondente</th></tr></thead><tbody><tr><td>Clareza</td><td>\"O leitor entende na primeira leitura?\"</td><td>obscuridade, ambiguidade</td></tr><tr><td>Precisão</td><td>\"Usei a palavra exata?\"</td><td>vagueza, impropriedade vocabular</td></tr><tr><td>Objetividade</td><td>\"A ideia principal aparece logo?\"</td><td>rodeios</td></tr><tr><td>Concisão</td><td>\"Há palavra sobrando?\"</td><td>prolixidade, redundância</td></tr><tr><td>Coesão/coerência</td><td>\"As partes se ligam e não se contradizem?\"</td><td>texto fragmentado, contraditório</td></tr><tr><td>Impessoalidade</td><td>\"Há opinião pessoal ou emoção?\"</td><td>subjetividade, adjetivação valorativa</td></tr><tr><td>Formalidade</td><td>\"Tratamento e fecho estão corretos?\"</td><td>informalidade, descortesia</td></tr><tr><td>Padronização</td><td>\"Segui o padrão ofício?\"</td><td>diagramação irregular</td></tr><tr><td>Norma-padrão</td><td>\"Há erro gramatical?\"</td><td>desvio gramatical</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Ambiguidade, a inimiga número um | Frases como \"O delegado encontrou o investigado em sua casa\" são ambíguas (casa de quem?). Corrija explicitando: \"O delegado encontrou o investigado na casa deste\" ou \"na residência do investigado\". Questões de reescrita adoram cobrar a eliminação de ambiguidade causada por pronomes possessivos (seu, sua) e por adjuntos mal posicionados.</div>\n<h3>14. Pronomes de tratamento: quadro ampliado e regras gramaticais</h3>\n<p>Os pronomes de tratamento são formas de referência <b>cortês</b> ao interlocutor ou a uma terceira pessoa. Embora se refiram, na comunicação direta, à pessoa com quem se fala (2ª pessoa do discurso), eles levam o verbo e os pronomes à <b>3ª pessoa gramatical</b>. Essa é a regra mais cobrada.</p>\n<table class=\"tab\"><thead><tr><th>Pronome</th><th>Abreviatura usual</th><th>Emprego (exemplos)</th></tr></thead><tbody><tr><td><b>Vossa Excelência</b></td><td>V. Exa. (ou V. Ex.ª)</td><td>Poder Executivo: Presidente e Vice-Presidente da República, Ministros de Estado, Governadores e Vice-Governadores, Secretários de Estado, Prefeitos, Embaixadores, Oficiais-Generais das Forças Armadas; Poder Legislativo: Senadores, Deputados Federais e Estaduais, Ministros e Conselheiros dos Tribunais de Contas; Poder Judiciário: Ministros dos Tribunais Superiores, Desembargadores, Juízes</td></tr><tr><td><b>Vossa Senhoria</b></td><td>V. Sa. (ou V. S.ª)</td><td>demais autoridades (diretores, chefes, servidores em geral) e <b>particulares</b></td></tr><tr><td><b>Vossa Magnificência</b></td><td>V. Mag.ª</td><td><b>reitores</b> de universidade (vocativo: \"Magnífico Reitor,\")</td></tr><tr><td><b>Vossa Santidade</b></td><td>V. S.</td><td>o <b>Papa</b></td></tr><tr><td><b>Vossa Eminência</b></td><td>V. Em.ª</td><td><b>cardeais</b></td></tr><tr><td><b>Vossa Excelência Reverendíssima</b></td><td>V. Exa. Rev.ma</td><td>arcebispos e bispos</td></tr><tr><td><b>Vossa Majestade / Vossa Alteza</b></td><td>V. M. / V. A.</td><td>reis e imperadores / príncipes e duques</td></tr></tbody></table>\n<ul><li><b>Concordância verbal e pronominal</b>: \"Vossa Excelência <b>conhece</b> o <b>seu</b> dever\" (nunca \"conheceis o vosso\"). Os pronomes oblíquos e possessivos também vão para a 3ª pessoa: \"Informo a Vossa Senhoria que <b>lhe</b> será encaminhado o laudo\"; \"Vossa Excelência e <b>sua</b> equipe\".</li><li><b>Concordância nominal (de gênero)</b>: o pronome de tratamento é gramaticalmente feminino (\"Vossa Excelência\"), mas os <b>adjetivos</b> e particípios que se referem à pessoa concordam com o <b>sexo</b> dela (<b>silepse de gênero</b>): \"Vossa Excelência está <b>convidado</b>\" (homem); \"Vossa Senhoria ficou <b>satisfeita</b>\" (mulher).</li><li><b>Vossa x Sua</b>: \"<b>Vossa</b>\" quando se fala <b>com</b> a pessoa (\"Vossa Excelência aprovou o projeto?\"); \"<b>Sua</b>\" quando se fala <b>da</b> pessoa (\"Sua Excelência, o Governador, aprovou o projeto\").</li><li><b>Crase com pronomes de tratamento</b>: os pronomes de tratamento <b>não admitem artigo</b>, por isso <b>não há crase</b> antes deles: \"Encaminho <b>a</b> Vossa Excelência\", \"Solicito <b>a</b> Vossa Senhoria\". Exceções tradicionais: <b>senhora</b>, <b>senhorita</b> e <b>dona</b> admitem artigo (\"Entreguei o ofício <b>à</b> senhora Diretora\").</li><li><b>Feminino dos cargos</b>: no endereçamento e no vocativo, usa-se o feminino quando a autoridade for mulher: \"A Sua Excelência a Senhora\", \"Senhora Ministra,\", \"Senhora Delegada,\", \"Senhora Juíza,\".</li><li><b>Ilustríssimo, Digníssimo e Doutor</b>: a 3ª edição do Manual considera <b>dispensável</b> \"Ilustríssimo\" (para autoridades tratadas por Vossa Senhoria) e \"Digníssimo\" (a dignidade é pressuposto do cargo); \"<b>doutor</b>\" não é forma de tratamento, e sim <b>título acadêmico</b>, devendo ser evitado indiscriminadamente; usa-se \"Senhor\" ou \"Senhora\".</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Vossa Excelência decidistes bem\"</span><br>✅ <span class=\"certo\">Correto: \"Vossa Excelência <b>decidiu</b> bem\" (3ª pessoa)</span></li><li>❌ <span class=\"banca\">\"Encaminho à Vossa Excelência o relatório\"</span><br>✅ <span class=\"certo\"><b>Sem crase</b>: \"Encaminho <b>a</b> Vossa Excelência\" (pronome de tratamento não aceita artigo)</span></li><li>❌ <span class=\"banca\">\"Vossa Excelência, a Ministra, está satisfeito\"</span><br>✅ <span class=\"certo\">Para mulher: \"está <b>satisfeita</b>\" (silepse de gênero)</span></li><li>❌ <span class=\"banca\">\"Sua Excelência já leu o seu ofício?\" (falando diretamente com a autoridade)</span><br>✅ <span class=\"certo\">Falando <b>com</b> ela: \"<b>Vossa</b> Excelência já leu...\"</span></li></ol></div>\n<h3>15. Vocativos, endereçamento e o tratamento aos Chefes de Poder</h3>\n<table class=\"tab\"><thead><tr><th>Destinatário</th><th>Endereçamento (no envelope ou no cabeçalho)</th><th>Vocativo</th></tr></thead><tbody><tr><td>Presidente da República</td><td>A Sua Excelência o Senhor [Nome] / Presidente da República</td><td><b>Excelentíssimo Senhor Presidente da República,</b></td></tr><tr><td>Presidente do Congresso Nacional</td><td>A Sua Excelência o Senhor [Nome] / Presidente do Congresso Nacional</td><td><b>Excelentíssimo Senhor Presidente do Congresso Nacional,</b></td></tr><tr><td>Presidente do STF</td><td>A Sua Excelência o Senhor [Nome] / Presidente do Supremo Tribunal Federal</td><td><b>Excelentíssimo Senhor Presidente do Supremo Tribunal Federal,</b></td></tr><tr><td>Senador</td><td>A Sua Excelência o Senhor [Nome] / Senador Federal</td><td><b>Senhor Senador,</b></td></tr><tr><td>Ministro de Estado</td><td>A Sua Excelência o Senhor [Nome] / Ministro de Estado da Justiça</td><td><b>Senhor Ministro,</b></td></tr><tr><td>Governador</td><td>A Sua Excelência o Senhor [Nome] / Governador do Estado de Minas Gerais</td><td><b>Senhor Governador,</b></td></tr><tr><td>Juiz</td><td>A Sua Excelência o Senhor [Nome] / Juiz de Direito da Comarca de [cidade]</td><td><b>Senhor Juiz,</b></td></tr><tr><td>Diretor de órgão</td><td>Ao Senhor [Nome] / Diretor do [órgão]</td><td><b>Senhor Diretor,</b></td></tr><tr><td>Particular</td><td>Ao Senhor [Nome] / [endereço]</td><td><b>Senhor [Nome],</b></td></tr></tbody></table>\n<ul><li><b>Chefes de Poder</b> são o Presidente da República (Executivo), o Presidente do Congresso Nacional (Legislativo) e o Presidente do Supremo Tribunal Federal (Judiciário). Somente eles recebem o vocativo \"<b>Excelentíssimo Senhor</b>\" seguido do cargo.</li><li>Para as <b>demais autoridades</b>, inclusive as tratadas por Vossa Excelência, o vocativo é \"<b>Senhor</b>\" ou \"<b>Senhora</b>\" seguido do <b>cargo</b>: \"Senhor Senador,\", \"Senhora Desembargadora,\", \"Senhor Secretário,\".</li><li>O <b>endereçamento</b> varia conforme o pronome: \"<b>A Sua Excelência o Senhor</b>\" (autoridades tratadas por Vossa Excelência) e \"<b>Ao Senhor</b>\" (autoridades tratadas por Vossa Senhoria e particulares). Note que \"A Sua Excelência\" <b>não</b> leva crase, pela mesma regra dos pronomes de tratamento.</li></ul>\n<h3>16. Linguagem dos documentos: erros gramaticais mais frequentes</h3>\n<p>As bancas costumam montar questões de reescrita a partir de trechos de ofícios, relatórios e e-mails. Os desvios a seguir aparecem com frequência e convém dominá-los.</p>\n<table class=\"tab\"><thead><tr><th>Construção com desvio</th><th>Explicação</th><th>Forma adequada</th></tr></thead><tbody><tr><td>\"Segue anexo os documentos.\"</td><td>\"anexo\" é adjetivo e concorda com o substantivo; o verbo concorda com o sujeito posposto</td><td>\"Seguem <b>anexos</b> os documentos.\"</td></tr><tr><td>\"Segue em anexas as fotos.\"</td><td>\"em anexo\" é locução <b>invariável</b></td><td>\"Seguem, <b>em anexo</b>, as fotos.\"</td></tr><tr><td>\"Faziam dois anos que o inquérito tramitava.\"</td><td>\"fazer\" indicando tempo é <b>impessoal</b></td><td>\"<b>Fazia</b> dois anos...\"</td></tr><tr><td>\"Haviam muitas pendências no setor.\"</td><td>\"haver\" no sentido de existir é <b>impessoal</b></td><td>\"<b>Havia</b> muitas pendências...\"</td></tr><tr><td>\"Informo-lhe de que o prazo venceu.\"</td><td>\"informar\" admite \"informar algo a alguém\" ou \"informar alguém de algo\", não os dois objetos indiretos</td><td>\"Informo-<b>lhe que</b>...\" ou \"Informo-<b>o de que</b>...\"</td></tr><tr><td>\"Vamos estar enviando o laudo.\"</td><td><b>gerundismo</b>, inadequado ao registro formal</td><td>\"<b>Enviaremos</b> o laudo.\"</td></tr><tr><td>\"A reunião onde se decidiu...\"</td><td>\"onde\" indica <b>lugar</b> físico</td><td>\"A reunião <b>em que</b> se decidiu...\"</td></tr><tr><td>\"O mesmo foi conduzido à delegacia.\"</td><td>\"o mesmo\" como pronome pessoal é condenado pelo Manual</td><td>\"<b>Ele</b> foi conduzido...\" ou \"O <b>suspeito</b> foi conduzido...\"</td></tr><tr><td>\"Face ao exposto, decido...\"</td><td>a locução correta é \"em face de\"</td><td>\"<b>Em face do</b> exposto, decido...\"</td></tr><tr><td>\"Para mim analisar o pedido, preciso dos autos.\"</td><td>sujeito de infinitivo usa pronome reto</td><td>\"Para <b>eu</b> analisar...\"</td></tr><tr><td>\"Os documentos foram entregue.\"</td><td>particípio concorda com o sujeito</td><td>\"foram <b>entregues</b>\"</td></tr><tr><td>\"Assisti o depoimento.\"</td><td>\"assistir\" no sentido de ver é transitivo indireto</td><td>\"Assisti <b>ao</b> depoimento.\"</td></tr><tr><td>\"Visando o esclarecimento dos fatos...\"</td><td>\"visar\" (objetivar) é transitivo indireto na norma tradicional</td><td>\"Visando <b>ao</b> esclarecimento...\"</td></tr><tr><td>\"Prefiro mais o turno da manhã do que o da tarde.\"</td><td>\"preferir\" rejeita \"mais\" e \"do que\"</td><td>\"Prefiro o turno da manhã <b>ao</b> da tarde.\"</td></tr><tr><td>\"Ao meu ver, a prova é frágil.\"</td><td>a forma consagrada é sem artigo</td><td>\"<b>A meu ver</b>...\"</td></tr></tbody></table>\n<ul><li><b>Siglas</b>: na primeira vez em que aparecem, devem ser escritas por extenso, seguidas da sigla entre parênteses ou travessões: \"Instituto Médico-Legal (IML)\". Siglas com até <b>três letras</b> vão em <b>maiúsculas</b> (IML, STF); siglas com <b>quatro letras ou mais</b> pronunciadas <b>letra a letra</b> também vão em maiúsculas (INSS, PCMG); as de quatro letras ou mais pronunciadas <b>como palavra</b> costumam ter só a <b>inicial maiúscula</b> (Detran, Bacen). Na dúvida, segue-se a forma adotada pelo próprio órgão.</li><li><b>Números e horas</b>: em textos oficiais, as horas se escrevem \"22h15\" ou \"22h15min\" (sem ponto nem espaço: \"22 h\" é forma de padrão internacional, também aceita); datas \"1º de março de 2026\"; valores monetários \"R$ 1.500,00 (mil e quinhentos reais)\" quando a precisão jurídica exigir.</li><li><b>Maiúsculas</b>: nomes de órgãos e de cargos, quando designam a instituição ou a autoridade específica, costumam vir com inicial maiúscula (\"a Polícia Civil\", \"o Delegado-Geral\"); meses e dias da semana, com minúscula.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Seguem anexo as cópias\"</span><br>✅ <span class=\"certo\">Correto: \"Seguem <b>anexas</b> as cópias\" ou \"Seguem, <b>em anexo</b>, as cópias\"</span></li><li>❌ <span class=\"banca\">\"Haviam provas suficientes\"</span><br>✅ <span class=\"certo\">\"<b>Havia</b> provas suficientes\" (haver = existir, impessoal)</span></li><li>❌ <span class=\"banca\">\"A audiência onde o réu foi ouvido\"</span><br>✅ <span class=\"certo\">\"A audiência <b>em que</b> o réu foi ouvido\"</span></li><li>❌ <span class=\"banca\">\"O mesmo declarou que...\"</span><br>✅ <span class=\"certo\">Substitua por <b>ele</b> ou por um substantivo (\"O depoente declarou...\")</span></li></ol></div>\n<h3>17. Atos normativos e a Lei Complementar 95/1998</h3>\n<p>Embora o foco das provas de português seja o padrão ofício, algumas bancas cobram noções de <b>redação de atos normativos</b>, disciplinada pela <b>Lei Complementar nº 95/1998</b> (regulamentada, no âmbito federal, pelo Decreto nº 9.191/2017). O Manual dedica uma parte inteira a esse tema.</p>\n<ul><li><b>Estrutura da lei</b> (art. 3º da LC 95/1998): <b>parte preliminar</b> (epígrafe, ementa, preâmbulo, enunciado do objeto e indicação do âmbito de aplicação); <b>parte normativa</b> (o texto das normas de conteúdo substantivo); <b>parte final</b> (disposições de implementação, vigência e revogação).</li><li><b>Epígrafe</b>: identifica a espécie normativa, o número e a data, grafada em <b>maiúsculas</b> (\"LEI Nº 14.000, DE 1º DE MARÇO DE 2026\"). <b>Ementa</b>: resumo do conteúdo, alinhada à direita.</li><li><b>Um único objeto</b>: cada lei tratará de um <b>único objeto</b> e não conterá matéria estranha a ele (art. 7º).</li><li><b>Unidade básica</b>: o <b>artigo</b>, indicado por \"Art.\" seguido de numeração <b>ordinal</b> até o nono (Art. 1º a Art. 9º) e <b>cardinal</b> a partir do décimo (Art. 10, Art. 11). Os <b>parágrafos</b> seguem a mesma lógica (§ 1º ... § 9º, § 10), e o parágrafo único é escrito por extenso: \"<b>Parágrafo único.</b>\".</li><li><b>Desdobramentos do artigo</b>: <b>incisos</b> (algarismos <b>romanos</b>: I, II, III), <b>alíneas</b> (letras <b>minúsculas</b>: a, b, c) e <b>itens</b> (algarismos <b>arábicos</b>: 1, 2, 3).</li><li><b>Agrupamentos</b>: artigos se agrupam em <b>Seções</b> (e Subseções), <b>Capítulos</b>, <b>Títulos</b>, <b>Livros</b> e <b>Partes</b>.</li><li><b>Clareza e precisão nos atos normativos</b> (art. 11): frases curtas e concisas, <b>ordem direta</b>, <b>tempo verbal presente ou futuro simples</b>, evitar sinonímia com propósito estilístico (usar sempre o mesmo termo para a mesma ideia), explicitar o significado das siglas na primeira referência.</li><li><b>Vigência</b>: deve ser indicada de forma expressa, contemplando prazo razoável para que dela se tenha amplo conhecimento, reservada a cláusula \"<b>entra em vigor na data de sua publicação</b>\" para as leis de <b>pequena repercussão</b> (art. 8º). Na contagem do prazo de <i>vacatio legis</i>, <b>inclui-se</b> a data da publicação e o último dia do prazo, entrando a lei em vigor no <b>dia subsequente</b> à sua consumação integral (art. 8º, § 1º).</li><li><b>Cláusula de revogação</b>: deve <b>enumerar expressamente</b> as leis ou disposições revogadas (art. 9º); a fórmula genérica \"revogam-se as disposições em contrário\" é considerada inadequada.</li></ul>\n<table class=\"tab\"><thead><tr><th>Elemento</th><th>Grafia</th></tr></thead><tbody><tr><td>Artigos 1 a 9</td><td>Art. 1º, Art. 2º ... Art. 9º (ordinal)</td></tr><tr><td>Artigos a partir do 10</td><td>Art. 10, Art. 11 (cardinal)</td></tr><tr><td>Parágrafo único</td><td>\"Parágrafo único.\" por extenso</td></tr><tr><td>Parágrafos</td><td>§ 1º, § 2º ... § 10</td></tr><tr><td>Incisos</td><td>I, II, III (romanos)</td></tr><tr><td>Alíneas</td><td>a), b), c) (letras minúsculas)</td></tr><tr><td>Itens</td><td>1, 2, 3 (arábicos)</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Revogam-se as disposições em contrário\" é a cláusula recomendada</span><br>✅ <span class=\"certo\">A LC 95/1998 exige que a cláusula de revogação <b>enumere expressamente</b> o que é revogado</span></li><li>❌ <span class=\"banca\">Incisos são indicados por letras minúsculas</span><br>✅ <span class=\"certo\">Incisos: algarismos <b>romanos</b>; alíneas: letras <b>minúsculas</b>; itens: algarismos <b>arábicos</b></span></li><li>❌ <span class=\"banca\">O artigo 10 se escreve \"Art. 10º\"</span><br>✅ <span class=\"certo\">A partir do décimo, numeração <b>cardinal</b>: \"<b>Art. 10.</b>\"</span></li><li>❌ <span class=\"banca\">A lei entra em vigor no último dia do prazo de vacatio</span><br>✅ <span class=\"certo\">Entra em vigor no <b>dia subsequente</b> à consumação integral do prazo</span></li></ol></div>\n<h3>18. Correio eletrônico na prática</h3>\n<p>O correio eletrônico se tornou o meio mais comum de comunicação entre órgãos e com o cidadão. O Manual o reconhece como forma de comunicação oficial, mas exige que ele respeite os mesmos atributos da redação oficial. Algumas orientações práticas:</p>\n<ul><li><b>Campo \"Assunto\"</b>: deve ser preenchido de modo a permitir a <b>identificação</b> rápida do conteúdo, como \"Solicitação de laudo – IP nº 123/2026\". Um e-mail sem assunto ou com assunto genérico (\"Urgente\", \"Oi\") dificulta a organização e o arquivamento.</li><li><b>Vocativo e fecho</b>: o Manual admite vocativo e fecho mais <b>simples</b> que os do ofício, mas o tratamento deve ser respeitoso: \"Senhor Diretor,\" / \"Prezado Senhor,\" e \"Atenciosamente,\". Evitam-se \"Oi\", \"Abs\", \"Bjs\", emojis e caixa-alta (que equivale a \"gritar\").</li><li><b>Assinatura</b>: deve conter nome, cargo, unidade e meios de contato. Pode-se usar assinatura padronizada pelo órgão.</li><li><b>Anexos</b>: devem ser mencionados no corpo do e-mail (\"Segue, em anexo, cópia do boletim de ocorrência\") e ter nomes que identifiquem o conteúdo.</li><li><b>Valor documental</b>: para que a mensagem tenha valor como <b>documento</b> (prova), é necessária a <b>certificação digital</b> que ateste a identidade do remetente, nos termos da legislação (ICP-Brasil). Quando se exige formalização, o e-mail pode encaminhar um <b>ofício</b> em anexo, assinado eletronicamente.</li><li><b>Sigilo</b>: informações sigilosas de investigação <b>não</b> devem trafegar por e-mail comum sem os cuidados de segurança exigidos pelo órgão; a comunicação deve usar os sistemas institucionais.</li></ul>\n<h3>19. Outros modelos administrativos comentados (fictícios)</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ata (trecho)</b><p>Aos dez dias do mês de março de dois mil e vinte e seis, às catorze horas, na sala de reuniões da Delegacia Regional de Exemplópolis, reuniram-se os servidores Fulano de Tal, Delegado Regional, que presidiu os trabalhos, Beltrano de Tal e Sicrana de Tal, investigadores, para tratar da seguinte pauta: escala de plantão do mês de abril. Aberta a reunião, o Presidente expôs a necessidade de reforço no plantão de fim de semana. Após discussão, deliberou-se, por unanimidade, que... Nada mais havendo a tratar, o Presidente encerrou a reunião, e eu, Sicrana de Tal, secretária, lavrei a presente ata, que, lida e aprovada, vai assinada por mim e pelos presentes.</p><details><summary>Ver a solução comentada</summary><p><b>Comentários</b>: texto <b>corrido</b>, sem parágrafos nem espaços em branco (para evitar acréscimos posteriores); <b>data e horário por extenso</b>; indicação de <b>local</b>, <b>presentes</b>, quem <b>presidiu</b> e quem <b>secretariou</b>; <b>pauta</b>; <b>deliberações</b> registradas com fidelidade; fecho tradicional \"Nada mais havendo a tratar...\"; erros são corrigidos com \"<b>digo</b>\" ou por <b>ressalva</b> ao final (\"Em tempo: onde se lê..., leia-se...\"), nunca com rasura.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Certidão</b><p>CERTIDÃO — Certifico, para os devidos fins, que, consultados os registros desta Delegacia de Polícia, consta o Boletim de Ocorrência nº [número], lavrado em 5 de fevereiro de 2026, tendo como comunicante Fulano de Tal, referente a furto de veículo. O referido é verdade e dou fé. — Exemplópolis, 12 de março de 2026. — [Nome e cargo]</p><details><summary>Ver a solução comentada</summary><p><b>Comentários</b>: a certidão <b>reproduz</b> o que consta de <b>registros</b> oficiais; fórmula de abertura \"<b>Certifico</b>\"; fecho de <b>fé pública</b> (\"O referido é verdade e dou fé\"); quem certifica é servidor com atribuição para tanto. Compare com o <b>atestado</b> (\"Atesto que Fulano compareceu a esta unidade das 14h às 16h\"), que afirma fato <b>presenciado</b> ou de conhecimento do signatário, normalmente transitório.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Declaração</b><p>DECLARAÇÃO — Declaro, para os devidos fins, que Fulano de Tal, matrícula nº [número], é servidor desta Delegacia de Polícia, onde exerce o cargo de Escrivão de Polícia desde 1º de agosto de 2020. — Exemplópolis, 12 de março de 2026. — [Nome e cargo]</p><details><summary>Ver a solução comentada</summary><p><b>Comentários</b>: a declaração <b>afirma</b> a existência de um fato ou situação sob a <b>responsabilidade</b> de quem declara; fórmula \"<b>Declaro, para os devidos fins, que...</b>\"; local, data, nome e cargo.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Portaria de instauração de inquérito (estrutura)</b><p>PORTARIA — O Delegado de Polícia que esta subscreve, no uso de suas atribuições legais, tendo tomado conhecimento, por meio do Boletim de Ocorrência nº [número], de que no dia 1º de março de 2026, por volta das 23h, na Rua das Flores, nº 50, nesta cidade, a vítima Fulano de Tal teria sido atingida por disparos de arma de fogo, fato que, em tese, configura crime de ação penal pública incondicionada, RESOLVE instaurar Inquérito Policial, determinando: 1. Registre-se e autue-se; 2. Requisite-se exame de corpo de delito; 3. Ouça-se a vítima; 4. Proceda-se às demais diligências necessárias. Cumpra-se.</p><details><summary>Ver a solução comentada</summary><p><b>Comentários</b>: a portaria é o <b>ato</b> pelo qual a autoridade <b>determina</b> providências; aqui, inaugura o inquérito quando <b>não</b> há flagrante; contém a <b>notícia do fato</b> (data, hora, local, vítima, capitulação provisória \"em tese\") e a <b>parte dispositiva</b> com as diligências, em verbos no <b>imperativo/subjuntivo</b> (\"Registre-se\", \"Requisite-se\", \"Ouça-se\"); termina com \"Cumpra-se\".</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Despacho</b><p>Despacho: \"Junte-se aos autos o laudo pericial recebido. Após, conclusos.\" / \"Defiro o pedido de vista formulado pela defesa. Prazo de cinco dias.\"</p><details><summary>Ver a solução comentada</summary><p><b>Comentários</b>: o despacho é <b>curto</b> e <b>objetivo</b>; usa formas verbais impessoais com <b>se</b> (\"Junte-se\", \"Cumpra-se\", \"Arquive-se\") ou a 1ª pessoa (\"Defiro\", \"Indefiro\"); indica prazo quando houver.</p></details></div>\n<h3>20. Reescrita de trechos de documentos: passo a passo</h3>\n<p>Em provas, é comum a banca transcrever um trecho de documento oficial e perguntar se a reescrita proposta <b>mantém</b> a correção gramatical e o <b>sentido</b> original, ou se ela torna o texto mais <b>adequado</b> à redação oficial. Um método seguro:</p>\n<ul><li>1) <b>Identifique o sentido</b> do trecho original: o que se pede, informa ou determina? Quem é o destinatário?</li><li>2) <b>Verifique a correção</b> da reescrita: concordância, regência, crase, pontuação e colocação pronominal.</li><li>3) <b>Compare os sentidos</b>: a reescrita acrescentou ou retirou informação? Trocou um conectivo de <b>concessão</b> por um de <b>causa</b>? Transformou uma <b>possibilidade</b> (\"poderá\") em <b>obrigação</b> (\"deverá\")?</li><li>4) <b>Avalie a adequação</b> ao padrão: a reescrita é mais clara e concisa? Eliminou fórmulas vazias? Usou o tratamento correto?</li></ul>\n<table class=\"tab\"><thead><tr><th>Original</th><th>Reescrita proposta</th><th>Análise</th></tr></thead><tbody><tr><td>\"Venho, por meio deste, solicitar a Vossa Senhoria que encaminhe o laudo.\"</td><td>\"Solicito a Vossa Senhoria que encaminhe o laudo.\"</td><td><b>adequada</b>: mais concisa, sentido mantido</td></tr><tr><td>\"Encaminho a V. Sa. o relatório, conforme solicitado.\"</td><td>\"Encaminho à V. Sa. o relatório, conforme solicitado.\"</td><td><b>incorreta</b>: crase indevida antes de pronome de tratamento</td></tr><tr><td>\"Embora o prazo tenha vencido, o laudo será recebido.\"</td><td>\"Como o prazo venceu, o laudo será recebido.\"</td><td><b>altera o sentido</b>: concessão virou causa</td></tr><tr><td>\"O delegado poderá requisitar a perícia.\"</td><td>\"O delegado deverá requisitar a perícia.\"</td><td><b>altera o sentido</b>: faculdade virou obrigação</td></tr><tr><td>\"Vossa Excelência receberá, em anexo, a cópia.\"</td><td>\"Vossa Excelência recebereis, em anexo, a cópia.\"</td><td><b>incorreta</b>: concordância em 2ª pessoa</td></tr></tbody></table>\n<h3>21. Gêneros oficiais e coesão: conectivos típicos</h3>\n<p>Os documentos oficiais têm conectivos e expressões próprias, que dão coesão e indicam a função de cada parte.</p>\n<table class=\"tab\"><thead><tr><th>Função</th><th>Expressões adequadas</th></tr></thead><tbody><tr><td>Referir documento anterior</td><td>\"Em resposta ao Ofício nº...\", \"Em atenção ao Memorando...\", \"Conforme o disposto no...\"</td></tr><tr><td>Encaminhar</td><td>\"Encaminho...\", \"Remeto...\", \"Segue, em anexo,...\"</td></tr><tr><td>Justificar</td><td>\"em razão de\", \"tendo em vista\", \"considerando que\", \"uma vez que\"</td></tr><tr><td>Concluir</td><td>\"Diante do exposto,\", \"Em face do exposto,\", \"Pelo exposto,\"</td></tr><tr><td>Pedir providência</td><td>\"Solicito que...\", \"Requisito...\", \"Determino que...\"</td></tr><tr><td>Acrescentar</td><td>\"Além disso,\", \"Ademais,\", \"Ressalto ainda que...\"</td></tr><tr><td>Contrapor</td><td>\"Contudo,\", \"Entretanto,\", \"Não obstante,\"</td></tr></tbody></table>\n<ul><li><b>Requisitar x solicitar</b>: no meio policial e judicial, \"<b>requisitar</b>\" indica pedido com força de <b>ordem</b>, dirigido a quem tem o dever legal de atender (a autoridade policial <b>requisita</b> perícias e informações, conforme a lei); \"<b>solicitar</b>\" é um pedido sem força cogente, usado entre órgãos sem vínculo de subordinação ou quando não há previsão legal de requisição.</li><li><b>\"Tendo em vista\" e \"haja vista\"</b>: ambas indicam causa/motivo; \"haja vista\" é invariável na norma mais aceita (\"haja vista os fatos\").</li><li><b>\"A partir de\"</b>: deve ser usada com sentido <b>temporal</b> (\"a partir de 1º de abril\"); evita-se o uso com o sentido de \"com base em\" em textos formais, preferindo-se \"com base em\".</li></ul>\n<h3>22. Redação oficial no âmbito policial</h3>\n<p>Na rotina de uma delegacia, praticamente todo ato gera um documento escrito, e as provas de carreiras policiais gostam de contextualizar as questões nesse ambiente. Alguns pontos de atenção:</p>\n<ul><li><b>Boletim de ocorrência</b>: registro da notícia de um fato; deve ser <b>objetivo</b>, com data, hora, local, envolvidos e narrativa <b>cronológica</b>, atribuindo as versões a quem as declarou (\"segundo o comunicante...\").</li><li><b>Termos de depoimento e de declarações</b>: registram o que foi dito, em linguagem que respeite as palavras do declarante, sem interpretações do redator; usam o discurso <b>indireto</b> (\"Disse que estava em casa...\").</li><li><b>Relatório de investigação</b>: segue a estrutura objetivo–diligências–resultados–conclusão; separa <b>fatos</b> de <b>hipóteses</b>; indica fontes; não emite juízo de culpa.</li><li><b>Relatório final do inquérito</b>: elaborado pelo Delegado de Polícia ao concluir a investigação, descreve minuciosamente o que foi apurado; deve ser <b>técnico</b>, <b>impessoal</b> e <b>fundamentado</b> nas provas colhidas.</li><li><b>Ofícios de requisição</b>: dirigidos a órgãos periciais, operadoras, bancos (com autorização judicial quando exigida) e outros órgãos; devem conter a <b>identificação do procedimento</b>, o <b>objeto</b> preciso da requisição e o <b>prazo</b>.</li><li><b>Sigilo e linguagem</b>: documentos que integram investigações sigilosas devem ser marcados como tais e tramitar pelos canais adequados; a linguagem deve evitar exposição desnecessária de vítimas e investigados.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Questão-modelo de banca | \"Em um ofício dirigido ao Juiz de Direito, o delegado escreveu: 'Informo à Vossa Excelência que o investigado foi preso, e que vosso mandado foi cumprido.' Corrija.\" Resposta: \"Informo <b>a</b> Vossa Excelência que o investigado foi preso e que <b>seu</b> mandado foi cumprido.\" Correções: sem crase antes de pronome de tratamento; possessivo na 3ª pessoa (<b>seu</b>); a vírgula antes do \"e\" foi retirada por não haver motivo para separar as duas orações completivas.</div>\n<h3>23. Breve histórico do Manual de Redação</h3>\n<ul><li>A <b>1ª edição</b> do Manual de Redação da Presidência da República foi publicada em <b>1991</b>, com o objetivo de uniformizar e simplificar as comunicações do Poder Executivo federal, que até então seguiam práticas variadas e muitas vezes rebuscadas.</li><li>A <b>2ª edição</b>, de <b>2002</b>, atualizou o texto, incorporou a comunicação por <b>correio eletrônico</b> e consolidou a distinção entre os expedientes do <b>padrão ofício</b> (ofício, aviso e memorando), que tinham a mesma diagramação, mas finalidades diferentes.</li><li>A <b>3ª edição</b>, de <b>2018</b>, é a referência atual das provas. Suas principais mudanças: <b>unificação</b> dos expedientes do padrão ofício sob o nome \"<b>ofício</b>\" (fim do aviso e do memorando como espécies próprias); <b>dispensa</b> de \"Ilustríssimo\" e \"Digníssimo\"; nova <b>diagramação</b> (fonte Calibri ou Carlito); revisão das orientações sobre correio eletrônico; adaptação às regras do <b>Acordo Ortográfico</b>; ampliação da parte sobre <b>atos normativos</b>.</li><li>O Manual é obrigatório para o Poder Executivo <b>federal</b>, mas é amplamente adotado como <b>referência</b> por estados, municípios e bancas de concursos, inclusive para cargos estaduais. Muitos órgãos estaduais têm manuais próprios, que costumam seguir as mesmas linhas gerais.</li></ul>\n<h3>24. Fechos: detalhes e exceções</h3>\n<ul><li>O Manual estabelece <b>apenas dois fechos</b> para as comunicações oficiais: \"<b>Respeitosamente,</b>\" para autoridades de <b>hierarquia superior</b> à do remetente, inclusive o Presidente da República, e \"<b>Atenciosamente,</b>\" para autoridades de <b>mesma hierarquia</b>, de hierarquia <b>inferior</b> e para <b>particulares</b>.</li><li><b>Exceção</b>: as comunicações dirigidas a <b>autoridades estrangeiras</b> seguem rito e tradição próprios (praxe diplomática), não se sujeitando necessariamente a essa fórmula.</li><li>O fecho vem seguido de <b>vírgula</b> e não recebe numeração. Não se devem acumular fechos (\"Atenciosamente, Respeitosamente,\") nem usar fórmulas antigas (\"Sem mais para o momento\", \"Aproveito o ensejo para renovar protestos de elevada estima e consideração\").</li><li>Na dúvida sobre a hierarquia (por exemplo, entre autoridades de Poderes diferentes), a praxe de muitos órgãos é usar \"<b>Respeitosamente,</b>\" como forma de cortesia; as bancas, porém, cobram a regra geral: <b>superior</b> = Respeitosamente; <b>mesma ou inferior</b> e <b>particulares</b> = Atenciosamente.</li></ul>\n<h3>25. Pontuação e detalhes gráficos do ofício</h3>\n<table class=\"tab\"><thead><tr><th>Elemento</th><th>Pontuação e grafia</th></tr></thead><tbody><tr><td>Local e data</td><td>vírgula após o local; <b>ponto final</b> após o ano: \"Belo Horizonte, 5 de março de 2026.\"</td></tr><tr><td>Dia 1º</td><td>com <b>ordinal</b>: \"1º de abril\"; demais dias em cardinal, sem zero à esquerda</td></tr><tr><td>Assunto</td><td>\"Assunto:\" seguido do resumo, em <b>negrito</b>, com <b>ponto final</b></td></tr><tr><td>Vocativo</td><td>seguido de <b>vírgula</b>: \"Senhor Diretor,\"</td></tr><tr><td>Parágrafos</td><td>numerados com algarismo arábico seguido de ponto (salvo texto em itens ou títulos)</td></tr><tr><td>Fecho</td><td>seguido de <b>vírgula</b>: \"Atenciosamente,\"</td></tr><tr><td>Assinatura</td><td>nome do signatário e, abaixo, o cargo, sem traço para assinatura</td></tr><tr><td>Identificação</td><td>nome do expediente em <b>maiúsculas</b> e \"Nº\": \"OFÍCIO Nº 45/2026/DP/PCMG\"</td></tr></tbody></table>\n<ul><li><b>Pessoa gramatical</b>: no ofício, o remetente fala na <b>1ª pessoa do singular</b> (\"Solicito\", \"Informo\") ou, conforme a praxe do órgão, na 1ª do plural; o importante é <b>não misturar</b> as duas no mesmo documento (\"Solicito... e aguardamos...\").</li><li><b>Documentos com mais de uma página</b>: as páginas são numeradas a partir da <b>segunda</b>; o cabeçalho com o brasão aparece apenas na <b>primeira</b>.</li><li><b>Anexos</b>: quando houver, são mencionados no texto (\"Encaminho, anexa, cópia do laudo\") e podem ser listados ao final.</li></ul>\n<h3>26. Vocabulário de documentos: parônimos e expressões que mais caem</h3>\n<p>Em textos oficiais, uma troca de palavra parecida pode mudar completamente o sentido de um ato. As bancas cobram com frequência os <b>parônimos</b> (palavras parecidas na forma e diferentes no sentido) e os <b>homônimos</b> mais usados no meio jurídico-policial.</p>\n<table class=\"tab\"><thead><tr><th>Par</th><th>Sentidos</th></tr></thead><tbody><tr><td><b>mandado</b> x <b>mandato</b></td><td>ordem judicial escrita (mandado de prisão, de busca) x delegação de poderes, período de exercício (mandato parlamentar)</td></tr><tr><td><b>ratificar</b> x <b>retificar</b></td><td>confirmar x corrigir</td></tr><tr><td><b>deferir</b> x <b>diferir</b></td><td>conceder, atender x adiar ou divergir</td></tr><tr><td><b>flagrante</b> x <b>fragrante</b></td><td>evidente, no ato (prisão em flagrante) x perfumado</td></tr><tr><td><b>eminente</b> x <b>iminente</b></td><td>ilustre, elevado x prestes a acontecer (perigo iminente)</td></tr><tr><td><b>infligir</b> x <b>infringir</b></td><td>aplicar pena ou castigo x violar, transgredir (infringir a lei)</td></tr><tr><td><b>descrição</b> x <b>discrição</b></td><td>ato de descrever x qualidade de discreto, reserva</td></tr><tr><td><b>sessão</b> x <b>seção</b> (secção) x <b>cessão</b></td><td>reunião, tempo de duração x divisão, departamento x ato de ceder</td></tr><tr><td><b>tráfego</b> x <b>tráfico</b></td><td>trânsito, fluxo x comércio ilícito</td></tr><tr><td><b>emitir</b> x <b>imitir</b></td><td>expedir, lançar x fazer entrar (imissão na posse)</td></tr><tr><td><b>delatar</b> x <b>dilatar</b></td><td>denunciar x alargar, prorrogar (dilatar o prazo)</td></tr><tr><td><b>despensa</b> x <b>dispensa</b></td><td>local de guardar mantimentos x ato de dispensar</td></tr><tr><td><b>cumprimento</b> x <b>comprimento</b></td><td>ato de cumprir, saudação x extensão</td></tr><tr><td><b>prescrever</b> x <b>proscrever</b></td><td>receitar, determinar; perder o direito pelo decurso do tempo x proibir, banir</td></tr><tr><td><b>acender</b> x <b>ascender</b></td><td>pôr fogo, ligar x subir</td></tr><tr><td><b>censo</b> x <b>senso</b></td><td>recenseamento x juízo, discernimento</td></tr><tr><td><b>vultoso</b> x <b>vultuoso</b></td><td>volumoso, de grande valor (quantia vultosa) x inchado, congestionado (rosto vultuoso)</td></tr></tbody></table>\n<ul><li><b>Expressões latinas</b> comuns em documentos: <i>in loco</i> (no próprio local: \"exame <i>in loco</i>\"); <i>ad hoc</i> (para o caso, designado para um fim específico: \"perito <i>ad hoc</i>\"); <i>ex officio</i> (por dever do cargo, sem provocação: equivalente a \"de ofício\"); <i>data venia</i> (com a devida licença, para discordar respeitosamente); <i>sine die</i> (sem data marcada); <i>a priori</i> e <i>a posteriori</i> (antes e depois da experiência); <i>in dubio pro reo</i> (na dúvida, a favor do réu). Em textos oficiais, as expressões latinas devem ser usadas com moderação e grafadas de forma destacada (itálico), sem hífen nem acento.</li><li><b>\"De ofício\"</b>: significa \"por iniciativa própria da autoridade, em razão do cargo\", e <b>não</b> tem relação com o expediente chamado ofício. Ex.: \"A autoridade policial instaurou o inquérito <b>de ofício</b>.\"</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"O juiz expediu mandato de prisão\"</span><br>✅ <span class=\"certo\">É <b>mandado</b> de prisão (ordem judicial); mandato é delegação de poderes</span></li><li>❌ <span class=\"banca\">\"O perigo era eminente\"</span><br>✅ <span class=\"certo\">Perigo <b>iminente</b> (prestes a acontecer); eminente = ilustre</span></li><li>❌ <span class=\"banca\">\"O condenado infringiu a pena ao réu\"</span><br>✅ <span class=\"certo\">Quem aplica pena <b>inflige</b>; quem viola a lei <b>infringe</b></span></li><li>❌ <span class=\"banca\">\"Ratificar o erro do relatório\"</span><br>✅ <span class=\"certo\">Para corrigir, <b>retificar</b>; ratificar é confirmar</span></li></ol></div>\n<h3>27. Lista de verificação antes de assinar um documento</h3>\n<table class=\"tab\"><thead><tr><th>Pergunta</th><th>O que verificar</th></tr></thead><tbody><tr><td>O documento certo foi escolhido?</td><td>ofício (comunicação), requerimento (pedido do particular), relatório (relato e conclusão), despacho (decisão em processo), portaria (determinação)</td></tr><tr><td>A identificação está completa?</td><td>nome do expediente, número, ano, siglas</td></tr><tr><td>Local e data estão corretos?</td><td>à direita, mês minúsculo, ponto final, 1º com ordinal</td></tr><tr><td>O destinatário está bem endereçado?</td><td>\"A Sua Excelência o Senhor\" ou \"Ao Senhor\"; nome, cargo, endereço</td></tr><tr><td>O assunto resume o teor?</td><td>poucas palavras, negrito, ponto final</td></tr><tr><td>O vocativo está correto?</td><td>\"Excelentíssimo Senhor\" só para Chefes de Poder; demais, \"Senhor\" + cargo</td></tr><tr><td>O tratamento concorda?</td><td>verbo e possessivos na 3ª pessoa; sem crase antes do pronome</td></tr><tr><td>O texto é claro e conciso?</td><td>sem \"venho por meio deste\", sem redundâncias, um assunto por parágrafo</td></tr><tr><td>Há impessoalidade?</td><td>sem adjetivos de valor, sem desabafo, sem opinião pessoal</td></tr><tr><td>O fecho está adequado?</td><td>Respeitosamente (superior) ou Atenciosamente (demais)</td></tr><tr><td>A assinatura identifica o signatário?</td><td>nome e cargo</td></tr><tr><td>Há anexos mencionados?</td><td>\"Segue, em anexo,\" / \"Seguem anexos\"</td></tr></tbody></table>\n<h3>28. Erros de concordância e regência em ofícios: exercícios comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Corrija o trecho 1</b><p>\"Solicito à Vossa Senhoria que providencie as cópias, as quais seguirá anexo ao presente.\"</p><details><summary>Ver a solução comentada</summary><p>Correto: \"Solicito <b>a</b> Vossa Senhoria que providencie as cópias, as quais <b>seguirão anexas</b> a este ofício.\" Correções: <b>sem crase</b> antes de pronome de tratamento; verbo <b>seguir</b> concordando com \"as quais\" (plural); <b>anexas</b> concordando com \"cópias\"; \"ao presente\" é expressão vaga e pode ser substituída por \"a este ofício\".</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Corrija o trecho 2</b><p>\"Informamos-lhe de que, face aos fatos, haverão novas diligências, cujas as datas serão comunicadas.\"</p><details><summary>Ver a solução comentada</summary><p>Correto: \"Informamos-<b>lhe que</b>, <b>em face dos</b> fatos, <b>haverá</b> novas diligências, <b>cujas</b> datas serão comunicadas.\" Correções: \"informar\" com dois objetos indiretos é inadequado (use \"informar-lhe que\" ou \"informá-lo de que\"); \"face a\" → \"em face de\"; \"haver\" = existir é <b>impessoal</b>; \"cujo\" <b>não</b> admite artigo depois de si.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Corrija o trecho 3</b><p>\"Vossa Excelência, ao analisar o pedido, verificareis que o mesmo está instruído com os documentos, onde constam as assinaturas.\"</p><details><summary>Ver a solução comentada</summary><p>Correto: \"Vossa Excelência, ao analisar o pedido, <b>verificará</b> que <b>ele</b> está instruído com os documentos, <b>nos quais</b> constam as assinaturas.\" Correções: concordância na <b>3ª pessoa</b>; substituição de \"o mesmo\" por pronome pessoal; \"onde\" substituído por \"nos quais\", pois não se trata de lugar físico.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Corrija o trecho 4</b><p>\"Venho por meio deste informar que o servidor, que é excelente profissional e pessoa de bom coração, faltou ao serviço nos dias 3, 4 e 5.\"</p><details><summary>Ver a solução comentada</summary><p>Correto: \"Informo que o servidor [nome, matrícula] faltou ao serviço nos dias 3, 4 e 5 de março de 2026.\" Correções: eliminação da <b>fórmula vazia</b>; eliminação de <b>juízos pessoais</b> (impessoalidade); acréscimo de dados <b>precisos</b> (identificação do servidor, mês e ano).</p></details></div>\n<h3>29. Mais modelos comentados (fictícios)</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ofício de resposta e encaminhamento</b><p>OFÍCIO Nº 52/2026/DP-EXEMPLÓPOLIS/PCMG — Exemplópolis, 15 de março de 2026. — A Sua Excelência a Senhora / [Nome] / Juíza de Direito da Vara Criminal da Comarca de Exemplópolis — Assunto: Resposta ao Ofício nº 30/2026 – encaminhamento de laudo. — Senhora Juíza, — 1. Em resposta ao Ofício nº 30/2026, de 10 de março de 2026, encaminho a Vossa Excelência cópia do laudo de exame de corpo de delito referente ao Inquérito Policial nº 123/2026. — 2. Informo, ainda, que as demais diligências requisitadas estão em andamento e que o relatório complementar será remetido até 30 de março de 2026. — Respeitosamente, — [Nome] — Delegado de Polícia</p><details><summary>Ver a solução comentada</summary><p><b>Comentários</b>: <b>endereçamento</b> no feminino (\"A Sua Excelência a Senhora\"), <b>sem crase</b>; <b>vocativo</b> \"Senhora Juíza,\"; o 1º parágrafo <b>refere</b> o documento a que se responde (número e data) e diz o que se encaminha; o 2º informa a <b>situação</b> das demais providências e fixa <b>prazo</b>; o tratamento \"Vossa Excelência\" está sem crase depois de \"encaminho a\"; fecho \"<b>Respeitosamente,</b>\", forma de cortesia usual a autoridade judicial; nenhuma fórmula vazia.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ofício circular</b><p>OFÍCIO CIRCULAR Nº 3/2026/DR-EXEMPLÓPOLIS/PCMG — Exemplópolis, 2 de abril de 2026. — Aos Senhores Delegados de Polícia das unidades da Regional de Exemplópolis — Assunto: Novo horário do plantão regional. — Senhores Delegados, — 1. Informo que, a partir de 15 de abril de 2026, o plantão regional funcionará das 19h às 7h, de segunda a sexta-feira, e em período integral nos fins de semana e feriados. — 2. Solicito que Vossas Senhorias deem ciência desta comunicação aos servidores lotados nas respectivas unidades. — Atenciosamente, — [Nome] — Delegado Regional</p><details><summary>Ver a solução comentada</summary><p><b>Comentários</b>: mesma estrutura do ofício, com <b>vários destinatários</b>; vocativo e tratamento no <b>plural</b> (\"Senhores Delegados,\", \"Vossas Senhorias deem\"); \"a partir de\" usado com sentido <b>temporal</b>, como recomendado; horas em \"19h\"; fecho \"Atenciosamente,\" (destinatários subordinados).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Correio eletrônico</b><p>Assunto: Solicitação de imagens de câmera – IP nº 123/2026 — Prezado Senhor, — Solicito, para instruir o Inquérito Policial nº 123/2026, cópia das imagens das câmeras de segurança do estabelecimento localizado na Rua das Flores, nº 60, captadas em 1º de março de 2026, entre 22h e 24h. — As imagens poderão ser entregues pessoalmente nesta Delegacia ou enviadas por mídia lacrada, até 20 de março de 2026. — Atenciosamente, — [Nome] — Investigador de Polícia — Delegacia de Polícia de Exemplópolis — Telefone: [número]</p><details><summary>Ver a solução comentada</summary><p><b>Comentários</b>: <b>assunto</b> que identifica o pedido e o procedimento; vocativo <b>simples</b>, mas cortês; pedido <b>preciso</b> (local, data, intervalo de horário); <b>prazo</b> e forma de entrega; assinatura com <b>nome, cargo, unidade e contato</b>; nenhum emoji ou abreviação informal. Por envolver investigação, o envio do material deve respeitar a <b>cadeia de custódia</b>.</p></details></div>\n<h3>30. Como diferenciar os documentos em uma questão</h3>\n<p>Muitas questões descrevem uma situação e perguntam qual é o documento adequado. O raciocínio passa por três perguntas: <b>quem</b> escreve, <b>para quem</b> e <b>com que finalidade</b>.</p>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Documento adequado</th></tr></thead><tbody><tr><td>Um cidadão pede à autoridade a expedição de uma certidão</td><td><b>requerimento</b></td></tr><tr><td>O delegado comunica-se com o diretor do IML para pedir urgência em um exame</td><td><b>ofício</b></td></tr><tr><td>O delegado comunica a mesma orientação a todas as unidades da regional</td><td><b>ofício circular</b></td></tr><tr><td>Um ministro submete ao Presidente da República um projeto de decreto</td><td><b>exposição de motivos</b></td></tr><tr><td>O Presidente da República encaminha um projeto de lei ao Congresso</td><td><b>mensagem</b></td></tr><tr><td>Uma equipe relata as diligências feitas e sugere novas providências</td><td><b>relatório</b></td></tr><tr><td>Um técnico emite opinião fundamentada para subsidiar uma decisão</td><td><b>parecer</b></td></tr><tr><td>Registro do que ocorreu em uma reunião</td><td><b>ata</b></td></tr><tr><td>Servidor afirma que alguém compareceu à unidade em certo horário</td><td><b>atestado</b> (ou declaração de comparecimento)</td></tr><tr><td>Servidor reproduz, com fé pública, o que consta de um registro</td><td><b>certidão</b></td></tr><tr><td>Autoridade inicia formalmente a investigação de um fato sem flagrante</td><td><b>portaria</b></td></tr><tr><td>Autoridade decide sobre um pedido no curso de um procedimento</td><td><b>despacho</b></td></tr></tbody></table>\n<h3>31. Como as bancas cobram este tópico</h3>\n<ul><li><b>Atributos</b> da redação oficial (clareza, concisão, impessoalidade, formalidade, padronização, norma-padrão) e seus <b>conceitos</b>.</li><li><b>Pronomes de tratamento</b>: qual usar para cada autoridade, <b>concordância</b> em 3ª pessoa, <b>Vossa x Sua</b>, adjetivo concordando com o sexo da pessoa.</li><li><b>Vocativos</b>: \"Excelentíssimo Senhor\" só para Chefes de Poder; demais, \"Senhor\" + cargo; <b>dispensa</b> de Ilustríssimo e Digníssimo; \"doutor\" não é tratamento.</li><li><b>Fechos</b>: Respeitosamente (superior) x Atenciosamente (mesma hierarquia ou inferior).</li><li><b>Padrão ofício</b>: partes, data, assunto, numeração de parágrafos; <b>fim</b> da distinção entre ofício, aviso e memorando na 3ª edição.</li><li><b>Correio eletrônico</b>, <b>exposição de motivos</b> e <b>mensagem</b>: conceitos e destinatários.</li><li><b>Reescrita</b> de trechos de documentos para torná-los claros, concisos e corretos.</li></ul>\n<h3>32. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Manual de referência</span></span><span class=\"vs\"><span>Manual de Redação da Presidência da República, 3ª edição (2018)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atributos</span></span><span class=\"vs\"><span>clareza, precisão, objetividade, concisão, coesão, coerência, impessoalidade, formalidade, padronização, norma-padrão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Concisão</span></span><span class=\"vs\"><span>máximo de informação com mínimo de palavras</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vossa Excelência</span></span><span class=\"vs\"><span>altas autoridades dos três Poderes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vossa Senhoria</span></span><span class=\"vs\"><span>demais autoridades e particulares</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vossa Magnificência</span></span><span class=\"vs\"><span>reitores</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Concordância com Vossa Excelência</span></span><span class=\"vs\"><span>verbo e pronomes na 3ª pessoa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vossa x Sua</span></span><span class=\"vs\"><span>falar com x falar sobre</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Excelentíssimo Senhor</span></span><span class=\"vs\"><span>só Chefes de Poder</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ilustríssimo e Digníssimo</span></span><span class=\"vs\"><span>dispensados na 3ª edição</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Doutor</span></span><span class=\"vs\"><span>não é forma de tratamento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Respeitosamente</span></span><span class=\"vs\"><span>para hierarquia superior</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atenciosamente</span></span><span class=\"vs\"><span>mesma hierarquia ou inferior</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aviso e memorando</span></span><span class=\"vs\"><span>substituídos pelo ofício na 3ª edição</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exposição de motivos</span></span><span class=\"vs\"><span>de Ministro ao Presidente da República</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mensagem</span></span><span class=\"vs\"><span>entre Chefes de Poder (Presidente ao Congresso)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>E-mail com valor documental</span></span><span class=\"vs\"><span>exige certificação digital</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Requerimento</span></span><span class=\"vs\"><span>fecho \"Nestes termos, pede deferimento\"</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Certidão</span></span><span class=\"vs\"><span>transcreve registro com fé pública</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atestado</span></span><span class=\"vs\"><span>afirma fato transitório</span></span></button></div></div>\n<h3>33. Resumo em uma página</h3>\n<ul><li><b>Referência</b>: Manual de Redação da Presidência da República, <b>3ª edição (2018)</b>.</li><li><b>Atributos</b>: clareza, precisão, objetividade, concisão, coesão, coerência, impessoalidade, formalidade, padronização e norma-padrão. A <b>clareza</b> é o atributo-síntese; <b>concisão</b> não é omissão; <b>formalidade</b> não é rebuscamento.</li><li><b>Pronomes de tratamento</b>: verbo e possessivos na <b>3ª pessoa</b>; adjetivo concorda com o <b>sexo</b> da pessoa; <b>Vossa</b> (falar com) x <b>Sua</b> (falar de); <b>sem crase</b> antes deles.</li><li><b>Vossa Excelência</b>: altas autoridades dos três Poderes; <b>Vossa Senhoria</b>: demais autoridades e particulares; <b>Vossa Magnificência</b>: reitores.</li><li><b>Vocativo</b>: \"<b>Excelentíssimo Senhor</b>\" + cargo apenas para os <b>Chefes de Poder</b>; demais: \"<b>Senhor</b>\" + cargo. <b>Ilustríssimo</b> e <b>Digníssimo</b> dispensados; <b>doutor</b> não é tratamento.</li><li><b>Endereçamento</b>: \"<b>A Sua Excelência o Senhor</b>\" ou \"<b>Ao Senhor</b>\".</li><li><b>Padrão ofício</b>: só o <b>ofício</b> (aviso e memorando unificados); partes: cabeçalho, identificação, local e data, endereçamento, assunto, vocativo, texto, fecho, assinatura; parágrafos <b>numerados</b> (salvo itens ou títulos), sem numerar vocativo e fecho; Calibri ou Carlito 12.</li><li><b>Fechos</b>: <b>Respeitosamente</b> (superior) e <b>Atenciosamente</b> (mesma hierarquia, inferior, particulares).</li><li><b>Outros</b>: exposição de motivos (Ministro → Presidente), mensagem (entre Chefes de Poder), e-mail (válido; <b>certificação digital</b> para valor documental).</li><li><b>Gêneros</b>: requerimento (\"Nestes termos, pede deferimento\", 3ª pessoa), relatório, parecer, ata (corrida, sem rasuras), atestado (fato transitório), certidão (registros, fé pública), declaração, despacho, portaria, circular.</li><li><b>LC 95/1998</b>: um objeto por lei; artigos ordinais até o 9º; incisos romanos, alíneas minúsculas, itens arábicos; revogação <b>expressa</b>; vigência no dia seguinte à consumação do prazo.</li></ul>",
+"quiz": [
+{
+"p": "O Manual de Redação da Presidência da República, em sua 3ª edição, é a principal referência para as questões de redação oficial.",
+"c": true,
+"prof": "Redação oficial.",
+"x": "Publicado em 2018.",
+"e": "3ª edição."
+},
+{
+"p": "A redação oficial deve primar pela clareza, precisão, objetividade, concisão, coesão, coerência, impessoalidade, formalidade, padronização e uso da norma-padrão.",
+"c": true,
+"prof": "Atributos.",
+"x": "Decorrem dos princípios da administração.",
+"e": "Atributos."
+},
+{
+"p": "Concisão consiste em transmitir o máximo de informação com o mínimo de palavras, sem prejuízo da clareza.",
+"c": true,
+"prof": "Concisão.",
+"x": "Não é omitir informação.",
+"e": "Concisão."
+},
+{
+"p": "Concisão significa reduzir o texto ao menor tamanho possível, ainda que se percam informações necessárias.",
+"c": false,
+"prof": "Concisão.",
+"x": "Elimina-se o supérfluo, não o necessário.",
+"e": "Concisão ≠ omissão."
+},
+{
+"p": "A impessoalidade da redação oficial decorre de que quem comunica é o serviço público, o destinatário é o público ou outro órgão e o assunto é de interesse público.",
+"c": true,
+"prof": "Impessoalidade.",
+"x": "Três sentidos.",
+"e": "Impessoalidade."
+},
+{
+"p": "Expressões como \"venho por meio deste\" e \"sem mais para o momento\" são fórmulas desnecessárias, que devem ser evitadas.",
+"c": true,
+"prof": "Vícios.",
+"x": "Vá direto ao assunto.",
+"e": "Fórmulas vazias."
+},
+{
+"p": "Os pronomes de tratamento exigem verbo e pronomes possessivos na 3ª pessoa.",
+"c": true,
+"prof": "Pronomes de tratamento.",
+"x": "\"Vossa Excelência está ciente de seu...\"",
+"e": "3ª pessoa."
+},
+{
+"p": "\"Vossa Excelência sabeis que vosso pedido foi atendido\" está de acordo com a norma.",
+"c": false,
+"prof": "Pronomes de tratamento.",
+"x": "O correto é \"sabe\" e \"seu\".",
+"e": "Sabe, seu."
+},
+{
+"p": "O adjetivo referido a pronome de tratamento concorda com o sexo da pessoa, como em \"Vossa Excelência está cansado\", para homem.",
+"c": true,
+"prof": "Pronomes de tratamento.",
+"x": "Silepse de gênero.",
+"e": "Adjetivo e sexo."
+},
+{
+"p": "Usa-se \"Vossa Excelência\" ao dirigir-se à autoridade e \"Sua Excelência\" ao referir-se a ela.",
+"c": true,
+"prof": "Pronomes de tratamento.",
+"x": "Falar com x falar sobre.",
+"e": "Vossa x Sua."
+},
+{
+"p": "Os reitores de universidade recebem o tratamento de Vossa Magnificência.",
+"c": true,
+"prof": "Pronomes de tratamento.",
+"x": "Vocativo: \"Magnífico Reitor\".",
+"e": "Reitor."
+},
+{
+"p": "Vossa Senhoria é empregado para as demais autoridades e para particulares.",
+"c": true,
+"prof": "Pronomes de tratamento.",
+"x": "Altas autoridades: Vossa Excelência.",
+"e": "Vossa Senhoria."
+},
+{
+"p": "Juízes e Ministros de Estado recebem o tratamento de Vossa Excelência.",
+"c": true,
+"prof": "Pronomes de tratamento.",
+"x": "Altas autoridades.",
+"e": "Juiz: V. Exa."
+},
+{
+"p": "O vocativo \"Excelentíssimo Senhor\" é reservado aos Chefes de Poder; para as demais autoridades, usa-se \"Senhor\" seguido do cargo.",
+"c": true,
+"prof": "Vocativos.",
+"x": "Ex.: \"Senhor Senador,\".",
+"e": "Excelentíssimo: chefes de Poder."
+},
+{
+"p": "Segundo o Manual, todas as autoridades tratadas por Vossa Excelência recebem o vocativo \"Excelentíssimo Senhor\".",
+"c": false,
+"prof": "Vocativos.",
+"x": "Só os Chefes de Poder.",
+"e": "Vocativo restrito."
+},
+{
+"p": "A 3ª edição do Manual dispensou o emprego de \"Ilustríssimo\" e de \"Digníssimo\".",
+"c": true,
+"prof": "Tratamento.",
+"x": "A dignidade é pressuposto do cargo.",
+"e": "Sem Ilustríssimo."
+},
+{
+"p": "Segundo o Manual, \"doutor\" não é forma de tratamento, devendo ser usado apenas para quem tem título de doutorado.",
+"c": true,
+"prof": "Tratamento.",
+"x": "Prefere-se \"Senhor\".",
+"e": "Doutor."
+},
+{
+"p": "No endereçamento a autoridade tratada por Vossa Excelência, usa-se \"A Sua Excelência o Senhor\".",
+"c": true,
+"prof": "Endereçamento.",
+"x": "Para Vossa Senhoria: \"Ao Senhor\".",
+"e": "A Sua Excelência o Senhor."
+},
+{
+"p": "Na 3ª edição do Manual, aboliu-se a distinção entre ofício, aviso e memorando, adotando-se apenas o ofício.",
+"c": true,
+"prof": "Padrão ofício.",
+"x": "Mesma diagramação para todos.",
+"e": "Só ofício."
+},
+{
+"p": "Segundo a 3ª edição do Manual, o memorando continua sendo a espécie obrigatória para comunicações internas.",
+"c": false,
+"prof": "Padrão ofício.",
+"x": "Passou-se a usar o ofício.",
+"e": "Memorando extinto no Manual."
+},
+{
+"p": "Na identificação do expediente, constam o nome do documento, o número, o ano e as siglas do órgão.",
+"c": true,
+"prof": "Partes do ofício.",
+"x": "Ex.: OFÍCIO Nº 45/2026/...",
+"e": "Identificação."
+},
+{
+"p": "No ofício, a data é escrita por extenso, com o mês em minúscula e ponto final, como em \"Belo Horizonte, 1º de março de 2026.\".",
+"c": true,
+"prof": "Partes do ofício.",
+"x": "Alinhada à direita.",
+"e": "Data."
+},
+{
+"p": "Na data dos documentos oficiais, o mês deve ser escrito com inicial maiúscula.",
+"c": false,
+"prof": "Partes do ofício.",
+"x": "Mês com minúscula.",
+"e": "Mês minúsculo."
+},
+{
+"p": "O assunto do ofício é um resumo do teor do documento, em poucas palavras.",
+"c": true,
+"prof": "Partes do ofício.",
+"x": "Em negrito, com ponto final.",
+"e": "Assunto."
+},
+{
+"p": "O vocativo do ofício é seguido de vírgula, como em \"Senhor Diretor,\".",
+"c": true,
+"prof": "Partes do ofício.",
+"x": "Precede o texto.",
+"e": "Vocativo com vírgula."
+},
+{
+"p": "No padrão ofício, a regra é numerar os parágrafos do texto, não se numerando o vocativo e o fecho.",
+"c": true,
+"prof": "Numeração.",
+"x": "Salvo texto organizado em itens ou títulos.",
+"e": "Numeração de parágrafos."
+},
+{
+"p": "O fecho \"Respeitosamente\" é usado para autoridades de hierarquia superior, inclusive o Presidente da República.",
+"c": true,
+"prof": "Fechos.",
+"x": "\"Atenciosamente\" para mesma hierarquia ou inferior.",
+"e": "Respeitosamente."
+},
+{
+"p": "O fecho \"Atenciosamente\" é usado para autoridades de mesma hierarquia ou de hierarquia inferior e para particulares.",
+"c": true,
+"prof": "Fechos.",
+"x": "Dois fechos apenas.",
+"e": "Atenciosamente."
+},
+{
+"p": "Para comunicações dirigidas ao Presidente da República, o fecho adequado é \"Atenciosamente\".",
+"c": false,
+"prof": "Fechos.",
+"x": "É \"Respeitosamente\".",
+"e": "Presidente: Respeitosamente."
+},
+{
+"p": "Segundo o Manual, o texto do ofício usa fonte Calibri ou Carlito, corpo 12.",
+"c": true,
+"prof": "Diagramação.",
+"x": "Citações 11; notas 10.",
+"e": "Fonte."
+},
+{
+"p": "A exposição de motivos é dirigida ao Presidente da República por Ministro de Estado, para informar, propor medida ou submeter projeto de ato normativo.",
+"c": true,
+"prof": "Exposição de motivos.",
+"x": "Pode ser interministerial.",
+"e": "Exposição de motivos."
+},
+{
+"p": "A mensagem é instrumento de comunicação oficial entre os Chefes dos Poderes, como as do Presidente ao Congresso Nacional.",
+"c": true,
+"prof": "Mensagem.",
+"x": "Encaminha projetos, comunica vetos.",
+"e": "Mensagem."
+},
+{
+"p": "O correio eletrônico é forma de comunicação oficial, e, para ter valor documental, deve haver certificação digital que ateste a identidade do remetente.",
+"c": true,
+"prof": "Correio eletrônico.",
+"x": "Deve observar formalidade e clareza.",
+"e": "E-mail oficial."
+},
+{
+"p": "O e-mail não é admitido pelo Manual como forma de comunicação oficial.",
+"c": false,
+"prof": "Correio eletrônico.",
+"x": "É admitido.",
+"e": "E-mail admitido."
+},
+{
+"p": "O requerimento é o documento pelo qual se pede algo a uma autoridade, com qualificação do requerente e o fecho tradicional \"Nestes termos, pede deferimento\".",
+"c": true,
+"prof": "Requerimento.",
+"x": "Em regra, em 3ª pessoa.",
+"e": "Requerimento."
+},
+{
+"p": "O relatório relata fatos, atividades ou resultados e, em regra, apresenta conclusões ou recomendações.",
+"c": true,
+"prof": "Relatório.",
+"x": "Objetivo, diligências, resultados, conclusão.",
+"e": "Relatório."
+},
+{
+"p": "O parecer apresenta opinião técnica fundamentada para subsidiar uma decisão.",
+"c": true,
+"prof": "Parecer.",
+"x": "Ementa, relatório, fundamentação, conclusão.",
+"e": "Parecer."
+},
+{
+"p": "A ata registra fielmente o que ocorreu em uma reunião, em texto corrido e sem rasuras.",
+"c": true,
+"prof": "Ata.",
+"x": "Correções por ressalva.",
+"e": "Ata."
+},
+{
+"p": "A certidão transcreve, com fé pública, informação constante de registro ou documento oficial.",
+"c": true,
+"prof": "Certidão.",
+"x": "\"Certifico que...\".",
+"e": "Certidão."
+},
+{
+"p": "O atestado afirma fato ou situação, geralmente transitória, em favor de alguém.",
+"c": true,
+"prof": "Atestado.",
+"x": "\"Atesto que...\".",
+"e": "Atestado."
+},
+{
+"p": "A certidão é documento que afirma fato transitório do conhecimento pessoal do signatário, sem base em registros.",
+"c": false,
+"prof": "Certidão x atestado.",
+"x": "Essa é a definição de atestado.",
+"e": "Certidão: registros."
+},
+{
+"p": "O despacho é decisão ou encaminhamento proferido em processo ou documento, em texto curto e objetivo.",
+"c": true,
+"prof": "Despacho.",
+"x": "Ex.: \"Defiro.\" \"Arquive-se.\"",
+"e": "Despacho."
+},
+{
+"p": "A portaria é ato pelo qual a autoridade expede determinações, como a instauração de inquérito policial.",
+"c": true,
+"prof": "Portaria.",
+"x": "Ato administrativo.",
+"e": "Portaria."
+},
+{
+"p": "A circular é comunicação dirigida simultaneamente a vários destinatários com o mesmo conteúdo.",
+"c": true,
+"prof": "Circular.",
+"x": "Mesmo padrão.",
+"e": "Circular."
+},
+{
+"p": "Expressões como \"a nível de\" e \"o mesmo\" usado como pronome devem ser evitadas em textos oficiais.",
+"c": true,
+"prof": "Vícios.",
+"x": "Use \"no âmbito de\" e \"ele\".",
+"e": "A nível de."
+},
+{
+"p": "Na correspondência dirigida a cidadão, usa-se o tratamento Vossa Senhoria e o fecho Atenciosamente.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Ou \"o senhor/a senhora\" no texto.",
+"e": "Cidadão."
+},
+{
+"p": "Ofício dirigido ao Governador do Estado usa o tratamento Vossa Excelência, o vocativo \"Senhor Governador\" e o fecho \"Respeitosamente\".",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Hierarquia superior.",
+"e": "Governador."
+},
+{
+"p": "Em ofício que apenas encaminha documentos, o texto é curto, indicando a referência e o que segue em anexo.",
+"c": true,
+"prof": "Ofício de encaminhamento.",
+"x": "\"Em resposta ao Ofício nº..., encaminho...\".",
+"e": "Encaminhamento."
+},
+{
+"p": "\"Seguem anexas as fotos\" está correto, pois \"anexo\" concorda com o substantivo a que se refere.",
+"c": true,
+"prof": "Linguagem oficial.",
+"x": "\"Em anexo\" é invariável.",
+"e": "Anexas."
+},
+{
+"p": "Comunicações assinadas pelo Presidente da República dispensam a identificação do signatário.",
+"c": true,
+"prof": "Assinatura.",
+"x": "As demais trazem nome e cargo.",
+"e": "Presidente sem identificação."
+},
+{
+"p": "A clareza exige que o texto oficial possa ser compreendido de imediato e admita um único sentido.",
+"c": true,
+"prof": "Clareza.",
+"x": "Evitar ambiguidade.",
+"e": "Clareza."
+},
+{
+"p": "A formalidade e a padronização dizem respeito às formas de tratamento, à cortesia e ao padrão gráfico dos documentos.",
+"c": true,
+"prof": "Formalidade.",
+"x": "Seguir o padrão ofício.",
+"e": "Formalidade."
+},
+{
+"p": "A precisão exige o uso da palavra exata para cada ideia, evitando termos vagos como \"coisa\" e \"situação\".",
+"c": true,
+"prof": "Precisão.",
+"x": "Em documentos policiais, termos técnicos não são sinônimos perfeitos.",
+"e": "Precisão."
+},
+{
+"p": "A objetividade consiste em apresentar a ideia principal logo no início, eliminando informações que não contribuem para o propósito do documento.",
+"c": true,
+"prof": "Objetividade.",
+"x": "Não é descortesia.",
+"e": "Objetividade."
+},
+{
+"p": "A coesão diz respeito à ligação entre as partes do texto, e a coerência, à lógica do conteúdo e à ausência de contradições.",
+"c": true,
+"prof": "Coesão e coerência.",
+"x": "Conectivos e retomadas x lógica.",
+"e": "Coesão x coerência."
+},
+{
+"p": "A impessoalidade da redação oficial não impede o uso da 1ª pessoa do singular no ofício, como em \"Solicito\".",
+"c": true,
+"prof": "Impessoalidade.",
+"x": "A autoridade fala em nome do órgão.",
+"e": "1ª pessoa no ofício."
+},
+{
+"p": "A formalidade da redação oficial exige vocabulário rebuscado e frases longas, afastadas do uso corrente.",
+"c": false,
+"prof": "Formalidade.",
+"x": "Formalidade não é pompa; o texto deve ser compreendido por qualquer cidadão.",
+"e": "Formal ≠ rebuscado."
+},
+{
+"p": "Expressões como \"elo de ligação\" e \"há anos atrás\" são redundâncias que violam a concisão.",
+"c": true,
+"prof": "Concisão.",
+"x": "Pleonasmos viciosos.",
+"e": "Redundância."
+},
+{
+"p": "Os pronomes de tratamento não admitem artigo; por isso, não há crase em \"Encaminho a Vossa Excelência\".",
+"c": true,
+"prof": "Crase.",
+"x": "Exceções: senhora, senhorita, dona.",
+"e": "Sem crase."
+},
+{
+"p": "\"Solicito à Vossa Senhoria o envio do laudo\" está correto quanto ao emprego do acento grave.",
+"c": false,
+"prof": "Crase.",
+"x": "Não há crase antes de pronome de tratamento.",
+"e": "Sem crase."
+},
+{
+"p": "Em \"Entreguei o ofício à senhora Diretora\", o acento grave está correto, pois \"senhora\" admite artigo.",
+"c": true,
+"prof": "Crase.",
+"x": "Exceção tradicional.",
+"e": "À senhora."
+},
+{
+"p": "Os cardeais recebem o tratamento de Vossa Eminência, e o Papa, de Vossa Santidade.",
+"c": true,
+"prof": "Pronomes de tratamento.",
+"x": "Autoridades religiosas.",
+"e": "Eminência; Santidade."
+},
+{
+"p": "Os Chefes de Poder são o Presidente da República, o Presidente do Congresso Nacional e o Presidente do Supremo Tribunal Federal.",
+"c": true,
+"prof": "Vocativos.",
+"x": "Únicos com \"Excelentíssimo Senhor\".",
+"e": "Chefes de Poder."
+},
+{
+"p": "Em ofício dirigido a Senador, o vocativo adequado é \"Excelentíssimo Senhor Senador,\".",
+"c": false,
+"prof": "Vocativos.",
+"x": "Senador não é Chefe de Poder.",
+"e": "\"Senhor Senador,\"."
+},
+{
+"p": "Quando a autoridade for mulher, usam-se o vocativo e o endereçamento no feminino, como \"Senhora Ministra,\" e \"A Sua Excelência a Senhora\".",
+"c": true,
+"prof": "Vocativos.",
+"x": "Concordância com o sexo.",
+"e": "Feminino."
+},
+{
+"p": "Em \"Seguem anexas as fotos\", \"anexas\" concorda com \"fotos\", e o verbo concorda com o sujeito posposto.",
+"c": true,
+"prof": "Concordância.",
+"x": "\"Em anexo\" é invariável.",
+"e": "Anexas."
+},
+{
+"p": "\"Faziam dois anos que o inquérito tramitava\" está de acordo com a norma-padrão.",
+"c": false,
+"prof": "Concordância.",
+"x": "\"Fazer\" indicando tempo é impessoal.",
+"e": "Fazia."
+},
+{
+"p": "Em \"Havia muitas pendências no setor\", o verbo \"haver\" está corretamente no singular, por ser impessoal no sentido de existir.",
+"c": true,
+"prof": "Concordância.",
+"x": "Haver = existir.",
+"e": "Havia."
+},
+{
+"p": "O gerundismo, como em \"vamos estar enviando\", é inadequado ao registro formal dos documentos oficiais.",
+"c": true,
+"prof": "Vícios.",
+"x": "Use \"enviaremos\".",
+"e": "Gerundismo."
+},
+{
+"p": "O pronome relativo \"onde\" deve ser usado apenas para indicar lugar físico.",
+"c": true,
+"prof": "Vícios.",
+"x": "\"A reunião em que...\".",
+"e": "Onde."
+},
+{
+"p": "Em \"Para mim analisar o pedido, preciso dos autos\", o pronome está empregado de acordo com a norma-padrão.",
+"c": false,
+"prof": "Vícios.",
+"x": "Sujeito de infinitivo: \"para eu analisar\".",
+"e": "Para eu."
+},
+{
+"p": "O pronome \"cujo\" não admite artigo depois de si, sendo inadequado \"cujas as datas\".",
+"c": true,
+"prof": "Pronome relativo.",
+"x": "\"cujas datas\".",
+"e": "Cujo sem artigo."
+},
+{
+"p": "Siglas devem ser escritas por extenso na primeira vez em que aparecem, seguidas da sigla entre parênteses.",
+"c": true,
+"prof": "Siglas.",
+"x": "\"Instituto Médico-Legal (IML)\".",
+"e": "Siglas."
+},
+{
+"p": "Segundo a LC 95/1998, cada lei tratará de um único objeto e não conterá matéria estranha a ele.",
+"c": true,
+"prof": "LC 95/1998.",
+"x": "Art. 7º.",
+"e": "Único objeto."
+},
+{
+"p": "Segundo a LC 95/1998, os artigos são numerados em ordinal até o nono e em cardinal a partir do décimo.",
+"c": true,
+"prof": "LC 95/1998.",
+"x": "Art. 9º, Art. 10.",
+"e": "Ordinal/cardinal."
+},
+{
+"p": "Na técnica legislativa, os incisos são indicados por letras minúsculas, e as alíneas, por algarismos romanos.",
+"c": false,
+"prof": "LC 95/1998.",
+"x": "É o contrário: incisos romanos, alíneas letras.",
+"e": "Incisos romanos."
+},
+{
+"p": "Na técnica legislativa, os itens são indicados por algarismos arábicos.",
+"c": true,
+"prof": "LC 95/1998.",
+"x": "Desdobramento das alíneas.",
+"e": "Itens."
+},
+{
+"p": "A cláusula de revogação deve enumerar expressamente as leis ou disposições revogadas.",
+"c": true,
+"prof": "LC 95/1998.",
+"x": "Evita-se \"revogam-se as disposições em contrário\".",
+"e": "Revogação expressa."
+},
+{
+"p": "Na contagem do prazo de vacatio legis, incluem-se a data da publicação e o último dia do prazo, entrando a lei em vigor no dia subsequente à consumação integral.",
+"c": true,
+"prof": "LC 95/1998.",
+"x": "Art. 8º, § 1º.",
+"e": "Vacatio."
+},
+{
+"p": "A estrutura da lei compreende parte preliminar, parte normativa e parte final.",
+"c": true,
+"prof": "LC 95/1998.",
+"x": "Art. 3º.",
+"e": "Estrutura da lei."
+},
+{
+"p": "Segundo a LC 95/1998, os atos normativos devem usar frases curtas, ordem direta e tempo verbal presente ou futuro simples.",
+"c": true,
+"prof": "LC 95/1998.",
+"x": "Art. 11.",
+"e": "Clareza normativa."
+},
+{
+"p": "O e-mail oficial deve ter o campo assunto preenchido de modo a permitir a identificação rápida do conteúdo.",
+"c": true,
+"prof": "Correio eletrônico.",
+"x": "Evitar \"Urgente\", \"Oi\".",
+"e": "Assunto do e-mail."
+},
+{
+"p": "A ata é redigida em texto corrido, e os erros são corrigidos com \"digo\" ou por ressalva ao final, sem rasuras.",
+"c": true,
+"prof": "Ata.",
+"x": "\"Em tempo: onde se lê..., leia-se...\".",
+"e": "Correção na ata."
+},
+{
+"p": "A certidão costuma terminar com fórmula de fé pública, como \"O referido é verdade e dou fé\".",
+"c": true,
+"prof": "Certidão.",
+"x": "Reproduz registros.",
+"e": "Fé pública."
+},
+{
+"p": "A declaração afirma a existência de fato ou situação sob a responsabilidade de quem declara.",
+"c": true,
+"prof": "Declaração.",
+"x": "\"Declaro, para os devidos fins, que...\".",
+"e": "Declaração."
+},
+{
+"p": "A portaria de instauração de inquérito contém a notícia do fato e a parte dispositiva com as diligências determinadas.",
+"c": true,
+"prof": "Portaria.",
+"x": "\"Registre-se e autue-se\".",
+"e": "Portaria do IP."
+},
+{
+"p": "O despacho costuma usar formas como \"Junte-se\", \"Cumpra-se\" e \"Arquive-se\".",
+"c": true,
+"prof": "Despacho.",
+"x": "Curto e objetivo.",
+"e": "Despacho."
+},
+{
+"p": "A troca de \"Embora o prazo tenha vencido\" por \"Como o prazo venceu\" mantém o sentido original do trecho.",
+"c": false,
+"prof": "Reescrita.",
+"x": "Concessão virou causa.",
+"e": "Sentido alterado."
+},
+{
+"p": "A troca de \"poderá requisitar\" por \"deverá requisitar\" altera o sentido, pois transforma faculdade em obrigação.",
+"c": true,
+"prof": "Reescrita.",
+"x": "Modalização.",
+"e": "Poderá x deverá."
+},
+{
+"p": "No meio policial, \"requisitar\" indica pedido com força de ordem dirigido a quem tem o dever legal de atender.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "\"Solicitar\" é pedido sem força cogente.",
+"e": "Requisitar."
+},
+{
+"p": "A expressão \"de ofício\" significa por iniciativa própria da autoridade, em razão do cargo.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Não tem relação com o expediente ofício.",
+"e": "De ofício."
+},
+{
+"p": "\"Mandato de prisão\" é a forma correta para designar a ordem judicial que determina a prisão.",
+"c": false,
+"prof": "Parônimos.",
+"x": "É \"mandado de prisão\".",
+"e": "Mandado."
+},
+{
+"p": "\"Iminente\" significa prestes a acontecer, e \"eminente\", ilustre.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Perigo iminente; eminente jurista.",
+"e": "Iminente x eminente."
+},
+{
+"p": "\"Infringir\" significa violar, e \"infligir\", aplicar pena ou castigo.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Infringir a lei; infligir pena.",
+"e": "Infringir x infligir."
+},
+{
+"p": "\"Ratificar\" significa confirmar, e \"retificar\", corrigir.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Retificar o erro.",
+"e": "Ratificar x retificar."
+},
+{
+"p": "\"Tráfego\" refere-se ao trânsito, e \"tráfico\", ao comércio ilícito.",
+"c": true,
+"prof": "Parônimos.",
+"x": "Tráfico de drogas.",
+"e": "Tráfego x tráfico."
+},
+{
+"p": "\"Deferir\" significa conceder, e \"diferir\", adiar.",
+"c": true,
+"prof": "Parônimos.",
+"x": "\"Defiro o pedido\".",
+"e": "Deferir x diferir."
+},
+{
+"p": "A expressão latina in loco significa \"no próprio local\".",
+"c": true,
+"prof": "Expressões latinas.",
+"x": "Exame in loco.",
+"e": "In loco."
+},
+{
+"p": "As comunicações dirigidas a autoridades estrangeiras seguem rito e tradição próprios, não se sujeitando necessariamente aos dois fechos do Manual.",
+"c": true,
+"prof": "Fechos.",
+"x": "Praxe diplomática.",
+"e": "Exceção dos fechos."
+},
+{
+"p": "A 1ª edição do Manual de Redação da Presidência da República foi publicada em 1991.",
+"c": true,
+"prof": "Histórico.",
+"x": "2ª em 2002; 3ª em 2018.",
+"e": "1991."
+},
+{
+"p": "No ofício com mais de uma página, as páginas são numeradas a partir da segunda.",
+"c": true,
+"prof": "Diagramação.",
+"x": "Cabeçalho apenas na primeira.",
+"e": "Numeração de páginas."
+},
+{
+"p": "No mesmo ofício, é recomendável alternar a 1ª pessoa do singular e a do plural para dar variedade ao texto.",
+"c": false,
+"prof": "Pessoa gramatical.",
+"x": "Não se devem misturar as duas.",
+"e": "Não misturar."
+},
+{
+"p": "\"Vossa Excelência verificará que ele está instruído\" corrige \"Vossa Excelência verificareis que o mesmo está instruído\".",
+"c": true,
+"prof": "Casos práticos.",
+"x": "3ª pessoa e substituição de \"o mesmo\".",
+"e": "Correção."
+},
+{
+"p": "Eliminar juízos como \"excelente profissional e pessoa de bom coração\" de um ofício sobre faltas atende à impessoalidade.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Sem adjetivação valorativa.",
+"e": "Impessoalidade."
+},
+{
+"p": "Em ofício dirigido a Juíza de Direito, o endereçamento adequado é \"A Sua Excelência a Senhora\", sem acento grave.",
+"c": true,
+"prof": "Endereçamento.",
+"x": "Feminino e sem crase.",
+"e": "A Sua Excelência a Senhora."
+},
+{
+"p": "No ofício circular dirigido a vários delegados, o vocativo e o tratamento vão para o plural, como em \"Senhores Delegados,\" e \"Vossas Senhorias\".",
+"c": true,
+"prof": "Ofício circular.",
+"x": "Vários destinatários.",
+"e": "Plural."
+},
+{
+"p": "O documento pelo qual o Presidente da República encaminha projeto de lei ao Congresso Nacional é a mensagem.",
+"c": true,
+"prof": "Identificação do documento.",
+"x": "Entre Chefes de Poder.",
+"e": "Mensagem."
+},
+{
+"p": "O documento adequado para que um cidadão peça à autoridade a expedição de uma certidão é o ofício.",
+"c": false,
+"prof": "Identificação do documento.",
+"x": "É o requerimento.",
+"e": "Requerimento."
+},
+{
+"p": "O documento que registra o que ocorreu em uma reunião é a ata.",
+"c": true,
+"prof": "Identificação do documento.",
+"x": "Texto corrido.",
+"e": "Ata."
+},
+{
+"p": "Em e-mail de requisição de imagens para investigação, a assinatura deve conter nome, cargo, unidade e meio de contato.",
+"c": true,
+"prof": "Correio eletrônico.",
+"x": "Assinatura completa.",
+"e": "Assinatura do e-mail."
 }
 ]
 }
@@ -10380,8 +13302,701 @@ export const PROFUNDO = {
 "ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>< 14</b><span>anos: vulnerável no estupro de vulnerável</span></div><div class=\"lt-stat\"><b>72 h</b><span>janela usual para encontrar espermatozoides na vagina</span></div><div class=\"lt-stat\"><b>PSA</b><span>marcador de líquido seminal (útil mesmo sem espermatozoides)</span></div><div class=\"lt-stat\"><b>12.845</b><span>Lei de atendimento obrigatório às vítimas de violência sexual</span></div></div>\n<h3>1. Os crimes</h3>\n<ul><li><b>Estupro</b> (CP, art. 213): constranger alguém, mediante <b>violência ou grave ameaça</b>, a ter <b>conjunção carnal</b> ou a praticar ou permitir que com ele se pratique <b>outro ato libidinoso</b>. Pode ter vítima de <b>qualquer sexo</b>.</li><li><b>Estupro de vulnerável</b> (art. 217-A): conjunção carnal ou ato libidinoso com <b>menor de 14 anos</b>, ou com quem, por enfermidade ou deficiência mental, não tem discernimento, ou não pode oferecer resistência (ex.: embriaguez completa, sedação). O <b>consentimento</b> e a <b>experiência sexual anterior</b> da vítima menor de 14 são <b>irrelevantes</b> (Súmula 593 STJ).</li><li><b>Conjunção carnal</b> = cópula pênis-vagina. <b>Ato libidinoso</b> = qualquer ato de natureza sexual para satisfazer a lascívia (sexo oral, anal, toques).</li></ul>\n<h3>2. A perícia sexológica</h3>\n<table class=\"tab\"><thead><tr><th>Exame</th><th>O que procura</th></tr></thead><tbody><tr><td><b>Conjunção carnal</b></td><td>lesões genitais; estado do <b>hímen</b> (rotura recente: bordas avermelhadas, edemaciadas, sangrantes; antiga: cicatrizada); <b>hímen complacente</b> permite a cópula sem romper</td></tr><tr><td><b>Material biológico</b></td><td><b>espermatozoides</b> (em geral até cerca de <b>72 horas</b> na vagina), <b>fosfatase ácida</b> e <b>PSA (p30)</b> (indicam sêmen, inclusive de homem vasectomizado), <b>DNA</b> para identificar o autor</td></tr><tr><td><b>Ato libidinoso diverso</b></td><td>lesões anais, orais, marcas de mordida, secreções</td></tr><tr><td><b>Lesões extragenitais</b></td><td>equimoses nas coxas, braços, pescoço (sinais de <b>violência</b> e de <b>contenção</b>)</td></tr><tr><td>Toxicológico</td><td>álcool e drogas que reduziram a resistência (vulnerabilidade)</td></tr></tbody></table>\n<ul><li><b>Rotura himenal</b> atinge a <b>borda de inserção</b> e não regride; os <b>entalhes congênitos</b> são simétricos e não chegam à inserção.</li><li><b>Ausência de vestígios não exclui o crime</b>: muitos atos libidinosos não deixam lesões, e a palavra da vítima tem <b>especial relevância</b> nos crimes sexuais, se coerente com as demais provas.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Atendimento à vítima</h3>\n<ul><li><b>Lei 12.845/2013</b>: atendimento <b>obrigatório, imediato e integral</b> no SUS (profilaxia da gravidez e de ISTs, coleta de material, orientação). A coleta e a preservação dos vestígios no hospital devem respeitar a <b>cadeia de custódia</b>.</li><li>Vítima criança ou adolescente: <b>escuta especializada</b> e <b>depoimento especial</b> (Lei 13.431/2017). O exame de corpo de delito tem <b>prioridade</b> (CPP, art. 158, parágrafo único).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 593</b><p class=\"jc-tese\">O crime de estupro de vulnerável se configura com a conjunção carnal ou prática de ato libidinoso com menor de 14 anos, sendo irrelevante eventual consentimento da vítima para a prática do ato, sua experiência sexual anterior ou existência de relacionamento amoroso com o agente.</p><p class=\"jc-com\">A Lei 13.718/2018 incorporou esse entendimento ao art. 217-A, § 5º.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · palavra da vítima</b><p class=\"jc-tese\">Nos crimes contra a dignidade sexual, geralmente praticados na clandestinidade, a palavra da vítima tem especial relevância, desde que coerente e em consonância com os demais elementos de prova.</p><p class=\"jc-com\">Para o investigador: laudo negativo <b>não encerra</b> a investigação; busque provas indiretas (mensagens, testemunhas de contexto, vídeos, relatório psicológico).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Estupro só tem vítima mulher</span><br>✅ <span class=\"certo\">Desde 2009, qualquer pessoa pode ser vítima.</span></li><li>❌ <span class=\"banca\">Hímen íntegro prova que não houve conjunção carnal</span><br>✅ <span class=\"certo\">O hímen complacente permite cópula sem rotura.</span></li><li>❌ <span class=\"banca\">Sem espermatozoide não há prova de sêmen</span><br>✅ <span class=\"certo\">PSA e fosfatase ácida indicam sêmen, inclusive de vasectomizado.</span></li><li>❌ <span class=\"banca\">Consentimento da vítima de 13 anos afasta o crime</span><br>✅ <span class=\"certo\">É irrelevante (Súmula 593).</span></li><li>❌ <span class=\"banca\">Laudo sem lesões afasta o estupro</span><br>✅ <span class=\"certo\">A ausência de vestígios não exclui o crime.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vulnerável?</span></span><span class=\"vs\"><span><b>Menor de 14</b>, sem discernimento por doença/deficiência, ou <b>sem possibilidade de resistir</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hímen complacente?</span></span><span class=\"vs\"><span>Permite conjunção <b>sem romper</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marcadores de sêmen?</span></span><span class=\"vs\"><span><b>Espermatozoides</b>, <b>PSA (p30)</b>, <b>fosfatase ácida</b>, <b>DNA</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rotura x entalhe?</span></span><span class=\"vs\"><span><b>Rotura</b> atinge a borda de inserção; <b>entalhe</b> não.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 12.845?</span></span><span class=\"vs\"><span>Atendimento <b>obrigatório e integral</b> no SUS.</span></span></button></div></div>"
 },
 "toxicologia-psiquiatria": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2</b><span>grupos de cáusticos: coagulantes (ácidos) e liquefacientes (bases)</span></div><div class=\"lt-stat\"><b>3</b><span>fases clássicas da embriaguez</span></div><div class=\"lt-stat\"><b>6 dg/L</b><span>de álcool no sangue: limite do crime do art. 306 do CTB (ou 0,3 mg/L de ar)</span></div><div class=\"lt-stat\"><b>3</b><span>grupos de drogas pelo efeito no SNC: depressoras, estimulantes e perturbadoras</span></div></div>\n<h3>1. Energias de ordem química</h3>\n<ul><li>As <b>energias de ordem química</b> lesionam o corpo por <b>reação química</b>: os <b>cáusticos</b>, que agem <b>localmente</b>, destruindo tecidos no ponto de contato, e os <b>venenos</b>, que agem <b>sistemicamente</b>, após absorção.</li></ul>\n<table class=\"tab\"><thead><tr><th>Cáustico</th><th>Exemplos</th><th>Lesão</th></tr></thead><tbody><tr><td><b>Coagulantes</b></td><td><b>ácidos</b> (sulfúrico, nítrico, clorídrico), sais metálicos</td><td>desidratam e coagulam as proteínas: <b>escara seca, dura</b>, de cor variável conforme o ácido (o sulfúrico deixa escara enegrecida; o nítrico, amarelada)</td></tr><tr><td><b>Liquefacientes</b></td><td><b>bases ou álcalis</b> (soda cáustica, amônia, potassa)</td><td>dissolvem os tecidos: <b>escara úmida, mole, translúcida</b>, que tende a se aprofundar</td></tr></tbody></table>\n<ul><li><b>Vitriolagem</b>: lançamento de <b>ácido</b> (originalmente \"vitríolo\", o ácido sulfúrico) contra o rosto de alguém, para desfigurar. Gera lesão corporal gravíssima por <b>deformidade permanente</b>.</li><li><b>Venenos</b>: substâncias que, introduzidas no organismo, alteram sua função e podem matar. <b>Vias</b>: oral (a mais comum), respiratória, cutânea, parenteral (injeção). O <b>envenenamento</b> é qualificadora do homicídio (CP, art. 121, § 2º, III) quando usado de forma <b>insidiosa</b> (sem que a vítima perceba). A perícia (exame <b>toxicológico</b>) analisa sangue, urina, conteúdo gástrico, vísceras e cabelos (que revelam exposição antiga).</li><li><b>Monóxido de carbono</b> (CO): gás produzido na combustão incompleta (carros em garagem fechada, aquecedores); liga-se à hemoglobina formando <b>carboxiemoglobina</b>, que dá ao sangue e às <b>livores</b> uma coloração <b>vermelho-carmim</b> (rosada). É asfixia química.</li></ul>\n<h3>2. Embriaguez alcoólica</h3>\n<ul><li><b>Embriaguez</b> é o estado de intoxicação aguda por álcool ou substância de efeitos análogos. A <b>alcoolemia</b> (concentração de álcool no sangue) relaciona-se aos sintomas, mas a tolerância varia entre pessoas.</li></ul>\n<table class=\"tab\"><thead><tr><th>Fase clássica</th><th>Sinais</th></tr></thead><tbody><tr><td><b>1ª – excitação</b> (\"fase do macaco\")</td><td>euforia, desinibição, loquacidade, diminuição da autocrítica</td></tr><tr><td><b>2ª – confusão</b> (\"fase do leão\")</td><td>agressividade, irritabilidade, incoordenação motora, fala pastosa, alteração do equilíbrio, diplopia</td></tr><tr><td><b>3ª – sono ou coma</b> (\"fase do porco\")</td><td>sonolência, torpor, coma, podendo levar à morte por depressão respiratória</td></tr></tbody></table>\n<ul><li><b>Exame clínico</b> (verificação de sinais de alteração da capacidade psicomotora): hálito etílico, olhos avermelhados, fala arrastada, desequilíbrio, dificuldade no teste de marcha e de levar o dedo ao nariz. É admitido para comprovar a embriaguez ao volante, além do etilômetro e do exame de sangue (CTB, art. 306, § 2º).</li><li><b>Limites do CTB</b>: a <b>infração administrativa</b> (art. 165) ocorre com <b>qualquer</b> concentração de álcool (tolerância técnica na medição). O <b>crime</b> (art. 306) se caracteriza com concentração <b>igual ou superior a 6 decigramas de álcool por litro de sangue</b> ou <b>0,3 miligrama por litro de ar alveolar</b>, ou com <b>sinais</b> que indiquem alteração da capacidade psicomotora.</li><li><b>Imputabilidade</b> (CP, art. 28): a embriaguez <b>voluntária ou culposa</b> <b>não exclui</b> a imputabilidade (actio libera in causa); a <b>completa</b> por <b>caso fortuito ou força maior</b> isenta de pena; a <b>incompleta</b> acidental reduz de 1/3 a 2/3; a <b>patológica</b> (alcoolismo crônico com doença mental) remete ao art. 26. A <b>preordenada</b> é agravante.</li></ul>\n<h3>3. Drogas e toxicomania</h3>\n<table class=\"tab\"><thead><tr><th>Grupo (efeito no sistema nervoso central)</th><th>Exemplos</th><th>Efeitos</th></tr></thead><tbody><tr><td><b>Depressoras</b></td><td>álcool, opioides (morfina, heroína, fentanil), benzodiazepínicos, solventes/inalantes</td><td>diminuem a atividade cerebral: sonolência, lentidão, risco de depressão respiratória</td></tr><tr><td><b>Estimulantes</b></td><td><b>cocaína</b>, crack, anfetaminas, ecstasy (MDMA, também perturbador), cafeína, nicotina</td><td>aumentam a atividade: euforia, agitação, taquicardia, pupilas dilatadas (midríase), risco de infarto e AVC</td></tr><tr><td><b>Perturbadoras</b> (alucinógenas)</td><td><b>maconha</b> (THC), LSD, cogumelos, ayahuasca</td><td>alteram a percepção: alucinações, distorção de tempo e espaço</td></tr></tbody></table>\n<ul><li><b>Tolerância</b> (necessidade de doses maiores para o mesmo efeito), <b>dependência</b> física (síndrome de abstinência ao parar) e <b>psíquica</b> (compulsão pelo uso).</li><li><b>Lei de Drogas</b>: o <b>laudo de constatação</b> (preliminar) basta para o flagrante; o <b>laudo definitivo</b> é indispensável para a condenação. A <b>dependência</b> que retire a capacidade de entendimento ou autodeterminação isenta de pena (Lei 11.343, art. 45), exigindo perícia (exame de dependência toxicológica).</li><li><b>Sinais físicos que o policial observa</b>: hiperemia conjuntival e fome intensa (maconha); midríase, agitação e lesões no septo nasal (cocaína aspirada); miose acentuada (opioides); queimaduras nos lábios e dedos (crack).</li></ul>\n<h3>4. Psiquiatria forense: noções de ligação</h3>\n<ul><li>A <b>perícia psiquiátrica</b> (incidente de insanidade mental, CPP, art. 149) verifica se, <b>ao tempo da ação</b>, o agente tinha capacidade de <b>entender</b> o caráter ilícito do fato e de <b>determinar-se</b> de acordo com esse entendimento (critério <b>biopsicológico</b>, CP, art. 26). O tema é aprofundado no tópico de <b>psicopatologia médico-legal</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Ácidos produzem escaras úmidas e moles</span><br>✅ <span class=\"certo\">Ácidos: coagulantes, escara SECA; bases: liquefacientes, escara ÚMIDA.</span></li><li>❌ <span class=\"banca\">O crime do art. 306 exige 0,6 mg/L de ar</span><br>✅ <span class=\"certo\">É 0,3 mg/L de ar ou 6 dg/L de sangue.</span></li><li>❌ <span class=\"banca\">Embriaguez voluntária completa isenta de pena</span><br>✅ <span class=\"certo\">Só a acidental (caso fortuito ou força maior).</span></li><li>❌ <span class=\"banca\">Maconha é estimulante</span><br>✅ <span class=\"certo\">É perturbadora.</span></li><li>❌ <span class=\"banca\">Livores no envenenamento por CO são arroxeados</span><br>✅ <span class=\"certo\">Vermelho-carmim (rosados).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico coagulante?</span></span><span class=\"vs\"><span><b>Ácidos</b>; escara <b>seca</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico liquefaciente?</span></span><span class=\"vs\"><span><b>Bases</b>; escara <b>úmida</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vitriolagem?</span></span><span class=\"vs\"><span>Ácido no rosto: <b>deformidade permanente</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CO?</span></span><span class=\"vs\"><span><b>Carboxiemoglobina</b>; livores <b>vermelho-carmim</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases da embriaguez?</span></span><span class=\"vs\"><span><b>Macaco</b> (excitação), <b>leão</b> (confusão), <b>porco</b> (coma).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Crime do art. 306?</span></span><span class=\"vs\"><span><b>6 dg/L</b> de sangue ou <b>0,3 mg/L</b> de ar, ou sinais.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cocaína?</span></span><span class=\"vs\"><span><b>Estimulante</b>; midríase.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Opioides?</span></span><span class=\"vs\"><span><b>Depressores</b>; miose.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A garagem fechada</b><p>Um homem é encontrado morto dentro do carro ligado, numa garagem fechada. A pele e as livores têm coloração rósea intensa. Há uma mangueira ligando o escapamento ao interior do veículo.</p><details><summary>Ver a solução comentada</summary><p>Os achados sugerem <b>intoxicação por monóxido de carbono</b>: a <b>carboxiemoglobina</b> dá a coloração <b>vermelho-carmim</b> ao sangue e às livores. A mangueira indica possível <b>suicídio</b>, mas a perícia deve afastar homicídio (lesões, substâncias sedativas no exame toxicológico, posição do corpo). O exame de sangue confirma a dosagem de <b>carboxiemoglobina</b>.</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>6 dg/L</b><span>de álcool no sangue: marco do crime do art. 306 do CTB (ou 0,3 mg/L de ar alveolar)</span></div><div class=\"lt-stat\"><b>3</b><span>fases clássicas da embriaguez (macaco, leão e porco)</span></div><div class=\"lt-stat\"><b>40 g</b><span>de maconha: presunção de uso pessoal fixada pelo STF (RE 635.659)</span></div><div class=\"lt-stat\"><b>2</b><span>laudos da Lei de Drogas (constatação e definitivo)</span></div></div>\n<h3>1. Toxicologia forense: conceitos básicos</h3>\n<ul><li><b>Toxicologia forense</b> é a parte da Medicina Legal que estuda os <b>venenos</b> (tóxicos), suas formas de ação, os quadros de <b>intoxicação</b> e os meios de <b>detectá-los</b> no vivo e no cadáver, para responder a perguntas da Justiça: houve intoxicação? Por qual substância? Em que quantidade? Ela causou a morte, a lesão, a alteração do comportamento? Foi acidente, suicídio ou crime?</li><li><b>Veneno</b> (ou tóxico) é toda substância que, introduzida no organismo, em quantidade e condições adequadas, causa <b>dano à saúde ou morte</b> por ação <b>química</b> ou bioquímica. O conceito é <b>relativo</b>: \"a <b>dose</b> faz o veneno\" (ideia atribuída a <b>Paracelso</b>). A água, o sal e os remédios mais comuns podem matar em doses excessivas; venenos potentes podem ser medicamentos em doses mínimas.</li><li><b>Intoxicação</b> é o quadro produzido pelo tóxico. Pode ser <b>aguda</b> (dose única ou em curto prazo, efeitos rápidos) ou <b>crônica</b> (exposição repetida, como no trabalho ou no envenenamento lento).</li><li><b>Energias de ordem química</b>: na classificação das energias lesivas, os tóxicos e os <b>cáusticos</b> são energias <b>químicas</b>: agem por reação química com os tecidos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>Significado</th></tr></thead><tbody><tr><td><b>Toxicidade</b></td><td>capacidade de causar dano; depende da <b>dose</b>, da via, da pessoa e da substância</td></tr><tr><td><b>Dose letal</b></td><td>quantidade capaz de matar; varia de pessoa para pessoa</td></tr><tr><td><b>Via de introdução</b></td><td><b>oral</b> (a mais comum), <b>inalatória</b>, <b>injetável</b>, <b>cutânea</b>, <b>retal</b>, <b>vaginal</b>, mucosas</td></tr><tr><td><b>Absorção, distribuição, metabolismo e eliminação</b></td><td>o caminho do tóxico no corpo: entra, espalha-se, é transformado (principalmente no <b>fígado</b>) e sai (principalmente pelos <b>rins</b>, pela urina)</td></tr><tr><td><b>Tolerância</b></td><td>necessidade de doses <b>maiores</b> para obter o mesmo efeito, com o uso repetido</td></tr><tr><td><b>Dependência</b></td><td>necessidade <b>física e/ou psíquica</b> de continuar usando a substância</td></tr><tr><td><b>Abstinência</b></td><td>sintomas que surgem quando a substância é <b>suspensa</b> em quem é dependente</td></tr></tbody></table>\n<ul><li><b>Fatores que influem</b>: <b>dose</b> e concentração; <b>via</b> (inalada e injetada agem mais rápido); <b>idade</b> (crianças e idosos são mais sensíveis); <b>peso</b>; <b>estado de saúde</b> (doenças do fígado e dos rins dificultam a eliminação); <b>tolerância</b> (o usuário crônico suporta doses que matariam um iniciante); <b>associação</b> de substâncias (álcool com calmantes ou opioides potencializa a depressão da respiração).</li></ul>\n<h3>2. Classificações dos venenos</h3>\n<table class=\"tab\"><thead><tr><th>Critério</th><th>Espécies e exemplos</th></tr></thead><tbody><tr><td><b>Origem</b></td><td><b>minerais</b> (arsênico, chumbo, mercúrio, tálio); <b>vegetais</b> (estricnina, cianetos de plantas, alcaloides, cogumelos); <b>animais</b> (peçonhas de cobras, escorpiões, aranhas); <b>sintéticos</b> (medicamentos, agrotóxicos, drogas sintéticas)</td></tr><tr><td><b>Estado físico</b></td><td><b>sólidos</b>, <b>líquidos</b> e <b>gasosos</b> (monóxido de carbono, gás cianídrico)</td></tr><tr><td><b>Uso</b></td><td><b>domésticos</b> (produtos de limpeza, raticidas), <b>agrícolas</b> (agrotóxicos), <b>industriais</b>, <b>medicamentosos</b>, <b>\"sociais\"</b> (álcool, tabaco, drogas)</td></tr><tr><td><b>Ação principal</b></td><td><b>cáusticos</b> (destroem os tecidos no local de contato); <b>sistêmicos</b> (agem depois de absorvidos, em órgãos à distância: sistema nervoso, sangue, coração, fígado)</td></tr></tbody></table>\n<ul><li><b>Envenenamento</b> é a intoxicação produzida <b>intencionalmente</b> por terceiro; o termo também é usado no sentido amplo de intoxicação por veneno. No <b>Código Penal</b>, o emprego de <b>veneno</b> <b>qualifica o homicídio</b> (art. 121, § 2º, III) e é circunstância <b>agravante</b> genérica (art. 61, II, <i>d</i>); por isso o quesito oficial pergunta se a morte ou a lesão foi produzida \"por meio de veneno\". A doutrina entende que o veneno qualifica o homicídio sobretudo quando ministrado de forma <b>insidiosa</b> (sem que a vítima saiba).</li><li><b>Envenenamento de água potável</b> ou de substância alimentícia ou medicinal destinada a consumo é crime contra a <b>saúde pública</b> (CP, art. 270).</li></ul>\n<h3>3. Cáusticos: ácidos e bases</h3>\n<ul><li><b>Cáusticos</b> são substâncias que <b>destroem</b> os tecidos no <b>ponto de contato</b>, por reação química. Principais: <b>ácidos fortes</b> (sulfúrico, nítrico, clorídrico, fluorídrico) e <b>bases</b> ou álcalis fortes (<b>soda cáustica</b>, hidróxido de potássio, amônia concentrada, produtos de limpeza pesada, desentupidores).</li></ul>\n<table class=\"tab\"><thead><tr><th>Cáustico</th><th>Tipo de lesão</th><th>Aspecto</th></tr></thead><tbody><tr><td><b>Ácidos</b></td><td><b>necrose de coagulação</b> (o tecido \"coagula\" e forma uma <b>escara seca e dura</b>, que dificulta a penetração mais profunda)</td><td>escaras com cores características: <b>ácido sulfúrico</b> = escara <b>escura/negra</b>; <b>ácido nítrico</b> = escara <b>amarelada</b> (reação xantoproteica); <b>ácido clorídrico</b> = escara <b>acinzentada</b></td></tr><tr><td><b>Bases (álcalis)</b></td><td><b>necrose de liquefação</b> (o tecido \"derrete\", forma lesão <b>mole, úmida e profunda</b>, que <b>continua avançando</b> enquanto a substância não é removida)</td><td>lesões moles, viscosas, esbranquiçadas ou acinzentadas, mais <b>profundas</b></td></tr></tbody></table>\n<ul><li><b>Ingestão de cáusticos</b>: queimaduras da <b>boca, faringe, esôfago e estômago</b>, com dor intensa, vômitos com sangue e risco de <b>perfuração</b> (mediastinite, peritonite) e, nos sobreviventes, <b>estenose</b> (estreitamento cicatricial do esôfago), que impede a alimentação. Ocorre por <b>acidente</b> (crianças que bebem produtos de limpeza guardados em garrafas de refrigerante), <b>suicídio</b> e, raramente, homicídio.</li><li><b>Vitriolagem</b>: o ato de <b>lançar substância cáustica</b> (geralmente ácido; o nome vem de \"vitríolo\", antigo nome do ácido sulfúrico) em outra pessoa, quase sempre no <b>rosto</b>, para desfigurar. Produz lesões que podem configurar <b>lesão gravíssima</b> por <b>deformidade permanente</b> (CP, art. 129, § 2º, IV), <b>perda ou inutilização</b> da visão, e é comum em contexto de <b>violência contra a mulher</b>. O meio é cruel.</li><li><b>Exame</b>: o perito descreve a <b>forma</b> das lesões (escorrimentos, respingos, sentido), a <b>cor</b> e o aspecto das escaras (ajudam a indicar o tipo de substância), coleta resíduos e roupas para análise química e responde aos quesitos com exame complementar (sequelas).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Ácidos produzem necrose de liquefação, mole e profunda</span><br>✅ <span class=\"certo\">Ácidos = <b>coagulação</b> (escara seca e dura); <b>bases</b> = <b>liquefação</b> (mole e profunda)</span></li><li>❌ <span class=\"banca\">A escara do ácido nítrico é negra</span><br>✅ <span class=\"certo\">A do <b>nítrico</b> é <b>amarelada</b>; a do <b>sulfúrico</b>, <b>escura</b></span></li><li>❌ <span class=\"banca\">Vitriolagem é a ingestão acidental de cáusticos</span><br>✅ <span class=\"certo\"><b>Vitriolagem</b> é <b>lançar cáustico</b> em outra pessoa (geralmente no rosto)</span></li></ol></div>\n<h3>4. Exame toxicológico: o que coletar e como</h3>\n<ul><li><b>No vivo</b>: <b>sangue</b> (mostra o que está <b>agindo agora</b>; melhor para relacionar a substância com o comportamento ou a capacidade no momento) e <b>urina</b> (mostra o que foi <b>usado recentemente</b>, inclusive horas ou dias antes, mas não indica o grau de efeito no momento). <b>Cabelo</b> e unhas revelam <b>uso crônico</b> ao longo de semanas e meses (cada centímetro de cabelo corresponde, aproximadamente, a um mês de crescimento). Saliva e ar expirado (álcool) também são usados.</li><li><b>No cadáver</b>: <b>sangue</b> (de preferência <b>periférico</b>, como o da veia <b>femoral</b>, menos sujeito à redistribuição do que o sangue do coração), <b>urina</b>, <b>humor vítreo</b> (o líquido do olho, protegido da contaminação e da putrefação, útil para álcool e alguns eletrólitos), <b>conteúdo gástrico</b> (mostra o que foi <b>ingerido</b> recentemente, comprimidos ainda não dissolvidos), <b>fígado</b>, <b>rins</b>, <b>bile</b>, e, em cadáveres decompostos, <b>músculo</b>, <b>cabelo</b> e até <b>larvas de insetos</b> que se alimentaram do corpo.</li><li><b>Cuidados</b>: coletar <b>antes</b> de embalsamar ou de qualquer tratamento; usar frascos <b>limpos</b> e adequados, com <b>conservante</b> quando indicado; não usar <b>álcool</b> para limpar a pele antes de coletar sangue para dosagem alcoólica; <b>identificar e lacrar</b> cada amostra (cadeia de custódia); refrigerar; anotar a hora da coleta.</li><li><b>Redistribuição post mortem</b>: depois da morte, algumas substâncias <b>migram</b> dos órgãos para o sangue próximo (sobretudo do coração e dos grandes vasos), alterando as concentrações. Por isso se prefere o sangue <b>periférico</b> e se interpretam os números com cautela.</li><li><b>Neoformação de álcool</b>: na <b>putrefação</b>, bactérias podem <b>produzir álcool</b> no cadáver. Um resultado positivo de álcool em corpo decomposto precisa ser interpretado com cuidado (o <b>humor vítreo</b> e a urina ajudam a esclarecer).</li><li><b>Janela de detecção</b>: cada substância permanece detectável por um tempo diferente em cada material. Muitas drogas usadas para <b>dopar vítimas</b> (para roubos e crimes sexuais) somem do sangue em <b>horas</b>: a vítima deve ser encaminhada <b>imediatamente</b> para coleta de sangue e urina.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A urina indica o grau de efeito da droga no momento do fato</span><br>✅ <span class=\"certo\">A urina mostra <b>uso recente</b>; o <b>sangue</b> é que se relaciona com o <b>efeito no momento</b></span></li><li>❌ <span class=\"banca\">O sangue do coração é o melhor para dosagens post mortem</span><br>✅ <span class=\"certo\">Prefere-se o sangue <b>periférico</b> (femoral), pela <b>redistribuição</b> post mortem</span></li><li>❌ <span class=\"banca\">Álcool no sangue de cadáver putrefeito prova embriaguez em vida</span><br>✅ <span class=\"certo\">Pode haver <b>neoformação</b> de álcool pela putrefação</span></li><li>❌ <span class=\"banca\">Pode-se limpar a pele com álcool antes de coletar sangue para alcoolemia</span><br>✅ <span class=\"certo\">Não: usa-se antisséptico <b>sem álcool</b></span></li></ol></div>\n<h3>5. Monóxido de carbono e cianeto</h3>\n<ul><li><b>Monóxido de carbono (CO)</b>: gás <b>incolor e inodoro</b>, da <b>queima incompleta</b> de combustíveis (motores, geradores, aquecedores a gás, braseiros, incêndios). Liga-se à <b>hemoglobina</b> com força muito maior que o oxigênio, formando a <b>carboxi-hemoglobina</b>, e impede o transporte de oxigênio. Sintomas: dor de cabeça, tontura, náuseas, confusão, sonolência, coma e morte. <b>Achados</b>: cor <b>vermelho-carmim</b> (cereja) do sangue, dos <b>livores</b>, dos músculos e dos órgãos; dosagem elevada de <b>carboxi-hemoglobina</b>. Causas: <b>acidentes</b> domésticos (aquecedores sem exaustão), <b>suicídios</b> (motor ligado em garagem fechada), <b>incêndios</b> (sinal de que a vítima respirava) e, raramente, homicídios.</li><li><b>Cianeto</b> (gás cianídrico, sais de cianeto): impede as células de <b>usar</b> o oxigênio, mesmo com o sangue cheio dele. Ação <b>muito rápida</b> (minutos). Fontes: <b>incêndios</b> com plásticos e espumas, indústria (galvanoplastia, mineração de ouro), algumas sementes e plantas (como a <b>mandioca-brava</b> crua, que contém substâncias que liberam cianeto). Achados: livores e sangue <b>vermelho-claros</b> (o sangue venoso continua oxigenado), às vezes odor de <b>amêndoas amargas</b> (que nem todas as pessoas conseguem perceber), lesões cáusticas no estômago quando ingerido como sal.</li></ul>\n<h3>6. Agrotóxicos e raticidas: o \"chumbinho\"</h3>\n<ul><li><b>Organofosforados e carbamatos</b> (inseticidas agrícolas e produtos ilegais vendidos como raticida, o \"<b>chumbinho</b>\", que costuma conter carbamato de uso agrícola proibido para uso doméstico): inibem a enzima <b>acetilcolinesterase</b>, e a acetilcolina se acumula no sistema nervoso. Quadro (síndrome <b>colinérgica</b>): <b>miose</b> (pupilas puntiformes), <b>salivação</b> e <b>lacrimejamento</b> intensos, <b>sudorese</b>, <b>secreção nos brônquios</b> (o paciente \"se afoga\" nas próprias secreções), <b>broncoespasmo</b>, <b>bradicardia</b>, vômitos, diarreia, perda de urina, <b>fasciculações</b> (tremores musculares), fraqueza, convulsões e morte por <b>insuficiência respiratória</b>.</li><li><b>Interesse forense</b>: são causa importante de <b>suicídios</b> e <b>intoxicações acidentais</b> (crianças, trabalhadores rurais) e de <b>homicídios</b> e <b>envenenamento de animais</b>. O \"chumbinho\" aparece como grânulos escuros no <b>conteúdo gástrico</b> e no local. A dosagem da <b>colinesterase</b> no sangue ajuda no diagnóstico.</li><li><b>Raticidas anticoagulantes</b> (cumarínicos): causam <b>hemorragias</b> (gengivas, urina, equimoses espontâneas) dias depois da ingestão; também usados em suicídios e, raramente, em envenenamentos.</li><li><b>Paraquate</b> (herbicida): altamente tóxico, com lesões pulmonares progressivas e morte dias depois, mesmo em pequenas doses; seu uso foi proibido no Brasil.</li></ul>\n<h3>7. Outros venenos clássicos de prova</h3>\n<table class=\"tab\"><thead><tr><th>Veneno</th><th>Ação e sinais</th><th>Observação</th></tr></thead><tbody><tr><td><b>Arsênico</b></td><td>intoxicação <b>aguda</b>: vômitos, diarreia intensa (aspecto de \"água de arroz\"), desidratação, choque; <b>crônica</b>: lesões de pele, alterações nas unhas (<b>faixas brancas transversais</b>, as linhas de <b>Mees</b>), neuropatia</td><td>o \"veneno dos envenenadores\" na história; detectável em <b>cabelos e unhas</b> por muito tempo, inclusive em exumações</td></tr><tr><td><b>Estricnina</b></td><td><b>convulsões</b> violentas com o corpo arqueado para trás (<b>opistótono</b>), consciência preservada até o fim, rigidez cadavérica <b>precoce</b></td><td>veneno vegetal; antigo raticida</td></tr><tr><td><b>Metanol</b> (álcool metílico)</td><td>embriaguez inicial, depois <b>acidose</b>, dor abdominal, <b>alterações visuais e cegueira</b>, coma e morte</td><td>presente em <b>bebidas adulteradas</b> e produtos industriais; pequenas quantidades já causam cegueira</td></tr><tr><td><b>Chumbo</b> e <b>mercúrio</b></td><td>intoxicações <b>crônicas</b>, sobretudo <b>ocupacionais</b> (baterias, garimpo)</td><td>tema de infortunística e saúde ambiental</td></tr><tr><td><b>Paracetamol</b> em dose excessiva</td><td>lesão grave do <b>fígado</b>, que aparece dias depois</td><td>medicamento comum, usado em tentativas de suicídio</td></tr><tr><td><b>Peçonhas</b> (cobras, escorpiões, aranhas)</td><td>ação local e sistêmica variável conforme o animal</td><td>acidentes; raramente crime</td></tr></tbody></table>\n<ul><li><b>Medicamentos</b>: a intoxicação por <b>medicamentos</b> (calmantes, antidepressivos, analgésicos, remédios para o coração) é uma das causas mais frequentes de intoxicação, tanto em <b>suicídios</b> quanto em <b>acidentes</b> (crianças, idosos que confundem doses). A <b>associação com álcool</b> aumenta muito o risco.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Linhas de Mees são típicas do chumbinho</span><br>✅ <span class=\"certo\">São faixas brancas nas <b>unhas</b> na intoxicação por <b>arsênico</b></span></li><li>❌ <span class=\"banca\">A estricnina causa sonolência e coma tranquilo</span><br>✅ <span class=\"certo\">Causa <b>convulsões</b> com <b>opistótono</b> e consciência preservada</span></li><li>❌ <span class=\"banca\">No chumbinho, as pupilas ficam dilatadas</span><br>✅ <span class=\"certo\">Ficam <b>puntiformes</b> (<b>miose</b>), com salivação, sudorese e secreção brônquica</span></li><li>❌ <span class=\"banca\">O cianeto deixa livores azul-escuros</span><br>✅ <span class=\"certo\">Deixa livores <b>vermelho-claros</b> (o sangue continua oxigenado)</span></li><li>❌ <span class=\"banca\">O metanol só causa embriaguez comum</span><br>✅ <span class=\"certo\">Causa <b>acidose</b> e <b>cegueira</b>, podendo matar</span></li></ol></div>\n<h3>8. Álcool etílico: absorção, eliminação e alcoolemia</h3>\n<ul><li>O <b>álcool etílico</b> (etanol) é a substância psicoativa mais envolvida em crimes, acidentes de trânsito, violência doméstica, afogamentos e mortes por hipotermia. É um <b>depressor</b> do sistema nervoso central (a sensação inicial de \"animação\" vem da <b>desinibição</b>).</li><li><b>Absorção</b>: rápida, no <b>estômago</b> e principalmente no <b>intestino delgado</b>. O pico de concentração no sangue ocorre, em geral, entre <b>30 e 90 minutos</b> após a ingestão. <b>Estômago cheio</b> retarda e reduz o pico; bebidas <b>gaseificadas</b> e destiladas em jejum aceleram.</li><li><b>Distribuição</b>: o álcool se espalha pela <b>água</b> do corpo. Por isso, com a mesma dose, a concentração tende a ser <b>maior</b> em pessoas de <b>menor peso</b> e nas <b>mulheres</b> (que, em média, têm menos água corporal proporcionalmente).</li><li><b>Eliminação</b>: a maior parte é metabolizada pelo <b>fígado</b>, em ritmo aproximadamente <b>constante</b> (em média, cerca de <b>0,1 a 0,2 grama por litro de sangue por hora</b>, variando de pessoa para pessoa). Pequena parte sai pelo ar expirado (base do <b>etilômetro</b>), pela urina e pelo suor. Café, banho frio e vômito <b>não aceleram</b> de forma relevante a eliminação.</li><li><b>Alcoolemia</b> é a concentração de álcool no <b>sangue</b> (em gramas ou decigramas por litro). O <b>etilômetro</b> (\"bafômetro\") mede o álcool no <b>ar alveolar expirado</b> (em miligramas por litro de ar), que guarda relação com a concentração no sangue.</li><li><b>Cálculo retrospectivo</b>: conhecendo a alcoolemia no momento da coleta e a taxa média de eliminação, o perito pode <b>estimar</b> a alcoolemia em um momento anterior (por exemplo, na hora do acidente). É uma estimativa, com margem de erro, e exige cautela (a pessoa poderia estar ainda absorvendo o álcool).</li></ul>\n<h3>9. Embriaguez: fases e diagnóstico clínico</h3>\n<ul><li><b>Embriaguez</b> é o estado de intoxicação aguda e passageira pelo álcool (ou substância de efeitos semelhantes) que altera as funções psíquicas e motoras.</li></ul>\n<table class=\"tab\"><thead><tr><th>Fase (clássica)</th><th>Nome popular</th><th>Características</th></tr></thead><tbody><tr><td><b>1ª – Excitação</b></td><td>fase do <b>macaco</b></td><td>euforia, desinibição, loquacidade (fala muito), alegria, diminuição da autocrítica e do juízo, primeiros prejuízos da atenção e dos reflexos</td></tr><tr><td><b>2ª – Confusão</b></td><td>fase do <b>leão</b></td><td>irritabilidade, <b>agressividade</b>, confusão mental, fala arrastada (disartria), <b>incoordenação</b> motora, marcha cambaleante, visão dupla, alterações de memória</td></tr><tr><td><b>3ª – Sono ou coma</b></td><td>fase do <b>porco</b></td><td>sonolência profunda, <b>coma</b>, vômitos, perda do controle da urina e das fezes, risco de <b>depressão respiratória</b>, aspiração do vômito e morte</td></tr></tbody></table>\n<ul><li>A intensidade dos sinais <b>não depende só</b> da alcoolemia: a <b>tolerância</b> do bebedor habitual faz com que ele pareça menos alterado com a mesma concentração.</li><li><b>Exame clínico da embriaguez</b> (feito pelo médico): <b>hálito etílico</b>; aspecto (face congesta, olhos avermelhados, vestes desalinhadas); <b>atitude</b> e comportamento (euforia, agressividade, sonolência); <b>orientação</b> no tempo e no espaço; <b>memória</b>; <b>fala</b> (arrastada, pastosa); <b>marcha</b> (andar em linha reta, dar meia-volta); <b>equilíbrio</b> (sinal de <b>Romberg</b>: em pé, pés juntos e olhos fechados, a pessoa oscila); <b>coordenação</b> (levar o dedo ao nariz, pegar objetos); <b>pupilas</b> e movimentos dos olhos (o <b>nistagmo</b>, tremor ocular, é sinal importante). O laudo conclui se há <b>sinais de embriaguez</b> e seu grau.</li><li><b>Embriaguez x outras causas</b>: traumatismo craniano, hipoglicemia (diabéticos), AVC, intoxicação por outras drogas e doenças neurológicas podem <b>simular</b> embriaguez. Um preso \"bêbado\" que piora pode estar com <b>hematoma</b> no cérebro. Por isso, o exame clínico e a observação cuidadosa são importantes, e o hálito alcoólico não basta para excluir outra causa.</li></ul>\n<h3>10. Álcool e trânsito: o que diz o CTB</h3>\n<ul><li><b>Infração administrativa</b> (CTB, art. 165): dirigir sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência: infração <b>gravíssima</b>, com <b>multa multiplicada por dez</b>, <b>suspensão do direito de dirigir por 12 meses</b>, recolhimento do documento de habilitação e retenção do veículo. O art. 276 dispõe que <b>qualquer concentração</b> de álcool por litro de sangue ou por litro de ar alveolar sujeita o condutor às penalidades do art. 165 (a margem de tolerância técnica dos aparelhos é disciplinada pelo CONTRAN).</li><li><b>Recusa</b> (art. 165-A): <b>recusar-se</b> a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar a influência de álcool ou outra substância psicoativa é infração <b>gravíssima</b>, com as mesmas penalidades do art. 165. A recusa <b>não</b> constitui crime nem prova, por si, a embriaguez.</li><li><b>Meios de prova</b> (art. 277): o condutor pode ser submetido a <b>teste</b> (etilômetro), <b>exame clínico</b>, <b>perícia</b> ou outro procedimento que permita certificar a influência de álcool ou substância psicoativa. A infração pode ser caracterizada também por <b>imagem, vídeo, constatação de sinais</b> que indiquem alteração da capacidade psicomotora ou <b>produção de quaisquer outras provas</b> admitidas em direito.</li><li><b>Crime</b> (art. 306): conduzir veículo automotor com <b>capacidade psicomotora alterada</b> em razão da influência de álcool ou de outra substância psicoativa que determine dependência. Pena: <b>detenção de 6 meses a 3 anos</b>, multa e suspensão ou proibição de obter a permissão ou a habilitação. As condutas são constatadas por: <b>I</b> – concentração <b>igual ou superior a 6 decigramas de álcool por litro de sangue</b> ou <b>igual ou superior a 0,3 miligrama de álcool por litro de ar alveolar</b>; ou <b>II</b> – <b>sinais</b> que indiquem, na forma disciplinada pelo CONTRAN, alteração da capacidade psicomotora. A verificação pode ser feita por teste de alcoolemia ou toxicológico, exame clínico, perícia, vídeo, <b>prova testemunhal</b> ou outros meios de prova admitidos (§ 2º).</li><li><b>Ninguém é obrigado a produzir prova contra si</b> (não autoincriminação): o condutor pode recusar o etilômetro e a coleta de sangue, mas a embriaguez pode ser provada por <b>outros meios</b> (exame clínico, sinais, testemunhas, vídeo), e a recusa gera a infração administrativa do art. 165-A.</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Consequência</th></tr></thead><tbody><tr><td><b>Qualquer</b> concentração de álcool (observada a tolerância técnica)</td><td><b>infração gravíssima</b> (art. 165): multa x10, suspensão por 12 meses</td></tr><tr><td><b>Recusa</b> ao teste ou exame</td><td><b>infração gravíssima</b> (art. 165-A), mesmas penalidades</td></tr><tr><td><b>≥ 6 dg/L de sangue</b> ou <b>≥ 0,3 mg/L de ar</b></td><td><b>crime</b> (art. 306), pela alteração da capacidade psicomotora</td></tr><tr><td><b>Sinais</b> de alteração da capacidade psicomotora</td><td>também <b>crime</b> (art. 306, § 1º, II), mesmo sem etilômetro</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Para a infração administrativa do art. 165, é preciso atingir 6 dg/L</span><br>✅ <span class=\"certo\"><b>Qualquer concentração</b> basta para a infração (art. 276); 6 dg/L é marco do <b>crime</b></span></li><li>❌ <span class=\"banca\">A recusa ao bafômetro é crime de desobediência</span><br>✅ <span class=\"certo\">É <b>infração administrativa</b> gravíssima (art. 165-A)</span></li><li>❌ <span class=\"banca\">Sem etilômetro ou exame de sangue não se prova o crime do art. 306</span><br>✅ <span class=\"certo\">Admite-se <b>exame clínico, vídeo, prova testemunhal</b> e outros meios</span></li><li>❌ <span class=\"banca\">O crime do art. 306 exige 0,6 mg/L de ar alveolar</span><br>✅ <span class=\"certo\">O marco é <b>0,3 mg/L de ar</b> (ou 6 dg/L de sangue)</span></li></ol></div>\n<h3>11. Embriaguez e imputabilidade (CP, art. 28)</h3>\n<ul><li><b>Regra</b>: a embriaguez <b>voluntária ou culposa</b>, pelo álcool ou substância de efeitos análogos, <b>não exclui a imputabilidade</b> (CP, art. 28, II). Quem bebeu porque quis (voluntária) ou bebeu demais por descuido (culposa) responde pelo crime.</li><li><b>Actio libera in causa</b> (\"ação livre na causa\"): a responsabilidade se apoia no momento em que a pessoa, ainda <b>livre</b>, decidiu beber. É o fundamento da regra do art. 28, II.</li><li><b>Embriaguez acidental</b> (proveniente de <b>caso fortuito ou força maior</b>): a pessoa não sabia ou não podia evitar (bebida \"batizada\", ingestão forçada, reação inesperada a um remédio). Se <b>completa</b> e torna o agente <b>inteiramente incapaz</b> de entender o caráter ilícito do fato ou de se determinar, há <b>isenção de pena</b> (art. 28, § 1º); se <b>incompleta</b>, há <b>redução de pena</b> de 1/3 a 2/3 (art. 28, § 2º).</li><li><b>Embriaguez preordenada</b>: a pessoa se embriaga <b>para</b> cometer o crime (para ter \"coragem\"). É <b>agravante</b> (CP, art. 61, II, <i>l</i>).</li><li><b>Embriaguez patológica</b> e <b>alcoolismo crônico</b> com doença mental: tratados como <b>doença mental</b> (art. 26), conforme a perícia psiquiátrica. O tema é aprofundado em Psicopatologia médico-legal.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de embriaguez</th><th>Efeito penal</th></tr></thead><tbody><tr><td><b>Voluntária</b> ou <b>culposa</b></td><td><b>não exclui</b> a imputabilidade (art. 28, II)</td></tr><tr><td><b>Acidental completa</b> (caso fortuito ou força maior)</td><td><b>isenta de pena</b> (art. 28, § 1º)</td></tr><tr><td><b>Acidental incompleta</b></td><td><b>reduz</b> a pena de 1/3 a 2/3 (art. 28, § 2º)</td></tr><tr><td><b>Preordenada</b></td><td><b>agrava</b> a pena (art. 61, II, <i>l</i>)</td></tr><tr><td><b>Patológica</b> / doença mental</td><td>regras do <b>art. 26</b> (inimputabilidade ou semi-imputabilidade)</td></tr></tbody></table>\n<h3>12. Drogas de abuso: efeitos e achados</h3>\n<table class=\"tab\"><thead><tr><th>Substância</th><th>Classe</th><th>Efeitos e riscos</th><th>Detecção (ideia geral)</th></tr></thead><tbody><tr><td><b>Cocaína</b> (pó aspirado ou injetado) e <b>crack</b> (fumado)</td><td><b>estimulante</b></td><td>euforia, agitação, pupilas <b>dilatadas</b> (midríase), taquicardia, hipertensão, <b>paranoia</b>; riscos: <b>arritmias</b>, <b>infarto</b>, <b>AVC</b>, <b>hipertermia</b>, convulsões, \"<b>delirium</b> agitado\"</td><td>sangue e urina por horas a poucos dias; cabelo por meses</td></tr><tr><td><b>Maconha</b> (THC)</td><td>perturbadora/depressora leve</td><td>olhos avermelhados, fome, alterações da percepção do tempo, da memória e da coordenação; ansiedade e episódios psicóticos em alguns</td><td>no usuário <b>crônico</b>, a urina pode ficar positiva por <b>semanas</b>, mesmo sem efeito atual</td></tr><tr><td><b>Opioides</b> (morfina, heroína, fentanil, codeína)</td><td><b>depressores</b></td><td>sonolência, <b>miose</b> (pupilas puntiformes), <b>depressão respiratória</b> (principal causa de morte por overdose), edema pulmonar</td><td>marcas de injeção; o fentanil é muito potente em doses mínimas</td></tr><tr><td><b>Anfetaminas</b> e <b>ecstasy</b> (MDMA)</td><td><b>estimulantes</b></td><td>agitação, hipertermia, desidratação ou excesso de água com queda do sódio no sangue, arritmias; mortes em festas</td><td>sangue e urina</td></tr><tr><td><b>Alucinógenos</b> (LSD, cogumelos)</td><td><b>perturbadores</b></td><td>alterações da percepção, ilusões, alucinações; risco de acidentes e comportamento perigoso</td><td>difícil detecção</td></tr><tr><td><b>Benzodiazepínicos</b> (calmantes)</td><td><b>depressores</b></td><td>sono, amnésia, incoordenação; muito perigosos <b>com álcool</b></td><td>sangue e urina</td></tr><tr><td><b>Solventes e inalantes</b> (cola, \"lança-perfume\", \"loló\")</td><td><b>depressores</b></td><td>euforia breve, tontura; risco de <b>morte súbita</b> por arritmia e por asfixia (saco plástico)</td><td>difícil, voláteis</td></tr></tbody></table>\n<ul><li><b>Classificação didática</b>: <b>depressores</b> (álcool, opioides, calmantes, solventes), <b>estimulantes</b> (cocaína, crack, anfetaminas) e <b>perturbadores</b> ou alucinógenos (LSD, maconha em parte da doutrina, cogumelos).</li><li><b>Pupilas</b>: <b>miose</b> (pequenas) nos <b>opioides</b> e nos <b>organofosforados/carbamatos</b>; <b>midríase</b> (grandes) nos <b>estimulantes</b> (cocaína, anfetaminas) e em alguns alucinógenos. É dado clínico muito cobrado.</li><li><b>Mortes de \"mulas\"</b> (pessoas que transportam drogas <b>dentro do corpo</b>, em cápsulas engolidas ou introduzidas): a ruptura de uma cápsula de cocaína provoca intoxicação maciça e morte rápida. A radiografia ou a tomografia do abdome mostra as cápsulas, e a necropsia as recupera como <b>prova</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Opioides causam pupilas dilatadas</span><br>✅ <span class=\"certo\">Causam <b>miose</b> (pupilas puntiformes); <b>estimulantes</b> dilatam</span></li><li>❌ <span class=\"banca\">Urina positiva para maconha prova que a pessoa estava sob efeito no momento do fato</span><br>✅ <span class=\"certo\">No usuário crônico, a urina fica positiva por <b>semanas</b>; o efeito atual se avalia melhor pelo <b>sangue</b> e pelo exame clínico</span></li><li>❌ <span class=\"banca\">A principal causa de morte na overdose de opioides é a arritmia</span><br>✅ <span class=\"certo\">É a <b>depressão respiratória</b></span></li></ol></div>\n<h3>13. \"Boa noite, Cinderela\" e drogas usadas para dopar vítimas</h3>\n<ul><li>Expressão popular para o uso de substâncias, colocadas em bebidas ou alimentos, para deixar a vítima <b>sonolenta, confusa, sem capacidade de reagir e com amnésia</b>, para <b>roubos</b> e <b>crimes sexuais</b>. São usados <b>benzodiazepínicos</b> e outros sedativos, o <b>GHB</b> e a <b>escopolamina</b>, frequentemente <b>com álcool</b>.</li><li><b>Dificuldade pericial</b>: muitas dessas substâncias têm <b>janela de detecção curta</b> (horas) e a vítima, com amnésia, demora a procurar ajuda. Por isso: <b>coletar sangue e urina o mais cedo possível</b> (a urina amplia um pouco a janela), registrar a <b>hora</b> provável da ingestão, guardar copos e bebidas e, quando a coleta for tardia, considerar o exame do <b>cabelo</b> (pode mostrar a exposição semanas depois, em segmentos específicos).</li><li><b>Direito</b>: dopar a vítima é meio para <b>roubo</b> (a substância reduz a possibilidade de resistência, caracterizando a violência imprópria) e, em crimes sexuais, a vítima que <b>não pode oferecer resistência</b> é considerada <b>vulnerável</b> (estupro de vulnerável, CP, art. 217-A, § 1º).</li></ul>\n<h3>14. Toxicomanias e Lei de Drogas</h3>\n<ul><li><b>Toxicomania</b> (dependência química) é o uso repetido e compulsivo de substância, com <b>tolerância</b>, <b>abstinência</b> e perda de controle, apesar dos prejuízos. A dependência é reconhecida como <b>doença</b> e pode ter reflexos na <b>imputabilidade</b>.</li><li><b>Dependência e pena</b> (Lei 11.343/2006): é <b>isento de pena</b> o agente que, <b>em razão da dependência</b>, ou sob o efeito, proveniente de <b>caso fortuito ou força maior</b>, de droga, era, ao tempo da ação ou da omissão, <b>qualquer que tenha sido a infração penal praticada</b>, <b>inteiramente incapaz</b> de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento (art. 45). Se a capacidade estava apenas <b>reduzida</b>, a pena pode ser reduzida de <b>1/3 a 2/3</b> (art. 46). Isso exige <b>perícia</b> (exame de <b>dependência toxicológica</b>).</li><li><b>Laudos</b> (art. 50): para a <b>prisão em flagrante</b> e a <b>materialidade</b> provisória, basta o <b>laudo de constatação</b> da natureza e da quantidade da droga, feito por <b>perito oficial</b> ou, na falta, por <b>pessoa idônea</b>; para a <b>condenação</b>, exige-se, em regra, o <b>laudo definitivo</b> (exame químico toxicológico). O perito que fez o laudo de constatação <b>não fica impedido</b> de fazer o definitivo.</li><li><b>Usuário x traficante</b> (art. 28, § 2º): para determinar se a droga se destinava a <b>consumo pessoal</b>, o juiz atende à <b>natureza e à quantidade</b> da substância, ao <b>local e às condições</b> em que se desenvolveu a ação, às <b>circunstâncias sociais e pessoais</b>, bem como à <b>conduta e aos antecedentes</b> do agente.</li><li><b>STF (RE 635.659, 2024)</b>: o Supremo decidiu que o <b>porte de maconha para consumo pessoal</b> não tem natureza <b>penal</b> (é ilícito de natureza <b>administrativa</b>) e fixou que se <b>presume usuário</b> quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo <b>até 40 gramas de cannabis</b> ou <b>seis plantas fêmeas</b>, presunção <b>relativa</b>, que pode ser afastada por outros elementos que indiquem tráfico (balança, embalagens, anotações, forma de acondicionamento). A decisão vale para a <b>maconha</b>, não para outras drogas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O laudo de constatação basta para condenar por tráfico</span><br>✅ <span class=\"certo\">Basta para o <b>flagrante</b> e a materialidade provisória; para condenar, em regra, o <b>laudo definitivo</b></span></li><li>❌ <span class=\"banca\">A presunção de usuário do STF vale para qualquer droga até 40 g</span><br>✅ <span class=\"certo\">Vale para a <b>maconha</b> (40 g ou 6 plantas fêmeas), e é <b>relativa</b></span></li><li>❌ <span class=\"banca\">O dependente químico é sempre isento de pena</span><br>✅ <span class=\"certo\">Só se, <b>em razão da dependência</b>, era <b>inteiramente incapaz</b> ao tempo do fato (art. 45), o que exige <b>perícia</b></span></li></ol></div>\n<h3>15. Casos práticos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Acidente com morte</b><p>Um motorista atropela e mata um pedestre às 22h. Recusa o etilômetro. Os policiais filmam o condutor com fala arrastada, hálito alcoólico e dificuldade de ficar em pé, e ele é levado ao IML às 23h30, onde o exame clínico conclui por sinais de embriaguez.</p><details><summary>Ver a solução comentada</summary><p>A <b>recusa</b> gera a infração do art. 165-A, mas <b>não impede</b> a prova do crime: o <b>vídeo</b>, a constatação de <b>sinais</b> pelos policiais (registrada em termo próprio) e o <b>exame clínico</b> demonstram a <b>alteração da capacidade psicomotora</b> (art. 306, § 1º, II, e § 2º). Se houver coleta de sangue autorizada, o perito pode estimar retrospectivamente a alcoolemia das 22h, com cautela. No homicídio no trânsito, a embriaguez interessa à qualificação jurídica (CTB, art. 302, § 3º, e discussões sobre dolo eventual).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Mulher dopada em festa</b><p>Uma mulher acorda em local desconhecido, sem lembrar das últimas horas, com sinais de violência sexual. Procura a polícia 2 dias depois.</p><details><summary>Ver a solução comentada</summary><p>Encaminhá-la <b>imediatamente</b> para exame (sexológico e coleta de material para DNA) e <b>toxicológico</b> (sangue e <b>urina</b>), registrando a hora provável da ingestão. Muitos sedativos já podem ter sumido do sangue; a <b>urina</b> amplia um pouco a janela e o <b>cabelo</b> pode ser analisado depois. A ausência de droga no exame <b>não exclui</b> que ela tenha sido dopada. Se demonstrado que não podia oferecer resistência, o crime é <b>estupro de vulnerável</b> (CP, art. 217-A, § 1º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Família morta em casa</b><p>Um casal e dois filhos são encontrados mortos em casa, sem lesões, com livores vermelho-carmim. Havia um aquecedor a gás no banheiro, sem ventilação.</p><details><summary>Ver a solução comentada</summary><p>A cor <b>vermelho-carmim</b> dos livores sugere <b>monóxido de carbono</b>; a dosagem da <b>carboxi-hemoglobina</b> confirma. A perícia do local verifica o aquecedor (combustão incompleta, ausência de exaustão). A causa jurídica provável é <b>acidente</b>, e a investigação apura <b>responsabilidade</b> pela instalação irregular (homicídio culposo).</p></details></div>\n<h3>16. Nomes e conceitos da dependência</h3>\n<ul><li><b>Expressões sinônimas</b> usadas na doutrina e nas provas: <b>toxicomania</b>, <b>drogadição</b>, <b>farmacodependência</b>, <b>dependência química</b> e <b>adicção</b>. Todas indicam o uso <b>compulsivo</b> de substância psicoativa, com perda de controle.</li><li><b>Uso</b>, <b>abuso</b> (ou uso nocivo) e <b>dependência</b> são graus diferentes: o <b>uso</b> pode ser ocasional e sem prejuízo evidente; o <b>uso nocivo</b> já causa danos à saúde física ou mental; a <b>dependência</b> envolve <b>compulsão</b>, <b>tolerância</b>, <b>abstinência</b>, abandono de outras atividades e persistência no uso apesar dos prejuízos.</li><li><b>Dependência física</b> x <b>psíquica</b>: a física se revela pela <b>síndrome de abstinência</b> com sintomas corporais (tremores, suor, convulsões, como no álcool e nos calmantes); a psíquica, pelo <b>desejo intenso</b> (fissura) de usar, marcante na cocaína e no crack.</li><li><b>Interesse jurídico</b>: a dependência pode afetar a <b>imputabilidade</b> (Lei 11.343/2006, arts. 45 e 46; CP, art. 26), a <b>capacidade civil</b> (interdição parcial, curatela), a <b>guarda de filhos</b>, a aptidão para <b>dirigir</b> e para <b>cargos públicos</b>, e justificar medidas de <b>tratamento</b>.</li></ul>\n<h3>17. Alcoolismo crônico e intoxicação alcoólica grave</h3>\n<ul><li><b>Intoxicação alcoólica aguda grave</b> (coma alcoólico): com alcoolemias <b>muito altas</b> (na faixa de <b>3 a 4 gramas por litro</b> ou mais, em quem não tem tolerância), a pessoa pode entrar em coma e morrer por <b>depressão respiratória</b>, <b>aspiração do vômito</b>, <b>hipotermia</b> ou <b>hipoglicemia</b>. Jovens que bebem grandes quantidades em pouco tempo (competições, \"virar a garrafa\") estão em risco especial. Pessoas com tolerância suportam concentrações maiores, mas o risco continua.</li><li><b>Alcoolismo crônico</b>: lesões do <b>fígado</b> (esteatose, hepatite, <b>cirrose</b>), do <b>pâncreas</b>, do <b>coração</b>, do <b>sistema nervoso</b> (neuropatia, demência) e quadros psiquiátricos.</li><li><b>Abstinência alcoólica</b>: tremores, sudorese, ansiedade, insônia e, nos casos graves, <b>convulsões</b> e <b>delirium tremens</b> (confusão, agitação, <b>alucinações</b> visuais, muitas vezes com insetos ou animais, febre), que pode matar. Ocorre em geral <b>alguns dias</b> depois de parar de beber, inclusive em <b>presos</b> recém-detidos, que precisam de avaliação médica.</li><li><b>Síndrome de Wernicke-Korsakoff</b>: lesão cerebral por falta de <b>vitamina B1</b> (tiamina) em alcoolistas, com confusão, alterações dos movimentos dos olhos, desequilíbrio e grave <b>perda de memória</b>, às vezes com <b>confabulação</b> (a pessoa \"preenche\" a memória com relatos inventados, sem intenção de mentir), o que interessa à avaliação de <b>depoimentos</b>.</li><li><b>Síndrome alcoólica fetal</b>: o álcool consumido na gravidez pode causar no bebê baixo peso, alterações do rosto e <b>deficiência intelectual</b>.</li></ul>\n<h3>18. Exame toxicológico de larga janela e trânsito</h3>\n<ul><li><b>Motoristas profissionais</b>: o CTB (art. 148-A) exige que os condutores das categorias <b>C, D e E</b> se submetam a <b>exame toxicológico</b> com <b>janela de detecção</b> de pelo menos <b>90 dias</b> (geralmente feito em <b>cabelo</b> ou pelos), para obter e renovar a habilitação e também <b>periodicamente</b>, conforme a lei. O objetivo é detectar o uso de substâncias que comprometem a segurança no trânsito (como estimulantes usados para \"aguentar\" longas jornadas).</li><li><b>Outras substâncias e o art. 306</b>: o crime de embriaguez ao volante abrange <b>qualquer substância psicoativa que determine dependência</b> (não só o álcool). Para drogas, não há um número fixo como para o álcool: a prova vem dos <b>sinais</b> de alteração da capacidade psicomotora, do <b>exame clínico</b> e de exames <b>toxicológicos</b> (sangue, saliva, urina), sempre lembrando que a urina pode mostrar uso <b>antigo</b> sem efeito atual.</li><li><b>Medicamentos</b>: calmantes, alguns antialérgicos, antidepressivos e analgésicos fortes também prejudicam a direção; quem dirige sob seu efeito, com capacidade alterada, pode responder pelo art. 306.</li></ul>\n<h3>19. Interface com a psiquiatria forense</h3>\n<ul><li><b>Exame de insanidade mental</b> (CPP, art. 149): <b>havendo dúvida</b> sobre a <b>integridade mental</b> do acusado (inclusive por dependência química grave ou psicose induzida por drogas), o juiz ordena, de ofício ou a requerimento das partes e parentes, que ele seja submetido a exame médico-legal; no inquérito, mediante <b>representação</b> da autoridade policial.</li><li><b>Medida de segurança</b>: o inimputável que comete fato típico e ilícito recebe <b>medida de segurança</b> (internação ou tratamento ambulatorial), não pena. Segundo a <b>Súmula 527 do STJ</b>, o tempo de duração da medida de segurança <b>não deve ultrapassar o limite máximo da pena abstratamente cominada</b> ao delito praticado.</li><li><b>Internação para tratamento de dependência</b> (fora do processo penal): a Lei 10.216/2001 prevê internação psiquiátrica <b>voluntária</b> (com consentimento), <b>involuntária</b> (sem consentimento, a pedido de terceiro) e <b>compulsória</b> (determinada pela <b>Justiça</b>). A Lei 13.840/2019 incluiu na Lei de Drogas a possibilidade de <b>internação involuntária</b> de dependentes, pelo prazo <b>máximo de 90 dias</b>, mediante pedido de familiar ou responsável legal ou de servidor da área de saúde, assistência social ou órgãos do Sisnad, formalizada por médico, como <b>última opção</b> quando os outros recursos forem insuficientes.</li><li><b>Psicoses induzidas por drogas</b>: cocaína, crack, anfetaminas, maconha (em pessoas predispostas) e alucinógenos podem provocar <b>quadros psicóticos</b> (delírios de perseguição, alucinações) durante o uso ou logo depois. A avaliação da imputabilidade, nesses casos, depende de perícia psiquiátrica e da análise da origem do uso (voluntária ou não).</li></ul>\n<h3>20. Questões discursivas comentadas</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 1</b><p>\"Um condutor envolvido em acidente recusa o etilômetro e a coleta de sangue. Explique as consequências administrativas e como pode ser provado o crime de embriaguez ao volante.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: a <b>recusa</b> é direito ligado à <b>não autoincriminação</b>, mas gera a <b>infração administrativa gravíssima</b> do art. <b>165-A</b> do CTB (multa multiplicada por dez, suspensão do direito de dirigir por 12 meses, recolhimento da habilitação e retenção do veículo). O <b>crime</b> do art. <b>306</b> pode ser provado por <b>outros meios</b>: <b>sinais</b> de alteração da capacidade psicomotora constatados pelos agentes (registrados em termo próprio), <b>exame clínico</b> feito por médico (hálito, fala, marcha, equilíbrio, Romberg, nistagmo, orientação), <b>vídeos</b> e <b>prova testemunhal</b> (art. 306, § 1º, II, e § 2º). A recusa, por si, <b>não prova</b> a embriaguez nem é crime.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 2</b><p>\"Diferencie as lesões produzidas por ácidos e por bases e explique o que é vitriolagem e suas consequências penais.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: os <b>ácidos</b> produzem <b>necrose de coagulação</b>, com <b>escara seca, dura</b> e de cor característica (escura no sulfúrico, amarelada no nítrico, acinzentada no clorídrico), que dificulta a penetração; as <b>bases</b> produzem <b>necrose de liquefação</b>, com lesões <b>moles, úmidas e profundas</b>, que continuam avançando enquanto não removidas. <b>Vitriolagem</b> é <b>lançar substância cáustica</b> em outra pessoa, em geral no rosto, para desfigurar. Pode caracterizar lesão <b>gravíssima</b> por <b>deformidade permanente</b> e <b>perda ou inutilização</b> de sentido (visão), além do <b>meio cruel</b>; em contexto de violência contra a mulher, aplica-se a <b>Lei Maria da Penha</b>. Se houver intenção de matar, pode configurar tentativa de homicídio qualificado.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 3</b><p>\"Quais cuidados devem ser tomados na coleta de material para exame toxicológico em cadáver?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: coletar <b>antes</b> de qualquer tratamento do corpo; preferir <b>sangue periférico</b> (femoral), pela <b>redistribuição post mortem</b>, e colher também <b>urina</b>, <b>humor vítreo</b> (útil para álcool e protegido da putrefação), <b>conteúdo gástrico</b> e vísceras (fígado, rins), e, em corpos decompostos, músculo, cabelo e até larvas; usar frascos limpos e adequados, com conservante quando indicado; <b>identificar, lacrar e registrar</b> cada amostra (cadeia de custódia); refrigerar; anotar horários. Na interpretação, considerar a <b>neoformação de álcool</b> pela putrefação, a redistribuição e a <b>tolerância</b> do falecido.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 5</b><p>\"Explique as consequências da embriaguez para a imputabilidade penal, distinguindo as espécies previstas no Código Penal.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: o CP adota a regra de que a embriaguez <b>voluntária</b> (a pessoa quis beber) ou <b>culposa</b> (bebeu demais por imprudência), pelo álcool ou substância de efeitos análogos, <b>não exclui</b> a imputabilidade (art. 28, II), com fundamento na <b>actio libera in causa</b>: no momento em que decidiu beber, o agente era livre. A embriaguez <b>acidental</b>, proveniente de <b>caso fortuito</b> (a pessoa não sabia que a bebida tinha álcool ou desconhecia a reação) ou <b>força maior</b> (foi obrigada a beber), quando <b>completa</b> e torna o agente <b>inteiramente incapaz</b> de entender o caráter ilícito do fato ou de se determinar, <b>isenta de pena</b> (art. 28, § 1º); quando <b>incompleta</b>, <b>reduz</b> a pena de 1/3 a 2/3 (art. 28, § 2º). A embriaguez <b>preordenada</b>, buscada para praticar o crime, é <b>agravante</b> (art. 61, II, *l*). A embriaguez <b>patológica</b> e o alcoolismo com doença mental seguem o regime do <b>art. 26</b> (inimputabilidade ou semi-imputabilidade), conforme a perícia psiquiátrica.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 6</b><p>\"Uma vítima de roubo relata ter aceitado uma bebida de desconhecidos e acordado horas depois sem a carteira e o celular. Quais providências periciais devem ser tomadas e quais as dificuldades da prova?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: encaminhar a vítima <b>imediatamente</b> à coleta de <b>sangue</b> e <b>urina</b> para exame toxicológico (sedativos como benzodiazepínicos, GHB e escopolamina, além do álcool), registrando a <b>hora provável</b> da ingestão e da coleta; guardar e lacrar copos, garrafas e restos de bebida, se houver; considerar exame do <b>cabelo</b> se a coleta for tardia. As dificuldades são a <b>janela de detecção curta</b> dessas substâncias (horas), a <b>amnésia</b> da vítima e a demora em procurar a polícia, de modo que um resultado <b>negativo não exclui</b> que ela tenha sido dopada. A prova se completa com testemunhas, câmeras e o rastreamento dos bens. Juridicamente, o uso da substância para impedir a resistência caracteriza o <b>roubo</b>, por violência imprópria.</p></details></div>\n<ul><li><b>Mitos frequentes sobre o álcool</b> (e por que a perícia os desmente): \"<b>café, banho frio ou vômito curam a bebedeira</b>\" (não aceleram de forma relevante a eliminação, que depende do <b>fígado</b>); \"<b>quem está acostumado a beber não fica bêbado</b>\" (a <b>tolerância</b> reduz os sinais aparentes, mas a capacidade de dirigir e os reflexos continuam prejudicados, e a alcoolemia é a mesma); \"<b>cerveja não embriaga</b>\" (o que conta é a <b>quantidade de álcool</b> ingerida, não o tipo de bebida); \"<b>se a pessoa consegue andar e falar, não está embriagada</b>\" (os prejuízos de <b>atenção, tempo de reação e julgamento</b> aparecem antes dos sinais grosseiros, e é por isso que o CTB pune qualquer concentração); \"<b>enxaguante bucal ou bala engana o bafômetro</b>\" (o etilômetro mede o álcool do <b>ar alveolar</b>; resíduos na boca podem até <b>aumentar</b> a leitura momentaneamente, e os protocolos preveem espera e repetição do teste).</li><li><b>Para fixar a lógica do tópico</b>: em toda intoxicação, a perícia responde a quatro perguntas: <b>qual</b> substância (identificação), <b>quanto</b> (concentração), <b>quando</b> (janela de detecção, sinais de uso recente ou crônico) e <b>com que efeito</b> (relação com a morte, a lesão ou o comportamento, considerando tolerância e associações). Quem domina essas perguntas consegue interpretar os laudos e formular quesitos úteis.</li><li><b>Quesitos úteis que a autoridade pode formular</b> em casos de intoxicação: \"Há substância tóxica ou psicoativa no material examinado? Qual?\"; \"Em que concentração? Ela é compatível com uso terapêutico, com intoxicação ou com dose potencialmente letal?\"; \"A substância causou ou contribuiu para a morte (ou para a lesão)?\"; \"Há associação de substâncias que potencialize os efeitos?\"; \"É possível estimar quando houve a ingestão?\"; \"Os sinais clínicos descritos são compatíveis com a substância encontrada?\"; \"A vítima estava em condições de oferecer resistência?\". Perguntas bem feitas geram respostas úteis e evitam laudos genéricos que pouco ajudam o processo.</li><li><b>Envenenamento como crime silencioso</b>: diferentemente da facada ou do tiro, o envenenamento não deixa marcas evidentes e pode ser confundido com <b>doença</b> ou <b>morte natural</b>, sobretudo em idosos e doentes. Ao longo da história, muitos casos só foram descobertos depois de <b>várias mortes</b> no mesmo ambiente, por desconfiança de familiares ou por coincidências percebidas por médicos. Por isso, mortes <b>súbitas e inexplicadas</b>, quadros repetidos de vômitos, diarreia ou confusão em pessoas próximas, e heranças ou seguros recentes merecem atenção. A <b>exumação</b> com coleta de cabelo, unhas e tecidos pode revelar, anos depois, venenos como o <b>arsênico</b>, que permanecem no corpo. O trabalho conjunto entre investigação, médicos assistentes e perícia é o que permite descobrir esses casos.</li><li><b>Por que o tópico cai tanto em provas policiais</b>: o policial é, muitas vezes, o primeiro a ter contato com a pessoa intoxicada, com o local do envenenamento ou com o motorista embriagado. As bancas cobram justamente o que ele precisa saber na prática: reconhecer os sinais, preservar o material, encaminhar a coleta no tempo certo, conhecer as regras do CTB e da Lei de Drogas e entender o que o laudo pode ou não provar.</li><li><b>Ética e cuidado no atendimento</b>: a pessoa intoxicada (por álcool, drogas ou medicamentos) é, antes de tudo, alguém que pode estar em <b>risco de vida</b>. A prioridade é o <b>socorro</b>; a coleta de provas vem junto, sem atrasar o atendimento. Em tentativas de suicídio por intoxicação, o acolhimento e o encaminhamento para acompanhamento de saúde mental são parte essencial da resposta do Estado.</li></ul>\n<h3>21. Ligações com outros tópicos e com o trabalho policial</h3>\n<ul><li><b>Com a Psicopatologia</b>: imputabilidade, embriaguez patológica, dependência e medida de segurança.</li><li><b>Com as Energias físicas e a Asfixiologia</b>: monóxido de carbono e cianeto nos incêndios; álcool favorecendo hipotermia, afogamento e asfixia posicional.</li><li><b>Com a Sexologia forense</b>: drogas usadas para dopar vítimas de crimes sexuais e o estupro de vulnerável.</li><li><b>Com a Tanatologia</b>: neoformação de álcool na putrefação, larvas como material toxicológico, tempo de morte.</li><li><b>Com o trabalho policial</b>: registrar os <b>sinais</b> de embriaguez com detalhe (termo de constatação), oferecer o etilômetro e encaminhar ao <b>exame clínico</b>; em vítimas de \"boa noite, Cinderela\", encaminhar <b>imediatamente</b> à coleta de sangue e urina; preservar <b>embalagens, copos, garrafas, seringas e comprimidos</b> no local; em mortes suspeitas, informar ao perito medicamentos e substâncias encontrados; em drogas apreendidas, providenciar o <b>laudo de constatação</b> para o flagrante e o <b>definitivo</b> para o processo; observar <b>presos</b> recém-detidos com risco de <b>abstinência</b> (delirium tremens) ou de <b>intoxicação</b> (cápsulas engolidas).</li><li><b>Dica final de estudo</b>: organize uma tabela com as substâncias (CO, cianeto, chumbinho, arsênico, estricnina, metanol, cocaína, opioides) e, para cada uma, anote: cor dos livores, pupilas, sinal característico e uso criminoso típico. Depois, faça as questões e o <b>Treino de pegadinhas</b>.</li></ul>\n<h3>22. Peçonhas: acidentes com animais</h3>\n<ul><li><b>Veneno x peçonha</b>: em linguagem técnica, <b>animal peçonhento</b> é o que tem <b>aparelho para injetar</b> o veneno (presas de serpentes, ferrão de escorpião, quelíceras de aranhas); <b>animal venenoso</b> tem veneno, mas não tem como injetá-lo (por exemplo, sapos com glândulas na pele).</li><li><b>Serpentes</b> (principais gêneros no Brasil): <b>jararaca</b> (*Bothrops*), a mais frequente, causa dor, inchaço, equimoses, bolhas e necrose no local e distúrbios da <b>coagulação</b> (sangramentos); <b>cascavel</b> (*Crotalus*) causa poucos sinais locais, mas efeitos <b>neurológicos</b> (pálpebras caídas, visão turva, \"face miastênica\") e lesão <b>muscular</b> com urina escura e <b>insuficiência renal</b>; <b>surucucu</b> (*Lachesis*), na mata densa; <b>coral-verdadeira</b> (*Micrurus*), rara, mas com veneno <b>neurotóxico</b> potente (paralisia respiratória). O tratamento é o <b>soro</b> específico.</li><li><b>Escorpiões</b>: o escorpião-amarelo (*Tityus serrulatus*) é o mais perigoso; causa dor intensa e, em <b>crianças</b>, pode provocar vômitos, sudorese, alterações cardíacas e respiratórias e morte.</li><li><b>Aranhas</b>: a <b>armadeira</b> (dor intensa, efeitos sistêmicos em crianças), a <b>aranha-marrom</b> (*Loxosceles*, lesão que necrosa e, às vezes, destruição de glóbulos vermelhos) e a <b>viúva-negra</b>.</li><li><b>Interesse forense</b>: quase sempre <b>acidentes</b>, inclusive de <b>trabalho</b> (trabalhadores rurais). Raramente, o animal é usado como instrumento de crime. Em mortes, o perito procura a <b>marca da picada</b> (dois orifícios das presas nas serpentes), os efeitos locais e sistêmicos e faz exames que mostrem as alterações típicas (coagulação, lesão muscular). A <b>demora no socorro</b> e a falta de soro podem ser apuradas em casos de responsabilidade.</li></ul>\n<h3>23. Intoxicações em crianças e idosos</h3>\n<ul><li><b>Crianças pequenas</b> levam tudo à boca: intoxicações <b>acidentais</b> por <b>medicamentos</b> deixados ao alcance, <b>produtos de limpeza</b> (sobretudo os guardados em garrafas de refrigerante), <b>raticidas</b> (chumbinho), plantas ornamentais e bebidas alcoólicas. A investigação verifica <b>onde</b> estava o produto e se houve <b>negligência</b> grave dos responsáveis.</li><li><b>Intoxicação intencional de crianças</b>: dar sedativos para a criança \"dormir\", álcool, ou substâncias para provocar sintomas (como na <b>Munchausen por procuração</b>), ou envenenamento homicida. Achados toxicológicos <b>inesperados</b> em criança (calmantes, opioides) exigem investigação.</li><li><b>Idosos</b>: erros de dose, confusão entre medicamentos, interações entre muitos remédios (polifarmácia) e, em casos de <b>maus-tratos</b>, sedação excessiva para \"dar menos trabalho\" ou, ao contrário, <b>privação</b> de medicamentos necessários. A perícia compara a prescrição com as substâncias encontradas e suas concentrações.</li><li><b>Prevenção</b>: medicamentos e produtos químicos trancados e nas embalagens originais; raticidas ilegais (chumbinho) <b>nunca</b> em casa; cuidado com plantas tóxicas. Para o policial, o local deve ser examinado com atenção a <b>frascos vazios</b>, cartelas de comprimidos e embalagens.</li></ul>\n<h3>24. Drogas, violência e custódia</h3>\n<ul><li><b>Drogas e crimes</b>: o álcool e as drogas aparecem associados a grande parte dos homicídios, das lesões corporais, da violência doméstica e dos acidentes de trânsito, tanto do lado do <b>autor</b> quanto da <b>vítima</b>. Por isso, em mortes violentas, a necropsia costuma incluir <b>pesquisa toxicológica</b> (álcool e drogas) também na <b>vítima</b>: o resultado ajuda a reconstruir a dinâmica (a vítima estava incapacitada? agitada? sob efeito de estimulante?).</li><li><b>Presos e custodiados</b>: logo após a prisão, podem surgir quadros graves: <b>abstinência</b> de álcool (delirium tremens) ou de calmantes (convulsões); <b>intoxicação</b> por cápsulas de drogas <b>engolidas</b> para escondê-las durante a abordagem (risco de ruptura e morte); <b>delirium agitado</b> por estimulantes. O preso que piora deve ser levado <b>imediatamente</b> ao atendimento médico; a omissão pode gerar responsabilidade.</li><li><b>Exame de corpo de delito do preso</b> e da pessoa detida em flagrante: registra o estado físico e, quando necessário, sinais de intoxicação. Ajuda a proteger o preso e os agentes.</li><li><b>Apreensão de drogas e medicamentos</b>: comprimidos, pós, líquidos, selos (LSD), plantas e cigarros devem ser <b>descritos, pesados ou contados, lacrados e encaminhados</b> à perícia, com cadeia de custódia, para o <b>laudo de constatação</b> e o <b>definitivo</b>. Novas drogas sintéticas surgem com frequência; o laudo identifica a substância e verifica se está na lista de proscritas da autoridade sanitária.</li></ul>\n<h3>25. Mais uma questão discursiva comentada</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 4</b><p>\"Um homem é encontrado morto em casa, com espuma na boca, pupilas puntiformes, roupas encharcadas de suor e vômitos. Ao lado, há grânulos escuros espalhados no chão. Que hipótese o quadro sugere e quais exames confirmam?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: o quadro sugere intoxicação por <b>carbamato</b> ou <b>organofosforado</b> (como o \"<b>chumbinho</b>\"), que inibe a <b>acetilcolinesterase</b> e provoca a <b>síndrome colinérgica</b>: <b>miose</b> (pupilas puntiformes), <b>salivação</b> e secreções abundantes (espuma), <b>sudorese</b>, vômitos, broncorreia, bradicardia e fasciculações, com morte por <b>insuficiência respiratória</b>. Confirmam: o achado dos <b>grânulos</b> no <b>conteúdo gástrico</b>, a <b>análise química</b> do material do local e das vísceras e a <b>dosagem da colinesterase</b> no sangue (diminuída). A investigação define se foi <b>suicídio</b> (frequente), <b>acidente</b> ou <b>homicídio</b> (substância colocada em alimento ou bebida), examinando o local, embalagens e a história.</p></details></div>\n<h3>26. Como ler um laudo toxicológico</h3>\n<ul><li><b>Exame qualitativo x quantitativo</b>: o <b>qualitativo</b> responde <b>se</b> a substância está presente (positivo ou negativo); o <b>quantitativo</b> informa <b>quanto</b> há (concentração). Para concluir que uma substância <b>causou</b> a morte ou alterou o comportamento, em regra é preciso o <b>quantitativo</b>, comparado com faixas de referência.</li><li><b>Faixas de referência</b>: para muitas substâncias, a literatura descreve concentrações <b>terapêuticas</b> (dose de tratamento), <b>tóxicas</b> e <b>potencialmente letais</b>. Essas faixas <b>se sobrepõem</b> e variam com a <b>tolerância</b> (um usuário crônico de opioide pode ter, vivo, concentrações que matariam outra pessoa), com a <b>associação</b> de substâncias e com as alterações <b>post mortem</b>. Por isso o laudo costuma dizer que a concentração é \"<b>compatível com</b>\" intoxicação, e a conclusão final considera a necropsia, a história e o local.</li><li><b>Substância presente não significa causa da morte</b>: uma pessoa pode ter álcool, maconha ou calmante no sangue e ter morrido de facada. O perito separa o <b>achado</b> (substância detectada) da <b>causa da morte</b> (o que matou) e das <b>concausas</b> (o que contribuiu).</li><li><b>Metabólitos</b>: muitas vezes o exame encontra não a droga original, mas os produtos de sua transformação no corpo (metabólitos). Alguns indicam <b>uso recente</b>; outros permanecem por muito tempo e indicam apenas <b>uso em algum momento</b>. A cocaína, por exemplo, transforma-se rapidamente em metabólitos que ficam na urina por mais tempo que a droga original.</li><li><b>Combinações</b>: álcool com cocaína forma no corpo uma substância própria (o cocaetileno), associada a maior toxicidade cardíaca; álcool com calmantes e opioides soma a <b>depressão respiratória</b>. O laudo deve listar <b>todas</b> as substâncias encontradas.</li><li><b>Limites do exame</b>: nenhum laboratório procura \"tudo\". O exame busca as substâncias <b>mais comuns</b> e as <b>suspeitas</b> informadas pela autoridade e pelo perito. Por isso é tão importante que a requisição traga o <b>histórico</b> (o que foi encontrado no local, sintomas relatados, medicamentos de uso), para direcionar a pesquisa.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se a droga foi detectada no sangue do morto, ela causou a morte</span><br>✅ <span class=\"certo\">Detectar não é o mesmo que causar; o perito separa <b>achado</b>, <b>causa</b> e <b>concausa</b></span></li><li>❌ <span class=\"banca\">O exame toxicológico de rotina detecta qualquer substância existente</span><br>✅ <span class=\"certo\">Busca as mais <b>comuns</b> e as <b>suspeitas</b>; o histórico orienta a pesquisa</span></li><li>❌ <span class=\"banca\">Concentrações tóxicas são iguais para todas as pessoas</span><br>✅ <span class=\"certo\">Variam com <b>tolerância</b>, associações e alterações post mortem</span></li></ol></div>\n<h3>27. Medicamentos em doses excessivas</h3>\n<ul><li><b>Calmantes (benzodiazepínicos)</b>: sozinhos, raramente matam adultos saudáveis, mas <b>com álcool ou opioides</b> podem causar coma e parada respiratória. Causam <b>amnésia</b>, o que interessa em crimes contra vítimas dopadas.</li><li><b>Antidepressivos</b> e outros remédios psiquiátricos: alguns, em doses altas, causam <b>arritmias</b> e convulsões. Pessoas em tratamento psiquiátrico têm acesso a esses medicamentos, o que explica sua presença em tentativas de suicídio; o laudo deve informar se as concentrações estão em níveis de <b>tratamento</b> ou de <b>intoxicação</b>.</li><li><b>Insulina</b> e remédios para diabetes: podem causar <b>hipoglicemia</b> grave e morte. A insulina é difícil de detectar no cadáver, e há casos descritos de homicídios em ambiente hospitalar; marcas de injeção e dosagens específicas, colhidas com rapidez, ajudam.</li><li><b>Remédios para o coração</b> (como a digoxina) e para pressão: intoxicações acidentais em <b>idosos</b> (erros de dose) são frequentes; arritmias.</li><li><b>Opioides de uso médico</b> (morfina, tramadol, fentanil em adesivos): risco de <b>depressão respiratória</b>, sobretudo com álcool e calmantes, em pacientes sem tolerância ou em crianças que têm contato acidental com adesivos.</li><li><b>Interesse jurídico</b>: além do suicídio e do acidente, a perícia pode apurar <b>erro médico</b> (dose errada, medicamento trocado) e, raramente, <b>homicídio</b> por medicamento em hospitais, casas de repouso ou no ambiente doméstico. A comparação entre <b>prescrição</b>, <b>prontuário</b> e <b>concentrações</b> encontradas é a base da análise.</li></ul>\n<h3>28. Álcool, drogas e consentimento sexual</h3>\n<ul><li>O consentimento para o ato sexual exige <b>capacidade</b> de compreender e decidir. Pessoas em <b>embriaguez profunda</b>, dopadas, desacordadas ou em estado de coma <b>não podem consentir</b> e <b>não podem oferecer resistência</b>: o ato sexual com elas configura <b>estupro de vulnerável</b> (CP, art. 217-A, § 1º: \"por qualquer outra causa, não pode oferecer resistência\").</li><li>A perícia contribui com: o <b>exame toxicológico</b> (o mais cedo possível), a estimativa retrospectiva da <b>alcoolemia</b> no momento do fato, a descrição de sinais de embriaguez registrados por quem atendeu a vítima, e o exame <b>sexológico</b> com coleta de material para <b>DNA</b>. A conclusão sobre a <b>incapacidade de resistir</b> é jurídica, mas se apoia nesses dados.</li><li><b>Cuidado na abordagem</b>: a vítima pode ter <b>amnésia</b> e sentir culpa ou vergonha; o atendimento deve ser acolhedor, rápido e sem julgamento, e o encaminhamento ao exame não deve esperar.</li></ul>\n<h3>29. Casos práticos adicionais</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Jovem em festa universitária</b><p>Um estudante de 19 anos morre após uma competição de bebida. Os colegas o deixaram \"dormindo\" no sofá. Pela manhã, estava morto, com vômito na boca e no nariz.</p><details><summary>Ver a solução comentada</summary><p>Quadro sugestivo de <b>intoxicação alcoólica aguda grave</b> com <b>aspiração do vômito</b> (sufocação direta). A necropsia procura o conteúdo gástrico nas <b>vias aéreas</b> profundas e dosa a <b>alcoolemia</b> (provavelmente muito alta). A investigação apura se houve <b>coação</b> para beber (trotes) e se os presentes <b>omitiram socorro</b> a alguém visivelmente em coma, o que pode ter relevância penal.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Idoso sedado em casa de repouso</b><p>Um idoso morre em uma casa de repouso. A família suspeita de maus-tratos. O exame toxicológico encontra concentrações altas de um calmante não prescrito a ele.</p><details><summary>Ver a solução comentada</summary><p>A presença de um <b>sedativo não prescrito</b>, em concentração <b>elevada</b>, é achado grave: pode indicar <b>sedação indevida</b> para \"facilitar o cuidado\" (maus-tratos), <b>erro</b> de medicação ou intoxicação intencional. A perícia compara a <b>prescrição</b>, o <b>prontuário</b> da instituição e as concentrações; a investigação ouve funcionários e verifica o controle de medicamentos. Pode haver crimes do Estatuto da Pessoa Idosa, maus-tratos, homicídio culposo ou doloso, conforme o caso.</p></details></div>\n<h3>30. Resumo em uma página</h3>\n<ul><li><b>Conceitos</b>: veneno conforme a <b>dose</b> (Paracelso); intoxicação aguda x crônica; tolerância, dependência, abstinência; energias <b>químicas</b>.</li><li><b>Cáusticos</b>: ácidos = <b>coagulação</b> (escara seca; sulfúrico escura, nítrico amarela, clorídrico cinza); bases = <b>liquefação</b> (mole e profunda); <b>vitriolagem</b>.</li><li><b>Exame toxicológico</b>: sangue (efeito atual), urina (uso recente), cabelo (uso crônico), humor vítreo (álcool), conteúdo gástrico; sangue <b>periférico</b> no cadáver (redistribuição); <b>neoformação</b> de álcool; janela curta das drogas de \"boa noite, Cinderela\".</li><li><b>Venenos clássicos</b>: CO (<b>carmim</b>), cianeto (<b>vermelho-claro</b>, amêndoas), chumbinho (<b>miose</b>, secreções), arsênico (<b>Mees</b>, cabelo), estricnina (<b>opistótono</b>), metanol (<b>cegueira</b>).</li><li><b>Álcool</b>: absorção rápida, eliminação <b>constante</b> (~0,1 a 0,2 g/L/h); fases <b>macaco, leão, porco</b>; exame clínico (Romberg, nistagmo, marcha); simuladores (TCE, hipoglicemia).</li><li><b>CTB</b>: qualquer concentração = infração gravíssima (165); recusa = 165-A; crime (306) com <b>6 dg/L</b> ou <b>0,3 mg/L</b> ou <b>sinais</b>, provado também por vídeo, exame clínico e testemunhas; exame toxicológico de larga janela para <b>C, D e E</b>.</li><li><b>CP, art. 28</b>: voluntária e culposa não excluem; acidental completa isenta; incompleta reduz; preordenada agrava; patológica = art. 26.</li><li><b>Drogas</b>: estimulantes (midríase) x opioides (miose, depressão respiratória); Lei 11.343 (arts. 45, 46, 50, 28, § 2º); <b>STF</b>: 40 g ou 6 plantas fêmeas de maconha, presunção relativa.</li></ul>\n<h3>31. Como as bancas cobram este tópico</h3>\n<ul><li><b>Cáusticos</b>: ácidos (coagulação, escara seca) x bases (liquefação, mole e profunda); cores das escaras (sulfúrico escura, nítrico amarela); <b>vitriolagem</b>.</li><li><b>Venenos clássicos</b>: <b>CO</b> (carmim), <b>cianeto</b> (vermelho-claro, amêndoas), <b>chumbinho</b> (síndrome colinérgica com <b>miose</b>), <b>arsênico</b> (linhas de <b>Mees</b>, cabelo), <b>estricnina</b> (convulsões, <b>opistótono</b>), <b>metanol</b> (cegueira).</li><li><b>Álcool</b>: fases (<b>macaco, leão, porco</b>), exame clínico (Romberg, nistagmo, marcha), eliminação <b>constante</b> pelo fígado, <b>neoformação</b> post mortem.</li><li><b>CTB</b>: qualquer concentração = infração; <b>6 dg/L</b> ou <b>0,3 mg/L</b> = crime; <b>sinais</b> também provam o crime; <b>recusa</b> = infração gravíssima (165-A), não crime.</li><li><b>CP, art. 28</b>: voluntária e culposa não excluem; acidental completa isenta; incompleta reduz; preordenada agrava.</li><li><b>Lei de Drogas</b>: arts. 45, 46 e 50; critérios do art. 28, § 2º; <b>STF</b>: 40 g ou 6 plantas fêmeas, presunção relativa, só maconha.</li></ul>\n<h3>32. Glossário e mapa de revisão</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Veneno (tóxico)</b></td><td>substância que causa dano por ação química, conforme a dose</td></tr><tr><td><b>Intoxicação aguda / crônica</b></td><td>por dose única / por exposição repetida</td></tr><tr><td><b>Tolerância</b></td><td>necessidade de doses maiores</td></tr><tr><td><b>Abstinência</b></td><td>sintomas pela suspensão em dependente</td></tr><tr><td><b>Cáustico</b></td><td>destrói o tecido no contato</td></tr><tr><td><b>Necrose de coagulação</b></td><td>lesão dos ácidos (escara seca)</td></tr><tr><td><b>Necrose de liquefação</b></td><td>lesão das bases (mole e profunda)</td></tr><tr><td><b>Vitriolagem</b></td><td>lançar cáustico em alguém</td></tr><tr><td><b>Carboxi-hemoglobina</b></td><td>hemoglobina ligada ao CO</td></tr><tr><td><b>Síndrome colinérgica</b></td><td>quadro do chumbinho (miose, secreções, fasciculações)</td></tr><tr><td><b>Linhas de Mees</b></td><td>faixas brancas nas unhas (arsênico)</td></tr><tr><td><b>Opistótono</b></td><td>corpo arqueado para trás (estricnina)</td></tr><tr><td><b>Alcoolemia</b></td><td>álcool no sangue</td></tr><tr><td><b>Etilômetro</b></td><td>mede álcool no ar alveolar</td></tr><tr><td><b>Romberg</b></td><td>teste de equilíbrio com pés juntos e olhos fechados</td></tr><tr><td><b>Nistagmo</b></td><td>tremor dos olhos</td></tr><tr><td><b>Actio libera in causa</b></td><td>responsabilidade fundada no momento livre em que se decidiu beber</td></tr><tr><td><b>Redistribuição post mortem</b></td><td>migração de substâncias após a morte</td></tr><tr><td><b>Neoformação de álcool</b></td><td>produção de álcool pela putrefação</td></tr><tr><td><b>Miose / midríase</b></td><td>pupilas pequenas / grandes</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>A dose faz o veneno</span></span><span class=\"vs\"><span>Paracelso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ácido</span></span><span class=\"vs\"><span>necrose de coagulação, escara seca</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Base</span></span><span class=\"vs\"><span>necrose de liquefação, lesão mole e profunda</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Escara do ácido nítrico</span></span><span class=\"vs\"><span>amarelada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vitriolagem</span></span><span class=\"vs\"><span>lançar cáustico em alguém</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Monóxido de carbono</span></span><span class=\"vs\"><span>livores vermelho-carmim, carboxi-hemoglobina</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cianeto</span></span><span class=\"vs\"><span>livores vermelho-claros, odor de amêndoas amargas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Chumbinho</span></span><span class=\"vs\"><span>miose, salivação, secreção brônquica, fasciculações</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arsênico</span></span><span class=\"vs\"><span>linhas de Mees, detectável no cabelo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estricnina</span></span><span class=\"vs\"><span>convulsões e opistótono</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Metanol</span></span><span class=\"vs\"><span>acidose e cegueira</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases da embriaguez</span></span><span class=\"vs\"><span>macaco, leão e porco</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sangue para dosagem post mortem</span></span><span class=\"vs\"><span>periférico (femoral)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Humor vítreo</span></span><span class=\"vs\"><span>útil para álcool, protegido da putrefação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Crime do art. 306</span></span><span class=\"vs\"><span>6 dg/L de sangue ou 0,3 mg/L de ar, ou sinais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Qualquer concentração de álcool</span></span><span class=\"vs\"><span>infração gravíssima (art. 165)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Recusa ao teste</span></span><span class=\"vs\"><span>infração gravíssima (art. 165-A)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Embriaguez preordenada</span></span><span class=\"vs\"><span>agravante</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Embriaguez acidental completa</span></span><span class=\"vs\"><span>isenção de pena</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>STF e maconha</span></span><span class=\"vs\"><span>até 40 g ou 6 plantas fêmeas, presunção relativa de usuário</span></span></button></div></div>",
 "quiz": [
+{
+"p": "Veneno é toda substância que, em quantidade e condições adequadas, causa dano à saúde ou morte por ação química, sendo o conceito relativo à dose.",
+"c": true,
+"prof": "Conceitos.",
+"x": "\"A dose faz o veneno\" (Paracelso).",
+"e": "Dose faz o veneno."
+},
+{
+"p": "Tolerância é a necessidade de doses maiores para obter o mesmo efeito, com o uso repetido da substância.",
+"c": true,
+"prof": "Conceitos.",
+"x": "Dependência e abstinência são conceitos ligados.",
+"e": "Tolerância."
+},
+{
+"p": "A associação de álcool com calmantes ou opioides potencializa a depressão respiratória.",
+"c": true,
+"prof": "Fatores.",
+"x": "Aumenta muito o risco de morte.",
+"e": "Álcool + depressores."
+},
+{
+"p": "Os cáusticos e os venenos são classificados como energias de ordem química.",
+"c": true,
+"prof": "Classificação das energias.",
+"x": "Agem por reação química.",
+"e": "Energia química."
+},
+{
+"p": "O emprego de veneno qualifica o homicídio e é circunstância agravante genérica.",
+"c": true,
+"prof": "CP, art. 121, § 2º, III; art. 61, II, d.",
+"x": "Por isso o quesito pergunta sobre veneno.",
+"e": "Veneno qualifica."
+},
+{
+"p": "Envenenar água potável destinada a consumo é crime contra a saúde pública.",
+"c": true,
+"prof": "CP, art. 270.",
+"x": "Também substância alimentícia ou medicinal.",
+"e": "Art. 270."
+},
+{
+"p": "Os ácidos fortes produzem necrose de coagulação, com escara seca e dura.",
+"c": true,
+"prof": "Cáusticos.",
+"x": "A escara dificulta a penetração.",
+"e": "Ácido: coagulação."
+},
+{
+"p": "As bases fortes, como a soda cáustica, produzem necrose de liquefação, com lesões moles, úmidas e profundas, que continuam avançando enquanto não removidas.",
+"c": true,
+"prof": "Cáusticos.",
+"x": "Por isso são muito destrutivas.",
+"e": "Base: liquefação."
+},
+{
+"p": "As bases fortes produzem escaras secas e duras, que impedem a penetração da substância.",
+"c": false,
+"prof": "Cáusticos.",
+"x": "Isso é próprio dos ácidos; as bases liquefazem.",
+"e": "Base não forma escara seca."
+},
+{
+"p": "A escara produzida pelo ácido nítrico é amarelada, e a do ácido sulfúrico, escura.",
+"c": true,
+"prof": "Cáusticos.",
+"x": "Reação xantoproteica no nítrico.",
+"e": "Cores das escaras."
+},
+{
+"p": "Vitriolagem é o ato de lançar substância cáustica em outra pessoa, geralmente no rosto.",
+"c": true,
+"prof": "Cáusticos.",
+"x": "Pode gerar deformidade permanente.",
+"e": "Vitriolagem."
+},
+{
+"p": "A ingestão de cáusticos pode causar perfuração do esôfago ou do estômago e, nos sobreviventes, estenose esofágica.",
+"c": true,
+"prof": "Cáusticos.",
+"x": "Estreitamento cicatricial.",
+"e": "Estenose."
+},
+{
+"p": "O sangue mostra a substância que está agindo no momento, enquanto a urina indica uso recente, sem medir o grau de efeito atual.",
+"c": true,
+"prof": "Exame toxicológico.",
+"x": "Cabelo indica uso crônico.",
+"e": "Sangue x urina."
+},
+{
+"p": "A análise do cabelo pode revelar o uso de substâncias ao longo de semanas e meses.",
+"c": true,
+"prof": "Exame toxicológico.",
+"x": "Cerca de um mês por centímetro.",
+"e": "Cabelo: uso crônico."
+},
+{
+"p": "No cadáver, prefere-se o sangue periférico, como o da veia femoral, por causa da redistribuição post mortem.",
+"c": true,
+"prof": "Exame toxicológico.",
+"x": "O sangue do coração sofre mais redistribuição.",
+"e": "Sangue femoral."
+},
+{
+"p": "O humor vítreo é útil para dosagens de álcool por estar protegido da contaminação e da putrefação.",
+"c": true,
+"prof": "Exame toxicológico.",
+"x": "Ajuda a interpretar alcoolemias post mortem.",
+"e": "Humor vítreo."
+},
+{
+"p": "Na putrefação, bactérias podem produzir álcool no cadáver, o que exige cautela na interpretação da alcoolemia post mortem.",
+"c": true,
+"prof": "Neoformação de álcool.",
+"x": "Humor vítreo e urina ajudam.",
+"e": "Neoformação."
+},
+{
+"p": "Para coletar sangue destinado à dosagem alcoólica, deve-se limpar a pele com álcool.",
+"c": false,
+"prof": "Coleta.",
+"x": "Usa-se antisséptico sem álcool.",
+"e": "Sem álcool na pele."
+},
+{
+"p": "O conteúdo gástrico pode mostrar substâncias ingeridas recentemente, como comprimidos ainda não dissolvidos.",
+"c": true,
+"prof": "Exame toxicológico.",
+"x": "Ex.: grânulos de chumbinho.",
+"e": "Conteúdo gástrico."
+},
+{
+"p": "O monóxido de carbono é gás incolor e inodoro, liga-se à hemoglobina formando carboxi-hemoglobina e deixa sangue e livores vermelho-carmim.",
+"c": true,
+"prof": "Monóxido de carbono.",
+"x": "Fontes: motores, aquecedores, incêndios.",
+"e": "CO: carmim."
+},
+{
+"p": "O cianeto impede as células de usar o oxigênio, deixando livores vermelho-claros, e pode exalar odor de amêndoas amargas.",
+"c": true,
+"prof": "Cianeto.",
+"x": "Nem todos percebem o odor.",
+"e": "Cianeto."
+},
+{
+"p": "A mandioca-brava crua contém substâncias que podem liberar cianeto.",
+"c": true,
+"prof": "Cianeto.",
+"x": "Fonte vegetal.",
+"e": "Mandioca-brava."
+},
+{
+"p": "O chumbinho e os organofosforados inibem a acetilcolinesterase, provocando síndrome colinérgica com miose, salivação, sudorese e secreção brônquica.",
+"c": true,
+"prof": "Agrotóxicos.",
+"x": "Morte por insuficiência respiratória.",
+"e": "Chumbinho: colinérgica."
+},
+{
+"p": "Na intoxicação por chumbinho, as pupilas ficam dilatadas e a boca seca.",
+"c": false,
+"prof": "Agrotóxicos.",
+"x": "Há miose e salivação intensa.",
+"e": "Chumbinho: miose."
+},
+{
+"p": "Os raticidas anticoagulantes provocam hemorragias que surgem dias após a ingestão.",
+"c": true,
+"prof": "Raticidas.",
+"x": "Gengivas, urina, equimoses.",
+"e": "Anticoagulantes."
+},
+{
+"p": "As linhas de Mees, faixas brancas transversais nas unhas, são sinal da intoxicação por arsênico.",
+"c": true,
+"prof": "Arsênico.",
+"x": "O arsênico é detectável em cabelos e unhas por muito tempo.",
+"e": "Mees: arsênico."
+},
+{
+"p": "A intoxicação por estricnina causa convulsões violentas com opistótono e consciência preservada.",
+"c": true,
+"prof": "Estricnina.",
+"x": "Rigidez cadavérica precoce.",
+"e": "Estricnina."
+},
+{
+"p": "O metanol, presente em bebidas adulteradas, pode causar acidose, alterações visuais, cegueira e morte.",
+"c": true,
+"prof": "Metanol.",
+"x": "Pequenas quantidades já causam cegueira.",
+"e": "Metanol: cegueira."
+},
+{
+"p": "A dose excessiva de paracetamol pode causar lesão grave do fígado, que se manifesta dias depois.",
+"c": true,
+"prof": "Medicamentos.",
+"x": "Usado em tentativas de suicídio.",
+"e": "Paracetamol: fígado."
+},
+{
+"p": "O álcool etílico é depressor do sistema nervoso central, e a sensação inicial de animação decorre da desinibição.",
+"c": true,
+"prof": "Álcool.",
+"x": "Substância mais envolvida em crimes e acidentes.",
+"e": "Álcool: depressor."
+},
+{
+"p": "O pico de alcoolemia ocorre, em geral, entre 30 e 90 minutos após a ingestão, sendo retardado pelo estômago cheio.",
+"c": true,
+"prof": "Absorção.",
+"x": "Absorção no estômago e no intestino delgado.",
+"e": "Pico de alcoolemia."
+},
+{
+"p": "A eliminação do álcool pelo fígado ocorre em ritmo aproximadamente constante, em média 0,1 a 0,2 g/L por hora.",
+"c": true,
+"prof": "Eliminação.",
+"x": "Café e banho frio não aceleram.",
+"e": "Eliminação constante."
+},
+{
+"p": "Tomar café forte e banho frio acelera de forma significativa a eliminação do álcool.",
+"c": false,
+"prof": "Eliminação.",
+"x": "Não aceleram de forma relevante.",
+"e": "Café não elimina álcool."
+},
+{
+"p": "Com a mesma dose de álcool, a alcoolemia tende a ser maior em pessoas de menor peso.",
+"c": true,
+"prof": "Distribuição.",
+"x": "O álcool se distribui na água corporal.",
+"e": "Peso e alcoolemia."
+},
+{
+"p": "O etilômetro mede o álcool no ar alveolar expirado.",
+"c": true,
+"prof": "Etilômetro.",
+"x": "Em miligramas por litro de ar.",
+"e": "Etilômetro."
+},
+{
+"p": "Na fase do macaco da embriaguez, predominam euforia, desinibição e loquacidade.",
+"c": true,
+"prof": "Fases da embriaguez.",
+"x": "1ª fase, de excitação.",
+"e": "Macaco: euforia."
+},
+{
+"p": "Na fase do leão, há irritabilidade, agressividade, confusão e incoordenação.",
+"c": true,
+"prof": "Fases da embriaguez.",
+"x": "2ª fase.",
+"e": "Leão: agressividade."
+},
+{
+"p": "Na fase do porco, há sono profundo ou coma, com risco de depressão respiratória e aspiração do vômito.",
+"c": true,
+"prof": "Fases da embriaguez.",
+"x": "3ª fase.",
+"e": "Porco: coma."
+},
+{
+"p": "A fase da embriaguez em que predominam agressividade, confusão mental e incoordenação motora é conhecida como fase:",
+"alts": [
+"do macaco",
+"do leão",
+"do porco",
+"do sono",
+"da euforia"
+],
+"r": 1,
+"n": [
+"Euforia e desinibição.",
+"Correta.",
+"Sono e coma.",
+"Nome não usado.",
+"Corresponde ao macaco."
+],
+"prof": "Fases da embriaguez.",
+"x": "Macaco, leão e porco.",
+"e": "Fase do leão."
+},
+{
+"p": "O sinal de Romberg avalia o equilíbrio com a pessoa em pé, pés juntos e olhos fechados.",
+"c": true,
+"prof": "Exame clínico.",
+"x": "Oscilação indica alteração.",
+"e": "Romberg."
+},
+{
+"p": "O nistagmo é sinal importante no exame clínico da embriaguez.",
+"c": true,
+"prof": "Exame clínico.",
+"x": "Tremor dos olhos.",
+"e": "Nistagmo."
+},
+{
+"p": "Traumatismo craniano, hipoglicemia e AVC podem simular embriaguez, razão pela qual o hálito alcoólico não basta para excluir outra causa.",
+"c": true,
+"prof": "Diagnóstico diferencial.",
+"x": "Preso \"bêbado\" que piora pode ter hematoma.",
+"e": "Simuladores da embriaguez."
+},
+{
+"p": "Dirigir sob influência de álcool é infração gravíssima, com multa multiplicada por dez e suspensão do direito de dirigir por 12 meses.",
+"c": true,
+"prof": "CTB, art. 165.",
+"x": "Também recolhimento da habilitação e retenção do veículo.",
+"e": "Art. 165."
+},
+{
+"p": "Segundo o CTB, qualquer concentração de álcool por litro de sangue ou de ar alveolar sujeita o condutor às penalidades do art. 165.",
+"c": true,
+"prof": "CTB, art. 276.",
+"x": "Observada a tolerância técnica do CONTRAN.",
+"e": "Qualquer concentração."
+},
+{
+"p": "Recusar-se ao teste, exame clínico ou perícia para certificar a influência de álcool é infração gravíssima, com as mesmas penalidades do art. 165.",
+"c": true,
+"prof": "CTB, art. 165-A.",
+"x": "Não é crime.",
+"e": "Recusa: 165-A."
+},
+{
+"p": "A recusa do condutor ao etilômetro configura crime de desobediência e prova a embriaguez.",
+"c": false,
+"prof": "CTB, art. 165-A.",
+"x": "É infração administrativa; a embriaguez pode ser provada por outros meios.",
+"e": "Recusa não é crime."
+},
+{
+"p": "Configura o crime do art. 306 do CTB a concentração igual ou superior a 6 decigramas de álcool por litro de sangue ou 0,3 miligrama por litro de ar alveolar.",
+"c": true,
+"prof": "CTB, art. 306, § 1º, I.",
+"x": "Ou sinais de alteração da capacidade psicomotora.",
+"e": "6 dg/L ou 0,3 mg/L."
+},
+{
+"p": "O crime de embriaguez ao volante pode ser comprovado por sinais de alteração da capacidade psicomotora, vídeo, exame clínico ou prova testemunhal.",
+"c": true,
+"prof": "CTB, art. 306, §§ 1º, II, e 2º.",
+"x": "Sem necessidade de etilômetro.",
+"e": "Outros meios de prova."
+},
+{
+"p": "O crime do art. 306 do CTB somente pode ser provado por etilômetro ou exame de sangue.",
+"c": false,
+"prof": "CTB, art. 306.",
+"x": "Admite exame clínico, vídeo, testemunhas e outros meios.",
+"e": "Não só etilômetro."
+},
+{
+"p": "A pena do crime de embriaguez ao volante é de detenção de 6 meses a 3 anos, multa e suspensão ou proibição de obter a habilitação.",
+"c": true,
+"prof": "CTB, art. 306.",
+"x": "Crime de perigo abstrato.",
+"e": "Pena do 306."
+},
+{
+"p": "A embriaguez voluntária ou culposa não exclui a imputabilidade penal.",
+"c": true,
+"prof": "CP, art. 28, II.",
+"x": "Fundamento: actio libera in causa.",
+"e": "Voluntária não exclui."
+},
+{
+"p": "A embriaguez completa proveniente de caso fortuito ou força maior, que torna o agente inteiramente incapaz, isenta de pena.",
+"c": true,
+"prof": "CP, art. 28, § 1º.",
+"x": "Incompleta reduz de 1/3 a 2/3.",
+"e": "Acidental completa isenta."
+},
+{
+"p": "A embriaguez preordenada é circunstância agravante.",
+"c": true,
+"prof": "CP, art. 61, II, l.",
+"x": "Embriagar-se para cometer o crime.",
+"e": "Preordenada agrava."
+},
+{
+"p": "A embriaguez preordenada isenta de pena, por retirar a capacidade de entendimento.",
+"c": false,
+"prof": "CP, art. 61, II, l.",
+"x": "É agravante.",
+"e": "Preordenada não isenta."
+},
+{
+"p": "A cocaína e o crack são estimulantes que causam midríase, taquicardia e podem provocar arritmias, infarto, AVC e hipertermia.",
+"c": true,
+"prof": "Drogas de abuso.",
+"x": "Também paranoia.",
+"e": "Cocaína."
+},
+{
+"p": "Os opioides causam miose e depressão respiratória, principal causa de morte por overdose.",
+"c": true,
+"prof": "Opioides.",
+"x": "Fentanil é potente em doses mínimas.",
+"e": "Opioides: miose."
+},
+{
+"p": "No usuário crônico de maconha, a urina pode permanecer positiva por semanas, sem indicar efeito atual.",
+"c": true,
+"prof": "Maconha.",
+"x": "O efeito atual se avalia pelo sangue e exame clínico.",
+"e": "Maconha: urina longa."
+},
+{
+"p": "Os solventes e inalantes podem causar morte súbita por arritmia.",
+"c": true,
+"prof": "Inalantes.",
+"x": "Ex.: lança-perfume, cola.",
+"e": "Inalantes."
+},
+{
+"p": "O ecstasy pode causar hipertermia e alterações graves do sódio no sangue, com mortes em festas.",
+"c": true,
+"prof": "Anfetaminas.",
+"x": "Estimulante.",
+"e": "Ecstasy."
+},
+{
+"p": "A miose ocorre nas intoxicações por opioides e por organofosforados; a midríase, nas intoxicações por estimulantes.",
+"c": true,
+"prof": "Pupilas.",
+"x": "Dado clínico cobrado.",
+"e": "Miose x midríase."
+},
+{
+"p": "Em transportadores de drogas no corpo, a ruptura de cápsula de cocaína pode causar intoxicação maciça e morte rápida.",
+"c": true,
+"prof": "Mulas.",
+"x": "Exames de imagem mostram as cápsulas.",
+"e": "Mulas."
+},
+{
+"p": "Benzodiazepínicos, GHB e escopolamina estão entre as substâncias usadas para dopar vítimas no golpe conhecido como \"boa noite, Cinderela\".",
+"c": true,
+"prof": "Drogas para dopar.",
+"x": "Frequentemente com álcool.",
+"e": "Boa noite, Cinderela."
+},
+{
+"p": "Como muitas drogas usadas para dopar vítimas têm janela de detecção curta, a coleta de sangue e urina deve ser feita o mais cedo possível.",
+"c": true,
+"prof": "Drogas para dopar.",
+"x": "O cabelo pode ajudar na coleta tardia.",
+"e": "Coleta imediata."
+},
+{
+"p": "O resultado negativo do exame toxicológico feito dias depois exclui que a vítima tenha sido dopada.",
+"c": false,
+"prof": "Drogas para dopar.",
+"x": "A janela de detecção pode ter passado.",
+"e": "Negativo não exclui."
+},
+{
+"p": "A vítima de crime sexual que, dopada, não podia oferecer resistência é considerada vulnerável.",
+"c": true,
+"prof": "CP, art. 217-A, § 1º.",
+"x": "Estupro de vulnerável.",
+"e": "Dopada: vulnerável."
+},
+{
+"p": "Segundo a Lei de Drogas, é isento de pena o agente que, em razão da dependência, era inteiramente incapaz de entender o caráter ilícito do fato, qualquer que tenha sido a infração penal praticada.",
+"c": true,
+"prof": "Lei 11.343/2006, art. 45.",
+"x": "Exige perícia.",
+"e": "Dependência: isenção."
+},
+{
+"p": "Se a dependência apenas reduzia a capacidade do agente, a pena pode ser reduzida de um terço a dois terços.",
+"c": true,
+"prof": "Lei 11.343/2006, art. 46.",
+"x": "Semi-imputabilidade.",
+"e": "Redução 1/3 a 2/3."
+},
+{
+"p": "Para a prisão em flagrante e a materialidade provisória do crime de drogas, basta o laudo de constatação, mas a condenação exige, em regra, o laudo definitivo.",
+"c": true,
+"prof": "Lei 11.343/2006, art. 50.",
+"x": "O mesmo perito pode fazer os dois.",
+"e": "Constatação x definitivo."
+},
+{
+"p": "Para determinar se a droga se destinava a consumo pessoal, o juiz considera a natureza e a quantidade da substância, o local e as condições da ação, as circunstâncias sociais e pessoais, a conduta e os antecedentes do agente.",
+"c": true,
+"prof": "Lei 11.343/2006, art. 28, § 2º.",
+"x": "Critérios legais.",
+"e": "Usuário x traficante."
+},
+{
+"p": "O STF fixou presunção relativa de usuário para quem porta até 40 gramas de maconha ou seis plantas fêmeas.",
+"c": true,
+"prof": "STF, RE 635.659.",
+"x": "Pode ser afastada por indícios de tráfico.",
+"e": "40 g ou 6 plantas."
+},
+{
+"p": "A presunção de usuário fixada pelo STF aplica-se a qualquer droga, desde que a quantidade seja inferior a 40 gramas.",
+"c": false,
+"prof": "STF, RE 635.659.",
+"x": "Aplica-se à maconha.",
+"e": "Só maconha."
+},
+{
+"p": "Livores vermelho-carmim em família encontrada morta em casa com aquecedor a gás sem ventilação sugerem intoxicação por monóxido de carbono.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Dosagem de carboxi-hemoglobina confirma.",
+"e": "Família e CO."
+},
+{
+"p": "O perito pode estimar retrospectivamente a alcoolemia no momento do fato, com cautela e margem de erro, a partir da alcoolemia na coleta.",
+"c": true,
+"prof": "Cálculo retrospectivo.",
+"x": "A pessoa poderia ainda estar absorvendo.",
+"e": "Retrospectivo."
+},
+{
+"p": "Toxicomania, drogadição, farmacodependência e dependência química são expressões sinônimas.",
+"c": true,
+"prof": "Conceitos.",
+"x": "Indicam uso compulsivo com perda de controle.",
+"e": "Sinônimos."
+},
+{
+"p": "O delirium tremens é quadro grave de abstinência alcoólica, com confusão, agitação e alucinações, que pode matar.",
+"c": true,
+"prof": "Abstinência alcoólica.",
+"x": "Surge dias após parar de beber, inclusive em presos.",
+"e": "Delirium tremens."
+},
+{
+"p": "Na síndrome de Wernicke-Korsakoff, o alcoolista pode apresentar confabulação, preenchendo falhas de memória com relatos inventados sem intenção de mentir.",
+"c": true,
+"prof": "Alcoolismo crônico.",
+"x": "Falta de tiamina.",
+"e": "Confabulação."
+},
+{
+"p": "Os condutores das categorias C, D e E devem submeter-se a exame toxicológico de larga janela de detecção.",
+"c": true,
+"prof": "CTB, art. 148-A.",
+"x": "Janela de pelo menos 90 dias.",
+"e": "Toxicológico: C, D e E."
+},
+{
+"p": "O crime do art. 306 do CTB abrange a condução sob influência de qualquer substância psicoativa que determine dependência, e não apenas do álcool.",
+"c": true,
+"prof": "CTB, art. 306.",
+"x": "Para drogas, a prova vem dos sinais e exames.",
+"e": "306: outras substâncias."
+},
+{
+"p": "Havendo dúvida sobre a integridade mental do acusado, o juiz ordenará exame médico-legal.",
+"c": true,
+"prof": "CPP, art. 149.",
+"x": "No inquérito, por representação da autoridade policial.",
+"e": "Exame de insanidade."
+},
+{
+"p": "Segundo a Súmula 527 do STJ, o tempo de duração da medida de segurança não deve ultrapassar o limite máximo da pena abstratamente cominada ao delito praticado.",
+"c": true,
+"prof": "Súmula 527/STJ.",
+"x": "Medida de segurança para inimputáveis.",
+"e": "Súmula 527."
+},
+{
+"p": "A internação involuntária de dependentes químicos prevista na Lei de Drogas tem prazo máximo de 90 dias.",
+"c": true,
+"prof": "Lei 11.343/2006, art. 23-A (Lei 13.840/2019).",
+"x": "É a última opção, formalizada por médico.",
+"e": "Internação involuntária: 90 dias."
+},
+{
+"p": "Internação compulsória é a determinada pela Justiça; involuntária é a feita sem consentimento, a pedido de terceiro.",
+"c": true,
+"prof": "Lei 10.216/2001.",
+"x": "Voluntária é com consentimento.",
+"e": "Compulsória x involuntária."
+},
+{
+"p": "Alcoolemias muito altas podem levar ao coma alcoólico e à morte por depressão respiratória ou aspiração do vômito.",
+"c": true,
+"prof": "Intoxicação aguda grave.",
+"x": "Jovens que bebem muito rápido estão em risco.",
+"e": "Coma alcoólico."
+},
+{
+"p": "Animal peçonhento é o que possui aparelho para injetar o veneno; animal venenoso tem veneno, mas não tem como injetá-lo.",
+"c": true,
+"prof": "Peçonhas.",
+"x": "Ex.: serpente x sapo.",
+"e": "Peçonhento x venenoso."
+},
+{
+"p": "O acidente por jararaca causa dor, inchaço e necrose no local e distúrbios da coagulação.",
+"c": true,
+"prof": "Serpentes.",
+"x": "É o gênero mais frequente no Brasil.",
+"e": "Jararaca."
+},
+{
+"p": "O acidente por cascavel causa poucos sinais locais e efeitos neurológicos e musculares, podendo levar à insuficiência renal.",
+"c": true,
+"prof": "Serpentes.",
+"x": "Face miastênica, urina escura.",
+"e": "Cascavel."
+},
+{
+"p": "O escorpião-amarelo é o mais perigoso do Brasil e pode matar crianças.",
+"c": true,
+"prof": "Escorpiões.",
+"x": "Efeitos cardíacos e respiratórios.",
+"e": "Escorpião-amarelo."
+},
+{
+"p": "Em mortes violentas, a pesquisa toxicológica na vítima ajuda a reconstruir a dinâmica do fato.",
+"c": true,
+"prof": "Drogas e violência.",
+"x": "A vítima podia estar incapacitada ou agitada.",
+"e": "Toxicológico na vítima."
+},
+{
+"p": "Presos que engoliram cápsulas de drogas durante a abordagem correm risco de intoxicação grave pela ruptura das cápsulas.",
+"c": true,
+"prof": "Custódia.",
+"x": "Devem ser levados ao atendimento médico.",
+"e": "Cápsulas engolidas."
+},
+{
+"p": "Achados toxicológicos inesperados, como calmantes ou opioides em criança pequena, exigem investigação de possível intoxicação intencional.",
+"c": true,
+"prof": "Intoxicações em crianças.",
+"x": "Pode envolver Munchausen por procuração.",
+"e": "Criança com sedativo."
+},
+{
+"p": "O exame qualitativo indica se a substância está presente; o quantitativo informa a concentração.",
+"c": true,
+"prof": "Laudo toxicológico.",
+"x": "Para concluir causa da morte, em regra é preciso o quantitativo.",
+"e": "Qualitativo x quantitativo."
+},
+{
+"p": "A detecção de uma substância no sangue do cadáver não significa, por si só, que ela tenha causado a morte.",
+"c": true,
+"prof": "Laudo toxicológico.",
+"x": "Achado, causa e concausa são distintos.",
+"e": "Detectar não é causar."
+},
+{
+"p": "As faixas de concentração terapêutica, tóxica e letal se sobrepõem e variam com a tolerância e as associações de substâncias.",
+"c": true,
+"prof": "Laudo toxicológico.",
+"x": "O laudo fala em \"compatível com\".",
+"e": "Faixas sobrepostas."
+},
+{
+"p": "O histórico na requisição do exame orienta a pesquisa toxicológica, pois o laboratório não busca todas as substâncias existentes.",
+"c": true,
+"prof": "Laudo toxicológico.",
+"x": "Busca as comuns e as suspeitas.",
+"e": "Histórico orienta."
+},
+{
+"p": "Benzodiazepínicos associados ao álcool ou a opioides podem causar coma e parada respiratória.",
+"c": true,
+"prof": "Medicamentos.",
+"x": "Sozinhos, raramente matam adultos saudáveis.",
+"e": "Calmante + álcool."
+},
+{
+"p": "A pessoa em embriaguez profunda, desacordada ou dopada não pode consentir nem oferecer resistência, e o ato sexual com ela configura estupro de vulnerável.",
+"c": true,
+"prof": "CP, art. 217-A, § 1º.",
+"x": "A perícia toxicológica apoia a conclusão.",
+"e": "Embriaguez profunda: vulnerável."
+},
+{
+"p": "A presença de sedativo não prescrito em concentração elevada em idoso institucionalizado pode indicar sedação indevida ou maus-tratos.",
+"c": true,
+"prof": "Casos práticos.",
+"x": "Comparar prescrição, prontuário e concentrações.",
+"e": "Sedação indevida."
+},
 {
 "p": "Os ácidos são cáusticos coagulantes, que produzem escaras secas e endurecidas, enquanto as bases são liquefacientes, produzindo escaras úmidas e moles.",
 "c": true,
@@ -10516,7 +14131,7 @@ export const PROFUNDO = {
 "e": "Confusão."
 }
 ],
-"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>Coagulante</b><span>cáustico ácido: escara seca e dura</span></div><div class=\"lt-stat\"><b>Liquefaciente</b><span>cáustico alcalino: escara úmida e mole</span></div><div class=\"lt-stat\"><b>3</b><span>fases clássicas da embriaguez</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de dependência: física e psíquica</span></div></div>\n<h3>1. Energias de ordem química</h3>\n<ul><li><b>Cáusticos</b>: substâncias que destroem os tecidos por contato. <b>Coagulantes</b> (em geral <b>ácidos</b>: sulfúrico, nítrico) produzem <b>escaras secas, duras</b>, de bordas nítidas. <b>Liquefacientes</b> (em geral <b>bases/álcalis</b>: soda cáustica, amônia) produzem <b>escaras úmidas, moles</b>, mais profundas.</li><li>O <b>vitriolagem</b> (lançar ácido na vítima) costuma gerar <b>deformidade permanente</b> (lesão gravíssima).</li><li><b>Venenos</b>: substâncias que, introduzidas no organismo, causam dano à saúde ou morte por ação química. O <b>meio</b> insidioso qualifica o homicídio (CP, art. 121, § 2º, III). A perícia identifica o tóxico no sangue, na urina, no conteúdo gástrico e nas vísceras.</li><li>Sinais clássicos: <b>cianeto</b> (odor de amêndoas amargas, livores vermelho-vivos); <b>monóxido de carbono</b> (vermelho-cereja); <b>organofosforados</b> (miose, sialorreia, sudorese).</li></ul>\n<h3>2. Embriaguez alcoólica</h3>\n<table class=\"tab\"><thead><tr><th>Fase</th><th>Características</th></tr></thead><tbody><tr><td><b>Excitação</b> (fase do \"macaco\")</td><td>euforia, desinibição, loquacidade</td></tr><tr><td><b>Confusão</b> (fase do \"leão\")</td><td>agressividade, perda do equilíbrio e da coordenação, fala pastosa</td></tr><tr><td><b>Sono</b> / comatosa (fase do \"porco\")</td><td>sonolência, coma, risco de morte</td></tr></tbody></table>\n<ul><li>Diagnóstico: <b>dosagem</b> no sangue (alcoolemia) ou no ar expirado (etilômetro) e <b>exame clínico</b> (marcha, equilíbrio, fala, hálito, pupilas, coordenação).</li><li><b>Alcoolismo</b> é doença <b>crônica</b> (dependência); a embriaguez é <b>intoxicação aguda</b>. Complicações do alcoolismo: <b>delirium tremens</b> (abstinência), síndrome de <b>Korsakoff</b> (amnésia).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Toxicomanias (toxicofilias)</h3>\n<ul><li><b>Dependência química</b>: <b>física</b> (o organismo precisa da droga; a falta causa <b>síndrome de abstinência</b>) e <b>psíquica</b> (desejo compulsivo, craving). <b>Tolerância</b>: necessidade de doses maiores para o mesmo efeito.</li><li>Classificação das drogas pela ação no sistema nervoso: <b>depressoras</b> (álcool, opioides, benzodiazepínicos), <b>estimulantes</b> (cocaína, crack, anfetaminas) e <b>perturbadoras/alucinógenas</b> (LSD, maconha em parte, ecstasy com efeitos mistos).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Ácidos produzem escaras úmidas e moles</span><br>✅ <span class=\"certo\">Ácidos (coagulantes) produzem escaras SECAS e duras; bases, úmidas e moles.</span></li><li>❌ <span class=\"banca\">Embriaguez e alcoolismo são a mesma coisa</span><br>✅ <span class=\"certo\">Embriaguez = intoxicação aguda; alcoolismo = doença crônica.</span></li><li>❌ <span class=\"banca\">Odor de amêndoas amargas indica CO</span><br>✅ <span class=\"certo\">Indica CIANETO.</span></li><li>❌ <span class=\"banca\">Tolerância é o mesmo que abstinência</span><br>✅ <span class=\"certo\">Tolerância = precisar de doses maiores; abstinência = sintomas na falta.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico ácido?</span></span><span class=\"vs\"><span><b>Coagulante</b>: escara <b>seca e dura</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico alcalino?</span></span><span class=\"vs\"><span><b>Liquefaciente</b>: escara <b>úmida e mole</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases da embriaguez?</span></span><span class=\"vs\"><span><b>Excitação</b>, <b>confusão</b>, <b>sono/coma</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Amêndoas amargas?</span></span><span class=\"vs\"><span><b>Cianeto</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dependência física?</span></span><span class=\"vs\"><span>Falta da droga gera <b>abstinência</b>.</span></span></button></div></div>"
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2</b><span>grupos de cáusticos: coagulantes (ácidos) e liquefacientes (bases)</span></div><div class=\"lt-stat\"><b>3</b><span>fases clássicas da embriaguez</span></div><div class=\"lt-stat\"><b>6 dg/L</b><span>de álcool no sangue: limite do crime do art. 306 do CTB (ou 0,3 mg/L de ar)</span></div><div class=\"lt-stat\"><b>3</b><span>grupos de drogas pelo efeito no SNC: depressoras, estimulantes e perturbadoras</span></div></div>\n<h3>1. Energias de ordem química</h3>\n<ul><li>As <b>energias de ordem química</b> lesionam o corpo por <b>reação química</b>: os <b>cáusticos</b>, que agem <b>localmente</b>, destruindo tecidos no ponto de contato, e os <b>venenos</b>, que agem <b>sistemicamente</b>, após absorção.</li></ul>\n<table class=\"tab\"><thead><tr><th>Cáustico</th><th>Exemplos</th><th>Lesão</th></tr></thead><tbody><tr><td><b>Coagulantes</b></td><td><b>ácidos</b> (sulfúrico, nítrico, clorídrico), sais metálicos</td><td>desidratam e coagulam as proteínas: <b>escara seca, dura</b>, de cor variável conforme o ácido (o sulfúrico deixa escara enegrecida; o nítrico, amarelada)</td></tr><tr><td><b>Liquefacientes</b></td><td><b>bases ou álcalis</b> (soda cáustica, amônia, potassa)</td><td>dissolvem os tecidos: <b>escara úmida, mole, translúcida</b>, que tende a se aprofundar</td></tr></tbody></table>\n<ul><li><b>Vitriolagem</b>: lançamento de <b>ácido</b> (originalmente \"vitríolo\", o ácido sulfúrico) contra o rosto de alguém, para desfigurar. Gera lesão corporal gravíssima por <b>deformidade permanente</b>.</li><li><b>Venenos</b>: substâncias que, introduzidas no organismo, alteram sua função e podem matar. <b>Vias</b>: oral (a mais comum), respiratória, cutânea, parenteral (injeção). O <b>envenenamento</b> é qualificadora do homicídio (CP, art. 121, § 2º, III) quando usado de forma <b>insidiosa</b> (sem que a vítima perceba). A perícia (exame <b>toxicológico</b>) analisa sangue, urina, conteúdo gástrico, vísceras e cabelos (que revelam exposição antiga).</li><li><b>Monóxido de carbono</b> (CO): gás produzido na combustão incompleta (carros em garagem fechada, aquecedores); liga-se à hemoglobina formando <b>carboxiemoglobina</b>, que dá ao sangue e às <b>livores</b> uma coloração <b>vermelho-carmim</b> (rosada). É asfixia química.</li></ul>\n<h3>2. Embriaguez alcoólica</h3>\n<ul><li><b>Embriaguez</b> é o estado de intoxicação aguda por álcool ou substância de efeitos análogos. A <b>alcoolemia</b> (concentração de álcool no sangue) relaciona-se aos sintomas, mas a tolerância varia entre pessoas.</li></ul>\n<table class=\"tab\"><thead><tr><th>Fase clássica</th><th>Sinais</th></tr></thead><tbody><tr><td><b>1ª – excitação</b> (\"fase do macaco\")</td><td>euforia, desinibição, loquacidade, diminuição da autocrítica</td></tr><tr><td><b>2ª – confusão</b> (\"fase do leão\")</td><td>agressividade, irritabilidade, incoordenação motora, fala pastosa, alteração do equilíbrio, diplopia</td></tr><tr><td><b>3ª – sono ou coma</b> (\"fase do porco\")</td><td>sonolência, torpor, coma, podendo levar à morte por depressão respiratória</td></tr></tbody></table>\n<ul><li><b>Exame clínico</b> (verificação de sinais de alteração da capacidade psicomotora): hálito etílico, olhos avermelhados, fala arrastada, desequilíbrio, dificuldade no teste de marcha e de levar o dedo ao nariz. É admitido para comprovar a embriaguez ao volante, além do etilômetro e do exame de sangue (CTB, art. 306, § 2º).</li><li><b>Limites do CTB</b>: a <b>infração administrativa</b> (art. 165) ocorre com <b>qualquer</b> concentração de álcool (tolerância técnica na medição). O <b>crime</b> (art. 306) se caracteriza com concentração <b>igual ou superior a 6 decigramas de álcool por litro de sangue</b> ou <b>0,3 miligrama por litro de ar alveolar</b>, ou com <b>sinais</b> que indiquem alteração da capacidade psicomotora.</li><li><b>Imputabilidade</b> (CP, art. 28): a embriaguez <b>voluntária ou culposa</b> <b>não exclui</b> a imputabilidade (actio libera in causa); a <b>completa</b> por <b>caso fortuito ou força maior</b> isenta de pena; a <b>incompleta</b> acidental reduz de 1/3 a 2/3; a <b>patológica</b> (alcoolismo crônico com doença mental) remete ao art. 26. A <b>preordenada</b> é agravante.</li></ul>\n<h3>3. Drogas e toxicomania</h3>\n<table class=\"tab\"><thead><tr><th>Grupo (efeito no sistema nervoso central)</th><th>Exemplos</th><th>Efeitos</th></tr></thead><tbody><tr><td><b>Depressoras</b></td><td>álcool, opioides (morfina, heroína, fentanil), benzodiazepínicos, solventes/inalantes</td><td>diminuem a atividade cerebral: sonolência, lentidão, risco de depressão respiratória</td></tr><tr><td><b>Estimulantes</b></td><td><b>cocaína</b>, crack, anfetaminas, ecstasy (MDMA, também perturbador), cafeína, nicotina</td><td>aumentam a atividade: euforia, agitação, taquicardia, pupilas dilatadas (midríase), risco de infarto e AVC</td></tr><tr><td><b>Perturbadoras</b> (alucinógenas)</td><td><b>maconha</b> (THC), LSD, cogumelos, ayahuasca</td><td>alteram a percepção: alucinações, distorção de tempo e espaço</td></tr></tbody></table>\n<ul><li><b>Tolerância</b> (necessidade de doses maiores para o mesmo efeito), <b>dependência</b> física (síndrome de abstinência ao parar) e <b>psíquica</b> (compulsão pelo uso).</li><li><b>Lei de Drogas</b>: o <b>laudo de constatação</b> (preliminar) basta para o flagrante; o <b>laudo definitivo</b> é indispensável para a condenação. A <b>dependência</b> que retire a capacidade de entendimento ou autodeterminação isenta de pena (Lei 11.343, art. 45), exigindo perícia (exame de dependência toxicológica).</li><li><b>Sinais físicos que o policial observa</b>: hiperemia conjuntival e fome intensa (maconha); midríase, agitação e lesões no septo nasal (cocaína aspirada); miose acentuada (opioides); queimaduras nos lábios e dedos (crack).</li></ul>\n<h3>4. Psiquiatria forense: noções de ligação</h3>\n<ul><li>A <b>perícia psiquiátrica</b> (incidente de insanidade mental, CPP, art. 149) verifica se, <b>ao tempo da ação</b>, o agente tinha capacidade de <b>entender</b> o caráter ilícito do fato e de <b>determinar-se</b> de acordo com esse entendimento (critério <b>biopsicológico</b>, CP, art. 26). O tema é aprofundado no tópico de <b>psicopatologia médico-legal</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Ácidos produzem escaras úmidas e moles</span><br>✅ <span class=\"certo\">Ácidos: coagulantes, escara SECA; bases: liquefacientes, escara ÚMIDA.</span></li><li>❌ <span class=\"banca\">O crime do art. 306 exige 0,6 mg/L de ar</span><br>✅ <span class=\"certo\">É 0,3 mg/L de ar ou 6 dg/L de sangue.</span></li><li>❌ <span class=\"banca\">Embriaguez voluntária completa isenta de pena</span><br>✅ <span class=\"certo\">Só a acidental (caso fortuito ou força maior).</span></li><li>❌ <span class=\"banca\">Maconha é estimulante</span><br>✅ <span class=\"certo\">É perturbadora.</span></li><li>❌ <span class=\"banca\">Livores no envenenamento por CO são arroxeados</span><br>✅ <span class=\"certo\">Vermelho-carmim (rosados).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico coagulante?</span></span><span class=\"vs\"><span><b>Ácidos</b>; escara <b>seca</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico liquefaciente?</span></span><span class=\"vs\"><span><b>Bases</b>; escara <b>úmida</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vitriolagem?</span></span><span class=\"vs\"><span>Ácido no rosto: <b>deformidade permanente</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CO?</span></span><span class=\"vs\"><span><b>Carboxiemoglobina</b>; livores <b>vermelho-carmim</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases da embriaguez?</span></span><span class=\"vs\"><span><b>Macaco</b> (excitação), <b>leão</b> (confusão), <b>porco</b> (coma).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Crime do art. 306?</span></span><span class=\"vs\"><span><b>6 dg/L</b> de sangue ou <b>0,3 mg/L</b> de ar, ou sinais.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cocaína?</span></span><span class=\"vs\"><span><b>Estimulante</b>; midríase.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Opioides?</span></span><span class=\"vs\"><span><b>Depressores</b>; miose.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A garagem fechada</b><p>Um homem é encontrado morto dentro do carro ligado, numa garagem fechada. A pele e as livores têm coloração rósea intensa. Há uma mangueira ligando o escapamento ao interior do veículo.</p><details><summary>Ver a solução comentada</summary><p>Os achados sugerem <b>intoxicação por monóxido de carbono</b>: a <b>carboxiemoglobina</b> dá a coloração <b>vermelho-carmim</b> ao sangue e às livores. A mangueira indica possível <b>suicídio</b>, mas a perícia deve afastar homicídio (lesões, substâncias sedativas no exame toxicológico, posição do corpo). O exame de sangue confirma a dosagem de <b>carboxiemoglobina</b>.</p></details></div><div class=\"lt-stats\"><div class=\"lt-stat\"><b>Coagulante</b><span>cáustico ácido: escara seca e dura</span></div><div class=\"lt-stat\"><b>Liquefaciente</b><span>cáustico alcalino: escara úmida e mole</span></div><div class=\"lt-stat\"><b>3</b><span>fases clássicas da embriaguez</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de dependência: física e psíquica</span></div></div>\n<h3>1. Energias de ordem química</h3>\n<ul><li><b>Cáusticos</b>: substâncias que destroem os tecidos por contato. <b>Coagulantes</b> (em geral <b>ácidos</b>: sulfúrico, nítrico) produzem <b>escaras secas, duras</b>, de bordas nítidas. <b>Liquefacientes</b> (em geral <b>bases/álcalis</b>: soda cáustica, amônia) produzem <b>escaras úmidas, moles</b>, mais profundas.</li><li>O <b>vitriolagem</b> (lançar ácido na vítima) costuma gerar <b>deformidade permanente</b> (lesão gravíssima).</li><li><b>Venenos</b>: substâncias que, introduzidas no organismo, causam dano à saúde ou morte por ação química. O <b>meio</b> insidioso qualifica o homicídio (CP, art. 121, § 2º, III). A perícia identifica o tóxico no sangue, na urina, no conteúdo gástrico e nas vísceras.</li><li>Sinais clássicos: <b>cianeto</b> (odor de amêndoas amargas, livores vermelho-vivos); <b>monóxido de carbono</b> (vermelho-cereja); <b>organofosforados</b> (miose, sialorreia, sudorese).</li></ul>\n<h3>2. Embriaguez alcoólica</h3>\n<table class=\"tab\"><thead><tr><th>Fase</th><th>Características</th></tr></thead><tbody><tr><td><b>Excitação</b> (fase do \"macaco\")</td><td>euforia, desinibição, loquacidade</td></tr><tr><td><b>Confusão</b> (fase do \"leão\")</td><td>agressividade, perda do equilíbrio e da coordenação, fala pastosa</td></tr><tr><td><b>Sono</b> / comatosa (fase do \"porco\")</td><td>sonolência, coma, risco de morte</td></tr></tbody></table>\n<ul><li>Diagnóstico: <b>dosagem</b> no sangue (alcoolemia) ou no ar expirado (etilômetro) e <b>exame clínico</b> (marcha, equilíbrio, fala, hálito, pupilas, coordenação).</li><li><b>Alcoolismo</b> é doença <b>crônica</b> (dependência); a embriaguez é <b>intoxicação aguda</b>. Complicações do alcoolismo: <b>delirium tremens</b> (abstinência), síndrome de <b>Korsakoff</b> (amnésia).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Toxicomanias (toxicofilias)</h3>\n<ul><li><b>Dependência química</b>: <b>física</b> (o organismo precisa da droga; a falta causa <b>síndrome de abstinência</b>) e <b>psíquica</b> (desejo compulsivo, craving). <b>Tolerância</b>: necessidade de doses maiores para o mesmo efeito.</li><li>Classificação das drogas pela ação no sistema nervoso: <b>depressoras</b> (álcool, opioides, benzodiazepínicos), <b>estimulantes</b> (cocaína, crack, anfetaminas) e <b>perturbadoras/alucinógenas</b> (LSD, maconha em parte, ecstasy com efeitos mistos).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Ácidos produzem escaras úmidas e moles</span><br>✅ <span class=\"certo\">Ácidos (coagulantes) produzem escaras SECAS e duras; bases, úmidas e moles.</span></li><li>❌ <span class=\"banca\">Embriaguez e alcoolismo são a mesma coisa</span><br>✅ <span class=\"certo\">Embriaguez = intoxicação aguda; alcoolismo = doença crônica.</span></li><li>❌ <span class=\"banca\">Odor de amêndoas amargas indica CO</span><br>✅ <span class=\"certo\">Indica CIANETO.</span></li><li>❌ <span class=\"banca\">Tolerância é o mesmo que abstinência</span><br>✅ <span class=\"certo\">Tolerância = precisar de doses maiores; abstinência = sintomas na falta.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico ácido?</span></span><span class=\"vs\"><span><b>Coagulante</b>: escara <b>seca e dura</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cáustico alcalino?</span></span><span class=\"vs\"><span><b>Liquefaciente</b>: escara <b>úmida e mole</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases da embriaguez?</span></span><span class=\"vs\"><span><b>Excitação</b>, <b>confusão</b>, <b>sono/coma</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Amêndoas amargas?</span></span><span class=\"vs\"><span><b>Cianeto</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dependência física?</span></span><span class=\"vs\"><span>Falta da droga gera <b>abstinência</b>.</span></span></button></div></div>"
 },
 "antropologia": {
 "html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>requisitos de um bom método de identificação</span></div><div class=\"lt-stat\"><b>4</b><span>tipos fundamentais de Vucetich</span></div><div class=\"lt-stat\"><b>3</b><span>métodos primários de identificação em desastres (papiloscopia, odontologia e DNA)</span></div><div class=\"lt-stat\"><b>12.037</b><span>Lei da Identificação Criminal (2009)</span></div></div>\n<h3>1. Identidade, identificação e reconhecimento</h3>\n<ul><li><b>Identidade</b> é o <b>conjunto de caracteres</b> próprios de uma pessoa (ou coisa) que a <b>individualizam</b>, tornando-a <b>igual somente a si mesma</b> e diferente de todas as demais.</li><li><b>Identificação</b> é o <b>processo técnico</b> pelo qual se <b>determina</b> essa identidade, comparando dados colhidos agora com dados registrados antes (ou deduzindo características a partir do exame).</li><li><b>Reconhecimento</b> é ato de <b>memória</b> de uma pessoa (vítima ou testemunha) que afirma \"é ele\" ou \"é ela\". É prova <b>subjetiva</b>, sujeita a erros de percepção e de memória, e tem procedimento próprio no CPP (art. 226). Não se confunde com identificação, que é <b>técnica e objetiva</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>Natureza</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Identidade</b></td><td><b>conjunto de caracteres</b> (o que se quer provar)</td><td>as impressões digitais, o DNA, os dentes, as cicatrizes de Fulano</td></tr><tr><td><b>Identificação</b></td><td><b>processo técnico</b> (como se prova)</td><td>o confronto datiloscópico entre a digital do local e a ficha do suspeito</td></tr><tr><td><b>Reconhecimento</b></td><td>ato de <b>memória</b> de testemunha (subjetivo)</td><td>a vítima aponta o autor entre pessoas colocadas lado a lado</td></tr></tbody></table>\n<ul><li>A identidade tem várias dimensões: <b>física</b> (corpo, traços, impressões), <b>psíquica</b> (personalidade, memória) e <b>jurídica</b> ou civil (nome, filiação, estado civil, documentos). A Medicina Legal e a Papiloscopia cuidam sobretudo da identidade <b>física</b>.</li><li><b>Por que importa ao Direito</b>: não se pode processar, condenar ou prender a pessoa errada; não se pode entregar o corpo à família errada; não se pode registrar óbito, herança ou pensão sem saber de quem se trata. A identificação é pressuposto de quase todos os atos da persecução penal.</li></ul>\n<h3>2. Identificação médico-legal x identificação policial (judiciária)</h3>\n<ul><li><b>Identificação médico-legal</b>: exige <b>conhecimentos médicos</b>, anatômicos e biológicos. É feita pelo <b>médico-legista</b> (e pelo odontolegista). Busca a <b>espécie</b>, o <b>sexo</b>, a <b>idade</b>, a <b>estatura</b>, a <b>ancestralidade</b>, os <b>sinais individuais</b> (malformações, cicatrizes, tatuagens, próteses) e os <b>dentes</b>. É a usada em <b>cadáveres, ossadas e restos humanos</b>, e em vivos quando se discute idade, sexo ou identidade.</li><li><b>Identificação policial ou judiciária</b>: feita por <b>técnicos não necessariamente médicos</b> (no Brasil, os <b>papiloscopistas</b> e peritos de identificação), a partir de <b>registros prévios</b>: <b>papiloscopia</b> (impressões digitais, palmares e plantares), <b>fotografia</b>, <b>assinalamento</b>, retrato falado e, hoje, bancos de <b>perfis genéticos</b>.</li><li>Na prática, os dois campos se completam: o IML descreve o cadáver (sexo, idade aproximada, sinais), e a papiloscopia e o DNA fecham a identificação individual.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Genérica x individual | Sexo, idade, estatura e ancestralidade são caracteres <b>genéricos</b>: reduzem o universo de pessoas possíveis, mas <b>não individualizam</b>. Quem individualiza são os métodos <b>primários</b>: <b>impressões papilares</b>, <b>dentes</b> (comparação com registros anteriores) e <b>DNA</b>.</div>\n<h3>3. Requisitos de um bom método de identificação</h3>\n<ul><li>A doutrina exige, de um método de identificação, requisitos <b>biológicos</b> e <b>técnicos</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Requisito</th><th>Significado</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Unicidade</b> (individualidade)</td><td>o caráter só existe naquela pessoa</td><td>dois dedos nunca têm o mesmo desenho papilar</td></tr><tr><td><b>Imutabilidade</b></td><td>o caráter <b>não muda</b> ao longo da vida</td><td>o desenho das cristas é o mesmo da infância à velhice</td></tr><tr><td><b>Perenidade</b> (permanência)</td><td>o caráter <b>resiste ao tempo</b> e existe desde cedo até depois da morte</td><td>as cristas surgem na vida intrauterina e persistem até a putrefação</td></tr><tr><td><b>Praticabilidade</b></td><td>a coleta é <b>simples, rápida e barata</b></td><td>basta tinta e papel, ou um leitor digital</td></tr><tr><td><b>Classificabilidade</b></td><td>permite <b>arquivar</b> e <b>localizar</b> o registro com rapidez</td><td>a fórmula datiloscópica de Vucetich</td></tr></tbody></table>\n<ul><li><b>Unicidade, imutabilidade e perenidade</b> são requisitos <b>biológicos</b> (dependem do caráter estudado); <b>praticabilidade e classificabilidade</b> são requisitos <b>técnicos</b> (dependem do método).</li><li>A <b>antropometria</b> de Bertillon foi abandonada justamente porque <b>falhava na unicidade e na imutabilidade</b>: medidas corporais mudam com a idade e podem coincidir entre pessoas diferentes.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Imutabilidade e perenidade são a mesma coisa</span><br>✅ <span class=\"certo\"><b>Imutabilidade</b> = não muda; <b>perenidade</b> = <b>dura</b> desde cedo até depois da morte</span></li><li>❌ <span class=\"banca\">Praticabilidade é requisito biológico</span><br>✅ <span class=\"certo\">É requisito <b>técnico</b>, ao lado da <b>classificabilidade</b></span></li><li>❌ <span class=\"banca\">A antropometria foi abandonada por ser cara</span><br>✅ <span class=\"certo\">Foi abandonada por falhar na <b>unicidade</b> e na <b>imutabilidade</b></span></li></ol></div>\n<h3>4. Evolução histórica dos métodos de identificação</h3>\n<ul><li><b>Métodos antigos e abandonados</b>: o <b>ferrete</b> (marca com ferro em brasa), as <b>mutilações</b> (cortar orelha, mão) e a <b>tatuagem compulsória</b> de condenados. Além de cruéis, eram imprecisos e hoje são incompatíveis com a dignidade humana.</li><li><b>Nome e documentos</b>: falham porque podem ser <b>falsificados</b> ou <b>trocados</b>.</li><li><b>Fotografia sinalética</b> (de frente e de perfil) e <b>retrato falado</b>: úteis para buscas e divulgação, mas insuficientes sozinhos, pois a aparência muda (idade, peso, barba, cirurgia).</li><li><b>Antropometria (bertillonagem)</b>: criada na França, no fim do século XIX, por <b>Alphonse Bertillon</b>. Baseava-se em <b>medidas do corpo</b> (altura, envergadura, comprimento da cabeça, do pé, do dedo médio, da orelha etc.), associadas à fotografia e ao <b>assinalamento descritivo</b> (cor dos olhos, sinais particulares). Foi usada no mundo todo e depois <b>abandonada</b> pela datiloscopia.</li><li><b>Datiloscopia</b>: o estudo científico das impressões digitais ganhou força no fim do século XIX, com contribuições de pesquisadores europeus (Purkinje, que descreveu os desenhos; Faulds e Galton, na Inglaterra; e Henry, com sistema de classificação adotado no Reino Unido). <b>Juan Vucetich</b>, na <b>Argentina</b>, criou o <b>sistema de classificação</b> que leva o seu nome, adotado no <b>Brasil</b> no início do século XX e até hoje o sistema oficial brasileiro.</li><li><b>DNA</b>: a partir dos anos 1980, a análise do DNA (perfil genético) revolucionou a identificação de restos humanos, manchas e vestígios biológicos.</li></ul>\n<h3>5. Papiloscopia: a pele das mãos e dos pés</h3>\n<ul><li><b>Papiloscopia</b> é a ciência que trata da identificação por meio das <b>papilas dérmicas</b> (as saliências da pele das polpas dos dedos, das palmas e das plantas). Divide-se em:</li></ul>\n<table class=\"tab\"><thead><tr><th>Ramo</th><th>Região estudada</th></tr></thead><tbody><tr><td><b>Datiloscopia</b></td><td><b>polpas dos dedos</b> (impressões digitais)</td></tr><tr><td><b>Quiroscopia</b></td><td><b>palmas das mãos</b></td></tr><tr><td><b>Podoscopia</b></td><td><b>plantas dos pés</b> (útil, por exemplo, em recém-nascidos)</td></tr><tr><td><b>Poroscopia</b></td><td>os <b>poros</b> sudoríparos ao longo das cristas (forma, tamanho e posição); estudada por <b>Locard</b></td></tr></tbody></table>\n<ul><li><b>Cristas papilares</b>: as linhas em relevo que formam o desenho; entre elas ficam os <b>sulcos interpapilares</b>. Nas cristas abrem-se os <b>poros</b> das glândulas sudoríparas.</li><li><b>Formação</b>: o desenho papilar se forma na <b>vida intrauterina</b>, estando definido por volta do <b>6º mês</b> de gestação, e <b>persiste</b> por toda a vida e após a morte, <b>até a destruição da pele pela putrefação</b>.</li><li><b>Imutabilidade</b>: lesões <b>superficiais</b> (queimaduras leves, cortes superficiais) se regeneram com o <b>mesmo desenho</b>. Lesões <b>profundas</b>, que atingem a derme, deixam <b>cicatriz</b>, que passa a ser um <b>sinal particular</b> (e também ajuda a identificar).</li><li><b>Unicidade</b>: não há registro de dois dedos com o mesmo desenho papilar, nem entre <b>gêmeos idênticos</b> (univitelinos). Este é um ponto importante: <b>o DNA nuclear dos gêmeos univitelinos é igual, mas as digitais são diferentes</b>.</li></ul>\n<h3>6. O sistema datiloscópico de Vucetich</h3>\n<ul><li><b>Elementos do datilograma</b>: o desenho tem <b>três sistemas de linhas</b>: <b>basilar</b> (linhas da base, perto da prega da falange), <b>marginal</b> (linhas da ponta e das bordas do dedo) e <b>nuclear</b> (as do centro, o <b>núcleo</b>). O <b>delta</b> é a figura em forma de <b>triângulo</b> (lembra a letra grega delta) que se forma onde os três sistemas de linhas se encontram.</li><li>A classificação de Vucetich se baseia na <b>presença e na posição do delta</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo fundamental</th><th>Delta</th><th>Polegar</th><th>Demais dedos</th></tr></thead><tbody><tr><td><b>Arco</b></td><td><b>não tem</b> delta (as linhas atravessam o dedo de um lado a outro, em forma de arco)</td><td><b>A</b></td><td><b>1</b></td></tr><tr><td><b>Presilha interna</b></td><td><b>1 delta</b>, à <b>direita do observador</b> (as linhas do núcleo voltam para a <b>esquerda</b> do observador)</td><td><b>I</b></td><td><b>2</b></td></tr><tr><td><b>Presilha externa</b></td><td><b>1 delta</b>, à <b>esquerda do observador</b> (as linhas do núcleo voltam para a <b>direita</b> do observador)</td><td><b>E</b></td><td><b>3</b></td></tr><tr><td><b>Verticilo</b></td><td><b>2 deltas</b>, um de cada lado (as linhas do núcleo formam círculos, espirais ou ovais)</td><td><b>V</b></td><td><b>4</b></td></tr></tbody></table>\n<ul><li><b>Atenção</b>: \"interna\" e \"externa\" são definidas em relação ao <b>observador</b> que olha a impressão (na ficha), e não à mão da pessoa.</li><li><b>Símbolos especiais</b>: <b>0</b> (zero) para dedo <b>amputado</b> ou ausente; <b>X</b> para dedo com <b>cicatriz ou anomalia</b> que impeça a classificação.</li><li><b>Fórmula datiloscópica</b>: na ficha, os dez dedos são classificados e organizados como uma \"fração\":</li></ul>\n<table class=\"tab\"><thead><tr><th>Parte</th><th>Dedos</th><th>Representação</th></tr></thead><tbody><tr><td><b>Série</b> (numerador)</td><td><b>mão direita</b></td><td><b>Fundamental</b> = polegar direito (letra) + <b>Divisão</b> = indicador, médio, anular e mínimo direitos (números)</td></tr><tr><td><b>Seção</b> (denominador)</td><td><b>mão esquerda</b></td><td><b>Subclassificação</b> = polegar esquerdo (letra) + <b>Subdivisão</b> = demais dedos esquerdos (números)</td></tr></tbody></table>\n<ul><li>Exemplo: <b>V 4343 / E 3232</b> significa: polegar direito verticilo; indicador direito verticilo, médio direito presilha externa etc.; polegar esquerdo presilha externa, e assim por diante.</li><li>A fórmula serve para <b>arquivar e localizar</b> a ficha (classificabilidade). A <b>identificação</b> propriamente dita (a prova de que duas impressões são do mesmo dedo) se faz pela coincidência dos <b>pontos característicos</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na presilha interna, o delta fica à esquerda do observador</span><br>✅ <span class=\"certo\">Fica à <b>direita</b> do observador; na externa, à <b>esquerda</b></span></li><li>❌ <span class=\"banca\">O arco tem um delta central</span><br>✅ <span class=\"certo\">O arco <b>não tem delta</b></span></li><li>❌ <span class=\"banca\">O símbolo X indica dedo amputado</span><br>✅ <span class=\"certo\">Amputação = <b>0</b>; <b>X</b> = cicatriz ou anomalia que impede classificar</span></li><li>❌ <span class=\"banca\">A série corresponde à mão esquerda</span><br>✅ <span class=\"certo\">A <b>série</b> é a <b>mão direita</b>; a <b>seção</b> é a <b>mão esquerda</b></span></li><li>❌ <span class=\"banca\">Gêmeos idênticos têm digitais iguais</span><br>✅ <span class=\"certo\">As digitais são <b>diferentes</b>; o que é igual é o <b>DNA nuclear</b></span></li></ol></div>\n<h3>7. Pontos característicos (minúcias) e o confronto papiloscópico</h3>\n<ul><li><b>Pontos característicos</b> (minúcias) são os <b>acidentes</b> das cristas papilares: onde uma crista <b>termina</b>, <b>se divide</b>, <b>forma uma ilha</b> etc. Os principais:</li></ul>\n<table class=\"tab\"><thead><tr><th>Ponto característico</th><th>Descrição</th></tr></thead><tbody><tr><td><b>Ponto</b></td><td>crista curtíssima, quase um ponto</td></tr><tr><td><b>Ilhota</b></td><td>crista curta e isolada</td></tr><tr><td><b>Cortada</b> (terminação)</td><td>crista que <b>termina</b> abruptamente</td></tr><tr><td><b>Bifurcação</b></td><td>crista que se <b>divide em duas</b></td></tr><tr><td><b>Forquilha</b></td><td>duas cristas que <b>se unem</b> em uma</td></tr><tr><td><b>Encerro</b> (lago)</td><td>crista que se divide e se reúne de novo, formando um <b>pequeno espaço fechado</b></td></tr><tr><td><b>Anastomose</b></td><td>pequena crista que <b>liga</b> duas cristas vizinhas</td></tr></tbody></table>\n<ul><li><b>Confronto</b>: o perito compara a impressão questionada (do local ou do cadáver) com a impressão padrão (da ficha). Para afirmar a <b>identidade</b>, exige-se a <b>coincidência de pontos característicos</b> quanto à <b>natureza, posição e relação</b> entre eles, <b>sem nenhuma divergência inexplicável</b>.</li><li><b>Número de pontos</b>: a lei brasileira <b>não fixa</b> um número. A tradição pericial brasileira e a doutrina costumam mencionar <b>12 pontos</b> coincidentes como referência, mas o que vale é a análise técnica do conjunto (qualidade da impressão, raridade dos pontos). <b>Uma única divergência real</b> afasta a identidade.</li><li><b>AFIS</b> (<i>Automated Fingerprint Identification System</i>): sistema informatizado que compara automaticamente uma impressão com milhões de registros e aponta os <b>candidatos mais prováveis</b>. A <b>conclusão final</b> é do <b>perito papiloscopista</b>, que faz o confronto.</li></ul>\n<h3>8. Impressões no local do crime</h3>\n<table class=\"tab\"><thead><tr><th>Tipo de impressão</th><th>Como se forma</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Visível</b></td><td>o dedo sujo de substância deixa a marca à vista</td><td>digital de sangue, tinta ou graxa</td></tr><tr><td><b>Latente</b></td><td>formada pelo <b>suor e pela gordura</b> da pele; <b>invisível</b> a olho nu, precisa ser <b>revelada</b></td><td>digital em copo, vidro, maçaneta</td></tr><tr><td><b>Moldada</b> (plástica)</td><td>o dedo <b>afunda</b> em superfície mole e deixa o <b>molde</b></td><td>digital em massa de vidraceiro, cera, sabão, chocolate</td></tr></tbody></table>\n<ul><li><b>Revelação de latentes</b>: <b>pós</b> (reveladores de cor contrastante, aplicados com pincel), <b>vapores de iodo</b>, <b>ninidrina</b> (reage com aminoácidos do suor, ótima em <b>papel</b>), <b>cianoacrilato</b> (vapor de \"supercola\", que polimeriza sobre a digital) e outras técnicas químicas e de luz forense.</li><li><b>Cadeia de custódia</b>: a impressão revelada é <b>fotografada</b> e <b>levantada</b> (com fita própria) e passa a ser vestígio, com toda a documentação dos arts. 158-A a 158-F do CPP.</li><li><b>Cuidado do policial</b>: não tocar em superfícies lisas no local (copos, garrafas, maçanetas, volante do carro) e usar luvas. Uma digital do próprio policial no local é <b>contaminação</b> e pode confundir a investigação.</li></ul>\n<h3>9. Necropapiloscopia: identificação de cadáveres pelas digitais</h3>\n<ul><li>No <b>cadáver recente</b>, a coleta é feita como no vivo, às vezes com ajuda de instrumentos (colher curva) por causa da rigidez.</li><li>Na <b>putrefação</b>, a camada superficial da pele (epiderme) se <b>destaca</b> das mãos como uma \"<b>luva</b>\" (luva cadavérica). O perito pode <b>vestir</b> essa luva sobre a própria mão enluvada para coletar as impressões. Também se pode coletar da <b>derme</b>, que conserva o desenho.</li><li>Em dedos <b>mumificados</b> ou <b>desidratados</b>, usam-se técnicas de <b>reidratação</b> (soluções que devolvem o volume às polpas) antes da coleta.</li><li>Em <b>afogados</b>, a pele fica enrugada (mão de lavadeira) e pode exigir técnicas de <b>injeção</b> de líquido sob a polpa para esticar a pele.</li><li>Quando a pele foi destruída (carbonização total, putrefação avançada, esqueletização), as digitais <b>não servem</b>, e a identificação passa à <b>odontologia</b> e ao <b>DNA</b>.</li></ul>\n<h3>10. Outros métodos baseados no corpo</h3>\n<table class=\"tab\"><thead><tr><th>Método</th><th>O que estuda</th><th>Observação</th></tr></thead><tbody><tr><td><b>Queiloscopia</b></td><td>os <b>sulcos dos lábios</b> (impressão labial)</td><td>útil em marcas de batom em copos, guardanapos</td></tr><tr><td><b>Rugoscopia palatina</b> (palatoscopia)</td><td>as <b>rugosidades do palato</b> (céu da boca)</td><td>protegidas pelos dentes e pela língua; resistem bem a queimaduras</td></tr><tr><td><b>Otoscopia</b> (otomorfologia)</td><td>a <b>forma da orelha</b></td><td>marcas de orelha encostada em portas e janelas</td></tr><tr><td><b>Reconhecimento facial</b></td><td>proporções e pontos do <b>rosto</b></td><td>auxiliar; depende da qualidade da imagem e tem margem de erro</td></tr><tr><td><b>Retina e íris</b></td><td>padrões vasculares da retina e desenho da íris</td><td>usados em controle de acesso; pouca aplicação pericial em cadáveres</td></tr><tr><td><b>Voz</b></td><td>características acústicas da fala</td><td>perícia de <b>comparação de locutor</b> em gravações</td></tr></tbody></table>\n<ul><li><b>Assinalamento sucinto</b> (ou descritivo): registro organizado dos <b>sinais particulares</b>: cicatrizes, tatuagens, manchas, malformações, sinais profissionais (calos), defeitos físicos. Ajuda muito na identificação, sobretudo de cadáveres.</li></ul>\n<h3>11. Identificação médico-legal: o roteiro do legista</h3>\n<ul><li>Diante de um cadáver desconhecido ou de uma ossada, o legista segue, em regra, uma sequência: <b>1)</b> é material <b>humano</b>? <b>2)</b> qual o <b>sexo</b>? <b>3)</b> qual a <b>idade</b> aproximada? <b>4)</b> qual a <b>estatura</b>? <b>5)</b> qual a <b>ancestralidade</b>? <b>6)</b> há <b>sinais individuais</b> (fraturas antigas, próteses, tatuagens, doenças)? <b>7)</b> há <b>registros anteriores</b> para comparar (fichas dentárias, radiografias, digitais, DNA de parentes)? Paralelamente, estima o <b>tempo de morte</b> (tema de Tanatologia) e a <b>causa da morte</b>.</li></ul>\n<h3>12. Espécie: é humano?</h3>\n<ul><li><b>Ossos inteiros</b>: a anatomia comparada resolve a maioria dos casos (forma, tamanho, proporções). Ossos de animais (boi, porco, cachorro) às vezes são confundidos por leigos com ossos humanos.</li><li><b>Fragmentos de osso</b>: o exame <b>microscópico</b> ajuda: os <b>canais de Havers</b> (onde passam vasos no osso compacto) têm diâmetro e distribuição diferentes no homem e em muitos animais.</li><li><b>Manchas de sangue</b>: primeiro se confirma que é <b>sangue</b> (testes de orientação e de certeza) e depois a <b>espécie</b>, por <b>reações imunológicas</b> (soro anti-humano, que reage só com proteínas humanas, como na reação de precipitação) ou por <b>DNA</b>.</li><li><b>Pelos</b>: a microscopia da <b>medula</b>, da <b>cutícula</b> e do <b>córtex</b> diferencia pelos humanos dos de animais.</li></ul>\n<h3>13. Sexo</h3>\n<ul><li><b>No vivo</b>: em regra, o exame dos caracteres sexuais resolve. Nos <b>estados intersexuais</b> (anomalias da diferenciação sexual), o diagnóstico exige avaliação genética (cariótipo), hormonal e anatômica. O <b>corpúsculo de Barr</b> (cromatina sexual, presente nas células com dois cromossomos X) e a <b>análise do DNA</b> (como o gene da <b>amelogenina</b>, que diferencia X e Y) ajudam no sexo <b>genético</b>.</li><li><b>No cadáver recente</b>: exame externo e interno (genitais internos, útero, próstata).</li><li><b>Na ossada</b>: a <b>pelve</b> é a parte do esqueleto <b>mais confiável</b> para o sexo, porque a pelve feminina é adaptada à <b>gestação e ao parto</b>. Depois vêm o <b>crânio</b> e os ossos longos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Estrutura</th><th>Feminino</th><th>Masculino</th></tr></thead><tbody><tr><td><b>Pelve (conjunto)</b></td><td>mais <b>larga e baixa</b>; abertura superior <b>arredondada/oval</b></td><td>mais <b>alta e estreita</b>; abertura em forma de <b>coração</b></td></tr><tr><td><b>Ângulo subpúbico</b></td><td><b>amplo</b> (aberto, em \"U\", em torno de 90° ou mais)</td><td><b>fechado</b> (em \"V\", bem menor)</td></tr><tr><td><b>Incisura isquiática maior</b></td><td><b>larga</b></td><td><b>estreita</b></td></tr><tr><td><b>Sacro</b></td><td>mais <b>curto e largo</b></td><td>mais <b>longo e estreito</b></td></tr><tr><td><b>Crânio</b></td><td>mais leve e liso; <b>fronte vertical</b>; arcos superciliares e glabela <b>pouco marcados</b>; bordas superiores das órbitas <b>cortantes</b></td><td>mais pesado e robusto; <b>glabela e arcos superciliares salientes</b>; processos <b>mastoides</b> maiores; <b>protuberância occipital</b> marcada; bordas das órbitas <b>rombas</b></td></tr><tr><td><b>Mandíbula</b></td><td>mais delicada; mento arredondado</td><td>mais robusta; mento <b>quadrado</b>; ângulo mandibular mais marcado</td></tr><tr><td><b>Ossos longos</b></td><td>mais finos; inserções musculares discretas</td><td>mais robustos; inserções musculares marcadas; <b>cabeça do fêmur</b> maior</td></tr></tbody></table>\n<ul><li><b>Margem de erro</b>: com a pelve inteira, a estimativa do sexo é muito confiável; com o crânio sozinho, menos; com fragmentos, pode ser impossível. Antes da <b>puberdade</b>, as diferenças ósseas são pequenas, e o sexo de esqueletos infantis é difícil de estimar pela morfologia: o <b>DNA</b> resolve.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O crânio é a peça mais confiável para o sexo</span><br>✅ <span class=\"certo\">A <b>pelve</b> é a mais confiável</span></li><li>❌ <span class=\"banca\">A pelve masculina tem ângulo subpúbico amplo</span><br>✅ <span class=\"certo\">Amplo é o <b>feminino</b>; o masculino é <b>fechado</b></span></li><li>❌ <span class=\"banca\">As bordas orbitárias do homem são cortantes</span><br>✅ <span class=\"certo\">Cortantes no <b>feminino</b>; <b>rombas</b> no masculino</span></li><li>❌ <span class=\"banca\">O sexo de esqueleto de criança é facilmente estimado pela pelve</span><br>✅ <span class=\"certo\">Antes da puberdade, a estimativa morfológica é difícil; usa-se <b>DNA</b></span></li></ol></div>\n<h3>14. Idade</h3>\n<ul><li>A estimativa da idade interessa ao Direito em muitas situações: <b>imputabilidade penal</b> (18 anos), <b>estupro de vulnerável</b> (menor de 14), aplicação do <b>ECA</b>, <b>atenuante</b> e <b>prescrição</b> (menor de 21 na data do fato; maior de 70 na data da sentença), <b>Estatuto da Pessoa Idosa</b> (60 anos), adoção, casamento, alistamento militar, aposentadoria, identificação de cadáveres.</li></ul>\n<table class=\"tab\"><thead><tr><th>Idade</th><th>Relevância jurídica</th></tr></thead><tbody><tr><td><b>Menor de 12</b></td><td><b>criança</b> (ECA, art. 2º): medidas de proteção, não socioeducativas</td></tr><tr><td><b>12 a 18</b> incompletos</td><td><b>adolescente</b> (ECA): medidas socioeducativas</td></tr><tr><td><b>Menor de 14</b></td><td>vítima de <b>estupro de vulnerável</b> (CP, art. 217-A)</td></tr><tr><td><b>18</b></td><td><b>imputabilidade penal</b> (CP, art. 27; CF, art. 228)</td></tr><tr><td><b>Menor de 21 na data do fato</b></td><td><b>atenuante</b> genérica (CP, art. 65, I) e <b>prescrição pela metade</b> (CP, art. 115)</td></tr><tr><td><b>60</b></td><td><b>pessoa idosa</b> (Estatuto da Pessoa Idosa)</td></tr><tr><td><b>Maior de 70 na data da sentença</b></td><td><b>atenuante</b> (art. 65, I) e <b>prescrição pela metade</b> (art. 115)</td></tr></tbody></table>\n<ul><li><b>No feto e no recém-nascido</b>: comprimento, peso, perímetros e, principalmente, os <b>núcleos de ossificação</b>. O <b>núcleo de Béclard</b> (centro de ossificação da <b>epífise distal do fêmur</b>) aparece no <b>fim da gestação</b>, e sua presença é sinal de <b>maturidade fetal</b> (feto a termo), dado importante no infanticídio e no aborto.</li><li><b>Na criança e no adolescente</b>: <b>erupção dentária</b> e <b>idade óssea</b> (radiografia de <b>mão e punho</b>, que mostra o aparecimento e a fusão dos centros de ossificação).</li></ul>\n<table class=\"tab\"><thead><tr><th>Dentição</th><th>Época aproximada</th></tr></thead><tbody><tr><td><b>Decídua</b> (de leite, 20 dentes)</td><td>começa por volta dos <b>6 meses</b> e se completa por volta dos <b>2 a 3 anos</b></td></tr><tr><td><b>Permanente</b> (32 dentes)</td><td>o <b>primeiro molar permanente</b> surge por volta dos <b>6 anos</b>; o <b>segundo molar</b>, por volta dos <b>12 anos</b></td></tr><tr><td><b>Terceiro molar</b> (siso)</td><td>geralmente entre <b>17 e 21 anos</b> ou mais; pode não erupcionar; sua <b>formação radiográfica</b> é usada para estimar se a pessoa tem <b>mais ou menos de 18 anos</b></td></tr></tbody></table>\n<ul><li><b>No adulto jovem</b>: a <b>fusão das epífises</b> (soldadura das extremidades dos ossos longos às diáfises) e a <b>fusão de outros centros</b> (como a da extremidade medial da clavícula, uma das últimas a fundir, por volta dos 20 e poucos anos) indicam o fim do crescimento.</li><li><b>No adulto e no idoso</b>: a estimativa fica mais imprecisa. Usam-se: o aspecto da <b>sínfise púbica</b> (que muda de rugosa e ondulada no jovem para lisa e irregular com a idade), a <b>extremidade esternal das costelas</b>, o <b>fechamento das suturas cranianas</b> (progressivo, mas muito variável), o desgaste dentário, a <b>osteoporose</b>, a artrose, e, no vivo, pele, cabelos, <b>arco senil</b> (anel esbranquiçado na córnea) e outros sinais.</li><li><b>Faixas, não números exatos</b>: o laudo deve informar uma <b>faixa de idade</b> (\"entre 25 e 35 anos\") e não uma idade precisa. Quanto mais velha a pessoa, maior a margem de erro.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Idade de quem não tem documento</b><p>Um jovem sem documentos é preso em flagrante por roubo e diz ter 17 anos. Não há registro civil localizado.</p><details><summary>Ver a solução comentada</summary><p>A autoridade pode requisitar <b>perícia de estimativa de idade</b> (exame clínico, dentário e radiografias de mão e punho, clavícula e terceiros molares). O laudo indicará uma <b>faixa</b>. Se a dúvida persistir, ela deve ser resolvida <b>a favor</b> do investigado quanto à inimputabilidade, até prova em contrário (por isso a busca do registro civil continua sendo essencial).</p></details></div>\n<h3>15. Estatura</h3>\n<ul><li><b>No vivo e no cadáver inteiro</b>: medida direta (no cadáver, a medida pode variar alguns centímetros por causa do relaxamento das articulações).</li><li><b>Em ossadas</b>: o comprimento dos <b>ossos longos</b> permite estimar a estatura por meio de <b>tabelas e fórmulas</b> de regressão (como as de Trotter e Gleser, entre outras). O <b>fêmur</b> é o osso que fornece as melhores estimativas isoladas; a tíbia, o úmero e o rádio também são usados. As fórmulas variam conforme o <b>sexo</b> e a <b>população</b>, e o resultado é dado com <b>margem de erro</b>.</li><li><b>Em fragmentos</b>: há tabelas que estimam o osso inteiro a partir de partes (e daí a estatura), com margem de erro maior.</li></ul>\n<h3>16. Ancestralidade (antigamente \"raça\")</h3>\n<ul><li>Livros antigos de Medicina Legal trazem classificações de \"<b>raças</b>\" (como a de <b>Ottolenghi</b>, que dividia em tipos caucásico, mongólico, negroide, indiano e australoide), baseadas em cor da pele, cabelo, forma do crânio e do rosto. Essas classificações <b>ainda aparecem em provas</b> como conteúdo histórico.</li><li>A ciência atual entende que \"raça\" <b>não é uma categoria biológica</b> precisa em seres humanos: a variação é <b>contínua</b>, e a população brasileira é intensamente <b>miscigenada</b>. Por isso, a antropologia forense moderna fala em <b>ancestralidade</b> (origem geográfica predominante dos antepassados), estimada por <b>traços cranianos</b> e, com mais precisão, por <b>marcadores genéticos</b>, sempre como <b>dado auxiliar</b> e com margem de incerteza.</li></ul>\n<h3>17. Sinais individuais</h3>\n<ul><li><b>Malformações</b> e <b>anomalias</b> (dedos extras, fenda labial, assimetrias).</li><li><b>Cicatrizes</b> cirúrgicas ou traumáticas, <b>tatuagens</b> (desenho, local, técnica) e <b>piercings</b>.</li><li><b>Sinais profissionais</b>: calos e deformidades típicas de certas atividades (mãos de trabalhador braçal, calosidade de músicos de corda), manchas de produtos químicos.</li><li><b>Próteses e implantes</b>: próteses ortopédicas, marca-passos e implantes mamários podem ter <b>número de série</b>, rastreável até o hospital e o paciente.</li><li><b>Fraturas consolidadas</b> e <b>alterações ósseas</b> comparáveis com <b>radiografias feitas em vida</b> (seios frontais, coluna, implantes). Os <b>seios frontais</b> têm forma muito individual, e sua comparação radiográfica é método reconhecido.</li><li><b>Doenças e tratamentos</b> que deixam marcas (cirurgias, órgãos retirados, cálculos, próteses dentárias).</li></ul>\n<h3>18. Odontologia legal</h3>\n<ul><li>A <b>Odontologia Legal</b> aplica a odontologia ao Direito. O <b>odontolegista</b> é perito de natureza criminal (Lei 12.030/2009).</li><li><b>Por que os dentes são tão úteis</b>: são as estruturas <b>mais resistentes</b> do corpo (resistem ao <b>fogo</b>, à <b>putrefação</b> e ao tempo) e são muito <b>individuais</b>: número, posição, forma, desgastes, cáries, <b>restaurações</b>, tratamentos de canal, <b>próteses</b>, implantes e aparelhos.</li><li><b>Método</b>: <b>comparação</b> entre os dados <b>post mortem</b> (exame da arcada do cadáver, radiografias) e os dados <b>ante mortem</b> (prontuário do dentista, radiografias panorâmicas, fotografias, modelos de gesso). Por isso a importância de o dentista <b>manter o prontuário</b> do paciente.</li><li><b>Estimativas</b>: os dentes também ajudam a estimar <b>idade</b> (erupção, formação radicular, desgaste) e às vezes hábitos (fumo, bruxismo).</li><li><b>Marcas de mordida</b>: em vítimas de agressão sexual ou em alimentos deixados no local. Podem ajudar a <b>incluir ou excluir</b> suspeitos, mas a comparação de mordidas tem <b>limitações científicas</b> reconhecidas (a pele se deforma), e hoje o maior valor está no <b>DNA da saliva</b> coletado da mordida.</li><li><b>Rugoscopia palatina</b>: as rugosidades do céu da boca são individuais e protegidas do fogo; registros em próteses ou modelos podem ser comparados.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os dentes são destruídos rapidamente pelo fogo</span><br>✅ <span class=\"certo\">São as estruturas <b>mais resistentes</b> ao fogo e à putrefação</span></li><li>❌ <span class=\"banca\">A odontologia legal dispensa registros anteriores</span><br>✅ <span class=\"certo\">A identificação se faz por <b>comparação</b> com dados <b>ante mortem</b> (prontuário, radiografias)</span></li><li>❌ <span class=\"banca\">A marca de mordida é prova infalível de autoria</span><br>✅ <span class=\"certo\">Tem <b>limitações</b>; o maior valor está no <b>DNA da saliva</b></span></li></ol></div>\n<h3>19. DNA (perfil genético)</h3>\n<ul><li>O <b>DNA</b> carrega a informação genética. Para identificação, não se lê o genoma inteiro: analisam-se regiões que <b>variam muito entre as pessoas</b> (os <b>STR</b>, repetições curtas em sequência). O resultado é um <b>perfil genético</b>, uma espécie de \"código\" numérico.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de DNA</th><th>Herança</th><th>Uso típico</th></tr></thead><tbody><tr><td><b>DNA nuclear</b> (autossômico)</td><td>metade do pai, metade da mãe</td><td><b>identificação individual</b> e <b>vínculo genético</b> (paternidade); padrão de referência</td></tr><tr><td><b>Cromossomo Y</b></td><td>passa <b>de pai para filho</b> (linhagem <b>paterna</b>), igual em todos os homens da mesma linhagem</td><td>misturas de material de homem e mulher (crimes sexuais); buscas por parentes do lado paterno</td></tr><tr><td><b>DNA mitocondrial</b></td><td>passa <b>da mãe para todos os filhos</b> (linhagem <b>materna</b>)</td><td>ossos antigos, dentes, <b>cabelos sem raiz</b>, material muito degradado; comparação com parentes <b>maternos</b></td></tr></tbody></table>\n<ul><li><b>Onde se encontra</b>: sangue, sêmen, saliva, pelos <b>com raiz</b> (bulbo), células da pele (DNA de toque), ossos, dentes, unhas, tecidos.</li><li><b>Gêmeos univitelinos</b> têm o <b>mesmo DNA nuclear</b>: o exame comum <b>não os diferencia</b>. Já as <b>impressões digitais</b> dos gêmeos são <b>diferentes</b>.</li><li><b>Identificação de cadáver por DNA</b>: compara-se o perfil do cadáver com o de <b>objetos pessoais</b> do desaparecido (escova de dentes, pente) ou com o de <b>parentes biológicos</b> (pais e filhos são as melhores referências; irmãos também ajudam).</li><li><b>Contaminação</b>: o DNA é sensível; o material deve ser coletado com <b>luvas, máscara</b>, instrumentos <b>descartáveis</b> e embalagens <b>separadas</b> e adequadas (manchas úmidas secam antes de embalar, em papel, não em plástico fechado, para evitar fungos). Tudo isso dentro da <b>cadeia de custódia</b>.</li><li><b>Paternidade</b>: o filho herda metade dos marcadores do pai e metade da mãe; a <b>exclusão</b> é categórica (se o suposto pai não tem os marcadores paternos, não é o pai), e a <b>inclusão</b> é expressa em <b>probabilidade</b> muito alta. No processo civil, a <b>recusa</b> do suposto pai a fazer o exame gera <b>presunção relativa</b> de paternidade (Súmula 301 do STJ).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O DNA diferencia gêmeos idênticos</span><br>✅ <span class=\"certo\">Gêmeos univitelinos têm o <b>mesmo DNA nuclear</b>; as <b>digitais</b> é que diferem</span></li><li>❌ <span class=\"banca\">O DNA mitocondrial é herdado do pai</span><br>✅ <span class=\"certo\">É herdado da <b>mãe</b>; o do <b>cromossomo Y</b> passa de pai para filho</span></li><li>❌ <span class=\"banca\">Cabelo arrancado sem raiz serve para DNA nuclear</span><br>✅ <span class=\"certo\">Sem raiz, em regra só serve o DNA <b>mitocondrial</b></span></li><li>❌ <span class=\"banca\">Mancha de sangue úmida deve ser embalada em saco plástico fechado</span><br>✅ <span class=\"certo\">Deve <b>secar</b> e ir em <b>papel</b>, para não degradar</span></li></ol></div>\n<h3>20. Banco Nacional de Perfis Genéticos</h3>\n<ul><li>A <b>Lei 12.654/2012</b> alterou a Lei 12.037/2009 e a <b>LEP</b> para permitir a coleta de <b>perfil genético</b> e criou a base para os <b>bancos de perfis genéticos</b>, geridos por <b>unidade oficial de perícia criminal</b>.</li><li><b>Na identificação criminal</b> (Lei 12.037/2009, art. 5º, parágrafo único): na hipótese em que a identificação é <b>essencial às investigações</b> (art. 3º, IV), ela pode incluir a <b>coleta de material biológico</b> para obter o perfil genético, por <b>decisão judicial</b>.</li><li><b>Limites</b> (art. 5º-A): os dados <b>não podem revelar traços somáticos ou comportamentais</b> das pessoas, <b>exceto determinação genética de gênero</b>, de acordo com normas de direitos humanos; os dados têm <b>caráter sigiloso</b>, respondendo civil, penal e administrativamente quem os usar para fins diversos.</li><li><b>Exclusão do perfil</b> (art. 7º-A): ocorre no caso de <b>absolvição</b> do acusado ou, no caso de <b>condenação</b>, mediante requerimento, após decorridos <b>20 anos</b> do cumprimento da pena.</li><li><b>Condenados</b> (LEP, art. 9º-A): os condenados pelos crimes ali previstos (crimes dolosos praticados com <b>violência grave contra a pessoa</b>, entre outros) são submetidos <b>obrigatoriamente</b> à identificação do perfil genético, por técnica <b>adequada e indolor</b>. A <b>recusa</b> do condenado em se submeter ao procedimento constitui <b>falta grave</b> (LEP, art. 9º-A, § 8º).</li></ul>\n<h3>21. Identificação criminal (CF, art. 5º, LVIII, e Lei 12.037/2009)</h3>\n<ul><li><b>Regra constitucional</b>: \"o <b>civilmente identificado não será submetido a identificação criminal</b>, <b>salvo nas hipóteses previstas em lei</b>\" (CF, art. 5º, LVIII). A antiga <b>Súmula 568 do STF</b> (que dizia que a identificação criminal não constituía constrangimento ilegal, ainda que o indiciado já estivesse identificado civilmente) ficou <b>superada</b> pela Constituição de 1988.</li><li><b>Documentos que provam a identificação civil</b> (art. 2º): carteira de <b>identidade</b>, carteira de <b>trabalho</b>, carteira <b>profissional</b>, <b>passaporte</b>, carteira de <b>identificação funcional</b> ou <b>outro documento público</b> que permita a identificação. Equiparam-se aos documentos civis os de identificação <b>militares</b>.</li><li><b>Identificação criminal</b> compreende o processo <b>datiloscópico</b> e o <b>fotográfico</b>, juntados aos autos (art. 5º), e, na hipótese do art. 3º, IV, a coleta de material biológico.</li></ul>\n<table class=\"tab\"><thead><tr><th>Hipóteses de identificação criminal do civilmente identificado (art. 3º)</th><th>Exemplo</th></tr></thead><tbody><tr><td>I – o documento apresentar <b>rasura</b> ou tiver <b>indício de falsificação</b></td><td>foto da carteira com sinais de troca</td></tr><tr><td>II – o documento apresentado for <b>insuficiente</b> para identificar cabalmente o indiciado</td><td>documento sem foto</td></tr><tr><td>III – o indiciado portar <b>documentos de identidade distintos</b>, com <b>informações conflitantes</b> entre si</td><td>dois RGs com datas de nascimento diferentes</td></tr><tr><td>IV – a identificação criminal for <b>essencial às investigações policiais</b>, segundo <b>despacho da autoridade judiciária</b> competente, que decidirá <b>de ofício</b> ou mediante representação da <b>autoridade policial</b>, do <b>MP</b> ou da <b>defesa</b></td><td>suspeito de série de crimes com digitais no local</td></tr><tr><td>V – constar de registros policiais o <b>uso de outros nomes</b> ou diferentes qualificações</td><td>ficha com vários \"vulgos\" e nomes</td></tr><tr><td>VI – o <b>estado de conservação</b> ou a <b>distância temporal</b> ou a <b>localidade da expedição</b> do documento impossibilitar a completa identificação dos caracteres essenciais</td><td>RG muito antigo, ilegível, com foto de criança</td></tr></tbody></table>\n<ul><li><b>Constrangimento</b> (art. 4º): quando houver necessidade de identificação criminal, a autoridade encarregada tomará as providências necessárias para <b>evitar o constrangimento</b> do identificado.</li><li><b>Sigilo</b> (art. 6º): é <b>vedado mencionar</b> a identificação criminal do indiciado em <b>atestados de antecedentes</b> ou em informações <b>não destinadas ao juízo criminal</b>, <b>antes do trânsito em julgado</b> da sentença condenatória.</li><li><b>Retirada da foto</b> (art. 7º): no caso de <b>não oferecimento da denúncia</b>, ou sua <b>rejeição</b>, ou <b>absolvição</b>, é facultado ao indiciado ou ao réu, <b>após o arquivamento definitivo</b> do inquérito ou o <b>trânsito em julgado</b> da sentença, requerer a <b>retirada da identificação fotográfica</b> do inquérito ou processo, desde que apresente provas de sua <b>identificação civil</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O preso em flagrante sempre deve ser identificado criminalmente</span><br>✅ <span class=\"certo\">O <b>civilmente identificado</b> só é identificado criminalmente nas <b>hipóteses do art. 3º</b></span></li><li>❌ <span class=\"banca\">A identificação criminal essencial às investigações pode ser determinada pelo delegado</span><br>✅ <span class=\"certo\">Depende de <b>despacho da autoridade judiciária</b>; o delegado <b>representa</b></span></li><li>❌ <span class=\"banca\">A identificação criminal compreende apenas a datiloscopia</span><br>✅ <span class=\"certo\">Compreende o processo <b>datiloscópico e fotográfico</b> (e, no caso do art. 3º, IV, a coleta de material biológico)</span></li><li>❌ <span class=\"banca\">O perfil genético pode revelar traços físicos e de comportamento</span><br>✅ <span class=\"certo\">É <b>vedado</b>, <b>exceto</b> a determinação genética de <b>gênero</b></span></li><li>❌ <span class=\"banca\">A Súmula 568 do STF continua em vigor</span><br>✅ <span class=\"certo\">Foi <b>superada</b> pela CF/1988 (art. 5º, LVIII)</span></li></ol></div>\n<h3>22. Reconhecimento de pessoas (CPP, art. 226)</h3>\n<ul><li>O <b>reconhecimento</b> não é método de identificação técnica, mas é cobrado junto. Procedimento: <b>I</b> – a pessoa que tiver de fazer o reconhecimento é convidada a <b>descrever</b> a pessoa a ser reconhecida; <b>II</b> – a pessoa a ser reconhecida é colocada, <b>se possível</b>, ao lado de <b>outras que com ela tiverem qualquer semelhança</b>, convidando-se quem tiver de fazer o reconhecimento a apontá-la; <b>III</b> – se houver razão para recear que a pessoa chamada para o reconhecimento, por intimidação ou outra influência, não diga a verdade em face da pessoa a ser reconhecida, a autoridade providenciará para que <b>esta não veja aquela</b>; <b>IV</b> – do ato lavra-se <b>auto pormenorizado</b>, subscrito pela autoridade, pela pessoa chamada para proceder ao reconhecimento e por <b>duas testemunhas presenciais</b>.</li><li>O disposto no inciso III <b>não tem aplicação</b> na fase da <b>instrução criminal</b> ou em plenário de julgamento (parágrafo único).</li><li>A jurisprudência do STJ passou a exigir a <b>observância</b> do procedimento do art. 226: o reconhecimento feito de forma irregular (por exemplo, por <b>foto única</b> mostrada à vítima) <b>não serve, sozinho</b>, para fundamentar condenação, e deve ser confirmado por outras provas independentes.</li></ul>\n<h3>23. Identificação em desastres e em corpos carbonizados</h3>\n<ul><li>Em <b>desastres de massa</b> (queda de avião, enchente, rompimento de barragem, incêndio de grandes proporções), adota-se o protocolo <b>DVI</b> (<i>Disaster Victim Identification</i>) da <b>Interpol</b>, que organiza o trabalho em: coleta de dados <b>post mortem</b> (no IML), coleta de dados <b>ante mortem</b> (com as famílias: fotos, prontuários, objetos pessoais, amostras de DNA de parentes) e <b>confronto</b> (reconciliação).</li></ul>\n<table class=\"tab\"><thead><tr><th>Métodos em desastres (Interpol)</th><th>Quais</th></tr></thead><tbody><tr><td><b>Primários</b> (individualizam com segurança)</td><td><b>papiloscopia</b>, <b>odontologia</b> (comparação dentária) e <b>DNA</b></td></tr><tr><td><b>Secundários</b> (apenas auxiliam)</td><td>descrição pessoal, <b>sinais médicos</b> (cicatrizes, próteses, tatuagens), <b>objetos pessoais</b> (roupas, documentos, joias)</td></tr></tbody></table>\n<ul><li><b>Documento, roupa ou objeto encontrados com o corpo</b> são indícios, <b>não identificação</b>: podem ter sido trocados, emprestados ou deslocados.</li><li><b>Carbonizados</b>: as digitais costumam ser destruídas; a <b>arcada dentária</b> (que resiste ao fogo) e o <b>DNA</b> de ossos e dentes são os métodos principais. Próteses metálicas com número de série também ajudam.</li><li><b>Reconhecimento visual pela família</b> em corpos desfigurados é <b>pouco confiável</b> (há muitos casos de engano). Por isso, sempre que possível, confirma-se por método primário.</li></ul>\n<h3>24. Identidade jurídica: registro civil e documentos</h3>\n<ul><li>A identidade <b>jurídica</b> (civil) da pessoa nasce com o <b>registro de nascimento</b> no Cartório de Registro Civil (Lei 6.015/1973). Dele decorrem o <b>nome</b>, a <b>filiação</b>, a <b>data e o local de nascimento</b> e, depois, o casamento, o óbito e as averbações.</li><li><b>Recém-nascido</b>: o <b>ECA</b> (art. 10, II) obriga hospitais e demais estabelecimentos de atenção à saúde de gestantes a <b>identificar o recém-nascido</b> mediante o <b>registro de sua impressão plantar e digital</b> e da <b>impressão digital da mãe</b>. É uma medida simples contra <b>troca de bebês</b> e subtração de recém-nascidos. Repare que, no recém-nascido, a <b>planta do pé</b> (podoscopia) é mais fácil de registrar que as pequenas polpas dos dedos.</li><li><b>Número único</b>: a <b>Lei 14.534/2023</b> adotou o número do <b>CPF</b> como número <b>suficiente</b> para a identificação do cidadão nos bancos de dados de serviços públicos. A nova <b>Carteira de Identidade Nacional</b> usa o CPF como número de registro, o que reduz o problema de uma mesma pessoa ter vários RGs em Estados diferentes.</li><li><b>Fraudes de identidade</b>: documentos verdadeiros obtidos com dados falsos (\"documento ideologicamente falso\"), documentos adulterados (troca de foto) e uso de documento de outra pessoa. Por isso, a papiloscopia continua sendo o <b>pilar</b> da identificação civil: o Instituto de Identificação confere as digitais de quem pede a carteira com os registros anteriores.</li><li><b>Falsa identidade</b> (CP, art. 307): atribuir-se ou atribuir a terceiro <b>falsa identidade</b> para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem. A <b>Súmula 522 do STJ</b> afirma que a conduta de atribuir-se falsa identidade <b>perante autoridade policial</b> é <b>típica</b>, <b>ainda que em situação de alegada autodefesa</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Mentir o nome para o delegado é autodefesa e não é crime</span><br>✅ <span class=\"certo\">Súmula 522 do STJ: a conduta é <b>típica</b>, ainda que em alegada autodefesa</span></li><li>❌ <span class=\"banca\">Na maternidade, só se coleta a digital da mãe</span><br>✅ <span class=\"certo\">Coleta-se a <b>impressão plantar e digital do recém-nascido</b> e a <b>digital da mãe</b> (ECA, art. 10, II)</span></li></ol></div>\n<h3>25. Coleta de impressões e a ficha datiloscópica</h3>\n<ul><li><b>Ficha decadactilar</b>: registra as impressões dos <b>dez dedos</b>, cada uma em seu campo, e é a base do arquivo civil e criminal.</li><li><b>Impressão rolada</b>: o dedo é <b>rolado de uma borda à outra</b> da unha, sobre a tinta e depois sobre o papel, para registrar <b>toda a polpa</b>, incluindo os <b>deltas</b> laterais. É a que permite a <b>classificação</b> de Vucetich.</li><li><b>Impressão pousada</b> (batida ou simultânea): os dedos são <b>pousados</b> ao mesmo tempo, sem rolar. Serve para <b>conferir a ordem</b> dos dedos na ficha (evita que o dedo de uma posição seja registrado no lugar de outro).</li><li><b>Coleta digital</b>: hoje, leitores ópticos (*live scan*) substituem tinta e papel em muitos órgãos, com o mesmo princípio (rolada e pousada) e envio direto para o AFIS.</li><li><b>Qualidade</b>: dedos muito secos, muito suados, com calos, cortes recentes ou com a pele gasta (pedreiros, faxineiras, idosos) geram impressões ruins. O técnico ajusta a pressão, limpa e hidrata ou seca a pele, conforme o caso.</li><li><b>Fragmentos</b>: no local de crime, a impressão costuma ser <b>parcial</b> (só uma parte da polpa, borrada ou sobreposta). Mesmo assim, se tiver <b>pontos característicos</b> suficientes e nítidos, permite a identificação por confronto.</li></ul>\n<h3>26. Pelos, cabelos e manchas biológicas</h3>\n<ul><li><b>Pelos e cabelos</b> encontrados no local ou no corpo da vítima podem indicar: se são <b>humanos ou animais</b>; a <b>região do corpo</b> de origem (couro cabeludo, pubianos, axilares, pelos do corpo); se foram <b>arrancados</b> (com raiz/bulbo) ou <b>caíram</b> naturalmente; se foram <b>cortados</b> ou <b>tingidos</b>; e, com raiz, o <b>DNA nuclear</b> da pessoa.</li><li><b>Exame microscópico</b> do pelo: <b>cutícula</b> (escamas da superfície), <b>córtex</b> (onde está o pigmento) e <b>medula</b> (canal central). A comparação microscópica sozinha é <b>pouco individualizadora</b>: pode apontar semelhança, não identidade. Por isso, o exame de DNA é o que identifica.</li><li><b>Manchas de sangue</b>: provas de <b>orientação</b> (indicam que pode ser sangue, como as reações com reagentes que mudam de cor ou brilham na presença de hemoglobina, por exemplo o <b>luminol</b>, útil em locais lavados) e provas de <b>certeza</b> (confirmam que é sangue). Depois: <b>espécie</b> (humano?) e <b>DNA</b> (de quem?). A <b>forma e a distribuição</b> das manchas (gotas, respingos, escorrimentos, marcas de arrasto) ajudam a reconstituir a dinâmica (análise de padrões de manchas de sangue).</li><li><b>Manchas de sêmen</b>: localizadas com <b>luz forense</b> (fluorescência), confirmadas por exames laboratoriais (pesquisa de <b>espermatozoides</b> ao microscópio, ou de substâncias próprias do líquido seminal, como a <b>fosfatase ácida</b> e o antígeno prostático específico, o <b>PSA</b>, que ajuda mesmo quando o agressor não tem espermatozoides, como em vasectomizados) e identificadas por <b>DNA</b> (inclusive do <b>cromossomo Y</b>, útil quando o material está misturado com o da vítima). Tema aprofundado em Sexologia forense.</li><li><b>Saliva</b>: em bitucas de cigarro, copos, envelopes, marcas de mordida; fonte de <b>DNA</b>.</li><li><b>DNA de toque</b>: células da pele deixadas ao manusear objetos (cabo de faca, volante, gatilho). Quantidade pequena, sensível à contaminação; deve ser coletado com técnica (suabes) antes de outras manipulações do objeto.</li></ul>\n<h3>27. Roteiro completo de identificação de uma ossada</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ossada encontrada em mata</b><p>Trabalhadores encontram ossos humanos espalhados em uma área de mata, com restos de roupas e um tênis. Há uma pessoa desaparecida na região há 2 anos.</p><details><summary>Ver a solução comentada</summary><p><b>1) Local</b>: preservação e <b>escavação</b> técnica (com registro da posição de cada osso, do solo, das roupas e dos objetos), porque a disposição dos restos ajuda a entender o que houve (enterro, deslocamento por animais, arrasto pela chuva). <b>2) IML</b>: confirmação de que os ossos são <b>humanos</b>; contagem do <b>número mínimo de indivíduos</b> (se há ossos repetidos, há mais de uma pessoa). <b>3) Perfil biológico</b>: <b>sexo</b> (pelve e crânio), <b>idade</b> (sínfise púbica, costelas, dentes), <b>estatura</b> (fêmur), <b>ancestralidade</b> (com cautela) e <b>sinais individuais</b> (fraturas consolidadas, próteses, tratamentos dentários). <b>4) Causa da morte</b>: lesões <b>perimortem</b> (fraturas sem sinais de consolidação, de bordas com características de osso fresco, perfurações por projétil, cortes) distinguidas de lesões <b>post mortem</b> (quebras de osso seco, ação de animais, raízes). <b>5) Comparação</b>: com a <b>ficha dentária</b> e as <b>radiografias</b> do desaparecido (dados ante mortem), e coleta de <b>DNA</b> de um osso longo ou de dentes para comparar com os <b>pais</b> ou <b>filhos</b>. <b>6) Conclusão</b>: identificação <b>positiva</b> só com método primário (DNA, dentes ou, se houver pele preservada, digitais); roupas e tênis são apenas <b>indícios</b>.</p></details></div>\n<ul><li><b>Tafonomia</b> é o estudo do que acontece com o corpo <b>depois da morte</b> até ser encontrado (decomposição, ação de animais, insetos, plantas, água, clima). Ajuda a estimar o <b>tempo desde a morte</b> e a separar o que é lesão do crime do que é efeito do ambiente.</li><li><b>Lesão perimortem x post mortem</b>: o osso <b>fresco</b> (vivo ou recém-morto) é elástico e quebra com bordas <b>lisas e anguladas</b>, às vezes com fissuras irradiadas; o osso <b>seco</b> quebra de forma mais <b>perpendicular e irregular</b>, com bordas de cor diferente da superfície (fratura \"nova\" em osso velho). Lesões <b>antemortem</b> antigas mostram <b>calo ósseo</b> (sinais de consolidação), o que prova que a pessoa sobreviveu a elas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Roupas e documentos junto à ossada bastam para a identificação positiva</span><br>✅ <span class=\"certo\">São <b>indícios</b>; a identificação positiva exige <b>método primário</b></span></li><li>❌ <span class=\"banca\">Fratura com calo ósseo foi produzida no momento da morte</span><br>✅ <span class=\"certo\">O <b>calo</b> indica que a pessoa <b>sobreviveu</b> (lesão <b>antemortem</b> antiga)</span></li><li>❌ <span class=\"banca\">Encontrando dois fêmures direitos, há um só indivíduo</span><br>✅ <span class=\"certo\">Ossos repetidos indicam <b>pelo menos dois</b> indivíduos (número mínimo de indivíduos)</span></li></ol></div>\n<h3>28. Retrato falado, fotografia e reconhecimento facial</h3>\n<ul><li><b>Retrato falado</b>: imagem do rosto construída a partir da <b>descrição da testemunha</b>, hoje feita em programas de computador com bancos de traços (olhos, nariz, boca, cabelo). Serve para <b>divulgação e busca</b>, não para identificação: depende da memória de quem descreve.</li><li><b>Fotografia de identificação</b>: de frente e de perfil, com padrão de luz e fundo. É parte da identificação criminal (Lei 12.037/2009), ao lado da datiloscopia.</li><li><b>Reconhecimento facial automatizado</b>: programas comparam rostos captados por câmeras com bancos de fotos e apontam <b>candidatos</b>. Tem margens de erro, que variam com a qualidade da imagem, a iluminação, o ângulo e o próprio algoritmo. Por isso, um \"alerta\" do sistema é <b>ponto de partida</b> da investigação, e não prova de autoria: precisa ser confirmado por outros elementos (como a papiloscopia).</li><li><b>Envelhecimento e progressão de idade</b>: em crianças desaparecidas há muitos anos, técnicas de computação projetam como o rosto estaria hoje, para auxiliar buscas.</li><li><b>Comparação facial pericial</b>: o perito compara a imagem questionada (câmera de segurança) com a fotografia padrão do suspeito, analisando proporções e <b>traços morfológicos</b> (forma da orelha, cicatrizes, sinais). O resultado costuma ser expresso em <b>graus de compatibilidade</b>, raramente como certeza.</li></ul>\n<h3>29. Casos práticos para fixar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Digital no copo</b><p>Após um homicídio em um bar, o perito revela uma impressão latente parcial em um copo. O AFIS indica três candidatos.</p><details><summary>Ver a solução comentada</summary><p>O AFIS só <b>sugere</b> candidatos. O <b>perito papiloscopista</b> faz o <b>confronto</b> de pontos característicos com as fichas dos três. Se encontrar coincidência suficiente e <b>nenhuma divergência</b>, conclui pela identidade com um deles. A presença da digital prova que a pessoa <b>tocou o copo</b>, não necessariamente que matou: o investigador precisa ligar esse fato às demais provas (horário, testemunhas, câmeras).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Gêmeo suspeito</b><p>O DNA do sêmen colhido da vítima de estupro coincide com o de um suspeito, que tem um irmão gêmeo univitelino.</p><details><summary>Ver a solução comentada</summary><p>O DNA nuclear <b>não diferencia</b> gêmeos idênticos. A investigação precisa de <b>outros elementos</b>: impressões digitais (que são <b>diferentes</b> entre gêmeos), álibi, câmeras, reconhecimento, telefonia. É um exemplo de que o DNA é poderoso, mas tem limites.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Corpo carbonizado em veículo</b><p>Um carro é encontrado incendiado com um corpo carbonizado no banco do motorista. O carro é de um empresário desaparecido.</p><details><summary>Ver a solução comentada</summary><p>Que o carro seja do empresário é só <b>indício</b>: o corpo pode ser de outra pessoa (inclusive em fraudes contra seguro). O IML deve estimar sexo, idade e estatura, buscar <b>próteses</b> e tratamentos <b>dentários</b>, e fazer o <b>confronto odontológico</b> com o dentista do empresário e o <b>DNA</b> de ossos ou dentes com o dos pais ou filhos. Também verifica se a vítima estava <b>viva no incêndio</b> (fuligem nas vias aéreas, monóxido de carbono no sangue), tema de Energias físicas e Toxicologia.</p></details></div>\n<h3>30. Pessoas desaparecidas e cadáveres não identificados</h3>\n<ul><li><b>Busca imediata</b>: não existe a regra popular de \"esperar 24 horas\" para registrar o desaparecimento. A <b>Lei 13.812/2019</b> instituiu a <b>Política Nacional de Busca de Pessoas Desaparecidas</b> e tratou a busca como <b>prioridade</b>, com caráter de <b>urgência</b>. Para crianças e adolescentes, o <b>ECA</b> (art. 208, § 2º) determina que a investigação do desaparecimento seja realizada <b>imediatamente</b> após a notificação aos órgãos competentes.</li><li><b>Cadastro Nacional de Pessoas Desaparecidas</b>: criado pela mesma lei, reúne informações dos desaparecidos e deve ser cruzado com dados de <b>cadáveres não identificados</b>, de hospitais, abrigos e serviços de assistência.</li><li><b>Papel do IML</b>: todo cadáver <b>não identificado</b> deve ter o <b>máximo de dados registrados</b> antes do sepultamento: <b>fotografias</b> do rosto e de sinais particulares, <b>impressões digitais</b>, <b>ficha odontológica</b>, <b>radiografias</b>, descrição de <b>roupas e objetos</b>, e <b>coleta de material para DNA</b> (dentes, osso, sangue). Assim, se a família aparecer depois, a identificação é possível mesmo após o enterro (e evita <b>exumações</b> desnecessárias).</li><li><b>Coleta de referência das famílias</b>: a família de um desaparecido pode fornecer <b>amostra de DNA</b> (de pais, filhos ou irmãos) para comparação com os perfis de cadáveres não identificados guardados nos bancos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">É preciso esperar 24 horas para comunicar o desaparecimento de uma pessoa</span><br>✅ <span class=\"certo\">Não há essa exigência; a busca é <b>prioridade</b> e, para crianças e adolescentes, a investigação é <b>imediata</b> (ECA, art. 208, § 2º)</span></li><li>❌ <span class=\"banca\">Cadáver não identificado pode ser sepultado sem coleta de material</span><br>✅ <span class=\"certo\">Devem ser registrados digitais, fotos, dentes e <b>material para DNA</b> antes do sepultamento</span></li></ol></div>\n<h3>31. Identidade de gênero, nome social e registro civil</h3>\n<ul><li><b>Sexo biológico</b> (cromossômico, gonadal, anatômico), <b>identidade de gênero</b> (como a pessoa se reconhece) e <b>nome</b> são conceitos diferentes. A Medicina Legal clássica estudava a \"identidade sexual\" sobretudo nos <b>estados intersexuais</b>; hoje o tema inclui também a identidade de gênero.</li><li>O <b>STF</b> (ADI 4.275, 2018) reconheceu às pessoas <b>transgênero</b> o direito à <b>alteração do prenome e do sexo no registro civil</b> diretamente no <b>cartório</b>, <b>independentemente de cirurgia</b> de redesignação ou de laudos médicos ou psicológicos, e independentemente de ação judicial.</li><li><b>Consequência para a identificação</b>: a <b>identidade jurídica</b> (nome e sexo no registro) pode não coincidir com o <b>sexo genético</b> que o DNA indica. Na identificação de um cadáver, por exemplo, o perito deve registrar os achados biológicos com precisão técnica e a autoridade deve considerar o <b>registro civil</b> e as informações da família para não descartar um candidato por divergência apenas aparente.</li><li><b>Estados intersexuais</b>: são condições em que os componentes do sexo (cromossomos, gônadas, genitais, hormônios) não se alinham no padrão típico masculino ou feminino. O diagnóstico é <b>médico e multidisciplinar</b> (genético, hormonal, cirúrgico e psicológico) e pode ter reflexos no registro civil, que hoje admite retificação.</li></ul>\n<h3>32. Identificação de vivos em situações especiais</h3>\n<ul><li><b>Pessoa inconsciente ou sem documentos</b> em hospital: coleta de <b>impressões digitais</b> e consulta ao Instituto de Identificação, fotografias e descrição de sinais. A divulgação de imagem deve respeitar a <b>dignidade</b> e a <b>privacidade</b> da pessoa.</li><li><b>Estrangeiros</b>: confronto com documentos de viagem (passaporte), registros migratórios e cooperação internacional (Interpol). As digitais podem ser comparadas com bancos de outros países por canais oficiais.</li><li><b>Pessoas com mutilação ou doença de pele</b> nos dedos: usam-se as <b>palmas</b> (quiroscopia), outros sinais e o DNA.</li><li><b>Suspeito que se recusa a fornecer as digitais</b>: se a identificação criminal for cabível (Lei 12.037/2009), a recusa não impede o procedimento, que deve ser feito com respeito à integridade física. Já a coleta de <b>material biológico</b> para DNA no investigado depende das regras específicas (decisão judicial na hipótese do art. 3º, IV) e se aproveita, em muitos casos, de <b>material descartado</b> (copo, bituca de cigarro), coletado com cadeia de custódia.</li></ul>\n<h3>33. Estimativa de idade: técnicas e limites</h3>\n<ul><li><b>Métodos dentários radiográficos</b>: avaliam as <b>fases de formação</b> das coroas e raízes (há tabelas e métodos padronizados, como o de Demirjian, muito citado). São os mais confiáveis em <b>crianças</b>, porque a formação dentária segue um ritmo regular.</li><li><b>Idade óssea</b> (mão e punho): compara a radiografia com <b>atlas</b> de referência. Útil até o fim do crescimento; depois de completada a fusão das epífises, perde valor.</li><li><b>Clavícula</b>: a fusão da extremidade <b>medial</b> (junto ao esterno) é das <b>últimas</b> a ocorrer; observada por tomografia, ajuda a separar quem tem <b>mais ou menos de 21 anos</b>, aproximadamente.</li><li><b>Terceiro molar</b>: o grau de formação das <b>raízes</b> dos sisos é usado para estimar se a pessoa tem <b>18 anos ou mais</b>, sempre com margem de erro.</li><li><b>Combinação</b>: recomenda-se usar <b>mais de um método</b> (exame físico, dentes e ossos) e expressar o resultado como <b>faixa</b> com probabilidade. A estimativa de idade de pessoas vivas para fins legais deve ser feita com cautela, porque uma conclusão errada pode levar alguém à prisão comum (se for adolescente) ou negar-lhe proteção.</li><li><b>Variações populacionais e individuais</b>: nutrição, doenças, hormônios e origem populacional alteram o ritmo de crescimento. É por isso que nenhum método dá idade exata.</li></ul>\n<h3>34. Revisão dos principais nomes e termos</h3>\n<table class=\"tab\"><thead><tr><th>Nome ou termo</th><th>O que lembrar</th></tr></thead><tbody><tr><td><b>Alphonse Bertillon</b></td><td>antropometria (bertillonagem), retrato falado e assinalamento; método abandonado</td></tr><tr><td><b>Juan Vucetich</b></td><td>sistema datiloscópico usado no Brasil</td></tr><tr><td><b>Edmond Locard</b></td><td><b>poroscopia</b>; também famoso pelo <b>princípio da troca</b> (\"todo contato deixa um vestígio\"), base da Criminalística</td></tr><tr><td><b>Purkinje</b></td><td>descreveu os desenhos papilares</td></tr><tr><td><b>Galton</b> e <b>Henry</b></td><td>estudos e classificação das impressões digitais na Inglaterra</td></tr><tr><td><b>Ottolenghi</b></td><td>classificação antiga de \"raças\" (conteúdo histórico)</td></tr><tr><td><b>Béclard</b></td><td>núcleo de ossificação do fêmur distal, maturidade fetal</td></tr><tr><td><b>Havers</b></td><td>canais do osso compacto, úteis para diferenciar osso humano e animal</td></tr><tr><td><b>Barr</b></td><td>corpúsculo de cromatina sexual</td></tr><tr><td><b>DVI</b></td><td>protocolo da Interpol para vítimas de desastres</td></tr></tbody></table>\n<ul><li><b>Princípio de Locard</b> (princípio da troca): todo contato entre duas superfícies deixa <b>vestígios</b> recíprocos. O criminoso leva algo do local (terra, fibras, sangue da vítima) e deixa algo nele (digitais, pelos, DNA). É a ideia que justifica a busca minuciosa de vestígios e a preservação do local.</li></ul>\n<h3>35. Como as bancas cobram este tópico (análise comentada)</h3>\n<ul><li><b>Tema 1: conceitos trocados.</b> A banca escreve \"identificação é o conjunto de caracteres que individualizam a pessoa\" e espera que você marque <b>errado</b>: esse é o conceito de <b>identidade</b>. Do mesmo modo, troca \"reconhecimento\" por \"identificação\". Treine a frase: <b>identidade é o quê; identificação é o como; reconhecimento é a memória de alguém</b>.</li><li><b>Tema 2: requisitos do método.</b> As questões trocam as definições (dizem que <b>perenidade</b> é \"não mudar\", quando isso é <b>imutabilidade</b>) ou perguntam qual requisito <b>falhou</b> na antropometria (unicidade e imutabilidade). Também é comum perguntar quais são <b>técnicos</b> (praticabilidade e classificabilidade).</li><li><b>Tema 3: Vucetich.</b> As pegadinhas clássicas: o número de deltas (arco: zero; presilhas: um; verticilo: dois), o <b>lado do delta</b> nas presilhas (sempre em relação ao <b>observador</b>: interna = direita; externa = esquerda), a <b>notação</b> (polegares com letra, demais dedos com número) e a <b>fórmula</b> (série = mão direita; seção = mão esquerda). Um bom truque: na presilha <b>interna</b>, as linhas do núcleo \"entram\" para a esquerda e o delta fica do outro lado, à <b>direita</b>.</li><li><b>Tema 4: gêmeos.</b> É a pegadinha favorita: gêmeos univitelinos têm <b>DNA nuclear igual</b> e <b>digitais diferentes</b>. Se a afirmação disser que o DNA os distingue, ou que as digitais são iguais, está <b>errada</b>.</li><li><b>Tema 5: sexo e idade na ossada.</b> A banca afirma que o <b>crânio</b> é o melhor indicador do sexo (errado: é a <b>pelve</b>) ou que o ângulo subpúbico <b>masculino</b> é amplo (errado: amplo é o <b>feminino</b>). Em idade, cobra o <b>núcleo de Béclard</b> (fêmur distal, feto a termo) e a ideia de que a idade do adulto se estima em <b>faixas</b>.</li><li><b>Tema 6: DNA mitocondrial e cromossomo Y.</b> \"O DNA mitocondrial é transmitido pelo pai\" (errado: <b>mãe</b>). \"O cromossomo Y permite identificar a linhagem materna\" (errado: <b>paterna</b>). \"Cabelo sem raiz fornece DNA nuclear\" (em regra, <b>errado</b>: só mitocondrial).</li><li><b>Tema 7: Lei 12.037/2009.</b> A banca troca a autoridade que decide a identificação <b>essencial às investigações</b> (é o <b>juiz</b>, de ofício ou por representação do delegado, do MP ou da defesa), afirma que a identificação criminal é <b>só datiloscópica</b> (é <b>datiloscópica e fotográfica</b>) ou inventa hipóteses fora do rol (por exemplo, \"crime hediondo\" ou \"reincidência\", que <b>não</b> estão no art. 3º). Cobra também o art. 6º (não constar em atestado de antecedentes antes do trânsito em julgado) e o art. 7º (retirada da foto).</li><li><b>Tema 8: bancos de perfis genéticos.</b> Pegadinhas: o perfil <b>pode revelar características físicas</b> (errado: só <b>gênero</b>); a exclusão do perfil do condenado ocorre \"após 5 anos\" (errado: <b>20 anos</b> do cumprimento da pena, mediante requerimento); a recusa do condenado é \"mera infração disciplinar leve\" (errado: <b>falta grave</b>).</li><li><b>Tema 9: desastres.</b> \"Documentos encontrados com o corpo são método primário\" (errado). Métodos primários: <b>digitais, dentes e DNA</b>.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo</b><p>\"Explique a diferença entre identidade, identificação e reconhecimento e indique os métodos considerados primários na identificação de vítimas de desastres de massa.\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: identidade é o <b>conjunto de caracteres</b> que individualiza a pessoa; identificação é o <b>processo técnico</b> que determina essa identidade por comparação ou dedução, com métodos que atendam aos requisitos de unicidade, imutabilidade, perenidade, praticabilidade e classificabilidade; reconhecimento é ato <b>subjetivo</b> de memória de testemunha, regulado pelo art. 226 do CPP. Nos desastres, o protocolo DVI da Interpol considera <b>primários</b> a <b>papiloscopia</b>, a <b>odontologia legal</b> (comparação ante e post mortem) e o <b>DNA</b>; sinais médicos, tatuagens e objetos pessoais são <b>secundários</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão discursiva modelo 2</b><p>\"Um preso em flagrante apresenta carteira de identidade válida, sem rasuras. O delegado pode submetê-lo à identificação criminal? E se houver suspeita de que ele usa outros nomes?\"</p><details><summary>Ver a solução comentada</summary><p><b>Resposta esperada</b>: a regra constitucional (CF, art. 5º, LVIII) é que o <b>civilmente identificado não será submetido</b> a identificação criminal, salvo nas hipóteses da <b>Lei 12.037/2009</b>. Com documento válido e sem dúvida, <b>não cabe</b>. Se constar de <b>registros policiais o uso de outros nomes</b> ou diferentes qualificações, incide o <b>art. 3º, V</b>, e a identificação criminal (datiloscópica e fotográfica) passa a ser possível, com providências para <b>evitar constrangimento</b> (art. 4º).</p></details></div>\n<h3>36. Glossário do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Antropometria</b></td><td>medição do corpo humano; base do método de Bertillon</td></tr><tr><td><b>Assinalamento</b></td><td>descrição organizada dos sinais particulares (cicatrizes, tatuagens, defeitos)</td></tr><tr><td><b>Cristas papilares</b></td><td>linhas em relevo da pele das polpas, palmas e plantas</td></tr><tr><td><b>Sulcos interpapilares</b></td><td>espaços entre as cristas</td></tr><tr><td><b>Delta</b></td><td>figura triangular onde se encontram os sistemas basilar, marginal e nuclear</td></tr><tr><td><b>Núcleo</b></td><td>região central do datilograma</td></tr><tr><td><b>Datilograma</b></td><td>o desenho papilar do dedo, ou sua impressão</td></tr><tr><td><b>Minúcias</b></td><td>os pontos característicos (bifurcação, ilhota, cortada, encerro...)</td></tr><tr><td><b>Latente</b></td><td>impressão invisível, que precisa ser revelada</td></tr><tr><td><b>AFIS</b></td><td>sistema automatizado de busca de impressões digitais</td></tr><tr><td><b>Necropapiloscopia</b></td><td>coleta de impressões em cadáveres</td></tr><tr><td><b>Luva cadavérica</b></td><td>epiderme das mãos destacada pela putrefação</td></tr><tr><td><b>STR</b></td><td>regiões do DNA com repetições curtas, usadas no perfil genético</td></tr><tr><td><b>DNA mitocondrial</b></td><td>herança materna; útil em material degradado</td></tr><tr><td><b>Cromossomo Y</b></td><td>herança paterna; útil em misturas de material masculino e feminino</td></tr><tr><td><b>Ante mortem</b></td><td>dados registrados em vida (prontuário, radiografias, fotos)</td></tr><tr><td><b>Post mortem</b></td><td>dados colhidos no cadáver</td></tr><tr><td><b>Perimortem</b></td><td>lesão produzida por volta do momento da morte</td></tr><tr><td><b>Tafonomia</b></td><td>estudo das alterações do corpo depois da morte até ser encontrado</td></tr><tr><td><b>Número mínimo de indivíduos</b></td><td>estimativa de quantas pessoas há em um conjunto de ossos</td></tr><tr><td><b>Seios frontais</b></td><td>cavidades do osso frontal, de forma individual, comparáveis em radiografias</td></tr><tr><td><b>Rugoscopia palatina</b></td><td>estudo das rugosidades do céu da boca</td></tr><tr><td><b>Queiloscopia</b></td><td>estudo dos sulcos dos lábios</td></tr><tr><td><b>Poroscopia</b></td><td>estudo dos poros das cristas papilares</td></tr><tr><td><b>Podoscopia</b></td><td>estudo das impressões das plantas dos pés</td></tr><tr><td><b>Quiroscopia</b></td><td>estudo das impressões das palmas das mãos</td></tr><tr><td><b>DVI</b></td><td>protocolo da Interpol para identificar vítimas de desastres</td></tr></tbody></table>\n<ul><li><b>Dica final de estudo</b>: depois de ler o tópico, faça as questões e use o <b>Treino de pegadinhas</b> desta matéria. As frases erradas mais cobradas aqui (gêmeos e DNA, lado do delta, pelve x crânio, mitocondrial x Y, quem decide a identificação criminal) aparecem lá para você treinar até acertar sem pensar.</li><li><b>Ligação com outros tópicos</b>: a identificação conversa com a <b>Tanatologia</b> (tempo de morte, putrefação, que destrói as digitais), com a <b>Traumatologia</b> (lesões perimortem em ossadas, cicatrizes), com as <b>Energias físicas</b> (carbonizados), com a <b>Sexologia forense</b> (DNA de sêmen) e com as <b>Perícias</b> (cadeia de custódia, laudo, perito oficial). Ao estudar esses tópicos, volte aqui para revisar os métodos de identificação usados em cada situação.</li><li><b>Ligação com o trabalho policial</b>: no dia a dia da delegacia, você vai lidar com identificação criminal do preso, requisição de exame de DNA, comunicação de desaparecimento, cadáver não identificado no IML e preservação de local com possíveis impressões latentes. Saber o que a lei exige e o que cada método consegue (ou não consegue) provar evita prisões indevidas, perda de provas e nulidades no processo, e ajuda a escrever relatórios mais precisos.</li><li><b>Ligação com a ética e os direitos humanos</b>: identificar corretamente é também uma forma de respeito. Para as famílias de desaparecidos e de vítimas de desastres, a identificação devolve o direito ao <b>luto</b>, ao <b>sepultamento</b> e à <b>verdade</b>; para o investigado, evita que alguém seja confundido com outra pessoa e processado por crime que não cometeu. Por isso as leis exigem cautela na identificação criminal (evitar constrangimento, sigilo dos dados, retirada da foto após absolvição) e limitam o uso dos perfis genéticos ao fim de <b>identificação</b>, vedando revelar traços físicos ou de comportamento. O bom profissional une <b>técnica</b>, <b>legalidade</b> e <b>dignidade</b> da pessoa humana em cada etapa do trabalho.</li></ul>\n<h3>37. Mapa de revisão do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Tema</th><th>Palavra-chave</th></tr></thead><tbody><tr><td>Identidade x identificação x reconhecimento</td><td><b>conjunto de caracteres</b> x <b>processo técnico</b> x <b>ato de memória</b></td></tr><tr><td>Requisitos</td><td><b>unicidade, imutabilidade, perenidade</b> (biológicos) + <b>praticabilidade, classificabilidade</b> (técnicos)</td></tr><tr><td>Bertillon</td><td><b>antropometria</b>, abandonada (falha na unicidade e imutabilidade)</td></tr><tr><td>Vucetich</td><td><b>arco</b> (sem delta), <b>presilha interna</b> (delta à direita do observador), <b>presilha externa</b> (delta à esquerda), <b>verticilo</b> (2 deltas)</td></tr><tr><td>Fórmula</td><td><b>série</b> = mão direita; <b>seção</b> = mão esquerda</td></tr><tr><td>Símbolos</td><td><b>0</b> = amputação; <b>X</b> = cicatriz/anomalia</td></tr><tr><td>Papiloscopia</td><td>datiloscopia (dedos), quiroscopia (palmas), podoscopia (pés), poroscopia (poros)</td></tr><tr><td>Sexo na ossada</td><td><b>pelve</b> é o melhor indicador</td></tr><tr><td>Maturidade fetal</td><td><b>núcleo de Béclard</b> (fêmur distal)</td></tr><tr><td>Estatura</td><td>ossos longos, sobretudo o <b>fêmur</b></td></tr><tr><td>Dentes</td><td>mais resistentes ao fogo; comparação <b>ante x post mortem</b></td></tr><tr><td>DNA</td><td>gêmeos univitelinos <b>iguais</b>; mitocondrial = <b>mãe</b>; Y = <b>pai</b></td></tr><tr><td>Métodos primários (Interpol)</td><td><b>digitais, dentes e DNA</b></td></tr><tr><td>Identificação criminal</td><td>só nas hipóteses do <b>art. 3º da Lei 12.037/2009</b>; datiloscópica + fotográfica</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Identidade</span></span><span class=\"vs\"><span>conjunto de caracteres que individualizam a pessoa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Identificação</span></span><span class=\"vs\"><span>processo técnico para determinar a identidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Requisitos biológicos de um método</span></span><span class=\"vs\"><span>unicidade, imutabilidade e perenidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Requisitos técnicos</span></span><span class=\"vs\"><span>praticabilidade e classificabilidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arco</span></span><span class=\"vs\"><span>sem delta (A / 1)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Presilha interna</span></span><span class=\"vs\"><span>delta à direita do observador (I / 2)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Presilha externa</span></span><span class=\"vs\"><span>delta à esquerda do observador (E / 3)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Verticilo</span></span><span class=\"vs\"><span>dois deltas (V / 4)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Série da fórmula datiloscópica</span></span><span class=\"vs\"><span>mão direita</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dedo amputado na ficha</span></span><span class=\"vs\"><span>0</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Melhor osso para o sexo</span></span><span class=\"vs\"><span>pelve</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Melhor osso isolado para a estatura</span></span><span class=\"vs\"><span>fêmur</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Núcleo de Béclard</span></span><span class=\"vs\"><span>epífise distal do fêmur, sinal de feto a termo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>DNA de linhagem materna</span></span><span class=\"vs\"><span>mitocondrial</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>DNA de linhagem paterna</span></span><span class=\"vs\"><span>cromossomo Y</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gêmeos univitelinos</span></span><span class=\"vs\"><span>mesmo DNA nuclear, digitais diferentes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Métodos primários em desastres</span></span><span class=\"vs\"><span>papiloscopia, odontologia e DNA</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Identificação criminal do civilmente identificado</span></span><span class=\"vs\"><span>só nas hipóteses da Lei 12.037/2009</span></span></button></div></div>",
