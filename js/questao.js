@@ -98,7 +98,7 @@ export function htmlGabarito(q, ok, marcada) {
   // 1) abertura + veredito
   let ver;
   if (me) ver = `A resposta é a ${gab}: “${esc(corta(q.alts[r], 220))}”.`;
-  else if (q.c) ver = ok ? 'O item está <b>certo</b>, do jeitinho que a lei e a doutrina dizem.' : 'Você marcou Errado, mas o item está <b>certo</b>.';
+  else if (q.c) ver = ok ? 'O item está <b>certo</b>.' : 'Você marcou Errado, mas o item está <b>certo</b>.';
   else ver = ok ? 'O item está <b>errado</b> mesmo, e é importante saber exatamente onde.' : 'Você marcou Certo, mas o item está <b>errado</b>.';
   const partes = [msg(`${um(ok ? ABRE_OK : ABRE_ERRO, h)} ${ver}`, 'abre')];
   // 2) explicação: fala do professor (T:) e explicação (X:)
