@@ -946,3 +946,51 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .pg-op.ok { border-color: var(--verde); background: color-mix(in srgb, var(--verde) 12%, var(--card)); }
 .pg-op.bad { border-color: var(--vermelho); background: color-mix(in srgb, var(--vermelho) 12%, var(--card)); }
 .pg-op:disabled { cursor: default; }
+.faixa-visao .faixa-obs { flex-basis: 100%; opacity: .85; font-size: 12px; }
+
+/* ---------- Assistente "Montar meu cronograma" ---------- */
+.cr-convite { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; margin-bottom: 16px; border: 2px solid var(--ouro2, #c9a227); }
+.cr-ci { font-size: 38px; }
+.cr-wrap { max-width: 860px; }
+.cr-wrap.tema-wrap { padding: 18px; border-radius: 20px; }
+.cr-topo { display: flex; gap: 12px; align-items: center; margin-bottom: 14px; flex-wrap: wrap; }
+.cr-tit { font-size: 20px; font-weight: 800; }
+.cr-passos { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; margin-bottom: 14px; }
+.cr-passos div { display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; opacity: .55; text-align: center; }
+.cr-passos b { width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; border: 2px solid currentColor; font-size: 13px; }
+.cr-passos .on, .cr-passos .ok { opacity: 1; }
+.cr-passos .on b { background: var(--txt); color: var(--card); border-color: var(--txt); }
+.tema-wrap .cr-passos .on b { background: var(--t-ac); color: var(--t-ac-txt); border-color: var(--t-ac); }
+.cr-card h2 { margin: 0 0 6px; }
+.cr-campos { gap: 14px; flex-wrap: wrap; }
+.cr-campos .campo { flex: 1; min-width: 180px; }
+.cr-campos input, .cr-campos select { width: 100%; }
+.cr-info, .cr-ok, .cr-alerta { margin-top: 12px; padding: 10px 12px; border-radius: 12px; font-size: 14px; background: color-mix(in srgb, var(--txt) 6%, transparent); }
+.cr-ok { background: color-mix(in srgb, var(--verde) 16%, transparent); }
+.cr-alerta { background: color-mix(in srgb, var(--vermelho) 16%, transparent); }
+.cr-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }
+.cr-chip { border: 1.5px solid var(--borda); background: transparent; color: inherit; border-radius: 999px; padding: 8px 16px; font: 600 14px var(--sans); cursor: pointer; }
+.cr-chip.on { background: var(--txt); color: var(--card); border-color: var(--txt); }
+.tema-wrap .cr-chip { border-color: var(--t-borda); } .tema-wrap .cr-chip.on { background: var(--t-ac); color: var(--t-ac-txt); border-color: var(--t-ac); }
+.cr-mats { display: grid; gap: 8px; margin-top: 10px; }
+.cr-mat { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border: 1px solid var(--borda); border-radius: 12px; flex-wrap: wrap; }
+.tema-wrap .cr-mat { border-color: var(--t-borda); }
+.cr-mi { font-size: 20px; }
+.cr-mn { flex: 1; min-width: 150px; } .cr-mn b { display: block; } .cr-mn small { opacity: .7; }
+.cr-seg { display: inline-flex; border: 1px solid var(--borda); border-radius: 10px; overflow: hidden; }
+.tema-wrap .cr-seg { border-color: var(--t-borda); }
+.cr-seg button { border: 0; background: transparent; color: inherit; padding: 7px 10px; font: 600 12.5px var(--sans); cursor: pointer; }
+.cr-seg button.on.n-dif { background: var(--vermelho); color: #fff; }
+.cr-seg button.on.n-normal { background: #6b7280; color: #fff; }
+.cr-seg button.on.n-dom { background: var(--verde); color: #fff; }
+.cr-star { border: 1px solid var(--borda); background: transparent; border-radius: 10px; padding: 6px 9px; cursor: pointer; filter: grayscale(1); opacity: .45; font-size: 16px; }
+.cr-star.on { filter: none; opacity: 1; border-color: #E0B341; }
+.cr-nav { margin-top: 18px; }
+.cr-nums { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin: 10px 0; }
+.cr-nums div { text-align: center; padding: 12px 6px; border-radius: 12px; background: color-mix(in srgb, var(--txt) 6%, transparent); }
+.cr-nums b { display: block; font-size: 22px; } .cr-nums small { opacity: .75; font-size: 12px; }
+.cr-dist { display: grid; gap: 6px; margin: 14px 0; }
+.cr-dl { display: grid; grid-template-columns: minmax(120px, 1.3fr) 2fr auto; gap: 10px; align-items: center; font-size: 13.5px; }
+.cr-dl i { height: 9px; border-radius: 9px; background: linear-gradient(90deg, var(--c) var(--w), color-mix(in srgb, var(--txt) 10%, transparent) var(--w)); }
+.cr-dl small { opacity: .75; white-space: nowrap; }
+@media (max-width: 560px) { .cr-nums { grid-template-columns: repeat(2, 1fr); } .cr-passos div { font-size: 10.5px; } .cr-dl { grid-template-columns: 1fr auto; } .cr-dl i { grid-column: 1 / -1; } }
