@@ -158,11 +158,14 @@ function leitura(el, q, mat, idx) {
   // padrão visual (quadros de lei, caixas, marca-texto) em qualquer texto, inclusive os vindos de PDF
   padronizar($('[data-pane="ess"]'), $('[data-pane="apr"]'));
   // Jurisprudência: junta os blocos espalhados no texto numa aba própria
+  // (só nas matérias de Direito; nas demais, os quadros ficam no próprio texto e a aba não aparece)
   const jur = $('[data-pane="jur"]');
-  el.querySelectorAll('[data-pane="ess"] .lt-juris, [data-pane="apr"] .lt-juris').forEach((j) => jur.appendChild(j));
-  // jurisprudência comentada fica no texto e ganha uma cópia na aba de jurisprudência
-  el.querySelectorAll('[data-pane="ess"] .lt-jc, [data-pane="apr"] .lt-jc').forEach((j) => jur.appendChild(j.cloneNode(true)));
-  if (jur.querySelector('.lt-juris, .lt-jc')) $('[data-aba="jur"]').hidden = false;
+  if (ehDireito(mat)) {
+    el.querySelectorAll('[data-pane="ess"] .lt-juris, [data-pane="apr"] .lt-juris').forEach((j) => jur.appendChild(j));
+    // jurisprudência comentada fica no texto e ganha uma cópia na aba de jurisprudência
+    el.querySelectorAll('[data-pane="ess"] .lt-jc, [data-pane="apr"] .lt-jc').forEach((j) => jur.appendChild(j.cloneNode(true)));
+    if (jur.querySelector('.lt-juris, .lt-jc')) $('[data-aba="jur"]').hidden = false;
+  }
   el.querySelectorAll('#ltAbas [data-aba]').forEach((b) => (b.onclick = () => {
     el.querySelectorAll('#ltAbas [data-aba]').forEach((y) => y.classList.toggle('on', y === b));
     el.querySelectorAll('[data-pane]').forEach((p) => (p.hidden = p.dataset.pane !== b.dataset.aba));
@@ -185,7 +188,7 @@ function leitura(el, q, mat, idx) {
   const ctx = contexto(mat, a);
   const ligar = () => ligarFlash(el, ctx);
   if (S.user && !S.flashFeitos) contarFlash().then(ligar); else ligar();
-  if (a.quiz?.length) carregarHistorico(ctx).then(() => { const ja = questoesDoPdf(el, ctx); perguntasNoTexto(el, ctx, ja); quiz(el, mat, a, ctx); });
+  if (a.quiz?.length) carregarHistorico(ctx).then(() => { const ja = questoesDoPdf(el, ctx); perguntasNoTexto(el, ctx, ja); questoesJuris(el, ctx); quiz(el, mat, a, ctx); });
   if (isAdmin()) $('#ltEditar').onclick = () => editar(el, q, mat, a);
   $('#ltLido').onclick = () => { const s = lidos(); s.has(k) ? s.delete(k) : s.add(k); gravar(chave(), [...s]); render(el, q); };
 }
@@ -229,6 +232,29 @@ function questoesDoPdf(el, ctx) {
   });
   if (usadas.size) el.querySelectorAll('.lt-q-aviso').forEach((x) => x.remove());
   return usadas;
+}
+
+// Matérias de Direito (só nelas aparece a aba de Jurisprudência)
+const DIREITO = new Set(['administrativo', 'constitucional', 'penal', 'processo-penal', 'processo', 'extravagante', 'lei-organica-pcmg', 'direitos-humanos', 'civil', 'processo-civil', 'lindb', 'financeiro', 'previdenciario', 'trabalho', 'ambiental-urbanistico', 'constituicao-mg', 'cpm', 'cppm', 'transito', 'belovale']);
+const ehDireito = (mat) => DIREITO.has(mat.id) || /^(direito|legisla|lei |c[oó]digo)/i.test(norm(mat.nome || ''));
+const JURIS_RE = /\b(STF|STJ|TST|TSE|TJ[A-Z]{2}|S[uú]mula|Tema \d|RE \d|REsp|HC \d|RHC|ADI|ADPF|ADC|jurisprud[eê]ncia|repercuss[aã]o geral|recurso repetitivo|informativo)/i;
+// Questões sobre jurisprudência também dentro da aba Jurisprudência
+function questoesJuris(el, ctx) {
+  const pane = el.querySelector('[data-pane="jur"]'); const bt = el.querySelector('[data-aba="jur"]');
+  if (!pane || !ehDireito(ctx.mat)) return;
+  const q = ctx.a.quiz || [];
+  const idx = q.map((x, i) => [x, i]).filter(([x]) => JURIS_RE.test(`${x.p} ${x.prof || ''} ${x.x || ''}`)).map(([, i]) => i);
+  if (!idx.length) return;
+  bt.hidden = false;
+  const box = document.createElement('div'); box.className = 'lt-jq';
+  box.innerHTML = `<h3 style="margin-top:22px">🎯 Questões de jurisprudência (${idx.length})</h3><p class="muted" style="margin-top:0">Questões do tópico que cobram súmulas, temas e decisões dos tribunais.</p>`;
+  idx.forEach((i, k) => {
+    const d = document.createElement('div'); d.className = 'lt-q'; d.dataset.q = i;
+    d.innerHTML = htmlQuestao(q[i], ctx, k + 1);
+    d.querySelectorAll('[data-r]').forEach((b) => (b.onclick = () => { if (d.dataset.feito) return; d.dataset.feito = 1; registrar(ctx, q[i], responder(d, q[i], b.dataset.r)); }));
+    box.appendChild(d);
+  });
+  pane.appendChild(box);
 }
 
 function perguntasNoTexto(el, ctx, ja = new Set()) {
