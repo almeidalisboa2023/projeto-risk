@@ -2,6 +2,7 @@
 // O aluno escolhe o curso no cadastro; o administrador confere, define a banca e pode remover/restaurar matérias.
 import { S, visaoAluno, VISAO_KEY } from './state.js';
 import { norm } from './util.js';
+import { limparSandbox } from './sandbox.js';
 
 // Bancas: o "padrão" muda o formato das questões mostradas por padrão (C/E ou múltipla escolha)
 // e, quando a banca usa 4 alternativas (A a D), as questões de múltipla escolha aparecem com 4 opções.
@@ -25,7 +26,7 @@ const m = (id, assuntos = null, obs = '') => ({ id, assuntos, obs });
 
 export const CURSOS = [
   {
-    id: 'prf', nome: 'PRF · Policial Rodoviário Federal', curto: 'PRF', banca: 'cebraspe',
+    id: 'prf', tema: 'rodoviario', nome: 'PRF · Policial Rodoviário Federal', curto: 'PRF', banca: 'cebraspe',
     edital: 'Baseado no último edital (PRF 2021, Cebraspe). Prova objetiva de Certo/Errado + discursiva.',
     materias: [
       m('portugues'), m('rlm'), m('informatica'), m('fisica'), m('etica-cidadania'), m('geopolitica'), m('lingua-estrangeira'),
@@ -35,7 +36,7 @@ export const CURSOS = [
     ],
   },
   {
-    id: 'cfs-pmmg-2027', nome: 'CFS PMMG 2027 · Curso de Formação de Sargentos', curto: 'CFS PMMG', banca: 'pmmg-crs',
+    id: 'cfs-pmmg-2027', tema: 'pm', nome: 'CFS PMMG 2027 · Curso de Formação de Sargentos', curto: 'CFS PMMG', banca: 'pmmg-crs',
     edital: 'Edital DRH/CRS nº 05/2026 (Anexo B). Prova objetiva + redação.',
     materias: [
       m('portugues'), m('redacao'),
@@ -50,7 +51,7 @@ export const CURSOS = [
     ],
   },
   {
-    id: 'pcmg-investigador', nome: 'PCMG · Investigador de Polícia I', curto: 'PCMG Investigador', banca: 'fgv',
+    id: 'pcmg-investigador', tema: 'civil', nome: 'PCMG · Investigador de Polícia I', curto: 'PCMG Investigador', banca: 'fgv',
     edital: 'Baseado no último edital (Edital nº 04/2024, FGV): 70 questões de múltipla escolha (A a E).',
     materias: [
       m('portugues'), m('rlm'),
@@ -62,7 +63,7 @@ export const CURSOS = [
     ],
   },
   {
-    id: 'pcmg-escrivao', nome: 'PCMG · Escrivão de Polícia I', curto: 'PCMG Escrivão', banca: 'fgv',
+    id: 'pcmg-escrivao', tema: 'civil', nome: 'PCMG · Escrivão de Polícia I', curto: 'PCMG Escrivão', banca: 'fgv',
     edital: 'Último edital de Escrivão foi o de 2021 (FUMARC); o próximo concurso da PCMG está com a FGV, por isso o curso segue o modelo FGV de 2024. Há prova de digitação.',
     materias: [
       m('portugues'), m('rlm'), m('informatica'), m('lei-organica-pcmg'),
@@ -71,7 +72,7 @@ export const CURSOS = [
     ],
   },
   {
-    id: 'pcmg-delegado', nome: 'PCMG · Delegado de Polícia Substituto', curto: 'PCMG Delegado', banca: 'fgv',
+    id: 'pcmg-delegado', tema: 'civil', nome: 'PCMG · Delegado de Polícia Substituto', curto: 'PCMG Delegado', banca: 'fgv',
     edital: 'Baseado no último edital (Edital nº 01/2024, FGV): 80 questões objetivas, prova dissertativa e prova oral.',
     materias: [
       m('administrativo'), m('lei-organica-pcmg'), m('constitucional'), m('civil'),
@@ -80,7 +81,7 @@ export const CURSOS = [
     ],
   },
   {
-    id: 'belovale-procurador', nome: 'Belo Vale · Procurador I', curto: 'Procurador Belo Vale', banca: 'consulplan',
+    id: 'belovale-procurador', tema: 'juridico', nome: 'Belo Vale · Procurador I', curto: 'Procurador Belo Vale', banca: 'consulplan',
     edital: 'Edital nº 1/2026 do Município de Belo Vale (Instituto Consulplan), Quadro V: 50 questões de múltipla escolha (A a D). Prova objetiva em 13/12/2026.',
     materias: [
       m('portugues'), m('constitucional'), m('administrativo'), m('processo-civil'), m('civil'),
@@ -93,8 +94,8 @@ export const cursoInfo = (id) => CURSOS.find((c) => c.id === id) || null;
 // Curso efetivo do aluno logado (o que o administrador definiu)
 export const meuCurso = () => { const v = visaoAluno(); if (v) return cursoInfo(v.curso); return S.profile?.role === 'admin' ? null : cursoInfo(S.profile?.curso); };
 export const minhaBanca = () => { const v = visaoAluno(); if (v) return bancaInfo(v.banca ?? cursoInfo(v.curso)?.banca) || null; return bancaInfo(S.profile?.banca) || null; };
-export function entrarVisao(curso, banca) { try { sessionStorage.setItem(VISAO_KEY, JSON.stringify({ curso, banca: banca ?? cursoInfo(curso)?.banca ?? '' })); } catch {} }
-export function sairVisao() { try { sessionStorage.removeItem(VISAO_KEY); } catch {} }
+export function entrarVisao(curso, banca) { const ant = visaoAluno(); if (!ant || ant.curso !== curso) limparSandbox(); try { sessionStorage.setItem(VISAO_KEY, JSON.stringify({ curso, banca: banca ?? cursoInfo(curso)?.banca ?? '' })); } catch {} }
+export function sairVisao() { limparSandbox(); try { sessionStorage.removeItem(VISAO_KEY); } catch {} }
 
 // Matérias do curso com os ajustes do administrador (tabela cursos_ajustes): tira as excluídas e põe as incluídas.
 export function materiasDoCurso(c, ajustes = S.cursosAjustes || []) {

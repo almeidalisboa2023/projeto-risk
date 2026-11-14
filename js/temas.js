@@ -1,6 +1,7 @@
 // Temas do calendário: reconhecidos pelo edital do aluno. O administrador pode trocar;
 // o aluno só pode escolher entre "tema do meu edital" e o tema padrão.
-import { S } from './state.js';
+import { S, visaoAluno } from './state.js';
+import { meuCurso } from './cursos.js';
 import { norm, esc } from './util.js';
 
 export const TEMAS = {
@@ -33,8 +34,13 @@ export function detectarTema(ed) {
 // Tema do edital (escolha do administrador ou reconhecido automaticamente)
 export const temaDoEdital = (ed) => (ed?.tema && TEMAS[ed.tema] ? ed.tema : detectarTema(ed));
 // Tema em uso: o aluno pode preferir o padrão
+// (aluno de curso: o tema do curso — PCMG = Polícia Civil, PRF = Rodoviário, CFS = PM…)
 export function temaAtual() {
-  if (S.profile?.tema_padrao) return 'padrao';
+  const v = visaoAluno();
+  if (S.profile?.tema_padrao && !v) return 'padrao';
+  if (S.edital?.tema && TEMAS[S.edital.tema]) return S.edital.tema;
+  const c = meuCurso();
+  if (c?.tema && TEMAS[c.tema]) return c.tema;
   return temaDoEdital(S.edital);
 }
 

@@ -27,8 +27,17 @@ async function doBanco() {
 
 function dasNovidades() {
   const c = meuCurso();
-  const ids = c ? new Set(materiasDoCurso(c).map((m) => m.id)) : null; // sem curso (ou administrador): todas as novidades
-  return NOVIDADES.filter((n) => !n.materia || !ids || ids.has(n.materia))
+  // Aluno de curso: só as novidades das matérias (e dos assuntos) que o edital do curso dele cobra.
+  // Sem curso (administrador ou conta antiga): todas.
+  const itens = c ? new Map(materiasDoCurso(c).map((m) => [m.id, m])) : null;
+  const doCurso = (n) => {
+    if (!itens) return true;
+    if (n.cursos) return n.cursos.includes(c.id);
+    const it = n.materia && itens.get(n.materia);
+    if (!it) return false;
+    return !n.assuntos || !it.assuntos || n.assuntos.some((a) => it.assuntos.includes(a));
+  };
+  return NOVIDADES.filter(doCurso)
     .map((n, i) => ({ data: n.data, titulo: n.titulo, texto: n.texto, tipo: n.tipo || 'conteudo', link: n.link || (n.materia ? '#/leitura?a=' + n.materia + '/' : null), id: 'nv-' + n.data + '-' + n.titulo }));
 }
 

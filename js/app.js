@@ -63,7 +63,8 @@ function faixaVisao(v) {
   return `<div class="faixa-visao">👁 <b>Modo aluno</b>: você está vendo o app como um aluno do curso
     <select id="visCurso" aria-label="Curso">${CURSOS.map((c) => `<option value="${c.id}" ${c.id === v.curso ? 'selected' : ''}>${esc(c.curto)}</option>`).join('')}</select>
     banca <select id="visBanca" aria-label="Banca"><option value="">não definida</option>${Object.entries(BANCAS).map(([k, b]) => `<option value="${k}" ${k === v.banca ? 'selected' : ''}>${esc(b.nome)}</option>`).join('')}</select>
-    <button class="btn mini" id="visSair">Sair do modo aluno</button></div>`;
+    <button class="btn mini" id="visSair">Sair do modo aluno</button>
+    <small class="faixa-obs">Aluno novo de teste: começa sem cronograma. O que você fizer aqui não é salvo e some ao sair.</small></div>`;
 }
 
 // Aviso no topo para o aluno com acesso perto de vencer
@@ -105,9 +106,9 @@ async function rota() {
   document.getElementById('btnSair').onclick = (e) => { e.preventDefault(); auth.signOut(); location.hash = ''; location.reload(); };
   document.getElementById('btnTema').onclick = (e) => { e.preventDefault(); alternaTema(); rota(); };
   const vC = document.getElementById('visCurso'), vB = document.getElementById('visBanca');
-  if (vC) vC.onchange = () => { entrarVisao(vC.value); rota(); };
-  if (vB) vB.onchange = () => { entrarVisao(visaoAluno().curso, vB.value); rota(); };
-  const vS = document.getElementById('visSair'); if (vS) vS.onclick = () => { sairVisao(); location.hash = '#/admin'; rota(); };
+  if (vC) vC.onchange = () => { entrarVisao(vC.value); location.reload(); };
+  if (vB) vB.onchange = () => { entrarVisao(visaoAluno().curso, vB.value); location.reload(); };
+  const vS = document.getElementById('visSair'); if (vS) vS.onclick = () => { sairVisao(); location.hash = '#/admin'; location.reload(); };
   const sel = document.getElementById('selEdital');
   if (sel) sel.onchange = async () => { await trocarEdital(sel.value); rota(); };
   const el = document.getElementById('pagina');
