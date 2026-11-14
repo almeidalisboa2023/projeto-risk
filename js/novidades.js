@@ -2,6 +2,7 @@
 // Cada item: data (AAAA-MM-DD), título, texto, matéria (id; o aluno só vê se a matéria estiver no curso dele), assuntos (ids; opcional:
 // o aluno só vê se o edital do curso dele cobrar algum desses assuntos), cursos (ids; opcional) e tipo.
 export const NOVIDADES = [
+  { data: '2026-11-14', materia: 'medicina-legal', assuntos: ['pericia', 'antropologia', 'traumatologia', 'energias-fisicas', 'asfixiologia'], tipo: 'conteudo', titulo: 'Medicina Legal renovada: 5 tópicos completos', texto: 'Perícias, Antropologia, Traumatologia, Energias físicas e Asfixias reescritos: cerca de 1 hora de leitura e mais de 110 questões em cada tópico.' },
   { data: '2026-11-13', materia: 'lei-organica-pcmg', tipo: 'questoes', titulo: 'Lei Orgânica da PCMG: +69 questões', texto: 'Carreiras, ingresso, estágio probatório e promoção reescritos; mais questões em organização, estrutura e licenças.' },
   { data: '2026-11-13', materia: 'lei-organica-pcmg', tipo: 'conteudo', titulo: 'Conteúdo novo: Lei 5.406/1969 (regime disciplinar da PCMG)', texto: 'Transgressões, penalidades, competência, sindicância, processo administrativo e revisão, artigo por artigo: 225 questões nos dois tópicos.' },
   { data: '2026-11-13', materia: null, tipo: 'pegadinha', titulo: 'Novo: Treino de pegadinhas', texto: 'Menu “Treino de pegadinhas”: a frase do jeito que a banca escreve para pegar; você acha a correção e vê o tópico para revisar.', link: '#/pegadinhas' },
