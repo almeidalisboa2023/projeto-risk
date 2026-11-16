@@ -1438,5 +1438,1523 @@ export const TOPICOS_EXTRA = {
 ]
 }
 ]
+},
+"belovale": {
+"ordem": [
+"lom-organizacao",
+"lom-bens-servicos",
+"lom-administracao",
+"lom-legislativo",
+"lom-executivo",
+"lom-financas",
+"lom-ordem-social",
+"lom-ordem-economica",
+"est-provimento",
+"est-vacancia-direitos",
+"est-regime-disciplinar",
+"est-pad",
+"est-transitorias"
+],
+"assuntos": [
+{
+"id": "lom-ordem-social",
+"titulo": "Lei Orgânica: ordem social (saúde, educação, cultura, meio ambiente, família e assistência)",
+"arts": "LOM, arts. 141 a 199",
+"chaves": [
+"ordem social",
+"saúde",
+"educação",
+"meio ambiente"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>141–199</b><span>artigos da Lei Orgânica reproduzidos na íntegra neste tópico</span></div><div class=\"lt-stat\"><b>105</b><span>questões novas de lei seca (certo ou errado)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: a banca copia a lei e troca uma palavra (prazo, quórum, competência, \"pode\" por \"deve\")</span></div></div>\n<h3>Como estudar este tópico</h3>\n<ul><li>Este tópico traz o <b>texto integral</b> dos <b>arts. 141 a 199</b> da <b>Lei Orgânica do Município de Belo Vale</b> (Lei nº 806/1990, edição atualizada em 2012), exigida no edital do concurso de Belo Vale (Legislação Municipal). O resumo comentado que estava aqui antes continua disponível na <b>Leitura complementar</b>, no fim da página.</li><li><b>Método de leitura de lei seca</b>: leia cada artigo prestando atenção a <b>quem</b> faz (Prefeito, Câmara, Mesa, Município), <b>o que</b> faz, <b>em que prazo</b> e <b>com qual quórum</b>. São exatamente esses elementos que as bancas trocam nas questões de certo ou errado.</li><li><b>Marque as palavras de alcance</b>: \"privativamente\", \"exclusivamente\", \"vedado\", \"poderá\" x \"deverá\", \"maioria absoluta\" x \"dois terços\", \"dias\" x \"dias úteis\". Uma única troca torna a assertiva errada.</li><li>As questões deste tópico foram montadas <b>a partir do próprio texto da lei</b>: as certas reproduzem o dispositivo; as erradas alteram um prazo, um quórum, uma competência ou negam o que a lei afirma. O comentário de cada questão indica o artigo correspondente.</li></ul>\n<h3>Estrutura do trecho</h3>\n<ul><li>SEÇÃO II Da Defensoria do Povo</li><li>TÍTULO V Das Finanças Públicas</li><li>CAPÍTULO I Da Tributação</li><li>SEÇÃO I Dos Tributos Municipais</li><li>SEÇÃO II Das Limitações ao Poder de Tributar</li><li>SEÇÃO III Da Participação do Município em Receitas Tributárias Federais e Estaduais</li><li>CAPÍTULO II Do Orçamento</li><li>TÍTULO VI Da Ordem Social e Econômica</li><li>CAPÍTULO I Disposições Gerais</li><li>CAPÍTULO II Da Saúde</li><li>CAPÍTULO III Do Saneamento Básico</li><li>CAPÍTULO IV Dos Direitos Humanos e Sociais</li><li>CAPÍTULO V Da Educação</li><li>CAPÍTULO VI Da Ciência e Tecnologia</li><li>CAPÍTULO VII Da Cultura</li><li>CAPÍTULO VIII Do Meio Ambiente</li><li>CAPÍTULO IX Do Desporto e Lazer</li><li>CAPÍTULO X Da Família, da Criança, do Adolescente, do Idoso e do Portador de Deficiência</li><li>TÍTULO VII Da Ordem Econômica</li><li>CAPÍTULO I Da Política Urbana</li><li>SEÇÃO I Disposições Gerais</li></ul>\n<h3>Texto integral da Lei Orgânica (arts. 141 a 199)</h3>\n<p>Art. 180 da Constituição do Estado.</p>\n<p><b>§ 1º</b> – As decisões do Tribunal de Contas de que resulte imputação de débitos ou multa, terão eficácia de título executivo.</p>\n<p><b>§ 2º</b> – No primeiro e no último ano de mandato do Prefeito Municipal, o Município enviará ao Tribunal de contas e à Câmara Municipal, inventário de todos os seus bens móveis e imóveis.</p>\n<p><b>Art. 114</b> – A Câmara, após aprovação de maioria de seus membros, convocará plebiscito para que o eleitorado do Município se manifeste sobre ato político do Poder Executivo ou do Poder Legislativo, desde que requerida a convocação por Vereador, pelo prefeito ou no mínimo por cinco por cento do eleitorado do Município.</p>\n<h3>SEÇÃO II Da Defensoria do Povo</h3>\n<p><b>Art. 115</b> – A Defensoria do Povo é órgão público dotado de autonomia administrativa e financeira e com funções de controle da administração pública, e suas atribuições, organização e financiamento serão definidas em Lei Complementar.</p>\n<p><b>§ 1º</b> – A Defensoria é dirigida pelo Defensor do povo, com mais de trinta anos de idade, notável experiência, espírito público, reputação ilibada e reconhecido senso de justiça e equidade, nomeado pelo Presidente da Câmara, após aprovação de dois terços dos membros desta, para mandato, não renovável de cinco anos.</p>\n<p><b>§ 2º</b> – O Defensor do Povo se sujeita, no que couber e na forma da lei, às proibições, incompatibilidades e perda do mandato aplicáveis ao Vereador.</p>\n<p><b>Art. 116</b> – A Defensoria do Povo terá, entre outras, as seguintes atribuições:</p>\n<p>I – apurar os atos, fatos e omissões de órgãos e entidades da administração pública ou de seus agentes, que impliquem em exercício ilegítimo, inconveniente ou inoportuno de suas funções;</p>\n<p>II – apurar:</p>\n<p>a) as reclamações contra o serviço público;</p>\n<p>b) os atos ou omissões do Poder Público, com ofensa dos princípios a que se sujeita a administração, de modo especial o pertinente à moralidade administrativa;</p>\n<p>III – divulgar, para conhecimento do cidadão, os direitos destes em face do Poder Público, incluído o de exercer o controle direto dos atos administrativos;</p>\n<p>IV – divulgar informações e avaliações relativas à sua ação, com o direito de publicá-la em órgão oficial de imprensa;</p>\n<p>V – acompanhar os processos de licitação;</p>\n<p>VI – encaminhar relatórios de suas atividades e prestar suas contas à Câmara.</p>\n<p><b>Parágrafo Único</b> – Obrigam-se as autoridades de órgãos e entidades a fornecer, em caráter prioritário e em regime de urgência, sob pena de responsabilidade, documentos, dados, informações e certidões solicitadas ao Defensor do Povo.</p>\n<h3>TÍTULO V Das Finanças Públicas</h3>\n<h3>CAPÍTULO I Da Tributação</h3>\n<h3>SEÇÃO I Dos Tributos Municipais</h3>\n<p><b>Art. 117</b> – Ao Município compete instituir:</p>\n<p>I – Imposto sobre:</p>\n<p>a) propriedade predial e territorial urbana;</p>\n<p>b) transmissão “inter-vivos”, a qualquer título, por ato oneroso de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como sessão de direitos à sua aquisição;</p>\n<p>c) vendas a varejo de combustíveis líquidos e gasosos, exceto óleo diesel e gás de cozinha;</p>\n<p>d) serviços de qualquer natureza, não compreendidos na competência do Estado, nos termos da Constituição da República e da legislação complementar específica;</p>\n<p>II – Taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis ao contribuinte ou postos à sua disposição;</p>\n<p>III – Contribuição de melhoria, decorrente de obras públicas;</p>\n<p>IV – Contribuição cobrada de seus servidores, para custeio, em benefício destes, de Sistema de Previdência e Assistência Social.</p>\n<p><b>§ 1º</b> – O imposto previsto na alínea “a”, do inciso I, será progressivo, nos termos da lei municipal, de forma a assegurar o cumprimento da função social da propriedade.</p>\n<p><b>§ 2º</b> – O imposto previsto na alínea “b”, do inciso I, não incide sobre transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica, em realização de capital, nem sobre a transmissão de bens ou direitos decorrentes de fusão, incorporação, cisão ou extinção de pessoa jurídica, salvo se, nestes casos, a atividade preponderante do adquirente for a compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento mercantil.</p>\n<p><b>§ 3º</b> – As alíquotas dos impostos previstos nas alíneas “c” e “d”, do inciso I, deste artigo, obedecerão aos limites fixados em lei complementar federal.</p>\n<p><b>§ 4º</b> – O imposto previsto no inciso I, alínea “d” deste artigo, não incidirá sobre exportações de serviços para o exterior.</p>\n<p><b>§ 5º</b> – Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, facultando à administração municipal identificar, respeitados os direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte.</p>\n<p><b>§ 6º</b> – As taxas não poderão ter base de cálculo própria de impostos.</p>\n<p><b>Art. 118</b> – Somente ao Município cabe instituir isenção de tributo de sua competência, por meio de lei de iniciativa do poder Executivo, e aprovada por dois terços dos membros da câmara, prevalecendo o estatuído para o exercício seguinte.</p>\n<p><b>Art. 119</b> – A lei determinará medidas para que os consumidores sejam esclarecidos acerca dos impostos municipais que incidam sobre mercadorias e serviços, observada a legislação federal e estadual sobre consumo.</p>\n<h3>SEÇÃO II Das Limitações ao Poder de Tributar</h3>\n<p><b>Art. 120</b> – É vedado ao Município, sem prejuízo das garantias asseguradas aos contribuintes e do disposto no Art. 150 da Constituição da República e na legislação complementar específica estabelecer diferença tributária entre bens e serviços de qualquer natureza, em razão de sua procedência ou destino.</p>\n<p><b>Parágrafo Único</b> – É vedada a transação que envolva tributos, salvo se realizada com autorização legislativa, deliberada por dois terços de seus membros.</p>\n<p><b>Art. 121</b> – Qualquer anistia ou remissão que envolva matéria tributária ou previdência de competência do Município, só poderá ser concedida mediante lei específica municipal, de iniciativa do Poder Executivo.</p>\n<p><b>Parágrafo Único</b> – O perdão da multa, o parcelamento e a compensação de débitos fiscais poderão ser concedidos por ato do Poder Executivo, nos casos e condições especificados em lei municipal.</p>\n<p><b>Art. 122</b> – O contribuinte não será obrigado ao pagamento de qualquer título lançado pelo Município, sem prévia notificação.</p>\n<h3>SEÇÃO III Da Participação do Município em Receitas Tributárias Federais e Estaduais</h3>\n<p><b>Art. 123</b> – Em relação aos impostos de competência da União, pertencem ao Município, de acordo com o percentual legal vigente:</p>\n<p>I – O produto da arrecadação do imposto sobre rendas e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, pela administração direta, autarquias e fundações instituídas e mantidas pelo Município;</p>\n<p>II – O produto da arrecadação do imposto sobre propriedade territorial rural, relativamente aos imóveis situados no Município.</p>\n<p><b>Art. 124</b> – Em relação aos impostos de competência do Estado, pertencem ao Município, de acordo com o percentual legal vigente:</p>\n<p>I – O produto da arrecadação do imposto sobre a propriedade de veículos automotores, licenciados no território municipal, a ser transferido até o último dia do mês subsequente ao da arrecadação.</p>\n<p>II – O produto da arrecadação do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, a ser creditado na forma do disposto no parágrafo único, incisos I e II do Art. 158 da Constituição da República e § 1º do Art. 150 da Constituição do Estado.</p>\n<p><b>Art. 125</b> – Caberá ainda ao Município:</p>\n<p>I – A respectiva quota no Fundo de Participação dos Municípios, como disposto no Art. 159, inciso I, alínea ”b” da Constituição da República.</p>\n<p>II – A respectiva quota do produto da arrecadação do imposto sobre produtos industrializados, como disposto no Art. 159, inciso II e § 3º da Constituição da República e</p>\n<p>Art. 150, inciso III, da Constituição do Estado.</p>\n<p>III – A respectiva quota do produto de arrecadação do imposto de que trata o inciso V do</p>\n<p>Art. 153 da Constituição da República, nos termos do § 5º , inciso II do mesmo artigo.</p>\n<p><b>Art. 126</b> – Ocorrendo a retenção ou qualquer restrição à entrega e ao emprego dos recursos decorrentes da repartição das receitas tributárias, por parte da União e do Estado, O Executivo Municipal, adotará as medidas judiciais cabíveis, à vista do disposto nas Constituições da República e do Estado.</p>\n<h3>CAPÍTULO II Do Orçamento</h3>\n<p><b>Art. 127</b> – Leis de iniciativa do Poder Executivo estabelecerão:</p>\n<p>I – O Plano Plurianual;</p>\n<p>II – As Diretrizes Orçamentárias;</p>\n<p>III – Os Orçamentos Anuais.</p>\n<p><b>Art. 128</b> – A lei que instituir o plano plurianual de ação governamental, compatível com o Plano Diretor, estabelecerá as diretrizes, objetivos e metas da administração municipal para as despesas de capital e outras delas decorrentes e para relativas a programas de duração continuada.</p>\n<p><b>Art. 129</b> – A Lei de Diretrizes Orçamentárias, compatíveis com o Plano Plurianual, compreenderá as metas e prioridades da administração pública municipal, incluindo as despesas de capital para o exercício financeiro subsequente, orientará a elaboração da Lei Orçamentária Anual e disporá sobre as alterações na legislação tributária.</p>\n<p><b>Parágrafo Único</b> – A lei a que se refere o artigo será enviada à Câmara Municipal até o dia quinze de junho de cada ano, devendo ser devolvida para sanção até o dia trinta e um de julho.</p>\n<p><b>Art. 130</b> – Será constituído no Município um Conselho Orçamentário que, juntamente com a Administração Municipal, colherá as sugestões e propostas para a Lei de Diretrizes Orçamentárias.</p>\n<p><b>§ 1º</b> – O Conselho Orçamentário será constituído de representantes do Executivo, Legislativo, Entidades de Classes e Movimentos Populares, legalmente constituídos.</p>\n<p><b>§ 2º</b> – Aprovada pela Câmara Municipal, a Lei de Diretrizes, o Conselho se reunirá em plenário, para a consolidação do orçamento anual, com base na referida lei.</p>\n<p><b>Art. 131</b> – A Lei Orçamentária anual compreenderá:</p>\n<p>I – O orçamento fiscal referente aos Poderes do Município, seus fundos, órgãos e entidades da administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público;</p>\n<p>II – O orçamento de investimentos das empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto;</p>\n<p>III – O orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculadas da Administração Direta ou Indireta do Município, bem como os fundos e fundações instituídas e mantidos pelo poder Público.</p>\n<p><b>Parágrafo Único</b> – Integrarão a Lei Orçamentária demonstrativos específicos com detalhamento das ações governamentais, em nível mínimo de:</p>\n<p>I – Órgãos ou entidades responsável pela realização da despesa e função;</p>\n<p>II – Objetivos e metas;</p>\n<p>III – Natureza da despesa;</p>\n<p>IV – Fontes de recursos;</p>\n<p>V – Órgão ou entidade beneficiários;</p>\n<p>VI – Identificação dos investimentos, por região do Município.</p>\n<p>VII - identificação, de forma regionalizada, dos efeitos, sobre as receitas e as despesas, decorrentes de isenções, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia.</p>\n<p><b>Art. 132</b> – A Lei Orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação de despesa, não se incluindo na proibição a autorização para a abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação da receita, nos termos da lei.</p>\n<p><b>Art. 133</b> – A lei orçamentária assegurará investimentos prioritários em programas de educação, saúde, habitação, saneamento básico e proteção ao meio ambiente, observados limites legais.</p>\n<p><b>Parágrafo único</b> - Os recursos para os programas de saúde não serão inferiores aos destinados aos investimentos em transporte e sistema viário.</p>\n<p><b>Art. 134</b> – Os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual serão enviados pelo Prefeito à Câmara, nos termos e prazos fixados pela legislação específica.</p>\n<p><b>Parágrafo único</b> - O não-cumprimento do disposto no artigo implica a elaboração, pela comissão prevista no § 1º do art. 135, de projeto de lei sobre a matéria, tomando por base a respectiva legislação vigente.</p>\n<p><b>Art. 135</b> – Os projetos de lei relativos ao Plano Plurianual, às Diretrizes Orçamentárias, ao Orçamento Anual e aos Créditos Adicionais, serão apreciados por comissões permanentes da Câmara Municipal, à qual caberá:</p>\n<p>I – examinar e emitir parecer sobre os projetos referidos neste artigo e sobre as contas apresentadas anualmente pelo Prefeito;</p>\n<p>II – examinar e emitir parecer sobre os planos e programas e exercer o acompanhamento e a fiscalização orçamentária, sem prejuízo de atuação das demais comissões da Câmara.</p>\n<p><b>§ 1º</b> – As emendas apresentadas na comissão permanente, que sobre elas emitirá parecer, e apreciadas na forma regimental.</p>\n<p><b>§ 2º</b> – As emendas ao projeto da Lei do Orçamento Anual ou ao projeto que a modifique, somente podem ser aprovadas caso:</p>\n<p>I – sejam compatíveis com o Plano Plurianual e com a Lei de Diretrizes Orçamentárias;</p>\n<p>II – indiquem os recursos necessários, admitidos, apenas, os provenientes de anulação de despesa, excluídas as que incidam sobre:</p>\n<p>a) dotações para pessoal e seus encargos;</p>\n<p>b) serviço de dívida ou;</p>\n<p>III – sejam relacionadas:</p>\n<p>a) com a correção de erros ou omissão ou;</p>\n<p>b) com os dispositivos do texto do projeto de lei;</p>\n<p>IV – não alterem o produto total do Orçamento anual.</p>\n<p><b>§ 3º</b> – Os recursos que, em decorrência de veto, emendas ou rejeição do projeto de Lei Orçamentária Anual, ficarem sem despesas correspondentes poderão ser utilizados, conforme o caso, mediante créditos especiais ou suplementares, com prévia e específica autorização legislativa.</p>\n<p><b>§ 4º</b> – As emendas ao projeto de Lei de Diretrizes Orçamentárias não poderão ser aprovadas, quando incompatíveis com o Plano Plurianual.</p>\n<p><b>§ 5º</b> – O Prefeito poderá enviar mensagem à Câmara para propor modificação nos projetos a que se refere este artigo, enquanto não iniciada a votação na comissão permanente, da parte cuja alteração é proposta.</p>\n<p><b>§ 6º</b> - Rejeitado pela Câmara o projeto de Lei Orçamentária Anual, prevalecerá, para o ano seguinte, o orçamento do exercício em curso, aplicando-se-lhe a atualização dos valores.</p>\n<p><b>§ 7º</b> - Se a Câmara não devolver, para sanção, o projeto de Lei do Orçamento Anual no prazo consignado na legislação específica, o Prefeito promulgá-lo-á como lei.</p>\n<p><b>§ 8º</b> – Aplicam-se aos projetos mencionados neste artigo, no que não contrariar o disposto nesta seção, as demais normas relativas ao processo legislativo.</p>\n<p><b>Art. 136</b> – O projeto de Lei Orçamentária Anual será enviado pelo Prefeito à Câmara Municipal, até o dia trinta dia de setembro do ano que o precede.</p>\n<p><b>Parágrafo Único</b> – Se não receber o projeto no prazo fixado neste artigo, a Câmara considerará como proposta, a Lei do Orçamento vigente, sem prejuízos das sanções legais cabíveis.</p>\n<p><b>Art. 137</b> – São vedados:</p>\n<p>I – o início de programas ou projetos não incluídos na Lei Orçamentária anual;</p>\n<p>II – a realização de despesas ou a assunção de obrigações diretas que excedam os créditos orçamentários ou adicionais;</p>\n<p>III – a realização de operações de créditos, nos seguintes casos:</p>\n<p>a) sem autorização legislativa em que se especifiquem a destinação, o valor, o prazo de operação, a taxa de remuneração do capital, as datas de pagamento, a espécie dos títulos e a forma de resgate, salvo disposição diversa em legislação federal e estadual;</p>\n<p>b) que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pela Câmara, por maioria de seus membros.</p>\n<p>IV – a vinculação de receita de impostos a órgãos, fundos ou despesas, ressalvados a destinação de recursos para a manutenção de desenvolvimento do ensino, como determinado pelo Art. 167 e apresentação de garantias às operações de créditos por antecipação de receita, previstas no Art. 132;</p>\n<p>V – a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação dos recursos correspondentes;</p>\n<p>VI – a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra, ou de um órgão para outro, sem prévia autorização legislativa;</p>\n<p>VII – a utilização, sem autorização legislativa específica, de recursos do orçamento fiscal e da seguridade social para suprir necessidades ou cobrir déficit de empresas, fundações e fundos;</p>\n<p>VIII – a concessão ou utilização de créditos ilimitados;</p>\n<p>IX – a instituição de fundos de qualquer natureza, sem prévia autorização legislativa;</p>\n<p>X – criar ou aumentar despesa sem indicar o recurso para atender ao correspondente encargo.</p>\n<p><b>§ 1º</b> – Nenhum investimento, cuja execução ultrapasse um exercício financeiro, poderá ser iniciado sem prévia inclusão no Plano Plurianual, ou sem lei que autorize a inclusão no Plano, sob pena de crime de responsabilidade.</p>\n<p><b>§ 2º</b> – Os créditos extraordinários e especiais terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subsequente.</p>\n<p><b>§ 3º</b> – A abertura de créditos extraordinários somente será admitida, “ad referendum” da Câmara Municipal, por resolução, para atender às despesas imprevisíveis e urgentes, decorrentes de calamidade pública.</p>\n<p><b>Art. 138</b> – Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados à Câmara Municipal ser-lhe-ão entregues em duodécimos até o dia 20 (vinte) de cada mês obedecidas as seguintes normas.</p>\n<p>I – O duodécimo dos recursos transferidos pelo Estado e pela União, com exceção das receitas de convênios, será creditado para a Câmara Municipal no ato do recebimento.</p>\n<p>II – O duodécimo dos recursos provenientes de impostos e taxas municipais será creditado a cada dez dias para a Câmara Municipal, a contar do dia 1º de cada mês.</p>\n<p><b>§ 1º</b> - Por duodécimo deve-se entender o percentual de 8,33% (oito por cento e trinta e três centésimos) da receita efetivamente arrecadada.</p>\n<p><b>§ 2º</b> - O Prefeito Municipal autorizará, imediatamente, após a promulgação desta emenda, aos Bancos depositários, à efetuarem os créditos em favor da Câmara, automaticamente, informando o percentual de participação da Câmara para que o Banco possa fazer o crédito autorizado nesta Lei.</p>\n<p><b>§ 3º</b> - As requisições feitas pela Câmara Municipal, para cobrir despesas com investimentos ou inversões financeiras, previstas na Lei Orçamentária, ser-lhe-ão repassadas pelo prefeito no prazo máximo de 15 (quinze) dias.</p>\n<p><b>Art. 139</b> – A despesa com pessoal ativo e inativo do Município não poderão exceder os limites estabelecidos em lei complementar federal.</p>\n<p><b>Parágrafo Único</b> – A concessão de qualquer vantagem ou aumento de remuneração, a criação de cargos ou alterações de estrutura de carreiras, bem como a admissão de pessoal, a qualquer título, pelo órgãos e entidades da administração direta ou indireta, só poderão ser feitos:</p>\n<p>I - se houver prévia dotação orçamentária suficiente para atender às projeções de despesa de pessoal e aos acréscimos dele decorrentes;</p>\n<p>II – se houver autorização específica na Lei de Diretrizes Orçamentárias.</p>\n<p><b>Art. 140</b> – À exceção dos créditos de natureza alimentícia, os pagamentos devidos pela Fazenda Municipal, em virtude de sentença judiciária, far-se-ão, exclusivamente, na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim.</p>\n<p><b>§ 1º</b> – É obrigatória a inclusão no orçamento municipal, de dotações necessárias ao pagamento de seus débitos mensais constantes de precatórios apresentados até o primeiro de julho, data em que terão atualizados seus valores, fazendo-se o pagamento até o final do exercício seguinte.</p>\n<p><b>§ 2º</b> – As dotações orçamentárias e os créditos abertos serão consignados ao Poder Judiciário, recolhidas as importâncias respectivas à repartição competente apara atender ao disposto no Art. 100o, § 2º , da Constituição da República.</p>\n<p><b>§ 3º</b> – O Poder Executivo publicará até trinta dias após o encerramento de cada bimestre, relatório resumido da execução orçamentária.</p>\n<h3>TÍTULO VI Da Ordem Social e Econômica</h3>\n<h3>CAPÍTULO I Disposições Gerais</h3>\n<p><b>Art. 141</b> – A ordem social tem como base o primado do trabalho e como objetivo o bem- estar e a justiça sociais.</p>\n<p><b>Parágrafo único</b> - São direitos sociais a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância e a assistência aos desamparados, na forma da Constituição da República e desta Lei Orgânica.</p>\n<p><b>Art. 142</b> – O Poder Público, agente normativo e regulador da atividade econômica, exercerá, no âmbito de sua competência, as funções de fiscalização, incentivo e planejamento, atuando:</p>\n<p>I - na eliminação do abuso do poder econômico;</p>\n<p>II - na defesa, promoção e divulgação dos direitos do consumidor;</p>\n<p>III - na fiscalização da qualidade dos bens e dos serviços produzidos e comercializados em seu território;</p>\n<p>IV - no apoio à organização da atividade econômica em cooperativas e no estímulo ao associativismo;</p>\n<p>V - na democratização da atividade econômica.</p>\n<p>VI - na proteção dos trabalhadores em face da automação.</p>\n<p><b>Parágrafo único</b> - O Município dispensará tratamento jurídico diferenciado à pequena e à microempresa, assim definidas em lei, visando a incentivá-las pela simplificação de suas obrigações administrativas, tributárias e creditícias, ou pela eliminação ou redução destas por meio de lei.</p>\n<p><b>Art. 143</b> – A empresa pública, a sociedade de economia mista e outras entidades que explorem atividade econômica sujeitam-se ao regime jurídico próprio das empresas privadas, inclusive quanto às obrigações trabalhistas e tributárias.</p>\n<p><b>Parágrafo único</b> - As empresas públicas e as sociedades de economia mista não poderão gozar de privilégios fiscais não-extensivos às do setor privado.</p>\n<h3>CAPÍTULO II Da Saúde</h3>\n<p><b>Art. 144</b> – A saúde é direito de todos e dever do Poder Público, assegurado mediante políticas econômicas, sociais, ambientais e outras que visem à prevenção e à eliminação do risco de doenças e outros agravos e ao acesso universal e igualitário às sanções e serviços para sua promoção, proteção e recuperação, sem qualquer discriminação.</p>\n<p><b>Parágrafo Único</b> – O direito à saúde implica a garantia de:</p>\n<p>I – condições dignas de trabalho, renda, moradia, alimentação, educação, locomoção, lazer e saneamento;</p>\n<p>II – participação da sociedade, através de entidades representativas, na elaboração de políticas, na definição de estratégias de implementação e no controle das atividades com impacto sobre a saúde;</p>\n<p>III – acesso à informações de interesse para a saúde de obrigação do Poder Público de manter a população informada sobre os riscos e danos à saúde e sobre as medidas de prevenção e controle;</p>\n<p>IV – proteção do meio ambiente e controle de poluição ambiental;</p>\n<p>V – acesso igualitário às ações e aos serviços de saúde;</p>\n<p>VI – opção quanto ao número de filhos.</p>\n<p>VII – dignidade, gratuidade e boa qualidade no atendimento e no tratamento de saúde;</p>\n<p><b>Art. 145</b> – As ações e serviços de saúde são de relevância pública e cabe ao Poder Público sua regulamentação, fiscalização e controle na forma da lei.</p>\n<p><b>Art. 146</b> – As ações e serviços de saúde são de responsabilidade do sistema único de saúde, que se organiza com as seguintes diretrizes:</p>\n<p>I – comando político administrativo único das ações a nível de órgão central do sistema, articulado aos níveis estadual e federal, formando uma rede regionalizada e hierarquizada;</p>\n<p>II – participação da sociedade civil;</p>\n<p>III – integridade da atenção à saúde, entendida como a abordagem do indivíduo inserido no coletivo social, bem como a articulação das ações de promoção, recuperação e reabilitação da saúde;</p>\n<p>IV – integração, em nível executivo, das ações de saúde e meio ambiente, nele incluído e de trabalho;</p>\n<p>V – proibição de cobrança do usuário pela prestação de serviços de assistência à saúde ou contratados;</p>\n<p>VI – acesso igualitário às ações e aos serviços de saúde;</p>\n<p>VII – dignidade, gratuidade e boa qualidade no atendimento e no tratamento da saúde;</p>\n<p>VIII – celebração de consórcios intermunicipais para formação de distritos sanitários, quando houver indicação técnica e consenso das partes.</p>\n<p>IX – desenvolvimento dos recursos humanos e científico-tecnológicos dos sistemas, adequados às necessidades da população.</p>\n<p>X - distritalização dos recursos, dos serviços e das ações, segundo critérios de contingente populacional e de demanda;</p>\n<p>XI - desenvolvimento dos recursos humanos e científico-tecnológicos do sistema, adequados às necessidades da população;</p>\n<p>XII - formulação e implantação de ações em saúde mental, obedecendo ao seguinte:</p>\n<p>a) respeito aos direitos e garantias fundamentais do doente mental, inclusive quando internado;</p>\n<p>b) estabelecimento de política que priorize e amplie atividades e serviços preventivos e extra-hospitalares.</p>\n<p><b>Parágrafo Único</b> - Na distribuição dos recursos, serviços e ações a que se refere o inciso I, serão observados o disposto nos planos, diretor e plurianual e na Lei de Diretrizes Orçamentárias e o princípio da hierarquização, compreendidos, para tal fim, os seguintes equipamentos:</p>\n<p>I - unidades locais de saúde;</p>\n<p>II - policlínicas;</p>\n<p>III - hospitais gerais;</p>\n<p>IV - hospitais de nível terciário;</p>\n<p>V - hospitais especializados.</p>\n<p><b>Art. 147</b> – Compete ao município, no âmbito do sistema único de saúde, além de outras atribuições previstas na legislação federal:</p>\n<p>I – a elaboração e atualização periódica do plano municipal, em consonância com os planos estadual e federal e com a realidade epidemiológica;</p>\n<p>II – a direção, gestão, controle e avaliação das ações de saúde a nível municipal;</p>\n<p>III – a administração do fundo municipal de saúde e a elaboração de propostas orçamentária;</p>\n<p>IV - o controle da produção ou extração armazenamento, transporte e distribuição de substâncias, produtos, máquinas e equipamentos que possam apresentar riscos à população;</p>\n<p>V – o planejamento e execução das ações de vigilância epidemiológica e sanitária, incluindo os relativos à saúde dos trabalhadores e ao meio ambiente, em articulação com os demais órgãos e entidades governamentais;</p>\n<p>VI – o oferecimento dos cidadãos, por meio de equipes multiprofissionais e de recursos de apoio, de todas as formas de assistência e tratamento necessário e adequadas, incluindo práticas alternativas reconhecidas;</p>\n<p>VII – a promoção gratuita e prioritária de cirurgia interruptiva de gravidez, nos casos permitidos por lei, pelas unidades do sistema público de saúde;</p>\n<p>VIII – a normalização complementar e a padronização dos procedimentos relativos à saúde, por meio de código sanitário municipal;</p>\n<p>IX – a formulação e implementação de política de recursos humanos, na esfera municipal;</p>\n<p>X – o controle dos serviços especializados em segurança e medicina do trabalho.</p>\n<p>XI - a instalação de estabelecimento de assistência médica de emergência em cada área regional do Município;</p>\n<p>XII - a adoção de política de fiscalização e controle de endemias;</p>\n<p>XIII - a prevenção do uso de drogas que determinem dependência física ou psíquica, bem como seu tratamento especializado, provendo aos recursos humanos e materiais necessários;</p>\n<p>XIV - a informação à população sobre os riscos e danos à saúde e medidas de prevenção e controle, inclusive mediante a promoção da educação sanitária nas escolas municipais;</p>\n<p>XV - a prevenção de deficiências, bem como o tratamento e a reabilitação de seus portadores;</p>\n<p>XVI - a transferência, quando necessária, do paciente carente de recursos para estabelecimento de assistência médica ou ambulatorial, integrante do Sistema Único de Saúde, mais próximo de sua residência;</p>\n<p>XVII - a implementação, em conjunto com órgãos federais e estaduais, do sistema de informatização, na área de saúde;</p>\n<p>XVIII - a participação na produção de medicamentos, equipamentos, imunobiológicos, hemoderivados e outros insumos.</p>\n<p><b>Art. 148</b> – São atribuições do sistema Único de Saúde, no âmbito do Município, dentre outras:</p>\n<p>I – executar ações de prevenção, tratamento e reabilitação de deficiências físicas, mentais e sensoriais;</p>\n<p>II – oferecer transporte às pessoas impossibilitadas de se locomoverem, nos casos de tratamento e reabilitação.</p>\n<p><b>Art. 149</b> – O Poder Público poderá contratar a rede privada, quando houver insuficiência de serviços públicos para assegurar a plena cobertura assistencial à população, segundo as normas de direito público e mediante autorização da Câmara;</p>\n<p><b>§ 1º</b> – A rede privada contrata submete-se ao controle da observância das normas técnicas estabelecidas pelo Poder Público e integra o sistema municipal de saúde.</p>\n<p><b>§ 2º</b> – Os serviços privados sem fins lucrativos terão prioridade para contratação.</p>\n<p><b>§ 3º</b> – É assegurada à administração do sistema único de saúde o direito de intervir na execução do contrato de prestação de serviços, quando ocorrer infração de normas contratuais e regulamentares, particularmente, no caso em que o estabelecimento ou serviço de saúde for o único capacitado no local ou região ou se tornar indispensável à continuidade dos serviços, observada a legislação federal e estadual sobre contratação com Administração Pública.</p>\n<p><b>§ 4º</b> – Caso a intervenção não restabelecer a normalidade da prestação de atendimento à saúde da população, poderá o Poder Executivo promover a desapropriação da unidade ou rede prestadora de serviços.</p>\n<p><b>Art. 150</b> – O sistema único de saúde, no âmbito do Município, será financiado com recursos do orçamento municipal e dos orçamentos da seguridade social da União e do Estado, além de outras fontes, os quais constituirão o fundo municipal de saúde.</p>\n<p><b>§ 1º</b> - As dotações orçamentárias oriundas da União e do Estado serão destinadas diretamente ao fundo.</p>\n<p><b>§ 2º</b> – É vedada a destinação de recursos públicos para auxílios e subvenções, bem como a concessão de prazos ou juros privilegiados às entidades privadas com fins lucrativos.</p>\n<p><b>Art. 151</b> – As pessoas físicas ou jurídicas que gerem riscos ou causem danos à saúde de pessoas ou grupos, assumirão o ônus do controle e da reparação de seus atos.</p>\n<p><b>Art. 152</b> – O Município priorizará a assistência à saúde materno-infantil.</p>\n<p><b>Art. 153</b> – A assistência à saúde é livre iniciativa privada.</p>\n<h3>CAPÍTULO III Do Saneamento Básico</h3>\n<p><b>Art. 154</b> – Compete ao Poder Público formular e executar a política e os planos plurianuais de saneamento básico, assegurando:</p>\n<p>I – o abastecimento de água para a adequada higiene, conforto e qualidade compatível com os padrões de potabilidade, independentemente da regularidade do parcelamento do solo ou da edificação;</p>\n<p>II – a coleta e disposição dos esgotos sanitários, dos resíduos sólidos e drenagem das águas pluviais, de forma a preservar o equilíbrio ecológico e prevenir ações danosas à saúde;</p>\n<p>III – o controle de vetores.</p>\n<p><b>§ 1º</b> – As ações de saneamento básico serão precedidas de planejamento que atenda aos critérios de avaliação do quadro sanitário da área a ser beneficiada, objetivando a reversão e a melhoria do perfil epidemiológico.</p>\n<p><b>§ 2º</b> – O Poder Público desenvolverá mecanismos institucionais que compatibilizem as ações de saneamento básico, habitação, desenvolvimento urbano, preservação do meio ambiente e gestão dos recursos hídricos, buscando integração com outros municípios nos casos em que se exigirem ações conjuntas.</p>\n<p><b>§ 3º</b> – As ações municipais de saneamento básico serão executadas diretamente ou por meio de concessão ou permissão, visando ao atendimento adequado à população.</p>\n<p><b>Art. 155</b> – O Município manterá sistema de limpeza urbana, coleta, tratamento e destinação final do lixo, de conformidade com o Código Sanitário Municipal, a ser instituído por lei.</p>\n<p><b>Art. 156</b> – O Município manterá sistema de limpeza urbana, coleta, tratamento e destinação final do lixo, observado o seguinte:</p>\n<p>I - a coleta de lixo será seletiva;</p>\n<p>II - o Poder Público estimulará o acondicionamento seletivo dos resíduos;</p>\n<p>III - os resíduos recicláveis serão acondicionados para reintrodução no ciclo do sistema ecológico;</p>\n<p>IV - os resíduos não-recicláveis serão acondicionados e terão destino final que minimize o impacto ambiental;</p>\n<p>V - o lixo séptico proveniente de hospitais, laboratórios e congêneres será acondicionado e apresentado à coleta em contenedores especiais, coletado em veículos próprios e específicos e transportado separadamente, tendo destino final em incinerador público;</p>\n<p>VI - os terrenos resultantes de aterros sanitários serão destinados a parques ou áreas verdes;</p>\n<p>VII - a coleta e a comercialização dos materiais recicláveis serão feitas preferencialmente por meio de cooperativas de trabalho.</p>\n<h3>CAPÍTULO IV Dos Direitos Humanos e Sociais</h3>\n<p><b>Art. 157</b> – A assistência social é direito do cidadão e será prestada pelo Município, prioritariamente, às crianças e adolescentes de rua, aos desassistidos de qualquer renda ou benefício previdenciário, à maternidade desamparada, aos desabrigados, aos portadores de deficiências, aos idosos, aos desempregados e aos doentes.</p>\n<p><b>§ 1º</b> – O Município, através do Departamento do Bem-Estar Social ou órgão equivalente, a ser criado, na estrutura administrativa, estabelecerá plano de ações na área da assistência social, observando os seguintes princípios:</p>\n<p>I – recursos financeiros consignados no orçamento municipal, além de outras fontes;</p>\n<p>II – coordenação, execução e acompanhamento do plano;</p>\n<p>III – participação da população na formulação das políticas e no controle das ações em todos os níveis.</p>\n<p><b>§ 2º</b> – O Município poderá firmar convênios com entidade beneficente e de assistência social para a execução do plano.</p>\n<p><b>Art. 158</b> – O Conselho da Defesa Social é órgão consultivo do Prefeito Municipal, na definição da política de defesa social do Município, em cuja composição é assegurada a participação:</p>\n<p>I – do Vice-Prefeito, que o presidirá;</p>\n<p>II – do Presidente da Comissão de Defesa Social do Poder Legislativo;</p>\n<p>III – do Comandante da Política Militar de Minas Gerais, no Município;</p>\n<p>IV – do Delegado da Polícia Civil;</p>\n<p>V – de um representante da Defensoria Pública;</p>\n<p>VI – de três representantes da sociedade civil, dos quais, um advogado, um membro da imprensa e um indicado, na forma da lei.</p>\n<h3>CAPÍTULO V Da Educação</h3>\n<p><b>Art. 159</b> – A educação, direito de todos, dever do Poder Público e da família, tem como objetivo o pleno desenvolvimento do cidadão, tornando-o capaz de refletir criticamente sobre a realidade e qualificando-o para o trabalho.</p>\n<p><b>Parágrafo Único</b> – É dever do Município promover, prioritariamente, o atendimento pedagógico em creches, a educação pré-escolar e o ensino fundamental, além de expandir o ensino médio, com a participação da sociedade e cooperação técnica e financeira da União e do Estado.</p>\n<p><b>Art. 160</b> – O dever do Município para com a educação será concretizado mediante a garantia de:</p>\n<p>I – ensino fundamental, obrigatório e gratuito, inclusive para os que a ele não tiveram acesso na idade própria, em período de oito horas diárias para o curso diurno;</p>\n<p>II – progressiva extensão da obrigatoriedade e gratuidade do ensino médio;</p>\n<p>III – atendimento educacional especializado ao portador de deficiência, sem limite de idade;</p>\n<p>IV – preservação dos aspectos humanísticos e profissionalizantes do ensino médio;</p>\n<p>V – expansão e manutenção de rede municipal de ensino, com a adoção de infra-estrutura física e equipamentos adequados;</p>\n<p>VI – atendimento pedagógico gratuito em creche e pré-escola às crianças de até seis anos de idade, em horário integral, e com garantia de acesso ao ensino fundamental;</p>\n<p>VII – propiciamento de acesso aos níveis mais elevados de ensino, da pesquisa e da criação artística, segundo a capacidade de cada um;</p>\n<p>VIII – atendimento à criança nas creches e pré-escola e no ensino fundamental, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde;</p>\n<p>IX – oferta de ensino noturno regular, adequado às condições do educando;</p>\n<p>X – programas específicos de atendimento à criança e adolescente superdotados;</p>\n<p>XI – atendimento ao menor carente ou infrator na sua formação em escola profissionalizante;</p>\n<p>XII – supervisão e orientação educacional em todos os níveis e modalidades de ensino nas escolas municipais, exercidas por profissional habilitado;</p>\n<p>XIII – passe escolar gratuito ao aluno do sistema público municipal que não conseguir matrícula em escola próxima à sua residência;</p>\n<p>XIV – apoio às entidades especializadas, públicas e privadas, sem fins lucrativos, para atendimento ao portador de deficiência.</p>\n<p><b>§ 1º</b> – O acesso ao ensino obrigatório e gratuito, bem como ao atendimento em creche e pré- escola, é direito público subjetivo.</p>\n<p><b>§ 2º</b> – O não oferecimento do ensino pelo Poder Público Municipal, sua oferta irregular ou não atendimento ao portador de deficiência, importa responsabilidade da autoridade competente.</p>\n<p><b>§ 3º</b> – Compete ao Município recensear os educandos em idade de escolarização obrigatória e zelar pela frequência à escola.</p>\n<p><b>§ 4º</b> - O Município manterá os programas de educação pré-escolar e de Ensino Fundamental com a cooperação técnica e financeira da União e do Estado.</p>\n<p><b>Art. 161</b> – Na promoção da educação pré-escolar e do Ensino Fundamental e Médio, o Município observará os seguintes princípios:</p>\n<p>I – igualdade de condições para o acesso e permanência na escola;</p>\n<p>II – liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte e o saber;</p>\n<p>III – pluralismo de idéias e de concepções filosóficas, políticas, estéticas, religiosas e pedagógicas, que conduzam o educando à formação de uma postura ética e social próprias;</p>\n<p>IV – gratuidade do ensino público em estabelecimentos oficiais, extensiva a todo o material escolar e à alimentação do aluno quando na escola;</p>\n<p>V – valorização dos profissionais do ensino, com a garantia de plano de carreira para o magistério público, com piso de vencimento profissional, pagamento por habilitação e ingresso exclusivamente por concurso público de provas e títulos, realizado periodicamente, sob o regime jurídico único adotado pelo Município para seus servidores;</p>\n<p>VI – garantia do princípio do mérito, objetivamente apurado, na carreira do magistério;</p>\n<p>VII – garantia do padrão de qualidade mediante:</p>\n<p>a) reciclagem periódica dos profissionais da educação;</p>\n<p>b) avaliação cooperativa periódica por órgão próprio do sistema educacional, pelo corpo docente, pelos alunos e pelos seus responsáveis;</p>\n<p>c) funcionamento de bibliotecas, laboratórios, salas e de multimeios, equipamentos pedagógicos próprios e rede física adequada ao ensino ministrado.</p>\n<p>VIII – gestão democrática do ensino público, mediante, entre outras medidas, a instituição de:</p>\n<p>a) Assembléia Escolar, como instância máxima de deliberação de escola municipal, composta por servidores nela lotados, por alunos e seus pais e por membros da comunidade;</p>\n<p>b) direção colegiada de escola municipal;</p>\n<p>c) eleição direta e secreta, em dois turnos, se necessário, para o exercício de cargo comissionado de Diretor e de função de Vice-Diretor de escola municipal, para mandato de três anos, permitida uma recondução consecutiva, mediante eleição, e garantida a participação de todos os segmentos da comunidade;</p>\n<p>IX – incentivo à participação da comunidade no processo educacional;</p>\n<p>X – preservação dos valores educacionais locais;</p>\n<p>XI – garantia e estímulo à organização autônoma dos alunos, no âmbito das escolas municipais.</p>\n<p><b>Parágrafo Único</b> – Para o exercício do cargo de Diretor e da função de Vice-Diretor, a escolha recairá, obrigatoriamente, sobre membro concursado do magistério municipal.</p>\n<p><b>Art. 162</b> – Fica assegurada a participação do magistério municipal mediante representação em comissões de trabalho a serem regulamentadas através de decreto do Poder Executivo, na elaboração dos projetos de leis relativos a:</p>\n<p>I – estatuto do magistério municipal;</p>\n<p>II – plano de carreira do magistério municipal;</p>\n<p>III – plano municipal de educação;</p>\n<p>IV – criação do Conselho Municipal de Educação.</p>\n<p><b>§ 1º</b> – A lei assegurará, na composição do Conselho Municipal de Educação, a participação efetiva de todos os segmentos sociais envolvidos, direta ou indiretamente, no processo educacional do Município.</p>\n<p><b>§ 2º</b> – A composição do Conselho Municipal de Educação não será inferior a sete e nem excederá a vinte e um membros efetivos.</p>\n<p><b>§ 3º</b> – A lei definirá os deveres, as atribuições e as prerrogativas do Conselho Municipal de Educação, bem como a forma de eleição e a duração do mandato de seus membros.</p>\n<p><b>Art. 163</b> – Para o atendimento pedagógico às crianças de até seis anos de idade, o Município deverá:</p>\n<p>I – criar, implantar, orientar, supervisionar e fiscalizar as creches;</p>\n<p>II – atender, por meio de equipe multidisciplinar, composta por professor, psicólogo, assistente social, enfermeiro e nutricionista, às necessidades da rede municipal de creches;</p>\n<p>III – propiciar cursos e programas de reciclagem, treinamento, gerenciamento administrativo e especialização, visando à melhoria e ao aperfeiçoamento dos trabalhadores de creches;</p>\n<p>IV – estabelecer normas de construção e reforma de logradouros e dos edifícios para o funcionamento de creches, buscando soluções arquitetônicas adequadas à faixa etária das crianças atendidas;</p>\n<p>V – estabelecer política municipal de articulação junto às creches comunitárias e às filantrópicas.</p>\n<p><b>§ 1º</b> – O Município fornecerá instalações e equipamentos para creches e pré-escolas, observando os seguintes critérios:</p>\n<p>I – prioridade para as áreas de maior densidade demográfica e de menor taxa de renda;</p>\n<p>II – escolha do local para funcionamento de creche e pré-escola, mediante indicação da comunidade;</p>\n<p>III – integração de pré-escolar e creches.</p>\n<p><b>§ 2º</b> - A gestão democrática das creches públicas observará o disposto no art. 161, VIII, no que couber.</p>\n<p><b>§ 3º</b> - Cabe ao Poder Público o atendimento, em creche comum, de criança portadora de deficiência, oferecendo recursos e serviços especializados de educação e reabilitação.</p>\n<p><b>§ 4º</b> - A execução da política de atendimento em creche pública é de responsabilidade de organismo único da administração municipal.</p>\n<p><b>Art. 164</b> – O Poder Executivo submeterá à aprovação da Câmara Municipal, projetos de lei estruturando ou alterando o sistema municipal de ensino, que deverá conter a organização administrativa e técnico-pedagógica do órgão municipal de educação, bem como os projetos de Lei que instituem o Estatuto do Magistério Municipal, Plano de Carreira de Magistério Municipal, Conselho Municipal de Educação e Plano Municipal de Educação Plurianual.</p>\n<p><b>Art. 165</b> – O Município aplicará, anualmente, nunca menos de vinte e cinco por cento da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino público municipal.</p>\n<p><b>§ 1º</b> – As verbas municipais destinadas a atividades esportivas, culturais e recreativas, bem como aos programas suplementares de alimentação e saúde previstos no Art. 146, VIII, não compõem o percentual, que será obtido, levando-se em conta a data de arrecadação e aplicação dos recursos, de forma que não se comprometam os valores reais efetivamente liberados.</p>\n<p><b>§ 2º</b> - O Poder Executivo publicará no diário oficial, até o dia dez de março de cada ano, demonstrativo da aplicação de verbas na educação, especificando sua destinação.</p>\n<p><b>Art. 166</b> – Fica assegurada a cada unidade do sistema municipal de ensino, inclusive às creches, a destinação de recursos necessários à sua conservação, manutenção e vigilância e à aquisição de equipamentos e materiais didático-pedagógicos, conforme dispuser a lei orçamentária.</p>\n<p><b>Art. 167</b> – O Município elaborará plano bienal de educação, visando à ampliação e melhoria do atendimento de suas obrigações para com a oferta de ensino público e gratuito.</p>\n<p><b>Parágrafo Único</b> – A proposta do plano será elaborada pelo Poder Executivo, com a participação da sociedade civil e encaminhada, para aprovação da Câmara, até o dia trinta e um de agosto do ano imediatamente anterior ao do início de sua execução.</p>\n<p><b>Art. 168</b> – As escolas municipais deverão contar, entre outras instalações e equipamentos, com laboratórios, biblioteca, auditório, cantina, sanitário, vestiário, quadra de esportes e espaço não cimentado para recreação.</p>\n<p><b>§ 1º</b> – O Município garantirá o funcionamento de biblioteca em cada escola municipal, acessível à população e com acervo necessário ao atendimento dos alunos.</p>\n<p><b>§ 2º</b> - Cada escola municipal aplicará pelo menos dez por cento da verba referida no art. 166 na manutenção e ampliação do acervo de sua biblioteca.</p>\n<p><b>§ 3º</b> – As unidades municipais de ensino adotarão livros didáticos não consumíveis, favorecendo o reaproveitamento dos mesmos.</p>\n<p><b>§ 4º</b> – É vedada a adoção de livro didático que dissemine qualquer forma de discriminação ou preconceito.</p>\n<p><b>§ 5º</b> – O prédio e o mobiliário escolar utilizados pelas escolas públicas municipais deverão estar em conformidade com os princípios ergonômicos.</p>\n<p><b>Art. 169</b> – O currículo escolar de primeiro e segundo graus das escolas municipais incluirá conteúdos programáticos sobre a prevenção do uso de drogas e de educação para o trânsito e meio ambiente, além de formação política e de cidadania.</p>\n<p><b>§ 1º</b> – O ensino religioso, de matrícula e frequência facultativas, constituirão disciplina das escolas municipais de ensino fundamental, não podendo privilegiar nenhum segmento religioso.</p>\n<p><b>§ 2º</b> - A história e a geografia do Município constituem matérias obrigatórias nas classes do Ensino Fundamental.</p>\n<p><b>§ 3º</b> - A disciplina Formação Política e de Cidadania integrará a parte diversificada do currículo de segundo grau e incluirá conteúdos relacionados à história política do Brasil, à constituição do Congresso Nacional, das Assembléias Legislativas e das Câmaras Municipais, às atividades dos vereadores, dos deputados estaduais e federais e dos senadores, à Constituição Federal, à Constituição do Estado de Minas Gerais, à Lei Orgânica do Município e à legislação eleitoral vigente.</p>\n<p><b>Art. 170</b> – Os estabelecimentos municipais de ensino observarão os limites na composição de suas turmas, segundo as diretrizes estabelecidas pelo Ministério da Educação.</p>\n<p><b>§ 1º</b> – O quadro de pessoal necessário ao funcionamento das unidades municipais de ensino será estabelecido em lei, de acordo com o número de turmas e séries existentes na escola.</p>\n<p><b>§ 2º</b> – É proibida a recusa de matrícula em escolas públicas sob a alegação de deficiência e dificuldades apresentadas pelo aluno, bem como da existência de barreiras que dificultem seu acesso.</p>\n<p><b>§ 3º</b> – O Município assegurará às pessoas portadoras de deficiência o direito à educação básica e profissionalizante gratuita, sem limite de idade.</p>\n<h3>CAPÍTULO VI Da Ciência e Tecnologia</h3>\n<p><b>Art. 171</b> – O Município promoverá e incentivará o desenvolvimento científico, a pesquisa, a difusão e a capacitação tecnológicas, voltados preponderantemente para a solução de problemas locais.</p>\n<p><b>§ 1º</b> – O Município poderá consorciar-se a outros para o trato das questões previstas neste artigo, quando evidenciada a pertinência técnica e administrativa.</p>\n<p><b>§ 2º</b> - O Poder Executivo implantará política de formação de recursos humanos nas áreas de ciência, pesquisa e tecnologia e concederá meios e condições especiais de trabalho aos que dela se ocupem.</p>\n<h3>CAPÍTULO VII Da Cultura</h3>\n<p><b>Art. 172</b> – O acesso aos bens cultura e a condições objetivas para produzi-la é direito do cidadão e dos grupos sociais.</p>\n<p><b>§ 1º</b> – Todo cidadão é um agente cultural e o Poder Público incentivará de forma democrática os diferentes tipos de manifestação cultural existentes no Município.</p>\n<p><b>§ 2º</b> - O Município protegerá as manifestações das culturas populares e dos grupos étnicos participantes do processo civilizatório nacional e promoverá, nas escolas municipais, a educação sobre a história local e a dos povos indígenas e de origem africana.</p>\n<p><b>Art. 173</b> – Constituem patrimônio cultural do Município os bens de natureza material e imaterial, tomados individualmente ou em conjunto, que contenham referência à identidade, à ação e à memória dos diferentes grupos formadores do povo belovalense, entre os quais se incluem:</p>\n<p>I – as formas de expressão;</p>\n<p>II – os modos de criar, fazer e viver;</p>\n<p>III – as criações tecnológicas, científicas e artísticas;</p>\n<p>IV – as obras, objetos, documentos, edificações e demais espaços destinados a manifestações artísticas e culturais;</p>\n<p>V – os conjuntos urbanos e os sítios de valor histórico, paisagístico, arqueológico, paleontológico, ecológico e científico.</p>\n<p><b>§ 1º</b> - As áreas públicas, especialmente os parques, os jardins e as praças, são abertas às manifestações culturais, desde que estas não tenham fins lucrativos e sejam compatíveis com a preservação do patrimônio ambiental, paisagístico, arquitetônico e histórico.</p>\n<p><b>§ 2º</b> - A lei específica disporá sobre a fixação de datas comemorativas de fatos relevantes para a cultura municipal.</p>\n<p><b>§ 3º</b> – O Poder Público adotará incentivos fiscais para empresa de caráter privado que contribuir para produção artístico-cultural e preservação do patrimônio histórico do Município.</p>\n<p><b>Art. 174</b> – O Município, com a colaboração da comunidade criará o Conselho Municipal do Patrimônio Histórico, que promoverá e protegerá, por meio de plano permanente, o patrimônio histórico e cultural do Município, por meio de inventários, pesquisas, registros, vigilância, tombamento, desapropriação e outras formas de acautelamento e preservação.</p>\n<p><b>§ 1º</b> – Compete ao arquivo público reunir, catalogar, preservar, restaurar, microfilmar e pôr à disposição do público, para consulta, documentos, textos, publicações e todo tipo de material relativo à história do Município.</p>\n<p><b>§ 2º</b> - O Poder Público manterá sistema de arquivos públicos e privados com a finalidade de promover o recolhimento, a preservação e a divulgação do patrimônio documental de organismos públicos municipais, bem como de documentos privados de interesse público, a fim de que possam ser utilizados como instrumento de apoio à administração, à cultura e ao desenvolvimento científico e como elemento de prova e informação.</p>\n<p><b>Art. 175</b> – O Poder Público promoverá a implantação, com a participação e cooperação da sociedade civil, de centros culturais nas regiões do Município, para atender às necessidades de desenvolvimento cultural da população.</p>\n<p><b>Art. 176</b> – O Poder Público elaborará e implementará, com a participação e cooperação da sociedade civil, plano de instalação de bibliotecas públicas nos Distritos do Município.</p>\n<p><b>§ 1º</b> - O Poder Executivo poderá celebrar convênios, atendidas às exigências desta Lei Orgânica, com órgãos e entidades públicos, sindicatos, associações de moradores e outras entidades da sociedade civil, para viabilizar o disposto neste artigo.</p>\n<p><b>§ 2º</b> - Junto às bibliotecas serão instaladas, progressivamente oficinas ou cursos de redação, artes plásticas, artesanato, danças e expressão corporal, cinema, teatro, literatura, filosofia e fotografia, além de outras expressões culturais e artísticas.</p>\n<p><b>§ 3º</b> – As bibliotecas públicas municipais serão administradas e mantidas pelo Departamento ou Secretaria Municipal da Educação.</p>\n<h3>CAPÍTULO VIII Do Meio Ambiente</h3>\n<p><b>Art. 177</b> – Todos têm direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao Poder Público Municipal e à coletividade o dever de defendê-lo e preservá-lo para as gerações presentes e futuras.</p>\n<p><b>§ 1º</b> – Para assegurar a efetividade desse direito, incumbe ao Poder Público Municipal, entre outras atribuições:</p>\n<p>I – destinar recursos públicos;</p>\n<p>II – decretar as áreas de proteção permanente;</p>\n<p>III – criar o Conselho Municipal do Meio-Ambiente e Recursos Naturais que definirá, por lei própria, normas de proteção ao meio ambiente, composto de pessoal técnico adequado, um representante do Legislativo e um membro do movimento popular.</p>\n<p>IV – promover a educação multidisciplinar em todos os níveis das escolas municipais e disseminar as informações necessárias ao desenvolvimento da consciência crítica da população para a preservação do meio ambiente;</p>\n<p>V – assegurar o livre acesso às informações ambientais básicas e divulgar sistematicamente os níveis de poluição e de qualidade do meio ambiente no Município;</p>\n<p>VI – prevenir e controlar a poluição, a erosão, o assoreamento e outras formas de degradação ambiental;</p>\n<p>VII – preservar as florestas, a fauna, a flora, inclusive controlando a extração, captura, produção, comercialização, transporte e consumo de seus espécimes e subprodutos, vedadas as práticas que coloquem em risco a sua função ecológica, provoquem extinção de espécimes ou submetam os animais à crueldade;</p>\n<p>VIII – criar parques, reservas, estações ecológicas e outras unidades de conservação, mantê-los sob essencial proteção e dotá-los de infra-estrutura indispensável às suas finalidades;</p>\n<p>IX – estimular e promover o reflorestamento com espécies nativas, objetivando, especialmente a proteção de encostas e dos recursos hídricos;</p>\n<p>X – fiscalizar a produção, a comercialização e o emprego de técnicas, métodos e substâncias que importem riscos para a vida, a qualidade de vida e o meio ambiente, bem como o transporte e o armazenamento dessas substâncias no território municipal;</p>\n<p>XI – registrar, acompanhar e fiscalizar as concessões de direitos de pesquisas e exploração de recursos hídricos e minerais;</p>\n<p>XII – sujeitar à prévia anuência do Conselho Municipal o licenciamento para início, ampliação ou desenvolvimento de atividades, construção ou reforma de instalações, capazes de causar degradação do meio ambiente, sem prejuízo de outras exigências legais;</p>\n<p>XIII – estimular a pesquisa, o desenvolvimento e a utilização de fontes de energia alternativa não poluentes, bem como de tecnologias poupadoras de energia;</p>\n<p>XIV – implantar e manter hortos florestais destinados à recomposição da flora nativa e à produção de espécies diversas, destinadas à arborização dos logradouros públicos;</p>\n<p>XV – promover ampla arborização dos logradouros públicos de área urbana, bem como a reposição dos espécimes em processo de deterioração ou morte.</p>\n<p><b>§ 2º</b> – O licenciamento de que trata o inciso XII do parágrafo anterior, dependerá no caso de atividade ou obra potencialmente causadora de significativa degradação do meio ambiente, de prévio relatório de impacto ambiental, seguido de audiência pública para informação e discussão sobre o projeto.</p>\n<p><b>§ 3º</b> – Aquele que explorar recursos minerais fica obrigado, desde o início da atividade, a recuperar o meio ambiente degradado, de acordo com a solução técnica previamente indicada pelo órgão municipal de controle e política ambiental.</p>\n<p><b>§ 4º</b> – O ato lesivo ao meio ambiente sujeitará o infrator, pessoa física ou jurídica, à interdição temporária ou definitiva das atividades, sem prejuízo das demais sanções administrativas e penais, bem como da obrigação de reparar o dano causado.</p>\n<p><b>Art. 178</b> – São vedados no território municipal:</p>\n<p>I – a produção, distribuição e venda de aerosóis que contenham clorofluorcarbono;</p>\n<p>II – o armazenamento e a eliminação inadequada de resíduos tóxicos;</p>\n<p>III – a caça profissional, amadora e esportiva;</p>\n<p>IV – derrubada de árvores no perímetro urbano, sem autorização prévia do Conselho Municipal do Meio Ambiente;</p>\n<p>V – a caça, a rinha e a pesca predatória;</p>\n<p>VI – fumar nos veículos coletivos;</p>\n<p>VII – a emissão de sons, ruídos e vibrações que prejudiquem a saúde, o sossego e o bem- estar públicos.</p>\n<p><b>Art. 179</b> – É vedado ao Poder Público contratar e conceder privilégios fiscais a quem estiver em situação de irregularidade, face às normas de proteção ambiental.</p>\n<p><b>Parágrafo Único</b> – As concessionárias ou permissionárias de serviços públicos municipais, no caso de infração às normas de proteção ambiental, não será admitida renovação da concessão ou permissão, enquanto perdurar a situação de irregularidade.</p>\n<p><b>Art. 180</b> – Cabe ao Poder Público:</p>\n<p>I – representar ao Ministério Público sobre a ocorrência de conduta ou atividade considerada lesiva ao meio ambiente;</p>\n<p>II – reduzir ao máximo a aquisição e utilização de material não reciclável e não biodegradável, além de divulgar os malefícios deste material sobre o meio ambiente;</p>\n<p>III – fiscalizar a emissão de poluentes por veículos automotores e estimular a implantação de medidas e uso de tecnologia que venham minimizar seus impactos;</p>\n<p>IV – implantar medidas corretivas de defesa ambiental, com multas pecuniárias, diárias e progressivas;</p>\n<p>V – estimular a adoção de alternativas de pavimentação, como forma de garantir menor impacto à impermeabilização do solo;</p>\n<p>VI – implantar e manter áreas verdes de preservação permanente, em proporção nunca inferior a doze metros quadrados por habitante;</p>\n<p>VII – estimular a substituição do perfil industrial do Município, incentivando indústrias de menor impacto ambiental;</p>\n<p>VIII – fiscalizar o processo de beneficiamento de minérios, exigindo a instalação de bacias de decantação que evitem a poluição dos cursos de água;</p>\n<p>IX – criar um departamento com a finalidade de fiscalizar as margens dos córregos e rios, protegendo-os contra a invasão de garimpeiros.</p>\n<p><b>Parágrafo Único</b> – Os recursos oriundos de multas administrativas por atos lesivos ao meio ambiente e das taxas incidentes sobre a utilização dos recursos ambientais, serão destinados a um fundo gerido pelo Conselho Municipal do Meio Ambiente e Recursos Naturais, na forma da lei.</p>\n<p><b>Art. 181</b> – O Município instituirá o Conselho Municipal do Rio Paraopeba e/ou seus afluentes, para atuar nos limites de seu território e em conjunto com a União e o Estado.</p>\n<p><b>Parágrafo Único</b> – Quando for do interesse do Município, o Conselho a que se refere o artigo1º poderá funcionar em conjunto com o Conselho Municipal do Meio Ambiente e Recursos Naturais (inciso III do Art. 177) inclusive com a mesma Diretoria.</p>\n<p><b>Art. 182</b> – O Município participará de sistema integrado de gerenciamento de recursos hídricos, isoladamente ou em consórcio com outros municípios da mesma bacia hidrográfica, assegurando, para tanto, meios financeiros institucionais.</p>\n<p><b>Art. 183</b> – O Município coibirá o desmatamento indiscriminado sobre margens fluviais, que implique em risco de erosão, enchentes, proliferação de insetos e outros danos à população.</p>\n<p><b>Art. 184</b> – O Município promoverá e estimulará o reflorestamento ecológico em áreas degradadas, objetivando especialmente:</p>\n<p>I – a proteção das bacias hidrográficas e dos terrenos sujeitos à erosão ou inundação;</p>\n<p>II – a recomposição paisagística;</p>\n<p>III – a criação de mecanismos de atuação conjunta e integrada, com outros municípios e com o Poder Público, que atue na proteção do meio ambiente e áreas correlatas sem prejuízo da competência e autonomia municipal.</p>\n<p><b>Art. 185</b> – Observada a competência do Estado, o Município considerará como áreas a serem especialmente protegidas:</p>\n<p>I – as nascentes e as faixas marginais das águas superficiais;</p>\n<p>II – as áreas que abriguem exemplares raros, ameaçados de extinção ou insuficientemente conhecidos da flora e da fauna, bem como aqueles que precisam de pouso, abrigo ou reprodução das espécies;</p>\n<p>III – os parques e praças do Município;</p>\n<p>IV – as áreas de mananciais.</p>\n<p><b>Parágrafo Único</b> – Outras áreas de preservação permanente e fonte alternativa de alimentos integrantes do Vale do Paraopeba deverão ser definidas pelo Município, em lei complementar.</p>\n<p><b>Art. 186</b> – As empresas deverão dispor afluentes a montante da área de capitação.</p>\n<p><b>Art. 187</b> – Qualquer projeto industrial para instalar-se ou renovação de alvará situado às margens do Rio Paraopeba, dependerá de prévia apresentação do R.I.M.A. (Relatório de Impacto ao Meio Ambiente) e aprovação do Legislativo.</p>\n<p><b>Art. 188</b> – O Poder Público Municipal poderá declarar imune de corte qualquer árvore, por motivo de sua localização, raridade, beleza ou condição de porta-semente.</p>\n<p><b>Art. 189</b> – Dentro de seu território e respeitada a competência comum da União e do Estado, o Município exercerá poder de polícia sobre todas as questões de proteção ao meio ambiente, preservação de florestas, de fauna, da flora e do combate à poluição.</p>\n<p><b>Art. 190</b> – A Câmara manifestar-se-á previamente, em relação ao território municipal, sobre:</p>\n<p>I - a instalação de reator nuclear ou qualquer material radioativo;</p>\n<p>II - a disposição e o transporte de rejeitos de usina que opere com reator nuclear;</p>\n<p>III - a fabricação, a comercialização, o transporte e a utilização de equipamento bélico nuclear.</p>\n<h3>CAPÍTULO IX Do Desporto e Lazer</h3>\n<p><b>Art. 191</b> – O Município promoverá, estimulará, orientará e apoiará a prática esportiva e a educação física, inclusive por meio de:</p>\n<p>I - destinação de recursos públicos;</p>\n<p>II - proteção a todos os tipos de manifestações esportivas e preservação das áreas a elas destinadas;</p>\n<p>III - tratamento privilegiado ao desporto não profissional.</p>\n<p><b>§ 1º</b> – Para os fins do artigo, cabe ao Município:</p>\n<p>I – exigir, nos projetos urbanísticos e nas unidades escolares públicas, como na aprovação dos novos conjuntos habitacionais, reserva de área destinada a praça ou campo de esporte e lazer comunitário;</p>\n<p>II – utilizar-se de terreno próprio, cedido ou desapropriado, para desenvolvimento de programa de construção de centro esportivo, praça de esporte, ginásio, áreas de lazer e campos de futebol, necessários à demanda do esporte amador dos bairros da cidade.</p>\n<p>III - incluir a Educação Física como disciplina nos estabelecimentos oficiais de ensino;</p>\n<p>IV - manter o funcionamento das instalações desportivas por ele criadas, no que se refere a recursos humanos e materiais.</p>\n<p><b>§ 2º</b> – O Município garantirá ao portador de deficiência, atendimento especial no que se refere à educação física e à prática de atividade desportiva, sobretudo no âmbito escolar.</p>\n<p><b>§ 3º</b> – O Município, por meio de rede pública de saúde, propiciará acompanhamento médico e exames ao atleta integrante de quadros de entidade amadorística carente de recursos.</p>\n<p><b>§ 4º</b> – Cabe ao Município, na área de sua competência, regulamentar e fiscalizar os jogos esportivos, os espetáculos e divertimento públicos.</p>\n<p><b>Art. 192</b> – O Município apoiará e incentivará o lazer e o reconhecerá como forma de promoção social.</p>\n<p><b>§ 1º</b> – Os parques, jardins, praças e quarteirões fechados são espaços privilegiados para o lazer.</p>\n<h3>CAPÍTULO X Da Família, da Criança, do Adolescente, do Idoso e do Portador de Deficiência</h3>\n<p><b>Art. 193</b> – O Município, na formulação e aplicação de suas políticas sociais, visará, nos limites de sua competência e em colaboração com a União e o Estado, dar à família, condições para a realização de suas relevantes funções sociais.</p>\n<p><b>Parágrafo Único</b> – Fundado nos princípios da dignidade da pessoa humana e da paternidade e maternidade responsáveis, o planejamento familiar é livre decisão do casal, competindo ao Município, por meio de recursos educacionais e científicos, colaborar com a União e o Estado para assegurar o exercício desse direito, vedada qualquer forma coercitiva por parte das instituições públicas.</p>\n<p><b>Art. 194</b> – É dever da família, da sociedade e do Poder Público assegurar à criança e ao adolescente, com absoluta prioridade, o direito à vida, à saúde, à alimentação, à educação, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária, além de colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão.</p>\n<p><b>§ 1º</b> – A garantia de absoluta prioridade compreende:</p>\n<p>I – primazia de receber proteção e socorro em quaisquer circunstâncias;</p>\n<p>II – a procedência de atendimento em serviço de relevância pública ou em órgão público;</p>\n<p>III – a preferência na formulação e na execução das políticas sociais públicas;</p>\n<p>IV – o aquinhoamento privilegiado de recursos públicos nas áreas relacionadas com a proteção à infância e à juventude, notadamente, no que disser respeito a tóxicos e drogas afins.</p>\n<p><b>§ 2º</b> – Será punido na forma da lei, qualquer atentado do Poder Público, por ação ou omissão, aos direitos fundamentais da criança e do adolescente.</p>\n<p><b>Art. 195</b> – O Município, em conjunto com a sociedade, criará e manterá programas sócio- educativos e de assistência judiciária, destinados ao atendimento da criança e adolescente privados das condições necessárias ao seu pleno desenvolvimento e incentivará ainda, os programas de iniciativas das comunidades, mediante apoio técnico e financeiro, vinculado ao orçamento, de forma a garantir-se o completo atendimento dos direitos constantes desta Lei Orgânica.</p>\n<p><b>§ 1º</b> – As ações do Município, de proteção à infância e à adolescência serão organizadas na forma da lei, com base nas seguintes diretrizes:</p>\n<p>I – desconcentração do atendimento;</p>\n<p>II – priorização dos vínculos familiares e comunitários como medida preferencial para a integração social da criança e adolescente;</p>\n<p>III – participação da sociedade civil na formulação de políticas e programas, assim como na implantação, acompanhamento, controle e fiscalização de sua execução.</p>\n<p><b>§ 2º</b> – Programas de defesa e vigilância dos direitos da criança e adolescente preverão:</p>\n<p>I – estímulo e apoio à criança de centros de defesa dos direitos da criança, do adolescente, gerido pela sociedade civil;</p>\n<p>II – criação de plantões de recebimento e encaminhamento de denúncias de violência contra crianças e adolescentes;</p>\n<p>III – implantação de serviços de advocacia da criança, atendimento e acompanhamentos às vítimas, de negligência, abuso, maus tratos, exploração e tóxico;</p>\n<p><b>§ 3º</b> – O Município implantará e manterá, sem qualquer caráter repressivo ou obrigatório:</p>\n<p>I – albergues, que ficarão à disposição das crianças e adolescentes desassistidos;</p>\n<p>II – quadros de educadores de rua, compostos por psicólogos, pedagogos, assistentes sociais, especialistas em atividades esportivas, artísticas de expressão corporal e dança, bem como por pessoas com reconhecida competência e sensibilidade no trabalho com crianças e adolescentes.</p>\n<p><b>Art. 196</b> – O Município promoverá condições que assegurem amparo à pessoa idosa no que diz respeito à sua dignidade e ao seu bem estar.</p>\n<p><b>§ 1º</b> – O amparo ao idoso será, quando possível, exercido no próprio lar.</p>\n<p><b>§ 2º</b> – Para assegurar a integração do idoso na comunidade e na família serão criados centros diurnos de lazer e de amparo à velhice.</p>\n<p><b>Art. 197</b> – O Município, isoladamente ou em cooperação, criará e manterá:</p>\n<p>I – casas transitórias para mães puérpera que não tiver moradia, nem condições de cuidar de seu filho recém-nascido, nos primeiros meses de vida;</p>\n<p>II – casas especializadas para acolhimento da mulher e da criança vítima de violência no âmbito da família ou fora dele;</p>\n<p>III – centros de apoio de acolhimento à menina de rua que a contemplem suas especificidades de mulher.</p>\n<p><b>Art. 198</b> – O Município garantirá ao portador de deficiência, nos termos da lei:</p>\n<p>I – a participação na formulação de políticos para o setor;</p>\n<p>II – o direito à informação, comunicação, transporte e segurança, por meio de, dentre outros, da imprensa braile, da linguagem gestual, de sonorização de semáforo e da adequação dos meios de transporte;</p>\n<p>III – sistema especial de transporte para a frequência às escolas e clínicas especializadas, quando impossibilitados de usar o sistema de transporte comum;</p>\n<p>IV – manutenção de programas de assistência integral para os excepcionais não reabilitáveis e oficinas públicas para os trabalhadores portadores de deficiências excluídas do mercado de trabalho normal;</p>\n<p><b>§ 1º</b> – O Poder Público estimulará o investimento de pessoas física e jurídica, trabalhadores, portadores de deficiência, conforme a lei.</p>\n<p><b>§ 2º</b> - Os veículos de transporte coletivo deverão ser equipados com elevadores hidráulicos e demais condições técnicas que permitam o acesso adequado ao portador de deficiência.</p>\n<p><b>§ 3º</b> - O Poder Público implantará organismo executivo da política pública de apoio ao portador de deficiência.</p>\n<p><b>§ 4º</b> – O não oferecimento do atendimento especializado ao portador de deficiência ou sua oferta irregular, importam em responsabilidade da autoridade competente.</p>\n<p><b>Art. 199</b> – O Município instituirá os Conselhos Municipais de Defesa da Criança, do Adolescente, do Idoso e do Deficiente.</p>\n<h3>TÍTULO VII Da Ordem Econômica</h3>\n<h3>CAPÍTULO I Da Política Urbana</h3>\n<h3>SEÇÃO I Disposições Gerais</h3>",
+"quiz": [
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. None, § 1º), as decisões do Tribunal de Contas de que resulte imputação de débitos ou multa, terão eficácia de título executivo.",
+"c": true,
+"prof": "Lei Orgânica, art. None, § 1º.",
+"x": "É o que dispõe o art. None, § 1º da Lei Orgânica.",
+"e": "Art. none, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 116, I), a Defensoria do Povo terá, entre outras, as seguintes atribuições apurar os atos, fatos e omissões de órgãos e entidades da administração pública ou de seus agentes, que impliquem em exercício ilegítimo, inconveniente ou inoportuno de suas funções.",
+"c": true,
+"prof": "Lei Orgânica, art. 116, I.",
+"x": "É o que dispõe o art. 116, I da Lei Orgânica.",
+"e": "Art. 116, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 117, II), ao Município compete instituir Taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis ao contribuinte ou postos à sua disposição.",
+"c": true,
+"prof": "Lei Orgânica, art. 117, II.",
+"x": "É o que dispõe o art. 117, II da Lei Orgânica.",
+"e": "Art. 117, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 117, § 5º), sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, facultando à administração municipal identificar, respeitados os direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte.",
+"c": true,
+"prof": "Lei Orgânica, art. 117, § 5º.",
+"x": "É o que dispõe o art. 117, § 5º da Lei Orgânica.",
+"e": "Art. 117, § 5º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 121), qualquer anistia ou remissão que envolva matéria tributária ou previdência de competência do Município, só poderá ser concedida mediante lei específica municipal, de iniciativa do Poder Executivo.",
+"c": true,
+"prof": "Lei Orgânica, art. 121.",
+"x": "É o que dispõe o art. 121 da Lei Orgânica.",
+"e": "Art. 121."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 125, II), caberá ainda ao Município A respectiva quota do produto da arrecadação do imposto sobre produtos industrializados, como disposto no Art. 159, inciso II e § 3º da Constituição da República e.",
+"c": true,
+"prof": "Lei Orgânica, art. 125, II.",
+"x": "É o que dispõe o art. 125, II da Lei Orgânica.",
+"e": "Art. 125, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 128), a lei que instituir o plano plurianual de ação governamental, compatível com o Plano Diretor, estabelecerá as diretrizes, objetivos e metas da administração municipal para as despesas de capital e outras delas decorrentes e para relativas a programas de duração continuada.",
+"c": true,
+"prof": "Lei Orgânica, art. 128.",
+"x": "É o que dispõe o art. 128 da Lei Orgânica.",
+"e": "Art. 128."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 131, I), a Lei Orçamentária anual compreenderá O orçamento fiscal referente aos Poderes do Município, seus fundos, órgãos e entidades da administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público.",
+"c": true,
+"prof": "Lei Orgânica, art. 131, I.",
+"x": "É o que dispõe o art. 131, I da Lei Orgânica.",
+"e": "Art. 131, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 131, IV), integrarão a Lei Orçamentária demonstrativos específicos com detalhamento das ações governamentais, em nível mínimo de Fontes de recursos.",
+"c": true,
+"prof": "Lei Orgânica, art. 131, IV.",
+"x": "É o que dispõe o art. 131, IV da Lei Orgânica.",
+"e": "Art. 131, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 134), os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual serão enviados pelo Prefeito à Câmara, nos termos e prazos fixados pela legislação específica.",
+"c": true,
+"prof": "Lei Orgânica, art. 134.",
+"x": "É o que dispõe o art. 134 da Lei Orgânica.",
+"e": "Art. 134."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 135, § 3º), os recursos que, em decorrência de veto, emendas ou rejeição do projeto de Lei Orçamentária Anual, ficarem sem despesas correspondentes poderão ser utilizados, conforme o caso, mediante créditos especiais ou suplementares, com prévia e específica autorização legislativa.",
+"c": true,
+"prof": "Lei Orgânica, art. 135, § 3º.",
+"x": "É o que dispõe o art. 135, § 3º da Lei Orgânica.",
+"e": "Art. 135, § 3º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 136), o projeto de Lei Orçamentária Anual será enviado pelo Prefeito à Câmara Municipal, até o dia trinta dia de setembro do ano que o precede.",
+"c": true,
+"prof": "Lei Orgânica, art. 136.",
+"x": "É o que dispõe o art. 136 da Lei Orgânica.",
+"e": "Art. 136."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 137, VI), são vedados a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra, ou de um órgão para outro, sem prévia autorização legislativa.",
+"c": true,
+"prof": "Lei Orgânica, art. 137, VI.",
+"x": "É o que dispõe o art. 137, VI da Lei Orgânica.",
+"e": "Art. 137, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 137, § 2º), os créditos extraordinários e especiais terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subsequente.",
+"c": true,
+"prof": "Lei Orgânica, art. 137, § 2º.",
+"x": "É o que dispõe o art. 137, § 2º da Lei Orgânica.",
+"e": "Art. 137, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 139), a despesa com pessoal ativo e inativo do Município não poderão exceder os limites estabelecidos em lei complementar federal.",
+"c": true,
+"prof": "Lei Orgânica, art. 139.",
+"x": "É o que dispõe o art. 139 da Lei Orgânica.",
+"e": "Art. 139."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 141, Parágrafo único), são direitos sociais a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância e a assistência aos desamparados, na forma da Constituição da República e desta Lei Orgânica.",
+"c": true,
+"prof": "Lei Orgânica, art. 141, Parágrafo único.",
+"x": "É o que dispõe o art. 141, Parágrafo único da Lei Orgânica.",
+"e": "Art. 141, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 142, VI), o Poder Público, agente normativo e regulador da atividade econômica, exercerá, no âmbito de sua competência, as funções de fiscalização, incentivo e planejamento, atuando na proteção dos trabalhadores em face da automação.",
+"c": true,
+"prof": "Lei Orgânica, art. 142, VI.",
+"x": "É o que dispõe o art. 142, VI da Lei Orgânica.",
+"e": "Art. 142, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 144, III), o direito à saúde implica a garantia de acesso à informações de interesse para a saúde de obrigação do Poder Público de manter a população informada sobre os riscos e danos à saúde e sobre as medidas de prevenção e controle.",
+"c": true,
+"prof": "Lei Orgânica, art. 144, III.",
+"x": "É o que dispõe o art. 144, III da Lei Orgânica.",
+"e": "Art. 144, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 146, I), as ações e serviços de saúde são de responsabilidade do sistema único de saúde, que se organiza com as seguintes diretrizes comando político administrativo único das ações a nível de órgão central do sistema, articulado aos níveis estadual e federal, formando uma rede regionalizada e hierarquizada.",
+"c": true,
+"prof": "Lei Orgânica, art. 146, I.",
+"x": "É o que dispõe o art. 146, I da Lei Orgânica.",
+"e": "Art. 146, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 146, VII), as ações e serviços de saúde são de responsabilidade do sistema único de saúde, que se organiza com as seguintes diretrizes dignidade, gratuidade e boa qualidade no atendimento e no tratamento da saúde.",
+"c": true,
+"prof": "Lei Orgânica, art. 146, VII.",
+"x": "É o que dispõe o art. 146, VII da Lei Orgânica.",
+"e": "Art. 146, vii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 146, II), na distribuição dos recursos, serviços e ações a que se refere o inciso I, serão observados o disposto nos planos, diretor e plurianual e na Lei de Diretrizes Orçamentárias e o princípio da hierarquização, compreendidos, para tal fim, os seguintes equipamentos policlínicas.",
+"c": true,
+"prof": "Lei Orgânica, art. 146, II.",
+"x": "É o que dispõe o art. 146, II da Lei Orgânica.",
+"e": "Art. 146, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 147, III), compete ao município, no âmbito do sistema único de saúde, além de outras atribuições previstas na legislação federal a administração do fundo municipal de saúde e a elaboração de propostas orçamentária.",
+"c": true,
+"prof": "Lei Orgânica, art. 147, III.",
+"x": "É o que dispõe o art. 147, III da Lei Orgânica.",
+"e": "Art. 147, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 147, IX), compete ao município, no âmbito do sistema único de saúde, além de outras atribuições previstas na legislação federal a formulação e implementação de política de recursos humanos, na esfera municipal.",
+"c": true,
+"prof": "Lei Orgânica, art. 147, IX.",
+"x": "É o que dispõe o art. 147, IX da Lei Orgânica.",
+"e": "Art. 147, ix."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 147, XV), compete ao município, no âmbito do sistema único de saúde, além de outras atribuições previstas na legislação federal a prevenção de deficiências, bem como o tratamento e a reabilitação de seus portadores.",
+"c": true,
+"prof": "Lei Orgânica, art. 147, XV.",
+"x": "É o que dispõe o art. 147, XV da Lei Orgânica.",
+"e": "Art. 147, xv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 149), o Poder Público poderá contratar a rede privada, quando houver insuficiência de serviços públicos para assegurar a plena cobertura assistencial à população, segundo as normas de direito público e mediante autorização da Câmara.",
+"c": true,
+"prof": "Lei Orgânica, art. 149.",
+"x": "É o que dispõe o art. 149 da Lei Orgânica.",
+"e": "Art. 149."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 151), as pessoas físicas ou jurídicas que gerem riscos ou causem danos à saúde de pessoas ou grupos, assumirão o ônus do controle e da reparação de seus atos.",
+"c": true,
+"prof": "Lei Orgânica, art. 151.",
+"x": "É o que dispõe o art. 151 da Lei Orgânica.",
+"e": "Art. 151."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 154, § 2º), o Poder Público desenvolverá mecanismos institucionais que compatibilizem as ações de saneamento básico, habitação, desenvolvimento urbano, preservação do meio ambiente e gestão dos recursos hídricos, buscando integração com outros municípios nos casos em que se exigirem ações conjuntas.",
+"c": true,
+"prof": "Lei Orgânica, art. 154, § 2º.",
+"x": "É o que dispõe o art. 154, § 2º da Lei Orgânica.",
+"e": "Art. 154, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 156, IV), o Município manterá sistema de limpeza urbana, coleta, tratamento e destinação final do lixo, observado o seguinte os resíduos não-recicláveis serão acondicionados e terão destino final que minimize o impacto ambiental.",
+"c": true,
+"prof": "Lei Orgânica, art. 156, IV.",
+"x": "É o que dispõe o art. 156, IV da Lei Orgânica.",
+"e": "Art. 156, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 157, III), o Município, através do Departamento do Bem-Estar Social ou órgão equivalente, a ser criado, na estrutura administrativa, estabelecerá plano de ações na área da assistência social, observando os seguintes princípios participação da população na formulação das políticas e no controle das ações em todos os níveis.",
+"c": true,
+"prof": "Lei Orgânica, art. 157, III.",
+"x": "É o que dispõe o art. 157, III da Lei Orgânica.",
+"e": "Art. 157, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 158, V), o Conselho da Defesa Social é órgão consultivo do Prefeito Municipal, na definição da política de defesa social do Município, em cuja composição é assegurada a participação de um representante da Defensoria Pública.",
+"c": true,
+"prof": "Lei Orgânica, art. 158, V.",
+"x": "É o que dispõe o art. 158, V da Lei Orgânica.",
+"e": "Art. 158, v."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 160, III), o dever do Município para com a educação será concretizado mediante a garantia de atendimento educacional especializado ao portador de deficiência, sem limite de idade.",
+"c": true,
+"prof": "Lei Orgânica, art. 160, III.",
+"x": "É o que dispõe o art. 160, III da Lei Orgânica.",
+"e": "Art. 160, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 160, IX), o dever do Município para com a educação será concretizado mediante a garantia de oferta de ensino noturno regular, adequado às condições do educando.",
+"c": true,
+"prof": "Lei Orgânica, art. 160, IX.",
+"x": "É o que dispõe o art. 160, IX da Lei Orgânica.",
+"e": "Art. 160, ix."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 160, § 1º), o acesso ao ensino obrigatório e gratuito, bem como ao atendimento em creche e pré- escola, é direito público subjetivo.",
+"c": true,
+"prof": "Lei Orgânica, art. 160, § 1º.",
+"x": "É o que dispõe o art. 160, § 1º da Lei Orgânica.",
+"e": "Art. 160, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 161, III), na promoção da educação pré-escolar e do Ensino Fundamental e Médio, o Município observará os seguintes princípios pluralismo de idéias e de concepções filosóficas, políticas, estéticas, religiosas e pedagógicas, que conduzam o educando à formação de uma postura ética e social próprias.",
+"c": true,
+"prof": "Lei Orgânica, art. 161, III.",
+"x": "É o que dispõe o art. 161, III da Lei Orgânica.",
+"e": "Art. 161, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 162, I), fica assegurada a participação do magistério municipal mediante representação em comissões de trabalho a serem regulamentadas através de decreto do Poder Executivo, na elaboração dos projetos de leis relativos a estatuto do magistério municipal.",
+"c": true,
+"prof": "Lei Orgânica, art. 162, I.",
+"x": "É o que dispõe o art. 162, I da Lei Orgânica.",
+"e": "Art. 162, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 162, § 3º), a lei definirá os deveres, as atribuições e as prerrogativas do Conselho Municipal de Educação, bem como a forma de eleição e a duração do mandato de seus membros.",
+"c": true,
+"prof": "Lei Orgânica, art. 162, § 3º.",
+"x": "É o que dispõe o art. 162, § 3º da Lei Orgânica.",
+"e": "Art. 162, § 3º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 163, I), o Município fornecerá instalações e equipamentos para creches e pré-escolas, observando os seguintes critérios prioridade para as áreas de maior densidade demográfica e de menor taxa de renda.",
+"c": true,
+"prof": "Lei Orgânica, art. 163, I.",
+"x": "É o que dispõe o art. 163, I da Lei Orgânica.",
+"e": "Art. 163, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 165), o Município aplicará, anualmente, nunca menos de vinte e cinco por cento da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino público municipal.",
+"c": true,
+"prof": "Lei Orgânica, art. 165.",
+"x": "É o que dispõe o art. 165 da Lei Orgânica.",
+"e": "Art. 165."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 168, § 1º), o Município garantirá o funcionamento de biblioteca em cada escola municipal, acessível à população e com acervo necessário ao atendimento dos alunos.",
+"c": true,
+"prof": "Lei Orgânica, art. 168, § 1º.",
+"x": "É o que dispõe o art. 168, § 1º da Lei Orgânica.",
+"e": "Art. 168, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 169, § 1º), o ensino religioso, de matrícula e frequência facultativas, constituirão disciplina das escolas municipais de ensino fundamental, não podendo privilegiar nenhum segmento religioso.",
+"c": true,
+"prof": "Lei Orgânica, art. 169, § 1º.",
+"x": "É o que dispõe o art. 169, § 1º da Lei Orgânica.",
+"e": "Art. 169, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 171), o Município promoverá e incentivará o desenvolvimento científico, a pesquisa, a difusão e a capacitação tecnológicas, voltados preponderantemente para a solução de problemas locais.",
+"c": true,
+"prof": "Lei Orgânica, art. 171.",
+"x": "É o que dispõe o art. 171 da Lei Orgânica.",
+"e": "Art. 171."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 173, I), constituem patrimônio cultural do Município os bens de natureza material e imaterial, tomados individualmente ou em conjunto, que contenham referência à identidade, à ação e à memória dos diferentes grupos formadores do povo belovalense, entre os quais se incluem as formas de expressão.",
+"c": true,
+"prof": "Lei Orgânica, art. 173, I.",
+"x": "É o que dispõe o art. 173, I da Lei Orgânica.",
+"e": "Art. 173, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 175), o Poder Público promoverá a implantação, com a participação e cooperação da sociedade civil, de centros culturais nas regiões do Município, para atender às necessidades de desenvolvimento cultural da população.",
+"c": true,
+"prof": "Lei Orgânica, art. 175.",
+"x": "É o que dispõe o art. 175 da Lei Orgânica.",
+"e": "Art. 175."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 177, I), para assegurar a efetividade desse direito, incumbe ao Poder Público Municipal, entre outras atribuições destinar recursos públicos.",
+"c": true,
+"prof": "Lei Orgânica, art. 177, I.",
+"x": "É o que dispõe o art. 177, I da Lei Orgânica.",
+"e": "Art. 177, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 177, IX), para assegurar a efetividade desse direito, incumbe ao Poder Público Municipal, entre outras atribuições estimular e promover o reflorestamento com espécies nativas, objetivando, especialmente a proteção de encostas e dos recursos hídricos.",
+"c": true,
+"prof": "Lei Orgânica, art. 177, IX.",
+"x": "É o que dispõe o art. 177, IX da Lei Orgânica.",
+"e": "Art. 177, ix."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 177, § 3º), aquele que explorar recursos minerais fica obrigado, desde o início da atividade, a recuperar o meio ambiente degradado, de acordo com a solução técnica previamente indicada pelo órgão municipal de controle e política ambiental.",
+"c": true,
+"prof": "Lei Orgânica, art. 177, § 3º.",
+"x": "É o que dispõe o art. 177, § 3º da Lei Orgânica.",
+"e": "Art. 177, § 3º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 178, V), são vedados no território municipal a caça, a rinha e a pesca predatória.",
+"c": true,
+"prof": "Lei Orgânica, art. 178, V.",
+"x": "É o que dispõe o art. 178, V da Lei Orgânica.",
+"e": "Art. 178, v."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 180, II), cabe ao Poder Público reduzir ao máximo a aquisição e utilização de material não reciclável e não biodegradável, além de divulgar os malefícios deste material sobre o meio ambiente.",
+"c": true,
+"prof": "Lei Orgânica, art. 180, II.",
+"x": "É o que dispõe o art. 180, II da Lei Orgânica.",
+"e": "Art. 180, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 180, VIII), cabe ao Poder Público fiscalizar o processo de beneficiamento de minérios, exigindo a instalação de bacias de decantação que evitem a poluição dos cursos de água.",
+"c": true,
+"prof": "Lei Orgânica, art. 180, VIII.",
+"x": "É o que dispõe o art. 180, VIII da Lei Orgânica.",
+"e": "Art. 180, viii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 183), o Município coibirá o desmatamento indiscriminado sobre margens fluviais, que implique em risco de erosão, enchentes, proliferação de insetos e outros danos à população.",
+"c": true,
+"prof": "Lei Orgânica, art. 183.",
+"x": "É o que dispõe o art. 183 da Lei Orgânica.",
+"e": "Art. 183."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 185, IV), observada a competência do Estado, o Município considerará como áreas a serem especialmente protegidas as áreas de mananciais.",
+"c": true,
+"prof": "Lei Orgânica, art. 185, IV.",
+"x": "É o que dispõe o art. 185, IV da Lei Orgânica.",
+"e": "Art. 185, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 190, I), a Câmara manifestar-se-á previamente, em relação ao território municipal, sobre a instalação de reator nuclear ou qualquer material radioativo.",
+"c": true,
+"prof": "Lei Orgânica, art. 190, I.",
+"x": "É o que dispõe o art. 190, I da Lei Orgânica.",
+"e": "Art. 190, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 191, I), para os fins do artigo, cabe ao Município exigir, nos projetos urbanísticos e nas unidades escolares públicas, como na aprovação dos novos conjuntos habitacionais, reserva de área destinada a praça ou campo de esporte e lazer comunitário.",
+"c": true,
+"prof": "Lei Orgânica, art. 191, I.",
+"x": "É o que dispõe o art. 191, I da Lei Orgânica.",
+"e": "Art. 191, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 191, § 4º), cabe ao Município, na área de sua competência, regulamentar e fiscalizar os jogos esportivos, os espetáculos e divertimento públicos.",
+"c": true,
+"prof": "Lei Orgânica, art. 191, § 4º.",
+"x": "É o que dispõe o art. 191, § 4º da Lei Orgânica.",
+"e": "Art. 191, § 4º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 194, III), a garantia de absoluta prioridade compreende a preferência na formulação e na execução das políticas sociais públicas.",
+"c": true,
+"prof": "Lei Orgânica, art. 194, III.",
+"x": "É o que dispõe o art. 194, III da Lei Orgânica.",
+"e": "Art. 194, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 195, I), programas de defesa e vigilância dos direitos da criança e adolescente preverão estímulo e apoio à criança de centros de defesa dos direitos da criança, do adolescente, gerido pela sociedade civil.",
+"c": true,
+"prof": "Lei Orgânica, art. 195, I.",
+"x": "É o que dispõe o art. 195, I da Lei Orgânica.",
+"e": "Art. 195, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 196, § 2º), para assegurar a integração do idoso na comunidade e na família serão criados centros diurnos de lazer e de amparo à velhice.",
+"c": true,
+"prof": "Lei Orgânica, art. 196, § 2º.",
+"x": "É o que dispõe o art. 196, § 2º da Lei Orgânica.",
+"e": "Art. 196, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 198, III), o Município garantirá ao portador de deficiência, nos termos da lei sistema especial de transporte para a frequência às escolas e clínicas especializadas, quando impossibilitados de usar o sistema de transporte comum.",
+"c": true,
+"prof": "Lei Orgânica, art. 198, III.",
+"x": "É o que dispõe o art. 198, III da Lei Orgânica.",
+"e": "Art. 198, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. None, § 1º), as decisões do Tribunal de Contas de que resulte imputação de débitos ou multa, não terão eficácia de título executivo.",
+"c": false,
+"prof": "Lei Orgânica, art. None, § 1º.",
+"x": "O art. None, § 1º afirma o contrário: As decisões do Tribunal de Contas de que resulte imputação de débitos ou multa, terão eficácia de título executivo.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 116, I), a Defensoria do Povo não terá, entre outras, as seguintes atribuições apurar os atos, fatos e omissões de órgãos e entidades da administração pública ou de seus agentes, que impliquem em exercício ilegítimo, inconveniente ou inoportuno de suas funções.",
+"c": false,
+"prof": "Lei Orgânica, art. 116, I.",
+"x": "O art. 116, I afirma o contrário: A Defensoria do Povo terá, entre outras, as seguintes atribuições apurar os atos, fatos e omissões de órgãos e entidades da administração pública ou de seus agentes, que impliquem em exercício ilegítimo, inconveniente ou inoportuno de suas funções.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 116, VI), a Defensoria do Povo não terá, entre outras, as seguintes atribuições encaminhar relatórios de suas atividades e prestar suas contas à Câmara.",
+"c": false,
+"prof": "Lei Orgânica, art. 116, VI.",
+"x": "O art. 116, VI afirma o contrário: A Defensoria do Povo terá, entre outras, as seguintes atribuições encaminhar relatórios de suas atividades e prestar suas contas à Câmara.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 117, § 1º), o imposto previsto na alínea “a”, do inciso I, não será progressivo, nos termos da lei municipal, de forma a assegurar o cumprimento da função social da propriedade.",
+"c": false,
+"prof": "Lei Orgânica, art. 117, § 1º.",
+"x": "O art. 117, § 1º afirma o contrário: O imposto previsto na alínea “a”, do inciso I, será progressivo, nos termos da lei municipal, de forma a assegurar o cumprimento da função social da propriedade.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 120), é permitido ao Município, sem prejuízo das garantias asseguradas aos contribuintes e do disposto no Art. 150 da Constituição da República e na legislação complementar específica estabelecer diferença tributária entre bens e serviços de qualquer natureza, em razão de sua procedência ou destino.",
+"c": false,
+"prof": "Lei Orgânica, art. 120.",
+"x": "O art. 120 diz \"É vedado\", e não \"É permitido\".",
+"e": "É vedado."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 129), a Lei de Diretrizes Orçamentárias, compatíveis com o Plano Plurianual, não compreenderá as metas e prioridades da administração pública municipal, incluindo as despesas de capital para o exercício financeiro subsequente, orientará a elaboração da Lei Orçamentária Anual e disporá sobre as alterações na legislação tributária.",
+"c": false,
+"prof": "Lei Orgânica, art. 129.",
+"x": "O art. 129 afirma o contrário: A Lei de Diretrizes Orçamentárias, compatíveis com o Plano Plurianual, compreenderá as metas e prioridades da administração pública municipal, incluindo as despesas de capital para o exercício financeiro subsequente, orientará a elaboração da Lei Orçamentária Anual e disporá sobre as alterações na legislação tributária.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 131, II), a Lei Orçamentária anual não compreenderá O orçamento de investimentos das empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto.",
+"c": false,
+"prof": "Lei Orgânica, art. 131, II.",
+"x": "O art. 131, II afirma o contrário: A Lei Orçamentária anual compreenderá O orçamento de investimentos das empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 134), os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual não serão enviados pelo Prefeito à Câmara, nos termos e prazos fixados pela legislação específica.",
+"c": false,
+"prof": "Lei Orgânica, art. 134.",
+"x": "O art. 134 afirma o contrário: Os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual serão enviados pelo Prefeito à Câmara, nos termos e prazos fixados pela legislação específica.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 137, § 1º), nenhum investimento, cuja execução ultrapasse um exercício financeiro, não poderá ser iniciado sem prévia inclusão no Plano Plurianual, ou sem lei que autorize a inclusão no Plano, sob pena de crime de responsabilidade.",
+"c": false,
+"prof": "Lei Orgânica, art. 137, § 1º.",
+"x": "O art. 137, § 1º afirma o contrário: Nenhum investimento, cuja execução ultrapasse um exercício financeiro, poderá ser iniciado sem prévia inclusão no Plano Plurianual, ou sem lei que autorize a inclusão no Plano, sob pena de crime de responsabilidade.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 140, § 2º), as dotações orçamentárias e os créditos abertos não serão consignados ao Poder Judiciário, recolhidas as importâncias respectivas à repartição competente apara atender ao disposto no Art. 100o, § 2º , da Constituição da República.",
+"c": false,
+"prof": "Lei Orgânica, art. 140, § 2º.",
+"x": "O art. 140, § 2º afirma o contrário: As dotações orçamentárias e os créditos abertos serão consignados ao Poder Judiciário, recolhidas as importâncias respectivas à repartição competente apara atender ao disposto no Art. 100o, § 2º , da Constituição da República.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 144), a saúde não é direito de todos e dever do Poder Público, assegurado mediante políticas econômicas, sociais, ambientais e outras que visem à prevenção e à eliminação do risco de doenças e outros agravos e ao acesso universal e igualitário às sanções e serviços para sua promoção, proteção e recuperação, sem qualquer discriminação.",
+"c": false,
+"prof": "Lei Orgânica, art. 144.",
+"x": "O art. 144 afirma o contrário: A saúde é direito de todos e dever do Poder Público, assegurado mediante políticas econômicas, sociais, ambientais e outras que visem à prevenção e à eliminação do risco de doenças e outros agravos e ao acesso universal e igualitário às sanções e serviços para sua promoção, proteção e recuperação, sem qualquer discriminação.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 146, III), as ações e serviços de saúde não são de responsabilidade do sistema único de saúde, que se organiza com as seguintes diretrizes integridade da atenção à saúde, entendida como a abordagem do indivíduo inserido no coletivo social, bem como a articulação das ações de promoção, recuperação e reabilitação da saúde.",
+"c": false,
+"prof": "Lei Orgânica, art. 146, III.",
+"x": "O art. 146, III afirma o contrário: As ações e serviços de saúde são de responsabilidade do sistema único de saúde, que se organiza com as seguintes diretrizes integridade da atenção à saúde, entendida como a abordagem do indivíduo inserido no coletivo social, bem como a articulação das ações de promoção, recuperação e reabilitação da saúde.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 146, VII), as ações e serviços de saúde não são de responsabilidade do sistema único de saúde, que se organiza com as seguintes diretrizes dignidade, gratuidade e boa qualidade no atendimento e no tratamento da saúde.",
+"c": false,
+"prof": "Lei Orgânica, art. 146, VII.",
+"x": "O art. 146, VII afirma o contrário: As ações e serviços de saúde são de responsabilidade do sistema único de saúde, que se organiza com as seguintes diretrizes dignidade, gratuidade e boa qualidade no atendimento e no tratamento da saúde.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 146, X), as ações e serviços de saúde não são de responsabilidade do sistema único de saúde, que se organiza com as seguintes diretrizes distritalização dos recursos, dos serviços e das ações, segundo critérios de contingente populacional e de demanda.",
+"c": false,
+"prof": "Lei Orgânica, art. 146, X.",
+"x": "O art. 146, X afirma o contrário: As ações e serviços de saúde são de responsabilidade do sistema único de saúde, que se organiza com as seguintes diretrizes distritalização dos recursos, dos serviços e das ações, segundo critérios de contingente populacional e de demanda.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 146, III), na distribuição dos recursos, serviços e ações a que se refere o inciso I, não serão observados o disposto nos planos, diretor e plurianual e na Lei de Diretrizes Orçamentárias e o princípio da hierarquização, compreendidos, para tal fim, os seguintes equipamentos hospitais gerais.",
+"c": false,
+"prof": "Lei Orgânica, art. 146, III.",
+"x": "O art. 146, III afirma o contrário: Na distribuição dos recursos, serviços e ações a que se refere o inciso I, serão observados o disposto nos planos, diretor e plurianual e na Lei de Diretrizes Orçamentárias e o princípio da hierarquização, compreendidos, para tal fim, os seguintes equipamentos hospitais gerais.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 149, § 1º), a rede privada contrata submete-se ao controle da observância das normas técnicas estabelecidas pelo Poder Público e não integra o sistema municipal de saúde.",
+"c": false,
+"prof": "Lei Orgânica, art. 149, § 1º.",
+"x": "O art. 149, § 1º afirma o contrário: A rede privada contrata submete-se ao controle da observância das normas técnicas estabelecidas pelo Poder Público e integra o sistema municipal de saúde.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 150, § 1º), as dotações orçamentárias oriundas da União e do Estado não serão destinadas diretamente ao fundo.",
+"c": false,
+"prof": "Lei Orgânica, art. 150, § 1º.",
+"x": "O art. 150, § 1º afirma o contrário: As dotações orçamentárias oriundas da União e do Estado serão destinadas diretamente ao fundo.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 155), o Município não manterá sistema de limpeza urbana, coleta, tratamento e destinação final do lixo, de conformidade com o Código Sanitário Municipal, a ser instituído por lei.",
+"c": false,
+"prof": "Lei Orgânica, art. 155.",
+"x": "O art. 155 afirma o contrário: O Município manterá sistema de limpeza urbana, coleta, tratamento e destinação final do lixo, de conformidade com o Código Sanitário Municipal, a ser instituído por lei.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 156, IV), o Município não manterá sistema de limpeza urbana, coleta, tratamento e destinação final do lixo, observado o seguinte os resíduos não-recicláveis serão acondicionados e terão destino final que minimize o impacto ambiental.",
+"c": false,
+"prof": "Lei Orgânica, art. 156, IV.",
+"x": "O art. 156, IV afirma o contrário: O Município manterá sistema de limpeza urbana, coleta, tratamento e destinação final do lixo, observado o seguinte os resíduos não-recicláveis serão acondicionados e terão destino final que minimize o impacto ambiental.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 157), a assistência social não é direito do cidadão e será prestada pelo Município, prioritariamente, às crianças e adolescentes de rua, aos desassistidos de qualquer renda ou benefício previdenciário, à maternidade desamparada, aos desabrigados, aos portadores de deficiências, aos idosos, aos desempregados e aos doentes.",
+"c": false,
+"prof": "Lei Orgânica, art. 157.",
+"x": "O art. 157 afirma o contrário: A assistência social é direito do cidadão e será prestada pelo Município, prioritariamente, às crianças e adolescentes de rua, aos desassistidos de qualquer renda ou benefício previdenciário, à maternidade desamparada, aos desabrigados, aos portadores de deficiências, aos idosos, aos desempregados e aos doentes.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 158, III), o Conselho da Defesa Social não é órgão consultivo do Prefeito Municipal, na definição da política de defesa social do Município, em cuja composição é assegurada a participação do Comandante da Política Militar de Minas Gerais, no Município.",
+"c": false,
+"prof": "Lei Orgânica, art. 158, III.",
+"x": "O art. 158, III afirma o contrário: O Conselho da Defesa Social é órgão consultivo do Prefeito Municipal, na definição da política de defesa social do Município, em cuja composição é assegurada a participação do Comandante da Política Militar de Minas Gerais, no Município.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 159), a educação, direito de todos, dever do Poder Público e da família, não tem como objetivo o pleno desenvolvimento do cidadão, tornando-o capaz de refletir criticamente sobre a realidade e qualificando-o para o trabalho.",
+"c": false,
+"prof": "Lei Orgânica, art. 159.",
+"x": "O art. 159 afirma o contrário: A educação, direito de todos, dever do Poder Público e da família, tem como objetivo o pleno desenvolvimento do cidadão, tornando-o capaz de refletir criticamente sobre a realidade e qualificando-o para o trabalho.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 160, IV), o dever do Município para com a educação não será concretizado mediante a garantia de preservação dos aspectos humanísticos e profissionalizantes do ensino médio.",
+"c": false,
+"prof": "Lei Orgânica, art. 160, IV.",
+"x": "O art. 160, IV afirma o contrário: O dever do Município para com a educação será concretizado mediante a garantia de preservação dos aspectos humanísticos e profissionalizantes do ensino médio.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 160, VIII), o dever do Município para com a educação não será concretizado mediante a garantia de atendimento à criança nas creches e pré-escola e no ensino fundamental, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde.",
+"c": false,
+"prof": "Lei Orgânica, art. 160, VIII.",
+"x": "O art. 160, VIII afirma o contrário: O dever do Município para com a educação será concretizado mediante a garantia de atendimento à criança nas creches e pré-escola e no ensino fundamental, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 160, XII), o dever do Município para com a educação não será concretizado mediante a garantia de supervisão e orientação educacional em todos os níveis e modalidades de ensino nas escolas municipais, exercidas por profissional habilitado.",
+"c": false,
+"prof": "Lei Orgânica, art. 160, XII.",
+"x": "O art. 160, XII afirma o contrário: O dever do Município para com a educação será concretizado mediante a garantia de supervisão e orientação educacional em todos os níveis e modalidades de ensino nas escolas municipais, exercidas por profissional habilitado.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 161, I), na promoção da educação pré-escolar e do Ensino Fundamental e Médio, o Município não observará os seguintes princípios igualdade de condições para o acesso e permanência na escola.",
+"c": false,
+"prof": "Lei Orgânica, art. 161, I.",
+"x": "O art. 161, I afirma o contrário: Na promoção da educação pré-escolar e do Ensino Fundamental e Médio, o Município observará os seguintes princípios igualdade de condições para o acesso e permanência na escola.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 161, IV), na promoção da educação pré-escolar e do Ensino Fundamental e Médio, o Município não observará os seguintes princípios gratuidade do ensino público em estabelecimentos oficiais, extensiva a todo o material escolar e à alimentação do aluno quando na escola.",
+"c": false,
+"prof": "Lei Orgânica, art. 161, IV.",
+"x": "O art. 161, IV afirma o contrário: Na promoção da educação pré-escolar e do Ensino Fundamental e Médio, o Município observará os seguintes princípios gratuidade do ensino público em estabelecimentos oficiais, extensiva a todo o material escolar e à alimentação do aluno quando na escola.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 161, XI), na promoção da educação pré-escolar e do Ensino Fundamental e Médio, o Município não observará os seguintes princípios garantia e estímulo à organização autônoma dos alunos, no âmbito das escolas municipais.",
+"c": false,
+"prof": "Lei Orgânica, art. 161, XI.",
+"x": "O art. 161, XI afirma o contrário: Na promoção da educação pré-escolar e do Ensino Fundamental e Médio, o Município observará os seguintes princípios garantia e estímulo à organização autônoma dos alunos, no âmbito das escolas municipais.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 163, III), para o atendimento pedagógico às crianças de até seis anos de idade, o Município não deverá propiciar cursos e programas de reciclagem, treinamento, gerenciamento administrativo e especialização, visando à melhoria e ao aperfeiçoamento dos trabalhadores de creches.",
+"c": false,
+"prof": "Lei Orgânica, art. 163, III.",
+"x": "O art. 163, III afirma o contrário: Para o atendimento pedagógico às crianças de até seis anos de idade, o Município deverá propiciar cursos e programas de reciclagem, treinamento, gerenciamento administrativo e especialização, visando à melhoria e ao aperfeiçoamento dos trabalhadores de creches.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 163, § 2º), a gestão democrática das creches públicas não observará o disposto no art. 161, VIII, no que couber.",
+"c": false,
+"prof": "Lei Orgânica, art. 163, § 2º.",
+"x": "O art. 163, § 2º afirma o contrário: A gestão democrática das creches públicas observará o disposto no art. 161, VIII, no que couber.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 168, § 1º), o Município não garantirá o funcionamento de biblioteca em cada escola municipal, acessível à população e com acervo necessário ao atendimento dos alunos.",
+"c": false,
+"prof": "Lei Orgânica, art. 168, § 1º.",
+"x": "O art. 168, § 1º afirma o contrário: O Município garantirá o funcionamento de biblioteca em cada escola municipal, acessível à população e com acervo necessário ao atendimento dos alunos.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 170, § 1º), o quadro de pessoal necessário ao funcionamento das unidades municipais de ensino não será estabelecido em lei, de acordo com o número de turmas e séries existentes na escola.",
+"c": false,
+"prof": "Lei Orgânica, art. 170, § 1º.",
+"x": "O art. 170, § 1º afirma o contrário: O quadro de pessoal necessário ao funcionamento das unidades municipais de ensino será estabelecido em lei, de acordo com o número de turmas e séries existentes na escola.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 171, § 1º), o Município não poderá consorciar-se a outros para o trato das questões previstas neste artigo, quando evidenciada a pertinência técnica e administrativa.",
+"c": false,
+"prof": "Lei Orgânica, art. 171, § 1º.",
+"x": "O art. 171, § 1º afirma o contrário: O Município poderá consorciar-se a outros para o trato das questões previstas neste artigo, quando evidenciada a pertinência técnica e administrativa.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 175), o Poder Público não promoverá a implantação, com a participação e cooperação da sociedade civil, de centros culturais nas regiões do Município, para atender às necessidades de desenvolvimento cultural da população.",
+"c": false,
+"prof": "Lei Orgânica, art. 175.",
+"x": "O art. 175 afirma o contrário: O Poder Público promoverá a implantação, com a participação e cooperação da sociedade civil, de centros culturais nas regiões do Município, para atender às necessidades de desenvolvimento cultural da população.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 177, I), para assegurar a efetividade desse direito, não incumbe ao Poder Público Municipal, entre outras atribuições destinar recursos públicos.",
+"c": false,
+"prof": "Lei Orgânica, art. 177, I.",
+"x": "O art. 177, I afirma o contrário: Para assegurar a efetividade desse direito, incumbe ao Poder Público Municipal, entre outras atribuições destinar recursos públicos.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 177, V), para assegurar a efetividade desse direito, não incumbe ao Poder Público Municipal, entre outras atribuições assegurar o livre acesso às informações ambientais básicas e divulgar sistematicamente os níveis de poluição e de qualidade do meio ambiente no Município.",
+"c": false,
+"prof": "Lei Orgânica, art. 177, V.",
+"x": "O art. 177, V afirma o contrário: Para assegurar a efetividade desse direito, incumbe ao Poder Público Municipal, entre outras atribuições assegurar o livre acesso às informações ambientais básicas e divulgar sistematicamente os níveis de poluição e de qualidade do meio ambiente no Município.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 177, XI), para assegurar a efetividade desse direito, não incumbe ao Poder Público Municipal, entre outras atribuições registrar, acompanhar e fiscalizar as concessões de direitos de pesquisas e exploração de recursos hídricos e minerais.",
+"c": false,
+"prof": "Lei Orgânica, art. 177, XI.",
+"x": "O art. 177, XI afirma o contrário: Para assegurar a efetividade desse direito, incumbe ao Poder Público Municipal, entre outras atribuições registrar, acompanhar e fiscalizar as concessões de direitos de pesquisas e exploração de recursos hídricos e minerais.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 177, § 3º), aquele que explorar recursos minerais não fica obrigado, desde o início da atividade, a recuperar o meio ambiente degradado, de acordo com a solução técnica previamente indicada pelo órgão municipal de controle e política ambiental.",
+"c": false,
+"prof": "Lei Orgânica, art. 177, § 3º.",
+"x": "O art. 177, § 3º afirma o contrário: Aquele que explorar recursos minerais fica obrigado, desde o início da atividade, a recuperar o meio ambiente degradado, de acordo com a solução técnica previamente indicada pelo órgão municipal de controle e política ambiental.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 184, I), o Município não promoverá e estimulará o reflorestamento ecológico em áreas degradadas, objetivando especialmente a proteção das bacias hidrográficas e dos terrenos sujeitos à erosão ou inundação.",
+"c": false,
+"prof": "Lei Orgânica, art. 184, I.",
+"x": "O art. 184, I afirma o contrário: O Município promoverá e estimulará o reflorestamento ecológico em áreas degradadas, objetivando especialmente a proteção das bacias hidrográficas e dos terrenos sujeitos à erosão ou inundação.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 186), as empresas não deverão dispor afluentes a montante da área de capitação.",
+"c": false,
+"prof": "Lei Orgânica, art. 186.",
+"x": "O art. 186 afirma o contrário: As empresas deverão dispor afluentes a montante da área de capitação.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 191, II), o Município não promoverá, estimulará, orientará e apoiará a prática esportiva e a educação física, inclusive por meio de proteção a todos os tipos de manifestações esportivas e preservação das áreas a elas destinadas.",
+"c": false,
+"prof": "Lei Orgânica, art. 191, II.",
+"x": "O art. 191, II afirma o contrário: O Município promoverá, estimulará, orientará e apoiará a prática esportiva e a educação física, inclusive por meio de proteção a todos os tipos de manifestações esportivas e preservação das áreas a elas destinadas.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 191, III), para os fins do artigo, não cabe ao Município incluir a Educação Física como disciplina nos estabelecimentos oficiais de ensino.",
+"c": false,
+"prof": "Lei Orgânica, art. 191, III.",
+"x": "O art. 191, III afirma o contrário: Para os fins do artigo, cabe ao Município incluir a Educação Física como disciplina nos estabelecimentos oficiais de ensino.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 192, § 1º), os parques, jardins, praças e quarteirões fechados não são espaços privilegiados para o lazer.",
+"c": false,
+"prof": "Lei Orgânica, art. 192, § 1º.",
+"x": "O art. 192, § 1º afirma o contrário: Os parques, jardins, praças e quarteirões fechados são espaços privilegiados para o lazer.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 194, IV), a garantia de absoluta prioridade não compreende o aquinhoamento privilegiado de recursos públicos nas áreas relacionadas com a proteção à infância e à juventude, notadamente, no que disser respeito a tóxicos e drogas afins.",
+"c": false,
+"prof": "Lei Orgânica, art. 194, IV.",
+"x": "O art. 194, IV afirma o contrário: A garantia de absoluta prioridade compreende o aquinhoamento privilegiado de recursos públicos nas áreas relacionadas com a proteção à infância e à juventude, notadamente, no que disser respeito a tóxicos e drogas afins.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 195, III), as ações do Município, de proteção à infância e à adolescência não serão organizadas na forma da lei, com base nas seguintes diretrizes participação da sociedade civil na formulação de políticas e programas, assim como na implantação, acompanhamento, controle e fiscalização de sua execução.",
+"c": false,
+"prof": "Lei Orgânica, art. 195, III.",
+"x": "O art. 195, III afirma o contrário: As ações do Município, de proteção à infância e à adolescência serão organizadas na forma da lei, com base nas seguintes diretrizes participação da sociedade civil na formulação de políticas e programas, assim como na implantação, acompanhamento, controle e fiscalização de sua execução.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 196, § 2º), para assegurar a integração do idoso na comunidade e na família não serão criados centros diurnos de lazer e de amparo à velhice.",
+"c": false,
+"prof": "Lei Orgânica, art. 196, § 2º.",
+"x": "O art. 196, § 2º afirma o contrário: Para assegurar a integração do idoso na comunidade e na família serão criados centros diurnos de lazer e de amparo à velhice.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 198, II), o Município não garantirá ao portador de deficiência, nos termos da lei o direito à informação, comunicação, transporte e segurança, por meio de, dentre outros, da imprensa braile, da linguagem gestual, de sonorização de semáforo e da adequação dos meios de transporte.",
+"c": false,
+"prof": "Lei Orgânica, art. 198, II.",
+"x": "O art. 198, II afirma o contrário: O Município garantirá ao portador de deficiência, nos termos da lei o direito à informação, comunicação, transporte e segurança, por meio de, dentre outros, da imprensa braile, da linguagem gestual, de sonorização de semáforo e da adequação dos meios de transporte.",
+"e": "Afirmação, não negação."
+}
+]
+},
+{
+"id": "lom-ordem-economica",
+"titulo": "Lei Orgânica: ordem econômica, política urbana, disposições gerais e transitórias",
+"arts": "LOM, arts. 200 a 248",
+"chaves": [
+"política urbana",
+"plano diretor",
+"transporte",
+"turismo",
+"disposições gerais"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>200–248</b><span>artigos da Lei Orgânica reproduzidos na íntegra neste tópico</span></div><div class=\"lt-stat\"><b>105</b><span>questões novas de lei seca (certo ou errado)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: a banca copia a lei e troca uma palavra (prazo, quórum, competência, \"pode\" por \"deve\")</span></div></div>\n<h3>Como estudar este tópico</h3>\n<ul><li>Este tópico traz o <b>texto integral</b> dos <b>arts. 200 a 248</b> da <b>Lei Orgânica do Município de Belo Vale</b> (Lei nº 806/1990, edição atualizada em 2012), exigida no edital do concurso de Belo Vale (Legislação Municipal). O resumo comentado que estava aqui antes continua disponível na <b>Leitura complementar</b>, no fim da página.</li><li><b>Método de leitura de lei seca</b>: leia cada artigo prestando atenção a <b>quem</b> faz (Prefeito, Câmara, Mesa, Município), <b>o que</b> faz, <b>em que prazo</b> e <b>com qual quórum</b>. São exatamente esses elementos que as bancas trocam nas questões de certo ou errado.</li><li><b>Marque as palavras de alcance</b>: \"privativamente\", \"exclusivamente\", \"vedado\", \"poderá\" x \"deverá\", \"maioria absoluta\" x \"dois terços\", \"dias\" x \"dias úteis\". Uma única troca torna a assertiva errada.</li><li>As questões deste tópico foram montadas <b>a partir do próprio texto da lei</b>: as certas reproduzem o dispositivo; as erradas alteram um prazo, um quórum, uma competência ou negam o que a lei afirma. O comentário de cada questão indica o artigo correspondente.</li></ul>\n<h3>Estrutura do trecho</h3>\n<ul><li>TÍTULO VII Da Ordem Econômica</li><li>CAPÍTULO I Da Política Urbana</li><li>SEÇÃO I Disposições Gerais</li><li>SEÇÃO II Do Plano Diretor</li><li>CAPÍTULO II Do Transporte Público e Sistema Viário</li><li>CAPÍTULO III Da Habitação</li><li>CAPÍTULO IV Do Abastecimento</li><li>CAPÍTULO V Da Política Rural e Agrícola</li><li>CAPÍTULO VI Do Desenvolvimento Econômico</li><li>SEÇÃO I Disposições Gerais</li><li>SEÇÃO II Do Turismo</li><li>TÍTULO VIII Disposições Gerais</li><li>Ato das Disposições Constitucionais Transitórias</li></ul>\n<h3>Texto integral da Lei Orgânica (arts. 200 a 248)</h3>\n<h3>TÍTULO VII Da Ordem Econômica</h3>\n<h3>CAPÍTULO I Da Política Urbana</h3>\n<h3>SEÇÃO I Disposições Gerais</h3>\n<p><b>Art. 200</b> – O pleno desenvolvimento das funções sociais da cidade e a garantia do bem- estar de sua população, objetivo da política urbana executada pelo Poder Público serão assegurados mediante:</p>\n<p>I – formulação e execução do planejamento urbano;</p>\n<p>II – cumprimento da função social da propriedade;</p>\n<p>III – distribuição especial adequada da população, das atividades sócio-econômicas, da infra-estrutura básica e dos equipamentos urbanos comunitários;</p>\n<p>IV – integração e complementariedade das atividades urbanas e rurais, no âmbito da área polarizada pelo Município;</p>\n<p>V – participação da sociedade civil no planejamento e controle da execução de programas que lhes forem pertinentes.</p>\n<p><b>Art. 201</b> – São instrumentos do planejamento urbano, entre outros:</p>\n<p>I – plano diretor;</p>\n<p>II – legislação do parcelamento, ocupação e uso do solo, de edificações e de posturas;</p>\n<p>III – legislação financeira e tributária, especialmente o imposto predial e territorial progressivo e a contribuição de melhoria;</p>\n<p>IV – transferência do direito de construir;</p>\n<p>V – parcelamento ou edificação compulsórios;</p>\n<p>VI – concessão do direito real de uso;</p>\n<p>VII – servidão administrativa;</p>\n<p>VIII – tombamento;</p>\n<p>IX – desapropriação por interesse social, necessidade ou utilidade pública, que se dará mediante prévia e justa indenização em dinheiro;</p>\n<p>X – fundos destinados ao desenvolvimento urbano.</p>\n<p><b>Art. 202</b> – Na promoção do desenvolvimento urbano, observar-se-á:</p>\n<p>I – ordenação do crescimento da cidade, prevenção e correção de suas distorções;</p>\n<p>II – contenção de excessiva concentração urbana;</p>\n<p>III – indução e ocupação do solo urbano edificável, ocioso ou subutilizado;</p>\n<p>IV – parcelamento do solo e o adensamento condicionado e adequada disponibilidade de equipamento urbano e comunitário;</p>\n<p>V – urbanização, regularização e titulação da áreas ocupadas por população de baixa renda;</p>\n<p>VI – proteção, preservação e recuperação do meio ambiente, do patrimônio histórico, cultural, artístico e arqueológico, diretamente ou através de convênios;</p>\n<p>VII – garantia do acesso adequado ao portador de deficiência aos bens e serviços coletivos, logradouros e edifícios públicos, bem como a edificações destinadas ao uso industrial, comercial e de serviços, e residencial multifamiliar.</p>\n<p>VIII – ampliação das áreas reservadas a pedestres.</p>\n<p><b>Art. 203</b> – A expedição de licença para construção, reforma ou acréscimo de imóvel, fica condicionada a apresentação do certificado de Matrícula da Obra no Instituto da Administração Financeira da Previdência e Assistência Social – IAPAS/MG e anotação de responsabilidade técnica junto ao Conselho regional de Engenharia, Arquitetura e Agronomia de Minas Gerais – CREA/MG.</p>\n<p><b>Art. 204</b> – Os edifícios que vierem a ser construídos, para que recebam “habite-se”, deverão ter os dispositivos de prevenção de primeiro combate ao fogo.</p>\n<p><b>Art. 205</b> – A lei estabelecerá os requisitos para aprovação de loteamentos, observada no mínimo, a existência dos seguintes equipamentos urbanos:</p>\n<p>I – redes de distribuição de água e esgotamento sanitário;</p>\n<p>II – rede pluvial;</p>\n<p>III – colocação de meio-fios.</p>\n<p>IV – rede de iluminação pública e pavimentação. (Criado conforme Emenda a Lei Orgânica 001/2011).</p>\n<p><b>§ 1º</b> - A pavimentação, obrigatoriamente, observará as regras ambientais e, preferencialmente, deverão ser utilizados materiais e produtos que contribuam para a preservação do meio ambiente. (Criado conforme Emenda a Lei Orgânica 001/2011).</p>\n<p><b>§ 2º</b> – As áreas institucionais serão delimitadas por comissão especial, com a participação do Poder Legislativo.</p>\n<p><b>Art. 206</b> – O Município, sobre toda edificação cuja implantação resultar em coeficiente de aproveitamento do terreno superior a índice estabelecido em lei, deverá receber contrapartida correspondente à concessão do direito de criação do solo.</p>\n<p><b>Parágrafo Único</b> - A contrapartida, que se dará em moeda corrente ou dação de imóvel, será utilizada segundo critérios definidos pelo plano diretor.</p>\n<h3>SEÇÃO II Do Plano Diretor</h3>\n<p><b>Art. 207</b> – O plano diretor, aprovado pela maioria dos membros da Câmara, conterá:</p>\n<p>I – exposição circunstanciada das condições econômicas, financeiras, sociais, culturais e administrativas do Município;</p>\n<p>II – objetivos estratégicos, fixados com vistas à solução dos principais entraves ao desenvolvimento social;</p>\n<p>III – diretrizes econômicas, financeiras, administrativas, sociais, uso de ocupação do solo, de preservação do patrimônio ambiental e cultural, visando os objetivos estratégicos e as respectivas matas;</p>\n<p>IV – ordem de prioridades, abrangendo objetivos e diretrizes;</p>\n<p>V – estimativa preliminar do montante de investimentos e dotações financeiras necessárias à implantação das diretrizes e consecução dos objetivos do plano diretor, segundo a ordem de prioridades estabelecidas;</p>\n<p>VI - cronograma físico-financeiro com previsão dos investimentos municipais.</p>\n<p><b>Parágrafo Único</b> – Os orçamentos anuais, as diretrizes orçamentárias e o plano plurianual serão compatibilizados com as prioridades e metas estabelecidas no plano diretor.</p>\n<p><b>Art. 208</b> – O plano diretor definirá áreas especiais, tais como:</p>\n<p>I – áreas de urbanização preferencial;</p>\n<p>II – áreas de reurbanização;</p>\n<p>III – áreas de urbanização restrita;</p>\n<p>IV – áreas de regularização;</p>\n<p>V – áreas destinadas à implantação de programas habitacionais;</p>\n<p>VI – áreas de transferência do direito de construir;</p>\n<p>VII – áreas de preservação ambiental.</p>\n<p><b>§ 1º</b> – Áreas de urbanização preferencial são as destinadas a:</p>\n<p>a) aproveitamento adequado de terrenos não edificados, subutilizados ou não utilizados, observado o disposto no Art. 182, § 4º , incisos I, II e III da Constituição da República.</p>\n<p>b) implantação prioritária de equipamentos urbanos e comunitários;</p>\n<p>c) adensamento de áreas edificadas;</p>\n<p>d) ordenamento e direcionamento da urbanização.</p>\n<p><b>§ 2º</b> – Áreas de reurbanização são as que, para a melhoria das condições urbanas, exigem novo parcelamento do solo, recuperação ou substituição de construções existentes.</p>\n<p><b>§ 3º</b> – Áreas de urbanização restrita são aquelas de preservação ambiental, em que a ocupação dever ser desestimulada ou contida, em decorrência de:</p>\n<p>a) necessidade de preservação de seus elementos naturais;</p>\n<p>b) vulnerabilidade a intempéries, calamidades e outras condições adversas;</p>\n<p>c) necessidade de proteção ambiental e de preservação do patrimônio histórico, artístico, cultural, arqueológico e paisagístico;</p>\n<p>d) proteção aos mananciais, represas e margens de rios;</p>\n<p>e) manutenção do nível de ocupação da área;</p>\n<p>f) implantação e operação de equipamentos urbanos de grande porte, tais como terminais aéreos, rodoviários, ferroviários e autopistas.</p>\n<p><b>§ 4º</b> – Áreas de regularização são as ocupadas por população de baixa renda, sujeita a critérios especiais de urbanização, bem como à implantação prioritária de equipamentos urbanos e comunitários.</p>\n<p><b>§ 5º</b> – Áreas de transferência do direito de construir são as passíveis de adensamento, observados os critérios estabelecidos na lei de parcelamento, ocupação e uso do solo.</p>\n<p><b>Art. 209</b> – A transferência do direito de construir pode ser autorizada para o proprietário de imóvel considerado de interesse de preservação ou destinado à implantação de programa habitacional.</p>\n<p><b>§ 1º</b> - Na transferência do direito de construir, observar-se-á o índice de aproveitamento estabelecido pela Lei de Uso e Ocupação do Solo para o imóvel a que se refere o artigo, deduzida a parcela já utilizada do mesmo índice, limitando-se a transferência, no caso de imóvel destinado a programa habitacional, a 50% (cinqüenta por cento) do saldo.</p>\n<p><b>§ 2º</b> - Os imóveis passíveis de recepção da transferência do direito de construir são:</p>\n<p>I - os integrantes das áreas a que se refere o art. 208, § 5º ;</p>\n<p>II - os indicados em lei específica referente a projetos urbanísticos especiais;</p>\n<p>III - os situados em torno do imóvel objeto da transferência, segundo critérios de proximidade a serem estabelecidos em lei.</p>\n<p><b>§ 3º</b> - Observar-se-á, como limite máximo de recepção da transferência do direito de construir, a área correspondente ao percentual de 20% (vinte por cento) do índice de aproveitamento do terreno de recepção, excetuados os casos previstos em projetos urbanísticos especiais para os quais o limite será definido em lei específica.</p>\n<p><b>§ 4º</b> - Uma vez exercida a transferência do direito de construir, o índice de aproveitamento não poderá ser objeto de nova transferência.</p>\n<p><b>§ 5º</b> - O disposto no artigo não se aplica ao imóvel cujo possuidor preencha as condições para a aquisição da propriedade por meio de usucapião.</p>\n<p><b>Art. 210</b> – A operacionalização do plano diretor dar-se-á mediante a implantação do sistema de planejamento e informações, objetivando a monitoração, a avaliação e o controle das ações e diretrizes setoriais.</p>\n<p><b>Parágrafo Único</b> – O Poder Executivo manterá cadastro atualizado dos imóveis do patrimônio estadual e federal, situados no Município.</p>\n<h3>CAPÍTULO II Do Transporte Público e Sistema Viário</h3>\n<p><b>Art. 211</b> – Incumbe ao Município, respeitada as legislações federal e estadual, planejar, organizar, dirigir, coordenar, executar, delegar e controlar a prestação de serviços públicos ou de utilidade pública relativos a transporte, tráfego, trânsito e sistema viário municipal.</p>\n<p><b>§ 1º</b> – Os serviços referidos neste artigo, incluindo o de transporte escolar, serão prestados diretamente ou sob regime de concessão ou permissão, nos termos da lei.</p>\n<p><b>§ 2º</b> – O Poder Público poderá criar autarquia com incumbência de planejar, organizar, coordenar, executar, fiscalizar e controlar o transporte coletivo e de táxi, tráfego, trânsito e sistema viário municipal.</p>\n<p><b>§ 3º</b> – A exploração de atividade de transporte coletivo que o Poder Público seja levado a exercer, por força de contingência ou conveniência administrativa, será empreendida por empresa pública.</p>\n<p><b>§ 4º</b> – A implantação e conservação da infra-estrutura viária poderá ser de competência de autarquia municipal, incumbindo-se da elaboração de programa gerencial das obras respectivas.</p>\n<p><b>Art. 212</b> – As diretrizes, objetivos e metas da administração pública, nas atividades setoriais de transporte coletivo serão estabelecidas em lei que instituir o plano plurianual, de forma compatível com a política de desenvolvimento urbano definida no plano diretor.</p>\n<p><b>Art. 213</b> – A lei municipal disporá sobre a organização, funcionamento e fiscalização dos serviços de transporte coletivo e de táxi, devendo ser fixadas diretrizes de caracterização precisa e proteção eficaz do interesse público e dos direitos dos usuários.</p>\n<p><b>Art. 214</b> – O planejamento dos serviços de transporte coletivo deve ser feito com observância dos seguintes princípios:</p>\n<p>I – compatibilização entre transporte e uso do solo;</p>\n<p>II – integração física, operacional e tarifária entre as diversas modalidades de transporte;</p>\n<p>III – racionalização dos serviços;</p>\n<p>IV – análise de alternativas mais eficientes ao sistema;</p>\n<p>V – participação da sociedade civil;</p>\n<p>VI – segurança dos usuários.</p>\n<p><b>Art. 215</b> – O serviço de táxi será prestado, preferencialmente nesta ordem:</p>\n<p>I – por motorista profissional autônomo;</p>\n<p>II – por associação de motoristas profissionais autônomos;</p>\n<p>III – por pessoa jurídica.</p>\n<p><b>Parágrafo único</b> – É vedada mais de uma permissão a motorista profissional autônomo.</p>\n<p><b>Art. 216</b> – As vias integrantes dos itinerários das linhas de transporte coletivo de passageiros terão prioridades para pavimentação e conservação.</p>\n<p><b>Art. 217</b> – O Poder Executivo analisará solicitação de alteração no trânsito do Município, podendo aprovar, negar ou embargar atos a seu critério e dará ciência de sua decisão ao Poder Legislativo, no prazo máximo de trinta dias.</p>\n<p><b>Art. 218</b> – Nenhum sistema de transporte coletivo poderá ser implantado no Município sem prévia autorização legislativa.</p>\n<h3>CAPÍTULO III Da Habitação</h3>\n<p><b>Art. 219</b> – Compete ao Poder Público formular e executar política habitacional, visando à ampliação da oferta de moradia destinada prioritariamente à população de baixa renda, bem como à melhoria das condições habitacionais:</p>\n<p><b>Parágrafo Único</b> – Para os fins deste artigo, o Poder Público atuará:</p>\n<p>I – na oferta de habitação de lotes urbanizados, integrados à malha urbana existente;</p>\n<p>II – na definição de áreas a que refere o Art. 208, V;</p>\n<p>III – na implantação de programas para redução do custo de materiais de construção;</p>\n<p>IV – no desenvolvimento de técnicas para barateamento final da construção;</p>\n<p>V – no incentivo a cooperativas habitacionais;</p>\n<p>VI – na regularização fundiária e urbanização específica de favelas e loteamentos;</p>\n<p>VII – na assessoria à população em matéria de usucapião urbano.</p>\n<p><b>Art. 220</b> – O Poder Público poderá promover licitação para execução de conjuntos habitacionais ou loteamentos com urbanização simplificada, assegurando:</p>\n<p>I – a redução do preço final das unidades;</p>\n<p>II – a complementação, pelo Poder Público, da infra-estrutura não implantada;</p>\n<p>III – a destinação exclusiva àqueles que não possuam outro imóvel.</p>\n<p><b>§ 1º</b> – Na implantação de conjuntos habitacionais, incentivar-se-á a integração de atividades econômicas que promovam a geração de empregos para a população residente.</p>\n<p><b>§ 2º</b> – Na desapropriação de área habitacional, decorrente de obra pública ou na desocupação de áreas de risco, o Poder Público é obrigado a promover reassentamento da população desalojada.</p>\n<p><b>§ 3º</b> – Na implantação de conjuntos habitacionais com mais de trezentas unidades é obrigatória a apresentação de relatório de impacto ambiental e econômico-social e assegurada a sua discussão em audiência pública.</p>\n<p><b>Art. 221</b> – A política habitacional do Município será executada por órgão ou entidade específico da administração pública, a que compete a gerência do fundo de habitação popular.</p>\n<p><b>Art. 222</b> – O Município deverá discriminar e manter cadastro atualizado de habitações em áreas de risco, efetuando trabalho permanente de prevenção e realocação.</p>\n<h3>CAPÍTULO IV Do Abastecimento</h3>\n<p><b>Art. 223</b> – O Município, nos limites de sua competência e em cooperação com a União e o Estado, organizará o abastecimento, com vistas a melhorar as condições de acesso a alimentos pela população, especialmente à de baixo poder aquisitivo.</p>\n<p><b>Parágrafo Único</b> – Para assegurar a efetividade do disposto neste artigo, cabe ao Poder Público, entre outras medidas:</p>\n<p>I – planejar e executar programas de abastecimento alimentar, de forma integrada com os programas especiais de níveis federal, estadual e intermunicipal;</p>\n<p>II – dimensionar a demanda, em qualidade, quantidade e valor de alimentos básicos consumidos pelas famílias de baixa renda;</p>\n<p>III – incentivar a melhoria de sistema de distribuição varejista;</p>\n<p>IV – articular-se com órgão e entidades de executores da política agrícola nacional e regional, com vistas à distribuição de estoques governamentais prioritariamente aos programas de abastecimento popular;</p>\n<p>V – implantar e ampliar os equipamentos de mercado atacadista e varejista como galpões comunitários, feiras cobertas e feiras livres, garantindo o acesso a eles de produtores e de varejistas, por intermédio de suas entidades associativas;</p>\n<p>VI – criar central municipal de compras comunitárias, visando a estabelecer relação direta entre as entidades associativas dos produtores e dos consumidores;</p>\n<p>VII – incentivar a criação e manutenção de granja, sítio e chácara, destinados à produção alimentar básica;</p>\n<p>VIII – planejar e executar programas de hortas comunitárias.</p>\n<h3>CAPÍTULO V Da Política Rural e Agrícola</h3>\n<p><b>Art. 224</b> – A política de desenvolvimento rural municipal, estabelecida de conformidade com as diretrizes gerais fixadas em lei, tem por objetivo orientar e direcionar a ação do Poder Público Municipal no planejamento e na execução das atividades de apoio à produção, comercialização, armazenamento, agroindustrialização, transporte e abastecimento de insumos e produtos.</p>\n<p><b>Art. 225</b> – O Município, para operacionalizar sua política econômica e social, assentada na livre iniciativa e nos superiores interesses da coletividade, terá como instrumento básico, o plano diretor, aprovado pela Câmara.</p>\n<p><b>Art. 226</b> – As diretrizes para elaboração do plano diretor, relativamente às atividades rurais são estabelecidas por um Conselho Municipal de Agricultura, Pecuária e Abastecimento, a ser criado por lei, com representantes de produtores, trabalhadores e dos setores mencionados no primeiro artigo deste capítulo.</p>\n<p><b>Art. 227</b> – O Município criará e manterá serviços de programas que visem ao aumento da produção e produtividade agrícola, ao abastecimento alimentar, à geração de emprego, à melhoria das condições de infra-estrutura econômica e social, à preservação do meio ambiente e à elevação do bem-estar da população rural.</p>\n<p><b>Art. 228</b> – O Município implantará programas de fomento à pequena produção e de fixação do homem no campo, através de alocação de recursos orçamentários próprios ou oriundos da União e do Estado e de contribuições do setor privado para:</p>\n<p>I – fornecimento de insumos, máquinas e implementos;</p>\n<p>II – atendimento a grupos e produtores rurais, no preparo de terras, através da criação e manutenção de patrulhas mecanizadas;</p>\n<p>III – instalação de unidades experimentais, fazendas coletivas, campos de demonstração e cooperação, lavouras e hortas comunitárias, criação de pequenos animais, proteção ambiental e lazer;</p>\n<p>IV – preservação e utilização racional dos recursos de água, solo, flora e fauna, tendo como unidade de referência as microbacias hidrográficas;</p>\n<p>V – abertura e conservação de malha viária de acesso às propriedades rurais;</p>\n<p>VI – atendimento médico-veterinário.</p>\n<p><b>Art. 229</b> – O Município, em regime de co-participação com a União e Estado, dotará o meio rural de infra-estrutura de serviços sociais básicos nas áreas de saúde, educação, saneamento, habitação, transporte, energia, comunicação, segurança e lazer.</p>\n<p><b>Art. 230</b> – O Município apoiará e estimulará:</p>\n<p>I – acesso dos produtores ao crédito e seguro rural;</p>\n<p>II – a implantação de estruturas que facilitem a armazenagem, a comercialização e agroindústria, bem como o artesanato rural;</p>\n<p>III – os serviços de geração e difusão de conhecimento e tecnologias;</p>\n<p>IV – a criação de instrumentos que facilitem a ação fiscalizadora na proteção de lavouras, criações e meio ambiente;</p>\n<p>V – capacitação de mão de obra rural e preservação dos recursos naturais;</p>\n<p>VI – a construção de unidade de armazenamentos comunitários e de redes de apoio ao abastecimento municipal;</p>\n<p>VII – a constituição e expansão de cooperativas e outras formas de associativismo e organização rural, inclusive, a instituição de mutirão para as edificações de moradias;</p>\n<p>VIII – a melhoria das condições de infra-estrutura, com destaque para habitação rural, saneamento, transporte, comunicação, saúde, educação e lazer, visando a sobrevivência econômica no campo, quando houver a decadência de extração minerária ao Município.</p>\n<p><b>Art. 231</b> – O Município dará prioridade de atendimento aos pequenos produtores rurais e sua organização comunitária.</p>\n<h3>CAPÍTULO VI Do Desenvolvimento Econômico</h3>\n<h3>SEÇÃO I Disposições Gerais</h3>\n<p><b>Art. 232</b> – O Poder Público, agente normativo e regular de atividade econômica, exercerá no âmbito de sua competência, funções de fiscalização, incentivo e planejamento, atuando:</p>\n<p>I – na restrição do abuso do poder econômico;</p>\n<p>II – na defesa, promoção e divulgação dos direitos do consumidor;</p>\n<p>III – na fiscalização de qualidade, de preços e de peso e medidas dos bens e serviços produzidos e comercializados em seu território;</p>\n<p>IV – no apoio à organização da atividade econômica em cooperativas e estímulo ao associativismo;</p>\n<p>V – na democratização da atividade econômica.</p>\n<p><b>Parágrafo Único</b> – O Município dispensará tratamento jurídico diferenciado à pequena e microempresa, assim definidas em lei, visando a incentivá-las pela simplificação de suas obrigações administrativas, tributárias e creditícias ou pela eliminação ou redução destas por meio de lei.</p>\n<p><b>Art. 233</b> – A empresa pública, a sociedade de economia mista e outras entidades que explorem atividades econômicas, sujeitam-se ao regime jurídico próprio das empresas privadas, inclusive quanto às obrigações trabalhistas e tributárias.</p>\n<p><b>Parágrafo Único</b> – As empresas públicas e as sociedades de economia mista não poderão gozar de privilégios fiscais não extensivos às do setor privado.</p>\n<h3>SEÇÃO II Do Turismo</h3>\n<p><b>Art. 234</b> – O Município, colaborando com os segmentos do setor, apoiará e incentivará o turismo, como atividade econômica, reconhecendo-o como forma de promoção e desenvolvimento social e cultural.</p>\n<p><b>Art. 235</b> – Cabe ao Município, obedecida a legislação federal e estadual, definir a política municipal de turismo e as diretrizes e ações, devendo:</p>\n<p>I – adotar, por meio de lei, plano integrado e permanente de desenvolvimento do turismo em seu território;</p>\n<p>II – desenvolver efetiva infra-estrutura turística;</p>\n<p>III – estimular e apoiar a produção artesanal local, as feiras, exposições, eventos turísticos e programas de orientação e divulgação de projetos municipais, bem como elaborar o calendário de eventos;</p>\n<p>IV – regulamentar o uso, ocupação e fruição de bens naturais e culturais de interesse turístico, proteger o patrimônio ecológico e histórico cultural e incentivar o turismo social;</p>\n<p>V – promover a conscientização do público para preservação e difusão dos recursos naturais e do turismo como atividade econômica e fato de desenvolvimento;</p>\n<p>VI – incentivar a formação de pessoal especializado para o atendimento das atividades turísticas.</p>\n<p><b>§ 1º</b> – O Município consignará no orçamento, recursos necessários à efetiva execução da política de desenvolvimento do turismo.</p>\n<p><b>§ 2º</b> – O Poder Executivo adotará as medidas necessárias para que no carnaval e em outras datas e ventos festivos, seja liberado o maior número possível de praças, avenidas e ruas para que a população livremente se manifeste.</p>\n<h3>TÍTULO VIII Disposições Gerais</h3>\n<p><b>Art. 236</b> – Todo agente público, qualquer que seja sua categoria ou a natureza do cargo, e o dirigente, a qualquer título, de entidade da administração indireta, obrigam-se, ao serem empossados e exonerados, ou demitidos, a declarar seus bens, sob pena de nulidade, de pleno direito, do ato de posse.</p>\n<p><b>Parágrafo único</b> - Obrigam-se a declaração de bens, registrada em cartório de títulos e documentos, os ocupantes de cargos eletivos nos poderes Legislativo e Executivo, os secretários municipais e os dirigentes de entidades da administração indireta, no ato da posse no término de seu exercício, sob pena de responsabilização.</p>\n<p><b>Art. 237</b> – Quando a execução de função pública de interesse comum da Região Metropolitana couber ao Município, na forma de lei complementar estadual, observar-se-á a distribuição de competências entre os poderes Legislativo e Executivo previstas nesta Lei Orgânica.</p>\n<p><b>Art. 238</b> – Os órgãos e entidades da administração direta e indireta publicarão anualmente, até o dia trinta de abril, relatório concernente aos cargos, empregos e funções de seus respectivos quadros que, no ano anterior, tiverem vagado ou sido providos.</p>\n<p><b>Art. 239</b> – Ao servidor nomeado em virtude de concurso público e exonerado durante o período de que trata o art. 68 é assegurado o direito a indenização calculada pelo somatório de um duodécimo de sua remuneração, por mês de efetivo exercício, e do valor de uma remuneração mensal, sem prejuízo de outros direitos previstos em lei.</p>\n<p><b>Art. 240</b> – Além do previsto nos arts. 63 e 161, V, a lei que dispuser sobre o estatuto do pessoal do magistério público atribuirá, entre outros, os seguintes direitos ao profissional de educação:</p>\n<p>I - adicional de, no mínimo, dez por cento sobre o vencimento e gratificação inerente ao exercício de cargo ou função, a cada período de cinco anos de efetivo exercício, o qual se incorpora ao valor do provento de aposentadoria;</p>\n<p>II - pagamento por habilitação;</p>\n<p>III - adicional por regência de turma, enquanto no efetivo desempenho das atribuições específicas do cargo;</p>\n<p>IV - recesso escolar;</p>\n<p>V - período sabático, com duração de cento e vinte dias, a cada período de sete anos de efetivo exercício do magistério, para aprimoramento profissional devidamente comprovado;</p>\n<p>VI - vencimento fixado a partir de valor que atenda às necessidades básicas do servidor e às de sua família, respeitado o critério de habilitação profissional;</p>\n<p>VII - jornada de trabalho especial, nela computadas as lacunas existentes no horário fixado;</p>\n<p>VIII - liberação da regência de aulas em número equivalente a metade da carga horária, para o exercente da função de coordenador de ensino a partir da 5ª série, escolhido anualmente pelos professores do mesmo conteúdo curricular e de conteúdos afins;</p>\n<p>IX - liberdade de afixação e divulgação de materiais e temas de interesse da categoria ou escola, nas salas destinadas aos servidores.</p>\n<p><b>§ 1º</b> - Para os fins do inciso II, o professor de 1ª a 4ª séries do Ensino Fundamental detentor de curso superior que o habilite para o magistério terá seu vencimento definido conforme o nível e a forma de cálculo do vencimento do professor do Ensino Fundamental, em jornada equivalente.</p>\n<p><b>§ 2º</b> - O Educador Infantil atuará unicamente na formação de crianças de 0 a 5 (zero a cinco) anos e 8 (oito) meses, nos moldes da Lei de Diretrizes e Bases da Educação Nacional, conforme parâmetros específicos de carreira.</p>\n<p><b>Art. 241</b> – A inobservância do disposto nesta Lei Orgânica implica em crime de responsabilidade, punível nos termos da legislação pertinente.</p>\n<p><b>Art. 242</b> – É permitido o empréstimo de bens municipais:</p>\n<p>I – para entidades sem finalidade lucrativa e declarada de utilidade pública, mediante cessão de uso gratuito;</p>\n<p>II – para órgãos governamentais, mediante convênio.</p>\n<p><b>Art. 243</b> – Comemorar-se-á, anualmente, em dezessete de dezembro, o Dia do Município, como data cívica.</p>\n<h3>Ato das Disposições Constitucionais Transitórias</h3>\n<p><b>Art. 244</b> – São considerados estáveis os servidores públicos municipais que, na data da promulgação da Constituição da República, tenham completado cinco anos ou mais de serviço continuado, em órgão da administração direta, autarquia ou fundações públicas municipais.</p>\n<p><b>Art. 245</b> – A observância do disposto no Art. 26 se fará de imediato a promulgação da Lei Orgânica, inclusive para as obras anteriormente contratadas.</p>\n<p><b>Art. 246</b> – A lei instituidora do Regime Jurídico Único dos Servidores Municipais dependerá da aprovação de 2/3 (dois terços) dos membros da Câmara.</p>\n<p><b>Art. 247</b> – Dependerá do voto de dois terços dos membros da Câmara a aprovação dos projetos que versem sobre:</p>\n<p>a) Emenda à Lei Orgânica;</p>\n<p>b) concessão de serviços públicos;</p>\n<p>c) concessão de direito real de uso de bem imóvel;</p>\n<p>d) alienação de bem móvel;</p>\n<p>e) transferência de bem imóvel público edificado;</p>\n<p>f) aquisição de bem imóvel por doação com encargo;</p>\n<p>g) outorga de títulos e honrarias;</p>\n<p>h) contratação de empréstimo com entidade privada;</p>\n<p>i) rejeição e aprovação de parecer prévio do Tribunal de Contas;</p>\n<p>j) cassação de mandato de Vereador, Prefeito e Vice-Prefeito;</p>\n<p>l) anistia fiscal;</p>\n<p>m) perdão de dívida ativa, somente admitida nos casos de calamidade, comprovada pobreza do contribuinte e de instituições legalmente reconhecidas de utilidade pública;</p>\n<p>n) aprovação de empréstimo, operação de crédito e acordo externo de qualquer natureza;</p>\n<p>o) modificação de denominação de logradouros públicos com mais de dez anos;</p>\n<p>p) designação de outro local para reunião da Câmara;</p>\n<p>q) destituição de membro da Mesa Diretora;</p>\n<p>r) sustação da Defensoria do Povo e Guarda Municipal;</p>\n<p>s) instituição da Defensoria do Povo e Guarda Municipal;</p>\n<p>t) organização legislativa.</p>\n<p><b>§ 1º</b> – A aprovação pela maioria absoluta dos membros da Câmara será exigida, quando se tratar de projetos que versem sobre:</p>\n<p>a) plano diretor;</p>\n<p>b) instituição ou modificação do Regimento interno;</p>\n<p>c) codificação em matéria de obras e edificações, codificações tributárias e demais posturas que envolvam o exercício do poder de polícia administrativa local, incluindo o zoneamento e o parcelamento do solo;</p>\n<p>d) regime jurídico e estatuto dos servidores e do magistério;</p>\n<p>e) eleição dos membros da Mesa, em primeiro escrutínio;</p>\n<p>f) renovação, na mesma sessão legislativa, de projetos de lei rejeitados;</p>\n<p>g) fixação ou atualização dos subsídios dos vereadores, Prefeito, Vice-Prefeito e Secretariado Municipal.</p>\n<p><b>§ 2º</b> – As demais deliberações da Câmara, não previstas nesta Lei, serão tomadas por maioria de votos, desde que presentes mais da metade de seus membros.</p>\n<p><b>§ 3º</b> – O Presidente da Câmara participará nas votações que exigirem o quorum de 2/3, quando houver empate e demais casos previstos em lei.</p>\n<p><b>Art. 248</b> – Anualmente, dentro de sessenta dias do início da sessão legislativa, a Câmara receberá, em reunião especial, o Prefeito, que informará por meio de relatório, o estado em que se encontram os assuntos municipais.</p>\n<p><b>Parágrafo primeiro</b> – Sempre que o Prefeito manifestar propósito de expor assuntos de interesse público, a Câmara o receberá em reunião previamente designada.</p>\n<p><b>Parágrafo Segundo</b> – As alterações contidas nesta Lei Orgânica entrarão em vigor a partir de 01 de janeiro de 2013.</p>",
+"quiz": [
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 200, I), o pleno desenvolvimento das funções sociais da cidade e a garantia do bem- estar de sua população, objetivo da política urbana executada pelo Poder Público serão assegurados mediante formulação e execução do planejamento urbano.",
+"c": true,
+"prof": "Lei Orgânica, art. 200, I.",
+"x": "É o que dispõe o art. 200, I da Lei Orgânica.",
+"e": "Art. 200, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 200, III), o pleno desenvolvimento das funções sociais da cidade e a garantia do bem- estar de sua população, objetivo da política urbana executada pelo Poder Público serão assegurados mediante distribuição especial adequada da população, das atividades sócio-econômicas, da infra-estrutura básica e dos equipamentos urbanos comunitários.",
+"c": true,
+"prof": "Lei Orgânica, art. 200, III.",
+"x": "É o que dispõe o art. 200, III da Lei Orgânica.",
+"e": "Art. 200, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 201, I), são instrumentos do planejamento urbano, entre outros plano diretor.",
+"c": true,
+"prof": "Lei Orgânica, art. 201, I.",
+"x": "É o que dispõe o art. 201, I da Lei Orgânica.",
+"e": "Art. 201, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 201, IV), são instrumentos do planejamento urbano, entre outros transferência do direito de construir.",
+"c": true,
+"prof": "Lei Orgânica, art. 201, IV.",
+"x": "É o que dispõe o art. 201, IV da Lei Orgânica.",
+"e": "Art. 201, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 201, VI), são instrumentos do planejamento urbano, entre outros concessão do direito real de uso.",
+"c": true,
+"prof": "Lei Orgânica, art. 201, VI.",
+"x": "É o que dispõe o art. 201, VI da Lei Orgânica.",
+"e": "Art. 201, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 201, IX), são instrumentos do planejamento urbano, entre outros desapropriação por interesse social, necessidade ou utilidade pública, que se dará mediante prévia e justa indenização em dinheiro.",
+"c": true,
+"prof": "Lei Orgânica, art. 201, IX.",
+"x": "É o que dispõe o art. 201, IX da Lei Orgânica.",
+"e": "Art. 201, ix."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 202, II), na promoção do desenvolvimento urbano, observar-se-á contenção de excessiva concentração urbana.",
+"c": true,
+"prof": "Lei Orgânica, art. 202, II.",
+"x": "É o que dispõe o art. 202, II da Lei Orgânica.",
+"e": "Art. 202, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 202, V), na promoção do desenvolvimento urbano, observar-se-á urbanização, regularização e titulação da áreas ocupadas por população de baixa renda.",
+"c": true,
+"prof": "Lei Orgânica, art. 202, V.",
+"x": "É o que dispõe o art. 202, V da Lei Orgânica.",
+"e": "Art. 202, v."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 202, VII), na promoção do desenvolvimento urbano, observar-se-á garantia do acesso adequado ao portador de deficiência aos bens e serviços coletivos, logradouros e edifícios públicos, bem como a edificações destinadas ao uso industrial, comercial e de serviços, e residencial multifamiliar.",
+"c": true,
+"prof": "Lei Orgânica, art. 202, VII.",
+"x": "É o que dispõe o art. 202, VII da Lei Orgânica.",
+"e": "Art. 202, vii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 205, I), a lei estabelecerá os requisitos para aprovação de loteamentos, observada no mínimo, a existência dos seguintes equipamentos urbanos redes de distribuição de água e esgotamento sanitário.",
+"c": true,
+"prof": "Lei Orgânica, art. 205, I.",
+"x": "É o que dispõe o art. 205, I da Lei Orgânica.",
+"e": "Art. 205, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 205, IV), a lei estabelecerá os requisitos para aprovação de loteamentos, observada no mínimo, a existência dos seguintes equipamentos urbanos rede de iluminação pública e pavimentação. (Criado conforme Emenda a Lei Orgânica 001/2011).",
+"c": true,
+"prof": "Lei Orgânica, art. 205, IV.",
+"x": "É o que dispõe o art. 205, IV da Lei Orgânica.",
+"e": "Art. 205, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 205, § 2º), as áreas institucionais serão delimitadas por comissão especial, com a participação do Poder Legislativo.",
+"c": true,
+"prof": "Lei Orgânica, art. 205, § 2º.",
+"x": "É o que dispõe o art. 205, § 2º da Lei Orgânica.",
+"e": "Art. 205, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 207, I), o plano diretor, aprovado pela maioria dos membros da Câmara, conterá exposição circunstanciada das condições econômicas, financeiras, sociais, culturais e administrativas do Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 207, I.",
+"x": "É o que dispõe o art. 207, I da Lei Orgânica.",
+"e": "Art. 207, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 207, IV), o plano diretor, aprovado pela maioria dos membros da Câmara, conterá ordem de prioridades, abrangendo objetivos e diretrizes.",
+"c": true,
+"prof": "Lei Orgânica, art. 207, IV.",
+"x": "É o que dispõe o art. 207, IV da Lei Orgânica.",
+"e": "Art. 207, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 207, Parágrafo Único), os orçamentos anuais, as diretrizes orçamentárias e o plano plurianual serão compatibilizados com as prioridades e metas estabelecidas no plano diretor.",
+"c": true,
+"prof": "Lei Orgânica, art. 207, Parágrafo Único.",
+"x": "É o que dispõe o art. 207, Parágrafo Único da Lei Orgânica.",
+"e": "Art. 207, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 208, II), o plano diretor definirá áreas especiais, tais como áreas de reurbanização.",
+"c": true,
+"prof": "Lei Orgânica, art. 208, II.",
+"x": "É o que dispõe o art. 208, II da Lei Orgânica.",
+"e": "Art. 208, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 208, V), o plano diretor definirá áreas especiais, tais como áreas destinadas à implantação de programas habitacionais.",
+"c": true,
+"prof": "Lei Orgânica, art. 208, V.",
+"x": "É o que dispõe o art. 208, V da Lei Orgânica.",
+"e": "Art. 208, v."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 208, § 2º), áreas de reurbanização são as que, para a melhoria das condições urbanas, exigem novo parcelamento do solo, recuperação ou substituição de construções existentes.",
+"c": true,
+"prof": "Lei Orgânica, art. 208, § 2º.",
+"x": "É o que dispõe o art. 208, § 2º da Lei Orgânica.",
+"e": "Art. 208, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 209), a transferência do direito de construir pode ser autorizada para o proprietário de imóvel considerado de interesse de preservação ou destinado à implantação de programa habitacional.",
+"c": true,
+"prof": "Lei Orgânica, art. 209.",
+"x": "É o que dispõe o art. 209 da Lei Orgânica.",
+"e": "Art. 209."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 209, II), os imóveis passíveis de recepção da transferência do direito de construir são os indicados em lei específica referente a projetos urbanísticos especiais.",
+"c": true,
+"prof": "Lei Orgânica, art. 209, II.",
+"x": "É o que dispõe o art. 209, II da Lei Orgânica.",
+"e": "Art. 209, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 209, § 4º), uma vez exercida a transferência do direito de construir, o índice de aproveitamento não poderá ser objeto de nova transferência.",
+"c": true,
+"prof": "Lei Orgânica, art. 209, § 4º.",
+"x": "É o que dispõe o art. 209, § 4º da Lei Orgânica.",
+"e": "Art. 209, § 4º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 210, Parágrafo Único), o Poder Executivo manterá cadastro atualizado dos imóveis do patrimônio estadual e federal, situados no Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 210, Parágrafo Único.",
+"x": "É o que dispõe o art. 210, Parágrafo Único da Lei Orgânica.",
+"e": "Art. 210, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 211, § 1º), os serviços referidos neste artigo, incluindo o de transporte escolar, serão prestados diretamente ou sob regime de concessão ou permissão, nos termos da lei.",
+"c": true,
+"prof": "Lei Orgânica, art. 211, § 1º.",
+"x": "É o que dispõe o art. 211, § 1º da Lei Orgânica.",
+"e": "Art. 211, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 211, § 4º), a implantação e conservação da infra-estrutura viária poderá ser de competência de autarquia municipal, incumbindo-se da elaboração de programa gerencial das obras respectivas.",
+"c": true,
+"prof": "Lei Orgânica, art. 211, § 4º.",
+"x": "É o que dispõe o art. 211, § 4º da Lei Orgânica.",
+"e": "Art. 211, § 4º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 214, I), o planejamento dos serviços de transporte coletivo deve ser feito com observância dos seguintes princípios compatibilização entre transporte e uso do solo.",
+"c": true,
+"prof": "Lei Orgânica, art. 214, I.",
+"x": "É o que dispõe o art. 214, I da Lei Orgânica.",
+"e": "Art. 214, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 214, IV), o planejamento dos serviços de transporte coletivo deve ser feito com observância dos seguintes princípios análise de alternativas mais eficientes ao sistema.",
+"c": true,
+"prof": "Lei Orgânica, art. 214, IV.",
+"x": "É o que dispõe o art. 214, IV da Lei Orgânica.",
+"e": "Art. 214, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 214, VI), o planejamento dos serviços de transporte coletivo deve ser feito com observância dos seguintes princípios segurança dos usuários.",
+"c": true,
+"prof": "Lei Orgânica, art. 214, VI.",
+"x": "É o que dispõe o art. 214, VI da Lei Orgânica.",
+"e": "Art. 214, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 215, III), o serviço de táxi será prestado, preferencialmente nesta ordem por pessoa jurídica.",
+"c": true,
+"prof": "Lei Orgânica, art. 215, III.",
+"x": "É o que dispõe o art. 215, III da Lei Orgânica.",
+"e": "Art. 215, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 217), o Poder Executivo analisará solicitação de alteração no trânsito do Município, podendo aprovar, negar ou embargar atos a seu critério e dará ciência de sua decisão ao Poder Legislativo, no prazo máximo de trinta dias.",
+"c": true,
+"prof": "Lei Orgânica, art. 217.",
+"x": "É o que dispõe o art. 217 da Lei Orgânica.",
+"e": "Art. 217."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 219, II), para os fins deste artigo, o Poder Público atuará na definição de áreas a que refere o Art. 208, V.",
+"c": true,
+"prof": "Lei Orgânica, art. 219, II.",
+"x": "É o que dispõe o art. 219, II da Lei Orgânica.",
+"e": "Art. 219, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 219, IV), para os fins deste artigo, o Poder Público atuará no desenvolvimento de técnicas para barateamento final da construção.",
+"c": true,
+"prof": "Lei Orgânica, art. 219, IV.",
+"x": "É o que dispõe o art. 219, IV da Lei Orgânica.",
+"e": "Art. 219, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 219, VII), para os fins deste artigo, o Poder Público atuará na assessoria à população em matéria de usucapião urbano.",
+"c": true,
+"prof": "Lei Orgânica, art. 219, VII.",
+"x": "É o que dispõe o art. 219, VII da Lei Orgânica.",
+"e": "Art. 219, vii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 220, III), o Poder Público poderá promover licitação para execução de conjuntos habitacionais ou loteamentos com urbanização simplificada, assegurando a destinação exclusiva àqueles que não possuam outro imóvel.",
+"c": true,
+"prof": "Lei Orgânica, art. 220, III.",
+"x": "É o que dispõe o art. 220, III da Lei Orgânica.",
+"e": "Art. 220, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 220, § 2º), na desapropriação de área habitacional, decorrente de obra pública ou na desocupação de áreas de risco, o Poder Público é obrigado a promover reassentamento da população desalojada.",
+"c": true,
+"prof": "Lei Orgânica, art. 220, § 2º.",
+"x": "É o que dispõe o art. 220, § 2º da Lei Orgânica.",
+"e": "Art. 220, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 222), o Município deverá discriminar e manter cadastro atualizado de habitações em áreas de risco, efetuando trabalho permanente de prevenção e realocação.",
+"c": true,
+"prof": "Lei Orgânica, art. 222.",
+"x": "É o que dispõe o art. 222 da Lei Orgânica.",
+"e": "Art. 222."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 223, II), para assegurar a efetividade do disposto neste artigo, cabe ao Poder Público, entre outras medidas dimensionar a demanda, em qualidade, quantidade e valor de alimentos básicos consumidos pelas famílias de baixa renda.",
+"c": true,
+"prof": "Lei Orgânica, art. 223, II.",
+"x": "É o que dispõe o art. 223, II da Lei Orgânica.",
+"e": "Art. 223, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 223, VI), para assegurar a efetividade do disposto neste artigo, cabe ao Poder Público, entre outras medidas criar central municipal de compras comunitárias, visando a estabelecer relação direta entre as entidades associativas dos produtores e dos consumidores.",
+"c": true,
+"prof": "Lei Orgânica, art. 223, VI.",
+"x": "É o que dispõe o art. 223, VI da Lei Orgânica.",
+"e": "Art. 223, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 223, VIII), para assegurar a efetividade do disposto neste artigo, cabe ao Poder Público, entre outras medidas planejar e executar programas de hortas comunitárias.",
+"c": true,
+"prof": "Lei Orgânica, art. 223, VIII.",
+"x": "É o que dispõe o art. 223, VIII da Lei Orgânica.",
+"e": "Art. 223, viii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 227), o Município criará e manterá serviços de programas que visem ao aumento da produção e produtividade agrícola, ao abastecimento alimentar, à geração de emprego, à melhoria das condições de infra-estrutura econômica e social, à preservação do meio ambiente e à elevação do bem-estar da população rural.",
+"c": true,
+"prof": "Lei Orgânica, art. 227.",
+"x": "É o que dispõe o art. 227 da Lei Orgânica.",
+"e": "Art. 227."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 228, VI), o Município implantará programas de fomento à pequena produção e de fixação do homem no campo, através de alocação de recursos orçamentários próprios ou oriundos da União e do Estado e de contribuições do setor privado para atendimento médico-veterinário.",
+"c": true,
+"prof": "Lei Orgânica, art. 228, VI.",
+"x": "É o que dispõe o art. 228, VI da Lei Orgânica.",
+"e": "Art. 228, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 230, I), o Município apoiará e estimulará acesso dos produtores ao crédito e seguro rural.",
+"c": true,
+"prof": "Lei Orgânica, art. 230, I.",
+"x": "É o que dispõe o art. 230, I da Lei Orgânica.",
+"e": "Art. 230, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 230, IV), o Município apoiará e estimulará a criação de instrumentos que facilitem a ação fiscalizadora na proteção de lavouras, criações e meio ambiente.",
+"c": true,
+"prof": "Lei Orgânica, art. 230, IV.",
+"x": "É o que dispõe o art. 230, IV da Lei Orgânica.",
+"e": "Art. 230, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 230, VII), o Município apoiará e estimulará a constituição e expansão de cooperativas e outras formas de associativismo e organização rural, inclusive, a instituição de mutirão para as edificações de moradias.",
+"c": true,
+"prof": "Lei Orgânica, art. 230, VII.",
+"x": "É o que dispõe o art. 230, VII da Lei Orgânica.",
+"e": "Art. 230, vii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 232, I), o Poder Público, agente normativo e regular de atividade econômica, exercerá no âmbito de sua competência, funções de fiscalização, incentivo e planejamento, atuando na restrição do abuso do poder econômico.",
+"c": true,
+"prof": "Lei Orgânica, art. 232, I.",
+"x": "É o que dispõe o art. 232, I da Lei Orgânica.",
+"e": "Art. 232, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 232, III), o Poder Público, agente normativo e regular de atividade econômica, exercerá no âmbito de sua competência, funções de fiscalização, incentivo e planejamento, atuando na fiscalização de qualidade, de preços e de peso e medidas dos bens e serviços produzidos e comercializados em seu território.",
+"c": true,
+"prof": "Lei Orgânica, art. 232, III.",
+"x": "É o que dispõe o art. 232, III da Lei Orgânica.",
+"e": "Art. 232, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 232, Parágrafo Único), o Município dispensará tratamento jurídico diferenciado à pequena e microempresa, assim definidas em lei, visando a incentivá-las pela simplificação de suas obrigações administrativas, tributárias e creditícias ou pela eliminação ou redução destas por meio de lei.",
+"c": true,
+"prof": "Lei Orgânica, art. 232, Parágrafo Único.",
+"x": "É o que dispõe o art. 232, Parágrafo Único da Lei Orgânica.",
+"e": "Art. 232, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 234), o Município, colaborando com os segmentos do setor, apoiará e incentivará o turismo, como atividade econômica, reconhecendo-o como forma de promoção e desenvolvimento social e cultural.",
+"c": true,
+"prof": "Lei Orgânica, art. 234.",
+"x": "É o que dispõe o art. 234 da Lei Orgânica.",
+"e": "Art. 234."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 235, III), cabe ao Município, obedecida a legislação federal e estadual, definir a política municipal de turismo e as diretrizes e ações, devendo estimular e apoiar a produção artesanal local, as feiras, exposições, eventos turísticos e programas de orientação e divulgação de projetos municipais, bem como elaborar o calendário de eventos.",
+"c": true,
+"prof": "Lei Orgânica, art. 235, III.",
+"x": "É o que dispõe o art. 235, III da Lei Orgânica.",
+"e": "Art. 235, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 235, V), cabe ao Município, obedecida a legislação federal e estadual, definir a política municipal de turismo e as diretrizes e ações, devendo promover a conscientização do público para preservação e difusão dos recursos naturais e do turismo como atividade econômica e fato de desenvolvimento.",
+"c": true,
+"prof": "Lei Orgânica, art. 235, V.",
+"x": "É o que dispõe o art. 235, V da Lei Orgânica.",
+"e": "Art. 235, v."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 235, § 2º), o Poder Executivo adotará as medidas necessárias para que no carnaval e em outras datas e ventos festivos, seja liberado o maior número possível de praças, avenidas e ruas para que a população livremente se manifeste.",
+"c": true,
+"prof": "Lei Orgânica, art. 235, § 2º.",
+"x": "É o que dispõe o art. 235, § 2º da Lei Orgânica.",
+"e": "Art. 235, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 237), quando a execução de função pública de interesse comum da Região Metropolitana couber ao Município, na forma de lei complementar estadual, observar-se-á a distribuição de competências entre os poderes Legislativo e Executivo previstas nesta Lei Orgânica.",
+"c": true,
+"prof": "Lei Orgânica, art. 237.",
+"x": "É o que dispõe o art. 237 da Lei Orgânica.",
+"e": "Art. 237."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 239), ao servidor nomeado em virtude de concurso público e exonerado durante o período de que trata o art. 68 é assegurado o direito a indenização calculada pelo somatório de um duodécimo de sua remuneração, por mês de efetivo exercício, e do valor de uma remuneração mensal, sem prejuízo de outros direitos previstos em lei.",
+"c": true,
+"prof": "Lei Orgânica, art. 239.",
+"x": "É o que dispõe o art. 239 da Lei Orgânica.",
+"e": "Art. 239."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 240, IV), além do previsto nos arts. 63 e 161, V, a lei que dispuser sobre o estatuto do pessoal do magistério público atribuirá, entre outros, os seguintes direitos ao profissional de educação recesso escolar.",
+"c": true,
+"prof": "Lei Orgânica, art. 240, IV.",
+"x": "É o que dispõe o art. 240, IV da Lei Orgânica.",
+"e": "Art. 240, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 240, § 1º), para os fins do inciso II, o professor de 1ª a 4ª séries do Ensino Fundamental detentor de curso superior que o habilite para o magistério terá seu vencimento definido conforme o nível e a forma de cálculo do vencimento do professor do Ensino Fundamental, em jornada equivalente.",
+"c": true,
+"prof": "Lei Orgânica, art. 240, § 1º.",
+"x": "É o que dispõe o art. 240, § 1º da Lei Orgânica.",
+"e": "Art. 240, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 242, I), é permitido o empréstimo de bens municipais para entidades sem finalidade lucrativa e declarada de utilidade pública, mediante cessão de uso gratuito.",
+"c": true,
+"prof": "Lei Orgânica, art. 242, I.",
+"x": "É o que dispõe o art. 242, I da Lei Orgânica.",
+"e": "Art. 242, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 243), comemorar-se-á, anualmente, em dezessete de dezembro, o Dia do Município, como data cívica.",
+"c": true,
+"prof": "Lei Orgânica, art. 243.",
+"x": "É o que dispõe o art. 243 da Lei Orgânica.",
+"e": "Art. 243."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 246), a lei instituidora do Regime Jurídico Único dos Servidores Municipais dependerá da aprovação de 2/3 (dois terços) dos membros da Câmara.",
+"c": true,
+"prof": "Lei Orgânica, art. 246.",
+"x": "É o que dispõe o art. 246 da Lei Orgânica.",
+"e": "Art. 246."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 248), anualmente, dentro de sessenta dias do início da sessão legislativa, a Câmara receberá, em reunião especial, o Prefeito, que informará por meio de relatório, o estado em que se encontram os assuntos municipais.",
+"c": true,
+"prof": "Lei Orgânica, art. 248.",
+"x": "É o que dispõe o art. 248 da Lei Orgânica.",
+"e": "Art. 248."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 204), os edifícios que vierem a ser construídos, para que recebam “habite-se”, não deverão ter os dispositivos de prevenção de primeiro combate ao fogo.",
+"c": false,
+"prof": "Lei Orgânica, art. 204.",
+"x": "O art. 204 afirma o contrário: Os edifícios que vierem a ser construídos, para que recebam “habite-se”, deverão ter os dispositivos de prevenção de primeiro combate ao fogo.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 205, § 1º), a pavimentação, obrigatoriamente, não observará as regras ambientais e, preferencialmente, deverão ser utilizados materiais e produtos que contribuam para a preservação do meio ambiente. (Criado conforme Emenda a Lei Orgânica 001/2011).",
+"c": false,
+"prof": "Lei Orgânica, art. 205, § 1º.",
+"x": "O art. 205, § 1º afirma o contrário: A pavimentação, obrigatoriamente, observará as regras ambientais e, preferencialmente, deverão ser utilizados materiais e produtos que contribuam para a preservação do meio ambiente. (Criado conforme Emenda a Lei Orgânica 001/2011).",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 205, § 2º), as áreas institucionais não serão delimitadas por comissão especial, com a participação do Poder Legislativo.",
+"c": false,
+"prof": "Lei Orgânica, art. 205, § 2º.",
+"x": "O art. 205, § 2º afirma o contrário: As áreas institucionais serão delimitadas por comissão especial, com a participação do Poder Legislativo.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 206, Parágrafo Único), a contrapartida, que se dará em moeda corrente ou dação de imóvel, não será utilizada segundo critérios definidos pelo plano diretor.",
+"c": false,
+"prof": "Lei Orgânica, art. 206, Parágrafo Único.",
+"x": "O art. 206, Parágrafo Único afirma o contrário: A contrapartida, que se dará em moeda corrente ou dação de imóvel, será utilizada segundo critérios definidos pelo plano diretor.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 208, § 2º), áreas de reurbanização não são as que, para a melhoria das condições urbanas, exigem novo parcelamento do solo, recuperação ou substituição de construções existentes.",
+"c": false,
+"prof": "Lei Orgânica, art. 208, § 2º.",
+"x": "O art. 208, § 2º afirma o contrário: Áreas de reurbanização são as que, para a melhoria das condições urbanas, exigem novo parcelamento do solo, recuperação ou substituição de construções existentes.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 208, § 4º), áreas de regularização não são as ocupadas por população de baixa renda, sujeita a critérios especiais de urbanização, bem como à implantação prioritária de equipamentos urbanos e comunitários.",
+"c": false,
+"prof": "Lei Orgânica, art. 208, § 4º.",
+"x": "O art. 208, § 4º afirma o contrário: Áreas de regularização são as ocupadas por população de baixa renda, sujeita a critérios especiais de urbanização, bem como à implantação prioritária de equipamentos urbanos e comunitários.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 208, § 5º), áreas de transferência do direito de construir não são as passíveis de adensamento, observados os critérios estabelecidos na lei de parcelamento, ocupação e uso do solo.",
+"c": false,
+"prof": "Lei Orgânica, art. 208, § 5º.",
+"x": "O art. 208, § 5º afirma o contrário: Áreas de transferência do direito de construir são as passíveis de adensamento, observados os critérios estabelecidos na lei de parcelamento, ocupação e uso do solo.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 209), a transferência do direito de construir não pode ser autorizada para o proprietário de imóvel considerado de interesse de preservação ou destinado à implantação de programa habitacional.",
+"c": false,
+"prof": "Lei Orgânica, art. 209.",
+"x": "O art. 209 afirma o contrário: A transferência do direito de construir pode ser autorizada para o proprietário de imóvel considerado de interesse de preservação ou destinado à implantação de programa habitacional.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 209, II), os imóveis passíveis de recepção da transferência do direito de construir não são os indicados em lei específica referente a projetos urbanísticos especiais.",
+"c": false,
+"prof": "Lei Orgânica, art. 209, II.",
+"x": "O art. 209, II afirma o contrário: Os imóveis passíveis de recepção da transferência do direito de construir são os indicados em lei específica referente a projetos urbanísticos especiais.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 209, III), os imóveis passíveis de recepção da transferência do direito de construir não são os situados em torno do imóvel objeto da transferência, segundo critérios de proximidade a serem estabelecidos em lei.",
+"c": false,
+"prof": "Lei Orgânica, art. 209, III.",
+"x": "O art. 209, III afirma o contrário: Os imóveis passíveis de recepção da transferência do direito de construir são os situados em torno do imóvel objeto da transferência, segundo critérios de proximidade a serem estabelecidos em lei.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 210, Parágrafo Único), o Poder Executivo não manterá cadastro atualizado dos imóveis do patrimônio estadual e federal, situados no Município.",
+"c": false,
+"prof": "Lei Orgânica, art. 210, Parágrafo Único.",
+"x": "O art. 210, Parágrafo Único afirma o contrário: O Poder Executivo manterá cadastro atualizado dos imóveis do patrimônio estadual e federal, situados no Município.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 211, § 1º), os serviços referidos neste artigo, incluindo o de transporte escolar, não serão prestados diretamente ou sob regime de concessão ou permissão, nos termos da lei.",
+"c": false,
+"prof": "Lei Orgânica, art. 211, § 1º.",
+"x": "O art. 211, § 1º afirma o contrário: Os serviços referidos neste artigo, incluindo o de transporte escolar, serão prestados diretamente ou sob regime de concessão ou permissão, nos termos da lei.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 211, § 4º), a implantação e conservação da infra-estrutura viária não poderá ser de competência de autarquia municipal, incumbindo-se da elaboração de programa gerencial das obras respectivas.",
+"c": false,
+"prof": "Lei Orgânica, art. 211, § 4º.",
+"x": "O art. 211, § 4º afirma o contrário: A implantação e conservação da infra-estrutura viária poderá ser de competência de autarquia municipal, incumbindo-se da elaboração de programa gerencial das obras respectivas.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 212), as diretrizes, objetivos e metas da administração pública, nas atividades setoriais de transporte coletivo não serão estabelecidas em lei que instituir o plano plurianual, de forma compatível com a política de desenvolvimento urbano definida no plano diretor.",
+"c": false,
+"prof": "Lei Orgânica, art. 212.",
+"x": "O art. 212 afirma o contrário: As diretrizes, objetivos e metas da administração pública, nas atividades setoriais de transporte coletivo serão estabelecidas em lei que instituir o plano plurianual, de forma compatível com a política de desenvolvimento urbano definida no plano diretor.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 214, I), o planejamento dos serviços de transporte coletivo não deve ser feito com observância dos seguintes princípios compatibilização entre transporte e uso do solo.",
+"c": false,
+"prof": "Lei Orgânica, art. 214, I.",
+"x": "O art. 214, I afirma o contrário: O planejamento dos serviços de transporte coletivo deve ser feito com observância dos seguintes princípios compatibilização entre transporte e uso do solo.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 214, II), o planejamento dos serviços de transporte coletivo não deve ser feito com observância dos seguintes princípios integração física, operacional e tarifária entre as diversas modalidades de transporte.",
+"c": false,
+"prof": "Lei Orgânica, art. 214, II.",
+"x": "O art. 214, II afirma o contrário: O planejamento dos serviços de transporte coletivo deve ser feito com observância dos seguintes princípios integração física, operacional e tarifária entre as diversas modalidades de transporte.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 214, IV), o planejamento dos serviços de transporte coletivo não deve ser feito com observância dos seguintes princípios análise de alternativas mais eficientes ao sistema.",
+"c": false,
+"prof": "Lei Orgânica, art. 214, IV.",
+"x": "O art. 214, IV afirma o contrário: O planejamento dos serviços de transporte coletivo deve ser feito com observância dos seguintes princípios análise de alternativas mais eficientes ao sistema.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 214, V), o planejamento dos serviços de transporte coletivo não deve ser feito com observância dos seguintes princípios participação da sociedade civil.",
+"c": false,
+"prof": "Lei Orgânica, art. 214, V.",
+"x": "O art. 214, V afirma o contrário: O planejamento dos serviços de transporte coletivo deve ser feito com observância dos seguintes princípios participação da sociedade civil.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 214, VI), o planejamento dos serviços de transporte coletivo não deve ser feito com observância dos seguintes princípios segurança dos usuários.",
+"c": false,
+"prof": "Lei Orgânica, art. 214, VI.",
+"x": "O art. 214, VI afirma o contrário: O planejamento dos serviços de transporte coletivo deve ser feito com observância dos seguintes princípios segurança dos usuários.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 215, I), o serviço de táxi não será prestado, preferencialmente nesta ordem por motorista profissional autônomo.",
+"c": false,
+"prof": "Lei Orgânica, art. 215, I.",
+"x": "O art. 215, I afirma o contrário: O serviço de táxi será prestado, preferencialmente nesta ordem por motorista profissional autônomo.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 215, III), o serviço de táxi não será prestado, preferencialmente nesta ordem por pessoa jurídica.",
+"c": false,
+"prof": "Lei Orgânica, art. 215, III.",
+"x": "O art. 215, III afirma o contrário: O serviço de táxi será prestado, preferencialmente nesta ordem por pessoa jurídica.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 215, Parágrafo único), é permitida mais de uma permissão a motorista profissional autônomo.",
+"c": false,
+"prof": "Lei Orgânica, art. 215, Parágrafo único.",
+"x": "O art. 215, Parágrafo único diz \"É vedada\", e não \"É permitida\".",
+"e": "É vedada."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 216), as vias integrantes dos itinerários das linhas de transporte coletivo de passageiros não terão prioridades para pavimentação e conservação.",
+"c": false,
+"prof": "Lei Orgânica, art. 216.",
+"x": "O art. 216 afirma o contrário: As vias integrantes dos itinerários das linhas de transporte coletivo de passageiros terão prioridades para pavimentação e conservação.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 217), o Poder Executivo analisará solicitação de alteração no trânsito do Município, podendo aprovar, negar ou embargar atos a seu critério e dará ciência de sua decisão ao Poder Legislativo, no prazo máximo de sessenta dias.",
+"c": false,
+"prof": "Lei Orgânica, art. 217.",
+"x": "O art. 217 diz \"trinta dias\", e não \"sessenta dias\".",
+"e": "Trinta dias."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 220, I), o Poder Público não poderá promover licitação para execução de conjuntos habitacionais ou loteamentos com urbanização simplificada, assegurando a redução do preço final das unidades.",
+"c": false,
+"prof": "Lei Orgânica, art. 220, I.",
+"x": "O art. 220, I afirma o contrário: O Poder Público poderá promover licitação para execução de conjuntos habitacionais ou loteamentos com urbanização simplificada, assegurando a redução do preço final das unidades.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 220, § 3º), na implantação de conjuntos habitacionais com mais de trezentas unidades é facultativa a apresentação de relatório de impacto ambiental e econômico-social e assegurada a sua discussão em audiência pública.",
+"c": false,
+"prof": "Lei Orgânica, art. 220, § 3º.",
+"x": "O art. 220, § 3º diz \"é obrigatória\", e não \"é facultativa\".",
+"e": "É obrigatória."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 221), a política habitacional do Município não será executada por órgão ou entidade específico da administração pública, a que compete a gerência do fundo de habitação popular.",
+"c": false,
+"prof": "Lei Orgânica, art. 221.",
+"x": "O art. 221 afirma o contrário: A política habitacional do Município será executada por órgão ou entidade específico da administração pública, a que compete a gerência do fundo de habitação popular.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 222), o Município não deverá discriminar e manter cadastro atualizado de habitações em áreas de risco, efetuando trabalho permanente de prevenção e realocação.",
+"c": false,
+"prof": "Lei Orgânica, art. 222.",
+"x": "O art. 222 afirma o contrário: O Município deverá discriminar e manter cadastro atualizado de habitações em áreas de risco, efetuando trabalho permanente de prevenção e realocação.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 223, II), para assegurar a efetividade do disposto neste artigo, não cabe ao Poder Público, entre outras medidas dimensionar a demanda, em qualidade, quantidade e valor de alimentos básicos consumidos pelas famílias de baixa renda.",
+"c": false,
+"prof": "Lei Orgânica, art. 223, II.",
+"x": "O art. 223, II afirma o contrário: Para assegurar a efetividade do disposto neste artigo, cabe ao Poder Público, entre outras medidas dimensionar a demanda, em qualidade, quantidade e valor de alimentos básicos consumidos pelas famílias de baixa renda.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 223, III), para assegurar a efetividade do disposto neste artigo, não cabe ao Poder Público, entre outras medidas incentivar a melhoria de sistema de distribuição varejista.",
+"c": false,
+"prof": "Lei Orgânica, art. 223, III.",
+"x": "O art. 223, III afirma o contrário: Para assegurar a efetividade do disposto neste artigo, cabe ao Poder Público, entre outras medidas incentivar a melhoria de sistema de distribuição varejista.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 223, IV), para assegurar a efetividade do disposto neste artigo, não cabe ao Poder Público, entre outras medidas articular-se com órgão e entidades de executores da política agrícola nacional e regional, com vistas à distribuição de estoques governamentais prioritariamente aos programas de abastecimento popular.",
+"c": false,
+"prof": "Lei Orgânica, art. 223, IV.",
+"x": "O art. 223, IV afirma o contrário: Para assegurar a efetividade do disposto neste artigo, cabe ao Poder Público, entre outras medidas articular-se com órgão e entidades de executores da política agrícola nacional e regional, com vistas à distribuição de estoques governamentais prioritariamente aos programas de abastecimento popular.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 223, VI), para assegurar a efetividade do disposto neste artigo, não cabe ao Poder Público, entre outras medidas criar central municipal de compras comunitárias, visando a estabelecer relação direta entre as entidades associativas dos produtores e dos consumidores.",
+"c": false,
+"prof": "Lei Orgânica, art. 223, VI.",
+"x": "O art. 223, VI afirma o contrário: Para assegurar a efetividade do disposto neste artigo, cabe ao Poder Público, entre outras medidas criar central municipal de compras comunitárias, visando a estabelecer relação direta entre as entidades associativas dos produtores e dos consumidores.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 223, VIII), para assegurar a efetividade do disposto neste artigo, não cabe ao Poder Público, entre outras medidas planejar e executar programas de hortas comunitárias.",
+"c": false,
+"prof": "Lei Orgânica, art. 223, VIII.",
+"x": "O art. 223, VIII afirma o contrário: Para assegurar a efetividade do disposto neste artigo, cabe ao Poder Público, entre outras medidas planejar e executar programas de hortas comunitárias.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 226), as diretrizes para elaboração do plano diretor, relativamente às atividades rurais não são estabelecidas por um Conselho Municipal de Agricultura, Pecuária e Abastecimento, a ser criado por lei, com representantes de produtores, trabalhadores e dos setores mencionados no primeiro artigo deste capítulo.",
+"c": false,
+"prof": "Lei Orgânica, art. 226.",
+"x": "O art. 226 afirma o contrário: As diretrizes para elaboração do plano diretor, relativamente às atividades rurais são estabelecidas por um Conselho Municipal de Agricultura, Pecuária e Abastecimento, a ser criado por lei, com representantes de produtores, trabalhadores e dos setores mencionados no primeiro artigo deste capítulo.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 227), o Município criará e não manterá serviços de programas que visem ao aumento da produção e produtividade agrícola, ao abastecimento alimentar, à geração de emprego, à melhoria das condições de infra-estrutura econômica e social, à preservação do meio ambiente e à elevação do bem-estar da população rural.",
+"c": false,
+"prof": "Lei Orgânica, art. 227.",
+"x": "O art. 227 afirma o contrário: O Município criará e manterá serviços de programas que visem ao aumento da produção e produtividade agrícola, ao abastecimento alimentar, à geração de emprego, à melhoria das condições de infra-estrutura econômica e social, à preservação do meio ambiente e à elevação do bem-estar da população rural.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 230, I), o Município não apoiará e estimulará acesso dos produtores ao crédito e seguro rural.",
+"c": false,
+"prof": "Lei Orgânica, art. 230, I.",
+"x": "O art. 230, I afirma o contrário: O Município apoiará e estimulará acesso dos produtores ao crédito e seguro rural.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 230, III), o Município não apoiará e estimulará os serviços de geração e difusão de conhecimento e tecnologias.",
+"c": false,
+"prof": "Lei Orgânica, art. 230, III.",
+"x": "O art. 230, III afirma o contrário: O Município apoiará e estimulará os serviços de geração e difusão de conhecimento e tecnologias.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 230, IV), o Município não apoiará e estimulará a criação de instrumentos que facilitem a ação fiscalizadora na proteção de lavouras, criações e meio ambiente.",
+"c": false,
+"prof": "Lei Orgânica, art. 230, IV.",
+"x": "O art. 230, IV afirma o contrário: O Município apoiará e estimulará a criação de instrumentos que facilitem a ação fiscalizadora na proteção de lavouras, criações e meio ambiente.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 230, V), o Município não apoiará e estimulará capacitação de mão de obra rural e preservação dos recursos naturais.",
+"c": false,
+"prof": "Lei Orgânica, art. 230, V.",
+"x": "O art. 230, V afirma o contrário: O Município apoiará e estimulará capacitação de mão de obra rural e preservação dos recursos naturais.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 230, VI), o Município não apoiará e estimulará a construção de unidade de armazenamentos comunitários e de redes de apoio ao abastecimento municipal.",
+"c": false,
+"prof": "Lei Orgânica, art. 230, VI.",
+"x": "O art. 230, VI afirma o contrário: O Município apoiará e estimulará a construção de unidade de armazenamentos comunitários e de redes de apoio ao abastecimento municipal.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 230, VIII), o Município não apoiará e estimulará a melhoria das condições de infra-estrutura, com destaque para habitação rural, saneamento, transporte, comunicação, saúde, educação e lazer, visando a sobrevivência econômica no campo, quando houver a decadência de extração minerária ao Município.",
+"c": false,
+"prof": "Lei Orgânica, art. 230, VIII.",
+"x": "O art. 230, VIII afirma o contrário: O Município apoiará e estimulará a melhoria das condições de infra-estrutura, com destaque para habitação rural, saneamento, transporte, comunicação, saúde, educação e lazer, visando a sobrevivência econômica no campo, quando houver a decadência de extração minerária ao Município.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 234), o Município, colaborando com os segmentos do setor, não apoiará e incentivará o turismo, como atividade econômica, reconhecendo-o como forma de promoção e desenvolvimento social e cultural.",
+"c": false,
+"prof": "Lei Orgânica, art. 234.",
+"x": "O art. 234 afirma o contrário: O Município, colaborando com os segmentos do setor, apoiará e incentivará o turismo, como atividade econômica, reconhecendo-o como forma de promoção e desenvolvimento social e cultural.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 235, § 2º), o Poder Executivo não adotará as medidas necessárias para que no carnaval e em outras datas e ventos festivos, seja liberado o maior número possível de praças, avenidas e ruas para que a população livremente se manifeste.",
+"c": false,
+"prof": "Lei Orgânica, art. 235, § 2º.",
+"x": "O art. 235, § 2º afirma o contrário: O Poder Executivo adotará as medidas necessárias para que no carnaval e em outras datas e ventos festivos, seja liberado o maior número possível de praças, avenidas e ruas para que a população livremente se manifeste.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 238), os órgãos e entidades da administração direta e indireta publicarão a cada dois anos, até o dia trinta de abril, relatório concernente aos cargos, empregos e funções de seus respectivos quadros que, no ano anterior, tiverem vagado ou sido providos.",
+"c": false,
+"prof": "Lei Orgânica, art. 238.",
+"x": "O art. 238 diz \"anualmente\", e não \"a cada dois anos\".",
+"e": "Anualmente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 243), comemorar-se-á, a cada dois anos, em dezessete de dezembro, o Dia do Município, como data cívica.",
+"c": false,
+"prof": "Lei Orgânica, art. 243.",
+"x": "O art. 243 diz \"anualmente\", e não \"a cada dois anos\".",
+"e": "Anualmente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 244), são considerados estáveis os servidores públicos municipais que, na data da promulgação da Constituição da República, tenham completado dez anos ou mais de serviço continuado, em órgão da administração direta, autarquia ou fundações públicas municipais.",
+"c": false,
+"prof": "Lei Orgânica, art. 244.",
+"x": "O art. 244 diz \"cinco anos\", e não \"dez anos\".",
+"e": "Cinco anos."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 246), a lei instituidora do Regime Jurídico Único dos Servidores Municipais dependerá da aprovação de 2/3 (três quintos) dos membros da Câmara.",
+"c": false,
+"prof": "Lei Orgânica, art. 246.",
+"x": "O art. 246 diz \"dois terços\", e não \"três quintos\".",
+"e": "Dois terços."
+}
+]
+}
+]
 }
 };

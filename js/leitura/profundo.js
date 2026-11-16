@@ -29872,5 +29872,2179 @@ export const PROFUNDO = {
 }
 ]
 }
+},
+"belovale": {
+"lom-organizacao": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1–16</b><span>artigos da Lei Orgânica reproduzidos na íntegra neste tópico</span></div><div class=\"lt-stat\"><b>52</b><span>questões novas de lei seca (certo ou errado)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: a banca copia a lei e troca uma palavra (prazo, quórum, competência, \"pode\" por \"deve\")</span></div></div>\n<h3>Como estudar este tópico</h3>\n<ul><li>Este tópico traz o <b>texto integral</b> dos <b>arts. 1 a 16</b> da <b>Lei Orgânica do Município de Belo Vale</b> (Lei nº 806/1990, edição atualizada em 2012), exigida no edital do concurso de Belo Vale (Legislação Municipal). O resumo comentado que estava aqui antes continua disponível na <b>Leitura complementar</b>, no fim da página.</li><li><b>Método de leitura de lei seca</b>: leia cada artigo prestando atenção a <b>quem</b> faz (Prefeito, Câmara, Mesa, Município), <b>o que</b> faz, <b>em que prazo</b> e <b>com qual quórum</b>. São exatamente esses elementos que as bancas trocam nas questões de certo ou errado.</li><li><b>Marque as palavras de alcance</b>: \"privativamente\", \"exclusivamente\", \"vedado\", \"poderá\" x \"deverá\", \"maioria absoluta\" x \"dois terços\", \"dias\" x \"dias úteis\". Uma única troca torna a assertiva errada.</li><li>As questões deste tópico foram montadas <b>a partir do próprio texto da lei</b>: as certas reproduzem o dispositivo; as erradas alteram um prazo, um quórum, uma competência ou negam o que a lei afirma. O comentário de cada questão indica o artigo correspondente.</li></ul>\n<h3>Estrutura do trecho</h3>\n<ul><li>TÍTULO I Disposições Preliminares</li><li>TÍTULO II Dos Direitos e Garantias Fundamentais</li><li>TÍTULO III Da organização do Município</li><li>CAPÍTULO I Disposições Gerais</li><li>CAPÍTULO II Da Competência do Município</li><li>CAPÍTULO III Do Domínio Público</li></ul>\n<h3>Texto integral da Lei Orgânica (arts. 1 a 16)</h3>\n<h3>TÍTULO I Disposições Preliminares</h3>\n<p><b>Art. 1º</b> – O Município de Belo Vale integra, com autonomia político-administrativa e financeira, a República Federativa do Brasil e o Estado de Minas Gerais.</p>\n<p><b>Parágrafo Único</b> – O Município se organiza e se rege por esta Lei Orgânica e demais leis que adotar, observados os princípios constitucionais da República e do Estado.</p>\n<p><b>Art. 2º</b> – Todo o poder do Município emana do povo, que o exerce diretamente ou por meio de seus representantes eleitos, nos termos da Constituição da República e desta Lei Orgânica.</p>\n<p><b>§ 1º</b> - O exercício direto do poder pelo povo no Município se dá, na forma desta Lei Orgânica, mediante:</p>\n<p>I – plebiscito;</p>\n<p>II – referendo;</p>\n<p>III – iniciativa popular no processo legislativo, observada a porcentagem legal estabelecida nesta Lei;</p>\n<p>IV – participação em decisão da administração pública;</p>\n<p>V – ação fiscalizadora sobre a administração pública.</p>\n<p><b>§ 2º</b> - O exercício indireto do poder pelo povo se dá por representantes eleitos pelo sufrágio universal e pelo voto direto e secreto, na forma da legislação federal, e por representantes indicados pela comunidade, nos termos desta Lei Orgânica.</p>\n<p><b>§ 3º</b> - A participação na administração pública e a fiscalização sobre esta se dão por meio de instâncias populares, com estatutos próprios, aprovados pela Câmara Municipal.</p>\n<p><b>Art. 3º</b> – O Município concorrerá, nos limites de sua competência, para a consecução dos objetivos fundamentais da República e prioritários do Estado.</p>\n<p><b>Parágrafo Único</b> – São objetivos prioritários do Município, além daqueles previstos no art. 166 da Constituição do Estado:</p>\n<p>I – assegurar a permanência da cidade enquanto espaço viável e de vocação histórica, que possibilite o efetivo exercício da cidadania;</p>\n<p>II – preservar a sua identidade, adequando as exigências do desenvolvimento à preservação de sua memória, tradição e o bem comum;</p>\n<p>III – proporcionar aos seus habitantes condições de vida compatíveis com a dignidade humana, a justiça social e o bem comum;</p>\n<p>IV – priorizar o atendimento das demandas sociais de educação, saúde, transporte, moradia, abastecimento, lazer e assistência social;</p>\n<p>V – aprofundar a sua vocação de centro aglutinador e irradiador da cultura brasileira;</p>\n<p>VI – garantir a efetividade dos direitos públicos subjetivos;</p>\n<p>VII – assegurar o exercício, pelo cidadão e comunidade, dos mecanismos de controle de legalidade e legitimidade dos atos do Poder Público e da eficácia dos serviços públicos;</p>\n<p>VIII – valorizar e desenvolver a sua vocação de centro aglutinador e irradiador da cultura brasileira;</p>\n<p>IX – preservar os interesses gerais e coletivos;</p>\n<p>X – promover o bem-estar de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.</p>\n<p><b>Parágrafo único</b> - O Município concorrerá, nos limites de sua competência, para a consecução dos objetivos fundamentais da República e prioritários do Estado.</p>\n<p><b>Art. 4º</b> – É mantido o atual território do Município, cujos limites só podem ser alterados nos termos da Constituição do Estado.</p>\n<p><b>Parágrafo Único</b> – Depende de lei a criação, organização e supressão dos Distritos ou Subdistritos, observada a Legislação Estadual.</p>\n<h3>TÍTULO II Dos Direitos e Garantias Fundamentais</h3>\n<p><b>Art. 5º</b> – O Município assegura, no seu território e nos limites da sua competência, os direitos e garantias fundamentais que as Constituições da República e do Estado conferem aos brasileiros e aos estrangeiros residentes no país.</p>\n<p><b>§ 1º</b> – Nenhuma pessoa será discriminada, ou de qualquer forma prejudicada, pelo fato de litigar com órgãos ou entidades municipais, no âmbito administrativo ou judicial.</p>\n<p><b>§ 2º</b> – Incide na penalidade de destituição de mandado administrativo ou de cargo ou função de direção em órgão ou entidade da administração pública, o agente público que deixar injustificadamente de sanar, dentro de sessenta dias da data do requerimento do interessado, omissão que inviabilize o exercício de direito constitucional.</p>\n<p><b>§ 3º</b> – Nos processos administrativos, qualquer que seja o objeto e o procedimento, observar-se-ão, entre outros requisitos de validade, a publicidade, o contraditório, a defesa ampla e o desempenho e o despacho ou a decisão motivados.</p>\n<p><b>§ 4º</b> – Todos têm o direito de requerer e obter informação sobre o Projeto do Poder Público, ressalvada aquela cujo sigilo seja, temporariamente, imprescindível à segurança da sociedade e do Município, nos termos da Lei que fixará também o prazo em que deva ser prestada a informação.</p>\n<p><b>§ 5º</b> – Independente de pagamento de taxa ou de emolumento ou de garantia de instância, o exercício do direito de petição ou representação bem como a obtenção de certidão, no prazo máximo de trinta dias, para a defesa de direitos ou esclarecimentos de interesse pessoal ou coletivo.</p>\n<p><b>§ 6º</b> – É direito de qualquer cidadão e entidade legalmente constituída denunciar às autoridades competentes a prática, por órgão ou entidade pública ou por empresas concessionárias ou permissionárias de serviços públicos, de atos lesivos aos direitos dos usuários cabendo ao Poder Público apurar sua veracidade e aplicar as sanções cabíveis, sob pena de responsabilização.</p>\n<p><b>§ 7º</b> – Será punido, nos termos da lei, o agente público que, no exercício de suas atribuições e independentemente da função que exerça, violar direito previsto nas Constituições Federal e Estadual e nesta Lei Orgânica.</p>\n<p><b>§ 8º</b> – Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente que, no Município, é o Prefeito ou aquele a quem delegar a atribuição. clubes, bares e outros estabelecimentos que pratiquem tais atos.</p>\n<p><b>Art. 6º</b> – Ao Município é vedado:</p>\n<p>I – estabelecer culto religioso ou igreja, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou com seus representantes relações de dependência ou aliança, ressalvada, na forma da lei, a colaboração de interesse público;</p>\n<p>II – recusar fé a documentos públicos;</p>\n<p>III – criar distinção entre brasileiros ou preferência em relação às demais unidades da Federação.</p>\n<h3>TÍTULO III Da organização do Município</h3>\n<h3>CAPÍTULO I Disposições Gerais</h3>\n<p><b>Art. 7º</b> – São poderes do Município, independentes e harmônicos entre si, o Legislativo e o Executivo.</p>\n<p><b>Parágrafo Único</b> – Salvo as exceções previstas nesta Lei Orgânica, é vedado a quaisquer dos poderes delegar atribuições e, a quem for investido na função de um deles, exercer a de outro.</p>\n<p><b>Art. 8º</b> – A autonomia do Município se configura, especialmente, pela:</p>\n<p>I – elaboração e promulgação da Lei Orgânica;</p>\n<p>II – eleição do Prefeito, Vice – Prefeito e Vereadores;</p>\n<p>III – organização do seu governo e administração.</p>\n<p>IV– legislar sobre assuntos de interesse local e suplementar as legislações federal e estadual no que couber.</p>\n<p><b>Art. 9º</b> – São símbolos do Município a bandeira, o hino e o brasão.</p>\n<p><b>Art. 10</b> – O Distrito de Belo Vale é a sede do Município e lhe dá o nome.</p>\n<p><b>Art. 11</b> – Depende de lei a criação, organização e supressão de distritos ou subdistritos, observada, quanto àqueles, a legislação estadual.</p>\n<h3>CAPÍTULO II Da Competência do Município</h3>\n<p><b>Art. 12</b> – Compete ao Município prover a tudo quanto respeita ao seu interesse local, tendo como objetivos o pleno desenvolvimento de suas funções sociais e a garantia do bem-estar de seus habitantes.</p>\n<p><b>Art. 13</b> – Compete ao município, dentre outras atribuições:</p>\n<p>I – manter relações com a União, os Estados Federados, o Distrito Federal e os demais Municípios;</p>\n<p>II – organizar, regulamentar e executar seus serviços administrativos;</p>\n<p>III – firmar acordo, convênio, ajuste e instrumentos congêneres;</p>\n<p>IV – difundir a seguridade social, a educação, a cultura, o desporto, a ciência e a tecnologia;</p>\n<p>V – criar, organizar e suprimir distritos, observada a legislação estadual;</p>\n<p>VI - proteger o meio ambiente;</p>\n<p>VII – instituir, decretar e arrecadar os tributos de sua competência e aplicar as suas receitas, sem prejuízo da obrigatoriedade de prestar contas e publicar balancetes;</p>\n<p>VIII – organizar e prestar, diretamente ou sob regime de concessão ou permissão, os serviços públicos de interesse local, incluindo o de transporte coletivo, que tem caráter essencial;</p>\n<p>IX – promover adequado ordenamento territorial, mediante planejamento e controle do parcelamento, da ocupação e do uso do solo;</p>\n<p>X – administrar seus bens, adquiri-los e aliená-los, aceitar doações, legados e heranças, e dispor de sua aplicação;</p>\n<p>XI – desapropriar, por necessidade ou utilidade pública, ou por interesse social, nos casos previstos em lei;</p>\n<p>XII - estabelecer servidões administrativas necessárias à realização de seus serviços, inclusive os prestados mediante delegação, e, em caso de iminente perigo ou calamidade pública, ocupar e usar de propriedade particular, bens e serviços, assegurada indenização ulterior, se houver dano;</p>\n<p>XIII – estabelecer os quadros e o regime jurídico único de seus servidores;</p>\n<p>XIV - associar-se a outros municípios do mesmo complexo geoeconômico e social, mediante convênio previamente aprovado pela Câmara, para a gestão, sob planejamento, de funções públicas ou serviços de interesse comum, de forma permanente ou transitória;</p>\n<p>XV – cooperar com a União e o Estado nos termos de convênio ou consórcio previamente aprovado pela Câmara, para a gestão, sobre planejamento, de funções públicas ou serviços de interesse comum, de forma permanente ou transitória;</p>\n<p>XVI – participar, autorizado por lei municipal, de entidade intermunicipal para a realização de obra, exercício de atividade ou execução do serviço de interesse comum;</p>\n<p>XVII - interditar edificações em ruínas ou em condições de insalubridade e as que apresentem as irregularidades previstas na legislação específica, bem como fazer demolir construções que ameacem a segurança individual ou coletiva;</p>\n<p>XVIII - licenciar e fiscalizar, nos locais sujeitos ao seu poder de polícia, a fixação de cartazes, anúncios e quaisquer outros meios de publicidade e propaganda;</p>\n<p>XIX – regulamentar e fiscalizar, na área de sua competência, os jogos esportivos, os espetáculos e os divertimentos públicos;</p>\n<p>XX – regulamentar e fiscalizar a instalação e funcionamento de ascensor;</p>\n<p>XXI – fiscalizar a produção, a conservação, o comércio e o transporte de gênero alimentício e produto farmacêutico, destinados ao abastecimento público, bem como de substância potencialmente nociva ao meio ambiente, à saúde e ao bem-estar da população;</p>\n<p>XXII – licenciar estabelecimento industrial, comercial e outros e cessar o alvará de licença dos que se tornarem danosos ao meio ambiente, à saúde e ao bem-estar da população;</p>\n<p>XXIII – fixar o horário de funcionamento de estabelecimentos referidos no inciso anterior;</p>\n<p>XXIV – administrar o serviço funerário e cemitérios e fiscalizar os que pertencem à entidade privada;</p>\n<p>XXV - regulamentar e fiscalizar o comércio ambulante, inclusive o de papéis e de outros resíduos recicláveis;</p>\n<p>XXVI - estabelecer e impor penalidades por infrações a suas leis e regulamentos.</p>\n<p><b>Art. 14</b> – É competência do Município, comum à União e ao Estado:</p>\n<p>I – zelar pela guarda da Constituição, das leis e das instituições democráticas e conservar o Patrimônio público;</p>\n<p>II – cuidar da saúde e assistência públicas, da proteção e da garantia das pessoas portadoras de deficiência;</p>\n<p>III – impedir, no exercício de poder de polícia administrativa, as atividades que violarem as normas de saúde, sossego, higiene, segurança, funcionalidade, estética, moralidade e outras de interesse da coletividade;</p>\n<p>IV – fomentar as atividades econômicas e estimular, particularmente, o melhor aproveitamento da terra;</p>\n<p>V – impedir a evasão, a destruição e a descaracterização de obras de arte e de outros bens de valor histórico, artístico ou cultural;</p>\n<p>VI – proporcionar os meios de acesso à cultura, à educação e à ciência;</p>\n<p>VII – proteger o meio ambiente e combater a poluição em qualquer de suas formas;</p>\n<p>VIII – preservar as florestas, a fauna e a flora;</p>\n<p>IX – fomentar a produção agropecuária e organizar o abastecimento alimentar;</p>\n<p>X – promover programa de construção de moradias e a melhoria das construções habitacionais e de saneamento básico;</p>\n<p>XI – combater as causas da pobreza e os fatores de marginalização, promovendo integração social dos setores desfavoráveis;</p>\n<p>XII – registrar, acompanhar e fiscalizar as concessões de direito de pesquisa e exploração de recursos hídricos e minerais em seu território;</p>\n<p>XIII – conceder licença, autorização ou permissão e respectiva renovação ou prorrogação, para exploração de portos de areais, obedecida a legislação pertinente;</p>\n<p>XIV – estabelecer e implantar política de educação para segurança do trânsito;</p>\n<p>XV – impedir a exploração de jazidas minerais e de qualquer indústria, no perímetro urbano, com emprego de explosivos ou algo que, de qualquer forma, coloque em risco a vida, o patrimônio público ou privado e o meio ambiente;</p>\n<p>XVI - proteger os documentos, as obras e outros bens de valor histórico, artístico e cultural, os monumentos, as paisagens naturais notáveis e os sítios arqueológicos.</p>\n<p><b>Art. 15</b> – Compete ao Município, suplementarmente, criar e organizar a Guarda Municipal.</p>\n<p><b>Art. 16</b> – Ao Município compete legislar sobre assunto de interesse local e suplementar a legislação Federal e a Estadual no que couber.</p>\n<h3>CAPÍTULO III Do Domínio Público</h3>",
+"quiz": [
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 1), o Município de Belo Vale integra, com autonomia político-administrativa e financeira, a República Federativa do Brasil e o Estado de Minas Gerais.",
+"c": true,
+"prof": "Lei Orgânica, art. 1.",
+"x": "É o que dispõe o art. 1 da Lei Orgânica.",
+"e": "Art. 1."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 2), todo o poder do Município emana do povo, que o exerce diretamente ou por meio de seus representantes eleitos, nos termos da Constituição da República e desta Lei Orgânica.",
+"c": true,
+"prof": "Lei Orgânica, art. 2.",
+"x": "É o que dispõe o art. 2 da Lei Orgânica.",
+"e": "Art. 2."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 2, II), o exercício direto do poder pelo povo no Município se dá, na forma desta Lei Orgânica, mediante referendo.",
+"c": true,
+"prof": "Lei Orgânica, art. 2, II.",
+"x": "É o que dispõe o art. 2, II da Lei Orgânica.",
+"e": "Art. 2, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 2, IV), o exercício direto do poder pelo povo no Município se dá, na forma desta Lei Orgânica, mediante participação em decisão da administração pública.",
+"c": true,
+"prof": "Lei Orgânica, art. 2, IV.",
+"x": "É o que dispõe o art. 2, IV da Lei Orgânica.",
+"e": "Art. 2, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 2, § 2º), o exercício indireto do poder pelo povo se dá por representantes eleitos pelo sufrágio universal e pelo voto direto e secreto, na forma da legislação federal, e por representantes indicados pela comunidade, nos termos desta Lei Orgânica.",
+"c": true,
+"prof": "Lei Orgânica, art. 2, § 2º.",
+"x": "É o que dispõe o art. 2, § 2º da Lei Orgânica.",
+"e": "Art. 2, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 3), o Município concorrerá, nos limites de sua competência, para a consecução dos objetivos fundamentais da República e prioritários do Estado.",
+"c": true,
+"prof": "Lei Orgânica, art. 3.",
+"x": "É o que dispõe o art. 3 da Lei Orgânica.",
+"e": "Art. 3."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 3, II), são objetivos prioritários do Município, além daqueles previstos no art. 166 da Constituição do Estado preservar a sua identidade, adequando as exigências do desenvolvimento à preservação de sua memória, tradição e o bem comum.",
+"c": true,
+"prof": "Lei Orgânica, art. 3, II.",
+"x": "É o que dispõe o art. 3, II da Lei Orgânica.",
+"e": "Art. 3, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 3, IV), são objetivos prioritários do Município, além daqueles previstos no art. 166 da Constituição do Estado priorizar o atendimento das demandas sociais de educação, saúde, transporte, moradia, abastecimento, lazer e assistência social.",
+"c": true,
+"prof": "Lei Orgânica, art. 3, IV.",
+"x": "É o que dispõe o art. 3, IV da Lei Orgânica.",
+"e": "Art. 3, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 3, VI), são objetivos prioritários do Município, além daqueles previstos no art. 166 da Constituição do Estado garantir a efetividade dos direitos públicos subjetivos.",
+"c": true,
+"prof": "Lei Orgânica, art. 3, VI.",
+"x": "É o que dispõe o art. 3, VI da Lei Orgânica.",
+"e": "Art. 3, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 3, VIII), são objetivos prioritários do Município, além daqueles previstos no art. 166 da Constituição do Estado valorizar e desenvolver a sua vocação de centro aglutinador e irradiador da cultura brasileira.",
+"c": true,
+"prof": "Lei Orgânica, art. 3, VIII.",
+"x": "É o que dispõe o art. 3, VIII da Lei Orgânica.",
+"e": "Art. 3, viii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 3, X), são objetivos prioritários do Município, além daqueles previstos no art. 166 da Constituição do Estado promover o bem-estar de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.",
+"c": true,
+"prof": "Lei Orgânica, art. 3, X.",
+"x": "É o que dispõe o art. 3, X da Lei Orgânica.",
+"e": "Art. 3, x."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 4), é mantido o atual território do Município, cujos limites só podem ser alterados nos termos da Constituição do Estado.",
+"c": true,
+"prof": "Lei Orgânica, art. 4.",
+"x": "É o que dispõe o art. 4 da Lei Orgânica.",
+"e": "Art. 4."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 5), o Município assegura, no seu território e nos limites da sua competência, os direitos e garantias fundamentais que as Constituições da República e do Estado conferem aos brasileiros e aos estrangeiros residentes no país.",
+"c": true,
+"prof": "Lei Orgânica, art. 5.",
+"x": "É o que dispõe o art. 5 da Lei Orgânica.",
+"e": "Art. 5."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 5, § 2º), incide na penalidade de destituição de mandado administrativo ou de cargo ou função de direção em órgão ou entidade da administração pública, o agente público que deixar injustificadamente de sanar, dentro de sessenta dias da data do requerimento do interessado, omissão que inviabilize o exercício de direito constitucional.",
+"c": true,
+"prof": "Lei Orgânica, art. 5, § 2º.",
+"x": "É o que dispõe o art. 5, § 2º da Lei Orgânica.",
+"e": "Art. 5, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 5, § 5º), independente de pagamento de taxa ou de emolumento ou de garantia de instância, o exercício do direito de petição ou representação bem como a obtenção de certidão, no prazo máximo de trinta dias, para a defesa de direitos ou esclarecimentos de interesse pessoal ou coletivo.",
+"c": true,
+"prof": "Lei Orgânica, art. 5, § 5º.",
+"x": "É o que dispõe o art. 5, § 5º da Lei Orgânica.",
+"e": "Art. 5, § 5º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 6, I), ao Município é vedado estabelecer culto religioso ou igreja, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou com seus representantes relações de dependência ou aliança, ressalvada, na forma da lei, a colaboração de interesse público.",
+"c": true,
+"prof": "Lei Orgânica, art. 6, I.",
+"x": "É o que dispõe o art. 6, I da Lei Orgânica.",
+"e": "Art. 6, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 7), são poderes do Município, independentes e harmônicos entre si, o Legislativo e o Executivo.",
+"c": true,
+"prof": "Lei Orgânica, art. 7.",
+"x": "É o que dispõe o art. 7 da Lei Orgânica.",
+"e": "Art. 7."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 8, I), a autonomia do Município se configura, especialmente, pela elaboração e promulgação da Lei Orgânica.",
+"c": true,
+"prof": "Lei Orgânica, art. 8, I.",
+"x": "É o que dispõe o art. 8, I da Lei Orgânica.",
+"e": "Art. 8, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 8, III), a autonomia do Município se configura, especialmente, pela organização do seu governo e administração.",
+"c": true,
+"prof": "Lei Orgânica, art. 8, III.",
+"x": "É o que dispõe o art. 8, III da Lei Orgânica.",
+"e": "Art. 8, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 10), o Distrito de Belo Vale é a sede do Município e lhe dá o nome.",
+"c": true,
+"prof": "Lei Orgânica, art. 10.",
+"x": "É o que dispõe o art. 10 da Lei Orgânica.",
+"e": "Art. 10."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 12), compete ao Município prover a tudo quanto respeita ao seu interesse local, tendo como objetivos o pleno desenvolvimento de suas funções sociais e a garantia do bem-estar de seus habitantes.",
+"c": true,
+"prof": "Lei Orgânica, art. 12.",
+"x": "É o que dispõe o art. 12 da Lei Orgânica.",
+"e": "Art. 12."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, II), compete ao município, dentre outras atribuições organizar, regulamentar e executar seus serviços administrativos.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, II.",
+"x": "É o que dispõe o art. 13, II da Lei Orgânica.",
+"e": "Art. 13, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, IV), compete ao município, dentre outras atribuições difundir a seguridade social, a educação, a cultura, o desporto, a ciência e a tecnologia.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, IV.",
+"x": "É o que dispõe o art. 13, IV da Lei Orgânica.",
+"e": "Art. 13, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, VI), compete ao município, dentre outras atribuições proteger o meio ambiente.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, VI.",
+"x": "É o que dispõe o art. 13, VI da Lei Orgânica.",
+"e": "Art. 13, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, VIII), compete ao município, dentre outras atribuições organizar e prestar, diretamente ou sob regime de concessão ou permissão, os serviços públicos de interesse local, incluindo o de transporte coletivo, que tem caráter essencial.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, VIII.",
+"x": "É o que dispõe o art. 13, VIII da Lei Orgânica.",
+"e": "Art. 13, viii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, X), compete ao município, dentre outras atribuições administrar seus bens, adquiri-los e aliená-los, aceitar doações, legados e heranças, e dispor de sua aplicação.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, X.",
+"x": "É o que dispõe o art. 13, X da Lei Orgânica.",
+"e": "Art. 13, x."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, XIII), compete ao município, dentre outras atribuições estabelecer os quadros e o regime jurídico único de seus servidores.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, XIII.",
+"x": "É o que dispõe o art. 13, XIII da Lei Orgânica.",
+"e": "Art. 13, xiii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, XV), compete ao município, dentre outras atribuições cooperar com a União e o Estado nos termos de convênio ou consórcio previamente aprovado pela Câmara, para a gestão, sobre planejamento, de funções públicas ou serviços de interesse comum, de forma permanente ou transitória.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, XV.",
+"x": "É o que dispõe o art. 13, XV da Lei Orgânica.",
+"e": "Art. 13, xv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, XVIII), compete ao município, dentre outras atribuições licenciar e fiscalizar, nos locais sujeitos ao seu poder de polícia, a fixação de cartazes, anúncios e quaisquer outros meios de publicidade e propaganda.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, XVIII.",
+"x": "É o que dispõe o art. 13, XVIII da Lei Orgânica.",
+"e": "Art. 13, xviii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, XX), compete ao município, dentre outras atribuições regulamentar e fiscalizar a instalação e funcionamento de ascensor.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, XX.",
+"x": "É o que dispõe o art. 13, XX da Lei Orgânica.",
+"e": "Art. 13, xx."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, XXII), compete ao município, dentre outras atribuições licenciar estabelecimento industrial, comercial e outros e cessar o alvará de licença dos que se tornarem danosos ao meio ambiente, à saúde e ao bem-estar da população.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, XXII.",
+"x": "É o que dispõe o art. 13, XXII da Lei Orgânica.",
+"e": "Art. 13, xxii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, XXIV), compete ao município, dentre outras atribuições administrar o serviço funerário e cemitérios e fiscalizar os que pertencem à entidade privada.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, XXIV.",
+"x": "É o que dispõe o art. 13, XXIV da Lei Orgânica.",
+"e": "Art. 13, xxiv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 13, XXVI), compete ao município, dentre outras atribuições estabelecer e impor penalidades por infrações a suas leis e regulamentos.",
+"c": true,
+"prof": "Lei Orgânica, art. 13, XXVI.",
+"x": "É o que dispõe o art. 13, XXVI da Lei Orgânica.",
+"e": "Art. 13, xxvi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 14, II), é competência do Município, comum à União e ao Estado cuidar da saúde e assistência públicas, da proteção e da garantia das pessoas portadoras de deficiência.",
+"c": true,
+"prof": "Lei Orgânica, art. 14, II.",
+"x": "É o que dispõe o art. 14, II da Lei Orgânica.",
+"e": "Art. 14, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 14, IV), é competência do Município, comum à União e ao Estado fomentar as atividades econômicas e estimular, particularmente, o melhor aproveitamento da terra.",
+"c": true,
+"prof": "Lei Orgânica, art. 14, IV.",
+"x": "É o que dispõe o art. 14, IV da Lei Orgânica.",
+"e": "Art. 14, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 14, VI), é competência do Município, comum à União e ao Estado proporcionar os meios de acesso à cultura, à educação e à ciência.",
+"c": true,
+"prof": "Lei Orgânica, art. 14, VI.",
+"x": "É o que dispõe o art. 14, VI da Lei Orgânica.",
+"e": "Art. 14, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 14, VIII), é competência do Município, comum à União e ao Estado preservar as florestas, a fauna e a flora.",
+"c": true,
+"prof": "Lei Orgânica, art. 14, VIII.",
+"x": "É o que dispõe o art. 14, VIII da Lei Orgânica.",
+"e": "Art. 14, viii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 14, X), é competência do Município, comum à União e ao Estado promover programa de construção de moradias e a melhoria das construções habitacionais e de saneamento básico.",
+"c": true,
+"prof": "Lei Orgânica, art. 14, X.",
+"x": "É o que dispõe o art. 14, X da Lei Orgânica.",
+"e": "Art. 14, x."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 14, XII), é competência do Município, comum à União e ao Estado registrar, acompanhar e fiscalizar as concessões de direito de pesquisa e exploração de recursos hídricos e minerais em seu território.",
+"c": true,
+"prof": "Lei Orgânica, art. 14, XII.",
+"x": "É o que dispõe o art. 14, XII da Lei Orgânica.",
+"e": "Art. 14, xii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 14, XIV), é competência do Município, comum à União e ao Estado estabelecer e implantar política de educação para segurança do trânsito.",
+"c": true,
+"prof": "Lei Orgânica, art. 14, XIV.",
+"x": "É o que dispõe o art. 14, XIV da Lei Orgânica.",
+"e": "Art. 14, xiv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 14, XVI), é competência do Município, comum à União e ao Estado proteger os documentos, as obras e outros bens de valor histórico, artístico e cultural, os monumentos, as paisagens naturais notáveis e os sítios arqueológicos.",
+"c": true,
+"prof": "Lei Orgânica, art. 14, XVI.",
+"x": "É o que dispõe o art. 14, XVI da Lei Orgânica.",
+"e": "Art. 14, xvi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 1), o Município de Belo Vale não integra, com autonomia político-administrativa e financeira, a República Federativa do Brasil e o Estado de Minas Gerais.",
+"c": false,
+"prof": "Lei Orgânica, art. 1.",
+"x": "O art. 1 afirma o contrário: O Município de Belo Vale integra, com autonomia político-administrativa e financeira, a República Federativa do Brasil e o Estado de Minas Gerais.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 4), é mantido o atual território do Município, cujos limites só não podem ser alterados nos termos da Constituição do Estado.",
+"c": false,
+"prof": "Lei Orgânica, art. 4.",
+"x": "O art. 4 afirma o contrário: É mantido o atual território do Município, cujos limites só podem ser alterados nos termos da Constituição do Estado.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 5), o Município não assegura, no seu território e nos limites da sua competência, os direitos e garantias fundamentais que as Constituições da República e do Estado conferem aos brasileiros e aos estrangeiros residentes no país.",
+"c": false,
+"prof": "Lei Orgânica, art. 5.",
+"x": "O art. 5 afirma o contrário: O Município assegura, no seu território e nos limites da sua competência, os direitos e garantias fundamentais que as Constituições da República e do Estado conferem aos brasileiros e aos estrangeiros residentes no país.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 5, § 1º), nenhuma pessoa não será discriminada, ou de qualquer forma prejudicada, pelo fato de litigar com órgãos ou entidades municipais, no âmbito administrativo ou judicial.",
+"c": false,
+"prof": "Lei Orgânica, art. 5, § 1º.",
+"x": "O art. 5, § 1º afirma o contrário: Nenhuma pessoa será discriminada, ou de qualquer forma prejudicada, pelo fato de litigar com órgãos ou entidades municipais, no âmbito administrativo ou judicial.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 5, § 2º), incide na penalidade de destituição de mandado administrativo ou de cargo ou função de direção em órgão ou entidade da administração pública, o agente público que deixar injustificadamente de sanar, dentro de noventa dias da data do requerimento do interessado, omissão que inviabilize o exercício de direito constitucional.",
+"c": false,
+"prof": "Lei Orgânica, art. 5, § 2º.",
+"x": "O art. 5, § 2º diz \"sessenta dias\", e não \"noventa dias\".",
+"e": "Sessenta dias."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 5, § 5º), independente de pagamento de taxa ou de emolumento ou de garantia de instância, o exercício do direito de petição ou representação bem como a obtenção de certidão, no prazo máximo de sessenta dias, para a defesa de direitos ou esclarecimentos de interesse pessoal ou coletivo.",
+"c": false,
+"prof": "Lei Orgânica, art. 5, § 5º.",
+"x": "O art. 5, § 5º diz \"trinta dias\", e não \"sessenta dias\".",
+"e": "Trinta dias."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 6, I), ao Município é permitido estabelecer culto religioso ou igreja, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou com seus representantes relações de dependência ou aliança, ressalvada, na forma da lei, a colaboração de interesse público.",
+"c": false,
+"prof": "Lei Orgânica, art. 6, I.",
+"x": "O art. 6, I diz \"é vedado\", e não \"é permitido\".",
+"e": "É vedado."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 6, III), ao Município é permitido criar distinção entre brasileiros ou preferência em relação às demais unidades da Federação.",
+"c": false,
+"prof": "Lei Orgânica, art. 6, III.",
+"x": "O art. 6, III diz \"é vedado\", e não \"é permitido\".",
+"e": "É vedado."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 7, Parágrafo Único), salvo as exceções previstas nesta Lei Orgânica, é permitido a quaisquer dos poderes delegar atribuições e, a quem for investido na função de um deles, exercer a de outro.",
+"c": false,
+"prof": "Lei Orgânica, art. 7, Parágrafo Único.",
+"x": "O art. 7, Parágrafo Único diz \"é vedado\", e não \"é permitido\".",
+"e": "É vedado."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 10), o Distrito de Belo Vale não é a sede do Município e lhe dá o nome.",
+"c": false,
+"prof": "Lei Orgânica, art. 10.",
+"x": "O art. 10 afirma o contrário: O Distrito de Belo Vale é a sede do Município e lhe dá o nome.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 16), ao Município não compete legislar sobre assunto de interesse local e suplementar a legislação Federal e a Estadual no que couber.",
+"c": false,
+"prof": "Lei Orgânica, art. 16.",
+"x": "O art. 16 afirma o contrário: Ao Município compete legislar sobre assunto de interesse local e suplementar a legislação Federal e a Estadual no que couber.",
+"e": "Afirmação, não negação."
+}
+]
+},
+"lom-bens-servicos": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>17–29</b><span>artigos da Lei Orgânica reproduzidos na íntegra neste tópico</span></div><div class=\"lt-stat\"><b>52</b><span>questões novas de lei seca (certo ou errado)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: a banca copia a lei e troca uma palavra (prazo, quórum, competência, \"pode\" por \"deve\")</span></div></div>\n<h3>Como estudar este tópico</h3>\n<ul><li>Este tópico traz o <b>texto integral</b> dos <b>arts. 17 a 29</b> da <b>Lei Orgânica do Município de Belo Vale</b> (Lei nº 806/1990, edição atualizada em 2012), exigida no edital do concurso de Belo Vale (Legislação Municipal). O resumo comentado que estava aqui antes continua disponível na <b>Leitura complementar</b>, no fim da página.</li><li><b>Método de leitura de lei seca</b>: leia cada artigo prestando atenção a <b>quem</b> faz (Prefeito, Câmara, Mesa, Município), <b>o que</b> faz, <b>em que prazo</b> e <b>com qual quórum</b>. São exatamente esses elementos que as bancas trocam nas questões de certo ou errado.</li><li><b>Marque as palavras de alcance</b>: \"privativamente\", \"exclusivamente\", \"vedado\", \"poderá\" x \"deverá\", \"maioria absoluta\" x \"dois terços\", \"dias\" x \"dias úteis\". Uma única troca torna a assertiva errada.</li><li>As questões deste tópico foram montadas <b>a partir do próprio texto da lei</b>: as certas reproduzem o dispositivo; as erradas alteram um prazo, um quórum, uma competência ou negam o que a lei afirma. O comentário de cada questão indica o artigo correspondente.</li></ul>\n<h3>Estrutura do trecho</h3>\n<ul><li>CAPÍTULO III Do Domínio Público</li><li>CAPÍTULO IV Dos Serviços e Obras Públicas</li><li>CAPÍTULO V Da Administração Pública</li></ul>\n<h3>Texto integral da Lei Orgânica (arts. 17 a 29)</h3>\n<h3>CAPÍTULO III Do Domínio Público</h3>\n<p><b>Art. 17</b> – Constituem bens municipais todas as coisas móveis e imóveis, direitos e ações que, a qualquer título, pertençam ao Município.</p>\n<p><b>Parágrafo Único</b> – O Poder Executivo reavaliará, através da Comissão Especial, todo mês de dezembro, os bens móveis e imóveis que compõem o acervo patrimonial do Município.</p>\n<p><b>Art. 18</b> – Cabe ao Prefeito a administração dos bens municipais, respeitada a competência da Câmara quanto àqueles utilizados em seus serviços.</p>\n<p><b>Art. 19</b> – A aquisição de bem imóvel, a título oneroso, depende de avaliação prévia e de autorização legislativa.</p>\n<p><b>Art. 20</b> – São intransferíveis os bens públicos, não edificados, salvo os casos de implantação de programas de habitação, mediante autorização legislativa.</p>\n<p><b>§ 1º</b> – São também intransferíveis os bens imóveis públicos, edificados ou não, utilizados pela população em atividades de lazer, esporte e cultura, os quais somente poderão ser destinados a outros fins, se o interesse público o justificar e mediante autorização legislativa.</p>\n<p><b>§ 2º</b> – A transferência de bem imóvel público edificado, ressalvado o disposto no parágrafo anterior, depende de avaliação prévia, licitação e aprovação legislativa.</p>\n<p><b>§ 3º</b> – A autorização legislativa mencionada no artigo é sempre prévia e depende do voto da maioria dos membros da Câmara.</p>\n<p><b>§ 4º</b> – A venda aos proprietários de imóveis lindeiros de áreas urbanas remanescentes e inaproveitáveis para edificação de outra destinação de interesse coletivo, resultante de obra pública, dependerá apenas de prévia avaliação e autorização legislativa. As áreas resultantes de modificação de alinhamento serão alienadas, obedecidas as mesmas condições.</p>\n<p><b>§ 5º</b> – É defeso a doação de bens municipais.</p>\n<p><b>Art. 21</b> – Os bens imóveis públicos edificados, de valor histórico, arquitetônico ou artístico, somente podem ser utilizados mediante autorização para finalidade cultural.</p>\n<p><b>Art. 22</b> – Os bens do patrimônio municipal devem ser cadastrados, zelados e tecnicamente identificados, especialmente as edificações de interesse administrativo, as terras públicas e a documentação dos serviços públicos.</p>\n<p><b>Parágrafo Único</b> - O cadastramento e a identificação técnica dos imóveis do Município, de que trata o artigo, devem ser anualmente atualizados, garantindo o acesso às informações neles contidas.</p>\n<p><b>Art. 23</b> – É vedado ao Poder Público edificar, descaracterizar ou abrir vias públicas em praças, parques, reservas ecológicas e espaços do Município, ressalvadas as construções estritamente necessárias à preservação e ao aperfeiçoamento das mencionadas áreas.</p>\n<p><b>Art. 24</b> – O disposto nesta seção se aplicará às autarquias e às fundações públicas.</p>\n<h3>CAPÍTULO IV Dos Serviços e Obras Públicas</h3>\n<p><b>Art. 25</b> – Os serviços de utilidade pública, essenciais ao bem-estar da população são de responsabilidade do Município e classificam-se nas seguintes categorias:</p>\n<p>I – serviços de água e esgotos;</p>\n<p>II – serviços de iluminação e distribuição de energia;</p>\n<p>III – serviços de comunicações;</p>\n<p>IV – serviços de transportes coletivos;</p>\n<p>V – serviços de limpeza e higiene de vias e logradouros públicos;</p>\n<p>VI – serviços funerários.</p>\n<p><b>Art. 26</b> – No exercício de sua competência para organizar e regulamentar os serviços públicos, o Município observará os requisitos de comodidade, conforto e bem- estar dos usuários.</p>\n<p><b>Art. 27</b> – A Lei Municipal disporá sobre a organização, funcionamento e fiscalização dos serviços públicos e de utilização pública de interesse local, prestados sob regime de concessão ou permissão, incumbindo aos que os executarem sua permanente atualização e adequações às necessidades dos usuários.</p>\n<p><b>§ 1º</b> – O Município poderá retomar, sem indenização, os serviços permitidos ou concedidos, desde que:</p>\n<p>I – sejam executados em desacordo com o termo ou contrato, ou que se revelarem insuficientes para o atendimento dos usuários;</p>\n<p>II – haja ocorrência de paralisação unilateral dos serviços por parte dos concessionários ou permissionários;</p>\n<p>III – seja estabelecida a prestação direta do serviço pelo Município.</p>\n<p><b>§ 2º</b> – A permissão de serviço de utilidade pública, sempre a título precário, será autorizada por decreto, após edital de chamamento de interessados para a escolha do melhor, procedendo-se às licitações com estrita observância da legislação pertinente.</p>\n<p><b>§ 3º</b> – A concessão só será feita com autorização legislativa, mediante contrato, observada a Legislação específica de licitação e contratação.</p>\n<p><b>§ 4º</b> – Os delegatários de serviços públicos sujeitar-se-ão à regulamentação específica e ao controle tarifário do Município.</p>\n<p><b>§ 5º</b> – Em todo ato de permissão ou contrato de concessão, o Município se reservará o direito de averiguar a regularidade do cumprimento da legislação trabalhista pelo concessionário ou permissionário.</p>\n<p><b>Art. 28</b> – A Lei disporá sobre:</p>\n<p>I – o regime dos concessionários e permissionários de serviços públicos ou de utilidade pública, o caráter especial de seu contrato e de sua prorrogação e as condições de caducidade, fiscalização e rescisão da concessão ou permissão;</p>\n<p>II – os direitos dos usuários;</p>\n<p>III – a política tarifária;</p>\n<p>IV – a obrigação de manter o serviço adequado;</p>\n<p>V – as reclamações relativas à prestação de serviços públicos ou de utilidade pública;</p>\n<p>VI – o tratamento especial em favor do usuário de baixa renda.</p>\n<p><b>Parágrafo Único</b> – É facultado ao Poder Público ocupar e usar temporariamente bens e serviços, na hipótese de iminente perigo ou calamidade pública, situação em que o Município, responderá pela indenização em dinheiro e imediatamente após a cessação do evento, dos custos e danos decorrentes.</p>\n<p><b>Art. 29</b> – A competência do Município para realização de obras públicas abrange:</p>\n<p>I – a construção de edifícios públicos;</p>\n<p>II – a construção de obras e instalações para implantação e prestação de serviços necessários ou úteis à comunidade;</p>\n<p>III – a execução de quaisquer outras obras destinadas a assegurar funcionalidade e o bom aspecto da cidade.</p>\n<p><b>§ 1º</b> – A obra pública poderá ser executada diretamente por órgão ou entidade da administração pública e, indiretamente, por terceiros mediante licitação.</p>\n<p><b>§ 2º</b> – A execução direta de obra pública não dispensa a licitação para aquisição do material a ser empregado.</p>\n<p><b>§ 3º</b> – A realização de obra pública municipal deverá estar adequada ao plano plurianual, às diretrizes orçamentárias e será precedida de projeto elaborado segundo as normas técnicas adequadas.</p>\n<p><b>§ 4º</b> - A construção de edifícios e obras deverá se submeter aos princípios de economicidade, simplicidade e adequação ao espaço circunvizinho e ao meio ambiente, e se sujeitará às exigências e limitações constantes do Código de Obras.</p>\n<p><b>§ 5º</b> – A Câmara se manifestará, previamente, sobre a construção de obra pública pela União ou pelo Estado, no território do Município.</p>\n<p><b>§ 6º</b> – Será responsabilizado o Prefeito que não esgotar as medidas ao seu alcance, inclusive judiciais, para compelir as empresas contratadas para execução de obras públicas que não as tenham executado em conformidade com o contrato ou as tenham executado irregularmente, objetivando sua reparação, refazimento ou indenização na forma da Lei.</p>\n<p><b>§ 7º</b> – O disposto no artigo aplica-se também às empresas prestadoras de serviços.</p>\n<h3>CAPÍTULO V Da Administração Pública</h3>",
+"quiz": [
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 17), constituem bens municipais todas as coisas móveis e imóveis, direitos e ações que, a qualquer título, pertençam ao Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 17.",
+"x": "É o que dispõe o art. 17 da Lei Orgânica.",
+"e": "Art. 17."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 17, Parágrafo Único), o Poder Executivo reavaliará, através da Comissão Especial, todo mês de dezembro, os bens móveis e imóveis que compõem o acervo patrimonial do Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 17, Parágrafo Único.",
+"x": "É o que dispõe o art. 17, Parágrafo Único da Lei Orgânica.",
+"e": "Art. 17, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 18), cabe ao Prefeito a administração dos bens municipais, respeitada a competência da Câmara quanto àqueles utilizados em seus serviços.",
+"c": true,
+"prof": "Lei Orgânica, art. 18.",
+"x": "É o que dispõe o art. 18 da Lei Orgânica.",
+"e": "Art. 18."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 20), são intransferíveis os bens públicos, não edificados, salvo os casos de implantação de programas de habitação, mediante autorização legislativa.",
+"c": true,
+"prof": "Lei Orgânica, art. 20.",
+"x": "É o que dispõe o art. 20 da Lei Orgânica.",
+"e": "Art. 20."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 20, § 1º), são também intransferíveis os bens imóveis públicos, edificados ou não, utilizados pela população em atividades de lazer, esporte e cultura, os quais somente poderão ser destinados a outros fins, se o interesse público o justificar e mediante autorização legislativa.",
+"c": true,
+"prof": "Lei Orgânica, art. 20, § 1º.",
+"x": "É o que dispõe o art. 20, § 1º da Lei Orgânica.",
+"e": "Art. 20, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 20, § 3º), a autorização legislativa mencionada no artigo é sempre prévia e depende do voto da maioria dos membros da Câmara.",
+"c": true,
+"prof": "Lei Orgânica, art. 20, § 3º.",
+"x": "É o que dispõe o art. 20, § 3º da Lei Orgânica.",
+"e": "Art. 20, § 3º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 21), os bens imóveis públicos edificados, de valor histórico, arquitetônico ou artístico, somente podem ser utilizados mediante autorização para finalidade cultural.",
+"c": true,
+"prof": "Lei Orgânica, art. 21.",
+"x": "É o que dispõe o art. 21 da Lei Orgânica.",
+"e": "Art. 21."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 22), os bens do patrimônio municipal devem ser cadastrados, zelados e tecnicamente identificados, especialmente as edificações de interesse administrativo, as terras públicas e a documentação dos serviços públicos.",
+"c": true,
+"prof": "Lei Orgânica, art. 22.",
+"x": "É o que dispõe o art. 22 da Lei Orgânica.",
+"e": "Art. 22."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 23), é vedado ao Poder Público edificar, descaracterizar ou abrir vias públicas em praças, parques, reservas ecológicas e espaços do Município, ressalvadas as construções estritamente necessárias à preservação e ao aperfeiçoamento das mencionadas áreas.",
+"c": true,
+"prof": "Lei Orgânica, art. 23.",
+"x": "É o que dispõe o art. 23 da Lei Orgânica.",
+"e": "Art. 23."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 24), o disposto nesta seção se aplicará às autarquias e às fundações públicas.",
+"c": true,
+"prof": "Lei Orgânica, art. 24.",
+"x": "É o que dispõe o art. 24 da Lei Orgânica.",
+"e": "Art. 24."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 25, II), os serviços de utilidade pública, essenciais ao bem-estar da população são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de iluminação e distribuição de energia.",
+"c": true,
+"prof": "Lei Orgânica, art. 25, II.",
+"x": "É o que dispõe o art. 25, II da Lei Orgânica.",
+"e": "Art. 25, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 25, III), os serviços de utilidade pública, essenciais ao bem-estar da população são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de comunicações.",
+"c": true,
+"prof": "Lei Orgânica, art. 25, III.",
+"x": "É o que dispõe o art. 25, III da Lei Orgânica.",
+"e": "Art. 25, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 25, IV), os serviços de utilidade pública, essenciais ao bem-estar da população são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de transportes coletivos.",
+"c": true,
+"prof": "Lei Orgânica, art. 25, IV.",
+"x": "É o que dispõe o art. 25, IV da Lei Orgânica.",
+"e": "Art. 25, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 25, VI), os serviços de utilidade pública, essenciais ao bem-estar da população são de responsabilidade do Município e classificam-se nas seguintes categorias serviços funerários.",
+"c": true,
+"prof": "Lei Orgânica, art. 25, VI.",
+"x": "É o que dispõe o art. 25, VI da Lei Orgânica.",
+"e": "Art. 25, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 26), no exercício de sua competência para organizar e regulamentar os serviços públicos, o Município observará os requisitos de comodidade, conforto e bem- estar dos usuários.",
+"c": true,
+"prof": "Lei Orgânica, art. 26.",
+"x": "É o que dispõe o art. 26 da Lei Orgânica.",
+"e": "Art. 26."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 27, I), o Município poderá retomar, sem indenização, os serviços permitidos ou concedidos, desde que sejam executados em desacordo com o termo ou contrato, ou que se revelarem insuficientes para o atendimento dos usuários.",
+"c": true,
+"prof": "Lei Orgânica, art. 27, I.",
+"x": "É o que dispõe o art. 27, I da Lei Orgânica.",
+"e": "Art. 27, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 27, II), o Município poderá retomar, sem indenização, os serviços permitidos ou concedidos, desde que haja ocorrência de paralisação unilateral dos serviços por parte dos concessionários ou permissionários.",
+"c": true,
+"prof": "Lei Orgânica, art. 27, II.",
+"x": "É o que dispõe o art. 27, II da Lei Orgânica.",
+"e": "Art. 27, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 27, III), o Município poderá retomar, sem indenização, os serviços permitidos ou concedidos, desde que seja estabelecida a prestação direta do serviço pelo Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 27, III.",
+"x": "É o que dispõe o art. 27, III da Lei Orgânica.",
+"e": "Art. 27, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 27, § 3º), a concessão só será feita com autorização legislativa, mediante contrato, observada a Legislação específica de licitação e contratação.",
+"c": true,
+"prof": "Lei Orgânica, art. 27, § 3º.",
+"x": "É o que dispõe o art. 27, § 3º da Lei Orgânica.",
+"e": "Art. 27, § 3º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 27, § 4º), os delegatários de serviços públicos sujeitar-se-ão à regulamentação específica e ao controle tarifário do Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 27, § 4º.",
+"x": "É o que dispõe o art. 27, § 4º da Lei Orgânica.",
+"e": "Art. 27, § 4º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 28, I), a Lei disporá sobre o regime dos concessionários e permissionários de serviços públicos ou de utilidade pública, o caráter especial de seu contrato e de sua prorrogação e as condições de caducidade, fiscalização e rescisão da concessão ou permissão.",
+"c": true,
+"prof": "Lei Orgânica, art. 28, I.",
+"x": "É o que dispõe o art. 28, I da Lei Orgânica.",
+"e": "Art. 28, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 28, IV), a Lei disporá sobre a obrigação de manter o serviço adequado.",
+"c": true,
+"prof": "Lei Orgânica, art. 28, IV.",
+"x": "É o que dispõe o art. 28, IV da Lei Orgânica.",
+"e": "Art. 28, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 28, V), a Lei disporá sobre as reclamações relativas à prestação de serviços públicos ou de utilidade pública.",
+"c": true,
+"prof": "Lei Orgânica, art. 28, V.",
+"x": "É o que dispõe o art. 28, V da Lei Orgânica.",
+"e": "Art. 28, v."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 28, Parágrafo Único), é facultado ao Poder Público ocupar e usar temporariamente bens e serviços, na hipótese de iminente perigo ou calamidade pública, situação em que o Município, responderá pela indenização em dinheiro e imediatamente após a cessação do evento, dos custos e danos decorrentes.",
+"c": true,
+"prof": "Lei Orgânica, art. 28, Parágrafo Único.",
+"x": "É o que dispõe o art. 28, Parágrafo Único da Lei Orgânica.",
+"e": "Art. 28, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 29, I), a competência do Município para realização de obras públicas abrange a construção de edifícios públicos.",
+"c": true,
+"prof": "Lei Orgânica, art. 29, I.",
+"x": "É o que dispõe o art. 29, I da Lei Orgânica.",
+"e": "Art. 29, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 29, III), a competência do Município para realização de obras públicas abrange a execução de quaisquer outras obras destinadas a assegurar funcionalidade e o bom aspecto da cidade.",
+"c": true,
+"prof": "Lei Orgânica, art. 29, III.",
+"x": "É o que dispõe o art. 29, III da Lei Orgânica.",
+"e": "Art. 29, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 29, § 1º), a obra pública poderá ser executada diretamente por órgão ou entidade da administração pública e, indiretamente, por terceiros mediante licitação.",
+"c": true,
+"prof": "Lei Orgânica, art. 29, § 1º.",
+"x": "É o que dispõe o art. 29, § 1º da Lei Orgânica.",
+"e": "Art. 29, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 29, § 2º), a execução direta de obra pública não dispensa a licitação para aquisição do material a ser empregado.",
+"c": true,
+"prof": "Lei Orgânica, art. 29, § 2º.",
+"x": "É o que dispõe o art. 29, § 2º da Lei Orgânica.",
+"e": "Art. 29, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 29, § 4º), a construção de edifícios e obras deverá se submeter aos princípios de economicidade, simplicidade e adequação ao espaço circunvizinho e ao meio ambiente, e se sujeitará às exigências e limitações constantes do Código de Obras.",
+"c": true,
+"prof": "Lei Orgânica, art. 29, § 4º.",
+"x": "É o que dispõe o art. 29, § 4º da Lei Orgânica.",
+"e": "Art. 29, § 4º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 29, § 5º), a Câmara se manifestará, previamente, sobre a construção de obra pública pela União ou pelo Estado, no território do Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 29, § 5º.",
+"x": "É o que dispõe o art. 29, § 5º da Lei Orgânica.",
+"e": "Art. 29, § 5º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 19), a aquisição de bem imóvel, a título oneroso, não depende de avaliação prévia e de autorização legislativa.",
+"c": false,
+"prof": "Lei Orgânica, art. 19.",
+"x": "O art. 19 afirma o contrário: A aquisição de bem imóvel, a título oneroso, depende de avaliação prévia e de autorização legislativa.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 20, § 2º), a transferência de bem imóvel público edificado, ressalvado o disposto no parágrafo anterior, não depende de avaliação prévia, licitação e aprovação legislativa.",
+"c": false,
+"prof": "Lei Orgânica, art. 20, § 2º.",
+"x": "O art. 20, § 2º afirma o contrário: A transferência de bem imóvel público edificado, ressalvado o disposto no parágrafo anterior, depende de avaliação prévia, licitação e aprovação legislativa.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 20, § 3º), a autorização legislativa mencionada no artigo não é sempre prévia e depende do voto da maioria dos membros da Câmara.",
+"c": false,
+"prof": "Lei Orgânica, art. 20, § 3º.",
+"x": "O art. 20, § 3º afirma o contrário: A autorização legislativa mencionada no artigo é sempre prévia e depende do voto da maioria dos membros da Câmara.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 21), os bens imóveis públicos edificados, de valor histórico, arquitetônico ou artístico, somente não podem ser utilizados mediante autorização para finalidade cultural.",
+"c": false,
+"prof": "Lei Orgânica, art. 21.",
+"x": "O art. 21 afirma o contrário: Os bens imóveis públicos edificados, de valor histórico, arquitetônico ou artístico, somente podem ser utilizados mediante autorização para finalidade cultural.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 22, Parágrafo Único), o cadastramento e a identificação técnica dos imóveis do Município, de que trata o artigo, devem ser a cada dois anos atualizados, garantindo o acesso às informações neles contidas.",
+"c": false,
+"prof": "Lei Orgânica, art. 22, Parágrafo Único.",
+"x": "O art. 22, Parágrafo Único diz \"anualmente\", e não \"a cada dois anos\".",
+"e": "Anualmente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 23), é permitido ao Poder Público edificar, descaracterizar ou abrir vias públicas em praças, parques, reservas ecológicas e espaços do Município, ressalvadas as construções estritamente necessárias à preservação e ao aperfeiçoamento das mencionadas áreas.",
+"c": false,
+"prof": "Lei Orgânica, art. 23.",
+"x": "O art. 23 diz \"É vedado\", e não \"É permitido\".",
+"e": "É vedado."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 25, I), os serviços de utilidade pública, essenciais ao bem-estar da população não são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de água e esgotos.",
+"c": false,
+"prof": "Lei Orgânica, art. 25, I.",
+"x": "O art. 25, I afirma o contrário: Os serviços de utilidade pública, essenciais ao bem-estar da população são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de água e esgotos.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 25, II), os serviços de utilidade pública, essenciais ao bem-estar da população não são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de iluminação e distribuição de energia.",
+"c": false,
+"prof": "Lei Orgânica, art. 25, II.",
+"x": "O art. 25, II afirma o contrário: Os serviços de utilidade pública, essenciais ao bem-estar da população são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de iluminação e distribuição de energia.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 25, III), os serviços de utilidade pública, essenciais ao bem-estar da população não são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de comunicações.",
+"c": false,
+"prof": "Lei Orgânica, art. 25, III.",
+"x": "O art. 25, III afirma o contrário: Os serviços de utilidade pública, essenciais ao bem-estar da população são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de comunicações.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 25, IV), os serviços de utilidade pública, essenciais ao bem-estar da população não são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de transportes coletivos.",
+"c": false,
+"prof": "Lei Orgânica, art. 25, IV.",
+"x": "O art. 25, IV afirma o contrário: Os serviços de utilidade pública, essenciais ao bem-estar da população são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de transportes coletivos.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 25, V), os serviços de utilidade pública, essenciais ao bem-estar da população não são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de limpeza e higiene de vias e logradouros públicos.",
+"c": false,
+"prof": "Lei Orgânica, art. 25, V.",
+"x": "O art. 25, V afirma o contrário: Os serviços de utilidade pública, essenciais ao bem-estar da população são de responsabilidade do Município e classificam-se nas seguintes categorias serviços de limpeza e higiene de vias e logradouros públicos.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 25, VI), os serviços de utilidade pública, essenciais ao bem-estar da população não são de responsabilidade do Município e classificam-se nas seguintes categorias serviços funerários.",
+"c": false,
+"prof": "Lei Orgânica, art. 25, VI.",
+"x": "O art. 25, VI afirma o contrário: Os serviços de utilidade pública, essenciais ao bem-estar da população são de responsabilidade do Município e classificam-se nas seguintes categorias serviços funerários.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 26), no exercício de sua competência para organizar e regulamentar os serviços públicos, o Município não observará os requisitos de comodidade, conforto e bem- estar dos usuários.",
+"c": false,
+"prof": "Lei Orgânica, art. 26.",
+"x": "O art. 26 afirma o contrário: No exercício de sua competência para organizar e regulamentar os serviços públicos, o Município observará os requisitos de comodidade, conforto e bem- estar dos usuários.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 27, I), o Município não poderá retomar, sem indenização, os serviços permitidos ou concedidos, desde que sejam executados em desacordo com o termo ou contrato, ou que se revelarem insuficientes para o atendimento dos usuários.",
+"c": false,
+"prof": "Lei Orgânica, art. 27, I.",
+"x": "O art. 27, I afirma o contrário: O Município poderá retomar, sem indenização, os serviços permitidos ou concedidos, desde que sejam executados em desacordo com o termo ou contrato, ou que se revelarem insuficientes para o atendimento dos usuários.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 27, II), o Município não poderá retomar, sem indenização, os serviços permitidos ou concedidos, desde que haja ocorrência de paralisação unilateral dos serviços por parte dos concessionários ou permissionários.",
+"c": false,
+"prof": "Lei Orgânica, art. 27, II.",
+"x": "O art. 27, II afirma o contrário: O Município poderá retomar, sem indenização, os serviços permitidos ou concedidos, desde que haja ocorrência de paralisação unilateral dos serviços por parte dos concessionários ou permissionários.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 27, III), o Município não poderá retomar, sem indenização, os serviços permitidos ou concedidos, desde que seja estabelecida a prestação direta do serviço pelo Município.",
+"c": false,
+"prof": "Lei Orgânica, art. 27, III.",
+"x": "O art. 27, III afirma o contrário: O Município poderá retomar, sem indenização, os serviços permitidos ou concedidos, desde que seja estabelecida a prestação direta do serviço pelo Município.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 27, § 2º), a permissão de serviço de utilidade pública, sempre a título precário, não será autorizada por decreto, após edital de chamamento de interessados para a escolha do melhor, procedendo-se às licitações com estrita observância da legislação pertinente.",
+"c": false,
+"prof": "Lei Orgânica, art. 27, § 2º.",
+"x": "O art. 27, § 2º afirma o contrário: A permissão de serviço de utilidade pública, sempre a título precário, será autorizada por decreto, após edital de chamamento de interessados para a escolha do melhor, procedendo-se às licitações com estrita observância da legislação pertinente.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 27, § 3º), a concessão só não será feita com autorização legislativa, mediante contrato, observada a Legislação específica de licitação e contratação.",
+"c": false,
+"prof": "Lei Orgânica, art. 27, § 3º.",
+"x": "O art. 27, § 3º afirma o contrário: A concessão só será feita com autorização legislativa, mediante contrato, observada a Legislação específica de licitação e contratação.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 28, Parágrafo Único), é facultado ao Poder Público ocupar e usar temporariamente bens e serviços, na hipótese de iminente perigo ou calamidade pública, situação em que o Município, responderá pela indenização em dinheiro e no prazo de trinta dias após a cessação do evento, dos custos e danos decorrentes.",
+"c": false,
+"prof": "Lei Orgânica, art. 28, Parágrafo Único.",
+"x": "O art. 28, Parágrafo Único diz \"imediatamente\", e não \"no prazo de trinta dias\".",
+"e": "Imediatamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 29, § 1º), a obra pública não poderá ser executada diretamente por órgão ou entidade da administração pública e, indiretamente, por terceiros mediante licitação.",
+"c": false,
+"prof": "Lei Orgânica, art. 29, § 1º.",
+"x": "O art. 29, § 1º afirma o contrário: A obra pública poderá ser executada diretamente por órgão ou entidade da administração pública e, indiretamente, por terceiros mediante licitação.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 29, § 3º), a realização de obra pública municipal não deverá estar adequada ao plano plurianual, às diretrizes orçamentárias e será precedida de projeto elaborado segundo as normas técnicas adequadas.",
+"c": false,
+"prof": "Lei Orgânica, art. 29, § 3º.",
+"x": "O art. 29, § 3º afirma o contrário: A realização de obra pública municipal deverá estar adequada ao plano plurianual, às diretrizes orçamentárias e será precedida de projeto elaborado segundo as normas técnicas adequadas.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 29, § 4º), a construção de edifícios e obras não deverá se submeter aos princípios de economicidade, simplicidade e adequação ao espaço circunvizinho e ao meio ambiente, e se sujeitará às exigências e limitações constantes do Código de Obras.",
+"c": false,
+"prof": "Lei Orgânica, art. 29, § 4º.",
+"x": "O art. 29, § 4º afirma o contrário: A construção de edifícios e obras deverá se submeter aos princípios de economicidade, simplicidade e adequação ao espaço circunvizinho e ao meio ambiente, e se sujeitará às exigências e limitações constantes do Código de Obras.",
+"e": "Afirmação, não negação."
+}
+]
+},
+"lom-administracao": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>30–71</b><span>artigos da Lei Orgânica reproduzidos na íntegra neste tópico</span></div><div class=\"lt-stat\"><b>50</b><span>questões novas de lei seca (certo ou errado)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: a banca copia a lei e troca uma palavra (prazo, quórum, competência, \"pode\" por \"deve\")</span></div></div>\n<h3>Como estudar este tópico</h3>\n<ul><li>Este tópico traz o <b>texto integral</b> dos <b>arts. 30 a 71</b> da <b>Lei Orgânica do Município de Belo Vale</b> (Lei nº 806/1990, edição atualizada em 2012), exigida no edital do concurso de Belo Vale (Legislação Municipal). O resumo comentado que estava aqui antes continua disponível na <b>Leitura complementar</b>, no fim da página.</li><li><b>Método de leitura de lei seca</b>: leia cada artigo prestando atenção a <b>quem</b> faz (Prefeito, Câmara, Mesa, Município), <b>o que</b> faz, <b>em que prazo</b> e <b>com qual quórum</b>. São exatamente esses elementos que as bancas trocam nas questões de certo ou errado.</li><li><b>Marque as palavras de alcance</b>: \"privativamente\", \"exclusivamente\", \"vedado\", \"poderá\" x \"deverá\", \"maioria absoluta\" x \"dois terços\", \"dias\" x \"dias úteis\". Uma única troca torna a assertiva errada.</li><li>As questões deste tópico foram montadas <b>a partir do próprio texto da lei</b>: as certas reproduzem o dispositivo; as erradas alteram um prazo, um quórum, uma competência ou negam o que a lei afirma. O comentário de cada questão indica o artigo correspondente.</li></ul>\n<h3>Estrutura do trecho</h3>\n<ul><li>CAPÍTULO V Da Administração Pública</li><li>CAPÍTULO VI Da Licitação</li><li>CAPÍTULO VII Dos Servidores Públicos</li><li>TÍTULO IV Da Organização dos Poderes do Município</li><li>CAPÍTULO I Do Poder Legislativo</li><li>SEÇÃO I Disposições Gerais</li></ul>\n<h3>Texto integral da Lei Orgânica (arts. 30 a 71)</h3>\n<h3>CAPÍTULO V Da Administração Pública</h3>\n<p><b>Art. 30</b> – A atividade de administração pública dos Poderes do Município e a de entidade descentralizada obedecerá aos princípios da legalidade, impessoalidade, moralidade, publicidade e razoabilidade.</p>\n<p><b>§ 1º</b> – A moralidade e a razoabilidade dos atos do Poder Público serão apuradas para efeito de controle e invalidação em face dos objetivos de cada caso.</p>\n<p><b>§ 2º</b> – O agente público motivará o ato administrativo que praticar, explicitando-lhe o fundamento legal, fático e a finalidade.</p>\n<p><b>Art. 31</b> – A Administração Pública Direta é a que compete a órgão de qualquer Município.</p>\n<p><b>Art. 32</b> – A Administração Pública indireta é a que compete:</p>\n<p>I – à autarquia;</p>\n<p>II – à sociedade de economia mista;</p>\n<p>III – à empresa pública;</p>\n<p>IV – à fundação pública;</p>\n<p>V – às demais entidades de direito privado sob o controle direto ou indireto do município.</p>\n<p><b>Parágrafo Único</b> – É facultado ao Município criar órgão dotado de autonomia financeira e administrativa, segundo a Lei, sob a denominação de órgão autônomo.</p>\n<p><b>Art. 33</b> – As fundações instituídas pelo poder Público darão conta de sua gestão à população, através da publicação de seus balancetes mensais e da execução orçamentária, no Diário oficial do Estado.</p>\n<p><b>Art. 34</b> – Depende de lei, em cada caso:</p>\n<p>I – a instituição e a extinção de autarquia e fundação pública;</p>\n<p>II – a autorização para instituir e extinguir sociedade de economia mista e empresa pública e para alienar ações que garantam, nestas entidades, o controle pelo Município;</p>\n<p>III – a criação de subsidiária das entidades mencionadas nos incisos anteriores e sua participação em empresas privadas;</p>\n<p><b>§ 1º</b> – Ao Município somente é permitido instituir ou manter fundações com a natureza de pessoa jurídica de direito público.</p>\n<p><b>§ 2º</b> – As relações jurídicas entre o Município e o particular prestador de serviço público em virtude de delegação são regidas pelo direito público.</p>\n<p><b>§ 3º</b> – É vedada a delegação de poderes ao Executivo para a criação, extinção ou transformação de entidade de sua administração indireta.</p>\n<p><b>Art. 35</b> – As pessoas jurídicas de direito público e as de direito privado prestadores de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, sendo obrigatória a regressão no prazo estabelecido em lei contra o responsável, nos casos de dolo ou culpa.</p>\n<p><b>Art. 36</b> – A publicidade dos atos, programas, obras, projetos, serviços e campanhas da administração pública direta e indireta, ainda que custeada por entidades privadas, deverá ter caráter informativo, educativo e de orientação social, e dela não constarão nome de autoridade, servidor público ou partido político, realizando-se de forma a não se beneficiar da credibilidade, da confiança e inexperiência do cidadão.</p>\n<p><b>Parágrafo Único</b> – Os poderes do Município, incluídos os órgãos que os compõem, publicarão, trimestralmente, o montante das despesas com publicidade, pagas ou contratadas, naquele período, com cada agência ou veículo de comunicação.</p>\n<p><b>Art. 37</b> – A publicação das leis e atos municipais, salvo se houver imprensa oficial no Município, poderá ser feita em órgão de imprensa local ou regional ou por afixação na sede da Prefeitura ou da Câmara, conforme o caso.</p>\n<p><b>§ 1º</b> – A publicação dos atos não normativos pela imprensa poderá ser resumida.</p>\n<p><b>§ 2º</b> – Os atos de efeitos externos só entrarão em vigor após sua publicação.</p>\n<p><b>§ 3º</b> – A escolha do órgão de imprensa para divulgar as leis e atos feitos pelo Município serão feitas por licitação, que levará em conta as condições de preços, as circunstâncias de frequência, horário, tiragem e distribuição.</p>\n<p><b>Art. 38</b> – O Município manterá os livros necessários do registro de seus serviços.</p>\n<p><b>§ 1º</b> – Os livros poderão ser substituídos por fichas ou sistema informatizado, com garantia de fidedignidade.</p>\n<p><b>§ 2º</b> – Os livros da Prefeitura serão abertos, rubricados e encerrados pelo Prefeito e pelo Secretário desta, e os livros da Câmara, por seu Presidente e Secretário.</p>\n<p><b>§ 3º</b> – Os livros, fichas ou outros sistemas, estarão abertos à consulta de qualquer cidadão, desde que lhe seja deferida em requerimento fundamentado.</p>\n<p><b>Art. 39</b> – Os atos administrativos de competência do Prefeito devem ser expedidos com observância das seguintes normas:</p>\n<p>I – decreto numerado em ordem cronológica, nos seguintes casos:</p>\n<p>a) regulamento de lei;</p>\n<p>b) instituição, modificação e extinção de atribuições não privativas de lei;</p>\n<p>c) abertura de créditos especiais e suplementares, até o limite autorizado por lei, assim como de créditos extraordinários;</p>\n<p>d) declaração de utilidade ou necessidade pública ou de interesse social, para efeitos de desapropriação ou de servidão administrativa;</p>\n<p>e) aprovação de regulamento ou regimento;</p>\n<p>f) permissão de uso de bens e serviços públicos;</p>\n<p>g) medidas executórias do Plano Diretor de Desenvolvimento Integrado do Município;</p>\n<p>h) criação, extinção, declaração ou modificação de direitos dos administradores não privativos de lei;</p>\n<p>i) normas de efeitos externos, não privativos de lei;</p>\n<p>j) fixação e alteração de preços;</p>\n<p>II – portaria, nos seguintes casos:</p>\n<p>a) provimento e vacância de cargos públicos;</p>\n<p>b) lotação e relotação dos quadros de pessoal;</p>\n<p>c) autorização para contratação e dispensa de servidores contratados;</p>\n<p>d) criação de comissões e designação de seus membros;</p>\n<p>e) instituição e extinção de grupos de trabalho;</p>\n<p>f) abertura de sindicância e processo administrativo e aplicação de penalidades;</p>\n<p>g) atos disciplinares dos servidores municipais;</p>\n<p>h) designação para função gratificada;</p>\n<p>i) outros atos que, por sua natureza e finalidade, não sejam objeto de lei ou decreto.</p>\n<p><b>Parágrafo Único</b> – Poderão ser delegados os atos constantes nas alíneas “d” à “i” deste inciso, observadas as exigências legais.</p>\n<p><b>Art. 40</b> – O Prefeito, o Vice – Prefeito e os Vereadores não poderão contratar com o Município, subsistindo a proibição até seis meses após findas as respectivas funções.</p>\n<p><b>Art. 41</b> – A ação administrativa do poder Executivo será organizada segundo os critérios de descentralização e participação popular.</p>\n<p><b>Art. 42</b> – A atividade administrativa se organizará em sistemas integrados por:</p>\n<p>I – órgão central de direção e coordenação;</p>\n<p>II – entidade da administração indireta;</p>\n<p>III – unidade administrativa.</p>\n<p><b>§ 1º</b> – Secretaria Municipal é o órgão central do sistema administrativo.</p>\n<p><b>§ 2º</b> – Unidade administrativa é a parte de órgão central ou de entidade da Administração Indireta.</p>\n<p><b>Art. 43</b> – Funcionará junto a cada sistema administrativo uma instância, com atribuições de:</p>\n<p>I - participar da elaboração de política de ação do Poder Público para o setor;</p>\n<p>II - participar da elaboração de planos e programas para o setor e do levantamento de seus custos;</p>\n<p>III - analisar e manifestar-se sobre o plano diretor, o plano plurianual, as diretrizes orçamentárias e o orçamento anual;</p>\n<p>IV - acompanhar e fiscalizar a execução de plano e programas setoriais;</p>\n<p>V - acompanhar e fiscalizar a aplicação de recursos públicos destinados ao setor;</p>\n<p>VI - manifestar-se sobre proposta de alteração na legislação pertinente à atividade do setor.</p>\n<p><b>Parágrafo único</b> - Admitir-se-á o funcionamento de instâncias junto a sistema administrativo ou a órgão ou entidade da administração pública, nos termos do art. 194 e seus parágrafos, voltados para as áreas de interesse específicos da criança, do adolescente, do idoso, do portador de deficiência, do negro e da mulher.</p>\n<p><b>Art. 44</b> – Funcionará junto a cada Administração Regional uma instância, com atribuições de:</p>\n<p>I - relacionar as carências e reivindicações regionais, nas áreas, entre outras, de saúde, educação, habitação, transporte, saneamento básico, meio ambiente, urbanização, cultura, esporte e lazer e nas relativas à criança, ao adolescente e ao portador de deficiência, e hierarquizar as prioridades;</p>\n<p>II - participar da elaboração de planos de obras prioritárias para a região e do levantamento de seus custos;</p>\n<p>III - analisar e manifestar-se sobre o plano diretor, o plano plurianual, as diretrizes orçamentárias e o orçamento anual;</p>\n<p>IV - acompanhar e fiscalizar as ações regionais do Poder Público;</p>\n<p>V - acompanhar e fiscalizar a aplicação de recursos públicos destinados à região;</p>\n<p>VI - elaborar proposta de solução para problema da região.</p>\n<p><b>Art. 45</b> – As instâncias de que tratam os arts. 42 e 44 atuarão de forma autônoma e independente do Poder Público, nos termos fixados em lei, sendo-lhes garantido o livre acesso a documentos e informações de que necessitar.</p>\n<p><b>§ 1º</b> - A composição, organização e funcionamento das instâncias serão definidos em estatutos próprios, registrados em cartório e protocolados no órgão junto ao qual cada instância atuará.</p>\n<p><b>§ 2º</b> - A participação nas instâncias não acarretará qualquer ônus para o Município.</p>\n<p><b>Art. 46</b> – O Poder Público garantirá a participação da sociedade civil na elaboração do plano diretor, do plano plurianual, das diretrizes orçamentárias e do orçamento anual.</p>\n<p><b>Art. 47</b> – Para o procedimento de licitação, obrigatório para contratação de obra, serviço, compra, alienação e concessão, o Município observará as normas gerais expedidas pela União.</p>\n<p><b>Art. 48</b> – As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, sendo obrigatória a regressão, no prazo estabelecido em lei, contra o responsável, nos casos de dolo ou culpa.</p>\n<p><b>Art. 49</b> – A lei definirá os atos decisórios de relevância que deverão ser publicados para produzir efeitos.</p>\n<p><b>Art. 50</b> – Para registro dos atos e fatos administrativos, o Município terá livros, fichas ou outro sistema, convenientemente autenticados, que forem necessários aos seus serviços.</p>\n<p><b>Parágrafo Único</b> - O Município terá um livro especial para o registro de suas leis.</p>\n<h3>CAPÍTULO VI Da Licitação</h3>\n<p><b>Art. 51</b> – Observadas as normas estabelecidas pela União, a Lei Municipal disciplinará o procedimento da licitação, obrigatória para a contratação de obra, serviço, compra e alienação e concessão.</p>\n<p><b>§ 1º</b> – Na licitação a cargo do Município ou entidade de administração indireta, observar-se- ão, entre outros, sob pena de nulidade, os princípios de isonomia, publicidade, probidade administrativa, vinculação ao instrumento convocatório e julgamento objetivo.</p>\n<p><b>§ 2º</b> – Para a determinação da modalidade de licitação, nos casos de obras e serviços, a cargo de qualquer dos Poderes do Município ou de entidade da administração indireta, os limites máximos de valor corresponderão aos mesmos praticados pela União.</p>\n<p><b>§ 3º</b> – É vedada a contratação com empresas ou profissionais inadimplentes com o Município e com suas obrigações fiscais, trabalhistas e previdenciárias.</p>\n<p><b>§ 4º</b> – O disposto no parágrafo anterior aplica-se às empresas contratadas e que não tenham entregado definitivamente a obra ou serviço, salvo se estiver dentro do prazo contratual.</p>\n<p><b>§ 5º</b> – Aplica-se, também, o disposto nos §§ 3º e 4o à empresa cujo sócio, diretor ou titular faça parte da empresa inadimplente com o Município.</p>\n<h3>CAPÍTULO VII Dos Servidores Públicos</h3>\n<p><b>Art. 52</b> – A atividade administrativa permanente é exercida:</p>\n<p>I – em qualquer dos poderes do Município, nas autarquias e nas fundações públicas, por servidor público, ocupante de cargo público em caráter efetivo ou em comissão, ou de função pública;</p>\n<p>II – nas sociedades de economia mista, empresas públicas e demais entidades de direito privado, sob o controle direto ou indireto do Município, por empregado público, ocupante de emprego público ou de função de confiança.</p>\n<p><b>Art. 53</b> – Os cargos, empregos e funções são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei.</p>\n<p><b>§ 1º</b> – A investidura em cargos ou empregos públicos depende de aprovação prévia em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração.</p>\n<p><b>§ 2º</b> – O prazo de validade do concurso público é de até dois anos, prorrogável uma vez, por igual período.</p>\n<p><b>§ 3º</b> – Durante o prazo improrrogável previsto no edital de convocação, o aprovado em concurso público será convocado, observada a ordem de classificação, com prioridades sobre novos concursados, para assumir o cargo ou emprego na carreira.</p>\n<p><b>§ 4º</b> – É vedada a contratação de profissional autônomo para exercer função permanente típica da Administração Pública direta ou indireta, exceto para execução de trabalhos técnicos.</p>\n<p><b>§ 5º</b> – A inobservância do disposto nos §§ 1º , 2o e 3o deste artigo implica nulidade do ato e punição da autoridade responsável nos termos da lei.</p>\n<p><b>Art. 54</b> – A lei estabelecerá os casos de contratação por tempo determinado, para atender a necessidade temporária de excepcional interesse público.</p>\n<p><b>§ 1º</b> – O disposto neste artigo não se aplica à função de magistério.</p>\n<p><b>§ 2º</b> – Considera-se de excepcional interesse público, para os fins deste artigo, o ato que o administrador deva praticar no sentido de evitar prejuízo ao erário ou danos emergentes à população.</p>\n<p><b>§ 3º</b> – Fica o Executivo municipal autorizado a contratar pessoal para prestar serviços à municipalidade em todos os órgãos da Prefeitura, pelo período de um ano e quando convier ao Município, poder-se-á efetuar sua recontratação depois de findo o período, visando o interesse e economia para o Município.</p>\n<p><b>Art. 55</b> – O cargo em comissão e a função de confiança serão exercidos, no âmbito dos poderes Executivo e Legislativo, por servidor ocupante de cargo de carreira técnica e profissional.</p>\n<p><b>Parágrafo Único</b> – Excluem-se da proibição do “caput” deste os cargos em comissão de direção superior e os de assessoramento, cujo provimento é livre, atendidos os requisitos da lei.</p>\n<p><b>Art. 56</b> – A revisão geral da remuneração do servidor público, sem distinção de índices, se fará nos termos que estabelecer a Lei do serviço público e a Constituição Federal.</p>\n<p><b>§ 1º</b> – A lei fixará o limite máximo e a relação de valores entre a maior e a menor remuneração dos servidores públicos, observados como limites máximos e no âmbito dos respectivos poderes, os valores percebidos como subsídio, em espécie, pelo Prefeito Municipal.</p>\n<p><b>§ 2º</b> – Os vencimentos dos cargos do poder Legislativo não poderão ser superiores aos percebidos no poder Executivo.</p>\n<p><b>§ 3º</b> – É vedada a vinculação ou equiparação de vencimentos para efeito de remuneração de pessoal do serviço público, ressalvado o disposto nesta Lei Orgânica.</p>\n<p><b>§ 4º</b> – Os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados, para o fim de concessão de acréscimo ulterior, sob o mesmo título ou idêntico fundamento.</p>\n<p><b>§ 5º</b> – Os vencimentos do servidor público são irredutíveis e a remuneração observará o disposto nos §§ 1º e 2o deste artigo e os preceitos estabelecidos nos artigos 150 II, 153 III e 153 § 2º I da Constituição da República.</p>\n<p><b>§ 6º</b> – É assegurado aos servidores públicos e às entidades representativas o direito de reunião nos locais de trabalho, previamente determinadas pelo Poder Executivo.</p>\n<p><b>§ 7º</b> – O Município, no âmbito de cada poder, pode cobrar contribuição social de seus servidores, para custeio de sistema de previdência e assistência social, nos termos da Constituição da República e na forma da Lei.</p>\n<p><b>Art. 57</b> – É vedada a acumulação remunerada de cargos públicos, permitida, se houver compatibilidade de horário:</p>\n<p>I – a de dois cargos de professor;</p>\n<p>II – a de um cargo de professor com outro técnico ou científico;</p>\n<p>III – a de dois cargos privativos de médico.</p>\n<p><b>Parágrafo Único</b> – A proibição de acumular se estende a empregos e funções e abrange autarquias, empresas públicas, sociedades de economia mista e fundações públicas.</p>\n<p><b>Art. 58</b> – Ao servidor público, em exercício de mandato eletivo, se aplicam as seguintes disposições:</p>\n<p>I – tratando-se de mandato eletivo federal, estadual, ficará afastado do cargo, emprego ou função;</p>\n<p>II – investido no mandato de Prefeito e Vereador, será afastado do cargo, emprego ou função, sendo-lhe facultado optar por sua remuneração ou subsídio;</p>\n<p>III – investido no mandato de Vereador, havendo compatibilidade de horário, perceberá as vantagens de seu cargo, emprego ou função, sem prejuízo do subsídio do cargo eletivo e, não havendo compatibilidade, será aplicada a norma do inciso anterior;</p>\n<p>IV – em qualquer caso que exija o afastamento para o exercício de mandato eletivo, seu tempo de serviço será contado para todos os efeitos legais, exceto para promoção por merecimento;</p>\n<p>V – para o efeito de benefício previdenciário, no caso de afastamento, os valores serão determinados como se no exercício estivesse.</p>\n<p><b>Art. 59</b> – A Lei reservará percentual dos cargos e empregos públicos para provimentos com portador de deficiência e definirá os critérios de sua admissão.</p>\n<p><b>Art. 60</b> – Os atos de improbidade administrativa importam a suspensão dos direitos políticos, a perda de função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e na gradação estabelecidas em lei, sem prejuízo da ação penal cabível.</p>\n<p><b>Art. 61</b> – É vedado ao servidor público desempenhar atividades que não sejam próprias do cargo de que for titular, exceto quando ocupar cargo em comissão ou desempenhar função de confiança.</p>\n<p><b>Art. 62</b> – O Município instituirá regime jurídico único de planos de carreira para os servidores dos órgãos da administração direta, das autarquias e das fundações públicas.</p>\n<p><b>§ 1º</b> – A política de pessoal obedecerá às seguintes diretrizes:</p>\n<p>I – valorização e dignificação da função pública e do servidor público;</p>\n<p>II – profissionalização e aperfeiçoamento do servidor público;</p>\n<p>III – constituição de quadro dirigente, mediante formação e aperfeiçoamento de administradores;</p>\n<p>IV – sistema do mérito objetivamente apurado para ingresso no serviço de desenvolvimento na carreira;</p>\n<p>V – remuneração compatível com a complexidade e a responsabilidade das tarefas e com escolaridade exigida para seu desempenho.</p>\n<p><b>§ 2º</b> – Ao servidor público que, por acidente ou doença, tornar-se inapto para exercer as atribuições específicas de seu cargo, serão assegurados os direitos e vantagens a ele inerentes, até seu definitivo aproveitamento em outro cargo.</p>\n<p><b>§ 3º</b> – Para provimento de cargo de natureza técnica, exigir-se-á respectiva habilitação profissional.</p>\n<p><b>Art. 63</b> – O Município assegurará ao servidor público, no que couberem, os direitos previstos no art. 7o da Constituição da República, e os que, nos termos da Lei, visem à melhoria de sua condição social e à produtividade no serviço público, especialmente:</p>\n<p>I – duração do trabalho normal não-superior a oito horas diárias e quarenta semanais, facultada a compensação de horários e a redução da jornada nos termos em que dispuser a lei;</p>\n<p>II – férias – prêmio, com duração de seis meses, adquiridas a cada período de dez anos de efetivo exercício público, admitida a sua conversão em espécie por opção do servidor, ou, para efeito de aposentadoria, a contagem em dobro das não gozadas;</p>\n<p>III – assistência e previdência sociais, extensivas ao cônjuge ou companheiro e aos dependentes;</p>\n<p>IV – assistência gratuita, em creche e pré-escola, aos filhos e dependentes, desde o nascimento até seis anos de idade;</p>\n<p>V – bolsas de estudos aos filhos e dependentes, para o ensino fundamental e médio, aos que demonstrarem insuficiência de recursos, quando houver falta de vagas e cursos regulares da rede pública local, a ser regulamentado;</p>\n<p>VI – adicional de remuneração para as atividades penosas, insalubres ou perigosas;</p>\n<p>VII – adicional sobre a remuneração, quando completar trinta anos de serviço, ou antes, disso, se implementado, o interstício necessário para aposentadoria;</p>\n<p>VIII – licença sem remuneração para tratar de assunto de interesse particular, por período não superior a dois anos;</p>\n<p>IX – vale transporte aos que residirem distante do seu local de trabalho, conforme dispuser a lei.</p>\n<p><b>Parágrafo Único</b> – Cada período de cinco anos de efetivo exercício dá ao servidor direito ao adicional de dez por cento sobre seus vencimentos, o qual a este se incorpora para efeito de aposentadoria.</p>\n<p><b>Art. 64</b> – É livre a associação profissional ou sindical dos servidores públicos, nos termos da Constituição da República.</p>\n<p><b>Art. 65</b> – A Lei assegurará ao servidor público da administração direta isonomia de vencimentos para cargos de atribuições ou assemelhados do mesmo poder, ou entre servidores dos Poderes Executivo e Legislativo, ressalvadas as vantagens de caráter individual e as relativas à natureza ou ao local de trabalho.</p>\n<p><b>§ 1º</b> – A Lei assegurará sistema isonômico de carreira de nível universitário compatibilizado com os padrões médios de remuneração da iniciativa privada.</p>\n<p><b>§ 2º</b> – O servidor público civil, incluído o das autarquias e fundações, detentor de título declaratório que lhe assegure direito à continuidade de percepção da remuneração de cargo de provimento em comissão, tem direito aos vencimentos, às gratificações e a todas as demais vantagens inerentes ao cargo em relação ao qual tenha ocorrido o apostilamento, ainda que decorrentes de transformação ou reclassificação posteriores.</p>\n<p><b>§ 3º</b> – O disposto no parágrafo anterior se aplica no que couber ao servidor público detentor de título declaratório que lhe assegure direito à continuidade de percepção de remuneração relativamente a funções.</p>\n<p><b>Art. 66</b> – É garantida a liberação de servidor ou empregado público, se assim o decidir a respectiva categoria, na forma do Estatuto da entidade, para o exercício de mandato eletivo em diretoria de entidade sindical, sem prejuízo da remuneração e dos demais direitos e vantagens de seu cargo ou emprego.</p>\n<p><b>Parágrafo Único</b> - É assegurada a participação dos servidores públicos municipais nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação.</p>\n<p><b>Art. 67</b> – O direito de greve será exercido nos termos e nos limites definidos em lei complementar federal.</p>\n<p><b>Art. 68</b> – É estável após três anos de efetivo exercício, o servidor público nomeado em virtude de concurso público.</p>\n<p><b>§ 1º</b> – O servidor público estável só perderá o cargo em virtude de sentença judicial transitada em julgado ou processo administrativo em que lhe seja assegurada ampla defesa.</p>\n<p><b>§ 2º</b> – Invalidada por sentença judicial a demissão do servidor público estável, será ele reintegrado, e o eventual ocupante da vaga reconduzido ao cargo de origem, sem direito à indenização, aproveitado em outro cargo ou posto em disponibilidade.</p>\n<p><b>§ 3º</b> – Extinto o cargo ou declarada a sua desnecessidade, o servidor público estável ficará em disponibilidade remunerada, até seu adequado aproveitamento em outro cargo.</p>\n<p><b>Art. 69</b> – Todos os servidores do Município, sem qualquer exceção, serão obrigatoriamente vinculados ao Regime Geral de Previdência Social, vedada a instituição de regime próprio de previdência.</p>\n<p><b>Art. 70</b> – O servidor público que retornar à atividade após a cassação dos motivos que causaram sua aposentadoria por invalidez, terá direito, para todos os fins, salvo para o de promoção, à contagem de tempo relativo ao período de afastamento.</p>\n<p><b>Art. 71</b> – Incumbe à entidade da administração indireta gerir, com exclusividade, o sistema de previdência social dos servidores e agentes públicos municipais.</p>\n<p><b>Parágrafo Único</b> – É facultado ao Município integrar sistema regional de previdência para atendimento aos seus servidores e agentes públicos.</p>\n<h3>TÍTULO IV Da Organização dos Poderes do Município</h3>\n<h3>CAPÍTULO I Do Poder Legislativo</h3>\n<h3>SEÇÃO I Disposições Gerais</h3>",
+"quiz": [
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 30), a atividade de administração pública dos Poderes do Município e a de entidade descentralizada obedecerá aos princípios da legalidade, impessoalidade, moralidade, publicidade e razoabilidade.",
+"c": true,
+"prof": "Lei Orgânica, art. 30.",
+"x": "É o que dispõe o art. 30 da Lei Orgânica.",
+"e": "Art. 30."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 32, I), a Administração Pública indireta é a que compete à autarquia.",
+"c": true,
+"prof": "Lei Orgânica, art. 32, I.",
+"x": "É o que dispõe o art. 32, I da Lei Orgânica.",
+"e": "Art. 32, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 32, V), a Administração Pública indireta é a que compete às demais entidades de direito privado sob o controle direto ou indireto do município.",
+"c": true,
+"prof": "Lei Orgânica, art. 32, V.",
+"x": "É o que dispõe o art. 32, V da Lei Orgânica.",
+"e": "Art. 32, v."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 34, II), depende de lei, em cada caso a autorização para instituir e extinguir sociedade de economia mista e empresa pública e para alienar ações que garantam, nestas entidades, o controle pelo Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 34, II.",
+"x": "É o que dispõe o art. 34, II da Lei Orgânica.",
+"e": "Art. 34, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 35), as pessoas jurídicas de direito público e as de direito privado prestadores de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, sendo obrigatória a regressão no prazo estabelecido em lei contra o responsável, nos casos de dolo ou culpa.",
+"c": true,
+"prof": "Lei Orgânica, art. 35.",
+"x": "É o que dispõe o art. 35 da Lei Orgânica.",
+"e": "Art. 35."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 37, § 2º), os atos de efeitos externos só entrarão em vigor após sua publicação.",
+"c": true,
+"prof": "Lei Orgânica, art. 37, § 2º.",
+"x": "É o que dispõe o art. 37, § 2º da Lei Orgânica.",
+"e": "Art. 37, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 38, § 2º), os livros da Prefeitura serão abertos, rubricados e encerrados pelo Prefeito e pelo Secretário desta, e os livros da Câmara, por seu Presidente e Secretário.",
+"c": true,
+"prof": "Lei Orgânica, art. 38, § 2º.",
+"x": "É o que dispõe o art. 38, § 2º da Lei Orgânica.",
+"e": "Art. 38, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 42, I), a atividade administrativa se organizará em sistemas integrados por órgão central de direção e coordenação.",
+"c": true,
+"prof": "Lei Orgânica, art. 42, I.",
+"x": "É o que dispõe o art. 42, I da Lei Orgânica.",
+"e": "Art. 42, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 42, § 2º), unidade administrativa é a parte de órgão central ou de entidade da Administração Indireta.",
+"c": true,
+"prof": "Lei Orgânica, art. 42, § 2º.",
+"x": "É o que dispõe o art. 42, § 2º da Lei Orgânica.",
+"e": "Art. 42, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 43, IV), funcionará junto a cada sistema administrativo uma instância, com atribuições de acompanhar e fiscalizar a execução de plano e programas setoriais.",
+"c": true,
+"prof": "Lei Orgânica, art. 43, IV.",
+"x": "É o que dispõe o art. 43, IV da Lei Orgânica.",
+"e": "Art. 43, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 44, II), funcionará junto a cada Administração Regional uma instância, com atribuições de participar da elaboração de planos de obras prioritárias para a região e do levantamento de seus custos.",
+"c": true,
+"prof": "Lei Orgânica, art. 44, II.",
+"x": "É o que dispõe o art. 44, II da Lei Orgânica.",
+"e": "Art. 44, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 45), as instâncias de que tratam os arts. 42 e 44 atuarão de forma autônoma e independente do Poder Público, nos termos fixados em lei, sendo-lhes garantido o livre acesso a documentos e informações de que necessitar.",
+"c": true,
+"prof": "Lei Orgânica, art. 45.",
+"x": "É o que dispõe o art. 45 da Lei Orgânica.",
+"e": "Art. 45."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 47), para o procedimento de licitação, obrigatório para contratação de obra, serviço, compra, alienação e concessão, o Município observará as normas gerais expedidas pela União.",
+"c": true,
+"prof": "Lei Orgânica, art. 47.",
+"x": "É o que dispõe o art. 47 da Lei Orgânica.",
+"e": "Art. 47."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 50, Parágrafo Único), o Município terá um livro especial para o registro de suas leis.",
+"c": true,
+"prof": "Lei Orgânica, art. 50, Parágrafo Único.",
+"x": "É o que dispõe o art. 50, Parágrafo Único da Lei Orgânica.",
+"e": "Art. 50, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 51, § 4º), o disposto no parágrafo anterior aplica-se às empresas contratadas e que não tenham entregado definitivamente a obra ou serviço, salvo se estiver dentro do prazo contratual.",
+"c": true,
+"prof": "Lei Orgânica, art. 51, § 4º.",
+"x": "É o que dispõe o art. 51, § 4º da Lei Orgânica.",
+"e": "Art. 51, § 4º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 53), os cargos, empregos e funções são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei.",
+"c": true,
+"prof": "Lei Orgânica, art. 53.",
+"x": "É o que dispõe o art. 53 da Lei Orgânica.",
+"e": "Art. 53."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 53, § 4º), é vedada a contratação de profissional autônomo para exercer função permanente típica da Administração Pública direta ou indireta, exceto para execução de trabalhos técnicos.",
+"c": true,
+"prof": "Lei Orgânica, art. 53, § 4º.",
+"x": "É o que dispõe o art. 53, § 4º da Lei Orgânica.",
+"e": "Art. 53, § 4º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 54, § 2º), considera-se de excepcional interesse público, para os fins deste artigo, o ato que o administrador deva praticar no sentido de evitar prejuízo ao erário ou danos emergentes à população.",
+"c": true,
+"prof": "Lei Orgânica, art. 54, § 2º.",
+"x": "É o que dispõe o art. 54, § 2º da Lei Orgânica.",
+"e": "Art. 54, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 56, § 1º), a lei fixará o limite máximo e a relação de valores entre a maior e a menor remuneração dos servidores públicos, observados como limites máximos e no âmbito dos respectivos poderes, os valores percebidos como subsídio, em espécie, pelo Prefeito Municipal.",
+"c": true,
+"prof": "Lei Orgânica, art. 56, § 1º.",
+"x": "É o que dispõe o art. 56, § 1º da Lei Orgânica.",
+"e": "Art. 56, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 56, § 5º), os vencimentos do servidor público são irredutíveis e a remuneração observará o disposto nos §§ 1º e 2o deste artigo e os preceitos estabelecidos nos artigos 150 II, 153 III e 153 § 2º I da Constituição da República.",
+"c": true,
+"prof": "Lei Orgânica, art. 56, § 5º.",
+"x": "É o que dispõe o art. 56, § 5º da Lei Orgânica.",
+"e": "Art. 56, § 5º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 57, II), é vedada a acumulação remunerada de cargos públicos, permitida, se houver compatibilidade de horário a de um cargo de professor com outro técnico ou científico.",
+"c": true,
+"prof": "Lei Orgânica, art. 57, II.",
+"x": "É o que dispõe o art. 57, II da Lei Orgânica.",
+"e": "Art. 57, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 58, IV), ao servidor público, em exercício de mandato eletivo, se aplicam as seguintes disposições em qualquer caso que exija o afastamento para o exercício de mandato eletivo, seu tempo de serviço será contado para todos os efeitos legais, exceto para promoção por merecimento.",
+"c": true,
+"prof": "Lei Orgânica, art. 58, IV.",
+"x": "É o que dispõe o art. 58, IV da Lei Orgânica.",
+"e": "Art. 58, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 61), é vedado ao servidor público desempenhar atividades que não sejam próprias do cargo de que for titular, exceto quando ocupar cargo em comissão ou desempenhar função de confiança.",
+"c": true,
+"prof": "Lei Orgânica, art. 61.",
+"x": "É o que dispõe o art. 61 da Lei Orgânica.",
+"e": "Art. 61."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 62, III), a política de pessoal obedecerá às seguintes diretrizes constituição de quadro dirigente, mediante formação e aperfeiçoamento de administradores.",
+"c": true,
+"prof": "Lei Orgânica, art. 62, III.",
+"x": "É o que dispõe o art. 62, III da Lei Orgânica.",
+"e": "Art. 62, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 62, § 3º), para provimento de cargo de natureza técnica, exigir-se-á respectiva habilitação profissional.",
+"c": true,
+"prof": "Lei Orgânica, art. 62, § 3º.",
+"x": "É o que dispõe o art. 62, § 3º da Lei Orgânica.",
+"e": "Art. 62, § 3º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 65, § 1º), a Lei assegurará sistema isonômico de carreira de nível universitário compatibilizado com os padrões médios de remuneração da iniciativa privada.",
+"c": true,
+"prof": "Lei Orgânica, art. 65, § 1º.",
+"x": "É o que dispõe o art. 65, § 1º da Lei Orgânica.",
+"e": "Art. 65, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 67), o direito de greve será exercido nos termos e nos limites definidos em lei complementar federal.",
+"c": true,
+"prof": "Lei Orgânica, art. 67.",
+"x": "É o que dispõe o art. 67 da Lei Orgânica.",
+"e": "Art. 67."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 68, § 3º), extinto o cargo ou declarada a sua desnecessidade, o servidor público estável ficará em disponibilidade remunerada, até seu adequado aproveitamento em outro cargo.",
+"c": true,
+"prof": "Lei Orgânica, art. 68, § 3º.",
+"x": "É o que dispõe o art. 68, § 3º da Lei Orgânica.",
+"e": "Art. 68, § 3º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 30, § 1º), a moralidade e a razoabilidade dos atos do Poder Público não serão apuradas para efeito de controle e invalidação em face dos objetivos de cada caso.",
+"c": false,
+"prof": "Lei Orgânica, art. 30, § 1º.",
+"x": "O art. 30, § 1º afirma o contrário: A moralidade e a razoabilidade dos atos do Poder Público serão apuradas para efeito de controle e invalidação em face dos objetivos de cada caso.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 32, I), a Administração Pública indireta não é a que compete à autarquia.",
+"c": false,
+"prof": "Lei Orgânica, art. 32, I.",
+"x": "O art. 32, I afirma o contrário: A Administração Pública indireta é a que compete à autarquia.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 32, III), a Administração Pública indireta não é a que compete à empresa pública.",
+"c": false,
+"prof": "Lei Orgânica, art. 32, III.",
+"x": "O art. 32, III afirma o contrário: A Administração Pública indireta é a que compete à empresa pública.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 32, V), a Administração Pública indireta não é a que compete às demais entidades de direito privado sob o controle direto ou indireto do município.",
+"c": false,
+"prof": "Lei Orgânica, art. 32, V.",
+"x": "O art. 32, V afirma o contrário: A Administração Pública indireta é a que compete às demais entidades de direito privado sob o controle direto ou indireto do município.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 34, § 2º), as relações jurídicas entre o Município e o particular prestador de serviço público em virtude de delegação não são regidas pelo direito público.",
+"c": false,
+"prof": "Lei Orgânica, art. 34, § 2º.",
+"x": "O art. 34, § 2º afirma o contrário: As relações jurídicas entre o Município e o particular prestador de serviço público em virtude de delegação são regidas pelo direito público.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 37, § 3º), a escolha do órgão de imprensa para divulgar as leis e atos feitos pelo Município não serão feitas por licitação, que levará em conta as condições de preços, as circunstâncias de frequência, horário, tiragem e distribuição.",
+"c": false,
+"prof": "Lei Orgânica, art. 37, § 3º.",
+"x": "O art. 37, § 3º afirma o contrário: A escolha do órgão de imprensa para divulgar as leis e atos feitos pelo Município serão feitas por licitação, que levará em conta as condições de preços, as circunstâncias de frequência, horário, tiragem e distribuição.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 38, § 1º), os livros não poderão ser substituídos por fichas ou sistema informatizado, com garantia de fidedignidade.",
+"c": false,
+"prof": "Lei Orgânica, art. 38, § 1º.",
+"x": "O art. 38, § 1º afirma o contrário: Os livros poderão ser substituídos por fichas ou sistema informatizado, com garantia de fidedignidade.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 38, § 3º), os livros, fichas ou outros sistemas, não estarão abertos à consulta de qualquer cidadão, desde que lhe seja deferida em requerimento fundamentado.",
+"c": false,
+"prof": "Lei Orgânica, art. 38, § 3º.",
+"x": "O art. 38, § 3º afirma o contrário: Os livros, fichas ou outros sistemas, estarão abertos à consulta de qualquer cidadão, desde que lhe seja deferida em requerimento fundamentado.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 42, § 1º), secretaria Municipal não é o órgão central do sistema administrativo.",
+"c": false,
+"prof": "Lei Orgânica, art. 42, § 1º.",
+"x": "O art. 42, § 1º afirma o contrário: Secretaria Municipal é o órgão central do sistema administrativo.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 46), o Poder Público não garantirá a participação da sociedade civil na elaboração do plano diretor, do plano plurianual, das diretrizes orçamentárias e do orçamento anual.",
+"c": false,
+"prof": "Lei Orgânica, art. 46.",
+"x": "O art. 46 afirma o contrário: O Poder Público garantirá a participação da sociedade civil na elaboração do plano diretor, do plano plurianual, das diretrizes orçamentárias e do orçamento anual.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 50), para registro dos atos e fatos administrativos, o Município não terá livros, fichas ou outro sistema, convenientemente autenticados, que forem necessários aos seus serviços.",
+"c": false,
+"prof": "Lei Orgânica, art. 50.",
+"x": "O art. 50 afirma o contrário: Para registro dos atos e fatos administrativos, o Município terá livros, fichas ou outro sistema, convenientemente autenticados, que forem necessários aos seus serviços.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 51, § 3º), é permitida a contratação com empresas ou profissionais inadimplentes com o Município e com suas obrigações fiscais, trabalhistas e previdenciárias.",
+"c": false,
+"prof": "Lei Orgânica, art. 51, § 3º.",
+"x": "O art. 51, § 3º diz \"É vedada\", e não \"É permitida\".",
+"e": "É vedada."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 52, II), a atividade administrativa permanente não é exercida nas sociedades de economia mista, empresas públicas e demais entidades de direito privado, sob o controle direto ou indireto do Município, por empregado público, ocupante de emprego público ou de função de confiança.",
+"c": false,
+"prof": "Lei Orgânica, art. 52, II.",
+"x": "O art. 52, II afirma o contrário: A atividade administrativa permanente é exercida nas sociedades de economia mista, empresas públicas e demais entidades de direito privado, sob o controle direto ou indireto do Município, por empregado público, ocupante de emprego público ou de função de confiança.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 53, § 1º), a investidura em cargos ou empregos públicos não depende de aprovação prévia em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração.",
+"c": false,
+"prof": "Lei Orgânica, art. 53, § 1º.",
+"x": "O art. 53, § 1º afirma o contrário: A investidura em cargos ou empregos públicos depende de aprovação prévia em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 53, § 4º), é permitida a contratação de profissional autônomo para exercer função permanente típica da Administração Pública direta ou indireta, exceto para execução de trabalhos técnicos.",
+"c": false,
+"prof": "Lei Orgânica, art. 53, § 4º.",
+"x": "O art. 53, § 4º diz \"É vedada\", e não \"É permitida\".",
+"e": "É vedada."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 56, § 3º), é permitida a vinculação ou equiparação de vencimentos para efeito de remuneração de pessoal do serviço público, ressalvado o disposto nesta Lei Orgânica.",
+"c": false,
+"prof": "Lei Orgânica, art. 56, § 3º.",
+"x": "O art. 56, § 3º diz \"É vedada\", e não \"É permitida\".",
+"e": "É vedada."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 56, § 7º), o Município, no âmbito de cada poder, não pode cobrar contribuição social de seus servidores, para custeio de sistema de previdência e assistência social, nos termos da Constituição da República e na forma da Lei.",
+"c": false,
+"prof": "Lei Orgânica, art. 56, § 7º.",
+"x": "O art. 56, § 7º afirma o contrário: O Município, no âmbito de cada poder, pode cobrar contribuição social de seus servidores, para custeio de sistema de previdência e assistência social, nos termos da Constituição da República e na forma da Lei.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 57, II), é permitida a acumulação remunerada de cargos públicos, permitida, se houver compatibilidade de horário a de um cargo de professor com outro técnico ou científico.",
+"c": false,
+"prof": "Lei Orgânica, art. 57, II.",
+"x": "O art. 57, II diz \"É vedada\", e não \"É permitida\".",
+"e": "É vedada."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 63, VI), o Município não assegurará ao servidor público, no que couberem, os direitos previstos no art. 7o da Constituição da República, e os que, nos termos da Lei, visem à melhoria de sua condição social e à produtividade no serviço público, especialmente adicional de remuneração para as atividades penosas, insalubres ou perigosas.",
+"c": false,
+"prof": "Lei Orgânica, art. 63, VI.",
+"x": "O art. 63, VI afirma o contrário: O Município assegurará ao servidor público, no que couberem, os direitos previstos no art. 7o da Constituição da República, e os que, nos termos da Lei, visem à melhoria de sua condição social e à produtividade no serviço público, especialmente adicional de remuneração para as atividades penosas, insalubres ou perigosas.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 65), a Lei não assegurará ao servidor público da administração direta isonomia de vencimentos para cargos de atribuições ou assemelhados do mesmo poder, ou entre servidores dos Poderes Executivo e Legislativo, ressalvadas as vantagens de caráter individual e as relativas à natureza ou ao local de trabalho.",
+"c": false,
+"prof": "Lei Orgânica, art. 65.",
+"x": "O art. 65 afirma o contrário: A Lei assegurará ao servidor público da administração direta isonomia de vencimentos para cargos de atribuições ou assemelhados do mesmo poder, ou entre servidores dos Poderes Executivo e Legislativo, ressalvadas as vantagens de caráter individual e as relativas à natureza ou ao local de trabalho.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 67), o direito de greve não será exercido nos termos e nos limites definidos em lei complementar federal.",
+"c": false,
+"prof": "Lei Orgânica, art. 67.",
+"x": "O art. 67 afirma o contrário: O direito de greve será exercido nos termos e nos limites definidos em lei complementar federal.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 68, § 2º), invalidada por sentença judicial a demissão do servidor público estável, não será ele reintegrado, e o eventual ocupante da vaga reconduzido ao cargo de origem, sem direito à indenização, aproveitado em outro cargo ou posto em disponibilidade.",
+"c": false,
+"prof": "Lei Orgânica, art. 68, § 2º.",
+"x": "O art. 68, § 2º afirma o contrário: Invalidada por sentença judicial a demissão do servidor público estável, será ele reintegrado, e o eventual ocupante da vaga reconduzido ao cargo de origem, sem direito à indenização, aproveitado em outro cargo ou posto em disponibilidade.",
+"e": "Afirmação, não negação."
+}
+]
+},
+"lom-legislativo": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>72–97</b><span>artigos da Lei Orgânica reproduzidos na íntegra neste tópico</span></div><div class=\"lt-stat\"><b>50</b><span>questões novas de lei seca (certo ou errado)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: a banca copia a lei e troca uma palavra (prazo, quórum, competência, \"pode\" por \"deve\")</span></div></div>\n<h3>Como estudar este tópico</h3>\n<ul><li>Este tópico traz o <b>texto integral</b> dos <b>arts. 72 a 97</b> da <b>Lei Orgânica do Município de Belo Vale</b> (Lei nº 806/1990, edição atualizada em 2012), exigida no edital do concurso de Belo Vale (Legislação Municipal). O resumo comentado que estava aqui antes continua disponível na <b>Leitura complementar</b>, no fim da página.</li><li><b>Método de leitura de lei seca</b>: leia cada artigo prestando atenção a <b>quem</b> faz (Prefeito, Câmara, Mesa, Município), <b>o que</b> faz, <b>em que prazo</b> e <b>com qual quórum</b>. São exatamente esses elementos que as bancas trocam nas questões de certo ou errado.</li><li><b>Marque as palavras de alcance</b>: \"privativamente\", \"exclusivamente\", \"vedado\", \"poderá\" x \"deverá\", \"maioria absoluta\" x \"dois terços\", \"dias\" x \"dias úteis\". Uma única troca torna a assertiva errada.</li><li>As questões deste tópico foram montadas <b>a partir do próprio texto da lei</b>: as certas reproduzem o dispositivo; as erradas alteram um prazo, um quórum, uma competência ou negam o que a lei afirma. O comentário de cada questão indica o artigo correspondente.</li></ul>\n<h3>Estrutura do trecho</h3>\n<ul><li>TÍTULO IV Da Organização dos Poderes do Município</li><li>CAPÍTULO I Do Poder Legislativo</li><li>SEÇÃO I Disposições Gerais</li><li>SEÇÃO II Da Câmara Municipal</li><li>SEÇÃO III Dos Vereadores</li><li>SEÇÃO IV Das Comissões</li><li>SEÇÃO V Das Atribuições da Câmara Municipal</li><li>SEÇÃO VI Do Processo Legislativo</li><li>CAPÍTULO II Do Poder Executivo</li><li>SEÇÃO I Disposições Gerais</li></ul>\n<h3>Texto integral da Lei Orgânica (arts. 72 a 97)</h3>\n<h3>TÍTULO IV Da Organização dos Poderes do Município</h3>\n<h3>CAPÍTULO I Do Poder Legislativo</h3>\n<h3>SEÇÃO I Disposições Gerais</h3>\n<p><b>Art. 72</b> – O Poder Legislativo é exercido pela Câmara Municipal, composta de representantes do povo, eleitos pelo sistema proporcional, para uma legislatura com duração de 04 (quatro) anos.</p>\n<p><b>§ 1º</b> – O número de vereadores será fixado pela Câmara Municipal, reservados os limites estabelecidos na Constituição Federal.</p>\n<p><b>§ 2º</b> – O número de habitantes será determinado segundo certidão fornecida por órgão do Governo Federal encarregado de elaborar o recenseamento.</p>\n<h3>SEÇÃO II Da Câmara Municipal</h3>\n<p><b>Art. 73</b> – A Câmara se reunirá em sessão ordinária, exceto nos meses de janeiro e julho, de conformidade com seu regimento interno.</p>\n<p><b>Art. 74</b> – No primeiro ano de cada legislatura, cuja duração coincide com o mandato dos Vereadores, a Câmara reunir-se-á no dia primeiro de janeiro para dar posse aos Vereadores, Prefeito e Vice-Prefeito e eleger a sua Mesa Diretora, que será composta de Presidente, Vice-Presidente, 1o e 2o Secretários, para mandato de 02 (dois) anos, vedada a recondução para o mesmo cargo na eleição subsequente.</p>\n<p><b>Parágrafo Único</b> – A eleição da Mesa se dará por chapa, que poderá ou não ser completa e inscrita até a hora da eleição por qualquer Vereador.</p>\n<p><b>Art. 75</b> – A convocação de sessão extraordinária será feita:</p>\n<p>I - pelo Presidente da Câmara, em caso de intervenção no Município e para compromisso e posse do Prefeito e Vice-Prefeito;</p>\n<p>II - pelo Prefeito, pelo Presidente da Câmara ou a requerimento de um terço dos membros da Câmara, em caso de urgência ou interesse público relevante.</p>\n<p><b>Parágrafo Único</b> – Na sessão extraordinária, a Câmara somente deliberará sobre matéria objeto da convocação.</p>\n<p><b>Art. 76</b> – A Câmara e suas comissões funcionam na presença, no mínimo, da maioria de seus membros e as deliberações são tomadas por maioria de votos dos presentes, salvo os casos previstos nesta Lei Orgânica.</p>\n<p><b>§ 1º</b> – Quando se tratar de matéria relativa a empréstimo, a concessão de privilégios, além de outras referidas nesta Lei, as deliberações da Câmara são tomadas por 2/3 (dois terços) de seus membros.</p>\n<p><b>§ 2º</b> – Quando estiverem sendo apreciadas proposições, o Presidente somente votará em caso de escrutínio secreto ou se ocorrer empate nas demais modalidades de votação.</p>\n<p><b>Art. 77</b> – As reuniões da Câmara são públicas, e somente nos casos previstos nesta Lei, o voto é secreto.</p>\n<p><b>Parágrafo Único</b> - É assegurado o uso da palavra por representantes populares na tribuna da Câmara durante as reuniões, na forma e nos casos definidos pelo Regimento Interno.</p>\n<p><b>Art. 78</b> – A Câmara ou qualquer de suas comissões, a requerimento da maioria de seus membros, pode convocar, com antecedência mínima de dez dias, Secretário Municipal ou dirigente de entidade da administração indireta, para comparecer perante elas a fim de prestarem informações sobre o assunto previamente designado e constante da convocação, sob pena de responsabilidade.</p>\n<p><b>§ 1º</b> – Três dias úteis antes do comparecimento deverá ser enviada à Câmara exposição referente às informações solicitadas.</p>\n<p><b>§ 2º</b> - Em situações de urgência e interesse público relevante, o prazo de convocação mencionado no artigo poderá ser reduzido a até quarenta e oito horas, mediante requerimento aprovado por maioria absoluta dos membros da Câmara, hipótese em que não se aplicará o disposto no parágrafo anterior.</p>\n<p><b>§ 3º</b> – O Secretário poderá comparecer à Câmara ou a qualquer de suas comissões, por sua iniciativa e após entendimento com a Mesa, para expor assunto de relevância e interesse do Município.</p>\n<p><b>§ 4º</b> – A Mesa da Câmara pode de ofício ou requerimento do plenário, encaminhar ao Secretário, a dirigente de entidade da administração indireta e a outras autoridades municipais, pedido, por escrito, de informação e a recusa, ou o não atendimento no prazo de quinze dias, ou a prestação de informações falsas constituem infração administrativa, sujeita a responsabilização.</p>\n<h3>SEÇÃO III Dos Vereadores</h3>\n<p><b>Art. 79</b> – O Vereador é inviolável por suas opiniões, palavras e votos proferidos no exercício do mandato e na circunscrição do Município.</p>\n<p><b>Art. 80</b> – É defeso ao Vereador:</p>\n<p>I – desde a expedição do diploma:</p>\n<p>a) firmar ou manter contrato com pessoa jurídica de direito público, autarquia, fundação pública, empresa pública, sociedade de economia mista ou empresa delegatária de serviço público municipal, salvo quando o contrato obedecer a cláusula uniforme;</p>\n<p>b) aceitar ou exercer cargo, função ou emprego remunerados, inclusive os de que seja demissível “ad nutum”, nas entidades indicadas na alínea anterior;</p>\n<p>c) presidir ou dirigir entidades declaradas de utilidade pública.</p>\n<p>II – desde a posse:</p>\n<p>a) ser proprietário, controlador ou diretor de empresa que goze de favor decorrente de contrato com pessoa jurídica de direito público, ou nela exercer função remunerada;</p>\n<p>b) ocupar cargo ou função de que seja exonerável “ad nutun” nas entidades indicadas no inciso I, alínea “a”;</p>\n<p>c) patrocinar causa em que seja interessada qualquer das entidades a que se refere o inciso I, alínea “a”;</p>\n<p>d) ser titular de mais de um cargo ou mandato público eletivo.</p>\n<p><b>Art. 81</b> – Perderá o mandato o Vereador:</p>\n<p>I – que infringir proibição estabelecida no artigo anterior;</p>\n<p>II – que se utilizar do mandato para a prática de atos de corrupção ou de improbidade administrativa;</p>\n<p>III – que proceder de modo incompatível com a dignidade da Câmara ou faltar com o decoro na sua conduta pública;</p>\n<p>IV – que perder ou tiver suspenso seus direitos políticos;</p>\n<p>V – quando decretar a justiça eleitoral, nos casos previstos na Constituição da República;</p>\n<p>VI – que sofrer condenação criminal em sentença transitada em julgado;</p>\n<p>VII – que deixar de comparecer, em cada sessão legislativa, à terça parte das reuniões ordinárias da Câmara, salvo licença ou missão por essa autorizada;</p>\n<p>VIII – que fixar residência fora do Município.</p>\n<p><b>§ 1º</b> – É incompatível com o decoro parlamentar, além dos casos definidos no Regimento interno, o abuso de prerrogativa assegurada ao Vereador.</p>\n<p><b>§ 2º</b> – Nos casos dos incisos I, II, III, VI e VII, a perda de mandato será decidida pela Câmara por voto secreto de dois terços de seus membros, por provocação da Mesa ou de partido político devidamente registrado.</p>\n<p><b>§ 3º</b> – Nos casos dos incisos IV, V e VII a perda será declarada pela Mesa da Câmara, de ofício ou por provocação de qualquer de seus membros ou partido político devidamente registrado.</p>\n<p><b>§ 4º</b> - No caso do inciso VI, a perda será decidida, se culposo o crime, na forma do § 2º , e declarada, se doloso o crime, nos termos do § 3º .</p>\n<p><b>§ 5º</b> – O Regimento Interno disporá sobre o processo de julgamento, assegurada ampla defesa e observado o disposto no Art. 5o, CF e no que couber no Art. 107 e parágrafos desta Lei.</p>\n<p><b>Art. 82</b> – Não perderá o mandato o vereador:</p>\n<p>I - investido em cargo de Ministro da República, Secretário de Estado, Secretário do Município, Administrador Regional, chefe de missão diplomática temporária ou dirigente máximo de entidade de administração indireta na esfera federal, estadual ou municipal;</p>\n<p>II - investido em outro cargo do setor público, na esfera federal ou estadual, considerado de importância para o Município, desde que, neste caso, tenha sido autorizado por três quintos dos membros da Câmara;</p>\n<p>III - licenciado por motivo de doença ou para necessários cuidados físicos, aí incluídos os de maternidade, sendo indispensável, em todos os casos, a respectiva comprovação médica por profissional da Câmara, sob pena de responsabilização;</p>\n<p>IV - licenciado para tratar, sem remuneração, de interesse particular, desde que, neste caso, o afastamento não ultrapasse 60 (sessenta) dias por sessão legislativa.</p>\n<p><b>§ 1º</b> – O suplente será convocado nos casos de vaga, de investidura, em cargo mencionado neste artigo, ou de licença superior a sessenta dias.</p>\n<p><b>§ 2º</b> – Se ocorrer vaga e não houver suplente, far-se-á eleição para preenchê-la, se faltarem mais quinze meses para o término do mandato.</p>\n<p><b>§ 3º</b> – Na hipótese do inciso I, o Vereador poderá optar pela remuneração do mandato.</p>\n<p><b>Art. 83</b> – O subsídio dos vereadores será fixado por lei de iniciativa da Câmara Municipal, na razão de no máximo, setenta e cinco por cento daquele estabelecido, em espécie, para os Deputados Estaduais.</p>\n<p><b>Parágrafo Único</b> - Na hipótese de a Câmara deixar de exercer a competência de que trata o artigo, ficarão mantidos, na legislatura subseqüente, os valores de remuneração vigentes em dezembro do último exercício da legislatura anterior, admitida apenas a atualização dos mesmos.</p>\n<h3>SEÇÃO IV Das Comissões</h3>\n<p><b>Art. 84</b> – A Câmara terá comissões permanentes e temporárias, constituídas na forma do Regimento Interno e com as atribuições nele previstas, ou conforme os termos do ato de sua criação.</p>\n<p><b>§ 1º</b> – Na constituição da Mesa e na de cada comissão é assegurada, tanto quanto possível, a participação proporcional dos partidos políticos ou dos blocos parlamentares representadas na Câmara.</p>\n<p><b>§ 2º</b> – Às Comissões, em razão da matéria de sua competência, cabe:</p>\n<p>I – discutir e votar projeto de lei que dispensar, na forma do Regimento Interno, a competência do Plenário, salvo se houver recurso de 1/3 (um terço) dos membros da Câmara;</p>\n<p>II – realizar audiência pública com entidade da sociedade civil;</p>\n<p>III – realizar audiência pública em regiões do Município, para subsidiar o processo legislativo;</p>\n<p>IV – convocar, além das autoridades elencadas nesta Lei, outras autoridades ou servidor municipal para prestar informações sobre assunto inerente às suas atribuições, constituindo infração administrativa a recusa ou o não atendimento no prazo de trinta dias;</p>\n<p>V – receber petição, reclamação, representação ou queixa de qualquer pessoa contra ato ou omissão de autoridade ou entidade pública;</p>\n<p>VI – solicitar depoimento de qualquer autoridade ou cidadão;</p>\n<p>VII – apreciar plano de desenvolvimento e programas de que trata o inciso anterior e exercer a fiscalização dos recursos municipais neles investidos.</p>\n<p><b>§ 3º</b> – As Comissões parlamentares de inquérito, observada a Legislatura específica, no que couber, terão poderes de investigação próprios das autoridades judiciárias, além de outros previstos no Regimento Interno, e serão criadas a requerimento de um terço dos membros da Câmara, para apuração de fato determinado e por prazo certo, e suas conclusões, se for o caso, serão encaminhadas ao Ministério Público, ao Defensor do Povo ou a outra autoridade competente, para que se promova a responsabilidade civil, criminal ou administrativa do infrator.</p>\n<p><b>§ 4º</b> – As Comissões da Câmara e os cidadãos belovalenses terão livre acesso às dependências, arquivos, livros e documentos das repartições municipais, bastando, para tanto, uma simples comunicação do Presidente da Câmara ao Prefeito Municipal ou ao seu auxiliar direto “após deliberação do plenário”.</p>\n<h3>SEÇÃO V Das Atribuições da Câmara Municipal</h3>\n<p><b>Art. 85</b> – Cabe à Câmara Municipal, com a sanção do Prefeito, não exigida esta para o especificado no Art. 86, dispor sobre todas as matérias de competência do Município, especificamente:</p>\n<p>I – plano diretor;</p>\n<p>II – plano plurianual e orçamentos anuais;</p>\n<p>III – diretrizes orçamentárias;</p>\n<p>IV – sistema tributário municipal, arrecadação e distribuição de rendas;</p>\n<p>V – dívida pública, abertura e operação de crédito;</p>\n<p>VI – delegação de serviço público do Município;</p>\n<p>VII – fixação e modificação dos efetivos da Guarda municipal;</p>\n<p>VIII – criação, transformação e extinção de cargo, emprego e função públicos na administração direta, autárquica e fundacional e fixação de remuneração observados os parâmetros estabelecidos na Lei de Diretrizes Orçamentárias;</p>\n<p>IX – fixação do quadro de empregados das empresas públicas, sociedade de economia mista e demais entidades sob controle direto ou indireto do Município;</p>\n<p>X – servidor público da administração direta, autárquica e fundacional, seu regime jurídico único, provimento de cargos, estabilidade e aposentadoria;</p>\n<p>XI – criação, estruturação e definição de atribuições das secretarias municipais;</p>\n<p>XII – organização da Defensoria do Povo, da Procuradoria do Município, da Guarda Municipal e dos demais órgãos e entidades da administração pública;</p>\n<p>XIII – divisão regional da administração pública;</p>\n<p>XIV – divisão territorial do Município;</p>\n<p>XV – aquisição e alienação de bem imóvel do Município;</p>\n<p>XVI – cancelamento de dívida ativa do Município, autorização de suspensão de sua cobrança e de elevação de ônus e juros;</p>\n<p>XVII – transferência temporária da sede do Governo Municipal;</p>\n<p>XVIII – matéria decorrente da competência comum prevista no Art. 23o da Constituição da República.</p>\n<p>XIX – fixar, através de Lei de iniciativa da Câmara Municipal, os subsídios do Prefeito, Vice-Prefeito, Vereadores e Secretariado Municipal.</p>\n<p><b>Art. 86</b> – Compete privativamente à Câmara Municipal:</p>\n<p>I – eleger a Mesa e constituir as Comissões;</p>\n<p>II – elaborar o Regimento Interno;</p>\n<p>III – dispor sobre sua organização, funcionamento e política;</p>\n<p>IV – dispor sobre criação, transformação ou extinção de cargo, emprego e função de seus serviços e fixação da respectiva remuneração, observados os parâmetros estabelecidos na Lei de Diretrizes Orçamentárias;</p>\n<p>V – aprovar créditos suplementares ao orçamento de sua Secretaria, nos termos desta Lei Orgânica;</p>\n<p>VI – dar posse ao Prefeito e ao Vice-Prefeito;</p>\n<p>VII – conhecer da renúncia do Prefeito e do Vice-Prefeito;</p>\n<p>VIII – conceder licença ao Prefeito para interromper o exercício de suas funções;</p>\n<p>IX – autorizar o Prefeito a ausentar-se do Município e o Vice-Prefeito, do Estado, por mais de dez dias;</p>\n<p>X – processar e julgar o Prefeito, o Vice-Prefeito e o Secretário Municipal, nas infrações político-administrativas;</p>\n<p>XI – destituir do cargo o Prefeito, após condenação por crime comum ou de responsabilidade ou por infração político-administrativa, e o Vice-Prefeito e o Secretário Municipal, após a condenação por crime comum ou por infração político-administrativa;</p>\n<p>XII – proceder à tomada de contas do Prefeito não apresentadas dentro de sessenta dias da abertura da sessão legislativa;</p>\n<p>XIII – julgar, anualmente, as contas prestadas pelo Prefeito e apreciar os relatórios sobre a execução dos planos de governo;</p>\n<p>XIV – eleger, pelo voto de dois terços de seus membros, após arguição pública, o Defensor do povo;</p>\n<p>XV – autorizar previamente convênio intermunicipal para a modificação de limites;</p>\n<p>XVI – solicitar, pela maioria de seus membros, a intervenção estadual;</p>\n<p>XVII – suspender, no todo ou em parte, a execução de qualquer ato normativo municipal que haja sido, por decisão definitiva do poder Judiciário, declarado infringente das Constituições ou da Lei Orgânica;</p>\n<p>XVIII – sustar os atos normativos do poder Executivo que exorbitarem do poder regulamentar;</p>\n<p>XIX – fiscalizar e controlar os atos do Pode Executivo, incluídos os da administração indireta;</p>\n<p>XX – dispor sobre limites e condições para a concessão de garantia do Estado em operações de crédito;</p>\n<p>XXI – autorizar a realização de empréstimo, operação ou acordo externo, de qualquer natureza, de interesse do Município, regulando as sua condições e respectiva aplicação, observada a legislação federal;</p>\n<p>XXII – zelar pela preservação de sua competência legislativa em face da atribuição do poder Executivo;</p>\n<p>XXIII – aprovar, previamente, transferência ou concessão de bem imóvel público;</p>\n<p>XXIV – autorizar referendo e convocar plebiscito;</p>\n<p>XXV – autorizar a participação do Município em convênio, consórcio ou entidades intermunicipais destinadas à gestão de função pública, ao exercício de atividade ou à execução de serviços e obras de interesse comum;</p>\n<p>XXVI – mudar, temporária ou definitivamente, a sua sede;</p>\n<p>XXVII – autorizar a alteração dos nomes de prédios públicos municipais, vias e logradouros públicos, não sendo jamais permitida a alteração quando o prédio, via ou logradouro estiver homenageando personalidade municipal ou que tenha prestado serviços relevantes à comunidade;</p>\n<p>XXVIII – criar a sua Procuradoria Geral que a representará judicialmente, bem como prestará consultoria jurídica ao Poder Legislativo.</p>\n<p><b>§ 1º</b> – No caso previsto no inciso XII, a condenação, que somente será proferida por dois terços dos votos da Câmara, se limitará à perda do cargo, com inabilitação, por oito anos, para o exercício de função pública, sem prejuízo das demais sanções judiciais cabíveis;</p>\n<p><b>§ 2º</b> – Compete, ainda, à Câmara manifestar-se, por maioria de seus membros, a favor de proposta de emenda à Constituição do Estado.</p>\n<p><b>§ 3º</b> – O não encaminhamento à Câmara de convênio a que se refere o inciso XVI nos dez dias úteis subsequentes à sua celebração, ou a não apreciação dos mesmos, no prazo de sessenta dias do recebimento, implicam a nulidade dos atos já praticados em virtude de sua execução.</p>\n<p>XXIX – Convocar o Prefeito, o Vice-Prefeito ou qualquer um dos titulares dos Cargos de Confiança do Executivo para prestar informações, perante o Plenário, sobre assuntos relacionados com a administração Municipal, sempre que a medida se faça necessária para assegurar a fiscalização concreta do Legislativo sobre o Executivo.</p>\n<h3>SEÇÃO VI Do Processo Legislativo</h3>\n<p><b>Art. 87</b> – O processo legislativo compreende a elaboração de:</p>\n<p>I – Emenda à Lei Orgânica;</p>\n<p>II – Leis</p>\n<p>III – Decreto Legislativo;</p>\n<p>IV – Resolução.</p>\n<p><b>Parágrafo Único</b> – São ainda objeto de deliberação da Câmara na forma do Regimento Interno:</p>\n<p>I – a autorização;</p>\n<p>II – a indicação;</p>\n<p>III – o requerimento;</p>\n<p>IV – a representação.</p>\n<p><b>Art. 88</b> – A Lei Orgânica pode ser emendada mediante proposta:</p>\n<p>I – de, no mínimo, um terço dos membros da Câmara;</p>\n<p>II – do Prefeito;</p>\n<p>III – de, no mínimo, cinco por cento do eleitorado do Município.</p>\n<p><b>§ 1º</b> – A Lei Orgânica não pode ser emendada na vigência de estado de sítio ou estado de defesa, nem quando o Município estiver sob intervenção estadual.</p>\n<p><b>§ 2º</b> – A proposta será discutida e votada em dois turnos com o interstício mínimo de dez dias, e considerada aprovada se obtiver, em ambos, dois terços dos votos dos membros da Câmara.</p>\n<p><b>§ 3º</b> – Na discussão de proposta popular de emenda é assegurada a sua defesa, em comissão e em plenário, por um dos signatários.</p>\n<p><b>§ 4º</b> – A emenda à Lei Orgânica será promulgada pela Mesa da Câmara, com o respectivo número de ordem.</p>\n<p><b>§ 5º</b> – O referendo à emenda será realizado se for requerido no prazo máximo de noventa dias da promulgação, pela maioria dos membros da Câmara, pelo Prefeito ou por no mínimo, cinco por cento do eleitorado do Município.</p>\n<p><b>§ 6º</b> – A matéria constante de proposta de emenda rejeitada ou havida por prejudicada, não poderá ser reapresentada na mesma sessão legislativa.</p>\n<p><b>Art. 89</b> – A iniciativa de lei cabe a qualquer membro ou comissão da Câmara, ao Prefeito e aos cidadãos, na forma e nos casos definidos nesta Lei Orgânica.</p>\n<p><b>§ 1º</b> - São matéria de lei, dentre outras previstas nesta Lei Orgânica, que dependem de voto favorável:</p>\n<p>I - de dois terços dos membros da Câmara:</p>\n<p>a) o plano diretor;</p>\n<p>b) o parcelamento, a ocupação e o uso do solo;</p>\n<p>c) o código tributário;</p>\n<p>d) alteração das regras pertinentes ao estatuto dos servidores.</p>\n<p>II - da maioria dos membros da Câmara:</p>\n<p>a) o código de obras;</p>\n<p>b) o código de posturas;</p>\n<p>c) o código sanitário;</p>\n<p>d) a organização da Defensoria do Povo e da Guarda Municipal;</p>\n<p>e) a organização administrativa;</p>\n<p>f) a criação de cargos, funções e empregos públicos.</p>\n<p><b>§ 2º</b> - Será dada ampla divulgação aos projetos de Lei Orgânica, Estatuto e Código previstos no parágrafo anterior ou em outros dispositivos desta Lei, facultado a qualquer cidadão, no prazo de quinze dias da data de sua publicação, apresentar sugestão sobre qualquer um deles ao Presidente da Câmara, que a encaminhará à comissão respectiva, para apreciação.</p>\n<p><b>Art. 90</b> – São matérias de iniciativa privativa, além de outras previstas nesta Lei Orgânica:</p>\n<p>I – da Mesa da Câmara formalizada por meio de projeto de resolução:</p>\n<p>a) o regulamento geral, que disporá sobre a organização da Secretaria da Câmara, seu funcionamento, sua política, criação, transformação ou extinção de cargo, emprego ou função, regime jurídico de seus servidores e fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias e o disposto nas demais normas;</p>\n<p>b) a autorização para o Prefeito ausentar-se do Município;</p>\n<p>c) a mudança temporária da sede da Câmara;</p>\n<p>II – do Prefeito:</p>\n<p>a) a criação de cargo e função pública da administração direta, autárquica e fundacional e a fixação da respectiva remuneração, observados os parâmetros da lei de diretrizes orçamentárias;</p>\n<p>b) o regime jurídico único dos servidores públicos dos órgãos da administração direta, autárquica e fundacional, incluído o provimento de cargo, estabilidade e aposentadoria;</p>\n<p>c) o quadro de empregos das empresas públicas, sociedades de economia mista e demais entidades sob controle direto ou indireto do Município;</p>\n<p>d) a criação, organização e definição de atribuições de órgãos e entidades da administração pública, exceto as da Defensoria do Povo;</p>\n<p>e) os planos plurianuais;</p>\n<p>f) as diretrizes orçamentárias;</p>\n<p>g) os orçamentos anuais;</p>\n<p>h) a concessão de isenção, benefício ou incentivo fiscal;</p>\n<p>i) a divisão regional da administração pública.</p>\n<p><b>Art. 91</b> – Salvo nas hipóteses previstas no artigo anterior, a iniciativa popular pode ser exercida pela apresentação à Câmara de projeto de lei subscrito por, no mínimo, cinco por cento do eleitorado do Município, conforme o interesse ou abrangência da proposta, em lista organizada por entidade associativa, legalmente constituída, que se responsabilizará pela idoneidade das assinaturas.</p>\n<p><b>§ 1º</b> – Na discussão do projeto de iniciativa popular, é assegurada a sua defesa, em comissão e em plenário, por um dos signatários.</p>\n<p><b>§ 2º</b> – O disposto neste artigo e no § 1º se aplica à iniciativa popular de emenda a projeto de lei em tramitação na Câmara, respeitadas as vedações do artigo seguinte.</p>\n<p><b>Art. 92</b> – Não será admitido aumento da despesa prevista:</p>\n<p>I – nos projetos de iniciativa privativa do Prefeito, ressalvada a comprovação da existência de receita;</p>\n<p>II – nos projetos sobre organização dos serviços administrativos da Câmara.</p>\n<p><b>Art. 93</b> – O Prefeito pode solicitar urgência para a apreciação de projeto de sua iniciativa.</p>\n<p><b>§ 1º</b> – Se a Câmara não se manifestar em até quarenta e cinco dias sobre o projeto, será ele incluído na ordem do dia, sobrestando-se a deliberação quanto aos demais assuntos, para que se ultime a votação.</p>\n<p><b>§ 2º</b> – O prazo do parágrafo anterior não corre em período de recesso da Câmara, nem se aplica a projeto que depende de “quorum” especial para aprovação de Lei Orgânica, Estatutária ou equivalente a Código.</p>\n<p><b>Art. 94</b> – A proposição de lei, resultante do projeto aprovado pela Câmara, será enviada ao Prefeito que, no prazo de quinze dias, contados da data de seu recebimento:</p>\n<p>I – se aquiescer sancioná-la-á, ou;</p>\n<p>II – se a considerar, no todo ou em parte, inconstitucional ou contrária ao interesse público, vetá-la-á, total ou parcialmente.</p>\n<p><b>§ 1º</b> – O silêncio do Prefeito, decorrido o prazo, importa em sanção.</p>\n<p><b>§ 2º</b> – A sanção expressa ou tácita supre a iniciativa do Poder Executivo no processo legislativo.</p>\n<p><b>§ 3º</b> – O Prefeito publicará o veto e, dentro de quarenta e oito horas, comunicará seus motivos ao Presidente da Câmara.</p>\n<p><b>§ 4º</b> – O veto parcial abrangerá texto integral de artigo, de parágrafo, de inciso ou de alínea.</p>\n<p><b>§ 5º</b> – A Câmara, dentro de trinta dias contados do recebimento da comunicação do veto, sobre ele decidirá, em escrutínio secreto, e sua rejeição só ocorrerá pelo voto da maioria absoluta de seus membros:</p>\n<p>I – da maioria absoluta de seus membros, quando a matéria objeto da proposição de lei depender de aprovação por dois terços;</p>\n<p>II - da maioria de seus membros, quando a matéria depender de aprovação por “quorum” idêntico ou inferior.</p>\n<p><b>§ 6º</b> – Se o veto for mantido, será a proposição de lei enviada pelo Prefeito para promulgação.</p>\n<p><b>§ 7º</b> – Esgotado o prazo estabelecido no § 5º , sem deliberação o veto será incluído na ordem do dia da reunião imediata, sobrestadas as demais proposições, até a votação final, ressalvada a matéria de que trata o § 1º do artigo anterior.</p>\n<p><b>§ 8º</b> – Se, nos casos dos §§ 1º e 6o, a lei não for, dentro de quarenta e oito horas, promulgada pelo Prefeito, o Presidente da Câmara a promulgará e, se este não o fizer em igual prazo, caberá ao Vice-Presidente fazê-lo.</p>\n<p><b>§ 9º</b> – O referendo a projeto de lei será realizado se for requerido, no prazo máximo de noventa dias da promulgação, pela maioria dos membros da Câmara, pelo Prefeito ou por, no mínimo, cinco por cento do eleitorado do Município.</p>\n<p><b>Art. 95</b> – A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto, na mesma sessão legislativa, mediante proposta da maioria dos membros da Câmara ou de pelo menos cinco por cento do eleitorado.</p>\n<p><b>Art. 96</b> – Será dada ampla divulgação a projeto referido no § 2º do Art. 93, facultado a qualquer cidadão, no prazo de quinze dias da data de sua publicação, apresentar sugestão ao Presidente da Câmara, que a encaminhará à Comissão respectiva, para apreciação.</p>\n<p><b>Art. 97</b> – A requerimento de Vereador, aprovado pelo plenário, os projetos de lei, decorridos trinta dias de seu recebimento, serão incluídos na ordem do dia, mesmo sem parecer.</p>\n<p><b>Parágrafo Único</b> – O projeto somente pode ser retirado da ordem do dia a requerimento do autor, com aprovação do Plenário ou do líder do Prefeito.</p>\n<h3>CAPÍTULO II Do Poder Executivo</h3>\n<h3>SEÇÃO I Disposições Gerais</h3>",
+"quiz": [
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 72), o Poder Legislativo é exercido pela Câmara Municipal, composta de representantes do povo, eleitos pelo sistema proporcional, para uma legislatura com duração de 04 (quatro) anos.",
+"c": true,
+"prof": "Lei Orgânica, art. 72.",
+"x": "É o que dispõe o art. 72 da Lei Orgânica.",
+"e": "Art. 72."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 74, Parágrafo Único), a eleição da Mesa se dará por chapa, que poderá ou não ser completa e inscrita até a hora da eleição por qualquer Vereador.",
+"c": true,
+"prof": "Lei Orgânica, art. 74, Parágrafo Único.",
+"x": "É o que dispõe o art. 74, Parágrafo Único da Lei Orgânica.",
+"e": "Art. 74, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 76, § 1º), quando se tratar de matéria relativa a empréstimo, a concessão de privilégios, além de outras referidas nesta Lei, as deliberações da Câmara são tomadas por 2/3 (dois terços) de seus membros.",
+"c": true,
+"prof": "Lei Orgânica, art. 76, § 1º.",
+"x": "É o que dispõe o art. 76, § 1º da Lei Orgânica.",
+"e": "Art. 76, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 78, § 2º), em situações de urgência e interesse público relevante, o prazo de convocação mencionado no artigo poderá ser reduzido a até quarenta e oito horas, mediante requerimento aprovado por maioria absoluta dos membros da Câmara, hipótese em que não se aplicará o disposto no parágrafo anterior.",
+"c": true,
+"prof": "Lei Orgânica, art. 78, § 2º.",
+"x": "É o que dispõe o art. 78, § 2º da Lei Orgânica.",
+"e": "Art. 78, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 81, III), perderá o mandato o Vereador que proceder de modo incompatível com a dignidade da Câmara ou faltar com o decoro na sua conduta pública.",
+"c": true,
+"prof": "Lei Orgânica, art. 81, III.",
+"x": "É o que dispõe o art. 81, III da Lei Orgânica.",
+"e": "Art. 81, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 81, VIII), perderá o mandato o Vereador que fixar residência fora do Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 81, VIII.",
+"x": "É o que dispõe o art. 81, VIII da Lei Orgânica.",
+"e": "Art. 81, viii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 81, § 5º), o Regimento Interno disporá sobre o processo de julgamento, assegurada ampla defesa e observado o disposto no Art. 5o, CF e no que couber no Art. 107 e parágrafos desta Lei.",
+"c": true,
+"prof": "Lei Orgânica, art. 81, § 5º.",
+"x": "É o que dispõe o art. 81, § 5º da Lei Orgânica.",
+"e": "Art. 81, § 5º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 82, § 1º), o suplente será convocado nos casos de vaga, de investidura, em cargo mencionado neste artigo, ou de licença superior a sessenta dias.",
+"c": true,
+"prof": "Lei Orgânica, art. 82, § 1º.",
+"x": "É o que dispõe o art. 82, § 1º da Lei Orgânica.",
+"e": "Art. 82, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 84), a Câmara terá comissões permanentes e temporárias, constituídas na forma do Regimento Interno e com as atribuições nele previstas, ou conforme os termos do ato de sua criação.",
+"c": true,
+"prof": "Lei Orgânica, art. 84.",
+"x": "É o que dispõe o art. 84 da Lei Orgânica.",
+"e": "Art. 84."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 84, IV), às Comissões, em razão da matéria de sua competência, cabe convocar, além das autoridades elencadas nesta Lei, outras autoridades ou servidor municipal para prestar informações sobre assunto inerente às suas atribuições, constituindo infração administrativa a recusa ou o não atendimento no prazo de trinta dias.",
+"c": true,
+"prof": "Lei Orgânica, art. 84, IV.",
+"x": "É o que dispõe o art. 84, IV da Lei Orgânica.",
+"e": "Art. 84, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 85, I), cabe à Câmara Municipal, com a sanção do Prefeito, não exigida esta para o especificado no Art. 86, dispor sobre todas as matérias de competência do Município, especificamente plano diretor.",
+"c": true,
+"prof": "Lei Orgânica, art. 85, I.",
+"x": "É o que dispõe o art. 85, I da Lei Orgânica.",
+"e": "Art. 85, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 85, VI), cabe à Câmara Municipal, com a sanção do Prefeito, não exigida esta para o especificado no Art. 86, dispor sobre todas as matérias de competência do Município, especificamente delegação de serviço público do Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 85, VI.",
+"x": "É o que dispõe o art. 85, VI da Lei Orgânica.",
+"e": "Art. 85, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 85, XII), cabe à Câmara Municipal, com a sanção do Prefeito, não exigida esta para o especificado no Art. 86, dispor sobre todas as matérias de competência do Município, especificamente organização da Defensoria do Povo, da Procuradoria do Município, da Guarda Municipal e dos demais órgãos e entidades da administração pública.",
+"c": true,
+"prof": "Lei Orgânica, art. 85, XII.",
+"x": "É o que dispõe o art. 85, XII da Lei Orgânica.",
+"e": "Art. 85, xii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 85, XVII), cabe à Câmara Municipal, com a sanção do Prefeito, não exigida esta para o especificado no Art. 86, dispor sobre todas as matérias de competência do Município, especificamente transferência temporária da sede do Governo Municipal.",
+"c": true,
+"prof": "Lei Orgânica, art. 85, XVII.",
+"x": "É o que dispõe o art. 85, XVII da Lei Orgânica.",
+"e": "Art. 85, xvii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, III), compete privativamente à Câmara Municipal dispor sobre sua organização, funcionamento e política.",
+"c": true,
+"prof": "Lei Orgânica, art. 86, III.",
+"x": "É o que dispõe o art. 86, III da Lei Orgânica.",
+"e": "Art. 86, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, VII), compete privativamente à Câmara Municipal conhecer da renúncia do Prefeito e do Vice-Prefeito.",
+"c": true,
+"prof": "Lei Orgânica, art. 86, VII.",
+"x": "É o que dispõe o art. 86, VII da Lei Orgânica.",
+"e": "Art. 86, vii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, XII), compete privativamente à Câmara Municipal proceder à tomada de contas do Prefeito não apresentadas dentro de sessenta dias da abertura da sessão legislativa.",
+"c": true,
+"prof": "Lei Orgânica, art. 86, XII.",
+"x": "É o que dispõe o art. 86, XII da Lei Orgânica.",
+"e": "Art. 86, xii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, XVII), compete privativamente à Câmara Municipal suspender, no todo ou em parte, a execução de qualquer ato normativo municipal que haja sido, por decisão definitiva do poder Judiciário, declarado infringente das Constituições ou da Lei Orgânica.",
+"c": true,
+"prof": "Lei Orgânica, art. 86, XVII.",
+"x": "É o que dispõe o art. 86, XVII da Lei Orgânica.",
+"e": "Art. 86, xvii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, XXII), compete privativamente à Câmara Municipal zelar pela preservação de sua competência legislativa em face da atribuição do poder Executivo.",
+"c": true,
+"prof": "Lei Orgânica, art. 86, XXII.",
+"x": "É o que dispõe o art. 86, XXII da Lei Orgânica.",
+"e": "Art. 86, xxii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, XXVII), compete privativamente à Câmara Municipal autorizar a alteração dos nomes de prédios públicos municipais, vias e logradouros públicos, não sendo jamais permitida a alteração quando o prédio, via ou logradouro estiver homenageando personalidade municipal ou que tenha prestado serviços relevantes à comunidade.",
+"c": true,
+"prof": "Lei Orgânica, art. 86, XXVII.",
+"x": "É o que dispõe o art. 86, XXVII da Lei Orgânica.",
+"e": "Art. 86, xxvii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 87, I), o processo legislativo compreende a elaboração de Emenda à Lei Orgânica.",
+"c": true,
+"prof": "Lei Orgânica, art. 87, I.",
+"x": "É o que dispõe o art. 87, I da Lei Orgânica.",
+"e": "Art. 87, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 87, III), são ainda objeto de deliberação da Câmara na forma do Regimento Interno o requerimento.",
+"c": true,
+"prof": "Lei Orgânica, art. 87, III.",
+"x": "É o que dispõe o art. 87, III da Lei Orgânica.",
+"e": "Art. 87, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 88, § 1º), a Lei Orgânica não pode ser emendada na vigência de estado de sítio ou estado de defesa, nem quando o Município estiver sob intervenção estadual.",
+"c": true,
+"prof": "Lei Orgânica, art. 88, § 1º.",
+"x": "É o que dispõe o art. 88, § 1º da Lei Orgânica.",
+"e": "Art. 88, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 88, § 6º), a matéria constante de proposta de emenda rejeitada ou havida por prejudicada, não poderá ser reapresentada na mesma sessão legislativa.",
+"c": true,
+"prof": "Lei Orgânica, art. 88, § 6º.",
+"x": "É o que dispõe o art. 88, § 6º da Lei Orgânica.",
+"e": "Art. 88, § 6º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 92, II), não será admitido aumento da despesa prevista nos projetos sobre organização dos serviços administrativos da Câmara.",
+"c": true,
+"prof": "Lei Orgânica, art. 92, II.",
+"x": "É o que dispõe o art. 92, II da Lei Orgânica.",
+"e": "Art. 92, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 94, II), a proposição de lei, resultante do projeto aprovado pela Câmara, será enviada ao Prefeito que, no prazo de quinze dias, contados da data de seu recebimento se a considerar, no todo ou em parte, inconstitucional ou contrária ao interesse público, vetá-la-á, total ou parcialmente.",
+"c": true,
+"prof": "Lei Orgânica, art. 94, II.",
+"x": "É o que dispõe o art. 94, II da Lei Orgânica.",
+"e": "Art. 94, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 94, I), a Câmara, dentro de trinta dias contados do recebimento da comunicação do veto, sobre ele decidirá, em escrutínio secreto, e sua rejeição só ocorrerá pelo voto da maioria absoluta de seus membros da maioria absoluta de seus membros, quando a matéria objeto da proposição de lei depender de aprovação por dois terços.",
+"c": true,
+"prof": "Lei Orgânica, art. 94, I.",
+"x": "É o que dispõe o art. 94, I da Lei Orgânica.",
+"e": "Art. 94, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 94, § 9º), o referendo a projeto de lei será realizado se for requerido, no prazo máximo de noventa dias da promulgação, pela maioria dos membros da Câmara, pelo Prefeito ou por, no mínimo, cinco por cento do eleitorado do Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 94, § 9º.",
+"x": "É o que dispõe o art. 94, § 9º da Lei Orgânica.",
+"e": "Art. 94, § 9º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 72), o Poder Legislativo não é exercido pela Câmara Municipal, composta de representantes do povo, eleitos pelo sistema proporcional, para uma legislatura com duração de 04 (quatro) anos.",
+"c": false,
+"prof": "Lei Orgânica, art. 72.",
+"x": "O art. 72 afirma o contrário: O Poder Legislativo é exercido pela Câmara Municipal, composta de representantes do povo, eleitos pelo sistema proporcional, para uma legislatura com duração de 04 (quatro) anos.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 75, I), a convocação de sessão extraordinária não será feita pelo Presidente da Câmara, em caso de intervenção no Município e para compromisso e posse do Prefeito e Vice-Prefeito.",
+"c": false,
+"prof": "Lei Orgânica, art. 75, I.",
+"x": "O art. 75, I afirma o contrário: A convocação de sessão extraordinária será feita pelo Presidente da Câmara, em caso de intervenção no Município e para compromisso e posse do Prefeito e Vice-Prefeito.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 77), as reuniões da Câmara não são públicas, e somente nos casos previstos nesta Lei, o voto é secreto.",
+"c": false,
+"prof": "Lei Orgânica, art. 77.",
+"x": "O art. 77 afirma o contrário: As reuniões da Câmara são públicas, e somente nos casos previstos nesta Lei, o voto é secreto.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 79), o Vereador não é inviolável por suas opiniões, palavras e votos proferidos no exercício do mandato e na circunscrição do Município.",
+"c": false,
+"prof": "Lei Orgânica, art. 79.",
+"x": "O art. 79 afirma o contrário: O Vereador é inviolável por suas opiniões, palavras e votos proferidos no exercício do mandato e na circunscrição do Município.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 82, II), não perderá o mandato o vereador investido em outro cargo do setor público, na esfera federal ou estadual, considerado de importância para o Município, desde que, neste caso, tenha sido autorizado por dois terços dos membros da Câmara.",
+"c": false,
+"prof": "Lei Orgânica, art. 82, II.",
+"x": "O art. 82, II diz \"três quintos\", e não \"dois terços\".",
+"e": "Três quintos."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 84), a Câmara não terá comissões permanentes e temporárias, constituídas na forma do Regimento Interno e com as atribuições nele previstas, ou conforme os termos do ato de sua criação.",
+"c": false,
+"prof": "Lei Orgânica, art. 84.",
+"x": "O art. 84 afirma o contrário: A Câmara terá comissões permanentes e temporárias, constituídas na forma do Regimento Interno e com as atribuições nele previstas, ou conforme os termos do ato de sua criação.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 84, III), às Comissões, em razão da matéria de sua competência, não cabe realizar audiência pública em regiões do Município, para subsidiar o processo legislativo.",
+"c": false,
+"prof": "Lei Orgânica, art. 84, III.",
+"x": "O art. 84, III afirma o contrário: Às Comissões, em razão da matéria de sua competência, cabe realizar audiência pública em regiões do Município, para subsidiar o processo legislativo.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 84, VII), às Comissões, em razão da matéria de sua competência, não cabe apreciar plano de desenvolvimento e programas de que trata o inciso anterior e exercer a fiscalização dos recursos municipais neles investidos.",
+"c": false,
+"prof": "Lei Orgânica, art. 84, VII.",
+"x": "O art. 84, VII afirma o contrário: Às Comissões, em razão da matéria de sua competência, cabe apreciar plano de desenvolvimento e programas de que trata o inciso anterior e exercer a fiscalização dos recursos municipais neles investidos.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, III), compete concorrentemente à Câmara Municipal dispor sobre sua organização, funcionamento e política.",
+"c": false,
+"prof": "Lei Orgânica, art. 86, III.",
+"x": "O art. 86, III diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, VII), compete concorrentemente à Câmara Municipal conhecer da renúncia do Prefeito e do Vice-Prefeito.",
+"c": false,
+"prof": "Lei Orgânica, art. 86, VII.",
+"x": "O art. 86, VII diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, XI), compete concorrentemente à Câmara Municipal destituir do cargo o Prefeito, após condenação por crime comum ou de responsabilidade ou por infração político-administrativa, e o Vice-Prefeito e o Secretário Municipal, após a condenação por crime comum ou por infração político-administrativa.",
+"c": false,
+"prof": "Lei Orgânica, art. 86, XI.",
+"x": "O art. 86, XI diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, XV), compete concorrentemente à Câmara Municipal autorizar previamente convênio intermunicipal para a modificação de limites.",
+"c": false,
+"prof": "Lei Orgânica, art. 86, XV.",
+"x": "O art. 86, XV diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, XVIII), compete concorrentemente à Câmara Municipal sustar os atos normativos do poder Executivo que exorbitarem do poder regulamentar.",
+"c": false,
+"prof": "Lei Orgânica, art. 86, XVIII.",
+"x": "O art. 86, XVIII diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, XXII), compete concorrentemente à Câmara Municipal zelar pela preservação de sua competência legislativa em face da atribuição do poder Executivo.",
+"c": false,
+"prof": "Lei Orgânica, art. 86, XXII.",
+"x": "O art. 86, XXII diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, XXVI), compete concorrentemente à Câmara Municipal mudar, temporária ou definitivamente, a sua sede.",
+"c": false,
+"prof": "Lei Orgânica, art. 86, XXVI.",
+"x": "O art. 86, XXVI diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 86, § 3º), o não encaminhamento à Câmara de convênio a que se refere o inciso XVI nos dez dias úteis subsequentes à sua celebração, ou a não apreciação dos mesmos, no prazo de noventa dias do recebimento, implicam a nulidade dos atos já praticados em virtude de sua execução.",
+"c": false,
+"prof": "Lei Orgânica, art. 86, § 3º.",
+"x": "O art. 86, § 3º diz \"sessenta dias\", e não \"noventa dias\".",
+"e": "Sessenta dias."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 88, I), a Lei Orgânica pode ser emendada mediante proposta de, no mínimo, um quinto dos membros da Câmara.",
+"c": false,
+"prof": "Lei Orgânica, art. 88, I.",
+"x": "O art. 88, I diz \"um terço\", e não \"um quinto\".",
+"e": "Um terço."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 88, § 3º), na discussão de proposta popular de emenda não é assegurada a sua defesa, em comissão e em plenário, por um dos signatários.",
+"c": false,
+"prof": "Lei Orgânica, art. 88, § 3º.",
+"x": "O art. 88, § 3º afirma o contrário: Na discussão de proposta popular de emenda é assegurada a sua defesa, em comissão e em plenário, por um dos signatários.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 91, § 1º), na discussão do projeto de iniciativa popular, não é assegurada a sua defesa, em comissão e em plenário, por um dos signatários.",
+"c": false,
+"prof": "Lei Orgânica, art. 91, § 1º.",
+"x": "O art. 91, § 1º afirma o contrário: Na discussão do projeto de iniciativa popular, é assegurada a sua defesa, em comissão e em plenário, por um dos signatários.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 94, II), a proposição de lei, resultante do projeto aprovado pela Câmara, será enviada ao Prefeito que, no prazo de trinta dias, contados da data de seu recebimento se a considerar, no todo ou em parte, inconstitucional ou contrária ao interesse público, vetá-la-á, total ou parcialmente.",
+"c": false,
+"prof": "Lei Orgânica, art. 94, II.",
+"x": "O art. 94, II diz \"quinze dias\", e não \"trinta dias\".",
+"e": "Quinze dias."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 94, § 6º), se o veto for mantido, não será a proposição de lei enviada pelo Prefeito para promulgação.",
+"c": false,
+"prof": "Lei Orgânica, art. 94, § 6º.",
+"x": "O art. 94, § 6º afirma o contrário: Se o veto for mantido, será a proposição de lei enviada pelo Prefeito para promulgação.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 95), a matéria constante de projeto de lei rejeitado somente não poderá constituir objeto de novo projeto, na mesma sessão legislativa, mediante proposta da maioria dos membros da Câmara ou de pelo menos cinco por cento do eleitorado.",
+"c": false,
+"prof": "Lei Orgânica, art. 95.",
+"x": "O art. 95 afirma o contrário: A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto, na mesma sessão legislativa, mediante proposta da maioria dos membros da Câmara ou de pelo menos cinco por cento do eleitorado.",
+"e": "Afirmação, não negação."
+}
+]
+},
+"lom-executivo": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>98–116</b><span>artigos da Lei Orgânica reproduzidos na íntegra neste tópico</span></div><div class=\"lt-stat\"><b>50</b><span>questões novas de lei seca (certo ou errado)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: a banca copia a lei e troca uma palavra (prazo, quórum, competência, \"pode\" por \"deve\")</span></div></div>\n<h3>Como estudar este tópico</h3>\n<ul><li>Este tópico traz o <b>texto integral</b> dos <b>arts. 98 a 116</b> da <b>Lei Orgânica do Município de Belo Vale</b> (Lei nº 806/1990, edição atualizada em 2012), exigida no edital do concurso de Belo Vale (Legislação Municipal). O resumo comentado que estava aqui antes continua disponível na <b>Leitura complementar</b>, no fim da página.</li><li><b>Método de leitura de lei seca</b>: leia cada artigo prestando atenção a <b>quem</b> faz (Prefeito, Câmara, Mesa, Município), <b>o que</b> faz, <b>em que prazo</b> e <b>com qual quórum</b>. São exatamente esses elementos que as bancas trocam nas questões de certo ou errado.</li><li><b>Marque as palavras de alcance</b>: \"privativamente\", \"exclusivamente\", \"vedado\", \"poderá\" x \"deverá\", \"maioria absoluta\" x \"dois terços\", \"dias\" x \"dias úteis\". Uma única troca torna a assertiva errada.</li><li>As questões deste tópico foram montadas <b>a partir do próprio texto da lei</b>: as certas reproduzem o dispositivo; as erradas alteram um prazo, um quórum, uma competência ou negam o que a lei afirma. O comentário de cada questão indica o artigo correspondente.</li></ul>\n<h3>Estrutura do trecho</h3>\n<ul><li>CAPÍTULO II Do Poder Executivo</li><li>SEÇÃO I Disposições Gerais</li><li>SEÇÃO II Das Atribuições do Prefeito Municipal</li><li>SEÇÃO III Do Processo e Julgamento do Prefeito Municipal</li><li>SEÇÃO IV Dos Secretários Municipais</li><li>SEÇÃO V Da Procuradoria do Município</li><li>CAPÍTULO III Da Fiscalização e dos Controles</li><li>SEÇÃO I Disposições Gerais</li><li>SEÇÃO II Da Defensoria do Povo</li><li>TÍTULO V Das Finanças Públicas</li><li>CAPÍTULO I Da Tributação</li><li>SEÇÃO I Dos Tributos Municipais</li></ul>\n<h3>Texto integral da Lei Orgânica (arts. 98 a 116)</h3>\n<h3>CAPÍTULO II Do Poder Executivo</h3>\n<h3>SEÇÃO I Disposições Gerais</h3>\n<p><b>Art. 98</b> – O Poder Executivo é exercido pelo Prefeito do Município, auxiliado pelos Secretários Municipais.</p>\n<p><b>Art. 99</b> – A eleição do Prefeito e do Vice-Prefeito, nos termos estabelecidos pela Constituição da República.</p>\n<p><b>Parágrafo Único</b> – Perderá o mandato o Prefeito que assumir outro cargo ou função na administração pública direta ou indireta, ressalvada a posse em virtude de concurso público.</p>\n<p><b>Art. 100</b> – A eleição do Prefeito importará, para mandato correspondente, a do Vice- Prefeito com ele registrado.</p>\n<p><b>§ 1º</b> - O Prefeito e o Vice-Prefeito tomarão posse em reunião da Câmara, prestando compromisso de defender e cumprir a Lei Orgânica do Município, as Constituições da República e do Estado, observar as leis, promover o bem geral do povo belovalense e exercer o seu cargo sob a inspiração do interesse público, da lealdade e da honra.</p>\n<p><b>§ 2º</b> – No ato da posse e ao término do mandato, o Prefeito e o Vice-Prefeito farão declaração pública de seus bens, em cartório de títulos e documentos, sob pena de responsabilidade e de impedimento para o exercício de qualquer outro cargo no Município.</p>\n<p><b>§ 3º</b> – O Vice-Prefeito substituirá o Prefeito no caso de impedimento, e lhe sucederá, no caso de vaga.</p>\n<p><b>§ 4º</b> – O Vice-Prefeito auxiliará o Prefeito, sempre que por ele convocado para missões especiais.</p>\n<p><b>§ 5º</b> – O Prefeito poderá afastar-se de sua função, sem prejuízo de sua remuneração e do cumprimento do estatuído no parágrafo único do Art. 94 desta Lei, por um período não superior a trinta dias corridos por ano, substituindo-o, interinamente o Vice-Prefeito ou seu sucessor imediato.</p>\n<p><b>Art. 101</b> – No caso de impedimento do Prefeito e do Vice-Prefeito ou no de vacância dos respectivos cargos, será chamado ao exercício do Governo o Presidente da Câmara.</p>\n<p><b>§ 1º</b> – Vagando os cargos de Prefeito e Vice-Prefeito, far-se-á eleição noventa dias depois de aberta a última vaga.</p>\n<p><b>§ 2º</b> – Ocorrendo a vacância nos últimos quinze meses do mandato governamental, a eleição para ambos os cargos será feita trinta dias depois da última vaga, pela Câmara, na forma da lei complementar.</p>\n<p><b>§ 3º</b> – Em qualquer dos casos, os eleitos deverão completar o período de seus antecessores.</p>\n<p><b>Art. 102</b> – Se, decorridos dez dias da data fixada para a posse, o Prefeito ou o Vice- Prefeito, salvo motivo de força maior, reconhecido pela Câmara, não tiver assumido o cargo, este será declarado vago.</p>\n<p><b>Art. 103</b> – O Prefeito e o Vice-Prefeito residirão no Município.</p>\n<p><b>Parágrafo Único</b> – O Prefeito não poderá ausentar-se do Município e o Vice-Prefeito, do Estado, sem autorização da Câmara, por mais de quinze dias consecutivos, sob pena de perder o cargo.</p>\n<h3>SEÇÃO II Das Atribuições do Prefeito Municipal</h3>\n<p><b>Art. 104</b> – Compete privativamente ao Prefeito:</p>\n<p>I – nomear e exonerar o Secretário Municipal;</p>\n<p>II – exercer, com o auxílio do Secretário Municipal, a direção superior do Poder Executivo;</p>\n<p>III – prover e extinguir os cargos públicos do Poder Executivo, observado o disposto nesta Lei Orgânica;</p>\n<p>IV – prover os cargos de direção ou administração superior de autarquia e fundação pública;</p>\n<p>V – iniciar o processo legislativo, na forma e nos casos previstos nesta Lei Orgânica;</p>\n<p>VI – fundamentar os projetos de lei que remeter à Câmara;</p>\n<p>VII – sancionar, promulgar e fazer publicar as leis e, para sua fiel execução, expedir decretos e regulamentos;</p>\n<p>VIII – vetar proposições de lei;</p>\n<p>IX- remeter mensagem e planos de governo à Câmara, quando da reunião inaugural da sessão legislativa ordinária, expondo a situação do Município, especialmente o estado das obras e dos serviços municipais;</p>\n<p>X – enviar à Câmara a proposta de plano plurianual, o projeto da Lei de Diretrizes Orçamentárias e as propostas de orçamento;</p>\n<p>XI – prestar, anualmente, dentro de sessenta dias da abertura da sessão legislativa ordinária, as contas referentes ao exercício anterior;</p>\n<p>XII – remeter à Câmara até o dia dez de cada mês, o balancete do mês anterior, acompanhados das minutas da receita e dos comprovantes de despesa;</p>\n<p>XIII – remeter à Câmara, no prazo fixado no inciso anterior, processos licitatórios realizados, os contratos celebrados e demais atos administrativos praticados no mês anterior;</p>\n<p>XIV – extinguir cargo desnecessário desde que vago ou ocupado por servidor público não estável, na forma da Lei;</p>\n<p>XV – dispor, na forma da lei, sobre a organização e a atividade do poder Executivo;</p>\n<p>XVI – celebrar convênios, ajustes e contratos de interesse municipal;</p>\n<p>XVII – contrair empréstimo, externo ou interno, e fazer operação ou acordo externo de qualquer natureza, mediante prévia autorização da Câmara, observados os parâmetros de endividamento regulados em lei, dentro dos princípios da Constituição da República;</p>\n<p>XVIII – convocar extraordinariamente a Câmara, em caso de urgência e interesse público relevante;</p>\n<p>XIX – criar o Conselho de Defesa Social;</p>\n<p>XX - fixar, mediante decreto, o preço dos bens e serviços públicos;</p>\n<p>XXI - exercer outras atribuições previstas nesta Lei Orgânica.</p>\n<h3>SEÇÃO III Do Processo e Julgamento do Prefeito Municipal</h3>\n<p><b>Art. 105</b> – São crimes de responsabilidade os atos do Prefeito que atentem contra as Constituições da República e do Estado, esta Lei Orgânica e, especialmente, contra:</p>\n<p>I – a existência do Município;</p>\n<p>II – o livre exercício do poder Legislativo, do poder Judiciário, do ministério público e dos poderes constitucionais das unidades da Federação;</p>\n<p>III – o exercício dos direitos políticos, individuais e sociais;</p>\n<p>IV – a segurança interna do Município;</p>\n<p>V – a probidade na administração;</p>\n<p>VI – a lei orçamentária;</p>\n<p>VII – o cumprimento das leis e das decisões judiciais.</p>\n<p><b>§ 1º</b> – Esses crimes são definidos em lei federal especial, que estabelece as normas de processo e julgamento.</p>\n<p><b>§ 2º</b> – Nos crimes de responsabilidade, assim como nos comuns, o Prefeito será submetido a processo e julgamento perante o Tribunal de Justiça do Estado de Minas Gerais.</p>\n<p><b>§ 3º</b> – É vedada a preferência por qualquer entidade, no que diz respeito à distribuição de subvenção, de incentivo ou apoio.</p>\n<p><b>Art. 106</b> – São infrações político-administrativas do Prefeito, sujeitas ao julgamento pela Câmara e sancionadas com a perda do mandato:</p>\n<p>I – impedir o funcionamento regular da Câmara;</p>\n<p>II – obstaculizar, de qualquer forma, o exercício regular fiscalizador da Câmara Municipal, deixando de prestar as informações e documentos solicitados;</p>\n<p>III – impedir o exame de livros, folhas de pagamento e demais documentos que devam constar dos arquivos da Prefeitura, bem como a verificação de obras e serviços municipais, por comissão de investigação da Câmara pelo Defensor do Povo ou por auditoria regularmente instituída;</p>\n<p>IV – antecipar ou inverter a ordem de pagamento a credores do Município, sem vantagem para o erário;</p>\n<p>V – desatender, sem motivo justo, as convocações ou os pedidos de informações da Câmara, quando feitos a tempo e em forma regular;</p>\n<p>VI – retardar a publicação ou deixar de publicar as leis e atos sujeitos a essa formalidade;</p>\n<p>VII – deixar de apresentar à Câmara, no devido tempo, e em forma regular, a proposta orçamentária;</p>\n<p>VIII – descumprir o orçamento aprovado para exercício financeiro;</p>\n<p>IX – praticar ato administrativo contra a expressa disposição de lei ou omitir-se na prática daquele por ela exigido;</p>\n<p>X – omitir-se ou negligenciar na defesa de bens, rendas, direitos ou interesses do Município, sujeitos à administração da Prefeitura;</p>\n<p>XI – ausentar-se do Município, por tempo superior ao permitido nesta Lei Orgânica, ou afastar-se da Prefeitura, sem autorização da Câmara;</p>\n<p>XII - deixar de remeter à Câmara, até o dia vinte de cada mês, um duodécimo da dotação orçamentária destinada ao Poder Legislativo, salvo se por motivo justo, fundamentado ao Presidente da Câmara em tempo hábil;</p>\n<p>XIII – proceder de modo incompatível com a dignidade e o decoro do cargo;</p>\n<p>XIV – deixar de prestar, dentro de quinze dias, as informações solicitadas pela Câmara, pelo defensor público e por entidades representativas da sociedade civil, referente aos atos administrativos e de interesse da coletividade;</p>\n<p><b>§ 1º</b> – A denúncia, escrita e assinada, poderá ser feita por qualquer cidadão, com a exposição dos fatos e a indicação das provas.</p>\n<p><b>§ 2º</b> – Se o denunciante for Vereador, ficará impedido de votar sobre a denúncia e de integrar a comissão processante e, se for o Presidente da Câmara, passará a presidência ao substituto legal, para os atos do processo.</p>\n<p><b>§ 3º</b> – Será convocado o suplente do vereador impedido de votar, o qual não poderá integrar a comissão processante.</p>\n<p><b>§ 4º</b> – De posse da denúncia, o Presidente da Câmara, na primeira reunião subsequente, determinará sua leitura e constituirá a comissão processante, formada por, no mínimo, três Vereadores, sorteados entre os desimpedidos e pertencentes a partidos diferentes, os quais elegerão, desde logo, o presidente e o relator.</p>\n<p><b>§ 5º</b> – A comissão, no prazo de quinze dias, emitirá parecer que será submetido ao plenário, opinando pelo prosseguimento ou arquivamento da denúncia, podendo proceder às diligências que julgar necessárias.</p>\n<p><b>§ 6º</b> – Aprovado o parecer favorável ao prosseguimento do processo, o Presidente determinará, desde logo, a abertura da instrução, citando o denunciado, com a remessa de cópia da denúncia, dos documentos que a instruem e do parecer da comissão informando- lhe o prazo de quinze dias para o oferecimento da contestação e indicação dos meios de prova com que pretenda demonstrar a verdade do alegado.</p>\n<p><b>§ 7º</b> – Findo o prazo estipulado no parágrafo anterior, com ou sem contestação, a comissão processante determinará as diligências requeridas, ou que julgar convenientes, e realizará as audiências necessárias para a tomada do depoimento das testemunhas de ambas as partes, podendo ouvir o denunciante e o denunciado, que poderá assistir pessoalmente, ou por seu procurador, a todas as reuniões e diligências da comissão, interrogando e contraditando as testemunhas e requerendo a reinquirição ou acareação das mesmas.</p>\n<p><b>§ 8º</b> – Após as diligências, a comissão proferirá, no prazo de dez dias, parecer final sobre a procedência o improcedência da acusação e solicitará ao Presidente da Câmara a convocação de reunião para julgamento, que se realizará após a distribuição do parecer.</p>\n<p><b>§ 9º</b> – na reunião de julgamento, o processo será lido integralmente e, a seguir, os Vereadores que o desejarem poderão manifestar-se verbalmente, pelo tempo máximo de quinze minutos cada um, sendo que, ao final, o denunciado ou seu procurador terá o máximo de duas horas para produzir sua defesa oral.</p>\n<p><b>§ 10º</b> – Terminada a defesa, proceder-se-á a tantas votações nominais quantas forem as infrações articuladas na denúncia.</p>\n<p><b>§ 11º</b> – Considerar-se-á afastado, definitivamente, do cargo, o denunciado que for declarado, pelo voto de dois terços, pelo menos, dos membros da Câmara, incurso em qualquer das infrações especificadas na denúncia.</p>\n<p><b>§ 12º</b> – Concluído o julgamento, o presidente da Câmara proclamará imediatamente o resultado e fará lavrar ata que consigne a votação nominal sobre cada infração e, se houver condenação, expedirá a competente resolução de cassação de mandato do prefeito ou, se o resultado da votação for absolutório, determinará o arquivamento do processo, comunicando, em qualquer dos casos, o resultado à Justiça eleitoral.</p>\n<p><b>§ 13º</b> - O processo deverá estar concluído dentro de noventa dias, contados da citação do acusado e, transcorrido o prazo sem julgamento, será arquivado, sem prejuízo de nova denúncia ainda que sobre os mesmos fatos.</p>\n<p><b>Art. 107</b> – O Prefeito será suspenso de suas funções:</p>\n<p>I – nos crimes comuns e responsabilidade, se recebida a denúncia ou a queixa pelo Tribunal de Justiça;</p>\n<p>II – nas infrações político-administrativas, se admitida a acusação e instaurado o processo, pela Câmara.</p>\n<h3>SEÇÃO IV Dos Secretários Municipais</h3>\n<p><b>Art. 108</b> – Os Secretários Municipais serão escolhidos dentre brasileiros, maiores de vinte um anos de idade, no exercício dos direitos políticos e estão sujeitos, desde a posse, aos mesmos impedimentos do Vereador.</p>\n<p><b>Parágrafo Único</b> – Além de outras atribuições conferidas em lei, compete aos auxiliares diretos do Prefeito:</p>\n<p>I – orientar, coordenar e supervisionar as atividades dos órgãos de sua Secretaria e das entidades da administração indireta a ela vinculadas;</p>\n<p>II – referendar ato e decreto do Prefeito;</p>\n<p>III – expedir instruções para a execução de lei, decreto e regulamento;</p>\n<p>IV – apresentar ao Prefeito relatório anual de sua gestão;</p>\n<p>V – comparecer à Câmara, nos casos e para os fins previstos nesta Lei Orgânica;</p>\n<p>VI – praticar os atos pertinentes às atribuições que lhes forem outorgadas ou delegadas pelo Prefeito.</p>\n<p><b>Art. 109</b> – Os Secretários serão processados e julgados perante o juiz de Direito da Comarca, nos crimes comuns, e de responsabilidade, perante a Câmara, nas infrações políticas administrativas.</p>\n<h3>SEÇÃO V Da Procuradoria do Município</h3>\n<p><b>Art. 110</b> – A Procuradoria do Município é a instituição que o representa judicialmente, cabendo-lhe ainda as atividades de consultoria e assessoramento jurídico ao poder Executivo e, privativamente, a execução de dívida ativa de natureza tributária:</p>\n<p><b>§ 1º</b> – A Procuradoria do Município reger-se-á por lei própria, atendendo-se com relação aos seus integrantes, no que couber o disposto nos Arts. 37, inciso XII e 39, § 1º , da Constituição da República.</p>\n<p><b>§ 2º</b> - O ingresso na classe inicial da carreira de Procurador Municipal far-se-á mediante concurso público de prova e títulos.</p>\n<p><b>§ 3º</b> – A Procuradoria do Município tem por chefe o Procurador Geral do Município, de livre designação pelo Prefeito, dentre advogados de reconhecido saber jurídico e reputação ilibada.</p>\n<h3>CAPÍTULO III Da Fiscalização e dos Controles</h3>\n<h3>SEÇÃO I Disposições Gerais</h3>\n<p><b>Art. 111</b> – A fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Município e das entidades da administração indireta é exercida pela Câmara, mediante controle externo, e pelo sistema interno de Cada poder e entidade.</p>\n<p><b>§ 1º</b> – O controle externo, a cargo da Câmara, será exercido com o auxílio do Tribunal de contas do Estado.</p>\n<p><b>§ 2º</b> – Os Poderes Legislativo e Executivo e as entidades da administração indireta manterão, de forma integrada, sistema de controle interno, com a finalidade de:</p>\n<p>I – avaliar o cumprimento das metas previstas nos respectivos planos plurianuais e a execução dos programas de governo e orçamentos;</p>\n<p>II – comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira e patrimonial dos órgãos da administração direta e das entidades da administração indireta, e da aplicação de recursos públicos por entidade de direito privado;</p>\n<p>III – exercer o controle de operações de crédito, avais e garantias e o de seus direitos e haveres;</p>\n<p>IV – apoiar o controle externo no exercício de sua missão institucional.</p>\n<p><b>§ 3º</b> – Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, delas darão ciência ao Tribunal de Contas e ao Defensor do Povo, sob pena de responsabilidade solidária.</p>\n<p><b>§ 4º</b> – Aplica-se o disposto no parágrafo anterior ao servidor público municipal.</p>\n<p><b>Art. 112</b> – Qualquer cidadão, partido político, associação legalmente constituída ou sindicato é parte legítima para, na forma da lei, denunciar irregularidade ou ilegalidade de ato de agente público.</p>\n<p><b>Parágrafo Único</b> – A denúncia poderá ser feita, em qualquer caso, à Câmara e à Defensoria do Povo, ou, sobre o assunto da respectiva competência, ao ministério Público ou ao Tribunal de contas.</p>\n<p><b>Art. 113</b> – As contas do Prefeito, referentes à gestão financeira do ano anterior, serão julgadas pela Câmara mediante parecer prévio do Tribunal de Contas, que o emitirá dentro de trezentos e sessenta e cinco dias, contados do recebimento das mesmas, nos termos do</p>\n<p>Art. 180 da Constituição do Estado.</p>\n<p><b>§ 1º</b> – As decisões do Tribunal de Contas de que resulte imputação de débitos ou multa, terão eficácia de título executivo.</p>\n<p><b>§ 2º</b> – No primeiro e no último ano de mandato do Prefeito Municipal, o Município enviará ao Tribunal de contas e à Câmara Municipal, inventário de todos os seus bens móveis e imóveis.</p>\n<p><b>Art. 114</b> – A Câmara, após aprovação de maioria de seus membros, convocará plebiscito para que o eleitorado do Município se manifeste sobre ato político do Poder Executivo ou do Poder Legislativo, desde que requerida a convocação por Vereador, pelo prefeito ou no mínimo por cinco por cento do eleitorado do Município.</p>\n<h3>SEÇÃO II Da Defensoria do Povo</h3>\n<p><b>Art. 115</b> – A Defensoria do Povo é órgão público dotado de autonomia administrativa e financeira e com funções de controle da administração pública, e suas atribuições, organização e financiamento serão definidas em Lei Complementar.</p>\n<p><b>§ 1º</b> – A Defensoria é dirigida pelo Defensor do povo, com mais de trinta anos de idade, notável experiência, espírito público, reputação ilibada e reconhecido senso de justiça e equidade, nomeado pelo Presidente da Câmara, após aprovação de dois terços dos membros desta, para mandato, não renovável de cinco anos.</p>\n<p><b>§ 2º</b> – O Defensor do Povo se sujeita, no que couber e na forma da lei, às proibições, incompatibilidades e perda do mandato aplicáveis ao Vereador.</p>\n<p><b>Art. 116</b> – A Defensoria do Povo terá, entre outras, as seguintes atribuições:</p>\n<p>I – apurar os atos, fatos e omissões de órgãos e entidades da administração pública ou de seus agentes, que impliquem em exercício ilegítimo, inconveniente ou inoportuno de suas funções;</p>\n<p>II – apurar:</p>\n<p>a) as reclamações contra o serviço público;</p>\n<p>b) os atos ou omissões do Poder Público, com ofensa dos princípios a que se sujeita a administração, de modo especial o pertinente à moralidade administrativa;</p>\n<p>III – divulgar, para conhecimento do cidadão, os direitos destes em face do Poder Público, incluído o de exercer o controle direto dos atos administrativos;</p>\n<p>IV – divulgar informações e avaliações relativas à sua ação, com o direito de publicá-la em órgão oficial de imprensa;</p>\n<p>V – acompanhar os processos de licitação;</p>\n<p>VI – encaminhar relatórios de suas atividades e prestar suas contas à Câmara.</p>\n<p><b>Parágrafo Único</b> – Obrigam-se as autoridades de órgãos e entidades a fornecer, em caráter prioritário e em regime de urgência, sob pena de responsabilidade, documentos, dados, informações e certidões solicitadas ao Defensor do Povo.</p>\n<h3>TÍTULO V Das Finanças Públicas</h3>\n<h3>CAPÍTULO I Da Tributação</h3>\n<h3>SEÇÃO I Dos Tributos Municipais</h3>",
+"quiz": [
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 98), o Poder Executivo é exercido pelo Prefeito do Município, auxiliado pelos Secretários Municipais.",
+"c": true,
+"prof": "Lei Orgânica, art. 98.",
+"x": "É o que dispõe o art. 98 da Lei Orgânica.",
+"e": "Art. 98."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 100), a eleição do Prefeito importará, para mandato correspondente, a do Vice- Prefeito com ele registrado.",
+"c": true,
+"prof": "Lei Orgânica, art. 100.",
+"x": "É o que dispõe o art. 100 da Lei Orgânica.",
+"e": "Art. 100."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 100, § 4º), o Vice-Prefeito auxiliará o Prefeito, sempre que por ele convocado para missões especiais.",
+"c": true,
+"prof": "Lei Orgânica, art. 100, § 4º.",
+"x": "É o que dispõe o art. 100, § 4º da Lei Orgânica.",
+"e": "Art. 100, § 4º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 101, § 2º), ocorrendo a vacância nos últimos quinze meses do mandato governamental, a eleição para ambos os cargos será feita trinta dias depois da última vaga, pela Câmara, na forma da lei complementar.",
+"c": true,
+"prof": "Lei Orgânica, art. 101, § 2º.",
+"x": "É o que dispõe o art. 101, § 2º da Lei Orgânica.",
+"e": "Art. 101, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 103, Parágrafo Único), o Prefeito não poderá ausentar-se do Município e o Vice-Prefeito, do Estado, sem autorização da Câmara, por mais de quinze dias consecutivos, sob pena de perder o cargo.",
+"c": true,
+"prof": "Lei Orgânica, art. 103, Parágrafo Único.",
+"x": "É o que dispõe o art. 103, Parágrafo Único da Lei Orgânica.",
+"e": "Art. 103, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, IV), compete privativamente ao Prefeito prover os cargos de direção ou administração superior de autarquia e fundação pública.",
+"c": true,
+"prof": "Lei Orgânica, art. 104, IV.",
+"x": "É o que dispõe o art. 104, IV da Lei Orgânica.",
+"e": "Art. 104, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, VIII), compete privativamente ao Prefeito vetar proposições de lei.",
+"c": true,
+"prof": "Lei Orgânica, art. 104, VIII.",
+"x": "É o que dispõe o art. 104, VIII da Lei Orgânica.",
+"e": "Art. 104, viii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, XI), compete privativamente ao Prefeito prestar, anualmente, dentro de sessenta dias da abertura da sessão legislativa ordinária, as contas referentes ao exercício anterior.",
+"c": true,
+"prof": "Lei Orgânica, art. 104, XI.",
+"x": "É o que dispõe o art. 104, XI da Lei Orgânica.",
+"e": "Art. 104, xi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, XV), compete privativamente ao Prefeito dispor, na forma da lei, sobre a organização e a atividade do poder Executivo.",
+"c": true,
+"prof": "Lei Orgânica, art. 104, XV.",
+"x": "É o que dispõe o art. 104, XV da Lei Orgânica.",
+"e": "Art. 104, xv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, XIX), compete privativamente ao Prefeito criar o Conselho de Defesa Social.",
+"c": true,
+"prof": "Lei Orgânica, art. 104, XIX.",
+"x": "É o que dispõe o art. 104, XIX da Lei Orgânica.",
+"e": "Art. 104, xix."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 105, I), são crimes de responsabilidade os atos do Prefeito que atentem contra as Constituições da República e do Estado, esta Lei Orgânica e, especialmente, contra a existência do Município.",
+"c": true,
+"prof": "Lei Orgânica, art. 105, I.",
+"x": "É o que dispõe o art. 105, I da Lei Orgânica.",
+"e": "Art. 105, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 105, V), são crimes de responsabilidade os atos do Prefeito que atentem contra as Constituições da República e do Estado, esta Lei Orgânica e, especialmente, contra a probidade na administração.",
+"c": true,
+"prof": "Lei Orgânica, art. 105, V.",
+"x": "É o que dispõe o art. 105, V da Lei Orgânica.",
+"e": "Art. 105, v."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 105, § 2º), nos crimes de responsabilidade, assim como nos comuns, o Prefeito será submetido a processo e julgamento perante o Tribunal de Justiça do Estado de Minas Gerais.",
+"c": true,
+"prof": "Lei Orgânica, art. 105, § 2º.",
+"x": "É o que dispõe o art. 105, § 2º da Lei Orgânica.",
+"e": "Art. 105, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 106, II), são infrações político-administrativas do Prefeito, sujeitas ao julgamento pela Câmara e sancionadas com a perda do mandato obstaculizar, de qualquer forma, o exercício regular fiscalizador da Câmara Municipal, deixando de prestar as informações e documentos solicitados.",
+"c": true,
+"prof": "Lei Orgânica, art. 106, II.",
+"x": "É o que dispõe o art. 106, II da Lei Orgânica.",
+"e": "Art. 106, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 106, VII), são infrações político-administrativas do Prefeito, sujeitas ao julgamento pela Câmara e sancionadas com a perda do mandato deixar de apresentar à Câmara, no devido tempo, e em forma regular, a proposta orçamentária.",
+"c": true,
+"prof": "Lei Orgânica, art. 106, VII.",
+"x": "É o que dispõe o art. 106, VII da Lei Orgânica.",
+"e": "Art. 106, vii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 106, XI), são infrações político-administrativas do Prefeito, sujeitas ao julgamento pela Câmara e sancionadas com a perda do mandato ausentar-se do Município, por tempo superior ao permitido nesta Lei Orgânica, ou afastar-se da Prefeitura, sem autorização da Câmara.",
+"c": true,
+"prof": "Lei Orgânica, art. 106, XI.",
+"x": "É o que dispõe o art. 106, XI da Lei Orgânica.",
+"e": "Art. 106, xi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 106, § 1º), a denúncia, escrita e assinada, poderá ser feita por qualquer cidadão, com a exposição dos fatos e a indicação das provas.",
+"c": true,
+"prof": "Lei Orgânica, art. 106, § 1º.",
+"x": "É o que dispõe o art. 106, § 1º da Lei Orgânica.",
+"e": "Art. 106, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 106, § 5º), a comissão, no prazo de quinze dias, emitirá parecer que será submetido ao plenário, opinando pelo prosseguimento ou arquivamento da denúncia, podendo proceder às diligências que julgar necessárias.",
+"c": true,
+"prof": "Lei Orgânica, art. 106, § 5º.",
+"x": "É o que dispõe o art. 106, § 5º da Lei Orgânica.",
+"e": "Art. 106, § 5º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 106, § 11º), considerar-se-á afastado, definitivamente, do cargo, o denunciado que for declarado, pelo voto de dois terços, pelo menos, dos membros da Câmara, incurso em qualquer das infrações especificadas na denúncia.",
+"c": true,
+"prof": "Lei Orgânica, art. 106, § 11º.",
+"x": "É o que dispõe o art. 106, § 11º da Lei Orgânica.",
+"e": "Art. 106, § 11º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 107, II), o Prefeito será suspenso de suas funções nas infrações político-administrativas, se admitida a acusação e instaurado o processo, pela Câmara.",
+"c": true,
+"prof": "Lei Orgânica, art. 107, II.",
+"x": "É o que dispõe o art. 107, II da Lei Orgânica.",
+"e": "Art. 107, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 108, III), além de outras atribuições conferidas em lei, compete aos auxiliares diretos do Prefeito expedir instruções para a execução de lei, decreto e regulamento.",
+"c": true,
+"prof": "Lei Orgânica, art. 108, III.",
+"x": "É o que dispõe o art. 108, III da Lei Orgânica.",
+"e": "Art. 108, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 109), os Secretários serão processados e julgados perante o juiz de Direito da Comarca, nos crimes comuns, e de responsabilidade, perante a Câmara, nas infrações políticas administrativas.",
+"c": true,
+"prof": "Lei Orgânica, art. 109.",
+"x": "É o que dispõe o art. 109 da Lei Orgânica.",
+"e": "Art. 109."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 110, § 3º), a Procuradoria do Município tem por chefe o Procurador Geral do Município, de livre designação pelo Prefeito, dentre advogados de reconhecido saber jurídico e reputação ilibada.",
+"c": true,
+"prof": "Lei Orgânica, art. 110, § 3º.",
+"x": "É o que dispõe o art. 110, § 3º da Lei Orgânica.",
+"e": "Art. 110, § 3º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 111, III), os Poderes Legislativo e Executivo e as entidades da administração indireta manterão, de forma integrada, sistema de controle interno, com a finalidade de exercer o controle de operações de crédito, avais e garantias e o de seus direitos e haveres.",
+"c": true,
+"prof": "Lei Orgânica, art. 111, III.",
+"x": "É o que dispõe o art. 111, III da Lei Orgânica.",
+"e": "Art. 111, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 112), qualquer cidadão, partido político, associação legalmente constituída ou sindicato é parte legítima para, na forma da lei, denunciar irregularidade ou ilegalidade de ato de agente público.",
+"c": true,
+"prof": "Lei Orgânica, art. 112.",
+"x": "É o que dispõe o art. 112 da Lei Orgânica.",
+"e": "Art. 112."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 113, § 1º), as decisões do Tribunal de Contas de que resulte imputação de débitos ou multa, terão eficácia de título executivo.",
+"c": true,
+"prof": "Lei Orgânica, art. 113, § 1º.",
+"x": "É o que dispõe o art. 113, § 1º da Lei Orgânica.",
+"e": "Art. 113, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 115, § 1º), a Defensoria é dirigida pelo Defensor do povo, com mais de trinta anos de idade, notável experiência, espírito público, reputação ilibada e reconhecido senso de justiça e equidade, nomeado pelo Presidente da Câmara, após aprovação de dois terços dos membros desta, para mandato, não renovável de cinco anos.",
+"c": true,
+"prof": "Lei Orgânica, art. 115, § 1º.",
+"x": "É o que dispõe o art. 115, § 1º da Lei Orgânica.",
+"e": "Art. 115, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 116, IV), a Defensoria do Povo terá, entre outras, as seguintes atribuições divulgar informações e avaliações relativas à sua ação, com o direito de publicá-la em órgão oficial de imprensa.",
+"c": true,
+"prof": "Lei Orgânica, art. 116, IV.",
+"x": "É o que dispõe o art. 116, IV da Lei Orgânica.",
+"e": "Art. 116, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 98), o Poder Executivo não é exercido pelo Prefeito do Município, auxiliado pelos Secretários Municipais.",
+"c": false,
+"prof": "Lei Orgânica, art. 98.",
+"x": "O art. 98 afirma o contrário: O Poder Executivo é exercido pelo Prefeito do Município, auxiliado pelos Secretários Municipais.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 101), no caso de impedimento do Prefeito e do Vice-Prefeito ou no de vacância dos respectivos cargos, não será chamado ao exercício do Governo o Presidente da Câmara.",
+"c": false,
+"prof": "Lei Orgânica, art. 101.",
+"x": "O art. 101 afirma o contrário: No caso de impedimento do Prefeito e do Vice-Prefeito ou no de vacância dos respectivos cargos, será chamado ao exercício do Governo o Presidente da Câmara.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 101, § 3º), em qualquer dos casos, os eleitos não deverão completar o período de seus antecessores.",
+"c": false,
+"prof": "Lei Orgânica, art. 101, § 3º.",
+"x": "O art. 101, § 3º afirma o contrário: Em qualquer dos casos, os eleitos deverão completar o período de seus antecessores.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, I), compete concorrentemente ao Prefeito nomear e exonerar o Secretário Municipal.",
+"c": false,
+"prof": "Lei Orgânica, art. 104, I.",
+"x": "O art. 104, I diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, IV), compete concorrentemente ao Prefeito prover os cargos de direção ou administração superior de autarquia e fundação pública.",
+"c": false,
+"prof": "Lei Orgânica, art. 104, IV.",
+"x": "O art. 104, IV diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, VI), compete concorrentemente ao Prefeito fundamentar os projetos de lei que remeter à Câmara.",
+"c": false,
+"prof": "Lei Orgânica, art. 104, VI.",
+"x": "O art. 104, VI diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, IX), compete concorrentemente ao Prefeito remeter mensagem e planos de governo à Câmara, quando da reunião inaugural da sessão legislativa ordinária, expondo a situação do Município, especialmente o estado das obras e dos serviços municipais.",
+"c": false,
+"prof": "Lei Orgânica, art. 104, IX.",
+"x": "O art. 104, IX diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, XII), compete concorrentemente ao Prefeito remeter à Câmara até o dia dez de cada mês, o balancete do mês anterior, acompanhados das minutas da receita e dos comprovantes de despesa.",
+"c": false,
+"prof": "Lei Orgânica, art. 104, XII.",
+"x": "O art. 104, XII diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, XV), compete concorrentemente ao Prefeito dispor, na forma da lei, sobre a organização e a atividade do poder Executivo.",
+"c": false,
+"prof": "Lei Orgânica, art. 104, XV.",
+"x": "O art. 104, XV diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, XVII), compete concorrentemente ao Prefeito contrair empréstimo, externo ou interno, e fazer operação ou acordo externo de qualquer natureza, mediante prévia autorização da Câmara, observados os parâmetros de endividamento regulados em lei, dentro dos princípios da Constituição da República.",
+"c": false,
+"prof": "Lei Orgânica, art. 104, XVII.",
+"x": "O art. 104, XVII diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 104, XX), compete concorrentemente ao Prefeito fixar, mediante decreto, o preço dos bens e serviços públicos.",
+"c": false,
+"prof": "Lei Orgânica, art. 104, XX.",
+"x": "O art. 104, XX diz \"Compete privativamente\", e não \"Compete concorrentemente\".",
+"e": "Compete privativamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 105, § 2º), nos crimes de responsabilidade, assim como nos comuns, o Prefeito não será submetido a processo e julgamento perante o Tribunal de Justiça do Estado de Minas Gerais.",
+"c": false,
+"prof": "Lei Orgânica, art. 105, § 2º.",
+"x": "O art. 105, § 2º afirma o contrário: Nos crimes de responsabilidade, assim como nos comuns, o Prefeito será submetido a processo e julgamento perante o Tribunal de Justiça do Estado de Minas Gerais.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 106, § 5º), a comissão, no prazo de trinta dias, emitirá parecer que será submetido ao plenário, opinando pelo prosseguimento ou arquivamento da denúncia, podendo proceder às diligências que julgar necessárias.",
+"c": false,
+"prof": "Lei Orgânica, art. 106, § 5º.",
+"x": "O art. 106, § 5º diz \"quinze dias\", e não \"trinta dias\".",
+"e": "Quinze dias."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 106, § 11º), considerar-se-á afastado, definitivamente, do cargo, o denunciado que for declarado, pelo voto de três quintos, pelo menos, dos membros da Câmara, incurso em qualquer das infrações especificadas na denúncia.",
+"c": false,
+"prof": "Lei Orgânica, art. 106, § 11º.",
+"x": "O art. 106, § 11º diz \"dois terços\", e não \"três quintos\".",
+"e": "Dois terços."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 107, I), o Prefeito não será suspenso de suas funções nos crimes comuns e responsabilidade, se recebida a denúncia ou a queixa pelo Tribunal de Justiça.",
+"c": false,
+"prof": "Lei Orgânica, art. 107, I.",
+"x": "O art. 107, I afirma o contrário: O Prefeito será suspenso de suas funções nos crimes comuns e responsabilidade, se recebida a denúncia ou a queixa pelo Tribunal de Justiça.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 108, I), além de outras atribuições conferidas em lei, não compete aos auxiliares diretos do Prefeito orientar, coordenar e supervisionar as atividades dos órgãos de sua Secretaria e das entidades da administração indireta a ela vinculadas.",
+"c": false,
+"prof": "Lei Orgânica, art. 108, I.",
+"x": "O art. 108, I afirma o contrário: Além de outras atribuições conferidas em lei, compete aos auxiliares diretos do Prefeito orientar, coordenar e supervisionar as atividades dos órgãos de sua Secretaria e das entidades da administração indireta a ela vinculadas.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 108, IV), além de outras atribuições conferidas em lei, não compete aos auxiliares diretos do Prefeito apresentar ao Prefeito relatório anual de sua gestão.",
+"c": false,
+"prof": "Lei Orgânica, art. 108, IV.",
+"x": "O art. 108, IV afirma o contrário: Além de outras atribuições conferidas em lei, compete aos auxiliares diretos do Prefeito apresentar ao Prefeito relatório anual de sua gestão.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 109), os Secretários não serão processados e julgados perante o juiz de Direito da Comarca, nos crimes comuns, e de responsabilidade, perante a Câmara, nas infrações políticas administrativas.",
+"c": false,
+"prof": "Lei Orgânica, art. 109.",
+"x": "O art. 109 afirma o contrário: Os Secretários serão processados e julgados perante o juiz de Direito da Comarca, nos crimes comuns, e de responsabilidade, perante a Câmara, nas infrações políticas administrativas.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 111, § 1º), o controle externo, a cargo da Câmara, não será exercido com o auxílio do Tribunal de contas do Estado.",
+"c": false,
+"prof": "Lei Orgânica, art. 111, § 1º.",
+"x": "O art. 111, § 1º afirma o contrário: O controle externo, a cargo da Câmara, será exercido com o auxílio do Tribunal de contas do Estado.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 113), as contas do Prefeito, referentes à gestão financeira do ano anterior, serão julgadas pela Câmara mediante parecer prévio do Tribunal de Contas, que o emitirá dentro de trezentos e sessenta e dez dias, contados do recebimento das mesmas, nos termos do.",
+"c": false,
+"prof": "Lei Orgânica, art. 113.",
+"x": "O art. 113 diz \"cinco dias\", e não \"dez dias\".",
+"e": "Cinco dias."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 115, § 1º), a Defensoria é dirigida pelo Defensor do povo, com mais de trinta anos de idade, notável experiência, espírito público, reputação ilibada e reconhecido senso de justiça e equidade, nomeado pelo Presidente da Câmara, após aprovação de três quintos dos membros desta, para mandato, não renovável de cinco anos.",
+"c": false,
+"prof": "Lei Orgânica, art. 115, § 1º.",
+"x": "O art. 115, § 1º diz \"dois terços\", e não \"três quintos\".",
+"e": "Dois terços."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 116, IV), a Defensoria do Povo não terá, entre outras, as seguintes atribuições divulgar informações e avaliações relativas à sua ação, com o direito de publicá-la em órgão oficial de imprensa.",
+"c": false,
+"prof": "Lei Orgânica, art. 116, IV.",
+"x": "O art. 116, IV afirma o contrário: A Defensoria do Povo terá, entre outras, as seguintes atribuições divulgar informações e avaliações relativas à sua ação, com o direito de publicá-la em órgão oficial de imprensa.",
+"e": "Afirmação, não negação."
+}
+]
+},
+"lom-financas": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>117–140</b><span>artigos da Lei Orgânica reproduzidos na íntegra neste tópico</span></div><div class=\"lt-stat\"><b>52</b><span>questões novas de lei seca (certo ou errado)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: a banca copia a lei e troca uma palavra (prazo, quórum, competência, \"pode\" por \"deve\")</span></div></div>\n<h3>Como estudar este tópico</h3>\n<ul><li>Este tópico traz o <b>texto integral</b> dos <b>arts. 117 a 140</b> da <b>Lei Orgânica do Município de Belo Vale</b> (Lei nº 806/1990, edição atualizada em 2012), exigida no edital do concurso de Belo Vale (Legislação Municipal). O resumo comentado que estava aqui antes continua disponível na <b>Leitura complementar</b>, no fim da página.</li><li><b>Método de leitura de lei seca</b>: leia cada artigo prestando atenção a <b>quem</b> faz (Prefeito, Câmara, Mesa, Município), <b>o que</b> faz, <b>em que prazo</b> e <b>com qual quórum</b>. São exatamente esses elementos que as bancas trocam nas questões de certo ou errado.</li><li><b>Marque as palavras de alcance</b>: \"privativamente\", \"exclusivamente\", \"vedado\", \"poderá\" x \"deverá\", \"maioria absoluta\" x \"dois terços\", \"dias\" x \"dias úteis\". Uma única troca torna a assertiva errada.</li><li>As questões deste tópico foram montadas <b>a partir do próprio texto da lei</b>: as certas reproduzem o dispositivo; as erradas alteram um prazo, um quórum, uma competência ou negam o que a lei afirma. O comentário de cada questão indica o artigo correspondente.</li></ul>\n<h3>Estrutura do trecho</h3>\n<ul><li>TÍTULO V Das Finanças Públicas</li><li>CAPÍTULO I Da Tributação</li><li>SEÇÃO I Dos Tributos Municipais</li><li>SEÇÃO II Das Limitações ao Poder de Tributar</li><li>SEÇÃO III Da Participação do Município em Receitas Tributárias Federais e Estaduais</li><li>CAPÍTULO II Do Orçamento</li><li>TÍTULO VI Da Ordem Social e Econômica</li><li>CAPÍTULO I Disposições Gerais</li></ul>\n<h3>Texto integral da Lei Orgânica (arts. 117 a 140)</h3>\n<h3>TÍTULO V Das Finanças Públicas</h3>\n<h3>CAPÍTULO I Da Tributação</h3>\n<h3>SEÇÃO I Dos Tributos Municipais</h3>\n<p><b>Art. 117</b> – Ao Município compete instituir:</p>\n<p>I – Imposto sobre:</p>\n<p>a) propriedade predial e territorial urbana;</p>\n<p>b) transmissão “inter-vivos”, a qualquer título, por ato oneroso de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como sessão de direitos à sua aquisição;</p>\n<p>c) vendas a varejo de combustíveis líquidos e gasosos, exceto óleo diesel e gás de cozinha;</p>\n<p>d) serviços de qualquer natureza, não compreendidos na competência do Estado, nos termos da Constituição da República e da legislação complementar específica;</p>\n<p>II – Taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis ao contribuinte ou postos à sua disposição;</p>\n<p>III – Contribuição de melhoria, decorrente de obras públicas;</p>\n<p>IV – Contribuição cobrada de seus servidores, para custeio, em benefício destes, de Sistema de Previdência e Assistência Social.</p>\n<p><b>§ 1º</b> – O imposto previsto na alínea “a”, do inciso I, será progressivo, nos termos da lei municipal, de forma a assegurar o cumprimento da função social da propriedade.</p>\n<p><b>§ 2º</b> – O imposto previsto na alínea “b”, do inciso I, não incide sobre transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica, em realização de capital, nem sobre a transmissão de bens ou direitos decorrentes de fusão, incorporação, cisão ou extinção de pessoa jurídica, salvo se, nestes casos, a atividade preponderante do adquirente for a compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento mercantil.</p>\n<p><b>§ 3º</b> – As alíquotas dos impostos previstos nas alíneas “c” e “d”, do inciso I, deste artigo, obedecerão aos limites fixados em lei complementar federal.</p>\n<p><b>§ 4º</b> – O imposto previsto no inciso I, alínea “d” deste artigo, não incidirá sobre exportações de serviços para o exterior.</p>\n<p><b>§ 5º</b> – Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, facultando à administração municipal identificar, respeitados os direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte.</p>\n<p><b>§ 6º</b> – As taxas não poderão ter base de cálculo própria de impostos.</p>\n<p><b>Art. 118</b> – Somente ao Município cabe instituir isenção de tributo de sua competência, por meio de lei de iniciativa do poder Executivo, e aprovada por dois terços dos membros da câmara, prevalecendo o estatuído para o exercício seguinte.</p>\n<p><b>Art. 119</b> – A lei determinará medidas para que os consumidores sejam esclarecidos acerca dos impostos municipais que incidam sobre mercadorias e serviços, observada a legislação federal e estadual sobre consumo.</p>\n<h3>SEÇÃO II Das Limitações ao Poder de Tributar</h3>\n<p><b>Art. 120</b> – É vedado ao Município, sem prejuízo das garantias asseguradas aos contribuintes e do disposto no Art. 150 da Constituição da República e na legislação complementar específica estabelecer diferença tributária entre bens e serviços de qualquer natureza, em razão de sua procedência ou destino.</p>\n<p><b>Parágrafo Único</b> – É vedada a transação que envolva tributos, salvo se realizada com autorização legislativa, deliberada por dois terços de seus membros.</p>\n<p><b>Art. 121</b> – Qualquer anistia ou remissão que envolva matéria tributária ou previdência de competência do Município, só poderá ser concedida mediante lei específica municipal, de iniciativa do Poder Executivo.</p>\n<p><b>Parágrafo Único</b> – O perdão da multa, o parcelamento e a compensação de débitos fiscais poderão ser concedidos por ato do Poder Executivo, nos casos e condições especificados em lei municipal.</p>\n<p><b>Art. 122</b> – O contribuinte não será obrigado ao pagamento de qualquer título lançado pelo Município, sem prévia notificação.</p>\n<h3>SEÇÃO III Da Participação do Município em Receitas Tributárias Federais e Estaduais</h3>\n<p><b>Art. 123</b> – Em relação aos impostos de competência da União, pertencem ao Município, de acordo com o percentual legal vigente:</p>\n<p>I – O produto da arrecadação do imposto sobre rendas e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, pela administração direta, autarquias e fundações instituídas e mantidas pelo Município;</p>\n<p>II – O produto da arrecadação do imposto sobre propriedade territorial rural, relativamente aos imóveis situados no Município.</p>\n<p><b>Art. 124</b> – Em relação aos impostos de competência do Estado, pertencem ao Município, de acordo com o percentual legal vigente:</p>\n<p>I – O produto da arrecadação do imposto sobre a propriedade de veículos automotores, licenciados no território municipal, a ser transferido até o último dia do mês subsequente ao da arrecadação.</p>\n<p>II – O produto da arrecadação do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, a ser creditado na forma do disposto no parágrafo único, incisos I e II do Art. 158 da Constituição da República e § 1º do Art. 150 da Constituição do Estado.</p>\n<p><b>Art. 125</b> – Caberá ainda ao Município:</p>\n<p>I – A respectiva quota no Fundo de Participação dos Municípios, como disposto no Art. 159, inciso I, alínea ”b” da Constituição da República.</p>\n<p>II – A respectiva quota do produto da arrecadação do imposto sobre produtos industrializados, como disposto no Art. 159, inciso II e § 3º da Constituição da República e</p>\n<p>Art. 150, inciso III, da Constituição do Estado.</p>\n<p>III – A respectiva quota do produto de arrecadação do imposto de que trata o inciso V do</p>\n<p>Art. 153 da Constituição da República, nos termos do § 5º , inciso II do mesmo artigo.</p>\n<p><b>Art. 126</b> – Ocorrendo a retenção ou qualquer restrição à entrega e ao emprego dos recursos decorrentes da repartição das receitas tributárias, por parte da União e do Estado, O Executivo Municipal, adotará as medidas judiciais cabíveis, à vista do disposto nas Constituições da República e do Estado.</p>\n<h3>CAPÍTULO II Do Orçamento</h3>\n<p><b>Art. 127</b> – Leis de iniciativa do Poder Executivo estabelecerão:</p>\n<p>I – O Plano Plurianual;</p>\n<p>II – As Diretrizes Orçamentárias;</p>\n<p>III – Os Orçamentos Anuais.</p>\n<p><b>Art. 128</b> – A lei que instituir o plano plurianual de ação governamental, compatível com o Plano Diretor, estabelecerá as diretrizes, objetivos e metas da administração municipal para as despesas de capital e outras delas decorrentes e para relativas a programas de duração continuada.</p>\n<p><b>Art. 129</b> – A Lei de Diretrizes Orçamentárias, compatíveis com o Plano Plurianual, compreenderá as metas e prioridades da administração pública municipal, incluindo as despesas de capital para o exercício financeiro subsequente, orientará a elaboração da Lei Orçamentária Anual e disporá sobre as alterações na legislação tributária.</p>\n<p><b>Parágrafo Único</b> – A lei a que se refere o artigo será enviada à Câmara Municipal até o dia quinze de junho de cada ano, devendo ser devolvida para sanção até o dia trinta e um de julho.</p>\n<p><b>Art. 130</b> – Será constituído no Município um Conselho Orçamentário que, juntamente com a Administração Municipal, colherá as sugestões e propostas para a Lei de Diretrizes Orçamentárias.</p>\n<p><b>§ 1º</b> – O Conselho Orçamentário será constituído de representantes do Executivo, Legislativo, Entidades de Classes e Movimentos Populares, legalmente constituídos.</p>\n<p><b>§ 2º</b> – Aprovada pela Câmara Municipal, a Lei de Diretrizes, o Conselho se reunirá em plenário, para a consolidação do orçamento anual, com base na referida lei.</p>\n<p><b>Art. 131</b> – A Lei Orçamentária anual compreenderá:</p>\n<p>I – O orçamento fiscal referente aos Poderes do Município, seus fundos, órgãos e entidades da administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público;</p>\n<p>II – O orçamento de investimentos das empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto;</p>\n<p>III – O orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculadas da Administração Direta ou Indireta do Município, bem como os fundos e fundações instituídas e mantidos pelo poder Público.</p>\n<p><b>Parágrafo Único</b> – Integrarão a Lei Orçamentária demonstrativos específicos com detalhamento das ações governamentais, em nível mínimo de:</p>\n<p>I – Órgãos ou entidades responsável pela realização da despesa e função;</p>\n<p>II – Objetivos e metas;</p>\n<p>III – Natureza da despesa;</p>\n<p>IV – Fontes de recursos;</p>\n<p>V – Órgão ou entidade beneficiários;</p>\n<p>VI – Identificação dos investimentos, por região do Município.</p>\n<p>VII - identificação, de forma regionalizada, dos efeitos, sobre as receitas e as despesas, decorrentes de isenções, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia.</p>\n<p><b>Art. 132</b> – A Lei Orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação de despesa, não se incluindo na proibição a autorização para a abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação da receita, nos termos da lei.</p>\n<p><b>Art. 133</b> – A lei orçamentária assegurará investimentos prioritários em programas de educação, saúde, habitação, saneamento básico e proteção ao meio ambiente, observados limites legais.</p>\n<p><b>Parágrafo único</b> - Os recursos para os programas de saúde não serão inferiores aos destinados aos investimentos em transporte e sistema viário.</p>\n<p><b>Art. 134</b> – Os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual serão enviados pelo Prefeito à Câmara, nos termos e prazos fixados pela legislação específica.</p>\n<p><b>Parágrafo único</b> - O não-cumprimento do disposto no artigo implica a elaboração, pela comissão prevista no § 1º do art. 135, de projeto de lei sobre a matéria, tomando por base a respectiva legislação vigente.</p>\n<p><b>Art. 135</b> – Os projetos de lei relativos ao Plano Plurianual, às Diretrizes Orçamentárias, ao Orçamento Anual e aos Créditos Adicionais, serão apreciados por comissões permanentes da Câmara Municipal, à qual caberá:</p>\n<p>I – examinar e emitir parecer sobre os projetos referidos neste artigo e sobre as contas apresentadas anualmente pelo Prefeito;</p>\n<p>II – examinar e emitir parecer sobre os planos e programas e exercer o acompanhamento e a fiscalização orçamentária, sem prejuízo de atuação das demais comissões da Câmara.</p>\n<p><b>§ 1º</b> – As emendas apresentadas na comissão permanente, que sobre elas emitirá parecer, e apreciadas na forma regimental.</p>\n<p><b>§ 2º</b> – As emendas ao projeto da Lei do Orçamento Anual ou ao projeto que a modifique, somente podem ser aprovadas caso:</p>\n<p>I – sejam compatíveis com o Plano Plurianual e com a Lei de Diretrizes Orçamentárias;</p>\n<p>II – indiquem os recursos necessários, admitidos, apenas, os provenientes de anulação de despesa, excluídas as que incidam sobre:</p>\n<p>a) dotações para pessoal e seus encargos;</p>\n<p>b) serviço de dívida ou;</p>\n<p>III – sejam relacionadas:</p>\n<p>a) com a correção de erros ou omissão ou;</p>\n<p>b) com os dispositivos do texto do projeto de lei;</p>\n<p>IV – não alterem o produto total do Orçamento anual.</p>\n<p><b>§ 3º</b> – Os recursos que, em decorrência de veto, emendas ou rejeição do projeto de Lei Orçamentária Anual, ficarem sem despesas correspondentes poderão ser utilizados, conforme o caso, mediante créditos especiais ou suplementares, com prévia e específica autorização legislativa.</p>\n<p><b>§ 4º</b> – As emendas ao projeto de Lei de Diretrizes Orçamentárias não poderão ser aprovadas, quando incompatíveis com o Plano Plurianual.</p>\n<p><b>§ 5º</b> – O Prefeito poderá enviar mensagem à Câmara para propor modificação nos projetos a que se refere este artigo, enquanto não iniciada a votação na comissão permanente, da parte cuja alteração é proposta.</p>\n<p><b>§ 6º</b> - Rejeitado pela Câmara o projeto de Lei Orçamentária Anual, prevalecerá, para o ano seguinte, o orçamento do exercício em curso, aplicando-se-lhe a atualização dos valores.</p>\n<p><b>§ 7º</b> - Se a Câmara não devolver, para sanção, o projeto de Lei do Orçamento Anual no prazo consignado na legislação específica, o Prefeito promulgá-lo-á como lei.</p>\n<p><b>§ 8º</b> – Aplicam-se aos projetos mencionados neste artigo, no que não contrariar o disposto nesta seção, as demais normas relativas ao processo legislativo.</p>\n<p><b>Art. 136</b> – O projeto de Lei Orçamentária Anual será enviado pelo Prefeito à Câmara Municipal, até o dia trinta dia de setembro do ano que o precede.</p>\n<p><b>Parágrafo Único</b> – Se não receber o projeto no prazo fixado neste artigo, a Câmara considerará como proposta, a Lei do Orçamento vigente, sem prejuízos das sanções legais cabíveis.</p>\n<p><b>Art. 137</b> – São vedados:</p>\n<p>I – o início de programas ou projetos não incluídos na Lei Orçamentária anual;</p>\n<p>II – a realização de despesas ou a assunção de obrigações diretas que excedam os créditos orçamentários ou adicionais;</p>\n<p>III – a realização de operações de créditos, nos seguintes casos:</p>\n<p>a) sem autorização legislativa em que se especifiquem a destinação, o valor, o prazo de operação, a taxa de remuneração do capital, as datas de pagamento, a espécie dos títulos e a forma de resgate, salvo disposição diversa em legislação federal e estadual;</p>\n<p>b) que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pela Câmara, por maioria de seus membros.</p>\n<p>IV – a vinculação de receita de impostos a órgãos, fundos ou despesas, ressalvados a destinação de recursos para a manutenção de desenvolvimento do ensino, como determinado pelo Art. 167 e apresentação de garantias às operações de créditos por antecipação de receita, previstas no Art. 132;</p>\n<p>V – a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação dos recursos correspondentes;</p>\n<p>VI – a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra, ou de um órgão para outro, sem prévia autorização legislativa;</p>\n<p>VII – a utilização, sem autorização legislativa específica, de recursos do orçamento fiscal e da seguridade social para suprir necessidades ou cobrir déficit de empresas, fundações e fundos;</p>\n<p>VIII – a concessão ou utilização de créditos ilimitados;</p>\n<p>IX – a instituição de fundos de qualquer natureza, sem prévia autorização legislativa;</p>\n<p>X – criar ou aumentar despesa sem indicar o recurso para atender ao correspondente encargo.</p>\n<p><b>§ 1º</b> – Nenhum investimento, cuja execução ultrapasse um exercício financeiro, poderá ser iniciado sem prévia inclusão no Plano Plurianual, ou sem lei que autorize a inclusão no Plano, sob pena de crime de responsabilidade.</p>\n<p><b>§ 2º</b> – Os créditos extraordinários e especiais terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subsequente.</p>\n<p><b>§ 3º</b> – A abertura de créditos extraordinários somente será admitida, “ad referendum” da Câmara Municipal, por resolução, para atender às despesas imprevisíveis e urgentes, decorrentes de calamidade pública.</p>\n<p><b>Art. 138</b> – Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados à Câmara Municipal ser-lhe-ão entregues em duodécimos até o dia 20 (vinte) de cada mês obedecidas as seguintes normas.</p>\n<p>I – O duodécimo dos recursos transferidos pelo Estado e pela União, com exceção das receitas de convênios, será creditado para a Câmara Municipal no ato do recebimento.</p>\n<p>II – O duodécimo dos recursos provenientes de impostos e taxas municipais será creditado a cada dez dias para a Câmara Municipal, a contar do dia 1º de cada mês.</p>\n<p><b>§ 1º</b> - Por duodécimo deve-se entender o percentual de 8,33% (oito por cento e trinta e três centésimos) da receita efetivamente arrecadada.</p>\n<p><b>§ 2º</b> - O Prefeito Municipal autorizará, imediatamente, após a promulgação desta emenda, aos Bancos depositários, à efetuarem os créditos em favor da Câmara, automaticamente, informando o percentual de participação da Câmara para que o Banco possa fazer o crédito autorizado nesta Lei.</p>\n<p><b>§ 3º</b> - As requisições feitas pela Câmara Municipal, para cobrir despesas com investimentos ou inversões financeiras, previstas na Lei Orçamentária, ser-lhe-ão repassadas pelo prefeito no prazo máximo de 15 (quinze) dias.</p>\n<p><b>Art. 139</b> – A despesa com pessoal ativo e inativo do Município não poderão exceder os limites estabelecidos em lei complementar federal.</p>\n<p><b>Parágrafo Único</b> – A concessão de qualquer vantagem ou aumento de remuneração, a criação de cargos ou alterações de estrutura de carreiras, bem como a admissão de pessoal, a qualquer título, pelo órgãos e entidades da administração direta ou indireta, só poderão ser feitos:</p>\n<p>I - se houver prévia dotação orçamentária suficiente para atender às projeções de despesa de pessoal e aos acréscimos dele decorrentes;</p>\n<p>II – se houver autorização específica na Lei de Diretrizes Orçamentárias.</p>\n<p><b>Art. 140</b> – À exceção dos créditos de natureza alimentícia, os pagamentos devidos pela Fazenda Municipal, em virtude de sentença judiciária, far-se-ão, exclusivamente, na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim.</p>\n<p><b>§ 1º</b> – É obrigatória a inclusão no orçamento municipal, de dotações necessárias ao pagamento de seus débitos mensais constantes de precatórios apresentados até o primeiro de julho, data em que terão atualizados seus valores, fazendo-se o pagamento até o final do exercício seguinte.</p>\n<p><b>§ 2º</b> – As dotações orçamentárias e os créditos abertos serão consignados ao Poder Judiciário, recolhidas as importâncias respectivas à repartição competente apara atender ao disposto no Art. 100o, § 2º , da Constituição da República.</p>\n<p><b>§ 3º</b> – O Poder Executivo publicará até trinta dias após o encerramento de cada bimestre, relatório resumido da execução orçamentária.</p>\n<h3>TÍTULO VI Da Ordem Social e Econômica</h3>\n<h3>CAPÍTULO I Disposições Gerais</h3>",
+"quiz": [
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 117, II), ao Município compete instituir Taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis ao contribuinte ou postos à sua disposição.",
+"c": true,
+"prof": "Lei Orgânica, art. 117, II.",
+"x": "É o que dispõe o art. 117, II da Lei Orgânica.",
+"e": "Art. 117, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 117, IV), ao Município compete instituir Contribuição cobrada de seus servidores, para custeio, em benefício destes, de Sistema de Previdência e Assistência Social.",
+"c": true,
+"prof": "Lei Orgânica, art. 117, IV.",
+"x": "É o que dispõe o art. 117, IV da Lei Orgânica.",
+"e": "Art. 117, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 117, § 4º), o imposto previsto no inciso I, alínea “d” deste artigo, não incidirá sobre exportações de serviços para o exterior.",
+"c": true,
+"prof": "Lei Orgânica, art. 117, § 4º.",
+"x": "É o que dispõe o art. 117, § 4º da Lei Orgânica.",
+"e": "Art. 117, § 4º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 118), somente ao Município cabe instituir isenção de tributo de sua competência, por meio de lei de iniciativa do poder Executivo, e aprovada por dois terços dos membros da câmara, prevalecendo o estatuído para o exercício seguinte.",
+"c": true,
+"prof": "Lei Orgânica, art. 118.",
+"x": "É o que dispõe o art. 118 da Lei Orgânica.",
+"e": "Art. 118."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 120), é vedado ao Município, sem prejuízo das garantias asseguradas aos contribuintes e do disposto no Art. 150 da Constituição da República e na legislação complementar específica estabelecer diferença tributária entre bens e serviços de qualquer natureza, em razão de sua procedência ou destino.",
+"c": true,
+"prof": "Lei Orgânica, art. 120.",
+"x": "É o que dispõe o art. 120 da Lei Orgânica.",
+"e": "Art. 120."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 121, Parágrafo Único), o perdão da multa, o parcelamento e a compensação de débitos fiscais poderão ser concedidos por ato do Poder Executivo, nos casos e condições especificados em lei municipal.",
+"c": true,
+"prof": "Lei Orgânica, art. 121, Parágrafo Único.",
+"x": "É o que dispõe o art. 121, Parágrafo Único da Lei Orgânica.",
+"e": "Art. 121, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 124, I), em relação aos impostos de competência do Estado, pertencem ao Município, de acordo com o percentual legal vigente O produto da arrecadação do imposto sobre a propriedade de veículos automotores, licenciados no território municipal, a ser transferido até o último dia do mês subsequente ao da arrecadação.",
+"c": true,
+"prof": "Lei Orgânica, art. 124, I.",
+"x": "É o que dispõe o art. 124, I da Lei Orgânica.",
+"e": "Art. 124, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 125, II), caberá ainda ao Município A respectiva quota do produto da arrecadação do imposto sobre produtos industrializados, como disposto no Art. 159, inciso II e § 3º da Constituição da República e.",
+"c": true,
+"prof": "Lei Orgânica, art. 125, II.",
+"x": "É o que dispõe o art. 125, II da Lei Orgânica.",
+"e": "Art. 125, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 127, I), leis de iniciativa do Poder Executivo estabelecerão O Plano Plurianual.",
+"c": true,
+"prof": "Lei Orgânica, art. 127, I.",
+"x": "É o que dispõe o art. 127, I da Lei Orgânica.",
+"e": "Art. 127, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 128), a lei que instituir o plano plurianual de ação governamental, compatível com o Plano Diretor, estabelecerá as diretrizes, objetivos e metas da administração municipal para as despesas de capital e outras delas decorrentes e para relativas a programas de duração continuada.",
+"c": true,
+"prof": "Lei Orgânica, art. 128.",
+"x": "É o que dispõe o art. 128 da Lei Orgânica.",
+"e": "Art. 128."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 129, Parágrafo Único), a lei a que se refere o artigo será enviada à Câmara Municipal até o dia quinze de junho de cada ano, devendo ser devolvida para sanção até o dia trinta e um de julho.",
+"c": true,
+"prof": "Lei Orgânica, art. 129, Parágrafo Único.",
+"x": "É o que dispõe o art. 129, Parágrafo Único da Lei Orgânica.",
+"e": "Art. 129, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 130, § 2º), aprovada pela Câmara Municipal, a Lei de Diretrizes, o Conselho se reunirá em plenário, para a consolidação do orçamento anual, com base na referida lei.",
+"c": true,
+"prof": "Lei Orgânica, art. 130, § 2º.",
+"x": "É o que dispõe o art. 130, § 2º da Lei Orgânica.",
+"e": "Art. 130, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 131, III), a Lei Orçamentária anual compreenderá O orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculadas da Administração Direta ou Indireta do Município, bem como os fundos e fundações instituídas e mantidos pelo poder Público.",
+"c": true,
+"prof": "Lei Orgânica, art. 131, III.",
+"x": "É o que dispõe o art. 131, III da Lei Orgânica.",
+"e": "Art. 131, iii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 131, II), integrarão a Lei Orçamentária demonstrativos específicos com detalhamento das ações governamentais, em nível mínimo de Objetivos e metas.",
+"c": true,
+"prof": "Lei Orgânica, art. 131, II.",
+"x": "É o que dispõe o art. 131, II da Lei Orgânica.",
+"e": "Art. 131, ii."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 131, V), integrarão a Lei Orçamentária demonstrativos específicos com detalhamento das ações governamentais, em nível mínimo de Órgão ou entidade beneficiários.",
+"c": true,
+"prof": "Lei Orgânica, art. 131, V.",
+"x": "É o que dispõe o art. 131, V da Lei Orgânica.",
+"e": "Art. 131, v."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 132), a Lei Orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação de despesa, não se incluindo na proibição a autorização para a abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação da receita, nos termos da lei.",
+"c": true,
+"prof": "Lei Orgânica, art. 132.",
+"x": "É o que dispõe o art. 132 da Lei Orgânica.",
+"e": "Art. 132."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 134), os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual serão enviados pelo Prefeito à Câmara, nos termos e prazos fixados pela legislação específica.",
+"c": true,
+"prof": "Lei Orgânica, art. 134.",
+"x": "É o que dispõe o art. 134 da Lei Orgânica.",
+"e": "Art. 134."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 135, I), os projetos de lei relativos ao Plano Plurianual, às Diretrizes Orçamentárias, ao Orçamento Anual e aos Créditos Adicionais, serão apreciados por comissões permanentes da Câmara Municipal, à qual caberá examinar e emitir parecer sobre os projetos referidos neste artigo e sobre as contas apresentadas anualmente pelo Prefeito.",
+"c": true,
+"prof": "Lei Orgânica, art. 135, I.",
+"x": "É o que dispõe o art. 135, I da Lei Orgânica.",
+"e": "Art. 135, i."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 135, IV), as emendas ao projeto da Lei do Orçamento Anual ou ao projeto que a modifique, somente podem ser aprovadas caso não alterem o produto total do Orçamento anual.",
+"c": true,
+"prof": "Lei Orgânica, art. 135, IV.",
+"x": "É o que dispõe o art. 135, IV da Lei Orgânica.",
+"e": "Art. 135, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 135, § 5º), o Prefeito poderá enviar mensagem à Câmara para propor modificação nos projetos a que se refere este artigo, enquanto não iniciada a votação na comissão permanente, da parte cuja alteração é proposta.",
+"c": true,
+"prof": "Lei Orgânica, art. 135, § 5º.",
+"x": "É o que dispõe o art. 135, § 5º da Lei Orgânica.",
+"e": "Art. 135, § 5º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 135, § 7º), se a Câmara não devolver, para sanção, o projeto de Lei do Orçamento Anual no prazo consignado na legislação específica, o Prefeito promulgá-lo-á como lei.",
+"c": true,
+"prof": "Lei Orgânica, art. 135, § 7º.",
+"x": "É o que dispõe o art. 135, § 7º da Lei Orgânica.",
+"e": "Art. 135, § 7º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 136, Parágrafo Único), se não receber o projeto no prazo fixado neste artigo, a Câmara considerará como proposta, a Lei do Orçamento vigente, sem prejuízos das sanções legais cabíveis.",
+"c": true,
+"prof": "Lei Orgânica, art. 136, Parágrafo Único.",
+"x": "É o que dispõe o art. 136, Parágrafo Único da Lei Orgânica.",
+"e": "Art. 136, parágrafo único."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 137, IV), são vedados a vinculação de receita de impostos a órgãos, fundos ou despesas, ressalvados a destinação de recursos para a manutenção de desenvolvimento do ensino, como determinado pelo Art. 167 e apresentação de garantias às operações de créditos por antecipação de receita, previstas no Art. 132.",
+"c": true,
+"prof": "Lei Orgânica, art. 137, IV.",
+"x": "É o que dispõe o art. 137, IV da Lei Orgânica.",
+"e": "Art. 137, iv."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 137, VI), são vedados a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra, ou de um órgão para outro, sem prévia autorização legislativa.",
+"c": true,
+"prof": "Lei Orgânica, art. 137, VI.",
+"x": "É o que dispõe o art. 137, VI da Lei Orgânica.",
+"e": "Art. 137, vi."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 137, IX), são vedados a instituição de fundos de qualquer natureza, sem prévia autorização legislativa.",
+"c": true,
+"prof": "Lei Orgânica, art. 137, IX.",
+"x": "É o que dispõe o art. 137, IX da Lei Orgânica.",
+"e": "Art. 137, ix."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 137, § 2º), os créditos extraordinários e especiais terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subsequente.",
+"c": true,
+"prof": "Lei Orgânica, art. 137, § 2º.",
+"x": "É o que dispõe o art. 137, § 2º da Lei Orgânica.",
+"e": "Art. 137, § 2º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 138), os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados à Câmara Municipal ser-lhe-ão entregues em duodécimos até o dia 20 (vinte) de cada mês obedecidas as seguintes normas.",
+"c": true,
+"prof": "Lei Orgânica, art. 138.",
+"x": "É o que dispõe o art. 138 da Lei Orgânica.",
+"e": "Art. 138."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 138, § 3º), as requisições feitas pela Câmara Municipal, para cobrir despesas com investimentos ou inversões financeiras, previstas na Lei Orçamentária, ser-lhe-ão repassadas pelo prefeito no prazo máximo de 15 (quinze) dias.",
+"c": true,
+"prof": "Lei Orgânica, art. 138, § 3º.",
+"x": "É o que dispõe o art. 138, § 3º da Lei Orgânica.",
+"e": "Art. 138, § 3º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 140, § 1º), é obrigatória a inclusão no orçamento municipal, de dotações necessárias ao pagamento de seus débitos mensais constantes de precatórios apresentados até o primeiro de julho, data em que terão atualizados seus valores, fazendo-se o pagamento até o final do exercício seguinte.",
+"c": true,
+"prof": "Lei Orgânica, art. 140, § 1º.",
+"x": "É o que dispõe o art. 140, § 1º da Lei Orgânica.",
+"e": "Art. 140, § 1º."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 117, II), ao Município não compete instituir Taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis ao contribuinte ou postos à sua disposição.",
+"c": false,
+"prof": "Lei Orgânica, art. 117, II.",
+"x": "O art. 117, II afirma o contrário: Ao Município compete instituir Taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis ao contribuinte ou postos à sua disposição.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 117, III), ao Município não compete instituir Contribuição de melhoria, decorrente de obras públicas.",
+"c": false,
+"prof": "Lei Orgânica, art. 117, III.",
+"x": "O art. 117, III afirma o contrário: Ao Município compete instituir Contribuição de melhoria, decorrente de obras públicas.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 117, IV), ao Município não compete instituir Contribuição cobrada de seus servidores, para custeio, em benefício destes, de Sistema de Previdência e Assistência Social.",
+"c": false,
+"prof": "Lei Orgânica, art. 117, IV.",
+"x": "O art. 117, IV afirma o contrário: Ao Município compete instituir Contribuição cobrada de seus servidores, para custeio, em benefício destes, de Sistema de Previdência e Assistência Social.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 117, § 1º), o imposto previsto na alínea “a”, do inciso I, não será progressivo, nos termos da lei municipal, de forma a assegurar o cumprimento da função social da propriedade.",
+"c": false,
+"prof": "Lei Orgânica, art. 117, § 1º.",
+"x": "O art. 117, § 1º afirma o contrário: O imposto previsto na alínea “a”, do inciso I, será progressivo, nos termos da lei municipal, de forma a assegurar o cumprimento da função social da propriedade.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 117, § 5º), sempre que possível, os impostos não terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, facultando à administração municipal identificar, respeitados os direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte.",
+"c": false,
+"prof": "Lei Orgânica, art. 117, § 5º.",
+"x": "O art. 117, § 5º afirma o contrário: Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, facultando à administração municipal identificar, respeitados os direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 118), somente ao Município cabe instituir isenção de tributo de sua competência, por meio de lei de iniciativa do poder Executivo, e aprovada por três quintos dos membros da câmara, prevalecendo o estatuído para o exercício seguinte.",
+"c": false,
+"prof": "Lei Orgânica, art. 118.",
+"x": "O art. 118 diz \"dois terços\", e não \"três quintos\".",
+"e": "Dois terços."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 120, Parágrafo Único), é vedada a transação que envolva tributos, salvo se realizada com autorização legislativa, deliberada por três quintos de seus membros.",
+"c": false,
+"prof": "Lei Orgânica, art. 120, Parágrafo Único.",
+"x": "O art. 120, Parágrafo Único diz \"dois terços\", e não \"três quintos\".",
+"e": "Dois terços."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 121), qualquer anistia ou remissão que envolva matéria tributária ou previdência de competência do Município, só não poderá ser concedida mediante lei específica municipal, de iniciativa do Poder Executivo.",
+"c": false,
+"prof": "Lei Orgânica, art. 121.",
+"x": "O art. 121 afirma o contrário: Qualquer anistia ou remissão que envolva matéria tributária ou previdência de competência do Município, só poderá ser concedida mediante lei específica municipal, de iniciativa do Poder Executivo.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 121, Parágrafo Único), o perdão da multa, o parcelamento e a compensação de débitos fiscais não poderão ser concedidos por ato do Poder Executivo, nos casos e condições especificados em lei municipal.",
+"c": false,
+"prof": "Lei Orgânica, art. 121, Parágrafo Único.",
+"x": "O art. 121, Parágrafo Único afirma o contrário: O perdão da multa, o parcelamento e a compensação de débitos fiscais poderão ser concedidos por ato do Poder Executivo, nos casos e condições especificados em lei municipal.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 129), a Lei de Diretrizes Orçamentárias, compatíveis com o Plano Plurianual, não compreenderá as metas e prioridades da administração pública municipal, incluindo as despesas de capital para o exercício financeiro subsequente, orientará a elaboração da Lei Orçamentária Anual e disporá sobre as alterações na legislação tributária.",
+"c": false,
+"prof": "Lei Orgânica, art. 129.",
+"x": "O art. 129 afirma o contrário: A Lei de Diretrizes Orçamentárias, compatíveis com o Plano Plurianual, compreenderá as metas e prioridades da administração pública municipal, incluindo as despesas de capital para o exercício financeiro subsequente, orientará a elaboração da Lei Orçamentária Anual e disporá sobre as alterações na legislação tributária.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 129, Parágrafo Único), a lei a que se refere o artigo não será enviada à Câmara Municipal até o dia quinze de junho de cada ano, devendo ser devolvida para sanção até o dia trinta e um de julho.",
+"c": false,
+"prof": "Lei Orgânica, art. 129, Parágrafo Único.",
+"x": "O art. 129, Parágrafo Único afirma o contrário: A lei a que se refere o artigo será enviada à Câmara Municipal até o dia quinze de junho de cada ano, devendo ser devolvida para sanção até o dia trinta e um de julho.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 130, § 1º), o Conselho Orçamentário não será constituído de representantes do Executivo, Legislativo, Entidades de Classes e Movimentos Populares, legalmente constituídos.",
+"c": false,
+"prof": "Lei Orgânica, art. 130, § 1º.",
+"x": "O art. 130, § 1º afirma o contrário: O Conselho Orçamentário será constituído de representantes do Executivo, Legislativo, Entidades de Classes e Movimentos Populares, legalmente constituídos.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 131, II), a Lei Orçamentária anual não compreenderá O orçamento de investimentos das empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto.",
+"c": false,
+"prof": "Lei Orgânica, art. 131, II.",
+"x": "O art. 131, II afirma o contrário: A Lei Orçamentária anual compreenderá O orçamento de investimentos das empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 131, III), a Lei Orçamentária anual não compreenderá O orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculadas da Administração Direta ou Indireta do Município, bem como os fundos e fundações instituídas e mantidos pelo poder Público.",
+"c": false,
+"prof": "Lei Orgânica, art. 131, III.",
+"x": "O art. 131, III afirma o contrário: A Lei Orçamentária anual compreenderá O orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculadas da Administração Direta ou Indireta do Município, bem como os fundos e fundações instituídas e mantidos pelo poder Público.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 133), a lei orçamentária não assegurará investimentos prioritários em programas de educação, saúde, habitação, saneamento básico e proteção ao meio ambiente, observados limites legais.",
+"c": false,
+"prof": "Lei Orgânica, art. 133.",
+"x": "O art. 133 afirma o contrário: A lei orçamentária assegurará investimentos prioritários em programas de educação, saúde, habitação, saneamento básico e proteção ao meio ambiente, observados limites legais.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 134), os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual não serão enviados pelo Prefeito à Câmara, nos termos e prazos fixados pela legislação específica.",
+"c": false,
+"prof": "Lei Orgânica, art. 134.",
+"x": "O art. 134 afirma o contrário: Os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual serão enviados pelo Prefeito à Câmara, nos termos e prazos fixados pela legislação específica.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 135, I), os projetos de lei relativos ao Plano Plurianual, às Diretrizes Orçamentárias, ao Orçamento Anual e aos Créditos Adicionais, serão apreciados por comissões permanentes da Câmara Municipal, à qual caberá examinar e emitir parecer sobre os projetos referidos neste artigo e sobre as contas apresentadas a cada dois anos pelo Prefeito.",
+"c": false,
+"prof": "Lei Orgânica, art. 135, I.",
+"x": "O art. 135, I diz \"anualmente\", e não \"a cada dois anos\".",
+"e": "Anualmente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 135, I), as emendas ao projeto da Lei do Orçamento Anual ou ao projeto que a modifique, somente não podem ser aprovadas caso sejam compatíveis com o Plano Plurianual e com a Lei de Diretrizes Orçamentárias.",
+"c": false,
+"prof": "Lei Orgânica, art. 135, I.",
+"x": "O art. 135, I afirma o contrário: As emendas ao projeto da Lei do Orçamento Anual ou ao projeto que a modifique, somente podem ser aprovadas caso sejam compatíveis com o Plano Plurianual e com a Lei de Diretrizes Orçamentárias.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 137, § 1º), nenhum investimento, cuja execução ultrapasse um exercício financeiro, não poderá ser iniciado sem prévia inclusão no Plano Plurianual, ou sem lei que autorize a inclusão no Plano, sob pena de crime de responsabilidade.",
+"c": false,
+"prof": "Lei Orgânica, art. 137, § 1º.",
+"x": "O art. 137, § 1º afirma o contrário: Nenhum investimento, cuja execução ultrapasse um exercício financeiro, poderá ser iniciado sem prévia inclusão no Plano Plurianual, ou sem lei que autorize a inclusão no Plano, sob pena de crime de responsabilidade.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 137, § 2º), os créditos extraordinários e especiais não terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subsequente.",
+"c": false,
+"prof": "Lei Orgânica, art. 137, § 2º.",
+"x": "O art. 137, § 2º afirma o contrário: Os créditos extraordinários e especiais terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subsequente.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 137, § 3º), a abertura de créditos extraordinários somente não será admitida, “ad referendum” da Câmara Municipal, por resolução, para atender às despesas imprevisíveis e urgentes, decorrentes de calamidade pública.",
+"c": false,
+"prof": "Lei Orgânica, art. 137, § 3º.",
+"x": "O art. 137, § 3º afirma o contrário: A abertura de créditos extraordinários somente será admitida, “ad referendum” da Câmara Municipal, por resolução, para atender às despesas imprevisíveis e urgentes, decorrentes de calamidade pública.",
+"e": "Afirmação, não negação."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 138, § 2º), o Prefeito Municipal autorizará, no prazo de trinta dias, após a promulgação desta emenda, aos Bancos depositários, à efetuarem os créditos em favor da Câmara, automaticamente, informando o percentual de participação da Câmara para que o Banco possa fazer o crédito autorizado nesta Lei.",
+"c": false,
+"prof": "Lei Orgânica, art. 138, § 2º.",
+"x": "O art. 138, § 2º diz \"imediatamente\", e não \"no prazo de trinta dias\".",
+"e": "Imediatamente."
+},
+{
+"p": "Segundo a Lei Orgânica de Belo Vale (art. 140, § 2º), as dotações orçamentárias e os créditos abertos não serão consignados ao Poder Judiciário, recolhidas as importâncias respectivas à repartição competente apara atender ao disposto no Art. 100o, § 2º , da Constituição da República.",
+"c": false,
+"prof": "Lei Orgânica, art. 140, § 2º.",
+"x": "O art. 140, § 2º afirma o contrário: As dotações orçamentárias e os créditos abertos serão consignados ao Poder Judiciário, recolhidas as importâncias respectivas à repartição competente apara atender ao disposto no Art. 100o, § 2º , da Constituição da República.",
+"e": "Afirmação, não negação."
+}
+]
+}
 }
 };
