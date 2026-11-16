@@ -237,7 +237,9 @@ function questoesDoPdf(el, ctx) {
 // Matérias de Direito (só nelas aparece a aba de Jurisprudência)
 const DIREITO = new Set(['administrativo', 'constitucional', 'penal', 'processo-penal', 'processo', 'extravagante', 'lei-organica-pcmg', 'direitos-humanos', 'civil', 'processo-civil', 'lindb', 'financeiro', 'previdenciario', 'trabalho', 'ambiental-urbanistico', 'constituicao-mg', 'cpm', 'cppm', 'transito', 'belovale']);
 const ehDireito = (mat) => DIREITO.has(mat.id) || /^(direito|legisla|lei |c[oó]digo)/i.test(norm(mat.nome || ''));
-const JURIS_RE = /\b(STF|STJ|TST|TSE|TJ[A-Z]{2}|S[uú]mula|Tema \d|RE \d|REsp|HC \d|RHC|ADI|ADPF|ADC|jurisprud[eê]ncia|repercuss[aã]o geral|recurso repetitivo|informativo)/i;
+const JURIS_CS = /\b(STF|STJ|TST|TSE|TJ[A-Z]{2}|RE \d|REsp|HC \d|RHC|ADI|ADPF|ADC)\b/;
+const JURIS_CI = /\b(s[uú]mula|tema \d|jurisprud[eê]ncia|repercuss[aã]o geral|recurso repetitivo)/i;
+const JURIS_RE = { test: (t) => JURIS_CS.test(t) || JURIS_CI.test(t) };
 // Questões sobre jurisprudência também dentro da aba Jurisprudência
 function questoesJuris(el, ctx) {
   const pane = el.querySelector('[data-pane="jur"]'); const bt = el.querySelector('[data-aba="jur"]');
@@ -247,8 +249,8 @@ function questoesJuris(el, ctx) {
   if (!idx.length) return;
   bt.hidden = false;
   // Jurisprudência comentada antes das questões: cada entendimento cobrado, com a explicação
-  const REF_RE = /(S[uú]mula\s+(?:Vinculante\s+)?(?:n[ºo°.]\s*)?\d+(?:\s+do\s+(?:STF|STJ|TST))?|Tema\s+(?:n[ºo°.]\s*)?[\d.]+(?:\s+d[oa]\s+(?:STF|STJ|repercuss[aã]o geral))?|\b(?:RE|REsp|HC|RHC|ADI|ADPF|ADC|AgRg)\s+(?:n[ºo°.]\s*)?[\d.]+|\bSTF\b|\bSTJ\b|\bTST\b|\bTSE\b)/i;
-  const ESP_RE = new RegExp(REF_RE.source.split('|\\bSTF')[0] + ')', 'i');
+  const REF_RE = /((?:S|s)[uú]mula\s+(?:Vinculante\s+)?(?:n[ºo°.]\s*)?\d+(?:\s+do\s+(?:STF|STJ|TST))?|Tema\s+(?:n[ºo°.]\s*)?[\d.]+(?:\s+d[oa]\s+(?:STF|STJ|[Rr]epercuss[aã]o [Gg]eral))?|\b(?:RE|REsp|HC|RHC|ADI|ADPF|ADC|AgRg)\s+(?:n[ºo°.]\s*)?[\d.]+|\bSTF\b|\bSTJ\b|\bTST\b|\bTSE\b)/;
+  const ESP_RE = new RegExp(REF_RE.source.split('|\\bSTF')[0] + ')');
   const vistos = new Set(); const cards = [];
   idx.forEach((i) => {
     const x = q[i]; const exp = String(x.x || x.prof || '').trim(); if (!exp) return;
