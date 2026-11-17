@@ -1,4 +1,4 @@
-// Apostilas, Materiais e Simulados por curso: o administrador envia PDFs, escolhe a seção, a ordem e os cursos; o aluno lê dentro do app, sem baixar.
+// Apostilas, Materiais e Simulados por curso: o administrador envia PDFs, escolhe a seção, a ordem e os cursos; o aluno lê dentro do app (simulados também podem ser baixados em PDF, com a marca d'água do aluno e o gabarito escondido).
 import { S, isAdmin } from '../state.js';
 import { db, storage } from '../backend.js';
 import { esc } from '../util.js';
@@ -185,7 +185,7 @@ async function leitor(el, a0) {
   const sec = SECOES[tipoDe(a)];
   el.innerHTML = `<div class="row"><a class="btn sec mini" href="#/${sec.rota}">‹ ${sec.nome}</a><span class="sp"></span>
       <button class="btn sec mini" id="lzMenos" title="Diminuir">−</button><span class="muted" id="lzZoom" style="font-size:13px;min-width:44px;text-align:center"></span><button class="btn sec mini" id="lzMais" title="Aumentar">+</button></div>
-    <h1 style="margin:10px 0 2px">${esc(a.titulo)}</h1>${tipoDe(a) === 'simulado' && !ehAdmin() ? '<button class="btn sec mini" id="lzFeito" style="margin:4px 0">…</button>' : ''}
+    <h1 style="margin:10px 0 2px">${esc(a.titulo)}</h1>${tipoDe(a) === 'simulado' ? `<div class="row" style="gap:6px;margin:4px 0;flex-wrap:wrap">${ehAdmin() ? '' : '<button class="btn sec mini" id="lzFeito">…</button>'}<button class="btn sec mini" id="lzBaixar" disabled>⬇ Baixar PDF</button></div>` : ''}
     <p class="muted" style="margin:0 0 10px;font-size:13px">${a.materia ? esc(a.materia) + ' · ' : ''}<span id="lzPag">Carregando…</span></p>
     ${a.quiz?.length ? `<div class="abas lt-abas" id="lzAbas" style="margin-bottom:10px"><button data-aba="pdf" class="on">📖 ${tipoDe(a) === 'simulado' ? 'Prova' : 'PDF'}</button><button data-aba="qst">🎯 Questões (${a.quiz.length})</button></div>` : ''}
     <div class="ap-leitor" id="lz"></div>
@@ -222,20 +222,29 @@ async function leitor(el, a0) {
   const desenha = async (d) => {
     const n = Number(d.dataset.n);
     if (feitas.get(n) === zoom) return; feitas.set(n, zoom);
-    const pg = await doc.getPage(n);
     const larg = Math.min(Math.max(280, (caixa.clientWidth || 800) - 26), 1000) * zoom;
-    const base = pg.getViewport({ scale: 1 }), esc2 = larg / base.width, dpr = Math.min(2, window.devicePixelRatio || 1);
-    const vp = pg.getViewport({ scale: esc2 * dpr });
-    const cv = document.createElement('canvas'); cv.width = vp.width; cv.height = vp.height;
-    cv.style.width = Math.round(vp.width / dpr) + 'px'; cv.style.height = Math.round(vp.height / dpr) + 'px';
-    await pg.render({ canvasContext: cv.getContext('2d'), viewport: vp }).promise;
-    const tampa = (a.mascara || {})[n];
-    if (tampa?.length) { const ctx = cv.getContext('2d'); ctx.save(); ctx.fillStyle = '#fff';
-      const [ta, tb, tc, td, te, tf] = vp.transform, pt = (x, y) => [ta * x + tc * y + te, tb * x + td * y + tf];
-      for (const r of tampa) { const [x1, y1] = pt(r[0], r[1]), [x2, y2] = pt(r[2], r[3]); ctx.fillRect(Math.min(x1, x2), Math.min(y1, y2), Math.abs(x2 - x1), Math.abs(y2 - y1)); }
-      ctx.restore(); }
-    if (marca) { const ctx = cv.getContext('2d'); ctx.save(); ctx.globalAlpha = 0.08; ctx.fillStyle = '#000'; ctx.font = `${Math.round(18 * dpr)}px sans-serif`; ctx.translate(cv.width / 2, cv.height / 2); ctx.rotate(-Math.PI / 6); ctx.textAlign = 'center'; ctx.fillText(marca, 0, 0); ctx.restore(); }
+    const dpr = Math.min(2, window.devicePixelRatio || 1);
+    const { cv } = await pintaPagina(doc, n, a, larg, dpr, marca);
     d.replaceChildren(cv);
+  };
+  const bB = el.querySelector('#lzBaixar');
+  if (bB) bB.disabled = false;
+  if (bB) bB.onclick = async () => {
+    bB.disabled = true;
+    try {
+      const imgs = [];
+      for (let n = 1; n <= doc.numPages; n++) {
+        bB.textContent = `Preparando página ${n} de ${doc.numPages}…`;
+        const { cv, w, h } = await pintaPagina(doc, n, a, 0, 1, marca, 1.6);
+        imgs.push({ jpg: await jpegDe(cv), w: cv.width, h: cv.height, pw: w, ph: h });
+      }
+      const blob = montaPdf(imgs);
+      const url = URL.createObjectURL(blob), lk = document.createElement('a');
+      lk.href = url; lk.download = (a.titulo || 'simulado').replace(/[\\/:*?"<>|]+/g, ' ').trim() + '.pdf';
+      document.body.appendChild(lk); lk.click(); lk.remove(); setTimeout(() => URL.revokeObjectURL(url), 4000);
+      toast('PDF baixado.');
+    } catch (e) { toast('Não consegui gerar o PDF: ' + e.message, 'erro'); }
+    bB.disabled = false; bB.textContent = '⬇ Baixar PDF';
   };
   const obs = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) desenha(e.target); }), { rootMargin: '600px 0px' });
   paginas.forEach((d) => obs.observe(d));
@@ -246,6 +255,51 @@ async function leitor(el, a0) {
   const pagAtual = () => { let n = 1; for (const d of paginas) if (d.getBoundingClientRect().top < innerHeight / 2) n = Number(d.dataset.n); el.querySelector('#lzPag').textContent = `Página ${n} de ${doc.numPages}`; };
   pagAtual(); window.addEventListener('scroll', pagAtual, { passive: true });
   window.addEventListener('hashchange', () => { obs.disconnect(); window.removeEventListener('scroll', pagAtual); doc.destroy?.(); }, { once: true });
+}
+
+// Desenha uma página do PDF num canvas, já com as tarjas (gabarito escondido) e a marca d'água do aluno.
+// larg = largura em px na tela (0 = usa "escala" fixa, para o download)
+async function pintaPagina(doc, n, a, larg, dpr, marca, escala = 0) {
+  const pg = await doc.getPage(n);
+  const base = pg.getViewport({ scale: 1 });
+  const vp = pg.getViewport({ scale: (escala || larg / base.width) * dpr });
+  const cv = document.createElement('canvas'); cv.width = Math.round(vp.width); cv.height = Math.round(vp.height);
+  cv.style.width = Math.round(vp.width / dpr) + 'px'; cv.style.height = Math.round(vp.height / dpr) + 'px';
+  const ctx = cv.getContext('2d');
+  if (escala) { ctx.fillStyle = '#fff'; ctx.fillRect(0, 0, cv.width, cv.height); }
+  await pg.render({ canvasContext: ctx, viewport: vp }).promise;
+  const tampa = (a.mascara || {})[n];
+  if (tampa?.length) { ctx.save(); ctx.fillStyle = '#fff';
+    const [ta, tb, tc, td, te, tf] = vp.transform, pt = (x, y) => [ta * x + tc * y + te, tb * x + td * y + tf];
+    for (const r of tampa) { const [x1, y1] = pt(r[0], r[1]), [x2, y2] = pt(r[2], r[3]); ctx.fillRect(Math.min(x1, x2), Math.min(y1, y2), Math.abs(x2 - x1), Math.abs(y2 - y1)); }
+    ctx.restore(); }
+  if (marca) { ctx.save(); ctx.globalAlpha = 0.08; ctx.fillStyle = '#000'; ctx.font = `${Math.round(18 * dpr * (escala || 1))}px sans-serif`; ctx.translate(cv.width / 2, cv.height / 2); ctx.rotate(-Math.PI / 6); ctx.textAlign = 'center'; ctx.fillText(marca, 0, 0); ctx.restore(); }
+  return { cv, w: base.width, h: base.height };
+}
+const jpegDe = (cv) => new Promise((ok, erro) => cv.toBlob((b) => (b ? b.arrayBuffer().then((x) => ok(new Uint8Array(x)), erro) : erro(new Error('falha ao gerar imagem'))), 'image/jpeg', 0.85));
+
+// Monta um PDF simples: uma imagem JPEG por página, no tamanho original da página
+function montaPdf(imgs) {
+  const enc = new TextEncoder(), partes = [], offs = [];
+  let tam = 0;
+  const put = (x) => { const b = typeof x === 'string' ? enc.encode(x) : x; partes.push(b); tam += b.length; };
+  const obj = (i, corpo, stream) => { offs[i] = tam; put(`${i} 0 obj\n${corpo}\n`); if (stream) { put('stream\n'); put(stream); put('\nendstream\n'); } put('endobj\n'); };
+  put('%PDF-1.4\n%\xE2\xE3\xCF\xD3\n');
+  const nP = imgs.length, kids = imgs.map((_, k) => `${3 + k * 3} 0 R`).join(' ');
+  obj(1, '<< /Type /Catalog /Pages 2 0 R >>');
+  obj(2, `<< /Type /Pages /Kids [${kids}] /Count ${nP} >>`);
+  imgs.forEach((im, k) => {
+    const p = 3 + k * 3, c = p + 1, x = p + 2, w = im.pw.toFixed(2), h = im.ph.toFixed(2);
+    obj(p, `<< /Type /Page /Parent 2 0 R /MediaBox [0 0 ${w} ${h}] /Resources << /XObject << /Im${k} ${x} 0 R >> >> /Contents ${c} 0 R >>`);
+    const cs = enc.encode(`q ${w} 0 0 ${h} 0 0 cm /Im${k} Do Q`);
+    obj(c, `<< /Length ${cs.length} >>`, cs);
+    obj(x, `<< /Type /XObject /Subtype /Image /Width ${im.w} /Height ${im.h} /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length ${im.jpg.length} >>`, im.jpg);
+  });
+  const total = 3 + nP * 3, xref = tam;
+  put(`xref\n0 ${total}\n0000000000 65535 f \n`);
+  for (let i = 1; i < total; i++) put(String(offs[i]).padStart(10, '0') + ' 00000 n \n');
+  put(`trailer\n<< /Size ${total} /Root 1 0 R >>\nstartxref\n${xref}\n%%EOF`);
+  return new Blob(partes, { type: 'application/pdf' });
 }
 
 // ---------- Quadro de simulados (visão do aluno) ----------
@@ -259,8 +313,8 @@ async function quadroSimulados(el, lista) {
   const c = meuCurso();
   const F = await feitos();
   let filtro = 'todos', busca = '';
-  // ordem: pela data de liberação (os sem data primeiro, na ordem definida pelo administrador)
-  const ord = [...lista].sort((x, y) => String(x.liberar_em || '').localeCompare(String(y.liberar_em || '')) || (x.ordem || 0) - (y.ordem || 0));
+  // ordem: a mesma definida pelo administrador (↑ ↓), de cima para baixo — o 1º da lista fica no topo
+  const ord = [...lista];
   el.innerHTML = `<div class="sm-quadro">
     <div class="sm-topo"><div><div class="mono up">${c ? esc(c.curto) : 'Seu curso'}</div><h1 class="sm-h1">SIMULADOS</h1></div>
       <div class="sm-seg">${[['todos', 'Todos'], ['feitos', 'Resolvidos'], ['abertos', 'Não resolvidos']].map(([k, n]) => `<button data-f="${k}">${n}</button>`).join('')}</div></div>

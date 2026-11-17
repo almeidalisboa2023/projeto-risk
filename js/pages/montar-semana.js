@@ -329,6 +329,18 @@ function parseItem(linha) {
   const base = tp ? tp.topico : ass;
   return { materia: materia || mat, assunto: base ? prefixo + base : prefixo.replace(/: $/, ''), topico_id: tp?.id || null, ligado: !!materia, original: linha.trim() };
 }
+// "Português, Constitucional e Administrativo" numa linha: vira um bloco por matéria
+// (só divide quando TODOS os pedaços são matérias reconhecidas; "Português - crase, regência" fica inteiro)
+function itensDe(p) {
+  const um = parseItem(p);
+  const pedacos = String(p).split(/\s*,\s*|\s+e\s+(?=\S)/).map((x) => x.trim()).filter(Boolean);
+  if (pedacos.length >= 2) {
+    const its = pedacos.map(parseItem);
+    if (its.every((x) => x && x.ligado) && new Set(its.map((x) => x.materia)).size === its.length)
+      return its.map((x, k) => (!x.topico_id && norm(x.assunto) === norm(pedacos[k]) ? { ...x, assunto: '' } : x));
+  }
+  return um ? [um] : [];
+}
 export function interpretarCronograma(texto, blocos) {
   const dias = Array.from({ length: 7 }, () => []); let atual = null; const soltos = [];
   for (const bruta of String(texto || '').split(/\r?\n/)) {
@@ -337,31 +349,61 @@ export function interpretarCronograma(texto, blocos) {
     if (m) {
       atual = DIA_IDX[norm(m[1]).replace(/[^a-z]/g, '')];
       const resto = l.slice(m[0].length).trim();
-      if (resto) resto.split(/\s*[;|]\s*|\s+\+\s+/).forEach((p) => { const it = parseItem(p); if (it) dias[atual].push(it); });
+      if (resto) resto.split(/\s*[;|]\s*|\s+\+\s+/).forEach((p) => dias[atual].push(...itensDe(p)));
       continue;
     }
     if (/^semana\b|^cronograma|^plano/i.test(l)) continue;
-    const it = parseItem(l); if (!it) continue;
-    if (atual == null) soltos.push(it); else dias[atual].push(it);
+    for (const it of itensDe(l)) { if (atual == null) soltos.push(it); else dias[atual].push(it); }
   }
   // texto sem dias marcados: distribui de segunda a sexta
   if (soltos.length) { let d = 0; for (const it of soltos) { while (dias[d].length >= blocos && d < 4) d++; dias[d].push(it); } }
   return dias;
 }
 
+// Exemplo montado com as matérias e os assuntos do próprio edital do aluno
+function exemploCola() {
+  const ms = materias().slice(0, 5);
+  if (!ms.length) return 'Segunda\nPortuguês - Crase\nDireito Constitucional - Remédios constitucionais\n\nTerça\nRevisão: Português - Crase';
+  const ass = (m, k = 0) => {
+    const ts = topicosValidos().filter((x) => x.materia === m), t = ts[k] || ts[0];
+    if (!t) return 'assunto';
+    let a = String(t.topico).replace(/^[\d./\-\s]+/, '').trim();
+    const p = a.split(/;|: /)[0].trim(); if (p.length >= 8) a = p;
+    return a.length > 55 ? a.slice(0, 55).replace(/\s+\S*$/, '') : a.replace(/[.,]$/, '');
+  };
+  const l = (m, k) => `${m} - ${ass(m, k)}`;
+  const linhas = ['Segunda', l(ms[0]), ms[1] ? l(ms[1]) : '', ms[2] ? l(ms[2]) : '', '', 'Terça', ms[3] ? l(ms[3]) : l(ms[0], 1), `Revisão: ${l(ms[0])}`];
+  if (ms[4] && ms[1]) linhas.push('', `Quarta: ${l(ms[4])}; ${l(ms[1], 1)}`);
+  return linhas.filter((x, i, a) => x !== '' || a[i - 1] !== '').join('\n');
+}
+
 function colarCronograma(semana, depois) {
   const ini = inicioSemana(S.edital.data_inicio, semana);
   modal(`<h3>Colar cronograma · Semana ${semana} (${ddmm(ini)} a ${ddmm(addDias(ini, 6))})</h3>
-    <p class="muted" style="font-size:13.5px;margin-top:0">Cole o cronograma do jeito que você tem (do WhatsApp, PDF, planilha...). Comece cada dia com o nome dele e coloque uma matéria por linha. Exemplo:</p>
-    <pre class="code" style="white-space:pre-wrap;font-size:12px">Segunda
-Legislação de Trânsito - CTB: Das Infrações
-Português - Crase
-Direito Penal - Culpabilidade
+    <details class="cguia" open><summary><b>📌 Como colar o texto (leia antes)</b></summary>
+      <ol class="cpassos">
+        <li><b>Escreva o dia sozinho na linha</b> (ou seguido de dois-pontos): <code>Segunda</code>, <code>Terça:</code>, <code>Qua</code>, <code>Sábado 08/11</code>.</li>
+        <li><b>Uma matéria por linha</b>, no formato <code>Matéria - Assunto</code>. Pode separar com hífen, dois-pontos ou barra.</li>
+        <li><b>Use o nome da matéria como está no seu edital.</b> Toque num nome abaixo para inserir na caixa:<div class="cmats">${materias().map((x) => `<button type="button" class="pill cmat">${esc(x)}</button>`).join('') || '<span class="muted">Cadastre o edital para ver as matérias.</span>'}</div></li>
+        <li><b>Revisão ou questões?</b> Comece a linha com <code>Revisão:</code> ou <code>Questões:</code>.</li>
+        <li>Horários e numeração (<code>08h -</code>, <code>1.</code>, <code>•</code>) podem ficar: o app ignora.</li>
+      </ol>
+      <div class="grid g2" style="gap:10px">
+        <div><div class="mono up" style="font-size:11px">✅ Assim funciona</div><pre class="code cex" id="cex1" style="white-space:pre-wrap">${esc(exemploCola())}</pre>
+          <button type="button" class="btn sec mini" id="cusar">Usar este exemplo</button></div>
+        <div><div class="mono up" style="font-size:11px">❌ Evite</div><pre class="code cex" style="white-space:pre-wrap">Seg Trânsito infrações Port crase
+(tudo numa linha, sem separar)
 
-Terça: Constitucional - Remédios constitucionais; Informática - Redes
-Quarta
-1. Revisão + questões: Legislação Especial - abuso de autoridade</pre>
-    <textarea id="ctxt" style="min-height:200px" placeholder="Cole aqui o cronograma da semana"></textarea>
+Português
+Crase
+(matéria e assunto em linhas separadas)
+
+Estudar CTB e fazer questões
+(sem dizer qual matéria vem primeiro)</pre></div>
+      </div>
+    </details>
+    <textarea id="ctxt" style="min-height:200px;margin-top:10px" placeholder="Cole aqui o cronograma da semana, começando pelo dia (ex.: Segunda)"></textarea>
+    <div class="muted" id="cvivo" style="font-size:13px;margin-top:4px"></div>
     <div class="row" style="margin-top:10px"><button class="btn" id="cler">Destrinchar no calendário</button><span class="muted" style="font-size:13px">Nada é salvo antes da conferência.</span></div>
     <div id="cprev" style="margin-top:14px"></div>`, {
     largo: true,
@@ -370,7 +412,7 @@ Quarta
       const desenha = () => {
         const total = dias.reduce((s, d) => s + d.length, 0);
         const out = m.querySelector('#cprev');
-        if (!total) { out.innerHTML = '<p class="bad">Não encontrei matérias no texto. Confira se cada matéria está em uma linha.</p>'; return; }
+        if (!total) { out.innerHTML = '<p class="bad">Não encontrei matérias no texto. Siga o passo a passo acima: o dia numa linha e, abaixo, uma matéria por linha no formato Matéria - Assunto.</p>'; return; }
         out.innerHTML = `<div class="mono up">Conferência · ${total} bloco(s)</div>
           ${DIAS.map((d, i) => dias[i].length ? `<div style="margin:10px 0"><b>${d} ${ddmm(addDias(ini, i))}</b>${dias[i].map((it, k) => `<div class="check" style="align-items:flex-start"><button class="linkbtn" data-x="${i}-${k}" title="Tirar">✕</button><span><b>${esc(it.materia)}</b>${it.assunto ? ' — ' + esc(it.assunto) : ''} ${it.topico_id ? '<span class="pill verde" style="font-size:11px">ligado ao edital</span>' : it.ligado ? '<span class="pill" style="font-size:11px">matéria do edital · assunto livre</span>' : '<span class="pill" style="font-size:11px">texto livre</span>'}</span></div>`).join('')}</div>` : '').join('')}
           <button class="btn" id="csal" style="margin-top:8px">Salvar no calendário da semana ${semana}</button>`;
@@ -383,7 +425,22 @@ Quarta
           catch (e) { toast(e.message, 'erro'); ev.target.disabled = false; }
         };
       };
-      m.querySelector('#cler').onclick = () => { dias = interpretarCronograma(m.querySelector('#ctxt').value, blocosPorDia()); desenha(); };
+      const tx = m.querySelector('#ctxt');
+      const vivo = () => {
+        const v = tx.value.trim(), out = m.querySelector('#cvivo');
+        if (!v) { out.textContent = ''; return; }
+        const d = interpretarCronograma(v, blocosPorDia()), tot = d.reduce((a, x) => a + x.length, 0), nd = d.filter((x) => x.length).length;
+        const livres = d.flat().filter((x) => !x.ligado).length;
+        const temDia = v.split(/\r?\n/).some((l) => DIA_RE.test(l.trim()));
+        out.innerHTML = `Encontrei <b>${tot}</b> bloco(s) em <b>${nd}</b> dia(s).` + (!temDia ? ' <span class="bad">Não achei o nome dos dias: os blocos serão espalhados de segunda a sexta.</span>' : '') + (livres ? ` <span class="bad">${livres} linha(s) com matéria não reconhecida: confira se o nome está igual ao do edital.</span>` : '');
+      };
+      let tmo; tx.oninput = () => { clearTimeout(tmo); tmo = setTimeout(vivo, 300); };
+      m.querySelector('#cusar').onclick = () => { tx.value = m.querySelector('#cex1').textContent; vivo(); tx.focus(); };
+      m.querySelectorAll('.cmat').forEach((b) => (b.onclick = () => {
+        const p = tx.selectionStart ?? tx.value.length, ant = tx.value.slice(0, p), ins = (ant && !ant.endsWith('\n') ? '\n' : '') + b.textContent + ' - ';
+        tx.value = ant + ins + tx.value.slice(p); tx.focus(); tx.selectionStart = tx.selectionEnd = p + ins.length; vivo();
+      }));
+      m.querySelector('#cler').onclick = () => { dias = interpretarCronograma(tx.value, blocosPorDia()); desenha(); m.querySelector('.cguia').open = false; };
     },
   });
 }

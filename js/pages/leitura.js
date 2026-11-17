@@ -1,4 +1,5 @@
 // Conteúdo programático (antiga Leitura interativa): quadro colorido de matérias → índice de tópicos → texto com questões. Aberta a todos os alunos.
+import { imagemDe } from '../leitura/imagens.js';
 import { S, isAdmin } from '../state.js';
 import { padronizar, minutosLeitura } from '../estetica.js';
 import { esc, norm, iso, hoje } from '../util.js';
@@ -63,9 +64,10 @@ function quadro(el) {
   <div class="lt-materias" id="ltMats">${ordem.map((m) => {
     const feitos = m.assuntos.filter((a) => L.has(m.id + '/' + a.id)).length, p = Math.round((feitos / m.assuntos.length) * 100);
     return `<a class="lt-mat" data-busca="${esc(norm(m.nome + ' ' + (m.apelidos || []).join(' ')))}" href="#/leitura?a=${m.id}/" style="--c:${m.cor}">
-      <span class="lt-mat-ico">${m.ico}</span><b>${esc(m.nome)}</b>
+      ${imagemDe(m.id) ? `<img class="lt-mat-img" src="${imagemDe(m.id)}" alt="" loading="lazy">` : `<span class="lt-mat-img lt-mat-ico">${m.ico}</span>`}
+      <div class="lt-mat-txt"><b>${esc(m.nome)}</b>
       <small>${m.assuntos.length} tópicos · ${feitos} lidos</small>
-      <div class="lt-mat-bar"><div style="width:${p}%"></div></div>
+      <div class="lt-mat-bar"><div style="width:${p}%"></div></div></div>
       ${meu.has(m.id) ? '<span class="lt-mat-tag">No seu edital</span>' : ''}</a>`;
   }).join('')}</div>`;
   const inp = el.querySelector('#ltBusca'), res = el.querySelector('#ltRes');
@@ -118,7 +120,7 @@ function leitura(el, q, mat, idx) {
   const feitos = mat.assuntos.filter((x) => L.has(mat.id + '/' + x.id)).length;
   const ir = (i) => `#/leitura?a=${mat.id}/${mat.assuntos[i].id}`;
   el.innerHTML = `<div class="row"><a class="btn sec mini" href="#/leitura">‹ Todas as matérias</a></div>
-  <div class="lt-cab" style="--c:${mat.cor}"><span>${mat.ico}</span><div><div class="mono up">Conteúdo programático${meuCurso() ? ' · ' + esc(meuCurso().curto) : ''}</div><h1 style="margin:0">${esc(mat.nome)}</h1></div></div>
+  <div class="lt-cab ${imagemDe(mat.id) ? 'com-img' : ''}" style="--c:${mat.cor}${imagemDe(mat.id) ? `;--img:url('${imagemDe(mat.id)}')` : ''}">${imagemDe(mat.id) ? '' : `<span>${mat.ico}</span>`}<div><div class="mono up">Conteúdo programático${meuCurso() ? ' · ' + esc(meuCurso().curto) : ''}</div><h1 style="margin:0">${esc(mat.nome)}</h1></div></div>
   ${mat.recorte ? `<div class="lt-recorte">📋 <b>Recorte do seu edital:</b> ${esc(mat.recorte)}. Aparecem só os tópicos cobrados.</div>` : ''}
   <div class="lt-wrap" style="--c:${mat.cor}">
     <aside class="card lt-indice">
@@ -337,7 +339,13 @@ export function quiz(el, mat, a, ctx0) {
   $('#ltAnt').onclick = $('#ltAnt2').onclick = () => ir(-1);
   $('#ltProx').onclick = $('#ltProx2').onclick = () => ir(1);
   if ($('#ltTipo')) {
-    const b = minhaBanca(); if (b) $('#ltTipo').value = b.formato; // padrão da banca do aluno; ele pode trocar
+    // padrão da banca do aluno (ele pode trocar), mas só quando o tópico tem questões suficientes nesse formato;
+    // senão mostra todas, para o aluno da FGV/Consulplan não ficar com o banco quase vazio
+    const b = minhaBanca();
+    if (b) {
+      const nFmt = (a.quiz || []).filter((x) => (b.formato === 'me') === !!x.alts).length;
+      $('#ltTipo').value = nFmt >= 10 ? b.formato : '';
+    }
     $('#ltTipo').onchange = () => { pag = 0; desenhar(); };
   }
   $('#ltHist').onchange = () => { pag = 0; desenhar(); };
