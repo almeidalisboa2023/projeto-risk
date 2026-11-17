@@ -235,7 +235,7 @@ function questoesDoPdf(el, ctx) {
 }
 
 // Matérias de Direito (só nelas aparece a aba de Jurisprudência)
-const DIREITO = new Set(['administrativo', 'constitucional', 'penal', 'processo-penal', 'processo', 'extravagante', 'lei-organica-pcmg', 'direitos-humanos', 'civil', 'processo-civil', 'lindb', 'financeiro', 'previdenciario', 'trabalho', 'ambiental-urbanistico', 'constituicao-mg', 'cpm', 'cppm', 'transito', 'belovale']);
+const DIREITO = new Set(['administrativo', 'constitucional', 'penal', 'processo-penal', 'processo', 'extravagante', 'lei-organica-pcmg', 'direitos-humanos', 'civil', 'processo-civil', 'financeiro', 'previdenciario', 'trabalho', 'ambiental-urbanistico', 'transito', 'belovale']);
 const ehDireito = (mat) => DIREITO.has(mat.id) || /^(direito|legisla|lei |c[oó]digo)/i.test(norm(mat.nome || ''));
 const JURIS_CS = /\b(STF|STJ|TST|TSE|TJ[A-Z]{2}|RE \d|REsp|HC \d|RHC|ADI|ADPF|ADC)\b/;
 const JURIS_CI = /\b(s[uú]mula|tema \d|jurisprud[eê]ncia|repercuss[aã]o geral|recurso repetitivo)/i;
