@@ -994,3 +994,23 @@ table.tab td, table.tab th { border-bottom: 1px solid var(--borda); padding: 8px
 .cr-dl i { height: 9px; border-radius: 9px; background: linear-gradient(90deg, var(--c) var(--w), color-mix(in srgb, var(--txt) 10%, transparent) var(--w)); }
 .cr-dl small { opacity: .75; white-space: nowrap; }
 @media (max-width: 560px) { .cr-nums { grid-template-columns: repeat(2, 1fr); } .cr-passos div { font-size: 10.5px; } .cr-dl { grid-template-columns: 1fr auto; } .cr-dl i { grid-column: 1 / -1; } }
+/* Quadro de avisos fechado: vira um sininho com o número de avisos novos */
+.av-sino-wrap { display: flex; justify-content: flex-end; margin: 0 0 4px; }
+.av-sino { position: relative; width: 46px; height: 46px; border-radius: 50%; border: 1px solid var(--linha, #ddd); background: var(--card, #fff); font-size: 22px; line-height: 1; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,.08); display: grid; place-items: center; }
+.av-sino:hover { transform: translateY(-1px); }
+.av-num { position: absolute; top: -4px; right: -4px; min-width: 20px; height: 20px; padding: 0 5px; border-radius: 999px; background: var(--vermelho, #c0392b); color: #fff; font: 700 11px/20px system-ui, sans-serif; text-align: center; }
+.av-fechar { margin-left: 6px; }
+
+/* Conteúdo programático: cartão da matéria com ilustração */
+.lt-mat { padding: 0; overflow: hidden; color: var(--txt); background: var(--card); border: 1px solid var(--borda); box-shadow: 0 4px 14px rgba(0,0,0,.08); min-height: 0; gap: 0; }
+.lt-mat:hover { box-shadow: 0 10px 22px color-mix(in srgb, var(--c) 30%, transparent); }
+.lt-mat-img { display: block; width: 100%; aspect-ratio: 320 / 140; object-fit: cover; border-bottom: 4px solid var(--c); }
+span.lt-mat-img { display: flex; align-items: center; justify-content: center; font-size: 44px; background: linear-gradient(135deg, var(--c), color-mix(in srgb, var(--c) 70%, #000)); }
+.lt-mat-txt { display: flex; flex-direction: column; gap: 4px; padding: 12px 14px 14px; flex: 1; }
+.lt-mat b { font-size: 17px; margin-top: 0; color: var(--txt); }
+.lt-mat small { opacity: 1; color: var(--txt2); }
+.lt-mat .lt-mat-bar { background: rgba(127,127,127,.2); margin-top: 8px; }
+.lt-mat .lt-mat-bar > div { background: var(--c); }
+.lt-cab.com-img { min-height: 120px; background: linear-gradient(90deg, color-mix(in srgb, var(--c) 90%, #000) 0%, color-mix(in srgb, var(--c) 85%, #000) 40%, color-mix(in srgb, var(--c) 0%, transparent) 75%), var(--img) right center / auto 100% no-repeat, var(--c); }
+@media (max-width: 600px) { .lt-cab.com-img { min-height: 110px; background: linear-gradient(90deg, color-mix(in srgb, var(--c) 92%, #000) 30%, transparent 100%), var(--img) right center / auto 100% no-repeat, var(--c); }
+  .lt-materias { grid-template-columns: repeat(2, 1fr); gap: 10px; } .lt-mat b { font-size: 14.5px; } .lt-mat small { font-size: 12px; } .lt-mat-txt { padding: 9px 10px 11px; } .lt-mat-tag { top: 6px; right: 6px; font-size: 10px; } }
