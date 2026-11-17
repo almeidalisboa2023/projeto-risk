@@ -15264,6 +15264,2667 @@ export const PROFUNDO = {
 "ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>graus de queimadura (Hofmann)</span></div><div class=\"lt-stat\"><b>9%</b><span>regra dos 9: cada membro superior representa 9% da superfície corporal</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de lesão elétrica: eletroplessão (raio) e eletrocussão (industrial)</span></div><div class=\"lt-stat\"><b>3</b><span>lesões pelo frio: eritema, flictena e necrose (geladura)</span></div></div>\n<h3>1. Energias de ordem física</h3>\n<ul><li>São as energias capazes de lesionar o corpo <b>sem</b> ser mecânicas: <b>temperatura</b> (calor e frio), <b>eletricidade</b>, <b>pressão atmosférica</b>, <b>radioatividade</b>, <b>luz</b> e <b>som</b>. As mais cobradas são <b>calor</b>, <b>eletricidade</b> e <b>frio</b>.</li></ul>\n<h3>2. Calor</h3>\n<ul><li><b>Termonoses</b> (calor difuso): <b>insolação</b> (calor do sol, ao ar livre) e <b>intermação</b> (ambiente fechado e quente, como caldeiras ou um carro fechado ao sol). A morte de criança esquecida em carro fechado é <b>intermação</b>.</li><li><b>Queimaduras</b> (calor direto): <b>classificação de Hofmann</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Grau</th><th>Atinge</th><th>Aspecto</th></tr></thead><tbody><tr><td><b>1º</b></td><td><b>epiderme</b></td><td><b>eritema</b> (vermelhidão), dor; regride sem cicatriz (queimadura solar)</td></tr><tr><td><b>2º</b></td><td>epiderme e <b>derme</b></td><td><b>flictenas</b> (bolhas com líquido)</td></tr><tr><td><b>3º</b></td><td>tecidos <b>profundos</b> (subcutâneo, músculos)</td><td><b>necrose</b>, escara, área insensível; cicatriz</td></tr><tr><td><b>4º</b></td><td>todos os planos, inclusive ossos</td><td><b>carbonização</b></td></tr></tbody></table>\n<ul><li><b>Gravidade</b>: depende mais da <b>extensão</b> (percentual da superfície corporal) do que da profundidade. A <b>regra dos 9</b> (Wallace) estima a superfície no adulto: cabeça e pescoço <b>9%</b>; cada membro superior <b>9%</b>; tronco anterior <b>18%</b>; tronco posterior <b>18%</b>; cada membro inferior <b>18%</b>; períneo <b>1%</b>.</li><li><b>Reação vital</b>: queimaduras produzidas em <b>vida</b> têm <b>flictenas com líquido rico em proteínas</b> e halo inflamatório (sinal de Chambert); as produzidas <b>após a morte</b> não têm reação inflamatória. No <b>carbonizado</b>, a presença de <b>fuligem nas vias aéreas</b> e <b>carboxiemoglobina</b> elevada indica que a vítima estava viva durante o incêndio.</li><li><b>Posição de boxeador (pugilística)</b>: o cadáver carbonizado fica com membros flexionados pela retração muscular causada pelo calor; <b>não</b> indica luta.</li></ul>\n<h3>3. Eletricidade</h3>\n<ul><li><b>Eletroplessão</b>: eletricidade <b>natural</b> (<b>raio</b>). Pode deixar as <b>figuras de Lichtenberg</b>: desenhos <b>arborescentes</b> (em forma de folha de samambaia) avermelhados na pele, que desaparecem em horas ou dias. Os corpos fulminados podem ter queimaduras, roupas rasgadas e objetos metálicos magnetizados.</li><li><b>Eletrocussão</b>: eletricidade <b>industrial</b> (artificial: rede elétrica). Marca típica: <b>marca elétrica de Jellinek</b>, lesão <b>endurecida, esbranquiçada ou amarelada, indolor</b>, com bordas elevadas, no <b>ponto de entrada</b> da corrente. Pode haver lesão de saída. A morte ocorre geralmente por <b>fibrilação ventricular</b> ou parada respiratória.</li><li><b>Eletrocussão</b> também designa a execução por cadeira elétrica (nos EUA).</li></ul>\n<h3>4. Frio e outras energias</h3>\n<ul><li><b>Frio</b>: lesões locais (<b>geladuras</b>: eritema, flictenas, necrose, de acordo com a intensidade) e efeitos gerais (<b>hipotermia</b>). Na morte pelo frio, encontram-se <b>manchas de Wischnewski</b> (pequenas erosões hemorrágicas na mucosa do estômago).</li><li><b>Pressão atmosférica</b>: <b>barotrauma</b>; doença descompressiva dos mergulhadores (embolia gasosa); \"mal das montanhas\" na altitude.</li><li><b>Radiação</b>: radiodermites, síndrome aguda da radiação (o acidente com césio-137 em Goiânia, 1987, é exemplo).</li><li><b>Explosões</b> combinam energias: mecânica (onda de choque, estilhaços), térmica (calor) e química.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Criança morta em carro fechado ao sol é insolação</span><br>✅ <span class=\"certo\">É INTERMAÇÃO (ambiente fechado).</span></li><li>❌ <span class=\"banca\">Figuras de Lichtenberg são da eletricidade industrial</span><br>✅ <span class=\"certo\">São do RAIO (eletroplessão).</span></li><li>❌ <span class=\"banca\">A marca de Jellinek aparece no raio</span><br>✅ <span class=\"certo\">Aparece na eletricidade industrial.</span></li><li>❌ <span class=\"banca\">Posição de boxeador indica luta</span><br>✅ <span class=\"certo\">Decorre da retração muscular pelo calor.</span></li><li>❌ <span class=\"banca\">2º grau é necrose</span><br>✅ <span class=\"certo\">2º grau são flictenas; 3º, necrose.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Insolação x intermação?</span></span><span class=\"vs\"><span>Sol <b>ao ar livre</b> x ambiente <b>fechado</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Queimaduras de Hofmann?</span></span><span class=\"vs\"><span>1º eritema; 2º <b>flictenas</b>; 3º necrose; 4º <b>carbonização</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra dos 9?</span></span><span class=\"vs\"><span>Cada membro superior <b>9%</b>; cada inferior <b>18%</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Raio?</span></span><span class=\"vs\"><span><b>Eletroplessão</b>; figuras de <b>Lichtenberg</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eletricidade industrial?</span></span><span class=\"vs\"><span><b>Eletrocussão</b>; marca de <b>Jellinek</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carbonizado vivo?</span></span><span class=\"vs\"><span><b>Fuligem</b> nas vias aéreas e <b>carboxiemoglobina</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Posição pugilística?</span></span><span class=\"vs\"><span>Retração muscular pelo <b>calor</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Morte pelo frio?</span></span><span class=\"vs\"><span>Manchas de <b>Wischnewski</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O eletricista e o agricultor</b><p>Dois corpos chegam ao IML: um eletricista encontrado junto a um poste, com lesão endurecida e amarelada na palma da mão; e um agricultor encontrado no campo após uma tempestade, com desenhos arborescentes avermelhados no tronco.</p><details><summary>Ver a solução comentada</summary><p>O eletricista apresenta <b>marca elétrica de Jellinek</b>, típica da <b>eletrocussão</b> (eletricidade industrial), no ponto de entrada da corrente. O agricultor apresenta <b>figuras de Lichtenberg</b>, típicas da <b>eletroplessão</b> (raio). Em ambos, a causa da morte é física (energia elétrica), e a perícia deve afastar outras hipóteses.</p></details></div>"
 }
 },
+"extravagante": {
+"hediondos": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1990</b><span>ano da Lei 8.072, que regulamentou o art. 5º, XLIII, da Constituição</span></div><div class=\"lt-stat\"><b>70%</b><span>da pena para progredir o condenado primário por crime hediondo ou equiparado (fatos a partir de 25/03/2026, Lei 15.358/2026)</span></div><div class=\"lt-stat\"><b>2/3</b><span>da pena para o livramento condicional nos hediondos, vedado ao reincidente específico (CP, art. 83, V)</span></div><div class=\"lt-stat\"><b>30 + 30</b><span>dias de prisão temporária nos hediondos e equiparados (Lei 8.072, art. 2º, § 4º)</span></div></div>\n<h3>1. Por que existe uma Lei dos Crimes Hediondos</h3>\n<ul><li>A <b>Constituição de 1988</b> determinou, no art. 5º, <b>XLIII</b>, que \"a lei considerará crimes <b>inafiançáveis</b> e <b>insuscetíveis de graça ou anistia</b> a prática da <b>tortura</b>, o <b>tráfico</b> ilícito de entorpecentes e drogas afins, o <b>terrorismo</b> e os definidos como <b>crimes hediondos</b>\", respondendo por eles os mandantes, os executores e os que, podendo evitá-los, se omitirem.</li><li>É um <b>mandado constitucional de criminalização</b>: a própria Constituição ordena ao legislador que trate certos crimes com mais rigor. Mas a Constituição <b>não disse quais</b> seriam os crimes hediondos. Coube à <b>Lei 8.072, de 25 de julho de 1990</b>, fazer essa lista.</li><li>A lei nasceu num contexto de forte comoção social, marcado por uma onda de <b>extorsões mediante sequestro</b> de empresários no fim dos anos 1980. Por isso, a redação original foi muito dura (regime <b>integralmente</b> fechado, proibição de liberdade provisória) e boa parte dela acabou sendo corrigida depois pelo STF e pelo próprio Congresso.</li><li>Desde então, a lei foi alterada <b>dezenas de vezes</b>. Cada caso de grande repercussão costuma gerar a inclusão de um novo crime no rol (foi assim com o homicídio qualificado em 1994, após o assassinato da atriz Daniella Perez, com a falsificação de remédios em 1998, e com vários crimes contra crianças e adolescentes em 2024). Em 2025 e 2026 vieram novas mudanças importantes, que você verá ao longo do tópico.</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Hediondo x equiparado a hediondo</b><p><b>Hediondos</b> são os crimes da <b>lista</b> do art. 1º da Lei 8.072. <b>Equiparados</b> (ou assemelhados) são os três crimes que a <b>Constituição</b> já tratou com o mesmo rigor: <b>tortura</b>, <b>tráfico de drogas</b> e <b>terrorismo</b> (os \"<b>TTT</b>\"). Os equiparados <b>não estão</b> no rol do art. 1º, mas recebem o mesmo tratamento (art. 2º da Lei 8.072).</p></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para lembrar os equiparados, pense em <b>TTT</b>: <b>T</b>ortura, <b>T</b>ráfico de drogas e <b>T</b>errorismo. Eles não são \"hediondos\" pela lista; são \"equiparados\" pela Constituição.</div>\n<h3>2. O critério adotado: sistema legal (enumerativo)</h3>\n<ul><li>Há três modelos possíveis para definir crime hediondo: (1) <b>legal</b>: só é hediondo o que a lei enumera; (2) <b>judicial</b>: o juiz decide, no caso concreto, se o crime foi hediondo pela gravidade; (3) <b>misto</b>: a lei dá um conceito aberto e o juiz o aplica.</li><li>O Brasil adotou o <b>sistema legal</b>, também chamado <b>enumerativo</b> ou <b>taxativo</b>: <b>só</b> é hediondo o crime que está <b>expressamente</b> previsto no rol da Lei 8.072, <b>tentado ou consumado</b>. O juiz <b>não</b> pode declarar hediondo um crime fora da lista, por mais cruel que seja, nem deixar de reconhecer como hediondo um crime que está nela.</li><li>Consequências práticas: (1) um <b>homicídio simples</b> praticado com extrema frieza <b>não</b> é hediondo (salvo se em atividade típica de grupo de extermínio); (2) um <b>estupro</b> \"sem violência real grave\" <b>é</b> hediondo, porque está na lista; (3) para incluir ou retirar um crime do rol é preciso <b>lei</b>.</li><li>A vantagem do sistema legal é a <b>segurança jurídica</b>; a desvantagem é a <b>rigidez</b>: crimes graves podem ficar de fora, e crimes de gravidade variável recebem tratamento igual.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O juiz pode reconhecer como hediondo um crime não previsto no rol, se praticado com crueldade</span><br>✅ <span class=\"certo\">O Brasil adota o critério <b>legal</b>; só a <b>lei</b> define o que é hediondo</span></li><li>❌ <span class=\"banca\">Os crimes equiparados a hediondos estão listados no art. 1º da Lei 8.072</span><br>✅ <span class=\"certo\">Tortura, tráfico e terrorismo são equiparados pela <b>Constituição</b> (art. 5º, XLIII), não pela lista do art. 1º</span></li><li>❌ <span class=\"banca\">O crime hediondo só tem esse tratamento se consumado</span><br>✅ <span class=\"certo\">O art. 1º diz expressamente: <b>tentados ou consumados</b></span></li></ol></div>\n<h3>3. O rol do art. 1º: visão geral</h3>\n<ul><li>O <b>caput</b> do art. 1º diz que são hediondos os crimes a seguir, <b>todos tipificados no Código Penal</b>, <b>consumados ou tentados</b>. O <b>parágrafo único</b> acrescenta crimes de <b>outras leis</b> (genocídio, Estatuto do Desarmamento, organização criminosa, Código Penal Militar, ECA e a Lei 15.358/2026).</li><li>Para estudar, agrupe por <b>bem jurídico</b>. Isso ajuda muito a memorizar.</li></ul>\n<table class=\"tab\"><thead><tr><th>Grupo</th><th>Crimes hediondos (art. 1º, caput)</th></tr></thead><tbody><tr><td><b>Contra a vida</b></td><td>homicídio em atividade típica de <b>grupo de extermínio</b>, ainda que por um só agente (I) · homicídio <b>qualificado</b> (I) · <b>feminicídio</b>, art. 121-A (I-B) · <b>vicaricídio</b>, art. 121-B (I-C)</td></tr><tr><td><b>Lesão corporal \"funcional\" e outras</b></td><td>lesão corporal dolosa <b>gravíssima</b> e lesão corporal <b>seguida de morte</b> contra agentes de segurança, membros do Judiciário, do MP, da Defensoria e da Advocacia Pública e oficiais de justiça (e seus familiares), ou praticadas em <b>instituição de ensino</b> (I-A)</td></tr><tr><td><b>Patrimônio</b></td><td><b>roubo</b> com restrição de liberdade da vítima, com emprego de <b>arma de fogo</b> ou qualificado por lesão grave ou morte (II) · <b>extorsão</b> qualificada pela restrição de liberdade, lesão ou morte (III) · <b>extorsão mediante sequestro</b> (IV) · <b>furto</b> com emprego de <b>explosivo</b> (IX)</td></tr><tr><td><b>Dignidade sexual</b></td><td><b>estupro</b> (V) · <b>estupro de vulnerável</b> (VI) · <b>favorecimento da prostituição</b> ou exploração sexual de criança, adolescente ou vulnerável (VIII)</td></tr><tr><td><b>Saúde pública</b></td><td><b>epidemia</b> com resultado morte (VII) · <b>falsificação</b> de produto <b>terapêutico ou medicinal</b> (VII-B)</td></tr><tr><td><b>Crianças e adolescentes e meio digital (Lei 14.811/2024)</b></td><td>induzimento, instigação ou auxílio a <b>suicídio ou automutilação</b> pela internet, rede social ou transmissão em tempo real (X) · <b>sequestro e cárcere privado</b> contra <b>menor de 18 anos</b> (XI) · <b>tráfico de pessoas</b> contra <b>criança ou adolescente</b> (XII)</td></tr></tbody></table>\n<ul><li>O <b>parágrafo único</b> completa a lista com crimes previstos fora do Código Penal:</li></ul>\n<table class=\"tab\"><thead><tr><th>Parágrafo único</th><th>Crime</th><th>Lei</th></tr></thead><tbody><tr><td>I</td><td><b>genocídio</b></td><td>Lei 2.889/1956, arts. 1º, 2º e 3º</td></tr><tr><td>II</td><td>posse ou porte ilegal de arma de fogo de <b>uso proibido</b></td><td>Lei 10.826/2003, art. 16</td></tr><tr><td>III</td><td><b>comércio ilegal</b> de armas de fogo</td><td>Lei 10.826/2003, art. 17</td></tr><tr><td>IV</td><td><b>tráfico internacional</b> de arma de fogo, acessório ou munição</td><td>Lei 10.826/2003, art. 18</td></tr><tr><td>V</td><td><b>organização criminosa</b>, quando direcionada à prática de crime hediondo ou equiparado</td><td>Lei 12.850/2013</td></tr><tr><td>VI</td><td>crimes do <b>Código Penal Militar</b> que tenham identidade com os crimes do art. 1º</td><td>Decreto-Lei 1.001/1969</td></tr><tr><td>VII</td><td>crimes de <b>pornografia infantil</b> e aliciamento de crianças do ECA (arts. 240, 241, 241-A, 241-B, 241-D e 244-A, nas formas indicadas)</td><td>Lei 8.069/1990 (redação da Lei 15.487/2026)</td></tr><tr><td>VIII</td><td><b>domínio social estruturado</b> e <b>favorecimento</b> ao domínio social estruturado</td><td>Lei 15.358/2026, arts. 2º e 3º</td></tr></tbody></table>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>Muitas bancas copiam o rol e trocam <b>uma palavra</b>: \"arma de uso <b>restrito</b>\" no lugar de \"uso <b>proibido</b>\", \"sequestro contra <b>idoso</b>\" no lugar de \"menor de 18 anos\", \"furto <b>qualificado</b>\" sem dizer \"com <b>explosivo</b>\". Leia cada palavra da alternativa como se fosse um contrato.</p></div>\n<h3>4. Crimes contra a vida no rol</h3>\n<ul><li><b>Homicídio em atividade típica de grupo de extermínio</b> (inciso I, 1ª parte): é o único caso em que um <b>homicídio simples</b> (art. 121, caput) pode ser hediondo. Basta que o crime seja praticado em <b>atividade típica</b> de grupo de extermínio, <b>ainda que cometido por um só agente</b>. A expressão é vaga e a lei não define \"grupo de extermínio\"; a doutrina fala em grupos que matam pessoas de forma sistemática, normalmente sob o pretexto de \"limpeza social\". Na prática, quase sempre esse homicídio também será <b>qualificado</b> (motivo torpe), o que já o tornaria hediondo pela 2ª parte.</li><li><b>Homicídio qualificado</b> (inciso I, 2ª parte): <b>todas</b> as qualificadoras do art. 121, § 2º, tornam o homicídio hediondo, sejam <b>subjetivas</b> (motivo torpe, fútil, para assegurar outro crime) ou <b>objetivas</b> (meio cruel, emboscada, recurso que dificulte a defesa, arma de fogo de uso restrito ou proibido, contra menor de 14 anos).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · homicídio qualificado-privilegiado</b><p class=\"jc-tese\">O homicídio <b>qualificado-privilegiado</b> (por exemplo, motivo de relevante valor moral + meio cruel) <b>não</b> é hediondo.</p><p class=\"jc-com\">O privilégio (art. 121, § 1º) só é compatível com qualificadoras de natureza <b>objetiva</b>, porque as subjetivas (motivo torpe ou fútil) contradizem o motivo nobre. Quando as duas coisas convivem, a jurisprudência do STJ entende que a figura não se ajusta ao conceito de hediondez: o legislador não incluiu o privilégio no rol, e a menor reprovabilidade do motivo afasta o tratamento mais severo. Em prova, se a questão disser \"homicídio qualificado-privilegiado é hediondo\", marque <b>errado</b>.</p></div>\n<ul><li><b>Feminicídio</b> (inciso I-B, incluído pela <b>Lei 14.994/2024</b>): desde o \"pacote antifeminicídio\", o feminicídio deixou de ser qualificadora do homicídio e virou <b>crime autônomo</b> (CP, art. <b>121-A</b>): matar mulher por <b>razões da condição do sexo feminino</b> (violência doméstica e familiar ou menosprezo ou discriminação à condição de mulher), com pena de <b>20 a 40 anos</b> de reclusão. Continua <b>hediondo</b>, agora por inciso próprio.</li><li><b>Vicaricídio</b> (inciso I-C, incluído pela <b>Lei 15.384/2026</b>): novo crime autônomo (CP, art. <b>121-B</b>). Consiste em matar <b>descendente</b>, <b>ascendente</b>, <b>dependente</b>, <b>enteado</b> ou pessoa sob a <b>guarda</b> ou responsabilidade direta de uma <b>mulher</b>, com o fim específico de causar a ela <b>sofrimento</b>, <b>punição</b> ou <b>controle</b>, em contexto de <b>violência doméstica e familiar</b>. Pena: <b>20 a 40 anos</b>, aumentada de <b>1/3 até a metade</b> se o crime for cometido na <b>presença</b> da mulher, contra <b>criança, adolescente, idoso ou pessoa com deficiência</b>, ou em <b>descumprimento de medida protetiva</b>. A mesma lei inseriu na Lei Maria da Penha (art. 7º, VI) a <b>violência vicária</b> como forma de violência contra a mulher.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Matar o filho para atingir a ex</b><p>Inconformado com o fim do casamento, um homem mata o filho de 8 anos do casal durante a visita e envia uma mensagem à ex-mulher dizendo que \"ela vai sofrer pelo resto da vida\". Qual o crime e qual o tratamento?</p><details><summary>Ver a solução comentada</summary><p><b>Vicaricídio</b> (CP, art. 121-B): matar descendente da mulher com o fim de causar-lhe sofrimento, em contexto de violência doméstica e familiar. Incide a causa de aumento por ser a vítima <b>criança</b>. O crime é <b>hediondo</b> (Lei 8.072, art. 1º, I-C): inafiançável, insuscetível de anistia, graça e indulto, e a progressão exige <b>70%</b> da pena se o condenado for primário (75% por haver resultado morte, art. 112, VI, \"a\", da LEP, vedado o livramento condicional). Se o fato fosse anterior a 10/04/2026, a resposta seria homicídio qualificado (motivo torpe, vítima menor de 14 anos), também hediondo.</p></details></div>\n<h3>5. Lesão corporal gravíssima e seguida de morte (inciso I-A)</h3>\n<ul><li>Aqui <b>não</b> é qualquer lesão grave. Só entram duas formas: lesão corporal dolosa de natureza <b>gravíssima</b> (art. 129, <b>§ 2º</b>) e lesão corporal <b>seguida de morte</b> (art. 129, <b>§ 3º</b>). A lesão <b>grave</b> do § 1º (por exemplo, incapacidade para as ocupações habituais por mais de 30 dias) <b>não</b> é hedionda.</li><li>E não basta a gravidade: é preciso uma das situações das alíneas:</li></ul>\n<table class=\"tab\"><thead><tr><th>Alínea</th><th>Quem é a vítima ou onde ocorre</th><th>Origem</th></tr></thead><tbody><tr><td><b>a</b></td><td>autoridade ou agente dos arts. <b>142</b> (Forças Armadas) e <b>144</b> (segurança pública) da CF, integrantes do <b>sistema prisional</b> e da <b>Força Nacional</b>, no exercício da função ou <b>em decorrência dela</b>, ou seu <b>cônjuge, companheiro ou parente consanguíneo até o 3º grau</b>, em razão dessa condição</td><td>Lei 13.142/2015 (renumerada em 2025)</td></tr><tr><td><b>b</b></td><td>membros do <b>Poder Judiciário</b>, do <b>Ministério Público</b>, da <b>Defensoria Pública</b> e da <b>Advocacia Pública</b>, e <b>oficiais de justiça</b>, nas mesmas circunstâncias, e seus familiares (inclusive por <b>afinidade</b>) até o 3º grau</td><td>Lei 15.134/2025</td></tr><tr><td><b>c</b></td><td>crime praticado nas <b>dependências de instituição de ensino</b></td><td>Lei 15.159/2025</td></tr></tbody></table>\n<ul><li>Repare na diferença de parentesco: na alínea <b>a</b>, o texto fala em parente <b>consanguíneo</b> até o 3º grau; na alínea <b>b</b>, inclui parentes por <b>afinidade</b>. As bancas adoram esse detalhe.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A lesão corporal grave contra policial em serviço é hedionda</span><br>✅ <span class=\"certo\">Só a <b>gravíssima</b> (§ 2º) e a <b>seguida de morte</b> (§ 3º)</span></li><li>❌ <span class=\"banca\">A agressão gravíssima contra o primo do policial, por causa da função dele, é hedionda</span><br>✅ <span class=\"certo\">Primo é parente de <b>4º grau</b>; a lei para no <b>3º grau</b></span></li><li>❌ <span class=\"banca\">A lesão gravíssima contra guarda municipal fora do serviço, por motivo pessoal, é hedionda</span><br>✅ <span class=\"certo\">Exige relação com a <b>função</b> (no exercício ou em decorrência dela)</span></li></ol></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · guardas municipais</b><p class=\"jc-tese\">Os guardas municipais estão no art. <b>144, § 8º</b>, da Constituição, que integra o capítulo da segurança pública. Por isso, a lesão gravíssima contra guarda municipal em razão da função entra no inciso I-A.</p><p class=\"jc-com\">O STF, ao julgar a ADPF 995 (2023), reconheceu que as guardas municipais <b>integram</b> o Sistema de Segurança Pública. A redação da lei fala em \"autoridade ou agente descrito nos arts. 142 e 144\", e o § 8º está dentro do art. 144. A banca pode tentar dizer que só policiais \"estaduais e federais\" estão protegidos: está errado.</p></div>\n<h3>6. Crimes patrimoniais no rol</h3>\n<ul><li><b>Roubo</b> (inciso II), apenas em três situações: (a) <b>circunstanciado</b> pela <b>restrição de liberdade</b> da vítima (art. 157, § 2º, V); (b) circunstanciado pelo <b>emprego de arma de fogo</b> (§ 2º-A, I) ou pelo emprego de arma de fogo de <b>uso proibido ou restrito</b> (§ 2º-B); (c) <b>qualificado</b> pelo resultado <b>lesão corporal grave</b> ou <b>morte</b> (§ 3º), este último conhecido como <b>latrocínio</b>.</li><li>Consequência: o roubo <b>simples</b>, o roubo com <b>concurso de pessoas</b> e o roubo com emprego de <b>arma branca</b> (§ 2º, VII) <b>não</b> são hediondos.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · roubo com simulacro ou arma branca</b><p class=\"jc-tese\">O roubo praticado com <b>faca</b> ou outra arma branca é circunstanciado (art. 157, § 2º, VII), mas <b>não</b> é hediondo.</p><p class=\"jc-com\">O inciso II da Lei 8.072 escolheu apenas três situações. A arma branca aumenta a pena do roubo, mas não está na lista. O mesmo vale para a arma de <b>brinquedo</b> ou <b>simulacro</b>: ela configura a grave ameaça do roubo simples, sem a majorante da arma de fogo (a Súmula 174 do STJ, que admitia o aumento, foi cancelada há muitos anos). Sem arma de fogo real, não há roubo hediondo por esse fundamento.</p></div>\n<ul><li><b>Latrocínio</b> tentado também é hediondo. A Súmula <b>610</b> do STF diz que há latrocínio <b>consumado</b> quando o <b>homicídio</b> se consuma, ainda que o agente não realize a subtração. Se a morte não ocorre mas houve dolo de matar, é latrocínio <b>tentado</b>, igualmente hediondo.</li><li><b>Extorsão</b> (inciso III): qualificada pela <b>restrição da liberdade</b> da vítima, pela ocorrência de <b>lesão corporal</b> ou <b>morte</b> (art. 158, § 3º). É o chamado <b>sequestro-relâmpago</b> quando a vítima é levada para sacar dinheiro. A <b>extorsão simples</b> não é hedionda.</li><li><b>Extorsão mediante sequestro</b> (inciso IV): em <b>todas</b> as formas (art. 159, caput e §§ 1º, 2º e 3º). É a única figura patrimonial que é hedionda já no tipo <b>simples</b>.</li><li><b>Furto qualificado pelo emprego de explosivo</b> (inciso IX): o furto do art. 155, <b>§ 4º-A</b> (explosivo ou artefato análogo que cause <b>perigo comum</b>), típico do ataque a caixas eletrônicos. As demais qualificadoras do furto (rompimento de obstáculo, chave falsa, concurso de pessoas, fraude) <b>não</b> tornam o furto hediondo.</li></ul>\n<table class=\"tab\"><thead><tr><th>Crime</th><th>Hediondo?</th></tr></thead><tbody><tr><td>Roubo simples</td><td>não</td></tr><tr><td>Roubo com concurso de agentes</td><td>não</td></tr><tr><td>Roubo com arma branca</td><td>não</td></tr><tr><td>Roubo com arma de fogo (permitida, restrita ou proibida)</td><td><b>sim</b></td></tr><tr><td>Roubo com restrição da liberdade da vítima</td><td><b>sim</b></td></tr><tr><td>Latrocínio, tentado ou consumado</td><td><b>sim</b></td></tr><tr><td>Roubo com lesão grave</td><td><b>sim</b></td></tr><tr><td>Extorsão simples</td><td>não</td></tr><tr><td>Sequestro-relâmpago (art. 158, § 3º)</td><td><b>sim</b></td></tr><tr><td>Extorsão mediante sequestro (qualquer forma)</td><td><b>sim</b></td></tr><tr><td>Furto com rompimento de obstáculo</td><td>não</td></tr><tr><td>Furto com explosivo (art. 155, § 4º-A)</td><td><b>sim</b></td></tr><tr><td>Furto de substância explosiva (§ 7º)</td><td>não</td></tr></tbody></table>\n<h3>7. Crimes contra a dignidade sexual</h3>\n<ul><li><b>Estupro</b> (inciso V): em <b>todas</b> as formas do art. 213 (caput e §§ 1º e 2º). Isso inclui o estupro <b>simples</b>, sem lesão grave nem morte.</li><li><b>Estupro de vulnerável</b> (inciso VI): em todas as formas do art. 217-A (caput e §§ 1º a 4º). Vulnerável é o <b>menor de 14 anos</b> e quem, por enfermidade ou deficiência mental, não tem o necessário discernimento, ou que, por qualquer outra causa, não pode oferecer resistência.</li><li><b>Favorecimento da prostituição ou de outra forma de exploração sexual de criança, adolescente ou vulnerável</b> (inciso VIII): art. 218-B, caput e §§ 1º e 2º, incluído pela Lei 12.978/2014. Abrange o cliente que pratica conjunção carnal ou ato libidinoso com menor de 18 e maior de 14 anos na situação de exploração (§ 2º, I) e o proprietário ou gerente do local onde ocorre a exploração (§ 2º, II).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF e STJ · estupro na forma simples</b><p class=\"jc-tese\">O estupro e o atentado violento ao pudor, mesmo na forma <b>simples</b> (sem lesão grave ou morte), são <b>hediondos</b>.</p><p class=\"jc-com\">Antes de 2009, havia discussão porque a redação antiga do rol mencionava o estupro \"e sua combinação com o art. 223\" (resultado lesão grave ou morte). O STF e o STJ pacificaram que a forma simples também era hedionda, e a Lei 12.015/2009 eliminou a dúvida ao listar o \"estupro (art. 213, caput e §§ 1º e 2º)\". Hoje a questão é tranquila: <b>todo</b> estupro é hediondo.</p></div>\n<ul><li><b>Não</b> são hediondos, por não estarem no rol: a <b>importunação sexual</b> (art. 215-A), a <b>violação sexual mediante fraude</b> (art. 215), o <b>assédio sexual</b> (art. 216-A), a <b>corrupção de menores</b> (art. 218), a <b>satisfação de lascívia</b> mediante presença de criança (art. 218-A) e a <b>divulgação de cena de estupro</b> (art. 218-C).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A violação sexual mediante fraude é hedionda, por ser crime contra a dignidade sexual</span><br>✅ <span class=\"certo\">Só estupro, estupro de vulnerável e favorecimento da exploração sexual de vulnerável (art. 218-B)</span></li><li>❌ <span class=\"banca\">O estupro só é hediondo quando resulta lesão grave ou morte</span><br>✅ <span class=\"certo\"><b>Todas</b> as formas do art. 213 são hediondas</span></li><li>❌ <span class=\"banca\">A importunação sexual (art. 215-A) é hedionda</span><br>✅ <span class=\"certo\">Não está no rol</span></li></ol></div>\n<h3>8. Crimes contra a saúde pública</h3>\n<ul><li><b>Epidemia com resultado morte</b> (inciso VII): art. 267, § 1º. A epidemia <b>simples</b> (sem morte) e a <b>culposa</b> não são hediondas.</li><li><b>Falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais</b> (inciso VII-B): art. 273, caput e §§ 1º, 1º-A e 1º-B, incluído pela Lei 9.695/1998 após escândalos de remédios falsificados (as \"pílulas de farinha\"). Abrange também cosméticos e saneantes (§ 1º-A) e quem importa ou vende produto sem registro na Anvisa (§ 1º-B).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 1.003 da repercussão geral</b><p class=\"jc-tese\">O STF declarou <b>inconstitucional</b> a pena de <b>10 a 15 anos</b> prevista no art. 273 do CP para a <b>importação</b> de medicamento <b>sem registro</b> sanitário (§ 1º-B, I), aplicando-se a essas condutas a pena do crime original do art. 273 na redação anterior à Lei 9.677/1998 (1 a 3 anos).</p><p class=\"jc-com\">A pena mínima de 10 anos para quem importa um remédio sem registro, mesmo que verdadeiro e eficaz, era maior que a do homicídio simples (6 anos). O STF entendeu que isso violava a <b>proporcionalidade</b> (RE 979.962, 2021). Atenção: o crime <b>continua previsto</b> e o rol da Lei 8.072 não foi alterado; o que mudou foi a pena aplicável a essa conduta específica.</p></div>\n<h3>9. Os incisos X, XI e XII: a Lei 14.811/2024</h3>\n<ul><li>A <b>Lei 14.811/2024</b> criou a Política Nacional de Prevenção e Combate ao Abuso e à Exploração Sexual da Criança e do Adolescente e ampliou o rol com três crimes:</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Crime</th><th>Dispositivo</th></tr></thead><tbody><tr><td><b>X</b></td><td><b>induzimento, instigação ou auxílio a suicídio ou a automutilação</b> realizados por meio da <b>rede de computadores</b>, de <b>rede social</b> ou <b>transmitidos em tempo real</b></td><td>CP, art. 122, § 4º</td></tr><tr><td><b>XI</b></td><td><b>sequestro e cárcere privado</b> cometido contra <b>menor de 18 anos</b></td><td>CP, art. 148, § 1º, IV</td></tr><tr><td><b>XII</b></td><td><b>tráfico de pessoas</b> cometido contra <b>criança ou adolescente</b></td><td>CP, art. 149-A, I a V, c/c § 1º, II</td></tr></tbody></table>\n<ul><li>Atenção às diferenças: no inciso X, o que torna o crime hediondo é o <b>meio digital</b>, não a idade da vítima; no inciso XI, a idade é <b>menor de 18 anos</b>; no inciso XII, a vítima é <b>criança ou adolescente</b> (também menor de 18). O sequestro contra <b>idoso</b> (art. 148, § 1º, I) <b>não</b> é hediondo.</li><li>A mesma lei incluiu no parágrafo único os crimes do <b>ECA</b> ligados à <b>pornografia infantil</b>, rol depois ajustado pela <b>Lei 15.487/2026</b>: produzir ou dirigir cena de sexo explícito ou pornográfica com criança ou adolescente (art. 240), vender ou expor esse material (art. 241), divulgar ou disponibilizar (art. 241-A), <b>adquirir, possuir ou armazenar</b> (art. 241-B), <b>aliciar</b> criança por meio de comunicação para praticar ato libidinoso (art. 241-D) e submeter criança ou adolescente à prostituição ou exploração sexual (art. 244-A), nas formas indicadas no inciso VII.</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Por que isso importa para o policial</b><p>Em investigações de crimes cibernéticos contra crianças (armazenamento de material, aliciamento por aplicativo, desafios de automutilação em redes sociais), o enquadramento como <b>hediondo</b> muda a fiança (vedada pela autoridade policial e pelo juiz), a prisão temporária (<b>30 dias</b>, prorrogáveis por mais 30) e a execução da pena. Saber o rol evita erro no auto de prisão e na representação.</p></div>\n<h3>10. O parágrafo único em detalhe</h3>\n<ul><li><b>Genocídio</b> (inciso I): crimes dos arts. 1º, 2º e 3º da Lei <b>2.889/1956</b> (matar, causar lesão grave, submeter a condições de existência capazes de causar destruição, impedir nascimentos ou transferir crianças à força, com a intenção de destruir, no todo ou em parte, <b>grupo nacional, étnico, racial ou religioso</b>; a associação para o genocídio; e a incitação). Atenção: o crime está na lista desde a redação original.</li><li><b>Posse ou porte ilegal de arma de fogo de uso proibido</b> (inciso II, redação da Lei 13.964/2019): somente a arma de uso <b>proibido</b>. A posse ou o porte de arma de uso <b>restrito</b> (art. 16, caput) <b>não</b> são mais hediondos.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · arma de uso restrito x proibido</b><p class=\"jc-tese\">Após o Pacote Anticrime, apenas a posse ou o porte de arma de fogo de <b>uso proibido</b> (art. 16, § 2º, da Lei 10.826/2003) é hediondo; a arma de uso <b>restrito</b> (art. 16, caput) e as figuras equiparadas do § 1º <b>não</b> são.</p><p class=\"jc-com\">Antes de 2019, a lei dizia \"posse ou porte ilegal de arma de fogo de uso restrito\", e o STJ havia firmado que todas as figuras do art. 16 eram hediondas. A Lei 13.964/2019 trocou a expressão por \"uso <b>proibido</b>\" e, ao mesmo tempo, criou o § 2º do art. 16 para a arma de uso proibido. O STJ concluiu que o legislador quis restringir a hediondez a essa hipótese e que a mudança, por ser mais benéfica, <b>retroage</b> para alcançar quem cumpre pena por porte de arma de uso restrito.</p></div>\n<ul><li><b>Comércio ilegal de arma de fogo</b> (art. 17) e <b>tráfico internacional</b> de arma de fogo, acessório ou munição (art. 18) também são hediondos (incisos III e IV). O porte de arma de uso <b>permitido</b> (art. 14) <b>não</b> é.</li><li><b>Organização criminosa</b> (inciso V): o crime do art. 2º da Lei 12.850/2013 é hediondo <b>somente</b> quando a organização é <b>direcionada à prática de crime hediondo ou equiparado</b> (por exemplo, facção dedicada ao tráfico de drogas). Uma organização voltada a fraudes em licitações <b>não</b> torna o crime de organização criminosa hediondo.</li><li><b>Código Penal Militar</b> (inciso VI, Lei 14.688/2023): os crimes militares com <b>identidade</b> com os crimes do art. 1º (por exemplo, homicídio qualificado e estupro previstos no CPM) também são hediondos.</li><li><b>Domínio social estruturado</b> e <b>favorecimento</b> (inciso VIII, Lei <b>15.358/2026</b>, a \"Lei Antifacção\"): crimes cometidos por integrantes de <b>organização criminosa ultraviolenta</b>, <b>grupo paramilitar</b> ou <b>milícia privada</b> que usam violência ou grave ameaça para controlar territórios, impor \"toque de recolher\", obstruir a ação policial com barricadas, atacar presídios, transportes ou infraestruturas essenciais. Pena de <b>20 a 40 anos</b> (domínio) e <b>12 a 20 anos</b> (favorecimento). Além de hediondos, são <b>insuscetíveis de livramento condicional</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O porte ilegal de arma de fogo de uso restrito continua hediondo após o Pacote Anticrime</span><br>✅ <span class=\"certo\">Só o de uso <b>proibido</b></span></li><li>❌ <span class=\"banca\">Toda organização criminosa é crime hediondo</span><br>✅ <span class=\"certo\">Só quando <b>direcionada</b> à prática de crime hediondo ou equiparado</span></li><li>❌ <span class=\"banca\">A associação para o tráfico (art. 35 da Lei de Drogas) é equiparada a hediondo</span><br>✅ <span class=\"certo\">O STJ entende que <b>não</b>, por não estar no rol nem no art. 5º, XLIII, da CF</span></li></ol></div>\n<h3>11. Consequências de ser hediondo: o art. 2º</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 8.072/1990, art. 2º (resumo)</div><div class=\"art-lei\">Os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo são insuscetíveis de: I, anistia, graça e indulto; II, fiança. § 1º A pena será cumprida inicialmente em regime fechado. § 3º Em caso de sentença condenatória, o juiz decidirá fundamentadamente se o réu poderá apelar em liberdade. § 4º A prisão temporária, nesses crimes, terá o prazo de 30 dias, prorrogável por igual período em caso de extrema e comprovada necessidade.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>O caput vale para hediondos <b>e</b> equiparados (TTT)</li><li>Inciso I: três formas de clemência proibidas (<b>anistia</b>, <b>graça</b> e <b>indulto</b>)</li><li>Inciso II: só a <b>fiança</b> é vedada; a <b>liberdade provisória sem fiança</b> é possível desde a Lei 11.464/2007</li><li>§ 1º: \"inicialmente fechado\" foi declarado <b>inconstitucional</b> pelo STF (HC 111.840)</li><li>§ 2º (frações de progressão) foi <b>revogado</b> pelo Pacote Anticrime: as frações agora estão no art. 112 da LEP</li><li>§ 4º: temporária de <b>30 + 30</b> dias</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A CF proíbe graça e anistia, e a lei acrescentou o <b>indulto</b>: o STF considera válido</li><li>A banca troca \"liberdade provisória\" por \"fiança\"</li><li>A banca afirma que o regime inicial fechado é obrigatório</li></ul></div></div>\n<ul><li><b>Anistia, graça e indulto</b>: são formas de <b>clemência</b> do Estado que extinguem a punibilidade (CP, art. 107, II). A <b>anistia</b> é concedida por <b>lei</b> do Congresso e apaga o fato criminoso; a <b>graça</b> (indulto individual) e o <b>indulto</b> (coletivo) são concedidos por <b>decreto</b> do Presidente da República (CF, art. 84, XII). A Constituição proibiu graça e anistia; a Lei 8.072 incluiu também o <b>indulto</b>, e o STF entende que a graça mencionada na Constituição abrange o indulto (que nada mais é que uma graça coletiva).</li><li>A vedação ao indulto também alcança a <b>comutação</b> de pena (indulto parcial), segundo a jurisprudência dominante. Os decretos anuais de indulto natalino costumam excluir expressamente os condenados por crimes hediondos e equiparados.</li><li><b>Fiança</b>: os hediondos e equiparados são <b>inafiançáveis</b> (CF, art. 5º, XLIII; CPP, art. 323, II). Isso significa que nem o delegado nem o juiz podem conceder fiança.</li><li><b>Liberdade provisória</b>: a redação original proibia também a liberdade provisória. A <b>Lei 11.464/2007</b> retirou essa proibição. Hoje o preso por crime hediondo pode obter <b>liberdade provisória sem fiança</b>, com ou sem medidas cautelares, quando ausentes os requisitos da prisão preventiva. A \"inafiançabilidade\" não impede a soltura: impede apenas que ela se dê <b>mediante fiança</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · liberdade provisória no tráfico (Tema 959)</b><p class=\"jc-tese\">É <b>inconstitucional</b> a expressão \"e liberdade provisória\" do art. 44 da Lei de Drogas, que proibia a liberdade provisória no tráfico.</p><p class=\"jc-com\">O STF (RE 1.038.925, repercussão geral) entendeu que a prisão automática, sem exame do caso concreto, viola a <b>presunção de inocência</b> e o devido processo legal. A prisão cautelar exige fundamentação concreta (CPP, art. 312). O mesmo raciocínio já havia sido aplicado aos hediondos em geral. Em prova: \"o crime hediondo admite liberdade provisória, mas não fiança\" está <b>certo</b>.</p></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Inafiançável <b>não</b> é \"sem soltura\". Pense assim: o preso por crime hediondo pode sair, mas <b>não pagando</b>: sai por liberdade provisória sem fiança ou por revogação da prisão.</div>\n<h3>12. Regime inicial: o fim do \"integralmente\" e do \"inicialmente fechado\"</h3>\n<ul><li><b>Redação original</b> (1990): pena cumprida <b>integralmente</b> em regime fechado. O STF declarou essa regra <b>inconstitucional</b> no <b>HC 82.959</b> (2006), por violar a <b>individualização da pena</b> (CF, art. 5º, XLVI): impedir toda progressão retira do juiz e da execução a possibilidade de adaptar a pena ao comportamento do condenado.</li><li><b>Lei 11.464/2007</b>: passou a prever regime <b>inicialmente</b> fechado e criou frações específicas de progressão (2/5 para primários e 3/5 para reincidentes).</li><li><b>STF, HC 111.840</b> (2012): declarou inconstitucional também a obrigatoriedade do regime <b>inicial</b> fechado. O regime inicial deve ser fixado conforme as regras <b>gerais</b> do art. 33 do CP (quantidade de pena, reincidência e circunstâncias judiciais do art. 59) e as Súmulas 718 e 719 do STF.</li><li>Resultado prático: um condenado primário por <b>tráfico privilegiado</b> a 1 ano e 8 meses pode começar no <b>aberto</b> e até ter a pena <b>substituída</b> por restritivas de direitos. E um condenado por estupro a 6 anos, primário e sem circunstâncias negativas, pode iniciar no <b>semiaberto</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula 718 e Súmula 719</b><p class=\"jc-tese\">Súmula 718: \"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.\" Súmula 719: \"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.\"</p><p class=\"jc-com\">Mesmo nos hediondos, o juiz não pode dizer apenas \"o crime é hediondo, logo regime fechado\". Precisa apontar elementos <b>concretos</b> (quantidade de droga, violência excessiva, circunstâncias judiciais negativas). Essa é uma das pegadinhas mais cobradas.</p></div>\n<h3>13. Progressão de regime: frações e direito intertemporal</h3>\n<ul><li>O Pacote Anticrime (<b>Lei 13.964/2019</b>) revogou o § 2º do art. 2º da Lei 8.072 e levou as frações para o <b>art. 112 da LEP</b>, em <b>percentuais</b>. Em 2026, a <b>Lei 15.358/2026</b> (Lei Antifacção) elevou fortemente os percentuais dos hediondos, e a <b>Lei 15.402/2026</b> reorganizou as frações dos crimes comuns.</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Fatos de 23/01/2020 a 24/03/2026 (Pacote Anticrime)</th><th>Fatos a partir de 25/03/2026 (Lei 15.358/2026)</th></tr></thead><tbody><tr><td>Hediondo ou equiparado, <b>primário</b></td><td><b>40%</b></td><td><b>70%</b></td></tr><tr><td>Hediondo com <b>resultado morte</b>, primário</td><td><b>50%</b>, vedado livramento</td><td><b>75%</b>, vedado livramento</td></tr><tr><td><b>Comando</b> de organização criminosa voltada a hediondo</td><td><b>50%</b></td><td><b>75%</b> (organização ultraviolenta), vedado livramento</td></tr><tr><td>Constituição de <b>milícia privada</b></td><td><b>50%</b></td><td><b>75%</b></td></tr><tr><td><b>Feminicídio</b>, primário</td><td>50% (até outubro de 2024) e <b>55%</b> a partir da Lei 14.994/2024</td><td><b>75%</b>, vedado livramento</td></tr><tr><td>Hediondo ou equiparado, <b>reincidente</b></td><td><b>60%</b></td><td><b>80%</b></td></tr><tr><td>Reincidente em hediondo com <b>resultado morte</b></td><td><b>70%</b>, vedado livramento</td><td><b>85%</b>, vedado livramento</td></tr></tbody></table>\n<ul><li><b>Irretroatividade</b>: as novas frações são mais <b>gravosas</b> e por isso só valem para crimes praticados <b>depois</b> da vigência da lei (CF, art. 5º, XL; CP, art. 2º). Aplica-se a fração vigente na <b>data do fato</b>, e não a da condenação ou a do início da execução.</li><li><b>Crimes anteriores a 29/03/2007</b> (antes da Lei 11.464/2007): progressão com <b>1/6</b> da pena, conforme a regra geral da época (<b>Súmula 471 do STJ</b> e <b>Súmula Vinculante 26</b>).</li><li><b>Fatos de 29/03/2007 a 22/01/2020</b>: <b>2/5</b> (primário) e <b>3/5</b> (reincidente), pela Lei 11.464/2007.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · reincidência genérica (Tema 1.169)</b><p class=\"jc-tese\">O condenado por crime hediondo <b>sem resultado morte</b> que é reincidente em crime <b>comum</b> (não hediondo) progride com <b>40%</b> (hoje 70% para fatos sob a Lei 15.358/2026), e não com 60%, porque a lei só previa o percentual mais alto para o \"reincidente na prática de crime hediondo\".</p><p class=\"jc-com\">O Pacote Anticrime não disciplinou o reincidente <b>genérico</b> em hediondo. Diante da lacuna, o STF (ARE 1.327.963, Tema 1.169) e o STJ aplicaram a interpretação mais <b>favorável</b>: usa-se o percentual do <b>primário</b>. A expressão \"reincidente em crime hediondo\" passou a ser lida como <b>reincidência específica</b>. A Lei 15.358/2026 manteve essa estrutura (\"reincidente em crime hediondo ou equiparado\"), então a lógica continua válida.</p></div>\n<ul><li><b>Requisitos subjetivos</b>: além do tempo, exige-se <b>boa conduta carcerária</b>, comprovada pelo diretor do estabelecimento, e, desde a <b>Lei 14.843/2024</b>, o <b>exame criminológico</b> (LEP, art. 112, § 1º). A Súmula Vinculante 26 e a Súmula 439 do STJ já admitiam o exame quando fundamentado; agora a lei o exige em todos os casos (há ADIs no STF questionando a obrigatoriedade).</li><li><b>Falta grave</b> interrompe o prazo para a progressão, recomeçando a contagem pelo restante da pena (LEP, art. 112, § 6º; Súmula 534 do STJ).</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Gestantes e mães (art. 112, § 3º)</b><p>A mulher gestante, mãe ou responsável por criança ou pessoa com deficiência pode progredir com <b>1/8</b> da pena, se: não cometeu crime com violência ou grave ameaça, nem contra filho ou dependente; é primária e tem bom comportamento; e <b>não integrou organização criminosa</b>. O STJ admite esse benefício mesmo para o <b>tráfico de drogas</b> (crime equiparado), porque o tráfico não envolve violência ou grave ameaça.</p></div>\n<h3>14. Livramento condicional, sursis e penas alternativas</h3>\n<ul><li><b>Livramento condicional</b> (CP, art. 83, <b>V</b>, incluído pelo art. 5º da Lei 8.072): nos hediondos e equiparados, exige o cumprimento de <b>mais de 2/3</b> da pena, <b>desde que o apenado não seja reincidente específico</b> em crimes dessa natureza.</li><li><b>Reincidente específico</b>, aqui, é quem já foi condenado por <b>qualquer</b> crime hediondo ou equiparado e volta a praticar <b>outro</b> crime hediondo ou equiparado. Não precisa ser o <b>mesmo</b> tipo penal: condenado por tráfico que depois comete latrocínio é reincidente específico para fins de livramento.</li><li>Além disso, há <b>vedações expressas</b> ao livramento para: hediondo com <b>resultado morte</b> (primário ou reincidente), <b>comando</b> de organização criminosa ultraviolenta voltada a hediondos, <b>feminicídio</b> (LEP, art. 112, VI e VIII) e os crimes de <b>domínio social estruturado</b> e <b>favorecimento</b> (Lei 15.358/2026, art. 2º, § 4º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Benefício</th><th>Hediondos e equiparados</th></tr></thead><tbody><tr><td>Livramento condicional</td><td>mais de <b>2/3</b> da pena, vedado ao reincidente específico e nas hipóteses com vedação expressa</td></tr><tr><td><b>Sursis</b> (suspensão condicional da pena)</td><td>possível se presentes os requisitos do art. 77 do CP (pena até 2 anos), pois a Lei 8.072 não o proíbe</td></tr><tr><td>Substituição por <b>restritivas de direitos</b></td><td>possível se presentes os requisitos do art. 44 do CP (pena até 4 anos, sem violência ou grave ameaça), como no tráfico privilegiado</td></tr><tr><td><b>Indulto, graça e anistia</b></td><td>vedados</td></tr><tr><td><b>Fiança</b></td><td>vedada</td></tr><tr><td><b>Liberdade provisória sem fiança</b></td><td>possível</td></tr><tr><td><b>Saída temporária</b></td><td><b>vedada</b> ao condenado por crime <b>hediondo</b> ou cometido com <b>violência ou grave ameaça</b> (LEP, art. 122, § 2º, redação da Lei 14.843/2024); antes de 2024, a vedação atingia só o hediondo com resultado morte</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · HC 97.256 e Resolução 5/2012 do Senado</b><p class=\"jc-tese\">É inconstitucional a vedação de conversão da pena privativa de liberdade em <b>restritiva de direitos</b> no tráfico de drogas.</p><p class=\"jc-com\">O art. 33, § 4º, e o art. 44 da Lei de Drogas proibiam a substituição. O STF (HC 97.256, 2010) entendeu que a proibição abstrata viola a <b>individualização da pena</b>. O Senado, com base no art. 52, X, da CF, <b>suspendeu</b> a expressão \"vedada a conversão em penas restritivas de direitos\" (Resolução 5/2012). Hoje, se a pena não passar de 4 anos e os requisitos do art. 44 do CP estiverem presentes, a substituição é possível.</p></div>\n<h3>15. Prisão temporária e apelação em liberdade</h3>\n<ul><li><b>Prisão temporária</b> (Lei 7.960/1989): nos crimes comuns, <b>5 dias</b>, prorrogáveis por mais 5. Nos hediondos e equiparados, <b>30 dias</b>, prorrogáveis por mais <b>30</b>, em caso de extrema e comprovada necessidade (Lei 8.072, art. 2º, § 4º). É decretada <b>somente pelo juiz</b>, mediante <b>representação</b> da autoridade policial ou <b>requerimento</b> do MP, nunca de ofício.</li><li>A temporária só cabe na fase de <b>investigação</b> (inquérito) e exige que o crime esteja na lista do art. 1º, III, da Lei 7.960/1989 ou seja hediondo ou equiparado, combinado com a imprescindibilidade para as investigações ou a falta de residência fixa/identificação.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADIs 3.360 e 4.109 (2022)</b><p class=\"jc-tese\">O STF fixou requisitos <b>cumulativos</b> para a prisão temporária: (1) ser <b>imprescindível</b> para as investigações, com base em elementos concretos; (2) haver fundadas razões de <b>autoria ou participação</b> em crime do rol; (3) estar justificada em <b>fatos novos ou contemporâneos</b>; (4) ser <b>adequada</b> à gravidade e às circunstâncias; (5) <b>não</b> ser suficiente outra medida cautelar menos gravosa.</p><p class=\"jc-com\">A decisão impede o uso da temporária apenas porque o investigado \"não tem residência fixa\" ou para \"forçar\" depoimento. Para o delegado, a representação precisa demonstrar por que a prisão é indispensável à investigação. Em prova, \"basta a falta de residência fixa para a temporária\" está <b>errado</b>.</p></div>\n<ul><li><b>Apelar em liberdade</b> (art. 2º, § 3º): o juiz decidirá <b>fundamentadamente</b> se o réu pode apelar em liberdade. Não existe mais prisão automática para recorrer. A manutenção ou decretação da prisão na sentença exige os requisitos da <b>preventiva</b> (CPP, art. 387, § 1º).</li></ul>\n<h3>16. Associação, delação premiada e outras regras da Lei 8.072</h3>\n<ul><li><b>Art. 8º</b>: a pena da <b>associação criminosa</b> (CP, art. 288) é de <b>3 a 6 anos</b> de reclusão quando a associação se destina a praticar crimes hediondos, tortura, tráfico ou terrorismo. O crime de associação em si <b>não</b> é hediondo; ele apenas recebe pena maior.</li><li><b>Parágrafo único do art. 8º</b> (delação premiada): o participante e o associado que <b>denunciar</b> à autoridade o bando, possibilitando seu <b>desmantelamento</b>, terá a pena <b>reduzida de 1/3 a 2/3</b>. Foi uma das primeiras previsões de colaboração premiada no Brasil.</li><li><b>Art. 7º</b>: incluiu o <b>§ 4º</b> no art. 159 do CP (extorsão mediante sequestro): se o crime é cometido em concurso, o concorrente que o <b>denunciar</b> à autoridade, facilitando a <b>libertação do sequestrado</b>, terá a pena reduzida de <b>1/3 a 2/3</b>.</li><li><b>Art. 3º</b>: a União manterá <b>estabelecimentos penais de segurança máxima</b> para condenados de alta periculosidade (os presídios federais, regulados pela Lei 11.671/2008). Pela Lei 15.358/2026, líderes de organizações ultraviolentas cumprem pena ou custódia, havendo indícios concretos, em presídio <b>federal</b> de segurança máxima.</li><li><b>Art. 9º</b>: previa aumento de <b>metade</b> da pena para alguns crimes (latrocínio, extorsão, estupro) quando a vítima estivesse nas condições do antigo art. 224 do CP (presunção de violência). Com a revogação do art. 224 pela Lei 12.015/2009, o STJ entende que o art. 9º <b>perdeu aplicação</b> (revogação tácita), sob pena de <b>bis in idem</b> com o estupro de vulnerável.</li></ul>\n<table class=\"tab\"><thead><tr><th>Dispositivo</th><th>Benefício</th><th>Exige</th></tr></thead><tbody><tr><td>Lei 8.072, art. 8º, parágrafo único</td><td>redução de 1/3 a 2/3</td><td>denunciar a associação, possibilitando seu <b>desmantelamento</b></td></tr><tr><td>CP, art. 159, § 4º</td><td>redução de 1/3 a 2/3</td><td>denunciar o crime, facilitando a <b>libertação</b> do sequestrado</td></tr><tr><td>Lei 12.850/2013, art. 4º</td><td>perdão judicial, redução até 2/3 ou substituição</td><td>acordo de colaboração com resultados (identificar coautores, estrutura, recuperar produto, localizar vítima)</td></tr><tr><td>Lei 11.343/2006, art. 41</td><td>redução de 1/3 a 2/3</td><td>colaborar na identificação de coautores e na recuperação do produto do crime</td></tr></tbody></table>\n<h3>17. O que <b>não</b> é hediondo: lista de controle</h3>\n<table class=\"tab\"><thead><tr><th>Não é hediondo</th><th>Observação</th></tr></thead><tbody><tr><td><b>Tráfico privilegiado</b> (Lei 11.343, art. 33, § 4º)</td><td>STF (HC 118.533) e LEP, art. 112, § 5º</td></tr><tr><td><b>Associação para o tráfico</b> (art. 35)</td><td>não está no rol nem na CF (STJ)</td></tr><tr><td>Homicídio <b>simples</b> fora de grupo de extermínio</td><td>critério legal</td></tr><tr><td>Homicídio <b>qualificado-privilegiado</b></td><td>jurisprudência do STJ</td></tr><tr><td>Lesão corporal <b>grave</b> (§ 1º), mesmo contra policial</td><td>só gravíssima e seguida de morte</td></tr><tr><td>Roubo simples, com concurso ou com arma branca</td><td>inciso II só tem 3 hipóteses</td></tr><tr><td>Extorsão simples</td><td>só a qualificada do § 3º</td></tr><tr><td>Furto qualificado (exceto por explosivo)</td><td>só o § 4º-A</td></tr><tr><td>Porte de arma de uso <b>restrito</b> (art. 16, caput)</td><td>só uso <b>proibido</b></td></tr><tr><td>Porte de arma de uso permitido (art. 14)</td><td>não está no rol</td></tr><tr><td>Importunação sexual, assédio e violação sexual mediante fraude</td><td>fora do rol</td></tr><tr><td>Sequestro contra <b>idoso</b></td><td>o inciso XI exige vítima menor de 18</td></tr><tr><td><b>Epidemia sem morte</b></td><td>só a do § 1º do art. 267</td></tr><tr><td><b>Racismo</b></td><td>imprescritível e inafiançável pela CF, mas <b>não</b> hediondo</td></tr><tr><td>Organização criminosa voltada a crimes comuns</td><td>só se direcionada a hediondo ou equiparado</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · tráfico privilegiado não é hediondo</b><p class=\"jc-tese\">O tráfico de drogas <b>privilegiado</b> (art. 33, § 4º) <b>não</b> se harmoniza com a hediondez (HC 118.533, Plenário, 2016).</p><p class=\"jc-com\">O STF considerou desproporcional dar o rigor dos hediondos a quem é primário, de bons antecedentes, não se dedica a atividades criminosas nem integra organização criminosa, situação típica das \"mulas\" e dos pequenos traficantes. A Súmula 512 do STJ, que dizia o contrário, foi <b>cancelada</b>, e o Pacote Anticrime positivou o entendimento no art. 112, § 5º, da LEP. Em prova, o tráfico do caput é <b>equiparado</b>; o privilegiado <b>não</b>.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O racismo, por ser inafiançável e imprescritível, é crime hediondo</span><br>✅ <span class=\"certo\">É inafiançável e imprescritível (CF, art. 5º, XLII), mas <b>não</b> está no rol</span></li><li>❌ <span class=\"banca\">O tráfico privilegiado é equiparado a hediondo</span><br>✅ <span class=\"certo\">STF e LEP, art. 112, § 5º: <b>não</b> é</span></li><li>❌ <span class=\"banca\">A prisão temporária nos hediondos é de 5 dias prorrogáveis por 5</span><br>✅ <span class=\"certo\"><b>30 + 30</b> dias</span></li><li>❌ <span class=\"banca\">O condenado por hediondo não pode obter sursis</span><br>✅ <span class=\"certo\">A lei não proíbe; aplicam-se os requisitos gerais do CP</span></li></ol></div>\n<h3>18. Hediondez e outros institutos: prescrição, tentativa, concurso e participação</h3>\n<ul><li><b>Tentativa</b>: o art. 1º diz \"<b>consumados ou tentados</b>\". O latrocínio tentado, o estupro tentado e o homicídio qualificado tentado são hediondos e recebem o mesmo tratamento na execução (a pena, claro, é reduzida pela tentativa).</li><li><b>Concurso de pessoas</b>: a hediondez é do <b>crime</b>, não da pessoa. O partícipe de um estupro responde por crime hediondo, ainda que sua conduta tenha sido menos grave (vigiar o local, por exemplo). A diferença aparece na <b>dosimetria</b> (participação de menor importância, art. 29, § 1º).</li><li><b>Concurso de crimes e execução</b>: se o condenado cumpre penas por crime hediondo e por crime comum, a execução deve <b>separar</b> as frações: aplica-se o percentual do hediondo à pena do hediondo e o percentual comum à pena do crime comum (o chamado cálculo <b>escalonado</b>), conforme jurisprudência do STJ.</li><li><b>Prescrição</b>: a Lei 8.072 <b>não</b> tornou os hediondos imprescritíveis. A Constituição só declara imprescritíveis o <b>racismo</b> (art. 5º, XLII) e a <b>ação de grupos armados contra a ordem constitucional e o Estado Democrático</b> (art. 5º, XLIV). Hediondos prescrevem normalmente, pelas regras do art. 109 do CP.</li></ul>\n<table class=\"tab\"><thead><tr><th>Garantia ou restrição constitucional</th><th>Racismo</th><th>Ação de grupos armados</th><th>Hediondos e TTT</th></tr></thead><tbody><tr><td>Inafiançável</td><td>sim</td><td>sim</td><td>sim</td></tr><tr><td>Imprescritível</td><td><b>sim</b></td><td><b>sim</b></td><td><b>não</b></td></tr><tr><td>Insuscetível de graça e anistia</td><td>não</td><td>não</td><td><b>sim</b></td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Memorize a tabela da Constituição com a frase: \"<b>R</b>acismo e <b>A</b>ção armada nunca <b>prescrevem</b>; <b>TTT</b> e <b>hediondos</b> nunca são <b>perdoados</b>\". Os quatro grupos são <b>inafiançáveis</b>.</div>\n<ul><li><b>Competência</b>: a hediondez <b>não</b> altera a competência. O homicídio qualificado continua no <b>Tribunal do Júri</b>; o tráfico transnacional, na <b>Justiça Federal</b>; o latrocínio, apesar do resultado morte, é julgado pelo <b>juiz singular</b>, porque é crime contra o <b>patrimônio</b> (Súmula 603 do STF). Já os homicídios conexos aos crimes de domínio social estruturado passaram a ser julgados por <b>Varas Criminais Colegiadas</b> (Lei 15.358/2026).</li><li><b>Crime continuado e habitualidade</b>: não interferem na natureza hedionda; se os crimes da série são hediondos, a pena unificada também é tratada como de crime hediondo.</li></ul>\n<h3>19. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Furto no caixa eletrônico</b><p>Três homens explodem um caixa eletrônico de madrugada, em uma agência no centro de uma cidade pequena, e levam o dinheiro. A explosão danifica imóveis vizinhos. Qual o crime e ele é hediondo?</p><details><summary>Ver a solução comentada</summary><p><b>Furto qualificado pelo emprego de explosivo</b> que causa <b>perigo comum</b> (CP, art. 155, § 4º-A), hediondo (Lei 8.072, art. 1º, IX). Não é roubo, porque não houve violência ou grave ameaça contra pessoa. Pode haver concurso com o crime de <b>explosão</b> (art. 251) conforme o caso, e com <b>associação criminosa</b> com pena aumentada (Lei 8.072, art. 8º) se houver estabilidade e permanência.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Assalto com faca</b><p>Um homem aborda uma mulher no ponto de ônibus, mostra uma faca e leva o celular dela. É preso em flagrante. O delegado pode conceder fiança?</p><details><summary>Ver a solução comentada</summary><p>O crime é <b>roubo circunstanciado pelo emprego de arma branca</b> (art. 157, § 2º, VII). <b>Não</b> é hediondo, porque o inciso II só abrange a arma de <b>fogo</b>. Ainda assim, o delegado <b>não</b> pode arbitrar fiança, mas por outro motivo: a pena máxima ultrapassa <b>4 anos</b> (CPP, art. 322). Caberá ao <b>juiz</b> decidir sobre fiança ou outras medidas na audiência de custódia.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Assalto com revólver</b><p>No mesmo caso, o autor usa um revólver calibre 38 municiado. Muda alguma coisa?</p><details><summary>Ver a solução comentada</summary><p>Sim: é roubo circunstanciado pelo <b>emprego de arma de fogo</b> (art. 157, § 2º-A, I, com aumento de 2/3) e, portanto, <b>hediondo</b> (art. 1º, II, \"b\"). Consequências: <b>inafiançável</b> (nem o juiz pode conceder fiança), temporária de 30 + 30 dias na investigação, e progressão com <b>70%</b> se primário (fato após 25/03/2026). O porte ilegal do revólver, em regra, é <b>absorvido</b> pelo roubo quando usado só para a prática do crime (princípio da consunção).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Sequestro de adolescente</b><p>Para cobrar uma dívida do pai, dois homens mantêm um adolescente de 16 anos trancado em um quarto por dois dias, sem pedir resgate. É crime hediondo?</p><details><summary>Ver a solução comentada</summary><p>Se não houve exigência de vantagem como condição do resgate, não é extorsão mediante sequestro. É <b>sequestro e cárcere privado</b> contra <b>menor de 18 anos</b> (art. 148, § 1º, IV), que é <b>hediondo</b> desde a Lei 14.811/2024 (art. 1º, XI). Também pode haver <b>exercício arbitrário das próprias razões</b> em concurso, conforme a interpretação. Se houvesse exigência de dinheiro para libertar o jovem, seria <b>extorsão mediante sequestro</b> (art. 159, § 1º, vítima menor de 18), também hedionda.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Arma de uso restrito em casa</b><p>Durante cumprimento de mandado de busca, a polícia encontra, na casa de um investigado, um fuzil calibre 5,56 (uso restrito) sem registro. É hediondo?</p><details><summary>Ver a solução comentada</summary><p>Depende da <b>classificação</b> da arma. Se for de uso <b>restrito</b>, a posse ilegal está no art. 16, <b>caput</b>, da Lei 10.826/2003, e <b>não</b> é hedionda após o Pacote Anticrime. Se for de uso <b>proibido</b>, a conduta é do <b>§ 2º</b> do art. 16 e <b>é</b> hedionda. Por isso, a classificação técnica feita no <b>laudo pericial</b>, com base no regulamento de armas vigente, é decisiva para o enquadramento.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Condenado por tráfico e depois por latrocínio</b><p>Um homem condenado definitivamente por tráfico de drogas (caput) comete, após cumprir a pena, um latrocínio em 2026. Qual a fração para progressão e ele terá livramento condicional?</p><details><summary>Ver a solução comentada</summary><p>É <b>reincidente em crime hediondo ou equiparado</b> com <b>resultado morte</b>: progressão com <b>85%</b> da pena (LEP, art. 112, VIII, redação da Lei 15.358/2026) e <b>vedado</b> o livramento condicional. Mesmo pela regra geral do CP (art. 83, V), ele já não teria livramento, por ser <b>reincidente específico</b> em crimes hediondos/equiparados.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Mula primária</b><p>Uma mulher primária, sem antecedentes, é presa no aeroporto transportando 2 kg de cocaína no corpo. Não há prova de que integre organização criminosa. Como fica a hediondez?</p><details><summary>Ver a solução comentada</summary><p>Se reconhecido o <b>tráfico privilegiado</b> (art. 33, § 4º), o crime <b>não</b> é equiparado a hediondo (STF, HC 118.533; LEP, art. 112, § 5º). A progressão segue as frações comuns. A jurisprudência do STF e do STJ admite o privilégio para a \"mula\" quando não há prova de dedicação a atividades criminosas, podendo a quantidade de droga influir na <b>fração</b> de redução, desde que não usada duas vezes na dosimetria.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Lesão em professor na escola</b><p>Um aluno de 19 anos agride um professor nas dependências da escola, causando-lhe <b>deformidade permanente</b> no rosto (lesão gravíssima, art. 129, § 2º, IV). O crime é hediondo?</p><details><summary>Ver a solução comentada</summary><p>Sim. A <b>lesão corporal gravíssima</b> (art. 129, § 2º) praticada nas <b>dependências de instituição de ensino</b> é hedionda desde a <b>Lei 15.159/2025</b> (art. 1º, I-A, \"c\"). Não importa a função da vítima: o critério é o <b>local</b>. Se o fato fosse anterior à lei, não seria hediondo (irretroatividade).</p></details></div>\n<h3>20. A Lei dos Hediondos na rotina da polícia</h3>\n<ul><li><b>No auto de prisão em flagrante</b>: a autoridade policial deve tipificar corretamente o fato, porque a hediondez já produz efeitos na delegacia. Nos crimes hediondos e equiparados, o delegado <b>não</b> pode arbitrar fiança (são inafiançáveis), ainda que a pena máxima fosse compatível com o art. 322 do CPP. O preso será apresentado ao juiz na <b>audiência de custódia</b>, em 24 horas, e lá se decidirá sobre a prisão preventiva, a liberdade provisória sem fiança ou outras medidas cautelares.</li><li><b>Na representação pela prisão temporária</b>: indique expressamente que o crime é hediondo (ou equiparado) para justificar o prazo de <b>30 dias</b>, e demonstre com <b>fatos concretos</b> por que a prisão é imprescindível às investigações (risco de destruição de provas, intimidação de testemunhas, necessidade de diligências que a liberdade do investigado frustraria). Representações genéricas costumam ser indeferidas desde o julgamento das ADIs 3.360 e 4.109.</li><li><b>Na qualificação do crime em ocorrências patrimoniais</b>: o detalhe muda tudo. \"Arma\" no boletim precisa ser especificada: <b>arma de fogo</b> (hediondo), <b>arma branca</b> (não hediondo), <b>simulacro</b> (roubo simples). O mesmo vale para a \"restrição de liberdade\": vítima mantida em poder dos autores por tempo juridicamente relevante caracteriza a majorante do art. 157, § 2º, V, e torna o roubo hediondo.</li><li><b>Nos crimes contra crianças e adolescentes</b>: desde 2024, sequestro de menor de 18 anos, tráfico de criança ou adolescente, induzimento a automutilação pela internet e os crimes de pornografia infantil do ECA são hediondos. Isso importa especialmente nas operações contra o armazenamento de material de abuso sexual infantil (art. 241-B do ECA): o investigado preso em flagrante com esse material <b>não</b> terá fiança na delegacia.</li><li><b>Nos crimes de facções</b>: a Lei 15.358/2026 trouxe o domínio social estruturado (barricadas, toque de recolher, ataques a presídios e transportes, controle de serviços na comunidade). Além de hediondo, a lei prevê prazo de inquérito de <b>90 dias</b> (preso) e <b>270 dias</b> (solto), prorrogáveis, e determina que a prática do crime é, por si, causa suficiente para a prisão preventiva. Na execução, os líderes podem ser levados a presídio <b>federal</b> de segurança máxima.</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Atenção às datas</b><p>Com tantas leis novas, uma pergunta sempre vem antes de todas: <b>quando o fato aconteceu?</b> Feminicídio autônomo (outubro de 2024), Lei 14.811 (janeiro de 2024), Leis 15.134 e 15.159 (2025), Lei Antifacção (25/03/2026), vicaricídio (10/04/2026). Lei penal mais grave <b>não retroage</b>: um fato anterior continua regido pela lei da época, inclusive quanto à hediondez e às frações de progressão.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O delegado pode arbitrar fiança no roubo com arma de fogo se o preso for primário</span><br>✅ <span class=\"certo\">O crime é hediondo e <b>inafiançável</b></span></li><li>❌ <span class=\"banca\">A representação pela temporária pode se basear apenas na gravidade abstrata do crime hediondo</span><br>✅ <span class=\"certo\">Exige elementos <b>concretos</b> de imprescindibilidade</span></li><li>❌ <span class=\"banca\">A nova fração de 70% vale para o roubo com arma de fogo praticado em 2025</span><br>✅ <span class=\"certo\">Vale a lei da <b>data do fato</b> (40% para o primário)</span></li></ol></div>\n<h3>21. Súmulas e teses que você precisa conhecer</h3>\n<div class=\"lt-juris\"><b class=\"lt-tit\">⚖ Jurisprudência</b><ul><li><b>Súmula Vinculante 26 (STF)</b>: para a progressão de regime no cumprimento de pena por crime hediondo ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei 8.072/1990 (redação original), sem prejuízo de avaliar se o condenado preenche os requisitos objetivos e subjetivos, podendo determinar, de modo fundamentado, a realização de exame criminológico</li><li><b>Súmula 471 (STJ)</b>: os condenados por crimes hediondos ou equiparados cometidos <b>antes</b> da Lei 11.464/2007 sujeitam-se ao art. 112 da LEP (1/6) para a progressão</li><li><b>Súmula 439 (STJ)</b>: admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (hoje o exame é exigido por lei, Lei 14.843/2024)</li><li><b>Súmula 534 (STJ)</b>: a prática de falta grave interrompe a contagem do prazo para a progressão de regime</li><li><b>Súmula 441 (STJ)</b>: a falta grave <b>não</b> interrompe o prazo para obtenção de livramento condicional</li><li><b>Súmula 535 (STJ)</b>: a falta grave <b>não</b> interrompe o prazo para fim de comutação de pena ou indulto</li><li><b>Súmula 610 (STF)</b>: há latrocínio consumado quando o homicídio se consuma, ainda que não realize o agente a subtração de bens da vítima</li><li><b>Súmula 603 (STF)</b>: a competência para o processo e julgamento de latrocínio é do juiz singular e não do Tribunal do Júri</li><li><b>Súmula 718 e 719 (STF)</b>: regime mais grave exige motivação idônea, não bastando a gravidade abstrata</li></ul></div>\n<ul><li>Note a diferença entre a <b>Súmula 534</b> e as <b>Súmulas 441 e 535</b>: a falta grave <b>interrompe</b> a contagem para a <b>progressão</b>, mas <b>não</b> para o <b>livramento condicional</b> (Súmula 441) nem para <b>indulto e comutação</b> (Súmula 535). Essa distinção aparece com frequência em provas de execução penal e se conecta diretamente com os hediondos.</li><li>Também é importante saber que o <b>exame criminológico</b>, antes facultativo e dependente de decisão fundamentada (SV 26 e Súmula 439), tornou-se <b>obrigatório</b> com a Lei 14.843/2024 para toda progressão. Há ações no STF questionando essa obrigatoriedade; enquanto não houver decisão em sentido contrário, vale a letra da lei, aplicável a crimes praticados após sua vigência, segundo a posição majoritária do STJ (por ser norma de natureza penal mais gravosa na execução).</li></ul>\n<h3>22. Linha do tempo da Lei 8.072</h3>\n<div class=\"lt-fluxo\"><span>1990: lei original (regime integralmente fechado)</span> <em>→</em> <span>1994: homicídio qualificado e grupo de extermínio (Lei 8.930)</span> <em>→</em> <span>1998: remédios falsificados (Lei 9.695)</span> <em>→</em> <span>2006: STF derruba o \"integralmente fechado\" (HC 82.959)</span> <em>→</em> <span>2007: liberdade provisória e frações 2/5 e 3/5 (Lei 11.464)</span> <em>→</em> <span>2009: estupro reformulado (Lei 12.015)</span> <em>→</em> <span>2012: STF derruba o \"inicialmente fechado\" (HC 111.840)</span> <em>→</em> <span>2015: lesão contra agentes de segurança (Lei 13.142)</span> <em>→</em> <span>2019: Pacote Anticrime (roubo, extorsão, furto com explosivo, armas, orcrim, frações na LEP)</span> <em>→</em> <span>2024: feminicídio autônomo e crimes contra crianças (Leis 14.994 e 14.811)</span> <em>→</em> <span>2025: Judiciário, MP, oficiais de justiça e escolas (Leis 15.134 e 15.159)</span> <em>→</em> <span>2026: Lei Antifacção, vicaricídio e ECA (Leis 15.358, 15.384 e 15.487)</span></div>\n<ul><li>A linha do tempo mostra duas forças em sentido contrário: o <b>Congresso</b> amplia o rol e endurece as regras a cada crise de segurança pública; o <b>STF</b> corrige os excessos que violam a <b>individualização da pena</b> e a <b>presunção de inocência</b>. As bancas gostam de perguntar justamente os pontos em que o STF \"derrubou\" partes da lei.</li></ul>\n<h3>23. Perguntas frequentes em provas discursivas</h3>\n<ul><li><b>\"Explique o critério adotado pelo Brasil para definir crimes hediondos e suas críticas.\"</b> Resposta-modelo: o Brasil adotou o critério <b>legal</b> (enumerativo), pelo qual só são hediondos os crimes taxativamente previstos no art. 1º da Lei 8.072, tentados ou consumados. Garante segurança jurídica e respeita a legalidade, mas é criticado por <b>rigidez</b>, pois ignora a gravidade concreta: crimes de gravidade variável recebem tratamento igual, e crimes graves podem ficar de fora. O legislador costuma ampliar o rol de forma casuística, em reação a casos de repercussão.</li><li><b>\"O regime inicial fechado é obrigatório para crimes hediondos?\"</b> Não. O STF declarou inconstitucional o § 1º do art. 2º (HC 111.840) por ofensa à individualização da pena. O regime é fixado pelas regras do art. 33 do CP, e a escolha de regime mais grave que o permitido pela pena exige fundamentação concreta (Súmulas 718 e 719 do STF).</li><li><b>\"Diferencie crimes hediondos e equiparados.\"</b> Hediondos são os listados no art. 1º da Lei 8.072; equiparados são tortura, tráfico e terrorismo, indicados diretamente no art. 5º, XLIII, da CF. Ambos recebem o tratamento do art. 2º (vedação de anistia, graça, indulto e fiança; frações maiores de progressão; temporária de 30 dias).</li><li><b>\"Hediondos admitem liberdade provisória?\"</b> Sim, sem fiança, desde a Lei 11.464/2007, e o STF considera inconstitucional qualquer vedação abstrata (Tema 959). A prisão cautelar exige os requisitos do art. 312 do CPP.</li><li><b>\"Qual a fração de progressão do reincidente genérico condenado por crime hediondo?\"</b> A do primário (STF, Tema 1.169), pois a fração maior é reservada ao reincidente específico; aplicação da analogia em favor do réu. Para fatos posteriores à Lei 15.358/2026, isso significa 70% (e não 80%).</li></ul>\n<h3>24. Como as bancas cobram este tópico</h3>\n<ul><li><b>Rol</b>: perguntas sobre o que está e o que não está na lista (roubo com arma branca, lesão grave x gravíssima, arma de uso restrito x proibido, sequestro contra idoso x menor de 18, furto qualificado x furto com explosivo).</li><li><b>Novidades legislativas</b>: feminicídio autônomo (art. 121-A), vicaricídio (art. 121-B), Lei 14.811/2024 (internet, sequestro de menor, tráfico de crianças), Lei Antifacção (domínio social estruturado, 70%/75%/80%/85%).</li><li><b>Art. 2º</b>: vedação de anistia, graça, indulto e fiança; liberdade provisória possível; regime inicial; temporária de 30 + 30 dias; apelação em liberdade fundamentada.</li><li><b>Execução</b>: percentuais do art. 112 da LEP e direito intertemporal; livramento com 2/3 e vedação ao reincidente específico; exame criminológico; Súmula Vinculante 26; Súmula 471 do STJ.</li><li><b>Jurisprudência</b>: tráfico privilegiado não é hediondo; qualificado-privilegiado não é hediondo; estupro simples é hediondo; Tema 1.169; Tema 959; HC 82.959; HC 111.840; HC 97.256.</li><li><b>FGV</b> (PCMG) costuma apresentar um <b>caso concreto</b> e perguntar o tratamento (fiança, temporária, progressão). <b>Cebraspe</b> (PRF) prefere afirmações curtas com troca de palavras. <b>Consulplan</b> costuma cobrar a <b>letra da lei</b> (incisos do art. 1º e do art. 2º).</li></ul>\n<h3>25. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Critério legal</span></span><span class=\"vs\"><span>só é hediondo o que a lei lista, tentado ou consumado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equiparados</span></span><span class=\"vs\"><span>tortura, tráfico e terrorismo (TTT), pela CF, art. 5º, XLIII</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CF proíbe</span></span><span class=\"vs\"><span>fiança, graça e anistia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 8.072 acrescenta</span></span><span class=\"vs\"><span>indulto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Liberdade provisória</span></span><span class=\"vs\"><span>possível, sem fiança (Lei 11.464/2007)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regime integralmente fechado</span></span><span class=\"vs\"><span>inconstitucional (HC 82.959)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regime inicialmente fechado obrigatório</span></span><span class=\"vs\"><span>inconstitucional (HC 111.840)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Temporária nos hediondos</span></span><span class=\"vs\"><span>30 + 30 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Temporária comum</span></span><span class=\"vs\"><span>5 + 5 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Livramento</span></span><span class=\"vs\"><span>mais de 2/3, vedado ao reincidente específico</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Progressão primário (fato após 25/03/2026)</span></span><span class=\"vs\"><span>70%</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Resultado morte primário (após 2026)</span></span><span class=\"vs\"><span>75%, sem livramento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reincidente (após 2026)</span></span><span class=\"vs\"><span>80%</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reincidente com morte (após 2026)</span></span><span class=\"vs\"><span>85%, sem livramento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pacote Anticrime (2020 a 03/2026)</span></span><span class=\"vs\"><span>40%, 50%, 60%, 70%</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fatos antes de 29/03/2007</span></span><span class=\"vs\"><span>1/6 (SV 26 e Súmula 471 STJ)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tráfico privilegiado</span></span><span class=\"vs\"><span>não é hediondo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Associação para o tráfico</span></span><span class=\"vs\"><span>não é hediondo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Roubo hediondo</span></span><span class=\"vs\"><span>restrição de liberdade, arma de fogo ou lesão grave/morte</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão hedionda</span></span><span class=\"vs\"><span>gravíssima ou seguida de morte, nas hipóteses do I-A</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arma hedionda</span></span><span class=\"vs\"><span>uso proibido (art. 16), comércio ilegal (17), tráfico internacional (18)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Organização criminosa hedionda</span></span><span class=\"vs\"><span>só se voltada a hediondo ou equiparado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 14.811/2024</span></span><span class=\"vs\"><span>suicídio pela internet, sequestro de menor de 18, tráfico de criança ou adolescente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Feminicídio</span></span><span class=\"vs\"><span>art. 121-A, hediondo (I-B)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vicaricídio</span></span><span class=\"vs\"><span>art. 121-B, hediondo (I-C), Lei 15.384/2026</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Domínio social estruturado</span></span><span class=\"vs\"><span>Lei 15.358/2026, 20 a 40 anos, hediondo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 8º</span></span><span class=\"vs\"><span>associação para hediondos, 3 a 6 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Delação do art. 8º</span></span><span class=\"vs\"><span>desmantelamento, redução de 1/3 a 2/3</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Racismo</span></span><span class=\"vs\"><span>inafiançável e imprescritível, mas não hediondo</span></span></button></div></div>\n<h3>26. Resumo em uma página</h3>\n<ul><li><b>Base</b>: CF, art. 5º, XLIII (inafiançáveis, sem graça e anistia); Lei 8.072/1990; critério <b>legal</b>; tentados ou consumados.</li><li><b>Rol (CP)</b>: homicídio de grupo de extermínio e qualificado; feminicídio; vicaricídio; lesão gravíssima ou seguida de morte (agentes de segurança, Judiciário, MP, Defensoria, Advocacia Pública, oficiais de justiça, familiares, escolas); roubo (restrição de liberdade, arma de fogo, lesão grave/morte); extorsão qualificada; extorsão mediante sequestro; estupro; estupro de vulnerável; epidemia com morte; remédios falsificados; exploração sexual de vulnerável; furto com explosivo; suicídio/automutilação pela internet; sequestro de menor de 18; tráfico de criança ou adolescente.</li><li><b>Parágrafo único</b>: genocídio; arma de uso proibido; comércio ilegal e tráfico internacional de armas; orcrim voltada a hediondos; crimes militares equivalentes; pornografia infantil do ECA; domínio social estruturado e favorecimento.</li><li><b>Tratamento</b>: sem anistia, graça, indulto e fiança; liberdade provisória possível; regime inicial pelas regras gerais; temporária 30 + 30; apelação em liberdade fundamentada; livramento com 2/3 (vedado ao reincidente específico e nas hipóteses expressas); progressão pela LEP (70/75/80/85% para fatos a partir de 25/03/2026).</li><li><b>Não são hediondos</b>: tráfico privilegiado, associação para o tráfico, qualificado-privilegiado, lesão grave, roubo com arma branca, arma de uso restrito, racismo.</li></ul>",
+"quiz": [
+{
+"p": "O Brasil adota o critério legal para a definição de crimes hediondos, de modo que só são hediondos os crimes expressamente previstos em lei.",
+"c": true,
+"prof": "Critério legal.",
+"x": "Sistema enumerativo.",
+"e": "Taxatividade"
+},
+{
+"p": "O juiz pode reconhecer como hediondo crime não previsto no rol da Lei 8.072/1990, se praticado com crueldade excepcional.",
+"c": false,
+"prof": "Critério legal.",
+"x": "Só a lei define.",
+"e": "Rol taxativo"
+},
+{
+"p": "Os crimes hediondos recebem esse tratamento tanto na forma consumada quanto na tentada.",
+"c": true,
+"prof": "Tentativa.",
+"x": "Art. 1º, caput.",
+"e": "Consumados ou tentados"
+},
+{
+"p": "Tortura, tráfico ilícito de drogas e terrorismo são equiparados a hediondos por força do art. 5º, XLIII, da Constituição.",
+"c": true,
+"prof": "Equiparados.",
+"x": "TTT.",
+"e": "CF"
+},
+{
+"p": "O tráfico de drogas está listado no art. 1º da Lei 8.072/1990 como crime hediondo.",
+"c": false,
+"prof": "Equiparados.",
+"x": "É equiparado, não listado.",
+"e": "Art. 2º"
+},
+{
+"p": "O homicídio simples pode ser hediondo quando praticado em atividade típica de grupo de extermínio, ainda que por um só agente.",
+"c": true,
+"prof": "Homicídio.",
+"x": "Art. 1º, I.",
+"e": "Grupo de extermínio"
+},
+{
+"p": "O homicídio qualificado-privilegiado é crime hediondo, pois todas as qualificadoras do art. 121, § 2º, tornam o crime hediondo.",
+"c": false,
+"prof": "Homicídio.",
+"x": "Jurisprudência afasta.",
+"e": "Privilégio"
+},
+{
+"p": "Desde a Lei 14.994/2024, o feminicídio é crime autônomo, previsto no art. 121-A do Código Penal, e consta do rol dos hediondos.",
+"c": true,
+"prof": "Feminicídio.",
+"x": "Inciso I-B.",
+"e": "Autônomo"
+},
+{
+"p": "O vicaricídio, crime de matar descendente ou dependente de mulher para causar-lhe sofrimento em contexto de violência doméstica, é hediondo.",
+"c": true,
+"prof": "Vicaricídio.",
+"x": "Lei 15.384/2026, inciso I-C.",
+"e": "Art. 121-B"
+},
+{
+"p": "A lesão corporal de natureza grave (art. 129, § 1º) contra policial em serviço é crime hediondo.",
+"c": false,
+"prof": "Lesão funcional.",
+"x": "Só gravíssima ou seguida de morte.",
+"e": "Inciso I-A"
+},
+{
+"p": "A lesão corporal seguida de morte contra integrante do sistema prisional, em razão da função, é crime hediondo.",
+"c": true,
+"prof": "Lesão funcional.",
+"x": "Art. 1º, I-A.",
+"e": "Seguida de morte"
+},
+{
+"p": "A lesão corporal gravíssima contra o primo de um policial, em razão da função deste, é hedionda.",
+"c": false,
+"prof": "Lesão funcional.",
+"x": "Limite: 3º grau.",
+"e": "Parentesco"
+},
+{
+"p": "A lesão corporal gravíssima praticada nas dependências de instituição de ensino é crime hediondo.",
+"c": true,
+"prof": "Lesão funcional.",
+"x": "Lei 15.159/2025.",
+"e": "Local"
+},
+{
+"p": "O roubo circunstanciado pelo emprego de arma branca é crime hediondo.",
+"c": false,
+"prof": "Roubo.",
+"x": "Só arma de fogo.",
+"e": "Inciso II"
+},
+{
+"p": "O roubo circunstanciado pela restrição de liberdade da vítima é crime hediondo.",
+"c": true,
+"prof": "Roubo.",
+"x": "Art. 157, § 2º, V.",
+"e": "Inciso II, a"
+},
+{
+"p": "O latrocínio tentado é crime hediondo.",
+"c": true,
+"prof": "Roubo.",
+"x": "Tentados ou consumados.",
+"e": "Latrocínio"
+},
+{
+"p": "O roubo praticado em concurso de duas ou mais pessoas é hediondo.",
+"c": false,
+"prof": "Roubo.",
+"x": "Não está no rol.",
+"e": "Concurso"
+},
+{
+"p": "A extorsão mediante sequestro é hedionda inclusive na forma simples, prevista no caput do art. 159.",
+"c": true,
+"prof": "Extorsão.",
+"x": "Todas as formas.",
+"e": "Art. 159"
+},
+{
+"p": "A extorsão simples, prevista no caput do art. 158, é crime hediondo.",
+"c": false,
+"prof": "Extorsão.",
+"x": "Só a qualificada do § 3º.",
+"e": "Sequestro-relâmpago"
+},
+{
+"p": "O furto qualificado pelo emprego de explosivo ou artefato análogo que cause perigo comum é crime hediondo.",
+"c": true,
+"prof": "Furto.",
+"x": "Art. 155, § 4º-A.",
+"e": "Explosivo"
+},
+{
+"p": "O furto qualificado pelo rompimento de obstáculo é crime hediondo.",
+"c": false,
+"prof": "Furto.",
+"x": "Só o explosivo.",
+"e": "Inciso IX"
+},
+{
+"p": "O estupro é hediondo mesmo em sua forma simples, sem lesão grave ou morte.",
+"c": true,
+"prof": "Estupro.",
+"x": "Todas as formas.",
+"e": "Art. 213"
+},
+{
+"p": "A importunação sexual (art. 215-A) é crime hediondo.",
+"c": false,
+"prof": "Dignidade sexual.",
+"x": "Fora do rol.",
+"e": "Rol"
+},
+{
+"p": "O favorecimento da prostituição ou de outra forma de exploração sexual de criança, adolescente ou vulnerável é crime hediondo.",
+"c": true,
+"prof": "Dignidade sexual.",
+"x": "Art. 218-B.",
+"e": "Inciso VIII"
+},
+{
+"p": "A epidemia é crime hediondo em qualquer de suas formas.",
+"c": false,
+"prof": "Saúde pública.",
+"x": "Só com resultado morte.",
+"e": "Art. 267, § 1º"
+},
+{
+"p": "O induzimento ao suicídio ou à automutilação realizado por meio de rede social é crime hediondo.",
+"c": true,
+"prof": "Lei 14.811/2024.",
+"x": "Art. 122, § 4º.",
+"e": "Meio digital"
+},
+{
+"p": "O sequestro e cárcere privado contra pessoa idosa é crime hediondo, assim como o praticado contra menor de 18 anos.",
+"c": false,
+"prof": "Lei 14.811/2024.",
+"x": "Só menor de 18.",
+"e": "Inciso XI"
+},
+{
+"p": "O tráfico de pessoas cometido contra criança ou adolescente é crime hediondo.",
+"c": true,
+"prof": "Lei 14.811/2024.",
+"x": "Art. 149-A.",
+"e": "Inciso XII"
+},
+{
+"p": "Após o Pacote Anticrime, a posse ilegal de arma de fogo de uso restrito continua a ser crime hediondo.",
+"c": false,
+"prof": "Armas.",
+"x": "Só uso proibido.",
+"e": "Art. 16"
+},
+{
+"p": "O comércio ilegal de arma de fogo e o tráfico internacional de arma de fogo são crimes hediondos.",
+"c": true,
+"prof": "Armas.",
+"x": "Arts. 17 e 18.",
+"e": "Parágrafo único"
+},
+{
+"p": "O crime de organização criminosa é sempre hediondo.",
+"c": false,
+"prof": "Orcrim.",
+"x": "Só se voltada a hediondo ou equiparado.",
+"e": "Inciso V"
+},
+{
+"p": "O crime de genocídio é hediondo.",
+"c": true,
+"prof": "Genocídio.",
+"x": "Parágrafo único, I.",
+"e": "Lei 2.889/1956"
+},
+{
+"p": "O crime de domínio social estruturado, previsto na Lei 15.358/2026, é hediondo.",
+"c": true,
+"prof": "Lei Antifacção.",
+"x": "Parágrafo único, VIII.",
+"e": "Domínio social"
+},
+{
+"p": "O tráfico de drogas privilegiado é equiparado a crime hediondo.",
+"c": false,
+"prof": "Tráfico privilegiado.",
+"x": "STF, HC 118.533.",
+"e": "LEP, art. 112, § 5º"
+},
+{
+"p": "A associação para o tráfico de drogas é crime equiparado a hediondo.",
+"c": false,
+"prof": "Associação.",
+"x": "Não está no rol nem na CF.",
+"e": "Art. 35"
+},
+{
+"p": "O racismo, por ser inafiançável e imprescritível, é crime hediondo.",
+"c": false,
+"prof": "Racismo.",
+"x": "Fora do rol.",
+"e": "CF, art. 5º, XLII"
+},
+{
+"p": "Os crimes hediondos são insuscetíveis de anistia, graça e indulto.",
+"c": true,
+"prof": "Art. 2º.",
+"x": "Inciso I.",
+"e": "Clemência"
+},
+{
+"p": "Os crimes hediondos são insuscetíveis de liberdade provisória.",
+"c": false,
+"prof": "Art. 2º.",
+"x": "Lei 11.464/2007 retirou a vedação.",
+"e": "Sem fiança"
+},
+{
+"p": "O crime hediondo é inafiançável, mas admite liberdade provisória sem fiança.",
+"c": true,
+"prof": "Art. 2º.",
+"x": "Inciso II.",
+"e": "Liberdade provisória"
+},
+{
+"p": "A pena por crime hediondo deve ser cumprida, obrigatoriamente, em regime inicial fechado.",
+"c": false,
+"prof": "Regime.",
+"x": "STF, HC 111.840.",
+"e": "Inconstitucional"
+},
+{
+"p": "O STF declarou inconstitucional a regra que impunha o cumprimento da pena por crime hediondo em regime integralmente fechado.",
+"c": true,
+"prof": "Regime.",
+"x": "HC 82.959.",
+"e": "Individualização"
+},
+{
+"p": "Nos crimes hediondos, a prisão temporária tem prazo de 30 dias, prorrogável por igual período em caso de extrema e comprovada necessidade.",
+"c": true,
+"prof": "Temporária.",
+"x": "Art. 2º, § 4º.",
+"e": "30 + 30"
+},
+{
+"p": "A prisão temporária pode ser decretada de ofício pelo juiz nos crimes hediondos.",
+"c": false,
+"prof": "Temporária.",
+"x": "Representação ou requerimento.",
+"e": "Lei 7.960/1989"
+},
+{
+"p": "Em caso de sentença condenatória por crime hediondo, o juiz decidirá fundamentadamente se o réu poderá apelar em liberdade.",
+"c": true,
+"prof": "Apelação.",
+"x": "Art. 2º, § 3º.",
+"e": "Fundamentação"
+},
+{
+"p": "Nos crimes hediondos, o livramento condicional exige o cumprimento de mais de dois terços da pena, vedado ao reincidente específico.",
+"c": true,
+"prof": "Livramento.",
+"x": "CP, art. 83, V.",
+"e": "2/3"
+},
+{
+"p": "Para crimes praticados a partir da vigência da Lei 15.358/2026, o condenado primário por crime hediondo progride após cumprir 70% da pena.",
+"c": true,
+"prof": "Progressão.",
+"x": "LEP, art. 112, V.",
+"e": "70%"
+},
+{
+"p": "As frações de progressão mais gravosas da Lei 15.358/2026 aplicam-se aos condenados por crimes cometidos antes de sua vigência.",
+"c": false,
+"prof": "Progressão.",
+"x": "Irretroatividade.",
+"e": "Data do fato"
+},
+{
+"p": "Segundo o STF, o condenado por crime hediondo sem resultado morte que é reincidente em crime comum progride com o percentual previsto para o primário.",
+"c": true,
+"prof": "Progressão.",
+"x": "Tema 1.169.",
+"e": "Reincidência genérica"
+},
+{
+"p": "A falta grave interrompe o prazo para a progressão de regime.",
+"c": true,
+"prof": "Progressão.",
+"x": "LEP, art. 112, § 6º.",
+"e": "Súmula 534 STJ"
+},
+{
+"p": "A associação criminosa destinada à prática de crimes hediondos tem pena de 3 a 6 anos de reclusão.",
+"c": true,
+"prof": "Art. 8º.",
+"x": "Pena maior que a do art. 288.",
+"e": "Associação"
+},
+{
+"p": "O participante que denunciar a associação à autoridade, possibilitando seu desmantelamento, terá a pena reduzida de um a dois terços.",
+"c": true,
+"prof": "Delação.",
+"x": "Art. 8º, parágrafo único.",
+"e": "Desmantelamento"
+},
+{
+"p": "Os crimes hediondos são imprescritíveis.",
+"c": false,
+"prof": "Prescrição.",
+"x": "CF só prevê racismo e ação armada.",
+"e": "Prescrevem"
+},
+{
+"p": "O latrocínio, embora tenha resultado morte, é julgado pelo juiz singular e não pelo Tribunal do Júri.",
+"c": true,
+"prof": "Competência.",
+"x": "Súmula 603 do STF.",
+"e": "Crime patrimonial"
+},
+{
+"p": "Segundo a Lei 8.072/1990, é crime hediondo:",
+"alts": [
+"o roubo circunstanciado pelo emprego de arma branca",
+"o roubo circunstanciado pelo emprego de arma de fogo",
+"o roubo praticado em concurso de duas pessoas",
+"o furto qualificado pelo rompimento de obstáculo",
+"a extorsão simples"
+],
+"r": 1,
+"x": "Art. 1º, II, \"b\".",
+"n": [
+"Arma branca é majorante, mas não está no rol.",
+"Correta: art. 157, § 2º-A, I.",
+"O concurso de pessoas não torna o roubo hediondo.",
+"Só o furto com explosivo é hediondo.",
+"Só a extorsão qualificada do § 3º."
+],
+"e": "Roubo hediondo."
+},
+{
+"p": "João foi preso em flagrante por crime hediondo. Sobre a possibilidade de soltura, é correto afirmar que",
+"alts": [
+"o delegado pode arbitrar fiança se a pena mínima for inferior a 4 anos",
+"o juiz pode conceder fiança, mas o delegado não",
+"o juiz pode conceder liberdade provisória sem fiança, se ausentes os requisitos da preventiva",
+"a liberdade provisória é vedada por expressa disposição legal",
+"a soltura só é possível após o oferecimento da denúncia"
+],
+"r": 2,
+"x": "Inafiançável não significa insuscetível de liberdade provisória.",
+"n": [
+"Crimes hediondos são inafiançáveis.",
+"Nem o juiz pode conceder fiança.",
+"Correta: Lei 11.464/2007 e Tema 959 do STF.",
+"A vedação foi retirada em 2007.",
+"Não há essa exigência."
+],
+"e": "Liberdade provisória."
+},
+{
+"p": "Sobre o regime de cumprimento de pena nos crimes hediondos, assinale a afirmativa correta.",
+"alts": [
+"O regime deve ser integralmente fechado.",
+"O regime inicial fechado é obrigatório por força do art. 2º, § 1º, da Lei 8.072.",
+"O regime inicial deve ser fixado segundo as regras gerais do Código Penal, com fundamentação concreta.",
+"O juiz pode fixar regime mais grave apenas com base na gravidade abstrata do crime.",
+"O regime aberto é vedado."
+],
+"r": 2,
+"x": "STF, HC 111.840 e Súmula 718.",
+"n": [
+"Declarado inconstitucional no HC 82.959.",
+"Declarado inconstitucional no HC 111.840.",
+"Correta.",
+"Súmula 718 do STF proíbe.",
+"Pode haver regime aberto, como no tráfico privilegiado com pena baixa."
+],
+"e": "Regime inicial."
+},
+{
+"p": "Nos crimes hediondos, a prisão temporária",
+"alts": [
+"tem prazo de 5 dias, prorrogável por igual período",
+"tem prazo de 30 dias, prorrogável por igual período em caso de extrema e comprovada necessidade",
+"pode ser decretada de ofício pelo juiz",
+"pode ser decretada durante a ação penal",
+"tem prazo de 60 dias, improrrogável"
+],
+"r": 1,
+"x": "Art. 2º, § 4º.",
+"n": [
+"Esse é o prazo comum da Lei 7.960/1989.",
+"Correta.",
+"Depende de representação ou requerimento.",
+"Só na investigação.",
+"São 30 + 30."
+],
+"e": "Temporária."
+},
+{
+"p": "Pedro, primário, foi condenado por estupro praticado em 2026, após a vigência da Lei 15.358/2026. Para progredir de regime, deverá cumprir",
+"alts": [
+"40% da pena",
+"50% da pena",
+"60% da pena",
+"70% da pena",
+"2/5 da pena"
+],
+"r": 3,
+"x": "LEP, art. 112, V.",
+"n": [
+"Percentual do Pacote Anticrime, para fatos até 24/03/2026.",
+"Percentual antigo para resultado morte.",
+"Percentual antigo do reincidente.",
+"Correta.",
+"Fração da Lei 11.464/2007."
+],
+"e": "Progressão."
+},
+{
+"p": "Considerando a jurisprudência do STF, o condenado por crime hediondo sem resultado morte, reincidente em crime comum, progride de regime",
+"alts": [
+"com o percentual do reincidente em crime hediondo",
+"com 1/6 da pena",
+"com o percentual previsto para o primário em crime hediondo",
+"sem direito à progressão",
+"com o percentual do crime com resultado morte"
+],
+"r": 2,
+"x": "Tema 1.169.",
+"n": [
+"Exige reincidência específica.",
+"Regra para fatos antigos.",
+"Correta: analogia em favor do réu.",
+"Progressão é direito constitucional.",
+"Não houve morte."
+],
+"e": "Reincidência genérica."
+},
+{
+"p": "Não é crime hediondo:",
+"alts": [
+"o estupro de vulnerável",
+"o latrocínio tentado",
+"a extorsão mediante sequestro na forma simples",
+"o tráfico de drogas privilegiado",
+"o genocídio"
+],
+"r": 3,
+"x": "STF, HC 118.533.",
+"n": [
+"É hediondo (VI).",
+"Tentados também.",
+"Todas as formas do art. 159.",
+"Correta: LEP, art. 112, § 5º.",
+"Parágrafo único, I."
+],
+"e": "Tráfico privilegiado."
+},
+{
+"p": "Quanto à lesão corporal prevista no rol dos crimes hediondos, é correto afirmar que",
+"alts": [
+"qualquer lesão grave contra policial é hedionda",
+"a lesão gravíssima contra oficial de justiça, em razão da função, é hedionda",
+"a proteção alcança parentes até o 4º grau",
+"basta que a vítima seja agente de segurança, ainda que o motivo seja pessoal",
+"a lesão leve contra militar das Forças Armadas é hedionda"
+],
+"r": 1,
+"x": "Art. 1º, I-A, \"b\" (Lei 15.134/2025).",
+"n": [
+"Só gravíssima ou seguida de morte.",
+"Correta.",
+"Até o 3º grau.",
+"Exige relação com a função.",
+"Lesão leve não está no rol."
+],
+"e": "Lesão funcional."
+},
+{
+"p": "A respeito das vedações constitucionais e legais, é correto afirmar que os crimes hediondos são",
+"alts": [
+"imprescritíveis e inafiançáveis",
+"inafiançáveis e insuscetíveis de anistia, graça e indulto",
+"inafiançáveis, mas suscetíveis de indulto",
+"imprescritíveis e insuscetíveis de graça",
+"afiançáveis pelo juiz"
+],
+"r": 1,
+"x": "CF, art. 5º, XLIII, e Lei 8.072, art. 2º.",
+"n": [
+"Hediondos prescrevem.",
+"Correta.",
+"O indulto é vedado pela lei.",
+"Hediondos prescrevem.",
+"São inafiançáveis."
+],
+"e": "Vedações."
+},
+{
+"p": "A Lei 14.811/2024 incluiu no rol dos crimes hediondos o",
+"alts": [
+"sequestro e cárcere privado contra idoso",
+"tráfico de pessoas cometido contra criança ou adolescente",
+"assédio sexual no ambiente escolar",
+"furto de celular de adolescente",
+"constrangimento ilegal de criança"
+],
+"r": 1,
+"x": "Art. 1º, XII.",
+"n": [
+"O inciso XI exige vítima menor de 18.",
+"Correta.",
+"Não está no rol.",
+"Não está no rol.",
+"Não está no rol."
+],
+"e": "Lei 14.811/2024."
+},
+{
+"p": "Sobre armas de fogo e crimes hediondos, após a Lei 13.964/2019:",
+"alts": [
+"o porte ilegal de arma de uso permitido é hediondo",
+"a posse de arma de uso restrito é hedionda",
+"a posse ou o porte ilegal de arma de fogo de uso proibido é hediondo",
+"o comércio ilegal de arma de fogo deixou de ser hediondo",
+"o tráfico internacional de munição não é hediondo"
+],
+"r": 2,
+"x": "Parágrafo único, II, III e IV.",
+"n": [
+"Art. 14 não está no rol.",
+"Só uso proibido.",
+"Correta.",
+"Continua hediondo (art. 17).",
+"É hediondo (art. 18)."
+],
+"e": "Armas."
+},
+{
+"p": "O crime de organização criminosa (Lei 12.850/2013) é hediondo",
+"alts": [
+"sempre",
+"nunca",
+"quando direcionado à prática de crime hediondo ou equiparado",
+"quando houver emprego de arma de fogo",
+"quando houver participação de funcionário público"
+],
+"r": 2,
+"x": "Parágrafo único, V.",
+"n": [
+"Só em uma hipótese.",
+"Há hipótese prevista.",
+"Correta.",
+"Isso é majorante da Lei 12.850.",
+"Isso é majorante."
+],
+"e": "Orcrim."
+},
+{
+"p": "Sobre o livramento condicional nos crimes hediondos, é correto afirmar que",
+"alts": [
+"exige o cumprimento de metade da pena",
+"exige mais de 2/3 da pena e é vedado ao reincidente específico em crimes dessa natureza",
+"é vedado em todos os crimes hediondos",
+"exige 1/3 da pena se o condenado for primário",
+"é permitido ao reincidente específico após 3/4 da pena"
+],
+"r": 1,
+"x": "CP, art. 83, V.",
+"n": [
+"Fração errada.",
+"Correta.",
+"Não em todos; há vedações específicas.",
+"Fração dos crimes comuns.",
+"Ao reincidente específico é vedado."
+],
+"e": "Livramento."
+},
+{
+"p": "Carlos explodiu um caixa eletrônico de madrugada, sem ninguém no local, e levou o dinheiro. A conduta configura",
+"alts": [
+"roubo qualificado, crime hediondo",
+"furto simples, crime comum",
+"furto qualificado pelo emprego de explosivo, crime hediondo",
+"dano qualificado, crime comum",
+"extorsão, crime hediondo"
+],
+"r": 2,
+"x": "CP, art. 155, § 4º-A.",
+"n": [
+"Não houve violência contra pessoa.",
+"Há qualificadora.",
+"Correta.",
+"Houve subtração.",
+"Não houve constrangimento."
+],
+"e": "Furto com explosivo."
+},
+{
+"p": "A associação de três ou mais pessoas para a prática de crimes hediondos",
+"alts": [
+"é crime hediondo",
+"tem pena de 3 a 6 anos de reclusão, nos termos do art. 8º da Lei 8.072",
+"tem a mesma pena da associação criminosa comum",
+"é crime de menor potencial ofensivo",
+"é equiparada à organização criminosa"
+],
+"r": 1,
+"x": "Art. 8º.",
+"n": [
+"A associação não é hedionda.",
+"Correta.",
+"Pena maior.",
+"A pena impede.",
+"São crimes distintos."
+],
+"e": "Art. 8º."
+},
+{
+"p": "Sobre o vicaricídio, introduzido pela Lei 15.384/2026, é correto afirmar:",
+"alts": [
+"é qualificadora do feminicídio",
+"é crime autônomo, hediondo, que consiste em matar descendente, dependente ou pessoa sob guarda de mulher para causar-lhe sofrimento, punição ou controle",
+"exige que a vítima seja a própria mulher",
+"tem pena de 12 a 30 anos",
+"não admite causa de aumento"
+],
+"r": 1,
+"x": "CP, art. 121-B.",
+"n": [
+"É tipo autônomo.",
+"Correta.",
+"A vítima é pessoa ligada à mulher.",
+"A pena é de 20 a 40 anos.",
+"Há aumento de 1/3 até a metade."
+],
+"e": "Vicaricídio."
+},
+{
+"p": "Quanto à prescrição, os crimes hediondos",
+"alts": [
+"são imprescritíveis por força da Constituição",
+"são imprescritíveis por força da Lei 8.072",
+"prescrevem normalmente, segundo as regras do Código Penal",
+"prescrevem no dobro do prazo",
+"só prescrevem se o réu for menor de 21 anos"
+],
+"r": 2,
+"x": "CF, art. 5º, XLII e XLIV.",
+"n": [
+"Só racismo e ação armada.",
+"A lei não fala nisso.",
+"Correta.",
+"Não há essa regra.",
+"Não há essa regra."
+],
+"e": "Prescrição."
+},
+{
+"p": "Assinale a alternativa que apresenta apenas crimes hediondos.",
+"alts": [
+"estupro, importunação sexual e assédio sexual",
+"estupro de vulnerável, epidemia com resultado morte e genocídio",
+"latrocínio, roubo simples e furto com explosivo",
+"extorsão simples, homicídio qualificado e feminicídio",
+"racismo, tortura e tráfico"
+],
+"r": 1,
+"x": "Rol do art. 1º.",
+"n": [
+"Importunação e assédio não.",
+"Correta.",
+"Roubo simples não.",
+"Extorsão simples não.",
+"Racismo não; tortura e tráfico são equiparados."
+],
+"e": "Rol."
+},
+{
+"p": "Sobre a delação premiada prevista no art. 8º, parágrafo único, da Lei 8.072, é correto afirmar que",
+"alts": [
+"gera perdão judicial obrigatório",
+"exige a libertação da vítima",
+"reduz a pena de 1/3 a 2/3 do participante que denunciar a associação, possibilitando seu desmantelamento",
+"aplica-se apenas ao crime de tráfico",
+"depende de acordo homologado pelo juiz"
+],
+"r": 2,
+"x": "Art. 8º, parágrafo único.",
+"n": [
+"Não prevê perdão.",
+"Isso é do art. 159, § 4º, do CP.",
+"Correta.",
+"Vale para associações voltadas a hediondos e equiparados.",
+"A lei não exige acordo formal."
+],
+"e": "Delação."
+},
+{
+"p": "Ana, condenada por tráfico de drogas (caput), cumpriu a pena e, em 2026, cometeu latrocínio consumado. Quanto à execução da nova pena, assinale a correta.",
+"alts": [
+"progride com 40% e tem direito a livramento com 2/3",
+"progride com 70% e tem direito a livramento",
+"progride com 85% e não tem direito a livramento condicional",
+"progride com 60% e tem livramento com 3/4",
+"não tem direito a progressão"
+],
+"r": 2,
+"x": "LEP, art. 112, VIII.",
+"n": [
+"Percentuais desatualizados.",
+"É reincidente com resultado morte.",
+"Correta.",
+"Percentuais antigos e fração inexistente.",
+"A progressão é garantida."
+],
+"e": "Reincidente com morte."
+},
+{
+"p": "São considerados hediondos os crimes listados na Lei 8.072/1990, consumados ou tentados.",
+"c": true,
+"prof": "Certo. É o caput do art. 1º.",
+"x": "O Brasil adota o sistema legal: só é hediondo o que a lei lista, na forma consumada ou tentada.",
+"e": "Rol legal, consumado ou tentado."
+},
+{
+"p": "O tráfico de drogas, por estar expressamente previsto no rol do art. 1º da Lei 8.072/1990, é crime hediondo.",
+"c": false,
+"prof": "Ele é equiparado, não hediondo.",
+"x": "Tráfico, tortura e terrorismo são equiparados a hediondos pela Constituição (art. 5º, XLIII) e recebem o mesmo tratamento, mas não integram o rol do art. 1º.",
+"e": "Tráfico: equiparado."
+},
+{
+"p": "O crime de tráfico privilegiado, previsto no art. 33, § 4º, da Lei de Drogas, não tem natureza hedionda.",
+"c": true,
+"prof": "Certo.",
+"x": "O STF firmou esse entendimento, e o Pacote Anticrime o positivou na LEP (art. 112, § 5º).",
+"e": "Privilegiado não é hediondo."
+},
+{
+"p": "Por expressa vedação legal válida, os crimes hediondos não admitem liberdade provisória, com ou sem fiança.",
+"c": false,
+"prof": "A vedação é só da fiança.",
+"x": "A Lei 8.072 veda anistia, graça, indulto e fiança. A liberdade provisória sem fiança é cabível quando ausentes os requisitos da prisão preventiva.",
+"e": "Só fiança vedada."
+},
+{
+"p": "A prisão temporária, nos crimes hediondos, tem prazo de 30 dias, prorrogável por igual período em caso de extrema e comprovada necessidade.",
+"c": true,
+"prof": "Certo.",
+"x": "Nos demais crimes da Lei 7.960/1989, o prazo é de 5 dias, prorrogável por mais 5.",
+"e": "30 + 30."
+},
+{
+"p": "Pedro, reincidente por furto simples, foi condenado por estupro (crime hediondo, sem resultado morte). Para progredir de regime, segundo a LEP e a jurisprudência do STF, deverá cumprir:",
+"alts": [
+"60% da pena, por ser reincidente",
+"70% da pena",
+"40% da pena, pois a reincidência não é específica em crime hediondo",
+"25% da pena",
+"16% da pena"
+],
+"r": 2,
+"n": [
+"60% é para o reincidente em crime hediondo.",
+"70% é para o reincidente em hediondo com resultado morte.",
+"Correta: Tema 1.084 do STF.",
+"25% é para crime comum com violência, primário.",
+"16% é para crime comum sem violência, primário."
+],
+"prof": "A reincidência só \"pesa\" na tabela dos hediondos se for em hediondo.",
+"x": "O art. 112 da LEP prevê 60% para o reincidente na prática de crime hediondo. Como Pedro é reincidente em crime comum, aplica-se, por analogia favorável, a fração do primário: 40%.",
+"e": "Reincidente comum: 40%."
+},
+{
+"p": "Assinale a alternativa que contém apenas crimes hediondos, segundo a Lei 8.072/1990 com as alterações do Pacote Anticrime.",
+"alts": [
+"homicídio simples; furto qualificado por rompimento de obstáculo; porte de arma de uso restrito",
+"latrocínio; estupro de vulnerável; posse ou porte de arma de fogo de uso proibido",
+"tráfico privilegiado; extorsão simples; associação criminosa",
+"roubo simples; lesão corporal grave contra particular; estelionato",
+"tortura; terrorismo; tráfico de drogas"
+],
+"r": 1,
+"n": [
+"Nenhum desses é hediondo nessas formas.",
+"Correta.",
+"Nenhum está no rol.",
+"Nenhum está no rol.",
+"São equiparados, não hediondos."
+],
+"prof": "Cuidado com a diferença entre \"hediondo\" e \"equiparado\".",
+"x": "Latrocínio (roubo qualificado pela morte), estupro de vulnerável e posse ou porte de arma de fogo de uso proibido estão no rol da Lei 8.072. Tortura, terrorismo e tráfico são equiparados pela Constituição.",
+"e": "Hediondo ≠ equiparado."
+},
+{
+"p": "Um homem é condenado por homicídio qualificado. Na sentença, o juiz fixa o regime inicial fechado afirmando que a Lei 8.072/1990 o impõe obrigatoriamente. A fundamentação está:",
+"alts": [
+"correta, pois a lei impõe regime integralmente fechado",
+"correta, pois a lei impõe regime inicial fechado e o STF a considera válida",
+"incorreta, pois o STF declarou inconstitucional a obrigatoriedade do regime inicial fechado, devendo o regime ser fixado pelas regras do Código Penal",
+"incorreta, pois crimes hediondos começam sempre no semiaberto",
+"incorreta, pois crimes hediondos não admitem pena privativa de liberdade"
+],
+"r": 2,
+"n": [
+"O regime integralmente fechado também foi declarado inconstitucional.",
+"O STF declarou a obrigatoriedade inconstitucional.",
+"Correta: HC 111.840.",
+"Não há essa regra.",
+"Absurdo."
+],
+"prof": "Individualização da pena impede regime automático.",
+"x": "O STF (HC 111.840) declarou inconstitucional o § 1º do art. 2º da Lei 8.072 na parte em que impõe o regime inicial fechado. O juiz pode até fixar o fechado, mas pelos critérios do art. 33 do CP, com fundamentação concreta.",
+"e": "Regime fixado pelo CP."
+}
+],
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3 T</b><span>equiparados a hediondos: Tortura, Tráfico e Terrorismo (CF, art. 5º, XLIII)</span></div><div class=\"lt-stat\"><b>40% a 70%</b><span>frações de progressão em crimes hediondos (LEP, art. 112)</span></div><div class=\"lt-stat\"><b>30 + 30</b><span>dias de prisão temporária em hediondo</span></div><div class=\"lt-stat\"><b>0</b><span>anistia, graça, indulto ou fiança</span></div></div>\n<h3>1. O que é crime hediondo</h3>\n<ul><li>O Brasil adota o <b>sistema legal</b>: hediondo é só o que <b>a lei</b> (Lei 8.072/1990, art. 1º) diz que é, <b>consumado ou tentado</b>. O juiz não pode declarar hediondo um crime fora da lista.</li><li>A Constituição (art. 5º, XLIII) equipara aos hediondos a <b>tortura</b>, o <b>tráfico de drogas</b> e o <b>terrorismo</b> (os \"TTT\"). Eles <b>não estão no rol</b> da Lei 8.072, mas recebem o mesmo tratamento.</li></ul>\n<table class=\"tab\"><thead><tr><th>Grupo</th><th>Crimes do rol (principais)</th></tr></thead><tbody><tr><td>Vida</td><td>homicídio <b>qualificado</b>; homicídio <b>simples</b> em atividade típica de <b>grupo de extermínio</b>; <b>feminicídio</b> (hoje crime autônomo, art. 121-A)</td></tr><tr><td>Agentes de segurança</td><td>lesão <b>gravíssima</b> e lesão <b>seguida de morte</b> contra integrantes das forças de segurança (CF, arts. 142 e 144) e da Força Nacional, no exercício ou em razão da função, ou contra seus <b>familiares até o 3º grau</b></td></tr><tr><td>Patrimônio</td><td><b>roubo</b> com restrição da liberdade da vítima, com <b>arma de fogo</b> (inclusive de uso proibido ou restrito) e qualificado por <b>lesão grave ou morte</b> (latrocínio); <b>extorsão</b> qualificada (restrição de liberdade, lesão grave ou morte); <b>extorsão mediante sequestro</b>; <b>furto com explosivo</b></td></tr><tr><td>Dignidade sexual</td><td><b>estupro</b>; <b>estupro de vulnerável</b>; <b>favorecimento da prostituição</b> de criança, adolescente ou vulnerável</td></tr><tr><td>Saúde pública</td><td>epidemia com resultado morte; falsificação de produto terapêutico ou medicinal</td></tr><tr><td>Parágrafo único</td><td><b>genocídio</b>; <b>posse ou porte de arma de fogo de uso proibido</b>; <b>comércio ilegal</b> e <b>tráfico internacional</b> de armas; <b>organização criminosa</b> voltada a crimes hediondos ou equiparados</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Depois do Pacote Anticrime, só a posse ou porte de arma de <b>uso PROIBIDO</b> é hediondo. A de <b>uso restrito</b> deixou de ser (STJ). E o <b>tráfico privilegiado</b> (art. 33, § 4º, da Lei de Drogas) <b>não é hediondo</b> (STF e LEP, art. 112, § 5º).</div>\n<h3>2. Consequências</h3>\n<ul><li><b>Insuscetíveis de anistia, graça, indulto e fiança</b> (art. 2º). Mas cabe <b>liberdade provisória sem fiança</b>, se ausentes os requisitos da preventiva.</li><li>O <b>regime inicial fechado obrigatório</b> foi declarado <b>inconstitucional</b> pelo STF (HC 111.840): o juiz fixa o regime conforme o art. 33 do CP.</li><li><b>Prisão temporária</b>: <b>30 dias</b>, prorrogáveis por mais <b>30</b> em caso de extrema e comprovada necessidade (art. 2º, § 4º). Nos demais crimes, são 5 + 5 dias (Lei 7.960/1989).</li><li><b>Associação criminosa</b> para praticar hediondo ou equiparado: <b>3 a 6 anos</b> (art. 8º); o participante que denunciar o bando, possibilitando seu desmantelamento, tem pena reduzida de <b>1 a 2/3</b>.</li><li><b>Livramento condicional</b>: após <b>2/3</b> da pena, se não for <b>reincidente específico</b> em crime hediondo (CP, art. 83, V); vedado se o crime hediondo teve <b>resultado morte</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Progressão (LEP, art. 112)</th><th>Fração</th></tr></thead><tbody><tr><td>Primário, hediondo ou equiparado</td><td><b>40%</b></td></tr><tr><td>Primário, hediondo <b>com resultado morte</b> (sem livramento); comando de organização criminosa para hediondo; <b>milícia</b></td><td><b>50%</b></td></tr><tr><td><b>Reincidente em hediondo</b></td><td><b>60%</b></td></tr><tr><td>Reincidente em hediondo <b>com resultado morte</b> (sem livramento)</td><td><b>70%</b></td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 1.084 (ARE 1.327.963)</b><p class=\"jc-tese\">O condenado por crime hediondo que é reincidente, mas não em crime hediondo, progride com a fração do primário (40% ou 50%), por falta de previsão legal específica.</p><p class=\"jc-com\">A lei só previu 60% e 70% para o reincidente <b>em hediondo</b>. Na dúvida, aplica-se a interpretação mais favorável ao condenado.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 26 e Lei 14.843/2024</b><p class=\"jc-tese\">Para a progressão em crime hediondo, o juiz pode determinar exame criminológico; com a Lei 14.843/2024, o exame passou a ser exigido para a progressão em geral (LEP, art. 112, § 1º).</p><p class=\"jc-com\">A banca costuma cobrar a súmula. Fique atento à mudança legislativa recente.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Tráfico de drogas está no rol do art. 1º da Lei 8.072</span><br>✅ <span class=\"certo\">É EQUIPARADO pela Constituição, não está no rol.</span></li><li>❌ <span class=\"banca\">Crime hediondo não admite liberdade provisória</span><br>✅ <span class=\"certo\">Veda-se a FIANÇA; a liberdade provisória sem fiança é possível.</span></li><li>❌ <span class=\"banca\">O regime inicial é sempre fechado</span><br>✅ <span class=\"certo\">O STF declarou inconstitucional essa obrigatoriedade.</span></li><li>❌ <span class=\"banca\">Temporária em hediondo: 5 + 5 dias</span><br>✅ <span class=\"certo\">30 + 30 dias.</span></li><li>❌ <span class=\"banca\">Reincidente comum condenado por hediondo progride com 60%</span><br>✅ <span class=\"certo\">60% é para reincidente EM HEDIONDO; o reincidente comum usa 40% (Tema 1.084).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equiparados a hediondos?</span></span><span class=\"vs\"><span><b>Tortura, tráfico e terrorismo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vedações?</span></span><span class=\"vs\"><span><b>Anistia, graça, indulto e fiança</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Temporária em hediondo?</span></span><span class=\"vs\"><span><b>30 + 30 dias</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Progressão do primário em hediondo?</span></span><span class=\"vs\"><span><b>40%</b> (50% com resultado morte).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tráfico privilegiado é hediondo?</span></span><span class=\"vs\"><span><b>Não</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Porte de arma de uso restrito é hediondo?</span></span><span class=\"vs\"><span><b>Não</b> (só uso <b>proibido</b>).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O latrocínio tentado</b><p>Dois assaltantes atiram contra a vítima para levar o carro; ela sobrevive com lesões leves e nada é subtraído. A defesa sustenta que, sem morte, não há crime hediondo.</p><details><summary>Ver a solução comentada</summary><p>O latrocínio (roubo qualificado pelo resultado morte) é hediondo <b>consumado ou tentado</b>. Havendo dolo de matar e não ocorrendo a morte, há latrocínio <b>tentado</b>, também hediondo. Além disso, o roubo com emprego de <b>arma de fogo</b> já está no rol.</p></details></div>"
+},
+"drogas": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5 a 15</b><span>anos de reclusão: pena do tráfico de drogas (Lei 11.343/2006, art. 33)</span></div><div class=\"lt-stat\"><b>1/6 a 2/3</b><span>redução do tráfico privilegiado (art. 33, § 4º)</span></div><div class=\"lt-stat\"><b>40 g</b><span>de maconha: presunção de uso pessoal fixada pelo STF no Tema 506 (até o Congresso legislar)</span></div><div class=\"lt-stat\"><b>30 / 90</b><span>dias para concluir o inquérito, preso ou solto, podendo ser duplicados (art. 51)</span></div></div>\n<h3>1. A Lei 11.343/2006 e o Sisnad</h3>\n<ul><li>A <b>Lei 11.343/2006</b> (Lei de Drogas) revogou as Leis 6.368/1976 e 10.409/2002 e instituiu o <b>Sisnad</b> (Sistema Nacional de Políticas Públicas sobre Drogas). Ela tem duas faces: a <b>preventiva e de atenção</b> ao usuário e ao dependente (Títulos II e III) e a <b>repressiva</b> à produção não autorizada e ao tráfico (Título IV).</li><li><b>Droga</b>, para a lei, é a substância ou o produto capaz de causar <b>dependência</b>, assim especificado em <b>lei</b> ou relacionado em <b>listas</b> atualizadas periodicamente pelo Poder Executivo da União (art. 1º, parágrafo único). Hoje essas listas estão na <b>Portaria SVS/MS 344/1998</b> da Anvisa e suas atualizações.</li><li>Por isso, os crimes da Lei de Drogas são <b>normas penais em branco heterogêneas</b>: o tipo penal (\"drogas\") precisa ser complementado por ato administrativo (a portaria da Anvisa). Se uma substância for <b>retirada</b> da lista, ocorre <b>abolitio criminis</b> para quem a portava, com efeito retroativo.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · cloreto de etila e abolitio criminis</b><p class=\"jc-tese\">A exclusão temporária de uma substância da lista da Anvisa (o caso do <b>cloreto de etila</b>, o \"lança-perfume\", em 2000) gerou <b>abolitio criminis</b> para os fatos anteriores, segundo o STF.</p><p class=\"jc-com\">Como o complemento da norma penal em branco integra o próprio tipo, a retirada da substância da lista é lei penal mais benéfica e retroage (CF, art. 5º, XL). A republicação da portaria com a substância novamente proibida só vale para fatos posteriores. A banca pode cobrar o raciocínio com outra substância: se saiu da lista, não há crime.</p></div>\n<ul><li><b>Princípios do Sisnad</b> (art. 4º): respeito aos direitos fundamentais da pessoa humana, especialmente quanto à autonomia e à liberdade; reconhecimento da diversidade; promoção de valores éticos e culturais; abordagem <b>multidisciplinar</b>; integração das estratégias de prevenção, atenção e repressão; e adesão a tratados internacionais.</li><li>A <b>Lei 13.840/2019</b> reformou o Sisnad, regulando o <b>tratamento</b> do dependente (inclusive a internação <b>voluntária</b> e a <b>involuntária</b>), o Plano Individual de Atendimento (PIA) e as comunidades terapêuticas acolhedoras, além de regras sobre a destinação de bens apreendidos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Internação do dependente</th><th>Quem pede</th><th>Regras (Lei 11.343, art. 23-A)</th></tr></thead><tbody><tr><td><b>Voluntária</b></td><td>o próprio dependente, por escrito</td><td>termina por solicitação escrita do paciente ou por determinação do médico</td></tr><tr><td><b>Involuntária</b></td><td>familiar ou responsável legal, ou, na falta, servidor da saúde, assistência social ou órgãos do Sisnad (exceto da segurança pública)</td><td>decidida por <b>médico</b>, prazo máximo de <b>90 dias</b> (tempo da desintoxicação), comunicada ao <b>MP</b>, Defensoria e outros órgãos de fiscalização em <b>72 horas</b></td></tr><tr><td>Compulsória</td><td>determinada pela Justiça</td><td>regida pela Lei 10.216/2001</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O policial pode requerer a internação involuntária do dependente</span><br>✅ <span class=\"certo\">Os órgãos de <b>segurança pública</b> são expressamente excluídos</span></li><li>❌ <span class=\"banca\">A internação involuntária do dependente dura até 6 meses</span><br>✅ <span class=\"certo\">Prazo máximo de <b>90 dias</b></span></li><li>❌ <span class=\"banca\">Droga é qualquer substância psicoativa</span><br>✅ <span class=\"certo\">É a substância listada em <b>lei</b> ou na <b>lista</b> do Executivo (norma penal em branco)</span></li></ol></div>\n<h3>2. O porte para consumo pessoal: art. 28</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 11.343/2006, art. 28 (resumo)</div><div class=\"art-lei\">Quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal, drogas sem autorização ou em desacordo com determinação legal ou regulamentar será submetido às seguintes penas: I, advertência sobre os efeitos das drogas; II, prestação de serviços à comunidade; III, medida educativa de comparecimento a programa ou curso educativo. § 1º Às mesmas medidas submete-se quem, para seu consumo pessoal, semeia, cultiva ou colhe plantas destinadas à preparação de pequena quantidade de substância ou produto capaz de causar dependência.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Cinco verbos: <b>adquirir, guardar, ter em depósito, transportar, trazer consigo</b></li><li>Exige o <b>especial fim</b> \"para consumo pessoal\"</li><li>Não há pena de <b>prisão</b> em nenhuma hipótese</li><li>§ 1º: cultivo para consumo próprio, em <b>pequena quantidade</b></li><li>Prazo máximo das medidas II e III: <b>5 meses</b> (10 na reincidência)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca inclui \"vender\" ou \"oferecer\" entre os verbos do art. 28</li><li>A banca diz que o usuário reincidente pode ser preso</li><li>A banca diz que o art. 28 foi \"descriminalizado\" por completo</li></ul></div></div>\n<ul><li><b>Natureza jurídica</b>: o STF (RE 430.105, 2007) entendeu que houve <b>despenalização</b> (afastamento da pena de prisão), e <b>não</b> descriminalização: o porte para consumo continuava sendo <b>crime</b>, de menor potencial ofensivo, com penas alternativas.</li><li><b>Tema 506 (RE 635.659, junho de 2024)</b>: o STF mudou o quadro para a <b>maconha</b> (cannabis sativa). Firmou que <b>não</b> comete <b>infração penal</b> quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal, a <b>cannabis</b>. A conduta continua <b>ilícita</b>, mas no plano <b>administrativo</b>: as medidas de advertência e de comparecimento a programa educativo são aplicadas em <b>procedimento não penal</b>, sem repercussão criminal (não gera antecedentes nem reincidência), e a prestação de serviços à comunidade <b>não</b> se aplica nesse modelo.</li><li>O STF fixou também uma <b>presunção relativa</b>: até que o Congresso legisle, presume-se usuário quem tiver até <b>40 gramas</b> de maconha ou <b>seis plantas-fêmeas</b>. A presunção é <b>relativa</b> nos dois sentidos: (1) a polícia pode prender por <b>tráfico</b> quem tem menos de 40 g se houver outros indícios (balança de precisão, embalagens, anotações de venda, registro de operações em aplicativos, contatos com usuários); (2) o juiz pode reconhecer o <b>uso</b> mesmo acima de 40 g, conforme as circunstâncias.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 506 (RE 635.659)</b><p class=\"jc-tese\">A decisão vale <b>somente para a maconha</b>. Para as demais drogas (cocaína, crack, drogas sintéticas), o porte para consumo continua sendo <b>crime</b> do art. 28, de menor potencial ofensivo, processado no <b>Juizado Especial Criminal</b>.</p><p class=\"jc-com\">Na prática policial, a droga apreendida com o usuário de maconha deve ser <b>apreendida</b>, e o usuário é notificado para comparecer em juízo, sem lavratura de termo circunstanciado criminal, sem condução para fins penais e sem registro como crime. A autoridade policial, havendo indícios de tráfico, deve demonstrá-los <b>expressamente</b> no auto, justificando por que afastou a presunção de uso. Em prova, desconfie da frase \"o STF descriminalizou o porte de drogas para consumo\": está <b>incompleta</b> (só maconha) e imprecisa (continua ilícito administrativo).</p></div>\n<h3>3. Art. 28: regras complementares e procedimento</h3>\n<ul><li><b>Critérios para distinguir uso de tráfico</b> (art. 28, § 2º): o juiz atenderá à <b>natureza e à quantidade</b> da substância apreendida, ao <b>local</b> e às <b>condições</b> em que se desenvolveu a ação, às <b>circunstâncias sociais e pessoais</b>, bem como à <b>conduta</b> e aos <b>antecedentes</b> do agente. Nenhum critério isolado é decisivo; a análise é <b>global</b>.</li><li><b>Prazos</b> (§§ 3º e 4º): a prestação de serviços e a medida educativa duram no máximo <b>5 meses</b>; na <b>reincidência</b>, até <b>10 meses</b>. A jurisprudência do STJ entende que essa reincidência é a <b>específica</b> (nova condenação pelo art. 28).</li><li><b>Descumprimento</b> (§ 6º): para garantir o cumprimento das medidas, o juiz pode submeter o agente, sucessivamente, a <b>admoestação verbal</b> e <b>multa</b>. Não existe conversão em prisão.</li><li><b>Tratamento</b> (§ 7º): o juiz determinará ao Poder Público que coloque à disposição do infrator, <b>gratuitamente</b>, estabelecimento de saúde, preferencialmente ambulatorial, para tratamento especializado.</li><li><b>Prescrição</b> (art. 30): prescrevem em <b>2 anos</b> a imposição e a execução das penas do art. 28, observadas as causas interruptivas do CP.</li><li><b>Procedimento</b> (art. 48, §§ 1º a 5º): o usuário é processado no <b>Juizado Especial Criminal</b> (Lei 9.099/1995), salvo se houver concurso com os crimes dos arts. 33 a 37. <b>Não se imporá prisão em flagrante</b>: o autor será encaminhado ao juízo competente ou, na falta, assumirá o compromisso de comparecer, lavrando-se <b>termo circunstanciado</b> (para drogas que não a maconha). O MP pode propor a aplicação <b>imediata</b> das penas do art. 28 (transação penal).</li></ul>\n<table class=\"tab\"><thead><tr><th>Comparação</th><th>Usuário de maconha (Tema 506)</th><th>Usuário de outras drogas (art. 28)</th></tr></thead><tbody><tr><td>Natureza</td><td>ilícito <b>administrativo</b></td><td><b>crime</b> de menor potencial ofensivo</td></tr><tr><td>Documento policial</td><td>apreensão + notificação para comparecer em juízo</td><td><b>termo circunstanciado</b></td></tr><tr><td>Prisão em flagrante</td><td>vedada</td><td>vedada a <b>prisão</b> (só condução e TC)</td></tr><tr><td>Medidas</td><td>advertência e programa educativo</td><td>advertência, prestação de serviços e programa educativo</td></tr><tr><td>Antecedentes e reincidência</td><td><b>não</b> gera</td><td>pode gerar (há controvérsia, ver abaixo)</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · art. 28 e reincidência</b><p class=\"jc-tese\">A condenação anterior pelo art. 28 <b>não</b> deve ser usada para caracterizar <b>reincidência</b> em crime posterior, segundo a jurisprudência do STJ.</p><p class=\"jc-com\">O STJ (a partir de 2018) passou a entender desproporcional que uma infração punida apenas com advertência ou medida educativa gere reincidência, se nem mesmo a contravenção penal, punida com prisão simples, gera reincidência para crime (CP, art. 63, e LCP, art. 7º). Com o Tema 506, para a maconha, a questão ficou ainda mais clara: não há repercussão criminal.</p></div>\n<h3>4. O crime de tráfico: art. 33, caput</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 11.343/2006, art. 33, caput (resumo)</div><div class=\"art-lei\">Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar. Pena: reclusão de 5 a 15 anos e pagamento de 500 a 1.500 dias-multa.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>18 verbos</b> (tipo misto <b>alternativo</b>: praticar vários verbos no mesmo contexto é <b>um só</b> crime)</li><li>\"<b>Ainda que gratuitamente</b>\": não exige lucro</li><li>Crime de <b>perigo abstrato</b>: o bem jurídico é a <b>saúde pública</b></li><li>Pena mínima de <b>5 anos</b>: não cabe acordo de não persecução penal (exige pena mínima inferior a 4)</li><li><b>Equiparado a hediondo</b> (CF, art. 5º, XLIII)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que o tráfico exige finalidade de lucro</li><li>A banca diz que vender e transportar a mesma droga são dois crimes</li><li>A banca inclui \"usar\" entre os verbos</li></ul></div></div>\n<ul><li><b>Tipo misto alternativo</b> (de conteúdo variado): se o agente <b>adquire</b>, <b>guarda</b> e depois <b>vende</b> a mesma porção de droga, comete <b>um único</b> crime de tráfico. Se, porém, os verbos recaem sobre <b>lotes distintos</b> em contextos diferentes, pode haver <b>concurso</b> de crimes.</li><li><b>Crime permanente</b> em várias modalidades: \"ter em depósito\", \"guardar\", \"transportar\" e \"trazer consigo\" prolongam a consumação no tempo. Consequência importantíssima: enquanto durar a permanência, o agente está em <b>flagrante delito</b> (CPP, art. 303), o que autoriza, em tese, o ingresso em domicílio sem mandado (CF, art. 5º, XI), <b>desde que</b> haja <b>fundadas razões</b>.</li><li><b>Consumação</b>: com a prática de qualquer verbo, independentemente de resultado. A tentativa é de difícil configuração, porque quase toda conduta preparatória já é um dos verbos (\"adquirir\", \"trazer consigo\"). O STJ admite tentativa em situações específicas, como na <b>aquisição</b> frustrada antes da tradição da droga, mas normalmente já haverá outro verbo consumado.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 280 (RE 603.616) · ingresso em domicílio</b><p class=\"jc-tese\">\"A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em <b>fundadas razões</b>, devidamente justificadas <b>a posteriori</b>, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados.\"</p><p class=\"jc-com\">A tese é central para quem atua na rua. O STJ tem sido rigoroso: <b>denúncia anônima</b> isolada, <b>fuga</b> ao avistar a viatura, \"atitude suspeita\" ou o fato de o local ser conhecido como ponto de tráfico, <b>sozinhos</b>, não justificam a entrada. É preciso investigação prévia, campana, informações concretas ou flagrante visível. O <b>consentimento</b> do morador deve ser livre e, de preferência, documentado (o STJ chegou a recomendar registro em vídeo e por escrito; a forma de comprovar a voluntariedade ainda gera debate nos tribunais superiores, mas o ônus de prová-la é do <b>Estado</b>). Provas obtidas com entrada ilegal são <b>nulas</b>, assim como as delas derivadas.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A fuga do suspeito ao ver a polícia, por si só, autoriza a entrada na casa dele</span><br>✅ <span class=\"certo\">O STJ exige <b>fundadas razões</b> concretas</span></li><li>❌ <span class=\"banca\">Como o tráfico é permanente, a polícia pode entrar em qualquer casa sem mandado</span><br>✅ <span class=\"certo\">Só com fundadas razões de que <b>ali</b> ocorre o flagrante</span></li><li>❌ <span class=\"banca\">A entrada só é lícita durante o dia</span><br>✅ <span class=\"certo\">No flagrante, pode ser <b>a qualquer hora</b></span></li></ol></div>\n<h3>5. Figuras equiparadas ao tráfico: art. 33, § 1º</h3>\n<ul><li>O § 1º prevê condutas com a <b>mesma pena</b> do caput (5 a 15 anos), também equiparadas a hediondo:</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Conduta</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>I</b></td><td>importar, exportar, remeter, produzir, fabricar, adquirir, vender, expor à venda, oferecer, fornecer, ter em depósito, transportar, trazer consigo ou guardar <b>matéria-prima, insumo ou produto químico</b> destinado à preparação de drogas</td><td>quem guarda tambores de solvente e acetona para refino de cocaína</td></tr><tr><td><b>II</b></td><td><b>semear, cultivar ou fazer a colheita</b> de plantas que se constituam em matéria-prima para drogas</td><td>plantação de maconha para venda</td></tr><tr><td><b>III</b></td><td><b>utilizar</b> local ou bem de qualquer natureza de que tem a propriedade, posse, administração, guarda ou vigilância, ou <b>consentir</b> que outrem dele se utilize, ainda que gratuitamente, para o tráfico</td><td>dono de bar que deixa o traficante vender no estabelecimento</td></tr><tr><td><b>IV</b></td><td><b>vender ou entregar</b> drogas ou matéria-prima, insumo ou produto químico, sem autorização, a <b>agente policial disfarçado</b>, quando presentes elementos probatórios razoáveis de <b>conduta criminal preexistente</b></td><td>traficante que vende a policial à paisana em operação (Lei 13.964/2019)</td></tr></tbody></table>\n<ul><li><b>Matéria-prima e insumo</b> (inciso I): não precisam ser, por si, drogas listadas; basta que se destinem à <b>preparação</b> de drogas e tenham essa aptidão. O STJ já reconheceu o crime com a posse de grande quantidade de produtos químicos com destinação comprovada ao refino.</li><li><b>Cultivo</b> (inciso II) x <b>art. 28, § 1º</b>: a diferença está na <b>finalidade</b> e na <b>quantidade</b>. Cultivo para consumo pessoal, de pequena quantidade, é art. 28, § 1º (e, para a maconha, até 6 plantas-fêmeas, a presunção do Tema 506). Cultivo para venda é tráfico.</li><li><b>Cultivo para fins medicinais</b>: o STJ concedeu <b>salvo-conduto</b> a pacientes com prescrição médica para o cultivo doméstico de cannabis para extração de óleo medicinal, entendendo ausente a tipicidade material, diante da omissão regulamentar da Anvisa. Também admite a importação de sementes em pequena quantidade como conduta <b>atípica</b> (as sementes não contêm THC).</li><li><b>Agente disfarçado</b> (inciso IV): não se confunde com o <b>flagrante preparado</b> (Súmula 145 do STF: \"não há crime quando a preparação do flagrante pela polícia torna impossível a sua consumação\"). Aqui, o policial <b>não induz</b> o crime: ele apenas se apresenta como comprador a alguém que <b>já</b> vendia drogas (conduta criminal <b>preexistente</b>). Ainda que a venda ao policial seja \"impossível\" de se consumar, o traficante já praticou antes outros verbos (ter em depósito, trazer consigo), e o inciso IV tipifica a própria venda.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · flagrante preparado x agente disfarçado</b><p class=\"jc-tese\">Se o policial <b>provoca</b> alguém que não traficava a conseguir e vender a droga, há <b>flagrante preparado</b> e crime impossível (Súmula 145 do STF) quanto à venda.</p><p class=\"jc-com\">Mas o STJ ressalva: se o agente <b>já trazia consigo</b> ou <b>tinha em depósito</b> a droga antes do contato policial, o crime de tráfico já estava <b>consumado</b> por esses verbos, e o flagrante é válido. A novidade do inciso IV (2019) foi tornar típica a própria venda ao policial disfarçado, desde que haja indícios de conduta criminosa <b>preexistente</b>. Para a FGV, guarde a palavra-chave: <b>preexistente</b>.</p></div>\n<h3>6. Induzimento, uso compartilhado e outras figuras do art. 33</h3>\n<ul><li><b>§ 2º, induzir, instigar ou auxiliar</b> alguém ao uso indevido de droga: <b>detenção de 1 a 3 anos</b> e multa. Não é equiparado a hediondo. O STF, na <b>ADI 4.274</b> (2011), deu <b>interpretação conforme</b> à Constituição para excluir do tipo as <b>manifestações e eventos públicos</b> em defesa da <b>legalização</b> das drogas (a \"Marcha da Maconha\"), protegidos pela liberdade de expressão e de reunião.</li><li><b>§ 3º, oferecer droga eventualmente e sem objetivo de lucro a pessoa de seu relacionamento, para juntos a consumirem</b> (uso compartilhado): <b>detenção de 6 meses a 1 ano</b> e multa, <b>sem prejuízo</b> das penas do art. 28. Exige quatro requisitos <b>cumulativos</b>: (1) <b>eventualidade</b>; (2) <b>sem objetivo de lucro</b>; (3) pessoa do <b>relacionamento</b> do agente; (4) para <b>juntos</b> consumirem. Faltando qualquer um, é <b>tráfico</b> (caput). É infração de <b>menor potencial ofensivo</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Oferecer droga a um desconhecido numa festa, para consumirem juntos, é o crime do § 3º</span><br>✅ <span class=\"certo\">Exige pessoa do <b>relacionamento</b> do agente; com desconhecido, é tráfico</span></li><li>❌ <span class=\"banca\">Participar da \"Marcha da Maconha\" configura o crime do § 2º</span><br>✅ <span class=\"certo\">STF, ADI 4.274: <b>não</b> configura</span></li><li>❌ <span class=\"banca\">Fornecer droga gratuitamente a um amigo para ele usar sozinho é o § 3º</span><br>✅ <span class=\"certo\">O § 3º exige consumo <b>conjunto</b>; sozinho, é tráfico (\"ainda que gratuitamente\")</span></li></ol></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Baseado na festa</b><p>Durante um churrasco entre colegas de faculdade, Lucas oferece a um amigo de longa data um cigarro de maconha, para fumarem juntos. Não cobra nada e não costuma fazer isso. Qual o enquadramento?</p><details><summary>Ver a solução comentada</summary><p>Em tese, <b>art. 33, § 3º</b> (uso compartilhado): oferta <b>eventual</b>, <b>sem lucro</b>, a pessoa do seu <b>relacionamento</b>, para <b>juntos</b> consumirem. Pena de detenção de 6 meses a 1 ano, sem prejuízo do art. 28. Atenção: se ele levasse vários cigarros para \"distribuir\" a quem chegasse, ou cobrasse \"a parte\" de cada um, a figura seria a do <b>caput</b> (tráfico).</p></details></div>\n<h3>7. Tráfico privilegiado: art. 33, § 4º</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 11.343/2006, art. 33, § 4º (resumo)</div><div class=\"art-lei\">Nos delitos definidos no caput e no § 1º, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>Quatro requisitos cumulativos</b>: primário + bons antecedentes + não se dedica a atividades criminosas + não integra organização criminosa</li><li>Redução de <b>1/6 a 2/3</b> (causa de diminuição, 3ª fase da dosimetria)</li><li>Aplica-se ao caput <b>e</b> ao § 1º</li><li><b>Não</b> é hediondo (STF, HC 118.533; LEP, art. 112, § 5º)</li><li>A expressão \"vedada a conversão em penas restritivas de direitos\" foi <b>suspensa</b> pelo Senado (Resolução 5/2012)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que basta ser primário</li><li>A banca diz que o privilegiado é equiparado a hediondo</li><li>A banca diz que não cabe substituição por restritivas</li></ul></div></div>\n<ul><li>Com a redução máxima (2/3) sobre a pena mínima (5 anos), a pena chega a <b>1 ano e 8 meses</b>, permitindo <b>regime aberto</b> e <b>substituição</b> por penas restritivas de direitos. Por isso o § 4º é decisivo na vida do condenado.</li><li><b>Critério da fração</b>: a lei não diz como escolher entre 1/6 e 2/3. A jurisprudência admite usar a <b>natureza e a quantidade</b> da droga (art. 42) para modular a fração, <b>desde que</b> essas circunstâncias não tenham sido usadas também na <b>1ª fase</b> (pena-base), sob pena de <b>bis in idem</b> (STF, Tema 712, ARE 666.334).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Tema repetitivo 1.139</b><p class=\"jc-tese\">\"É vedada a utilização de <b>inquéritos e/ou ações penais em curso</b> para impedir a aplicação do art. 33, § 4º, da Lei 11.343/2006.\"</p><p class=\"jc-com\">A dedicação a atividades criminosas precisa ser demonstrada por elementos <b>concretos</b> do próprio caso (por exemplo, apreensão de cadernos de contabilidade do tráfico, grande estrutura, prova de comércio habitual). Processos em andamento não servem, em respeito à <b>presunção de inocência</b>. Para o delegado e o investigador, isso significa: o relatório e as provas da investigação devem mostrar a <b>habitualidade</b> concreta se a intenção é afastar o privilégio.</p></div>\n<ul><li><b>Quantidade de droga isolada</b>: o STF e o STJ entendem que a quantidade, <b>por si só</b>, não basta para concluir que o agente se dedica a atividades criminosas ou integra organização criminosa, embora possa, com outros elementos, servir para isso, ou para escolher a fração mínima.</li><li><b>\"Mula\"</b>: o transportador eventual, recrutado para levar droga, pode receber o privilégio. O STF entende que a condição de \"mula\", isoladamente, não comprova integração a organização criminosa.</li></ul>\n<h3>8. Os demais crimes: arts. 34 a 39</h3>\n<table class=\"tab\"><thead><tr><th>Art.</th><th>Crime</th><th>Pena</th><th>Rigor do art. 44 e hediondez</th></tr></thead><tbody><tr><td><b>34</b></td><td>fabricar, adquirir, utilizar, transportar, oferecer, vender, distribuir, entregar, possuir, guardar ou fornecer <b>maquinário, aparelho, instrumento</b> ou objeto destinado à fabricação, preparação, produção ou transformação de drogas</td><td>reclusão de 3 a 10 anos</td><td>art. 44 sim; a doutrina majoritária o trata como <b>equiparado</b> (\"tráfico de maquinário\")</td></tr><tr><td><b>35</b></td><td><b>associarem-se duas ou mais pessoas</b> para praticar, reiteradamente ou não, os crimes dos arts. 33, caput e § 1º, e 34</td><td>reclusão de 3 a 10 anos</td><td>art. 44 sim; <b>não</b> é equiparado (STJ)</td></tr><tr><td><b>36</b></td><td><b>financiar ou custear</b> a prática dos crimes dos arts. 33, caput e § 1º, e 34</td><td>reclusão de <b>8 a 20 anos</b></td><td>art. 44 sim; em regra tratado como <b>equiparado</b></td></tr><tr><td><b>37</b></td><td>colaborar, como <b>informante</b>, com grupo, organização ou associação destinados à prática dos crimes dos arts. 33 e 34</td><td>reclusão de 2 a 6 anos</td><td>art. 44 sim; equiparação <b>discutida</b> na doutrina</td></tr><tr><td><b>38</b></td><td><b>prescrever ou ministrar culposamente</b> drogas, sem necessidade ou em doses excessivas ou em desacordo com regulamento (médico, dentista, farmacêutico, enfermeiro)</td><td>detenção de 6 meses a 2 anos</td><td>não</td></tr><tr><td><b>39</b></td><td><b>conduzir embarcação ou aeronave</b> após o consumo de drogas, expondo a dano potencial a incolumidade de outrem</td><td>detenção de 6 meses a 3 anos, apreensão do veículo e cassação da habilitação</td><td>não</td></tr></tbody></table>\n<ul><li><b>Art. 34</b> (maquinário): pune a <b>estrutura</b> do laboratório (prensas, balanças industriais, estufas). Se o agente também tem a droga, o STJ costuma entender que o art. 34 fica <b>absorvido</b> pelo art. 33 quando os objetos são usados no mesmo contexto do tráfico; haverá concurso se os instrumentos demonstrarem autonomia e potencial lesivo próprio (um laboratório completo, por exemplo).</li><li><b>Art. 35</b> (associação para o tráfico): bastam <b>duas</b> pessoas (no art. 288 do CP são três). Exige <b>estabilidade e permanência</b> do vínculo: o simples concurso eventual de agentes para um tráfico <b>não</b> configura associação. É crime <b>autônomo</b>: responde por associação + tráfico, em concurso material, quem se associa e trafica. O <b>parágrafo único</b> pune com as mesmas penas a associação para a prática <b>reiterada</b> do crime de <b>financiamento</b> (art. 36).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · associação exige estabilidade</b><p class=\"jc-tese\">\"Para a caracterização do crime de associação para o tráfico é imprescindível o dolo de se associar com <b>estabilidade e permanência</b>, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do art. 35.\"</p><p class=\"jc-com\">A expressão \"reiteradamente ou não\" do tipo confunde: ela se refere aos <b>crimes visados</b>, não ao vínculo. Mesmo que o grupo pretenda praticar um único tráfico, deve haver uma <b>sociedade</b> estável. Na investigação, o vínculo associativo se prova com interceptações, divisão de tarefas, frequência de contatos, caixa comum.</p></div>\n<ul><li><b>Art. 36</b> (financiamento): é o crime de <b>maior pena</b> da lei (8 a 20 anos). Pune o \"investidor\" do tráfico. Se o financiador também pratica o tráfico, o STJ entende que <b>não</b> há concurso: aplica-se o art. 33 com a <b>majorante</b> do art. 40, VII (\"o agente financiar ou custear a prática do crime\"). O art. 36 fica para quem <b>só</b> financia.</li><li><b>Art. 37</b> (informante): é o \"<b>olheiro</b>\" ou \"fogueteiro\" que avisa o grupo sobre a chegada da polícia. Se o informante integra a associação de forma estável, responde pelo art. 35 (que absorve o 37), segundo o STJ.</li><li><b>Art. 38</b> é o único crime <b>culposo</b> da lei. O juiz comunicará a condenação ao <b>Conselho Federal</b> da categoria profissional (parágrafo único).</li></ul>\n<h3>9. Causas de aumento: art. 40</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 11.343/2006, art. 40 (resumo)</div><div class=\"art-lei\">As penas dos arts. 33 a 37 são aumentadas de um sexto a dois terços, se: I, a natureza, a procedência da substância e as circunstâncias do fato evidenciarem a transnacionalidade do delito; II, o agente praticar o crime prevalecendo-se de função pública ou no desempenho de missão de educação, poder familiar, guarda ou vigilância; III, a infração tiver sido cometida nas dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares, de sedes de entidades estudantis, sociais, culturais, recreativas, esportivas ou beneficentes, de locais de trabalho coletivo, de recintos onde se realizem espetáculos ou diversões, de serviços de tratamento de dependentes ou de reinserção social, de unidades militares ou policiais ou em transportes públicos; IV, o crime tiver sido praticado com violência, grave ameaça, emprego de arma de fogo, ou qualquer processo de intimidação difusa ou coletiva; V, caracterizado o tráfico entre Estados da Federação ou entre estes e o Distrito Federal; VI, sua prática envolver ou visar a atingir criança ou adolescente ou a quem tenha, por qualquer motivo, diminuída ou suprimida a capacidade de entendimento e determinação; VII, o agente financiar ou custear a prática do crime.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Fração de <b>1/6 a 2/3</b></li><li>Não se aplica ao art. 28 nem ao art. 38 e 39</li><li>Inciso I (transnacional) e V (interestadual) <b>não exigem</b> a efetiva transposição da fronteira (Súmulas 607 e 587 do STJ)</li><li>Inciso IV: a arma de fogo usada no tráfico afasta o concurso com o porte (absorção pela majorante), salvo contexto autônomo</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que o tráfico transnacional exige que a droga cruze a fronteira</li><li>A banca diz que a majorante se aplica ao usuário</li></ul></div></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmulas 607 e 587</b><p class=\"jc-tese\">Súmula 607: \"A majorante do tráfico <b>transnacional</b> de drogas (art. 40, I) se configura com a prova da destinação internacional das drogas, ainda que não consumada a transposição de fronteiras.\" Súmula 587: \"Para a incidência da majorante do art. 40, V, é <b>desnecessária</b> a efetiva transposição de fronteiras entre estados da federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.\"</p><p class=\"jc-com\">Prende-se a \"mula\" no aeroporto de Confins com cocaína e passagem para Lisboa: já há tráfico transnacional, com competência da <b>Justiça Federal</b> (CF, art. 109, V). Prende-se o transportador em Uberaba com droga destinada a Goiânia: incide a majorante interestadual, mesmo sem ter cruzado a divisa, e a competência é da <b>Justiça Estadual</b>.</p></div>\n<ul><li><b>Inciso III (imediações de escolas, presídios etc.)</b>: o STJ entende que basta o crime ocorrer nas <b>imediações</b>, sem necessidade de provar que o agente visava os frequentadores; mas tem afastado a majorante quando o fato ocorre em dia ou horário em que o estabelecimento estava <b>fechado</b> e sem circulação de pessoas (por exemplo, escola em domingo), por ausência do risco que justifica o aumento. Tráfico <b>dentro do presídio</b> (droga levada por visitante) atrai o inciso III.</li><li><b>Inciso VI (criança ou adolescente)</b>: se o traficante <b>usa</b> adolescente no tráfico, incide a majorante. Há debate sobre o concurso com o crime de <b>corrupção de menores</b> (ECA, art. 244-B): o STJ entende que, havendo a majorante do art. 40, VI, <b>não</b> se aplica cumulativamente o art. 244-B pelo mesmo fato (para evitar bis in idem), salvo se a corrupção se referir a outro crime.</li><li><b>Art. 40-A</b> (Lei <b>15.358/2026</b>): as penas dos arts. <b>33 a 37</b> são aplicadas <b>em dobro</b> quando o crime for praticado por integrante de <b>organização criminosa ultraviolenta</b>, grupo paramilitar ou milícia privada, no contexto do domínio social estruturado. Havendo emprego de arma de fogo, aplica-se o <b>concurso material</b> com o crime de armas (parágrafo único), em vez da absorção.</li><li><b>Lei 10.826/2003, art. 21-A</b> (também da Lei 15.358/2026): aumenta de <b>2/3</b> as penas da posse e do porte de arma (arts. 12, 14 e 16) quando o crime estiver em concurso com o tráfico ou ligado ao comércio de drogas.</li></ul>\n<h3>10. Colaboração, dosimetria e vedações: arts. 41 a 47</h3>\n<ul><li><b>Art. 41</b> (colaboração premiada): o indiciado ou acusado que colaborar <b>voluntariamente</b> com a investigação e o processo na <b>identificação dos demais coautores ou partícipes</b> e na <b>recuperação total ou parcial do produto do crime</b> terá a pena <b>reduzida de 1/3 a 2/3</b>. A lei usa \"e\", e a doutrina discute se os resultados são cumulativos; a jurisprudência tende a exigir <b>efetividade</b> da colaboração. Não há previsão de perdão judicial (diferente da Lei 12.850/2013, que pode ser aplicada se houver organização criminosa).</li><li><b>Art. 42</b> (preponderância): na fixação da pena, o juiz considerará, <b>com preponderância</b> sobre o art. 59 do CP, a <b>natureza e a quantidade</b> da substância, a <b>personalidade</b> e a <b>conduta social</b> do agente. Exemplo: 1 kg de crack justifica pena-base maior que 1 kg de maconha, pela maior nocividade.</li><li><b>Art. 43</b> (multa): o juiz fixará o número de dias-multa atribuindo a cada um valor não inferior a <b>1/30</b> nem superior a <b>5 vezes</b> o maior salário mínimo, segundo a condição econômica do acusado; as multas podem ser aumentadas <b>até o décuplo</b> se ineficazes em razão da situação econômica do réu.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 11.343/2006, art. 44 (resumo)</div><div class=\"art-lei\">Os crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos. Parágrafo único: nos crimes previstos no caput deste artigo, dar-se-á o livramento condicional após o cumprimento de dois terços da pena, vedada sua concessão ao reincidente específico.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>Inafiançáveis</b>: válido</li><li><b>Graça, indulto, anistia</b>: vedados, válido</li><li><b>Liberdade provisória</b>: vedação <b>inconstitucional</b> (STF, Tema 959)</li><li><b>Conversão em restritivas</b>: vedação inconstitucional (HC 97.256) e suspensa pelo Senado no § 4º do art. 33</li><li><b>Sursis</b>: a vedação continua no texto e é aplicada por parte da jurisprudência; na prática raramente importa, pois no privilegiado com pena até 4 anos prefere-se a <b>substituição</b> por restritivas</li><li><b>Livramento</b>: 2/3, vedado ao reincidente <b>específico</b> (em crimes da Lei de Drogas)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca repete a letra do art. 44 e pergunta se a liberdade provisória é vedada: pela jurisprudência, <b>não</b> é</li></ul></div></div>\n<ul><li><b>Reincidente específico</b> no art. 44, parágrafo único: para o STJ, é o reincidente em qualquer dos crimes do art. 44 (arts. 33 a 37), não necessariamente o mesmo artigo. Condenado antes por tráfico que comete associação para o tráfico, por exemplo, não terá livramento.</li><li><b>Arts. 45 a 47</b> (dependência): é <b>isento de pena</b> o agente que, em razão da <b>dependência</b>, ou sob o efeito, proveniente de <b>caso fortuito ou força maior</b>, de droga, era, ao tempo da ação ou omissão, qualquer que tenha sido a infração penal, <b>inteiramente incapaz</b> de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento (art. 45). Se a capacidade era apenas <b>reduzida</b>, a pena pode ser <b>diminuída de 1/3 a 2/3</b> (art. 46). Comprovada a dependência, o juiz pode determinar o <b>encaminhamento a tratamento</b> (art. 45, parágrafo único, e art. 47).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · art. 45 x art. 26 do CP</b><p class=\"jc-tese\">O art. 45 da Lei de Drogas vale para <b>qualquer infração penal</b> (\"qualquer que tenha sido a infração\"), não só para os crimes da Lei de Drogas. Diferentemente do art. 26 do CP, a absolvição pelo art. 45 <b>não</b> gera medida de segurança: o juiz pode determinar <b>tratamento</b> adequado.</p><p class=\"jc-com\">Exemplo: um dependente grave de crack, em abstinência intensa, furta para comprar droga. Se a perícia concluir que ele era <b>inteiramente</b> incapaz de se determinar, é isento de pena (art. 45). A <b>embriaguez voluntária</b> por droga (o agente usou porque quis, sem dependência) <b>não</b> isenta de pena (actio libera in causa, CP, art. 28, II), assim como no álcool. A banca costuma cobrar a diferença entre <b>dependência</b> ou <b>caso fortuito/força maior</b> (isenta) e <b>uso voluntário</b> (não isenta).</p></div>\n<h3>11. O procedimento especial: inquérito</h3>\n<ul><li><b>Laudo de constatação</b> (art. 50, § 1º): para lavrar o <b>auto de prisão em flagrante</b> e estabelecer a <b>materialidade</b> do delito, é <b>suficiente</b> o laudo de constatação da natureza e quantidade da droga, firmado por <b>perito oficial</b> ou, na falta deste, por <b>pessoa idônea</b>. O perito que subscrever o laudo de constatação <b>não fica impedido</b> de participar da elaboração do laudo definitivo (§ 2º).</li><li><b>Comunicação</b>: o delegado comunica a prisão <b>imediatamente</b> ao juiz, que dará vista ao MP em 24 horas (art. 50, caput). Hoje, a regra geral é a apresentação na <b>audiência de custódia</b>.</li><li><b>Destruição da droga</b> (art. 50, §§ 3º a 5º): recebida a cópia do auto de prisão, o juiz certificará a regularidade do laudo de constatação em <b>10 dias</b> e determinará a <b>destruição</b> das drogas apreendidas, guardando-se <b>amostra</b> necessária ao laudo definitivo. A destruição será executada pelo <b>delegado</b> em <b>15 dias</b>, na presença do MP e da autoridade sanitária. Nos casos <b>sem prisão em flagrante</b>, a droga apreendida deve ser <b>incinerada em até 30 dias</b> da apreensão, guardando-se amostra (art. 50-A).</li></ul>\n<table class=\"tab\"><thead><tr><th>Prazo do inquérito (art. 51)</th><th>Investigado preso</th><th>Investigado solto</th></tr></thead><tbody><tr><td>Regra</td><td><b>30 dias</b></td><td><b>90 dias</b></td></tr><tr><td>Duplicação</td><td>pode ser <b>duplicado</b> pelo juiz, ouvido o MP, mediante pedido justificado do delegado</td><td>idem</td></tr><tr><td>Total máximo</td><td>60 dias</td><td>180 dias</td></tr><tr><td>Comparação com o CPP</td><td>10 dias (preso) e 30 dias (solto)</td></tr></tbody></table>\n<ul><li><b>Relatório</b> (art. 52): findo o prazo, o delegado remete os autos ao juízo <b>relatando sumariamente</b> as circunstâncias do fato, <b>justificando as razões</b> que o levaram à <b>classificação</b> do delito, indicando a <b>quantidade e natureza</b> da substância, o <b>local e as condições</b> da ação, as circunstâncias da prisão, a conduta, a qualificação e os antecedentes do agente (inciso I), <b>ou</b> requerendo a devolução dos autos para <b>diligências</b> necessárias (inciso II). Diligências complementares podem continuar, devendo ser remetidas ao juízo até <b>3 dias antes</b> da audiência de instrução e julgamento.</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Classificação justificada</b><p>A Lei de Drogas é uma das poucas que obriga o delegado a <b>justificar</b> por que classificou o fato como tráfico ou uso. Isso ganhou ainda mais importância com o Tema 506: se a quantidade de maconha é inferior a 40 g e mesmo assim o delegado autua por tráfico, o auto precisa apontar <b>expressamente</b> os elementos que afastam a presunção de uso (balança, embalagens, dinheiro fracionado, mensagens, denúncias corroboradas, vigilância que flagrou vendas).</p></div>\n<h3>12. Técnicas especiais de investigação: art. 53</h3>\n<ul><li>Em qualquer fase da persecução, mediante <b>autorização judicial</b> e ouvido o <b>MP</b>, são permitidos, além de outros procedimentos legais:</li><li><b>I, infiltração</b> por agentes de polícia, em tarefas de investigação, constituída pelos órgãos especializados pertinentes;</li><li><b>II, não atuação policial</b> sobre os portadores de drogas, seus precursores químicos ou outros produtos utilizados em sua produção, que se encontrem no território brasileiro, com a finalidade de identificar e responsabilizar maior número de integrantes de operações de tráfico e distribuição, sem prejuízo da ação penal cabível. É a <b>ação controlada</b> (ou <b>flagrante diferido/retardado</b>). Na Lei de Drogas, exige <b>autorização judicial</b> e que sejam conhecidos o <b>itinerário provável</b> e a <b>identificação</b> dos agentes ou colaboradores (parágrafo único).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na Lei de Drogas, a ação controlada dispensa autorização judicial, bastando comunicação ao juiz</span><br>✅ <span class=\"certo\">Na Lei de Drogas exige <b>autorização</b> judicial; na Lei 12.850, basta <b>comunicação</b> prévia</span></li><li>❌ <span class=\"banca\">O perito que fez o laudo de constatação não pode fazer o laudo definitivo</span><br>✅ <span class=\"certo\"><b>Pode</b> (art. 50, § 2º)</span></li><li>❌ <span class=\"banca\">O inquérito com investigado preso deve terminar em 10 dias</span><br>✅ <span class=\"certo\">Na Lei de Drogas, <b>30</b> dias, duplicáveis</span></li></ol></div>\n<h3>13. O procedimento especial: processo</h3>\n<div class=\"lt-fluxo\"><span>Inquérito concluído (30/90 dias)</span> <em>→</em> <span>MP: denúncia em <b>10 dias</b> (até 5 testemunhas)</span> <em>→</em> <span>Notificação do acusado para <b>defesa prévia</b> em <b>10 dias</b></span> <em>→</em> <span>Juiz decide em 5 dias: recebe ou rejeita a denúncia</span> <em>→</em> <span>Citação e audiência de instrução em até <b>30 dias</b> (90 se houver exame de dependência)</span> <em>→</em> <span>Instrução: testemunhas, debates (20 + 10 min) e <b>interrogatório ao final</b></span> <em>→</em> <span>Sentença na audiência ou em 10 dias</span></div>\n<ul><li><b>Art. 54</b>: recebidos os autos do inquérito, o MP, em <b>10 dias</b>, pode requerer o <b>arquivamento</b>, requisitar <b>diligências</b> ou oferecer <b>denúncia</b>, arrolando até <b>5 testemunhas</b>.</li><li><b>Art. 55 (defesa prévia)</b>: oferecida a denúncia, o juiz ordena a <b>notificação</b> do acusado para oferecer <b>defesa prévia</b>, por escrito, em <b>10 dias</b>, antes do recebimento da denúncia. Na defesa, o acusado pode arguir preliminares, invocar exceções, oferecer documentos e arrolar até <b>5 testemunhas</b>. Se não apresentar, o juiz nomeia defensor.</li><li><b>Diferença em relação ao CPP</b>: no procedimento comum, a resposta à acusação vem <b>depois</b> do recebimento da denúncia. Na Lei de Drogas, a defesa prévia vem <b>antes</b>: o juiz ouve a defesa para decidir se <b>recebe</b> a denúncia. A ausência de notificação para defesa prévia é <b>nulidade relativa</b>, segundo o STJ, exigindo demonstração de prejuízo.</li><li><b>Art. 56</b>: recebida a denúncia, o juiz designa dia e hora para a <b>audiência de instrução e julgamento</b>, ordena a citação do acusado, a intimação do MP e do assistente, e requisita os laudos periciais. Se o acusado for <b>funcionário público</b> denunciado pelos arts. 33, caput e § 1º, e 34 a 37, o juiz pode decretar seu <b>afastamento cautelar</b> das atividades (§ 1º).</li><li><b>Art. 57 (ordem da audiência)</b>: o texto da lei prevê o <b>interrogatório</b> no início, seguido das testemunhas. Mas o <b>STF</b> (HC 127.900, Plenário, 2016) decidiu que o <b>art. 400 do CPP</b>, que coloca o interrogatório como <b>último ato</b> da instrução, aplica-se a <b>todos</b> os procedimentos penais especiais, inclusive o da Lei de Drogas, por ser mais compatível com a <b>ampla defesa</b>. O STJ segue o mesmo entendimento.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · HC 127.900 · interrogatório ao final</b><p class=\"jc-tese\">O interrogatório do réu deve ser o <b>último ato</b> da instrução também nos procedimentos regidos por lei especial, como a Lei de Drogas, aplicando-se o art. 400 do CPP.</p><p class=\"jc-com\">O STF modulou os efeitos: a regra vale para os processos com instrução encerrada após a publicação da ata do julgamento (março de 2016). Fundamento: o réu só pode exercer plenamente a <b>autodefesa</b> depois de conhecer toda a prova produzida contra ele. Em prova, se a questão perguntar \"segundo a Lei 11.343\", a resposta literal é interrogatório no início; se perguntar \"segundo o STF\", é ao final. Leia o comando com atenção.</p></div>\n<ul><li><b>Art. 58 (sentença)</b>: encerrados os debates, o juiz profere sentença de imediato ou em <b>10 dias</b>. Ao proferir a sentença, o juiz, não tendo havido controvérsia sobre a natureza ou quantidade da substância, determina a <b>destruição</b> da droga remanescente.</li><li><b>Art. 59 (apelação)</b>: o texto exige que o réu se recolha à prisão para apelar, salvo se primário e de bons antecedentes. A regra é considerada <b>não recepcionada/incompatível</b> com a presunção de inocência: hoje vale o art. 387, § 1º, do CPP (o juiz decide, fundamentadamente, sobre a manutenção ou imposição da prisão). Súmula 347 do STJ: \"O conhecimento de recurso de apelação do réu independe de sua prisão.\"</li></ul>\n<h3>14. Competência</h3>\n<ul><li><b>Justiça Estadual</b>: regra geral, inclusive para o tráfico <b>interestadual</b>.</li><li><b>Justiça Federal</b>: tráfico <b>transnacional</b> (CF, art. 109, V; Lei 11.343, art. 70). Se o lugar do crime <b>não for sede</b> de vara federal, o processo tramita na vara federal da <b>circunscrição</b> respectiva (art. 70, parágrafo único).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 528 cancelada</b><p class=\"jc-tese\">A Súmula 528 do STJ dizia que a competência para julgar tráfico de droga importada <b>pelos Correios</b> era do juízo do local da <b>apreensão</b>. Foi <b>cancelada</b> (2017).</p><p class=\"jc-com\">Hoje o STJ fixa a competência no local de <b>destino</b> da droga (onde o destinatário a receberia), porque ali se consuma a <b>importação</b> e é onde está a prova e a facilidade da instrução. A competência continua sendo <b>federal</b>, por haver transnacionalidade.</p></div>\n<ul><li><b>Militares</b>: o tráfico praticado por militar em lugar sujeito à administração militar pode ser <b>crime militar</b> (CPM, art. 290, que prevê pena menor). O STF tem jurisprudência firme de que o <b>princípio da insignificância não se aplica</b> à posse de droga em ambiente militar, pela especial disciplina e hierarquia.</li><li><b>Insignificância no tráfico e no porte</b>: o STF e o STJ, em regra, <b>não</b> admitem insignificância no <b>tráfico</b> (crime de perigo abstrato contra a saúde pública), mesmo com pequena quantidade. No porte para consumo, a questão perdeu relevância para a maconha (Tema 506) e, para as demais drogas, também tende a ser afastada.</li></ul>\n<h3>15. Bens apreendidos e perdimento</h3>\n<ul><li><b>Apreensão de veículos e bens</b> usados no tráfico: o juiz pode autorizar o <b>uso</b> do bem apreendido por órgãos de polícia judiciária, militar e rodoviária, mediante autorização judicial, ouvido o MP (art. 62). Os órgãos de segurança que participaram das ações têm <b>prioridade</b>.</li><li><b>Alienação antecedente</b>: os bens podem ser vendidos <b>antecipadamente</b> para preservar seu valor (arts. 61 e 62), com depósito do produto em conta judicial.</li><li><b>Perdimento</b> (art. 63): na sentença condenatória, o juiz decide sobre o perdimento dos bens, que revertem ao <b>Funad</b> (Fundo Nacional Antidrogas). O art. 63-F prevê o <b>confisco alargado</b>: em crimes com pena máxima superior a 6 anos, havendo indícios de conduta criminosa <b>habitual, reiterada ou profissional</b>, ou de vinculação a organização criminosa, pode-se decretar a perda da <b>diferença</b> entre o patrimônio do condenado e aquele compatível com seu rendimento lícito.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 647 (RE 638.491)</b><p class=\"jc-tese\">\"É possível o <b>confisco</b> de todo e qualquer bem de valor econômico apreendido em decorrência do tráfico de drogas, <b>sem</b> a necessidade de se perquirir a <b>habitualidade, reiteração</b> do uso do bem para tal finalidade, a sua modificação para dificultar a descoberta do local do acondicionamento da droga ou qualquer outro requisito além daqueles previstos expressamente no art. 243, parágrafo único, da Constituição Federal.\"</p><p class=\"jc-com\">Exemplo: o carro usado <b>uma única vez</b> para transportar droga pode ser confiscado, sem necessidade de provar que tinha compartimento oculto ou era usado habitualmente. O fundamento é o art. 243, parágrafo único, da CF.</p></div>\n<ul><li><b>Expropriação de terras</b> (CF, art. 243, caput): as propriedades rurais e urbanas onde forem localizadas <b>culturas ilegais de plantas psicotrópicas</b> ou exploração de trabalho escravo serão <b>expropriadas</b> e destinadas à reforma agrária e a programas de habitação popular, <b>sem indenização</b>. O STF entende que a responsabilidade do proprietário é <b>subjetiva</b>, mas com <b>culpa presumida</b> (ele pode provar que não teve culpa, por exemplo, que a área foi invadida).</li></ul>\n<h3>16. Lei de Drogas na rotina policial</h3>\n<ul><li><b>Abordagem e busca pessoal</b>: a busca pessoal sem mandado exige <b>fundada suspeita</b> de que a pessoa oculte arma ou objeto que constitua corpo de delito (CPP, art. 244). O STJ (RHC 158.580, 2022) firmou que a suspeita deve ser baseada em <b>elementos objetivos</b> e descritos, não em impressões subjetivas, \"nervosismo\", \"tirocínio policial\" ou características da pessoa. Busca sem fundada suspeita gera <b>nulidade</b> da prova.</li><li><b>Ingresso em domicílio</b>: além do Tema 280 do STF, o STJ exige que as fundadas razões sejam <b>prévias</b> à entrada e <b>demonstradas</b>; o encontro posterior da droga <b>não</b> legitima a entrada ilegal (\"o resultado não convalida o meio\").</li><li><b>Celular apreendido</b>: o acesso ao conteúdo (mensagens de WhatsApp, fotos) do celular apreendido no flagrante exige <b>autorização judicial</b> ou <b>consentimento</b> válido, segundo a jurisprudência do STJ. A simples apreensão do aparelho é lícita, mas a \"olhadinha\" nas conversas sem autorização pode anular a prova.</li><li><b>Distinguir uso de tráfico no flagrante</b>: registre tudo que importa ao art. 28, § 2º: quantidade, forma de acondicionamento (porções iguais, \"buchas\", \"pinos\", \"trouxinhas\"), balança de precisão, dinheiro em notas trocadas, anotações, local conhecido de venda, campana anterior, abordagem de usuários. O relatório do art. 52 exige essa justificativa.</li><li><b>Drogas sintéticas e novas substâncias</b>: substâncias não listadas na Portaria 344/1998 <b>não</b> caracterizam crime da Lei de Drogas, ainda que tenham efeito psicoativo. O laudo deve identificar a substância e indicar sua previsão na lista.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Pinos na mochila</b><p>Em patrulhamento, a PM aborda um jovem que, ao ver a viatura, corre. Na mochila, encontram 25 pinos de cocaína, R$ 340,00 em notas de R$ 10 e R$ 20 e um celular que toca sem parar. Ele diz que é usuário. Qual o enquadramento e quais cuidados?</p><details><summary>Ver a solução comentada</summary><p>Os indícios (quantidade fracionada, dinheiro trocado, contexto) apontam para <b>tráfico</b> (art. 33, caput), não para uso. Cuidados: a <b>fuga</b>, segundo parte da jurisprudência do STJ, pode justificar a busca pessoal se acompanhada de outros elementos objetivos, mas isoladamente é questionável; o auto deve descrever com precisão por que houve a abordagem. O celular pode ser apreendido, mas o acesso às mensagens exige <b>autorização judicial</b>. Se ele for primário e sem outros elementos de dedicação ao crime, a defesa poderá pedir o <b>privilégio</b> (§ 4º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Maconha em casa</b><p>Um homem é flagrado em casa com 30 g de maconha e quatro pés da planta em vasos. Não há balança, embalagens nem outros indícios de venda. Qual o tratamento?</p><details><summary>Ver a solução comentada</summary><p>Pelo <b>Tema 506</b> do STF, presume-se <b>usuário</b> (até 40 g ou 6 plantas-fêmeas). Não há infração penal: a droga é apreendida e ele é <b>notificado</b> para comparecer em juízo, onde poderão ser aplicadas advertência e medida educativa em procedimento <b>não penal</b>. É vedado lavrar auto de prisão em flagrante ou termo circunstanciado. Se houvesse indícios concretos de venda, a autoridade poderia afastar a presunção, justificando no auto.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Cocaína no aeroporto</b><p>Uma mulher é presa no aeroporto de Confins antes de embarcar para a Europa com 3 kg de cocaína escondidos na mala. Qual o crime, a competência e as majorantes?</p><details><summary>Ver a solução comentada</summary><p><b>Tráfico</b> (art. 33, caput, verbo \"trazer consigo\" ou \"transportar\", já consumado) com a majorante da <b>transnacionalidade</b> (art. 40, I), mesmo sem cruzar a fronteira (Súmula 607 do STJ). Competência da <b>Justiça Federal</b> (art. 70 da Lei e art. 109, V, da CF), vara federal com jurisdição sobre o aeroporto. Se primária, sem antecedentes e sem prova de integração a organização criminosa, pode ter o <b>privilégio</b>, sendo a quantidade usada para modular a fração (sem bis in idem).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Olheiro do morro</b><p>Um adolescente de 15 anos é pago para soltar fogos sempre que a polícia sobe o morro, avisando os traficantes. O gerente da boca, maior de idade, o contratou. Como respondem?</p><details><summary>Ver a solução comentada</summary><p>O adolescente pratica <b>ato infracional</b> análogo ao crime de <b>informante</b> (art. 37), sujeito a medida socioeducativa. O gerente responde pelo tráfico com a majorante do art. 40, <b>VI</b> (envolver adolescente) e, se houver vínculo estável com outros, por <b>associação</b> (art. 35). Segundo o STJ, aplicada a majorante do art. 40, VI, não incide cumulativamente o crime de corrupção de menores (ECA, art. 244-B) pelo mesmo fato.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Facção com barricadas</b><p>Integrantes de uma facção que controla um bairro, impõe toque de recolher e ergue barricadas para impedir a polícia são presos vendendo drogas em 2026. O que muda com a Lei 15.358/2026?</p><details><summary>Ver a solução comentada</summary><p>Além do crime de <b>domínio social estruturado</b> (hediondo, 20 a 40 anos), o tráfico tem a pena aplicada <b>em dobro</b> (art. 40-A da Lei de Drogas), e o porte de arma ligado ao tráfico tem aumento de <b>2/3</b> (Estatuto, art. 21-A), em concurso material. Líderes podem ser transferidos para presídio federal. O fato precisa ser posterior à vigência da lei.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Carro usado uma vez</b><p>Um traficante usa o carro da própria esposa, uma única vez, para transportar 10 kg de maconha. O carro pode ser confiscado?</p><details><summary>Ver a solução comentada</summary><p>Pelo <b>Tema 647</b> do STF, o confisco de bem usado no tráfico <b>não</b> exige habitualidade nem adaptação do veículo. Mas, se o bem é de <b>terceiro de boa-fé</b> (a esposa, sem participação nem conhecimento), ela pode defender seu direito no processo, e o confisco não deve atingir quem não concorreu para o crime.</p></details></div>\n<h3>17. Linha do tempo das drogas no Direito brasileiro</h3>\n<div class=\"lt-fluxo\"><span>1976: Lei 6.368 (usuário punido com detenção)</span> <em>→</em> <span>2006: Lei 11.343 (despenalização do usuário, pena mínima do tráfico sobe para 5 anos, privilégio)</span> <em>→</em> <span>2010: STF libera restritivas no tráfico (HC 97.256)</span> <em>→</em> <span>2011: STF e a Marcha da Maconha (ADI 4.274)</span> <em>→</em> <span>2012: Senado suspende a vedação de restritivas (Res. 5)</span> <em>→</em> <span>2016: tráfico privilegiado não é hediondo (HC 118.533) e interrogatório ao final (HC 127.900)</span> <em>→</em> <span>2019: Leis 13.840 (tratamento) e 13.964 (agente disfarçado)</span> <em>→</em> <span>2022: STJ veda processos em curso para negar o privilégio (Tema 1.139)</span> <em>→</em> <span>2024: STF, Tema 506 (maconha até 40 g)</span> <em>→</em> <span>2026: Lei Antifacção (pena em dobro para facções ultraviolentas)</span></div>\n<h3>18. Mais jurisprudência essencial</h3>\n<div class=\"lt-juris\"><b class=\"lt-tit\">⚖ Jurisprudência</b><ul><li><b>Súmula 630 (STJ)</b>: a incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio</li><li><b>Súmula 501 (STJ)</b>: é cabível a aplicação retroativa da Lei 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei 6.368/1976, sendo <b>vedada a combinação de leis</b></li><li><b>STF, HC 118.533</b>: o tráfico privilegiado não é hediondo</li><li><b>STF, Tema 712 (ARE 666.334)</b>: natureza e quantidade da droga só podem ser consideradas em uma das fases da dosimetria</li><li><b>STJ, Tema 1.139</b>: inquéritos e ações em curso não afastam o privilégio</li><li><b>STF, Tema 959</b>: inconstitucional a vedação abstrata da liberdade provisória no tráfico</li><li><b>STF, Tema 280</b>: ingresso em domicílio exige fundadas razões, justificadas a posteriori</li><li><b>STF, Tema 506</b>: porte de maconha para uso não é infração penal; presunção relativa até 40 g ou 6 plantas-fêmeas</li><li><b>STF, Tema 647</b>: confisco de bens do tráfico independe de habitualidade</li></ul></div>\n<ul><li><b>Confissão no tráfico</b> (Súmula 630): se o preso diz \"a droga é minha, mas é para uso\", <b>não</b> confessou o tráfico; por isso, condenado por tráfico, não terá a atenuante da confissão. Isso tem reflexo direto no interrogatório policial: registre fielmente o que o conduzido admite.</li><li><b>Combinação de leis</b> (Súmula 501): para fatos anteriores a 2006, não se pode pegar a pena mínima menor da lei antiga (3 anos) e somar a redução do privilégio da lei nova; aplica-se <b>uma</b> lei por inteiro, a que for mais favorável no caso.</li><li><b>Drogas e trânsito</b>: dirigir veículo automotor sob influência de <b>substância psicoativa que determine dependência</b> é crime do <b>art. 306 do CTB</b>, e não da Lei de Drogas. A Lei de Drogas (art. 39) só trata de <b>embarcação e aeronave</b>. Também na rodovia, a constatação pode ser feita por exame, perícia, vídeo, prova testemunhal ou sinais de alteração da capacidade psicomotora, conforme regulamentação do CONTRAN.</li><li><b>Tráfico em presídio</b>: o visitante que tenta entrar com droga escondida no corpo pratica tráfico (verbos \"trazer consigo\" ou \"transportar\"), com a majorante do art. 40, III. Quando a revista identifica a droga antes do ingresso, o crime já está consumado pelos verbos anteriores. A jurisprudência dos tribunais superiores (STF, Tema 998), porém, considera <b>ilícita</b> a revista <b>íntima vexatória</b> (com desnudamento e inspeção de cavidades) sem fundada suspeita concreta, anulando a prova obtida desse modo; a revista deve ser feita, preferencialmente, por equipamentos eletrônicos (scanner corporal).</li><li><b>Prova da materialidade sem apreensão</b>: em regra, a condenação por tráfico exige a <b>apreensão</b> da droga e o <b>laudo</b> toxicológico definitivo. O STJ admite, excepcionalmente, a comprovação por outros meios quando o laudo de constatação for elaborado com grau de certeza equivalente ao definitivo (por perito oficial e com metodologia idônea). Sem nenhuma droga apreendida, baseada apenas em interceptações e depoimentos, a materialidade do tráfico é muito discutida e, em regra, não se sustenta para o crime do art. 33, embora possa haver prova da <b>associação</b> (art. 35), que não exige apreensão.</li><li><b>Tráfico e lavagem de dinheiro</b>: o dinheiro obtido com o tráfico, quando ocultado ou dissimulado (empresas de fachada, \"laranjas\", criptoativos), configura o crime <b>autônomo</b> de lavagem (Lei 9.613/1998), em concurso material com o tráfico. O mero gasto ou depósito do dinheiro em conta própria, sem ocultação, não é lavagem.</li></ul>\n<h3>19. Perguntas frequentes em provas discursivas</h3>\n<ul><li><b>\"O porte de drogas para consumo pessoal ainda é crime?\"</b> Resposta-modelo: depende da droga. Para a <b>maconha</b>, o STF (Tema 506, 2024) afastou a natureza penal: a conduta é ilícito <b>administrativo</b>, com advertência e medida educativa em procedimento não penal, e presunção relativa de uso até 40 g ou 6 plantas-fêmeas. Para as <b>demais drogas</b>, o art. 28 continua sendo <b>crime</b>, de menor potencial ofensivo, com penas sem prisão (despenalização, segundo o RE 430.105).</li><li><b>\"Quais os requisitos do tráfico privilegiado e quais suas consequências?\"</b> Primariedade, bons antecedentes, não dedicação a atividades criminosas e não integração a organização criminosa (cumulativos). Consequências: redução de 1/6 a 2/3; afastamento da hediondez (HC 118.533; LEP, art. 112, § 5º); possibilidade de regime aberto e substituição por restritivas. Processos em curso não afastam o benefício (Tema 1.139 do STJ).</li><li><b>\"Diferencie associação para o tráfico e concurso de pessoas.\"</b> A associação (art. 35) é crime autônomo, exige no mínimo duas pessoas e vínculo <b>estável e permanente</b>; o concurso de pessoas é a reunião <b>eventual</b> para um crime determinado, sem crime autônomo. A associação não é equiparada a hediondo.</li><li><b>\"Explique o procedimento especial da Lei de Drogas.\"</b> Inquérito em 30 (preso) ou 90 (solto) dias, duplicáveis; relatório com justificativa da classificação; denúncia em 10 dias com até 5 testemunhas; notificação para defesa prévia em 10 dias <b>antes</b> do recebimento; recebimento; audiência de instrução, com interrogatório <b>ao final</b> (STF, HC 127.900).</li></ul>\n<h3>20. Como as bancas cobram este tópico</h3>\n<ul><li><b>Art. 28</b>: verbos, penas sem prisão, prazos de 5 e 10 meses, critérios do § 2º, Tema 506 (só maconha, 40 g, 6 plantas, ilícito administrativo, presunção relativa).</li><li><b>Art. 33</b>: 18 verbos, \"ainda que gratuitamente\", tipo misto alternativo, crime permanente, § 1º (matéria-prima, cultivo, local, <b>agente disfarçado</b>), § 2º (ADI 4.274), § 3º (quatro requisitos), § 4º (quatro requisitos, 1/6 a 2/3, não hediondo).</li><li><b>Arts. 34 a 39</b>: penas e diferenças (associação com 2 pessoas e estabilidade; financiamento com a maior pena; informante; culposo; embarcação ou aeronave).</li><li><b>Art. 40</b>: majorantes, Súmulas 587 e 607 do STJ; art. 40-A (dobro, facções).</li><li><b>Art. 44</b>: o que ainda vale (inafiançável, sem graça, indulto e anistia, livramento com 2/3) e o que caiu (liberdade provisória, restritivas).</li><li><b>Procedimento</b>: laudo de constatação, destruição da droga, prazos do inquérito, defesa prévia, ação controlada com autorização judicial, interrogatório ao final.</li><li><b>Bancas</b>: o <b>Cebraspe</b> (PRF) adora o Tema 506, a busca pessoal e o ingresso em domicílio. A <b>FGV</b> (PCMG) gosta de casos concretos com escolha do enquadramento e do procedimento policial. A <b>Consulplan</b> cobra muito a <b>letra</b> dos arts. 28, 33 e 40.</li></ul>\n<h3>21. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Norma penal em branco heterogênea</span></span><span class=\"vs\"><span>\"drogas\" definidas na Portaria 344/1998 da Anvisa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 28</span></span><span class=\"vs\"><span>porte para consumo, sem pena de prisão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazos do art. 28</span></span><span class=\"vs\"><span>5 meses (10 na reincidência)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prescrição do art. 28</span></span><span class=\"vs\"><span>2 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tema 506</span></span><span class=\"vs\"><span>maconha para uso não é infração penal; ilícito administrativo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Presunção de uso</span></span><span class=\"vs\"><span>até 40 g ou 6 plantas-fêmeas, relativa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena do tráfico</span></span><span class=\"vs\"><span>5 a 15 anos e 500 a 1.500 dias-multa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tipo misto alternativo</span></span><span class=\"vs\"><span>vários verbos no mesmo contexto, um só crime</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Agente disfarçado</span></span><span class=\"vs\"><span>art. 33, § 1º, IV, exige conduta criminal preexistente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>§ 2º</span></span><span class=\"vs\"><span>induzir ao uso, detenção 1 a 3 anos (ADI 4.274)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>§ 3º</span></span><span class=\"vs\"><span>uso compartilhado: eventual, sem lucro, pessoa do relacionamento, juntos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Privilégio</span></span><span class=\"vs\"><span>primário, bons antecedentes, sem dedicação a crimes, sem orcrim</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Redução do privilégio</span></span><span class=\"vs\"><span>1/6 a 2/3</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Privilegiado</span></span><span class=\"vs\"><span>não é hediondo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 35</span></span><span class=\"vs\"><span>2 pessoas, estabilidade, 3 a 10 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 36</span></span><span class=\"vs\"><span>financiamento, 8 a 20 anos (maior pena)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 37</span></span><span class=\"vs\"><span>informante, 2 a 6 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 38</span></span><span class=\"vs\"><span>único culposo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 40</span></span><span class=\"vs\"><span>aumento de 1/6 a 2/3</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Súmula 607 STJ</span></span><span class=\"vs\"><span>transnacional sem cruzar a fronteira</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Súmula 587 STJ</span></span><span class=\"vs\"><span>interestadual sem cruzar a divisa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 40-A</span></span><span class=\"vs\"><span>pena em dobro para facções ultraviolentas (2026)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 41</span></span><span class=\"vs\"><span>colaboração, redução de 1/3 a 2/3</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 42</span></span><span class=\"vs\"><span>natureza e quantidade preponderam</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Liberdade provisória</span></span><span class=\"vs\"><span>possível (Tema 959)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Livramento</span></span><span class=\"vs\"><span>2/3, vedado ao reincidente específico</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Inquérito</span></span><span class=\"vs\"><span>30 dias preso, 90 solto, duplicáveis</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Defesa prévia</span></span><span class=\"vs\"><span>10 dias, antes do recebimento da denúncia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Interrogatório</span></span><span class=\"vs\"><span>ao final (HC 127.900)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação controlada</span></span><span class=\"vs\"><span>autorização judicial</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tema 647</span></span><span class=\"vs\"><span>confisco sem habitualidade</span></span></button></div></div>\n<h3>22. Resumo em uma página</h3>\n<ul><li><b>Conceito</b>: droga = substância listada (norma penal em branco); Sisnad; tratamento voluntário e involuntário (90 dias, MP em 72 h, sem órgãos de segurança).</li><li><b>Usuário</b>: art. 28 sem prisão; maconha até 40 g/6 plantas = ilícito administrativo (Tema 506); demais drogas = crime de menor potencial, JECRIM, TC, sem flagrante preso.</li><li><b>Tráfico</b>: art. 33 (18 verbos, 5 a 15 anos, perigo abstrato, permanente em várias formas); § 1º (insumos, cultivo, local, agente disfarçado); § 2º (induzir, ADI 4.274); § 3º (uso compartilhado); § 4º (privilégio, não hediondo).</li><li><b>Outros crimes</b>: 34 (maquinário), 35 (associação, 2 pessoas, estável), 36 (financiamento, 8 a 20), 37 (informante), 38 (culposo), 39 (embarcação/aeronave).</li><li><b>Majorantes</b>: art. 40 (1/6 a 2/3; Súmulas 587 e 607); art. 40-A (dobro, facções ultraviolentas).</li><li><b>Vedações</b>: inafiançável; sem graça, indulto e anistia; liberdade provisória e restritivas possíveis (STF); livramento com 2/3, vedado ao reincidente específico.</li><li><b>Procedimento</b>: laudo de constatação; destruição da droga; inquérito 30/90 dias duplicáveis; relatório justificado; denúncia em 10 dias; defesa prévia; interrogatório ao final; ação controlada e infiltração com autorização judicial.</li><li><b>Competência</b>: estadual (inclusive interestadual); federal no transnacional (local de destino em importação por correio).</li></ul>",
+"quiz": [
+{
+"p": "Os crimes da Lei de Drogas são normas penais em branco, pois o conceito de droga depende de lista elaborada pelo Poder Executivo.",
+"c": true,
+"prof": "Conceito.",
+"x": "Portaria 344/1998.",
+"e": "Norma em branco"
+},
+{
+"p": "A exclusão de uma substância da lista de drogas da Anvisa gera abolitio criminis, com efeito retroativo.",
+"c": true,
+"prof": "Conceito.",
+"x": "Lei mais benéfica.",
+"e": "Retroatividade"
+},
+{
+"p": "A internação involuntária do dependente pode ser requerida por órgãos de segurança pública.",
+"c": false,
+"prof": "Internação.",
+"x": "Excluídos expressamente.",
+"e": "Art. 23-A"
+},
+{
+"p": "A internação involuntária do dependente tem prazo máximo de 90 dias e deve ser comunicada ao Ministério Público em até 72 horas.",
+"c": true,
+"prof": "Internação.",
+"x": "Art. 23-A.",
+"e": "90 dias"
+},
+{
+"p": "Ao usuário de drogas que reincide no crime do art. 28 pode ser imposta pena de detenção.",
+"c": false,
+"prof": "Art. 28.",
+"x": "Não há prisão.",
+"e": "Despenalização"
+},
+{
+"p": "As medidas de prestação de serviços à comunidade e de comparecimento a programa educativo do art. 28 têm duração máxima de 5 meses, ou 10 meses na reincidência.",
+"c": true,
+"prof": "Art. 28.",
+"x": "§§ 3º e 4º.",
+"e": "Prazos"
+},
+{
+"p": "Prescrevem em 2 anos a imposição e a execução das penas do art. 28.",
+"c": true,
+"prof": "Art. 28.",
+"x": "Art. 30.",
+"e": "Prescrição"
+},
+{
+"p": "Segundo o STF, não comete infração penal quem porta maconha para consumo pessoal, embora a conduta permaneça ilícita na esfera administrativa.",
+"c": true,
+"prof": "Tema 506.",
+"x": "RE 635.659.",
+"e": "Maconha"
+},
+{
+"p": "O Tema 506 do STF afastou a natureza penal do porte para consumo pessoal de qualquer droga.",
+"c": false,
+"prof": "Tema 506.",
+"x": "Só cannabis.",
+"e": "Alcance"
+},
+{
+"p": "Até que o Congresso legisle, presume-se usuário quem estiver com até 40 gramas de maconha ou seis plantas-fêmeas.",
+"c": true,
+"prof": "Tema 506.",
+"x": "Presunção relativa.",
+"e": "40 g"
+},
+{
+"p": "A presunção de uso fixada pelo STF é absoluta, de modo que a polícia não pode prender por tráfico quem porta menos de 40 gramas de maconha.",
+"c": false,
+"prof": "Tema 506.",
+"x": "Presunção relativa.",
+"e": "Indícios de tráfico"
+},
+{
+"p": "Para determinar se a droga se destinava a consumo pessoal, o juiz considera a natureza e a quantidade da substância, o local, as condições da ação, as circunstâncias sociais e pessoais e os antecedentes do agente.",
+"c": true,
+"prof": "Art. 28.",
+"x": "§ 2º.",
+"e": "Critérios"
+},
+{
+"p": "O tráfico de drogas exige que o agente vise ao lucro.",
+"c": false,
+"prof": "Art. 33.",
+"x": "Ainda que gratuitamente.",
+"e": "Gratuidade"
+},
+{
+"p": "O tráfico de drogas é tipo misto alternativo, de modo que a prática de vários verbos no mesmo contexto fático configura crime único.",
+"c": true,
+"prof": "Art. 33.",
+"x": "Conteúdo variado.",
+"e": "Crime único"
+},
+{
+"p": "Nas modalidades ter em depósito, guardar e transportar, o tráfico é crime permanente, o que mantém o agente em situação de flagrância.",
+"c": true,
+"prof": "Art. 33.",
+"x": "CPP, art. 303.",
+"e": "Permanência"
+},
+{
+"p": "Por ser o tráfico crime permanente, a polícia pode ingressar em domicílio sem mandado com base apenas em denúncia anônima.",
+"c": false,
+"prof": "Domicílio.",
+"x": "Exige fundadas razões.",
+"e": "Tema 280"
+},
+{
+"p": "Segundo o STF, a entrada forçada em domicílio sem mandado só é lícita quando amparada em fundadas razões, justificadas a posteriori, que indiquem situação de flagrante.",
+"c": true,
+"prof": "Domicílio.",
+"x": "Tema 280.",
+"e": "Fundadas razões"
+},
+{
+"p": "Pratica crime equiparado ao tráfico quem vende droga a agente policial disfarçado, quando presentes elementos probatórios razoáveis de conduta criminal preexistente.",
+"c": true,
+"prof": "Agente disfarçado.",
+"x": "Art. 33, § 1º, IV.",
+"e": "Preexistente"
+},
+{
+"p": "Quem consente que terceiro utilize seu imóvel, ainda que gratuitamente, para o tráfico de drogas incorre nas penas do tráfico.",
+"c": true,
+"prof": "Art. 33, § 1º.",
+"x": "Inciso III.",
+"e": "Local"
+},
+{
+"p": "Participar de manifestação pública pela legalização da maconha configura o crime de induzir alguém ao uso de drogas.",
+"c": false,
+"prof": "Art. 33, § 2º.",
+"x": "ADI 4.274.",
+"e": "Liberdade de expressão"
+},
+{
+"p": "O crime de uso compartilhado exige oferta eventual, sem objetivo de lucro, a pessoa do relacionamento do agente, para juntos consumirem.",
+"c": true,
+"prof": "Art. 33, § 3º.",
+"x": "Requisitos cumulativos.",
+"e": "Quatro requisitos"
+},
+{
+"p": "Oferecer droga a um desconhecido em uma festa, sem cobrar, para consumirem juntos, configura o crime de uso compartilhado.",
+"c": false,
+"prof": "Art. 33, § 3º.",
+"x": "Exige relacionamento.",
+"e": "Desconhecido"
+},
+{
+"p": "O tráfico privilegiado exige que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.",
+"c": true,
+"prof": "Privilégio.",
+"x": "Art. 33, § 4º.",
+"e": "Cumulativos"
+},
+{
+"p": "No tráfico privilegiado, a pena pode ser reduzida de um sexto a dois terços.",
+"c": true,
+"prof": "Privilégio.",
+"x": "§ 4º.",
+"e": "1/6 a 2/3"
+},
+{
+"p": "Ações penais em curso podem ser usadas para afastar o tráfico privilegiado, por demonstrarem dedicação a atividades criminosas.",
+"c": false,
+"prof": "Privilégio.",
+"x": "Tema 1.139 do STJ.",
+"e": "Presunção de inocência"
+},
+{
+"p": "A natureza e a quantidade da droga podem ser usadas, ao mesmo tempo, para elevar a pena-base e para escolher a fração mínima do privilégio.",
+"c": false,
+"prof": "Dosimetria.",
+"x": "Tema 712 do STF.",
+"e": "Bis in idem"
+},
+{
+"p": "O condenado por tráfico privilegiado pode ter a pena substituída por restritivas de direitos, se preenchidos os requisitos do Código Penal.",
+"c": true,
+"prof": "Privilégio.",
+"x": "HC 97.256 e Resolução 5/2012.",
+"e": "Substituição"
+},
+{
+"p": "A associação para o tráfico exige no mínimo duas pessoas e vínculo estável e permanente.",
+"c": true,
+"prof": "Art. 35.",
+"x": "STJ.",
+"e": "Estabilidade"
+},
+{
+"p": "A reunião ocasional de duas pessoas para um único tráfico configura associação para o tráfico.",
+"c": false,
+"prof": "Art. 35.",
+"x": "Concurso eventual.",
+"e": "Estabilidade"
+},
+{
+"p": "O crime de financiar ou custear o tráfico tem pena de reclusão de 8 a 20 anos, a maior da Lei de Drogas.",
+"c": true,
+"prof": "Art. 36.",
+"x": "Financiador.",
+"e": "Maior pena"
+},
+{
+"p": "Colaborar como informante com grupo destinado ao tráfico é crime autônomo previsto no art. 37.",
+"c": true,
+"prof": "Art. 37.",
+"x": "Olheiro.",
+"e": "Informante"
+},
+{
+"p": "O único crime culposo da Lei de Drogas é o de prescrever ou ministrar culposamente drogas.",
+"c": true,
+"prof": "Art. 38.",
+"x": "Profissionais de saúde.",
+"e": "Culposo"
+},
+{
+"p": "A majorante da transnacionalidade exige que a droga efetivamente ultrapasse a fronteira do país.",
+"c": false,
+"prof": "Art. 40, I.",
+"x": "Súmula 607 do STJ.",
+"e": "Destinação"
+},
+{
+"p": "Para a majorante do tráfico interestadual, é desnecessária a efetiva transposição da divisa entre os estados.",
+"c": true,
+"prof": "Art. 40, V.",
+"x": "Súmula 587 do STJ.",
+"e": "Intenção"
+},
+{
+"p": "As penas do tráfico são aumentadas se o crime envolver ou visar a atingir criança ou adolescente.",
+"c": true,
+"prof": "Art. 40, VI.",
+"x": "Majorante.",
+"e": "Adolescente"
+},
+{
+"p": "Desde a Lei 15.358/2026, as penas dos arts. 33 a 37 são aplicadas em dobro quando praticados por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada.",
+"c": true,
+"prof": "Art. 40-A.",
+"x": "Lei Antifacção.",
+"e": "Dobro"
+},
+{
+"p": "O colaborador que identificar coautores e contribuir para a recuperação do produto do crime terá a pena reduzida de um terço a dois terços.",
+"c": true,
+"prof": "Art. 41.",
+"x": "Colaboração.",
+"e": "Redução"
+},
+{
+"p": "Na fixação da pena do tráfico, a natureza e a quantidade da droga preponderam sobre as circunstâncias do art. 59 do Código Penal.",
+"c": true,
+"prof": "Art. 42.",
+"x": "Preponderância.",
+"e": "Natureza e quantidade"
+},
+{
+"p": "Segundo o STF, a vedação à liberdade provisória no tráfico de drogas é constitucional.",
+"c": false,
+"prof": "Art. 44.",
+"x": "Tema 959.",
+"e": "Inconstitucional"
+},
+{
+"p": "Nos crimes de tráfico, o livramento condicional exige o cumprimento de dois terços da pena, vedado ao reincidente específico.",
+"c": true,
+"prof": "Art. 44.",
+"x": "Parágrafo único.",
+"e": "Livramento"
+},
+{
+"p": "É isento de pena o agente que, em razão de dependência de droga, era, ao tempo da ação, inteiramente incapaz de entender o caráter ilícito do fato.",
+"c": true,
+"prof": "Art. 45.",
+"x": "Qualquer infração.",
+"e": "Dependência"
+},
+{
+"p": "O uso voluntário de droga, sem dependência, que reduz a capacidade de entendimento do agente, isenta-o de pena.",
+"c": false,
+"prof": "Art. 45.",
+"x": "Actio libera in causa.",
+"e": "Voluntário"
+},
+{
+"p": "Para a lavratura do auto de prisão em flagrante por tráfico, é suficiente o laudo de constatação da natureza e quantidade da droga.",
+"c": true,
+"prof": "Inquérito.",
+"x": "Art. 50, § 1º.",
+"e": "Constatação"
+},
+{
+"p": "O perito que subscreveu o laudo de constatação fica impedido de participar do laudo definitivo.",
+"c": false,
+"prof": "Inquérito.",
+"x": "Art. 50, § 2º.",
+"e": "Não impedido"
+},
+{
+"p": "O inquérito por tráfico deve ser concluído em 30 dias se o investigado estiver preso e em 90 dias se solto, prazos que podem ser duplicados pelo juiz.",
+"c": true,
+"prof": "Inquérito.",
+"x": "Art. 51.",
+"e": "Prazos"
+},
+{
+"p": "Ao relatar o inquérito, o delegado deve justificar as razões que o levaram à classificação do delito.",
+"c": true,
+"prof": "Inquérito.",
+"x": "Art. 52, I.",
+"e": "Justificativa"
+},
+{
+"p": "Na Lei de Drogas, a ação controlada dispensa autorização judicial, bastando a comunicação prévia ao juiz.",
+"c": false,
+"prof": "Ação controlada.",
+"x": "Art. 53, II.",
+"e": "Autorização"
+},
+{
+"p": "No procedimento da Lei de Drogas, o acusado é notificado para apresentar defesa prévia em 10 dias, antes do recebimento da denúncia.",
+"c": true,
+"prof": "Processo.",
+"x": "Art. 55.",
+"e": "Defesa prévia"
+},
+{
+"p": "Segundo o STF, o interrogatório deve ser o último ato da instrução também no procedimento da Lei de Drogas.",
+"c": true,
+"prof": "Processo.",
+"x": "HC 127.900.",
+"e": "Art. 400 CPP"
+},
+{
+"p": "O tráfico transnacional é julgado pela Justiça Federal, e o interestadual, pela Justiça Estadual.",
+"c": true,
+"prof": "Competência.",
+"x": "CF, art. 109, V.",
+"e": "Competência"
+},
+{
+"p": "Segundo o STF, é possível o confisco de bem apreendido em decorrência do tráfico, sem necessidade de demonstrar a habitualidade do seu uso para essa finalidade.",
+"c": true,
+"prof": "Confisco.",
+"x": "Tema 647.",
+"e": "Art. 243 CF"
+},
+{
+"p": "As terras onde forem localizadas culturas ilegais de plantas psicotrópicas serão desapropriadas mediante indenização em títulos da dívida agrária.",
+"c": false,
+"prof": "Confisco.",
+"x": "CF, art. 243.",
+"e": "Sem indenização"
+},
+{
+"p": "Segundo a tese fixada pelo STF no Tema 506, quanto ao porte de maconha para consumo pessoal, é correto afirmar que",
+"alts": [
+"a conduta deixou de ser ilícita em qualquer esfera",
+"a conduta continua sendo crime, punido com prestação de serviços",
+"a conduta não é infração penal, mas continua ilícita no plano administrativo",
+"o entendimento vale para todas as drogas",
+"a presunção de uso é absoluta até 40 gramas"
+],
+"r": 2,
+"x": "RE 635.659.",
+"n": [
+"Continua ilícita administrativamente.",
+"Não é mais infração penal.",
+"Correta.",
+"Só cannabis.",
+"A presunção é relativa."
+],
+"e": "Tema 506."
+},
+{
+"p": "Durante patrulhamento, policiais encontram com um jovem 25 g de maconha, uma balança de precisão e 40 pequenos sacos plásticos vazios. Considerando o Tema 506, a autoridade policial",
+"alts": [
+"deve necessariamente tratar o caso como uso, por ser inferior a 40 g",
+"pode autuar por tráfico, justificando os elementos que afastam a presunção de uso",
+"deve lavrar termo circunstanciado por uso",
+"deve liberar o jovem sem apreender a droga",
+"só pode autuar por tráfico se a quantidade superar 100 g"
+],
+"r": 1,
+"x": "Presunção relativa.",
+"n": [
+"A presunção é relativa.",
+"Correta.",
+"Os indícios apontam tráfico.",
+"A droga é sempre apreendida.",
+"Não há esse limite."
+],
+"e": "Presunção relativa."
+},
+{
+"p": "Assinale a alternativa que contém apenas verbos do art. 28 da Lei 11.343/2006.",
+"alts": [
+"vender, guardar e transportar",
+"adquirir, guardar, ter em depósito, transportar e trazer consigo",
+"oferecer, fornecer e ministrar",
+"importar, exportar e remeter",
+"produzir, fabricar e preparar"
+],
+"r": 1,
+"x": "Art. 28, caput.",
+"n": [
+"Vender é verbo do art. 33.",
+"Correta.",
+"São do art. 33.",
+"São do art. 33.",
+"São do art. 33."
+],
+"e": "Verbos do art. 28."
+},
+{
+"p": "Quanto ao tráfico privilegiado, é correto afirmar que",
+"alts": [
+"é equiparado a crime hediondo",
+"basta a primariedade do agente",
+"exige requisitos cumulativos e permite redução de 1/6 a 2/3 da pena",
+"não admite substituição por restritivas de direitos",
+"pode ser afastado com base em inquéritos em curso"
+],
+"r": 2,
+"x": "Art. 33, § 4º.",
+"n": [
+"Não é hediondo (HC 118.533).",
+"São quatro requisitos.",
+"Correta.",
+"A vedação foi suspensa.",
+"Tema 1.139 do STJ."
+],
+"e": "Privilégio."
+},
+{
+"p": "O crime de oferecer droga, eventualmente e sem objetivo de lucro, a pessoa de seu relacionamento, para juntos a consumirem,",
+"alts": [
+"é tráfico, com pena de 5 a 15 anos",
+"é atípico",
+"tem pena de detenção de 6 meses a 1 ano, sem prejuízo das penas do art. 28",
+"é equiparado a hediondo",
+"exige que a pessoa seja maior de 21 anos"
+],
+"r": 2,
+"x": "Art. 33, § 3º.",
+"n": [
+"É figura privilegiada autônoma.",
+"É crime.",
+"Correta.",
+"É de menor potencial ofensivo.",
+"Não há essa exigência."
+],
+"e": "Uso compartilhado."
+},
+{
+"p": "Considere a venda de droga a policial disfarçado. De acordo com a Lei 11.343/2006, há crime quando",
+"alts": [
+"o policial induz alguém que nunca traficou a obter e vender a droga",
+"há elementos probatórios razoáveis de conduta criminal preexistente do vendedor",
+"o policial está fora de serviço",
+"a venda é de pequena quantidade",
+"o vendedor é menor de idade"
+],
+"r": 1,
+"x": "Art. 33, § 1º, IV.",
+"n": [
+"Flagrante preparado (Súmula 145).",
+"Correta.",
+"Irrelevante.",
+"Irrelevante.",
+"Menor pratica ato infracional."
+],
+"e": "Agente disfarçado."
+},
+{
+"p": "A associação para o tráfico (art. 35 da Lei 11.343/2006)",
+"alts": [
+"exige no mínimo três pessoas",
+"é equiparada a crime hediondo",
+"exige no mínimo duas pessoas e vínculo estável e permanente",
+"configura-se com a reunião ocasional para um tráfico",
+"tem pena de 8 a 20 anos"
+],
+"r": 2,
+"x": "STJ.",
+"n": [
+"São duas.",
+"Não é equiparada (STJ).",
+"Correta.",
+"Exige estabilidade.",
+"Pena de 3 a 10 anos."
+],
+"e": "Associação."
+},
+{
+"p": "Assinale o crime da Lei de Drogas com a maior pena máxima.",
+"alts": [
+"tráfico (art. 33)",
+"associação (art. 35)",
+"financiamento ou custeio do tráfico (art. 36)",
+"informante (art. 37)",
+"maquinário (art. 34)"
+],
+"r": 2,
+"x": "8 a 20 anos.",
+"n": [
+"5 a 15.",
+"3 a 10.",
+"Correta.",
+"2 a 6.",
+"3 a 10."
+],
+"e": "Financiamento."
+},
+{
+"p": "Uma mulher é presa no aeroporto, antes do embarque para o exterior, com cocaína na mala. É correto afirmar:",
+"alts": [
+"não incide a majorante da transnacionalidade porque a fronteira não foi cruzada",
+"a competência é da Justiça Estadual",
+"incide a majorante da transnacionalidade e a competência é da Justiça Federal",
+"o crime é tentado",
+"trata-se de uso compartilhado"
+],
+"r": 2,
+"x": "Súmula 607 do STJ.",
+"n": [
+"Basta a prova da destinação.",
+"Transnacional é federal.",
+"Correta.",
+"Trazer consigo já consumou.",
+"Sem relação."
+],
+"e": "Transnacional."
+},
+{
+"p": "Segundo a jurisprudência do STF, no procedimento da Lei de Drogas, o interrogatório do acusado",
+"alts": [
+"é o primeiro ato da audiência, como diz a lei",
+"é dispensável",
+"deve ser o último ato da instrução",
+"deve ocorrer antes da defesa prévia",
+"ocorre somente na fase policial"
+],
+"r": 2,
+"x": "HC 127.900.",
+"n": [
+"Letra da lei superada pelo STF.",
+"É obrigatório.",
+"Correta: art. 400 do CPP.",
+"Sem relação.",
+"Também ocorre em juízo."
+],
+"e": "Interrogatório."
+},
+{
+"p": "No procedimento da Lei 11.343/2006, a defesa prévia",
+"alts": [
+"é apresentada após o recebimento da denúncia, em 10 dias",
+"é apresentada em 10 dias, após a notificação e antes do recebimento da denúncia",
+"é facultativa e, se não apresentada, o processo segue sem defesa",
+"permite arrolar até 8 testemunhas",
+"é apresentada em 5 dias"
+],
+"r": 1,
+"x": "Art. 55.",
+"n": [
+"Isso é do procedimento comum.",
+"Correta.",
+"O juiz nomeia defensor.",
+"Até 5.",
+"O prazo é de 10."
+],
+"e": "Defesa prévia."
+},
+{
+"p": "Os prazos para conclusão do inquérito na Lei de Drogas são de",
+"alts": [
+"10 dias (preso) e 30 dias (solto)",
+"15 dias (preso) e 30 dias (solto)",
+"30 dias (preso) e 90 dias (solto), duplicáveis pelo juiz",
+"60 dias (preso) e 120 dias (solto), improrrogáveis",
+"90 dias (preso) e 270 dias (solto)"
+],
+"r": 2,
+"x": "Art. 51.",
+"n": [
+"Regra do CPP.",
+"Não.",
+"Correta.",
+"Não.",
+"Prazos da Lei Antifacção."
+],
+"e": "Prazos."
+},
+{
+"p": "A respeito da ação controlada na Lei de Drogas, é correto afirmar que",
+"alts": [
+"dispensa autorização judicial",
+"depende de autorização judicial, ouvido o MP, e do conhecimento do itinerário provável e da identificação dos agentes",
+"só é admitida na fase processual",
+"é vedada no tráfico transnacional",
+"depende apenas de comunicação ao delegado-geral"
+],
+"r": 1,
+"x": "Art. 53, II e parágrafo único.",
+"n": [
+"Na Lei de Drogas exige autorização.",
+"Correta.",
+"Em qualquer fase.",
+"Não há vedação.",
+"Não."
+],
+"e": "Ação controlada."
+},
+{
+"p": "Segundo o art. 44 da Lei 11.343/2006 e a jurisprudência do STF, nos crimes de tráfico",
+"alts": [
+"são vedadas a fiança e a liberdade provisória",
+"é vedada a fiança, mas é possível a liberdade provisória",
+"é possível a fiança arbitrada pelo juiz",
+"é possível o indulto",
+"o livramento condicional exige 1/3 da pena"
+],
+"r": 1,
+"x": "Tema 959.",
+"n": [
+"A vedação à liberdade provisória é inconstitucional.",
+"Correta.",
+"São inafiançáveis.",
+"É vedado.",
+"Exige 2/3."
+],
+"e": "Art. 44."
+},
+{
+"p": "Sobre a majorante do art. 40, V (tráfico interestadual), assinale a correta.",
+"alts": [
+"exige efetiva transposição da divisa",
+"atrai a competência da Justiça Federal",
+"basta a demonstração inequívoca da intenção de realizar o tráfico entre estados",
+"aplica-se também ao art. 28",
+"não se aplica ao Distrito Federal"
+],
+"r": 2,
+"x": "Súmula 587 do STJ.",
+"n": [
+"Não exige.",
+"A competência é estadual.",
+"Correta.",
+"Não se aplica ao usuário.",
+"Inclui o DF."
+],
+"e": "Interestadual."
+},
+{
+"p": "O agente que, em razão de dependência de droga, era, ao tempo do fato, inteiramente incapaz de se determinar",
+"alts": [
+"responde com pena reduzida de 1/3 a 2/3",
+"recebe medida de segurança obrigatória",
+"é isento de pena, podendo o juiz determinar tratamento",
+"responde normalmente, pela actio libera in causa",
+"só é isento se o crime for da Lei de Drogas"
+],
+"r": 2,
+"x": "Art. 45.",
+"n": [
+"Redução é para capacidade parcial (art. 46).",
+"A lei prevê encaminhamento a tratamento.",
+"Correta.",
+"A dependência isenta.",
+"Vale para qualquer infração."
+],
+"e": "Dependência."
+},
+{
+"p": "Sobre a Lei 15.358/2026 (Lei Antifacção) e a Lei de Drogas, é correto afirmar que",
+"alts": [
+"revogou o tráfico privilegiado",
+"criou o art. 40-A, que manda aplicar em dobro as penas dos arts. 33 a 37 quando praticados por integrante de organização ultraviolenta, paramilitar ou milícia",
+"transformou a associação para o tráfico em crime hediondo",
+"descriminalizou o porte de maconha",
+"reduziu a pena do financiamento"
+],
+"r": 1,
+"x": "Art. 40-A.",
+"n": [
+"Não revogou.",
+"Correta.",
+"Não houve essa mudança.",
+"Isso foi o Tema 506 (STF).",
+"Não."
+],
+"e": "Art. 40-A."
+},
+{
+"p": "Segundo o STF (Tema 647), o confisco de veículo usado no tráfico",
+"alts": [
+"exige que o veículo tenha compartimento oculto",
+"exige uso habitual para o tráfico",
+"independe de habitualidade ou de adaptação do veículo",
+"só é possível após o trânsito em julgado e com prova de reiteração",
+"é vedado se o carro estiver financiado"
+],
+"r": 2,
+"x": "CF, art. 243, parágrafo único.",
+"n": [
+"Não exige.",
+"Não exige.",
+"Correta.",
+"Não exige reiteração.",
+"Não há essa vedação absoluta."
+],
+"e": "Confisco."
+},
+{
+"p": "Sobre o laudo na Lei de Drogas, é correto afirmar que",
+"alts": [
+"o auto de prisão em flagrante exige laudo definitivo",
+"o laudo de constatação basta para a lavratura do auto e para a materialidade nessa fase, podendo ser firmado por pessoa idônea na falta de perito",
+"o perito do laudo de constatação está impedido de fazer o definitivo",
+"a droga deve ser preservada integralmente até a sentença",
+"não é necessário laudo em nenhuma fase"
+],
+"r": 1,
+"x": "Art. 50, §§ 1º e 2º.",
+"n": [
+"Basta o de constatação.",
+"Correta.",
+"Não está impedido.",
+"Destrói-se, guardando amostra.",
+"O laudo definitivo é necessário para a condenação."
+],
+"e": "Laudo."
+},
+{
+"p": "Assinale a hipótese que configura o crime de induzimento ao uso de drogas (art. 33, § 2º).",
+"alts": [
+"participar de passeata pela legalização da maconha",
+"defender em artigo científico a descriminalização",
+"convencer um colega de trabalho a experimentar cocaína pela primeira vez",
+"vender cocaína a um usuário",
+"oferecer maconha a um amigo para fumarem juntos"
+],
+"r": 2,
+"x": "Art. 33, § 2º.",
+"n": [
+"ADI 4.274.",
+"Liberdade de expressão.",
+"Correta.",
+"É tráfico.",
+"É o § 3º."
+],
+"e": "Induzimento."
+},
+{
+"p": "Ao autor do crime de porte de droga para consumo pessoal não se impõe prisão em flagrante, devendo ser lavrado termo circunstanciado ou ser ele encaminhado ao juízo competente.",
+"c": true,
+"prof": "Certo. É o art. 48, § 2º.",
+"x": "As medidas do art. 28 são advertência, prestação de serviços e medida educativa, sem pena privativa de liberdade.",
+"e": "Usuário: sem flagrante."
+},
+{
+"p": "A associação para o tráfico, prevista no art. 35 da Lei 11.343/2006, exige a reunião de pelo menos três pessoas.",
+"c": false,
+"prof": "O número é menor.",
+"x": "Bastam duas ou mais pessoas, com vínculo estável e permanente. A associação criminosa do art. 288 do CP é que exige três ou mais.",
+"e": "Art. 35: duas pessoas."
+},
+{
+"p": "Para a incidência da causa de aumento do tráfico interestadual, é desnecessária a efetiva transposição da fronteira entre os estados, bastando a demonstração inequívoca da intenção.",
+"c": true,
+"prof": "Certo. Súmula 587 do STJ.",
+"x": "O tráfico interestadual se caracteriza pela destinação da droga a outro estado.",
+"e": "Súmula 587."
+},
+{
+"p": "Na Lei de Drogas, a ação controlada dispensa autorização judicial, bastando a comunicação prévia ao juiz competente.",
+"c": false,
+"prof": "Esse regime é o da Lei de Organizações Criminosas.",
+"x": "Na Lei 11.343, a não atuação policial sobre portadores de drogas depende de autorização judicial e oitiva do MP (art. 53, II). Na Lei 12.850 basta a comunicação prévia ao juiz.",
+"e": "Drogas: autorização."
+},
+{
+"p": "O laudo de constatação da natureza e da quantidade da droga é suficiente para a lavratura do auto de prisão em flagrante.",
+"c": true,
+"prof": "Certo. É o art. 50, § 1º.",
+"x": "O laudo definitivo é necessário para a condenação.",
+"e": "Constatação basta para o flagrante."
+},
+{
+"p": "Segundo o STF (RE 635.659), assinale a afirmativa correta sobre o porte de maconha para consumo próprio.",
+"alts": [
+"Tornou-se conduta lícita, devendo a polícia devolver a droga ao portador.",
+"Continua sendo crime punido com detenção.",
+"É ilícito administrativo, presumindo-se usuário quem porta até 40 gramas ou seis plantas fêmeas, presunção que admite prova em contrário.",
+"A presunção de usuário é absoluta até 40 gramas.",
+"A decisão alcança todas as drogas ilícitas."
+],
+"r": 2,
+"n": [
+"A droga continua sendo apreendida; a conduta segue ilícita.",
+"Passou a ser ilícito sem natureza penal.",
+"Correta.",
+"A presunção é relativa.",
+"Vale só para maconha."
+],
+"prof": "Despenalizou ≠ legalizou.",
+"x": "O STF afastou a natureza penal do porte de maconha para consumo, mantendo-o como ilícito administrativo, e fixou presunção relativa de usuário até 40 g ou 6 plantas fêmeas. A apreensão e a lavratura de registro continuam.",
+"e": "Ilícito administrativo; presunção relativa."
+},
+{
+"p": "João, primário, entregou gratuitamente um cigarro de maconha a um amigo com quem costumava sair, para que fumassem juntos naquela noite. A conduta configura:",
+"alts": [
+"tráfico de drogas (art. 33, caput)",
+"o crime do art. 33, § 3º (uso compartilhado), com pena de detenção de 6 meses a 1 ano",
+"fato atípico, por ser gratuito",
+"associação para o tráfico",
+"porte para consumo pessoal, apenas"
+],
+"r": 1,
+"n": [
+"A lei tem figura específica para essa situação.",
+"Correta.",
+"\"Ainda que gratuitamente\" no tráfico; aqui há tipo próprio.",
+"Não há vínculo estável para traficar.",
+"Ele ofereceu a outra pessoa."
+],
+"prof": "Eventual + sem lucro + pessoa do relacionamento + juntos consumirem.",
+"x": "O § 3º do art. 33 tipifica oferecer droga eventualmente e sem objetivo de lucro a pessoa de seu relacionamento, para juntos a consumirem, com pena de detenção de 6 meses a 1 ano, sem prejuízo das penas do art. 28.",
+"e": "Uso compartilhado."
+},
+{
+"p": "Policiais civis, após denúncia anônima, sem qualquer diligência prévia, arrombam a porta de uma casa à noite e encontram drogas. Segundo a jurisprudência do STF e do STJ:",
+"alts": [
+"a prova é lícita, porque o tráfico é crime permanente e o flagrante sempre autoriza o ingresso",
+"a prova é lícita, porque a denúncia anônima é suficiente para o ingresso noturno",
+"a prova é ilícita, pois a denúncia anônima, isoladamente, não constitui fundada razão para o ingresso forçado em domicílio",
+"a prova é lícita se o morador for reincidente",
+"a prova é ilícita apenas se o crime for o de porte para consumo"
+],
+"r": 2,
+"n": [
+"O flagrante precisa estar demonstrado por fundadas razões prévias.",
+"A denúncia anônima isolada não basta.",
+"Correta: Tema 280 do STF e precedentes do STJ.",
+"Antecedentes não justificam o ingresso.",
+"O raciocínio vale para qualquer crime."
+],
+"prof": "Primeiro investigue, depois entre: as fundadas razões vêm antes da porta aberta.",
+"x": "O STF exige fundadas razões, justificadas a posteriori, que indiquem flagrante no interior da casa. O STJ entende que denúncia anônima isolada, sem diligências que a confirmem, não basta, e a prova obtida é ilícita.",
+"e": "Denúncia anônima sozinha não basta."
+}
+],
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5 a 15</b><span>anos de reclusão para o tráfico (art. 33)</span></div><div class=\"lt-stat\"><b>1/6 a 2/3</b><span>redução do tráfico privilegiado (§ 4º)</span></div><div class=\"lt-stat\"><b>40 g</b><span>presunção de usuário de maconha (STF, RE 635.659)</span></div><div class=\"lt-stat\"><b>30 / 90</b><span>dias do inquérito (preso / solto), duplicáveis</span></div></div>\n<h3>1. Porte para consumo pessoal (art. 28)</h3>\n<ul><li>Adquirir, guardar, ter em depósito, transportar ou trazer consigo droga <b>para consumo pessoal</b>: <b>advertência</b>, <b>prestação de serviços à comunidade</b> ou <b>medida educativa</b> (até 5 meses; 10 na reincidência). <b>Não há pena de prisão</b> e <b>não se impõe prisão em flagrante</b>: o autor é levado ao juiz ou assina <b>termo circunstanciado</b>. A pretensão prescreve em <b>2 anos</b>.</li><li>Para saber se é consumo ou tráfico, consideram-se <b>natureza e quantidade</b> da droga, <b>local e condições</b> da ação, circunstâncias sociais e pessoais, <b>conduta e antecedentes</b> (art. 28, § 2º).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · RE 635.659 (Tema 506, 2024)</b><p class=\"jc-tese\">O porte de maconha para consumo pessoal é ilícito administrativo, sem natureza penal; presume-se usuário quem porta até 40 gramas ou seis plantas fêmeas, presunção que admite prova em contrário.</p><p class=\"jc-com\">A polícia <b>continua apreendendo</b> a droga e lavrando o registro, mas o caso vai ao juízo sem efeitos penais. Acima de 40 g não há presunção de tráfico, e abaixo dela pode haver tráfico se houver outros elementos (balança, embalagens, anotações). A decisão vale <b>só para maconha</b>.</p></div>\n<h3>2. Tráfico (art. 33) e figuras equiparadas</h3>\n<ul><li>18 verbos (\"importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, <b>ainda que gratuitamente</b>\"): <b>reclusão de 5 a 15 anos</b> e multa. Crime de <b>ação múltipla</b>: praticar vários verbos no mesmo contexto é <b>um só crime</b>.</li><li><b>§ 1º</b>: matéria-prima e insumos; <b>cultivo</b> de plantas; utilizar local para o tráfico; vender a <b>agente policial disfarçado</b>, havendo elementos de conduta criminal preexistente (Pacote Anticrime).</li><li><b>§ 2º</b>: induzir, instigar ou auxiliar alguém ao uso: detenção de 1 a 3 anos.</li><li><b>§ 3º</b>: oferecer droga <b>eventualmente</b> e <b>sem lucro</b> a pessoa do seu relacionamento, <b>para juntos consumirem</b>: detenção de 6 meses a 1 ano (uso compartilhado).</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 33, § 4º (tráfico privilegiado)</div><div class=\"art-lei\">Nos delitos do caput e do § 1º, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Requisitos <b>cumulativos</b>: primário + bons antecedentes + não se dedica ao crime + não integra organização.</li><li>A redução varia de <b>1/6 a 2/3</b> conforme as circunstâncias (quantidade e natureza da droga podem modular a fração, sem bis in idem).</li><li><b>Não é hediondo</b> (LEP, art. 112, § 5º).</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que basta ser primário.</li><li>Dizer que é hediondo.</li><li>Usar inquéritos e ações em andamento, por si sós, para negar o benefício (o STJ não admite isso como prova de dedicação ao crime).</li></ul></div></div>\n<h3>3. Outros crimes</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td>34</td><td>maquinário e instrumentos para fabricar drogas</td><td>3 a 10 anos</td></tr><tr><td><b>35</b></td><td><b>associação para o tráfico</b>: <b>2 ou mais</b> pessoas, com <b>estabilidade</b>, para os arts. 33 e 34</td><td><b>3 a 10 anos</b> (não é hediondo)</td></tr><tr><td><b>36</b></td><td><b>financiar ou custear</b> o tráfico</td><td><b>8 a 20 anos</b></td></tr><tr><td><b>37</b></td><td>colaborar como <b>informante</b> de grupo de tráfico</td><td>2 a 6 anos</td></tr><tr><td>38</td><td>prescrever ou ministrar culposamente droga</td><td>detenção 6 meses a 2 anos</td></tr><tr><td>39</td><td>conduzir embarcação ou aeronave após consumir droga, expondo a dano</td><td>detenção 6 meses a 3 anos</td></tr></tbody></table>\n<div class=\"lt-pare\"></div>\n<h3>4. Causas de aumento (art. 40: 1/6 a 2/3)</h3>\n<ul><li><b>Transnacionalidade</b>; tráfico <b>entre estados</b> ou com o DF; prevalecimento de função pública; nas <b>imediações</b> de escolas, hospitais, presídios, transporte público etc.; com <b>violência, grave ameaça ou arma de fogo</b>; envolvendo <b>criança, adolescente</b> ou quem tem capacidade reduzida; <b>financiar</b> o tráfico.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 587</b><p class=\"jc-tese\">Para a incidência da majorante do art. 40, V, da Lei 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.</p><p class=\"jc-com\">A PRF que aborda o ônibus ainda em Minas, com droga destinada a São Paulo, já permite o aumento.</p></div>\n<h3>5. Investigação e procedimento</h3>\n<ul><li><b>Laudo de constatação</b> (preliminar) basta para o <b>flagrante</b> e para a denúncia; o <b>laudo definitivo</b> é indispensável para a condenação.</li><li><b>Inquérito</b>: <b>30 dias</b> (preso) e <b>90 dias</b> (solto), podendo ser <b>duplicados</b> pelo juiz, ouvido o MP, mediante pedido justificado do Delegado (art. 51).</li><li><b>Infiltração</b> de agentes e <b>ação controlada</b> (não atuação policial sobre portadores de drogas para identificar mais integrantes) dependem de <b>autorização judicial</b> e oitiva do MP (art. 53). Diferente da Lei de Organizações Criminosas, em que a ação controlada exige só <b>comunicação</b> prévia ao juiz.</li><li><b>Destruição</b> da droga apreendida em flagrante: em até <b>15 dias</b>, por ordem do juiz, guardada amostra para o laudo definitivo.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 280 (RE 603.616)</b><p class=\"jc-tese\">A entrada forçada em domicílio sem mandado, inclusive à noite, só é lícita quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem situação de flagrante delito.</p><p class=\"jc-com\">Denúncia anônima isolada, \"atitude suspeita\" ou fuga ao avistar a viatura, por si sós, <b>não bastam</b> (STJ). Se a entrada depender do consentimento do morador, ele deve ser <b>documentado</b> (preferencialmente por escrito e com gravação).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Usuário de drogas pode ser preso em flagrante</span><br>✅ <span class=\"certo\">Para o art. 28 não se impõe prisão em flagrante; lavra-se termo circunstanciado.</span></li><li>❌ <span class=\"banca\">Associação para o tráfico exige 3 pessoas</span><br>✅ <span class=\"certo\">Bastam 2 pessoas, com estabilidade (art. 35).</span></li><li>❌ <span class=\"banca\">Ação controlada na Lei de Drogas exige só comunicação ao juiz</span><br>✅ <span class=\"certo\">Na Lei de Drogas exige AUTORIZAÇÃO judicial.</span></li><li>❌ <span class=\"banca\">Tráfico interestadual exige atravessar a divisa</span><br>✅ <span class=\"certo\">Basta a intenção inequívoca (Súmula 587).</span></li><li>❌ <span class=\"banca\">Uso compartilhado é tráfico comum</span><br>✅ <span class=\"certo\">É o § 3º: eventual, sem lucro, pessoa do relacionamento, para consumirem juntos.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena do tráfico?</span></span><span class=\"vs\"><span><b>Reclusão de 5 a 15 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tráfico privilegiado?</span></span><span class=\"vs\"><span>Redução de <b>1/6 a 2/3</b>: primário, bons antecedentes, não se dedica ao crime nem integra organização.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Associação para o tráfico?</span></span><span class=\"vs\"><span><b>2 ou mais</b> pessoas, com <b>estabilidade</b>; 3 a 10 anos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do inquérito?</span></span><span class=\"vs\"><span><b>30</b> (preso) / <b>90</b> (solto), duplicáveis.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Laudo de constatação?</span></span><span class=\"vs\"><span>Basta para <b>flagrante e denúncia</b>; condenação exige laudo definitivo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>STF e maconha?</span></span><span class=\"vs\"><span>Até <b>40 g</b> ou 6 plantas fêmeas: presunção (relativa) de usuário; ilícito administrativo.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A abordagem na rodoviária</b><p>Policiais civis abordam Ana na rodoviária de Belo Horizonte com 300 g de cocaína escondidas na mala, passagem para Vitória e R$ 2.000 em notas pequenas. Ela é primária e sem antecedentes.</p><details><summary>Ver a solução comentada</summary><p>Há <b>tráfico</b> (transportar, trazer consigo) com aumento pelo <b>tráfico interestadual</b> (art. 40, V), ainda que a divisa não tenha sido cruzada (Súmula 587). O <b>tráfico privilegiado</b> pode ser analisado pelo juiz: primariedade e bons antecedentes não bastam se houver prova de que ela se dedica ao crime ou integra organização (por exemplo, \"mula\" a serviço de facção, conforme o caso concreto).</p></details></div>"
+},
+"desarmamento": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1 a 3</b><span>anos de detenção na posse irregular de uso permitido (art. 12)</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão no porte ilegal de uso permitido (art. 14)</span></div><div class=\"lt-stat\"><b>4 a 12</b><span>anos na posse ou porte de arma de uso proibido (art. 16, § 2º)</span></div><div class=\"lt-stat\"><b>SINARM / SIGMA</b><span>cadastros da PF (uso permitido) / do Exército (uso restrito)</span></div></div>\n<h3>1. Posse x porte</h3>\n<ul><li><b>Posse</b>: manter a arma <b>dentro</b> da residência ou do <b>local de trabalho</b> (sendo o titular ou responsável pelo estabelecimento). <b>Porte</b>: levar a arma <b>fora</b> desses locais (na rua, no carro, na mochila).</li><li><b>Registro</b> autoriza a posse; o <b>porte</b> depende de autorização específica, em regra proibido aos civis (art. 6º), com exceções (forças de segurança, como os <b>policiais civis</b>, art. 6º, II; guardas municipais; vigilantes etc.).</li></ul>\n<table class=\"tab\"><thead><tr><th>Crime</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>Art. 12</b></td><td><b>posse irregular</b> de arma, acessório ou munição de <b>uso permitido</b>, em casa ou no trabalho</td><td><b>detenção 1 a 3 anos</b></td></tr><tr><td>Art. 13</td><td><b>omissão de cautela</b>: deixar menor de 18 ou deficiente mental se apoderar da arma</td><td>detenção 1 a 2 anos</td></tr><tr><td><b>Art. 14</b></td><td><b>porte ilegal</b> de arma de <b>uso permitido</b></td><td><b>reclusão 2 a 4 anos</b></td></tr><tr><td><b>Art. 15</b></td><td><b>disparo</b> de arma em lugar habitado ou via pública (se não for meio para outro crime)</td><td>reclusão 2 a 4 anos</td></tr><tr><td><b>Art. 16</b></td><td><b>posse ou porte</b> de arma de <b>uso restrito</b></td><td><b>reclusão 3 a 6 anos</b></td></tr><tr><td><b>Art. 16, § 2º</b></td><td>se a arma for de <b>uso proibido</b></td><td><b>reclusão 4 a 12 anos</b> (hediondo)</td></tr><tr><td><b>Art. 17</b></td><td><b>comércio ilegal</b></td><td>reclusão 6 a 12 anos</td></tr><tr><td><b>Art. 18</b></td><td><b>tráfico internacional</b></td><td>reclusão 8 a 16 anos</td></tr></tbody></table>\n<ul><li><b>Art. 16, § 1º</b> (mesma pena do art. 16): suprimir ou alterar marca ou numeração; <b>portar, possuir ou adquirir arma com numeração raspada</b>; vender arma a criança ou adolescente; produzir ou recarregar munição sem autorização, entre outros.</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Arma de <b>uso permitido</b> com <b>numeração raspada</b> cai no <b>art. 16, § 1º, IV</b> (3 a 6 anos), e não no art. 12 ou 14. A banca sempre \"esconde\" a numeração raspada no enunciado.</div>\n<h3>2. Teses que a prova cobra</h3>\n<ul><li>Os crimes são de <b>perigo abstrato</b>: não precisa provar risco concreto. <b>Arma desmuniciada</b> configura o crime (STF e STJ).</li><li><b>Munição isolada</b>, em pequena quantidade e <b>sem arma</b>, pode levar à <b>insignificância</b>, conforme o caso (STF e STJ).</li><li><b>Arma absolutamente inapta</b> para disparar, comprovada por laudo, torna o fato <b>atípico</b> (crime impossível).</li><li>Várias armas ou munições no <b>mesmo contexto</b> = <b>um só crime</b> (com reflexo na pena), salvo se de tipos penais diferentes (art. 12 e art. 16 → concurso).</li><li>Os parágrafos únicos dos arts. 14 e 15 (que diziam \"inafiançável\") foram declarados <b>inconstitucionais</b> (ADI 3.112). Na <b>posse irregular (art. 12)</b>, com pena máxima de 3 anos, o <b>Delegado pode arbitrar fiança</b> (CPP, art. 322).</li></ul>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 513</b><p class=\"jc-tese\">A abolitio criminis temporária prevista na Lei 10.826/2003 aplica-se ao crime de posse de arma de fogo de uso permitido com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado, praticado somente até 23/10/2005.</p><p class=\"jc-com\">Depois disso, a posse de arma com numeração raspada é crime do art. 16, § 1º, IV, sem \"anistia\".</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · porte e posse no mesmo contexto</b><p class=\"jc-tese\">Quem guarda arma em casa e, no mesmo contexto, sai portando-a responde por um único crime (o mais grave), pelo princípio da consunção.</p><p class=\"jc-com\">Se as armas são de calibres com tipos diferentes (uso permitido e uso restrito), o STJ admite concurso de crimes.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Arma desmuniciada não configura porte ilegal</span><br>✅ <span class=\"certo\">Configura: crime de perigo abstrato.</span></li><li>❌ <span class=\"banca\">Posse de arma de uso permitido é crime inafiançável</span><br>✅ <span class=\"certo\">Pena máx. 3 anos: o Delegado pode arbitrar fiança.</span></li><li>❌ <span class=\"banca\">Porte de arma de uso restrito é hediondo</span><br>✅ <span class=\"certo\">Após o Anticrime, só a de uso PROIBIDO é hediondo.</span></li><li>❌ <span class=\"banca\">Arma com numeração raspada de calibre permitido é art. 12</span><br>✅ <span class=\"certo\">É art. 16, § 1º, IV.</span></li><li>❌ <span class=\"banca\">Arma em casa = porte</span><br>✅ <span class=\"certo\">Em casa ou no trabalho (como responsável) = POSSE.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Posse x porte?</span></span><span class=\"vs\"><span><b>Posse</b>: em casa/trabalho. <b>Porte</b>: fora deles.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 12?</span></span><span class=\"vs\"><span>Posse de uso permitido: <b>detenção 1 a 3</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 14?</span></span><span class=\"vs\"><span>Porte de uso permitido: <b>reclusão 2 a 4</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Numeração raspada?</span></span><span class=\"vs\"><span><b>Art. 16, § 1º, IV</b> (3 a 6).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Uso proibido?</span></span><span class=\"vs\"><span><b>4 a 12 anos</b>, hediondo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arma desmuniciada?</span></span><span class=\"vs\"><span><b>Crime</b> (perigo abstrato).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O revólver no porta-luvas</b><p>Em blitz, a polícia encontra no porta-luvas de um carro um revólver calibre .38 (uso permitido), sem munição e com a numeração raspada. O motorista não tem registro nem porte.</p><details><summary>Ver a solução comentada</summary><p>A arma estar desmuniciada não afasta o crime (perigo abstrato). Como a <b>numeração está raspada</b>, a conduta é a do <b>art. 16, § 1º, IV</b> (reclusão de 3 a 6 anos), e não o porte de uso permitido do art. 14. Não é hediondo, pois a arma não é de uso proibido.</p></details></div>",
+"quiz": [
+{
+"p": "Os crimes de posse e de porte ilegal de arma de fogo são de perigo abstrato, configurando-se ainda que a arma esteja desmuniciada.",
+"c": true,
+"prof": "Certo.",
+"x": "STF e STJ entendem que basta a conduta; não é preciso provar perigo concreto. Só a inaptidão absoluta, atestada em laudo, afasta o crime.",
+"e": "Desmuniciada: crime."
+},
+{
+"p": "A posse irregular de arma de fogo de uso permitido é punida com reclusão de 2 a 4 anos, sendo inafiançável.",
+"c": false,
+"prof": "Pena e regime trocados com o porte.",
+"x": "O art. 12 prevê detenção de 1 a 3 anos e multa. Por ter pena máxima de até 4 anos, o Delegado pode arbitrar fiança. Reclusão de 2 a 4 anos é o porte do art. 14.",
+"e": "Art. 12: detenção 1 a 3."
+},
+{
+"p": "Portar arma de fogo de uso permitido com numeração raspada configura o crime do art. 16, § 1º, IV, do Estatuto do Desarmamento.",
+"c": true,
+"prof": "Certo.",
+"x": "A supressão da numeração desloca a conduta para o art. 16, com pena de reclusão de 3 a 6 anos, independentemente do calibre.",
+"e": "Raspada: art. 16, § 1º."
+},
+{
+"p": "Após o Pacote Anticrime, a posse ou o porte ilegal de arma de fogo de uso restrito passou a ser crime hediondo.",
+"c": false,
+"prof": "Foi o contrário.",
+"x": "O Anticrime restringiu o rol: só a posse ou porte de arma de uso proibido é hediondo. O de uso restrito deixou de ser (STJ).",
+"e": "Hediondo: uso proibido."
+},
+{
+"p": "Um comerciante mantinha, dentro de sua loja, da qual é o dono, uma pistola .380 (uso permitido) sem registro. A conduta configura:",
+"alts": [
+"porte ilegal de arma de uso permitido (art. 14)",
+"posse irregular de arma de uso permitido (art. 12)",
+"posse de arma de uso restrito (art. 16)",
+"fato atípico",
+"omissão de cautela (art. 13)"
+],
+"r": 1,
+"n": [
+"Dentro do estabelecimento do qual é responsável, é posse.",
+"Correta.",
+"A .380 é de uso permitido.",
+"Sem registro é crime.",
+"Omissão de cautela envolve menor ou deficiente."
+],
+"prof": "Local de trabalho do qual é titular = posse.",
+"x": "O art. 12 abrange manter a arma no interior da residência ou no local de trabalho, desde que o agente seja o titular ou o responsável legal pelo estabelecimento.",
+"e": "Loja própria = posse."
+},
+{
+"p": "Em uma residência, a polícia apreende uma pistola 9 mm de uso permitido registrada em nome do morador e, no mesmo armário, um fuzil de uso restrito sem registro. Segundo o STJ:",
+"alts": [
+"há crime único do art. 12",
+"há crime único do art. 16, por consunção",
+"há concurso de crimes, pois as armas se enquadram em tipos penais distintos",
+"o fato é atípico em relação às duas armas",
+"há apenas infração administrativa"
+],
+"r": 2,
+"n": [
+"O fuzil de uso restrito tem tipo próprio.",
+"O STJ admite concurso quando os tipos são diferentes.",
+"Correta.",
+"O fuzil sem registro é crime.",
+"Há crime."
+],
+"prof": "Mesmo contexto, tipos diferentes = concurso.",
+"x": "Para o STJ, a apreensão de armas no mesmo contexto gera crime único se o tipo penal for o mesmo; se as condutas se encaixam em tipos diferentes (art. 12 e art. 16), há concurso. Aqui, a pistola registrada nem é crime, e o fuzil sem registro configura o art. 16.",
+"e": "Tipos distintos: concurso."
+},
+{
+"p": "Preso em flagrante por posse irregular de arma de fogo de uso permitido (art. 12 da Lei 10.826/2003), o autuado pede fiança na delegacia. O Delegado:",
+"alts": [
+"não pode conceder, pois o crime é inafiançável",
+"pode arbitrar fiança, pois a pena máxima não supera 4 anos",
+"só pode conceder com autorização do MP",
+"deve soltar o preso sem fiança em qualquer caso",
+"deve encaminhar o pedido ao Chefe da PCMG"
+],
+"r": 1,
+"n": [
+"Não há vedação válida.",
+"Correta: CPP, art. 322.",
+"Não precisa de autorização.",
+"A fiança é o instrumento cabível.",
+"Não há essa exigência."
+],
+"prof": "Pena máxima até 4 anos: fiança pelo Delegado.",
+"x": "O art. 322 do CPP permite ao Delegado conceder fiança nas infrações com pena privativa de liberdade máxima não superior a 4 anos. O art. 12 tem pena máxima de 3 anos.",
+"e": "Delegado arbitra fiança."
+}
+]
+},
+"abuso": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>finalidades específicas que caracterizam o abuso (prejudicar, beneficiar, capricho)</span></div><div class=\"lt-stat\"><b>21h às 5h</b><span>horário em que é crime cumprir mandado de busca domiciliar (art. 22, § 1º, III)</span></div><div class=\"lt-stat\"><b>1 a 5</b><span>anos de inabilitação para cargo (efeito da condenação)</span></div><div class=\"lt-stat\"><b>Incondicionada</b><span>natureza da ação penal</span></div></div>\n<h3>1. Estrutura da Lei 13.869/2019</h3>\n<ul><li><b>Sujeito ativo</b>: <b>agente público</b>, servidor ou não, da administração direta ou indireta de qualquer Poder, inclusive quem exerce função <b>transitória e sem remuneração</b> (art. 2º).</li><li><b>Dolo específico</b> (art. 1º, § 1º): só há crime se o agente agir com a <b>finalidade de prejudicar outrem</b>, de <b>beneficiar a si mesmo ou a terceiro</b>, ou por <b>mero capricho ou satisfação pessoal</b>.</li><li><b>Divergência</b> na interpretação da lei ou na avaliação de fatos e provas <b>não configura abuso</b> (art. 1º, § 2º): é a vedação ao \"crime de hermenêutica\".</li><li><b>Ação penal pública incondicionada</b>, admitida a <b>ação privada subsidiária</b> se o MP não agir no prazo (art. 3º).</li><li><b>Efeitos da condenação</b> (art. 4º): indenizar o dano (automático, mas o juiz fixa o mínimo a requerimento); <b>inabilitação</b> para cargo por <b>1 a 5 anos</b> e <b>perda do cargo</b> só na <b>reincidência</b> em crime de abuso e <b>por decisão motivada</b> (não automáticos).</li></ul>\n<h3>2. Crimes mais cobrados de polícia</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta (resumo)</th></tr></thead><tbody><tr><td>9º</td><td>decretar prisão em desconformidade com a lei; deixar o juiz de relaxar prisão ilegal etc.</td></tr><tr><td>10</td><td><b>condução coercitiva</b> de testemunha ou investigado <b>manifestamente descabida</b> ou <b>sem prévia intimação</b> de comparecimento</td></tr><tr><td>12</td><td>deixar <b>injustificadamente</b> de comunicar prisão em flagrante ao juiz no prazo legal, ou de entregar a nota de culpa em 24 h</td></tr><tr><td><b>13</b></td><td>constranger o preso, com violência, grave ameaça ou redução da capacidade de resistência, a <b>exibir-se</b> à curiosidade pública, a submeter-se a situação <b>vexatória</b> ou a <b>produzir prova contra si</b></td></tr><tr><td><b>15</b></td><td>constranger a depor quem deve guardar segredo; <b>prosseguir o interrogatório</b> de quem decidiu <b>ficar calado</b> ou que pediu <b>advogado</b> (sem que ele esteja presente)</td></tr><tr><td>16</td><td>deixar de <b>identificar-se</b> ao preso ou identificar-se falsamente</td></tr><tr><td><b>18</b></td><td>submeter o preso a <b>interrogatório durante o repouso noturno</b>, salvo flagrante ou se ele, assistido, consentir</td></tr><tr><td><b>22</b></td><td><b>invadir</b> ou permanecer em imóvel alheio sem autorização judicial ou fora das hipóteses legais; § 1º, III: cumprir <b>mandado de busca domiciliar após as 21h ou antes das 5h</b></td></tr><tr><td>24</td><td>constranger hospital a admitir pessoa <b>já morta</b> para alterar o local ou o momento do crime</td></tr><tr><td><b>25</b></td><td>obter prova por <b>meio manifestamente ilícito</b> ou usá-la sabendo de sua ilicitude</td></tr><tr><td>27</td><td>instaurar procedimento investigatório <b>sem qualquer indício</b> (salvo sindicância ou investigação preliminar sumária justificada)</td></tr><tr><td>28</td><td><b>divulgar gravação</b> sem relação com a prova, expondo a intimidade do investigado</td></tr><tr><td>30</td><td>iniciar persecução <b>sem justa causa</b> ou contra quem sabe inocente</td></tr><tr><td>31</td><td>estender <b>injustificadamente</b> a investigação, em prejuízo do investigado</td></tr><tr><td><b>32</b></td><td><b>negar ao defensor acesso aos autos</b> de investigação já documentados (SV 14)</td></tr><tr><td><b>38</b></td><td><b>antecipar</b>, por meio de comunicação (inclusive rede social), <b>atribuição de culpa</b> antes de concluídas as apurações e formalizada a acusação</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> A lei <b>não</b> criminaliza o uso de <b>algemas</b> (o artigo foi vetado). O tema segue regido pela <b>Súmula Vinculante 11</b>: algemas só em caso de resistência, receio de fuga ou perigo, com <b>justificativa por escrito</b>.</div>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 14</b><p class=\"jc-tese\">É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.</p><p class=\"jc-com\">Diligências <b>em andamento</b> (como interceptação em curso) podem ser preservadas; o que já está <b>documentado</b> deve ser franqueado. Negar acesso injustificadamente é crime do art. 32.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · dolo específico</b><p class=\"jc-tese\">Sem a finalidade especial do art. 1º, § 1º (prejudicar, beneficiar ou capricho), não há crime de abuso, ainda que a decisão do agente seja reformada depois.</p><p class=\"jc-com\">A banca costuma descrever uma conduta ilegal mas de boa-fé (erro de interpretação, decisão revista pelo juiz) e perguntar se é abuso. A resposta é não.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo erro de interpretação da lei é abuso de autoridade</span><br>✅ <span class=\"certo\">Divergência na interpretação ou na avaliação de provas NÃO configura abuso.</span></li><li>❌ <span class=\"banca\">A perda do cargo é efeito automático</span><br>✅ <span class=\"certo\">Exige reincidência em abuso e decisão motivada.</span></li><li>❌ <span class=\"banca\">A ação penal é condicionada à representação da vítima</span><br>✅ <span class=\"certo\">É pública incondicionada, com ação privada subsidiária.</span></li><li>❌ <span class=\"banca\">Cumprir mandado de busca às 20h é crime</span><br>✅ <span class=\"certo\">O crime é após as 21h ou antes das 5h.</span></li><li>❌ <span class=\"banca\">Usar algemas sem justificativa é crime da Lei 13.869</span><br>✅ <span class=\"certo\">O artigo foi vetado; aplica-se a SV 11.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dolo específico do abuso?</span></span><span class=\"vs\"><span><b>Prejudicar</b> outrem, <b>beneficiar</b> a si/terceiro, ou <b>capricho/satisfação pessoal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação penal?</span></span><span class=\"vs\"><span><b>Pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perda do cargo?</span></span><span class=\"vs\"><span>Só na <b>reincidência</b>, com decisão <b>motivada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mandado de busca à noite?</span></span><span class=\"vs\"><span>Crime <b>após 21h ou antes das 5h</b> (art. 22).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Interrogatório noturno?</span></span><span class=\"vs\"><span>Crime, salvo <b>flagrante</b> ou consentimento do preso assistido (art. 18).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Antecipar culpa em rede social?</span></span><span class=\"vs\"><span><b>Art. 38</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A entrevista após a prisão</b><p>Logo após prender um suspeito de homicídio, o Delegado dá entrevista ao vivo dizendo \"este é o assassino, caso encerrado\", antes de concluir o inquérito.</p><details><summary>Ver a solução comentada</summary><p>A conduta pode configurar o <b>art. 38</b> (antecipar atribuição de culpa antes de concluídas as apurações e formalizada a acusação), desde que presente a finalidade específica do art. 1º, § 1º. A divulgação institucional deve ser <b>objetiva</b>, sem juízo de culpa.</p></details></div>",
+"quiz": [
+{
+"p": "Os crimes de abuso de autoridade exigem que o agente atue com a finalidade específica de prejudicar outrem, de beneficiar a si mesmo ou a terceiro, ou por mero capricho ou satisfação pessoal.",
+"c": true,
+"prof": "Certo. É o art. 1º, § 1º.",
+"x": "Sem esse dolo específico, a conduta pode ser ilegal, mas não é crime de abuso de autoridade.",
+"e": "Dolo específico."
+},
+{
+"p": "A divergência na interpretação da lei pelo agente público configura crime de abuso de autoridade quando a decisão é posteriormente reformada.",
+"c": false,
+"prof": "A lei afasta expressamente essa hipótese.",
+"x": "O § 2º do art. 1º estabelece que a divergência na interpretação da lei ou na avaliação de fatos e provas não configura abuso de autoridade.",
+"e": "Sem crime de hermenêutica."
+},
+{
+"p": "A inabilitação para o exercício de cargo e a perda do cargo, como efeitos da condenação por abuso de autoridade, dependem de reincidência e não são automáticas.",
+"c": true,
+"prof": "Certo. É o art. 4º, parágrafo único.",
+"x": "Devem ser declaradas motivadamente na sentença. A inabilitação vai de 1 a 5 anos.",
+"e": "Reincidência e motivação."
+},
+{
+"p": "Constitui crime de abuso de autoridade cumprir mandado judicial de busca e apreensão domiciliar às 20 horas.",
+"c": false,
+"prof": "Confira o horário da lei.",
+"x": "O art. 22, § 1º, III, criminaliza cumprir mandado de busca domiciliar após as 21h ou antes das 5h.",
+"e": "Crime: após 21h ou antes 5h."
+},
+{
+"p": "Configura crime de abuso de autoridade prosseguir com o interrogatório de pessoa que tenha decidido exercer o direito ao silêncio.",
+"c": true,
+"prof": "Certo. É o art. 15, parágrafo único, I.",
+"x": "Também é crime prosseguir no interrogatório de quem optou por ser assistido por advogado, sem a presença dele.",
+"e": "Silêncio respeitado."
+},
+{
+"p": "Assinale a alternativa correta sobre a Lei 13.869/2019.",
+"alts": [
+"A ação penal é pública condicionada à representação do ofendido.",
+"O uso de algemas sem justificativa por escrito é crime previsto na lei.",
+"O agente público que, por meio de rede social, antecipa a atribuição de culpa antes de concluídas as apurações e formalizada a acusação pode responder por crime de abuso de autoridade.",
+"A perda do cargo é efeito automático da condenação.",
+"A lei só se aplica a servidores efetivos."
+],
+"r": 2,
+"n": [
+"É incondicionada.",
+"O artigo das algemas foi vetado.",
+"Correta: art. 38.",
+"Depende de reincidência e motivação.",
+"Alcança qualquer agente público, ainda que transitório e sem remuneração."
+],
+"prof": "Art. 38: a \"condenação pela imprensa\".",
+"x": "O art. 38 pune quem antecipa, por meio de comunicação, inclusive rede social, a atribuição de culpa antes de concluídas as apurações e formalizada a acusação, exigido o dolo específico do art. 1º, § 1º.",
+"e": "Art. 38."
+},
+{
+"p": "O advogado de um investigado pede acesso ao inquérito. O Delegado nega acesso a todos os documentos, inclusive os depoimentos já colhidos, alegando que há interceptação telefônica em andamento. Diante da SV 14 e da Lei 13.869/2019:",
+"alts": [
+"a negativa total é correta, pois o inquérito é sigiloso",
+"o Delegado pode preservar a diligência em andamento, mas deve franquear os elementos já documentados; a negativa injustificada pode configurar crime",
+"o advogado só tem acesso após a denúncia",
+"o advogado tem acesso inclusive às diligências em curso",
+"o acesso depende de autorização do Chefe da PCMG"
+],
+"r": 1,
+"n": [
+"O sigilo não alcança o que já está documentado.",
+"Correta.",
+"O acesso é na fase investigatória.",
+"Diligências em curso podem ser preservadas.",
+"Não depende dessa autorização."
+],
+"prof": "Documentado = acesso. Em andamento = pode reservar.",
+"x": "A SV 14 assegura ao defensor acesso aos elementos já documentados. A interceptação em andamento pode ser preservada. Negar acesso injustificadamente aos autos pode configurar o crime do art. 32.",
+"e": "SV 14."
+}
+]
+},
+"maria-penha": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>formas de violência (física, psicológica, sexual, patrimonial e moral)</span></div><div class=\"lt-stat\"><b>48 h</b><span>para remeter ao juiz o pedido de medidas protetivas</span></div><div class=\"lt-stat\"><b>24 h</b><span>para comunicar ao juiz o afastamento do lar feito pelo Delegado ou policial</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão por descumprir medida protetiva (art. 24-A)</span></div></div>\n<h3>1. Quando se aplica</h3>\n<ul><li><b>Violência doméstica e familiar contra a mulher</b>: ação ou omissão <b>baseada no gênero</b> que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial (art. 5º), no âmbito: (I) da <b>unidade doméstica</b> (inclusive pessoas esporadicamente agregadas); (II) da <b>família</b>; (III) de <b>relação íntima de afeto</b>, <b>independentemente de coabitação</b>.</li><li>O <b>sujeito ativo</b> pode ser homem ou <b>mulher</b> (ex.: relação homoafetiva, mãe e filha). A vítima é <b>mulher</b>, inclusive <b>mulher trans</b> (STJ, REsp 1.977.124).</li><li>As relações independem de <b>orientação sexual</b> (art. 5º, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma (art. 7º)</th><th>Exemplos</th></tr></thead><tbody><tr><td>Física</td><td>agressões, empurrões, lesões</td></tr><tr><td><b>Psicológica</b></td><td>ameaça, humilhação, <b>controle</b>, vigilância, isolamento, manipulação</td></tr><tr><td>Sexual</td><td>forçar relação, impedir uso de contraceptivo, forçar aborto ou prostituição</td></tr><tr><td><b>Patrimonial</b></td><td>reter, subtrair ou <b>destruir</b> objetos, documentos, instrumentos de trabalho</td></tr><tr><td><b>Moral</b></td><td><b>calúnia, difamação ou injúria</b></td></tr></tbody></table>\n<h3>2. A atuação da polícia (arts. 10 a 12-C)</h3>\n<ul><li>Atendimento policial e pericial <b>especializado</b>, ininterrupto, preferencialmente por <b>servidoras do sexo feminino</b>, evitando a <b>revitimização</b> (perguntas repetidas e contato com o agressor).</li><li>A autoridade policial deve: registrar a ocorrência e ouvir a vítima; colher provas; <b>remeter ao juiz, em 48 horas</b>, o pedido de <b>medidas protetivas</b>; determinar exames periciais; ouvir o agressor; verificar se ele tem <b>arma</b> e comunicar o órgão competente; remeter o inquérito.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 12-C (afastamento do lar pela polícia)</div><div class=\"art-lei\">Verificado risco atual ou iminente à vida ou à integridade da mulher, o agressor será imediatamente afastado do lar: I – pela autoridade judicial; II – pelo Delegado de Polícia, quando o Município não for sede de comarca; III – pelo policial, quando o Município não for sede de comarca e não houver Delegado disponível no momento da denúncia.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>É uma das poucas medidas que a <b>polícia</b> aplica diretamente.</li><li>A ordem é <b>escalonada</b>: juiz → Delegado (sem comarca) → policial (sem comarca e sem Delegado).</li><li>O juiz deve ser comunicado em <b>24 horas</b> e decide sobre a manutenção.</li><li>Nesses casos, <b>não se concede liberdade provisória</b> ao preso enquanto houver risco à vítima ou à efetividade da medida.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que o Delegado pode afastar o agressor em qualquer município.</li><li>Dizer que o policial pode afastar mesmo havendo Delegado disponível.</li></ul></div></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Medidas protetivas e consequências penais</h3>\n<ul><li><b>Providências imediatas da polícia</b> (art. 11): garantir <b>proteção policial</b>, comunicando de imediato o MP e o Judiciário; <b>encaminhar</b> a ofendida ao hospital, posto de saúde e IML; fornecer <b>transporte</b> para ela e os dependentes até <b>abrigo</b> ou local seguro, quando houver risco de vida; <b>acompanhá-la</b> para retirar seus pertences do domicílio; <b>informá-la</b> dos seus direitos. A ofendida <b>não pode entregar</b> intimação ou notificação ao agressor (art. 21, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Medidas que obrigam o agressor (art. 22)</th><th>Medidas em favor da ofendida (arts. 23 e 24)</th></tr></thead><tbody><tr><td><b>suspensão da posse ou restrição do porte</b> de armas</td><td>encaminhamento a programa de <b>proteção</b> ou de atendimento</td></tr><tr><td><b>afastamento do lar</b></td><td><b>recondução</b> ao domicílio após o afastamento do agressor</td></tr><tr><td><b>proibição de aproximação</b> da ofendida, familiares e testemunhas, <b>fixando o limite mínimo de distância</b></td><td>afastamento da ofendida do lar, sem prejuízo de seus direitos</td></tr><tr><td>proibição de <b>contato</b> por qualquer meio de comunicação</td><td>matrícula dos dependentes em escola próxima</td></tr><tr><td>proibição de <b>frequentar</b> determinados lugares</td><td><b>restituição de bens</b> indevidamente subtraídos pelo agressor</td></tr><tr><td>restrição ou suspensão de <b>visitas</b> aos dependentes</td><td>proibição temporária de atos e contratos de compra, venda e locação de bens comuns</td></tr><tr><td><b>alimentos</b> provisionais; comparecimento a programas de <b>recuperação</b>; acompanhamento psicossocial</td><td>prestação de <b>caução</b> provisória por perdas e danos</td></tr></tbody></table>\n<ul><li><b>Juizados de Violência Doméstica e Familiar contra a Mulher</b> (art. 14): órgãos da Justiça Ordinária com competência <b>cível e criminal</b>, para processar, julgar e executar as causas decorrentes desses casos. Enquanto não instalados, as varas criminais acumulam essa competência (art. 33).</li><li><b>Prisão preventiva</b> (art. 20): cabe <b>em qualquer fase</b> do inquérito ou da instrução, a requerimento do MP ou mediante <b>representação da autoridade policial</b> (após o Pacote Anticrime, o juiz não a decreta de ofício). O descumprimento de medida protetiva também autoriza a preventiva (CPP, art. 313, III).</li><li>As medidas são concedidas pelo <b>juiz</b> em <b>48 horas</b>, a pedido da vítima ou do MP, e <b>independem</b> de tipificação penal, de ajuizamento de ação, de inquérito ou de registro de ocorrência (art. 19, § 5º, Lei 14.550/2023). Vigoram <b>enquanto houver risco</b>.</li><li><b>Descumprir medida protetiva</b> (art. 24-A): <b>reclusão de 2 a 5 anos</b> (Lei 14.994/2024). Na prisão em flagrante, <b>só o juiz</b> concede fiança.</li><li><b>Não se aplica a Lei 9.099</b> (art. 41): sem transação penal nem suspensão condicional do processo (Súmula 536 STJ).</li><li><b>Lesão corporal</b> (mesmo leve) contra a mulher em contexto doméstico: <b>ação penal pública incondicionada</b> (Súmula 542 STJ e ADI 4.424). Já a <b>ameaça</b> depende de representação, e a <b>renúncia</b> só vale perante o <b>juiz</b>, em audiência, antes do recebimento da denúncia (art. 16).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 600</b><p class=\"jc-tese\">Para a configuração da violência doméstica e familiar prevista no art. 5º da Lei 11.340/2006, não se exige a coabitação entre autor e vítima.</p><p class=\"jc-com\">Ex-namorado que agride a ex-companheira por inconformismo com o fim da relação está alcançado pela lei.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmulas 588 e 589</b><p class=\"jc-tese\">É inviável a substituição da pena privativa de liberdade por restritiva de direitos em crimes ou contravenções com violência ou grave ameaça contra a mulher no ambiente doméstico (588); e é inaplicável o princípio da insignificância nesses crimes (589).</p><p class=\"jc-com\">Também é vedada a aplicação isolada de pena de cesta básica ou prestação pecuniária (art. 17 da Lei).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A lei só se aplica se o casal morar junto</span><br>✅ <span class=\"certo\">Independe de coabitação (Súmula 600).</span></li><li>❌ <span class=\"banca\">O agressor precisa ser homem</span><br>✅ <span class=\"certo\">Sujeito ativo pode ser mulher; a vítima é mulher.</span></li><li>❌ <span class=\"banca\">Lesão leve contra a mulher depende de representação</span><br>✅ <span class=\"certo\">Ação pública incondicionada (Súmula 542).</span></li><li>❌ <span class=\"banca\">Cabe transação penal em violência doméstica</span><br>✅ <span class=\"certo\">A Lei 9.099 não se aplica (art. 41; Súmula 536).</span></li><li>❌ <span class=\"banca\">Medida protetiva exige boletim de ocorrência</span><br>✅ <span class=\"certo\">Independe de BO, inquérito ou ação (art. 19, § 5º).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Formas de violência?</span></span><span class=\"vs\"><span><b>Física, psicológica, sexual, patrimonial e moral</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo para remeter pedido de medida protetiva?</span></span><span class=\"vs\"><span><b>48 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento do lar pela polícia?</span></span><span class=\"vs\"><span><b>Delegado</b> (município sem comarca) ou <b>policial</b> (sem comarca e sem Delegado); juiz comunicado em <b>24 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Descumprir medida protetiva?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 5 anos</b>; fiança só pelo <b>juiz</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão leve doméstica?</span></span><span class=\"vs\"><span>Ação <b>pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 9.099?</span></span><span class=\"vs\"><span><b>Não se aplica</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A cidade sem comarca</b><p>Em um pequeno município mineiro que não é sede de comarca, a vítima chega à delegacia relatando que o marido ameaça matá-la com uma faca. O Delegado está presente.</p><details><summary>Ver a solução comentada</summary><p>Havendo risco atual ou iminente, o <b>Delegado</b> pode determinar o <b>afastamento imediato do agressor do lar</b> (art. 12-C, II), comunicando o juiz em <b>24 horas</b>. Deve ainda remeter o pedido de outras medidas protetivas em 48 horas, verificar se o agressor tem arma e registrar a ameaça (que depende de representação; a renúncia só perante o juiz).</p></details></div>",
+"quiz": [
+{
+"p": "A configuração da violência doméstica e familiar contra a mulher no âmbito de relação íntima de afeto independe de coabitação.",
+"c": true,
+"prof": "Certo. Art. 5º, III, e Súmula 600 do STJ.",
+"x": "Basta a relação íntima de afeto, atual ou passada.",
+"e": "Sem coabitação."
+},
+{
+"p": "A Lei Maria da Penha exige que o agressor seja do sexo masculino.",
+"c": false,
+"prof": "O foco está na vítima.",
+"x": "O sujeito ativo pode ser homem ou mulher. O que se exige é violência baseada no gênero contra a mulher, no âmbito doméstico, familiar ou de relação íntima de afeto.",
+"e": "Agressor pode ser mulher."
+},
+{
+"p": "O crime de lesão corporal praticado contra a mulher no âmbito das relações domésticas é de ação penal pública incondicionada, ainda que a lesão seja leve.",
+"c": true,
+"prof": "Certo. Súmula 542 do STJ.",
+"x": "O STF (ADI 4.424) fixou o mesmo entendimento.",
+"e": "Lesão: incondicionada."
+},
+{
+"p": "Na hipótese de prisão em flagrante pelo crime de descumprimento de medida protetiva de urgência, o Delegado de Polícia pode arbitrar fiança.",
+"c": false,
+"prof": "A lei reserva a fiança a outra autoridade.",
+"x": "O art. 24-A, § 2º, estabelece que, na prisão em flagrante, apenas a autoridade judicial pode conceder fiança.",
+"e": "Fiança: só juiz."
+},
+{
+"p": "As medidas protetivas de urgência independem da tipificação penal da violência, do ajuizamento de ação penal ou cível, da existência de inquérito ou do registro de boletim de ocorrência.",
+"c": true,
+"prof": "Certo. Art. 19, § 5º (Lei 14.550/2023).",
+"x": "Vigoram enquanto persistir o risco à integridade da mulher ou de seus dependentes.",
+"e": "Medida protetiva autônoma."
+},
+{
+"p": "Em município que não é sede de comarca, sem Delegado disponível no momento, um policial civil atende a mulher ameaçada de morte pelo companheiro, que está em casa armado com faca. Segundo a Lei 11.340/2006:",
+"alts": [
+"o policial nada pode fazer, devendo aguardar decisão judicial",
+"o policial pode determinar o afastamento imediato do agressor do lar, comunicando o juiz em 24 horas",
+"somente o Delegado de outro município pode determinar o afastamento",
+"o afastamento depende de autorização do MP",
+"o policial pode afastar o agressor, devendo comunicar o juiz em 30 dias"
+],
+"r": 1,
+"n": [
+"A lei autoriza o policial nessa hipótese.",
+"Correta: art. 12-C, III, e § 1º.",
+"O policial é competente se não houver Delegado disponível.",
+"Não depende do MP.",
+"O prazo de comunicação é de 24 horas."
+],
+"prof": "Escada: juiz → Delegado (sem comarca) → policial (sem comarca e sem Delegado).",
+"x": "O art. 12-C autoriza o afastamento pelo policial quando o município não for sede de comarca e não houver Delegado disponível. O juiz é comunicado em 24 horas e decide sobre a manutenção ou revogação.",
+"e": "Policial afasta e comunica em 24 h."
+},
+{
+"p": "Assinale a alternativa correta, segundo a Lei Maria da Penha e a jurisprudência do STJ.",
+"alts": [
+"Cabe suspensão condicional do processo nos crimes de violência doméstica de menor potencial ofensivo.",
+"A substituição da pena por cesta básica é admitida se o agressor for primário.",
+"É vedada a substituição da pena privativa de liberdade por restritiva de direitos em crime com violência ou grave ameaça contra a mulher no ambiente doméstico.",
+"O princípio da insignificância se aplica a lesões levíssimas.",
+"A renúncia à representação na ameaça pode ser feita na delegacia."
+],
+"r": 2,
+"n": [
+"A Lei 9.099 não se aplica (Súmula 536).",
+"É vedada (art. 17).",
+"Correta: Súmula 588.",
+"Inaplicável (Súmula 589).",
+"Só perante o juiz, em audiência (art. 16)."
+],
+"prof": "A lei fecha todas as \"portas\" de solução leve para a violência doméstica.",
+"x": "A Súmula 588 do STJ veda a substituição por restritiva de direitos em crimes com violência ou grave ameaça contra a mulher no ambiente doméstico. Também não se aplicam a Lei 9.099 nem a insignificância.",
+"e": "Súmula 588."
+},
+{
+"p": "Um homem rasgou os documentos pessoais e quebrou o celular da ex-companheira para impedi-la de procurar emprego. À luz do art. 7º da Lei 11.340/2006, trata-se de violência:",
+"alts": [
+"moral",
+"sexual",
+"patrimonial",
+"psicológica, exclusivamente",
+"física"
+],
+"r": 2,
+"n": [
+"Moral é calúnia, difamação ou injúria.",
+"Não há conteúdo sexual.",
+"Correta.",
+"Pode haver também psicológica, mas a destruição de bens e documentos é patrimonial.",
+"Não houve agressão física."
+],
+"prof": "Bens, documentos, instrumentos de trabalho = patrimonial.",
+"x": "A violência patrimonial inclui retenção, subtração ou destruição de objetos, instrumentos de trabalho e documentos pessoais da mulher.",
+"e": "Patrimonial."
+}
+]
+},
+"orcrim": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>pessoas, no mínimo, para organização criminosa</span></div><div class=\"lt-stat\"><b>> 4 anos</b><span>pena máxima das infrações visadas (ou caráter transnacional)</span></div><div class=\"lt-stat\"><b>3 a 8</b><span>anos de reclusão (art. 2º)</span></div><div class=\"lt-stat\"><b>6 meses</b><span>prazo da infiltração, renovável (virtual: até 720 dias no total)</span></div></div>\n<h3>1. Conceito (art. 1º, § 1º)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 1º, § 1º</div><div class=\"art-lei\">Considera-se organização criminosa a associação de 4 ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais cujas penas máximas sejam superiores a 4 anos, ou que sejam de caráter transnacional.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>4 ou mais</b> pessoas (na associação criminosa do CP, art. 288, são <b>3 ou mais</b>).</li><li><b>Estrutura ordenada</b> + <b>divisão de tarefas</b> (mesmo informal).</li><li>Infrações com pena máxima <b>superior a 4 anos</b> <b>ou</b> de caráter <b>transnacional</b>.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer \"3 pessoas\".</li><li>Dizer \"pena máxima igual ou superior a 4 anos\" (é SUPERIOR).</li><li>Exigir divisão formal de tarefas.</li></ul></div></div>\n<ul><li><b>Promover, constituir, financiar ou integrar</b> organização criminosa: <b>reclusão de 3 a 8 anos</b>, sem prejuízo das penas das infrações praticadas (art. 2º). <b>Embaraçar a investigação</b> tem a mesma pena (§ 1º).</li><li>Aumento até a <b>metade</b> se houver emprego de <b>arma de fogo</b>; agravante para quem exerce o <b>comando</b>. Aumento de 1/6 a 2/3 se houver criança ou adolescente, funcionário público que se vale do cargo, produto destinado ao exterior, conexão com outras organizações ou transnacionalidade.</li><li><b>Funcionário público</b> condenado: <b>perda do cargo</b> e <b>interdição</b> para função pública por <b>8 anos</b> após o cumprimento da pena. Lideranças armadas iniciam a pena em <b>estabelecimento de segurança máxima</b>.</li></ul>\n<h3>2. Meios de obtenção de prova (art. 3º)</h3>\n<ul><li><b>Colaboração premiada</b>; <b>captação ambiental</b>; <b>ação controlada</b>; acesso a registros e dados cadastrais; <b>interceptação</b>; quebra de sigilos financeiro, bancário e fiscal; <b>infiltração</b> de agentes; cooperação entre órgãos.</li><li>O <b>Delegado</b> pode <b>requisitar diretamente</b> dados cadastrais (qualificação, filiação e endereço) a Justiça Eleitoral, empresas telefônicas, bancos, provedores e administradoras de cartão (art. 15).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Colaboração premiada</h3>\n<ul><li><b>Negócio jurídico processual</b> e meio de obtenção de prova (art. 3º-A). Pode ser celebrada pelo <b>Delegado</b>, nos autos do inquérito, com manifestação do MP, ou pelo MP (STF, ADI 5.508). O juiz <b>não participa</b> das negociações; ele <b>homologa</b> (regularidade, legalidade e voluntariedade).</li><li><b>Benefícios</b>: perdão judicial, redução de até <b>2/3</b> da pena ou substituição por restritiva de direitos; se posterior à sentença, redução até a metade ou progressão sem os requisitos objetivos.</li><li><b>Resultados</b> exigidos (um ou mais): identificar coautores e crimes; revelar a estrutura; prevenir infrações; <b>recuperar o produto</b> do crime; <b>localizar a vítima</b> com integridade física preservada.</li><li>Garantias: <b>nenhuma sentença condenatória</b>, nem <b>medida cautelar</b>, nem <b>recebimento de denúncia</b> pode se basear <b>apenas</b> nas declarações do colaborador (art. 4º, § 16).</li></ul>\n<h3>4. Ação controlada e infiltração</h3>\n<table class=\"tab\"><thead><tr><th>Instituto</th><th>Regra na Lei 12.850</th></tr></thead><tbody><tr><td><b>Ação controlada</b></td><td>retardar a intervenção policial para o momento mais eficaz; exige só <b>comunicação prévia ao juiz</b>, que pode estabelecer limites (art. 8º)</td></tr><tr><td><b>Infiltração de agentes</b></td><td><b>autorização judicial</b> circunstanciada e sigilosa; a pedido do <b>Delegado</b> (com manifestação do MP) ou do MP; prazo de <b>até 6 meses</b>, renovável; só se a prova <b>não puder ser produzida por outros meios</b></td></tr><tr><td><b>Infiltração virtual</b> (art. 10-A)</td><td>até 6 meses, renovável, <b>até 720 dias</b> no total</td></tr><tr><td>Responsabilidade do infiltrado</td><td>não é punível o crime cometido na infiltração quando <b>inexigível conduta diversa</b>; responde pelos excessos</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 5.508</b><p class=\"jc-tese\">O Delegado de Polícia pode formalizar acordo de colaboração premiada na fase de inquérito, respeitadas as prerrogativas do MP, que deve se manifestar, cabendo ao juiz a homologação.</p><p class=\"jc-com\">A PCMG pode conduzir acordos de colaboração em investigações de facções, desde que o MP seja ouvido.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Organização criminosa exige 3 pessoas</span><br>✅ <span class=\"certo\">São 4 ou mais (associação criminosa do CP é que tem 3).</span></li><li>❌ <span class=\"banca\">Pena máxima igual a 4 anos basta</span><br>✅ <span class=\"certo\">Tem que ser SUPERIOR a 4 anos, ou transnacional.</span></li><li>❌ <span class=\"banca\">Ação controlada exige autorização judicial</span><br>✅ <span class=\"certo\">Na Lei 12.850, só comunicação prévia ao juiz.</span></li><li>❌ <span class=\"banca\">O juiz participa da negociação da colaboração</span><br>✅ <span class=\"certo\">O juiz não participa; só homologa.</span></li><li>❌ <span class=\"banca\">O juiz pode condenar só com a palavra do colaborador</span><br>✅ <span class=\"certo\">Vedado (art. 4º, § 16).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Organização criminosa?</span></span><span class=\"vs\"><span><b>4+</b> pessoas, estrutura, divisão de tarefas, infrações com pena máx. <b>> 4 anos</b> ou transnacionais.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena do art. 2º?</span></span><span class=\"vs\"><span><b>Reclusão de 3 a 8 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação controlada (Lei 12.850)?</span></span><span class=\"vs\"><span><b>Comunicação</b> prévia ao juiz.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infiltração?</span></span><span class=\"vs\"><span><b>Autorização judicial</b>; até <b>6 meses</b> renováveis.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem celebra colaboração?</span></span><span class=\"vs\"><span><b>MP</b> ou <b>Delegado</b> (com manifestação do MP).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Palavra do colaborador sozinha?</span></span><span class=\"vs\"><span><b>Não</b> basta para condenar, prender ou receber denúncia.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A facção do bairro</b><p>Uma investigação revela que 5 pessoas, com funções definidas (gerente, olheiros, \"vapores\"), vendem drogas e cometem roubos em um bairro de Contagem.</p><details><summary>Ver a solução comentada</summary><p>Há <b>organização criminosa</b> (4+ pessoas, estrutura e divisão de tarefas, crimes com pena máxima superior a 4 anos) em <b>concurso material</b> com os crimes praticados (tráfico, roubos). A associação para o tráfico (art. 35 da Lei de Drogas) também pode ser analisada, conforme o caso, evitando-se bis in idem.</p></details></div>",
+"quiz": [
+{
+"p": "Considera-se organização criminosa a associação de quatro ou mais pessoas, estruturalmente ordenada e com divisão de tarefas, ainda que informal, para obter vantagem mediante infrações penais com pena máxima superior a quatro anos ou de caráter transnacional.",
+"c": true,
+"prof": "Certo. É o art. 1º, § 1º.",
+"x": "A associação criminosa do art. 288 do CP exige três ou mais pessoas e não exige estrutura nem pena mínima das infrações visadas.",
+"e": "Quatro ou mais."
+},
+{
+"p": "Na Lei 12.850/2013, a ação controlada depende de prévia autorização judicial.",
+"c": false,
+"prof": "A lei exige menos.",
+"x": "O art. 8º, § 1º, exige apenas a comunicação prévia ao juiz competente, que pode estabelecer limites. Na Lei de Drogas é que se exige autorização judicial.",
+"e": "Comunicação, não autorização."
+},
+{
+"p": "Nenhuma sentença condenatória pode ser proferida com fundamento apenas nas declarações do colaborador.",
+"c": true,
+"prof": "Certo. Art. 4º, § 16.",
+"x": "A mesma vedação alcança a decretação de medidas cautelares e o recebimento da denúncia.",
+"e": "Corroboração obrigatória."
+},
+{
+"p": "O juiz deve participar das negociações do acordo de colaboração premiada para garantir sua voluntariedade.",
+"c": false,
+"prof": "O juiz fica de fora da negociação.",
+"x": "O juiz não participa das negociações. Ele analisa a regularidade, a legalidade e a voluntariedade na homologação.",
+"e": "Juiz só homologa."
+},
+{
+"p": "A infiltração de agentes de polícia em tarefas de investigação depende de autorização judicial circunstanciada, motivada e sigilosa.",
+"c": true,
+"prof": "Certo. Art. 10.",
+"x": "Pode ser representada pelo Delegado (com manifestação do MP) ou requerida pelo MP, e só é admitida se a prova não puder ser produzida por outros meios.",
+"e": "Infiltração: autorização judicial."
+},
+{
+"p": "Três pessoas se associam de forma estável, com divisão de tarefas, para praticar estelionatos (pena máxima de 5 anos). Segundo a legislação, configura-se:",
+"alts": [
+"organização criminosa (Lei 12.850/2013)",
+"associação criminosa (CP, art. 288), pois a organização criminosa exige quatro ou mais pessoas",
+"fato atípico",
+"associação para o tráfico",
+"milícia privada"
+],
+"r": 1,
+"n": [
+"Faltou o número mínimo de integrantes.",
+"Correta.",
+"Há crime de associação.",
+"Não é tráfico.",
+"Não há milícia."
+],
+"prof": "Conte as pessoas: 3 = associação; 4+ = organização.",
+"x": "A organização criminosa exige quatro ou mais pessoas. Com três, configura-se a associação criminosa do art. 288 do CP (3 ou mais pessoas, para o fim específico de cometer crimes).",
+"e": "3 = associação criminosa."
+},
+{
+"p": "Sobre a colaboração premiada na Lei 12.850/2013, assinale a afirmativa correta.",
+"alts": [
+"Só o Ministério Público pode celebrar o acordo, sendo vedada a participação do Delegado.",
+"O Delegado pode celebrar o acordo nos autos do inquérito, com manifestação do Ministério Público, cabendo ao juiz homologá-lo.",
+"O juiz deve participar das negociações.",
+"A palavra do colaborador basta para a decretação da prisão preventiva.",
+"O benefício máximo é a redução de 1/3 da pena."
+],
+"r": 1,
+"n": [
+"O STF admitiu o acordo pelo Delegado (ADI 5.508).",
+"Correta.",
+"O juiz não participa.",
+"Vedado pelo art. 4º, § 16.",
+"Pode chegar ao perdão judicial ou à redução de 2/3."
+],
+"prof": "Delegado negocia; MP opina; juiz homologa.",
+"x": "O STF (ADI 5.508) reconheceu a legitimidade do Delegado para celebrar acordo de colaboração na fase de inquérito, com manifestação do MP. Os benefícios vão de redução de até 2/3 ao perdão judicial.",
+"e": "Delegado pode."
+},
+{
+"p": "Em investigação de organização criminosa, policiais percebem que, se prenderem agora um \"mula\", perderão a chance de identificar o chefe da facção, que receberá a carga em dois dias. Para retardar a prisão, segundo a Lei 12.850/2013:",
+"alts": [
+"precisam de autorização judicial prévia e parecer do MP",
+"basta a comunicação prévia ao juiz competente, que poderá estabelecer limites, com posterior relatório",
+"não podem retardar, pois o flagrante é obrigatório em qualquer caso",
+"precisam de autorização do Chefe da PCMG",
+"podem retardar livremente, sem comunicar ninguém"
+],
+"r": 1,
+"n": [
+"Esse é o regime da Lei de Drogas.",
+"Correta: ação controlada (art. 8º).",
+"A lei autoriza o flagrante diferido.",
+"Não há essa exigência.",
+"A comunicação prévia é obrigatória."
+],
+"prof": "Ação controlada da Lei 12.850 = comunicar antes, relatar depois.",
+"x": "A ação controlada consiste em retardar a intervenção policial para que se concretize no momento mais eficaz. Na Lei 12.850, exige comunicação prévia ao juiz, que pode fixar limites e comunicará o MP; ao final, elabora-se auto circunstanciado.",
+"e": "Comunicação prévia."
+}
+]
+},
+"interceptacao": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>15</b><span>dias de interceptação, renováveis (sucessivamente, se indispensável)</span></div><div class=\"lt-stat\"><b>24 h</b><span>prazo do juiz para decidir o pedido</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão por interceptar sem autorização (art. 10)</span></div><div class=\"lt-stat\"><b>Detenção</b><span>crimes punidos só com detenção não admitem interceptação</span></div></div>\n<h3>1. Regras da Lei 9.296/1996</h3>\n<ul><li>A interceptação de comunicações <b>telefônicas</b> e de <b>fluxo de comunicações em sistemas de informática e telemática</b> depende de <b>ordem do juiz competente da ação principal</b>, sob <b>segredo de justiça</b> (art. 1º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Não cabe interceptação (art. 2º) quando:</th></tr></thead><tbody><tr><td><b>não houver indícios razoáveis</b> de autoria ou participação</td></tr><tr><td>a prova <b>puder ser feita por outros meios</b> disponíveis (subsidiariedade)</td></tr><tr><td>o fato for punido, <b>no máximo, com detenção</b></td></tr></tbody></table>\n<ul><li>Quem pede: a <b>autoridade policial</b> (na investigação) ou o <b>MP</b> (na investigação e na ação). A lei também fala em decretação <b>de ofício</b> pelo juiz, o que hoje é visto com reservas no sistema acusatório.</li><li>O pedido deve demonstrar a <b>necessidade</b> e indicar os <b>meios</b>; excepcionalmente pode ser <b>verbal</b>, reduzido a termo. O juiz decide em <b>24 horas</b>.</li><li>Prazo de <b>15 dias</b>, <b>renovável por igual período</b> quando comprovada a indispensabilidade. O STF admite <b>renovações sucessivas</b>, desde que fundamentadas (Tema 661).</li><li>A <b>autoridade policial conduz</b> a interceptação e dá ciência ao MP, que pode acompanhar. As gravações que não interessarem à prova são <b>inutilizadas</b> por decisão judicial (art. 9º).</li></ul>\n<h3>2. Captação ambiental (art. 8º-A, Pacote Anticrime)</h3>\n<ul><li>Captação de sinais eletromagnéticos, ópticos ou acústicos, a requerimento da <b>autoridade policial</b> ou do <b>MP</b>, com <b>autorização judicial</b>, quando a prova não puder ser feita por outros meios e houver indícios em crimes com <b>pena máxima superior a 4 anos</b> ou conexos. Prazo de <b>15 dias</b>, renovável.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Conceitos que caem</h3>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Precisa de ordem judicial?</th></tr></thead><tbody><tr><td><b>Interceptação</b>: terceiro capta conversa alheia sem que os interlocutores saibam</td><td><b>Sim</b> (Lei 9.296)</td></tr><tr><td><b>Escuta</b>: terceiro capta com o conhecimento de um dos interlocutores</td><td>Sim, em regra</td></tr><tr><td><b>Gravação clandestina</b>: um dos interlocutores grava a própria conversa</td><td><b>Não</b>: é lícita (STF, Tema 237), salvo causa legal de sigilo</td></tr><tr><td>Acesso a <b>dados</b> já armazenados no celular (mensagens, fotos)</td><td>Sim, mas não pela Lei 9.296: é quebra de sigilo de dados</td></tr><tr><td><b>Registros</b> de ligações (quem ligou, quando)</td><td>Sim, quebra de sigilo telefônico (não é interceptação)</td></tr></tbody></table>\n<ul><li><b>Encontro fortuito (serendipidade)</b>: provas de outros crimes ou de outras pessoas obtidas em interceptação <b>válida</b> podem ser usadas, mesmo que o crime descoberto seja punido com detenção (STF e STJ).</li><li><b>Crimes</b> (art. 10 e 10-A): realizar interceptação, escuta ambiental ou quebrar segredo de justiça sem autorização ou com objetivos não autorizados: <b>reclusão de 2 a 4 anos</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 237 (RE 583.937)</b><p class=\"jc-tese\">É lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro.</p><p class=\"jc-com\">A vítima de extorsão que grava a ligação do extorsionário produz prova válida.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 661 (RE 625.263)</b><p class=\"jc-tese\">São lícitas as sucessivas renovações de interceptação telefônica, desde que verificados os requisitos do art. 2º da Lei 9.296/1996 e demonstrada a necessidade da medida, com fundamentação de cada decisão.</p><p class=\"jc-com\">Renovação \"automática\", sem fundamentação concreta, torna a prova ilícita.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Cabe interceptação em qualquer crime</span><br>✅ <span class=\"certo\">Não cabe em crime punido, no máximo, com detenção.</span></li><li>❌ <span class=\"banca\">O prazo é de 30 dias</span><br>✅ <span class=\"certo\">15 dias, renovável por igual período.</span></li><li>❌ <span class=\"banca\">A gravação feita por um dos interlocutores é ilícita sem ordem judicial</span><br>✅ <span class=\"certo\">É lícita (Tema 237).</span></li><li>❌ <span class=\"banca\">A prova de crime de detenção descoberta fortuitamente é ilícita</span><br>✅ <span class=\"certo\">O encontro fortuito em interceptação válida é admitido.</span></li><li>❌ <span class=\"banca\">O MP conduz a interceptação</span><br>✅ <span class=\"certo\">Quem conduz é a autoridade policial, com ciência ao MP.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quando NÃO cabe interceptação?</span></span><span class=\"vs\"><span>Sem <b>indícios</b> de autoria; prova possível por <b>outros meios</b>; crime punido no máximo com <b>detenção</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo?</span></span><span class=\"vs\"><span><b>15 dias</b>, renovável (sucessivamente, se fundamentado).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juiz decide em?</span></span><span class=\"vs\"><span><b>24 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gravação por interlocutor?</span></span><span class=\"vs\"><span><b>Lícita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Serendipidade?</span></span><span class=\"vs\"><span>Válida se a interceptação for <b>lícita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Crime do art. 10?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 4 anos</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A descoberta inesperada</b><p>Em interceptação autorizada para investigar tráfico, a polícia ouve o investigado combinando com um vereador o pagamento de propina para liberar um alvará.</p><details><summary>Ver a solução comentada</summary><p>Trata-se de <b>encontro fortuito</b> de provas. Como a interceptação era <b>válida</b>, as informações podem ser usadas para investigar a corrupção. A polícia deve comunicar o juiz e instaurar procedimento próprio.</p></details></div>",
+"quiz": [
+{
+"p": "Não será admitida a interceptação de comunicações telefônicas quando o fato investigado constituir infração penal punida, no máximo, com pena de detenção.",
+"c": true,
+"prof": "Certo. É o art. 2º, III.",
+"x": "Também não cabe sem indícios razoáveis de autoria ou participação, ou quando a prova puder ser feita por outros meios.",
+"e": "Detenção: não cabe."
+},
+{
+"p": "A interceptação telefônica tem prazo de 30 dias, renovável uma única vez.",
+"c": false,
+"prof": "Prazo e regra de renovação errados.",
+"x": "O prazo é de 15 dias, renovável por igual período quando comprovada a indispensabilidade. O STF admite renovações sucessivas fundamentadas (Tema 661).",
+"e": "15 dias renováveis."
+},
+{
+"p": "É lícita a gravação de conversa telefônica feita por um dos interlocutores, sem o conhecimento do outro.",
+"c": true,
+"prof": "Certo. Tema 237 do STF.",
+"x": "A Lei 9.296 protege contra a interceptação por terceiros; a gravação clandestina por interlocutor não depende de ordem judicial, salvo hipóteses de sigilo legal.",
+"e": "Gravação por interlocutor: lícita."
+},
+{
+"p": "A interceptação telefônica é conduzida pelo Ministério Público, que dá ciência à autoridade policial.",
+"c": false,
+"prof": "Papéis invertidos.",
+"x": "Pelo art. 6º, a autoridade policial conduz os procedimentos de interceptação, dando ciência ao MP, que poderá acompanhar sua realização.",
+"e": "Polícia conduz."
+},
+{
+"p": "A Lei 9.296/1996 aplica-se também à interceptação do fluxo de comunicações em sistemas de informática e telemática.",
+"c": true,
+"prof": "Certo. Parágrafo único do art. 1º.",
+"x": "Alcança comunicações por aplicativos e e-mails em trânsito. O acesso a dados já armazenados é quebra de sigilo de dados, também com ordem judicial.",
+"e": "Telemática incluída."
+},
+{
+"p": "Em interceptação autorizada para apurar roubo de cargas, a polícia descobre que um dos investigados também pratica ameaça (crime punido com detenção). Sobre o uso dessa prova:",
+"alts": [
+"é ilícita, pois a ameaça é punida com detenção",
+"é ilícita, pois a interceptação só pode ser usada para o crime que a justificou",
+"é admissível, por se tratar de encontro fortuito em interceptação validamente autorizada",
+"só pode ser usada se o investigado confessar",
+"só pode ser usada se houver nova interceptação específica para a ameaça"
+],
+"r": 2,
+"n": [
+"A vedação do art. 2º, III, é para a DECRETAÇÃO da medida.",
+"A jurisprudência admite a serendipidade.",
+"Correta.",
+"Não depende de confissão.",
+"Não é preciso nova interceptação."
+],
+"prof": "A restrição da detenção vale para PEDIR a interceptação, não para aproveitar o que foi achado.",
+"x": "STF e STJ admitem o encontro fortuito de provas em interceptação válida, inclusive de crimes punidos com detenção, desde que conexos ou que a medida original seja legítima.",
+"e": "Serendipidade."
+},
+{
+"p": "Sobre a Lei 9.296/1996, assinale a afirmativa correta.",
+"alts": [
+"A interceptação pode ser determinada por qualquer juiz criminal, ainda que não seja o competente para a ação principal.",
+"O pedido de interceptação deve ser sempre escrito, vedada a forma verbal.",
+"O juiz decidirá o pedido em 24 horas, e a interceptação não poderá exceder 15 dias, renovável por igual tempo, comprovada a indispensabilidade.",
+"As gravações que não interessarem à prova devem ser mantidas indefinidamente nos autos.",
+"É lícita a interceptação para investigar contravenção penal."
+],
+"r": 2,
+"n": [
+"Deve ser o juiz competente da ação principal.",
+"Excepcionalmente pode ser verbal, reduzido a termo.",
+"Correta: arts. 4º e 5º.",
+"Devem ser inutilizadas (art. 9º).",
+"Contravenção não admite."
+],
+"prof": "24 h para decidir; 15 dias de duração.",
+"x": "O juiz decide em 24 horas (art. 4º, § 2º); a diligência dura até 15 dias, renovável por igual período (art. 5º). O pedido verbal é excepcional e deve ser reduzido a termo.",
+"e": "24 h e 15 dias."
+}
+]
+},
+"tortura": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2 a 8</b><span>anos de reclusão: tortura (art. 1º)</span></div><div class=\"lt-stat\"><b>1 a 4</b><span>anos de detenção: omissão diante da tortura (art. 1º, § 2º)</span></div><div class=\"lt-stat\"><b>8 a 16</b><span>anos: tortura com resultado morte</span></div><div class=\"lt-stat\"><b>2×</b><span>a perda do cargo vale pelo dobro do prazo da pena (§ 5º)</span></div></div>\n<h3>1. Base constitucional e natureza</h3>\n<ul><li>CF, art. 5º, <b>III</b>: \"ninguém será submetido a <b>tortura</b> nem a tratamento desumano ou degradante\". <b>XLIII</b>: a tortura é <b>inafiançável</b> e <b>insuscetível de graça ou anistia</b>, equiparada aos crimes hediondos (junto com tráfico e terrorismo).</li><li>A <b>Lei 9.455/1997</b> define os crimes. Diferentemente da Convenção da ONU, que só considera tortura a praticada por agente público, a lei brasileira trata a tortura, em regra, como <b>crime comum</b> (pode ser praticada por <b>qualquer pessoa</b>). A exceção é a <b>tortura-castigo</b> (inciso II), que exige relação de guarda, poder ou autoridade.</li></ul>\n<h3>2. As modalidades (art. 1º)</h3>\n<table class=\"tab\"><thead><tr><th>Modalidade</th><th>Conduta</th><th>Quem pratica</th></tr></thead><tbody><tr><td><b>Tortura-prova</b> (I, \"a\")</td><td><b>constranger</b> alguém com <b>violência ou grave ameaça</b>, causando-lhe <b>sofrimento físico ou mental</b>, com o fim de <b>obter informação, declaração ou confissão</b> da vítima ou de terceira pessoa</td><td>qualquer pessoa (o policial que espanca o preso para obter confissão é o exemplo clássico)</td></tr><tr><td><b>Tortura para a prática de crime</b> (I, \"b\")</td><td>o mesmo constrangimento para <b>provocar ação ou omissão de natureza criminosa</b></td><td>qualquer pessoa (obrigar alguém, sob tortura, a transportar droga)</td></tr><tr><td><b>Tortura discriminatória</b> (I, \"c\")</td><td>o mesmo constrangimento <b>em razão de discriminação racial ou religiosa</b></td><td>qualquer pessoa</td></tr><tr><td><b>Tortura-castigo</b> (II)</td><td><b>submeter alguém, sob sua guarda, poder ou autoridade</b>, com emprego de violência ou grave ameaça, a <b>intenso</b> sofrimento físico ou mental, como forma de <b>aplicar castigo pessoal ou medida de caráter preventivo</b></td><td>crime <b>próprio</b>: pais, tutores, cuidadores, carcereiros, agentes que têm a vítima sob guarda</td></tr><tr><td><b>Tortura do preso</b> (§ 1º)</td><td>submeter <b>pessoa presa ou sujeita a medida de segurança</b> a sofrimento físico ou mental, <b>por intermédio da prática de ato não previsto em lei ou não resultante de medida legal</b></td><td>em regra, agente público</td></tr></tbody></table>\n<ul><li><b>Pena</b>: <b>reclusão de 2 a 8 anos</b> para as modalidades acima.</li><li><b>Tortura x maus-tratos</b>: nos <b>maus-tratos</b> (CP, art. 136), o agente abusa dos meios de correção ou disciplina com intenção de <b>educar ou corrigir</b>, expondo a vítima a <b>perigo</b>; na <b>tortura-castigo</b>, há <b>intenso sofrimento</b> físico ou mental como <b>castigo</b>, com vontade de fazer sofrer. A intensidade do sofrimento e o dolo distinguem os dois.</li><li><b>Tortura x lesão corporal x abuso de autoridade</b>: se a violência policial não tem a finalidade específica da lei (obter confissão, castigar), pode haver lesão corporal e abuso de autoridade (Lei 13.869/2019), e não tortura.</li></ul>\n<h3>3. Tortura por omissão (§ 2º)</h3>\n<ul><li>\"Aquele que <b>se omite</b> em face dessas condutas, quando <b>tinha o dever de evitá-las ou apurá-las</b>, incorre na pena de <b>detenção de 1 a 4 anos</b>.\" Exemplo: o delegado que sabe que os investigadores torturam presos na carceragem e nada faz. É uma pena <b>bem menor</b> que a da tortura comissiva, o que a doutrina critica (o garantidor, pelo CP, responderia como autor). Essa modalidade <b>não é equiparada a hediondo</b>, segundo a doutrina majoritária, e admite regime inicial diferente do fechado.</li></ul>\n<h3>4. Formas qualificadas e aumentos</h3>\n<ul><li><b>Qualificadoras</b> (§ 3º): se resulta <b>lesão corporal grave ou gravíssima</b>: <b>reclusão de 4 a 10 anos</b>; se resulta <b>morte</b>: <b>reclusão de 8 a 16 anos</b>. A morte deve ser <b>culposa</b> (preterdolo); se o agente quis matar usando a tortura como meio, há <b>homicídio qualificado pela tortura</b> (CP, art. 121, § 2º, III).</li><li><b>Aumento de 1/6 a 1/3</b> (§ 4º): se o crime é cometido <b>por agente público</b>; contra <b>criança, gestante, portador de deficiência, adolescente ou maior de 60 anos</b>; ou <b>mediante sequestro</b>.</li></ul>\n<h3>5. Efeitos da condenação e regras processuais</h3>\n<ul><li><b>Perda do cargo</b> (§ 5º): a condenação acarretará a <b>perda do cargo, função ou emprego público</b> e a <b>interdição para seu exercício pelo dobro do prazo da pena aplicada</b>. Para o STJ e o STF, esse efeito é <b>automático</b>: não precisa ser fundamentado especificamente na sentença (diferente da regra geral do CP, art. 92, I).</li><li><b>Inafiançável e insuscetível de graça ou anistia</b> (§ 6º). A Lei 8.072/1990 também veda o <b>indulto</b>.</li><li><b>Regime inicial</b> (§ 7º): a lei diz que o condenado, salvo na omissão do § 2º, iniciará a pena em regime <b>fechado</b>. Seguindo o entendimento do STF sobre os hediondos (HC 111.840), a jurisprudência admite a fixação do regime pelas regras do art. 33 do CP, com fundamentação concreta.</li><li><b>Extraterritorialidade</b> (art. 2º): a lei aplica-se ainda quando o crime não tenha sido cometido em território nacional, sendo a <b>vítima brasileira</b> ou encontrando-se o agente em <b>local sob jurisdição brasileira</b>.</li><li><b>Competência</b>: em regra, da <b>Justiça Estadual</b>. Será <b>federal</b> se houver interesse da União (vítima sob custódia federal, agente federal no exercício da função). Desde a Lei 13.491/2017, crimes da legislação penal comum praticados por <b>militar em serviço</b> podem ser crimes militares (CPM, art. 9º, II), e a competência deve ser verificada no caso concreto.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Só agente público pratica tortura no Brasil</span><br>✅ <span class=\"certo\">Em regra é crime comum; só a tortura-castigo é própria.</span></li><li>❌ <span class=\"banca\">Quem se omite responde com a mesma pena</span><br>✅ <span class=\"certo\">Omissão: detenção de 1 a 4 anos.</span></li><li>❌ <span class=\"banca\">A perda do cargo depende de fundamentação específica</span><br>✅ <span class=\"certo\">É efeito automático (STJ/STF).</span></li><li>❌ <span class=\"banca\">A tortura com morte é homicídio qualificado sempre</span><br>✅ <span class=\"certo\">Se a morte é culposa, é tortura qualificada (8 a 16).</span></li><li>❌ <span class=\"banca\">Tortura admite fiança</span><br>✅ <span class=\"certo\">Inafiançável.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tortura-prova?</span></span><span class=\"vs\"><span>Constranger com violência ou grave ameaça para obter <b>informação, declaração ou confissão</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tortura-castigo?</span></span><span class=\"vs\"><span>Vítima sob <b>guarda, poder ou autoridade</b>; <b>intenso</b> sofrimento como castigo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena básica?</span></span><span class=\"vs\"><span><b>2 a 8 anos</b> de reclusão.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Omissão?</span></span><span class=\"vs\"><span><b>Detenção de 1 a 4 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Resultado morte?</span></span><span class=\"vs\"><span><b>8 a 16 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aumento de 1/6 a 1/3?</span></span><span class=\"vs\"><span><b>Agente público</b>, vítima vulnerável, <b>sequestro</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Efeito da condenação?</span></span><span class=\"vs\"><span>Perda do cargo + interdição pelo <b>dobro</b> da pena.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Extraterritorialidade?</span></span><span class=\"vs\"><span>Vítima <b>brasileira</b> ou agente em local sob jurisdição brasileira.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A confissão na sala de interrogatório</b><p>Dois investigadores colocam um saco plástico na cabeça de um suspeito de roubo até que ele confesse onde escondeu a arma. O delegado plantonista ouve os gritos e não intervém. O suspeito sofre lesão grave.</p><details><summary>Ver a solução comentada</summary><p>Os investigadores praticam <b>tortura-prova</b> (art. 1º, I, \"a\"), <b>qualificada</b> pela <b>lesão grave</b> (§ 3º: 4 a 10 anos) e <b>aumentada</b> por serem <b>agentes públicos</b> (§ 4º, I). O delegado, que tinha o dever de evitar a conduta, responde pela <b>omissão</b> do § 2º (detenção de 1 a 4 anos). A condenação gera <b>perda do cargo</b> e interdição pelo dobro da pena. A confissão obtida é <b>prova ilícita</b> (CF, art. 5º, LVI).</p></details></div>",
+"quiz": [
+{
+"p": "Na Lei 9.455/1997, a tortura praticada para obter informação, declaração ou confissão da vítima ou de terceiro pode ser cometida por qualquer pessoa, não se exigindo a condição de agente público.",
+"c": true,
+"prof": "Certo.",
+"x": "A tortura-prova (art. 1º, I, \"a\") é crime comum. A condição de agente público é causa de aumento de pena (§ 4º, I), e não elementar.",
+"e": "Tortura-prova: crime comum."
+},
+{
+"p": "Aquele que se omite diante da tortura, quando tinha o dever de evitá-la ou apurá-la, responde com a mesma pena do torturador.",
+"c": false,
+"prof": "A pena é menor.",
+"x": "O art. 1º, § 2º, prevê detenção de 1 a 4 anos para o omitente, pena bem inferior à de reclusão de 2 a 8 anos da tortura comissiva.",
+"e": "Omissão: 1 a 4 anos."
+},
+{
+"p": "Segundo a Lei 9.455/1997, a condenação por crime de tortura acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício:",
+"alts": [
+"por 5 anos",
+"pelo mesmo prazo da pena aplicada",
+"pelo dobro do prazo da pena aplicada",
+"por 8 anos",
+"definitivamente"
+],
+"r": 2,
+"n": [
+"Não é o prazo legal.",
+"Não é o prazo legal.",
+"Correta: art. 1º, § 5º.",
+"Esse é o prazo de inabilitação do Presidente no impeachment.",
+"Não é definitiva."
+],
+"prof": "Dobro da pena.",
+"x": "O § 5º prevê a perda do cargo e a interdição pelo dobro do prazo da pena aplicada, efeito que a jurisprudência considera automático.",
+"e": "Interdição: dobro da pena."
+},
+{
+"p": "Configura tortura-castigo submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a intenso sofrimento físico ou mental, como forma de aplicar castigo pessoal ou medida de caráter preventivo.",
+"c": true,
+"prof": "Certo. Art. 1º, II.",
+"x": "É crime próprio, que exige relação de guarda, poder ou autoridade entre agente e vítima (pais e filhos, carcereiro e preso, cuidador e idoso).",
+"e": "Castigo sob guarda."
+},
+{
+"p": "Se da tortura resulta morte, a pena é de reclusão de 12 a 30 anos.",
+"c": false,
+"prof": "É de 8 a 16 anos.",
+"x": "O § 3º prevê reclusão de 8 a 16 anos se resulta morte (culposa). Se o agente quis matar e usou a tortura como meio, responde por homicídio qualificado (12 a 30 anos).",
+"e": "Tortura com morte: 8 a 16."
+},
+{
+"p": "A pena da tortura é aumentada de um sexto até um terço quando o crime é cometido:",
+"alts": [
+"por motivo fútil",
+"durante o repouso noturno",
+"por agente público ou contra criança, gestante, pessoa com deficiência, adolescente ou maior de 60 anos",
+"contra qualquer pessoa presa",
+"por duas ou mais pessoas"
+],
+"r": 2,
+"n": [
+"Não está no § 4º.",
+"Não está no § 4º.",
+"Correta.",
+"O preso é objeto do § 1º.",
+"Não está no § 4º."
+],
+"prof": "§ 4º.",
+"x": "As causas de aumento são: agente público; vítima criança, gestante, com deficiência, adolescente ou maior de 60 anos; e crime cometido mediante sequestro.",
+"e": "Aumento: agente público e vulneráveis."
+}
+]
+},
+"lavagem": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3 a 10</b><span>anos de reclusão: lavagem de dinheiro (art. 1º)</span></div><div class=\"lt-stat\"><b>3</b><span>fases: colocação, ocultação e integração</span></div><div class=\"lt-stat\"><b>2012</b><span>Lei 12.683: qualquer infração penal pode ser antecedente</span></div><div class=\"lt-stat\"><b>COAF</b><span>unidade de inteligência financeira que recebe as comunicações</span></div></div>\n<h3>1. Conceito e evolução</h3>\n<ul><li><b>Lavagem de dinheiro</b> é o processo de dar <b>aparência lícita</b> a bens, direitos ou valores obtidos com uma <b>infração penal antecedente</b> (tráfico, corrupção, estelionato, jogo do bicho...). O objetivo é permitir que o criminoso <b>use</b> o dinheiro sem revelar sua origem.</li><li><b>Gerações de leis</b>: na 1ª, só o tráfico era antecedente; na 2ª, havia um <b>rol</b> de crimes antecedentes (redação original da Lei 9.613/1998); na <b>3ª</b>, adotada pelo Brasil com a <b>Lei 12.683/2012</b>, <b>qualquer infração penal</b>, inclusive <b>contravenção</b>, pode ser antecedente.</li></ul>\n<h3>2. O crime (art. 1º)</h3>\n<ul><li>\"<b>Ocultar ou dissimular</b> a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes, direta ou indiretamente, de <b>infração penal</b>\": <b>reclusão de 3 a 10 anos</b> e multa.</li><li><b>Figuras equiparadas</b> (§§ 1º e 2º): quem, para ocultar ou dissimular a utilização de bens provenientes de infração penal, os <b>converte em ativos lícitos</b>; os adquire, recebe, troca, negocia, dá ou recebe em garantia, guarda, tem em depósito, movimenta ou transfere; <b>importa ou exporta</b> bens com valores não correspondentes aos verdadeiros. Também quem <b>utiliza</b>, na atividade econômica ou financeira, bens que sabe serem provenientes de infração penal, e quem <b>participa</b> de grupo ou escritório sabendo que sua atividade principal ou secundária é dirigida à lavagem.</li></ul>\n<table class=\"tab\"><thead><tr><th>Fase</th><th>O que acontece</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Colocação</b> (placement)</td><td>o dinheiro \"sujo\" entra no sistema econômico</td><td>depósitos fracionados abaixo do limite de comunicação (\"smurfing\"), compra de bens de alto valor em espécie</td></tr><tr><td><b>Ocultação ou dissimulação</b> (layering)</td><td>várias operações para apagar o rastro</td><td>transferências entre contas de laranjas, empresas de fachada, paraísos fiscais, criptoativos</td></tr><tr><td><b>Integração</b></td><td>o dinheiro volta com aparência lícita</td><td>compra de imóveis, investimento em empresas, \"lucros\" de negócio fictício</td></tr></tbody></table>\n<ul><li>Não é preciso completar as três fases: <b>basta um ato de ocultação ou dissimulação</b> para consumar o crime. A lavagem é crime <b>autônomo</b> em relação à infração antecedente.</li></ul>\n<h3>3. Autonomia e infração antecedente (art. 2º)</h3>\n<ul><li>O processo e o julgamento da lavagem <b>independem do processo e julgamento</b> das infrações penais antecedentes. A denúncia deve ser instruída com <b>indícios suficientes da existência</b> da infração antecedente.</li><li>A lavagem é <b>punível ainda que desconhecido ou isento de pena o autor</b>, ou <b>extinta a punibilidade</b> da infração antecedente (§ 1º). Ex.: o crime antecedente prescreveu, mas a lavagem ainda pode ser punida.</li><li><b>Autolavagem</b>: o próprio autor do crime antecedente pode responder por lavagem, em concurso, se praticar <b>atos autônomos</b> de ocultação ou dissimulação (STF, AP 470). O mero uso do dinheiro (gastar o produto do roubo) não é lavagem.</li><li><b>Citação por edital</b>: na lavagem <b>não se aplica o art. 366 do CPP</b>; o acusado citado por edital que não comparece nem constitui advogado terá o processo seguindo com <b>defensor dativo</b> (art. 2º, § 2º).</li></ul>\n<h3>4. Aumentos, colaboração e medidas</h3>\n<ul><li><b>Aumento de 1/3 a 2/3</b> (§ 4º): se o crime for cometido de forma <b>reiterada</b> ou por intermédio de <b>organização criminosa</b>.</li><li><b>Colaboração premiada</b> (§ 5º): a pena pode ser <b>reduzida de 1/3 a 2/3</b> e começar em regime <b>aberto ou semiaberto</b>, podendo o juiz deixar de aplicá-la (<b>perdão judicial</b>) ou substituí-la por restritiva de direitos, se o autor, coautor ou partícipe colaborar espontaneamente com as autoridades, prestando esclarecimentos que conduzam à apuração das infrações, à identificação dos autores ou à localização dos bens.</li><li><b>Medidas assecuratórias</b> (art. 4º): o juiz, de ofício ou a requerimento do MP ou mediante representação do <b>delegado</b>, ouvido o MP em 24 horas, havendo <b>indícios suficientes</b> de infração penal, pode decretar medidas sobre bens, direitos ou valores do investigado (sequestro, arresto). É possível a <b>alienação antecipada</b> de bens sujeitos a deterioração ou de difícil manutenção (art. 4º-A).</li><li><b>Ação controlada e infiltração</b>: aplicam-se as técnicas da Lei 12.850/2013. A ordem de prisão ou de apreensão pode ser <b>suspensa</b> pelo juiz, ouvido o MP, se puder comprometer as investigações (art. 4º-B).</li></ul>\n<h3>5. Prevenção: COAF, pessoas obrigadas e dados cadastrais</h3>\n<ul><li><b>Pessoas obrigadas</b> (art. 9º): bancos, corretoras, seguradoras, administradoras de cartões, imobiliárias, joalherias, comerciantes de bens de luxo, empresas de transporte de valores, juntas comerciais, cartórios, prestadores de serviços de assessoria e consultoria, entre outras. Devem <b>identificar clientes</b>, <b>manter registros</b> e <b>comunicar operações suspeitas</b> ao <b>COAF</b> (art. 11), sem dar ciência ao cliente.</li><li><b>COAF</b> (Conselho de Controle de Atividades Financeiras): é a <b>unidade de inteligência financeira</b> do Brasil, que recebe, examina e identifica ocorrências suspeitas e produz <b>Relatórios de Inteligência Financeira (RIF)</b>. O STF (Tema 990) decidiu que é <b>constitucional o compartilhamento</b> dos relatórios da UIF e da íntegra do procedimento fiscalizatório da Receita com a polícia e o MP, <b>sem prévia autorização judicial</b>, desde que por comunicação formal e com sigilo.</li><li><b>Dados cadastrais</b> (art. 17-B): a <b>autoridade policial</b> e o <b>MP</b> terão acesso, <b>exclusivamente</b>, aos <b>dados cadastrais</b> do investigado que informam <b>qualificação pessoal, filiação e endereço</b>, mantidos pela Justiça Eleitoral, empresas telefônicas, instituições financeiras, provedores de internet e administradoras de cartão de crédito, <b>independentemente de autorização judicial</b>. Movimentação financeira e conteúdo de comunicações continuam protegidos por reserva de jurisdição.</li><li><b>Afastamento do servidor indiciado</b> (art. 17-D): o dispositivo que previa o <b>afastamento automático</b> do servidor público indiciado por lavagem foi declarado <b>inconstitucional</b> pelo STF (ADI 4.911), por violar a presunção de inocência.</li></ul>\n<h3>6. Competência</h3>\n<ul><li>Em regra, <b>Justiça Estadual</b>. É da <b>Justiça Federal</b> quando praticada <b>contra o sistema financeiro</b> e a ordem econômico-financeira, ou em detrimento de bens, serviços ou interesses da <b>União</b>, autarquias ou empresas públicas federais; ou quando a <b>infração antecedente</b> for de competência federal (art. 2º, III).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Só alguns crimes podem ser antecedentes da lavagem</span><br>✅ <span class=\"certo\">Desde 2012, qualquer infração penal, inclusive contravenção.</span></li><li>❌ <span class=\"banca\">A lavagem exige condenação pela infração antecedente</span><br>✅ <span class=\"certo\">Basta indício suficiente; é crime autônomo.</span></li><li>❌ <span class=\"banca\">O autor do crime antecedente nunca responde por lavagem</span><br>✅ <span class=\"certo\">Autolavagem é admitida com atos autônomos.</span></li><li>❌ <span class=\"banca\">O delegado precisa de ordem judicial para dados cadastrais</span><br>✅ <span class=\"certo\">Art. 17-B dispensa.</span></li><li>❌ <span class=\"banca\">O servidor indiciado é afastado automaticamente</span><br>✅ <span class=\"certo\">STF declarou inconstitucional (ADI 4.911).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena da lavagem?</span></span><span class=\"vs\"><span><b>Reclusão de 3 a 10 anos</b> e multa.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases?</span></span><span class=\"vs\"><span><b>Colocação, ocultação e integração</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Antecedente desde 2012?</span></span><span class=\"vs\"><span><b>Qualquer infração penal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Autonomia?</span></span><span class=\"vs\"><span>Independe do processo da infração antecedente.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aumento de 1/3 a 2/3?</span></span><span class=\"vs\"><span><b>Reiteração</b> ou <b>organização criminosa</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Colaboração?</span></span><span class=\"vs\"><span>Redução de 1/3 a 2/3, regime aberto/semiaberto ou <b>perdão judicial</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 366 do CPP na lavagem?</span></span><span class=\"vs\"><span><b>Não se aplica</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>COAF?</span></span><span class=\"vs\"><span><b>Unidade de inteligência financeira</b>; RIF compartilhável sem ordem judicial (Tema 990).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A loja de fachada</b><p>Investigação revela que o líder de uma organização de tráfico abriu uma loja de roupas que declara faturamento muito acima do movimento real, depositando diariamente dinheiro em espécie como se fosse venda. Com o \"lucro\", ele compra imóveis em nome da cunhada.</p><details><summary>Ver a solução comentada</summary><p>Há <b>lavagem de dinheiro</b> (art. 1º): a loja serve para <b>ocultar e dissimular</b> a origem dos valores do <b>tráfico</b> (colocação e integração); a compra de imóveis em nome de terceiro reforça a ocultação. O crime é <b>autônomo</b> e pode ser punido mesmo antes da condenação pelo tráfico. Há <b>aumento de 1/3 a 2/3</b> por ser praticada por <b>organização criminosa</b> (§ 4º). O delegado pode <b>representar</b> por medidas assecuratórias sobre os imóveis (art. 4º) e requisitar diretamente <b>dados cadastrais</b> (art. 17-B); o <b>RIF</b> do COAF pode ser compartilhado com a polícia.</p></details></div>",
+"quiz": [
+{
+"p": "Desde a Lei 12.683/2012, qualquer infração penal, inclusive contravenção, pode ser antecedente do crime de lavagem de dinheiro.",
+"c": true,
+"prof": "Certo.",
+"x": "A lei abandonou o rol taxativo de crimes antecedentes. O jogo do bicho, que é contravenção, pode ser antecedente de lavagem.",
+"e": "Antecedente: qualquer infração penal."
+},
+{
+"p": "O processo pelo crime de lavagem de dinheiro depende da prévia condenação do acusado pela infração penal antecedente.",
+"c": false,
+"prof": "A lavagem é autônoma.",
+"x": "O art. 2º, II, dispõe que o processo e o julgamento independem do processo e julgamento da infração antecedente. Basta que a denúncia traga indícios suficientes de sua existência.",
+"e": "Lavagem: autonomia."
+},
+{
+"p": "As fases clássicas do processo de lavagem de dinheiro, em ordem, são:",
+"alts": [
+"integração, colocação e ocultação",
+"colocação, ocultação (dissimulação) e integração",
+"ocultação, integração e colocação",
+"colocação, integração e ocultação",
+"dissimulação, colocação e consumo"
+],
+"r": 1,
+"n": [
+"Ordem trocada.",
+"Correta.",
+"Ordem trocada.",
+"Ordem trocada.",
+"Não corresponde."
+],
+"prof": "Entrar, esconder, voltar.",
+"x": "Na colocação, o dinheiro entra no sistema; na ocultação, várias operações apagam o rastro; na integração, ele retorna com aparência lícita. Não é preciso completar todas para consumar o crime.",
+"e": "Colocação → ocultação → integração."
+},
+{
+"p": "A autoridade policial e o Ministério Público terão acesso, independentemente de autorização judicial, aos dados cadastrais do investigado que informam exclusivamente a qualificação pessoal, a filiação e o endereço.",
+"c": true,
+"prof": "Certo. Art. 17-B.",
+"x": "Os dados podem ser requisitados à Justiça Eleitoral, a empresas telefônicas, instituições financeiras, provedores de internet e administradoras de cartão. Movimentação financeira e conteúdo de comunicações exigem ordem judicial.",
+"e": "Cadastro: sem juiz."
+},
+{
+"p": "Na lavagem de dinheiro, o acusado citado por edital que não comparece nem constitui advogado tem o processo e o prazo prescricional suspensos, nos termos do art. 366 do CPP.",
+"c": false,
+"prof": "O art. 366 não se aplica.",
+"x": "O art. 2º, § 2º, da Lei 9.613/1998 afasta o art. 366 do CPP: o processo prossegue com defensor dativo.",
+"e": "Lavagem: sem art. 366."
+},
+{
+"p": "Segundo o STF, a lavagem de dinheiro pode ser imputada ao próprio autor do crime antecedente quando:",
+"alts": [
+"nunca, pois haveria bis in idem",
+"sempre que ele gastar o produto do crime",
+"ele praticar atos autônomos de ocultação ou dissimulação dos valores",
+"o crime antecedente for hediondo",
+"houver confissão"
+],
+"r": 2,
+"n": [
+"O STF admite a autolavagem.",
+"Mero uso não é lavagem.",
+"Correta.",
+"Não é o critério.",
+"Não é o critério."
+],
+"prof": "Autolavagem.",
+"x": "A autolavagem é admitida quando há atos distintos e posteriores destinados a ocultar ou dissimular a origem dos bens, e não o simples aproveitamento do produto do crime.",
+"e": "Atos autônomos: autolavagem."
+}
+]
+},
+"racismo": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1989</b><span>ano da Lei 7.716 (Lei Caó)</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão: injúria racial (art. 2º-A, desde 2023)</span></div><div class=\"lt-stat\"><b>XLII</b><span>inciso do art. 5º da CF: racismo inafiançável e imprescritível</span></div><div class=\"lt-stat\"><b>5</b><span>fatores protegidos: raça, cor, etnia, religião e procedência nacional</span></div></div>\n<h3>1. Base constitucional</h3>\n<ul><li>CF, art. 5º, <b>XLII</b>: \"a prática do <b>racismo</b> constitui crime <b>inafiançável e imprescritível</b>, sujeito à pena de <b>reclusão</b>, nos termos da lei\". O art. 3º, IV, fixa como objetivo promover o bem de todos, sem preconceitos de origem, raça, sexo, cor e idade.</li><li>A <b>Lei 7.716/1989</b> define os crimes resultantes de <b>discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional</b> (art. 1º).</li><li><b>Conceito de raça</b>: o STF, no caso <b>Ellwanger</b> (HC 82.424), entendeu que o racismo abrange o <b>antissemitismo</b>, porque \"raça\" é conceito <b>político-social</b>, e não biológico. Na <b>ADO 26</b> e no <b>MI 4.733</b> (2019), o STF determinou que a <b>homofobia e a transfobia</b> se enquadram nos crimes da Lei 7.716 até que o Congresso edite lei específica (racismo em sua dimensão social).</li></ul>\n<h3>2. Os crimes da Lei 7.716</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta (por motivo de discriminação)</th><th>Pena</th></tr></thead><tbody><tr><td><b>3º</b></td><td><b>impedir ou obstar o acesso</b> a cargo da Administração direta ou indireta, ou a promoção funcional</td><td>reclusão de <b>2 a 5 anos</b></td></tr><tr><td><b>4º</b></td><td><b>negar ou obstar emprego</b> em empresa privada</td><td>reclusão de <b>2 a 5 anos</b></td></tr><tr><td><b>5º</b></td><td><b>recusar ou impedir acesso a estabelecimento comercial</b>, negando-se a servir, atender ou receber cliente</td><td>reclusão de <b>1 a 3 anos</b></td></tr><tr><td><b>6º</b></td><td>recusar, negar ou impedir a <b>inscrição ou ingresso de aluno</b> em estabelecimento de ensino</td><td>reclusão de <b>3 a 5 anos</b></td></tr><tr><td><b>7º a 13</b></td><td>impedir acesso a hotéis, restaurantes, bares, clubes, salões de beleza, entradas sociais de edifícios, elevadores, transportes públicos, Forças Armadas</td><td>reclusão de 1 a 3 anos (em geral)</td></tr><tr><td><b>14</b></td><td>impedir ou obstar <b>casamento ou convivência familiar e social</b></td><td>reclusão de 2 a 4 anos</td></tr><tr><td><b>20</b></td><td><b>praticar, induzir ou incitar</b> a discriminação ou preconceito</td><td>reclusão de <b>1 a 3 anos</b> e multa</td></tr><tr><td><b>20, § 1º</b></td><td><b>fabricar, comercializar, distribuir ou veicular símbolos, emblemas, ornamentos, distintivos ou propaganda que utilizem a cruz suástica ou gamada</b>, para fins de <b>divulgação do nazismo</b></td><td>reclusão de <b>2 a 5 anos</b></td></tr><tr><td><b>20, § 2º</b></td><td>praticar, induzir ou incitar a discriminação <b>por meio dos meios de comunicação social, redes sociais</b> ou publicação de qualquer natureza</td><td>reclusão de <b>2 a 5 anos</b></td></tr></tbody></table>\n<ul><li><b>Efeito da condenação</b>: perda do cargo ou função pública, para o servidor, e suspensão do funcionamento do estabelecimento particular por até 3 meses (arts. 16 e 18), efeitos que <b>não são automáticos</b>: devem ser motivadamente declarados na sentença.</li></ul>\n<h3>3. Injúria racial (art. 2º-A, Lei 14.532/2023)</h3>\n<ul><li>\"<b>Injuriar</b> alguém, ofendendo-lhe a <b>dignidade ou o decoro</b>, em razão de <b>raça, cor, etnia ou procedência nacional</b>\": <b>reclusão de 2 a 5 anos</b> e multa. A pena aumenta <b>de metade</b> se o crime for cometido mediante <b>concurso de 2 ou mais pessoas</b>.</li><li><b>Racismo x injúria racial</b>: no <b>racismo</b> em sentido estrito (arts. 3º a 20), a ofensa atinge uma <b>coletividade</b> ou o agente <b>segrega</b> (impede acesso, nega emprego, incita discriminação contra um grupo). Na <b>injúria racial</b>, o agente ofende <b>uma pessoa determinada</b>, usando elementos de raça ou cor (\"chamou o vigilante de macaco\").</li><li><b>Antes de 2023</b>, a injúria racial estava no CP (art. 140, § 3º), com pena de 1 a 3 anos e ação condicionada à representação. O <b>STF</b> (HC 154.248, 2021) já a considerava <b>espécie de racismo</b>, portanto <b>imprescritível e inafiançável</b>. A Lei 14.532/2023 transferiu a conduta para a Lei 7.716, tornando a ação <b>pública incondicionada</b>.</li><li>Ficou no <b>CP, art. 140, § 3º</b>, a injúria qualificada por <b>religião</b> e pela condição de pessoa <b>idosa ou com deficiência</b> (reclusão de 1 a 3 anos).</li><li><b>Novas causas de aumento</b> (Lei 14.532/2023): a pena dos crimes da Lei 7.716 aumenta quando praticados em contexto de <b>descontração, diversão ou recreação</b> (\"<b>racismo recreativo</b>\", a \"piada\" racista), por <b>funcionário público</b> no exercício das funções ou a pretexto de exercê-las, e em <b>eventos esportivos, artísticos ou culturais</b> destinados ao público (com previsão de proibição de frequentar esses locais). O juiz deve considerar como discriminatória a atitude que cause constrangimento ou humilhação a pessoas de grupos minoritários e que normalmente não seria dispensada a outros grupos.</li></ul>\n<h3>4. Aspectos processuais</h3>\n<ul><li><b>Ação penal pública incondicionada</b> em todos os crimes da Lei 7.716, inclusive a injúria racial.</li><li><b>Imprescritível e inafiançável</b> (CF, art. 5º, XLII). Cabe <b>liberdade provisória sem fiança</b>, se ausentes os requisitos da preventiva.</li><li><b>Competência</b>: em regra <b>estadual</b>. Será <b>federal</b> quando houver tratado internacional e caráter <b>transnacional</b> (publicação na internet acessível no exterior, segundo o STJ em casos de divulgação de conteúdo racista em rede mundial).</li><li><b>Atuação policial</b>: diante de flagrante de injúria racial ou racismo, a autoridade lavra o <b>auto de prisão em flagrante</b> (crime de <b>reclusão</b>, inafiançável); não se lavra termo circunstanciado.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Injúria racial depende de representação</span><br>✅ <span class=\"certo\">Desde 2023 é pública incondicionada (art. 2º-A da Lei 7.716).</span></li><li>❌ <span class=\"banca\">Injúria racial prescreve</span><br>✅ <span class=\"certo\">É imprescritível (STF e Lei 14.532/2023).</span></li><li>❌ <span class=\"banca\">Racismo e injúria racial são a mesma conduta</span><br>✅ <span class=\"certo\">Racismo atinge grupo ou segrega; injúria ofende pessoa determinada.</span></li><li>❌ <span class=\"banca\">Homofobia não é punível por falta de lei</span><br>✅ <span class=\"certo\">STF a enquadrou na Lei 7.716 (ADO 26).</span></li><li>❌ <span class=\"banca\">A perda do cargo é automática</span><br>✅ <span class=\"certo\">Deve ser motivadamente declarada.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei do racismo?</span></span><span class=\"vs\"><span><b>Lei 7.716/1989</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fatores protegidos?</span></span><span class=\"vs\"><span><b>Raça, cor, etnia, religião, procedência nacional</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Injúria racial hoje?</span></span><span class=\"vs\"><span><b>Art. 2º-A da Lei 7.716</b>, reclusão de <b>2 a 5 anos</b>, ação <b>incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Racismo na CF?</span></span><span class=\"vs\"><span><b>Inafiançável e imprescritível</b>, reclusão.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Incitar discriminação nas redes?</span></span><span class=\"vs\"><span>Art. 20, § 2º: <b>2 a 5 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Suástica para divulgar nazismo?</span></span><span class=\"vs\"><span>Art. 20, § 1º: <b>2 a 5 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Homofobia?</span></span><span class=\"vs\"><span>Enquadrada na Lei 7.716 (<b>ADO 26</b>).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Injúria por religião ou idade?</span></span><span class=\"vs\"><span>Continua no <b>CP, art. 140, § 3º</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O torcedor no estádio</b><p>Durante um jogo, um torcedor imita um macaco e grita ofensas raciais contra um jogador adversário. A PM o detém.</p><details><summary>Ver a solução comentada</summary><p>A ofensa dirigida a <b>pessoa determinada</b>, em razão da cor, configura <b>injúria racial</b> (art. 2º-A da Lei 7.716): reclusão de 2 a 5 anos, <b>inafiançável e imprescritível</b>, de ação <b>pública incondicionada</b>. O contexto de <b>evento esportivo</b> atrai causa de aumento introduzida pela Lei 14.532/2023, com possibilidade de proibição de frequentar estádios. A autoridade lavra o <b>auto de prisão em flagrante</b>.</p></details></div>",
+"quiz": [
+{
+"p": "Desde a Lei 14.532/2023, a injúria racial está tipificada na Lei 7.716/1989, com pena de reclusão de dois a cinco anos e ação penal pública incondicionada.",
+"c": true,
+"prof": "Certo.",
+"x": "A injúria racial saiu do art. 140, § 3º, do CP e passou ao art. 2º-A da Lei 7.716, com pena maior e sem necessidade de representação.",
+"e": "Injúria racial: Lei 7.716."
+},
+{
+"p": "A injúria racial, por ser crime contra a honra, prescreve normalmente e depende de representação da vítima.",
+"c": false,
+"prof": "É imprescritível e incondicionada.",
+"x": "O STF (HC 154.248) reconheceu a injúria racial como espécie de racismo, imprescritível. Com a Lei 14.532/2023, a ação passou a ser pública incondicionada.",
+"e": "Injúria racial: imprescritível."
+},
+{
+"p": "Um empresário recusa-se a contratar um candidato aprovado na seleção por causa de sua cor. Ele pratica:",
+"alts": [
+"injúria racial",
+"o crime de negar ou obstar emprego em empresa privada (Lei 7.716, art. 4º)",
+"constrangimento ilegal",
+"apenas ilícito trabalhista",
+"difamação"
+],
+"r": 1,
+"n": [
+"Não há ofensa à honra de forma verbal.",
+"Correta.",
+"Há tipo específico.",
+"Há crime.",
+"Não há imputação de fato."
+],
+"prof": "Segregação no emprego.",
+"x": "Negar ou obstar emprego em empresa privada por motivo de discriminação racial é crime do art. 4º da Lei 7.716, punido com reclusão de 2 a 5 anos.",
+"e": "Negar emprego: art. 4º."
+},
+{
+"p": "Segundo o STF, a homofobia e a transfobia se enquadram nos crimes previstos na Lei 7.716/1989 até que o Congresso Nacional edite lei específica.",
+"c": true,
+"prof": "Certo. ADO 26 e MI 4.733.",
+"x": "O STF entendeu que o racismo tem dimensão social e abrange a discriminação contra pessoas LGBTQIA+, aplicando a Lei 7.716 até a edição de lei própria.",
+"e": "Homofobia: Lei 7.716."
+},
+{
+"p": "A injúria praticada em razão da religião da vítima foi transferida para a Lei 7.716/1989 pela Lei 14.532/2023.",
+"c": false,
+"prof": "Continua no CP.",
+"x": "A Lei 14.532/2023 transferiu a injúria por raça, cor, etnia ou procedência nacional. A injúria por religião e pela condição de pessoa idosa ou com deficiência continua no art. 140, § 3º, do CP.",
+"e": "Religião: CP, art. 140, § 3º."
+},
+{
+"p": "Praticar, induzir ou incitar a discriminação racial por meio de redes sociais tem pena de:",
+"alts": [
+"detenção de 1 a 6 meses",
+"reclusão de 1 a 3 anos",
+"reclusão de 2 a 5 anos",
+"reclusão de 4 a 8 anos",
+"apenas multa"
+],
+"r": 2,
+"n": [
+"Não corresponde.",
+"É a pena do caput do art. 20.",
+"Correta: art. 20, § 2º.",
+"Não corresponde.",
+"Não corresponde."
+],
+"prof": "Meio de comunicação qualifica.",
+"x": "O caput do art. 20 prevê reclusão de 1 a 3 anos; se o crime é cometido por meio dos meios de comunicação social, redes sociais ou publicações, a pena passa a reclusão de 2 a 5 anos.",
+"e": "Redes sociais: 2 a 5."
+}
+]
+},
+"eca": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>12</b><span>anos incompletos: limite entre criança e adolescente</span></div><div class=\"lt-stat\"><b>3 anos</b><span>prazo máximo da internação</span></div><div class=\"lt-stat\"><b>45 dias</b><span>prazo máximo da internação provisória</span></div><div class=\"lt-stat\"><b>21</b><span>anos: liberação compulsória do internado</span></div></div>\n<h3>1. Conceitos</h3>\n<ul><li><b>Criança</b>: pessoa <b>até 12 anos incompletos</b>. <b>Adolescente</b>: entre <b>12 e 18 anos</b> (ECA, art. 2º). Excepcionalmente, o ECA se aplica a pessoas entre 18 e 21 anos (cumprimento de medida aplicada antes dos 18).</li><li><b>Ato infracional</b> (art. 103): a conduta descrita como <b>crime ou contravenção penal</b> praticada por criança ou adolescente. Menores de 18 são <b>penalmente inimputáveis</b> (CF, art. 228), e a idade considerada é a <b>da data do fato</b> (art. 104, p. único).</li><li><b>Doutrina da proteção integral</b> e <b>prioridade absoluta</b> (CF, art. 227): crianças e adolescentes são sujeitos de direitos, em condição peculiar de desenvolvimento.</li></ul>\n<h3>2. Criança x adolescente que pratica ato infracional</h3>\n<table class=\"tab\"><thead><tr><th>Quem</th><th>Consequência</th><th>Quem aplica</th></tr></thead><tbody><tr><td><b>Criança</b></td><td><b>medidas de proteção</b> (art. 101): encaminhamento aos pais, orientação e acompanhamento, matrícula em escola, inclusão em programa comunitário, tratamento médico ou psicológico, acolhimento institucional</td><td><b>Conselho Tutelar</b> (e o juiz)</td></tr><tr><td><b>Adolescente</b></td><td><b>medidas socioeducativas</b> (art. 112), podendo ser cumuladas com as de proteção</td><td><b>somente o juiz</b> da Infância e Juventude (<b>Súmula 108 do STJ</b>), após o devido processo</td></tr></tbody></table>\n<h3>3. Medidas socioeducativas (arts. 112 a 125)</h3>\n<table class=\"tab\"><thead><tr><th>Medida</th><th>Regras</th></tr></thead><tbody><tr><td><b>Advertência</b></td><td>admoestação verbal, reduzida a termo; basta prova da materialidade e <b>indícios</b> de autoria</td></tr><tr><td><b>Obrigação de reparar o dano</b></td><td>em atos com reflexos patrimoniais: restituir a coisa, ressarcir ou compensar o prejuízo</td></tr><tr><td><b>Prestação de serviços à comunidade</b></td><td>tarefas gratuitas de interesse geral, por período <b>não excedente a 6 meses</b>, jornada máxima de <b>8 horas semanais</b>, sem prejudicar escola ou trabalho</td></tr><tr><td><b>Liberdade assistida</b></td><td>acompanhamento por orientador, <b>prazo mínimo de 6 meses</b>, podendo ser prorrogada, revogada ou substituída</td></tr><tr><td><b>Semiliberdade</b></td><td>desde o início ou como transição para o meio aberto; permite atividades externas; escolarização e profissionalização obrigatórias; sem prazo determinado (máximo de 3 anos, por analogia)</td></tr><tr><td><b>Internação</b></td><td>privação de liberdade sujeita aos princípios da <b>brevidade</b>, <b>excepcionalidade</b> e respeito à condição peculiar de pessoa em desenvolvimento; <b>sem prazo determinado</b>, reavaliação <b>no máximo a cada 6 meses</b>; <b>máximo de 3 anos</b>; <b>liberação compulsória aos 21 anos</b></td></tr></tbody></table>\n<ul><li><b>Hipóteses de internação</b> (art. 122, rol <b>taxativo</b>): I – ato infracional cometido mediante <b>grave ameaça ou violência a pessoa</b>; II – <b>reiteração</b> no cometimento de outras infrações graves; III – <b>descumprimento reiterado e injustificável</b> de medida anteriormente imposta (internação-sanção, por <b>até 3 meses</b>). Em nenhuma hipótese será aplicada a internação <b>havendo outra medida adequada</b>.</li><li><b>Súmula 492 do STJ</b>: \"o ato infracional análogo ao <b>tráfico de drogas</b>, <b>por si só</b>, <b>não conduz obrigatoriamente</b> à imposição de medida socioeducativa de internação do adolescente\".</li><li><b>Súmula 338 do STJ</b>: a <b>prescrição penal</b> é aplicável às medidas socioeducativas. <b>Súmula 265 do STJ</b>: é necessária a oitiva do menor infrator antes de decretar-se a regressão da medida.</li><li><b>Remissão</b> (art. 126): forma de <b>exclusão</b> do processo (concedida pelo <b>MP</b>, antes de iniciado o procedimento) ou de <b>suspensão ou extinção</b> (concedida pelo <b>juiz</b>, depois de iniciado). Não implica reconhecimento de responsabilidade nem prevalece para antecedentes, e pode incluir medida não privativa de liberdade.</li></ul>\n<h3>4. Apreensão e atuação policial (arts. 106 a 109 e 171 a 178)</h3>\n<ul><li><b>Apreensão</b> (art. 106): nenhum adolescente será privado de sua liberdade senão em <b>flagrante de ato infracional</b> ou por <b>ordem escrita e fundamentada</b> da autoridade judiciária competente. O adolescente tem direito à <b>identificação dos responsáveis</b> pela apreensão e deve ser informado de seus direitos.</li><li><b>Comunicação</b> (art. 107): a apreensão e o local onde se encontra recolhido serão <b>incontinenti comunicados</b> à <b>autoridade judiciária</b> e à <b>família</b> do apreendido ou à pessoa por ele indicada. Examina-se, desde logo e sob pena de responsabilidade, a possibilidade de <b>liberação imediata</b>.</li><li><b>Internação provisória</b> (art. 108): antes da sentença, pode ser determinada pelo <b>prazo máximo de 45 dias</b>, com decisão fundamentada baseada em indícios suficientes de autoria e materialidade e na necessidade imperiosa da medida.</li><li><b>Identificação</b> (art. 109): o adolescente <b>civilmente identificado</b> não será submetido a identificação compulsória pelos órgãos policiais, salvo para efeito de <b>confrontação</b>, havendo <b>dúvida fundada</b>.</li></ul>\n<div class=\"lt-fluxo\"><span>Apreensão em flagrante</span> <em>→</em> <span>Encaminhamento à autoridade policial (de preferência repartição especializada)</span> <em>→</em> <span>Ato com violência ou grave ameaça: auto de apreensão; demais casos: boletim de ocorrência circunstanciada</span> <em>→</em> <span>Liberação aos pais com termo de compromisso, salvo gravidade</span> <em>→</em> <span>Não liberado: apresentação imediata ao MP (ou entidade de atendimento em até 24 h)</span></div>\n<ul><li><b>Procedimento</b> (arts. 172 a 176): o adolescente apreendido em flagrante será encaminhado à <b>autoridade policial competente</b> (havendo repartição especializada, a ela). Em ato infracional cometido <b>mediante violência ou grave ameaça</b>, a autoridade <b>lavrará auto de apreensão</b>, ouvirá testemunhas e o adolescente, apreenderá o produto e os instrumentos e requisitará exames; nas <b>demais hipóteses</b>, o auto pode ser substituído por <b>boletim de ocorrência circunstanciada</b>.</li><li><b>Liberação</b> (art. 174): comparecendo qualquer dos <b>pais ou responsável</b>, o adolescente será <b>prontamente liberado</b> pela autoridade policial, sob <b>termo de compromisso</b> de apresentação ao MP, <b>exceto</b> quando, pela <b>gravidade</b> do ato e sua <b>repercussão social</b>, deva permanecer internado para garantia de sua segurança pessoal ou manutenção da ordem pública. Não liberado, será encaminhado <b>desde logo ao MP</b>; sendo impossível, a entidade de atendimento o apresentará em até <b>24 horas</b>.</li><li><b>Transporte</b> (art. 178): o adolescente <b>não poderá ser conduzido ou transportado em compartimento fechado de veículo policial</b>, em condições atentatórias à sua dignidade ou que impliquem risco à sua integridade física ou mental, sob pena de responsabilidade.</li></ul>\n<h3>5. Crimes previstos no ECA (destaques)</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>230</b></td><td><b>privar</b> a criança ou adolescente de sua liberdade, procedendo à sua apreensão <b>sem estar em flagrante</b> ou sem ordem escrita da autoridade judiciária</td><td>detenção de 6 meses a 2 anos</td></tr><tr><td><b>232</b></td><td>submeter criança ou adolescente sob sua autoridade, guarda ou vigilância a <b>vexame ou constrangimento</b></td><td>detenção de 6 meses a 2 anos</td></tr><tr><td><b>234</b></td><td>deixar a autoridade competente, sem justa causa, de ordenar a <b>imediata liberação</b> de adolescente, tão logo tenha conhecimento da <b>ilegalidade</b> da apreensão</td><td>detenção de 6 meses a 2 anos</td></tr><tr><td><b>240</b></td><td><b>produzir, reproduzir, dirigir, fotografar, filmar ou registrar</b> cena de sexo explícito ou pornográfica envolvendo criança ou adolescente</td><td>reclusão de <b>4 a 8 anos</b></td></tr><tr><td><b>241</b></td><td><b>vender ou expor à venda</b> esse material</td><td>reclusão de <b>4 a 8 anos</b></td></tr><tr><td><b>241-A</b></td><td><b>oferecer, trocar, disponibilizar, transmitir, distribuir, publicar ou divulgar</b> o material, inclusive pela internet</td><td>reclusão de <b>3 a 6 anos</b></td></tr><tr><td><b>241-B</b></td><td><b>adquirir, possuir ou armazenar</b> o material</td><td>reclusão de <b>1 a 4 anos</b> (diminuição de 1 a 2/3 se pequena quantidade)</td></tr><tr><td><b>241-D</b></td><td><b>aliciar, assediar, instigar ou constranger</b>, por qualquer meio de comunicação, criança, com o fim de com ela praticar ato libidinoso</td><td>reclusão de 1 a 3 anos</td></tr><tr><td><b>242</b></td><td><b>vender, fornecer ou entregar arma</b>, munição ou explosivo a criança ou adolescente</td><td>reclusão de 3 a 6 anos</td></tr><tr><td><b>243</b></td><td>vender, fornecer ou entregar <b>bebida alcoólica</b> ou produtos que causem dependência</td><td>detenção de 2 a 4 anos, se o fato não constitui crime mais grave</td></tr><tr><td><b>244-B</b></td><td><b>corromper ou facilitar a corrupção</b> de menor de 18, com ele praticando infração penal ou induzindo-o a praticá-la</td><td>reclusão de <b>1 a 4 anos</b>; aumento de <b>1/3</b> se a infração for <b>hedionda</b></td></tr></tbody></table>\n<ul><li><b>Súmula 500 do STJ</b>: a configuração do crime de <b>corrupção de menores</b> (art. 244-B) <b>independe da prova da efetiva corrupção</b> do menor, por se tratar de <b>delito formal</b>.</li><li>Os crimes do ECA são de <b>ação penal pública incondicionada</b> (art. 227).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Criança que pratica ato infracional recebe medida socioeducativa</span><br>✅ <span class=\"certo\">Recebe medida de proteção.</span></li><li>❌ <span class=\"banca\">O Conselho Tutelar aplica medidas socioeducativas</span><br>✅ <span class=\"certo\">Só o juiz (Súmula 108 do STJ).</span></li><li>❌ <span class=\"banca\">Tráfico de drogas leva sempre à internação</span><br>✅ <span class=\"certo\">Súmula 492 do STJ.</span></li><li>❌ <span class=\"banca\">Internação provisória pode durar 90 dias</span><br>✅ <span class=\"certo\">Máximo de 45 dias.</span></li><li>❌ <span class=\"banca\">Pode-se transportar o adolescente no compartimento fechado da viatura</span><br>✅ <span class=\"certo\">Vedado (art. 178).</span></li><li>❌ <span class=\"banca\">Corrupção de menores exige prova de que o menor foi corrompido</span><br>✅ <span class=\"certo\">Crime formal (Súmula 500).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Criança?</span></span><span class=\"vs\"><span>Até <b>12 anos incompletos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Adolescente?</span></span><span class=\"vs\"><span>De <b>12 a 18</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Medidas socioeducativas?</span></span><span class=\"vs\"><span>Advertência, reparação, PSC, liberdade assistida, semiliberdade, <b>internação</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Internação?</span></span><span class=\"vs\"><span>Reavaliação a cada <b>6 meses</b>, máximo <b>3 anos</b>, liberação aos <b>21</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Internação provisória?</span></span><span class=\"vs\"><span><b>45 dias</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hipóteses de internação?</span></span><span class=\"vs\"><span><b>Violência ou grave ameaça</b>, <b>reiteração</b> em infrações graves, <b>descumprimento</b> reiterado.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ato com violência?</span></span><span class=\"vs\"><span><b>Auto de apreensão</b>; demais: boletim circunstanciado.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Súmula 500 do STJ?</span></span><span class=\"vs\"><span>Corrupção de menores é <b>formal</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O adolescente do roubo</b><p>Um adolescente de 16 anos é apreendido em flagrante logo após roubar um celular com uma faca. A mãe chega à delegacia uma hora depois.</p><details><summary>Ver a solução comentada</summary><p>Por ser ato infracional com <b>grave ameaça</b>, a autoridade <b>lavra auto de apreensão</b> (art. 173), ouve testemunhas e o adolescente, apreende a faca e o celular. A <b>liberação à mãe</b>, sob termo de compromisso, é a regra (art. 174), mas pode ser negada pela <b>gravidade e repercussão</b> do ato; nesse caso, ele é apresentado ao <b>MP</b> imediatamente. A apreensão é comunicada <b>incontinenti</b> ao juiz e à família. Ele não pode ser transportado no <b>compartimento fechado</b> da viatura. A internação, se aplicada, encontra base no art. 122, I (grave ameaça).</p></details></div>",
+"quiz": [
+{
+"p": "A apreensão de adolescente e o local onde se encontra recolhido serão incontinenti comunicados à autoridade judiciária competente e à família do apreendido ou à pessoa por ele indicada.",
+"c": true,
+"prof": "Certo. ECA, art. 107.",
+"x": "Deve-se examinar, desde logo e sob pena de responsabilidade, a possibilidade de liberação imediata.",
+"e": "Comunica juiz e família."
+},
+{
+"p": "A internação provisória do adolescente, antes da sentença, pode ser determinada pelo prazo máximo de 90 dias.",
+"c": false,
+"prof": "O prazo é de 45 dias.",
+"x": "O art. 108 limita a internação provisória a 45 dias, com decisão fundamentada em indícios suficientes de autoria e materialidade.",
+"e": "Provisória: 45 dias."
+},
+{
+"p": "A medida socioeducativa de internação:",
+"alts": [
+"tem prazo fixo de 3 anos, definido na sentença",
+"pode ser aplicada pelo Conselho Tutelar",
+"não comporta prazo determinado, deve ser reavaliada no máximo a cada 6 meses e não pode exceder 3 anos",
+"é obrigatória no ato infracional análogo ao tráfico",
+"pode durar até os 25 anos do internado"
+],
+"r": 2,
+"n": [
+"O prazo é indeterminado, com teto.",
+"Só o juiz aplica.",
+"Correta: art. 121.",
+"Súmula 492 do STJ.",
+"Liberação compulsória aos 21."
+],
+"prof": "Brevidade e excepcionalidade.",
+"x": "A internação não tem prazo determinado, é reavaliada no máximo a cada 6 meses, tem teto de 3 anos e liberação compulsória aos 21 anos.",
+"e": "Internação: até 3 anos."
+},
+{
+"p": "Segundo a Súmula 500 do STJ, o crime de corrupção de menores é formal e se configura independentemente da prova da efetiva corrupção do menor.",
+"c": true,
+"prof": "Certo.",
+"x": "Basta que o adulto pratique infração penal com o menor ou o induza a praticá-la (art. 244-B do ECA). A pena aumenta de 1/3 se a infração for hedionda.",
+"e": "Corrupção de menores: formal."
+},
+{
+"p": "Nos atos infracionais cometidos sem violência ou grave ameaça, a autoridade policial deve sempre lavrar auto de apreensão, vedada a substituição por boletim de ocorrência.",
+"c": false,
+"prof": "Pode ser substituído.",
+"x": "O art. 173, parágrafo único, permite substituir o auto de apreensão por boletim de ocorrência circunstanciada nas hipóteses sem violência ou grave ameaça.",
+"e": "Sem violência: boletim circunstanciado."
+},
+{
+"p": "A criança que pratica ato infracional:",
+"alts": [
+"recebe medida socioeducativa de internação",
+"é processada na Vara Criminal",
+"fica sujeita a medidas de proteção, como encaminhamento aos pais e matrícula em escola",
+"não sofre nenhuma consequência",
+"é apreendida e apresentada ao MP"
+],
+"r": 2,
+"n": [
+"Medidas socioeducativas são para adolescentes.",
+"É inimputável.",
+"Correta: arts. 105 e 101.",
+"Recebe medidas de proteção.",
+"O procedimento é próprio do adolescente."
+],
+"prof": "Criança: proteção.",
+"x": "Ao ato infracional praticado por criança correspondem as medidas de proteção do art. 101, aplicadas, em regra, pelo Conselho Tutelar.",
+"e": "Criança: medidas de proteção."
+}
+]
+},
+"ambientais": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>9.605</b><span>Lei de Crimes Ambientais (1998)</span></div><div class=\"lt-stat\"><b>3</b><span>esferas de responsabilidade: penal, administrativa e civil</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão: maus-tratos a cão ou gato (Lei 14.064/2020)</span></div><div class=\"lt-stat\"><b>4</b><span>anos: limite para a substituição da pena na Lei 9.605 (pena inferior a 4)</span></div></div>\n<h3>1. Fundamentos</h3>\n<ul><li>A CF (art. 225, § 3º) determina que as condutas lesivas ao meio ambiente sujeitarão os infratores, <b>pessoas físicas ou jurídicas</b>, a <b>sanções penais e administrativas</b>, independentemente da obrigação de <b>reparar os danos</b>. A <b>Lei 9.605/1998</b> regulamenta as esferas penal e administrativa.</li></ul>\n<h3>2. Responsabilidade penal da pessoa jurídica</h3>\n<ul><li><b>Art. 3º</b>: as pessoas jurídicas serão responsabilizadas administrativa, civil e penalmente nos casos em que a infração seja cometida <b>por decisão de seu representante legal ou contratual, ou de seu órgão colegiado</b>, <b>no interesse ou benefício da sua entidade</b>. A responsabilidade da PJ <b>não exclui</b> a das pessoas físicas autoras, coautoras ou partícipes.</li><li><b>Dupla imputação</b>: o <b>STF</b> (RE 548.181) e, depois, o <b>STJ</b> abandonaram a exigência de denunciar simultaneamente a pessoa física: a PJ pode ser processada <b>sozinha</b>.</li><li><b>Penas da PJ</b> (arts. 21 a 24): <b>multa</b>, <b>restritivas de direitos</b> (suspensão parcial ou total de atividades, interdição temporária, proibição de contratar com o Poder Público) e <b>prestação de serviços à comunidade</b> (custeio de programas ambientais, recuperação de áreas degradadas). A PJ constituída ou utilizada para permitir, facilitar ou ocultar crime ambiental terá <b>liquidação forçada</b>, e seu patrimônio será considerado instrumento do crime.</li><li><b>Desconsideração</b> (art. 4º): poderá ser desconsiderada a PJ sempre que sua personalidade for <b>obstáculo ao ressarcimento</b> dos prejuízos ao meio ambiente.</li></ul>\n<h3>3. Penas e benefícios para a pessoa física</h3>\n<ul><li><b>Substituição por restritivas</b> (art. 7º): quando se tratar de <b>crime culposo</b> ou for aplicada pena privativa de liberdade <b>inferior a 4 anos</b> (o CP admite \"não superior a 4\"). Penas restritivas próprias: prestação de serviços à comunidade, <b>interdição temporária de direitos</b>, suspensão de atividades, prestação pecuniária, <b>recolhimento domiciliar</b>.</li><li><b>Atenuantes próprias</b> (art. 14): baixo grau de instrução ou escolaridade; arrependimento manifestado pela espontânea reparação do dano; comunicação prévia do perigo iminente de degradação; colaboração com os agentes de vigilância. <b>Agravantes</b> (art. 15): reincidência em crime ambiental, para obter vantagem pecuniária, atingindo áreas de unidades de conservação, em período de defeso à fauna, à noite, em domingos ou feriados, com abuso de licença.</li><li><b>Transação penal</b> (art. 27): nas infrações de menor potencial ofensivo, a proposta de aplicação imediata de pena só pode ser formulada desde que tenha havido a <b>prévia composição do dano ambiental</b>, salvo comprovada impossibilidade. <b>Suspensão condicional do processo</b> (art. 28): a extinção da punibilidade depende de <b>laudo de constatação de reparação do dano</b> ambiental.</li><li><b>Ação penal</b>: <b>pública incondicionada</b> (art. 26).</li></ul>\n<h3>4. Crimes contra a fauna (arts. 29 a 37)</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>29</b></td><td><b>matar, perseguir, caçar, apanhar, utilizar</b> espécimes da <b>fauna silvestre</b>, nativos ou em rota migratória, <b>sem permissão, licença ou autorização</b></td><td>detenção de 6 meses a 1 ano e multa. <b>§ 2º</b>: em caso de <b>guarda doméstica</b> de espécie silvestre <b>não ameaçada de extinção</b>, o juiz pode deixar de aplicar a pena (<b>perdão judicial</b>)</td></tr><tr><td><b>32</b></td><td>praticar ato de <b>abuso, maus-tratos, ferir ou mutilar</b> animais silvestres, domésticos ou domesticados, nativos ou exóticos</td><td>detenção de 3 meses a 1 ano e multa; <b>§ 1º-A</b>: se se tratar de <b>cão ou gato</b>, reclusão de <b>2 a 5 anos</b>, multa e proibição da guarda; aumento de 1/6 a 1/3 se ocorre <b>morte</b> do animal</td></tr><tr><td><b>33</b></td><td>provocar, pela emissão de efluentes, o <b>perecimento de espécimes</b> da fauna aquática</td><td>detenção de 1 a 3 anos</td></tr><tr><td><b>34</b></td><td><b>pescar</b> em período proibido ou em lugares interditados</td><td>detenção de 1 a 3 anos ou multa</td></tr></tbody></table>\n<ul><li><b>Não é crime</b> o abate de animal (art. 37): em <b>estado de necessidade</b>, para saciar a <b>fome</b> do agente ou de sua família; para <b>proteger lavouras, pomares e rebanhos</b> da ação predatória ou destruidora de animais, desde que legal e expressamente autorizado pela autoridade competente; por ser <b>nocivo</b> o animal, assim caracterizado pelo órgão competente.</li></ul>\n<h3>5. Crimes contra a flora (arts. 38 a 53)</h3>\n<ul><li><b>Art. 38</b>: destruir ou danificar <b>floresta considerada de preservação permanente</b>, mesmo que em formação, ou utilizá-la com infringência das normas de proteção: detenção de 1 a 3 anos ou multa (culposo: pena reduzida à metade). <b>Art. 38-A</b>: o mesmo em vegetação do <b>Bioma Mata Atlântica</b>.</li><li><b>Art. 41</b>: <b>provocar incêndio em mata ou floresta</b>: reclusão de <b>2 a 4 anos</b> e multa; culposo: detenção de 6 meses a 1 ano.</li><li><b>Art. 42</b>: <b>fabricar, vender, transportar ou soltar balões</b> que possam provocar incêndios nas florestas e demais formas de vegetação, em áreas urbanas ou qualquer tipo de assentamento humano: detenção de 1 a 3 anos ou multa.</li><li><b>Art. 46</b>: receber ou adquirir madeira, lenha, carvão sem exigir a exibição de <b>licença</b> do vendedor e sem munir-se da via que deverá acompanhar o produto até o final do beneficiamento.</li></ul>\n<h3>6. Poluição, ordenamento urbano e administração ambiental</h3>\n<ul><li><b>Poluição</b> (art. 54): causar poluição de qualquer natureza em níveis tais que resultem ou possam resultar em <b>danos à saúde humana</b>, ou que provoquem a mortandade de animais ou a destruição significativa da flora: reclusão de <b>1 a 4 anos</b> e multa; culposo: detenção de 6 meses a 1 ano. Formas qualificadas: tornar área imprópria para ocupação humana, causar poluição hídrica que interrompa o abastecimento público, etc. (reclusão de 1 a 5 anos).</li><li><b>Atividade sem licença</b> (art. 60): construir, reformar, ampliar, instalar ou fazer funcionar estabelecimentos, obras ou serviços potencialmente poluidores <b>sem licença</b> ou autorização dos órgãos ambientais.</li><li><b>Patrimônio cultural e urbano</b> (arts. 62 a 65): destruir bem especialmente protegido; <b>pichar</b> ou por outro meio conspurcar edificação ou monumento urbano: detenção de 3 meses a 1 ano e multa (6 meses a 1 ano se o bem for tombado). <b>Não constitui crime</b> a prática de <b>grafite</b> realizada com o objetivo de valorizar o patrimônio, <b>com consentimento do proprietário</b> e, quando couber, autorização do órgão competente (art. 65, § 2º).</li><li><b>Crimes contra a Administração ambiental</b> (arts. 66 a 69-A): o <b>funcionário público</b> que faz afirmação falsa ou enganosa, omite a verdade ou sonega informações em procedimentos de licenciamento (art. 66); que <b>concede licença</b> em desacordo com as normas ambientais (art. 67); dificultar a fiscalização ambiental (art. 69); elaborar laudo ou estudo <b>falso</b> ou enganoso no licenciamento (art. 69-A).</li></ul>\n<h3>7. Competência e insignificância</h3>\n<ul><li>Em regra, <b>Justiça Estadual</b>. <b>Federal</b> quando o crime atinge <b>bens, serviços ou interesse da União</b> (terra indígena, unidade de conservação federal, rio interestadual, mar territorial, espécie ameaçada de extinção em tráfico internacional). O cancelamento da antiga Súmula 91 do STJ reforçou que a fauna, por si só, não atrai competência federal.</li><li><b>Insignificância</b>: o STJ e o STF a admitem <b>excepcionalmente</b> nos crimes ambientais, quando a lesão é ínfima (pesca de pouquíssimos peixes sem petrecho proibido), mas a afastam quando a conduta atinge espécie ameaçada ou área protegida.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A pessoa jurídica só responde se a pessoa física também for denunciada</span><br>✅ <span class=\"certo\">STF/STJ: dupla imputação não é exigida.</span></li><li>❌ <span class=\"banca\">Na Lei 9.605 a substituição exige pena não superior a 4 anos</span><br>✅ <span class=\"certo\">Exige pena INFERIOR a 4 anos (ou crime culposo).</span></li><li>❌ <span class=\"banca\">Matar animal para saciar a fome é crime</span><br>✅ <span class=\"certo\">Não é crime (art. 37, I).</span></li><li>❌ <span class=\"banca\">Grafite é sempre pichação</span><br>✅ <span class=\"certo\">Com consentimento do proprietário não é crime.</span></li><li>❌ <span class=\"banca\">Maus-tratos a cão: detenção de 3 meses a 1 ano</span><br>✅ <span class=\"certo\">Cão ou gato: reclusão de 2 a 5 anos.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Responsabilidade da PJ?</span></span><span class=\"vs\"><span>Decisão do <b>representante ou órgão colegiado</b>, <b>no interesse ou benefício</b> da entidade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dupla imputação?</span></span><span class=\"vs\"><span><b>Não exigida</b> (STF/STJ).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Substituição da pena?</span></span><span class=\"vs\"><span>Crime <b>culposo</b> ou pena <b>inferior a 4 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Transação penal ambiental?</span></span><span class=\"vs\"><span>Exige <b>prévia composição do dano</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Maus-tratos a cão/gato?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 5 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Incêndio em floresta?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 4 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Soltar balão?</span></span><span class=\"vs\"><span>Crime (art. 42).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Grafite autorizado?</span></span><span class=\"vs\"><span><b>Não é crime</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O cachorro amarrado no sol</b><p>Vizinhos denunciam que um homem mantém o cão amarrado sem água, ao sol, ferido e magro. A polícia constata os maus-tratos.</p><details><summary>Ver a solução comentada</summary><p>O art. 32, <b>§ 1º-A</b>, da Lei 9.605 (Lei 14.064/2020) pune maus-tratos a <b>cão ou gato</b> com <b>reclusão de 2 a 5 anos</b>, multa e <b>proibição da guarda</b>. Como a pena máxima supera 2 anos, <b>não</b> é infração de menor potencial ofensivo: lavra-se <b>auto de prisão em flagrante</b> se houver flagrância (a conduta é permanente enquanto durar a situação de maus-tratos). Se o animal morrer, a pena aumenta de 1/6 a 1/3. A ação é pública incondicionada.</p></details></div>",
+"quiz": [
+{
+"p": "As pessoas jurídicas serão responsabilizadas penalmente nos casos em que a infração seja cometida por decisão de seu representante legal ou contratual, ou de seu órgão colegiado, no interesse ou benefício da sua entidade.",
+"c": true,
+"prof": "Certo. Art. 3º da Lei 9.605/1998.",
+"x": "A responsabilidade da pessoa jurídica não exclui a das pessoas físicas, mas, segundo o STF e o STJ, a PJ pode ser processada sem a denúncia simultânea da pessoa física.",
+"e": "PJ: decisão + benefício."
+},
+{
+"p": "Os maus-tratos contra cão ou gato são punidos com detenção de três meses a um ano, constituindo infração de menor potencial ofensivo.",
+"c": false,
+"prof": "Reclusão de 2 a 5 anos.",
+"x": "A Lei 14.064/2020 incluiu o § 1º-A no art. 32: maus-tratos a cão ou gato têm pena de reclusão de 2 a 5 anos, multa e proibição da guarda.",
+"e": "Cão e gato: 2 a 5."
+},
+{
+"p": "Nos crimes ambientais de menor potencial ofensivo, a proposta de transação penal:",
+"alts": [
+"é vedada",
+"pode ser feita independentemente da reparação do dano",
+"somente pode ser formulada se houver prévia composição do dano ambiental, salvo comprovada impossibilidade",
+"depende de autorização do órgão ambiental",
+"só cabe para pessoa jurídica"
+],
+"r": 2,
+"n": [
+"É cabível.",
+"Exige composição prévia.",
+"Correta: art. 27.",
+"Não há essa exigência.",
+"Cabe para pessoas físicas e jurídicas."
+],
+"prof": "Primeiro reparar.",
+"x": "O art. 27 condiciona a transação penal à prévia composição do dano ambiental. Na suspensão condicional do processo, a extinção depende de laudo de constatação da reparação (art. 28).",
+"e": "Transação: reparar antes."
+},
+{
+"p": "Não é crime o abate de animal quando realizado em estado de necessidade, para saciar a fome do agente ou de sua família.",
+"c": true,
+"prof": "Certo. Art. 37, I.",
+"x": "Também não é crime o abate para proteger lavouras e rebanhos, com autorização, e o de animal declarado nocivo pelo órgão competente.",
+"e": "Fome: não é crime."
+},
+{
+"p": "Na Lei 9.605/1998, a pena privativa de liberdade pode ser substituída por restritiva de direitos quando aplicada pena não superior a quatro anos, nos mesmos moldes do Código Penal.",
+"c": false,
+"prof": "Exige pena inferior a 4 anos.",
+"x": "O art. 7º da Lei 9.605 exige crime culposo ou pena privativa de liberdade inferior a 4 anos, critério diferente do art. 44 do CP (não superior a 4).",
+"e": "Ambiental: inferior a 4."
+},
+{
+"p": "A prática de grafite realizada com o objetivo de valorizar o patrimônio, com consentimento do proprietário:",
+"alts": [
+"configura pichação, com pena de detenção",
+"configura dano qualificado",
+"não constitui crime",
+"é crime apenas se feita em bem tombado",
+"depende sempre de licença federal"
+],
+"r": 2,
+"n": [
+"O § 2º do art. 65 a exclui.",
+"Não há dano.",
+"Correta.",
+"Em bem público, exige-se também autorização do órgão competente.",
+"Não há essa exigência."
+],
+"prof": "Grafite autorizado.",
+"x": "O art. 65, § 2º, exclui o crime quando o grafite valoriza o patrimônio e há consentimento do proprietário e, quando couber, autorização do órgão competente.",
+"e": "Grafite com consentimento: lícito."
+}
+]
+},
+"jecrim": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2 anos</b><span>pena máxima da infração de menor potencial ofensivo</span></div><div class=\"lt-stat\"><b>5</b><span>critérios: oralidade, simplicidade, informalidade, economia processual e celeridade</span></div><div class=\"lt-stat\"><b>3</b><span>fases: preliminar, procedimento sumaríssimo e recursos</span></div><div class=\"lt-stat\"><b>0</b><span>institutos da Lei 9.099 aplicáveis à violência doméstica contra a mulher</span></div></div>\n<h3>1. Previsão e competência</h3>\n<ul><li>CF, art. 98, I: União e Estados criarão <b>juizados especiais</b>, providos por juízes togados ou togados e leigos, competentes para a <b>conciliação, o julgamento e a execução</b> de causas cíveis de menor complexidade e de <b>infrações penais de menor potencial ofensivo</b>, mediante procedimento <b>oral e sumaríssimo</b>, permitidos a <b>transação</b> e o julgamento de recursos por <b>turmas de juízes de primeiro grau</b>.</li><li><b>Lei 9.099/1995</b> (Juizados estaduais) e <b>Lei 10.259/2001</b> (Juizados federais).</li><li><b>Infração de menor potencial ofensivo</b> (art. 61): <b>contravenções</b> e <b>crimes com pena máxima não superior a 2 anos</b>, cumulada ou não com multa. Exemplos: lesão corporal leve, ameaça, desacato, desobediência, porte de droga para consumo pessoal (art. 28 da Lei de Drogas), vias de fato, perturbação do sossego, crimes contra a honra (salvo injúria racial).</li><li><b>Competência territorial</b> (art. 63): lugar em que foi <b>praticada</b> a infração penal.</li><li><b>Conexão e continência</b> (art. 60, p. único): se a infração de menor potencial for reunida com crime mais grave no <b>juízo comum</b> ou no <b>Júri</b>, observam-se os institutos da <b>transação penal</b> e da <b>composição dos danos</b> quanto a ela.</li><li><b>Afastamento da competência</b>: quando o acusado <b>não é encontrado</b> para citação pessoal (vai ao juízo comum, art. 66, p. único) e quando a <b>complexidade</b> do caso não permitir a formulação da denúncia (art. 77, § 2º).</li></ul>\n<h3>2. Exclusões importantes</h3>\n<ul><li><b>Violência doméstica e familiar contra a mulher</b>: <b>não se aplica a Lei 9.099</b>, independentemente da pena prevista (Lei 11.340/2006, art. 41). <b>Súmula 536 do STJ</b>: a <b>suspensão condicional do processo</b> e a <b>transação penal</b> <b>não se aplicam</b> na hipótese de delitos sujeitos ao rito da Lei Maria da Penha. A lesão leve contra a mulher, nesse contexto, é de ação <b>pública incondicionada</b> (Súmula 542).</li><li><b>Justiça Militar</b>: as disposições da Lei 9.099 <b>não se aplicam</b> no âmbito da Justiça Militar (art. 90-A).</li><li><b>Estatuto da Pessoa Idosa</b> (art. 94): aplica-se o <b>procedimento</b> da Lei 9.099 aos crimes contra idosos com pena máxima até 4 anos, mas <b>não os benefícios</b> despenalizadores (STF, ADI 3.096).</li></ul>\n<h3>3. Fase policial e fase preliminar</h3>\n<ul><li><b>TCO</b> (art. 69): a autoridade policial lavra <b>termo circunstanciado</b> e o encaminha imediatamente ao Juizado, com o autor e a vítima. <b>Não se impõe prisão em flagrante nem se exige fiança</b> se o autor for encaminhado ao Juizado ou assumir o compromisso de comparecer. O STF admite a lavratura do TCO pela Polícia Militar (ADI 5.637).</li><li><b>Audiência preliminar</b>: o juiz (ou conciliador) esclarece sobre a <b>composição civil dos danos</b> e a <b>transação penal</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instituto</th><th>Quando</th><th>Efeito</th></tr></thead><tbody><tr><td><b>Composição civil</b> (art. 74)</td><td>acordo entre autor e vítima sobre a reparação</td><td>homologado, é <b>título executivo</b>; na ação <b>privada ou condicionada</b>, acarreta <b>renúncia</b> ao direito de queixa ou representação</td></tr><tr><td><b>Representação</b> (art. 75)</td><td>não havendo acordo, a vítima pode representar <b>verbalmente</b> na audiência</td><td>se não o fizer, mantém o prazo decadencial de 6 meses</td></tr><tr><td><b>Transação penal</b> (art. 76)</td><td>MP propõe pena restritiva de direitos ou multa</td><td>não gera reincidência nem antecedentes; impede novo benefício por 5 anos; descumprida, o MP retoma a persecução (SV 35)</td></tr><tr><td><b>Suspensão condicional do processo</b> (art. 89)</td><td>crimes com pena <b>mínima</b> até 1 ano (dentro ou fora do Juizado)</td><td>período de prova de 2 a 4 anos; cumprido, extingue-se a punibilidade</td></tr></tbody></table>\n<ul><li><b>Representação nas lesões</b> (art. 88): dependerá de representação a ação penal relativa aos crimes de <b>lesões corporais leves e lesões culposas</b> (salvo violência doméstica contra a mulher).</li></ul>\n<h3>4. Procedimento sumaríssimo e recursos</h3>\n<ul><li><b>Denúncia oral</b>, reduzida a termo. <b>Citação pessoal</b> (não há citação por edital; admite-se por hora certa). <b>Audiência de instrução e julgamento</b> concentrada: defesa preliminar → recebimento ou rejeição da denúncia → oitiva da vítima e das testemunhas → <b>interrogatório</b> → debates → <b>sentença</b>, <b>dispensado o relatório</b> (art. 81, § 3º).</li><li><b>Recursos</b>: da decisão de <b>rejeição da denúncia ou queixa</b> e da <b>sentença</b>, cabe <b>apelação</b>, no prazo de <b>10 dias</b>, julgada por <b>turma recursal</b> composta por 3 juízes de primeiro grau (art. 82). <b>Embargos de declaração</b> em <b>5 dias</b>. Contra decisão de turma recursal <b>não cabe recurso especial</b> ao STJ (Súmula 203 do STJ), mas cabe <b>recurso extraordinário</b> ao STF (Súmula 640 do STF).</li><li><b>Execução</b> (arts. 84 a 86): a multa aplicada é paga na secretaria do Juizado; a execução das penas privativas de liberdade e restritivas de direitos, ou de multa cumulada com estas, é feita pelo <b>órgão competente</b>, nos termos da lei.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Lei 9.099 se aplica à lesão leve contra a mulher em violência doméstica</span><br>✅ <span class=\"certo\">Vedado (art. 41 da Lei Maria da Penha; Súmula 536).</span></li><li>❌ <span class=\"banca\">Da rejeição da denúncia no Juizado cabe recurso em sentido estrito</span><br>✅ <span class=\"certo\">Cabe apelação em 10 dias.</span></li><li>❌ <span class=\"banca\">Cabe recurso especial contra acórdão de turma recursal</span><br>✅ <span class=\"certo\">Súmula 203 do STJ: não cabe.</span></li><li>❌ <span class=\"banca\">Suspensão condicional do processo só existe no Juizado</span><br>✅ <span class=\"certo\">Cabe em qualquer crime com pena mínima até 1 ano.</span></li><li>❌ <span class=\"banca\">Crimes contra idosos recebem os benefícios da 9.099</span><br>✅ <span class=\"certo\">Só o procedimento (ADI 3.096).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Menor potencial ofensivo?</span></span><span class=\"vs\"><span>Contravenções e crimes com pena <b>máxima até 2 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Competência territorial?</span></span><span class=\"vs\"><span>Lugar em que foi <b>praticada</b> a infração.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Maria da Penha?</span></span><span class=\"vs\"><span><b>Não se aplica</b> a Lei 9.099 (Súmula 536).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Composição civil na ação condicionada?</span></span><span class=\"vs\"><span><b>Renúncia</b> ao direito de representação.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Transação descumprida?</span></span><span class=\"vs\"><span>MP retoma (<b>SV 35</b>).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Recurso no Juizado?</span></span><span class=\"vs\"><span><b>Apelação</b> em <b>10 dias</b>, turma recursal.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Recurso especial contra turma recursal?</span></span><span class=\"vs\"><span><b>Não cabe</b> (Súmula 203); RE cabe.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sentença no Juizado?</span></span><span class=\"vs\"><span><b>Dispensa relatório</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A ameaça no trânsito</b><p>Após uma batida leve, um motorista ameaça o outro de morte. A vítima, que não conhece o agressor, registra a ocorrência. Dias depois, eles se encontram na audiência preliminar e o autor pede desculpas e paga o conserto do carro.</p><details><summary>Ver a solução comentada</summary><p>A <b>ameaça</b> (pena máxima de 6 meses) é infração de <b>menor potencial ofensivo</b>, de ação <b>condicionada à representação</b>. Lavra-se <b>TCO</b>. Na audiência preliminar, a <b>composição civil</b> homologada (o pagamento do conserto e o acordo) <b>acarreta a renúncia</b> ao direito de representação e extingue a punibilidade (art. 74, p. único). Se a vítima fosse a ex-companheira do autor, em contexto de violência doméstica, a Lei 9.099 <b>não</b> se aplicaria.</p></details></div>",
+"quiz": [
+{
+"p": "Consideram-se infrações penais de menor potencial ofensivo as contravenções penais e os crimes a que a lei comine pena máxima não superior a dois anos, cumulada ou não com multa.",
+"c": true,
+"prof": "Certo. Art. 61.",
+"x": "O critério é a pena máxima abstrata. Nos crimes com procedimento especial, o critério também se aplica, ressalvadas as exclusões legais (violência doméstica contra a mulher, Justiça Militar).",
+"e": "Até 2 anos."
+},
+{
+"p": "A transação penal e a suspensão condicional do processo aplicam-se aos crimes praticados com violência doméstica contra a mulher, desde que a pena seja de até dois anos.",
+"c": false,
+"prof": "São vedadas.",
+"x": "O art. 41 da Lei 11.340/2006 afasta a Lei 9.099, e a Súmula 536 do STJ veda expressamente a transação penal e a suspensão condicional do processo nesses casos.",
+"e": "Maria da Penha: sem 9.099."
+},
+{
+"p": "No Juizado Especial Criminal, contra a sentença cabe:",
+"alts": [
+"recurso em sentido estrito, em 5 dias, ao Tribunal de Justiça",
+"apelação, em 10 dias, julgada por turma recursal de juízes de primeiro grau",
+"agravo, em 15 dias",
+"recurso especial diretamente ao STJ",
+"apelação, em 5 dias, ao Tribunal de Justiça"
+],
+"r": 1,
+"n": [
+"Não é o recurso nem o órgão.",
+"Correta: art. 82.",
+"Não é o recurso.",
+"Súmula 203 do STJ.",
+"Prazo e órgão incorretos."
+],
+"prof": "Turma recursal.",
+"x": "Da rejeição da denúncia e da sentença cabe apelação em 10 dias, já com as razões, julgada por turma de 3 juízes de primeiro grau.",
+"e": "Apelação: 10 dias."
+},
+{
+"p": "Segundo a Súmula 203 do STJ, não cabe recurso especial contra decisão proferida por órgão de segundo grau dos Juizados Especiais.",
+"c": true,
+"prof": "Certo.",
+"x": "O recurso especial pressupõe decisão de tribunal. As turmas recursais não são tribunais. Cabe, porém, recurso extraordinário ao STF (Súmula 640 do STF).",
+"e": "Turma recursal: sem REsp."
+},
+{
+"p": "Nos Juizados Especiais Criminais, a competência é determinada pelo lugar em que se consumou a infração ou pelo domicílio do réu, à escolha da vítima.",
+"c": false,
+"prof": "Lugar em que foi praticada.",
+"x": "O art. 63 da Lei 9.099 fixa a competência pelo lugar em que foi praticada a infração penal.",
+"e": "JECrim: lugar da prática."
+},
+{
+"p": "Segundo o STF, aos crimes contra pessoa idosa com pena máxima de até quatro anos, previstos no Estatuto da Pessoa Idosa:",
+"alts": [
+"aplicam-se todos os benefícios da Lei 9.099",
+"aplica-se apenas o procedimento sumaríssimo da Lei 9.099, sem os benefícios despenalizadores",
+"não se aplica nada da Lei 9.099",
+"aplica-se a transação penal, mas não a composição civil",
+"aplica-se o rito do Júri"
+],
+"r": 1,
+"n": [
+"O STF afastou os benefícios.",
+"Correta: ADI 3.096.",
+"O procedimento é aplicado.",
+"Nenhum benefício.",
+"Não há relação com o Júri."
+],
+"prof": "Só o rito.",
+"x": "O STF deu interpretação conforme ao art. 94 do Estatuto: aplica-se o procedimento célere, mas não a transação penal nem a composição civil, para não beneficiar o autor de crime contra idoso.",
+"e": "Idoso: só o procedimento."
+}
+]
+}
+},
 "rlm": {
 "equacoes": {
 "html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>ax + b = 0</b><span>forma da equação do 1º grau</span></div><div class=\"lt-stat\"><b>Δ = b² − 4ac</b><span>discriminante da equação do 2º grau</span></div><div class=\"lt-stat\"><b>−b/a e c/a</b><span>soma e produto das raízes</span></div><div class=\"lt-stat\"><b>3</b><span>métodos para sistemas: substituição, adição e comparação</span></div></div>\n<h3>1. Do português para a equação</h3>\n<ul><li>A habilidade mais cobrada é <b>traduzir</b> o enunciado: \"o <b>dobro</b> de x\" = 2x; \"a <b>metade</b>\" = x/2; \"o <b>triplo</b> de x, <b>diminuído</b> de 5\" = 3x − 5; \"<b>excede</b> em 4\" = é 4 a mais; \"a <b>soma</b> de dois números consecutivos\" = x + (x + 1); \"<b>um terço</b> do salário\" = S/3; \"<b>restaram</b>\" = total − gastos; \"<b>dois números cuja diferença é 7</b>\" = x − y = 7.</li><li><b>Dica</b>: chame de x a grandeza <b>pedida</b> sempre que possível, escreva a equação e <b>confira a resposta</b> no enunciado.</li></ul>\n<h3>2. Equação do 1º grau</h3>\n<ul><li>Forma <b>ax + b = 0</b>, com a ≠ 0; solução <b>x = −b/a</b>. Resolver é isolar x, fazendo a mesma operação dos dois lados.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Um investigador gastou 1/3 do salário com aluguel, 1/4 com transporte e ainda restaram R$ 2.500,00. Qual o salário?</b><ol><li><span>Gastou S/3 + S/4 = 7S/12</span></li><li><span>Restou S − 7S/12 = 5S/12</span></li><li><span>5S/12 = 2.500 → S = 2.500 × 12 / 5</span></li></ol><span class=\"res\">S = R$ 6.000,00</span></div>\n<ul><li><b>Problemas de idade</b>: \"Hoje o pai tem o triplo da idade do filho; daqui a 10 anos terá o dobro. Idades?\" Filho x, pai 3x; daqui a 10 anos: 3x + 10 = 2(x + 10) → x = 10. Filho 10, pai 30.</li></ul>\n<h3>3. Sistemas lineares</h3>\n<ul><li>Duas incógnitas exigem <b>duas equações</b>. <b>Substituição</b>: isole uma incógnita numa equação e substitua na outra. <b>Adição</b>: some (ou subtraia) as equações para eliminar uma incógnita.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Uma viatura comprou 10 itens entre lanternas (R$ 30) e coletes (R$ 80), gastando R$ 550. Quantas lanternas?</b><ol><li><span>L + C = 10 e 30L + 80C = 550</span></li><li><span>Da 1ª: L = 10 − C</span></li><li><span>30(10 − C) + 80C = 550 → 300 + 50C = 550 → C = 5</span></li><li><span>L = 10 − 5</span></li></ol><span class=\"res\">5 lanternas e 5 coletes</span></div>\n<ul><li><b>Classificação</b>: <b>possível e determinado</b> (uma solução: retas concorrentes); <b>possível e indeterminado</b> (infinitas: retas coincidentes, equações proporcionais); <b>impossível</b> (nenhuma: retas paralelas, como x + y = 2 e x + y = 5).</li><li><b>Problema das canetas</b>: \"Comprou canetas e lápis...\" segue o mesmo método: duas incógnitas, uma equação de <b>quantidade</b> e outra de <b>valor</b>.</li></ul>\n<h3>4. Equação do 2º grau</h3>\n<ul><li>Forma <b>ax² + bx + c = 0</b>, a ≠ 0. <b>Fórmula de Bhaskara</b>: x = (−b ± √Δ) / 2a, com <b>Δ = b² − 4ac</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Δ</th><th>Raízes reais</th></tr></thead><tbody><tr><td><b>Δ > 0</b></td><td>duas raízes <b>distintas</b></td></tr><tr><td><b>Δ = 0</b></td><td>duas raízes <b>iguais</b> (uma raiz dupla)</td></tr><tr><td><b>Δ < 0</b></td><td><b>nenhuma</b> raiz real</td></tr></tbody></table>\n<ul><li><b>Soma e produto</b> (Girard): <b>S = −b/a</b> e <b>P = c/a</b>. Em x² − 5x + 6 = 0: S = 5, P = 6 → raízes <b>2 e 3</b> (por tentativa, sem Bhaskara).</li><li><b>Incompletas</b>: x² − 9 = 0 → x = ±3; x² − 4x = 0 → x(x − 4) = 0 → x = 0 ou x = 4.</li></ul>\n<h3>5. Problemas clássicos</h3>\n<ul><li><b>Torneiras e trabalho conjunto</b>: se A faz o serviço em 6 h e B em 3 h, juntos fazem por hora 1/6 + 1/3 = 1/2 do serviço → <b>2 horas</b>.</li><li><b>Números consecutivos</b>: três consecutivos somam 48 → x + x + 1 + x + 2 = 48 → x = 15 (15, 16, 17).</li><li><b>Divisão de prêmio</b>: \"A recebeu R$ 200 a mais que B; juntos receberam R$ 1.000\" → B + 200 + B = 1.000 → B = 400, A = 600.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Excede em 4\" significa multiplicar por 4</span><br>✅ <span class=\"certo\">Significa 4 a MAIS.</span></li><li>❌ <span class=\"banca\">Δ < 0 tem duas raízes negativas</span><br>✅ <span class=\"certo\">Não tem raiz real.</span></li><li>❌ <span class=\"banca\">Soma das raízes é b/a</span><br>✅ <span class=\"certo\">É −b/a.</span></li><li>❌ <span class=\"banca\">Sistema com equações proporcionais é impossível</span><br>✅ <span class=\"certo\">É indeterminado (infinitas soluções).</span></li><li>❌ <span class=\"banca\">Juntos, 6 h e 3 h dão 4,5 h</span><br>✅ <span class=\"certo\">Somam-se as taxas: 1/6 + 1/3 = 1/2 → 2 h.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Raiz do 1º grau?</span></span><span class=\"vs\"><span><b>x = −b/a</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Discriminante?</span></span><span class=\"vs\"><span><b>Δ = b² − 4ac</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Δ = 0?</span></span><span class=\"vs\"><span>Duas raízes <b>iguais</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Soma e produto?</span></span><span class=\"vs\"><span><b>−b/a</b> e <b>c/a</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sistema impossível?</span></span><span class=\"vs\"><span>Retas <b>paralelas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Trabalho conjunto?</span></span><span class=\"vs\"><span>Some as <b>taxas</b> (1/tA + 1/tB).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dobro de x menos 3?</span></span><span class=\"vs\"><span><b>2x − 3</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sobrou 5/12 do salário e isso é R$ 2.500?</span></span><span class=\"vs\"><span>Salário = <b>R$ 6.000</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A compra de material</b><p>Uma delegacia comprou 12 caixas de munição de dois tipos, A (R$ 150) e B (R$ 200), gastando R$ 2.100. Quantas caixas de cada?</p><details><summary>Ver a solução comentada</summary><p>A + B = 12 e 150A + 200B = 2.100. Substituindo A = 12 − B: 1.800 − 150B + 200B = 2.100 → 50B = 300 → <b>B = 6</b>, <b>A = 6</b>. Conferindo: 6 × 150 + 6 × 200 = 900 + 1.200 = 2.100. ✔</p></details></div>",
@@ -28217,1130 +30878,6 @@ export const PROFUNDO = {
 "prof": "OpenDocument Presentation.",
 "x": "O Impress usa o padrão ODF: .odp para apresentações (.otp para modelos), .odt para textos e .ods para planilhas.",
 "e": "Impress: .odp."
-}
-]
-}
-},
-"extravagante": {
-"hediondos": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3 T</b><span>equiparados a hediondos: Tortura, Tráfico e Terrorismo (CF, art. 5º, XLIII)</span></div><div class=\"lt-stat\"><b>40% a 70%</b><span>frações de progressão em crimes hediondos (LEP, art. 112)</span></div><div class=\"lt-stat\"><b>30 + 30</b><span>dias de prisão temporária em hediondo</span></div><div class=\"lt-stat\"><b>0</b><span>anistia, graça, indulto ou fiança</span></div></div>\n<h3>1. O que é crime hediondo</h3>\n<ul><li>O Brasil adota o <b>sistema legal</b>: hediondo é só o que <b>a lei</b> (Lei 8.072/1990, art. 1º) diz que é, <b>consumado ou tentado</b>. O juiz não pode declarar hediondo um crime fora da lista.</li><li>A Constituição (art. 5º, XLIII) equipara aos hediondos a <b>tortura</b>, o <b>tráfico de drogas</b> e o <b>terrorismo</b> (os \"TTT\"). Eles <b>não estão no rol</b> da Lei 8.072, mas recebem o mesmo tratamento.</li></ul>\n<table class=\"tab\"><thead><tr><th>Grupo</th><th>Crimes do rol (principais)</th></tr></thead><tbody><tr><td>Vida</td><td>homicídio <b>qualificado</b>; homicídio <b>simples</b> em atividade típica de <b>grupo de extermínio</b>; <b>feminicídio</b> (hoje crime autônomo, art. 121-A)</td></tr><tr><td>Agentes de segurança</td><td>lesão <b>gravíssima</b> e lesão <b>seguida de morte</b> contra integrantes das forças de segurança (CF, arts. 142 e 144) e da Força Nacional, no exercício ou em razão da função, ou contra seus <b>familiares até o 3º grau</b></td></tr><tr><td>Patrimônio</td><td><b>roubo</b> com restrição da liberdade da vítima, com <b>arma de fogo</b> (inclusive de uso proibido ou restrito) e qualificado por <b>lesão grave ou morte</b> (latrocínio); <b>extorsão</b> qualificada (restrição de liberdade, lesão grave ou morte); <b>extorsão mediante sequestro</b>; <b>furto com explosivo</b></td></tr><tr><td>Dignidade sexual</td><td><b>estupro</b>; <b>estupro de vulnerável</b>; <b>favorecimento da prostituição</b> de criança, adolescente ou vulnerável</td></tr><tr><td>Saúde pública</td><td>epidemia com resultado morte; falsificação de produto terapêutico ou medicinal</td></tr><tr><td>Parágrafo único</td><td><b>genocídio</b>; <b>posse ou porte de arma de fogo de uso proibido</b>; <b>comércio ilegal</b> e <b>tráfico internacional</b> de armas; <b>organização criminosa</b> voltada a crimes hediondos ou equiparados</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Depois do Pacote Anticrime, só a posse ou porte de arma de <b>uso PROIBIDO</b> é hediondo. A de <b>uso restrito</b> deixou de ser (STJ). E o <b>tráfico privilegiado</b> (art. 33, § 4º, da Lei de Drogas) <b>não é hediondo</b> (STF e LEP, art. 112, § 5º).</div>\n<h3>2. Consequências</h3>\n<ul><li><b>Insuscetíveis de anistia, graça, indulto e fiança</b> (art. 2º). Mas cabe <b>liberdade provisória sem fiança</b>, se ausentes os requisitos da preventiva.</li><li>O <b>regime inicial fechado obrigatório</b> foi declarado <b>inconstitucional</b> pelo STF (HC 111.840): o juiz fixa o regime conforme o art. 33 do CP.</li><li><b>Prisão temporária</b>: <b>30 dias</b>, prorrogáveis por mais <b>30</b> em caso de extrema e comprovada necessidade (art. 2º, § 4º). Nos demais crimes, são 5 + 5 dias (Lei 7.960/1989).</li><li><b>Associação criminosa</b> para praticar hediondo ou equiparado: <b>3 a 6 anos</b> (art. 8º); o participante que denunciar o bando, possibilitando seu desmantelamento, tem pena reduzida de <b>1 a 2/3</b>.</li><li><b>Livramento condicional</b>: após <b>2/3</b> da pena, se não for <b>reincidente específico</b> em crime hediondo (CP, art. 83, V); vedado se o crime hediondo teve <b>resultado morte</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Progressão (LEP, art. 112)</th><th>Fração</th></tr></thead><tbody><tr><td>Primário, hediondo ou equiparado</td><td><b>40%</b></td></tr><tr><td>Primário, hediondo <b>com resultado morte</b> (sem livramento); comando de organização criminosa para hediondo; <b>milícia</b></td><td><b>50%</b></td></tr><tr><td><b>Reincidente em hediondo</b></td><td><b>60%</b></td></tr><tr><td>Reincidente em hediondo <b>com resultado morte</b> (sem livramento)</td><td><b>70%</b></td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 1.084 (ARE 1.327.963)</b><p class=\"jc-tese\">O condenado por crime hediondo que é reincidente, mas não em crime hediondo, progride com a fração do primário (40% ou 50%), por falta de previsão legal específica.</p><p class=\"jc-com\">A lei só previu 60% e 70% para o reincidente <b>em hediondo</b>. Na dúvida, aplica-se a interpretação mais favorável ao condenado.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 26 e Lei 14.843/2024</b><p class=\"jc-tese\">Para a progressão em crime hediondo, o juiz pode determinar exame criminológico; com a Lei 14.843/2024, o exame passou a ser exigido para a progressão em geral (LEP, art. 112, § 1º).</p><p class=\"jc-com\">A banca costuma cobrar a súmula. Fique atento à mudança legislativa recente.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Tráfico de drogas está no rol do art. 1º da Lei 8.072</span><br>✅ <span class=\"certo\">É EQUIPARADO pela Constituição, não está no rol.</span></li><li>❌ <span class=\"banca\">Crime hediondo não admite liberdade provisória</span><br>✅ <span class=\"certo\">Veda-se a FIANÇA; a liberdade provisória sem fiança é possível.</span></li><li>❌ <span class=\"banca\">O regime inicial é sempre fechado</span><br>✅ <span class=\"certo\">O STF declarou inconstitucional essa obrigatoriedade.</span></li><li>❌ <span class=\"banca\">Temporária em hediondo: 5 + 5 dias</span><br>✅ <span class=\"certo\">30 + 30 dias.</span></li><li>❌ <span class=\"banca\">Reincidente comum condenado por hediondo progride com 60%</span><br>✅ <span class=\"certo\">60% é para reincidente EM HEDIONDO; o reincidente comum usa 40% (Tema 1.084).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equiparados a hediondos?</span></span><span class=\"vs\"><span><b>Tortura, tráfico e terrorismo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vedações?</span></span><span class=\"vs\"><span><b>Anistia, graça, indulto e fiança</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Temporária em hediondo?</span></span><span class=\"vs\"><span><b>30 + 30 dias</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Progressão do primário em hediondo?</span></span><span class=\"vs\"><span><b>40%</b> (50% com resultado morte).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tráfico privilegiado é hediondo?</span></span><span class=\"vs\"><span><b>Não</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Porte de arma de uso restrito é hediondo?</span></span><span class=\"vs\"><span><b>Não</b> (só uso <b>proibido</b>).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O latrocínio tentado</b><p>Dois assaltantes atiram contra a vítima para levar o carro; ela sobrevive com lesões leves e nada é subtraído. A defesa sustenta que, sem morte, não há crime hediondo.</p><details><summary>Ver a solução comentada</summary><p>O latrocínio (roubo qualificado pelo resultado morte) é hediondo <b>consumado ou tentado</b>. Havendo dolo de matar e não ocorrendo a morte, há latrocínio <b>tentado</b>, também hediondo. Além disso, o roubo com emprego de <b>arma de fogo</b> já está no rol.</p></details></div>",
-"quiz": [
-{
-"p": "São considerados hediondos os crimes listados na Lei 8.072/1990, consumados ou tentados.",
-"c": true,
-"prof": "Certo. É o caput do art. 1º.",
-"x": "O Brasil adota o sistema legal: só é hediondo o que a lei lista, na forma consumada ou tentada.",
-"e": "Rol legal, consumado ou tentado."
-},
-{
-"p": "O tráfico de drogas, por estar expressamente previsto no rol do art. 1º da Lei 8.072/1990, é crime hediondo.",
-"c": false,
-"prof": "Ele é equiparado, não hediondo.",
-"x": "Tráfico, tortura e terrorismo são equiparados a hediondos pela Constituição (art. 5º, XLIII) e recebem o mesmo tratamento, mas não integram o rol do art. 1º.",
-"e": "Tráfico: equiparado."
-},
-{
-"p": "O crime de tráfico privilegiado, previsto no art. 33, § 4º, da Lei de Drogas, não tem natureza hedionda.",
-"c": true,
-"prof": "Certo.",
-"x": "O STF firmou esse entendimento, e o Pacote Anticrime o positivou na LEP (art. 112, § 5º).",
-"e": "Privilegiado não é hediondo."
-},
-{
-"p": "Por expressa vedação legal válida, os crimes hediondos não admitem liberdade provisória, com ou sem fiança.",
-"c": false,
-"prof": "A vedação é só da fiança.",
-"x": "A Lei 8.072 veda anistia, graça, indulto e fiança. A liberdade provisória sem fiança é cabível quando ausentes os requisitos da prisão preventiva.",
-"e": "Só fiança vedada."
-},
-{
-"p": "A prisão temporária, nos crimes hediondos, tem prazo de 30 dias, prorrogável por igual período em caso de extrema e comprovada necessidade.",
-"c": true,
-"prof": "Certo.",
-"x": "Nos demais crimes da Lei 7.960/1989, o prazo é de 5 dias, prorrogável por mais 5.",
-"e": "30 + 30."
-},
-{
-"p": "Pedro, reincidente por furto simples, foi condenado por estupro (crime hediondo, sem resultado morte). Para progredir de regime, segundo a LEP e a jurisprudência do STF, deverá cumprir:",
-"alts": [
-"60% da pena, por ser reincidente",
-"70% da pena",
-"40% da pena, pois a reincidência não é específica em crime hediondo",
-"25% da pena",
-"16% da pena"
-],
-"r": 2,
-"n": [
-"60% é para o reincidente em crime hediondo.",
-"70% é para o reincidente em hediondo com resultado morte.",
-"Correta: Tema 1.084 do STF.",
-"25% é para crime comum com violência, primário.",
-"16% é para crime comum sem violência, primário."
-],
-"prof": "A reincidência só \"pesa\" na tabela dos hediondos se for em hediondo.",
-"x": "O art. 112 da LEP prevê 60% para o reincidente na prática de crime hediondo. Como Pedro é reincidente em crime comum, aplica-se, por analogia favorável, a fração do primário: 40%.",
-"e": "Reincidente comum: 40%."
-},
-{
-"p": "Assinale a alternativa que contém apenas crimes hediondos, segundo a Lei 8.072/1990 com as alterações do Pacote Anticrime.",
-"alts": [
-"homicídio simples; furto qualificado por rompimento de obstáculo; porte de arma de uso restrito",
-"latrocínio; estupro de vulnerável; posse ou porte de arma de fogo de uso proibido",
-"tráfico privilegiado; extorsão simples; associação criminosa",
-"roubo simples; lesão corporal grave contra particular; estelionato",
-"tortura; terrorismo; tráfico de drogas"
-],
-"r": 1,
-"n": [
-"Nenhum desses é hediondo nessas formas.",
-"Correta.",
-"Nenhum está no rol.",
-"Nenhum está no rol.",
-"São equiparados, não hediondos."
-],
-"prof": "Cuidado com a diferença entre \"hediondo\" e \"equiparado\".",
-"x": "Latrocínio (roubo qualificado pela morte), estupro de vulnerável e posse ou porte de arma de fogo de uso proibido estão no rol da Lei 8.072. Tortura, terrorismo e tráfico são equiparados pela Constituição.",
-"e": "Hediondo ≠ equiparado."
-},
-{
-"p": "Um homem é condenado por homicídio qualificado. Na sentença, o juiz fixa o regime inicial fechado afirmando que a Lei 8.072/1990 o impõe obrigatoriamente. A fundamentação está:",
-"alts": [
-"correta, pois a lei impõe regime integralmente fechado",
-"correta, pois a lei impõe regime inicial fechado e o STF a considera válida",
-"incorreta, pois o STF declarou inconstitucional a obrigatoriedade do regime inicial fechado, devendo o regime ser fixado pelas regras do Código Penal",
-"incorreta, pois crimes hediondos começam sempre no semiaberto",
-"incorreta, pois crimes hediondos não admitem pena privativa de liberdade"
-],
-"r": 2,
-"n": [
-"O regime integralmente fechado também foi declarado inconstitucional.",
-"O STF declarou a obrigatoriedade inconstitucional.",
-"Correta: HC 111.840.",
-"Não há essa regra.",
-"Absurdo."
-],
-"prof": "Individualização da pena impede regime automático.",
-"x": "O STF (HC 111.840) declarou inconstitucional o § 1º do art. 2º da Lei 8.072 na parte em que impõe o regime inicial fechado. O juiz pode até fixar o fechado, mas pelos critérios do art. 33 do CP, com fundamentação concreta.",
-"e": "Regime fixado pelo CP."
-}
-]
-},
-"drogas": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5 a 15</b><span>anos de reclusão para o tráfico (art. 33)</span></div><div class=\"lt-stat\"><b>1/6 a 2/3</b><span>redução do tráfico privilegiado (§ 4º)</span></div><div class=\"lt-stat\"><b>40 g</b><span>presunção de usuário de maconha (STF, RE 635.659)</span></div><div class=\"lt-stat\"><b>30 / 90</b><span>dias do inquérito (preso / solto), duplicáveis</span></div></div>\n<h3>1. Porte para consumo pessoal (art. 28)</h3>\n<ul><li>Adquirir, guardar, ter em depósito, transportar ou trazer consigo droga <b>para consumo pessoal</b>: <b>advertência</b>, <b>prestação de serviços à comunidade</b> ou <b>medida educativa</b> (até 5 meses; 10 na reincidência). <b>Não há pena de prisão</b> e <b>não se impõe prisão em flagrante</b>: o autor é levado ao juiz ou assina <b>termo circunstanciado</b>. A pretensão prescreve em <b>2 anos</b>.</li><li>Para saber se é consumo ou tráfico, consideram-se <b>natureza e quantidade</b> da droga, <b>local e condições</b> da ação, circunstâncias sociais e pessoais, <b>conduta e antecedentes</b> (art. 28, § 2º).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · RE 635.659 (Tema 506, 2024)</b><p class=\"jc-tese\">O porte de maconha para consumo pessoal é ilícito administrativo, sem natureza penal; presume-se usuário quem porta até 40 gramas ou seis plantas fêmeas, presunção que admite prova em contrário.</p><p class=\"jc-com\">A polícia <b>continua apreendendo</b> a droga e lavrando o registro, mas o caso vai ao juízo sem efeitos penais. Acima de 40 g não há presunção de tráfico, e abaixo dela pode haver tráfico se houver outros elementos (balança, embalagens, anotações). A decisão vale <b>só para maconha</b>.</p></div>\n<h3>2. Tráfico (art. 33) e figuras equiparadas</h3>\n<ul><li>18 verbos (\"importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, <b>ainda que gratuitamente</b>\"): <b>reclusão de 5 a 15 anos</b> e multa. Crime de <b>ação múltipla</b>: praticar vários verbos no mesmo contexto é <b>um só crime</b>.</li><li><b>§ 1º</b>: matéria-prima e insumos; <b>cultivo</b> de plantas; utilizar local para o tráfico; vender a <b>agente policial disfarçado</b>, havendo elementos de conduta criminal preexistente (Pacote Anticrime).</li><li><b>§ 2º</b>: induzir, instigar ou auxiliar alguém ao uso: detenção de 1 a 3 anos.</li><li><b>§ 3º</b>: oferecer droga <b>eventualmente</b> e <b>sem lucro</b> a pessoa do seu relacionamento, <b>para juntos consumirem</b>: detenção de 6 meses a 1 ano (uso compartilhado).</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 33, § 4º (tráfico privilegiado)</div><div class=\"art-lei\">Nos delitos do caput e do § 1º, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Requisitos <b>cumulativos</b>: primário + bons antecedentes + não se dedica ao crime + não integra organização.</li><li>A redução varia de <b>1/6 a 2/3</b> conforme as circunstâncias (quantidade e natureza da droga podem modular a fração, sem bis in idem).</li><li><b>Não é hediondo</b> (LEP, art. 112, § 5º).</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que basta ser primário.</li><li>Dizer que é hediondo.</li><li>Usar inquéritos e ações em andamento, por si sós, para negar o benefício (o STJ não admite isso como prova de dedicação ao crime).</li></ul></div></div>\n<h3>3. Outros crimes</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td>34</td><td>maquinário e instrumentos para fabricar drogas</td><td>3 a 10 anos</td></tr><tr><td><b>35</b></td><td><b>associação para o tráfico</b>: <b>2 ou mais</b> pessoas, com <b>estabilidade</b>, para os arts. 33 e 34</td><td><b>3 a 10 anos</b> (não é hediondo)</td></tr><tr><td><b>36</b></td><td><b>financiar ou custear</b> o tráfico</td><td><b>8 a 20 anos</b></td></tr><tr><td><b>37</b></td><td>colaborar como <b>informante</b> de grupo de tráfico</td><td>2 a 6 anos</td></tr><tr><td>38</td><td>prescrever ou ministrar culposamente droga</td><td>detenção 6 meses a 2 anos</td></tr><tr><td>39</td><td>conduzir embarcação ou aeronave após consumir droga, expondo a dano</td><td>detenção 6 meses a 3 anos</td></tr></tbody></table>\n<div class=\"lt-pare\"></div>\n<h3>4. Causas de aumento (art. 40: 1/6 a 2/3)</h3>\n<ul><li><b>Transnacionalidade</b>; tráfico <b>entre estados</b> ou com o DF; prevalecimento de função pública; nas <b>imediações</b> de escolas, hospitais, presídios, transporte público etc.; com <b>violência, grave ameaça ou arma de fogo</b>; envolvendo <b>criança, adolescente</b> ou quem tem capacidade reduzida; <b>financiar</b> o tráfico.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 587</b><p class=\"jc-tese\">Para a incidência da majorante do art. 40, V, da Lei 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.</p><p class=\"jc-com\">A PRF que aborda o ônibus ainda em Minas, com droga destinada a São Paulo, já permite o aumento.</p></div>\n<h3>5. Investigação e procedimento</h3>\n<ul><li><b>Laudo de constatação</b> (preliminar) basta para o <b>flagrante</b> e para a denúncia; o <b>laudo definitivo</b> é indispensável para a condenação.</li><li><b>Inquérito</b>: <b>30 dias</b> (preso) e <b>90 dias</b> (solto), podendo ser <b>duplicados</b> pelo juiz, ouvido o MP, mediante pedido justificado do Delegado (art. 51).</li><li><b>Infiltração</b> de agentes e <b>ação controlada</b> (não atuação policial sobre portadores de drogas para identificar mais integrantes) dependem de <b>autorização judicial</b> e oitiva do MP (art. 53). Diferente da Lei de Organizações Criminosas, em que a ação controlada exige só <b>comunicação</b> prévia ao juiz.</li><li><b>Destruição</b> da droga apreendida em flagrante: em até <b>15 dias</b>, por ordem do juiz, guardada amostra para o laudo definitivo.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 280 (RE 603.616)</b><p class=\"jc-tese\">A entrada forçada em domicílio sem mandado, inclusive à noite, só é lícita quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem situação de flagrante delito.</p><p class=\"jc-com\">Denúncia anônima isolada, \"atitude suspeita\" ou fuga ao avistar a viatura, por si sós, <b>não bastam</b> (STJ). Se a entrada depender do consentimento do morador, ele deve ser <b>documentado</b> (preferencialmente por escrito e com gravação).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Usuário de drogas pode ser preso em flagrante</span><br>✅ <span class=\"certo\">Para o art. 28 não se impõe prisão em flagrante; lavra-se termo circunstanciado.</span></li><li>❌ <span class=\"banca\">Associação para o tráfico exige 3 pessoas</span><br>✅ <span class=\"certo\">Bastam 2 pessoas, com estabilidade (art. 35).</span></li><li>❌ <span class=\"banca\">Ação controlada na Lei de Drogas exige só comunicação ao juiz</span><br>✅ <span class=\"certo\">Na Lei de Drogas exige AUTORIZAÇÃO judicial.</span></li><li>❌ <span class=\"banca\">Tráfico interestadual exige atravessar a divisa</span><br>✅ <span class=\"certo\">Basta a intenção inequívoca (Súmula 587).</span></li><li>❌ <span class=\"banca\">Uso compartilhado é tráfico comum</span><br>✅ <span class=\"certo\">É o § 3º: eventual, sem lucro, pessoa do relacionamento, para consumirem juntos.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena do tráfico?</span></span><span class=\"vs\"><span><b>Reclusão de 5 a 15 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tráfico privilegiado?</span></span><span class=\"vs\"><span>Redução de <b>1/6 a 2/3</b>: primário, bons antecedentes, não se dedica ao crime nem integra organização.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Associação para o tráfico?</span></span><span class=\"vs\"><span><b>2 ou mais</b> pessoas, com <b>estabilidade</b>; 3 a 10 anos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do inquérito?</span></span><span class=\"vs\"><span><b>30</b> (preso) / <b>90</b> (solto), duplicáveis.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Laudo de constatação?</span></span><span class=\"vs\"><span>Basta para <b>flagrante e denúncia</b>; condenação exige laudo definitivo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>STF e maconha?</span></span><span class=\"vs\"><span>Até <b>40 g</b> ou 6 plantas fêmeas: presunção (relativa) de usuário; ilícito administrativo.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A abordagem na rodoviária</b><p>Policiais civis abordam Ana na rodoviária de Belo Horizonte com 300 g de cocaína escondidas na mala, passagem para Vitória e R$ 2.000 em notas pequenas. Ela é primária e sem antecedentes.</p><details><summary>Ver a solução comentada</summary><p>Há <b>tráfico</b> (transportar, trazer consigo) com aumento pelo <b>tráfico interestadual</b> (art. 40, V), ainda que a divisa não tenha sido cruzada (Súmula 587). O <b>tráfico privilegiado</b> pode ser analisado pelo juiz: primariedade e bons antecedentes não bastam se houver prova de que ela se dedica ao crime ou integra organização (por exemplo, \"mula\" a serviço de facção, conforme o caso concreto).</p></details></div>",
-"quiz": [
-{
-"p": "Ao autor do crime de porte de droga para consumo pessoal não se impõe prisão em flagrante, devendo ser lavrado termo circunstanciado ou ser ele encaminhado ao juízo competente.",
-"c": true,
-"prof": "Certo. É o art. 48, § 2º.",
-"x": "As medidas do art. 28 são advertência, prestação de serviços e medida educativa, sem pena privativa de liberdade.",
-"e": "Usuário: sem flagrante."
-},
-{
-"p": "A associação para o tráfico, prevista no art. 35 da Lei 11.343/2006, exige a reunião de pelo menos três pessoas.",
-"c": false,
-"prof": "O número é menor.",
-"x": "Bastam duas ou mais pessoas, com vínculo estável e permanente. A associação criminosa do art. 288 do CP é que exige três ou mais.",
-"e": "Art. 35: duas pessoas."
-},
-{
-"p": "Para a incidência da causa de aumento do tráfico interestadual, é desnecessária a efetiva transposição da fronteira entre os estados, bastando a demonstração inequívoca da intenção.",
-"c": true,
-"prof": "Certo. Súmula 587 do STJ.",
-"x": "O tráfico interestadual se caracteriza pela destinação da droga a outro estado.",
-"e": "Súmula 587."
-},
-{
-"p": "Na Lei de Drogas, a ação controlada dispensa autorização judicial, bastando a comunicação prévia ao juiz competente.",
-"c": false,
-"prof": "Esse regime é o da Lei de Organizações Criminosas.",
-"x": "Na Lei 11.343, a não atuação policial sobre portadores de drogas depende de autorização judicial e oitiva do MP (art. 53, II). Na Lei 12.850 basta a comunicação prévia ao juiz.",
-"e": "Drogas: autorização."
-},
-{
-"p": "O laudo de constatação da natureza e da quantidade da droga é suficiente para a lavratura do auto de prisão em flagrante.",
-"c": true,
-"prof": "Certo. É o art. 50, § 1º.",
-"x": "O laudo definitivo é necessário para a condenação.",
-"e": "Constatação basta para o flagrante."
-},
-{
-"p": "Segundo o STF (RE 635.659), assinale a afirmativa correta sobre o porte de maconha para consumo próprio.",
-"alts": [
-"Tornou-se conduta lícita, devendo a polícia devolver a droga ao portador.",
-"Continua sendo crime punido com detenção.",
-"É ilícito administrativo, presumindo-se usuário quem porta até 40 gramas ou seis plantas fêmeas, presunção que admite prova em contrário.",
-"A presunção de usuário é absoluta até 40 gramas.",
-"A decisão alcança todas as drogas ilícitas."
-],
-"r": 2,
-"n": [
-"A droga continua sendo apreendida; a conduta segue ilícita.",
-"Passou a ser ilícito sem natureza penal.",
-"Correta.",
-"A presunção é relativa.",
-"Vale só para maconha."
-],
-"prof": "Despenalizou ≠ legalizou.",
-"x": "O STF afastou a natureza penal do porte de maconha para consumo, mantendo-o como ilícito administrativo, e fixou presunção relativa de usuário até 40 g ou 6 plantas fêmeas. A apreensão e a lavratura de registro continuam.",
-"e": "Ilícito administrativo; presunção relativa."
-},
-{
-"p": "João, primário, entregou gratuitamente um cigarro de maconha a um amigo com quem costumava sair, para que fumassem juntos naquela noite. A conduta configura:",
-"alts": [
-"tráfico de drogas (art. 33, caput)",
-"o crime do art. 33, § 3º (uso compartilhado), com pena de detenção de 6 meses a 1 ano",
-"fato atípico, por ser gratuito",
-"associação para o tráfico",
-"porte para consumo pessoal, apenas"
-],
-"r": 1,
-"n": [
-"A lei tem figura específica para essa situação.",
-"Correta.",
-"\"Ainda que gratuitamente\" no tráfico; aqui há tipo próprio.",
-"Não há vínculo estável para traficar.",
-"Ele ofereceu a outra pessoa."
-],
-"prof": "Eventual + sem lucro + pessoa do relacionamento + juntos consumirem.",
-"x": "O § 3º do art. 33 tipifica oferecer droga eventualmente e sem objetivo de lucro a pessoa de seu relacionamento, para juntos a consumirem, com pena de detenção de 6 meses a 1 ano, sem prejuízo das penas do art. 28.",
-"e": "Uso compartilhado."
-},
-{
-"p": "Policiais civis, após denúncia anônima, sem qualquer diligência prévia, arrombam a porta de uma casa à noite e encontram drogas. Segundo a jurisprudência do STF e do STJ:",
-"alts": [
-"a prova é lícita, porque o tráfico é crime permanente e o flagrante sempre autoriza o ingresso",
-"a prova é lícita, porque a denúncia anônima é suficiente para o ingresso noturno",
-"a prova é ilícita, pois a denúncia anônima, isoladamente, não constitui fundada razão para o ingresso forçado em domicílio",
-"a prova é lícita se o morador for reincidente",
-"a prova é ilícita apenas se o crime for o de porte para consumo"
-],
-"r": 2,
-"n": [
-"O flagrante precisa estar demonstrado por fundadas razões prévias.",
-"A denúncia anônima isolada não basta.",
-"Correta: Tema 280 do STF e precedentes do STJ.",
-"Antecedentes não justificam o ingresso.",
-"O raciocínio vale para qualquer crime."
-],
-"prof": "Primeiro investigue, depois entre: as fundadas razões vêm antes da porta aberta.",
-"x": "O STF exige fundadas razões, justificadas a posteriori, que indiquem flagrante no interior da casa. O STJ entende que denúncia anônima isolada, sem diligências que a confirmem, não basta, e a prova obtida é ilícita.",
-"e": "Denúncia anônima sozinha não basta."
-}
-]
-},
-"desarmamento": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1 a 3</b><span>anos de detenção na posse irregular de uso permitido (art. 12)</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão no porte ilegal de uso permitido (art. 14)</span></div><div class=\"lt-stat\"><b>4 a 12</b><span>anos na posse ou porte de arma de uso proibido (art. 16, § 2º)</span></div><div class=\"lt-stat\"><b>SINARM / SIGMA</b><span>cadastros da PF (uso permitido) / do Exército (uso restrito)</span></div></div>\n<h3>1. Posse x porte</h3>\n<ul><li><b>Posse</b>: manter a arma <b>dentro</b> da residência ou do <b>local de trabalho</b> (sendo o titular ou responsável pelo estabelecimento). <b>Porte</b>: levar a arma <b>fora</b> desses locais (na rua, no carro, na mochila).</li><li><b>Registro</b> autoriza a posse; o <b>porte</b> depende de autorização específica, em regra proibido aos civis (art. 6º), com exceções (forças de segurança, como os <b>policiais civis</b>, art. 6º, II; guardas municipais; vigilantes etc.).</li></ul>\n<table class=\"tab\"><thead><tr><th>Crime</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>Art. 12</b></td><td><b>posse irregular</b> de arma, acessório ou munição de <b>uso permitido</b>, em casa ou no trabalho</td><td><b>detenção 1 a 3 anos</b></td></tr><tr><td>Art. 13</td><td><b>omissão de cautela</b>: deixar menor de 18 ou deficiente mental se apoderar da arma</td><td>detenção 1 a 2 anos</td></tr><tr><td><b>Art. 14</b></td><td><b>porte ilegal</b> de arma de <b>uso permitido</b></td><td><b>reclusão 2 a 4 anos</b></td></tr><tr><td><b>Art. 15</b></td><td><b>disparo</b> de arma em lugar habitado ou via pública (se não for meio para outro crime)</td><td>reclusão 2 a 4 anos</td></tr><tr><td><b>Art. 16</b></td><td><b>posse ou porte</b> de arma de <b>uso restrito</b></td><td><b>reclusão 3 a 6 anos</b></td></tr><tr><td><b>Art. 16, § 2º</b></td><td>se a arma for de <b>uso proibido</b></td><td><b>reclusão 4 a 12 anos</b> (hediondo)</td></tr><tr><td><b>Art. 17</b></td><td><b>comércio ilegal</b></td><td>reclusão 6 a 12 anos</td></tr><tr><td><b>Art. 18</b></td><td><b>tráfico internacional</b></td><td>reclusão 8 a 16 anos</td></tr></tbody></table>\n<ul><li><b>Art. 16, § 1º</b> (mesma pena do art. 16): suprimir ou alterar marca ou numeração; <b>portar, possuir ou adquirir arma com numeração raspada</b>; vender arma a criança ou adolescente; produzir ou recarregar munição sem autorização, entre outros.</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Arma de <b>uso permitido</b> com <b>numeração raspada</b> cai no <b>art. 16, § 1º, IV</b> (3 a 6 anos), e não no art. 12 ou 14. A banca sempre \"esconde\" a numeração raspada no enunciado.</div>\n<h3>2. Teses que a prova cobra</h3>\n<ul><li>Os crimes são de <b>perigo abstrato</b>: não precisa provar risco concreto. <b>Arma desmuniciada</b> configura o crime (STF e STJ).</li><li><b>Munição isolada</b>, em pequena quantidade e <b>sem arma</b>, pode levar à <b>insignificância</b>, conforme o caso (STF e STJ).</li><li><b>Arma absolutamente inapta</b> para disparar, comprovada por laudo, torna o fato <b>atípico</b> (crime impossível).</li><li>Várias armas ou munições no <b>mesmo contexto</b> = <b>um só crime</b> (com reflexo na pena), salvo se de tipos penais diferentes (art. 12 e art. 16 → concurso).</li><li>Os parágrafos únicos dos arts. 14 e 15 (que diziam \"inafiançável\") foram declarados <b>inconstitucionais</b> (ADI 3.112). Na <b>posse irregular (art. 12)</b>, com pena máxima de 3 anos, o <b>Delegado pode arbitrar fiança</b> (CPP, art. 322).</li></ul>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 513</b><p class=\"jc-tese\">A abolitio criminis temporária prevista na Lei 10.826/2003 aplica-se ao crime de posse de arma de fogo de uso permitido com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado, praticado somente até 23/10/2005.</p><p class=\"jc-com\">Depois disso, a posse de arma com numeração raspada é crime do art. 16, § 1º, IV, sem \"anistia\".</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · porte e posse no mesmo contexto</b><p class=\"jc-tese\">Quem guarda arma em casa e, no mesmo contexto, sai portando-a responde por um único crime (o mais grave), pelo princípio da consunção.</p><p class=\"jc-com\">Se as armas são de calibres com tipos diferentes (uso permitido e uso restrito), o STJ admite concurso de crimes.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Arma desmuniciada não configura porte ilegal</span><br>✅ <span class=\"certo\">Configura: crime de perigo abstrato.</span></li><li>❌ <span class=\"banca\">Posse de arma de uso permitido é crime inafiançável</span><br>✅ <span class=\"certo\">Pena máx. 3 anos: o Delegado pode arbitrar fiança.</span></li><li>❌ <span class=\"banca\">Porte de arma de uso restrito é hediondo</span><br>✅ <span class=\"certo\">Após o Anticrime, só a de uso PROIBIDO é hediondo.</span></li><li>❌ <span class=\"banca\">Arma com numeração raspada de calibre permitido é art. 12</span><br>✅ <span class=\"certo\">É art. 16, § 1º, IV.</span></li><li>❌ <span class=\"banca\">Arma em casa = porte</span><br>✅ <span class=\"certo\">Em casa ou no trabalho (como responsável) = POSSE.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Posse x porte?</span></span><span class=\"vs\"><span><b>Posse</b>: em casa/trabalho. <b>Porte</b>: fora deles.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 12?</span></span><span class=\"vs\"><span>Posse de uso permitido: <b>detenção 1 a 3</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 14?</span></span><span class=\"vs\"><span>Porte de uso permitido: <b>reclusão 2 a 4</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Numeração raspada?</span></span><span class=\"vs\"><span><b>Art. 16, § 1º, IV</b> (3 a 6).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Uso proibido?</span></span><span class=\"vs\"><span><b>4 a 12 anos</b>, hediondo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arma desmuniciada?</span></span><span class=\"vs\"><span><b>Crime</b> (perigo abstrato).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O revólver no porta-luvas</b><p>Em blitz, a polícia encontra no porta-luvas de um carro um revólver calibre .38 (uso permitido), sem munição e com a numeração raspada. O motorista não tem registro nem porte.</p><details><summary>Ver a solução comentada</summary><p>A arma estar desmuniciada não afasta o crime (perigo abstrato). Como a <b>numeração está raspada</b>, a conduta é a do <b>art. 16, § 1º, IV</b> (reclusão de 3 a 6 anos), e não o porte de uso permitido do art. 14. Não é hediondo, pois a arma não é de uso proibido.</p></details></div>",
-"quiz": [
-{
-"p": "Os crimes de posse e de porte ilegal de arma de fogo são de perigo abstrato, configurando-se ainda que a arma esteja desmuniciada.",
-"c": true,
-"prof": "Certo.",
-"x": "STF e STJ entendem que basta a conduta; não é preciso provar perigo concreto. Só a inaptidão absoluta, atestada em laudo, afasta o crime.",
-"e": "Desmuniciada: crime."
-},
-{
-"p": "A posse irregular de arma de fogo de uso permitido é punida com reclusão de 2 a 4 anos, sendo inafiançável.",
-"c": false,
-"prof": "Pena e regime trocados com o porte.",
-"x": "O art. 12 prevê detenção de 1 a 3 anos e multa. Por ter pena máxima de até 4 anos, o Delegado pode arbitrar fiança. Reclusão de 2 a 4 anos é o porte do art. 14.",
-"e": "Art. 12: detenção 1 a 3."
-},
-{
-"p": "Portar arma de fogo de uso permitido com numeração raspada configura o crime do art. 16, § 1º, IV, do Estatuto do Desarmamento.",
-"c": true,
-"prof": "Certo.",
-"x": "A supressão da numeração desloca a conduta para o art. 16, com pena de reclusão de 3 a 6 anos, independentemente do calibre.",
-"e": "Raspada: art. 16, § 1º."
-},
-{
-"p": "Após o Pacote Anticrime, a posse ou o porte ilegal de arma de fogo de uso restrito passou a ser crime hediondo.",
-"c": false,
-"prof": "Foi o contrário.",
-"x": "O Anticrime restringiu o rol: só a posse ou porte de arma de uso proibido é hediondo. O de uso restrito deixou de ser (STJ).",
-"e": "Hediondo: uso proibido."
-},
-{
-"p": "Um comerciante mantinha, dentro de sua loja, da qual é o dono, uma pistola .380 (uso permitido) sem registro. A conduta configura:",
-"alts": [
-"porte ilegal de arma de uso permitido (art. 14)",
-"posse irregular de arma de uso permitido (art. 12)",
-"posse de arma de uso restrito (art. 16)",
-"fato atípico",
-"omissão de cautela (art. 13)"
-],
-"r": 1,
-"n": [
-"Dentro do estabelecimento do qual é responsável, é posse.",
-"Correta.",
-"A .380 é de uso permitido.",
-"Sem registro é crime.",
-"Omissão de cautela envolve menor ou deficiente."
-],
-"prof": "Local de trabalho do qual é titular = posse.",
-"x": "O art. 12 abrange manter a arma no interior da residência ou no local de trabalho, desde que o agente seja o titular ou o responsável legal pelo estabelecimento.",
-"e": "Loja própria = posse."
-},
-{
-"p": "Em uma residência, a polícia apreende uma pistola 9 mm de uso permitido registrada em nome do morador e, no mesmo armário, um fuzil de uso restrito sem registro. Segundo o STJ:",
-"alts": [
-"há crime único do art. 12",
-"há crime único do art. 16, por consunção",
-"há concurso de crimes, pois as armas se enquadram em tipos penais distintos",
-"o fato é atípico em relação às duas armas",
-"há apenas infração administrativa"
-],
-"r": 2,
-"n": [
-"O fuzil de uso restrito tem tipo próprio.",
-"O STJ admite concurso quando os tipos são diferentes.",
-"Correta.",
-"O fuzil sem registro é crime.",
-"Há crime."
-],
-"prof": "Mesmo contexto, tipos diferentes = concurso.",
-"x": "Para o STJ, a apreensão de armas no mesmo contexto gera crime único se o tipo penal for o mesmo; se as condutas se encaixam em tipos diferentes (art. 12 e art. 16), há concurso. Aqui, a pistola registrada nem é crime, e o fuzil sem registro configura o art. 16.",
-"e": "Tipos distintos: concurso."
-},
-{
-"p": "Preso em flagrante por posse irregular de arma de fogo de uso permitido (art. 12 da Lei 10.826/2003), o autuado pede fiança na delegacia. O Delegado:",
-"alts": [
-"não pode conceder, pois o crime é inafiançável",
-"pode arbitrar fiança, pois a pena máxima não supera 4 anos",
-"só pode conceder com autorização do MP",
-"deve soltar o preso sem fiança em qualquer caso",
-"deve encaminhar o pedido ao Chefe da PCMG"
-],
-"r": 1,
-"n": [
-"Não há vedação válida.",
-"Correta: CPP, art. 322.",
-"Não precisa de autorização.",
-"A fiança é o instrumento cabível.",
-"Não há essa exigência."
-],
-"prof": "Pena máxima até 4 anos: fiança pelo Delegado.",
-"x": "O art. 322 do CPP permite ao Delegado conceder fiança nas infrações com pena privativa de liberdade máxima não superior a 4 anos. O art. 12 tem pena máxima de 3 anos.",
-"e": "Delegado arbitra fiança."
-}
-]
-},
-"abuso": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>finalidades específicas que caracterizam o abuso (prejudicar, beneficiar, capricho)</span></div><div class=\"lt-stat\"><b>21h às 5h</b><span>horário em que é crime cumprir mandado de busca domiciliar (art. 22, § 1º, III)</span></div><div class=\"lt-stat\"><b>1 a 5</b><span>anos de inabilitação para cargo (efeito da condenação)</span></div><div class=\"lt-stat\"><b>Incondicionada</b><span>natureza da ação penal</span></div></div>\n<h3>1. Estrutura da Lei 13.869/2019</h3>\n<ul><li><b>Sujeito ativo</b>: <b>agente público</b>, servidor ou não, da administração direta ou indireta de qualquer Poder, inclusive quem exerce função <b>transitória e sem remuneração</b> (art. 2º).</li><li><b>Dolo específico</b> (art. 1º, § 1º): só há crime se o agente agir com a <b>finalidade de prejudicar outrem</b>, de <b>beneficiar a si mesmo ou a terceiro</b>, ou por <b>mero capricho ou satisfação pessoal</b>.</li><li><b>Divergência</b> na interpretação da lei ou na avaliação de fatos e provas <b>não configura abuso</b> (art. 1º, § 2º): é a vedação ao \"crime de hermenêutica\".</li><li><b>Ação penal pública incondicionada</b>, admitida a <b>ação privada subsidiária</b> se o MP não agir no prazo (art. 3º).</li><li><b>Efeitos da condenação</b> (art. 4º): indenizar o dano (automático, mas o juiz fixa o mínimo a requerimento); <b>inabilitação</b> para cargo por <b>1 a 5 anos</b> e <b>perda do cargo</b> só na <b>reincidência</b> em crime de abuso e <b>por decisão motivada</b> (não automáticos).</li></ul>\n<h3>2. Crimes mais cobrados de polícia</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta (resumo)</th></tr></thead><tbody><tr><td>9º</td><td>decretar prisão em desconformidade com a lei; deixar o juiz de relaxar prisão ilegal etc.</td></tr><tr><td>10</td><td><b>condução coercitiva</b> de testemunha ou investigado <b>manifestamente descabida</b> ou <b>sem prévia intimação</b> de comparecimento</td></tr><tr><td>12</td><td>deixar <b>injustificadamente</b> de comunicar prisão em flagrante ao juiz no prazo legal, ou de entregar a nota de culpa em 24 h</td></tr><tr><td><b>13</b></td><td>constranger o preso, com violência, grave ameaça ou redução da capacidade de resistência, a <b>exibir-se</b> à curiosidade pública, a submeter-se a situação <b>vexatória</b> ou a <b>produzir prova contra si</b></td></tr><tr><td><b>15</b></td><td>constranger a depor quem deve guardar segredo; <b>prosseguir o interrogatório</b> de quem decidiu <b>ficar calado</b> ou que pediu <b>advogado</b> (sem que ele esteja presente)</td></tr><tr><td>16</td><td>deixar de <b>identificar-se</b> ao preso ou identificar-se falsamente</td></tr><tr><td><b>18</b></td><td>submeter o preso a <b>interrogatório durante o repouso noturno</b>, salvo flagrante ou se ele, assistido, consentir</td></tr><tr><td><b>22</b></td><td><b>invadir</b> ou permanecer em imóvel alheio sem autorização judicial ou fora das hipóteses legais; § 1º, III: cumprir <b>mandado de busca domiciliar após as 21h ou antes das 5h</b></td></tr><tr><td>24</td><td>constranger hospital a admitir pessoa <b>já morta</b> para alterar o local ou o momento do crime</td></tr><tr><td><b>25</b></td><td>obter prova por <b>meio manifestamente ilícito</b> ou usá-la sabendo de sua ilicitude</td></tr><tr><td>27</td><td>instaurar procedimento investigatório <b>sem qualquer indício</b> (salvo sindicância ou investigação preliminar sumária justificada)</td></tr><tr><td>28</td><td><b>divulgar gravação</b> sem relação com a prova, expondo a intimidade do investigado</td></tr><tr><td>30</td><td>iniciar persecução <b>sem justa causa</b> ou contra quem sabe inocente</td></tr><tr><td>31</td><td>estender <b>injustificadamente</b> a investigação, em prejuízo do investigado</td></tr><tr><td><b>32</b></td><td><b>negar ao defensor acesso aos autos</b> de investigação já documentados (SV 14)</td></tr><tr><td><b>38</b></td><td><b>antecipar</b>, por meio de comunicação (inclusive rede social), <b>atribuição de culpa</b> antes de concluídas as apurações e formalizada a acusação</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> A lei <b>não</b> criminaliza o uso de <b>algemas</b> (o artigo foi vetado). O tema segue regido pela <b>Súmula Vinculante 11</b>: algemas só em caso de resistência, receio de fuga ou perigo, com <b>justificativa por escrito</b>.</div>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 14</b><p class=\"jc-tese\">É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.</p><p class=\"jc-com\">Diligências <b>em andamento</b> (como interceptação em curso) podem ser preservadas; o que já está <b>documentado</b> deve ser franqueado. Negar acesso injustificadamente é crime do art. 32.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · dolo específico</b><p class=\"jc-tese\">Sem a finalidade especial do art. 1º, § 1º (prejudicar, beneficiar ou capricho), não há crime de abuso, ainda que a decisão do agente seja reformada depois.</p><p class=\"jc-com\">A banca costuma descrever uma conduta ilegal mas de boa-fé (erro de interpretação, decisão revista pelo juiz) e perguntar se é abuso. A resposta é não.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo erro de interpretação da lei é abuso de autoridade</span><br>✅ <span class=\"certo\">Divergência na interpretação ou na avaliação de provas NÃO configura abuso.</span></li><li>❌ <span class=\"banca\">A perda do cargo é efeito automático</span><br>✅ <span class=\"certo\">Exige reincidência em abuso e decisão motivada.</span></li><li>❌ <span class=\"banca\">A ação penal é condicionada à representação da vítima</span><br>✅ <span class=\"certo\">É pública incondicionada, com ação privada subsidiária.</span></li><li>❌ <span class=\"banca\">Cumprir mandado de busca às 20h é crime</span><br>✅ <span class=\"certo\">O crime é após as 21h ou antes das 5h.</span></li><li>❌ <span class=\"banca\">Usar algemas sem justificativa é crime da Lei 13.869</span><br>✅ <span class=\"certo\">O artigo foi vetado; aplica-se a SV 11.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dolo específico do abuso?</span></span><span class=\"vs\"><span><b>Prejudicar</b> outrem, <b>beneficiar</b> a si/terceiro, ou <b>capricho/satisfação pessoal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação penal?</span></span><span class=\"vs\"><span><b>Pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perda do cargo?</span></span><span class=\"vs\"><span>Só na <b>reincidência</b>, com decisão <b>motivada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mandado de busca à noite?</span></span><span class=\"vs\"><span>Crime <b>após 21h ou antes das 5h</b> (art. 22).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Interrogatório noturno?</span></span><span class=\"vs\"><span>Crime, salvo <b>flagrante</b> ou consentimento do preso assistido (art. 18).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Antecipar culpa em rede social?</span></span><span class=\"vs\"><span><b>Art. 38</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A entrevista após a prisão</b><p>Logo após prender um suspeito de homicídio, o Delegado dá entrevista ao vivo dizendo \"este é o assassino, caso encerrado\", antes de concluir o inquérito.</p><details><summary>Ver a solução comentada</summary><p>A conduta pode configurar o <b>art. 38</b> (antecipar atribuição de culpa antes de concluídas as apurações e formalizada a acusação), desde que presente a finalidade específica do art. 1º, § 1º. A divulgação institucional deve ser <b>objetiva</b>, sem juízo de culpa.</p></details></div>",
-"quiz": [
-{
-"p": "Os crimes de abuso de autoridade exigem que o agente atue com a finalidade específica de prejudicar outrem, de beneficiar a si mesmo ou a terceiro, ou por mero capricho ou satisfação pessoal.",
-"c": true,
-"prof": "Certo. É o art. 1º, § 1º.",
-"x": "Sem esse dolo específico, a conduta pode ser ilegal, mas não é crime de abuso de autoridade.",
-"e": "Dolo específico."
-},
-{
-"p": "A divergência na interpretação da lei pelo agente público configura crime de abuso de autoridade quando a decisão é posteriormente reformada.",
-"c": false,
-"prof": "A lei afasta expressamente essa hipótese.",
-"x": "O § 2º do art. 1º estabelece que a divergência na interpretação da lei ou na avaliação de fatos e provas não configura abuso de autoridade.",
-"e": "Sem crime de hermenêutica."
-},
-{
-"p": "A inabilitação para o exercício de cargo e a perda do cargo, como efeitos da condenação por abuso de autoridade, dependem de reincidência e não são automáticas.",
-"c": true,
-"prof": "Certo. É o art. 4º, parágrafo único.",
-"x": "Devem ser declaradas motivadamente na sentença. A inabilitação vai de 1 a 5 anos.",
-"e": "Reincidência e motivação."
-},
-{
-"p": "Constitui crime de abuso de autoridade cumprir mandado judicial de busca e apreensão domiciliar às 20 horas.",
-"c": false,
-"prof": "Confira o horário da lei.",
-"x": "O art. 22, § 1º, III, criminaliza cumprir mandado de busca domiciliar após as 21h ou antes das 5h.",
-"e": "Crime: após 21h ou antes 5h."
-},
-{
-"p": "Configura crime de abuso de autoridade prosseguir com o interrogatório de pessoa que tenha decidido exercer o direito ao silêncio.",
-"c": true,
-"prof": "Certo. É o art. 15, parágrafo único, I.",
-"x": "Também é crime prosseguir no interrogatório de quem optou por ser assistido por advogado, sem a presença dele.",
-"e": "Silêncio respeitado."
-},
-{
-"p": "Assinale a alternativa correta sobre a Lei 13.869/2019.",
-"alts": [
-"A ação penal é pública condicionada à representação do ofendido.",
-"O uso de algemas sem justificativa por escrito é crime previsto na lei.",
-"O agente público que, por meio de rede social, antecipa a atribuição de culpa antes de concluídas as apurações e formalizada a acusação pode responder por crime de abuso de autoridade.",
-"A perda do cargo é efeito automático da condenação.",
-"A lei só se aplica a servidores efetivos."
-],
-"r": 2,
-"n": [
-"É incondicionada.",
-"O artigo das algemas foi vetado.",
-"Correta: art. 38.",
-"Depende de reincidência e motivação.",
-"Alcança qualquer agente público, ainda que transitório e sem remuneração."
-],
-"prof": "Art. 38: a \"condenação pela imprensa\".",
-"x": "O art. 38 pune quem antecipa, por meio de comunicação, inclusive rede social, a atribuição de culpa antes de concluídas as apurações e formalizada a acusação, exigido o dolo específico do art. 1º, § 1º.",
-"e": "Art. 38."
-},
-{
-"p": "O advogado de um investigado pede acesso ao inquérito. O Delegado nega acesso a todos os documentos, inclusive os depoimentos já colhidos, alegando que há interceptação telefônica em andamento. Diante da SV 14 e da Lei 13.869/2019:",
-"alts": [
-"a negativa total é correta, pois o inquérito é sigiloso",
-"o Delegado pode preservar a diligência em andamento, mas deve franquear os elementos já documentados; a negativa injustificada pode configurar crime",
-"o advogado só tem acesso após a denúncia",
-"o advogado tem acesso inclusive às diligências em curso",
-"o acesso depende de autorização do Chefe da PCMG"
-],
-"r": 1,
-"n": [
-"O sigilo não alcança o que já está documentado.",
-"Correta.",
-"O acesso é na fase investigatória.",
-"Diligências em curso podem ser preservadas.",
-"Não depende dessa autorização."
-],
-"prof": "Documentado = acesso. Em andamento = pode reservar.",
-"x": "A SV 14 assegura ao defensor acesso aos elementos já documentados. A interceptação em andamento pode ser preservada. Negar acesso injustificadamente aos autos pode configurar o crime do art. 32.",
-"e": "SV 14."
-}
-]
-},
-"maria-penha": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>formas de violência (física, psicológica, sexual, patrimonial e moral)</span></div><div class=\"lt-stat\"><b>48 h</b><span>para remeter ao juiz o pedido de medidas protetivas</span></div><div class=\"lt-stat\"><b>24 h</b><span>para comunicar ao juiz o afastamento do lar feito pelo Delegado ou policial</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão por descumprir medida protetiva (art. 24-A)</span></div></div>\n<h3>1. Quando se aplica</h3>\n<ul><li><b>Violência doméstica e familiar contra a mulher</b>: ação ou omissão <b>baseada no gênero</b> que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial (art. 5º), no âmbito: (I) da <b>unidade doméstica</b> (inclusive pessoas esporadicamente agregadas); (II) da <b>família</b>; (III) de <b>relação íntima de afeto</b>, <b>independentemente de coabitação</b>.</li><li>O <b>sujeito ativo</b> pode ser homem ou <b>mulher</b> (ex.: relação homoafetiva, mãe e filha). A vítima é <b>mulher</b>, inclusive <b>mulher trans</b> (STJ, REsp 1.977.124).</li><li>As relações independem de <b>orientação sexual</b> (art. 5º, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma (art. 7º)</th><th>Exemplos</th></tr></thead><tbody><tr><td>Física</td><td>agressões, empurrões, lesões</td></tr><tr><td><b>Psicológica</b></td><td>ameaça, humilhação, <b>controle</b>, vigilância, isolamento, manipulação</td></tr><tr><td>Sexual</td><td>forçar relação, impedir uso de contraceptivo, forçar aborto ou prostituição</td></tr><tr><td><b>Patrimonial</b></td><td>reter, subtrair ou <b>destruir</b> objetos, documentos, instrumentos de trabalho</td></tr><tr><td><b>Moral</b></td><td><b>calúnia, difamação ou injúria</b></td></tr></tbody></table>\n<h3>2. A atuação da polícia (arts. 10 a 12-C)</h3>\n<ul><li>Atendimento policial e pericial <b>especializado</b>, ininterrupto, preferencialmente por <b>servidoras do sexo feminino</b>, evitando a <b>revitimização</b> (perguntas repetidas e contato com o agressor).</li><li>A autoridade policial deve: registrar a ocorrência e ouvir a vítima; colher provas; <b>remeter ao juiz, em 48 horas</b>, o pedido de <b>medidas protetivas</b>; determinar exames periciais; ouvir o agressor; verificar se ele tem <b>arma</b> e comunicar o órgão competente; remeter o inquérito.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 12-C (afastamento do lar pela polícia)</div><div class=\"art-lei\">Verificado risco atual ou iminente à vida ou à integridade da mulher, o agressor será imediatamente afastado do lar: I – pela autoridade judicial; II – pelo Delegado de Polícia, quando o Município não for sede de comarca; III – pelo policial, quando o Município não for sede de comarca e não houver Delegado disponível no momento da denúncia.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>É uma das poucas medidas que a <b>polícia</b> aplica diretamente.</li><li>A ordem é <b>escalonada</b>: juiz → Delegado (sem comarca) → policial (sem comarca e sem Delegado).</li><li>O juiz deve ser comunicado em <b>24 horas</b> e decide sobre a manutenção.</li><li>Nesses casos, <b>não se concede liberdade provisória</b> ao preso enquanto houver risco à vítima ou à efetividade da medida.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que o Delegado pode afastar o agressor em qualquer município.</li><li>Dizer que o policial pode afastar mesmo havendo Delegado disponível.</li></ul></div></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Medidas protetivas e consequências penais</h3>\n<ul><li><b>Providências imediatas da polícia</b> (art. 11): garantir <b>proteção policial</b>, comunicando de imediato o MP e o Judiciário; <b>encaminhar</b> a ofendida ao hospital, posto de saúde e IML; fornecer <b>transporte</b> para ela e os dependentes até <b>abrigo</b> ou local seguro, quando houver risco de vida; <b>acompanhá-la</b> para retirar seus pertences do domicílio; <b>informá-la</b> dos seus direitos. A ofendida <b>não pode entregar</b> intimação ou notificação ao agressor (art. 21, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Medidas que obrigam o agressor (art. 22)</th><th>Medidas em favor da ofendida (arts. 23 e 24)</th></tr></thead><tbody><tr><td><b>suspensão da posse ou restrição do porte</b> de armas</td><td>encaminhamento a programa de <b>proteção</b> ou de atendimento</td></tr><tr><td><b>afastamento do lar</b></td><td><b>recondução</b> ao domicílio após o afastamento do agressor</td></tr><tr><td><b>proibição de aproximação</b> da ofendida, familiares e testemunhas, <b>fixando o limite mínimo de distância</b></td><td>afastamento da ofendida do lar, sem prejuízo de seus direitos</td></tr><tr><td>proibição de <b>contato</b> por qualquer meio de comunicação</td><td>matrícula dos dependentes em escola próxima</td></tr><tr><td>proibição de <b>frequentar</b> determinados lugares</td><td><b>restituição de bens</b> indevidamente subtraídos pelo agressor</td></tr><tr><td>restrição ou suspensão de <b>visitas</b> aos dependentes</td><td>proibição temporária de atos e contratos de compra, venda e locação de bens comuns</td></tr><tr><td><b>alimentos</b> provisionais; comparecimento a programas de <b>recuperação</b>; acompanhamento psicossocial</td><td>prestação de <b>caução</b> provisória por perdas e danos</td></tr></tbody></table>\n<ul><li><b>Juizados de Violência Doméstica e Familiar contra a Mulher</b> (art. 14): órgãos da Justiça Ordinária com competência <b>cível e criminal</b>, para processar, julgar e executar as causas decorrentes desses casos. Enquanto não instalados, as varas criminais acumulam essa competência (art. 33).</li><li><b>Prisão preventiva</b> (art. 20): cabe <b>em qualquer fase</b> do inquérito ou da instrução, a requerimento do MP ou mediante <b>representação da autoridade policial</b> (após o Pacote Anticrime, o juiz não a decreta de ofício). O descumprimento de medida protetiva também autoriza a preventiva (CPP, art. 313, III).</li><li>As medidas são concedidas pelo <b>juiz</b> em <b>48 horas</b>, a pedido da vítima ou do MP, e <b>independem</b> de tipificação penal, de ajuizamento de ação, de inquérito ou de registro de ocorrência (art. 19, § 5º, Lei 14.550/2023). Vigoram <b>enquanto houver risco</b>.</li><li><b>Descumprir medida protetiva</b> (art. 24-A): <b>reclusão de 2 a 5 anos</b> (Lei 14.994/2024). Na prisão em flagrante, <b>só o juiz</b> concede fiança.</li><li><b>Não se aplica a Lei 9.099</b> (art. 41): sem transação penal nem suspensão condicional do processo (Súmula 536 STJ).</li><li><b>Lesão corporal</b> (mesmo leve) contra a mulher em contexto doméstico: <b>ação penal pública incondicionada</b> (Súmula 542 STJ e ADI 4.424). Já a <b>ameaça</b> depende de representação, e a <b>renúncia</b> só vale perante o <b>juiz</b>, em audiência, antes do recebimento da denúncia (art. 16).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 600</b><p class=\"jc-tese\">Para a configuração da violência doméstica e familiar prevista no art. 5º da Lei 11.340/2006, não se exige a coabitação entre autor e vítima.</p><p class=\"jc-com\">Ex-namorado que agride a ex-companheira por inconformismo com o fim da relação está alcançado pela lei.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmulas 588 e 589</b><p class=\"jc-tese\">É inviável a substituição da pena privativa de liberdade por restritiva de direitos em crimes ou contravenções com violência ou grave ameaça contra a mulher no ambiente doméstico (588); e é inaplicável o princípio da insignificância nesses crimes (589).</p><p class=\"jc-com\">Também é vedada a aplicação isolada de pena de cesta básica ou prestação pecuniária (art. 17 da Lei).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A lei só se aplica se o casal morar junto</span><br>✅ <span class=\"certo\">Independe de coabitação (Súmula 600).</span></li><li>❌ <span class=\"banca\">O agressor precisa ser homem</span><br>✅ <span class=\"certo\">Sujeito ativo pode ser mulher; a vítima é mulher.</span></li><li>❌ <span class=\"banca\">Lesão leve contra a mulher depende de representação</span><br>✅ <span class=\"certo\">Ação pública incondicionada (Súmula 542).</span></li><li>❌ <span class=\"banca\">Cabe transação penal em violência doméstica</span><br>✅ <span class=\"certo\">A Lei 9.099 não se aplica (art. 41; Súmula 536).</span></li><li>❌ <span class=\"banca\">Medida protetiva exige boletim de ocorrência</span><br>✅ <span class=\"certo\">Independe de BO, inquérito ou ação (art. 19, § 5º).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Formas de violência?</span></span><span class=\"vs\"><span><b>Física, psicológica, sexual, patrimonial e moral</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo para remeter pedido de medida protetiva?</span></span><span class=\"vs\"><span><b>48 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento do lar pela polícia?</span></span><span class=\"vs\"><span><b>Delegado</b> (município sem comarca) ou <b>policial</b> (sem comarca e sem Delegado); juiz comunicado em <b>24 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Descumprir medida protetiva?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 5 anos</b>; fiança só pelo <b>juiz</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão leve doméstica?</span></span><span class=\"vs\"><span>Ação <b>pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 9.099?</span></span><span class=\"vs\"><span><b>Não se aplica</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A cidade sem comarca</b><p>Em um pequeno município mineiro que não é sede de comarca, a vítima chega à delegacia relatando que o marido ameaça matá-la com uma faca. O Delegado está presente.</p><details><summary>Ver a solução comentada</summary><p>Havendo risco atual ou iminente, o <b>Delegado</b> pode determinar o <b>afastamento imediato do agressor do lar</b> (art. 12-C, II), comunicando o juiz em <b>24 horas</b>. Deve ainda remeter o pedido de outras medidas protetivas em 48 horas, verificar se o agressor tem arma e registrar a ameaça (que depende de representação; a renúncia só perante o juiz).</p></details></div>",
-"quiz": [
-{
-"p": "A configuração da violência doméstica e familiar contra a mulher no âmbito de relação íntima de afeto independe de coabitação.",
-"c": true,
-"prof": "Certo. Art. 5º, III, e Súmula 600 do STJ.",
-"x": "Basta a relação íntima de afeto, atual ou passada.",
-"e": "Sem coabitação."
-},
-{
-"p": "A Lei Maria da Penha exige que o agressor seja do sexo masculino.",
-"c": false,
-"prof": "O foco está na vítima.",
-"x": "O sujeito ativo pode ser homem ou mulher. O que se exige é violência baseada no gênero contra a mulher, no âmbito doméstico, familiar ou de relação íntima de afeto.",
-"e": "Agressor pode ser mulher."
-},
-{
-"p": "O crime de lesão corporal praticado contra a mulher no âmbito das relações domésticas é de ação penal pública incondicionada, ainda que a lesão seja leve.",
-"c": true,
-"prof": "Certo. Súmula 542 do STJ.",
-"x": "O STF (ADI 4.424) fixou o mesmo entendimento.",
-"e": "Lesão: incondicionada."
-},
-{
-"p": "Na hipótese de prisão em flagrante pelo crime de descumprimento de medida protetiva de urgência, o Delegado de Polícia pode arbitrar fiança.",
-"c": false,
-"prof": "A lei reserva a fiança a outra autoridade.",
-"x": "O art. 24-A, § 2º, estabelece que, na prisão em flagrante, apenas a autoridade judicial pode conceder fiança.",
-"e": "Fiança: só juiz."
-},
-{
-"p": "As medidas protetivas de urgência independem da tipificação penal da violência, do ajuizamento de ação penal ou cível, da existência de inquérito ou do registro de boletim de ocorrência.",
-"c": true,
-"prof": "Certo. Art. 19, § 5º (Lei 14.550/2023).",
-"x": "Vigoram enquanto persistir o risco à integridade da mulher ou de seus dependentes.",
-"e": "Medida protetiva autônoma."
-},
-{
-"p": "Em município que não é sede de comarca, sem Delegado disponível no momento, um policial civil atende a mulher ameaçada de morte pelo companheiro, que está em casa armado com faca. Segundo a Lei 11.340/2006:",
-"alts": [
-"o policial nada pode fazer, devendo aguardar decisão judicial",
-"o policial pode determinar o afastamento imediato do agressor do lar, comunicando o juiz em 24 horas",
-"somente o Delegado de outro município pode determinar o afastamento",
-"o afastamento depende de autorização do MP",
-"o policial pode afastar o agressor, devendo comunicar o juiz em 30 dias"
-],
-"r": 1,
-"n": [
-"A lei autoriza o policial nessa hipótese.",
-"Correta: art. 12-C, III, e § 1º.",
-"O policial é competente se não houver Delegado disponível.",
-"Não depende do MP.",
-"O prazo de comunicação é de 24 horas."
-],
-"prof": "Escada: juiz → Delegado (sem comarca) → policial (sem comarca e sem Delegado).",
-"x": "O art. 12-C autoriza o afastamento pelo policial quando o município não for sede de comarca e não houver Delegado disponível. O juiz é comunicado em 24 horas e decide sobre a manutenção ou revogação.",
-"e": "Policial afasta e comunica em 24 h."
-},
-{
-"p": "Assinale a alternativa correta, segundo a Lei Maria da Penha e a jurisprudência do STJ.",
-"alts": [
-"Cabe suspensão condicional do processo nos crimes de violência doméstica de menor potencial ofensivo.",
-"A substituição da pena por cesta básica é admitida se o agressor for primário.",
-"É vedada a substituição da pena privativa de liberdade por restritiva de direitos em crime com violência ou grave ameaça contra a mulher no ambiente doméstico.",
-"O princípio da insignificância se aplica a lesões levíssimas.",
-"A renúncia à representação na ameaça pode ser feita na delegacia."
-],
-"r": 2,
-"n": [
-"A Lei 9.099 não se aplica (Súmula 536).",
-"É vedada (art. 17).",
-"Correta: Súmula 588.",
-"Inaplicável (Súmula 589).",
-"Só perante o juiz, em audiência (art. 16)."
-],
-"prof": "A lei fecha todas as \"portas\" de solução leve para a violência doméstica.",
-"x": "A Súmula 588 do STJ veda a substituição por restritiva de direitos em crimes com violência ou grave ameaça contra a mulher no ambiente doméstico. Também não se aplicam a Lei 9.099 nem a insignificância.",
-"e": "Súmula 588."
-},
-{
-"p": "Um homem rasgou os documentos pessoais e quebrou o celular da ex-companheira para impedi-la de procurar emprego. À luz do art. 7º da Lei 11.340/2006, trata-se de violência:",
-"alts": [
-"moral",
-"sexual",
-"patrimonial",
-"psicológica, exclusivamente",
-"física"
-],
-"r": 2,
-"n": [
-"Moral é calúnia, difamação ou injúria.",
-"Não há conteúdo sexual.",
-"Correta.",
-"Pode haver também psicológica, mas a destruição de bens e documentos é patrimonial.",
-"Não houve agressão física."
-],
-"prof": "Bens, documentos, instrumentos de trabalho = patrimonial.",
-"x": "A violência patrimonial inclui retenção, subtração ou destruição de objetos, instrumentos de trabalho e documentos pessoais da mulher.",
-"e": "Patrimonial."
-}
-]
-},
-"orcrim": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>pessoas, no mínimo, para organização criminosa</span></div><div class=\"lt-stat\"><b>> 4 anos</b><span>pena máxima das infrações visadas (ou caráter transnacional)</span></div><div class=\"lt-stat\"><b>3 a 8</b><span>anos de reclusão (art. 2º)</span></div><div class=\"lt-stat\"><b>6 meses</b><span>prazo da infiltração, renovável (virtual: até 720 dias no total)</span></div></div>\n<h3>1. Conceito (art. 1º, § 1º)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 1º, § 1º</div><div class=\"art-lei\">Considera-se organização criminosa a associação de 4 ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais cujas penas máximas sejam superiores a 4 anos, ou que sejam de caráter transnacional.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>4 ou mais</b> pessoas (na associação criminosa do CP, art. 288, são <b>3 ou mais</b>).</li><li><b>Estrutura ordenada</b> + <b>divisão de tarefas</b> (mesmo informal).</li><li>Infrações com pena máxima <b>superior a 4 anos</b> <b>ou</b> de caráter <b>transnacional</b>.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer \"3 pessoas\".</li><li>Dizer \"pena máxima igual ou superior a 4 anos\" (é SUPERIOR).</li><li>Exigir divisão formal de tarefas.</li></ul></div></div>\n<ul><li><b>Promover, constituir, financiar ou integrar</b> organização criminosa: <b>reclusão de 3 a 8 anos</b>, sem prejuízo das penas das infrações praticadas (art. 2º). <b>Embaraçar a investigação</b> tem a mesma pena (§ 1º).</li><li>Aumento até a <b>metade</b> se houver emprego de <b>arma de fogo</b>; agravante para quem exerce o <b>comando</b>. Aumento de 1/6 a 2/3 se houver criança ou adolescente, funcionário público que se vale do cargo, produto destinado ao exterior, conexão com outras organizações ou transnacionalidade.</li><li><b>Funcionário público</b> condenado: <b>perda do cargo</b> e <b>interdição</b> para função pública por <b>8 anos</b> após o cumprimento da pena. Lideranças armadas iniciam a pena em <b>estabelecimento de segurança máxima</b>.</li></ul>\n<h3>2. Meios de obtenção de prova (art. 3º)</h3>\n<ul><li><b>Colaboração premiada</b>; <b>captação ambiental</b>; <b>ação controlada</b>; acesso a registros e dados cadastrais; <b>interceptação</b>; quebra de sigilos financeiro, bancário e fiscal; <b>infiltração</b> de agentes; cooperação entre órgãos.</li><li>O <b>Delegado</b> pode <b>requisitar diretamente</b> dados cadastrais (qualificação, filiação e endereço) a Justiça Eleitoral, empresas telefônicas, bancos, provedores e administradoras de cartão (art. 15).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Colaboração premiada</h3>\n<ul><li><b>Negócio jurídico processual</b> e meio de obtenção de prova (art. 3º-A). Pode ser celebrada pelo <b>Delegado</b>, nos autos do inquérito, com manifestação do MP, ou pelo MP (STF, ADI 5.508). O juiz <b>não participa</b> das negociações; ele <b>homologa</b> (regularidade, legalidade e voluntariedade).</li><li><b>Benefícios</b>: perdão judicial, redução de até <b>2/3</b> da pena ou substituição por restritiva de direitos; se posterior à sentença, redução até a metade ou progressão sem os requisitos objetivos.</li><li><b>Resultados</b> exigidos (um ou mais): identificar coautores e crimes; revelar a estrutura; prevenir infrações; <b>recuperar o produto</b> do crime; <b>localizar a vítima</b> com integridade física preservada.</li><li>Garantias: <b>nenhuma sentença condenatória</b>, nem <b>medida cautelar</b>, nem <b>recebimento de denúncia</b> pode se basear <b>apenas</b> nas declarações do colaborador (art. 4º, § 16).</li></ul>\n<h3>4. Ação controlada e infiltração</h3>\n<table class=\"tab\"><thead><tr><th>Instituto</th><th>Regra na Lei 12.850</th></tr></thead><tbody><tr><td><b>Ação controlada</b></td><td>retardar a intervenção policial para o momento mais eficaz; exige só <b>comunicação prévia ao juiz</b>, que pode estabelecer limites (art. 8º)</td></tr><tr><td><b>Infiltração de agentes</b></td><td><b>autorização judicial</b> circunstanciada e sigilosa; a pedido do <b>Delegado</b> (com manifestação do MP) ou do MP; prazo de <b>até 6 meses</b>, renovável; só se a prova <b>não puder ser produzida por outros meios</b></td></tr><tr><td><b>Infiltração virtual</b> (art. 10-A)</td><td>até 6 meses, renovável, <b>até 720 dias</b> no total</td></tr><tr><td>Responsabilidade do infiltrado</td><td>não é punível o crime cometido na infiltração quando <b>inexigível conduta diversa</b>; responde pelos excessos</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 5.508</b><p class=\"jc-tese\">O Delegado de Polícia pode formalizar acordo de colaboração premiada na fase de inquérito, respeitadas as prerrogativas do MP, que deve se manifestar, cabendo ao juiz a homologação.</p><p class=\"jc-com\">A PCMG pode conduzir acordos de colaboração em investigações de facções, desde que o MP seja ouvido.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Organização criminosa exige 3 pessoas</span><br>✅ <span class=\"certo\">São 4 ou mais (associação criminosa do CP é que tem 3).</span></li><li>❌ <span class=\"banca\">Pena máxima igual a 4 anos basta</span><br>✅ <span class=\"certo\">Tem que ser SUPERIOR a 4 anos, ou transnacional.</span></li><li>❌ <span class=\"banca\">Ação controlada exige autorização judicial</span><br>✅ <span class=\"certo\">Na Lei 12.850, só comunicação prévia ao juiz.</span></li><li>❌ <span class=\"banca\">O juiz participa da negociação da colaboração</span><br>✅ <span class=\"certo\">O juiz não participa; só homologa.</span></li><li>❌ <span class=\"banca\">O juiz pode condenar só com a palavra do colaborador</span><br>✅ <span class=\"certo\">Vedado (art. 4º, § 16).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Organização criminosa?</span></span><span class=\"vs\"><span><b>4+</b> pessoas, estrutura, divisão de tarefas, infrações com pena máx. <b>> 4 anos</b> ou transnacionais.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena do art. 2º?</span></span><span class=\"vs\"><span><b>Reclusão de 3 a 8 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação controlada (Lei 12.850)?</span></span><span class=\"vs\"><span><b>Comunicação</b> prévia ao juiz.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infiltração?</span></span><span class=\"vs\"><span><b>Autorização judicial</b>; até <b>6 meses</b> renováveis.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem celebra colaboração?</span></span><span class=\"vs\"><span><b>MP</b> ou <b>Delegado</b> (com manifestação do MP).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Palavra do colaborador sozinha?</span></span><span class=\"vs\"><span><b>Não</b> basta para condenar, prender ou receber denúncia.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A facção do bairro</b><p>Uma investigação revela que 5 pessoas, com funções definidas (gerente, olheiros, \"vapores\"), vendem drogas e cometem roubos em um bairro de Contagem.</p><details><summary>Ver a solução comentada</summary><p>Há <b>organização criminosa</b> (4+ pessoas, estrutura e divisão de tarefas, crimes com pena máxima superior a 4 anos) em <b>concurso material</b> com os crimes praticados (tráfico, roubos). A associação para o tráfico (art. 35 da Lei de Drogas) também pode ser analisada, conforme o caso, evitando-se bis in idem.</p></details></div>",
-"quiz": [
-{
-"p": "Considera-se organização criminosa a associação de quatro ou mais pessoas, estruturalmente ordenada e com divisão de tarefas, ainda que informal, para obter vantagem mediante infrações penais com pena máxima superior a quatro anos ou de caráter transnacional.",
-"c": true,
-"prof": "Certo. É o art. 1º, § 1º.",
-"x": "A associação criminosa do art. 288 do CP exige três ou mais pessoas e não exige estrutura nem pena mínima das infrações visadas.",
-"e": "Quatro ou mais."
-},
-{
-"p": "Na Lei 12.850/2013, a ação controlada depende de prévia autorização judicial.",
-"c": false,
-"prof": "A lei exige menos.",
-"x": "O art. 8º, § 1º, exige apenas a comunicação prévia ao juiz competente, que pode estabelecer limites. Na Lei de Drogas é que se exige autorização judicial.",
-"e": "Comunicação, não autorização."
-},
-{
-"p": "Nenhuma sentença condenatória pode ser proferida com fundamento apenas nas declarações do colaborador.",
-"c": true,
-"prof": "Certo. Art. 4º, § 16.",
-"x": "A mesma vedação alcança a decretação de medidas cautelares e o recebimento da denúncia.",
-"e": "Corroboração obrigatória."
-},
-{
-"p": "O juiz deve participar das negociações do acordo de colaboração premiada para garantir sua voluntariedade.",
-"c": false,
-"prof": "O juiz fica de fora da negociação.",
-"x": "O juiz não participa das negociações. Ele analisa a regularidade, a legalidade e a voluntariedade na homologação.",
-"e": "Juiz só homologa."
-},
-{
-"p": "A infiltração de agentes de polícia em tarefas de investigação depende de autorização judicial circunstanciada, motivada e sigilosa.",
-"c": true,
-"prof": "Certo. Art. 10.",
-"x": "Pode ser representada pelo Delegado (com manifestação do MP) ou requerida pelo MP, e só é admitida se a prova não puder ser produzida por outros meios.",
-"e": "Infiltração: autorização judicial."
-},
-{
-"p": "Três pessoas se associam de forma estável, com divisão de tarefas, para praticar estelionatos (pena máxima de 5 anos). Segundo a legislação, configura-se:",
-"alts": [
-"organização criminosa (Lei 12.850/2013)",
-"associação criminosa (CP, art. 288), pois a organização criminosa exige quatro ou mais pessoas",
-"fato atípico",
-"associação para o tráfico",
-"milícia privada"
-],
-"r": 1,
-"n": [
-"Faltou o número mínimo de integrantes.",
-"Correta.",
-"Há crime de associação.",
-"Não é tráfico.",
-"Não há milícia."
-],
-"prof": "Conte as pessoas: 3 = associação; 4+ = organização.",
-"x": "A organização criminosa exige quatro ou mais pessoas. Com três, configura-se a associação criminosa do art. 288 do CP (3 ou mais pessoas, para o fim específico de cometer crimes).",
-"e": "3 = associação criminosa."
-},
-{
-"p": "Sobre a colaboração premiada na Lei 12.850/2013, assinale a afirmativa correta.",
-"alts": [
-"Só o Ministério Público pode celebrar o acordo, sendo vedada a participação do Delegado.",
-"O Delegado pode celebrar o acordo nos autos do inquérito, com manifestação do Ministério Público, cabendo ao juiz homologá-lo.",
-"O juiz deve participar das negociações.",
-"A palavra do colaborador basta para a decretação da prisão preventiva.",
-"O benefício máximo é a redução de 1/3 da pena."
-],
-"r": 1,
-"n": [
-"O STF admitiu o acordo pelo Delegado (ADI 5.508).",
-"Correta.",
-"O juiz não participa.",
-"Vedado pelo art. 4º, § 16.",
-"Pode chegar ao perdão judicial ou à redução de 2/3."
-],
-"prof": "Delegado negocia; MP opina; juiz homologa.",
-"x": "O STF (ADI 5.508) reconheceu a legitimidade do Delegado para celebrar acordo de colaboração na fase de inquérito, com manifestação do MP. Os benefícios vão de redução de até 2/3 ao perdão judicial.",
-"e": "Delegado pode."
-},
-{
-"p": "Em investigação de organização criminosa, policiais percebem que, se prenderem agora um \"mula\", perderão a chance de identificar o chefe da facção, que receberá a carga em dois dias. Para retardar a prisão, segundo a Lei 12.850/2013:",
-"alts": [
-"precisam de autorização judicial prévia e parecer do MP",
-"basta a comunicação prévia ao juiz competente, que poderá estabelecer limites, com posterior relatório",
-"não podem retardar, pois o flagrante é obrigatório em qualquer caso",
-"precisam de autorização do Chefe da PCMG",
-"podem retardar livremente, sem comunicar ninguém"
-],
-"r": 1,
-"n": [
-"Esse é o regime da Lei de Drogas.",
-"Correta: ação controlada (art. 8º).",
-"A lei autoriza o flagrante diferido.",
-"Não há essa exigência.",
-"A comunicação prévia é obrigatória."
-],
-"prof": "Ação controlada da Lei 12.850 = comunicar antes, relatar depois.",
-"x": "A ação controlada consiste em retardar a intervenção policial para que se concretize no momento mais eficaz. Na Lei 12.850, exige comunicação prévia ao juiz, que pode fixar limites e comunicará o MP; ao final, elabora-se auto circunstanciado.",
-"e": "Comunicação prévia."
-}
-]
-},
-"interceptacao": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>15</b><span>dias de interceptação, renováveis (sucessivamente, se indispensável)</span></div><div class=\"lt-stat\"><b>24 h</b><span>prazo do juiz para decidir o pedido</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão por interceptar sem autorização (art. 10)</span></div><div class=\"lt-stat\"><b>Detenção</b><span>crimes punidos só com detenção não admitem interceptação</span></div></div>\n<h3>1. Regras da Lei 9.296/1996</h3>\n<ul><li>A interceptação de comunicações <b>telefônicas</b> e de <b>fluxo de comunicações em sistemas de informática e telemática</b> depende de <b>ordem do juiz competente da ação principal</b>, sob <b>segredo de justiça</b> (art. 1º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Não cabe interceptação (art. 2º) quando:</th></tr></thead><tbody><tr><td><b>não houver indícios razoáveis</b> de autoria ou participação</td></tr><tr><td>a prova <b>puder ser feita por outros meios</b> disponíveis (subsidiariedade)</td></tr><tr><td>o fato for punido, <b>no máximo, com detenção</b></td></tr></tbody></table>\n<ul><li>Quem pede: a <b>autoridade policial</b> (na investigação) ou o <b>MP</b> (na investigação e na ação). A lei também fala em decretação <b>de ofício</b> pelo juiz, o que hoje é visto com reservas no sistema acusatório.</li><li>O pedido deve demonstrar a <b>necessidade</b> e indicar os <b>meios</b>; excepcionalmente pode ser <b>verbal</b>, reduzido a termo. O juiz decide em <b>24 horas</b>.</li><li>Prazo de <b>15 dias</b>, <b>renovável por igual período</b> quando comprovada a indispensabilidade. O STF admite <b>renovações sucessivas</b>, desde que fundamentadas (Tema 661).</li><li>A <b>autoridade policial conduz</b> a interceptação e dá ciência ao MP, que pode acompanhar. As gravações que não interessarem à prova são <b>inutilizadas</b> por decisão judicial (art. 9º).</li></ul>\n<h3>2. Captação ambiental (art. 8º-A, Pacote Anticrime)</h3>\n<ul><li>Captação de sinais eletromagnéticos, ópticos ou acústicos, a requerimento da <b>autoridade policial</b> ou do <b>MP</b>, com <b>autorização judicial</b>, quando a prova não puder ser feita por outros meios e houver indícios em crimes com <b>pena máxima superior a 4 anos</b> ou conexos. Prazo de <b>15 dias</b>, renovável.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Conceitos que caem</h3>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Precisa de ordem judicial?</th></tr></thead><tbody><tr><td><b>Interceptação</b>: terceiro capta conversa alheia sem que os interlocutores saibam</td><td><b>Sim</b> (Lei 9.296)</td></tr><tr><td><b>Escuta</b>: terceiro capta com o conhecimento de um dos interlocutores</td><td>Sim, em regra</td></tr><tr><td><b>Gravação clandestina</b>: um dos interlocutores grava a própria conversa</td><td><b>Não</b>: é lícita (STF, Tema 237), salvo causa legal de sigilo</td></tr><tr><td>Acesso a <b>dados</b> já armazenados no celular (mensagens, fotos)</td><td>Sim, mas não pela Lei 9.296: é quebra de sigilo de dados</td></tr><tr><td><b>Registros</b> de ligações (quem ligou, quando)</td><td>Sim, quebra de sigilo telefônico (não é interceptação)</td></tr></tbody></table>\n<ul><li><b>Encontro fortuito (serendipidade)</b>: provas de outros crimes ou de outras pessoas obtidas em interceptação <b>válida</b> podem ser usadas, mesmo que o crime descoberto seja punido com detenção (STF e STJ).</li><li><b>Crimes</b> (art. 10 e 10-A): realizar interceptação, escuta ambiental ou quebrar segredo de justiça sem autorização ou com objetivos não autorizados: <b>reclusão de 2 a 4 anos</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 237 (RE 583.937)</b><p class=\"jc-tese\">É lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro.</p><p class=\"jc-com\">A vítima de extorsão que grava a ligação do extorsionário produz prova válida.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 661 (RE 625.263)</b><p class=\"jc-tese\">São lícitas as sucessivas renovações de interceptação telefônica, desde que verificados os requisitos do art. 2º da Lei 9.296/1996 e demonstrada a necessidade da medida, com fundamentação de cada decisão.</p><p class=\"jc-com\">Renovação \"automática\", sem fundamentação concreta, torna a prova ilícita.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Cabe interceptação em qualquer crime</span><br>✅ <span class=\"certo\">Não cabe em crime punido, no máximo, com detenção.</span></li><li>❌ <span class=\"banca\">O prazo é de 30 dias</span><br>✅ <span class=\"certo\">15 dias, renovável por igual período.</span></li><li>❌ <span class=\"banca\">A gravação feita por um dos interlocutores é ilícita sem ordem judicial</span><br>✅ <span class=\"certo\">É lícita (Tema 237).</span></li><li>❌ <span class=\"banca\">A prova de crime de detenção descoberta fortuitamente é ilícita</span><br>✅ <span class=\"certo\">O encontro fortuito em interceptação válida é admitido.</span></li><li>❌ <span class=\"banca\">O MP conduz a interceptação</span><br>✅ <span class=\"certo\">Quem conduz é a autoridade policial, com ciência ao MP.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quando NÃO cabe interceptação?</span></span><span class=\"vs\"><span>Sem <b>indícios</b> de autoria; prova possível por <b>outros meios</b>; crime punido no máximo com <b>detenção</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo?</span></span><span class=\"vs\"><span><b>15 dias</b>, renovável (sucessivamente, se fundamentado).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juiz decide em?</span></span><span class=\"vs\"><span><b>24 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gravação por interlocutor?</span></span><span class=\"vs\"><span><b>Lícita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Serendipidade?</span></span><span class=\"vs\"><span>Válida se a interceptação for <b>lícita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Crime do art. 10?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 4 anos</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A descoberta inesperada</b><p>Em interceptação autorizada para investigar tráfico, a polícia ouve o investigado combinando com um vereador o pagamento de propina para liberar um alvará.</p><details><summary>Ver a solução comentada</summary><p>Trata-se de <b>encontro fortuito</b> de provas. Como a interceptação era <b>válida</b>, as informações podem ser usadas para investigar a corrupção. A polícia deve comunicar o juiz e instaurar procedimento próprio.</p></details></div>",
-"quiz": [
-{
-"p": "Não será admitida a interceptação de comunicações telefônicas quando o fato investigado constituir infração penal punida, no máximo, com pena de detenção.",
-"c": true,
-"prof": "Certo. É o art. 2º, III.",
-"x": "Também não cabe sem indícios razoáveis de autoria ou participação, ou quando a prova puder ser feita por outros meios.",
-"e": "Detenção: não cabe."
-},
-{
-"p": "A interceptação telefônica tem prazo de 30 dias, renovável uma única vez.",
-"c": false,
-"prof": "Prazo e regra de renovação errados.",
-"x": "O prazo é de 15 dias, renovável por igual período quando comprovada a indispensabilidade. O STF admite renovações sucessivas fundamentadas (Tema 661).",
-"e": "15 dias renováveis."
-},
-{
-"p": "É lícita a gravação de conversa telefônica feita por um dos interlocutores, sem o conhecimento do outro.",
-"c": true,
-"prof": "Certo. Tema 237 do STF.",
-"x": "A Lei 9.296 protege contra a interceptação por terceiros; a gravação clandestina por interlocutor não depende de ordem judicial, salvo hipóteses de sigilo legal.",
-"e": "Gravação por interlocutor: lícita."
-},
-{
-"p": "A interceptação telefônica é conduzida pelo Ministério Público, que dá ciência à autoridade policial.",
-"c": false,
-"prof": "Papéis invertidos.",
-"x": "Pelo art. 6º, a autoridade policial conduz os procedimentos de interceptação, dando ciência ao MP, que poderá acompanhar sua realização.",
-"e": "Polícia conduz."
-},
-{
-"p": "A Lei 9.296/1996 aplica-se também à interceptação do fluxo de comunicações em sistemas de informática e telemática.",
-"c": true,
-"prof": "Certo. Parágrafo único do art. 1º.",
-"x": "Alcança comunicações por aplicativos e e-mails em trânsito. O acesso a dados já armazenados é quebra de sigilo de dados, também com ordem judicial.",
-"e": "Telemática incluída."
-},
-{
-"p": "Em interceptação autorizada para apurar roubo de cargas, a polícia descobre que um dos investigados também pratica ameaça (crime punido com detenção). Sobre o uso dessa prova:",
-"alts": [
-"é ilícita, pois a ameaça é punida com detenção",
-"é ilícita, pois a interceptação só pode ser usada para o crime que a justificou",
-"é admissível, por se tratar de encontro fortuito em interceptação validamente autorizada",
-"só pode ser usada se o investigado confessar",
-"só pode ser usada se houver nova interceptação específica para a ameaça"
-],
-"r": 2,
-"n": [
-"A vedação do art. 2º, III, é para a DECRETAÇÃO da medida.",
-"A jurisprudência admite a serendipidade.",
-"Correta.",
-"Não depende de confissão.",
-"Não é preciso nova interceptação."
-],
-"prof": "A restrição da detenção vale para PEDIR a interceptação, não para aproveitar o que foi achado.",
-"x": "STF e STJ admitem o encontro fortuito de provas em interceptação válida, inclusive de crimes punidos com detenção, desde que conexos ou que a medida original seja legítima.",
-"e": "Serendipidade."
-},
-{
-"p": "Sobre a Lei 9.296/1996, assinale a afirmativa correta.",
-"alts": [
-"A interceptação pode ser determinada por qualquer juiz criminal, ainda que não seja o competente para a ação principal.",
-"O pedido de interceptação deve ser sempre escrito, vedada a forma verbal.",
-"O juiz decidirá o pedido em 24 horas, e a interceptação não poderá exceder 15 dias, renovável por igual tempo, comprovada a indispensabilidade.",
-"As gravações que não interessarem à prova devem ser mantidas indefinidamente nos autos.",
-"É lícita a interceptação para investigar contravenção penal."
-],
-"r": 2,
-"n": [
-"Deve ser o juiz competente da ação principal.",
-"Excepcionalmente pode ser verbal, reduzido a termo.",
-"Correta: arts. 4º e 5º.",
-"Devem ser inutilizadas (art. 9º).",
-"Contravenção não admite."
-],
-"prof": "24 h para decidir; 15 dias de duração.",
-"x": "O juiz decide em 24 horas (art. 4º, § 2º); a diligência dura até 15 dias, renovável por igual período (art. 5º). O pedido verbal é excepcional e deve ser reduzido a termo.",
-"e": "24 h e 15 dias."
-}
-]
-},
-"tortura": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2 a 8</b><span>anos de reclusão: tortura (art. 1º)</span></div><div class=\"lt-stat\"><b>1 a 4</b><span>anos de detenção: omissão diante da tortura (art. 1º, § 2º)</span></div><div class=\"lt-stat\"><b>8 a 16</b><span>anos: tortura com resultado morte</span></div><div class=\"lt-stat\"><b>2×</b><span>a perda do cargo vale pelo dobro do prazo da pena (§ 5º)</span></div></div>\n<h3>1. Base constitucional e natureza</h3>\n<ul><li>CF, art. 5º, <b>III</b>: \"ninguém será submetido a <b>tortura</b> nem a tratamento desumano ou degradante\". <b>XLIII</b>: a tortura é <b>inafiançável</b> e <b>insuscetível de graça ou anistia</b>, equiparada aos crimes hediondos (junto com tráfico e terrorismo).</li><li>A <b>Lei 9.455/1997</b> define os crimes. Diferentemente da Convenção da ONU, que só considera tortura a praticada por agente público, a lei brasileira trata a tortura, em regra, como <b>crime comum</b> (pode ser praticada por <b>qualquer pessoa</b>). A exceção é a <b>tortura-castigo</b> (inciso II), que exige relação de guarda, poder ou autoridade.</li></ul>\n<h3>2. As modalidades (art. 1º)</h3>\n<table class=\"tab\"><thead><tr><th>Modalidade</th><th>Conduta</th><th>Quem pratica</th></tr></thead><tbody><tr><td><b>Tortura-prova</b> (I, \"a\")</td><td><b>constranger</b> alguém com <b>violência ou grave ameaça</b>, causando-lhe <b>sofrimento físico ou mental</b>, com o fim de <b>obter informação, declaração ou confissão</b> da vítima ou de terceira pessoa</td><td>qualquer pessoa (o policial que espanca o preso para obter confissão é o exemplo clássico)</td></tr><tr><td><b>Tortura para a prática de crime</b> (I, \"b\")</td><td>o mesmo constrangimento para <b>provocar ação ou omissão de natureza criminosa</b></td><td>qualquer pessoa (obrigar alguém, sob tortura, a transportar droga)</td></tr><tr><td><b>Tortura discriminatória</b> (I, \"c\")</td><td>o mesmo constrangimento <b>em razão de discriminação racial ou religiosa</b></td><td>qualquer pessoa</td></tr><tr><td><b>Tortura-castigo</b> (II)</td><td><b>submeter alguém, sob sua guarda, poder ou autoridade</b>, com emprego de violência ou grave ameaça, a <b>intenso</b> sofrimento físico ou mental, como forma de <b>aplicar castigo pessoal ou medida de caráter preventivo</b></td><td>crime <b>próprio</b>: pais, tutores, cuidadores, carcereiros, agentes que têm a vítima sob guarda</td></tr><tr><td><b>Tortura do preso</b> (§ 1º)</td><td>submeter <b>pessoa presa ou sujeita a medida de segurança</b> a sofrimento físico ou mental, <b>por intermédio da prática de ato não previsto em lei ou não resultante de medida legal</b></td><td>em regra, agente público</td></tr></tbody></table>\n<ul><li><b>Pena</b>: <b>reclusão de 2 a 8 anos</b> para as modalidades acima.</li><li><b>Tortura x maus-tratos</b>: nos <b>maus-tratos</b> (CP, art. 136), o agente abusa dos meios de correção ou disciplina com intenção de <b>educar ou corrigir</b>, expondo a vítima a <b>perigo</b>; na <b>tortura-castigo</b>, há <b>intenso sofrimento</b> físico ou mental como <b>castigo</b>, com vontade de fazer sofrer. A intensidade do sofrimento e o dolo distinguem os dois.</li><li><b>Tortura x lesão corporal x abuso de autoridade</b>: se a violência policial não tem a finalidade específica da lei (obter confissão, castigar), pode haver lesão corporal e abuso de autoridade (Lei 13.869/2019), e não tortura.</li></ul>\n<h3>3. Tortura por omissão (§ 2º)</h3>\n<ul><li>\"Aquele que <b>se omite</b> em face dessas condutas, quando <b>tinha o dever de evitá-las ou apurá-las</b>, incorre na pena de <b>detenção de 1 a 4 anos</b>.\" Exemplo: o delegado que sabe que os investigadores torturam presos na carceragem e nada faz. É uma pena <b>bem menor</b> que a da tortura comissiva, o que a doutrina critica (o garantidor, pelo CP, responderia como autor). Essa modalidade <b>não é equiparada a hediondo</b>, segundo a doutrina majoritária, e admite regime inicial diferente do fechado.</li></ul>\n<h3>4. Formas qualificadas e aumentos</h3>\n<ul><li><b>Qualificadoras</b> (§ 3º): se resulta <b>lesão corporal grave ou gravíssima</b>: <b>reclusão de 4 a 10 anos</b>; se resulta <b>morte</b>: <b>reclusão de 8 a 16 anos</b>. A morte deve ser <b>culposa</b> (preterdolo); se o agente quis matar usando a tortura como meio, há <b>homicídio qualificado pela tortura</b> (CP, art. 121, § 2º, III).</li><li><b>Aumento de 1/6 a 1/3</b> (§ 4º): se o crime é cometido <b>por agente público</b>; contra <b>criança, gestante, portador de deficiência, adolescente ou maior de 60 anos</b>; ou <b>mediante sequestro</b>.</li></ul>\n<h3>5. Efeitos da condenação e regras processuais</h3>\n<ul><li><b>Perda do cargo</b> (§ 5º): a condenação acarretará a <b>perda do cargo, função ou emprego público</b> e a <b>interdição para seu exercício pelo dobro do prazo da pena aplicada</b>. Para o STJ e o STF, esse efeito é <b>automático</b>: não precisa ser fundamentado especificamente na sentença (diferente da regra geral do CP, art. 92, I).</li><li><b>Inafiançável e insuscetível de graça ou anistia</b> (§ 6º). A Lei 8.072/1990 também veda o <b>indulto</b>.</li><li><b>Regime inicial</b> (§ 7º): a lei diz que o condenado, salvo na omissão do § 2º, iniciará a pena em regime <b>fechado</b>. Seguindo o entendimento do STF sobre os hediondos (HC 111.840), a jurisprudência admite a fixação do regime pelas regras do art. 33 do CP, com fundamentação concreta.</li><li><b>Extraterritorialidade</b> (art. 2º): a lei aplica-se ainda quando o crime não tenha sido cometido em território nacional, sendo a <b>vítima brasileira</b> ou encontrando-se o agente em <b>local sob jurisdição brasileira</b>.</li><li><b>Competência</b>: em regra, da <b>Justiça Estadual</b>. Será <b>federal</b> se houver interesse da União (vítima sob custódia federal, agente federal no exercício da função). Desde a Lei 13.491/2017, crimes da legislação penal comum praticados por <b>militar em serviço</b> podem ser crimes militares (CPM, art. 9º, II), e a competência deve ser verificada no caso concreto.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Só agente público pratica tortura no Brasil</span><br>✅ <span class=\"certo\">Em regra é crime comum; só a tortura-castigo é própria.</span></li><li>❌ <span class=\"banca\">Quem se omite responde com a mesma pena</span><br>✅ <span class=\"certo\">Omissão: detenção de 1 a 4 anos.</span></li><li>❌ <span class=\"banca\">A perda do cargo depende de fundamentação específica</span><br>✅ <span class=\"certo\">É efeito automático (STJ/STF).</span></li><li>❌ <span class=\"banca\">A tortura com morte é homicídio qualificado sempre</span><br>✅ <span class=\"certo\">Se a morte é culposa, é tortura qualificada (8 a 16).</span></li><li>❌ <span class=\"banca\">Tortura admite fiança</span><br>✅ <span class=\"certo\">Inafiançável.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tortura-prova?</span></span><span class=\"vs\"><span>Constranger com violência ou grave ameaça para obter <b>informação, declaração ou confissão</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tortura-castigo?</span></span><span class=\"vs\"><span>Vítima sob <b>guarda, poder ou autoridade</b>; <b>intenso</b> sofrimento como castigo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena básica?</span></span><span class=\"vs\"><span><b>2 a 8 anos</b> de reclusão.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Omissão?</span></span><span class=\"vs\"><span><b>Detenção de 1 a 4 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Resultado morte?</span></span><span class=\"vs\"><span><b>8 a 16 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aumento de 1/6 a 1/3?</span></span><span class=\"vs\"><span><b>Agente público</b>, vítima vulnerável, <b>sequestro</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Efeito da condenação?</span></span><span class=\"vs\"><span>Perda do cargo + interdição pelo <b>dobro</b> da pena.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Extraterritorialidade?</span></span><span class=\"vs\"><span>Vítima <b>brasileira</b> ou agente em local sob jurisdição brasileira.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A confissão na sala de interrogatório</b><p>Dois investigadores colocam um saco plástico na cabeça de um suspeito de roubo até que ele confesse onde escondeu a arma. O delegado plantonista ouve os gritos e não intervém. O suspeito sofre lesão grave.</p><details><summary>Ver a solução comentada</summary><p>Os investigadores praticam <b>tortura-prova</b> (art. 1º, I, \"a\"), <b>qualificada</b> pela <b>lesão grave</b> (§ 3º: 4 a 10 anos) e <b>aumentada</b> por serem <b>agentes públicos</b> (§ 4º, I). O delegado, que tinha o dever de evitar a conduta, responde pela <b>omissão</b> do § 2º (detenção de 1 a 4 anos). A condenação gera <b>perda do cargo</b> e interdição pelo dobro da pena. A confissão obtida é <b>prova ilícita</b> (CF, art. 5º, LVI).</p></details></div>",
-"quiz": [
-{
-"p": "Na Lei 9.455/1997, a tortura praticada para obter informação, declaração ou confissão da vítima ou de terceiro pode ser cometida por qualquer pessoa, não se exigindo a condição de agente público.",
-"c": true,
-"prof": "Certo.",
-"x": "A tortura-prova (art. 1º, I, \"a\") é crime comum. A condição de agente público é causa de aumento de pena (§ 4º, I), e não elementar.",
-"e": "Tortura-prova: crime comum."
-},
-{
-"p": "Aquele que se omite diante da tortura, quando tinha o dever de evitá-la ou apurá-la, responde com a mesma pena do torturador.",
-"c": false,
-"prof": "A pena é menor.",
-"x": "O art. 1º, § 2º, prevê detenção de 1 a 4 anos para o omitente, pena bem inferior à de reclusão de 2 a 8 anos da tortura comissiva.",
-"e": "Omissão: 1 a 4 anos."
-},
-{
-"p": "Segundo a Lei 9.455/1997, a condenação por crime de tortura acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício:",
-"alts": [
-"por 5 anos",
-"pelo mesmo prazo da pena aplicada",
-"pelo dobro do prazo da pena aplicada",
-"por 8 anos",
-"definitivamente"
-],
-"r": 2,
-"n": [
-"Não é o prazo legal.",
-"Não é o prazo legal.",
-"Correta: art. 1º, § 5º.",
-"Esse é o prazo de inabilitação do Presidente no impeachment.",
-"Não é definitiva."
-],
-"prof": "Dobro da pena.",
-"x": "O § 5º prevê a perda do cargo e a interdição pelo dobro do prazo da pena aplicada, efeito que a jurisprudência considera automático.",
-"e": "Interdição: dobro da pena."
-},
-{
-"p": "Configura tortura-castigo submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a intenso sofrimento físico ou mental, como forma de aplicar castigo pessoal ou medida de caráter preventivo.",
-"c": true,
-"prof": "Certo. Art. 1º, II.",
-"x": "É crime próprio, que exige relação de guarda, poder ou autoridade entre agente e vítima (pais e filhos, carcereiro e preso, cuidador e idoso).",
-"e": "Castigo sob guarda."
-},
-{
-"p": "Se da tortura resulta morte, a pena é de reclusão de 12 a 30 anos.",
-"c": false,
-"prof": "É de 8 a 16 anos.",
-"x": "O § 3º prevê reclusão de 8 a 16 anos se resulta morte (culposa). Se o agente quis matar e usou a tortura como meio, responde por homicídio qualificado (12 a 30 anos).",
-"e": "Tortura com morte: 8 a 16."
-},
-{
-"p": "A pena da tortura é aumentada de um sexto até um terço quando o crime é cometido:",
-"alts": [
-"por motivo fútil",
-"durante o repouso noturno",
-"por agente público ou contra criança, gestante, pessoa com deficiência, adolescente ou maior de 60 anos",
-"contra qualquer pessoa presa",
-"por duas ou mais pessoas"
-],
-"r": 2,
-"n": [
-"Não está no § 4º.",
-"Não está no § 4º.",
-"Correta.",
-"O preso é objeto do § 1º.",
-"Não está no § 4º."
-],
-"prof": "§ 4º.",
-"x": "As causas de aumento são: agente público; vítima criança, gestante, com deficiência, adolescente ou maior de 60 anos; e crime cometido mediante sequestro.",
-"e": "Aumento: agente público e vulneráveis."
-}
-]
-},
-"lavagem": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3 a 10</b><span>anos de reclusão: lavagem de dinheiro (art. 1º)</span></div><div class=\"lt-stat\"><b>3</b><span>fases: colocação, ocultação e integração</span></div><div class=\"lt-stat\"><b>2012</b><span>Lei 12.683: qualquer infração penal pode ser antecedente</span></div><div class=\"lt-stat\"><b>COAF</b><span>unidade de inteligência financeira que recebe as comunicações</span></div></div>\n<h3>1. Conceito e evolução</h3>\n<ul><li><b>Lavagem de dinheiro</b> é o processo de dar <b>aparência lícita</b> a bens, direitos ou valores obtidos com uma <b>infração penal antecedente</b> (tráfico, corrupção, estelionato, jogo do bicho...). O objetivo é permitir que o criminoso <b>use</b> o dinheiro sem revelar sua origem.</li><li><b>Gerações de leis</b>: na 1ª, só o tráfico era antecedente; na 2ª, havia um <b>rol</b> de crimes antecedentes (redação original da Lei 9.613/1998); na <b>3ª</b>, adotada pelo Brasil com a <b>Lei 12.683/2012</b>, <b>qualquer infração penal</b>, inclusive <b>contravenção</b>, pode ser antecedente.</li></ul>\n<h3>2. O crime (art. 1º)</h3>\n<ul><li>\"<b>Ocultar ou dissimular</b> a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes, direta ou indiretamente, de <b>infração penal</b>\": <b>reclusão de 3 a 10 anos</b> e multa.</li><li><b>Figuras equiparadas</b> (§§ 1º e 2º): quem, para ocultar ou dissimular a utilização de bens provenientes de infração penal, os <b>converte em ativos lícitos</b>; os adquire, recebe, troca, negocia, dá ou recebe em garantia, guarda, tem em depósito, movimenta ou transfere; <b>importa ou exporta</b> bens com valores não correspondentes aos verdadeiros. Também quem <b>utiliza</b>, na atividade econômica ou financeira, bens que sabe serem provenientes de infração penal, e quem <b>participa</b> de grupo ou escritório sabendo que sua atividade principal ou secundária é dirigida à lavagem.</li></ul>\n<table class=\"tab\"><thead><tr><th>Fase</th><th>O que acontece</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Colocação</b> (placement)</td><td>o dinheiro \"sujo\" entra no sistema econômico</td><td>depósitos fracionados abaixo do limite de comunicação (\"smurfing\"), compra de bens de alto valor em espécie</td></tr><tr><td><b>Ocultação ou dissimulação</b> (layering)</td><td>várias operações para apagar o rastro</td><td>transferências entre contas de laranjas, empresas de fachada, paraísos fiscais, criptoativos</td></tr><tr><td><b>Integração</b></td><td>o dinheiro volta com aparência lícita</td><td>compra de imóveis, investimento em empresas, \"lucros\" de negócio fictício</td></tr></tbody></table>\n<ul><li>Não é preciso completar as três fases: <b>basta um ato de ocultação ou dissimulação</b> para consumar o crime. A lavagem é crime <b>autônomo</b> em relação à infração antecedente.</li></ul>\n<h3>3. Autonomia e infração antecedente (art. 2º)</h3>\n<ul><li>O processo e o julgamento da lavagem <b>independem do processo e julgamento</b> das infrações penais antecedentes. A denúncia deve ser instruída com <b>indícios suficientes da existência</b> da infração antecedente.</li><li>A lavagem é <b>punível ainda que desconhecido ou isento de pena o autor</b>, ou <b>extinta a punibilidade</b> da infração antecedente (§ 1º). Ex.: o crime antecedente prescreveu, mas a lavagem ainda pode ser punida.</li><li><b>Autolavagem</b>: o próprio autor do crime antecedente pode responder por lavagem, em concurso, se praticar <b>atos autônomos</b> de ocultação ou dissimulação (STF, AP 470). O mero uso do dinheiro (gastar o produto do roubo) não é lavagem.</li><li><b>Citação por edital</b>: na lavagem <b>não se aplica o art. 366 do CPP</b>; o acusado citado por edital que não comparece nem constitui advogado terá o processo seguindo com <b>defensor dativo</b> (art. 2º, § 2º).</li></ul>\n<h3>4. Aumentos, colaboração e medidas</h3>\n<ul><li><b>Aumento de 1/3 a 2/3</b> (§ 4º): se o crime for cometido de forma <b>reiterada</b> ou por intermédio de <b>organização criminosa</b>.</li><li><b>Colaboração premiada</b> (§ 5º): a pena pode ser <b>reduzida de 1/3 a 2/3</b> e começar em regime <b>aberto ou semiaberto</b>, podendo o juiz deixar de aplicá-la (<b>perdão judicial</b>) ou substituí-la por restritiva de direitos, se o autor, coautor ou partícipe colaborar espontaneamente com as autoridades, prestando esclarecimentos que conduzam à apuração das infrações, à identificação dos autores ou à localização dos bens.</li><li><b>Medidas assecuratórias</b> (art. 4º): o juiz, de ofício ou a requerimento do MP ou mediante representação do <b>delegado</b>, ouvido o MP em 24 horas, havendo <b>indícios suficientes</b> de infração penal, pode decretar medidas sobre bens, direitos ou valores do investigado (sequestro, arresto). É possível a <b>alienação antecipada</b> de bens sujeitos a deterioração ou de difícil manutenção (art. 4º-A).</li><li><b>Ação controlada e infiltração</b>: aplicam-se as técnicas da Lei 12.850/2013. A ordem de prisão ou de apreensão pode ser <b>suspensa</b> pelo juiz, ouvido o MP, se puder comprometer as investigações (art. 4º-B).</li></ul>\n<h3>5. Prevenção: COAF, pessoas obrigadas e dados cadastrais</h3>\n<ul><li><b>Pessoas obrigadas</b> (art. 9º): bancos, corretoras, seguradoras, administradoras de cartões, imobiliárias, joalherias, comerciantes de bens de luxo, empresas de transporte de valores, juntas comerciais, cartórios, prestadores de serviços de assessoria e consultoria, entre outras. Devem <b>identificar clientes</b>, <b>manter registros</b> e <b>comunicar operações suspeitas</b> ao <b>COAF</b> (art. 11), sem dar ciência ao cliente.</li><li><b>COAF</b> (Conselho de Controle de Atividades Financeiras): é a <b>unidade de inteligência financeira</b> do Brasil, que recebe, examina e identifica ocorrências suspeitas e produz <b>Relatórios de Inteligência Financeira (RIF)</b>. O STF (Tema 990) decidiu que é <b>constitucional o compartilhamento</b> dos relatórios da UIF e da íntegra do procedimento fiscalizatório da Receita com a polícia e o MP, <b>sem prévia autorização judicial</b>, desde que por comunicação formal e com sigilo.</li><li><b>Dados cadastrais</b> (art. 17-B): a <b>autoridade policial</b> e o <b>MP</b> terão acesso, <b>exclusivamente</b>, aos <b>dados cadastrais</b> do investigado que informam <b>qualificação pessoal, filiação e endereço</b>, mantidos pela Justiça Eleitoral, empresas telefônicas, instituições financeiras, provedores de internet e administradoras de cartão de crédito, <b>independentemente de autorização judicial</b>. Movimentação financeira e conteúdo de comunicações continuam protegidos por reserva de jurisdição.</li><li><b>Afastamento do servidor indiciado</b> (art. 17-D): o dispositivo que previa o <b>afastamento automático</b> do servidor público indiciado por lavagem foi declarado <b>inconstitucional</b> pelo STF (ADI 4.911), por violar a presunção de inocência.</li></ul>\n<h3>6. Competência</h3>\n<ul><li>Em regra, <b>Justiça Estadual</b>. É da <b>Justiça Federal</b> quando praticada <b>contra o sistema financeiro</b> e a ordem econômico-financeira, ou em detrimento de bens, serviços ou interesses da <b>União</b>, autarquias ou empresas públicas federais; ou quando a <b>infração antecedente</b> for de competência federal (art. 2º, III).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Só alguns crimes podem ser antecedentes da lavagem</span><br>✅ <span class=\"certo\">Desde 2012, qualquer infração penal, inclusive contravenção.</span></li><li>❌ <span class=\"banca\">A lavagem exige condenação pela infração antecedente</span><br>✅ <span class=\"certo\">Basta indício suficiente; é crime autônomo.</span></li><li>❌ <span class=\"banca\">O autor do crime antecedente nunca responde por lavagem</span><br>✅ <span class=\"certo\">Autolavagem é admitida com atos autônomos.</span></li><li>❌ <span class=\"banca\">O delegado precisa de ordem judicial para dados cadastrais</span><br>✅ <span class=\"certo\">Art. 17-B dispensa.</span></li><li>❌ <span class=\"banca\">O servidor indiciado é afastado automaticamente</span><br>✅ <span class=\"certo\">STF declarou inconstitucional (ADI 4.911).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena da lavagem?</span></span><span class=\"vs\"><span><b>Reclusão de 3 a 10 anos</b> e multa.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fases?</span></span><span class=\"vs\"><span><b>Colocação, ocultação e integração</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Antecedente desde 2012?</span></span><span class=\"vs\"><span><b>Qualquer infração penal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Autonomia?</span></span><span class=\"vs\"><span>Independe do processo da infração antecedente.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aumento de 1/3 a 2/3?</span></span><span class=\"vs\"><span><b>Reiteração</b> ou <b>organização criminosa</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Colaboração?</span></span><span class=\"vs\"><span>Redução de 1/3 a 2/3, regime aberto/semiaberto ou <b>perdão judicial</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 366 do CPP na lavagem?</span></span><span class=\"vs\"><span><b>Não se aplica</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>COAF?</span></span><span class=\"vs\"><span><b>Unidade de inteligência financeira</b>; RIF compartilhável sem ordem judicial (Tema 990).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A loja de fachada</b><p>Investigação revela que o líder de uma organização de tráfico abriu uma loja de roupas que declara faturamento muito acima do movimento real, depositando diariamente dinheiro em espécie como se fosse venda. Com o \"lucro\", ele compra imóveis em nome da cunhada.</p><details><summary>Ver a solução comentada</summary><p>Há <b>lavagem de dinheiro</b> (art. 1º): a loja serve para <b>ocultar e dissimular</b> a origem dos valores do <b>tráfico</b> (colocação e integração); a compra de imóveis em nome de terceiro reforça a ocultação. O crime é <b>autônomo</b> e pode ser punido mesmo antes da condenação pelo tráfico. Há <b>aumento de 1/3 a 2/3</b> por ser praticada por <b>organização criminosa</b> (§ 4º). O delegado pode <b>representar</b> por medidas assecuratórias sobre os imóveis (art. 4º) e requisitar diretamente <b>dados cadastrais</b> (art. 17-B); o <b>RIF</b> do COAF pode ser compartilhado com a polícia.</p></details></div>",
-"quiz": [
-{
-"p": "Desde a Lei 12.683/2012, qualquer infração penal, inclusive contravenção, pode ser antecedente do crime de lavagem de dinheiro.",
-"c": true,
-"prof": "Certo.",
-"x": "A lei abandonou o rol taxativo de crimes antecedentes. O jogo do bicho, que é contravenção, pode ser antecedente de lavagem.",
-"e": "Antecedente: qualquer infração penal."
-},
-{
-"p": "O processo pelo crime de lavagem de dinheiro depende da prévia condenação do acusado pela infração penal antecedente.",
-"c": false,
-"prof": "A lavagem é autônoma.",
-"x": "O art. 2º, II, dispõe que o processo e o julgamento independem do processo e julgamento da infração antecedente. Basta que a denúncia traga indícios suficientes de sua existência.",
-"e": "Lavagem: autonomia."
-},
-{
-"p": "As fases clássicas do processo de lavagem de dinheiro, em ordem, são:",
-"alts": [
-"integração, colocação e ocultação",
-"colocação, ocultação (dissimulação) e integração",
-"ocultação, integração e colocação",
-"colocação, integração e ocultação",
-"dissimulação, colocação e consumo"
-],
-"r": 1,
-"n": [
-"Ordem trocada.",
-"Correta.",
-"Ordem trocada.",
-"Ordem trocada.",
-"Não corresponde."
-],
-"prof": "Entrar, esconder, voltar.",
-"x": "Na colocação, o dinheiro entra no sistema; na ocultação, várias operações apagam o rastro; na integração, ele retorna com aparência lícita. Não é preciso completar todas para consumar o crime.",
-"e": "Colocação → ocultação → integração."
-},
-{
-"p": "A autoridade policial e o Ministério Público terão acesso, independentemente de autorização judicial, aos dados cadastrais do investigado que informam exclusivamente a qualificação pessoal, a filiação e o endereço.",
-"c": true,
-"prof": "Certo. Art. 17-B.",
-"x": "Os dados podem ser requisitados à Justiça Eleitoral, a empresas telefônicas, instituições financeiras, provedores de internet e administradoras de cartão. Movimentação financeira e conteúdo de comunicações exigem ordem judicial.",
-"e": "Cadastro: sem juiz."
-},
-{
-"p": "Na lavagem de dinheiro, o acusado citado por edital que não comparece nem constitui advogado tem o processo e o prazo prescricional suspensos, nos termos do art. 366 do CPP.",
-"c": false,
-"prof": "O art. 366 não se aplica.",
-"x": "O art. 2º, § 2º, da Lei 9.613/1998 afasta o art. 366 do CPP: o processo prossegue com defensor dativo.",
-"e": "Lavagem: sem art. 366."
-},
-{
-"p": "Segundo o STF, a lavagem de dinheiro pode ser imputada ao próprio autor do crime antecedente quando:",
-"alts": [
-"nunca, pois haveria bis in idem",
-"sempre que ele gastar o produto do crime",
-"ele praticar atos autônomos de ocultação ou dissimulação dos valores",
-"o crime antecedente for hediondo",
-"houver confissão"
-],
-"r": 2,
-"n": [
-"O STF admite a autolavagem.",
-"Mero uso não é lavagem.",
-"Correta.",
-"Não é o critério.",
-"Não é o critério."
-],
-"prof": "Autolavagem.",
-"x": "A autolavagem é admitida quando há atos distintos e posteriores destinados a ocultar ou dissimular a origem dos bens, e não o simples aproveitamento do produto do crime.",
-"e": "Atos autônomos: autolavagem."
-}
-]
-},
-"racismo": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1989</b><span>ano da Lei 7.716 (Lei Caó)</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão: injúria racial (art. 2º-A, desde 2023)</span></div><div class=\"lt-stat\"><b>XLII</b><span>inciso do art. 5º da CF: racismo inafiançável e imprescritível</span></div><div class=\"lt-stat\"><b>5</b><span>fatores protegidos: raça, cor, etnia, religião e procedência nacional</span></div></div>\n<h3>1. Base constitucional</h3>\n<ul><li>CF, art. 5º, <b>XLII</b>: \"a prática do <b>racismo</b> constitui crime <b>inafiançável e imprescritível</b>, sujeito à pena de <b>reclusão</b>, nos termos da lei\". O art. 3º, IV, fixa como objetivo promover o bem de todos, sem preconceitos de origem, raça, sexo, cor e idade.</li><li>A <b>Lei 7.716/1989</b> define os crimes resultantes de <b>discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional</b> (art. 1º).</li><li><b>Conceito de raça</b>: o STF, no caso <b>Ellwanger</b> (HC 82.424), entendeu que o racismo abrange o <b>antissemitismo</b>, porque \"raça\" é conceito <b>político-social</b>, e não biológico. Na <b>ADO 26</b> e no <b>MI 4.733</b> (2019), o STF determinou que a <b>homofobia e a transfobia</b> se enquadram nos crimes da Lei 7.716 até que o Congresso edite lei específica (racismo em sua dimensão social).</li></ul>\n<h3>2. Os crimes da Lei 7.716</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta (por motivo de discriminação)</th><th>Pena</th></tr></thead><tbody><tr><td><b>3º</b></td><td><b>impedir ou obstar o acesso</b> a cargo da Administração direta ou indireta, ou a promoção funcional</td><td>reclusão de <b>2 a 5 anos</b></td></tr><tr><td><b>4º</b></td><td><b>negar ou obstar emprego</b> em empresa privada</td><td>reclusão de <b>2 a 5 anos</b></td></tr><tr><td><b>5º</b></td><td><b>recusar ou impedir acesso a estabelecimento comercial</b>, negando-se a servir, atender ou receber cliente</td><td>reclusão de <b>1 a 3 anos</b></td></tr><tr><td><b>6º</b></td><td>recusar, negar ou impedir a <b>inscrição ou ingresso de aluno</b> em estabelecimento de ensino</td><td>reclusão de <b>3 a 5 anos</b></td></tr><tr><td><b>7º a 13</b></td><td>impedir acesso a hotéis, restaurantes, bares, clubes, salões de beleza, entradas sociais de edifícios, elevadores, transportes públicos, Forças Armadas</td><td>reclusão de 1 a 3 anos (em geral)</td></tr><tr><td><b>14</b></td><td>impedir ou obstar <b>casamento ou convivência familiar e social</b></td><td>reclusão de 2 a 4 anos</td></tr><tr><td><b>20</b></td><td><b>praticar, induzir ou incitar</b> a discriminação ou preconceito</td><td>reclusão de <b>1 a 3 anos</b> e multa</td></tr><tr><td><b>20, § 1º</b></td><td><b>fabricar, comercializar, distribuir ou veicular símbolos, emblemas, ornamentos, distintivos ou propaganda que utilizem a cruz suástica ou gamada</b>, para fins de <b>divulgação do nazismo</b></td><td>reclusão de <b>2 a 5 anos</b></td></tr><tr><td><b>20, § 2º</b></td><td>praticar, induzir ou incitar a discriminação <b>por meio dos meios de comunicação social, redes sociais</b> ou publicação de qualquer natureza</td><td>reclusão de <b>2 a 5 anos</b></td></tr></tbody></table>\n<ul><li><b>Efeito da condenação</b>: perda do cargo ou função pública, para o servidor, e suspensão do funcionamento do estabelecimento particular por até 3 meses (arts. 16 e 18), efeitos que <b>não são automáticos</b>: devem ser motivadamente declarados na sentença.</li></ul>\n<h3>3. Injúria racial (art. 2º-A, Lei 14.532/2023)</h3>\n<ul><li>\"<b>Injuriar</b> alguém, ofendendo-lhe a <b>dignidade ou o decoro</b>, em razão de <b>raça, cor, etnia ou procedência nacional</b>\": <b>reclusão de 2 a 5 anos</b> e multa. A pena aumenta <b>de metade</b> se o crime for cometido mediante <b>concurso de 2 ou mais pessoas</b>.</li><li><b>Racismo x injúria racial</b>: no <b>racismo</b> em sentido estrito (arts. 3º a 20), a ofensa atinge uma <b>coletividade</b> ou o agente <b>segrega</b> (impede acesso, nega emprego, incita discriminação contra um grupo). Na <b>injúria racial</b>, o agente ofende <b>uma pessoa determinada</b>, usando elementos de raça ou cor (\"chamou o vigilante de macaco\").</li><li><b>Antes de 2023</b>, a injúria racial estava no CP (art. 140, § 3º), com pena de 1 a 3 anos e ação condicionada à representação. O <b>STF</b> (HC 154.248, 2021) já a considerava <b>espécie de racismo</b>, portanto <b>imprescritível e inafiançável</b>. A Lei 14.532/2023 transferiu a conduta para a Lei 7.716, tornando a ação <b>pública incondicionada</b>.</li><li>Ficou no <b>CP, art. 140, § 3º</b>, a injúria qualificada por <b>religião</b> e pela condição de pessoa <b>idosa ou com deficiência</b> (reclusão de 1 a 3 anos).</li><li><b>Novas causas de aumento</b> (Lei 14.532/2023): a pena dos crimes da Lei 7.716 aumenta quando praticados em contexto de <b>descontração, diversão ou recreação</b> (\"<b>racismo recreativo</b>\", a \"piada\" racista), por <b>funcionário público</b> no exercício das funções ou a pretexto de exercê-las, e em <b>eventos esportivos, artísticos ou culturais</b> destinados ao público (com previsão de proibição de frequentar esses locais). O juiz deve considerar como discriminatória a atitude que cause constrangimento ou humilhação a pessoas de grupos minoritários e que normalmente não seria dispensada a outros grupos.</li></ul>\n<h3>4. Aspectos processuais</h3>\n<ul><li><b>Ação penal pública incondicionada</b> em todos os crimes da Lei 7.716, inclusive a injúria racial.</li><li><b>Imprescritível e inafiançável</b> (CF, art. 5º, XLII). Cabe <b>liberdade provisória sem fiança</b>, se ausentes os requisitos da preventiva.</li><li><b>Competência</b>: em regra <b>estadual</b>. Será <b>federal</b> quando houver tratado internacional e caráter <b>transnacional</b> (publicação na internet acessível no exterior, segundo o STJ em casos de divulgação de conteúdo racista em rede mundial).</li><li><b>Atuação policial</b>: diante de flagrante de injúria racial ou racismo, a autoridade lavra o <b>auto de prisão em flagrante</b> (crime de <b>reclusão</b>, inafiançável); não se lavra termo circunstanciado.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Injúria racial depende de representação</span><br>✅ <span class=\"certo\">Desde 2023 é pública incondicionada (art. 2º-A da Lei 7.716).</span></li><li>❌ <span class=\"banca\">Injúria racial prescreve</span><br>✅ <span class=\"certo\">É imprescritível (STF e Lei 14.532/2023).</span></li><li>❌ <span class=\"banca\">Racismo e injúria racial são a mesma conduta</span><br>✅ <span class=\"certo\">Racismo atinge grupo ou segrega; injúria ofende pessoa determinada.</span></li><li>❌ <span class=\"banca\">Homofobia não é punível por falta de lei</span><br>✅ <span class=\"certo\">STF a enquadrou na Lei 7.716 (ADO 26).</span></li><li>❌ <span class=\"banca\">A perda do cargo é automática</span><br>✅ <span class=\"certo\">Deve ser motivadamente declarada.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei do racismo?</span></span><span class=\"vs\"><span><b>Lei 7.716/1989</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fatores protegidos?</span></span><span class=\"vs\"><span><b>Raça, cor, etnia, religião, procedência nacional</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Injúria racial hoje?</span></span><span class=\"vs\"><span><b>Art. 2º-A da Lei 7.716</b>, reclusão de <b>2 a 5 anos</b>, ação <b>incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Racismo na CF?</span></span><span class=\"vs\"><span><b>Inafiançável e imprescritível</b>, reclusão.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Incitar discriminação nas redes?</span></span><span class=\"vs\"><span>Art. 20, § 2º: <b>2 a 5 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Suástica para divulgar nazismo?</span></span><span class=\"vs\"><span>Art. 20, § 1º: <b>2 a 5 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Homofobia?</span></span><span class=\"vs\"><span>Enquadrada na Lei 7.716 (<b>ADO 26</b>).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Injúria por religião ou idade?</span></span><span class=\"vs\"><span>Continua no <b>CP, art. 140, § 3º</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O torcedor no estádio</b><p>Durante um jogo, um torcedor imita um macaco e grita ofensas raciais contra um jogador adversário. A PM o detém.</p><details><summary>Ver a solução comentada</summary><p>A ofensa dirigida a <b>pessoa determinada</b>, em razão da cor, configura <b>injúria racial</b> (art. 2º-A da Lei 7.716): reclusão de 2 a 5 anos, <b>inafiançável e imprescritível</b>, de ação <b>pública incondicionada</b>. O contexto de <b>evento esportivo</b> atrai causa de aumento introduzida pela Lei 14.532/2023, com possibilidade de proibição de frequentar estádios. A autoridade lavra o <b>auto de prisão em flagrante</b>.</p></details></div>",
-"quiz": [
-{
-"p": "Desde a Lei 14.532/2023, a injúria racial está tipificada na Lei 7.716/1989, com pena de reclusão de dois a cinco anos e ação penal pública incondicionada.",
-"c": true,
-"prof": "Certo.",
-"x": "A injúria racial saiu do art. 140, § 3º, do CP e passou ao art. 2º-A da Lei 7.716, com pena maior e sem necessidade de representação.",
-"e": "Injúria racial: Lei 7.716."
-},
-{
-"p": "A injúria racial, por ser crime contra a honra, prescreve normalmente e depende de representação da vítima.",
-"c": false,
-"prof": "É imprescritível e incondicionada.",
-"x": "O STF (HC 154.248) reconheceu a injúria racial como espécie de racismo, imprescritível. Com a Lei 14.532/2023, a ação passou a ser pública incondicionada.",
-"e": "Injúria racial: imprescritível."
-},
-{
-"p": "Um empresário recusa-se a contratar um candidato aprovado na seleção por causa de sua cor. Ele pratica:",
-"alts": [
-"injúria racial",
-"o crime de negar ou obstar emprego em empresa privada (Lei 7.716, art. 4º)",
-"constrangimento ilegal",
-"apenas ilícito trabalhista",
-"difamação"
-],
-"r": 1,
-"n": [
-"Não há ofensa à honra de forma verbal.",
-"Correta.",
-"Há tipo específico.",
-"Há crime.",
-"Não há imputação de fato."
-],
-"prof": "Segregação no emprego.",
-"x": "Negar ou obstar emprego em empresa privada por motivo de discriminação racial é crime do art. 4º da Lei 7.716, punido com reclusão de 2 a 5 anos.",
-"e": "Negar emprego: art. 4º."
-},
-{
-"p": "Segundo o STF, a homofobia e a transfobia se enquadram nos crimes previstos na Lei 7.716/1989 até que o Congresso Nacional edite lei específica.",
-"c": true,
-"prof": "Certo. ADO 26 e MI 4.733.",
-"x": "O STF entendeu que o racismo tem dimensão social e abrange a discriminação contra pessoas LGBTQIA+, aplicando a Lei 7.716 até a edição de lei própria.",
-"e": "Homofobia: Lei 7.716."
-},
-{
-"p": "A injúria praticada em razão da religião da vítima foi transferida para a Lei 7.716/1989 pela Lei 14.532/2023.",
-"c": false,
-"prof": "Continua no CP.",
-"x": "A Lei 14.532/2023 transferiu a injúria por raça, cor, etnia ou procedência nacional. A injúria por religião e pela condição de pessoa idosa ou com deficiência continua no art. 140, § 3º, do CP.",
-"e": "Religião: CP, art. 140, § 3º."
-},
-{
-"p": "Praticar, induzir ou incitar a discriminação racial por meio de redes sociais tem pena de:",
-"alts": [
-"detenção de 1 a 6 meses",
-"reclusão de 1 a 3 anos",
-"reclusão de 2 a 5 anos",
-"reclusão de 4 a 8 anos",
-"apenas multa"
-],
-"r": 2,
-"n": [
-"Não corresponde.",
-"É a pena do caput do art. 20.",
-"Correta: art. 20, § 2º.",
-"Não corresponde.",
-"Não corresponde."
-],
-"prof": "Meio de comunicação qualifica.",
-"x": "O caput do art. 20 prevê reclusão de 1 a 3 anos; se o crime é cometido por meio dos meios de comunicação social, redes sociais ou publicações, a pena passa a reclusão de 2 a 5 anos.",
-"e": "Redes sociais: 2 a 5."
-}
-]
-},
-"eca": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>12</b><span>anos incompletos: limite entre criança e adolescente</span></div><div class=\"lt-stat\"><b>3 anos</b><span>prazo máximo da internação</span></div><div class=\"lt-stat\"><b>45 dias</b><span>prazo máximo da internação provisória</span></div><div class=\"lt-stat\"><b>21</b><span>anos: liberação compulsória do internado</span></div></div>\n<h3>1. Conceitos</h3>\n<ul><li><b>Criança</b>: pessoa <b>até 12 anos incompletos</b>. <b>Adolescente</b>: entre <b>12 e 18 anos</b> (ECA, art. 2º). Excepcionalmente, o ECA se aplica a pessoas entre 18 e 21 anos (cumprimento de medida aplicada antes dos 18).</li><li><b>Ato infracional</b> (art. 103): a conduta descrita como <b>crime ou contravenção penal</b> praticada por criança ou adolescente. Menores de 18 são <b>penalmente inimputáveis</b> (CF, art. 228), e a idade considerada é a <b>da data do fato</b> (art. 104, p. único).</li><li><b>Doutrina da proteção integral</b> e <b>prioridade absoluta</b> (CF, art. 227): crianças e adolescentes são sujeitos de direitos, em condição peculiar de desenvolvimento.</li></ul>\n<h3>2. Criança x adolescente que pratica ato infracional</h3>\n<table class=\"tab\"><thead><tr><th>Quem</th><th>Consequência</th><th>Quem aplica</th></tr></thead><tbody><tr><td><b>Criança</b></td><td><b>medidas de proteção</b> (art. 101): encaminhamento aos pais, orientação e acompanhamento, matrícula em escola, inclusão em programa comunitário, tratamento médico ou psicológico, acolhimento institucional</td><td><b>Conselho Tutelar</b> (e o juiz)</td></tr><tr><td><b>Adolescente</b></td><td><b>medidas socioeducativas</b> (art. 112), podendo ser cumuladas com as de proteção</td><td><b>somente o juiz</b> da Infância e Juventude (<b>Súmula 108 do STJ</b>), após o devido processo</td></tr></tbody></table>\n<h3>3. Medidas socioeducativas (arts. 112 a 125)</h3>\n<table class=\"tab\"><thead><tr><th>Medida</th><th>Regras</th></tr></thead><tbody><tr><td><b>Advertência</b></td><td>admoestação verbal, reduzida a termo; basta prova da materialidade e <b>indícios</b> de autoria</td></tr><tr><td><b>Obrigação de reparar o dano</b></td><td>em atos com reflexos patrimoniais: restituir a coisa, ressarcir ou compensar o prejuízo</td></tr><tr><td><b>Prestação de serviços à comunidade</b></td><td>tarefas gratuitas de interesse geral, por período <b>não excedente a 6 meses</b>, jornada máxima de <b>8 horas semanais</b>, sem prejudicar escola ou trabalho</td></tr><tr><td><b>Liberdade assistida</b></td><td>acompanhamento por orientador, <b>prazo mínimo de 6 meses</b>, podendo ser prorrogada, revogada ou substituída</td></tr><tr><td><b>Semiliberdade</b></td><td>desde o início ou como transição para o meio aberto; permite atividades externas; escolarização e profissionalização obrigatórias; sem prazo determinado (máximo de 3 anos, por analogia)</td></tr><tr><td><b>Internação</b></td><td>privação de liberdade sujeita aos princípios da <b>brevidade</b>, <b>excepcionalidade</b> e respeito à condição peculiar de pessoa em desenvolvimento; <b>sem prazo determinado</b>, reavaliação <b>no máximo a cada 6 meses</b>; <b>máximo de 3 anos</b>; <b>liberação compulsória aos 21 anos</b></td></tr></tbody></table>\n<ul><li><b>Hipóteses de internação</b> (art. 122, rol <b>taxativo</b>): I – ato infracional cometido mediante <b>grave ameaça ou violência a pessoa</b>; II – <b>reiteração</b> no cometimento de outras infrações graves; III – <b>descumprimento reiterado e injustificável</b> de medida anteriormente imposta (internação-sanção, por <b>até 3 meses</b>). Em nenhuma hipótese será aplicada a internação <b>havendo outra medida adequada</b>.</li><li><b>Súmula 492 do STJ</b>: \"o ato infracional análogo ao <b>tráfico de drogas</b>, <b>por si só</b>, <b>não conduz obrigatoriamente</b> à imposição de medida socioeducativa de internação do adolescente\".</li><li><b>Súmula 338 do STJ</b>: a <b>prescrição penal</b> é aplicável às medidas socioeducativas. <b>Súmula 265 do STJ</b>: é necessária a oitiva do menor infrator antes de decretar-se a regressão da medida.</li><li><b>Remissão</b> (art. 126): forma de <b>exclusão</b> do processo (concedida pelo <b>MP</b>, antes de iniciado o procedimento) ou de <b>suspensão ou extinção</b> (concedida pelo <b>juiz</b>, depois de iniciado). Não implica reconhecimento de responsabilidade nem prevalece para antecedentes, e pode incluir medida não privativa de liberdade.</li></ul>\n<h3>4. Apreensão e atuação policial (arts. 106 a 109 e 171 a 178)</h3>\n<ul><li><b>Apreensão</b> (art. 106): nenhum adolescente será privado de sua liberdade senão em <b>flagrante de ato infracional</b> ou por <b>ordem escrita e fundamentada</b> da autoridade judiciária competente. O adolescente tem direito à <b>identificação dos responsáveis</b> pela apreensão e deve ser informado de seus direitos.</li><li><b>Comunicação</b> (art. 107): a apreensão e o local onde se encontra recolhido serão <b>incontinenti comunicados</b> à <b>autoridade judiciária</b> e à <b>família</b> do apreendido ou à pessoa por ele indicada. Examina-se, desde logo e sob pena de responsabilidade, a possibilidade de <b>liberação imediata</b>.</li><li><b>Internação provisória</b> (art. 108): antes da sentença, pode ser determinada pelo <b>prazo máximo de 45 dias</b>, com decisão fundamentada baseada em indícios suficientes de autoria e materialidade e na necessidade imperiosa da medida.</li><li><b>Identificação</b> (art. 109): o adolescente <b>civilmente identificado</b> não será submetido a identificação compulsória pelos órgãos policiais, salvo para efeito de <b>confrontação</b>, havendo <b>dúvida fundada</b>.</li></ul>\n<div class=\"lt-fluxo\"><span>Apreensão em flagrante</span> <em>→</em> <span>Encaminhamento à autoridade policial (de preferência repartição especializada)</span> <em>→</em> <span>Ato com violência ou grave ameaça: auto de apreensão; demais casos: boletim de ocorrência circunstanciada</span> <em>→</em> <span>Liberação aos pais com termo de compromisso, salvo gravidade</span> <em>→</em> <span>Não liberado: apresentação imediata ao MP (ou entidade de atendimento em até 24 h)</span></div>\n<ul><li><b>Procedimento</b> (arts. 172 a 176): o adolescente apreendido em flagrante será encaminhado à <b>autoridade policial competente</b> (havendo repartição especializada, a ela). Em ato infracional cometido <b>mediante violência ou grave ameaça</b>, a autoridade <b>lavrará auto de apreensão</b>, ouvirá testemunhas e o adolescente, apreenderá o produto e os instrumentos e requisitará exames; nas <b>demais hipóteses</b>, o auto pode ser substituído por <b>boletim de ocorrência circunstanciada</b>.</li><li><b>Liberação</b> (art. 174): comparecendo qualquer dos <b>pais ou responsável</b>, o adolescente será <b>prontamente liberado</b> pela autoridade policial, sob <b>termo de compromisso</b> de apresentação ao MP, <b>exceto</b> quando, pela <b>gravidade</b> do ato e sua <b>repercussão social</b>, deva permanecer internado para garantia de sua segurança pessoal ou manutenção da ordem pública. Não liberado, será encaminhado <b>desde logo ao MP</b>; sendo impossível, a entidade de atendimento o apresentará em até <b>24 horas</b>.</li><li><b>Transporte</b> (art. 178): o adolescente <b>não poderá ser conduzido ou transportado em compartimento fechado de veículo policial</b>, em condições atentatórias à sua dignidade ou que impliquem risco à sua integridade física ou mental, sob pena de responsabilidade.</li></ul>\n<h3>5. Crimes previstos no ECA (destaques)</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>230</b></td><td><b>privar</b> a criança ou adolescente de sua liberdade, procedendo à sua apreensão <b>sem estar em flagrante</b> ou sem ordem escrita da autoridade judiciária</td><td>detenção de 6 meses a 2 anos</td></tr><tr><td><b>232</b></td><td>submeter criança ou adolescente sob sua autoridade, guarda ou vigilância a <b>vexame ou constrangimento</b></td><td>detenção de 6 meses a 2 anos</td></tr><tr><td><b>234</b></td><td>deixar a autoridade competente, sem justa causa, de ordenar a <b>imediata liberação</b> de adolescente, tão logo tenha conhecimento da <b>ilegalidade</b> da apreensão</td><td>detenção de 6 meses a 2 anos</td></tr><tr><td><b>240</b></td><td><b>produzir, reproduzir, dirigir, fotografar, filmar ou registrar</b> cena de sexo explícito ou pornográfica envolvendo criança ou adolescente</td><td>reclusão de <b>4 a 8 anos</b></td></tr><tr><td><b>241</b></td><td><b>vender ou expor à venda</b> esse material</td><td>reclusão de <b>4 a 8 anos</b></td></tr><tr><td><b>241-A</b></td><td><b>oferecer, trocar, disponibilizar, transmitir, distribuir, publicar ou divulgar</b> o material, inclusive pela internet</td><td>reclusão de <b>3 a 6 anos</b></td></tr><tr><td><b>241-B</b></td><td><b>adquirir, possuir ou armazenar</b> o material</td><td>reclusão de <b>1 a 4 anos</b> (diminuição de 1 a 2/3 se pequena quantidade)</td></tr><tr><td><b>241-D</b></td><td><b>aliciar, assediar, instigar ou constranger</b>, por qualquer meio de comunicação, criança, com o fim de com ela praticar ato libidinoso</td><td>reclusão de 1 a 3 anos</td></tr><tr><td><b>242</b></td><td><b>vender, fornecer ou entregar arma</b>, munição ou explosivo a criança ou adolescente</td><td>reclusão de 3 a 6 anos</td></tr><tr><td><b>243</b></td><td>vender, fornecer ou entregar <b>bebida alcoólica</b> ou produtos que causem dependência</td><td>detenção de 2 a 4 anos, se o fato não constitui crime mais grave</td></tr><tr><td><b>244-B</b></td><td><b>corromper ou facilitar a corrupção</b> de menor de 18, com ele praticando infração penal ou induzindo-o a praticá-la</td><td>reclusão de <b>1 a 4 anos</b>; aumento de <b>1/3</b> se a infração for <b>hedionda</b></td></tr></tbody></table>\n<ul><li><b>Súmula 500 do STJ</b>: a configuração do crime de <b>corrupção de menores</b> (art. 244-B) <b>independe da prova da efetiva corrupção</b> do menor, por se tratar de <b>delito formal</b>.</li><li>Os crimes do ECA são de <b>ação penal pública incondicionada</b> (art. 227).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Criança que pratica ato infracional recebe medida socioeducativa</span><br>✅ <span class=\"certo\">Recebe medida de proteção.</span></li><li>❌ <span class=\"banca\">O Conselho Tutelar aplica medidas socioeducativas</span><br>✅ <span class=\"certo\">Só o juiz (Súmula 108 do STJ).</span></li><li>❌ <span class=\"banca\">Tráfico de drogas leva sempre à internação</span><br>✅ <span class=\"certo\">Súmula 492 do STJ.</span></li><li>❌ <span class=\"banca\">Internação provisória pode durar 90 dias</span><br>✅ <span class=\"certo\">Máximo de 45 dias.</span></li><li>❌ <span class=\"banca\">Pode-se transportar o adolescente no compartimento fechado da viatura</span><br>✅ <span class=\"certo\">Vedado (art. 178).</span></li><li>❌ <span class=\"banca\">Corrupção de menores exige prova de que o menor foi corrompido</span><br>✅ <span class=\"certo\">Crime formal (Súmula 500).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Criança?</span></span><span class=\"vs\"><span>Até <b>12 anos incompletos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Adolescente?</span></span><span class=\"vs\"><span>De <b>12 a 18</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Medidas socioeducativas?</span></span><span class=\"vs\"><span>Advertência, reparação, PSC, liberdade assistida, semiliberdade, <b>internação</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Internação?</span></span><span class=\"vs\"><span>Reavaliação a cada <b>6 meses</b>, máximo <b>3 anos</b>, liberação aos <b>21</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Internação provisória?</span></span><span class=\"vs\"><span><b>45 dias</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hipóteses de internação?</span></span><span class=\"vs\"><span><b>Violência ou grave ameaça</b>, <b>reiteração</b> em infrações graves, <b>descumprimento</b> reiterado.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ato com violência?</span></span><span class=\"vs\"><span><b>Auto de apreensão</b>; demais: boletim circunstanciado.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Súmula 500 do STJ?</span></span><span class=\"vs\"><span>Corrupção de menores é <b>formal</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O adolescente do roubo</b><p>Um adolescente de 16 anos é apreendido em flagrante logo após roubar um celular com uma faca. A mãe chega à delegacia uma hora depois.</p><details><summary>Ver a solução comentada</summary><p>Por ser ato infracional com <b>grave ameaça</b>, a autoridade <b>lavra auto de apreensão</b> (art. 173), ouve testemunhas e o adolescente, apreende a faca e o celular. A <b>liberação à mãe</b>, sob termo de compromisso, é a regra (art. 174), mas pode ser negada pela <b>gravidade e repercussão</b> do ato; nesse caso, ele é apresentado ao <b>MP</b> imediatamente. A apreensão é comunicada <b>incontinenti</b> ao juiz e à família. Ele não pode ser transportado no <b>compartimento fechado</b> da viatura. A internação, se aplicada, encontra base no art. 122, I (grave ameaça).</p></details></div>",
-"quiz": [
-{
-"p": "A apreensão de adolescente e o local onde se encontra recolhido serão incontinenti comunicados à autoridade judiciária competente e à família do apreendido ou à pessoa por ele indicada.",
-"c": true,
-"prof": "Certo. ECA, art. 107.",
-"x": "Deve-se examinar, desde logo e sob pena de responsabilidade, a possibilidade de liberação imediata.",
-"e": "Comunica juiz e família."
-},
-{
-"p": "A internação provisória do adolescente, antes da sentença, pode ser determinada pelo prazo máximo de 90 dias.",
-"c": false,
-"prof": "O prazo é de 45 dias.",
-"x": "O art. 108 limita a internação provisória a 45 dias, com decisão fundamentada em indícios suficientes de autoria e materialidade.",
-"e": "Provisória: 45 dias."
-},
-{
-"p": "A medida socioeducativa de internação:",
-"alts": [
-"tem prazo fixo de 3 anos, definido na sentença",
-"pode ser aplicada pelo Conselho Tutelar",
-"não comporta prazo determinado, deve ser reavaliada no máximo a cada 6 meses e não pode exceder 3 anos",
-"é obrigatória no ato infracional análogo ao tráfico",
-"pode durar até os 25 anos do internado"
-],
-"r": 2,
-"n": [
-"O prazo é indeterminado, com teto.",
-"Só o juiz aplica.",
-"Correta: art. 121.",
-"Súmula 492 do STJ.",
-"Liberação compulsória aos 21."
-],
-"prof": "Brevidade e excepcionalidade.",
-"x": "A internação não tem prazo determinado, é reavaliada no máximo a cada 6 meses, tem teto de 3 anos e liberação compulsória aos 21 anos.",
-"e": "Internação: até 3 anos."
-},
-{
-"p": "Segundo a Súmula 500 do STJ, o crime de corrupção de menores é formal e se configura independentemente da prova da efetiva corrupção do menor.",
-"c": true,
-"prof": "Certo.",
-"x": "Basta que o adulto pratique infração penal com o menor ou o induza a praticá-la (art. 244-B do ECA). A pena aumenta de 1/3 se a infração for hedionda.",
-"e": "Corrupção de menores: formal."
-},
-{
-"p": "Nos atos infracionais cometidos sem violência ou grave ameaça, a autoridade policial deve sempre lavrar auto de apreensão, vedada a substituição por boletim de ocorrência.",
-"c": false,
-"prof": "Pode ser substituído.",
-"x": "O art. 173, parágrafo único, permite substituir o auto de apreensão por boletim de ocorrência circunstanciada nas hipóteses sem violência ou grave ameaça.",
-"e": "Sem violência: boletim circunstanciado."
-},
-{
-"p": "A criança que pratica ato infracional:",
-"alts": [
-"recebe medida socioeducativa de internação",
-"é processada na Vara Criminal",
-"fica sujeita a medidas de proteção, como encaminhamento aos pais e matrícula em escola",
-"não sofre nenhuma consequência",
-"é apreendida e apresentada ao MP"
-],
-"r": 2,
-"n": [
-"Medidas socioeducativas são para adolescentes.",
-"É inimputável.",
-"Correta: arts. 105 e 101.",
-"Recebe medidas de proteção.",
-"O procedimento é próprio do adolescente."
-],
-"prof": "Criança: proteção.",
-"x": "Ao ato infracional praticado por criança correspondem as medidas de proteção do art. 101, aplicadas, em regra, pelo Conselho Tutelar.",
-"e": "Criança: medidas de proteção."
-}
-]
-},
-"ambientais": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>9.605</b><span>Lei de Crimes Ambientais (1998)</span></div><div class=\"lt-stat\"><b>3</b><span>esferas de responsabilidade: penal, administrativa e civil</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão: maus-tratos a cão ou gato (Lei 14.064/2020)</span></div><div class=\"lt-stat\"><b>4</b><span>anos: limite para a substituição da pena na Lei 9.605 (pena inferior a 4)</span></div></div>\n<h3>1. Fundamentos</h3>\n<ul><li>A CF (art. 225, § 3º) determina que as condutas lesivas ao meio ambiente sujeitarão os infratores, <b>pessoas físicas ou jurídicas</b>, a <b>sanções penais e administrativas</b>, independentemente da obrigação de <b>reparar os danos</b>. A <b>Lei 9.605/1998</b> regulamenta as esferas penal e administrativa.</li></ul>\n<h3>2. Responsabilidade penal da pessoa jurídica</h3>\n<ul><li><b>Art. 3º</b>: as pessoas jurídicas serão responsabilizadas administrativa, civil e penalmente nos casos em que a infração seja cometida <b>por decisão de seu representante legal ou contratual, ou de seu órgão colegiado</b>, <b>no interesse ou benefício da sua entidade</b>. A responsabilidade da PJ <b>não exclui</b> a das pessoas físicas autoras, coautoras ou partícipes.</li><li><b>Dupla imputação</b>: o <b>STF</b> (RE 548.181) e, depois, o <b>STJ</b> abandonaram a exigência de denunciar simultaneamente a pessoa física: a PJ pode ser processada <b>sozinha</b>.</li><li><b>Penas da PJ</b> (arts. 21 a 24): <b>multa</b>, <b>restritivas de direitos</b> (suspensão parcial ou total de atividades, interdição temporária, proibição de contratar com o Poder Público) e <b>prestação de serviços à comunidade</b> (custeio de programas ambientais, recuperação de áreas degradadas). A PJ constituída ou utilizada para permitir, facilitar ou ocultar crime ambiental terá <b>liquidação forçada</b>, e seu patrimônio será considerado instrumento do crime.</li><li><b>Desconsideração</b> (art. 4º): poderá ser desconsiderada a PJ sempre que sua personalidade for <b>obstáculo ao ressarcimento</b> dos prejuízos ao meio ambiente.</li></ul>\n<h3>3. Penas e benefícios para a pessoa física</h3>\n<ul><li><b>Substituição por restritivas</b> (art. 7º): quando se tratar de <b>crime culposo</b> ou for aplicada pena privativa de liberdade <b>inferior a 4 anos</b> (o CP admite \"não superior a 4\"). Penas restritivas próprias: prestação de serviços à comunidade, <b>interdição temporária de direitos</b>, suspensão de atividades, prestação pecuniária, <b>recolhimento domiciliar</b>.</li><li><b>Atenuantes próprias</b> (art. 14): baixo grau de instrução ou escolaridade; arrependimento manifestado pela espontânea reparação do dano; comunicação prévia do perigo iminente de degradação; colaboração com os agentes de vigilância. <b>Agravantes</b> (art. 15): reincidência em crime ambiental, para obter vantagem pecuniária, atingindo áreas de unidades de conservação, em período de defeso à fauna, à noite, em domingos ou feriados, com abuso de licença.</li><li><b>Transação penal</b> (art. 27): nas infrações de menor potencial ofensivo, a proposta de aplicação imediata de pena só pode ser formulada desde que tenha havido a <b>prévia composição do dano ambiental</b>, salvo comprovada impossibilidade. <b>Suspensão condicional do processo</b> (art. 28): a extinção da punibilidade depende de <b>laudo de constatação de reparação do dano</b> ambiental.</li><li><b>Ação penal</b>: <b>pública incondicionada</b> (art. 26).</li></ul>\n<h3>4. Crimes contra a fauna (arts. 29 a 37)</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>29</b></td><td><b>matar, perseguir, caçar, apanhar, utilizar</b> espécimes da <b>fauna silvestre</b>, nativos ou em rota migratória, <b>sem permissão, licença ou autorização</b></td><td>detenção de 6 meses a 1 ano e multa. <b>§ 2º</b>: em caso de <b>guarda doméstica</b> de espécie silvestre <b>não ameaçada de extinção</b>, o juiz pode deixar de aplicar a pena (<b>perdão judicial</b>)</td></tr><tr><td><b>32</b></td><td>praticar ato de <b>abuso, maus-tratos, ferir ou mutilar</b> animais silvestres, domésticos ou domesticados, nativos ou exóticos</td><td>detenção de 3 meses a 1 ano e multa; <b>§ 1º-A</b>: se se tratar de <b>cão ou gato</b>, reclusão de <b>2 a 5 anos</b>, multa e proibição da guarda; aumento de 1/6 a 1/3 se ocorre <b>morte</b> do animal</td></tr><tr><td><b>33</b></td><td>provocar, pela emissão de efluentes, o <b>perecimento de espécimes</b> da fauna aquática</td><td>detenção de 1 a 3 anos</td></tr><tr><td><b>34</b></td><td><b>pescar</b> em período proibido ou em lugares interditados</td><td>detenção de 1 a 3 anos ou multa</td></tr></tbody></table>\n<ul><li><b>Não é crime</b> o abate de animal (art. 37): em <b>estado de necessidade</b>, para saciar a <b>fome</b> do agente ou de sua família; para <b>proteger lavouras, pomares e rebanhos</b> da ação predatória ou destruidora de animais, desde que legal e expressamente autorizado pela autoridade competente; por ser <b>nocivo</b> o animal, assim caracterizado pelo órgão competente.</li></ul>\n<h3>5. Crimes contra a flora (arts. 38 a 53)</h3>\n<ul><li><b>Art. 38</b>: destruir ou danificar <b>floresta considerada de preservação permanente</b>, mesmo que em formação, ou utilizá-la com infringência das normas de proteção: detenção de 1 a 3 anos ou multa (culposo: pena reduzida à metade). <b>Art. 38-A</b>: o mesmo em vegetação do <b>Bioma Mata Atlântica</b>.</li><li><b>Art. 41</b>: <b>provocar incêndio em mata ou floresta</b>: reclusão de <b>2 a 4 anos</b> e multa; culposo: detenção de 6 meses a 1 ano.</li><li><b>Art. 42</b>: <b>fabricar, vender, transportar ou soltar balões</b> que possam provocar incêndios nas florestas e demais formas de vegetação, em áreas urbanas ou qualquer tipo de assentamento humano: detenção de 1 a 3 anos ou multa.</li><li><b>Art. 46</b>: receber ou adquirir madeira, lenha, carvão sem exigir a exibição de <b>licença</b> do vendedor e sem munir-se da via que deverá acompanhar o produto até o final do beneficiamento.</li></ul>\n<h3>6. Poluição, ordenamento urbano e administração ambiental</h3>\n<ul><li><b>Poluição</b> (art. 54): causar poluição de qualquer natureza em níveis tais que resultem ou possam resultar em <b>danos à saúde humana</b>, ou que provoquem a mortandade de animais ou a destruição significativa da flora: reclusão de <b>1 a 4 anos</b> e multa; culposo: detenção de 6 meses a 1 ano. Formas qualificadas: tornar área imprópria para ocupação humana, causar poluição hídrica que interrompa o abastecimento público, etc. (reclusão de 1 a 5 anos).</li><li><b>Atividade sem licença</b> (art. 60): construir, reformar, ampliar, instalar ou fazer funcionar estabelecimentos, obras ou serviços potencialmente poluidores <b>sem licença</b> ou autorização dos órgãos ambientais.</li><li><b>Patrimônio cultural e urbano</b> (arts. 62 a 65): destruir bem especialmente protegido; <b>pichar</b> ou por outro meio conspurcar edificação ou monumento urbano: detenção de 3 meses a 1 ano e multa (6 meses a 1 ano se o bem for tombado). <b>Não constitui crime</b> a prática de <b>grafite</b> realizada com o objetivo de valorizar o patrimônio, <b>com consentimento do proprietário</b> e, quando couber, autorização do órgão competente (art. 65, § 2º).</li><li><b>Crimes contra a Administração ambiental</b> (arts. 66 a 69-A): o <b>funcionário público</b> que faz afirmação falsa ou enganosa, omite a verdade ou sonega informações em procedimentos de licenciamento (art. 66); que <b>concede licença</b> em desacordo com as normas ambientais (art. 67); dificultar a fiscalização ambiental (art. 69); elaborar laudo ou estudo <b>falso</b> ou enganoso no licenciamento (art. 69-A).</li></ul>\n<h3>7. Competência e insignificância</h3>\n<ul><li>Em regra, <b>Justiça Estadual</b>. <b>Federal</b> quando o crime atinge <b>bens, serviços ou interesse da União</b> (terra indígena, unidade de conservação federal, rio interestadual, mar territorial, espécie ameaçada de extinção em tráfico internacional). O cancelamento da antiga Súmula 91 do STJ reforçou que a fauna, por si só, não atrai competência federal.</li><li><b>Insignificância</b>: o STJ e o STF a admitem <b>excepcionalmente</b> nos crimes ambientais, quando a lesão é ínfima (pesca de pouquíssimos peixes sem petrecho proibido), mas a afastam quando a conduta atinge espécie ameaçada ou área protegida.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A pessoa jurídica só responde se a pessoa física também for denunciada</span><br>✅ <span class=\"certo\">STF/STJ: dupla imputação não é exigida.</span></li><li>❌ <span class=\"banca\">Na Lei 9.605 a substituição exige pena não superior a 4 anos</span><br>✅ <span class=\"certo\">Exige pena INFERIOR a 4 anos (ou crime culposo).</span></li><li>❌ <span class=\"banca\">Matar animal para saciar a fome é crime</span><br>✅ <span class=\"certo\">Não é crime (art. 37, I).</span></li><li>❌ <span class=\"banca\">Grafite é sempre pichação</span><br>✅ <span class=\"certo\">Com consentimento do proprietário não é crime.</span></li><li>❌ <span class=\"banca\">Maus-tratos a cão: detenção de 3 meses a 1 ano</span><br>✅ <span class=\"certo\">Cão ou gato: reclusão de 2 a 5 anos.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Responsabilidade da PJ?</span></span><span class=\"vs\"><span>Decisão do <b>representante ou órgão colegiado</b>, <b>no interesse ou benefício</b> da entidade.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dupla imputação?</span></span><span class=\"vs\"><span><b>Não exigida</b> (STF/STJ).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Substituição da pena?</span></span><span class=\"vs\"><span>Crime <b>culposo</b> ou pena <b>inferior a 4 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Transação penal ambiental?</span></span><span class=\"vs\"><span>Exige <b>prévia composição do dano</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Maus-tratos a cão/gato?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 5 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Incêndio em floresta?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 4 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Soltar balão?</span></span><span class=\"vs\"><span>Crime (art. 42).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Grafite autorizado?</span></span><span class=\"vs\"><span><b>Não é crime</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O cachorro amarrado no sol</b><p>Vizinhos denunciam que um homem mantém o cão amarrado sem água, ao sol, ferido e magro. A polícia constata os maus-tratos.</p><details><summary>Ver a solução comentada</summary><p>O art. 32, <b>§ 1º-A</b>, da Lei 9.605 (Lei 14.064/2020) pune maus-tratos a <b>cão ou gato</b> com <b>reclusão de 2 a 5 anos</b>, multa e <b>proibição da guarda</b>. Como a pena máxima supera 2 anos, <b>não</b> é infração de menor potencial ofensivo: lavra-se <b>auto de prisão em flagrante</b> se houver flagrância (a conduta é permanente enquanto durar a situação de maus-tratos). Se o animal morrer, a pena aumenta de 1/6 a 1/3. A ação é pública incondicionada.</p></details></div>",
-"quiz": [
-{
-"p": "As pessoas jurídicas serão responsabilizadas penalmente nos casos em que a infração seja cometida por decisão de seu representante legal ou contratual, ou de seu órgão colegiado, no interesse ou benefício da sua entidade.",
-"c": true,
-"prof": "Certo. Art. 3º da Lei 9.605/1998.",
-"x": "A responsabilidade da pessoa jurídica não exclui a das pessoas físicas, mas, segundo o STF e o STJ, a PJ pode ser processada sem a denúncia simultânea da pessoa física.",
-"e": "PJ: decisão + benefício."
-},
-{
-"p": "Os maus-tratos contra cão ou gato são punidos com detenção de três meses a um ano, constituindo infração de menor potencial ofensivo.",
-"c": false,
-"prof": "Reclusão de 2 a 5 anos.",
-"x": "A Lei 14.064/2020 incluiu o § 1º-A no art. 32: maus-tratos a cão ou gato têm pena de reclusão de 2 a 5 anos, multa e proibição da guarda.",
-"e": "Cão e gato: 2 a 5."
-},
-{
-"p": "Nos crimes ambientais de menor potencial ofensivo, a proposta de transação penal:",
-"alts": [
-"é vedada",
-"pode ser feita independentemente da reparação do dano",
-"somente pode ser formulada se houver prévia composição do dano ambiental, salvo comprovada impossibilidade",
-"depende de autorização do órgão ambiental",
-"só cabe para pessoa jurídica"
-],
-"r": 2,
-"n": [
-"É cabível.",
-"Exige composição prévia.",
-"Correta: art. 27.",
-"Não há essa exigência.",
-"Cabe para pessoas físicas e jurídicas."
-],
-"prof": "Primeiro reparar.",
-"x": "O art. 27 condiciona a transação penal à prévia composição do dano ambiental. Na suspensão condicional do processo, a extinção depende de laudo de constatação da reparação (art. 28).",
-"e": "Transação: reparar antes."
-},
-{
-"p": "Não é crime o abate de animal quando realizado em estado de necessidade, para saciar a fome do agente ou de sua família.",
-"c": true,
-"prof": "Certo. Art. 37, I.",
-"x": "Também não é crime o abate para proteger lavouras e rebanhos, com autorização, e o de animal declarado nocivo pelo órgão competente.",
-"e": "Fome: não é crime."
-},
-{
-"p": "Na Lei 9.605/1998, a pena privativa de liberdade pode ser substituída por restritiva de direitos quando aplicada pena não superior a quatro anos, nos mesmos moldes do Código Penal.",
-"c": false,
-"prof": "Exige pena inferior a 4 anos.",
-"x": "O art. 7º da Lei 9.605 exige crime culposo ou pena privativa de liberdade inferior a 4 anos, critério diferente do art. 44 do CP (não superior a 4).",
-"e": "Ambiental: inferior a 4."
-},
-{
-"p": "A prática de grafite realizada com o objetivo de valorizar o patrimônio, com consentimento do proprietário:",
-"alts": [
-"configura pichação, com pena de detenção",
-"configura dano qualificado",
-"não constitui crime",
-"é crime apenas se feita em bem tombado",
-"depende sempre de licença federal"
-],
-"r": 2,
-"n": [
-"O § 2º do art. 65 a exclui.",
-"Não há dano.",
-"Correta.",
-"Em bem público, exige-se também autorização do órgão competente.",
-"Não há essa exigência."
-],
-"prof": "Grafite autorizado.",
-"x": "O art. 65, § 2º, exclui o crime quando o grafite valoriza o patrimônio e há consentimento do proprietário e, quando couber, autorização do órgão competente.",
-"e": "Grafite com consentimento: lícito."
-}
-]
-},
-"jecrim": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2 anos</b><span>pena máxima da infração de menor potencial ofensivo</span></div><div class=\"lt-stat\"><b>5</b><span>critérios: oralidade, simplicidade, informalidade, economia processual e celeridade</span></div><div class=\"lt-stat\"><b>3</b><span>fases: preliminar, procedimento sumaríssimo e recursos</span></div><div class=\"lt-stat\"><b>0</b><span>institutos da Lei 9.099 aplicáveis à violência doméstica contra a mulher</span></div></div>\n<h3>1. Previsão e competência</h3>\n<ul><li>CF, art. 98, I: União e Estados criarão <b>juizados especiais</b>, providos por juízes togados ou togados e leigos, competentes para a <b>conciliação, o julgamento e a execução</b> de causas cíveis de menor complexidade e de <b>infrações penais de menor potencial ofensivo</b>, mediante procedimento <b>oral e sumaríssimo</b>, permitidos a <b>transação</b> e o julgamento de recursos por <b>turmas de juízes de primeiro grau</b>.</li><li><b>Lei 9.099/1995</b> (Juizados estaduais) e <b>Lei 10.259/2001</b> (Juizados federais).</li><li><b>Infração de menor potencial ofensivo</b> (art. 61): <b>contravenções</b> e <b>crimes com pena máxima não superior a 2 anos</b>, cumulada ou não com multa. Exemplos: lesão corporal leve, ameaça, desacato, desobediência, porte de droga para consumo pessoal (art. 28 da Lei de Drogas), vias de fato, perturbação do sossego, crimes contra a honra (salvo injúria racial).</li><li><b>Competência territorial</b> (art. 63): lugar em que foi <b>praticada</b> a infração penal.</li><li><b>Conexão e continência</b> (art. 60, p. único): se a infração de menor potencial for reunida com crime mais grave no <b>juízo comum</b> ou no <b>Júri</b>, observam-se os institutos da <b>transação penal</b> e da <b>composição dos danos</b> quanto a ela.</li><li><b>Afastamento da competência</b>: quando o acusado <b>não é encontrado</b> para citação pessoal (vai ao juízo comum, art. 66, p. único) e quando a <b>complexidade</b> do caso não permitir a formulação da denúncia (art. 77, § 2º).</li></ul>\n<h3>2. Exclusões importantes</h3>\n<ul><li><b>Violência doméstica e familiar contra a mulher</b>: <b>não se aplica a Lei 9.099</b>, independentemente da pena prevista (Lei 11.340/2006, art. 41). <b>Súmula 536 do STJ</b>: a <b>suspensão condicional do processo</b> e a <b>transação penal</b> <b>não se aplicam</b> na hipótese de delitos sujeitos ao rito da Lei Maria da Penha. A lesão leve contra a mulher, nesse contexto, é de ação <b>pública incondicionada</b> (Súmula 542).</li><li><b>Justiça Militar</b>: as disposições da Lei 9.099 <b>não se aplicam</b> no âmbito da Justiça Militar (art. 90-A).</li><li><b>Estatuto da Pessoa Idosa</b> (art. 94): aplica-se o <b>procedimento</b> da Lei 9.099 aos crimes contra idosos com pena máxima até 4 anos, mas <b>não os benefícios</b> despenalizadores (STF, ADI 3.096).</li></ul>\n<h3>3. Fase policial e fase preliminar</h3>\n<ul><li><b>TCO</b> (art. 69): a autoridade policial lavra <b>termo circunstanciado</b> e o encaminha imediatamente ao Juizado, com o autor e a vítima. <b>Não se impõe prisão em flagrante nem se exige fiança</b> se o autor for encaminhado ao Juizado ou assumir o compromisso de comparecer. O STF admite a lavratura do TCO pela Polícia Militar (ADI 5.637).</li><li><b>Audiência preliminar</b>: o juiz (ou conciliador) esclarece sobre a <b>composição civil dos danos</b> e a <b>transação penal</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instituto</th><th>Quando</th><th>Efeito</th></tr></thead><tbody><tr><td><b>Composição civil</b> (art. 74)</td><td>acordo entre autor e vítima sobre a reparação</td><td>homologado, é <b>título executivo</b>; na ação <b>privada ou condicionada</b>, acarreta <b>renúncia</b> ao direito de queixa ou representação</td></tr><tr><td><b>Representação</b> (art. 75)</td><td>não havendo acordo, a vítima pode representar <b>verbalmente</b> na audiência</td><td>se não o fizer, mantém o prazo decadencial de 6 meses</td></tr><tr><td><b>Transação penal</b> (art. 76)</td><td>MP propõe pena restritiva de direitos ou multa</td><td>não gera reincidência nem antecedentes; impede novo benefício por 5 anos; descumprida, o MP retoma a persecução (SV 35)</td></tr><tr><td><b>Suspensão condicional do processo</b> (art. 89)</td><td>crimes com pena <b>mínima</b> até 1 ano (dentro ou fora do Juizado)</td><td>período de prova de 2 a 4 anos; cumprido, extingue-se a punibilidade</td></tr></tbody></table>\n<ul><li><b>Representação nas lesões</b> (art. 88): dependerá de representação a ação penal relativa aos crimes de <b>lesões corporais leves e lesões culposas</b> (salvo violência doméstica contra a mulher).</li></ul>\n<h3>4. Procedimento sumaríssimo e recursos</h3>\n<ul><li><b>Denúncia oral</b>, reduzida a termo. <b>Citação pessoal</b> (não há citação por edital; admite-se por hora certa). <b>Audiência de instrução e julgamento</b> concentrada: defesa preliminar → recebimento ou rejeição da denúncia → oitiva da vítima e das testemunhas → <b>interrogatório</b> → debates → <b>sentença</b>, <b>dispensado o relatório</b> (art. 81, § 3º).</li><li><b>Recursos</b>: da decisão de <b>rejeição da denúncia ou queixa</b> e da <b>sentença</b>, cabe <b>apelação</b>, no prazo de <b>10 dias</b>, julgada por <b>turma recursal</b> composta por 3 juízes de primeiro grau (art. 82). <b>Embargos de declaração</b> em <b>5 dias</b>. Contra decisão de turma recursal <b>não cabe recurso especial</b> ao STJ (Súmula 203 do STJ), mas cabe <b>recurso extraordinário</b> ao STF (Súmula 640 do STF).</li><li><b>Execução</b> (arts. 84 a 86): a multa aplicada é paga na secretaria do Juizado; a execução das penas privativas de liberdade e restritivas de direitos, ou de multa cumulada com estas, é feita pelo <b>órgão competente</b>, nos termos da lei.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Lei 9.099 se aplica à lesão leve contra a mulher em violência doméstica</span><br>✅ <span class=\"certo\">Vedado (art. 41 da Lei Maria da Penha; Súmula 536).</span></li><li>❌ <span class=\"banca\">Da rejeição da denúncia no Juizado cabe recurso em sentido estrito</span><br>✅ <span class=\"certo\">Cabe apelação em 10 dias.</span></li><li>❌ <span class=\"banca\">Cabe recurso especial contra acórdão de turma recursal</span><br>✅ <span class=\"certo\">Súmula 203 do STJ: não cabe.</span></li><li>❌ <span class=\"banca\">Suspensão condicional do processo só existe no Juizado</span><br>✅ <span class=\"certo\">Cabe em qualquer crime com pena mínima até 1 ano.</span></li><li>❌ <span class=\"banca\">Crimes contra idosos recebem os benefícios da 9.099</span><br>✅ <span class=\"certo\">Só o procedimento (ADI 3.096).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Menor potencial ofensivo?</span></span><span class=\"vs\"><span>Contravenções e crimes com pena <b>máxima até 2 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Competência territorial?</span></span><span class=\"vs\"><span>Lugar em que foi <b>praticada</b> a infração.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Maria da Penha?</span></span><span class=\"vs\"><span><b>Não se aplica</b> a Lei 9.099 (Súmula 536).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Composição civil na ação condicionada?</span></span><span class=\"vs\"><span><b>Renúncia</b> ao direito de representação.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Transação descumprida?</span></span><span class=\"vs\"><span>MP retoma (<b>SV 35</b>).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Recurso no Juizado?</span></span><span class=\"vs\"><span><b>Apelação</b> em <b>10 dias</b>, turma recursal.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Recurso especial contra turma recursal?</span></span><span class=\"vs\"><span><b>Não cabe</b> (Súmula 203); RE cabe.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sentença no Juizado?</span></span><span class=\"vs\"><span><b>Dispensa relatório</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A ameaça no trânsito</b><p>Após uma batida leve, um motorista ameaça o outro de morte. A vítima, que não conhece o agressor, registra a ocorrência. Dias depois, eles se encontram na audiência preliminar e o autor pede desculpas e paga o conserto do carro.</p><details><summary>Ver a solução comentada</summary><p>A <b>ameaça</b> (pena máxima de 6 meses) é infração de <b>menor potencial ofensivo</b>, de ação <b>condicionada à representação</b>. Lavra-se <b>TCO</b>. Na audiência preliminar, a <b>composição civil</b> homologada (o pagamento do conserto e o acordo) <b>acarreta a renúncia</b> ao direito de representação e extingue a punibilidade (art. 74, p. único). Se a vítima fosse a ex-companheira do autor, em contexto de violência doméstica, a Lei 9.099 <b>não</b> se aplicaria.</p></details></div>",
-"quiz": [
-{
-"p": "Consideram-se infrações penais de menor potencial ofensivo as contravenções penais e os crimes a que a lei comine pena máxima não superior a dois anos, cumulada ou não com multa.",
-"c": true,
-"prof": "Certo. Art. 61.",
-"x": "O critério é a pena máxima abstrata. Nos crimes com procedimento especial, o critério também se aplica, ressalvadas as exclusões legais (violência doméstica contra a mulher, Justiça Militar).",
-"e": "Até 2 anos."
-},
-{
-"p": "A transação penal e a suspensão condicional do processo aplicam-se aos crimes praticados com violência doméstica contra a mulher, desde que a pena seja de até dois anos.",
-"c": false,
-"prof": "São vedadas.",
-"x": "O art. 41 da Lei 11.340/2006 afasta a Lei 9.099, e a Súmula 536 do STJ veda expressamente a transação penal e a suspensão condicional do processo nesses casos.",
-"e": "Maria da Penha: sem 9.099."
-},
-{
-"p": "No Juizado Especial Criminal, contra a sentença cabe:",
-"alts": [
-"recurso em sentido estrito, em 5 dias, ao Tribunal de Justiça",
-"apelação, em 10 dias, julgada por turma recursal de juízes de primeiro grau",
-"agravo, em 15 dias",
-"recurso especial diretamente ao STJ",
-"apelação, em 5 dias, ao Tribunal de Justiça"
-],
-"r": 1,
-"n": [
-"Não é o recurso nem o órgão.",
-"Correta: art. 82.",
-"Não é o recurso.",
-"Súmula 203 do STJ.",
-"Prazo e órgão incorretos."
-],
-"prof": "Turma recursal.",
-"x": "Da rejeição da denúncia e da sentença cabe apelação em 10 dias, já com as razões, julgada por turma de 3 juízes de primeiro grau.",
-"e": "Apelação: 10 dias."
-},
-{
-"p": "Segundo a Súmula 203 do STJ, não cabe recurso especial contra decisão proferida por órgão de segundo grau dos Juizados Especiais.",
-"c": true,
-"prof": "Certo.",
-"x": "O recurso especial pressupõe decisão de tribunal. As turmas recursais não são tribunais. Cabe, porém, recurso extraordinário ao STF (Súmula 640 do STF).",
-"e": "Turma recursal: sem REsp."
-},
-{
-"p": "Nos Juizados Especiais Criminais, a competência é determinada pelo lugar em que se consumou a infração ou pelo domicílio do réu, à escolha da vítima.",
-"c": false,
-"prof": "Lugar em que foi praticada.",
-"x": "O art. 63 da Lei 9.099 fixa a competência pelo lugar em que foi praticada a infração penal.",
-"e": "JECrim: lugar da prática."
-},
-{
-"p": "Segundo o STF, aos crimes contra pessoa idosa com pena máxima de até quatro anos, previstos no Estatuto da Pessoa Idosa:",
-"alts": [
-"aplicam-se todos os benefícios da Lei 9.099",
-"aplica-se apenas o procedimento sumaríssimo da Lei 9.099, sem os benefícios despenalizadores",
-"não se aplica nada da Lei 9.099",
-"aplica-se a transação penal, mas não a composição civil",
-"aplica-se o rito do Júri"
-],
-"r": 1,
-"n": [
-"O STF afastou os benefícios.",
-"Correta: ADI 3.096.",
-"O procedimento é aplicado.",
-"Nenhum benefício.",
-"Não há relação com o Júri."
-],
-"prof": "Só o rito.",
-"x": "O STF deu interpretação conforme ao art. 94 do Estatuto: aplica-se o procedimento célere, mas não a transação penal nem a composição civil, para não beneficiar o autor de crime contra idoso.",
-"e": "Idoso: só o procedimento."
 }
 ]
 }
