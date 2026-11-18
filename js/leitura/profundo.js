@@ -17009,8 +17009,693 @@ export const PROFUNDO = {
 "ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5 a 15</b><span>anos de reclusão para o tráfico (art. 33)</span></div><div class=\"lt-stat\"><b>1/6 a 2/3</b><span>redução do tráfico privilegiado (§ 4º)</span></div><div class=\"lt-stat\"><b>40 g</b><span>presunção de usuário de maconha (STF, RE 635.659)</span></div><div class=\"lt-stat\"><b>30 / 90</b><span>dias do inquérito (preso / solto), duplicáveis</span></div></div>\n<h3>1. Porte para consumo pessoal (art. 28)</h3>\n<ul><li>Adquirir, guardar, ter em depósito, transportar ou trazer consigo droga <b>para consumo pessoal</b>: <b>advertência</b>, <b>prestação de serviços à comunidade</b> ou <b>medida educativa</b> (até 5 meses; 10 na reincidência). <b>Não há pena de prisão</b> e <b>não se impõe prisão em flagrante</b>: o autor é levado ao juiz ou assina <b>termo circunstanciado</b>. A pretensão prescreve em <b>2 anos</b>.</li><li>Para saber se é consumo ou tráfico, consideram-se <b>natureza e quantidade</b> da droga, <b>local e condições</b> da ação, circunstâncias sociais e pessoais, <b>conduta e antecedentes</b> (art. 28, § 2º).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · RE 635.659 (Tema 506, 2024)</b><p class=\"jc-tese\">O porte de maconha para consumo pessoal é ilícito administrativo, sem natureza penal; presume-se usuário quem porta até 40 gramas ou seis plantas fêmeas, presunção que admite prova em contrário.</p><p class=\"jc-com\">A polícia <b>continua apreendendo</b> a droga e lavrando o registro, mas o caso vai ao juízo sem efeitos penais. Acima de 40 g não há presunção de tráfico, e abaixo dela pode haver tráfico se houver outros elementos (balança, embalagens, anotações). A decisão vale <b>só para maconha</b>.</p></div>\n<h3>2. Tráfico (art. 33) e figuras equiparadas</h3>\n<ul><li>18 verbos (\"importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, <b>ainda que gratuitamente</b>\"): <b>reclusão de 5 a 15 anos</b> e multa. Crime de <b>ação múltipla</b>: praticar vários verbos no mesmo contexto é <b>um só crime</b>.</li><li><b>§ 1º</b>: matéria-prima e insumos; <b>cultivo</b> de plantas; utilizar local para o tráfico; vender a <b>agente policial disfarçado</b>, havendo elementos de conduta criminal preexistente (Pacote Anticrime).</li><li><b>§ 2º</b>: induzir, instigar ou auxiliar alguém ao uso: detenção de 1 a 3 anos.</li><li><b>§ 3º</b>: oferecer droga <b>eventualmente</b> e <b>sem lucro</b> a pessoa do seu relacionamento, <b>para juntos consumirem</b>: detenção de 6 meses a 1 ano (uso compartilhado).</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 33, § 4º (tráfico privilegiado)</div><div class=\"art-lei\">Nos delitos do caput e do § 1º, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Requisitos <b>cumulativos</b>: primário + bons antecedentes + não se dedica ao crime + não integra organização.</li><li>A redução varia de <b>1/6 a 2/3</b> conforme as circunstâncias (quantidade e natureza da droga podem modular a fração, sem bis in idem).</li><li><b>Não é hediondo</b> (LEP, art. 112, § 5º).</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que basta ser primário.</li><li>Dizer que é hediondo.</li><li>Usar inquéritos e ações em andamento, por si sós, para negar o benefício (o STJ não admite isso como prova de dedicação ao crime).</li></ul></div></div>\n<h3>3. Outros crimes</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td>34</td><td>maquinário e instrumentos para fabricar drogas</td><td>3 a 10 anos</td></tr><tr><td><b>35</b></td><td><b>associação para o tráfico</b>: <b>2 ou mais</b> pessoas, com <b>estabilidade</b>, para os arts. 33 e 34</td><td><b>3 a 10 anos</b> (não é hediondo)</td></tr><tr><td><b>36</b></td><td><b>financiar ou custear</b> o tráfico</td><td><b>8 a 20 anos</b></td></tr><tr><td><b>37</b></td><td>colaborar como <b>informante</b> de grupo de tráfico</td><td>2 a 6 anos</td></tr><tr><td>38</td><td>prescrever ou ministrar culposamente droga</td><td>detenção 6 meses a 2 anos</td></tr><tr><td>39</td><td>conduzir embarcação ou aeronave após consumir droga, expondo a dano</td><td>detenção 6 meses a 3 anos</td></tr></tbody></table>\n<div class=\"lt-pare\"></div>\n<h3>4. Causas de aumento (art. 40: 1/6 a 2/3)</h3>\n<ul><li><b>Transnacionalidade</b>; tráfico <b>entre estados</b> ou com o DF; prevalecimento de função pública; nas <b>imediações</b> de escolas, hospitais, presídios, transporte público etc.; com <b>violência, grave ameaça ou arma de fogo</b>; envolvendo <b>criança, adolescente</b> ou quem tem capacidade reduzida; <b>financiar</b> o tráfico.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 587</b><p class=\"jc-tese\">Para a incidência da majorante do art. 40, V, da Lei 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.</p><p class=\"jc-com\">A PRF que aborda o ônibus ainda em Minas, com droga destinada a São Paulo, já permite o aumento.</p></div>\n<h3>5. Investigação e procedimento</h3>\n<ul><li><b>Laudo de constatação</b> (preliminar) basta para o <b>flagrante</b> e para a denúncia; o <b>laudo definitivo</b> é indispensável para a condenação.</li><li><b>Inquérito</b>: <b>30 dias</b> (preso) e <b>90 dias</b> (solto), podendo ser <b>duplicados</b> pelo juiz, ouvido o MP, mediante pedido justificado do Delegado (art. 51).</li><li><b>Infiltração</b> de agentes e <b>ação controlada</b> (não atuação policial sobre portadores de drogas para identificar mais integrantes) dependem de <b>autorização judicial</b> e oitiva do MP (art. 53). Diferente da Lei de Organizações Criminosas, em que a ação controlada exige só <b>comunicação</b> prévia ao juiz.</li><li><b>Destruição</b> da droga apreendida em flagrante: em até <b>15 dias</b>, por ordem do juiz, guardada amostra para o laudo definitivo.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 280 (RE 603.616)</b><p class=\"jc-tese\">A entrada forçada em domicílio sem mandado, inclusive à noite, só é lícita quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem situação de flagrante delito.</p><p class=\"jc-com\">Denúncia anônima isolada, \"atitude suspeita\" ou fuga ao avistar a viatura, por si sós, <b>não bastam</b> (STJ). Se a entrada depender do consentimento do morador, ele deve ser <b>documentado</b> (preferencialmente por escrito e com gravação).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Usuário de drogas pode ser preso em flagrante</span><br>✅ <span class=\"certo\">Para o art. 28 não se impõe prisão em flagrante; lavra-se termo circunstanciado.</span></li><li>❌ <span class=\"banca\">Associação para o tráfico exige 3 pessoas</span><br>✅ <span class=\"certo\">Bastam 2 pessoas, com estabilidade (art. 35).</span></li><li>❌ <span class=\"banca\">Ação controlada na Lei de Drogas exige só comunicação ao juiz</span><br>✅ <span class=\"certo\">Na Lei de Drogas exige AUTORIZAÇÃO judicial.</span></li><li>❌ <span class=\"banca\">Tráfico interestadual exige atravessar a divisa</span><br>✅ <span class=\"certo\">Basta a intenção inequívoca (Súmula 587).</span></li><li>❌ <span class=\"banca\">Uso compartilhado é tráfico comum</span><br>✅ <span class=\"certo\">É o § 3º: eventual, sem lucro, pessoa do relacionamento, para consumirem juntos.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena do tráfico?</span></span><span class=\"vs\"><span><b>Reclusão de 5 a 15 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tráfico privilegiado?</span></span><span class=\"vs\"><span>Redução de <b>1/6 a 2/3</b>: primário, bons antecedentes, não se dedica ao crime nem integra organização.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Associação para o tráfico?</span></span><span class=\"vs\"><span><b>2 ou mais</b> pessoas, com <b>estabilidade</b>; 3 a 10 anos.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo do inquérito?</span></span><span class=\"vs\"><span><b>30</b> (preso) / <b>90</b> (solto), duplicáveis.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Laudo de constatação?</span></span><span class=\"vs\"><span>Basta para <b>flagrante e denúncia</b>; condenação exige laudo definitivo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>STF e maconha?</span></span><span class=\"vs\"><span>Até <b>40 g</b> ou 6 plantas fêmeas: presunção (relativa) de usuário; ilícito administrativo.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A abordagem na rodoviária</b><p>Policiais civis abordam Ana na rodoviária de Belo Horizonte com 300 g de cocaína escondidas na mala, passagem para Vitória e R$ 2.000 em notas pequenas. Ela é primária e sem antecedentes.</p><details><summary>Ver a solução comentada</summary><p>Há <b>tráfico</b> (transportar, trazer consigo) com aumento pelo <b>tráfico interestadual</b> (art. 40, V), ainda que a divisa não tenha sido cruzada (Súmula 587). O <b>tráfico privilegiado</b> pode ser analisado pelo juiz: primariedade e bons antecedentes não bastam se houver prova de que ela se dedica ao crime ou integra organização (por exemplo, \"mula\" a serviço de facção, conforme o caso concreto).</p></details></div>"
 },
 "desarmamento": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1 a 3</b><span>anos de detenção na posse irregular de uso permitido (art. 12)</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão no porte ilegal de uso permitido (art. 14)</span></div><div class=\"lt-stat\"><b>4 a 12</b><span>anos na posse ou porte de arma de uso proibido (art. 16, § 2º)</span></div><div class=\"lt-stat\"><b>SINARM / SIGMA</b><span>cadastros da PF (uso permitido) / do Exército (uso restrito)</span></div></div>\n<h3>1. Posse x porte</h3>\n<ul><li><b>Posse</b>: manter a arma <b>dentro</b> da residência ou do <b>local de trabalho</b> (sendo o titular ou responsável pelo estabelecimento). <b>Porte</b>: levar a arma <b>fora</b> desses locais (na rua, no carro, na mochila).</li><li><b>Registro</b> autoriza a posse; o <b>porte</b> depende de autorização específica, em regra proibido aos civis (art. 6º), com exceções (forças de segurança, como os <b>policiais civis</b>, art. 6º, II; guardas municipais; vigilantes etc.).</li></ul>\n<table class=\"tab\"><thead><tr><th>Crime</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>Art. 12</b></td><td><b>posse irregular</b> de arma, acessório ou munição de <b>uso permitido</b>, em casa ou no trabalho</td><td><b>detenção 1 a 3 anos</b></td></tr><tr><td>Art. 13</td><td><b>omissão de cautela</b>: deixar menor de 18 ou deficiente mental se apoderar da arma</td><td>detenção 1 a 2 anos</td></tr><tr><td><b>Art. 14</b></td><td><b>porte ilegal</b> de arma de <b>uso permitido</b></td><td><b>reclusão 2 a 4 anos</b></td></tr><tr><td><b>Art. 15</b></td><td><b>disparo</b> de arma em lugar habitado ou via pública (se não for meio para outro crime)</td><td>reclusão 2 a 4 anos</td></tr><tr><td><b>Art. 16</b></td><td><b>posse ou porte</b> de arma de <b>uso restrito</b></td><td><b>reclusão 3 a 6 anos</b></td></tr><tr><td><b>Art. 16, § 2º</b></td><td>se a arma for de <b>uso proibido</b></td><td><b>reclusão 4 a 12 anos</b> (hediondo)</td></tr><tr><td><b>Art. 17</b></td><td><b>comércio ilegal</b></td><td>reclusão 6 a 12 anos</td></tr><tr><td><b>Art. 18</b></td><td><b>tráfico internacional</b></td><td>reclusão 8 a 16 anos</td></tr></tbody></table>\n<ul><li><b>Art. 16, § 1º</b> (mesma pena do art. 16): suprimir ou alterar marca ou numeração; <b>portar, possuir ou adquirir arma com numeração raspada</b>; vender arma a criança ou adolescente; produzir ou recarregar munição sem autorização, entre outros.</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Arma de <b>uso permitido</b> com <b>numeração raspada</b> cai no <b>art. 16, § 1º, IV</b> (3 a 6 anos), e não no art. 12 ou 14. A banca sempre \"esconde\" a numeração raspada no enunciado.</div>\n<h3>2. Teses que a prova cobra</h3>\n<ul><li>Os crimes são de <b>perigo abstrato</b>: não precisa provar risco concreto. <b>Arma desmuniciada</b> configura o crime (STF e STJ).</li><li><b>Munição isolada</b>, em pequena quantidade e <b>sem arma</b>, pode levar à <b>insignificância</b>, conforme o caso (STF e STJ).</li><li><b>Arma absolutamente inapta</b> para disparar, comprovada por laudo, torna o fato <b>atípico</b> (crime impossível).</li><li>Várias armas ou munições no <b>mesmo contexto</b> = <b>um só crime</b> (com reflexo na pena), salvo se de tipos penais diferentes (art. 12 e art. 16 → concurso).</li><li>Os parágrafos únicos dos arts. 14 e 15 (que diziam \"inafiançável\") foram declarados <b>inconstitucionais</b> (ADI 3.112). Na <b>posse irregular (art. 12)</b>, com pena máxima de 3 anos, o <b>Delegado pode arbitrar fiança</b> (CPP, art. 322).</li></ul>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 513</b><p class=\"jc-tese\">A abolitio criminis temporária prevista na Lei 10.826/2003 aplica-se ao crime de posse de arma de fogo de uso permitido com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado, praticado somente até 23/10/2005.</p><p class=\"jc-com\">Depois disso, a posse de arma com numeração raspada é crime do art. 16, § 1º, IV, sem \"anistia\".</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · porte e posse no mesmo contexto</b><p class=\"jc-tese\">Quem guarda arma em casa e, no mesmo contexto, sai portando-a responde por um único crime (o mais grave), pelo princípio da consunção.</p><p class=\"jc-com\">Se as armas são de calibres com tipos diferentes (uso permitido e uso restrito), o STJ admite concurso de crimes.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Arma desmuniciada não configura porte ilegal</span><br>✅ <span class=\"certo\">Configura: crime de perigo abstrato.</span></li><li>❌ <span class=\"banca\">Posse de arma de uso permitido é crime inafiançável</span><br>✅ <span class=\"certo\">Pena máx. 3 anos: o Delegado pode arbitrar fiança.</span></li><li>❌ <span class=\"banca\">Porte de arma de uso restrito é hediondo</span><br>✅ <span class=\"certo\">Após o Anticrime, só a de uso PROIBIDO é hediondo.</span></li><li>❌ <span class=\"banca\">Arma com numeração raspada de calibre permitido é art. 12</span><br>✅ <span class=\"certo\">É art. 16, § 1º, IV.</span></li><li>❌ <span class=\"banca\">Arma em casa = porte</span><br>✅ <span class=\"certo\">Em casa ou no trabalho (como responsável) = POSSE.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Posse x porte?</span></span><span class=\"vs\"><span><b>Posse</b>: em casa/trabalho. <b>Porte</b>: fora deles.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 12?</span></span><span class=\"vs\"><span>Posse de uso permitido: <b>detenção 1 a 3</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 14?</span></span><span class=\"vs\"><span>Porte de uso permitido: <b>reclusão 2 a 4</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Numeração raspada?</span></span><span class=\"vs\"><span><b>Art. 16, § 1º, IV</b> (3 a 6).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Uso proibido?</span></span><span class=\"vs\"><span><b>4 a 12 anos</b>, hediondo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arma desmuniciada?</span></span><span class=\"vs\"><span><b>Crime</b> (perigo abstrato).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O revólver no porta-luvas</b><p>Em blitz, a polícia encontra no porta-luvas de um carro um revólver calibre .38 (uso permitido), sem munição e com a numeração raspada. O motorista não tem registro nem porte.</p><details><summary>Ver a solução comentada</summary><p>A arma estar desmuniciada não afasta o crime (perigo abstrato). Como a <b>numeração está raspada</b>, a conduta é a do <b>art. 16, § 1º, IV</b> (reclusão de 3 a 6 anos), e não o porte de uso permitido do art. 14. Não é hediondo, pois a arma não é de uso proibido.</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>25</b><span>anos: idade mínima para adquirir arma de fogo (Lei 10.826/2003, art. 28), com exceções para integrantes de órgãos de segurança</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão: porte ilegal de arma de uso permitido (art. 14)</span></div><div class=\"lt-stat\"><b>4 a 12</b><span>anos de reclusão: posse ou porte de arma de uso proibido (art. 16, § 2º), crime hediondo</span></div><div class=\"lt-stat\"><b>2/3</b><span>aumento das penas dos arts. 12, 14 e 16 quando ligados ao tráfico de drogas (art. 21-A, Lei 15.358/2026)</span></div></div>\n<h3>1. O Estatuto do Desarmamento e o Sinarm</h3>\n<ul><li>A <b>Lei 10.826/2003</b> (Estatuto do Desarmamento) regula o <b>registro</b>, a <b>posse</b>, o <b>porte</b> e a <b>comercialização</b> de armas de fogo e munição, define crimes e cria o <b>Sinarm</b> (Sistema Nacional de Armas), instituído no <b>Ministério da Justiça</b>, no âmbito da <b>Polícia Federal</b>, com circunscrição em todo o território nacional (art. 1º).</li><li>O Sinarm cadastra as armas fabricadas, importadas e vendidas no país, os registros e portes concedidos, as transferências, as ocorrências de extravio, furto e roubo, e as apreensões. As armas das <b>Forças Armadas</b> e auxiliares e as de <b>colecionadores, atiradores e caçadores</b> (CACs) ficam no <b>Sigma</b>, sistema do <b>Comando do Exército</b> (art. 2º, parágrafo único, e regulamento).</li><li>O Estatuto é regulamentado por <b>decreto</b> do Poder Executivo (hoje, o <b>Decreto 11.615/2023</b>, que substituiu os decretos de 2019). O decreto define as categorias de armas (uso permitido, restrito e proibido), os calibres, as quantidades e a validade dos registros. Por isso, os crimes do Estatuto também dependem de complemento normativo em vários pontos (são normas penais em <b>branco</b>).</li></ul>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>O que significa</th><th>Onde está</th></tr></thead><tbody><tr><td><b>Registro</b></td><td>o \"documento de identidade\" da arma; autoriza o proprietário a <b>mantê-la</b> no interior de sua <b>residência</b> ou domicílio, ou no <b>local de trabalho</b>, desde que seja o titular ou responsável legal pelo estabelecimento</td><td>arts. 3º a 5º</td></tr><tr><td><b>Posse</b></td><td>ter a arma registrada <b>dentro</b> de casa ou do local de trabalho (como titular ou responsável)</td><td>art. 5º e art. 12</td></tr><tr><td><b>Porte</b></td><td>levar a arma consigo <b>fora</b> de casa ou do local de trabalho; é <b>proibido</b> em todo o território nacional, salvo as exceções legais</td><td>arts. 6º a 11 e art. 14</td></tr><tr><td><b>Uso permitido, restrito e proibido</b></td><td>categorias definidas pelo <b>regulamento</b> (calibre, energia, tipo de arma)</td><td>Decreto regulamentador</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> <b>Posse</b> é \"<b>P</b>ara dentro\" (casa ou trabalho); <b>porte</b> é \"<b>P</b>ara fora\" (rua, carro, bolsa). Quem tem só registro e sai com a arma de casa comete <b>porte ilegal</b>.</div>\n<h3>2. Registro e aquisição de arma de fogo</h3>\n<ul><li><b>Obrigatoriedade</b>: é obrigatório o <b>registro</b> de arma de fogo no órgão competente (art. 3º). As de uso <b>restrito</b> e <b>proibido</b> são registradas no <b>Comando do Exército</b>; as de uso permitido, na <b>Polícia Federal</b> (Sinarm).</li><li><b>Requisitos para adquirir</b> arma de uso permitido (art. 4º), além de <b>declarar a efetiva necessidade</b>:</li><li><b>I</b>, comprovação de <b>idoneidade</b>, com certidões negativas de antecedentes criminais das Justiças Federal, Estadual, Militar e Eleitoral e de não estar respondendo a <b>inquérito policial</b> ou a <b>processo criminal</b>;</li><li><b>II</b>, apresentação de documento comprobatório de <b>ocupação lícita</b> e de <b>residência certa</b>;</li><li><b>III</b>, comprovação de <b>capacidade técnica</b> e de <b>aptidão psicológica</b> para o manuseio de arma de fogo, atestadas na forma do regulamento.</li><li><b>Idade mínima</b>: é <b>proibida</b> a venda de arma de fogo e munição a menores de <b>25 anos</b>, salvo para os integrantes das entidades do art. 6º (Forças Armadas, polícias, guardas municipais etc.), nos termos do art. 28.</li><li>A arma comprada fica vinculada ao <b>comprador</b>: o Certificado de Registro de Arma de Fogo (<b>CRAF</b>) é emitido pela PF, com validade definida no regulamento, e a renovação exige a comprovação periódica dos requisitos.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 3.112 (2007)</b><p class=\"jc-tese\">O STF julgou <b>constitucional</b> o Estatuto do Desarmamento em sua maior parte, incluindo a exigência de idade mínima de 25 anos e as restrições ao porte, mas declarou <b>inconstitucionais</b> os <b>parágrafos únicos dos arts. 14 e 15</b> (que tornavam inafiançáveis o porte de arma de uso permitido e o disparo) e o <b>art. 21</b> (que proibia a liberdade provisória nos crimes dos arts. 16, 17 e 18).</p><p class=\"jc-com\">Fundamento: o legislador não pode equiparar a crimes gravíssimos, como os inafiançáveis da Constituição, condutas de <b>perigo abstrato</b> de menor gravidade, e a proibição abstrata de liberdade provisória viola a presunção de inocência e o devido processo legal. Hoje, todos os crimes do Estatuto admitem <b>liberdade provisória</b>, e os dos arts. 14 e 15 admitem <b>fiança</b>. Atenção: o <b>delegado</b> só pode arbitrar fiança se a pena máxima não passar de <b>4 anos</b> (CPP, art. 322), o que inclui os arts. 12, 13, 14 e 15, mas não o 16.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O porte ilegal de arma de uso permitido é inafiançável</span><br>✅ <span class=\"certo\">O parágrafo único do art. 14 foi declarado <b>inconstitucional</b> (ADI 3.112)</span></li><li>❌ <span class=\"banca\">Os crimes dos arts. 16, 17 e 18 não admitem liberdade provisória</span><br>✅ <span class=\"certo\">O art. 21 foi declarado <b>inconstitucional</b></span></li><li>❌ <span class=\"banca\">O registro autoriza o proprietário a andar armado na rua</span><br>✅ <span class=\"certo\">O registro só autoriza a <b>posse</b> (casa ou trabalho)</span></li></ol></div>\n<h3>3. O porte de arma: regra e exceções</h3>\n<ul><li><b>Regra</b>: é <b>proibido o porte</b> de arma de fogo em <b>todo o território nacional</b>, salvo para os casos previstos em <b>legislação própria</b> e para os integrantes dos órgãos listados no <b>art. 6º</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Art. 6º</th><th>Quem tem porte (em síntese)</th></tr></thead><tbody><tr><td>I</td><td>integrantes das <b>Forças Armadas</b></td></tr><tr><td>II</td><td>integrantes dos órgãos do art. 144 da CF (<b>polícias federal, rodoviária federal, ferroviária federal, civis, militares, corpos de bombeiros, polícias penais</b>) e da <b>Força Nacional</b></td></tr><tr><td>III e IV</td><td><b>guardas municipais</b> (o STF, nas ADIs 5.538 e 5.948, derrubou o limite por número de habitantes: todas as guardas municipais podem ter porte, na forma da lei)</td></tr><tr><td>V</td><td>agentes operacionais da <b>Abin</b> e do Gabinete de Segurança Institucional</td></tr><tr><td>VI</td><td>integrantes das <b>polícias legislativas</b> (Câmara e Senado)</td></tr><tr><td>VII</td><td>integrantes do quadro efetivo dos <b>agentes e guardas prisionais</b>, das escoltas de presos e das guardas portuárias</td></tr><tr><td>VIII</td><td><b>empresas de segurança privada</b> e de <b>transporte de valores</b></td></tr><tr><td>IX</td><td>integrantes das entidades de <b>desporto</b> legalmente constituídas, cujas atividades demandem uso de armas (tiro esportivo)</td></tr><tr><td>X</td><td><b>auditores fiscais</b> e analistas tributários da Receita Federal e auditores do trabalho</td></tr><tr><td>XI</td><td>servidores do <b>Poder Judiciário</b> e do <b>Ministério Público</b> que efetivamente estejam no exercício de funções de <b>segurança</b></td></tr></tbody></table>\n<ul><li>Além do art. 6º, <b>legislação própria</b> concede porte a <b>magistrados</b> (LOMAN, art. 33, V) e a membros do <b>Ministério Público</b> (Lei 8.625/1993, art. 42), que podem portar arma para defesa pessoal independentemente de autorização administrativa.</li><li><b>Porte para defesa pessoal do cidadão comum</b> (art. 10): é concedido pela <b>Polícia Federal</b>, após autorização do Sinarm, em caráter <b>excepcional</b>, a quem demonstrar <b>efetiva necessidade</b> por exercício de atividade profissional de risco ou de ameaça à sua integridade física, além dos requisitos do art. 4º. O porte é <b>pessoal</b>, <b>intransferível</b>, tem <b>eficácia temporária</b> e <b>territorial</b> limitada, e <b>perde automaticamente a eficácia</b> se o portador for detido ou abordado em estado de <b>embriaguez</b> ou sob efeito de substâncias químicas ou alucinógenas (art. 10, § 2º).</li><li><b>Porte rural</b> (art. 6º, § 5º): o <b>residente em área rural</b>, maior de 25 anos, que comprove depender do emprego de arma de fogo para prover a subsistência alimentar familiar, pode obter o porte na categoria <b>caçador para subsistência</b>, de uma arma de uso permitido, de tiro simples, com um ou dois canos, de alma lisa e calibre igual ou inferior a 16.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Policial de folga no bar</b><p>Um policial militar, de folga, bebe várias cervejas num bar portando sua arma particular registrada. É abordado por colegas e está visivelmente embriagado. Comete crime?</p><details><summary>Ver a solução comentada</summary><p>Pelo Estatuto, o porte para defesa pessoal concedido pela PF <b>perde a eficácia</b> quando o portador é abordado embriagado (art. 10, § 2º). Para policiais, que têm porte por força do art. 6º, a consequência costuma ser <b>administrativa</b> e disciplinar, regulada nos regulamentos da corporação, havendo discussão se configura crime de porte ilegal. Em provas, guarde a regra do art. 10, § 2º, para o porte concedido ao cidadão: a embriaguez faz o porte perder a eficácia <b>automaticamente</b>.</p></details></div>\n<h3>4. Visão geral dos crimes</h3>\n<table class=\"tab\"><thead><tr><th>Art.</th><th>Crime</th><th>Pena</th><th>Objeto</th></tr></thead><tbody><tr><td><b>12</b></td><td><b>posse irregular</b> de arma de uso <b>permitido</b></td><td>detenção de 1 a 3 anos e multa</td><td>arma, acessório ou munição de uso permitido, <b>em casa ou no trabalho</b></td></tr><tr><td><b>13</b></td><td><b>omissão de cautela</b></td><td>detenção de 1 a 2 anos e multa</td><td>deixar menor de 18 ou deficiente mental se apoderar da arma; parágrafo único: empresa de segurança que não comunica perda, furto ou roubo</td></tr><tr><td><b>14</b></td><td><b>porte ilegal</b> de arma de uso <b>permitido</b></td><td>reclusão de 2 a 4 anos e multa</td><td>arma, acessório ou munição de uso permitido, <b>fora</b> de casa ou do trabalho</td></tr><tr><td><b>15</b></td><td><b>disparo</b> de arma de fogo</td><td>reclusão de 2 a 4 anos e multa</td><td>disparo ou acionamento de munição em lugar habitado ou adjacências, em via pública ou em direção a ela</td></tr><tr><td><b>16, caput</b></td><td>posse ou porte de arma de uso <b>restrito</b></td><td>reclusão de 3 a 6 anos e multa</td><td>arma, acessório ou munição de uso restrito</td></tr><tr><td><b>16, § 1º</b></td><td>figuras equiparadas (numeração raspada, explosivos, venda a menor etc.)</td><td>reclusão de 3 a 6 anos e multa</td><td>ver tabela própria</td></tr><tr><td><b>16, § 2º</b></td><td>posse ou porte de arma de uso <b>proibido</b></td><td>reclusão de <b>4 a 12 anos</b></td><td><b>hediondo</b></td></tr><tr><td><b>17</b></td><td><b>comércio ilegal</b> de arma de fogo</td><td>reclusão de <b>6 a 12 anos</b> e multa</td><td><b>hediondo</b></td></tr><tr><td><b>18</b></td><td><b>tráfico internacional</b> de arma de fogo, acessório ou munição</td><td>reclusão de <b>8 a 16 anos</b> e multa</td><td><b>hediondo</b></td></tr></tbody></table>\n<ul><li>Todos os crimes são <b>dolosos</b>, exceto o do <b>art. 13, caput</b> (omissão de cautela), que é <b>culposo</b> (\"deixar de observar as cautelas necessárias\").</li><li>Os crimes dos arts. 12, 14 e 16 são, em regra, de <b>perigo abstrato</b>: a lei presume o risco à <b>segurança pública</b> (bem jurídico tutelado) pelo simples fato de possuir ou portar a arma sem autorização. Não é preciso provar que alguém correu perigo concreto.</li><li><b>Acessório</b> e <b>munição</b> recebem o mesmo tratamento da arma: possuir apenas munição ou um carregador sem autorização também é crime.</li></ul>\n<h3>5. Posse irregular de arma de uso permitido: art. 12</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 10.826/2003, art. 12</div><div class=\"art-lei\">Possuir ou manter sob sua guarda arma de fogo, acessório ou munição, de uso permitido, em desacordo com determinação legal ou regulamentar, no interior de sua residência ou dependência desta, ou, ainda, no seu local de trabalho, desde que seja o titular ou o responsável legal do estabelecimento ou empresa. Pena: detenção, de 1 a 3 anos, e multa.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Dois verbos: <b>possuir</b> e <b>manter sob sua guarda</b></li><li>Lugar: <b>residência</b> ou <b>dependência</b> (garagem, quintal)</li><li><b>Local de trabalho</b>: só se o agente for o <b>titular</b> ou <b>responsável legal</b></li><li>Pena de <b>detenção</b>: admite fiança pelo delegado e é compatível com a suspensão condicional do processo (pena mínima de 1 ano)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>O empregado que guarda a arma na loja onde trabalha comete posse (art. 12)? <b>Não</b>: só o titular ou responsável; o empregado comete <b>porte</b> (art. 14)</li><li>A banca troca \"detenção\" por \"reclusão\"</li></ul></div></div>\n<ul><li><b>Crime permanente</b>: enquanto a arma está guardada irregularmente, o crime se protrai no tempo e há estado de <b>flagrância</b>.</li><li><b>Registro vencido</b>: o STJ (Corte Especial, APn 686, 2015) entendeu que manter em casa arma de fogo de uso permitido com <b>registro vencido</b> é <b>mera irregularidade administrativa</b>, e não crime do art. 12, porque o Estado já conhece a arma e o proprietário. O entendimento <b>não</b> se estende ao <b>porte</b> com registro ou porte vencido, que continua crime (art. 14).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · APn 686 · registro vencido</b><p class=\"jc-tese\">\"Se o agente já procedeu ao registro da arma, a expiração do prazo é mera irregularidade administrativa que autoriza a apreensão do artefato e aplicação de multa. A conduta, no entanto, <b>não</b> caracteriza ilícito penal.\"</p><p class=\"jc-com\">Atenção às limitações: (1) vale para a <b>posse</b> de arma de uso <b>permitido</b>; (2) não vale para arma de uso <b>restrito</b>, segundo parte da jurisprudência; (3) não vale para o <b>porte</b>. Em prova, \"manter em casa revólver com registro vencido é crime do art. 12\" está <b>errado</b> pela posição do STJ.</p></div>\n<h3>6. Omissão de cautela: art. 13</h3>\n<ul><li><b>Caput</b>: deixar de observar as <b>cautelas necessárias</b> para impedir que <b>menor de 18 anos</b> ou pessoa portadora de <b>deficiência mental</b> se apodere de arma de fogo que esteja sob sua posse ou que seja de sua propriedade. Pena: <b>detenção de 1 a 2 anos</b> e multa. É o único crime <b>culposo</b> do Estatuto e exige que o menor ou deficiente efetivamente <b>se apodere</b> da arma (crime material, segundo a doutrina majoritária).</li><li><b>Parágrafo único</b>: nas mesmas penas incorrem o <b>proprietário ou diretor responsável</b> de empresa de segurança e transporte de valores que deixarem de registrar ocorrência policial e de comunicar à <b>Polícia Federal</b> perda, furto, roubo ou outras formas de extravio de arma de fogo, acessório ou munição que estejam sob sua guarda, nas primeiras <b>24 horas</b> depois de ocorrido o fato. Esse crime é <b>doloso</b> e <b>omissivo próprio</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O art. 13, caput, pune quem deixa adulto se apoderar da arma</span><br>✅ <span class=\"certo\">Só <b>menor de 18</b> ou <b>deficiente mental</b></span></li><li>❌ <span class=\"banca\">O parágrafo único do art. 13 se aplica ao cidadão comum que não comunica o furto de sua arma</span><br>✅ <span class=\"certo\">Só a <b>empresa de segurança e transporte de valores</b> (proprietário ou diretor)</span></li><li>❌ <span class=\"banca\">O prazo de comunicação do parágrafo único é de 48 horas</span><br>✅ <span class=\"certo\"><b>24 horas</b></span></li></ol></div>\n<h3>7. Porte ilegal de arma de uso permitido: art. 14</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 10.826/2003, art. 14</div><div class=\"art-lei\">Portar, deter, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob guarda ou ocultar arma de fogo, acessório ou munição, de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar. Pena: reclusão, de 2 a 4 anos, e multa.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>13 verbos</b>: tipo misto alternativo</li><li>Vai muito além de \"portar\": <b>adquirir</b>, <b>emprestar</b>, <b>transportar</b>, <b>ceder</b></li><li>\"<b>Ainda que gratuitamente</b>\"</li><li>Pena de <b>reclusão</b> de 2 a 4 anos: admite fiança pelo delegado (máximo de 4 anos)</li><li>O parágrafo único (inafiançável) foi declarado inconstitucional (ADI 3.112)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que emprestar arma a um amigo não é crime se não houver pagamento</li><li>A banca diz que o porte de arma desmuniciada é atípico</li></ul></div></div>\n<ul><li><b>Transporte no carro</b>: o veículo <b>não</b> é extensão da residência. Quem leva a arma registrada no carro, sem porte, comete <b>porte ilegal</b> (art. 14). O STJ aplica o mesmo à <b>boleia do caminhão</b> do motorista profissional: o caminhão não é \"local de trabalho\" para fins do art. 12.</li><li><b>Arma desmuniciada</b>: o STF e o STJ entendem que portar arma <b>desmuniciada</b> é crime (perigo abstrato), pois a arma pode ser municiada a qualquer momento e serve para intimidar.</li><li><b>Munição isolada</b>: portar apenas munição, sem arma, também é crime. Mas o STF e o STJ admitem, em casos excepcionais, o <b>princípio da insignificância</b> para <b>pequena quantidade de munição desacompanhada de arma</b>, quando o contexto demonstrar ausência de lesividade (por exemplo, uma ou duas munições guardadas como \"lembrança\"). Não se aplica quando a munição é apreendida em contexto de outro crime (tráfico, por exemplo).</li><li><b>Arma inapta</b>: se o <b>laudo pericial</b> atestar que a arma é <b>absolutamente ineficaz</b> para disparar (e não há munição apta), a jurisprudência reconhece <b>crime impossível</b> (CP, art. 17), por absoluta impropriedade do objeto. Se a arma é apenas <b>defeituosa</b> ou funciona de forma eventual, há crime.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF e STJ · perigo abstrato e arma desmuniciada</b><p class=\"jc-tese\">O porte de arma de fogo <b>desmuniciada</b> configura o crime do art. 14 (ou 16), pois o tipo é de <b>perigo abstrato</b> e protege a segurança pública e a paz social.</p><p class=\"jc-com\">O STF (HC 104.410, entre outros) superou a antiga tese de que a arma sem munição seria inofensiva. A lesividade está na potencialidade do instrumento. Exceção: se o laudo comprovar <b>inaptidão absoluta</b> para disparar, o objeto não é \"arma de fogo\" funcional, e há <b>crime impossível</b>. Por isso o laudo é tão importante no inquérito.</p></div>\n<h3>8. Disparo de arma de fogo: art. 15</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 10.826/2003, art. 15</div><div class=\"art-lei\">Disparar arma de fogo ou acionar munição em lugar habitado ou em suas adjacências, em via pública ou em direção a ela, desde que essa conduta não tenha como finalidade a prática de outro crime. Pena: reclusão, de 2 a 4 anos, e multa.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Dois verbos: <b>disparar</b> arma e <b>acionar</b> munição</li><li>Locais: <b>lugar habitado</b> ou adjacências, <b>via pública</b> ou em direção a ela</li><li>Cláusula de <b>subsidiariedade expressa</b>: só se aplica se o disparo <b>não</b> tiver como finalidade outro crime</li><li>Não importa se a arma é <b>legal</b> ou <b>ilegal</b>: o policial ou o cidadão com porte que dispara à toa na rua comete o crime</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Disparo \"para comemorar\" o Ano-Novo na rua é atípico? <b>Não</b>, é o art. 15</li><li>Disparo para matar alguém configura art. 15 em concurso? <b>Não</b>: responde só pelo homicídio (tentado ou consumado)</li></ul></div></div>\n<ul><li><b>Subsidiariedade</b>: se o agente dispara <b>para matar</b>, <b>lesionar</b> ou <b>ameaçar</b>, responde pelo crime-fim (homicídio, lesão, ameaça), e o art. 15 fica afastado. Mas atenção: a subsidiariedade só afasta o art. 15 se o crime-fim for <b>mais grave</b>; se o disparo é feito para ameaçar (ameaça, pena de 1 a 6 meses), parte da doutrina e da jurisprudência entende que deve prevalecer o art. 15, mais grave, para evitar a desproporcionalidade.</li><li><b>Disparo e porte ilegal</b>: quando o agente porta ilegalmente a arma e efetua disparo em via pública no mesmo contexto, a jurisprudência do STJ costuma reconhecer que o <b>porte</b> fica <b>absorvido</b> pelo disparo (princípio da consunção), salvo se houver contextos distintos (porte prolongado, antes e depois do disparo), caso em que há <b>concurso</b>.</li><li><b>Lugar ermo</b>: disparar em local <b>desabitado</b>, sem via pública próxima (área rural isolada, estande de tiro autorizado), <b>não</b> configura o art. 15, podendo configurar o porte ilegal, se não houver autorização.</li></ul>\n<h3>9. Arma de uso restrito e as figuras equiparadas: art. 16</h3>\n<ul><li><b>Caput</b>: possuir, deter, portar, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob sua guarda ou ocultar arma de fogo, acessório ou munição de <b>uso restrito</b>, sem autorização e em desacordo com determinação legal ou regulamentar. Pena: <b>reclusão de 3 a 6 anos</b> e multa.</li><li>Repare: no art. 16, a <b>posse</b> e o <b>porte</b> estão no <b>mesmo</b> tipo (com a mesma pena). Para arma de uso restrito, não há a distinção entre arts. 12 e 14.</li><li><b>§ 1º</b>: nas mesmas penas (3 a 6 anos) incorre quem:</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Conduta</th><th>Observação</th></tr></thead><tbody><tr><td><b>I</b></td><td><b>suprimir ou alterar</b> marca, numeração ou qualquer sinal de identificação de arma de fogo ou artefato</td><td>o crime é o ato de <b>raspar</b></td></tr><tr><td><b>II</b></td><td><b>modificar as características</b> de arma de fogo, de forma a torná-la equivalente a arma de uso proibido ou restrito ou para fins de dificultar ou de qualquer modo induzir a erro autoridade policial, perito ou juiz</td><td>ex.: transformar pistola em automática</td></tr><tr><td><b>III</b></td><td>possuir, detiver, fabricar ou empregar <b>artefato explosivo ou incendiário</b>, sem autorização ou em desacordo com determinação legal ou regulamentar</td><td>ex.: \"coquetel molotov\", banana de dinamite</td></tr><tr><td><b>IV</b></td><td>portar, possuir, adquirir, transportar ou fornecer arma de fogo com <b>numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado</b></td><td>vale mesmo para arma de uso <b>permitido</b></td></tr><tr><td><b>V</b></td><td><b>vender, entregar ou fornecer</b>, ainda que gratuitamente, arma de fogo, acessório, munição ou explosivo a <b>criança ou adolescente</b></td><td>prevalece sobre o art. 242 do ECA (STJ)</td></tr><tr><td><b>VI</b></td><td><b>produzir, recarregar ou reciclar</b>, sem autorização legal, ou <b>adulterar</b>, de qualquer forma, munição ou explosivo</td><td>recarga caseira de munição</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · numeração raspada</b><p class=\"jc-tese\">O porte ou a posse de arma de fogo de <b>uso permitido</b> com <b>numeração raspada</b> configura o crime do <b>art. 16, § 1º, IV</b> (pena de 3 a 6 anos), e não o do art. 12 ou 14.</p><p class=\"jc-com\">A supressão da identificação impede o rastreamento da arma e revela origem ilícita, o que justifica o tratamento mais grave. Com o Pacote Anticrime, a jurisprudência entende que essa figura <b>não</b> é hedionda (o rol fala apenas em arma de <b>uso proibido</b>). Também vale a <b>Súmula 513 do STJ</b>: a abolitio criminis temporária das campanhas de entrega alcançou a posse de arma com numeração raspada apenas até <b>23/10/2005</b>.</p></div>\n<ul><li><b>§ 2º (incluído pelo Pacote Anticrime)</b>: se as condutas do caput e do § 1º envolverem arma de fogo de <b>uso proibido</b>, a pena é de <b>reclusão de 4 a 12 anos</b>. É a única figura do art. 16 que é <b>hedionda</b>.</li><li><b>Uso restrito x uso proibido</b>: o regulamento define. Em linhas gerais, de <b>uso restrito</b> são armas de maior calibre ou energia (como alguns calibres de fuzil e pistolas de maior potência), e de <b>uso proibido</b> são as armas <b>dissimuladas</b> (com aparência de objeto inofensivo, como \"caneta-revólver\"), as <b>automáticas</b> não autorizadas e as que a lei ou tratado proíbe, além de munições e artefatos especialmente perigosos (incendiárias, químicas). O calibre exato muda conforme o decreto vigente, e o enquadramento depende do <b>laudo</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Posse de arma de uso restrito em casa é o crime do art. 12</span><br>✅ <span class=\"certo\">É o <b>art. 16</b>, que abrange posse e porte</span></li><li>❌ <span class=\"banca\">Arma de uso permitido com numeração raspada é o art. 14</span><br>✅ <span class=\"certo\">É o <b>art. 16, § 1º, IV</b></span></li><li>❌ <span class=\"banca\">Todo o art. 16 é hediondo</span><br>✅ <span class=\"certo\">Só o <b>§ 2º</b> (uso <b>proibido</b>)</span></li></ol></div>\n<h3>10. Comércio ilegal e tráfico internacional: arts. 17 e 18</h3>\n<ul><li><b>Art. 17 (comércio ilegal)</b>: adquirir, alugar, receber, transportar, conduzir, ocultar, ter em depósito, desmontar, montar, remontar, adulterar, vender, expor à venda, ou de qualquer forma utilizar, <b>em proveito próprio ou alheio, no exercício de atividade comercial ou industrial</b>, arma de fogo, acessório ou munição, sem autorização ou em desacordo com determinação legal ou regulamentar. Pena: <b>reclusão de 6 a 12 anos</b> e multa.</li><li><b>§ 1º</b>: equipara-se à atividade comercial ou industrial qualquer forma de prestação de serviços, fabricação ou comércio <b>irregular ou clandestino</b>, inclusive o exercido em <b>residência</b>. Ou seja, o \"armeiro de fundo de quintal\" responde pelo art. 17.</li><li><b>§ 2º</b>: incorre na mesma pena quem vende ou entrega arma de fogo, acessório ou munição, sem autorização, a <b>agente policial disfarçado</b>, quando presentes elementos probatórios razoáveis de <b>conduta criminal preexistente</b> (Pacote Anticrime, mesma lógica da Lei de Drogas).</li><li>O art. 17 é crime <b>próprio</b>? A doutrina diverge: exige que o agente exerça <b>atividade comercial ou industrial</b>, ainda que clandestina. Não basta uma venda isolada entre particulares (que configura o art. 14 ou 16, verbo \"ceder\" ou \"fornecer\").</li><li><b>Art. 18 (tráfico internacional)</b>: importar, exportar, favorecer a entrada ou saída do território nacional, a qualquer título, de arma de fogo, acessório ou munição, sem autorização da autoridade competente. Pena: <b>reclusão de 8 a 16 anos</b> e multa. Parágrafo único: mesma pena para quem vende ou entrega ao <b>agente policial disfarçado</b>, nas condições do art. 17, § 2º.</li><li><b>Competência</b> do art. 18: <b>Justiça Federal</b> (crime previsto em tratado internacional, com resultado ou início no exterior, CF, art. 109, V). Os demais crimes do Estatuto são, em regra, da <b>Justiça Estadual</b>, ainda que a arma seja de uso restrito ou registrada no Exército.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · tráfico internacional de munição</b><p class=\"jc-tese\">O STJ admite o <b>princípio da insignificância</b> no tráfico internacional de <b>pequena quantidade de munição</b> em situações excepcionais (por exemplo, poucas munições trazidas como souvenir em bagagem, sem arma), mas a regra é a tipicidade, por ser crime de perigo abstrato contra a segurança pública.</p><p class=\"jc-com\">Na prática, importação de acessórios (como miras e carregadores) comprados pela internet pode configurar o art. 18 se forem acessórios <b>controlados</b>. Atenção à distinção com o <b>contrabando</b> (CP, art. 334-A): quando o objeto é arma, acessório ou munição, aplica-se o art. 18, por ser norma <b>especial</b>.</p></div>\n<h3>11. Causas de aumento e o art. 21-A</h3>\n<ul><li><b>Art. 19</b>: nos crimes dos arts. 17 e 18, a pena é aumentada da <b>metade</b> se a arma de fogo, acessório ou munição forem de uso <b>proibido ou restrito</b>.</li><li><b>Art. 20</b>: nos crimes dos arts. 14, 15, 16, 17 e 18, a pena é aumentada da <b>metade</b> se: <b>I</b>, forem praticados por integrante dos órgãos e empresas referidas nos arts. 6º, 7º e 8º (policiais, guardas, vigilantes de empresas de segurança etc.); ou <b>II</b>, o agente for <b>reincidente específico</b> em crimes dessa natureza (incluído pelo Pacote Anticrime).</li><li><b>Art. 21</b>: dizia que os crimes dos arts. 16, 17 e 18 eram insuscetíveis de liberdade provisória. Foi declarado <b>inconstitucional</b> (ADI 3.112).</li><li><b>Art. 21-A</b> (incluído pela <b>Lei 15.358/2026</b>, a Lei Antifacção): as penas dos arts. <b>12, 14 e 16</b> são <b>aumentadas de 2/3</b> se o crime for praticado em <b>concurso com o tráfico de drogas</b> ou estiver relacionado ao <b>comércio de drogas</b>. Ao mesmo tempo, a Lei de Drogas ganhou o art. 40-A, que manda aplicar o <b>concurso material</b> quando houver arma de fogo no tráfico praticado por integrante de organização ultraviolenta.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · arma no contexto do tráfico (antes de 2026)</b><p class=\"jc-tese\">Até a Lei 15.358/2026, o STJ entendia que, quando a arma era usada para <b>assegurar o tráfico</b> (no mesmo contexto), o porte ficava <b>absorvido</b> pela majorante do art. 40, IV, da Lei de Drogas, aplicando-se só o tráfico majorado; se a arma tivesse contexto <b>autônomo</b>, havia concurso de crimes.</p><p class=\"jc-com\">A Lei Antifacção mudou o cenário, criando o art. 21-A (aumento de 2/3 nos crimes de armas ligados ao tráfico) e o concurso material no art. 40-A. A doutrina já discute se haverá <b>bis in idem</b> ao somar a majorante do art. 40, IV, com o crime de armas aumentado. Para provas, cobre-se a <b>letra</b> da lei nova e a <b>data do fato</b> (só vale para crimes após 25/03/2026).</p></div>\n<h3>12. Temas recorrentes na jurisprudência</h3>\n<ul><li><b>Várias armas no mesmo contexto</b>: a apreensão de <b>várias armas</b> do mesmo tipo penal (por exemplo, três revólveres de uso permitido na mesma casa) configura <b>crime único</b>, pois há uma só lesão à segurança pública; a quantidade influencia a <b>pena-base</b>. Se as armas se enquadram em tipos <b>diferentes</b> (uma de uso permitido, art. 12, e outra de uso restrito, art. 16), o STJ tem reconhecido <b>concurso formal</b> de crimes.</li><li><b>Posse e porte no mesmo contexto</b>: se o agente é preso portando uma arma e, em seguida, encontra-se outra em sua casa, há <b>dois</b> contextos (porte e posse), em regra em <b>concurso</b>.</li><li><b>Arma usada em roubo</b>: o porte ilegal fica <b>absorvido</b> pelo roubo quando a arma é usada apenas para a prática do roubo, no mesmo contexto (consunção). Se o agente continua com a arma após o crime, ou a portava em momento diverso, há concurso.</li><li><b>Arma usada em homicídio</b>: mesma lógica. Mas, se a arma é apreendida dias depois do homicídio, em poder do agente, há crime <b>autônomo</b> de porte ou posse.</li><li><b>Abolitio criminis temporária</b> (arts. 30 a 32): o Estatuto deu prazo para que os possuidores de armas não registradas as registrassem ou entregassem à Polícia Federal. Durante esse período, a <b>posse</b> (não o porte) foi considerada atípica. Prazos foram prorrogados até <b>31/12/2009</b> para armas de uso <b>permitido</b>. Hoje, a entrega <b>espontânea</b> da arma à PF, a qualquer tempo, extingue a punibilidade da <b>posse</b> irregular dessa arma (art. 32), com direito a indenização.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 513</b><p class=\"jc-tese\">\"A abolitio criminis temporária prevista na Lei n. 10.826/2003 aplica-se ao crime de posse de arma de fogo de uso permitido com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado, praticado somente até <b>23/10/2005</b>.\"</p><p class=\"jc-com\">A súmula organiza uma questão de direito intertemporal. As prorrogações posteriores a 2005 (até 2009) beneficiaram apenas a posse de arma de uso <b>permitido</b> que pudesse ser registrada, o que é impossível com numeração raspada. Para o porte, nunca houve abolitio.</p></div>\n<ul><li><b>Simulacro e arma de brinquedo</b>: o art. 26 <b>proíbe</b> a fabricação, venda, comercialização e importação de brinquedos, réplicas e simulacros de armas de fogo que com estas se possam confundir. Mas portar um simulacro <b>não</b> é crime do Estatuto (a violação do art. 26 é infração administrativa). No roubo, o simulacro caracteriza a grave ameaça, sem a majorante da arma de fogo.</li><li><b>Arma de pressão</b> (airsoft, chumbinho): <b>não</b> é arma de fogo, pois não usa a combustão de propelente. Não configura os crimes do Estatuto, embora seu comércio siga regras próprias do Exército.</li><li><b>Arma branca</b>: portar faca ou canivete fora de casa, sem licença, pode configurar a <b>contravenção</b> do art. 19 da Lei de Contravenções Penais (porte de arma). O STF reconheceu repercussão geral sobre a validade dessa contravenção para armas brancas (Tema 857), e a jurisprudência a admite com a exigência de que o contexto demonstre o uso como <b>arma</b> (e não como ferramenta).</li><li><b>CACs</b> (colecionadores, atiradores e caçadores): têm registro no <b>Exército</b> (Sigma) e podem transportar suas armas no trajeto entre o local de guarda e o clube de tiro, com <b>guia de tráfego</b> e conforme o regulamento. Fora dessas condições (desvio do trajeto, arma municiada em desacordo com as regras, transporte para outros fins), a conduta pode configurar <b>porte ilegal</b>. O enquadramento depende das normas do regulamento vigente, que mudou várias vezes desde 2019.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Portar simulacro de arma de fogo é crime do Estatuto</span><br>✅ <span class=\"certo\">É vedado pelo art. 26, mas <b>não</b> é crime</span></li><li>❌ <span class=\"banca\">Arma de pressão é arma de fogo para o Estatuto</span><br>✅ <span class=\"certo\"><b>Não</b> é arma de fogo</span></li><li>❌ <span class=\"banca\">Ter três revólveres sem registro em casa são três crimes do art. 12</span><br>✅ <span class=\"certo\">É <b>crime único</b>, com reflexo na pena-base</span></li></ol></div>\n<h3>13. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Revólver do avô</b><p>Ao cumprir mandado de busca por outro crime, a polícia encontra, no guarda-roupa de um aposentado, um revólver calibre 38 que era do avô dele, nunca registrado, e seis munições. Qual o crime?</p><details><summary>Ver a solução comentada</summary><p><b>Posse irregular de arma de fogo de uso permitido</b> (art. 12), crime de detenção de 1 a 3 anos. Arma e munições no mesmo contexto: crime <b>único</b>. O delegado pode arbitrar <b>fiança</b> (pena máxima de 3 anos). Se, antes da apreensão, o aposentado tivesse entregado espontaneamente a arma à PF, haveria extinção da punibilidade (art. 32).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Pistola no carro</b><p>Um empresário com CRAF válido de um revólver calibre .38 (uso permitido) leva a arma no porta-luvas, para \"se proteger\" no trânsito. Não tem porte. É abordado numa blitz.</p><details><summary>Ver a solução comentada</summary><p><b>Porte ilegal de arma de fogo de uso permitido</b> (art. 14): o veículo <b>não</b> é extensão da casa, e o registro só autoriza a posse. Pena de reclusão de 2 a 4 anos; o delegado pode arbitrar fiança (pena máxima de 4 anos). Se a arma fosse de calibre de <b>uso restrito</b> pelo regulamento vigente (o Decreto 11.615/2023, por exemplo, voltou a classificar como restritos calibres de pistola como o 9 mm para o cidadão comum), seria o art. 16. Confira sempre a classificação no laudo.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Numeração raspada</b><p>Em abordagem, um jovem é flagrado com um revólver calibre 32 (uso permitido) com a numeração raspada. Qual o crime? A fiança pode ser concedida na delegacia?</p><details><summary>Ver a solução comentada</summary><p><b>Art. 16, § 1º, IV</b> (porte de arma com numeração raspada), pena de reclusão de <b>3 a 6 anos</b>. Como a pena máxima supera 4 anos, o <b>delegado não</b> pode arbitrar fiança; caberá ao juiz decidir na audiência de custódia (fiança, liberdade provisória ou preventiva). O crime <b>não</b> é hediondo (só o uso <b>proibido</b> é).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Tiros de comemoração</b><p>Na virada do ano, um morador dispara três tiros para o alto, no quintal de casa, num bairro residencial. A arma é registrada e ele tem porte.</p><details><summary>Ver a solução comentada</summary><p><b>Disparo de arma de fogo</b> (art. 15): disparar em <b>lugar habitado</b> ou suas adjacências. Não importa que a arma seja legal. Pena de reclusão de 2 a 4 anos, aumentada de metade (art. 20, I) se ele integrar órgão do art. 6º (por exemplo, se for policial). O porte é <b>cassado</b> administrativamente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Armeiro clandestino</b><p>A polícia descobre que um homem, em sua casa, monta e vende pistolas artesanais e \"transforma\" pistolas em automáticas para traficantes.</p><details><summary>Ver a solução comentada</summary><p><b>Comércio ilegal de arma de fogo</b> (art. 17): a atividade clandestina em residência é equiparada à atividade comercial (§ 1º). Pena de 6 a 12 anos, aumentada de <b>metade</b> se as armas forem de uso restrito ou proibido (art. 19). É <b>hediondo</b>. A modificação de armas para torná-las automáticas pode configurar também o art. 16, § 1º, II, conforme o contexto, ou ficar absorvida pelo art. 17.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Fuzil na boca de fumo</b><p>Em 2026, após a Lei Antifacção, traficantes são presos numa boca de fumo com drogas e um fuzil de uso restrito usado para \"proteger o ponto\".</p><details><summary>Ver a solução comentada</summary><p>Tráfico (art. 33) e <b>art. 16</b> (arma de uso restrito) com o aumento de <b>2/3</b> do art. 21-A (crime de armas em concurso com o tráfico). Se integrarem organização ultraviolenta no contexto do domínio social estruturado, a pena do tráfico é aplicada <b>em dobro</b> (art. 40-A), com concurso material com o crime de armas. Se o fuzil for de uso <b>proibido</b>, aplica-se o art. 16, § 2º (hediondo).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Policial vende munição</b><p>Um policial civil vende munição de sua corporação a um conhecido. Qual o enquadramento?</p><details><summary>Ver a solução comentada</summary><p>Pode configurar <b>comércio ilegal</b> (art. 17), se houver habitualidade de atividade comercial, ou o art. 14/16 (verbo <b>fornecer</b>), em venda isolada, conforme o calibre. Em qualquer caso, incide o aumento de <b>metade</b> do <b>art. 20, I</b> (integrante de órgão do art. 6º), além de <b>peculato</b> (CP, art. 312), se a munição pertencia à Administração. Haverá também consequências disciplinares graves.</p></details></div>\n<h3>14. Classificação das armas: permitido, restrito e proibido</h3>\n<ul><li>A lei não define calibres: quem faz isso é o <b>regulamento</b> (decreto do Presidente da República), com base em critérios técnicos de <b>energia</b> do projétil, <b>tipo de funcionamento</b> e <b>finalidade</b>. Por isso, o mesmo calibre pode mudar de categoria quando um novo decreto entra em vigor, como ocorreu várias vezes entre 2019 e 2023.</li><li><b>Uso permitido</b>: armas de menor energia, de porte (revólveres e pistolas de calibres mais leves) e as armas longas de alma lisa e calibres de caça comuns, autorizadas para pessoas físicas e jurídicas conforme as normas do Exército.</li><li><b>Uso restrito</b>: armas de maior energia ou de características que justificam controle mais rigoroso; somente podem ser utilizadas pelas Forças Armadas, por instituições de segurança pública e por pessoas físicas e jurídicas <b>habilitadas</b>, devidamente autorizadas pelo Comando do Exército.</li><li><b>Uso proibido</b>: armas cujo uso é vedado pela lei ou por tratados; armas <b>dissimuladas</b> (com aparência de objeto inofensivo, como a \"caneta-pistola\" ou a \"bengala-espingarda\"); armas de fogo <b>automáticas</b> fora das hipóteses autorizadas; munições incendiárias, químicas ou de características especialmente danosas.</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Por que isso importa no enquadramento</b><p>Num mesmo flagrante, a escolha entre art. 14 (2 a 4 anos, fiança na delegacia), art. 16, caput (3 a 6 anos, sem fiança na delegacia, não hediondo) e art. 16, § 2º (4 a 12 anos, hediondo) depende da <b>classificação</b> da arma, que se prova pelo <b>laudo</b> com referência ao <b>regulamento vigente na data do fato</b>. Se o decreto posterior reclassificar o calibre como permitido, ocorre <b>retroatividade benéfica</b> (lei penal em branco cujo complemento muda o próprio juízo de reprovação).</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · mudança de decreto e retroatividade</b><p class=\"jc-tese\">Quando um decreto <b>reclassifica</b> um calibre de restrito para permitido, a doutrina e a jurisprudência majoritárias entendem que o novo complemento <b>retroage</b> para beneficiar quem foi denunciado pelo art. 16, desclassificando a conduta para os arts. 12 ou 14.</p><p class=\"jc-com\">O fundamento é que a classificação do calibre integra o próprio <b>tipo penal</b> (norma penal em branco heterogênea) e reflete uma nova valoração estatal sobre a periculosidade da arma, e não uma mera situação temporária. O caminho inverso (decreto que torna restrito o que era permitido) <b>não</b> retroage. Essa discussão foi intensa com os decretos de 2019 (que ampliaram os calibres permitidos) e com o Decreto 11.615/2023 (que voltou a restringi-los).</p></div>\n<h3>15. Registro, porte e cassação</h3>\n<ul><li><b>Validade e renovação</b>: o registro e o porte têm validade definida no regulamento e exigem renovação, com nova comprovação de requisitos (idoneidade, capacidade técnica, aptidão psicológica). A falta de renovação do <b>registro</b> gera, segundo o STJ, irregularidade administrativa na posse; a falta de renovação do <b>porte</b> faz o portador ficar sem autorização para levar a arma fora de casa.</li><li><b>Cassação</b>: o porte pode ser cassado a qualquer tempo, principalmente se o titular for indiciado em inquérito ou denunciado por crime doloso, se for flagrado embriagado ou se deixar de atender aos requisitos. Na <b>Lei Maria da Penha</b>, o juiz pode <b>suspender a posse ou restringir o porte</b> de armas do agressor como medida protetiva de urgência (art. 22, I), comunicando o órgão competente; e o agressor deve entregar as armas.</li><li><b>Apreensão administrativa</b>: armas com registro vencido, ainda que a conduta não seja crime, podem ser <b>apreendidas</b> administrativamente e o proprietário multado, até a regularização.</li><li><b>Transferência</b>: a transferência de propriedade de arma de fogo entre particulares exige <b>autorização prévia</b> do Sinarm (ou do Exército, conforme o caso). Vender ou doar a arma a outra pessoa sem essa autorização pode configurar crime (verbos \"ceder\", \"fornecer\" do art. 14 ou 16), para quem entrega e para quem recebe.</li><li><b>Comunicação de extravio</b>: o cidadão que perde a arma ou tem a arma furtada ou roubada deve registrar ocorrência e comunicar à PF. A omissão do cidadão comum <b>não</b> é o crime do art. 13, parágrafo único (que só atinge empresas de segurança e transporte de valores), mas pode gerar consequências administrativas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O cidadão que não comunica o furto de sua arma em 24 horas comete o crime do art. 13, parágrafo único</span><br>✅ <span class=\"certo\">O crime é só do proprietário ou diretor de <b>empresa de segurança e transporte de valores</b></span></li><li>❌ <span class=\"banca\">Vender arma registrada a um amigo, sem autorização do Sinarm, é mera irregularidade</span><br>✅ <span class=\"certo\">Pode configurar crime (verbos <b>ceder</b> ou <b>fornecer</b>)</span></li><li>❌ <span class=\"banca\">O juiz da Lei Maria da Penha não pode interferir na posse de arma do agressor</span><br>✅ <span class=\"certo\">Pode <b>suspender a posse</b> ou <b>restringir o porte</b> (art. 22, I)</span></li></ol></div>\n<h3>16. Guardas municipais, vigilantes e outros portes funcionais</h3>\n<ul><li><b>Guardas municipais</b>: a Constituição as prevê no art. 144, § 8º, e o Estatuto Geral das Guardas Municipais (Lei 13.022/2014) as disciplina. O Estatuto do Desarmamento limitava o porte conforme o tamanho do município (incisos III e IV do art. 6º). O STF, nas <b>ADIs 5.538 e 5.948</b> (2021), declarou inconstitucionais esses limites populacionais, por violarem a <b>isonomia</b> e a autonomia municipal. Hoje, o porte das guardas segue a regulamentação, com exigência de <b>formação</b>, <b>controle interno</b> (corregedoria) e <b>ouvidoria</b>, nos termos do art. 6º, § 3º, e do regulamento. Na ADPF 995 (2023), o STF reconheceu que as guardas municipais integram o <b>Sistema de Segurança Pública</b>.</li><li><b>Vigilantes</b> de empresas de segurança privada: o porte é da <b>empresa</b>, e não do vigilante. A arma deve ser usada <b>apenas em serviço</b>, no local de trabalho e com a documentação da empresa. O vigilante que leva a arma da empresa para casa, fora do serviço, comete, em tese, <b>porte ilegal</b>, e a empresa responde administrativamente.</li><li><b>Agentes de segurança socioeducativos, agentes de trânsito e outros</b>: só têm porte se houver previsão em <b>lei federal</b> (a matéria é de competência privativa da União, CF, art. 22, I e XXI). Leis <b>estaduais</b> ou <b>municipais</b> que concedem porte de arma a categorias não previstas na lei federal são <b>inconstitucionais</b>, segundo o STF em vários julgados.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · competência da União sobre porte</b><p class=\"jc-tese\">O STF tem declarado inconstitucionais leis estaduais que concedem porte de arma a categorias como procuradores do Estado, agentes de trânsito, oficiais de justiça ou servidores de outros órgãos, por invasão da competência <b>privativa da União</b> para legislar sobre <b>material bélico</b> (CF, art. 21, VI, e art. 22, XXI) e sobre direito penal.</p><p class=\"jc-com\">Em provas de Constitucional e de Legislação Especial, a regra é: <b>porte de arma é matéria de lei federal</b>. O Estado pode organizar sua polícia, mas não pode criar novas hipóteses de porte.</p></div>\n<h3>17. Colecionadores, atiradores e caçadores (CACs)</h3>\n<ul><li>Os CACs têm registro no <b>Exército</b> (Sigma) e certificados próprios (o <b>Certificado de Registro</b>, CR). A posse das armas de seu acervo se dá no endereço cadastrado, e o <b>transporte</b> entre o local de guarda e o clube de tiro, local de caça ou de competição exige <b>guia de tráfego</b> e o cumprimento das regras do regulamento.</li><li>O regulamento de 2023 reduziu as quantidades de armas e munições permitidas, restringiu calibres, exigiu <b>habitualidade</b> comprovada para atiradores e impôs controle maior sobre clubes de tiro. A violação dessas regras pode configurar crime, conforme o caso: por exemplo, o atirador que se desvia do trajeto para ir a uma festa com a arma municiada pode responder por <b>porte ilegal</b>, e quem revende munição adquirida como CAC pode responder por <b>comércio ilegal</b>.</li><li><b>Desvio de armas de CACs para o crime</b>: investigações da PF identificaram armas e munições compradas por CACs que acabaram com facções. Nessas situações, além dos crimes do Estatuto, pode haver <b>associação criminosa</b>, <b>organização criminosa</b> e <b>lavagem de dinheiro</b>, e o certificado é cassado.</li></ul>\n<h3>18. Mais casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Vigilante leva arma para casa</b><p>Um vigilante de banco, ao fim do turno, leva para casa o revólver da empresa, guarda-o no armário e é flagrado pela polícia, após denúncia de vizinhos, numa discussão. Qual o crime?</p><details><summary>Ver a solução comentada</summary><p>Ao sair do local de trabalho com a arma, ele praticou <b>porte ilegal</b> (art. 14), pois o porte é da empresa e restrito ao serviço. Guardá-la em casa não configura o art. 12 em seu favor, pois a arma não é registrada em seu nome. A empresa pode ser responsabilizada administrativamente. Se a arma for de uso restrito, o enquadramento é o art. 16.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Coquetel molotov na manifestação</b><p>Durante uma manifestação, um jovem é preso com três garrafas com gasolina e pavio, prontas para uso. Qual o crime?</p><details><summary>Ver a solução comentada</summary><p><b>Art. 16, § 1º, III</b>: possuir, deter, fabricar ou empregar <b>artefato explosivo ou incendiário</b> sem autorização. Pena de reclusão de 3 a 6 anos. Se chegar a lançar o artefato e causar incêndio, responde também pelo crime de <b>incêndio</b> (CP, art. 250), conforme o caso.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Pai que deixa a arma na gaveta</b><p>Um pai guarda o revólver, registrado, numa gaveta destrancada. O filho de 12 anos pega a arma e a leva para a escola, onde a mostra aos colegas. Qual a responsabilidade do pai?</p><details><summary>Ver a solução comentada</summary><p><b>Omissão de cautela</b> (art. 13, caput): deixou de observar as cautelas necessárias para impedir que o <b>menor de 18 anos</b> se apoderasse da arma. É crime <b>culposo</b>, punido com detenção de 1 a 2 anos. Se houver disparo e alguém se ferir, o pai pode responder também por <b>lesão corporal culposa</b> ou <b>homicídio culposo</b>, conforme o resultado. O menor pratica ato infracional.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Venda de arma pelo Instagram</b><p>Um homem anuncia em rede social a venda de pistolas e munições \"sem papel\" e entrega duas armas a compradores diferentes no mesmo mês. Em uma das negociações, o comprador é um policial à paisana, que acompanhava o perfil.</p><details><summary>Ver a solução comentada</summary><p>A habitualidade e a oferta pública caracterizam <b>atividade comercial clandestina</b>, configurando o <b>comércio ilegal</b> (art. 17), inclusive pela venda ao <b>agente disfarçado</b> (§ 2º), já que havia conduta criminosa preexistente. Pena de 6 a 12 anos, aumentada de metade se as armas forem de uso restrito ou proibido (art. 19). É <b>hediondo</b>.</p></details></div>\n<h3>19. O Estatuto e outras leis: conflitos aparentes</h3>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Lei que prevalece</th><th>Motivo</th></tr></thead><tbody><tr><td>Venda de <b>arma de fogo</b> a adolescente</td><td>Estatuto, art. 16, § 1º, V</td><td>norma especial e posterior ao ECA</td></tr><tr><td>Venda de <b>arma branca</b> (faca) a adolescente</td><td>ECA, art. 242</td><td>o Estatuto só trata de arma de fogo, munição e explosivo</td></tr><tr><td>Porte de <b>faca</b> na rua, como arma</td><td>LCP, art. 19 (contravenção)</td><td>Estatuto não abrange arma branca</td></tr><tr><td>Importação de <b>arma ou munição</b> sem autorização</td><td>Estatuto, art. 18</td><td>especial em relação ao contrabando (CP, art. 334-A)</td></tr><tr><td>Importação de <b>acessório não controlado</b> (por exemplo, coldre)</td><td>pode ser atípica ou contrabando, conforme o produto</td><td>o art. 18 só abrange itens controlados</td></tr><tr><td>Arma de fogo usada no <b>roubo</b></td><td>CP, art. 157, § 2º-A, I (majorante)</td><td>o porte é absorvido no mesmo contexto</td></tr><tr><td>Arma no <b>tráfico</b> (até 03/2026)</td><td>Lei de Drogas, art. 40, IV (majorante)</td><td>absorção do porte no mesmo contexto</td></tr><tr><td>Arma no <b>tráfico</b> (a partir de 25/03/2026)</td><td>Estatuto, art. 21-A, e Lei de Drogas, art. 40-A</td><td>concurso com aumento de 2/3</td></tr><tr><td>Receber arma <b>roubada</b></td><td>CP, art. 180 (receptação) e Estatuto</td><td>concurso, conforme o caso</td></tr></tbody></table>\n<ul><li><b>Receptação e porte</b>: quem compra uma arma sabendo que é produto de roubo responde por <b>receptação</b> (CP, art. 180) e pelo crime do Estatuto (posse ou porte), em <b>concurso</b>, pois os bens jurídicos são distintos (patrimônio e segurança pública). Se a arma tiver numeração raspada, o crime do Estatuto será o do art. 16, § 1º, IV.</li><li><b>Associação e organização criminosa</b>: o grupo armado que se associa para cometer crimes pode responder pela <b>associação criminosa armada</b> (CP, art. 288, parágrafo único, aumento até a metade) ou pela <b>organização criminosa</b> com emprego de arma (Lei 12.850, art. 2º, § 2º, aumento até a metade), além dos crimes do Estatuto, conforme a jurisprudência, que admite o concurso quando a arma tem contexto autônomo.</li><li><b>Milícia privada</b>: a constituição de milícia (CP, art. 288-A) não absorve automaticamente os crimes de armas, que podem ser punidos em concurso. Com a Lei 15.358/2026, condutas de milícias e facções ultraviolentas que impõem controle territorial podem configurar o <b>domínio social estruturado</b>, crime hediondo.</li></ul>\n<h3>20. Linha do tempo do controle de armas</h3>\n<div class=\"lt-fluxo\"><span>1997: Lei 9.437 (primeira lei a criminalizar o porte ilegal)</span> <em>→</em> <span>2003: Estatuto do Desarmamento (Lei 10.826)</span> <em>→</em> <span>2005: referendo popular mantém a venda de armas ao cidadão</span> <em>→</em> <span>2007: STF julga a ADI 3.112</span> <em>→</em> <span>2004 a 2009: campanhas de entrega e abolitio criminis temporária</span> <em>→</em> <span>2019: decretos ampliam acesso a armas e calibres</span> <em>→</em> <span>2019: Pacote Anticrime (penas maiores, uso proibido hediondo, agente disfarçado)</span> <em>→</em> <span>2021: STF libera porte para todas as guardas municipais</span> <em>→</em> <span>2023: Decreto 11.615 restringe novamente calibres e acesso</span> <em>→</em> <span>2026: Lei Antifacção (art. 21-A)</span></div>\n<ul><li>O <b>referendo de 2005</b> é tema recorrente: a população votou <b>contra</b> a proibição do comércio de armas de fogo e munição, previsto no art. 35 do Estatuto. Por isso, o art. 35 (que proibia a venda em todo o território, salvo para os órgãos do art. 6º) <b>não entrou em vigor</b>: sua eficácia dependia de aprovação em referendo (§ 1º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Estatuto do Desarmamento proíbe a venda de armas ao cidadão comum</span><br>✅ <span class=\"certo\">A proibição do art. 35 dependia de referendo e foi <b>rejeitada</b> em 2005</span></li><li>❌ <span class=\"banca\">A primeira lei a tipificar o porte ilegal de arma como crime foi o Estatuto de 2003</span><br>✅ <span class=\"certo\">Foi a <b>Lei 9.437/1997</b>; antes, o porte era <b>contravenção</b> (LCP, art. 19)</span></li><li>❌ <span class=\"banca\">Os decretos podem criar novos crimes de armas</span><br>✅ <span class=\"certo\">Decreto só <b>complementa</b> a norma penal em branco; crime é criado por <b>lei</b></span></li></ol></div>\n<h3>21. Mais jurisprudência essencial</h3>\n<div class=\"lt-juris\"><b class=\"lt-tit\">⚖ Jurisprudência</b><ul><li><b>STF, ADI 3.112</b>: constitucionalidade geral do Estatuto; inconstitucionalidade dos parágrafos únicos dos arts. 14 e 15 e do art. 21</li><li><b>STF, ADIs 5.538 e 5.948</b>: porte para todas as guardas municipais, sem critério populacional</li><li><b>STJ, APn 686</b>: posse de arma de uso permitido com registro vencido é irregularidade administrativa</li><li><b>STJ, Súmula 513</b>: abolitio temporária para numeração raspada até 23/10/2005</li><li><b>STF e STJ</b>: porte de arma desmuniciada é crime (perigo abstrato)</li><li><b>STJ</b>: arma absolutamente ineficaz, atestada em laudo, gera crime impossível</li><li><b>STJ</b>: o veículo e a boleia do caminhão não são extensão da residência ou do local de trabalho</li><li><b>STJ</b>: numeração raspada de arma de uso permitido configura o art. 16, § 1º, IV, não hediondo após o Pacote Anticrime</li><li><b>STF e STJ</b>: insignificância excepcional para pequena quantidade de munição isolada, sem contexto de outro crime</li><li><b>STF</b>: leis estaduais não podem conceder porte de arma (competência da União)</li></ul></div>\n<ul><li><b>Prova do porte sem apreensão da arma</b>: se a arma não foi apreendida (o agente a jogou fora durante a fuga e ela não foi encontrada), a condenação pelo porte é possível? A jurisprudência admite a condenação com base em <b>outras provas</b> (testemunhas, vídeos), mas, sem laudo, discute-se a prova da potencialidade lesiva. No <b>roubo</b>, o STJ admite a majorante da arma de fogo sem apreensão, se outros meios provarem o uso; cabe à defesa provar a ineficácia.</li><li><b>Arma de fogo de uso permitido sem munição e sem registro em casa, em área rural</b>: continua sendo o art. 12. A localização rural não exclui o crime, mas pode, no caso concreto, justificar a concessão do porte rural de subsistência, se preenchidos os requisitos.</li><li><b>Laudo e cadeia de custódia</b>: a arma apreendida deve seguir a <b>cadeia de custódia</b> (CPP, arts. 158-A a 158-F), com lacre, registro e rastreabilidade até a perícia. Falhas graves podem comprometer a confiabilidade da prova, e a defesa costuma explorar essa via.</li><li><b>Arma encontrada em área comum de prédio ou em terreno baldio</b>: se a arma está escondida em local de uso comum, é preciso provar o <b>vínculo</b> entre ela e o investigado (quem a escondeu, quem tinha acesso, impressões digitais, imagens). Sem esse vínculo, não há como atribuir a posse ou o porte a ninguém, por mais suspeito que seja o contexto. Por isso, a perícia papiloscópica e a análise de imagens são tão importantes nas apreensões em locais abertos.</li><li><b>Posse compartilhada</b>: se a arma é encontrada numa casa onde moram várias pessoas, todas maiores, a responsabilidade não é automática. Responde quem tinha a arma <b>sob sua guarda</b> ou sabia dela e a mantinha. A jurisprudência rejeita a responsabilização objetiva do dono da casa apenas por ser o proprietário do imóvel, exigindo prova do <b>dolo</b> de possuir.</li><li><b>Arma de fogo e excludentes</b>: a posse ou o porte ilegal <b>não</b> se justificam pela alegação genérica de que o bairro é perigoso ou de que o agente sofreu ameaças. O estado de necessidade exige perigo <b>atual</b> e inevitável por outro modo; a ameaça difusa não basta. Excepcionalmente, a jurisprudência admite a <b>inexigibilidade de conduta diversa</b> ou o estado de necessidade em situações extremas e comprovadas, como o uso de arma alheia para repelir agressão em curso, caso em que o porte momentâneo é absorvido pela legítima defesa.</li></ul>\n<h3>22. O Estatuto na rotina policial</h3>\n<ul><li><b>Laudo de eficiência</b>: toda arma, acessório ou munição apreendida deve ser encaminhada à <b>perícia</b> para exame de eficiência e identificação (calibre, numeração, aptidão para disparo). O laudo define o <b>tipo penal</b> (permitido, restrito, proibido, numeração suprimida) e afasta a tese de crime impossível. A jurisprudência admite a condenação <b>sem</b> laudo quando outros elementos comprovam a potencialidade lesiva (por exemplo, a arma foi usada para disparar), mas o laudo é a regra.</li><li><b>Consulta ao Sinarm e ao Sigma</b>: no flagrante, verifique se a arma tem registro, se há porte válido e se há registro de furto ou roubo. Arma com registro de <b>roubo</b> pode levar também à <b>receptação</b> (CP, art. 180), em concurso com o crime do Estatuto, conforme o contexto.</li><li><b>Fiança na delegacia</b>: o delegado pode arbitrar fiança nos crimes com pena máxima de até <b>4 anos</b> (CPP, art. 322): arts. <b>12</b>, <b>13</b>, <b>14</b> e <b>15</b>. Nos arts. <b>16</b>, <b>17</b> e <b>18</b>, só o <b>juiz</b>. E lembre-se de que o aumento do art. 20 ou do art. 21-A pode elevar a pena máxima acima de 4 anos, retirando do delegado o poder de arbitrar fiança.</li><li><b>Busca em veículo</b>: segue as regras da busca pessoal (fundada suspeita, CPP, art. 244). Não é necessário mandado para revistar veículo em via pública, salvo quando ele funciona como <b>moradia</b> (trailer, boleia usada como habitação), hipótese em que a proteção do domicílio pode ser invocada.</li><li><b>Destinação das armas apreendidas</b>: após o laudo e quando não mais interessarem à persecução, as armas são encaminhadas ao <b>Comando do Exército</b> para destruição ou doação aos órgãos de segurança pública (art. 25), na forma do regulamento.</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Arma da corporação x arma particular</b><p>O policial que usa a arma <b>da corporação</b> fora do serviço, em desacordo com as normas internas, comete em regra infração <b>disciplinar</b>. Já o policial que porta arma <b>particular</b> sem registro, ou com numeração raspada, comete o <b>crime</b> do Estatuto como qualquer cidadão, com o aumento de metade do art. 20, I. O porte funcional não \"legaliza\" uma arma ilegal.</p></div>\n<h3>23. Perguntas frequentes em provas discursivas</h3>\n<ul><li><b>\"Diferencie posse e porte de arma de fogo.\"</b> A posse (art. 12) é manter a arma de uso permitido no interior da residência ou no local de trabalho de que se é titular ou responsável; o porte (art. 14) é levá-la consigo fora desses locais, inclusive no veículo. O registro autoriza apenas a posse; o porte depende de autorização específica (art. 6º, legislação própria ou art. 10). Para armas de uso restrito, posse e porte estão no mesmo tipo (art. 16).</li><li><b>\"O porte de arma desmuniciada é crime?\"</b> Sim. Os crimes do Estatuto são de perigo abstrato e tutelam a segurança pública; a arma pode ser municiada a qualquer momento (STF e STJ). Só haverá crime impossível se o laudo atestar a ineficácia absoluta da arma.</li><li><b>\"Quais dispositivos do Estatuto foram declarados inconstitucionais?\"</b> Os parágrafos únicos dos arts. 14 e 15 (inafiançabilidade) e o art. 21 (vedação de liberdade provisória), na ADI 3.112. Também a limitação do porte das guardas municipais pelo número de habitantes (ADIs 5.538 e 5.948).</li><li><b>\"O que mudou com o Pacote Anticrime e com a Lei Antifacção?\"</b> O Pacote elevou as penas dos arts. 17 e 18, criou o § 2º do art. 16 (uso proibido, 4 a 12 anos), previu a venda a agente disfarçado (arts. 17, § 2º, e 18, parágrafo único), acrescentou a reincidência específica ao art. 20 e restringiu a hediondez às armas de uso proibido. A Lei Antifacção criou o art. 21-A (aumento de 2/3 quando ligados ao tráfico).</li></ul>\n<h3>24. Como as bancas cobram este tópico</h3>\n<ul><li><b>Conceitos</b>: registro x posse x porte; Sinarm (PF) x Sigma (Exército); idade de 25 anos; requisitos do art. 4º; porte pessoal, intransferível e que perde a eficácia com a embriaguez.</li><li><b>Crimes</b>: penas (detenção no 12 e no 13; reclusão nos demais); verbos do art. 14; o único culposo (art. 13, caput); o prazo de 24 horas (art. 13, parágrafo único); subsidiariedade do art. 15; figuras do art. 16, § 1º; § 2º hediondo.</li><li><b>Jurisprudência</b>: registro vencido (atípico na posse); arma desmuniciada (crime); munição isolada (crime, insignificância excepcional); arma inapta (crime impossível); veículo não é extensão da casa; numeração raspada (art. 16, § 1º, IV); ADI 3.112; Súmula 513 do STJ.</li><li><b>Bancas</b>: a <b>FGV</b> gosta de casos com escolha do tipo penal e da fiança; o <b>Cebraspe</b> cobra afirmações sobre jurisprudência (desmuniciada, registro vencido, ADI 3.112); a <b>Consulplan</b> cobra a letra dos arts. 12 a 21.</li></ul>\n<h3>25. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sinarm</span></span><span class=\"vs\"><span>sistema da Polícia Federal (armas de uso permitido)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sigma</span></span><span class=\"vs\"><span>sistema do Exército (Forças Armadas, CACs, uso restrito)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Registro</span></span><span class=\"vs\"><span>autoriza só a posse (casa ou trabalho)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Porte</span></span><span class=\"vs\"><span>regra é a proibição; exceções do art. 6º e art. 10</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Idade mínima</span></span><span class=\"vs\"><span>25 anos (art. 28)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 12</span></span><span class=\"vs\"><span>posse de uso permitido, detenção 1 a 3 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 13 caput</span></span><span class=\"vs\"><span>omissão de cautela, único crime culposo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 13 parágrafo único</span></span><span class=\"vs\"><span>empresa de segurança, comunicar em 24 horas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 14</span></span><span class=\"vs\"><span>porte de uso permitido, reclusão 2 a 4 anos, 13 verbos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 15</span></span><span class=\"vs\"><span>disparo, subsidiário, 2 a 4 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 16 caput</span></span><span class=\"vs\"><span>posse ou porte de uso restrito, 3 a 6 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 16, § 1º, IV</span></span><span class=\"vs\"><span>numeração raspada, mesmo de uso permitido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 16, § 2º</span></span><span class=\"vs\"><span>uso proibido, 4 a 12 anos, hediondo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 17</span></span><span class=\"vs\"><span>comércio ilegal, 6 a 12 anos, hediondo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 18</span></span><span class=\"vs\"><span>tráfico internacional, 8 a 16 anos, hediondo, Justiça Federal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 19</span></span><span class=\"vs\"><span>aumento de metade nos arts. 17 e 18 (restrito ou proibido)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 20</span></span><span class=\"vs\"><span>aumento de metade (agente do art. 6º ou reincidente específico)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 21</span></span><span class=\"vs\"><span>inconstitucional (ADI 3.112)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 21-A</span></span><span class=\"vs\"><span>aumento de 2/3 quando ligado ao tráfico (2026)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Registro vencido em casa</span></span><span class=\"vs\"><span>atípico (STJ, APn 686)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arma desmuniciada</span></span><span class=\"vs\"><span>crime</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arma totalmente inapta</span></span><span class=\"vs\"><span>crime impossível</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Veículo</span></span><span class=\"vs\"><span>não é extensão da casa (porte)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Súmula 513 STJ</span></span><span class=\"vs\"><span>abolitio temporária até 23/10/2005 para numeração raspada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Simulacro</span></span><span class=\"vs\"><span>proibido (art. 26), mas não é crime</span></span></button></div></div>\n<h3>26. Resumo em uma página</h3>\n<ul><li><b>Sistema</b>: Sinarm (PF) e Sigma (Exército); registro obrigatório; requisitos do art. 4º; idade de 25 anos; decreto define permitido, restrito e proibido.</li><li><b>Porte</b>: proibido como regra; exceções do art. 6º (Forças Armadas, polícias, guardas municipais, Abin, polícias legislativas, agentes prisionais, segurança privada, desportistas, auditores, segurança do Judiciário e do MP); legislação própria (juízes e promotores); porte excepcional da PF (art. 10), que perde a eficácia com embriaguez.</li><li><b>Crimes</b>: 12 (posse permitido), 13 (omissão de cautela), 14 (porte permitido), 15 (disparo), 16 (restrito; § 1º equiparados; § 2º proibido), 17 (comércio), 18 (tráfico internacional).</li><li><b>Aumentos</b>: art. 19 (metade), art. 20 (metade), art. 21-A (2/3, tráfico).</li><li><b>STF</b>: ADI 3.112 (fiança e liberdade provisória possíveis); guardas municipais com porte (ADIs 5.538 e 5.948).</li><li><b>Hediondos</b>: 16, § 2º (proibido), 17 e 18.</li></ul>",
 "quiz": [
+{
+"p": "O Sinarm é instituído no Ministério da Justiça, no âmbito da Polícia Federal, com circunscrição em todo o território nacional.",
+"c": true,
+"prof": "Sinarm.",
+"x": "Art. 1º.",
+"e": "PF"
+},
+{
+"p": "As armas dos colecionadores, atiradores e caçadores são cadastradas no Sinarm, sob controle da Polícia Federal.",
+"c": false,
+"prof": "Sinarm.",
+"x": "Sigma, Exército.",
+"e": "CACs"
+},
+{
+"p": "O registro de arma de fogo autoriza o proprietário a mantê-la no interior de sua residência ou no local de trabalho, se for o titular ou responsável legal pelo estabelecimento.",
+"c": true,
+"prof": "Registro.",
+"x": "Art. 5º.",
+"e": "Posse"
+},
+{
+"p": "O certificado de registro de arma de fogo autoriza seu titular a portá-la em via pública.",
+"c": false,
+"prof": "Registro.",
+"x": "Registro não é porte.",
+"e": "Porte"
+},
+{
+"p": "É proibida a venda de arma de fogo a menores de 25 anos, salvo para integrantes das entidades do art. 6º.",
+"c": true,
+"prof": "Aquisição.",
+"x": "Art. 28.",
+"e": "25 anos"
+},
+{
+"p": "Para adquirir arma de uso permitido, o interessado deve comprovar idoneidade, ocupação lícita, residência certa, capacidade técnica e aptidão psicológica.",
+"c": true,
+"prof": "Aquisição.",
+"x": "Art. 4º.",
+"e": "Requisitos"
+},
+{
+"p": "Responder a inquérito policial não impede a aquisição de arma de fogo, pois apenas a condenação definitiva é impeditiva.",
+"c": false,
+"prof": "Aquisição.",
+"x": "Art. 4º, I.",
+"e": "Inquérito"
+},
+{
+"p": "O porte de arma concedido pela Polícia Federal perde automaticamente a eficácia se o portador for detido ou abordado em estado de embriaguez.",
+"c": true,
+"prof": "Porte.",
+"x": "Art. 10, § 2º.",
+"e": "Embriaguez"
+},
+{
+"p": "Segundo o STF, todas as guardas municipais podem ter porte de arma, sendo inconstitucional o critério do número de habitantes.",
+"c": true,
+"prof": "Porte.",
+"x": "ADIs 5.538 e 5.948.",
+"e": "Guardas"
+},
+{
+"p": "O porte ilegal de arma de fogo de uso permitido é crime inafiançável.",
+"c": false,
+"prof": "ADI 3.112.",
+"x": "Parágrafo único inconstitucional.",
+"e": "Fiança"
+},
+{
+"p": "Os crimes dos arts. 16, 17 e 18 do Estatuto são insuscetíveis de liberdade provisória.",
+"c": false,
+"prof": "ADI 3.112.",
+"x": "Art. 21 inconstitucional.",
+"e": "Liberdade provisória"
+},
+{
+"p": "A posse irregular de arma de fogo de uso permitido é punida com detenção de 1 a 3 anos e multa.",
+"c": true,
+"prof": "Art. 12.",
+"x": "Detenção.",
+"e": "Pena"
+},
+{
+"p": "O empregado que guarda arma de fogo sem registro na loja em que trabalha comete o crime de posse irregular (art. 12).",
+"c": false,
+"prof": "Art. 12.",
+"x": "Só titular ou responsável.",
+"e": "Local de trabalho"
+},
+{
+"p": "Segundo o STJ, manter em casa arma de uso permitido com registro vencido é mera irregularidade administrativa.",
+"c": true,
+"prof": "Art. 12.",
+"x": "APn 686.",
+"e": "Registro vencido"
+},
+{
+"p": "O entendimento de que o registro vencido é mera irregularidade administrativa aplica-se também ao porte de arma em via pública.",
+"c": false,
+"prof": "Art. 14.",
+"x": "Porte continua crime.",
+"e": "Porte"
+},
+{
+"p": "O crime de omissão de cautela (art. 13, caput) é culposo.",
+"c": true,
+"prof": "Art. 13.",
+"x": "Cautelas necessárias.",
+"e": "Culposo"
+},
+{
+"p": "Comete o crime do art. 13 quem deixa de observar cautelas e permite que um adulto capaz se apodere de sua arma.",
+"c": false,
+"prof": "Art. 13.",
+"x": "Menor de 18 ou deficiente mental.",
+"e": "Vítimas"
+},
+{
+"p": "O diretor de empresa de segurança que deixa de comunicar à Polícia Federal o furto de arma nas primeiras 24 horas comete crime.",
+"c": true,
+"prof": "Art. 13.",
+"x": "Parágrafo único.",
+"e": "24 horas"
+},
+{
+"p": "Emprestar gratuitamente arma de uso permitido a terceiro, sem autorização, configura o crime do art. 14.",
+"c": true,
+"prof": "Art. 14.",
+"x": "Verbo emprestar.",
+"e": "Gratuidade"
+},
+{
+"p": "O transporte de arma registrada no carro, sem autorização de porte, configura porte ilegal.",
+"c": true,
+"prof": "Art. 14.",
+"x": "Veículo não é casa.",
+"e": "Veículo"
+},
+{
+"p": "Segundo o STF e o STJ, o porte de arma de fogo desmuniciada configura crime.",
+"c": true,
+"prof": "Perigo abstrato.",
+"x": "Segurança pública.",
+"e": "Desmuniciada"
+},
+{
+"p": "Se o laudo pericial atestar a absoluta ineficácia da arma para disparar, configura-se crime impossível.",
+"c": true,
+"prof": "Arma inapta.",
+"x": "CP, art. 17.",
+"e": "Ineficácia absoluta"
+},
+{
+"p": "O porte de munição desacompanhada de arma é sempre atípico.",
+"c": false,
+"prof": "Munição.",
+"x": "Em regra é crime.",
+"e": "Insignificância excepcional"
+},
+{
+"p": "O disparo de arma de fogo em lugar habitado é crime, ainda que a arma seja registrada e o agente tenha porte.",
+"c": true,
+"prof": "Art. 15.",
+"x": "Legalidade da arma é irrelevante.",
+"e": "Disparo"
+},
+{
+"p": "O crime de disparo de arma de fogo é expressamente subsidiário, não se aplicando quando a conduta tiver como finalidade a prática de outro crime.",
+"c": true,
+"prof": "Art. 15.",
+"x": "Cláusula de subsidiariedade.",
+"e": "Subsidiário"
+},
+{
+"p": "Quem dispara contra a vítima com intenção de matá-la responde por tentativa de homicídio em concurso material com o crime de disparo.",
+"c": false,
+"prof": "Art. 15.",
+"x": "Subsidiariedade.",
+"e": "Homicídio"
+},
+{
+"p": "No art. 16, a posse e o porte de arma de uso restrito estão no mesmo tipo penal, com a mesma pena.",
+"c": true,
+"prof": "Art. 16.",
+"x": "Caput.",
+"e": "Restrito"
+},
+{
+"p": "Portar arma de uso permitido com numeração raspada configura o crime do art. 16, § 1º, IV, do Estatuto.",
+"c": true,
+"prof": "Art. 16.",
+"x": "Numeração.",
+"e": "Raspada"
+},
+{
+"p": "Vender arma de fogo a adolescente configura crime do Estatuto do Desarmamento, previsto no art. 16, § 1º, V.",
+"c": true,
+"prof": "Art. 16.",
+"x": "Criança ou adolescente.",
+"e": "Venda"
+},
+{
+"p": "Recarregar munição sem autorização legal configura crime equiparado ao porte de arma de uso restrito.",
+"c": true,
+"prof": "Art. 16.",
+"x": "§ 1º, VI.",
+"e": "Recarga"
+},
+{
+"p": "A posse ou o porte de arma de fogo de uso proibido é punido com reclusão de 4 a 12 anos e é crime hediondo.",
+"c": true,
+"prof": "Art. 16, § 2º.",
+"x": "Pacote Anticrime.",
+"e": "Proibido"
+},
+{
+"p": "A posse de arma de uso restrito continua crime hediondo após o Pacote Anticrime.",
+"c": false,
+"prof": "Art. 16.",
+"x": "Só proibido.",
+"e": "Hediondez"
+},
+{
+"p": "Equipara-se à atividade comercial, para o crime de comércio ilegal de arma, o comércio clandestino exercido em residência.",
+"c": true,
+"prof": "Art. 17.",
+"x": "§ 1º.",
+"e": "Residência"
+},
+{
+"p": "O comércio ilegal de arma de fogo tem pena de reclusão de 6 a 12 anos e multa.",
+"c": true,
+"prof": "Art. 17.",
+"x": "Pacote Anticrime.",
+"e": "Pena"
+},
+{
+"p": "Comete crime quem vende arma de fogo a agente policial disfarçado, quando presentes elementos de conduta criminal preexistente.",
+"c": true,
+"prof": "Art. 17.",
+"x": "§ 2º.",
+"e": "Agente disfarçado"
+},
+{
+"p": "O tráfico internacional de arma de fogo é punido com reclusão de 8 a 16 anos e multa.",
+"c": true,
+"prof": "Art. 18.",
+"x": "Pacote Anticrime.",
+"e": "Pena"
+},
+{
+"p": "O tráfico internacional de arma de fogo é julgado pela Justiça Estadual.",
+"c": false,
+"prof": "Art. 18.",
+"x": "Justiça Federal.",
+"e": "Competência"
+},
+{
+"p": "Nos crimes dos arts. 17 e 18, a pena é aumentada da metade se a arma for de uso proibido ou restrito.",
+"c": true,
+"prof": "Art. 19.",
+"x": "Aumento.",
+"e": "Metade"
+},
+{
+"p": "As penas dos crimes de porte, disparo, comércio e tráfico de armas são aumentadas da metade se praticados por integrante dos órgãos do art. 6º.",
+"c": true,
+"prof": "Art. 20.",
+"x": "Inciso I.",
+"e": "Agente público"
+},
+{
+"p": "A Lei 15.358/2026 previu aumento de dois terços das penas dos arts. 12, 14 e 16 quando o crime for praticado em concurso com o tráfico de drogas.",
+"c": true,
+"prof": "Art. 21-A.",
+"x": "Lei Antifacção.",
+"e": "2/3"
+},
+{
+"p": "Portar simulacro de arma de fogo configura crime do Estatuto do Desarmamento.",
+"c": false,
+"prof": "Simulacro.",
+"x": "Art. 26, infração administrativa.",
+"e": "Simulacro"
+},
+{
+"p": "A arma de pressão é considerada arma de fogo para fins do Estatuto.",
+"c": false,
+"prof": "Arma de pressão.",
+"x": "Sem combustão.",
+"e": "Conceito"
+},
+{
+"p": "A apreensão de várias armas de uso permitido no mesmo contexto configura crime único, com reflexo na pena-base.",
+"c": true,
+"prof": "Concurso.",
+"x": "Uma lesão à segurança pública.",
+"e": "Crime único"
+},
+{
+"p": "O porte ilegal de arma usada exclusivamente para a prática de roubo, no mesmo contexto, é absorvido pelo roubo.",
+"c": true,
+"prof": "Concurso.",
+"x": "Consunção.",
+"e": "Absorção"
+},
+{
+"p": "Segundo a Súmula 513 do STJ, a abolitio criminis temporária alcançou a posse de arma com numeração raspada praticada até 23/10/2005.",
+"c": true,
+"prof": "Abolitio.",
+"x": "Súmula 513.",
+"e": "Data"
+},
+{
+"p": "O delegado de polícia pode arbitrar fiança no crime de porte ilegal de arma de uso permitido sem causas de aumento.",
+"c": true,
+"prof": "Fiança.",
+"x": "CPP, art. 322.",
+"e": "Pena máxima de 4 anos"
+},
+{
+"p": "O delegado pode arbitrar fiança no crime de porte de arma com numeração raspada.",
+"c": false,
+"prof": "Fiança.",
+"x": "Pena máxima de 6 anos.",
+"e": "Juiz"
+},
+{
+"p": "O residente em área rural que dependa de arma para a subsistência alimentar familiar pode obter porte na categoria caçador para subsistência.",
+"c": true,
+"prof": "Porte rural.",
+"x": "Art. 6º, § 5º.",
+"e": "Subsistência"
+},
+{
+"p": "A classificação de uma arma como de uso permitido, restrito ou proibido é definida pelo regulamento do Poder Executivo.",
+"c": true,
+"prof": "Classificação.",
+"x": "Norma penal em branco.",
+"e": "Decreto"
+},
+{
+"p": "Lei estadual pode conceder porte de arma de fogo a agentes de trânsito estaduais.",
+"c": false,
+"prof": "Competência.",
+"x": "Competência privativa da União.",
+"e": "Lei federal"
+},
+{
+"p": "O porte de arma de fogo dos vigilantes pertence à empresa de segurança e só pode ser exercido em serviço.",
+"c": true,
+"prof": "Vigilantes.",
+"x": "Arma da empresa.",
+"e": "Em serviço"
+},
+{
+"p": "O juiz pode suspender a posse ou restringir o porte de armas do agressor como medida protetiva de urgência da Lei Maria da Penha.",
+"c": true,
+"prof": "Maria da Penha.",
+"x": "Art. 22, I.",
+"e": "Medida protetiva"
+},
+{
+"p": "Possuir artefato incendiário, como coquetel molotov, sem autorização, configura crime equiparado ao do art. 16 do Estatuto.",
+"c": true,
+"prof": "Art. 16.",
+"x": "§ 1º, III.",
+"e": "Incendiário"
+},
+{
+"p": "A transferência de arma de fogo registrada entre particulares independe de autorização prévia do órgão competente.",
+"c": false,
+"prof": "Transferência.",
+"x": "Exige autorização.",
+"e": "Sinarm"
+},
+{
+"p": "Arma dissimulada, com aparência de objeto inofensivo, é classificada como de uso proibido.",
+"c": true,
+"prof": "Classificação.",
+"x": "Regulamento.",
+"e": "Dissimulada"
+},
+{
+"p": "Joaquim, que possui registro válido de um revólver calibre .38, leva a arma no porta-luvas do carro, sem autorização de porte. Ele comete",
+"alts": [
+"fato atípico, pois a arma é registrada",
+"posse irregular (art. 12), pois o carro é extensão da residência",
+"porte ilegal de arma de uso permitido (art. 14)",
+"disparo de arma de fogo (art. 15)",
+"infração administrativa apenas"
+],
+"r": 2,
+"x": "Veículo não é extensão da casa.",
+"n": [
+"Registro não é porte.",
+"O veículo não é casa.",
+"Correta.",
+"Não houve disparo.",
+"É crime."
+],
+"e": "Porte no veículo."
+},
+{
+"p": "Segundo o STF (ADI 3.112), assinale a afirmativa correta sobre o Estatuto do Desarmamento.",
+"alts": [
+"o porte de arma de uso permitido é inafiançável",
+"os crimes dos arts. 16 a 18 não admitem liberdade provisória",
+"foram declarados inconstitucionais os parágrafos únicos dos arts. 14 e 15 e o art. 21",
+"a idade mínima de 25 anos é inconstitucional",
+"o Estatuto foi declarado inconstitucional por inteiro"
+],
+"r": 2,
+"x": "ADI 3.112.",
+"n": [
+"Declarado inconstitucional.",
+"Art. 21 inconstitucional.",
+"Correta.",
+"Foi mantida.",
+"Só alguns dispositivos."
+],
+"e": "ADI 3.112."
+},
+{
+"p": "Manter em casa revólver de uso permitido com registro vencido configura, segundo o STJ,",
+"alts": [
+"posse irregular (art. 12)",
+"porte ilegal (art. 14)",
+"mera irregularidade administrativa",
+"crime do art. 16",
+"crime de desobediência"
+],
+"r": 2,
+"x": "APn 686.",
+"n": [
+"Atípico pelo STJ.",
+"Não houve porte.",
+"Correta.",
+"Arma é de uso permitido.",
+"Sem relação."
+],
+"e": "Registro vencido."
+},
+{
+"p": "É crime culposo previsto no Estatuto do Desarmamento:",
+"alts": [
+"o disparo de arma de fogo",
+"o porte ilegal",
+"a omissão de cautela que permite a menor de 18 anos se apoderar da arma",
+"o comércio ilegal",
+"a posse de arma com numeração raspada"
+],
+"r": 2,
+"x": "Art. 13, caput.",
+"n": [
+"Doloso.",
+"Doloso.",
+"Correta.",
+"Doloso.",
+"Doloso."
+],
+"e": "Culposo."
+},
+{
+"p": "A posse ou o porte de arma de fogo de uso permitido com numeração raspada configura",
+"alts": [
+"o crime do art. 12",
+"o crime do art. 14",
+"o crime do art. 16, § 1º, IV",
+"o crime hediondo do art. 16, § 2º",
+"fato atípico"
+],
+"r": 2,
+"x": "Figura equiparada.",
+"n": [
+"Pena mais grave.",
+"Pena mais grave.",
+"Correta.",
+"O § 2º exige uso proibido.",
+"É crime."
+],
+"e": "Numeração raspada."
+},
+{
+"p": "Quanto à hediondez, após a Lei 13.964/2019, é crime hediondo:",
+"alts": [
+"a posse irregular de arma de uso permitido",
+"o porte de arma de uso restrito",
+"o porte de arma de uso proibido",
+"o disparo de arma de fogo",
+"a omissão de cautela"
+],
+"r": 2,
+"x": "Lei 8.072, art. 1º, parágrafo único, II.",
+"n": [
+"Não é.",
+"Só proibido.",
+"Correta.",
+"Não é.",
+"Não é."
+],
+"e": "Hediondez."
+},
+{
+"p": "Sobre o crime de disparo de arma de fogo (art. 15), é correto afirmar:",
+"alts": [
+"só ocorre se a arma for ilegal",
+"é subsidiário, não se aplicando se o disparo visar à prática de outro crime",
+"exige que alguém seja atingido",
+"é crime culposo",
+"é inafiançável"
+],
+"r": 1,
+"x": "Cláusula expressa.",
+"n": [
+"Arma legal também.",
+"Correta.",
+"Perigo abstrato.",
+"Doloso.",
+"Parágrafo único inconstitucional."
+],
+"e": "Disparo."
+},
+{
+"p": "Nos crimes de porte, disparo, comércio e tráfico de armas, a pena é aumentada da metade quando",
+"alts": [
+"o agente é primário",
+"a arma é de uso permitido",
+"o crime é praticado por integrante dos órgãos do art. 6º ou por reincidente específico",
+"o crime ocorre durante o dia",
+"a arma está desmuniciada"
+],
+"r": 2,
+"x": "Art. 20.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Art. 20."
+},
+{
+"p": "Um policial é preso em flagrante portando, fora de serviço, arma de uso restrito sem registro. O delegado",
+"alts": [
+"pode arbitrar fiança, pois o autor é policial",
+"não pode arbitrar fiança, pois a pena máxima supera 4 anos",
+"deve liberar o policial, que tem porte funcional",
+"deve lavrar termo circunstanciado",
+"deve aplicar a insignificância"
+],
+"r": 1,
+"x": "CPP, art. 322.",
+"n": [
+"A condição de policial não autoriza.",
+"Correta: art. 16, com aumento do art. 20.",
+"O porte funcional não legaliza arma ilegal.",
+"Não é menor potencial.",
+"Não se aplica."
+],
+"e": "Fiança."
+},
+{
+"p": "O tráfico internacional de arma de fogo é julgado pela",
+"alts": [
+"Justiça Estadual",
+"Justiça Militar",
+"Justiça Federal",
+"Justiça Eleitoral",
+"Justiça do local de domicílio do réu, qualquer que seja"
+],
+"r": 2,
+"x": "CF, art. 109, V.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Competência."
+},
+{
+"p": "Segundo a jurisprudência, portar arma de fogo desmuniciada",
+"alts": [
+"é fato atípico",
+"é contravenção penal",
+"configura crime, por ser de perigo abstrato",
+"só é crime se houver munição próxima",
+"é crime impossível"
+],
+"r": 2,
+"x": "STF e STJ.",
+"n": [
+"É crime.",
+"É crime do Estatuto.",
+"Correta.",
+"Não exige.",
+"Só com ineficácia absoluta."
+],
+"e": "Desmuniciada."
+},
+{
+"p": "A Lei 15.358/2026 (Lei Antifacção) alterou o Estatuto do Desarmamento para",
+"alts": [
+"descriminalizar a posse de arma de uso permitido",
+"aumentar de 2/3 as penas dos arts. 12, 14 e 16 quando o crime estiver em concurso com o tráfico de drogas",
+"reduzir a idade mínima para 21 anos",
+"tornar hediondo o porte de arma de uso permitido",
+"revogar o art. 15"
+],
+"r": 1,
+"x": "Art. 21-A.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Art. 21-A."
+},
+{
+"p": "Assinale a alternativa que NÃO configura crime do Estatuto do Desarmamento.",
+"alts": [
+"emprestar gratuitamente arma de uso permitido a um amigo",
+"vender arma a adolescente",
+"portar simulacro de arma de fogo",
+"recarregar munição sem autorização",
+"possuir artefato explosivo sem autorização"
+],
+"r": 2,
+"x": "Art. 26.",
+"n": [
+"Art. 14.",
+"Art. 16, § 1º, V.",
+"Correta: vedação administrativa.",
+"Art. 16, § 1º, VI.",
+"Art. 16, § 1º, III."
+],
+"e": "Simulacro."
+},
+{
+"p": "O porte de arma de fogo concedido pela Polícia Federal ao cidadão (art. 10)",
+"alts": [
+"é transferível a familiares",
+"tem validade em todo o território, por prazo indeterminado",
+"perde automaticamente a eficácia se o portador for abordado embriagado",
+"dispensa a comprovação de efetiva necessidade",
+"pode ser concedido a maiores de 18 anos"
+],
+"r": 2,
+"x": "Art. 10, § 2º.",
+"n": [
+"É pessoal e intransferível.",
+"Eficácia temporária e territorial limitada.",
+"Correta.",
+"Exige.",
+"25 anos."
+],
+"e": "Porte do cidadão."
+},
+{
+"p": "Ao cumprir mandado de busca, a polícia encontra três revólveres de uso permitido, sem registro, no guarda-roupa do investigado. Configura-se",
+"alts": [
+"três crimes do art. 12, em concurso material",
+"três crimes do art. 14",
+"um único crime do art. 12, com reflexo na pena-base",
+"crime do art. 16",
+"fato atípico"
+],
+"r": 2,
+"x": "Crime único.",
+"n": [
+"Uma só lesão à segurança pública.",
+"Não houve porte.",
+"Correta.",
+"Uso permitido.",
+"É crime."
+],
+"e": "Várias armas."
+},
 {
 "p": "Os crimes de posse e de porte ilegal de arma de fogo são de perigo abstrato, configurando-se ainda que a arma esteja desmuniciada.",
 "c": true,
@@ -17102,11 +17787,762 @@ export const PROFUNDO = {
 "x": "O art. 322 do CPP permite ao Delegado conceder fiança nas infrações com pena privativa de liberdade máxima não superior a 4 anos. O art. 12 tem pena máxima de 3 anos.",
 "e": "Delegado arbitra fiança."
 }
-]
+],
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1 a 3</b><span>anos de detenção na posse irregular de uso permitido (art. 12)</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão no porte ilegal de uso permitido (art. 14)</span></div><div class=\"lt-stat\"><b>4 a 12</b><span>anos na posse ou porte de arma de uso proibido (art. 16, § 2º)</span></div><div class=\"lt-stat\"><b>SINARM / SIGMA</b><span>cadastros da PF (uso permitido) / do Exército (uso restrito)</span></div></div>\n<h3>1. Posse x porte</h3>\n<ul><li><b>Posse</b>: manter a arma <b>dentro</b> da residência ou do <b>local de trabalho</b> (sendo o titular ou responsável pelo estabelecimento). <b>Porte</b>: levar a arma <b>fora</b> desses locais (na rua, no carro, na mochila).</li><li><b>Registro</b> autoriza a posse; o <b>porte</b> depende de autorização específica, em regra proibido aos civis (art. 6º), com exceções (forças de segurança, como os <b>policiais civis</b>, art. 6º, II; guardas municipais; vigilantes etc.).</li></ul>\n<table class=\"tab\"><thead><tr><th>Crime</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>Art. 12</b></td><td><b>posse irregular</b> de arma, acessório ou munição de <b>uso permitido</b>, em casa ou no trabalho</td><td><b>detenção 1 a 3 anos</b></td></tr><tr><td>Art. 13</td><td><b>omissão de cautela</b>: deixar menor de 18 ou deficiente mental se apoderar da arma</td><td>detenção 1 a 2 anos</td></tr><tr><td><b>Art. 14</b></td><td><b>porte ilegal</b> de arma de <b>uso permitido</b></td><td><b>reclusão 2 a 4 anos</b></td></tr><tr><td><b>Art. 15</b></td><td><b>disparo</b> de arma em lugar habitado ou via pública (se não for meio para outro crime)</td><td>reclusão 2 a 4 anos</td></tr><tr><td><b>Art. 16</b></td><td><b>posse ou porte</b> de arma de <b>uso restrito</b></td><td><b>reclusão 3 a 6 anos</b></td></tr><tr><td><b>Art. 16, § 2º</b></td><td>se a arma for de <b>uso proibido</b></td><td><b>reclusão 4 a 12 anos</b> (hediondo)</td></tr><tr><td><b>Art. 17</b></td><td><b>comércio ilegal</b></td><td>reclusão 6 a 12 anos</td></tr><tr><td><b>Art. 18</b></td><td><b>tráfico internacional</b></td><td>reclusão 8 a 16 anos</td></tr></tbody></table>\n<ul><li><b>Art. 16, § 1º</b> (mesma pena do art. 16): suprimir ou alterar marca ou numeração; <b>portar, possuir ou adquirir arma com numeração raspada</b>; vender arma a criança ou adolescente; produzir ou recarregar munição sem autorização, entre outros.</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Arma de <b>uso permitido</b> com <b>numeração raspada</b> cai no <b>art. 16, § 1º, IV</b> (3 a 6 anos), e não no art. 12 ou 14. A banca sempre \"esconde\" a numeração raspada no enunciado.</div>\n<h3>2. Teses que a prova cobra</h3>\n<ul><li>Os crimes são de <b>perigo abstrato</b>: não precisa provar risco concreto. <b>Arma desmuniciada</b> configura o crime (STF e STJ).</li><li><b>Munição isolada</b>, em pequena quantidade e <b>sem arma</b>, pode levar à <b>insignificância</b>, conforme o caso (STF e STJ).</li><li><b>Arma absolutamente inapta</b> para disparar, comprovada por laudo, torna o fato <b>atípico</b> (crime impossível).</li><li>Várias armas ou munições no <b>mesmo contexto</b> = <b>um só crime</b> (com reflexo na pena), salvo se de tipos penais diferentes (art. 12 e art. 16 → concurso).</li><li>Os parágrafos únicos dos arts. 14 e 15 (que diziam \"inafiançável\") foram declarados <b>inconstitucionais</b> (ADI 3.112). Na <b>posse irregular (art. 12)</b>, com pena máxima de 3 anos, o <b>Delegado pode arbitrar fiança</b> (CPP, art. 322).</li></ul>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 513</b><p class=\"jc-tese\">A abolitio criminis temporária prevista na Lei 10.826/2003 aplica-se ao crime de posse de arma de fogo de uso permitido com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado, praticado somente até 23/10/2005.</p><p class=\"jc-com\">Depois disso, a posse de arma com numeração raspada é crime do art. 16, § 1º, IV, sem \"anistia\".</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · porte e posse no mesmo contexto</b><p class=\"jc-tese\">Quem guarda arma em casa e, no mesmo contexto, sai portando-a responde por um único crime (o mais grave), pelo princípio da consunção.</p><p class=\"jc-com\">Se as armas são de calibres com tipos diferentes (uso permitido e uso restrito), o STJ admite concurso de crimes.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Arma desmuniciada não configura porte ilegal</span><br>✅ <span class=\"certo\">Configura: crime de perigo abstrato.</span></li><li>❌ <span class=\"banca\">Posse de arma de uso permitido é crime inafiançável</span><br>✅ <span class=\"certo\">Pena máx. 3 anos: o Delegado pode arbitrar fiança.</span></li><li>❌ <span class=\"banca\">Porte de arma de uso restrito é hediondo</span><br>✅ <span class=\"certo\">Após o Anticrime, só a de uso PROIBIDO é hediondo.</span></li><li>❌ <span class=\"banca\">Arma com numeração raspada de calibre permitido é art. 12</span><br>✅ <span class=\"certo\">É art. 16, § 1º, IV.</span></li><li>❌ <span class=\"banca\">Arma em casa = porte</span><br>✅ <span class=\"certo\">Em casa ou no trabalho (como responsável) = POSSE.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Posse x porte?</span></span><span class=\"vs\"><span><b>Posse</b>: em casa/trabalho. <b>Porte</b>: fora deles.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 12?</span></span><span class=\"vs\"><span>Posse de uso permitido: <b>detenção 1 a 3</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 14?</span></span><span class=\"vs\"><span>Porte de uso permitido: <b>reclusão 2 a 4</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Numeração raspada?</span></span><span class=\"vs\"><span><b>Art. 16, § 1º, IV</b> (3 a 6).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Uso proibido?</span></span><span class=\"vs\"><span><b>4 a 12 anos</b>, hediondo.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arma desmuniciada?</span></span><span class=\"vs\"><span><b>Crime</b> (perigo abstrato).</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O revólver no porta-luvas</b><p>Em blitz, a polícia encontra no porta-luvas de um carro um revólver calibre .38 (uso permitido), sem munição e com a numeração raspada. O motorista não tem registro nem porte.</p><details><summary>Ver a solução comentada</summary><p>A arma estar desmuniciada não afasta o crime (perigo abstrato). Como a <b>numeração está raspada</b>, a conduta é a do <b>art. 16, § 1º, IV</b> (reclusão de 3 a 6 anos), e não o porte de uso permitido do art. 14. Não é hediondo, pois a arma não é de uso proibido.</p></details></div>"
 },
 "abuso": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>finalidades específicas que caracterizam o abuso (prejudicar, beneficiar, capricho)</span></div><div class=\"lt-stat\"><b>21h às 5h</b><span>horário em que é crime cumprir mandado de busca domiciliar (art. 22, § 1º, III)</span></div><div class=\"lt-stat\"><b>1 a 5</b><span>anos de inabilitação para cargo (efeito da condenação)</span></div><div class=\"lt-stat\"><b>Incondicionada</b><span>natureza da ação penal</span></div></div>\n<h3>1. Estrutura da Lei 13.869/2019</h3>\n<ul><li><b>Sujeito ativo</b>: <b>agente público</b>, servidor ou não, da administração direta ou indireta de qualquer Poder, inclusive quem exerce função <b>transitória e sem remuneração</b> (art. 2º).</li><li><b>Dolo específico</b> (art. 1º, § 1º): só há crime se o agente agir com a <b>finalidade de prejudicar outrem</b>, de <b>beneficiar a si mesmo ou a terceiro</b>, ou por <b>mero capricho ou satisfação pessoal</b>.</li><li><b>Divergência</b> na interpretação da lei ou na avaliação de fatos e provas <b>não configura abuso</b> (art. 1º, § 2º): é a vedação ao \"crime de hermenêutica\".</li><li><b>Ação penal pública incondicionada</b>, admitida a <b>ação privada subsidiária</b> se o MP não agir no prazo (art. 3º).</li><li><b>Efeitos da condenação</b> (art. 4º): indenizar o dano (automático, mas o juiz fixa o mínimo a requerimento); <b>inabilitação</b> para cargo por <b>1 a 5 anos</b> e <b>perda do cargo</b> só na <b>reincidência</b> em crime de abuso e <b>por decisão motivada</b> (não automáticos).</li></ul>\n<h3>2. Crimes mais cobrados de polícia</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta (resumo)</th></tr></thead><tbody><tr><td>9º</td><td>decretar prisão em desconformidade com a lei; deixar o juiz de relaxar prisão ilegal etc.</td></tr><tr><td>10</td><td><b>condução coercitiva</b> de testemunha ou investigado <b>manifestamente descabida</b> ou <b>sem prévia intimação</b> de comparecimento</td></tr><tr><td>12</td><td>deixar <b>injustificadamente</b> de comunicar prisão em flagrante ao juiz no prazo legal, ou de entregar a nota de culpa em 24 h</td></tr><tr><td><b>13</b></td><td>constranger o preso, com violência, grave ameaça ou redução da capacidade de resistência, a <b>exibir-se</b> à curiosidade pública, a submeter-se a situação <b>vexatória</b> ou a <b>produzir prova contra si</b></td></tr><tr><td><b>15</b></td><td>constranger a depor quem deve guardar segredo; <b>prosseguir o interrogatório</b> de quem decidiu <b>ficar calado</b> ou que pediu <b>advogado</b> (sem que ele esteja presente)</td></tr><tr><td>16</td><td>deixar de <b>identificar-se</b> ao preso ou identificar-se falsamente</td></tr><tr><td><b>18</b></td><td>submeter o preso a <b>interrogatório durante o repouso noturno</b>, salvo flagrante ou se ele, assistido, consentir</td></tr><tr><td><b>22</b></td><td><b>invadir</b> ou permanecer em imóvel alheio sem autorização judicial ou fora das hipóteses legais; § 1º, III: cumprir <b>mandado de busca domiciliar após as 21h ou antes das 5h</b></td></tr><tr><td>24</td><td>constranger hospital a admitir pessoa <b>já morta</b> para alterar o local ou o momento do crime</td></tr><tr><td><b>25</b></td><td>obter prova por <b>meio manifestamente ilícito</b> ou usá-la sabendo de sua ilicitude</td></tr><tr><td>27</td><td>instaurar procedimento investigatório <b>sem qualquer indício</b> (salvo sindicância ou investigação preliminar sumária justificada)</td></tr><tr><td>28</td><td><b>divulgar gravação</b> sem relação com a prova, expondo a intimidade do investigado</td></tr><tr><td>30</td><td>iniciar persecução <b>sem justa causa</b> ou contra quem sabe inocente</td></tr><tr><td>31</td><td>estender <b>injustificadamente</b> a investigação, em prejuízo do investigado</td></tr><tr><td><b>32</b></td><td><b>negar ao defensor acesso aos autos</b> de investigação já documentados (SV 14)</td></tr><tr><td><b>38</b></td><td><b>antecipar</b>, por meio de comunicação (inclusive rede social), <b>atribuição de culpa</b> antes de concluídas as apurações e formalizada a acusação</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> A lei <b>não</b> criminaliza o uso de <b>algemas</b> (o artigo foi vetado). O tema segue regido pela <b>Súmula Vinculante 11</b>: algemas só em caso de resistência, receio de fuga ou perigo, com <b>justificativa por escrito</b>.</div>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 14</b><p class=\"jc-tese\">É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.</p><p class=\"jc-com\">Diligências <b>em andamento</b> (como interceptação em curso) podem ser preservadas; o que já está <b>documentado</b> deve ser franqueado. Negar acesso injustificadamente é crime do art. 32.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · dolo específico</b><p class=\"jc-tese\">Sem a finalidade especial do art. 1º, § 1º (prejudicar, beneficiar ou capricho), não há crime de abuso, ainda que a decisão do agente seja reformada depois.</p><p class=\"jc-com\">A banca costuma descrever uma conduta ilegal mas de boa-fé (erro de interpretação, decisão revista pelo juiz) e perguntar se é abuso. A resposta é não.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo erro de interpretação da lei é abuso de autoridade</span><br>✅ <span class=\"certo\">Divergência na interpretação ou na avaliação de provas NÃO configura abuso.</span></li><li>❌ <span class=\"banca\">A perda do cargo é efeito automático</span><br>✅ <span class=\"certo\">Exige reincidência em abuso e decisão motivada.</span></li><li>❌ <span class=\"banca\">A ação penal é condicionada à representação da vítima</span><br>✅ <span class=\"certo\">É pública incondicionada, com ação privada subsidiária.</span></li><li>❌ <span class=\"banca\">Cumprir mandado de busca às 20h é crime</span><br>✅ <span class=\"certo\">O crime é após as 21h ou antes das 5h.</span></li><li>❌ <span class=\"banca\">Usar algemas sem justificativa é crime da Lei 13.869</span><br>✅ <span class=\"certo\">O artigo foi vetado; aplica-se a SV 11.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dolo específico do abuso?</span></span><span class=\"vs\"><span><b>Prejudicar</b> outrem, <b>beneficiar</b> a si/terceiro, ou <b>capricho/satisfação pessoal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação penal?</span></span><span class=\"vs\"><span><b>Pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perda do cargo?</span></span><span class=\"vs\"><span>Só na <b>reincidência</b>, com decisão <b>motivada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mandado de busca à noite?</span></span><span class=\"vs\"><span>Crime <b>após 21h ou antes das 5h</b> (art. 22).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Interrogatório noturno?</span></span><span class=\"vs\"><span>Crime, salvo <b>flagrante</b> ou consentimento do preso assistido (art. 18).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Antecipar culpa em rede social?</span></span><span class=\"vs\"><span><b>Art. 38</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A entrevista após a prisão</b><p>Logo após prender um suspeito de homicídio, o Delegado dá entrevista ao vivo dizendo \"este é o assassino, caso encerrado\", antes de concluir o inquérito.</p><details><summary>Ver a solução comentada</summary><p>A conduta pode configurar o <b>art. 38</b> (antecipar atribuição de culpa antes de concluídas as apurações e formalizada a acusação), desde que presente a finalidade específica do art. 1º, § 1º. A divulgação institucional deve ser <b>objetiva</b>, sem juízo de culpa.</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2019</b><span>ano da Lei 13.869, que revogou a antiga Lei 4.898/1965</span></div><div class=\"lt-stat\"><b>3</b><span>finalidades específicas exigidas em todos os crimes: prejudicar outrem, beneficiar a si ou a terceiro, ou mero capricho ou satisfação pessoal (art. 1º, § 1º)</span></div><div class=\"lt-stat\"><b>1 a 5</b><span>anos de inabilitação para cargo público, efeito da condenação condicionado à reincidência (art. 4º)</span></div><div class=\"lt-stat\"><b>21h às 5h</b><span>horário em que é crime cumprir mandado de busca domiciliar (art. 22, § 1º, III)</span></div></div>\n<h3>1. Origem e objetivo da nova Lei de Abuso de Autoridade</h3>\n<ul><li>A <b>Lei 13.869, de 5 de setembro de 2019</b>, entrou em vigor em <b>3 de janeiro de 2020</b> e <b>revogou integralmente</b> a antiga <b>Lei 4.898/1965</b>, que previa crimes de abuso de autoridade de forma muito aberta (\"qualquer atentado à liberdade de locomoção\", \"à inviolabilidade do domicílio\" etc.) e com penas irrisórias.</li><li>A nova lei descreve <b>condutas específicas</b> (arts. 9º a 38), com penas maiores (em regra, detenção de 6 meses a 2 anos ou de 1 a 4 anos) e exige um <b>elemento subjetivo especial</b> em <b>todos</b> os crimes. Teve tramitação polêmica: o Presidente da República vetou dezenas de dispositivos, e o Congresso <b>derrubou</b> parte dos vetos, restaurando crimes como os dos arts. 9º, 13, III, 30 e 38.</li><li>A lei é alvo de várias <b>ações diretas de inconstitucionalidade</b> propostas por associações de magistrados, membros do MP e outras carreiras (ADIs 6.236, 6.238, 6.239, 6.266, 6.302, entre outras). O julgamento começou no Plenário do STF em 2025, mas, até a última verificação desta aula, não havia decisão final. Enquanto isso, <b>a lei está em pleno vigor</b>.</li><li><b>Bem jurídico</b>: os crimes têm dupla objetividade jurídica: protegem os <b>direitos e garantias fundamentais</b> da pessoa atingida (liberdade, intimidade, inviolabilidade do domicílio, integridade) e o <b>regular funcionamento da Administração Pública</b>.</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Por que o policial precisa dominar esta lei</b><p>A maior parte dos tipos penais da Lei 13.869 descreve condutas que ocorrem no dia a dia de uma delegacia ou de uma operação: prisão, comunicação da prisão à família, identificação do policial, interrogatório noturno, busca domiciliar, uso de algemas e exposição do preso, acesso do advogado aos autos, entrevista reservada com o preso. Conhecer a lei é, ao mesmo tempo, proteger os direitos do cidadão e <b>proteger o próprio agente</b> contra acusações infundadas, sabendo exatamente onde está o limite.</p></div>\n<h3>2. Sujeito ativo: quem pode cometer abuso de autoridade</h3>\n<ul><li><b>Art. 1º</b>: a lei define os crimes de abuso de autoridade cometidos por <b>agente público</b>, <b>servidor ou não</b>, que, no exercício de suas funções <b>ou a pretexto de exercê-las</b>, abuse do poder que lhe tenha sido atribuído.</li><li><b>Art. 2º</b>: é sujeito ativo <b>qualquer agente público</b>, servidor ou não, da <b>administração direta, indireta ou fundacional</b> de <b>qualquer dos Poderes</b> da União, dos Estados, do Distrito Federal, dos Municípios e de Território, compreendendo, <b>mas não se limitando a</b>: I, servidores públicos e <b>militares</b> ou pessoas a eles equiparadas; II, membros do <b>Poder Legislativo</b>; III, membros do <b>Poder Executivo</b>; IV, membros do <b>Poder Judiciário</b>; V, membros do <b>Ministério Público</b>; VI, membros dos <b>tribunais ou conselhos de contas</b>.</li><li><b>Parágrafo único (conceito de agente público)</b>: reputa-se agente público todo aquele que exerce, <b>ainda que transitoriamente ou sem remuneração</b>, por <b>eleição, nomeação, designação, contratação</b> ou qualquer outra forma de investidura ou vínculo, <b>mandato, cargo, emprego ou função</b> em órgão ou entidade abrangidos pelo caput.</li><li>Consequências: os crimes são <b>próprios</b> (exigem a qualidade de agente público). O <b>particular</b> pode responder como <b>coautor ou partícipe</b>, desde que <b>conheça</b> a condição de agente público do comparsa (CP, art. 30: as circunstâncias de caráter pessoal, quando <b>elementares</b> do crime, comunicam-se).</li><li>Estão incluídos: <b>mesários</b> e <b>jurados</b> (função transitória), <b>estagiários</b> de órgãos públicos, <b>empregados de empresas públicas e sociedades de economia mista</b> (administração indireta), <b>juízes</b>, <b>promotores</b>, <b>parlamentares</b>, <b>delegados</b>, <b>policiais</b> e <b>guardas municipais</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O particular nunca pode responder por abuso de autoridade</span><br>✅ <span class=\"certo\">Pode, como coautor ou partícipe, se <b>souber</b> da condição de agente público do comparsa</span></li><li>❌ <span class=\"banca\">Só o servidor efetivo comete abuso de autoridade</span><br>✅ <span class=\"certo\">Qualquer agente público, <b>ainda que transitoriamente ou sem remuneração</b></span></li><li>❌ <span class=\"banca\">Juízes e membros do MP não estão sujeitos à lei por terem independência funcional</span><br>✅ <span class=\"certo\">O art. 2º os inclui <b>expressamente</b></span></li></ol></div>\n<h3>3. O elemento subjetivo especial: art. 1º, § 1º</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 13.869/2019, art. 1º, §§ 1º e 2º</div><div class=\"art-lei\">§ 1º As condutas descritas nesta Lei constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal. § 2º A divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>Todos</b> os crimes são <b>dolosos</b> e exigem <b>dolo específico</b> (elemento subjetivo especial do tipo)</li><li>Três finalidades alternativas: <b>prejudicar</b> outrem; <b>beneficiar</b> a si ou a terceiro; <b>mero capricho</b> ou <b>satisfação pessoal</b></li><li>Não existe abuso de autoridade <b>culposo</b></li><li>§ 2º: proibição do \"<b>crime de hermenêutica</b>\": interpretar a lei ou avaliar provas de modo diverso do tribunal superior não é crime</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que basta o dolo genérico</li><li>A banca diz que a decisão judicial reformada em recurso configura abuso</li></ul></div></div>\n<ul><li>Na prática, a exigência do § 1º torna difícil a condenação: não basta provar que a prisão foi ilegal; é preciso provar que o agente agiu <b>para prejudicar</b> a vítima, <b>para se beneficiar</b> ou <b>por capricho</b>. Um erro de interpretação ou uma decisão equivocada, tomada de boa-fé, <b>não</b> é crime.</li><li><b>Crime de hermenêutica</b>: expressão de Rui Barbosa para designar a punição do juiz por interpretar a lei. O § 2º impede essa criminalização, protegendo a <b>independência funcional</b> de juízes, promotores e delegados.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · dolo específico e prova</b><p class=\"jc-tese\">A exigência de finalidade específica (art. 1º, § 1º) é a principal \"trava\" da lei contra o uso abusivo da própria lei de abuso. Ela costuma ser provada por <b>circunstâncias objetivas</b>: inimizade prévia com a vítima, decisões tomadas fora de qualquer base legal, insistência mesmo após alertas, exposição gratuita do investigado, contexto de vingança ou de favorecimento.</p><p class=\"jc-com\">Em provas, toda afirmação do tipo \"o delegado que, por erro de interpretação, mantém preso alguém que deveria ser solto comete abuso de autoridade\" está <b>errada</b>: falta a finalidade específica, e há divergência de interpretação (§ 2º). Pode haver, no máximo, responsabilidade administrativa ou civil.</p></div>\n<h3>4. Ação penal, efeitos da condenação e penas restritivas</h3>\n<ul><li><b>Ação penal</b> (art. 3º): os crimes são de <b>ação penal pública incondicionada</b>. Admite-se <b>ação privada subsidiária</b> se a ação pública não for intentada no prazo legal (§ 1º), cabendo ao MP aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir em todos os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no caso de negligência do querelante, retomar a ação como parte principal. A ação privada subsidiária pode ser exercida em <b>6 meses</b>, contados da data em que se esgotar o prazo para o oferecimento da denúncia (§ 2º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Efeito da condenação (art. 4º)</th><th>Automático?</th><th>Requisito</th></tr></thead><tbody><tr><td><b>I</b>, tornar certa a obrigação de <b>indenizar</b> o dano causado pelo crime, devendo o juiz fixar o valor mínimo para reparação</td><td><b>sim</b> (genérico)</td><td>requerimento do ofendido, considerando os prejuízos sofridos</td></tr><tr><td><b>II</b>, <b>inabilitação</b> para o exercício de cargo, mandato ou função pública, pelo período de <b>1 a 5 anos</b></td><td><b>não</b></td><td><b>reincidência</b> em crime de abuso de autoridade + declaração motivada na sentença</td></tr><tr><td><b>III</b>, <b>perda</b> do cargo, do mandato ou da função pública</td><td><b>não</b></td><td><b>reincidência</b> em crime de abuso de autoridade + declaração motivada na sentença</td></tr></tbody></table>\n<ul><li>Atenção ao <b>parágrafo único do art. 4º</b>: os efeitos dos incisos II e III são <b>condicionados à ocorrência de reincidência</b> em crime de abuso de autoridade e <b>não são automáticos</b>, devendo ser <b>declarados motivadamente</b> na sentença. É uma regra muito diferente da do CP (art. 92, I), que permite a perda do cargo, sem reincidência, quando a pena for igual ou superior a 1 ano em crime com abuso de poder.</li><li><b>Penas restritivas de direitos</b> (art. 5º): as penas restritivas que <b>substituem</b> as privativas de liberdade são: I, <b>prestação de serviços</b> à comunidade ou a entidades públicas; II, <b>suspensão do exercício</b> do cargo, da função ou do mandato, pelo prazo de <b>1 a 6 meses</b>, com a <b>perda dos vencimentos</b> e das vantagens. Podem ser aplicadas <b>autônoma ou cumulativamente</b> (parágrafo único).</li><li><b>Independência das instâncias</b> (arts. 6º a 8º): as penas desta lei são aplicadas <b>independentemente</b> das sanções de natureza civil ou administrativa cabíveis. A notícia do crime que descrever falta funcional será informada à autoridade competente para apuração administrativa (art. 6º, parágrafo único). As responsabilidades civil e administrativa são independentes da criminal, <b>não</b> se podendo mais questionar sobre a <b>existência ou a autoria</b> do fato quando essas questões tenham sido decididas no juízo criminal (art. 7º). Faz <b>coisa julgada</b> em âmbito cível, assim como no administrativo-disciplinar, a sentença penal que reconhecer ter sido o ato praticado em <b>estado de necessidade</b>, <b>legítima defesa</b>, <b>estrito cumprimento de dever legal</b> ou <b>exercício regular de direito</b> (art. 8º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A condenação por abuso de autoridade gera automaticamente a perda do cargo</span><br>✅ <span class=\"certo\">Só se houver <b>reincidência</b> em abuso de autoridade e declaração <b>motivada</b></span></li><li>❌ <span class=\"banca\">A ação penal nos crimes de abuso de autoridade depende de representação da vítima</span><br>✅ <span class=\"certo\">É pública <b>incondicionada</b></span></li><li>❌ <span class=\"banca\">A absolvição criminal por falta de provas impede a punição administrativa</span><br>✅ <span class=\"certo\">Só vinculam a decisão sobre <b>inexistência do fato</b>, <b>negativa de autoria</b> e as <b>excludentes</b> (arts. 7º e 8º)</span></li></ol></div>\n<h3>5. Procedimento e competência</h3>\n<ul><li><b>Art. 39</b>: aplicam-se ao processo e ao julgamento dos delitos desta lei, no que couber, as disposições do <b>CPP</b> e da <b>Lei 9.099/1995</b>.</li><li>Como várias penas máximas são de <b>2 anos</b> (6 meses a 2 anos), esses crimes são de <b>menor potencial ofensivo</b>: termo circunstanciado, <b>transação penal</b> e Juizado Especial Criminal. Os crimes com pena de <b>1 a 4 anos</b> admitem <b>suspensão condicional do processo</b> (pena mínima de 1 ano) e, em tese, <b>acordo de não persecução penal</b> (crime sem violência ou grave ameaça, pena mínima inferior a 4 anos), salvo os praticados com violência.</li><li><b>Competência</b>: segue as regras gerais. Abuso praticado por servidor <b>federal</b> no exercício da função é da <b>Justiça Federal</b> (CF, art. 109, IV); por servidor estadual ou municipal, da <b>Justiça Estadual</b>. Autoridades com <b>foro por prerrogativa de função</b> (juízes, promotores, parlamentares) são julgadas pelos tribunais competentes.</li><li><b>Militares</b>: o abuso de autoridade praticado por militar em serviço é <b>crime militar</b> (CPM, art. 9º, II, com a redação da Lei 13.491/2017, que passou a considerar militares os crimes previstos na legislação penal comum quando praticados nas hipóteses do art. 9º). Por isso, policial militar que comete abuso de autoridade em serviço é julgado, em regra, pela <b>Justiça Militar</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 172 superada</b><p class=\"jc-tese\">A Súmula 172 do STJ dizia: \"Compete à Justiça Comum processar e julgar militar por crime de abuso de autoridade, ainda que praticado em serviço.\" Com a <b>Lei 13.491/2017</b>, que ampliou o conceito de crime militar para abranger crimes da legislação penal <b>comum</b> praticados por militar em serviço, a súmula perdeu aplicabilidade, segundo a jurisprudência do STJ.</p><p class=\"jc-com\">Hoje, o PM que comete abuso de autoridade em serviço responde na <b>Justiça Militar estadual</b>. Exceção importante: crimes <b>dolosos contra a vida de civil</b> continuam no <b>Tribunal do Júri</b> (CF, art. 125, § 4º). Em provas antigas, a resposta era a Justiça Comum; nas atuais, a Justiça Militar.</p></div>\n<h3>6. Crimes relacionados à prisão e à condução: arts. 9º e 10</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 13.869/2019, art. 9º</div><div class=\"art-lei\">Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais. Pena: detenção, de 1 a 4 anos, e multa. Parágrafo único: incorre na mesma pena a autoridade judiciária que, dentro de prazo razoável, deixar de: I, relaxar a prisão manifestamente ilegal; II, substituir a prisão preventiva por medida cautelar diversa ou de conceder liberdade provisória, quando manifestamente cabível; III, deferir liminar ou ordem de habeas corpus, quando manifestamente cabível.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Caput: crime de quem <b>decreta</b> a privação de liberdade (em regra, o <b>juiz</b>; mas também o delegado ao lavrar flagrante, segundo parte da doutrina)</li><li>Elemento normativo: \"<b>manifesta</b> desconformidade\" (não basta qualquer ilegalidade)</li><li>Parágrafo único: crimes <b>omissivos</b> próprios da <b>autoridade judiciária</b></li><li>O veto presidencial a este artigo foi <b>derrubado</b> pelo Congresso</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que qualquer prisão posteriormente relaxada configura o art. 9º</li></ul></div></div>\n<ul><li><b>Art. 10</b>: decretar a <b>condução coercitiva</b> de testemunha ou investigado <b>manifestamente descabida</b> ou <b>sem prévia intimação</b> de comparecimento ao juízo. Pena: detenção de 1 a 4 anos e multa.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADPFs 395 e 444 · condução coercitiva para interrogatório</b><p class=\"jc-tese\">O STF declarou <b>não recepcionada</b> pela Constituição a expressão \"para o interrogatório\" do art. 260 do CPP: é <b>inconstitucional</b> a condução coercitiva de <b>investigado ou réu</b> para <b>interrogatório</b>, sob pena de responsabilidade disciplinar, civil e penal do agente e de ilicitude das provas obtidas.</p><p class=\"jc-com\">Fundamento: o direito ao silêncio e a não autoincriminação tornam inútil forçar alguém a comparecer só para ficar calado; a medida serve apenas para constranger e expor. A condução continua possível para <b>testemunhas</b> que, intimadas, não comparecem (CPP, art. 218) e para atos de <b>identificação</b> do investigado. O art. 10 da Lei 13.869 complementa essa proteção, punindo a condução manifestamente descabida ou sem prévia intimação.</p></div>\n<h3>7. Crimes ligados à comunicação da prisão: art. 12</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 13.869/2019, art. 12</div><div class=\"art-lei\">Deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal. Pena: detenção, de 6 meses a 2 anos, e multa. Parágrafo único: incorre na mesma pena quem: I, deixa de comunicar, imediatamente, a execução de prisão temporária ou preventiva à autoridade judiciária que a decretou; II, deixa de comunicar, imediatamente, a prisão de qualquer pessoa e o local onde se encontra à sua família ou à pessoa por ela indicada; III, deixa de entregar ao preso, no prazo de 24 horas, a nota de culpa, assinada pela autoridade, com o motivo da prisão e os nomes do condutor e das testemunhas; IV, prolonga a execução de pena privativa de liberdade, de prisão temporária, de prisão preventiva, de medida de segurança ou de internação, deixando, sem motivo justo e excepcionalíssimo, de executar o alvará de soltura imediatamente após recebido ou de promover a soltura do preso, quando esgotado o prazo judicial ou legal.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Crimes <b>omissivos próprios</b></li><li>\"<b>Injustificadamente</b>\": havendo justificativa razoável, não há crime</li><li>Prazo da comunicação do flagrante ao juiz: <b>24 horas</b> (CPP, art. 306, § 1º)</li><li><b>Nota de culpa</b>: 24 horas</li><li>Comunicação à <b>família</b>: <b>imediatamente</b> (CF, art. 5º, LXII)</li><li>Inciso IV: o preso que fica além do prazo da temporária ou que não é solto ao receber o alvará</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca troca \"imediatamente\" por \"24 horas\" na comunicação à família</li><li>A banca troca \"nota de culpa\" por \"auto de prisão\"</li></ul></div></div>\n<ul><li>O inciso IV se conecta com uma alteração feita pela própria Lei 13.869 na <b>Lei da Prisão Temporária</b> (Lei 7.960/1989): o mandado deve conter o <b>período</b> de duração da prisão e o <b>dia</b> em que o preso deverá ser libertado (art. 2º, § 4º-A); decorrido o prazo, o responsável pela custódia deve <b>pôr imediatamente o preso em liberdade</b>, independentemente de nova ordem judicial, salvo se já tiver sido comunicada a prorrogação ou decretada a preventiva (§ 7º); e o <b>dia do cumprimento</b> do mandado é computado no prazo (§ 8º).</li></ul>\n<h3>8. Exposição e constrangimento do preso: art. 13</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 13.869/2019, art. 13</div><div class=\"art-lei\">Constranger o preso ou o detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a: I, exibir-se ou ter seu corpo ou parte dele exibido à curiosidade pública; II, submeter-se a situação vexatória ou a constrangimento não autorizado em lei; III, produzir prova contra si mesmo ou contra terceiro. Pena: detenção, de 1 a 4 anos, e multa, sem prejuízo da pena cominada à violência.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Meio executório: <b>violência</b>, <b>grave ameaça</b> ou <b>redução da capacidade de resistência</b> (sem algum deles, não há este crime)</li><li>Inciso I: o \"<b>desfile</b>\" do preso para fotos e câmeras</li><li>Inciso III: o veto foi <b>derrubado</b>; protege o direito de não produzir prova contra si</li><li><b>Cúmulo material</b> com a pena da violência</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que filmar o preso sempre configura o art. 13 (sem o constrangimento por violência, grave ameaça ou redução de resistência, pode não configurar)</li></ul></div></div>\n<ul><li><b>Algemas</b>: o art. 17 (que criminalizava o uso abusivo de algemas) foi <b>vetado</b>, e o veto foi mantido. O tema segue regulado pela <b>Súmula Vinculante 11</b> do STF: \"Só é lícito o uso de algemas em casos de <b>resistência</b> e de fundado receio de <b>fuga</b> ou de <b>perigo à integridade física</b> própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade <b>por escrito</b>, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.\" O uso de algemas para expor o preso pode, conforme o caso, configurar o <b>art. 13, II</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 11</b><p class=\"jc-tese\">O uso de algemas exige justificativa <b>escrita</b> da excepcionalidade (resistência, risco de fuga ou perigo à integridade).</p><p class=\"jc-com\">O CPP também proíbe o uso de algemas em mulheres grávidas durante o <b>parto</b> e no período de puerpério imediato (art. 292, parágrafo único, incluído pela Lei 13.434/2017). Para o policial, a lição prática é: registre no boletim ou no auto <b>por que</b> algemou. A ausência de justificativa pode gerar nulidade do ato e responsabilização.</p></div>\n<h3>9. Silêncio, sigilo profissional e violência institucional: arts. 15 e 15-A</h3>\n<ul><li><b>Art. 15</b>: constranger a <b>depor</b>, sob <b>ameaça de prisão</b>, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar <b>segredo</b> ou resguardar <b>sigilo</b> (médico, advogado, padre, psicólogo). Pena: detenção de 1 a 4 anos e multa.</li><li><b>Parágrafo único</b> (veto derrubado): incorre na mesma pena quem prossegue com o <b>interrogatório</b>: I, de pessoa que tenha decidido exercer o <b>direito ao silêncio</b>; ou II, de pessoa que tenha optado por ser assistida por <b>advogado ou defensor público</b>, sem a presença de seu patrono.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Interrogatório após o silêncio</b><p>Preso em flagrante por roubo, o conduzido diz ao delegado que só falará em juízo. O delegado insiste por mais uma hora, fazendo perguntas e dizendo que \"o silêncio vai pesar contra ele\".</p><details><summary>Ver a solução comentada</summary><p>Pode configurar o <b>art. 15, parágrafo único, I</b>: prosseguir com o interrogatório de quem decidiu exercer o <b>direito ao silêncio</b>, se presente a finalidade específica do art. 1º, § 1º (por exemplo, para prejudicar o preso, constrangendo-o a confessar). Além disso, a afirmação de que o silêncio \"pesará contra ele\" contraria o art. 186, parágrafo único, do CPP: o silêncio <b>não</b> importa confissão nem pode ser interpretado em prejuízo da defesa. A confissão obtida assim pode ser considerada <b>ilícita</b>.</p></details></div>\n<ul><li><b>Art. 15-A</b> (incluído pela <b>Lei 14.321/2022</b>): <b>violência institucional</b>. Submeter a <b>vítima</b> de infração penal ou a <b>testemunha</b> de crimes violentos a <b>procedimentos desnecessários, repetitivos ou invasivos</b>, que a leve a <b>reviver</b>, sem estrita necessidade, a situação de violência ou outras situações potencialmente geradoras de sofrimento ou estigmatização. Pena: detenção de <b>3 meses a 1 ano</b> e multa.</li><li>§ 1º: se o agente público <b>permitir que terceiro intimide</b> a vítima de forma a gerar indevida revitimização, a pena é aumentada de <b>2/3</b>. § 2º: se o <b>próprio agente</b> público <b>intimidar</b> a vítima, a pena é aplicada <b>em dobro</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · revitimização e escuta especializada</b><p class=\"jc-tese\">O art. 15-A dialoga com a <b>Lei 13.431/2017</b> (escuta especializada e depoimento especial de crianças e adolescentes vítimas ou testemunhas de violência) e com a <b>Lei 14.245/2022</b> (Lei Mariana Ferrer), que proíbe, nas audiências, a manifestação sobre circunstâncias ou elementos alheios aos fatos e o uso de linguagem, informações ou material que ofendam a dignidade da vítima ou de testemunhas.</p><p class=\"jc-com\">Na delegacia, a regra é ouvir a vítima de violência sexual <b>uma só vez</b>, de forma acolhedora, evitando repetições desnecessárias e confrontos com o agressor. Fazer a vítima repetir o relato várias vezes, por curiosidade ou descaso, pode configurar o crime.</p></div>\n<h3>10. Identificação, interrogatório noturno e direitos do preso: arts. 16 a 21</h3>\n<ul><li><b>Art. 16</b>: deixar de <b>identificar-se</b> ou identificar-se <b>falsamente</b> ao preso por ocasião de sua <b>captura</b> ou quando deva fazê-lo durante sua detenção ou prisão. Pena: detenção de 6 meses a 2 anos e multa. <b>Parágrafo único</b>: incorre na mesma pena quem, como responsável por <b>interrogatório</b> em sede de procedimento investigatório de infração penal, deixa de identificar-se ao preso ou atribui a si mesmo falsa identidade, cargo ou função. Base constitucional: o preso tem direito à <b>identificação</b> dos responsáveis por sua prisão ou por seu interrogatório policial (CF, art. 5º, LXIV).</li><li><b>Art. 18</b>: submeter o preso a <b>interrogatório policial durante o período de repouso noturno</b>, <b>salvo</b> se capturado em <b>flagrante delito</b> ou se ele, <b>devidamente assistido</b>, consentir em prestar declarações. Pena: detenção de 6 meses a 2 anos e multa. A lei não define \"repouso noturno\"; a doutrina usa referências como o período entre 21h e 5h (o mesmo do art. 22) ou o critério do CP para furto noturno.</li><li><b>Art. 19</b>: <b>impedir ou retardar</b>, injustificadamente, o <b>envio de pleito de preso</b> à autoridade judiciária competente para a apreciação da legalidade de sua prisão ou das circunstâncias de sua custódia. Pena: detenção de 1 a 4 anos e multa. Parágrafo único: mesma pena para o magistrado que, ciente do impedimento ou da demora, deixa de tomar as providências para saná-lo, ou, não sendo competente, deixa de enviar o pedido à autoridade competente.</li><li><b>Art. 20</b>: <b>impedir</b>, sem justa causa, a <b>entrevista pessoal e reservada do preso com seu advogado</b>. Pena: detenção de 6 meses a 2 anos e multa. Parágrafo único: mesma pena para quem impede o preso, o réu solto ou o investigado de <b>entrevistar-se</b> pessoal e reservadamente com seu advogado ou defensor, por prazo razoável, <b>antes de audiência</b> judicial, e de <b>sentar-se ao seu lado</b> e com ele comunicar-se durante a audiência, salvo no curso de interrogatório ou no caso de audiência realizada por videoconferência.</li><li><b>Art. 21</b>: manter <b>presos de ambos os sexos</b> na mesma cela ou espaço de confinamento. Pena: detenção de 1 a 4 anos e multa. Parágrafo único: mesma pena para quem mantém, na mesma cela, <b>criança ou adolescente</b> na companhia de maior de idade ou em ambiente inadequado, observado o ECA.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">É crime interrogar o preso em flagrante durante a madrugada</span><br>✅ <span class=\"certo\">O art. 18 <b>excepciona</b> a captura em <b>flagrante</b> e o consentimento do preso assistido</span></li><li>❌ <span class=\"banca\">O policial pode recusar-se a se identificar ao preso por razões de segurança</span><br>✅ <span class=\"certo\">É crime (art. 16); a identificação é direito do preso (CF, art. 5º, LXIV)</span></li><li>❌ <span class=\"banca\">Manter adolescente apreendido na mesma cela que adultos é mera falta administrativa</span><br>✅ <span class=\"certo\">É crime (art. 21, parágrafo único)</span></li></ol></div>\n<h3>11. Violação de domicílio e busca e apreensão: art. 22</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 13.869/2019, art. 22</div><div class=\"art-lei\">Invadir ou adentrar, clandestina ou astuciosamente, ou à revelia da vontade do ocupante, imóvel alheio ou suas dependências, ou nele permanecer nas mesmas condições, sem determinação judicial ou fora das condições estabelecidas em lei. Pena: detenção, de 1 a 4 anos, e multa. § 1º Incorre na mesma pena, na forma prevista no caput deste artigo, quem: I, coage alguém, mediante violência ou grave ameaça, a franquear-lhe o acesso a imóvel ou suas dependências; II, (vetado); III, cumpre mandado de busca e apreensão domiciliar após as 21h ou antes das 5h. § 2º Não haverá crime se o ingresso for para prestar socorro, ou quando houver fundados indícios que indiquem a necessidade do ingresso em razão de situação de flagrante delito ou de desastre.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Caput: entrada <b>sem</b> ordem judicial e <b>fora</b> das hipóteses legais</li><li>§ 1º, I: forçar o morador a \"autorizar\" a entrada por violência ou ameaça</li><li>§ 1º, III: <b>horário</b>: o mandado de busca domiciliar só pode ser cumprido entre <b>5h e 21h</b></li><li>§ 2º: <b>excludentes</b>: socorro, flagrante (com <b>fundados indícios</b>) e desastre</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca troca \"21h\" por \"18h\" ou \"22h\"</li><li>A banca diz que o flagrante autoriza a entrada sem qualquer indício prévio</li></ul></div></div>\n<ul><li>O critério do horário <b>acabou com a antiga controvérsia</b> sobre o conceito de \"dia\" (CF, art. 5º, XI): para fins penais, cumprir mandado de busca domiciliar <b>após as 21h ou antes das 5h</b> é crime. Se a diligência começou <b>antes das 21h</b>, pode prosseguir após esse horário? A doutrina majoritária entende que <b>sim</b>, se iniciada regularmente e se a interrupção prejudicar a busca, mas a questão é controvertida.</li><li>O § 2º reproduz a lógica do <b>Tema 280 do STF</b> (fundadas razões de flagrante). A entrada baseada em <b>fundados indícios</b> de flagrante não é crime, ainda que, ao final, nada seja encontrado; a entrada sem indício algum, com o objetivo de \"pescar\" provas e humilhar o morador, pode configurar o crime, se houver a finalidade específica.</li><li>O antigo inciso II do § 1º, que punia a execução de mandado de forma <b>ostensiva e desproporcional</b> para expor o investigado a vexame, foi <b>vetado</b>.</li></ul>\n<h3>12. Fraude processual e manipulação de provas: arts. 23 a 25</h3>\n<ul><li><b>Art. 23</b>: <b>inovar artificiosamente</b>, no curso de diligência, de investigação ou de processo, o <b>estado de lugar, de coisa ou de pessoa</b>, com o fim de <b>eximir-se de responsabilidade</b> ou de <b>responsabilizar criminalmente alguém</b> ou agravar-lhe a responsabilidade. Pena: detenção de 1 a 4 anos e multa. Parágrafo único: mesma pena para quem pratica a conduta com o intuito de: I, eximir-se de responsabilidade <b>civil ou administrativa</b> por excesso praticado no curso de diligência; II, <b>omitir dados</b> ou informações ou <b>divulgar dados incompletos</b> para desviar o curso da investigação, da diligência ou do processo. É uma forma especial de <b>fraude processual</b> (CP, art. 347), por exemplo, \"plantar\" droga ou arma (o chamado \"<b>kit flagrante</b>\") ou alterar a cena de um confronto.</li><li><b>Art. 24</b>: constranger, sob violência ou grave ameaça, <b>funcionário ou empregado de instituição hospitalar</b> pública ou privada a <b>admitir para tratamento pessoa cujo óbito já tenha ocorrido</b>, com o fim de <b>alterar local ou momento de crime</b>, prejudicando sua apuração. Pena: detenção de 1 a 4 anos e multa, além da pena correspondente à violência. É o caso do agente que leva ao hospital o corpo de alguém morto em confronto para simular \"socorro\" e desfazer o local do crime.</li><li><b>Art. 25</b>: proceder à <b>obtenção de prova</b>, em procedimento de investigação ou fiscalização, por <b>meio manifestamente ilícito</b>. Pena: detenção de 1 a 4 anos e multa. Parágrafo único: mesma pena para quem <b>faz uso</b> de prova, em desfavor do investigado ou fiscalizado, <b>com prévio conhecimento de sua ilicitude</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · art. 25 e as provas ilícitas</b><p class=\"jc-tese\">O art. 25 dá dimensão penal ao art. 5º, LVI, da CF (\"são inadmissíveis, no processo, as provas obtidas por meios ilícitos\") e ao art. 157 do CPP. Exemplos: acessar o celular do preso sem autorização, obter confissão sob tortura (que também é crime de tortura, mais grave), realizar interceptação sem ordem judicial (crime específico da Lei 9.296/1996, art. 10).</p><p class=\"jc-com\">O elemento \"<b>manifestamente</b>\" é importante: provas obtidas em situações de dúvida razoável sobre a licitude (por exemplo, consentimento discutível do morador) não configuram o crime. Na jurisprudência, a ilicitude da prova leva à sua exclusão do processo; a responsabilização penal do agente depende da prova do dolo específico.</p></div>\n<h3>13. Investigações abusivas: arts. 27 a 32</h3>\n<ul><li><b>Art. 27</b>: <b>requisitar instauração ou instaurar</b> procedimento investigatório de infração penal ou administrativa, em desfavor de alguém, <b>à falta de qualquer indício</b> da prática de crime, de ilícito funcional ou de infração administrativa. Pena: detenção de 6 meses a 2 anos e multa. Parágrafo único: <b>não há crime</b> quando se tratar de <b>sindicância</b> ou <b>investigação preliminar sumária</b>, devidamente justificada.</li><li><b>Art. 28</b>: <b>divulgar gravação</b> ou trecho de gravação <b>sem relação com a prova</b> que se pretenda produzir, <b>expondo a intimidade</b> ou a vida privada ou ferindo a honra ou a imagem do investigado ou acusado. Pena: detenção de 1 a 4 anos e multa. Exemplo: vazar à imprensa conversas íntimas captadas em interceptação, sem relação com o crime investigado.</li><li><b>Art. 29</b>: <b>prestar informação falsa</b> sobre procedimento judicial, policial, fiscal ou administrativo com o fim de <b>prejudicar interesse de investigado</b>. Pena: detenção de 6 meses a 2 anos e multa.</li><li><b>Art. 30</b> (veto derrubado): <b>dar início ou proceder à persecução</b> penal, civil ou administrativa <b>sem justa causa fundamentada</b> ou contra quem <b>sabe inocente</b>. Pena: detenção de 1 a 4 anos e multa.</li><li><b>Art. 31</b>: <b>estender injustificadamente</b> a investigação, <b>procrastinando-a</b> em prejuízo do investigado ou fiscalizado. Pena: detenção de 6 meses a 2 anos e multa. Parágrafo único: incorre na mesma pena quem, <b>inexistindo prazo</b> para execução ou conclusão de procedimento, o estende de forma <b>imotivada</b>, procrastinando-o em prejuízo do investigado ou do fiscalizado.</li><li><b>Art. 32</b>: <b>negar ao interessado</b>, seu defensor ou advogado <b>acesso aos autos</b> de investigação preliminar, ao termo circunstanciado, ao inquérito ou a qualquer outro procedimento investigatório de infração penal, civil ou administrativa, assim como impedir a obtenção de cópias, <b>ressalvado</b> o acesso a peças relativas a <b>diligências em curso</b>, ou que indiquem a realização de diligências futuras, cujo <b>sigilo seja imprescindível</b>. Pena: detenção de 6 meses a 2 anos e multa.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 14</b><p class=\"jc-tese\">\"É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, <b>já documentados</b> em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.\"</p><p class=\"jc-com\">O art. 32 da Lei 13.869 e o art. 7º, XIV, do Estatuto da OAB transformam em crime a negativa injustificada desse acesso. A ressalva é a mesma da súmula: diligências <b>em andamento</b> (uma interceptação em curso, uma busca ainda não cumprida) podem ser mantidas em sigilo. Já o que está <b>documentado</b> e concluído deve ser franqueado ao advogado, inclusive sem procuração quando não houver sigilo decretado.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Instaurar sindicância para apurar notícia vaga de falta funcional é abuso de autoridade (art. 27)</span><br>✅ <span class=\"certo\">Sindicância e investigação preliminar sumária <b>justificadas</b> não são crime</span></li><li>❌ <span class=\"banca\">O delegado deve dar ao advogado acesso a diligências em curso, como interceptação em andamento</span><br>✅ <span class=\"certo\">A SV 14 e o art. 32 ressalvam diligências <b>em curso</b> cujo sigilo seja imprescindível</span></li><li>❌ <span class=\"banca\">Investigar alguém que, ao final, é inocentado configura o art. 30</span><br>✅ <span class=\"certo\">O crime exige ausência de <b>justa causa</b> fundamentada ou ciência da <b>inocência</b></span></li></ol></div>\n<h3>14. \"Carteirada\", indisponibilidade de bens, pedido de vista e exposição antecipada: arts. 33 a 38</h3>\n<ul><li><b>Art. 33</b>: <b>exigir informação ou cumprimento de obrigação</b>, inclusive o dever de fazer ou de não fazer, <b>sem expresso amparo legal</b>. Pena: detenção de 6 meses a 2 anos e multa.</li><li><b>Parágrafo único do art. 33</b> (a \"<b>carteirada</b>\"): incorre na mesma pena quem se <b>utiliza de cargo ou função pública</b> ou <b>invoca a condição de agente público</b> para <b>se eximir de obrigação legal</b> ou para <b>obter vantagem ou privilégio indevido</b>. Exemplos: o servidor que mostra a identidade funcional para não pagar estacionamento, para \"furar\" uma fila ou para escapar de uma autuação de trânsito.</li><li><b>Art. 36</b>: decretar, em processo judicial, a <b>indisponibilidade de ativos financeiros</b> em quantia que <b>extrapole exacerbadamente</b> o valor estimado para a satisfação da dívida da parte e, ante a demonstração, pela parte, da excessividade da medida, <b>deixar de corrigi-la</b>. Pena: detenção de 1 a 4 anos e multa. É crime <b>próprio de juiz</b>.</li><li><b>Art. 37</b>: <b>demorar demasiada e injustificadamente</b> no exame de processo de que tenha requerido <b>vista</b> em órgão colegiado, com o intuito de <b>procrastinar</b> seu andamento ou retardar o julgamento. Pena: detenção de 6 meses a 2 anos e multa. É crime de <b>membro de tribunal ou órgão colegiado</b> (inclusive administrativo).</li><li><b>Art. 38</b> (veto derrubado): <b>antecipar</b> o responsável pelas investigações, por meio de comunicação, <b>inclusive rede social</b>, <b>atribuição de culpa</b>, antes de concluídas as apurações e formalizada a acusação. Pena: detenção de 6 meses a 2 anos e multa.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · art. 38 e a comunicação das polícias</b><p class=\"jc-tese\">O art. 38 não proíbe a polícia de <b>informar</b> a sociedade sobre operações, prisões e apreensões. Proíbe que o <b>responsável pelas investigações</b> afirme publicamente, antes da conclusão e da acusação formal, que determinada pessoa <b>é culpada</b>.</p><p class=\"jc-com\">A orientação prática das corporações passou a ser: divulgar <b>fatos</b> (cumprimento de mandados, quantidade de droga apreendida, número de presos) sem atribuir culpa nominalmente a investigados, preservar a imagem dos presos (o que também se relaciona com o art. 13) e usar expressões como \"suspeito\", \"investigado\", \"conduzido\".</p></div>\n<h3>15. Dispositivos vetados e alterações em outras leis</h3>\n<table class=\"tab\"><thead><tr><th>Principais dispositivos vetados (veto mantido)</th><th>O que previam</th></tr></thead><tbody><tr><td>Art. 11</td><td>executar a captura ou prisão sem ordem judicial fora do flagrante</td></tr><tr><td>Art. 14</td><td>fotografar ou filmar preso para expor à curiosidade pública</td></tr><tr><td>Art. 17</td><td>uso abusivo de algemas</td></tr><tr><td>Art. 22, § 1º, II</td><td>execução ostensiva e desproporcional de mandado de busca</td></tr><tr><td>Art. 26</td><td>induzir ou instigar alguém a praticar infração para captura em flagrante (flagrante preparado)</td></tr><tr><td>Art. 34 e 35</td><td>deixar de corrigir erro relevante em decisão judicial / coibir reunião ou manifestação pacífica</td></tr></tbody></table>\n<ul><li>Atenção: embora vetados como <b>crimes</b> desta lei, vários desses comportamentos continuam <b>ilícitos</b> por outros fundamentos: o uso abusivo de <b>algemas</b> (Súmula Vinculante 11), a <b>exposição</b> do preso (pode configurar o art. 13 se houver constrangimento por violência, grave ameaça ou redução de resistência), o <b>flagrante preparado</b> (Súmula 145 do STF: crime impossível).</li></ul>\n<table class=\"tab\"><thead><tr><th>Lei alterada pela Lei 13.869/2019</th><th>O que mudou</th></tr></thead><tbody><tr><td><b>Lei 7.960/1989</b> (prisão temporária)</td><td>o mandado deve indicar o período e o dia da soltura; findo o prazo, soltura imediata, sem nova ordem; o dia do cumprimento é computado</td></tr><tr><td><b>Lei 9.296/1996</b> (interceptação)</td><td>o art. 10 passou a punir também quem promove <b>escuta ambiental</b> ou quebra <b>segredo da Justiça</b> sem autorização ou com objetivos não autorizados em lei, e o juiz que determina a execução com objetivo não autorizado (reclusão de 2 a 4 anos)</td></tr><tr><td><b>Lei 8.069/1990</b> (ECA)</td><td>art. 227-A: os efeitos da condenação de perda de cargo, nos crimes do ECA praticados por servidores contra criança ou adolescente, condicionam-se à reincidência</td></tr><tr><td><b>Lei 8.906/1994</b> (Estatuto da OAB)</td><td>art. 7º-B: é <b>crime</b> violar direito ou prerrogativa de advogado previstos nos incisos II, III, IV e V do art. 7º (inviolabilidade do escritório, comunicação reservada com cliente preso, presença de representante da OAB na prisão em flagrante, recolhimento em sala de Estado-Maior) (a pena foi aumentada por lei posterior; confira o texto vigente)</td></tr></tbody></table>\n<h3>16. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Desfile para a imprensa</b><p>Após prender um suspeito de homicídio de grande repercussão, policiais o obrigam, segurando-o pelos braços e empurrando-o, a ficar de pé diante das câmeras de TV na porta da delegacia, enquanto um deles diz: \"Este é o assassino\".</p><details><summary>Ver a solução comentada</summary><p>Configura, em tese, o <b>art. 13, I</b> (constranger o preso, mediante violência, a exibir-se à curiosidade pública) e o <b>art. 38</b> (antecipar atribuição de culpa antes da acusação, se quem falou é o responsável pelas investigações), desde que presente a finalidade específica (prejudicar o preso ou satisfação pessoal, como a autopromoção). As penas são de detenção, sem prejuízo das relativas à violência.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Busca às 22h</b><p>Com mandado de busca domiciliar expedido no dia anterior, policiais chegam à casa do investigado às 22h, porque \"era o horário em que ele estaria em casa\". Há crime?</p><details><summary>Ver a solução comentada</summary><p>Cumprir mandado de busca e apreensão <b>domiciliar</b> após as <b>21h</b> configura o <b>art. 22, § 1º, III</b>, se houver a finalidade específica. Ainda que não haja condenação, a prova obtida pode ser considerada <b>ilícita</b> por violação ao art. 5º, XI, da CF. O correto é aguardar a partir das 5h. Se houvesse <b>flagrante</b> com fundados indícios (por exemplo, gritos de socorro), o ingresso estaria amparado pelo § 2º.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Carteirada na blitz</b><p>Um servidor público é parado numa blitz da Lei Seca, mostra a identidade funcional e diz aos agentes: \"Sou autoridade, vocês sabem com quem estão falando?\", recusando-se a fazer o teste.</p><details><summary>Ver a solução comentada</summary><p>Configura, em tese, o <b>art. 33, parágrafo único</b>: invocar a condição de agente público para se eximir de obrigação legal ou obter privilégio indevido. Independentemente disso, a recusa ao teste gera as consequências administrativas do CTB (art. 165-A), e o servidor pode responder disciplinarmente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Preso esquecido</b><p>O prazo de 5 dias da prisão temporária termina numa sexta-feira. O carcereiro, alegando que \"precisa de alvará do juiz\", mantém o preso até segunda-feira.</p><details><summary>Ver a solução comentada</summary><p>Desde a Lei 13.869, a soltura ao fim do prazo da temporária deve ser <b>imediata</b>, <b>independentemente de nova ordem</b> judicial (Lei 7.960/1989, art. 2º, § 7º). Manter o preso configura, em tese, o <b>art. 12, parágrafo único, IV</b>, se não houver motivo justo e excepcionalíssimo e se presente a finalidade específica.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Kit flagrante</b><p>Durante uma abordagem sem resultado, um policial coloca uma porção de droga no bolso do abordado para justificar a condução, por desavença pessoal com ele.</p><details><summary>Ver a solução comentada</summary><p><b>Art. 23</b> (inovar artificiosamente o estado de pessoa ou coisa para responsabilizar criminalmente alguém), com evidente finalidade de prejudicar. Pode haver também <b>denunciação caluniosa</b> (CP, art. 339) e outros crimes, além de demissão. A prova \"plantada\" é ilícita, e o abordado deve ser absolvido.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Advogado barrado</b><p>O advogado do preso pede para conversar reservadamente com ele antes do interrogatório na delegacia. O delegado nega, dizendo que \"o depoimento é rápido\".</p><details><summary>Ver a solução comentada</summary><p>Configura, em tese, o <b>art. 20</b> (impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado) e viola o art. 7º, III, do Estatuto da OAB (que também é crime, art. 7º-B). O interrogatório realizado assim pode ser anulado.</p></details></div>\n<h3>17. Lei antiga x lei nova: o que mudou</h3>\n<table class=\"tab\"><thead><tr><th>Ponto</th><th>Lei 4.898/1965 (revogada)</th><th>Lei 13.869/2019</th></tr></thead><tbody><tr><td>Técnica dos tipos</td><td>tipos <b>abertos</b> (\"qualquer atentado à liberdade\", \"ao sigilo da correspondência\")</td><td>tipos <b>fechados</b>, com condutas específicas</td></tr><tr><td>Elemento subjetivo</td><td>dolo, sem finalidade especial expressa</td><td>dolo + <b>finalidade específica</b> (art. 1º, § 1º)</td></tr><tr><td>Penas</td><td>detenção de <b>10 dias a 6 meses</b>, multa irrisória</td><td>detenção de <b>6 meses a 2 anos</b> ou de <b>1 a 4 anos</b>, e multa</td></tr><tr><td>Ação penal</td><td>pública incondicionada (a Lei 5.249/1967 esclareceu que a \"representação\" da Lei 4.898 não era condição de procedibilidade)</td><td>pública <b>incondicionada</b>, com ação privada subsidiária expressa</td></tr><tr><td>Sanções administrativas</td><td>previstas na própria lei (advertência, repreensão, suspensão, demissão)</td><td>remetidas à legislação própria de cada carreira (independência das instâncias)</td></tr><tr><td>Efeitos da condenação</td><td>perda do cargo e inabilitação até 3 anos</td><td>inabilitação de 1 a 5 anos e perda do cargo, <b>só com reincidência</b></td></tr><tr><td>Crime de hermenêutica</td><td>sem previsão expressa</td><td><b>vedado</b> (art. 1º, § 2º)</td></tr></tbody></table>\n<ul><li>A nova lei, portanto, tem dois movimentos: de um lado, <b>aumentou</b> penas e <b>detalhou</b> condutas, dando mais efetividade à proteção dos direitos fundamentais; de outro, <b>restringiu</b> o alcance com o dolo específico e a proibição do crime de hermenêutica, protegendo os agentes que decidem de boa-fé.</li><li><b>Direito intertemporal</b>: condutas praticadas na vigência da lei antiga, que <b>não</b> encontram correspondência na lei nova, sofreram <b>abolitio criminis</b> (por exemplo, certos \"atentados\" genéricos sem correspondência típica atual). Condutas que encontram correspondência na lei nova seguem o princípio da <b>continuidade normativo-típica</b>, mas, como a lei nova tem penas maiores, aplica-se a lei antiga aos fatos anteriores (irretroatividade da lei mais grave).</li></ul>\n<h3>18. Pontos sensíveis de cada grupo de crimes</h3>\n<ul><li><b>Art. 9º e a atuação do delegado</b>: a doutrina discute se o delegado pode cometer o crime do caput ao lavrar auto de prisão em flagrante. Parte entende que \"decretar\" é ato privativo de juiz; outra parte entende que o delegado, ao <b>ratificar</b> a voz de prisão e lavrar o auto em manifesta desconformidade com a lei, pratica a conduta. Na dúvida, a orientação segura é: o delegado deve <b>relaxar</b> a prisão em flagrante quando não houver situação de flagrante (CPP, art. 304, § 1º, interpretado a contrario sensu), fundamentando sua decisão.</li><li><b>Art. 12 e o \"prazo legal\"</b>: o crime exige que a omissão seja <b>injustificada</b>. Uma pane no sistema eletrônico, a impossibilidade de localizar a família depois de diligências documentadas ou a recusa do preso em indicar alguém afastam o crime. Por isso, registre no auto todas as tentativas de comunicação.</li><li><b>Art. 13 e a imagem do preso</b>: a simples filmagem da prisão pela imprensa, sem participação ou constrangimento por parte do agente, <b>não</b> configura o crime. O tipo exige que o agente <b>constranja</b> o preso, por violência, grave ameaça ou redução da capacidade de resistência, a se exibir. A divulgação de fotos do preso pela própria instituição, sem finalidade de identificação ou de interesse público, pode gerar responsabilidade civil e disciplinar.</li><li><b>Art. 16 e o uso de nome de guerra</b>: o policial que se identifica pelo <b>nome funcional</b> ou pela <b>matrícula</b>, conforme as normas da instituição, cumpre o dever de identificação. O que a lei pune é <b>não</b> se identificar ou usar identidade <b>falsa</b>. Agentes infiltrados, autorizados judicialmente, atuam em situação específica e não praticam o crime ao ocultar a identidade nas atividades de infiltração.</li><li><b>Art. 22 e as dependências do imóvel</b>: a proteção abrange o quintal, a garagem, o escritório não aberto ao público, o quarto de hotel ocupado e o <b>trailer</b> usado como moradia. Estabelecimentos comerciais <b>abertos ao público</b>, durante o funcionamento, não têm a mesma proteção nas áreas de acesso público.</li><li><b>Art. 27 e a notícia anônima</b>: a jurisprudência admite que a <b>denúncia anônima</b> dê início a <b>diligências preliminares</b> para verificar sua verossimilhança, mas não a instauração direta de inquérito com base apenas nela. Instaurar inquérito contra alguém exclusivamente com base em denúncia anônima, sem nenhuma verificação, pode, em tese, aproximar-se do art. 27, se houver a finalidade específica.</li><li><b>Art. 31 e os prazos do inquérito</b>: os prazos do inquérito com investigado <b>solto</b> são impróprios (podem ser prorrogados), e a complexidade da investigação justifica a demora. O crime exige procrastinação <b>injustificada</b> em <b>prejuízo</b> do investigado, com a finalidade específica.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Filmar a prisão, sem constranger o preso, configura o art. 13</span><br>✅ <span class=\"certo\">O tipo exige <b>constrangimento</b> por violência, grave ameaça ou redução da resistência</span></li><li>❌ <span class=\"banca\">Identificar-se pela matrícula funcional é crime do art. 16</span><br>✅ <span class=\"certo\">O crime é <b>não</b> se identificar ou usar identidade <b>falsa</b></span></li><li>❌ <span class=\"banca\">Iniciar diligências preliminares a partir de denúncia anônima é crime do art. 27</span><br>✅ <span class=\"certo\">Diligências para verificar a verossimilhança são <b>lícitas</b></span></li></ol></div>\n<h3>19. Responsabilidade civil e administrativa</h3>\n<ul><li>Além da responsabilidade penal, o abuso de autoridade gera <b>responsabilidade civil</b> do <b>Estado</b>, que é <b>objetiva</b> (CF, art. 37, § 6º), com direito de <b>regresso</b> contra o agente que agiu com dolo ou culpa. A vítima, segundo a tese do STF (Tema 940), deve acionar o <b>Estado</b> (ou a pessoa jurídica de direito privado prestadora de serviço público), e não diretamente o agente: é a chamada <b>teoria da dupla garantia</b>.</li><li><b>Responsabilidade administrativa</b>: o agente responde a processo disciplinar segundo o estatuto da sua carreira (Lei 8.112/1990 para servidores federais; estatutos estaduais; regulamentos disciplinares das polícias militares). A notícia de crime que descrever falta funcional será informada à autoridade competente (art. 6º, parágrafo único).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 940 (RE 1.027.633)</b><p class=\"jc-tese\">\"A teor do disposto no art. 37, § 6º, da Constituição Federal, a ação por danos causados por agente público deve ser ajuizada contra o Estado ou a pessoa jurídica de direito privado prestadora de serviço público, sendo parte ilegítima para a ação o autor do ato, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.\"</p><p class=\"jc-com\">Na prática: a vítima de uma prisão abusiva processa o <b>Estado</b> e recebe a indenização; o Estado, depois, pode cobrar do policial, se ele agiu com dolo ou culpa. Isso não impede a ação <b>penal</b> contra o agente, que é independente. Em provas de Constitucional e Administrativo, essa tese aparece muito ligada ao tema do abuso de autoridade.</p></div>\n<h3>20. Mais casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Família não avisada</b><p>Um homem é preso em flagrante às 2h da manhã. Pede que avisem a esposa. O escrivão, alegando excesso de serviço, só liga às 15h do dia seguinte. Há crime?</p><details><summary>Ver a solução comentada</summary><p>O art. 12, parágrafo único, II, exige a comunicação <b>imediata</b> à família ou à pessoa indicada. A demora de 13 horas, sem justificativa, pode configurar o crime, <b>se</b> houver a finalidade específica (por exemplo, para impedir que a família contrate advogado). Se a demora decorreu de mera desorganização, sem dolo específico, há falta funcional, mas não crime.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Juiz que não relaxa</b><p>Um juiz recebe um pedido de relaxamento de prisão manifestamente ilegal (o preso está detido há 20 dias sem auto de prisão nem ordem escrita) e, por desavença com o advogado, deixa o pedido parado por semanas.</p><details><summary>Ver a solução comentada</summary><p>Em tese, <b>art. 9º, parágrafo único, I</b>: deixar, dentro de prazo razoável, de relaxar prisão manifestamente ilegal, com a finalidade de prejudicar. O juiz responde perante o tribunal competente (foro por prerrogativa de função).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Mulher na cela masculina</b><p>Por falta de vagas, uma presa é colocada por uma noite numa cela com homens, na delegacia.</p><details><summary>Ver a solução comentada</summary><p><b>Art. 21</b>: manter presos de ambos os sexos na mesma cela. A falta de vagas não justifica a conduta; a autoridade deve providenciar a transferência ou outra solução. Além do crime (com o dolo específico), há grave violação de direitos humanos e responsabilidade do Estado.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Advogado sem acesso</b><p>O advogado do investigado pede cópia dos depoimentos já colhidos no inquérito. O delegado nega, dizendo que \"o inquérito é sigiloso\". Não há nenhuma diligência em curso.</p><details><summary>Ver a solução comentada</summary><p>Viola a <b>Súmula Vinculante 14</b> e configura, em tese, o <b>art. 32</b>. O sigilo do inquérito (CPP, art. 20) <b>não</b> pode ser oposto ao advogado em relação aos elementos <b>já documentados</b>. Cabe reclamação ao STF e mandado de segurança.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Escuta de gravações vazadas</b><p>Durante uma investigação de corrupção, um agente divulga a jornalistas gravações de conversas íntimas do investigado com a amante, sem relação com os crimes apurados.</p><details><summary>Ver a solução comentada</summary><p><b>Art. 28</b>: divulgar gravação sem relação com a prova, expondo a intimidade do investigado. Pode haver também o crime do art. 10 da Lei 9.296/1996 (quebra de segredo da Justiça), conforme o caso.</p></details></div>\n<h3>21. Linha do tempo e perspectivas</h3>\n<div class=\"lt-fluxo\"><span>1965: Lei 4.898 (tipos abertos, penas baixas)</span> <em>→</em> <span>2017: Lei 13.491 amplia o crime militar</span> <em>→</em> <span>2018: STF proíbe condução coercitiva para interrogatório (ADPFs 395 e 444)</span> <em>→</em> <span>2019: Lei 13.869 sancionada com vetos; Congresso derruba parte deles</span> <em>→</em> <span>2020: entrada em vigor (03/01/2020)</span> <em>→</em> <span>2022: Lei 14.321 cria a violência institucional (art. 15-A)</span> <em>→</em> <span>2025: STF inicia o julgamento das ADIs contra a lei</span></div>\n<ul><li><b>Pontos questionados nas ADIs</b>: as associações de magistrados e do Ministério Público sustentam que tipos como os dos arts. 9º, 30, 36 e 38 seriam vagos e poderiam intimidar a atuação independente de juízes e promotores. A AGU e o Conselho Federal da OAB defendem a constitucionalidade, destacando as travas do dolo específico e da vedação ao crime de hermenêutica. Para a prova, enquanto não houver decisão, <b>a lei vale integralmente</b>; acompanhe o resultado do julgamento, que pode trazer interpretações conforme a Constituição.</li><li><b>Abuso de autoridade e ECA</b>: a apreensão ilegal de criança ou adolescente e o descumprimento das garantias do ECA têm crimes próprios no <b>ECA</b> (arts. 230 a 235, como privar a criança ou o adolescente de sua liberdade sem estar em flagrante ou sem ordem escrita, deixar de comunicar a apreensão à autoridade judiciária e à família, submeter a vexame ou constrangimento). Pelo princípio da especialidade, quando a vítima é <b>criança ou adolescente</b>, aplicam-se, em regra, os crimes do <b>ECA</b>; o art. 21, parágrafo único, da Lei 13.869 trata especificamente da custódia conjunta com adultos.</li><li><b>Abuso de autoridade e prerrogativas do advogado</b>: além do art. 20 da Lei 13.869, o <b>art. 7º-B</b> do Estatuto da OAB pune a violação de prerrogativas específicas do advogado (inviolabilidade do escritório, comunicação reservada com o cliente preso, presença de representante da OAB na prisão em flagrante por motivo ligado ao exercício da advocacia, sala de Estado-Maior). Em uma prova de delegado, a correta condução da prisão de um advogado é tema frequente.</li><li><b>Para memorizar a lógica da lei</b>: ela protege, em sequência, a <b>liberdade</b> (prisão e condução), a <b>integridade e a dignidade</b> do preso (exposição, identificação, interrogatório, cela), a <b>casa</b> (domicílio e busca), a <b>prova</b> (fraude e prova ilícita), a <b>investigação justa</b> (instauração, prazo, acesso aos autos, vazamentos, antecipação de culpa) e a <b>Administração</b> (carteirada, bloqueio excessivo, pedido de vista).</li></ul>\n<h3>22. Abuso de autoridade e crimes semelhantes: como distinguir</h3>\n<table class=\"tab\"><thead><tr><th>Conduta</th><th>Crime aplicável</th><th>Por quê</th></tr></thead><tbody><tr><td>Agente que tortura o preso para obter confissão</td><td><b>Tortura</b> (Lei 9.455/1997, art. 1º, I, \"a\")</td><td>lei especial mais grave; a tortura absorve o constrangimento do art. 13, III</td></tr><tr><td>Agente que exige dinheiro do preso para soltá-lo</td><td><b>Concussão</b> (CP, art. 316)</td><td>crime contra a Administração com vantagem indevida</td></tr><tr><td>Policial que mata o preso rendido</td><td><b>Homicídio</b> qualificado</td><td>crime mais grave; o abuso fica absorvido</td></tr><tr><td>Interceptação telefônica sem autorização judicial</td><td><b>Lei 9.296/1996, art. 10</b></td><td>norma especial</td></tr><tr><td>Violação de domicílio por particular</td><td><b>CP, art. 150</b></td><td>o abuso exige agente público</td></tr><tr><td>Violação de domicílio por agente público com finalidade específica</td><td><b>Lei 13.869, art. 22</b></td><td>norma especial em relação ao art. 150, § 2º, do CP</td></tr><tr><td>Prisão de advogado sem a presença de representante da OAB, no flagrante por crime ligado à profissão</td><td><b>Estatuto da OAB, art. 7º-B</b></td><td>norma especial</td></tr><tr><td>Deixar de soltar preso ao fim da temporária</td><td><b>Lei 13.869, art. 12, parágrafo único, IV</b></td><td>norma especial</td></tr></tbody></table>\n<ul><li>A regra geral é a do <b>princípio da especialidade</b> e da <b>consunção</b>: quando a conduta do agente configura crime mais grave (tortura, homicídio, concussão), a Lei de Abuso de Autoridade é afastada ou absorvida. Quando não há crime mais grave específico, aplica-se a Lei 13.869.</li><li>O art. 150, § 2º, do CP (violação de domicílio por funcionário público) foi <b>revogado</b> pela própria Lei 13.869 (art. 44), que passou a disciplinar a matéria no art. 22. Do mesmo modo, o art. 350 do CP (exercício arbitrário ou abuso de poder) foi revogado. As bancas adoram perguntar isso.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O art. 150, § 2º, do CP continua a punir a violação de domicílio por funcionário público</span><br>✅ <span class=\"certo\">Foi <b>revogado</b> pela Lei 13.869 (art. 44)</span></li><li>❌ <span class=\"banca\">O art. 350 do CP (exercício arbitrário ou abuso de poder) continua em vigor</span><br>✅ <span class=\"certo\">Foi <b>revogado</b> pela Lei 13.869</span></li><li>❌ <span class=\"banca\">A tortura do preso para obter confissão é crime de abuso de autoridade (art. 13, III)</span><br>✅ <span class=\"certo\">É <b>tortura</b> (Lei 9.455/1997), crime mais grave e equiparado a hediondo</span></li></ol></div>\n<h3>23. A Lei de Abuso de Autoridade na rotina policial</h3>\n<ul><li><b>Na prisão</b>: identifique-se ao preso (art. 16); comunique a prisão ao juiz em 24 horas (art. 12), à família <b>imediatamente</b> (art. 12, parágrafo único, II) e entregue a <b>nota de culpa</b> em 24 horas (art. 12, parágrafo único, III); justifique por escrito o uso de <b>algemas</b> (SV 11); não exponha o preso à mídia (art. 13).</li><li><b>No interrogatório</b>: respeite o direito ao <b>silêncio</b> e à presença do advogado (art. 15, parágrafo único); evite o interrogatório noturno fora do flagrante sem consentimento do preso assistido (art. 18); permita a entrevista reservada com o advogado (art. 20).</li><li><b>Na busca domiciliar</b>: cumpra o mandado entre <b>5h e 21h</b> (art. 22, § 1º, III); sem mandado, só entre com <b>fundadas razões</b> de flagrante, socorro ou desastre (art. 22, § 2º; Tema 280 do STF); registre as razões.</li><li><b>Na investigação</b>: só instaure procedimento com algum <b>indício</b> (art. 27); não estenda a investigação sem motivo (art. 31); franqueie ao advogado o acesso aos autos já documentados (art. 32; SV 14); não vaze gravações sem relação com a prova (art. 28); não atribua culpa publicamente antes da acusação (art. 38).</li><li><b>Na custódia</b>: separe homens e mulheres e adolescentes de adultos (art. 21); solte o preso ao fim da temporária, independentemente de nova ordem (art. 12, parágrafo único, IV).</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">O outro lado da lei</b><p>O agente que atua <b>dentro da lei</b>, de boa-fé, com decisões fundamentadas e registradas, <b>não</b> comete abuso de autoridade, ainda que seus atos sejam depois revistos (art. 1º, § 2º). A exigência de <b>dolo específico</b> e a proibição do crime de hermenêutica são garantias do próprio policial. A melhor proteção é a <b>documentação</b>: registre as razões da abordagem, da entrada no domicílio, do uso de algemas e do horário das diligências.</p></div>\n<h3>24. Perguntas frequentes em provas discursivas</h3>\n<ul><li><b>\"Explique o elemento subjetivo exigido pela Lei 13.869/2019.\"</b> Todos os crimes exigem dolo e uma finalidade específica: prejudicar outrem, beneficiar a si mesmo ou a terceiro, ou agir por mero capricho ou satisfação pessoal (art. 1º, § 1º). Não há modalidade culposa. Além disso, a divergência na interpretação da lei ou na avaliação de fatos e provas não configura abuso (§ 2º), vedando o crime de hermenêutica.</li><li><b>\"Quais os efeitos da condenação por abuso de autoridade?\"</b> A obrigação de indenizar (automática, com fixação de valor mínimo a requerimento do ofendido), a inabilitação para cargo, mandato ou função por 1 a 5 anos e a perda do cargo, mandato ou função; os dois últimos dependem de <b>reincidência</b> em crime de abuso de autoridade e de declaração motivada na sentença.</li><li><b>\"Comente o crime do art. 22 e suas excludentes.\"</b> O art. 22 pune a entrada ou permanência em imóvel alheio sem determinação judicial ou fora das condições legais, a coação para franquear o acesso e o cumprimento de mandado de busca domiciliar entre 21h e 5h. Não há crime quando o ingresso é para prestar socorro ou há fundados indícios de flagrante ou de desastre.</li></ul>\n<h3>25. Como as bancas cobram este tópico</h3>\n<ul><li><b>Parte geral</b>: sujeito ativo (agente público em sentido amplo, inclusive transitório e sem remuneração); dolo específico; crime de hermenêutica; ação pública incondicionada; efeitos da condenação condicionados à reincidência; penas restritivas (serviços e suspensão de 1 a 6 meses).</li><li><b>Crimes mais cobrados</b>: art. 9º (prisão ilegal), 10 (condução coercitiva), 12 (comunicação da prisão), 13 (exposição do preso), 15 (silêncio e advogado), 15-A (violência institucional), 16 (identificação), 18 (interrogatório noturno), 20 (entrevista com advogado), 22 (domicílio e horário), 27, 32 e 38.</li><li><b>Detalhes numéricos</b>: 21h e 5h; 24 horas para a nota de culpa; 1 a 5 anos de inabilitação; 1 a 6 meses de suspensão; 6 meses para a ação privada subsidiária.</li><li><b>Bancas</b>: a <b>FGV</b> gosta de casos de delegacia (comunicação da prisão, advogado, interrogatório); o <b>Cebraspe</b> cobra a parte geral e as revogações do CP; a <b>Consulplan</b> cobra a letra dos artigos.</li></ul>\n<h3>26. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 13.869/2019</span></span><span class=\"vs\"><span>nova Lei de Abuso de Autoridade (vigência em 03/01/2020)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sujeito ativo</span></span><span class=\"vs\"><span>qualquer agente público, ainda que transitório e sem remuneração</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Particular</span></span><span class=\"vs\"><span>coautor ou partícipe, se souber da condição do agente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dolo específico</span></span><span class=\"vs\"><span>prejudicar, beneficiar ou capricho/satisfação pessoal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Crime de hermenêutica</span></span><span class=\"vs\"><span>vedado (art. 1º, § 2º)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação penal</span></span><span class=\"vs\"><span>pública incondicionada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação privada subsidiária</span></span><span class=\"vs\"><span>6 meses</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Indenizar</span></span><span class=\"vs\"><span>efeito automático</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Inabilitação e perda do cargo</span></span><span class=\"vs\"><span>só com reincidência e motivação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Inabilitação</span></span><span class=\"vs\"><span>1 a 5 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Suspensão (pena restritiva)</span></span><span class=\"vs\"><span>1 a 6 meses, sem vencimentos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 9º</span></span><span class=\"vs\"><span>decretar prisão em manifesta desconformidade com a lei</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 10</span></span><span class=\"vs\"><span>condução coercitiva descabida ou sem prévia intimação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 12</span></span><span class=\"vs\"><span>não comunicar a prisão; nota de culpa em 24 horas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 13</span></span><span class=\"vs\"><span>constranger o preso a exibir-se ou a produzir prova contra si</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 15</span></span><span class=\"vs\"><span>prosseguir interrogatório após silêncio ou sem advogado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 15-A</span></span><span class=\"vs\"><span>violência institucional (revitimização)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 16</span></span><span class=\"vs\"><span>não se identificar ao preso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 18</span></span><span class=\"vs\"><span>interrogatório noturno, salvo flagrante ou consentimento assistido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 20</span></span><span class=\"vs\"><span>impedir entrevista reservada com advogado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 21</span></span><span class=\"vs\"><span>presos de ambos os sexos na mesma cela</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 22</span></span><span class=\"vs\"><span>domicílio; busca entre 21h e 5h é crime</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 23</span></span><span class=\"vs\"><span>inovar artificiosamente (kit flagrante)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 25</span></span><span class=\"vs\"><span>prova manifestamente ilícita</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 27</span></span><span class=\"vs\"><span>investigar sem qualquer indício (sindicância justificada não)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 32</span></span><span class=\"vs\"><span>negar acesso aos autos (SV 14)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 33, parágrafo único</span></span><span class=\"vs\"><span>carteirada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 38</span></span><span class=\"vs\"><span>antecipar culpa em rede social</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Revogados no CP</span></span><span class=\"vs\"><span>art. 150, § 2º, e art. 350</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Algemas</span></span><span class=\"vs\"><span>SV 11 (art. 17 vetado)</span></span></button></div></div>\n<h3>27. Resumo em uma página</h3>\n<ul><li><b>Parte geral</b>: agente público em sentido amplo; dolo + finalidade específica; sem crime de hermenêutica; ação pública incondicionada (privada subsidiária em 6 meses); efeitos: indenização (automática), inabilitação de 1 a 5 anos e perda do cargo (com reincidência e motivação); restritivas: serviços e suspensão de 1 a 6 meses; independência relativa das instâncias.</li><li><b>Prisão</b>: arts. 9º, 10, 12, 13, 16, 18, 19, 20, 21.</li><li><b>Domicílio e provas</b>: arts. 22 (21h às 5h; excludentes), 23 (fraude), 24 (cadáver no hospital), 25 (prova ilícita).</li><li><b>Investigação</b>: arts. 27, 28, 29, 30, 31, 32, 38.</li><li><b>Outros</b>: art. 15-A (violência institucional), 33 (carteirada), 36 (bloqueio excessivo), 37 (pedido de vista).</li><li><b>Outras leis</b>: Lei 7.960 (soltura ao fim da temporária), Lei 9.296 (art. 10), ECA (art. 227-A), OAB (art. 7º-B); revogação dos arts. 150, § 2º, e 350 do CP.</li></ul>",
 "quiz": [
+{
+"p": "A Lei 13.869/2019 revogou integralmente a Lei 4.898/1965.",
+"c": true,
+"prof": "Origem.",
+"x": "Nova lei.",
+"e": "Revogação"
+},
+{
+"p": "Pode ser sujeito ativo do crime de abuso de autoridade quem exerce função pública transitoriamente e sem remuneração.",
+"c": true,
+"prof": "Sujeito ativo.",
+"x": "Art. 2º, parágrafo único.",
+"e": "Agente público"
+},
+{
+"p": "O particular jamais pode responder por crime de abuso de autoridade.",
+"c": false,
+"prof": "Sujeito ativo.",
+"x": "Coautor ou partícipe.",
+"e": "CP, art. 30"
+},
+{
+"p": "Membros do Poder Judiciário e do Ministério Público podem ser sujeitos ativos de crime de abuso de autoridade.",
+"c": true,
+"prof": "Sujeito ativo.",
+"x": "Art. 2º, IV e V.",
+"e": "Magistrados"
+},
+{
+"p": "Os crimes de abuso de autoridade exigem que o agente atue com a finalidade específica de prejudicar outrem ou beneficiar a si ou a terceiro, ou por mero capricho ou satisfação pessoal.",
+"c": true,
+"prof": "Dolo específico.",
+"x": "Art. 1º, § 1º.",
+"e": "Finalidade"
+},
+{
+"p": "Admite-se a modalidade culposa em alguns crimes de abuso de autoridade.",
+"c": false,
+"prof": "Dolo específico.",
+"x": "Todos dolosos.",
+"e": "Culpa"
+},
+{
+"p": "A divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade.",
+"c": true,
+"prof": "Hermenêutica.",
+"x": "Art. 1º, § 2º.",
+"e": "Crime de hermenêutica"
+},
+{
+"p": "Os crimes de abuso de autoridade são de ação penal pública condicionada à representação da vítima.",
+"c": false,
+"prof": "Ação penal.",
+"x": "Incondicionada.",
+"e": "Art. 3º"
+},
+{
+"p": "Admite-se ação penal privada subsidiária da pública nos crimes de abuso de autoridade, no prazo de 6 meses contado do esgotamento do prazo para a denúncia.",
+"c": true,
+"prof": "Ação penal.",
+"x": "Art. 3º, §§ 1º e 2º.",
+"e": "Subsidiária"
+},
+{
+"p": "A perda do cargo é efeito automático de toda condenação por abuso de autoridade.",
+"c": false,
+"prof": "Efeitos.",
+"x": "Exige reincidência.",
+"e": "Art. 4º"
+},
+{
+"p": "A inabilitação para o exercício de cargo público, como efeito da condenação por abuso de autoridade, varia de 1 a 5 anos e depende de reincidência.",
+"c": true,
+"prof": "Efeitos.",
+"x": "Art. 4º, II.",
+"e": "Reincidência"
+},
+{
+"p": "A suspensão do exercício do cargo, como pena restritiva substitutiva, dura de 1 a 6 meses, com perda dos vencimentos.",
+"c": true,
+"prof": "Penas.",
+"x": "Art. 5º, II.",
+"e": "Suspensão"
+},
+{
+"p": "Faz coisa julgada no cível a sentença penal que reconhece ter o agente atuado em estrito cumprimento do dever legal.",
+"c": true,
+"prof": "Instâncias.",
+"x": "Art. 8º.",
+"e": "Excludentes"
+},
+{
+"p": "Decretar medida de privação de liberdade em manifesta desconformidade com as hipóteses legais é crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 9º.",
+"x": "Veto derrubado.",
+"e": "Prisão ilegal"
+},
+{
+"p": "A prisão que vem a ser relaxada em grau de recurso configura, por si só, o crime do art. 9º.",
+"c": false,
+"prof": "Art. 9º.",
+"x": "Manifesta desconformidade e dolo específico.",
+"e": "Divergência"
+},
+{
+"p": "É crime decretar a condução coercitiva de testemunha ou investigado manifestamente descabida ou sem prévia intimação de comparecimento.",
+"c": true,
+"prof": "Art. 10.",
+"x": "Condução.",
+"e": "Intimação prévia"
+},
+{
+"p": "Segundo o STF, é inconstitucional a condução coercitiva de investigado ou réu para interrogatório.",
+"c": true,
+"prof": "Condução.",
+"x": "ADPFs 395 e 444.",
+"e": "Silêncio"
+},
+{
+"p": "Deixar de comunicar imediatamente a prisão e o local onde o preso se encontra à sua família ou pessoa por ele indicada é crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 12.",
+"x": "Parágrafo único, II.",
+"e": "Família"
+},
+{
+"p": "A nota de culpa deve ser entregue ao preso no prazo de 48 horas.",
+"c": false,
+"prof": "Art. 12.",
+"x": "24 horas.",
+"e": "Nota de culpa"
+},
+{
+"p": "Desde a Lei 13.869, decorrido o prazo da prisão temporária, o preso deve ser posto imediatamente em liberdade, independentemente de nova ordem judicial.",
+"c": true,
+"prof": "Temporária.",
+"x": "Lei 7.960, art. 2º, § 7º.",
+"e": "Soltura"
+},
+{
+"p": "Constranger o preso, mediante violência, a exibir-se à curiosidade pública configura abuso de autoridade.",
+"c": true,
+"prof": "Art. 13.",
+"x": "Inciso I.",
+"e": "Exposição"
+},
+{
+"p": "Constranger o preso, mediante grave ameaça, a produzir prova contra si mesmo é crime previsto na Lei de Abuso de Autoridade.",
+"c": true,
+"prof": "Art. 13.",
+"x": "Inciso III, veto derrubado.",
+"e": "Não autoincriminação"
+},
+{
+"p": "O uso abusivo de algemas é crime previsto no art. 17 da Lei 13.869/2019.",
+"c": false,
+"prof": "Algemas.",
+"x": "Vetado; SV 11.",
+"e": "Veto"
+},
+{
+"p": "Segundo a Súmula Vinculante 11, a excepcionalidade do uso de algemas deve ser justificada por escrito.",
+"c": true,
+"prof": "Algemas.",
+"x": "SV 11.",
+"e": "Justificativa"
+},
+{
+"p": "Prosseguir com o interrogatório de pessoa que decidiu exercer o direito ao silêncio configura crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 15.",
+"x": "Parágrafo único, I.",
+"e": "Silêncio"
+},
+{
+"p": "Constranger a depor, sob ameaça de prisão, pessoa que deve guardar segredo em razão de profissão é crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 15.",
+"x": "Sigilo profissional.",
+"e": "Caput"
+},
+{
+"p": "Submeter vítima de infração penal a procedimentos desnecessários e repetitivos que a levem a reviver a violência configura violência institucional.",
+"c": true,
+"prof": "Art. 15-A.",
+"x": "Lei 14.321/2022.",
+"e": "Revitimização"
+},
+{
+"p": "No crime de violência institucional, se o próprio agente público intimidar a vítima, a pena é aplicada em dobro.",
+"c": true,
+"prof": "Art. 15-A.",
+"x": "§ 2º.",
+"e": "Dobro"
+},
+{
+"p": "Deixar de identificar-se ao preso por ocasião de sua captura é crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 16.",
+"x": "CF, art. 5º, LXIV.",
+"e": "Identificação"
+},
+{
+"p": "É crime submeter preso capturado em flagrante a interrogatório policial durante o repouso noturno.",
+"c": false,
+"prof": "Art. 18.",
+"x": "Flagrante é exceção.",
+"e": "Repouso noturno"
+},
+{
+"p": "Não configura o crime do art. 18 o interrogatório noturno de preso que, devidamente assistido, consente em prestar declarações.",
+"c": true,
+"prof": "Art. 18.",
+"x": "Exceção.",
+"e": "Consentimento"
+},
+{
+"p": "Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado é crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 20.",
+"x": "Caput.",
+"e": "Advogado"
+},
+{
+"p": "Manter na mesma cela presos de ambos os sexos configura crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 21.",
+"x": "Caput.",
+"e": "Separação"
+},
+{
+"p": "Cumprir mandado de busca e apreensão domiciliar após as 21h ou antes das 5h configura crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 22.",
+"x": "§ 1º, III.",
+"e": "Horário"
+},
+{
+"p": "É crime o ingresso em domicílio sem mandado para prestar socorro.",
+"c": false,
+"prof": "Art. 22.",
+"x": "§ 2º.",
+"e": "Excludente"
+},
+{
+"p": "Não há crime de abuso de autoridade no ingresso em domicílio quando houver fundados indícios de situação de flagrante delito.",
+"c": true,
+"prof": "Art. 22.",
+"x": "§ 2º.",
+"e": "Flagrante"
+},
+{
+"p": "Coagir alguém, mediante grave ameaça, a franquear acesso ao imóvel configura crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 22.",
+"x": "§ 1º, I.",
+"e": "Coação"
+},
+{
+"p": "Inovar artificiosamente o estado de coisa, no curso de diligência, para responsabilizar criminalmente alguém configura crime da Lei 13.869.",
+"c": true,
+"prof": "Art. 23.",
+"x": "Kit flagrante.",
+"e": "Fraude"
+},
+{
+"p": "Constranger empregado de hospital a admitir para tratamento pessoa já morta, para alterar o local do crime, é crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 24.",
+"x": "Cadáver.",
+"e": "Local do crime"
+},
+{
+"p": "Fazer uso de prova em desfavor do investigado com prévio conhecimento de sua ilicitude é crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 25.",
+"x": "Parágrafo único.",
+"e": "Prova ilícita"
+},
+{
+"p": "A instauração de sindicância devidamente justificada, sem indícios suficientes, configura o crime do art. 27.",
+"c": false,
+"prof": "Art. 27.",
+"x": "Parágrafo único.",
+"e": "Sindicância"
+},
+{
+"p": "Divulgar gravação sem relação com a prova, expondo a intimidade do investigado, é crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 28.",
+"x": "Vazamento.",
+"e": "Intimidade"
+},
+{
+"p": "Dar início à persecução penal contra quem sabe inocente configura abuso de autoridade.",
+"c": true,
+"prof": "Art. 30.",
+"x": "Veto derrubado.",
+"e": "Inocente"
+},
+{
+"p": "Negar ao advogado acesso aos autos de inquérito já documentados configura crime, ressalvadas as diligências em curso cujo sigilo seja imprescindível.",
+"c": true,
+"prof": "Art. 32.",
+"x": "SV 14.",
+"e": "Acesso"
+},
+{
+"p": "Invocar a condição de agente público para se eximir de obrigação legal configura crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 33.",
+"x": "Carteirada.",
+"e": "Parágrafo único"
+},
+{
+"p": "Antecipar, por meio de rede social, atribuição de culpa antes de concluídas as apurações e formalizada a acusação é crime de abuso de autoridade.",
+"c": true,
+"prof": "Art. 38.",
+"x": "Veto derrubado.",
+"e": "Rede social"
+},
+{
+"p": "O art. 150, § 2º, do Código Penal continua a punir a violação de domicílio praticada por funcionário público.",
+"c": false,
+"prof": "Revogação.",
+"x": "Art. 44 da Lei 13.869.",
+"e": "Revogado"
+},
+{
+"p": "A Lei 13.869/2019 revogou o art. 350 do Código Penal.",
+"c": true,
+"prof": "Revogação.",
+"x": "Exercício arbitrário.",
+"e": "Revogado"
+},
+{
+"p": "A tortura de preso para obter confissão configura apenas o crime de abuso de autoridade do art. 13, III.",
+"c": false,
+"prof": "Conflito.",
+"x": "Lei 9.455/1997.",
+"e": "Tortura"
+},
+{
+"p": "Os crimes de abuso de autoridade com pena máxima de 2 anos são infrações de menor potencial ofensivo.",
+"c": true,
+"prof": "Procedimento.",
+"x": "Lei 9.099/1995.",
+"e": "JECrim"
+},
+{
+"p": "Segundo a Lei 13.869/2019, as condutas nela descritas constituem crime quando praticadas",
+"alts": [
+"com dolo genérico",
+"com culpa grave",
+"com a finalidade específica de prejudicar outrem, beneficiar a si ou a terceiro, ou por mero capricho ou satisfação pessoal",
+"com qualquer ilegalidade, ainda que de boa-fé",
+"apenas por magistrados"
+],
+"r": 2,
+"x": "Art. 1º, § 1º.",
+"n": [
+"Exige dolo específico.",
+"Não há culpa.",
+"Correta.",
+"Boa-fé afasta.",
+"Qualquer agente público."
+],
+"e": "Dolo específico."
+},
+{
+"p": "Sobre os efeitos da condenação por abuso de autoridade, é correto afirmar:",
+"alts": [
+"a perda do cargo é automática",
+"a inabilitação é de 2 a 8 anos",
+"a inabilitação e a perda do cargo dependem de reincidência em abuso de autoridade e de declaração motivada",
+"a obrigação de indenizar depende de reincidência",
+"não há efeitos extrapenais"
+],
+"r": 2,
+"x": "Art. 4º, parágrafo único.",
+"n": [
+"Não é automática.",
+"São 1 a 5 anos.",
+"Correta.",
+"É automática.",
+"Há."
+],
+"e": "Efeitos."
+},
+{
+"p": "Pedro, delegado, foi informado de que um preso decidiu permanecer em silêncio, mas continuou a interrogá-lo por uma hora, para pressioná-lo a confessar. Em tese, Pedro",
+"alts": [
+"não cometeu crime, pois o interrogatório é ato da autoridade",
+"praticou o crime do art. 15, parágrafo único, da Lei 13.869/2019",
+"praticou tortura",
+"praticou prevaricação",
+"praticou o crime do art. 18"
+],
+"r": 1,
+"x": "Prosseguir interrogatório após silêncio.",
+"n": [
+"É crime.",
+"Correta.",
+"Não houve sofrimento físico ou mental intenso.",
+"Não se trata de interesse pessoal.",
+"Não é interrogatório noturno."
+],
+"e": "Silêncio."
+},
+{
+"p": "Cumprir mandado de busca e apreensão domiciliar configura crime de abuso de autoridade quando realizado",
+"alts": [
+"entre 6h e 18h",
+"após as 18h",
+"após as 21h ou antes das 5h",
+"em qualquer horário noturno, inclusive às 20h",
+"aos domingos"
+],
+"r": 2,
+"x": "Art. 22, § 1º, III.",
+"n": [
+"Horário lícito.",
+"Não.",
+"Correta.",
+"20h é permitido.",
+"Não há vedação."
+],
+"e": "Horário."
+},
+{
+"p": "Assinale a hipótese em que NÃO há crime de abuso de autoridade no ingresso em domicílio sem mandado.",
+"alts": [
+"para procurar provas de crime sem qualquer indício",
+"para prestar socorro a morador que pede ajuda",
+"para intimidar um desafeto",
+"por capricho, após denúncia anônima isolada",
+"para cumprir mandado vencido"
+],
+"r": 1,
+"x": "Art. 22, § 2º.",
+"n": [
+"Sem indício, pode ser crime.",
+"Correta.",
+"Finalidade de prejudicar.",
+"Capricho.",
+"Fora das condições legais."
+],
+"e": "Excludente."
+},
+{
+"p": "É crime previsto na Lei 13.869/2019, com redação dada pela Lei 14.321/2022:",
+"alts": [
+"carteirada",
+"violência institucional contra vítima ou testemunha",
+"uso de algemas",
+"desfile do preso",
+"condução coercitiva"
+],
+"r": 1,
+"x": "Art. 15-A.",
+"n": [
+"Art. 33, original.",
+"Correta.",
+"Vetado.",
+"Art. 13, original.",
+"Art. 10, original."
+],
+"e": "Violência institucional."
+},
+{
+"p": "Quanto à ação penal nos crimes de abuso de autoridade, é correto afirmar que",
+"alts": [
+"é privada",
+"é pública condicionada à representação",
+"é pública incondicionada, admitida a ação privada subsidiária",
+"é pública condicionada à requisição do Ministro da Justiça",
+"depende de autorização do órgão a que pertence o agente"
+],
+"r": 2,
+"x": "Art. 3º.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Ação penal."
+},
+{
+"p": "A Lei 13.869/2019 revogou expressamente, no Código Penal,",
+"alts": [
+"o crime de prevaricação",
+"o crime de concussão",
+"o art. 150, § 2º (violação de domicílio por funcionário) e o art. 350 (exercício arbitrário ou abuso de poder)",
+"o crime de tortura",
+"o crime de denunciação caluniosa"
+],
+"r": 2,
+"x": "Art. 44.",
+"n": [
+"Em vigor.",
+"Em vigor.",
+"Correta.",
+"Tortura está na Lei 9.455.",
+"Em vigor."
+],
+"e": "Revogações."
+},
+{
+"p": "Após a Lei 13.869/2019, decorrido o prazo da prisão temporária, o responsável pela custódia deve",
+"alts": [
+"aguardar o alvará de soltura",
+"consultar o MP",
+"colocar o preso imediatamente em liberdade, salvo prorrogação comunicada ou preventiva decretada",
+"manter o preso por mais 24 horas",
+"apresentar o preso ao juiz"
+],
+"r": 2,
+"x": "Lei 7.960, art. 2º, § 7º.",
+"n": [
+"Não precisa de nova ordem.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Temporária."
+},
+{
+"p": "Um servidor mostra sua identidade funcional para não pagar o estacionamento de um shopping. Em tese, ele pratica",
+"alts": [
+"corrupção passiva",
+"concussão",
+"o crime do art. 33, parágrafo único, da Lei 13.869/2019",
+"peculato",
+"fato atípico"
+],
+"r": 2,
+"x": "Carteirada.",
+"n": [
+"Não solicitou vantagem a terceiro em razão da função.",
+"Não exigiu vantagem.",
+"Correta.",
+"Não se apropriou.",
+"É crime."
+],
+"e": "Carteirada."
+},
+{
+"p": "Acerca do acesso do advogado aos autos do inquérito, conforme a Lei 13.869/2019 e a SV 14, é correto afirmar:",
+"alts": [
+"o acesso pode ser negado sempre que o delegado entender conveniente",
+"é crime negar acesso aos elementos já documentados, ressalvadas diligências em curso cujo sigilo seja imprescindível",
+"o advogado só tem acesso após o relatório final",
+"o acesso depende de autorização judicial",
+"o acesso inclui diligências ainda não realizadas"
+],
+"r": 1,
+"x": "Art. 32.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Diligências futuras podem ser sigilosas."
+],
+"e": "Acesso aos autos."
+},
+{
+"p": "Sobre o interrogatório policial durante o repouso noturno (art. 18), é correto afirmar que",
+"alts": [
+"é sempre crime",
+"não é crime se o preso foi capturado em flagrante ou se, assistido, consentir",
+"é permitido apenas com autorização judicial",
+"é permitido apenas em crimes hediondos",
+"só é crime se houver violência"
+],
+"r": 1,
+"x": "Art. 18.",
+"n": [
+"Há exceções.",
+"Correta.",
+"Não.",
+"Não.",
+"Não exige violência."
+],
+"e": "Interrogatório noturno."
+},
+{
+"p": "Quanto ao sujeito ativo dos crimes de abuso de autoridade, é correto afirmar:",
+"alts": [
+"só servidores efetivos",
+"só policiais",
+"qualquer agente público, ainda que transitoriamente ou sem remuneração",
+"só autoridades com poder de decisão",
+"apenas membros do Executivo"
+],
+"r": 2,
+"x": "Art. 2º.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Inclui todos os Poderes."
+],
+"e": "Sujeito ativo."
+},
+{
+"p": "Policiais, por desavença pessoal, colocam droga no bolso de um abordado para justificar sua prisão. A conduta configura, em tese,",
+"alts": [
+"apenas tráfico de drogas",
+"fato atípico",
+"o crime do art. 23 da Lei 13.869/2019 (inovação artificiosa), sem prejuízo de outros crimes",
+"apenas falta disciplinar",
+"o crime do art. 38"
+],
+"r": 2,
+"x": "Kit flagrante.",
+"n": [
+"Os policiais não traficaram.",
+"É crime.",
+"Correta.",
+"Também crime.",
+"Não houve atribuição pública de culpa."
+],
+"e": "Fraude."
+},
+{
+"p": "Assinale o dispositivo que foi VETADO e não constitui crime da Lei 13.869/2019.",
+"alts": [
+"art. 13 (exposição do preso)",
+"art. 22 (domicílio)",
+"art. 17 (uso abusivo de algemas)",
+"art. 38 (antecipar culpa)",
+"art. 9º (prisão ilegal)"
+],
+"r": 2,
+"x": "Vetos mantidos.",
+"n": [
+"Em vigor.",
+"Em vigor.",
+"Correta.",
+"Veto derrubado.",
+"Veto derrubado."
+],
+"e": "Vetos."
+},
+{
+"p": "Policial militar que, em serviço, comete crime previsto na Lei de Abuso de Autoridade é julgado, em regra,",
+"alts": [
+"pela Justiça Federal",
+"pelo Tribunal do Júri",
+"pela Justiça Militar, após a Lei 13.491/2017",
+"pelo Juizado Especial Criminal comum",
+"pelo STJ"
+],
+"r": 2,
+"x": "CPM, art. 9º, II.",
+"n": [
+"Não.",
+"Só crimes dolosos contra a vida de civil.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Competência."
+},
+{
+"p": "Sobre o crime de violência institucional (art. 15-A), é correto afirmar:",
+"alts": [
+"tem pena de reclusão de 2 a 8 anos",
+"só protege crianças",
+"a pena aumenta de 2/3 se o agente permitir que terceiro intimide a vítima",
+"não admite aumento de pena",
+"só se aplica a juízes"
+],
+"r": 2,
+"x": "§ 1º.",
+"n": [
+"Detenção de 3 meses a 1 ano.",
+"Vítimas e testemunhas em geral.",
+"Correta.",
+"Há aumentos.",
+"Qualquer agente público."
+],
+"e": "Art. 15-A."
+},
+{
+"p": "O delegado que, por meio de entrevista coletiva, afirma que determinado investigado \"é o culpado\", antes da conclusão do inquérito e da denúncia, pratica, em tese,",
+"alts": [
+"fato atípico, por liberdade de expressão",
+"difamação apenas",
+"o crime do art. 38 da Lei 13.869/2019",
+"o crime do art. 28",
+"prevaricação"
+],
+"r": 2,
+"x": "Antecipar atribuição de culpa.",
+"n": [
+"É crime.",
+"A lei especial prevê.",
+"Correta.",
+"Art. 28 trata de gravação.",
+"Não."
+],
+"e": "Art. 38."
+},
+{
+"p": "A antiga Súmula 172 do STJ (competência da Justiça Comum para julgar militar por abuso de autoridade em serviço)",
+"alts": [
+"continua plenamente aplicável",
+"foi convertida em súmula vinculante",
+"perdeu aplicabilidade após a Lei 13.491/2017",
+"aplica-se apenas a militares federais",
+"aplica-se apenas a crimes dolosos contra a vida"
+],
+"r": 2,
+"x": "Ampliação do crime militar.",
+"n": [
+"Superada.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Súmula 172."
+},
+{
+"p": "Constitui pena restritiva de direitos substitutiva prevista na Lei 13.869/2019:",
+"alts": [
+"perda do cargo",
+"suspensão do exercício do cargo por 1 a 6 meses, com perda dos vencimentos",
+"demissão a bem do serviço público",
+"cassação da aposentadoria",
+"proibição de contratar com o poder público por 10 anos"
+],
+"r": 1,
+"x": "Art. 5º.",
+"n": [
+"É efeito da condenação.",
+"Correta.",
+"Sanção administrativa.",
+"Sanção administrativa.",
+"Não prevista."
+],
+"e": "Restritivas."
+},
 {
 "p": "Os crimes de abuso de autoridade exigem que o agente atue com a finalidade específica de prejudicar outrem, de beneficiar a si mesmo ou a terceiro, ou por mero capricho ou satisfação pessoal.",
 "c": true,
@@ -17184,11 +18620,716 @@ export const PROFUNDO = {
 "x": "A SV 14 assegura ao defensor acesso aos elementos já documentados. A interceptação em andamento pode ser preservada. Negar acesso injustificadamente aos autos pode configurar o crime do art. 32.",
 "e": "SV 14."
 }
-]
+],
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>finalidades específicas que caracterizam o abuso (prejudicar, beneficiar, capricho)</span></div><div class=\"lt-stat\"><b>21h às 5h</b><span>horário em que é crime cumprir mandado de busca domiciliar (art. 22, § 1º, III)</span></div><div class=\"lt-stat\"><b>1 a 5</b><span>anos de inabilitação para cargo (efeito da condenação)</span></div><div class=\"lt-stat\"><b>Incondicionada</b><span>natureza da ação penal</span></div></div>\n<h3>1. Estrutura da Lei 13.869/2019</h3>\n<ul><li><b>Sujeito ativo</b>: <b>agente público</b>, servidor ou não, da administração direta ou indireta de qualquer Poder, inclusive quem exerce função <b>transitória e sem remuneração</b> (art. 2º).</li><li><b>Dolo específico</b> (art. 1º, § 1º): só há crime se o agente agir com a <b>finalidade de prejudicar outrem</b>, de <b>beneficiar a si mesmo ou a terceiro</b>, ou por <b>mero capricho ou satisfação pessoal</b>.</li><li><b>Divergência</b> na interpretação da lei ou na avaliação de fatos e provas <b>não configura abuso</b> (art. 1º, § 2º): é a vedação ao \"crime de hermenêutica\".</li><li><b>Ação penal pública incondicionada</b>, admitida a <b>ação privada subsidiária</b> se o MP não agir no prazo (art. 3º).</li><li><b>Efeitos da condenação</b> (art. 4º): indenizar o dano (automático, mas o juiz fixa o mínimo a requerimento); <b>inabilitação</b> para cargo por <b>1 a 5 anos</b> e <b>perda do cargo</b> só na <b>reincidência</b> em crime de abuso e <b>por decisão motivada</b> (não automáticos).</li></ul>\n<h3>2. Crimes mais cobrados de polícia</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Conduta (resumo)</th></tr></thead><tbody><tr><td>9º</td><td>decretar prisão em desconformidade com a lei; deixar o juiz de relaxar prisão ilegal etc.</td></tr><tr><td>10</td><td><b>condução coercitiva</b> de testemunha ou investigado <b>manifestamente descabida</b> ou <b>sem prévia intimação</b> de comparecimento</td></tr><tr><td>12</td><td>deixar <b>injustificadamente</b> de comunicar prisão em flagrante ao juiz no prazo legal, ou de entregar a nota de culpa em 24 h</td></tr><tr><td><b>13</b></td><td>constranger o preso, com violência, grave ameaça ou redução da capacidade de resistência, a <b>exibir-se</b> à curiosidade pública, a submeter-se a situação <b>vexatória</b> ou a <b>produzir prova contra si</b></td></tr><tr><td><b>15</b></td><td>constranger a depor quem deve guardar segredo; <b>prosseguir o interrogatório</b> de quem decidiu <b>ficar calado</b> ou que pediu <b>advogado</b> (sem que ele esteja presente)</td></tr><tr><td>16</td><td>deixar de <b>identificar-se</b> ao preso ou identificar-se falsamente</td></tr><tr><td><b>18</b></td><td>submeter o preso a <b>interrogatório durante o repouso noturno</b>, salvo flagrante ou se ele, assistido, consentir</td></tr><tr><td><b>22</b></td><td><b>invadir</b> ou permanecer em imóvel alheio sem autorização judicial ou fora das hipóteses legais; § 1º, III: cumprir <b>mandado de busca domiciliar após as 21h ou antes das 5h</b></td></tr><tr><td>24</td><td>constranger hospital a admitir pessoa <b>já morta</b> para alterar o local ou o momento do crime</td></tr><tr><td><b>25</b></td><td>obter prova por <b>meio manifestamente ilícito</b> ou usá-la sabendo de sua ilicitude</td></tr><tr><td>27</td><td>instaurar procedimento investigatório <b>sem qualquer indício</b> (salvo sindicância ou investigação preliminar sumária justificada)</td></tr><tr><td>28</td><td><b>divulgar gravação</b> sem relação com a prova, expondo a intimidade do investigado</td></tr><tr><td>30</td><td>iniciar persecução <b>sem justa causa</b> ou contra quem sabe inocente</td></tr><tr><td>31</td><td>estender <b>injustificadamente</b> a investigação, em prejuízo do investigado</td></tr><tr><td><b>32</b></td><td><b>negar ao defensor acesso aos autos</b> de investigação já documentados (SV 14)</td></tr><tr><td><b>38</b></td><td><b>antecipar</b>, por meio de comunicação (inclusive rede social), <b>atribuição de culpa</b> antes de concluídas as apurações e formalizada a acusação</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> A lei <b>não</b> criminaliza o uso de <b>algemas</b> (o artigo foi vetado). O tema segue regido pela <b>Súmula Vinculante 11</b>: algemas só em caso de resistência, receio de fuga ou perigo, com <b>justificativa por escrito</b>.</div>\n<div class=\"lt-pare\"></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 14</b><p class=\"jc-tese\">É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.</p><p class=\"jc-com\">Diligências <b>em andamento</b> (como interceptação em curso) podem ser preservadas; o que já está <b>documentado</b> deve ser franqueado. Negar acesso injustificadamente é crime do art. 32.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · dolo específico</b><p class=\"jc-tese\">Sem a finalidade especial do art. 1º, § 1º (prejudicar, beneficiar ou capricho), não há crime de abuso, ainda que a decisão do agente seja reformada depois.</p><p class=\"jc-com\">A banca costuma descrever uma conduta ilegal mas de boa-fé (erro de interpretação, decisão revista pelo juiz) e perguntar se é abuso. A resposta é não.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo erro de interpretação da lei é abuso de autoridade</span><br>✅ <span class=\"certo\">Divergência na interpretação ou na avaliação de provas NÃO configura abuso.</span></li><li>❌ <span class=\"banca\">A perda do cargo é efeito automático</span><br>✅ <span class=\"certo\">Exige reincidência em abuso e decisão motivada.</span></li><li>❌ <span class=\"banca\">A ação penal é condicionada à representação da vítima</span><br>✅ <span class=\"certo\">É pública incondicionada, com ação privada subsidiária.</span></li><li>❌ <span class=\"banca\">Cumprir mandado de busca às 20h é crime</span><br>✅ <span class=\"certo\">O crime é após as 21h ou antes das 5h.</span></li><li>❌ <span class=\"banca\">Usar algemas sem justificativa é crime da Lei 13.869</span><br>✅ <span class=\"certo\">O artigo foi vetado; aplica-se a SV 11.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dolo específico do abuso?</span></span><span class=\"vs\"><span><b>Prejudicar</b> outrem, <b>beneficiar</b> a si/terceiro, ou <b>capricho/satisfação pessoal</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação penal?</span></span><span class=\"vs\"><span><b>Pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perda do cargo?</span></span><span class=\"vs\"><span>Só na <b>reincidência</b>, com decisão <b>motivada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mandado de busca à noite?</span></span><span class=\"vs\"><span>Crime <b>após 21h ou antes das 5h</b> (art. 22).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Interrogatório noturno?</span></span><span class=\"vs\"><span>Crime, salvo <b>flagrante</b> ou consentimento do preso assistido (art. 18).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Antecipar culpa em rede social?</span></span><span class=\"vs\"><span><b>Art. 38</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A entrevista após a prisão</b><p>Logo após prender um suspeito de homicídio, o Delegado dá entrevista ao vivo dizendo \"este é o assassino, caso encerrado\", antes de concluir o inquérito.</p><details><summary>Ver a solução comentada</summary><p>A conduta pode configurar o <b>art. 38</b> (antecipar atribuição de culpa antes de concluídas as apurações e formalizada a acusação), desde que presente a finalidade específica do art. 1º, § 1º. A divulgação institucional deve ser <b>objetiva</b>, sem juízo de culpa.</p></details></div>"
 },
 "maria-penha": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>formas de violência (física, psicológica, sexual, patrimonial e moral)</span></div><div class=\"lt-stat\"><b>48 h</b><span>para remeter ao juiz o pedido de medidas protetivas</span></div><div class=\"lt-stat\"><b>24 h</b><span>para comunicar ao juiz o afastamento do lar feito pelo Delegado ou policial</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão por descumprir medida protetiva (art. 24-A)</span></div></div>\n<h3>1. Quando se aplica</h3>\n<ul><li><b>Violência doméstica e familiar contra a mulher</b>: ação ou omissão <b>baseada no gênero</b> que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial (art. 5º), no âmbito: (I) da <b>unidade doméstica</b> (inclusive pessoas esporadicamente agregadas); (II) da <b>família</b>; (III) de <b>relação íntima de afeto</b>, <b>independentemente de coabitação</b>.</li><li>O <b>sujeito ativo</b> pode ser homem ou <b>mulher</b> (ex.: relação homoafetiva, mãe e filha). A vítima é <b>mulher</b>, inclusive <b>mulher trans</b> (STJ, REsp 1.977.124).</li><li>As relações independem de <b>orientação sexual</b> (art. 5º, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma (art. 7º)</th><th>Exemplos</th></tr></thead><tbody><tr><td>Física</td><td>agressões, empurrões, lesões</td></tr><tr><td><b>Psicológica</b></td><td>ameaça, humilhação, <b>controle</b>, vigilância, isolamento, manipulação</td></tr><tr><td>Sexual</td><td>forçar relação, impedir uso de contraceptivo, forçar aborto ou prostituição</td></tr><tr><td><b>Patrimonial</b></td><td>reter, subtrair ou <b>destruir</b> objetos, documentos, instrumentos de trabalho</td></tr><tr><td><b>Moral</b></td><td><b>calúnia, difamação ou injúria</b></td></tr></tbody></table>\n<h3>2. A atuação da polícia (arts. 10 a 12-C)</h3>\n<ul><li>Atendimento policial e pericial <b>especializado</b>, ininterrupto, preferencialmente por <b>servidoras do sexo feminino</b>, evitando a <b>revitimização</b> (perguntas repetidas e contato com o agressor).</li><li>A autoridade policial deve: registrar a ocorrência e ouvir a vítima; colher provas; <b>remeter ao juiz, em 48 horas</b>, o pedido de <b>medidas protetivas</b>; determinar exames periciais; ouvir o agressor; verificar se ele tem <b>arma</b> e comunicar o órgão competente; remeter o inquérito.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 12-C (afastamento do lar pela polícia)</div><div class=\"art-lei\">Verificado risco atual ou iminente à vida ou à integridade da mulher, o agressor será imediatamente afastado do lar: I – pela autoridade judicial; II – pelo Delegado de Polícia, quando o Município não for sede de comarca; III – pelo policial, quando o Município não for sede de comarca e não houver Delegado disponível no momento da denúncia.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>É uma das poucas medidas que a <b>polícia</b> aplica diretamente.</li><li>A ordem é <b>escalonada</b>: juiz → Delegado (sem comarca) → policial (sem comarca e sem Delegado).</li><li>O juiz deve ser comunicado em <b>24 horas</b> e decide sobre a manutenção.</li><li>Nesses casos, <b>não se concede liberdade provisória</b> ao preso enquanto houver risco à vítima ou à efetividade da medida.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que o Delegado pode afastar o agressor em qualquer município.</li><li>Dizer que o policial pode afastar mesmo havendo Delegado disponível.</li></ul></div></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Medidas protetivas e consequências penais</h3>\n<ul><li><b>Providências imediatas da polícia</b> (art. 11): garantir <b>proteção policial</b>, comunicando de imediato o MP e o Judiciário; <b>encaminhar</b> a ofendida ao hospital, posto de saúde e IML; fornecer <b>transporte</b> para ela e os dependentes até <b>abrigo</b> ou local seguro, quando houver risco de vida; <b>acompanhá-la</b> para retirar seus pertences do domicílio; <b>informá-la</b> dos seus direitos. A ofendida <b>não pode entregar</b> intimação ou notificação ao agressor (art. 21, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Medidas que obrigam o agressor (art. 22)</th><th>Medidas em favor da ofendida (arts. 23 e 24)</th></tr></thead><tbody><tr><td><b>suspensão da posse ou restrição do porte</b> de armas</td><td>encaminhamento a programa de <b>proteção</b> ou de atendimento</td></tr><tr><td><b>afastamento do lar</b></td><td><b>recondução</b> ao domicílio após o afastamento do agressor</td></tr><tr><td><b>proibição de aproximação</b> da ofendida, familiares e testemunhas, <b>fixando o limite mínimo de distância</b></td><td>afastamento da ofendida do lar, sem prejuízo de seus direitos</td></tr><tr><td>proibição de <b>contato</b> por qualquer meio de comunicação</td><td>matrícula dos dependentes em escola próxima</td></tr><tr><td>proibição de <b>frequentar</b> determinados lugares</td><td><b>restituição de bens</b> indevidamente subtraídos pelo agressor</td></tr><tr><td>restrição ou suspensão de <b>visitas</b> aos dependentes</td><td>proibição temporária de atos e contratos de compra, venda e locação de bens comuns</td></tr><tr><td><b>alimentos</b> provisionais; comparecimento a programas de <b>recuperação</b>; acompanhamento psicossocial</td><td>prestação de <b>caução</b> provisória por perdas e danos</td></tr></tbody></table>\n<ul><li><b>Juizados de Violência Doméstica e Familiar contra a Mulher</b> (art. 14): órgãos da Justiça Ordinária com competência <b>cível e criminal</b>, para processar, julgar e executar as causas decorrentes desses casos. Enquanto não instalados, as varas criminais acumulam essa competência (art. 33).</li><li><b>Prisão preventiva</b> (art. 20): cabe <b>em qualquer fase</b> do inquérito ou da instrução, a requerimento do MP ou mediante <b>representação da autoridade policial</b> (após o Pacote Anticrime, o juiz não a decreta de ofício). O descumprimento de medida protetiva também autoriza a preventiva (CPP, art. 313, III).</li><li>As medidas são concedidas pelo <b>juiz</b> em <b>48 horas</b>, a pedido da vítima ou do MP, e <b>independem</b> de tipificação penal, de ajuizamento de ação, de inquérito ou de registro de ocorrência (art. 19, § 5º, Lei 14.550/2023). Vigoram <b>enquanto houver risco</b>.</li><li><b>Descumprir medida protetiva</b> (art. 24-A): <b>reclusão de 2 a 5 anos</b> (Lei 14.994/2024). Na prisão em flagrante, <b>só o juiz</b> concede fiança.</li><li><b>Não se aplica a Lei 9.099</b> (art. 41): sem transação penal nem suspensão condicional do processo (Súmula 536 STJ).</li><li><b>Lesão corporal</b> (mesmo leve) contra a mulher em contexto doméstico: <b>ação penal pública incondicionada</b> (Súmula 542 STJ e ADI 4.424). Já a <b>ameaça</b> depende de representação, e a <b>renúncia</b> só vale perante o <b>juiz</b>, em audiência, antes do recebimento da denúncia (art. 16).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 600</b><p class=\"jc-tese\">Para a configuração da violência doméstica e familiar prevista no art. 5º da Lei 11.340/2006, não se exige a coabitação entre autor e vítima.</p><p class=\"jc-com\">Ex-namorado que agride a ex-companheira por inconformismo com o fim da relação está alcançado pela lei.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmulas 588 e 589</b><p class=\"jc-tese\">É inviável a substituição da pena privativa de liberdade por restritiva de direitos em crimes ou contravenções com violência ou grave ameaça contra a mulher no ambiente doméstico (588); e é inaplicável o princípio da insignificância nesses crimes (589).</p><p class=\"jc-com\">Também é vedada a aplicação isolada de pena de cesta básica ou prestação pecuniária (art. 17 da Lei).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A lei só se aplica se o casal morar junto</span><br>✅ <span class=\"certo\">Independe de coabitação (Súmula 600).</span></li><li>❌ <span class=\"banca\">O agressor precisa ser homem</span><br>✅ <span class=\"certo\">Sujeito ativo pode ser mulher; a vítima é mulher.</span></li><li>❌ <span class=\"banca\">Lesão leve contra a mulher depende de representação</span><br>✅ <span class=\"certo\">Ação pública incondicionada (Súmula 542).</span></li><li>❌ <span class=\"banca\">Cabe transação penal em violência doméstica</span><br>✅ <span class=\"certo\">A Lei 9.099 não se aplica (art. 41; Súmula 536).</span></li><li>❌ <span class=\"banca\">Medida protetiva exige boletim de ocorrência</span><br>✅ <span class=\"certo\">Independe de BO, inquérito ou ação (art. 19, § 5º).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Formas de violência?</span></span><span class=\"vs\"><span><b>Física, psicológica, sexual, patrimonial e moral</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo para remeter pedido de medida protetiva?</span></span><span class=\"vs\"><span><b>48 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento do lar pela polícia?</span></span><span class=\"vs\"><span><b>Delegado</b> (município sem comarca) ou <b>policial</b> (sem comarca e sem Delegado); juiz comunicado em <b>24 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Descumprir medida protetiva?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 5 anos</b>; fiança só pelo <b>juiz</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão leve doméstica?</span></span><span class=\"vs\"><span>Ação <b>pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 9.099?</span></span><span class=\"vs\"><span><b>Não se aplica</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A cidade sem comarca</b><p>Em um pequeno município mineiro que não é sede de comarca, a vítima chega à delegacia relatando que o marido ameaça matá-la com uma faca. O Delegado está presente.</p><details><summary>Ver a solução comentada</summary><p>Havendo risco atual ou iminente, o <b>Delegado</b> pode determinar o <b>afastamento imediato do agressor do lar</b> (art. 12-C, II), comunicando o juiz em <b>24 horas</b>. Deve ainda remeter o pedido de outras medidas protetivas em 48 horas, verificar se o agressor tem arma e registrar a ameaça (que depende de representação; a renúncia só perante o juiz).</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>6</b><span>formas de violência doméstica e familiar contra a mulher desde 2026: física, psicológica, sexual, patrimonial, moral e vicária (art. 7º)</span></div><div class=\"lt-stat\"><b>48 h</b><span>prazo para o delegado remeter o pedido de medida protetiva ao juiz e para o juiz decidir (arts. 12, III, e 18)</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão: descumprimento de medida protetiva (art. 24-A, Lei 14.994/2024)</span></div><div class=\"lt-stat\"><b>12 meses</b><span>prazo de decadência para representação ou queixa nos crimes de violência doméstica contra a mulher (Lei 15.438/2026)</span></div></div>\n<h3>1. Origem, finalidade e o caso Maria da Penha</h3>\n<ul><li>A <b>Lei 11.340, de 7 de agosto de 2006</b>, cria mecanismos para <b>coibir e prevenir</b> a violência doméstica e familiar contra a mulher, nos termos do <b>art. 226, § 8º</b>, da Constituição (\"o Estado assegurará a assistência à família na pessoa de cada um dos que a integram, criando mecanismos para coibir a violência no âmbito de suas relações\"), da <b>Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres</b> (CEDAW) e da <b>Convenção de Belém do Pará</b> (Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher).</li><li>O nome homenageia <b>Maria da Penha Maia Fernandes</b>, farmacêutica cearense que ficou paraplégica após tentativa de homicídio praticada pelo então marido em 1983. Diante da demora da Justiça brasileira, o caso foi levado à <b>Comissão Interamericana de Direitos Humanos</b> (OEA), que, em <b>2001</b>, responsabilizou o Brasil por <b>negligência e omissão</b> e recomendou a adoção de medidas efetivas. A lei é, em grande parte, resposta a essa recomendação. Em 2025, a Lei 15.212 incluiu oficialmente o nome \"Lei Maria da Penha\" na ementa da norma.</li><li>A lei <b>não cria</b>, como regra, <b>novos crimes</b> (a exceção é o <b>art. 24-A</b>, descumprimento de medida protetiva). Ela cria um <b>microssistema</b> de proteção: define a violência doméstica, prevê medidas protetivas de urgência, organiza o atendimento policial, cria os Juizados de Violência Doméstica e Familiar contra a Mulher e afasta institutos despenalizadores da Lei 9.099/1995.</li><li>A lei já foi alterada <b>mais de 25 vezes</b>. Só em <b>2026</b>, vieram leis sobre audiência de retratação (Lei 15.380), <b>monitoração eletrônica</b> (Lei 15.383), <b>violência vicária</b> (Lei 15.384), ampliação do afastamento do agressor (Lei 15.411), força executiva das medidas cíveis (Lei 15.412), prazo de <b>12 meses</b> para representação (Lei 15.438) e comunicação de trabalho escravo doméstico (Lei 15.455).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADC 19 e ADI 4.424 (2012)</b><p class=\"jc-tese\">O STF declarou <b>constitucional</b> a Lei Maria da Penha (ADC 19), afastando a tese de violação à igualdade entre homens e mulheres, e deu interpretação conforme aos arts. 12, I, 16 e 41 para assentar que a ação penal nos crimes de <b>lesão corporal</b> praticados contra a mulher no ambiente doméstico é <b>pública incondicionada</b>, qualquer que seja a extensão da lesão (ADI 4.424).</p><p class=\"jc-com\">O tratamento diferenciado é uma <b>ação afirmativa</b> que busca a igualdade <b>material</b>, compensando a desigualdade histórica e a vulnerabilidade da mulher nas relações domésticas. A mesma lógica fundamenta a <b>Súmula 542 do STJ</b>: \"A ação penal relativa ao crime de lesão corporal resultante de violência doméstica contra a mulher é pública incondicionada.\"</p></div>\n<h3>2. Conceito de violência doméstica e familiar: art. 5º</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 11.340/2006, art. 5º</div><div class=\"art-lei\">Para os efeitos desta Lei, configura violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial: I, no âmbito da unidade doméstica, compreendida como o espaço de convívio permanente de pessoas, com ou sem vínculo familiar, inclusive as esporadicamente agregadas; II, no âmbito da família, compreendida como a comunidade formada por indivíduos que são ou se consideram aparentados, unidos por laços naturais, por afinidade ou por vontade expressa; III, em qualquer relação íntima de afeto, na qual o agressor conviva ou tenha convivido com a ofendida, independentemente de coabitação. Parágrafo único: as relações pessoais enunciadas neste artigo independem de orientação sexual.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Exige <b>três elementos</b>: (1) <b>vítima mulher</b>; (2) violência <b>baseada no gênero</b>; (3) um dos <b>âmbitos</b>: unidade doméstica, família ou relação íntima de afeto</li><li>Inciso I: inclui a <b>empregada doméstica</b> e pessoas <b>agregadas</b></li><li>Inciso II: parentesco natural, por afinidade ou por <b>vontade</b> (filhos de criação)</li><li>Inciso III: <b>namoro</b>, noivado, ex-companheiros, <b>sem coabitação</b></li><li>Parágrafo único: relações <b>homoafetivas</b> entre mulheres</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que exige coabitação</li><li>A banca diz que o agressor tem de ser homem</li></ul></div></div>\n<ul><li><b>Sujeito passivo</b>: sempre <b>mulher</b>. Inclui a <b>mulher trans</b>: o STJ (REsp 1.977.124, 2022) decidiu que a Lei Maria da Penha se aplica à violência contra mulher <b>transexual</b>, pois o que importa é a identidade de <b>gênero</b>, independentemente de cirurgia ou alteração do registro.</li><li><b>Sujeito ativo</b>: <b>homem ou mulher</b>. A lei protege a mulher; não exige que o agressor seja homem. A filha que agride a mãe idosa, a irmã que agride a irmã e a companheira que agride a companheira (relação homoafetiva) podem estar sujeitas à lei, <b>desde que</b> a violência seja <b>baseada no gênero</b> (em contexto de vulnerabilidade, dominação ou subordinação).</li><li><b>Violência baseada no gênero</b>: não basta que a vítima seja mulher e que o fato ocorra em casa. É preciso que a violência decorra da <b>condição</b> de mulher (relação de poder, submissão, vulnerabilidade). Parte da jurisprudência do STJ entende que, nas relações <b>íntimas</b> e <b>familiares</b>, essa motivação é <b>presumida</b>, cabendo demonstração em contrário. Brigas entre irmãos por herança, sem qualquer relação com o gênero, podem não atrair a lei.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 600</b><p class=\"jc-tese\">\"Para a configuração da violência doméstica e familiar prevista no art. 5º da Lei 11.340/2006 (Lei Maria da Penha), <b>não se exige a coabitação</b> entre autor e vítima.\"</p><p class=\"jc-com\">O inciso III fala expressamente em relação íntima de afeto \"independentemente de coabitação\". Por isso, ex-namorados, namorados que moram separados e ex-maridos que não vivem mais com a vítima estão abrangidos. O STJ também aplica a lei a violências praticadas <b>depois</b> do fim do relacionamento, se motivadas por ele (por exemplo, inconformismo com a separação).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Lei Maria da Penha só se aplica se agressor e vítima morarem juntos</span><br>✅ <span class=\"certo\">Súmula 600 do STJ: <b>não</b> exige coabitação</span></li><li>❌ <span class=\"banca\">A Lei Maria da Penha só se aplica a agressores homens</span><br>✅ <span class=\"certo\">O sujeito ativo pode ser <b>homem ou mulher</b></span></li><li>❌ <span class=\"banca\">A lei não protege a mulher trans</span><br>✅ <span class=\"certo\">STJ (REsp 1.977.124): <b>protege</b>, pois o critério é o gênero</span></li></ol></div>\n<h3>3. As seis formas de violência: art. 7º</h3>\n<table class=\"tab\"><thead><tr><th>Forma (art. 7º)</th><th>Conceito legal (síntese)</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>I, física</b></td><td>conduta que ofenda a <b>integridade ou saúde corporal</b></td><td>tapas, socos, empurrões, queimaduras, estrangulamento</td></tr><tr><td><b>II, psicológica</b></td><td>conduta que cause <b>dano emocional</b> e diminuição da autoestima, ou que prejudique e perturbe o pleno desenvolvimento, ou que vise a <b>degradar ou controlar</b> ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, vigilância constante, perseguição contumaz, insulto, chantagem, <b>violação de sua intimidade</b>, ridicularização, exploração e limitação do direito de ir e vir</td><td>proibir de trabalhar ou de ver a família, controlar o celular, monitorar a localização</td></tr><tr><td><b>III, sexual</b></td><td>constranger a <b>presenciar, manter ou participar</b> de relação sexual não desejada; induzir a comercializar ou usar a sexualidade; impedir de usar <b>método contraceptivo</b>; forçar matrimônio, gravidez, <b>aborto</b> ou prostituição</td><td>estupro marital, retirar o preservativo sem consentimento (\"stealthing\")</td></tr><tr><td><b>IV, patrimonial</b></td><td><b>retenção, subtração, destruição</b> parcial ou total de objetos, instrumentos de trabalho, documentos pessoais, bens, valores e direitos ou recursos econômicos</td><td>quebrar o celular, reter documentos, controlar todo o salário dela</td></tr><tr><td><b>V, moral</b></td><td><b>calúnia, difamação ou injúria</b></td><td>xingamentos, imputar falsamente traição ou crime</td></tr><tr><td><b>VI, vicária</b> (Lei 15.384/2026)</td><td>violência praticada contra <b>filhos, dependentes, parentes</b> ou pessoas da <b>rede de apoio</b> da mulher, com o fim de <b>atingi-la</b></td><td>agredir o filho para fazer a mãe sofrer; ameaçar os pais dela</td></tr></tbody></table>\n<ul><li>A lista do art. 7º é <b>exemplificativa</b> (\"entre outras\"). A violência <b>psicológica</b> foi ampliada pela Lei 13.772/2018, para incluir a <b>violação da intimidade</b> (por exemplo, divulgar fotos íntimas), e ganhou tipificação própria no <b>CP, art. 147-B</b> (Lei 14.188/2021).</li><li><b>Violência patrimonial e imunidades</b>: o art. 181 do CP prevê <b>isenção de pena</b> para crimes patrimoniais praticados contra o cônjuge, na constância da sociedade conjugal. A doutrina e parte da jurisprudência entendem que essa imunidade <b>não</b> se aplica quando houver violência doméstica, por ser incompatível com o art. 7º, IV, e com a Convenção de Belém do Pará; mas o tema ainda gera divergência, e o STJ já decidiu em ambos os sentidos. Lembre-se também de que o art. 183, I, do CP já exclui a imunidade nos crimes de roubo, extorsão e quando há <b>violência ou grave ameaça</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · violência vicária (Lei 15.384/2026)</b><p class=\"jc-tese\">A violência vicária é a que atinge a mulher <b>por meio de outra pessoa</b>: o agressor fere ou ameaça os filhos, os pais ou amigos dela para causar sofrimento, punição ou controle. A forma mais grave, o <b>homicídio</b> dessas pessoas com essa finalidade, passou a ser o crime autônomo de <b>vicaricídio</b> (CP, art. 121-B), <b>hediondo</b>, com pena de 20 a 40 anos.</p><p class=\"jc-com\">Para a atuação policial, a principal consequência é que as <b>medidas protetivas</b> podem ser requeridas e deferidas quando o agressor ataca ou ameaça os <b>filhos</b> ou a <b>rede de apoio</b> da mulher, e não apenas ela mesma. O registro da ocorrência deve descrever esse contexto.</p></div>\n<h3>4. Crimes do Código Penal ligados à violência contra a mulher</h3>\n<table class=\"tab\"><thead><tr><th>Crime</th><th>Dispositivo</th><th>Pena</th></tr></thead><tbody><tr><td><b>Feminicídio</b> (crime autônomo desde a Lei 14.994/2024)</td><td>CP, art. 121-A</td><td>reclusão de <b>20 a 40 anos</b>, hediondo</td></tr><tr><td><b>Vicaricídio</b></td><td>CP, art. 121-B (Lei 15.384/2026)</td><td>reclusão de <b>20 a 40 anos</b>, hediondo</td></tr><tr><td><b>Lesão corporal</b> contra a mulher por razões da condição do sexo feminino</td><td>CP, art. 129, § 13</td><td>reclusão de <b>2 a 5 anos</b> (Lei 14.994/2024)</td></tr><tr><td>Lesão corporal em violência doméstica (vítima homem ou mulher)</td><td>CP, art. 129, § 9º</td><td>detenção de 3 meses a 3 anos</td></tr><tr><td><b>Ameaça</b> contra a mulher por razões da condição do sexo feminino</td><td>CP, art. 147, § 1º</td><td>pena aplicada <b>em dobro</b>, ação pública <b>incondicionada</b> (§ 2º)</td></tr><tr><td><b>Perseguição</b> (stalking)</td><td>CP, art. 147-A</td><td>reclusão de 6 meses a 2 anos, aumentada de metade contra mulher por razões do sexo feminino</td></tr><tr><td><b>Violência psicológica</b> contra a mulher</td><td>CP, art. 147-B</td><td>reclusão de 6 meses a 2 anos, se a conduta não constitui crime mais grave</td></tr><tr><td><b>Descumprimento de medida protetiva</b></td><td>Lei 11.340, art. 24-A</td><td>reclusão de <b>2 a 5 anos</b> e multa</td></tr></tbody></table>\n<ul><li><b>Feminicídio</b> (art. 121-A): matar mulher por <b>razões da condição do sexo feminino</b>, que ocorrem quando o crime envolve (I) <b>violência doméstica e familiar</b> ou (II) <b>menosprezo ou discriminação</b> à condição de mulher. O feminicídio é qualificadora de natureza <b>objetiva</b>, segundo o STJ, por isso pode coexistir com o <b>motivo torpe</b> ou <b>fútil</b> (qualificadoras subjetivas). Com a Lei 14.994/2024, deixou de ser qualificadora e passou a ser <b>tipo autônomo</b>, com causas de aumento próprias (por exemplo, durante a gestação ou nos 3 meses posteriores ao parto, contra menor de 14 ou maior de 60 anos, na presença de descendente ou ascendente, em descumprimento de medida protetiva).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O feminicídio continua a ser qualificadora do homicídio</span><br>✅ <span class=\"certo\">Desde a Lei 14.994/2024 é crime <b>autônomo</b> (art. 121-A)</span></li><li>❌ <span class=\"banca\">O feminicídio é qualificadora subjetiva, incompatível com o motivo torpe</span><br>✅ <span class=\"certo\">O STJ o considera de natureza <b>objetiva</b>, compatível com o motivo torpe</span></li><li>❌ <span class=\"banca\">A ameaça contra a mulher por razões do sexo feminino depende de representação</span><br>✅ <span class=\"certo\">É ação pública <b>incondicionada</b> (art. 147, § 2º, Lei 14.994/2024)</span></li></ol></div>\n<h3>5. Atendimento pela autoridade policial: arts. 10 a 12-D</h3>\n<ul><li><b>Art. 10</b>: na hipótese da iminência ou da prática de violência doméstica, a autoridade policial que tomar conhecimento da ocorrência adotará, <b>de imediato</b>, as providências legais cabíveis. Aplica-se também ao <b>descumprimento</b> de medida protetiva deferida (parágrafo único).</li><li><b>Art. 10-A</b> (Lei 13.505/2017): é direito da mulher em situação de violência o atendimento policial e pericial <b>especializado</b>, ininterrupto e prestado por servidores, <b>preferencialmente do sexo feminino</b>, previamente capacitados. A inquirição deve observar: salvaguarda da integridade física, psíquica e emocional; garantia de que a mulher e seus familiares <b>não terão contato direto</b> com investigados ou suspeitos; <b>não revitimização</b>, evitando sucessivas inquirições sobre o mesmo fato e questionamentos sobre a vida privada. A inquirição será feita, preferencialmente, em recinto especialmente projetado, com equipamentos próprios, e poderá ser registrada em meio eletrônico ou magnético.</li><li><b>Art. 11</b>: no atendimento, a autoridade policial deve: I, garantir <b>proteção policial</b>, quando necessário, comunicando de imediato ao MP e ao Judiciário; II, <b>encaminhar</b> a ofendida ao hospital ou posto de saúde e ao IML; III, fornecer <b>transporte</b> para abrigo ou local seguro, quando houver risco de vida; IV, se necessário, <b>acompanhar</b> a ofendida para assegurar a retirada de seus pertences do local da ocorrência ou do domicílio familiar; V, <b>informar</b> a ofendida dos direitos e serviços disponíveis, inclusive os de assistência judiciária para eventual ajuizamento de ação de separação, divórcio, anulação de casamento ou dissolução de união estável.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 11.340/2006, art. 12 (procedimentos principais)</div><div class=\"art-lei\">Feito o registro da ocorrência, a autoridade policial deverá, de imediato: I, ouvir a ofendida, lavrar o boletim de ocorrência e tomar a representação a termo, se apresentada; II, colher todas as provas que servirem para o esclarecimento do fato; III, remeter, no prazo de 48 horas, expediente apartado ao juiz com o pedido da ofendida, para a concessão de medidas protetivas de urgência; IV, determinar que se proceda ao exame de corpo de delito e requisitar outros exames periciais necessários; V, ouvir o agressor e as testemunhas; VI, ordenar a identificação do agressor e juntar aos autos sua folha de antecedentes; VI-A, verificar se o agressor possui registro de porte ou posse de arma de fogo e, na hipótese de existência, juntar aos autos essa informação e notificar a instituição responsável pela concessão; VII, remeter, no prazo legal, os autos do inquérito ao juiz e ao MP.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>48 horas</b> para remeter o pedido de medida protetiva</li><li>Verificar <b>arma de fogo</b> do agressor (VI-A, Lei 13.880/2019)</li><li>Serão admitidos como meios de prova os <b>laudos ou prontuários médicos</b> fornecidos por hospitais e postos de saúde (§ 3º)</li><li>O pedido da ofendida deve informar se ela é <b>pessoa com deficiência</b> (§ 1º, IV)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca troca 48 horas por 24 horas</li><li>A banca diz que o delegado decide a medida protetiva (regra: juiz)</li></ul></div></div>\n<h3>6. Afastamento imediato do agressor pela polícia: art. 12-C</h3>\n<ul><li>O <b>art. 12-C</b> (Lei 13.827/2019, ampliado pela Lei 14.188/2021 e pela <b>Lei 15.411/2026</b>) permite o <b>afastamento imediato</b> do agressor do lar, domicílio ou local de convivência com a ofendida, quando verificada a existência de <b>risco atual ou iminente</b> à <b>vida</b> ou à integridade <b>física, psicológica, sexual, moral ou patrimonial</b> da mulher ou de seus dependentes.</li></ul>\n<table class=\"tab\"><thead><tr><th>Quem afasta (art. 12-C)</th><th>Quando</th></tr></thead><tbody><tr><td><b>Autoridade judicial</b></td><td>regra geral</td></tr><tr><td><b>Delegado de polícia</b></td><td>quando o município <b>não for sede de comarca</b></td></tr><tr><td><b>Policial</b></td><td>quando o município não for sede de comarca <b>e não houver delegado disponível</b> no momento da denúncia</td></tr></tbody></table>\n<ul><li>Nos casos do delegado e do policial, o <b>juiz</b> será comunicado no prazo máximo de <b>24 horas</b> e decidirá, em igual prazo, sobre a <b>manutenção ou a revogação</b> da medida, dando ciência ao MP concomitantemente (§ 1º).</li><li>Nos casos de risco à integridade física da ofendida ou à efetividade da medida protetiva, <b>não será concedida liberdade provisória</b> ao preso (§ 2º).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 6.138 (2022)</b><p class=\"jc-tese\">O STF declarou <b>constitucional</b> o art. 12-C, que permite ao delegado e ao policial afastar o agressor do lar em municípios que não são sede de comarca.</p><p class=\"jc-com\">O argumento contrário era a reserva de jurisdição (só juiz poderia restringir direitos). O STF entendeu que a medida é <b>excepcional</b>, <b>provisória</b> e submetida a <b>controle judicial</b> em 24 horas, e que a proteção da vida e da integridade da mulher, em locais sem juiz disponível, justifica a atuação imediata da polícia. Em prova: o policial <b>pode</b> afastar o agressor, mas só no município que <b>não</b> é sede de comarca e se <b>não</b> houver delegado disponível.</p></div>\n<ul><li><b>Monitoração eletrônica pelo delegado</b> (<b>art. 12-D</b>, Lei 15.383/2026): no município que <b>não for sede de comarca</b>, o <b>delegado</b> pode determinar de imediato a <b>monitoração eletrônica</b> do agressor como medida protetiva, comunicando o <b>juiz em até 24 horas</b>, que decide sobre a manutenção em igual prazo e dá ciência ao MP. Na sede de comarca, a decisão é do juiz.</li></ul>\n<h3>7. Medidas protetivas de urgência: regras gerais (arts. 18 a 21)</h3>\n<ul><li><b>Art. 18</b>: recebido o expediente com o pedido da ofendida, caberá ao juiz, no prazo de <b>48 horas</b>: I, conhecer do expediente e decidir sobre as medidas protetivas de urgência; II, determinar o encaminhamento da ofendida ao órgão de assistência judiciária, quando for o caso, inclusive para ação de separação, divórcio ou dissolução de união estável; III, comunicar ao MP; IV, determinar a <b>apreensão imediata de arma de fogo</b> sob a posse do agressor.</li><li><b>Art. 19</b>: as medidas podem ser concedidas pelo juiz, a <b>requerimento do MP</b> ou a <b>pedido da ofendida</b>. Podem ser concedidas <b>de imediato</b>, independentemente de audiência das partes e de manifestação do MP (§ 1º), isolada ou cumulativamente, e substituídas a qualquer tempo (§ 2º).</li><li><b>Lei 14.550/2023</b>: as medidas protetivas são concedidas em juízo de <b>cognição sumária</b>, a partir do <b>depoimento da ofendida</b> perante a autoridade policial ou da apresentação de suas alegações escritas (§ 4º); <b>independem</b> da tipificação penal da violência, do <b>ajuizamento de ação</b> penal ou cível, da existência de <b>inquérito</b> ou do <b>registro de boletim de ocorrência</b> (§ 5º); e <b>vigorarão enquanto persistir risco</b> à integridade da ofendida ou de seus dependentes (§ 6º).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Tema repetitivo 1.249</b><p class=\"jc-tese\">As medidas protetivas da Lei Maria da Penha têm natureza de <b>tutela inibitória</b>, voltada a impedir a violência, e <b>não</b> se vinculam à existência de inquérito ou processo. Vigoram enquanto persistir o <b>risco</b>, <b>sem prazo predeterminado</b>, e sua revogação depende de reavaliação do risco, com <b>oitiva da vítima</b>.</p><p class=\"jc-com\">Antes, muitos juízes fixavam prazos (90 ou 180 dias) e extinguiam as medidas automaticamente, ou as revogavam quando o inquérito era arquivado. A Lei 14.550/2023 e o STJ corrigiram isso: o que importa é o <b>risco</b>, não o andamento do processo criminal.</p></div>\n<ul><li><b>Art. 20</b>: em qualquer fase do inquérito ou da instrução criminal, caberá a <b>prisão preventiva</b> do agressor, decretada pelo juiz, de ofício (redação original; após o Pacote Anticrime, a jurisprudência exige requerimento do MP ou representação do delegado), a requerimento do MP ou mediante representação da autoridade policial. O <b>CPP, art. 313, III</b>, admite a preventiva para <b>garantir a execução das medidas protetivas</b> de urgência, mesmo em crimes com pena máxima inferior a 4 anos.</li><li><b>Art. 21</b>: a ofendida deverá ser <b>notificada</b> dos atos processuais relativos ao agressor, especialmente dos pertinentes ao <b>ingresso e à saída da prisão</b>, sem prejuízo da intimação do advogado. A ofendida <b>não poderá entregar intimação ou notificação</b> ao agressor (parágrafo único).</li></ul>\n<h3>8. Medidas que obrigam o agressor: art. 22</h3>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Medida</th></tr></thead><tbody><tr><td>I</td><td><b>suspensão da posse ou restrição do porte de armas</b>, com comunicação ao órgão competente</td></tr><tr><td>II</td><td><b>afastamento do lar</b>, domicílio ou local de convivência com a ofendida</td></tr><tr><td>III</td><td>proibição de determinadas condutas: a) <b>aproximação</b> da ofendida, de seus familiares e das testemunhas, com fixação do limite mínimo de distância; b) <b>contato</b> com eles por qualquer meio de comunicação; c) <b>frequentação</b> de determinados lugares, a fim de preservar a integridade física e psicológica da ofendida</td></tr><tr><td>IV</td><td>restrição ou suspensão de <b>visitas</b> aos dependentes menores, ouvida a equipe de atendimento multidisciplinar ou serviço similar</td></tr><tr><td>V</td><td>prestação de <b>alimentos provisionais ou provisórios</b></td></tr><tr><td>VI</td><td>comparecimento do agressor a <b>programas de recuperação e reeducação</b> (Lei 13.984/2020)</td></tr><tr><td>VII</td><td><b>acompanhamento psicossocial</b> do agressor, por meio de atendimento individual ou em grupo de apoio (Lei 13.984/2020)</td></tr><tr><td>VIII</td><td><b>monitoração eletrônica</b> do agressor e disponibilização à vítima de aplicativo ou dispositivo de segurança que a alerte sobre a aproximação (Lei 15.383/2026)</td></tr></tbody></table>\n<ul><li><b>Monitoração eletrônica (art. 22, VIII, e §§ 6º a 9º)</b>: tem <b>prioridade</b> quando houver <b>descumprimento</b> de medida anterior ou <b>risco iminente</b>; o sistema emite alerta <b>automático e simultâneo</b> à vítima e à unidade policial mais próxima quando o agressor ultrapassa a área de exclusão; a decisão que, nas hipóteses de prioridade, <b>não</b> aplicar a monitoração deve ter <b>fundamentação expressa</b>.</li><li><b>Força executiva</b> (Lei 15.412/2026): as medidas protetivas de natureza <b>cível</b>, como os <b>alimentos provisórios</b>, passaram a constituir <b>título executivo</b>, permitindo a execução sem necessidade de nova ação.</li><li>As medidas do art. 22 <b>não impedem</b> a aplicação de outras previstas na legislação, sempre que a segurança da ofendida ou as circunstâncias o exigirem (§ 1º). Se o agressor for integrante de órgão de segurança com porte funcional, o juiz comunica ao respectivo órgão, que deverá cumprir a restrição, sob pena de o superior responder por <b>prevaricação</b> ou <b>desobediência</b> (§ 2º). O juiz pode requisitar, a qualquer momento, auxílio da <b>força policial</b> (§ 3º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O policial pode afastar o agressor do lar em qualquer município</span><br>✅ <span class=\"certo\">Só se o município <b>não</b> for sede de comarca e <b>não</b> houver delegado disponível</span></li><li>❌ <span class=\"banca\">As medidas protetivas exigem boletim de ocorrência e inquérito instaurado</span><br>✅ <span class=\"certo\"><b>Independem</b> de BO, inquérito, processo ou tipificação (Lei 14.550/2023)</span></li><li>❌ <span class=\"banca\">As medidas protetivas valem por 90 dias</span><br>✅ <span class=\"certo\">Vigoram <b>enquanto persistir o risco</b> (Tema 1.249 do STJ)</span></li></ol></div>\n<h3>9. Medidas em favor da ofendida: arts. 23 e 24</h3>\n<ul><li><b>Art. 23</b> (medidas à ofendida): o juiz pode, quando necessário: I, encaminhar a ofendida e seus dependentes a <b>programa oficial de proteção</b> ou de atendimento; II, determinar a <b>recondução</b> da ofendida e de seus dependentes ao domicílio, após afastamento do agressor; III, determinar o <b>afastamento da ofendida do lar</b>, sem prejuízo dos direitos relativos a bens, guarda dos filhos e alimentos; IV, determinar a <b>separação de corpos</b>; V, determinar a <b>matrícula</b> dos dependentes em instituição de educação básica mais próxima do seu domicílio, ou a transferência deles, independentemente da existência de vaga; VI, conceder <b>auxílio-aluguel</b>, com valor fixado em função de sua situação de vulnerabilidade social e econômica, por período não superior a <b>6 meses</b> (Lei 14.674/2023).</li><li><b>Art. 24</b> (medidas patrimoniais): para a proteção patrimonial dos bens da sociedade conjugal ou daqueles de propriedade particular da mulher, o juiz pode: I, determinar a <b>restituição de bens</b> indevidamente subtraídos pelo agressor à ofendida; II, <b>proibir temporariamente</b> a celebração de atos e contratos de compra, venda e locação de propriedade em comum, salvo expressa autorização judicial; III, <b>suspender as procurações</b> conferidas pela ofendida ao agressor; IV, determinar a prestação de <b>caução provisória</b>, mediante depósito judicial, por perdas e danos materiais decorrentes da prática de violência doméstica.</li></ul>\n<h3>10. O crime de descumprimento de medida protetiva: art. 24-A</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 11.340/2006, art. 24-A</div><div class=\"art-lei\">Descumprir decisão judicial que defere medidas protetivas de urgência previstas nesta Lei. Pena: reclusão, de 2 a 5 anos, e multa (Lei 14.994/2024). § 1º A configuração do crime independe da competência civil ou criminal do juiz que deferiu as medidas. § 2º Na hipótese de prisão em flagrante, apenas a autoridade judicial poderá conceder fiança. § 3º O disposto neste artigo não exclui a aplicação de outras sanções cabíveis. § 4º A pena é aumentada de 1/3 até a metade se houver violação das áreas de exclusão monitoradas ou remoção, violação ou alteração do dispositivo de monitoração sem autorização judicial (Lei 15.383/2026).</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Crime <b>próprio</b> do destinatário da medida</li><li>Exige que o agente tenha sido <b>intimado</b> da decisão (dolo)</li><li>Medida deferida por juiz <b>cível</b> (Vara de Família) também conta (§ 1º)</li><li><b>Fiança</b>: só o <b>juiz</b> (§ 2º), ainda que a pena antes permitisse ao delegado</li><li>§ 4º: <b>tornozeleira</b> violada ou área de exclusão invadida aumenta a pena</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que o delegado pode arbitrar fiança</li><li>A banca diz que só a medida deferida pelo juiz criminal configura o crime</li></ul></div></div>\n<ul><li><b>Histórico</b>: antes da Lei 13.641/2018, o STJ entendia que o descumprimento de medida protetiva <b>não</b> configurava o crime de desobediência (CP, art. 330), porque a própria Lei Maria da Penha previa outras consequências (prisão preventiva, multa). A Lei 13.641/2018 criou o art. 24-A, com pena de detenção de 3 meses a 2 anos. A <b>Lei 14.994/2024</b> elevou para <b>reclusão de 2 a 5 anos</b>.</li><li><b>Consentimento da vítima</b>: se a própria vítima procura o agressor e reata o contato, há crime? O STJ tem precedentes em ambos os sentidos, mas prevalece que o consentimento da vítima <b>não</b> afasta, por si só, o crime, porque a medida é uma <b>ordem judicial</b> e o bem jurídico inclui a <b>administração da justiça</b>. Alguns julgados reconhecem atipicidade quando o contato foi <b>iniciado e desejado</b> pela vítima, sem qualquer risco. Na dúvida, a orientação é a vítima pedir ao juiz a <b>revogação</b> da medida.</li><li><b>Concurso</b>: se, ao descumprir a medida, o agressor também agride ou ameaça a vítima, responde pelo art. 24-A <b>em concurso</b> com o crime de lesão, ameaça etc. (§ 3º).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Mensagens depois da medida</b><p>Proibido de manter contato com a ex-companheira por decisão judicial da qual foi intimado, Carlos envia a ela dezenas de mensagens por aplicativo, dizendo que \"não vai deixar barato\". Qual a consequência?</p><details><summary>Ver a solução comentada</summary><p><b>Art. 24-A</b> (descumprimento de medida protetiva), reclusão de 2 a 5 anos, em concurso com <b>ameaça</b> (art. 147, com pena em dobro e ação pública incondicionada, por ser contra a mulher por razões do sexo feminino), e possivelmente <b>perseguição</b> (art. 147-A), se houver reiteração. Se preso em flagrante, só o <b>juiz</b> pode conceder fiança. Cabe, ainda, a <b>prisão preventiva</b> para garantir as medidas (CPP, art. 313, III) e a <b>monitoração eletrônica</b> com prioridade (art. 22, § 6º).</p></details></div>\n<h3>11. Ação penal, representação e retratação</h3>\n<ul><li><b>Lesão corporal</b> (qualquer gravidade) contra a mulher no contexto doméstico: ação pública <b>incondicionada</b> (ADI 4.424; Súmula 542 do STJ).</li><li><b>Ameaça</b> contra a mulher por razões da condição do sexo feminino: pública <b>incondicionada</b> (CP, art. 147, § 2º, Lei 14.994/2024).</li><li><b>Crimes que continuam dependendo de representação</b> quando praticados em violência doméstica: por exemplo, a <b>perseguição</b> em sua forma básica (art. 147-A, § 3º) e outros cuja lei preveja representação. Os crimes <b>contra a dignidade sexual</b> são de ação pública <b>incondicionada</b> desde a Lei 13.718/2018.</li><li><b>Prazo de representação ou queixa</b> (<b>Lei 15.438/2026</b>): nos crimes de violência doméstica e familiar contra a mulher, o prazo de decadência passou de 6 para <b>12 meses</b>, contados do dia em que a ofendida veio a saber quem é o autor do crime (CP, art. 103, parágrafo único; CPP, art. 38, § 2º; Lei 11.340, art. 16-A).</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 11.340/2006, art. 16</div><div class=\"art-lei\">Nas ações penais públicas condicionadas à representação da ofendida de que trata esta Lei, só será admitida a renúncia à representação perante o juiz, em audiência especialmente designada com tal finalidade, antes do recebimento da denúncia e ouvido o Ministério Público.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>A lei diz \"renúncia\", mas tecnicamente é <b>retratação</b> (a representação já foi feita)</li><li>Só <b>perante o juiz</b>, em <b>audiência específica</b></li><li>Prazo: <b>até o recebimento da denúncia</b> (no CPP, a retratação é possível até o <b>oferecimento</b>, art. 25)</li><li><b>Lei 15.380/2026</b>: a audiência só pode ser designada se a <b>própria mulher</b> manifestar, oral ou por escrito, o desejo de se retratar; o juiz não pode marcá-la de ofício para \"perguntar\" se ela quer desistir</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca troca \"recebimento\" por \"oferecimento\"</li><li>A banca diz que a retratação pode ser feita na delegacia</li></ul></div></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 7.267 e a audiência do art. 16</b><p class=\"jc-tese\">O STF já havia firmado que a audiência do art. 16 <b>não</b> é obrigatória nem pode ser designada de ofício pelo juiz, pois só existe para <b>confirmar</b> a retratação manifestada espontaneamente pela vítima.</p><p class=\"jc-com\">A designação automática da audiência constrangia a mulher, que era convocada a \"decidir de novo\" diante do juiz, muitas vezes pressionada pelo agressor. A <b>Lei 15.380/2026</b> incorporou esse entendimento à letra da lei. Em prova: a audiência é cabível apenas se a ofendida <b>manifestar</b> o desejo de se retratar.</p></div>\n<h3>12. Afastamento da Lei 9.099/1995 e vedações: arts. 17 e 41</h3>\n<ul><li><b>Art. 41</b>: aos crimes praticados com violência doméstica e familiar contra a mulher, <b>independentemente da pena prevista</b>, <b>não se aplica a Lei 9.099/1995</b>. Consequências: não há <b>termo circunstanciado</b> (lavra-se auto de prisão em flagrante ou instaura-se inquérito), não há <b>transação penal</b>, não há <b>suspensão condicional do processo</b>, e não há composição civil com extinção da punibilidade.</li><li><b>Art. 17</b>: é <b>vedada</b> a aplicação, nos casos de violência doméstica e familiar contra a mulher, de penas de <b>cesta básica</b> ou outras de <b>prestação pecuniária</b>, bem como a substituição de pena que implique o pagamento isolado de <b>multa</b>.</li></ul>\n<div class=\"lt-juris\"><b class=\"lt-tit\">⚖ Jurisprudência</b><ul><li><b>Súmula 536 (STJ)</b>: a suspensão condicional do processo e a transação penal não se aplicam na hipótese de delitos sujeitos ao rito da Lei Maria da Penha</li><li><b>Súmula 542 (STJ)</b>: a ação penal relativa ao crime de lesão corporal resultante de violência doméstica contra a mulher é pública incondicionada</li><li><b>Súmula 588 (STJ)</b>: a prática de crime ou contravenção penal contra a mulher com violência ou grave ameaça no ambiente doméstico impossibilita a substituição da pena privativa de liberdade por restritiva de direitos</li><li><b>Súmula 589 (STJ)</b>: é inaplicável o princípio da insignificância nos crimes ou contravenções penais praticados contra a mulher no âmbito das relações domésticas</li><li><b>Súmula 600 (STJ)</b>: para a configuração da violência doméstica e familiar, não se exige a coabitação entre autor e vítima</li></ul></div>\n<ul><li><b>Contravenções penais</b>: o art. 41 fala em \"crimes\", mas o STJ estende a vedação dos institutos da Lei 9.099 às <b>contravenções</b> praticadas no contexto de violência doméstica (por exemplo, <b>vias de fato</b>), por força da finalidade protetiva da lei e da Súmula 588.</li><li><b>Acordo de não persecução penal (ANPP)</b>: o próprio CPP <b>veda</b> o ANPP nos crimes praticados no âmbito de violência doméstica ou familiar, ou contra a mulher por razões da condição de sexo feminino (art. 28-A, § 2º, IV).</li><li><b>Sursis</b> (suspensão condicional da <b>pena</b>, CP, art. 77): <b>é cabível</b>, se preenchidos os requisitos, porque não é instituto da Lei 9.099 e não foi vedado. Não confundir com a suspensão condicional do <b>processo</b>, que é vedada.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Cabe transação penal na lesão leve contra a mulher em violência doméstica</span><br>✅ <span class=\"certo\"><b>Súmula 536</b>: não cabe</span></li><li>❌ <span class=\"banca\">Cabe ANPP em ameaça contra a ex-namorada</span><br>✅ <span class=\"certo\">Vedado pelo CPP, art. 28-A, § 2º, IV</span></li><li>❌ <span class=\"banca\">A pena pode ser substituída por cesta básica</span><br>✅ <span class=\"certo\">Vedado pelo art. 17</span></li><li>❌ <span class=\"banca\">O sursis da pena é vedado</span><br>✅ <span class=\"certo\">É <b>cabível</b> (só a suspensão do <b>processo</b> é vedada)</span></li></ol></div>\n<h3>13. Juizados, competência e procedimento</h3>\n<ul><li><b>Juizados de Violência Doméstica e Familiar contra a Mulher</b> (art. 14): órgãos da Justiça Ordinária com competência <b>cível e criminal</b> para processar, julgar e executar as causas decorrentes da prática de violência doméstica. Enquanto não estruturados, as varas criminais acumulam as competências cível e criminal (art. 33), com <b>direito de preferência</b>.</li><li><b>Art. 14-A</b> (Lei 13.894/2019): a ofendida tem a opção de propor <b>ação de divórcio ou de dissolução de união estável</b> no Juizado de Violência Doméstica, <b>excluída</b> a pretensão relacionada à <b>partilha de bens</b>.</li><li><b>Competência para o feminicídio</b>: o <b>Tribunal do Júri</b> (crime doloso contra a vida), mas o Juizado ou vara de violência doméstica pode conduzir a fase de instrução preliminar, conforme a organização judiciária local.</li><li><b>Foro da ofendida</b>: para os processos <b>cíveis</b>, a ofendida pode optar pelo foro do seu domicílio ou residência, do lugar do fato ou do domicílio do agressor (art. 15).</li><li><b>Assistência jurídica</b>: a mulher deve estar acompanhada de <b>advogado</b> em todos os atos processuais, cíveis e criminais, ressalvado o pedido de medidas protetivas (art. 27), garantido o acesso à <b>Defensoria Pública</b> (art. 28).</li><li><b>Sigilo do nome da vítima</b> (Lei 14.857/2024): nos processos em que se apuram crimes praticados no contexto de violência doméstica e familiar, o <b>nome da ofendida</b> é protegido por sigilo.</li></ul>\n<h3>14. Prisão do agressor e outras medidas penais</h3>\n<ul><li><b>Prisão em flagrante</b>: nos crimes de violência doméstica, é lavrado o <b>auto de prisão em flagrante</b>, mesmo quando a pena seria compatível com o termo circunstanciado (art. 41). O delegado pode arbitrar <b>fiança</b> nos crimes com pena máxima de até 4 anos, <b>exceto</b> no <b>descumprimento de medida protetiva</b> (art. 24-A, § 2º), em que só o juiz concede fiança.</li><li><b>Prisão preventiva</b>: admitida para garantir a execução das medidas protetivas (CPP, art. 313, III), independentemente da pena máxima do crime. O descumprimento reiterado de medidas é fundamento concreto frequente.</li><li><b>Apreensão de armas</b>: o juiz determina a <b>apreensão imediata</b> de arma de fogo do agressor (art. 18, IV), e o delegado deve <b>verificar</b> se ele possui registro ou porte (art. 12, VI-A).</li><li><b>Ressarcimento ao SUS</b> (art. 9º, §§ 4º a 6º, Lei 13.871/2019): o agressor deve ressarcir ao SUS os custos dos serviços de saúde prestados à vítima e dos dispositivos de segurança, sem que isso configure atenuante ou enseje substituição da pena.</li><li><b>Efeitos da condenação</b>: o condenado por crime de violência doméstica fica sujeito a efeitos extrapenais como a <b>perda do poder familiar</b> (CP, art. 92, II, para crimes dolosos sujeitos a reclusão contra filho, tutelado, curatelado ou contra outra pessoa igualmente titular do mesmo poder familiar) e, em várias leis, restrições para ocupar cargos públicos e receber benefícios.</li><li><b>Trabalhadora doméstica</b> (Lei 15.455/2026): diante de indícios de <b>trabalho análogo à escravidão</b> ou de outras violências contra trabalhadora doméstica, a autoridade policial deve comunicar o caso ao <b>Ministério do Trabalho e Emprego</b> e ao <b>Ministério Público do Trabalho</b> em até <b>48 horas</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · palavra da vítima</b><p class=\"jc-tese\">Nos crimes de violência doméstica, geralmente cometidos às escondidas, a <b>palavra da vítima</b> tem <b>especial relevância</b>, desde que <b>coerente</b> e <b>harmônica</b> com os demais elementos de prova (laudos, mensagens, testemunhas indiretas).</p><p class=\"jc-com\">Isso não significa condenação automática: a palavra da vítima deve ser analisada criticamente. Para a investigação, a lição é reunir <b>provas de corroboração</b>: exame de corpo de delito, fotografias das lesões, prints de mensagens, áudios, registros de atendimentos anteriores e depoimentos de vizinhos e familiares. O <b>Protocolo para Julgamento com Perspectiva de Gênero</b> do CNJ orienta a análise desses casos.</p></div>\n<h3>15. Violência psicológica, perseguição e o programa Sinal Vermelho</h3>\n<ul><li>A <b>Lei 14.188/2021</b> fez três coisas importantes: (1) criou o programa <b>Sinal Vermelho contra a Violência Doméstica</b>, pelo qual a mulher pode pedir ajuda em farmácias, repartições e outros estabelecimentos parceiros mostrando um <b>\"X\" vermelho</b> na palma da mão; (2) incluiu no CP o crime de <b>violência psicológica contra a mulher</b> (art. 147-B); (3) criou a qualificadora da lesão corporal praticada contra a mulher por razões da condição do sexo feminino (art. 129, § 13), depois agravada pela Lei 14.994/2024.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Código Penal, art. 147-B</div><div class=\"art-lei\">Causar dano emocional à mulher que a prejudique e perturbe seu pleno desenvolvimento ou que vise a degradar ou a controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que cause prejuízo à sua saúde psicológica e autodeterminação. Pena: reclusão, de 6 meses a 2 anos, e multa, se a conduta não constitui crime mais grave.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Crime <b>material</b> (exige <b>dano emocional</b>)</li><li>Vítima: <b>mulher</b> (não exige contexto doméstico, mas é o caso mais comum)</li><li><b>Subsidiário</b> expressamente</li><li>Ação penal <b>pública incondicionada</b></li><li>O dano pode ser provado por <b>perícia psicológica</b> ou por <b>outros meios</b> (relatórios, testemunhas, mensagens)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que exige laudo pericial obrigatório</li><li>A banca diz que o crime é de mera conduta</li></ul></div></div>\n<ul><li><b>Perseguição</b> (art. 147-A, Lei 14.132/2021): perseguir alguém, <b>reiteradamente</b> e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de liberdade ou privacidade. Pena de reclusão de 6 meses a 2 anos e multa, <b>aumentada de metade</b> se o crime é cometido contra <b>mulher por razões da condição de sexo feminino</b>. Exige <b>reiteração</b> (um único ato não basta). A ação é condicionada à <b>representação</b> (§ 3º), mas, em contexto de violência doméstica, aplica-se o prazo de <b>12 meses</b> da Lei 15.438/2026.</li><li><b>Vias de fato</b> (LCP, art. 21): empurrão ou tapa sem lesão, em contexto de violência doméstica contra a mulher, é contravenção, mas <b>não</b> admite transação nem suspensão do processo (STJ), nem insignificância (Súmula 589). A Lei 14.994/2024 também passou a prever o <b>triplo</b> da pena das vias de fato quando cometidas contra a mulher por razões da condição do sexo feminino, segundo a nova redação do art. 21 da LCP.</li></ul>\n<h3>16. A rede de proteção e outras leis relacionadas</h3>\n<ul><li><b>Patrulha Maria da Penha</b>: programas das polícias militares e das guardas municipais que acompanham mulheres com medidas protetivas, com visitas periódicas e resposta rápida a descumprimentos. Leis estaduais e municipais regulam esses programas; a Lei 14.899/2024 trata da elaboração e implementação de planos de metas para o enfrentamento integrado da violência doméstica, com recursos do Fundo Nacional de Segurança Pública, e a Lei 15.383/2026 tornou permanente o programa de monitoração de agressores.</li><li><b>Formulário Nacional de Avaliação de Risco</b> (Lei 14.149/2021): aplicado pela polícia, pelo MP ou pelo Judiciário no primeiro atendimento, para identificar fatores de risco (ameaças com arma, tentativas anteriores de estrangulamento, ciúme excessivo, descumprimento de medidas, separação recente, gravidez). Ajuda a fundamentar medidas protetivas e prisões.</li><li><b>Lei 14.857/2024</b>: sigilo do <b>nome da vítima</b> nos processos de violência doméstica.</li><li><b>Lei 14.887/2024</b>: atendimento <b>prioritário</b> da mulher em situação de violência no SUS e no Sistema Único de Segurança Pública (Susp).</li><li><b>Estatuto da Pessoa Idosa</b> e <b>ECA</b>: se a vítima é mulher idosa ou menina, as leis se aplicam <b>em conjunto</b>, prevalecendo, para cada aspecto, a norma mais protetiva. A Lei Maria da Penha pode amparar, por exemplo, uma adolescente agredida pelo namorado.</li><li><b>Lei 13.431/2017</b> e <b>Lei 14.344/2022</b> (Lei Henry Borel): esta última criou um sistema semelhante ao da Lei Maria da Penha para a violência doméstica contra <b>crianças e adolescentes</b>, com medidas protetivas, afastamento do agressor e crime de descumprimento (art. 25 da Lei 14.344), além de tornar hediondo o homicídio contra menor de 14 anos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A perseguição (stalking) se configura com um único ato de seguir a vítima</span><br>✅ <span class=\"certo\">Exige <b>reiteração</b></span></li><li>❌ <span class=\"banca\">O crime de violência psicológica contra a mulher exige laudo pericial</span><br>✅ <span class=\"certo\">O dano pode ser provado por <b>outros meios</b></span></li><li>❌ <span class=\"banca\">A Lei Maria da Penha não se aplica quando a vítima é adolescente</span><br>✅ <span class=\"certo\">Aplica-se, em conjunto com o <b>ECA</b>, se presentes os requisitos do art. 5º</span></li></ol></div>\n<h3>17. Mais jurisprudência essencial</h3>\n<div class=\"lt-juris\"><b class=\"lt-tit\">⚖ Jurisprudência</b><ul><li><b>STJ</b>: a Lei Maria da Penha aplica-se às relações de <b>namoro</b>, inclusive já encerradas, se a agressão decorre da relação</li><li><b>STJ</b>: a violência entre <b>irmãos</b> ou de <b>filho contra mãe</b> pode atrair a lei, se presente a motivação de gênero ou a situação de vulnerabilidade</li><li><b>STJ</b>: a <b>mulher trans</b> é protegida pela lei (REsp 1.977.124)</li><li><b>STJ, Tema 1.249</b>: medidas protetivas sem prazo predeterminado, enquanto houver risco; revogação com oitiva da vítima</li><li><b>STJ</b>: a palavra da vítima tem especial relevância, desde que coerente com os demais elementos</li><li><b>STJ</b>: o feminicídio era qualificadora objetiva, compatível com o motivo torpe</li><li><b>STF, ADI 4.424</b>: lesão corporal contra a mulher, ação pública incondicionada</li><li><b>STF, ADI 6.138</b>: afastamento do agressor pelo delegado ou pelo policial é constitucional</li><li><b>STF, ADPF 779</b>: a tese da <b>legítima defesa da honra</b> é inconstitucional e não pode ser usada no júri, sob pena de nulidade</li></ul></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADPF 779 (2023)</b><p class=\"jc-tese\">O STF declarou <b>inconstitucional</b> a tese da \"legítima defesa da honra\" em crimes de feminicídio ou agressão contra mulheres, proibindo que a defesa, a acusação, a autoridade policial ou o juiz a utilizem, direta ou indiretamente, na fase pré-processual, processual e no <b>Tribunal do Júri</b>, sob pena de <b>nulidade</b> do ato e do julgamento.</p><p class=\"jc-com\">Fundamento: a tese viola a <b>dignidade da pessoa humana</b>, a proteção à <b>vida</b> e a <b>igualdade de gênero</b>, por legitimar a violência contra a mulher com base em uma suposta \"traição\". Para a polícia, isso significa que o relatório do inquérito não deve reproduzir justificativas desse tipo como se fossem atenuantes do comportamento do agressor.</p></div>\n<h3>18. Mais casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Agressão entre irmãs</b><p>Duas irmãs adultas discutem por causa da venda de um imóvel herdado, e uma dá um tapa na outra, sem nenhuma relação de dominação ou subordinação. Aplica-se a Lei Maria da Penha?</p><details><summary>Ver a solução comentada</summary><p>Não necessariamente: a violência não parece <b>baseada no gênero</b> (disputa patrimonial entre iguais, sem vulnerabilidade decorrente da condição de mulher). O STJ exige a motivação de gênero ou a situação de vulnerabilidade, embora a presuma em muitas relações íntimas e familiares. Sem esse elemento, aplica-se a legislação comum (vias de fato ou lesão leve, com os institutos da Lei 9.099).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Controle total</b><p>Durante anos, o marido proíbe a mulher de trabalhar, controla seu celular, impede visitas da família e a humilha diariamente, levando-a a desenvolver depressão. Ele nunca a agrediu fisicamente. Há crime?</p><details><summary>Ver a solução comentada</summary><p><b>Violência psicológica contra a mulher</b> (CP, art. 147-B), crime material que exige <b>dano emocional</b>, comprovado por perícia, relatórios médicos ou outras provas. É também violência doméstica <b>psicológica</b> (art. 7º, II), autorizando medidas protetivas. A ação é pública incondicionada.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ex-namorado que segue</b><p>Após o término, o ex-namorado passa a esperar a mulher na saída do trabalho, envia dezenas de mensagens por dia e aparece na academia que ela frequenta. Ela pede ajuda.</p><details><summary>Ver a solução comentada</summary><p><b>Perseguição</b> (CP, art. 147-A) com aumento de <b>metade</b> (contra mulher por razões do sexo feminino), condicionada à <b>representação</b>, com prazo de <b>12 meses</b> (Lei 15.438/2026). Cabem medidas protetivas de proibição de aproximação e contato, e, havendo descumprimento, o crime do art. 24-A e a monitoração eletrônica com prioridade.</p></details></div>\n<h3>19. Linha do tempo da Lei Maria da Penha</h3>\n<div class=\"lt-fluxo\"><span>2001: CIDH responsabiliza o Brasil no caso Maria da Penha</span> <em>→</em> <span>2006: Lei 11.340</span> <em>→</em> <span>2012: STF julga a ADC 19 e a ADI 4.424</span> <em>→</em> <span>2015: feminicídio vira qualificadora (Lei 13.104)</span> <em>→</em> <span>2017: atendimento especializado (art. 10-A)</span> <em>→</em> <span>2018: crime de descumprimento (art. 24-A)</span> <em>→</em> <span>2019: afastamento pelo delegado e pelo policial (art. 12-C)</span> <em>→</em> <span>2021: violência psicológica e Sinal Vermelho (Lei 14.188)</span> <em>→</em> <span>2023: medidas sem BO e enquanto houver risco (Lei 14.550)</span> <em>→</em> <span>2024: pacote antifeminicídio (Lei 14.994)</span> <em>→</em> <span>2026: monitoração eletrônica, violência vicária, afastamento ampliado e prazo de 12 meses</span></div>\n<ul><li>A evolução mostra uma tendência clara: a lei passou de um diploma <b>processual e assistencial</b> para um sistema de <b>proteção integral</b>, com atuação cada vez mais <b>imediata</b> da polícia (afastamento, monitoração), medidas <b>desvinculadas</b> do processo penal e penas mais altas para os crimes de gênero.</li></ul>\n<h3>20. Pontos de atenção para a prova de delegado e investigador</h3>\n<ul><li><b>Competência do Juizado</b>: o Juizado de Violência Doméstica tem competência <b>híbrida</b> (cível e criminal). A jurisprudência admite que ele aprecie pedidos de alimentos, guarda provisória e separação de corpos ligados à violência, mas a <b>partilha de bens</b> fica com o juízo de família (art. 14-A, § 1º).</li><li><b>Vítima que não quer medidas</b>: as medidas protetivas dependem, em regra, de <b>pedido</b> da ofendida ou do MP; o juiz não as aplica contra a vontade expressa e consciente da mulher, salvo situações excepcionais de risco grave, em que pode decidir de ofício para proteger a vida. O papel da polícia é <b>informar</b> e <b>registrar</b> a vontade da vítima, aplicando o formulário de risco.</li><li><b>Arma do policial agressor</b>: quando o agressor é policial, o juiz comunica à corporação a <b>suspensão da posse ou a restrição do porte</b> (art. 22, § 2º), e o superior que não cumprir pode responder por prevaricação ou desobediência. Na delegacia, a arma deve ser apreendida conforme a decisão judicial.</li><li><b>Morte da vítima após medidas</b>: casos de feminicídio cometidos por agressores com medidas protetivas em vigor motivaram a Lei 15.383/2026 (monitoração com prioridade e alerta automático). Em provas discursivas, cite esse movimento legislativo como exemplo de resposta estatal à <b>ineficácia</b> das medidas não fiscalizadas.</li><li><b>Concurso entre lesão corporal e descumprimento</b>: o agressor que, proibido de se aproximar, vai à casa da vítima e a agride responde pelos dois crimes (art. 129, § 13, do CP e art. 24-A), em <b>concurso material</b>, e o descumprimento é fundamento para a <b>preventiva</b>.</li><li><b>Retirada de pertences</b>: quando a mulher precisa deixar a casa, a polícia deve <b>acompanhá-la</b> para retirar seus pertences e os dos filhos (art. 11, IV). Essa providência simples evita novos episódios de violência no reencontro com o agressor e deve ser registrada no boletim, com o horário e os policiais envolvidos.</li><li><b>Sigilo e endereço da vítima</b>: em casos de risco, o endereço da vítima abrigada não deve constar de documentos acessíveis ao agressor. A matrícula dos filhos em nova escola também é sigilosa (art. 9º, § 8º, incluído pela Lei 13.882/2019).</li><li><b>Encaminhamento à rede</b>: além da Delegacia Especializada de Atendimento à Mulher (DEAM), a vítima pode ser encaminhada à <b>Casa da Mulher Brasileira</b>, que reúne em um só lugar delegacia, Juizado, Ministério Público, Defensoria, apoio psicossocial e alojamento de passagem, evitando que a mulher tenha de percorrer vários órgãos e repetir o relato. Onde não houver DEAM, qualquer delegacia deve prestar o atendimento com os mesmos cuidados previstos na lei, e a ausência de delegacia especializada <b>nunca</b> justifica a recusa do registro. O registro pode, inclusive, ser feito em delegacias <b>virtuais</b> nos Estados que as oferecem, e a medida protetiva pode ser pedida diretamente ao juiz, ao MP ou à Defensoria.</li><li><b>Fim do relacionamento como fator de risco</b>: a literatura especializada e os formulários de risco apontam a <b>separação recente</b> como um dos momentos de maior perigo. Por isso, a polícia deve levar a sério ameaças feitas logo após o término e priorizar medidas de proteção nesses casos.</li></ul>\n<h3>21. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Namorado que agride na rua</b><p>Ana namora João há 6 meses; eles não moram juntos. Durante uma discussão de ciúmes na rua, João a empurra e lhe dá um tapa, causando lesão leve. Aplica-se a Lei Maria da Penha?</p><details><summary>Ver a solução comentada</summary><p><b>Sim</b>: há <b>relação íntima de afeto</b> (art. 5º, III), sem necessidade de coabitação (<b>Súmula 600</b>), e a violência decorre do contexto da relação (ciúme, controle). Lesão corporal do <b>art. 129, § 13</b>, do CP (contra mulher por razões da condição do sexo feminino), ação pública <b>incondicionada</b>, sem transação ou suspensão do processo (Súmula 536) e sem ANPP. Auto de prisão em flagrante, e não termo circunstanciado.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Filho que agride a mãe</b><p>Um filho de 30 anos, dependente químico, agride a mãe idosa com quem mora para tomar dinheiro. Qual o enquadramento?</p><details><summary>Ver a solução comentada</summary><p>Pode haver violência doméstica contra a mulher (<b>unidade doméstica</b> e <b>família</b>), com aplicação da Lei Maria da Penha se a violência se der em contexto de vulnerabilidade e subordinação ligada ao gênero, além do <b>Estatuto da Pessoa Idosa</b>. A subtração mediante violência configura <b>roubo</b>, e a imunidade do art. 181 do CP não se aplica (art. 183, I, e por ser a vítima maior de 60 anos, art. 183, III). As medidas protetivas podem ser deferidas.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Retirada do pedido na delegacia</b><p>Dias depois de registrar uma ameaça, a vítima volta à delegacia e diz que \"quer retirar a queixa\" porque o ex-marido pediu desculpas. A ameaça foi motivada pela condição de mulher. O que o delegado deve fazer?</p><details><summary>Ver a solução comentada</summary><p>Desde a <b>Lei 14.994/2024</b>, a ameaça contra a mulher por razões da condição do sexo feminino é de ação pública <b>incondicionada</b> (CP, art. 147, § 2º): não há representação a retirar, e o inquérito segue. Para crimes ainda condicionados à representação, a retratação só é válida <b>perante o juiz</b>, em audiência requerida pela própria mulher, antes do recebimento da denúncia (art. 16, com a Lei 15.380/2026). O delegado deve informar a vítima sobre seus direitos e sobre a rede de apoio.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Cidade sem juiz</b><p>Às 23h, numa cidade que não é sede de comarca e onde o único delegado está de folga em outra cidade, policiais militares atendem uma mulher espancada pelo marido, que ameaça \"terminar o serviço\". O que podem fazer?</p><details><summary>Ver a solução comentada</summary><p>Pelo <b>art. 12-C</b>, o <b>policial</b> pode determinar o <b>afastamento imediato</b> do agressor do lar, porque o município não é sede de comarca e não há delegado disponível, comunicando o juiz em até <b>24 horas</b>. Havendo flagrante de lesão corporal, também cabe a <b>prisão em flagrante</b>. Se houver risco à integridade da vítima, <b>não</b> se concede liberdade provisória ao preso (§ 2º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Tornozeleira desligada</b><p>Monitorado eletronicamente por medida protetiva, um homem rompe a tornozeleira e vai até o trabalho da ex-companheira, invadindo a área de exclusão. O que ocorre?</p><details><summary>Ver a solução comentada</summary><p>O sistema dispara <b>alerta automático</b> à vítima e à polícia (art. 22, § 8º). O agressor pratica o <b>art. 24-A</b> com a causa de aumento de <b>1/3 até a metade</b> do § 4º (Lei 15.383/2026), por violar a área de exclusão e danificar o dispositivo. Cabe a <b>prisão em flagrante</b> (fiança só pelo juiz) e a <b>prisão preventiva</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Fotos íntimas no grupo</b><p>Após o término, o ex-namorado envia fotos íntimas da mulher a um grupo de amigos, por vingança. Qual o enquadramento?</p><details><summary>Ver a solução comentada</summary><p><b>Violência psicológica</b> na forma de violação da intimidade (art. 7º, II) e <b>moral</b>. Crime do <b>art. 218-C</b> do CP (divulgação de cena de sexo ou de nudez sem consentimento), com aumento de <b>1/3 a 2/3</b> se praticado por agente que mantém ou manteve <b>relação íntima de afeto</b> com a vítima ou com o fim de <b>vingança ou humilhação</b> (§ 1º). Cabem medidas protetivas (proibição de contato e de divulgação) e a remoção do conteúdo.</p></details></div>\n<h3>22. A Lei Maria da Penha na rotina policial</h3>\n<ul><li><b>Registro</b>: ouvir a vítima em ambiente reservado, preferencialmente por servidora capacitada, <b>sem contato</b> com o agressor e <b>sem perguntas</b> sobre a vida privada que não tenham relação com o fato (art. 10-A); registrar a representação, se o crime exigir; aplicar o <b>Formulário Nacional de Avaliação de Risco</b> (Lei 14.149/2021), que orienta as medidas protetivas e a prisão.</li><li><b>Medidas protetivas</b>: colher o <b>pedido</b> da vítima e remeter ao juiz em <b>48 horas</b> (art. 12, III), informando se ela tem deficiência e se há arma de fogo; em cidade sem comarca, usar os arts. 12-C (afastamento) e 12-D (monitoração), comunicando o juiz em 24 horas.</li><li><b>Provas</b>: requisitar exame de corpo de delito; juntar prontuários médicos; fotografar lesões; preservar prints, áudios e vídeos (com cadeia de custódia); ouvir testemunhas; verificar antecedentes e <b>registro de arma</b> do agressor.</li><li><b>Prisão</b>: lavrar <b>APF</b> (nunca TC); lembrar que no art. 24-A só o juiz concede fiança; representar pela <b>preventiva</b> quando houver risco concreto ou descumprimento de medidas.</li><li><b>Encaminhamentos</b>: casa-abrigo, Centro de Referência da Mulher, Defensoria, CRAS/CREAS, saúde; acompanhar a vítima para retirar pertences (art. 11, IV).</li></ul>\n<h3>23. Perguntas frequentes em provas discursivas</h3>\n<ul><li><b>\"Quais os requisitos para a aplicação da Lei Maria da Penha?\"</b> Vítima mulher (inclusive trans); ação ou omissão baseada no gênero; ocorrida na unidade doméstica, na família ou em relação íntima de afeto, independentemente de coabitação (art. 5º; Súmula 600). O agressor pode ser homem ou mulher, e as relações independem de orientação sexual.</li><li><b>\"Explique o afastamento do agressor pela polícia.\"</b> Art. 12-C: havendo risco atual ou iminente à vida ou à integridade física, psicológica, sexual, moral ou patrimonial da mulher ou de seus dependentes, o agressor é afastado pelo juiz; pelo delegado, se o município não for sede de comarca; pelo policial, se também não houver delegado disponível. O juiz é comunicado em 24 horas e decide em igual prazo. O STF declarou a regra constitucional (ADI 6.138).</li><li><b>\"Quais institutos despenalizadores são vedados?\"</b> Os da Lei 9.099/1995 (transação penal e suspensão condicional do processo, Súmula 536), a substituição da pena por cesta básica ou multa isolada (art. 17), a substituição por restritivas em crimes com violência ou grave ameaça (Súmula 588), o ANPP (CPP, art. 28-A, § 2º, IV) e a insignificância (Súmula 589).</li></ul>\n<h3>24. Como as bancas cobram este tópico</h3>\n<ul><li><b>Conceito e âmbito</b>: art. 5º (três âmbitos), Súmula 600, mulher trans, agressor de qualquer sexo, relações homoafetivas.</li><li><b>Formas de violência</b>: art. 7º, agora com a <b>vicária</b> (2026).</li><li><b>Atuação policial</b>: arts. 10-A, 11 e 12 (prazos de 48 horas), 12-C e 12-D (24 horas), verificação de arma.</li><li><b>Medidas protetivas</b>: arts. 18 a 24, Lei 14.550/2023 (independência de BO e inquérito, enquanto houver risco), monitoração eletrônica (2026), força executiva (2026).</li><li><b>Crimes</b>: art. 24-A (2 a 5 anos, fiança só pelo juiz, aumento por violar a tornozeleira), feminicídio autônomo, lesão do § 13, ameaça incondicionada, violência psicológica, perseguição.</li><li><b>Processo</b>: art. 16 (retratação perante o juiz até o recebimento da denúncia, a pedido da mulher), art. 41 e súmulas, prazo de 12 meses para representação.</li><li><b>Bancas</b>: a <b>FGV</b> e o <b>Cebraspe</b> adoram casos de afastamento pelo policial e de cabimento de transação ou ANPP; a <b>Consulplan</b> cobra prazos e a letra dos arts. 5º, 7º, 12 e 22.</li></ul>\n<h3>25. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 11.340/2006</span></span><span class=\"vs\"><span>Lei Maria da Penha; CF, art. 226, § 8º</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Âmbitos</span></span><span class=\"vs\"><span>unidade doméstica, família e relação íntima de afeto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Coabitação</span></span><span class=\"vs\"><span>desnecessária (Súmula 600)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sujeito ativo</span></span><span class=\"vs\"><span>homem ou mulher</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mulher trans</span></span><span class=\"vs\"><span>protegida (STJ)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Formas de violência</span></span><span class=\"vs\"><span>física, psicológica, sexual, patrimonial, moral e vicária</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Violência vicária</span></span><span class=\"vs\"><span>atingir a mulher por meio de filhos, parentes ou rede de apoio (2026)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pedido de medida ao juiz</span></span><span class=\"vs\"><span>48 horas (art. 12, III)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decisão do juiz</span></span><span class=\"vs\"><span>48 horas (art. 18)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento pelo delegado</span></span><span class=\"vs\"><span>município sem comarca</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento pelo policial</span></span><span class=\"vs\"><span>sem comarca e sem delegado disponível</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comunicação ao juiz (12-C e 12-D)</span></span><span class=\"vs\"><span>24 horas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Medidas protetivas</span></span><span class=\"vs\"><span>independem de BO, inquérito ou processo; duram enquanto houver risco</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 22, VIII</span></span><span class=\"vs\"><span>monitoração eletrônica (2026)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 24-A</span></span><span class=\"vs\"><span>descumprimento, reclusão de 2 a 5 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fiança no 24-A</span></span><span class=\"vs\"><span>só o juiz</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tornozeleira violada</span></span><span class=\"vs\"><span>aumento de 1/3 até a metade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão corporal</span></span><span class=\"vs\"><span>ação pública incondicionada (Súmula 542)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ameaça contra mulher por razões de gênero</span></span><span class=\"vs\"><span>pena em dobro, incondicionada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Retratação (art. 16)</span></span><span class=\"vs\"><span>perante o juiz, até o recebimento da denúncia, a pedido da mulher</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo de representação</span></span><span class=\"vs\"><span>12 meses (Lei 15.438/2026)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 9.099</span></span><span class=\"vs\"><span>não se aplica (art. 41; Súmula 536)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cesta básica</span></span><span class=\"vs\"><span>vedada (art. 17)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Restritivas</span></span><span class=\"vs\"><span>vedadas com violência ou grave ameaça (Súmula 588)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Insignificância</span></span><span class=\"vs\"><span>inaplicável (Súmula 589)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ANPP</span></span><span class=\"vs\"><span>vedado (CPP, art. 28-A, § 2º, IV)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Auxílio-aluguel</span></span><span class=\"vs\"><span>até 6 meses</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Divórcio no Juizado</span></span><span class=\"vs\"><span>sem partilha de bens</span></span></button></div></div>\n<h3>26. Resumo em uma página</h3>\n<ul><li><b>Base</b>: CF, art. 226, § 8º; CEDAW; Belém do Pará; caso Maria da Penha na CIDH (2001); ADC 19 e ADI 4.424.</li><li><b>Âmbito</b>: mulher; gênero; doméstico, família ou afeto; sem coabitação; agressor de qualquer sexo; mulher trans protegida.</li><li><b>Violência</b>: física, psicológica, sexual, patrimonial, moral, vicária.</li><li><b>Polícia</b>: atendimento especializado e sem revitimização; providências do art. 11; art. 12 (48 horas, arma); afastamento (12-C) e monitoração (12-D) com comunicação ao juiz em 24 horas.</li><li><b>Medidas</b>: juiz em 48 horas; de ofício a pedido; sem BO ou inquérito; enquanto houver risco; contra o agressor (art. 22, incluindo monitoração), à ofendida (art. 23) e patrimoniais (art. 24); força executiva das cíveis.</li><li><b>Crimes</b>: art. 24-A (2 a 5 anos; fiança só judicial; aumento pela tornozeleira); feminicídio e vicaricídio (20 a 40, hediondos); lesão do § 13 (2 a 5); ameaça em dobro e incondicionada; arts. 147-A e 147-B.</li><li><b>Processo</b>: sem Lei 9.099, sem ANPP, sem cesta básica; Súmulas 536, 542, 588, 589 e 600; retratação do art. 16; prazo de 12 meses para representação; sigilo do nome da vítima.</li></ul>",
 "quiz": [
+{
+"p": "A Lei Maria da Penha regulamenta o art. 226, § 8º, da Constituição Federal.",
+"c": true,
+"prof": "Origem.",
+"x": "Assistência à família.",
+"e": "CF"
+},
+{
+"p": "Segundo o STF, a Lei Maria da Penha é constitucional, por constituir ação afirmativa voltada à igualdade material.",
+"c": true,
+"prof": "Constitucionalidade.",
+"x": "ADC 19.",
+"e": "Igualdade material"
+},
+{
+"p": "Configura violência doméstica a agressão praticada em relação íntima de afeto, independentemente de coabitação.",
+"c": true,
+"prof": "Âmbito.",
+"x": "Súmula 600 do STJ.",
+"e": "Coabitação"
+},
+{
+"p": "A Lei Maria da Penha somente se aplica quando o agressor for homem.",
+"c": false,
+"prof": "Sujeito ativo.",
+"x": "Homem ou mulher.",
+"e": "Agressor"
+},
+{
+"p": "Segundo o STJ, a Lei Maria da Penha aplica-se à violência praticada contra mulher transexual.",
+"c": true,
+"prof": "Sujeito passivo.",
+"x": "Gênero.",
+"e": "Mulher trans"
+},
+{
+"p": "As relações pessoais protegidas pela Lei Maria da Penha independem de orientação sexual.",
+"c": true,
+"prof": "Âmbito.",
+"x": "Art. 5º, parágrafo único.",
+"e": "Homoafetivas"
+},
+{
+"p": "A empregada doméstica pode ser vítima de violência doméstica no âmbito da unidade doméstica.",
+"c": true,
+"prof": "Âmbito.",
+"x": "Art. 5º, I.",
+"e": "Unidade doméstica"
+},
+{
+"p": "Desde 2026, a Lei Maria da Penha prevê a violência vicária como forma de violência doméstica e familiar contra a mulher.",
+"c": true,
+"prof": "Formas.",
+"x": "Lei 15.384/2026.",
+"e": "Vicária"
+},
+{
+"p": "Reter documentos pessoais da mulher configura violência patrimonial.",
+"c": true,
+"prof": "Formas.",
+"x": "Art. 7º, IV.",
+"e": "Patrimonial"
+},
+{
+"p": "Impedir a mulher de usar método contraceptivo configura violência sexual.",
+"c": true,
+"prof": "Formas.",
+"x": "Art. 7º, III.",
+"e": "Sexual"
+},
+{
+"p": "A violação da intimidade da mulher é forma de violência psicológica.",
+"c": true,
+"prof": "Formas.",
+"x": "Lei 13.772/2018.",
+"e": "Psicológica"
+},
+{
+"p": "A lista de formas de violência do art. 7º da Lei Maria da Penha é taxativa.",
+"c": false,
+"prof": "Formas.",
+"x": "Entre outras.",
+"e": "Exemplificativa"
+},
+{
+"p": "O delegado deve remeter ao juiz, no prazo de 48 horas, o expediente com o pedido de medidas protetivas da ofendida.",
+"c": true,
+"prof": "Polícia.",
+"x": "Art. 12, III.",
+"e": "48 horas"
+},
+{
+"p": "A autoridade policial deve verificar se o agressor possui registro de posse ou porte de arma de fogo.",
+"c": true,
+"prof": "Polícia.",
+"x": "Art. 12, VI-A.",
+"e": "Arma"
+},
+{
+"p": "É direito da mulher o atendimento policial especializado, prestado preferencialmente por servidoras do sexo feminino.",
+"c": true,
+"prof": "Polícia.",
+"x": "Art. 10-A.",
+"e": "Atendimento"
+},
+{
+"p": "No atendimento à mulher, deve-se evitar sucessivas inquirições sobre o mesmo fato, para não haver revitimização.",
+"c": true,
+"prof": "Polícia.",
+"x": "Art. 10-A.",
+"e": "Revitimização"
+},
+{
+"p": "O policial pode afastar o agressor do lar se o município não for sede de comarca e não houver delegado disponível no momento da denúncia.",
+"c": true,
+"prof": "Afastamento.",
+"x": "Art. 12-C, III.",
+"e": "Policial"
+},
+{
+"p": "O delegado pode afastar o agressor do lar em qualquer município, ainda que seja sede de comarca.",
+"c": false,
+"prof": "Afastamento.",
+"x": "Só sem comarca.",
+"e": "Delegado"
+},
+{
+"p": "Afastado o agressor pelo delegado ou pelo policial, o juiz deve ser comunicado em até 24 horas.",
+"c": true,
+"prof": "Afastamento.",
+"x": "Art. 12-C, § 1º.",
+"e": "24 horas"
+},
+{
+"p": "O STF declarou constitucional a possibilidade de afastamento do agressor pelo delegado ou pelo policial.",
+"c": true,
+"prof": "Afastamento.",
+"x": "ADI 6.138.",
+"e": "Constitucional"
+},
+{
+"p": "Desde a Lei 15.383/2026, em município que não é sede de comarca, o delegado pode determinar a monitoração eletrônica do agressor, comunicando o juiz em 24 horas.",
+"c": true,
+"prof": "Monitoração.",
+"x": "Art. 12-D.",
+"e": "Delegado"
+},
+{
+"p": "O juiz deve decidir sobre as medidas protetivas no prazo de 48 horas.",
+"c": true,
+"prof": "Medidas.",
+"x": "Art. 18.",
+"e": "48 horas"
+},
+{
+"p": "As medidas protetivas podem ser concedidas de imediato, independentemente de audiência das partes e de manifestação do MP.",
+"c": true,
+"prof": "Medidas.",
+"x": "Art. 19, § 1º.",
+"e": "Imediato"
+},
+{
+"p": "As medidas protetivas independem do registro de boletim de ocorrência e da instauração de inquérito.",
+"c": true,
+"prof": "Medidas.",
+"x": "Lei 14.550/2023.",
+"e": "Independência"
+},
+{
+"p": "As medidas protetivas têm prazo máximo de 90 dias.",
+"c": false,
+"prof": "Medidas.",
+"x": "Enquanto houver risco.",
+"e": "Tema 1.249"
+},
+{
+"p": "A ofendida pode entregar ao agressor a intimação dos atos processuais.",
+"c": false,
+"prof": "Medidas.",
+"x": "Art. 21, parágrafo único.",
+"e": "Vedado"
+},
+{
+"p": "A monitoração eletrônica do agressor é medida protetiva prevista no art. 22 da Lei Maria da Penha.",
+"c": true,
+"prof": "Medidas.",
+"x": "Inciso VIII.",
+"e": "Monitoração"
+},
+{
+"p": "O juiz pode conceder auxílio-aluguel à ofendida por até 6 meses.",
+"c": true,
+"prof": "Medidas.",
+"x": "Art. 23, VI.",
+"e": "Auxílio-aluguel"
+},
+{
+"p": "O juiz pode suspender as procurações conferidas pela ofendida ao agressor.",
+"c": true,
+"prof": "Medidas.",
+"x": "Art. 24, III.",
+"e": "Patrimoniais"
+},
+{
+"p": "O crime de descumprimento de medida protetiva tem pena de reclusão de 2 a 5 anos e multa.",
+"c": true,
+"prof": "Art. 24-A.",
+"x": "Lei 14.994/2024.",
+"e": "Pena"
+},
+{
+"p": "No crime de descumprimento de medida protetiva, o delegado pode arbitrar fiança.",
+"c": false,
+"prof": "Art. 24-A.",
+"x": "Só o juiz.",
+"e": "Fiança"
+},
+{
+"p": "O descumprimento de medida protetiva deferida por juiz da vara cível configura o crime do art. 24-A.",
+"c": true,
+"prof": "Art. 24-A.",
+"x": "§ 1º.",
+"e": "Competência"
+},
+{
+"p": "A pena do descumprimento é aumentada se o agressor violar a área de exclusão monitorada ou remover o dispositivo sem autorização.",
+"c": true,
+"prof": "Art. 24-A.",
+"x": "§ 4º.",
+"e": "Tornozeleira"
+},
+{
+"p": "A ação penal no crime de lesão corporal contra a mulher em violência doméstica é pública incondicionada, qualquer que seja a extensão da lesão.",
+"c": true,
+"prof": "Ação penal.",
+"x": "Súmula 542.",
+"e": "Incondicionada"
+},
+{
+"p": "A ameaça contra a mulher por razões da condição do sexo feminino é crime de ação pública incondicionada.",
+"c": true,
+"prof": "Ação penal.",
+"x": "CP, art. 147, § 2º.",
+"e": "Ameaça"
+},
+{
+"p": "A retratação da representação na Lei Maria da Penha pode ser feita perante o delegado.",
+"c": false,
+"prof": "Art. 16.",
+"x": "Perante o juiz.",
+"e": "Retratação"
+},
+{
+"p": "A retratação da representação, na Lei Maria da Penha, é admitida até o recebimento da denúncia.",
+"c": true,
+"prof": "Art. 16.",
+"x": "Diferente do CPP.",
+"e": "Recebimento"
+},
+{
+"p": "A audiência do art. 16 só pode ser designada se a própria mulher manifestar o desejo de se retratar.",
+"c": true,
+"prof": "Art. 16.",
+"x": "Lei 15.380/2026.",
+"e": "Audiência"
+},
+{
+"p": "Nos crimes de violência doméstica contra a mulher, o prazo de decadência para a representação é de 12 meses.",
+"c": true,
+"prof": "Decadência.",
+"x": "Lei 15.438/2026.",
+"e": "12 meses"
+},
+{
+"p": "Aplica-se a transação penal à lesão corporal leve praticada contra a mulher em violência doméstica.",
+"c": false,
+"prof": "Lei 9.099.",
+"x": "Súmula 536.",
+"e": "Vedação"
+},
+{
+"p": "É vedada a aplicação de pena de cesta básica nos casos de violência doméstica e familiar contra a mulher.",
+"c": true,
+"prof": "Vedações.",
+"x": "Art. 17.",
+"e": "Cesta básica"
+},
+{
+"p": "Não se aplica o princípio da insignificância aos crimes e contravenções praticados contra a mulher no âmbito das relações domésticas.",
+"c": true,
+"prof": "Vedações.",
+"x": "Súmula 589.",
+"e": "Insignificância"
+},
+{
+"p": "É cabível acordo de não persecução penal nos crimes praticados no âmbito de violência doméstica.",
+"c": false,
+"prof": "Vedações.",
+"x": "CPP, art. 28-A, § 2º, IV.",
+"e": "ANPP"
+},
+{
+"p": "O sursis da pena é, em tese, cabível nos crimes de violência doméstica contra a mulher.",
+"c": true,
+"prof": "Vedações.",
+"x": "Não vedado.",
+"e": "Sursis"
+},
+{
+"p": "Admite-se prisão preventiva para garantir a execução das medidas protetivas de urgência.",
+"c": true,
+"prof": "Prisão.",
+"x": "CPP, art. 313, III.",
+"e": "Preventiva"
+},
+{
+"p": "Nos crimes de violência doméstica com pena máxima de até 2 anos, lavra-se termo circunstanciado.",
+"c": false,
+"prof": "Prisão.",
+"x": "Art. 41.",
+"e": "APF"
+},
+{
+"p": "A ofendida pode propor ação de divórcio no Juizado de Violência Doméstica, excluída a partilha de bens.",
+"c": true,
+"prof": "Juizados.",
+"x": "Art. 14-A.",
+"e": "Divórcio"
+},
+{
+"p": "Desde a Lei 14.994/2024, o feminicídio é crime autônomo, com pena de reclusão de 20 a 40 anos.",
+"c": true,
+"prof": "Feminicídio.",
+"x": "CP, art. 121-A.",
+"e": "Autônomo"
+},
+{
+"p": "Segundo o STJ, a qualificadora do feminicídio, por ser objetiva, era compatível com o motivo torpe.",
+"c": true,
+"prof": "Feminicídio.",
+"x": "Natureza objetiva.",
+"e": "Compatível"
+},
+{
+"p": "O crime de violência psicológica contra a mulher (art. 147-B) exige a ocorrência de dano emocional.",
+"c": true,
+"prof": "Art. 147-B.",
+"x": "Crime material.",
+"e": "Dano emocional"
+},
+{
+"p": "O crime de perseguição se configura com um único ato de seguir a vítima.",
+"c": false,
+"prof": "Art. 147-A.",
+"x": "Exige reiteração.",
+"e": "Reiteração"
+},
+{
+"p": "Segundo o STF, é inconstitucional a tese da legítima defesa da honra, que não pode ser usada no Tribunal do Júri.",
+"c": true,
+"prof": "ADPF 779.",
+"x": "Dignidade e igualdade.",
+"e": "Legítima defesa da honra"
+},
+{
+"p": "Para a aplicação da Lei Maria da Penha, é correto afirmar que",
+"alts": [
+"exige-se coabitação entre agressor e vítima",
+"o agressor deve ser homem",
+"a violência pode ocorrer em relação íntima de afeto, independentemente de coabitação",
+"não se aplica a relações homoafetivas",
+"não protege mulheres trans"
+],
+"r": 2,
+"x": "Art. 5º, III, e Súmula 600.",
+"n": [
+"Não exige.",
+"Homem ou mulher.",
+"Correta.",
+"Parágrafo único do art. 5º.",
+"STJ protege."
+],
+"e": "Âmbito."
+},
+{
+"p": "Em município que não é sede de comarca, sem delegado disponível no momento da denúncia, havendo risco atual à vida da mulher, o afastamento do agressor do lar pode ser determinado",
+"alts": [
+"apenas pelo juiz",
+"apenas pelo Ministério Público",
+"pelo policial, com comunicação ao juiz em até 24 horas",
+"pelo Conselho Tutelar",
+"pela própria vítima"
+],
+"r": 2,
+"x": "Art. 12-C, III.",
+"n": [
+"Há exceções.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Afastamento."
+},
+{
+"p": "Sobre as medidas protetivas de urgência, segundo a Lei 14.550/2023 e o STJ, é correto afirmar:",
+"alts": [
+"dependem de boletim de ocorrência",
+"têm prazo de 90 dias",
+"independem de inquérito ou processo e vigoram enquanto persistir o risco",
+"só podem ser deferidas após ouvir o agressor",
+"exigem tipificação penal da conduta"
+],
+"r": 2,
+"x": "Art. 19, §§ 5º e 6º.",
+"n": [
+"Não dependem.",
+"Sem prazo prefixado.",
+"Correta.",
+"Podem ser imediatas.",
+"Independem."
+],
+"e": "Medidas protetivas."
+},
+{
+"p": "O crime de descumprimento de medida protetiva (art. 24-A)",
+"alts": [
+"é punido com detenção de 3 meses a 2 anos",
+"admite fiança arbitrada pelo delegado",
+"é punido com reclusão de 2 a 5 anos, e só o juiz pode conceder fiança",
+"só se configura se a medida foi deferida por juiz criminal",
+"é de menor potencial ofensivo"
+],
+"r": 2,
+"x": "Lei 14.994/2024.",
+"n": [
+"Pena antiga.",
+"Só o juiz.",
+"Correta.",
+"Independe (§ 1º).",
+"Não é."
+],
+"e": "Art. 24-A."
+},
+{
+"p": "Assinale a alternativa que contém uma forma de violência incluída na Lei Maria da Penha em 2026.",
+"alts": [
+"violência moral",
+"violência patrimonial",
+"violência vicária",
+"violência sexual",
+"violência psicológica"
+],
+"r": 2,
+"x": "Lei 15.384/2026.",
+"n": [
+"Original.",
+"Original.",
+"Correta.",
+"Original.",
+"Original."
+],
+"e": "Vicária."
+},
+{
+"p": "Na Lei Maria da Penha, a retratação da representação",
+"alts": [
+"pode ser feita na delegacia",
+"é possível até a sentença",
+"ocorre perante o juiz, em audiência designada a pedido da mulher, antes do recebimento da denúncia",
+"é proibida em qualquer hipótese",
+"depende de concordância do agressor"
+],
+"r": 2,
+"x": "Art. 16 e Lei 15.380/2026.",
+"n": [
+"Perante o juiz.",
+"Até o recebimento da denúncia.",
+"Correta.",
+"É possível.",
+"Não."
+],
+"e": "Retratação."
+},
+{
+"p": "Nos crimes de violência doméstica e familiar contra a mulher, é cabível",
+"alts": [
+"a transação penal",
+"a suspensão condicional do processo",
+"o acordo de não persecução penal",
+"a pena de cesta básica",
+"a suspensão condicional da pena (sursis), preenchidos os requisitos"
+],
+"r": 4,
+"x": "Súmula 536; art. 17; CPP, art. 28-A.",
+"n": [
+"Súmula 536.",
+"Súmula 536.",
+"Vedado pelo CPP.",
+"Art. 17.",
+"Correta."
+],
+"e": "Vedações."
+},
+{
+"p": "Maria, vítima de lesão corporal leve praticada pelo ex-marido, procura a delegacia e diz que não quer processar o agressor. A ação penal",
+"alts": [
+"depende de representação, que não foi oferecida",
+"é pública incondicionada, prosseguindo independentemente da vontade da vítima",
+"é privada",
+"foi extinta pela renúncia",
+"depende de audiência de conciliação"
+],
+"r": 1,
+"x": "ADI 4.424; Súmula 542.",
+"n": [
+"Incondicionada.",
+"Correta.",
+"Não.",
+"Não há renúncia.",
+"Não."
+],
+"e": "Lesão."
+},
+{
+"p": "Quanto ao prazo para representação nos crimes de violência doméstica contra a mulher, após a Lei 15.438/2026, é correto afirmar que é de",
+"alts": [
+"6 meses, contados do fato",
+"6 meses, contados do conhecimento da autoria",
+"12 meses, contados do dia em que a ofendida soube quem é o autor",
+"2 anos",
+"30 dias"
+],
+"r": 2,
+"x": "CP, art. 103, parágrafo único.",
+"n": [
+"Regra geral antiga.",
+"Regra geral.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Decadência."
+},
+{
+"p": "Após o atendimento da vítima, o delegado deve remeter ao juiz o pedido de medidas protetivas no prazo de",
+"alts": [
+"24 horas",
+"48 horas",
+"72 horas",
+"5 dias",
+"10 dias"
+],
+"r": 1,
+"x": "Art. 12, III.",
+"n": [
+"Prazo do 12-C.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Prazo."
+},
+{
+"p": "Sobre a monitoração eletrônica do agressor (Lei 15.383/2026), é correto afirmar:",
+"alts": [
+"só pode ser determinada após a condenação",
+"tem prioridade em caso de descumprimento anterior ou risco iminente, com alerta simultâneo à vítima e à polícia",
+"é vedada em município sem comarca",
+"substitui a prisão preventiva em todos os casos",
+"não pode ser determinada pelo delegado em hipótese alguma"
+],
+"r": 1,
+"x": "Art. 22, VIII e §§ 6º a 8º; art. 12-D.",
+"n": [
+"É medida protetiva.",
+"Correta.",
+"O delegado pode determinar.",
+"Não.",
+"Pode, sem comarca."
+],
+"e": "Monitoração."
+},
+{
+"p": "É súmula do STJ sobre a Lei Maria da Penha:",
+"alts": [
+"\"a lesão corporal leve depende de representação\"",
+"\"é inaplicável o princípio da insignificância nos crimes ou contravenções contra a mulher no âmbito doméstico\"",
+"\"exige-se coabitação\"",
+"\"cabe transação penal nas contravenções\"",
+"\"a substituição por restritivas é sempre cabível\""
+],
+"r": 1,
+"x": "Súmula 589.",
+"n": [
+"Súmula 542 diz o contrário.",
+"Correta.",
+"Súmula 600 diz o contrário.",
+"Súmula 536.",
+"Súmula 588."
+],
+"e": "Súmulas."
+},
+{
+"p": "São medidas que obrigam o agressor, previstas no art. 22 da Lei Maria da Penha, EXCETO:",
+"alts": [
+"suspensão da posse de armas",
+"afastamento do lar",
+"proibição de contato com a ofendida",
+"comparecimento a programas de reeducação",
+"matrícula dos dependentes da ofendida em escola próxima"
+],
+"r": 4,
+"x": "Art. 23, V.",
+"n": [
+"Art. 22, I.",
+"Art. 22, II.",
+"Art. 22, III.",
+"Art. 22, VI.",
+"Correta: é medida em favor da ofendida."
+],
+"e": "Art. 22."
+},
+{
+"p": "Assinale a alternativa correta sobre o atendimento policial à mulher em situação de violência.",
+"alts": [
+"a mulher deve ser acareada com o agressor",
+"deve-se garantir que a mulher não tenha contato direto com investigados e evitar inquirições sucessivas",
+"o atendimento deve ser feito por servidor do sexo masculino",
+"perguntas sobre a vida sexual pregressa são obrigatórias",
+"a ofendida deve entregar a intimação ao agressor"
+],
+"r": 1,
+"x": "Art. 10-A.",
+"n": [
+"Contraria a lei.",
+"Correta.",
+"Preferencialmente feminino.",
+"Vedadas.",
+"Vedado."
+],
+"e": "Atendimento."
+},
+{
+"p": "Nos crimes de violência doméstica contra a mulher, a prisão em flagrante do agressor resulta, em regra, em",
+"alts": [
+"termo circunstanciado, nos crimes de menor potencial",
+"auto de prisão em flagrante, pois não se aplica a Lei 9.099/1995",
+"liberação imediata mediante compromisso",
+"composição civil",
+"transação na delegacia"
+],
+"r": 1,
+"x": "Art. 41.",
+"n": [
+"Não se lavra TC.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Flagrante."
+},
+{
+"p": "O STF, ao julgar a ADI 6.138, decidiu que",
+"alts": [
+"só o juiz pode afastar o agressor",
+"é constitucional o afastamento do agressor pelo delegado ou pelo policial, nas hipóteses do art. 12-C",
+"a Lei Maria da Penha é inconstitucional",
+"a lesão leve depende de representação",
+"as medidas protetivas exigem inquérito"
+],
+"r": 1,
+"x": "Art. 12-C.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"ADI 4.424 diz o contrário.",
+"Não."
+],
+"e": "ADI 6.138."
+},
+{
+"p": "A divulgação de fotos íntimas da ex-namorada por vingança, em grupo de mensagens, configura",
+"alts": [
+"fato atípico",
+"apenas injúria",
+"crime do art. 218-C do CP, com aumento por relação íntima de afeto ou finalidade de vingança",
+"estupro virtual",
+"violência patrimonial apenas"
+],
+"r": 2,
+"x": "CP, art. 218-C, § 1º.",
+"n": [
+"É crime.",
+"Há crime específico.",
+"Correta.",
+"Não.",
+"É violência psicológica e moral."
+],
+"e": "Divulgação."
+},
 {
 "p": "A configuração da violência doméstica e familiar contra a mulher no âmbito de relação íntima de afeto independe de coabitação.",
 "c": true,
@@ -17287,11 +19428,723 @@ export const PROFUNDO = {
 "x": "A violência patrimonial inclui retenção, subtração ou destruição de objetos, instrumentos de trabalho e documentos pessoais da mulher.",
 "e": "Patrimonial."
 }
-]
+],
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5</b><span>formas de violência (física, psicológica, sexual, patrimonial e moral)</span></div><div class=\"lt-stat\"><b>48 h</b><span>para remeter ao juiz o pedido de medidas protetivas</span></div><div class=\"lt-stat\"><b>24 h</b><span>para comunicar ao juiz o afastamento do lar feito pelo Delegado ou policial</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão por descumprir medida protetiva (art. 24-A)</span></div></div>\n<h3>1. Quando se aplica</h3>\n<ul><li><b>Violência doméstica e familiar contra a mulher</b>: ação ou omissão <b>baseada no gênero</b> que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial (art. 5º), no âmbito: (I) da <b>unidade doméstica</b> (inclusive pessoas esporadicamente agregadas); (II) da <b>família</b>; (III) de <b>relação íntima de afeto</b>, <b>independentemente de coabitação</b>.</li><li>O <b>sujeito ativo</b> pode ser homem ou <b>mulher</b> (ex.: relação homoafetiva, mãe e filha). A vítima é <b>mulher</b>, inclusive <b>mulher trans</b> (STJ, REsp 1.977.124).</li><li>As relações independem de <b>orientação sexual</b> (art. 5º, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma (art. 7º)</th><th>Exemplos</th></tr></thead><tbody><tr><td>Física</td><td>agressões, empurrões, lesões</td></tr><tr><td><b>Psicológica</b></td><td>ameaça, humilhação, <b>controle</b>, vigilância, isolamento, manipulação</td></tr><tr><td>Sexual</td><td>forçar relação, impedir uso de contraceptivo, forçar aborto ou prostituição</td></tr><tr><td><b>Patrimonial</b></td><td>reter, subtrair ou <b>destruir</b> objetos, documentos, instrumentos de trabalho</td></tr><tr><td><b>Moral</b></td><td><b>calúnia, difamação ou injúria</b></td></tr></tbody></table>\n<h3>2. A atuação da polícia (arts. 10 a 12-C)</h3>\n<ul><li>Atendimento policial e pericial <b>especializado</b>, ininterrupto, preferencialmente por <b>servidoras do sexo feminino</b>, evitando a <b>revitimização</b> (perguntas repetidas e contato com o agressor).</li><li>A autoridade policial deve: registrar a ocorrência e ouvir a vítima; colher provas; <b>remeter ao juiz, em 48 horas</b>, o pedido de <b>medidas protetivas</b>; determinar exames periciais; ouvir o agressor; verificar se ele tem <b>arma</b> e comunicar o órgão competente; remeter o inquérito.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 12-C (afastamento do lar pela polícia)</div><div class=\"art-lei\">Verificado risco atual ou iminente à vida ou à integridade da mulher, o agressor será imediatamente afastado do lar: I – pela autoridade judicial; II – pelo Delegado de Polícia, quando o Município não for sede de comarca; III – pelo policial, quando o Município não for sede de comarca e não houver Delegado disponível no momento da denúncia.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>É uma das poucas medidas que a <b>polícia</b> aplica diretamente.</li><li>A ordem é <b>escalonada</b>: juiz → Delegado (sem comarca) → policial (sem comarca e sem Delegado).</li><li>O juiz deve ser comunicado em <b>24 horas</b> e decide sobre a manutenção.</li><li>Nesses casos, <b>não se concede liberdade provisória</b> ao preso enquanto houver risco à vítima ou à efetividade da medida.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer que o Delegado pode afastar o agressor em qualquer município.</li><li>Dizer que o policial pode afastar mesmo havendo Delegado disponível.</li></ul></div></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Medidas protetivas e consequências penais</h3>\n<ul><li><b>Providências imediatas da polícia</b> (art. 11): garantir <b>proteção policial</b>, comunicando de imediato o MP e o Judiciário; <b>encaminhar</b> a ofendida ao hospital, posto de saúde e IML; fornecer <b>transporte</b> para ela e os dependentes até <b>abrigo</b> ou local seguro, quando houver risco de vida; <b>acompanhá-la</b> para retirar seus pertences do domicílio; <b>informá-la</b> dos seus direitos. A ofendida <b>não pode entregar</b> intimação ou notificação ao agressor (art. 21, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Medidas que obrigam o agressor (art. 22)</th><th>Medidas em favor da ofendida (arts. 23 e 24)</th></tr></thead><tbody><tr><td><b>suspensão da posse ou restrição do porte</b> de armas</td><td>encaminhamento a programa de <b>proteção</b> ou de atendimento</td></tr><tr><td><b>afastamento do lar</b></td><td><b>recondução</b> ao domicílio após o afastamento do agressor</td></tr><tr><td><b>proibição de aproximação</b> da ofendida, familiares e testemunhas, <b>fixando o limite mínimo de distância</b></td><td>afastamento da ofendida do lar, sem prejuízo de seus direitos</td></tr><tr><td>proibição de <b>contato</b> por qualquer meio de comunicação</td><td>matrícula dos dependentes em escola próxima</td></tr><tr><td>proibição de <b>frequentar</b> determinados lugares</td><td><b>restituição de bens</b> indevidamente subtraídos pelo agressor</td></tr><tr><td>restrição ou suspensão de <b>visitas</b> aos dependentes</td><td>proibição temporária de atos e contratos de compra, venda e locação de bens comuns</td></tr><tr><td><b>alimentos</b> provisionais; comparecimento a programas de <b>recuperação</b>; acompanhamento psicossocial</td><td>prestação de <b>caução</b> provisória por perdas e danos</td></tr></tbody></table>\n<ul><li><b>Juizados de Violência Doméstica e Familiar contra a Mulher</b> (art. 14): órgãos da Justiça Ordinária com competência <b>cível e criminal</b>, para processar, julgar e executar as causas decorrentes desses casos. Enquanto não instalados, as varas criminais acumulam essa competência (art. 33).</li><li><b>Prisão preventiva</b> (art. 20): cabe <b>em qualquer fase</b> do inquérito ou da instrução, a requerimento do MP ou mediante <b>representação da autoridade policial</b> (após o Pacote Anticrime, o juiz não a decreta de ofício). O descumprimento de medida protetiva também autoriza a preventiva (CPP, art. 313, III).</li><li>As medidas são concedidas pelo <b>juiz</b> em <b>48 horas</b>, a pedido da vítima ou do MP, e <b>independem</b> de tipificação penal, de ajuizamento de ação, de inquérito ou de registro de ocorrência (art. 19, § 5º, Lei 14.550/2023). Vigoram <b>enquanto houver risco</b>.</li><li><b>Descumprir medida protetiva</b> (art. 24-A): <b>reclusão de 2 a 5 anos</b> (Lei 14.994/2024). Na prisão em flagrante, <b>só o juiz</b> concede fiança.</li><li><b>Não se aplica a Lei 9.099</b> (art. 41): sem transação penal nem suspensão condicional do processo (Súmula 536 STJ).</li><li><b>Lesão corporal</b> (mesmo leve) contra a mulher em contexto doméstico: <b>ação penal pública incondicionada</b> (Súmula 542 STJ e ADI 4.424). Já a <b>ameaça</b> depende de representação, e a <b>renúncia</b> só vale perante o <b>juiz</b>, em audiência, antes do recebimento da denúncia (art. 16).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 600</b><p class=\"jc-tese\">Para a configuração da violência doméstica e familiar prevista no art. 5º da Lei 11.340/2006, não se exige a coabitação entre autor e vítima.</p><p class=\"jc-com\">Ex-namorado que agride a ex-companheira por inconformismo com o fim da relação está alcançado pela lei.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmulas 588 e 589</b><p class=\"jc-tese\">É inviável a substituição da pena privativa de liberdade por restritiva de direitos em crimes ou contravenções com violência ou grave ameaça contra a mulher no ambiente doméstico (588); e é inaplicável o princípio da insignificância nesses crimes (589).</p><p class=\"jc-com\">Também é vedada a aplicação isolada de pena de cesta básica ou prestação pecuniária (art. 17 da Lei).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A lei só se aplica se o casal morar junto</span><br>✅ <span class=\"certo\">Independe de coabitação (Súmula 600).</span></li><li>❌ <span class=\"banca\">O agressor precisa ser homem</span><br>✅ <span class=\"certo\">Sujeito ativo pode ser mulher; a vítima é mulher.</span></li><li>❌ <span class=\"banca\">Lesão leve contra a mulher depende de representação</span><br>✅ <span class=\"certo\">Ação pública incondicionada (Súmula 542).</span></li><li>❌ <span class=\"banca\">Cabe transação penal em violência doméstica</span><br>✅ <span class=\"certo\">A Lei 9.099 não se aplica (art. 41; Súmula 536).</span></li><li>❌ <span class=\"banca\">Medida protetiva exige boletim de ocorrência</span><br>✅ <span class=\"certo\">Independe de BO, inquérito ou ação (art. 19, § 5º).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Formas de violência?</span></span><span class=\"vs\"><span><b>Física, psicológica, sexual, patrimonial e moral</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo para remeter pedido de medida protetiva?</span></span><span class=\"vs\"><span><b>48 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento do lar pela polícia?</span></span><span class=\"vs\"><span><b>Delegado</b> (município sem comarca) ou <b>policial</b> (sem comarca e sem Delegado); juiz comunicado em <b>24 h</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Descumprir medida protetiva?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 5 anos</b>; fiança só pelo <b>juiz</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lesão leve doméstica?</span></span><span class=\"vs\"><span>Ação <b>pública incondicionada</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 9.099?</span></span><span class=\"vs\"><span><b>Não se aplica</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A cidade sem comarca</b><p>Em um pequeno município mineiro que não é sede de comarca, a vítima chega à delegacia relatando que o marido ameaça matá-la com uma faca. O Delegado está presente.</p><details><summary>Ver a solução comentada</summary><p>Havendo risco atual ou iminente, o <b>Delegado</b> pode determinar o <b>afastamento imediato do agressor do lar</b> (art. 12-C, II), comunicando o juiz em <b>24 horas</b>. Deve ainda remeter o pedido de outras medidas protetivas em 48 horas, verificar se o agressor tem arma e registrar a ameaça (que depende de representação; a renúncia só perante o juiz).</p></details></div>"
 },
 "orcrim": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>pessoas, no mínimo, para organização criminosa</span></div><div class=\"lt-stat\"><b>> 4 anos</b><span>pena máxima das infrações visadas (ou caráter transnacional)</span></div><div class=\"lt-stat\"><b>3 a 8</b><span>anos de reclusão (art. 2º)</span></div><div class=\"lt-stat\"><b>6 meses</b><span>prazo da infiltração, renovável (virtual: até 720 dias no total)</span></div></div>\n<h3>1. Conceito (art. 1º, § 1º)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 1º, § 1º</div><div class=\"art-lei\">Considera-se organização criminosa a associação de 4 ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais cujas penas máximas sejam superiores a 4 anos, ou que sejam de caráter transnacional.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>4 ou mais</b> pessoas (na associação criminosa do CP, art. 288, são <b>3 ou mais</b>).</li><li><b>Estrutura ordenada</b> + <b>divisão de tarefas</b> (mesmo informal).</li><li>Infrações com pena máxima <b>superior a 4 anos</b> <b>ou</b> de caráter <b>transnacional</b>.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer \"3 pessoas\".</li><li>Dizer \"pena máxima igual ou superior a 4 anos\" (é SUPERIOR).</li><li>Exigir divisão formal de tarefas.</li></ul></div></div>\n<ul><li><b>Promover, constituir, financiar ou integrar</b> organização criminosa: <b>reclusão de 3 a 8 anos</b>, sem prejuízo das penas das infrações praticadas (art. 2º). <b>Embaraçar a investigação</b> tem a mesma pena (§ 1º).</li><li>Aumento até a <b>metade</b> se houver emprego de <b>arma de fogo</b>; agravante para quem exerce o <b>comando</b>. Aumento de 1/6 a 2/3 se houver criança ou adolescente, funcionário público que se vale do cargo, produto destinado ao exterior, conexão com outras organizações ou transnacionalidade.</li><li><b>Funcionário público</b> condenado: <b>perda do cargo</b> e <b>interdição</b> para função pública por <b>8 anos</b> após o cumprimento da pena. Lideranças armadas iniciam a pena em <b>estabelecimento de segurança máxima</b>.</li></ul>\n<h3>2. Meios de obtenção de prova (art. 3º)</h3>\n<ul><li><b>Colaboração premiada</b>; <b>captação ambiental</b>; <b>ação controlada</b>; acesso a registros e dados cadastrais; <b>interceptação</b>; quebra de sigilos financeiro, bancário e fiscal; <b>infiltração</b> de agentes; cooperação entre órgãos.</li><li>O <b>Delegado</b> pode <b>requisitar diretamente</b> dados cadastrais (qualificação, filiação e endereço) a Justiça Eleitoral, empresas telefônicas, bancos, provedores e administradoras de cartão (art. 15).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Colaboração premiada</h3>\n<ul><li><b>Negócio jurídico processual</b> e meio de obtenção de prova (art. 3º-A). Pode ser celebrada pelo <b>Delegado</b>, nos autos do inquérito, com manifestação do MP, ou pelo MP (STF, ADI 5.508). O juiz <b>não participa</b> das negociações; ele <b>homologa</b> (regularidade, legalidade e voluntariedade).</li><li><b>Benefícios</b>: perdão judicial, redução de até <b>2/3</b> da pena ou substituição por restritiva de direitos; se posterior à sentença, redução até a metade ou progressão sem os requisitos objetivos.</li><li><b>Resultados</b> exigidos (um ou mais): identificar coautores e crimes; revelar a estrutura; prevenir infrações; <b>recuperar o produto</b> do crime; <b>localizar a vítima</b> com integridade física preservada.</li><li>Garantias: <b>nenhuma sentença condenatória</b>, nem <b>medida cautelar</b>, nem <b>recebimento de denúncia</b> pode se basear <b>apenas</b> nas declarações do colaborador (art. 4º, § 16).</li></ul>\n<h3>4. Ação controlada e infiltração</h3>\n<table class=\"tab\"><thead><tr><th>Instituto</th><th>Regra na Lei 12.850</th></tr></thead><tbody><tr><td><b>Ação controlada</b></td><td>retardar a intervenção policial para o momento mais eficaz; exige só <b>comunicação prévia ao juiz</b>, que pode estabelecer limites (art. 8º)</td></tr><tr><td><b>Infiltração de agentes</b></td><td><b>autorização judicial</b> circunstanciada e sigilosa; a pedido do <b>Delegado</b> (com manifestação do MP) ou do MP; prazo de <b>até 6 meses</b>, renovável; só se a prova <b>não puder ser produzida por outros meios</b></td></tr><tr><td><b>Infiltração virtual</b> (art. 10-A)</td><td>até 6 meses, renovável, <b>até 720 dias</b> no total</td></tr><tr><td>Responsabilidade do infiltrado</td><td>não é punível o crime cometido na infiltração quando <b>inexigível conduta diversa</b>; responde pelos excessos</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 5.508</b><p class=\"jc-tese\">O Delegado de Polícia pode formalizar acordo de colaboração premiada na fase de inquérito, respeitadas as prerrogativas do MP, que deve se manifestar, cabendo ao juiz a homologação.</p><p class=\"jc-com\">A PCMG pode conduzir acordos de colaboração em investigações de facções, desde que o MP seja ouvido.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Organização criminosa exige 3 pessoas</span><br>✅ <span class=\"certo\">São 4 ou mais (associação criminosa do CP é que tem 3).</span></li><li>❌ <span class=\"banca\">Pena máxima igual a 4 anos basta</span><br>✅ <span class=\"certo\">Tem que ser SUPERIOR a 4 anos, ou transnacional.</span></li><li>❌ <span class=\"banca\">Ação controlada exige autorização judicial</span><br>✅ <span class=\"certo\">Na Lei 12.850, só comunicação prévia ao juiz.</span></li><li>❌ <span class=\"banca\">O juiz participa da negociação da colaboração</span><br>✅ <span class=\"certo\">O juiz não participa; só homologa.</span></li><li>❌ <span class=\"banca\">O juiz pode condenar só com a palavra do colaborador</span><br>✅ <span class=\"certo\">Vedado (art. 4º, § 16).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Organização criminosa?</span></span><span class=\"vs\"><span><b>4+</b> pessoas, estrutura, divisão de tarefas, infrações com pena máx. <b>> 4 anos</b> ou transnacionais.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena do art. 2º?</span></span><span class=\"vs\"><span><b>Reclusão de 3 a 8 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação controlada (Lei 12.850)?</span></span><span class=\"vs\"><span><b>Comunicação</b> prévia ao juiz.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infiltração?</span></span><span class=\"vs\"><span><b>Autorização judicial</b>; até <b>6 meses</b> renováveis.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem celebra colaboração?</span></span><span class=\"vs\"><span><b>MP</b> ou <b>Delegado</b> (com manifestação do MP).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Palavra do colaborador sozinha?</span></span><span class=\"vs\"><span><b>Não</b> basta para condenar, prender ou receber denúncia.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A facção do bairro</b><p>Uma investigação revela que 5 pessoas, com funções definidas (gerente, olheiros, \"vapores\"), vendem drogas e cometem roubos em um bairro de Contagem.</p><details><summary>Ver a solução comentada</summary><p>Há <b>organização criminosa</b> (4+ pessoas, estrutura e divisão de tarefas, crimes com pena máxima superior a 4 anos) em <b>concurso material</b> com os crimes praticados (tráfico, roubos). A associação para o tráfico (art. 35 da Lei de Drogas) também pode ser analisada, conforme o caso, evitando-se bis in idem.</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>ou mais pessoas: número mínimo para a organização criminosa da Lei 12.850/2013 (no art. 288 do CP, bastam 3)</span></div><div class=\"lt-stat\"><b>3 a 8</b><span>anos de reclusão: pena de quem promove, constitui, financia ou integra organização criminosa (art. 2º)</span></div><div class=\"lt-stat\"><b>2/3</b><span>redução máxima da pena do colaborador, além do perdão judicial (art. 4º)</span></div><div class=\"lt-stat\"><b>720</b><span>dias: prazo máximo total da infiltração virtual de agentes (art. 10-A, § 4º)</span></div></div>\n<h3>1. A Lei 12.850/2013 e o enfrentamento do crime organizado</h3>\n<ul><li>A <b>Lei 12.850, de 2 de agosto de 2013</b>, define <b>organização criminosa</b>, tipifica o crime de <b>promover, constituir, financiar ou integrar</b> organização criminosa, e disciplina a <b>investigação criminal</b>, os <b>meios de obtenção da prova</b>, as <b>infrações penais correlatas</b> e o <b>procedimento</b> criminal.</li><li>Antes dela, o Brasil não tinha um conceito legal completo de organização criminosa: a Lei 9.034/1995 falava em \"organizações criminosas\" sem defini-las, e o STF chegou a afirmar que não se podia usar o conceito da <b>Convenção de Palermo</b> (Decreto 5.015/2004) para tipificar condutas, por exigência de <b>lei</b> em sentido estrito. A Lei 12.694/2012 trouxe um conceito apenas para fins de julgamento colegiado. A Lei 12.850 resolveu o problema.</li><li>A lei foi profundamente alterada pelo <b>Pacote Anticrime</b> (Lei 13.964/2019), que detalhou a <b>colaboração premiada</b> e criou a <b>infiltração virtual</b>, e recebeu novos crimes em <b>2025</b> (Lei 15.245, obstrução de ações contra o crime organizado). Em <b>2026</b>, a <b>Lei 15.358</b> (Lei Antifacção) criou, ao lado da Lei 12.850, o marco legal de combate às <b>organizações criminosas ultraviolentas</b>, com o crime de <b>domínio social estruturado</b>, aplicando a essas organizações, no que couber, os meios de prova da Lei 12.850.</li></ul>\n<h3>2. Conceito de organização criminosa: art. 1º, § 1º</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 12.850/2013, art. 1º, § 1º</div><div class=\"art-lei\">Considera-se organização criminosa a associação de 4 ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais cujas penas máximas sejam superiores a 4 anos, ou que sejam de caráter transnacional.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>4 ou mais</b> pessoas</li><li><b>Estrutura ordenada</b> (hierarquia, organização)</li><li><b>Divisão de tarefas</b>, ainda que <b>informal</b></li><li>Objetivo de <b>vantagem de qualquer natureza</b> (não só econômica)</li><li>Infrações com <b>pena máxima superior a 4 anos</b> <b>ou</b> de caráter <b>transnacional</b></li><li>\"Infrações penais\" inclui <b>contravenções</b> de caráter transnacional</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca troca \"4\" por \"3\"</li><li>A banca diz \"pena máxima igual ou superior a 4 anos\"</li><li>A banca exige vantagem econômica</li></ul></div></div>\n<ul><li><b>§ 2º</b>: a lei se aplica também: I, às infrações penais previstas em <b>tratado ou convenção internacional</b> quando, iniciada a execução no País, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente; II, às <b>organizações terroristas</b>, entendidas como aquelas voltadas para a prática dos atos de terrorismo legalmente definidos (Lei 13.260/2016).</li></ul>\n<table class=\"tab\"><thead><tr><th>Figura</th><th>Número mínimo</th><th>Outras exigências</th><th>Dispositivo</th></tr></thead><tbody><tr><td><b>Organização criminosa</b></td><td><b>4</b> pessoas</td><td>estrutura ordenada, divisão de tarefas, crimes com pena máxima <b>> 4 anos</b> ou transnacionais</td><td>Lei 12.850, art. 1º, § 1º</td></tr><tr><td><b>Associação criminosa</b></td><td><b>3</b> pessoas</td><td>fim específico de cometer <b>crimes</b> (qualquer pena)</td><td>CP, art. 288</td></tr><tr><td><b>Associação para o tráfico</b></td><td><b>2</b> pessoas</td><td>estabilidade, para os crimes dos arts. 33 e 34 da Lei de Drogas</td><td>Lei 11.343, art. 35</td></tr><tr><td><b>Milícia privada</b></td><td>a lei não fixa (doutrina: 3 ou mais)</td><td>organização paramilitar, milícia, grupo ou esquadrão para praticar crimes do CP</td><td>CP, art. 288-A</td></tr><tr><td><b>Organização criminosa ultraviolenta</b></td><td><b>3</b> pessoas</td><td>emprego de violência, grave ameaça ou coação para impor controle territorial ou social</td><td>Lei 15.358/2026, art. 2º, § 2º</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para não errar o número de pessoas: <b>D</b>rogas = <b>2</b> (Dois), <b>A</b>ssociação criminosa = <b>3</b>, <b>O</b>rganização criminosa = <b>4</b>. E guarde a exceção nova: a organização <b>ultraviolenta</b> da Lei Antifacção exige <b>3</b>.</div>\n<h3>3. O crime de organização criminosa: art. 2º</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 12.850/2013, art. 2º</div><div class=\"art-lei\">Promover, constituir, financiar ou integrar, pessoalmente ou por interposta pessoa, organização criminosa. Pena: reclusão, de 3 a 8 anos, e multa, sem prejuízo das penas correspondentes às demais infrações penais praticadas.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Quatro verbos: <b>promover</b>, <b>constituir</b>, <b>financiar</b>, <b>integrar</b></li><li><b>Pessoalmente ou por interposta pessoa</b> (o \"laranja\" também pode responder)</li><li>Crime <b>autônomo</b>, <b>formal</b> e <b>permanente</b>: consuma-se com a integração, independentemente da prática dos crimes visados</li><li><b>Concurso material</b> com os crimes praticados pela organização (\"sem prejuízo das penas correspondentes\")</li><li>Hediondo <b>se</b> a organização for voltada a crime hediondo ou equiparado (Lei 8.072, art. 1º, parágrafo único, V)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que o crime só se consuma com a prática do primeiro crime-fim</li><li>A banca diz que a organização absorve os crimes praticados</li></ul></div></div>\n<ul><li><b>§ 1º</b>: nas mesmas penas incorre quem <b>impede</b> ou, de qualquer forma, <b>embaraça</b> a investigação de infração penal que envolva organização criminosa. A <b>Lei 15.245/2025</b> ajustou esse dispositivo para deixar expresso que a pena se aplica salvo se o fato constituir crime mais grave. O STJ entende que o tipo abrange tanto a fase de <b>inquérito</b> quanto a <b>ação penal</b>.</li><li><b>§ 2º</b>: as penas aumentam-se <b>até a metade</b> se, na atuação da organização, houver <b>emprego de arma de fogo</b>.</li><li><b>§ 3º</b>: a pena é <b>agravada</b> para quem exerce o <b>comando</b>, individual ou coletivo, da organização, ainda que não pratique pessoalmente atos de execução.</li><li><b>§ 4º</b>: a pena é aumentada de <b>1/6 a 2/3</b>: I, se há participação de <b>criança ou adolescente</b>; II, se há concurso de <b>funcionário público</b>, valendo-se a organização dessa condição para a prática de infração penal; III, se o produto ou proveito da infração destinar-se, no todo ou em parte, ao <b>exterior</b>; IV, se a organização mantém <b>conexão</b> com outras organizações criminosas independentes; V, se as circunstâncias do fato evidenciarem a <b>transnacionalidade</b>.</li></ul>\n<h3>4. Demais parágrafos do art. 2º: servidores, policiais e execução</h3>\n<ul><li><b>§ 5º</b>: se houver indícios suficientes de que o <b>funcionário público</b> integra organização criminosa, poderá o juiz determinar seu <b>afastamento cautelar</b> do cargo, emprego ou função, <b>sem prejuízo da remuneração</b>, quando a medida se fizer necessária à investigação ou instrução processual.</li><li><b>§ 6º</b>: a condenação com trânsito em julgado acarretará ao funcionário público a <b>perda do cargo</b>, função, emprego ou mandato eletivo e a <b>interdição</b> para o exercício de função ou cargo público pelo prazo de <b>8 anos</b> subsequentes ao cumprimento da pena. É efeito <b>automático</b> da condenação (não precisa ser motivado na sentença, segundo a doutrina majoritária e o STJ).</li><li><b>§ 7º</b>: se houver indícios de participação de <b>policial</b> nos crimes desta lei, a <b>Corregedoria de Polícia</b> instaurará inquérito policial e comunicará ao <b>Ministério Público</b>, que designará membro para acompanhar o feito até a sua conclusão.</li><li><b>§ 8º</b> (Pacote Anticrime): as <b>lideranças</b> de organizações criminosas <b>armadas</b> ou que tenham armas à disposição deverão iniciar o cumprimento da pena em <b>estabelecimentos penais de segurança máxima</b>.</li><li><b>§ 9º</b> (Pacote Anticrime): o condenado expressamente em sentença por integrar organização criminosa ou por crime praticado por meio de organização criminosa <b>não poderá progredir de regime</b> de cumprimento de pena ou obter <b>livramento condicional</b> ou outros benefícios prisionais se houver elementos probatórios que indiquem a <b>manutenção do vínculo associativo</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O afastamento cautelar do servidor investigado por integrar organização criminosa é feito com suspensão da remuneração</span><br>✅ <span class=\"certo\">É <b>sem prejuízo</b> da remuneração (§ 5º)</span></li><li>❌ <span class=\"banca\">A interdição para cargo público após a condenação dura 5 anos</span><br>✅ <span class=\"certo\"><b>8 anos</b> subsequentes ao cumprimento da pena (§ 6º)</span></li><li>❌ <span class=\"banca\">Se houver indício de participação de policial, o próprio delegado do caso conduz o inquérito</span><br>✅ <span class=\"certo\">A <b>Corregedoria</b> instaura o inquérito e comunica o MP (§ 7º)</span></li></ol></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · organização criminosa e \"vínculo associativo\" (§ 9º)</b><p class=\"jc-tese\">O § 9º impede progressão e livramento quando houver <b>elementos probatórios</b> de que o condenado mantém o vínculo com a organização. A jurisprudência exige que esses elementos sejam <b>concretos</b> e <b>atuais</b> (por exemplo, interceptações de visitas, bilhetes apreendidos, informações de inteligência documentadas), e não a mera presunção decorrente da condenação.</p><p class=\"jc-com\">A regra é severa e tem sido questionada sob o prisma da individualização da pena, mas está em vigor. Para a prova, guarde que ela exige condenação <b>expressa</b> por integrar organização criminosa (ou crime praticado por meio dela) <b>e</b> prova de <b>manutenção</b> do vínculo.</p></div>\n<h3>5. Investigação e meios de obtenção da prova: art. 3º</h3>\n<ul><li><b>Art. 3º</b>: em qualquer fase da persecução penal, serão permitidos, <b>sem prejuízo de outros já previstos em lei</b>, os seguintes meios de obtenção da prova:</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Meio de obtenção da prova</th><th>Disciplina</th></tr></thead><tbody><tr><td>I</td><td><b>colaboração premiada</b></td><td>arts. 3º-A a 7º</td></tr><tr><td>II</td><td><b>captação ambiental</b> de sinais eletromagnéticos, ópticos ou acústicos</td><td>Lei 9.296/1996, art. 8º-A (Pacote Anticrime)</td></tr><tr><td>III</td><td><b>ação controlada</b></td><td>arts. 8º e 9º</td></tr><tr><td>IV</td><td><b>acesso a registros</b> de ligações telefônicas e telemáticas, a dados cadastrais constantes de bancos de dados públicos ou privados e a informações eleitorais ou comerciais</td><td>arts. 15 a 17</td></tr><tr><td>V</td><td><b>interceptação</b> de comunicações telefônicas e telemáticas</td><td>Lei 9.296/1996</td></tr><tr><td>VI</td><td><b>afastamento dos sigilos</b> financeiro, bancário e fiscal</td><td>LC 105/2001 e legislação específica</td></tr><tr><td>VII</td><td><b>infiltração</b>, por policiais, em atividade de investigação</td><td>arts. 10 a 14 (presencial) e 10-A a 10-D (virtual)</td></tr><tr><td>VIII</td><td><b>cooperação</b> entre instituições e órgãos federais, distritais, estaduais e municipais na busca de provas e informações de interesse da investigação ou da instrução criminal</td><td>art. 3º, § 1º e § 2º</td></tr></tbody></table>\n<ul><li>Atenção ao conceito: são <b>meios de obtenção de prova</b> (técnicas de investigação), e não provas em si. A colaboração premiada, por exemplo, é negócio jurídico processual que leva à obtenção de provas; as declarações do colaborador, isoladamente, não bastam para condenar.</li></ul>\n<h3>6. Colaboração premiada: natureza e negociação (arts. 3º-A a 3º-C)</h3>\n<ul><li><b>Art. 3º-A</b> (Pacote Anticrime): o acordo de colaboração premiada é <b>negócio jurídico processual</b> e <b>meio de obtenção de prova</b>, que pressupõe <b>utilidade</b> e <b>interesse públicos</b>.</li><li><b>Art. 3º-B</b>: o recebimento da proposta para formalização de acordo de colaboração demarca o <b>início das negociações</b> e constitui marco de <b>confidencialidade</b>, configurando violação de sigilo e quebra da confiança e da boa-fé a divulgação de tais tratativas iniciais ou de documento que as formalize, até o levantamento de sigilo por decisão judicial. A proposta pode ser <b>sumariamente indeferida</b>, com a devida justificativa, cientificando-se o interessado (§ 1º). Caso não haja indeferimento sumário, as partes devem firmar <b>Termo de Confidencialidade</b> (§ 2º). O recebimento de proposta <b>não implica</b>, por si só, a suspensão da investigação, ressalvado acordo em contrário quanto à propositura de medidas processuais (§ 3º).</li><li><b>Art. 3º-C</b>: a proposta de colaboração premiada deve estar instruída com <b>procuração</b> do interessado com poderes específicos para iniciar o procedimento de negociação, ou firmada pessoalmente pela parte que pretende a colaboração e seu advogado ou defensor público. <b>Nenhuma</b> tratativa sobre colaboração premiada deve ser realizada <b>sem a presença de advogado</b> constituído ou defensor público (§ 1º). Em caso de <b>conflito de interesses</b>, ou de colaborador hipossuficiente, o celebrante deverá solicitar a presença de outro advogado ou a participação de defensor público (§ 2º). No acordo, o colaborador deve narrar <b>todos os fatos ilícitos</b> para os quais concorreu e que tenham relação direta com os fatos investigados (§ 3º).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 5.508 (2018) · delegado pode celebrar colaboração</b><p class=\"jc-tese\">O STF decidiu que o <b>delegado de polícia</b> pode formalizar acordos de colaboração premiada na fase do <b>inquérito policial</b>, respeitadas as prerrogativas do MP, que deve se <b>manifestar</b> sobre o acordo, sem caráter vinculante, cabendo ao <b>juiz</b> a homologação.</p><p class=\"jc-com\">O art. 4º, §§ 2º e 6º, fala expressamente em \"delegado de polícia\" e \"Ministério Público\". O STF entendeu que a colaboração é <b>meio de obtenção de prova</b>, e a investigação é atribuição da polícia; o acordo não afasta a titularidade da ação penal do MP, que continuará decidindo se denuncia. O delegado, porém, não pode prometer ao colaborador benefícios que dependam do MP, como o <b>não oferecimento de denúncia</b>.</p></div>\n<h3>7. Colaboração premiada: requisitos, benefícios e resultados (art. 4º)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 12.850/2013, art. 4º, caput</div><div class=\"art-lei\">O juiz poderá, a requerimento das partes, conceder o perdão judicial, reduzir em até 2/3 a pena privativa de liberdade ou substituí-la por restritiva de direitos daquele que tenha colaborado efetiva e voluntariamente com a investigação e com o processo criminal, desde que dessa colaboração advenha um ou mais dos seguintes resultados: I, a identificação dos demais coautores e partícipes da organização criminosa e das infrações penais por eles praticadas; II, a revelação da estrutura hierárquica e da divisão de tarefas da organização criminosa; III, a prevenção de infrações penais decorrentes das atividades da organização criminosa; IV, a recuperação total ou parcial do produto ou do proveito das infrações penais praticadas pela organização criminosa; V, a localização de eventual vítima com a sua integridade física preservada.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Três benefícios: <b>perdão judicial</b>, redução de <b>até 2/3</b> ou <b>substituição</b> por restritiva</li><li>Colaboração <b>efetiva</b> e <b>voluntária</b> (não precisa ser espontânea)</li><li><b>Um ou mais</b> resultados (alternativos)</li><li>Requerimento <b>das partes</b></li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que os resultados são cumulativos</li><li>A banca troca \"voluntária\" por \"espontânea\"</li></ul></div></div>\n<ul><li><b>§ 1º</b>: em qualquer caso, a concessão do benefício levará em conta a <b>personalidade</b> do colaborador, a natureza, as circunstâncias, a gravidade e a repercussão social do fato criminoso e a <b>eficácia</b> da colaboração.</li><li><b>§ 2º</b>: considerando a relevância da colaboração prestada, o <b>MP</b>, a qualquer tempo, e o <b>delegado de polícia</b>, nos autos do inquérito policial, com a manifestação do MP, poderão requerer ou representar ao juiz pela concessão de <b>perdão judicial</b> ao colaborador, ainda que esse benefício não tenha sido previsto na proposta inicial, aplicando-se, no que couber, o art. 28 do CPP.</li><li><b>§ 3º</b>: o prazo para oferecimento de denúncia ou o processo, relativos ao colaborador, poderá ser <b>suspenso por até 6 meses</b>, prorrogáveis por igual período, até que sejam cumpridas as medidas de colaboração, suspendendo-se o respectivo prazo prescricional.</li><li><b>§ 4º (não oferecimento de denúncia)</b>: nas mesmas hipóteses do caput, o <b>MP</b> poderá deixar de oferecer denúncia se a proposta de acordo de colaboração referir-se a infração de cuja existência <b>não tenha prévio conhecimento</b> e o colaborador: I, <b>não for o líder</b> da organização criminosa; II, <b>for o primeiro</b> a prestar efetiva colaboração nos termos deste artigo. Considera-se existente o conhecimento prévio da infração quando o MP ou a autoridade policial competente tenha instaurado inquérito ou procedimento investigatório para apuração dos fatos apresentados pelo colaborador (§ 4º-A).</li><li><b>§ 5º (colaboração após a sentença)</b>: se a colaboração for posterior à sentença, a pena poderá ser <b>reduzida até a metade</b> ou será admitida a <b>progressão de regime</b> ainda que ausentes os requisitos objetivos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Momento da colaboração</th><th>Benefícios possíveis</th></tr></thead><tbody><tr><td>Antes da denúncia</td><td><b>não oferecimento</b> da denúncia (só pelo MP, requisitos do § 4º), perdão judicial, redução até 2/3, substituição</td></tr><tr><td>Durante o processo</td><td>perdão judicial, redução <b>até 2/3</b>, substituição por restritivas</td></tr><tr><td><b>Após a sentença</b></td><td>redução <b>até a metade</b> ou <b>progressão</b> ainda que ausentes os requisitos objetivos (§ 5º)</td></tr></tbody></table>\n<h3>8. Colaboração premiada: homologação, garantias e limites</h3>\n<ul><li><b>§ 6º</b>: o <b>juiz não participará</b> das negociações realizadas entre as partes para a formalização do acordo de colaboração, que ocorrerá entre o delegado de polícia, o investigado e o defensor, com a manifestação do MP, ou, conforme o caso, entre o MP e o investigado ou acusado e seu defensor.</li><li><b>§ 7º (homologação)</b>: realizado o acordo, serão remetidos ao juiz, para análise, o respectivo termo, as declarações do colaborador e cópia da investigação, devendo o juiz <b>ouvir sigilosamente o colaborador</b>, acompanhado de seu defensor, oportunidade em que analisará: I, <b>regularidade e legalidade</b>; II, <b>adequação dos benefícios</b> pactuados àqueles previstos no caput e nos §§ 4º e 5º, sendo <b>nulas</b> as cláusulas que violem o critério de definição do regime inicial (CP, art. 33) ou os requisitos de progressão (LEP, art. 112); III, <b>adequação dos resultados</b> da colaboração aos resultados mínimos exigidos; IV, <b>voluntariedade</b> da manifestação de vontade, especialmente nos casos em que o colaborador está ou esteve sob efeito de medidas cautelares.</li><li><b>§ 8º</b>: o juiz poderá <b>recusar a homologação</b> da proposta que não atender aos requisitos legais, devolvendo-a às partes para as adequações necessárias.</li><li><b>§ 10</b>: as partes podem <b>retratar-se</b> da proposta, caso em que as provas autoincriminatórias produzidas pelo colaborador <b>não poderão ser utilizadas exclusivamente em seu desfavor</b>.</li><li><b>§ 10-A</b>: em todas as fases do processo, deve-se garantir ao réu delatado a oportunidade de manifestar-se <b>após o decurso do prazo concedido ao réu que o delatou</b>. O STF já havia firmado esse entendimento (HC 166.373): o delatado tem o direito de apresentar <b>alegações finais depois</b> do delator.</li><li><b>§ 11</b>: a sentença apreciará os termos do acordo homologado e sua eficácia.</li><li><b>§ 12</b>: ainda que beneficiado por perdão judicial ou não denunciado, o colaborador poderá ser ouvido em juízo a requerimento das partes ou por iniciativa da autoridade judicial.</li><li><b>§ 14</b>: nos depoimentos que prestar, o colaborador <b>renunciará</b>, na presença de seu defensor, ao <b>direito ao silêncio</b> e estará sujeito ao <b>compromisso legal de dizer a verdade</b>.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 12.850/2013, art. 4º, § 16</div><div class=\"art-lei\">Nenhuma das seguintes medidas será decretada ou proferida com fundamento apenas nas declarações do colaborador: I, medidas cautelares reais ou pessoais; II, recebimento de denúncia ou queixa-crime; III, sentença condenatória.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Regra da <b>corroboração</b>: a palavra do colaborador precisa de <b>provas externas</b></li><li>Vale para <b>prisões</b>, <b>bloqueio de bens</b>, <b>recebimento da denúncia</b> e <b>condenação</b></li><li>Antes do Pacote, a lei só falava em sentença condenatória</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que a delação, se homologada, basta para a condenação</li><li>A banca diz que basta para decretar a preventiva</li></ul></div></div>\n<ul><li><b>§ 17</b>: o acordo homologado poderá ser <b>rescindido</b> em caso de <b>omissão dolosa</b> sobre os fatos objeto da colaboração. <b>§ 18</b>: o acordo pressupõe que o colaborador <b>cesse o envolvimento</b> em conduta ilícita relacionada ao objeto da colaboração, sob pena de rescisão.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · HC 127.483 e a natureza da colaboração</b><p class=\"jc-tese\">O STF (Plenário, 2015) definiu que a colaboração premiada é <b>negócio jurídico processual personalíssimo</b>, que não pode ser impugnado por <b>coautores</b> ou <b>partícipes</b> delatados, pois não os vincula; o delatado pode, sim, confrontar em juízo as <b>declarações</b> do colaborador e as provas produzidas.</p><p class=\"jc-com\">Além disso, a homologação judicial é juízo de <b>regularidade, legalidade e voluntariedade</b>, e não de mérito sobre a veracidade das declarações. Na sentença, o juiz avaliará a <b>eficácia</b> da colaboração para conceder os benefícios. Esse precedente foi incorporado pelo Pacote Anticrime (art. 3º-A).</p></div>\n<h3>9. Direitos do colaborador e sigilo: arts. 5º a 7º</h3>\n<ul><li><b>Art. 5º</b>: são direitos do colaborador: I, usufruir das <b>medidas de proteção</b> previstas na legislação específica (Lei 9.807/1999); II, ter <b>nome, qualificação, imagem</b> e demais informações pessoais <b>preservados</b>; III, ser conduzido, em juízo, <b>separadamente</b> dos demais coautores e partícipes; IV, participar das audiências <b>sem contato visual</b> com os outros acusados; V, <b>não ter sua identidade revelada</b> pelos meios de comunicação, nem ser fotografado ou filmado, sem sua prévia autorização por escrito; VI, <b>cumprir pena ou prisão cautelar</b> em estabelecimento penal <b>diverso</b> dos demais corréus ou condenados.</li><li><b>Art. 6º</b>: o termo de acordo será feito <b>por escrito</b> e conterá: o relato da colaboração e seus possíveis resultados; as condições da proposta; a declaração de aceitação do colaborador e de seu defensor; as assinaturas; e a especificação das medidas de proteção, quando necessário.</li><li><b>Art. 7º</b>: o pedido de homologação será <b>sigilosamente distribuído</b>, contendo apenas informações que não possam identificar o colaborador e o seu objeto. O acesso aos autos será restrito ao juiz, ao MP e ao delegado. O acordo e os depoimentos permanecerão em sigilo <b>até o recebimento da denúncia ou da queixa-crime</b>, sendo vedado ao magistrado decidir por sua publicidade em qualquer hipótese (§ 3º, Pacote Anticrime). Assegura-se ao defensor, no interesse do representado, <b>amplo acesso</b> aos elementos de prova que digam respeito ao exercício do direito de defesa, <b>ressalvados</b> os referentes a diligências em andamento (§ 2º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O acordo de colaboração torna-se público após a homologação</span><br>✅ <span class=\"certo\">O sigilo vai até o <b>recebimento da denúncia</b></span></li><li>❌ <span class=\"banca\">O colaborador pode permanecer em silêncio em seus depoimentos</span><br>✅ <span class=\"certo\"><b>Renuncia</b> ao silêncio e presta compromisso (§ 14)</span></li><li>❌ <span class=\"banca\">O juiz participa das negociações para garantir a legalidade</span><br>✅ <span class=\"certo\">O juiz <b>não</b> participa (§ 6º)</span></li></ol></div>\n<h3>10. Ação controlada: arts. 8º e 9º</h3>\n<ul><li><b>Art. 8º</b>: consiste a ação controlada em <b>retardar a intervenção policial ou administrativa</b> relativa à ação praticada por organização criminosa ou a ela vinculada, desde que mantida sob <b>observação e acompanhamento</b>, para que a medida legal se concretize no momento <b>mais eficaz</b> à formação de provas e obtenção de informações. É o chamado <b>flagrante diferido</b> ou <b>retardado</b>.</li><li><b>§ 1º</b>: o retardamento da intervenção será <b>previamente comunicado ao juiz</b> competente, que, se for o caso, estabelecerá os seus limites e comunicará ao MP. Atenção: na Lei 12.850, basta a <b>comunicação</b> (não é necessária <b>autorização</b> judicial), diferentemente da Lei de Drogas (art. 53, II), que exige <b>autorização</b>.</li><li><b>§ 2º</b>: a comunicação será sigilosamente distribuída de forma a não conter informações que possam indicar a operação a ser efetuada. <b>§ 3º</b>: até o encerramento da diligência, o acesso aos autos será restrito ao juiz, ao MP e ao delegado. <b>§ 4º</b>: ao término da diligência, elaborar-se-á <b>auto circunstanciado</b> acerca da ação controlada.</li><li><b>Art. 9º</b>: se a ação controlada envolver <b>transposição de fronteiras</b>, o retardamento da intervenção somente poderá ocorrer com a <b>cooperação</b> das autoridades dos países que figurem como provável itinerário ou destino do investigado, de modo a reduzir os riscos de fuga e extravio do produto, objeto, instrumento ou proveito do crime.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ação controlada</th><th>Lei 12.850/2013 (orcrim)</th><th>Lei 11.343/2006 (drogas)</th><th>Lei 9.613/1998 (lavagem)</th></tr></thead><tbody><tr><td>Controle judicial</td><td><b>comunicação prévia</b> ao juiz</td><td><b>autorização</b> judicial, ouvido o MP</td><td>o juiz pode <b>suspender</b> a ordem de prisão ou apreensão (art. 4º-B)</td></tr><tr><td>Requisito específico</td><td>acompanhamento e observação</td><td>conhecimento do <b>itinerário provável</b> e identificação dos agentes</td><td>risco de comprometer as investigações</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · ação controlada sem comunicação</b><p class=\"jc-tese\">Parte da jurisprudência tem entendido que a ausência de comunicação prévia ao juiz, na ação controlada da Lei 12.850, <b>não gera nulidade automática</b> das provas, sobretudo quando a operação foi acompanhada e documentada, havendo apenas irregularidade se não houver prejuízo demonstrado.</p><p class=\"jc-com\">Mesmo assim, a comunicação é <b>obrigatória</b> e protege o policial: sem ela, o retardamento da prisão de alguém em flagrante pode ser questionado como <b>prevaricação</b> (CP, art. 319). Documente tudo no auto circunstanciado.</p></div>\n<h3>11. Infiltração de agentes: arts. 10 a 14</h3>\n<ul><li><b>Art. 10</b>: a infiltração de agentes de polícia em tarefas de investigação, <b>representada pelo delegado</b> ou <b>requerida pelo MP</b>, após manifestação técnica do delegado quando solicitada no curso de inquérito policial, será precedida de <b>circunstanciada, motivada e sigilosa autorização judicial</b>, que estabelecerá seus limites.</li><li><b>§ 1º</b>: na hipótese de representação do delegado, o juiz, antes de decidir, <b>ouvirá o MP</b>. <b>§ 2º</b>: será admitida a infiltração se houver <b>indícios</b> de infração penal do art. 1º e se a prova <b>não puder ser produzida por outros meios</b> disponíveis (<b>subsidiariedade</b>). <b>§ 3º</b>: a infiltração será autorizada pelo prazo de <b>até 6 meses</b>, sem prejuízo de eventuais <b>renovações</b>, desde que comprovada sua necessidade. <b>§ 4º</b>: findo o prazo, o <b>relatório circunstanciado</b> será apresentado ao juiz, que imediatamente cientificará o MP. <b>§ 5º</b>: no curso do inquérito, o delegado poderá determinar aos seus agentes, e o MP poderá requisitar, a qualquer tempo, <b>relatório da atividade</b> de infiltração.</li><li><b>Art. 11</b>: o requerimento do MP ou a representação do delegado conterão a demonstração da <b>necessidade</b> da medida, o <b>alcance das tarefas</b> dos agentes e, quando possível, os <b>nomes ou apelidos</b> das pessoas investigadas e o <b>local</b> da infiltração.</li><li><b>Art. 12</b>: o pedido de infiltração será <b>sigilosamente distribuído</b>. As informações quanto à necessidade da operação serão dirigidas diretamente ao juiz, que decidirá em <b>24 horas</b>, após manifestação do MP ou do delegado. Os autos contendo as informações da operação acompanharão a denúncia, assegurando-se a preservação da identidade do agente (§ 2º). Havendo indícios seguros de que o agente sofre <b>risco iminente</b>, a operação será <b>sustada</b> mediante requisição do MP ou pelo delegado, dando-se imediata ciência ao MP e ao juiz (§ 3º).</li><li><b>Art. 13</b>: o agente que não guardar, em sua atuação, a devida <b>proporcionalidade</b> com a finalidade da investigação responderá pelos <b>excessos</b> praticados. <b>Parágrafo único</b>: <b>não é punível</b>, no âmbito da infiltração, a prática de crime pelo agente infiltrado no curso da investigação, quando <b>inexigível conduta diversa</b>. É uma causa de exclusão da <b>culpabilidade</b> (inexigibilidade de conduta diversa).</li><li><b>Art. 14</b>: são direitos do agente: I, <b>recusar ou fazer cessar</b> a atuação infiltrada; II, ter sua <b>identidade alterada</b> (Lei 9.807/1999) e usufruir das medidas de proteção a testemunhas; III, ter seu nome, qualificação, imagem, voz e demais informações pessoais <b>preservadas</b> durante a investigação e o processo, salvo se houver decisão judicial em contrário; IV, <b>não ter sua identidade revelada</b>, nem ser fotografado ou filmado pelos meios de comunicação, sem sua prévia autorização por escrito.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A infiltração pode ser determinada pelo delegado, sem autorização judicial, em casos urgentes</span><br>✅ <span class=\"certo\">Exige <b>autorização judicial</b> circunstanciada, motivada e sigilosa</span></li><li>❌ <span class=\"banca\">O agente infiltrado responde por qualquer crime que pratique durante a infiltração</span><br>✅ <span class=\"certo\">Não é punível quando <b>inexigível conduta diversa</b>; responde pelos <b>excessos</b></span></li><li>❌ <span class=\"banca\">A infiltração é possível mesmo que a prova possa ser obtida por outros meios</span><br>✅ <span class=\"certo\">É <b>subsidiária</b> (§ 2º)</span></li></ol></div>\n<h3>12. Infiltração virtual: arts. 10-A a 10-D</h3>\n<ul><li>O Pacote Anticrime criou a <b>infiltração de agentes de polícia na internet</b>, com o fim de investigar os crimes da Lei 12.850 e a eles conexos. A <b>Lei 13.441/2017</b> já previa algo semelhante no <b>ECA</b> (arts. 190-A a 190-E) para crimes contra a dignidade sexual de crianças e adolescentes.</li><li><b>Art. 10-A</b>: será admitida a ação de agentes de polícia infiltrados virtuais, obedecidos os requisitos do art. 10, mediante <b>representação do delegado</b> ou <b>requerimento do MP</b>, com autorização judicial. O pedido deve conter a demonstração de sua <b>necessidade</b>, o alcance das tarefas, os nomes ou apelidos das pessoas investigadas e, quando possível, os <b>dados de conexão ou cadastrais</b> que permitam a identificação dessas pessoas.</li><li><b>Prazos</b>: a infiltração virtual será autorizada pelo prazo de até <b>6 meses</b>, sem prejuízo de eventuais renovações, mediante ordem judicial fundamentada e desde que o total <b>não exceda 720 dias</b> e seja comprovada sua necessidade (§ 4º).</li><li><b>Requisito de subsidiariedade</b>: só se admite se houver indícios de infração penal do art. 1º e se as provas <b>não puderem ser produzidas por outros meios</b> disponíveis (§ 3º).</li><li><b>Art. 10-C</b>: <b>não comete crime</b> o policial que <b>oculta a sua identidade</b> para, por meio da internet, colher indícios de autoria e materialidade dos crimes previstos no art. 1º. O agente que não observar a estrita finalidade da investigação responderá pelos excessos praticados.</li><li><b>Art. 10-D</b>: concluída a investigação, todos os atos eletrônicos praticados durante a operação deverão ser <b>registrados, gravados, armazenados</b> e apresentados ao juiz e ao MP, juntamente com relatório circunstanciado. Os atos eletrônicos registrados serão reunidos em autos apartados e apensados ao processo criminal juntamente com o inquérito policial, assegurando-se a <b>preservação da identidade</b> do agente policial infiltrado e a intimidade dos envolvidos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Infiltração</th><th>Presencial (art. 10)</th><th>Virtual (art. 10-A)</th></tr></thead><tbody><tr><td>Quem pede</td><td>delegado (representação) ou MP (requerimento)</td><td>idem</td></tr><tr><td>Autorização</td><td>judicial, circunstanciada, motivada e sigilosa</td><td>idem</td></tr><tr><td>Prazo</td><td>até <b>6 meses</b>, renováveis (sem limite total expresso)</td><td>até <b>6 meses</b>, renováveis, total máximo de <b>720 dias</b></td></tr><tr><td>Subsidiariedade</td><td>sim</td><td>sim</td></tr><tr><td>Responsabilidade</td><td>excessos; não punível se inexigível conduta diversa</td><td>não comete crime ao ocultar a identidade; responde pelos excessos</td></tr></tbody></table>\n<h3>13. Acesso a registros, dados cadastrais e documentos: arts. 15 a 17</h3>\n<ul><li><b>Art. 15</b>: o <b>delegado</b> e o <b>MP</b> terão acesso, <b>independentemente de autorização judicial</b>, apenas aos <b>dados cadastrais</b> do investigado que informem exclusivamente a <b>qualificação pessoal, a filiação e o endereço</b> mantidos pela <b>Justiça Eleitoral</b>, empresas <b>telefônicas</b>, instituições <b>financeiras</b>, provedores de <b>internet</b> e administradoras de <b>cartão de crédito</b>.</li><li><b>Art. 16</b>: as <b>empresas de transporte</b> possibilitarão, pelo prazo de <b>5 anos</b>, acesso direto e permanente do juiz, do MP ou do delegado aos <b>bancos de dados de reservas e registro de viagens</b>.</li><li><b>Art. 17</b>: as <b>concessionárias de telefonia</b> fixa ou móvel manterão, pelo prazo de <b>5 anos</b>, à disposição das autoridades mencionadas no art. 15, <b>registros de identificação</b> dos números dos terminais de origem e de destino das ligações telefônicas internacionais, interurbanas e locais.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · dados cadastrais x conteúdo</b><p class=\"jc-tese\">A requisição direta, sem ordem judicial, limita-se a <b>dados cadastrais</b> (nome, filiação, endereço). O acesso ao <b>conteúdo</b> de comunicações (mensagens, e-mails), aos <b>registros detalhados</b> de ligações (quem ligou para quem, quando, por quanto tempo, que a lei chama de registros de identificação) e à <b>localização</b> de aparelhos, como regra, exige <b>autorização judicial</b> (CF, art. 5º, XII; Marco Civil da Internet, art. 10).</p><p class=\"jc-com\">Para o delegado: requisite os dados cadastrais com base no art. 15 (e, nos crimes de lavagem, no art. 17-B da Lei 9.613), mas represente ao juiz pela quebra dos sigilos telefônico, telemático, bancário e fiscal. Recusar ou omitir os dados cadastrais requisitados é <b>crime</b> (art. 21).</p></div>\n<h3>14. Crimes ocorridos na investigação e na obtenção da prova: arts. 18 a 21-B</h3>\n<table class=\"tab\"><thead><tr><th>Art.</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>18</b></td><td><b>revelar a identidade</b>, fotografar ou filmar o <b>colaborador</b>, sem sua prévia autorização por escrito</td><td>reclusão de 1 a 3 anos e multa</td></tr><tr><td><b>19</b></td><td><b>imputar falsamente</b>, sob pretexto de colaboração com a Justiça, a prática de infração penal a pessoa que sabe ser inocente, ou revelar informações sobre a estrutura de organização criminosa que sabe inverídicas</td><td>reclusão de 1 a 4 anos e multa</td></tr><tr><td><b>20</b></td><td><b>descumprir determinação de sigilo</b> das investigações que envolvam a ação controlada e a infiltração de agentes</td><td>reclusão de 1 a 4 anos e multa</td></tr><tr><td><b>21</b></td><td><b>recusar ou omitir</b> dados cadastrais, registros, documentos e informações requisitadas pelo juiz, MP ou delegado, no curso de investigação ou do processo</td><td>reclusão de 6 meses a 2 anos e multa (parágrafo único: mesma pena para quem se apossa, propala, divulga ou faz uso dos dados cadastrais de que trata a lei, de forma indevida)</td></tr><tr><td><b>21-A</b> (Lei 15.245/2025)</td><td><b>solicitar ou ordenar</b> a prática de violência ou grave ameaça contra agente público, advogado, defensor dativo, jurado, testemunha, colaborador ou perito, ou seus familiares, para <b>obstruir</b> ou <b>retaliar</b> atos de investigação ou processo contra organização criminosa</td><td>reclusão de <b>4 a 12 anos</b> e multa, sem prejuízo da pena da violência</td></tr><tr><td><b>21-B</b> (Lei 15.245/2025)</td><td><b>ajustarem-se</b> duas ou mais pessoas para a prática da conduta do art. 21-A (\"conspiração para obstruir\")</td><td>mesma pena do art. 21-A</td></tr></tbody></table>\n<ul><li><b>Lei 15.245/2025</b>: além dos arts. 21-A e 21-B, criou o <b>§ 2º do art. 288 do CP</b>, punindo com a mesma pena da associação criminosa quem <b>solicita ou contrata</b> a prática de crime a integrante de associação criminosa, e ampliou a proteção pessoal a policiais (inclusive aposentados) e a autoridades que atuam contra o crime organizado em regiões de fronteira (Lei 12.694/2012). Os condenados e presos provisórios pelos crimes dos arts. 21-A e 21-B devem cumprir pena em <b>presídio federal</b> de segurança máxima.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O delegado precisa de ordem judicial para requisitar nome e endereço do investigado à operadora</span><br>✅ <span class=\"certo\"><b>Não</b> precisa: dados cadastrais (art. 15)</span></li><li>❌ <span class=\"banca\">O delegado pode requisitar diretamente o conteúdo das mensagens do investigado</span><br>✅ <span class=\"certo\">Exige <b>autorização judicial</b></span></li><li>❌ <span class=\"banca\">A conspiração para ameaçar testemunha de processo contra facção exige que a ameaça ocorra</span><br>✅ <span class=\"certo\">O art. 21-B pune o <b>ajuste</b>, sem exigir violência efetiva</span></li></ol></div>\n<h3>15. Procedimento: arts. 22 e 23</h3>\n<ul><li><b>Art. 22</b>: os crimes previstos nesta lei e as infrações penais conexas serão apurados mediante <b>procedimento ordinário</b> (CPP), observado o disposto no parágrafo único. <b>Parágrafo único</b>: a instrução criminal deverá ser encerrada em <b>prazo razoável</b>, o qual <b>não poderá exceder a 120 dias</b> quando o réu estiver <b>preso</b>, prorrogáveis em até igual período, por decisão fundamentada, devidamente motivada pela complexidade da causa ou por fato procrastinatório atribuível ao réu.</li><li><b>Art. 23</b>: o <b>sigilo da investigação</b> poderá ser decretado pela autoridade judicial competente, para garantia da celeridade e da eficácia das diligências investigatórias, assegurando-se ao defensor, no interesse do representado, amplo acesso aos elementos de prova que digam respeito ao exercício do direito de defesa, devidamente precedido de autorização judicial, <b>ressalvados</b> os referentes às diligências <b>em andamento</b>. <b>Parágrafo único</b>: determinado o depoimento do investigado, seu defensor terá assegurada a prévia vista dos autos, ainda que classificados como sigilosos, no prazo mínimo de <b>3 dias</b> que antecedem o ato, podendo ser ampliado, a critério da autoridade responsável pela investigação.</li><li><b>Julgamento colegiado</b>: a <b>Lei 12.694/2012</b> permite que o juiz, nos processos que envolvam organizações criminosas, decida pela formação de <b>colegiado</b> de três juízes para a prática de atos (decretação de prisão, sentença, progressão etc.), quando houver risco à sua integridade. O Pacote Anticrime autorizou a criação de <b>Varas Criminais Colegiadas</b> (art. 1º-A), e a Lei 15.358/2026 atribuiu a elas os homicídios conexos aos crimes de domínio social estruturado.</li></ul>\n<h3>16. Captação ambiental e interceptação no contexto das organizações criminosas</h3>\n<ul><li>A <b>captação ambiental</b> de sinais eletromagnéticos, ópticos ou acústicos (gravações de conversas em ambientes, câmeras ocultas, escutas em veículos) é meio de obtenção de prova do art. 3º, II, e passou a ser disciplinada pelo <b>art. 8º-A da Lei 9.296/1996</b>, incluído pelo Pacote Anticrime.</li></ul>\n<table class=\"tab\"><thead><tr><th>Captação ambiental (Lei 9.296, art. 8º-A)</th><th>Regra</th></tr></thead><tbody><tr><td>Quem decreta</td><td><b>juiz</b>, a requerimento da <b>autoridade policial</b> ou do <b>MP</b></td></tr><tr><td>Requisitos</td><td>(1) a prova não puder ser feita por outros meios disponíveis e igualmente eficazes; (2) houver elementos probatórios razoáveis de autoria e participação em infrações com pena máxima <b>superior a 4 anos</b> ou em infrações penais <b>conexas</b></td></tr><tr><td>Conteúdo do pedido</td><td>descrição circunstanciada do <b>local</b> e da forma de instalação do dispositivo</td></tr><tr><td>Prazo</td><td><b>15 dias</b>, renovável por decisão judicial por iguais períodos, se comprovada a indispensabilidade e quando presente atividade criminal <b>permanente, habitual ou continuada</b></td></tr><tr><td>Instalação em domicílio</td><td>o STF e a doutrina discutem os limites; o ingresso noturno em domicílio para instalar escuta foi admitido pelo STF em caso excepcional (Inq 2.424), com autorização judicial</td></tr></tbody></table>\n<ul><li><b>Crime</b>: o <b>art. 10-A</b> da Lei 9.296 pune quem realiza captação ambiental de sinais para investigação ou instrução criminal <b>sem autorização judicial</b>, quando esta for exigida, com reclusão de 2 a 4 anos e multa. <b>Não há crime</b> se a captação é realizada por <b>um dos interlocutores</b> (§ 1º). O agente público que descumpre determinação de sigilo também responde (§ 2º).</li><li><b>Gravação por um dos interlocutores</b>: o STF (Tema 237, RE 583.937) admite como prova lícita a <b>gravação ambiental</b> realizada por um dos interlocutores sem o conhecimento do outro. A Lei 9.296 (art. 8º-A, § 4º) diz que a captação feita por um dos interlocutores sem o prévio conhecimento da autoridade policial ou do MP pode ser utilizada <b>em matéria de defesa</b>, quando demonstrada a integridade da gravação; a jurisprudência discute se esse dispositivo restringiu o uso da gravação pela acusação.</li><li><b>Interceptação telefônica e telemática</b> (Lei 9.296/1996): exige ordem do <b>juiz competente para a ação principal</b>, sob <b>segredo de justiça</b>, em crime punido com <b>reclusão</b>, havendo <b>indícios razoáveis</b> de autoria ou participação e quando a prova não puder ser feita por outros meios. Prazo de <b>15 dias</b>, renovável por igual período, comprovada a indispensabilidade; o STF e o STJ admitem <b>renovações sucessivas</b> fundamentadas, especialmente em investigações complexas de organizações criminosas.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 661 (RE 625.263)</b><p class=\"jc-tese\">\"São lícitas as <b>sucessivas renovações</b> de interceptação telefônica, desde que, verificados os requisitos do art. 2º da Lei 9.296/1996 e demonstrada a necessidade da medida diante de elementos concretos e a complexidade da investigação, a decisão judicial inicial e as prorrogações sejam devidamente motivadas, com justificativa legítima, ainda que sucinta, a embasar a continuidade das investigações. São ilegais as motivações padronizadas ou reproduções de modelos genéricos sem relação com o caso concreto.\"</p><p class=\"jc-com\">Para a polícia, a lição é que cada pedido de prorrogação deve trazer <b>fatos novos</b> e mostrar o que foi descoberto no período anterior. Representações \"copiadas\" geram nulidade das escutas e, por derivação, de outras provas.</p></div>\n<ul><li><b>Encontro fortuito de provas</b> (serendipidade): se, durante interceptação autorizada para investigar uma organização, surgem provas de <b>outros crimes</b> ou de <b>outras pessoas</b>, elas são válidas, segundo o STF e o STJ, desde que não tenha havido desvio de finalidade. Para crimes punidos com <b>detenção</b> descobertos fortuitamente, a jurisprudência admite o uso se forem <b>conexos</b> ao crime investigado.</li></ul>\n<h3>17. Proteção de pessoas e julgamento sem rosto</h3>\n<ul><li><b>Proteção a vítimas, testemunhas e colaboradores</b> (Lei 9.807/1999): programas de proteção com medidas como segurança na residência, escolta, transferência de residência, preservação da identidade e da imagem, ajuda financeira e, em casos excepcionais, <b>alteração do nome completo</b>. O colaborador da Lei 12.850 pode usufruir dessas medidas (art. 5º, I).</li><li><b>Julgamento colegiado em primeiro grau</b> (Lei 12.694/2012): em processos ou procedimentos que tenham por objeto crimes praticados por <b>organizações criminosas</b>, o juiz pode decidir pela formação de <b>colegiado</b> para a prática de qualquer ato processual, especialmente: decretação de prisão ou medidas assecuratórias; concessão de liberdade provisória ou revogação de prisão; sentença; progressão ou regressão de regime; concessão de liberdade condicional; transferência de preso para estabelecimento de segurança máxima; inclusão do preso no regime disciplinar diferenciado. O colegiado é formado pelo juiz do processo e por <b>2 outros juízes</b> escolhidos por <b>sorteio eletrônico</b> entre os de competência criminal em exercício no primeiro grau. As decisões são <b>assinadas por todos</b>, sem referência a voto divergente.</li><li><b>Varas Criminais Colegiadas</b> (art. 1º-A da Lei 12.694, Pacote Anticrime): os tribunais podem instalar varas colegiadas com competência para o processo e julgamento de crimes de pertencimento a organização criminosa armada ou que tenha armas à disposição, de associação criminosa armada, de milícia privada e das infrações conexas. Com a Lei 15.358/2026, também os <b>homicídios</b> conexos aos crimes de domínio social estruturado.</li><li><b>Segurança de autoridades</b>: a Lei 12.694 também prevê medidas de segurança para prédios da Justiça, placas especiais em veículos de magistrados e membros do MP e proteção pessoal em situação de risco. A <b>Lei 15.245/2025</b> estendeu a proteção pessoal a <b>policiais</b> da ativa ou aposentados e a seus familiares em situação de risco decorrente da função, e às forças de segurança, Forças Armadas, juízes e promotores que atuam contra o crime organizado em <b>regiões de fronteira</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No colegiado da Lei 12.694, o voto divergente deve ser publicado</span><br>✅ <span class=\"certo\">As decisões são assinadas por todos, <b>sem referência</b> a voto divergente</span></li><li>❌ <span class=\"banca\">A gravação ambiental feita por um dos interlocutores é sempre prova ilícita</span><br>✅ <span class=\"certo\">O STF a admite (Tema 237)</span></li><li>❌ <span class=\"banca\">As renovações da interceptação são limitadas a uma única prorrogação</span><br>✅ <span class=\"certo\">São possíveis <b>renovações sucessivas</b> fundamentadas (Tema 661)</span></li></ol></div>\n<h3>18. Organizações criminosas e outras leis</h3>\n<ul><li><b>Lavagem de dinheiro</b> (Lei 9.613/1998): é comum o concurso entre o crime de organização criminosa e a lavagem. A lavagem tem causa de aumento de <b>1/3 a 2/3</b> se o crime for cometido de forma reiterada ou <b>por intermédio de organização criminosa</b> (art. 1º, § 4º). Também na lavagem há colaboração premiada (art. 1º, § 5º) e ação controlada (art. 4º-B).</li><li><b>Terrorismo</b> (Lei 13.260/2016): a Lei 12.850 se aplica às <b>organizações terroristas</b> (art. 1º, § 2º, II), inclusive quanto aos meios de obtenção de prova. Integrar organização terrorista é crime próprio da Lei 13.260 (art. 3º), com pena de reclusão de 5 a 8 anos.</li><li><b>Execução penal</b>: o <b>regime disciplinar diferenciado</b> (LEP, art. 52) pode ser aplicado ao preso sobre o qual recaiam fundadas suspeitas de envolvimento ou participação, a qualquer título, em <b>organização criminosa</b>, associação criminosa ou milícia privada, independentemente da prática de falta grave (§ 1º, II). Se houver indícios de que o preso exerce <b>liderança</b> em organização criminosa, ou atuação criminosa em dois ou mais Estados, o RDD será cumprido obrigatoriamente em <b>estabelecimento prisional federal</b> (§ 3º). As visitas são <b>gravadas</b> e monitoradas, inclusive por força das alterações da Lei 15.358/2026.</li><li><b>Presídios federais</b> (Lei 11.671/2008): recebem presos cuja transferência se justifique no interesse da <b>segurança pública</b> ou do próprio preso. A permanência é de até <b>3 anos</b>, renovável por iguais períodos quando solicitado motivadamente pelo juízo de origem e persistirem os motivos.</li></ul>\n<h3>19. Mais casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Requisição à operadora</b><p>Na investigação de uma organização de fraudes bancárias, o delegado precisa do nome e do endereço do titular de uma linha telefônica usada pelo grupo e, também, do histórico de ligações dessa linha nos últimos três meses. Como proceder?</p><details><summary>Ver a solução comentada</summary><p>O <b>nome e o endereço</b> (dados cadastrais) podem ser <b>requisitados diretamente</b> à operadora, sem ordem judicial (art. 15). O <b>histórico de ligações</b> (registros de chamadas) exige <b>autorização judicial</b>, mediante representação, por envolver o sigilo das comunicações. A operadora que se recusar a fornecer os dados cadastrais comete o crime do <b>art. 21</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Delator e corréus</b><p>Um colaborador, em acordo homologado, aponta cinco comparsas. Os delatados pedem a anulação do acordo, alegando que o delator mentiu. Podem fazê-lo?</p><details><summary>Ver a solução comentada</summary><p>Segundo o STF (HC 127.483), o acordo é <b>negócio jurídico personalíssimo</b> e <b>não pode ser impugnado</b> pelos delatados, que, no entanto, podem <b>confrontar</b> as declarações em juízo, produzir contraprova e ter o direito de <b>falar por último</b> (§ 10-A). As declarações do colaborador, sozinhas, não bastam para condená-los (§ 16).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Escuta no carro</b><p>Para investigar uma organização de tráfico, a polícia pretende instalar um microfone no carro do líder. Precisa de autorização?</p><details><summary>Ver a solução comentada</summary><p>Sim: trata-se de <b>captação ambiental</b> por quem não é interlocutor, exigindo <b>autorização judicial</b> (Lei 9.296, art. 8º-A), demonstrando que a prova não pode ser obtida por outros meios e que a infração tem pena máxima superior a 4 anos. O prazo é de 15 dias, renovável. Sem autorização, a prova é ilícita e o agente pode responder pelo <b>art. 10-A</b> da Lei 9.296.</p></details></div>\n<h3>20. Linha do tempo e pontos de atenção na investigação</h3>\n<div class=\"lt-fluxo\"><span>1995: Lei 9.034 (sem conceito de organização)</span> <em>→</em> <span>2004: Convenção de Palermo promulgada (Decreto 5.015)</span> <em>→</em> <span>2012: Lei 12.694 (julgamento colegiado e primeiro conceito)</span> <em>→</em> <span>2013: Lei 12.850 (conceito, crime e meios de prova)</span> <em>→</em> <span>2015: STF define a natureza da colaboração (HC 127.483)</span> <em>→</em> <span>2016: Lei Antiterrorismo</span> <em>→</em> <span>2018: delegado pode fazer colaboração (ADI 5.508)</span> <em>→</em> <span>2019: Pacote Anticrime (colaboração detalhada, infiltração virtual, captação ambiental)</span> <em>→</em> <span>2025: Lei 15.245 (obstrução e conspiração contra ações anticrime organizado)</span> <em>→</em> <span>2026: Lei Antifacção (organizações ultraviolentas)</span></div>\n<ul><li><b>Prova do vínculo</b>: o crime de organização criminosa exige provar a <b>estabilidade</b> e a <b>estrutura</b>, e não apenas a reunião de pessoas para um crime. Elementos úteis: interceptações que revelem hierarquia e divisão de tarefas, planilhas de contabilidade, apreensão de celulares com grupos de mensagens, transferências financeiras recorrentes, relatórios de inteligência financeira do COAF, depoimentos de colaboradores <b>corroborados</b>.</li><li><b>Inteligência x investigação</b>: relatórios de <b>inteligência</b> policial orientam a investigação, mas não são, por si, prova judicial; devem ser convertidos em provas produzidas sob as regras processuais (mandados, laudos, depoimentos). O STF e o STJ rejeitam condenações baseadas apenas em relatórios de inteligência não submetidos ao contraditório.</li><li><b>Cadeia de custódia digital</b>: celulares e computadores apreendidos devem ter sua cadeia de custódia preservada (CPP, arts. 158-A a 158-F), com espelhamento técnico (cópia forense) e registro de <b>hash</b>, para que a defesa não alegue manipulação. O STJ já anulou provas digitais extraídas sem metodologia que garantisse a integridade.</li><li><b>Sigilo e acesso da defesa</b>: o advogado tem acesso aos elementos <b>já documentados</b> (SV 14; art. 23), mas não às diligências <b>em curso</b>. Antes do depoimento do investigado, o defensor deve ter vista dos autos com antecedência mínima de <b>3 dias</b> (art. 23, parágrafo único).</li><li><b>Organização criminosa e foro</b>: se um dos investigados tem <b>foro por prerrogativa</b> (deputado, prefeito, juiz), a investigação, em regra, deve ser supervisionada pelo tribunal competente desde o início. Provas colhidas por autoridade incompetente, sem autorização do tribunal, podem ser anuladas. O STF admite o <b>desmembramento</b> das investigações em relação aos investigados sem foro.</li><li><b>Medidas patrimoniais</b>: o enfrentamento às organizações criminosas passa pela <b>asfixia financeira</b>. Além do sequestro, do arresto e da apreensão (CPP, arts. 125 a 144-A), o CP prevê o <b>confisco alargado</b> (art. 91-A, Pacote Anticrime): nos crimes com pena máxima superior a 6 anos, pode ser decretada a perda da <b>diferença</b> entre o patrimônio do condenado e o compatível com seus rendimentos lícitos; e o parágrafo único do art. 91-A permite a perda dos instrumentos utilizados para a prática de crimes por organizações criminosas e milícias, ainda que não ponham em perigo a segurança das pessoas. A Lei 15.358/2026 reforçou esse caminho com a <b>ação civil autônoma de perdimento</b> de bens, imprescritível e independente de condenação criminal, para as organizações ultraviolentas.</li><li><b>Alienação antecipada</b>: bens apreendidos sujeitos a deterioração ou de difícil manutenção podem ser vendidos antes do fim do processo (CPP, art. 144-A), com o valor depositado em juízo, evitando a perda de valor de carros, embarcações e aeronaves das organizações.</li><li><b>Bloqueio de criptoativos e contas digitais</b>: as investigações atuais envolvem cada vez mais <b>criptomoedas</b> e contas em instituições de pagamento. A representação deve identificar com precisão as carteiras e as plataformas, e a Lei 15.358/2026 prevê expressamente o bloqueio de ativos digitais e de meios de pagamento, inclusive <b>Pix</b>, nos casos de organizações ultraviolentas.</li><li><b>Cooperação entre órgãos</b>: o art. 3º, VIII, e seus §§ 1º e 2º preveem a <b>cooperação</b> entre instituições federais, distritais, estaduais e municipais, e permitem a contratação de serviços técnicos especializados e o compartilhamento de informações, observado o sigilo. Na prática, isso se materializa nas <b>FICCOs</b> (Forças Integradas de Combate ao Crime Organizado), que reúnem polícias federais e estaduais, e nos <b>GAECOs</b> dos Ministérios Públicos. A Lei 15.358/2026 passou a prever expressamente forças-tarefa integradas e o financiamento dessas estruturas pelo Fundo Nacional de Segurança Pública, e determinou que o descumprimento das regras de compartilhamento não gera, por si só, nulidade das provas.</li><li><b>Cooperação internacional</b>: em organizações transnacionais, os pedidos de provas no exterior seguem os tratados de <b>assistência jurídica mútua</b> (MLAT), com a autoridade central brasileira no Ministério da Justiça (DRCI). Provas obtidas diretamente no exterior, fora desses canais, podem ser questionadas pela defesa.</li></ul>\n<h3>21. A Lei Antifacção e as organizações criminosas ultraviolentas (Lei 15.358/2026)</h3>\n<ul><li>A <b>Lei 15.358/2026</b> (também chamada de Lei Raul Jungmann) instituiu o <b>marco legal de combate ao crime organizado ultraviolento</b>. Ela não revogou a Lei 12.850: criou figuras <b>específicas</b> para facções, milícias e grupos paramilitares que exercem <b>controle territorial ou social</b> por meio de violência.</li><li><b>Organização criminosa ultraviolenta</b>: agrupamento de <b>3 ou mais pessoas</b> que emprega <b>violência, grave ameaça ou coação</b> para impor controle territorial ou social, entre outras finalidades (art. 2º, § 2º).</li><li><b>Domínio social estruturado</b> (art. 2º): praticado por integrante de organização ultraviolenta, grupo paramilitar ou milícia privada que, entre outras condutas, usa violência ou grave ameaça para <b>controlar territórios</b> ou comunidades; emprega ou ameaça com <b>armas, explosivos</b> ou agentes químicos, biológicos ou nucleares; <b>obstrui a atuação policial</b> com barricadas, incêndios ou destruição de vias; <b>impõe controle</b> sobre atividades econômicas ou serviços; ataca <b>instituições financeiras, transportes, presídios, infraestruturas essenciais</b> ou sistemas de dados. Pena: reclusão de <b>20 a 40 anos</b>, aumentada de <b>2/3 até o dobro</b> em hipóteses como comando, financiamento, vítimas agentes de segurança ou vulneráveis, participação de servidores, uso de armas de uso restrito, recrutamento de crianças e adolescentes e uso de <b>drones</b>.</li><li><b>Favorecimento ao domínio social estruturado</b> (art. 3º): promover, fundar, aderir ou apoiar a organização; divulgar material que incite esses crimes; adquirir ou guardar armas ou explosivos para eles; ceder local ou bem; fornecer informações de apoio; ou <b>alegar falsamente</b> pertencer à organização para obter vantagem ou intimidar. Pena: reclusão de <b>12 a 20 anos</b> e multa.</li><li><b>Consequências</b>: os crimes são <b>hediondos</b>, insuscetíveis de <b>anistia, graça, indulto, fiança e livramento condicional</b>; os <b>atos preparatórios</b> são punidos com a pena do consumado reduzida de 1/3 a 1/2; a prática desses crimes é <b>causa suficiente para a prisão preventiva</b>; líderes cumprem pena em <b>presídio federal</b>; e aplicam-se os <b>meios de obtenção de prova</b> da Lei 12.850. O inquérito deve ser concluído em <b>90 dias</b> (preso) ou <b>270 dias</b> (solto), prorrogáveis, e o descumprimento do prazo não gera soltura automática.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · Lei 12.850 x Lei 15.358</b><p class=\"jc-tese\">As duas leis convivem. A <b>Lei 12.850</b> continua a reger a organização criminosa \"comum\" (4 ou mais pessoas, estrutura, divisão de tarefas, crimes com pena máxima superior a 4 anos), como esquemas de corrupção, fraudes em licitação e lavagem. A <b>Lei 15.358</b> é aplicada às organizações que usam a <b>violência</b> para <b>dominar territórios</b> e comunidades.</p><p class=\"jc-com\">Na prova, identifique o elemento <b>controle territorial ou social mediante violência</b>: se presente, pense em domínio social estruturado (hediondo, 20 a 40 anos); se ausente, pense na Lei 12.850 (3 a 8 anos). As ações diretas de inconstitucionalidade propostas contra a Lei Antifacção ainda estavam pendentes na última verificação desta aula, e a lei está em vigor.</p></div>\n<h3>22. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Esquema na prefeitura</b><p>Um secretário municipal, dois empresários, um contador e um servidor da comissão de licitação se organizam, com funções definidas, para fraudar licitações e desviar recursos, repartindo os lucros. Qual o crime?</p><details><summary>Ver a solução comentada</summary><p><b>Organização criminosa</b> (Lei 12.850, art. 2º): 5 pessoas, estrutura ordenada, divisão de tarefas e crimes com pena máxima superior a 4 anos (peculato, fraude à licitação, lavagem). Responde em <b>concurso material</b> pelos crimes praticados. Incide a causa de aumento do § 4º, II (concurso de <b>funcionário público</b>, valendo-se dessa condição). Cabe o <b>afastamento cautelar</b> dos servidores (§ 5º), e a condenação acarreta a perda do cargo e a interdição por 8 anos (§ 6º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Três amigos e os furtos</b><p>Três amigos se reúnem de forma estável para praticar furtos simples em lojas, dividindo o produto. Configura organização criminosa?</p><details><summary>Ver a solução comentada</summary><p><b>Não</b>: são apenas 3 pessoas (a lei exige 4) e o furto simples tem pena máxima de <b>4 anos</b> (a lei exige pena máxima <b>superior</b> a 4). Configura <b>associação criminosa</b> (CP, art. 288), que exige 3 pessoas para a prática de crimes, em concurso com os furtos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Colaborador que mente</b><p>Um colaborador, para obter benefícios, atribui falsamente a um empresário que sabe inocente a participação em um esquema de propina. Qual a consequência?</p><details><summary>Ver a solução comentada</summary><p>Comete o crime do <b>art. 19</b> da Lei 12.850 (imputar falsamente, sob pretexto de colaboração, a prática de infração a quem sabe inocente), com pena de 1 a 4 anos. O acordo pode ser <b>rescindido</b> (omissão dolosa ou falsidade) e, por força do § 16 do art. 4º, nenhuma medida contra o empresário poderia ter sido tomada apenas com base nessa palavra.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Policial infiltrado e o crime</b><p>Um policial infiltrado numa organização de tráfico de armas, autorizado judicialmente, é obrigado pelos líderes a transportar uma caixa de munições, sob pena de ser descoberto e morto. Responde pelo transporte?</p><details><summary>Ver a solução comentada</summary><p><b>Não</b> é punível, porque, no âmbito da infiltração, a prática de crime pelo agente é isenta de pena quando <b>inexigível conduta diversa</b> (art. 13, parágrafo único). Se ele, por conta própria, praticasse crimes graves desnecessários (por exemplo, agredir um terceiro), responderia pelos <b>excessos</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Barricada e toque de recolher</b><p>Em 2026, integrantes de uma facção armada que controla um bairro impõem toque de recolher, cobram \"taxa\" de comerciantes e queimam ônibus para impedir uma operação policial. Qual o enquadramento?</p><details><summary>Ver a solução comentada</summary><p><b>Domínio social estruturado</b> (Lei 15.358/2026, art. 2º): controle territorial mediante violência, imposição de controle sobre atividades econômicas e obstrução da atuação policial com incêndios. Pena de 20 a 40 anos, com aumento para os líderes; crime <b>hediondo</b>, sem livramento condicional; prisão preventiva justificada; líderes em presídio federal. Os demais crimes (extorsão, incêndio, tráfico com pena em dobro) concorrem.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ameaça à testemunha</b><p>Do presídio, o chefe de uma organização criminosa ordena, por bilhete, que comparsas ameacem de morte a testemunha de um processo contra o grupo. A ameaça não chega a ser feita, porque os comparsas são presos antes. Há crime?</p><details><summary>Ver a solução comentada</summary><p>Sim: o <b>art. 21-A</b> (Lei 15.245/2025) pune quem <b>ordena</b> violência ou grave ameaça contra testemunha para obstruir processo contra organização criminosa, com pena de 4 a 12 anos, independentemente de a ameaça se concretizar. Se os comparsas tivessem <b>ajustado</b> entre si a execução, haveria também o <b>art. 21-B</b>. O condenado cumpre pena em presídio federal.</p></details></div>\n<h3>23. Perguntas frequentes em provas discursivas</h3>\n<ul><li><b>\"Diferencie organização criminosa, associação criminosa e milícia privada.\"</b> A organização criminosa (Lei 12.850, art. 1º, § 1º) exige 4 ou mais pessoas, estrutura ordenada, divisão de tarefas, objetivo de vantagem e infrações com pena máxima superior a 4 anos ou transnacionais. A associação criminosa (CP, art. 288) exige 3 ou mais pessoas associadas para cometer crimes, sem exigência de estrutura ou de pena mínima dos crimes visados. A milícia privada (CP, art. 288-A) é a organização paramilitar, milícia particular, grupo ou esquadrão voltado a praticar crimes do CP. A organização ultraviolenta (Lei 15.358/2026) é o agrupamento de 3 ou mais pessoas que usa violência para impor controle territorial ou social.</li><li><b>\"Explique a natureza jurídica da colaboração premiada e os limites ao uso das declarações do colaborador.\"</b> É negócio jurídico processual e meio de obtenção de prova, que pressupõe utilidade e interesse públicos (art. 3º-A; STF, HC 127.483). As declarações do colaborador, isoladamente, não autorizam medidas cautelares reais ou pessoais, recebimento de denúncia nem condenação (art. 4º, § 16), exigindo corroboração por elementos externos. O delatado deve falar por último (§ 10-A).</li><li><b>\"O delegado pode celebrar acordo de colaboração premiada?\"</b> Sim, na fase de inquérito, com manifestação do MP, cabendo ao juiz homologar (ADI 5.508). Não pode, porém, dispor de prerrogativas do MP, como o não oferecimento de denúncia.</li><li><b>\"Diferencie ação controlada e infiltração de agentes.\"</b> A ação controlada consiste em retardar a intervenção policial, mantendo a atividade sob observação, com comunicação prévia ao juiz (art. 8º). A infiltração consiste na inserção de agente policial na organização, com autorização judicial circunstanciada, motivada e sigilosa, de forma subsidiária, por até 6 meses renováveis (art. 10), ou na internet, com limite total de 720 dias (art. 10-A).</li></ul>\n<h3>24. Como as bancas cobram este tópico</h3>\n<ul><li><b>Conceito</b>: 4 pessoas; pena máxima <b>superior</b> a 4 anos ou transnacionalidade; vantagem de <b>qualquer natureza</b>; organizações terroristas e crimes de tratados (§ 2º).</li><li><b>Crime</b>: verbos; formal e permanente; concurso material; § 1º (embaraçar investigação); aumentos (§§ 2º e 4º); comando (§ 3º); afastamento sem prejuízo da remuneração (§ 5º); perda do cargo e interdição de 8 anos (§ 6º); Corregedoria (§ 7º); segurança máxima (§ 8º); vínculo associativo (§ 9º).</li><li><b>Colaboração</b>: benefícios (perdão, até 2/3, substituição; após a sentença, até a metade ou progressão); resultados alternativos; não oferecimento de denúncia (não líder e primeiro a colaborar); juiz não participa; homologação (regularidade, legalidade, adequação e voluntariedade); § 16; retratação; renúncia ao silêncio; sigilo até o recebimento da denúncia; ADI 5.508.</li><li><b>Outras técnicas</b>: ação controlada (comunicação); infiltração (autorização, 6 meses, subsidiariedade, excessos); infiltração virtual (720 dias); dados cadastrais sem ordem judicial; 5 anos para empresas de transporte e telefonia.</li><li><b>Crimes da lei</b>: arts. 18 a 21; e os novos 21-A e 21-B (2025).</li><li><b>Novidades</b>: Lei 15.245/2025 e Lei 15.358/2026.</li><li><b>Bancas</b>: a <b>FGV</b> e o <b>Cebraspe</b> cobram muito a colaboração premiada e a diferença entre ação controlada e infiltração; a <b>Consulplan</b> cobra números (4 pessoas, 3 a 8 anos, 6 meses, 720 dias, 5 anos, 120 dias).</li></ul>\n<h3>25. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Organização criminosa</span></span><span class=\"vs\"><span>4 ou mais pessoas, estrutura, divisão de tarefas, pena máxima superior a 4 anos ou transnacional</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Associação criminosa</span></span><span class=\"vs\"><span>3 ou mais pessoas (CP, art. 288)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Associação para o tráfico</span></span><span class=\"vs\"><span>2 pessoas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Organização ultraviolenta</span></span><span class=\"vs\"><span>3 pessoas, violência para controle territorial (2026)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena do art. 2º</span></span><span class=\"vs\"><span>reclusão de 3 a 8 anos e multa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Natureza do crime</span></span><span class=\"vs\"><span>formal, permanente, autônomo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Emprego de arma de fogo</span></span><span class=\"vs\"><span>aumento até a metade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comando</span></span><span class=\"vs\"><span>pena agravada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>§ 4º</span></span><span class=\"vs\"><span>aumento de 1/6 a 2/3 (criança, servidor, exterior, conexão, transnacional)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento do servidor</span></span><span class=\"vs\"><span>sem prejuízo da remuneração</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perda do cargo</span></span><span class=\"vs\"><span>automática, com interdição de 8 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Policial investigado</span></span><span class=\"vs\"><span>Corregedoria instaura inquérito e comunica o MP</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Colaboração</span></span><span class=\"vs\"><span>negócio jurídico processual e meio de obtenção de prova</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Benefícios</span></span><span class=\"vs\"><span>perdão, redução até 2/3, substituição</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Após a sentença</span></span><span class=\"vs\"><span>redução até metade ou progressão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Não oferecimento da denúncia</span></span><span class=\"vs\"><span>MP; não líder; primeiro a colaborar; fato desconhecido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juiz</span></span><span class=\"vs\"><span>não participa das negociações</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>§ 16</span></span><span class=\"vs\"><span>palavra do colaborador sozinha não basta para cautelar, denúncia ou condenação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Delatado</span></span><span class=\"vs\"><span>fala por último</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Colaborador</span></span><span class=\"vs\"><span>renuncia ao silêncio</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sigilo do acordo</span></span><span class=\"vs\"><span>até o recebimento da denúncia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Delegado e colaboração</span></span><span class=\"vs\"><span>pode celebrar (ADI 5.508)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação controlada</span></span><span class=\"vs\"><span>comunicação prévia ao juiz</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infiltração</span></span><span class=\"vs\"><span>autorização judicial; 6 meses renováveis; subsidiária</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infiltração virtual</span></span><span class=\"vs\"><span>total máximo de 720 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dados cadastrais</span></span><span class=\"vs\"><span>sem ordem judicial (art. 15)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Empresas de transporte e telefonia</span></span><span class=\"vs\"><span>5 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Instrução com réu preso</span></span><span class=\"vs\"><span>até 120 dias, prorrogáveis</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 21-A</span></span><span class=\"vs\"><span>ordenar violência contra testemunha ou agente para obstruir, 4 a 12 anos (2025)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Domínio social estruturado</span></span><span class=\"vs\"><span>20 a 40 anos, hediondo (2026)</span></span></button></div></div>\n<h3>26. Resumo em uma página</h3>\n<ul><li><b>Conceito</b> (art. 1º, § 1º): 4+ pessoas; estrutura ordenada; divisão de tarefas, ainda que informal; vantagem de qualquer natureza; infrações com pena máxima > 4 anos ou transnacionais; também tratados e organizações terroristas.</li><li><b>Crime</b> (art. 2º): promover, constituir, financiar ou integrar; 3 a 8 anos; concurso material com os crimes praticados; embaraçar investigação; aumentos; comando; efeitos para servidores e policiais; segurança máxima para líderes armados; vedação de benefícios com vínculo mantido.</li><li><b>Meios de prova</b> (art. 3º): colaboração, captação ambiental, ação controlada, acesso a dados, interceptação, quebra de sigilos, infiltração, cooperação.</li><li><b>Colaboração</b> (arts. 3º-A a 7º): negócio jurídico; advogado sempre; benefícios e resultados; homologação; § 16; retratação; delatado por último; direitos do colaborador; sigilo até a denúncia.</li><li><b>Ação controlada</b> (arts. 8º e 9º): comunicação prévia; auto circunstanciado; cooperação internacional.</li><li><b>Infiltração</b> (arts. 10 a 14 e 10-A a 10-D): autorização; subsidiariedade; 6 meses; 720 dias na virtual; excessos; direitos do agente.</li><li><b>Dados</b> (arts. 15 a 17); <b>crimes</b> (arts. 18 a 21-B); <b>procedimento</b> ordinário com 120 dias (art. 22); sigilo (art. 23).</li><li><b>2026</b>: organizações ultraviolentas e domínio social estruturado (Lei 15.358).</li></ul>",
 "quiz": [
+{
+"p": "A organização criminosa exige a associação de quatro ou mais pessoas.",
+"c": true,
+"prof": "Conceito.",
+"x": "Art. 1º, § 1º.",
+"e": "4 pessoas"
+},
+{
+"p": "Configura organização criminosa a associação estruturada de três pessoas para a prática de crimes com pena máxima superior a 4 anos.",
+"c": false,
+"prof": "Conceito.",
+"x": "Exige 4.",
+"e": "Número"
+},
+{
+"p": "A organização criminosa exige que as infrações visadas tenham pena máxima igual ou superior a 4 anos.",
+"c": false,
+"prof": "Conceito.",
+"x": "Superior a 4.",
+"e": "Pena"
+},
+{
+"p": "A organização criminosa pode visar a infrações de caráter transnacional, ainda que com pena máxima inferior a 4 anos.",
+"c": true,
+"prof": "Conceito.",
+"x": "Transnacionalidade.",
+"e": "Alternativa"
+},
+{
+"p": "A vantagem buscada pela organização criminosa pode ser de qualquer natureza.",
+"c": true,
+"prof": "Conceito.",
+"x": "Não só econômica.",
+"e": "Vantagem"
+},
+{
+"p": "A divisão de tarefas na organização criminosa pode ser informal.",
+"c": true,
+"prof": "Conceito.",
+"x": "Ainda que informalmente.",
+"e": "Divisão de tarefas"
+},
+{
+"p": "A Lei 12.850/2013 aplica-se também às organizações terroristas.",
+"c": true,
+"prof": "Conceito.",
+"x": "Art. 1º, § 2º, II.",
+"e": "Terrorismo"
+},
+{
+"p": "O crime de organização criminosa é punido com reclusão de 3 a 8 anos e multa, sem prejuízo das penas das demais infrações praticadas.",
+"c": true,
+"prof": "Crime.",
+"x": "Art. 2º.",
+"e": "Concurso material"
+},
+{
+"p": "O crime de organização criminosa só se consuma com a prática do primeiro crime pela organização.",
+"c": false,
+"prof": "Crime.",
+"x": "Formal.",
+"e": "Consumação"
+},
+{
+"p": "Incorre nas penas do crime de organização criminosa quem impede ou embaraça a investigação de infração penal que envolva organização criminosa.",
+"c": true,
+"prof": "Crime.",
+"x": "Art. 2º, § 1º.",
+"e": "Obstrução"
+},
+{
+"p": "A pena do crime de organização criminosa aumenta-se até a metade se houver emprego de arma de fogo.",
+"c": true,
+"prof": "Crime.",
+"x": "§ 2º.",
+"e": "Arma"
+},
+{
+"p": "A pena é agravada para quem exerce o comando da organização, ainda que não pratique pessoalmente atos de execução.",
+"c": true,
+"prof": "Crime.",
+"x": "§ 3º.",
+"e": "Comando"
+},
+{
+"p": "A participação de criança ou adolescente na organização criminosa aumenta a pena de 1/6 a 2/3.",
+"c": true,
+"prof": "Crime.",
+"x": "§ 4º, I.",
+"e": "Aumento"
+},
+{
+"p": "O afastamento cautelar do funcionário público investigado por integrar organização criminosa ocorre com suspensão da remuneração.",
+"c": false,
+"prof": "Servidor.",
+"x": "Sem prejuízo da remuneração.",
+"e": "§ 5º"
+},
+{
+"p": "A condenação definitiva do funcionário público por organização criminosa acarreta a perda do cargo e a interdição para função pública por 8 anos após o cumprimento da pena.",
+"c": true,
+"prof": "Servidor.",
+"x": "§ 6º.",
+"e": "8 anos"
+},
+{
+"p": "Havendo indícios de participação de policial em crime da Lei 12.850, a Corregedoria de Polícia instaura inquérito e comunica o Ministério Público.",
+"c": true,
+"prof": "Policial.",
+"x": "§ 7º.",
+"e": "Corregedoria"
+},
+{
+"p": "As lideranças de organizações criminosas armadas devem iniciar o cumprimento da pena em estabelecimento de segurança máxima.",
+"c": true,
+"prof": "Execução.",
+"x": "§ 8º.",
+"e": "Segurança máxima"
+},
+{
+"p": "A colaboração premiada é negócio jurídico processual e meio de obtenção de prova.",
+"c": true,
+"prof": "Colaboração.",
+"x": "Art. 3º-A.",
+"e": "Natureza"
+},
+{
+"p": "Nenhuma tratativa de colaboração premiada pode ser realizada sem a presença de advogado ou defensor público.",
+"c": true,
+"prof": "Colaboração.",
+"x": "Art. 3º-C, § 1º.",
+"e": "Advogado"
+},
+{
+"p": "Para a concessão dos benefícios da colaboração, exige-se a obtenção cumulativa de todos os resultados previstos no art. 4º.",
+"c": false,
+"prof": "Colaboração.",
+"x": "Um ou mais.",
+"e": "Alternativos"
+},
+{
+"p": "O juiz pode reduzir em até dois terços a pena do colaborador.",
+"c": true,
+"prof": "Colaboração.",
+"x": "Art. 4º.",
+"e": "2/3"
+},
+{
+"p": "Se a colaboração for posterior à sentença, a pena pode ser reduzida até a metade ou admitida a progressão ainda que ausentes os requisitos objetivos.",
+"c": true,
+"prof": "Colaboração.",
+"x": "§ 5º.",
+"e": "Após a sentença"
+},
+{
+"p": "O Ministério Público pode deixar de oferecer denúncia contra o colaborador que não for o líder da organização e for o primeiro a prestar efetiva colaboração.",
+"c": true,
+"prof": "Colaboração.",
+"x": "§ 4º.",
+"e": "Não denúncia"
+},
+{
+"p": "O juiz participa das negociações do acordo de colaboração para garantir sua legalidade.",
+"c": false,
+"prof": "Colaboração.",
+"x": "§ 6º.",
+"e": "Imparcialidade"
+},
+{
+"p": "Na homologação, o juiz analisa a regularidade, a legalidade, a adequação dos benefícios e dos resultados e a voluntariedade.",
+"c": true,
+"prof": "Colaboração.",
+"x": "§ 7º.",
+"e": "Homologação"
+},
+{
+"p": "São nulas as cláusulas do acordo de colaboração que violem as regras de fixação do regime inicial ou os requisitos de progressão.",
+"c": true,
+"prof": "Colaboração.",
+"x": "§ 7º, II.",
+"e": "Nulidade"
+},
+{
+"p": "A sentença condenatória pode fundamentar-se apenas nas declarações do colaborador, desde que o acordo tenha sido homologado.",
+"c": false,
+"prof": "Colaboração.",
+"x": "§ 16.",
+"e": "Corroboração"
+},
+{
+"p": "O juiz pode decretar a prisão preventiva com fundamento apenas nas declarações do colaborador.",
+"c": false,
+"prof": "Colaboração.",
+"x": "§ 16, I.",
+"e": "Cautelares"
+},
+{
+"p": "Em caso de retratação da proposta, as provas autoincriminatórias do colaborador não poderão ser utilizadas exclusivamente em seu desfavor.",
+"c": true,
+"prof": "Colaboração.",
+"x": "§ 10.",
+"e": "Retratação"
+},
+{
+"p": "Deve-se garantir ao réu delatado a oportunidade de manifestar-se após o prazo concedido ao réu que o delatou.",
+"c": true,
+"prof": "Colaboração.",
+"x": "§ 10-A.",
+"e": "Delatado por último"
+},
+{
+"p": "Nos depoimentos que prestar, o colaborador renunciará ao direito ao silêncio e estará sujeito ao compromisso de dizer a verdade.",
+"c": true,
+"prof": "Colaboração.",
+"x": "§ 14.",
+"e": "Silêncio"
+},
+{
+"p": "O acordo de colaboração e os depoimentos do colaborador permanecem em sigilo até o recebimento da denúncia.",
+"c": true,
+"prof": "Colaboração.",
+"x": "Art. 7º, § 3º.",
+"e": "Sigilo"
+},
+{
+"p": "Segundo o STF, o delegado de polícia pode celebrar acordo de colaboração premiada na fase de inquérito.",
+"c": true,
+"prof": "Colaboração.",
+"x": "ADI 5.508.",
+"e": "Delegado"
+},
+{
+"p": "É direito do colaborador cumprir pena em estabelecimento diverso dos demais corréus.",
+"c": true,
+"prof": "Colaboração.",
+"x": "Art. 5º, VI.",
+"e": "Direitos"
+},
+{
+"p": "Na Lei 12.850, a ação controlada depende de comunicação prévia ao juiz, que estabelecerá seus limites.",
+"c": true,
+"prof": "Ação controlada.",
+"x": "Art. 8º, § 1º.",
+"e": "Comunicação"
+},
+{
+"p": "Na Lei 12.850, a ação controlada exige prévia autorização judicial, como na Lei de Drogas.",
+"c": false,
+"prof": "Ação controlada.",
+"x": "Basta comunicação.",
+"e": "Diferença"
+},
+{
+"p": "A ação controlada que envolva transposição de fronteiras depende da cooperação das autoridades dos países envolvidos.",
+"c": true,
+"prof": "Ação controlada.",
+"x": "Art. 9º.",
+"e": "Fronteiras"
+},
+{
+"p": "A infiltração de agentes depende de autorização judicial circunstanciada, motivada e sigilosa.",
+"c": true,
+"prof": "Infiltração.",
+"x": "Art. 10.",
+"e": "Autorização"
+},
+{
+"p": "A infiltração só é admitida se a prova não puder ser produzida por outros meios disponíveis.",
+"c": true,
+"prof": "Infiltração.",
+"x": "Art. 10, § 2º.",
+"e": "Subsidiariedade"
+},
+{
+"p": "A infiltração presencial é autorizada por até 6 meses, sem prejuízo de renovações.",
+"c": true,
+"prof": "Infiltração.",
+"x": "Art. 10, § 3º.",
+"e": "Prazo"
+},
+{
+"p": "Não é punível a prática de crime pelo agente infiltrado, no curso da investigação, quando inexigível conduta diversa.",
+"c": true,
+"prof": "Infiltração.",
+"x": "Art. 13, parágrafo único.",
+"e": "Culpabilidade"
+},
+{
+"p": "O agente infiltrado tem o direito de recusar ou fazer cessar a atuação infiltrada.",
+"c": true,
+"prof": "Infiltração.",
+"x": "Art. 14, I.",
+"e": "Direitos"
+},
+{
+"p": "A infiltração virtual pode ser renovada, desde que o total não exceda 720 dias.",
+"c": true,
+"prof": "Infiltração virtual.",
+"x": "Art. 10-A, § 4º.",
+"e": "720 dias"
+},
+{
+"p": "O delegado pode requisitar, sem autorização judicial, dados cadastrais de qualificação pessoal, filiação e endereço do investigado mantidos por empresas telefônicas.",
+"c": true,
+"prof": "Dados.",
+"x": "Art. 15.",
+"e": "Cadastrais"
+},
+{
+"p": "As concessionárias de telefonia devem manter por 5 anos os registros de identificação dos números de origem e destino das ligações.",
+"c": true,
+"prof": "Dados.",
+"x": "Art. 17.",
+"e": "5 anos"
+},
+{
+"p": "Recusar ou omitir dados cadastrais requisitados pelo delegado no curso da investigação é crime.",
+"c": true,
+"prof": "Crimes.",
+"x": "Art. 21.",
+"e": "Recusa"
+},
+{
+"p": "Imputar falsamente, sob pretexto de colaboração, a prática de infração a pessoa que sabe inocente é crime previsto na Lei 12.850.",
+"c": true,
+"prof": "Crimes.",
+"x": "Art. 19.",
+"e": "Falsa imputação"
+},
+{
+"p": "A Lei 15.245/2025 tipificou a conduta de ordenar violência ou grave ameaça contra testemunha para obstruir processo contra organização criminosa.",
+"c": true,
+"prof": "Crimes.",
+"x": "Art. 21-A.",
+"e": "Obstrução"
+},
+{
+"p": "Quando o réu estiver preso, a instrução criminal nos crimes da Lei 12.850 não poderá exceder 120 dias, prorrogáveis por igual período em decisão fundamentada.",
+"c": true,
+"prof": "Procedimento.",
+"x": "Art. 22.",
+"e": "120 dias"
+},
+{
+"p": "Para a Lei 15.358/2026, a organização criminosa ultraviolenta é o agrupamento de três ou mais pessoas que emprega violência para impor controle territorial ou social.",
+"c": true,
+"prof": "Lei Antifacção.",
+"x": "Art. 2º, § 2º.",
+"e": "3 pessoas"
+},
+{
+"p": "A captação ambiental realizada pela polícia, por quem não é interlocutor, exige autorização judicial.",
+"c": true,
+"prof": "Captação ambiental.",
+"x": "Lei 9.296, art. 8º-A.",
+"e": "Autorização"
+},
+{
+"p": "No colegiado de primeiro grau da Lei 12.694/2012, as decisões são assinadas por todos os juízes, sem referência a voto divergente.",
+"c": true,
+"prof": "Julgamento colegiado.",
+"x": "Lei 12.694.",
+"e": "Sem rosto"
+},
+{
+"p": "Segundo o STF, são lícitas as sucessivas renovações de interceptação telefônica, desde que devidamente fundamentadas.",
+"c": true,
+"prof": "Interceptação.",
+"x": "Tema 661.",
+"e": "Renovações"
+},
+{
+"p": "Segundo a Lei 12.850/2013, considera-se organização criminosa a associação de",
+"alts": [
+"3 ou mais pessoas, para a prática de crimes",
+"2 ou mais pessoas, de forma estável",
+"4 ou mais pessoas, estruturalmente ordenada e com divisão de tarefas, para infrações com pena máxima superior a 4 anos ou transnacionais",
+"4 ou mais pessoas, para infrações com pena mínima superior a 4 anos",
+"5 ou mais pessoas, armadas"
+],
+"r": 2,
+"x": "Art. 1º, § 1º.",
+"n": [
+"Associação criminosa.",
+"Associação para o tráfico.",
+"Correta.",
+"Pena máxima.",
+"Não."
+],
+"e": "Conceito."
+},
+{
+"p": "Três amigos se associam de forma estável para praticar furtos simples. Configura-se",
+"alts": [
+"organização criminosa",
+"associação para o tráfico",
+"associação criminosa",
+"milícia privada",
+"domínio social estruturado"
+],
+"r": 2,
+"x": "CP, art. 288.",
+"n": [
+"Faltam o 4º integrante e a pena máxima superior a 4 anos.",
+"Não há tráfico.",
+"Correta.",
+"Não é organização paramilitar.",
+"Não há controle territorial violento."
+],
+"e": "Distinção."
+},
+{
+"p": "Sobre a colaboração premiada, é correto afirmar:",
+"alts": [
+"o juiz participa das negociações",
+"basta a palavra do colaborador para condenar",
+"é negócio jurídico processual e meio de obtenção de prova",
+"pode ser celebrada sem advogado",
+"os resultados exigidos são cumulativos"
+],
+"r": 2,
+"x": "Art. 3º-A.",
+"n": [
+"§ 6º veda.",
+"§ 16 veda.",
+"Correta.",
+"Art. 3º-C, § 1º.",
+"Um ou mais."
+],
+"e": "Natureza."
+},
+{
+"p": "Se a colaboração premiada ocorrer após a sentença, o colaborador poderá obter",
+"alts": [
+"perdão judicial obrigatório",
+"redução de até 2/3 da pena",
+"redução de até metade da pena ou progressão de regime ainda que ausentes os requisitos objetivos",
+"anulação da condenação",
+"não oferecimento da denúncia"
+],
+"r": 2,
+"x": "Art. 4º, § 5º.",
+"n": [
+"Não.",
+"Antes da sentença.",
+"Correta.",
+"Não.",
+"Já houve denúncia."
+],
+"e": "Após a sentença."
+},
+{
+"p": "Nos termos do art. 4º, § 16, da Lei 12.850/2013, as declarações do colaborador, isoladamente, NÃO podem fundamentar:",
+"alts": [
+"o início de diligências investigatórias",
+"medidas cautelares, recebimento da denúncia e sentença condenatória",
+"a instauração de inquérito",
+"a oitiva de testemunhas",
+"requisição de documentos"
+],
+"r": 1,
+"x": "Regra da corroboração.",
+"n": [
+"Podem orientar a investigação.",
+"Correta.",
+"Podem orientar.",
+"Podem.",
+"Podem."
+],
+"e": "§ 16."
+},
+{
+"p": "Quanto à ação controlada prevista na Lei 12.850/2013, é correto afirmar que",
+"alts": [
+"depende de autorização judicial prévia",
+"é vedada em casos transnacionais",
+"exige comunicação prévia ao juiz, que estabelecerá seus limites e comunicará ao MP",
+"dispensa qualquer controle judicial",
+"só pode ser requerida pelo MP"
+],
+"r": 2,
+"x": "Art. 8º, § 1º.",
+"n": [
+"Basta comunicação.",
+"Exige cooperação internacional (art. 9º).",
+"Correta.",
+"Há comunicação.",
+"Não."
+],
+"e": "Ação controlada."
+},
+{
+"p": "Sobre a infiltração de agentes, assinale a correta.",
+"alts": [
+"pode ser determinada pelo delegado sem ordem judicial",
+"exige autorização judicial e só é admitida se a prova não puder ser produzida por outros meios",
+"o agente responde por qualquer crime praticado",
+"a infiltração virtual não tem limite de prazo",
+"pode ser feita por particulares"
+],
+"r": 1,
+"x": "Art. 10.",
+"n": [
+"Exige autorização.",
+"Correta.",
+"Inexigibilidade e excessos.",
+"720 dias.",
+"Agentes de polícia."
+],
+"e": "Infiltração."
+},
+{
+"p": "O prazo máximo total da infiltração virtual de agentes, incluídas as renovações, é de",
+"alts": [
+"6 meses",
+"1 ano",
+"360 dias",
+"720 dias",
+"indeterminado"
+],
+"r": 3,
+"x": "Art. 10-A, § 4º.",
+"n": [
+"É o prazo de cada período.",
+"Não.",
+"Não.",
+"Correta.",
+"Há limite."
+],
+"e": "Infiltração virtual."
+},
+{
+"p": "O delegado de polícia pode, independentemente de autorização judicial, ter acesso",
+"alts": [
+"ao conteúdo das conversas de aplicativo do investigado",
+"aos extratos bancários do investigado",
+"aos dados cadastrais de qualificação pessoal, filiação e endereço mantidos por operadoras e instituições financeiras",
+"à localização em tempo real do celular",
+"à interceptação telefônica"
+],
+"r": 2,
+"x": "Art. 15.",
+"n": [
+"Exige ordem judicial.",
+"Exige ordem judicial.",
+"Correta.",
+"Exige ordem judicial.",
+"Exige ordem judicial."
+],
+"e": "Dados cadastrais."
+},
+{
+"p": "Sobre o funcionário público que integra organização criminosa, é correto afirmar:",
+"alts": [
+"o afastamento cautelar ocorre sem remuneração",
+"a condenação definitiva acarreta perda do cargo e interdição por 8 anos subsequentes ao cumprimento da pena",
+"a perda do cargo depende de reincidência",
+"a interdição é de 3 anos",
+"não há causa de aumento"
+],
+"r": 1,
+"x": "Art. 2º, §§ 5º e 6º.",
+"n": [
+"Sem prejuízo da remuneração.",
+"Correta.",
+"Isso é da Lei de Abuso de Autoridade.",
+"São 8 anos.",
+"§ 4º, II."
+],
+"e": "Servidor."
+},
+{
+"p": "O STF, ao julgar a ADI 5.508, decidiu que",
+"alts": [
+"só o MP pode celebrar colaboração premiada",
+"o delegado pode celebrar colaboração premiada no inquérito, com manifestação do MP, sujeita à homologação judicial",
+"o delegado pode prometer o não oferecimento da denúncia",
+"a colaboração dispensa homologação",
+"o juiz celebra o acordo"
+],
+"r": 1,
+"x": "Colaboração pelo delegado.",
+"n": [
+"Não.",
+"Correta.",
+"Prerrogativa do MP.",
+"Exige homologação.",
+"Juiz não participa."
+],
+"e": "ADI 5.508."
+},
+{
+"p": "O Ministério Público pode deixar de oferecer denúncia contra o colaborador quando",
+"alts": [
+"o colaborador for o líder da organização",
+"o colaborador não for o líder, for o primeiro a prestar efetiva colaboração e a infração não for previamente conhecida",
+"houver qualquer colaboração",
+"o colaborador for primário",
+"o delegado concordar"
+],
+"r": 1,
+"x": "Art. 4º, §§ 4º e 4º-A.",
+"n": [
+"O líder não.",
+"Correta.",
+"Requisitos específicos.",
+"Não basta.",
+"Prerrogativa do MP."
+],
+"e": "Não denúncia."
+},
+{
+"p": "A Lei 15.245/2025 criou na Lei 12.850/2013 o crime de",
+"alts": [
+"integrar organização criminosa",
+"solicitar ou ordenar violência ou grave ameaça contra testemunha, colaborador, perito ou agente público para obstruir ou retaliar atos contra organização criminosa",
+"revelar a identidade do colaborador",
+"domínio social estruturado",
+"associação para o tráfico"
+],
+"r": 1,
+"x": "Art. 21-A.",
+"n": [
+"Art. 2º, original.",
+"Correta.",
+"Art. 18, original.",
+"Lei 15.358/2026.",
+"Lei de Drogas."
+],
+"e": "Art. 21-A."
+},
+{
+"p": "Quanto ao crime de organização criminosa (art. 2º), assinale a correta.",
+"alts": [
+"é crime material, que exige a prática de crimes pela organização",
+"absorve os crimes praticados",
+"é crime formal e permanente, em concurso material com as demais infrações",
+"tem pena de 1 a 3 anos",
+"é sempre hediondo"
+],
+"r": 2,
+"x": "\"Sem prejuízo das penas correspondentes\".",
+"n": [
+"É formal.",
+"Concurso material.",
+"Correta.",
+"3 a 8 anos.",
+"Só se voltada a hediondo."
+],
+"e": "Crime."
+},
+{
+"p": "Em 2026, uma facção impõe toque de recolher e ergue barricadas para impedir a polícia de entrar num bairro. A conduta configura, em tese,",
+"alts": [
+"apenas associação criminosa",
+"apenas organização criminosa da Lei 12.850",
+"domínio social estruturado, crime hediondo da Lei 15.358/2026",
+"contravenção penal",
+"desobediência"
+],
+"r": 2,
+"x": "Lei Antifacção.",
+"n": [
+"Há crime específico.",
+"Há elemento de controle territorial violento.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Domínio social."
+},
+{
+"p": "São direitos do colaborador, EXCETO:",
+"alts": [
+"ter nome e imagem preservados",
+"ser conduzido em juízo separadamente dos demais",
+"participar das audiências sem contato visual com os outros acusados",
+"cumprir pena em estabelecimento diverso dos corréus",
+"permanecer em silêncio nos depoimentos que prestar"
+],
+"r": 4,
+"x": "Art. 4º, § 14.",
+"n": [
+"Art. 5º, II.",
+"Art. 5º, III.",
+"Art. 5º, IV.",
+"Art. 5º, VI.",
+"Correta: renuncia ao silêncio."
+],
+"e": "Direitos."
+},
+{
+"p": "Nos processos por crimes da Lei 12.850/2013, estando o réu preso, a instrução criminal não poderá exceder",
+"alts": [
+"60 dias",
+"90 dias",
+"120 dias, prorrogáveis por igual período em decisão fundamentada",
+"180 dias",
+"1 ano"
+],
+"r": 2,
+"x": "Art. 22, parágrafo único.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Instrução."
+},
 {
 "p": "Considera-se organização criminosa a associação de quatro ou mais pessoas, estruturalmente ordenada e com divisão de tarefas, ainda que informal, para obter vantagem mediante infrações penais com pena máxima superior a quatro anos ou de caráter transnacional.",
 "c": true,
@@ -17390,11 +20243,717 @@ export const PROFUNDO = {
 "x": "A ação controlada consiste em retardar a intervenção policial para que se concretize no momento mais eficaz. Na Lei 12.850, exige comunicação prévia ao juiz, que pode fixar limites e comunicará o MP; ao final, elabora-se auto circunstanciado.",
 "e": "Comunicação prévia."
 }
-]
+],
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>pessoas, no mínimo, para organização criminosa</span></div><div class=\"lt-stat\"><b>> 4 anos</b><span>pena máxima das infrações visadas (ou caráter transnacional)</span></div><div class=\"lt-stat\"><b>3 a 8</b><span>anos de reclusão (art. 2º)</span></div><div class=\"lt-stat\"><b>6 meses</b><span>prazo da infiltração, renovável (virtual: até 720 dias no total)</span></div></div>\n<h3>1. Conceito (art. 1º, § 1º)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Art. 1º, § 1º</div><div class=\"art-lei\">Considera-se organização criminosa a associação de 4 ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais cujas penas máximas sejam superiores a 4 anos, ou que sejam de caráter transnacional.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>4 ou mais</b> pessoas (na associação criminosa do CP, art. 288, são <b>3 ou mais</b>).</li><li><b>Estrutura ordenada</b> + <b>divisão de tarefas</b> (mesmo informal).</li><li>Infrações com pena máxima <b>superior a 4 anos</b> <b>ou</b> de caráter <b>transnacional</b>.</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Dizer \"3 pessoas\".</li><li>Dizer \"pena máxima igual ou superior a 4 anos\" (é SUPERIOR).</li><li>Exigir divisão formal de tarefas.</li></ul></div></div>\n<ul><li><b>Promover, constituir, financiar ou integrar</b> organização criminosa: <b>reclusão de 3 a 8 anos</b>, sem prejuízo das penas das infrações praticadas (art. 2º). <b>Embaraçar a investigação</b> tem a mesma pena (§ 1º).</li><li>Aumento até a <b>metade</b> se houver emprego de <b>arma de fogo</b>; agravante para quem exerce o <b>comando</b>. Aumento de 1/6 a 2/3 se houver criança ou adolescente, funcionário público que se vale do cargo, produto destinado ao exterior, conexão com outras organizações ou transnacionalidade.</li><li><b>Funcionário público</b> condenado: <b>perda do cargo</b> e <b>interdição</b> para função pública por <b>8 anos</b> após o cumprimento da pena. Lideranças armadas iniciam a pena em <b>estabelecimento de segurança máxima</b>.</li></ul>\n<h3>2. Meios de obtenção de prova (art. 3º)</h3>\n<ul><li><b>Colaboração premiada</b>; <b>captação ambiental</b>; <b>ação controlada</b>; acesso a registros e dados cadastrais; <b>interceptação</b>; quebra de sigilos financeiro, bancário e fiscal; <b>infiltração</b> de agentes; cooperação entre órgãos.</li><li>O <b>Delegado</b> pode <b>requisitar diretamente</b> dados cadastrais (qualificação, filiação e endereço) a Justiça Eleitoral, empresas telefônicas, bancos, provedores e administradoras de cartão (art. 15).</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Colaboração premiada</h3>\n<ul><li><b>Negócio jurídico processual</b> e meio de obtenção de prova (art. 3º-A). Pode ser celebrada pelo <b>Delegado</b>, nos autos do inquérito, com manifestação do MP, ou pelo MP (STF, ADI 5.508). O juiz <b>não participa</b> das negociações; ele <b>homologa</b> (regularidade, legalidade e voluntariedade).</li><li><b>Benefícios</b>: perdão judicial, redução de até <b>2/3</b> da pena ou substituição por restritiva de direitos; se posterior à sentença, redução até a metade ou progressão sem os requisitos objetivos.</li><li><b>Resultados</b> exigidos (um ou mais): identificar coautores e crimes; revelar a estrutura; prevenir infrações; <b>recuperar o produto</b> do crime; <b>localizar a vítima</b> com integridade física preservada.</li><li>Garantias: <b>nenhuma sentença condenatória</b>, nem <b>medida cautelar</b>, nem <b>recebimento de denúncia</b> pode se basear <b>apenas</b> nas declarações do colaborador (art. 4º, § 16).</li></ul>\n<h3>4. Ação controlada e infiltração</h3>\n<table class=\"tab\"><thead><tr><th>Instituto</th><th>Regra na Lei 12.850</th></tr></thead><tbody><tr><td><b>Ação controlada</b></td><td>retardar a intervenção policial para o momento mais eficaz; exige só <b>comunicação prévia ao juiz</b>, que pode estabelecer limites (art. 8º)</td></tr><tr><td><b>Infiltração de agentes</b></td><td><b>autorização judicial</b> circunstanciada e sigilosa; a pedido do <b>Delegado</b> (com manifestação do MP) ou do MP; prazo de <b>até 6 meses</b>, renovável; só se a prova <b>não puder ser produzida por outros meios</b></td></tr><tr><td><b>Infiltração virtual</b> (art. 10-A)</td><td>até 6 meses, renovável, <b>até 720 dias</b> no total</td></tr><tr><td>Responsabilidade do infiltrado</td><td>não é punível o crime cometido na infiltração quando <b>inexigível conduta diversa</b>; responde pelos excessos</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 5.508</b><p class=\"jc-tese\">O Delegado de Polícia pode formalizar acordo de colaboração premiada na fase de inquérito, respeitadas as prerrogativas do MP, que deve se manifestar, cabendo ao juiz a homologação.</p><p class=\"jc-com\">A PCMG pode conduzir acordos de colaboração em investigações de facções, desde que o MP seja ouvido.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Organização criminosa exige 3 pessoas</span><br>✅ <span class=\"certo\">São 4 ou mais (associação criminosa do CP é que tem 3).</span></li><li>❌ <span class=\"banca\">Pena máxima igual a 4 anos basta</span><br>✅ <span class=\"certo\">Tem que ser SUPERIOR a 4 anos, ou transnacional.</span></li><li>❌ <span class=\"banca\">Ação controlada exige autorização judicial</span><br>✅ <span class=\"certo\">Na Lei 12.850, só comunicação prévia ao juiz.</span></li><li>❌ <span class=\"banca\">O juiz participa da negociação da colaboração</span><br>✅ <span class=\"certo\">O juiz não participa; só homologa.</span></li><li>❌ <span class=\"banca\">O juiz pode condenar só com a palavra do colaborador</span><br>✅ <span class=\"certo\">Vedado (art. 4º, § 16).</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Organização criminosa?</span></span><span class=\"vs\"><span><b>4+</b> pessoas, estrutura, divisão de tarefas, infrações com pena máx. <b>> 4 anos</b> ou transnacionais.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena do art. 2º?</span></span><span class=\"vs\"><span><b>Reclusão de 3 a 8 anos</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação controlada (Lei 12.850)?</span></span><span class=\"vs\"><span><b>Comunicação</b> prévia ao juiz.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infiltração?</span></span><span class=\"vs\"><span><b>Autorização judicial</b>; até <b>6 meses</b> renováveis.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem celebra colaboração?</span></span><span class=\"vs\"><span><b>MP</b> ou <b>Delegado</b> (com manifestação do MP).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Palavra do colaborador sozinha?</span></span><span class=\"vs\"><span><b>Não</b> basta para condenar, prender ou receber denúncia.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A facção do bairro</b><p>Uma investigação revela que 5 pessoas, com funções definidas (gerente, olheiros, \"vapores\"), vendem drogas e cometem roubos em um bairro de Contagem.</p><details><summary>Ver a solução comentada</summary><p>Há <b>organização criminosa</b> (4+ pessoas, estrutura e divisão de tarefas, crimes com pena máxima superior a 4 anos) em <b>concurso material</b> com os crimes praticados (tráfico, roubos). A associação para o tráfico (art. 35 da Lei de Drogas) também pode ser analisada, conforme o caso, evitando-se bis in idem.</p></details></div>"
 },
 "interceptacao": {
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>15</b><span>dias de interceptação, renováveis (sucessivamente, se indispensável)</span></div><div class=\"lt-stat\"><b>24 h</b><span>prazo do juiz para decidir o pedido</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão por interceptar sem autorização (art. 10)</span></div><div class=\"lt-stat\"><b>Detenção</b><span>crimes punidos só com detenção não admitem interceptação</span></div></div>\n<h3>1. Regras da Lei 9.296/1996</h3>\n<ul><li>A interceptação de comunicações <b>telefônicas</b> e de <b>fluxo de comunicações em sistemas de informática e telemática</b> depende de <b>ordem do juiz competente da ação principal</b>, sob <b>segredo de justiça</b> (art. 1º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Não cabe interceptação (art. 2º) quando:</th></tr></thead><tbody><tr><td><b>não houver indícios razoáveis</b> de autoria ou participação</td></tr><tr><td>a prova <b>puder ser feita por outros meios</b> disponíveis (subsidiariedade)</td></tr><tr><td>o fato for punido, <b>no máximo, com detenção</b></td></tr></tbody></table>\n<ul><li>Quem pede: a <b>autoridade policial</b> (na investigação) ou o <b>MP</b> (na investigação e na ação). A lei também fala em decretação <b>de ofício</b> pelo juiz, o que hoje é visto com reservas no sistema acusatório.</li><li>O pedido deve demonstrar a <b>necessidade</b> e indicar os <b>meios</b>; excepcionalmente pode ser <b>verbal</b>, reduzido a termo. O juiz decide em <b>24 horas</b>.</li><li>Prazo de <b>15 dias</b>, <b>renovável por igual período</b> quando comprovada a indispensabilidade. O STF admite <b>renovações sucessivas</b>, desde que fundamentadas (Tema 661).</li><li>A <b>autoridade policial conduz</b> a interceptação e dá ciência ao MP, que pode acompanhar. As gravações que não interessarem à prova são <b>inutilizadas</b> por decisão judicial (art. 9º).</li></ul>\n<h3>2. Captação ambiental (art. 8º-A, Pacote Anticrime)</h3>\n<ul><li>Captação de sinais eletromagnéticos, ópticos ou acústicos, a requerimento da <b>autoridade policial</b> ou do <b>MP</b>, com <b>autorização judicial</b>, quando a prova não puder ser feita por outros meios e houver indícios em crimes com <b>pena máxima superior a 4 anos</b> ou conexos. Prazo de <b>15 dias</b>, renovável.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Conceitos que caem</h3>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Precisa de ordem judicial?</th></tr></thead><tbody><tr><td><b>Interceptação</b>: terceiro capta conversa alheia sem que os interlocutores saibam</td><td><b>Sim</b> (Lei 9.296)</td></tr><tr><td><b>Escuta</b>: terceiro capta com o conhecimento de um dos interlocutores</td><td>Sim, em regra</td></tr><tr><td><b>Gravação clandestina</b>: um dos interlocutores grava a própria conversa</td><td><b>Não</b>: é lícita (STF, Tema 237), salvo causa legal de sigilo</td></tr><tr><td>Acesso a <b>dados</b> já armazenados no celular (mensagens, fotos)</td><td>Sim, mas não pela Lei 9.296: é quebra de sigilo de dados</td></tr><tr><td><b>Registros</b> de ligações (quem ligou, quando)</td><td>Sim, quebra de sigilo telefônico (não é interceptação)</td></tr></tbody></table>\n<ul><li><b>Encontro fortuito (serendipidade)</b>: provas de outros crimes ou de outras pessoas obtidas em interceptação <b>válida</b> podem ser usadas, mesmo que o crime descoberto seja punido com detenção (STF e STJ).</li><li><b>Crimes</b> (art. 10 e 10-A): realizar interceptação, escuta ambiental ou quebrar segredo de justiça sem autorização ou com objetivos não autorizados: <b>reclusão de 2 a 4 anos</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 237 (RE 583.937)</b><p class=\"jc-tese\">É lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro.</p><p class=\"jc-com\">A vítima de extorsão que grava a ligação do extorsionário produz prova válida.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 661 (RE 625.263)</b><p class=\"jc-tese\">São lícitas as sucessivas renovações de interceptação telefônica, desde que verificados os requisitos do art. 2º da Lei 9.296/1996 e demonstrada a necessidade da medida, com fundamentação de cada decisão.</p><p class=\"jc-com\">Renovação \"automática\", sem fundamentação concreta, torna a prova ilícita.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Cabe interceptação em qualquer crime</span><br>✅ <span class=\"certo\">Não cabe em crime punido, no máximo, com detenção.</span></li><li>❌ <span class=\"banca\">O prazo é de 30 dias</span><br>✅ <span class=\"certo\">15 dias, renovável por igual período.</span></li><li>❌ <span class=\"banca\">A gravação feita por um dos interlocutores é ilícita sem ordem judicial</span><br>✅ <span class=\"certo\">É lícita (Tema 237).</span></li><li>❌ <span class=\"banca\">A prova de crime de detenção descoberta fortuitamente é ilícita</span><br>✅ <span class=\"certo\">O encontro fortuito em interceptação válida é admitido.</span></li><li>❌ <span class=\"banca\">O MP conduz a interceptação</span><br>✅ <span class=\"certo\">Quem conduz é a autoridade policial, com ciência ao MP.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quando NÃO cabe interceptação?</span></span><span class=\"vs\"><span>Sem <b>indícios</b> de autoria; prova possível por <b>outros meios</b>; crime punido no máximo com <b>detenção</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo?</span></span><span class=\"vs\"><span><b>15 dias</b>, renovável (sucessivamente, se fundamentado).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juiz decide em?</span></span><span class=\"vs\"><span><b>24 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gravação por interlocutor?</span></span><span class=\"vs\"><span><b>Lícita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Serendipidade?</span></span><span class=\"vs\"><span>Válida se a interceptação for <b>lícita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Crime do art. 10?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 4 anos</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A descoberta inesperada</b><p>Em interceptação autorizada para investigar tráfico, a polícia ouve o investigado combinando com um vereador o pagamento de propina para liberar um alvará.</p><details><summary>Ver a solução comentada</summary><p>Trata-se de <b>encontro fortuito</b> de provas. Como a interceptação era <b>válida</b>, as informações podem ser usadas para investigar a corrupção. A polícia deve comunicar o juiz e instaurar procedimento próprio.</p></details></div>",
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>15</b><span>dias: prazo da interceptação, renovável por igual período, comprovada a indispensabilidade (Lei 9.296/1996, art. 5º)</span></div><div class=\"lt-stat\"><b>24 h</b><span>prazo para o juiz decidir o pedido de interceptação (art. 4º, § 2º)</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão: interceptação ou captação ambiental sem autorização judicial (arts. 10 e 10-A)</span></div><div class=\"lt-stat\"><b>reclusão</b><span>só cabe interceptação em crimes punidos com reclusão (art. 2º, III)</span></div></div>\n<h3>1. O sigilo das comunicações na Constituição</h3>\n<ul><li><b>CF, art. 5º, XII</b>: \"é inviolável o sigilo da <b>correspondência</b> e das <b>comunicações telegráficas</b>, de <b>dados</b> e das <b>comunicações telefônicas</b>, salvo, no <b>último caso</b>, por <b>ordem judicial</b>, nas hipóteses e na forma que a <b>lei</b> estabelecer para fins de <b>investigação criminal ou instrução processual penal</b>.\"</li><li>A Constituição exige, para quebrar o sigilo das comunicações telefônicas, <b>quatro requisitos</b>: (1) <b>ordem judicial</b> (cláusula de reserva de jurisdição); (2) <b>lei</b> que regulamente as hipóteses e a forma; (3) finalidade de <b>investigação criminal ou instrução processual penal</b>; (4) que se trate de comunicação <b>telefônica</b> (a expressão \"no último caso\"). Antes da lei regulamentadora, o STF declarou ilícitas as interceptações autorizadas com base no antigo Código Brasileiro de Telecomunicações, por falta da lei exigida pela Constituição.</li><li>A <b>Lei 9.296, de 24 de julho de 1996</b>, é essa lei. Ela também se aplica à interceptação do <b>fluxo de comunicações em sistemas de informática e telemática</b> (parágrafo único do art. 1º), o que abrange e-mails, mensagens e chamadas por internet <b>em trânsito</b>. O STF considera válida essa extensão.</li><li><b>Reserva de jurisdição</b>: só o <b>juiz</b> pode autorizar a interceptação. Nem o delegado, nem o MP, nem as <b>CPIs</b> podem decretá-la. As CPIs podem, porém, determinar a quebra do sigilo dos <b>registros</b> telefônicos (dados de chamadas), por ato fundamentado, mas não a interceptação do conteúdo.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · CPI e reserva de jurisdição</b><p class=\"jc-tese\">As Comissões Parlamentares de Inquérito têm poderes de investigação próprios das autoridades judiciais (CF, art. 58, § 3º), podendo quebrar sigilos <b>bancário, fiscal e de dados telefônicos</b> (registros), por decisão fundamentada da maioria de seus membros. Mas <b>não</b> podem decretar <b>interceptação telefônica</b>, busca domiciliar nem prisão (salvo flagrante), pois essas medidas estão sob <b>reserva de jurisdição</b>.</p><p class=\"jc-com\">A diferença entre <b>registros</b> (quem ligou para quem, quando e por quanto tempo) e <b>conteúdo</b> (o que foi falado) é central: os registros estão protegidos pela privacidade (art. 5º, X), e sua quebra exige decisão fundamentada de autoridade com poder para tanto; o conteúdo da comunicação em curso só pode ser captado com ordem <b>judicial</b>, nos termos da Lei 9.296.</p></div>\n<h3>2. Conceitos fundamentais: interceptação, escuta e gravação</h3>\n<table class=\"tab\"><thead><tr><th>Figura</th><th>O que é</th><th>Exemplo</th><th>Regime</th></tr></thead><tbody><tr><td><b>Interceptação telefônica</b> (sentido estrito)</td><td>captação da conversa por <b>terceiro</b>, <b>sem conhecimento</b> de <b>nenhum</b> dos interlocutores</td><td>a polícia grampeia a linha do investigado</td><td>Lei 9.296: exige <b>ordem judicial</b></td></tr><tr><td><b>Escuta telefônica</b></td><td>captação por terceiro <b>com o conhecimento de um</b> dos interlocutores</td><td>a vítima de extorsão autoriza a polícia a ouvir a ligação do extorsionário</td><td>a jurisprudência a trata, em regra, como <b>interceptação</b>, exigindo ordem judicial; há precedentes admitindo-a quando a vítima consente para se defender</td></tr><tr><td><b>Gravação telefônica</b> (clandestina)</td><td>um dos <b>próprios interlocutores</b> grava a conversa, sem o conhecimento do outro</td><td>a pessoa grava a ligação com o chantagista</td><td><b>não</b> é interceptação; lícita como regra (STF, Tema 237), salvo causa legal de sigilo</td></tr><tr><td><b>Interceptação ambiental</b></td><td>captação de conversa <b>entre presentes</b> por terceiro, sem conhecimento dos interlocutores</td><td>microfone escondido na sala do investigado</td><td>captação ambiental: Lei 9.296, art. 8º-A, exige ordem judicial</td></tr><tr><td><b>Gravação ambiental</b></td><td>um dos interlocutores grava a conversa presencial</td><td>gravar a reunião em que recebe proposta de propina</td><td>lícita como regra</td></tr></tbody></table>\n<ul><li><b>Registros telefônicos</b> (extratos de chamadas, \"dados\" de ligações): não são interceptação. A quebra do sigilo desses registros exige <b>ordem judicial</b> (ou decisão de CPI), mas <b>não</b> se submete aos requisitos da Lei 9.296 (por exemplo, não exige que o crime seja punido com reclusão). Dados <b>cadastrais</b> (nome e endereço do titular), por sua vez, podem ser requisitados diretamente pelo delegado nos casos previstos em lei (Lei 12.850, art. 15; Lei 9.613, art. 17-B; CPP, art. 13-A).</li><li><b>Dados armazenados no celular apreendido</b> (mensagens antigas, fotos, conversas de WhatsApp já recebidas): não são \"comunicação em fluxo\". Mesmo assim, o STJ e o STF exigem <b>autorização judicial</b> (ou consentimento válido) para o acesso ao conteúdo, por força da proteção à <b>intimidade</b> e à <b>vida privada</b> (CF, art. 5º, X). O acesso direto pelo policial no momento da prisão, sem autorização, gera <b>prova ilícita</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Gravação feita por um dos interlocutores é interceptação e exige ordem judicial</span><br>✅ <span class=\"certo\">É <b>gravação clandestina</b>, em regra <b>lícita</b> (Tema 237 do STF)</span></li><li>❌ <span class=\"banca\">A CPI pode decretar interceptação telefônica</span><br>✅ <span class=\"certo\"><b>Não</b>: reserva de jurisdição; pode quebrar <b>registros</b></span></li><li>❌ <span class=\"banca\">O policial pode ler as mensagens do celular do preso no momento do flagrante</span><br>✅ <span class=\"certo\">Exige <b>autorização judicial</b> ou consentimento válido</span></li></ol></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 237 (RE 583.937)</b><p class=\"jc-tese\">\"É lícita a prova consistente em <b>gravação ambiental</b> realizada por <b>um dos interlocutores</b> sem o conhecimento do outro.\"</p><p class=\"jc-com\">O fundamento é que não há violação à intimidade quando quem grava é o próprio participante da conversa, que poderia, de qualquer modo, relatar seu conteúdo. Exceções: quando houver <b>causa legal de sigilo</b> ou <b>reserva da conversação</b> (por exemplo, o advogado que grava a conversa com o cliente para entregá-la à acusação) ou quando a gravação for produto de <b>armadilha</b> ou coação. Lembre-se também do art. 8º-A, § 4º, da Lei 9.296: a captação ambiental feita por um dos interlocutores sem o conhecimento prévio da polícia ou do MP pode ser usada <b>em matéria de defesa</b>; a jurisprudência ainda discute se isso impede o uso pela acusação.</p></div>\n<h3>3. Requisitos da interceptação: art. 2º (requisitos negativos)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 9.296/1996, art. 2º</div><div class=\"art-lei\">Não será admitida a interceptação de comunicações telefônicas quando ocorrer qualquer das seguintes hipóteses: I, não houver indícios razoáveis da autoria ou participação em infração penal; II, a prova puder ser feita por outros meios disponíveis; III, o fato investigado constituir infração penal punida, no máximo, com pena de detenção. Parágrafo único: em qualquer hipótese deve ser descrita com clareza a situação objeto da investigação, inclusive com a indicação e qualificação dos investigados, salvo impossibilidade manifesta, devidamente justificada.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>A lei usa técnica <b>negativa</b>: diz quando <b>não</b> cabe</li><li>I: <b>fumus comissi delicti</b> (indícios razoáveis)</li><li>II: <b>subsidiariedade</b> (ultima ratio)</li><li>III: só crimes punidos com <b>reclusão</b> (detenção e contravenções, não)</li><li>Parágrafo único: <b>descrição clara</b> do fato e dos investigados</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que cabe interceptação em crime de ameaça (punido com detenção)</li><li>A banca diz que a interceptação pode ser a primeira diligência, sem nenhuma investigação prévia</li></ul></div></div>\n<ul><li><b>Denúncia anônima</b>: o STF e o STJ não admitem interceptação baseada <b>exclusivamente</b> em denúncia anônima. É preciso realizar <b>diligências preliminares</b> que confirmem minimamente as informações (campana, verificações, oitivas) antes de representar pela medida.</li><li><b>Crimes punidos com detenção descobertos fortuitamente</b>: se, durante interceptação autorizada para crime punido com reclusão, surgem provas de crime punido com <b>detenção</b> <b>conexo</b> ao investigado, a jurisprudência admite o uso como prova. O que não se admite é <b>pedir</b> interceptação para investigar <b>apenas</b> crime de detenção.</li><li><b>Prazo do requisito \"outros meios\"</b>: o juiz deve analisar concretamente se havia outros meios de prova disponíveis. Decisões genéricas (\"a interceptação é imprescindível\") são nulas, segundo o STF e o STJ.</li></ul>\n<h3>4. Quem pede, como e em quanto tempo: arts. 3º e 4º</h3>\n<ul><li><b>Art. 3º</b>: a interceptação poderá ser determinada pelo juiz, <b>de ofício</b> ou a requerimento: I, da <b>autoridade policial</b>, na <b>investigação criminal</b>; II, do <b>representante do MP</b>, na <b>investigação criminal</b> e na <b>instrução processual penal</b>.</li><li><b>Iniciativa de ofício</b>: após o <b>Pacote Anticrime</b> e a adoção expressa do <b>sistema acusatório</b> (CPP, art. 3º-A), a doutrina majoritária e a jurisprudência entendem que o juiz <b>não</b> pode decretar a interceptação <b>de ofício</b> na fase de <b>investigação</b>. O STF, ao julgar as ADIs do juiz das garantias, reforçou a vedação de atuação de ofício do juiz na fase investigativa. Na instrução processual, a questão é mais controvertida.</li><li>Repare: o <b>delegado</b> só pode representar na <b>investigação</b>; o <b>MP</b> pode requerer na investigação <b>e</b> na instrução processual. A <b>defesa</b> não está no rol (embora haja doutrina admitindo pedido da defesa em situações excepcionais).</li><li><b>Art. 4º</b>: o pedido conterá a <b>demonstração</b> de que a sua realização é <b>necessária</b> à apuração de infração penal, com indicação dos <b>meios a serem empregados</b>. Excepcionalmente, o juiz poderá admitir que o pedido seja formulado <b>verbalmente</b>, desde que estejam presentes os pressupostos que autorizem a interceptação, caso em que a concessão será condicionada à sua <b>redução a termo</b> (§ 1º). O juiz, no prazo máximo de <b>24 horas</b>, decidirá sobre o pedido (§ 2º).</li><li><b>Art. 5º</b>: a decisão será <b>fundamentada</b>, sob pena de nulidade, indicando também a <b>forma de execução</b> da diligência, que <b>não poderá exceder o prazo de 15 dias</b>, renovável por igual tempo uma vez comprovada a <b>indispensabilidade</b> do meio de prova.</li></ul>\n<table class=\"tab\"><thead><tr><th>Etapa</th><th>Regra</th><th>Dispositivo</th></tr></thead><tbody><tr><td>Legitimados</td><td>juiz de ofício (controvertido após o Pacote), delegado (investigação), MP (investigação e processo)</td><td>art. 3º</td></tr><tr><td>Forma do pedido</td><td>escrito, com demonstração da necessidade e dos meios; verbal excepcionalmente, reduzido a termo</td><td>art. 4º</td></tr><tr><td>Prazo para decidir</td><td><b>24 horas</b></td><td>art. 4º, § 2º</td></tr><tr><td>Decisão</td><td><b>fundamentada</b>, sob pena de nulidade, com a forma de execução</td><td>art. 5º</td></tr><tr><td>Prazo da medida</td><td><b>15 dias</b>, renovável por igual período, comprovada a indispensabilidade</td><td>art. 5º</td></tr><tr><td>Renovações</td><td><b>sucessivas</b> admitidas, com fundamentação concreta (STF, Tema 661)</td><td>jurisprudência</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 661 e o prazo de 15 dias</b><p class=\"jc-tese\">O texto fala em \"renovável por igual tempo\", o que levou a defesas a sustentarem que só caberia <b>uma</b> renovação (30 dias no total). O STF rejeitou essa leitura: são lícitas <b>sucessivas renovações</b>, desde que cada decisão seja <b>fundamentada</b> com elementos concretos e a complexidade da investigação justifique a continuidade.</p><p class=\"jc-com\">O STF também deixou claro que são <b>ilegais</b> as motivações padronizadas ou reproduções de modelos genéricos sem relação com o caso. O STJ já anulou interceptações que duraram meses com decisões \"carimbadas\". O prazo de 15 dias conta-se, segundo a jurisprudência predominante, a partir do <b>início efetivo</b> da interceptação (implementação pela operadora), e não da data da decisão.</p></div>\n<h3>5. Execução da interceptação: arts. 6º a 9º</h3>\n<ul><li><b>Art. 6º</b>: deferido o pedido, a <b>autoridade policial conduzirá</b> os procedimentos de interceptação, dando <b>ciência ao MP</b>, que poderá acompanhar a sua realização. No caso de a diligência possibilitar a <b>gravação</b> da comunicação interceptada, será determinada a sua <b>transcrição</b> (§ 1º). Cumprida a diligência, a autoridade policial encaminhará o resultado ao juiz, acompanhado de <b>auto circunstanciado</b>, que deverá conter o <b>resumo</b> das operações realizadas (§ 2º).</li><li><b>Transcrição integral</b>: o STF e o STJ entendem que <b>não</b> é necessária a transcrição <b>integral</b> de todas as conversas; basta a transcrição dos trechos relevantes que embasaram a acusação, desde que a defesa tenha acesso à <b>íntegra</b> das gravações (mídias) para conferir e apontar outros trechos.</li><li><b>Art. 7º</b>: para os procedimentos de interceptação, a autoridade policial poderá <b>requisitar serviços e técnicos especializados</b> às concessionárias de serviço público (as operadoras de telefonia).</li><li><b>Art. 8º</b>: a interceptação ocorrerá em <b>autos apartados</b>, apensados aos autos do inquérito policial ou do processo criminal, preservando-se o <b>sigilo</b> das diligências, gravações e transcrições respectivas. A apensação somente poderá ser realizada <b>imediatamente antes do relatório</b> da autoridade, quando se tratar de inquérito policial, ou <b>na conclusão do processo ao juiz</b> para o despacho previsto nos dispositivos do CPP referidos na lei, quando se tratar de processo.</li><li><b>Art. 9º</b>: a gravação que <b>não interessar à prova</b> será <b>inutilizada</b> por decisão judicial, durante o inquérito, a instrução processual ou após esta, em virtude de requerimento do MP ou da parte interessada. O incidente de inutilização será assistido pelo MP, sendo facultada a presença do acusado ou de seu representante legal.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O MP conduz a execução da interceptação</span><br>✅ <span class=\"certo\">É a <b>autoridade policial</b> que conduz, dando ciência ao MP (art. 6º)</span></li><li>❌ <span class=\"banca\">É obrigatória a transcrição integral de todas as conversas</span><br>✅ <span class=\"certo\">Basta a transcrição dos trechos relevantes, com acesso da defesa à íntegra</span></li><li>❌ <span class=\"banca\">A gravação inútil é destruída por decisão do delegado</span><br>✅ <span class=\"certo\">É inutilizada por <b>decisão judicial</b> (art. 9º)</span></li></ol></div>\n<h3>6. Encontro fortuito de provas, prova emprestada e uso em outros processos</h3>\n<ul><li><b>Serendipidade</b> (encontro fortuito): é a descoberta, durante interceptação legalmente autorizada, de provas de <b>outros crimes</b> ou de <b>outros autores</b>. O STF e o STJ admitem o uso dessas provas, desde que a interceptação tenha sido regularmente autorizada e não haja <b>desvio de finalidade</b> (por exemplo, pedir interceptação para um crime como pretexto para investigar outra pessoa). Se o novo fato for crime punido com <b>detenção</b>, a prova é válida se houver <b>conexão</b> com o fato investigado; se não houver, a prova serve, ao menos, como <b>notícia de crime</b> para iniciar nova investigação.</li><li><b>Serendipidade de autoridade com foro</b>: se a interceptação de um investigado comum capta conversas com autoridade que tem <b>foro por prerrogativa</b> (por exemplo, um deputado), as gravações já realizadas são válidas, mas, surgindo indícios de envolvimento da autoridade, os autos devem ser <b>remetidos ao tribunal competente</b>, sob pena de nulidade das provas colhidas a partir daí.</li><li><b>Prova emprestada</b> para processo <b>administrativo</b>: o STJ editou a <b>Súmula 591</b>: \"É permitida a 'prova emprestada' no processo administrativo disciplinar, desde que devidamente autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa.\" O STF admite o mesmo, inclusive para apurar infrações disciplinares de servidores flagrados em interceptações criminais.</li><li><b>Uso em ação civil</b>: a interceptação não pode ser <b>decretada</b> para fins civis ou administrativos (a Constituição restringe a finalidade à investigação criminal e à instrução processual penal), mas a prova já produzida validamente no processo penal pode ser <b>emprestada</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Inq 2.424 e a instalação de escuta em escritório</b><p class=\"jc-tese\">O STF admitiu, em caso excepcional, a <b>entrada noturna</b> de policiais em escritório de advocacia, com autorização judicial, para instalar equipamento de <b>captação ambiental</b>, quando o próprio advogado era investigado como integrante da organização criminosa.</p><p class=\"jc-com\">O precedente é lembrado porque relativiza a regra da inviolabilidade do domicílio durante a noite (CF, art. 5º, XI) em uma situação peculiar: a medida, por sua natureza, só seria eficaz se executada sem o conhecimento dos investigados. Mas é exceção: a regra geral continua sendo a do art. 5º, XI, e a Lei de Abuso de Autoridade pune o cumprimento de mandado de <b>busca</b> entre 21h e 5h.</p></div>\n<h3>7. Captação ambiental: art. 8º-A</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 9.296/1996, art. 8º-A (resumo)</div><div class=\"art-lei\">Para investigação ou instrução criminal, poderá ser autorizada pelo juiz, a requerimento da autoridade policial ou do Ministério Público, a captação ambiental de sinais eletromagnéticos, ópticos ou acústicos, quando: I, a prova não puder ser feita por outros meios disponíveis e igualmente eficazes; e II, houver elementos probatórios razoáveis de autoria e participação em infrações criminais cujas penas máximas sejam superiores a 4 anos ou em infrações penais conexas. § 1º O requerimento deverá descrever circunstanciadamente o local e a forma de instalação do dispositivo de captação ambiental. § 3º A captação ambiental não poderá exceder o prazo de 15 dias, renovável por decisão judicial por iguais períodos, se comprovada a indispensabilidade do meio de prova e quando presente atividade criminal permanente, habitual ou continuada.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Incluído pelo <b>Pacote Anticrime</b> (2019)</li><li>Requisito de pena: máxima <b>superior a 4 anos</b> (diferente da interceptação, que exige <b>reclusão</b>)</li><li>Só a <b>requerimento</b> (polícia ou MP): o texto não prevê decretação <b>de ofício</b></li><li>Prazo de <b>15 dias</b>, renovável se a atividade criminosa for <b>permanente, habitual ou continuada</b></li><li>Descrição do <b>local</b> e da <b>forma</b> de instalação</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca troca \"superior a 4 anos\" por \"punidas com reclusão\"</li><li>A banca diz que o juiz pode decretar de ofício</li></ul></div></div>\n<ul><li><b>§ 4º</b>: a captação ambiental feita por <b>um dos interlocutores</b> sem o prévio conhecimento da autoridade policial ou do MP poderá ser utilizada, <b>em matéria de defesa</b>, quando demonstrada a integridade da gravação. (Parte desse dispositivo teve o veto derrubado pelo Congresso.)</li><li><b>§ 5º</b>: aplicam-se subsidiariamente à captação ambiental as regras previstas na legislação específica para a <b>interceptação telefônica e telemática</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Comparação</th><th>Interceptação telefônica</th><th>Captação ambiental</th></tr></thead><tbody><tr><td>Base legal</td><td>Lei 9.296, arts. 1º a 10</td><td>Lei 9.296, art. 8º-A</td></tr><tr><td>Crimes</td><td>punidos com <b>reclusão</b></td><td>pena máxima <b>superior a 4 anos</b> ou conexos</td></tr><tr><td>Quem pede</td><td>delegado (investigação), MP (investigação e processo); de ofício (controvertido)</td><td>delegado ou MP (sem previsão de ofício)</td></tr><tr><td>Prazo</td><td>15 dias, renovável por igual período</td><td>15 dias, renovável se a atividade criminosa for permanente, habitual ou continuada</td></tr><tr><td>Crime se feita sem autorização</td><td>art. 10</td><td>art. 10-A</td></tr></tbody></table>\n<h3>8. Crimes da Lei 9.296: arts. 10 e 10-A</h3>\n<ul><li><b>Art. 10</b> (redação da Lei 13.869/2019): constitui crime realizar <b>interceptação</b> de comunicações telefônicas, de informática ou telemática, promover <b>escuta ambiental</b> ou <b>quebrar segredo da Justiça</b>, <b>sem autorização judicial</b> ou com <b>objetivos não autorizados em lei</b>. Pena: reclusão de <b>2 a 4 anos</b> e multa. <b>Parágrafo único</b>: incorre na mesma pena a <b>autoridade judicial</b> que determina a execução de conduta prevista no caput com objetivo não autorizado em lei.</li><li><b>Art. 10-A</b> (Pacote Anticrime): realizar <b>captação ambiental</b> de sinais eletromagnéticos, ópticos ou acústicos para investigação ou instrução criminal <b>sem autorização judicial</b>, quando esta for exigida. Pena: reclusão de <b>2 a 4 anos</b> e multa. <b>§ 1º</b>: <b>não há crime</b> se a captação é realizada por <b>um dos interlocutores</b>. <b>§ 2º</b>: a pena será aplicada <b>em dobro</b> ao <b>funcionário público</b> que descumprir determinação de <b>sigilo</b> das investigações que envolvam a captação ambiental ou revelar o conteúdo das gravações enquanto mantido o sigilo judicial.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O particular que grava a própria conversa com um chantagista comete o crime do art. 10-A</span><br>✅ <span class=\"certo\"><b>Não</b> há crime se a captação é feita por <b>um dos interlocutores</b> (§ 1º)</span></li><li>❌ <span class=\"banca\">O juiz que autoriza interceptação para fins de cobrança de dívida civil não comete crime</span><br>✅ <span class=\"certo\">Comete o crime do art. 10, <b>parágrafo único</b> (objetivo não autorizado em lei)</span></li><li>❌ <span class=\"banca\">O servidor que vaza gravação sigilosa de captação ambiental tem a pena reduzida</span><br>✅ <span class=\"certo\">A pena é aplicada <b>em dobro</b> (art. 10-A, § 2º)</span></li></ol></div>\n<h3>9. Comunicações por aplicativos e o celular apreendido</h3>\n<ul><li><b>WhatsApp e aplicativos criptografados</b>: a interceptação do fluxo de mensagens por aplicativos com criptografia de ponta a ponta é tecnicamente difícil, e o STF discute (ADPF 403 e ADI 5.527) a possibilidade de <b>bloqueio</b> de aplicativos que não cumprem ordens judiciais. Na prática, a polícia costuma obter dados <b>armazenados</b> (com ordem judicial de acesso ao aparelho ou de fornecimento de dados pela empresa) e metadados.</li><li><b>Espelhamento via WhatsApp Web</b>: o STJ declarou <b>ilícita</b> a prova obtida pelo <b>espelhamento</b> das conversas de WhatsApp do investigado por meio do WhatsApp Web, mesmo com autorização judicial, porque o mecanismo permite ao investigador não apenas ler, mas também <b>enviar</b> e <b>apagar</b> mensagens, comprometendo a confiabilidade da prova e não havendo previsão legal para essa técnica híbrida.</li><li><b>Celular apreendido no flagrante</b>: o acesso ao conteúdo exige <b>autorização judicial</b> (STJ, RHC 51.531 e precedentes posteriores) ou <b>consentimento</b> livre e documentado do titular. Fotografar a tela das conversas no momento da prisão, sem autorização, torna a prova ilícita. O mesmo vale para atender o celular do preso e se passar por ele, segundo a jurisprudência do STJ, que considera ilícita a prova obtida por policial que atende chamada no telefone do preso e se faz passar pelo dono.</li><li><b>Celular de vítima falecida</b>: o STJ admite o acesso ao celular da <b>vítima</b> de homicídio, entregue voluntariamente pela família, para fins de investigação, porque não há violação da intimidade do investigado.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · espelhamento do WhatsApp Web</b><p class=\"jc-tese\">É <b>ilícita</b> a prova obtida por meio de espelhamento de conversas via WhatsApp Web, ainda que autorizado judicialmente, pois a técnica permite ao investigador <b>interagir</b> com as conversas (enviar, apagar), sem possibilidade de auditoria, e não se confunde com a interceptação telefônica regulada pela Lei 9.296.</p><p class=\"jc-com\">A lição para a polícia é distinguir as técnicas: a <b>interceptação</b> (captação do fluxo, sem interferência) é legalmente prevista; o <b>acesso a dados armazenados</b> pode ser autorizado judicialmente; a <b>infiltração virtual</b> tem regras próprias (Lei 12.850 e ECA). Técnicas que permitem manipular o conteúdo, sem previsão legal, colocam a investigação em risco.</p></div>\n<h3>10. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ameaça por telefone</b><p>Uma mulher recebe ligações ameaçadoras de número desconhecido. O delegado quer representar pela interceptação da linha do suspeito. É possível?</p><details><summary>Ver a solução comentada</summary><p>A <b>ameaça</b> (CP, art. 147) é punida com <b>detenção</b> (1 a 6 meses), o que impede a interceptação (Lei 9.296, art. 2º, III). O delegado pode, porém, representar pela quebra do sigilo dos <b>registros</b> telefônicos (para identificar o autor) e requisitar dados cadastrais. Se a investigação revelar crime punido com reclusão (por exemplo, extorsão), a interceptação passa a ser possível.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Extorsão e gravação da vítima</b><p>Uma vítima de extorsão grava, por iniciativa própria, as ligações em que o extorsionário exige dinheiro e entrega as gravações à polícia. A prova é válida?</p><details><summary>Ver a solução comentada</summary><p>Sim. É <b>gravação clandestina</b> feita por <b>um dos interlocutores</b>, lícita segundo o STF (Tema 237). Não há interceptação, nem crime do art. 10 ou 10-A (art. 10-A, § 1º). A polícia pode, a partir daí, representar pela interceptação da linha do autor, já que a extorsão é punida com reclusão.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Interceptação baseada em denúncia anônima</b><p>Uma denúncia anônima diz que João vende drogas pelo telefone. Sem nenhuma outra diligência, o delegado representa pela interceptação, e o juiz defere com decisão de duas linhas. As provas são válidas?</p><details><summary>Ver a solução comentada</summary><p><b>Não</b>. A interceptação não pode se basear <b>exclusivamente</b> em denúncia anônima, sem diligências preliminares que a confirmem, e a decisão judicial deve ser <b>fundamentada</b> (art. 5º), demonstrando os indícios razoáveis e a impossibilidade de obter a prova por outros meios (art. 2º). As provas obtidas são ilícitas, assim como as delas derivadas (teoria dos frutos da árvore envenenada, CPP, art. 157, § 1º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Deputado na escuta</b><p>Interceptando legalmente um empresário investigado por fraude, a polícia capta conversas dele com um deputado federal, que indicam a participação do parlamentar. O que fazer?</p><details><summary>Ver a solução comentada</summary><p>As gravações já feitas são válidas (encontro fortuito). Mas, surgindo indícios contra autoridade com foro no <b>STF</b>, a investigação em relação a ela deve ser <b>remetida ao STF</b>, que decidirá sobre o desmembramento. Continuar investigando o deputado sem autorização do tribunal competente gera <b>nulidade</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Vazamento das gravações</b><p>Um policial entrega a um jornalista áudios de interceptação sob segredo de justiça, com conversas íntimas do investigado sem relação com o crime. Qual a responsabilidade?</p><details><summary>Ver a solução comentada</summary><p><b>Art. 10</b> da Lei 9.296 (quebrar segredo da Justiça sem autorização), reclusão de 2 a 4 anos, e possivelmente o <b>art. 28</b> da Lei de Abuso de Autoridade (divulgar gravação sem relação com a prova, expondo a intimidade), além de responsabilidade administrativa e civil.</p></details></div>\n<h3>11. Prova ilícita e prova derivada: as teorias que salvam ou derrubam a interceptação</h3>\n<ul><li><b>CPP, art. 157</b>: são <b>inadmissíveis</b>, devendo ser <b>desentranhadas</b> do processo, as provas <b>ilícitas</b>, assim entendidas as obtidas em violação a normas constitucionais ou legais. Uma interceptação sem ordem judicial, com decisão sem fundamentação, por crime punido com detenção ou baseada só em denúncia anônima é prova ilícita.</li><li><b>Provas derivadas</b> (§ 1º): também são inadmissíveis as provas derivadas das ilícitas (teoria dos <b>frutos da árvore envenenada</b>, de origem norte-americana), <b>salvo</b> quando não evidenciado o <b>nexo de causalidade</b> entre umas e outras, ou quando as derivadas puderem ser obtidas por uma <b>fonte independente</b> das primeiras.</li></ul>\n<table class=\"tab\"><thead><tr><th>Teoria</th><th>Ideia central</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Frutos da árvore envenenada</b></td><td>a ilicitude da prova originária contamina as provas que dela decorrem</td><td>a droga apreendida graças a uma escuta ilegal é prova ilícita por derivação</td></tr><tr><td><b>Fonte independente</b> (CPP, art. 157, §§ 1º e 2º)</td><td>a prova teria sido obtida por um caminho autônomo, sem relação com a ilícita</td><td>o mesmo local da droga já era conhecido por campana documentada anterior</td></tr><tr><td><b>Descoberta inevitável</b></td><td>a prova seria inevitavelmente descoberta pelos trâmites normais da investigação</td><td>o corpo seria achado pela busca já em andamento na região</td></tr><tr><td><b>Nexo causal atenuado</b> (mancha purgada)</td><td>um ato voluntário posterior \"limpa\" a contaminação</td><td>o investigado, solto e assistido por advogado, confessa espontaneamente semanas depois</td></tr><tr><td><b>Boa-fé</b></td><td>o agente agiu confiando em ordem que depois foi anulada</td><td>doutrina admite com cautela; pouco aplicada no Brasil</td></tr></tbody></table>\n<ul><li><b>Desentranhamento e inutilização</b> (§ 3º): preclusa a decisão de desentranhamento da prova ilícita, ela será <b>inutilizada</b> por decisão judicial, facultado às partes acompanhar o incidente.</li><li><b>Juiz contaminado</b> (§ 5º, incluído pelo Pacote Anticrime): o juiz que conhecer do conteúdo da prova declarada inadmissível <b>não poderá proferir a sentença ou acórdão</b>. O STF, nas ADIs do juiz das garantias (2023), declarou <b>inconstitucional</b> esse dispositivo, por ofender o princípio do juiz natural e por gerar incerteza sobre a competência.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADIs 6.298, 6.299, 6.300 e 6.305 (2023)</b><p class=\"jc-tese\">Ao julgar o Pacote Anticrime, o STF declarou inconstitucional o § 5º do art. 157 do CPP (afastamento do juiz que conheceu a prova ilícita), manteve o juiz das garantias como obrigatório, com prazo para implementação, e reforçou a vedação a que o juiz atue de <b>ofício</b> na produção de provas durante a investigação.</p><p class=\"jc-com\">Para o tema da interceptação, a consequência prática é que o juiz das garantias passa a ser o competente para autorizar a interceptação e as demais medidas invasivas na fase de investigação, e que essas medidas devem ser <b>provocadas</b> pelo delegado ou pelo MP.</p></div>\n<h3>12. Advogados, jornalistas e outras comunicações protegidas</h3>\n<ul><li><b>Advogado</b>: o Estatuto da OAB (Lei 8.906/1994, art. 7º, II) garante a inviolabilidade do escritório, dos instrumentos de trabalho e da <b>correspondência escrita, eletrônica, telefônica e telemática</b>, desde que relativas ao <b>exercício da advocacia</b>. A interceptação de conversas entre o investigado e seu <b>advogado</b> sobre a <b>defesa</b> é ilícita, e as gravações devem ser inutilizadas. A proteção <b>não</b> alcança o advogado que é <b>investigado como coautor</b> do crime, que pode ser interceptado com ordem judicial fundamentada.</li><li><b>Jornalistas</b>: a Constituição assegura o <b>sigilo da fonte</b> (art. 5º, XIV). A interceptação do jornalista com o fim de descobrir a fonte é incompatível com essa garantia, salvo se o próprio jornalista for investigado por crime.</li><li><b>Médicos, religiosos e outros profissionais</b>: as conversas protegidas por <b>segredo profissional</b> captadas incidentalmente não podem ser usadas contra o paciente ou o fiel, e o profissional não pode ser obrigado a depor sobre elas (CPP, art. 207).</li><li><b>Presos</b>: as comunicações de presos com familiares, em presídios federais e em RDD, podem ser <b>monitoradas</b> nos termos da LEP e das leis especiais (inclusive com as alterações da Lei Antifacção de 2026, que permite gravação de visitas em parlatório e por videoconferência de presos ligados a organizações ultraviolentas). As conversas com advogado só podem ser monitoradas excepcionalmente, com decisão judicial, quando houver indícios de <b>conluio</b> criminoso, e a análise cabe a juízo distinto (LEP, art. 41-B, Lei 15.358/2026).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O advogado nunca pode ser interceptado</span><br>✅ <span class=\"certo\">Pode, se for <b>investigado</b> como coautor, com ordem judicial; protegidas são as conversas sobre a <b>defesa</b></span></li><li>❌ <span class=\"banca\">O jornalista é obrigado a revelar a fonte em juízo</span><br>✅ <span class=\"certo\">A CF assegura o <b>sigilo da fonte</b> (art. 5º, XIV)</span></li><li>❌ <span class=\"banca\">As comunicações entre preso e advogado podem ser livremente gravadas pelo presídio</span><br>✅ <span class=\"certo\">Só excepcionalmente, com decisão judicial e indícios de conluio</span></li></ol></div>\n<h3>13. A representação do delegado: roteiro prático</h3>\n<ul><li><b>1. Exposição dos fatos</b>: descrever com clareza o crime investigado, sua tipificação (demonstrando que é punido com <b>reclusão</b>) e os investigados, com qualificação e terminais a serem interceptados (art. 2º, parágrafo único).</li><li><b>2. Indícios razoáveis</b>: apontar os elementos já colhidos (depoimentos, relatórios de campana, registros de ocorrência, informações bancárias, perícias) que ligam os investigados ao crime. Não basta a denúncia anônima.</li><li><b>3. Necessidade e subsidiariedade</b>: explicar por que outros meios (oitivas, busca, campana, quebra de registros) são <b>insuficientes</b> ou foram tentados sem sucesso, e por que a interceptação é indispensável (por exemplo, organização que se comunica só por telefone, sem pontos fixos).</li><li><b>4. Meios a serem empregados e forma de execução</b>: indicar os terminais, o período, a necessidade de dados de ERB, de extratos e de dados cadastrais vinculados, e a equipe que executará (art. 4º).</li><li><b>5. Pedido</b>: interceptação pelo prazo de 15 dias, com expedição de ofícios às operadoras sob sigilo, e eventuais medidas acessórias (quebra de registros, acesso a dados cadastrais de interlocutores).</li><li><b>6. Prorrogação</b>: em cada pedido de renovação, relatar o que foi obtido no período anterior (resumo dos áudios relevantes), demonstrar a persistência da necessidade e indicar novos terminais, se houver. Pedidos genéricos e repetidos geram nulidade (Tema 661).</li><li><b>7. Relatório final e auto circunstanciado</b>: resumir as operações, transcrever os trechos relevantes, entregar as mídias íntegras com registro de <b>hash</b> (cadeia de custódia) e indicar as gravações sem interesse, para inutilização.</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Cadeia de custódia dos áudios</b><p>O Pacote Anticrime incluiu no CPP a <b>cadeia de custódia</b> (arts. 158-A a 158-F). Para provas digitais, como os áudios da interceptação, é essencial preservar a <b>integridade</b> dos arquivos (cálculo de hash, armazenamento seguro, registro de quem teve acesso). O STJ tem anulado provas digitais quando a acusação não demonstra que os arquivos não foram alterados. Em provas de delegado, esse é um tema cada vez mais cobrado.</p></div>\n<h3>14. Mais jurisprudência essencial</h3>\n<div class=\"lt-juris\"><b class=\"lt-tit\">⚖ Jurisprudência</b><ul><li><b>STF, Tema 237</b>: lícita a gravação por um dos interlocutores</li><li><b>STF, Tema 661</b>: renovações sucessivas fundamentadas</li><li><b>STJ, Súmula 591</b>: prova emprestada no PAD</li><li><b>STF e STJ</b>: não cabe interceptação baseada só em denúncia anônima</li><li><b>STF</b>: CPI não pode decretar interceptação</li><li><b>STF e STJ</b>: não é necessária a transcrição integral; a defesa deve ter acesso às mídias</li><li><b>STF e STJ</b>: encontro fortuito válido sem desvio de finalidade</li><li><b>STJ</b>: ilícito o espelhamento via WhatsApp Web</li><li><b>STJ</b>: ilícito o acesso a mensagens do celular apreendido sem ordem judicial</li><li><b>STJ</b>: ilícita a prova obtida por policial que atende o celular do preso e se passa por ele</li><li><b>STF</b>: prazo de 15 dias conta-se do início efetivo da interceptação</li><li><b>STF</b>: a competência para autorizar é do juiz competente para a ação principal; decisão de juiz posteriormente declarado incompetente pode ser ratificada, segundo parte da jurisprudência, se a incompetência não era aferível no momento</li></ul></div>\n<ul><li><b>Juiz incompetente</b>: o art. 1º da Lei 9.296 fala em ordem do <b>juiz competente da ação principal</b>. O STF tem precedentes admitindo a validade da interceptação autorizada por juiz que, <b>à época</b>, parecia competente (teoria do <b>juízo aparente</b>), quando a incompetência só se revela depois, com o avanço das investigações. Interceptações autorizadas por juiz manifestamente incompetente são nulas.</li></ul>\n<h3>15. A interceptação e as outras leis penais</h3>\n<ul><li><b>Lei de Drogas</b>: o tráfico (reclusão) admite interceptação, que é um dos meios mais usados na investigação de associações para o tráfico. A Lei 11.343 prevê ainda a infiltração e a ação controlada com <b>autorização</b> judicial (art. 53).</li><li><b>Organizações criminosas</b>: a Lei 12.850 lista a interceptação entre os meios de obtenção de prova (art. 3º, V), ao lado da captação ambiental, da infiltração (inclusive virtual) e da colaboração premiada.</li><li><b>Lavagem de dinheiro</b>: admite interceptação (reclusão), e a Lei 9.613 permite requisição direta de dados cadastrais (art. 17-B).</li><li><b>Crimes contra a dignidade sexual de crianças na internet</b>: o <b>ECA</b> (arts. 190-A a 190-E) prevê a <b>infiltração virtual</b> de agentes, com autorização judicial, por até 90 dias, renováveis até o total de 720 dias, e a Lei 9.296 se aplica às interceptações telemáticas nessas investigações.</li><li><b>Crimes punidos com detenção praticados por telefone</b>: ameaça, injúria e perturbação da tranquilidade não admitem interceptação. Nesses casos, a investigação usa os <b>registros</b> de chamadas, os dados cadastrais e a <b>gravação</b> feita pela própria vítima.</li></ul>\n<h3>16. Linha do tempo</h3>\n<div class=\"lt-fluxo\"><span>1988: CF, art. 5º, XII, exige lei para a interceptação</span> <em>→</em> <span>1990s: STF anula grampos autorizados sem lei específica</span> <em>→</em> <span>1996: Lei 9.296</span> <em>→</em> <span>2009: STF admite gravação por interlocutor (Tema 237)</span> <em>→</em> <span>2014: Marco Civil da Internet</span> <em>→</em> <span>2019: Lei de Abuso de Autoridade reescreve o art. 10</span> <em>→</em> <span>2019: Pacote Anticrime cria a captação ambiental (art. 8º-A) e o crime do art. 10-A</span> <em>→</em> <span>2021: STF fixa a tese das renovações sucessivas (Tema 661)</span> <em>→</em> <span>2023: STF julga o juiz das garantias</span> <em>→</em> <span>2026: Lei Antifacção amplia o monitoramento de presos de organizações ultraviolentas</span></div>\n<h3>17. Mais casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Juiz decreta de ofício</b><p>Durante um inquérito por roubo, sem pedido do delegado nem do MP, o juiz decreta a interceptação do telefone do suspeito por entender a medida útil. É válida?</p><details><summary>Ver a solução comentada</summary><p>Após o Pacote Anticrime (sistema acusatório, CPP, art. 3º-A) e o julgamento do STF sobre o juiz das garantias, prevalece que o juiz <b>não</b> pode decretar medidas invasivas de <b>ofício</b> na fase de investigação. Embora o art. 3º da Lei 9.296 ainda mencione a decretação de ofício, a leitura conforme o sistema acusatório exige provocação do delegado ou do MP. A prova corre sério risco de ser anulada.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Áudios sem integridade</b><p>Na ação penal, a defesa demonstra que os áudios da interceptação entregues pela polícia foram editados, com cortes, e que não há registro de hash nem das mídias originais. O que pode acontecer?</p><details><summary>Ver a solução comentada</summary><p>A quebra da <b>cadeia de custódia</b> pode levar à <b>inadmissibilidade</b> ou à perda de valor probatório dos áudios, conforme a gravidade, segundo a jurisprudência do STJ. A defesa tem direito de acesso à <b>íntegra</b> das gravações; trechos editados sem possibilidade de conferência comprometem a prova.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Escuta da vítima de sequestro</b><p>Durante uma extorsão mediante sequestro, a família da vítima autoriza a polícia a ouvir e gravar, em outro aparelho, as ligações dos sequestradores para o telefone da família, sem ordem judicial, para localizar o cativeiro. A prova vale?</p><details><summary>Ver a solução comentada</summary><p>Trata-se de <b>escuta</b> com o consentimento de um dos interlocutores (a família). A jurisprudência tende a admitir a prova nessa situação, por se tratar de defesa da vida e da liberdade da vítima, com consentimento de quem recebe a ligação, em estado de necessidade e de flagrante (crime permanente). Ainda assim, a recomendação é obter <b>ordem judicial</b> o quanto antes, inclusive para a localização das ERBs dos sequestradores.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Prova emprestada para demitir policial</b><p>Uma interceptação autorizada em investigação de corrupção capta um policial combinando propina. A Corregedoria quer usar os áudios no processo disciplinar. Pode?</p><details><summary>Ver a solução comentada</summary><p>Sim. Pela <b>Súmula 591 do STJ</b>, é permitida a prova emprestada no processo administrativo disciplinar, desde que <b>autorizada pelo juízo</b> criminal competente e respeitados o <b>contraditório</b> e a <b>ampla defesa</b>. O policial poderá impugnar a prova no PAD.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Interceptação por 18 meses</b><p>Uma investigação de organização criminosa mantém a interceptação por 18 meses, com prorrogações a cada 15 dias, todas fundamentadas com a descrição dos novos elementos obtidos. A defesa alega excesso. Procede?</p><details><summary>Ver a solução comentada</summary><p>Em regra, <b>não</b>: o STF (Tema 661) admite renovações sucessivas, desde que cada uma seja <b>fundamentada</b> concretamente e a complexidade da investigação justifique. O excesso só se configura se as prorrogações forem automáticas, genéricas ou desproporcionais ao caso.</p></details></div>\n<h3>18. Perguntas e respostas rápidas</h3>\n<ul><li><b>A interceptação pode ser decretada no curso da ação penal?</b> Sim, a requerimento do <b>MP</b> (art. 3º, II), para a instrução processual penal.</li><li><b>A interceptação pode ser usada para descobrir o paradeiro de um foragido?</b> A finalidade constitucional é a investigação criminal ou a instrução processual; a doutrina admite seu uso para localizar foragido quando vinculado à apuração ou à execução de crime, mas a questão não é pacífica. Para mera localização, costuma-se usar a quebra de dados de <b>ERB</b>.</li><li><b>O investigado pode ser intimado da interceptação antes de ela começar?</b> Não: a medida é <b>sigilosa</b> e inaudita altera parte por natureza. A defesa tem acesso depois que a diligência é <b>documentada</b> e encerrada (SV 14).</li><li><b>A interceptação pode atingir o telefone de terceiro não investigado?</b> Pode atingir terminais usados pelo investigado, ainda que registrados em nome de terceiros (\"laranjas\"), desde que a decisão justifique. As conversas de terceiros inocentes captadas incidentalmente, sem interesse para a prova, devem ser <b>inutilizadas</b>.</li><li><b>O delegado pode prorrogar a interceptação por conta própria?</b> Não: toda prorrogação depende de nova <b>decisão judicial</b> fundamentada.</li></ul>\n<h3>19. Interceptação e proporcionalidade: o raciocínio por trás das regras</h3>\n<ul><li>Toda interceptação é uma <b>restrição a direito fundamental</b> (intimidade, vida privada e sigilo das comunicações). Por isso, a decisão judicial deve passar pelo teste da <b>proporcionalidade</b>, em suas três etapas:</li><li><b>Adequação</b>: a medida é apta a produzir a prova buscada? Interceptar um telefone que o investigado não usa há meses é inadequado.</li><li><b>Necessidade</b> (ou exigibilidade): não há meio <b>menos gravoso</b> igualmente eficaz? É o requisito do art. 2º, II (subsidiariedade). Se a prova pode ser obtida por oitivas, busca ou campana, a interceptação é desnecessária.</li><li><b>Proporcionalidade em sentido estrito</b>: o benefício para a investigação compensa o sacrifício à privacidade? Por isso a lei exclui crimes de menor gravidade (punidos com <b>detenção</b>) e exige indícios <b>razoáveis</b>.</li><li>Essa estrutura explica por que decisões <b>genéricas</b> são nulas: sem fundamentação concreta, não há como controlar se a restrição foi adequada, necessária e proporcional. O dever de fundamentação (CF, art. 93, IX) é o instrumento que permite o controle pela defesa e pelos tribunais.</li><li>Também explica a regra da <b>inutilização</b> (art. 9º): manter gravações de conversas íntimas sem interesse para a prova prolonga desnecessariamente a violação da privacidade. E explica a punição do <b>vazamento</b> (art. 10 e Lei de Abuso de Autoridade, art. 28): a exposição pública das gravações é uma segunda violação, sem qualquer finalidade investigativa.</li></ul>\n<h3>20. Questões de concurso comentadas</h3>\n<ul><li><b>\"A interceptação telefônica poderá ser determinada pelo juiz para apurar contravenção penal de jogo do bicho.\"</b> Errado. Contravenções são punidas com prisão simples, e não com reclusão (art. 2º, III). Se houver crimes conexos punidos com reclusão (lavagem, organização criminosa), a interceptação pode ser autorizada em razão deles.</li><li><b>\"O pedido de interceptação deve ser formulado por escrito, vedada, em qualquer hipótese, a forma verbal.\"</b> Errado. O art. 4º, § 1º, admite, <b>excepcionalmente</b>, o pedido verbal, condicionando a concessão à redução a termo.</li><li><b>\"A gravação de conversa telefônica feita por um dos interlocutores, sem o conhecimento do outro, é prova ilícita, por violar o art. 5º, XII, da CF.\"</b> Errado. É gravação clandestina, lícita segundo o STF (Tema 237), salvo causa legal de sigilo.</li><li><b>\"A interceptação telefônica será processada em autos apartados, apensados aos autos do inquérito policial ou do processo criminal.\"</b> Certo. Art. 8º.</li><li><b>\"A interceptação poderá ser renovada por quantas vezes forem necessárias, independentemente de fundamentação, por se tratar de medida já deferida.\"</b> Errado. Cada renovação exige decisão fundamentada (Tema 661).</li><li><b>\"Constitui crime realizar interceptação de comunicações telefônicas sem autorização judicial, punido com reclusão de 2 a 4 anos e multa.\"</b> Certo. Art. 10.</li><li><b>\"A captação ambiental depende de autorização judicial e somente pode ser deferida para crimes punidos com reclusão.\"</b> Errado na segunda parte: o critério da captação ambiental é a pena máxima <b>superior a 4 anos</b> ou infrações conexas (art. 8º-A, II).</li><li><b>\"Segundo o STJ, as provas obtidas por interceptação telefônica podem ser utilizadas em processo administrativo disciplinar, desde que autorizada pelo juízo competente e respeitado o contraditório.\"</b> Certo. Súmula 591.</li><li><b>\"A autoridade policial poderá requisitar diretamente às operadoras, sem autorização judicial, o histórico de chamadas do investigado.\"</b> Errado. Registros de ligações exigem ordem judicial; sem ordem, só os <b>dados cadastrais</b> nas hipóteses legais.</li><li><b>\"Ao final da interceptação, a autoridade policial encaminhará o resultado ao juiz, acompanhado de auto circunstanciado com o resumo das operações.\"</b> Certo. Art. 6º, § 2º.</li><li><b>\"É vedada a utilização, em processo criminal, de conversa captada fortuitamente sobre crime diverso do investigado.\"</b> Errado. O encontro fortuito é admitido, sem desvio de finalidade.</li><li><b>\"O sigilo das comunicações telefônicas é absoluto, não podendo ser afastado nem por ordem judicial.\"</b> Errado. É relativo: pode ser afastado por ordem judicial, nas hipóteses e na forma da lei, para fins criminais.</li></ul>\n<h3>21. Interceptação e direitos do investigado na fase de investigação</h3>\n<ul><li><b>Acesso da defesa</b>: enquanto a interceptação está <b>em curso</b>, o investigado e sua defesa <b>não</b> têm acesso a ela, sob pena de frustrar a medida (SV 14 ressalva diligências em andamento). Encerrada e documentada, a defesa tem direito de acesso <b>amplo</b>, inclusive às mídias, para exercer o contraditório <b>diferido</b>.</li><li><b>Contraditório diferido</b>: a interceptação é uma medida <b>cautelar</b> e <b>inaudita altera parte</b>. O contraditório se dá <b>depois</b>, quando o investigado (já réu) pode impugnar a legalidade da medida, a autenticidade dos áudios, a identificação das vozes e a interpretação dos diálogos.</li><li><b>Perícia de voz</b>: não é obrigatória. O STF e o STJ entendem que a identificação dos interlocutores pode ser feita por outros meios (contexto das conversas, titularidade da linha, menções a nomes, confirmação por testemunhas). A defesa pode requerer a perícia, e o juiz decidirá sobre sua necessidade.</li><li><b>Direito ao silêncio e interceptação</b>: o fato de o investigado falar livremente ao telefone, sem saber que está sendo ouvido, não viola o direito ao silêncio, porque não há interrogatório nem coação. O que é vedado é usar a interceptação para \"induzir\" o investigado a se autoincriminar por meio de agentes que se passam por terceiros sem autorização legal (situação que pode configurar infiltração irregular).</li><li><b>Interceptação e prisão</b>: as conversas interceptadas são frequentemente usadas para fundamentar a <b>prisão preventiva</b> (risco à ordem pública, ameaça a testemunhas, tentativa de fuga) e a <b>temporária</b>. A decisão deve indicar os trechos concretos que justificam a prisão.</li></ul>\n<h3>22. Erros comuns na prática que geram nulidade</h3>\n<ul><li>Representar pela interceptação <b>sem diligências prévias</b>, apenas com denúncia anônima.</li><li>Pedir interceptação para crime punido com <b>detenção</b>.</li><li>Decisões e prorrogações <b>genéricas</b>, copiadas de modelos.</li><li>Executar a interceptação <b>antes</b> da ordem judicial ou <b>depois</b> do prazo autorizado (os áudios fora do período são ilícitos).</li><li>Interceptar terminais <b>não</b> incluídos na decisão.</li><li>Prosseguir investigando autoridade com <b>foro</b> sem remeter os autos ao tribunal.</li><li><b>Editar</b> áudios ou não preservar a cadeia de custódia.</li><li><b>Vazar</b> conteúdo sigiloso à imprensa.</li><li>Acessar o <b>celular apreendido</b> sem ordem judicial ou usar técnicas sem previsão legal (espelhamento do WhatsApp Web).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A defesa pode acompanhar a interceptação em tempo real</span><br>✅ <span class=\"certo\">O acesso é <b>posterior</b>, após a documentação (contraditório diferido)</span></li><li>❌ <span class=\"banca\">A perícia de voz é obrigatória para validar a interceptação</span><br>✅ <span class=\"certo\"><b>Não</b> é obrigatória; a identificação pode ser feita por outros meios</span></li><li>❌ <span class=\"banca\">Áudios captados um dia após o fim do prazo autorizado são válidos se úteis</span><br>✅ <span class=\"certo\">São <b>ilícitos</b>, por falta de autorização no período</span></li></ol></div>\n<h3>23. A Lei 9.296 artigo por artigo: revisão comentada</h3>\n<ul><li><b>Art. 1º</b>: a interceptação de comunicações telefônicas, de qualquer natureza, para prova em investigação criminal e em instrução processual penal, observará o disposto nesta lei e dependerá de <b>ordem do juiz competente da ação principal</b>, sob <b>segredo de justiça</b>. O parágrafo único estende a lei ao <b>fluxo</b> de comunicações em sistemas de <b>informática e telemática</b>. Comentário: o segredo de justiça é da essência da medida; o \"juiz competente da ação principal\" é, hoje, o juiz das garantias na fase investigativa, onde implantado.</li><li><b>Art. 2º</b>: requisitos negativos (indícios, subsidiariedade, reclusão) e descrição clara do objeto. Comentário: é o coração da lei e o artigo mais cobrado; memorize a técnica <b>negativa</b> (\"não será admitida quando\").</li><li><b>Art. 3º</b>: iniciativa do juiz (de ofício, em leitura hoje restrita pelo sistema acusatório), da autoridade policial (investigação) e do MP (investigação e instrução).</li><li><b>Art. 4º</b>: o pedido demonstra a <b>necessidade</b> e os <b>meios</b>; pode ser <b>verbal</b> em caráter excepcional; o juiz decide em <b>24 horas</b>.</li><li><b>Art. 5º</b>: decisão <b>fundamentada</b>, com a <b>forma de execução</b>; prazo de <b>15 dias</b>, renovável.</li><li><b>Art. 6º</b>: a <b>polícia</b> conduz, com ciência ao MP, que pode acompanhar; transcrição; auto circunstanciado com resumo.</li><li><b>Art. 7º</b>: requisição de serviços e técnicos às <b>concessionárias</b>.</li><li><b>Art. 8º</b>: <b>autos apartados</b>, apensados no momento próprio, com sigilo.</li><li><b>Art. 8º-A</b>: <b>captação ambiental</b> (pena máxima superior a 4 anos, 15 dias, descrição do local).</li><li><b>Art. 9º</b>: <b>inutilização</b> da gravação inútil por decisão judicial, com assistência do MP e faculdade de presença do acusado.</li><li><b>Art. 10</b>: crime de interceptação, escuta ambiental ou quebra de segredo de justiça sem autorização ou com fim ilegal (2 a 4 anos), inclusive pelo juiz.</li><li><b>Art. 10-A</b>: crime de captação ambiental sem autorização (2 a 4 anos), sem crime para o interlocutor, com pena em dobro para o servidor que viola o sigilo.</li><li><b>Arts. 11 e 12</b>: vigência e revogação de disposições em contrário.</li></ul>\n<h3>24. Interceptação, imprensa e opinião pública</h3>\n<ul><li>Grandes operações policiais costumam ter interceptações como base, e a divulgação de áudios gera forte repercussão. A Constituição protege a <b>liberdade de imprensa</b>, e o jornalista que recebe e publica um áudio vazado, em regra, <b>não</b> comete o crime do art. 10, porque o sigilo é dever de quem tem acesso oficial aos autos. Quem <b>vaza</b> (servidor, advogado, perito) é que pode responder.</li><li>O levantamento do sigilo pelo próprio juiz, com a divulgação dos áudios, é medida excepcional e deve ser fundamentada no <b>interesse público</b>, preservando conversas sem relação com o objeto da investigação e a intimidade de terceiros. O STF já censurou a divulgação de conversas captadas <b>após</b> o fim do prazo autorizado e de diálogos de autoridades com foro sem remessa ao tribunal competente, reconhecendo a ilicitude dessas provas.</li><li>Para o policial, a regra é simples: as gravações são <b>sigilosas</b>; divulgá-las fora dos autos pode configurar o crime do art. 10, o do art. 28 da Lei de Abuso de Autoridade e infração disciplinar grave.</li></ul>\n<h3>25. Diferenças com a quebra dos sigilos bancário e fiscal</h3>\n<ul><li>O <b>sigilo bancário</b> é regulado pela <b>LC 105/2001</b>. A quebra para fins de investigação criminal exige <b>ordem judicial</b> (art. 1º, § 4º), embora a <b>Receita Federal</b> possa acessar dados bancários diretamente para fins fiscais (STF, ADIs 2.390 e outras, que consideraram esse acesso uma <b>transferência</b> de sigilo, e não quebra).</li><li>O <b>compartilhamento</b> de dados da Receita e da <b>Unidade de Inteligência Financeira</b> (UIF, antigo COAF) com o MP e a polícia, para fins penais, <b>sem</b> autorização judicial, foi considerado constitucional pelo STF (<b>Tema 990</b>, RE 1.055.941), desde que por <b>canais formais</b> e com garantia de sigilo. Já a <b>solicitação</b> de relatórios de inteligência financeira pela polícia, sem procedimento formal instaurado, tem sido limitada pelo STJ.</li><li>O <b>sigilo fiscal</b> (CTN, art. 198) também pode ser afastado por ordem judicial e, em algumas hipóteses, compartilhado com o MP por representação fiscal para fins penais.</li><li>Diferentemente da interceptação, essas quebras <b>não</b> exigem crime punido com reclusão nem prazo de 15 dias; exigem decisão <b>fundamentada</b> com indícios e pertinência com a investigação.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 990 (RE 1.055.941)</b><p class=\"jc-tese\">\"É constitucional o compartilhamento dos relatórios de inteligência financeira da UIF e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil, que define o lançamento do tributo, com os órgãos de persecução penal para fins criminais, sem a obrigatoriedade de prévia autorização judicial, devendo ser resguardado o sigilo das informações em procedimentos formalmente instaurados e sujeitos a posterior controle jurisdicional.\"</p><p class=\"jc-com\">A tese é essencial para investigações de organizações criminosas e lavagem. Mas atenção: compartilhar dados que a Receita ou a UIF já têm é diferente de <b>quebrar</b> o sigilo bancário para obter extratos detalhados, o que continua exigindo ordem judicial.</p></div>\n<h3>26. Interceptação e tecnologia: desafios atuais</h3>\n<ul><li><b>Criptografia de ponta a ponta</b>: aplicativos como WhatsApp, Signal e Telegram (nos chats secretos) cifram as mensagens no aparelho do remetente e só as decifram no do destinatário. A empresa, em tese, não tem acesso ao conteúdo e não consegue cumprir uma ordem de interceptação do fluxo. Por isso, a investigação moderna se apoia em <b>metadados</b> (quem falou com quem, quando, de onde), em dados de <b>backup</b> em nuvem (com ordem judicial) e no <b>acesso ao aparelho</b> apreendido.</li><li><b>Bloqueio de aplicativos</b>: o STF discute, na ADPF 403 e na ADI 5.527, se juízes podem determinar a suspensão de aplicativos que descumprem ordens judiciais de fornecimento de dados. O tema envolve a liberdade de comunicação de milhões de usuários e a efetividade da investigação.</li><li><b>Softwares de intrusão</b> (spyware): o uso de programas que invadem o celular do investigado para captar mensagens antes da criptografia não tem previsão legal específica no Brasil. A doutrina majoritária entende que, sem lei, essa técnica é <b>ilícita</b>, por ser mais invasiva que a interceptação e permitir acesso a todo o conteúdo do aparelho.</li><li><b>ERBs e geolocalização</b>: a identificação das antenas acionadas por um celular permite reconstruir os deslocamentos do investigado. A quebra desses dados exige ordem judicial. As chamadas \"<b>quebras por área</b>\" (pedir os dados de todos os celulares que passaram por um local num horário) são objeto de debate: o STJ já admitiu em casos graves, com delimitação rigorosa de tempo e espaço, mas a questão envolve a privacidade de milhares de pessoas não investigadas, e o STF discute o tema em repercussão geral.</li><li><b>Inteligência artificial e transcrição automática</b>: ferramentas que transcrevem e analisam grandes volumes de áudios aceleram as investigações, mas o relatório deve indicar a metodologia e permitir a conferência humana dos trechos usados, garantindo a confiabilidade da prova.</li><li><b>Dica final</b>: em provas de delegado, ao responder sobre técnicas novas, use o raciocínio da <b>reserva de lei</b> e da <b>reserva de jurisdição</b>: medidas invasivas de direitos fundamentais exigem <b>lei</b> que as preveja e <b>ordem judicial</b> fundamentada, com proporcionalidade. Onde não há lei, a técnica é, em regra, ilícita.</li></ul>\n<h3>27. Mapa mental final</h3>\n<ul><li><b>Pergunta 1: o que se quer captar?</b> Conversa telefônica ou fluxo telemático em curso → interceptação (Lei 9.296, arts. 1º a 10). Conversa presencial → captação ambiental (art. 8º-A). Dados já armazenados no aparelho ou na nuvem → acesso a dados com ordem judicial (intimidade, Marco Civil). Registros de chamadas ou de conexão → quebra de sigilo de registros, com ordem judicial. Nome e endereço do titular → requisição direta de dados cadastrais.</li><li><b>Pergunta 2: quem está captando?</b> Um dos interlocutores → gravação, lícita como regra. Terceiro com consentimento de um interlocutor → escuta, em regra com ordem judicial. Terceiro sem conhecimento de ninguém → interceptação, sempre com ordem judicial.</li><li><b>Pergunta 3: o crime admite?</b> Interceptação → reclusão. Captação ambiental → pena máxima superior a 4 anos ou conexa. Crimes de detenção e contravenções → não admitem, salvo conexão descoberta fortuitamente.</li><li><b>Pergunta 4: a decisão está bem fundamentada?</b> Indícios concretos, subsidiariedade demonstrada, descrição dos investigados e terminais, prazo de 15 dias e prorrogações motivadas com fatos novos.</li><li><b>Pergunta 5: a execução respeitou a lei?</b> Polícia executa com ciência ao MP; autos apartados; sigilo; transcrição dos trechos relevantes; mídias íntegras com cadeia de custódia; inutilização do que não interessa; remessa ao tribunal se surgir autoridade com foro.</li><li>Respondendo bem a essas cinco perguntas, você resolve a grande maioria das questões sobre interceptação e evita, na prática, nulidades que derrubam investigações inteiras.</li><li><b>Pergunta 6: quem pode usar o resultado e onde?</b> No processo penal do qual a interceptação faz parte; em outros processos penais, por empréstimo, com contraditório; no processo administrativo disciplinar, com autorização do juízo (Súmula 591); nunca para finalidades meramente civis ou políticas, e nunca por divulgação pública fora dos autos.</li><li><b>Pergunta 7: e se algo deu errado?</b> Prova ilícita é desentranhada e inutilizada; as derivadas também caem, salvo fonte independente, descoberta inevitável ou nexo atenuado. O agente que agiu sem autorização ou vazou o conteúdo pode responder pelos crimes dos arts. 10 e 10-A e pela Lei de Abuso de Autoridade.</li><li>Um último lembrete de prova: quando a banca perguntar \"segundo a Lei 9.296\", responda pela <b>letra</b> da lei (por exemplo, o art. 3º ainda menciona a decretação de ofício e o art. 5º diz \"renovável por igual tempo\"); quando perguntar \"segundo a jurisprudência\", aplique as teses do STF e do STJ (vedação de atuação de ofício na investigação, renovações sucessivas fundamentadas). Ler o comando da questão com atenção evita a maior parte dos erros.</li><li><b>Treino final de memorização</b>: repita em voz alta a sequência \"<b>ordem judicial, indícios, subsidiariedade, reclusão, descrição, 24 horas, 15 dias, polícia executa, MP acompanha, autos apartados, inutilização, crime de 2 a 4 anos</b>\". Ela resume, em ordem, os artigos 1º a 10 da Lei 9.296. Depois acrescente a captação ambiental (\"<b>mais de 4 anos, 15 dias, local descrito, interlocutor pode gravar</b>\") e a jurisprudência (\"<b>Tema 237 grava, Tema 661 renova, Súmula 591 empresta</b>\"). Com essas três frases, você tem o mapa completo do tópico para a revisão da véspera da prova.</li></ul>\n<h3>28. Dados telemáticos, Marco Civil da Internet e outras quebras de sigilo</h3>\n<ul><li>O <b>Marco Civil da Internet</b> (Lei 12.965/2014) distingue: <b>registros de conexão</b> (data, hora, duração e endereço IP de uma conexão), que os provedores de <b>conexão</b> devem guardar por <b>1 ano</b>; <b>registros de acesso a aplicações</b> (data, hora e IP do uso de um aplicativo ou site), que os provedores de <b>aplicação</b> devem guardar por <b>6 meses</b>; e o <b>conteúdo</b> das comunicações privadas.</li><li>O fornecimento de <b>registros</b> e do <b>conteúdo</b> exige <b>ordem judicial</b> (arts. 10, 15 e 22 do Marco Civil). Os <b>dados cadastrais</b> (qualificação pessoal, filiação e endereço) podem ser requisitados por autoridades administrativas com competência legal para tanto (art. 10, § 3º), como o delegado e o MP.</li><li><b>Requisição cautelar de preservação</b>: a autoridade policial ou o MP podem <b>requerer cautelarmente</b> ao provedor que os registros sejam guardados por prazo <b>superior</b> ao legal, devendo, em <b>60 dias</b>, ingressar com o pedido de autorização judicial de acesso (art. 13, §§ 2º e 3º, e art. 15, § 2º). Isso evita que os dados sejam apagados enquanto a ordem judicial não sai.</li><li><b>Localização de celular e ERB</b>: a identificação das <b>Estações Rádio Base</b> acionadas por um aparelho (para saber onde ele estava) exige, em regra, autorização judicial. O <b>CPP, art. 13-B</b> (Lei 13.344/2016), permite ao delegado e ao MP, nos crimes de <b>tráfico de pessoas</b> e correlatos, requisitar às operadoras, mediante autorização judicial, os meios técnicos que permitam a localização da vítima ou dos suspeitos; se o juiz não se manifestar em <b>12 horas</b>, a autoridade pode requisitar diretamente, comunicando o juiz.</li></ul>\n<table class=\"tab\"><thead><tr><th>Medida</th><th>Exige ordem judicial?</th><th>Base</th></tr></thead><tbody><tr><td>Dados cadastrais (nome, filiação, endereço)</td><td><b>não</b> (requisição direta do delegado ou MP, nos casos legais)</td><td>Lei 12.850, art. 15; Lei 9.613, art. 17-B; CPP, art. 13-A; Marco Civil, art. 10, § 3º</td></tr><tr><td>Registros de ligações (extrato)</td><td><b>sim</b> (ou CPI)</td><td>CF, art. 5º, X e XII</td></tr><tr><td>Registros de conexão e de acesso</td><td><b>sim</b></td><td>Marco Civil, art. 22</td></tr><tr><td>Conteúdo armazenado (e-mails, mensagens antigas)</td><td><b>sim</b></td><td>Marco Civil; CF, art. 5º, X</td></tr><tr><td>Interceptação do fluxo (telefone, telemática)</td><td><b>sim</b>, com os requisitos da Lei 9.296</td><td>Lei 9.296</td></tr><tr><td>Captação ambiental</td><td><b>sim</b></td><td>Lei 9.296, art. 8º-A</td></tr><tr><td>Gravação por um dos interlocutores</td><td><b>não</b></td><td>STF, Tema 237</td></tr></tbody></table>\n<h3>29. Perguntas frequentes em provas discursivas</h3>\n<ul><li><b>\"Diferencie interceptação, escuta e gravação.\"</b> Interceptação é a captação por terceiro sem conhecimento de nenhum dos interlocutores; escuta é a captação por terceiro com o conhecimento de um deles; gravação é a captação por um dos próprios interlocutores. A interceptação exige ordem judicial nos termos da Lei 9.296; a escuta é, em regra, tratada da mesma forma; a gravação por interlocutor é lícita (STF, Tema 237), salvo causa legal de sigilo.</li><li><b>\"Quais os requisitos da interceptação telefônica?\"</b> Ordem judicial fundamentada do juiz competente, em segredo de justiça; indícios razoáveis de autoria ou participação; impossibilidade de obter a prova por outros meios; crime punido com reclusão; descrição clara da situação investigada e dos investigados; prazo de 15 dias, renovável enquanto indispensável (Tema 661).</li><li><b>\"Comente a validade do encontro fortuito de provas.\"</b> A serendipidade é admitida pelo STF e pelo STJ quando a interceptação foi regularmente autorizada e não houve desvio de finalidade, inclusive quanto a crimes punidos com detenção conexos ao investigado; descobertas sem conexão servem como notícia de crime. Se surgirem indícios contra autoridade com foro, os autos devem ser remetidos ao tribunal competente.</li></ul>\n<h3>30. Como as bancas cobram este tópico</h3>\n<ul><li><b>Conceitos</b>: interceptação x escuta x gravação; registros x conteúdo; dados cadastrais.</li><li><b>Requisitos</b>: art. 2º (técnica negativa, reclusão, subsidiariedade, indícios); art. 3º (legitimados); art. 4º (24 horas; pedido verbal reduzido a termo); art. 5º (15 dias, renovação, fundamentação).</li><li><b>Execução</b>: polícia conduz e dá ciência ao MP; transcrição dos trechos relevantes; autos apartados; inutilização por decisão judicial.</li><li><b>Captação ambiental</b>: requisitos (pena máxima superior a 4 anos), prazo, uso pela defesa da gravação de interlocutor.</li><li><b>Crimes</b>: arts. 10 e 10-A; exceção do interlocutor; pena em dobro para o servidor que vaza.</li><li><b>Jurisprudência</b>: Tema 237, Tema 661, Súmula 591 do STJ, encontro fortuito, CPI, denúncia anônima, WhatsApp Web, celular apreendido.</li><li><b>Bancas</b>: o <b>Cebraspe</b> adora a técnica negativa do art. 2º e os prazos; a <b>FGV</b> cobra casos com escolha do meio de prova; a <b>Consulplan</b> cobra a letra dos arts. 2º a 10.</li></ul>\n<h3>31. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CF, art. 5º, XII</span></span><span class=\"vs\"><span>sigilo das comunicações; exceção para telefônicas com ordem judicial</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Interceptação</span></span><span class=\"vs\"><span>terceiro capta sem conhecimento dos interlocutores</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Escuta</span></span><span class=\"vs\"><span>terceiro capta com conhecimento de um interlocutor</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gravação</span></span><span class=\"vs\"><span>um dos interlocutores grava; lícita (Tema 237)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CPI</span></span><span class=\"vs\"><span>quebra registros, não interceptação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 2º</span></span><span class=\"vs\"><span>não cabe sem indícios, se houver outros meios ou se o crime for punido com detenção</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Legitimados</span></span><span class=\"vs\"><span>delegado (investigação), MP (investigação e processo)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pedido verbal</span></span><span class=\"vs\"><span>excepcional, reduzido a termo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decisão do juiz</span></span><span class=\"vs\"><span>24 horas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo</span></span><span class=\"vs\"><span>15 dias, renovável</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Renovações sucessivas</span></span><span class=\"vs\"><span>lícitas se fundamentadas (Tema 661)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Execução</span></span><span class=\"vs\"><span>autoridade policial, com ciência ao MP</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Transcrição</span></span><span class=\"vs\"><span>dos trechos relevantes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Autos</span></span><span class=\"vs\"><span>apartados e sigilosos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gravação inútil</span></span><span class=\"vs\"><span>inutilizada por decisão judicial</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Captação ambiental</span></span><span class=\"vs\"><span>pena máxima superior a 4 anos; 15 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 10</span></span><span class=\"vs\"><span>interceptação ou quebra de segredo sem autorização, 2 a 4 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 10-A</span></span><span class=\"vs\"><span>captação ambiental sem autorização; não há crime se feita por interlocutor</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Servidor que vaza captação</span></span><span class=\"vs\"><span>pena em dobro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Súmula 591 STJ</span></span><span class=\"vs\"><span>prova emprestada em PAD</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Encontro fortuito</span></span><span class=\"vs\"><span>válido sem desvio de finalidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Denúncia anônima isolada</span></span><span class=\"vs\"><span>não basta</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>WhatsApp Web espelhado</span></span><span class=\"vs\"><span>prova ilícita (STJ)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Celular apreendido</span></span><span class=\"vs\"><span>acesso com ordem judicial ou consentimento</span></span></button></div></div>\n<h3>32. Resumo em uma página</h3>\n<ul><li><b>Base</b>: CF, art. 5º, XII; Lei 9.296/1996, aplicável também à telemática.</li><li><b>Conceitos</b>: interceptação, escuta, gravação; registros e cadastrais; dados armazenados.</li><li><b>Requisitos</b>: ordem judicial fundamentada; indícios; subsidiariedade; reclusão; descrição do fato e dos investigados.</li><li><b>Procedimento</b>: delegado ou MP pedem; verbal excepcional; juiz em 24 horas; 15 dias renováveis; polícia executa; auto circunstanciado; autos apartados; inutilização.</li><li><b>Captação ambiental</b> (art. 8º-A): pena máxima superior a 4 anos; descrição do local; 15 dias; gravação do interlocutor para defesa.</li><li><b>Crimes</b>: art. 10 (interceptação, escuta, quebra de segredo; juiz com objetivo ilegal) e art. 10-A (captação ambiental; exceção do interlocutor; dobro para servidor).</li><li><b>Jurisprudência</b>: Temas 237 e 661; Súmula 591; serendipidade; foro; CPI; WhatsApp Web; celular.</li></ul>",
 "quiz": [
+{
+"p": "A Constituição permite a quebra do sigilo das comunicações telefônicas por ordem judicial, para fins de investigação criminal ou instrução processual penal.",
+"c": true,
+"prof": "CF.",
+"x": "Art. 5º, XII.",
+"e": "Finalidade"
+},
+{
+"p": "A interceptação telefônica pode ser decretada para instruir ação civil de improbidade administrativa.",
+"c": false,
+"prof": "CF.",
+"x": "Só fins penais.",
+"e": "Finalidade"
+},
+{
+"p": "A Lei 9.296/1996 aplica-se também à interceptação do fluxo de comunicações em sistemas de informática e telemática.",
+"c": true,
+"prof": "Âmbito.",
+"x": "Art. 1º, parágrafo único.",
+"e": "Telemática"
+},
+{
+"p": "As Comissões Parlamentares de Inquérito podem decretar interceptação telefônica.",
+"c": false,
+"prof": "CPI.",
+"x": "Reserva de jurisdição.",
+"e": "CPI"
+},
+{
+"p": "A CPI pode determinar, por decisão fundamentada, a quebra do sigilo dos registros telefônicos do investigado.",
+"c": true,
+"prof": "CPI.",
+"x": "Registros, não conteúdo.",
+"e": "Registros"
+},
+{
+"p": "Interceptação telefônica em sentido estrito é a captação da conversa por terceiro, sem o conhecimento de nenhum dos interlocutores.",
+"c": true,
+"prof": "Conceitos.",
+"x": "Terceiro.",
+"e": "Interceptação"
+},
+{
+"p": "Gravação telefônica é a captação da conversa feita por um dos próprios interlocutores.",
+"c": true,
+"prof": "Conceitos.",
+"x": "Interlocutor.",
+"e": "Gravação"
+},
+{
+"p": "Segundo o STF, é lícita a gravação ambiental feita por um dos interlocutores sem o conhecimento do outro.",
+"c": true,
+"prof": "Gravação.",
+"x": "Tema 237.",
+"e": "Licitude"
+},
+{
+"p": "Não será admitida a interceptação se houver indícios razoáveis de autoria.",
+"c": false,
+"prof": "Requisitos.",
+"x": "Exige indícios.",
+"e": "Art. 2º, I"
+},
+{
+"p": "Não será admitida a interceptação quando a prova puder ser feita por outros meios disponíveis.",
+"c": true,
+"prof": "Requisitos.",
+"x": "Art. 2º, II.",
+"e": "Subsidiariedade"
+},
+{
+"p": "Admite-se interceptação telefônica para investigar crime punido exclusivamente com detenção.",
+"c": false,
+"prof": "Requisitos.",
+"x": "Art. 2º, III.",
+"e": "Reclusão"
+},
+{
+"p": "O pedido de interceptação deve descrever com clareza a situação objeto da investigação e indicar os investigados, salvo impossibilidade justificada.",
+"c": true,
+"prof": "Requisitos.",
+"x": "Art. 2º, parágrafo único.",
+"e": "Descrição"
+},
+{
+"p": "A denúncia anônima, isoladamente, autoriza a interceptação telefônica.",
+"c": false,
+"prof": "Requisitos.",
+"x": "Diligências prévias.",
+"e": "Anônima"
+},
+{
+"p": "A autoridade policial pode representar pela interceptação durante a investigação criminal.",
+"c": true,
+"prof": "Legitimados.",
+"x": "Art. 3º, I.",
+"e": "Delegado"
+},
+{
+"p": "A autoridade policial pode requerer interceptação durante a instrução processual penal.",
+"c": false,
+"prof": "Legitimados.",
+"x": "Só o MP.",
+"e": "Fase"
+},
+{
+"p": "O Ministério Público pode requerer a interceptação tanto na investigação quanto na instrução processual.",
+"c": true,
+"prof": "Legitimados.",
+"x": "Art. 3º, II.",
+"e": "MP"
+},
+{
+"p": "Excepcionalmente, o pedido de interceptação pode ser formulado verbalmente, condicionada a concessão à sua redução a termo.",
+"c": true,
+"prof": "Pedido.",
+"x": "Art. 4º, § 1º.",
+"e": "Verbal"
+},
+{
+"p": "O juiz deve decidir o pedido de interceptação no prazo máximo de 24 horas.",
+"c": true,
+"prof": "Pedido.",
+"x": "Art. 4º, § 2º.",
+"e": "24 horas"
+},
+{
+"p": "A interceptação não pode exceder 15 dias, renovável por igual tempo comprovada a indispensabilidade.",
+"c": true,
+"prof": "Prazo.",
+"x": "Art. 5º.",
+"e": "15 dias"
+},
+{
+"p": "Segundo o STF, a interceptação só pode ser renovada uma única vez.",
+"c": false,
+"prof": "Prazo.",
+"x": "Tema 661.",
+"e": "Sucessivas"
+},
+{
+"p": "São válidas as prorrogações de interceptação fundamentadas em modelos padronizados sem relação com o caso.",
+"c": false,
+"prof": "Prazo.",
+"x": "Tema 661.",
+"e": "Fundamentação"
+},
+{
+"p": "A decisão que autoriza a interceptação deve ser fundamentada, sob pena de nulidade.",
+"c": true,
+"prof": "Decisão.",
+"x": "Art. 5º.",
+"e": "Nulidade"
+},
+{
+"p": "A autoridade policial conduz os procedimentos de interceptação, dando ciência ao Ministério Público.",
+"c": true,
+"prof": "Execução.",
+"x": "Art. 6º.",
+"e": "Polícia"
+},
+{
+"p": "É obrigatória a transcrição integral de todas as conversas interceptadas.",
+"c": false,
+"prof": "Execução.",
+"x": "Trechos relevantes.",
+"e": "Transcrição"
+},
+{
+"p": "A interceptação ocorre em autos apartados, preservando-se o sigilo.",
+"c": true,
+"prof": "Execução.",
+"x": "Art. 8º.",
+"e": "Autos apartados"
+},
+{
+"p": "A gravação que não interessar à prova será inutilizada por decisão judicial.",
+"c": true,
+"prof": "Execução.",
+"x": "Art. 9º.",
+"e": "Inutilização"
+},
+{
+"p": "A autoridade policial pode requisitar serviços e técnicos especializados às concessionárias de serviço público para a interceptação.",
+"c": true,
+"prof": "Execução.",
+"x": "Art. 7º.",
+"e": "Operadoras"
+},
+{
+"p": "São válidas as provas de outros crimes descobertas fortuitamente durante interceptação legalmente autorizada, sem desvio de finalidade.",
+"c": true,
+"prof": "Serendipidade.",
+"x": "Encontro fortuito.",
+"e": "Validade"
+},
+{
+"p": "É permitida a prova emprestada da interceptação no processo administrativo disciplinar, se autorizada pelo juízo competente e respeitados contraditório e ampla defesa.",
+"c": true,
+"prof": "Prova emprestada.",
+"x": "Súmula 591 do STJ.",
+"e": "PAD"
+},
+{
+"p": "Surgindo na interceptação indícios contra autoridade com foro por prerrogativa, os autos devem ser remetidos ao tribunal competente.",
+"c": true,
+"prof": "Foro.",
+"x": "Supervisão.",
+"e": "Tribunal"
+},
+{
+"p": "A captação ambiental exige elementos de autoria em infrações com pena máxima superior a 4 anos ou conexas.",
+"c": true,
+"prof": "Captação ambiental.",
+"x": "Art. 8º-A, II.",
+"e": "Pena"
+},
+{
+"p": "O requerimento de captação ambiental deve descrever o local e a forma de instalação do dispositivo.",
+"c": true,
+"prof": "Captação ambiental.",
+"x": "§ 1º.",
+"e": "Local"
+},
+{
+"p": "A captação ambiental não pode exceder 15 dias, renovável se comprovada a indispensabilidade e presente atividade criminal permanente, habitual ou continuada.",
+"c": true,
+"prof": "Captação ambiental.",
+"x": "§ 3º.",
+"e": "Prazo"
+},
+{
+"p": "A captação ambiental pode ser decretada de ofício pelo juiz, segundo a redação do art. 8º-A.",
+"c": false,
+"prof": "Captação ambiental.",
+"x": "Requerimento.",
+"e": "Iniciativa"
+},
+{
+"p": "Realizar interceptação telefônica sem autorização judicial é crime punido com reclusão de 2 a 4 anos e multa.",
+"c": true,
+"prof": "Crimes.",
+"x": "Art. 10.",
+"e": "Pena"
+},
+{
+"p": "Comete crime o juiz que determina interceptação com objetivo não autorizado em lei.",
+"c": true,
+"prof": "Crimes.",
+"x": "Art. 10, parágrafo único.",
+"e": "Juiz"
+},
+{
+"p": "Comete o crime do art. 10-A quem grava a conversa de que participa, para se defender.",
+"c": false,
+"prof": "Crimes.",
+"x": "§ 1º.",
+"e": "Interlocutor"
+},
+{
+"p": "O funcionário público que descumpre o sigilo de captação ambiental tem a pena aplicada em dobro.",
+"c": true,
+"prof": "Crimes.",
+"x": "Art. 10-A, § 2º.",
+"e": "Dobro"
+},
+{
+"p": "Segundo o STJ, é ilícita a prova obtida por espelhamento de conversas do WhatsApp Web.",
+"c": true,
+"prof": "Aplicativos.",
+"x": "Possibilidade de interação.",
+"e": "Espelhamento"
+},
+{
+"p": "O acesso ao conteúdo do celular apreendido com o preso exige autorização judicial ou consentimento válido.",
+"c": true,
+"prof": "Celular.",
+"x": "Intimidade.",
+"e": "Acesso"
+},
+{
+"p": "Dados cadastrais de qualificação, filiação e endereço podem ser requisitados diretamente pelo delegado, nas hipóteses legais.",
+"c": true,
+"prof": "Dados.",
+"x": "Lei 12.850, art. 15.",
+"e": "Cadastrais"
+},
+{
+"p": "Os provedores de aplicação devem guardar os registros de acesso a aplicações por 6 meses.",
+"c": true,
+"prof": "Marco Civil.",
+"x": "Art. 15.",
+"e": "6 meses"
+},
+{
+"p": "Os provedores de conexão devem guardar os registros de conexão por 1 ano.",
+"c": true,
+"prof": "Marco Civil.",
+"x": "Art. 13.",
+"e": "1 ano"
+},
+{
+"p": "A autoridade policial pode requerer cautelarmente a guarda dos registros por prazo superior ao legal, devendo pedir a autorização judicial de acesso em 60 dias.",
+"c": true,
+"prof": "Marco Civil.",
+"x": "Art. 13, § 3º.",
+"e": "Preservação"
+},
+{
+"p": "O fornecimento do conteúdo de comunicações privadas armazenadas pelo provedor independe de ordem judicial.",
+"c": false,
+"prof": "Marco Civil.",
+"x": "Exige ordem.",
+"e": "Conteúdo"
+},
+{
+"p": "A quebra do sigilo dos registros de ligações telefônicas não se submete ao requisito de crime punido com reclusão da Lei 9.296.",
+"c": true,
+"prof": "Registros.",
+"x": "Não é interceptação.",
+"e": "Registros"
+},
+{
+"p": "A interceptação é medida de ultima ratio, somente cabível quando a prova não puder ser obtida por outros meios.",
+"c": true,
+"prof": "Requisitos.",
+"x": "Subsidiariedade.",
+"e": "Ultima ratio"
+},
+{
+"p": "A escuta realizada com consentimento de um dos interlocutores dispensa, em qualquer caso, autorização judicial, segundo a jurisprudência majoritária.",
+"c": false,
+"prof": "Conceitos.",
+"x": "Em regra, exige ordem.",
+"e": "Escuta"
+},
+{
+"p": "A prova obtida por interceptação ilícita contamina as provas dela derivadas, salvo fonte independente ou descoberta inevitável.",
+"c": true,
+"prof": "Ilicitude.",
+"x": "CPP, art. 157, § 1º.",
+"e": "Derivação"
+},
+{
+"p": "São inadmissíveis as provas derivadas das ilícitas, salvo quando não evidenciado o nexo de causalidade ou quando puderem ser obtidas por fonte independente.",
+"c": true,
+"prof": "Ilicitude.",
+"x": "CPP, art. 157, § 1º.",
+"e": "Fonte independente"
+},
+{
+"p": "É ilícita a interceptação de conversas entre o investigado e seu advogado sobre a estratégia de defesa.",
+"c": true,
+"prof": "Advogado.",
+"x": "Estatuto da OAB, art. 7º, II.",
+"e": "Defesa"
+},
+{
+"p": "O advogado investigado como coautor de crime não pode, em hipótese alguma, ter suas comunicações interceptadas.",
+"c": false,
+"prof": "Advogado.",
+"x": "Pode, com ordem judicial.",
+"e": "Coautor"
+},
+{
+"p": "O delegado pode prorrogar a interceptação por conta própria, comunicando depois o juiz.",
+"c": false,
+"prof": "Prorrogação.",
+"x": "Decisão judicial.",
+"e": "Juiz"
+},
+{
+"p": "A Constituição assegura o sigilo da fonte, quando necessário ao exercício profissional.",
+"c": true,
+"prof": "Jornalista.",
+"x": "Art. 5º, XIV.",
+"e": "Fonte"
+},
+{
+"p": "No ECA, a infiltração virtual para investigar crimes sexuais contra crianças é autorizada por até 90 dias, renováveis até o total de 720 dias.",
+"c": true,
+"prof": "ECA.",
+"x": "Art. 190-A.",
+"e": "Infiltração"
+},
+{
+"p": "Segundo a Lei 9.296/1996, NÃO será admitida a interceptação telefônica quando",
+"alts": [
+"houver indícios razoáveis de autoria",
+"o crime for punido com reclusão",
+"a prova puder ser feita por outros meios disponíveis",
+"houver investigação policial em curso",
+"o investigado for primário"
+],
+"r": 2,
+"x": "Art. 2º, II.",
+"n": [
+"Indícios são exigidos.",
+"Reclusão é exigida.",
+"Correta.",
+"Não impede.",
+"Irrelevante."
+],
+"e": "Art. 2º."
+},
+{
+"p": "O prazo da interceptação telefônica, segundo a lei e a jurisprudência do STF, é de",
+"alts": [
+"30 dias, improrrogáveis",
+"15 dias, renováveis uma única vez",
+"15 dias, renováveis sucessivamente, com fundamentação concreta",
+"60 dias, renováveis",
+"indeterminado"
+],
+"r": 2,
+"x": "Art. 5º e Tema 661.",
+"n": [
+"Não.",
+"O STF admite sucessivas.",
+"Correta.",
+"Não.",
+"Há prazo."
+],
+"e": "Prazo."
+},
+{
+"p": "Assinale a hipótese que caracteriza gravação clandestina, e não interceptação.",
+"alts": [
+"a polícia grampeia o telefone do suspeito",
+"um terceiro ouve a ligação com autorização de um dos interlocutores",
+"a vítima grava a ligação em que recebe a ameaça",
+"a operadora copia as conversas a pedido da polícia",
+"a polícia instala microfone na sala do investigado"
+],
+"r": 2,
+"x": "Um dos interlocutores grava.",
+"n": [
+"Interceptação.",
+"Escuta.",
+"Correta.",
+"Interceptação.",
+"Captação ambiental."
+],
+"e": "Conceitos."
+},
+{
+"p": "Quanto à legitimidade para pedir a interceptação, é correto afirmar:",
+"alts": [
+"a defesa pode requerer na investigação",
+"o delegado pode requerer na instrução processual",
+"o delegado pode representar na investigação e o MP pode requerer na investigação e na instrução",
+"apenas o MP pode pedir",
+"a vítima pode pedir"
+],
+"r": 2,
+"x": "Art. 3º.",
+"n": [
+"Não prevista.",
+"Só na investigação.",
+"Correta.",
+"O delegado também.",
+"Não."
+],
+"e": "Legitimados."
+},
+{
+"p": "Durante interceptação autorizada para investigar tráfico, a polícia descobre que o investigado também pratica corrupção ativa. A prova",
+"alts": [
+"é ilícita, pois não se refere ao crime investigado",
+"é válida, por encontro fortuito, se não houve desvio de finalidade",
+"só vale se houver nova autorização retroativa",
+"depende de confissão",
+"só pode ser usada pela defesa"
+],
+"r": 1,
+"x": "Serendipidade.",
+"n": [
+"É válida.",
+"Correta.",
+"Não se exige.",
+"Não.",
+"Não."
+],
+"e": "Encontro fortuito."
+},
+{
+"p": "Sobre a captação ambiental (art. 8º-A da Lei 9.296), é correto afirmar:",
+"alts": [
+"cabe em qualquer crime punido com reclusão",
+"exige elementos de autoria em infrações com pena máxima superior a 4 anos ou conexas",
+"dispensa autorização judicial",
+"tem prazo de 30 dias",
+"pode ser decretada de ofício"
+],
+"r": 1,
+"x": "Art. 8º-A.",
+"n": [
+"Critério é a pena máxima.",
+"Correta.",
+"Exige.",
+"15 dias.",
+"Requerimento."
+],
+"e": "Captação ambiental."
+},
+{
+"p": "O crime do art. 10-A da Lei 9.296/1996 (captação ambiental sem autorização) NÃO se configura quando",
+"alts": [
+"a captação é feita por policial sem ordem",
+"a captação é realizada por um dos interlocutores",
+"a gravação é feita em ambiente público",
+"o investigado é reincidente",
+"a captação dura menos de 15 dias"
+],
+"r": 1,
+"x": "§ 1º.",
+"n": [
+"Configura.",
+"Correta.",
+"Irrelevante.",
+"Irrelevante.",
+"Irrelevante."
+],
+"e": "Art. 10-A."
+},
+{
+"p": "Sobre a execução da interceptação, é correto afirmar:",
+"alts": [
+"é conduzida pelo MP, com ciência à polícia",
+"exige transcrição integral obrigatória",
+"é conduzida pela autoridade policial, com ciência ao MP, em autos apartados e sigilosos",
+"as gravações inúteis são destruídas pelo delegado",
+"é juntada aos autos principais desde o início"
+],
+"r": 2,
+"x": "Arts. 6º e 8º.",
+"n": [
+"Inverso.",
+"Trechos relevantes.",
+"Correta.",
+"Decisão judicial.",
+"Apensação no momento previsto."
+],
+"e": "Execução."
+},
+{
+"p": "Uma CPI do Congresso pode",
+"alts": [
+"decretar interceptação telefônica",
+"decretar busca domiciliar",
+"decretar prisão preventiva",
+"quebrar o sigilo dos registros telefônicos, por decisão fundamentada",
+"ouvir conversas em tempo real"
+],
+"r": 3,
+"x": "CF, art. 58, § 3º.",
+"n": [
+"Reserva de jurisdição.",
+"Reserva de jurisdição.",
+"Reserva de jurisdição.",
+"Correta.",
+"É interceptação."
+],
+"e": "CPI."
+},
+{
+"p": "Segundo a Súmula 591 do STJ, a prova obtida em interceptação telefônica",
+"alts": [
+"não pode ser usada fora do processo penal",
+"pode ser emprestada ao processo administrativo disciplinar, autorizada pelo juízo e respeitado o contraditório",
+"só pode ser usada na ação civil",
+"dispensa contraditório no PAD",
+"pode ser decretada para o PAD"
+],
+"r": 1,
+"x": "Prova emprestada.",
+"n": [
+"Pode.",
+"Correta.",
+"Não.",
+"Exige.",
+"Só se empresta."
+],
+"e": "Súmula 591."
+},
+{
+"p": "O juiz deve decidir sobre o pedido de interceptação no prazo de",
+"alts": [
+"12 horas",
+"24 horas",
+"48 horas",
+"5 dias",
+"15 dias"
+],
+"r": 1,
+"x": "Art. 4º, § 2º.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"É o prazo da medida."
+],
+"e": "Prazo para decidir."
+},
+{
+"p": "Sobre o acesso ao celular apreendido com o investigado preso em flagrante, é correto afirmar:",
+"alts": [
+"o policial pode ler as mensagens no local da prisão",
+"o acesso ao conteúdo exige autorização judicial ou consentimento válido",
+"basta autorização do delegado",
+"o acesso é livre se o celular estiver desbloqueado",
+"só é proibido em crimes de menor potencial"
+],
+"r": 1,
+"x": "STJ.",
+"n": [
+"Prova ilícita.",
+"Correta.",
+"Não basta.",
+"Não.",
+"Não."
+],
+"e": "Celular."
+},
+{
+"p": "É ilícita, segundo o STJ, a prova obtida por meio de",
+"alts": [
+"interceptação autorizada judicialmente",
+"gravação feita por um dos interlocutores",
+"espelhamento de conversas pelo WhatsApp Web",
+"acesso ao celular com autorização judicial",
+"dados cadastrais requisitados pelo delegado"
+],
+"r": 2,
+"x": "Possibilidade de manipular mensagens.",
+"n": [
+"Lícita.",
+"Lícita.",
+"Correta.",
+"Lícita.",
+"Lícita."
+],
+"e": "WhatsApp Web."
+},
+{
+"p": "Constitui crime previsto no art. 10 da Lei 9.296/1996:",
+"alts": [
+"requisitar dados cadastrais à operadora",
+"gravar conversa da qual participa",
+"quebrar segredo da Justiça, sem autorização judicial ou com objetivos não autorizados em lei",
+"representar pela interceptação",
+"transcrever trechos relevantes"
+],
+"r": 2,
+"x": "Art. 10.",
+"n": [
+"Lícito.",
+"Lícito.",
+"Correta.",
+"Lícito.",
+"Dever legal."
+],
+"e": "Art. 10."
+},
+{
+"p": "Uma vítima recebe ameaças por telefone (crime punido com detenção de 1 a 6 meses). O delegado pode",
+"alts": [
+"representar pela interceptação da linha do suspeito",
+"representar pela quebra do sigilo dos registros telefônicos e requisitar dados cadastrais",
+"determinar a interceptação por conta própria",
+"pedir à CPI a interceptação",
+"instalar escuta sem ordem"
+],
+"r": 1,
+"x": "Art. 2º, III.",
+"n": [
+"Detenção impede.",
+"Correta.",
+"Reserva de jurisdição.",
+"Não.",
+"Crime."
+],
+"e": "Ameaça."
+},
+{
+"p": "Pelo Marco Civil da Internet, os registros de conexão devem ser guardados pelo provedor de conexão pelo prazo de",
+"alts": [
+"6 meses",
+"1 ano",
+"2 anos",
+"5 anos",
+"10 anos"
+],
+"r": 1,
+"x": "Art. 13.",
+"n": [
+"Prazo dos registros de acesso a aplicações.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Marco Civil."
+},
 {
 "p": "Não será admitida a interceptação de comunicações telefônicas quando o fato investigado constituir infração penal punida, no máximo, com pena de detenção.",
 "c": true,
@@ -17471,6 +21030,3271 @@ export const PROFUNDO = {
 "prof": "24 h para decidir; 15 dias de duração.",
 "x": "O juiz decide em 24 horas (art. 4º, § 2º); a diligência dura até 15 dias, renovável por igual período (art. 5º). O pedido verbal é excepcional e deve ser reduzido a termo.",
 "e": "24 h e 15 dias."
+}
+],
+"ant": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>15</b><span>dias de interceptação, renováveis (sucessivamente, se indispensável)</span></div><div class=\"lt-stat\"><b>24 h</b><span>prazo do juiz para decidir o pedido</span></div><div class=\"lt-stat\"><b>2 a 4</b><span>anos de reclusão por interceptar sem autorização (art. 10)</span></div><div class=\"lt-stat\"><b>Detenção</b><span>crimes punidos só com detenção não admitem interceptação</span></div></div>\n<h3>1. Regras da Lei 9.296/1996</h3>\n<ul><li>A interceptação de comunicações <b>telefônicas</b> e de <b>fluxo de comunicações em sistemas de informática e telemática</b> depende de <b>ordem do juiz competente da ação principal</b>, sob <b>segredo de justiça</b> (art. 1º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Não cabe interceptação (art. 2º) quando:</th></tr></thead><tbody><tr><td><b>não houver indícios razoáveis</b> de autoria ou participação</td></tr><tr><td>a prova <b>puder ser feita por outros meios</b> disponíveis (subsidiariedade)</td></tr><tr><td>o fato for punido, <b>no máximo, com detenção</b></td></tr></tbody></table>\n<ul><li>Quem pede: a <b>autoridade policial</b> (na investigação) ou o <b>MP</b> (na investigação e na ação). A lei também fala em decretação <b>de ofício</b> pelo juiz, o que hoje é visto com reservas no sistema acusatório.</li><li>O pedido deve demonstrar a <b>necessidade</b> e indicar os <b>meios</b>; excepcionalmente pode ser <b>verbal</b>, reduzido a termo. O juiz decide em <b>24 horas</b>.</li><li>Prazo de <b>15 dias</b>, <b>renovável por igual período</b> quando comprovada a indispensabilidade. O STF admite <b>renovações sucessivas</b>, desde que fundamentadas (Tema 661).</li><li>A <b>autoridade policial conduz</b> a interceptação e dá ciência ao MP, que pode acompanhar. As gravações que não interessarem à prova são <b>inutilizadas</b> por decisão judicial (art. 9º).</li></ul>\n<h3>2. Captação ambiental (art. 8º-A, Pacote Anticrime)</h3>\n<ul><li>Captação de sinais eletromagnéticos, ópticos ou acústicos, a requerimento da <b>autoridade policial</b> ou do <b>MP</b>, com <b>autorização judicial</b>, quando a prova não puder ser feita por outros meios e houver indícios em crimes com <b>pena máxima superior a 4 anos</b> ou conexos. Prazo de <b>15 dias</b>, renovável.</li></ul>\n<div class=\"lt-pare\"></div>\n<h3>3. Conceitos que caem</h3>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Precisa de ordem judicial?</th></tr></thead><tbody><tr><td><b>Interceptação</b>: terceiro capta conversa alheia sem que os interlocutores saibam</td><td><b>Sim</b> (Lei 9.296)</td></tr><tr><td><b>Escuta</b>: terceiro capta com o conhecimento de um dos interlocutores</td><td>Sim, em regra</td></tr><tr><td><b>Gravação clandestina</b>: um dos interlocutores grava a própria conversa</td><td><b>Não</b>: é lícita (STF, Tema 237), salvo causa legal de sigilo</td></tr><tr><td>Acesso a <b>dados</b> já armazenados no celular (mensagens, fotos)</td><td>Sim, mas não pela Lei 9.296: é quebra de sigilo de dados</td></tr><tr><td><b>Registros</b> de ligações (quem ligou, quando)</td><td>Sim, quebra de sigilo telefônico (não é interceptação)</td></tr></tbody></table>\n<ul><li><b>Encontro fortuito (serendipidade)</b>: provas de outros crimes ou de outras pessoas obtidas em interceptação <b>válida</b> podem ser usadas, mesmo que o crime descoberto seja punido com detenção (STF e STJ).</li><li><b>Crimes</b> (art. 10 e 10-A): realizar interceptação, escuta ambiental ou quebrar segredo de justiça sem autorização ou com objetivos não autorizados: <b>reclusão de 2 a 4 anos</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 237 (RE 583.937)</b><p class=\"jc-tese\">É lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro.</p><p class=\"jc-com\">A vítima de extorsão que grava a ligação do extorsionário produz prova válida.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 661 (RE 625.263)</b><p class=\"jc-tese\">São lícitas as sucessivas renovações de interceptação telefônica, desde que verificados os requisitos do art. 2º da Lei 9.296/1996 e demonstrada a necessidade da medida, com fundamentação de cada decisão.</p><p class=\"jc-com\">Renovação \"automática\", sem fundamentação concreta, torna a prova ilícita.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Cabe interceptação em qualquer crime</span><br>✅ <span class=\"certo\">Não cabe em crime punido, no máximo, com detenção.</span></li><li>❌ <span class=\"banca\">O prazo é de 30 dias</span><br>✅ <span class=\"certo\">15 dias, renovável por igual período.</span></li><li>❌ <span class=\"banca\">A gravação feita por um dos interlocutores é ilícita sem ordem judicial</span><br>✅ <span class=\"certo\">É lícita (Tema 237).</span></li><li>❌ <span class=\"banca\">A prova de crime de detenção descoberta fortuitamente é ilícita</span><br>✅ <span class=\"certo\">O encontro fortuito em interceptação válida é admitido.</span></li><li>❌ <span class=\"banca\">O MP conduz a interceptação</span><br>✅ <span class=\"certo\">Quem conduz é a autoridade policial, com ciência ao MP.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quando NÃO cabe interceptação?</span></span><span class=\"vs\"><span>Sem <b>indícios</b> de autoria; prova possível por <b>outros meios</b>; crime punido no máximo com <b>detenção</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo?</span></span><span class=\"vs\"><span><b>15 dias</b>, renovável (sucessivamente, se fundamentado).</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juiz decide em?</span></span><span class=\"vs\"><span><b>24 horas</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gravação por interlocutor?</span></span><span class=\"vs\"><span><b>Lícita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Serendipidade?</span></span><span class=\"vs\"><span>Válida se a interceptação for <b>lícita</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Crime do art. 10?</span></span><span class=\"vs\"><span><b>Reclusão de 2 a 4 anos</b>.</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A descoberta inesperada</b><p>Em interceptação autorizada para investigar tráfico, a polícia ouve o investigado combinando com um vereador o pagamento de propina para liberar um alvará.</p><details><summary>Ver a solução comentada</summary><p>Trata-se de <b>encontro fortuito</b> de provas. Como a interceptação era <b>válida</b>, as informações podem ser usadas para investigar a corrupção. A polícia deve comunicar o juiz e instaurar procedimento próprio.</p></details></div>"
+},
+"lep": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>70%</b><span>da pena para progredir o condenado primário por crime hediondo, para fatos a partir de 25/03/2026 (LEP, art. 112, V)</span></div><div class=\"lt-stat\"><b>1/6</b><span>fração mínima de progressão do primário sem violência, para fatos a partir de 08/05/2026 (Lei 15.402/2026)</span></div><div class=\"lt-stat\"><b>3 por 1</b><span>remição: 1 dia de pena a cada 3 dias de trabalho (art. 126, § 1º, II)</span></div><div class=\"lt-stat\"><b>2 anos</b><span>duração máxima de cada inclusão no RDD, prorrogável por períodos de 1 ano (art. 52)</span></div></div>\n<h3>1. Objetivo e natureza da execução penal</h3>\n<ul><li><b>Art. 1º</b>: a execução penal tem por objetivo <b>efetivar as disposições de sentença ou decisão criminal</b> e proporcionar condições para a <b>harmônica integração social</b> do condenado e do internado. A LEP (Lei 7.210/1984) adota, portanto, duas finalidades: <b>cumprir</b> a decisão (retribuição e prevenção) e <b>ressocializar</b>.</li><li><b>Natureza jurídica</b>: prevalece que a execução tem natureza <b>mista</b> (ou <b>jurisdicional</b>, para parte da doutrina): há atividade <b>administrativa</b> (gestão do presídio, disciplina interna) e atividade <b>jurisdicional</b> (decisões sobre progressão, livramento, remição, unificação), com garantias do <b>devido processo legal</b>, do <b>contraditório</b> e da <b>ampla defesa</b>.</li><li><b>Art. 2º</b>: a jurisdição penal dos juízes ou tribunais da Justiça ordinária, em todo o território nacional, será exercida, no processo de execução, na conformidade desta lei e do CPP. <b>Parágrafo único</b>: esta lei aplica-se igualmente ao <b>preso provisório</b> e ao condenado pela <b>Justiça Eleitoral</b> ou <b>Militar</b>, quando recolhido a estabelecimento sujeito à jurisdição ordinária.</li><li><b>Art. 3º</b>: ao condenado e ao internado serão assegurados <b>todos os direitos não atingidos pela sentença ou pela lei</b>. Não haverá qualquer distinção de natureza racial, social, religiosa ou política. O preso perde a liberdade, mas conserva a <b>dignidade</b> e os demais direitos (CF, art. 5º, XLIX: \"é assegurado aos presos o respeito à integridade física e moral\").</li><li><b>Art. 4º</b>: o Estado deverá recorrer à <b>cooperação da comunidade</b> nas atividades de execução da pena e da medida de segurança (Conselho da Comunidade, Patronato, parcerias com empresas e universidades).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADPF 347 e o \"estado de coisas inconstitucional\"</b><p class=\"jc-tese\">O STF reconheceu, em 2015 (cautelar) e em 2023 (mérito), o <b>estado de coisas inconstitucional</b> do sistema prisional brasileiro, marcado por superlotação, condições degradantes e violação massiva de direitos fundamentais. Determinou a realização de <b>audiências de custódia</b>, a liberação de recursos do Fundo Penitenciário e a elaboração de um <b>plano nacional</b> (o \"Pena Justa\") para enfrentar o problema.</p><p class=\"jc-com\">A decisão é a base de várias teses sobre execução: a <b>Súmula Vinculante 56</b> (falta de vaga não autoriza regime mais gravoso), a responsabilidade civil do Estado por danos morais a presos em condições degradantes (Tema 365, RE 580.252) e a necessidade de considerar a realidade carcerária nas decisões judiciais.</p></div>\n<h3>2. Classificação, exame criminológico e identificação genética: arts. 5º a 9º-A</h3>\n<ul><li><b>Art. 5º</b>: os condenados serão <b>classificados</b>, segundo os seus <b>antecedentes</b> e <b>personalidade</b>, para orientar a <b>individualização</b> da execução penal (CF, art. 5º, XLVI).</li><li><b>Art. 6º e 7º</b>: a classificação será feita pela <b>Comissão Técnica de Classificação</b> (CTC), que elaborará o <b>programa individualizador</b> da pena privativa de liberdade adequada ao condenado ou preso provisório. A CTC, em cada estabelecimento, é presidida pelo <b>diretor</b> e composta, no mínimo, por 2 chefes de serviço, 1 psiquiatra, 1 psicólogo e 1 assistente social, quando se tratar de condenado à pena privativa de liberdade.</li><li><b>Art. 8º</b>: o condenado ao cumprimento de pena privativa de liberdade em regime <b>fechado</b> será submetido a <b>exame criminológico</b> para a obtenção dos elementos necessários a uma adequada classificação e com vistas à individualização da execução. Parágrafo único: ao exame poderá ser submetido o condenado ao cumprimento da pena em regime <b>semiaberto</b>.</li><li><b>Exame criminológico e progressão</b>: desde a <b>Lei 14.843/2024</b>, a progressão de regime exige os <b>resultados do exame criminológico</b> (art. 112, § 1º). Antes, o exame era facultativo, admitido por decisão fundamentada (SV 26 e Súmula 439 do STJ). A obrigatoriedade é questionada em ADIs no STF e no Tema 1.408 da repercussão geral, ainda pendentes na última verificação desta aula; a posição majoritária aplica a exigência apenas a crimes cometidos <b>após</b> a vigência da lei.</li><li><b>Art. 9º-A</b> (identificação do perfil genético): o condenado por crime <b>doloso</b> praticado com <b>violência grave contra a pessoa</b>, bem como por crime contra a <b>vida</b>, contra a <b>liberdade sexual</b> ou por crime <b>sexual contra vulnerável</b>, será submetido, obrigatoriamente, à identificação do <b>perfil genético</b>, mediante extração de <b>DNA</b>, por técnica adequada e indolor, por ocasião do ingresso no estabelecimento prisional (redação do Pacote Anticrime). A <b>recusa</b> constitui <b>falta grave</b> (art. 9º-A, § 8º, e art. 50, VIII).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O exame criminológico é obrigatório para o condenado em regime semiaberto no momento da classificação</span><br>✅ <span class=\"certo\">O art. 8º o torna obrigatório no <b>fechado</b> e <b>facultativo</b> no semiaberto</span></li><li>❌ <span class=\"banca\">A coleta de DNA do art. 9º-A vale para qualquer condenado</span><br>✅ <span class=\"certo\">Vale para crimes dolosos com <b>violência grave</b>, contra a <b>vida</b>, a <b>liberdade sexual</b> e sexuais contra <b>vulnerável</b></span></li><li>❌ <span class=\"banca\">A recusa à coleta de DNA é mero exercício do direito de não produzir prova</span><br>✅ <span class=\"certo\">A lei define a recusa como <b>falta grave</b></span></li></ol></div>\n<h3>3. Assistência ao preso e ao egresso: arts. 10 a 27</h3>\n<ul><li><b>Art. 10 e 11</b>: a assistência ao preso e ao internado é <b>dever do Estado</b>, objetivando prevenir o crime e orientar o retorno à convivência em sociedade, estendendo-se ao <b>egresso</b>. Será: <b>material</b>, à <b>saúde</b>, <b>jurídica</b>, <b>educacional</b>, <b>social</b> e <b>religiosa</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Assistência</th><th>Conteúdo principal</th></tr></thead><tbody><tr><td><b>Material</b> (arts. 12 e 13)</td><td>alimentação, vestuário e instalações higiênicas; locais para venda de produtos não fornecidos pela administração</td></tr><tr><td><b>Saúde</b> (art. 14)</td><td>atendimento médico, farmacêutico e odontológico; acompanhamento médico à mulher, principalmente no pré-natal e no pós-parto, extensivo ao recém-nascido</td></tr><tr><td><b>Jurídica</b> (arts. 15 e 16)</td><td>para presos sem recursos; prestada pela <b>Defensoria Pública</b>, dentro e fora dos estabelecimentos</td></tr><tr><td><b>Educacional</b> (arts. 17 a 21-A)</td><td>ensino de <b>1º grau obrigatório</b> (fundamental), ensino médio regular ou supletivo, profissionalizante; bibliotecas</td></tr><tr><td><b>Social</b> (arts. 22 e 23)</td><td>amparar o preso e prepará-lo para o retorno à liberdade; orientar a família</td></tr><tr><td><b>Religiosa</b> (art. 24)</td><td>liberdade de culto; local apropriado; ninguém é obrigado a participar</td></tr></tbody></table>\n<ul><li><b>Egresso</b> (arts. 25 a 27): considera-se egresso o <b>liberado definitivo</b>, pelo prazo de <b>1 ano</b> a contar da saída do estabelecimento, e o <b>liberado condicional</b>, durante o período de prova. A assistência ao egresso consiste na orientação e apoio para reintegrá-lo à vida em liberdade e na concessão, se necessário, de <b>alojamento e alimentação</b>, em estabelecimento adequado, pelo prazo de <b>2 meses</b> (prorrogável uma vez, comprovado o empenho na obtenção de emprego).</li><li><b>Gestantes e mães</b>: a LEP garante à mulher presa berçário para amamentar os filhos até, no mínimo, <b>6 meses</b> de idade (art. 83, § 2º), e seção para gestante e parturiente e creche para crianças maiores de 6 meses e menores de 7 anos (art. 89). O STF, no <b>HC coletivo 143.641</b> (2018), determinou a substituição da prisão <b>preventiva</b> por <b>domiciliar</b> para gestantes, puérperas e mães de crianças de até 12 anos ou de pessoas com deficiência, salvo crimes com violência ou grave ameaça, contra os próprios filhos ou em situações excepcionalíssimas, entendimento depois positivado no CPP (arts. 318-A e 318-B).</li></ul>\n<h3>4. Trabalho do preso: arts. 28 a 37</h3>\n<ul><li><b>Art. 28</b>: o trabalho do condenado, como <b>dever social</b> e condição de <b>dignidade humana</b>, terá finalidade <b>educativa e produtiva</b>. O trabalho do preso <b>não</b> está sujeito ao regime da <b>CLT</b> (§ 2º).</li><li><b>Art. 29</b>: o trabalho será <b>remunerado</b>, mediante prévia tabela, não podendo ser inferior a <b>3/4 do salário mínimo</b>. O produto da remuneração deve atender à indenização dos danos causados pelo crime, à assistência à família, a pequenas despesas pessoais e ao ressarcimento ao Estado das despesas com a manutenção do condenado, depositando-se a parte restante em <b>pecúlio</b> (conta poupança), entregue na saída.</li><li><b>Art. 30</b>: as tarefas executadas como <b>prestação de serviço à comunidade</b> não serão remuneradas.</li><li><b>Art. 31</b>: o condenado à pena privativa de liberdade está <b>obrigado</b> ao trabalho na medida de suas aptidões e capacidade. <b>Parágrafo único</b>: para o <b>preso provisório</b>, o trabalho <b>não é obrigatório</b> e só poderá ser executado no interior do estabelecimento.</li><li><b>Art. 33</b>: a jornada normal de trabalho não será inferior a <b>6</b> nem superior a <b>8 horas</b>, com descanso nos domingos e feriados.</li><li><b>Trabalho externo</b> (arts. 36 e 37): admissível para os presos em regime <b>fechado</b> somente em <b>serviço ou obras públicas</b> realizadas por órgãos da administração direta ou indireta, ou entidades privadas, desde que tomadas as cautelas contra a fuga e em favor da disciplina, e o limite máximo de presos será de <b>10%</b> do total de empregados na obra. A prestação de trabalho externo, a ser autorizada pela <b>direção</b> do estabelecimento, dependerá de <b>aptidão, disciplina e responsabilidade</b>, além do cumprimento mínimo de <b>1/6 da pena</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADPF 336 · remuneração do trabalho do preso</b><p class=\"jc-tese\">O STF já declarou <b>constitucional</b> a remuneração do preso em valor inferior ao salário mínimo (3/4), por entender que o trabalho prisional tem regime <b>especial</b>, com finalidade educativa, e que o preso recebe do Estado alimentação, moradia e assistência (ADPF 336, 2021).</p><p class=\"jc-com\">O trabalho do preso não gera vínculo empregatício nem direitos trabalhistas comuns, mas garante a <b>remição</b> de pena e conta para a <b>previdência</b> se houver contribuição. Para a prova: o trabalho é <b>obrigatório</b> para o condenado (o que não se confunde com trabalho forçado, vedado pela CF, art. 5º, XLVII, \"c\"), e sua recusa injustificada constitui <b>falta grave</b> (art. 50, VI, c/c art. 39, V).</p></div>\n<h3>5. Deveres e direitos do preso: arts. 38 a 43</h3>\n<ul><li><b>Art. 39 (deveres)</b>: comportamento disciplinado e cumprimento fiel da sentença; obediência ao servidor e respeito a qualquer pessoa; urbanidade com os demais condenados; conduta oposta aos movimentos de fuga ou subversão; <b>execução do trabalho</b>, das tarefas e das ordens recebidas; submissão à sanção disciplinar; indenização à vítima; higiene pessoal e asseio da cela; conservação dos objetos de uso pessoal. Aplicam-se ao preso provisório, no que couber.</li><li><b>Art. 40</b>: impõe-se a todas as autoridades o respeito à <b>integridade física e moral</b> dos condenados e dos presos provisórios.</li></ul>\n<table class=\"tab\"><thead><tr><th>Art. 41 (direitos do preso, principais)</th><th>Observação</th></tr></thead><tbody><tr><td>Alimentação suficiente e vestuário</td><td>dever do Estado</td></tr><tr><td>Atribuição de trabalho e sua remuneração</td><td>base da remição</td></tr><tr><td>Previdência social</td><td>se houver contribuição</td></tr><tr><td>Constituição de pecúlio</td><td>poupança obrigatória</td></tr><tr><td>Proporcionalidade na distribuição do tempo para trabalho, descanso e recreação</td><td>pode ser <b>restringido</b> pelo diretor (parágrafo único)</td></tr><tr><td>Exercício das atividades profissionais, intelectuais, artísticas e desportivas anteriores, compatíveis com a pena</td><td>–</td></tr><tr><td>Assistência material, à saúde, jurídica, educacional, social e religiosa</td><td>–</td></tr><tr><td>Proteção contra qualquer forma de sensacionalismo</td><td>relação com a Lei de Abuso de Autoridade</td></tr><tr><td>Entrevista pessoal e reservada com o <b>advogado</b></td><td>–</td></tr><tr><td><b>Visita</b> do cônjuge, da companheira, de parentes e amigos em dias determinados</td><td>pode ser <b>suspensa ou restringida</b> pelo diretor (parágrafo único)</td></tr><tr><td>Chamamento nominal</td><td>–</td></tr><tr><td>Igualdade de tratamento, salvo exigências da individualização</td><td>–</td></tr><tr><td>Audiência especial com o diretor</td><td>–</td></tr><tr><td>Representação e petição a qualquer autoridade</td><td>–</td></tr><tr><td>Contato com o mundo exterior por correspondência escrita, leitura e outros meios de informação que não comprometam a moral e os bons costumes</td><td>pode ser <b>suspenso ou restringido</b> pelo diretor (parágrafo único)</td></tr><tr><td><b>Atestado de pena a cumprir</b>, emitido anualmente</td><td>responsabilidade da autoridade judiciária</td></tr></tbody></table>\n<ul><li><b>Parágrafo único do art. 41</b>: os direitos de <b>recreação</b> (V), <b>visitas</b> (X) e <b>contato com o mundo exterior</b> (XV) podem ser <b>suspensos ou restringidos</b> mediante <b>ato motivado do diretor</b> do estabelecimento.</li><li><b>Lei Antifacção (2026)</b>: incluiu na LEP o <b>art. 41-A</b>, que permite o <b>monitoramento audiovisual</b> e a <b>gravação</b> dos encontros em parlatório e das visitas virtuais de presos ligados a organizações criminosas ultraviolentas, e o <b>art. 41-B</b>, segundo o qual as comunicações entre advogado e cliente só podem ser monitoradas em caso de <b>conluio</b> reconhecido judicialmente, com análise por <b>juízo de controle</b> distinto. Também alterou o art. 52 (visitas gravadas no RDD, com autorização judicial) e o art. 86 (definição do estabelecimento pelo juiz em 24 horas e transferências excepcionais em motins).</li><li><b>Uso de celular</b>: o preso que tem em sua posse, utiliza ou fornece <b>aparelho telefônico, de rádio ou similar</b> que permita a comunicação com outros presos ou com o ambiente externo comete <b>falta grave</b> (art. 50, VII). O STJ entende que a posse de <b>componentes</b> essenciais (chip, bateria, carregador) também configura a falta. Para quem <b>ingressa</b> com o aparelho no presídio, há crime do <b>art. 349-A do CP</b> (detenção de 3 meses a 1 ano), e o servidor que deixa de vedar o acesso comete o crime do <b>art. 319-A do CP</b>.</li></ul>\n<h3>6. Disciplina: faltas e sanções (arts. 44 a 60)</h3>\n<ul><li><b>Faltas</b>: <b>leves</b> e <b>médias</b> são especificadas pela <b>legislação local</b> (estadual); as <b>graves</b> estão na LEP (art. 49). Pune-se a <b>tentativa</b> com a sanção correspondente à falta consumada (art. 49, parágrafo único).</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 LEP, art. 50 (faltas graves do condenado à pena privativa de liberdade)</div><div class=\"art-lei\">I, incitar ou participar de movimento para subverter a ordem ou a disciplina; II, fugir; III, possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem; IV, provocar acidente de trabalho; V, descumprir, no regime aberto, as condições impostas; VI, inobservar os deveres de obediência ao servidor e respeito a qualquer pessoa (art. 39, II) e de execução do trabalho, das tarefas e das ordens recebidas (art. 39, V); VII, ter em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo; VIII, recusar submeter-se ao procedimento de identificação do perfil genético.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Lista <b>taxativa</b> de faltas graves</li><li>Fuga = falta grave</li><li>Celular = falta grave (inclusive componentes, segundo o STJ)</li><li>Recusa ao <b>DNA</b> = falta grave (Pacote Anticrime)</li><li>Aplicam-se ao <b>preso provisório</b>, no que couber</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que as faltas graves são definidas pela legislação estadual</li><li>A banca diz que o atraso de alguns minutos no retorno ao regime aberto é sempre fuga</li></ul></div></div>\n<ul><li><b>Art. 52</b> (caput): a prática de fato previsto como <b>crime doloso</b> constitui <b>falta grave</b> e, quando ocasionar subversão da ordem ou disciplina internas, sujeitará o preso ao <b>RDD</b>. A <b>Súmula 526 do STJ</b> dispensa o trânsito em julgado: \"O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato.\"</li></ul>\n<table class=\"tab\"><thead><tr><th>Sanção (art. 53)</th><th>Quem aplica</th><th>Observação</th></tr></thead><tbody><tr><td>I, <b>advertência verbal</b></td><td>diretor</td><td>faltas leves e médias</td></tr><tr><td>II, <b>repreensão</b></td><td>diretor</td><td>–</td></tr><tr><td>III, <b>suspensão ou restrição de direitos</b> (art. 41, parágrafo único)</td><td>diretor</td><td>até <b>30 dias</b> (art. 58)</td></tr><tr><td>IV, <b>isolamento</b> na própria cela ou em local adequado</td><td>diretor</td><td>até <b>30 dias</b>, com comunicação ao juiz (art. 58)</td></tr><tr><td>V, inclusão no <b>RDD</b></td><td><b>juiz</b> (art. 54)</td><td>prévio requerimento do diretor ou de outra autoridade administrativa; manifestação do MP e da defesa</td></tr></tbody></table>\n<ul><li><b>Isolamento preventivo</b> (art. 60): a autoridade administrativa poderá decretar o isolamento preventivo do faltoso pelo prazo de até <b>10 dias</b>, no interesse da disciplina e da averiguação do fato. A inclusão <b>preventiva</b> no RDD depende de despacho do <b>juiz</b>. O tempo de isolamento ou inclusão preventiva será <b>computado</b> no período de cumprimento da sanção disciplinar.</li><li><b>Procedimento</b> (art. 59): praticada a falta, deverá ser instaurado o procedimento para sua apuração, conforme regulamento, assegurado o <b>direito de defesa</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 533 e STF · Tema 941</b><p class=\"jc-tese\">Súmula 533 do STJ: \"Para o reconhecimento da prática de falta disciplinar no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado.\" O STF, porém, no <b>Tema 941</b> (RE 972.598), fixou: \"A oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, <b>afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD)</b>, assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena.\"</p><p class=\"jc-com\">As duas orientações convivem: em regra, faz-se o PAD com defesa técnica; mas a audiência de justificação em juízo, com defensor e MP, supre o PAD ou seus vícios. Em prova, cite as duas, observando que o STF relativizou a súmula do STJ.</p></div>\n<h3>7. Regime Disciplinar Diferenciado (RDD): art. 52</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 LEP, art. 52 (síntese após o Pacote Anticrime e a Lei 15.407/2026)</div><div class=\"art-lei\">A prática de fato previsto como crime doloso que ocasione subversão da ordem ou disciplina internas sujeitará o preso provisório, ou condenado, nacional ou estrangeiro, sem prejuízo da sanção penal, ao regime disciplinar diferenciado, com as seguintes características: I, duração máxima de até 2 anos, sem prejuízo de repetição da sanção por nova falta grave de mesma espécie; II, recolhimento em cela individual; III, visitas quinzenais, de 2 pessoas por vez, a serem realizadas em instalações equipadas para impedir o contato físico e a passagem de objetos, por pessoa da família ou, no caso de terceiro, autorizado judicialmente, com duração de 2 horas; IV, direito do preso à saída da cela por 2 horas diárias para banho de sol, em grupos de até 4 presos, desde que não haja contato com presos do mesmo grupo criminoso; V, entrevistas sempre monitoradas, exceto aquelas com seu defensor, em instalações equipadas para impedir o contato físico e a passagem de objetos, salvo expressa autorização judicial em contrário; VI, fiscalização do conteúdo da correspondência; VII, participação em audiências judiciais preferencialmente por videoconferência.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>2 anos</b> por inclusão; repetível por nova falta</li><li>Cela <b>individual</b></li><li>Visitas <b>quinzenais</b>, <b>2 pessoas</b>, <b>2 horas</b>, sem contato físico</li><li>Banho de sol <b>2 horas</b>, grupos de até <b>4</b></li><li>Entrevistas <b>monitoradas</b>, salvo com o defensor</li><li>Audiências por <b>videoconferência</b></li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que o RDD dura no máximo 360 dias (regra anterior ao Pacote)</li><li>A banca diz que as visitas são semanais</li></ul></div></div>\n<ul><li><b>§ 1º</b>: o RDD também será aplicado aos presos provisórios ou condenados, nacionais ou estrangeiros: I, que apresentem <b>alto risco</b> para a ordem e a segurança do estabelecimento penal ou da sociedade; II, sob os quais recaiam <b>fundadas suspeitas</b> de envolvimento ou participação, a qualquer título, em <b>organização criminosa</b>, associação criminosa ou milícia privada, <b>independentemente da prática de falta grave</b>.</li><li><b>§ 3º</b>: existindo indícios de que o preso exerce <b>liderança</b> em organização criminosa, associação criminosa ou milícia privada, ou que tenha atuação criminosa em <b>2 ou mais Estados</b> da Federação, o RDD será obrigatoriamente cumprido em <b>estabelecimento prisional federal</b>.</li><li><b>§ 4º</b>: na hipótese dos §§ 1º e 3º, o RDD poderá ser <b>prorrogado sucessivamente</b>, por períodos de <b>1 ano</b>, existindo indícios de que o preso continua apresentando alto risco ou mantém os vínculos com a organização.</li><li><b>§ 6º</b>: a visita de que trata o inciso III será <b>gravada</b> em sistema de áudio ou de áudio e vídeo e, com autorização judicial, fiscalizada por agente penitenciário (redação reforçada pela Lei Antifacção).</li><li><b>§ 10 (Lei 15.407/2026)</b>: desde o <b>recolhimento</b> do preso ao estabelecimento, e havendo os requisitos legais, o diretor, outra autoridade administrativa ou o <b>MP</b> podem requerer ao juiz a inclusão no RDD.</li><li><b>Procedimento (art. 54)</b>: a inclusão no RDD depende de <b>prévio e fundamentado despacho do juiz</b> competente, mediante requerimento circunstanciado do diretor do estabelecimento ou de outra autoridade administrativa. A decisão judicial será precedida de manifestação do MP e da defesa e prolatada no prazo máximo de <b>15 dias</b>. Pela <b>Lei 15.407/2026</b>, o juiz decide <b>liminarmente</b> o pedido e profere a decisão final em até 15 dias; a falta de manifestação do MP ou da defesa não impede a decisão, respeitado esse prazo.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · constitucionalidade do RDD</b><p class=\"jc-tese\">O STJ e o STF consideram o RDD <b>constitucional</b>: não é pena cruel, mas regime de cumprimento mais rigoroso, justificado pela necessidade de isolar presos de alta periculosidade ou líderes de organizações criminosas, com controle judicial e prazos definidos.</p><p class=\"jc-com\">A doutrina crítica aponta que o § 1º, II, permite a inclusão por \"fundadas suspeitas\", sem falta grave, o que se aproxima de um direito penal do <b>autor</b>. Para a prova, guarde os números e o fato de que a decisão é <b>sempre judicial</b>.</p></div>\n<h3>8. Recompensas e órgãos da execução: arts. 55 a 81-B</h3>\n<ul><li><b>Recompensas</b> (art. 56): <b>elogio</b> e <b>concessão de regalias</b>, em razão do bom comportamento reconhecido em favor do condenado, de sua colaboração com a disciplina e de sua dedicação ao trabalho.</li></ul>\n<table class=\"tab\"><thead><tr><th>Órgão da execução (art. 61)</th><th>Principais atribuições</th></tr></thead><tbody><tr><td><b>Conselho Nacional de Política Criminal e Penitenciária</b> (CNPCP)</td><td>propor diretrizes de política criminal; inspecionar estabelecimentos; representar pela interdição de estabelecimentos</td></tr><tr><td><b>Juízo da Execução</b></td><td>decidir sobre progressão, regressão, livramento, remição, unificação, detração, indulto; inspecionar mensalmente os estabelecimentos; interditar estabelecimentos</td></tr><tr><td><b>Ministério Público</b></td><td>fiscalizar a execução; requerer; visitar mensalmente os estabelecimentos</td></tr><tr><td><b>Conselho Penitenciário</b></td><td>emitir parecer sobre <b>indulto e comutação</b> (salvo pedido baseado no estado de saúde); inspecionar estabelecimentos; supervisionar o livramento condicional</td></tr><tr><td><b>Departamentos Penitenciários</b></td><td>nacional (Depen, hoje Senappen) e locais; supervisão e coordenação</td></tr><tr><td><b>Patronato</b></td><td>assistência a albergados e egressos; fiscalizar restritivas de direitos e o sursis</td></tr><tr><td><b>Conselho da Comunidade</b></td><td>visitar mensalmente os estabelecimentos; entrevistar presos; obter recursos</td></tr><tr><td><b>Defensoria Pública</b></td><td>velar pela regular execução da pena; requerer benefícios; visitar estabelecimentos</td></tr></tbody></table>\n<ul><li><b>Competência do juízo da execução</b> (art. 66, principais): aplicar lei posterior mais benéfica; declarar extinta a punibilidade; decidir sobre <b>soma ou unificação</b> de penas, <b>progressão ou regressão</b>, <b>detração e remição</b>, <b>suspensão condicional da pena</b>, <b>livramento condicional</b>, incidentes da execução; autorizar <b>saídas temporárias</b>; determinar a forma de cumprimento das restritivas; zelar pelo correto cumprimento da pena; inspecionar mensalmente os estabelecimentos; <b>interditar</b> estabelecimento que funcione em condições inadequadas; compor e instalar o Conselho da Comunidade; emitir anualmente <b>atestado de pena a cumprir</b>.</li><li><b>Súmula 192 do STJ</b>: \"Compete ao Juízo das Execuções Penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos à administração estadual.\" <b>Súmula 611 do STF</b>: \"Transitada em julgado a sentença condenatória, compete ao juízo das execuções a aplicação de lei mais benigna.\"</li></ul>\n<h3>9. Estabelecimentos penais: arts. 82 a 104</h3>\n<table class=\"tab\"><thead><tr><th>Estabelecimento</th><th>Destino</th></tr></thead><tbody><tr><td><b>Penitenciária</b> (art. 87)</td><td>condenado à reclusão em regime <b>fechado</b>; cela individual com dormitório, aparelho sanitário e lavatório, área mínima de 6 m²</td></tr><tr><td><b>Colônia agrícola, industrial ou similar</b> (art. 91)</td><td>regime <b>semiaberto</b>; alojamento coletivo admitido</td></tr><tr><td><b>Casa do Albergado</b> (art. 93)</td><td>regime <b>aberto</b> e pena de limitação de fim de semana; sem obstáculos físicos contra a fuga</td></tr><tr><td><b>Centro de Observação</b> (art. 96)</td><td>exames gerais e criminológico</td></tr><tr><td><b>Hospital de Custódia e Tratamento Psiquiátrico</b> (art. 99)</td><td>inimputáveis e semi-imputáveis sujeitos a <b>medida de segurança</b></td></tr><tr><td><b>Cadeia Pública</b> (art. 102)</td><td><b>presos provisórios</b>; uma por comarca, próxima ao centro urbano</td></tr></tbody></table>\n<ul><li><b>Separação</b> (art. 84): o preso <b>provisório</b> ficará separado do condenado por sentença transitada em julgado; o preso <b>primário</b> cumprirá pena em seção distinta do <b>reincidente</b>; o preso que, ao tempo do fato, era <b>funcionário da Administração da Justiça Criminal</b> ficará em dependência separada. A <b>mulher</b> e o <b>maior de 60 anos</b> serão recolhidos, separadamente, a estabelecimento próprio e adequado à sua condição pessoal (art. 82, § 1º).</li><li><b>Lotação</b> (art. 85): o estabelecimento deve ter <b>lotação compatível</b> com sua estrutura e finalidade, e o CNPCP determinará o limite máximo de capacidade.</li><li><b>Presídios federais</b> (Lei 11.671/2008): recebem presos cuja inclusão se justifique no interesse da <b>segurança pública</b> ou do próprio preso, por até <b>3 anos</b>, renováveis. A <b>Lei 15.407/2026</b> passou a prever o recolhimento, <b>preferencialmente</b> em estabelecimento federal, de preso por <b>homicídio qualificado contra agentes de segurança</b> (CP, art. 121, § 2º, VII), tentado ou consumado, com audiências por videoconferência sempre que possível.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O preso provisório pode cumprir a custódia na mesma cela que o condenado definitivo</span><br>✅ <span class=\"certo\">Deve ficar <b>separado</b> (art. 84)</span></li><li>❌ <span class=\"banca\">A Casa do Albergado se destina ao regime semiaberto</span><br>✅ <span class=\"certo\">Destina-se ao <b>aberto</b> e à limitação de fim de semana</span></li><li>❌ <span class=\"banca\">A inclusão em presídio federal tem prazo de 1 ano</span><br>✅ <span class=\"certo\">Até <b>3 anos</b>, renováveis</span></li></ol></div>\n<h3>10. Regimes e progressão: art. 112</h3>\n<ul><li>A pena privativa de liberdade é executada em forma <b>progressiva</b>, com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido a fração legal <b>e</b> ostentar <b>boa conduta carcerária</b>, comprovada pelo diretor, e os resultados do <b>exame criminológico</b> (§ 1º, Lei 14.843/2024), respeitadas as normas que vedam a progressão.</li><li>Em <b>2026</b>, duas leis mudaram as frações: a <b>Lei 15.358/2026</b> (Lei Antifacção, fatos a partir de <b>25/03/2026</b>) elevou os percentuais dos crimes <b>hediondos</b>, e a <b>Lei 15.402/2026</b> (fatos a partir de <b>08/05/2026</b>) reorganizou os percentuais dos crimes <b>comuns</b>. Como são normas mais <b>gravosas</b> quanto à execução, valem para crimes praticados <b>após</b> a vigência; aplica-se a fração vigente na <b>data do fato</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação (fatos recentes)</th><th>Fração</th></tr></thead><tbody><tr><td>Primário, crime <b>sem</b> violência ou grave ameaça</td><td><b>1/6</b> (caput, Lei 15.402/2026)</td></tr><tr><td>Primário, crime <b>com</b> violência ou grave ameaça</td><td><b>25%</b> (inciso I)</td></tr><tr><td>Reincidente, crime sem violência</td><td><b>20%</b> (inciso III)</td></tr><tr><td>Reincidente, crime com violência ou grave ameaça</td><td><b>30%</b> (incisos II e IV)</td></tr><tr><td><b>Hediondo</b> ou equiparado, primário</td><td><b>70%</b> (inciso V)</td></tr><tr><td>Hediondo com <b>resultado morte</b>, primário; <b>comando</b> de organização ultraviolenta voltada a hediondos; <b>milícia privada</b>; <b>feminicídio</b>, primário</td><td><b>75%</b> (inciso VI), vedado o livramento nas alíneas \"a\", \"b\" e \"d\"</td></tr><tr><td><b>Reincidente</b> em hediondo ou equiparado</td><td><b>80%</b> (inciso VII)</td></tr><tr><td>Reincidente em hediondo com <b>resultado morte</b></td><td><b>85%</b> (inciso VIII), vedado o livramento</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Situação (fatos de 23/01/2020 a 24/03/2026, Pacote Anticrime)</th><th>Fração</th></tr></thead><tbody><tr><td>Primário sem violência</td><td>16%</td></tr><tr><td>Reincidente sem violência</td><td>20%</td></tr><tr><td>Primário com violência</td><td>25%</td></tr><tr><td>Reincidente com violência</td><td>30%</td></tr><tr><td>Hediondo, primário</td><td>40%</td></tr><tr><td>Hediondo com morte, primário; comando de organização voltada a hediondo; milícia</td><td>50%</td></tr><tr><td>Feminicídio, primário (desde a Lei 14.994/2024)</td><td>55%</td></tr><tr><td>Reincidente em hediondo</td><td>60%</td></tr><tr><td>Reincidente em hediondo com morte</td><td>70%</td></tr></tbody></table>\n<ul><li><b>Tema 1.169 do STF</b>: o reincidente <b>genérico</b> (reincidente em crime comum) condenado por hediondo sem morte progride com o percentual do <b>primário</b> em hediondo (analogia em favor do réu).</li><li><b>Tráfico privilegiado</b> não é hediondo para fins de progressão (art. 112, § 5º).</li><li><b>Falta grave</b> interrompe o prazo, recomeçando a contagem pelo restante da pena (art. 112, § 6º; Súmula 534 do STJ).</li><li><b>Mulher gestante, mãe ou responsável</b> por criança ou pessoa com deficiência: progressão com <b>1/8</b>, se não cometeu crime com violência ou grave ameaça nem contra filho ou dependente, é primária e tem bom comportamento e não integrou organização criminosa (§ 3º).</li></ul>\n<div class=\"lt-juris\"><b class=\"lt-tit\">⚖ Jurisprudência</b><ul><li><b>Súmula 491 (STJ)</b>: é inadmissível a chamada progressão <b>per saltum</b> de regime prisional (do fechado direto ao aberto)</li><li><b>Súmula 534 (STJ)</b>: a falta grave interrompe a contagem para a progressão</li><li><b>Súmula 535 (STJ)</b>: a falta grave não interrompe o prazo para comutação ou indulto</li><li><b>Súmula 441 (STJ)</b>: a falta grave não interrompe o prazo para o livramento condicional</li><li><b>Súmula 471 (STJ)</b>: hediondos anteriores a 29/03/2007 progridem com 1/6</li><li><b>Súmula Vinculante 26</b>: exame criminológico admitido por decisão fundamentada (hoje obrigatório por lei)</li><li><b>Súmula Vinculante 56</b>: a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso</li><li><b>Súmula 716 (STF)</b>: admite-se a progressão de regime antes do trânsito em julgado da sentença condenatória (execução provisória)</li><li><b>Súmula 717 (STF)</b>: não impede a progressão o fato de o réu se encontrar em prisão especial</li></ul></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 56 e RE 641.320</b><p class=\"jc-tese\">A falta de vaga no regime adequado <b>não</b> autoriza manter o condenado em regime mais grave. Na falta de vaga, o juiz deve buscar, em ordem: (1) a <b>saída antecipada</b> de outro sentenciado que esteja no regime com falta de vagas; (2) a <b>liberdade eletronicamente monitorada</b> do sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (3) o cumprimento de <b>penas restritivas de direitos</b> e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas essas medidas, pode ser deferida a <b>prisão domiciliar</b>.</p><p class=\"jc-com\">Para o policial e o agente penitenciário, isso significa que o preso que já tem direito ao semiaberto não pode ser mantido no fechado \"aguardando vaga\" por tempo indefinido: a Defensoria e o MP devem provocar o juiz, sob pena de constrangimento ilegal.</p></div>\n<h3>11. Regressão de regime: art. 118</h3>\n<ul><li>A execução da pena privativa de liberdade ficará sujeita à forma <b>regressiva</b>, com a transferência para qualquer dos regimes <b>mais rigorosos</b>, quando o condenado: I, praticar fato definido como <b>crime doloso</b> ou <b>falta grave</b>; II, sofrer condenação, por crime anterior, cuja pena, somada ao restante da pena em execução, torne <b>incabível</b> o regime atual.</li><li><b>§ 1º</b>: o condenado será transferido do regime <b>aberto</b> se, além das hipóteses acima, <b>frustrar os fins</b> da execução ou <b>não pagar</b>, podendo, a <b>multa</b> cumulativamente imposta. (O STF entende que o não pagamento da multa só justifica a regressão se houver condições econômicas de pagar.)</li><li><b>§ 2º</b>: nas hipóteses do inciso I e do § 1º, deverá ser <b>ouvido previamente</b> o condenado.</li><li>A regressão pode ser <b>per saltum</b> (do aberto direto ao fechado), ao contrário da progressão.</li></ul>\n<h3>12. Autorizações de saída: arts. 120 a 125</h3>\n<table class=\"tab\"><thead><tr><th>Autorização</th><th>Quem tem direito</th><th>Quem concede</th><th>Hipóteses</th></tr></thead><tbody><tr><td><b>Permissão de saída</b> (art. 120)</td><td>condenados em regime <b>fechado</b> ou <b>semiaberto</b> e presos <b>provisórios</b></td><td><b>diretor</b> do estabelecimento</td><td>mediante <b>escolta</b>: falecimento ou doença grave do cônjuge, companheira, ascendente, descendente ou irmão; necessidade de tratamento médico</td></tr><tr><td><b>Saída temporária</b> (art. 122)</td><td>condenados em regime <b>semiaberto</b></td><td><b>juiz</b> da execução, ouvidos o MP e a administração</td><td><b>sem escolta</b>; após a Lei 14.843/2024, apenas para <b>frequência a curso</b> supletivo profissionalizante, de ensino médio ou superior, pelo tempo necessário às atividades</td></tr></tbody></table>\n<ul><li><b>Lei 14.843/2024</b> (\"fim da saidinha\"): revogou a saída temporária para <b>visita à família</b> e para atividades de retorno ao convívio social, mantendo apenas a saída para <b>estudo</b>. Além disso, ampliou a vedação: <b>não</b> terá direito à saída temporária o condenado que cumpre pena por crime <b>hediondo</b> ou com <b>violência ou grave ameaça</b> contra pessoa (art. 122, § 2º).</li><li><b>Requisitos</b> (art. 123): comportamento adequado; cumprimento mínimo de <b>1/6</b> da pena, se primário, e <b>1/4</b>, se reincidente; compatibilidade do benefício com os objetivos da pena.</li><li><b>Monitoração eletrônica</b>: o juiz pode impor a fiscalização por <b>monitoração eletrônica</b> durante a saída temporária (art. 122, § 1º, e art. 146-B).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A permissão de saída é concedida pelo juiz</span><br>✅ <span class=\"certo\">É concedida pelo <b>diretor</b>, com <b>escolta</b></span></li><li>❌ <span class=\"banca\">A saída temporária para visitar a família continua permitida</span><br>✅ <span class=\"certo\">Desde a Lei 14.843/2024, só para <b>estudo</b></span></li><li>❌ <span class=\"banca\">O condenado por roubo pode ter saída temporária para estudar</span><br>✅ <span class=\"certo\"><b>Não</b>: crime com violência ou grave ameaça veda o benefício</span></li></ol></div>\n<h3>13. Remição: arts. 126 a 130</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 LEP, art. 126 (síntese)</div><div class=\"art-lei\">O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena. § 1º A contagem de tempo será feita à razão de: I, 1 dia de pena a cada 12 horas de frequência escolar (atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional), divididas, no mínimo, em 3 dias; II, 1 dia de pena a cada 3 dias de trabalho.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>Trabalho</b>: 3 dias de trabalho = 1 dia de pena (regimes <b>fechado</b> e <b>semiaberto</b>)</li><li><b>Estudo</b>: 12 horas de estudo, em no mínimo 3 dias = 1 dia de pena (inclusive <b>aberto</b> e <b>livramento</b>, § 6º)</li><li>Trabalho e estudo podem ser <b>cumulados</b>, se compatíveis os horários (§ 3º)</li><li>Conclusão do ensino fundamental, médio ou superior durante a pena: acréscimo de <b>1/3</b> nas horas de estudo remidas (§ 5º)</li><li>O preso impossibilitado de trabalhar ou estudar por <b>acidente</b> continua a se beneficiar (§ 4º)</li><li>Também se aplica ao <b>preso provisório</b> (§ 7º)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que no regime aberto se remite por trabalho</li><li>A banca troca 12 horas por 8 horas</li></ul></div></div>\n<ul><li><b>Remição por leitura</b>: não está na LEP, mas é admitida com base na <b>Resolução 391/2021 do CNJ</b> e na jurisprudência do STF e do STJ: a leitura de uma obra, com elaboração de <b>resenha</b> avaliada, permite remir <b>4 dias</b> de pena, até o limite de 12 obras por ano (48 dias). O STJ também admite a remição por atividades <b>culturais</b> e <b>esportivas</b> e por estudo a distância, nos termos da resolução.</li><li><b>Perda dos dias remidos</b> (art. 127): em caso de <b>falta grave</b>, o juiz poderá revogar <b>até 1/3</b> do tempo remido, recomeçando a contagem a partir da data da infração disciplinar. A revogação deve ser <b>fundamentada</b> e proporcional à gravidade da falta (art. 57). A <b>SV 9</b> declarou recepcionado o antigo art. 127 (que previa a perda total), mas, com a Lei 12.433/2011, o limite passou a ser de <b>1/3</b>.</li><li><b>Art. 128</b>: o tempo remido será computado como <b>pena cumprida</b>, para todos os efeitos (progressão, livramento, indulto).</li><li><b>Art. 130</b>: constitui o crime do art. 299 do CP (<b>falsidade ideológica</b>) declarar ou atestar <b>falsamente</b> prestação de serviço para fim de instruir pedido de remição.</li><li><b>Remição ficta</b>: o STF e o STJ <b>não</b> admitem remição pelo simples fato de o Estado não oferecer trabalho ou estudo ao preso. Mas, durante a <b>pandemia</b>, o STJ admitiu a remição para presos que já trabalhavam ou estudavam e foram impedidos pela suspensão das atividades.</li></ul>\n<h3>14. Monitoração eletrônica: arts. 146-A a 146-D</h3>\n<ul><li>O juiz pode definir a fiscalização por meio da <b>monitoração eletrônica</b> quando: autorizar a <b>saída temporária</b> no regime semiaberto; determinar a <b>prisão domiciliar</b>; e, após a <b>Lei 14.843/2024</b>, também ao aplicar pena em regime <b>aberto</b> ou <b>semiaberto</b>, ou conceder progressão para esses regimes, ao aplicar pena <b>restritiva de direitos</b> que estabeleça limitação de frequência a lugares específicos, e ao conceder o <b>livramento condicional</b> (art. 146-B).</li><li><b>Deveres do monitorado</b> (art. 146-C): receber visitas do servidor responsável pela monitoração, responder aos seus contatos e cumprir suas orientações; <b>abster-se de remover, violar, modificar ou danificar</b> o dispositivo ou de permitir que outrem o faça. A violação comprovada pode acarretar, a critério do juiz, <b>regressão</b> do regime, revogação da autorização de saída, da prisão domiciliar ou do livramento, ou advertência, conforme a gravidade.</li><li>A monitoração eletrônica também é <b>medida cautelar</b> diversa da prisão (CPP, art. 319, IX) e medida protetiva na <b>Lei Maria da Penha</b> (art. 22, VIII, Lei 15.383/2026).</li></ul>\n<h3>15. Livramento condicional, prisão domiciliar e detração</h3>\n<ul><li><b>Livramento condicional</b> (CP, art. 83; LEP, arts. 131 a 146): o juiz poderá concedê-lo ao condenado a pena privativa de liberdade <b>igual ou superior a 2 anos</b>, desde que:</li></ul>\n<table class=\"tab\"><thead><tr><th>Requisito (CP, art. 83)</th><th>Regra</th></tr></thead><tbody><tr><td>Tempo: não reincidente em crime doloso e com bons antecedentes</td><td><b>mais de 1/3</b> da pena</td></tr><tr><td>Tempo: reincidente em crime doloso</td><td><b>mais de metade</b></td></tr><tr><td>Tempo: hediondo ou equiparado, tráfico de pessoas</td><td><b>mais de 2/3</b>, vedado ao <b>reincidente específico</b></td></tr><tr><td>Bom comportamento durante a execução</td><td>comprovado</td></tr><tr><td><b>Não cometimento de falta grave nos últimos 12 meses</b></td><td>Pacote Anticrime</td></tr><tr><td>Bom desempenho no trabalho atribuído</td><td>–</td></tr><tr><td>Aptidão para prover a própria subsistência mediante trabalho honesto</td><td>–</td></tr><tr><td>Reparação do dano, salvo impossibilidade</td><td>–</td></tr><tr><td>Crimes dolosos com violência ou grave ameaça</td><td>constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir (parágrafo único)</td></tr></tbody></table>\n<ul><li><b>Vedações expressas</b>: hediondo com resultado morte, comando de organização ultraviolenta voltada a hediondos, feminicídio (LEP, art. 112, VI e VIII) e domínio social estruturado (Lei 15.358/2026).</li><li><b>Prisão domiciliar</b> na execução (art. 117): admite-se o recolhimento do beneficiário de regime <b>aberto</b> em residência particular quando se tratar de condenado <b>maior de 70 anos</b>, acometido de <b>doença grave</b>, com <b>filho menor ou deficiente</b> físico ou mental, ou <b>gestante</b>. A jurisprudência estende a domiciliar a outros regimes em situações excepcionais (doença grave sem tratamento no presídio; SV 56).</li><li><b>Detração</b> (CP, art. 42): computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de <b>prisão provisória</b>, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação. O juiz da <b>sentença</b> deve considerar a detração para fixar o <b>regime inicial</b> (CPP, art. 387, § 2º).</li><li><b>Limite de cumprimento</b> (CP, art. 75, Pacote Anticrime): o tempo de cumprimento das penas privativas de liberdade <b>não pode ser superior a 40 anos</b> (antes, 30). A <b>unificação</b> para esse limite não serve de base para o cálculo dos benefícios (Súmula 715 do STF: a pena unificada para atender ao limite do art. 75 não é considerada para a concessão de outros benefícios, como o livramento condicional ou o regime mais favorável de execução).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula 715</b><p class=\"jc-tese\">\"A pena unificada para atender ao limite de 30 anos de cumprimento, determinado pelo art. 75 do Código Penal, não é considerada para a concessão de outros benefícios, como o livramento condicional ou regime mais favorável de execução.\" (Hoje, o limite é de <b>40 anos</b>.)</p><p class=\"jc-com\">Exemplo: condenado a 120 anos cumpre no máximo 40, mas a progressão e o livramento são calculados sobre os <b>120 anos</b>, e não sobre os 40. Por isso, condenados a penas muito altas podem cumprir todo o limite sem progredir, o que a doutrina critica, mas o STF mantém.</p></div>\n<h3>16. Incidentes da execução e outras penas</h3>\n<ul><li><b>Conversões</b> (arts. 180 a 184): a pena privativa de liberdade <b>não superior a 2 anos</b> pode ser convertida em restritiva de direitos, se o condenado estiver em regime aberto, tiver cumprido pelo menos 1/4 da pena e os antecedentes e a personalidade indicarem ser a conversão recomendável (art. 180). A restritiva converte-se em privativa de liberdade quando o condenado descumpre injustificadamente a restrição, não é encontrado, pratica falta grave ou sofre nova condenação incompatível (art. 181). Quando, no curso da execução, sobrevier <b>doença mental</b> ao condenado, o juiz pode determinar a substituição da pena por <b>medida de segurança</b> (art. 183).</li><li><b>Excesso ou desvio</b> (arts. 185 e 186): haverá excesso ou desvio de execução sempre que algum ato for praticado além dos limites fixados na sentença, em normas legais ou regulamentares. Podem suscitar o incidente o MP, o Conselho Penitenciário, o sentenciado e qualquer dos demais órgãos da execução.</li><li><b>Anistia e indulto</b> (arts. 187 a 193): concedida a <b>anistia</b>, o juiz declara extinta a punibilidade; o <b>indulto individual</b> (graça) pode ser provocado por petição do condenado, do MP, do Conselho Penitenciário ou da autoridade administrativa, com parecer do Conselho Penitenciário; o <b>indulto coletivo</b> é concedido por decreto presidencial, e o juiz o aplica de ofício ou a requerimento.</li><li><b>Multa</b> (CP, art. 51, redação do Pacote): transitada em julgado a sentença, a multa será executada perante o <b>juiz da execução penal</b> e considerada <b>dívida de valor</b>, aplicando-se as normas da dívida ativa da Fazenda Pública quanto às causas interruptivas e suspensivas da prescrição. A legitimidade é prioritariamente do <b>MP</b> (STF, ADI 3.150), e, subsidiariamente, da Fazenda Pública. O STJ (Tema 931 revisado) admite a extinção da punibilidade sem o pagamento da multa quando o condenado demonstrar <b>hipossuficiência</b>.</li><li><b>Medida de segurança</b> (arts. 171 a 179): executada após o trânsito em julgado, com guia de internação ou de tratamento ambulatorial; a cessação da periculosidade é verificada ao fim do prazo mínimo (1 a 3 anos), por exame pericial, repetido de ano em ano; a desinternação ou liberação é sempre <b>condicional</b> por 1 ano. A <b>Súmula 527 do STJ</b> limita a duração ao máximo da pena abstratamente cominada.</li></ul>\n<h3>17. Execução das penas restritivas de direitos e do sursis</h3>\n<ul><li><b>Prestação de serviços à comunidade</b> (art. 149 e CP, art. 46): o juiz designa a entidade ou o programa, determina a intimação do condenado e pode alterar a forma de execução para ajustá-la às condições pessoais do condenado e às características do estabelecimento. O trabalho terá duração de <b>8 horas semanais</b> e será realizado aos sábados, domingos e feriados, ou em dias úteis, de modo a não prejudicar a jornada normal de trabalho.</li><li><b>Limitação de fim de semana</b> (arts. 151 a 153): o condenado permanece, aos sábados e domingos, por <b>5 horas diárias</b>, na Casa do Albergado ou outro estabelecimento adequado, onde poderão ser ministrados cursos e palestras.</li><li><b>Interdição temporária de direitos</b> (arts. 154 e 155): a autoridade deverá comunicar ao juiz o descumprimento da interdição (por exemplo, proibição de exercer cargo ou de dirigir).</li><li><b>Sursis</b> (arts. 156 a 163): o juiz poderá suspender, pelo período de <b>2 a 4 anos</b>, a execução da pena privativa de liberdade <b>não superior a 2 anos</b> (ou, no sursis etário e humanitário, não superior a 4 anos, com período de 4 a 6 anos). O condenado é advertido em <b>audiência admonitória</b>, e, se não comparecer injustificadamente, a suspensão fica <b>sem efeito</b> e a pena é executada (art. 161).</li></ul>\n<h3>18. Execução provisória e recursos na execução</h3>\n<ul><li><b>Execução provisória</b>: o STF (ADCs 43, 44 e 54, 2019) declarou constitucional o art. 283 do CPP e vedou a execução provisória da pena após a condenação em segunda instância, enquanto houver recurso pendente, salvo se presentes os requisitos da <b>prisão preventiva</b>. Ao preso <b>cautelar</b>, porém, aplicam-se os benefícios da execução: a <b>Súmula 716</b> do STF admite a progressão antes do trânsito em julgado, e a Resolução 113/2010 do CNJ manda expedir <b>guia de recolhimento provisória</b>.</li><li><b>Júri</b>: o STF (Tema 1.068, 2024) fixou que a <b>soberania dos veredictos</b> autoriza a <b>execução imediata</b> da pena imposta pelo Tribunal do Júri, independentemente do total da pena aplicada.</li><li><b>Recurso</b>: das decisões proferidas pelo juiz da execução caberá <b>agravo</b>, <b>sem efeito suspensivo</b> (art. 197). O prazo é de <b>5 dias</b> (<b>Súmula 700 do STF</b>: \"É de cinco dias o prazo para interposição de agravo contra decisão do juiz da execução penal\"), e o rito segue o do <b>recurso em sentido estrito</b>.</li><li><b>Habeas corpus</b>: cabe quando houver risco à liberdade de locomoção (por exemplo, manutenção no fechado por falta de vaga, regressão ilegal), mas os tribunais não admitem HC como <b>substituto</b> do agravo quando não há ilegalidade flagrante.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O agravo em execução tem efeito suspensivo</span><br>✅ <span class=\"certo\"><b>Não</b> tem (art. 197)</span></li><li>❌ <span class=\"banca\">O prazo do agravo em execução é de 10 dias</span><br>✅ <span class=\"certo\"><b>5 dias</b> (Súmula 700 do STF)</span></li><li>❌ <span class=\"banca\">O preso provisório não pode progredir de regime</span><br>✅ <span class=\"certo\">A Súmula 716 do STF admite a progressão antes do trânsito em julgado</span></li></ol></div>\n<h3>19. Indulto, comutação e os decretos natalinos</h3>\n<ul><li>O <b>indulto coletivo</b> é concedido anualmente por <b>decreto</b> do Presidente da República (CF, art. 84, XII), geralmente no Natal, com requisitos próprios (tempo de cumprimento, tipo de crime, condições pessoais). A <b>comutação</b> é o indulto <b>parcial</b> (redução da pena).</li><li>O STF (ADI 5.874, 2019) reconheceu a ampla <b>discricionariedade</b> do Presidente para definir os requisitos do indulto, desde que respeitadas as vedações constitucionais (crimes hediondos e equiparados, tortura, tráfico e terrorismo, que não podem receber graça; e, segundo a lei, indulto).</li><li>O juiz da execução aplica o decreto <b>de ofício</b> ou a requerimento, ouvidos o MP e o Conselho Penitenciário quando exigido. A falta grave <b>não</b> interrompe o prazo para indulto e comutação (Súmula 535 do STJ), mas o decreto pode exigir que o condenado não tenha cometido falta grave em determinado período, e essa exigência é válida.</li></ul>\n<h3>20. Pontos de atenção da Lei Antifacção na execução (2026)</h3>\n<ul><li><b>Visitas e comunicações monitoradas</b>: presos ligados a organizações criminosas ultraviolentas, grupos paramilitares ou milícias podem ter os encontros no <b>parlatório</b> e as visitas por <b>videoconferência</b> gravados em áudio e vídeo (art. 41-A).</li><li><b>Advogado e cliente</b>: as comunicações com o advogado continuam protegidas; só podem ser monitoradas quando houver <b>conluio</b> criminoso reconhecido judicialmente, e o material é analisado por <b>juízo de controle</b> distinto do que conduz o processo (art. 41-B), para proteger o direito de defesa.</li><li><b>Transferências</b>: o juiz deve definir o estabelecimento em <b>24 horas</b> e admite-se a transferência <b>excepcional</b> em situações de motim ou rebelião, com decisão judicial em 24 horas (art. 86, §§ 3º e 5º).</li><li><b>Progressão e livramento</b>: frações de 70%, 75%, 80% e 85% para hediondos e vedação de livramento nas hipóteses do art. 112, VI e VIII, além da vedação de livramento para os crimes de domínio social estruturado.</li><li><b>Auxílio-reclusão</b>: a lei vedou o pagamento do auxílio-reclusão aos dependentes de presos por crimes de domínio social estruturado e favorecimento, regra que gerou questionamentos e é objeto de debate jurídico.</li></ul>\n<h3>21. Mais casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Agravo fora do prazo</b><p>O juiz da execução indefere a progressão em 10/03, e a defesa é intimada no mesmo dia. Ela interpõe agravo em 20/03. O recurso é tempestivo?</p><details><summary>Ver a solução comentada</summary><p><b>Não</b>: o prazo do agravo em execução é de <b>5 dias</b> (Súmula 700 do STF). Restaria à defesa impetrar habeas corpus, se houvesse ilegalidade flagrante, ou formular novo pedido, se surgirem fatos novos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Remição pela leitura</b><p>Um preso no fechado lê três livros em um mês, elabora resenhas aprovadas pela comissão e pede remição. Há base legal?</p><details><summary>Ver a solução comentada</summary><p>A LEP não prevê expressamente a leitura, mas a <b>Resolução 391/2021 do CNJ</b> e a jurisprudência do STF e do STJ admitem a remição pela leitura: <b>4 dias</b> por obra, com resenha avaliada, até 12 obras por ano. Ele poderá remir <b>12 dias</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Multa não paga</b><p>Condenado pobre cumpriu integralmente a pena de prisão, mas não pagou a multa, alegando não ter recursos. A punibilidade pode ser extinta?</p><details><summary>Ver a solução comentada</summary><p>Sim: pelo <b>Tema 931 do STJ</b> (revisado), o inadimplemento da multa por condenado que <b>comprovar</b> a impossibilidade de pagá-la não impede a extinção da punibilidade. Se tiver condições e não pagar, a multa continua exigível pelo MP perante o juízo da execução.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Preso que estuda e trabalha no aberto</b><p>Um condenado no regime aberto trabalha durante o dia e faz faculdade à noite. Pode remir pena pelo trabalho e pelo estudo?</p><details><summary>Ver a solução comentada</summary><p>No regime <b>aberto</b>, a lei só admite remição pelo <b>estudo</b> (art. 126, § 6º); o trabalho é condição do próprio regime e não gera remição, segundo a jurisprudência majoritária. Ele remirá 1 dia a cada 12 horas de frequência na faculdade.</p></details></div>\n<h3>22. Direitos fundamentais do preso na jurisprudência</h3>\n<ul><li><b>Indenização por condições degradantes</b>: o STF (Tema 365, RE 580.252) fixou que, considerando que é dever do Estado manter em seus presídios padrões mínimos de humanidade, é de sua responsabilidade, nos termos do art. 37, § 6º, da Constituição, a obrigação de <b>ressarcir os danos</b>, inclusive <b>morais</b>, comprovadamente causados aos detentos em decorrência da falta ou insuficiência das condições legais de encarceramento.</li><li><b>Contagem em dobro</b>: a Corte Interamericana de Direitos Humanos determinou, em medidas provisórias sobre presídios brasileiros em situação degradante (como o Instituto Penal Plácido de Sá Carvalho, no Rio de Janeiro), que o tempo de pena cumprido nessas condições fosse computado <b>em dobro</b>. O STJ aplicou esse entendimento aos presos daquele estabelecimento, reconhecendo a força vinculante das decisões da Corte.</li><li><b>Saúde e morte de presos</b>: o Estado responde <b>objetivamente</b> pela morte de detento sob sua custódia, quando descumprido o dever de proteção (STF, Tema 592), salvo se demonstrar que não poderia ter evitado o resultado.</li><li><b>Visita íntima, religião e identidade</b>: a jurisprudência e as normas do CNPCP asseguram a visita íntima (regulamentada administrativamente), a assistência religiosa e o respeito à <b>identidade de gênero</b> de pessoas LGBTQIA+ presas, inclusive com a possibilidade de escolha do estabelecimento ou ala, conforme decisões do STF (ADPF 527) e resoluções do CNJ.</li><li><b>Mulheres presas</b>: a Lei 14.326/2022 assegurou tratamento humanitário à mulher presa gestante, durante o parto e no puerpério; o art. 292, parágrafo único, do CPP veda o uso de <b>algemas</b> durante o trabalho de parto e no pós-parto imediato.</li><li><b>Lição para o policial e o agente penitenciário</b>: o preso está sob a <b>custódia do Estado</b>, e qualquer violência, omissão de socorro ou tratamento degradante gera responsabilidade civil do Estado, disciplinar do agente e, conforme o caso, criminal (tortura, abuso de autoridade, lesão corporal).</li><li><b>Audiência de custódia e execução</b>: a audiência de custódia (CPP, art. 310) também deve ser realizada no cumprimento de mandados de prisão decorrentes de <b>condenação definitiva</b> e de <b>recaptura</b>, segundo a Resolução 213/2015 do CNJ e a jurisprudência do STF, para verificar a legalidade da prisão e a integridade física do preso. A Lei Antifacção passou a prever, como regra, a realização da audiência por <b>videoconferência</b> nos casos que menciona, com garantias de sigilo e de defesa, admitindo-se a forma presencial em situações de força maior.</li><li><b>Resumo da lógica dos direitos</b>: o preso perde a liberdade de locomoção e, conforme o regime, alguns direitos políticos (suspensão durante os efeitos da condenação, CF, art. 15, III), mas mantém a integridade física e moral, o acesso à justiça, à saúde, à educação, ao trabalho remunerado e ao contato com a família, nos limites da lei e da disciplina. Qualquer restrição além disso precisa de <b>lei</b> e de <b>decisão fundamentada</b>.</li><li><b>Sequência de estudo recomendada</b>: para fixar a LEP, estude na ordem em que a pena \"acontece\": ingresso (classificação, exame, DNA, separação), vida no presídio (assistência, trabalho, direitos e deveres, disciplina, RDD), caminho para a liberdade (progressão, saídas, remição, monitoração, livramento) e controle (órgãos, juízo da execução, incidentes, recursos). Essa ordem facilita a memória e reproduz o raciocínio que as bancas exigem nos casos práticos.</li><li><b>Erros mais comuns de candidatos</b>: confundir permissão de saída (diretor, escolta) com saída temporária (juiz, estudo); trocar 12 horas de estudo por 8; esquecer que a falta grave não interrompe o livramento; aplicar as frações de 2026 a fatos antigos; achar que o diretor decide o RDD; e esquecer que a remição no aberto é só pelo estudo.</li></ul>\n<h3>23. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Cálculo da progressão em 2026</b><p>Pedro, primário, foi condenado a 10 anos de reclusão por roubo com emprego de arma de fogo praticado em junho de 2026. Quando poderá progredir do fechado para o semiaberto?</p><details><summary>Ver a solução comentada</summary><p>O roubo com arma de fogo é <b>hediondo</b> (Lei 8.072, art. 1º, II, \"b\"). Para fato posterior a 25/03/2026, o primário progride com <b>70%</b> da pena (LEP, art. 112, V): 7 anos. Além do tempo, precisa de boa conduta carcerária e do <b>exame criminológico</b> (art. 112, § 1º). Se o fato fosse de 2025, a fração seria de <b>40%</b> (4 anos). Se cometer falta grave, o prazo é interrompido e recomeça sobre o restante da pena.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Celular na cela</b><p>Durante revista, agentes encontram um carregador e um chip de celular escondidos no colchão de um preso. Há falta grave? Quem pune?</p><details><summary>Ver a solução comentada</summary><p>Sim: o STJ entende que a posse de <b>componentes</b> essenciais ao funcionamento do aparelho configura a falta grave do <b>art. 50, VII</b>. Instaura-se <b>PAD</b> com defesa técnica (Súmula 533 do STJ), ou a falta é reconhecida em <b>audiência de justificação</b> em juízo, com defensor e MP (STF, Tema 941). O diretor aplica as sanções disciplinares (até isolamento de 30 dias); o juiz reconhece os efeitos na execução: <b>interrupção</b> do prazo de progressão, perda de até <b>1/3</b> dos dias remidos e eventual <b>regressão</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Líder de facção no RDD</b><p>Um preso apontado como líder de facção que atua em três Estados continua dando ordens de dentro do presídio. O MP pede sua inclusão no RDD. Como funciona?</p><details><summary>Ver a solução comentada</summary><p>A inclusão no RDD é sempre decidida pelo <b>juiz</b>, a requerimento do diretor, de outra autoridade administrativa ou do MP (art. 52, § 10, Lei 15.407/2026), com decisão liminar e decisão final em até 15 dias (art. 54). Por haver indícios de <b>liderança</b> e atuação em <b>mais de 2 Estados</b>, o RDD será cumprido obrigatoriamente em <b>presídio federal</b> (§ 3º), pelo prazo de até 2 anos, prorrogável por períodos de 1 ano enquanto persistir o vínculo (§ 4º). Visitas quinzenais, gravadas, sem contato físico; banho de sol de 2 horas.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Falta de vaga no semiaberto</b><p>Maria obteve a progressão para o semiaberto, mas não há vaga em colônia agrícola no Estado. Ela continua no fechado há 4 meses. O que fazer?</p><details><summary>Ver a solução comentada</summary><p>Pela <b>Súmula Vinculante 56</b>, a falta de vaga não autoriza a manutenção em regime mais gravoso. O juiz deve adotar as alternativas do RE 641.320 (saída antecipada de outro preso, monitoração eletrônica, restritivas e estudo) ou, até que existam, conceder <b>prisão domiciliar</b>. A Defensoria pode impetrar <b>habeas corpus</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Estudo e trabalho</b><p>João, no semiaberto, trabalha 6 horas por dia, de segunda a sexta, e frequenta à noite o ensino médio, 4 horas por dia, 3 vezes por semana. Quantos dias remirá por mês (considerando 20 dias de trabalho e 12 dias de aula)?</p><details><summary>Ver a solução comentada</summary><p><b>Trabalho</b>: 20 dias ÷ 3 = <b>6 dias</b> (e sobram 2 dias para o mês seguinte). <b>Estudo</b>: 12 dias × 4 horas = 48 horas ÷ 12 = <b>4 dias</b>. As duas atividades são <b>cumuláveis</b> (art. 126, § 3º): cerca de <b>10 dias</b> remidos no mês. Se ele concluir o ensino médio durante a pena, ganha acréscimo de <b>1/3</b> sobre as horas de estudo remidas (§ 5º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Saída para visitar a mãe</b><p>Condenado por furto qualificado, em regime semiaberto, primário, que já cumpriu 1/5 da pena, pede saída temporária para visitar a mãe no Dia das Mães. O juiz pode conceder?</p><details><summary>Ver a solução comentada</summary><p><b>Não</b> com essa finalidade: desde a <b>Lei 14.843/2024</b>, a saída temporária só é concedida para <b>frequência a curso</b> supletivo profissionalizante, de ensino médio ou superior. Se a mãe estivesse gravemente doente ou falecesse, caberia <b>permissão de saída</b>, concedida pelo <b>diretor</b>, com <b>escolta</b> (art. 120).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Fuga no regime aberto</b><p>Condenado no regime aberto deixa de se recolher à Casa do Albergado por 15 dias e não justifica. O que acontece?</p><details><summary>Ver a solução comentada</summary><p>Comete <b>falta grave</b> (descumprir as condições do regime aberto, art. 50, V, e, conforme o caso, fuga, art. 50, II). Após sua <b>oitiva prévia</b> (art. 118, § 2º), pode sofrer <b>regressão</b>, inclusive <b>per saltum</b> ao fechado, interrupção do prazo para nova progressão e perda de até 1/3 dos dias remidos.</p></details></div>\n<h3>24. A execução penal na rotina policial</h3>\n<ul><li><b>Recaptura</b>: o preso foragido do sistema prisional pode ser preso a qualquer tempo, com base no mandado de recaptura ou na própria condição de evadido (a fuga é falta grave, e o mandado de prisão permanece válido). O policial deve conferir o <b>BNMP</b> (Banco Nacional de Medidas Penais e Prisões, do CNJ).</li><li><b>Monitorados</b>: ao abordar pessoa com <b>tornozeleira</b>, o policial deve verificar as condições impostas (área de inclusão ou exclusão, horários). O descumprimento é comunicado à central de monitoração e ao juiz; o rompimento do equipamento pode gerar regressão ou revogação do benefício e, na Lei Maria da Penha, crime com pena aumentada.</li><li><b>Ingresso de celulares e drogas no presídio</b>: quem introduz celular sem autorização comete o crime do <b>art. 349-A do CP</b>; o servidor que se omite, o do <b>art. 319-A</b>; quem leva droga comete tráfico com a majorante do art. 40, III, da Lei de Drogas. A <b>revista</b> de visitantes deve respeitar a dignidade (o STF, no Tema 998, rejeitou a revista íntima vexatória).</li><li><b>Crimes cometidos no presídio</b>: homicídios, lesões e tráfico praticados dentro do sistema são investigados pela <b>polícia judiciária</b>, e o fato também gera <b>falta grave</b>, independentemente do trânsito em julgado (Súmula 526 do STJ).</li><li><b>Ordens de dentro do presídio</b>: a Lei 15.245/2025 (arts. 21-A e 21-B da Lei 12.850) e a Lei 15.358/2026 permitem punir quem, de dentro do sistema, ordena violência contra autoridades e testemunhas, e determinam o cumprimento em presídio federal.</li></ul>\n<h3>25. Perguntas frequentes em provas discursivas</h3>\n<ul><li><b>\"Explique o sistema progressivo de cumprimento da pena e os requisitos da progressão.\"</b> A pena é executada de forma progressiva (CP, art. 33, § 2º; LEP, art. 112), com requisitos objetivos (frações conforme a data do fato, a primariedade, a violência e a hediondez) e subjetivos (boa conduta carcerária comprovada pelo diretor e resultado do exame criminológico, exigido desde a Lei 14.843/2024). Não se admite progressão per saltum (Súmula 491), a falta grave interrompe o prazo (Súmula 534) e a falta de vaga não autoriza regime mais grave (SV 56).</li><li><b>\"Diferencie permissão de saída e saída temporária.\"</b> A permissão de saída (art. 120) é concedida pelo diretor, com escolta, a presos do fechado, do semiaberto e provisórios, em caso de falecimento ou doença grave de familiar ou para tratamento médico. A saída temporária (art. 122) é concedida pelo juiz, sem escolta, a presos do semiaberto, hoje apenas para estudo, vedada a condenados por hediondos ou crimes com violência ou grave ameaça.</li><li><b>\"Quais as características do RDD?\"</b> Até 2 anos por inclusão, repetível; cela individual; visitas quinzenais de 2 pessoas por 2 horas, sem contato físico e gravadas; banho de sol de 2 horas em grupos de até 4; entrevistas monitoradas, salvo com o defensor; correspondência fiscalizada; audiências por videoconferência. Cabe por crime doloso que subverta a ordem interna, alto risco ou fundadas suspeitas de envolvimento com organização criminosa; líderes cumprem em presídio federal; decisão sempre judicial.</li></ul>\n<h3>26. Como as bancas cobram este tópico</h3>\n<ul><li><b>Princípios e órgãos</b>: natureza jurídica; direitos não atingidos pela sentença; órgãos do art. 61 e suas atribuições; competência do juízo da execução (art. 66; Súmula 192 do STJ).</li><li><b>Trabalho e remição</b>: 3/4 do salário mínimo; 6 a 8 horas; trabalho externo com 1/6; remição 3 por 1 e 12 horas por 1; acréscimo de 1/3; perda de até 1/3.</li><li><b>Disciplina</b>: faltas graves do art. 50; sanções do art. 53; isolamento até 30 dias; isolamento preventivo até 10 dias; RDD (números e hipóteses); Súmulas 526 e 533; Tema 941.</li><li><b>Regimes</b>: frações do art. 112 (antigas e novas), Súmulas 491, 534, 535, 441, 471, 715, 716, 717; SV 26 e 56; regressão.</li><li><b>Saídas</b>: permissão (diretor) x saída temporária (juiz, só estudo desde 2024).</li><li><b>Outros</b>: monitoração eletrônica; livramento; domiciliar; detração; limite de 40 anos; multa; medida de segurança.</li><li><b>Bancas</b>: o <b>Cebraspe</b> cobra muito súmulas e frações; a <b>FGV</b> cobra casos de cálculo e de faltas; a <b>Consulplan</b> cobra a letra dos artigos.</li></ul>\n<h3>27. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Objetivo da LEP</span></span><span class=\"vs\"><span>efetivar a sentença e promover a integração social</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Natureza da execução</span></span><span class=\"vs\"><span>mista (administrativa e jurisdicional)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CTC</span></span><span class=\"vs\"><span>classifica e elabora o programa individualizador</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exame criminológico</span></span><span class=\"vs\"><span>obrigatório no fechado (classificação) e, desde 2024, para progredir</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>DNA (art. 9º-A)</span></span><span class=\"vs\"><span>crimes dolosos com violência grave, contra a vida, a liberdade sexual e sexuais contra vulnerável; recusa = falta grave</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Trabalho</span></span><span class=\"vs\"><span>não sujeito à CLT; mínimo de 3/4 do salário mínimo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Jornada</span></span><span class=\"vs\"><span>6 a 8 horas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Trabalho externo</span></span><span class=\"vs\"><span>fechado só em obras públicas; 1/6 da pena; até 10% da obra</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Preso provisório</span></span><span class=\"vs\"><span>trabalho facultativo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Faltas graves</span></span><span class=\"vs\"><span>art. 50 (fuga, celular, DNA, subversão)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Crime doloso</span></span><span class=\"vs\"><span>falta grave sem trânsito em julgado (Súmula 526)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>PAD</span></span><span class=\"vs\"><span>Súmula 533; suprido por audiência em juízo (Tema 941)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Isolamento</span></span><span class=\"vs\"><span>até 30 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Isolamento preventivo</span></span><span class=\"vs\"><span>até 10 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>RDD</span></span><span class=\"vs\"><span>até 2 anos; visitas quinzenais; banho de sol de 2 horas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>RDD de líder</span></span><span class=\"vs\"><span>presídio federal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decisão do RDD</span></span><span class=\"vs\"><span>juiz, em até 15 dias (liminar possível)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Penitenciária</span></span><span class=\"vs\"><span>fechado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Colônia</span></span><span class=\"vs\"><span>semiaberto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Casa do Albergado</span></span><span class=\"vs\"><span>aberto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cadeia pública</span></span><span class=\"vs\"><span>provisórios</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hediondo primário (2026)</span></span><span class=\"vs\"><span>70%</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Primário sem violência (2026)</span></span><span class=\"vs\"><span>1/6</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Per saltum</span></span><span class=\"vs\"><span>vedada na progressão; permitida na regressão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SV 56</span></span><span class=\"vs\"><span>falta de vaga não justifica regime mais grave</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Permissão de saída</span></span><span class=\"vs\"><span>diretor, com escolta</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Saída temporária</span></span><span class=\"vs\"><span>juiz, só para estudo (2024)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Remição por trabalho</span></span><span class=\"vs\"><span>3 dias = 1 dia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Remição por estudo</span></span><span class=\"vs\"><span>12 horas = 1 dia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perda da remição</span></span><span class=\"vs\"><span>até 1/3</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Limite de cumprimento</span></span><span class=\"vs\"><span>40 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Súmula 715</span></span><span class=\"vs\"><span>benefícios calculados sobre a pena total</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Multa</span></span><span class=\"vs\"><span>executada no juízo da execução, legitimidade do MP</span></span></button></div></div>\n<h3>28. Resumo em uma página</h3>\n<ul><li><b>Base</b>: finalidade dupla; natureza mista; direitos não atingidos pela sentença; ADPF 347.</li><li><b>Classificação</b>: CTC; exame criminológico; DNA.</li><li><b>Assistência</b>: material, saúde, jurídica, educacional, social, religiosa; egresso.</li><li><b>Trabalho</b>: obrigatório para o condenado; 3/4 do mínimo; 6 a 8 horas; externo.</li><li><b>Direitos e deveres</b>: arts. 39 e 41; restrições pelo diretor; arts. 41-A e 41-B (2026).</li><li><b>Disciplina</b>: faltas; sanções; isolamento; RDD (Pacote, Lei 15.407/2026).</li><li><b>Órgãos e estabelecimentos</b>: art. 61; art. 66; penitenciária, colônia, albergado, cadeia, hospital de custódia; presídios federais.</li><li><b>Regimes</b>: frações 2026; súmulas; regressão.</li><li><b>Saídas, remição, monitoração, livramento, domiciliar, detração, limite de 40 anos, incidentes, multa e medida de segurança.</b></li></ul>",
+"quiz": [
+{
+"p": "A execução penal tem por objetivo efetivar as disposições da sentença e proporcionar condições para a harmônica integração social do condenado.",
+"c": true,
+"prof": "Objetivo.",
+"x": "Art. 1º.",
+"e": "Finalidade"
+},
+{
+"p": "A LEP aplica-se ao preso provisório e ao condenado pela Justiça Eleitoral ou Militar recolhido a estabelecimento sujeito à jurisdição ordinária.",
+"c": true,
+"prof": "Aplicação.",
+"x": "Art. 2º, parágrafo único.",
+"e": "Abrangência"
+},
+{
+"p": "Ao condenado são assegurados todos os direitos não atingidos pela sentença ou pela lei.",
+"c": true,
+"prof": "Direitos.",
+"x": "Art. 3º.",
+"e": "Direitos"
+},
+{
+"p": "A Comissão Técnica de Classificação elabora o programa individualizador da pena.",
+"c": true,
+"prof": "Classificação.",
+"x": "Art. 6º.",
+"e": "CTC"
+},
+{
+"p": "O exame criminológico para classificação é obrigatório para o condenado em regime aberto.",
+"c": false,
+"prof": "Classificação.",
+"x": "Fechado obrigatório; semiaberto facultativo.",
+"e": "Art. 8º"
+},
+{
+"p": "Desde a Lei 14.843/2024, a progressão de regime exige os resultados do exame criminológico.",
+"c": true,
+"prof": "Progressão.",
+"x": "Art. 112, § 1º.",
+"e": "Exame"
+},
+{
+"p": "A recusa do condenado em se submeter à identificação do perfil genético, quando obrigatória, constitui falta grave.",
+"c": true,
+"prof": "DNA.",
+"x": "Art. 50, VIII.",
+"e": "Recusa"
+},
+{
+"p": "Considera-se egresso o liberado definitivo, pelo prazo de 1 ano a contar da saída, e o liberado condicional, durante o período de prova.",
+"c": true,
+"prof": "Egresso.",
+"x": "Art. 26.",
+"e": "Conceito"
+},
+{
+"p": "O trabalho do preso não está sujeito ao regime da CLT.",
+"c": true,
+"prof": "Trabalho.",
+"x": "Art. 28, § 2º.",
+"e": "CLT"
+},
+{
+"p": "A remuneração do trabalho do preso não pode ser inferior a um salário mínimo.",
+"c": false,
+"prof": "Trabalho.",
+"x": "3/4 do mínimo.",
+"e": "Remuneração"
+},
+{
+"p": "Para o preso provisório, o trabalho não é obrigatório.",
+"c": true,
+"prof": "Trabalho.",
+"x": "Art. 31, parágrafo único.",
+"e": "Provisório"
+},
+{
+"p": "A jornada de trabalho do preso não será inferior a 6 nem superior a 8 horas.",
+"c": true,
+"prof": "Trabalho.",
+"x": "Art. 33.",
+"e": "Jornada"
+},
+{
+"p": "O trabalho externo do preso em regime fechado só é admitido em serviço ou obras públicas, com as cautelas contra a fuga.",
+"c": true,
+"prof": "Trabalho externo.",
+"x": "Art. 36.",
+"e": "Obras públicas"
+},
+{
+"p": "O trabalho externo depende do cumprimento mínimo de 1/6 da pena.",
+"c": true,
+"prof": "Trabalho externo.",
+"x": "Art. 37.",
+"e": "1/6"
+},
+{
+"p": "Os direitos de visita e de contato com o mundo exterior podem ser suspensos ou restringidos por ato motivado do diretor.",
+"c": true,
+"prof": "Direitos.",
+"x": "Art. 41, parágrafo único.",
+"e": "Restrição"
+},
+{
+"p": "Ter em sua posse aparelho telefônico que permita comunicação com o ambiente externo é falta grave.",
+"c": true,
+"prof": "Faltas.",
+"x": "Art. 50, VII.",
+"e": "Celular"
+},
+{
+"p": "Segundo o STJ, a posse de componentes essenciais do celular, como chip e carregador, configura falta grave.",
+"c": true,
+"prof": "Faltas.",
+"x": "Jurisprudência.",
+"e": "Componentes"
+},
+{
+"p": "A fuga é falta grave.",
+"c": true,
+"prof": "Faltas.",
+"x": "Art. 50, II.",
+"e": "Fuga"
+},
+{
+"p": "As faltas graves são especificadas pela legislação estadual.",
+"c": false,
+"prof": "Faltas.",
+"x": "Leves e médias são locais.",
+"e": "LEP"
+},
+{
+"p": "O reconhecimento de falta grave decorrente de crime doloso dispensa o trânsito em julgado da condenação pelo novo crime.",
+"c": true,
+"prof": "Faltas.",
+"x": "Súmula 526 do STJ.",
+"e": "Crime doloso"
+},
+{
+"p": "Segundo o STF, a oitiva do condenado em audiência de justificação, com defensor e MP, afasta a necessidade de prévio PAD.",
+"c": true,
+"prof": "PAD.",
+"x": "Tema 941.",
+"e": "Audiência"
+},
+{
+"p": "O isolamento como sanção disciplinar não pode exceder 30 dias.",
+"c": true,
+"prof": "Sanções.",
+"x": "Art. 58.",
+"e": "30 dias"
+},
+{
+"p": "O isolamento preventivo do faltoso pode ser decretado pela autoridade administrativa por até 10 dias.",
+"c": true,
+"prof": "Sanções.",
+"x": "Art. 60.",
+"e": "10 dias"
+},
+{
+"p": "A inclusão do preso no RDD pode ser determinada pelo diretor do estabelecimento.",
+"c": false,
+"prof": "RDD.",
+"x": "Decisão judicial.",
+"e": "Juiz"
+},
+{
+"p": "O RDD tem duração máxima de até 2 anos, sem prejuízo de repetição por nova falta grave da mesma espécie.",
+"c": true,
+"prof": "RDD.",
+"x": "Art. 52, I.",
+"e": "2 anos"
+},
+{
+"p": "No RDD, as visitas são quinzenais, de 2 pessoas por vez, com duração de 2 horas, sem contato físico.",
+"c": true,
+"prof": "RDD.",
+"x": "Art. 52, III.",
+"e": "Visitas"
+},
+{
+"p": "No RDD, o preso tem direito a 2 horas diárias de banho de sol, em grupos de até 4 presos.",
+"c": true,
+"prof": "RDD.",
+"x": "Art. 52, IV.",
+"e": "Banho de sol"
+},
+{
+"p": "O RDD pode ser aplicado ao preso sobre o qual recaiam fundadas suspeitas de envolvimento em organização criminosa, independentemente de falta grave.",
+"c": true,
+"prof": "RDD.",
+"x": "Art. 52, § 1º, II.",
+"e": "Suspeitas"
+},
+{
+"p": "Havendo indícios de que o preso exerce liderança em organização criminosa, o RDD será cumprido em estabelecimento federal.",
+"c": true,
+"prof": "RDD.",
+"x": "Art. 52, § 3º.",
+"e": "Federal"
+},
+{
+"p": "Desde a Lei 15.407/2026, o MP pode requerer a inclusão do preso no RDD desde o seu recolhimento.",
+"c": true,
+"prof": "RDD.",
+"x": "Art. 52, § 10.",
+"e": "MP"
+},
+{
+"p": "O Conselho Penitenciário emite parecer sobre indulto e comutação de pena, salvo quando o pedido se basear no estado de saúde do preso.",
+"c": true,
+"prof": "Órgãos.",
+"x": "Art. 70, I.",
+"e": "Conselho"
+},
+{
+"p": "Compete ao juízo da execução estadual executar a pena de condenado pela Justiça Federal recolhido em estabelecimento estadual.",
+"c": true,
+"prof": "Competência.",
+"x": "Súmula 192 do STJ.",
+"e": "Juízo estadual"
+},
+{
+"p": "A penitenciária destina-se ao condenado à reclusão em regime fechado.",
+"c": true,
+"prof": "Estabelecimentos.",
+"x": "Art. 87.",
+"e": "Penitenciária"
+},
+{
+"p": "A Casa do Albergado destina-se ao cumprimento de pena em regime semiaberto.",
+"c": false,
+"prof": "Estabelecimentos.",
+"x": "Regime aberto.",
+"e": "Albergado"
+},
+{
+"p": "A cadeia pública destina-se ao recolhimento de presos provisórios.",
+"c": true,
+"prof": "Estabelecimentos.",
+"x": "Art. 102.",
+"e": "Cadeia"
+},
+{
+"p": "O preso provisório deve ficar separado do condenado por sentença transitada em julgado.",
+"c": true,
+"prof": "Estabelecimentos.",
+"x": "Art. 84.",
+"e": "Separação"
+},
+{
+"p": "Para fatos a partir da Lei 15.358/2026, o condenado primário por crime hediondo progride após cumprir 70% da pena.",
+"c": true,
+"prof": "Progressão.",
+"x": "Art. 112, V.",
+"e": "70%"
+},
+{
+"p": "Para fatos a partir da Lei 15.402/2026, o condenado primário por crime sem violência ou grave ameaça progride após cumprir 1/6 da pena.",
+"c": true,
+"prof": "Progressão.",
+"x": "Caput.",
+"e": "1/6"
+},
+{
+"p": "A progressão de regime pode ocorrer diretamente do fechado para o aberto.",
+"c": false,
+"prof": "Progressão.",
+"x": "Súmula 491 do STJ.",
+"e": "Per saltum"
+},
+{
+"p": "A falta grave interrompe a contagem do prazo para a progressão de regime.",
+"c": true,
+"prof": "Progressão.",
+"x": "Súmula 534 do STJ.",
+"e": "Interrupção"
+},
+{
+"p": "A falta grave interrompe o prazo para o livramento condicional.",
+"c": false,
+"prof": "Livramento.",
+"x": "Súmula 441 do STJ.",
+"e": "Não interrompe"
+},
+{
+"p": "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime mais gravoso.",
+"c": true,
+"prof": "Progressão.",
+"x": "SV 56.",
+"e": "Falta de vaga"
+},
+{
+"p": "Admite-se a progressão de regime antes do trânsito em julgado da sentença condenatória.",
+"c": true,
+"prof": "Progressão.",
+"x": "Súmula 716 do STF.",
+"e": "Execução provisória"
+},
+{
+"p": "A regressão de regime pode ocorrer de forma per saltum.",
+"c": true,
+"prof": "Regressão.",
+"x": "Art. 118.",
+"e": "Qualquer regime"
+},
+{
+"p": "Antes da regressão por falta grave, o condenado deve ser ouvido previamente.",
+"c": true,
+"prof": "Regressão.",
+"x": "Art. 118, § 2º.",
+"e": "Oitiva"
+},
+{
+"p": "A permissão de saída é concedida pelo diretor do estabelecimento, mediante escolta.",
+"c": true,
+"prof": "Saídas.",
+"x": "Art. 120.",
+"e": "Diretor"
+},
+{
+"p": "A saída temporária pode ser concedida aos condenados em regime fechado.",
+"c": false,
+"prof": "Saídas.",
+"x": "Semiaberto.",
+"e": "Regime"
+},
+{
+"p": "Desde a Lei 14.843/2024, a saída temporária só é admitida para frequência a curso supletivo profissionalizante, de ensino médio ou superior.",
+"c": true,
+"prof": "Saídas.",
+"x": "Art. 122.",
+"e": "Estudo"
+},
+{
+"p": "Não tem direito à saída temporária o condenado que cumpre pena por crime hediondo ou cometido com violência ou grave ameaça.",
+"c": true,
+"prof": "Saídas.",
+"x": "Art. 122, § 2º.",
+"e": "Vedação"
+},
+{
+"p": "O condenado remirá 1 dia de pena a cada 3 dias de trabalho.",
+"c": true,
+"prof": "Remição.",
+"x": "Art. 126, § 1º, II.",
+"e": "Trabalho"
+},
+{
+"p": "O condenado remirá 1 dia de pena a cada 12 horas de frequência escolar, divididas em no mínimo 3 dias.",
+"c": true,
+"prof": "Remição.",
+"x": "Art. 126, § 1º, I.",
+"e": "Estudo"
+},
+{
+"p": "O condenado em regime aberto ou em livramento condicional pode remir pena pelo estudo.",
+"c": true,
+"prof": "Remição.",
+"x": "Art. 126, § 6º.",
+"e": "Aberto"
+},
+{
+"p": "A conclusão do ensino médio durante o cumprimento da pena acresce 1/3 ao tempo remido pelo estudo.",
+"c": true,
+"prof": "Remição.",
+"x": "Art. 126, § 5º.",
+"e": "Conclusão"
+},
+{
+"p": "Em caso de falta grave, o juiz deve revogar a totalidade dos dias remidos.",
+"c": false,
+"prof": "Remição.",
+"x": "Até 1/3.",
+"e": "Perda"
+},
+{
+"p": "O tempo remido é computado como pena cumprida, para todos os efeitos.",
+"c": true,
+"prof": "Remição.",
+"x": "Art. 128.",
+"e": "Cômputo"
+},
+{
+"p": "Declarar falsamente prestação de serviço para instruir pedido de remição configura falsidade ideológica.",
+"c": true,
+"prof": "Remição.",
+"x": "Art. 130.",
+"e": "Crime"
+},
+{
+"p": "O livramento condicional exige que o condenado não tenha cometido falta grave nos últimos 12 meses.",
+"c": true,
+"prof": "Livramento.",
+"x": "CP, art. 83, III, \"b\".",
+"e": "12 meses"
+},
+{
+"p": "O tempo de cumprimento das penas privativas de liberdade não pode ser superior a 40 anos.",
+"c": true,
+"prof": "Limite.",
+"x": "CP, art. 75.",
+"e": "40 anos"
+},
+{
+"p": "A pena unificada para atender ao limite do art. 75 não é considerada para a concessão de outros benefícios.",
+"c": true,
+"prof": "Limite.",
+"x": "Súmula 715 do STF.",
+"e": "Benefícios"
+},
+{
+"p": "A prisão domiciliar no regime aberto pode ser concedida ao condenado maior de 70 anos.",
+"c": true,
+"prof": "Domiciliar.",
+"x": "Art. 117.",
+"e": "70 anos"
+},
+{
+"p": "A multa é executada perante o juiz da execução penal, cabendo prioritariamente ao MP a legitimidade.",
+"c": true,
+"prof": "Multa.",
+"x": "CP, art. 51; ADI 3.150.",
+"e": "MP"
+},
+{
+"p": "Sobre o trabalho do preso, é correto afirmar:",
+"alts": [
+"está sujeito à CLT",
+"é obrigatório para o preso provisório",
+"a remuneração não pode ser inferior a 3/4 do salário mínimo",
+"a jornada é de 4 a 6 horas",
+"o trabalho externo é vedado no regime fechado"
+],
+"r": 2,
+"x": "Art. 29.",
+"n": [
+"Não está.",
+"Facultativo.",
+"Correta.",
+"6 a 8 horas.",
+"Admitido em obras públicas."
+],
+"e": "Trabalho."
+},
+{
+"p": "Constitui falta grave, nos termos do art. 50 da LEP:",
+"alts": [
+"deixar a cela desarrumada",
+"recusar-se a submeter ao procedimento de identificação do perfil genético, quando obrigatório",
+"atrasar o retorno do banho de sol",
+"falar alto no pátio",
+"receber visita fora do horário"
+],
+"r": 1,
+"x": "Art. 50, VIII.",
+"n": [
+"Falta leve ou média.",
+"Correta.",
+"Legislação local.",
+"Legislação local.",
+"Legislação local."
+],
+"e": "Faltas."
+},
+{
+"p": "A inclusão do preso no Regime Disciplinar Diferenciado",
+"alts": [
+"é decidida pelo diretor do estabelecimento",
+"tem duração máxima de 360 dias",
+"depende de decisão judicial e tem duração máxima de até 2 anos, repetível por nova falta",
+"dispensa manifestação da defesa",
+"proíbe visitas"
+],
+"r": 2,
+"x": "Arts. 52 e 54.",
+"n": [
+"Juiz.",
+"Regra antiga.",
+"Correta.",
+"Manifestação prevista.",
+"Visitas quinzenais."
+],
+"e": "RDD."
+},
+{
+"p": "Sobre as características do RDD, assinale a correta.",
+"alts": [
+"visitas semanais de 4 pessoas",
+"banho de sol de 4 horas",
+"visitas quinzenais de 2 pessoas, por 2 horas, sem contato físico",
+"cela coletiva",
+"entrevistas com o defensor monitoradas"
+],
+"r": 2,
+"x": "Art. 52, III.",
+"n": [
+"Quinzenais, 2 pessoas.",
+"2 horas.",
+"Correta.",
+"Cela individual.",
+"Exceto com o defensor."
+],
+"e": "Características."
+},
+{
+"p": "Carlos, primário, cometeu roubo com arma de fogo em julho de 2026 e foi condenado a 8 anos. Para progredir, deverá cumprir",
+"alts": [
+"16% da pena",
+"25% da pena",
+"40% da pena",
+"70% da pena",
+"1/6 da pena"
+],
+"r": 3,
+"x": "Hediondo, Lei 15.358/2026.",
+"n": [
+"Não.",
+"Crime comum com violência.",
+"Regra até 03/2026.",
+"Correta.",
+"Não."
+],
+"e": "Progressão."
+},
+{
+"p": "Segundo a Súmula Vinculante 56, a falta de estabelecimento penal adequado",
+"alts": [
+"autoriza a manutenção no regime mais grave até surgir vaga",
+"não autoriza a manutenção do condenado em regime prisional mais gravoso",
+"suspende a execução da pena",
+"gera extinção da punibilidade",
+"autoriza a progressão per saltum obrigatória"
+],
+"r": 1,
+"x": "RE 641.320.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "SV 56."
+},
+{
+"p": "A permissão de saída",
+"alts": [
+"é concedida pelo juiz, sem escolta",
+"só se aplica ao regime semiaberto",
+"é concedida pelo diretor, mediante escolta, em caso de falecimento ou doença grave de familiar ou tratamento médico",
+"tem como finalidade o estudo",
+"é vedada ao preso provisório"
+],
+"r": 2,
+"x": "Art. 120.",
+"n": [
+"Diretor, com escolta.",
+"Fechado, semiaberto e provisórios.",
+"Correta.",
+"É a saída temporária.",
+"Aplica-se."
+],
+"e": "Permissão de saída."
+},
+{
+"p": "Após a Lei 14.843/2024, a saída temporária",
+"alts": [
+"continua a ser concedida para visita à família",
+"é concedida apenas para frequência a curso, vedada a condenados por crime hediondo ou com violência ou grave ameaça",
+"foi totalmente extinta",
+"é concedida pelo diretor",
+"aplica-se ao regime fechado"
+],
+"r": 1,
+"x": "Art. 122.",
+"n": [
+"Revogada essa hipótese.",
+"Correta.",
+"Mantida para estudo.",
+"Juiz.",
+"Semiaberto."
+],
+"e": "Saída temporária."
+},
+{
+"p": "Quanto à remição, é correto afirmar:",
+"alts": [
+"1 dia de pena a cada 2 dias de trabalho",
+"1 dia a cada 8 horas de estudo",
+"1 dia de pena a cada 3 dias de trabalho ou a cada 12 horas de estudo, divididas em no mínimo 3 dias",
+"o preso em regime aberto remite por trabalho",
+"a falta grave gera perda total dos dias remidos"
+],
+"r": 2,
+"x": "Art. 126.",
+"n": [
+"3 dias.",
+"12 horas.",
+"Correta.",
+"Só por estudo.",
+"Até 1/3."
+],
+"e": "Remição."
+},
+{
+"p": "Em caso de falta grave, o juiz poderá revogar",
+"alts": [
+"todo o tempo remido",
+"metade do tempo remido",
+"até 1/3 do tempo remido, recomeçando a contagem a partir da data da infração",
+"2/3 do tempo remido",
+"nada, pois a remição é direito adquirido"
+],
+"r": 2,
+"x": "Art. 127.",
+"n": [
+"Limite de 1/3.",
+"Não.",
+"Correta.",
+"Não.",
+"Pode revogar."
+],
+"e": "Perda da remição."
+},
+{
+"p": "Assinale a súmula que trata da vedação da progressão de regime per saltum.",
+"alts": [
+"Súmula 534 do STJ",
+"Súmula 441 do STJ",
+"Súmula 491 do STJ",
+"Súmula 715 do STF",
+"Súmula Vinculante 26"
+],
+"r": 2,
+"x": "Per saltum.",
+"n": [
+"Interrupção pela falta grave.",
+"Livramento.",
+"Correta.",
+"Limite de 40 anos.",
+"Exame criminológico."
+],
+"e": "Súmulas."
+},
+{
+"p": "Sobre a falta grave e seus efeitos, é correto afirmar:",
+"alts": [
+"interrompe o prazo para livramento condicional",
+"interrompe o prazo para indulto",
+"interrompe o prazo para progressão, mas não para o livramento condicional",
+"não produz efeito algum sem condenação penal",
+"exige trânsito em julgado quando decorre de crime doloso"
+],
+"r": 2,
+"x": "Súmulas 534, 441, 535 e 526.",
+"n": [
+"Súmula 441.",
+"Súmula 535.",
+"Correta.",
+"Produz.",
+"Súmula 526."
+],
+"e": "Falta grave."
+},
+{
+"p": "O estabelecimento destinado ao cumprimento da pena em regime aberto é",
+"alts": [
+"a penitenciária",
+"a colônia agrícola",
+"a Casa do Albergado",
+"a cadeia pública",
+"o hospital de custódia"
+],
+"r": 2,
+"x": "Art. 93.",
+"n": [
+"Fechado.",
+"Semiaberto.",
+"Correta.",
+"Provisórios.",
+"Medida de segurança."
+],
+"e": "Estabelecimentos."
+},
+{
+"p": "Segundo o STF (Tema 941), a ausência de PAD para apurar falta grave",
+"alts": [
+"gera nulidade absoluta sempre",
+"é suprida pela oitiva do condenado em audiência de justificação, com defensor e MP",
+"é irrelevante, pois o diretor decide sozinho",
+"só é suprida pela confissão",
+"impede o reconhecimento da falta"
+],
+"r": 1,
+"x": "RE 972.598.",
+"n": [
+"Pode ser suprida.",
+"Correta.",
+"Exige defesa.",
+"Não.",
+"Pode ser reconhecida."
+],
+"e": "PAD."
+},
+{
+"p": "O tempo máximo de cumprimento das penas privativas de liberdade, após o Pacote Anticrime, é de",
+"alts": [
+"30 anos",
+"35 anos",
+"40 anos",
+"50 anos",
+"indeterminado"
+],
+"r": 2,
+"x": "CP, art. 75.",
+"n": [
+"Regra anterior.",
+"Não.",
+"Correta.",
+"Não.",
+"Há limite."
+],
+"e": "Limite."
+},
+{
+"p": "Havendo indícios de que o preso exerce liderança em organização criminosa com atuação em dois ou mais Estados, o RDD",
+"alts": [
+"não pode ser aplicado",
+"será cumprido na cadeia pública",
+"será cumprido obrigatoriamente em estabelecimento prisional federal",
+"dura no máximo 30 dias",
+"depende de condenação definitiva"
+],
+"r": 2,
+"x": "Art. 52, § 3º.",
+"n": [
+"Pode.",
+"Não.",
+"Correta.",
+"Até 2 anos.",
+"Não."
+],
+"e": "RDD federal."
+},
+{
+"p": "É direito do preso que pode ser suspenso ou restringido por ato motivado do diretor:",
+"alts": [
+"assistência jurídica",
+"alimentação",
+"visita do cônjuge, de parentes e amigos",
+"entrevista reservada com o advogado",
+"assistência à saúde"
+],
+"r": 2,
+"x": "Art. 41, parágrafo único.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Restrição de direitos."
+},
+{
+"p": "Não terá direito à saída temporária, após a Lei 14.843/2024, o condenado por",
+"alts": [
+"furto simples",
+"estelionato",
+"roubo",
+"apropriação indébita",
+"receptação"
+],
+"r": 2,
+"x": "Violência ou grave ameaça.",
+"n": [
+"Sem violência.",
+"Sem violência.",
+"Correta.",
+"Sem violência.",
+"Sem violência."
+],
+"e": "Vedação."
+},
+{
+"p": "O preso que ingressa com aparelho celular no presídio, sem autorização legal, comete",
+"alts": [
+"apenas falta grave",
+"o crime de favorecimento real",
+"o crime do art. 349-A do Código Penal",
+"contrabando",
+"prevaricação imprópria"
+],
+"r": 2,
+"x": "CP, art. 349-A.",
+"n": [
+"Também é crime.",
+"Não.",
+"Correta.",
+"Não.",
+"O art. 319-A é do servidor."
+],
+"e": "Celular."
+},
+{
+"p": "Assinale a alternativa correta sobre o livramento condicional.",
+"alts": [
+"exige o cumprimento de 1/6 da pena",
+"admite falta grave nos últimos 12 meses",
+"exige mais de 2/3 da pena nos crimes hediondos, vedado ao reincidente específico",
+"é concedido pelo diretor",
+"aplica-se a penas inferiores a 2 anos"
+],
+"r": 2,
+"x": "CP, art. 83.",
+"n": [
+"Não.",
+"Vedado.",
+"Correta.",
+"Juiz.",
+"Pena igual ou superior a 2 anos."
+],
+"e": "Livramento."
+}
+]
+},
+"crimes-tributarios": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>SV 24</b><span>não há crime material contra a ordem tributária antes do lançamento definitivo do tributo</span></div><div class=\"lt-stat\"><b>2 a 5</b><span>anos de reclusão: sonegação fiscal (Lei 8.137/1990, art. 1º)</span></div><div class=\"lt-stat\"><b>R$ 20 mil</b><span>limite da insignificância nos tributos federais e no descaminho, segundo STF e STJ</span></div><div class=\"lt-stat\"><b>a qualquer tempo</b><span>o pagamento integral do tributo extingue a punibilidade, segundo a Lei 10.684/2003 e o STJ</span></div></div>\n<h3>1. A Lei 8.137/1990 e o bem jurídico protegido</h3>\n<ul><li>A <b>Lei 8.137, de 27 de dezembro de 1990</b>, define os crimes contra a <b>ordem tributária</b> (arts. 1º a 3º), contra a <b>ordem econômica</b> (art. 4º) e contra as <b>relações de consumo</b> (art. 7º). Os antigos arts. 5º e 6º (ordem econômica) foram <b>revogados</b> pela Lei 12.529/2011 (Lei de Defesa da Concorrência), que também deu nova redação ao art. 4º.</li><li><b>Bem jurídico</b>: nos crimes tributários, protege-se a <b>arrecadação tributária</b> (o erário) e, de forma mais ampla, a <b>ordem tributária</b> como instrumento de financiamento das políticas públicas e de justiça fiscal. Nos crimes contra a ordem econômica, a <b>livre concorrência</b> e a livre iniciativa. Nos crimes contra as relações de consumo, os <b>direitos do consumidor</b>.</li><li><b>Sujeito ativo</b>: em regra, o <b>contribuinte</b> ou o <b>responsável tributário</b> (e quem, de fato, administra a empresa e decide sobre a sonegação). Não se admite responsabilidade penal <b>objetiva</b>: o simples fato de constar como sócio no contrato social não basta; a denúncia deve descrever a <b>conduta</b> de cada acusado, ainda que de forma sucinta nos crimes societários. O art. 3º prevê crimes <b>funcionais</b> praticados por <b>servidores</b> da administração fazendária.</li><li><b>Sujeito passivo</b>: o <b>ente tributante</b> (União, Estado, DF ou Município), conforme o tributo sonegado. Isso define a <b>competência</b>: tributos federais (IR, IPI, PIS, Cofins, contribuições previdenciárias) são julgados pela <b>Justiça Federal</b>; tributos estaduais (ICMS, IPVA) e municipais (ISS, IPTU), pela <b>Justiça Estadual</b>.</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Por que este tema cai em prova policial</b><p>As polícias civis e federal investigam sonegação, apropriação de ICMS, notas fiscais frias, fraudes em combustíveis, cartéis e crimes contra o consumidor (produtos vencidos, adulterados, preços abusivos). Além disso, a Lei 8.137 se conecta com a lavagem de dinheiro, a organização criminosa e as fraudes em licitações. As bancas cobram muito as <b>súmulas</b> (SV 24, Súmula 658 do STJ) e as regras de <b>extinção da punibilidade</b> pelo pagamento.</p></div>\n<h3>2. Crimes materiais contra a ordem tributária: art. 1º</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 8.137/1990, art. 1º</div><div class=\"art-lei\">Constitui crime contra a ordem tributária suprimir ou reduzir tributo, ou contribuição social e qualquer acessório, mediante as seguintes condutas: I, omitir informação, ou prestar declaração falsa às autoridades fazendárias; II, fraudar a fiscalização tributária, inserindo elementos inexatos, ou omitindo operação de qualquer natureza, em documento ou livro exigido pela lei fiscal; III, falsificar ou alterar nota fiscal, fatura, duplicata, nota de venda, ou qualquer outro documento relativo à operação tributável; IV, elaborar, distribuir, fornecer, emitir ou utilizar documento que saiba ou deva saber falso ou inexato; V, negar ou deixar de fornecer, quando obrigatório, nota fiscal ou documento equivalente, relativa a venda de mercadoria ou prestação de serviço, efetivamente realizada, ou fornecê-la em desacordo com a legislação. Pena: reclusão de 2 a 5 anos, e multa. Parágrafo único: a falta de atendimento da exigência da autoridade, no prazo de 10 dias, que poderá ser convertido em horas em razão da maior ou menor complexidade da matéria ou da dificuldade quanto ao atendimento da exigência, caracteriza a infração prevista no inciso V.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Núcleo: <b>suprimir ou reduzir</b> tributo (resultado)</li><li>Meios: <b>omissão</b>, <b>declaração falsa</b>, <b>fraude</b>, <b>falsificação</b>, documento <b>falso</b>, <b>não emissão de nota</b></li><li>Incisos I a IV: crimes <b>materiais</b> (exigem o resultado)</li><li>Pena de <b>reclusão de 2 a 5 anos</b></li><li>Admite <b>ANPP</b> (pena mínima inferior a 4 anos, sem violência)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que o crime do art. 1º se consuma com a simples declaração falsa, sem redução do tributo</li><li>A banca troca reclusão por detenção</li></ul></div></div>\n<ul><li><b>Natureza material e SV 24</b>: os crimes do art. 1º, I a IV, exigem a <b>efetiva supressão ou redução</b> do tributo, o que só se torna certo com o <b>lançamento definitivo</b>, ou seja, o fim do processo administrativo fiscal, quando não cabe mais recurso na esfera administrativa.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula Vinculante 24</b><p class=\"jc-tese\">\"Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei nº 8.137/90, antes do lançamento definitivo do tributo.\"</p><p class=\"jc-com\">Consequências práticas: (1) antes do lançamento definitivo, <b>não</b> se pode oferecer denúncia nem, segundo a jurisprudência majoritária, instaurar <b>inquérito</b> apenas para apurar a sonegação (salvo se houver outros crimes, como falsidade ou organização criminosa, ou se a investigação for imprescindível por embaraço à fiscalização); (2) a <b>prescrição</b> só começa a correr a partir do lançamento definitivo, porque antes não há crime; (3) se o contribuinte vence no processo administrativo e o débito é anulado, <b>não há crime</b>.</p></div>\n<ul><li><b>Inciso V e parágrafo único</b>: a não emissão de nota fiscal é tratada pela doutrina como crime <b>formal</b>, que se consuma com a recusa ou a omissão, sem necessidade de lançamento definitivo. O parágrafo único dá prazo de <b>10 dias</b> para atender à exigência da autoridade, que pode ser convertido em horas conforme a complexidade.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O crime do art. 1º, I, consuma-se com a simples prestação de declaração falsa, ainda que não haja redução do tributo</span><br>✅ <span class=\"certo\">É crime <b>material</b>: exige supressão ou redução (SV 24)</span></li><li>❌ <span class=\"banca\">A prescrição dos crimes materiais tributários corre desde a data da declaração falsa</span><br>✅ <span class=\"certo\">Corre a partir do <b>lançamento definitivo</b></span></li><li>❌ <span class=\"banca\">A SV 24 se aplica a todos os incisos do art. 1º</span><br>✅ <span class=\"certo\">Aplica-se aos incisos <b>I a IV</b>; o inciso V é tratado como formal</span></li></ol></div>\n<h3>3. Crimes formais contra a ordem tributária: art. 2º</h3>\n<ul><li><b>Art. 2º</b>: constitui crime da mesma natureza, punido com <b>detenção de 6 meses a 2 anos</b> e multa (infração de <b>menor potencial ofensivo</b>):</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Conduta</th><th>Observação</th></tr></thead><tbody><tr><td><b>I</b></td><td>fazer <b>declaração falsa</b> ou omitir declaração sobre rendas, bens ou fatos, ou empregar outra fraude, para <b>eximir-se</b>, total ou parcialmente, de pagamento de tributo</td><td>crime <b>formal</b>: basta a conduta com a finalidade (forma \"tentada\" do art. 1º)</td></tr><tr><td><b>II</b></td><td><b>deixar de recolher</b>, no prazo legal, valor de tributo ou de contribuição social, <b>descontado ou cobrado</b>, na qualidade de sujeito passivo de obrigação e que deveria recolher aos cofres públicos</td><td>a \"<b>apropriação indébita tributária</b>\"</td></tr><tr><td><b>III</b></td><td>exigir, pagar ou receber, para si ou para o contribuinte beneficiário, qualquer <b>percentagem</b> sobre a parcela dedutível ou deduzida de imposto ou de contribuição como <b>incentivo fiscal</b></td><td>–</td></tr><tr><td><b>IV</b></td><td>deixar de aplicar, ou aplicar em desacordo com o estatuído, <b>incentivo fiscal</b> ou parcelas de imposto liberadas por órgão ou entidade de desenvolvimento</td><td>–</td></tr><tr><td><b>V</b></td><td>utilizar ou divulgar <b>programa de processamento de dados</b> que permita ao sujeito passivo possuir informação contábil <b>diversa</b> daquela que é, por lei, fornecida à Fazenda Pública</td><td>o \"software de caixa dois\"</td></tr></tbody></table>\n<ul><li>Por ter pena máxima de <b>2 anos</b>, os crimes do art. 2º são de <b>menor potencial ofensivo</b>: termo circunstanciado, <b>transação penal</b> e <b>suspensão condicional do processo</b>, conforme a Lei 9.099/1995.</li></ul>\n<h3>4. A apropriação indébita tributária (art. 2º, II) e o ICMS declarado</h3>\n<ul><li>O inciso II pune quem, como <b>sujeito passivo</b> de obrigação tributária, <b>desconta ou cobra</b> o tributo de terceiro e <b>não o repassa</b> ao Fisco. O exemplo clássico é o do <b>IRRF</b> descontado do salário do empregado e não recolhido, e o do tributo retido em <b>substituição tributária</b>.</li><li>A grande discussão foi sobre o <b>ICMS próprio</b>, declarado pelo comerciante e não pago. O ICMS é embutido no preço da mercadoria e \"cobrado\" do consumidor. Seria, então, apropriação indébita tributária deixar de recolhê-lo?</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · RHC 163.334 (2019)</b><p class=\"jc-tese\">\"O contribuinte que, de forma <b>contumaz</b> e com <b>dolo de apropriação</b>, deixa de recolher o ICMS cobrado do adquirente da mercadoria ou serviço incide no tipo penal do art. 2º, II, da Lei nº 8.137/1990.\"</p><p class=\"jc-com\">O STF distinguiu o <b>inadimplente eventual</b> (empresário em dificuldade que atrasa o imposto, sem intenção de se apropriar), cuja conduta é atípica, do <b>devedor contumaz</b>, que faz do não recolhimento um modelo de negócio, geralmente com indícios como inadimplência sistemática, empresas sucessivas em nome de laranjas, ocultação de patrimônio e concorrência desleal. Para o STF, só este último comete o crime. A <b>contumácia</b> e o <b>dolo de apropriação</b> devem ser demonstrados na denúncia.</p></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 658</b><p class=\"jc-tese\">\"O crime de apropriação indébita tributária pode ocorrer tanto em operações próprias, como em razão de substituição tributária.\"</p><p class=\"jc-com\">A súmula consolidou que o tipo do art. 2º, II, não se limita à substituição tributária: o ICMS em <b>operação própria</b>, declarado e não recolhido, também pode configurar o crime, desde que presentes a contumácia e o dolo de apropriação exigidos pelo STF.</p></div>\n<ul><li><b>Apropriação indébita previdenciária</b> (CP, art. 168-A): deixar de repassar à previdência social as <b>contribuições recolhidas</b> dos contribuintes (por exemplo, descontadas dos salários dos empregados), no prazo e forma legal ou convencional. Pena: <b>reclusão de 2 a 5 anos</b> e multa. Diferentemente do art. 2º, II, da Lei 8.137 (detenção de 6 meses a 2 anos), tem pena <b>maior</b>, porque protege o sistema previdenciário. O STF entende que é crime <b>material</b> (exige a constituição definitiva do crédito, aplicando-se a lógica da SV 24) e <b>omissivo próprio</b>.</li><li><b>Sonegação de contribuição previdenciária</b> (CP, art. 337-A): suprimir ou reduzir contribuição social previdenciária mediante omissão de segurados, de receitas ou de fatos geradores em documentos de informação previdenciária. Pena: reclusão de 2 a 5 anos e multa. Também é crime <b>material</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Comparação</th><th>Lei 8.137, art. 2º, II</th><th>CP, art. 168-A</th><th>CP, art. 337-A</th></tr></thead><tbody><tr><td>Conduta</td><td>deixar de recolher tributo <b>descontado ou cobrado</b></td><td>deixar de repassar contribuições <b>previdenciárias recolhidas</b></td><td><b>suprimir ou reduzir</b> contribuição previdenciária com fraude</td></tr><tr><td>Pena</td><td>detenção de 6 meses a 2 anos</td><td>reclusão de 2 a 5 anos</td><td>reclusão de 2 a 5 anos</td></tr><tr><td>Natureza</td><td>formal, mas exige contumácia e dolo de apropriação (ICMS)</td><td>material (constituição definitiva)</td><td>material</td></tr><tr><td>Menor potencial ofensivo?</td><td><b>sim</b></td><td>não</td><td>não</td></tr></tbody></table>\n<h3>5. Crimes funcionais contra a ordem tributária: art. 3º</h3>\n<ul><li><b>Art. 3º</b>: constitui crime <b>funcional</b> contra a ordem tributária, <b>além</b> dos previstos no Código Penal:</li><li><b>I</b>, <b>extraviar</b> livro oficial, processo fiscal ou qualquer documento, de que tenha a guarda em razão da função; <b>sonegá-lo</b>, ou <b>inutilizá-lo</b>, total ou parcialmente, acarretando pagamento indevido ou inexato de tributo ou contribuição social. Pena: <b>reclusão de 3 a 8 anos</b> e multa.</li><li><b>II</b>, <b>exigir, solicitar ou receber</b>, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de iniciar seu exercício, mas em razão dela, <b>vantagem indevida</b>; ou aceitar promessa de tal vantagem, para <b>deixar de lançar ou cobrar</b> tributo ou contribuição social, ou cobrá-los parcialmente. Pena: <b>reclusão de 3 a 8 anos</b> e multa. É uma forma <b>especial</b> de corrupção passiva e de concussão, aplicável ao <b>fiscal de tributos</b>.</li><li><b>III</b>, <b>patrocinar</b>, direta ou indiretamente, interesse privado perante a administração fazendária, valendo-se da qualidade de funcionário público. Pena: <b>reclusão de 1 a 4 anos</b> e multa. É a forma especial da <b>advocacia administrativa</b> (CP, art. 321).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O fiscal que recebe propina para não lançar o tributo comete corrupção passiva do CP</span><br>✅ <span class=\"certo\">Comete o crime <b>especial</b> do art. 3º, II, da Lei 8.137</span></li><li>❌ <span class=\"banca\">O servidor da Fazenda que patrocina interesse privado perante o fisco comete advocacia administrativa do CP</span><br>✅ <span class=\"certo\">Comete o crime <b>especial</b> do art. 3º, III</span></li><li>❌ <span class=\"banca\">Os crimes do art. 3º podem ser praticados por qualquer pessoa</span><br>✅ <span class=\"certo\">São <b>funcionais</b>: exigem a qualidade de funcionário (admitida a participação do particular que conheça essa condição)</span></li></ol></div>\n<h3>6. Crimes contra a ordem econômica: art. 4º</h3>\n<ul><li><b>Art. 4º</b> (redação da Lei 12.529/2011): constitui crime contra a ordem econômica: <b>I</b>, <b>abusar do poder econômico</b>, dominando o mercado ou eliminando, total ou parcialmente, a concorrência mediante qualquer forma de ajuste ou acordo de empresas; <b>II</b>, formar <b>acordo, convênio, ajuste ou aliança entre ofertantes</b>, visando: a) à fixação artificial de <b>preços</b> ou <b>quantidades</b> vendidas ou produzidas; b) ao controle regionalizado do mercado por empresa ou grupo de empresas; c) ao controle, em detrimento da concorrência, de rede de distribuição ou de fornecedores. Pena: <b>reclusão de 2 a 5 anos</b> e multa.</li><li>O inciso II é o crime de <b>cartel</b>, típico em postos de combustíveis, licitações e fornecimento de insumos. A investigação costuma ocorrer em conjunto com o <b>CADE</b> (que apura a infração administrativa) e o MP.</li><li><b>Acordo de leniência</b> (Lei 12.529/2011, arts. 86 e 87): nos crimes contra a ordem econômica, a celebração de acordo de leniência com o CADE <b>suspende</b> o prazo prescricional e <b>impede</b> o oferecimento da denúncia em relação ao agente beneficiário; cumprido o acordo, <b>extingue-se automaticamente a punibilidade</b> dos crimes contra a ordem econômica e de outros diretamente relacionados à prática de <b>cartel</b> (como fraude a licitação e associação criminosa).</li><li><b>Outras leis</b>: a <b>Lei 8.176/1991</b> define crimes contra a ordem econômica relacionados a <b>combustíveis</b> (adquirir, distribuir e revender derivados de petróleo em desacordo com as normas, art. 1º) e a <b>usurpação de bens da União</b> (explorar matéria-prima pertencente à União sem autorização, art. 2º). A <b>Lei 1.521/1951</b> define crimes contra a <b>economia popular</b> (como a <b>usura</b> e as \"pirâmides financeiras\", segundo a jurisprudência do STJ, de competência estadual).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · pirâmide financeira e criptomoedas</b><p class=\"jc-tese\">O STJ entende que a captação de recursos do público em esquemas de <b>pirâmide financeira</b>, inclusive os disfarçados de investimento em <b>criptomoedas</b>, configura, em regra, <b>crime contra a economia popular</b> (Lei 1.521/1951, art. 2º, IX), de competência da <b>Justiça Estadual</b>, e não crime contra o sistema financeiro nacional (federal), salvo quando houver oferta pública de valores mobiliários sem registro ou operação de instituição financeira clandestina.</p><p class=\"jc-com\">A distinção é importante para definir a polícia (civil ou federal) e o juízo competentes. Esquemas grandes podem envolver também <b>estelionato</b>, <b>lavagem</b> e <b>organização criminosa</b>.</p></div>\n<h3>7. Crimes contra as relações de consumo: art. 7º</h3>\n<ul><li><b>Art. 7º</b>: constitui crime contra as relações de consumo, punido com <b>detenção de 2 a 5 anos</b> ou multa:</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Conduta (síntese)</th></tr></thead><tbody><tr><td><b>I</b></td><td><b>favorecer</b> ou preferir, sem justa causa, comprador ou freguês, ressalvados os sistemas de entrega ao consumo por intermédio de distribuidores ou revendedores</td></tr><tr><td><b>II</b></td><td>vender ou expor à venda mercadoria cuja embalagem, tipo, especificação, peso ou composição esteja em <b>desacordo</b> com as prescrições legais, ou que não corresponda à respectiva classificação oficial</td></tr><tr><td><b>III</b></td><td><b>misturar</b> gêneros e mercadorias de espécies diferentes, para vendê-los como puros; misturar gêneros e mercadorias de qualidades desiguais para vendê-los pelo preço estabelecido para os de mais alto custo</td></tr><tr><td><b>IV</b></td><td><b>fraudar preços</b> por meio de alteração, sem modificação essencial ou de qualidade, de elementos tais como denominação, sinal externo, marca, embalagem, especificação técnica, volume, peso, pintura ou acabamento; divisão em partes de bem ou serviço habitualmente oferecido à venda em conjunto; junção de bens ou serviços comumente oferecidos à venda em separado; aviso de inclusão de insumo não empregado na produção do bem ou na prestação dos serviços</td></tr><tr><td><b>V</b></td><td><b>elevar o valor cobrado</b> nas vendas a prazo de bens ou serviços, mediante a exigência de comissão ou de taxa de juros ilegais</td></tr><tr><td><b>VI</b></td><td><b>sonegar insumos</b> ou bens, recusando-se a vendê-los a quem pretenda comprá-los nas condições publicamente ofertadas, ou retê-los para o fim de especulação</td></tr><tr><td><b>VII</b></td><td><b>induzir o consumidor</b> ou usuário a erro, por via de indicação ou afirmação falsa ou enganosa sobre a natureza, qualidade do bem ou serviço, utilizando-se de qualquer meio, inclusive a veiculação ou divulgação publicitária</td></tr><tr><td><b>VIII</b></td><td><b>destruir</b>, inutilizar ou danificar matéria-prima ou mercadoria, com o fim de provocar alta de preço, em proveito próprio ou de terceiros</td></tr><tr><td><b>IX</b></td><td>vender, ter em depósito para vender ou expor à venda ou, de qualquer forma, entregar matéria-prima ou mercadoria, em <b>condições impróprias ao consumo</b></td></tr></tbody></table>\n<ul><li><b>Parágrafo único</b>: nas hipóteses dos incisos <b>II, III e IX</b>, pune-se a modalidade <b>culposa</b>, reduzindo-se a pena de detenção de <b>1/3</b> ou a de multa à <b>quinta parte</b>.</li><li><b>Inciso IX e o produto vencido</b>: o conceito de \"impróprio ao consumo\" é dado pelo <b>CDC, art. 18, § 6º</b> (produtos com prazo de validade vencido; deteriorados, alterados, adulterados, avariados, falsificados, corrompidos, fraudados, nocivos à vida ou à saúde; em desacordo com as normas de fabricação; ou que, por qualquer motivo, se revelem inadequados ao fim a que se destinam). A jurisprudência do STJ oscilou sobre a necessidade de <b>perícia</b> para comprovar a impropriedade: há precedentes que a exigem, por se tratar de crime que deixa vestígios, e outros que a dispensam quando o produto está com a <b>validade vencida</b>, por ser a impropriedade presumida pela norma. Em provas, observe se a questão cobra a letra do CDC ou a jurisprudência e sinalize a divergência.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Supermercado com produtos vencidos</b><p>Em fiscalização conjunta com o Procon, a polícia encontra, na gôndola de um supermercado, 40 kg de carne com validade vencida havia uma semana. Qual o crime? Quem responde?</p><details><summary>Ver a solução comentada</summary><p><b>Art. 7º, IX</b>, da Lei 8.137 (expor à venda mercadoria em condições impróprias ao consumo), detenção de 2 a 5 anos ou multa, com possível aumento do <b>art. 12, III</b> (bens essenciais à vida ou à saúde). Responde quem tinha o <b>domínio</b> da conduta (gerente, responsável pelo setor), não automaticamente o dono da empresa. A apreensão deve ser documentada e, por cautela, submetida a <b>perícia</b> ou laudo da vigilância sanitária. Se o produto fosse apenas mal armazenado por descuido, poderia haver a modalidade <b>culposa</b> (parágrafo único).</p></details></div>\n<ul><li><b>Crimes do CDC</b> (Lei 8.078/1990, arts. 61 a 80): por exemplo, <b>omitir dizeres ou sinais ostensivos</b> sobre a nocividade ou periculosidade de produtos (art. 63); deixar de comunicar à autoridade competente e aos consumidores a nocividade de produtos cujo conhecimento seja posterior à colocação no mercado (art. 64, o \"recall\"); fazer <b>publicidade enganosa ou abusiva</b> (art. 67); empregar, na cobrança de dívidas, <b>ameaça, coação, constrangimento</b> físico ou moral ou expor o consumidor ao ridículo (art. 71); impedir o acesso do consumidor às informações que sobre ele constem em cadastros (art. 72). São crimes de menor potencial, em regra, e se aplicam <b>subsidiariamente</b> em relação à Lei 8.137 quando houver conflito.</li></ul>\n<h3>8. Disposições comuns: arts. 11 a 16</h3>\n<ul><li><b>Art. 11</b>: quem, de qualquer modo, <b>inclusive por meio de pessoa jurídica</b>, concorre para os crimes definidos nesta lei, incide nas penas a estes cominadas, na medida de sua culpabilidade. A pessoa jurídica <b>não</b> é sujeito ativo desses crimes (a CF só prevê a responsabilidade penal da pessoa jurídica nos crimes <b>ambientais</b> e, em tese, contra a ordem econômica e financeira, mas esta última ainda não foi regulamentada); respondem as <b>pessoas físicas</b> que agem por meio dela.</li><li><b>Art. 12</b> (causas de aumento de <b>1/3 até a metade</b>, nos arts. 1º, 2º e 4º a 7º): I, ocasionar <b>grave dano à coletividade</b>; II, ser o crime cometido por <b>servidor público</b> no exercício de suas funções; III, ser o crime praticado em relação à prestação de serviços ou ao comércio de bens <b>essenciais à vida ou à saúde</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · grave dano à coletividade</b><p class=\"jc-tese\">O STJ entende que a causa de aumento do art. 12, I, pode ser aplicada aos crimes tributários quando o valor sonegado for <b>expressivo</b>, usando como parâmetro, por exemplo, os critérios de <b>grandes devedores</b> definidos pela legislação fiscal (débitos superiores a valores fixados em portarias da Fazenda).</p><p class=\"jc-com\">A aplicação exige fundamentação concreta sobre o vulto do prejuízo. O valor do tributo sonegado também pode ser usado para elevar a <b>pena-base</b> (consequências do crime), mas não duas vezes (pena-base e causa de aumento) pelo mesmo fundamento.</p></div>\n<ul><li><b>Art. 15</b>: os crimes previstos nesta lei são de <b>ação penal pública</b> (incondicionada).</li><li><b>Art. 16 (delação)</b>: qualquer pessoa poderá provocar a iniciativa do MP nos crimes descritos nesta lei, fornecendo-lhe por escrito informações sobre o fato e a autoria, bem como indicando o tempo, o lugar e os elementos de convicção. <b>Parágrafo único</b>: nos crimes previstos nesta lei, cometidos em <b>quadrilha ou coautoria</b>, o coautor ou partícipe que, através de <b>confissão espontânea</b>, revelar à autoridade policial ou judicial <b>toda a trama delituosa</b> terá a sua pena <b>reduzida de 1/3 a 2/3</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A pessoa jurídica pode ser condenada por sonegação fiscal</span><br>✅ <span class=\"certo\">Respondem as <b>pessoas físicas</b> que agem por meio dela (art. 11)</span></li><li>❌ <span class=\"banca\">Os crimes da Lei 8.137 dependem de representação da Fazenda</span><br>✅ <span class=\"certo\">São de ação penal <b>pública incondicionada</b> (art. 15)</span></li><li>❌ <span class=\"banca\">A delação do art. 16 exige acordo homologado</span><br>✅ <span class=\"certo\">Exige <b>confissão espontânea</b> que revele toda a trama; redução de 1/3 a 2/3</span></li></ol></div>\n<h3>9. Extinção da punibilidade pelo pagamento e parcelamento</h3>\n<ul><li>A política criminal tributária brasileira privilegia a <b>arrecadação</b>: o pagamento do tributo extingue a punibilidade, e o parcelamento a suspende. As regras vieram em leis sucessivas, e a jurisprudência construiu o entendimento atual.</li></ul>\n<table class=\"tab\"><thead><tr><th>Lei</th><th>Regra</th></tr></thead><tbody><tr><td><b>Lei 9.249/1995, art. 34</b></td><td>extingue-se a punibilidade quando o agente promover o <b>pagamento</b> do tributo, inclusive acessórios, <b>antes do recebimento da denúncia</b></td></tr><tr><td><b>Lei 10.684/2003, art. 9º</b></td><td>suspende-se a pretensão punitiva durante o período em que a pessoa jurídica estiver incluída no <b>parcelamento</b>; extingue-se a punibilidade quando a pessoa jurídica efetuar o <b>pagamento integral</b> dos débitos (§ 2º), <b>sem limite temporal</b> expresso</td></tr><tr><td><b>Lei 11.941/2009, arts. 68 e 69</b></td><td>mesma lógica para os parcelamentos daquela lei</td></tr><tr><td><b>Lei 12.382/2011</b> (Lei 9.430/1996, art. 83, §§ 2º a 6º)</td><td>a suspensão pelo parcelamento só ocorre se o pedido for formalizado <b>antes do recebimento da denúncia</b>; o pagamento integral extingue a punibilidade</td></tr></tbody></table>\n<ul><li><b>Pagamento a qualquer tempo</b>: a jurisprudência do <b>STF</b> e do <b>STJ</b> entende que o <b>pagamento integral</b> do débito tributário extingue a punibilidade <b>a qualquer tempo</b>, inclusive <b>após o trânsito em julgado</b> da condenação, com base no art. 9º, § 2º, da Lei 10.684/2003, que não fixa limite temporal. Já o <b>parcelamento</b> só suspende a pretensão punitiva se requerido <b>antes do recebimento da denúncia</b> (Lei 12.382/2011).</li><li><b>Alcance</b>: a extinção pelo pagamento abrange os crimes dos arts. 1º e 2º da Lei 8.137 e dos arts. 168-A e 337-A do CP. Não se aplica ao <b>descaminho</b> (CP, art. 334), segundo o STJ, por se tratar de crime que tutela também a ordem econômica e o controle aduaneiro, e não apenas a arrecadação; nem ao <b>contrabando</b>.</li><li><b>Prescrição durante o parcelamento</b>: enquanto a pretensão punitiva está suspensa pelo parcelamento, também fica <b>suspenso o prazo prescricional</b> (Lei 9.430, art. 83, § 3º).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · críticas à extinção pelo pagamento</b><p class=\"jc-tese\">A doutrina critica a regra porque ela trata o crime tributário como mera \"cobrança armada\": o sonegador que é descoberto paga e fica impune, enquanto o autor de um furto de pequeno valor não tem a mesma possibilidade (no furto, a reparação do dano gera apenas arrependimento posterior, com redução de pena, CP, art. 16). O STF considera a regra constitucional, como opção legítima de política criminal.</p><p class=\"jc-com\">Para a prova: (1) <b>pagamento integral</b> extingue a punibilidade <b>a qualquer tempo</b>; (2) <b>parcelamento</b> suspende a pretensão punitiva e a prescrição, se pedido <b>antes do recebimento da denúncia</b>; (3) a regra <b>não</b> vale para o descaminho e o contrabando.</p></div>\n<h3>10. Representação fiscal, investigação e competência</h3>\n<ul><li><b>Representação fiscal para fins penais</b> (Lei 9.430/1996, art. 83): a representação da Receita sobre crimes contra a ordem tributária será encaminhada ao MP <b>depois de proferida a decisão final</b>, na esfera administrativa, sobre a exigência fiscal do crédito tributário correspondente. O STF (ADI 1.571) entendeu que essa regra se dirige à <b>administração</b>, e <b>não</b> é condição de procedibilidade da ação penal: o MP pode agir com base em outros elementos, desde que respeitada a SV 24 nos crimes materiais.</li><li><b>Investigação antes do lançamento</b>: a jurisprudência admite a instauração de inquérito antes do lançamento definitivo quando houver <b>outros crimes</b> a apurar (falsidade, organização criminosa, lavagem) ou quando a investigação for necessária para viabilizar o próprio lançamento (por exemplo, quando o contribuinte <b>embaraça</b> a fiscalização, ocultando livros e documentos).</li><li><b>Compartilhamento de dados</b>: a Receita Federal pode compartilhar com o MP e a polícia, sem ordem judicial, a íntegra do procedimento fiscalizatório (STF, Tema 990). A quebra de sigilo bancário para fins penais, porém, exige ordem judicial (LC 105/2001).</li><li><b>Competência</b>: tributos <b>federais</b> → <b>Justiça Federal</b> (e investigação pela Polícia Federal); tributos <b>estaduais e municipais</b> → <b>Justiça Estadual</b> (Polícia Civil, geralmente em delegacias especializadas em crimes fazendários). Crimes contra as relações de consumo e a economia popular → <b>Justiça Estadual</b>, em regra.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF e STJ · princípio da insignificância nos crimes tributários federais e no descaminho</b><p class=\"jc-tese\">Aplica-se o princípio da insignificância aos crimes tributários <b>federais</b> e ao <b>descaminho</b> quando o valor do tributo sonegado não ultrapassar <b>R$ 20.000,00</b>, valor fixado pelas Portarias 75 e 130/2012 do Ministério da Fazenda para o ajuizamento de execuções fiscais (STJ, Tema 157 revisado; STF).</p><p class=\"jc-com\">Limites: (1) para tributos <b>estaduais e municipais</b>, aplica-se o valor que a <b>lei local</b> fixar para dispensa de execução fiscal, se houver (STJ); (2) a <b>reiteração</b> delitiva (habitualidade) afasta, em regra, a insignificância, mesmo abaixo do limite; (3) <b>não</b> se aplica ao <b>contrabando</b> (mercadoria proibida, como cigarros), porque o bem jurídico é a saúde e a segurança pública; (4) não se aplica à apropriação indébita previdenciária, segundo parte da jurisprudência, pela natureza do bem jurídico.</p></div>\n<h3>11. Descaminho e contrabando: comparação necessária</h3>\n<table class=\"tab\"><thead><tr><th>Crime</th><th>Descaminho (CP, art. 334)</th><th>Contrabando (CP, art. 334-A)</th></tr></thead><tbody><tr><td>Objeto</td><td>mercadoria <b>permitida</b>, com ilusão do pagamento de tributo</td><td>mercadoria <b>proibida</b> (absoluta ou relativamente)</td></tr><tr><td>Pena</td><td>reclusão de <b>1 a 4 anos</b></td><td>reclusão de <b>2 a 5 anos</b></td></tr><tr><td>Natureza</td><td>crime <b>formal</b> (não exige constituição definitiva do crédito, STJ)</td><td>formal</td></tr><tr><td>Insignificância</td><td><b>sim</b>, até R$ 20 mil, salvo habitualidade</td><td><b>não</b>, em regra (cigarros, medicamentos)</td></tr><tr><td>Extinção pelo pagamento</td><td><b>não</b> se aplica (STJ)</td><td>não</td></tr><tr><td>Competência</td><td>Justiça <b>Federal</b></td><td>Justiça <b>Federal</b></td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 151 e o descaminho</b><p class=\"jc-tese\">Súmula 151 do STJ: \"A competência para o processo e julgamento por crime de contrabando ou descaminho define-se pela prevenção do Juízo Federal do lugar da apreensão dos bens.\"</p><p class=\"jc-com\">O STJ também firmou que o descaminho é crime <b>formal</b>, que se consuma com a ilusão do tributo, sem necessidade de constituição definitiva do crédito (não se aplica a SV 24). Para a importação de <b>cigarros</b>, a regra é o <b>contrabando</b>, sem insignificância, salvo em situações excepcionais de quantidade ínfima para uso próprio reconhecidas por alguns julgados.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A SV 24 se aplica ao descaminho</span><br>✅ <span class=\"certo\">O descaminho é crime <b>formal</b>; não exige lançamento definitivo (STJ)</span></li><li>❌ <span class=\"banca\">O pagamento do tributo extingue a punibilidade no descaminho</span><br>✅ <span class=\"certo\"><b>Não</b> se aplica ao descaminho (STJ)</span></li><li>❌ <span class=\"banca\">A insignificância se aplica ao contrabando de cigarros até R$ 20 mil</span><br>✅ <span class=\"certo\">Em regra, <b>não</b> se aplica ao contrabando</span></li></ol></div>\n<h3>12. As modalidades de sonegação na prática</h3>\n<ul><li><b>Omissão de receitas</b> (art. 1º, I e II): a empresa vende sem registrar parte das operações (\"caixa dois\"), deposita o dinheiro em contas de sócios ou de terceiros e declara faturamento menor. A Receita costuma identificar a omissão cruzando informações de cartões de crédito, de Pix e de notas emitidas por fornecedores, e pela movimentação bancária incompatível (presunção legal de omissão de receitas, Lei 9.430/1996, art. 42).</li><li><b>Despesas fictícias</b> (art. 1º, II e IV): lançamento de notas de serviços não prestados (consultorias inexistentes, \"notas frias\") para reduzir o lucro tributável. As empresas emissoras, geralmente de fachada, cobram uma \"taxa\" sobre o valor da nota.</li><li><b>Subfaturamento e superfaturamento</b>: declarar valores menores na importação (para pagar menos tributo aduaneiro) ou maiores em operações internas (para gerar créditos indevidos de ICMS). Podem configurar descaminho (importação) ou crimes da Lei 8.137 (operações internas).</li><li><b>Créditos fictícios de ICMS</b>: aquisição de notas de empresas \"noteiras\" para gerar créditos sem que tenha havido circulação de mercadoria. É uma das fraudes mais comuns nos Estados e costuma envolver <b>organizações criminosas</b> com contadores, despachantes e laranjas.</li><li><b>Interposição de pessoas</b> (\"laranjas\"): o verdadeiro dono da empresa usa terceiros como sócios formais, para não responder pelas dívidas e pelos crimes. A investigação deve identificar o <b>administrador de fato</b>, que é quem responde penalmente.</li><li><b>Planejamento tributário x sonegação</b>: o <b>planejamento tributário lícito</b> (elisão) usa meios legais para pagar menos tributo, antes da ocorrência do fato gerador (escolher o regime tributário, organizar a empresa em determinado Estado). A <b>sonegação</b> (evasão) usa <b>fraude</b>, simulação ou omissão após o fato gerador. Planejamentos considerados <b>abusivos</b> pelo Fisco podem gerar autuação, mas só configuram crime se houver fraude ou simulação dolosa.</li></ul>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>Elisão (lícita)</th><th>Evasão (ilícita)</th></tr></thead><tbody><tr><td>Momento</td><td>antes do fato gerador</td><td>depois do fato gerador</td></tr><tr><td>Meio</td><td>meios legais</td><td>fraude, simulação, omissão</td></tr><tr><td>Consequência</td><td>nenhuma, ou autuação se abusiva</td><td>autuação e crime (Lei 8.137)</td></tr></tbody></table>\n<h3>13. Crimes tributários e empresas: autoria e responsabilidade</h3>\n<ul><li><b>Crimes societários</b>: nos crimes praticados por meio de empresas, a jurisprudência admite denúncia com descrição <b>menos minuciosa</b> da conduta de cada sócio (a chamada denúncia <b>geral</b>), desde que haja vínculo mínimo entre o acusado e o fato (por exemplo, ser o administrador responsável pelas decisões fiscais à época). O que é vedado é a denúncia <b>genérica</b>, que imputa o crime a todos os sócios apenas por constarem no contrato social, sem qualquer indicação de participação.</li><li><b>Teoria do domínio do fato</b>: pode ajudar a identificar como <b>autor</b> quem detém o controle sobre a realização do crime (o dono que determina a sonegação), mas não autoriza condenar alguém apenas pela posição hierárquica, sem prova de que conhecia e controlava a conduta.</li><li><b>Contador</b>: o contador que, consciente da fraude, elabora a escrituração falsa responde como <b>coautor ou partícipe</b>. O mero erro técnico, sem dolo, não é crime.</li><li><b>Compliance</b>: programas de integridade e controles internos não excluem, por si, a responsabilidade dos dirigentes, mas ajudam a demonstrar ausência de dolo e a identificar responsáveis. Nas investigações, os registros do compliance podem ser fonte de prova.</li><li><b>Lavagem de dinheiro</b>: o produto da sonegação pode ser objeto de <b>lavagem</b> (Lei 9.613/1998), já que, desde 2012, qualquer infração penal pode ser antecedente. A jurisprudência discute se o valor <b>economizado</b> com a sonegação (o tributo não pago) é \"produto\" do crime apto a ser lavado; prevalece que, havendo ocultação ou dissimulação dos valores sonegados (por exemplo, remessas ao exterior por meio de offshores), pode haver lavagem.</li></ul>\n<h3>14. Prova pericial e prescrição</h3>\n<ul><li><b>Prova da materialidade</b>: nos crimes do art. 1º, a materialidade é demonstrada pelo <b>lançamento definitivo</b> (auto de infração mantido no processo administrativo). O juiz não precisa refazer a apuração fiscal, mas a defesa pode impugnar o lançamento e pedir <b>perícia contábil</b> para demonstrar erro no cálculo ou inexistência de fraude.</li><li><b>Valor do tributo e pena</b>: o montante sonegado é critério para a <b>pena-base</b> (consequências do crime) e para a causa de aumento do art. 12, I (grave dano à coletividade). Para fins de insignificância, considera-se o valor do <b>tributo</b> (principal), sem juros e multas, segundo a jurisprudência predominante.</li><li><b>Prescrição</b>: nos crimes materiais, o prazo começa no <b>lançamento definitivo</b> (SV 24); nos formais (art. 2º), na data da conduta; e fica suspenso durante o <b>parcelamento</b>. Como a pena máxima do art. 1º é de 5 anos, a prescrição em abstrato ocorre em <b>12 anos</b> (CP, art. 109, III); no art. 2º, com pena máxima de 2 anos, em <b>4 anos</b> (art. 109, V).</li><li><b>Continuidade delitiva</b>: a sonegação em vários meses ou exercícios costuma ser tratada como <b>crime continuado</b> (CP, art. 71), com aumento conforme o número de infrações, o que reduz a pena em relação ao concurso material.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A denúncia em crime societário pode ser genérica, imputando o crime a todos os sócios sem descrever nenhum vínculo</span><br>✅ <span class=\"certo\">É vedada a denúncia <b>genérica</b>; admite-se a denúncia <b>geral</b> com vínculo mínimo</span></li><li>❌ <span class=\"banca\">Planejamento tributário lícito configura crime contra a ordem tributária</span><br>✅ <span class=\"certo\">Elisão lícita não é crime; crime exige <b>fraude</b> (evasão)</span></li><li>❌ <span class=\"banca\">Para a insignificância, soma-se o tributo com juros e multa</span><br>✅ <span class=\"certo\">Considera-se, em regra, o valor do <b>tributo</b> devido</span></li></ol></div>\n<h3>15. Crimes contra o consumidor no Código de Defesa do Consumidor</h3>\n<table class=\"tab\"><thead><tr><th>Art. do CDC</th><th>Conduta (síntese)</th><th>Pena</th></tr></thead><tbody><tr><td><b>63</b></td><td>omitir dizeres ou sinais ostensivos sobre a <b>nocividade ou periculosidade</b> de produtos, nas embalagens, invólucros, recipientes ou publicidade</td><td>detenção de 6 meses a 2 anos e multa (culposo: 1 a 6 meses ou multa)</td></tr><tr><td><b>64</b></td><td>deixar de comunicar à autoridade competente e aos consumidores a nocividade ou periculosidade de produtos cujo conhecimento seja <b>posterior</b> à sua colocação no mercado (o \"recall\")</td><td>detenção de 6 meses a 2 anos e multa</td></tr><tr><td><b>65</b></td><td>executar <b>serviço de alto grau de periculosidade</b>, contrariando determinação de autoridade competente</td><td>detenção de 6 meses a 2 anos e multa</td></tr><tr><td><b>66</b></td><td>fazer <b>afirmação falsa ou enganosa</b>, ou omitir informação relevante sobre a natureza, característica, qualidade, quantidade, segurança, desempenho, durabilidade, preço ou garantia de produtos ou serviços</td><td>detenção de 3 meses a 1 ano e multa</td></tr><tr><td><b>67</b></td><td>fazer ou promover <b>publicidade</b> que sabe ou deveria saber ser <b>enganosa ou abusiva</b></td><td>detenção de 3 meses a 1 ano e multa</td></tr><tr><td><b>68</b></td><td>publicidade capaz de induzir o consumidor a se comportar de forma <b>prejudicial ou perigosa</b> à sua saúde ou segurança</td><td>detenção de 6 meses a 2 anos e multa</td></tr><tr><td><b>71</b></td><td>utilizar, na <b>cobrança de dívidas</b>, ameaça, coação, constrangimento físico ou moral, afirmações falsas ou exposição do consumidor ao <b>ridículo</b></td><td>detenção de 3 meses a 1 ano e multa</td></tr><tr><td><b>72</b></td><td>impedir ou dificultar o <b>acesso</b> do consumidor às informações que sobre ele constem em cadastros</td><td>detenção de 6 meses a 1 ano ou multa</td></tr><tr><td><b>73</b></td><td>deixar de <b>corrigir</b> imediatamente informação sobre consumidor que sabe ser inexata</td><td>detenção de 1 a 6 meses ou multa</td></tr><tr><td><b>74</b></td><td>deixar de entregar ao consumidor o <b>termo de garantia</b> adequadamente preenchido</td><td>detenção de 1 a 6 meses ou multa</td></tr></tbody></table>\n<ul><li><b>Concurso aparente</b>: quando a mesma conduta se enquadra no CDC e na Lei 8.137 (por exemplo, afirmação falsa sobre o produto, CDC, art. 66, e Lei 8.137, art. 7º, VII), aplica-se o princípio da <b>especialidade</b> ou da <b>subsidiariedade</b>, prevalecendo, em regra, o tipo mais específico ou mais grave. A doutrina diverge, e as bancas costumam cobrar a letra de cada lei separadamente.</li><li><b>Agravantes do CDC</b> (art. 76): crimes cometidos em época de grave crise econômica ou por ocasião de calamidade; que ocasionem grave dano individual ou coletivo; dissimulando-se a natureza ilícita do procedimento; quando cometidos por servidor público ou por pessoa cuja condição econômico-social seja manifestamente superior à da vítima; ou em detrimento de operário ou rurícola, de menor de 18 ou maior de 60 anos, de pessoas com deficiência mental, interditadas ou não; e quando envolverem produtos ou serviços essenciais.</li></ul>\n<h3>16. Crimes contra a economia popular (Lei 1.521/1951)</h3>\n<ul><li>A Lei 1.521/1951 continua em vigor nas partes não revogadas e é usada, sobretudo, para a <b>usura</b> e para as <b>fraudes coletivas</b>.</li><li><b>Usura pecuniária</b> (art. 4º): cobrar juros, comissões ou descontos percentuais, sobre dívidas em dinheiro, <b>superiores à taxa permitida por lei</b>, ou obter lucro patrimonial que exceda o quinto do valor corrente ou justo da prestação feita ou prometida, abusando da premente necessidade, inexperiência ou leviandade da outra parte (usura real). Pena: detenção de 6 meses a 2 anos e multa. É o crime do \"<b>agiota</b>\", frequentemente associado a <b>extorsão</b> e <b>cárcere privado</b> nas cobranças.</li><li><b>Pirâmides e correntes</b> (art. 2º, IX): obter ou tentar obter ganhos ilícitos em detrimento do povo ou de número indeterminado de pessoas mediante especulações ou processos fraudulentos (\"<b>bola de neve</b>\", \"<b>cadeias</b>\", \"<b>pichardismo</b>\" e quaisquer outros equivalentes). É a base da tipificação das <b>pirâmides financeiras</b>, inclusive com criptoativos, segundo o STJ.</li><li><b>Competência</b>: os crimes contra a economia popular são da <b>Justiça Estadual</b> (Súmula 498 do STF: \"Compete à justiça dos estados, em ambas as instâncias, o processo e o julgamento dos crimes contra a economia popular\").</li></ul>\n<h3>17. Linha do tempo e questões comentadas</h3>\n<div class=\"lt-fluxo\"><span>1951: Lei de Economia Popular</span> <em>→</em> <span>1965: Lei 4.729 (sonegação fiscal, hoje superada)</span> <em>→</em> <span>1990: Lei 8.137 e CDC</span> <em>→</em> <span>1995: pagamento antes da denúncia extingue (Lei 9.249)</span> <em>→</em> <span>2003: pagamento integral extingue a qualquer tempo (Lei 10.684)</span> <em>→</em> <span>2009: STF edita a SV 24</span> <em>→</em> <span>2011: Lei 12.382 (parcelamento só antes da denúncia) e Lei 12.529 (novo art. 4º, leniência)</span> <em>→</em> <span>2018: insignificância de R$ 20 mil (STJ, Tema 157 revisado)</span> <em>→</em> <span>2019: STF e o ICMS declarado (RHC 163.334)</span> <em>→</em> <span>2019: STF, Tema 990 (compartilhamento de dados)</span> <em>→</em> <span>2022: STJ, Súmula 658</span></div>\n<ul><li><b>\"Antes do lançamento definitivo, o MP pode oferecer denúncia por sonegação, se houver prova robusta da fraude.\"</b> Errado: SV 24.</li><li><b>\"O inadimplemento eventual do ICMS próprio, devidamente declarado, configura crime de apropriação indébita tributária.\"</b> Errado: exige contumácia e dolo de apropriação (RHC 163.334).</li><li><b>\"O pagamento integral do débito, mesmo após o trânsito em julgado, extingue a punibilidade dos crimes da Lei 8.137.\"</b> Certo, segundo STF e STJ.</li><li><b>\"O parcelamento do débito, ainda que requerido após o recebimento da denúncia, suspende a pretensão punitiva.\"</b> Errado: desde a Lei 12.382/2011, só se requerido <b>antes</b> do recebimento.</li><li><b>\"Os crimes contra a economia popular são de competência da Justiça Federal.\"</b> Errado: Súmula 498 do STF (Justiça Estadual).</li><li><b>\"O descaminho é crime material, aplicando-se a SV 24.\"</b> Errado: é formal (STJ).</li><li><b>\"O fiscal que exige propina para não lançar tributo comete concussão (CP, art. 316).\"</b> Errado: crime especial do art. 3º, II, da Lei 8.137.</li><li><b>\"Vender produto com prazo de validade vencido pode configurar crime contra as relações de consumo.\"</b> Certo: art. 7º, IX, c/c CDC, art. 18, § 6º.</li><li><b>\"A Lei 8.137 prevê redução de pena para o coautor que, por confissão espontânea, revelar à autoridade toda a trama delituosa.\"</b> Certo: art. 16, parágrafo único (1/3 a 2/3).</li><li><b>\"A pessoa jurídica responde penalmente pelos crimes contra a ordem tributária.\"</b> Errado: respondem as pessoas físicas que agem por meio dela (art. 11).</li></ul>\n<h3>18. Mais casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Agiota e cobrança violenta</b><p>Um homem empresta dinheiro a juros de 20% ao mês a pequenos comerciantes e, quando não recebe, manda capangas ameaçarem os devedores e reter seus veículos até o pagamento. Quais crimes?</p><details><summary>Ver a solução comentada</summary><p><b>Usura</b> (Lei 1.521, art. 4º), em regra, e, pelas cobranças, <b>extorsão</b> (CP, art. 158) ou <b>exercício arbitrário das próprias razões</b> (art. 345), conforme a legitimidade da pretensão (a dívida usurária não é legítima no excesso), além de <b>ameaça</b> e possível <b>associação criminosa</b>. Se houver estrutura com divisão de tarefas e 4 ou mais pessoas, <b>organização criminosa</b>. Competência estadual.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Empresa que paga depois da condenação</b><p>Condenado definitivamente por sonegação de IPI, o empresário quita integralmente o débito durante a execução da pena. Qual a consequência?</p><details><summary>Ver a solução comentada</summary><p><b>Extinção da punibilidade</b> pelo pagamento integral, que pode ocorrer <b>a qualquer tempo</b> (Lei 10.684/2003, art. 9º, § 2º; STF e STJ), inclusive após o trânsito em julgado. O juiz da execução declara extinta a punibilidade e cessa o cumprimento da pena.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Publicidade enganosa</b><p>Uma rede de academias anuncia \"perca 10 kg em 10 dias com nosso suplemento\", sem qualquer base científica, e vende o produto a centenas de clientes. Qual o crime?</p><details><summary>Ver a solução comentada</summary><p>Pode configurar <b>publicidade enganosa</b> (CDC, art. 67) e, conforme o caso, o <b>art. 7º, VII</b>, da Lei 8.137 (induzir o consumidor a erro por indicação falsa sobre a qualidade do bem), além de <b>estelionato</b> se houver obtenção de vantagem mediante fraude contra pessoas determinadas, e de crime contra a saúde pública se o suplemento for nocivo ou sem registro.</p></details></div>\n<h3>19. Uma lei vizinha: crimes contra o sistema financeiro nacional (Lei 7.492/1986)</h3>\n<ul><li>Embora não esteja na Lei 8.137, a <b>Lei 7.492/1986</b> (a \"Lei do Colarinho Branco\") costuma ser cobrada junto com os crimes econômicos e tributários. Ela protege a <b>credibilidade</b> e o <b>regular funcionamento</b> do sistema financeiro, e seus crimes são de competência da <b>Justiça Federal</b> (art. 26), com ação penal promovida pelo <b>MPF</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Art.</th><th>Crime</th><th>Pena</th></tr></thead><tbody><tr><td><b>4º, caput</b></td><td><b>gestão fraudulenta</b> de instituição financeira</td><td>reclusão de <b>3 a 12 anos</b> e multa</td></tr><tr><td><b>4º, parágrafo único</b></td><td><b>gestão temerária</b></td><td>reclusão de <b>2 a 8 anos</b> e multa</td></tr><tr><td><b>5º</b></td><td><b>apropriação</b> ou desvio, por administrador, de dinheiro, título ou valor de que tem a posse</td><td>reclusão de 2 a 6 anos e multa</td></tr><tr><td><b>16</b></td><td>fazer <b>operar</b>, sem autorização ou com autorização obtida mediante declaração falsa, <b>instituição financeira</b>, inclusive de distribuição de valores mobiliários ou de câmbio</td><td>reclusão de 1 a 4 anos e multa</td></tr><tr><td><b>19</b></td><td>obter, mediante <b>fraude</b>, <b>financiamento</b> em instituição financeira</td><td>reclusão de 2 a 6 anos e multa (aumento de 1/3 se em instituição oficial)</td></tr><tr><td><b>20</b></td><td><b>aplicar</b>, em finalidade diversa da prevista em lei ou contrato, recursos de financiamento concedido por instituição oficial</td><td>reclusão de 2 a 6 anos e multa</td></tr><tr><td><b>22, caput</b></td><td>efetuar <b>operação de câmbio não autorizada</b>, com o fim de promover <b>evasão de divisas</b> do País</td><td>reclusão de <b>2 a 6 anos</b> e multa</td></tr><tr><td><b>22, parágrafo único</b></td><td>promover a saída de moeda ou divisa para o exterior sem autorização, ou nele manter <b>depósitos não declarados</b> à repartição federal competente</td><td>mesma pena</td></tr></tbody></table>\n<ul><li><b>Instituição financeira por equiparação</b> (art. 1º, parágrafo único): equipara-se à instituição financeira a pessoa jurídica que capte ou administre seguros, câmbio, consórcio, capitalização ou qualquer tipo de poupança, ou recursos de terceiros, e a <b>pessoa natural</b> que exerça quaisquer dessas atividades, ainda que de forma eventual. Por isso, o \"doleiro\" pode responder pelo art. 16.</li><li><b>Delação</b> (art. 25, § 2º): nos crimes desta lei, cometidos em quadrilha ou coautoria, o coautor ou partícipe que, por <b>confissão espontânea</b>, revelar à autoridade policial ou judicial <b>toda a trama delituosa</b> terá a pena reduzida de 1/3 a 2/3 (mesma estrutura do art. 16 da Lei 8.137).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · financiamento de veículo com fraude</b><p class=\"jc-tese\">O STJ entende que obter <b>financiamento</b> para aquisição de veículo, mediante fraude (documentos falsos, laranjas), em instituição financeira, configura o crime do <b>art. 19</b> da Lei 7.492 (competência <b>federal</b>) quando há destinação específica dos recursos (financiamento), e <b>estelionato</b> (competência estadual) quando se trata de <b>empréstimo</b> pessoal sem destinação vinculada.</p><p class=\"jc-com\">A distinção entre <b>financiamento</b> (recursos com finalidade específica) e <b>empréstimo</b> (livre utilização) define o crime e a competência. É questão recorrente em provas de delegado da Polícia Federal e da Polícia Civil.</p></div>\n<ul><li><b>Evasão de divisas e \"dólar-cabo\"</b>: o sistema de compensação paralela em que o doleiro recebe reais no Brasil e entrega dólares no exterior (sem passar pelo sistema oficial) configura <b>evasão de divisas</b> (art. 22) e, frequentemente, <b>lavagem</b>. Manter no exterior depósitos <b>não declarados</b> ao Banco Central acima do valor exigido também é crime (parágrafo único).</li><li><b>Gestão fraudulenta x temerária</b>: a fraudulenta exige o emprego de <b>ardil</b> (fraude) na administração; a temerária, uma gestão <b>imprudente, arriscada</b>, além dos limites aceitáveis. A doutrina critica a vagueza do tipo de gestão temerária, mas o STF o considera válido. Ambos são crimes <b>próprios</b> de controladores, administradores, diretores e gerentes (art. 25).</li></ul>\n<h3>20. Conexões com outras leis e consolidação</h3>\n<ul><li><b>Lei 8.137 x Lei 7.492 x Lei 9.613</b>: a sonegação (8.137) gera recursos não declarados; a evasão de divisas (7.492) leva esses recursos ao exterior; a lavagem (9.613) os reintegra à economia com aparência lícita. Em grandes operações, os três crimes aparecem juntos, ao lado da organização criminosa (12.850) e da corrupção (CP).</li><li><b>Competência em caso de conexão</b>: havendo conexão entre crime federal (evasão de divisas, sonegação de tributo federal) e estadual (sonegação de ICMS), a <b>Súmula 122 do STJ</b> atrai todos para a <b>Justiça Federal</b>: \"Compete à Justiça Federal o processo e julgamento unificado dos crimes conexos de competência federal e estadual, não se aplicando a regra do art. 78, II, 'a', do Código de Processo Penal.\"</li><li><b>Delação, leniência e colaboração</b>: nas leis econômicas, há três modelos de prêmio: a <b>confissão espontânea</b> que revela a trama (Lei 8.137, art. 16; Lei 7.492, art. 25, § 2º), o <b>acordo de leniência</b> com o CADE (cartel) e a <b>colaboração premiada</b> da Lei 12.850 (quando houver organização criminosa). O candidato deve saber distinguir os requisitos e efeitos de cada um.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O crime de evasão de divisas é de competência estadual</span><br>✅ <span class=\"certo\">Os crimes da Lei 7.492 são da <b>Justiça Federal</b> (art. 26)</span></li><li>❌ <span class=\"banca\">Obter empréstimo pessoal sem destinação específica mediante fraude configura o art. 19 da Lei 7.492</span><br>✅ <span class=\"certo\">O art. 19 exige <b>financiamento</b>; empréstimo livre configura <b>estelionato</b> (STJ)</span></li><li>❌ <span class=\"banca\">Havendo conexão entre sonegação de ICMS e evasão de divisas, cada crime é julgado em sua Justiça</span><br>✅ <span class=\"certo\">A <b>Súmula 122 do STJ</b> reúne na <b>Justiça Federal</b></span></li></ol></div>\n<h3>21. Revisão final em perguntas</h3>\n<ul><li><b>O que é preciso para denunciar por sonegação do art. 1º?</b> Lançamento definitivo, prova da fraude e do dolo, e individualização da conduta.</li><li><b>O que extingue a punibilidade?</b> O pagamento integral, a qualquer tempo; o parcelamento suspende, se pedido antes do recebimento da denúncia.</li><li><b>Quando cabe insignificância?</b> Tributos federais e descaminho até R$ 20 mil, sem habitualidade; tributos locais conforme a lei do ente.</li><li><b>Quem julga?</b> Justiça Federal para tributos federais, descaminho, contrabando e sistema financeiro; Justiça Estadual para ICMS, ISS, consumo e economia popular; Justiça Federal se houver conexão com crime federal (Súmula 122 do STJ).</li><li><b>Quais as penas-chave?</b> Art. 1º (2 a 5, reclusão); art. 2º (6 meses a 2, detenção); art. 3º, I e II (3 a 8); art. 4º (2 a 5); art. 7º (2 a 5, detenção, ou multa).</li></ul>\n<h3>22. Roteiro de investigação de um crime tributário</h3>\n<ul><li><b>1. Ponto de partida</b>: representação fiscal para fins penais, notícia de crime de ex-funcionário, relatório de inteligência financeira ou descoberta em outra investigação (por exemplo, numa operação contra lavagem). Verifique se já há <b>lançamento definitivo</b> (SV 24) e se o débito foi <b>pago ou parcelado</b>.</li><li><b>2. Identificação dos responsáveis</b>: levantar contratos sociais, procurações, alterações societárias e quem efetivamente geria a empresa (administrador de fato), ouvindo contadores, funcionários do setor financeiro e fornecedores.</li><li><b>3. Provas documentais</b>: requisitar à Fazenda a cópia integral do processo administrativo fiscal; obter notas fiscais, livros, SPED e declarações; representar pelas quebras de sigilo bancário e fiscal (com ordem judicial) e usar o compartilhamento da Receita e da UIF (Tema 990).</li><li><b>4. Busca e apreensão</b>: em casos de fraude estruturada (notas frias, empresas noteiras, softwares de caixa dois), representar por busca em sedes e residências, com apreensão de computadores e celulares, preservando a <b>cadeia de custódia</b> digital.</li><li><b>5. Perícia contábil</b>: quando houver controvérsia sobre o valor sonegado, a origem dos recursos ou a existência de fraude.</li><li><b>6. Crimes conexos</b>: avaliar falsidade documental (quando não absorvida pela sonegação, Súmula 17 do STJ por analogia), associação ou organização criminosa, lavagem de dinheiro e corrupção de fiscais.</li><li><b>7. Relatório</b>: descrever a conduta de cada investigado, o valor do tributo, a data do lançamento definitivo (para prescrição), a existência de parcelamento e a competência (federal ou estadual).</li><li><b>Absorção da falsidade</b>: a jurisprudência aplica a lógica da <b>Súmula 17 do STJ</b> (\"quando o falso se exaure no estelionato, sem mais potencialidade lesiva, é por este absorvido\") aos crimes tributários: a falsificação de nota fiscal usada exclusivamente para sonegar é <b>absorvida</b> pela sonegação (art. 1º, III), não havendo concurso com o crime de falsificação do CP. Se o documento falso tiver outra utilidade (por exemplo, obter empréstimo), haverá concurso.</li></ul>\n<h3>23. Por que o tema importa: arrecadação, concorrência e cidadania</h3>\n<ul><li>A sonegação não é um \"crime sem vítima\". Os recursos que deixam de entrar nos cofres públicos fazem falta na saúde, na educação e na segurança; e a empresa que sonega ganha <b>vantagem concorrencial ilegítima</b> sobre a que paga corretamente, podendo levar concorrentes honestos à falência. Por isso o STF, ao tratar do devedor contumaz de ICMS, destacou o efeito sobre a <b>livre concorrência</b>.</li><li>Ao mesmo tempo, o Direito Penal tributário convive com a ideia de <b>intervenção mínima</b>: o Estado prefere receber o tributo a punir, o que explica as regras de extinção pelo pagamento e de suspensão pelo parcelamento, e a insignificância baseada no valor mínimo de execução fiscal.</li><li>Para o policial, isso significa equilibrar dois cuidados: investigar com firmeza as <b>fraudes estruturadas</b> (empresas noteiras, laranjas, organizações que vivem da sonegação), que geram prejuízos enormes e costumam estar ligadas a lavagem e corrupção; e não transformar o simples <b>inadimplemento</b> de boa-fé em caso de polícia, respeitando a SV 24 e a distinção entre inadimplente eventual e devedor contumaz.</li><li><b>Tendências</b>: projetos de lei e normas estaduais vêm criando o conceito legal de <b>devedor contumaz</b>, com regimes especiais de fiscalização. A Reforma Tributária (EC 132/2023), que substituirá gradualmente ICMS, ISS, PIS e Cofins pelo IBS e pela CBS, deve exigir adaptações na interpretação dos crimes, já que os tipos penais se referem a \"tributo\" de forma genérica e continuam aplicáveis aos novos tributos.</li><li><b>Dica de prova</b>: diante de qualquer questão sobre crime tributário, faça quatro perguntas: (1) o crime é <b>material ou formal</b>? (2) há <b>lançamento definitivo</b>? (3) houve <b>pagamento ou parcelamento</b>? (4) qual o <b>ente tributante</b> (competência) e o <b>valor</b> (insignificância)? Com essas respostas, você resolve a maioria das questões.</li></ul>\n<h3>24. Quadro final de penas e naturezas</h3>\n<table class=\"tab\"><thead><tr><th>Crime</th><th>Pena</th><th>Natureza</th><th>Menor potencial?</th></tr></thead><tbody><tr><td>Lei 8.137, art. 1º, I a IV</td><td>reclusão de 2 a 5 anos e multa</td><td>material (SV 24)</td><td>não (cabe ANPP)</td></tr><tr><td>Lei 8.137, art. 1º, V</td><td>reclusão de 2 a 5 anos e multa</td><td>formal (doutrina)</td><td>não</td></tr><tr><td>Lei 8.137, art. 2º</td><td>detenção de 6 meses a 2 anos e multa</td><td>formal</td><td><b>sim</b></td></tr><tr><td>Lei 8.137, art. 3º, I e II</td><td>reclusão de 3 a 8 anos e multa</td><td>funcional</td><td>não</td></tr><tr><td>Lei 8.137, art. 3º, III</td><td>reclusão de 1 a 4 anos e multa</td><td>funcional</td><td>não (cabe suspensão do processo)</td></tr><tr><td>Lei 8.137, art. 4º</td><td>reclusão de 2 a 5 anos e multa</td><td>formal (cartel)</td><td>não</td></tr><tr><td>Lei 8.137, art. 7º</td><td>detenção de 2 a 5 anos ou multa</td><td>formal, em regra</td><td>não</td></tr><tr><td>CP, art. 168-A</td><td>reclusão de 2 a 5 anos e multa</td><td>material</td><td>não</td></tr><tr><td>CP, art. 337-A</td><td>reclusão de 2 a 5 anos e multa</td><td>material</td><td>não</td></tr><tr><td>CP, art. 334 (descaminho)</td><td>reclusão de 1 a 4 anos</td><td>formal</td><td>não (cabe suspensão do processo)</td></tr><tr><td>CP, art. 334-A (contrabando)</td><td>reclusão de 2 a 5 anos</td><td>formal</td><td>não</td></tr><tr><td>Lei 1.521, art. 4º (usura)</td><td>detenção de 6 meses a 2 anos e multa</td><td>formal</td><td><b>sim</b></td></tr></tbody></table>\n<ul><li>Use este quadro na revisão: as bancas costumam trocar penas entre os artigos, e a natureza (material ou formal) define a aplicação da SV 24, o termo inicial da prescrição e o cabimento de denúncia antes do lançamento.</li><li><b>Último lembrete</b>: o art. 7º da Lei 8.137 prevê pena <b>alternativa</b> (\"detenção de 2 a 5 anos, <b>ou</b> multa\"), o que permite ao juiz aplicar apenas a multa; já os arts. 1º a 4º preveem pena <b>cumulativa</b> (\"reclusão <b>e</b> multa\"). Essa diferença de conjunção (\"ou\" x \"e\") é uma pegadinha clássica de bancas que cobram a letra da lei, e também influencia o cabimento de institutos despenalizadores, já que a possibilidade de pena exclusivamente de multa amplia as alternativas no processo.</li><li><b>Memorize as três súmulas e as duas teses centrais</b>: SV 24 (lançamento definitivo), Súmula 658 do STJ (apropriação em operações próprias), Súmula 498 do STF (economia popular é estadual); RHC 163.334 (ICMS contumaz) e Tema 990 (compartilhamento de dados da Receita e da UIF).</li><li><b>Treino de fixação</b>: antes de passar ao próximo tópico, tente responder sem consultar: (1) qual inciso do art. 1º não é alcançado pela SV 24? (2) qual a pena do fiscal que exige propina para não lançar tributo? (3) até quando o parcelamento suspende a pretensão punitiva? (4) qual a diferença de competência entre sonegação de IR e de ICMS? (5) por que o pagamento não extingue a punibilidade no descaminho? Se acertar as cinco, você domina o núcleo do tópico; se errar alguma, volte à seção correspondente e refaça as questões marcadas.</li></ul>\n<h3>25. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Notas frias</b><p>Uma empresa de construção registra na contabilidade notas fiscais de serviços nunca prestados, emitidas por empresas de fachada, para reduzir o imposto de renda. A Receita lavra auto de infração, e o processo administrativo termina com a manutenção do débito. Qual o crime?</p><details><summary>Ver a solução comentada</summary><p><b>Art. 1º, II e IV</b>, da Lei 8.137 (fraudar a fiscalização inserindo elementos inexatos e utilizar documento falso), crime <b>material</b>, consumado com o <b>lançamento definitivo</b> (SV 24). Competência da <b>Justiça Federal</b> (IR). Os emissores das notas frias respondem como <b>partícipes</b> ou pelo art. 1º, IV (elaborar e fornecer documento falso), e pode haver <b>lavagem</b> e <b>organização criminosa</b>. O pagamento integral do débito extingue a punibilidade a qualquer tempo.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Inquérito antes do lançamento</b><p>O MP requisita inquérito para apurar sonegação de ICMS ainda em discussão no processo administrativo estadual, sem nenhum outro crime envolvido. É possível?</p><details><summary>Ver a solução comentada</summary><p>Em regra, <b>não</b>: sem lançamento definitivo, não há crime material (SV 24), e a investigação sobre a sonegação é prematura, segundo a jurisprudência do STF e do STJ. Seria possível se houvesse outros crimes autônomos (falsificação de documentos, associação criminosa) ou se o contribuinte estivesse embaraçando a fiscalização.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comerciante que não recolhe o ICMS</b><p>Um pequeno comerciante, em crise, declara o ICMS corretamente, mas atrasa o pagamento de três meses, regularizando depois. Já uma rede de lojas declara, mas não recolhe o ICMS há cinco anos, abrindo novas empresas em nome de laranjas quando as antigas acumulam dívidas. Quem comete crime?</p><details><summary>Ver a solução comentada</summary><p>O pequeno comerciante é <b>inadimplente eventual</b>: falta <b>contumácia</b> e <b>dolo de apropriação</b>, e a conduta é atípica (STF, RHC 163.334). A rede de lojas, com inadimplência sistemática e fraude estrutural, é <b>devedora contumaz</b> e pode responder pelo <b>art. 2º, II</b>, da Lei 8.137 (apropriação indébita tributária), e eventualmente por outros crimes (art. 1º, falsidade, lavagem).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Cartel nos postos</b><p>Donos de cinco postos de combustíveis de uma cidade combinam, por mensagens, o preço da gasolina e se revezam nas promoções para manter o preço alto. Qual o crime? Como fica quem colaborar com o CADE?</p><details><summary>Ver a solução comentada</summary><p><b>Art. 4º, II, \"a\"</b>, da Lei 8.137 (cartel: acordo entre ofertantes para fixação artificial de preços), reclusão de 2 a 5 anos e multa. O empresário que celebrar <b>acordo de leniência</b> com o CADE terá suspensa a prescrição e não poderá ser denunciado; cumprido o acordo, extingue-se a punibilidade pelos crimes contra a ordem econômica e outros diretamente ligados ao cartel (Lei 12.529, art. 87).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Fiscal corrupto</b><p>Um auditor fiscal estadual exige R$ 50 mil de uma empresa para não lavrar o auto de infração de ICMS. A empresa paga. Quem responde e por quê?</p><details><summary>Ver a solução comentada</summary><p>O auditor comete o crime do <b>art. 3º, II</b>, da Lei 8.137 (exigir vantagem indevida para deixar de lançar tributo), reclusão de 3 a 8 anos, norma <b>especial</b> em relação à concussão do CP. Além disso, o tributo não lançado pode configurar sonegação. O empresário que <b>paga</b> sob exigência não comete corrupção ativa (não ofereceu nem prometeu), mas pode responder pela sonegação, se houver.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Combustível adulterado</b><p>Um posto vende gasolina misturada com solvente, em desacordo com as normas da ANP. Qual o enquadramento?</p><details><summary>Ver a solução comentada</summary><p>Pode configurar o crime do <b>art. 1º, I, da Lei 8.176/1991</b> (adquirir, distribuir e revender derivados de petróleo em desacordo com as normas), norma <b>especial</b>, e também o <b>art. 7º, III ou IX</b>, da Lei 8.137 (misturar gêneros para vendê-los como puros; vender mercadoria imprópria ao consumo), conforme o caso, além de <b>estelionato</b> contra consumidores. A perícia no combustível é essencial.</p></details></div>\n<h3>26. A Lei 8.137 na rotina policial</h3>\n<ul><li><b>Delegacias fazendárias</b>: muitas Polícias Civis têm delegacias especializadas em crimes contra a ordem tributária, que trabalham em conjunto com as <b>Secretarias de Fazenda</b> (auditores fiscais) e o <b>MP</b> (GAECOs e promotorias de sonegação). A investigação costuma começar pela <b>representação fiscal</b>.</li><li><b>Provas típicas</b>: autos de infração e decisões administrativas definitivas; notas fiscais e livros; perícia contábil; quebra de sigilos bancário e fiscal (com ordem judicial); relatórios de inteligência financeira da UIF; busca e apreensão em empresas; depoimentos de contadores e ex-funcionários.</li><li><b>Crimes de consumo</b>: atuação conjunta com <b>Procon</b>, <b>vigilância sanitária</b>, <b>Inmetro</b> e <b>ANP</b>; apreensão de mercadorias impróprias com laudo; responsabilização de quem tinha o domínio da conduta.</li><li><b>Cuidados</b>: não denunciar nem indiciar com base apenas na posição de sócio (vedada a responsabilidade objetiva); respeitar a SV 24; verificar se houve <b>pagamento</b> ou <b>parcelamento</b> (que extinguem ou suspendem a punibilidade); verificar a <b>insignificância</b> (tributos federais até R$ 20 mil, salvo habitualidade).</li></ul>\n<h3>27. Perguntas frequentes em provas discursivas</h3>\n<ul><li><b>\"Explique a Súmula Vinculante 24 e suas consequências.\"</b> Os crimes do art. 1º, I a IV, da Lei 8.137 são materiais e só se consumam com a supressão ou redução do tributo, certificada pelo lançamento definitivo. Consequências: não há denúncia (e, em regra, inquérito) antes do lançamento; a prescrição só corre a partir dele; a anulação do débito na via administrativa elimina o crime.</li><li><b>\"Comente a extinção da punibilidade pelo pagamento nos crimes tributários.\"</b> O pagamento integral extingue a punibilidade a qualquer tempo (Lei 10.684/2003, art. 9º, § 2º; STF e STJ), inclusive após o trânsito em julgado; o parcelamento suspende a pretensão punitiva e a prescrição se requerido antes do recebimento da denúncia (Lei 12.382/2011). A regra não se aplica ao descaminho e ao contrabando.</li><li><b>\"O não recolhimento de ICMS declarado é crime?\"</b> Pode ser o crime do art. 2º, II, da Lei 8.137 (apropriação indébita tributária), desde que haja contumácia e dolo de apropriação (STF, RHC 163.334), em operações próprias ou em substituição tributária (Súmula 658 do STJ). O inadimplente eventual não comete crime.</li></ul>\n<h3>28. Como as bancas cobram este tópico</h3>\n<ul><li><b>Art. 1º x art. 2º</b>: material (reclusão de 2 a 5) x formal (detenção de 6 meses a 2 anos, menor potencial ofensivo).</li><li><b>SV 24</b>, Súmula 658 do STJ, RHC 163.334 (contumácia), Tema 990 (compartilhamento de dados), ADI 1.571 (representação fiscal).</li><li><b>Extinção e suspensão da punibilidade</b>: pagamento a qualquer tempo; parcelamento antes do recebimento da denúncia.</li><li><b>Insignificância</b>: R$ 20 mil (tributos federais e descaminho); não no contrabando; habitualidade.</li><li><b>Crimes funcionais</b> (art. 3º) e suas penas.</li><li><b>Ordem econômica</b> (cartel, leniência) e <b>relações de consumo</b> (art. 7º, IX; modalidade culposa).</li><li><b>Causas de aumento</b> (art. 12) e <b>delação</b> (art. 16, parágrafo único).</li><li><b>Bancas</b>: o <b>Cebraspe</b> adora a SV 24 e o pagamento; a <b>FGV</b> cobra o ICMS declarado e os casos de consumo; a <b>Consulplan</b> cobra a letra dos arts. 1º, 2º e 7º.</li></ul>\n<h3>29. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 1º</span></span><span class=\"vs\"><span>sonegação, crime material, reclusão de 2 a 5 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SV 24</span></span><span class=\"vs\"><span>sem lançamento definitivo, não há crime material (incisos I a IV)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prescrição do art. 1º</span></span><span class=\"vs\"><span>corre a partir do lançamento definitivo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 1º, V</span></span><span class=\"vs\"><span>não emitir nota fiscal; tratado como formal; prazo de 10 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 2º</span></span><span class=\"vs\"><span>crimes formais, detenção de 6 meses a 2 anos (menor potencial)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 2º, II</span></span><span class=\"vs\"><span>apropriação indébita tributária</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ICMS declarado e não pago</span></span><span class=\"vs\"><span>crime só com contumácia e dolo de apropriação (RHC 163.334)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Súmula 658 STJ</span></span><span class=\"vs\"><span>operações próprias ou substituição tributária</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 3º</span></span><span class=\"vs\"><span>crimes funcionais (fiscal)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 3º, II</span></span><span class=\"vs\"><span>exigir vantagem para não lançar tributo, 3 a 8 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 4º</span></span><span class=\"vs\"><span>cartel e abuso do poder econômico, 2 a 5 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Leniência</span></span><span class=\"vs\"><span>extingue a punibilidade dos crimes de cartel</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 7º</span></span><span class=\"vs\"><span>relações de consumo, detenção de 2 a 5 anos ou multa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 7º, IX</span></span><span class=\"vs\"><span>mercadoria imprópria ao consumo; culposo punível</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 11</span></span><span class=\"vs\"><span>quem concorre, inclusive por meio de pessoa jurídica</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 12</span></span><span class=\"vs\"><span>aumento de 1/3 a 1/2 (dano à coletividade, servidor, bens essenciais)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 15</span></span><span class=\"vs\"><span>ação pública incondicionada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 16</span></span><span class=\"vs\"><span>confissão espontânea que revela a trama; redução de 1/3 a 2/3</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pagamento integral</span></span><span class=\"vs\"><span>extingue a punibilidade a qualquer tempo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parcelamento</span></span><span class=\"vs\"><span>suspende se pedido antes do recebimento da denúncia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Insignificância federal</span></span><span class=\"vs\"><span>até R$ 20 mil, salvo habitualidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Descaminho</span></span><span class=\"vs\"><span>formal, insignificância sim, pagamento não extingue</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Contrabando</span></span><span class=\"vs\"><span>sem insignificância, em regra</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Competência</span></span><span class=\"vs\"><span>federal (tributos federais) ou estadual (ICMS, ISS)</span></span></button></div></div>\n<h3>30. Resumo em uma página</h3>\n<ul><li><b>Ordem tributária</b>: art. 1º (material; SV 24; 2 a 5 anos); art. 2º (formal; 6 meses a 2 anos; apropriação indébita tributária; ICMS contumaz); art. 3º (funcionais; 3 a 8 e 1 a 4 anos).</li><li><b>Ordem econômica</b>: art. 4º (abuso do poder econômico e cartel; 2 a 5 anos; leniência); Lei 8.176 (combustíveis); Lei 1.521 (economia popular, pirâmides).</li><li><b>Consumo</b>: art. 7º (nove incisos; 2 a 5 anos ou multa; culposo nos incisos II, III e IX); crimes do CDC.</li><li><b>Regras comuns</b>: concurso por meio de pessoa jurídica; aumentos do art. 12; ação pública incondicionada; delação.</li><li><b>Punibilidade</b>: pagamento integral a qualquer tempo; parcelamento antes da denúncia recebida; suspensão da prescrição.</li><li><b>Insignificância e competência</b>: R$ 20 mil (federal); lei local (estadual); habitualidade afasta; Justiça Federal ou Estadual conforme o tributo.</li><li><b>Previdenciários e aduaneiros</b>: arts. 168-A, 337-A, 334 e 334-A do CP.</li></ul>",
+"quiz": [
+{
+"p": "Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, I a IV, da Lei 8.137/1990, antes do lançamento definitivo do tributo.",
+"c": true,
+"prof": "SV 24.",
+"x": "Crime material.",
+"e": "Lançamento"
+},
+{
+"p": "O crime do art. 1º, I, da Lei 8.137 consuma-se com a simples prestação de declaração falsa, independentemente da redução do tributo.",
+"c": false,
+"prof": "Art. 1º.",
+"x": "Material.",
+"e": "Resultado"
+},
+{
+"p": "Nos crimes materiais contra a ordem tributária, o prazo prescricional começa a correr a partir do lançamento definitivo.",
+"c": true,
+"prof": "Prescrição.",
+"x": "SV 24.",
+"e": "Termo inicial"
+},
+{
+"p": "O crime de sonegação fiscal do art. 1º da Lei 8.137 é punido com reclusão de 2 a 5 anos e multa.",
+"c": true,
+"prof": "Art. 1º.",
+"x": "Pena.",
+"e": "Reclusão"
+},
+{
+"p": "Negar ou deixar de fornecer nota fiscal relativa a venda efetivamente realizada é crime previsto no art. 1º, V, da Lei 8.137.",
+"c": true,
+"prof": "Art. 1º, V.",
+"x": "Nota fiscal.",
+"e": "Inciso V"
+},
+{
+"p": "A falta de atendimento da exigência da autoridade fazendária, no prazo de 10 dias, caracteriza a infração do art. 1º, V.",
+"c": true,
+"prof": "Art. 1º.",
+"x": "Parágrafo único.",
+"e": "10 dias"
+},
+{
+"p": "Os crimes do art. 2º da Lei 8.137 são punidos com detenção de 6 meses a 2 anos e multa.",
+"c": true,
+"prof": "Art. 2º.",
+"x": "Menor potencial.",
+"e": "Detenção"
+},
+{
+"p": "Deixar de recolher, no prazo legal, tributo descontado ou cobrado, na qualidade de sujeito passivo, configura o crime do art. 2º, II, da Lei 8.137.",
+"c": true,
+"prof": "Art. 2º, II.",
+"x": "Apropriação indébita tributária.",
+"e": "Descontado ou cobrado"
+},
+{
+"p": "Segundo o STF, o contribuinte que, de forma contumaz e com dolo de apropriação, deixa de recolher o ICMS cobrado do adquirente comete crime.",
+"c": true,
+"prof": "ICMS.",
+"x": "RHC 163.334.",
+"e": "Contumácia"
+},
+{
+"p": "Segundo o STF, todo comerciante que declara e não recolhe o ICMS no prazo comete crime de apropriação indébita tributária.",
+"c": false,
+"prof": "ICMS.",
+"x": "Exige contumácia.",
+"e": "Inadimplente eventual"
+},
+{
+"p": "Segundo o STJ, o crime de apropriação indébita tributária pode ocorrer em operações próprias ou em substituição tributária.",
+"c": true,
+"prof": "ICMS.",
+"x": "Súmula 658.",
+"e": "Operações próprias"
+},
+{
+"p": "Utilizar programa de processamento de dados que permita possuir informação contábil diversa da fornecida à Fazenda é crime da Lei 8.137.",
+"c": true,
+"prof": "Art. 2º, V.",
+"x": "Caixa dois.",
+"e": "Software"
+},
+{
+"p": "O fiscal que exige vantagem indevida para deixar de lançar tributo comete crime funcional previsto na Lei 8.137, punido com reclusão de 3 a 8 anos.",
+"c": true,
+"prof": "Art. 3º, II.",
+"x": "Especial.",
+"e": "Fiscal"
+},
+{
+"p": "O funcionário que patrocina interesse privado perante a administração fazendária, valendo-se da função, comete crime do art. 3º, III, da Lei 8.137.",
+"c": true,
+"prof": "Art. 3º, III.",
+"x": "Advocacia administrativa especial.",
+"e": "Patrocínio"
+},
+{
+"p": "Formar acordo entre ofertantes visando à fixação artificial de preços configura crime contra a ordem econômica.",
+"c": true,
+"prof": "Art. 4º, II.",
+"x": "Cartel.",
+"e": "Cartel"
+},
+{
+"p": "O crime de cartel previsto na Lei 8.137 é punido com reclusão de 2 a 5 anos e multa.",
+"c": true,
+"prof": "Art. 4º.",
+"x": "Lei 12.529/2011.",
+"e": "Pena"
+},
+{
+"p": "O cumprimento do acordo de leniência celebrado com o CADE extingue a punibilidade dos crimes contra a ordem econômica relacionados ao cartel.",
+"c": true,
+"prof": "Leniência.",
+"x": "Lei 12.529, art. 87.",
+"e": "Extinção"
+},
+{
+"p": "Expor à venda mercadoria em condições impróprias ao consumo é crime contra as relações de consumo.",
+"c": true,
+"prof": "Art. 7º, IX.",
+"x": "Impróprio.",
+"e": "Consumo"
+},
+{
+"p": "Nos incisos II, III e IX do art. 7º da Lei 8.137, pune-se também a modalidade culposa.",
+"c": true,
+"prof": "Art. 7º.",
+"x": "Parágrafo único.",
+"e": "Culposo"
+},
+{
+"p": "Os crimes contra as relações de consumo do art. 7º da Lei 8.137 são punidos exclusivamente com multa.",
+"c": false,
+"prof": "Art. 7º.",
+"x": "Detenção de 2 a 5 anos ou multa.",
+"e": "Pena"
+},
+{
+"p": "Produtos com prazo de validade vencido são considerados impróprios ao consumo pelo Código de Defesa do Consumidor.",
+"c": true,
+"prof": "Art. 7º, IX.",
+"x": "CDC, art. 18, § 6º.",
+"e": "Validade"
+},
+{
+"p": "Misturar gêneros de espécies diferentes para vendê-los como puros é crime contra as relações de consumo.",
+"c": true,
+"prof": "Art. 7º, III.",
+"x": "Mistura.",
+"e": "Pureza"
+},
+{
+"p": "Induzir o consumidor a erro por afirmação falsa sobre a qualidade do bem configura crime do art. 7º, VII, da Lei 8.137.",
+"c": true,
+"prof": "Art. 7º, VII.",
+"x": "Indução.",
+"e": "Erro"
+},
+{
+"p": "Quem concorre para os crimes da Lei 8.137, inclusive por meio de pessoa jurídica, incide nas penas cominadas, na medida de sua culpabilidade.",
+"c": true,
+"prof": "Art. 11.",
+"x": "Concurso.",
+"e": "Pessoa jurídica"
+},
+{
+"p": "A pessoa jurídica pode ser condenada pelo crime de sonegação fiscal da Lei 8.137.",
+"c": false,
+"prof": "Art. 11.",
+"x": "Pessoas físicas respondem.",
+"e": "PJ"
+},
+{
+"p": "As penas dos crimes da Lei 8.137 são aumentadas de 1/3 até a metade se o crime ocasionar grave dano à coletividade.",
+"c": true,
+"prof": "Art. 12, I.",
+"x": "Aumento.",
+"e": "Dano coletivo"
+},
+{
+"p": "É causa de aumento o crime cometido por servidor público no exercício de suas funções.",
+"c": true,
+"prof": "Art. 12, II.",
+"x": "Aumento.",
+"e": "Servidor"
+},
+{
+"p": "Os crimes previstos na Lei 8.137 são de ação penal pública incondicionada.",
+"c": true,
+"prof": "Art. 15.",
+"x": "Ação pública.",
+"e": "Incondicionada"
+},
+{
+"p": "O coautor que, por confissão espontânea, revelar à autoridade toda a trama delituosa terá a pena reduzida de 1/3 a 2/3.",
+"c": true,
+"prof": "Art. 16.",
+"x": "Delação.",
+"e": "Confissão"
+},
+{
+"p": "Segundo o STF e o STJ, o pagamento integral do débito tributário extingue a punibilidade a qualquer tempo, inclusive após o trânsito em julgado.",
+"c": true,
+"prof": "Pagamento.",
+"x": "Lei 10.684/2003.",
+"e": "A qualquer tempo"
+},
+{
+"p": "O parcelamento suspende a pretensão punitiva apenas se requerido antes do recebimento da denúncia.",
+"c": true,
+"prof": "Parcelamento.",
+"x": "Lei 12.382/2011.",
+"e": "Momento"
+},
+{
+"p": "Durante o parcelamento, fica suspenso o prazo prescricional.",
+"c": true,
+"prof": "Parcelamento.",
+"x": "Lei 9.430, art. 83, § 3º.",
+"e": "Prescrição"
+},
+{
+"p": "A extinção da punibilidade pelo pagamento do tributo aplica-se ao crime de descaminho.",
+"c": false,
+"prof": "Descaminho.",
+"x": "Não se aplica (STJ).",
+"e": "Descaminho"
+},
+{
+"p": "A representação fiscal para fins penais não é condição de procedibilidade da ação penal nos crimes tributários.",
+"c": true,
+"prof": "Representação.",
+"x": "ADI 1.571.",
+"e": "Procedibilidade"
+},
+{
+"p": "Segundo o STF, é constitucional o compartilhamento do procedimento fiscalizatório da Receita com o MP, para fins penais, sem prévia autorização judicial.",
+"c": true,
+"prof": "Dados.",
+"x": "Tema 990.",
+"e": "Compartilhamento"
+},
+{
+"p": "Aplica-se o princípio da insignificância aos crimes tributários federais e ao descaminho quando o tributo iludido não ultrapassar R$ 20.000,00.",
+"c": true,
+"prof": "Insignificância.",
+"x": "Tema 157 do STJ.",
+"e": "R$ 20 mil"
+},
+{
+"p": "O princípio da insignificância aplica-se ao contrabando de cigarros, desde que o valor não ultrapasse R$ 20.000,00.",
+"c": false,
+"prof": "Insignificância.",
+"x": "Contrabando.",
+"e": "Cigarros"
+},
+{
+"p": "A reiteração delitiva, em regra, afasta a aplicação do princípio da insignificância no descaminho.",
+"c": true,
+"prof": "Insignificância.",
+"x": "Habitualidade.",
+"e": "Reiteração"
+},
+{
+"p": "O crime de descaminho é formal e não depende da constituição definitiva do crédito tributário.",
+"c": true,
+"prof": "Descaminho.",
+"x": "STJ.",
+"e": "Formal"
+},
+{
+"p": "O descaminho é punido com reclusão de 1 a 4 anos, e o contrabando, com reclusão de 2 a 5 anos.",
+"c": true,
+"prof": "Aduaneiros.",
+"x": "CP, arts. 334 e 334-A.",
+"e": "Penas"
+},
+{
+"p": "Compete à Justiça Federal julgar a sonegação de imposto de renda.",
+"c": true,
+"prof": "Competência.",
+"x": "Tributo federal.",
+"e": "Federal"
+},
+{
+"p": "Compete à Justiça Estadual julgar a sonegação de ICMS.",
+"c": true,
+"prof": "Competência.",
+"x": "Tributo estadual.",
+"e": "Estadual"
+},
+{
+"p": "A apropriação indébita previdenciária (CP, art. 168-A) é punida com reclusão de 2 a 5 anos e multa.",
+"c": true,
+"prof": "Previdenciários.",
+"x": "CP.",
+"e": "Pena"
+},
+{
+"p": "Os crimes do art. 2º da Lei 8.137 admitem transação penal.",
+"c": true,
+"prof": "Art. 2º.",
+"x": "Menor potencial ofensivo.",
+"e": "Lei 9.099"
+},
+{
+"p": "Os crimes do art. 1º da Lei 8.137 admitem, em tese, acordo de não persecução penal.",
+"c": true,
+"prof": "ANPP.",
+"x": "Pena mínima inferior a 4 anos.",
+"e": "ANPP"
+},
+{
+"p": "A denúncia por crime tributário societário pode imputar o crime ao sócio apenas por constar no contrato social, dispensada qualquer descrição de conduta.",
+"c": false,
+"prof": "Denúncia.",
+"x": "Responsabilidade objetiva vedada.",
+"e": "Sócio"
+},
+{
+"p": "A captação de recursos em esquema de pirâmide financeira configura, em regra, crime contra a economia popular, de competência estadual.",
+"c": true,
+"prof": "Economia popular.",
+"x": "Lei 1.521/1951.",
+"e": "Pirâmide"
+},
+{
+"p": "Revender combustível adulterado em desacordo com as normas da ANP pode configurar crime previsto na Lei 8.176/1991.",
+"c": true,
+"prof": "Combustíveis.",
+"x": "Lei especial.",
+"e": "ANP"
+},
+{
+"p": "O planejamento tributário lícito, realizado por meios legais antes do fato gerador, não configura crime contra a ordem tributária.",
+"c": true,
+"prof": "Elisão.",
+"x": "Sem fraude.",
+"e": "Planejamento"
+},
+{
+"p": "A sonegação fiscal pressupõe o emprego de fraude, simulação ou omissão após a ocorrência do fato gerador.",
+"c": true,
+"prof": "Evasão.",
+"x": "Ilícita.",
+"e": "Fraude"
+},
+{
+"p": "Nos crimes societários, admite-se denúncia genérica, que imputa o crime a todos os sócios apenas por constarem no contrato social.",
+"c": false,
+"prof": "Denúncia.",
+"x": "Vedada.",
+"e": "Genérica"
+},
+{
+"p": "O contador que, consciente da fraude, elabora escrituração falsa para reduzir tributo pode responder como coautor ou partícipe.",
+"c": true,
+"prof": "Autoria.",
+"x": "Dolo.",
+"e": "Contador"
+},
+{
+"p": "A prescrição em abstrato do crime do art. 1º da Lei 8.137 ocorre em 12 anos.",
+"c": true,
+"prof": "Prescrição.",
+"x": "Pena máxima de 5 anos.",
+"e": "12 anos"
+},
+{
+"p": "A prescrição em abstrato dos crimes do art. 2º da Lei 8.137 ocorre em 4 anos.",
+"c": true,
+"prof": "Prescrição.",
+"x": "Pena máxima de 2 anos.",
+"e": "4 anos"
+},
+{
+"p": "Omitir dizeres ostensivos sobre a nocividade de produtos nas embalagens é crime previsto no Código de Defesa do Consumidor.",
+"c": true,
+"prof": "CDC.",
+"x": "Art. 63.",
+"e": "Nocividade"
+},
+{
+"p": "Fazer publicidade que sabe ser enganosa é crime previsto no Código de Defesa do Consumidor.",
+"c": true,
+"prof": "CDC.",
+"x": "Art. 67.",
+"e": "Publicidade"
+},
+{
+"p": "Utilizar, na cobrança de dívidas, ameaça ou exposição do consumidor ao ridículo é crime previsto no CDC.",
+"c": true,
+"prof": "CDC.",
+"x": "Art. 71.",
+"e": "Cobrança"
+},
+{
+"p": "Compete à Justiça Estadual o julgamento dos crimes contra a economia popular.",
+"c": true,
+"prof": "Economia popular.",
+"x": "Súmula 498 do STF.",
+"e": "Estadual"
+},
+{
+"p": "Cobrar juros superiores à taxa permitida por lei, sobre dívidas em dinheiro, configura usura pecuniária.",
+"c": true,
+"prof": "Usura.",
+"x": "Lei 1.521, art. 4º.",
+"e": "Agiota"
+},
+{
+"p": "A sonegação praticada em vários meses pode ser tratada como crime continuado.",
+"c": true,
+"prof": "Continuidade.",
+"x": "CP, art. 71.",
+"e": "Continuado"
+},
+{
+"p": "Desde a Lei 12.382/2011, o parcelamento só suspende a pretensão punitiva se formalizado antes do recebimento da denúncia.",
+"c": true,
+"prof": "Parcelamento.",
+"x": "Lei 9.430, art. 83, § 2º.",
+"e": "Recebimento"
+},
+{
+"p": "A anulação do débito tributário no processo administrativo não interfere na existência do crime material de sonegação.",
+"c": false,
+"prof": "SV 24.",
+"x": "Sem débito, sem crime.",
+"e": "Anulação"
+},
+{
+"p": "O produto da sonegação, se ocultado ou dissimulado, pode ser objeto do crime de lavagem de dinheiro.",
+"c": true,
+"prof": "Lavagem.",
+"x": "Qualquer infração antecedente.",
+"e": "Lavagem"
+},
+{
+"p": "Os antigos arts. 5º e 6º da Lei 8.137 foram revogados pela Lei 12.529/2011.",
+"c": true,
+"prof": "Ordem econômica.",
+"x": "Defesa da concorrência.",
+"e": "Revogação"
+},
+{
+"p": "O descaminho tem por objeto mercadoria permitida, com ilusão do tributo devido, enquanto o contrabando tem por objeto mercadoria proibida.",
+"c": true,
+"prof": "Aduaneiros.",
+"x": "Distinção.",
+"e": "Objeto"
+},
+{
+"p": "A competência para o contrabando ou descaminho define-se pela prevenção do Juízo Federal do lugar da apreensão dos bens.",
+"c": true,
+"prof": "Aduaneiros.",
+"x": "Súmula 151 do STJ.",
+"e": "Competência"
+},
+{
+"p": "De acordo com a Súmula Vinculante 24, não se tipifica crime material contra a ordem tributária antes",
+"alts": [
+"da representação fiscal",
+"do oferecimento da denúncia",
+"do lançamento definitivo do tributo",
+"da inscrição em dívida ativa",
+"da execução fiscal"
+],
+"r": 2,
+"x": "Art. 1º, I a IV.",
+"n": [
+"Não é condição.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "SV 24."
+},
+{
+"p": "Sobre o não recolhimento de ICMS declarado, segundo o STF, é correto afirmar:",
+"alts": [
+"é sempre atípico, por ser mero inadimplemento",
+"é sempre crime",
+"configura o crime do art. 2º, II, da Lei 8.137 quando houver contumácia e dolo de apropriação",
+"configura sonegação do art. 1º",
+"configura estelionato"
+],
+"r": 2,
+"x": "RHC 163.334.",
+"n": [
+"Não sempre.",
+"Não sempre.",
+"Correta.",
+"Não houve fraude.",
+"Não."
+],
+"e": "ICMS."
+},
+{
+"p": "Os crimes do art. 2º da Lei 8.137/1990",
+"alts": [
+"são materiais e exigem lançamento definitivo",
+"são punidos com reclusão de 2 a 5 anos",
+"são formais e punidos com detenção de 6 meses a 2 anos, admitindo transação penal",
+"são hediondos",
+"não admitem a Lei 9.099"
+],
+"r": 2,
+"x": "Menor potencial ofensivo.",
+"n": [
+"São formais.",
+"Detenção.",
+"Correta.",
+"Não.",
+"Admitem."
+],
+"e": "Art. 2º."
+},
+{
+"p": "Quanto à extinção da punibilidade nos crimes tributários, é correto afirmar:",
+"alts": [
+"o pagamento só extingue a punibilidade antes da denúncia",
+"o pagamento integral extingue a punibilidade a qualquer tempo, e o parcelamento só suspende a pretensão punitiva se pedido antes do recebimento da denúncia",
+"o parcelamento extingue a punibilidade",
+"o pagamento parcial extingue a punibilidade",
+"a regra vale para o contrabando"
+],
+"r": 1,
+"x": "Leis 10.684/2003 e 12.382/2011.",
+"n": [
+"A qualquer tempo.",
+"Correta.",
+"Suspende.",
+"Integral.",
+"Não."
+],
+"e": "Pagamento."
+},
+{
+"p": "Um auditor fiscal exige vantagem indevida para não lavrar auto de infração. Ele comete",
+"alts": [
+"corrupção passiva do CP",
+"concussão do CP",
+"crime funcional do art. 3º, II, da Lei 8.137/1990",
+"prevaricação",
+"advocacia administrativa"
+],
+"r": 2,
+"x": "Norma especial.",
+"n": [
+"Afastada pela especial.",
+"Afastada pela especial.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Art. 3º."
+},
+{
+"p": "Configura crime contra a ordem econômica (art. 4º da Lei 8.137):",
+"alts": [
+"vender produto vencido",
+"formar acordo entre ofertantes para fixar artificialmente preços",
+"deixar de emitir nota fiscal",
+"sonegar ICMS",
+"importar mercadoria sem pagar tributo"
+],
+"r": 1,
+"x": "Cartel.",
+"n": [
+"Art. 7º, IX.",
+"Correta.",
+"Art. 1º, V.",
+"Art. 1º.",
+"Descaminho."
+],
+"e": "Cartel."
+},
+{
+"p": "No crime do art. 7º, IX, da Lei 8.137 (mercadoria imprópria ao consumo), é correto afirmar:",
+"alts": [
+"não admite modalidade culposa",
+"a pena é de reclusão de 4 a 8 anos",
+"pune-se também a forma culposa, com redução da pena",
+"é crime de competência federal",
+"depende de representação do consumidor"
+],
+"r": 2,
+"x": "Parágrafo único.",
+"n": [
+"Admite.",
+"Detenção de 2 a 5 anos ou multa.",
+"Correta.",
+"Estadual, em regra.",
+"Pública incondicionada."
+],
+"e": "Consumo."
+},
+{
+"p": "O princípio da insignificância, segundo a jurisprudência do STJ e do STF, aplica-se",
+"alts": [
+"ao contrabando de cigarros até R$ 20 mil",
+"aos crimes tributários federais e ao descaminho até R$ 20 mil, salvo habitualidade",
+"a qualquer crime tributário, sem limite",
+"apenas aos tributos municipais",
+"à apropriação indébita previdenciária sem limite"
+],
+"r": 1,
+"x": "Tema 157.",
+"n": [
+"Não se aplica ao contrabando.",
+"Correta.",
+"Há limite.",
+"Não.",
+"Não."
+],
+"e": "Insignificância."
+},
+{
+"p": "É causa de aumento de pena prevista no art. 12 da Lei 8.137:",
+"alts": [
+"ser o agente primário",
+"ocasionar grave dano à coletividade",
+"pagar parte do tributo",
+"ter o crime sido cometido à noite",
+"ter o agente confessado"
+],
+"r": 1,
+"x": "Art. 12, I.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Art. 12."
+},
+{
+"p": "A delação prevista no art. 16, parágrafo único, da Lei 8.137 exige",
+"alts": [
+"acordo homologado pelo juiz",
+"confissão espontânea que revele à autoridade policial ou judicial toda a trama delituosa, em crimes praticados em coautoria ou quadrilha",
+"pagamento do tributo",
+"autorização do MP",
+"ser o colaborador o líder"
+],
+"r": 1,
+"x": "Redução de 1/3 a 2/3.",
+"n": [
+"Não exige.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Delação."
+},
+{
+"p": "A Súmula 658 do STJ afirma que o crime de apropriação indébita tributária",
+"alts": [
+"só ocorre em substituição tributária",
+"pode ocorrer tanto em operações próprias como em razão de substituição tributária",
+"só ocorre com o IPI",
+"exige fraude documental",
+"é crime material"
+],
+"r": 1,
+"x": "Súmula 658.",
+"n": [
+"Não só.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Súmula 658."
+},
+{
+"p": "Sobre o descaminho, é correto afirmar:",
+"alts": [
+"é crime material que exige lançamento definitivo",
+"o pagamento do tributo extingue a punibilidade",
+"é crime formal, de competência federal, que admite a insignificância até R$ 20 mil, salvo reiteração",
+"tem pena de reclusão de 2 a 5 anos",
+"é julgado pela Justiça Estadual"
+],
+"r": 2,
+"x": "CP, art. 334.",
+"n": [
+"Formal.",
+"Não se aplica.",
+"Correta.",
+"1 a 4 anos.",
+"Federal."
+],
+"e": "Descaminho."
+},
+{
+"p": "A sonegação de ICMS por meio de notas fiscais falsas é julgada pela",
+"alts": [
+"Justiça Federal",
+"Justiça Estadual",
+"Justiça Militar",
+"Justiça do Trabalho",
+"Justiça Eleitoral"
+],
+"r": 1,
+"x": "Tributo estadual.",
+"n": [
+"Tributos federais.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Competência."
+},
+{
+"p": "O acordo de leniência celebrado com o CADE, quanto aos crimes contra a ordem econômica, produz o seguinte efeito:",
+"alts": [
+"aumenta a pena dos demais agentes",
+"suspende a prescrição e impede a denúncia contra o beneficiário; cumprido, extingue a punibilidade",
+"substitui a pena por multa",
+"exige confissão em juízo",
+"não tem efeitos penais"
+],
+"r": 1,
+"x": "Lei 12.529, art. 87.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Tem."
+],
+"e": "Leniência."
+},
+{
+"p": "Segundo o STF (Tema 990), o compartilhamento da íntegra do procedimento fiscalizatório da Receita Federal com o MP, para fins penais,",
+"alts": [
+"exige autorização judicial prévia",
+"é inconstitucional",
+"é constitucional, sem prévia autorização judicial, resguardado o sigilo em procedimentos formalmente instaurados",
+"depende de consentimento do contribuinte",
+"só é possível após a condenação"
+],
+"r": 2,
+"x": "RE 1.055.941.",
+"n": [
+"Não exige.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Tema 990."
+},
+{
+"p": "Assinale o crime da Lei 8.137 que é tratado pela doutrina como formal, não dependendo de lançamento definitivo:",
+"alts": [
+"omitir informação às autoridades fazendárias, reduzindo tributo (art. 1º, I)",
+"fraudar a fiscalização inserindo elementos inexatos (art. 1º, II)",
+"falsificar nota fiscal, reduzindo tributo (art. 1º, III)",
+"negar ou deixar de fornecer nota fiscal quando obrigatório (art. 1º, V)",
+"utilizar documento falso, reduzindo tributo (art. 1º, IV)"
+],
+"r": 3,
+"x": "SV 24 abrange I a IV.",
+"n": [
+"Material.",
+"Material.",
+"Material.",
+"Correta.",
+"Material."
+],
+"e": "Inciso V."
+},
+{
+"p": "Na denúncia por crime tributário praticado por meio de empresa, é correto afirmar:",
+"alts": [
+"basta indicar os sócios do contrato social",
+"é necessário descrever, ainda que sucintamente, a conduta de cada acusado, vedada a responsabilidade objetiva",
+"a pessoa jurídica deve figurar como ré",
+"dispensa-se a indicação de autoria",
+"só o contador pode ser denunciado"
+],
+"r": 1,
+"x": "Art. 11.",
+"n": [
+"Responsabilidade objetiva.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Autoria."
+},
+{
+"p": "Os crimes do art. 3º, I e II, da Lei 8.137 são punidos com",
+"alts": [
+"detenção de 6 meses a 2 anos",
+"reclusão de 2 a 5 anos",
+"reclusão de 3 a 8 anos e multa",
+"reclusão de 1 a 4 anos",
+"apenas multa"
+],
+"r": 2,
+"x": "Crimes funcionais.",
+"n": [
+"Art. 2º.",
+"Art. 1º.",
+"Correta.",
+"Art. 3º, III.",
+"Não."
+],
+"e": "Penas."
+}
+]
+},
+"crimes-ctb": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>5 a 8</b><span>anos de reclusão: homicídio culposo na direção sob influência de álcool ou outra substância psicoativa (CTB, art. 302, § 3º)</span></div><div class=\"lt-stat\"><b>0,3 mg/L</b><span>de ar alveolar (ou 6 dg/L de sangue): concentração que configura o crime de embriaguez ao volante (art. 306, § 1º, I)</span></div><div class=\"lt-stat\"><b>2 meses a 5 anos</b><span>duração da suspensão ou proibição de obter a habilitação como pena (art. 293)</span></div><div class=\"lt-stat\"><b>0</b><span>prisão em flagrante e fiança para quem presta pronto e integral socorro à vítima (art. 301)</span></div></div>\n<h3>1. Os crimes de trânsito no CTB: visão geral</h3>\n<ul><li>O <b>Código de Trânsito Brasileiro</b> (Lei 9.503/1997) dedica o <b>Capítulo XIX</b> (arts. 291 a 312-B) aos <b>crimes de trânsito</b>, divididos em <b>disposições gerais</b> (arts. 291 a 301) e <b>crimes em espécie</b> (arts. 302 a 312).</li><li><b>Bem jurídico</b>: a <b>segurança viária</b> (incolumidade pública no trânsito) e, nos crimes de dano, a <b>vida</b> e a <b>integridade física</b>.</li><li><b>Classificação</b>: há crimes de <b>dano</b> (homicídio culposo e lesão corporal culposa, arts. 302 e 303), crimes de <b>perigo abstrato</b> (embriaguez ao volante, art. 306; entrega de veículo a não habilitado, art. 310, segundo a Súmula 575 do STJ) e crimes de <b>perigo concreto</b> (direção sem habilitação, art. 309; velocidade incompatível, art. 311, que exigem \"perigo de dano\").</li><li><b>Veículo automotor</b>: todo veículo a motor de propulsão que circule por seus próprios meios e que serve normalmente para o transporte viário de pessoas e coisas, ou para a tração viária de veículos utilizados para o transporte de pessoas e coisas (Anexo I do CTB). Bicicletas <b>não</b> são veículos automotores; <b>ciclomotores</b> e motocicletas, sim. Os crimes dos arts. 302 e 303 exigem que o agente esteja \"na direção de <b>veículo automotor</b>\".</li></ul>\n<table class=\"tab\"><thead><tr><th>Crime</th><th>Artigo</th><th>Pena</th></tr></thead><tbody><tr><td>Homicídio culposo na direção de veículo automotor</td><td>302</td><td>detenção de 2 a 4 anos, e suspensão ou proibição de obter a permissão ou a habilitação</td></tr><tr><td>Homicídio culposo sob influência de álcool ou substância psicoativa</td><td>302, § 3º</td><td><b>reclusão de 5 a 8 anos</b>, e suspensão ou proibição</td></tr><tr><td>Lesão corporal culposa</td><td>303</td><td>detenção de 6 meses a 2 anos, e suspensão ou proibição</td></tr><tr><td>Lesão culposa grave ou gravíssima sob influência de álcool ou substância psicoativa</td><td>303, § 2º</td><td><b>reclusão de 2 a 5 anos</b>, sem prejuízo de outras penas</td></tr><tr><td>Omissão de socorro</td><td>304</td><td>detenção de 6 meses a 1 ano, ou multa</td></tr><tr><td>Fuga do local do acidente</td><td>305</td><td>detenção de 6 meses a 1 ano, ou multa</td></tr><tr><td>Embriaguez ao volante</td><td>306</td><td>detenção de 6 meses a 3 anos, multa e suspensão ou proibição</td></tr><tr><td>Violar a suspensão ou a proibição de dirigir</td><td>307</td><td>detenção de 6 meses a 1 ano e multa, com nova imposição de igual prazo</td></tr><tr><td>Racha (participar de competição não autorizada)</td><td>308</td><td>detenção de 6 meses a 3 anos, multa e suspensão ou proibição</td></tr><tr><td>Dirigir sem habilitação gerando perigo de dano</td><td>309</td><td>detenção de 6 meses a 1 ano, ou multa</td></tr><tr><td>Entregar a direção a pessoa não habilitada, embriagada etc.</td><td>310</td><td>detenção de 6 meses a 1 ano, ou multa</td></tr><tr><td>Velocidade incompatível em locais especiais</td><td>311</td><td>detenção de 6 meses a 1 ano, ou multa</td></tr><tr><td>Fraude processual em acidente (inovar artificiosamente)</td><td>312</td><td>detenção de 6 meses a 1 ano, ou multa</td></tr></tbody></table>\n<h3>2. Aplicação das normas gerais e da Lei 9.099: art. 291</h3>\n<ul><li><b>Art. 291, caput</b>: aos crimes cometidos na direção de veículos automotores aplicam-se as normas gerais do <b>Código Penal</b> e do <b>CPP</b>, se o CTB não dispuser de modo diverso, bem como a <b>Lei 9.099/1995</b>, no que couber.</li><li><b>§ 1º</b>: aplica-se aos crimes de trânsito de <b>lesão corporal culposa</b> o disposto nos arts. <b>74</b> (composição civil), <b>76</b> (transação penal) e <b>88</b> (representação) da Lei 9.099, <b>exceto</b> se o agente estiver: I, sob a influência de <b>álcool</b> ou qualquer outra substância psicoativa que determine dependência; II, participando, em via pública, de <b>corrida, disputa ou competição</b> automobilística, de exibição ou demonstração de perícia em manobra de veículo automotor, não autorizada pela autoridade competente; III, transitando em velocidade <b>superior à máxima permitida para a via em 50 km/h</b>.</li><li><b>§ 2º</b>: nas hipóteses do § 1º, deverá ser instaurado <b>inquérito policial</b> para a investigação da infração penal (e não termo circunstanciado).</li><li><b>§ 4º</b> (Lei 13.546/2017): o juiz fixará a pena-base segundo as diretrizes do art. 59 do CP, dando especial atenção à <b>culpabilidade</b> do agente e às <b>circunstâncias e consequências</b> do crime.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A lesão corporal culposa no trânsito é sempre de ação pública incondicionada</span><br>✅ <span class=\"certo\">Em regra depende de <b>representação</b> (Lei 9.099, art. 88), salvo as exceções do § 1º</span></li><li>❌ <span class=\"banca\">Na lesão culposa praticada por motorista embriagado, cabe transação penal</span><br>✅ <span class=\"certo\"><b>Não</b>: § 1º, I, afasta os arts. 74, 76 e 88</span></li><li>❌ <span class=\"banca\">A lesão culposa com velocidade 30 km/h acima da máxima afasta a Lei 9.099</span><br>✅ <span class=\"certo\">Só acima de <b>50 km/h</b></span></li></ol></div>\n<ul><li><b>Consequência prática do § 1º</b>: a lesão corporal culposa \"comum\" no trânsito (sem embriaguez, racha ou excesso de 50 km/h) é infração de <b>menor potencial ofensivo</b>, de ação <b>pública condicionada à representação</b>, com composição civil e transação. Já nas três hipóteses do § 1º, a ação é <b>pública incondicionada</b>, não há composição nem transação, e instaura-se <b>inquérito</b>. A suspensão condicional do processo (art. 89 da Lei 9.099), por não estar no rol excluído, continua possível, em tese, se a pena mínima permitir.</li></ul>\n<h3>3. Penas específicas e regras gerais: arts. 292 a 301</h3>\n<ul><li><b>Art. 292</b>: a <b>suspensão</b> ou a <b>proibição</b> de se obter a permissão ou a habilitação para dirigir veículo automotor pode ser imposta <b>isolada ou cumulativamente</b> com outras penalidades.</li><li><b>Art. 293</b>: a penalidade de suspensão ou de proibição tem a duração de <b>2 meses a 5 anos</b>. Transitada em julgado a sentença, o réu será intimado a entregar à autoridade judiciária, em <b>48 horas</b>, a Permissão para Dirigir ou a Carteira de Habilitação (§ 1º). A penalidade <b>não se inicia</b> enquanto o sentenciado, por efeito de condenação penal, estiver <b>recolhido</b> a estabelecimento prisional (§ 2º).</li><li><b>Art. 294</b>: em qualquer fase da investigação ou da ação penal, havendo necessidade para a garantia da <b>ordem pública</b>, poderá o juiz, como <b>medida cautelar</b>, de ofício (redação original), a requerimento do MP ou ainda mediante representação da autoridade policial, decretar, em decisão motivada, a <b>suspensão</b> da permissão ou da habilitação, ou a <b>proibição</b> de sua obtenção. Da decisão cabe <b>recurso em sentido estrito</b>, sem efeito suspensivo. (Após o Pacote Anticrime, prevalece que a decretação de ofício na fase investigativa é vedada.)</li><li><b>Art. 295</b>: a suspensão ou a proibição será sempre comunicada pela autoridade judiciária ao <b>Contran</b> e ao órgão de trânsito do Estado em que o indiciado ou réu for domiciliado ou residente.</li><li><b>Art. 296</b>: se o réu for <b>reincidente</b> na prática de crime previsto neste Código, o juiz aplicará a penalidade de suspensão da permissão ou habilitação para dirigir veículo automotor, <b>sem prejuízo</b> das demais sanções penais cabíveis.</li><li><b>Art. 297 (multa reparatória)</b>: consiste no pagamento, mediante depósito judicial em favor da <b>vítima</b> ou seus sucessores, de quantia calculada com base no § 1º do art. 49 do CP, sempre que houver <b>prejuízo material</b> resultante do crime. Não pode ser superior ao valor do prejuízo demonstrado no processo, e será descontada da indenização civil.</li></ul>\n<table class=\"tab\"><thead><tr><th>Art. 298 (agravantes)</th><th>Hipótese</th></tr></thead><tbody><tr><td>I</td><td>com dano potencial para <b>duas ou mais pessoas</b> ou com grande risco de grave dano patrimonial a terceiros</td></tr><tr><td>II</td><td>utilizando o veículo <b>sem placas</b>, com placas <b>falsas</b> ou adulteradas</td></tr><tr><td>III</td><td><b>sem possuir</b> Permissão para Dirigir ou Carteira de Habilitação</td></tr><tr><td>IV</td><td>com Permissão ou Habilitação de <b>categoria diferente</b> da do veículo</td></tr><tr><td>V</td><td>quando a sua <b>profissão</b> ou atividade exigir cuidados especiais com o transporte de passageiros ou de carga</td></tr><tr><td>VI</td><td>utilizando veículo em que tenham sido <b>adulterados</b> equipamentos ou características que afetem a sua segurança ou o seu funcionamento de acordo com os limites de velocidade</td></tr><tr><td>VII</td><td>sobre <b>faixa de trânsito temporária ou permanentemente destinada a pedestres</b></td></tr></tbody></table>\n<ul><li><b>Bis in idem</b>: a agravante não se aplica quando a mesma circunstância já for <b>causa de aumento</b> do crime (por exemplo, no homicídio culposo, a falta de habilitação e a faixa de pedestres já são majorantes do art. 302, § 1º).</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CTB, art. 301</div><div class=\"art-lei\">Ao condutor de veículo, nos casos de acidentes de trânsito de que resulte vítima, não se imporá a prisão em flagrante, nem se exigirá fiança, se prestar pronto e integral socorro àquela.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Benefício para quem <b>socorre</b> a vítima: <b>sem prisão em flagrante</b> e <b>sem fiança</b></li><li>O socorro deve ser <b>pronto</b> (imediato) e <b>integral</b></li><li>Objetivo: estimular o socorro e evitar a fuga</li><li>Não impede a instauração de inquérito nem a futura condenação</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que o socorro extingue a punibilidade</li><li>A banca diz que o benefício só vale se a vítima sobreviver</li></ul></div></div>\n<h3>4. Homicídio culposo na direção de veículo automotor: art. 302</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CTB, art. 302</div><div class=\"art-lei\">Praticar homicídio culposo na direção de veículo automotor. Pena: detenção, de 2 a 4 anos, e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor. § 1º No homicídio culposo cometido na direção de veículo automotor, a pena é aumentada de 1/3 à metade, se o agente: I, não possuir Permissão para Dirigir ou Carteira de Habilitação; II, praticá-lo em faixa de pedestres ou na calçada; III, deixar de prestar socorro, quando possível fazê-lo sem risco pessoal, à vítima do acidente; IV, no exercício de sua profissão ou atividade, estiver conduzindo veículo de transporte de passageiros. § 3º Se o agente conduz veículo automotor sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência: Pena: reclusão, de 5 a 8 anos, e suspensão ou proibição do direito de se obter a permissão ou a habilitação para dirigir veículo automotor.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>Especial</b> em relação ao art. 121, § 3º, do CP (pena maior)</li><li>Exige a <b>direção de veículo automotor</b></li><li>Causas de aumento de <b>1/3 à metade</b> (sem habilitação; faixa ou calçada; omissão de socorro; transporte de passageiros)</li><li>§ 3º: <b>qualificadora</b> da embriaguez, <b>reclusão de 5 a 8 anos</b> (Lei 13.546/2017)</li><li>O antigo § 2º (racha e embriaguez) foi revogado</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca aplica o art. 121, § 3º, do CP ao atropelamento culposo por motorista</li><li>A banca diz que o § 3º prevê detenção</li></ul></div></div>\n<ul><li><b>Constitucionalidade da pena maior</b>: o STF considera constitucional que o homicídio culposo de trânsito tenha pena maior que o homicídio culposo do CP (1 a 3 anos), em razão do maior risco e da frequência dos acidentes, não havendo ofensa à isonomia nem à proporcionalidade.</li><li><b>Perdão judicial</b>: aplica-se ao homicídio culposo de trânsito o <b>perdão judicial</b> do art. 121, § 5º, do CP (quando as consequências da infração atingirem o próprio agente de forma tão grave que a sanção penal se torne desnecessária, como a morte do filho que estava no carro). O art. 300 do CTB, que tratava do tema, foi vetado, mas a jurisprudência aplica o CP.</li><li><b>Omissão de socorro como majorante (inciso III)</b>: se o motorista que causou o acidente deixa de socorrer, a omissão é <b>causa de aumento</b> do art. 302 (ou 303), e não o crime autônomo do art. 304, que se aplica ao condutor que <b>não</b> agiu com culpa.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF e STJ · dolo eventual nos crimes de trânsito</b><p class=\"jc-tese\">O homicídio no trânsito pode ser <b>doloso</b> (dolo eventual), e não culposo, quando as circunstâncias demonstrarem que o agente <b>assumiu o risco</b> de matar: por exemplo, <b>racha</b> em via urbana, velocidade extremamente elevada combinada com embriaguez, manobras deliberadamente perigosas. Nessas hipóteses, a competência é do <b>Tribunal do Júri</b> (CP, art. 121).</p><p class=\"jc-com\">O STF e o STJ alertam, porém, que a <b>embriaguez</b>, isoladamente, <b>não</b> autoriza presumir o dolo eventual: é preciso examinar o conjunto das circunstâncias. A distinção entre <b>dolo eventual</b> (\"tanto faz se acontecer\") e <b>culpa consciente</b> (\"acredito sinceramente que não vai acontecer\") é das mais cobradas em provas. A <b>pronúncia</b> por dolo eventual exige indícios concretos, e, na dúvida, cabe ao júri decidir.</p></div>\n<h3>5. Lesão corporal culposa: art. 303</h3>\n<ul><li><b>Art. 303</b>: praticar lesão corporal culposa na direção de veículo automotor. Pena: <b>detenção de 6 meses a 2 anos</b> e suspensão ou proibição de se obter a permissão ou a habilitação. <b>§ 1º</b>: aumenta-se a pena de <b>1/3 à metade</b> em qualquer das hipóteses do § 1º do art. 302. <b>§ 2º</b> (Lei 13.546/2017): a pena privativa de liberdade é de <b>reclusão de 2 a 5 anos</b>, sem prejuízo das outras penas, se o agente conduz o veículo sob a influência de <b>álcool</b> ou substância psicoativa que determine dependência, e se do crime resultar lesão corporal de natureza <b>grave ou gravíssima</b>.</li><li><b>Ação penal</b>: em regra, <b>condicionada à representação</b> (art. 291, § 1º, c/c Lei 9.099, art. 88), salvo nas hipóteses de embriaguez, racha ou excesso de 50 km/h, em que é <b>incondicionada</b>.</li><li><b>Art. 312-B</b> (Lei 14.071/2020): aos crimes do <b>art. 302, § 3º</b>, e do <b>art. 303, § 2º</b>, <b>não</b> se aplica o inciso I do art. 44 do CP, ou seja, <b>não</b> cabe a <b>substituição</b> da pena privativa de liberdade por restritiva de direitos com base no critério de pena até 4 anos em crime culposo. A intenção do legislador foi impedir que o motorista embriagado que mata ou fere gravemente receba apenas penas alternativas.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">💬 Ponto de atenção · a vedação do art. 312-B</b><p class=\"jc-tese\">O art. 44, I, do CP permite a substituição de qualquer pena por restritivas nos crimes <b>culposos</b>, independentemente da quantidade. O art. 312-B afastou essa regra para o homicídio e a lesão grave cometidos por motorista <b>embriagado</b>. Parte da doutrina questiona a constitucionalidade da vedação <b>abstrata</b> (lembrando o HC 97.256 do STF sobre o tráfico), mas a regra está em vigor.</p><p class=\"jc-com\">Em provas, cobre a literalidade: \"aos crimes previstos no § 3º do art. 302 e no § 2º do art. 303 deste Código não se aplica o disposto no inciso I do caput do art. 44 do Código Penal\".</p></div>\n<h3>6. Omissão de socorro e fuga do local: arts. 304 e 305</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CTB, art. 304</div><div class=\"art-lei\">Deixar o condutor do veículo, na ocasião do acidente, de prestar imediato socorro à vítima, ou, não podendo fazê-lo diretamente, por justa causa, deixar de solicitar auxílio da autoridade pública. Pena: detenção, de 6 meses a 1 ano, ou multa, se o fato não constituir elemento de crime mais grave. Parágrafo único: incide nas penas previstas neste artigo o condutor do veículo, ainda que a sua omissão seja suprida por terceiros ou que se trate de vítima com morte instantânea ou com ferimentos leves.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Sujeito ativo: <b>condutor envolvido</b> no acidente que <b>não</b> agiu com culpa (se agiu com culpa e omitiu, é majorante do 302/303)</li><li>Duas condutas: não socorrer <b>ou</b> não pedir auxílio da autoridade</li><li><b>Subsidiário</b> expressamente</li><li>Parágrafo único: o crime existe mesmo que <b>terceiros</b> socorram, que a vítima tenha <b>morte instantânea</b> ou ferimentos leves</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que não há crime se a vítima morreu na hora</li><li>A banca aplica o art. 304 ao motorista culpado pelo acidente</li></ul></div></div>\n<ul><li><b>Morte instantânea</b>: a doutrina critica o parágrafo único quanto à vítima de morte instantânea (crime impossível, por não haver vida a proteger), mas a lei é expressa, e a jurisprudência tende a aplicá-la quando o condutor não tinha como saber que a vítima já estava morta.</li><li><b>Pedestre ou terceiro que não socorre</b>: quem <b>não</b> é condutor envolvido no acidente e deixa de socorrer comete o crime de <b>omissão de socorro do CP</b> (art. 135), e não o do CTB.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CTB, art. 305</div><div class=\"art-lei\">Afastar-se o condutor do veículo do local do acidente, para fugir à responsabilidade penal ou civil que lhe possa ser atribuída. Pena: detenção, de 6 meses a 1 ano, ou multa.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li><b>Elemento subjetivo especial</b>: para fugir à responsabilidade <b>penal ou civil</b></li><li>Crime de <b>mera conduta</b></li><li>Aplica-se ainda que o acidente seja apenas com danos materiais</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que o art. 305 é inconstitucional por violar a não autoincriminação</li></ul></div></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 907 (RE 971.959)</b><p class=\"jc-tese\">\"A regra que prevê o crime do art. 305 do Código de Trânsito Brasileiro (Lei 9.503/1997) é <b>constitucional</b>, posto não infirmar o princípio da não incriminação, garantido o direito ao silêncio e as hipóteses de exclusão da tipicidade e da antijuridicidade.\"</p><p class=\"jc-com\">O STF entendeu que exigir que o condutor permaneça no local do acidente não o obriga a confessar nem a produzir prova contra si: ele pode permanecer <b>calado</b>. O objetivo é permitir a identificação dos envolvidos e a apuração da responsabilidade civil. O motorista que se afasta para <b>buscar socorro</b> ou por <b>risco</b> à própria integridade (ameaça de linchamento) não comete o crime, por ausência do fim especial de fugir à responsabilidade ou por excludente.</p></div>\n<h3>7. Embriaguez ao volante: art. 306</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CTB, art. 306</div><div class=\"art-lei\">Conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência. Pena: detenção, de 6 meses a 3 anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor. § 1º As condutas previstas no caput serão constatadas por: I, concentração igual ou superior a 6 decigramas de álcool por litro de sangue ou igual ou superior a 0,3 miligrama de álcool por litro de ar alveolar; ou II, sinais que indiquem, na forma disciplinada pelo Contran, alteração da capacidade psicomotora. § 2º A verificação do disposto neste artigo poderá ser obtida mediante teste de alcoolemia ou toxicológico, exame clínico, perícia, vídeo, prova testemunhal ou outros meios de prova em direito admitidos, observado o direito à contraprova.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Crime de <b>perigo abstrato</b> (STF e STJ): não exige direção anormal nem perigo concreto</li><li>Prova <b>objetiva</b> (6 dg/L de sangue ou <b>0,3 mg/L</b> de ar) <b>ou</b> <b>sinais</b> de alteração (Resolução Contran 432/2013)</li><li>Prova por <b>vídeo</b>, <b>testemunhas</b>, exame clínico</li><li>Vale para <b>álcool</b> e <b>outras substâncias psicoativas</b></li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que exige perigo concreto</li><li>A banca diz que só o bafômetro prova o crime</li></ul></div></div>\n<table class=\"tab\"><thead><tr><th>Concentração no etilômetro</th><th>Consequência (Resolução Contran 432/2013)</th></tr></thead><tbody><tr><td>Qualquer concentração acima da tolerância do aparelho (0,04 mg/L, margem de erro)</td><td><b>infração administrativa gravíssima</b> (art. 165), com multa multiplicada e suspensão do direito de dirigir</td></tr><tr><td><b>0,34 mg/L</b> ou mais (0,3 mg/L + margem de erro do aparelho)</td><td><b>crime</b> (art. 306) e infração administrativa</td></tr><tr><td>Recusa ao teste</td><td><b>infração administrativa</b> do art. 165-A (mesmas penalidades do art. 165); o crime pode ser provado por outros meios (sinais, vídeo, testemunhas)</td></tr></tbody></table>\n<ul><li><b>Recusa ao bafômetro</b>: ninguém é obrigado a produzir prova contra si mesmo, por isso a <b>recusa não é crime</b>. Mas é <b>infração administrativa</b> (art. 165-A), e o STF (<b>Tema 1.079</b>) declarou constitucional essa penalidade. O agente de trânsito ou o policial pode constatar a embriaguez pelos <b>sinais</b> (odor etílico, olhos vermelhos, fala alterada, desequilíbrio, agressividade), registrando-os no <b>termo de constatação</b> do Anexo II da Resolução 432/2013, e por testemunhas e vídeo.</li><li><b>Concurso com o art. 302 ou 303</b>: se o motorista embriagado causa a morte ou a lesão, aplica-se a <b>qualificadora</b> (art. 302, § 3º, ou 303, § 2º), que <b>absorve</b> o art. 306. Se a lesão for leve, há discussão: prevalece o concurso entre o art. 303 (lesão leve, com afastamento da Lei 9.099 pelo art. 291, § 1º, I) e o art. 306, ou a absorção, conforme a corrente.</li></ul>\n<h3>8. Violação da suspensão e racha: arts. 307 e 308</h3>\n<ul><li><b>Art. 307</b>: <b>violar</b> a suspensão ou a proibição de se obter a permissão ou a habilitação para dirigir veículo automotor imposta com fundamento neste Código. Pena: <b>detenção de 6 meses a 1 ano</b> e multa, com <b>nova imposição adicional de idêntico prazo</b> de suspensão ou de proibição. <b>Parágrafo único</b>: nas mesmas penas incorre o condenado que deixa de entregar, no prazo de <b>48 horas</b>, a Permissão para Dirigir ou a Carteira de Habilitação.</li><li>O STJ entende que o art. 307 se refere à suspensão ou proibição imposta por <b>decisão judicial</b> (pena ou medida cautelar penal). A suspensão aplicada <b>administrativamente</b> pelo Detran (por excesso de pontos, por exemplo) <b>não</b> configura o crime, segundo a jurisprudência majoritária do STJ; quem dirige nessa situação comete <b>infração administrativa</b> (art. 162, II).</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CTB, art. 308</div><div class=\"art-lei\">Participar, na direção de veículo automotor, em via pública, de corrida, disputa ou competição automobilística ou ainda de exibição ou demonstração de perícia em manobra de veículo automotor, não autorizada pela autoridade competente, gerando situação de risco à incolumidade pública ou privada. Pena: detenção, de 6 meses a 3 anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação. § 1º Se da prática do crime resultar lesão corporal de natureza grave, e as circunstâncias demonstrarem que o agente não quis o resultado nem assumiu o risco de produzi-lo, a pena privativa de liberdade é de reclusão, de 3 a 6 anos, sem prejuízo das outras penas. § 2º Se da prática do crime resultar morte, e as circunstâncias demonstrarem que o agente não quis o resultado nem assumiu o risco de produzi-lo, a pena privativa de liberdade é de reclusão de 5 a 10 anos, sem prejuízo das outras penas.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>O \"<b>racha</b>\" e as <b>manobras</b> (\"cavalo de pau\", \"grau\" de moto)</li><li>Exige <b>via pública</b> e <b>risco</b> à incolumidade</li><li>§§ 1º e 2º: crimes <b>preterdolosos</b> (dolo no racha, culpa no resultado)</li><li>Se houver <b>dolo eventual</b> quanto à morte, aplica-se o <b>homicídio doloso</b> (CP) e o júri</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que o racha com morte é sempre homicídio culposo do art. 302</li><li>A banca diz que o racha em local fechado e autorizado é crime</li></ul></div></div>\n<h3>9. Direção sem habilitação, entrega a não habilitado e velocidade: arts. 309 a 312</h3>\n<ul><li><b>Art. 309</b>: dirigir veículo automotor, em via pública, <b>sem a devida Permissão para Dirigir ou Habilitação</b> ou, ainda, se <b>cassado</b> o direito de dirigir, <b>gerando perigo de dano</b>. Pena: detenção de 6 meses a 1 ano, ou multa. É crime de <b>perigo concreto</b>: exige que a direção cause <b>perigo efetivo</b> (zigue-zague, avanço de sinal, alta velocidade, quase atropelamento). Sem perigo, a direção sem habilitação é <b>infração administrativa</b> (art. 162, I).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Súmula 720</b><p class=\"jc-tese\">\"O art. 309 do Código de Trânsito Brasileiro, que reclama decorra do fato perigo de dano, derrogou o art. 32 da Lei das Contravenções Penais no tocante à direção sem habilitação em vias terrestres.\"</p><p class=\"jc-com\">Antes do CTB, dirigir sem habilitação era contravenção (LCP, art. 32), independentemente de perigo. Com o art. 309, a direção sem habilitação <b>sem perigo</b> deixou de ser infração penal em vias terrestres, restando apenas a sanção administrativa. O art. 32 da LCP continua aplicável, em tese, a <b>embarcações</b> em águas públicas.</p></div>\n<ul><li><b>Art. 310</b>: <b>permitir, confiar ou entregar</b> a direção de veículo automotor a pessoa <b>não habilitada</b>, com habilitação <b>cassada ou com o direito de dirigir suspenso</b>, ou, ainda, a quem, por seu <b>estado de saúde</b>, física ou mental, ou por <b>embriaguez</b>, não esteja em condições de conduzi-lo com segurança. Pena: detenção de 6 meses a 1 ano, ou multa.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmula 575</b><p class=\"jc-tese\">\"Constitui crime a conduta de permitir, confiar ou entregar a direção de veículo automotor a pessoa que não seja habilitada, ou que se encontre em qualquer das situações previstas no art. 310 do CTB, <b>independentemente da ocorrência de lesão ou de perigo de dano concreto</b> na condução do veículo.\"</p><p class=\"jc-com\">Há uma curiosidade que as bancas exploram: quem <b>dirige</b> sem habilitação só comete crime se gerar <b>perigo concreto</b> (art. 309); quem <b>entrega</b> o veículo ao não habilitado comete crime de <b>perigo abstrato</b> (art. 310), mesmo sem perigo. Exemplo: o pai que entrega o carro ao filho de 16 anos comete o art. 310, ainda que o filho dirija com perfeição.</p></div>\n<ul><li><b>Art. 311</b>: trafegar em <b>velocidade incompatível com a segurança</b> nas proximidades de <b>escolas, hospitais, estações de embarque e desembarque de passageiros, logradouros estreitos</b>, ou onde haja <b>grande movimentação ou concentração de pessoas</b>, gerando <b>perigo de dano</b>. Pena: detenção de 6 meses a 1 ano, ou multa. Crime de <b>perigo concreto</b>.</li><li><b>Art. 312</b>: <b>inovar artificiosamente</b>, em caso de acidente automobilístico com vítima, na pendência do respectivo procedimento policial preparatório, inquérito policial ou processo penal, o estado de lugar, de coisa ou de pessoa, a fim de induzir a erro o agente policial, o perito ou o juiz. Pena: detenção de 6 meses a 1 ano, ou multa. Parágrafo único: aplica-se o disposto neste artigo, ainda que não iniciados, quando da inovação, o procedimento preparatório, o inquérito ou o processo aos quais se refere. É uma forma <b>especial</b> de fraude processual (CP, art. 347): por exemplo, mudar o carro de posição, trocar o motorista ou lavar marcas de sangue.</li><li><b>Art. 312-A</b> (Lei 13.281/2016): para os crimes relacionados nos arts. 302 a 312, nas situações em que o juiz aplicar a <b>substituição</b> de pena privativa de liberdade por <b>prestação de serviços à comunidade</b>, esta deverá ser de uma das seguintes atividades: trabalho, aos fins de semana, em equipes de <b>resgate</b> dos corpos de bombeiros e em outras unidades móveis especializadas no atendimento a vítimas de trânsito; trabalho em unidades de <b>pronto-socorro</b> de hospitais da rede pública que recebem vítimas de acidente de trânsito e politraumatizados; trabalho em clínicas ou instituições especializadas na <b>recuperação de acidentados</b> de trânsito; outras atividades relacionadas ao resgate, atendimento e recuperação de vítimas de acidentes de trânsito.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Dirigir sem habilitação, com cuidado e sem gerar perigo, é crime do art. 309</span><br>✅ <span class=\"certo\">Exige <b>perigo de dano</b> (perigo concreto); sem ele, é infração administrativa</span></li><li>❌ <span class=\"banca\">Entregar o carro a não habilitado só é crime se houver perigo concreto</span><br>✅ <span class=\"certo\"><b>Súmula 575</b>: perigo <b>abstrato</b></span></li><li>❌ <span class=\"banca\">Dirigir com a CNH suspensa pelo Detran por excesso de pontos configura o art. 307</span><br>✅ <span class=\"certo\">Segundo o STJ, o art. 307 exige suspensão <b>judicial</b></span></li></ol></div>\n<h3>10. Culpa no trânsito: fundamentos que caem em prova</h3>\n<ul><li><b>Modalidades de culpa</b> (CP, art. 18, II): <b>imprudência</b> (agir sem cautela: excesso de velocidade, ultrapassagem proibida), <b>negligência</b> (deixar de agir com cautela: não revisar os freios, dirigir com pneus carecas) e <b>imperícia</b> (falta de aptidão técnica: motorista inexperiente que perde o controle numa manobra básica).</li><li><b>Previsibilidade objetiva</b>: só há crime culposo se o resultado era <b>previsível</b> para uma pessoa prudente nas mesmas circunstâncias. O pedestre que surge inesperadamente na rodovia à noite, longe de qualquer travessia, pode tornar o resultado imprevisível para o motorista que dirigia corretamente.</li><li><b>Não há compensação de culpas</b>: a culpa da vítima <b>não</b> anula a culpa do motorista. Se ambos agiram com culpa (o pedestre atravessou fora da faixa e o motorista estava em alta velocidade), o motorista responde, e a culpa da vítima é considerada apenas na <b>dosimetria</b> (comportamento da vítima, CP, art. 59). Só a <b>culpa exclusiva</b> da vítima afasta o crime.</li><li><b>Concorrência de culpas</b>: se dois motoristas agem com culpa e causam a morte de um terceiro, <b>ambos</b> respondem pelo homicídio culposo (cada um por sua culpa), sem concurso de pessoas (não há liame subjetivo para o resultado).</li><li><b>Princípio da confiança</b>: quem respeita as regras de trânsito pode <b>confiar</b> que os demais também as respeitarão. O motorista que passa no sinal verde não tem o dever de prever que outro avançará o vermelho. A confiança cessa quando há sinais concretos de que o outro agirá de forma irregular (criança na beira da calçada, pedestre visivelmente embriagado).</li><li><b>Dolo eventual x culpa consciente</b>: no <b>dolo eventual</b>, o agente prevê o resultado e <b>assume o risco</b> (\"seja o que Deus quiser\"); na <b>culpa consciente</b>, prevê o resultado, mas <b>acredita sinceramente</b> que não ocorrerá, confiando em sua habilidade. A distinção, nos crimes de trânsito, é feita pelas <b>circunstâncias objetivas</b> (velocidade absurda, racha em área movimentada, embriaguez extrema, fuga sem socorro, histórico de infrações).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A culpa da vítima exclui a responsabilidade do motorista culpado</span><br>✅ <span class=\"certo\">Não há <b>compensação de culpas</b>; só a culpa <b>exclusiva</b> da vítima afasta o crime</span></li><li>❌ <span class=\"banca\">Dois motoristas culpados que matam um pedestre respondem em concurso de pessoas</span><br>✅ <span class=\"certo\">Cada um responde por sua <b>culpa</b>, sem concurso de pessoas</span></li><li>❌ <span class=\"banca\">A embriaguez sempre caracteriza o dolo eventual</span><br>✅ <span class=\"certo\">Exige análise do <b>conjunto</b> das circunstâncias</span></li></ol></div>\n<h3>11. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Atropelamento na faixa</b><p>Motorista habilitado, sóbrio, distraído com o celular, atropela e mata um pedestre na faixa de pedestres e, em seguida, presta socorro imediato. Qual o crime? Pode ser preso em flagrante?</p><details><summary>Ver a solução comentada</summary><p><b>Homicídio culposo na direção de veículo automotor</b> (art. 302) com a causa de aumento do <b>§ 1º, II</b> (faixa de pedestres), de 1/3 à metade. Pena de detenção de 2 a 4 anos, aumentada, e suspensão ou proibição de dirigir. Como prestou <b>pronto e integral socorro</b>, <b>não</b> pode ser preso em flagrante nem lhe será exigida fiança (art. 301). Instaura-se inquérito.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Motorista embriagado mata ciclista</b><p>Com 0,6 mg/L de álcool no ar alveolar, um motorista atinge e mata um ciclista no acostamento, à noite. Qual o crime? Cabe substituição por restritivas?</p><details><summary>Ver a solução comentada</summary><p><b>Homicídio culposo qualificado pela embriaguez</b> (art. 302, § 3º): <b>reclusão de 5 a 8 anos</b>, e suspensão ou proibição de dirigir. O art. 306 fica absorvido. <b>Não</b> cabe substituição por restritivas com base no art. 44, I, do CP (art. 312-B). Se as circunstâncias indicassem que ele assumiu o risco de matar (por exemplo, velocidade de 150 km/h em área urbana, fuga, racha), poderia ser <b>homicídio doloso</b> com dolo eventual, de competência do júri.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Bafômetro recusado</b><p>Abordado em blitz, motorista com hálito etílico, fala pastosa e olhos avermelhados recusa o bafômetro. O policial o prende por embriaguez ao volante. A prisão é legal?</p><details><summary>Ver a solução comentada</summary><p>A recusa, por si, <b>não é crime</b>, mas é <b>infração administrativa</b> (art. 165-A, constitucional, STF, Tema 1.079). O crime do art. 306 pode ser comprovado pelos <b>sinais</b> de alteração da capacidade psicomotora (art. 306, § 1º, II, e Resolução Contran 432/2013), registrados em termo de constatação, por <b>vídeo</b> e <b>testemunhas</b>. Se os sinais forem consistentes e bem documentados, a prisão em flagrante é legal; o delegado pode arbitrar fiança (pena máxima de 3 anos).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Racha com morte</b><p>Dois jovens disputam um racha às 2h em avenida vazia. Um deles perde o controle e mata um pedestre que atravessava. O outro nada atinge. Como respondem?</p><details><summary>Ver a solução comentada</summary><p>O que causou a morte responde pelo <b>art. 308, § 2º</b> (racha com resultado morte, reclusão de 5 a 10 anos), se as circunstâncias mostrarem que não quis nem assumiu o risco do resultado; ou por <b>homicídio doloso</b> com dolo eventual, se ficar demonstrado que assumiu o risco. O outro responde pelo <b>art. 308, caput</b> (o racha em si), e há discussão sobre sua responsabilidade pelo resultado (parte da doutrina admite coautoria no crime qualificado, por ambos criarem o risco proibido).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Pai que empresta o carro</b><p>Um pai entrega a chave do carro ao filho de 17 anos, que dirige cuidadosamente até a padaria e é parado numa blitz. Quem comete crime?</p><details><summary>Ver a solução comentada</summary><p>O <b>pai</b> comete o <b>art. 310</b> (entregar a direção a pessoa não habilitada), crime de perigo <b>abstrato</b> (Súmula 575 do STJ), ainda que o filho tenha dirigido sem gerar perigo. O <b>filho</b> não comete o art. 309 (que exige perigo concreto e, de todo modo, sendo adolescente, praticaria ato infracional); há apenas infração administrativa e medidas do ECA.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Fuga após batida</b><p>Motorista bate na traseira de um carro parado no semáforo, causando apenas danos materiais, e foge para não pagar o conserto. Há crime?</p><details><summary>Ver a solução comentada</summary><p><b>Sim</b>: o <b>art. 305</b> (afastar-se do local do acidente para fugir à responsabilidade <b>civil</b>), constitucional segundo o STF (Tema 907). Não há crime de dano culposo (o CP não pune o dano culposo), mas a fuga com esse fim é punida.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Troca de motorista</b><p>Após atropelamento com vítima ferida, o motorista embriagado troca de lugar com o passageiro sóbrio, que assume a direção para enganar a polícia. Quais crimes?</p><details><summary>Ver a solução comentada</summary><p>O motorista responde pela <b>lesão culposa</b> (art. 303, com o § 2º se grave ou gravíssima) e pela <b>fraude processual</b> de trânsito (art. 312: inovar artificiosamente o estado de pessoa para induzir a erro o policial). O passageiro que assume a autoria falsamente pode responder por <b>autoacusação falsa</b> (CP, art. 341) e como partícipe da fraude do art. 312.</p></details></div>\n<h3>12. Os crimes de trânsito na rotina policial</h3>\n<ul><li><b>Atendimento ao acidente</b>: preservar o local até a chegada da perícia (CPP, art. 6º, I), salvo para socorro; identificar condutores, veículos e testemunhas; requisitar exame de <b>alcoolemia</b> e <b>toxicológico</b>; registrar se houve <b>socorro</b> (art. 301).</li><li><b>Flagrante</b>: não há prisão em flagrante para quem socorre (art. 301). Nos demais casos, avaliar o tipo: lesão culposa simples (TC e representação) x hipóteses do art. 291, § 1º (inquérito e ação incondicionada) x homicídio (inquérito; fiança pelo delegado só se pena máxima até 4 anos, o que exclui o art. 302, § 3º, e o art. 303, § 2º).</li><li><b>Embriaguez</b>: etilômetro homologado pelo Inmetro (0,34 mg/L considerada a margem de erro); na recusa, termo de constatação de sinais, vídeo e testemunhas; exame de sangue com consentimento ou, em caso de vítima, coleta pelo IML.</li><li><b>Medida cautelar</b>: representar ao juiz pela <b>suspensão cautelar</b> da habilitação (art. 294) quando a manutenção do direito de dirigir representar risco à ordem pública (reincidência, embriaguez grave).</li><li><b>Veículo</b>: apreensão para perícia; verificação de adulterações (art. 298, VI), placas falsas (art. 298, II, e CP, art. 311, adulteração de sinal identificador) e licenciamento.</li></ul>\n<h3>13. Crimes de trânsito e infrações administrativas: a dupla consequência</h3>\n<ul><li>A mesma conduta pode gerar <b>infração administrativa</b> (aplicada pelo órgão de trânsito, com multa, pontos, suspensão administrativa e medidas como remoção do veículo) e <b>crime</b> (aplicado pelo juiz). As esferas são <b>independentes</b>: a absolvição criminal por falta de provas não impede a punição administrativa, e vice-versa.</li></ul>\n<table class=\"tab\"><thead><tr><th>Conduta</th><th>Infração administrativa</th><th>Crime</th></tr></thead><tbody><tr><td>Dirigir sob influência de álcool</td><td>art. 165 (gravíssima, multa multiplicada, suspensão por 12 meses)</td><td>art. 306, se 0,3 mg/L ou sinais</td></tr><tr><td>Recusar o teste</td><td>art. 165-A (mesmas penalidades do 165)</td><td>não é crime</td></tr><tr><td>Racha e manobras perigosas</td><td>arts. 173, 174 e 175 (gravíssimas, multa multiplicada, suspensão)</td><td>art. 308, se gerar risco à incolumidade</td></tr><tr><td>Dirigir sem habilitação</td><td>art. 162, I (gravíssima, multa triplicada, retenção do veículo)</td><td>art. 309, se gerar perigo de dano</td></tr><tr><td>Entregar o veículo a não habilitado</td><td>art. 163 (mesmas penalidades do 162)</td><td>art. 310 (perigo abstrato)</td></tr><tr><td>Velocidade acima de 50% da máxima</td><td>art. 218, III (gravíssima, multa triplicada, suspensão)</td><td>art. 311, se perto de escolas etc. com perigo concreto; ou agrava o crime culposo</td></tr><tr><td>Deixar de prestar socorro</td><td>art. 176 (gravíssima)</td><td>art. 304 ou majorante do 302/303</td></tr><tr><td>Fugir do local</td><td>art. 176</td><td>art. 305</td></tr></tbody></table>\n<ul><li><b>Suspensão administrativa x judicial</b>: a suspensão do direito de dirigir aplicada pelo <b>Detran</b> (por pontos ou por infração específica) é sanção <b>administrativa</b>; a aplicada pelo <b>juiz</b> é <b>pena</b> (arts. 292 e 293) ou <b>medida cautelar</b> (art. 294). Só a violação da suspensão <b>judicial</b> configura o crime do art. 307, segundo o STJ.</li></ul>\n<h3>14. Outros crimes ligados ao trânsito fora do Capítulo XIX</h3>\n<ul><li><b>Adulteração de sinal identificador de veículo</b> (CP, art. 311): adulterar, remarcar ou suprimir número de <b>chassi</b>, monobloco, motor, <b>placa</b> de identificação ou qualquer sinal identificador de veículo automotor, elétrico, híbrido, de reboque, semirreboque ou suas combinações, bem como seus componentes ou equipamentos. Pena: reclusão de <b>3 a 6 anos</b> e multa (redação da Lei 14.562/2023, que ampliou o tipo). O STJ entende que a troca de placas, inclusive com o uso de fita adesiva para alterar letras ou números, configura o crime.</li><li><b>Receptação de veículo</b> (CP, art. 180) e <b>furto e roubo de veículos</b> (com as qualificadoras e majorantes do transporte para outro Estado ou para o exterior, arts. 155, § 5º, e 157, § 2º, IV).</li><li><b>Lesão corporal ou homicídio dolosos</b> praticados com o veículo como <b>arma</b> (atropelar intencionalmente alguém após discussão): aplica-se o CP, não o CTB.</li><li><b>Embriaguez de condutor de veículo não automotor</b>: não configura o art. 306; pode configurar a contravenção do art. 34 da LCP (direção perigosa).</li><li><b>Crimes contra servidores de trânsito</b>: desacato (CP, art. 331), resistência (art. 329) e desobediência (art. 330) são comuns em blitzes. A <b>desobediência</b> à ordem de parada do agente de trânsito ou policial é crime, segundo o STJ (Tema 1.060), mesmo havendo sanção administrativa para a fuga da fiscalização.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Tema 1.060</b><p class=\"jc-tese\">\"A desobediência à ordem legal de parada, emanada por agentes públicos em contexto de policiamento ostensivo, para a prevenção e repressão de crimes, constitui conduta penalmente típica, prevista no art. 330 do Código Penal Brasileiro.\"</p><p class=\"jc-com\">Antes, discutia-se se a fuga de blitz seria apenas infração administrativa (CTB, art. 195). O STJ afastou essa tese quando a ordem de parada é dada em <b>policiamento ostensivo</b> para prevenção e repressão de crimes. Em operações exclusivamente de fiscalização de trânsito, a questão ainda é debatida.</p></div>\n<h3>15. Termo circunstanciado, competência e atuação de diferentes polícias</h3>\n<ul><li><b>Termo circunstanciado</b>: nos crimes de trânsito de menor potencial ofensivo (por exemplo, lesão culposa sem as exceções do art. 291, § 1º; arts. 304, 305, 307, 309, 310, 311 e 312), lavra-se <b>termo circunstanciado</b> e o autor assume o compromisso de comparecer ao Juizado, sem prisão em flagrante (Lei 9.099, art. 69). O STF (ADI 5.637 e outros julgados) entendeu que o termo circunstanciado <b>não</b> é ato exclusivo de polícia judiciária, admitindo sua lavratura por <b>outros órgãos policiais</b>, como a <b>PRF</b> e a <b>PM</b>, conforme a regulamentação de cada ente.</li><li><b>Competência</b>: os crimes de trânsito são, em regra, da <b>Justiça Estadual</b>, ainda que ocorram em <b>rodovia federal</b>, porque não atingem bens, serviços ou interesses diretos da União. Será da <b>Justiça Federal</b> se a vítima for, por exemplo, servidor federal no exercício da função, ou se envolver veículo da União, conforme as regras do art. 109 da CF.</li><li><b>Polícia Rodoviária Federal</b>: atua no policiamento ostensivo das rodovias federais, lavrando autos de infração, termos circunstanciados (onde regulamentado) e efetuando prisões em flagrante, com apresentação do preso à <b>Polícia Civil</b> ou à <b>Polícia Federal</b>, conforme a competência para o crime.</li></ul>\n<h3>16. Perícia em acidentes e prova da culpa</h3>\n<ul><li><b>Perícia de local</b>: a autoridade policial deve providenciar que não se alterem o estado e a conservação das coisas até a chegada dos peritos (CPP, art. 6º, I). Nos acidentes de trânsito, o <b>art. 1º da Lei 5.970/1973</b> permite que a autoridade ou o agente policial autorize, independentemente de exame do local, a imediata <b>remoção</b> das pessoas que tenham sofrido lesão, bem como dos veículos nele envolvidos, se estiverem no leito da via pública e prejudicarem o tráfego, lavrando boletim da ocorrência com o registro da situação.</li><li><b>Elementos periciais</b>: marcas de frenagem (que permitem estimar a velocidade), pontos de impacto, danos nos veículos, posição final, iluminação, sinalização, condições da pista, imagens de câmeras e de dispositivos dos veículos (tacógrafo, telemetria), além de exames toxicológicos e de alcoolemia.</li><li><b>Prova da embriaguez da vítima</b>: também pode ser relevante, para discutir a culpa exclusiva ou concorrente da vítima (lembrando que não há compensação de culpas).</li></ul>\n<h3>17. Mais casos e questões comentadas</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Lesão leve sem agravantes</b><p>Motorista sóbrio, dentro do limite de velocidade, se distrai e bate num motociclista, causando-lhe escoriações. Qual o procedimento?</p><details><summary>Ver a solução comentada</summary><p><b>Lesão corporal culposa</b> (art. 303), infração de menor potencial ofensivo: lavra-se <b>termo circunstanciado</b>; a ação depende de <b>representação</b> da vítima; cabem <b>composição civil</b> dos danos (que, homologada, extingue a punibilidade) e <b>transação penal</b> (art. 291, § 1º, a contrario sensu).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Placa adulterada com fita</b><p>Em blitz, policiais encontram carro com a placa alterada por fita isolante preta, transformando um \"F\" em \"E\" para escapar de radares. Há crime?</p><details><summary>Ver a solução comentada</summary><p>Sim: <b>adulteração de sinal identificador de veículo</b> (CP, art. 311), reclusão de 3 a 6 anos e multa, segundo a jurisprudência do STJ, que considera típica a alteração da placa, ainda que grosseira ou com fita, desde que apta a enganar a fiscalização. Se a alteração for absolutamente grosseira, perceptível a olho nu, pode-se discutir crime impossível.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Fuga da blitz</b><p>Motorista ignora a ordem de parada da polícia em uma operação de prevenção a roubos e acelera, sendo alcançado quilômetros depois. Sem drogas ou armas no carro. Há crime?</p><details><summary>Ver a solução comentada</summary><p>Sim: <b>desobediência</b> (CP, art. 330), segundo o <b>Tema 1.060</b> do STJ (ordem de parada em policiamento ostensivo). Também há infração administrativa (CTB, art. 195). Se, na fuga, ele dirigir perigosamente perto de uma escola, pode haver o art. 311.</p></details></div>\n<ul><li><b>\"A lesão corporal culposa no trânsito, praticada por motorista embriagado, admite composição civil dos danos com efeito de extinção da punibilidade.\"</b> Errado: art. 291, § 1º, I.</li><li><b>\"Ao condutor que presta socorro à vítima não se imporá prisão em flagrante, nem se exigirá fiança.\"</b> Certo: art. 301.</li><li><b>\"A direção sem habilitação constitui crime de perigo abstrato.\"</b> Errado: perigo concreto (art. 309; Súmula 720).</li><li><b>\"Permitir que pessoa embriagada dirija seu veículo é crime, ainda que não haja perigo concreto.\"</b> Certo: art. 310 e Súmula 575.</li><li><b>\"O homicídio culposo cometido por motorista sob influência de álcool é punido com detenção de 2 a 4 anos, aumentada de metade.\"</b> Errado: reclusão de 5 a 8 anos (art. 302, § 3º).</li></ul>\n<h3>18. Embriaguez ao volante em detalhe: a Resolução Contran 432/2013</h3>\n<ul><li>A Resolução 432/2013 do Contran disciplina os procedimentos de fiscalização do consumo de álcool e de substâncias psicoativas. Ela prevê: <b>teste de etilômetro</b>; <b>exame de sangue</b>; <b>exames realizados por laboratórios especializados</b> (para outras substâncias); e <b>verificação dos sinais</b> de alteração da capacidade psicomotora, registrados em <b>termo de constatação</b>.</li><li><b>Sinais típicos</b> (Anexo II da resolução): quanto à <b>aparência</b> (sonolência, olhos vermelhos, vômito, soluços, desordem nas vestes, odor de álcool no hálito); quanto à <b>atitude</b> (agressividade, arrogância, exaltação, ironia, falante, dispersão); quanto à <b>orientação</b> (sabe onde está, sabe a data e a hora); quanto à <b>memória</b> (sabe seu endereço, lembra-se dos atos cometidos); quanto à <b>capacidade motora e verbal</b> (dificuldade no equilíbrio, fala alterada).</li><li><b>Margem de erro do etilômetro</b>: a tabela da resolução considera os erros máximos admissíveis do aparelho. Por isso, na prática, a infração administrativa se configura a partir de <b>0,05 mg/L</b> medidos e o crime, a partir de <b>0,34 mg/L</b> medidos (que correspondem a 0,30 mg/L após descontado o erro).</li><li><b>Contraprova</b>: o condutor tem direito à contraprova (art. 306, § 2º), podendo pedir exame de sangue ou clínico, se disponível.</li><li><b>Prova por testemunhas</b>: o próprio policial ou agente de trânsito que fez a abordagem pode ser testemunha; o STF e o STJ admitem o depoimento policial como prova válida, desde que coerente e harmônico com os demais elementos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O crime do art. 306 se configura com qualquer quantidade de álcool no sangue</span><br>✅ <span class=\"certo\">Exige <b>6 dg/L</b> de sangue ou <b>0,3 mg/L</b> de ar, ou <b>sinais</b> de alteração; abaixo disso, só infração administrativa</span></li><li>❌ <span class=\"banca\">O depoimento do policial que fez a abordagem não serve como prova da embriaguez</span><br>✅ <span class=\"certo\">É prova <b>válida</b>, se coerente com os demais elementos</span></li><li>❌ <span class=\"banca\">O condutor que faz o bafômetro perde o direito à contraprova</span><br>✅ <span class=\"certo\">A contraprova é <b>assegurada</b> (art. 306, § 2º)</span></li></ol></div>\n<h3>19. Concurso de crimes e outras questões de aplicação da pena</h3>\n<ul><li><b>Várias vítimas</b>: um único acidente culposo que mata duas pessoas e fere uma terceira configura <b>concurso formal</b> (CP, art. 70): uma só conduta, vários resultados. Aplica-se a pena do crime mais grave (homicídio culposo) aumentada de 1/6 até a metade, conforme o número de vítimas. Como o concurso formal entre crimes culposos é <b>próprio</b> (não há desígnios autônomos), aplica-se a exasperação, e não a soma.</li><li><b>Homicídio culposo e embriaguez</b> (art. 302, § 3º): o § 3º absorve o art. 306. Já entre o homicídio culposo simples (art. 302, caput) e a direção sem habilitação, a falta de habilitação é <b>majorante</b> (§ 1º, I), que absorve o art. 309.</li><li><b>Prescrição</b>: com penas máximas baixas, vários crimes de trânsito prescrevem rapidamente. Exemplos: art. 309, 310 e 311 (máximo de 1 ano): prescrição em <b>4 anos</b> (CP, art. 109, V); art. 306 e 308, caput (máximo de 3 anos): <b>8 anos</b> (art. 109, IV); art. 302, caput (máximo de 4 anos): <b>8 anos</b>; art. 302, § 3º (máximo de 8 anos): <b>12 anos</b> (art. 109, III).</li><li><b>Suspensão condicional do processo</b>: cabível, em tese, nos crimes com pena mínima de até 1 ano (por exemplo, arts. 303, 304, 305, 306, 307, 308, caput, 309 a 312), se presentes os requisitos do art. 89 da Lei 9.099, ainda que afastadas a composição e a transação pelo art. 291, § 1º.</li><li><b>Acordo de não persecução penal</b>: cabível, em tese, nos crimes culposos de trânsito e nos crimes sem violência com pena mínima inferior a 4 anos, inclusive no homicídio culposo simples, segundo a jurisprudência que entende que o crime culposo não envolve \"violência\" dolosa para fins do art. 28-A do CPP. A questão é debatida quando há resultado morte, e o MP avalia a suficiência do acordo no caso concreto.</li></ul>\n<h3>20. Dicas finais para a prova da PRF e das polícias civis</h3>\n<ul><li><b>Memorize as penas pela lógica</b>: crimes de <b>perigo</b> sem resultado têm penas baixas (6 meses a 1 ano ou 6 meses a 3 anos); crimes de <b>dano</b> culposos têm detenção (2 a 4 no homicídio, 6 meses a 2 na lesão); as <b>qualificadoras da embriaguez</b> têm <b>reclusão</b> (5 a 8 no homicídio, 2 a 5 na lesão grave); o <b>racha</b> com resultado tem reclusão (3 a 6 na lesão grave, 5 a 10 na morte).</li><li><b>Memorize as exceções pela palavra \"ÁLCOOL, RACHA, 50\"</b>: são as três hipóteses do art. 291, § 1º, que afastam a Lei 9.099 na lesão culposa.</li><li><b>Memorize os perigos pela regra \"quem DIRIGE precisa de perigo; quem ENTREGA não\"</b>: art. 309 (concreto) x art. 310 (abstrato).</li><li><b>Leia o comando</b>: se a questão perguntar o tipo penal \"segundo o CTB\", não aplique o CP; se mencionar \"dolo eventual\", pense no art. 121 do CP e no júri; se mencionar \"socorro\", lembre o art. 301.</li><li><b>Atenção às atualizações</b>: o CTB é alterado com frequência. Antes da prova, confira se houve mudança nos arts. 291 a 312-B e nas resoluções do Contran sobre alcoolemia.</li></ul>\n<h3>21. O trânsito como problema de segurança pública</h3>\n<ul><li>O Brasil registra dezenas de milhares de mortes por ano no trânsito, e os acidentes são uma das principais causas de morte de jovens e de internações por traumas. A política pública combina <b>educação</b>, <b>engenharia</b> (sinalização, vias seguras), <b>fiscalização</b> e <b>punição</b>. O Direito Penal é a última etapa e atua sobre os comportamentos mais graves: embriaguez, racha, velocidade excessiva e omissão de socorro.</li><li>A <b>Década de Ação pela Segurança no Trânsito</b> (ONU) e o <b>Plano Nacional de Redução de Mortes e Lesões no Trânsito</b> (Pnatrans, Lei 13.614/2018) estabelecem metas de redução de mortes. Para o policial rodoviário, a fiscalização da <b>alcoolemia</b>, da <b>velocidade</b> e do uso de <b>cinto</b> e <b>capacete</b> é a principal ferramenta de prevenção.</li><li><b>Motocicletas</b>: concentram grande parte das mortes. O uso de capacete é obrigatório (art. 54), e o transporte de criança menor de 10 anos em motocicleta é infração gravíssima (art. 244, V). Se o motociclista sem habilitação causa acidente com vítima, aplica-se a majorante do art. 302, § 1º, I, ou do art. 303, § 1º.</li><li><b>Transporte escolar e de passageiros</b>: a majorante do art. 302, § 1º, IV, reflete o dever especial de cuidado de quem transporta vidas por profissão. Motoristas de ônibus, vans e transporte por aplicativo devem redobrar a cautela, e a fiscalização de jornada, descanso e condições do veículo integra a prevenção.</li><li><b>Ciclistas e pedestres</b>: são os usuários mais vulneráveis. O CTB impõe ao condutor de veículo maior a responsabilidade pela segurança dos menores e de todos pela incolumidade dos pedestres (art. 29, § 2º). Na análise da culpa, essa hierarquia de responsabilidades é considerada.</li></ul>\n<h3>22. Revisão por perguntas rápidas</h3>\n<ul><li><b>Qual a pena do homicídio culposo de trânsito simples?</b> Detenção de 2 a 4 anos, e suspensão ou proibição de dirigir.</li><li><b>E com embriaguez?</b> Reclusão de 5 a 8 anos (art. 302, § 3º), sem substituição pelo art. 44, I (art. 312-B).</li><li><b>Quais as majorantes do homicídio e da lesão culposos?</b> Sem habilitação; faixa de pedestres ou calçada; deixar de socorrer; transporte de passageiros na profissão (1/3 à metade).</li><li><b>Quando a lesão culposa deixa de ser de menor potencial e de ação condicionada?</b> Com álcool, racha ou velocidade 50 km/h acima da máxima (art. 291, § 1º).</li><li><b>Quem socorre pode ser preso em flagrante?</b> Não, nem se exige fiança (art. 301).</li><li><b>O que configura a embriaguez ao volante?</b> 6 dg/L de sangue, 0,3 mg/L de ar ou sinais de alteração; provas por vídeo e testemunhas; perigo abstrato.</li><li><b>Recusar o bafômetro é crime?</b> Não; é infração administrativa constitucional (Tema 1.079).</li><li><b>Dirigir sem habilitação é crime?</b> Só com perigo de dano (art. 309; Súmula 720).</li><li><b>Entregar o carro a quem não tem habilitação é crime?</b> Sim, sem necessidade de perigo (art. 310; Súmula 575).</li><li><b>Fugir do local é crime?</b> Sim, para fugir à responsabilidade penal ou civil (art. 305; Tema 907).</li><li><b>O racha com morte é sempre culposo?</b> Não: se houver dolo eventual, é homicídio doloso (júri); se não, art. 308, § 2º (5 a 10 anos).</li><li><b>Quanto dura a suspensão como pena?</b> De 2 meses a 5 anos.</li><li><b>O que é veículo automotor para os arts. 302 e 303?</b> Veículo a motor que circula por seus próprios meios e serve ao transporte viário de pessoas ou coisas; bicicletas comuns não são; equipamentos elétricos dependem da regulamentação do Contran.</li><li><b>Há compensação de culpas?</b> Não; só a culpa exclusiva da vítima afasta o crime, e a culpa concorrente pesa na dosimetria.</li><li><b>Qual a diferença entre suspensão administrativa e judicial?</b> A administrativa é aplicada pelo Detran (pontos, infrações); a judicial é pena ou cautelar penal. Só a violação da judicial configura o art. 307, segundo o STJ.</li><li><b>Que serviço comunitário o juiz deve escolher nos crimes de trânsito?</b> Atividades em resgate, pronto-socorro e recuperação de acidentados (art. 312-A).</li><li><b>Fugir de blitz policial é crime?</b> Sim, desobediência, quando a ordem de parada é dada em policiamento ostensivo (STJ, Tema 1.060).</li><li><b>Trocar a placa com fita isolante é crime?</b> Sim, adulteração de sinal identificador (CP, art. 311), salvo alteração tão grosseira que não engane ninguém.</li><li><b>Qual o crime de quem dirige em velocidade incompatível perto de hospital, sem acidente, mas quase atropelando pedestres?</b> Art. 311 (perigo concreto), detenção de 6 meses a 1 ano, ou multa, além da infração administrativa por excesso de velocidade.</li><li><b>Qual a consequência de o réu ser reincidente em crime de trânsito?</b> O juiz aplicará a suspensão da permissão ou habilitação, sem prejuízo das demais sanções (art. 296).</li><li><b>E se o condenado não entregar a CNH em 48 horas após o trânsito em julgado?</b> Comete o crime do art. 307, parágrafo único.</li><li><b>Quem deve ser ouvido no inquérito de um acidente com morte?</b> Os condutores envolvidos (respeitado o direito ao silêncio), os passageiros, as testemunhas presenciais, os primeiros socorristas e os agentes que atenderam a ocorrência; devem ser juntados o laudo de local, o laudo necroscópico, o exame de alcoolemia ou toxicológico, as imagens disponíveis e os dados dos veículos (licenciamento, habilitação, perícia mecânica). Um inquérito bem instruído é o que permite distinguir, no fim, o simples acidente, o crime culposo e o homicídio com dolo eventual.</li><li><b>Por fim</b>: em todas as questões de trânsito, pergunte primeiro se o resultado foi <b>querido ou aceito</b> (dolo, CP) ou <b>não querido</b> (culpa, CTB); depois, se houve <b>álcool</b>, <b>racha</b> ou <b>velocidade excessiva</b> (que agravam a resposta penal); e por último, se o condutor <b>socorreu</b> ou <b>fugiu</b> (art. 301, 304 e 305). Essa sequência resolve a grande maioria dos casos.</li></ul>\n<h3>23. Histórico da Lei Seca e das mudanças nos crimes de trânsito</h3>\n<div class=\"lt-fluxo\"><span>1997: CTB (embriaguez exigia \"expor a dano potencial\")</span> <em>→</em> <span>2008: Lei 11.705, a Lei Seca (crime com 6 dg/L, perigo abstrato, mas prova só por bafômetro ou sangue)</span> <em>→</em> <span>2012: Lei 12.760, a Nova Lei Seca (prova por sinais, vídeo e testemunhas)</span> <em>→</em> <span>2014: Lei 12.971 (racha com resultado e qualificadoras)</span> <em>→</em> <span>2016: Lei 13.281 (art. 165-A, recusa ao teste, e art. 312-A, serviços específicos)</span> <em>→</em> <span>2017: Lei 13.546 (art. 302, § 3º, reclusão de 5 a 8, e art. 303, § 2º)</span> <em>→</em> <span>2020: Lei 14.071 (art. 312-B, veda substituição)</span> <em>→</em> <span>2022: STF julga constitucional a sanção pela recusa (Tema 1.079)</span></div>\n<ul><li><b>A lição da Lei 11.705/2008</b>: ao fixar a concentração de 6 dg/L como <b>elemento do tipo</b>, a lei tornou a prova dependente do bafômetro ou do exame de sangue. Como ninguém é obrigado a fazê-los, muitos motoristas evitavam a condenação recusando o teste. O STJ chegou a afirmar (REsp 1.111.566, 2012) que, naquela redação, só o etilômetro ou o exame de sangue provavam o crime. A <b>Lei 12.760/2012</b> resolveu o problema, admitindo a prova por <b>sinais</b>, <b>vídeo</b> e <b>testemunhas</b>.</li><li><b>Direito intertemporal</b>: para fatos anteriores a 2012, valia a exigência da prova técnica; para fatos posteriores, qualquer meio de prova admitido. Para o homicídio culposo com embriaguez, o § 3º do art. 302 (reclusão de 5 a 8) só se aplica a fatos posteriores à Lei 13.546/2017 (vigência em abril de 2018).</li></ul>\n<h3>24. Questões polêmicas e jurisprudência</h3>\n<div class=\"lt-juris\"><b class=\"lt-tit\">⚖ Jurisprudência</b><ul><li><b>STF, Tema 907</b>: o art. 305 (fuga do local) é constitucional</li><li><b>STF, Tema 1.079</b>: são constitucionais as sanções administrativas pela recusa ao teste de alcoolemia (art. 165-A)</li><li><b>STF, Súmula 720</b>: o art. 309 derrogou o art. 32 da LCP quanto à direção sem habilitação em vias terrestres</li><li><b>STJ, Súmula 575</b>: o art. 310 é crime de perigo abstrato</li><li><b>STF e STJ</b>: a embriaguez ao volante (art. 306) é crime de perigo abstrato</li><li><b>STF e STJ</b>: a embriaguez, isoladamente, não presume o dolo eventual no homicídio de trânsito</li><li><b>STJ</b>: o art. 307 exige suspensão ou proibição imposta judicialmente</li><li><b>STJ</b>: aplica-se o perdão judicial do CP ao homicídio culposo de trânsito</li><li><b>STF</b>: é constitucional a pena maior do homicídio culposo de trânsito em relação ao do CP</li></ul></div>\n<ul><li><b>Motorista profissional e jornada</b>: o excesso de jornada e a falta de descanso do motorista profissional (Lei 13.103/2015) podem caracterizar culpa (negligência) e, em casos extremos, servem para discutir a responsabilidade do <b>empregador</b> que impôs a jornada. A causa de aumento do art. 302, § 1º, IV, aplica-se ao motorista de <b>transporte de passageiros</b> no exercício da profissão; o STJ discute sua aplicação a motoristas de aplicativo, prevalecendo a incidência quando estão transportando passageiros.</li><li><b>Patinetes e bicicletas elétricas</b>: os crimes dos arts. 302 e 303 exigem <b>veículo automotor</b>. A Resolução Contran 996/2023 regulamentou os equipamentos de mobilidade individual autopropelidos e as bicicletas elétricas, que, conforme suas características, podem ou não ser enquadrados como veículos automotores. Se não forem, o homicídio ou a lesão culposa causados por eles se submetem ao <b>CP</b> (arts. 121, § 3º, e 129, § 6º).</li><li><b>Embriaguez de condutor de bicicleta ou de animal</b>: não configura o art. 306 (que exige veículo automotor), mas pode configurar a contravenção do art. 34 da LCP (direção perigosa de veículo na via pública) ou outras infrações.</li><li><b>Dirigir com celular</b>: é infração administrativa gravíssima; se causar acidente com vítima, caracteriza a <b>imprudência</b> do crime culposo.</li></ul>\n<h3>25. Perguntas frequentes em provas discursivas</h3>\n<ul><li><b>\"Diferencie os arts. 309 e 310 do CTB quanto à natureza do perigo.\"</b> O art. 309 (dirigir sem habilitação) é crime de perigo <b>concreto</b>, exigindo que a conduta gere perigo de dano (Súmula 720 do STF); o art. 310 (entregar a direção a não habilitado ou a quem não tem condições) é crime de perigo <b>abstrato</b>, consumando-se independentemente de lesão ou perigo concreto (Súmula 575 do STJ).</li><li><b>\"Como se prova a embriaguez ao volante após a Lei 12.760/2012?\"</b> Por concentração de 6 dg/L de sangue ou 0,3 mg/L de ar alveolar (etilômetro) ou por sinais de alteração da capacidade psicomotora, disciplinados pelo Contran, podendo a prova ser feita por teste de alcoolemia ou toxicológico, exame clínico, perícia, vídeo, prova testemunhal ou outros meios, assegurada a contraprova (art. 306, §§ 1º e 2º). A recusa ao teste é infração administrativa, não crime.</li><li><b>\"Quando o homicídio de trânsito será doloso?\"</b> Quando as circunstâncias demonstrarem que o agente assumiu o risco de produzir a morte (dolo eventual), como no racha em via movimentada ou na direção em velocidade extremamente excessiva, sob embriaguez e com desprezo absoluto pela vida alheia. A embriaguez, isoladamente, não basta. Nesse caso, responde pelo art. 121 do CP perante o júri.</li></ul>\n<h3>26. Como as bancas cobram este tópico</h3>\n<ul><li><b>Art. 291</b>: hipóteses que afastam a Lei 9.099 na lesão culposa (álcool, racha, mais de 50 km/h acima).</li><li><b>Penas</b>: 302 (2 a 4; § 3º, 5 a 8 reclusão); 303 (6 meses a 2; § 2º, 2 a 5 reclusão); 306 (6 meses a 3); 308 (6 meses a 3; §§ 1º e 2º, 3 a 6 e 5 a 10); suspensão de 2 meses a 5 anos.</li><li><b>Art. 301</b> (socorro afasta flagrante e fiança); <b>art. 312-B</b> (vedação de substituição).</li><li><b>Perigo abstrato x concreto</b>: 306 e 310 (abstrato); 309 e 311 (concreto).</li><li><b>Súmulas e teses</b>: 575 STJ, 720 STF, Temas 907 e 1.079 do STF.</li><li><b>Bancas</b>: o <b>Cebraspe</b> (PRF) cobra intensamente o CTB, com afirmações sobre artigos e súmulas; a <b>FGV</b> prefere casos de acidente e enquadramento; a <b>Consulplan</b> cobra a letra dos arts. 291 a 312.</li></ul>\n<h3>27. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 302</span></span><span class=\"vs\"><span>homicídio culposo na direção, detenção de 2 a 4 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 302, § 1º</span></span><span class=\"vs\"><span>aumento de 1/3 à metade (sem habilitação, faixa ou calçada, sem socorro, transporte de passageiros)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 302, § 3º</span></span><span class=\"vs\"><span>embriaguez, reclusão de 5 a 8 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 303</span></span><span class=\"vs\"><span>lesão culposa, detenção de 6 meses a 2 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 303, § 2º</span></span><span class=\"vs\"><span>embriaguez com lesão grave, reclusão de 2 a 5 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 312-B</span></span><span class=\"vs\"><span>sem substituição pelo art. 44, I, nos §§ 3º e 2º</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 291, § 1º</span></span><span class=\"vs\"><span>sem Lei 9.099 na lesão culposa se álcool, racha ou 50 km/h acima</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 301</span></span><span class=\"vs\"><span>socorro afasta flagrante e fiança</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Suspensão ou proibição</span></span><span class=\"vs\"><span>2 meses a 5 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Entrega da CNH</span></span><span class=\"vs\"><span>48 horas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 304</span></span><span class=\"vs\"><span>omissão de socorro do condutor sem culpa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 305</span></span><span class=\"vs\"><span>fuga para fugir à responsabilidade, constitucional (Tema 907)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 306</span></span><span class=\"vs\"><span>embriaguez, perigo abstrato, 6 meses a 3 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Limite</span></span><span class=\"vs\"><span>6 dg/L de sangue ou 0,3 mg/L de ar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Recusa ao bafômetro</span></span><span class=\"vs\"><span>infração administrativa (165-A), não crime</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 307</span></span><span class=\"vs\"><span>violar suspensão judicial</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 308</span></span><span class=\"vs\"><span>racha, 6 meses a 3 anos; morte, 5 a 10</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 309</span></span><span class=\"vs\"><span>sem habilitação com perigo concreto (Súmula 720)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 310</span></span><span class=\"vs\"><span>entregar a não habilitado, perigo abstrato (Súmula 575)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 311</span></span><span class=\"vs\"><span>velocidade incompatível perto de escolas e hospitais, perigo concreto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 312</span></span><span class=\"vs\"><span>fraude processual no acidente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 312-A</span></span><span class=\"vs\"><span>serviços em resgate e pronto-socorro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Compensação de culpas</span></span><span class=\"vs\"><span>não existe</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dolo eventual</span></span><span class=\"vs\"><span>assume o risco; júri</span></span></button></div></div>\n<h3>28. Resumo em uma página</h3>\n<ul><li><b>Regras gerais</b>: CP, CPP e Lei 9.099 subsidiários; lesão culposa com composição, transação e representação, salvo álcool, racha ou 50 km/h acima; suspensão ou proibição (2 meses a 5 anos); cautelar do art. 294; reincidente; multa reparatória; agravantes do art. 298; socorro do art. 301.</li><li><b>Dano</b>: 302 (2 a 4; aumentos; § 3º, 5 a 8 reclusão); 303 (6 meses a 2; § 2º, 2 a 5 reclusão); 312-B.</li><li><b>Condutas após o acidente</b>: 304 (omissão de socorro), 305 (fuga), 312 (fraude).</li><li><b>Perigo</b>: 306 (abstrato), 308 (racha), 309 (concreto), 310 (abstrato), 311 (concreto), 307 (violar suspensão).</li><li><b>Jurisprudência</b>: Súmulas 575 e 720; Temas 907 e 1.079; dolo eventual; perdão judicial.</li></ul>",
+"quiz": [
+{
+"p": "O homicídio culposo na direção de veículo automotor é punido com detenção de 2 a 4 anos e suspensão ou proibição de obter a permissão ou a habilitação.",
+"c": true,
+"prof": "Art. 302.",
+"x": "Pena.",
+"e": "Detenção"
+},
+{
+"p": "Se o agente conduz veículo automotor sob a influência de álcool e pratica homicídio culposo, a pena é de reclusão de 5 a 8 anos.",
+"c": true,
+"prof": "Art. 302, § 3º.",
+"x": "Lei 13.546/2017.",
+"e": "Embriaguez"
+},
+{
+"p": "A pena do homicídio culposo de trânsito é aumentada de 1/3 à metade se o agente não possuir permissão ou habilitação.",
+"c": true,
+"prof": "Art. 302, § 1º.",
+"x": "Causa de aumento.",
+"e": "Sem habilitação"
+},
+{
+"p": "É causa de aumento do homicídio culposo de trânsito praticá-lo em faixa de pedestres ou na calçada.",
+"c": true,
+"prof": "Art. 302, § 1º, II.",
+"x": "Majorante.",
+"e": "Faixa"
+},
+{
+"p": "Se o motorista culpado pelo acidente deixa de socorrer a vítima, incide causa de aumento do art. 302 ou 303, e não o crime autônomo do art. 304.",
+"c": true,
+"prof": "Omissão.",
+"x": "Majorante.",
+"e": "Socorro"
+},
+{
+"p": "Ao homicídio culposo cometido na direção de veículo automotor aplica-se o art. 121, § 3º, do Código Penal.",
+"c": false,
+"prof": "Especialidade.",
+"x": "CTB, art. 302.",
+"e": "Especial"
+},
+{
+"p": "Aplica-se ao homicídio culposo de trânsito o perdão judicial previsto no Código Penal.",
+"c": true,
+"prof": "Perdão.",
+"x": "CP, art. 121, § 5º.",
+"e": "Perdão"
+},
+{
+"p": "A lesão corporal culposa na direção de veículo automotor é punida com detenção de 6 meses a 2 anos.",
+"c": true,
+"prof": "Art. 303.",
+"x": "Pena.",
+"e": "Lesão"
+},
+{
+"p": "Se o condutor sob influência de álcool causa lesão corporal grave ou gravíssima, a pena é de reclusão de 2 a 5 anos.",
+"c": true,
+"prof": "Art. 303, § 2º.",
+"x": "Qualificadora.",
+"e": "Embriaguez"
+},
+{
+"p": "Aos crimes dos arts. 302, § 3º, e 303, § 2º, do CTB não se aplica a substituição prevista no art. 44, I, do Código Penal.",
+"c": true,
+"prof": "Art. 312-B.",
+"x": "Lei 14.071/2020.",
+"e": "Substituição"
+},
+{
+"p": "Na lesão corporal culposa de trânsito, não se aplicam a composição civil, a transação e a representação se o agente estiver sob influência de álcool.",
+"c": true,
+"prof": "Art. 291, § 1º.",
+"x": "Exceção.",
+"e": "Álcool"
+},
+{
+"p": "Na lesão corporal culposa de trânsito, afasta-se a Lei 9.099 se o agente trafegava em velocidade superior à máxima permitida em 50 km/h.",
+"c": true,
+"prof": "Art. 291, § 1º, III.",
+"x": "Exceção.",
+"e": "Velocidade"
+},
+{
+"p": "Na lesão corporal culposa de trânsito praticada durante racha, cabe transação penal.",
+"c": false,
+"prof": "Art. 291, § 1º, II.",
+"x": "Afastada.",
+"e": "Racha"
+},
+{
+"p": "Nas hipóteses do art. 291, § 1º, deve ser instaurado inquérito policial.",
+"c": true,
+"prof": "Art. 291, § 2º.",
+"x": "Inquérito.",
+"e": "Procedimento"
+},
+{
+"p": "A suspensão ou a proibição de obter a permissão ou a habilitação tem duração de 2 meses a 5 anos.",
+"c": true,
+"prof": "Art. 293.",
+"x": "Penas.",
+"e": "Duração"
+},
+{
+"p": "Transitada em julgado a sentença, o réu deve entregar a habilitação à autoridade judiciária em 48 horas.",
+"c": true,
+"prof": "Art. 293, § 1º.",
+"x": "Entrega.",
+"e": "48 horas"
+},
+{
+"p": "A suspensão cautelar da habilitação pode ser decretada em qualquer fase da investigação ou da ação penal, para garantia da ordem pública.",
+"c": true,
+"prof": "Art. 294.",
+"x": "Cautelar.",
+"e": "Ordem pública"
+},
+{
+"p": "Ao condutor que presta pronto e integral socorro à vítima não se impõe prisão em flagrante nem se exige fiança.",
+"c": true,
+"prof": "Art. 301.",
+"x": "Socorro.",
+"e": "Flagrante"
+},
+{
+"p": "O socorro prestado à vítima extingue a punibilidade do motorista que agiu com culpa.",
+"c": false,
+"prof": "Art. 301.",
+"x": "Só afasta flagrante e fiança.",
+"e": "Punibilidade"
+},
+{
+"p": "Dirigir com veículo sem placas ou com placas falsas é circunstância agravante dos crimes de trânsito.",
+"c": true,
+"prof": "Art. 298, II.",
+"x": "Agravante.",
+"e": "Placas"
+},
+{
+"p": "O condutor envolvido no acidente comete o crime do art. 304 ainda que a vítima tenha morte instantânea ou que terceiros a socorram.",
+"c": true,
+"prof": "Art. 304.",
+"x": "Parágrafo único.",
+"e": "Omissão"
+},
+{
+"p": "O pedestre que presencia acidente e não socorre a vítima comete o crime do art. 304 do CTB.",
+"c": false,
+"prof": "Art. 304.",
+"x": "CP, art. 135.",
+"e": "Pedestre"
+},
+{
+"p": "Afastar-se do local do acidente para fugir à responsabilidade civil configura o crime do art. 305 do CTB.",
+"c": true,
+"prof": "Art. 305.",
+"x": "Fuga.",
+"e": "Responsabilidade civil"
+},
+{
+"p": "Segundo o STF, o crime de fuga do local do acidente (art. 305) é constitucional.",
+"c": true,
+"prof": "Art. 305.",
+"x": "Tema 907.",
+"e": "Constitucionalidade"
+},
+{
+"p": "A embriaguez ao volante (art. 306) é crime de perigo abstrato.",
+"c": true,
+"prof": "Art. 306.",
+"x": "STF e STJ.",
+"e": "Perigo abstrato"
+},
+{
+"p": "A embriaguez ao volante pode ser constatada por concentração igual ou superior a 0,3 miligrama de álcool por litro de ar alveolar.",
+"c": true,
+"prof": "Art. 306.",
+"x": "§ 1º, I.",
+"e": "Etilômetro"
+},
+{
+"p": "A embriaguez ao volante pode ser provada por sinais de alteração da capacidade psicomotora, vídeo ou prova testemunhal.",
+"c": true,
+"prof": "Art. 306.",
+"x": "§§ 1º, II, e 2º.",
+"e": "Outros meios"
+},
+{
+"p": "A recusa ao teste do bafômetro configura crime de desobediência.",
+"c": false,
+"prof": "Recusa.",
+"x": "Infração administrativa.",
+"e": "165-A"
+},
+{
+"p": "Segundo o STF, é constitucional a sanção administrativa aplicada ao condutor que se recusa a fazer o teste de alcoolemia.",
+"c": true,
+"prof": "Recusa.",
+"x": "Tema 1.079.",
+"e": "165-A"
+},
+{
+"p": "A embriaguez ao volante é punida com detenção de 6 meses a 3 anos, multa e suspensão ou proibição de dirigir.",
+"c": true,
+"prof": "Art. 306.",
+"x": "Pena.",
+"e": "Pena"
+},
+{
+"p": "O art. 306 abrange a condução sob influência de outras substâncias psicoativas que determinem dependência, além do álcool.",
+"c": true,
+"prof": "Art. 306.",
+"x": "Drogas.",
+"e": "Substâncias"
+},
+{
+"p": "Violar a suspensão ou a proibição de dirigir imposta com fundamento no CTB é crime punido com detenção de 6 meses a 1 ano e multa.",
+"c": true,
+"prof": "Art. 307.",
+"x": "Pena.",
+"e": "Violação"
+},
+{
+"p": "O condenado que deixa de entregar a habilitação no prazo de 48 horas incorre nas penas do art. 307.",
+"c": true,
+"prof": "Art. 307.",
+"x": "Parágrafo único.",
+"e": "Entrega"
+},
+{
+"p": "Participar de racha em via pública, gerando risco à incolumidade, é crime punido com detenção de 6 meses a 3 anos.",
+"c": true,
+"prof": "Art. 308.",
+"x": "Racha.",
+"e": "Pena"
+},
+{
+"p": "Se do racha resultar morte, sem que o agente tenha querido ou assumido o risco, a pena é de reclusão de 5 a 10 anos.",
+"c": true,
+"prof": "Art. 308, § 2º.",
+"x": "Preterdoloso.",
+"e": "Morte"
+},
+{
+"p": "Dirigir sem habilitação, ainda que sem gerar perigo, é crime do art. 309 do CTB.",
+"c": false,
+"prof": "Art. 309.",
+"x": "Perigo concreto.",
+"e": "Perigo"
+},
+{
+"p": "O art. 309 do CTB derrogou o art. 32 da Lei das Contravenções Penais quanto à direção sem habilitação em vias terrestres.",
+"c": true,
+"prof": "Art. 309.",
+"x": "Súmula 720 do STF.",
+"e": "LCP"
+},
+{
+"p": "Entregar a direção de veículo a pessoa não habilitada é crime independentemente de lesão ou perigo concreto.",
+"c": true,
+"prof": "Art. 310.",
+"x": "Súmula 575 do STJ.",
+"e": "Perigo abstrato"
+},
+{
+"p": "Entregar a direção a pessoa embriagada configura o crime do art. 310 do CTB.",
+"c": true,
+"prof": "Art. 310.",
+"x": "Embriaguez.",
+"e": "Entrega"
+},
+{
+"p": "Trafegar em velocidade incompatível próximo a escolas, gerando perigo de dano, é crime previsto no art. 311 do CTB.",
+"c": true,
+"prof": "Art. 311.",
+"x": "Perigo concreto.",
+"e": "Escolas"
+},
+{
+"p": "Inovar artificiosamente o estado de lugar ou de pessoa, em acidente com vítima, para induzir a erro o policial, é crime do art. 312 do CTB.",
+"c": true,
+"prof": "Art. 312.",
+"x": "Fraude processual.",
+"e": "Inovação"
+},
+{
+"p": "A prestação de serviços à comunidade aplicada nos crimes de trânsito deve consistir em atividades como trabalho em equipes de resgate e pronto-socorro.",
+"c": true,
+"prof": "Art. 312-A.",
+"x": "Serviços específicos.",
+"e": "Resgate"
+},
+{
+"p": "A culpa concorrente da vítima exclui a responsabilidade penal do motorista que também agiu com culpa.",
+"c": false,
+"prof": "Culpa.",
+"x": "Não há compensação.",
+"e": "Compensação"
+},
+{
+"p": "A culpa exclusiva da vítima afasta o crime culposo do motorista.",
+"c": true,
+"prof": "Culpa.",
+"x": "Ausência de culpa do agente.",
+"e": "Exclusiva"
+},
+{
+"p": "O homicídio no trânsito pode ser doloso, com dolo eventual, quando as circunstâncias demonstrarem que o agente assumiu o risco de matar.",
+"c": true,
+"prof": "Dolo eventual.",
+"x": "Júri.",
+"e": "Assunção do risco"
+},
+{
+"p": "A embriaguez ao volante, por si só, caracteriza o dolo eventual no homicídio de trânsito.",
+"c": false,
+"prof": "Dolo eventual.",
+"x": "Exige conjunto de circunstâncias.",
+"e": "Embriaguez"
+},
+{
+"p": "Os crimes dos arts. 302 e 303 do CTB exigem que o agente esteja na direção de veículo automotor.",
+"c": true,
+"prof": "Elementar.",
+"x": "Veículo automotor.",
+"e": "Automotor"
+},
+{
+"p": "Segundo o STJ, o crime do art. 307 exige suspensão ou proibição imposta judicialmente, e não apenas administrativamente.",
+"c": true,
+"prof": "Art. 307.",
+"x": "Jurisprudência.",
+"e": "Suspensão"
+},
+{
+"p": "A lesão corporal culposa de trânsito sem as exceções do art. 291, § 1º, é crime de ação pública condicionada à representação.",
+"c": true,
+"prof": "Ação penal.",
+"x": "Lei 9.099, art. 88.",
+"e": "Representação"
+},
+{
+"p": "O juiz, ao fixar a pena-base nos crimes de trânsito, dará especial atenção à culpabilidade e às circunstâncias e consequências do crime.",
+"c": true,
+"prof": "Art. 291, § 4º.",
+"x": "Dosimetria.",
+"e": "Pena-base"
+},
+{
+"p": "Se o réu for reincidente em crime de trânsito, o juiz aplicará a suspensão da habilitação, sem prejuízo das demais sanções.",
+"c": true,
+"prof": "Art. 296.",
+"x": "Reincidência.",
+"e": "Suspensão"
+},
+{
+"p": "As esferas administrativa e penal são independentes nos ilícitos de trânsito.",
+"c": true,
+"prof": "Esferas.",
+"x": "Independência.",
+"e": "Dupla consequência"
+},
+{
+"p": "Adulterar a placa de veículo automotor configura o crime do art. 311 do Código Penal.",
+"c": true,
+"prof": "CP, art. 311.",
+"x": "Sinal identificador.",
+"e": "Placa"
+},
+{
+"p": "Segundo o STJ, a desobediência à ordem legal de parada emanada em policiamento ostensivo constitui crime.",
+"c": true,
+"prof": "Desobediência.",
+"x": "Tema 1.060.",
+"e": "Ordem de parada"
+},
+{
+"p": "Os crimes de trânsito ocorridos em rodovia federal são, em regra, de competência da Justiça Estadual.",
+"c": true,
+"prof": "Competência.",
+"x": "CF, art. 109.",
+"e": "Estadual"
+},
+{
+"p": "O agente policial pode autorizar a imediata remoção das vítimas e dos veículos que prejudiquem o tráfego, registrando a situação no boletim.",
+"c": true,
+"prof": "Perícia.",
+"x": "Lei 5.970/1973.",
+"e": "Remoção"
+},
+{
+"p": "Atropelar intencionalmente alguém após discussão configura crime doloso do Código Penal, e não crime culposo do CTB.",
+"c": true,
+"prof": "Dolo.",
+"x": "CP.",
+"e": "Atropelamento doloso"
+},
+{
+"p": "A embriaguez do condutor de bicicleta configura o crime do art. 306 do CTB.",
+"c": false,
+"prof": "Art. 306.",
+"x": "Exige veículo automotor.",
+"e": "Bicicleta"
+},
+{
+"p": "A lesão corporal culposa de trânsito sem as exceções do art. 291, § 1º, admite composição civil dos danos com efeito extintivo.",
+"c": true,
+"prof": "Lei 9.099.",
+"x": "Art. 74.",
+"e": "Composição"
+},
+{
+"p": "A pena de suspensão da habilitação não se inicia enquanto o sentenciado estiver recolhido a estabelecimento prisional.",
+"c": true,
+"prof": "Art. 293, § 2º.",
+"x": "Início.",
+"e": "Prisão"
+},
+{
+"p": "A multa reparatória do CTB é paga em favor da vítima ou de seus sucessores, quando houver prejuízo material.",
+"c": true,
+"prof": "Art. 297.",
+"x": "Multa reparatória.",
+"e": "Vítima"
+},
+{
+"p": "A agravante do art. 298 não incide quando a mesma circunstância já constitui causa de aumento do crime, para evitar bis in idem.",
+"c": true,
+"prof": "Art. 298.",
+"x": "Bis in idem.",
+"e": "Agravante"
+},
+{
+"p": "A Lei 12.760/2012 passou a admitir a prova da embriaguez ao volante por vídeo, prova testemunhal e sinais de alteração da capacidade psicomotora.",
+"c": true,
+"prof": "Lei Seca.",
+"x": "Nova Lei Seca.",
+"e": "Prova"
+},
+{
+"p": "Motorista embriagado causa acidente e mata um pedestre, sem que as circunstâncias indiquem dolo eventual. Responde por",
+"alts": [
+"homicídio culposo do art. 121, § 3º, do CP",
+"homicídio culposo do art. 302, caput, do CTB, em concurso com o art. 306",
+"homicídio culposo qualificado do art. 302, § 3º, do CTB, com reclusão de 5 a 8 anos",
+"homicídio doloso",
+"apenas embriaguez ao volante"
+],
+"r": 2,
+"x": "Lei 13.546/2017.",
+"n": [
+"Norma especial no CTB.",
+"O § 3º absorve o 306.",
+"Correta.",
+"Sem dolo eventual.",
+"Houve morte."
+],
+"e": "Art. 302, § 3º."
+},
+{
+"p": "Sobre o art. 301 do CTB, é correto afirmar:",
+"alts": [
+"o socorro extingue a punibilidade",
+"ao condutor que presta pronto e integral socorro à vítima não se impõe prisão em flagrante nem se exige fiança",
+"o socorro só beneficia se a vítima sobreviver",
+"o benefício exige habilitação",
+"o socorro afasta a ação penal"
+],
+"r": 1,
+"x": "Art. 301.",
+"n": [
+"Não extingue.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Socorro."
+},
+{
+"p": "Na lesão corporal culposa de trânsito, NÃO se aplicam a composição civil, a transação e a representação quando o agente",
+"alts": [
+"dirigia à noite",
+"era motorista profissional",
+"participava de racha não autorizado em via pública",
+"estava sem cinto",
+"dirigia carro alugado"
+],
+"r": 2,
+"x": "Art. 291, § 1º, II.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Art. 291."
+},
+{
+"p": "Quanto ao crime de embriaguez ao volante (art. 306), assinale a correta.",
+"alts": [
+"exige direção anormal e perigo concreto",
+"só se prova por bafômetro",
+"é crime de perigo abstrato, provado por etilômetro, exame, sinais, vídeo ou testemunhas",
+"a recusa ao bafômetro configura o crime",
+"só se aplica ao álcool"
+],
+"r": 2,
+"x": "§§ 1º e 2º.",
+"n": [
+"Perigo abstrato.",
+"Outros meios.",
+"Correta.",
+"Infração administrativa.",
+"Outras substâncias."
+],
+"e": "Art. 306."
+},
+{
+"p": "Segundo a Súmula 575 do STJ, o crime de entregar a direção de veículo a pessoa não habilitada",
+"alts": [
+"exige perigo concreto",
+"exige lesão",
+"configura-se independentemente de lesão ou de perigo de dano concreto",
+"é contravenção",
+"é atípico se o condutor dirigir bem"
+],
+"r": 2,
+"x": "Art. 310.",
+"n": [
+"Abstrato.",
+"Não exige.",
+"Correta.",
+"Crime.",
+"Crime."
+],
+"e": "Súmula 575."
+},
+{
+"p": "Dirigir veículo automotor em via pública sem habilitação",
+"alts": [
+"é sempre crime",
+"é contravenção do art. 32 da LCP",
+"só é crime se gerar perigo de dano (art. 309); caso contrário, é infração administrativa",
+"é crime de perigo abstrato",
+"é atípico em qualquer caso"
+],
+"r": 2,
+"x": "Súmula 720 do STF.",
+"n": [
+"Não.",
+"Derrogado.",
+"Correta.",
+"Concreto.",
+"Pode ser crime."
+],
+"e": "Art. 309."
+},
+{
+"p": "Sobre o crime de fuga do local do acidente (art. 305), é correto afirmar:",
+"alts": [
+"é inconstitucional por violar a não autoincriminação",
+"é constitucional, segundo o STF, e exige o fim de fugir à responsabilidade penal ou civil",
+"só se aplica se houver vítima",
+"é crime culposo",
+"exige que o agente tenha agido com culpa no acidente"
+],
+"r": 1,
+"x": "Tema 907.",
+"n": [
+"Constitucional.",
+"Correta.",
+"Também com danos materiais.",
+"Doloso.",
+"Não exige."
+],
+"e": "Art. 305."
+},
+{
+"p": "A suspensão ou proibição de obter a permissão ou habilitação, como pena, tem duração de",
+"alts": [
+"1 a 12 meses",
+"6 meses a 2 anos",
+"2 meses a 5 anos",
+"1 a 10 anos",
+"indeterminada"
+],
+"r": 2,
+"x": "Art. 293.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Duração."
+},
+{
+"p": "Aos crimes dos arts. 302, § 3º, e 303, § 2º, do CTB, segundo o art. 312-B,",
+"alts": [
+"aplica-se obrigatoriamente a substituição por restritivas",
+"não se aplica a substituição do art. 44, I, do CP",
+"aplica-se a transação penal",
+"aplica-se a suspensão condicional do processo obrigatória",
+"aplica-se o perdão judicial automático"
+],
+"r": 1,
+"x": "Lei 14.071/2020.",
+"n": [
+"Vedada.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Art. 312-B."
+},
+{
+"p": "O condutor que, sem culpa no acidente, deixa de prestar socorro à vítima comete",
+"alts": [
+"omissão de socorro do CP, art. 135",
+"o crime do art. 304 do CTB",
+"nenhum crime, se terceiros socorreram",
+"homicídio culposo",
+"o crime do art. 305"
+],
+"r": 1,
+"x": "Art. 304, parágrafo único.",
+"n": [
+"Especial no CTB.",
+"Correta.",
+"Ainda há crime.",
+"Não.",
+"Fuga é outro crime."
+],
+"e": "Art. 304."
+},
+{
+"p": "Assinale o crime de trânsito de perigo concreto.",
+"alts": [
+"embriaguez ao volante (art. 306)",
+"entregar a direção a não habilitado (art. 310)",
+"velocidade incompatível próximo a escolas, gerando perigo de dano (art. 311)",
+"fuga do local (art. 305)",
+"violar a suspensão (art. 307)"
+],
+"r": 2,
+"x": "Exige perigo de dano.",
+"n": [
+"Abstrato.",
+"Abstrato.",
+"Correta.",
+"Mera conduta.",
+"Mera conduta."
+],
+"e": "Perigo concreto."
+},
+{
+"p": "Dois jovens disputam racha e um deles mata um pedestre, sem querer nem assumir o risco do resultado. O que causou a morte responde pelo",
+"alts": [
+"art. 302, caput",
+"art. 302, § 3º",
+"art. 308, § 2º, com reclusão de 5 a 10 anos",
+"art. 121 do CP, doloso",
+"art. 311"
+],
+"r": 2,
+"x": "Racha com morte preterdolosa.",
+"n": [
+"Especial.",
+"Não há embriaguez.",
+"Correta.",
+"Sem dolo eventual.",
+"Não."
+],
+"e": "Racha."
+},
+{
+"p": "A recusa do condutor em realizar o teste do etilômetro",
+"alts": [
+"configura crime de desobediência",
+"configura o crime do art. 306",
+"configura infração administrativa, sem impedir a prova do crime por outros meios",
+"é proibida por lei",
+"gera prisão em flagrante automática"
+],
+"r": 2,
+"x": "Art. 165-A e Tema 1.079.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não é proibida.",
+"Não."
+],
+"e": "Recusa."
+},
+{
+"p": "A pena de prestação de serviços à comunidade nos crimes de trânsito, quando aplicada em substituição, deverá consistir em",
+"alts": [
+"qualquer serviço comunitário",
+"doação de cestas básicas",
+"trabalho em equipes de resgate, pronto-socorro ou instituições de recuperação de acidentados",
+"trabalho em órgão de trânsito como agente",
+"aulas em autoescola"
+],
+"r": 2,
+"x": "Art. 312-A.",
+"n": [
+"Atividades específicas.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Art. 312-A."
+},
+{
+"p": "Sobre a culpa nos crimes de trânsito, é correto afirmar:",
+"alts": [
+"a culpa concorrente da vítima exclui o crime",
+"não há compensação de culpas; só a culpa exclusiva da vítima afasta o crime",
+"dois motoristas culpados respondem em concurso de pessoas",
+"o princípio da confiança não se aplica ao trânsito",
+"a imperícia não gera responsabilidade penal"
+],
+"r": 1,
+"x": "Teoria do crime culposo.",
+"n": [
+"Não exclui.",
+"Correta.",
+"Cada um por sua culpa.",
+"Aplica-se.",
+"Gera."
+],
+"e": "Culpa."
+},
+{
+"p": "O art. 309 do CTB, segundo a Súmula 720 do STF,",
+"alts": [
+"é inconstitucional",
+"derrogou o art. 32 da LCP quanto à direção sem habilitação em vias terrestres",
+"revogou o art. 310",
+"aplica-se a embarcações",
+"é crime de perigo abstrato"
+],
+"r": 1,
+"x": "Súmula 720.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Vias terrestres.",
+"Concreto."
+],
+"e": "Súmula 720."
+},
+{
+"p": "O motorista que, após atropelar um pedestre, troca de lugar com o passageiro para enganar a polícia comete, além do crime culposo,",
+"alts": [
+"falsidade ideológica",
+"favorecimento pessoal",
+"o crime do art. 312 do CTB (inovar artificiosamente para induzir a erro)",
+"fuga do local",
+"nenhum outro crime"
+],
+"r": 2,
+"x": "Fraude processual especial.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não se afastou.",
+"Há crime."
+],
+"e": "Art. 312."
+},
+{
+"p": "Quanto ao homicídio no trânsito com dolo eventual, é correto afirmar:",
+"alts": [
+"é sempre culposo, por estar no CTB",
+"a embriaguez por si só caracteriza o dolo eventual",
+"pode ocorrer quando as circunstâncias mostram que o agente assumiu o risco de matar, sendo competente o Tribunal do Júri",
+"é julgado pelo juiz singular",
+"aplica-se o art. 302, § 3º"
+],
+"r": 2,
+"x": "CP, art. 18, I.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Júri.",
+"Doloso afasta o culposo."
+],
+"e": "Dolo eventual."
+}
+]
+},
+"anticrime": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>23/01/2020</b><span>data de entrada em vigor da Lei 13.964/2019 (Pacote Anticrime)</span></div><div class=\"lt-stat\"><b>40 anos</b><span>novo limite de cumprimento das penas privativas de liberdade (CP, art. 75)</span></div><div class=\"lt-stat\"><b>90 dias</b><span>prazo para o juiz revisar a necessidade da prisão preventiva (CPP, art. 316, parágrafo único)</span></div><div class=\"lt-stat\"><b>< 4 anos</b><span>pena mínima para o acordo de não persecução penal (CPP, art. 28-A)</span></div></div>\n<h3>1. O que é o Pacote Anticrime e por que estudá-lo</h3>\n<ul><li>A <b>Lei 13.964, de 24 de dezembro de 2019</b>, conhecida como <b>Pacote Anticrime</b>, alterou ao mesmo tempo o <b>Código Penal</b>, o <b>Código de Processo Penal</b>, a <b>Lei de Execução Penal</b>, a <b>Lei dos Crimes Hediondos</b>, a <b>Lei de Drogas</b>, o <b>Estatuto do Desarmamento</b>, a <b>Lei de Organizações Criminosas</b>, a <b>Lei de Interceptação</b>, a <b>Lei de Improbidade</b>, entre outras. Entrou em vigor em <b>23 de janeiro de 2020</b>.</li><li>Nasceu da fusão de dois projetos: o do Ministério da Justiça (mais voltado ao endurecimento penal) e o de uma comissão de juristas coordenada por ministro do STF (mais voltado a garantias processuais). O resultado é uma lei <b>híbrida</b>: endurece penas e a execução (limite de 40 anos, frações de progressão, hediondez), mas cria <b>garantias</b> (juiz das garantias, cadeia de custódia, revisão periódica da preventiva, vedação de prisão de ofício).</li><li>O STF julgou as principais ações contra a lei (<b>ADIs 6.298, 6.299, 6.300 e 6.305</b>) em <b>agosto de 2023</b>, confirmando a maior parte do texto, mas dando interpretação conforme a vários dispositivos e declarando alguns inconstitucionais. Em 2026, a <b>Lei Antifacção</b> (Lei 15.358) e a <b>Lei 15.402</b> voltaram a mudar parte das regras de execução criadas pelo Pacote, especialmente as frações de progressão.</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Como estudar este tópico</b><p>Estude o Pacote por <b>lei alterada</b>: CP (parte geral e especial), CPP (investigação, juiz das garantias, ANPP, cadeia de custódia, prisões, júri), LEP (progressão, RDD, saídas, DNA) e leis especiais. Para cada mudança, saiba o <b>antes</b>, o <b>depois</b> e o que o <b>STF</b> decidiu. As bancas adoram perguntar \"segundo a Lei 13.964/2019\" e \"segundo o STF\".</p></div>\n<h3>2. Mudanças na parte geral do Código Penal</h3>\n<table class=\"tab\"><thead><tr><th>Dispositivo</th><th>Antes</th><th>Depois do Pacote</th></tr></thead><tbody><tr><td><b>Art. 25, parágrafo único</b> (legítima defesa)</td><td>sem previsão específica</td><td>considera-se em legítima defesa o <b>agente de segurança pública</b> que repele agressão ou risco de agressão a <b>vítima mantida refém</b> durante a prática de crimes</td></tr><tr><td><b>Art. 51</b> (multa)</td><td>executada como dívida de valor, com controvérsia sobre o juízo</td><td>executada perante o <b>juiz da execução penal</b>, como dívida de valor</td></tr><tr><td><b>Art. 75</b> (limite de cumprimento)</td><td><b>30 anos</b></td><td><b>40 anos</b></td></tr><tr><td><b>Art. 83, III</b> (livramento condicional)</td><td>bom comportamento</td><td>bom comportamento <b>e não cometimento de falta grave nos últimos 12 meses</b></td></tr><tr><td><b>Art. 91-A</b> (confisco alargado)</td><td>inexistente</td><td>perda da <b>diferença</b> entre o patrimônio do condenado e o compatível com seu rendimento lícito, em crimes com pena máxima <b>superior a 6 anos</b></td></tr><tr><td><b>Art. 116, III e IV</b> (causas impeditivas da prescrição)</td><td>inexistentes</td><td>a prescrição não corre na pendência de <b>embargos de declaração ou de recursos aos tribunais superiores, quando inadmissíveis</b>, e enquanto <b>não cumprido ou não rescindido o ANPP</b></td></tr></tbody></table>\n<ul><li><b>Legítima defesa do agente de segurança</b> (art. 25, parágrafo único): a doutrina majoritária entende que o dispositivo é <b>explicativo</b>, pois a situação já estava abrangida pela legítima defesa <b>de terceiro</b> (caput). Continua exigindo os requisitos gerais: agressão <b>injusta</b>, <b>atual ou iminente</b>, <b>meios necessários</b> e <b>moderação</b>. O texto fala em \"agressão ou <b>risco</b> de agressão\" a vítima mantida <b>refém</b>, como no caso do sequestrador de ônibus.</li><li><b>Limite de 40 anos</b>: só se aplica a crimes cometidos <b>após</b> a vigência (lei mais gravosa não retroage). Sobrevindo condenação por fato posterior ao início do cumprimento, faz-se nova unificação, desprezando-se o período já cumprido (art. 75, § 2º). A <b>Súmula 715</b> do STF continua válida: os benefícios são calculados sobre a pena total, e não sobre a unificada.</li><li><b>Confisco alargado</b> (art. 91-A): na condenação por infrações às quais a lei comine pena máxima <b>superior a 6 anos</b>, poderá ser decretada a perda, como produto ou proveito do crime, dos bens correspondentes à diferença entre o valor do patrimônio do condenado e aquele que seja <b>compatível com o seu rendimento lícito</b>. O condenado pode demonstrar a <b>inexistência da incompatibilidade</b> ou a <b>procedência lícita</b> do patrimônio (§ 2º). O pedido deve ser feito pelo <b>MP</b>, na denúncia, com indicação da diferença apurada (§ 3º). Os instrumentos utilizados para a prática de crimes por <b>organizações criminosas e milícias</b> devem ser declarados perdidos em favor do Estado, ainda que não ponham em perigo a segurança das pessoas, a moral ou a ordem pública (§ 5º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O limite de 40 anos do art. 75 aplica-se aos crimes cometidos antes do Pacote</span><br>✅ <span class=\"certo\">Lei mais grave <b>não retroage</b>; para fatos anteriores, o limite é de 30 anos</span></li><li>❌ <span class=\"banca\">O confisco alargado pode ser decretado em qualquer crime</span><br>✅ <span class=\"certo\">Exige pena máxima <b>superior a 6 anos</b> e pedido do MP na denúncia</span></li><li>❌ <span class=\"banca\">A legítima defesa do agente de segurança dispensa a moderação</span><br>✅ <span class=\"certo\">Continua exigindo os requisitos gerais do art. 25</span></li></ol></div>\n<h3>3. Mudanças na parte especial do Código Penal</h3>\n<ul><li><b>Homicídio qualificado pelo emprego de arma de fogo de uso restrito ou proibido</b> (art. 121, § 2º, VIII): o inciso foi <b>vetado</b> pelo Presidente, mas o Congresso <b>derrubou o veto</b> em 2021, e a qualificadora passou a vigorar. É <b>hediondo</b>, como todo homicídio qualificado.</li><li><b>Roubo</b> (art. 157): o Pacote incluiu a majorante do emprego de <b>arma branca</b> (§ 2º, VII, aumento de 1/3 até a metade), que havia sido retirada em 2018, e criou o <b>§ 2º-B</b>: se a violência ou grave ameaça é exercida com emprego de arma de fogo de <b>uso restrito ou proibido</b>, aplica-se em <b>dobro</b> a pena do caput. A arma de fogo de uso permitido continua no § 2º-A, I (aumento de 2/3).</li><li><b>Estelionato</b> (art. 171, § 5º): passou a ser crime de ação penal <b>pública condicionada à representação</b>, <b>salvo</b> se a vítima for: I, a <b>Administração Pública</b>, direta ou indireta; II, <b>criança ou adolescente</b>; III, <b>pessoa com deficiência mental</b>; ou IV, <b>maior de 70 anos</b> de idade ou <b>incapaz</b>.</li><li><b>Concussão</b> (art. 316): a pena passou de reclusão de 2 a 8 anos para <b>reclusão de 2 a 12 anos</b> e multa, igualando-a à da corrupção passiva.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF e STJ · retroatividade da representação no estelionato</b><p class=\"jc-tese\">A exigência de representação no estelionato (art. 171, § 5º) é norma <b>mista</b> (penal e processual), mais <b>benéfica</b>, e por isso <b>retroage</b>. O STF e o STJ firmaram que ela se aplica aos fatos anteriores ao Pacote, mas <b>não</b> atinge os processos em que a <b>denúncia já havia sido oferecida</b> antes da vigência da lei (ato jurídico perfeito), segundo a posição prevalecente.</p><p class=\"jc-com\">Nos inquéritos em andamento sem denúncia, a vítima deve ser intimada para manifestar interesse em representar. Lembre-se das exceções: Administração Pública, criança ou adolescente, pessoa com deficiência mental, maior de 70 anos ou incapaz (ação pública incondicionada).</p></div>\n<table class=\"tab\"><thead><tr><th>Roubo após o Pacote</th><th>Hipótese</th><th>Consequência</th></tr></thead><tbody><tr><td>Arma branca</td><td>§ 2º, VII</td><td>aumento de <b>1/3 até a metade</b>; não hediondo</td></tr><tr><td>Arma de fogo de uso permitido</td><td>§ 2º-A, I</td><td>aumento de <b>2/3</b>; <b>hediondo</b></td></tr><tr><td>Arma de fogo de uso restrito ou proibido</td><td>§ 2º-B</td><td>pena em <b>dobro</b>; <b>hediondo</b></td></tr><tr><td>Simulacro ou arma de brinquedo</td><td>caput</td><td>grave ameaça do roubo simples; sem majorante</td></tr></tbody></table>\n<h3>4. Sistema acusatório e juiz das garantias: arts. 3º-A a 3º-F do CPP</h3>\n<ul><li><b>Art. 3º-A</b>: o processo penal terá <b>estrutura acusatória</b>, <b>vedadas</b> a iniciativa do juiz na fase de investigação e a substituição da atuação probatória do órgão de acusação. Significa que o juiz não pode agir como investigador.</li><li><b>Art. 3º-B</b>: o <b>juiz das garantias</b> é responsável pelo <b>controle da legalidade da investigação criminal</b> e pela <b>salvaguarda dos direitos individuais</b> cuja franquia tenha sido reservada à autorização prévia do Poder Judiciário. Entre suas competências: receber a comunicação imediata da prisão; receber o auto de prisão em flagrante para o controle da legalidade; zelar pela observância dos direitos do preso; decidir sobre requerimento de prisão provisória ou outra medida cautelar; prorrogar a prisão provisória; decidir sobre a produção antecipada de provas; prorrogar o prazo do inquérito com investigado preso; determinar o trancamento do inquérito quando não houver fundamento razoável; requisitar documentos; decidir sobre interceptação, quebras de sigilo, busca e apreensão, acesso a informações sigilosas; julgar o habeas corpus impetrado antes do oferecimento da denúncia; determinar a instauração de incidente de insanidade mental; decidir sobre a homologação de <b>acordo de não persecução penal</b> ou de colaboração premiada na fase de investigação.</li><li><b>Prorrogação do inquérito com preso</b> (art. 3º-B, § 2º): se o investigado estiver preso, o juiz das garantias poderá, mediante representação da autoridade policial e ouvido o MP, prorrogar, <b>uma única vez</b>, a duração do inquérito por <b>até 15 dias</b>, após o que, se ainda assim a investigação não for concluída, a prisão será imediatamente relaxada. O STF deu interpretação conforme para admitir que o juiz possa, em decisão fundamentada, considerar a complexidade da investigação.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADIs 6.298, 6.299, 6.300 e 6.305 (agosto de 2023)</b><p class=\"jc-tese\">Principais conclusões do STF sobre o juiz das garantias: (1) é <b>constitucional</b> e de implantação <b>obrigatória</b>, devendo ser implementado pelos tribunais no prazo de <b>12 meses</b>, prorrogável por mais 12; (2) a competência do juiz das garantias <b>cessa com o oferecimento da denúncia</b> (e não com o recebimento, como dizia a lei); (3) o recebimento da denúncia e as questões pendentes ficam com o <b>juiz da instrução</b>; (4) os autos do inquérito <b>não</b> ficam acautelados na secretaria do juiz das garantias: devem ser <b>remetidos</b> ao juiz da instrução (declarados inconstitucionais os §§ 3º e 4º do art. 3º-C); (5) foi declarado inconstitucional o <b>art. 3º-D</b> (impedimento do juiz que atuou na fase de investigação nos locais com um só juiz, substituído por sistema de rodízio a ser organizado); (6) o juiz das garantias não se aplica aos processos de competência originária dos tribunais, do Tribunal do Júri, de violência doméstica e dos Juizados Especiais.</p><p class=\"jc-com\">O STF também deu interpretação conforme ao <b>art. 28</b> (arquivamento) e declarou inconstitucional o <b>§ 5º do art. 157</b> (afastamento do juiz que conheceu a prova ilícita). Para provas, guarde: <b>obrigatório</b>, <b>oferecimento da denúncia</b> (fim da competência), <b>remessa dos autos</b>, <b>não se aplica</b> ao júri, à violência doméstica, ao JECrim e às ações originárias.</p></div>\n<h3>5. Arquivamento do inquérito: art. 28</h3>\n<ul><li><b>Redação do Pacote</b>: ordenado o arquivamento do inquérito ou de quaisquer elementos informativos da mesma natureza, o <b>órgão do MP</b> comunicará à vítima, ao investigado e à autoridade policial e encaminhará os autos para a <b>instância de revisão ministerial</b> para fins de homologação. A vítima, ou seu representante legal, poderá, no prazo de <b>30 dias</b> do recebimento da comunicação, submeter a matéria à revisão da instância competente do órgão ministerial (§ 1º).</li><li><b>STF (2023)</b>: deu interpretação conforme para assentar que o MP, ao se manifestar pelo arquivamento, deve <b>submeter sua manifestação ao juiz competente</b> e comunicar à vítima, ao investigado e à autoridade policial; o juiz, verificando <b>patente ilegalidade ou teratologia</b>, poderá submeter a matéria à revisão da instância competente do MP. A vítima e a autoridade policial também podem provocar a revisão.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Com o Pacote, o juiz deixou de ter qualquer participação no arquivamento</span><br>✅ <span class=\"certo\">O STF exigiu que a manifestação seja <b>submetida ao juiz</b>, que pode provocar a revisão em caso de ilegalidade patente</span></li><li>❌ <span class=\"banca\">A competência do juiz das garantias vai até o recebimento da denúncia</span><br>✅ <span class=\"certo\">O STF fixou que <b>cessa com o oferecimento</b> da denúncia</span></li><li>❌ <span class=\"banca\">O juiz das garantias atua também no júri e nos crimes de violência doméstica</span><br>✅ <span class=\"certo\">O STF afastou sua aplicação a esses procedimentos</span></li></ol></div>\n<h3>6. Acordo de não persecução penal: art. 28-A</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CPP, art. 28-A (requisitos)</div><div class=\"art-lei\">Não sendo caso de arquivamento e tendo o investigado confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 anos, o Ministério Público poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante as seguintes condições, ajustadas cumulativa e alternativamente: I, reparar o dano ou restituir a coisa à vítima, exceto na impossibilidade de fazê-lo; II, renunciar voluntariamente a bens e direitos indicados pelo MP como instrumentos, produto ou proveito do crime; III, prestar serviço à comunidade ou a entidades públicas por período correspondente à pena mínima cominada ao delito diminuída de 1/3 a 2/3; IV, pagar prestação pecuniária; V, cumprir, por prazo determinado, outra condição indicada pelo MP, desde que proporcional e compatível com a infração penal imputada.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Requisitos: <b>não ser caso de arquivamento</b>; <b>confissão formal e circunstanciada</b>; crime <b>sem violência ou grave ameaça</b>; pena <b>mínima inferior a 4 anos</b> (consideradas causas de aumento e diminuição)</li><li>Proposto pelo <b>MP</b>; <b>homologado</b> pelo juiz (em audiência, verificando a voluntariedade)</li><li>Cumprido, extingue a <b>punibilidade</b> (§ 13)</li><li>Não gera reincidência nem antecedentes (só registro para impedir novo acordo em 5 anos)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A banca diz que o delegado pode propor o ANPP</li><li>A banca diz que a confissão pode ser informal</li></ul></div></div>\n<ul><li><b>Vedações</b> (§ 2º): não se aplica o ANPP: I, se for cabível <b>transação penal</b> de competência dos Juizados Especiais; II, se o investigado for <b>reincidente</b> ou se houver elementos probatórios que indiquem conduta criminal <b>habitual, reiterada ou profissional</b>, exceto se insignificantes as infrações penais pretéritas; III, ter sido o agente beneficiado, nos <b>5 anos</b> anteriores ao cometimento da infração, em acordo de não persecução penal, transação penal ou suspensão condicional do processo; IV, nos crimes praticados no âmbito de <b>violência doméstica ou familiar</b>, ou praticados <b>contra a mulher por razões da condição de sexo feminino</b>, em favor do agressor.</li><li><b>Recusa do MP</b> (§ 14): no caso de recusa, por parte do MP, em propor o acordo, o investigado poderá requerer a remessa dos autos a <b>órgão superior</b> do MP, na forma do art. 28.</li><li><b>Retroatividade</b>: o STF (HC 185.913, 2024) fixou que o ANPP pode ser aplicado a processos <b>em curso</b> na data da entrada em vigor da lei, inclusive após o recebimento da denúncia, desde que <b>não haja trânsito em julgado</b>, cabendo ao MP avaliar o cabimento na primeira oportunidade em que falar nos autos.</li><li><b>Descumprimento</b> (§ 10): descumpridas quaisquer das condições, o MP deverá comunicar ao juízo, para fins de sua <b>rescisão</b> e posterior oferecimento de denúncia. O descumprimento também pode ser usado como justificativa para o não oferecimento de suspensão condicional do processo (§ 11).</li></ul>\n<h3>7. Cadeia de custódia: arts. 158-A a 158-F do CPP</h3>\n<ul><li><b>Art. 158-A</b>: considera-se <b>cadeia de custódia</b> o conjunto de todos os procedimentos utilizados para manter e documentar a <b>história cronológica do vestígio</b> coletado em locais ou em vítimas de crimes, para rastrear sua posse e manuseio a partir de seu reconhecimento até o descarte. O início da cadeia de custódia dá-se com a <b>preservação do local de crime</b> ou com procedimentos policiais ou periciais nos quais seja detectada a existência de vestígio (§ 1º). O agente público que reconhecer um elemento como de potencial interesse para a produção da prova pericial fica <b>responsável por sua preservação</b> (§ 2º).</li></ul>\n<div class=\"lt-fluxo\"><span>Reconhecimento</span> <em>→</em> <span>Isolamento</span> <em>→</em> <span>Fixação</span> <em>→</em> <span>Coleta</span> <em>→</em> <span>Acondicionamento</span> <em>→</em> <span>Transporte</span> <em>→</em> <span>Recebimento</span> <em>→</em> <span>Processamento</span> <em>→</em> <span>Armazenamento</span> <em>→</em> <span>Descarte</span></div>\n<ul><li><b>Art. 158-B</b>: as <b>10 etapas</b> da cadeia de custódia acima, com a definição de cada uma. Por exemplo, <b>fixação</b> é a descrição detalhada do vestígio conforme se encontra no local, podendo ser ilustrada por fotografias, filmagens ou croqui; <b>acondicionamento</b> é o procedimento por meio do qual cada vestígio coletado é embalado de forma individualizada, de acordo com suas características.</li><li><b>Art. 158-C</b>: a coleta dos vestígios deverá ser realizada <b>preferencialmente por perito oficial</b>, que dará o encaminhamento necessário para a central de custódia. É <b>proibida</b> a entrada em locais isolados bem como a remoção de quaisquer vestígios de locais de crime antes da liberação por parte do perito responsável, sendo tipificada como <b>fraude processual</b> a sua realização (§ 2º).</li><li><b>Art. 158-D</b>: o recipiente para acondicionamento do vestígio será determinado pela natureza do material, e todos os recipientes deverão ser <b>selados com lacres</b>, com numeração individualizada.</li><li><b>Art. 158-E</b>: todos os Institutos de Criminalística deverão ter uma <b>central de custódia</b> destinada à guarda e controle dos vestígios.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · quebra da cadeia de custódia</b><p class=\"jc-tese\">O STJ (HC 653.515, entre outros) firmou que a <b>quebra da cadeia de custódia</b> não gera, automaticamente, a nulidade ou a inadmissibilidade da prova: as irregularidades devem ser sopesadas pelo juiz com todos os elementos produzidos na instrução, a fim de aferir se a prova é <b>confiável</b>. Quando a quebra compromete seriamente a confiabilidade (por exemplo, droga sem lacre, de peso diferente do apreendido, ou arquivos digitais sem hash e com sinais de manipulação), a prova pode ser desconsiderada.</p><p class=\"jc-com\">Para o policial, a regra prática é: <b>preservar</b>, <b>lacrar</b>, <b>registrar</b> cada movimentação do vestígio e, em provas digitais, gerar <b>cópia forense</b> com <b>hash</b>. A falta desses cuidados é hoje uma das principais teses defensivas.</p></div>\n<h3>8. Prisões e medidas cautelares após o Pacote</h3>\n<ul><li><b>Vedação da prisão de ofício</b>: o juiz <b>não</b> pode decretar medidas cautelares, nem a prisão preventiva, <b>de ofício</b>, seja na investigação, seja no processo (CPP, arts. 282, § 2º, e 311). Depende de requerimento do MP, do querelante ou do assistente, ou de representação da autoridade policial. O STF e o STJ entendem que isso vale também para a <b>conversão</b> do flagrante em preventiva na audiência de custódia, que exige provocação.</li><li><b>Fundamentação</b> (art. 315): a decisão que decretar, substituir ou denegar a prisão preventiva será sempre motivada e fundamentada, indicando concretamente a existência de <b>fatos novos ou contemporâneos</b> que justifiquem a medida (§ 1º). O § 2º lista o que <b>não</b> se considera fundamentação (indicar ato normativo sem explicar sua relação com a causa; empregar conceitos jurídicos indeterminados; invocar motivos genéricos; deixar de enfrentar argumentos da defesa etc.).</li><li><b>Vedação da preventiva como antecipação de pena</b> (art. 313, § 2º): não será admitida a decretação da prisão preventiva com a finalidade de antecipação de cumprimento de pena ou como decorrência imediata de investigação criminal ou da apresentação ou recebimento de denúncia.</li><li><b>Revisão a cada 90 dias</b> (art. 316, parágrafo único): decretada a prisão preventiva, deverá o órgão emissor da decisão revisar a necessidade de sua manutenção a cada <b>90 dias</b>, mediante decisão fundamentada, de ofício, sob pena de tornar a prisão <b>ilegal</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · SL 1.395 e o prazo de 90 dias</b><p class=\"jc-tese\">O STF decidiu que a inobservância do prazo de 90 dias para revisão da preventiva <b>não</b> implica a <b>revogação automática</b> da prisão: o juízo competente deve ser instado a reavaliar a legalidade e a atualidade de seus fundamentos. A regra se aplica até o fim do processo em primeiro grau e não se estende aos tribunais em grau de recurso, segundo o STF.</p><p class=\"jc-com\">O caso que motivou a decisão foi a soltura de um líder de facção pelo simples decurso do prazo, com posterior fuga. Para provas: o descumprimento do prazo gera o dever de reavaliação, <b>não</b> a soltura automática.</p></div>\n<ul><li><b>Audiência de custódia</b> (art. 310): após receber o auto de prisão em flagrante, no prazo máximo de <b>24 horas</b> após a realização da prisão, o juiz deverá promover audiência de custódia com a presença do acusado, seu advogado ou defensor e o MP, e decidir: relaxar a prisão ilegal; converter em preventiva (se presentes os requisitos e insuficientes outras cautelares); ou conceder liberdade provisória, com ou sem fiança. O § 2º prevê que, se o agente for <b>reincidente</b> ou integrar <b>organização criminosa armada ou milícia</b>, ou portar <b>arma de fogo de uso restrito</b>, o juiz <b>deverá denegar</b> a liberdade provisória, com ou sem medidas cautelares (dispositivo que a doutrina critica como vedação abstrata). A <b>Lei 15.358/2026</b> passou a disciplinar a realização da audiência por <b>videoconferência</b>, com garantias de sigilo e de defesa, admitindo a forma presencial em casos de força maior.</li><li><b>Prisão especial</b>: não houve mudança relevante; mantém-se a regra do art. 295 e a jurisprudência que a restringe.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O juiz pode converter o flagrante em preventiva de ofício na audiência de custódia</span><br>✅ <span class=\"certo\">Após o Pacote, exige <b>provocação</b> do MP ou da polícia (STF e STJ)</span></li><li>❌ <span class=\"banca\">O descumprimento do prazo de 90 dias gera a soltura automática do preso</span><br>✅ <span class=\"certo\">Gera o dever de <b>reavaliação</b> (STF, SL 1.395)</span></li><li>❌ <span class=\"banca\">A preventiva pode ser decretada como consequência do recebimento da denúncia</span><br>✅ <span class=\"certo\">É <b>vedado</b> (art. 313, § 2º)</span></li></ol></div>\n<h3>9. A prisão preventiva reescrita pelo Pacote</h3>\n<ul><li><b>Art. 312 (requisitos)</b>: a prisão preventiva poderá ser decretada como garantia da <b>ordem pública</b>, da <b>ordem econômica</b>, por conveniência da <b>instrução criminal</b> ou para assegurar a <b>aplicação da lei penal</b>, quando houver <b>prova da existência do crime</b> e <b>indício suficiente de autoria</b> e de <b>perigo gerado pelo estado de liberdade do imputado</b>. A expressão \"perigo gerado pelo estado de liberdade\" foi incluída pelo Pacote e reforça a exigência de <b>risco concreto</b> (periculum libertatis).</li><li><b>§ 1º</b>: a preventiva também poderá ser decretada em caso de <b>descumprimento</b> de qualquer das obrigações impostas por força de outras medidas cautelares. <b>§ 2º</b>: a decisão que decretar a prisão preventiva deve ser motivada e fundamentada em receio de perigo e existência concreta de <b>fatos novos ou contemporâneos</b> que justifiquem a aplicação da medida adotada.</li><li><b>Art. 282, § 3º (contraditório prévio)</b>: ressalvados os casos de <b>urgência</b> ou de <b>perigo de ineficácia</b> da medida, o juiz, ao receber o pedido de medida cautelar, determinará a <b>intimação da parte contrária</b>, para se manifestar no prazo de <b>5 dias</b>. Os casos de urgência ou de perigo deverão ser justificados e fundamentados em decisão que contenha elementos do caso concreto.</li><li><b>Art. 282, § 5º</b>: o juiz poderá, de ofício ou a pedido das partes, <b>revogar</b> a medida cautelar ou substituí-la quando verificar a falta de motivo para que subsista, bem como voltar a decretá-la, se sobrevierem razões que a justifiquem. (A revogação de ofício é admitida, por ser favorável ao investigado; a decretação, não.)</li><li><b>Art. 282, § 6º</b>: a prisão preventiva somente será determinada quando <b>não for cabível a sua substituição por outra medida cautelar</b>, observado o art. 319, e o não cabimento da substituição deverá ser <b>justificado de forma fundamentada</b> nos elementos presentes do caso concreto, de forma individualizada.</li></ul>\n<table class=\"tab\"><thead><tr><th>Pressuposto</th><th>O que exige</th></tr></thead><tbody><tr><td><b>Fumus comissi delicti</b></td><td>prova da existência do crime e indício suficiente de autoria</td></tr><tr><td><b>Periculum libertatis</b></td><td>perigo gerado pelo estado de liberdade (ordem pública, ordem econômica, instrução, aplicação da lei penal)</td></tr><tr><td><b>Contemporaneidade</b></td><td>fatos novos ou contemporâneos (art. 312, § 2º)</td></tr><tr><td><b>Subsidiariedade</b></td><td>insuficiência das cautelares diversas, justificada (art. 282, § 6º)</td></tr><tr><td><b>Provocação</b></td><td>requerimento do MP, querelante ou assistente, ou representação da autoridade policial (art. 311)</td></tr><tr><td><b>Hipóteses de cabimento</b></td><td>art. 313 (crimes dolosos com pena máxima superior a 4 anos; reincidente em crime doloso; violência doméstica para garantir medidas protetivas; dúvida sobre a identidade)</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · contemporaneidade da preventiva</b><p class=\"jc-tese\">O STJ tem revogado prisões preventivas decretadas muito tempo depois dos fatos, sem indicação de fatos <b>novos ou contemporâneos</b>, aplicando o art. 312, § 2º. A contemporaneidade se refere aos <b>motivos</b> da prisão, e não necessariamente à data do crime: um crime antigo pode justificar prisão atual se houver risco atual (por exemplo, ameaças recentes a testemunhas, fuga em andamento).</p><p class=\"jc-com\">Para o delegado, a representação pela preventiva deve indicar <b>elementos atuais</b>: novas ameaças, reiteração delitiva, tentativa de fuga, destruição de provas. A gravidade abstrata do crime e o clamor público não bastam.</p></div>\n<h3>10. Juiz das garantias na rotina do delegado</h3>\n<ul><li>Com o juiz das garantias implantado, o delegado passa a se dirigir a ele para: a <b>comunicação da prisão em flagrante</b> e o envio do auto; as <b>representações</b> por prisão temporária ou preventiva, busca e apreensão, interceptação, quebras de sigilo e medidas assecuratórias; a <b>prorrogação</b> do inquérito com investigado preso (uma única vez, por até 15 dias, salvo a interpretação conforme do STF); e o requerimento de <b>produção antecipada de provas</b> urgentes.</li><li>O juiz das garantias também pode <b>trancar</b> o inquérito quando não houver fundamento razoável para sua instauração ou prosseguimento, e julgar <b>habeas corpus</b> impetrado antes do oferecimento da denúncia.</li><li><b>Prazos do inquérito</b>: o Pacote não alterou os prazos gerais do art. 10 do CPP (10 dias com preso, 30 dias solto), mas criou a regra da prorrogação única de 15 dias para o investigado preso, sob controle do juiz das garantias. Leis especiais mantêm seus prazos (Lei de Drogas: 30/90; Lei Antifacção: 90/270).</li><li><b>Acesso da defesa</b>: o juiz das garantias assegura o direito do investigado e de seu defensor de acesso a todos os elementos informativos e provas produzidos no âmbito da investigação criminal, salvo as diligências em andamento (art. 3º-B, XV, em harmonia com a SV 14).</li></ul>\n<h3>11. O ANPP na prática</h3>\n<ul><li><b>Momento</b>: em regra, antes do oferecimento da denúncia, quando o inquérito está relatado. Com a decisão do STF no HC 185.913, também nos processos em curso sem trânsito em julgado, se ainda não oferecido.</li><li><b>Confissão</b>: deve ser <b>formal e circunstanciada</b>, normalmente colhida pelo MP no momento da celebração, com a presença do defensor. A jurisprudência discute se a confissão pode ser usada como prova caso o acordo seja rescindido; a posição prevalente é que ela não pode, isoladamente, fundamentar a condenação.</li><li><b>Homologação</b> (§§ 4º a 8º): o juiz realiza <b>audiência</b> para verificar a <b>voluntariedade</b>, por meio da oitiva do investigado na presença do seu defensor, e a <b>legalidade</b>. Se considerar inadequadas, insuficientes ou abusivas as condições, devolve os autos ao MP para reformulação. Pode <b>recusar</b> a homologação se a proposta não atender aos requisitos legais; dessa decisão cabe <b>recurso em sentido estrito</b> (CPP, art. 581, XXV).</li><li><b>Execução</b>: homologado o acordo, o juiz devolve os autos ao MP para que inicie sua execução perante o <b>juízo de execução penal</b> (§ 6º). A vítima será intimada da homologação e de seu descumprimento (§ 9º).</li><li><b>Registro</b>: a celebração e o cumprimento do acordo <b>não</b> constarão de certidão de antecedentes criminais, exceto para impedir novo acordo no prazo de 5 anos (§ 12).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O juiz pode homologar o ANPP sem ouvir o investigado</span><br>✅ <span class=\"certo\">Deve realizar <b>audiência</b> para verificar a voluntariedade</span></li><li>❌ <span class=\"banca\">Da recusa de homologação do ANPP cabe apelação</span><br>✅ <span class=\"certo\">Cabe <b>recurso em sentido estrito</b> (art. 581, XXV)</span></li><li>❌ <span class=\"banca\">O ANPP cumprido aparece na certidão de antecedentes</span><br>✅ <span class=\"certo\">Não consta, salvo para impedir novo acordo em <b>5 anos</b></span></li></ol></div>\n<h3>12. Outras mudanças no CPP</h3>\n<ul><li><b>Investigação de agentes de segurança</b> (art. 14-A): nos casos em que servidores vinculados às instituições de <b>segurança pública</b> (CF, art. 144) figurarem como investigados em inquéritos e demais procedimentos extrajudiciais cujo objeto for a investigação de fatos relacionados ao <b>uso da força letal</b> praticados no exercício profissional, de forma consumada ou tentada, o indiciado poderá constituir <b>defensor</b>. O investigado deverá ser <b>citado</b> da instauração do procedimento, podendo constituir defensor no prazo de até <b>48 horas</b> a contar do recebimento da citação (§ 1º). Esgotado o prazo sem nomeação, a autoridade responsável pela investigação deverá intimar a instituição a que estava vinculado o investigado à época dos fatos para que esta, em 48 horas, indique defensor (§ 2º). A regra se aplica também aos militares das Forças Armadas em operações de Garantia da Lei e da Ordem (§ 6º).</li><li><b>Tribunal do Júri: execução provisória</b> (art. 492, I, \"e\"): o Pacote previu a execução provisória da pena aplicada pelo júri quando igual ou superior a <b>15 anos</b> de reclusão. O STF, no <b>Tema 1.068</b> (2024), foi além: \"A soberania dos veredictos do Tribunal do Júri autoriza a <b>imediata execução</b> de condenação imposta pelo corpo de jurados, <b>independentemente do total da pena</b> aplicada.\"</li><li><b>Nulidade e prova ilícita</b> (art. 157, § 5º): o juiz que conhecer do conteúdo da prova declarada inadmissível não poderia proferir a sentença. O STF declarou o dispositivo <b>inconstitucional</b> (2023).</li><li><b>Recursos</b>: o Pacote previu que a apelação contra condenação do júri a pena igual ou superior a 15 anos não terá efeito suspensivo (art. 492, § 4º), salvo hipóteses excepcionais, regra hoje absorvida pelo Tema 1.068.</li></ul>\n<h3>13. Mudanças na execução penal (LEP)</h3>\n<table class=\"tab\"><thead><tr><th>Tema</th><th>Mudança do Pacote</th><th>Situação em 2026</th></tr></thead><tbody><tr><td><b>Progressão</b> (art. 112)</td><td>frações em percentuais: 16%, 20%, 25%, 30%, 40%, 50%, 60% e 70%</td><td>alteradas pela <b>Lei 15.358/2026</b> (hediondos: 70%, 75%, 80%, 85%) e pela <b>Lei 15.402/2026</b> (comuns: 1/6, 20%, 25%, 30%) para fatos posteriores</td></tr><tr><td><b>Falta grave</b></td><td>interrompe o prazo de progressão (art. 112, § 6º)</td><td>mantida</td></tr><tr><td><b>Tráfico privilegiado</b></td><td>não é hediondo para progressão (art. 112, § 5º)</td><td>mantido</td></tr><tr><td><b>Exame criminológico</b></td><td>não alterado pelo Pacote</td><td>obrigatório desde a Lei 14.843/2024</td></tr><tr><td><b>RDD</b> (art. 52)</td><td>até <b>2 anos</b>; visitas quinzenais; banho de sol de 2 horas; líderes em presídio federal</td><td>reforçado pela Lei 15.407/2026</td></tr><tr><td><b>Saída temporária</b></td><td>vedada ao condenado por hediondo com resultado morte</td><td>ampliada a vedação pela Lei 14.843/2024 (hediondos e crimes com violência ou grave ameaça)</td></tr><tr><td><b>Perfil genético</b> (art. 9º-A)</td><td>coleta obrigatória ampliada; recusa é falta grave</td><td>mantido</td></tr><tr><td><b>Livramento</b> (CP, art. 83)</td><td>sem falta grave nos últimos 12 meses</td><td>mantido</td></tr></tbody></table>\n<ul><li><b>Banco Nacional de Perfis Genéticos</b> (Lei 12.037/2009, art. 7º-A e 7º-C): o Pacote regulou a exclusão dos perfis (absolvição ou, no caso do condenado, mediante requerimento após 20 anos do cumprimento da pena) e criou o <b>Banco Nacional Multibiométrico e de Impressões Digitais</b>.</li></ul>\n<h3>14. Mudanças nas leis penais especiais</h3>\n<table class=\"tab\"><thead><tr><th>Lei</th><th>Principais mudanças do Pacote</th></tr></thead><tbody><tr><td><b>Lei 8.072</b> (hediondos)</td><td>inclusão de roubo com restrição de liberdade, com arma de fogo e qualificado; extorsão qualificada; furto com explosivo; posse ou porte de arma de <b>uso proibido</b>; comércio ilegal e tráfico internacional de armas; organização criminosa voltada a hediondos; revogação do § 2º do art. 2º (frações levadas à LEP)</td></tr><tr><td><b>Lei 10.826</b> (armas)</td><td>penas maiores nos arts. 17 (6 a 12) e 18 (8 a 16); art. 16, § 2º (uso proibido, 4 a 12); venda a <b>agente disfarçado</b> (arts. 17, § 2º, e 18, parágrafo único); aumento pela reincidência específica (art. 20, II)</td></tr><tr><td><b>Lei 11.343</b> (drogas)</td><td>venda a <b>agente policial disfarçado</b> (art. 33, § 1º, IV)</td></tr><tr><td><b>Lei 12.850</b> (orcrim)</td><td>colaboração premiada detalhada (arts. 3º-A a 3º-C; § 16 ampliado; delatado fala por último); <b>infiltração virtual</b> (arts. 10-A a 10-D); líderes em segurança máxima; vedação de benefícios se mantido o vínculo</td></tr><tr><td><b>Lei 9.296</b> (interceptação)</td><td><b>captação ambiental</b> (art. 8º-A) e crime do art. 10-A</td></tr><tr><td><b>Lei 13.608</b> (informante)</td><td>proteção e <b>recompensa</b> ao informante (\"whistleblower\"), com até <b>5%</b> do valor recuperado, nos crimes contra a Administração Pública</td></tr><tr><td><b>Lei 8.429</b> (improbidade)</td><td>previsão de <b>acordo de não persecução cível</b></td></tr><tr><td><b>Lei 11.671</b> (presídios federais)</td><td>permanência por até <b>3 anos</b>, renovável; regras de visitas e monitoramento</td></tr><tr><td><b>Lei 12.694</b></td><td><b>Varas Criminais Colegiadas</b> para organizações armadas e milícias</td></tr></tbody></table>\n<ul><li><b>Informante do bem</b> (Lei 13.608/2018, arts. 4º-A a 4º-C): a União, os Estados, o DF e os Municípios e suas autarquias, fundações e empresas devem manter unidade de <b>ouvidoria ou correição</b> para receber relatos de crimes contra a Administração Pública, ilícitos administrativos ou quaisquer ações ou omissões lesivas ao interesse público. O informante tem direito à <b>preservação de sua identidade</b>, que só será revelada em caso de relevante interesse público ou interesse concreto para a apuração dos fatos, mediante sua concordância. É protegido contra <b>retaliações</b> (demissão arbitrária, alteração injustificada de funções, imposição de sanções, prejuízos remuneratórios), e, quando as informações resultarem em recuperação de produto de crime contra a Administração Pública, poderá ser fixada recompensa de até <b>5%</b> do valor recuperado.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Pacote Anticrime revogou a figura do agente infiltrado presencial</span><br>✅ <span class=\"certo\">Manteve-a e <b>criou</b> a infiltração <b>virtual</b></span></li><li>❌ <span class=\"banca\">A venda a agente disfarçado só foi tipificada na Lei de Drogas</span><br>✅ <span class=\"certo\">Também no <b>Estatuto do Desarmamento</b> (arts. 17 e 18)</span></li><li>❌ <span class=\"banca\">O informante do bem recebe recompensa de até 10% do valor recuperado</span><br>✅ <span class=\"certo\">Até <b>5%</b></span></li></ol></div>\n<h3>15. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Refém no ônibus</b><p>Um homem armado mantém passageiros reféns em um ônibus e ameaça matá-los. Um atirador de elite da polícia o neutraliza com um disparo. Há crime?</p><details><summary>Ver a solução comentada</summary><p>Não: o agente de segurança agiu em <b>legítima defesa de terceiro</b>, expressamente reconhecida no <b>art. 25, parágrafo único</b>, do CP (agente de segurança que repele agressão ou risco de agressão a vítima mantida refém). Os requisitos gerais (agressão injusta e atual ou iminente, meios necessários e moderação) devem estar presentes, o que será apurado em inquérito, no qual o policial pode constituir <b>defensor</b> (CPP, art. 14-A).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: ANPP no furto</b><p>Investigado primário, sem antecedentes, furtou um notebook (furto simples, pena de 1 a 4 anos) e confessou formalmente o crime. Cabe ANPP?</p><details><summary>Ver a solução comentada</summary><p><b>Sim</b>, em tese: crime <b>sem violência ou grave ameaça</b>, pena mínima de <b>1 ano</b> (inferior a 4), confissão <b>formal e circunstanciada</b>, não sendo caso de arquivamento nem de transação penal (pena máxima de 4 anos). O MP pode propor condições como reparação do dano e prestação de serviços. Homologado e cumprido, extingue-se a punibilidade.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Preventiva de ofício</b><p>Na audiência de custódia de um preso em flagrante por roubo, o MP pede liberdade provisória com cautelares, mas o juiz converte o flagrante em preventiva por iniciativa própria. É válido?</p><details><summary>Ver a solução comentada</summary><p><b>Não</b>: após o Pacote, o juiz não pode decretar a preventiva <b>de ofício</b>, nem converter o flagrante sem pedido do MP ou representação da autoridade policial (CPP, arts. 282, § 2º, e 311; jurisprudência do STF e do STJ). A prisão é ilegal e deve ser relaxada, sem prejuízo de nova decretação mediante provocação.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Estelionato antigo</b><p>Um estelionato contra uma empresa privada foi praticado em 2018. O inquérito ainda estava em andamento em 2020, sem denúncia. A vítima nunca representou. O que fazer?</p><details><summary>Ver a solução comentada</summary><p>A exigência de representação (art. 171, § 5º) <b>retroage</b> por ser mais benéfica: a vítima deve ser intimada para manifestar se deseja representar; sem representação no prazo, ocorre a decadência. Se a vítima fosse <b>maior de 70 anos</b> ou a <b>Administração Pública</b>, a ação seria incondicionada.</p></details></div>\n<h3>16. Críticas e debates em torno do Pacote</h3>\n<ul><li><b>Endurecimento penal</b>: críticos apontam que o aumento do limite para 40 anos, das frações de progressão e das hipóteses de hediondez agrava a superlotação carcerária reconhecida pelo STF (ADPF 347), sem efeito comprovado na redução da criminalidade. Defensores sustentam que a resposta penal mais severa é necessária para crimes graves e organizações criminosas.</li><li><b>Garantias processuais</b>: o juiz das garantias foi elogiado por reforçar a <b>imparcialidade</b> do julgador (que não se \"contamina\" com a investigação) e criticado por exigir estrutura e juízes adicionais, especialmente em comarcas pequenas, o que levou o STF a modular a implantação.</li><li><b>ANPP</b>: elogiado por desafogar o Judiciário e permitir respostas rápidas a crimes de média gravidade; criticado por exigir <b>confissão</b> como condição, o que alguns consideram incompatível com a presunção de inocência e com o direito à não autoincriminação. O STF manteve a exigência.</li><li><b>Vedações abstratas</b>: o art. 310, § 2º (denegação obrigatória da liberdade provisória ao reincidente ou integrante de organização armada) e o art. 312-B do CTB (vedação de substituição) são criticados por lembrarem vedações que o STF já declarou inconstitucionais em outras leis (liberdade provisória no tráfico, Tema 959). A jurisprudência tende a interpretá-las de modo a preservar a análise do caso concreto.</li><li><b>Excludente para agentes de segurança</b>: a proposta original previa ampliar a legítima defesa e permitir a redução ou isenção de pena em casos de \"escusável medo, surpresa ou violenta emoção\", o que foi retirado no Congresso. O texto aprovado (art. 25, parágrafo único) é considerado pela doutrina apenas <b>explicativo</b>.</li></ul>\n<h3>17. Mais casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Prorrogação do inquérito com preso</b><p>O investigado está preso preventivamente e o inquérito não foi concluído no prazo de 10 dias. O delegado representa pela prorrogação. Como fica?</p><details><summary>Ver a solução comentada</summary><p>O juiz das garantias pode, ouvido o MP, prorrogar <b>uma única vez</b> o inquérito por <b>até 15 dias</b> (CPP, art. 3º-B, § 2º). Se a investigação não for concluída, a prisão deve ser <b>relaxada</b>, segundo a letra da lei; o STF admitiu, em interpretação conforme, que o juiz considere a complexidade do caso em decisão fundamentada. Nas leis especiais com prazos próprios (drogas, organizações ultraviolentas), aplicam-se os prazos específicos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Arquivamento questionado pela vítima</b><p>O MP promove o arquivamento de um inquérito por lesão corporal. A vítima discorda. O que pode fazer?</p><details><summary>Ver a solução comentada</summary><p>Pela redação do art. 28 e pela decisão do STF, a vítima é <b>comunicada</b> e pode, em <b>30 dias</b>, submeter a matéria à <b>revisão</b> da instância competente do MP (por exemplo, o Procurador-Geral de Justiça ou câmara de revisão). O juiz, se verificar patente ilegalidade, também pode provocar essa revisão.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Droga sem lacre</b><p>Em processo por tráfico, a defesa demonstra que a droga apreendida ficou dias sem lacre na delegacia, sem registro de quem a manuseou, e que o peso informado no laudo é diferente do do auto de apreensão. Qual a consequência?</p><details><summary>Ver a solução comentada</summary><p>Há <b>quebra da cadeia de custódia</b> (arts. 158-A a 158-F). Segundo o STJ, não há nulidade automática, mas o juiz deve avaliar a <b>confiabilidade</b> da prova; diante de divergência de peso e ausência de lacre e registros, a prova pode ser considerada <b>imprestável</b>, levando à absolvição se não houver outros elementos suficientes.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Policial investigado por morte em confronto</b><p>Policiais militares matam um suspeito em troca de tiros durante patrulhamento. A Polícia Civil instaura inquérito. Que direito têm os policiais?</p><details><summary>Ver a solução comentada</summary><p>Pelo <b>art. 14-A</b> do CPP, os policiais investigados por fatos relacionados ao <b>uso de força letal</b> no exercício profissional podem constituir <b>defensor</b>, devem ser <b>citados</b> da instauração e, se não indicarem defensor em 48 horas, a instituição a que pertencem deve indicá-lo. Se o fato for crime doloso contra a vida de civil, a competência para o julgamento é do <b>Tribunal do Júri</b> (CF, art. 125, § 4º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Roubo com faca em 2020</b><p>Um roubo com faca foi praticado em fevereiro de 2020. Incide alguma majorante?</p><details><summary>Ver a solução comentada</summary><p>Sim: o Pacote <b>restabeleceu</b> a majorante do emprego de <b>arma branca</b> (art. 157, § 2º, VII, aumento de 1/3 até a metade), vigente desde 23/01/2020. Entre abril de 2018 (Lei 13.654, que a havia retirado) e janeiro de 2020, o roubo com arma branca não tinha essa majorante, e a retirada retroagiu em favor dos réus de fatos anteriores. Para fatos de fevereiro de 2020, aplica-se a majorante.</p></details></div>\n<h3>18. Questões comentadas</h3>\n<ul><li><b>\"Segundo o Pacote Anticrime, o juiz poderá decretar a prisão preventiva de ofício no curso da ação penal.\"</b> Errado: vedada em qualquer fase (art. 311).</li><li><b>\"O acordo de não persecução penal não se aplica aos crimes praticados no âmbito de violência doméstica ou familiar.\"</b> Certo: art. 28-A, § 2º, IV.</li><li><b>\"A cadeia de custódia compreende o rastreamento do vestígio desde o seu reconhecimento até o descarte.\"</b> Certo: art. 158-A.</li><li><b>\"Com o Pacote, o tempo máximo de cumprimento da pena passou a 40 anos, aplicável inclusive a fatos anteriores.\"</b> Errado: não retroage.</li><li><b>\"O estelionato passou a depender de representação, salvo se a vítima for a Administração Pública, criança ou adolescente, pessoa com deficiência mental, maior de 70 anos ou incapaz.\"</b> Certo: art. 171, § 5º.</li><li><b>\"O juiz das garantias tem competência até o recebimento da denúncia.\"</b> Errado, segundo o STF: até o <b>oferecimento</b>.</li><li><b>\"A inobservância do prazo de 90 dias para revisão da preventiva implica a soltura imediata do preso.\"</b> Errado: SL 1.395 do STF.</li><li><b>\"O agente de segurança pública investigado por uso de força letal poderá constituir defensor, devendo ser citado da instauração do procedimento.\"</b> Certo: art. 14-A.</li><li><b>\"O confisco alargado depende de pedido expresso do MP por ocasião do oferecimento da denúncia.\"</b> Certo: art. 91-A, § 3º.</li><li><b>\"A confissão é dispensável para o ANPP quando houver prova robusta.\"</b> Errado: a confissão formal e circunstanciada é requisito.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Pacote criou a figura do escusável medo, surpresa ou violenta emoção como excludente do agente de segurança</span><br>✅ <span class=\"certo\">A proposta foi <b>retirada</b>; o art. 25, parágrafo único, é explicativo</span></li><li>❌ <span class=\"banca\">O art. 310, § 2º, permite liberdade provisória ao integrante de organização criminosa armada</span><br>✅ <span class=\"certo\">O texto manda <b>denegar</b> (dispositivo criticado pela doutrina)</span></li><li>❌ <span class=\"banca\">O roubo com faca teve majorante contínua desde 1940</span><br>✅ <span class=\"certo\">Foi retirada em <b>2018</b> e restabelecida em <b>2020</b></span></li></ol></div>\n<h3>19. Quadro comparativo: CPP antes e depois do Pacote</h3>\n<table class=\"tab\"><thead><tr><th>Tema</th><th>Antes</th><th>Depois (com o STF)</th></tr></thead><tbody><tr><td>Iniciativa probatória do juiz na investigação</td><td>admitida em alguns dispositivos</td><td><b>vedada</b> (art. 3º-A)</td></tr><tr><td>Juiz que acompanha a investigação</td><td>o mesmo que julga</td><td><b>juiz das garantias</b> (exceto júri, violência doméstica, JECrim e ações originárias)</td></tr><tr><td>Arquivamento</td><td>MP requer, juiz decide; discordância vai ao PGJ (art. 28 antigo)</td><td>MP decide e <b>submete ao juiz</b>, com revisão ministerial e direito da vítima</td></tr><tr><td>Acordos no processo penal</td><td>transação e suspensão condicional do processo (Lei 9.099)</td><td>também o <b>ANPP</b> (art. 28-A)</td></tr><tr><td>Cadeia de custódia</td><td>sem disciplina legal</td><td>arts. <b>158-A a 158-F</b></td></tr><tr><td>Preventiva de ofício</td><td>admitida no processo</td><td><b>vedada</b> em qualquer fase</td></tr><tr><td>Revisão periódica da preventiva</td><td>inexistente</td><td>a cada <b>90 dias</b></td></tr><tr><td>Fundamentação da preventiva</td><td>genérica era frequente</td><td><b>fatos novos ou contemporâneos</b> e insuficiência das cautelares</td></tr><tr><td>Audiência de custódia</td><td>prevista em resoluções do CNJ</td><td>prevista em <b>lei</b> (art. 310), em 24 horas</td></tr><tr><td>Execução provisória no júri</td><td>após recursos</td><td>pena de 15 anos ou mais (Pacote); <b>qualquer pena</b> (STF, Tema 1.068)</td></tr><tr><td>Agente de segurança investigado</td><td>regra geral</td><td>direito a <b>defensor</b> e citação (art. 14-A)</td></tr><tr><td>Prova ilícita</td><td>desentranhamento</td><td>mantido; afastamento do juiz que a conheceu declarado inconstitucional</td></tr></tbody></table>\n<h3>20. Detalhes das mudanças nas leis especiais</h3>\n<ul><li><b>Lei de Organizações Criminosas</b>: além da colaboração e da infiltração virtual, o Pacote incluiu o § 8º (líderes de organizações armadas iniciam o cumprimento em estabelecimento de <b>segurança máxima</b>) e o § 9º (vedação de progressão, livramento e outros benefícios ao condenado que <b>mantém o vínculo associativo</b>) no art. 2º.</li><li><b>Estatuto do Desarmamento</b>: o art. 16 ganhou o § 2º (arma de uso <b>proibido</b>, reclusão de 4 a 12 anos); as penas do comércio ilegal (art. 17) passaram para 6 a 12 anos e do tráfico internacional (art. 18) para 8 a 16 anos; o art. 20 passou a prever aumento de metade também para o <b>reincidente específico</b>; e a Lei dos Crimes Hediondos passou a incluir apenas a arma de uso <b>proibido</b> (e não mais a de uso restrito), além do comércio ilegal e do tráfico internacional.</li><li><b>Lei dos Crimes Hediondos</b>: o roubo passou a ser hediondo em três hipóteses (restrição de liberdade, arma de fogo, lesão grave ou morte), a extorsão qualificada pela restrição da liberdade, lesão ou morte (art. 158, § 3º) e o furto com explosivo (art. 155, § 4º-A) entraram no rol; a organização criminosa voltada a crimes hediondos ou equiparados também.</li><li><b>Lei de Execução Penal</b>: além do art. 112, o Pacote alterou o RDD (art. 52), as hipóteses de identificação genética (art. 9º-A) e a saída temporária (art. 122, § 2º), e criou regras sobre a transferência e a permanência em presídios federais (Lei 11.671/2008: até <b>3 anos</b>, renováveis; visitas em parlatório com gravação; audiências preferencialmente por videoconferência).</li><li><b>Identificação criminal</b> (Lei 12.037/2009): o Pacote criou o <b>Banco Nacional Multibiométrico e de Impressões Digitais</b> (art. 7º-C) e regulou a exclusão de perfis genéticos (art. 7º-A).</li><li><b>Lei de Improbidade</b> (Lei 8.429/1992): passou a admitir o <b>acordo de não persecução cível</b>, depois disciplinado em detalhe pela Lei 14.230/2021.</li><li><b>Varas Criminais Colegiadas</b> (Lei 12.694/2012, art. 1º-A): os tribunais podem instalá-las nas comarcas sedes de circunscrição ou seção judiciária, com competência para crimes de <b>organização criminosa armada</b>, <b>associação criminosa armada</b>, <b>milícia privada</b> e infrações conexas.</li></ul>\n<h3>21. Revisão por perguntas rápidas</h3>\n<ul><li><b>Qual a data de vigência do Pacote?</b> 23/01/2020.</li><li><b>Qual o novo limite de cumprimento de pena?</b> 40 anos, para fatos posteriores.</li><li><b>O que o confisco alargado alcança?</b> A diferença entre o patrimônio do condenado e o compatível com seu rendimento lícito, em crimes com pena máxima superior a 6 anos.</li><li><b>Quando o estelionato é incondicionado?</b> Contra a Administração Pública, criança ou adolescente, pessoa com deficiência mental, maior de 70 anos ou incapaz.</li><li><b>O juiz das garantias atua até quando?</b> Até o oferecimento da denúncia (STF).</li><li><b>Quais os requisitos do ANPP?</b> Sem arquivamento; confissão formal e circunstanciada; sem violência ou grave ameaça; pena mínima inferior a 4 anos; necessidade e suficiência.</li><li><b>Quando é vedado o ANPP?</b> Transação cabível; reincidência ou habitualidade; benefício nos últimos 5 anos; violência doméstica ou contra a mulher por razões de gênero.</li><li><b>O juiz pode decretar a preventiva de ofício?</b> Não, em nenhuma fase.</li><li><b>De quanto em quanto tempo se revisa a preventiva?</b> A cada 90 dias, sem soltura automática se não revisada (SL 1.395).</li><li><b>Quantas são as etapas da cadeia de custódia?</b> Dez: reconhecimento, isolamento, fixação, coleta, acondicionamento, transporte, recebimento, processamento, armazenamento e descarte.</li><li><b>O policial investigado por morte em serviço pode ter advogado no inquérito?</b> Sim, com citação e prazo de 48 horas para constituir defensor (art. 14-A).</li><li><b>A condenação do júri pode ser executada logo?</b> Sim, independentemente da pena (STF, Tema 1.068).</li><li><b>O que mudou no roubo?</b> Arma branca (1/3 a 1/2), arma de fogo (2/3) e arma de uso restrito ou proibido (dobro).</li><li><b>E na concussão?</b> Pena de 2 a 12 anos.</li><li><b>O que o Pacote criou na Lei de Interceptação?</b> A captação ambiental (art. 8º-A) e o crime do art. 10-A.</li></ul>\n<h3>22. Outras teses importantes sobre o Pacote</h3>\n<ul><li><b>Conversão do flagrante em preventiva de ofício</b>: o STF (HC 188.888) e o STJ (Terceira Seção) firmaram que, após o Pacote, é <b>ilegal</b> a conversão de ofício da prisão em flagrante em preventiva, mesmo na audiência de custódia, exigindo-se prévio requerimento do MP ou representação da autoridade policial. A manifestação posterior do MP pela manutenção da prisão, segundo o STJ, pode <b>convalidar</b> a decisão em algumas situações, mas o ponto é debatido; a regra segura é haver provocação <b>antes</b> da decisão.</li><li><b>ANPP e crimes culposos com resultado violento</b>: a jurisprudência tem admitido o ANPP em crimes culposos (como o homicídio culposo de trânsito), por entender que a \"violência\" que impede o acordo é a dolosa empregada na conduta, e não o resultado involuntário. A questão não é pacífica, e o MP avalia a suficiência do acordo diante da gravidade do caso.</li><li><b>ANPP e ação penal privada</b>: o art. 28-A fala em \"Ministério Público\", e a doutrina debate a aplicação aos crimes de ação privada; a jurisprudência majoritária não admite o ANPP proposto pelo querelante, que dispõe de outros meios (renúncia, perdão, perempção).</li><li><b>ANPP e confissão como prova</b>: se o acordo for rescindido, a confissão feita para celebrá-lo não pode, isoladamente, embasar a condenação, segundo a doutrina e decisões do STJ, devendo ser confrontada com as demais provas produzidas sob contraditório.</li><li><b>Juiz das garantias e prazos de implantação</b>: o STF fixou 12 meses, prorrogáveis por mais 12, a partir da publicação da ata do julgamento (2023), para a implantação pelos tribunais, que vêm adotando modelos regionais, núcleos especializados e varas digitais.</li><li><b>Investigação pelo MP</b>: o Pacote não tratou expressamente do tema, mas o STF já havia reconhecido o poder investigatório do MP (Tema 184) e, em 2024, fixou parâmetros para os procedimentos investigatórios criminais do MP (ADIs 2.943, 3.309 e 3.318), exigindo, entre outros pontos, comunicação imediata ao juiz competente da instauração e do arquivamento, e observância dos mesmos prazos do inquérito policial, o que dialoga com o juiz das garantias.</li></ul>\n<h3>23. Checklist do delegado após o Pacote</h3>\n<ul><li><b>Flagrante</b>: lavrar o auto; comunicar o juiz das garantias, o MP, a família e a Defensoria (se não houver advogado); apresentar o preso à audiência de custódia em 24 horas; preservar e documentar os vestígios (cadeia de custódia).</li><li><b>Representações</b>: fundamentar com <b>fatos contemporâneos</b>; demonstrar a insuficiência das cautelares diversas; indicar o perigo gerado pela liberdade; dirigir ao juiz das garantias.</li><li><b>Provas</b>: seguir as 10 etapas da cadeia de custódia; lacrar e registrar; gerar hash em provas digitais; não remover vestígios antes da liberação pericial.</li><li><b>Agentes investigados por força letal</b>: citar os investigados e observar o art. 14-A.</li><li><b>Relatório</b>: considerar a possibilidade de <b>ANPP</b> (informando confissão e antecedentes), para orientar o MP.</li><li><b>Prazos</b>: observar a prorrogação única de 15 dias para inquéritos com preso e os prazos especiais das leis específicas.</li></ul>\n<h3>24. Aprofundando três mudanças do Código Penal</h3>\n<ul><li><b>Causas impeditivas da prescrição (art. 116, III e IV)</b>: antes do Pacote, era comum a defesa interpor sucessivos recursos aos tribunais superiores, mesmo sem chance de admissão, enquanto a prescrição corria. Com o inciso III, a prescrição <b>não corre</b> na pendência de embargos de declaração ou de recursos aos tribunais superiores <b>quando inadmissíveis</b>. O inciso IV impede que a prescrição corra <b>enquanto não cumprido ou não rescindido</b> o ANPP, evitando que o investigado use o acordo para ganhar tempo. Como são normas de natureza <b>penal</b> e mais gravosas, aplicam-se apenas a fatos posteriores à vigência.</li><li><b>Multa (art. 51)</b>: a multa continua sendo <b>dívida de valor</b>, mas sua execução passou a ocorrer <b>perante o juiz da execução penal</b>, aplicando-se as normas relativas à dívida ativa da Fazenda Pública apenas quanto às causas interruptivas e suspensivas da prescrição. O STF (ADI 3.150) já havia reconhecido a legitimidade <b>prioritária do MP</b> para a execução, com atuação subsidiária da Fazenda Pública se o MP não agir em 90 dias.</li><li><b>Livramento condicional (art. 83, III)</b>: o Pacote desdobrou o requisito subjetivo em: a) <b>bom comportamento</b> durante a execução da pena; b) <b>não cometimento de falta grave nos últimos 12 meses</b>; c) bom desempenho no trabalho que lhe foi atribuído; d) aptidão para prover a própria subsistência mediante trabalho honesto. Repare que a <b>Súmula 441 do STJ</b> (a falta grave não interrompe o prazo para o livramento) continua válida: a falta grave não \"zera\" a contagem do tempo, mas, se praticada nos últimos 12 meses, impede o benefício naquele momento.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As causas impeditivas do art. 116, III e IV, retroagem a fatos anteriores ao Pacote</span><br>✅ <span class=\"certo\">São normas penais mais gravosas; <b>não retroagem</b></span></li><li>❌ <span class=\"banca\">A falta grave interrompe o prazo do livramento condicional</span><br>✅ <span class=\"certo\">Não interrompe (Súmula 441), mas impede o benefício se ocorrida nos <b>últimos 12 meses</b></span></li><li>❌ <span class=\"banca\">A Fazenda Pública tem legitimidade prioritária para executar a multa penal</span><br>✅ <span class=\"certo\">A legitimidade <b>prioritária</b> é do <b>MP</b> (ADI 3.150)</span></li></ol></div>\n<ul><li><b>Fechamento</b>: o Pacote Anticrime mostra como uma única lei pode alterar praticamente todo o sistema penal. Para a prova, a estratégia é dominar a <b>lógica</b> de cada mudança (endurecimento ou garantia), os <b>números</b> e as <b>decisões do STF</b> que corrigiram o texto. E lembrar que, em 2024 e 2026, novas leis alteraram parte do que o Pacote criou, especialmente na execução penal: sempre confira a <b>data do fato</b> para saber qual regra se aplica.</li></ul>\n<h3>25. Exercício final de aplicação</h3>\n<ul><li><b>Situação</b>: em março de 2026, um homem primário é preso em flagrante por furto simples de um celular (pena de 1 a 4 anos). Na delegacia, confessa. Na audiência de custódia, o MP pede liberdade provisória; o juiz, por conta própria, converte o flagrante em preventiva, dizendo que \"furtos de celular causam clamor social\".</li><li><b>Análise passo a passo</b>: (1) a conversão <b>de ofício</b> é ilegal (art. 311; STF, HC 188.888); (2) a fundamentação no \"clamor social\" é <b>genérica</b> e não indica fatos contemporâneos nem perigo concreto (art. 312, § 2º; art. 315, § 2º); (3) o furto simples tem pena máxima de 4 anos, o que, em regra, <b>não</b> admite preventiva (art. 313, I, exige pena máxima <b>superior</b> a 4 anos), salvo as outras hipóteses do art. 313; (4) após a soltura, o caso comporta, em tese, <b>ANPP</b> (sem violência, pena mínima de 1 ano, confissão formal a ser colhida pelo MP), se o investigado não for reincidente nem tiver recebido benefício nos últimos 5 anos; (5) a prescrição não correrá enquanto o acordo não for cumprido ou rescindido (art. 116, IV).</li><li><b>Conclusão</b>: a prisão deve ser <b>relaxada</b> por ilegalidade, por meio de habeas corpus, e o caso deve seguir para eventual ANPP. Esse tipo de raciocínio integrado, que combina vários dispositivos do Pacote, é exatamente o que as bancas de carreiras policiais e jurídicas cobram em questões discursivas e de múltipla escolha.</li><li><b>Variação 1</b>: se o mesmo homem fosse <b>reincidente</b> em furto, o ANPP seria vedado (art. 28-A, § 2º, II), e a preventiva passaria a ser, em tese, admissível pelo art. 313, II (reincidente em crime doloso), desde que houvesse requerimento e fundamentação concreta; além disso, o art. 310, § 2º, manda denegar a liberdade provisória ao reincidente, o que a jurisprudência interpreta com cautela.</li><li><b>Variação 2</b>: se, em vez de furto, fosse <b>roubo</b> com arma de fogo, o crime seria <b>hediondo</b> (Lei 8.072, art. 1º, II, \"b\"), com violência ou grave ameaça (sem ANPP), pena aumentada de 2/3 (art. 157, § 2º-A, I) e, para fato de 2026, progressão com <b>70%</b> da pena se primário. A preventiva seria admissível, em tese, por pena máxima superior a 4 anos, sempre mediante provocação e com fundamentos concretos.</li><li><b>Variação 3</b>: se a vítima do furto fosse uma <b>mulher</b> e o autor seu ex-companheiro, em contexto de violência doméstica, o ANPP seria vedado (§ 2º, IV), o caso iria ao Juizado de Violência Doméstica, sem juiz das garantias, e a preventiva poderia ser decretada para garantir <b>medidas protetivas</b> (art. 313, III).</li><li><b>Variação 4</b>: se o furto tivesse sido praticado por um <b>policial</b> em serviço, subtraindo bem apreendido sob sua guarda, o crime seria <b>peculato</b> (CP, art. 312), com pena de 2 a 12 anos; o ANPP seria, em tese, possível (sem violência, pena mínima inferior a 4 anos), mas o MP avaliaria a necessidade e a suficiência do acordo diante da gravidade e da quebra de confiança, e a Corregedoria instauraria procedimento disciplinar independente.</li><li><b>Moral do exercício</b>: o mesmo fato muda completamente de tratamento conforme a reincidência, a violência, o contexto de gênero e a qualidade do agente. Treine sempre essas variações ao estudar o Pacote.</li></ul>\n<h3>26. Linha do tempo do Pacote e das decisões posteriores</h3>\n<div class=\"lt-fluxo\"><span>2019: Lei 13.964 sancionada com vetos (24/12)</span> <em>→</em> <span>2020: entra em vigor (23/01); STF suspende liminarmente o juiz das garantias</span> <em>→</em> <span>2020: STF decide que o prazo de 90 dias não gera soltura automática (SL 1.395)</span> <em>→</em> <span>2021: Congresso derruba vetos (homicídio com arma de uso restrito, entre outros)</span> <em>→</em> <span>2023: STF julga as ADIs 6.298 e outras (juiz das garantias obrigatório)</span> <em>→</em> <span>2024: STF fixa a execução imediata no júri (Tema 1.068) e a retroatividade do ANPP (HC 185.913); Lei 14.843 endurece saídas e exige exame criminológico</span> <em>→</em> <span>2026: Leis 15.358 e 15.402 mudam as frações de progressão; Lei 15.407 altera o RDD</span></div>\n<h3>27. Perguntas frequentes em provas discursivas</h3>\n<ul><li><b>\"Explique o juiz das garantias e o que o STF decidiu sobre ele.\"</b> Criado pelos arts. 3º-A a 3º-F do CPP, é o juiz responsável pelo controle da legalidade da investigação e pela salvaguarda de direitos fundamentais na fase pré-processual, em reforço ao sistema acusatório. O STF (ADIs 6.298 e outras, 2023) o declarou constitucional e obrigatório, com implementação em até 12 meses prorrogáveis; fixou que sua competência cessa com o oferecimento da denúncia; determinou a remessa dos autos ao juiz da instrução; e afastou sua aplicação ao júri, à violência doméstica, aos Juizados e às ações originárias.</li><li><b>\"Quais os requisitos e as vedações do ANPP?\"</b> Requisitos: não ser caso de arquivamento; confissão formal e circunstanciada; infração sem violência ou grave ameaça; pena mínima inferior a 4 anos; necessidade e suficiência. Vedações: cabimento de transação; reincidência ou habitualidade; benefício semelhante nos 5 anos anteriores; violência doméstica ou contra a mulher por razões de gênero. Cumprido, extingue a punibilidade; aplica-se a processos sem trânsito em julgado (HC 185.913).</li><li><b>\"Quais as principais garantias processuais trazidas pelo Pacote?\"</b> Estrutura acusatória e juiz das garantias; vedação da prisão de ofício; revisão da preventiva a cada 90 dias; exigência de fatos novos ou contemporâneos e de fundamentação concreta; vedação da preventiva como antecipação de pena; cadeia de custódia; defensor para agentes de segurança investigados por uso de força letal.</li></ul>\n<h3>28. Como as bancas cobram este tópico</h3>\n<ul><li><b>CP</b>: legítima defesa do agente de segurança; limite de 40 anos; livramento sem falta grave em 12 meses; confisco alargado (pena máxima superior a 6 anos); causas impeditivas da prescrição; roubo (arma branca, arma de fogo, uso restrito ou proibido em dobro); estelionato condicionado (e exceções); concussão (2 a 12).</li><li><b>CPP</b>: sistema acusatório; juiz das garantias (e o que o STF mudou); arquivamento; ANPP; cadeia de custódia (10 etapas); prisões (vedação de ofício, 90 dias, fundamentação, custódia); art. 14-A; júri.</li><li><b>LEP e leis especiais</b>: frações (com atualização de 2026); RDD; DNA; hediondos; armas; drogas; orcrim (colaboração e infiltração virtual); captação ambiental; informante.</li><li><b>Bancas</b>: o <b>Cebraspe</b> e a <b>FGV</b> cobram muito o ANPP e o juiz das garantias; para delegado, a cadeia de custódia e o art. 14-A; a <b>Consulplan</b>, os números (40 anos, 90 dias, 4 anos, 5 anos, 12 meses, 5%).</li></ul>\n<h3>29. Glossário e mapa de revisão</h3>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 13.964/2019</span></span><span class=\"vs\"><span>Pacote Anticrime, vigência em 23/01/2020</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Legítima defesa do agente de segurança</span></span><span class=\"vs\"><span>vítima mantida refém (art. 25, parágrafo único)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Limite de cumprimento</span></span><span class=\"vs\"><span>40 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Livramento</span></span><span class=\"vs\"><span>sem falta grave nos últimos 12 meses</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Confisco alargado</span></span><span class=\"vs\"><span>pena máxima superior a 6 anos; diferença patrimonial</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Multa</span></span><span class=\"vs\"><span>executada no juízo da execução penal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Causas impeditivas da prescrição</span></span><span class=\"vs\"><span>recursos inadmissíveis e ANPP não cumprido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Roubo com arma branca</span></span><span class=\"vs\"><span>aumento de 1/3 até metade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Roubo com arma de uso restrito ou proibido</span></span><span class=\"vs\"><span>pena em dobro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estelionato</span></span><span class=\"vs\"><span>condicionado, salvo Administração, criança, deficiente mental, maior de 70 ou incapaz</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Concussão</span></span><span class=\"vs\"><span>2 a 12 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sistema acusatório</span></span><span class=\"vs\"><span>art. 3º-A</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juiz das garantias</span></span><span class=\"vs\"><span>obrigatório; cessa com o oferecimento da denúncia (STF)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arquivamento</span></span><span class=\"vs\"><span>MP submete ao juiz; revisão ministerial (STF)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ANPP</span></span><span class=\"vs\"><span>sem violência, pena mínima < 4 anos, confissão formal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ANPP vedado</span></span><span class=\"vs\"><span>violência doméstica, reincidente, benefício em 5 anos, transação cabível</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ANPP retroage</span></span><span class=\"vs\"><span>processos sem trânsito em julgado (HC 185.913)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cadeia de custódia</span></span><span class=\"vs\"><span>10 etapas, do reconhecimento ao descarte</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quebra da cadeia</span></span><span class=\"vs\"><span>não gera nulidade automática (STJ)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Preventiva de ofício</span></span><span class=\"vs\"><span>vedada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Revisão da preventiva</span></span><span class=\"vs\"><span>90 dias; sem soltura automática (SL 1.395)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fundamentação</span></span><span class=\"vs\"><span>fatos novos ou contemporâneos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Audiência de custódia</span></span><span class=\"vs\"><span>24 horas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Agente de segurança investigado por força letal</span></span><span class=\"vs\"><span>defensor; citação; 48 horas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Júri</span></span><span class=\"vs\"><span>execução imediata (Tema 1.068)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juiz que conheceu prova ilícita</span></span><span class=\"vs\"><span>afastamento declarado inconstitucional</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infiltração virtual</span></span><span class=\"vs\"><span>Lei 12.850, arts. 10-A a 10-D</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Captação ambiental</span></span><span class=\"vs\"><span>Lei 9.296, art. 8º-A</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Agente disfarçado</span></span><span class=\"vs\"><span>drogas e armas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Informante do bem</span></span><span class=\"vs\"><span>recompensa de até 5%</span></span></button></div></div>\n<h3>30. Resumo em uma página</h3>\n<ul><li><b>Natureza</b>: lei híbrida (endurecimento penal e garantias processuais), vigente desde 23/01/2020; ADIs julgadas em 2023.</li><li><b>CP</b>: art. 25, parágrafo único; art. 51; art. 75 (40 anos); art. 83 (falta grave em 12 meses); art. 91-A; art. 116, III e IV; art. 121, § 2º, VIII; art. 157, §§ 2º, VII, e 2º-B; art. 171, § 5º; art. 316.</li><li><b>CPP</b>: arts. 3º-A a 3º-F (juiz das garantias, com as modulações do STF); art. 14-A; art. 28 (arquivamento); art. 28-A (ANPP); arts. 158-A a 158-F (cadeia de custódia); arts. 282, 310, 311, 313, 315 e 316 (prisões); art. 492 (júri).</li><li><b>LEP</b>: art. 112 (frações, hoje alteradas em 2026); art. 52 (RDD); art. 9º-A (DNA); art. 122 (saídas).</li><li><b>Leis especiais</b>: hediondos; armas; drogas; organizações criminosas; interceptação e captação ambiental; informante; improbidade; presídios federais; varas colegiadas.</li></ul>",
+"quiz": [
+{
+"p": "A Lei 13.964/2019 entrou em vigor em 23 de janeiro de 2020.",
+"c": true,
+"prof": "Vigência.",
+"x": "Pacote Anticrime.",
+"e": "Vigência"
+},
+{
+"p": "Considera-se em legítima defesa o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém durante a prática de crimes.",
+"c": true,
+"prof": "Art. 25.",
+"x": "Parágrafo único.",
+"e": "Refém"
+},
+{
+"p": "O tempo de cumprimento das penas privativas de liberdade não pode ser superior a 40 anos.",
+"c": true,
+"prof": "Art. 75.",
+"x": "Pacote.",
+"e": "40 anos"
+},
+{
+"p": "O limite de 40 anos de cumprimento de pena aplica-se aos crimes cometidos antes da vigência do Pacote Anticrime.",
+"c": false,
+"prof": "Art. 75.",
+"x": "Irretroatividade.",
+"e": "Lei mais grave"
+},
+{
+"p": "O livramento condicional exige o não cometimento de falta grave nos últimos 12 meses.",
+"c": true,
+"prof": "Art. 83.",
+"x": "Pacote.",
+"e": "12 meses"
+},
+{
+"p": "O confisco alargado pode ser decretado nas infrações com pena máxima superior a 6 anos.",
+"c": true,
+"prof": "Art. 91-A.",
+"x": "Pacote.",
+"e": "Confisco"
+},
+{
+"p": "No confisco alargado, o condenado pode demonstrar a procedência lícita de seu patrimônio.",
+"c": true,
+"prof": "Art. 91-A.",
+"x": "§ 2º.",
+"e": "Defesa"
+},
+{
+"p": "A prescrição não corre enquanto não cumprido ou não rescindido o acordo de não persecução penal.",
+"c": true,
+"prof": "Art. 116, IV.",
+"x": "Causa impeditiva.",
+"e": "ANPP"
+},
+{
+"p": "A multa penal é executada perante o juiz da execução penal.",
+"c": true,
+"prof": "Art. 51.",
+"x": "Pacote.",
+"e": "Multa"
+},
+{
+"p": "No roubo, se a violência ou grave ameaça é exercida com arma de fogo de uso restrito ou proibido, a pena do caput é aplicada em dobro.",
+"c": true,
+"prof": "Roubo.",
+"x": "Art. 157, § 2º-B.",
+"e": "Dobro"
+},
+{
+"p": "O Pacote Anticrime restabeleceu a causa de aumento do roubo pelo emprego de arma branca.",
+"c": true,
+"prof": "Roubo.",
+"x": "Art. 157, § 2º, VII.",
+"e": "Arma branca"
+},
+{
+"p": "Após o Pacote, o estelionato passou a ser, em regra, crime de ação penal pública condicionada à representação.",
+"c": true,
+"prof": "Estelionato.",
+"x": "Art. 171, § 5º.",
+"e": "Representação"
+},
+{
+"p": "O estelionato praticado contra pessoa maior de 70 anos depende de representação.",
+"c": false,
+"prof": "Estelionato.",
+"x": "Exceção.",
+"e": "Incondicionada"
+},
+{
+"p": "O estelionato contra a Administração Pública é de ação penal pública incondicionada.",
+"c": true,
+"prof": "Estelionato.",
+"x": "Art. 171, § 5º, I.",
+"e": "Administração"
+},
+{
+"p": "A pena da concussão passou a ser de reclusão de 2 a 12 anos.",
+"c": true,
+"prof": "Concussão.",
+"x": "Art. 316.",
+"e": "Pena"
+},
+{
+"p": "O processo penal brasileiro tem estrutura acusatória, vedada a iniciativa do juiz na fase de investigação.",
+"c": true,
+"prof": "Acusatório.",
+"x": "Art. 3º-A.",
+"e": "Sistema"
+},
+{
+"p": "O juiz das garantias é responsável pelo controle da legalidade da investigação criminal e pela salvaguarda dos direitos individuais.",
+"c": true,
+"prof": "Juiz das garantias.",
+"x": "Art. 3º-B.",
+"e": "Função"
+},
+{
+"p": "Segundo o STF, a competência do juiz das garantias cessa com o oferecimento da denúncia.",
+"c": true,
+"prof": "Juiz das garantias.",
+"x": "ADIs 6.298 e outras.",
+"e": "Fim da competência"
+},
+{
+"p": "Segundo o STF, a implantação do juiz das garantias é facultativa para os tribunais.",
+"c": false,
+"prof": "Juiz das garantias.",
+"x": "Obrigatória.",
+"e": "Implantação"
+},
+{
+"p": "O juiz das garantias atua nos processos de competência do Tribunal do Júri.",
+"c": false,
+"prof": "Juiz das garantias.",
+"x": "STF afastou.",
+"e": "Júri"
+},
+{
+"p": "O juiz das garantias atua nos crimes de violência doméstica e familiar contra a mulher.",
+"c": false,
+"prof": "Juiz das garantias.",
+"x": "STF afastou.",
+"e": "Violência doméstica"
+},
+{
+"p": "Segundo o STF, os autos do inquérito devem ser remetidos ao juiz da instrução, e não acautelados na secretaria do juiz das garantias.",
+"c": true,
+"prof": "Juiz das garantias.",
+"x": "§§ 3º e 4º do art. 3º-C.",
+"e": "Remessa"
+},
+{
+"p": "Segundo o STF, o MP deve submeter sua manifestação de arquivamento ao juiz, que pode provocar a revisão ministerial em caso de patente ilegalidade.",
+"c": true,
+"prof": "Arquivamento.",
+"x": "Art. 28.",
+"e": "Interpretação conforme"
+},
+{
+"p": "A vítima pode submeter o arquivamento à revisão da instância competente do MP no prazo de 30 dias.",
+"c": true,
+"prof": "Arquivamento.",
+"x": "Art. 28, § 1º.",
+"e": "30 dias"
+},
+{
+"p": "O ANPP exige confissão formal e circunstanciada do investigado.",
+"c": true,
+"prof": "ANPP.",
+"x": "Art. 28-A.",
+"e": "Confissão"
+},
+{
+"p": "O ANPP é cabível para infrações sem violência ou grave ameaça com pena mínima inferior a 4 anos.",
+"c": true,
+"prof": "ANPP.",
+"x": "Art. 28-A.",
+"e": "Requisitos"
+},
+{
+"p": "O delegado de polícia pode propor o acordo de não persecução penal.",
+"c": false,
+"prof": "ANPP.",
+"x": "Atribuição do MP.",
+"e": "Legitimidade"
+},
+{
+"p": "O ANPP pode ser celebrado nos crimes praticados no âmbito de violência doméstica, se a pena mínima for inferior a 4 anos.",
+"c": false,
+"prof": "ANPP.",
+"x": "§ 2º, IV.",
+"e": "Vedação"
+},
+{
+"p": "Não cabe ANPP se o investigado foi beneficiado nos 5 anos anteriores por ANPP, transação ou suspensão condicional do processo.",
+"c": true,
+"prof": "ANPP.",
+"x": "§ 2º, III.",
+"e": "5 anos"
+},
+{
+"p": "Não cabe ANPP quando for cabível transação penal.",
+"c": true,
+"prof": "ANPP.",
+"x": "§ 2º, I.",
+"e": "Transação"
+},
+{
+"p": "Cumprido integralmente o ANPP, o juiz decretará a extinção da punibilidade.",
+"c": true,
+"prof": "ANPP.",
+"x": "§ 13.",
+"e": "Extinção"
+},
+{
+"p": "Recusando-se o MP a propor o ANPP, o investigado pode requerer a remessa dos autos a órgão superior do MP.",
+"c": true,
+"prof": "ANPP.",
+"x": "§ 14.",
+"e": "Recusa"
+},
+{
+"p": "Segundo o STF, o ANPP pode ser aplicado a processos em curso na entrada em vigor da lei, desde que não haja trânsito em julgado.",
+"c": true,
+"prof": "ANPP.",
+"x": "HC 185.913.",
+"e": "Retroatividade"
+},
+{
+"p": "A cadeia de custódia é o conjunto de procedimentos para manter e documentar a história cronológica do vestígio.",
+"c": true,
+"prof": "Cadeia de custódia.",
+"x": "Art. 158-A.",
+"e": "Conceito"
+},
+{
+"p": "A cadeia de custódia começa com a preservação do local de crime ou com procedimentos em que seja detectada a existência de vestígio.",
+"c": true,
+"prof": "Cadeia de custódia.",
+"x": "Art. 158-A, § 1º.",
+"e": "Início"
+},
+{
+"p": "É proibida a remoção de vestígios do local de crime antes da liberação pelo perito, sob pena de fraude processual.",
+"c": true,
+"prof": "Cadeia de custódia.",
+"x": "Art. 158-C, § 2º.",
+"e": "Remoção"
+},
+{
+"p": "Os institutos de criminalística devem ter uma central de custódia para guarda e controle dos vestígios.",
+"c": true,
+"prof": "Cadeia de custódia.",
+"x": "Art. 158-E.",
+"e": "Central"
+},
+{
+"p": "Segundo o STJ, toda quebra da cadeia de custódia gera nulidade absoluta e automática da prova.",
+"c": false,
+"prof": "Cadeia de custódia.",
+"x": "Análise de confiabilidade.",
+"e": "Nulidade"
+},
+{
+"p": "Após o Pacote, é vedado ao juiz decretar a prisão preventiva de ofício.",
+"c": true,
+"prof": "Prisões.",
+"x": "Art. 311.",
+"e": "De ofício"
+},
+{
+"p": "A decisão que decreta a preventiva deve indicar fatos novos ou contemporâneos que justifiquem a medida.",
+"c": true,
+"prof": "Prisões.",
+"x": "Art. 315, § 1º.",
+"e": "Contemporaneidade"
+},
+{
+"p": "Não será admitida a preventiva com a finalidade de antecipação de cumprimento de pena.",
+"c": true,
+"prof": "Prisões.",
+"x": "Art. 313, § 2º.",
+"e": "Antecipação"
+},
+{
+"p": "A necessidade da preventiva deve ser revisada a cada 90 dias, mediante decisão fundamentada.",
+"c": true,
+"prof": "Prisões.",
+"x": "Art. 316, parágrafo único.",
+"e": "90 dias"
+},
+{
+"p": "Segundo o STF, a falta de revisão da preventiva no prazo de 90 dias gera a revogação automática da prisão.",
+"c": false,
+"prof": "Prisões.",
+"x": "SL 1.395.",
+"e": "Reavaliação"
+},
+{
+"p": "A audiência de custódia deve ser realizada no prazo máximo de 24 horas após a prisão.",
+"c": true,
+"prof": "Custódia.",
+"x": "Art. 310.",
+"e": "24 horas"
+},
+{
+"p": "O servidor de segurança pública investigado por uso de força letal no exercício profissional pode constituir defensor.",
+"c": true,
+"prof": "Art. 14-A.",
+"x": "CPP.",
+"e": "Defensor"
+},
+{
+"p": "Segundo o STF, a soberania dos veredictos autoriza a execução imediata da condenação do júri, independentemente do total da pena.",
+"c": true,
+"prof": "Júri.",
+"x": "Tema 1.068.",
+"e": "Execução imediata"
+},
+{
+"p": "O STF declarou inconstitucional o dispositivo que impedia o juiz que conheceu da prova ilícita de proferir a sentença.",
+"c": true,
+"prof": "Prova ilícita.",
+"x": "Art. 157, § 5º.",
+"e": "Inconstitucional"
+},
+{
+"p": "O Pacote Anticrime criou a infiltração virtual de agentes na Lei de Organizações Criminosas.",
+"c": true,
+"prof": "Leis especiais.",
+"x": "Arts. 10-A a 10-D.",
+"e": "Infiltração virtual"
+},
+{
+"p": "O Pacote Anticrime tipificou a venda de drogas a agente policial disfarçado, havendo indícios de conduta criminal preexistente.",
+"c": true,
+"prof": "Leis especiais.",
+"x": "Lei 11.343, art. 33, § 1º, IV.",
+"e": "Agente disfarçado"
+},
+{
+"p": "O informante que relata crime contra a Administração Pública pode receber recompensa de até 5% do valor recuperado.",
+"c": true,
+"prof": "Informante.",
+"x": "Lei 13.608.",
+"e": "5%"
+},
+{
+"p": "O Pacote Anticrime previu o acordo de não persecução cível na Lei de Improbidade Administrativa.",
+"c": true,
+"prof": "Improbidade.",
+"x": "Lei 8.429.",
+"e": "ANPC"
+},
+{
+"p": "O homicídio qualificado pelo emprego de arma de fogo de uso restrito ou proibido passou a vigorar após a derrubada do veto presidencial.",
+"c": true,
+"prof": "Homicídio.",
+"x": "Art. 121, § 2º, VIII.",
+"e": "Veto derrubado"
+},
+{
+"p": "O Pacote Anticrime previu que a falta grave interrompe o prazo para a progressão de regime.",
+"c": true,
+"prof": "LEP.",
+"x": "Art. 112, § 6º.",
+"e": "Falta grave"
+},
+{
+"p": "A preventiva exige perigo gerado pelo estado de liberdade do imputado.",
+"c": true,
+"prof": "Preventiva.",
+"x": "Art. 312.",
+"e": "Periculum libertatis"
+},
+{
+"p": "Ressalvados os casos de urgência, o juiz deve intimar a parte contrária para se manifestar sobre o pedido de medida cautelar em 5 dias.",
+"c": true,
+"prof": "Cautelares.",
+"x": "Art. 282, § 3º.",
+"e": "Contraditório"
+},
+{
+"p": "O não cabimento da substituição da preventiva por outra cautelar deve ser justificado de forma fundamentada e individualizada.",
+"c": true,
+"prof": "Cautelares.",
+"x": "Art. 282, § 6º.",
+"e": "Subsidiariedade"
+},
+{
+"p": "Com investigado preso, o juiz das garantias pode prorrogar o inquérito, uma única vez, por até 15 dias.",
+"c": true,
+"prof": "Inquérito.",
+"x": "Art. 3º-B, § 2º.",
+"e": "Prorrogação"
+},
+{
+"p": "Para homologar o ANPP, o juiz realiza audiência para verificar a voluntariedade, ouvindo o investigado na presença do defensor.",
+"c": true,
+"prof": "ANPP.",
+"x": "§ 4º.",
+"e": "Homologação"
+},
+{
+"p": "Da decisão que recusa a homologação do ANPP cabe recurso em sentido estrito.",
+"c": true,
+"prof": "ANPP.",
+"x": "CPP, art. 581, XXV.",
+"e": "Recurso"
+},
+{
+"p": "A celebração e o cumprimento do ANPP não constam de certidão de antecedentes, salvo para impedir novo acordo em 5 anos.",
+"c": true,
+"prof": "ANPP.",
+"x": "§ 12.",
+"e": "Antecedentes"
+},
+{
+"p": "O juiz das garantias pode determinar o trancamento do inquérito quando não houver fundamento razoável para sua instauração ou prosseguimento.",
+"c": true,
+"prof": "Juiz das garantias.",
+"x": "Art. 3º-B.",
+"e": "Trancamento"
+},
+{
+"p": "O Pacote Anticrime restabeleceu a majorante do roubo com emprego de arma branca, que havia sido retirada em 2018.",
+"c": true,
+"prof": "Roubo.",
+"x": "Lei 13.654/2018.",
+"e": "Arma branca"
+},
+{
+"p": "Sobre o juiz das garantias, conforme decidido pelo STF em 2023, é correto afirmar:",
+"alts": [
+"sua implantação é facultativa",
+"sua competência termina com o recebimento da denúncia",
+"sua competência cessa com o oferecimento da denúncia e os autos do inquérito devem ser remetidos ao juiz da instrução",
+"atua nos processos do júri",
+"atua nos crimes de violência doméstica"
+],
+"r": 2,
+"x": "ADIs 6.298 e outras.",
+"n": [
+"Obrigatória.",
+"Oferecimento.",
+"Correta.",
+"Afastado.",
+"Afastado."
+],
+"e": "Juiz das garantias."
+},
+{
+"p": "São requisitos do acordo de não persecução penal, EXCETO:",
+"alts": [
+"confissão formal e circunstanciada",
+"infração sem violência ou grave ameaça",
+"pena mínima inferior a 4 anos",
+"não ser caso de arquivamento",
+"ser o investigado reincidente específico"
+],
+"r": 4,
+"x": "Art. 28-A.",
+"n": [
+"Requisito.",
+"Requisito.",
+"Requisito.",
+"Requisito.",
+"Correta: a reincidência veda o acordo."
+],
+"e": "ANPP."
+},
+{
+"p": "Quanto ao ANPP, é correto afirmar:",
+"alts": [
+"pode ser proposto pelo delegado",
+"é cabível em crimes de violência doméstica",
+"cumprido, extingue a punibilidade e, segundo o STF, aplica-se a processos sem trânsito em julgado",
+"gera reincidência",
+"dispensa homologação judicial"
+],
+"r": 2,
+"x": "Art. 28-A, § 13; HC 185.913.",
+"n": [
+"MP.",
+"Vedado.",
+"Correta.",
+"Não gera.",
+"Exige homologação."
+],
+"e": "ANPP."
+},
+{
+"p": "Após o Pacote Anticrime, o estelionato é de ação penal pública incondicionada quando a vítima for",
+"alts": [
+"pessoa jurídica de direito privado",
+"qualquer pessoa física",
+"maior de 70 anos de idade",
+"empresa de grande porte",
+"comerciante"
+],
+"r": 2,
+"x": "Art. 171, § 5º, IV.",
+"n": [
+"Condicionada.",
+"Condicionada.",
+"Correta.",
+"Condicionada.",
+"Condicionada."
+],
+"e": "Estelionato."
+},
+{
+"p": "No roubo praticado com emprego de arma de fogo de uso restrito, após o Pacote Anticrime,",
+"alts": [
+"a pena aumenta de 1/3",
+"a pena aumenta de 2/3",
+"aplica-se em dobro a pena do caput",
+"não há majorante",
+"aplica-se a pena do latrocínio"
+],
+"r": 2,
+"x": "Art. 157, § 2º-B.",
+"n": [
+"Não.",
+"Arma de uso permitido.",
+"Correta.",
+"Há.",
+"Não."
+],
+"e": "Roubo."
+},
+{
+"p": "Segundo o STF (SL 1.395), a não revisão da prisão preventiva no prazo de 90 dias",
+"alts": [
+"gera revogação automática",
+"não gera revogação automática, devendo o juízo ser instado a reavaliar a legalidade e a atualidade dos fundamentos",
+"torna a prisão definitiva",
+"gera nulidade do processo",
+"gera responsabilidade penal automática do juiz"
+],
+"r": 1,
+"x": "Art. 316, parágrafo único.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "90 dias."
+},
+{
+"p": "Após o Pacote Anticrime, a prisão preventiva",
+"alts": [
+"pode ser decretada de ofício na fase processual",
+"pode ser decretada de ofício na investigação",
+"depende de requerimento ou representação, sendo vedada a decretação de ofício",
+"pode ser decretada como antecipação de pena",
+"dispensa fundamentação em fatos contemporâneos"
+],
+"r": 2,
+"x": "Arts. 282, § 2º, e 311.",
+"n": [
+"Vedado.",
+"Vedado.",
+"Correta.",
+"Vedado.",
+"Exige."
+],
+"e": "Preventiva."
+},
+{
+"p": "A cadeia de custódia, segundo o CPP, inicia-se",
+"alts": [
+"com o oferecimento da denúncia",
+"com a chegada do vestígio ao laboratório",
+"com a preservação do local de crime ou com procedimentos em que se detecte a existência de vestígio",
+"com a decisão judicial",
+"com o laudo pericial"
+],
+"r": 2,
+"x": "Art. 158-A, § 1º.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Cadeia de custódia."
+},
+{
+"p": "Assinale a etapa da cadeia de custódia que consiste na descrição detalhada do vestígio conforme se encontra no local, podendo ser ilustrada por fotografias.",
+"alts": [
+"coleta",
+"acondicionamento",
+"fixação",
+"processamento",
+"descarte"
+],
+"r": 2,
+"x": "Art. 158-B.",
+"n": [
+"Recolhimento.",
+"Embalagem.",
+"Correta.",
+"Exame pericial.",
+"Liberação."
+],
+"e": "Etapas."
+},
+{
+"p": "O limite máximo de cumprimento das penas privativas de liberdade, após o Pacote, é de",
+"alts": [
+"30 anos, para todos os crimes",
+"40 anos, para crimes cometidos após a vigência da lei",
+"50 anos",
+"40 anos, inclusive para crimes anteriores",
+"indeterminado para hediondos"
+],
+"r": 1,
+"x": "Art. 75.",
+"n": [
+"Regra anterior.",
+"Correta.",
+"Não.",
+"Não retroage.",
+"Não."
+],
+"e": "Limite."
+},
+{
+"p": "O confisco alargado (art. 91-A do CP) é cabível",
+"alts": [
+"em qualquer crime",
+"em infrações com pena máxima superior a 6 anos, quanto à diferença entre o patrimônio e o rendimento lícito, mediante pedido do MP",
+"só em crimes hediondos",
+"só após a morte do condenado",
+"sem possibilidade de defesa"
+],
+"r": 1,
+"x": "Art. 91-A.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"§ 2º permite defesa."
+],
+"e": "Confisco."
+},
+{
+"p": "Segundo o STF (Tema 1.068), a condenação pelo Tribunal do Júri",
+"alts": [
+"só pode ser executada após o trânsito em julgado",
+"só pode ser executada se a pena for igual ou superior a 15 anos",
+"pode ser executada imediatamente, independentemente do total da pena",
+"depende de confirmação pelo tribunal",
+"não pode ser executada provisoriamente"
+],
+"r": 2,
+"x": "Soberania dos veredictos.",
+"n": [
+"Não.",
+"Regra do Pacote superada.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Júri."
+},
+{
+"p": "O servidor de segurança pública investigado por fatos relacionados ao uso de força letal no exercício profissional",
+"alts": [
+"não pode constituir advogado no inquérito",
+"pode constituir defensor, devendo ser citado da instauração do procedimento",
+"é automaticamente afastado do cargo",
+"é julgado pela Justiça Militar em qualquer caso",
+"tem direito a arquivamento automático"
+],
+"r": 1,
+"x": "CPP, art. 14-A.",
+"n": [
+"Pode.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Art. 14-A."
+},
+{
+"p": "É hipótese de vedação ao ANPP:",
+"alts": [
+"crime de furto simples",
+"crime de estelionato",
+"crime praticado no âmbito de violência doméstica ou familiar",
+"crime com pena mínima de 1 ano",
+"investigado primário"
+],
+"r": 2,
+"x": "Art. 28-A, § 2º, IV.",
+"n": [
+"Cabível.",
+"Cabível.",
+"Correta.",
+"Cabível.",
+"Cabível."
+],
+"e": "Vedação."
+},
+{
+"p": "Sobre o arquivamento do inquérito após o Pacote e o julgamento do STF, é correto afirmar:",
+"alts": [
+"o juiz determina o arquivamento de ofício",
+"o MP arquiva sem qualquer comunicação",
+"o MP submete sua manifestação ao juiz e comunica a vítima, o investigado e a autoridade policial; o juiz pode provocar a revisão em caso de patente ilegalidade",
+"a vítima não pode questionar o arquivamento",
+"o delegado arquiva o inquérito"
+],
+"r": 2,
+"x": "Art. 28.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Pode, em 30 dias.",
+"Vedado (CPP, art. 17)."
+],
+"e": "Arquivamento."
+},
+{
+"p": "O Pacote Anticrime incluiu na Lei de Interceptação Telefônica",
+"alts": [
+"a interceptação de ofício",
+"a captação ambiental, com requisitos próprios, e o crime do art. 10-A",
+"a revogação do prazo de 15 dias",
+"a interceptação para crimes de detenção",
+"a dispensa de autorização judicial"
+],
+"r": 1,
+"x": "Lei 9.296, art. 8º-A.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Captação."
+},
+{
+"p": "Segundo o STJ, a quebra da cadeia de custódia",
+"alts": [
+"gera nulidade absoluta automática",
+"é irrelevante",
+"deve ser analisada pelo juiz com os demais elementos, para aferir a confiabilidade da prova",
+"só pode ser alegada pelo MP",
+"gera a prisão do perito"
+],
+"r": 2,
+"x": "HC 653.515.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Custódia."
+},
+{
+"p": "A pena da concussão, após o Pacote Anticrime, é de",
+"alts": [
+"reclusão de 2 a 8 anos",
+"reclusão de 2 a 12 anos e multa",
+"detenção de 1 a 4 anos",
+"reclusão de 1 a 5 anos",
+"reclusão de 4 a 10 anos"
+],
+"r": 1,
+"x": "Art. 316.",
+"n": [
+"Pena antiga.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Concussão."
 }
 ]
 },
