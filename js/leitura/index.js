@@ -99,9 +99,18 @@ function melhorAssunto(lista, texto, minimo = 0) {
 }
 
 // Acha a leitura do bloco do calendário. Retorna o assunto exato ou, se só a matéria bater, a matéria inteira.
+// Normaliza citações de resoluções: "Res. nº 1.031/2026", "Resolução CONTRAN nº 432" → "resolucao 1031/2026", "resolucao 432"
+const normRes = (t) => t.replace(/\bres\.\s*/g, 'resolucao ').replace(/resolu[cç][aã]o(\s+do)?(\s+contran)?\s*(n[oº°]\.?\s*)?/g, 'resolucao ').replace(/(\d)\.(\d{3})/g, '$1$2');
+const ehResolucao = (t) => /resoluc(ao|oes)|\bres\s*\d/.test(t);
 export function acharLeitura(materia, topico) {
-  const t = norm(topico);
-  const mats = materiasDe(materia);
+  const t = normRes(norm(topico));
+  let mats = materiasDe(materia);
+  // Tópico de Resolução do CONTRAN dentro de "Legislação de Trânsito": procura primeiro nas Resoluções
+  if (ehResolucao(t)) {
+    const res = visiveis().filter((x) => x.id === 'resolucoes-ctb');
+    if (res.length) { const r0 = melhorAssunto(res, t); if (r0) return { mat: r0.mat, a: r0.a, link: `#/leitura?a=${r0.mat.id}/${r0.a.id}`, rotulo: r0.a.titulo };
+      mats = [...res, ...mats.filter((x) => x.id !== 'resolucoes-ctb')]; }
+  }
   let r = mats.length ? melhorAssunto(mats, t) : null;
   // Edital com nome de matéria diferente (ex.: "Conhecimentos Básicos"): procura pelo assunto em todas, com chaves longas
   if (!r && !mats.length) r = melhorAssunto(visiveis().filter((x) => !x.soEdital), t, 9);
