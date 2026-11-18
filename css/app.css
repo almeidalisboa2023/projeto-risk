@@ -1014,3 +1014,11 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
 .lt-cab.com-img { min-height: 120px; background: linear-gradient(90deg, color-mix(in srgb, var(--c) 90%, #000) 0%, color-mix(in srgb, var(--c) 85%, #000) 40%, color-mix(in srgb, var(--c) 0%, transparent) 75%), var(--img) right center / auto 100% no-repeat, var(--c); }
 @media (max-width: 600px) { .lt-cab.com-img { min-height: 110px; background: linear-gradient(90deg, color-mix(in srgb, var(--c) 92%, #000) 30%, transparent 100%), var(--img) right center / auto 100% no-repeat, var(--c); }
   .lt-materias { grid-template-columns: repeat(2, 1fr); gap: 10px; } .lt-mat b { font-size: 14.5px; } .lt-mat small { font-size: 12px; } .lt-mat-txt { padding: 9px 10px 11px; } .lt-mat-tag { top: 6px; right: 6px; font-size: 10px; } }
+
+/* Ordem de estudo: o índice fica parado na tela e rola sozinho, separado do texto da matéria */
+@media (min-width: 861px) {
+  .lt-indice { max-height: calc(100vh - 32px); overflow-y: auto; overscroll-behavior: contain; scrollbar-width: thin; scrollbar-color: color-mix(in srgb, var(--c, var(--ouro)) 55%, transparent) transparent; }
+  .lt-indice::-webkit-scrollbar { width: 8px; }
+  .lt-indice::-webkit-scrollbar-thumb { background: color-mix(in srgb, var(--c, var(--ouro)) 55%, transparent); border-radius: 8px; }
+  .lt-indice::-webkit-scrollbar-track { background: transparent; }
+}
