@@ -26194,6 +26194,3743 @@ export const PROFUNDO = {
 ]
 }
 },
+"ambiental-urbanistico": {
+"constituicao-ambiental": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1988</b><span>primeira Constituição brasileira com um capítulo próprio sobre meio ambiente (art. 225)</span></div><div class=\"lt-stat\"><b>8 incisos</b><span>deveres do Poder Público no art. 225, § 1º (o VIII foi incluído pela EC 123/2022)</span></div><div class=\"lt-stat\"><b>Tema 999</b><span>STF: é imprescritível a pretensão de reparação civil de dano ambiental</span></div><div class=\"lt-stat\"><b>3 esferas</b><span>responsabilidade civil, administrativa e penal, independentes entre si (art. 225, § 3º)</span></div></div>\n<h3>1. Por que o meio ambiente está na Constituição</h3>\n<ul><li>A Constituição de 1988 foi a <b>primeira</b> Constituição brasileira a dedicar um <b>capítulo inteiro</b> ao meio ambiente (Título VIII, Da Ordem Social, Capítulo VI, art. 225). As Constituições anteriores tratavam do tema de forma indireta, falando apenas em competência para legislar sobre águas, florestas, caça e pesca, numa visão <b>econômica</b> e <b>utilitária</b> dos recursos naturais.</li><li>A Carta de 1988 recebeu a influência da <b>Declaração de Estocolmo (1972)</b>, primeira grande conferência da ONU sobre meio ambiente humano, e da <b>Lei 6.938/1981</b> (Política Nacional do Meio Ambiente), que já havia criado o SISNAMA, o licenciamento e a responsabilidade objetiva por dano ambiental. A Constituição <b>recepcionou</b> a Lei 6.938 e elevou seus princípios ao nível constitucional.</li><li>Por isso a doutrina chama a Constituição de 1988 de <b>\"Constituição Verde\"</b> ou <b>\"Constituição Ambiental\"</b>: ela trata do meio ambiente não só no art. 225, mas em dezenas de outros dispositivos espalhados (competências, ordem econômica, função social da propriedade, ação popular, funções do MP, terras indígenas, tributação).</li><li>O direito ao meio ambiente ecologicamente equilibrado é considerado pelo STF um <b>direito fundamental de terceira geração</b> (ou dimensão), ligado à <b>fraternidade</b> ou <b>solidariedade</b>, de titularidade <b>difusa</b> (pertence a todos e a ninguém em particular). Foi o que disse o Ministro Celso de Mello no julgamento do <b>MS 22.164</b> (1995), marco da jurisprudência ambiental do STF.</li><li>Embora esteja fora do art. 5º, o direito ao meio ambiente equilibrado é <b>materialmente fundamental</b>. O art. 5º, § 2º, diz que os direitos expressos na Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados. Por isso, parte da doutrina defende que o art. 225 é protegido como <b>cláusula pétrea</b> (art. 60, § 4º, IV), tema que aparece em provas discursivas.</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Como estudar este tópico</b><p>Leia o <b>art. 225 inteiro</b> pelo menos três vezes: as bancas (Consulplan, FGV, Cebraspe, Vunesp) cobram a letra da lei, trocando palavras como \"Poder Público\" por \"União\", \"presentes e futuras gerações\" por \"atuais gerações\", \"na forma da lei\" por \"por decreto\". Depois estude as <b>competências</b> (arts. 23, 24 e 30), os <b>princípios</b> e as <b>súmulas do STJ</b>, que caem muito em provas de procuradoria.</p></div>\n<h3>2. O caput do art. 225 palavra por palavra</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CF, art. 225, caput</div><div class=\"art-lei\">Todos têm direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao Poder Público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>\"Todos\" inclui brasileiros e estrangeiros, residentes ou não, e as gerações futuras</li><li>\"Bem de uso comum do povo\" não é o mesmo que bem público do Código Civil: é um bem de interesse difuso, que pode estar em propriedade privada</li><li>O dever é do Poder Público E da coletividade: não é só do Estado</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>O caput mistura direito (todos têm direito) e dever (Poder Público e coletividade devem defender e preservar). Por isso se fala em \"direito-dever\" fundamental.</li></ul></div></div>\n<ul><li><b>\"Todos têm direito\"</b>: a titularidade é <b>universal</b> e <b>difusa</b>. Não se limita a brasileiros. A doutrina inclui até as <b>futuras gerações</b>, que ainda não nasceram, como titulares, o que reforça a ideia de solidariedade entre gerações.</li><li><b>\"Meio ambiente ecologicamente equilibrado\"</b>: não se protege um meio ambiente intocado, mas <b>equilibrado</b>, ou seja, compatível com o uso humano sustentável. A Constituição não proíbe a atividade econômica; exige que ela respeite o equilíbrio ecológico (art. 170, VI).</li><li><b>\"Bem de uso comum do povo\"</b>: o meio ambiente como <b>macrobem</b> é <b>indisponível</b>, <b>inapropriável</b> e <b>imprescritível</b> em sua tutela. Já os <b>microbens</b> (uma árvore, um rio, um terreno) podem ser públicos ou privados. Um proprietário pode ser dono do terreno e da mata que nele existe, mas não pode dispor livremente do <b>equilíbrio ecológico</b> que ela proporciona.</li><li><b>\"Essencial à sadia qualidade de vida\"</b>: liga o meio ambiente à <b>saúde</b> e à <b>dignidade da pessoa humana</b> (art. 1º, III). É a chamada visão <b>antropocêntrica alargada</b> (ou mitigada), que coloca o ser humano no centro, mas reconhece valor próprio à natureza, como mostra a proibição de crueldade contra animais (§ 1º, VII).</li><li><b>\"Impondo-se ao Poder Público e à coletividade\"</b>: o dever de proteção é <b>compartilhado</b>. O Estado tem dever de agir (fiscalizar, licenciar, punir), e a coletividade também tem deveres (não poluir, participar, denunciar). É a base do <b>princípio da participação</b> e da responsabilidade <b>solidária</b> entre Poder Público e particulares em certos casos.</li><li><b>\"Presentes e futuras gerações\"</b>: consagra o princípio da <b>solidariedade intergeracional</b> (ou equidade intergeracional). A geração atual tem o dever de entregar às próximas um meio ambiente pelo menos tão equilibrado quanto o recebeu. É a ideia central do <b>desenvolvimento sustentável</b>, definido no Relatório Brundtland (1987) como o desenvolvimento que atende às necessidades do presente sem comprometer a capacidade de as gerações futuras atenderem às suas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O art. 225 impõe o dever de proteger o meio ambiente apenas ao Poder Público</span><br>✅ <span class=\"certo\">O dever é do <b>Poder Público e da coletividade</b></span></li><li>❌ <span class=\"banca\">O meio ambiente é bem público de uso especial</span><br>✅ <span class=\"certo\">É <b>bem de uso comum do povo</b>, de natureza difusa</span></li><li>❌ <span class=\"banca\">A proteção visa às atuais gerações</span><br>✅ <span class=\"certo\">Visa às <b>presentes e futuras</b> gerações</span></li><li>❌ <span class=\"banca\">O direito ao meio ambiente é de segunda dimensão</span><br>✅ <span class=\"certo\">Segundo o STF, é de <b>terceira</b> dimensão (solidariedade)</span></li></ol></div>\n<h3>3. Os aspectos do meio ambiente</h3>\n<ul><li>A doutrina, com apoio do STF (ADI 3.540), divide o meio ambiente em <b>quatro aspectos</b>, para fins didáticos. O conceito legal está no art. 3º, I, da Lei 6.938/1981: \"o conjunto de condições, leis, influências e interações de ordem física, química e biológica, que permite, abriga e rege a vida em todas as suas formas\".</li></ul>\n<table class=\"tab\"><thead><tr><th>Aspecto</th><th>O que abrange</th><th>Base constitucional</th></tr></thead><tbody><tr><td><b>Natural</b> (ou físico)</td><td>solo, água, ar, flora, fauna, biodiversidade, patrimônio genético</td><td>art. 225</td></tr><tr><td><b>Artificial</b> (ou construído)</td><td>espaço urbano: edificações (espaço fechado) e equipamentos públicos, ruas, praças (espaço aberto)</td><td>arts. 182 e 183 (política urbana)</td></tr><tr><td><b>Cultural</b></td><td>patrimônio histórico, artístico, arqueológico, paisagístico, turístico, bens de natureza material e imaterial</td><td>arts. 215 e 216</td></tr><tr><td><b>Do trabalho</b></td><td>local onde o trabalhador exerce sua atividade, com condições de saúde e segurança</td><td>art. 200, VIII</td></tr></tbody></table>\n<ul><li>O <b>meio ambiente do trabalho</b> aparece expressamente no art. 200, VIII: compete ao SUS colaborar na proteção do meio ambiente, <b>nele compreendido o do trabalho</b>. Questões gostam de perguntar se a Constituição menciona o meio ambiente do trabalho: <b>sim</b>, no art. 200.</li><li>O <b>meio ambiente cultural</b> inclui o patrimônio material e <b>imaterial</b> (formas de expressão, modos de criar, fazer e viver). O art. 216, § 1º, prevê como instrumentos de proteção: <b>inventários, registros, vigilância, tombamento e desapropriação</b>, além de outras formas de acautelamento. O § 4º diz que os danos e ameaças ao patrimônio cultural serão <b>punidos, na forma da lei</b>. O § 5º declara <b>tombados</b> todos os documentos e os sítios detentores de reminiscências históricas dos antigos <b>quilombos</b>.</li><li>O <b>meio ambiente artificial</b> é o objeto do Direito Urbanístico, estudado no tópico de política urbana: plano diretor, função social da cidade, usucapião especial urbana, parcelamento do solo.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aspecto natural</span></span><span class=\"vs\"><span>solo, água, ar, flora, fauna, patrimônio genético</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aspecto artificial</span></span><span class=\"vs\"><span>espaço urbano construído (arts. 182 e 183)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aspecto cultural</span></span><span class=\"vs\"><span>patrimônio material e imaterial (arts. 215 e 216)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Meio ambiente do trabalho</span></span><span class=\"vs\"><span>art. 200, VIII (atribuição do SUS)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Conceito legal</span></span><span class=\"vs\"><span>Lei 6.938/1981, art. 3º, I</span></span></button></div></div>\n<h3>4. O § 1º do art. 225: os deveres do Poder Público</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CF, art. 225, § 1º</div><div class=\"art-lei\">Para assegurar a efetividade desse direito, incumbe ao Poder Público: I - preservar e restaurar os processos ecológicos essenciais e prover o manejo ecológico das espécies e ecossistemas; II - preservar a diversidade e a integridade do patrimônio genético do País e fiscalizar as entidades dedicadas à pesquisa e manipulação de material genético; III - definir, em todas as unidades da Federação, espaços territoriais e seus componentes a serem especialmente protegidos, sendo a alteração e a supressão permitidas somente através de lei, vedada qualquer utilização que comprometa a integridade dos atributos que justifiquem sua proteção; IV - exigir, na forma da lei, para instalação de obra ou atividade potencialmente causadora de significativa degradação do meio ambiente, estudo prévio de impacto ambiental, a que se dará publicidade; V - controlar a produção, a comercialização e o emprego de técnicas, métodos e substâncias que comportem risco para a vida, a qualidade de vida e o meio ambiente; VI - promover a educação ambiental em todos os níveis de ensino e a conscientização pública para a preservação do meio ambiente; VII - proteger a fauna e a flora, vedadas, na forma da lei, as práticas que coloquem em risco sua função ecológica, provoquem a extinção de espécies ou submetam os animais a crueldade; VIII - manter regime fiscal favorecido para os biocombustíveis destinados ao consumo final, na forma de lei complementar, a fim de assegurar-lhes tributação inferior à incidente sobre os combustíveis fósseis.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Inciso III: espaços protegidos são criados por qualquer ato, mas alterados ou suprimidos SOMENTE por lei</li><li>Inciso IV: o EIA é exigido para significativa degradação e é PÚBLICO</li><li>Inciso VI: educação ambiental em TODOS os níveis de ensino</li><li>Inciso VIII foi incluído pela EC 123/2022</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A palavra-chave do § 1º é \"incumbe ao Poder Público\": são deveres estatais que concretizam o direito do caput.</li></ul></div></div>\n<ul><li><b>Inciso I (processos ecológicos essenciais)</b>: o Poder Público deve preservar e <b>restaurar</b> os processos ecológicos (ciclos da água, do carbono, dos nutrientes, polinização) e promover o <b>manejo ecológico</b> das espécies e ecossistemas.</li><li><b>Inciso II (patrimônio genético)</b>: preservar a <b>diversidade</b> e a <b>integridade</b> do patrimônio genético e <b>fiscalizar</b> entidades de pesquisa e manipulação de material genético. Foi regulamentado pela <b>Lei 11.105/2005</b> (Lei de Biossegurança, que trata dos OGMs e das células-tronco embrionárias, validada pelo STF na <b>ADI 3.510</b>) e pela <b>Lei 13.123/2015</b> (acesso ao patrimônio genético e ao conhecimento tradicional associado).</li><li><b>Inciso III (espaços territoriais especialmente protegidos)</b>: é um dos mais cobrados. A <b>criação</b> pode ocorrer por lei ou por <b>ato do Poder Executivo</b> (decreto, portaria), mas a <b>alteração e a supressão</b> só podem ser feitas por <b>lei</b>. Exemplos de espaços protegidos: unidades de conservação (Lei 9.985/2000), áreas de preservação permanente e reserva legal (Lei 12.651/2012). O STF decidiu na <b>ADI 4.717</b> (2018) que é <b>inconstitucional</b> reduzir unidade de conservação por <b>medida provisória</b>, pois a MP não é a lei exigida pelo inciso III, e porque a redução, no caso, violava a proibição de retrocesso.</li><li><b>Inciso IV (estudo prévio de impacto ambiental)</b>: exige-se <b>EIA</b> (com seu relatório, o RIMA) para obra ou atividade <b>potencialmente causadora de significativa degradação</b>, e a ele se dará <b>publicidade</b>. Note três detalhes: o estudo é <b>prévio</b> (antes da instalação), é exigido <b>na forma da lei</b>, e é <b>público</b>. O STF já declarou inconstitucionais normas estaduais que dispensavam o EIA em hipóteses de significativa degradação, ou que submetiam o EIA à aprovação da Assembleia Legislativa (ADI 1.505).</li><li><b>Inciso V (controle de substâncias de risco)</b>: produção, comercialização e emprego de técnicas, métodos e substâncias que comportem risco, como <b>agrotóxicos</b> (Lei 14.785/2023, nova lei dos agrotóxicos), amianto e transgênicos. O STF, nas <b>ADIs 3.406 e 3.470</b> (2017), declarou inconstitucional, de forma incidental, o art. 2º da Lei 9.055/1995, que permitia o uso do <b>amianto crisotila</b>, com base no direito à saúde e ao meio ambiente.</li><li><b>Inciso VI (educação ambiental)</b>: em <b>todos os níveis de ensino</b>. Foi regulamentado pela <b>Lei 9.795/1999</b> (Política Nacional de Educação Ambiental), segundo a qual a educação ambiental não deve ser implantada como disciplina específica no currículo de ensino, salvo nos cursos de pós-graduação, extensão e áreas voltadas ao aspecto metodológico (art. 10, § 1º).</li><li><b>Inciso VII (fauna e flora)</b>: veda práticas que coloquem em risco a <b>função ecológica</b>, provoquem <b>extinção</b> de espécies ou submetam animais a <b>crueldade</b>. É a base das decisões do STF contra a farra do boi, a rinha de galos e a vaquejada (ver item 6).</li><li><b>Inciso VIII (biocombustíveis)</b>: incluído pela <b>EC 123/2022</b>, determina a manutenção de <b>regime fiscal favorecido</b> para os biocombustíveis, por <b>lei complementar</b>, com tributação inferior à dos combustíveis fósseis. A reforma tributária (EC 132/2023) manteve essa diretriz.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os espaços territoriais especialmente protegidos só podem ser criados por lei</span><br>✅ <span class=\"certo\">A <b>criação</b> pode ser por ato do Executivo; a <b>alteração e supressão</b> só por lei</span></li><li>❌ <span class=\"banca\">É possível reduzir unidade de conservação por medida provisória</span><br>✅ <span class=\"certo\">O STF vedou (ADI 4.717)</span></li><li>❌ <span class=\"banca\">O EIA é sigiloso para proteger o segredo industrial</span><br>✅ <span class=\"certo\">A ele se dará <b>publicidade</b> (ressalvado o sigilo industrial específico, na forma da lei)</span></li><li>❌ <span class=\"banca\">A educação ambiental é obrigatória apenas no ensino fundamental</span><br>✅ <span class=\"certo\">Em <b>todos os níveis</b> de ensino</span></li></ol></div>\n<h3>5. Os §§ 2º a 7º do art. 225</h3>\n<table class=\"tab\"><thead><tr><th>Parágrafo</th><th>Conteúdo</th><th>Palavra-chave</th></tr></thead><tbody><tr><td><b>§ 2º</b></td><td>quem explorar recursos minerais fica obrigado a <b>recuperar o meio ambiente degradado</b>, de acordo com solução técnica exigida pelo órgão público competente, na forma da lei</td><td>mineração</td></tr><tr><td><b>§ 3º</b></td><td>condutas e atividades lesivas sujeitam os infratores, <b>pessoas físicas ou jurídicas</b>, a sanções <b>penais e administrativas</b>, independentemente da obrigação de <b>reparar os danos</b></td><td>tríplice responsabilidade</td></tr><tr><td><b>§ 4º</b></td><td><b>Floresta Amazônica</b> brasileira, <b>Mata Atlântica</b>, <b>Serra do Mar</b>, <b>Pantanal Mato-Grossense</b> e <b>Zona Costeira</b> são <b>patrimônio nacional</b>, e sua utilização far-se-á, na forma da lei, dentro de condições que assegurem a preservação</td><td>patrimônio nacional</td></tr><tr><td><b>§ 5º</b></td><td>são <b>indisponíveis</b> as <b>terras devolutas</b> ou arrecadadas pelos Estados, por ações discriminatórias, necessárias à proteção dos ecossistemas naturais</td><td>terras devolutas</td></tr><tr><td><b>§ 6º</b></td><td>as usinas que operem com <b>reator nuclear</b> deverão ter sua localização definida em <b>lei federal</b>, sem o que não poderão ser instaladas</td><td>nuclear</td></tr><tr><td><b>§ 7º</b></td><td>não se consideram cruéis as <b>práticas desportivas que utilizem animais</b>, desde que sejam <b>manifestações culturais</b>, registradas como bem de natureza imaterial do patrimônio cultural brasileiro, regulamentadas por <b>lei específica</b> que assegure o bem-estar dos animais (EC 96/2017)</td><td>vaquejada</td></tr></tbody></table>\n<ul><li><b>§ 2º (mineração)</b>: o minerador tem o dever <b>constitucional</b> de recuperar a área degradada. É hipótese clara de aplicação do princípio do <b>poluidor-pagador</b>. O instrumento técnico é o <b>PRAD</b> (Plano de Recuperação de Área Degradada). Lembre também que os recursos minerais, inclusive os do subsolo, são <b>bens da União</b> (art. 20, IX), e que a exploração depende de autorização ou concessão da União (art. 176).</li><li><b>§ 3º (tríplice responsabilidade)</b>: é o fundamento da <b>responsabilidade penal da pessoa jurídica</b> por crimes ambientais (regulamentada pela Lei 9.605/1998, art. 3º). As três esferas são <b>independentes</b>: a mesma conduta pode gerar multa administrativa, processo criminal e ação civil de reparação, sem <i>bis in idem</i>.</li><li><b>§ 4º (patrimônio nacional)</b>: atenção à lista, que as bancas adoram alterar. São <b>cinco</b>: Floresta Amazônica brasileira, Mata Atlântica, Serra do Mar, Pantanal Mato-Grossense e Zona Costeira. <b>Não</b> estão na lista: o <b>Cerrado</b>, a <b>Caatinga</b> e o <b>Pampa</b>. Existe PEC para incluir Cerrado e Caatinga, mas até hoje ela não foi aprovada. Outro detalhe: \"patrimônio nacional\" <b>não</b> significa que essas áreas sejam bens da União. O STF já decidiu (RE 134.297) que o § 4º não converteu em bens públicos os imóveis particulares nelas situados; apenas impõe um regime especial de uso.</li><li><b>§ 5º (terras devolutas)</b>: as terras devolutas <b>necessárias à proteção dos ecossistemas</b> são <b>indisponíveis</b>, ou seja, não podem ser alienadas. As terras devolutas indispensáveis à <b>preservação ambiental, definidas em lei</b>, são bens da <b>União</b> (art. 20, II); as demais terras devolutas, em regra, são dos <b>Estados</b> (art. 26, IV).</li><li><b>§ 6º (usinas nucleares)</b>: a localização depende de <b>lei federal</b>. Lembre-se de que compete <b>privativamente à União</b> legislar sobre atividades nucleares de qualquer natureza (art. 22, XXVI) e que toda atividade nuclear só será admitida para <b>fins pacíficos</b> e mediante aprovação do <b>Congresso Nacional</b> (art. 21, XXIII, \"a\"). A responsabilidade civil por danos nucleares <b>independe de culpa</b> (art. 21, XXIII, \"d\").</li><li><b>§ 7º (práticas desportivas com animais)</b>: incluído pela <b>EC 96/2017</b>, a chamada \"PEC da Vaquejada\", aprovada em reação à decisão do STF na ADI 4.983. Exige quatro requisitos: (1) prática <b>desportiva</b>; (2) <b>manifestação cultural</b> nos termos do § 1º do art. 215; (3) <b>registro</b> como bem de natureza imaterial do patrimônio cultural brasileiro; (4) <b>lei específica</b> que assegure o <b>bem-estar</b> dos animais envolvidos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Cerrado é patrimônio nacional pelo art. 225, § 4º</span><br>✅ <span class=\"certo\">Não: são Floresta Amazônica, Mata Atlântica, Serra do Mar, Pantanal Mato-Grossense e Zona Costeira</span></li><li>❌ <span class=\"banca\">As áreas do § 4º são bens da União</span><br>✅ <span class=\"certo\">São <b>patrimônio nacional</b> (regime especial de uso), não bens da União</span></li><li>❌ <span class=\"banca\">A localização de usina nuclear pode ser definida por decreto</span><br>✅ <span class=\"certo\">Exige <b>lei federal</b></span></li><li>❌ <span class=\"banca\">As terras devolutas são todas disponíveis</span><br>✅ <span class=\"certo\">As necessárias à proteção dos ecossistemas são <b>indisponíveis</b></span></li></ol></div>\n<h3>6. Proteção dos animais: farra do boi, rinha, vaquejada e sacrifício religioso</h3>\n<ul><li>O inciso VII do § 1º proíbe práticas que submetam animais a <b>crueldade</b>. O STF construiu uma jurisprudência sólida a partir dele:</li></ul>\n<table class=\"tab\"><thead><tr><th>Caso</th><th>Decisão do STF</th></tr></thead><tbody><tr><td><b>Farra do boi</b> (SC)</td><td><b>RE 153.531</b> (1997): a prática é cruel e não está protegida como manifestação cultural; o Estado deve coibi-la</td></tr><tr><td><b>Rinha de galos</b></td><td><b>ADI 1.856</b> (RJ, 2011) e outras: leis estaduais que autorizavam brigas de galo são <b>inconstitucionais</b></td></tr><tr><td><b>Vaquejada</b> (CE)</td><td><b>ADI 4.983</b> (2016): lei estadual que regulamentava a vaquejada foi declarada inconstitucional por crueldade intrínseca; em seguida veio a <b>EC 96/2017</b> (§ 7º) e a <b>Lei 13.364/2016</b></td></tr><tr><td><b>Sacrifício de animais em cultos religiosos</b></td><td><b>RE 494.601</b> (2019): é <b>constitucional</b> a lei de proteção animal que permite o sacrifício ritual de animais em cultos de <b>religiões de matriz africana</b></td></tr><tr><td><b>Testes de cosméticos em animais</b></td><td><b>ADI 5.996</b> (2020): o STF validou lei estadual (AM) que proibia o uso de animais em testes de cosméticos, por ser competência concorrente em proteção da fauna</td></tr></tbody></table>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 4.983 e a EC 96/2017</b><p class=\"jc-tese\">Na ADI 4.983 (2016), o STF declarou inconstitucional a Lei 15.299/2013 do Ceará, que regulamentava a vaquejada, porque a prática implica <b>crueldade intrínseca</b> aos animais (tração da cauda, quedas), prevalecendo o art. 225, § 1º, VII, sobre a proteção às manifestações culturais (art. 215). Em reação, o Congresso aprovou a Lei 13.364/2016 (que elevou a vaquejada a patrimônio cultural imaterial) e a <b>EC 96/2017</b>, que incluiu o § 7º no art. 225. A EC 96 foi questionada nas ADIs 5.728 e 5.772.</p><p class=\"jc-com\">É um exemplo clássico de <b>efeito backlash</b> e de <b>superação legislativa</b> (reação do Legislativo a uma decisão do STF). A decisão em ADI não vincula o Poder Legislativo em sua função de legislar, que pode editar nova lei ou emenda sobre o tema. Em prova, responda pela letra da EC 96: as práticas desportivas com animais registradas como patrimônio cultural imaterial, regulamentadas por lei que assegure o bem-estar animal, <b>não se consideram cruéis</b>.</p></div>\n<ul><li>Lembre o crime de <b>maus-tratos a animais</b> (Lei 9.605/1998, art. 32): detenção de 3 meses a 1 ano e multa; quando se tratar de <b>cão ou gato</b>, a pena é de <b>reclusão de 2 a 5 anos</b>, multa e proibição da guarda (§ 1º-A, incluído pela <b>Lei 14.064/2020</b>, a \"Lei Sansão\"). A pena é aumentada de 1/6 a 1/3 se ocorre a morte do animal.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O STF admitiu a farra do boi como manifestação cultural</span><br>✅ <span class=\"certo\">Declarou a prática <b>cruel</b> (RE 153.531)</span></li><li>❌ <span class=\"banca\">É inconstitucional o sacrifício de animais em cultos religiosos</span><br>✅ <span class=\"certo\">O STF admitiu o sacrifício ritual em religiões de matriz africana (RE 494.601)</span></li><li>❌ <span class=\"banca\">Maus-tratos a cão ou gato têm pena de detenção de 3 meses a 1 ano</span><br>✅ <span class=\"certo\"><b>Reclusão de 2 a 5 anos</b> (Lei 14.064/2020)</span></li></ol></div>\n<h3>7. O meio ambiente em outros dispositivos da Constituição</h3>\n<table class=\"tab\"><thead><tr><th>Dispositivo</th><th>O que diz</th></tr></thead><tbody><tr><td><b>Art. 5º, LXXIII</b></td><td>qualquer <b>cidadão</b> é parte legítima para propor <b>ação popular</b> que vise a anular ato lesivo ao meio ambiente, ficando o autor, salvo comprovada má-fé, isento de custas e ônus da sucumbência</td></tr><tr><td><b>Art. 20, II, III, IX, X e XI</b></td><td>bens da União: terras devolutas indispensáveis à preservação ambiental, lagos e rios de mais de um Estado, recursos minerais, cavidades naturais subterrâneas, terras indígenas</td></tr><tr><td><b>Art. 23, VI e VII</b></td><td>competência <b>comum</b> de todos os entes: proteger o meio ambiente e combater a poluição; preservar florestas, fauna e flora</td></tr><tr><td><b>Art. 24, VI, VII e VIII</b></td><td>competência legislativa <b>concorrente</b>: florestas, caça, pesca, fauna, conservação da natureza, proteção do meio ambiente, controle da poluição; patrimônio histórico, cultural, paisagístico; responsabilidade por dano ao meio ambiente</td></tr><tr><td><b>Art. 129, III</b></td><td>função institucional do MP: promover o <b>inquérito civil</b> e a <b>ação civil pública</b> para a proteção do meio ambiente</td></tr><tr><td><b>Art. 170, VI</b></td><td>princípio da ordem econômica: <b>defesa do meio ambiente</b>, inclusive mediante <b>tratamento diferenciado</b> conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação (EC 42/2003)</td></tr><tr><td><b>Art. 174, § 3º</b></td><td>o Estado favorecerá a organização da atividade <b>garimpeira</b> em cooperativas, levando em conta a proteção do meio ambiente</td></tr><tr><td><b>Art. 186, II</b></td><td>a função social da <b>propriedade rural</b> exige a utilização adequada dos recursos naturais disponíveis e a <b>preservação do meio ambiente</b></td></tr><tr><td><b>Art. 200, VIII</b></td><td>SUS colabora na proteção do meio ambiente, <b>nele compreendido o do trabalho</b></td></tr><tr><td><b>Art. 216</b></td><td>patrimônio cultural</td></tr><tr><td><b>Art. 231, § 1º</b></td><td>terras indígenas incluem as imprescindíveis à preservação dos recursos ambientais necessários ao bem-estar dos índios</td></tr></tbody></table>\n<ul><li><b>Reforma tributária (EC 132/2023)</b>: incluiu a <b>defesa do meio ambiente</b> entre os princípios do Sistema Tributário Nacional (art. 145, § 3º: simplicidade, transparência, justiça tributária, cooperação e <b>defesa do meio ambiente</b>). Criou também o <b>Imposto Seletivo</b> (art. 153, VIII), sobre a produção, extração, comercialização ou importação de bens e serviços <b>prejudiciais à saúde ou ao meio ambiente</b>, regulamentado pela <b>LC 214/2025</b>. Esses dispositivos mostram a chamada <b>tributação ambiental</b> (extrafiscalidade verde).</li><li><b>Ação popular</b>: o autor é o <b>cidadão</b> (eleitor), e não \"qualquer pessoa\". Pessoa jurídica <b>não</b> pode propor ação popular (Súmula 365 do STF). O MP não é autor da ação popular, mas atua como fiscal da ordem jurídica e pode assumir o polo ativo em caso de desistência do autor (Lei 4.717/1965, art. 9º).</li><li><b>Ação civil pública</b>: o MP <b>não</b> tem exclusividade. A Lei 7.347/1985 (art. 5º) legitima também a Defensoria Pública, a União, os Estados, os Municípios, autarquias, empresas públicas, fundações, sociedades de economia mista e <b>associações</b> constituídas há pelo menos 1 ano que incluam entre suas finalidades a proteção ao meio ambiente. Por isso o art. 129, § 1º, diz que a legitimação do MP para ações civis <b>não impede a de terceiros</b>.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação popular ambiental</span></span><span class=\"vs\"><span>qualquer cidadão (art. 5º, LXXIII), isento de custas salvo má-fé</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação civil pública ambiental</span></span><span class=\"vs\"><span>MP e outros legitimados (art. 129, III e § 1º; Lei 7.347/1985)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Defesa do meio ambiente na ordem econômica</span></span><span class=\"vs\"><span>art. 170, VI (EC 42/2003)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Função social da propriedade rural</span></span><span class=\"vs\"><span>art. 186, II</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípio tributário ambiental</span></span><span class=\"vs\"><span>art. 145, § 3º (EC 132/2023)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Imposto Seletivo</span></span><span class=\"vs\"><span>art. 153, VIII; LC 214/2025</span></span></button></div></div>\n<h3>8. Competências ambientais: administrativa e legislativa</h3>\n<ul><li>A Constituição distribui as competências ambientais entre os entes em <b>dois planos</b>: a competência <b>material</b> (ou administrativa, para agir: fiscalizar, licenciar, punir) e a competência <b>legislativa</b> (para fazer leis).</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Dispositivo</th><th>Quem</th><th>Como funciona</th></tr></thead><tbody><tr><td><b>Material comum</b></td><td>art. 23, III, IV, VI, VII e XI</td><td>União, Estados, DF e Municípios</td><td>todos devem proteger o meio ambiente, combater a poluição, preservar florestas, fauna e flora; a cooperação é regulada por <b>leis complementares</b> (art. 23, parágrafo único), no caso a <b>LC 140/2011</b></td></tr><tr><td><b>Legislativa concorrente</b></td><td>art. 24, VI, VII e VIII</td><td>União, Estados e DF</td><td>União edita <b>normas gerais</b>; Estados <b>suplementam</b>; inexistindo lei federal, Estados exercem competência <b>plena</b>; lei federal superveniente <b>suspende</b> a eficácia da lei estadual no que lhe for contrário</td></tr><tr><td><b>Legislativa municipal</b></td><td>art. 30, I e II</td><td>Municípios</td><td>legislar sobre <b>interesse local</b> e <b>suplementar</b> a legislação federal e estadual no que couber</td></tr><tr><td><b>Legislativa privativa da União</b></td><td>art. 22, IV, XII e XXVI</td><td>União</td><td>águas, energia, <b>jazidas, minas e outros recursos minerais</b>, metalurgia, <b>atividades nucleares</b></td></tr></tbody></table>\n<ul><li><b>Art. 24, §§ 1º a 4º</b>: no âmbito da legislação concorrente, a competência da União limita-se a estabelecer <b>normas gerais</b> (§ 1º); isso <b>não exclui</b> a competência <b>suplementar</b> dos Estados (§ 2º); inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa <b>plena</b>, para atender a suas peculiaridades (§ 3º); a superveniência de lei federal sobre normas gerais <b>suspende a eficácia</b> da lei estadual, <b>no que lhe for contrário</b> (§ 4º). Atenção: <b>suspende</b>, não revoga.</li><li><b>Município e meio ambiente</b>: o art. 24 não menciona os Municípios, mas o STF, no <b>Tema 145</b> da repercussão geral (<b>RE 586.224</b>, 2015), fixou a tese: \"O município é competente para legislar sobre meio ambiente com União e Estado, no limite de seu <b>interesse local</b> e desde que tal regramento seja <b>harmônico</b> com a disciplina estabelecida pelos demais entes federados (art. 24, VI, c/c 30, I e II, da CRFB)\". No caso concreto, o STF considerou <b>inconstitucional</b> lei de Paulínia (SP) que proibia a queima da palha da cana-de-açúcar, porque contrariava a lei estadual, que previa eliminação gradual.</li><li><b>Norma mais protetiva</b>: a jurisprudência do STF admite que Estados e Municípios editem normas <b>mais restritivas</b> (mais protetivas) que as federais, desde que não invadam competência privativa da União e respeitem as normas gerais. Mas não admite normas estaduais <b>menos protetivas</b> que as federais. Exemplo: o STF declarou inconstitucionais leis estaduais que dispensavam licenciamento ou EIA em hipóteses em que a norma geral exigia (ADI 1.086, ADI 4.615, ADI 5.312, entre outras).</li><li><b>Amianto</b>: na <b>ADI 3.937</b> (2017), o STF validou lei paulista que proibia o amianto, mesmo existindo lei federal que o permitia, entendendo que a lei federal havia passado por <b>processo de inconstitucionalização</b> (normas gerais federais menos protetivas, à luz do conhecimento científico atual, não podem impedir a proteção maior pelos Estados).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 145 (RE 586.224)</b><p class=\"jc-tese\">O município é competente para legislar sobre meio ambiente com União e Estado, no limite de seu <b>interesse local</b> e desde que tal regramento seja <b>harmônico</b> com a disciplina estabelecida pelos demais entes federados (art. 24, VI, c/c art. 30, I e II, da CF).</p><p class=\"jc-com\">Em provas de procuradoria municipal, essa tese é decisiva. O Município pode, por exemplo, editar código ambiental municipal, regras sobre poluição sonora e visual, arborização urbana, coleta de lixo, desde que respeite as normas gerais e as estaduais. Não pode contrariar frontalmente a legislação federal ou estadual nem invadir matérias privativas da União (como energia, mineração, atividades nucleares, águas).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os Municípios não podem legislar sobre meio ambiente porque o art. 24 não os menciona</span><br>✅ <span class=\"certo\">Podem, no limite do <b>interesse local</b> e em harmonia com os demais entes (Tema 145)</span></li><li>❌ <span class=\"banca\">Lei federal superveniente revoga a lei estadual no que lhe for contrário</span><br>✅ <span class=\"certo\"><b>Suspende a eficácia</b> (art. 24, § 4º)</span></li><li>❌ <span class=\"banca\">Legislar sobre mineração e atividades nucleares é competência concorrente</span><br>✅ <span class=\"certo\">É <b>privativa da União</b> (art. 22, XII e XXVI)</span></li><li>❌ <span class=\"banca\">A competência para proteger o meio ambiente é exclusiva da União</span><br>✅ <span class=\"certo\">É <b>comum</b> a todos os entes (art. 23, VI)</span></li></ol></div>\n<h3>9. A LC 140/2011 em linhas gerais</h3>\n<ul><li>A <b>LC 140/2011</b> regulamentou o parágrafo único do art. 23, fixando normas de <b>cooperação</b> entre os entes nas ações administrativas de proteção ambiental. Ela é estudada em detalhe no tópico de licenciamento, mas alguns pontos são constitucionais e caem junto com o art. 225:</li><li><b>Licenciamento por um único ente</b> (art. 13): os empreendimentos e atividades são licenciados ou autorizados <b>ambientalmente</b> por um <b>único ente federativo</b>. Os demais entes interessados podem se manifestar ao órgão responsável pela licença, de maneira <b>não vinculante</b>.</li><li><b>Critério principal</b>: a LC 140 adotou, como regra, o critério da <b>localização</b> e da <b>abrangência do impacto</b>, com uma lista de atividades federais (art. 7º, XIV: por exemplo, empreendimentos localizados em terras indígenas, no mar territorial, em dois ou mais Estados, de caráter militar, nucleares) e a regra residual em favor dos <b>Estados</b> (art. 8º, XIV). Os <b>Municípios</b> licenciam atividades de <b>impacto local</b>, conforme tipologia definida pelos <b>Conselhos Estaduais de Meio Ambiente</b>, e as localizadas em unidades de conservação municipais, exceto APAs (art. 9º, XIV).</li><li><b>Fiscalização e auto de infração</b> (art. 17): compete ao órgão responsável pelo <b>licenciamento</b> lavrar o auto de infração e instaurar o processo administrativo. Mas isso <b>não impede</b> o exercício, pelos demais entes, da <b>atribuição comum de fiscalização</b>, prevalecendo o auto de infração lavrado pelo órgão que detenha a atribuição de licenciamento (§ 3º). Em caso de iminência ou ocorrência de degradação, o ente que tiver conhecimento deve adotar medidas para evitá-la, comunicando imediatamente o órgão competente (§ 2º).</li><li>O STF julgou a <b>ADI 4.757</b> (2022) e conferiu interpretação conforme ao art. 17, § 3º: a prevalência do auto do órgão licenciador <b>não exclui</b> a atuação <b>supletiva</b> dos demais entes quando o órgão licenciador for <b>omisso</b> ou insuficiente na fiscalização. Também declarou que a atuação supletiva deve ser efetiva para não haver proteção deficiente.</li></ul>\n<div class=\"lt-fluxo\"><span>Dano ou risco ambiental</span> <em>→</em> <span>qualquer ente pode agir para evitar a degradação (art. 17, § 2º)</span> <em>→</em> <span>comunicação imediata ao órgão licenciador</span> <em>→</em> <span>órgão licenciador lavra o auto de infração (art. 17, caput)</span> <em>→</em> <span>se houver dois autos, prevalece o do licenciador (§ 3º)</span> <em>→</em> <span>se o licenciador for omisso, os demais entes atuam supletivamente (ADI 4.757)</span></div>\n<h3>10. Os princípios do Direito Ambiental</h3>\n<ul><li>Os princípios do Direito Ambiental são extraídos da Constituição, da Lei 6.938/1981 e de declarações internacionais, especialmente a <b>Declaração do Rio de 1992</b> (Eco-92), que tem 27 princípios. Os mais cobrados:</li></ul>\n<table class=\"tab\"><thead><tr><th>Princípio</th><th>Ideia central</th><th>Fundamento</th></tr></thead><tbody><tr><td><b>Desenvolvimento sustentável</b></td><td>conciliar crescimento econômico, equidade social e proteção ambiental</td><td>art. 170, VI; art. 225; Princípio 4 da Declaração do Rio</td></tr><tr><td><b>Prevenção</b></td><td>risco <b>conhecido</b> e comprovado: evitar o dano antes que ocorra</td><td>EIA (art. 225, § 1º, IV); licenciamento</td></tr><tr><td><b>Precaução</b></td><td>risco <b>incerto</b>, sem certeza científica: a dúvida favorece o meio ambiente</td><td>Princípio 15 da Declaração do Rio; Lei 11.105/2005</td></tr><tr><td><b>Poluidor-pagador</b></td><td>quem polui arca com os custos de prevenção, reparação e repressão da poluição (internalização das externalidades negativas)</td><td>art. 225, §§ 2º e 3º; Lei 6.938, art. 4º, VII</td></tr><tr><td><b>Usuário-pagador</b></td><td>quem usa recurso natural com fins econômicos paga pela utilização, mesmo sem poluir</td><td>Lei 6.938, art. 4º, VII; cobrança pelo uso da água (Lei 9.433)</td></tr><tr><td><b>Protetor-recebedor</b></td><td>quem protege o meio ambiente além do exigido recebe benefício (pagamento por serviços ambientais)</td><td>Lei 12.305/2010, art. 6º, II; Lei 14.119/2021</td></tr><tr><td><b>Participação</b> (ou democrático)</td><td>a coletividade participa das decisões ambientais: audiências públicas, conselhos, ação popular</td><td>art. 225, caput; Princípio 10 da Declaração do Rio</td></tr><tr><td><b>Informação</b></td><td>acesso às informações ambientais</td><td>art. 225, § 1º, IV e VI; Lei 10.650/2003</td></tr><tr><td><b>Função socioambiental da propriedade</b></td><td>a propriedade deve cumprir sua função ambiental</td><td>arts. 5º, XXIII, 170, III e VI, e 186, II</td></tr><tr><td><b>Vedação do retrocesso</b></td><td>o nível de proteção alcançado não pode ser reduzido sem justificativa e compensação</td><td>construção doutrinária e jurisprudencial (STF)</td></tr><tr><td><b>Solidariedade intergeracional</b></td><td>responsabilidade com as futuras gerações</td><td>art. 225, caput</td></tr><tr><td><b>Ubiquidade</b></td><td>o meio ambiente deve ser considerado em todas as políticas públicas, pois está em tudo</td><td>doutrina</td></tr><tr><td><b>Cooperação entre os povos</b></td><td>problemas ambientais não respeitam fronteiras</td><td>art. 4º, IX; tratados</td></tr></tbody></table>\n<ul><li><b>Prevenção x precaução</b>: é a pegadinha número um. Na <b>prevenção</b>, o risco é <b>certo</b> e <b>conhecido</b> (sabe-se que o desmatamento causa erosão; por isso exige-se licenciamento). Na <b>precaução</b>, há <b>incerteza científica</b> sobre o risco (não se sabe com segurança se um transgênico ou um campo eletromagnético faz mal), e a falta de certeza <b>não pode</b> ser usada como razão para adiar medidas eficazes. A precaução fundamenta a <b>inversão do ônus da prova</b> (Súmula 618 do STJ).</li><li><b>Princípio 15 da Declaração do Rio</b>: \"Com o fim de proteger o meio ambiente, o princípio da precaução deverá ser amplamente observado pelos Estados, de acordo com suas capacidades. Quando houver ameaça de danos graves ou irreversíveis, a ausência de certeza científica absoluta não será utilizada como razão para o adiamento de medidas economicamente viáveis para prevenir a degradação ambiental.\"</li><li><b>Poluidor-pagador não é \"pagar para poluir\"</b>: o princípio não autoriza a poluição mediante pagamento. Ele obriga o poluidor a <b>internalizar</b> os custos ambientais de sua atividade (prevenir, reparar, compensar). Por isso convive com a responsabilidade objetiva e com a obrigação de recuperar.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Campos eletromagnéticos e precaução (RE 627.189, Tema 479)</b><p class=\"jc-tese\">O STF aplicou o princípio da precaução a linhas de transmissão de energia elétrica e fixou que, enquanto não houver certeza científica sobre efeitos nocivos dos campos eletromagnéticos, não há impedimento para que a Administração adote <b>os parâmetros propostos pela OMS</b> (Lei 11.934/2009). A precaução não exige risco zero, mas uma gestão razoável do risco à luz do conhecimento científico.</p><p class=\"jc-com\">O caso mostra que a precaução tem <b>limites</b>: ela não autoriza qualquer proibição baseada em medo infundado. Exige <b>proporcionalidade</b> e revisão periódica conforme a ciência evolui.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Prevenção e precaução são sinônimos</span><br>✅ <span class=\"certo\">Prevenção = risco <b>conhecido</b>; precaução = risco <b>incerto</b></span></li><li>❌ <span class=\"banca\">O poluidor-pagador autoriza poluir mediante pagamento</span><br>✅ <span class=\"certo\">Obriga a <b>internalizar</b> os custos ambientais; não legitima a poluição</span></li><li>❌ <span class=\"banca\">O usuário-pagador exige que haja poluição</span><br>✅ <span class=\"certo\">Basta o <b>uso</b> econômico do recurso natural</span></li><li>❌ <span class=\"banca\">O protetor-recebedor não tem previsão legal</span><br>✅ <span class=\"certo\">Está na Lei 12.305/2010 (art. 6º, II) e na Lei 14.119/2021 (PSA)</span></li></ol></div>\n<h3>11. Responsabilidade civil ambiental: objetiva e pelo risco integral</h3>\n<ul><li>O art. 225, § 3º, prevê a obrigação de <b>reparar os danos</b> independentemente das sanções penais e administrativas. A Lei 6.938/1981, art. 14, § 1º, diz que o poluidor é obrigado, <b>independentemente da existência de culpa</b>, a indenizar ou reparar os danos causados ao meio ambiente e a terceiros afetados por sua atividade. A responsabilidade civil ambiental é, portanto, <b>objetiva</b>.</li><li>O STJ foi além e adotou a teoria do <b>risco integral</b> (Tema 681 e Tema 707 dos repetitivos, REsp 1.354.536 e REsp 1.374.284, casos de vazamentos e rompimento de barragem): não se admitem as <b>excludentes</b> de responsabilidade, como <b>caso fortuito</b>, <b>força maior</b> e <b>fato de terceiro</b>, para afastar o dever de reparar. Basta comprovar o <b>dano</b> e o <b>nexo</b> com a atividade. Diferença para o risco administrativo (art. 37, § 6º): neste, as excludentes rompem o nexo; no risco integral, não.</li><li><b>Poluidor</b> (Lei 6.938, art. 3º, IV) é a pessoa física ou jurídica, de direito público ou privado, responsável, <b>direta ou indiretamente</b>, por atividade causadora de degradação ambiental. Por isso o STJ admite a responsabilização de quem financia, de quem compra produto de área desmatada, do proprietário atual e do Estado omisso: \"para o fim de apuração do nexo de causalidade no dano ambiental, equiparam-se quem faz, quem não faz quando deveria fazer, quem deixa fazer, quem não se importa que façam, quem financia para que façam, e quem se beneficia quando outros fazem\" (REsp 650.728, Min. Herman Benjamin).</li><li>A responsabilidade é <b>solidária</b> entre todos os poluidores diretos e indiretos. O autor da ação pode escolher contra quem demandar (litisconsórcio <b>facultativo</b>), sem prejuízo do direito de regresso entre os corresponsáveis.</li></ul>\n<div class=\"lt-juris\"><b class=\"lt-tit\">⚖ Jurisprudência</b><ul><li><b>Súmula 613 (STJ)</b>: Não se admite a aplicação da <b>teoria do fato consumado</b> em tema de Direito Ambiental.</li><li><b>Súmula 618 (STJ)</b>: A <b>inversão do ônus da prova</b> aplica-se às ações de degradação ambiental.</li><li><b>Súmula 623 (STJ)</b>: As obrigações ambientais possuem natureza <b>propter rem</b>, sendo admissível cobrá-las do proprietário ou possuidor <b>atual</b> e/ou dos <b>anteriores</b>, à escolha do credor.</li><li><b>Súmula 629 (STJ)</b>: Quanto ao dano ambiental, é admitida a condenação do réu à obrigação de fazer ou à de não fazer <b>cumulada</b> com a de indenizar.</li><li><b>Súmula 652 (STJ)</b>: A responsabilidade civil da Administração Pública por danos ao meio ambiente, decorrente de sua <b>omissão no dever de fiscalização</b>, é de caráter <b>solidário</b>, mas de execução <b>subsidiária</b>.</li></ul></div>\n<ul><li><b>Fato consumado (Súmula 613)</b>: não importa que a construção irregular em APP exista há décadas ou que a cidade \"já tenha crescido em volta\". Não há direito adquirido a poluir ou a degradar. O tempo não legitima o dano ambiental.</li><li><b>Propter rem (Súmula 623)</b>: a obrigação de recompor a reserva legal ou a APP acompanha o imóvel. O comprador responde mesmo que não tenha causado o desmatamento. O Código Florestal (Lei 12.651/2012, art. 2º, § 2º) diz expressamente que as obrigações nele previstas têm natureza real e são transmitidas ao sucessor, de qualquer natureza, no caso de transferência de domínio ou posse do imóvel rural.</li><li><b>Cumulação (Súmula 629)</b>: o réu pode ser condenado a <b>recuperar</b> a área (obrigação de fazer), a <b>parar</b> a atividade (não fazer) e a <b>indenizar</b> o dano residual ou intercorrente (o período entre o dano e a recuperação) e o <b>dano moral coletivo</b>. A reparação <b>in natura</b> tem prioridade; a indenização em dinheiro é subsidiária, mas pode ser cumulada.</li><li><b>Omissão do Estado (Súmula 652)</b>: o ente público que deixou de fiscalizar responde <b>solidariamente</b> com o poluidor, mas a <b>execução</b> é <b>subsidiária</b>: primeiro se executa o poluidor direto; só se ele não pagar é que se executa o Estado, preservando o direito de regresso. Isso evita que a sociedade pague duas vezes pelo dano.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 999 (RE 654.833)</b><p class=\"jc-tese\">\"É <b>imprescritível</b> a pretensão de reparação civil de dano ambiental.\" O caso envolvia a invasão de terras indígenas no Acre por madeireiros na década de 1980. O STF entendeu que o meio ambiente é bem de uso comum do povo, indisponível, e que a reparação do dano interessa às futuras gerações.</p><p class=\"jc-com\">Atenção para o alcance: a imprescritibilidade é da <b>reparação civil</b> do dano ambiental. As <b>sanções administrativas</b> prescrevem (a multa ambiental tem prazo de 5 anos para a apuração, Decreto 6.514/2008, art. 21, e há prescrição intercorrente de 3 anos) e os <b>crimes</b> prescrevem pelas regras do Código Penal. Também prescreve a pretensão de <b>terceiros</b> que sofreram danos individuais (danos por ricochete) em seus bens particulares.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A responsabilidade civil ambiental admite a excludente de força maior</span><br>✅ <span class=\"certo\">O STJ adota o <b>risco integral</b>: não há excludentes</span></li><li>❌ <span class=\"banca\">O adquirente de imóvel desmatado não responde por dano que não causou</span><br>✅ <span class=\"certo\">Responde, porque a obrigação é <b>propter rem</b> (Súmula 623)</span></li><li>❌ <span class=\"banca\">A pretensão de reparação civil do dano ambiental prescreve em 5 anos</span><br>✅ <span class=\"certo\">É <b>imprescritível</b> (Tema 999 do STF)</span></li><li>❌ <span class=\"banca\">O Estado omisso responde subsidiariamente</span><br>✅ <span class=\"certo\">Responde <b>solidariamente</b>, com execução <b>subsidiária</b> (Súmula 652)</span></li><li>❌ <span class=\"banca\">A ocupação antiga em APP gera direito adquirido</span><br>✅ <span class=\"certo\">Não se aplica a teoria do <b>fato consumado</b> (Súmula 613)</span></li></ol></div>\n<h3>12. Responsabilidade administrativa: subjetiva</h3>\n<ul><li>Enquanto a responsabilidade civil é objetiva, a <b>responsabilidade administrativa</b> ambiental é <b>subjetiva</b>, segundo a jurisprudência atual do STJ (<b>EREsp 1.318.051</b>, Primeira Seção, 2019): a aplicação de penalidades administrativas (como a multa) exige <b>dolo ou culpa</b> do infrator e a demonstração do <b>nexo</b> entre sua conduta e o dano. Não se pode multar o proprietário atual por infração cometida pelo antigo dono, por exemplo, ou a empresa dona da carga por infração cometida pela transportadora sem sua participação.</li><li>Por que a diferença? Porque as sanções administrativas são <b>punitivas</b> (pessoais), e o princípio da <b>intranscendência</b> da pena se aplica ao direito administrativo sancionador. Já a obrigação civil de reparar é <b>reparatória</b>, real e objetiva.</li><li>A base legal da infração administrativa é a <b>Lei 9.605/1998, art. 70</b>: considera-se infração administrativa ambiental toda ação ou omissão que viole as regras jurídicas de uso, gozo, promoção, proteção e recuperação do meio ambiente. O <b>Decreto 6.514/2008</b> regulamenta as infrações e sanções. As sanções do art. 72 incluem <b>advertência, multa simples, multa diária, apreensão, destruição de produtos, suspensão de venda, embargo de obra, demolição, suspensão de atividades e restritiva de direitos</b>. A multa vai de <b>R$ 50,00 a R$ 50.000.000,00</b> (art. 75).</li><li><b>Prazos do processo administrativo</b> (Lei 9.605, art. 71): <b>20 dias</b> para o infrator oferecer defesa ou impugnação contra o auto de infração; <b>30 dias</b> para a autoridade julgar o auto; <b>20 dias</b> para recorrer da decisão condenatória à instância superior do SISNAMA ou à Diretoria de Portos e Costas, conforme o tipo de autuação; <b>5 dias</b> para o pagamento da multa, contados da notificação.</li></ul>\n<table class=\"tab\"><thead><tr><th>Esfera</th><th>Natureza</th><th>Exige culpa?</th><th>Prescrição</th></tr></thead><tbody><tr><td><b>Civil</b></td><td>reparatória, real</td><td><b>não</b> (objetiva, risco integral)</td><td><b>imprescritível</b> a reparação do dano ambiental (Tema 999)</td></tr><tr><td><b>Administrativa</b></td><td>punitiva</td><td><b>sim</b> (subjetiva, EREsp 1.318.051)</td><td>5 anos para apurar; intercorrente de 3 anos</td></tr><tr><td><b>Penal</b></td><td>punitiva</td><td><b>sim</b> (dolo, ou culpa quando prevista)</td><td>regras do Código Penal</td></tr></tbody></table>\n<h3>13. Responsabilidade penal e a pessoa jurídica</h3>\n<ul><li>O art. 225, § 3º, admite a responsabilização penal da <b>pessoa jurídica</b>, regulamentada pela <b>Lei 9.605/1998</b> (Lei de Crimes Ambientais). O art. 3º da lei diz que as pessoas jurídicas serão responsabilizadas administrativa, civil e penalmente nos casos em que a infração seja cometida por decisão de seu <b>representante legal ou contratual</b>, ou de seu <b>órgão colegiado</b>, <b>no interesse ou benefício</b> da sua entidade. A responsabilidade da pessoa jurídica <b>não exclui</b> a das pessoas físicas, autoras, coautoras ou partícipes do mesmo fato (parágrafo único).</li><li><b>Dupla imputação</b>: por muito tempo, o STJ exigia que a pessoa física fosse denunciada junto com a pessoa jurídica (teoria da dupla imputação necessária). O STF, no <b>RE 548.181</b> (2013), afastou essa exigência: o art. 225, § 3º, <b>não condiciona</b> a responsabilização penal da pessoa jurídica à simultânea persecução da pessoa física. O STJ passou a seguir o STF. Hoje, é possível processar <b>só a empresa</b>.</li><li><b>Penas para a pessoa jurídica</b> (Lei 9.605, arts. 21 a 24): multa; restritivas de direitos (suspensão parcial ou total de atividades, interdição temporária, proibição de contratar com o Poder Público e de obter subsídios por até <b>10 anos</b>); prestação de serviços à comunidade (custeio de programas ambientais, recuperação de áreas, manutenção de espaços públicos, contribuições a entidades ambientais). Se a pessoa jurídica for constituída ou utilizada preponderantemente para permitir, facilitar ou ocultar crime ambiental, terá decretada sua <b>liquidação forçada</b> (art. 24), com o patrimônio perdido em favor do Fundo Penitenciário Nacional.</li><li><b>Desconsideração da personalidade jurídica</b> (art. 4º): poderá ser desconsiderada a pessoa jurídica sempre que sua personalidade for <b>obstáculo</b> ao ressarcimento de prejuízos causados à qualidade do meio ambiente. É a chamada <b>teoria menor</b> da desconsideração: basta a insolvência ou o obstáculo, sem necessidade de provar abuso, fraude ou confusão patrimonial (diferente do art. 50 do Código Civil, que adota a teoria maior).</li><li><b>Pessoa jurídica de direito público</b>: a doutrina diverge sobre a possibilidade de o Município ou o Estado responder criminalmente. A posição majoritária é <b>contrária</b>, porque as penas acabariam recaindo sobre a própria coletividade e porque o ente público não age \"no interesse ou benefício\" próprio ao cometer crime. Mas o ente público responde <b>civil</b> e <b>administrativamente</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · RE 548.181 (dupla imputação)</b><p class=\"jc-tese\">\"O art. 225, § 3º, da Constituição Federal não condiciona a responsabilização penal da pessoa jurídica por crimes ambientais à simultânea persecução penal da pessoa física em tese responsável no âmbito da empresa.\" Exigir a dupla imputação esvaziaria a norma constitucional, pois em grandes corporações é difícil identificar o responsável individual pela decisão.</p><p class=\"jc-com\">Leitura correta para a prova: é possível denunciar apenas a pessoa jurídica, desde que se demonstre que a conduta decorreu de decisão de seus órgãos ou representantes, no seu interesse ou benefício (art. 3º da Lei 9.605). A responsabilidade penal da empresa continua exigindo esse vínculo com a decisão institucional.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A pessoa jurídica só pode ser processada por crime ambiental junto com a pessoa física</span><br>✅ <span class=\"certo\">O STF afastou a <b>dupla imputação</b> (RE 548.181)</span></li><li>❌ <span class=\"banca\">A desconsideração na Lei 9.605 exige prova de fraude</span><br>✅ <span class=\"certo\">Adota a <b>teoria menor</b>: basta a personalidade ser <b>obstáculo</b> ao ressarcimento</span></li><li>❌ <span class=\"banca\">A responsabilidade administrativa ambiental é objetiva</span><br>✅ <span class=\"certo\">Segundo o STJ, é <b>subjetiva</b> (EREsp 1.318.051)</span></li></ol></div>\n<h3>14. Vedação do retrocesso ambiental e o julgamento do Código Florestal</h3>\n<ul><li>O princípio da <b>proibição do retrocesso</b> (ou do não retrocesso, <i>efeito cliquet</i>) diz que os níveis de proteção ambiental já alcançados não podem ser reduzidos de forma arbitrária, sem medidas compensatórias e sem justificativa razoável. Ele deriva do caráter <b>fundamental</b> do direito ao meio ambiente e do dever de <b>progressividade</b> na proteção.</li><li>O STF aplicou o princípio de forma <b>moderada</b> no julgamento do <b>novo Código Florestal</b> (Lei 12.651/2012), nas <b>ADIs 4.901, 4.902, 4.903 e 4.937</b> e na <b>ADC 42</b> (2018). A Corte declarou constitucional a maior parte da lei, inclusive as regras de transição para quem desmatou antes de <b>22 de julho de 2008</b> (áreas rurais consolidadas), mas declarou inconstitucionais ou deu interpretação conforme a alguns pontos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ponto do Código Florestal</th><th>Decisão do STF (2018)</th></tr></thead><tbody><tr><td>Regime das <b>áreas rurais consolidadas</b> (desmatamento até 22/07/2008)</td><td><b>constitucional</b></td></tr><tr><td><b>Compensação</b> da reserva legal em outro imóvel do mesmo <b>bioma</b></td><td>constitucional, com interpretação conforme: exige <b>identidade ecológica</b> entre as áreas</td></tr><tr><td><b>Anistia</b> (suspensão de punibilidade) para quem aderir ao PRA</td><td>constitucional: não é anistia, mas suspensão condicionada ao cumprimento do termo de compromisso; a prescrição fica interrompida</td></tr><tr><td>Intervenção em APP por <b>utilidade pública</b> para <b>gestão de resíduos</b> e para <b>instalações de competições esportivas</b></td><td><b>inconstitucional</b> (expressões retiradas do art. 3º, VIII, \"b\")</td></tr><tr><td>Intervenção em APP por utilidade pública ou interesse social</td><td>interpretação conforme: só quando <b>inexistir alternativa técnica e locacional</b></td></tr><tr><td>Proteção do entorno de <b>nascentes e olhos d'água intermitentes</b></td><td>interpretação conforme: também são <b>APP</b></td></tr><tr><td>Uso de APP em pequena propriedade para <b>agricultura de vazante</b></td><td>constitucional</td></tr></tbody></table>\n<ul><li>A lição do julgamento: o STF não aplica a vedação do retrocesso de forma absoluta. O legislador tem <b>margem de conformação</b> para fazer escolhas políticas, desde que não reduza o núcleo essencial do direito ao meio ambiente equilibrado e não deixe a proteção <b>deficiente</b> (vedação da proteção insuficiente, dimensão do princípio da proporcionalidade).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADPF 747 e ADPF 748 (Resoluções CONAMA, 2021)</b><p class=\"jc-tese\">O STF declarou inconstitucional a <b>Resolução CONAMA 500/2020</b>, que havia revogado resoluções que protegiam <b>manguezais e restingas</b> (Resoluções 302 e 303/2002) e que tratavam do licenciamento de irrigação (Resolução 284/2001), restaurando a vigência das normas revogadas. A Corte entendeu que a revogação, sem substituição por norma equivalente, gerava <b>retrocesso</b> e <b>proteção deficiente</b>.</p><p class=\"jc-com\">Esse caso é o exemplo mais citado de aplicação do <b>princípio da vedação do retrocesso</b> a <b>atos infralegais</b>. Mostra que a revogação de normas ambientais protetivas sem justificativa técnica e sem nova regulação pode ser inconstitucional.</p></div>\n<h3>15. Litigância climática e as \"pautas verdes\" do STF</h3>\n<ul><li>A partir de 2020, o STF julgou um conjunto de ações sobre a política ambiental federal, chamadas de <b>\"pauta verde\"</b>. Elas consolidaram o <b>dever estatal de proteção</b> do meio ambiente e do clima:</li></ul>\n<table class=\"tab\"><thead><tr><th>Ação</th><th>O que o STF decidiu</th></tr></thead><tbody><tr><td><b>ADPF 708</b> (Fundo Clima, 2022)</td><td>o Poder Executivo tem o <b>dever constitucional</b> de fazer funcionar e alocar anualmente os recursos do Fundo Clima; é <b>vedado o contingenciamento</b>; os <b>tratados de direito ambiental</b> são espécie do gênero tratados de <b>direitos humanos</b> e têm <b>status supranacional</b> (supralegal)</td></tr><tr><td><b>ADO 59</b> (Fundo Amazônia, 2022)</td><td>reconheceu a <b>omissão inconstitucional</b> da União pela paralisação do Fundo Amazônia e determinou sua reativação em 60 dias</td></tr><tr><td><b>ADPF 760</b> (PPCDAm, 2024)</td><td>reconheceu falhas estruturais na proteção da Amazônia e determinou a execução efetiva do Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal, com metas de redução do desmatamento</td></tr><tr><td><b>ADPFs 743, 746 e 857</b> (queimadas, 2024)</td><td>reconheceu omissão na prevenção e combate aos incêndios no Pantanal e na Amazônia; determinou planos e medidas de prevenção e combate ao fogo</td></tr><tr><td><b>ADI 6.148</b> (2022)</td><td>considerou <b>ainda constitucional</b> a Resolução CONAMA 491/2018 sobre padrões de qualidade do ar, mas apelou ao CONAMA para editar nova norma em 24 meses; depois veio a Lei 14.850/2024 (Política Nacional de Qualidade do Ar)</td></tr></tbody></table>\n<ul><li><b>Política Nacional sobre Mudança do Clima</b>: Lei <b>12.187/2009</b>. O Brasil é signatário do <b>Acordo de Paris</b> (2015), promulgado pelo Decreto 9.073/2017, e assumiu metas de redução de emissões por meio de sua NDC (Contribuição Nacionalmente Determinada).</li><li><b>Mercado de carbono</b>: a <b>Lei 15.042/2024</b> instituiu o <b>Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE)</b>, com um mercado regulado para grandes emissores (acima de 10 mil toneladas de CO2 equivalente por ano, que devem monitorar e relatar emissões; acima de 25 mil, devem também cumprir limites). O <b>agronegócio primário</b> ficou fora da obrigação.</li><li><b>COP 30</b>: em <b>novembro de 2025</b>, o Brasil sediou em <b>Belém (PA)</b> a 30ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima. Questões de atualidades e de discursiva podem relacionar o tema com a proteção constitucional da Floresta Amazônica (patrimônio nacional, art. 225, § 4º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O STF entendeu que tratados ambientais têm status de lei ordinária</span><br>✅ <span class=\"certo\">Na ADPF 708, entendeu que são tratados de <b>direitos humanos</b>, com status <b>supralegal</b></span></li><li>❌ <span class=\"banca\">O Executivo pode contingenciar livremente os recursos do Fundo Clima</span><br>✅ <span class=\"certo\">O STF <b>vedou</b> o contingenciamento (ADPF 708)</span></li><li>❌ <span class=\"banca\">A vedação do retrocesso é absoluta segundo o STF</span><br>✅ <span class=\"certo\">É aplicada com <b>moderação</b>, respeitando a margem do legislador, mas impede a proteção <b>deficiente</b></span></li></ol></div>\n<h3>16. Meio ambiente e terras indígenas, povos e comunidades tradicionais</h3>\n<ul><li><b>Art. 231</b>: são reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os <b>direitos originários</b> sobre as terras que tradicionalmente ocupam. As terras tradicionalmente ocupadas incluem as <b>imprescindíveis à preservação dos recursos ambientais</b> necessários a seu bem-estar (§ 1º). São <b>bens da União</b> (art. 20, XI), <b>inalienáveis, indisponíveis</b>, e os direitos sobre elas <b>imprescritíveis</b> (§ 4º).</li><li><b>Aproveitamento de recursos hídricos e minerais em terras indígenas</b> (§ 3º): só pode ser efetivado com <b>autorização do Congresso Nacional</b>, <b>ouvidas as comunidades afetadas</b>, ficando-lhes assegurada participação nos resultados da lavra, na forma da lei. A <b>Convenção 169 da OIT</b> garante a <b>consulta prévia, livre e informada</b>.</li><li><b>Marco temporal</b>: no <b>RE 1.017.365</b> (Tema 1.031, 2023), o STF <b>rejeitou</b> a tese do marco temporal (de que só seriam indígenas as terras ocupadas em 5/10/1988). Em reação, o Congresso aprovou a <b>Lei 14.701/2023</b>, que adotou o marco temporal, com vetos derrubados. A Lei 14.701 foi questionada no STF (ADC 87 e ADIs 7.582, 7.583 e 7.586). Depois de uma comissão especial de conciliação, o Plenário concluiu o julgamento em <b>dezembro de 2025</b> e <b>reafirmou</b> a inconstitucionalidade do <b>marco temporal</b>, derrubando também a regra que dispensava a <b>consulta</b> às comunidades em projetos de interesse nacional (art. 20, parágrafo único). A consulta prévia, livre e informada continua <b>obrigatória</b> quando o empreendimento afetar a posse indígena. Em prova objetiva, a posição do STF é que a proteção aos direitos originários <b>independe</b> de ocupação em 5/10/1988.</li><li><b>Comunidades quilombolas</b>: o ADCT, art. 68, reconhece a <b>propriedade definitiva</b> aos remanescentes das comunidades dos quilombos que estejam ocupando suas terras, devendo o Estado emitir-lhes os títulos. O STF validou o Decreto 4.887/2003 (ADI 3.239), que adota o critério da <b>autoatribuição</b>.</li></ul>\n<h3>17. O Município e o meio ambiente na prática da Procuradoria</h3>\n<ul><li>O Procurador Municipal lida com o meio ambiente em várias frentes: <b>defesa</b> do Município em ações civis públicas por omissão na fiscalização (Súmula 652), <b>cobrança</b> de multas ambientais municipais (inscrição em dívida ativa e execução fiscal), <b>pareceres</b> sobre licenciamento de impacto local, <b>termos de ajustamento de conduta</b> (TAC) e <b>elaboração de leis</b> municipais ambientais.</li><li><b>TAC</b> (Lei 7.347/1985, art. 5º, § 6º): os órgãos públicos legitimados à ação civil pública podem tomar dos interessados <b>compromisso de ajustamento de sua conduta</b> às exigências legais, mediante cominações, que terá eficácia de <b>título executivo extrajudicial</b>. O <b>Município</b> é legitimado e pode celebrar TAC. As <b>associações não podem</b> tomar TAC, porque não são \"órgãos públicos\".</li><li><b>Competência para licenciar</b>: o Município licencia as atividades de <b>impacto local</b>, conforme tipologia definida pelo <b>Conselho Estadual de Meio Ambiente</b> (em Minas Gerais, o COPAM, Deliberação Normativa COPAM 213/2017 e alterações), desde que tenha <b>órgão ambiental capacitado</b> e <b>conselho de meio ambiente</b> (LC 140, art. 5º e art. 15). Se não tiver, o Estado atua de forma <b>supletiva</b>.</li><li><b>Poder de polícia ambiental municipal</b>: o Município pode fiscalizar e autuar, com base em lei municipal que defina infrações e sanções. Lembre-se de que <b>sanção administrativa precisa de lei</b> (princípio da legalidade); o decreto não pode criar infração sem base legal.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O Município e a mineradora</b><p>Uma mineradora explora areia no leito de um rio que corta o Município, com licença estadual. Moradores reclamam do assoreamento e de buracos nas margens. O Prefeito pergunta ao Procurador se o Município pode autuar a empresa e exigir recuperação.</p><details><summary>Ver a solução comentada</summary><p>O licenciamento é do <b>Estado</b>, e, pela LC 140 (art. 17), o auto de infração cabe em regra ao órgão licenciador. Mas o Município tem competência <b>comum</b> de fiscalização (art. 23, VI) e pode, diante de dano iminente ou em curso, adotar <b>medidas para evitá-lo</b>, comunicando o órgão estadual (art. 17, § 2º). Se o Estado for omisso, o Município pode atuar <b>supletivamente</b> (ADI 4.757). O dever de <b>recuperar</b> o ambiente degradado pela mineração está no art. 225, § 2º. O Município também pode propor <b>ação civil pública</b> ou firmar <b>TAC</b> com a empresa, e comunicar o MP.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A lei municipal das sacolas plásticas</b><p>A Câmara aprova lei proibindo sacolas plásticas descartáveis nos supermercados da cidade. Um sindicato de comerciantes alega que só a União poderia legislar sobre o tema.</p><details><summary>Ver a solução comentada</summary><p>O STF, no <b>Tema 970</b> (RE 732.686, 2022), fixou que \"é constitucional, formal e materialmente, lei municipal que obriga a substituição de sacos e sacolas plásticos por sacos e sacolas biodegradáveis\". A matéria é de <b>interesse local</b> e de proteção ambiental (art. 30, I, e art. 24, VI), compatível com a Política Nacional de Resíduos Sólidos. A lei é válida.</p></details></div>\n<h3>18. Patrimônio cultural: o meio ambiente cultural na Constituição</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CF, art. 216, caput e § 1º</div><div class=\"art-lei\">Constituem patrimônio cultural brasileiro os bens de natureza material e imaterial, tomados individualmente ou em conjunto, portadores de referência à identidade, à ação, à memória dos diferentes grupos formadores da sociedade brasileira, nos quais se incluem: I - as formas de expressão; II - os modos de criar, fazer e viver; III - as criações científicas, artísticas e tecnológicas; IV - as obras, objetos, documentos, edificações e demais espaços destinados às manifestações artístico-culturais; V - os conjuntos urbanos e sítios de valor histórico, paisagístico, artístico, arqueológico, paleontológico, ecológico e científico. § 1º O Poder Público, com a colaboração da comunidade, promoverá e protegerá o patrimônio cultural brasileiro, por meio de inventários, registros, vigilância, tombamento e desapropriação, e de outras formas de acautelamento e preservação.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Bens materiais E imateriais</li><li>Instrumentos: inventários, registros, vigilância, tombamento, desapropriação (rol exemplificativo: \"e de outras formas\")</li><li>Poder Público COM a colaboração da comunidade</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>O tombamento é o instrumento mais conhecido, mas não o único. O registro é o instrumento típico dos bens imateriais (Decreto 3.551/2000).</li></ul></div></div>\n<ul><li><b>Tombamento</b> (Decreto-Lei 25/1937): é a forma de intervenção do Estado na propriedade privada que <b>restringe</b> o uso do bem para preservar seu valor histórico, artístico, paisagístico. Pode ser feito pela <b>União</b> (IPHAN), pelos <b>Estados</b> (em Minas Gerais, IEPHA) e pelos <b>Municípios</b> (conselho municipal de patrimônio). O STF admite que o Município tombe bem do Estado e que o Estado tombe bem do Município, com base no art. 23, III (competência comum de proteger bens de valor histórico); a regra hierárquica do DL 3.365/1941 para desapropriação não se aplica automaticamente ao tombamento, segundo a jurisprudência do STJ (RMS 18.952).</li><li><b>Efeitos do tombamento</b>: o proprietário não pode destruir, demolir ou mutilar o bem, nem repará-lo, pintá-lo ou restaurá-lo sem <b>prévia autorização</b> do órgão de proteção (DL 25, art. 17); a vizinhança não pode construir ou colocar anúncios que <b>impeçam ou reduzam a visibilidade</b> do bem tombado (art. 18). Em regra, o tombamento <b>não gera indenização</b>, salvo se esvaziar o conteúdo econômico da propriedade.</li><li><b>Direito de preferência</b>: o art. 22 do DL 25/1937, que dava preferência à União, Estados e Municípios na alienação de bens tombados, foi <b>revogado</b> pelo <b>CPC de 2015</b> (art. 1.072, I). Hoje, o que existe é a regra do art. 892, § 3º, do CPC: no caso de leilão de bem tombado, a União, os Estados e os Municípios terão, nessa ordem, o <b>direito de preferência</b> na arrematação, em igualdade de oferta.</li><li><b>Danos ao patrimônio cultural</b> (art. 216, § 4º): \"Os danos e ameaças ao patrimônio cultural serão punidos, na forma da lei.\" Os crimes contra o ordenamento urbano e o patrimônio cultural estão nos <b>arts. 62 a 65 da Lei 9.605/1998</b>, incluindo a <b>pichação</b> de edificação ou monumento urbano (art. 65). A <b>grafitagem</b> realizada com o objetivo de valorizar o patrimônio público ou privado, mediante manifestação artística, <b>não constitui crime</b>, desde que consentida pelo proprietário (ou, no caso de bem público, com autorização do órgão competente), observadas as posturas municipais e as normas do órgão de patrimônio (§ 2º, Lei 12.408/2011).</li><li><b>Quilombos</b> (art. 216, § 5º): ficam <b>tombados</b> todos os documentos e os sítios detentores de reminiscências históricas dos antigos quilombos. É um dos raros casos de <b>tombamento constitucional</b> (feito diretamente pela Constituição).</li><li><b>Incentivo à cultura</b> (art. 216, § 6º): é facultado aos <b>Estados e ao Distrito Federal</b> vincular a <b>fundo estadual de fomento à cultura</b> até <b>cinco décimos por cento</b> de sua receita tributária líquida, para o financiamento de programas e projetos culturais, vedada a aplicação desses recursos no pagamento de despesas com pessoal, serviço da dívida ou qualquer despesa corrente não vinculada diretamente aos investimentos ou ações apoiados.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O tombamento é o único instrumento constitucional de proteção do patrimônio cultural</span><br>✅ <span class=\"certo\">O rol inclui inventários, registros, vigilância, tombamento, desapropriação \"e outras formas\"</span></li><li>❌ <span class=\"banca\">Só a União pode tombar bens</span><br>✅ <span class=\"certo\">A competência é <b>comum</b> (art. 23, III): União, Estados, DF e Municípios</span></li><li>❌ <span class=\"banca\">O tombamento sempre gera indenização</span><br>✅ <span class=\"certo\">Em regra <b>não</b>, salvo esvaziamento econômico</span></li><li>❌ <span class=\"banca\">A grafitagem é sempre crime</span><br>✅ <span class=\"certo\">Não é crime quando consentida e voltada a valorizar o bem (Lei 9.605, art. 65, § 2º)</span></li></ol></div>\n<h3>19. Bens ambientais e domínio: quem é dono do quê</h3>\n<ul><li>Saber a quem pertence o bem ambiental é importante para definir a <b>competência</b> (Justiça Federal ou Estadual), o <b>licenciamento</b> e a <b>titularidade</b> da ação. A Constituição distribui os bens entre União e Estados:</li></ul>\n<table class=\"tab\"><thead><tr><th>Bem</th><th>De quem é</th><th>Dispositivo</th></tr></thead><tbody><tr><td>Lagos, rios e correntes de água em terrenos de domínio da União, ou que banhem <b>mais de um Estado</b>, sirvam de limites com outros países, ou se estendam a território estrangeiro ou dele provenham</td><td><b>União</b></td><td>art. 20, III</td></tr><tr><td>Recursos naturais da <b>plataforma continental</b> e da <b>zona econômica exclusiva</b></td><td><b>União</b></td><td>art. 20, V</td></tr><tr><td><b>Mar territorial</b></td><td><b>União</b></td><td>art. 20, VI</td></tr><tr><td><b>Terrenos de marinha</b> e seus acrescidos</td><td><b>União</b></td><td>art. 20, VII</td></tr><tr><td><b>Potenciais de energia hidráulica</b></td><td><b>União</b></td><td>art. 20, VIII</td></tr><tr><td><b>Recursos minerais</b>, inclusive os do subsolo</td><td><b>União</b></td><td>art. 20, IX</td></tr><tr><td><b>Cavidades naturais subterrâneas</b> e sítios arqueológicos e pré-históricos</td><td><b>União</b></td><td>art. 20, X</td></tr><tr><td><b>Terras indígenas</b></td><td><b>União</b></td><td>art. 20, XI</td></tr><tr><td><b>Águas</b> superficiais ou subterrâneas, fluentes, emergentes e em depósito, ressalvadas as da União</td><td><b>Estados</b></td><td>art. 26, I</td></tr><tr><td>Ilhas fluviais e lacustres não pertencentes à União</td><td><b>Estados</b></td><td>art. 26, III</td></tr><tr><td>Terras devolutas não compreendidas entre as da União</td><td><b>Estados</b></td><td>art. 26, IV</td></tr></tbody></table>\n<ul><li><b>Águas e Municípios</b>: os Municípios <b>não têm</b> águas em seu domínio pela Constituição. A água é de domínio <b>público</b> (Lei 9.433/1997, art. 1º, I), da União ou dos Estados. O Município pode, porém, prestar o serviço de <b>saneamento básico</b> (titularidade municipal nos casos de interesse local, Lei 11.445/2007, art. 8º, com as alterações do Marco Legal do Saneamento, Lei 14.026/2020).</li><li><b>Compensação financeira</b> (art. 20, § 1º): é assegurada, nos termos da lei, à União, aos Estados, ao DF e aos <b>Municípios</b> participação no resultado da exploração de petróleo ou gás natural, de recursos hídricos para geração de energia elétrica e de outros recursos minerais no respectivo território, ou <b>compensação financeira</b> por essa exploração. A <b>CFEM</b> (Compensação Financeira pela Exploração de Recursos Minerais) é a principal fonte para Municípios mineradores, como muitos de Minas Gerais. Segundo a Lei 13.540/2017, a distribuição da CFEM é de <b>10% para a União</b>, <b>15% para o Estado</b>, <b>60% para o Município produtor</b> e <b>15% para Municípios afetados</b> pela atividade de mineração (por exemplo, cortados por ferrovias ou com instalações de embarque).</li><li><b>Competência jurisdicional</b>: o simples fato de o dano ocorrer em área de <b>patrimônio nacional</b> (art. 225, § 4º) <b>não</b> atrai a competência da Justiça Federal, pois patrimônio nacional não é bem da União. A competência federal exige <b>interesse direto</b> da União, autarquia ou empresa pública federal (art. 109, I e IV), como dano em rio federal, unidade de conservação federal, terra indígena ou mar territorial. O STF já decidiu nesse sentido (RE 300.244, sobre a Mata Atlântica).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Mata Atlântica não é bem da União (RE 300.244)</b><p class=\"jc-tese\">O STF decidiu que o crime de desmatamento em área de Mata Atlântica, por si só, não atrai a competência da Justiça Federal, porque o art. 225, § 4º, ao declarar a Mata Atlântica <b>patrimônio nacional</b>, não a transformou em <b>bem da União</b>. A competência é da <b>Justiça Estadual</b>, salvo se houver lesão a bem, serviço ou interesse direto e específico da União (por exemplo, unidade de conservação federal).</p><p class=\"jc-com\">Em prova, sempre pergunte: o dano atingiu um <b>bem da União</b> (art. 20) ou um interesse federal específico? Se sim, Justiça Federal. Se não, Justiça Estadual. Patrimônio nacional, sozinho, não basta.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os Municípios são titulares de águas pela Constituição</span><br>✅ <span class=\"certo\">As águas são da <b>União</b> ou dos <b>Estados</b> (arts. 20, III, e 26, I)</span></li><li>❌ <span class=\"banca\">Crime ambiental na Mata Atlântica é sempre da Justiça Federal</span><br>✅ <span class=\"certo\">Patrimônio nacional não é bem da União; em regra, <b>Justiça Estadual</b></span></li><li>❌ <span class=\"banca\">Os recursos minerais pertencem ao proprietário do solo</span><br>✅ <span class=\"certo\">São bens da <b>União</b> (art. 20, IX); ao proprietário do solo é assegurada participação nos resultados da lavra (art. 176, § 2º)</span></li><li>❌ <span class=\"banca\">A CFEM fica toda com a União</span><br>✅ <span class=\"certo\">O <b>Município produtor</b> fica com a maior parte (60%)</span></li></ol></div>\n<h3>20. Como as bancas cobram este tópico</h3>\n<ul><li><b>Letra do art. 225</b>: trocas de palavras (\"Poder Público e coletividade\", \"presentes e futuras gerações\", \"somente através de lei\", \"a que se dará publicidade\", \"em todos os níveis de ensino\"). A Consulplan costuma copiar o texto e alterar <b>um</b> termo.</li><li><b>Lista do § 4º</b>: incluir <b>Cerrado</b>, <b>Caatinga</b> ou <b>Pampa</b> é erro clássico.</li><li><b>Princípios</b>: diferenciar <b>prevenção</b> e <b>precaução</b>, <b>poluidor-pagador</b> e <b>usuário-pagador</b>, e lembrar o <b>protetor-recebedor</b>.</li><li><b>Súmulas do STJ</b> (613, 618, 623, 629, 652) e <b>Tema 999</b> do STF (imprescritibilidade da reparação): caem quase sempre em provas de procuradoria e magistratura.</li><li><b>Competências</b>: Tema 145 (Município legisla no interesse local), art. 24, § 4º (suspende a eficácia), LC 140/2011 (licenciamento por um único ente; auto de infração do órgão licenciador; atuação supletiva).</li><li><b>Responsabilidade</b>: civil objetiva com <b>risco integral</b>; administrativa <b>subjetiva</b>; penal da pessoa jurídica <b>sem dupla imputação</b>.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para memorizar o § 4º: <b>\"A Mata Serra o Pantanal na Costa\"</b>: <b>A</b>mazônica, <b>Mata</b> Atlântica, <b>Serra</b> do Mar, <b>Pantanal</b> Mato-Grossense, Zona <b>Costeira</b>. Quem não está na frase (Cerrado, Caatinga, Pampa) não está no § 4º.</div>\n<h3>21. Casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Casa antiga na beira do rio</b><p>Em ação civil pública, o MP pede a demolição de uma casa construída há 30 anos dentro da APP de um rio, em área urbana. O proprietário alega que comprou o imóvel já construído, que o bairro inteiro está ocupado e que o Município sempre cobrou IPTU.</p><details><summary>Ver a solução comentada</summary><p>Nenhum dos argumentos afasta a responsabilidade. A obrigação ambiental é <b>propter rem</b> (Súmula 623): o adquirente responde ainda que não tenha construído. Não se aplica a teoria do <b>fato consumado</b> (Súmula 613), e a cobrança de IPTU não legitima a ocupação irregular. A pretensão de reparação é <b>imprescritível</b> (Tema 999). Ainda assim, o juiz pode avaliar alternativas como a <b>regularização fundiária urbana</b> (Reurb, Lei 13.465/2017) e as regras específicas para APP em área urbana consolidada (Lei 14.285/2021, que permitiu aos Municípios definir faixas marginais distintas em áreas urbanas consolidadas, ouvidos os conselhos de meio ambiente).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Rompimento de barragem por chuva extrema</b><p>Uma barragem de rejeitos se rompe após chuvas muito acima da média histórica. A mineradora alega força maior e diz que a barragem tinha todas as licenças.</p><details><summary>Ver a solução comentada</summary><p>No campo <b>civil</b>, a mineradora responde pelo dano independentemente de culpa e <b>sem excludentes</b>, porque o STJ adota o <b>risco integral</b> em matéria ambiental. A licença ambiental não afasta o dever de reparar (licença não é salvo-conduto para poluir). No campo <b>administrativo</b>, a multa exige culpa (responsabilidade subjetiva), e a força maior pode ser discutida. No campo <b>penal</b>, a empresa pode responder sozinha (sem dupla imputação), desde que a conduta decorra de decisão de seus órgãos, no seu interesse ou benefício.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Lei estadual que dispensa EIA</b><p>Um Estado aprova lei dispensando o EIA para todas as barragens de irrigação, independentemente do porte, para \"desburocratizar o agronegócio\".</p><details><summary>Ver a solução comentada</summary><p>A lei é <b>inconstitucional</b>. O art. 225, § 1º, IV, exige EIA para toda obra <b>potencialmente causadora de significativa degradação</b>. O Estado pode suplementar as normas gerais, mas não pode criar dispensa genérica que contrarie a exigência constitucional e reduza a proteção abaixo do padrão federal (proteção deficiente). O STF tem precedentes nesse sentido (ADI 1.086 e outras). O que a lei pode fazer é definir procedimentos simplificados para atividades de <b>baixo impacto</b>, com base técnica.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Multa ao comprador do terreno</b><p>O IBAMA multou o atual proprietário de uma fazenda pelo desmatamento ocorrido dois anos antes da compra, praticado pelo vendedor. O proprietário recorre.</p><details><summary>Ver a solução comentada</summary><p>A <b>multa</b> deve ser anulada: a responsabilidade <b>administrativa</b> é <b>subjetiva</b> e <b>pessoal</b> (EREsp 1.318.051), e o comprador não praticou a infração. Mas ele continua obrigado a <b>recuperar</b> a área degradada, porque a obrigação <b>civil</b> de reparar é <b>propter rem</b> (Súmula 623) e objetiva. Ou seja: a multa é do infrator; a recuperação acompanha o imóvel.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Precaução e antena de celular</b><p>Moradores pedem ao Município que proíba a instalação de uma estação rádio base (antena de telefonia) perto de uma escola, alegando riscos à saúde. Não há estudo conclusivo.</p><details><summary>Ver a solução comentada</summary><p>O princípio da <b>precaução</b> justifica cautela diante de incerteza científica, mas exige <b>proporcionalidade</b>. O STF, no Tema 479 (campos eletromagnéticos), admitiu os parâmetros da <b>OMS</b> adotados pela Lei 11.934/2009. Além disso, a competência para legislar sobre <b>telecomunicações</b> é <b>privativa da União</b> (art. 22, IV), e o STF já declarou inconstitucionais leis municipais que fixavam limites próprios de exposição a campos eletromagnéticos. O Município pode atuar no <b>uso e ocupação do solo</b> (licença urbanística para a torre), mas não pode criar limites de radiação diferentes dos federais.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Omissão do Município na fiscalização de loteamento</b><p>Um loteamento clandestino foi implantado em área de mata, com supressão de vegetação e lançamento de esgoto em córrego. O MP processa o loteador e o Município, alegando omissão na fiscalização.</p><details><summary>Ver a solução comentada</summary><p>O Município responde <b>solidariamente</b>, pela omissão no dever de fiscalizar, mas com <b>execução subsidiária</b> (Súmula 652): primeiro executa-se o loteador. O Município também tem o dever legal de <b>regularizar</b> o loteamento (Lei 6.766/1979, art. 40), podendo cobrar do loteador as despesas. Na defesa, o Procurador deve demonstrar as medidas de fiscalização adotadas (notificações, embargos, autos), pois a omissão precisa ser comprovada.</p></details></div>\n<h3>22. Questões comentadas</h3>\n<ul><li><b>\"O direito ao meio ambiente ecologicamente equilibrado é de titularidade exclusiva dos brasileiros natos e naturalizados.\"</b> Errado: \"<b>todos</b>\" têm direito, inclusive estrangeiros e as futuras gerações.</li><li><b>\"A alteração e a supressão de espaços territoriais especialmente protegidos somente são permitidas através de lei.\"</b> Certo: art. 225, § 1º, III.</li><li><b>\"Segundo a Constituição, o Cerrado e a Caatinga integram o patrimônio nacional.\"</b> Errado: o § 4º lista Floresta Amazônica, Mata Atlântica, Serra do Mar, Pantanal Mato-Grossense e Zona Costeira.</li><li><b>\"Não se consideram cruéis as práticas desportivas que utilizem animais, desde que sejam manifestações culturais registradas como patrimônio imaterial e regulamentadas por lei específica que assegure o bem-estar animal.\"</b> Certo: § 7º (EC 96/2017).</li><li><b>\"A pretensão de reparação civil de dano ambiental prescreve em cinco anos.\"</b> Errado: é <b>imprescritível</b> (Tema 999 do STF).</li><li><b>\"A responsabilidade administrativa ambiental, segundo o STJ, é objetiva.\"</b> Errado: é <b>subjetiva</b>; a objetiva é a <b>civil</b>.</li><li><b>\"Admite-se a teoria do fato consumado em matéria ambiental, quando a ocupação for antiga e consolidada.\"</b> Errado: Súmula 613 do STJ.</li><li><b>\"A responsabilidade civil da Administração Pública por danos ao meio ambiente decorrente de omissão no dever de fiscalização é de caráter solidário, mas de execução subsidiária.\"</b> Certo: Súmula 652 do STJ.</li><li><b>\"O princípio da precaução aplica-se quando o risco é certo e conhecido.\"</b> Errado: é a <b>prevenção</b>; a precaução lida com a <b>incerteza</b>.</li><li><b>\"O município é competente para legislar sobre meio ambiente, no limite de seu interesse local e em harmonia com a disciplina dos demais entes.\"</b> Certo: Tema 145 do STF.</li><li><b>\"A superveniência de lei federal sobre normas gerais revoga a lei estadual no que lhe for contrário.\"</b> Errado: <b>suspende a eficácia</b> (art. 24, § 4º).</li><li><b>\"Para a responsabilização penal da pessoa jurídica por crime ambiental, é indispensável a imputação simultânea à pessoa física responsável.\"</b> Errado: RE 548.181 do STF.</li><li><b>\"As usinas que operem com reator nuclear deverão ter sua localização definida em lei federal.\"</b> Certo: § 6º.</li><li><b>\"Incumbe ao Poder Público promover a educação ambiental apenas no ensino fundamental e médio.\"</b> Errado: em <b>todos os níveis</b> de ensino.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Licença ambiental exclui o dever de reparar o dano</span><br>✅ <span class=\"certo\">A licença <b>não</b> afasta a responsabilidade civil objetiva</span></li><li>❌ <span class=\"banca\">O Município pode fixar limites próprios de radiação de antenas</span><br>✅ <span class=\"certo\">Telecomunicações é competência <b>privativa da União</b></span></li><li>❌ <span class=\"banca\">A omissão do Município gera execução direta e prioritária contra ele</span><br>✅ <span class=\"certo\">A execução é <b>subsidiária</b> (Súmula 652)</span></li></ol></div>",
+"quiz": [
+{
+"p": "Segundo a Constituição, o meio ambiente ecologicamente equilibrado é bem de uso comum do povo e essencial à sadia qualidade de vida.",
+"c": true,
+"prof": "Art. 225, caput.",
+"x": "Letra da lei.",
+"e": "Caput"
+},
+{
+"p": "O dever de defender e preservar o meio ambiente é imposto pela Constituição exclusivamente ao Poder Público.",
+"c": false,
+"prof": "Art. 225, caput.",
+"x": "Poder Público e coletividade.",
+"e": "Dever"
+},
+{
+"p": "A proteção constitucional do meio ambiente abrange as presentes e as futuras gerações.",
+"c": true,
+"prof": "Art. 225, caput.",
+"x": "Solidariedade intergeracional.",
+"e": "Gerações"
+},
+{
+"p": "Segundo o STF, o direito ao meio ambiente ecologicamente equilibrado é direito fundamental de terceira dimensão.",
+"c": true,
+"prof": "MS 22.164.",
+"x": "Solidariedade.",
+"e": "Dimensão"
+},
+{
+"p": "A Constituição de 1967 já possuía capítulo próprio dedicado ao meio ambiente.",
+"c": false,
+"prof": "Histórico.",
+"x": "1988 foi a primeira.",
+"e": "Histórico"
+},
+{
+"p": "A definição de espaços territoriais especialmente protegidos pode ocorrer por ato do Poder Executivo, mas sua alteração e supressão somente são permitidas através de lei.",
+"c": true,
+"prof": "Art. 225, § 1º, III.",
+"x": "Criação x supressão.",
+"e": "Espaços protegidos"
+},
+{
+"p": "É constitucional a redução de unidade de conservação por medida provisória, desde que posteriormente convertida em lei.",
+"c": false,
+"prof": "ADI 4.717.",
+"x": "STF vedou.",
+"e": "UC por MP"
+},
+{
+"p": "Incumbe ao Poder Público exigir, na forma da lei, estudo prévio de impacto ambiental para obra potencialmente causadora de significativa degradação, a que se dará publicidade.",
+"c": true,
+"prof": "Art. 225, § 1º, IV.",
+"x": "EIA público.",
+"e": "EIA"
+},
+{
+"p": "O estudo prévio de impacto ambiental é sigiloso, para proteger o segredo industrial do empreendedor.",
+"c": false,
+"prof": "Art. 225, § 1º, IV.",
+"x": "A ele se dará publicidade.",
+"e": "Publicidade"
+},
+{
+"p": "A Constituição determina a promoção da educação ambiental apenas no ensino fundamental.",
+"c": false,
+"prof": "Art. 225, § 1º, VI.",
+"x": "Todos os níveis.",
+"e": "Educação"
+},
+{
+"p": "A EC 123/2022 incluiu no art. 225 a manutenção de regime fiscal favorecido para os biocombustíveis.",
+"c": true,
+"prof": "Art. 225, § 1º, VIII.",
+"x": "Tributação inferior aos fósseis.",
+"e": "Biocombustíveis"
+},
+{
+"p": "Aquele que explorar recursos minerais fica obrigado a recuperar o meio ambiente degradado, de acordo com solução técnica exigida pelo órgão público competente.",
+"c": true,
+"prof": "Art. 225, § 2º.",
+"x": "Mineração.",
+"e": "Mineração"
+},
+{
+"p": "As condutas lesivas ao meio ambiente sujeitam os infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas, independentemente da obrigação de reparar os danos.",
+"c": true,
+"prof": "Art. 225, § 3º.",
+"x": "Tríplice responsabilidade.",
+"e": "Tríplice"
+},
+{
+"p": "A Floresta Amazônica, a Mata Atlântica, o Cerrado e o Pantanal são patrimônio nacional, segundo o art. 225, § 4º.",
+"c": false,
+"prof": "Art. 225, § 4º.",
+"x": "Cerrado não consta.",
+"e": "Patrimônio nacional"
+},
+{
+"p": "A Zona Costeira e a Serra do Mar integram o patrimônio nacional.",
+"c": true,
+"prof": "Art. 225, § 4º.",
+"x": "Lista constitucional.",
+"e": "Patrimônio nacional"
+},
+{
+"p": "A declaração da Mata Atlântica como patrimônio nacional converteu os imóveis privados nela situados em bens da União.",
+"c": false,
+"prof": "RE 134.297.",
+"x": "Regime especial de uso.",
+"e": "Patrimônio nacional"
+},
+{
+"p": "São indisponíveis as terras devolutas ou arrecadadas pelos Estados, por ações discriminatórias, necessárias à proteção dos ecossistemas naturais.",
+"c": true,
+"prof": "Art. 225, § 5º.",
+"x": "Indisponibilidade.",
+"e": "Terras devolutas"
+},
+{
+"p": "A localização das usinas que operem com reator nuclear pode ser definida por decreto do Presidente da República.",
+"c": false,
+"prof": "Art. 225, § 6º.",
+"x": "Lei federal.",
+"e": "Nuclear"
+},
+{
+"p": "Não se consideram cruéis as práticas desportivas que utilizem animais, desde que sejam manifestações culturais registradas como bem imaterial e regulamentadas por lei específica que assegure o bem-estar dos animais.",
+"c": true,
+"prof": "Art. 225, § 7º.",
+"x": "EC 96/2017.",
+"e": "Vaquejada"
+},
+{
+"p": "No julgamento da ADI 4.983, o STF declarou inconstitucional lei estadual que regulamentava a vaquejada, por crueldade intrínseca aos animais.",
+"c": true,
+"prof": "ADI 4.983.",
+"x": "Antes da EC 96.",
+"e": "Vaquejada"
+},
+{
+"p": "O STF reconheceu a farra do boi como manifestação cultural protegida pela Constituição.",
+"c": false,
+"prof": "RE 153.531.",
+"x": "Prática cruel.",
+"e": "Farra do boi"
+},
+{
+"p": "É constitucional lei de proteção animal que permite o sacrifício ritual de animais em cultos de religiões de matriz africana.",
+"c": true,
+"prof": "RE 494.601.",
+"x": "STF.",
+"e": "Sacrifício ritual"
+},
+{
+"p": "O meio ambiente do trabalho é mencionado expressamente na Constituição, entre as atribuições do SUS.",
+"c": true,
+"prof": "Art. 200, VIII.",
+"x": "Expresso.",
+"e": "Trabalho"
+},
+{
+"p": "O patrimônio cultural brasileiro abrange bens de natureza material e imaterial.",
+"c": true,
+"prof": "Art. 216.",
+"x": "Material e imaterial.",
+"e": "Cultural"
+},
+{
+"p": "O tombamento é o único instrumento constitucional de proteção do patrimônio cultural.",
+"c": false,
+"prof": "Art. 216, § 1º.",
+"x": "Inventários, registros, vigilância, desapropriação e outras formas.",
+"e": "Instrumentos"
+},
+{
+"p": "Ficam tombados todos os documentos e os sítios detentores de reminiscências históricas dos antigos quilombos.",
+"c": true,
+"prof": "Art. 216, § 5º.",
+"x": "Tombamento constitucional.",
+"e": "Quilombos"
+},
+{
+"p": "Qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao meio ambiente.",
+"c": true,
+"prof": "Art. 5º, LXXIII.",
+"x": "Ação popular.",
+"e": "Ação popular"
+},
+{
+"p": "Pessoa jurídica pode propor ação popular ambiental.",
+"c": false,
+"prof": "Súmula 365 do STF.",
+"x": "Só cidadão.",
+"e": "Ação popular"
+},
+{
+"p": "A legitimação do Ministério Público para a ação civil pública ambiental é exclusiva.",
+"c": false,
+"prof": "Art. 129, § 1º.",
+"x": "Não impede a de terceiros.",
+"e": "ACP"
+},
+{
+"p": "A defesa do meio ambiente é princípio da ordem econômica, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e serviços.",
+"c": true,
+"prof": "Art. 170, VI.",
+"x": "EC 42/2003.",
+"e": "Ordem econômica"
+},
+{
+"p": "A função social da propriedade rural exige a utilização adequada dos recursos naturais disponíveis e a preservação do meio ambiente.",
+"c": true,
+"prof": "Art. 186, II.",
+"x": "Função socioambiental.",
+"e": "Propriedade rural"
+},
+{
+"p": "Após a EC 132/2023, a defesa do meio ambiente passou a ser princípio expresso do Sistema Tributário Nacional.",
+"c": true,
+"prof": "Art. 145, § 3º.",
+"x": "Reforma tributária.",
+"e": "Tributação"
+},
+{
+"p": "Proteger o meio ambiente e combater a poluição em qualquer de suas formas é competência comum da União, dos Estados, do Distrito Federal e dos Municípios.",
+"c": true,
+"prof": "Art. 23, VI.",
+"x": "Competência comum.",
+"e": "Competência"
+},
+{
+"p": "Legislar sobre florestas, caça, pesca, fauna e proteção do meio ambiente é competência concorrente da União, dos Estados e do DF.",
+"c": true,
+"prof": "Art. 24, VI.",
+"x": "Concorrente.",
+"e": "Competência"
+},
+{
+"p": "A superveniência de lei federal sobre normas gerais revoga a lei estadual no que lhe for contrário.",
+"c": false,
+"prof": "Art. 24, § 4º.",
+"x": "Suspende a eficácia.",
+"e": "Concorrente"
+},
+{
+"p": "Segundo o STF, o Município é competente para legislar sobre meio ambiente, no limite de seu interesse local e em harmonia com a disciplina dos demais entes.",
+"c": true,
+"prof": "Tema 145.",
+"x": "RE 586.224.",
+"e": "Município"
+},
+{
+"p": "Legislar sobre jazidas, minas e outros recursos minerais é competência concorrente.",
+"c": false,
+"prof": "Art. 22, XII.",
+"x": "Privativa da União.",
+"e": "Mineração"
+},
+{
+"p": "Segundo a LC 140/2011, os empreendimentos são licenciados ambientalmente por um único ente federativo.",
+"c": true,
+"prof": "LC 140, art. 13.",
+"x": "Licenciamento único.",
+"e": "LC 140"
+},
+{
+"p": "Segundo o STF, a prevalência do auto de infração do órgão licenciador não exclui a atuação supletiva de outro ente em caso de omissão ou insuficiência da fiscalização.",
+"c": true,
+"prof": "ADI 4.757.",
+"x": "LC 140, art. 17, § 3º.",
+"e": "Fiscalização"
+},
+{
+"p": "O princípio da precaução aplica-se a situações de incerteza científica sobre o risco ambiental.",
+"c": true,
+"prof": "Princípios.",
+"x": "Risco incerto.",
+"e": "Precaução"
+},
+{
+"p": "O princípio da prevenção aplica-se quando não há certeza científica sobre os riscos da atividade.",
+"c": false,
+"prof": "Princípios.",
+"x": "Isso é precaução.",
+"e": "Prevenção"
+},
+{
+"p": "O princípio do poluidor-pagador autoriza o empreendedor a poluir, desde que pague a respectiva compensação.",
+"c": false,
+"prof": "Princípios.",
+"x": "Internalização dos custos.",
+"e": "Poluidor-pagador"
+},
+{
+"p": "Pelo princípio do usuário-pagador, quem utiliza recurso natural com fins econômicos deve pagar pela utilização, ainda que não haja poluição.",
+"c": true,
+"prof": "Lei 6.938, art. 4º, VII.",
+"x": "Uso.",
+"e": "Usuário-pagador"
+},
+{
+"p": "O princípio do protetor-recebedor está previsto na Política Nacional de Resíduos Sólidos.",
+"c": true,
+"prof": "Lei 12.305, art. 6º, II.",
+"x": "PSA.",
+"e": "Protetor-recebedor"
+},
+{
+"p": "A responsabilidade civil por dano ambiental independe da existência de culpa.",
+"c": true,
+"prof": "Lei 6.938, art. 14, § 1º.",
+"x": "Objetiva.",
+"e": "Responsabilidade civil"
+},
+{
+"p": "Segundo o STJ, a responsabilidade civil ambiental é regida pela teoria do risco integral, não admitindo excludentes como o fato de terceiro.",
+"c": true,
+"prof": "Temas 681 e 707 do STJ.",
+"x": "Risco integral.",
+"e": "Risco integral"
+},
+{
+"p": "O caso fortuito e a força maior afastam a responsabilidade civil por dano ambiental, segundo o STJ.",
+"c": false,
+"prof": "Temas 681 e 707.",
+"x": "Risco integral.",
+"e": "Excludentes"
+},
+{
+"p": "É imprescritível a pretensão de reparação civil de dano ambiental.",
+"c": true,
+"prof": "Tema 999 do STF.",
+"x": "RE 654.833.",
+"e": "Imprescritibilidade"
+},
+{
+"p": "As multas administrativas ambientais são imprescritíveis, assim como a reparação civil do dano.",
+"c": false,
+"prof": "Decreto 6.514, art. 21.",
+"x": "Prescrevem em 5 anos.",
+"e": "Prescrição"
+},
+{
+"p": "Não se admite a aplicação da teoria do fato consumado em tema de Direito Ambiental.",
+"c": true,
+"prof": "Súmula 613 do STJ.",
+"x": "Fato consumado.",
+"e": "Súmula 613"
+},
+{
+"p": "A inversão do ônus da prova aplica-se às ações de degradação ambiental.",
+"c": true,
+"prof": "Súmula 618 do STJ.",
+"x": "Precaução.",
+"e": "Súmula 618"
+},
+{
+"p": "As obrigações ambientais possuem natureza propter rem, podendo ser cobradas do proprietário atual e/ou dos anteriores, à escolha do credor.",
+"c": true,
+"prof": "Súmula 623 do STJ.",
+"x": "Propter rem.",
+"e": "Súmula 623"
+},
+{
+"p": "O adquirente de imóvel rural não responde pela recomposição de área desmatada pelo antigo proprietário.",
+"c": false,
+"prof": "Súmula 623 do STJ.",
+"x": "Responde.",
+"e": "Propter rem"
+},
+{
+"p": "Admite-se a condenação do réu à obrigação de fazer ou não fazer cumulada com a de indenizar em matéria de dano ambiental.",
+"c": true,
+"prof": "Súmula 629 do STJ.",
+"x": "Cumulação.",
+"e": "Súmula 629"
+},
+{
+"p": "A responsabilidade civil da Administração por dano ambiental decorrente de omissão no dever de fiscalizar é solidária, mas de execução subsidiária.",
+"c": true,
+"prof": "Súmula 652 do STJ.",
+"x": "Omissão.",
+"e": "Súmula 652"
+},
+{
+"p": "A responsabilidade do Estado por omissão na fiscalização ambiental é subsidiária quanto à obrigação e quanto à execução.",
+"c": false,
+"prof": "Súmula 652 do STJ.",
+"x": "Solidária, com execução subsidiária.",
+"e": "Omissão"
+},
+{
+"p": "Segundo a jurisprudência do STJ, a responsabilidade administrativa ambiental é subjetiva, exigindo dolo ou culpa do infrator.",
+"c": true,
+"prof": "EREsp 1.318.051.",
+"x": "Subjetiva.",
+"e": "Administrativa"
+},
+{
+"p": "O atual proprietário pode ser multado pelo IBAMA por desmatamento praticado exclusivamente pelo antigo dono.",
+"c": false,
+"prof": "EREsp 1.318.051.",
+"x": "Sanção é pessoal.",
+"e": "Multa"
+},
+{
+"p": "O STF afastou a exigência de dupla imputação para a responsabilização penal da pessoa jurídica por crime ambiental.",
+"c": true,
+"prof": "RE 548.181.",
+"x": "Pessoa jurídica.",
+"e": "Dupla imputação"
+},
+{
+"p": "A Lei 9.605/1998 adota a teoria menor da desconsideração da personalidade jurídica.",
+"c": true,
+"prof": "Lei 9.605, art. 4º.",
+"x": "Obstáculo ao ressarcimento.",
+"e": "Desconsideração"
+},
+{
+"p": "Os maus-tratos a cão ou gato são punidos com reclusão de 2 a 5 anos, multa e proibição da guarda.",
+"c": true,
+"prof": "Lei 9.605, art. 32, § 1º-A.",
+"x": "Lei 14.064/2020.",
+"e": "Maus-tratos"
+},
+{
+"p": "Na ADPF 708, o STF entendeu que os tratados de direito ambiental são espécie de tratados de direitos humanos e têm status supralegal.",
+"c": true,
+"prof": "ADPF 708.",
+"x": "Fundo Clima.",
+"e": "Tratados"
+},
+{
+"p": "Segundo o STF, os recursos do Fundo Clima podem ser livremente contingenciados pelo Poder Executivo.",
+"c": false,
+"prof": "ADPF 708.",
+"x": "Vedado.",
+"e": "Fundo Clima"
+},
+{
+"p": "O STF declarou inconstitucional a Resolução CONAMA 500/2020, que revogava normas de proteção de manguezais e restingas, aplicando a vedação do retrocesso.",
+"c": true,
+"prof": "ADPFs 747 e 748.",
+"x": "Retrocesso.",
+"e": "Retrocesso"
+},
+{
+"p": "No julgamento do Código Florestal, o STF considerou constitucional o regime das áreas rurais consolidadas até 22 de julho de 2008.",
+"c": true,
+"prof": "ADC 42 e ADIs.",
+"x": "2018.",
+"e": "Código Florestal"
+},
+{
+"p": "O aproveitamento de recursos minerais em terras indígenas depende de autorização do Congresso Nacional, ouvidas as comunidades afetadas.",
+"c": true,
+"prof": "Art. 231, § 3º.",
+"x": "Congresso.",
+"e": "Terras indígenas"
+},
+{
+"p": "Os recursos minerais, inclusive os do subsolo, são bens da União.",
+"c": true,
+"prof": "Art. 20, IX.",
+"x": "União.",
+"e": "Minerais"
+},
+{
+"p": "Os Municípios são titulares de águas superficiais por expressa disposição constitucional.",
+"c": false,
+"prof": "Arts. 20 e 26.",
+"x": "União e Estados.",
+"e": "Águas"
+},
+{
+"p": "Todo crime ambiental praticado em área de Mata Atlântica é de competência da Justiça Federal.",
+"c": false,
+"prof": "RE 300.244.",
+"x": "Patrimônio nacional não é bem da União.",
+"e": "Competência"
+},
+{
+"p": "O Município é legitimado a tomar compromisso de ajustamento de conduta, que terá eficácia de título executivo extrajudicial.",
+"c": true,
+"prof": "Lei 7.347, art. 5º, § 6º.",
+"x": "TAC.",
+"e": "TAC"
+},
+{
+"p": "As associações civis podem tomar compromisso de ajustamento de conduta.",
+"c": false,
+"prof": "Lei 7.347, art. 5º, § 6º.",
+"x": "Só órgãos públicos.",
+"e": "TAC"
+},
+{
+"p": "Segundo o STF, é constitucional lei municipal que obriga a substituição de sacolas plásticas por sacolas biodegradáveis.",
+"c": true,
+"prof": "Tema 970.",
+"x": "Interesse local.",
+"e": "Sacolas"
+},
+{
+"p": "Segundo o art. 225 da Constituição, o dever de defender e preservar o meio ambiente ecologicamente equilibrado incumbe",
+"alts": [
+"somente à União",
+"somente ao Poder Público",
+"ao Poder Público e à coletividade",
+"ao Ministério Público",
+"às organizações não governamentais"
+],
+"r": 2,
+"x": "Art. 225, caput.",
+"n": [
+"Não.",
+"Também à coletividade.",
+"Correta.",
+"Não exclusivamente.",
+"Não."
+],
+"e": "Caput."
+},
+{
+"p": "Integram o patrimônio nacional, nos termos do art. 225, § 4º, da Constituição:",
+"alts": [
+"Cerrado, Caatinga e Pampa",
+"Floresta Amazônica, Mata Atlântica, Serra do Mar, Pantanal Mato-Grossense e Zona Costeira",
+"apenas a Floresta Amazônica e o Pantanal",
+"todos os biomas brasileiros",
+"Mata Atlântica, Cerrado e Zona Costeira"
+],
+"r": 1,
+"x": "Art. 225, § 4º.",
+"n": [
+"Não constam.",
+"Correta.",
+"Lista incompleta.",
+"Não.",
+"Cerrado não consta."
+],
+"e": "Patrimônio nacional."
+},
+{
+"p": "Quanto aos espaços territoriais especialmente protegidos, é correto afirmar que",
+"alts": [
+"só podem ser criados por lei complementar",
+"sua alteração e supressão somente são permitidas através de lei",
+"podem ser suprimidos por decreto",
+"podem ser reduzidos por medida provisória",
+"só existem em terras da União"
+],
+"r": 1,
+"x": "Art. 225, § 1º, III; ADI 4.717.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"STF vedou.",
+"Não."
+],
+"e": "Espaços protegidos."
+},
+{
+"p": "O princípio ambiental aplicável quando há incerteza científica sobre os danos de determinada atividade é o princípio da",
+"alts": [
+"prevenção",
+"precaução",
+"usuário-pagador",
+"ubiquidade",
+"protetor-recebedor"
+],
+"r": 1,
+"x": "Princípio 15 da Declaração do Rio.",
+"n": [
+"Risco conhecido.",
+"Correta.",
+"Uso de recurso.",
+"Transversalidade.",
+"Benefício a quem protege."
+],
+"e": "Precaução."
+},
+{
+"p": "Segundo a jurisprudência do STJ, a responsabilidade civil por dano ambiental é",
+"alts": [
+"subjetiva, exigindo culpa",
+"objetiva, admitindo caso fortuito e força maior",
+"objetiva, fundada no risco integral, sem admitir excludentes",
+"subsidiária em relação ao Estado",
+"limitada ao valor da licença"
+],
+"r": 2,
+"x": "Temas 681 e 707 do STJ; Lei 6.938, art. 14, § 1º.",
+"n": [
+"Não.",
+"Não admite excludentes.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Risco integral."
+},
+{
+"p": "Sobre a prescrição em matéria ambiental, assinale a correta.",
+"alts": [
+"a reparação civil do dano ambiental prescreve em 5 anos",
+"as multas ambientais são imprescritíveis",
+"é imprescritível a pretensão de reparação civil de dano ambiental",
+"os crimes ambientais são imprescritíveis",
+"a reparação prescreve em 20 anos"
+],
+"r": 2,
+"x": "Tema 999 do STF.",
+"n": [
+"Imprescritível.",
+"Prescrevem.",
+"Correta.",
+"Prescrevem.",
+"Não."
+],
+"e": "Tema 999."
+},
+{
+"p": "Fulano comprou fazenda na qual o antigo proprietário havia desmatado a reserva legal. Segundo a jurisprudência do STJ,",
+"alts": [
+"Fulano não responde por nada",
+"Fulano responde pela multa e pela recomposição",
+"Fulano deve recompor a reserva legal, mas não pode ser multado pela infração do antigo dono",
+"só o antigo dono deve recompor",
+"a obrigação prescreveu"
+],
+"r": 2,
+"x": "Súmula 623; EREsp 1.318.051.",
+"n": [
+"Responde civilmente.",
+"Multa é pessoal.",
+"Correta.",
+"Propter rem.",
+"Imprescritível."
+],
+"e": "Propter rem."
+},
+{
+"p": "A Súmula 652 do STJ dispõe que a responsabilidade civil da Administração por dano ambiental decorrente de omissão no dever de fiscalização é",
+"alts": [
+"subsidiária e de execução solidária",
+"objetiva e de execução imediata",
+"solidária, mas de execução subsidiária",
+"inexistente",
+"exclusiva do ente omisso"
+],
+"r": 2,
+"x": "Súmula 652.",
+"n": [
+"Inverteu.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Omissão."
+},
+{
+"p": "Segundo o STF (Tema 145), o Município",
+"alts": [
+"não pode legislar sobre meio ambiente",
+"pode legislar sobre meio ambiente sem limites",
+"pode legislar sobre meio ambiente no limite do interesse local, em harmonia com a disciplina dos demais entes",
+"só pode legislar se houver delegação da União",
+"pode contrariar a lei estadual se for mais protetivo em qualquer caso"
+],
+"r": 2,
+"x": "RE 586.224.",
+"n": [
+"Pode.",
+"Há limites.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Tema 145."
+},
+{
+"p": "No âmbito da competência legislativa concorrente, a superveniência de lei federal sobre normas gerais",
+"alts": [
+"revoga a lei estadual",
+"suspende a eficácia da lei estadual no que lhe for contrário",
+"torna nula a lei estadual",
+"não afeta a lei estadual",
+"exige referendo da Assembleia"
+],
+"r": 1,
+"x": "Art. 24, § 4º.",
+"n": [
+"Não revoga.",
+"Correta.",
+"Não.",
+"Afeta.",
+"Não."
+],
+"e": "Concorrente."
+},
+{
+"p": "Sobre a responsabilidade penal da pessoa jurídica por crimes ambientais, segundo o STF,",
+"alts": [
+"é inconstitucional",
+"exige a imputação simultânea da pessoa física",
+"não depende da simultânea persecução da pessoa física responsável",
+"só se aplica às empresas públicas",
+"foi revogada pela Lei 9.605"
+],
+"r": 2,
+"x": "RE 548.181.",
+"n": [
+"Prevista no art. 225, § 3º.",
+"Dupla imputação afastada.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Pessoa jurídica."
+},
+{
+"p": "A EC 96/2017 incluiu no art. 225 dispositivo segundo o qual",
+"alts": [
+"a vaquejada é proibida em todo o território nacional",
+"não se consideram cruéis as práticas desportivas com animais que sejam manifestações culturais registradas e regulamentadas por lei que assegure o bem-estar animal",
+"a farra do boi é patrimônio cultural",
+"a rinha de galos é permitida em festas tradicionais",
+"o sacrifício de animais é crime"
+],
+"r": 1,
+"x": "Art. 225, § 7º.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "EC 96."
+},
+{
+"p": "Constituem instrumentos de proteção do patrimônio cultural expressamente citados no art. 216, § 1º, EXCETO:",
+"alts": [
+"inventários",
+"registros",
+"tombamento",
+"desapropriação",
+"confisco"
+],
+"r": 4,
+"x": "Art. 216, § 1º.",
+"n": [
+"Previsto.",
+"Previsto.",
+"Previsto.",
+"Previsto.",
+"Correta: não previsto."
+],
+"e": "Patrimônio cultural."
+},
+{
+"p": "Na ADPF 708 (Fundo Clima), o STF afirmou que os tratados de direito ambiental",
+"alts": [
+"têm status de lei ordinária",
+"têm status de emenda constitucional automaticamente",
+"são espécie de tratados de direitos humanos e têm status supralegal",
+"não vinculam o Brasil",
+"dependem de lei complementar"
+],
+"r": 2,
+"x": "ADPF 708.",
+"n": [
+"Não.",
+"Só com rito do art. 5º, § 3º.",
+"Correta.",
+"Vinculam.",
+"Não."
+],
+"e": "Tratados."
+},
+{
+"p": "A Súmula 613 do STJ estabelece que",
+"alts": [
+"aplica-se a teoria do fato consumado em matéria ambiental",
+"não se admite a aplicação da teoria do fato consumado em tema de Direito Ambiental",
+"a ocupação de APP por 20 anos gera usucapião",
+"o IPTU regulariza a construção",
+"a licença afasta a reparação"
+],
+"r": 1,
+"x": "Súmula 613.",
+"n": [
+"Contrário.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Fato consumado."
+},
+{
+"p": "De acordo com a LC 140/2011 e o STF (ADI 4.757), quanto à fiscalização ambiental,",
+"alts": [
+"só o órgão licenciador pode fiscalizar",
+"prevalece o auto de infração do órgão licenciador, sem excluir a atuação supletiva de outro ente em caso de omissão",
+"os Municípios não podem fiscalizar",
+"todos os autos prevalecem igualmente",
+"a União sempre prevalece"
+],
+"r": 1,
+"x": "LC 140, art. 17.",
+"n": [
+"Competência comum.",
+"Correta.",
+"Podem.",
+"Não.",
+"Não."
+],
+"e": "Fiscalização."
+},
+{
+"p": "É ação constitucional que pode ser proposta por qualquer cidadão para anular ato lesivo ao meio ambiente:",
+"alts": [
+"ação civil pública",
+"mandado de injunção",
+"ação popular",
+"habeas data",
+"ADPF"
+],
+"r": 2,
+"x": "Art. 5º, LXXIII.",
+"n": [
+"Legitimados da Lei 7.347.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Ação popular."
+},
+{
+"p": "Assinale a alternativa correta sobre bens ambientais na Constituição.",
+"alts": [
+"as águas superficiais pertencem aos Municípios",
+"os recursos minerais, inclusive os do subsolo, e as cavidades naturais subterrâneas são bens da União",
+"o mar territorial pertence aos Estados costeiros",
+"as terras indígenas pertencem às comunidades",
+"a Mata Atlântica é bem da União"
+],
+"r": 1,
+"x": "Art. 20, IX e X.",
+"n": [
+"União ou Estados.",
+"Correta.",
+"União.",
+"União (posse permanente dos índios).",
+"Patrimônio nacional."
+],
+"e": "Bens."
+}
+]
+},
+"pnma-licenciamento": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>1981</b><span>ano da Lei 6.938, a Política Nacional do Meio Ambiente, que criou o SISNAMA e o CONAMA</span></div><div class=\"lt-stat\"><b>04/02/2026</b><span>entrada em vigor da Lei Geral do Licenciamento Ambiental (Lei 15.190/2025)</span></div><div class=\"lt-stat\"><b>7 licenças</b><span>LP, LI, LO, LAU, LAC, LOC e LAE (Lei 15.190, art. 5º)</span></div><div class=\"lt-stat\"><b>1 ente</b><span>cada empreendimento é licenciado por um único ente federativo (LC 140/2011, art. 13)</span></div></div>\n<h3>1. O mapa do tópico</h3>\n<ul><li>Este tópico reúne as três normas que estruturam a gestão ambiental no Brasil: a <b>Lei 6.938/1981</b> (Política Nacional do Meio Ambiente, PNMA), a <b>LC 140/2011</b> (repartição das competências administrativas entre União, Estados, DF e Municípios) e a <b>Lei 15.190/2025</b> (Lei Geral do Licenciamento Ambiental, LGLA), que entrou em vigor em <b>4 de fevereiro de 2026</b> e passou a ser a principal norma nacional sobre licenças ambientais. As <b>Resoluções CONAMA 1/1986</b> (EIA/RIMA) e <b>237/1997</b> (licenciamento) continuam relevantes no que não contrariarem a nova lei.</li><li>A lógica é simples: a PNMA define <b>objetivos, princípios, órgãos e instrumentos</b>; a LC 140 diz <b>quem</b> licencia e fiscaliza; a LGLA diz <b>como</b> se licencia (tipos de licença, estudos, prazos, dispensas, participação pública).</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Como estudar este tópico</b><p>Para a prova de Procurador Municipal, priorize: (1) a estrutura do <b>SISNAMA</b> e as atribuições do <b>CONAMA</b>; (2) os <b>instrumentos</b> do art. 9º da Lei 6.938; (3) a competência do <b>Município</b> para licenciar atividades de <b>impacto local</b> (LC 140, art. 9º); (4) os <b>tipos de licença</b> e <b>prazos</b> da Lei 15.190; (5) o <b>EIA/RIMA</b> e a <b>audiência pública</b>. Bancas como a Consulplan cobram a letra dessas normas.</p></div>\n<h3>2. A Lei 6.938/1981: objetivo, princípios e conceitos</h3>\n<ul><li><b>Objetivo geral</b> (art. 2º): a PNMA tem por objetivo a <b>preservação, melhoria e recuperação da qualidade ambiental propícia à vida</b>, visando assegurar, no País, condições ao <b>desenvolvimento socioeconômico</b>, aos interesses da <b>segurança nacional</b> e à proteção da <b>dignidade da vida humana</b>.</li><li><b>Princípios</b> (art. 2º, incisos): ação governamental na manutenção do equilíbrio ecológico, considerando o meio ambiente como <b>patrimônio público</b> a ser necessariamente assegurado e protegido, tendo em vista o uso coletivo; racionalização do uso do solo, do subsolo, da água e do ar; planejamento e fiscalização do uso dos recursos ambientais; proteção dos ecossistemas, com a preservação de áreas representativas; controle e zoneamento das atividades potencial ou efetivamente poluidoras; incentivos ao estudo e à pesquisa de tecnologias; acompanhamento do estado da qualidade ambiental; recuperação de áreas degradadas; proteção de áreas ameaçadas de degradação; <b>educação ambiental</b> a todos os níveis de ensino, inclusive a educação da comunidade.</li><li><b>Conceitos</b> (art. 3º): é um dos artigos mais cobrados da lei.</li></ul>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>Definição legal (art. 3º)</th></tr></thead><tbody><tr><td><b>Meio ambiente</b> (I)</td><td>o conjunto de condições, leis, influências e interações de ordem física, química e biológica, que permite, abriga e rege a vida em todas as suas formas</td></tr><tr><td><b>Degradação da qualidade ambiental</b> (II)</td><td>a alteração <b>adversa</b> das características do meio ambiente</td></tr><tr><td><b>Poluição</b> (III)</td><td>a degradação da qualidade ambiental resultante de atividades que <b>direta ou indiretamente</b>: a) prejudiquem a saúde, a segurança e o bem-estar da população; b) criem condições adversas às atividades sociais e econômicas; c) afetem desfavoravelmente a biota; d) afetem as condições estéticas ou sanitárias do meio ambiente; e) lancem matérias ou energia em desacordo com os padrões ambientais estabelecidos</td></tr><tr><td><b>Poluidor</b> (IV)</td><td>a pessoa física ou jurídica, de direito público ou privado, responsável, <b>direta ou indiretamente</b>, por atividade causadora de degradação ambiental</td></tr><tr><td><b>Recursos ambientais</b> (V)</td><td>a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo, os elementos da biosfera, a fauna e a flora</td></tr></tbody></table>\n<ul><li><b>Degradação x poluição</b>: toda poluição é degradação, mas nem toda degradação é poluição. A <b>degradação</b> é qualquer alteração adversa; a <b>poluição</b> é a degradação <b>resultante de atividade humana</b> que produza um dos efeitos das alíneas do inciso III. Repare também que a poluição inclui efeitos <b>estéticos</b> (alínea \"d\"), o que fundamenta o combate à <b>poluição visual</b> (outdoors, fachadas) pelos Municípios.</li><li><b>Poluidor de direito público</b>: o próprio Estado pode ser poluidor (um aterro municipal irregular, uma estação de esgoto que lança efluente sem tratamento). Por isso o Município responde civilmente por danos causados por suas próprias atividades, e não só por omissão na fiscalização.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Poluição e degradação são sinônimos na Lei 6.938</span><br>✅ <span class=\"certo\"><b>Degradação</b> é qualquer alteração adversa; <b>poluição</b> é a degradação resultante de atividades humanas com os efeitos do art. 3º, III</span></li><li>❌ <span class=\"banca\">Pessoa jurídica de direito público não pode ser poluidora</span><br>✅ <span class=\"certo\">O art. 3º, IV, inclui expressamente as de <b>direito público</b></span></li><li>❌ <span class=\"banca\">A poluição só abrange danos à saúde</span><br>✅ <span class=\"certo\">Inclui efeitos <b>estéticos</b>, sanitários, econômicos e à biota</span></li></ol></div>\n<h3>3. Os objetivos da PNMA (art. 4º)</h3>\n<ul><li>A PNMA visará: I, à <b>compatibilização do desenvolvimento econômico-social</b> com a preservação da qualidade do meio ambiente e do equilíbrio ecológico; II, à definição de <b>áreas prioritárias</b> de ação governamental; III, ao estabelecimento de <b>critérios e padrões de qualidade ambiental</b> e de normas relativas ao uso e manejo de recursos ambientais; IV, ao desenvolvimento de pesquisas e tecnologias; V, à difusão de tecnologias de manejo e à divulgação de dados e informações ambientais e à formação de consciência pública; VI, à preservação e restauração dos recursos ambientais com vistas à sua utilização racional e disponibilidade permanente; VII, à imposição, ao <b>poluidor e ao predador</b>, da obrigação de <b>recuperar e/ou indenizar</b> os danos causados e, ao <b>usuário</b>, da <b>contribuição pela utilização de recursos ambientais com fins econômicos</b>.</li><li>O inciso VII é a base legal expressa dos princípios do <b>poluidor-pagador</b> (primeira parte) e do <b>usuário-pagador</b> (segunda parte). Questões perguntam exatamente isso: \"qual dispositivo da Lei 6.938 consagra o usuário-pagador?\" Resposta: art. 4º, VII.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 2º</span></span><span class=\"vs\"><span>objetivo geral e princípios da PNMA</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 3º</span></span><span class=\"vs\"><span>conceitos (meio ambiente, degradação, poluição, poluidor, recursos ambientais)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 4º, VII</span></span><span class=\"vs\"><span>poluidor-pagador e usuário-pagador</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 6º</span></span><span class=\"vs\"><span>SISNAMA</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 8º</span></span><span class=\"vs\"><span>competências do CONAMA</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 9º</span></span><span class=\"vs\"><span>instrumentos da PNMA</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 14, § 1º</span></span><span class=\"vs\"><span>responsabilidade objetiva do poluidor</span></span></button></div></div>\n<h3>4. O SISNAMA: estrutura</h3>\n<ul><li>O <b>Sistema Nacional do Meio Ambiente</b> (art. 6º) é constituído pelos <b>órgãos e entidades da União, dos Estados, do DF e dos Municípios</b>, bem como as fundações instituídas pelo Poder Público, responsáveis pela proteção e melhoria da qualidade ambiental. Não é uma pessoa jurídica: é uma <b>rede</b> de órgãos dos três níveis da federação.</li></ul>\n<table class=\"tab\"><thead><tr><th>Nível</th><th>Órgão</th><th>Função</th></tr></thead><tbody><tr><td><b>Órgão superior</b> (I)</td><td><b>Conselho de Governo</b></td><td>assessorar o Presidente da República na formulação da política nacional e das diretrizes governamentais para o meio ambiente</td></tr><tr><td><b>Órgão consultivo e deliberativo</b> (II)</td><td><b>CONAMA</b> (Conselho Nacional do Meio Ambiente)</td><td>assessorar, estudar e propor diretrizes e <b>deliberar</b>, no âmbito de sua competência, sobre normas e padrões ambientais</td></tr><tr><td><b>Órgão central</b> (III)</td><td><b>Ministério do Meio Ambiente</b> (na lei, a antiga Secretaria do Meio Ambiente da Presidência)</td><td>planejar, coordenar, supervisionar e controlar a política nacional</td></tr><tr><td><b>Órgãos executores</b> (IV)</td><td><b>IBAMA</b> e <b>ICMBio</b></td><td>executar e fazer executar a política e as diretrizes governamentais, de acordo com as respectivas competências</td></tr><tr><td><b>Órgãos seccionais</b> (V)</td><td>órgãos ou entidades <b>estaduais</b></td><td>execução de programas, projetos, controle e fiscalização de atividades degradadoras</td></tr><tr><td><b>Órgãos locais</b> (VI)</td><td>órgãos ou entidades <b>municipais</b></td><td>controle e fiscalização dessas atividades, nas suas respectivas jurisdições</td></tr></tbody></table>\n<ul><li><b>IBAMA x ICMBio</b>: o <b>IBAMA</b> (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis, criado em 1989) exerce o licenciamento federal, a fiscalização, o controle da qualidade ambiental, as autorizações de uso de recursos naturais. O <b>ICMBio</b> (Instituto Chico Mendes de Conservação da Biodiversidade, Lei 11.516/2007) administra as <b>unidades de conservação federais</b>. Ambos são <b>autarquias federais</b> vinculadas ao MMA. O ICMBio pode fiscalizar as UCs federais, mas a competência supletiva de fiscalização do IBAMA não é excluída (Lei 11.516, art. 1º, parágrafo único).</li><li><b>Normas estaduais e municipais</b> (art. 6º, §§ 1º e 2º): os <b>Estados</b>, na esfera de suas competências e nas áreas de sua jurisdição, elaborarão normas <b>supletivas e complementares</b> e padrões relacionados com o meio ambiente, observados os que forem estabelecidos pelo CONAMA. Os <b>Municípios</b>, observadas as normas e os padrões federais e estaduais, também poderão elaborar as normas mencionadas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O órgão superior do SISNAMA é o CONAMA</span><br>✅ <span class=\"certo\">É o <b>Conselho de Governo</b>; o CONAMA é consultivo e deliberativo</span></li><li>❌ <span class=\"banca\">O órgão central do SISNAMA é o IBAMA</span><br>✅ <span class=\"certo\">O órgão central é o <b>Ministério do Meio Ambiente</b>; IBAMA e ICMBio são <b>executores</b></span></li><li>❌ <span class=\"banca\">Os órgãos municipais não integram o SISNAMA</span><br>✅ <span class=\"certo\">São os <b>órgãos locais</b> (art. 6º, VI)</span></li><li>❌ <span class=\"banca\">O SISNAMA é uma autarquia federal</span><br>✅ <span class=\"certo\">É um <b>sistema</b> de órgãos e entidades dos três níveis da federação</span></li></ol></div>\n<h3>5. O CONAMA: composição e competências</h3>\n<ul><li>O <b>CONAMA</b> é presidido pelo <b>Ministro do Meio Ambiente</b> e tem composição plural, com representantes do governo federal, dos Estados, dos Municípios, do setor empresarial e da sociedade civil. Sua composição foi reduzida em 2019 (Decreto 9.806/2019), o que levou à <b>ADPF 623</b>: o STF, em 2023, declarou <b>inconstitucional</b> o decreto, por reduzir a participação da sociedade civil e violar o princípio da <b>participação</b> popular e da <b>vedação do retrocesso</b> institucional. Em 2023, novo decreto recompôs o conselho, ampliando novamente a participação dos Estados, Municípios e sociedade civil.</li><li><b>Competências do CONAMA</b> (art. 8º), as mais cobradas: I, estabelecer, mediante proposta do IBAMA, <b>normas e critérios para o licenciamento</b> de atividades efetiva ou potencialmente poluidoras, a ser concedido pela União, pelos Estados, pelo DF e pelos Municípios e supervisionado pelo IBAMA; II, determinar, quando julgar necessário, a realização de <b>estudos das alternativas e das possíveis consequências ambientais</b> de projetos públicos ou privados, requisitando informações; VI, estabelecer, privativamente, <b>normas e padrões nacionais de controle da poluição</b> por <b>veículos automotores</b>, aeronaves e embarcações, mediante audiência dos Ministérios competentes; VII, estabelecer <b>normas, critérios e padrões</b> relativos ao controle e à manutenção da <b>qualidade do meio ambiente</b> com vistas ao uso racional dos recursos ambientais, principalmente os <b>hídricos</b>.</li><li>A competência do CONAMA para <b>julgar recursos</b> contra multas do IBAMA (antigo inciso III) foi <b>revogada</b> pela Lei 11.941/2009. Hoje os recursos administrativos contra autos do IBAMA são julgados dentro da própria estrutura do instituto, conforme o Decreto 6.514/2008.</li><li><b>Natureza das resoluções do CONAMA</b>: são atos <b>normativos infralegais</b>. Podem detalhar normas e fixar padrões técnicos, mas <b>não podem inovar</b> criando obrigações sem base legal, nem contrariar a lei. O STF admite seu controle concentrado quando têm caráter autônomo e geral (ADPF 747 e 748, que restauraram resoluções de proteção a manguezais e restingas). O <b>PROCONVE</b> (Programa de Controle da Poluição do Ar por Veículos Automotores) é exemplo de norma do CONAMA sobre emissões veiculares, base dos limites aplicados pelo trânsito.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O CONAMA é presidido pelo Presidente do IBAMA</span><br>✅ <span class=\"certo\">É presidido pelo <b>Ministro do Meio Ambiente</b></span></li><li>❌ <span class=\"banca\">O CONAMA julga os recursos contra multas do IBAMA</span><br>✅ <span class=\"certo\">Essa competência foi <b>revogada</b> em 2009</span></li><li>❌ <span class=\"banca\">As resoluções do CONAMA podem criar obrigações sem base legal</span><br>✅ <span class=\"certo\">São atos <b>infralegais</b>: detalham, mas não inovam contra a lei</span></li></ol></div>\n<h3>6. Os instrumentos da PNMA (art. 9º)</h3>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Instrumento</th></tr></thead><tbody><tr><td>I</td><td>o estabelecimento de <b>padrões de qualidade ambiental</b></td></tr><tr><td>II</td><td>o <b>zoneamento ambiental</b> (regulamentado como Zoneamento Ecológico-Econômico, ZEE, Decreto 4.297/2002)</td></tr><tr><td>III</td><td>a <b>avaliação de impactos ambientais</b> (AIA, gênero do qual o EIA é espécie)</td></tr><tr><td>IV</td><td>o <b>licenciamento</b> e a revisão de atividades efetiva ou potencialmente poluidoras</td></tr><tr><td>V</td><td>os <b>incentivos</b> à produção e instalação de equipamentos e à criação ou absorção de tecnologia voltados para a melhoria da qualidade ambiental</td></tr><tr><td>VI</td><td>a criação de <b>espaços territoriais especialmente protegidos</b> pelo Poder Público federal, estadual e municipal, tais como áreas de proteção ambiental, de relevante interesse ecológico e reservas extrativistas</td></tr><tr><td>VII</td><td>o <b>sistema nacional de informações</b> sobre o meio ambiente (SINIMA)</td></tr><tr><td>VIII</td><td>o <b>Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental</b></td></tr><tr><td>IX</td><td>as <b>penalidades disciplinares ou compensatórias</b> ao não cumprimento das medidas necessárias à preservação ou correção da degradação ambiental</td></tr><tr><td>X</td><td>a instituição do <b>Relatório de Qualidade do Meio Ambiente</b>, a ser divulgado anualmente pelo IBAMA</td></tr><tr><td>XI</td><td>a <b>garantia da prestação de informações</b> relativas ao meio ambiente, obrigando-se o Poder Público a produzi-las, quando inexistentes</td></tr><tr><td>XII</td><td>o <b>Cadastro Técnico Federal de atividades potencialmente poluidoras</b> e/ou utilizadoras dos recursos ambientais</td></tr><tr><td>XIII</td><td><b>instrumentos econômicos</b>, como <b>concessão florestal</b>, <b>servidão ambiental</b>, <b>seguro ambiental</b> e outros</td></tr></tbody></table>\n<ul><li><b>Dois cadastros técnicos federais</b> (CTF): não confunda. O do inciso <b>VIII</b> é de <b>atividades e instrumentos de defesa ambiental</b> (consultores, técnicos, empresas de equipamentos de controle); o do inciso <b>XII</b> é de <b>atividades potencialmente poluidoras</b> e utilizadoras de recursos ambientais. O registro no CTF do inciso XII é obrigatório e está ligado à cobrança da <b>TCFA</b>.</li><li><b>TCFA</b> (Taxa de Controle e Fiscalização Ambiental, art. 17-B): seu fato gerador é o exercício regular do <b>poder de polícia</b> conferido ao IBAMA para controle e fiscalização das atividades potencialmente poluidoras. O STF declarou a taxa <b>constitucional</b> (RE 416.601, 2005), porque há efetivo exercício do poder de polícia e a base de cálculo considera o porte da empresa e o potencial poluidor. Os valores efetivamente pagos ao <b>Estado</b>, ao <b>Município</b> ou ao <b>DF</b> a título de taxa de fiscalização ambiental podem ser <b>compensados</b> com a TCFA até o limite de <b>60%</b> (art. 17-P).</li><li><b>Servidão ambiental</b> (art. 9º-A): o proprietário ou possuidor de imóvel, pessoa natural ou jurídica, pode, por instrumento público ou particular ou por termo administrativo firmado perante órgão do SISNAMA, <b>limitar o uso</b> de toda a sua propriedade ou de parte dela para preservar, conservar ou recuperar os recursos ambientais existentes. A servidão <b>não se aplica</b> às <b>APPs</b> e à <b>reserva legal mínima</b> exigida (§ 2º), porque estas já são obrigatórias. Pode ser <b>onerosa ou gratuita</b>, <b>temporária ou perpétua</b>; o prazo mínimo da servidão <b>temporária</b> é de <b>15 anos</b> (art. 9º-B, § 1º). Deve ser <b>averbada</b> na matrícula do imóvel. A servidão perpétua equivale, para fins creditícios, tributários e de acesso aos recursos de fundos públicos, à <b>Reserva Particular do Patrimônio Natural</b> (RPPN).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A AIA e o EIA são a mesma coisa</span><br>✅ <span class=\"certo\">A <b>AIA</b> é o instrumento genérico (art. 9º, III); o <b>EIA</b> é uma de suas espécies</span></li><li>❌ <span class=\"banca\">A servidão ambiental pode recair sobre APP e reserva legal mínima</span><br>✅ <span class=\"certo\"><b>Não</b> se aplica a elas (art. 9º-A, § 2º)</span></li><li>❌ <span class=\"banca\">A servidão ambiental temporária tem prazo mínimo de 5 anos</span><br>✅ <span class=\"certo\">O mínimo é de <b>15 anos</b></span></li><li>❌ <span class=\"banca\">A TCFA é inconstitucional por ausência de poder de polícia</span><br>✅ <span class=\"certo\">O STF a declarou <b>constitucional</b> (RE 416.601)</span></li></ol></div>\n<h3>7. Penalidades e responsabilidade na Lei 6.938 (art. 14)</h3>\n<ul><li>Sem prejuízo das penalidades definidas pela legislação federal, estadual e municipal, o não cumprimento das medidas necessárias à preservação ou correção dos inconvenientes e danos causados pela degradação sujeitará os transgressores: I, à <b>multa</b> simples ou diária; II, à <b>perda ou restrição de incentivos e benefícios fiscais</b> concedidos pelo Poder Público; III, à <b>perda ou suspensão de participação em linhas de financiamento</b> em estabelecimentos oficiais de crédito; IV, à <b>suspensão</b> de sua atividade.</li><li><b>§ 1º</b>: sem obstar a aplicação das penalidades, é o poluidor obrigado, <b>independentemente da existência de culpa</b>, a indenizar ou reparar os danos causados ao meio ambiente e a terceiros, afetados por sua atividade. O <b>Ministério Público da União e dos Estados</b> terá legitimidade para propor ação de responsabilidade <b>civil e criminal</b>, por danos causados ao meio ambiente. Essa regra (1981) é anterior à Lei da Ação Civil Pública (1985) e à Constituição: foi a <b>primeira</b> previsão legal de responsabilidade <b>objetiva</b> ambiental no Brasil.</li><li><b>Art. 12 (bancos e financiamento)</b>: as entidades e órgãos de <b>financiamento e incentivos governamentais</b> condicionarão a aprovação de projetos habilitados a esses benefícios ao <b>licenciamento</b> e ao cumprimento das normas, critérios e padrões do CONAMA. É a origem da chamada <b>responsabilidade do financiador</b>: o STJ admite responsabilizar a instituição que financia atividade degradadora sem exigir a licença, como poluidora <b>indireta</b>.</li><li><b>Art. 15 (crime)</b>: o poluidor que expuser a perigo a incolumidade humana, animal ou vegetal, ou estiver tornando mais grave situação de perigo existente, fica sujeito à pena de reclusão de 1 a 3 anos e multa. A doutrina entende que esse tipo foi, em grande parte, absorvido pelo <b>art. 54 da Lei 9.605/1998</b> (crime de poluição), que é posterior e mais abrangente.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Financiador como poluidor indireto</b><p class=\"jc-tese\">O STJ tem precedentes reconhecendo que quem financia atividade degradadora pode ser considerado <b>poluidor indireto</b> (Lei 6.938, art. 3º, IV), especialmente quando o financiamento é concedido sem exigência do licenciamento (art. 12). A responsabilidade é solidária e objetiva, mas exige demonstrar o <b>nexo</b> entre o financiamento e o dano, ou seja, que a instituição contribuiu de forma relevante para a atividade lesiva.</p><p class=\"jc-com\">A Resolução CMN 4.945/2021 (Política de Responsabilidade Social, Ambiental e Climática, PRSAC) obriga os bancos a avaliarem riscos socioambientais. Para a prova: o banco <b>pode</b> responder como poluidor indireto, mas não responde por qualquer dano de qualquer cliente; é preciso nexo causal.</p></div>\n<h3>8. LC 140/2011: quem licencia</h3>\n<ul><li>A <b>LC 140/2011</b> fixa normas para a <b>cooperação</b> entre União, Estados, DF e Municípios nas ações administrativas decorrentes da competência <b>comum</b> (art. 23, III, VI e VII, da CF). Seus <b>objetivos</b> (art. 3º) incluem: proteger, defender e conservar o meio ambiente ecologicamente equilibrado, promovendo <b>gestão descentralizada, democrática e eficiente</b>; garantir o equilíbrio do desenvolvimento socioeconômico com a proteção ambiental; harmonizar as políticas e ações administrativas para <b>evitar a sobreposição</b> de atuação entre os entes, de forma a evitar conflitos de atribuições; garantir a uniformidade da política ambiental.</li><li><b>Instrumentos de cooperação</b> (art. 4º): consórcios públicos; convênios, acordos de cooperação técnica; <b>Comissão Tripartite Nacional</b>, <b>Comissões Tripartites Estaduais</b> e <b>Comissão Bipartite do DF</b>; fundos públicos e privados; <b>delegação de atribuições</b> e <b>delegação da execução de ações administrativas</b>.</li><li><b>Delegação</b> (art. 5º): o ente federativo poderá delegar, mediante <b>convênio</b>, a execução de ações administrativas a ele atribuídas, desde que o ente destinatário da delegação disponha de <b>órgão ambiental capacitado</b> a executar as ações delegadas e de <b>conselho de meio ambiente</b>. Considera-se órgão ambiental capacitado aquele que possui <b>técnicos próprios ou em consórcio</b>, devidamente habilitados e em número compatível com a demanda.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ente</th><th>Licencia (art. 7º, 8º e 9º, inciso XIV)</th></tr></thead><tbody><tr><td><b>União</b> (art. 7º, XIV)</td><td>empreendimentos: a) localizados ou desenvolvidos conjuntamente no <b>Brasil e em país limítrofe</b>; b) no <b>mar territorial</b>, na <b>plataforma continental</b> ou na <b>zona econômica exclusiva</b>; c) em <b>terras indígenas</b>; d) em <b>unidades de conservação instituídas pela União</b>, exceto <b>APAs</b>; e) em <b>2 ou mais Estados</b>; f) de caráter <b>militar</b>, exceto os previstos no preparo e emprego das Forças Armadas; g) destinados a material <b>radioativo</b> ou que utilizem <b>energia nuclear</b>, mediante parecer da CNEN; h) que atendam tipologia definida por <b>ato do Poder Executivo</b>, a partir de proposição da Comissão Tripartite Nacional, considerados porte, potencial poluidor e natureza da atividade</td></tr><tr><td><b>Estados</b> (art. 8º, XIV e XV)</td><td>competência <b>residual</b>: atividades ou empreendimentos utilizadores de recursos ambientais, efetiva ou potencialmente poluidores, <b>ressalvado o disposto nos arts. 7º e 9º</b>; e os localizados ou desenvolvidos em <b>unidades de conservação instituídas pelo Estado</b>, exceto APAs</td></tr><tr><td><b>Municípios</b> (art. 9º, XIV)</td><td>observadas as atribuições dos demais entes: a) atividades que causem ou possam causar <b>impacto ambiental de âmbito local</b>, conforme <b>tipologia definida pelos respectivos Conselhos Estaduais de Meio Ambiente</b>, considerados porte, potencial poluidor e natureza da atividade; b) localizados em <b>unidades de conservação instituídas pelo Município</b>, exceto APAs</td></tr><tr><td><b>DF</b> (art. 10)</td><td>acumula as atribuições dos Estados e dos Municípios</td></tr></tbody></table>\n<ul><li><b>APAs</b> (art. 12): para fins de licenciamento de empreendimentos localizados em <b>Áreas de Proteção Ambiental</b>, o critério <b>não</b> é o do ente que criou a APA, mas os critérios gerais dos arts. 7º, XIV (alíneas \"a\", \"b\", \"e\", \"f\" e \"h\"), 8º, XIV, e 9º, XIV. Isso porque a APA é uma UC de uso sustentável, geralmente extensa, que abrange cidades e áreas privadas. Exemplo: uma padaria dentro de uma APA federal não é licenciada pelo IBAMA.</li><li><b>Tipologia federal</b>: o <b>Decreto 8.437/2015</b> definiu a tipologia de atividades licenciadas pela União com base na alínea \"h\", como rodovias federais (em certas hipóteses), ferrovias federais, hidrovias, portos organizados, exploração e produção de petróleo e gás em ambiente marinho, sistemas de geração de energia elétrica em certas condições.</li><li><b>Tipologia municipal em Minas Gerais</b>: a definição do impacto local é feita pelo <b>COPAM</b>, por <b>deliberação normativa</b> (a DN COPAM 213/2017 e suas atualizações), que lista as atividades que podem ser licenciadas pelos Municípios mineiros que tenham órgão capacitado e conselho. Na ausência de estrutura, o licenciamento é estadual (SEMAD/SUPRAM).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os Municípios licenciam qualquer atividade localizada em seu território</span><br>✅ <span class=\"certo\">Licenciam as de <b>impacto local</b>, conforme tipologia do <b>Conselho Estadual</b>, e as de UCs municipais (exceto APAs)</span></li><li>❌ <span class=\"banca\">A APA federal atrai o licenciamento para o IBAMA</span><br>✅ <span class=\"certo\">Nas <b>APAs</b>, aplica-se o critério geral, e não o do ente instituidor (art. 12)</span></li><li>❌ <span class=\"banca\">A competência residual para licenciar é da União</span><br>✅ <span class=\"certo\">A residual é dos <b>Estados</b> (art. 8º, XIV)</span></li><li>❌ <span class=\"banca\">Empreendimentos em terras indígenas são licenciados pelo Estado</span><br>✅ <span class=\"certo\">São licenciados pela <b>União</b> (art. 7º, XIV, \"c\")</span></li></ol></div>\n<h3>9. LC 140/2011: licença única, prazos e atuação supletiva</h3>\n<ul><li><b>Um único ente</b> (art. 13): os empreendimentos e atividades são licenciados ou autorizados, ambientalmente, por um <b>único ente federativo</b>, em conformidade com as atribuições da lei. Os demais entes federativos interessados podem manifestar-se ao órgão responsável pela licença ou autorização, de maneira <b>não vinculante</b>, respeitados os prazos e procedimentos do licenciamento (§ 1º).</li><li><b>Supressão de vegetação</b> (art. 13, § 2º): a supressão de vegetação decorrente de licenciamentos ambientais é autorizada pelo <b>ente federativo licenciador</b>. Ou seja, quem licencia o empreendimento também autoriza o desmate necessário à sua instalação.</li><li><b>Custos</b> (art. 13, § 3º): os valores alusivos às taxas de licenciamento ambiental e outros serviços afins devem guardar relação de <b>proporcionalidade</b> com o custo e a complexidade do serviço prestado pelo ente federativo.</li><li><b>Prazos e silêncio administrativo</b> (art. 14): os órgãos licenciadores devem observar os prazos estabelecidos para tramitação dos processos. As exigências de complementação oriundas da análise devem ser comunicadas pela autoridade licenciadora de <b>uma única vez</b> ao empreendedor, ressalvadas aquelas decorrentes de fatos novos (§ 1º). O decurso dos prazos de licenciamento, sem a emissão da licença, <b>não implica emissão tácita</b> nem autoriza a prática de ato que dela dependa ou decorra, mas <b>instaura a competência supletiva</b> (§ 3º). A renovação de licenças de atividades com prazo de validade deve ser requerida com antecedência mínima de <b>120 dias</b> da expiração, ficando o prazo automaticamente <b>prorrogado</b> até a manifestação definitiva do órgão ambiental (§ 4º).</li><li><b>Atuação supletiva</b> (art. 15): os entes federativos devem atuar em caráter supletivo nas ações administrativas de licenciamento e na autorização ambiental nas seguintes hipóteses: I, inexistindo órgão ambiental capacitado ou conselho de meio ambiente <b>no Estado</b> ou no DF, a <b>União</b> deve desempenhar as ações até a sua criação; II, inexistindo órgão capacitado ou conselho <b>no Município</b>, o <b>Estado</b> deve desempenhar as ações administrativas municipais até a sua criação; III, inexistindo em ambos (Estado e Município), a <b>União</b> deve desempenhar as ações administrativas até a sua criação em um daqueles entes.</li><li><b>Atuação subsidiária</b> (art. 16): é a ação do ente que visa a <b>auxiliar</b> no desempenho das atribuições decorrentes das competências comuns, quando <b>solicitado</b> pelo ente originariamente detentor da atribuição, por meio de apoio técnico, científico, administrativo ou financeiro.</li></ul>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>Quando ocorre</th><th>Quem age</th></tr></thead><tbody><tr><td><b>Supletiva</b> (art. 2º, II, e art. 15)</td><td>o ente originário <b>não tem</b> órgão capacitado ou conselho, ou deixou escoar o prazo</td><td>o ente \"de cima\" <b>substitui</b> o originário</td></tr><tr><td><b>Subsidiária</b> (art. 2º, III, e art. 16)</td><td>o ente originário <b>pede ajuda</b></td><td>outro ente <b>auxilia</b>, sem substituir</td></tr></tbody></table>\n<ul><li><b>Fiscalização</b> (art. 17): compete ao órgão responsável pelo licenciamento ou autorização lavrar <b>auto de infração</b> ambiental e instaurar processo administrativo. Qualquer pessoa legalmente identificada, ao constatar infração, pode dirigir <b>representação</b> ao órgão licenciador (§ 1º). Nos casos de iminência ou ocorrência de degradação, o ente federativo que tiver conhecimento do fato deverá determinar <b>medidas para evitá-la, fazer cessá-la ou mitigá-la</b>, comunicando imediatamente ao órgão competente (§ 2º). O disposto no caput <b>não impede</b> o exercício pelos entes federativos da <b>atribuição comum de fiscalização</b>, prevalecendo o auto de infração lavrado por órgão que detenha a atribuição de licenciamento (§ 3º).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 4.757 (LC 140/2011, 2022)</b><p class=\"jc-tese\">O STF julgou parcialmente procedente a ação e conferiu <b>interpretação conforme</b> a dispositivos da LC 140: (1) no <b>art. 14, § 4º</b>, a omissão ou <b>mora imotivada e desproporcional</b> do órgão na decisão sobre a <b>renovação</b> da licença <b>instaura a competência supletiva</b> do art. 15; (2) no <b>art. 17, § 3º</b>, a prevalência do auto do órgão licenciador <b>não exclui</b> a atuação <b>supletiva</b> de outro ente quando comprovada a <b>omissão ou insuficiência</b> na tutela fiscalizatória.</p><p class=\"jc-com\">Para o Município: se o Estado licenciou mas não fiscaliza, o Município pode autuar supletivamente, desde que demonstre a omissão e tenha base legal para a sanção. Se houver dois autos válidos sobre o mesmo fato, prevalece o do licenciador, evitando <i>bis in idem</i>.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O silêncio do órgão ambiental no prazo gera licença tácita</span><br>✅ <span class=\"certo\"><b>Não</b> implica emissão tácita; instaura a competência <b>supletiva</b> (art. 14, § 3º)</span></li><li>❌ <span class=\"banca\">A atuação subsidiária ocorre quando o ente originário não tem órgão capacitado</span><br>✅ <span class=\"certo\">Isso é atuação <b>supletiva</b>; a subsidiária é <b>auxílio solicitado</b></span></li><li>❌ <span class=\"banca\">Sem conselho municipal de meio ambiente, a União licencia as atividades de impacto local</span><br>✅ <span class=\"certo\">Atua o <b>Estado</b> (art. 15, II)</span></li><li>❌ <span class=\"banca\">A supressão de vegetação no licenciamento é sempre autorizada pelo Estado</span><br>✅ <span class=\"certo\">É autorizada pelo <b>ente licenciador</b> (art. 13, § 2º)</span></li></ol></div>\n<h3>10. A Lei Geral do Licenciamento Ambiental (Lei 15.190/2025)</h3>\n<ul><li><b>Histórico</b>: o projeto tramitou por mais de 20 anos (PL 3.729/2004 na Câmara, PL 2.159/2021 no Senado). A lei foi sancionada em <b>8 de agosto de 2025</b> com <b>63 vetos</b>. No mesmo dia, o Presidente editou a <b>MP 1.308/2025</b>, sobre a Licença Ambiental Especial (LAE). Em <b>27 de novembro de 2025</b>, o Congresso <b>derrubou</b> quase todos os vetos (exceto os ligados à LAE), e os dispositivos restaurados foram promulgados em dezembro de 2025. A MP foi convertida na <b>Lei 15.300/2025</b> (publicada em 23/12/2025). A LGLA entrou em vigor <b>180 dias após a publicação</b>, em <b>4 de fevereiro de 2026</b>.</li><li><b>Natureza</b>: é lei de <b>normas gerais</b> (art. 24, VI, da CF), aplicável a União, Estados, DF e Municípios. Os entes podem suplementá-la, mas não contrariá-la. Ela se aplica aos processos iniciados a partir de sua vigência e orienta as etapas seguintes dos processos em curso.</li><li><b>Ações no STF</b>: partidos e entidades ajuizaram as <b>ADIs 7.913, 7.916 e 7.919</b> (dezembro de 2025), alegando violação ao art. 225 (exigência de EIA, vedação do retrocesso, proteção de povos indígenas e comunidades tradicionais). Até o fechamento deste material, não havia decisão de mérito. Em prova, responda pela <b>letra da lei</b>, salvo se o enunciado mencionar decisão do STF.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 15.190/2025, art. 4º</div><div class=\"art-lei\">A construção, a instalação, a ampliação e a operação de atividade ou de empreendimento utilizador de recursos ambientais, efetiva ou potencialmente causador de poluição ou capaz, sob qualquer forma, de causar degradação do meio ambiente estão sujeitas a prévio licenciamento ambiental perante a autoridade licenciadora integrante do Sisnama, sem prejuízo das demais licenças e autorizações exigíveis.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Licenciamento PRÉVIO</li><li>Perante órgão do SISNAMA</li><li>Não dispensa outras licenças (alvará municipal, outorga de água, autorização de supressão)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A regra continua sendo a exigência de licença; as dispensas são exceções expressas na lei (arts. 8º e 9º).</li></ul></div></div>\n<h3>11. Conceitos da LGLA</h3>\n<table class=\"tab\"><thead><tr><th>Termo (art. 3º)</th><th>Significado</th></tr></thead><tbody><tr><td><b>Licenciamento ambiental</b></td><td>processo administrativo destinado a licenciar atividade ou empreendimento utilizador de recursos ambientais, efetiva ou potencialmente causador de poluição ou capaz de causar degradação</td></tr><tr><td><b>Autoridade licenciadora</b></td><td>órgão ou entidade da União, dos Estados, do DF ou dos Municípios, integrante do SISNAMA, competente pelo licenciamento na forma da LC 140/2011, que detém o poder decisório e responde pela emissão, renovação, acompanhamento e fiscalização das licenças</td></tr><tr><td><b>Autoridade envolvida</b></td><td>órgão ou entidade que pode se manifestar no licenciamento sobre impactos em <b>terras indígenas</b>, <b>territórios quilombolas</b>, <b>patrimônio cultural</b> ou <b>unidades de conservação</b></td></tr><tr><td><b>Condicionantes ambientais</b></td><td>medidas, condições ou restrições sob responsabilidade do empreendedor, estabelecidas na licença, para evitar, mitigar ou compensar impactos</td></tr><tr><td><b>EIA</b></td><td>estudo prévio de impacto ambiental, exigido para empreendimentos potencialmente causadores de <b>significativa degradação</b></td></tr><tr><td><b>RIMA</b></td><td>relatório de impacto ambiental, que reflete as conclusões do EIA em linguagem <b>acessível</b></td></tr><tr><td><b>RCE</b></td><td>Relatório de Caracterização do Empreendimento, base da LAC</td></tr><tr><td><b>RCA</b> e <b>PCA</b></td><td>Relatório de Controle Ambiental e Plano de Controle Ambiental</td></tr><tr><td><b>PBA</b></td><td>Plano Básico Ambiental, que detalha os programas da fase de instalação</td></tr></tbody></table>\n<h3>12. Os tipos de licença (art. 5º)</h3>\n<table class=\"tab\"><thead><tr><th>Licença</th><th>O que autoriza</th><th>Estudo típico</th></tr></thead><tbody><tr><td><b>LP</b> (Licença Prévia)</td><td>atesta, na fase de <b>planejamento</b>, a <b>viabilidade ambiental</b> do empreendimento quanto à sua concepção e localização, e estabelece requisitos e condicionantes</td><td>EIA/RIMA ou outro estudo</td></tr><tr><td><b>LI</b> (Licença de Instalação)</td><td>autoriza a <b>instalação</b>, aprovando os planos, programas e projetos de prevenção, mitigação ou compensação</td><td>PBA</td></tr><tr><td><b>LO</b> (Licença de Operação)</td><td>autoriza a <b>operação</b>, aprovando as ações de controle e monitoramento ambiental</td><td>relatórios de cumprimento</td></tr><tr><td><b>LAU</b> (Licença Ambiental Única)</td><td>em <b>uma única etapa</b>, atesta a viabilidade da instalação, da ampliação e da operação</td><td>RCA/PCA</td></tr><tr><td><b>LAC</b> (Licença por Adesão e Compromisso)</td><td>emitida eletronicamente mediante <b>declaração de adesão e compromisso</b> do empreendedor aos requisitos preestabelecidos pela autoridade</td><td>RCE</td></tr><tr><td><b>LOC</b> (Licença de Operação Corretiva)</td><td><b>regulariza</b> atividade ou empreendimento que esteja <b>operando sem licença</b></td><td>RCA/PCA</td></tr><tr><td><b>LAE</b> (Licença Ambiental Especial)</td><td>licença para empreendimentos <b>estratégicos</b> definidos por decreto, com análise <b>prioritária</b></td><td>EIA/RIMA</td></tr></tbody></table>\n<ul><li><b>Procedimentos</b>: o licenciamento pode ser <b>trifásico</b> (LP, LI e LO, em sequência, regra para os empreendimentos com EIA), <b>bifásico</b> (LP/LI ou LI/LO aglutinadas, por decisão motivada), <b>em fase única</b> (LAU), <b>por adesão e compromisso</b> (LAC), <b>corretivo</b> (LOC) ou <b>especial</b> (LAE).</li><li><b>Empreendimentos lineares</b> (rodovias, ferrovias, linhas de transmissão e distribuição, dutos, fibra ótica): podem iniciar a operação logo após a instalação, mediante termo técnico que comprove o atendimento das condicionantes, sem prejuízo da posterior LO.</li><li><b>LAC</b>: só cabe quando, <b>cumulativamente</b>, a atividade for de <b>pequeno ou médio porte</b> e de <b>baixo ou médio potencial poluidor</b>, conhecidas as características da região e os impactos, e <b>sem supressão de vegetação nativa</b> que dependa de autorização. A Lei 15.300/2025 <b>vedou</b> a LAC para <b>mineração</b> (na maioria das hipóteses), empreendimentos no <b>mar territorial</b>, em <b>terras indígenas</b>, <b>territórios quilombolas</b> e de <b>comunidades tradicionais</b>. A autoridade deve fiscalizar por <b>amostragem</b> as LACs emitidas e pode cancelá-las se constatar declaração falsa, sem prejuízo das sanções.</li><li><b>LOC e o procedimento corretivo</b> (art. 26): a atividade que estiver operando <b>sem licença</b> na data da publicação da lei pode ser regularizada pela LOC, mediante termo de compromisso. Com a derrubada dos vetos, voltaram os dispositivos que permitem a regularização por adesão e que extinguem a punibilidade do crime do <b>art. 60 da Lei 9.605</b> quando a regularização for espontânea e cumpridas todas as exigências. Se a regularização não for possível, a autoridade determina a <b>desativação</b> e a <b>recuperação</b> da área, sem prejuízo das sanções.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A LAC pode ser usada para qualquer empreendimento de médio porte</span><br>✅ <span class=\"certo\">Exige <b>pequeno ou médio porte</b> E <b>baixo ou médio potencial poluidor</b>, sem supressão de vegetação nativa, e há vedações (mineração, terras indígenas, quilombolas)</span></li><li>❌ <span class=\"banca\">A LAU é emitida em três fases</span><br>✅ <span class=\"certo\">É licença em <b>fase única</b></span></li><li>❌ <span class=\"banca\">A LOC serve para ampliar empreendimento já licenciado</span><br>✅ <span class=\"certo\">Serve para <b>regularizar</b> atividade que opera <b>sem licença</b></span></li><li>❌ <span class=\"banca\">A LAE dispensa EIA</span><br>✅ <span class=\"certo\">A LAE <b>exige</b> EIA/RIMA (Lei 15.300/2025)</span></li></ol></div>\n<h3>13. Prazos de validade, renovação e prazos de análise</h3>\n<table class=\"tab\"><thead><tr><th>Licença</th><th>Validade mínima</th><th>Validade máxima</th></tr></thead><tbody><tr><td><b>LP</b></td><td>3 anos</td><td>6 anos</td></tr><tr><td><b>LI</b> e <b>LP/LI</b> aglutinadas</td><td>3 anos</td><td>6 anos</td></tr><tr><td><b>LO</b>, <b>LAU</b>, <b>LI/LO</b>, <b>LOC</b> e <b>LAE</b></td><td>5 anos</td><td>10 anos</td></tr><tr><td><b>LAC</b></td><td>5 anos</td><td>10 anos</td></tr></tbody></table>\n<ul><li>É <b>vedada</b> a emissão de licenças por <b>prazo indeterminado</b> (art. 6º, § 2º). Os prazos devem considerar o cronograma do empreendimento e, na LO, os planos de controle.</li><li><b>Renovação</b> (art. 7º): deve ser requerida com antecedência mínima de <b>120 dias</b> da expiração; nesse caso, a licença fica <b>automaticamente prorrogada</b> até a manifestação definitiva da autoridade. Para atividades de <b>pequeno ou médio porte</b> e <b>baixo ou médio potencial poluidor</b>, a renovação pode ser <b>automática</b>, por <b>igual período</b>, mediante <b>declaração eletrônica</b> do empreendedor de que: não houve alteração das características e do porte; não houve alteração da legislação ambiental aplicável; e as condicionantes foram cumpridas (ou estão em cumprimento conforme cronograma). A LP só pode ser renovada <b>uma vez</b>, limitada a <b>50%</b> do prazo original.</li></ul>\n<table class=\"tab\"><thead><tr><th>Prazo máximo de análise (art. 47)</th><th>Hipótese</th></tr></thead><tbody><tr><td><b>10 meses</b></td><td>LP quando o estudo exigido for o <b>EIA</b></td></tr><tr><td><b>6 meses</b></td><td>LP com outros estudos</td></tr><tr><td><b>4 meses</b></td><td>procedimento bifásico sem EIA</td></tr><tr><td><b>3 meses</b></td><td>LI, LO, LOC e LAU</td></tr><tr><td><b>12 meses</b></td><td>LAE</td></tr></tbody></table>\n<ul><li>O descumprimento dos prazos de análise <b>não</b> gera licença tácita (regra que vem da LC 140, art. 14, § 3º), mas instaura a competência <b>supletiva</b> do outro ente, além de permitir a responsabilização funcional.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>LP</span></span><span class=\"vs\"><span>3 a 6 anos; análise em 10 meses (com EIA) ou 6 meses</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>LI</span></span><span class=\"vs\"><span>3 a 6 anos; análise em 3 meses</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>LO, LAU, LOC</span></span><span class=\"vs\"><span>5 a 10 anos; análise em 3 meses</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>LAC</span></span><span class=\"vs\"><span>5 a 10 anos; eletrônica, por declaração</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>LAE</span></span><span class=\"vs\"><span>5 a 10 anos; análise em até 12 meses</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Renovação</span></span><span class=\"vs\"><span>pedido com 120 dias de antecedência prorroga a licença até a decisão</span></span></button></div></div>\n<h3>14. Dispensas de licenciamento (arts. 8º e 9º)</h3>\n<ul><li>A LGLA lista atividades que <b>não</b> se sujeitam ao licenciamento ambiental. As dispensas não eximem o empreendedor de cumprir as demais normas ambientais (APP, reserva legal, autorização de supressão de vegetação, outorga de uso de água) nem de reparar danos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Dispensa</th><th>Observação</th></tr></thead><tbody><tr><td>Atividades de caráter <b>militar</b> previstas no preparo e emprego das Forças Armadas</td><td>conforme LC 97/1999</td></tr><tr><td>Atividades <b>não utilizadoras</b> de recursos ambientais e não poluidoras</td><td>não incluídas nas listas de atividades sujeitas a licenciamento</td></tr><tr><td>Obras e intervenções <b>urgentes</b> ou <b>emergenciais</b></td><td>em resposta a colapso de obras de infraestrutura, acidentes ou desastres, ou para prevenir dano iminente ou risco à vida; o responsável deve apresentar relatório à autoridade em <b>30 dias</b></td></tr><tr><td>Sistemas e estações de <b>distribuição de energia elétrica</b> até <b>138 kV</b></td><td>em área urbana ou rural</td></tr><tr><td><b>Manutenção e melhoria</b> de infraestrutura existente</td><td>inclusive em rodovias pavimentadas e faixas de domínio, e dragagens de manutenção (veto derrubado)</td></tr><tr><td><b>Pontos de entrega voluntária</b> e ecopontos</td><td>logística reversa</td></tr><tr><td><b>Cultivo agrícola</b>, <b>pecuária extensiva e semi-intensiva</b> e pecuária <b>intensiva de pequeno porte</b> (art. 9º)</td><td>desde que o imóvel esteja inscrito no <b>CAR</b>; com a derrubada dos vetos, a dispensa vale mesmo com o CAR <b>pendente de homologação</b></td></tr><tr><td><b>Sistemas de abastecimento de água e esgotamento sanitário</b></td><td>até o cumprimento das metas de universalização do saneamento (Lei 11.445/2007); veto derrubado</td></tr><tr><td><b>Pequenas barragens</b> de irrigação</td><td>consideradas de utilidade pública; veto derrubado</td></tr></tbody></table>\n<ul><li><b>Crítica</b>: a dispensa genérica para a agropecuária e para o saneamento é um dos pontos mais questionados nas ADIs, sob o argumento de que atividades potencialmente causadoras de significativa degradação não podem ficar sem avaliação prévia (art. 225, § 1º, IV). Em prova objetiva, lembre-se: <b>a lei prevê</b> essas dispensas.</li></ul>\n<h3>15. Estudos ambientais: EIA, RIMA e outros</h3>\n<ul><li>O <b>EIA</b> é exigido para empreendimentos potencialmente causadores de <b>significativa degradação</b> do meio ambiente (CF, art. 225, § 1º, IV). A <b>Resolução CONAMA 1/1986</b>, art. 2º, traz um rol <b>exemplificativo</b> de atividades que dependem de EIA/RIMA, como: estradas de rodagem com <b>duas ou mais faixas</b> de rolamento; ferrovias; portos e terminais de minério, petróleo e produtos químicos; aeroportos; oleodutos, gasodutos, minerodutos, troncos coletores e emissários de esgotos sanitários; linhas de transmissão de energia elétrica acima de <b>230 kV</b>; obras hidráulicas para exploração de recursos hídricos (barragens hidrelétricas acima de <b>10 MW</b>, saneamento, irrigação, abertura de canais, retificação de cursos d'água, transposição de bacias, diques); extração de combustível fóssil; extração de minério; <b>aterros sanitários</b>, processamento e destino final de resíduos tóxicos ou perigosos; usinas de geração de eletricidade acima de <b>10 MW</b>; complexos e unidades industriais e agroindustriais; distritos industriais e zonas estritamente industriais; exploração econômica de madeira ou lenha em áreas acima de <b>100 hectares</b>; <b>projetos urbanísticos acima de 100 hectares</b> ou em áreas consideradas de relevante interesse ambiental.</li><li><b>Conteúdo mínimo do EIA</b> (Res. 1/1986, arts. 5º e 6º): contemplar todas as <b>alternativas tecnológicas e de localização</b>, confrontando-as com a hipótese de <b>não execução</b> do projeto; identificar e avaliar os impactos nas fases de implantação e operação; definir a <b>área de influência</b> (considerando a <b>bacia hidrográfica</b>); diagnóstico ambiental da área (meio físico, biológico e socioeconômico); análise dos impactos (positivos e negativos, diretos e indiretos, imediatos e de médio e longo prazo, temporários e permanentes, reversíveis e irreversíveis, cumulativos e sinérgicos); definição das <b>medidas mitigadoras</b>; programa de <b>acompanhamento e monitoramento</b>.</li><li><b>Quem faz e quem paga</b>: o EIA é realizado por <b>equipe multidisciplinar</b> habilitada, e as despesas correm por conta do <b>empreendedor</b> (Res. 237/1997, art. 11). A equipe responde, junto com o empreendedor, pelas informações apresentadas, sujeitando-se às sanções administrativas, civis e penais. O crime do <b>art. 69-A</b> da Lei 9.605 pune quem elabora ou apresenta, no licenciamento, estudo, laudo ou relatório ambiental total ou parcialmente <b>falso ou enganoso</b>, inclusive por omissão (reclusão de 3 a 6 anos e multa).</li><li><b>RIMA</b>: reflete as conclusões do EIA em linguagem <b>objetiva, acessível</b>, ilustrada por mapas, quadros, gráficos, de modo que se possam entender as vantagens e desvantagens do projeto. É o documento destinado ao <b>público</b>. O EIA e o RIMA devem ficar disponíveis ao público, respeitado o <b>sigilo industrial</b> assim solicitado e demonstrado pelo interessado.</li><li><b>Vinculação</b>: o EIA <b>não vincula</b> a autoridade licenciadora: ela pode negar a licença mesmo com EIA favorável, ou concedê-la com condicionantes, desde que <b>motive</b> sua decisão. Mas a autoridade não pode <b>dispensar</b> o EIA quando houver significativa degradação.</li><li><b>Outros estudos</b>: para empreendimentos que <b>não</b> causam significativa degradação, a autoridade define estudos mais simples, como o <b>RCA</b> (Relatório de Controle Ambiental), o <b>PCA</b> (Plano de Controle Ambiental), o <b>RAS</b> (Relatório Ambiental Simplificado) ou o <b>RCE</b> (na LAC). O <b>termo de referência</b> (TR) define o conteúdo dos estudos para cada caso.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O rol de atividades que exigem EIA da Resolução CONAMA 1/1986 é taxativo</span><br>✅ <span class=\"certo\">É <b>exemplificativo</b></span></li><li>❌ <span class=\"banca\">O EIA é custeado pelo órgão ambiental</span><br>✅ <span class=\"certo\">É custeado pelo <b>empreendedor</b></span></li><li>❌ <span class=\"banca\">O EIA favorável obriga a concessão da licença</span><br>✅ <span class=\"certo\">O EIA <b>não vincula</b>; a autoridade decide motivadamente</span></li><li>❌ <span class=\"banca\">O RIMA é o documento técnico completo</span><br>✅ <span class=\"certo\">O RIMA é a versão <b>acessível</b> ao público; o completo é o EIA</span></li></ol></div>\n<h3>16. Participação pública: audiência e consulta</h3>\n<ul><li><b>Audiência pública</b> (Lei 15.190, art. 40): será realizada <b>pelo menos uma</b> audiência pública nos processos de licenciamento de empreendimentos sujeitos a <b>EIA</b>, <b>antes da decisão final sobre a LP</b>. O EIA e o RIMA devem estar disponíveis ao público com antecedência mínima de <b>45 dias</b> da audiência. A audiência pode ser <b>presencial ou remota</b> (ou híbrida), garantida a participação dos interessados.</li><li>Antes da LGLA, a audiência era regulada pela <b>Resolução CONAMA 9/1987</b>, que a exigia sempre que julgada necessária pelo órgão ou quando solicitada por <b>entidade civil</b>, pelo <b>Ministério Público</b> ou por <b>50 ou mais cidadãos</b>; nesse caso, se não realizada, a licença concedida seria <b>inválida</b>. A nova lei tornou a audiência <b>obrigatória</b> em todos os processos com EIA.</li><li><b>Consulta pública</b> (art. 41): pode ser realizada em qualquer modalidade de licenciamento, por <b>15 a 60 dias</b>, e <b>não suspende</b> os prazos do processo. Ocorre simultaneamente às manifestações das autoridades envolvidas.</li><li><b>Autoridades envolvidas</b> (art. 42 a 44): FUNAI (terras indígenas homologadas e áreas de restrição de uso de indígenas isolados), Fundação Cultural Palmares (territórios quilombolas <b>titulados</b>), órgãos de patrimônio cultural (bens tombados, registrados ou valorados) e o gestor de <b>unidade de conservação</b> (impactos na UC ou na zona de amortecimento, exceto APA). Prazos: <b>30 dias</b> (prorrogáveis por 15) para manifestar-se sobre o <b>termo de referência</b>; <b>90 dias</b> (prorrogáveis por 30) sobre o <b>EIA/RIMA</b>; <b>30 dias</b> (prorrogáveis por 15) sobre os demais estudos. Com a derrubada dos vetos, a manifestação das autoridades envolvidas <b>não vincula</b> a autoridade licenciadora, e a <b>ausência</b> de manifestação no prazo <b>não impede</b> o andamento do processo nem a expedição da licença.</li><li><b>Consulta prévia aos povos indígenas e tribais</b> (Convenção 169 da OIT): é obrigação diferente da manifestação da FUNAI. O STF, no julgamento da Lei 14.701/2023 (dezembro de 2025), reafirmou que a consulta <b>prévia, livre e informada</b> é obrigatória quando o empreendimento afetar comunidades indígenas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Com a LGLA, a audiência pública passou a ser facultativa</span><br>✅ <span class=\"certo\">Passou a ser <b>obrigatória</b> em todo processo com <b>EIA</b>, antes da LP</span></li><li>❌ <span class=\"banca\">O parecer da FUNAI no licenciamento é vinculante</span><br>✅ <span class=\"certo\">Pela LGLA (vetos derrubados), a manifestação <b>não vincula</b></span></li><li>❌ <span class=\"banca\">O EIA deve ficar disponível 15 dias antes da audiência</span><br>✅ <span class=\"certo\">O prazo mínimo é de <b>45 dias</b></span></li><li>❌ <span class=\"banca\">A consulta pública suspende os prazos de análise</span><br>✅ <span class=\"certo\"><b>Não</b> suspende</span></li></ol></div>\n<h3>17. Natureza jurídica da licença ambiental</h3>\n<ul><li>A licença ambiental é ato administrativo de natureza <b>peculiar</b>. Diferentemente da licença clássica do Direito Administrativo (ato <b>vinculado</b> e <b>definitivo</b>, como a licença para construir), a licença ambiental: (1) envolve <b>discricionariedade técnica</b> na avaliação da viabilidade e na fixação de condicionantes; (2) tem <b>prazo de validade</b>; (3) pode ser <b>modificada, suspensa ou cancelada</b> durante a vigência. Por isso, parte da doutrina diz que ela se aproxima de uma <b>autorização</b>, e a jurisprudência afirma que <b>não gera direito adquirido</b> a poluir.</li><li><b>Modificação, suspensão e cancelamento</b>: a autoridade licenciadora, mediante decisão <b>motivada</b>, pode modificar as condicionantes e as medidas de controle, suspender ou cancelar a licença quando ocorrer: <b>violação ou inadequação</b> de condicionantes ou normas legais; <b>omissão ou falsa descrição</b> de informações relevantes que subsidiaram a expedição; <b>superveniência de graves riscos</b> ambientais e de saúde (regra tradicional do art. 19 da Resolução CONAMA 237/1997, mantida na lógica da LGLA). Deve-se respeitar o contraditório, salvo situação de urgência.</li><li><b>Licença e responsabilidade civil</b>: a licença <b>não</b> exime o empreendedor de reparar os danos que sua atividade causar. A responsabilidade civil é objetiva e pelo risco integral. A licença afasta apenas a <b>ilicitude administrativa e penal</b> de operar sem licença (arts. 60 da Lei 9.605 e 66 do Decreto 6.514).</li><li><b>Condicionantes</b>: devem ter <b>nexo causal</b> com os impactos do empreendimento e ser <b>proporcionais</b>. A LGLA proíbe que a autoridade imponha ao empreendedor condicionantes destinadas a suprir <b>deficiências do Poder Público</b> ou a custear serviços públicos sem relação com os impactos (por exemplo, exigir que uma fábrica construa uma escola sem relação com o impacto que ela causa). As condicionantes podem ser revistas a pedido do empreendedor, mediante justificativa técnica.</li><li><b>Licença e outras autorizações</b>: a licença ambiental <b>não substitui</b> o <b>alvará de construção</b> ou de <b>funcionamento</b> municipal (poder de polícia urbanística), a <b>outorga</b> de direito de uso de recursos hídricos (Lei 9.433/1997), a <b>autorização de supressão de vegetação</b>, nem as licenças setoriais (ANM, ANP, ANEEL). O art. 10, § 1º, da Resolução CONAMA 237/1997 já exigia, no requerimento de licença, a <b>certidão da Prefeitura</b> declarando que o local e o tipo de empreendimento estão em conformidade com a legislação de <b>uso e ocupação do solo</b>. Esse é um ponto importante para o Procurador Municipal: o Município pode negar a certidão de uso do solo e, assim, impedir o licenciamento estadual de atividade incompatível com o plano diretor.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A licença ambiental gera direito adquirido à operação pelo prazo de validade</span><br>✅ <span class=\"certo\">Pode ser <b>modificada, suspensa ou cancelada</b> por decisão motivada</span></li><li>❌ <span class=\"banca\">A licença ambiental afasta a responsabilidade civil por danos</span><br>✅ <span class=\"certo\">A responsabilidade civil é <b>objetiva</b>, mesmo com licença</span></li><li>❌ <span class=\"banca\">A licença ambiental estadual dispensa o alvará municipal</span><br>✅ <span class=\"certo\">Não substitui as licenças urbanísticas municipais</span></li><li>❌ <span class=\"banca\">Condicionantes podem suprir qualquer carência do Poder Público</span><br>✅ <span class=\"certo\">Devem ter <b>nexo</b> com os impactos e ser <b>proporcionais</b></span></li></ol></div>\n<h3>18. Compensação ambiental do SNUC</h3>\n<ul><li><b>Lei 9.985/2000, art. 36</b>: nos casos de licenciamento ambiental de empreendimentos de <b>significativo impacto ambiental</b>, assim considerado pelo órgão ambiental competente, com fundamento em <b>EIA/RIMA</b>, o empreendedor é obrigado a <b>apoiar a implantação e manutenção de unidade de conservação do Grupo de Proteção Integral</b>.</li><li>O § 1º dizia que o montante não poderia ser <b>inferior a 0,5%</b> dos custos totais previstos para a implantação do empreendimento. O STF, na <b>ADI 3.378</b> (2008), declarou <b>inconstitucional</b> a expressão \"não pode ser inferior a meio por cento dos custos totais previstos para a implantação do empreendimento\": o valor deve ser fixado <b>proporcionalmente ao impacto</b> ambiental, após estudo em que se assegurem o contraditório e a ampla defesa, e não com base no custo da obra. A compensação em si foi considerada <b>constitucional</b> (expressão do poluidor-pagador). O <b>Decreto 6.848/2009</b> passou a prever o grau de impacto entre <b>0% e 0,5%</b> do valor de referência.</li><li><b>Destinação</b>: em regra, UC de <b>proteção integral</b>. Quando o empreendimento afetar UC específica ou sua <b>zona de amortecimento</b>, o licenciamento só pode ser concedido mediante <b>autorização</b> (hoje, <b>ciência/manifestação</b>, conforme a regulamentação) do órgão responsável por sua administração, e a UC afetada, mesmo que não seja de proteção integral, deverá ser uma das <b>beneficiárias</b> da compensação (§ 3º).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 3.378 (compensação ambiental)</b><p class=\"jc-tese\">O STF reconheceu a constitucionalidade da <b>compensação ambiental</b> do art. 36 da Lei do SNUC, por concretizar o princípio do <b>usuário-pagador</b> (ou poluidor-pagador), mas declarou inconstitucional o <b>piso de 0,5%</b> dos custos do empreendimento. O valor deve ser <b>compatível e proporcional ao grau de impacto</b> ambiental efetivamente causado, apurado tecnicamente.</p><p class=\"jc-com\">Pegadinha frequente: \"a compensação ambiental do SNUC foi declarada inconstitucional\" (errado: só a <b>expressão</b> do piso); \"o valor mínimo é de 0,5% do custo da obra\" (errado: o piso caiu).</p></div>\n<h3>19. Crimes e infrações ligados ao licenciamento</h3>\n<table class=\"tab\"><thead><tr><th>Dispositivo (Lei 9.605/1998)</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>Art. 60</b></td><td>construir, reformar, ampliar, instalar ou fazer funcionar estabelecimentos, obras ou serviços potencialmente poluidores <b>sem licença</b> ou autorização dos órgãos ambientais competentes, ou contrariando as normas legais e regulamentares</td><td>detenção de <b>6 meses a 2 anos</b>, ou multa, ou ambas; aumento até o <b>dobro</b> se o licenciamento exigir EIA (redação da Lei 15.190)</td></tr><tr><td><b>Art. 66</b></td><td><b>funcionário público</b> fazer afirmação falsa ou enganosa, omitir a verdade, sonegar informações ou dados técnico-científicos em procedimentos de autorização ou licenciamento</td><td>reclusão de 1 a 3 anos e multa</td></tr><tr><td><b>Art. 67</b></td><td><b>conceder dolosamente</b> o funcionário público licença, autorização ou permissão em desacordo com as normas ambientais</td><td>detenção de <b>1 a 3 anos</b> e multa; a modalidade <b>culposa</b> foi <b>revogada</b> pela Lei 15.190</td></tr><tr><td><b>Art. 68</b></td><td>deixar, aquele que tiver o dever legal ou contratual de fazê-lo, de cumprir <b>obrigação de relevante interesse ambiental</b></td><td>detenção de 1 a 3 anos e multa; culposo: 3 meses a 1 ano</td></tr><tr><td><b>Art. 69</b></td><td><b>obstar ou dificultar</b> a ação fiscalizadora do Poder Público</td><td>detenção de 1 a 3 anos e multa</td></tr><tr><td><b>Art. 69-A</b></td><td>elaborar ou apresentar estudo, laudo ou relatório ambiental total ou parcialmente <b>falso ou enganoso</b>, inclusive por omissão</td><td>reclusão de <b>3 a 6 anos</b> e multa; aumento de 1/3 a 2/3 se houver dano significativo</td></tr></tbody></table>\n<ul><li><b>Infração administrativa</b> (Decreto 6.514/2008, art. 66): construir, reformar, ampliar, instalar ou fazer funcionar estabelecimentos, atividades, obras ou serviços utilizadores de recursos ambientais, considerados efetiva ou potencialmente poluidores, <b>sem licença</b> ou em desacordo com a licença obtida: multa de <b>R$ 500,00 a R$ 10.000.000,00</b>. Incorre nas mesmas penas quem deixa de atender a <b>condicionantes</b> estabelecidas na licença.</li><li><b>Extinção da punibilidade</b> pela regularização: com a derrubada dos vetos, a LGLA prevê que a regularização <b>espontânea</b> pelo procedimento corretivo, com cumprimento integral das exigências, extingue a punibilidade do crime do art. 60. Antes, a Lei 9.605 já previa, no art. 79-A, o <b>termo de compromisso</b> com os órgãos do SISNAMA para adequação das atividades.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O servidor que concede licença por culpa comete o crime do art. 67</span><br>✅ <span class=\"certo\">A Lei 15.190 <b>revogou</b> a modalidade culposa; o art. 67 exige <b>dolo</b></span></li><li>❌ <span class=\"banca\">Operar sem licença é apenas infração administrativa</span><br>✅ <span class=\"certo\">Também é <b>crime</b> (art. 60 da Lei 9.605)</span></li><li>❌ <span class=\"banca\">Apresentar EIA falso tem pena de detenção de 1 a 3 anos</span><br>✅ <span class=\"certo\">É <b>reclusão de 3 a 6 anos</b> (art. 69-A)</span></li></ol></div>\n<h3>20. Licenciamento municipal na prática</h3>\n<ul><li>Para o Município licenciar, precisa de: (1) <b>lei municipal</b> que institua o licenciamento, a política e as infrações; (2) <b>órgão ambiental capacitado</b>, com técnicos habilitados em número compatível (próprios ou em consórcio); (3) <b>conselho municipal de meio ambiente</b> com caráter deliberativo e participação social; (4) <b>fundo municipal</b> de meio ambiente (recomendável); (5) atuar dentro da <b>tipologia</b> de impacto local definida pelo Conselho Estadual (em MG, o COPAM), ou receber <b>delegação</b> por convênio.</li><li><b>Consórcios</b>: Municípios pequenos podem se consorciar (Lei 11.107/2005) para compartilhar equipe técnica e assim atender ao requisito de órgão capacitado (LC 140, art. 5º, parágrafo único).</li><li><b>Taxa de licenciamento municipal</b>: deve ser <b>proporcional</b> ao custo e à complexidade do serviço (LC 140, art. 13, § 3º), cobrada por lei municipal (taxa de poder de polícia, CTN, art. 78).</li><li><b>Relação com o alvará</b>: o licenciamento ambiental municipal pode ser integrado ao licenciamento urbanístico e sanitário, mas são atos distintos. A <b>REDESIM</b> e a Lei de Liberdade Econômica (Lei 13.874/2019) dispensam de atos públicos de liberação as atividades de <b>baixo risco</b>, o que não afasta, por si só, a exigência de licença ambiental quando a atividade for poluidora (a classificação de risco ambiental segue normas próprias).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Posto de combustível no centro da cidade</b><p>Uma empresa quer instalar posto de combustível em bairro residencial. O Estado (órgão ambiental) diz que a atividade, pela tipologia do COPAM, é de impacto local e pode ser licenciada pelo Município, que tem órgão e conselho. O Município licencia, mas os vizinhos alegam que só o Estado poderia licenciar postos.</p><details><summary>Ver a solução comentada</summary><p>Se a atividade consta da <b>tipologia</b> de impacto local definida pelo <b>Conselho Estadual</b> e o Município tem <b>órgão capacitado</b> e <b>conselho de meio ambiente</b>, a competência é <b>municipal</b> (LC 140, art. 9º, XIV, \"a\"). O licenciamento é feito por <b>um único ente</b> (art. 13). Os vizinhos podem participar, pedir informações e questionar condicionantes (por exemplo, sobre tanques e monitoramento de vazamentos, Resolução CONAMA 273/2000), mas não há nulidade por incompetência.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Silêncio do órgão ambiental</b><p>Uma indústria protocolou pedido de LI há 5 meses. Não houve resposta. O empresário pretende iniciar as obras alegando que o prazo legal de 3 meses se esgotou.</p><details><summary>Ver a solução comentada</summary><p>Não pode. O decurso do prazo <b>não implica emissão tácita</b> da licença nem autoriza o ato que dela dependa (LC 140, art. 14, § 3º). Instalar sem licença é <b>crime</b> (Lei 9.605, art. 60) e infração (Decreto 6.514, art. 66). O empresário pode: requerer a atuação <b>supletiva</b> do outro ente, impetrar <b>mandado de segurança</b> para obrigar a autoridade a decidir (direito à razoável duração do processo administrativo) e representar contra a demora.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Licença concedida sem EIA</b><p>O Estado concedeu LP e LI para um aterro sanitário regional com base apenas em RCA/PCA, sem EIA. O MP ajuíza ACP pedindo a anulação.</p><details><summary>Ver a solução comentada</summary><p><b>Aterros sanitários</b> constam do rol exemplificativo da Resolução CONAMA 1/1986 (art. 2º, X), e o EIA é exigência <b>constitucional</b> para atividades de significativa degradação (art. 225, § 1º, IV). Se o órgão não demonstrar, com base técnica, que o aterro <b>não</b> causa significativa degradação, a dispensa do EIA é ilegal, e a licença pode ser anulada. Sem EIA, também não houve a <b>audiência pública</b> obrigatória (Lei 15.190, art. 40). O juiz pode suspender a licença liminarmente com base na <b>precaução</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Empreendimento em APA federal</b><p>Uma pousada de pequeno porte será construída dentro de uma Área de Proteção Ambiental criada pela União. O dono pergunta se precisa ir ao IBAMA.</p><details><summary>Ver a solução comentada</summary><p>Não necessariamente. Nas <b>APAs</b>, o critério de competência <b>não</b> é o do ente instituidor (LC 140, art. 12). Aplicam-se as regras gerais: se a pousada for de impacto local e constar da tipologia estadual, licencia o <b>Município</b>; caso contrário, o <b>Estado</b>. O ICMBio, como gestor da UC, pode ser ouvido nos termos da regulamentação, mas não licencia.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Condicionante desproporcional</b><p>Na licença de uma pequena fábrica de móveis, o Município exigiu como condicionante a construção de uma creche municipal. A empresa contesta.</p><details><summary>Ver a solução comentada</summary><p>A condicionante deve ter <b>nexo</b> com os impactos ambientais do empreendimento e ser <b>proporcional</b>. A construção de creche não tem relação com o impacto da fábrica (ruído, resíduos, pó de madeira) e serve para suprir uma deficiência do Poder Público, o que a LGLA veda. A condicionante é ilegal e pode ser afastada administrativa ou judicialmente, sem anular a licença como um todo.</p></details></div>\n<h3>21. Questões comentadas</h3>\n<ul><li><b>\"Integra o SISNAMA, como órgão consultivo e deliberativo, o Conselho de Governo.\"</b> Errado: o Conselho de Governo é o órgão <b>superior</b>; o <b>CONAMA</b> é consultivo e deliberativo.</li><li><b>\"São órgãos executores do SISNAMA o IBAMA e o ICMBio.\"</b> Certo: art. 6º, IV.</li><li><b>\"O zoneamento ambiental e a avaliação de impactos ambientais são instrumentos da PNMA.\"</b> Certo: art. 9º, II e III.</li><li><b>\"A servidão ambiental pode ser instituída sobre a área de reserva legal mínima.\"</b> Errado: art. 9º-A, § 2º.</li><li><b>\"Compete ao Município licenciar as atividades de impacto ambiental de âmbito local, conforme tipologia definida pelo Conselho Municipal de Meio Ambiente.\"</b> Errado: a tipologia é definida pelos <b>Conselhos Estaduais</b>.</li><li><b>\"O decurso do prazo de licenciamento sem a emissão da licença implica sua emissão tácita.\"</b> Errado: art. 14, § 3º, da LC 140.</li><li><b>\"Inexistindo órgão ambiental capacitado ou conselho de meio ambiente no Município, o Estado deve desempenhar as ações administrativas municipais até a sua criação.\"</b> Certo: art. 15, II.</li><li><b>\"Segundo a Lei 15.190/2025, a LP tem prazo de validade mínimo de 3 e máximo de 6 anos.\"</b> Certo.</li><li><b>\"A LAC pode ser emitida para atividades de grande porte e alto potencial poluidor, desde que o empreendedor declare cumprir as exigências.\"</b> Errado: só <b>pequeno/médio porte</b> e <b>baixo/médio potencial poluidor</b>.</li><li><b>\"O STF declarou inconstitucional a compensação ambiental do art. 36 da Lei 9.985/2000.\"</b> Errado: declarou inconstitucional apenas o <b>piso de 0,5%</b>.</li><li><b>\"O EIA vincula a decisão da autoridade licenciadora.\"</b> Errado: não vincula, mas exige motivação.</li><li><b>\"A renovação da licença requerida com 120 dias de antecedência prorroga automaticamente sua validade até a decisão.\"</b> Certo: LC 140, art. 14, § 4º, e Lei 15.190, art. 7º.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A tipologia de impacto local é definida pelo Município</span><br>✅ <span class=\"certo\">É definida pelos <b>Conselhos Estaduais de Meio Ambiente</b></span></li><li>❌ <span class=\"banca\">A LGLA revogou a LC 140</span><br>✅ <span class=\"certo\">A LGLA é lei ordinária de normas gerais de procedimento; a <b>LC 140</b> continua definindo <b>quem</b> licencia</span></li><li>❌ <span class=\"banca\">A Resolução CONAMA 237 foi totalmente revogada</span><br>✅ <span class=\"certo\">Continua aplicável no que não contrariar a LGLA</span></li></ol></div>\n<h3>22. Como as bancas cobram este tópico</h3>\n<ul><li><b>SISNAMA</b>: troca entre órgão superior (Conselho de Governo), consultivo e deliberativo (CONAMA), central (MMA), executores (IBAMA e ICMBio), seccionais (estaduais) e locais (municipais).</li><li><b>Instrumentos do art. 9º</b>: listas com um item \"intruso\" (por exemplo, \"tombamento\" ou \"desapropriação\", que não estão no art. 9º).</li><li><b>LC 140</b>: competência do Município (impacto local, tipologia do Conselho <b>Estadual</b>), APAs (critério geral), licença única, silêncio não é licença tácita, supletiva x subsidiária.</li><li><b>LGLA</b>: tipos de licença, prazos de validade (LP 3 a 6; LO 5 a 10), renovação com 120 dias, LAC (porte e potencial), audiência obrigatória com EIA, dispensas.</li><li><b>EIA/RIMA</b>: rol exemplificativo, custeio pelo empreendedor, publicidade, não vinculação.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Ordem do SISNAMA, de cima para baixo: <b>\"Governo Conama Ministério Executa Seccional Local\"</b>: <b>Conselho de Governo</b> (superior), <b>CONAMA</b> (consultivo e deliberativo), <b>MMA</b> (central), <b>IBAMA/ICMBio</b> (executores), <b>órgãos estaduais</b> (seccionais), <b>órgãos municipais</b> (locais).</div>\n<h3>23. O processo administrativo sancionador ambiental</h3>\n<ul><li>Depois do licenciamento, a outra face do poder de polícia ambiental é a <b>fiscalização</b> e a <b>sanção</b>. A base é a <b>Lei 9.605/1998, arts. 70 a 76</b>, regulamentada pelo <b>Decreto 6.514/2008</b>, que se aplica à esfera federal e serve de modelo para Estados e Municípios (que podem ter leis próprias).</li><li><b>Quem pode lavrar o auto</b> (art. 70, § 1º): são autoridades competentes para lavrar auto de infração ambiental e instaurar processo administrativo os <b>funcionários de órgãos ambientais integrantes do SISNAMA</b>, designados para as atividades de fiscalização, bem como os agentes das <b>Capitanias dos Portos</b>, do Comando da Marinha. Qualquer pessoa, constatando infração ambiental, pode dirigir <b>representação</b> às autoridades (§ 2º). A autoridade que tiver conhecimento de infração é <b>obrigada</b> a promover a sua apuração imediata, sob pena de <b>corresponsabilidade</b> (§ 3º).</li><li><b>Garantias</b> (art. 70, § 4º): as infrações ambientais são apuradas em processo administrativo próprio, assegurado o direito de <b>ampla defesa</b> e o <b>contraditório</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Sanção (art. 72 da Lei 9.605)</th><th>Observação</th></tr></thead><tbody><tr><td><b>Advertência</b></td><td>para infrações de menor lesividade; pode ser aplicada antes de outras sanções</td></tr><tr><td><b>Multa simples</b></td><td>aplicada quando o agente, por negligência ou dolo, deixar de sanar irregularidades após advertido, ou opuser embaraço à fiscalização (§ 3º); pode ser <b>convertida</b> em serviços de preservação, melhoria e recuperação da qualidade do meio ambiente (§ 4º)</td></tr><tr><td><b>Multa diária</b></td><td>quando o cometimento da infração se <b>prolongar no tempo</b></td></tr><tr><td><b>Apreensão</b></td><td>de animais, produtos e subprodutos da fauna e flora, instrumentos, petrechos, equipamentos ou veículos de qualquer natureza utilizados na infração</td></tr><tr><td><b>Destruição ou inutilização</b> do produto</td><td>por exemplo, de produtos impróprios</td></tr><tr><td><b>Suspensão de venda e fabricação</b> do produto ;</td></tr><tr><td><b>Embargo</b> de obra ou atividade</td><td>impede a continuação da obra ou atividade irregular; é publicado e pode ser consultado</td></tr><tr><td><b>Demolição</b> de obra</td><td>em regra, após decisão definitiva, salvo urgência</td></tr><tr><td><b>Suspensão parcial ou total</b> de atividades ;</td></tr><tr><td><b>Restritiva de direitos</b></td><td>suspensão ou cancelamento de registro, licença ou autorização; perda ou restrição de incentivos fiscais e de financiamentos; proibição de contratar com a Administração por até 3 anos</td></tr></tbody></table>\n<ul><li><b>Valor das multas</b> (art. 75): mínimo de <b>R$ 50,00</b> e máximo de <b>R$ 50.000.000,00</b>, corrigidos periodicamente. O pagamento de multa imposta pelos <b>Estados, Municípios, DF ou Territórios substitui</b> a multa federal <b>na mesma hipótese de incidência</b> (art. 76). Esse dispositivo evita o <i>bis in idem</i> entre os entes e reforça a importância da fiscalização municipal.</li><li><b>Conversão de multas</b>: o Decreto 6.514 (com as alterações do Decreto 9.760/2019 e posteriores) regula a <b>conversão</b> da multa simples em <b>serviços ambientais</b>, com desconto, mediante adesão do autuado a projetos de recuperação. A conversão não dispensa a obrigação de <b>reparar</b> o dano.</li><li><b>Prescrição</b> (Decreto 6.514, art. 21): prescreve em <b>5 anos</b> a ação da administração para apurar a infração, contados da data da prática do ato ou, no caso de infração permanente ou continuada, do dia em que tiver cessado. Incide a <b>prescrição intercorrente</b> no procedimento paralisado por mais de <b>3 anos</b>, pendente de julgamento ou despacho (§ 2º). Quando o fato também constituir <b>crime</b>, a prescrição rege-se pelo prazo previsto na lei penal (§ 3º). A <b>pretensão executória</b> da multa (cobrança após a constituição definitiva) prescreve em <b>5 anos</b> (Súmula 467 do STJ: \"Prescreve em cinco anos, contados do término do processo administrativo, a pretensão da Administração Pública de promover a execução da multa por infração ambiental\").</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O pagamento de multa municipal não interfere na multa federal</span><br>✅ <span class=\"certo\">Substitui a multa federal <b>na mesma hipótese de incidência</b> (Lei 9.605, art. 76)</span></li><li>❌ <span class=\"banca\">A conversão da multa em serviços dispensa a reparação do dano</span><br>✅ <span class=\"certo\">A reparação é <b>sempre</b> devida</span></li><li>❌ <span class=\"banca\">A ação para apurar infração ambiental é imprescritível</span><br>✅ <span class=\"certo\">Prescreve em <b>5 anos</b> (Decreto 6.514, art. 21), com intercorrente de 3 anos</span></li><li>❌ <span class=\"banca\">A execução da multa ambiental prescreve em 10 anos</span><br>✅ <span class=\"certo\">Em <b>5 anos</b> do término do processo (Súmula 467 do STJ)</span></li></ol></div>\n<h3>24. Exercício integrado: da licença à execução da multa</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O frigorífico do município</b><p>Um frigorífico de médio porte opera há anos em Município mineiro com licença estadual vencida. Ele lança efluentes sem tratamento num córrego, e o Município, que tem órgão ambiental capacitado e conselho, mas não licenciou a atividade (que não consta da tipologia de impacto local), recebe denúncias. O que cada ente pode fazer, e quais as consequências para o frigorífico?</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Competência para licenciar</b>: como a atividade não está na tipologia de impacto local, a competência é do <b>Estado</b> (LC 140, art. 8º, XIV). (2) <b>Situação da licença</b>: se o frigorífico não pediu a renovação com 120 dias de antecedência, a licença venceu e ele opera <b>sem licença</b>: crime (Lei 9.605, art. 60) e infração (Decreto 6.514, art. 66). Pode buscar a <b>LOC</b> (licença de operação corretiva) e o termo de compromisso. (3) <b>Fiscalização municipal</b>: diante de dano em curso, o Município pode e deve adotar <b>medidas imediatas</b> (por exemplo, notificação, embargo cautelar do lançamento) e <b>comunicar</b> o órgão estadual (LC 140, art. 17, § 2º). Se o Estado se omitir, o Município pode atuar <b>supletivamente</b> (ADI 4.757), desde que tenha <b>lei municipal</b> prevendo infração e sanção. (4) <b>Responsabilidade civil</b>: o frigorífico responde <b>objetivamente</b> pela recuperação do córrego, e o Município e o Estado podem responder <b>solidariamente</b> por omissão, com <b>execução subsidiária</b> (Súmula 652). (5) <b>Multa</b>: aplicada pelo Estado, pelo Município ou pelo IBAMA, a multa paga ao Estado ou Município <b>substitui</b> a federal na mesma hipótese (art. 76). Após o fim do processo, a cobrança é por <b>execução fiscal</b>, com prescrição de 5 anos (Súmula 467). (6) <b>Crime</b>: a empresa pode ser denunciada sozinha (RE 548.181), e a regularização espontânea pela LOC, com cumprimento integral, pode extinguir a punibilidade do art. 60, nos termos da LGLA.</p></details></div>\n<ul><li><b>Moral do exercício</b>: em cada caso, separe as perguntas: <b>quem licencia</b> (LC 140), <b>qual licença</b> (LGLA), <b>quem fiscaliza e autua</b> (LC 140, art. 17, e ADI 4.757), <b>qual a sanção e o prazo</b> (Lei 9.605 e Decreto 6.514), <b>quem repara e como</b> (Lei 6.938, art. 14, § 1º, e súmulas do STJ). Essa sequência resolve a maioria das questões discursivas de Procuradoria sobre o tema.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Auto de infração</span></span><span class=\"vs\"><span>funcionários de órgãos do SISNAMA designados para fiscalização</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Defesa contra o auto</span></span><span class=\"vs\"><span>20 dias (Lei 9.605, art. 71, I)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Multa</span></span><span class=\"vs\"><span>R$ 50 a R$ 50 milhões (art. 75)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Multa estadual ou municipal paga</span></span><span class=\"vs\"><span>substitui a federal na mesma hipótese (art. 76)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prescrição da apuração</span></span><span class=\"vs\"><span>5 anos; intercorrente 3 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Execução da multa</span></span><span class=\"vs\"><span>5 anos do fim do processo (Súmula 467)</span></span></button></div></div>",
+"quiz": [
+{
+"p": "A Política Nacional do Meio Ambiente tem por objetivo a preservação, melhoria e recuperação da qualidade ambiental propícia à vida.",
+"c": true,
+"prof": "Lei 6.938, art. 2º.",
+"x": "Objetivo geral.",
+"e": "Objetivo"
+},
+{
+"p": "Segundo a Lei 6.938/1981, poluidor é a pessoa física ou jurídica, de direito público ou privado, responsável, direta ou indiretamente, por atividade causadora de degradação ambiental.",
+"c": true,
+"prof": "Art. 3º, IV.",
+"x": "Conceito.",
+"e": "Poluidor"
+},
+{
+"p": "Pessoa jurídica de direito público não pode ser considerada poluidora pela Lei 6.938/1981.",
+"c": false,
+"prof": "Art. 3º, IV.",
+"x": "Pode.",
+"e": "Poluidor"
+},
+{
+"p": "Degradação da qualidade ambiental é a alteração adversa das características do meio ambiente.",
+"c": true,
+"prof": "Art. 3º, II.",
+"x": "Conceito.",
+"e": "Degradação"
+},
+{
+"p": "A poluição, segundo a Lei 6.938/1981, inclui a degradação que afete as condições estéticas do meio ambiente.",
+"c": true,
+"prof": "Art. 3º, III, d.",
+"x": "Estética.",
+"e": "Poluição"
+},
+{
+"p": "A Lei 6.938/1981 impõe ao usuário a contribuição pela utilização de recursos ambientais com fins econômicos.",
+"c": true,
+"prof": "Art. 4º, VII.",
+"x": "Usuário-pagador.",
+"e": "Usuário"
+},
+{
+"p": "O Conselho de Governo é o órgão superior do SISNAMA.",
+"c": true,
+"prof": "Art. 6º, I.",
+"x": "Superior.",
+"e": "SISNAMA"
+},
+{
+"p": "O IBAMA é o órgão central do SISNAMA.",
+"c": false,
+"prof": "Art. 6º.",
+"x": "Central é o MMA; IBAMA é executor.",
+"e": "SISNAMA"
+},
+{
+"p": "O CONAMA é o órgão consultivo e deliberativo do SISNAMA.",
+"c": true,
+"prof": "Art. 6º, II.",
+"x": "CONAMA.",
+"e": "CONAMA"
+},
+{
+"p": "O IBAMA e o ICMBio são órgãos executores do SISNAMA.",
+"c": true,
+"prof": "Art. 6º, IV.",
+"x": "Executores.",
+"e": "Executores"
+},
+{
+"p": "Os órgãos municipais de meio ambiente não integram o SISNAMA.",
+"c": false,
+"prof": "Art. 6º, VI.",
+"x": "São órgãos locais.",
+"e": "Locais"
+},
+{
+"p": "Os órgãos ou entidades estaduais responsáveis pela execução de programas e fiscalização de atividades degradadoras são os órgãos seccionais do SISNAMA.",
+"c": true,
+"prof": "Art. 6º, V.",
+"x": "Seccionais.",
+"e": "Seccionais"
+},
+{
+"p": "Compete ao CONAMA estabelecer, privativamente, normas e padrões nacionais de controle da poluição por veículos automotores.",
+"c": true,
+"prof": "Art. 8º, VI.",
+"x": "PROCONVE.",
+"e": "CONAMA"
+},
+{
+"p": "Compete atualmente ao CONAMA julgar, em última instância, os recursos contra multas aplicadas pelo IBAMA.",
+"c": false,
+"prof": "Art. 8º, III.",
+"x": "Revogado em 2009.",
+"e": "Recursos"
+},
+{
+"p": "O STF declarou inconstitucional decreto que reduziu a participação da sociedade civil no CONAMA.",
+"c": true,
+"prof": "ADPF 623.",
+"x": "Participação.",
+"e": "CONAMA"
+},
+{
+"p": "O zoneamento ambiental é instrumento da Política Nacional do Meio Ambiente.",
+"c": true,
+"prof": "Art. 9º, II.",
+"x": "Instrumento.",
+"e": "Instrumentos"
+},
+{
+"p": "A avaliação de impactos ambientais é instrumento da PNMA.",
+"c": true,
+"prof": "Art. 9º, III.",
+"x": "AIA.",
+"e": "Instrumentos"
+},
+{
+"p": "O tombamento é instrumento expressamente previsto no art. 9º da Lei 6.938/1981.",
+"c": false,
+"prof": "Art. 9º.",
+"x": "Não consta.",
+"e": "Instrumentos"
+},
+{
+"p": "A concessão florestal, a servidão ambiental e o seguro ambiental são instrumentos econômicos da PNMA.",
+"c": true,
+"prof": "Art. 9º, XIII.",
+"x": "Econômicos.",
+"e": "Instrumentos"
+},
+{
+"p": "A servidão ambiental pode ser instituída sobre áreas de preservação permanente.",
+"c": false,
+"prof": "Art. 9º-A, § 2º.",
+"x": "Não se aplica.",
+"e": "Servidão"
+},
+{
+"p": "O prazo mínimo da servidão ambiental temporária é de 15 anos.",
+"c": true,
+"prof": "Art. 9º-B, § 1º.",
+"x": "15 anos.",
+"e": "Servidão"
+},
+{
+"p": "O STF declarou constitucional a Taxa de Controle e Fiscalização Ambiental (TCFA).",
+"c": true,
+"prof": "RE 416.601.",
+"x": "Poder de polícia.",
+"e": "TCFA"
+},
+{
+"p": "O poluidor é obrigado, independentemente da existência de culpa, a indenizar ou reparar os danos causados ao meio ambiente e a terceiros afetados por sua atividade.",
+"c": true,
+"prof": "Art. 14, § 1º.",
+"x": "Objetiva.",
+"e": "Responsabilidade"
+},
+{
+"p": "As entidades de financiamento governamentais devem condicionar a aprovação de projetos ao licenciamento ambiental.",
+"c": true,
+"prof": "Art. 12.",
+"x": "Financiador.",
+"e": "Financiamento"
+},
+{
+"p": "A LC 140/2011 regulamenta a cooperação entre os entes nas ações administrativas decorrentes da competência comum ambiental.",
+"c": true,
+"prof": "LC 140, art. 1º.",
+"x": "Art. 23 da CF.",
+"e": "LC 140"
+},
+{
+"p": "O ente federativo pode delegar a execução de ações administrativas, mediante convênio, desde que o destinatário disponha de órgão ambiental capacitado e conselho de meio ambiente.",
+"c": true,
+"prof": "LC 140, art. 5º.",
+"x": "Delegação.",
+"e": "Delegação"
+},
+{
+"p": "Compete à União licenciar empreendimentos localizados em terras indígenas.",
+"c": true,
+"prof": "LC 140, art. 7º, XIV, c.",
+"x": "União.",
+"e": "União"
+},
+{
+"p": "Compete à União licenciar empreendimentos localizados ou desenvolvidos em dois ou mais Estados.",
+"c": true,
+"prof": "LC 140, art. 7º, XIV, e.",
+"x": "União.",
+"e": "União"
+},
+{
+"p": "Compete à União licenciar todos os empreendimentos localizados em APAs federais.",
+"c": false,
+"prof": "LC 140, art. 12.",
+"x": "Critério geral.",
+"e": "APA"
+},
+{
+"p": "A competência residual para o licenciamento ambiental é dos Estados.",
+"c": true,
+"prof": "LC 140, art. 8º, XIV.",
+"x": "Residual.",
+"e": "Estados"
+},
+{
+"p": "Compete ao Município licenciar atividades de impacto ambiental de âmbito local, conforme tipologia definida pelos Conselhos Estaduais de Meio Ambiente.",
+"c": true,
+"prof": "LC 140, art. 9º, XIV, a.",
+"x": "Impacto local.",
+"e": "Município"
+},
+{
+"p": "A tipologia das atividades de impacto local é definida por cada Conselho Municipal de Meio Ambiente.",
+"c": false,
+"prof": "LC 140, art. 9º, XIV, a.",
+"x": "Conselho Estadual.",
+"e": "Tipologia"
+},
+{
+"p": "Compete ao Município licenciar empreendimentos localizados em unidades de conservação por ele instituídas, exceto APAs.",
+"c": true,
+"prof": "LC 140, art. 9º, XIV, b.",
+"x": "UC municipal.",
+"e": "Município"
+},
+{
+"p": "Os empreendimentos são licenciados ou autorizados ambientalmente por um único ente federativo.",
+"c": true,
+"prof": "LC 140, art. 13.",
+"x": "Licença única.",
+"e": "Único ente"
+},
+{
+"p": "A manifestação dos demais entes interessados no licenciamento é não vinculante.",
+"c": true,
+"prof": "LC 140, art. 13, § 1º.",
+"x": "Não vinculante.",
+"e": "Manifestação"
+},
+{
+"p": "A supressão de vegetação decorrente de licenciamento é autorizada pelo ente federativo licenciador.",
+"c": true,
+"prof": "LC 140, art. 13, § 2º.",
+"x": "Licenciador.",
+"e": "Supressão"
+},
+{
+"p": "O decurso do prazo de licenciamento sem emissão da licença implica emissão tácita.",
+"c": false,
+"prof": "LC 140, art. 14, § 3º.",
+"x": "Instaura a supletiva.",
+"e": "Silêncio"
+},
+{
+"p": "As exigências de complementação no licenciamento devem ser comunicadas ao empreendedor de uma única vez, ressalvadas as decorrentes de fatos novos.",
+"c": true,
+"prof": "LC 140, art. 14, § 1º.",
+"x": "Única vez.",
+"e": "Complementação"
+},
+{
+"p": "Inexistindo órgão ambiental capacitado ou conselho de meio ambiente no Município, o Estado deve desempenhar as ações administrativas municipais até a sua criação.",
+"c": true,
+"prof": "LC 140, art. 15, II.",
+"x": "Supletiva.",
+"e": "Supletiva"
+},
+{
+"p": "A atuação subsidiária ocorre quando o ente originário não possui órgão ambiental capacitado.",
+"c": false,
+"prof": "LC 140, art. 16.",
+"x": "É auxílio solicitado.",
+"e": "Subsidiária"
+},
+{
+"p": "Havendo dois autos de infração sobre o mesmo fato, prevalece o lavrado pelo órgão que detenha a atribuição de licenciamento.",
+"c": true,
+"prof": "LC 140, art. 17, § 3º.",
+"x": "Prevalência.",
+"e": "Auto"
+},
+{
+"p": "A Lei 15.190/2025 entrou em vigor 180 dias após sua publicação.",
+"c": true,
+"prof": "Lei 15.190, art. 67.",
+"x": "Fevereiro de 2026.",
+"e": "Vigência"
+},
+{
+"p": "A Lei 15.190/2025 prevê, entre outras, a Licença Ambiental Única, a Licença por Adesão e Compromisso e a Licença de Operação Corretiva.",
+"c": true,
+"prof": "Lei 15.190, art. 5º.",
+"x": "Tipos.",
+"e": "Tipos"
+},
+{
+"p": "A Licença Prévia atesta, na fase de planejamento, a viabilidade ambiental do empreendimento quanto à concepção e localização.",
+"c": true,
+"prof": "Lei 15.190, art. 3º.",
+"x": "LP.",
+"e": "LP"
+},
+{
+"p": "A Licença Ambiental Única atesta, em uma única etapa, a viabilidade da instalação, ampliação e operação.",
+"c": true,
+"prof": "Lei 15.190, art. 3º.",
+"x": "LAU.",
+"e": "LAU"
+},
+{
+"p": "A Licença de Operação Corretiva regulariza atividade que esteja operando sem licença.",
+"c": true,
+"prof": "Lei 15.190, art. 3º.",
+"x": "LOC.",
+"e": "LOC"
+},
+{
+"p": "A Licença por Adesão e Compromisso pode ser emitida para atividades de grande porte e alto potencial poluidor.",
+"c": false,
+"prof": "Lei 15.190.",
+"x": "Pequeno/médio porte e baixo/médio potencial.",
+"e": "LAC"
+},
+{
+"p": "Segundo a Lei 15.190/2025, a Licença Prévia tem validade mínima de 3 anos e máxima de 6 anos.",
+"c": true,
+"prof": "Lei 15.190, art. 6º, I.",
+"x": "LP.",
+"e": "Validade"
+},
+{
+"p": "A Licença de Operação tem validade mínima de 5 anos e máxima de 10 anos.",
+"c": true,
+"prof": "Lei 15.190, art. 6º, III.",
+"x": "LO.",
+"e": "Validade"
+},
+{
+"p": "A Lei 15.190/2025 permite a emissão de licença ambiental por prazo indeterminado para atividades de baixo impacto.",
+"c": false,
+"prof": "Art. 6º, § 2º.",
+"x": "Vedado.",
+"e": "Validade"
+},
+{
+"p": "A renovação da licença deve ser requerida com antecedência mínima de 120 dias da expiração, ficando o prazo prorrogado até a decisão.",
+"c": true,
+"prof": "Lei 15.190, art. 7º.",
+"x": "120 dias.",
+"e": "Renovação"
+},
+{
+"p": "O prazo máximo de análise da Licença Prévia, quando exigido EIA, é de 10 meses.",
+"c": true,
+"prof": "Lei 15.190, art. 47, I.",
+"x": "10 meses.",
+"e": "Prazos"
+},
+{
+"p": "O prazo máximo de análise da Licença Ambiental Especial é de 12 meses.",
+"c": true,
+"prof": "Lei 15.190, art. 47, V.",
+"x": "LAE.",
+"e": "LAE"
+},
+{
+"p": "A Licença Ambiental Especial exige EIA/RIMA, segundo a Lei 15.300/2025.",
+"c": true,
+"prof": "Lei 15.300.",
+"x": "LAE.",
+"e": "LAE"
+},
+{
+"p": "Os empreendimentos estratégicos sujeitos à LAE são definidos por decreto, a partir de proposta bienal do Conselho de Governo.",
+"c": true,
+"prof": "Lei 15.300.",
+"x": "Decreto.",
+"e": "LAE"
+},
+{
+"p": "A Lei 15.190/2025 dispensa de licenciamento sistemas de distribuição de energia elétrica até 138 kV.",
+"c": true,
+"prof": "Lei 15.190, art. 8º.",
+"x": "Dispensa.",
+"e": "Dispensas"
+},
+{
+"p": "Obras emergenciais em resposta a desastres são dispensadas de licenciamento, devendo o responsável apresentar relatório em 30 dias.",
+"c": true,
+"prof": "Lei 15.190, art. 8º.",
+"x": "Emergência.",
+"e": "Dispensas"
+},
+{
+"p": "A Lei 15.190/2025 exige ao menos uma audiência pública nos licenciamentos sujeitos a EIA, antes da decisão sobre a Licença Prévia.",
+"c": true,
+"prof": "Lei 15.190, art. 40.",
+"x": "Audiência.",
+"e": "Audiência"
+},
+{
+"p": "O EIA e o RIMA devem ficar disponíveis ao público com antecedência mínima de 15 dias da audiência pública.",
+"c": false,
+"prof": "Lei 15.190, art. 40, § 1º.",
+"x": "45 dias.",
+"e": "Audiência"
+},
+{
+"p": "A consulta pública suspende os prazos de análise do licenciamento.",
+"c": false,
+"prof": "Lei 15.190, art. 41.",
+"x": "Não suspende.",
+"e": "Consulta"
+},
+{
+"p": "Pela Lei 15.190/2025, a manifestação das autoridades envolvidas não vincula a decisão da autoridade licenciadora.",
+"c": true,
+"prof": "Lei 15.190, art. 42.",
+"x": "Vetos derrubados.",
+"e": "Autoridades"
+},
+{
+"p": "O rol de atividades sujeitas a EIA da Resolução CONAMA 1/1986 é exemplificativo.",
+"c": true,
+"prof": "Res. CONAMA 1/1986, art. 2º.",
+"x": "Exemplificativo.",
+"e": "EIA"
+},
+{
+"p": "Aterros sanitários constam do rol de atividades que dependem de EIA/RIMA da Resolução CONAMA 1/1986.",
+"c": true,
+"prof": "Res. 1/1986, art. 2º.",
+"x": "Aterro.",
+"e": "EIA"
+},
+{
+"p": "O EIA deve contemplar as alternativas tecnológicas e de localização, confrontando-as com a hipótese de não execução do projeto.",
+"c": true,
+"prof": "Res. 1/1986, art. 5º.",
+"x": "Alternativas.",
+"e": "Conteúdo"
+},
+{
+"p": "As despesas com a elaboração do EIA correm por conta do empreendedor.",
+"c": true,
+"prof": "Res. 237/1997, art. 11.",
+"x": "Empreendedor.",
+"e": "Custeio"
+},
+{
+"p": "O EIA favorável vincula a autoridade, que fica obrigada a conceder a licença.",
+"c": false,
+"prof": "Doutrina.",
+"x": "Não vincula.",
+"e": "Vinculação"
+},
+{
+"p": "O RIMA deve refletir as conclusões do EIA em linguagem acessível ao público.",
+"c": true,
+"prof": "Res. 1/1986, art. 9º.",
+"x": "RIMA.",
+"e": "RIMA"
+},
+{
+"p": "A licença ambiental pode ser suspensa ou cancelada, por decisão motivada, em caso de superveniência de graves riscos ambientais e de saúde.",
+"c": true,
+"prof": "Res. 237/1997, art. 19.",
+"x": "Não há direito adquirido.",
+"e": "Revisão"
+},
+{
+"p": "A licença ambiental afasta a responsabilidade civil do empreendedor pelos danos causados.",
+"c": false,
+"prof": "Lei 6.938, art. 14, § 1º.",
+"x": "Objetiva.",
+"e": "Licença"
+},
+{
+"p": "O STF declarou inconstitucional o piso de 0,5% dos custos do empreendimento previsto para a compensação ambiental do SNUC.",
+"c": true,
+"prof": "ADI 3.378.",
+"x": "Proporcional ao impacto.",
+"e": "Compensação"
+},
+{
+"p": "O STF declarou inconstitucional a própria compensação ambiental do art. 36 da Lei 9.985/2000.",
+"c": false,
+"prof": "ADI 3.378.",
+"x": "Só o piso.",
+"e": "Compensação"
+},
+{
+"p": "A compensação ambiental do SNUC destina-se, em regra, a unidades de conservação do grupo de proteção integral.",
+"c": true,
+"prof": "Lei 9.985, art. 36.",
+"x": "Proteção integral.",
+"e": "Compensação"
+},
+{
+"p": "Fazer funcionar estabelecimento potencialmente poluidor sem licença ambiental é crime previsto na Lei 9.605/1998.",
+"c": true,
+"prof": "Art. 60.",
+"x": "Crime.",
+"e": "Art. 60"
+},
+{
+"p": "Após a Lei 15.190/2025, o servidor que concede culposamente licença em desacordo com as normas ambientais responde pelo crime do art. 67 da Lei 9.605/1998.",
+"c": false,
+"prof": "Art. 67.",
+"x": "Culposa revogada.",
+"e": "Art. 67"
+},
+{
+"p": "Elaborar ou apresentar, no licenciamento, estudo ou relatório ambiental falso ou enganoso, inclusive por omissão, é crime punido com reclusão.",
+"c": true,
+"prof": "Art. 69-A.",
+"x": "3 a 6 anos.",
+"e": "Art. 69-A"
+},
+{
+"p": "A licença ambiental não substitui o alvará municipal de construção ou funcionamento.",
+"c": true,
+"prof": "Res. 237, art. 10, § 1º.",
+"x": "Uso do solo.",
+"e": "Alvará"
+},
+{
+"p": "No requerimento de licença, exige-se certidão da Prefeitura declarando a conformidade do empreendimento com a legislação de uso e ocupação do solo.",
+"c": true,
+"prof": "Res. 237, art. 10, § 1º.",
+"x": "Certidão.",
+"e": "Uso do solo"
+},
+{
+"p": "Na estrutura do SISNAMA prevista na Lei 6.938/1981, o CONAMA é o órgão",
+"alts": [
+"superior",
+"central",
+"executor",
+"seccional",
+"consultivo e deliberativo"
+],
+"r": 4,
+"x": "Art. 6º, II.",
+"n": [
+"Conselho de Governo.",
+"MMA.",
+"IBAMA e ICMBio.",
+"Estaduais.",
+"Correta."
+],
+"e": "CONAMA."
+},
+{
+"p": "São órgãos executores do SISNAMA:",
+"alts": [
+"o Conselho de Governo e o CONAMA",
+"o IBAMA e o ICMBio",
+"os órgãos estaduais",
+"os órgãos municipais",
+"o MMA e o CONAMA"
+],
+"r": 1,
+"x": "Art. 6º, IV.",
+"n": [
+"Superior e consultivo.",
+"Correta.",
+"Seccionais.",
+"Locais.",
+"Central e consultivo."
+],
+"e": "Executores."
+},
+{
+"p": "NÃO é instrumento da Política Nacional do Meio Ambiente previsto no art. 9º da Lei 6.938/1981:",
+"alts": [
+"zoneamento ambiental",
+"avaliação de impactos ambientais",
+"licenciamento",
+"servidão ambiental",
+"tombamento"
+],
+"r": 4,
+"x": "Art. 9º.",
+"n": [
+"Inciso II.",
+"Inciso III.",
+"Inciso IV.",
+"Inciso XIII.",
+"Correta."
+],
+"e": "Instrumentos."
+},
+{
+"p": "Sobre a servidão ambiental, é correto afirmar:",
+"alts": [
+"pode recair sobre a reserva legal mínima",
+"só pode ser perpétua",
+"a temporária tem prazo mínimo de 15 anos e não se aplica às APPs",
+"dispensa averbação",
+"é sempre onerosa"
+],
+"r": 2,
+"x": "Lei 6.938, arts. 9º-A e 9º-B.",
+"n": [
+"Não se aplica.",
+"Pode ser temporária.",
+"Correta.",
+"Deve ser averbada.",
+"Onerosa ou gratuita."
+],
+"e": "Servidão."
+},
+{
+"p": "Segundo a LC 140/2011, compete aos Municípios licenciar",
+"alts": [
+"qualquer atividade em seu território",
+"atividades de impacto ambiental de âmbito local, conforme tipologia definida pelo Conselho Estadual de Meio Ambiente",
+"atividades em APAs municipais e federais",
+"atividades no mar territorial",
+"todos os empreendimentos imobiliários"
+],
+"r": 1,
+"x": "Art. 9º, XIV.",
+"n": [
+"Não.",
+"Correta.",
+"APAs seguem o critério geral.",
+"União.",
+"Não."
+],
+"e": "Município."
+},
+{
+"p": "No licenciamento de empreendimento localizado em Área de Proteção Ambiental,",
+"alts": [
+"licencia sempre o ente que criou a APA",
+"licencia sempre a União",
+"aplicam-se os critérios gerais de competência, e não o do ente instituidor",
+"licencia o ICMBio",
+"não há licenciamento"
+],
+"r": 2,
+"x": "LC 140, art. 12.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Há."
+],
+"e": "APA."
+},
+{
+"p": "De acordo com a LC 140/2011, inexistindo órgão ambiental capacitado ou conselho de meio ambiente no Município,",
+"alts": [
+"a União desempenha as ações municipais",
+"o Estado desempenha as ações administrativas municipais até a sua criação",
+"a atividade fica dispensada",
+"o Ministério Público licencia",
+"o Município licencia mesmo assim"
+],
+"r": 1,
+"x": "Art. 15, II.",
+"n": [
+"Só se faltar também no Estado.",
+"Correta.",
+"Não.",
+"Não.",
+"Não pode."
+],
+"e": "Supletiva."
+},
+{
+"p": "O decurso dos prazos de licenciamento sem a emissão da licença ambiental",
+"alts": [
+"gera licença tácita",
+"autoriza o início das obras",
+"não implica emissão tácita, mas instaura a competência supletiva",
+"extingue o processo",
+"transfere a decisão ao Judiciário"
+],
+"r": 2,
+"x": "LC 140, art. 14, § 3º.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Silêncio."
+},
+{
+"p": "Pela Lei 15.190/2025, os prazos de validade da Licença Prévia e da Licença de Operação são, respectivamente:",
+"alts": [
+"até 5 anos e 4 a 10 anos",
+"3 a 6 anos e 5 a 10 anos",
+"2 a 4 anos e indeterminado",
+"5 a 10 anos e 3 a 6 anos",
+"1 a 3 anos e 10 anos"
+],
+"r": 1,
+"x": "Art. 6º.",
+"n": [
+"Regra antiga da Res. 237.",
+"Correta.",
+"Vedado prazo indeterminado.",
+"Invertido.",
+"Não."
+],
+"e": "Validade."
+},
+{
+"p": "A Licença por Adesão e Compromisso (LAC), na Lei 15.190/2025, aplica-se a atividades",
+"alts": [
+"de grande porte e alto potencial poluidor",
+"de mineração em geral",
+"em terras indígenas",
+"de pequeno ou médio porte e baixo ou médio potencial poluidor, sem supressão de vegetação nativa",
+"em qualquer caso, a critério do empreendedor"
+],
+"r": 3,
+"x": "Lei 15.190 e Lei 15.300/2025.",
+"n": [
+"Não.",
+"Vedada em regra.",
+"Vedada.",
+"Correta.",
+"Não."
+],
+"e": "LAC."
+},
+{
+"p": "A licença que regulariza atividade ou empreendimento em operação sem licença é a",
+"alts": [
+"LP",
+"LI",
+"LAU",
+"LOC",
+"LAE"
+],
+"r": 3,
+"x": "Art. 5º.",
+"n": [
+"Planejamento.",
+"Instalação.",
+"Fase única.",
+"Correta.",
+"Estratégicos."
+],
+"e": "LOC."
+},
+{
+"p": "Sobre a audiência pública na Lei 15.190/2025, é correto afirmar:",
+"alts": [
+"é facultativa em qualquer caso",
+"só ocorre a pedido de 50 cidadãos",
+"é obrigatória, ao menos uma, nos processos com EIA, antes da decisão sobre a LP",
+"ocorre após a emissão da LO",
+"deve ser sempre presencial"
+],
+"r": 2,
+"x": "Art. 40.",
+"n": [
+"Obrigatória com EIA.",
+"Regra antiga.",
+"Correta.",
+"Antes da LP.",
+"Pode ser remota."
+],
+"e": "Audiência."
+},
+{
+"p": "Quanto ao EIA/RIMA, assinale a correta.",
+"alts": [
+"o rol da Resolução CONAMA 1/1986 é taxativo",
+"é custeado pelo órgão ambiental",
+"vincula a autoridade licenciadora",
+"deve contemplar alternativas tecnológicas e de localização, inclusive a não execução do projeto",
+"é sigiloso"
+],
+"r": 3,
+"x": "Res. CONAMA 1/1986, art. 5º.",
+"n": [
+"Exemplificativo.",
+"Empreendedor.",
+"Não vincula.",
+"Correta.",
+"Público."
+],
+"e": "EIA."
+},
+{
+"p": "Na ADI 3.378, quanto à compensação ambiental do art. 36 da Lei do SNUC, o STF",
+"alts": [
+"declarou inconstitucional toda a compensação",
+"manteve o piso de 0,5%",
+"declarou inconstitucional o piso de 0,5% dos custos do empreendimento, devendo o valor ser proporcional ao impacto",
+"fixou o valor em 1%",
+"transferiu a compensação aos Municípios"
+],
+"r": 2,
+"x": "ADI 3.378.",
+"n": [
+"Só o piso.",
+"Caiu.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Compensação."
+},
+{
+"p": "Após a Lei 15.190/2025, o art. 67 da Lei 9.605/1998 pune",
+"alts": [
+"a concessão culposa de licença",
+"a concessão dolosa, por funcionário público, de licença em desacordo com as normas ambientais",
+"o empreendedor que opera sem licença",
+"a omissão de dados pelo particular",
+"apenas a conduta de particulares"
+],
+"r": 1,
+"x": "Art. 67.",
+"n": [
+"Culposa revogada.",
+"Correta.",
+"Art. 60.",
+"Art. 69-A.",
+"Crime próprio de funcionário."
+],
+"e": "Art. 67."
+},
+{
+"p": "Segundo a LC 140/2011, a supressão de vegetação decorrente de licenciamento ambiental é autorizada pelo",
+"alts": [
+"IBAMA, sempre",
+"Município, sempre",
+"ente federativo licenciador",
+"ICMBio",
+"CONAMA"
+],
+"r": 2,
+"x": "Art. 13, § 2º.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Supressão."
+},
+{
+"p": "A renovação de licença ambiental requerida com antecedência mínima de 120 dias da expiração",
+"alts": [
+"é indeferida automaticamente",
+"prorroga a validade da licença até a manifestação definitiva da autoridade",
+"exige novo EIA",
+"dispensa análise em qualquer caso",
+"só pode ocorrer uma vez"
+],
+"r": 1,
+"x": "LC 140, art. 14, § 4º; Lei 15.190, art. 7º.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Só a automática, nos casos legais.",
+"Só a LP tem esse limite."
+],
+"e": "Renovação."
+},
+{
+"p": "É competência privativa do CONAMA estabelecer normas e padrões nacionais de controle da poluição por",
+"alts": [
+"indústrias químicas",
+"veículos automotores, aeronaves e embarcações",
+"aterros sanitários",
+"mineradoras",
+"usinas nucleares"
+],
+"r": 1,
+"x": "Lei 6.938, art. 8º, VI.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"CNEN."
+],
+"e": "CONAMA."
+}
+]
+},
+"florestas-agua": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>22/07/2008</b><span>data-limite das áreas rurais consolidadas no Código Florestal (Lei 12.651/2012)</span></div><div class=\"lt-stat\"><b>80%</b><span>reserva legal mínima em área de florestas na Amazônia Legal (art. 12, I, \"a\")</span></div><div class=\"lt-stat\"><b>12 categorias</b><span>unidades de conservação do SNUC: 5 de proteção integral e 7 de uso sustentável</span></div><div class=\"lt-stat\"><b>35 anos</b><span>prazo máximo da outorga de direito de uso de recursos hídricos (Lei 9.433, art. 16)</span></div></div>\n<h3>1. O mapa do tópico</h3>\n<ul><li>Este tópico reúne as leis que protegem <b>espaços</b> e <b>recursos</b> naturais específicos: o <b>Código Florestal</b> (Lei 12.651/2012), que trata das <b>Áreas de Preservação Permanente</b> (APP), da <b>Reserva Legal</b> (RL), do <b>Cadastro Ambiental Rural</b> (CAR) e das áreas consolidadas; a <b>Lei da Mata Atlântica</b> (Lei 11.428/2006); o <b>Sistema Nacional de Unidades de Conservação</b> (SNUC, Lei 9.985/2000); e a <b>Política Nacional de Recursos Hídricos</b> (Lei 9.433/1997). Também aparecem as <b>Resoluções CONAMA 302 e 303/2002</b>, restauradas pelo STF nas ADPFs 747 e 748.</li><li>Essas leis concretizam o art. 225, § 1º, III, da Constituição (espaços territoriais especialmente protegidos) e o art. 225, § 4º (Mata Atlântica como patrimônio nacional).</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Como estudar este tópico</b><p>Decore as <b>faixas de APP</b> dos rios (30, 50, 100, 200 e 500 metros), os <b>percentuais de reserva legal</b> (80, 35 e 20%), a lista das <b>12 unidades de conservação</b> e os <b>fundamentos e instrumentos</b> da Lei 9.433. São os itens mais cobrados. Depois estude as regras de <b>área consolidada</b> e as decisões do <b>STF no julgamento do Código Florestal (2018)</b>.</p></div>\n<h3>2. Código Florestal: objetivo e princípios</h3>\n<ul><li>A <b>Lei 12.651/2012</b>, chamada de \"novo Código Florestal\" ou \"Lei de Proteção da Vegetação Nativa\", revogou o Código Florestal de 1965 (Lei 4.771/1965). Ela estabelece <b>normas gerais</b> sobre a proteção da vegetação, áreas de preservação permanente e de reserva legal, exploração florestal, suprimento de matéria-prima florestal, controle da origem dos produtos florestais, controle e prevenção dos incêndios florestais, e prevê instrumentos econômicos e financeiros (art. 1º-A).</li><li><b>Objetivo</b> (art. 1º-A, parágrafo único): o <b>desenvolvimento sustentável</b>. A lei atende a princípios como: afirmação do compromisso soberano do Brasil com a preservação das florestas e demais formas de vegetação nativa, da biodiversidade, do solo, dos recursos hídricos e da integridade do sistema climático, para o bem-estar das gerações presentes e futuras; reafirmação da importância da função estratégica da <b>atividade agropecuária</b>; ação governamental de proteção e uso sustentável de florestas; responsabilidade comum de União, Estados, DF e Municípios, em colaboração com a sociedade civil; fomento à pesquisa; criação e mobilização de incentivos econômicos.</li><li><b>Natureza das florestas</b> (art. 2º): as florestas existentes no território nacional e as demais formas de vegetação nativa, reconhecidas de <b>utilidade às terras que revestem</b>, são <b>bens de interesse comum</b> a todos os habitantes do País, exercendo-se os direitos de propriedade com as <b>limitações</b> que a legislação estabelece. Na utilização e exploração da vegetação, as ações ou omissões contrárias às disposições da lei são consideradas <b>uso irregular da propriedade</b> (§ 1º).</li><li><b>Natureza real</b> (art. 2º, § 2º): as obrigações previstas na lei têm <b>natureza real</b> e são <b>transmitidas ao sucessor</b>, de qualquer natureza, no caso de transferência de domínio ou posse do imóvel rural. É o fundamento legal da <b>Súmula 623 do STJ</b> (obrigações propter rem).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Código Florestal de 2012 complementa o de 1965, que continua vigente</span><br>✅ <span class=\"certo\">A Lei 12.651/2012 <b>revogou</b> a Lei 4.771/1965</span></li><li>❌ <span class=\"banca\">As obrigações do Código Florestal são pessoais do infrator</span><br>✅ <span class=\"certo\">Têm <b>natureza real</b> e se transmitem ao sucessor (art. 2º, § 2º)</span></li><li>❌ <span class=\"banca\">O Código Florestal só se aplica a imóveis rurais</span><br>✅ <span class=\"certo\">As <b>APPs</b> se aplicam também às <b>áreas urbanas</b>; a reserva legal é instituto <b>rural</b></span></li></ol></div>\n<h3>3. Conceitos essenciais (art. 3º)</h3>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>Definição resumida</th></tr></thead><tbody><tr><td><b>Amazônia Legal</b> (I)</td><td>Estados do Acre, Pará, Amazonas, Roraima, Rondônia, Amapá e Mato Grosso e as regiões situadas ao norte do paralelo 13° S dos Estados de Tocantins e Goiás, e ao oeste do meridiano de 44° W do Estado do Maranhão</td></tr><tr><td><b>APP</b> (II)</td><td>área protegida, <b>coberta ou não por vegetação nativa</b>, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade, facilitar o fluxo gênico de fauna e flora, proteger o solo e assegurar o bem-estar das populações humanas</td></tr><tr><td><b>Reserva Legal</b> (III)</td><td>área localizada no interior de uma propriedade ou posse <b>rural</b>, delimitada nos termos do art. 12, com a função de assegurar o <b>uso econômico de modo sustentável</b> dos recursos naturais do imóvel, auxiliar a conservação e a reabilitação dos processos ecológicos e promover a conservação da biodiversidade</td></tr><tr><td><b>Área rural consolidada</b> (IV)</td><td>área de imóvel rural com <b>ocupação antrópica preexistente a 22 de julho de 2008</b>, com edificações, benfeitorias ou atividades agrossilvipastoris, admitida, neste último caso, a adoção do regime de pousio</td></tr><tr><td><b>Pequena propriedade ou posse rural familiar</b> (V)</td><td>aquela explorada mediante o trabalho pessoal do agricultor familiar e empreendedor familiar rural, incluindo assentamentos e projetos de reforma agrária, e que atenda ao art. 3º da Lei 11.326/2006 (até <b>4 módulos fiscais</b>)</td></tr><tr><td><b>Nascente</b> (XVII)</td><td>afloramento natural do lençol freático que apresenta <b>perenidade</b> e dá início a um curso d'água</td></tr><tr><td><b>Olho d'água</b> (XVIII)</td><td>afloramento natural do lençol freático, <b>mesmo que intermitente</b></td></tr><tr><td><b>Leito regular</b> (XIX)</td><td>a calha por onde correm regularmente as águas do curso d'água durante o ano</td></tr><tr><td><b>Vereda</b> (XII)</td><td>fitofisionomia de savana, encontrada em solos hidromórficos, usualmente com a palmeira arbórea <b>buriti</b> emergente</td></tr><tr><td><b>Manguezal</b> (XIII)</td><td>ecossistema litorâneo que ocorre em terrenos baixos, sujeitos à ação das marés</td></tr><tr><td><b>Restinga</b> (XVI)</td><td>depósito arenoso paralelo à linha da costa, com comunidades vegetais diversas</td></tr><tr><td><b>Área urbana consolidada</b> (XXVI)</td><td>definida pela Lei 14.285/2021: incluída no perímetro urbano ou em zona urbana pelo plano diretor ou por lei municipal específica, com sistema viário implantado, organizada em quadras e lotes predominantemente edificados, uso predominantemente urbano e com pelo menos dois equipamentos de infraestrutura urbana (drenagem, esgoto, água, energia, coleta de resíduos)</td></tr></tbody></table>\n<ul><li><b>APP coberta ou não por vegetação</b>: este é o detalhe mais cobrado do conceito. A APP existe pela <b>localização</b> (margem de rio, topo de morro, encosta), e não pela presença de mata. Uma margem de rio desmatada continua sendo APP e deve ser recuperada.</li><li><b>Pousio</b> (XXIV): prática de <b>interrupção temporária</b> de atividades agrícolas, pecuárias ou silviculturais, por <b>no máximo 5 anos</b>, para possibilitar a recuperação da capacidade de uso ou da estrutura física do solo.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A APP só existe se houver vegetação nativa no local</span><br>✅ <span class=\"certo\">A APP é área protegida <b>coberta ou não</b> por vegetação nativa</span></li><li>❌ <span class=\"banca\">Nascente e olho d'água são a mesma coisa</span><br>✅ <span class=\"certo\"><b>Nascente</b> é perene e dá início a um curso d'água; <b>olho d'água</b> pode ser <b>intermitente</b></span></li><li>❌ <span class=\"banca\">Área rural consolidada é aquela ocupada até 2012</span><br>✅ <span class=\"certo\">A data é <b>22 de julho de 2008</b></span></li><li>❌ <span class=\"banca\">O pousio pode durar até 10 anos</span><br>✅ <span class=\"certo\">No máximo <b>5 anos</b></span></li></ol></div>\n<h3>4. Utilidade pública, interesse social e baixo impacto</h3>\n<ul><li>O art. 3º define três categorias que permitem <b>intervenção ou supressão</b> de vegetação em APP (art. 8º). Elas são decisivas para o Município, que frequentemente executa obras em margens de rios e encostas.</li></ul>\n<table class=\"tab\"><thead><tr><th>Categoria</th><th>Exemplos (art. 3º, VIII, IX e X)</th></tr></thead><tbody><tr><td><b>Utilidade pública</b></td><td>atividades de <b>segurança nacional</b> e proteção sanitária; obras de infraestrutura destinadas às concessões e serviços públicos de <b>transporte, sistema viário</b>, saneamento, energia, telecomunicações, radiodifusão; atividades e obras de <b>defesa civil</b>; atividades que proporcionem melhorias na proteção das funções ambientais; mineração (exceto areia, argila, saibro e cascalho); outras definidas em ato do Chefe do Executivo federal</td></tr><tr><td><b>Interesse social</b></td><td>atividades imprescindíveis à proteção da integridade da vegetação nativa (prevenção de incêndios, erradicação de invasoras); exploração agroflorestal sustentável na pequena propriedade; implantação de <b>infraestrutura pública destinada a esportes, lazer e atividades educacionais e culturais</b> ao ar livre em áreas urbanas e rurais consolidadas; <b>regularização fundiária</b> de assentamentos humanos ocupados predominantemente por população de baixa renda em áreas urbanas consolidadas; instalações para captação e condução de água e efluentes tratados; extração de areia, argila, saibro e cascalho, outorgadas pela autoridade competente</td></tr><tr><td><b>Baixo impacto ambiental</b></td><td>abertura de pequenas vias de acesso interno e pontes para travessia de curso d'água; implantação de trilhas para ecoturismo; construção de rampa de lançamento de barcos e pequeno ancoradouro; construção de moradia de agricultores familiares, remanescentes de quilombos e outras populações extrativistas e tradicionais em áreas rurais, onde o abastecimento de água se dê pelo esforço próprio dos moradores; coleta de produtos não madeireiros; plantio de espécies nativas</td></tr></tbody></table>\n<ul><li><b>Decisão do STF (2018)</b>: foram declaradas <b>inconstitucionais</b> as expressões \"<b>gestão de resíduos</b>\" e \"<b>instalações necessárias à realização de competições esportivas estaduais, nacionais ou internacionais</b>\" da definição de utilidade pública (art. 3º, VIII, \"b\"). E o STF deu interpretação conforme aos incisos VIII e IX para condicionar a intervenção por utilidade pública e interesse social à <b>inexistência de alternativa técnica e/ou locacional</b> à atividade proposta.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A gestão de resíduos em APP é atividade de utilidade pública</span><br>✅ <span class=\"certo\">A expressão foi declarada <b>inconstitucional</b> pelo STF</span></li><li>❌ <span class=\"banca\">A intervenção em APP por utilidade pública dispensa justificativa</span><br>✅ <span class=\"certo\">Exige a <b>inexistência de alternativa técnica e locacional</b> (interpretação conforme do STF)</span></li><li>❌ <span class=\"banca\">A extração de areia em APP é de utilidade pública</span><br>✅ <span class=\"certo\">É de <b>interesse social</b> (art. 3º, IX, \"f\"); a mineração em geral é que é de utilidade pública, <b>exceto</b> areia, argila, saibro e cascalho</span></li></ol></div>\n<h3>5. As APPs pelo efeito da lei (art. 4º)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 12.651/2012, art. 4º, I</div><div class=\"art-lei\">Considera-se Área de Preservação Permanente, em zonas rurais ou urbanas, para os efeitos desta Lei: I - as faixas marginais de qualquer curso d'água natural perene e intermitente, excluídos os efêmeros, desde a borda da calha do leito regular, em largura mínima de: a) 30 (trinta) metros, para os cursos d'água de menos de 10 (dez) metros de largura; b) 50 (cinquenta) metros, para os cursos d'água que tenham de 10 (dez) a 50 (cinquenta) metros de largura; c) 100 (cem) metros, para os cursos d'água que tenham de 50 (cinquenta) a 200 (duzentos) metros de largura; d) 200 (duzentos) metros, para os cursos d'água que tenham de 200 (duzentos) a 600 (seiscentos) metros de largura; e) 500 (quinhentos) metros, para os cursos d'água que tenham largura superior a 600 (seiscentos) metros.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>\"Em zonas rurais OU urbanas\"</li><li>Cursos perenes E intermitentes; excluídos os EFÊMEROS</li><li>Medida a partir da borda da calha do LEITO REGULAR (no Código de 1965 era do nível mais alto)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A faixa é largura MÍNIMA: Estados e Municípios podem ampliar, mas não reduzir, salvo a regra específica das áreas urbanas consolidadas (art. 4º, § 10).</li></ul></div></div>\n<table class=\"tab\"><thead><tr><th>Largura do rio</th><th>Faixa de APP em cada margem</th></tr></thead><tbody><tr><td>menos de 10 m</td><td><b>30 m</b></td></tr><tr><td>de 10 a 50 m</td><td><b>50 m</b></td></tr><tr><td>de 50 a 200 m</td><td><b>100 m</b></td></tr><tr><td>de 200 a 600 m</td><td><b>200 m</b></td></tr><tr><td>mais de 600 m</td><td><b>500 m</b></td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Outras APPs do art. 4º</th><th>Faixa</th></tr></thead><tbody><tr><td><b>Lagos e lagoas naturais</b> (II)</td><td><b>100 m</b> em zona rural, exceto para corpo d'água com até <b>20 hectares</b> de superfície, cuja faixa será de <b>50 m</b>; <b>30 m</b> em zonas urbanas</td></tr><tr><td><b>Reservatórios artificiais</b> decorrentes de barramento de cursos d'água naturais (III)</td><td>na faixa definida na <b>licença ambiental</b> do empreendimento</td></tr><tr><td><b>Nascentes e olhos d'água perenes</b> (IV)</td><td>raio mínimo de <b>50 m</b>, qualquer que seja a situação topográfica</td></tr><tr><td><b>Encostas</b> (V)</td><td>com declividade superior a <b>45°</b>, equivalente a 100% na linha de maior declive</td></tr><tr><td><b>Restingas</b> (VI)</td><td>como <b>fixadoras de dunas</b> ou <b>estabilizadoras de mangues</b></td></tr><tr><td><b>Manguezais</b> (VII)</td><td><b>em toda a sua extensão</b></td></tr><tr><td><b>Bordas dos tabuleiros ou chapadas</b> (VIII)</td><td>até a linha de ruptura do relevo, em faixa nunca inferior a <b>100 m</b> em projeções horizontais</td></tr><tr><td><b>Topo de morros, montes, montanhas e serras</b> (IX)</td><td>com altura mínima de <b>100 m</b> e inclinação média maior que <b>25°</b></td></tr><tr><td><b>Altitude</b> (X)</td><td>áreas em altitude superior a <b>1.800 m</b>, qualquer que seja a vegetação</td></tr><tr><td><b>Veredas</b> (XI)</td><td>faixa marginal, em projeção horizontal, com largura mínima de <b>50 m</b>, a partir do espaço permanentemente brejoso e encharcado</td></tr></tbody></table>\n<ul><li><b>Exceções do art. 4º</b>: não será exigida APP no entorno de reservatórios artificiais de água que <b>não decorram de barramento ou represamento</b> de cursos d'água naturais (§ 1º), nem no entorno de <b>acumulações naturais ou artificiais com superfície inferior a 1 hectare</b>, vedada nova supressão de vegetação nativa, salvo autorização (§ 4º).</li><li><b>Nascentes intermitentes</b>: o texto do art. 4º, IV, fala em nascentes e olhos d'água <b>perenes</b>. O STF, no julgamento de 2018, deu <b>interpretação conforme</b> para que o entorno das nascentes e dos olhos d'água <b>intermitentes</b> também seja considerado <b>APP</b>. Questão clássica.</li><li><b>Reservatórios para geração de energia ou abastecimento</b> (art. 5º): na implantação de reservatório artificial destinado a geração de energia ou abastecimento público, é obrigatória a aquisição, desapropriação ou instituição de servidão administrativa pelo empreendedor das APPs criadas em seu entorno, observando-se a faixa mínima de <b>30 m</b> e máxima de <b>100 m</b> em área <b>rural</b>, e a faixa mínima de <b>15 m</b> e máxima de <b>30 m</b> em área <b>urbana</b>.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para os rios, decore a sequência <b>30, 50, 100, 200, 500</b> e os limites de largura <b>10, 50, 200, 600</b>. Note que até a terceira faixa a APP é igual ou maior que o próprio rio no limite superior (rio de 50 m = APP de 50 m); a partir daí, cresce menos que o rio.</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os cursos d'água efêmeros geram APP</span><br>✅ <span class=\"certo\">São <b>excluídos</b>; geram APP os <b>perenes e intermitentes</b></span></li><li>❌ <span class=\"banca\">A APP de rio é medida do nível mais alto da cheia</span><br>✅ <span class=\"certo\">É medida da <b>borda da calha do leito regular</b></span></li><li>❌ <span class=\"banca\">O raio de APP de nascente é de 30 m</span><br>✅ <span class=\"certo\">É de <b>50 m</b></span></li><li>❌ <span class=\"banca\">Lagoa natural de 15 hectares em zona rural tem APP de 100 m</span><br>✅ <span class=\"certo\">Até <b>20 hectares</b>, a faixa rural é de <b>50 m</b></span></li><li>❌ <span class=\"banca\">Encosta com 30° de declividade é APP</span><br>✅ <span class=\"certo\">Só acima de <b>45°</b></span></li></ol></div>\n<h3>6. APPs declaradas por ato do Poder Público (art. 6º)</h3>\n<ul><li>Além das APPs que existem pelo simples efeito da lei, o <b>Chefe do Poder Executivo</b> pode declarar de <b>interesse social</b> e, assim, como APP, áreas cobertas com florestas ou outras formas de vegetação destinadas a uma ou mais das seguintes finalidades: conter a <b>erosão</b> do solo e mitigar riscos de enchentes e deslizamentos de terra e de rocha; proteger as <b>restingas ou veredas</b>; proteger <b>várzeas</b>; abrigar exemplares da <b>fauna ou da flora ameaçados</b> de extinção; proteger sítios de excepcional beleza ou de valor científico, cultural ou histórico; formar <b>faixas de proteção ao longo de rodovias e ferrovias</b>; assegurar condições de bem-estar público; auxiliar a defesa do território nacional, a critério das autoridades militares; proteger áreas úmidas, especialmente as de importância internacional.</li><li>O <b>Prefeito</b> também pode declarar APPs por ato do Poder Executivo municipal, para essas finalidades, desde que a área esteja no Município e respeitadas as normas gerais. Diferentemente das APPs legais (art. 4º), as APPs administrativas (art. 6º) podem gerar <b>indenização</b>, se esvaziarem o conteúdo econômico da propriedade.</li></ul>\n<h3>7. O regime de proteção das APPs (arts. 7º a 9º)</h3>\n<ul><li><b>Dever de manter</b> (art. 7º): a vegetação situada em APP deverá ser mantida pelo <b>proprietário</b> da área, <b>possuidor ou ocupante a qualquer título</b>, pessoa física ou jurídica, de direito público ou privado. Tendo ocorrido supressão de vegetação, o proprietário, possuidor ou ocupante é <b>obrigado a promover a recomposição</b> da vegetação, ressalvados os usos autorizados (§ 1º). Essa obrigação tem <b>natureza real</b> e é transmitida ao sucessor (§ 2º).</li><li><b>Vedação de novas autorizações</b> (art. 7º, § 3º): no caso de supressão <b>não autorizada</b> de vegetação realizada <b>após 22 de julho de 2008</b>, é <b>vedada a concessão de novas autorizações</b> de supressão de vegetação enquanto não cumpridas as obrigações de recomposição.</li><li><b>Intervenção ou supressão</b> (art. 8º): somente ocorrerá nas hipóteses de <b>utilidade pública</b>, de <b>interesse social</b> ou de <b>baixo impacto ambiental</b>. A supressão de vegetação nativa protetora de <b>nascentes, dunas e restingas</b> somente poderá ser autorizada em caso de <b>utilidade pública</b> (§ 1º). A intervenção em restingas e manguezais com função ecológica comprometida pode ser autorizada excepcionalmente para obras habitacionais e de urbanização, inseridas em projetos de <b>regularização fundiária de interesse social</b>, em áreas urbanas consolidadas ocupadas por população de baixa renda (§ 2º).</li><li><b>Urgência</b> (art. 8º, § 3º): é <b>dispensada a autorização</b> do órgão ambiental competente para a execução, em caráter de urgência, de atividades de <b>segurança nacional</b> e obras de interesse da <b>defesa civil</b> destinadas à prevenção e mitigação de acidentes em áreas urbanas.</li><li><b>Sem direito à regularização</b> (art. 8º, § 4º): não haverá, em qualquer hipótese, direito à regularização de futuras intervenções ou supressões de vegetação nativa além das previstas na lei.</li><li><b>Acesso</b> (art. 9º): é permitido o acesso de <b>pessoas e animais</b> às APPs para obtenção de <b>água</b> e para realização de atividades de baixo impacto ambiental.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Só o proprietário deve manter a APP</span><br>✅ <span class=\"certo\">O dever é do <b>proprietário, possuidor ou ocupante a qualquer título</b>, inclusive pessoa de direito público</span></li><li>❌ <span class=\"banca\">Nascentes podem ter a vegetação suprimida por interesse social</span><br>✅ <span class=\"certo\">Só por <b>utilidade pública</b> (art. 8º, § 1º)</span></li><li>❌ <span class=\"banca\">Obras urgentes de defesa civil em APP urbana exigem autorização prévia</span><br>✅ <span class=\"certo\">A autorização é <b>dispensada</b> (art. 8º, § 3º)</span></li><li>❌ <span class=\"banca\">É proibido o acesso de animais à APP</span><br>✅ <span class=\"certo\">É permitido para obtenção de <b>água</b> (art. 9º)</span></li></ol></div>\n<h3>8. APP em área urbana: Tema 1.010 do STJ e Lei 14.285/2021</h3>\n<ul><li>Durante anos houve conflito entre o <b>Código Florestal</b> (faixas de 30 a 500 m) e a <b>Lei 6.766/1979</b> (Lei do Parcelamento do Solo Urbano), cujo art. 4º, III, exigia <b>faixa não edificável de 15 metros</b> ao longo das águas correntes e dormentes. Muitos Municípios aplicavam os 15 metros nas cidades.</li><li>O <b>STJ</b>, no <b>Tema 1.010</b> dos recursos repetitivos (2021), decidiu que, na vigência do Código Florestal de 2012, a extensão não edificável nas APPs de qualquer curso d'água, perene ou intermitente, em trechos caracterizados como <b>área urbana consolidada</b>, deve respeitar o que dispõe o <b>art. 4º, I, do Código Florestal</b> (30 m ou mais), e <b>não</b> os 15 m da Lei 6.766, assegurando a mais ampla garantia ambiental.</li><li>Logo depois, o Congresso aprovou a <b>Lei 14.285/2021</b>, que incluiu o <b>§ 10 no art. 4º</b> do Código Florestal: em <b>áreas urbanas consolidadas</b>, ouvidos os <b>conselhos estaduais, municipais ou distrital de meio ambiente</b>, <b>lei municipal ou distrital</b> poderá definir <b>faixas marginais distintas</b> daquelas estabelecidas no inciso I, com regras que estabeleçam: I, a <b>não ocupação de áreas com risco de desastres</b>; II, a observância das diretrizes do <b>plano de recursos hídricos</b>, do plano de bacia, do plano de drenagem ou do plano de saneamento básico, se houver; III, a previsão de que as atividades ou os empreendimentos a serem instalados nas APPs urbanas devem observar os casos de utilidade pública, de interesse social ou de baixo impacto ambiental fixados na lei.</li><li>A mesma lei alterou a <b>Lei 6.766/1979</b>: ao longo das águas correntes e dormentes, as áreas de faixa não edificável deverão respeitar a lei municipal ou distrital que aprovar o instrumento de planejamento territorial e que definir e regulamentar a largura das faixas marginais de cursos d'água naturais em área urbana consolidada, nos termos da Lei 12.651/2012, com obrigatoriedade de reserva de uma faixa não edificável para cada trecho de margem, indicada em diagnóstico socioambiental elaborado pelo Município.</li><li>A Lei 14.285 também alterou a <b>Lei 11.952/2009</b> e definiu <b>área urbana consolidada</b> (art. 3º, XXVI, do Código Florestal). A constitucionalidade da lei foi questionada no STF, sob o argumento de retrocesso ambiental. Para a prova, aplique a lei: o Município <b>pode</b>, por <b>lei municipal</b>, ouvido o conselho de meio ambiente, definir faixas distintas <b>apenas em área urbana consolidada</b> e com base em diagnóstico socioambiental.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Tema 1.010 (REsp 1.770.760)</b><p class=\"jc-tese\">\"Na vigência do novo Código Florestal (Lei 12.651/2012), a extensão não edificável nas Áreas de Preservação Permanente de qualquer curso d'água, perene ou intermitente, em trechos caracterizados como área urbana consolidada, deve respeitar o que disciplinado pelo seu art. 4º, caput, inciso I, alíneas 'a', 'b', 'c', 'd' e 'e', a fim de assegurar a mais ampla garantia ambiental a esses espaços territoriais especialmente protegidos e, por conseguinte, à coletividade.\"</p><p class=\"jc-com\">A tese foi fixada em 2021 e, meses depois, a Lei 14.285/2021 permitiu que lei municipal defina faixas distintas em área urbana consolidada. Hoje, a regra é: sem lei municipal específica (com os requisitos do § 10), valem as faixas do Código Florestal, inclusive na cidade; com lei municipal válida, valem as faixas por ela definidas.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na área urbana consolidada, vale sempre a faixa de 15 m da Lei 6.766</span><br>✅ <span class=\"certo\">O STJ (Tema 1.010) mandou aplicar o <b>Código Florestal</b>; depois, a Lei 14.285 permitiu <b>lei municipal</b> com faixas distintas</span></li><li>❌ <span class=\"banca\">O Município pode reduzir APP urbana por decreto</span><br>✅ <span class=\"certo\">Exige <b>lei municipal</b>, ouvido o <b>conselho</b> de meio ambiente, e só em área urbana <b>consolidada</b></span></li><li>❌ <span class=\"banca\">A Lei 14.285 permite ocupar área de risco em APP urbana</span><br>✅ <span class=\"certo\">Exige a <b>não ocupação de áreas com risco de desastres</b></span></li></ol></div>\n<h3>9. Reserva Legal: percentuais e cômputo</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 12.651/2012, art. 12</div><div class=\"art-lei\">Todo imóvel rural deve manter área com cobertura de vegetação nativa, a título de Reserva Legal, sem prejuízo da aplicação das normas sobre as Áreas de Preservação Permanente, observados os seguintes percentuais mínimos em relação à área do imóvel: I - localizado na Amazônia Legal: a) 80% (oitenta por cento), no imóvel situado em área de florestas; b) 35% (trinta e cinco por cento), no imóvel situado em área de cerrado; c) 20% (vinte por cento), no imóvel situado em área de campos gerais; II - localizado nas demais regiões do País: 20% (vinte por cento).</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Só imóvel RURAL</li><li>Percentuais MÍNIMOS</li><li>Amazônia Legal: 80 (floresta), 35 (cerrado), 20 (campos gerais)</li><li>Demais regiões: 20%</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Em Minas Gerais, fora da Amazônia Legal, a reserva legal é de 20% da área do imóvel, qualquer que seja o bioma (Mata Atlântica, Cerrado, Caatinga).</li></ul></div></div>\n<ul><li><b>Redução na Amazônia Legal</b> (art. 12, §§ 4º e 5º): o poder público poderá <b>reduzir a reserva legal para até 50%</b>, para fins de recomposição, quando o Município tiver mais de <b>50%</b> da área ocupada por <b>unidades de conservação</b> de domínio público e por <b>terras indígenas</b> homologadas. E o Estado poderá reduzir para até 50% quando tiver <b>Zoneamento Ecológico-Econômico</b> aprovado e mais de <b>65%</b> do seu território ocupado por UCs de domínio público e terras indígenas homologadas.</li><li><b>Dispensas de reserva legal</b> (art. 12, §§ 6º a 8º): <b>não</b> será exigida reserva legal para: os empreendimentos de <b>abastecimento público de água</b> e tratamento de <b>esgoto</b>; as áreas adquiridas ou desapropriadas por detentor de concessão, permissão ou autorização para exploração de <b>potencial de energia hidráulica</b>, nas quais funcionem empreendimentos de geração de energia elétrica, subestações ou linhas de transmissão e distribuição; e as áreas adquiridas ou desapropriadas para implantação e ampliação de capacidade de <b>rodovias e ferrovias</b>.</li><li><b>Cômputo da APP na reserva legal</b> (art. 15): será admitido o cômputo das APPs no cálculo do percentual da reserva legal, desde que: I, o benefício <b>não implique a conversão de novas áreas</b> para o uso alternativo do solo; II, a área a ser computada esteja <b>conservada ou em processo de recuperação</b>; III, o proprietário ou possuidor tenha requerido inclusão do imóvel no <b>CAR</b>. O STF declarou essa regra <b>constitucional</b> (2018).</li><li><b>Fracionamento e loteamento</b> (art. 19): a inserção do imóvel rural em <b>perímetro urbano</b> definido mediante lei municipal <b>não desobriga</b> o proprietário ou posseiro da manutenção da área de reserva legal, que só será <b>extinta</b> concomitantemente ao <b>registro do parcelamento do solo para fins urbanos</b> aprovado segundo a legislação específica e consoante as diretrizes do plano diretor.</li></ul>\n<table class=\"tab\"><thead><tr><th>Região</th><th>Vegetação</th><th>Reserva legal mínima</th></tr></thead><tbody><tr><td>Amazônia Legal</td><td>floresta</td><td><b>80%</b></td></tr><tr><td>Amazônia Legal</td><td>cerrado</td><td><b>35%</b></td></tr><tr><td>Amazônia Legal</td><td>campos gerais</td><td><b>20%</b></td></tr><tr><td>Demais regiões do País</td><td>qualquer</td><td><b>20%</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A reserva legal em área de cerrado fora da Amazônia Legal é de 35%</span><br>✅ <span class=\"certo\">Os 35% valem para cerrado <b>na Amazônia Legal</b>; fora dela, <b>20%</b></span></li><li>❌ <span class=\"banca\">A inclusão do imóvel no perímetro urbano extingue a reserva legal</span><br>✅ <span class=\"certo\">Só se extingue com o <b>registro do parcelamento</b> do solo urbano (art. 19)</span></li><li>❌ <span class=\"banca\">É proibido computar APP na reserva legal</span><br>✅ <span class=\"certo\">É <b>permitido</b> nas condições do art. 15</span></li><li>❌ <span class=\"banca\">Rodovias exigem reserva legal na faixa desapropriada</span><br>✅ <span class=\"certo\">Estão <b>dispensadas</b> (art. 12, § 8º)</span></li></ol></div>\n<h3>10. Reserva Legal: localização, registro e uso</h3>\n<ul><li><b>Localização</b> (art. 14): a localização da reserva legal no imóvel deve levar em consideração: o plano de bacia hidrográfica; o zoneamento ecológico-econômico; a formação de <b>corredores ecológicos</b> com outra reserva legal, APP, UC ou outra área legalmente protegida; as áreas de maior importância para a conservação da biodiversidade; e as áreas de maior fragilidade ambiental. Cabe ao <b>órgão estadual</b> integrante do SISNAMA ou instituição por ele habilitada <b>aprovar a localização</b> da reserva legal após a inclusão do imóvel no CAR (§ 1º).</li><li><b>Registro no CAR</b> (art. 18): a área de reserva legal deverá ser <b>registrada no órgão ambiental competente por meio de inscrição no CAR</b>, sendo <b>vedada a alteração de sua destinação</b>, nos casos de transmissão, a qualquer título, ou de desmembramento, com as exceções previstas na lei. O registro no CAR <b>desobriga a averbação</b> no Cartório de Registro de Imóveis (§ 4º). No Código de 1965, a averbação na matrícula era obrigatória.</li><li><b>Exploração</b> (arts. 17, 20 a 24): a reserva legal <b>pode ser explorada economicamente</b> mediante <b>manejo sustentável</b>, previamente aprovado pelo órgão competente. O manejo sustentável <b>sem propósito comercial</b>, para consumo no próprio imóvel, <b>independe de autorização</b>, mas deve ser declarado ao órgão ambiental, limitado a 20 metros cúbicos por ano (art. 23). Admite-se a coleta de produtos florestais não madeireiros (frutos, cipós, folhas, sementes). É <b>obrigatória a suspensão imediata</b> das atividades em área de reserva legal desmatada irregularmente <b>após 22 de julho de 2008</b> (art. 17, § 3º).</li><li><b>Diferença essencial entre APP e reserva legal</b>: a <b>APP</b> é de <b>preservação</b> (intocabilidade, salvo exceções legais) e existe em área <b>rural e urbana</b>; a <b>reserva legal</b> é de <b>uso sustentável</b> (pode haver manejo econômico) e existe apenas em imóvel <b>rural</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instituto</th><th>Onde</th><th>Regime</th><th>Pode explorar?</th></tr></thead><tbody><tr><td><b>APP</b></td><td>rural e urbana</td><td>preservação permanente</td><td>não, salvo utilidade pública, interesse social, baixo impacto e áreas consolidadas</td></tr><tr><td><b>Reserva legal</b></td><td>só rural</td><td>uso sustentável</td><td>sim, mediante <b>manejo sustentável</b> aprovado</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A reserva legal deve ser averbada na matrícula do imóvel</span><br>✅ <span class=\"certo\">O registro no <b>CAR</b> desobriga a averbação (art. 18, § 4º)</span></li><li>❌ <span class=\"banca\">A reserva legal não pode ser explorada economicamente</span><br>✅ <span class=\"certo\">Pode, por <b>manejo sustentável</b></span></li><li>❌ <span class=\"banca\">A reserva legal existe em imóveis urbanos</span><br>✅ <span class=\"certo\">É instituto exclusivamente <b>rural</b></span></li><li>❌ <span class=\"banca\">A localização da reserva legal é definida livremente pelo proprietário</span><br>✅ <span class=\"certo\">Depende de <b>aprovação</b> do órgão estadual, com critérios do art. 14</span></li></ol></div>\n<h3>11. Cadastro Ambiental Rural (CAR)</h3>\n<ul><li><b>Conceito</b> (art. 29): o CAR é o <b>registro público eletrônico de âmbito nacional</b>, <b>obrigatório para todos os imóveis rurais</b>, com a finalidade de integrar as informações ambientais das propriedades e posses rurais, compondo base de dados para controle, monitoramento, planejamento ambiental e econômico e combate ao desmatamento. Integra o <b>SINIMA</b> (Sistema Nacional de Informação sobre Meio Ambiente). A inscrição deve ser feita, preferencialmente, no órgão ambiental <b>municipal ou estadual</b> (§ 1º).</li><li><b>Não é título de propriedade</b> (art. 29, § 2º): o cadastramento <b>não será considerado título</b> para fins de reconhecimento do direito de propriedade ou posse, tampouco elimina a necessidade de cumprimento do art. 2º da Lei 10.267/2001 (georreferenciamento). O CAR é <b>autodeclaratório</b>: o proprietário informa os dados (perímetro, APP, reserva legal, áreas consolidadas), e o órgão ambiental depois <b>analisa e valida</b>.</li><li><b>Prazo</b>: a <b>Lei 13.887/2019</b> alterou o art. 29, § 3º, para dizer que a inscrição no CAR é obrigatória e <b>por prazo indeterminado</b> para todas as propriedades e posses rurais. Ou seja, não há mais \"prazo final\" para se inscrever, mas quem não se inscreve perde benefícios, como o acesso ao PRA nas condições mais favoráveis e ao <b>crédito agrícola</b>: as instituições financeiras só concedem crédito agrícola, em qualquer modalidade, a proprietários de imóveis rurais <b>inscritos no CAR</b> (art. 78-A).</li><li><b>CAR e LGLA</b>: com a derrubada dos vetos à Lei 15.190/2025, a dispensa de licenciamento para atividades agropecuárias alcança imóveis com CAR <b>pendente de homologação</b> (análise). Isso aumentou a importância do CAR como instrumento de controle.</li></ul>\n<h3>12. Áreas consolidadas e o PRA</h3>\n<ul><li>O Código Florestal criou um regime de <b>transição</b> para quem ocupou APP ou reserva legal <b>antes de 22 de julho de 2008</b> (data do Decreto 6.514/2008, que regulamentou as infrações ambientais). As regras estão nas <b>Disposições Transitórias</b> (arts. 59 a 68).</li><li><b>Programa de Regularização Ambiental (PRA)</b> (art. 59): os Estados implantam programas para adequar os imóveis. Com a <b>adesão</b> ao PRA e a assinatura de <b>termo de compromisso</b>, durante o prazo de cumprimento: o proprietário <b>não pode ser autuado</b> por infrações cometidas antes de 22/07/2008 relativas à supressão irregular de vegetação em APP, RL e uso restrito (§ 4º); as <b>sanções</b> já aplicadas ficam <b>suspensas</b> e, cumpridas as obrigações, as multas serão consideradas <b>convertidas em serviços</b> de preservação, melhoria e recuperação da qualidade do meio ambiente (§ 5º).</li><li><b>Efeito penal</b> (art. 60): a assinatura do termo de compromisso <b>suspende a punibilidade</b> dos crimes dos arts. 38, 39 e 48 da Lei 9.605/1998 (destruir floresta de preservação permanente, cortar árvores em APP e impedir a regeneração) enquanto o termo estiver sendo cumprido. A <b>prescrição</b> fica <b>interrompida</b> durante o período de suspensão (§ 1º). Extingue-se a punibilidade com a efetiva regularização (§ 2º).</li><li><b>Decisão do STF (2018)</b>: o PRA e a suspensão das sanções foram considerados <b>constitucionais</b>: não se trata de <b>anistia</b>, porque a punição é apenas suspensa e só se extingue com a efetiva recuperação. O STF deu interpretação conforme para afastar o risco de <b>decadência ou prescrição</b> durante o cumprimento do termo, mantendo a possibilidade de punir quem descumprir o acordo.</li></ul>\n<table class=\"tab\"><thead><tr><th>Área consolidada em APP de rio (art. 61-A)</th><th>Recomposição obrigatória da faixa marginal</th></tr></thead><tbody><tr><td>imóvel com até <b>1 módulo fiscal</b></td><td><b>5 m</b>, contados da borda da calha do leito regular</td></tr><tr><td>de <b>1 a 2</b> módulos fiscais</td><td><b>8 m</b></td></tr><tr><td>de <b>2 a 4</b> módulos fiscais</td><td><b>15 m</b></td></tr><tr><td>mais de <b>4</b> módulos fiscais</td><td>conforme o PRA, entre <b>20 e 100 m</b></td></tr></tbody></table>\n<ul><li><b>A \"escadinha\"</b>: as regras do art. 61-A permitem a <b>continuidade das atividades agrossilvipastoris, de ecoturismo e de turismo rural</b> em áreas consolidadas em APP até 22/07/2008, desde que se recomponha uma faixa <b>menor</b> que a do art. 4º, proporcional ao tamanho do imóvel. Para <b>nascentes e olhos d'água perenes</b>, a recomposição é de <b>15 m</b> de raio, qualquer que seja o tamanho do imóvel; para <b>lagos e lagoas naturais</b>, 5, 8, 15 ou 30 m conforme o tamanho; para <b>veredas</b>, 30 m (até 4 módulos) ou 50 m (mais de 4 módulos).</li><li><b>Teto para pequenos imóveis</b> (art. 61-B): para os imóveis que detinham, em 22/07/2008, até 2 módulos fiscais, a recomposição das APPs somadas não ultrapassará <b>10%</b> da área total do imóvel; de 2 a 4 módulos, <b>20%</b>.</li></ul>\n<h3>13. Reserva legal consolidada e compensação</h3>\n<ul><li><b>Pequenas propriedades</b> (art. 67): nos imóveis rurais que detinham, em 22/07/2008, área de <b>até 4 módulos fiscais</b> e que possuam remanescente de vegetação nativa em percentuais <b>inferiores</b> ao do art. 12, a reserva legal será constituída com a área <b>ocupada com a vegetação nativa existente em 22 de julho de 2008</b>, vedadas novas conversões para uso alternativo do solo. Ou seja: o pequeno produtor não precisa recompor o déficit de reserva legal.</li><li><b>Respeito à lei da época</b> (art. 68): os proprietários ou possuidores que realizaram supressão de vegetação nativa <b>respeitando os percentuais</b> de reserva legal previstos pela <b>legislação em vigor à época</b> em que ocorreu a supressão são <b>dispensados</b> de promover a recomposição, compensação ou regeneração para os percentuais exigidos na lei atual. É a proteção do <b>ato jurídico perfeito</b>.</li><li><b>Regularização do déficit</b> (art. 66): o proprietário que detinha, em 22/07/2008, área de reserva legal <b>inferior</b> ao exigido pode regularizar sua situação, <b>independentemente da adesão ao PRA</b>, adotando, isolada ou conjuntamente: I, <b>recompor</b> a reserva legal (em até <b>20 anos</b>, abrangendo, a cada 2 anos, no mínimo <b>1/10</b> da área total); II, permitir a <b>regeneração natural</b> da vegetação; III, <b>compensar</b> a reserva legal.</li><li><b>Formas de compensação</b> (art. 66, § 5º): I, aquisição de <b>Cota de Reserva Ambiental (CRA)</b>; II, <b>arrendamento</b> de área sob regime de servidão ambiental ou reserva legal; III, <b>doação ao poder público</b> de área localizada no interior de <b>unidade de conservação</b> de domínio público pendente de regularização fundiária; IV, cadastramento de <b>outra área equivalente e excedente</b> à reserva legal, em imóvel de mesma titularidade ou adquirida em imóvel de terceiro, com vegetação nativa estabelecida, em regeneração ou recomposição, desde que localizada no <b>mesmo bioma</b>.</li><li><b>Identidade ecológica</b>: o § 6º diz que as áreas usadas para compensação devem ser equivalentes em extensão, estar no <b>mesmo bioma</b> e, se fora do Estado, em áreas prioritárias. O STF, em 2018, deu interpretação conforme para exigir que a compensação ocorra entre áreas com <b>identidade ecológica</b>, não bastando o mesmo bioma em sentido amplo.</li><li><b>Cota de Reserva Ambiental</b> (art. 44): é <b>título nominativo</b> representativo de área com vegetação nativa, existente ou em processo de recuperação, instituído voluntariamente pelo proprietário (por exemplo, em área de servidão ambiental, de reserva legal excedente, de RPPN, ou em propriedade rural localizada no interior de UC de domínio público ainda não desapropriada). <b>Cada CRA corresponde a 1 hectare</b> (art. 46). É emitida pelo órgão do SISNAMA e pode ser transferida onerosa ou gratuitamente.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O pequeno proprietário deve recompor toda a reserva legal faltante</span><br>✅ <span class=\"certo\">Para imóveis de até <b>4 módulos fiscais</b> em 22/07/2008, a RL é a <b>vegetação existente naquela data</b> (art. 67)</span></li><li>❌ <span class=\"banca\">Quem desmatou respeitando a lei da época deve se adequar aos novos percentuais</span><br>✅ <span class=\"certo\">É <b>dispensado</b> (art. 68)</span></li><li>❌ <span class=\"banca\">A compensação de reserva legal pode ocorrer em qualquer bioma</span><br>✅ <span class=\"certo\">Deve ser no <b>mesmo bioma</b>, com <b>identidade ecológica</b> (STF)</span></li><li>❌ <span class=\"banca\">A CRA corresponde a 10 hectares</span><br>✅ <span class=\"certo\">Corresponde a <b>1 hectare</b></span></li><li>❌ <span class=\"banca\">O PRA é anistia ampla para desmatamentos</span><br>✅ <span class=\"certo\">É <b>suspensão</b> condicionada; o STF afastou a tese de anistia</span></li></ol></div>\n<h3>14. Fogo e crimes contra a flora</h3>\n<ul><li><b>Uso do fogo</b> (Código Florestal, art. 38): é <b>proibido</b> o uso de fogo na vegetação, exceto: em locais ou regiões cujas peculiaridades justifiquem o emprego do fogo em práticas agropastoris ou florestais, mediante <b>prévia aprovação</b> do órgão estadual; no emprego da <b>queima controlada</b> em UCs, conforme o plano de manejo; em atividades de <b>pesquisa científica</b>; e nas práticas de prevenção e combate aos incêndios e de agricultura de subsistência de populações tradicionais e indígenas. A <b>Lei 14.944/2024</b> instituiu a <b>Política Nacional de Manejo Integrado do Fogo</b>, que disciplina a queima prescrita, a queima controlada e o uso tradicional do fogo, com responsabilização de quem provoca incêndios.</li></ul>\n<table class=\"tab\"><thead><tr><th>Crime (Lei 9.605/1998)</th><th>Conduta</th><th>Pena</th></tr></thead><tbody><tr><td><b>Art. 38</b></td><td>destruir ou danificar floresta considerada de <b>preservação permanente</b>, mesmo que em formação, ou utilizá-la com infringência das normas de proteção</td><td>detenção de 1 a 3 anos, ou multa, ou ambas; culposo: pena reduzida à metade</td></tr><tr><td><b>Art. 38-A</b></td><td>destruir ou danificar vegetação primária ou secundária, em estágio avançado ou médio de regeneração, do <b>Bioma Mata Atlântica</b></td><td>detenção de 1 a 3 anos, ou multa, ou ambas</td></tr><tr><td><b>Art. 39</b></td><td><b>cortar árvores</b> em floresta de preservação permanente sem permissão</td><td>detenção de 1 a 3 anos, ou multa, ou ambas</td></tr><tr><td><b>Art. 40</b></td><td>causar <b>dano direto ou indireto às unidades de conservação</b></td><td>reclusão de 1 a 5 anos</td></tr><tr><td><b>Art. 41</b></td><td><b>provocar incêndio</b> em mata ou floresta</td><td>reclusão de 2 a 4 anos e multa; culposo: detenção de 6 meses a 1 ano e multa</td></tr><tr><td><b>Art. 42</b></td><td>fabricar, vender, transportar ou <b>soltar balões</b> que possam provocar incêndios</td><td>detenção de 1 a 3 anos ou multa, ou ambas</td></tr><tr><td><b>Art. 46</b></td><td>receber ou adquirir <b>madeira</b>, lenha, carvão e outros produtos de origem vegetal <b>sem licença</b></td><td>detenção de 6 meses a 1 ano e multa</td></tr><tr><td><b>Art. 48</b></td><td><b>impedir ou dificultar a regeneração natural</b> de florestas e demais formas de vegetação</td><td>detenção de 6 meses a 1 ano e multa</td></tr><tr><td><b>Art. 49</b></td><td>destruir, danificar, lesar ou maltratar <b>plantas de ornamentação</b> de logradouros públicos ou em propriedade privada alheia</td><td>detenção de 3 meses a 1 ano, ou multa, ou ambas; admite forma <b>culposa</b></td></tr><tr><td><b>Art. 50-A</b></td><td><b>desmatar</b>, explorar economicamente ou degradar floresta, plantada ou nativa, em <b>terras de domínio público</b> ou devolutas, sem autorização</td><td>reclusão de 2 a 4 anos e multa</td></tr><tr><td><b>Art. 51</b></td><td>comercializar ou utilizar <b>motosserra</b> em florestas sem licença ou registro</td><td>detenção de 3 meses a 1 ano e multa</td></tr></tbody></table>\n<ul><li><b>Art. 49 e o Município</b>: o crime de danificar plantas de <b>ornamentação de logradouros públicos</b> (árvores de praças e calçadas) admite a modalidade <b>culposa</b> (detenção de 1 a 6 meses ou multa), o que é raro na lei. A poda ou o corte de árvores urbanas depende de <b>autorização municipal</b>, conforme a legislação local de arborização.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Provocar incêndio em mata é punido apenas a título de dolo</span><br>✅ <span class=\"certo\">Há forma <b>culposa</b> (art. 41, parágrafo único)</span></li><li>❌ <span class=\"banca\">Soltar balão só é crime se o incêndio ocorrer</span><br>✅ <span class=\"certo\">O crime é de <b>perigo</b>: basta o balão <b>poder</b> provocar incêndio (art. 42)</span></li><li>❌ <span class=\"banca\">Danificar árvore de praça não é crime ambiental</span><br>✅ <span class=\"certo\">É crime do <b>art. 49</b>, inclusive na forma culposa</span></li><li>❌ <span class=\"banca\">O uso do fogo na vegetação é livre</span><br>✅ <span class=\"certo\">É <b>proibido</b>, salvo exceções do art. 38 e da Lei 14.944/2024</span></li></ol></div>\n<h3>15. Lei da Mata Atlântica (Lei 11.428/2006)</h3>\n<ul><li>A Mata Atlântica é <b>patrimônio nacional</b> (CF, art. 225, § 4º) e o bioma mais desmatado do País. A <b>Lei 11.428/2006</b>, regulamentada pelo <b>Decreto 6.660/2008</b>, é a única lei federal específica para um bioma. Ela convive com o Código Florestal: aplica-se a lei mais <b>protetiva</b> e específica (a Lei da Mata Atlântica é <b>lei especial</b>).</li><li><b>Abrangência</b> (art. 2º): consideram-se integrantes do Bioma Mata Atlântica as formações florestais nativas e ecossistemas associados, com as delimitações estabelecidas em <b>mapa do IBGE</b>: Floresta Ombrófila Densa, Floresta Ombrófila Mista (Mata de Araucárias), Floresta Ombrófila Aberta, Floresta Estacional Semidecidual e Decidual, <b>manguezais</b>, vegetações de <b>restingas</b>, <b>campos de altitude</b>, brejos interioranos e encraves florestais do Nordeste. Grande parte de Minas Gerais (inclusive a região de Belo Vale, no Alto Paraopeba) está no domínio da Mata Atlântica ou em áreas de transição com o Cerrado, o que torna a lei muito relevante para os Municípios mineiros.</li><li><b>A lógica da lei</b>: o regime de proteção depende do <b>tipo de vegetação</b> (primária ou secundária) e do <b>estágio de regeneração</b> da secundária (inicial, médio ou avançado). Quanto mais preservada a vegetação, mais restrito o corte.</li></ul>\n<table class=\"tab\"><thead><tr><th>Vegetação</th><th>Quando pode ser suprimida</th></tr></thead><tbody><tr><td><b>Primária</b></td><td>somente em caráter <b>excepcional</b>, para obras, projetos ou atividades de <b>utilidade pública</b>, pesquisa científica e práticas preservacionistas (arts. 14 e 20)</td></tr><tr><td><b>Secundária em estágio avançado</b></td><td><b>utilidade pública</b>, pesquisa científica e práticas preservacionistas (arts. 14 e 21); em área urbana, regras do art. 30</td></tr><tr><td><b>Secundária em estágio médio</b></td><td><b>utilidade pública</b> e <b>interesse social</b>, e também nos casos do art. 23 (pequeno produtor, populações tradicionais, atividades imprescindíveis à subsistência); em área urbana, regras do art. 31</td></tr><tr><td><b>Secundária em estágio inicial</b></td><td>autorizada pelo <b>órgão estadual</b> competente (art. 25), com regras mais rígidas nos Estados em que a vegetação primária e secundária remanescente for inferior a 5% da área original</td></tr></tbody></table>\n<ul><li><b>Requisitos gerais</b> (art. 14): a supressão de vegetação primária e secundária no estágio avançado somente poderá ser autorizada em caso de <b>utilidade pública</b>; a vegetação secundária em estágio médio, em caso de <b>utilidade pública e interesse social</b>, em todos os casos <b>devidamente caracterizados e motivados</b> em procedimento administrativo próprio, quando <b>inexistir alternativa técnica e locacional</b> ao empreendimento proposto.</li><li><b>Papel do Município</b> (art. 14, § 2º): a supressão de vegetação no <b>estágio médio</b> de regeneração situada em <b>área urbana</b> dependerá de autorização do <b>órgão ambiental municipal</b> competente, desde que o Município possua <b>conselho de meio ambiente com caráter deliberativo</b> e <b>plano diretor</b>, mediante <b>anuência prévia</b> do órgão ambiental estadual, fundamentada em parecer técnico.</li><li><b>Vedações</b> (art. 11): o corte e a supressão de vegetação primária ou nos estágios avançado e médio de regeneração ficam <b>vedados</b> quando a vegetação: abrigar <b>espécies ameaçadas de extinção</b> (e a intervenção puser em risco a sobrevivência dessas espécies); exercer a função de <b>proteção de mananciais</b> ou de prevenção e controle de erosão; formar <b>corredores</b> entre remanescentes; proteger o <b>entorno das unidades de conservação</b>; possuir excepcional <b>valor paisagístico</b>; ou quando o proprietário ou posseiro não cumprir os dispositivos da legislação ambiental, em especial as exigências do Código Florestal no que respeita às APPs e à reserva legal.</li><li><b>Compensação</b> (art. 17): o corte ou a supressão de vegetação primária ou secundária nos estágios médio ou avançado, autorizados pela lei, ficam condicionados à <b>compensação ambiental</b>, na forma da destinação de área <b>equivalente à extensão da área desmatada</b>, com as <b>mesmas características ecológicas</b>, na <b>mesma bacia hidrográfica</b>, sempre que possível na mesma <b>microbacia</b>. Verificada a impossibilidade, exige-se <b>reposição florestal</b> com espécies nativas, na mesma bacia (§ 1º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Área urbana (arts. 30 e 31)</th><th>Perímetro urbano aprovado ATÉ a lei (2006)</th><th>Perímetro urbano aprovado DEPOIS da lei</th></tr></thead><tbody><tr><td>Vegetação <b>primária</b></td><td>supressão <b>vedada</b> para loteamento ou edificação</td><td>supressão <b>vedada</b></td></tr><tr><td>Secundária em estágio <b>avançado</b></td><td>admitida com autorização estadual, preservando no mínimo <b>50%</b> da área coberta por essa vegetação</td><td><b>vedada</b> para loteamento ou edificação</td></tr><tr><td>Secundária em estágio <b>médio</b></td><td>admitida preservando no mínimo <b>30%</b> da área coberta</td><td>admitida preservando no mínimo <b>50%</b> da área coberta</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A vegetação primária da Mata Atlântica pode ser suprimida por interesse social</span><br>✅ <span class=\"certo\">Só por <b>utilidade pública</b>, pesquisa e práticas preservacionistas, em caráter excepcional</span></li><li>❌ <span class=\"banca\">O Município nunca autoriza supressão de Mata Atlântica</span><br>✅ <span class=\"certo\">Pode autorizar a de <b>estágio médio</b> em <b>área urbana</b>, se tiver <b>conselho deliberativo</b> e <b>plano diretor</b>, com <b>anuência</b> do Estado (art. 14, § 2º)</span></li><li>❌ <span class=\"banca\">A compensação pode ocorrer em qualquer bacia</span><br>✅ <span class=\"certo\">Deve ser na <b>mesma bacia</b>, sempre que possível na mesma <b>microbacia</b> (art. 17)</span></li><li>❌ <span class=\"banca\">Em perímetro urbano aprovado após 2006, a vegetação em estágio avançado pode ser suprimida com preservação de 50%</span><br>✅ <span class=\"certo\">É <b>vedada</b> (art. 30, II)</span></li></ol></div>\n<h3>16. SNUC: conceitos e grupos</h3>\n<ul><li>A <b>Lei 9.985/2000</b> regulamenta o art. 225, § 1º, I, II, III e VII, da CF e institui o <b>Sistema Nacional de Unidades de Conservação da Natureza</b> (SNUC), constituído pelo conjunto das UCs <b>federais, estaduais e municipais</b>.</li><li><b>Unidade de conservação</b> (art. 2º, I): espaço territorial e seus recursos ambientais, incluindo as águas jurisdicionais, com características naturais relevantes, legalmente instituído pelo Poder Público, com objetivos de conservação e limites definidos, sob regime especial de administração, ao qual se aplicam garantias adequadas de proteção.</li><li><b>Dois grupos</b> (art. 7º): <b>Proteção Integral</b> (objetivo: preservar a natureza, admitido apenas o <b>uso indireto</b> dos recursos naturais, ou seja, aquele que não envolve consumo, coleta, dano ou destruição) e <b>Uso Sustentável</b> (objetivo: compatibilizar a conservação com o <b>uso sustentável de parcela</b> dos recursos naturais).</li></ul>\n<table class=\"tab\"><thead><tr><th>Proteção Integral (art. 8º)</th><th>Posse e domínio</th><th>Visitação</th></tr></thead><tbody><tr><td><b>Estação Ecológica</b></td><td><b>pública</b> (áreas particulares desapropriadas)</td><td><b>proibida</b>, exceto com objetivo <b>educacional</b></td></tr><tr><td><b>Reserva Biológica</b></td><td><b>pública</b></td><td><b>proibida</b>, exceto com objetivo <b>educacional</b></td></tr><tr><td><b>Parque Nacional</b> (estadual: Parque Estadual; municipal: Parque Natural Municipal)</td><td><b>público</b></td><td><b>permitida</b>, conforme plano de manejo</td></tr><tr><td><b>Monumento Natural</b></td><td>pode ser constituído por <b>áreas particulares</b>, se compatível</td><td>permitida</td></tr><tr><td><b>Refúgio de Vida Silvestre</b></td><td>pode ser constituído por <b>áreas particulares</b>, se compatível</td><td>permitida</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Uso Sustentável (art. 14)</th><th>Posse e domínio</th><th>Característica</th></tr></thead><tbody><tr><td><b>Área de Proteção Ambiental (APA)</b></td><td>terras <b>públicas ou privadas</b></td><td>área em geral <b>extensa</b>, com certo grau de ocupação humana</td></tr><tr><td><b>Área de Relevante Interesse Ecológico (ARIE)</b></td><td>públicas ou privadas</td><td>área em geral <b>pequena</b>, com pouca ou nenhuma ocupação humana</td></tr><tr><td><b>Floresta Nacional (FLONA)</b></td><td><b>pública</b></td><td>uso múltiplo sustentável dos recursos florestais e pesquisa científica; admite populações tradicionais que a habitavam</td></tr><tr><td><b>Reserva Extrativista (RESEX)</b></td><td><b>pública</b>, com uso concedido às <b>populações extrativistas</b> tradicionais</td><td><b>proibidas</b> a exploração de recursos minerais e a <b>caça</b> amadorística ou profissional; gerida por <b>conselho deliberativo</b></td></tr><tr><td><b>Reserva de Fauna</b></td><td><b>pública</b></td><td>populações animais adequadas para estudos sobre manejo econômico sustentável; proibida a caça amadorística ou profissional</td></tr><tr><td><b>Reserva de Desenvolvimento Sustentável (RDS)</b></td><td><b>pública</b></td><td>abriga <b>populações tradicionais</b> com sistemas sustentáveis de exploração; conselho deliberativo</td></tr><tr><td><b>Reserva Particular do Patrimônio Natural (RPPN)</b></td><td><b>privada</b>, gravada com <b>perpetuidade</b></td><td>averbada na matrícula; só admite pesquisa científica e visitação turística, recreativa e educacional</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Proteção Integral: <b>\"E R P M R\"</b>: <b>E</b>stação Ecológica, <b>R</b>eserva Biológica, <b>P</b>arque, <b>M</b>onumento Natural, <b>R</b>efúgio de Vida Silvestre. Uso Sustentável: as outras 7 (APA, ARIE, FLONA, RESEX, Reserva de Fauna, RDS e RPPN). Atenção: a <b>RPPN</b> é de uso sustentável na lei, embora na prática funcione como de proteção integral (o inciso que permitia extração de recursos foi vetado).</div>\n<h3>17. SNUC: criação, alteração e gestão</h3>\n<ul><li><b>Criação</b> (art. 22): as UCs são criadas por <b>ato do Poder Público</b> (lei ou decreto). A criação deve ser precedida de <b>estudos técnicos</b> e de <b>consulta pública</b> que permitam identificar a localização, a dimensão e os limites mais adequados (§ 2º). No processo de consulta, o Poder Público é obrigado a fornecer informações adequadas e inteligíveis à população local (§ 3º). Na criação de <b>Estação Ecológica</b> ou <b>Reserva Biológica</b>, <b>não é obrigatória</b> a consulta pública (§ 4º).</li><li><b>Transformação e ampliação</b> (art. 22, §§ 5º e 6º): as UCs do grupo de <b>Uso Sustentável</b> podem ser <b>transformadas</b> total ou parcialmente em UCs do grupo de <b>Proteção Integral</b>, por instrumento normativo do <b>mesmo nível hierárquico</b> do que criou a unidade, observada a consulta pública. A <b>ampliação</b> dos limites de uma UC, sem modificação dos seus limites originais (exceto pelo acréscimo proposto), pode ser feita por instrumento normativo do <b>mesmo nível hierárquico</b>.</li><li><b>Desafetação ou redução</b> (art. 22, § 7º): só pode ser feita mediante <b>lei específica</b>. É a concretização do art. 225, § 1º, III, da CF. O STF (ADI 4.717) vedou a redução por <b>medida provisória</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ato</th><th>Instrumento exigido</th></tr></thead><tbody><tr><td><b>Criar</b> UC</td><td>ato do Poder Público (lei ou decreto), com estudos técnicos e consulta pública (dispensada para EE e REBIO)</td></tr><tr><td><b>Ampliar</b> UC</td><td>instrumento do <b>mesmo nível hierárquico</b> do ato de criação</td></tr><tr><td><b>Transformar</b> uso sustentável em proteção integral</td><td>instrumento do <b>mesmo nível hierárquico</b>, com consulta pública</td></tr><tr><td><b>Reduzir ou desafetar</b> UC</td><td><b>lei específica</b></td></tr></tbody></table>\n<ul><li><b>Zona de amortecimento e corredores</b> (art. 25): as UCs, <b>exceto APA e RPPN</b>, devem possuir <b>zona de amortecimento</b> (o entorno, onde as atividades humanas estão sujeitas a normas e restrições específicas) e, quando conveniente, <b>corredores ecológicos</b>. A zona de amortecimento de uma UC <b>não</b> pode ser transformada em zona urbana, uma vez definida formalmente, no caso das UCs de proteção integral (art. 49, parágrafo único).</li><li><b>Zona rural</b> (art. 49): a área de uma unidade de conservação do grupo de <b>Proteção Integral</b> é considerada <b>zona rural</b>, para os efeitos legais.</li><li><b>Plano de manejo</b> (art. 27): as UCs devem dispor de plano de manejo, elaborado no prazo de <b>5 anos</b> a partir da data de sua criação. O plano abrange a área da UC, sua zona de amortecimento e os corredores ecológicos. São proibidas nas UCs quaisquer alterações, atividades ou modalidades de utilização em desacordo com os seus objetivos, o plano de manejo e os regulamentos (art. 28).</li><li><b>Conselhos</b> (art. 29): cada UC de <b>Proteção Integral</b> disporá de <b>conselho consultivo</b>, presidido pelo órgão responsável por sua administração. As <b>RESEX</b> e as <b>RDS</b> têm <b>conselho deliberativo</b> (arts. 18 e 20).</li><li><b>Populações tradicionais</b> (art. 42): as populações tradicionais residentes em UCs nas quais sua <b>permanência não seja permitida</b> serão <b>indenizadas ou compensadas</b> pelas benfeitorias existentes e <b>devidamente realocadas</b> pelo Poder Público, em local e condições acordados entre as partes. Até que seja possível o reassentamento, serão estabelecidas normas e ações específicas para compatibilizar a presença dessas populações com os objetivos da unidade.</li><li><b>Exploração de imagens e produtos</b> (art. 33): a exploração comercial de produtos, subprodutos ou serviços obtidos ou desenvolvidos a partir dos recursos naturais, biológicos, cênicos ou culturais ou da exploração da imagem de UC, exceto APA e RPPN, depende de <b>prévia autorização</b> e sujeita o explorador a <b>pagamento</b>.</li><li><b>UC municipal</b>: o Município pode criar UCs (Parque Natural Municipal, APA municipal, Monumento Natural etc.), e as UCs municipais integram o SNUC. O licenciamento de empreendimentos dentro de UC municipal (exceto APA) é do Município (LC 140, art. 9º, XIV, \"b\"). A criação de UC é fator de cálculo do <b>ICMS Ecológico</b> em vários Estados, inclusive Minas Gerais (Lei estadual 18.030/2009), o que gera receita para o Município.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A criação de qualquer UC exige consulta pública</span><br>✅ <span class=\"certo\">É <b>dispensada</b> para Estação Ecológica e Reserva Biológica</span></li><li>❌ <span class=\"banca\">A redução de UC pode ser feita por decreto se a UC foi criada por decreto</span><br>✅ <span class=\"certo\">Redução ou desafetação exige <b>lei específica</b></span></li><li>❌ <span class=\"banca\">A APA deve ter zona de amortecimento</span><br>✅ <span class=\"certo\">APA e RPPN são <b>exceções</b> (art. 25)</span></li><li>❌ <span class=\"banca\">O plano de manejo deve ser elaborado em 10 anos</span><br>✅ <span class=\"certo\">Em <b>5 anos</b> da criação</span></li><li>❌ <span class=\"banca\">As UCs de proteção integral têm conselho deliberativo</span><br>✅ <span class=\"certo\">Têm conselho <b>consultivo</b>; RESEX e RDS têm conselho <b>deliberativo</b></span></li></ol></div>\n<h3>18. Política Nacional de Recursos Hídricos (Lei 9.433/1997)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 9.433/1997, art. 1º</div><div class=\"art-lei\">A Política Nacional de Recursos Hídricos baseia-se nos seguintes fundamentos: I - a água é um bem de domínio público; II - a água é um recurso natural limitado, dotado de valor econômico; III - em situações de escassez, o uso prioritário dos recursos hídricos é o consumo humano e a dessedentação de animais; IV - a gestão dos recursos hídricos deve sempre proporcionar o uso múltiplo das águas; V - a bacia hidrográfica é a unidade territorial para implementação da Política Nacional de Recursos Hídricos e atuação do Sistema Nacional de Gerenciamento de Recursos Hídricos; VI - a gestão dos recursos hídricos deve ser descentralizada e contar com a participação do Poder Público, dos usuários e das comunidades.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Água: domínio PÚBLICO, recurso LIMITADO, com valor ECONÔMICO</li><li>Escassez: prioridade ao CONSUMO HUMANO e à DESSEDENTAÇÃO DE ANIMAIS</li><li>Unidade territorial: BACIA HIDROGRÁFICA</li><li>Gestão DESCENTRALIZADA e PARTICIPATIVA</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>São seis fundamentos, e as bancas costumam trocar \"consumo humano e dessedentação de animais\" por \"irrigação\" ou \"geração de energia\".</li></ul></div></div>\n<ul><li><b>Objetivos</b> (art. 2º): assegurar à atual e às futuras gerações a necessária <b>disponibilidade de água</b>, em padrões de qualidade adequados aos respectivos usos; a <b>utilização racional e integrada</b> dos recursos hídricos, incluindo o transporte aquaviário, com vistas ao desenvolvimento sustentável; a <b>prevenção e a defesa contra eventos hidrológicos críticos</b> de origem natural ou decorrentes do uso inadequado; e incentivar e promover a <b>captação, a preservação e o aproveitamento de águas pluviais</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instrumento (art. 5º)</th><th>O que é</th></tr></thead><tbody><tr><td><b>Planos de Recursos Hídricos</b></td><td>planos diretores de <b>longo prazo</b>, elaborados <b>por bacia</b>, <b>por Estado</b> e <b>para o País</b> (art. 8º)</td></tr><tr><td><b>Enquadramento</b> dos corpos de água em <b>classes</b>, segundo os usos preponderantes</td><td>visa assegurar qualidade compatível com os usos mais exigentes e diminuir os custos de combate à poluição; classes fixadas pela legislação ambiental (Resolução CONAMA 357/2005)</td></tr><tr><td><b>Outorga</b> dos direitos de uso de recursos hídricos</td><td>ato administrativo que autoriza o uso da água por prazo determinado</td></tr><tr><td><b>Cobrança</b> pelo uso de recursos hídricos</td><td>instrumento econômico, aplicação do <b>usuário-pagador</b></td></tr><tr><td><b>Sistema de Informações</b> sobre Recursos Hídricos</td><td>coleta, tratamento, armazenamento e recuperação de informações</td></tr></tbody></table>\n<ul><li>A <b>compensação a municípios</b> (inciso V do art. 5º) foi <b>vetada</b>. Questões gostam de colocar a compensação como instrumento: está errado.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em situação de escassez, o uso prioritário é a irrigação</span><br>✅ <span class=\"certo\">É o <b>consumo humano</b> e a <b>dessedentação de animais</b></span></li><li>❌ <span class=\"banca\">A unidade territorial da PNRH é o Município</span><br>✅ <span class=\"certo\">É a <b>bacia hidrográfica</b></span></li><li>❌ <span class=\"banca\">A compensação a Municípios é instrumento vigente da PNRH</span><br>✅ <span class=\"certo\">Foi <b>vetada</b></span></li><li>❌ <span class=\"banca\">Os planos de recursos hídricos são elaborados só pela União</span><br>✅ <span class=\"certo\">São elaborados <b>por bacia, por Estado e para o País</b></span></li></ol></div>\n<h3>19. Outorga e cobrança</h3>\n<ul><li><b>Usos sujeitos a outorga</b> (art. 12): derivação ou captação de parcela da água existente em um corpo de água para consumo final, inclusive abastecimento público, ou insumo de processo produtivo; extração de água de <b>aquífero subterrâneo</b>; <b>lançamento</b> em corpo de água de esgotos e demais resíduos líquidos ou gasosos, tratados ou não, com o fim de sua diluição, transporte ou disposição final; <b>aproveitamento dos potenciais hidrelétricos</b>; outros usos que alterem o regime, a quantidade ou a qualidade da água.</li><li><b>Independem de outorga</b> (art. 12, § 1º): o uso de recursos hídricos para a satisfação das necessidades de <b>pequenos núcleos populacionais</b>, distribuídos no meio <b>rural</b>; as derivações, captações e lançamentos considerados <b>insignificantes</b>; as acumulações de volumes de água consideradas <b>insignificantes</b>.</li><li><b>Quem outorga</b> (art. 14): a outorga efetivar-se-á por ato da autoridade competente do <b>Poder Executivo Federal</b> (rios da União, por meio da <b>ANA</b>), dos <b>Estados</b> ou do <b>DF</b> (rios estaduais; em Minas Gerais, o <b>IGAM</b>). O Poder Executivo Federal pode <b>delegar</b> aos Estados e ao DF competência para conceder outorga de uso de recurso hídrico de domínio da União (§ 1º). <b>Municípios não outorgam</b>, porque não são titulares de águas.</li><li><b>Prazo</b> (art. 16): toda outorga far-se-á por prazo <b>não excedente a 35 anos</b>, <b>renovável</b>.</li><li><b>Suspensão</b> (art. 15): a outorga poderá ser suspensa parcial ou totalmente, em definitivo ou por prazo determinado, nas circunstâncias: não cumprimento pelo outorgado dos termos da outorga; <b>ausência de uso por 3 anos consecutivos</b>; necessidade premente de água para atender a situações de <b>calamidade</b>, inclusive as decorrentes de condições climáticas adversas; necessidade de prevenir ou reverter grave degradação ambiental; necessidade de atender a usos prioritários, de interesse coletivo, para os quais não se disponha de fontes alternativas; necessidade de serem mantidas as características de <b>navegabilidade</b> do corpo de água.</li><li><b>Natureza</b> (art. 18): a outorga <b>não implica a alienação parcial das águas</b>, que são <b>inalienáveis</b>, mas o <b>simples direito de seu uso</b>.</li><li><b>Cobrança</b> (arts. 19 a 22): objetiva reconhecer a água como <b>bem econômico</b> e dar ao usuário uma indicação de seu real valor; incentivar a <b>racionalização</b> do uso; obter recursos financeiros para os programas e intervenções dos planos. São cobrados os usos <b>sujeitos a outorga</b> (art. 20). Os valores arrecadados serão aplicados <b>prioritariamente na bacia hidrográfica em que foram gerados</b> (art. 22). A cobrança <b>não é tributo</b>: tem natureza de <b>preço público</b>, segundo a doutrina majoritária.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A outorga transfere a propriedade de parcela da água ao usuário</span><br>✅ <span class=\"certo\">Confere o <b>simples direito de uso</b>; as águas são <b>inalienáveis</b></span></li><li>❌ <span class=\"banca\">A outorga pode ter prazo de até 50 anos</span><br>✅ <span class=\"certo\">Prazo <b>não excedente a 35 anos</b>, renovável</span></li><li>❌ <span class=\"banca\">O Município pode outorgar uso de água de córrego local</span><br>✅ <span class=\"certo\">Outorga é da <b>União</b> (ANA) ou do <b>Estado</b> (em MG, IGAM)</span></li><li>❌ <span class=\"banca\">A ausência de uso por 1 ano autoriza a suspensão da outorga</span><br>✅ <span class=\"certo\">São <b>3 anos consecutivos</b></span></li><li>❌ <span class=\"banca\">Os valores da cobrança vão para o Tesouro sem destinação</span><br>✅ <span class=\"certo\">Aplicação <b>prioritária na bacia</b> em que foram gerados</span></li></ol></div>\n<h3>20. O SINGREH</h3>\n<ul><li>O <b>Sistema Nacional de Gerenciamento de Recursos Hídricos</b> (art. 33) é integrado por: o <b>Conselho Nacional de Recursos Hídricos</b> (CNRH); a <b>Agência Nacional de Águas e Saneamento Básico</b> (ANA); os <b>Conselhos de Recursos Hídricos dos Estados e do DF</b>; os <b>Comitês de Bacia Hidrográfica</b>; os órgãos dos poderes públicos federal, estaduais, do DF e municipais cujas competências se relacionem com a gestão de recursos hídricos; e as <b>Agências de Água</b>.</li><li><b>Comitês de Bacia</b> (arts. 37 a 40): são os \"parlamentos das águas\". Área de atuação: a totalidade de uma bacia hidrográfica; sub-bacia de tributário do curso de água principal da bacia, ou de tributário desse tributário; ou grupo de bacias ou sub-bacias contíguas. Competências: promover o debate das questões relacionadas a recursos hídricos; <b>arbitrar, em primeira instância administrativa</b>, os conflitos relacionados aos recursos hídricos; <b>aprovar</b> o Plano de Recursos Hídricos da bacia; estabelecer os mecanismos de <b>cobrança</b> e <b>sugerir os valores</b> a serem cobrados. Composição: representantes da <b>União</b>, dos <b>Estados</b> e do DF, dos <b>Municípios</b> situados na bacia, dos <b>usuários</b> das águas e das <b>entidades civis</b> de recursos hídricos. O número de representantes de cada setor, bem como os critérios para sua indicação, serão estabelecidos nos regimentos, limitada a representação dos <b>poderes executivos</b> da União, Estados, DF e Municípios à <b>metade</b> do total de membros (art. 39, § 1º). Os comitês de bacia de rios <b>federais</b> são instituídos por <b>ato do Presidente da República</b> (art. 37, parágrafo único).</li><li><b>Recursos contra decisões dos comitês</b>: das decisões dos Comitês de Bacia caberá recurso ao <b>Conselho Nacional</b> ou aos <b>Conselhos Estaduais</b> de Recursos Hídricos, de acordo com sua esfera de competência (art. 38, parágrafo único).</li><li><b>Agências de Água</b> (arts. 41 a 44): exercem a função de <b>secretaria executiva</b> do respectivo Comitê. A criação é autorizada pelo CNRH ou pelos Conselhos Estaduais mediante solicitação de um ou mais comitês, e condicionada à <b>prévia existência do comitê</b> e à <b>viabilidade financeira</b> assegurada pela cobrança.</li><li><b>ANA</b> (Lei 9.984/2000): <b>autarquia sob regime especial</b>, com autonomia administrativa e financeira, responsável pela implementação da PNRH em âmbito federal, pela outorga de uso de rios da União e, desde o <b>Marco Legal do Saneamento</b> (Lei 14.026/2020), pela edição de <b>normas de referência</b> para a regulação dos serviços públicos de <b>saneamento básico</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os comitês de bacia são compostos apenas por órgãos públicos</span><br>✅ <span class=\"certo\">Incluem <b>usuários</b> e <b>entidades civis</b>; o Poder Executivo tem no máximo <b>metade</b></span></li><li>❌ <span class=\"banca\">As agências de água podem existir sem comitê</span><br>✅ <span class=\"certo\">Exigem a <b>prévia existência do comitê</b> e viabilidade financeira</span></li><li>❌ <span class=\"banca\">O comitê de bacia arbitra conflitos em última instância</span><br>✅ <span class=\"certo\">Em <b>primeira instância</b> administrativa; recurso ao Conselho Nacional ou Estadual</span></li><li>❌ <span class=\"banca\">A ANA edita normas de referência sobre saneamento desde 1997</span><br>✅ <span class=\"certo\">Desde o <b>Marco Legal do Saneamento</b> (Lei 14.026/2020)</span></li></ol></div>\n<h3>21. Casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ponte e rua na margem do córrego</b><p>O Município vai construir uma avenida sanitária e uma ponte sobre um córrego urbano de 8 m de largura, atravessando a APP. Um vereador diz que a obra é proibida porque a APP é \"intocável\".</p><details><summary>Ver a solução comentada</summary><p>A APP admite intervenção nos casos de <b>utilidade pública</b>, que incluem obras de infraestrutura de <b>sistema viário</b> e <b>saneamento</b> (Código Florestal, art. 3º, VIII, \"b\", e art. 8º). Segundo o STF, é preciso demonstrar a <b>inexistência de alternativa técnica e locacional</b>. A obra exige <b>autorização</b> do órgão ambiental competente e, conforme o porte, <b>licenciamento</b>. Se houver vegetação de Mata Atlântica em estágio médio em área urbana, aplica-se também o art. 14, § 2º, da Lei 11.428/2006. O vereador está errado: a APP não é absolutamente intocável.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Lei municipal reduzindo a APP urbana</b><p>A Câmara aprovou lei reduzindo para 10 metros a APP de todos os córregos do Município, inclusive na zona rural e em loteamentos novos, sem diagnóstico e sem ouvir o conselho.</p><details><summary>Ver a solução comentada</summary><p>A lei é inválida. O § 10 do art. 4º do Código Florestal (Lei 14.285/2021) só permite faixas distintas em <b>área urbana consolidada</b>, mediante <b>lei municipal</b>, <b>ouvido o conselho</b> de meio ambiente, com <b>não ocupação de áreas de risco</b> e observância dos planos de recursos hídricos, drenagem e saneamento. Fora disso, valem as faixas do art. 4º, I (30 m para rios com menos de 10 m), conforme o <b>Tema 1.010</b> do STJ. A redução genérica, inclusive na zona rural, viola a norma geral federal e o art. 225 da CF.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Fazenda comprada com reserva legal desmatada</b><p>João comprou em 2024 uma fazenda de 300 hectares em Minas Gerais (8 módulos fiscais). O antigo dono desmatou toda a reserva legal em 2010. João quer saber se pode compensar a reserva legal em outra área.</p><details><summary>Ver a solução comentada</summary><p>A obrigação é <b>propter rem</b> (art. 2º, § 2º; Súmula 623): João responde pela recomposição. Como o desmatamento ocorreu <b>depois de 22/07/2008</b>, <b>não</b> se aplicam os benefícios das áreas consolidadas, nem a compensação do art. 66 (que é para déficits <b>até</b> 22/07/2008). João deve <b>recompor</b> a reserva legal (20% da área, 60 hectares) e é obrigatória a <b>suspensão</b> das atividades na área desmatada irregularmente (art. 17, § 3º). Ele <b>não</b> pode ser multado pela infração do antigo dono (responsabilidade administrativa subjetiva), mas a regularização da área é condição para continuar explorando o imóvel de forma regular e obter crédito e autorizações.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Pequeno produtor e a beira do rio</b><p>Maria tem sítio de 1,5 módulo fiscal com pastagem até a beira de um rio de 6 m de largura desde 1995. O órgão ambiental exige a recomposição de 30 m de mata ciliar.</p><details><summary>Ver a solução comentada</summary><p>Como a ocupação é <b>anterior a 22/07/2008</b>, trata-se de <b>área rural consolidada</b> em APP. Pelo art. 61-A, para imóveis de <b>1 a 2 módulos fiscais</b>, a recomposição obrigatória é de <b>8 metros</b>, contados da borda da calha do leito regular, e Maria pode <b>continuar</b> a atividade de pastagem no restante da faixa. Ela deve estar inscrita no <b>CAR</b> e aderir ao <b>PRA</b>. Além disso, a soma das APPs a recompor não pode ultrapassar <b>10%</b> da área do imóvel (art. 61-B, imóvel até 2 módulos). Exigir 30 m está errado.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Parque municipal e loteamento vizinho</b><p>O Município criou por decreto um Parque Natural Municipal. Dois anos depois, uma loteadora pede que o Prefeito reduza os limites do parque, por decreto, para viabilizar um condomínio.</p><details><summary>Ver a solução comentada</summary><p>A <b>redução</b> de UC só pode ser feita por <b>lei específica</b> (Lei 9.985, art. 22, § 7º; CF, art. 225, § 1º, III), ainda que a UC tenha sido criada por decreto. O decreto de redução seria inconstitucional e ilegal. Além disso, o Parque é UC de <b>proteção integral</b>, com posse e domínio <b>públicos</b>, e deve ter <b>zona de amortecimento</b>, que, uma vez definida, não pode ser transformada em zona urbana. A Procuradoria deve orientar o Prefeito a indeferir o pedido.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Poço artesiano da indústria</b><p>Uma indústria perfurou poço artesiano para abastecer sua linha de produção, sem outorga, alegando que a água está \"debaixo do seu terreno\".</p><details><summary>Ver a solução comentada</summary><p>As águas subterrâneas são bens dos <b>Estados</b> (CF, art. 26, I), e a água é bem de <b>domínio público</b> (Lei 9.433, art. 1º, I). A extração de água de <b>aquífero subterrâneo</b> depende de <b>outorga</b> (art. 12, II), salvo uso insignificante. Em Minas Gerais, a outorga é do <b>IGAM</b>. O proprietário do solo não é dono da água. A indústria comete infração administrativa e pode ser obrigada a lacrar o poço; a captação também pode ser cobrada (usuário-pagador).</p></details></div>\n<h3>22. Questões comentadas</h3>\n<ul><li><b>\"Considera-se APP, em zonas rurais ou urbanas, a faixa marginal de 30 metros para cursos d'água de menos de 10 metros de largura.\"</b> Certo: art. 4º, I, \"a\".</li><li><b>\"As APPs só existem em áreas cobertas por vegetação nativa.\"</b> Errado: área protegida <b>coberta ou não</b> por vegetação.</li><li><b>\"A área no entorno das nascentes e olhos d'água perenes, no raio mínimo de 30 metros, é APP.\"</b> Errado: o raio é de <b>50 metros</b>.</li><li><b>\"Na Amazônia Legal, a reserva legal em área de cerrado é de 35%.\"</b> Certo: art. 12, I, \"b\".</li><li><b>\"O registro da reserva legal no CAR desobriga a averbação no Cartório de Registro de Imóveis.\"</b> Certo: art. 18, § 4º.</li><li><b>\"A inscrição no CAR é título de reconhecimento do direito de propriedade.\"</b> Errado: art. 29, § 2º.</li><li><b>\"A Estação Ecológica e o Parque Nacional pertencem ao grupo de Proteção Integral.\"</b> Certo: art. 8º.</li><li><b>\"A Reserva Extrativista é unidade de conservação de proteção integral.\"</b> Errado: é de <b>uso sustentável</b>.</li><li><b>\"A desafetação ou redução dos limites de unidade de conservação só pode ser feita mediante lei específica.\"</b> Certo: art. 22, § 7º.</li><li><b>\"A outorga de direito de uso de recursos hídricos implica alienação parcial das águas.\"</b> Errado: art. 18.</li><li><b>\"Independem de outorga as derivações, captações e lançamentos considerados insignificantes.\"</b> Certo: art. 12, § 1º, II.</li><li><b>\"Na composição dos comitês de bacia, a representação dos poderes executivos é limitada à metade do total de membros.\"</b> Certo: art. 39, § 1º.</li><li><b>\"A supressão de vegetação primária da Mata Atlântica é admitida por interesse social.\"</b> Errado: só por <b>utilidade pública</b> (e pesquisa e práticas preservacionistas), em caráter excepcional.</li></ul>\n<h3>23. Como as bancas cobram este tópico</h3>\n<ul><li><b>Números</b>: faixas de APP de rios, lagos (100/50/30), nascentes (50), encostas (45°), topo de morro (100 m e 25°), altitude (1.800 m), veredas (50); reserva legal (80/35/20); 22/07/2008; 4 módulos fiscais; outorga (35 anos; 3 anos sem uso).</li><li><b>Listas</b>: as 12 UCs e seus grupos; fundamentos e instrumentos da Lei 9.433 (com a compensação vetada como pegadinha); integrantes do SINGREH.</li><li><b>STF e STJ</b>: julgamento do Código Florestal (nascentes intermitentes, gestão de resíduos e competições esportivas, identidade ecológica, PRA não é anistia); Tema 1.010 (APP urbana); ADI 4.717 (UC por MP).</li><li><b>Para o Município</b>: APP urbana consolidada (Lei 14.285/2021), Parque Natural Municipal, autorização de supressão de Mata Atlântica em estágio médio em área urbana, arborização urbana e o crime do art. 49.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Uma frase para as faixas de APP de rio: <b>\"Trinta, cinquenta, cem, duzentos, quinhentos; dez, cinquenta, duzentos, seiscentos\"</b>. A primeira sequência são as faixas; a segunda, as larguras-limite dos rios.</div>",
+"quiz": [
+{
+"p": "As obrigações previstas no Código Florestal têm natureza real e são transmitidas ao sucessor no caso de transferência de domínio ou posse do imóvel rural.",
+"c": true,
+"prof": "Lei 12.651, art. 2º, § 2º.",
+"x": "Propter rem.",
+"e": "Natureza real"
+},
+{
+"p": "A Área de Preservação Permanente é área protegida, coberta ou não por vegetação nativa.",
+"c": true,
+"prof": "Art. 3º, II.",
+"x": "Conceito.",
+"e": "APP"
+},
+{
+"p": "A reserva legal é exigida tanto em imóveis rurais quanto em imóveis urbanos.",
+"c": false,
+"prof": "Art. 3º, III, e art. 12.",
+"x": "Só rural.",
+"e": "Reserva legal"
+},
+{
+"p": "Área rural consolidada é a área de imóvel rural com ocupação antrópica preexistente a 22 de julho de 2008.",
+"c": true,
+"prof": "Art. 3º, IV.",
+"x": "Data-marco.",
+"e": "Consolidada"
+},
+{
+"p": "Nascente e olho d'água são expressões sinônimas no Código Florestal.",
+"c": false,
+"prof": "Art. 3º, XVII e XVIII.",
+"x": "Olho d'água pode ser intermitente.",
+"e": "Nascente"
+},
+{
+"p": "O pousio é a interrupção temporária de atividades agrícolas por no máximo 5 anos.",
+"c": true,
+"prof": "Art. 3º, XXIV.",
+"x": "5 anos.",
+"e": "Pousio"
+},
+{
+"p": "A gestão de resíduos é atividade de utilidade pública que autoriza intervenção em APP, segundo o STF.",
+"c": false,
+"prof": "ADC 42 e ADIs.",
+"x": "Expressão inconstitucional.",
+"e": "Utilidade pública"
+},
+{
+"p": "Segundo o STF, a intervenção em APP por utilidade pública ou interesse social exige a inexistência de alternativa técnica e locacional.",
+"c": true,
+"prof": "ADC 42.",
+"x": "Interpretação conforme.",
+"e": "Alternativa"
+},
+{
+"p": "A regularização fundiária de assentamentos de baixa renda em áreas urbanas consolidadas é hipótese de interesse social.",
+"c": true,
+"prof": "Art. 3º, IX, d.",
+"x": "Interesse social.",
+"e": "Interesse social"
+},
+{
+"p": "A APP de curso d'água com menos de 10 metros de largura tem faixa mínima de 30 metros.",
+"c": true,
+"prof": "Art. 4º, I, a.",
+"x": "30 m.",
+"e": "Faixas"
+},
+{
+"p": "A APP de curso d'água com largura entre 50 e 200 metros tem faixa mínima de 100 metros.",
+"c": true,
+"prof": "Art. 4º, I, c.",
+"x": "100 m.",
+"e": "Faixas"
+},
+{
+"p": "A APP de curso d'água com largura superior a 600 metros é de 200 metros.",
+"c": false,
+"prof": "Art. 4º, I, e.",
+"x": "500 m.",
+"e": "Faixas"
+},
+{
+"p": "Os cursos d'água efêmeros geram APP nas faixas do art. 4º, I.",
+"c": false,
+"prof": "Art. 4º, I.",
+"x": "Excluídos.",
+"e": "Efêmeros"
+},
+{
+"p": "A faixa de APP dos cursos d'água é medida a partir da borda da calha do leito regular.",
+"c": true,
+"prof": "Art. 4º, I.",
+"x": "Leito regular.",
+"e": "Medição"
+},
+{
+"p": "O entorno das nascentes e olhos d'água perenes, no raio mínimo de 50 metros, é APP.",
+"c": true,
+"prof": "Art. 4º, IV.",
+"x": "50 m.",
+"e": "Nascentes"
+},
+{
+"p": "Segundo o STF, o entorno das nascentes e dos olhos d'água intermitentes também é APP.",
+"c": true,
+"prof": "ADC 42.",
+"x": "Interpretação conforme.",
+"e": "Intermitentes"
+},
+{
+"p": "Lagos naturais em zona rural com superfície de até 20 hectares têm APP de 50 metros.",
+"c": true,
+"prof": "Art. 4º, II, a.",
+"x": "50 m.",
+"e": "Lagos"
+},
+{
+"p": "Lagos naturais em zona urbana têm APP de 30 metros.",
+"c": true,
+"prof": "Art. 4º, II, b.",
+"x": "30 m.",
+"e": "Lagos"
+},
+{
+"p": "As encostas com declividade superior a 45 graus são APP.",
+"c": true,
+"prof": "Art. 4º, V.",
+"x": "45°.",
+"e": "Encostas"
+},
+{
+"p": "Os manguezais são APP em toda a sua extensão.",
+"c": true,
+"prof": "Art. 4º, VII.",
+"x": "Toda extensão.",
+"e": "Manguezais"
+},
+{
+"p": "As áreas em altitude superior a 1.800 metros são APP, qualquer que seja a vegetação.",
+"c": true,
+"prof": "Art. 4º, X.",
+"x": "1.800 m.",
+"e": "Altitude"
+},
+{
+"p": "As veredas têm faixa marginal de APP de 30 metros.",
+"c": false,
+"prof": "Art. 4º, XI.",
+"x": "50 m.",
+"e": "Veredas"
+},
+{
+"p": "Não se exige APP no entorno de acumulações naturais ou artificiais de água com superfície inferior a 1 hectare.",
+"c": true,
+"prof": "Art. 4º, § 4º.",
+"x": "1 ha.",
+"e": "Exceção"
+},
+{
+"p": "Em reservatório artificial para abastecimento público em área urbana, a APP tem faixa mínima de 15 e máxima de 30 metros.",
+"c": true,
+"prof": "Art. 5º.",
+"x": "Urbana.",
+"e": "Reservatório"
+},
+{
+"p": "O Chefe do Poder Executivo pode declarar de interesse social, como APP, áreas destinadas a conter a erosão do solo.",
+"c": true,
+"prof": "Art. 6º, I.",
+"x": "APP administrativa.",
+"e": "Art. 6º"
+},
+{
+"p": "A vegetação em APP deve ser mantida pelo proprietário, possuidor ou ocupante a qualquer título, inclusive pessoa jurídica de direito público.",
+"c": true,
+"prof": "Art. 7º.",
+"x": "Dever.",
+"e": "Manutenção"
+},
+{
+"p": "A supressão de vegetação nativa protetora de nascentes, dunas e restingas somente pode ser autorizada em caso de utilidade pública.",
+"c": true,
+"prof": "Art. 8º, § 1º.",
+"x": "Utilidade pública.",
+"e": "Nascentes"
+},
+{
+"p": "É dispensada autorização para obras urgentes de defesa civil destinadas à prevenção de acidentes em áreas urbanas.",
+"c": true,
+"prof": "Art. 8º, § 3º.",
+"x": "Urgência.",
+"e": "Defesa civil"
+},
+{
+"p": "É proibido o acesso de pessoas e animais às APPs para obtenção de água.",
+"c": false,
+"prof": "Art. 9º.",
+"x": "Permitido.",
+"e": "Acesso"
+},
+{
+"p": "Segundo o STJ (Tema 1.010), em área urbana consolidada aplicam-se as faixas de APP do Código Florestal, e não a faixa de 15 metros da Lei 6.766/1979.",
+"c": true,
+"prof": "Tema 1.010.",
+"x": "REsp 1.770.760.",
+"e": "APP urbana"
+},
+{
+"p": "Após a Lei 14.285/2021, lei municipal pode definir faixas marginais distintas em áreas urbanas consolidadas, ouvidos os conselhos de meio ambiente.",
+"c": true,
+"prof": "Art. 4º, § 10.",
+"x": "Lei 14.285.",
+"e": "APP urbana"
+},
+{
+"p": "A Lei 14.285/2021 permite que decreto do Prefeito reduza as APPs em toda a zona rural do Município.",
+"c": false,
+"prof": "Art. 4º, § 10.",
+"x": "Só lei, só área urbana consolidada.",
+"e": "APP urbana"
+},
+{
+"p": "Na Amazônia Legal, a reserva legal em área de florestas é de 80% do imóvel.",
+"c": true,
+"prof": "Art. 12, I, a.",
+"x": "80%.",
+"e": "Percentuais"
+},
+{
+"p": "Fora da Amazônia Legal, a reserva legal mínima é de 20% do imóvel.",
+"c": true,
+"prof": "Art. 12, II.",
+"x": "20%.",
+"e": "Percentuais"
+},
+{
+"p": "Em área de cerrado fora da Amazônia Legal, a reserva legal é de 35%.",
+"c": false,
+"prof": "Art. 12.",
+"x": "20%.",
+"e": "Percentuais"
+},
+{
+"p": "Não é exigida reserva legal para empreendimentos de abastecimento público de água e tratamento de esgoto.",
+"c": true,
+"prof": "Art. 12, § 6º.",
+"x": "Dispensa.",
+"e": "Dispensa"
+},
+{
+"p": "É admitido o cômputo das APPs no cálculo da reserva legal, desde que não implique conversão de novas áreas e o imóvel esteja no CAR.",
+"c": true,
+"prof": "Art. 15.",
+"x": "Cômputo.",
+"e": "Cômputo"
+},
+{
+"p": "A inserção do imóvel rural no perímetro urbano por lei municipal extingue automaticamente a reserva legal.",
+"c": false,
+"prof": "Art. 19.",
+"x": "Só com o registro do parcelamento.",
+"e": "Perímetro urbano"
+},
+{
+"p": "O registro da reserva legal no CAR desobriga a averbação no Cartório de Registro de Imóveis.",
+"c": true,
+"prof": "Art. 18, § 4º.",
+"x": "CAR.",
+"e": "Averbação"
+},
+{
+"p": "A reserva legal pode ser explorada economicamente mediante manejo sustentável aprovado pelo órgão competente.",
+"c": true,
+"prof": "Art. 17, § 1º.",
+"x": "Uso sustentável.",
+"e": "Manejo"
+},
+{
+"p": "É obrigatória a suspensão imediata das atividades em reserva legal desmatada irregularmente após 22 de julho de 2008.",
+"c": true,
+"prof": "Art. 17, § 3º.",
+"x": "Suspensão.",
+"e": "Pós-2008"
+},
+{
+"p": "O CAR é registro público eletrônico nacional obrigatório para todos os imóveis rurais.",
+"c": true,
+"prof": "Art. 29.",
+"x": "CAR.",
+"e": "CAR"
+},
+{
+"p": "A inscrição no CAR constitui título de reconhecimento do direito de propriedade.",
+"c": false,
+"prof": "Art. 29, § 2º.",
+"x": "Não é título.",
+"e": "CAR"
+},
+{
+"p": "As instituições financeiras só concedem crédito agrícola a proprietários de imóveis rurais inscritos no CAR.",
+"c": true,
+"prof": "Art. 78-A.",
+"x": "Crédito.",
+"e": "Crédito"
+},
+{
+"p": "A assinatura do termo de compromisso do PRA suspende a punibilidade dos crimes dos arts. 38, 39 e 48 da Lei 9.605/1998, interrompendo-se a prescrição.",
+"c": true,
+"prof": "Art. 60.",
+"x": "Suspensão.",
+"e": "PRA"
+},
+{
+"p": "Segundo o STF, o PRA configura anistia inconstitucional.",
+"c": false,
+"prof": "ADC 42.",
+"x": "Suspensão condicionada, constitucional.",
+"e": "PRA"
+},
+{
+"p": "Em área rural consolidada em APP de rio, imóvel de até 1 módulo fiscal deve recompor faixa de 5 metros.",
+"c": true,
+"prof": "Art. 61-A, § 1º.",
+"x": "5 m.",
+"e": "Escadinha"
+},
+{
+"p": "Em área rural consolidada em APP de rio, imóvel de 2 a 4 módulos fiscais deve recompor faixa de 15 metros.",
+"c": true,
+"prof": "Art. 61-A, § 3º.",
+"x": "15 m.",
+"e": "Escadinha"
+},
+{
+"p": "Nos imóveis de até 4 módulos fiscais em 22/07/2008, a reserva legal é constituída pela vegetação nativa existente naquela data.",
+"c": true,
+"prof": "Art. 67.",
+"x": "Pequeno imóvel.",
+"e": "Art. 67"
+},
+{
+"p": "Quem suprimiu vegetação respeitando os percentuais de reserva legal da legislação da época é dispensado de recompor para os percentuais atuais.",
+"c": true,
+"prof": "Art. 68.",
+"x": "Ato jurídico perfeito.",
+"e": "Art. 68"
+},
+{
+"p": "A recomposição da reserva legal pode ser feita em até 20 anos, abrangendo a cada 2 anos no mínimo 1/10 da área.",
+"c": true,
+"prof": "Art. 66, § 2º.",
+"x": "20 anos.",
+"e": "Recomposição"
+},
+{
+"p": "A aquisição de Cota de Reserva Ambiental é forma de compensação da reserva legal.",
+"c": true,
+"prof": "Art. 66, § 5º, I.",
+"x": "CRA.",
+"e": "CRA"
+},
+{
+"p": "Cada Cota de Reserva Ambiental corresponde a 1 hectare.",
+"c": true,
+"prof": "Art. 46.",
+"x": "1 ha.",
+"e": "CRA"
+},
+{
+"p": "Segundo o STF, a compensação de reserva legal exige identidade ecológica entre as áreas.",
+"c": true,
+"prof": "ADC 42.",
+"x": "Interpretação conforme.",
+"e": "Identidade"
+},
+{
+"p": "Provocar incêndio em mata ou floresta é crime que admite modalidade culposa.",
+"c": true,
+"prof": "Lei 9.605, art. 41.",
+"x": "Culposo.",
+"e": "Incêndio"
+},
+{
+"p": "Fabricar, vender, transportar ou soltar balões que possam provocar incêndios é crime ambiental.",
+"c": true,
+"prof": "Lei 9.605, art. 42.",
+"x": "Perigo.",
+"e": "Balões"
+},
+{
+"p": "Danificar plantas de ornamentação de logradouros públicos é crime que admite forma culposa.",
+"c": true,
+"prof": "Lei 9.605, art. 49.",
+"x": "Culposo.",
+"e": "Art. 49"
+},
+{
+"p": "A Lei 11.428/2006 é a lei específica de proteção do Bioma Mata Atlântica.",
+"c": true,
+"prof": "Lei 11.428.",
+"x": "Mata Atlântica.",
+"e": "Lei"
+},
+{
+"p": "Integram o Bioma Mata Atlântica, entre outros, os manguezais, as restingas e os campos de altitude.",
+"c": true,
+"prof": "Lei 11.428, art. 2º.",
+"x": "Ecossistemas associados.",
+"e": "Abrangência"
+},
+{
+"p": "A supressão de vegetação primária da Mata Atlântica só pode ser autorizada em caso de utilidade pública.",
+"c": true,
+"prof": "Lei 11.428, art. 14.",
+"x": "Utilidade pública.",
+"e": "Primária"
+},
+{
+"p": "A supressão de vegetação secundária em estágio médio da Mata Atlântica pode ser autorizada por utilidade pública ou interesse social.",
+"c": true,
+"prof": "Lei 11.428, art. 14.",
+"x": "Médio.",
+"e": "Médio"
+},
+{
+"p": "A supressão de vegetação em estágio médio da Mata Atlântica em área urbana pode ser autorizada pelo órgão municipal, se o Município tiver conselho deliberativo e plano diretor, com anuência do órgão estadual.",
+"c": true,
+"prof": "Lei 11.428, art. 14, § 2º.",
+"x": "Município.",
+"e": "Município"
+},
+{
+"p": "A supressão autorizada de vegetação primária ou secundária média ou avançada da Mata Atlântica exige compensação em área equivalente, na mesma bacia hidrográfica.",
+"c": true,
+"prof": "Lei 11.428, art. 17.",
+"x": "Compensação.",
+"e": "Compensação"
+},
+{
+"p": "Nos perímetros urbanos aprovados após a Lei 11.428/2006, é permitida a supressão de vegetação em estágio avançado para loteamento, com preservação de 50%.",
+"c": false,
+"prof": "Lei 11.428, art. 30, II.",
+"x": "Vedada.",
+"e": "Urbano"
+},
+{
+"p": "O SNUC é constituído pelo conjunto das unidades de conservação federais, estaduais e municipais.",
+"c": true,
+"prof": "Lei 9.985, art. 3º.",
+"x": "SNUC.",
+"e": "SNUC"
+},
+{
+"p": "O grupo de Proteção Integral admite apenas o uso indireto dos recursos naturais.",
+"c": true,
+"prof": "Lei 9.985, art. 7º, § 1º.",
+"x": "Uso indireto.",
+"e": "Grupos"
+},
+{
+"p": "O Monumento Natural e o Refúgio de Vida Silvestre são unidades de proteção integral que podem ser constituídas por áreas particulares.",
+"c": true,
+"prof": "Lei 9.985, arts. 12 e 13.",
+"x": "Áreas particulares.",
+"e": "Proteção integral"
+},
+{
+"p": "A Área de Proteção Ambiental é unidade de conservação de proteção integral.",
+"c": false,
+"prof": "Lei 9.985, art. 14.",
+"x": "Uso sustentável.",
+"e": "APA"
+},
+{
+"p": "É permitida a visitação pública em Reserva Biológica para fins turísticos.",
+"c": false,
+"prof": "Lei 9.985, art. 10.",
+"x": "Só educacional.",
+"e": "Rebio"
+},
+{
+"p": "Na Reserva Extrativista, são proibidas a exploração de recursos minerais e a caça amadorística ou profissional.",
+"c": true,
+"prof": "Lei 9.985, art. 18.",
+"x": "Resex.",
+"e": "Resex"
+},
+{
+"p": "A RPPN é área privada, gravada com perpetuidade.",
+"c": true,
+"prof": "Lei 9.985, art. 21.",
+"x": "RPPN.",
+"e": "RPPN"
+},
+{
+"p": "A criação de Estação Ecológica ou Reserva Biológica dispensa consulta pública.",
+"c": true,
+"prof": "Lei 9.985, art. 22, § 4º.",
+"x": "Dispensa.",
+"e": "Consulta"
+},
+{
+"p": "A desafetação ou redução dos limites de UC só pode ser feita mediante lei específica.",
+"c": true,
+"prof": "Lei 9.985, art. 22, § 7º.",
+"x": "Lei.",
+"e": "Redução"
+},
+{
+"p": "A ampliação dos limites de UC pode ser feita por instrumento normativo do mesmo nível hierárquico do que a criou.",
+"c": true,
+"prof": "Lei 9.985, art. 22, § 6º.",
+"x": "Mesmo nível.",
+"e": "Ampliação"
+},
+{
+"p": "A APA e a RPPN devem obrigatoriamente possuir zona de amortecimento.",
+"c": false,
+"prof": "Lei 9.985, art. 25.",
+"x": "Exceções.",
+"e": "Amortecimento"
+},
+{
+"p": "O plano de manejo da UC deve ser elaborado no prazo de 5 anos de sua criação.",
+"c": true,
+"prof": "Lei 9.985, art. 27, § 3º.",
+"x": "5 anos.",
+"e": "Plano de manejo"
+},
+{
+"p": "A água é bem de domínio público e recurso natural limitado, dotado de valor econômico.",
+"c": true,
+"prof": "Lei 9.433, art. 1º, I e II.",
+"x": "Fundamentos.",
+"e": "Fundamentos"
+},
+{
+"p": "Em situações de escassez, o uso prioritário dos recursos hídricos é o consumo humano e a dessedentação de animais.",
+"c": true,
+"prof": "Lei 9.433, art. 1º, III.",
+"x": "Prioridade.",
+"e": "Escassez"
+},
+{
+"p": "A bacia hidrográfica é a unidade territorial para implementação da Política Nacional de Recursos Hídricos.",
+"c": true,
+"prof": "Lei 9.433, art. 1º, V.",
+"x": "Bacia.",
+"e": "Bacia"
+},
+{
+"p": "A compensação a Municípios é instrumento vigente da Política Nacional de Recursos Hídricos.",
+"c": false,
+"prof": "Lei 9.433, art. 5º, V.",
+"x": "Vetado.",
+"e": "Instrumentos"
+},
+{
+"p": "O enquadramento dos corpos de água em classes é instrumento da Política Nacional de Recursos Hídricos.",
+"c": true,
+"prof": "Lei 9.433, art. 5º, II.",
+"x": "Enquadramento.",
+"e": "Instrumentos"
+},
+{
+"p": "A extração de água de aquífero subterrâneo está sujeita a outorga.",
+"c": true,
+"prof": "Lei 9.433, art. 12, II.",
+"x": "Outorga.",
+"e": "Outorga"
+},
+{
+"p": "Independem de outorga as necessidades de pequenos núcleos populacionais no meio rural.",
+"c": true,
+"prof": "Lei 9.433, art. 12, § 1º, I.",
+"x": "Dispensa.",
+"e": "Outorga"
+},
+{
+"p": "A outorga de uso de recursos hídricos pode ser concedida por prazo indeterminado.",
+"c": false,
+"prof": "Lei 9.433, art. 16.",
+"x": "Até 35 anos.",
+"e": "Prazo"
+},
+{
+"p": "A ausência de uso por 3 anos consecutivos autoriza a suspensão da outorga.",
+"c": true,
+"prof": "Lei 9.433, art. 15, II.",
+"x": "3 anos.",
+"e": "Suspensão"
+},
+{
+"p": "A outorga não implica alienação parcial das águas, que são inalienáveis, mas o simples direito de seu uso.",
+"c": true,
+"prof": "Lei 9.433, art. 18.",
+"x": "Uso.",
+"e": "Natureza"
+},
+{
+"p": "Os valores arrecadados com a cobrança pelo uso de recursos hídricos serão aplicados prioritariamente na bacia em que foram gerados.",
+"c": true,
+"prof": "Lei 9.433, art. 22.",
+"x": "Bacia.",
+"e": "Cobrança"
+},
+{
+"p": "Compete aos Comitês de Bacia arbitrar, em primeira instância administrativa, os conflitos relacionados aos recursos hídricos.",
+"c": true,
+"prof": "Lei 9.433, art. 38, II.",
+"x": "Comitê.",
+"e": "Comitês"
+},
+{
+"p": "Nos Comitês de Bacia, a representação dos poderes executivos é limitada à metade do total de membros.",
+"c": true,
+"prof": "Lei 9.433, art. 39, § 1º.",
+"x": "Metade.",
+"e": "Composição"
+},
+{
+"p": "As Agências de Água podem ser criadas independentemente da existência de Comitê de Bacia.",
+"c": false,
+"prof": "Lei 9.433, art. 43.",
+"x": "Exige comitê.",
+"e": "Agências"
+},
+{
+"p": "Segundo o Código Florestal, a faixa marginal de APP de curso d'água natural com 40 metros de largura é de",
+"alts": [
+"30 metros",
+"50 metros",
+"100 metros",
+"200 metros",
+"500 metros"
+],
+"r": 1,
+"x": "Art. 4º, I, b.",
+"n": [
+"Menos de 10 m.",
+"Correta: de 10 a 50 m.",
+"De 50 a 200 m.",
+"De 200 a 600 m.",
+"Mais de 600 m."
+],
+"e": "Faixas."
+},
+{
+"p": "É considerada APP pelo simples efeito do Código Florestal:",
+"alts": [
+"encosta com declividade de 30 graus",
+"lago artificial de 0,5 hectare sem barramento de rio",
+"área no entorno de nascente perene, no raio de 50 metros",
+"toda área acima de 1.000 metros de altitude",
+"qualquer área de cerrado"
+],
+"r": 2,
+"x": "Art. 4º, IV.",
+"n": [
+"Só acima de 45°.",
+"Não exige APP.",
+"Correta.",
+"1.800 m.",
+"Não."
+],
+"e": "APP."
+},
+{
+"p": "No julgamento do Código Florestal (2018), o STF",
+"alts": [
+"declarou inconstitucional todo o regime de áreas consolidadas",
+"considerou o PRA uma anistia inconstitucional",
+"deu interpretação conforme para incluir como APP o entorno de nascentes e olhos d'água intermitentes",
+"declarou constitucional a gestão de resíduos como utilidade pública",
+"proibiu o cômputo da APP na reserva legal"
+],
+"r": 2,
+"x": "ADC 42 e ADIs 4.901 a 4.903 e 4.937.",
+"n": [
+"Constitucional.",
+"Não é anistia.",
+"Correta.",
+"Inconstitucional.",
+"Permitido."
+],
+"e": "STF."
+},
+{
+"p": "O percentual mínimo de reserva legal de imóvel rural situado em área de Mata Atlântica em Minas Gerais é de",
+"alts": [
+"80%",
+"50%",
+"35%",
+"20%",
+"10%"
+],
+"r": 3,
+"x": "Art. 12, II.",
+"n": [
+"Floresta na Amazônia Legal.",
+"Não.",
+"Cerrado na Amazônia Legal.",
+"Correta.",
+"Não."
+],
+"e": "Reserva legal."
+},
+{
+"p": "Sobre a APP em área urbana consolidada, após o Tema 1.010 do STJ e a Lei 14.285/2021, é correto afirmar:",
+"alts": [
+"vale sempre a faixa de 15 metros da Lei 6.766/1979",
+"o Prefeito pode reduzir a APP por decreto",
+"lei municipal, ouvidos os conselhos de meio ambiente, pode definir faixas distintas em área urbana consolidada, vedada a ocupação de áreas de risco",
+"as APPs foram extintas nas cidades",
+"a faixa mínima passou a ser de 5 metros em todo o país"
+],
+"r": 2,
+"x": "Art. 4º, § 10.",
+"n": [
+"Não.",
+"Exige lei.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "APP urbana."
+},
+{
+"p": "Quanto ao Cadastro Ambiental Rural, assinale a correta.",
+"alts": [
+"é título de propriedade",
+"é facultativo",
+"é registro público eletrônico obrigatório, e o registro da reserva legal no CAR desobriga a averbação em cartório",
+"só se aplica a imóveis acima de 4 módulos fiscais",
+"substitui o licenciamento ambiental"
+],
+"r": 2,
+"x": "Arts. 18 e 29.",
+"n": [
+"Não é título.",
+"Obrigatório.",
+"Correta.",
+"Todos os imóveis rurais.",
+"Não."
+],
+"e": "CAR."
+},
+{
+"p": "Em área rural consolidada em APP de rio, imóvel de 1,5 módulo fiscal deve recompor faixa marginal de",
+"alts": [
+"5 metros",
+"8 metros",
+"15 metros",
+"20 metros",
+"30 metros"
+],
+"r": 1,
+"x": "Art. 61-A, § 2º.",
+"n": [
+"Até 1 módulo.",
+"Correta.",
+"De 2 a 4.",
+"Acima de 4 (mínimo).",
+"Regra geral."
+],
+"e": "Escadinha."
+},
+{
+"p": "NÃO é forma de compensação de reserva legal prevista no art. 66 do Código Florestal:",
+"alts": [
+"aquisição de Cota de Reserva Ambiental",
+"arrendamento de área sob servidão ambiental",
+"doação ao poder público de área em UC pendente de regularização fundiária",
+"cadastramento de área equivalente e excedente no mesmo bioma",
+"pagamento de multa ao órgão ambiental"
+],
+"r": 4,
+"x": "Art. 66, § 5º.",
+"n": [
+"Prevista.",
+"Prevista.",
+"Prevista.",
+"Prevista.",
+"Correta."
+],
+"e": "Compensação."
+},
+{
+"p": "Pela Lei da Mata Atlântica, a supressão de vegetação secundária em estágio médio de regeneração em área urbana pode ser autorizada pelo órgão municipal desde que",
+"alts": [
+"haja apenas requerimento do proprietário",
+"o Município possua conselho de meio ambiente deliberativo e plano diretor, com anuência prévia do órgão estadual",
+"haja autorização da Câmara Municipal",
+"o IBAMA autorize",
+"a área tenha menos de 1 hectare"
+],
+"r": 1,
+"x": "Lei 11.428, art. 14, § 2º.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Mata Atlântica."
+},
+{
+"p": "São unidades de conservação do grupo de Proteção Integral:",
+"alts": [
+"APA e ARIE",
+"Floresta Nacional e Reserva Extrativista",
+"Estação Ecológica, Reserva Biológica, Parque, Monumento Natural e Refúgio de Vida Silvestre",
+"RPPN e RDS",
+"Reserva de Fauna e APA"
+],
+"r": 2,
+"x": "Lei 9.985, art. 8º.",
+"n": [
+"Uso sustentável.",
+"Uso sustentável.",
+"Correta.",
+"Uso sustentável.",
+"Uso sustentável."
+],
+"e": "Proteção integral."
+},
+{
+"p": "A redução dos limites de um Parque Natural Municipal criado por decreto",
+"alts": [
+"pode ser feita por decreto",
+"pode ser feita por portaria da Secretaria de Meio Ambiente",
+"depende de lei específica",
+"depende de resolução do CONAMA",
+"é vedada em qualquer hipótese"
+],
+"r": 2,
+"x": "Lei 9.985, art. 22, § 7º; CF, art. 225, § 1º, III.",
+"n": [
+"Exige lei.",
+"Não.",
+"Correta.",
+"Não.",
+"Possível por lei."
+],
+"e": "Redução de UC."
+},
+{
+"p": "É unidade de conservação de uso sustentável, de posse e domínio públicos, com uso concedido às populações extrativistas tradicionais:",
+"alts": [
+"Estação Ecológica",
+"APA",
+"Reserva Extrativista",
+"RPPN",
+"Monumento Natural"
+],
+"r": 2,
+"x": "Lei 9.985, art. 18.",
+"n": [
+"Proteção integral.",
+"Públicas ou privadas.",
+"Correta.",
+"Privada.",
+"Proteção integral."
+],
+"e": "Resex."
+},
+{
+"p": "São fundamentos da Política Nacional de Recursos Hídricos, EXCETO:",
+"alts": [
+"a água é bem de domínio público",
+"a água é recurso limitado, dotado de valor econômico",
+"a bacia hidrográfica é a unidade territorial",
+"a gestão deve ser descentralizada e participativa",
+"em situação de escassez, o uso prioritário é a geração de energia elétrica"
+],
+"r": 4,
+"x": "Lei 9.433, art. 1º.",
+"n": [
+"Fundamento.",
+"Fundamento.",
+"Fundamento.",
+"Fundamento.",
+"Correta: prioridade é consumo humano e dessedentação."
+],
+"e": "Fundamentos."
+},
+{
+"p": "Sobre a outorga de direito de uso de recursos hídricos, é correto afirmar:",
+"alts": [
+"implica alienação parcial das águas",
+"pode ser concedida pelos Municípios",
+"tem prazo não excedente a 35 anos, renovável",
+"dispensa-se para qualquer captação subterrânea",
+"não pode ser suspensa"
+],
+"r": 2,
+"x": "Lei 9.433, arts. 14, 16 e 18.",
+"n": [
+"Não.",
+"União e Estados.",
+"Correta.",
+"Aquífero exige outorga.",
+"Pode (art. 15)."
+],
+"e": "Outorga."
+},
+{
+"p": "Integram o Sistema Nacional de Gerenciamento de Recursos Hídricos, EXCETO:",
+"alts": [
+"Conselho Nacional de Recursos Hídricos",
+"ANA",
+"Comitês de Bacia Hidrográfica",
+"Agências de Água",
+"CONAMA"
+],
+"r": 4,
+"x": "Lei 9.433, art. 33.",
+"n": [
+"Integra.",
+"Integra.",
+"Integra.",
+"Integra.",
+"Correta: integra o SISNAMA."
+],
+"e": "SINGREH."
+},
+{
+"p": "Segundo a Lei 9.433/1997, nos Comitês de Bacia Hidrográfica,",
+"alts": [
+"só há representantes do Poder Público",
+"a representação dos poderes executivos é limitada à metade do total de membros",
+"os usuários não têm voto",
+"a União sempre preside",
+"as decisões são irrecorríveis"
+],
+"r": 1,
+"x": "Art. 39, § 1º.",
+"n": [
+"Usuários e entidades civis.",
+"Correta.",
+"Têm.",
+"Não.",
+"Recurso aos Conselhos."
+],
+"e": "Comitês."
+},
+{
+"p": "O Código Florestal define área rural consolidada como aquela com ocupação antrópica preexistente a",
+"alts": [
+"5 de outubro de 1988",
+"15 de setembro de 1965",
+"22 de julho de 2008",
+"25 de maio de 2012",
+"31 de dezembro de 2017"
+],
+"r": 2,
+"x": "Art. 3º, IV.",
+"n": [
+"CF.",
+"Código antigo.",
+"Correta.",
+"Lei 12.651.",
+"Não."
+],
+"e": "Data."
+},
+{
+"p": "Constitui crime contra a flora que admite modalidade culposa:",
+"alts": [
+"soltar balões",
+"provocar incêndio em mata ou floresta",
+"comercializar motosserra sem licença",
+"receber madeira sem licença",
+"impedir a regeneração natural"
+],
+"r": 1,
+"x": "Lei 9.605, art. 41, parágrafo único.",
+"n": [
+"Doloso.",
+"Correta.",
+"Doloso.",
+"Doloso.",
+"Doloso."
+],
+"e": "Incêndio."
+}
+]
+},
+"urbanismo": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>20 mil</b><span>número de habitantes a partir do qual o plano diretor é obrigatório (CF, art. 182, § 1º)</span></div><div class=\"lt-stat\"><b>250 m²</b><span>área máxima da usucapião especial urbana (CF, art. 183)</span></div><div class=\"lt-stat\"><b>15%</b><span>alíquota máxima do IPTU progressivo no tempo (Estatuto da Cidade, art. 7º, § 1º)</span></div><div class=\"lt-stat\"><b>22/12/2016</b><span>data-limite dos núcleos urbanos informais na Reurb (Lei 13.465/2017)</span></div></div>\n<h3>1. O Direito Urbanístico e a Constituição</h3>\n<ul><li>O <b>Direito Urbanístico</b> é o ramo do Direito Público que disciplina a <b>ordenação dos espaços habitáveis</b>: o uso, a ocupação e o parcelamento do solo, a política habitacional, a mobilidade e a regularização fundiária. Estuda o <b>meio ambiente artificial</b> (ou construído), um dos aspectos do meio ambiente (art. 225), e tem como núcleo a <b>função social da cidade e da propriedade urbana</b>.</li><li>A Constituição de 1988 foi a primeira a ter um <b>capítulo sobre a política urbana</b> (Título VII, Capítulo II, arts. 182 e 183). Esses artigos foram regulamentados treze anos depois pelo <b>Estatuto da Cidade</b> (Lei 10.257/2001).</li></ul>\n<table class=\"tab\"><thead><tr><th>Competência</th><th>Dispositivo</th><th>Conteúdo</th></tr></thead><tbody><tr><td><b>União</b> (material)</td><td>art. 21, XX</td><td>instituir <b>diretrizes</b> para o desenvolvimento urbano, inclusive habitação, saneamento básico e transportes urbanos</td></tr><tr><td><b>União, Estados e DF</b> (legislativa concorrente)</td><td>art. 24, I</td><td>legislar sobre <b>direito urbanístico</b> (a União edita normas gerais, como o Estatuto da Cidade e a Lei 6.766)</td></tr><tr><td><b>Comum</b> (todos os entes)</td><td>art. 23, IX</td><td>promover programas de construção de <b>moradias</b> e a melhoria das condições habitacionais e de saneamento básico</td></tr><tr><td><b>Estados</b></td><td>art. 25, § 3º</td><td>instituir, mediante lei complementar, <b>regiões metropolitanas</b>, aglomerações urbanas e microrregiões</td></tr><tr><td><b>Municípios</b></td><td>art. 30, VIII</td><td>promover, no que couber, adequado <b>ordenamento territorial</b>, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano</td></tr><tr><td><b>Municípios</b></td><td>art. 182, caput</td><td><b>executar</b> a política de desenvolvimento urbano, conforme diretrizes gerais fixadas em lei</td></tr></tbody></table>\n<ul><li><b>Protagonismo municipal</b>: o art. 182 diz que a política de desenvolvimento urbano é executada pelo <b>Poder Público municipal</b>, conforme diretrizes gerais fixadas em lei (federal), e tem por objetivo ordenar o pleno desenvolvimento das <b>funções sociais da cidade</b> e garantir o <b>bem-estar</b> de seus habitantes. O Município é o principal ente do urbanismo.</li><li><b>Estatuto da Metrópole</b> (Lei 13.089/2015): disciplina a governança interfederativa das regiões metropolitanas e aglomerações urbanas, com plano de desenvolvimento urbano integrado (PDUI). Nas funções públicas de interesse comum (transporte metropolitano, saneamento integrado), prevalece a <b>gestão compartilhada</b> entre Estado e Municípios, conforme decidiu o STF na <b>ADI 1.842</b> (2013), sobre a região metropolitana do Rio de Janeiro: a titularidade dessas funções é do <b>colegiado</b> formado pelos Municípios e pelo Estado, sem concentração do poder decisório em um único ente.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Legislar sobre direito urbanístico é competência privativa da União</span><br>✅ <span class=\"certo\">É <b>concorrente</b> (art. 24, I)</span></li><li>❌ <span class=\"banca\">A política urbana é executada pelo Estado-membro</span><br>✅ <span class=\"certo\">É executada pelo <b>Poder Público municipal</b> (art. 182)</span></li><li>❌ <span class=\"banca\">Regiões metropolitanas são criadas por lei ordinária federal</span><br>✅ <span class=\"certo\">São instituídas pelos <b>Estados</b>, por <b>lei complementar</b> (art. 25, § 3º)</span></li></ol></div>\n<h3>2. O art. 182 e a função social da propriedade urbana</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CF, art. 182, §§ 1º e 2º</div><div class=\"art-lei\">§ 1º O plano diretor, aprovado pela Câmara Municipal, obrigatório para cidades com mais de vinte mil habitantes, é o instrumento básico da política de desenvolvimento e de expansão urbana. § 2º A propriedade urbana cumpre sua função social quando atende às exigências fundamentais de ordenação da cidade expressas no plano diretor.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Plano diretor: aprovado pela CÂMARA (é lei)</li><li>Obrigatório para cidades com MAIS de 20 mil habitantes</li><li>Função social da propriedade urbana = atender ao PLANO DIRETOR</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Não confunda com a função social da propriedade rural (art. 186), que tem requisitos fixados na própria Constituição (aproveitamento racional, preservação do meio ambiente, legislação trabalhista, bem-estar).</li></ul></div></div>\n<ul><li><b>§ 3º</b>: as <b>desapropriações de imóveis urbanos</b> serão feitas com <b>prévia e justa indenização em dinheiro</b>. É a regra da desapropriação comum por necessidade, utilidade pública ou interesse social.</li><li><b>§ 4º (sanções sucessivas)</b>: é facultado ao Poder Público municipal, mediante <b>lei específica</b> para área incluída no <b>plano diretor</b>, exigir, nos termos da <b>lei federal</b>, do proprietário do solo urbano <b>não edificado, subutilizado ou não utilizado</b>, que promova seu <b>adequado aproveitamento</b>, sob pena, <b>sucessivamente</b>, de: I, <b>parcelamento ou edificação compulsórios</b>; II, <b>imposto sobre a propriedade predial e territorial urbana progressivo no tempo</b>; III, <b>desapropriação com pagamento mediante títulos da dívida pública</b> de emissão previamente aprovada pelo <b>Senado Federal</b>, com prazo de resgate de <b>até dez anos</b>, em parcelas anuais, iguais e sucessivas, assegurados o valor real da indenização e os juros legais.</li><li><b>Requisitos do § 4º</b>: (1) <b>plano diretor</b> que inclua a área; (2) <b>lei municipal específica</b> para a área; (3) <b>lei federal</b> (o Estatuto da Cidade); (4) imóvel <b>não edificado, subutilizado ou não utilizado</b>; (5) aplicação <b>sucessiva</b> das sanções (não se pode pular para a desapropriação).</li></ul>\n<table class=\"tab\"><thead><tr><th>Desapropriação</th><th>Pagamento</th><th>Quem</th></tr></thead><tbody><tr><td><b>Comum</b> (art. 5º, XXIV, e art. 182, § 3º)</td><td>prévia e justa indenização <b>em dinheiro</b></td><td>qualquer ente</td></tr><tr><td><b>Sanção urbanística</b> (art. 182, § 4º, III)</td><td><b>títulos da dívida pública</b> municipal, aprovados pelo <b>Senado</b>, resgate em até <b>10 anos</b></td><td><b>Município</b></td></tr><tr><td><b>Reforma agrária</b> (art. 184)</td><td><b>títulos da dívida agrária</b>, resgate em até <b>20 anos</b>, a partir do segundo ano; benfeitorias úteis e necessárias em dinheiro</td><td><b>União</b></td></tr><tr><td><b>Confisco</b> (art. 243)</td><td><b>sem indenização</b> (expropriação de propriedades com cultura ilegal de plantas psicotrópicas ou exploração de trabalho escravo)</td><td><b>União</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O plano diretor é obrigatório para cidades com 20 mil habitantes ou mais</span><br>✅ <span class=\"certo\">Para cidades com <b>mais de</b> 20 mil habitantes</span></li><li>❌ <span class=\"banca\">O Município pode desapropriar com títulos da dívida pública sem antes aplicar o IPTU progressivo</span><br>✅ <span class=\"certo\">As sanções são <b>sucessivas</b></span></li><li>❌ <span class=\"banca\">Os títulos da desapropriação-sanção urbana têm resgate em até 20 anos</span><br>✅ <span class=\"certo\">Até <b>10 anos</b> (os de 20 anos são da reforma agrária)</span></li><li>❌ <span class=\"banca\">A desapropriação-sanção urbana dispensa aprovação do Senado</span><br>✅ <span class=\"certo\">A <b>emissão</b> dos títulos é previamente aprovada pelo <b>Senado</b></span></li></ol></div>\n<h3>3. Usucapião especial urbana na Constituição (art. 183)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CF, art. 183</div><div class=\"art-lei\">Aquele que possuir como sua área urbana de até duzentos e cinquenta metros quadrados, por cinco anos, ininterruptamente e sem oposição, utilizando-a para sua moradia ou de sua família, adquirir-lhe-á o domínio, desde que não seja proprietário de outro imóvel urbano ou rural. § 1º O título de domínio e a concessão de uso serão conferidos ao homem ou à mulher, ou a ambos, independentemente do estado civil. § 2º Esse direito não será reconhecido ao mesmo possuidor mais de uma vez. § 3º Os imóveis públicos não serão adquiridos por usucapião.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Até 250 m²</li><li>5 anos, ininterruptos e sem oposição</li><li>MORADIA própria ou da família</li><li>Não ser proprietário de outro imóvel</li><li>Só UMA vez</li><li>Imóvel PÚBLICO não é usucapível</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>É também chamada de usucapião pro moradia ou pro misero. Não exige justo título nem boa-fé.</li></ul></div></div>\n<ul><li><b>Lote mínimo municipal</b>: o STF, no <b>Tema 815</b> (RE 422.349, 2015), fixou: \"Preenchidos os requisitos do art. 183 da Constituição Federal, o reconhecimento do direito à usucapião especial urbana <b>não pode ser obstado por legislação infraconstitucional</b> que estabeleça módulos urbanos na respectiva área em que situado o imóvel (dimensão do lote).\" Ou seja, a lei municipal que fixa lote mínimo de 360 m² não impede a usucapião de um terreno de 200 m².</li><li><b>Imóveis públicos</b>: são <b>insuscetíveis de usucapião</b> (art. 183, § 3º, e art. 191, parágrafo único; Súmula 340 do STF). Para ocupações de áreas públicas, os instrumentos são a <b>concessão de uso especial para fins de moradia</b> (MP 2.220/2001), a <b>concessão de direito real de uso</b> (CDRU) e a <b>legitimação fundiária</b> da Reurb.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 815 (RE 422.349)</b><p class=\"jc-tese\">Preenchidos os requisitos do art. 183 da CF, o reconhecimento do direito à usucapião especial urbana não pode ser obstado por legislação infraconstitucional que estabeleça módulos urbanos na respectiva área em que situado o imóvel (dimensão do lote).</p><p class=\"jc-com\">A regra constitucional prevalece sobre a lei municipal de parcelamento. Isso não impede que o Município exija adequações urbanísticas posteriores, mas o domínio é adquirido pela usucapião independentemente da metragem mínima local.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A usucapião especial urbana exige justo título e boa-fé</span><br>✅ <span class=\"certo\">Não exige; bastam posse de <b>5 anos</b>, área até <b>250 m²</b>, moradia e não ser proprietário de outro imóvel</span></li><li>❌ <span class=\"banca\">Lei municipal de lote mínimo impede a usucapião de área menor</span><br>✅ <span class=\"certo\">Não impede (Tema 815 do STF)</span></li><li>❌ <span class=\"banca\">A usucapião especial urbana pode ser reconhecida duas vezes à mesma pessoa</span><br>✅ <span class=\"certo\">Só <b>uma vez</b> (§ 2º)</span></li><li>❌ <span class=\"banca\">Terreno público abandonado pode ser usucapido</span><br>✅ <span class=\"certo\">Imóveis públicos <b>não</b> são usucapíveis</span></li></ol></div>\n<h3>4. Estatuto da Cidade: natureza e diretrizes gerais</h3>\n<ul><li>A <b>Lei 10.257/2001</b> regulamenta os arts. 182 e 183 da CF e estabelece <b>normas de ordem pública e interesse social</b> que regulam o uso da propriedade urbana em prol do <b>bem coletivo</b>, da <b>segurança</b> e do <b>bem-estar</b> dos cidadãos, bem como do <b>equilíbrio ambiental</b> (art. 1º, parágrafo único).</li><li><b>Diretrizes gerais</b> (art. 2º): a política urbana tem por objetivo ordenar o pleno desenvolvimento das funções sociais da cidade e da propriedade urbana, mediante diretrizes como:</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso</th><th>Diretriz</th></tr></thead><tbody><tr><td>I</td><td>garantia do direito a <b>cidades sustentáveis</b>, entendido como o direito à terra urbana, à moradia, ao saneamento ambiental, à infraestrutura urbana, ao transporte e aos serviços públicos, ao trabalho e ao lazer, para as presentes e futuras gerações</td></tr><tr><td>II</td><td><b>gestão democrática</b> por meio da participação da população e de associações representativas</td></tr><tr><td>III</td><td><b>cooperação</b> entre os governos, a iniciativa privada e os demais setores da sociedade</td></tr><tr><td>IV</td><td><b>planejamento</b> do desenvolvimento das cidades, para evitar e corrigir as distorções do crescimento urbano</td></tr><tr><td>VI</td><td><b>ordenação e controle do uso do solo</b>, de forma a evitar: a utilização inadequada dos imóveis urbanos; a proximidade de usos incompatíveis; o parcelamento excessivo ou inadequado; a instalação de polos geradores de tráfego sem infraestrutura; a <b>retenção especulativa</b> de imóvel urbano; a deterioração das áreas urbanizadas; a poluição e a degradação ambiental; a exposição da população a riscos de desastres</td></tr><tr><td>IX</td><td><b>justa distribuição dos benefícios e ônus</b> do processo de urbanização</td></tr><tr><td>XI</td><td><b>recuperação dos investimentos</b> do Poder Público de que tenha resultado a <b>valorização</b> de imóveis urbanos</td></tr><tr><td>XIV</td><td><b>regularização fundiária</b> e urbanização de áreas ocupadas por população de baixa renda</td></tr><tr><td>XVII</td><td>estímulo a sistemas operacionais e tecnologias que reduzam impactos ambientais e economizem recursos naturais (Lei 12.836/2013)</td></tr><tr><td>XIX</td><td>condições condignas de acessibilidade, utilização e conforto nas dependências internas das edificações, inclusive as destinadas aos trabalhadores domésticos (Lei 13.699/2018)</td></tr><tr><td>XX</td><td>promoção de conforto, abrigo, descanso, bem-estar e acessibilidade na fruição dos espaços livres de uso público, <b>vedado o emprego de materiais, estruturas, equipamentos e técnicas construtivas hostis</b> que tenham como objetivo ou resultado o afastamento de pessoas em situação de rua, idosos, jovens e outros segmentos da população (Lei 14.489/2022)</td></tr><tr><td>XXI</td><td>adequada construção, instalação, sinalização, higienização e conservação dos <b>equipamentos públicos</b> e privados de uso coletivo, para prevenir acidentes e proteger a saúde dos usuários (Lei 15.333/2026)</td></tr></tbody></table>\n<ul><li><b>Arquitetura hostil</b>: a <b>Lei 14.489/2022</b>, conhecida como <b>Lei Padre Júlio Lancellotti</b>, incluiu o inciso XX para proibir a chamada <b>arquitetura hostil</b> (pinos, pedras pontiagudas, grades e bancos com divisórias projetados para impedir que pessoas em situação de rua se deitem ou permaneçam em espaços públicos). Foi regulamentada pelo <b>Decreto 11.819/2023</b>.</li><li><b>Marco legal do transporte público coletivo urbano</b> (Lei 15.432, de 13/06/2026): incluiu os incisos <b>XXII</b> (desenvolvimento orientado ao transporte, para compatibilizar o uso e a ocupação do solo com a rede de transporte) e <b>XXIII</b> (escalonamento dos horários de funcionamento das atividades urbanas, para distribuir melhor as viagens ao longo do dia) e o <b>reparcelamento do solo</b> como novo instrumento (art. 4º, V, \"v\"). A lei entra em vigor <b>um ano após a publicação</b> (junho de 2027).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Estatuto da Cidade é norma de direito privado</span><br>✅ <span class=\"certo\">É norma de <b>ordem pública e interesse social</b> (art. 1º, parágrafo único)</span></li><li>❌ <span class=\"banca\">O Estatuto permite bancos com divisórias para evitar a permanência de pessoas em situação de rua</span><br>✅ <span class=\"certo\">O inciso XX <b>veda</b> a arquitetura <b>hostil</b> (Lei 14.489/2022)</span></li><li>❌ <span class=\"banca\">A retenção especulativa de imóveis é diretriz da política urbana</span><br>✅ <span class=\"certo\">A diretriz é <b>evitar</b> a retenção especulativa (art. 2º, VI, \"e\")</span></li></ol></div>\n<h3>5. Os instrumentos da política urbana (art. 4º)</h3>\n<ul><li>O art. 4º lista os instrumentos, em rol <b>exemplificativo</b>: I, <b>planos nacionais, regionais e estaduais</b> de ordenação do território; II, <b>planejamento das regiões metropolitanas</b>; III, <b>planejamento municipal</b> (plano diretor, disciplina do parcelamento, uso e ocupação do solo, <b>zoneamento ambiental</b>, plano plurianual, diretrizes orçamentárias e orçamento anual, <b>gestão orçamentária participativa</b>, planos, programas e projetos setoriais, planos de desenvolvimento econômico e social); IV, <b>institutos tributários e financeiros</b> (IPTU, contribuição de melhoria, incentivos e benefícios fiscais e financeiros); V, <b>institutos jurídicos e políticos</b>; VI, <b>estudo prévio de impacto ambiental (EIA)</b> e <b>estudo prévio de impacto de vizinhança (EIV)</b>.</li><li><b>Institutos jurídicos e políticos</b> (inciso V): desapropriação; servidão administrativa; limitações administrativas; <b>tombamento</b> de imóveis ou de mobiliário urbano; instituição de <b>unidades de conservação</b>; instituição de <b>zonas especiais de interesse social</b> (ZEIS); <b>concessão de direito real de uso</b>; <b>concessão de uso especial para fins de moradia</b>; <b>parcelamento, edificação ou utilização compulsórios</b>; <b>usucapião especial de imóvel urbano</b>; <b>direito de superfície</b>; <b>direito de preempção</b>; <b>outorga onerosa do direito de construir</b> e de alteração de uso; <b>transferência do direito de construir</b>; <b>operações urbanas consorciadas</b>; <b>regularização fundiária</b>; assistência técnica e jurídica gratuita para as comunidades e grupos sociais menos favorecidos; referendo popular e plebiscito; <b>demarcação urbanística</b> para fins de regularização fundiária; <b>legitimação de posse</b>; e, com a Lei 15.432/2026, o <b>reparcelamento do solo</b>.</li><li><b>Regras</b> (art. 4º, §§ 1º a 3º): os instrumentos regem-se pela legislação que lhes é própria; nos casos de programas e projetos habitacionais de interesse social, desenvolvidos por órgãos com atuação específica nessa área, a <b>concessão de direito real de uso</b> de imóveis públicos poderá ser contratada <b>coletivamente</b>; os instrumentos que demandam <b>dispêndio de recursos</b> por parte do Poder Público municipal devem ser objeto de <b>controle social</b>, garantida a participação de comunidades, movimentos e entidades da sociedade civil.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O rol de instrumentos do art. 4º é taxativo</span><br>✅ <span class=\"certo\">É <b>exemplificativo</b></span></li><li>❌ <span class=\"banca\">O tombamento não é instrumento da política urbana</span><br>✅ <span class=\"certo\">Está no art. 4º, V, \"d\"</span></li><li>❌ <span class=\"banca\">A concessão de direito real de uso nunca pode ser coletiva</span><br>✅ <span class=\"certo\">Pode ser contratada <b>coletivamente</b> em programas habitacionais de interesse social (art. 4º, § 2º)</span></li></ol></div>\n<h3>6. Parcelamento, edificação ou utilização compulsórios (PEUC)</h3>\n<ul><li><b>Art. 5º</b>: <b>lei municipal específica</b> para área incluída no <b>plano diretor</b> poderá determinar o parcelamento, a edificação ou a utilização compulsórios do solo urbano <b>não edificado, subutilizado ou não utilizado</b>, devendo fixar as condições e os prazos para implementação da referida obrigação.</li><li><b>Imóvel subutilizado</b> (§ 1º): aquele cujo aproveitamento seja <b>inferior ao mínimo</b> definido no plano diretor ou em legislação dele decorrente.</li><li><b>Notificação</b> (§§ 2º e 3º): o proprietário será <b>notificado</b> pelo Poder Executivo municipal para o cumprimento da obrigação, devendo a notificação ser <b>averbada</b> no cartório de registro de imóveis. A notificação far-se-á por funcionário do órgão competente do Poder Público municipal, ao proprietário do imóvel ou, no caso de pessoa jurídica, a quem tenha poderes de gerência geral ou administração; ou por <b>edital</b>, quando frustrada, por <b>três vezes</b>, a tentativa de notificação.</li><li><b>Prazos mínimos</b> (§ 4º): os prazos <b>não poderão ser inferiores a</b>: I, <b>um ano</b>, a partir da notificação, para que seja <b>protocolado o projeto</b> no órgão municipal competente; II, <b>dois anos</b>, a partir da aprovação do projeto, para <b>iniciar as obras</b> do empreendimento. Em empreendimentos de <b>grande porte</b>, em caráter excepcional, a lei municipal poderá prever a conclusão em <b>etapas</b> (§ 5º).</li><li><b>Transmissão</b> (art. 6º): a transmissão do imóvel, por ato <b>inter vivos</b> ou <b>causa mortis</b>, posterior à data da notificação, <b>transfere as obrigações</b> de parcelamento, edificação ou utilização, <b>sem interrupção</b> de quaisquer prazos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Etapa</th><th>Prazo mínimo (art. 5º, § 4º)</th></tr></thead><tbody><tr><td>Protocolo do projeto</td><td><b>1 ano</b> da notificação</td></tr><tr><td>Início das obras</td><td><b>2 anos</b> da aprovação do projeto</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A notificação do PEUC dispensa averbação</span><br>✅ <span class=\"certo\">Deve ser <b>averbada</b> no registro de imóveis</span></li><li>❌ <span class=\"banca\">O prazo mínimo para protocolar o projeto é de 6 meses</span><br>✅ <span class=\"certo\">É de <b>1 ano</b> da notificação</span></li><li>❌ <span class=\"banca\">A venda do imóvel após a notificação extingue a obrigação</span><br>✅ <span class=\"certo\">As obrigações se <b>transferem</b> ao adquirente, <b>sem interrupção</b> dos prazos (art. 6º)</span></li><li>❌ <span class=\"banca\">A notificação por edital ocorre após uma tentativa frustrada</span><br>✅ <span class=\"certo\">Após <b>três</b> tentativas frustradas</span></li></ol></div>\n<h3>7. IPTU progressivo no tempo e desapropriação-sanção</h3>\n<ul><li><b>IPTU progressivo no tempo</b> (art. 7º): em caso de descumprimento das condições e dos prazos do PEUC, o Município procederá à aplicação do IPTU progressivo no tempo, mediante a <b>majoração da alíquota</b> pelo prazo de <b>cinco anos consecutivos</b>. O valor da alíquota a ser aplicado a cada ano será fixado na lei específica e <b>não excederá a duas vezes o valor referente ao ano anterior</b>, respeitada a <b>alíquota máxima de quinze por cento</b> (§ 1º). Caso a obrigação não seja atendida em cinco anos, o Município <b>manterá a cobrança pela alíquota máxima</b>, até que se cumpra a obrigação, garantida a prerrogativa do art. 8º (§ 2º). É <b>vedada</b> a concessão de <b>isenções ou de anistia</b> relativas à tributação progressiva (§ 3º).</li><li><b>Desapropriação com títulos</b> (art. 8º): decorridos <b>cinco anos</b> de cobrança do IPTU progressivo sem que o proprietário tenha cumprido a obrigação, o Município poderá proceder à desapropriação do imóvel, com pagamento em <b>títulos da dívida pública</b>. Os títulos terão prévia aprovação pelo <b>Senado Federal</b> e serão resgatados no prazo de <b>até dez anos</b>, em prestações anuais, iguais e sucessivas, assegurados o valor real da indenização e os <b>juros legais de seis por cento ao ano</b> (§ 1º).</li><li><b>Valor da indenização</b> (§ 2º): refletirá o <b>valor da base de cálculo do IPTU</b>, descontado o montante incorporado em função de obras realizadas pelo Poder Público na área onde o imóvel se localiza após a notificação; e <b>não computará</b> expectativas de ganhos, lucros cessantes e juros compensatórios.</li><li><b>Aproveitamento</b> (§§ 4º a 6º): o Município procederá ao adequado aproveitamento do imóvel no prazo máximo de <b>cinco anos</b>, contado a partir da sua incorporação ao patrimônio público. O aproveitamento poderá ser efetivado diretamente pelo Poder Público ou por meio de alienação ou concessão a terceiros, observado o procedimento licitatório. Deixar de fazê-lo é <b>improbidade</b> do Prefeito (art. 52, II).</li><li><b>IPTU progressivo fiscal x extrafiscal</b>: não confunda com a progressividade <b>fiscal</b> do IPTU em razão do <b>valor</b> do imóvel (art. 156, § 1º, I, da CF, incluída pela <b>EC 29/2000</b>). Antes da EC 29, o STF só admitia a progressividade extrafiscal do art. 182 (<b>Súmula 668</b>: é inconstitucional a lei municipal que tenha estabelecido, antes da EC 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana).</li></ul>\n<table class=\"tab\"><thead><tr><th>Sanção</th><th>Regra-chave</th></tr></thead><tbody><tr><td><b>PEUC</b> (arts. 5º e 6º)</td><td>lei municipal específica + plano diretor; notificação averbada; prazos mínimos de 1 e 2 anos</td></tr><tr><td><b>IPTU progressivo</b> (art. 7º)</td><td>5 anos consecutivos; alíquota de cada ano até o dobro da anterior; máximo de <b>15%</b>; vedada isenção ou anistia</td></tr><tr><td><b>Desapropriação-sanção</b> (art. 8º)</td><td>após 5 anos de IPTU progressivo; títulos aprovados pelo Senado; resgate em até <b>10 anos</b>; juros de <b>6% ao ano</b>; indenização pela base de cálculo do IPTU; aproveitamento em 5 anos</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O IPTU progressivo no tempo tem alíquota máxima de 20%</span><br>✅ <span class=\"certo\">Máximo de <b>15%</b></span></li><li>❌ <span class=\"banca\">A alíquota pode triplicar de um ano para o outro</span><br>✅ <span class=\"certo\">Não pode exceder <b>duas vezes</b> a do ano anterior</span></li><li>❌ <span class=\"banca\">O Município pode conceder anistia do IPTU progressivo no tempo</span><br>✅ <span class=\"certo\">É <b>vedada</b> isenção ou anistia (art. 7º, § 3º)</span></li><li>❌ <span class=\"banca\">Na desapropriação-sanção, a indenização inclui lucros cessantes</span><br>✅ <span class=\"certo\"><b>Não</b> computa expectativas de ganhos, lucros cessantes e juros compensatórios</span></li></ol></div>\n<h3>8. Usucapião especial urbana no Estatuto: individual e coletiva</h3>\n<ul><li><b>Individual</b> (art. 9º): repete o art. 183 da CF: área ou edificação urbana de <b>até 250 m²</b>, possuída como sua por <b>5 anos</b>, ininterruptamente e sem oposição, utilizada para <b>moradia</b> própria ou da família, desde que o possuidor não seja proprietário de outro imóvel urbano ou rural. O herdeiro <b>legítimo</b> continua, de pleno direito, a posse de seu antecessor, desde que já resida no imóvel por ocasião da abertura da sucessão (§ 3º).</li><li><b>Coletiva</b> (art. 10, com redação da Lei 13.465/2017): os <b>núcleos urbanos informais</b> existentes <b>sem oposição há mais de cinco anos</b> e cuja <b>área total dividida pelo número de possuidores seja inferior a 250 m² por possuidor</b> são suscetíveis de serem usucapidos <b>coletivamente</b>, desde que os possuidores não sejam proprietários de outro imóvel urbano ou rural. O possuidor pode <b>somar</b> sua posse à de seu antecessor, contanto que ambas sejam contínuas (§ 1º).</li><li><b>Sentença e condomínio</b> (art. 10, §§ 2º a 5º): a usucapião coletiva será declarada pelo juiz, mediante <b>sentença</b>, a qual servirá de título para registro. Na sentença, o juiz atribuirá <b>igual fração ideal</b> de terreno a cada possuidor, independentemente da dimensão do terreno que cada um ocupe, salvo <b>acordo escrito</b> entre os condôminos estabelecendo frações diferenciadas. O <b>condomínio especial</b> constituído é <b>indivisível</b>, não sendo passível de extinção, salvo deliberação favorável tomada por, no mínimo, <b>dois terços</b> dos condôminos, no caso de execução de urbanização posterior. As deliberações relativas à administração do condomínio serão tomadas por <b>maioria</b> de votos dos condôminos presentes.</li><li><b>Processo</b> (arts. 11 a 14): na pendência da ação de usucapião especial urbana, ficarão <b>sobrestadas</b> quaisquer outras ações, petitórias ou possessórias, que venham a ser propostas relativamente ao imóvel usucapiendo. São partes legítimas para a propositura: o possuidor, isoladamente ou em litisconsórcio; os possuidores, em estado de composse; e, como <b>substituto processual</b>, a <b>associação de moradores</b> da comunidade, regularmente constituída, com personalidade jurídica, desde que explicitamente autorizada pelos representados. É obrigatória a intervenção do <b>Ministério Público</b>. O autor terá os benefícios da <b>justiça e da assistência judiciária gratuita</b>, inclusive perante o cartório de registro de imóveis. A usucapião especial pode ser invocada como <b>matéria de defesa</b>, valendo a sentença que a reconhecer como título para registro (art. 13). O rito processual é o <b>sumário</b> (art. 14; hoje, procedimento comum, pelo CPC/2015).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na usucapião coletiva, cada possuidor recebe fração proporcional à área que ocupa</span><br>✅ <span class=\"certo\">Recebe <b>igual fração ideal</b>, salvo acordo escrito</span></li><li>❌ <span class=\"banca\">O condomínio da usucapião coletiva pode ser extinto por maioria simples</span><br>✅ <span class=\"certo\">Exige <b>dois terços</b> dos condôminos, para urbanização posterior</span></li><li>❌ <span class=\"banca\">A associação de moradores não pode propor a ação</span><br>✅ <span class=\"certo\">Pode, como <b>substituta processual</b>, se autorizada</span></li><li>❌ <span class=\"banca\">A usucapião especial não pode ser alegada em defesa</span><br>✅ <span class=\"certo\">Pode ser <b>matéria de defesa</b> (art. 13)</span></li></ol></div>\n<h3>9. Concessão de uso especial para fins de moradia (CUEM)</h3>\n<ul><li>Como imóveis públicos não podem ser usucapidos, a <b>MP 2.220/2001</b> (que tem força de lei, por ser anterior à EC 32/2001) criou a <b>concessão de uso especial para fins de moradia</b>: aquele que, até <b>22 de dezembro de 2016</b> (data atualizada pela Lei 13.465/2017), possuiu como seu, por <b>5 anos</b>, ininterruptamente e sem oposição, até <b>250 m²</b> de imóvel <b>público</b> situado em área com características e finalidade urbanas, e que o utilize para sua moradia ou de sua família, tem o <b>direito à concessão de uso especial</b> em relação ao bem objeto da posse, desde que não seja proprietário ou concessionário, a qualquer título, de outro imóvel urbano ou rural.</li><li>É <b>direito subjetivo</b> do ocupante (não é ato discricionário), pode ser <b>individual ou coletiva</b>, é gratuita, transferível por ato <i>inter vivos</i> ou <i>causa mortis</i>, e extingue-se se o concessionário der ao imóvel destinação diversa da moradia ou adquirir a propriedade ou a concessão de outro imóvel. O Poder Público pode assegurar o exercício do direito <b>em outro local</b> quando a ocupação acarretar risco à vida ou à saúde, ou ocorrer em bem de uso comum do povo, área de interesse da defesa nacional, de preservação ambiental, reservada à construção de represas, ou situada em via de comunicação.</li><li><b>CDRU</b> (Decreto-Lei 271/1967, art. 7º): a <b>concessão de direito real de uso</b> é contrato pelo qual a Administração transfere o uso de terreno público a particular, de forma remunerada ou gratuita, por tempo certo ou indeterminado, como direito real resolúvel, para fins específicos de regularização fundiária de interesse social, urbanização, industrialização, edificação, cultivo da terra ou outras modalidades de interesse social em áreas urbanas. Diferente da CUEM, é <b>discricionária</b> e depende de <b>lei autorizativa</b> e, em regra, de <b>licitação</b> (dispensável nos programas habitacionais de interesse social).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Imóvel público pode ser adquirido por usucapião coletiva</span><br>✅ <span class=\"certo\">Imóvel público <b>não</b> é usucapível; o instrumento é a <b>CUEM</b> ou a <b>legitimação fundiária</b></span></li><li>❌ <span class=\"banca\">A CUEM é ato discricionário da Administração</span><br>✅ <span class=\"certo\">É <b>direito subjetivo</b> de quem preenche os requisitos</span></li><li>❌ <span class=\"banca\">A CDRU é sempre gratuita e por prazo indeterminado</span><br>✅ <span class=\"certo\">Pode ser <b>remunerada ou gratuita</b>, por tempo <b>certo ou indeterminado</b></span></li></ol></div>\n<h3>10. Direito de superfície</h3>\n<ul><li><b>Estatuto da Cidade</b> (arts. 21 a 24): o proprietário <b>urbano</b> poderá conceder a outrem o direito de superfície do seu terreno, por <b>tempo determinado ou indeterminado</b>, mediante <b>escritura pública</b> registrada no cartório de registro de imóveis. O direito de superfície abrange o direito de utilizar o <b>solo, o subsolo ou o espaço aéreo</b> relativo ao terreno, na forma do contrato, atendida a legislação urbanística. A concessão poderá ser <b>gratuita ou onerosa</b>. O superficiário responderá integralmente pelos <b>encargos e tributos</b> que incidirem sobre a propriedade superficiária, arcando, ainda, proporcionalmente à sua parcela de ocupação efetiva, com os encargos e tributos sobre a área objeto da concessão. Em caso de alienação do terreno ou do direito de superfície, o superficiário e o proprietário terão <b>direito de preferência</b>, respectivamente, em igualdade de condições à oferta de terceiros (art. 22).</li><li><b>Código Civil</b> (arts. 1.369 a 1.377): prevê o direito de superfície por <b>tempo determinado</b>, para <b>construir ou plantar</b>, e <b>não autoriza obra no subsolo</b>, salvo se for inerente ao objeto da concessão. A doutrina entende que o Estatuto rege a superfície <b>urbana</b> e o Código Civil, a <b>rural</b> (ou que o Estatuto é especial para imóveis urbanos).</li><li><b>Direito real de laje</b> (CC, arts. 1.510-A a 1.510-E, incluídos pela Lei 13.465/2017): o proprietário de uma construção-base pode ceder a <b>superfície superior ou inferior</b> de sua construção a fim de que o titular da laje mantenha <b>unidade distinta</b> daquela originalmente construída sobre o solo. O titular da laje responde pelos encargos e tributos que incidirem sobre a sua unidade, tem <b>matrícula própria</b>, e não lhe é atribuída fração ideal de terreno. A <b>Lei 14.273/2021</b> incluiu no Estatuto da Cidade o <b>art. 57-A</b>, permitindo que operadoras <b>ferroviárias</b> constituam direito real de laje e de superfície sobre a faixa de domínio, observado o plano diretor e mediante licenciamento urbanístico municipal.</li></ul>\n<table class=\"tab\"><thead><tr><th>Aspecto</th><th>Estatuto da Cidade</th><th>Código Civil</th></tr></thead><tbody><tr><td>Imóvel</td><td><b>urbano</b></td><td>urbano e rural (doutrina: aplica-se sobretudo ao rural)</td></tr><tr><td>Prazo</td><td><b>determinado ou indeterminado</b></td><td><b>determinado</b></td></tr><tr><td>Abrangência</td><td><b>solo, subsolo e espaço aéreo</b></td><td>construir ou plantar; <b>sem obra no subsolo</b>, salvo se inerente</td></tr><tr><td>Forma</td><td>escritura pública registrada</td><td>escritura pública registrada</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O direito de superfície do Estatuto da Cidade só pode ser por tempo determinado</span><br>✅ <span class=\"certo\">Pode ser por tempo <b>determinado ou indeterminado</b></span></li><li>❌ <span class=\"banca\">O direito de superfície do Código Civil autoriza livremente obras no subsolo</span><br>✅ <span class=\"certo\"><b>Não</b> autoriza, salvo se inerente ao objeto</span></li><li>❌ <span class=\"banca\">O titular do direito de laje recebe fração ideal do terreno</span><br>✅ <span class=\"certo\"><b>Não</b> recebe fração ideal; tem matrícula própria</span></li></ol></div>\n<h3>11. Direito de preempção</h3>\n<ul><li><b>Conceito</b> (art. 25): o direito de preempção confere ao <b>Poder Público municipal preferência</b> para aquisição de imóvel urbano objeto de <b>alienação onerosa entre particulares</b>. <b>Lei municipal, baseada no plano diretor</b>, delimitará as áreas em que incidirá o direito de preempção e fixará prazo de vigência <b>não superior a cinco anos</b>, <b>renovável</b> a partir de <b>um ano</b> após o decurso do prazo inicial de vigência (§ 1º). O direito de preempção fica assegurado durante o prazo de vigência, <b>independentemente do número de alienações</b> referentes ao mesmo imóvel (§ 2º).</li><li><b>Finalidades</b> (art. 26): o direito de preempção será exercido sempre que o Poder Público necessitar de áreas para: I, <b>regularização fundiária</b>; II, execução de programas e projetos <b>habitacionais de interesse social</b>; III, constituição de <b>reserva fundiária</b>; IV, ordenamento e direcionamento da <b>expansão urbana</b>; V, implantação de <b>equipamentos urbanos e comunitários</b>; VI, criação de <b>espaços públicos de lazer e áreas verdes</b>; VII, criação de <b>unidades de conservação</b> ou proteção de outras áreas de interesse ambiental; VIII, proteção de áreas de interesse <b>histórico, cultural ou paisagístico</b>. A lei municipal deve enquadrar cada área em uma ou mais dessas finalidades.</li><li><b>Procedimento</b> (art. 27): o proprietário deverá <b>notificar</b> sua intenção de alienar o imóvel, para que o Município, no prazo máximo de <b>trinta dias</b>, manifeste por escrito seu interesse em comprá-lo. À notificação será anexada <b>proposta de compra</b> assinada por terceiro interessado, da qual constarão preço, condições de pagamento e prazo de validade. O Município fará publicar, em órgão oficial e em pelo menos um jornal local ou regional de grande circulação, edital de aviso da notificação recebida e da intenção de aquisição do imóvel. Transcorrido o prazo sem manifestação, fica o proprietário autorizado a realizar a alienação para terceiros, <b>nas condições da proposta apresentada</b>. Concretizada a venda a terceiro, o proprietário fica obrigado a apresentar ao Município, no prazo de <b>trinta dias</b>, cópia do instrumento público de alienação.</li><li><b>Sanção</b> (art. 27, §§ 5º e 6º): a alienação processada em <b>condições diversas</b> da proposta apresentada é <b>nula de pleno direito</b>. Ocorrida essa hipótese, o Município poderá adquirir o imóvel pelo <b>valor da base de cálculo do IPTU</b> ou pelo valor indicado na proposta apresentada, <b>se este for inferior</b> àquele.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A preempção garante preferência ao Município em qualquer alienação, inclusive doação</span><br>✅ <span class=\"certo\">Incide sobre <b>alienação onerosa entre particulares</b></span></li><li>❌ <span class=\"banca\">O prazo de vigência da preempção é de até 10 anos</span><br>✅ <span class=\"certo\"><b>Não superior a 5 anos</b>, renovável após 1 ano do fim do prazo inicial</span></li><li>❌ <span class=\"banca\">O Município tem 60 dias para manifestar interesse</span><br>✅ <span class=\"certo\">Tem <b>30 dias</b></span></li><li>❌ <span class=\"banca\">A venda em condições diversas da proposta é anulável</span><br>✅ <span class=\"certo\">É <b>nula de pleno direito</b></span></li></ol></div>\n<h3>12. Outorga onerosa do direito de construir e de alteração de uso</h3>\n<ul><li><b>Conceito</b> (art. 28): o <b>plano diretor</b> poderá fixar áreas nas quais o direito de construir poderá ser exercido <b>acima do coeficiente de aproveitamento básico</b> adotado, mediante <b>contrapartida</b> a ser prestada pelo beneficiário. <b>Coeficiente de aproveitamento</b> é a relação entre a <b>área edificável</b> e a <b>área do terreno</b> (§ 1º). O plano diretor poderá fixar coeficiente de aproveitamento <b>básico único</b> para toda a zona urbana ou <b>diferenciado</b> para áreas específicas (§ 2º), e definirá os <b>limites máximos</b> a serem atingidos pelos coeficientes, considerando a proporcionalidade entre a infraestrutura existente e o aumento de densidade esperado (§ 3º).</li><li><b>Exemplo</b>: num terreno de 1.000 m² com coeficiente básico 1, pode-se construir 1.000 m² sem pagar nada. Se o coeficiente máximo for 3, o proprietário pode construir até 3.000 m², pagando a contrapartida pelos 2.000 m² adicionais. É o chamado <b>solo criado</b>.</li><li><b>Alteração de uso</b> (art. 29): o plano diretor poderá fixar áreas nas quais poderá ser permitida <b>alteração de uso do solo</b>, mediante contrapartida a ser prestada pelo beneficiário.</li><li><b>Lei municipal específica</b> (art. 30) estabelecerá as condições a serem observadas: a fórmula de cálculo para a cobrança; os casos passíveis de <b>isenção</b> do pagamento; a contrapartida do beneficiário.</li><li><b>Destinação dos recursos</b> (art. 31): os recursos auferidos com a outorga onerosa serão aplicados com as finalidades previstas nos incisos I a IX do art. 26 (as mesmas da preempção: regularização fundiária, habitação de interesse social, reserva fundiária, expansão urbana, equipamentos, lazer e áreas verdes, unidades de conservação, patrimônio histórico). Aplicar em outra finalidade é <b>improbidade</b> do Prefeito (art. 52, IV).</li><li><b>Natureza jurídica</b>: o STF, no <b>RE 387.047</b> (2008), decidiu que a contrapartida da outorga onerosa (o \"solo criado\" de Florianópolis) <b>não é tributo</b>: não é taxa (não há serviço ou poder de polícia), nem imposto, mas uma <b>prestação de natureza não tributária</b>, uma contrapartida ao exercício de uma faculdade (construir acima do básico), que é <b>facultativa</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A outorga onerosa tem natureza de taxa</span><br>✅ <span class=\"certo\">O STF entendeu que <b>não é tributo</b> (RE 387.047)</span></li><li>❌ <span class=\"banca\">O coeficiente de aproveitamento é a relação entre a área do terreno e a área edificável</span><br>✅ <span class=\"certo\">É a relação entre a <b>área edificável</b> e a <b>área do terreno</b></span></li><li>❌ <span class=\"banca\">Os recursos da outorga onerosa podem custear a folha de pagamento</span><br>✅ <span class=\"certo\">Devem ir para as finalidades do <b>art. 26</b>, sob pena de improbidade</span></li></ol></div>\n<h3>13. Operações urbanas consorciadas e transferência do direito de construir</h3>\n<ul><li><b>Operação urbana consorciada</b> (art. 32): é o conjunto de intervenções e medidas <b>coordenadas pelo Poder Público municipal</b>, com a participação dos proprietários, moradores, usuários permanentes e investidores privados, com o objetivo de alcançar em uma área <b>transformações urbanísticas estruturais</b>, melhorias sociais e a valorização ambiental. É aprovada por <b>lei municipal específica</b>, baseada no plano diretor, que delimita a área.</li><li>A lei da operação conterá, no mínimo (art. 33): definição da área; programa básico de ocupação; programa de atendimento econômico e social para a população diretamente afetada; finalidades; <b>estudo prévio de impacto de vizinhança</b> (EIV); contrapartida a ser exigida dos proprietários, usuários permanentes e investidores privados; forma de controle da operação, obrigatoriamente <b>compartilhado com representação da sociedade civil</b>; natureza dos incentivos. Os recursos obtidos serão aplicados <b>exclusivamente na própria operação urbana consorciada</b> (§ 1º).</li><li><b>CEPAC</b> (art. 34): a lei específica que aprovar a operação poderá prever a emissão pelo Município de quantidade determinada de <b>certificados de potencial adicional de construção</b>, que serão <b>alienados em leilão</b> ou utilizados diretamente no pagamento das obras necessárias à própria operação. Os CEPACs são livremente negociados, mas conversíveis em direito de construir <b>unicamente na área objeto da operação</b>. São valores mobiliários registrados na CVM.</li><li><b>Operação urbana consorciada interfederativa</b> (art. 34-A): incluído pelo Estatuto da Metrópole, permite operações em regiões metropolitanas, aprovadas por leis estaduais específicas.</li><li><b>Transferência do direito de construir</b> (art. 35): <b>lei municipal</b>, baseada no plano diretor, poderá autorizar o proprietário de imóvel urbano, privado ou público, a <b>exercer em outro local, ou alienar</b>, mediante escritura pública, o direito de construir previsto no plano diretor, quando o referido imóvel for considerado necessário para fins de: I, implantação de <b>equipamentos urbanos e comunitários</b>; II, <b>preservação</b>, quando o imóvel for considerado de interesse histórico, ambiental, paisagístico, social ou cultural; III, servir a programas de <b>regularização fundiária</b>, urbanização de áreas ocupadas por população de baixa renda e habitação de interesse social. A mesma faculdade poderá ser concedida ao proprietário que <b>doar</b> ao Poder Público seu imóvel, ou parte dele, para esses fins (§ 1º).</li><li><b>Exemplo de TDC</b>: um casarão tombado no centro não pode ser demolido nem ampliado. O proprietário, que perdeu potencial construtivo, recebe o direito de construir em outro lote, ou o vende a uma construtora. É uma forma de <b>compensar</b> a restrição sem desapropriar.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os recursos da operação urbana consorciada podem ser aplicados em qualquer região da cidade</span><br>✅ <span class=\"certo\">Devem ser aplicados <b>exclusivamente</b> na própria operação (art. 33, § 1º)</span></li><li>❌ <span class=\"banca\">Os CEPACs podem ser convertidos em direito de construir em qualquer área do Município</span><br>✅ <span class=\"certo\"><b>Unicamente</b> na área da operação</span></li><li>❌ <span class=\"banca\">A TDC só beneficia imóveis privados</span><br>✅ <span class=\"certo\">Alcança imóvel urbano <b>privado ou público</b> (art. 35)</span></li><li>❌ <span class=\"banca\">O controle da operação urbana consorciada é exclusivo do Poder Público</span><br>✅ <span class=\"certo\">É <b>compartilhado</b> com a sociedade civil</span></li></ol></div>\n<h3>14. Estudo de Impacto de Vizinhança (EIV)</h3>\n<ul><li><b>Art. 36</b>: <b>lei municipal</b> definirá os empreendimentos e atividades privados ou públicos em <b>área urbana</b> que dependerão de elaboração de <b>estudo prévio de impacto de vizinhança</b> (EIV) para obter as licenças ou autorizações de construção, ampliação ou funcionamento a cargo do Poder Público municipal.</li><li><b>Conteúdo mínimo</b> (art. 37): o EIV será executado de forma a contemplar os efeitos positivos e negativos do empreendimento ou atividade quanto à <b>qualidade de vida</b> da população residente na área e suas proximidades, incluindo a análise, no mínimo, das seguintes questões: I, <b>adensamento populacional</b>; II, <b>equipamentos urbanos e comunitários</b>; III, <b>uso e ocupação do solo</b>; IV, <b>valorização imobiliária</b>; V, <b>mobilidade urbana, geração de tráfego e demanda por transporte público</b> (redação da <b>Lei 14.849/2024</b>); VI, <b>ventilação e iluminação</b>; VII, <b>paisagem urbana</b> e patrimônio natural e cultural.</li><li><b>Publicidade</b> (art. 37, parágrafo único): dar-se-á publicidade aos documentos integrantes do EIV, que ficarão <b>disponíveis para consulta</b>, no órgão competente do Poder Público municipal, por <b>qualquer interessado</b>.</li><li><b>EIV x EIA</b> (art. 38): a elaboração do EIV <b>não substitui</b> a elaboração e a aprovação de <b>EIA</b>, requeridas nos termos da legislação ambiental. São estudos diferentes: o <b>EIA</b> avalia impacto ambiental significativo (exigência constitucional e da legislação ambiental, para qualquer ente licenciador); o <b>EIV</b> avalia o impacto <b>urbano</b> sobre a <b>vizinhança</b> (exigência da lei municipal, para licenças municipais).</li></ul>\n<table class=\"tab\"><thead><tr><th>Aspecto</th><th>EIA</th><th>EIV</th></tr></thead><tbody><tr><td>Base</td><td>CF, art. 225, § 1º, IV; Res. CONAMA 1/1986; Lei 15.190/2025</td><td>Estatuto da Cidade, arts. 36 a 38; lei municipal</td></tr><tr><td>Objeto</td><td>impacto <b>ambiental</b> significativo</td><td>impacto <b>urbanístico</b> na <b>vizinhança</b></td></tr><tr><td>Quem exige</td><td>órgão ambiental licenciador (União, Estado ou Município)</td><td><b>Município</b></td></tr><tr><td>Relação</td><td>um <b>não substitui</b> o outro</td><td>um <b>não substitui</b> o outro</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O EIV substitui o EIA para empreendimentos urbanos</span><br>✅ <span class=\"certo\">O EIV <b>não substitui</b> o EIA (art. 38)</span></li><li>❌ <span class=\"banca\">Os empreendimentos sujeitos ao EIV são definidos por lei federal</span><br>✅ <span class=\"certo\">São definidos por <b>lei municipal</b> (art. 36)</span></li><li>❌ <span class=\"banca\">O EIV é sigiloso</span><br>✅ <span class=\"certo\">Fica <b>disponível para consulta</b> por qualquer interessado</span></li></ol></div>\n<h3>15. Plano diretor</h3>\n<ul><li><b>Natureza</b> (art. 40): o plano diretor, aprovado por <b>lei municipal</b>, é o <b>instrumento básico</b> da política de desenvolvimento e expansão urbana. É <b>parte integrante</b> do processo de planejamento municipal, devendo o <b>plano plurianual</b>, as <b>diretrizes orçamentárias</b> e o <b>orçamento anual</b> incorporar as diretrizes e as prioridades nele contidas (§ 1º). Deverá englobar o <b>território do Município como um todo</b> (§ 2º), ou seja, as zonas urbana e rural. A lei que instituir o plano diretor deverá ser <b>revista, pelo menos, a cada dez anos</b> (§ 3º).</li><li><b>Participação</b> (art. 40, § 4º): no processo de elaboração do plano diretor e na fiscalização de sua implementação, os Poderes Legislativo e Executivo municipais garantirão: I, a promoção de <b>audiências públicas</b> e <b>debates</b> com a participação da população e de associações representativas dos vários segmentos da comunidade; II, a <b>publicidade</b> quanto aos documentos e informações produzidos; III, o <b>acesso</b> de qualquer interessado aos documentos e informações produzidos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Obrigatoriedade do plano diretor (art. 41)</th><th>Hipótese</th></tr></thead><tbody><tr><td>I</td><td>cidades com <b>mais de 20 mil habitantes</b></td></tr><tr><td>II</td><td>integrantes de <b>regiões metropolitanas</b> e <b>aglomerações urbanas</b></td></tr><tr><td>III</td><td>onde o Poder Público municipal pretenda utilizar os instrumentos do <b>art. 182, § 4º</b>, da CF (PEUC, IPTU progressivo, desapropriação-sanção)</td></tr><tr><td>IV</td><td>integrantes de áreas de <b>especial interesse turístico</b></td></tr><tr><td>V</td><td>inseridas na área de influência de empreendimentos ou atividades com <b>significativo impacto ambiental</b> de âmbito regional ou nacional</td></tr><tr><td>VI</td><td>incluídas no <b>cadastro nacional de Municípios com áreas suscetíveis</b> à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos</td></tr></tbody></table>\n<ul><li><b>Transporte</b> (art. 41, § 2º): no caso de cidades com mais de <b>500 mil habitantes</b>, deverá ser elaborado um <b>plano de transporte urbano integrado</b>, compatível com o plano diretor ou nele inserido. A Lei de Mobilidade Urbana (Lei 12.587/2012) exige <b>Plano de Mobilidade Urbana</b> dos Municípios com mais de 20 mil habitantes e dos demais obrigados a ter plano diretor.</li><li><b>Conteúdo mínimo</b> (art. 42): a delimitação das áreas urbanas onde poderá ser aplicado o PEUC, considerando a existência de infraestrutura e de demanda para utilização; as disposições sobre preempção, outorga onerosa, operações consorciadas e transferência do direito de construir; e um <b>sistema de acompanhamento e controle</b>.</li><li><b>Municípios com áreas de risco</b> (art. 42-A): o plano diretor dos Municípios incluídos no cadastro de áreas suscetíveis a desastres deverá conter, entre outros: parâmetros de parcelamento, uso e ocupação do solo que promovam a <b>diversidade de usos</b>; <b>mapeamento das áreas de risco</b>; planejamento de ações de intervenção preventiva e <b>realocação</b> de população de áreas de risco; medidas de drenagem urbana; diretrizes para a regularização fundiária.</li><li><b>Expansão do perímetro urbano</b> (art. 42-B): os Municípios que pretendam <b>ampliar o seu perímetro urbano</b> após a data de publicação desse dispositivo deverão elaborar <b>projeto específico</b> com, no mínimo: demarcação do novo perímetro; delimitação dos trechos com restrições à urbanização e sujeitos a controle especial em função de ameaça de desastres; definição de diretrizes específicas e de áreas para infraestrutura, sistema viário, equipamentos e instalações públicas, urbanas e sociais; definição de parâmetros de parcelamento, uso e ocupação do solo; previsão de áreas para <b>habitação de interesse social</b>; definição de diretrizes e instrumentos para proteção ambiental e do patrimônio histórico e cultural; mecanismos para garantir a justa distribuição dos ônus e benefícios; e, desde a <b>Lei 14.729/2023</b>, <b>planejamento integrado de transporte urbano</b>, inclusive por veículos não motorizados.</li><li><b>Tema 348 do STF</b> (RE 607.940): \"Os Municípios com mais de vinte mil habitantes e o Distrito Federal podem legislar sobre <b>programas e projetos específicos</b> de ordenamento do espaço urbano por meio de leis que sejam <b>compatíveis com as diretrizes fixadas no plano diretor</b>.\" Ou seja, nem toda regra urbanística precisa estar no próprio plano diretor; leis específicas são válidas se compatíveis com ele.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O plano diretor deve abranger apenas a zona urbana</span><br>✅ <span class=\"certo\">Deve englobar o <b>território do Município como um todo</b> (art. 40, § 2º)</span></li><li>❌ <span class=\"banca\">O plano diretor deve ser revisto a cada 5 anos</span><br>✅ <span class=\"certo\"><b>Pelo menos a cada 10 anos</b></span></li><li>❌ <span class=\"banca\">O plano diretor só é obrigatório para cidades com mais de 20 mil habitantes</span><br>✅ <span class=\"certo\">Há outras hipóteses (regiões metropolitanas, interesse turístico, impacto ambiental, áreas de risco, uso do art. 182, § 4º)</span></li><li>❌ <span class=\"banca\">Toda regra urbanística deve estar no próprio plano diretor</span><br>✅ <span class=\"certo\">Leis específicas compatíveis com ele são válidas (Tema 348)</span></li></ol></div>\n<h3>16. Gestão democrática, consórcio imobiliário e improbidade</h3>\n<ul><li><b>Gestão democrática</b> (art. 43): para garantir a gestão democrática da cidade, deverão ser utilizados, entre outros, os seguintes instrumentos: <b>órgãos colegiados</b> de política urbana, nos níveis nacional, estadual e municipal; <b>debates, audiências e consultas públicas</b>; <b>conferências</b> sobre assuntos de interesse urbano; <b>iniciativa popular</b> de projeto de lei e de planos, programas e projetos de desenvolvimento urbano.</li><li><b>Gestão orçamentária participativa</b> (art. 44): no âmbito municipal, a gestão orçamentária participativa incluirá a realização de <b>debates, audiências e consultas públicas</b> sobre as propostas do plano plurianual, da lei de diretrizes orçamentárias e do orçamento anual, como <b>condição obrigatória para sua aprovação</b> pela Câmara Municipal.</li><li><b>Regiões metropolitanas</b> (art. 45): os organismos gestores das regiões metropolitanas e aglomerações urbanas incluirão obrigatória e significativa participação da população e de associações representativas.</li><li><b>Consórcio imobiliário</b> (art. 46): o Poder Público municipal poderá facultar ao proprietário de área atingida pela obrigação do PEUC, ou objeto de regularização fundiária urbana, a requerimento deste, o estabelecimento de <b>consórcio imobiliário</b> como forma de viabilização financeira do aproveitamento do imóvel. Consórcio imobiliário é a forma de viabilização de planos de urbanização, de regularização fundiária ou de aproveitamento de imóvel pela qual o proprietário <b>transfere ao Poder Público municipal seu imóvel</b> e, após a realização das obras, recebe, como pagamento, <b>unidades imobiliárias devidamente urbanizadas ou edificadas</b>, ficando as demais unidades incorporadas ao patrimônio público (§ 1º). O valor das unidades a serem entregues corresponderá ao valor do imóvel antes da execução das obras (§ 2º).</li><li><b>Improbidade do Prefeito</b> (art. 52): sem prejuízo da punição de outros agentes públicos envolvidos e da aplicação de outras sanções cabíveis, o <b>Prefeito incorre em improbidade administrativa</b>, nos termos da Lei 8.429/1992, quando: II, deixar de proceder, no prazo de <b>cinco anos</b>, o adequado aproveitamento do imóvel incorporado ao patrimônio público por desapropriação-sanção; III, utilizar áreas obtidas por meio do <b>direito de preempção</b> em desacordo com o art. 26; IV, aplicar os recursos auferidos com a <b>outorga onerosa</b> em desacordo com o art. 31; V, aplicar os recursos auferidos com <b>operações urbanas consorciadas</b> em desacordo com o art. 33, § 1º; VI, impedir ou deixar de garantir os requisitos de <b>participação</b> na elaboração do plano diretor (art. 40, § 4º); VII, deixar de tomar as providências necessárias para garantir a observância do art. 40, § 3º (<b>revisão do plano diretor</b>), e do art. 50; VIII, adquirir imóvel objeto de direito de preempção pelo valor da proposta apresentada, se este for, comprovadamente, <b>superior ao de mercado</b>. O inciso I foi <b>vetado</b>.</li><li><b>Atenção à nova LIA</b>: após a <b>Lei 14.230/2021</b>, a improbidade exige <b>dolo</b> específico e as condutas que atentam contra os princípios (art. 11) passaram a ter rol <b>taxativo</b>. A doutrina discute como compatibilizar o art. 52 do Estatuto com essas mudanças; o entendimento predominante é que o Prefeito só responde se agir com <b>dolo</b>, e as condutas do art. 52 são enquadradas nos tipos da Lei 8.429 conforme o resultado (enriquecimento, dano ao erário ou violação de princípios).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A gestão orçamentária participativa é facultativa</span><br>✅ <span class=\"certo\">Os debates e audiências são <b>condição obrigatória</b> para a aprovação das leis orçamentárias (art. 44)</span></li><li>❌ <span class=\"banca\">No consórcio imobiliário, o proprietário recebe indenização em dinheiro</span><br>✅ <span class=\"certo\">Recebe <b>unidades imobiliárias</b> urbanizadas ou edificadas</span></li><li>❌ <span class=\"banca\">Deixar de rever o plano diretor não tem consequência para o Prefeito</span><br>✅ <span class=\"certo\">É hipótese de <b>improbidade</b> (art. 52, VII)</span></li></ol></div>\n<h3>17. Parcelamento do solo urbano (Lei 6.766/1979)</h3>\n<ul><li>A <b>Lei 6.766/1979</b> disciplina o parcelamento do solo para fins <b>urbanos</b>. Estados, DF e Municípios podem estabelecer normas <b>complementares</b> para adequá-la às peculiaridades regionais e locais (art. 1º, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Modalidade (art. 2º)</th><th>Conceito</th><th>Diferença-chave</th></tr></thead><tbody><tr><td><b>Loteamento</b> (§ 1º)</td><td>subdivisão de gleba em lotes destinados a edificação, <b>com abertura de novas vias</b> de circulação, de logradouros públicos ou <b>prolongamento, modificação ou ampliação</b> das vias existentes</td><td>cria <b>vias novas</b></td></tr><tr><td><b>Desmembramento</b> (§ 2º)</td><td>subdivisão de gleba em lotes destinados a edificação, <b>com aproveitamento do sistema viário existente</b>, desde que não implique a abertura de novas vias e logradouros públicos, nem o prolongamento, modificação ou ampliação dos já existentes</td><td>usa as <b>vias existentes</b></td></tr></tbody></table>\n<ul><li><b>Lote</b> (art. 2º, § 4º): considera-se lote o terreno servido de <b>infraestrutura básica</b> cujas dimensões atendam aos índices urbanísticos definidos pelo plano diretor ou lei municipal para a zona em que se situe. A <b>infraestrutura básica</b> dos parcelamentos é constituída pelos equipamentos urbanos de <b>escoamento das águas pluviais</b>, <b>iluminação pública</b>, <b>esgotamento sanitário</b>, <b>abastecimento de água potável</b>, <b>energia elétrica</b> pública e domiciliar e <b>vias de circulação</b> (§ 5º).</li><li><b>Condomínio de lotes</b> (art. 2º, § 7º, e Código Civil, art. 1.358-A, incluídos pela Lei 13.465/2017): pode haver, em terrenos, partes designadas de lotes que são <b>propriedade exclusiva</b> e partes que são <b>propriedade comum</b> dos condôminos. <b>Loteamento de acesso controlado</b> (art. 2º, § 8º): modalidade de loteamento cujo controle de acesso será regulamentado por <b>ato do Poder Público municipal</b>, sendo vedado o impedimento de acesso a pedestres ou a condutores de veículos, não residentes, devidamente identificados ou cadastrados. Nos loteamentos, as vias e áreas públicas passam ao <b>Município</b>; no condomínio de lotes, permanecem <b>privadas</b>.</li><li><b>Onde não se pode parcelar</b> (art. 3º): somente será admitido o parcelamento do solo para fins urbanos em <b>zonas urbanas</b>, de <b>expansão urbana</b> ou de <b>urbanização específica</b>, assim definidas pelo plano diretor ou aprovadas por lei municipal. <b>Não</b> será permitido o parcelamento do solo (parágrafo único): I, em terrenos <b>alagadiços</b> e sujeitos a inundações, antes de tomadas as providências para assegurar o escoamento das águas; II, em terrenos que tenham sido <b>aterrados com material nocivo</b> à saúde pública, sem que sejam previamente saneados; III, em terrenos com <b>declividade igual ou superior a 30%</b>, salvo se atendidas exigências específicas das autoridades competentes; IV, em terrenos onde as <b>condições geológicas</b> não aconselham a edificação; V, em <b>áreas de preservação ecológica</b> ou naquelas onde a <b>poluição</b> impeça condições sanitárias suportáveis, até a sua correção.</li><li><b>Requisitos urbanísticos do loteamento</b> (art. 4º): I, as áreas destinadas a <b>sistemas de circulação</b>, a implantação de <b>equipamento urbano e comunitário</b>, bem como a <b>espaços livres de uso público</b>, serão <b>proporcionais à densidade</b> de ocupação prevista pelo plano diretor ou aprovada por lei municipal para a zona em que se situem; II, os lotes terão <b>área mínima de 125 m²</b> e <b>frente mínima de 5 metros</b>, salvo quando a legislação estadual ou municipal determinar maiores exigências, ou quando o loteamento se destinar a <b>urbanização específica</b> ou <b>edificação de conjuntos habitacionais de interesse social</b>, previamente aprovados pelos órgãos públicos competentes; III, ao longo das águas correntes e dormentes, as faixas não edificáveis devem respeitar a <b>lei municipal</b> que defina as faixas marginais em área urbana consolidada, nos termos do Código Florestal (redação da Lei 14.285/2021); III-A, ao longo das faixas de domínio público das <b>rodovias</b>, a reserva de faixa não edificável de, no mínimo, <b>15 metros</b> de cada lado (com possibilidade de redução por lei municipal até 5 metros, conforme a Lei 13.913/2019); IV, as vias de loteamento deverão articular-se com as vias adjacentes oficiais e harmonizar-se com a topografia local.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Desmembramento envolve abertura de novas vias</span><br>✅ <span class=\"certo\">Isso é <b>loteamento</b>; o desmembramento aproveita o <b>sistema viário existente</b></span></li><li>❌ <span class=\"banca\">O lote mínimo nacional é de 250 m²</span><br>✅ <span class=\"certo\">É de <b>125 m²</b> com frente mínima de <b>5 m</b>, salvo exigência maior local ou interesse social</span></li><li>❌ <span class=\"banca\">É vedado parcelar terreno com declividade de 25%</span><br>✅ <span class=\"certo\">A vedação é para declividade <b>igual ou superior a 30%</b>, salvo exigências específicas</span></li><li>❌ <span class=\"banca\">Pode-se parcelar para fins urbanos em zona rural sem previsão em lei municipal</span><br>✅ <span class=\"certo\">Só em zona <b>urbana, de expansão urbana ou de urbanização específica</b> definida no plano diretor ou em lei municipal</span></li></ol></div>\n<h3>18. Aprovação, registro e responsabilidades no loteamento</h3>\n<ul><li><b>Diretrizes e aprovação</b> (arts. 6º a 13): antes da elaboração do projeto, o interessado deve solicitar à <b>Prefeitura Municipal</b> que defina as <b>diretrizes</b> para o uso do solo, traçado dos lotes, sistema viário, espaços livres e áreas reservadas para equipamentos. O projeto é <b>aprovado pela Prefeitura Municipal</b> (art. 12). Caberá aos <b>Estados</b> o exame e a <b>anuência prévia</b> para a aprovação, pelos Municípios, de loteamento e desmembramento quando (art. 13): I, localizados em <b>áreas de interesse especial</b>, tais como as de proteção aos mananciais ou ao patrimônio cultural, histórico, paisagístico e arqueológico; II, o loteamento ou desmembramento localizar-se em <b>área limítrofe do Município</b>, ou que pertença a mais de um Município, nas regiões metropolitanas ou em aglomerações urbanas; III, o loteamento abranger área <b>superior a 1.000.000 m²</b>.</li><li><b>Registro</b> (art. 18): aprovado o projeto, o loteador deverá submetê-lo ao <b>registro imobiliário</b> dentro de <b>180 dias</b>, sob pena de <b>caducidade da aprovação</b>, acompanhado de documentos como título de propriedade, certidões, cronograma de execução das obras (com duração máxima de <b>4 anos</b>) e instrumento de garantia.</li><li><b>Áreas públicas</b> (art. 22): desde a data de <b>registro do loteamento</b>, passam a integrar o <b>domínio do Município</b> as vias e praças, os espaços livres e as áreas destinadas a edifícios públicos e outros equipamentos urbanos, constantes do projeto e do memorial descritivo. Essas áreas <b>não podem ter sua destinação alterada</b> pelo loteador desde a aprovação do loteamento (art. 17).</li><li><b>Venda antes do registro</b> (art. 37): é <b>vedado vender ou prometer vender</b> parcela de loteamento ou desmembramento <b>não registrado</b>.</li><li><b>Loteamento irregular ou clandestino</b> (art. 40): a <b>Prefeitura Municipal</b>, se desatendida pelo loteador a notificação, poderá <b>regularizar</b> loteamento ou desmembramento não autorizado ou executado sem observância das determinações do ato administrativo de licença, para evitar lesão aos seus padrões de desenvolvimento urbano e na defesa dos direitos dos adquirentes de lotes. O Município poderá cobrar do loteador as importâncias despendidas (§§ 1º e 2º). O <b>STJ</b> entende que se trata de <b>poder-dever</b> do Município: há <b>responsabilidade</b> do ente pela regularização, embora com prioridade de cobrança do loteador.</li><li><b>Crimes</b> (arts. 50 a 52): constitui <b>crime contra a Administração Pública</b> dar início, de qualquer modo, ou efetuar loteamento ou desmembramento do solo para fins urbanos <b>sem autorização</b> do órgão público competente, ou em desacordo com as disposições da lei; fazer ou veicular <b>afirmação falsa</b> sobre a legalidade de loteamento (pena de reclusão de 1 a 4 anos e multa). A pena é de reclusão de 1 a 5 anos e multa (forma <b>qualificada</b>) se o crime for cometido por meio de <b>venda, promessa de venda</b>, reserva de lote ou quaisquer outros instrumentos que manifestem a intenção de vender lote em loteamento <b>não registrado</b>, ou com inexistência de título legítimo de propriedade.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O loteamento é aprovado pelo órgão ambiental estadual</span><br>✅ <span class=\"certo\">É aprovado pela <b>Prefeitura Municipal</b>; o Estado dá <b>anuência prévia</b> só nas hipóteses do art. 13</span></li><li>❌ <span class=\"banca\">O loteador tem 1 ano para registrar o loteamento aprovado</span><br>✅ <span class=\"certo\">Tem <b>180 dias</b>, sob pena de <b>caducidade</b></span></li><li>❌ <span class=\"banca\">As praças do loteamento passam ao Município com a conclusão das obras</span><br>✅ <span class=\"certo\">Passam ao domínio do Município <b>desde o registro</b> do loteamento (art. 22)</span></li><li>❌ <span class=\"banca\">Vender lote em loteamento não registrado é mero ilícito civil</span><br>✅ <span class=\"certo\">É <b>crime</b> (art. 50, parágrafo único, forma qualificada)</span></li></ol></div>\n<h3>19. Regularização Fundiária Urbana (Reurb, Lei 13.465/2017)</h3>\n<ul><li><b>Conceito</b> (art. 9º): a <b>Reurb</b> abrange medidas <b>jurídicas, urbanísticas, ambientais e sociais</b> destinadas à incorporação dos <b>núcleos urbanos informais</b> ao ordenamento territorial urbano e à <b>titulação de seus ocupantes</b>. Os poderes públicos formularão e desenvolverão no espaço urbano as políticas de suas competências de acordo com os princípios de sustentabilidade econômica, social e ambiental e ordenação territorial, buscando a ocupação do solo de maneira eficiente, combinando seu uso de forma funcional.</li><li><b>Núcleo urbano informal</b> (art. 11): aquele <b>clandestino, irregular</b> ou no qual não foi possível realizar a titulação de seus ocupantes. <b>Núcleo urbano informal consolidado</b>: aquele de <b>difícil reversão</b>, considerados o tempo da ocupação, a natureza das edificações, a localização das vias de circulação e a presença de equipamentos públicos, entre outras circunstâncias a serem avaliadas pelo Município. A Reurb pode alcançar núcleos com <b>usos e características urbanas</b>, ainda que situados em <b>área rural</b> (art. 11, I).</li><li><b>Data-limite</b>: a legitimação fundiária e alguns benefícios aplicam-se aos núcleos urbanos informais <b>comprovadamente existentes até 22 de dezembro de 2016</b> (art. 9º, § 2º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Modalidade (art. 13)</th><th>Para quem</th><th>Custos</th></tr></thead><tbody><tr><td><b>Reurb-S</b> (interesse social)</td><td>núcleos ocupados predominantemente por <b>população de baixa renda</b>, assim declarados em ato do <b>Poder Executivo municipal</b></td><td><b>isenção</b> de custas e emolumentos dos atos registrais (§ 1º); o Poder Público custeia a infraestrutura essencial</td></tr><tr><td><b>Reurb-E</b> (interesse específico)</td><td>núcleos ocupados por população <b>não</b> qualificada como de baixa renda</td><td>os custos de infraestrutura e de regularização são dos <b>beneficiários</b> ou de quem os definir o Município (pode ser cobrado do loteador)</td></tr></tbody></table>\n<ul><li><b>Quem pode requerer</b> (art. 14): a <b>União</b>, os <b>Estados</b>, o <b>DF</b> e os <b>Municípios</b>, diretamente ou por meio de entidades da administração indireta; os seus <b>beneficiários</b>, individual ou coletivamente, diretamente ou por meio de cooperativas habitacionais, associações de moradores, fundações, organizações sociais, OSCIPs ou outras associações civis; os <b>proprietários</b> de imóveis ou de terrenos, <b>loteadores</b> ou incorporadores; a <b>Defensoria Pública</b>, em nome dos beneficiários hipossuficientes; e o <b>Ministério Público</b>. O requerimento pelos legitimados <b>não exime</b> os responsáveis pelo parcelamento irregular de suas responsabilidades administrativa, civil ou criminal (§ 2º).</li><li><b>Papel do Município</b>: é o Município quem <b>classifica</b> a modalidade (Reurb-S ou Reurb-E), <b>processa</b>, <b>aprova o projeto de regularização</b> e emite a <b>Certidão de Regularização Fundiária (CRF)</b>, que é o ato administrativo de aprovação da regularização, acompanhado do projeto aprovado e da listagem dos ocupantes, e que é levado a registro. A Reurb pode ser feita <b>independentemente</b> de lei municipal específica, e o Município pode dispensar exigências urbanísticas (lote mínimo, percentual de áreas públicas) para viabilizar a regularização (art. 11, § 1º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Reurb só alcança núcleos situados em zona urbana</span><br>✅ <span class=\"certo\">Alcança núcleos com <b>características urbanas</b>, ainda que em <b>área rural</b></span></li><li>❌ <span class=\"banca\">Na Reurb-S, os beneficiários pagam as custas e emolumentos do registro</span><br>✅ <span class=\"certo\">Há <b>isenção</b> de custas e emolumentos (art. 13, § 1º)</span></li><li>❌ <span class=\"banca\">O Ministério Público não pode requerer a Reurb</span><br>✅ <span class=\"certo\">É <b>legitimado</b> (art. 14, V)</span></li><li>❌ <span class=\"banca\">A instauração da Reurb isenta o loteador irregular de responsabilidade</span><br>✅ <span class=\"certo\"><b>Não</b> exime (art. 14, § 2º)</span></li></ol></div>\n<h3>20. Instrumentos da Reurb</h3>\n<ul><li><b>Legitimação fundiária</b> (art. 23): constitui <b>forma originária de aquisição do direito real de propriedade</b> conferido por ato do Poder Público, exclusivamente no âmbito da Reurb, àquele que detiver em <b>área pública</b> ou possuir em <b>área privada</b>, como sua, unidade imobiliária com destinação urbana, integrante de <b>núcleo urbano informal consolidado existente em 22 de dezembro de 2016</b>. Na <b>Reurb-S</b>, exige-se que o beneficiário: não seja concessionário, foreiro ou proprietário de outro imóvel urbano ou rural; não tenha sido contemplado com legitimação de posse ou fundiária de imóvel urbano com a mesma finalidade, ainda que situado em núcleo distinto; e, em caso de imóvel urbano com finalidade não residencial, seja reconhecido pelo Poder Público o interesse público de sua ocupação. Por ser <b>aquisição originária</b>, o beneficiário adquire a unidade <b>livre e desembaraçada</b> de quaisquer ônus, direitos reais, gravames ou inscrições, salvo quando disserem respeito ao próprio legitimado (§ 2º).</li><li><b>Imóveis públicos e legitimação fundiária</b>: a legitimação fundiária permite a <b>titulação em áreas públicas</b>, o que a diferencia da usucapião. Para a União, os Estados e os Municípios, a lei autorizou o reconhecimento da legitimação fundiária em favor dos ocupantes de seus imóveis no âmbito da Reurb-S (art. 23, § 4º).</li><li><b>Legitimação de posse</b> (arts. 25 a 27): é o instrumento de uso exclusivo para fins de regularização fundiária, constituído em <b>ato do Poder Público</b>, destinado a conferir <b>título de reconhecimento de posse</b> de imóvel objeto da Reurb, conversível em aquisição de direito real de propriedade, com a identificação de seus ocupantes, do tempo da ocupação e da natureza da posse. <b>Não se aplica aos imóveis urbanos situados em área de titularidade do poder público</b> (art. 25, § 2º). Sem prejuízo dos direitos decorrentes do exercício da posse mansa e pacífica no tempo, aquele em cujo favor for expedido título de legitimação de posse, decorrido o prazo de <b>5 anos</b> de seu registro, terá a <b>conversão automática</b> dele em <b>título de propriedade</b>, desde que atendidos os termos e as condições do <b>art. 183 da CF</b>, independentemente de prévia provocação ou prática de ato registral (art. 26).</li><li><b>Demarcação urbanística</b> (art. 19): procedimento destinado a identificar os imóveis públicos e privados abrangidos pelo núcleo urbano informal e a obter a <b>anuência</b> dos respectivos titulares de direitos inscritos na matrícula, mediante <b>notificação</b>; se não houver impugnação, a demarcação é averbada nas matrículas.</li><li><b>Outros instrumentos</b> (art. 15): usucapião, desapropriação em favor dos possuidores, arrecadação de bem vago, consórcio imobiliário, direito de preempção, transferência do direito de construir, <b>requisição</b> em caso de perigo público iminente, intervenção do poder público em parcelamento clandestino ou irregular, alienação de imóvel pela administração diretamente para seu detentor, CUEM, CDRU, doação, compra e venda, e o <b>direito real de laje</b>.</li><li><b>Reurb em APP</b> (art. 11, §§ 2º e 3º): constatada a existência de núcleo urbano informal situado, total ou parcialmente, em <b>área de preservação permanente</b>, em área de UC de uso sustentável ou de proteção de mananciais, será obrigatória a observância dos arts. 64 e 65 do Código Florestal, exigindo-se <b>estudos técnicos</b> que justifiquem as <b>melhorias ambientais</b> em relação à situação de ocupação informal anterior, inclusive por meio de compensações ambientais, quando for o caso. Áreas de <b>risco</b> que não possam ser eliminadas exigem a <b>realocação</b> dos ocupantes.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instrumento</th><th>Natureza</th><th>Imóvel público?</th><th>Prazo</th></tr></thead><tbody><tr><td><b>Legitimação fundiária</b></td><td>aquisição <b>originária</b> de propriedade por ato do Poder Público</td><td><b>sim</b></td><td>núcleos existentes até <b>22/12/2016</b></td></tr><tr><td><b>Legitimação de posse</b></td><td>título de <b>posse</b>, conversível em propriedade</td><td><b>não</b></td><td>conversão automática após <b>5 anos</b> do registro, cumprido o art. 183</td></tr><tr><td><b>Usucapião especial urbana</b></td><td>aquisição originária por sentença (ou extrajudicial)</td><td><b>não</b></td><td>5 anos de posse</td></tr><tr><td><b>CUEM</b></td><td>direito real de uso</td><td><b>sim</b> (só público)</td><td>posse de 5 anos até 22/12/2016</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A legitimação de posse se aplica a imóveis públicos</span><br>✅ <span class=\"certo\"><b>Não</b> se aplica a área de titularidade do poder público (art. 25, § 2º)</span></li><li>❌ <span class=\"banca\">A legitimação fundiária é forma derivada de aquisição</span><br>✅ <span class=\"certo\">É forma <b>originária</b>, livre de ônus anteriores</span></li><li>❌ <span class=\"banca\">A legitimação de posse converte-se em propriedade após 10 anos</span><br>✅ <span class=\"certo\">Após <b>5 anos</b> do registro, automaticamente, cumprido o art. 183</span></li><li>❌ <span class=\"banca\">A Reurb é vedada em APP</span><br>✅ <span class=\"certo\">É admitida, com <b>estudos técnicos</b> que demonstrem <b>melhoria ambiental</b> (art. 11, § 2º)</span></li></ol></div>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Lei 13.465/2017 (ADIs 5.771, 5.787 e 5.883)</b><p class=\"jc-tese\">A Lei 13.465/2017 foi questionada no STF por partidos e pelo Procurador-Geral da República, que apontaram, entre outros pontos, a criação da legitimação fundiária em áreas públicas e o risco de <b>privatização de terras públicas</b> e de regularização de ocupações de alta renda. As ações tramitam conjuntamente.</p><p class=\"jc-com\">Até decisão do STF, a lei é <b>aplicável</b> e presume-se constitucional. Em provas objetivas, as bancas cobram a <b>letra da lei</b>: modalidades (Reurb-S e Reurb-E), legitimados, data de 22/12/2016, CRF, legitimação fundiária e de posse.</p></div>\n<h3>21. Casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O terreno vazio no centro</b><p>Um terreno de 5.000 m² no centro da cidade está vazio há 20 anos, enquanto o proprietário aguarda valorização. O Município, com mais de 20 mil habitantes, quer obrigá-lo a construir. Como deve proceder?</p><details><summary>Ver a solução comentada</summary><p>O Município precisa de: (1) <b>plano diretor</b> que inclua a área e defina o aproveitamento mínimo; (2) <b>lei municipal específica</b> para a área, com condições e prazos. Depois, <b>notifica</b> o proprietário (por funcionário ou, após três tentativas frustradas, por edital) e <b>averba</b> a notificação. O proprietário tem no mínimo <b>1 ano</b> para protocolar o projeto e <b>2 anos</b> da aprovação para iniciar as obras. Descumpridos os prazos, aplica-se o <b>IPTU progressivo no tempo</b> por <b>5 anos</b> (alíquota de cada ano até o dobro da anterior, máximo de <b>15%</b>, vedada isenção ou anistia). Persistindo o descumprimento, cabe a <b>desapropriação</b> com <b>títulos da dívida pública</b> aprovados pelo Senado, resgatáveis em até <b>10 anos</b>, com indenização pela base de cálculo do IPTU, devendo o Município dar aproveitamento ao imóvel em <b>5 anos</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Construtora quer edificar acima do permitido</b><p>Uma construtora quer erguer um prédio com área construída de 4 vezes o terreno, mas o coeficiente básico da zona é 1 e o máximo é 3.</p><details><summary>Ver a solução comentada</summary><p>O direito de construir acima do <b>básico</b> (1) até o <b>máximo</b> (3) pode ser obtido mediante <b>outorga onerosa</b>, com pagamento da contrapartida prevista em lei municipal (arts. 28 a 31). Acima do coeficiente <b>máximo</b> (3), não é possível, nem pagando. A construtora pode também usar potencial adquirido por <b>transferência do direito de construir</b> (art. 35), se a lei municipal permitir o recebimento naquela zona, sempre respeitando o limite máximo.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A venda do imóvel em área de preempção</b><p>Lei municipal instituiu o direito de preempção sobre uma quadra para construir uma praça. O dono de um lote recebe proposta de R$ 300 mil e vende diretamente a um comprador por R$ 250 mil, sem notificar o Município.</p><details><summary>Ver a solução comentada</summary><p>A venda é <b>nula de pleno direito</b>, porque não houve notificação ao Município e porque, ainda que houvesse, a venda ocorreu em <b>condições diversas</b> da proposta (art. 27, § 5º). O Município pode adquirir o imóvel pelo valor da <b>base de cálculo do IPTU</b> ou pelo valor da proposta, <b>se este for inferior</b> (§ 6º). A preempção vale durante sua vigência (até 5 anos), independentemente do número de alienações.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Shopping center e vizinhança</b><p>Um shopping center será construído em bairro residencial. Os moradores temem trânsito e barulho. A lei municipal exige EIV para empreendimentos acima de 10 mil m². O empreendedor diz que já fez EIA no licenciamento ambiental estadual e que não precisa de EIV.</p><details><summary>Ver a solução comentada</summary><p>O <b>EIV não substitui o EIA</b> e vice-versa (art. 38). São exigências distintas: o EIA é do licenciamento ambiental; o EIV é condição para as <b>licenças municipais</b> de construção e funcionamento, previsto em <b>lei municipal</b> (art. 36). O EIV deve analisar, no mínimo, adensamento, equipamentos, uso do solo, valorização imobiliária, <b>mobilidade urbana, geração de tráfego e demanda por transporte público</b>, ventilação, iluminação e paisagem (art. 37). Os documentos ficam disponíveis para consulta de qualquer interessado.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Loteamento clandestino na periferia</b><p>Há 15 anos, um loteador vendeu lotes sem aprovação nem registro numa gleba às margens da cidade. Hoje há 300 famílias de baixa renda, sem rede de esgoto. O MP cobra providências do Município.</p><details><summary>Ver a solução comentada</summary><p>O loteador cometeu <b>crime</b> (Lei 6.766, art. 50, forma qualificada pela venda em loteamento não registrado). O Município tem o <b>poder-dever</b> de <b>regularizar</b> o loteamento (art. 40), podendo cobrar do loteador as despesas. O caminho é a <b>Reurb-S</b> (Lei 13.465/2017): o Município declara o interesse social, aprova o projeto de regularização (podendo flexibilizar parâmetros urbanísticos), implanta a infraestrutura essencial e emite a <b>CRF</b>, titulando os moradores por <b>legitimação fundiária</b> (núcleo consolidado existente em 22/12/2016), com <b>isenção</b> de custas e emolumentos. Se parte do núcleo estiver em <b>APP</b>, exige-se estudo técnico de <b>melhoria ambiental</b>; áreas de risco não elimináveis exigem <b>realocação</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Plano diretor desatualizado</b><p>O plano diretor de um Município de 40 mil habitantes foi aprovado em 2012 e nunca revisto. O MP ajuizou ação de improbidade contra o Prefeito.</p><details><summary>Ver a solução comentada</summary><p>O plano diretor deve ser revisto <b>pelo menos a cada 10 anos</b> (art. 40, § 3º), e deixar de tomar as providências para isso é hipótese de improbidade (art. 52, VII). Após a <b>Lei 14.230/2021</b>, porém, a condenação exige <b>dolo</b>: o MP precisa demonstrar que o Prefeito, deliberadamente, deixou de promover a revisão. A defesa pode demonstrar providências concretas (contratação de estudos, audiências, envio de projeto à Câmara).</p></details></div>\n<h3>22. Questões comentadas</h3>\n<ul><li><b>\"O plano diretor, aprovado pela Câmara Municipal, é obrigatório para cidades com mais de vinte mil habitantes.\"</b> Certo: CF, art. 182, § 1º.</li><li><b>\"A propriedade urbana cumpre sua função social quando atende às exigências fundamentais de ordenação da cidade expressas no plano diretor.\"</b> Certo: CF, art. 182, § 2º.</li><li><b>\"As desapropriações de imóveis urbanos serão feitas, em regra, com prévia e justa indenização em títulos da dívida pública.\"</b> Errado: em <b>dinheiro</b>; títulos só na desapropriação-sanção.</li><li><b>\"Lei municipal que fixa lote mínimo impede a usucapião especial urbana de área inferior.\"</b> Errado: Tema 815 do STF.</li><li><b>\"O IPTU progressivo no tempo terá alíquota máxima de 15%.\"</b> Certo: art. 7º, § 1º.</li><li><b>\"Na desapropriação-sanção, os títulos da dívida pública serão resgatados em até 20 anos.\"</b> Errado: até <b>10 anos</b>.</li><li><b>\"O direito de preempção confere ao Poder Público municipal preferência para aquisição de imóvel urbano objeto de alienação onerosa entre particulares.\"</b> Certo: art. 25.</li><li><b>\"A elaboração do EIV substitui a elaboração do EIA.\"</b> Errado: art. 38.</li><li><b>\"A lei que instituir o plano diretor deverá ser revista, pelo menos, a cada dez anos.\"</b> Certo: art. 40, § 3º.</li><li><b>\"O plano diretor deverá englobar apenas a área urbana do Município.\"</b> Errado: o território <b>como um todo</b>.</li><li><b>\"Os lotes terão área mínima de 125 m² e frente mínima de 5 metros, salvo exigência maior ou urbanização específica ou conjunto habitacional de interesse social.\"</b> Certo: Lei 6.766, art. 4º, II.</li><li><b>\"A legitimação fundiária é forma originária de aquisição da propriedade.\"</b> Certo: Lei 13.465, art. 23.</li><li><b>\"A Lei 14.489/2022 vedou o emprego de técnicas construtivas hostis em espaços livres de uso público.\"</b> Certo: Estatuto, art. 2º, XX.</li></ul>\n<h3>23. Como as bancas cobram este tópico</h3>\n<ul><li><b>Números</b>: 20 mil habitantes; 250 m²; 5 anos; 1 e 2 anos (PEUC); 5 anos, dobro e 15% (IPTU progressivo); 10 anos e 6% ao ano (títulos); 5 anos (aproveitamento e preempção); 30 dias (preempção); 10 anos (revisão do plano diretor); 500 mil habitantes (plano de transporte); 125 m² e 5 m (lote); 30% (declividade); 180 dias (registro); 1.000.000 m² (anuência estadual); 22/12/2016 (Reurb).</li><li><b>Sequência das sanções</b> do art. 182, § 4º, e seus requisitos (plano diretor + lei específica + lei federal).</li><li><b>Diferenças</b>: loteamento x desmembramento; EIA x EIV; superfície no Estatuto x no Código Civil; legitimação fundiária x legitimação de posse; usucapião x CUEM; preempção x desapropriação.</li><li><b>Jurisprudência</b>: Tema 815 (usucapião e lote mínimo), Tema 348 (leis específicas compatíveis com o plano diretor), RE 387.047 (outorga onerosa não é tributo), ADI 1.842 (governança metropolitana), Súmula 668 (IPTU progressivo).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Sequência do art. 182, § 4º: <b>\"Parcela, Paga, Perde\"</b>: primeiro o proprietário é obrigado a <b>parcelar/edificar</b>; se não cumprir, <b>paga</b> IPTU progressivo por 5 anos; se ainda não cumprir, <b>perde</b> o imóvel por desapropriação com títulos.</div>",
+"quiz": [
+{
+"p": "A política de desenvolvimento urbano é executada pelo Poder Público municipal, conforme diretrizes gerais fixadas em lei.",
+"c": true,
+"prof": "CF, art. 182.",
+"x": "Município.",
+"e": "Política urbana"
+},
+{
+"p": "Legislar sobre direito urbanístico é competência privativa da União.",
+"c": false,
+"prof": "CF, art. 24, I.",
+"x": "Concorrente.",
+"e": "Competência"
+},
+{
+"p": "Compete aos Municípios promover adequado ordenamento territorial, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano.",
+"c": true,
+"prof": "CF, art. 30, VIII.",
+"x": "Município.",
+"e": "Competência"
+},
+{
+"p": "Compete à União instituir diretrizes para o desenvolvimento urbano, inclusive habitação, saneamento básico e transportes urbanos.",
+"c": true,
+"prof": "CF, art. 21, XX.",
+"x": "União.",
+"e": "Competência"
+},
+{
+"p": "Os Estados podem instituir regiões metropolitanas por lei complementar.",
+"c": true,
+"prof": "CF, art. 25, § 3º.",
+"x": "Estados.",
+"e": "Metropolitana"
+},
+{
+"p": "O plano diretor é obrigatório para cidades com mais de vinte mil habitantes.",
+"c": true,
+"prof": "CF, art. 182, § 1º.",
+"x": "20 mil.",
+"e": "Plano diretor"
+},
+{
+"p": "A propriedade urbana cumpre sua função social quando atende às exigências fundamentais de ordenação da cidade expressas no plano diretor.",
+"c": true,
+"prof": "CF, art. 182, § 2º.",
+"x": "Função social.",
+"e": "Função social"
+},
+{
+"p": "As desapropriações comuns de imóveis urbanos são pagas com títulos da dívida pública.",
+"c": false,
+"prof": "CF, art. 182, § 3º.",
+"x": "Dinheiro.",
+"e": "Desapropriação"
+},
+{
+"p": "As sanções do art. 182, § 4º, da Constituição são aplicadas sucessivamente.",
+"c": true,
+"prof": "CF, art. 182, § 4º.",
+"x": "Sucessivas.",
+"e": "Sanções"
+},
+{
+"p": "Na desapropriação-sanção urbana, os títulos da dívida pública têm emissão previamente aprovada pelo Senado e prazo de resgate de até dez anos.",
+"c": true,
+"prof": "CF, art. 182, § 4º, III.",
+"x": "10 anos.",
+"e": "Títulos"
+},
+{
+"p": "A usucapião especial urbana exige posse de área urbana de até 250 m² por cinco anos, ininterruptamente e sem oposição, para moradia.",
+"c": true,
+"prof": "CF, art. 183.",
+"x": "Requisitos.",
+"e": "Usucapião"
+},
+{
+"p": "A usucapião especial urbana pode ser reconhecida ao mesmo possuidor mais de uma vez.",
+"c": false,
+"prof": "CF, art. 183, § 2º.",
+"x": "Uma vez.",
+"e": "Usucapião"
+},
+{
+"p": "Segundo o STF, lei municipal que estabelece lote mínimo não impede a usucapião especial urbana.",
+"c": true,
+"prof": "Tema 815.",
+"x": "RE 422.349.",
+"e": "Lote mínimo"
+},
+{
+"p": "Imóveis públicos podem ser adquiridos por usucapião especial urbana.",
+"c": false,
+"prof": "CF, art. 183, § 3º.",
+"x": "Vedado.",
+"e": "Bens públicos"
+},
+{
+"p": "O Estatuto da Cidade estabelece normas de ordem pública e interesse social.",
+"c": true,
+"prof": "Lei 10.257, art. 1º, parágrafo único.",
+"x": "Natureza.",
+"e": "Natureza"
+},
+{
+"p": "A garantia do direito a cidades sustentáveis é diretriz geral da política urbana.",
+"c": true,
+"prof": "Lei 10.257, art. 2º, I.",
+"x": "Diretriz.",
+"e": "Diretrizes"
+},
+{
+"p": "A recuperação dos investimentos do Poder Público de que tenha resultado a valorização de imóveis urbanos é diretriz da política urbana.",
+"c": true,
+"prof": "Lei 10.257, art. 2º, XI.",
+"x": "Diretriz.",
+"e": "Diretrizes"
+},
+{
+"p": "O Estatuto da Cidade veda o emprego de técnicas construtivas hostis destinadas a afastar pessoas em situação de rua dos espaços livres de uso público.",
+"c": true,
+"prof": "Lei 10.257, art. 2º, XX.",
+"x": "Lei 14.489/2022.",
+"e": "Arquitetura hostil"
+},
+{
+"p": "A Lei 15.432/2026 incluiu o reparcelamento do solo entre os instrumentos da política urbana.",
+"c": true,
+"prof": "Lei 10.257, art. 4º, V, v.",
+"x": "Marco do transporte.",
+"e": "Reparcelamento"
+},
+{
+"p": "O rol de instrumentos da política urbana do art. 4º do Estatuto da Cidade é taxativo.",
+"c": false,
+"prof": "Art. 4º.",
+"x": "Exemplificativo.",
+"e": "Instrumentos"
+},
+{
+"p": "A concessão de direito real de uso de imóveis públicos pode ser contratada coletivamente em programas habitacionais de interesse social.",
+"c": true,
+"prof": "Art. 4º, § 2º.",
+"x": "Coletiva.",
+"e": "CDRU"
+},
+{
+"p": "O parcelamento, edificação ou utilização compulsórios dependem de lei municipal específica para área incluída no plano diretor.",
+"c": true,
+"prof": "Art. 5º.",
+"x": "Lei específica.",
+"e": "PEUC"
+},
+{
+"p": "Considera-se subutilizado o imóvel cujo aproveitamento seja inferior ao mínimo definido no plano diretor ou em legislação dele decorrente.",
+"c": true,
+"prof": "Art. 5º, § 1º.",
+"x": "Subutilizado.",
+"e": "PEUC"
+},
+{
+"p": "A notificação do proprietário para o PEUC deve ser averbada no cartório de registro de imóveis.",
+"c": true,
+"prof": "Art. 5º, § 2º.",
+"x": "Averbação.",
+"e": "Notificação"
+},
+{
+"p": "A notificação por edital ocorre quando frustrada, por três vezes, a tentativa de notificação pessoal.",
+"c": true,
+"prof": "Art. 5º, § 3º, II.",
+"x": "Três vezes.",
+"e": "Edital"
+},
+{
+"p": "O prazo mínimo para o protocolo do projeto, a partir da notificação, é de seis meses.",
+"c": false,
+"prof": "Art. 5º, § 4º, I.",
+"x": "Um ano.",
+"e": "Prazos"
+},
+{
+"p": "O prazo para iniciar as obras não pode ser inferior a dois anos a partir da aprovação do projeto.",
+"c": true,
+"prof": "Art. 5º, § 4º, II.",
+"x": "Dois anos.",
+"e": "Prazos"
+},
+{
+"p": "A transmissão do imóvel após a notificação transfere as obrigações de parcelamento, edificação ou utilização, sem interrupção dos prazos.",
+"c": true,
+"prof": "Art. 6º.",
+"x": "Transmissão.",
+"e": "Transmissão"
+},
+{
+"p": "O IPTU progressivo no tempo é aplicado pelo prazo de cinco anos consecutivos.",
+"c": true,
+"prof": "Art. 7º.",
+"x": "5 anos.",
+"e": "IPTU"
+},
+{
+"p": "A alíquota do IPTU progressivo no tempo não excederá duas vezes a do ano anterior, respeitada a máxima de 15%.",
+"c": true,
+"prof": "Art. 7º, § 1º.",
+"x": "15%.",
+"e": "IPTU"
+},
+{
+"p": "O Município pode conceder anistia relativa ao IPTU progressivo no tempo.",
+"c": false,
+"prof": "Art. 7º, § 3º.",
+"x": "Vedada.",
+"e": "Anistia"
+},
+{
+"p": "Os títulos da desapropriação-sanção serão resgatados em até dez anos, com juros legais de seis por cento ao ano.",
+"c": true,
+"prof": "Art. 8º, § 1º.",
+"x": "6% ao ano.",
+"e": "Títulos"
+},
+{
+"p": "O valor da indenização na desapropriação-sanção inclui lucros cessantes e juros compensatórios.",
+"c": false,
+"prof": "Art. 8º, § 2º, II.",
+"x": "Não computa.",
+"e": "Indenização"
+},
+{
+"p": "O Município deve dar adequado aproveitamento ao imóvel desapropriado no prazo máximo de cinco anos.",
+"c": true,
+"prof": "Art. 8º, § 4º.",
+"x": "5 anos.",
+"e": "Aproveitamento"
+},
+{
+"p": "A usucapião especial coletiva alcança núcleos urbanos informais cuja área total dividida pelo número de possuidores seja inferior a 250 m² por possuidor.",
+"c": true,
+"prof": "Art. 10.",
+"x": "Coletiva.",
+"e": "Coletiva"
+},
+{
+"p": "Na usucapião coletiva, o juiz atribui a cada possuidor fração proporcional à área que ocupa, vedado acordo em contrário.",
+"c": false,
+"prof": "Art. 10, § 3º.",
+"x": "Igual fração, salvo acordo.",
+"e": "Fração"
+},
+{
+"p": "O condomínio especial da usucapião coletiva é indivisível, salvo deliberação de dois terços dos condôminos para urbanização posterior.",
+"c": true,
+"prof": "Art. 10, § 4º.",
+"x": "2/3.",
+"e": "Condomínio"
+},
+{
+"p": "A associação de moradores pode propor ação de usucapião especial urbana como substituta processual, se explicitamente autorizada.",
+"c": true,
+"prof": "Art. 12, III.",
+"x": "Substituta.",
+"e": "Legitimidade"
+},
+{
+"p": "É obrigatória a intervenção do Ministério Público na ação de usucapião especial urbana.",
+"c": true,
+"prof": "Art. 12, § 1º.",
+"x": "MP.",
+"e": "MP"
+},
+{
+"p": "A usucapião especial urbana pode ser invocada como matéria de defesa.",
+"c": true,
+"prof": "Art. 13.",
+"x": "Defesa.",
+"e": "Defesa"
+},
+{
+"p": "A concessão de uso especial para fins de moradia aplica-se a imóveis públicos.",
+"c": true,
+"prof": "MP 2.220/2001.",
+"x": "CUEM.",
+"e": "CUEM"
+},
+{
+"p": "O direito de superfície do Estatuto da Cidade pode ser concedido por tempo determinado ou indeterminado.",
+"c": true,
+"prof": "Art. 21.",
+"x": "Prazo.",
+"e": "Superfície"
+},
+{
+"p": "O direito de superfície do Estatuto da Cidade abrange o solo, o subsolo e o espaço aéreo.",
+"c": true,
+"prof": "Art. 21, § 1º.",
+"x": "Abrangência.",
+"e": "Superfície"
+},
+{
+"p": "O direito de preempção confere ao Município preferência para adquirir imóvel urbano objeto de alienação onerosa entre particulares.",
+"c": true,
+"prof": "Art. 25.",
+"x": "Preempção.",
+"e": "Preempção"
+},
+{
+"p": "O prazo de vigência do direito de preempção pode chegar a dez anos.",
+"c": false,
+"prof": "Art. 25, § 1º.",
+"x": "Até 5 anos.",
+"e": "Preempção"
+},
+{
+"p": "O direito de preempção fica assegurado durante a vigência, independentemente do número de alienações do imóvel.",
+"c": true,
+"prof": "Art. 25, § 2º.",
+"x": "Todas as alienações.",
+"e": "Preempção"
+},
+{
+"p": "O Município tem trinta dias para manifestar interesse na compra do imóvel sujeito à preempção.",
+"c": true,
+"prof": "Art. 27.",
+"x": "30 dias.",
+"e": "Prazo"
+},
+{
+"p": "A alienação em condições diversas da proposta apresentada ao Município na preempção é nula de pleno direito.",
+"c": true,
+"prof": "Art. 27, § 5º.",
+"x": "Nula.",
+"e": "Nulidade"
+},
+{
+"p": "Coeficiente de aproveitamento é a relação entre a área edificável e a área do terreno.",
+"c": true,
+"prof": "Art. 28, § 1º.",
+"x": "Coeficiente.",
+"e": "Coeficiente"
+},
+{
+"p": "Segundo o STF, a contrapartida da outorga onerosa do direito de construir não tem natureza tributária.",
+"c": true,
+"prof": "RE 387.047.",
+"x": "Solo criado.",
+"e": "Outorga"
+},
+{
+"p": "Os recursos da operação urbana consorciada devem ser aplicados exclusivamente na própria operação.",
+"c": true,
+"prof": "Art. 33, § 1º.",
+"x": "Exclusividade.",
+"e": "OUC"
+},
+{
+"p": "Os CEPACs são conversíveis em direito de construir unicamente na área objeto da operação.",
+"c": true,
+"prof": "Art. 34, § 1º.",
+"x": "CEPAC.",
+"e": "CEPAC"
+},
+{
+"p": "A transferência do direito de construir pode ser autorizada para imóvel considerado de interesse histórico ou ambiental.",
+"c": true,
+"prof": "Art. 35, II.",
+"x": "TDC.",
+"e": "TDC"
+},
+{
+"p": "Lei municipal definirá os empreendimentos em área urbana que dependerão de EIV.",
+"c": true,
+"prof": "Art. 36.",
+"x": "Lei municipal.",
+"e": "EIV"
+},
+{
+"p": "Após a Lei 14.849/2024, o EIV deve analisar mobilidade urbana, geração de tráfego e demanda por transporte público.",
+"c": true,
+"prof": "Art. 37, V.",
+"x": "Mobilidade.",
+"e": "EIV"
+},
+{
+"p": "A elaboração do EIV substitui a do EIA.",
+"c": false,
+"prof": "Art. 38.",
+"x": "Não substitui.",
+"e": "EIV x EIA"
+},
+{
+"p": "O plano diretor deverá englobar o território do Município como um todo.",
+"c": true,
+"prof": "Art. 40, § 2º.",
+"x": "Todo o território.",
+"e": "Plano diretor"
+},
+{
+"p": "A lei que instituir o plano diretor deverá ser revista, pelo menos, a cada dez anos.",
+"c": true,
+"prof": "Art. 40, § 3º.",
+"x": "10 anos.",
+"e": "Revisão"
+},
+{
+"p": "O plano diretor é obrigatório para Municípios integrantes de áreas de especial interesse turístico.",
+"c": true,
+"prof": "Art. 41, IV.",
+"x": "Turismo.",
+"e": "Obrigatoriedade"
+},
+{
+"p": "Cidades com mais de 500 mil habitantes devem elaborar plano de transporte urbano integrado.",
+"c": true,
+"prof": "Art. 41, § 2º.",
+"x": "500 mil.",
+"e": "Transporte"
+},
+{
+"p": "Segundo o STF, Municípios com mais de 20 mil habitantes podem editar leis sobre projetos específicos de ordenamento urbano compatíveis com o plano diretor.",
+"c": true,
+"prof": "Tema 348.",
+"x": "RE 607.940.",
+"e": "Leis específicas"
+},
+{
+"p": "Os debates e audiências sobre as propostas orçamentárias são condição obrigatória para sua aprovação pela Câmara Municipal.",
+"c": true,
+"prof": "Art. 44.",
+"x": "Gestão participativa.",
+"e": "Orçamento"
+},
+{
+"p": "No consórcio imobiliário, o proprietário transfere o imóvel ao Município e recebe unidades imobiliárias urbanizadas ou edificadas.",
+"c": true,
+"prof": "Art. 46, § 1º.",
+"x": "Consórcio.",
+"e": "Consórcio"
+},
+{
+"p": "Incorre em improbidade o Prefeito que aplica os recursos da outorga onerosa em desacordo com o Estatuto da Cidade.",
+"c": true,
+"prof": "Art. 52, IV.",
+"x": "Improbidade.",
+"e": "Improbidade"
+},
+{
+"p": "Loteamento é a subdivisão de gleba em lotes com abertura de novas vias de circulação.",
+"c": true,
+"prof": "Lei 6.766, art. 2º, § 1º.",
+"x": "Loteamento.",
+"e": "Loteamento"
+},
+{
+"p": "Desmembramento é a subdivisão de gleba com abertura de novas vias de circulação.",
+"c": false,
+"prof": "Lei 6.766, art. 2º, § 2º.",
+"x": "Aproveita vias existentes.",
+"e": "Desmembramento"
+},
+{
+"p": "A infraestrutura básica dos parcelamentos inclui escoamento de águas pluviais, iluminação pública, esgotamento sanitário, água potável, energia elétrica e vias de circulação.",
+"c": true,
+"prof": "Lei 6.766, art. 2º, § 5º.",
+"x": "Infraestrutura.",
+"e": "Infraestrutura"
+},
+{
+"p": "Não é permitido o parcelamento do solo em terrenos com declividade igual ou superior a 30%, salvo se atendidas exigências específicas.",
+"c": true,
+"prof": "Lei 6.766, art. 3º, III.",
+"x": "30%.",
+"e": "Declividade"
+},
+{
+"p": "Os lotes terão área mínima de 125 m² e frente mínima de 5 metros, salvo exceções legais.",
+"c": true,
+"prof": "Lei 6.766, art. 4º, II.",
+"x": "125 m².",
+"e": "Lote mínimo"
+},
+{
+"p": "O projeto de loteamento é aprovado pela Prefeitura Municipal.",
+"c": true,
+"prof": "Lei 6.766, art. 12.",
+"x": "Prefeitura.",
+"e": "Aprovação"
+},
+{
+"p": "Cabe aos Estados a anuência prévia para loteamento que abranja área superior a 1.000.000 m².",
+"c": true,
+"prof": "Lei 6.766, art. 13, III.",
+"x": "Estado.",
+"e": "Anuência"
+},
+{
+"p": "O loteamento aprovado deve ser registrado em 180 dias, sob pena de caducidade da aprovação.",
+"c": true,
+"prof": "Lei 6.766, art. 18.",
+"x": "180 dias.",
+"e": "Registro"
+},
+{
+"p": "Desde o registro do loteamento, passam ao domínio do Município as vias, praças e espaços livres do projeto.",
+"c": true,
+"prof": "Lei 6.766, art. 22.",
+"x": "Domínio público.",
+"e": "Áreas públicas"
+},
+{
+"p": "É vedado vender ou prometer vender parcela de loteamento não registrado.",
+"c": true,
+"prof": "Lei 6.766, art. 37.",
+"x": "Vedação.",
+"e": "Venda"
+},
+{
+"p": "A Prefeitura pode regularizar loteamento não autorizado, cobrando do loteador as despesas.",
+"c": true,
+"prof": "Lei 6.766, art. 40.",
+"x": "Regularização.",
+"e": "Art. 40"
+},
+{
+"p": "Efetuar loteamento sem autorização do órgão público competente é crime contra a Administração Pública.",
+"c": true,
+"prof": "Lei 6.766, art. 50.",
+"x": "Crime.",
+"e": "Crime"
+},
+{
+"p": "A Reurb-S aplica-se a núcleos ocupados predominantemente por população de baixa renda, assim declarados pelo Poder Executivo municipal.",
+"c": true,
+"prof": "Lei 13.465, art. 13, I.",
+"x": "Reurb-S.",
+"e": "Reurb-S"
+},
+{
+"p": "Na Reurb-S, há isenção de custas e emolumentos dos atos registrais.",
+"c": true,
+"prof": "Lei 13.465, art. 13, § 1º.",
+"x": "Isenção.",
+"e": "Isenção"
+},
+{
+"p": "A Defensoria Pública e o Ministério Público são legitimados a requerer a Reurb.",
+"c": true,
+"prof": "Lei 13.465, art. 14.",
+"x": "Legitimados.",
+"e": "Legitimados"
+},
+{
+"p": "A legitimação fundiária é forma originária de aquisição do direito real de propriedade, conferida por ato do Poder Público no âmbito da Reurb.",
+"c": true,
+"prof": "Lei 13.465, art. 23.",
+"x": "Originária.",
+"e": "Legitimação fundiária"
+},
+{
+"p": "A legitimação fundiária alcança núcleos urbanos informais consolidados existentes em 22 de dezembro de 2016.",
+"c": true,
+"prof": "Lei 13.465, art. 23.",
+"x": "Data.",
+"e": "Data"
+},
+{
+"p": "A legitimação de posse aplica-se a imóveis de titularidade do poder público.",
+"c": false,
+"prof": "Lei 13.465, art. 25, § 2º.",
+"x": "Não se aplica.",
+"e": "Legitimação de posse"
+},
+{
+"p": "O título de legitimação de posse converte-se automaticamente em propriedade após 5 anos do registro, atendidos os requisitos do art. 183 da CF.",
+"c": true,
+"prof": "Lei 13.465, art. 26.",
+"x": "5 anos.",
+"e": "Conversão"
+},
+{
+"p": "A Reurb pode alcançar núcleos com características urbanas situados em área rural.",
+"c": true,
+"prof": "Lei 13.465, art. 11, I.",
+"x": "Área rural.",
+"e": "Abrangência"
+},
+{
+"p": "A Reurb em APP exige estudos técnicos que justifiquem as melhorias ambientais em relação à situação anterior.",
+"c": true,
+"prof": "Lei 13.465, art. 11, § 2º.",
+"x": "APP.",
+"e": "Reurb em APP"
+},
+{
+"p": "O direito real de laje permite ao proprietário da construção-base ceder a superfície superior ou inferior para unidade distinta.",
+"c": true,
+"prof": "CC, art. 1.510-A.",
+"x": "Laje.",
+"e": "Laje"
+},
+{
+"p": "Segundo a Constituição, o plano diretor é",
+"alts": [
+"facultativo para todos os Municípios",
+"obrigatório para cidades com 10 mil habitantes ou mais",
+"aprovado pela Câmara Municipal e obrigatório para cidades com mais de vinte mil habitantes",
+"aprovado por decreto do Prefeito",
+"obrigatório só para capitais"
+],
+"r": 2,
+"x": "CF, art. 182, § 1º.",
+"n": [
+"Não.",
+"20 mil.",
+"Correta.",
+"Lei.",
+"Não."
+],
+"e": "Plano diretor."
+},
+{
+"p": "As sanções que o Município pode aplicar ao proprietário de solo urbano não edificado, subutilizado ou não utilizado, nos termos do art. 182, § 4º, da CF, são, sucessivamente:",
+"alts": [
+"desapropriação, IPTU progressivo e parcelamento",
+"IPTU progressivo, desapropriação e multa",
+"parcelamento ou edificação compulsórios, IPTU progressivo no tempo e desapropriação com títulos da dívida pública",
+"multa, embargo e demolição",
+"confisco e leilão"
+],
+"r": 2,
+"x": "CF, art. 182, § 4º.",
+"n": [
+"Ordem invertida.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Sanções."
+},
+{
+"p": "Quanto ao IPTU progressivo no tempo previsto no Estatuto da Cidade, é correto afirmar:",
+"alts": [
+"tem alíquota máxima de 20%",
+"pode ser objeto de anistia",
+"é aplicado por cinco anos consecutivos, com alíquota que não excede o dobro da anterior e máximo de 15%",
+"depende apenas de decreto",
+"é aplicado antes da notificação do proprietário"
+],
+"r": 2,
+"x": "Art. 7º.",
+"n": [
+"15%.",
+"Vedada.",
+"Correta.",
+"Lei específica.",
+"Depois do PEUC."
+],
+"e": "IPTU."
+},
+{
+"p": "Na desapropriação com pagamento em títulos da dívida pública prevista no Estatuto da Cidade,",
+"alts": [
+"os títulos são resgatados em até 20 anos",
+"o valor da indenização reflete a base de cálculo do IPTU e não computa lucros cessantes",
+"a indenização é paga previamente em dinheiro",
+"não é necessária aprovação do Senado",
+"o Município não tem prazo para aproveitar o imóvel"
+],
+"r": 1,
+"x": "Art. 8º.",
+"n": [
+"10 anos.",
+"Correta.",
+"Títulos.",
+"Exige.",
+"5 anos."
+],
+"e": "Desapropriação-sanção."
+},
+{
+"p": "Segundo o STF (Tema 815), a usucapião especial urbana",
+"alts": [
+"depende de o imóvel respeitar o lote mínimo municipal",
+"não pode ser obstada por lei que estabeleça módulos urbanos (dimensão do lote)",
+"alcança imóveis públicos",
+"exige justo título",
+"só pode ser declarada em ação coletiva"
+],
+"r": 1,
+"x": "RE 422.349.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Tema 815."
+},
+{
+"p": "Na usucapião especial urbana coletiva, segundo o Estatuto da Cidade,",
+"alts": [
+"cada possuidor recebe fração proporcional à área ocupada, sem possibilidade de acordo",
+"o condomínio pode ser extinto por maioria simples",
+"o juiz atribui igual fração ideal a cada possuidor, salvo acordo escrito entre os condôminos",
+"a associação de moradores não tem legitimidade",
+"o MP não intervém"
+],
+"r": 2,
+"x": "Art. 10, §§ 3º e 4º; art. 12.",
+"n": [
+"Igual, salvo acordo.",
+"2/3.",
+"Correta.",
+"Tem, como substituta.",
+"Obrigatória."
+],
+"e": "Coletiva."
+},
+{
+"p": "O direito de preempção previsto no Estatuto da Cidade",
+"alts": [
+"incide sobre doações",
+"tem vigência de até 10 anos",
+"confere ao Município preferência na aquisição de imóvel urbano objeto de alienação onerosa entre particulares, nas áreas delimitadas em lei municipal baseada no plano diretor",
+"dispensa lei municipal",
+"permite ao Município pagar sempre o valor venal"
+],
+"r": 2,
+"x": "Art. 25.",
+"n": [
+"Onerosa.",
+"Até 5 anos.",
+"Correta.",
+"Exige lei.",
+"Só na venda irregular."
+],
+"e": "Preempção."
+},
+{
+"p": "Segundo o Estatuto da Cidade, o EIV",
+"alts": [
+"substitui o EIA",
+"é exigido por lei federal para todos os empreendimentos",
+"é exigido para os empreendimentos definidos em lei municipal e não substitui o EIA",
+"é sigiloso",
+"só analisa a valorização imobiliária"
+],
+"r": 2,
+"x": "Arts. 36 a 38.",
+"n": [
+"Não substitui.",
+"Lei municipal.",
+"Correta.",
+"Público.",
+"Conteúdo mínimo amplo."
+],
+"e": "EIV."
+},
+{
+"p": "Assinale a alternativa INCORRETA sobre o plano diretor no Estatuto da Cidade.",
+"alts": [
+"deve englobar o território do Município como um todo",
+"deve ser revisto pelo menos a cada dez anos",
+"é obrigatório para cidades integrantes de áreas de especial interesse turístico",
+"sua elaboração exige audiências públicas",
+"deve abranger exclusivamente a zona urbana"
+],
+"r": 4,
+"x": "Arts. 40 e 41.",
+"n": [
+"Correta.",
+"Correta.",
+"Correta.",
+"Correta.",
+"Incorreta: todo o território."
+],
+"e": "Plano diretor."
+},
+{
+"p": "Segundo o STF, a contrapartida paga na outorga onerosa do direito de construir tem natureza de",
+"alts": [
+"taxa",
+"imposto",
+"contribuição de melhoria",
+"prestação não tributária",
+"multa"
+],
+"r": 3,
+"x": "RE 387.047.",
+"n": [
+"Não.",
+"Não.",
+"Não.",
+"Correta.",
+"Não."
+],
+"e": "Outorga."
+},
+{
+"p": "Segundo a Lei 6.766/1979, a subdivisão de gleba em lotes destinados a edificação, com aproveitamento do sistema viário existente, sem abertura de novas vias, é o",
+"alts": [
+"loteamento",
+"desmembramento",
+"condomínio edilício",
+"reparcelamento",
+"consórcio imobiliário"
+],
+"r": 1,
+"x": "Lei 6.766, art. 2º, § 2º.",
+"n": [
+"Abre vias.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Desmembramento."
+},
+{
+"p": "Não é permitido o parcelamento do solo para fins urbanos, segundo a Lei 6.766/1979, em terrenos",
+"alts": [
+"com declividade de 15%",
+"alagadiços e sujeitos a inundações, antes de tomadas as providências para assegurar o escoamento das águas",
+"situados em zona de expansão urbana",
+"com área superior a 10 hectares",
+"próximos a rodovias"
+],
+"r": 1,
+"x": "Lei 6.766, art. 3º, parágrafo único, I.",
+"n": [
+"Só a partir de 30%.",
+"Correta.",
+"Permitido.",
+"Não.",
+"Faixa não edificável, não vedação."
+],
+"e": "Vedações."
+},
+{
+"p": "Aprovado o projeto de loteamento, o loteador deverá submetê-lo ao registro imobiliário no prazo de",
+"alts": [
+"30 dias",
+"90 dias",
+"180 dias, sob pena de caducidade da aprovação",
+"1 ano",
+"2 anos"
+],
+"r": 2,
+"x": "Lei 6.766, art. 18.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Registro."
+},
+{
+"p": "Na Lei 13.465/2017, a legitimação fundiária",
+"alts": [
+"é forma derivada de aquisição da propriedade",
+"não pode recair sobre imóveis públicos",
+"é forma originária de aquisição da propriedade conferida por ato do Poder Público, no âmbito da Reurb, a ocupantes de núcleo informal consolidado existente em 22/12/2016",
+"exige sentença judicial",
+"depende de 10 anos de posse"
+],
+"r": 2,
+"x": "Lei 13.465, art. 23.",
+"n": [
+"Originária.",
+"Pode.",
+"Correta.",
+"Ato administrativo.",
+"Não."
+],
+"e": "Legitimação fundiária."
+},
+{
+"p": "Sobre a Reurb-S, é correto afirmar:",
+"alts": [
+"só pode ser requerida pelo Município",
+"aplica-se a núcleos ocupados predominantemente por população de baixa renda, declarados pelo Poder Executivo municipal, com isenção de custas e emolumentos registrais",
+"exige lei municipal específica para cada núcleo",
+"os beneficiários custeiam toda a infraestrutura",
+"é vedada em área rural"
+],
+"r": 1,
+"x": "Lei 13.465, arts. 13 e 14.",
+"n": [
+"Vários legitimados.",
+"Correta.",
+"Não.",
+"Poder Público.",
+"Admitida para núcleos com características urbanas."
+],
+"e": "Reurb-S."
+},
+{
+"p": "O direito de superfície previsto no Estatuto da Cidade",
+"alts": [
+"só pode ser por tempo determinado",
+"não abrange o subsolo",
+"pode ser concedido por tempo determinado ou indeterminado, abrangendo solo, subsolo e espaço aéreo",
+"é sempre gratuito",
+"dispensa escritura pública"
+],
+"r": 2,
+"x": "Art. 21.",
+"n": [
+"Não.",
+"Abrange.",
+"Correta.",
+"Gratuito ou oneroso.",
+"Exige escritura."
+],
+"e": "Superfície."
+},
+{
+"p": "Incorre em improbidade administrativa, nos termos do art. 52 do Estatuto da Cidade, o Prefeito que",
+"alts": [
+"aprova o plano diretor",
+"deixa de tomar as providências para a revisão do plano diretor a cada dez anos",
+"aplica IPTU progressivo",
+"institui a preempção por lei",
+"exige EIV de shopping center"
+],
+"r": 1,
+"x": "Art. 52, VII.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Improbidade."
+},
+{
+"p": "Os recursos obtidos pelo Poder Público municipal com a operação urbana consorciada",
+"alts": [
+"integram o caixa único do Município",
+"serão aplicados exclusivamente na própria operação urbana consorciada",
+"podem pagar a folha de servidores",
+"vão para o Estado",
+"são transferidos à União"
+],
+"r": 1,
+"x": "Art. 33, § 1º.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "OUC."
+}
+]
+}
+},
 "portugues": {
 "interpretacao": {
 "html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>erros clássicos de leitura (extrapolação, redução e contradição)</span></div><div class=\"lt-stat\"><b>2</b><span>níveis de leitura (compreensão e interpretação)</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de informação implícita (pressuposto e subentendido)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: toda resposta precisa estar autorizada pelo texto</span></div></div>\n<h3>1. Por que interpretação é a matéria que mais decide a prova</h3>\n<ul><li>Em quase todos os concursos, <b>interpretação de textos</b> é o assunto com <b>mais questões</b> de Língua Portuguesa, e as questões de gramática também vêm, muitas vezes, <b>ligadas a um texto</b> (\"no segundo parágrafo, a palavra X refere-se a...\"). Quem lê bem acerta mais <b>em todas as matérias</b>, porque também lê melhor os enunciados de Direito, as alternativas e as pegadinhas.</li><li>A boa notícia: interpretação <b>se treina</b>. Existe <b>método</b>: entender o que a banca pede, localizar a informação, separar o que o texto <b>diz</b> do que você <b>acha</b>, reconhecer os erros que as alternativas armam.</li></ul>\n<h3>2. Compreensão x interpretação</h3>\n<table class=\"tab\"><thead><tr><th>Nível</th><th>O que é</th><th>Comandos típicos</th></tr></thead><tbody><tr><td><b>Compreensão</b></td><td>entender o que o texto <b>diz explicitamente</b>: a informação está <b>escrita</b>, com essas ou outras palavras</td><td>\"<b>segundo</b> o texto\", \"<b>de acordo com</b> o autor\", \"o texto <b>informa</b> que\", \"o autor <b>afirma</b>\"</td></tr><tr><td><b>Interpretação</b></td><td>tirar <b>conclusões</b> a partir do texto: o que ele <b>permite deduzir</b>, sem estar escrito</td><td>\"<b>infere-se</b>\", \"<b>depreende-se</b>\", \"<b>conclui-se</b>\", \"o texto <b>sugere</b>\", \"<b>pode-se deduzir</b>\", \"<b>permite concluir</b>\"</td></tr></tbody></table>\n<ul><li><b>Compreensão</b> é como <b>localizar</b> um dado: a resposta certa costuma ser uma <b>paráfrase</b> (a mesma ideia, com outras palavras) de um trecho.</li><li><b>Interpretação</b> exige <b>raciocínio</b>, mas <b>dentro dos limites</b> do texto: a conclusão precisa ser <b>necessária</b> ou fortemente <b>autorizada</b> pelo que está escrito, e não apenas \"possível\" ou \"razoável\" no mundo real.</li><li><b>Regra de ouro</b>: a resposta deve ser <b>autorizada pelo texto</b>. Seu conhecimento de mundo ajuda a <b>entender</b>, mas não pode <b>substituir</b> o texto. Se a alternativa traz algo <b>verdadeiro na vida real</b>, mas que o texto <b>não diz nem permite concluir</b>, ela está <b>errada</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se a afirmação é verdadeira no mundo real, a alternativa está correta</span><br>✅ <span class=\"certo\">Só está correta se for <b>autorizada pelo texto</b></span></li><li>❌ <span class=\"banca\">\"Infere-se\" pede que o candidato localize uma frase copiada do texto</span><br>✅ <span class=\"certo\">\"Infere-se\" pede <b>conclusão implícita</b>, autorizada pelo texto</span></li><li>❌ <span class=\"banca\">\"Segundo o texto\" admite conclusões pessoais do leitor</span><br>✅ <span class=\"certo\">\"Segundo o texto\" pede o que o texto <b>diz</b> (compreensão)</span></li></ol></div>\n<h3>3. Os três erros clássicos das alternativas</h3>\n<table class=\"tab\"><thead><tr><th>Erro</th><th>O que a alternativa faz</th><th>Exemplo (texto: \"Muitos jovens brasileiros têm deixado a escola antes de concluir o ensino médio, sobretudo por necessidade de trabalhar.\")</th></tr></thead><tbody><tr><td><b>Extrapolação</b></td><td>vai <b>além</b> do texto: acrescenta informação, generaliza, exagera, conclui o que não dá para concluir</td><td>\"<b>Todos</b> os jovens brasileiros abandonam a escola\" ou \"O governo é o culpado pela evasão\" (o texto não fala em todos nem em culpa do governo)</td></tr><tr><td><b>Redução</b></td><td>fica <b>aquém</b> do texto: toma uma <b>parte</b> pelo todo, omite algo essencial, restringe</td><td>\"O texto trata apenas da necessidade de trabalhar\" (o texto diz \"sobretudo\", o que indica que há outros motivos)</td></tr><tr><td><b>Contradição</b></td><td>diz o <b>contrário</b> do texto</td><td>\"Poucos jovens deixam a escola antes do ensino médio\" ou \"O trabalho não influencia a evasão\"</td></tr></tbody></table>\n<ul><li><b>Palavras de alerta</b> (costumam indicar <b>extrapolação</b> quando o texto não as autoriza): <b>sempre, nunca, todos, nenhum, apenas, somente, exclusivamente, necessariamente, certamente, o único, a maior, a principal</b>. Elas tornam a afirmação <b>absoluta</b>. Se o texto disse \"muitos\", \"frequentemente\", \"pode\", a alternativa com \"todos\", \"sempre\", \"deve\" <b>extrapola</b>.</li><li><b>Palavras que relativizam</b> (geralmente aparecem nas alternativas <b>corretas</b>, porque os textos costumam ser cuidadosos): <b>pode, parece, sugere, em geral, muitas vezes, alguns, tende a, provavelmente</b>.</li><li><b>Cuidado com o contrário</b>: nem toda alternativa com \"sempre\" está errada (se o texto disser \"sempre\", ela pode estar certa), e nem toda alternativa com \"pode\" está certa. A palavra <b>acende o alerta</b>; a <b>comparação com o texto</b> decide.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Alternativa com \"todos\" ou \"sempre\" está sempre errada</span><br>✅ <span class=\"certo\">As palavras <b>absolutas</b> são <b>alerta</b>, mas a alternativa pode estar certa se o <b>texto</b> também for absoluto</span></li><li>❌ <span class=\"banca\">Redução é acrescentar informação ao texto</span><br>✅ <span class=\"certo\">Acrescentar é <b>extrapolação</b>; <b>redução</b> é restringir, tomar a parte pelo todo</span></li></ol></div>\n<h3>4. Informação explícita e implícita: pressuposto e subentendido</h3>\n<ul><li><b>Explícita</b>: está <b>dita</b> no texto.</li><li><b>Implícita</b>: não está dita, mas é <b>transmitida</b>. Há dois tipos principais:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Definição</th><th>Exemplo</th><th>Característica</th></tr></thead><tbody><tr><td><b>Pressuposto</b></td><td>informação implícita <b>marcada na própria frase</b> por uma palavra ou construção; quem afirma a frase <b>aceita</b> essa informação</td><td>\"Paulo <b>parou de</b> fumar\" → pressupõe que Paulo <b>fumava</b></td><td>é <b>objetivo</b>: <b>não pode ser negado</b> sem contradição (\"Paulo parou de fumar, mas nunca fumou\" é absurdo)</td></tr><tr><td><b>Subentendido</b></td><td>insinuação que <b>depende do contexto</b> e da interpretação do ouvinte; não está marcada em palavra</td><td>\"Está calor aqui, não?\" (dito a quem está perto da janela fechada) → subentende-se um <b>pedido</b> para abrir a janela</td><td>é <b>subjetivo</b>: quem fala pode <b>negar</b> (\"Eu só comentei o tempo\")</td></tr></tbody></table>\n<ul><li><b>Marcadores de pressuposto</b> (muito cobrados): <b>verbos</b> que indicam mudança ou continuidade de estado (<b>parar de, deixar de, continuar, começar a, voltar a, tornar-se</b>): \"Ele <b>voltou a</b> estudar\" pressupõe que <b>estudava antes</b> e <b>parou</b>; <b>advérbios</b> como <b>ainda, já, também, até, só</b>: \"<b>Ainda</b> chove\" pressupõe que <b>chovia antes</b>; \"<b>Até</b> o diretor veio\" pressupõe que o diretor <b>não era esperado</b>; <b>adjetivos</b> e expressões: \"o <b>novo</b> chefe\" pressupõe um chefe <b>anterior</b>; <b>orações adjetivas</b> e <b>conectivos</b> que trazem informação dada como certa: \"O policial <b>que salvou a criança</b> foi homenageado\" pressupõe que <b>um policial salvou a criança</b>.</li><li><b>Por que importa</b>: as bancas perguntam \"a frase X <b>pressupõe</b> que...\" ou \"o emprego de 'ainda' indica que...\". O pressuposto é <b>seguro</b>: dá para afirmar com certeza. O subentendido é <b>inferência de contexto</b> e precisa ser muito bem amparado.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O subentendido não pode ser negado por quem fala</span><br>✅ <span class=\"certo\">Quem <b>não pode negar</b> é o <b>pressuposto</b>; o subentendido <b>pode</b> ser negado</span></li><li>❌ <span class=\"banca\">\"Ele deixou de beber\" não traz informação implícita</span><br>✅ <span class=\"certo\">Pressupõe que ele <b>bebia</b> antes</span></li><li>❌ <span class=\"banca\">\"Até o goleiro marcou gol\" pressupõe que o goleiro costuma marcar gols</span><br>✅ <span class=\"certo\">Pressupõe o <b>contrário</b>: que <b>não era esperado</b> que ele marcasse</span></li></ol></div>\n<h3>5. Tema, tese, ideia principal e argumentos</h3>\n<ul><li><b>Assunto</b> (ou tema amplo): <b>de que</b> o texto fala (ex.: segurança pública).</li><li><b>Tema</b> (recorte): o aspecto específico tratado (ex.: o uso de câmeras corporais por policiais).</li><li><b>Tese</b>: o <b>posicionamento</b> do autor sobre o tema, aquilo que ele <b>defende</b> (ex.: as câmeras corporais protegem tanto o cidadão quanto o policial e devem ser ampliadas). Só existe tese em textos <b>argumentativos</b> (dissertativo-argumentativos, artigos de opinião, editoriais, resenhas críticas).</li><li><b>Ideia principal</b> de um parágrafo: a ideia central que o parágrafo desenvolve, geralmente apresentada no <b>tópico frasal</b> (muitas vezes a <b>primeira frase</b>), seguida de explicações, exemplos e detalhes.</li><li><b>Argumentos</b>: as razões que sustentam a tese. <b>Tipos mais cobrados</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de argumento</th><th>Como funciona</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Autoridade</b></td><td>cita especialista, instituição, pesquisa reconhecida</td><td>\"Segundo estudo da universidade X...\"</td></tr><tr><td><b>Exemplificação / ilustração</b></td><td>usa casos concretos, fatos, narrativas</td><td>\"Na cidade X, após a medida, os roubos caíram\"</td></tr><tr><td><b>Dados estatísticos</b> (provas concretas)</td><td>números, porcentagens, índices</td><td>\"A taxa caiu 30% em dois anos\"</td></tr><tr><td><b>Causa e consequência</b></td><td>mostra o que provoca o quê</td><td>\"Como a iluminação melhorou, os assaltos diminuíram\"</td></tr><tr><td><b>Comparação / analogia</b></td><td>aproxima situações semelhantes</td><td>\"Assim como o cinto de segurança, a medida protege mesmo quem a critica\"</td></tr><tr><td><b>Senso comum / consenso</b></td><td>apoia-se no que todos aceitam</td><td>\"Ninguém duvida de que educação reduz a violência\" (argumento fraco se não comprovado)</td></tr><tr><td><b>Contra-argumentação (concessão e refutação)</b></td><td>reconhece a objeção e a rebate</td><td>\"<b>Embora</b> haja custos, os benefícios são maiores\"</td></tr></tbody></table>\n<ul><li><b>Concessão</b>: reconhecer parcialmente a posição contrária para depois <b>reforçar</b> a própria (conectivos <b>embora, ainda que, apesar de, mesmo que, conquanto</b>). A ideia <b>mais importante</b> costuma estar na oração <b>principal</b>, não na concessiva: em \"Embora caro, o projeto é necessário\", o autor <b>defende</b> o projeto.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo texto tem uma tese</span><br>✅ <span class=\"certo\">Só os textos <b>argumentativos</b>; narrativos e descritivos não defendem posição</span></li><li>❌ <span class=\"banca\">Em \"Embora seja caro, o projeto é necessário\", o autor critica o projeto</span><br>✅ <span class=\"certo\">O autor <b>defende</b> o projeto; a concessiva apenas reconhece o custo</span></li><li>❌ <span class=\"banca\">Tema e tese são a mesma coisa</span><br>✅ <span class=\"certo\">Tema é <b>sobre o quê</b>; tese é <b>o que o autor defende</b></span></li></ol></div>\n<h3>6. Vozes do texto e ponto de vista</h3>\n<ul><li>Nem tudo o que está no texto é <b>opinião do autor</b>. O texto pode trazer <b>outras vozes</b>: citações, falas de entrevistados, opiniões que o autor <b>apresenta para criticar</b>.</li><li><b>Discurso direto</b> (a fala reproduzida, entre aspas ou com travessão), <b>discurso indireto</b> (o autor relata o que alguém disse: \"O ministro afirmou que...\") e <b>discurso indireto livre</b> (a voz da personagem se mistura à do narrador, comum na literatura).</li><li><b>Cuidado</b>: se o texto diz \"<b>Alguns especialistas afirmam</b> que a pena de prisão resolve o problema, <b>mas</b> os dados mostram o contrário\", a ideia de que a prisão resolve <b>não é do autor</b>; ele a <b>apresenta para refutar</b>. A alternativa que atribui essa opinião ao autor está <b>errada</b>.</li><li><b>Aspas</b>: podem indicar <b>citação</b>, <b>ironia</b> (sentido contrário: \"o 'brilhante' plano fracassou\"), <b>estrangeirismo</b>, <b>neologismo</b> ou <b>distanciamento</b> (o autor usa a palavra, mas não se responsabiliza por ela: os chamados \"efeitos colaterais\").</li><li><b>Modalizadores</b>: palavras que mostram <b>o grau de certeza ou a avaliação</b> do autor: <b>certamente, talvez, possivelmente, felizmente, infelizmente, é provável que, é necessário que, deve-se</b>. Identificam o <b>ponto de vista</b>: \"<b>Infelizmente</b>, a medida demorou\" mostra avaliação <b>negativa</b> do autor sobre a demora.</li></ul>\n<h3>7. Paráfrase: dizer o mesmo com outras palavras</h3>\n<ul><li><b>Paráfrase</b> é a reescrita que <b>mantém o sentido</b> do original. Muitas questões perguntam qual alternativa <b>reproduz adequadamente</b> uma ideia do texto.</li><li><b>Como testar</b>: compare <b>ponto por ponto</b>: quem faz o quê, com que intensidade, com que certeza, em que tempo, com que restrições. Basta mudar <b>um</b> desses elementos para a paráfrase falhar.</li><li><b>Pontos que costumam ser alterados</b> nas alternativas erradas: <b>quantificadores</b> (muitos → todos), <b>modalização</b> (pode → deve; talvez → certamente), <b>tempo verbal</b> (aumentou → aumentará), <b>causa e consequência invertidas</b> (\"A chuva causou o alagamento\" → \"O alagamento causou a chuva\"), <b>negação</b> acrescentada ou retirada, <b>agente</b> trocado (quem fez a ação).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Paráfrase em prática</b><p>Trecho: \"A ampliação do horário dos postos de saúde pode reduzir a procura pelos prontos-socorros.\"</p><details><summary>Ver a solução comentada</summary><p><b>Correta</b>: \"Estender o funcionamento dos postos de saúde talvez diminua a demanda nos prontos-socorros\" (mantém a <b>possibilidade</b>: \"pode\" → \"talvez\"). <b>Errada</b>: \"A ampliação do horário dos postos <b>reduzirá</b> a procura\" (transforma possibilidade em <b>certeza</b>). <b>Errada</b>: \"A procura pelos prontos-socorros <b>causa</b> a ampliação do horário\" (inverte <b>causa e efeito</b>). <b>Errada</b>: \"Somente a ampliação do horário reduz a procura\" (acrescenta <b>exclusividade</b>).</p></details></div>\n<h3>8. Referenciação: a quem se refere cada palavra</h3>\n<ul><li>Os textos retomam ideias com <b>pronomes</b> (ele, isso, o qual, cujo, este, aquele), <b>sinônimos</b>, expressões gerais (\"o fato\", \"a medida\", \"o problema\"), <b>numerais</b> e até com <b>elipse</b> (a palavra fica subentendida). Saber <b>a que</b> cada termo se refere é tema frequente: \"o pronome 'isso' (linha 5) retoma...\".</li><li><b>Anáfora</b>: retoma algo <b>já dito</b> (\"O delegado chegou. <b>Ele</b> ouviu as testemunhas\"). <b>Catáfora</b>: antecipa algo que <b>ainda será dito</b> (\"O problema é <b>este</b>: falta efetivo\").</li><li><b>Este x esse x aquele</b> (no texto): <b>este</b> costuma anunciar o que <b>vem</b> (catáfora) ou referir-se ao <b>mais próximo</b>; <b>esse</b> retoma o que <b>já foi dito</b>; <b>aquele</b> retoma o termo <b>mais distante</b>. Em \"Pedro e Ana chegaram; <b>esta</b> sorria, <b>aquele</b> estava sério\", <b>esta</b> = Ana (mais próxima), <b>aquele</b> = Pedro (mais distante).</li><li><b>Isso / isto</b> podem retomar <b>uma ideia inteira</b> (uma oração, um parágrafo), e não só uma palavra. A pegadinha é dizer que retoma apenas um substantivo.</li><li><b>Método</b>: substitua o pronome pelo termo candidato e veja se a frase <b>mantém o sentido</b> e a <b>concordância</b> (gênero e número).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Este\" sempre retoma o que já foi dito</span><br>✅ <span class=\"certo\">\"Este\" costuma <b>anunciar</b> o que vem ou indicar o mais <b>próximo</b>; quem retoma é \"esse\"</span></li><li>❌ <span class=\"banca\">\"Isso\" só pode retomar um substantivo</span><br>✅ <span class=\"certo\">Pode retomar <b>uma ideia inteira</b></span></li><li>❌ <span class=\"banca\">Em \"Pedro e Ana chegaram; esta sorria, aquele estava sério\", \"aquele\" refere-se a Ana</span><br>✅ <span class=\"certo\">\"Aquele\" = o <b>mais distante</b> (Pedro); \"esta\" = Ana</span></li></ol></div>\n<h3>9. Conectivos e relações de sentido</h3>\n<ul><li>Os <b>conectivos</b> (conjunções, preposições, locuções, advérbios de ligação) mostram a <b>relação lógica</b> entre as ideias. Trocá-los muda o sentido do texto, e as bancas exploram muito isso.</li></ul>\n<table class=\"tab\"><thead><tr><th>Relação</th><th>Conectivos típicos</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Adição</b></td><td>e, nem, além disso, também, não só... mas também</td><td>\"Treinou e passou\"</td></tr><tr><td><b>Oposição / adversidade</b></td><td>mas, porém, contudo, todavia, entretanto, no entanto</td><td>\"Estudou, <b>mas</b> não passou\"</td></tr><tr><td><b>Concessão</b></td><td>embora, ainda que, mesmo que, apesar de, conquanto, posto que</td><td>\"<b>Embora</b> tenha estudado, não passou\"</td></tr><tr><td><b>Causa</b></td><td>porque, pois (antes do verbo... ver nota), como (no início), já que, visto que, uma vez que</td><td>\"<b>Como</b> choveu, o jogo foi adiado\"</td></tr><tr><td><b>Consequência</b></td><td>tão... que, tanto que, de modo que, de forma que</td><td>\"Choveu <b>tanto que</b> alagou\"</td></tr><tr><td><b>Conclusão</b></td><td>logo, portanto, por isso, assim, então, pois (depois do verbo, entre vírgulas)</td><td>\"Estudou muito; <b>logo</b>, passou\"</td></tr><tr><td><b>Condição</b></td><td>se, caso, desde que, contanto que</td><td>\"<b>Caso</b> chova, adiaremos\"</td></tr><tr><td><b>Finalidade</b></td><td>para que, a fim de que, para</td><td>\"Estudou <b>para</b> passar\"</td></tr><tr><td><b>Tempo</b></td><td>quando, enquanto, assim que, logo que, depois que</td><td>\"<b>Assim que</b> chegou, começou\"</td></tr><tr><td><b>Comparação</b></td><td>como, tal qual, mais... (do) que</td><td>\"Corre <b>como</b> um atleta\"</td></tr><tr><td><b>Conformidade</b></td><td>conforme, segundo, consoante, como</td><td>\"<b>Conforme</b> previsto, o prazo acabou\"</td></tr><tr><td><b>Proporção</b></td><td>à medida que, à proporção que, quanto mais... mais</td><td>\"<b>À medida que</b> estudava, aprendia\"</td></tr></tbody></table>\n<ul><li><b>\"Pois\"</b>: é <b>explicativo/causal</b> quando vem <b>antes</b> do verbo, iniciando a oração (\"Saiu cedo, <b>pois</b> tinha prova\"); é <b>conclusivo</b> quando vem <b>depois</b> do verbo, entre vírgulas (\"Tinha prova; saiu, <b>pois</b>, cedo\").</li><li><b>\"Como\"</b> pode indicar <b>causa</b> (no início: \"<b>Como</b> estava doente, faltou\"), <b>comparação</b> (\"forte <b>como</b> um touro\") ou <b>conformidade</b> (\"<b>Como</b> combinamos, cheguei cedo\").</li><li><b>Substituição de conectivos</b>: só se troca um conectivo por outro da <b>mesma relação</b> (mas → porém; embora → ainda que), observando também o <b>modo verbal</b> (embora pede <b>subjuntivo</b>: \"Embora <b>esteja</b> cansado\"; \"apesar de\" pede <b>infinitivo</b> ou substantivo: \"Apesar de <b>estar</b> cansado\", \"apesar do cansaço\").</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Embora\" e \"mas\" são intercambiáveis sem nenhuma alteração</span><br>✅ <span class=\"certo\">Ambos opõem ideias, mas <b>embora</b> é <b>concessivo</b> e exige <b>subjuntivo</b> e reestruturação; \"mas\" é <b>adversativo</b></span></li><li>❌ <span class=\"banca\">\"Pois\" é sempre explicativo</span><br>✅ <span class=\"certo\">Depois do verbo, entre vírgulas, é <b>conclusivo</b></span></li><li>❌ <span class=\"banca\">\"Portanto\" indica causa</span><br>✅ <span class=\"certo\">Indica <b>conclusão</b></span></li></ol></div>\n<h3>10. Textos verbais e não verbais: charges, tirinhas e gráficos</h3>\n<ul><li><b>Charge</b>: desenho <b>crítico</b> e <b>humorístico</b> sobre fato <b>atual</b> (política, sociedade). Exige conhecer o contexto e perceber a <b>ironia</b> ou a <b>crítica</b>.</li><li><b>Cartum</b>: humor <b>atemporal</b>, sem ligação com fato específico.</li><li><b>Tirinha</b> (tira): sequência de quadrinhos; o humor costuma estar na <b>quebra de expectativa</b> do último quadro. Leia <b>todos os quadros</b> e a <b>relação</b> entre imagem e texto.</li><li><b>Infográficos, tabelas e gráficos</b>: leia <b>título, legenda, unidades, eixos, fonte e período</b>. A pegadinha mais comum é afirmar uma <b>tendência</b> ou uma <b>causa</b> que o gráfico <b>não mostra</b> (gráfico mostra <b>correlação</b>, não necessariamente <b>causa</b>) ou comparar dados de <b>períodos ou unidades</b> diferentes.</li><li><b>Linguagem não verbal</b>: expressões faciais, cores, tamanho das letras (grito), balões (fala, pensamento, cochicho) também <b>significam</b> e entram na interpretação.</li></ul>\n<h3>11. Ironia, humor e duplo sentido</h3>\n<ul><li><b>Ironia</b>: dizer o <b>contrário</b> do que se pensa, com intenção crítica ou humorística, percebida pelo <b>contexto</b> (\"Que beleza! O ônibus atrasou de novo\"). Muitas questões perguntam qual é o <b>sentido real</b> do trecho irônico.</li><li><b>Ambiguidade</b>: frase com <b>dois sentidos</b> possíveis. Pode ser <b>defeito</b> (em textos técnicos e oficiais, deve ser evitada: \"O policial abordou o suspeito em seu carro\": carro de quem?) ou <b>recurso expressivo</b> (em propagandas, piadas e títulos, é usada de propósito).</li><li><b>Humor</b>: frequentemente nasce da <b>ambiguidade</b>, da <b>quebra de expectativa</b>, do <b>exagero</b> ou da <b>ironia</b>. Identificar o <b>mecanismo</b> do humor é pedido comum em tirinhas.</li></ul>\n<h3>12. Título, estrutura e progressão do texto</h3>\n<ul><li><b>Título</b>: resume, antecipa ou provoca. Pode ser <b>ambíguo</b> ou <b>irônico</b> de propósito. Questões pedem o título <b>mais adequado</b> (aquele que abrange o <b>tema central</b>, sem reduzir a um detalhe nem extrapolar).</li><li><b>Estrutura do texto argumentativo</b>: <b>introdução</b> (apresenta o tema e, muitas vezes, a tese), <b>desenvolvimento</b> (argumentos, um por parágrafo, em regra) e <b>conclusão</b> (retoma a tese, sintetiza, propõe solução).</li><li><b>Progressão</b>: o texto avança acrescentando informação nova ao que já foi dito. Questões perguntam a <b>função</b> de um parágrafo (introduzir, exemplificar, contrapor, concluir) ou de um trecho entre parênteses ou travessões (explicar, exemplificar, acrescentar comentário).</li><li><b>Função dos sinais</b>: <b>dois-pontos</b> introduzem explicação, enumeração, citação ou conclusão; <b>parênteses e travessões duplos</b> isolam comentários ou explicações; <b>aspas</b> marcam citação, ironia ou destaque.</li></ul>\n<h3>13. Sentido das palavras no contexto</h3>\n<ul><li><b>Sentido denotativo</b>: o sentido <b>literal</b>, de dicionário (\"O <b>coração</b> bombeia o sangue\"). <b>Sentido conotativo</b>: o sentido <b>figurado</b>, que depende do contexto (\"Ele é o <b>coração</b> do time\").</li><li><b>Sinonímia contextual</b>: a questão pergunta qual palavra <b>substitui</b> outra <b>sem alterar o sentido</b> no texto. A resposta depende do <b>contexto</b>: \"<b>grave</b>\" pode ser <b>sério</b> (\"situação grave\"), <b>baixo</b> (\"som grave\") ou <b>acentuado</b> (\"acento grave\").</li><li><b>Polissemia</b>: uma palavra com <b>vários sentidos</b> relacionados (\"pé\" da mesa, \"pé\" de alface, \"pé\" humano). <b>Homonímia</b>: palavras <b>iguais na forma</b>, com sentidos <b>sem relação</b> (\"são\" de santo, de sadio e do verbo ser).</li><li><b>Parônimos</b>: palavras <b>parecidas</b> na forma, com sentidos diferentes (<b>descrição</b> x <b>discrição</b>; <b>eminente</b> x <b>iminente</b>; <b>ratificar</b> x <b>retificar</b>; <b>comprimento</b> x <b>cumprimento</b>; <b>infligir</b> x <b>infringir</b>; <b>mandado</b> x <b>mandato</b>). São cobrados também em ortografia e reescrita.</li></ul>\n<table class=\"tab\"><thead><tr><th>Par</th><th>Diferença</th></tr></thead><tbody><tr><td><b>Eminente / iminente</b></td><td>eminente = <b>ilustre</b>, elevado; iminente = <b>prestes a acontecer</b></td></tr><tr><td><b>Ratificar / retificar</b></td><td>ratificar = <b>confirmar</b>; retificar = <b>corrigir</b></td></tr><tr><td><b>Infligir / infringir</b></td><td>infligir = <b>aplicar</b> (pena, castigo); infringir = <b>violar</b> (lei, regra)</td></tr><tr><td><b>Mandado / mandato</b></td><td>mandado = <b>ordem</b> judicial (mandado de prisão); mandato = <b>período</b> de representação ou procuração (mandato do prefeito)</td></tr><tr><td><b>Descrição / discrição</b></td><td>descrição = <b>descrever</b>; discrição = <b>reserva</b>, ser discreto</td></tr><tr><td><b>Flagrante / fragrante</b></td><td>flagrante = <b>evidente</b>, no ato; fragrante = <b>perfumado</b></td></tr><tr><td><b>Deferir / diferir</b></td><td>deferir = <b>atender</b>, conceder; diferir = <b>adiar</b> ou ser diferente</td></tr><tr><td><b>Delatar / dilatar</b></td><td>delatar = <b>denunciar</b>; dilatar = <b>ampliar</b></td></tr><tr><td><b>Emigrar / imigrar</b></td><td>emigrar = <b>sair</b> do país; imigrar = <b>entrar</b> em país estrangeiro</td></tr><tr><td><b>Tráfego / tráfico</b></td><td>tráfego = <b>trânsito</b>; tráfico = <b>comércio ilegal</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O juiz ratificou a sentença para corrigir um erro</span><br>✅ <span class=\"certo\">Corrigir é <b>retificar</b>; ratificar é <b>confirmar</b></span></li><li>❌ <span class=\"banca\">A pena foi infringida ao réu</span><br>✅ <span class=\"certo\">Aplicar pena = <b>infligir</b>; infringir é <b>violar</b></span></li><li>❌ <span class=\"banca\">O mandato de prisão foi cumprido</span><br>✅ <span class=\"certo\">Ordem judicial = <b>mandado</b>; mandato é período de representação</span></li><li>❌ <span class=\"banca\">Perigo eminente</span><br>✅ <span class=\"certo\">Prestes a acontecer = <b>iminente</b></span></li></ol></div>\n<h3>14. Método prático para resolver questões de interpretação</h3>\n<ul><li><b>1) Leia o comando primeiro</b>: descubra se a questão pede <b>compreensão</b> (\"segundo o texto\"), <b>interpretação</b> (\"infere-se\"), <b>sentido de palavra</b>, <b>referência</b>, <b>função</b> de trecho ou a alternativa <b>incorreta</b> (atenção ao \"<b>exceto</b>\", \"<b>incorreta</b>\", \"<b>não</b>\").</li><li><b>2) Leia o texto inteiro</b> com atenção, identificando o <b>tema</b>, a <b>tese</b> (se houver) e a <b>ideia principal</b> de cada parágrafo. Em textos longos, sublinhe palavras-chave e conectivos.</li><li><b>3) Volte ao trecho</b> indicado e leia <b>antes e depois</b> dele (o contexto resolve a maioria das dúvidas).</li><li><b>4) Teste cada alternativa</b> contra o texto: procure <b>extrapolação</b>, <b>redução</b>, <b>contradição</b>, troca de quantificadores, de modalização, de tempo, de causa e consequência, de agente.</li><li><b>5) Elimine</b> as alternativas com erro claro e compare as que sobram: a correta é a <b>mais fiel</b> ao texto, não a mais \"bonita\" ou a mais completa sobre o assunto.</li><li><b>6) Desconfie</b> de alternativas que trazem <b>opinião do candidato</b> (frases que soam corretas moralmente mas não estão no texto) e de alternativas que <b>copiam</b> trechos do texto mudando <b>uma palavra</b>.</li></ul>\n<h3>15. Como a FGV e outras bancas cobram</h3>\n<ul><li>A <b>FGV</b> (banca de referência para a PCMG) costuma usar textos <b>jornalísticos e opinativos</b> atuais, com questões que exigem <b>inferência</b> fina, <b>paráfrase</b>, <b>sentido contextual</b> de palavras, <b>função</b> de conectivos e de trechos, <b>pressupostos</b> e análise de <b>argumentos</b> (\"o argumento utilizado no segundo parágrafo é de...\", \"o autor se vale de...\"). As alternativas costumam ser <b>longas</b> e muito <b>parecidas</b>, diferindo em um detalhe.</li><li><b>Cebraspe</b> (Certo/Errado): cobra <b>paráfrase</b> e <b>reescrita</b> (manutenção de sentido e correção), inferências e o <b>sentido</b> de trechos; um único detalhe torna o item errado.</li><li><b>Outras bancas</b> (Fumarc, Consulplan, Vunesp, IBFC): misturam compreensão direta, sentido de palavras e gramática aplicada ao texto.</li></ul>\n<h3>16. Casos práticos de leitura</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto e inferência</b><p>Texto: \"Desde que o bairro passou a contar com a ronda escolar, os pais relatam mais tranquilidade na saída dos alunos. A diretora, porém, lembra que a iluminação da praça ao lado continua precária.\"</p><details><summary>Ver a solução comentada</summary><p><b>Pode-se inferir</b>: a ronda escolar <b>é recente</b> (pressuposto de \"desde que passou a contar\"); a diretora considera que <b>ainda há problemas</b> de segurança (o \"porém\" contrapõe e o \"continua\" pressupõe que a iluminação já era precária). <b>Não se pode inferir</b>: que a violência <b>acabou</b> (extrapolação), que os pais <b>não confiam</b> na ronda (contradição) ou que a iluminação é responsabilidade da escola (extrapolação).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ponto de vista e outras vozes</b><p>Texto: \"Há quem diga que o videomonitoramento resolve sozinho a criminalidade urbana. A experiência de várias cidades, contudo, mostra que câmeras sem equipe para acompanhar as imagens pouco adiantam.\"</p><details><summary>Ver a solução comentada</summary><p>A ideia de que o videomonitoramento resolve <b>sozinho</b> o problema <b>não é do autor</b>: é atribuída a \"há quem diga\" e <b>refutada</b> pelo \"contudo\". O autor defende que as câmeras dependem de <b>equipe</b> para funcionar. Uma alternativa que diga \"o autor é contrário ao videomonitoramento\" <b>extrapola</b>: ele critica a ideia de que as câmeras <b>bastam sozinhas</b>, não as câmeras em si.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Palavra no contexto</b><p>Frase: \"O relatório apontou falhas graves na fiscalização, o que exige uma resposta imediata.\"</p><details><summary>Ver a solução comentada</summary><p><b>Graves</b> = <b>sérias</b>, <b>importantes</b> (não \"de som baixo\"). <b>Imediata</b> = <b>sem demora</b>. O pronome \"<b>o que</b>\" retoma <b>toda a ideia</b> anterior (o fato de o relatório ter apontado falhas), e não só a palavra \"fiscalização\".</p></details></div>\n<h3>17. Textos literários: narrador, eu lírico e linguagem figurada</h3>\n<ul><li>Algumas provas trazem <b>crônicas</b>, <b>contos</b> e <b>poemas</b>. A leitura exige atenção a elementos próprios:</li></ul>\n<table class=\"tab\"><thead><tr><th>Elemento</th><th>O que é</th><th>Como aparece na questão</th></tr></thead><tbody><tr><td><b>Narrador</b></td><td>quem <b>conta</b> a história (não é o autor real)</td><td>\"o narrador do texto...\"</td></tr><tr><td><b>Foco narrativo em 1ª pessoa</b></td><td>narrador <b>personagem</b> (participa da história: \"eu fui...\")</td><td>visão <b>limitada</b> ao que ele sabe e sente</td></tr><tr><td><b>Foco narrativo em 3ª pessoa</b></td><td>narrador <b>observador</b> (conta de fora) ou <b>onisciente</b> (conhece pensamentos e sentimentos das personagens)</td><td>\"o narrador conhece o que a personagem pensa\"</td></tr><tr><td><b>Eu lírico</b> (eu poético)</td><td>a <b>voz</b> que fala no poema; não se confunde com o poeta</td><td>\"o eu lírico expressa...\"</td></tr><tr><td><b>Crônica</b></td><td>texto curto, ligado ao <b>cotidiano</b>, com tom leve, humorístico ou reflexivo, publicado em jornal ou revista</td><td>\"o cronista parte de um fato banal para refletir...\"</td></tr><tr><td><b>Linguagem figurada</b></td><td>metáforas, comparações, personificações</td><td>\"a expressão X foi empregada em sentido figurado\"</td></tr></tbody></table>\n<ul><li><b>Cuidado</b>: na crônica e no poema, o sentido <b>figurado</b> é a regra. Uma questão que pede o sentido de \"O tempo é um rio\" não quer \"o tempo é feito de água\", e sim a ideia de <b>passagem contínua</b>, que não volta. As figuras de linguagem são aprofundadas no tópico de Semântica.</li><li><b>Personagens e falas</b>: no discurso <b>direto</b>, a fala é reproduzida com as palavras da personagem; no <b>indireto</b>, o narrador relata o que ela disse; no <b>indireto livre</b>, a fala ou o pensamento da personagem aparece misturado à narração, sem verbo de fala e sem aspas.</li></ul>\n<h3>18. Inferência na prática: o que pode e o que não pode</h3>\n<ul><li><b>Inferência válida</b> é a conclusão que <b>decorre</b> do texto com segurança ou com alta probabilidade, sem depender de suposições externas.</li><li><b>Exemplo 1</b>: \"O delegado só conseguiu ouvir a testemunha no terceiro dia, quando ela finalmente compareceu.\" <b>Pode-se inferir</b>: a testemunha <b>não compareceu</b> nos dois primeiros dias (pressuposto de \"só\" e \"finalmente\"); houve <b>demora</b> ou dificuldade. <b>Não se pode inferir</b>: que a testemunha <b>mentiu</b>, que estava <b>com medo</b> ou que o delegado foi <b>negligente</b> (todas são suposições).</li><li><b>Exemplo 2</b>: \"Com a nova lei, os motoristas flagrados pela segunda vez perderão a habilitação.\" <b>Pode-se inferir</b>: na primeira vez, a perda da habilitação <b>não</b> é automática pela regra mencionada (o texto fala em \"segunda vez\"); a lei é <b>nova</b>. <b>Não se pode inferir</b>: que a lei <b>reduzirá</b> os acidentes (efeito não afirmado) ou que antes não havia nenhuma punição (o texto não diz).</li><li><b>Exemplo 3</b>: \"Ao contrário do que se previa, a obra terminou no prazo.\" <b>Pode-se inferir</b>: havia <b>expectativa</b> de atraso. <b>Não se pode inferir</b>: que obras públicas <b>sempre</b> atrasam (generalização).</li><li><b>Teste rápido</b>: pergunte \"<b>o texto me obriga</b> a concluir isso?\" Se a resposta for \"não, mas é provável no mundo real\", a alternativa provavelmente <b>extrapola</b>.</li></ul>\n<h3>19. Função de trechos e de parágrafos</h3>\n<ul><li>Muitas questões não perguntam <b>o que</b> o texto diz, mas <b>para que</b> um trecho foi usado. Funções frequentes:</li></ul>\n<table class=\"tab\"><thead><tr><th>Função</th><th>Sinais típicos</th></tr></thead><tbody><tr><td><b>Introduzir o tema</b></td><td>primeiro parágrafo, apresentação do assunto, dados gerais</td></tr><tr><td><b>Apresentar a tese</b></td><td>frase opinativa central, muitas vezes no fim da introdução</td></tr><tr><td><b>Exemplificar</b></td><td>\"por exemplo\", \"como\", casos concretos, nomes de cidades, números</td></tr><tr><td><b>Explicar / esclarecer</b></td><td>\"isto é\", \"ou seja\", parênteses, dois-pontos</td></tr><tr><td><b>Ressalvar / contrapor</b></td><td>\"mas\", \"porém\", \"embora\", \"por outro lado\"</td></tr><tr><td><b>Retomar / resumir</b></td><td>\"em suma\", \"em síntese\", \"dessa forma\"</td></tr><tr><td><b>Concluir / propor</b></td><td>último parágrafo, \"portanto\", \"é preciso\", \"cabe ao poder público\"</td></tr><tr><td><b>Introduzir outra voz</b></td><td>\"segundo\", \"de acordo com\", \"para fulano\", aspas</td></tr><tr><td><b>Retificar</b></td><td>\"ou melhor\", \"aliás\", correção de algo dito antes</td></tr></tbody></table>\n<ul><li><b>Parênteses</b> e <b>travessões</b> costumam acrescentar <b>explicação</b>, <b>exemplo</b> ou <b>comentário</b> do autor; retirá-los, em geral, <b>não prejudica</b> a correção gramatical, mas pode tirar uma informação.</li><li><b>Pergunta retórica</b>: pergunta feita <b>sem esperar resposta</b>, para provocar reflexão ou reforçar a tese (\"Até quando vamos aceitar isso?\").</li></ul>\n<h3>20. Exercício comentado com texto completo</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto para análise</b><p>\"Em muitas cidades brasileiras, o policiamento comunitário deixou de ser uma promessa e passou a fazer parte da rotina. A ideia é simples: o mesmo grupo de policiais atua por longo tempo no mesmo bairro, conhece os moradores e é conhecido por eles. Os resultados, porém, dependem menos do nome do programa do que da continuidade. Quando os policiais são trocados a todo momento, a confiança construída se perde, e a população volta a enxergar a farda como algo distante. Há, ainda, quem veja no modelo apenas uma estratégia de imagem. Os números de algumas experiências bem conduzidas, no entanto, mostram queda de crimes e aumento das denúncias anônimas, sinal de que a comunidade passou a colaborar. O desafio, portanto, não é criar novos programas a cada gestão, mas manter os que funcionam.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tese</b>: o sucesso do policiamento comunitário depende da <b>continuidade</b>; o desafio é <b>manter</b> os programas que funcionam (último período, introduzido por \"portanto\"). <b>2) Pressuposto</b> de \"deixou de ser uma promessa\": antes, o policiamento comunitário <b>era apenas promessa</b>. <b>3) Função de \"A ideia é simples:\"</b>: anuncia uma <b>explicação</b> do conceito (os dois-pontos introduzem o esclarecimento). <b>4) \"Porém\"</b> (3º período): introduz <b>ressalva</b>: os resultados não vêm automaticamente. <b>5) \"Há, ainda, quem veja no modelo apenas uma estratégia de imagem\"</b>: é <b>outra voz</b>, que o autor <b>refuta</b> com o \"no entanto\" seguinte; atribuir essa visão ao autor é <b>erro</b>. <b>6) Argumento</b> do penúltimo período: <b>dados/provas concretas</b> (\"os números... mostram\"). <b>7) Inferência válida</b>: a troca constante de policiais <b>prejudica</b> a confiança da população. <b>8) Inferência inválida</b> (extrapolação): \"o policiamento comunitário reduz a criminalidade em <b>todas</b> as cidades onde é implantado\" (o texto fala em \"algumas experiências <b>bem conduzidas</b>\"). <b>9) Redução</b>: \"o texto trata <b>apenas</b> da queda dos crimes\" (ignora o tema central, a continuidade). <b>10) Sentido de \"farda\"</b>: metonímia para a <b>polícia/instituição</b> (a parte pelo todo), e não apenas a roupa.</p></details></div>\n<h3>21. Estratégia de prova e controle do tempo</h3>\n<ul><li><b>Textos longos</b>: faça uma primeira leitura <b>rápida</b> para captar tema e estrutura e, depois, leia com atenção os trechos indicados pelas questões. Marque <b>conectivos</b> e palavras <b>absolutas</b> e <b>modalizadoras</b>.</li><li><b>Ordem das questões</b>: comece pelas de <b>compreensão</b> e <b>sentido de palavras</b> (mais rápidas) e deixe as de inferência mais complexa para depois, voltando ao texto com calma.</li><li><b>Alternativas longas</b> (comuns na FGV): divida a alternativa em <b>partes</b> e verifique cada uma. Basta <b>um</b> pedaço errado para eliminá-la.</li><li><b>Questões \"exceto/incorreta\"</b>: marque o comando com destaque; muitos erros vêm de responder o contrário do que foi pedido.</li><li><b>Não brigue com o texto</b>: mesmo que você discorde da opinião do autor, a questão pede o que <b>o texto</b> diz ou permite concluir.</li><li><b>Treino</b>: a habilidade cresce com a <b>prática diária</b> de leitura (editoriais, artigos de opinião, reportagens) e de questões comentadas da banca. Ao errar, anote o <b>tipo de erro</b> (extrapolou? reduziu? confundiu voz?) para não repeti-lo.</li></ul>\n<h3>22. Segundo exercício comentado: texto expositivo</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto para análise</b><p>\"O número de golpes aplicados por mensagens de celular cresceu nos últimos anos. Em geral, o criminoso se apresenta como um parente ou um funcionário de banco e cria um senso de urgência: pede uma transferência imediata, alegando um problema grave. Especialistas recomendam desconfiar de qualquer pedido de dinheiro por mensagem, sobretudo quando acompanhado de pressa, e confirmar a história por outro canal, como uma ligação para o número já conhecido do parente. Nem sempre, porém, a vítima consegue pensar com calma, pois o golpista explora justamente o medo e o afeto.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tipo de texto</b>: predominantemente <b>expositivo/injuntivo</b>: informa sobre o golpe e traz <b>recomendações</b> (não defende uma tese polêmica). <b>2) \"Em geral\"</b>: <b>relativiza</b>; uma alternativa que diga que o criminoso \"<b>sempre</b> se apresenta como parente\" <b>extrapola</b> (o texto também cita funcionário de banco e usa \"em geral\"). <b>3) \"Sobretudo\"</b>: indica <b>destaque</b>, não exclusividade; \"a desconfiança só é necessária quando há pressa\" é <b>redução/contradição</b> (o texto manda desconfiar de <b>qualquer</b> pedido). <b>4) \"Como uma ligação...\"</b>: <b>exemplifica</b> o \"outro canal\". <b>5) \"Porém\"</b> no último período: <b>ressalva</b> à recomendação: nem sempre a vítima consegue segui-la. <b>6) \"Pois\"</b> (antes do verbo): <b>explicativo/causal</b>: explica por que a vítima não pensa com calma. <b>7) Inferência válida</b>: o <b>senso de urgência</b> é uma estratégia do golpista para reduzir a reflexão da vítima. <b>8) Inferência inválida</b>: \"os bancos são responsáveis pelos golpes\" (o texto não trata de responsabilidade); \"os golpes diminuirão com as recomendações\" (efeito não afirmado).</p></details></div>\n<h3>23. Terceiro exercício comentado: tirinha descrita</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Tirinha (descrição)</b><p>Quadro 1: um homem diz ao amigo: \"Comecei a correr todo dia para ter mais saúde.\" Quadro 2: o amigo pergunta: \"E como está indo?\" Quadro 3: o homem, deitado no sofá, comendo pizza e vendo televisão, responde: \"Ótimo! Já corro todo dia... atrás do entregador da pizzaria.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Mecanismo do humor</b>: <b>quebra de expectativa</b> e <b>ambiguidade</b> do verbo \"correr\": no início, \"correr\" sugere <b>exercício físico</b>; no fim, revela-se o sentido de <b>correr atrás</b> do entregador (para pegar a pizza). <b>2) Ironia/contradição</b> entre o objetivo (saúde) e o comportamento mostrado (sedentarismo e pizza). <b>3) Linguagem não verbal</b>: a <b>imagem</b> do último quadro (sofá, pizza, TV) é essencial para o humor e contradiz a fala inicial. <b>4) Inferência válida</b>: o personagem <b>não</b> pratica corrida como exercício. <b>5) Inferência inválida</b>: \"o personagem trabalha como entregador\" (contradição: ele corre <b>atrás</b> do entregador) ou \"a tirinha critica as pizzarias\" (extrapolação).</p></details></div>\n<h3>24. Interpretação de textos legais e de enunciados de outras matérias</h3>\n<ul><li>A habilidade de interpretação vale para <b>ler a lei</b>: muitas questões de Direito são, na verdade, questões de <b>leitura atenta</b> do texto legal, com as mesmas armadilhas: troca de \"<b>pode</b>\" por \"<b>deve</b>\", de \"<b>poderá</b>\" por \"<b>será</b>\", de \"<b>salvo</b>\" por \"<b>inclusive</b>\", de prazos e quantificadores (\"<b>até</b> 10 dias\" x \"<b>no mínimo</b> 10 dias\"; \"<b>e</b>\" x \"<b>ou</b>\").</li><li><b>Palavras que mudam tudo</b> em textos normativos: <b>salvo, exceto, ressalvado</b> (exceção); <b>inclusive, também</b> (inclusão); <b>somente, apenas, exclusivamente, privativamente</b> (exclusividade); <b>vedado, proibido</b> (proibição); <b>facultado, poderá</b> (faculdade); <b>deverá, será, é obrigatório</b> (obrigação); <b>até, no máximo, no mínimo, não inferior a, não superior a</b> (limites).</li><li><b>Exemplo</b>: \"O laudo será elaborado no prazo <b>máximo</b> de 10 dias, <b>podendo</b> ser prorrogado, em casos <b>excepcionais</b>, a requerimento dos peritos.\" Uma alternativa que diga \"o prazo de 10 dias é <b>improrrogável</b>\" contradiz o texto; outra que diga \"o prazo <b>será</b> prorrogado a pedido de <b>qualquer parte</b>\" troca a <b>faculdade</b> por <b>obrigação</b> e o <b>legitimado</b>.</li><li><b>Enunciados longos de Direito</b> (casos práticos): leia como um texto: identifique <b>quem</b> fez <b>o quê</b>, <b>quando</b>, <b>com que intenção</b>, e o que a questão <b>pergunta</b>. Muitos erros vêm de ignorar um dado do enunciado (a idade da vítima, o prazo, a relação entre as pessoas).</li></ul>\n<h3>25. Erros mais comuns dos candidatos (e como evitar)</h3>\n<ul><li><b>Responder com a própria opinião</b>: escolher a alternativa que parece \"mais justa\" ou \"mais correta\" no mundo, e não a que o texto autoriza. <b>Remédio</b>: para cada alternativa, apontar <b>onde</b> no texto está a base.</li><li><b>Ler só o trecho indicado</b>: muitas vezes o sentido depende da frase anterior ou seguinte. <b>Remédio</b>: ler <b>antes e depois</b>.</li><li><b>Ignorar conectivos e modalizadores</b>: deixar passar um \"porém\", um \"talvez\", um \"nem sempre\". <b>Remédio</b>: sublinhar conectivos e palavras de certeza.</li><li><b>Confundir a voz do autor com a de terceiros</b>: atribuir ao autor uma opinião que ele cita para criticar. <b>Remédio</b>: perguntar \"<b>quem</b> está dizendo isso no texto?\".</li><li><b>Não perceber o comando \"incorreta/exceto\"</b>: marcar a primeira alternativa verdadeira. <b>Remédio</b>: circular o comando antes de ler as alternativas.</li><li><b>Cansaço e pressa</b>: interpretação exige concentração; deixar para o fim da prova costuma prejudicar. <b>Remédio</b>: resolver os textos em um momento de boa atenção e controlar o tempo por bloco de questões.</li><li><b>Achar que toda alternativa bem escrita é correta</b>: as alternativas erradas costumam ser <b>bem redigidas</b> e parecidas com o texto. <b>Remédio</b>: comparar <b>palavra por palavra</b> os pontos sensíveis (quantificadores, tempo, causa, agente, modalização).</li></ul>\n<h3>26. Quarto exercício comentado: crônica</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Crônica (texto autoral)</b><p>\"Toda segunda-feira, seu Antônio abre a padaria antes das cinco. Diz que é para pegar o pão saindo do forno, mas a vizinhança sabe que é para conversar com os primeiros fregueses: o motorista do ônibus, a enfermeira do plantão, o vigia que volta para casa. Entre um café e outro, ele resolve, de graça, os problemas do bairro, e às vezes os do país. Na semana passada, a padaria não abriu. Ninguém sabia o que dizer. O motorista atrasou a saída, a enfermeira chegou ao hospital sem o pão de queijo, o vigia foi dormir sem ouvir que 'amanhã vai ser melhor'. Na terça, seu Antônio voltou, gripado, mas voltou. E o bairro, que nem sabia que precisava dele, respirou aliviado.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Gênero</b>: <b>crônica</b>: parte de um fato do <b>cotidiano</b> para refletir sobre as <b>relações humanas</b> e a importância de pequenos gestos. <b>2) Ironia leve</b> em \"resolve, de graça, os problemas do bairro, e às vezes os do país\": <b>humor</b> com exagero (hipérbole), mostrando o hábito de conversar e opinar. <b>3) Pressuposto</b> de \"Na terça, seu Antônio <b>voltou</b>\": ele <b>havia faltado</b> antes. <b>4) Inferência válida</b>: a ausência de seu Antônio <b>afetou a rotina</b> dos fregueses, mostrando que sua presença tinha <b>valor afetivo</b> para o bairro. <b>5) Inferência inválida</b>: \"seu Antônio fechou a padaria por falência\" (o texto indica <b>gripe</b>; extrapolação/contradição) ou \"o bairro não gostava de seu Antônio\" (contradição). <b>6) \"Mas a vizinhança sabe que é para conversar\"</b>: o \"mas\" opõe o <b>motivo declarado</b> (pão saindo do forno) ao <b>motivo real</b> percebido pela vizinhança (conversar). <b>7) Tese?</b> Crônica não defende tese como um artigo de opinião; ela <b>sugere uma reflexão</b> (o valor das pequenas presenças no cotidiano). <b>8) Narrador</b>: em <b>3ª pessoa</b>, observador, com tom afetuoso.</p></details></div>\n<h3>27. Quinto exercício comentado: leitura de gráfico</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Gráfico (descrição)</b><p>Título: \"Ocorrências de furto de celular no centro da cidade (por mês)\". Eixo horizontal: janeiro a junho. Eixo vertical: número de ocorrências. Valores: janeiro 120, fevereiro 135, março 90, abril 85, maio 80, junho 82. Nota de rodapé: \"Em março foi instalado o videomonitoramento na praça central.\" Fonte: Secretaria Municipal de Segurança.</p><details><summary>Ver a solução comentada</summary><p><b>1) Leitura correta</b>: houve <b>aumento</b> de janeiro para fevereiro, <b>queda</b> acentuada em março e <b>estabilidade</b> com pequenas variações de abril a junho (aumento leve em junho). <b>2) Inferência possível</b>: a queda <b>coincide</b> com a instalação do videomonitoramento. <b>3) Inferência indevida</b>: \"o videomonitoramento <b>causou</b> a queda dos furtos\" (o gráfico mostra <b>coincidência no tempo</b>, não prova a causa; outros fatores podem ter influído, como mais policiamento ou mudança de comércio). <b>4) Erro de leitura</b>: \"os furtos caíram <b>todos os meses</b> após março\" (em junho houve <b>leve aumento</b>: 80 → 82). <b>5) Erro de unidade/escopo</b>: \"os furtos caíram na <b>cidade inteira</b>\" (o gráfico trata do <b>centro</b>). <b>6) Atenção à fonte e ao período</b>: dados de <b>seis meses</b> não permitem afirmar tendência de <b>longo prazo</b>.</p></details></div>\n<h3>28. Sexto exercício comentado: artigo de opinião</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Artigo de opinião (texto autoral)</b><p>\"Proibir o celular nas salas de aula tornou-se bandeira de muitas escolas. A medida parece óbvia: sem a tela por perto, o aluno presta mais atenção. Ainda assim, convém evitar o entusiasmo fácil. O celular não é o único responsável pela distração, e aulas pouco interessantes continuarão pouco interessantes sem ele. Além disso, o aparelho pode ser ferramenta valiosa quando o professor o integra ao planejamento, como em pesquisas rápidas ou em exercícios interativos. Isso não significa liberar o uso sem regras; significa reconhecer que a proibição, sozinha, não resolve. Mais eficaz do que banir é ensinar os jovens a usar a tecnologia com propósito, algo de que precisarão para o resto da vida.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tese</b>: a <b>proibição isolada</b> do celular <b>não resolve</b> a distração; é mais eficaz <b>ensinar o uso com propósito</b> (últimos períodos). <b>2) \"A medida parece óbvia\"</b>: o verbo \"<b>parece</b>\" já sinaliza que o autor vai <b>relativizar</b> essa ideia; não é afirmação de concordância plena. <b>3) \"Ainda assim\"</b>: conectivo de <b>concessão/oposição</b>: mesmo reconhecendo o argumento da atenção, o autor pede cautela. <b>4) \"Além disso\"</b>: <b>adição</b> de novo argumento (o celular como ferramenta pedagógica). <b>5) \"Como em pesquisas rápidas...\"</b>: <b>exemplificação</b>. <b>6) \"Isso não significa...\"</b>: o \"isso\" retoma a <b>ideia anterior</b> (o uso pedagógico do aparelho) e o trecho <b>antecipa uma objeção</b> (a de que o autor defenderia liberar tudo), refutando-a: é <b>contra-argumentação</b>. <b>7) Inferência válida</b>: o autor <b>não é favorável</b> ao uso irrestrito do celular. <b>8) Inferência inválida</b> (contradição): \"o autor defende a liberação total do celular\". <b>9) Inferência inválida</b> (extrapolação): \"o autor considera que os professores são os culpados pela distração\" (ele menciona aulas pouco interessantes, mas não atribui culpa aos professores). <b>10) Redução</b>: \"o texto trata apenas dos benefícios do celular\" (ele também reconhece o argumento da atenção e a necessidade de regras).</p></details></div>\n<ul><li><b>Observação</b>: repare como os <b>conectivos</b> (\"ainda assim\", \"além disso\", \"isso não significa... significa\") organizam o raciocínio. Em textos argumentativos, <b>mapear os conectivos</b> é o caminho mais rápido para achar a <b>tese</b> e a <b>função</b> de cada parte.</li></ul>\n<h3>29. Sétimo exercício comentado: notícia</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Notícia (texto autoral)</b><p>\"A Prefeitura anunciou ontem que vai ampliar o horário de funcionamento de cinco unidades básicas de saúde, que passarão a atender até as 22 horas a partir do próximo mês. Segundo a secretária de Saúde, a medida busca reduzir a superlotação dos prontos-socorros, que recebem muitos casos sem urgência no período noturno. O sindicato dos servidores, por sua vez, afirma que não houve contratação de novos profissionais e teme sobrecarga das equipes atuais. A Prefeitura não informou o custo da mudança.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Gênero</b>: <b>notícia</b>: relata um fato com <b>vozes</b> de diferentes fontes, sem opinião explícita do jornalista. <b>2) Vozes</b>: a <b>secretária</b> (objetivo da medida) e o <b>sindicato</b> (crítica); a afirmação de que \"não houve contratação\" é do <b>sindicato</b>, não do jornal. <b>3) Inferência válida</b>: atualmente, essas unidades <b>não</b> funcionam até as 22 horas (pressuposto de \"<b>vai ampliar</b>\" e \"<b>passarão a</b> atender\"). <b>4) Inferência válida</b>: há <b>divergência</b> entre a Prefeitura e o sindicato quanto às condições de implantação. <b>5) Inferência inválida</b> (extrapolação): \"a medida <b>reduzirá</b> a superlotação\" (é o <b>objetivo</b> declarado pela secretária, não um resultado garantido). <b>6) Inferência inválida</b>: \"o jornal considera a medida inadequada\" (o texto não traz opinião do jornal; apenas registra a crítica do sindicato). <b>7) Último período</b>: \"A Prefeitura <b>não informou</b> o custo\" é dado factual, e não prova de que o custo seja alto; dizer isso seria extrapolar. <b>8) \"Por sua vez\"</b>: introduz a <b>outra parte</b>, marcando o contraponto entre as fontes.</p></details></div>\n<ul><li><b>Checklist final antes de marcar a resposta</b>: (1) Respondi exatamente ao <b>comando</b> (correta, incorreta, infere-se, segundo o texto)? (2) A alternativa escolhida tem <b>base</b> em um trecho que consigo apontar? (3) Ela mantém os <b>quantificadores</b> (alguns, muitos, todos), a <b>modalização</b> (pode, deve, talvez) e o <b>tempo</b> verbal do texto? (4) Ela atribui as ideias à <b>voz certa</b> (autor ou terceiros)? (5) Ela respeita a <b>relação lógica</b> (causa, consequência, oposição, concessão) estabelecida pelos conectivos? (6) Não estou trazendo <b>conhecimento de fora</b> que o texto não autoriza? Se as seis respostas forem \"sim\", a chance de acerto é muito alta. Repetir esse checklist em cada questão, durante os treinos, faz com que ele se torne automático no dia da prova, e é nesse momento que a interpretação deixa de depender do \"feeling\" e passa a ser um procedimento seguro.</li><li><b>Como treinar em casa (rotina sugerida)</b>: escolha diariamente <b>um texto opinativo</b> (editorial ou artigo) e <b>uma notícia</b>. No texto opinativo, sublinhe a <b>tese</b>, numere os <b>argumentos</b> e circule os <b>conectivos</b>; depois, escreva em duas linhas o que o autor defende. Na notícia, separe <b>fato</b>, <b>falas</b> e <b>dados</b>. Em seguida, resolva de 10 a 15 questões da banca do seu concurso e, para cada erro, anote a <b>causa</b> (extrapolação, redução, contradição, voz trocada, conectivo, comando). Em poucas semanas, os erros se repetem cada vez menos, porque você passa a reconhecer os padrões das alternativas erradas. Esse treino também melhora a sua <b>escrita</b> (redação e peças discursivas), porque quem identifica bem a estrutura dos textos dos outros aprende a organizar melhor os próprios.</li><li><b>Lembrete sobre o vocabulário</b>: muitas questões de interpretação dependem de conhecer o <b>sentido de palavras</b> menos usadas no dia a dia (exíguo = escasso; profícuo = proveitoso; inócuo = sem efeito; ínfimo = mínimo; precípuo = principal; óbice = obstáculo; dirimir = resolver uma dúvida; coibir = reprimir). Ler textos variados e consultar o dicionário quando aparecer palavra desconhecida amplia o vocabulário e evita erros por desconhecimento de um único termo-chave.</li><li><b>Lição da notícia</b>: em textos jornalísticos, separe sempre <b>o fato</b> (o que aconteceu), <b>as falas</b> (quem disse o quê) e <b>as conclusões</b> que a questão propõe. A maioria das alternativas erradas mistura esses três planos.</li></ul>\n<h3>30. Treino rápido de pegadinhas de leitura</h3>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quando o texto diz \"pode reduzir\", a alternativa \"reduz\" mantém o sentido</span><br>✅ <span class=\"certo\">Transforma <b>possibilidade</b> em <b>certeza</b></span></li><li>❌ <span class=\"banca\">Quando o texto diz \"alguns especialistas\", a alternativa \"os especialistas\" mantém o sentido</span><br>✅ <span class=\"certo\">Generaliza: é <b>extrapolação</b></span></li><li>❌ <span class=\"banca\">Se o texto critica uma opinião, a alternativa pode atribuir essa opinião ao autor</span><br>✅ <span class=\"certo\">O autor <b>refuta</b> a opinião; atribuí-la a ele é erro</span></li><li>❌ <span class=\"banca\">Coincidência no tempo, em um gráfico, prova causa</span><br>✅ <span class=\"certo\">Mostra <b>correlação</b>; causa exige outros elementos</span></li><li>❌ <span class=\"banca\">Crônica sempre defende uma tese explícita</span><br>✅ <span class=\"certo\">A crônica costuma sugerir <b>reflexão</b> a partir do cotidiano, sem tese formal</span></li><li>❌ <span class=\"banca\">\"Nem sempre\" equivale a \"nunca\"</span><br>✅ <span class=\"certo\">\"Nem sempre\" = <b>às vezes não</b>; \"nunca\" é absoluto</span></li></ol></div>\n<ul><li><b>Fechamento</b>: interpretar bem é <b>comparar com rigor</b> o que está escrito com o que a alternativa afirma. Com o método deste tópico (comando, leitura completa, contexto, teste de cada alternativa, eliminação) e treino constante, a interpretação deixa de ser \"sorte\" e passa a ser <b>técnica</b>.</li></ul>\n<h3>31. Glossário e mapa de revisão</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Compreensão</b></td><td>entender o que o texto diz explicitamente</td></tr><tr><td><b>Interpretação</b></td><td>concluir o que o texto permite deduzir</td></tr><tr><td><b>Extrapolação</b></td><td>ir além do texto</td></tr><tr><td><b>Redução</b></td><td>ficar aquém do texto, tomar a parte pelo todo</td></tr><tr><td><b>Contradição</b></td><td>afirmar o contrário do texto</td></tr><tr><td><b>Pressuposto</b></td><td>informação implícita marcada na frase, que não pode ser negada</td></tr><tr><td><b>Subentendido</b></td><td>insinuação que depende do contexto e pode ser negada</td></tr><tr><td><b>Tese</b></td><td>posição defendida pelo autor</td></tr><tr><td><b>Tópico frasal</b></td><td>frase que apresenta a ideia principal do parágrafo</td></tr><tr><td><b>Concessão</b></td><td>reconhecer a objeção para reforçar a própria tese</td></tr><tr><td><b>Paráfrase</b></td><td>reescrita que mantém o sentido</td></tr><tr><td><b>Anáfora / catáfora</b></td><td>retoma o já dito / antecipa o que virá</td></tr><tr><td><b>Modalizador</b></td><td>palavra que mostra certeza ou avaliação do autor</td></tr><tr><td><b>Denotação / conotação</b></td><td>sentido literal / figurado</td></tr><tr><td><b>Polissemia</b></td><td>vários sentidos relacionados</td></tr><tr><td><b>Parônimos</b></td><td>palavras parecidas com sentidos diferentes</td></tr><tr><td><b>Charge / cartum</b></td><td>humor crítico atual / atemporal</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Segundo o texto\" pede</span></span><span class=\"vs\"><span>compreensão (o que está dito)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Infere-se\" pede</span></span><span class=\"vs\"><span>interpretação (conclusão autorizada)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Extrapolação</span></span><span class=\"vs\"><span>ir além do texto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Redução</span></span><span class=\"vs\"><span>restringir, tomar a parte pelo todo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Contradição</span></span><span class=\"vs\"><span>dizer o contrário do texto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pressuposto</span></span><span class=\"vs\"><span>marcado na frase; não pode ser negado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Subentendido</span></span><span class=\"vs\"><span>depende do contexto; pode ser negado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Parou de fumar\" pressupõe</span></span><span class=\"vs\"><span>que fumava</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tese</span></span><span class=\"vs\"><span>o que o autor defende</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Argumento de autoridade</span></span><span class=\"vs\"><span>cita especialista ou instituição</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Concessão</span></span><span class=\"vs\"><span>embora, ainda que, apesar de</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Pois\" antes do verbo</span></span><span class=\"vs\"><span>explicativo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Pois\" depois do verbo, entre vírgulas</span></span><span class=\"vs\"><span>conclusivo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Este x esse</span></span><span class=\"vs\"><span>este anuncia/próximo; esse retoma</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ratificar x retificar</span></span><span class=\"vs\"><span>confirmar x corrigir</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infligir x infringir</span></span><span class=\"vs\"><span>aplicar x violar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mandado x mandato</span></span><span class=\"vs\"><span>ordem x período de representação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gráfico mostra</span></span><span class=\"vs\"><span>correlação, não necessariamente causa</span></span></button></div></div>",
