@@ -35,7 +35,8 @@ export function separaCodigo(t) {
 
 export function tipoBloco(topico) {
   const t = norm(topico);
-  if (t.startsWith('revisao + questoes') || t.includes('treino com questoes') || t.startsWith('resolucao')) return 'Questões';
+  // "Resolução de questões" é bloco de questões; "Resolução CONTRAN nº 432" é teoria (Resoluções do trânsito)
+  if (t.startsWith('revisao + questoes') || t.includes('treino com questoes') || /^resolucao de (questoes|exercicios)/.test(t)) return 'Questões';
   if (t.startsWith('revisao')) return 'Revisão';
   return 'Teoria';
 }
