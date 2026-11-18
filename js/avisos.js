@@ -49,15 +49,25 @@ export async function listaAvisos(max = 8) {
 const lidos = () => { try { return new Set(JSON.parse(localStorage.getItem(LIDO_KEY) || '[]')); } catch { return new Set(); } };
 const fmt = (d) => { const x = new Date(String(d).length <= 10 ? d + 'T12:00:00' : d); return isNaN(x) ? '' : x.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: '2-digit' }); };
 
-// Desenha a caixa na página inicial
+const FECHADO_KEY = 'risk-avisos-fechado';
+const fechado = () => { try { return localStorage.getItem(FECHADO_KEY) === '1'; } catch { return false; } };
+const setFechado = (v) => { try { if (v) localStorage.setItem(FECHADO_KEY, '1'); else localStorage.removeItem(FECHADO_KEY); } catch {} };
+
+// Desenha a caixa na página inicial. O aluno pode fechar o quadro: ele vira um sininho com o número de avisos novos.
 export async function caixaAvisos(box) {
-  box.innerHTML = '<div class="card av-caixa"><h3 style="margin:0">📣 Avisos</h3><p class="muted" style="margin:6px 0 0">Carregando…</p></div>';
+  if (!fechado()) box.innerHTML = '<div class="card av-caixa"><h3 style="margin:0">📣 Avisos</h3><p class="muted" style="margin:6px 0 0">Carregando…</p></div>';
   const ls = await listaAvisos();
   const L = lidos();
   const novos = ls.filter((a) => !L.has(a.id)).length;
-  box.innerHTML = `<div class="card av-caixa"><div class="row"><h3 style="margin:0">📣 Avisos ${novos ? `<span class="badge">${novos} novo${novos > 1 ? 's' : ''}</span>` : ''}</h3><span class="sp"></span>${novos ? '<button class="btn sec mini" id="avLidos">Marcar como lidos</button>' : ''}</div>
-    ${ls.length ? `<ul class="av-lista">${ls.map((a) => `<li class="${L.has(a.id) ? '' : 'novo'}"><span class="av-ico">${ICO[a.tipo] || '📣'}</span><div><b>${a.link ? `<a href="${esc(a.link)}">${esc(a.titulo)}</a>` : esc(a.titulo)}</b>${a.texto ? `<div class="muted">${esc(a.texto)}</div>` : ''}</div><span class="av-data">${fmt(a.data)}</span></li>`).join('')}</ul>`
+  if (fechado()) {
+    box.innerHTML = `<div class="av-sino-wrap"><button class="av-sino" id="avAbrir" title="${novos ? `${novos} aviso${novos > 1 ? 's' : ''} novo${novos > 1 ? 's' : ''}` : 'Avisos'} · clique para abrir o quadro" aria-label="Abrir quadro de avisos">🔔${novos ? `<span class="av-num">${novos > 99 ? '99+' : novos}</span>` : ''}</button></div>`;
+    box.querySelector('#avAbrir').onclick = () => { setFechado(false); caixaAvisos(box); };
+    return;
+  }
+  box.innerHTML = `<div class="card av-caixa"><div class="row"><h3 style="margin:0">📣 Avisos ${novos ? `<span class="badge">${novos} novo${novos > 1 ? 's' : ''}</span>` : ''}</h3><span class="sp"></span>${novos ? '<button class="btn sec mini" id="avLidos">Marcar como lidos</button>' : ''}<button class="btn sec mini av-fechar" id="avFechar" title="Fechar o quadro de avisos (vira um sininho)">✕ Fechar quadro</button></div>
+    ${ls.length ? `<ul class="av-lista">${ls.map((a) => `<li class="${L.has(a.id) ? '' : 'novo'}"><span class="av-ico">${ICO[a.tipo] || '📣'}</span><div><b>${a.link ? `<a href="${esc(a.link)}">${esc(a.titulo)}</a>` : esc(a.titulo)}</b>${a.texto ? `<div class="muted">${esc(a.texto)}</div>` : ''}</div><span class="mono av-data">${fmt(a.data)}</span></li>`).join('')}</ul>`
       : '<p class="muted" style="margin:8px 0 0">Nenhum aviso por enquanto. Quando chegar conteúdo novo, simulado ou questões, aparece aqui.</p>'}</div>`;
   const b = box.querySelector('#avLidos');
   if (b) b.onclick = () => { try { localStorage.setItem(LIDO_KEY, JSON.stringify([...L, ...ls.map((a) => a.id)])); } catch {} caixaAvisos(box); };
+  box.querySelector('#avFechar').onclick = () => { setFechado(true); caixaAvisos(box); };
 }
