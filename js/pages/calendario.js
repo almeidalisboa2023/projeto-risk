@@ -12,6 +12,7 @@ import { TEMAS, temaAtual, progressoHTML } from '../temas.js';
 import { topicosValidos } from '../state.js';
 import { meuCurso } from '../cursos.js';
 import { assistente, convite } from './cronograma.js';
+import { blocosMistos, blocoMisto, separarBloco, separarTodos } from '../separar-blocos.js';
 
 let semanaSel = null, diaSel = null, visao = 'semana', mesSel = null, edSel = null;
 
@@ -36,7 +37,7 @@ export async function render(el, q) {
   const tarefas = doDia(diaSel);
   const feitos = tarefas.filter((t) => t.concluido).length;
   const dataSel = addDias(ini, diaSel);
-  const estado = !tarefas.length ? 'Sem blocos' : feitos === 0 ? 'Nenhum bloco ainda' : feitos === tarefas.length ? 'Dia concluído' : 'Em andamento';
+  const estado = !tarefas.length ? 'Sem blocos' : feitos === 0 ? 'Nenhum bloco feito ainda' : feitos === tarefas.length ? 'Dia concluído' : 'Em andamento';
   const semanas = [...new Set(S.tarefas.map((t) => t.semana))].sort((a, b) => a - b);
   const temaId = temaAtual(), T = temaId !== 'padrao' ? TEMAS[temaId] : null;
   const validos = topicosValidos(); const pctEd = pct(validos.filter((x) => x.concluido).length, validos.length) || 0;
@@ -56,6 +57,7 @@ export async function render(el, q) {
         return `<button class="dia ${i === diaSel ? 'sel' : ''} ${iso(di) === iso(h) ? 'hoje' : ''}" data-d="${i}">${d}<small>${ddmm(di)}</small><div class="pt ${ok ? 'feito' : parc ? 'parcial' : ''}"></div></button>`; }).join('')}</div>
       ${!daSemana.length ? `<div class="hero" style="margin-top:12px;padding:18px"><b>A semana ${semanaSel} ainda não tem blocos.</b><div class="muted" style="margin:4px 0 10px">${semanas.length ? `Semanas montadas: ${semanas[0]} a ${semanas[semanas.length - 1]}.` : 'Monte seu primeiro calendário.'}</div><button class="btn" data-i="1">+ Incluir esta semana (manual ou automático)</button></div>` : ''}
     </div>
+    ${(() => { const mx = blocosMistos(); return mx.length ? `<div class="card" style="margin-top:12px;border-left:4px solid var(--ouro2,#c9a227)"><b>⚠ ${mx.length} bloco(s) do seu calendário têm várias matérias juntas.</b><div class="muted" style="font-size:13.5px;margin:4px 0 10px">Isso acontece com cronogramas antigos ou colados em texto. O app pode dividir cada um em um bloco por matéria, no mesmo dia.</div><button class="btn mini" id="sepTodos">Separar todos agora</button></div>` : ''; })()}
     <div id="blocos"></div>
     <div class="row" style="margin-top:16px"><button class="btn sec" id="add">+ Adicionar matéria ao calendário</button><button class="btn sec" id="semana">Ver semana inteira</button>${daSemana.length ? `<button class="btn sec" data-g="1">Completar semana automaticamente</button>` : ''}</div>`;
   if (T) {
@@ -76,6 +78,8 @@ export async function render(el, q) {
   const irPara = (s) => { if (s) { semanaSel = s; diaSel = 0; } render(el); };
   el.querySelectorAll('[data-g]').forEach((b) => (b.onclick = () => gerarSemana(semanaSel, irPara)));
   el.querySelector('#incluir').onclick = () => incluirSemana(semanaSel, irPara);
+  const sepT = el.querySelector('#sepTodos');
+  if (sepT) sepT.onclick = async () => { sepT.disabled = true; sepT.textContent = 'Separando…'; try { const n = await separarTodos(blocosMistos()); toast(`${n} bloco(s) separados: agora cada matéria tem o seu bloco.`); } catch (e) { toast(e.message, 'erro'); } render(el); };
   el.querySelectorAll('[data-i]').forEach((b) => (b.onclick = () => incluirSemana(semanaSel, irPara, true)));
 
   const box = el.querySelector('#blocos');
@@ -108,6 +112,7 @@ export async function render(el, q) {
           <div class="row" style="margin-top:8px"><span class="pill dash">Banca: ${caiu ? 'já caiu' : 'não caiu'}</span><span class="pill">${esc(S.edital.concurso)}</span>${tp.concluido ? '<span class="pill verde">Assunto finalizado</span>' : ''}</div>
           ${leiSecaHTML(tp)}</details>` : '<div class="muted" style="font-size:13px">Tarefa sem tópico do edital ligado.</div>'}
       </div>
+      ${!t.concluido && blocoMisto(t) ? '<div class="row" style="margin:8px 0"><span class="pill" style="color:var(--vermelho)">Várias matérias neste bloco</span><button class="btn sec mini" data-a="separar">Separar em um bloco por matéria</button></div>' : ''}
       ${itens.map(([k, txt, auto]) => `<label class="check"><input type="checkbox" data-k="${k}" ${cl[k] || auto ? 'checked' : ''}> ${esc(txt)}</label>`).join('')}
       ${t.duvida ? `<div class="muted" style="font-size:13px">📝 ${esc(t.duvida)}</div>` : ''}
       ${(() => { const lt = acharLeitura(tp?.materia || t.materia, (tp?.topico || '') + ' ' + (t.topico || '')); return lt ? `<div class="row" style="margin-top:10px"><a class="btn sec mini lt-link" style="--c:${lt.mat.cor}" href="${lt.link}">📖 ${lt.a ? 'Ler o assunto: ' + esc(lt.rotulo) : 'Leitura de ' + esc(lt.rotulo)}</a></div>` : ''; })()}
@@ -131,6 +136,7 @@ export async function render(el, q) {
     card.querySelectorAll('[data-a]').forEach((b) => (b.onclick = async () => {
       const a = b.dataset.a;
       try {
+        if (a === 'separar') { b.disabled = true; const n = await separarBloco(t); toast(n > 1 ? `Bloco dividido em ${n} matérias.` : 'Nada para separar.'); render(el); return; }
         if (a === 'crono') { if (crono.atual()?.id === t.id) await crono.parar(); else { await crono.iniciar(t); } render(el); }
         if (a === 'concluir' && !t.concluido && crono.atual()?.id === t.id) await crono.parar();
         if (a === 'concluir') { await atualizarTarefa(t.id, { concluido: !t.concluido, concluido_em: t.concluido ? null : iso(hoje()) }); render(el); }

@@ -17,7 +17,7 @@ export function materiasDoPlano() {
   const pal = (h) => String(h || '').replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
   // tempo estimado do assunto: leitura (~180 palavras/min) + questões (~1,2 min cada) + 10 min de fixação
   return visiveis().filter((m) => (m.assuntos || []).length).map((m) => ({ id: m.id, nome: m.nome, ico: m.ico, cor: m.cor,
-    assuntos: m.assuntos.map((a) => a.titulo), est: m.assuntos.map((a) => pal(a.html) / 180 + pal(a.aprof) / 360 + (a.quiz?.length || 0) * 1.2 + 10) }));
+    assuntos: m.assuntos.map((a) => a.titulo), est: m.assuntos.map((a) => pal(a.html) / 180 + pal(a.aprof) / 360 + Math.min(a.quiz?.length || 0, 40) * 1.2 + 10) }));
 }
 
 const padrao = (mats, ant) => ({

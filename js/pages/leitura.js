@@ -157,6 +157,9 @@ function leitura(el, q, mat, idx) {
   </div>`;
 
   const $ = (s) => el.querySelector(s);
+  // índice com rolagem própria: deixa o tópico atual visível dentro dele, sem mexer na rolagem da página
+  { const ind = $('.lt-indice'), on = $('.lt-lista li.on');
+    if (ind && on && ind.scrollHeight > ind.clientHeight) ind.scrollTop = Math.max(0, on.offsetTop - ind.offsetTop - ind.clientHeight / 3); }
   // padrão visual (quadros de lei, caixas, marca-texto) em qualquer texto, inclusive os vindos de PDF
   padronizar($('[data-pane="ess"]'), $('[data-pane="apr"]'));
   // Jurisprudência: junta os blocos espalhados no texto numa aba própria
