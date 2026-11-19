@@ -29931,6 +29931,4801 @@ export const PROFUNDO = {
 ]
 }
 },
+"processo-civil": {
+"normas": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2016</b><span>ano em que o CPC (Lei 13.105/2015) entrou em vigor: 18 de março de 2016</span></div><div class=\"lt-stat\"><b>12 artigos</b><span>normas fundamentais do processo civil (CPC, arts. 1º a 12)</span></div><div class=\"lt-stat\"><b>2024</b><span>Lei 14.879 mudou o foro de eleição (art. 63)</span></div><div class=\"lt-stat\"><b>2</b><span>competência absoluta (matéria, pessoa, função) x relativa (valor e território)</span></div></div>\n<h3>1. O CPC de 2015 e a constitucionalização do processo</h3>\n<ul><li>O <b>Código de Processo Civil</b> (Lei 13.105, de 16 de março de 2015) entrou em vigor em <b>18 de março de 2016</b>, após <b>um ano</b> de <i>vacatio legis</i> (art. 1.045). Substituiu o CPC de 1973 (Código Buzaid). Desde então foi alterado por diversas leis, como a Lei 13.256/2016 (antes mesmo da vigência, restabeleceu o juízo de admissibilidade dos recursos especiais e extraordinários no tribunal de origem), a Lei 14.195/2021 (citação por meio eletrônico), a Lei 14.879/2024 (foro de eleição), a Lei 14.939/2024 (comprovação de feriado local), a Lei 15.109/2025 (dispensa de adiantamento de custas pelo advogado na cobrança de honorários) e a <b>Lei 15.484/2026</b> (filtro de relevância do recurso especial).</li><li>A marca do CPC/2015 é a <b>constitucionalização do processo</b>: o art. 1º diz que o processo civil será ordenado, disciplinado e interpretado conforme os <b>valores e as normas fundamentais</b> estabelecidos na <b>Constituição Federal</b>, observando-se as disposições do Código. O processo deixa de ser visto como mero instrumento técnico e passa a ser visto como meio de realização dos <b>direitos fundamentais</b> (devido processo legal, contraditório, ampla defesa, duração razoável, isonomia, publicidade, motivação).</li><li>O Código também valoriza: a <b>solução consensual</b> dos conflitos (conciliação e mediação); a <b>cooperação</b> entre os sujeitos do processo; a <b>primazia do julgamento de mérito</b> (o juiz deve, sempre que possível, sanar vícios para julgar o mérito); o <b>sistema de precedentes</b> (arts. 926 a 928); e a <b>vedação da decisão surpresa</b> (art. 10).</li></ul>\n<div class=\"lt-box\"><b class=\"lt-tit\">Como estudar este tópico</b><p>Para a prova de Procurador, leia os <b>arts. 1º a 12</b> (normas fundamentais) com atenção às palavras exatas, os <b>arts. 42 a 66</b> (competência) e os dispositivos que tratam da <b>Fazenda Pública</b> (foro da União e dos Estados, art. 51 e 52; competência da Justiça Federal, CF, art. 109). A Consulplan costuma cobrar a <b>letra</b> dos artigos, trocando \"deverá\" por \"poderá\", \"de ofício\" por \"a requerimento\", \"absoluta\" por \"relativa\".</p></div>\n<h3>2. As normas fundamentais (arts. 1º a 12)</h3>\n<table class=\"tab\"><thead><tr><th>Artigo</th><th>Norma fundamental</th><th>Palavra-chave</th></tr></thead><tbody><tr><td><b>Art. 1º</b></td><td>processo civil ordenado e interpretado conforme a Constituição</td><td>constitucionalização</td></tr><tr><td><b>Art. 2º</b></td><td>o processo começa por <b>iniciativa da parte</b> e se desenvolve por <b>impulso oficial</b>, salvo as exceções previstas em lei</td><td>inércia e impulso oficial</td></tr><tr><td><b>Art. 3º</b></td><td>não se excluirá da apreciação jurisdicional ameaça ou lesão a direito; é permitida a <b>arbitragem</b>; o Estado promoverá, sempre que possível, a <b>solução consensual</b></td><td>inafastabilidade e consensualidade</td></tr><tr><td><b>Art. 4º</b></td><td>as partes têm o direito de obter em <b>prazo razoável</b> a solução <b>integral do mérito</b>, <b>incluída a atividade satisfativa</b></td><td>duração razoável e primazia do mérito</td></tr><tr><td><b>Art. 5º</b></td><td>aquele que de qualquer forma participa do processo deve comportar-se de acordo com a <b>boa-fé</b></td><td>boa-fé objetiva</td></tr><tr><td><b>Art. 6º</b></td><td>todos os sujeitos do processo devem <b>cooperar</b> entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva</td><td>cooperação</td></tr><tr><td><b>Art. 7º</b></td><td>é assegurada às partes <b>paridade de tratamento</b>, competindo ao juiz zelar pelo efetivo <b>contraditório</b></td><td>isonomia e contraditório</td></tr><tr><td><b>Art. 8º</b></td><td>ao aplicar o ordenamento, o juiz atenderá aos <b>fins sociais</b> e às exigências do <b>bem comum</b>, resguardando e promovendo a <b>dignidade da pessoa humana</b> e observando a <b>proporcionalidade, a razoabilidade, a legalidade, a publicidade e a eficiência</b></td><td>interpretação</td></tr><tr><td><b>Art. 9º</b></td><td>não se proferirá decisão <b>contra</b> uma das partes <b>sem que ela seja previamente ouvida</b></td><td>contraditório prévio</td></tr><tr><td><b>Art. 10</b></td><td>o juiz não pode decidir, em grau algum de jurisdição, com base em <b>fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar</b>, ainda que se trate de matéria sobre a qual deva decidir <b>de ofício</b></td><td>vedação da decisão surpresa</td></tr><tr><td><b>Art. 11</b></td><td>todos os julgamentos dos órgãos do Poder Judiciário serão <b>públicos</b>, e fundamentadas todas as decisões, sob pena de <b>nulidade</b></td><td>publicidade e motivação</td></tr><tr><td><b>Art. 12</b></td><td>os juízes e os tribunais atenderão, <b>preferencialmente</b>, à <b>ordem cronológica de conclusão</b> para proferir sentença ou acórdão</td><td>ordem cronológica</td></tr></tbody></table>\n<ul><li><b>Art. 2º (inércia)</b>: o juiz não age de ofício para iniciar o processo (<i>ne procedat iudex ex officio</i>). Mas, uma vez proposta a ação, o processo anda por <b>impulso oficial</b>: o juiz determina os atos seguintes independentemente de requerimento. Há exceções legais em que o juiz pode agir de ofício para iniciar procedimentos, como a instauração de incidente de resolução de demandas repetitivas por ofício do juiz ao tribunal (art. 977, I) e a arrecadação de bens de ausente (art. 744).</li><li><b>Art. 3º (inafastabilidade e consensualidade)</b>: o § 1º diz que é permitida a <b>arbitragem</b>, na forma da lei (Lei 9.307/1996). O § 2º: o Estado promoverá, <b>sempre que possível</b>, a solução consensual dos conflitos. O § 3º: a conciliação, a mediação e outros métodos de solução consensual de conflitos <b>deverão ser estimulados</b> por juízes, advogados, defensores públicos e membros do Ministério Público, <b>inclusive no curso do processo judicial</b>. A arbitragem é compatível com a inafastabilidade porque é escolha voluntária das partes (STF, SE 5.206).</li><li><b>Art. 4º (primazia do mérito e satisfação)</b>: o direito a uma solução em prazo razoável inclui a <b>atividade satisfativa</b>, ou seja, a execução. Não basta a sentença: é preciso entregar o bem da vida. Daí decorrem regras como o art. 317 (antes de proferir decisão sem resolução de mérito, o juiz deverá conceder à parte oportunidade para, se possível, corrigir o vício), o art. 139, IX (determinar o suprimento de pressupostos processuais e o saneamento de outros vícios) e o art. 932, parágrafo único (antes de considerar inadmissível o recurso, o relator concederá prazo de 5 dias ao recorrente para que seja sanado vício ou complementada a documentação exigível).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O processo começa por impulso oficial</span><br>✅ <span class=\"certo\">Começa por <b>iniciativa da parte</b> e se desenvolve por <b>impulso oficial</b> (art. 2º)</span></li><li>❌ <span class=\"banca\">A arbitragem viola a inafastabilidade da jurisdição</span><br>✅ <span class=\"certo\">O art. 3º, § 1º, <b>permite</b> a arbitragem</span></li><li>❌ <span class=\"banca\">A duração razoável abrange só a fase de conhecimento</span><br>✅ <span class=\"certo\">Inclui a <b>atividade satisfativa</b> (art. 4º)</span></li><li>❌ <span class=\"banca\">A ordem cronológica de julgamento é obrigatória e absoluta</span><br>✅ <span class=\"certo\">Após a Lei 13.256/2016, deve ser observada <b>preferencialmente</b> (art. 12)</span></li></ol></div>\n<h3>3. Contraditório, vedação da decisão surpresa e suas exceções</h3>\n<ul><li>O <b>contraditório</b> no CPC/2015 tem dupla dimensão: <b>formal</b> (direito de ser informado e de reagir) e <b>substancial</b> (poder de <b>influência</b>: a parte tem o direito de que seus argumentos sejam considerados e de não ser surpreendida). Os arts. 9º e 10 concretizam o contraditório substancial.</li><li><b>Art. 9º, parágrafo único (exceções ao contraditório prévio)</b>: o contraditório prévio não se aplica: I, à <b>tutela provisória de urgência</b>; II, às hipóteses de <b>tutela da evidência</b> previstas no art. 311, incisos II e III (tese firmada em casos repetitivos ou súmula vinculante, com prova documental; pedido reipersecutório fundado em contrato de depósito); III, à decisão prevista no art. 701 (expedição do <b>mandado monitório</b>). Nesses casos, o contraditório é <b>diferido</b> (postergado), e não eliminado.</li><li><b>Art. 10 (decisão surpresa)</b>: vale mesmo para matérias que o juiz pode conhecer <b>de ofício</b> (prescrição, decadência, incompetência absoluta, ilegitimidade). O juiz pode conhecer de ofício, mas deve <b>ouvir as partes antes</b>. O art. 487, parágrafo único, confirma: ressalvada a hipótese do § 1º do art. 332 (improcedência liminar), a <b>prescrição e a decadência não serão reconhecidas sem que antes seja dada às partes oportunidade de manifestar-se</b>.</li><li><b>Embargos de declaração e decisão surpresa</b>: o STJ entende que a vedação do art. 10 não alcança a mera <b>qualificação jurídica</b> diferente dos fatos já debatidos (<i>iura novit curia</i>), desde que não traga <b>fundamento</b> novo que as partes não tiveram chance de discutir. A linha é tênue: aplicar outro artigo de lei aos mesmos fatos é possível; decidir com base em fato ou argumento jurídico não debatido exige oitiva prévia.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Vedação da decisão surpresa</b><p class=\"jc-tese\">O STJ entende que o \"fundamento\" ao qual se refere o art. 10 é o fundamento <b>jurídico</b> (circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa), e não o mero <b>dispositivo legal</b> aplicado. O juiz pode aplicar norma legal diversa da invocada pelas partes, desde que não altere os fatos e os fundamentos jurídicos debatidos (<i>da mihi factum, dabo tibi ius</i>).</p><p class=\"jc-com\">Para a prova: o juiz <b>pode</b> conhecer de ofício a prescrição, mas <b>não pode</b> fazê-lo sem antes ouvir as partes (art. 487, parágrafo único). A exceção é a <b>improcedência liminar</b> do art. 332, § 1º, em que o juiz reconhece prescrição ou decadência antes mesmo da citação; mesmo assim, o autor pode apelar e o juiz pode se retratar em 5 dias.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O contraditório prévio se aplica sempre, sem exceção</span><br>✅ <span class=\"certo\">Não se aplica à <b>tutela de urgência</b>, à <b>tutela da evidência</b> do art. 311, II e III, e ao <b>mandado monitório</b> (art. 9º, parágrafo único)</span></li><li>❌ <span class=\"banca\">Matéria que o juiz conhece de ofício dispensa oitiva das partes</span><br>✅ <span class=\"certo\">Mesmo nessas matérias, o art. 10 exige <b>oportunidade de manifestação</b></span></li><li>❌ <span class=\"banca\">A prescrição nunca pode ser reconhecida sem citação do réu</span><br>✅ <span class=\"certo\">Pode, na <b>improcedência liminar</b> (art. 332, § 1º)</span></li></ol></div>\n<h3>4. Boa-fé, cooperação e negócios processuais</h3>\n<ul><li><b>Boa-fé processual</b> (art. 5º): é <b>objetiva</b> (padrão de conduta leal), e não apenas subjetiva. Dela decorrem a vedação do <b>comportamento contraditório</b> (<i>venire contra factum proprium</i>), a <b>supressio</b> e a proibição de abuso de direitos processuais. Exemplo: a parte que concorda expressamente com um ato não pode depois impugná-lo (preclusão lógica, art. 1.000).</li><li><b>Cooperação</b> (art. 6º): todos os sujeitos do processo, <b>inclusive o juiz</b>, devem cooperar. Para o juiz, a doutrina identifica deveres de <b>esclarecimento</b> (pedir às partes que esclareçam suas alegações), de <b>prevenção</b> (apontar vícios e indicar como corrigi-los, art. 321), de <b>consulta</b> (ouvir as partes antes de decidir, art. 10) e de <b>auxílio</b> (ajudar a parte a superar dificuldades, como na requisição de informações).</li><li><b>Negócio jurídico processual atípico</b> (art. 190): versando o processo sobre direitos que admitam <b>autocomposição</b>, é lícito às partes <b>plenamente capazes</b> estipular mudanças no procedimento para ajustá-lo às especificidades da causa e convencionar sobre os seus ônus, poderes, faculdades e deveres processuais, <b>antes ou durante</b> o processo. O juiz controlará a validade, recusando-lhes aplicação somente nos casos de <b>nulidade</b> ou de inserção abusiva em <b>contrato de adesão</b> ou em que alguma parte se encontre em manifesta situação de <b>vulnerabilidade</b> (parágrafo único). Exemplos: ampliar prazos, dispensar perícia, eleger perito, renunciar a recurso, distribuir de modo diverso o ônus da prova.</li><li><b>Calendário processual</b> (art. 191): de comum acordo, o juiz e as partes podem fixar <b>calendário</b> para a prática dos atos processuais. O calendário <b>vincula</b> as partes e o juiz, e os prazos nele previstos somente serão modificados em casos excepcionais, devidamente justificados. <b>Dispensa-se a intimação</b> das partes para a prática de ato processual ou a realização de audiência cujas datas tiverem sido designadas no calendário.</li><li><b>Fazenda Pública e negócios processuais</b>: o Enunciado 256 do Fórum Permanente de Processualistas Civis (FPPC) admite que a Fazenda Pública celebre negócio jurídico processual. Como os direitos da Fazenda nem sempre são indisponíveis em sentido absoluto (há autocomposição em muitas causas, como as de pequeno valor e as previstas em lei de cada ente), a doutrina majoritária admite negócios processuais pela Administração, desde que haja <b>autorização</b> normativa e respeito ao <b>interesse público</b>. A <b>Lei 13.140/2015</b> (Lei de Mediação) prevê a autocomposição de conflitos envolvendo a Administração Pública, e muitos Municípios têm leis que autorizam a Procuradoria a fazer acordos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O negócio processual atípico pode ser celebrado em qualquer causa</span><br>✅ <span class=\"certo\">Só em causas que admitam <b>autocomposição</b>, entre partes <b>plenamente capazes</b></span></li><li>❌ <span class=\"banca\">O juiz homologa o negócio processual como condição de validade</span><br>✅ <span class=\"certo\">O juiz apenas <b>controla a validade</b>, recusando-o em caso de nulidade, adesão abusiva ou vulnerabilidade</span></li><li>❌ <span class=\"banca\">O calendário processual exige intimação para cada ato</span><br>✅ <span class=\"certo\"><b>Dispensa</b> a intimação para atos com datas no calendário (art. 191, § 2º)</span></li><li>❌ <span class=\"banca\">O dever de cooperação não se aplica ao juiz</span><br>✅ <span class=\"certo\"><b>Todos</b> os sujeitos do processo, inclusive o juiz, devem cooperar</span></li></ol></div>\n<h3>5. Aplicação das normas processuais (arts. 13 a 15)</h3>\n<ul><li><b>Territorialidade</b> (art. 13): a jurisdição civil será regida pelas normas processuais <b>brasileiras</b>, ressalvadas as disposições específicas previstas em <b>tratados, convenções ou acordos internacionais</b> de que o Brasil seja parte.</li><li><b>Lei processual no tempo</b> (art. 14): a norma processual <b>não retroagirá</b> e será aplicável <b>imediatamente</b> aos processos em curso, respeitados os <b>atos processuais praticados</b> e as <b>situações jurídicas consolidadas</b> sob a vigência da norma revogada. É a teoria do <b>isolamento dos atos processuais</b>: cada ato é regido pela lei vigente no momento em que é praticado (<i>tempus regit actum</i>).</li><li><b>Recursos e direito intertemporal</b>: o STJ fixou, no <b>Enunciado Administrativo 2</b>, que aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma do código revogado; e, no <b>Enunciado Administrativo 3</b>, que aos recursos interpostos contra decisões publicadas a partir de 18 de março de 2016 serão exigidos os requisitos do novo CPC. A regra é: o recurso cabível e seus requisitos são os da lei vigente na data da <b>publicação da decisão</b> recorrida.</li><li><b>Honorários e direito intertemporal</b>: o STJ entende que a sentença é o marco para a aplicação das regras de honorários do CPC/2015 (art. 85): sentenças proferidas a partir de 18/03/2016 seguem o novo código.</li><li><b>Aplicação supletiva e subsidiária</b> (art. 15): na ausência de normas que regulem processos <b>eleitorais, trabalhistas ou administrativos</b>, as disposições do CPC lhes serão aplicadas <b>supletiva e subsidiariamente</b>. <b>Subsidiária</b> = quando há lacuna total; <b>supletiva</b> = quando há norma, mas incompleta. Atenção: o art. 15 <b>não menciona o processo penal</b> (que tem o art. 3º do CPP).</li><li><b>Processo administrativo municipal</b>: na falta de lei municipal sobre processo administrativo, aplica-se a <b>Lei 9.784/1999</b> por analogia (Súmula 633 do STJ sobre o prazo decadencial de anulação de atos) e, supletivamente, o CPC (art. 15).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A lei processual nova retroage para alcançar atos já praticados</span><br>✅ <span class=\"certo\"><b>Não retroage</b>; aplica-se <b>imediatamente</b> aos processos em curso, respeitados os atos praticados (art. 14)</span></li><li>❌ <span class=\"banca\">O art. 15 do CPC manda aplicá-lo supletivamente ao processo penal</span><br>✅ <span class=\"certo\">O art. 15 menciona processos <b>eleitorais, trabalhistas e administrativos</b></span></li><li>❌ <span class=\"banca\">O recurso cabível é o da lei vigente na data da interposição</span><br>✅ <span class=\"certo\">É o da lei vigente na data da <b>publicação da decisão</b> recorrida</span></li></ol></div>\n<h3>6. Jurisdição: conceito, características e princípios</h3>\n<ul><li><b>Jurisdição</b> é a função estatal de <b>aplicar o direito ao caso concreto</b>, de forma <b>imparcial</b> e <b>definitiva</b>, substituindo a vontade das partes, para resolver conflitos e realizar direitos. O art. 16 diz que a jurisdição civil é exercida pelos <b>juízes e pelos tribunais</b> em todo o território nacional, conforme as disposições do Código.</li></ul>\n<table class=\"tab\"><thead><tr><th>Característica</th><th>Explicação</th></tr></thead><tbody><tr><td><b>Substitutividade</b></td><td>o Estado-juiz substitui a vontade das partes pela vontade da lei (Chiovenda)</td></tr><tr><td><b>Inércia</b></td><td>a jurisdição só atua mediante provocação (art. 2º)</td></tr><tr><td><b>Imparcialidade</b></td><td>o juiz é terceiro desinteressado (impedimento e suspeição, arts. 144 e 145)</td></tr><tr><td><b>Definitividade</b></td><td>aptidão para a <b>coisa julgada</b> material, que só a jurisdição tem (atos administrativos não fazem coisa julgada material)</td></tr><tr><td><b>Lide</b> (característica discutida)</td><td>a jurisdição normalmente resolve conflitos, mas há jurisdição sem lide, como na voluntária</td></tr><tr><td><b>Unidade</b></td><td>a jurisdição é una; a divisão em \"Justiças\" é divisão de <b>competência</b></td></tr></tbody></table>\n<ul><li><b>Princípios da jurisdição</b>: <b>investidura</b> (só exerce jurisdição quem foi regularmente investido no cargo de juiz); <b>indelegabilidade</b> (o juiz não pode delegar sua função; admite-se a prática de atos ordinatórios por servidores, art. 203, § 4º, e a carta de ordem e precatória); <b>inevitabilidade</b> (as partes não podem evitar a sujeição à decisão); <b>inafastabilidade</b> (art. 5º, XXXV, CF; art. 3º, CPC); <b>juiz natural</b> (art. 5º, XXXVII e LIII: não haverá juízo ou tribunal de exceção; ninguém será processado nem sentenciado senão pela autoridade competente); <b>territorialidade</b> (o juiz exerce jurisdição nos limites de seu território, salvo exceções como a citação por correio em outra comarca e os atos em comarcas contíguas, art. 255).</li><li><b>Jurisdição contenciosa x voluntária</b>: na <b>contenciosa</b>, há conflito e partes; na <b>voluntária</b> (arts. 719 a 770), há <b>interessados</b>, e o juiz administra interesses privados (por exemplo, alienação de bens de incapazes, interdição, divórcio consensual com filhos menores, alvará). Na jurisdição voluntária, o juiz <b>não é obrigado a observar critério de legalidade estrita</b>, podendo adotar em cada caso a solução que considerar mais <b>conveniente ou oportuna</b> (art. 723, parágrafo único).</li><li><b>Ação</b> (art. 17): para postular em juízo é necessário ter <b>interesse</b> e <b>legitimidade</b>. O CPC/2015 <b>abandonou a expressão \"condições da ação\"</b> e retirou a <b>possibilidade jurídica do pedido</b> como categoria autônoma (ela passou a ser analisada como questão de <b>mérito</b>). A ausência de interesse ou de legitimidade leva à extinção <b>sem resolução do mérito</b> (art. 485, VI).</li><li><b>Legitimidade extraordinária</b> (art. 18): ninguém poderá pleitear direito alheio em nome próprio, <b>salvo quando autorizado pelo ordenamento jurídico</b>. Havendo <b>substituição processual</b>, o substituído poderá intervir como <b>assistente litisconsorcial</b> (parágrafo único). Exemplos: MP na ação civil pública, sindicato na defesa dos direitos da categoria, associação no mandado de segurança coletivo.</li><li><b>Ação declaratória</b> (arts. 19 e 20): o interesse do autor pode limitar-se à declaração da existência, da inexistência ou do modo de ser de uma relação jurídica, ou da autenticidade ou da falsidade de documento. É <b>admissível</b> a ação meramente declaratória, <b>ainda que tenha ocorrido a violação do direito</b> (art. 20).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A possibilidade jurídica do pedido continua sendo condição da ação no CPC/2015</span><br>✅ <span class=\"certo\">Deixou de ser categoria autônoma; o art. 17 exige <b>interesse e legitimidade</b></span></li><li>❌ <span class=\"banca\">A ação declaratória é inadmissível se já houve violação do direito</span><br>✅ <span class=\"certo\">É <b>admissível</b> mesmo após a violação (art. 20)</span></li><li>❌ <span class=\"banca\">Na jurisdição voluntária, o juiz deve seguir a legalidade estrita</span><br>✅ <span class=\"certo\"><b>Não</b> é obrigado; pode adotar a solução mais conveniente ou oportuna (art. 723, parágrafo único)</span></li><li>❌ <span class=\"banca\">O juiz pode delegar a função jurisdicional ao chefe de secretaria</span><br>✅ <span class=\"certo\">A jurisdição é <b>indelegável</b>; servidores praticam <b>atos ordinatórios</b></span></li></ol></div>\n<h3>7. Limites da jurisdição nacional (arts. 21 a 25)</h3>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Hipóteses</th></tr></thead><tbody><tr><td><b>Concorrente</b> (art. 21)</td><td>réu, qualquer que seja sua nacionalidade, <b>domiciliado no Brasil</b>; obrigação a ser cumprida no Brasil; fundamento em <b>fato ocorrido ou ato praticado no Brasil</b>; pessoa jurídica estrangeira que tiver no Brasil agência, filial ou sucursal</td></tr><tr><td><b>Concorrente</b> (art. 22)</td><td>ações de <b>alimentos</b>, quando o credor tiver domicílio ou residência no Brasil ou o réu mantiver vínculos no Brasil (bens, renda); ações decorrentes de relações de <b>consumo</b>, quando o consumidor tiver domicílio ou residência no Brasil; ações em que as partes, expressa ou tacitamente, se <b>submeterem à jurisdição nacional</b></td></tr><tr><td><b>Exclusiva</b> (art. 23)</td><td>ações relativas a <b>imóveis situados no Brasil</b>; em matéria de sucessão hereditária, confirmação de testamento particular e inventário e partilha de <b>bens situados no Brasil</b>; em divórcio, separação judicial ou dissolução de união estável, partilha de <b>bens situados no Brasil</b></td></tr></tbody></table>\n<ul><li><b>Litispendência internacional</b> (art. 24): a ação proposta perante tribunal estrangeiro <b>não induz litispendência</b> e não obsta a que a autoridade judiciária brasileira conheça da mesma causa e das que lhe são conexas, ressalvadas as disposições em contrário de tratados internacionais e acordos bilaterais em vigor no Brasil. A pendência de causa perante a jurisdição brasileira <b>não impede a homologação de sentença</b> judicial estrangeira quando exigida para produzir efeitos no Brasil (parágrafo único).</li><li><b>Eleição de foro estrangeiro</b> (art. 25): não compete à autoridade judiciária brasileira o processamento e o julgamento da ação quando houver <b>cláusula de eleição de foro exclusivo estrangeiro</b> em contrato internacional, arguida pelo réu na contestação. Não se aplica às hipóteses de competência internacional <b>exclusiva</b>.</li><li><b>Homologação de sentença estrangeira</b>: compete ao <b>STJ</b> (CF, art. 105, I, \"i\", incluído pela EC 45/2004), assim como a concessão de <i>exequatur</i> às cartas rogatórias. Antes da EC 45, era do STF.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A ação proposta em tribunal estrangeiro induz litispendência no Brasil</span><br>✅ <span class=\"certo\"><b>Não induz</b> (art. 24)</span></li><li>❌ <span class=\"banca\">A partilha de imóvel situado no Brasil pode ser feita por juiz estrangeiro com efeitos aqui</span><br>✅ <span class=\"certo\">É competência <b>exclusiva</b> da autoridade brasileira (art. 23)</span></li><li>❌ <span class=\"banca\">A homologação de sentença estrangeira compete ao STF</span><br>✅ <span class=\"certo\">Compete ao <b>STJ</b> desde a EC 45/2004</span></li></ol></div>\n<h3>8. Cooperação internacional e nacional</h3>\n<ul><li><b>Cooperação internacional</b> (arts. 26 a 41): será regida por tratado de que o Brasil faz parte e observará garantias como o devido processo legal, a igualdade de tratamento entre nacionais e estrangeiros, a publicidade (salvo sigilo), a existência de <b>autoridade central</b> (em regra, o <b>Ministério da Justiça</b>) e a espontaneidade na transmissão de informações. Na ausência de tratado, pode realizar-se com base em <b>reciprocidade</b>, manifestada por via diplomática (art. 26, § 1º), não exigida para homologação de sentença estrangeira. Instrumentos: <b>auxílio direto</b> (quando a medida não decorre diretamente de decisão de autoridade jurisdicional estrangeira a ser submetida a juízo de delibação no Brasil, art. 28), <b>carta rogatória</b> e <b>homologação de decisão estrangeira</b>.</li><li><b>Cooperação nacional</b> (arts. 67 a 69): aos órgãos do Poder Judiciário, estadual ou federal, especializado ou comum, em todas as instâncias e graus de jurisdição, inclusive aos tribunais superiores, incumbe o <b>dever de recíproca cooperação</b>, por meio de seus magistrados e servidores. O pedido de cooperação jurisdicional deve ser <b>prontamente atendido</b>, <b>prescinde de forma específica</b> e pode ser executado como: <b>auxílio direto</b>; <b>reunião ou apensamento de processos</b>; <b>prestação de informações</b>; e <b>atos concertados</b> entre os juízes cooperantes (art. 69). Os atos concertados podem servir, por exemplo, para a prática de citação, intimação ou notificação, a obtenção e apresentação de provas, a efetivação de tutela provisória, a centralização de processos repetitivos e a execução de decisão jurisdicional (§ 2º).</li><li><b>Cartas</b> (art. 237): <b>carta de ordem</b> (do tribunal para juízo a ele vinculado); <b>carta rogatória</b> (para órgão jurisdicional estrangeiro); <b>carta precatória</b> (para órgão jurisdicional brasileiro de competência territorial diversa); <b>carta arbitral</b> (para que órgão do Judiciário pratique ou determine o cumprimento, na área de sua competência territorial, de ato solicitado por <b>juízo arbitral</b>, inclusive os que importem efetivação de tutela provisória).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carta de ordem</span></span><span class=\"vs\"><span>tribunal para juízo vinculado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carta rogatória</span></span><span class=\"vs\"><span>para autoridade estrangeira (exequatur pelo STJ)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carta precatória</span></span><span class=\"vs\"><span>entre juízos brasileiros de territórios diversos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carta arbitral</span></span><span class=\"vs\"><span>do árbitro para o juiz estatal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Auxílio direto</span></span><span class=\"vs\"><span>medida sem juízo de delibação de decisão estrangeira</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atos concertados</span></span><span class=\"vs\"><span>cooperação nacional sem forma específica (art. 69)</span></span></button></div></div>\n<h3>9. Competência: conceito e critérios</h3>\n<ul><li><b>Competência</b> é a <b>medida da jurisdição</b>: a quantidade de jurisdição atribuída a cada órgão. Todo juiz tem jurisdição, mas só exerce sobre as causas de sua competência. O art. 42 diz que as causas cíveis serão processadas e decididas pelo juiz nos limites de sua competência, ressalvado às partes o direito de instituir <b>juízo arbitral</b>, na forma da lei.</li><li><b>Perpetuação da jurisdição</b> (art. 43): determina-se a competência no momento do <b>registro ou da distribuição</b> da petição inicial, sendo <b>irrelevantes</b> as modificações do estado de fato ou de direito ocorridas posteriormente, <b>salvo</b> quando <b>suprimirem órgão judiciário</b> ou <b>alterarem a competência absoluta</b>. Exemplo: se o réu muda de domicílio depois da propositura, a competência não muda. Mas se for criada uma vara especializada (competência absoluta em razão da matéria), os processos são redistribuídos.</li><li><b>Critérios clássicos</b>: a doutrina (Chiovenda) divide a competência em <b>objetiva</b> (em razão da matéria, da pessoa e do valor da causa), <b>funcional</b> (distribuição das funções entre órgãos no mesmo processo: originária, recursal, execução) e <b>territorial</b> (o foro).</li></ul>\n<table class=\"tab\"><thead><tr><th>Critério</th><th>Natureza</th><th>Consequência</th></tr></thead><tbody><tr><td><b>Matéria</b> (ex.: vara de família, vara da Fazenda Pública)</td><td><b>absoluta</b></td><td>não se modifica por vontade das partes; conhecida de ofício</td></tr><tr><td><b>Pessoa</b> (ex.: União na Justiça Federal; Fazenda estadual ou municipal na vara da Fazenda)</td><td><b>absoluta</b></td><td>idem</td></tr><tr><td><b>Funcional</b> (ex.: tribunal para recurso; juízo da ação principal para a cautelar)</td><td><b>absoluta</b></td><td>idem</td></tr><tr><td><b>Valor da causa</b></td><td>em regra <b>relativa</b> (mas é absoluta no Juizado da Fazenda Pública e no JEF, onde instalados)</td><td>pode ser prorrogada</td></tr><tr><td><b>Território</b></td><td>em regra <b>relativa</b> (mas há exceções absolutas: ações reais imobiliárias do art. 47, caput e § 1º; ação civil pública, Lei 7.347, art. 2º)</td><td>pode ser prorrogada; admite eleição de foro</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Aspecto</th><th>Incompetência absoluta</th><th>Incompetência relativa</th></tr></thead><tbody><tr><td>Pode ser modificada pelas partes?</td><td><b>não</b></td><td><b>sim</b> (eleição de foro, prorrogação)</td></tr><tr><td>Conhecida de ofício?</td><td><b>sim</b>, em qualquer tempo e grau de jurisdição (art. 64, § 1º)</td><td><b>não</b> (Súmula 33 do STJ), salvo a cláusula de eleição de foro <b>abusiva</b>, que o juiz pode declarar ineficaz de ofício antes da citação (art. 63, § 3º)</td></tr><tr><td>Como se alega</td><td>como <b>preliminar de contestação</b> (art. 64)</td><td>como <b>preliminar de contestação</b> (art. 64); o CPC/2015 acabou com a exceção de incompetência em peça autônoma</td></tr><tr><td>Se não alegada</td><td>pode ser alegada depois, até o trânsito em julgado; após, cabe <b>ação rescisória</b> (art. 966, II)</td><td><b>prorroga-se</b> a competência (art. 65)</td></tr><tr><td>Quem pode alegar</td><td>partes, MP e juiz de ofício</td><td>réu; o <b>MP</b> pode alegar nas causas em que atuar (art. 65, parágrafo único)</td></tr></tbody></table>\n<ul><li><b>Efeitos da declaração de incompetência</b> (art. 64, §§ 3º e 4º): caso a alegação de incompetência seja acolhida, os autos serão remetidos ao <b>juízo competente</b>. Salvo decisão judicial em sentido contrário, <b>conservar-se-ão os efeitos</b> de decisão proferida pelo juízo incompetente até que outra seja proferida, se for o caso, pelo juízo competente. Ou seja: o CPC/2015 acabou com a regra de que os atos decisórios do juiz absolutamente incompetente seriam automaticamente nulos; eles <b>valem até que o juiz competente decida</b> de outro modo (<i>translatio iudicii</i>).</li><li><b>Incompetência e extinção</b>: em regra, a incompetência leva à <b>remessa</b> dos autos, e não à extinção. Exceção importante: nos <b>Juizados Especiais Cíveis</b> (Lei 9.099, art. 51, III) e na hipótese de incompetência internacional, a consequência é a <b>extinção</b> do processo.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A incompetência relativa pode ser declarada de ofício pelo juiz</span><br>✅ <span class=\"certo\"><b>Não</b> (Súmula 33 do STJ), salvo a cláusula de eleição de foro <b>abusiva</b> antes da citação</span></li><li>❌ <span class=\"banca\">A incompetência relativa é alegada em exceção, em peça autônoma</span><br>✅ <span class=\"certo\">No CPC/2015, é alegada como <b>preliminar de contestação</b> (art. 64)</span></li><li>❌ <span class=\"banca\">Reconhecida a incompetência absoluta, todos os atos decisórios são automaticamente nulos</span><br>✅ <span class=\"certo\">Conservam-se os efeitos até nova decisão do juízo competente (art. 64, § 4º)</span></li><li>❌ <span class=\"banca\">A mudança de domicílio do réu após a distribuição desloca a competência</span><br>✅ <span class=\"certo\">Vale a <b>perpetuação</b> da jurisdição (art. 43)</span></li></ol></div>\n<h3>10. Competência territorial: regras gerais e especiais</h3>\n<ul><li><b>Regra geral</b> (art. 46): a ação fundada em <b>direito pessoal</b> ou em <b>direito real sobre bens móveis</b> será proposta, em regra, no <b>foro de domicílio do réu</b>. Tendo mais de um domicílio, o réu será demandado no foro de qualquer deles. Sendo incerto ou desconhecido o domicílio do réu, ele poderá ser demandado onde for encontrado ou no foro de domicílio do autor. Quando o réu não tiver domicílio ou residência no Brasil, a ação será proposta no foro de domicílio do autor, e, se este também residir fora do Brasil, a ação será proposta em qualquer foro. Havendo <b>2 ou mais réus</b> com diferentes domicílios, serão demandados no foro de qualquer deles, à <b>escolha do autor</b>.</li><li><b>Execução fiscal</b> (art. 46, § 5º): a execução fiscal será proposta no foro de <b>domicílio do réu</b>, no de sua <b>residência</b> ou no do <b>lugar onde for encontrado</b>. O STF, nas <b>ADIs 5.492 e 5.737</b> (2023), deu interpretação conforme ao dispositivo para restringir sua aplicação aos <b>limites territoriais</b> de cada ente subnacional ou ao local de ocorrência do fato gerador: um Estado ou Município não pode ser obrigado a executar seu crédito em comarca de outro Estado. O Município executa no <b>seu próprio foro</b> quando o devedor ou o fato gerador estiver nele.</li><li><b>Ações reais imobiliárias</b> (art. 47): para as ações fundadas em <b>direito real sobre imóveis</b> é competente o foro de <b>situação da coisa</b> (<i>forum rei sitae</i>). O autor pode optar pelo foro de domicílio do réu ou pelo foro de eleição <b>se o litígio não recair</b> sobre direito de <b>propriedade, vizinhança, servidão, divisão e demarcação de terras e de nunciação de obra nova</b> (§ 1º). Nessas hipóteses listadas, a competência é <b>absoluta</b>. A <b>ação possessória imobiliária</b> será proposta no foro de situação da coisa, cujo juízo tem competência <b>absoluta</b> (§ 2º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Ação</th><th>Foro competente</th></tr></thead><tbody><tr><td><b>Inventário, partilha, arrecadação, cumprimento de disposições de última vontade, impugnação ou anulação de partilha extrajudicial</b> (art. 48)</td><td><b>último domicílio do autor da herança</b> no Brasil; se não tinha domicílio certo, o foro de situação dos bens imóveis; havendo imóveis em foros diferentes, qualquer destes; não havendo imóveis, o foro do local de qualquer dos bens do espólio</td></tr><tr><td><b>Ausente</b> (art. 49)</td><td>foro de seu <b>último domicílio</b></td></tr><tr><td><b>Incapaz</b> (art. 50)</td><td>foro de domicílio de seu <b>representante ou assistente</b></td></tr><tr><td><b>Divórcio, separação, anulação de casamento, reconhecimento ou dissolução de união estável</b> (art. 53, I)</td><td>a) domicílio do <b>guardião de filho incapaz</b>; b) <b>último domicílio do casal</b>, caso não haja filho incapaz; c) <b>domicílio do réu</b>, se nenhuma das partes residir no antigo domicílio do casal; d) domicílio da <b>vítima de violência doméstica e familiar</b> (Lei 13.894/2019)</td></tr><tr><td><b>Alimentos</b> (art. 53, II)</td><td>domicílio ou residência do <b>alimentando</b></td></tr><tr><td><b>Estatuto da Pessoa Idosa</b> (art. 53, III, \"e\")</td><td><b>residência do idoso</b>, para a causa que verse sobre direito previsto no respectivo estatuto</td></tr><tr><td><b>Reparação de dano</b> (art. 53, IV, \"a\")</td><td><b>lugar do ato ou fato</b></td></tr><tr><td><b>Acidente de veículo, inclusive aeronave, ou delito</b> (art. 53, V)</td><td><b>domicílio do autor ou do local do fato</b></td></tr><tr><td><b>Obrigação contratual</b> (art. 53, III, \"d\")</td><td>lugar onde a obrigação deve ser <b>satisfeita</b></td></tr></tbody></table>\n<ul><li><b>Fazenda Pública como parte</b>: a <b>União</b> demandada pode ser processada no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou no <b>Distrito Federal</b> (art. 51, parágrafo único, e CF, art. 109, § 2º). Quando a União é <b>autora</b>, a ação deve ser proposta no foro de domicílio do réu (art. 51, caput; CF, art. 109, § 1º). O art. 52 repete a lógica para <b>Estados e DF</b>: sendo autor, foro do domicílio do réu; sendo demandado, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato, no de situação da coisa ou na <b>capital</b> do respectivo ente.</li><li><b>STF e o art. 52</b>: nas <b>ADIs 5.492 e 5.737</b> (2023), o STF deu interpretação conforme ao art. 52, parágrafo único, para restringir a competência do foro de domicílio do autor às comarcas inseridas nos <b>limites territoriais do Estado</b> réu ou do local de ocorrência do fato. Assim, o Estado de Minas Gerais não pode ser demandado no foro de domicílio de um autor que mora em São Paulo, salvo quando o fato ocorreu lá. A lógica foi estendida pela doutrina aos <b>Municípios</b>, que, por não terem previsão expressa no CPC, seguem a regra geral (foro do domicílio do réu = sede do Município).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Nas ações possessórias imobiliárias, a competência do foro da situação é relativa</span><br>✅ <span class=\"certo\">É <b>absoluta</b> (art. 47, § 2º)</span></li><li>❌ <span class=\"banca\">O Estado de Minas Gerais pode ser demandado no foro do domicílio de autor residente em outro Estado</span><br>✅ <span class=\"certo\">O STF limitou aos <b>limites territoriais</b> do ente ou ao local do fato (ADIs 5.492 e 5.737)</span></li><li>❌ <span class=\"banca\">A ação de alimentos corre no domicílio do alimentante</span><br>✅ <span class=\"certo\">Corre no domicílio ou residência do <b>alimentando</b></span></li><li>❌ <span class=\"banca\">A ação de divórcio da vítima de violência doméstica corre no último domicílio do casal</span><br>✅ <span class=\"certo\">Pode correr no domicílio da <b>vítima</b> (art. 53, I, \"d\")</span></li></ol></div>\n<h3>11. Foro de eleição após a Lei 14.879/2024</h3>\n<ul><li><b>Regra</b> (art. 63): as partes podem <b>modificar a competência em razão do valor e do território</b>, elegendo foro onde será proposta ação oriunda de direitos e obrigações. A competência <b>absoluta</b> não pode ser modificada (art. 62).</li><li><b>Requisitos</b> (art. 63, § 1º, com a redação da <b>Lei 14.879/2024</b>): a eleição de foro somente produz efeito quando constar de <b>instrumento escrito</b>, aludir expressamente a <b>determinado negócio jurídico</b> e <b>guardar pertinência</b> com o <b>domicílio ou a residência de uma das partes</b> ou com o <b>local da obrigação</b>, <b>ressalvada</b> a pactuação consumerista, quando favorável ao <b>consumidor</b>. A pertinência territorial é a grande novidade: antes, as partes podiam escolher qualquer foro, inclusive um sem relação alguma com o negócio.</li><li><b>Vinculação</b> (§ 2º): o foro contratual obriga os <b>herdeiros e sucessores</b> das partes.</li><li><b>Cláusula abusiva</b> (§ 3º): antes da citação, a cláusula de eleição de foro, se <b>abusiva</b>, pode ser reputada <b>ineficaz de ofício</b> pelo juiz, que determinará a remessa dos autos ao juízo do foro de domicílio do réu. Citado, incumbe ao <b>réu</b> alegar a abusividade da cláusula na contestação, sob pena de <b>preclusão</b> (§ 4º).</li><li><b>Juízo aleatório</b> (§ 5º, incluído pela Lei 14.879/2024): o ajuizamento de ação em <b>juízo aleatório</b>, entendido como aquele sem vinculação com o domicílio ou a residência das partes ou com o negócio jurídico discutido na demanda, constitui <b>prática abusiva</b> que justifica a <b>declinação de competência de ofício</b>. É uma exceção legal à Súmula 33 do STJ e combate o chamado <i>forum shopping</i> (escolha do juízo mais favorável sem justificativa territorial, comum na busca de varas com mais rapidez ou entendimento favorável).</li><li><b>Direito intertemporal</b>: a Lei 14.879/2024 entrou em vigor na data de sua publicação (4 de junho de 2024). Como a norma é processual e a competência se fixa na propositura (art. 43), prevalece o entendimento de que a nova redação do art. 63 alcança as <b>ações ajuizadas após a vigência</b> da lei; o tema da cláusula firmada antes de 2024 ainda gera debate nos tribunais.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Após a Lei 14.879/2024, as partes podem eleger qualquer foro, sem relação com o negócio</span><br>✅ <span class=\"certo\">O foro deve ter <b>pertinência</b> com o domicílio ou residência de uma das partes ou com o local da obrigação</span></li><li>❌ <span class=\"banca\">O juiz não pode declinar de ofício da competência relativa em hipótese alguma</span><br>✅ <span class=\"certo\">Pode, em caso de cláusula <b>abusiva</b> antes da citação (art. 63, § 3º) e de ação em <b>juízo aleatório</b> (art. 63, § 5º)</span></li><li>❌ <span class=\"banca\">O foro de eleição não vincula os herdeiros</span><br>✅ <span class=\"certo\"><b>Obriga os herdeiros e sucessores</b> (art. 63, § 2º)</span></li><li>❌ <span class=\"banca\">A eleição de foro pode modificar competência em razão da matéria</span><br>✅ <span class=\"certo\">Só modifica competência em razão do <b>valor e do território</b></span></li></ol></div>\n<h3>12. Modificação da competência: conexão, continência e prevenção</h3>\n<ul><li><b>Hipóteses</b> (art. 54): a competência <b>relativa</b> poderá modificar-se pela <b>conexão</b> ou pela <b>continência</b>, observado o disposto nesta Seção. A competência absoluta <b>não</b> se modifica por conexão ou continência.</li><li><b>Conexão</b> (art. 55): reputam-se conexas 2 ou mais ações quando lhes for <b>comum o pedido ou a causa de pedir</b>. Os processos de ações conexas serão <b>reunidos para decisão conjunta</b>, <b>salvo se um deles já houver sido sentenciado</b> (§ 1º; Súmula 235 do STJ: \"A conexão não determina a reunião dos processos, se um deles já foi julgado\"). Aplica-se também: à execução de título extrajudicial e à ação de conhecimento relativa ao mesmo ato jurídico; às execuções fundadas no mesmo título executivo (§ 2º). Serão reunidos para julgamento conjunto os processos que possam gerar <b>risco de prolação de decisões conflitantes ou contraditórias</b> caso decididos separadamente, <b>mesmo sem conexão</b> entre eles (§ 3º: a chamada conexão por prejudicialidade ou \"conexão em sentido amplo\").</li><li><b>Continência</b> (art. 56): dá-se a continência entre 2 ou mais ações quando houver <b>identidade quanto às partes e à causa de pedir</b>, mas o <b>pedido de uma, por ser mais amplo, abrange o das demais</b>. Consequência (art. 57): quando houver continência e a ação <b>continente</b> tiver sido proposta <b>anteriormente</b>, no processo relativo à ação <b>contida</b> será proferida sentença <b>sem resolução de mérito</b>; caso contrário, as ações serão necessariamente <b>reunidas</b>.</li><li><b>Juízo prevento</b> (arts. 58 e 59): a reunião das ações propostas em separado far-se-á no <b>juízo prevento</b>, onde serão decididas simultaneamente. O <b>registro ou a distribuição da petição inicial</b> torna prevento o juízo. (No CPC/1973 havia dois critérios, o do primeiro despacho e o da citação válida; o CPC/2015 unificou no registro ou na distribuição.)</li><li><b>Imóvel em mais de uma comarca</b> (art. 60): se o imóvel se achar situado em mais de um Estado, comarca, seção ou subseção judiciária, a competência territorial do juízo prevento estender-se-á sobre a totalidade do imóvel.</li><li><b>Ação acessória</b> (art. 61): a ação acessória será proposta no <b>juízo competente para a ação principal</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instituto</th><th>Requisito</th><th>Efeito</th></tr></thead><tbody><tr><td><b>Conexão</b> (art. 55)</td><td>mesmo <b>pedido</b> OU mesma <b>causa de pedir</b></td><td>reunião para julgamento conjunto, salvo se uma já foi sentenciada</td></tr><tr><td><b>Conexão por risco</b> (art. 55, § 3º)</td><td>risco de decisões conflitantes, mesmo sem identidade de pedido ou causa</td><td>reunião</td></tr><tr><td><b>Continência</b> (art. 56)</td><td>mesmas <b>partes</b> e mesma <b>causa de pedir</b>, com um pedido <b>mais amplo</b></td><td>se a continente for anterior: extinção da contida; se posterior: reunião</td></tr><tr><td><b>Litispendência</b> (art. 337, §§ 1º a 3º)</td><td>mesmas <b>partes, causa de pedir e pedido</b>, com a primeira ainda em curso</td><td>extinção da segunda sem mérito (art. 485, V)</td></tr><tr><td><b>Coisa julgada</b> (art. 337, § 4º)</td><td>repetição de ação já decidida por decisão transitada em julgado</td><td>extinção sem mérito (art. 485, V)</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A conexão modifica a competência absoluta</span><br>✅ <span class=\"certo\">Só a competência <b>relativa</b> se modifica por conexão ou continência (art. 54)</span></li><li>❌ <span class=\"banca\">Ações conexas devem ser reunidas mesmo que uma já tenha sido sentenciada</span><br>✅ <span class=\"certo\"><b>Não</b> (art. 55, § 1º; Súmula 235 do STJ)</span></li><li>❌ <span class=\"banca\">A prevenção, no CPC/2015, decorre da citação válida</span><br>✅ <span class=\"certo\">Decorre do <b>registro ou da distribuição</b> da inicial (art. 59)</span></li><li>❌ <span class=\"banca\">Na continência, se a ação continente for anterior, as ações são reunidas</span><br>✅ <span class=\"certo\">A ação <b>contida</b> é extinta <b>sem resolução de mérito</b> (art. 57)</span></li></ol></div>\n<h3>13. Conflito de competência</h3>\n<ul><li><b>Hipóteses</b> (art. 66): há conflito de competência quando: I, 2 ou mais juízes se declaram <b>competentes</b> (conflito positivo); II, 2 ou mais juízes se consideram <b>incompetentes</b>, atribuindo um ao outro a competência (conflito negativo); III, entre 2 ou mais juízes surge <b>controvérsia acerca da reunião ou separação</b> de processos. O juiz que não acolher a competência declinada deverá suscitar o conflito, <b>salvo se a atribuir a outro juízo</b> (parágrafo único).</li><li><b>Quem suscita</b> (art. 951): o conflito pode ser suscitado por qualquer das <b>partes</b>, pelo <b>Ministério Público</b> ou pelo <b>juiz</b>. O MP somente será ouvido nos conflitos de competência relativos aos processos previstos no art. 178 (em que intervém como fiscal da ordem jurídica), mas terá qualidade de parte nos conflitos que suscitar.</li><li><b>Restrição</b> (art. 952): <b>não pode suscitar</b> conflito a parte que, no processo, <b>arguiu incompetência relativa</b>. O conflito de competência, porém, não obsta a que a parte que não o arguiu suscite a incompetência.</li><li><b>Quem julga</b> (CF): o <b>STF</b> julga os conflitos entre o STJ e quaisquer tribunais, entre tribunais superiores, ou entre estes e qualquer outro tribunal (art. 102, I, \"o\"); o <b>STJ</b> julga os conflitos entre quaisquer tribunais, ressalvado o disposto no art. 102, I, \"o\", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos (art. 105, I, \"d\"), por exemplo, entre juiz estadual e juiz federal; o <b>TRF</b> julga conflitos entre juízes federais a ele vinculados (art. 108, I, \"e\"); o <b>TJ</b> julga conflitos entre juízes estaduais a ele vinculados.</li><li><b>Súmulas do STJ sobre conflito</b>: Súmula 59 (\"Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes\"); Súmula 3 (compete ao TRF dirimir conflito de competência verificado, na respectiva região, entre juiz federal e juiz estadual investido de jurisdição federal).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A parte que arguiu incompetência relativa pode suscitar conflito de competência</span><br>✅ <span class=\"certo\"><b>Não pode</b> (art. 952)</span></li><li>❌ <span class=\"banca\">O conflito entre juiz estadual e juiz federal é julgado pelo TJ</span><br>✅ <span class=\"certo\">É julgado pelo <b>STJ</b> (CF, art. 105, I, \"d\"), salvo o juiz estadual investido de jurisdição federal (Súmula 3)</span></li><li>❌ <span class=\"banca\">Há conflito mesmo após o trânsito em julgado da sentença de um dos juízos</span><br>✅ <span class=\"certo\">Não há (Súmula 59 do STJ)</span></li></ol></div>\n<h3>14. Justiça Federal e Fazenda Pública</h3>\n<ul><li><b>Competência da Justiça Federal</b> (CF, art. 109, I): aos juízes federais compete processar e julgar as causas em que a <b>União, entidade autárquica ou empresa pública federal</b> forem interessadas na condição de autoras, rés, assistentes ou oponentes, <b>exceto</b> as de <b>falência</b>, as de <b>acidentes de trabalho</b> e as sujeitas à <b>Justiça Eleitoral</b> e à <b>Justiça do Trabalho</b>.</li><li><b>Sociedades de economia mista federais</b> (Banco do Brasil, Petrobras): <b>não</b> estão no art. 109, I. Causas contra elas correm na <b>Justiça Estadual</b> (Súmula 508 do STF e Súmula 42 do STJ), salvo se a União intervier.</li><li><b>Quem decide sobre o interesse da União</b> (Súmula 150 do STJ): compete à <b>Justiça Federal</b> decidir sobre a existência de <b>interesse jurídico</b> que justifique a presença, no processo, da União, suas autarquias ou empresas públicas. Se o juiz federal excluir o ente federal, deve <b>restituir</b> os autos à Justiça Estadual, sem suscitar conflito (Súmula 224 do STJ). A Súmula 254 do STJ diz que a decisão do juízo federal que exclui da relação processual ente federal <b>não pode ser reexaminada</b> no juízo estadual.</li><li><b>Fazenda estadual e municipal</b>: não há \"justiça\" própria; as causas correm na <b>Justiça Estadual</b>, em <b>varas da Fazenda Pública</b> onde houver (a criação é feita pela Lei de Organização Judiciária de cada Estado; a competência da vara da Fazenda é <b>absoluta</b> em razão da pessoa). Nas comarcas pequenas, como muitas de Minas Gerais, as causas contra o Município correm na <b>vara única</b> ou na vara cível. Até <b>60 salários mínimos</b>, onde instalado, a competência é do <b>Juizado Especial da Fazenda Pública</b> (Lei 12.153/2009), de forma <b>absoluta</b>.</li><li><b>Competência delegada</b> (CF, art. 109, § 3º, com redação da EC 103/2019): lei poderá autorizar que as causas de competência da Justiça Federal em que forem parte instituição de <b>previdência social</b> e segurado possam ser processadas e julgadas na <b>Justiça Estadual</b> quando a comarca do domicílio do segurado <b>não for sede de vara federal</b>. A Lei 13.876/2019 limitou essa delegação às comarcas localizadas a mais de <b>70 km</b> de município sede de vara federal. A execução fiscal da União, que antes era delegada à Justiça Estadual, deixou de ser com a revogação do art. 15, I, da Lei 5.010/1966 pela Lei 13.043/2014.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STJ · Súmulas 150, 224 e 254</b><p class=\"jc-tese\">Súmula 150: \"Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas.\" Súmula 224: \"Excluído do feito o ente federal, cuja presença levara o juiz estadual a declinar da competência, deve o juiz federal restituir os autos e não suscitar conflito.\" Súmula 254: \"A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual.\"</p><p class=\"jc-com\">Para o Procurador Municipal: se o Município é réu numa ação e pede a denunciação ou o chamamento da União (por exemplo, em demanda de saúde), quem decide se a União deve integrar o processo é o <b>juiz federal</b>. Nas ações de <b>medicamentos</b>, porém, o STF (Tema 1.234) fixou regras próprias de competência conforme o valor e o registro do medicamento na ANVISA, com responsabilidade solidária dos entes e ressarcimento entre eles.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Causas contra o Banco do Brasil correm na Justiça Federal</span><br>✅ <span class=\"certo\">Sociedade de economia mista federal litiga na <b>Justiça Estadual</b> (Súmula 42 do STJ)</span></li><li>❌ <span class=\"banca\">O juiz estadual decide se há interesse da União no processo</span><br>✅ <span class=\"certo\">Quem decide é a <b>Justiça Federal</b> (Súmula 150 do STJ)</span></li><li>❌ <span class=\"banca\">A competência delegada previdenciária vale para qualquer comarca sem vara federal</span><br>✅ <span class=\"certo\">Após a Lei 13.876/2019, só a mais de <b>70 km</b> de município sede de vara federal</span></li><li>❌ <span class=\"banca\">As causas de acidente de trabalho contra o INSS são da Justiça Federal</span><br>✅ <span class=\"certo\">São <b>exceção</b> do art. 109, I: correm na <b>Justiça Estadual</b></span></li></ol></div>\n<h3>15. Métodos consensuais: conciliação, mediação e a Administração Pública</h3>\n<ul><li><b>Centros judiciários</b> (art. 165): os tribunais criarão <b>centros judiciários de solução consensual de conflitos</b> (CEJUSCs), responsáveis pela realização de sessões e audiências de conciliação e mediação e pelo desenvolvimento de programas destinados a auxiliar, orientar e estimular a autocomposição.</li><li><b>Conciliador x mediador</b> (art. 165, §§ 2º e 3º): o <b>conciliador</b> atuará preferencialmente nos casos em que <b>não houver vínculo anterior</b> entre as partes, podendo <b>sugerir soluções</b> para o litígio, sendo vedada a utilização de qualquer tipo de constrangimento ou intimidação. O <b>mediador</b> atuará preferencialmente nos casos em que <b>houver vínculo anterior</b> entre as partes (família, vizinhança, sócios), auxiliando os interessados a compreender as questões e os interesses em conflito, de modo que eles possam, pelo restabelecimento da comunicação, identificar, <b>por si próprios</b>, soluções consensuais.</li><li><b>Princípios</b> (art. 166): a conciliação e a mediação são informadas pelos princípios da <b>independência</b>, da <b>imparcialidade</b>, da <b>autonomia da vontade</b>, da <b>confidencialidade</b>, da <b>oralidade</b>, da <b>informalidade</b> e da <b>decisão informada</b>. A confidencialidade estende-se a todas as informações produzidas no curso do procedimento, cujo teor não poderá ser utilizado para fim diverso daquele previsto por expressa deliberação das partes.</li><li><b>Câmaras da Administração</b> (art. 174): a <b>União, os Estados, o DF e os Municípios</b> criarão <b>câmaras de mediação e conciliação</b>, com atribuições relacionadas à solução consensual de conflitos no âmbito administrativo, tais como: dirimir conflitos envolvendo órgãos e entidades da administração pública; avaliar a admissibilidade dos pedidos de resolução de conflitos, por meio de conciliação, no âmbito da administração pública; promover, quando couber, a celebração de <b>termo de ajustamento de conduta</b>.</li><li><b>Lei de Mediação</b> (Lei 13.140/2015, arts. 32 a 40): os entes poderão criar câmaras de prevenção e resolução administrativa de conflitos, no âmbito dos respectivos órgãos da <b>Advocacia Pública</b>. A instauração de procedimento administrativo para a resolução consensual de conflito no âmbito da administração pública <b>suspende a prescrição</b> (art. 34). Se houver consenso, o acordo será reduzido a termo e constituirá <b>título executivo extrajudicial</b>.</li><li><b>Audiência do art. 334 e Fazenda Pública</b>: a audiência de conciliação ou mediação <b>não será realizada</b> se <b>ambas as partes</b> manifestarem, expressamente, desinteresse na composição consensual, ou quando <b>não se admitir a autocomposição</b> (art. 334, § 4º). Na prática, muitas Procuradorias manifestam desinteresse quando não há autorização legal para acordo. O não comparecimento injustificado do autor ou do réu à audiência é considerado <b>ato atentatório à dignidade da justiça</b> e será sancionado com <b>multa de até 2%</b> da vantagem econômica pretendida ou do valor da causa, revertida em favor da <b>União ou do Estado</b> (§ 8º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O conciliador atua preferencialmente quando há vínculo anterior entre as partes</span><br>✅ <span class=\"certo\">É o <b>mediador</b>; o conciliador atua quando <b>não há</b> vínculo anterior</span></li><li>❌ <span class=\"banca\">A audiência do art. 334 deixa de ocorrer se só o autor manifestar desinteresse</span><br>✅ <span class=\"certo\">Exige que <b>ambas</b> as partes manifestem desinteresse, ou que a causa não admita autocomposição</span></li><li>❌ <span class=\"banca\">A multa por ausência injustificada à audiência de conciliação vai para a parte contrária</span><br>✅ <span class=\"certo\">Vai para a <b>União ou o Estado</b> (art. 334, § 8º)</span></li><li>❌ <span class=\"banca\">A instauração de mediação administrativa interrompe a prescrição</span><br>✅ <span class=\"certo\"><b>Suspende</b> a prescrição (Lei 13.140, art. 34)</span></li></ol></div>\n<h3>16. Casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Decisão surpresa sobre prescrição</b><p>Numa ação de cobrança contra o Município, nenhuma das partes falou em prescrição. Na sentença, o juiz reconhece de ofício a prescrição quinquenal (Decreto 20.910/1932) e extingue o processo. O autor apela alegando nulidade.</p><details><summary>Ver a solução comentada</summary><p>O juiz <b>pode</b> conhecer de ofício a prescrição (art. 487, II), mas, fora da improcedência liminar (art. 332, § 1º), <b>deve ouvir as partes antes</b> (art. 487, parágrafo único, e art. 10). A sentença é <b>nula</b> por violar a vedação da decisão surpresa. O tribunal pode anular e devolver, ou, se a causa estiver madura e o contraditório puder ser feito no próprio recurso, julgar o mérito (art. 1.013, § 3º), após intimar as partes.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Cláusula de foro em São Paulo</b><p>Uma empresa de Belo Horizonte firmou contrato com o Município de Belo Vale (MG) para fornecer equipamentos, com cláusula elegendo o foro de São Paulo (SP), onde nenhuma das partes tem sede e onde a obrigação não seria cumprida. A empresa ajuizou cobrança em São Paulo.</p><details><summary>Ver a solução comentada</summary><p>Após a <b>Lei 14.879/2024</b>, a cláusula <b>não produz efeito</b>, porque não guarda <b>pertinência</b> com o domicílio das partes nem com o local da obrigação (art. 63, § 1º). Além disso, o ajuizamento em <b>juízo aleatório</b> é <b>prática abusiva</b> que autoriza o juiz a <b>declinar de ofício</b> (art. 63, § 5º). Nos contratos administrativos, a <b>Lei 14.133/2021</b> (art. 92, § 1º) exige que conste do contrato cláusula declarando competente o <b>foro da sede da Administração</b> para dirimir questões contratuais, salvo exceções (licitação internacional, contratação com financiamento externo). A cláusula de São Paulo é, portanto, inválida também à luz da Lei de Licitações.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Município réu em ação possessória</b><p>Um particular ajuíza ação de reintegração de posse contra o Município, envolvendo terreno situado em Belo Vale, perante a vara da comarca de Belo Horizonte, onde o autor mora.</p><details><summary>Ver a solução comentada</summary><p>Ação <b>possessória imobiliária</b>: o foro competente é o da <b>situação da coisa</b>, com competência <b>absoluta</b> (art. 47, § 2º). O juiz de Belo Horizonte deve declinar <b>de ofício</b> e remeter os autos à comarca que abrange Belo Vale. O Procurador deve alegar a incompetência como <b>preliminar</b> da contestação (art. 64), mas mesmo que não alegue, o juiz pode reconhecê-la a qualquer tempo.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Duas ações sobre o mesmo contrato</b><p>A empresa ajuizou ação de cobrança contra o Município e, depois, o Município ajuizou ação declaratória de nulidade do mesmo contrato, em outra vara da mesma comarca.</p><details><summary>Ver a solução comentada</summary><p>Há <b>conexão</b> pela <b>causa de pedir</b> comum (o mesmo contrato) e risco de <b>decisões conflitantes</b> (art. 55, caput e § 3º). Os processos devem ser <b>reunidos</b> no juízo <b>prevento</b> (o do registro ou distribuição da primeira ação, art. 59), salvo se um deles já tiver sido sentenciado (Súmula 235 do STJ). Se a competência for <b>absoluta</b> em razão da matéria em varas distintas (por exemplo, uma vara da Fazenda e uma vara cível), não há reunião por conexão (art. 54), mas pode haver suspensão por prejudicialidade (art. 313, V, \"a\").</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Negócio processual com a Fazenda</b><p>Em ação complexa sobre desapropriação indireta, o Município e o autor querem combinar a escolha conjunta do perito e um calendário de atos processuais.</p><details><summary>Ver a solução comentada</summary><p>O <b>negócio processual</b> (art. 190) é admitido em causas que <b>admitam autocomposição</b>, e a doutrina admite sua celebração pela Fazenda Pública, desde que haja autorização normativa e respeito ao interesse público. A <b>escolha consensual do perito</b> está prevista expressamente no art. 471 (as partes, plenamente capazes, podem escolher o perito de comum acordo, desde que a causa possa ser resolvida por autocomposição). O <b>calendário</b> (art. 191) vincula as partes e o juiz e dispensa intimações para os atos nele previstos.</p></details></div>\n<h3>17. Questões comentadas</h3>\n<ul><li><b>\"O processo começa por impulso oficial e se desenvolve por iniciativa da parte.\"</b> Errado: é o contrário (art. 2º).</li><li><b>\"O juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício.\"</b> Certo: art. 10.</li><li><b>\"O contraditório prévio é dispensado na tutela provisória de urgência.\"</b> Certo: art. 9º, parágrafo único, I.</li><li><b>\"Os juízes e os tribunais deverão obrigatoriamente obedecer à ordem cronológica de conclusão.\"</b> Errado: <b>preferencialmente</b> (art. 12).</li><li><b>\"Versando o processo sobre direitos que admitam autocomposição, é lícito às partes plenamente capazes estipular mudanças no procedimento.\"</b> Certo: art. 190.</li><li><b>\"A norma processual retroagirá para alcançar os atos processuais já praticados.\"</b> Errado: art. 14.</li><li><b>\"A incompetência relativa pode ser declarada de ofício pelo juiz.\"</b> Errado, em regra (Súmula 33 do STJ). Exceções: cláusula de eleição abusiva antes da citação e juízo aleatório (art. 63, §§ 3º e 5º).</li><li><b>\"Determina-se a competência no momento do registro ou da distribuição da petição inicial.\"</b> Certo: art. 43.</li><li><b>\"A ação possessória imobiliária será proposta no foro de situação da coisa, cujo juízo tem competência absoluta.\"</b> Certo: art. 47, § 2º.</li><li><b>\"A conexão determina a reunião dos processos, ainda que um deles já tenha sido julgado.\"</b> Errado: Súmula 235 do STJ e art. 55, § 1º.</li><li><b>\"A eleição de foro somente produz efeito quando constar de instrumento escrito, aludir a determinado negócio jurídico e guardar pertinência com o domicílio ou residência de uma das partes ou com o local da obrigação.\"</b> Certo: art. 63, § 1º (Lei 14.879/2024).</li><li><b>\"Não pode suscitar conflito a parte que, no processo, arguiu incompetência relativa.\"</b> Certo: art. 952.</li></ul>\n<h3>18. Como as bancas cobram este tópico</h3>\n<ul><li><b>Normas fundamentais</b>: troca de palavras nos arts. 1º a 12 (iniciativa x impulso; \"preferencialmente\" na ordem cronológica; exceções ao contraditório prévio).</li><li><b>Competência</b>: absoluta x relativa (quadro comparativo), art. 43 (perpetuação), art. 47 (imóveis), art. 53 (foros especiais), arts. 51 e 52 (União, Estados e DF) com a decisão do STF nas ADIs 5.492 e 5.737, art. 63 (foro de eleição pós-Lei 14.879/2024), conexão e continência (arts. 55 a 57).</li><li><b>Súmulas</b>: 33, 59, 150, 224, 235 e 254 do STJ; 508 do STF.</li><li><b>Para Procurador Municipal</b>: foro do Município, competência das varas da Fazenda Pública e do Juizado Especial da Fazenda Pública, câmaras de conciliação (art. 174) e a cláusula de foro da sede da Administração nos contratos (Lei 14.133/2021, art. 92, § 1º).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para lembrar as exceções ao contraditório prévio (art. 9º, parágrafo único): <b>\"Urgência, Evidência (II e III) e Monitória\"</b>. Em todas elas o contraditório não desaparece: fica <b>diferido</b>.</div>\n<h3>19. Elementos da ação e teoria da asserção</h3>\n<ul><li><b>Elementos da ação</b>: <b>partes</b> (quem pede e contra quem se pede), <b>causa de pedir</b> (os fatos e os fundamentos jurídicos do pedido) e <b>pedido</b> (a providência jurisdicional e o bem da vida pretendidos). Servem para identificar as ações e verificar litispendência, coisa julgada, conexão e continência (art. 337, § 2º: uma ação é idêntica a outra quando possui as <b>mesmas partes</b>, a <b>mesma causa de pedir</b> e o <b>mesmo pedido</b>).</li><li><b>Causa de pedir</b>: o CPC adota a <b>teoria da substanciação</b>: o autor deve expor os <b>fatos</b> e os <b>fundamentos jurídicos</b> do pedido (art. 319, III). A causa de pedir <b>remota</b> são os fatos; a <b>próxima</b>, os fundamentos jurídicos (a doutrina diverge sobre qual é qual, mas a ideia é a mesma). O juiz fica vinculado aos <b>fatos</b> narrados, e não à qualificação jurídica dada pelo autor (<i>iura novit curia</i>), respeitado o art. 10.</li><li><b>Pedido</b>: tem um aspecto <b>imediato</b> (a providência jurisdicional: condenação, declaração, constituição) e um <b>mediato</b> (o bem da vida). O pedido deve ser <b>certo</b> (art. 322) e <b>determinado</b> (art. 324), com exceções para o pedido genérico (ações universais, quando não for possível determinar as consequências do ato ou fato, ou quando a determinação depender de ato a ser praticado pelo réu). Compreendem-se no principal os <b>juros legais</b>, a <b>correção monetária</b> e as <b>verbas de sucumbência</b>, inclusive os honorários advocatícios, mesmo sem pedido expresso (art. 322, § 1º). A interpretação do pedido considerará o <b>conjunto da postulação</b> e observará o princípio da <b>boa-fé</b> (art. 322, § 2º).</li><li><b>Teoria da asserção</b>: a doutrina majoritária e o STJ adotam a <b>teoria da asserção</b> (ou <i>in status assertionis</i>) para avaliar o interesse e a legitimidade: o juiz verifica essas condições <b>à luz das afirmações do autor</b> na petição inicial, como se fossem verdadeiras. Se, após a instrução, o juiz concluir que o réu não é o devedor, a decisão é de <b>mérito</b> (improcedência), e não de ilegitimidade. Isso evita que, depois de anos de processo, a sentença seja meramente terminativa.</li><li><b>Interesse processual</b>: binômio <b>necessidade</b> (o autor precisa do Judiciário para obter o bem) e <b>adequação</b> (o meio escolhido é apto). Exemplos para a Fazenda: o STF, no <b>Tema 350</b> (RE 631.240), fixou que a concessão de benefício previdenciário depende de <b>requerimento administrativo</b> prévio, salvo quando o entendimento da Administração for notória e reiteradamente contrário à postulação; isso mostra que a exigência de prévio requerimento administrativo pode, em certos casos, ser condição para caracterizar o interesse de agir sem violar a inafastabilidade.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O CPC adota a teoria da individualização da causa de pedir</span><br>✅ <span class=\"certo\">Adota a teoria da <b>substanciação</b> (fatos + fundamentos jurídicos)</span></li><li>❌ <span class=\"banca\">Os juros legais e a correção monetária precisam de pedido expresso</span><br>✅ <span class=\"certo\">Compreendem-se no principal <b>mesmo sem pedido</b> (art. 322, § 1º)</span></li><li>❌ <span class=\"banca\">Pela teoria da asserção, a ilegitimidade constatada após a instrução gera extinção sem mérito</span><br>✅ <span class=\"certo\">Após a instrução, a análise é de <b>mérito</b> (improcedência)</span></li><li>❌ <span class=\"banca\">A exigência de requerimento administrativo prévio sempre viola a inafastabilidade</span><br>✅ <span class=\"certo\">O STF a admitiu para benefícios previdenciários (<b>Tema 350</b>), com ressalvas</span></li></ol></div>\n<h3>20. Pressupostos processuais</h3>\n<ul><li><b>Pressupostos processuais</b> são os requisitos para que o processo <b>exista</b> e se desenvolva <b>validamente</b>. A falta de pressuposto leva à extinção <b>sem resolução do mérito</b> (art. 485, IV), mas, pela primazia do mérito, o juiz deve dar oportunidade de correção (art. 317) e, se possível, julgar o mérito em favor da parte a quem aproveitaria a decretação da nulidade (art. 282, § 2º, e art. 488).</li></ul>\n<table class=\"tab\"><thead><tr><th>Classificação</th><th>Pressupostos</th></tr></thead><tbody><tr><td><b>De existência</b></td><td>demanda (petição inicial); órgão investido de jurisdição; citação (para o réu, segundo parte da doutrina)</td></tr><tr><td><b>De validade (positivos)</b></td><td>petição inicial apta; competência do juízo; imparcialidade do juiz; capacidade de ser parte, capacidade processual e capacidade postulatória; citação válida</td></tr><tr><td><b>Negativos</b> (não podem estar presentes)</td><td>litispendência; coisa julgada; perempção; convenção de arbitragem</td></tr></tbody></table>\n<ul><li><b>Perempção</b> (art. 486, § 3º): se o autor der causa, por <b>3 vezes</b>, a sentença fundada em <b>abandono da causa</b>, não poderá propor nova ação contra o réu com o mesmo objeto, ficando-lhe ressalvada, entretanto, a possibilidade de alegar em defesa o seu direito.</li><li><b>Convenção de arbitragem</b>: é a única matéria preliminar do art. 337 que o juiz <b>não pode conhecer de ofício</b>, ao lado da incompetência relativa (art. 337, § 5º). A ausência de alegação, pelo réu, da existência de convenção de arbitragem implica <b>aceitação da jurisdição estatal</b> e <b>renúncia ao juízo arbitral</b> (art. 337, § 6º).</li><li><b>Repropositura</b> (art. 486): o pronunciamento judicial que <b>não resolve o mérito não obsta</b> a que a parte proponha de novo a ação. Mas, no caso de extinção por litispendência, por indeferimento da inicial, por ausência de pressupostos, de legitimidade ou de interesse, ou pela existência de convenção de arbitragem, a propositura da nova ação depende da <b>correção do vício</b> que levou à sentença sem resolução do mérito (§ 1º). A petição inicial não será despachada sem a prova do pagamento ou do depósito das <b>custas e dos honorários</b> de advogado (§ 2º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O juiz pode conhecer de ofício da convenção de arbitragem</span><br>✅ <span class=\"certo\"><b>Não pode</b> (art. 337, § 5º)</span></li><li>❌ <span class=\"banca\">Após duas extinções por abandono, ocorre a perempção</span><br>✅ <span class=\"certo\">São <b>3 vezes</b> (art. 486, § 3º)</span></li><li>❌ <span class=\"banca\">A perempção impede o autor de alegar seu direito até em defesa</span><br>✅ <span class=\"certo\">A alegação em <b>defesa</b> fica ressalvada</span></li><li>❌ <span class=\"banca\">A sentença terminativa impede a repropositura da mesma ação</span><br>✅ <span class=\"certo\"><b>Não impede</b>, mas em certos casos exige a <b>correção do vício</b> (art. 486, § 1º)</span></li></ol></div>\n<h3>21. Os poderes do juiz e as medidas atípicas</h3>\n<ul><li><b>Art. 139</b>: o juiz dirigirá o processo conforme as disposições do Código, incumbindo-lhe: I, assegurar às partes <b>igualdade de tratamento</b>; II, velar pela <b>duração razoável</b> do processo; III, prevenir ou reprimir qualquer ato contrário à <b>dignidade da justiça</b> e indeferir postulações meramente protelatórias; IV, determinar todas as <b>medidas indutivas, coercitivas, mandamentais ou sub-rogatórias</b> necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto <b>prestação pecuniária</b>; V, promover, a qualquer tempo, a <b>autocomposição</b>, preferencialmente com auxílio de conciliadores e mediadores judiciais; VI, <b>dilatar os prazos processuais</b> e <b>alterar a ordem de produção dos meios de prova</b>, adequando-os às necessidades do conflito de modo a conferir maior efetividade à tutela do direito; VII, exercer o <b>poder de polícia</b>; VIII, determinar, a qualquer tempo, o <b>comparecimento pessoal das partes</b>, para inquiri-las sobre os fatos da causa, hipótese em que não incidirá a pena de confesso; IX, determinar o <b>suprimento de pressupostos processuais</b> e o saneamento de outros vícios processuais; X, quando se deparar com diversas <b>demandas individuais repetitivas</b>, oficiar o MP, a Defensoria Pública e, na medida do possível, outros legitimados para promover a propositura da ação coletiva respectiva.</li><li><b>Dilação de prazos</b> (art. 139, parágrafo único): a dilação de prazos prevista no inciso VI somente pode ser determinada <b>antes de encerrado o prazo regular</b>.</li><li><b>Medidas atípicas</b> (art. 139, IV): o juiz pode adotar meios não previstos expressamente em lei para forçar o cumprimento, como <b>apreensão de passaporte</b>, <b>suspensão da CNH</b> e <b>proibição de participar de concurso ou licitação</b>. O STF, na <b>ADI 5.941</b> (2023), declarou <b>constitucional</b> o art. 139, IV, mas exigiu que a aplicação concreta das medidas atípicas observe os princípios da <b>proporcionalidade</b> e da <b>razoabilidade</b>, os direitos fundamentais e a <b>dignidade</b> do devedor. O STJ exige, para essas medidas: <b>esgotamento</b> dos meios típicos, <b>indícios de patrimônio</b> oculto (o devedor que ostenta padrão de vida incompatível com a alegada insolvência), <b>contraditório</b> e <b>fundamentação</b> específica.</li><li><b>Fazenda Pública e medidas atípicas</b>: contra a Fazenda, as medidas atípicas encontram limites no regime de <b>precatórios</b> (CF, art. 100): não se pode bloquear verbas públicas para pagar condenações pecuniárias fora da ordem cronológica, salvo hipóteses excepcionais reconhecidas pela jurisprudência (como o <b>sequestro</b> em caso de preterição ou de não alocação orçamentária, art. 100, § 6º, e o bloqueio para fornecimento de <b>medicamentos</b>, admitido pelo STJ no Tema 84). Nas obrigações de fazer, a <b>multa</b> (astreinte) pode ser fixada contra a Fazenda, e o STJ admite sua fixação até contra o <b>agente público</b> responsável, desde que ele tenha integrado a relação processual.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 5.941 (medidas atípicas)</b><p class=\"jc-tese\">O STF declarou constitucional o art. 139, IV, do CPC, que autoriza o juiz a adotar medidas indutivas, coercitivas, mandamentais ou sub-rogatórias para assegurar o cumprimento de ordem judicial, inclusive em obrigações pecuniárias. A aplicação concreta, porém, deve ser <b>fundamentada</b>, <b>proporcional</b> e <b>razoável</b>, sem violar direitos fundamentais. Medidas como a apreensão de passaporte e a suspensão da CNH são admissíveis em tese, mas o juiz deve analisar o caso concreto.</p><p class=\"jc-com\">O STJ, antes e depois da ADI, firmou que as medidas atípicas são <b>subsidiárias</b> (após o esgotamento dos meios típicos), exigem <b>contraditório</b> e só se justificam diante de indícios de que o devedor tem patrimônio e se recusa a pagar. Não podem ser usadas como punição.</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As medidas atípicas do art. 139, IV, são inconstitucionais</span><br>✅ <span class=\"certo\">O STF declarou o dispositivo <b>constitucional</b> (ADI 5.941), exigindo proporcionalidade</span></li><li>❌ <span class=\"banca\">O juiz pode dilatar prazo já encerrado</span><br>✅ <span class=\"certo\">Só <b>antes</b> de encerrado o prazo regular (art. 139, parágrafo único)</span></li><li>❌ <span class=\"banca\">As medidas atípicas podem ser aplicadas como primeira opção</span><br>✅ <span class=\"certo\">São <b>subsidiárias</b>, após os meios típicos (STJ)</span></li><li>❌ <span class=\"banca\">O comparecimento pessoal determinado pelo juiz gera pena de confesso</span><br>✅ <span class=\"certo\"><b>Não</b> incide a pena de confesso (art. 139, VIII)</span></li></ol></div>\n<h3>22. Exercício integrado: da distribuição à definição do juízo</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A ação contra o Município de Belo Vale</b><p>Maria, moradora de Belo Horizonte, quer cobrar do Município de Belo Vale R$ 80 mil por serviços de engenharia prestados sem contrato formal. Ela pergunta onde ajuizar, se pode escolher o Juizado e o que acontece se errar.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Justiça</b>: Estadual, porque o réu é Município (não há ente federal, CF, art. 109). (2) <b>Juizado da Fazenda Pública</b>: o valor (R$ 80 mil) supera <b>60 salários mínimos</b>, logo não cabe no Juizado; como a competência do JEFP é absoluta até 60 SM, acima disso a causa vai à Justiça comum. (3) <b>Foro</b>: o CPC não traz regra específica para Municípios; segue-se a regra geral do <b>domicílio do réu</b> (art. 46), ou seja, a comarca que abrange Belo Vale, e, para obrigação contratual, também o lugar onde a obrigação deve ser satisfeita (art. 53, III, \"d\"), que provavelmente é o próprio Município. O foro de Belo Horizonte, domicílio de Maria, não serve: a regra do art. 52, parágrafo único, é para Estados e DF e, mesmo assim, o STF a limitou ao território do ente. (4) <b>Erro</b>: se ajuizar em Belo Horizonte, a incompetência territorial é <b>relativa</b>: o Município deve alegá-la em <b>preliminar de contestação</b>, sob pena de prorrogação (art. 65); se não alegar, o processo segue em Belo Horizonte. Se ajuizar no Juizado com valor acima do teto, a consequência é a <b>extinção</b> (Lei 9.099, art. 51, II, aplicada subsidiariamente). (5) <b>Mérito</b>: a falta de contrato formal não impede o pagamento por serviços efetivamente prestados, para evitar enriquecimento sem causa da Administração (Lei 14.133, art. 149), mas o Procurador deve analisar a boa-fé da contratada e a eventual responsabilização do agente que deu causa à contratação irregular.</p></details></div>\n<ul><li><b>Moral do exercício</b>: antes de qualquer tese de mérito, o Procurador deve checar <b>jurisdição</b> (Justiça Federal ou Estadual), <b>competência</b> (absoluta ou relativa; Juizado ou Justiça comum), <b>foro</b> (território) e <b>juízo</b> (vara). A incompetência absoluta pode ser alegada a qualquer tempo; a relativa, só na contestação.</li></ul>",
+"quiz": [
+{
+"p": "O processo civil será ordenado, disciplinado e interpretado conforme os valores e as normas fundamentais estabelecidos na Constituição Federal.",
+"c": true,
+"prof": "CPC, art. 1º.",
+"x": "Constitucionalização.",
+"e": "Art. 1º"
+},
+{
+"p": "O processo começa por iniciativa da parte e se desenvolve por impulso oficial, salvo as exceções previstas em lei.",
+"c": true,
+"prof": "CPC, art. 2º.",
+"x": "Inércia.",
+"e": "Art. 2º"
+},
+{
+"p": "O CPC veda a arbitragem por violar a inafastabilidade da jurisdição.",
+"c": false,
+"prof": "CPC, art. 3º, § 1º.",
+"x": "Permitida.",
+"e": "Arbitragem"
+},
+{
+"p": "A conciliação e a mediação deverão ser estimuladas por juízes, advogados, defensores e membros do MP, inclusive no curso do processo judicial.",
+"c": true,
+"prof": "CPC, art. 3º, § 3º.",
+"x": "Consensualidade.",
+"e": "Consenso"
+},
+{
+"p": "As partes têm o direito de obter em prazo razoável a solução integral do mérito, incluída a atividade satisfativa.",
+"c": true,
+"prof": "CPC, art. 4º.",
+"x": "Duração razoável.",
+"e": "Art. 4º"
+},
+{
+"p": "Todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva.",
+"c": true,
+"prof": "CPC, art. 6º.",
+"x": "Cooperação.",
+"e": "Cooperação"
+},
+{
+"p": "Ao aplicar o ordenamento jurídico, o juiz observará a proporcionalidade, a razoabilidade, a legalidade, a publicidade e a eficiência.",
+"c": true,
+"prof": "CPC, art. 8º.",
+"x": "Interpretação.",
+"e": "Art. 8º"
+},
+{
+"p": "O contraditório prévio é exigido inclusive para a concessão de tutela de urgência.",
+"c": false,
+"prof": "CPC, art. 9º, parágrafo único, I.",
+"x": "Exceção.",
+"e": "Contraditório"
+},
+{
+"p": "A expedição do mandado monitório dispensa a oitiva prévia do réu.",
+"c": true,
+"prof": "CPC, art. 9º, parágrafo único, III.",
+"x": "Monitória.",
+"e": "Exceção"
+},
+{
+"p": "O juiz não pode decidir com base em fundamento sobre o qual as partes não tiveram oportunidade de se manifestar, ainda que se trate de matéria cognoscível de ofício.",
+"c": true,
+"prof": "CPC, art. 10.",
+"x": "Decisão surpresa.",
+"e": "Art. 10"
+},
+{
+"p": "Ressalvada a improcedência liminar, a prescrição e a decadência não serão reconhecidas sem que antes seja dada às partes oportunidade de manifestar-se.",
+"c": true,
+"prof": "CPC, art. 487, parágrafo único.",
+"x": "Oitiva prévia.",
+"e": "Prescrição"
+},
+{
+"p": "Os juízes e tribunais devem obrigatoriamente observar a ordem cronológica de conclusão para proferir sentenças e acórdãos.",
+"c": false,
+"prof": "CPC, art. 12.",
+"x": "Preferencialmente.",
+"e": "Ordem cronológica"
+},
+{
+"p": "O negócio jurídico processual atípico é admitido em processos sobre direitos que admitam autocomposição, entre partes plenamente capazes.",
+"c": true,
+"prof": "CPC, art. 190.",
+"x": "Negócio processual.",
+"e": "Art. 190"
+},
+{
+"p": "O juiz pode recusar aplicação a negócio processual inserido abusivamente em contrato de adesão.",
+"c": true,
+"prof": "CPC, art. 190, parágrafo único.",
+"x": "Controle.",
+"e": "Controle"
+},
+{
+"p": "O calendário processual vincula as partes e o juiz e dispensa a intimação para os atos nele previstos.",
+"c": true,
+"prof": "CPC, art. 191.",
+"x": "Calendário.",
+"e": "Calendário"
+},
+{
+"p": "A norma processual nova retroage para alcançar os atos processuais já praticados.",
+"c": false,
+"prof": "CPC, art. 14.",
+"x": "Não retroage.",
+"e": "Direito intertemporal"
+},
+{
+"p": "Na ausência de normas que regulem processos eleitorais, trabalhistas ou administrativos, o CPC lhes será aplicado supletiva e subsidiariamente.",
+"c": true,
+"prof": "CPC, art. 15.",
+"x": "Aplicação.",
+"e": "Art. 15"
+},
+{
+"p": "Para postular em juízo é necessário ter interesse e legitimidade.",
+"c": true,
+"prof": "CPC, art. 17.",
+"x": "Condições.",
+"e": "Art. 17"
+},
+{
+"p": "O CPC/2015 manteve a possibilidade jurídica do pedido como condição da ação autônoma.",
+"c": false,
+"prof": "CPC, art. 17.",
+"x": "Interesse e legitimidade.",
+"e": "Possibilidade jurídica"
+},
+{
+"p": "Ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico.",
+"c": true,
+"prof": "CPC, art. 18.",
+"x": "Legitimação extraordinária.",
+"e": "Art. 18"
+},
+{
+"p": "É admissível a ação meramente declaratória, ainda que tenha ocorrido a violação do direito.",
+"c": true,
+"prof": "CPC, art. 20.",
+"x": "Declaratória.",
+"e": "Declaratória"
+},
+{
+"p": "Na jurisdição voluntária, o juiz não é obrigado a observar critério de legalidade estrita.",
+"c": true,
+"prof": "CPC, art. 723, parágrafo único.",
+"x": "Voluntária.",
+"e": "Voluntária"
+},
+{
+"p": "Compete à autoridade judiciária brasileira, com exclusão de qualquer outra, conhecer de ações relativas a imóveis situados no Brasil.",
+"c": true,
+"prof": "CPC, art. 23, I.",
+"x": "Exclusiva.",
+"e": "Internacional"
+},
+{
+"p": "A ação proposta perante tribunal estrangeiro induz litispendência no Brasil.",
+"c": false,
+"prof": "CPC, art. 24.",
+"x": "Não induz.",
+"e": "Litispendência internacional"
+},
+{
+"p": "A homologação de sentença estrangeira compete ao STJ.",
+"c": true,
+"prof": "CF, art. 105, I, i.",
+"x": "EC 45/2004.",
+"e": "Homologação"
+},
+{
+"p": "A carta arbitral serve para que o Judiciário pratique ou determine o cumprimento de ato solicitado por juízo arbitral.",
+"c": true,
+"prof": "CPC, art. 237, IV.",
+"x": "Carta arbitral.",
+"e": "Cartas"
+},
+{
+"p": "O pedido de cooperação jurisdicional nacional prescinde de forma específica.",
+"c": true,
+"prof": "CPC, art. 69.",
+"x": "Cooperação.",
+"e": "Cooperação nacional"
+},
+{
+"p": "Determina-se a competência no momento do registro ou da distribuição da petição inicial.",
+"c": true,
+"prof": "CPC, art. 43.",
+"x": "Perpetuação.",
+"e": "Perpetuatio"
+},
+{
+"p": "As modificações de fato ou de direito posteriores à propositura são irrelevantes, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta.",
+"c": true,
+"prof": "CPC, art. 43.",
+"x": "Exceções.",
+"e": "Perpetuatio"
+},
+{
+"p": "A incompetência absoluta pode ser alegada em qualquer tempo e grau de jurisdição e deve ser declarada de ofício.",
+"c": true,
+"prof": "CPC, art. 64, § 1º.",
+"x": "Absoluta.",
+"e": "Absoluta"
+},
+{
+"p": "A incompetência relativa deve ser arguida por exceção, em peça autônoma.",
+"c": false,
+"prof": "CPC, art. 64.",
+"x": "Preliminar de contestação.",
+"e": "Relativa"
+},
+{
+"p": "Prorroga-se a competência relativa se o réu não alegar a incompetência em preliminar de contestação.",
+"c": true,
+"prof": "CPC, art. 65.",
+"x": "Prorrogação.",
+"e": "Prorrogação"
+},
+{
+"p": "O Ministério Público pode alegar a incompetência relativa nas causas em que atuar.",
+"c": true,
+"prof": "CPC, art. 65, parágrafo único.",
+"x": "MP.",
+"e": "MP"
+},
+{
+"p": "Salvo decisão em contrário, conservam-se os efeitos de decisão proferida pelo juízo incompetente até que outra seja proferida pelo juízo competente.",
+"c": true,
+"prof": "CPC, art. 64, § 4º.",
+"x": "Translatio iudicii.",
+"e": "Efeitos"
+},
+{
+"p": "A competência em razão do valor e do território é sempre absoluta.",
+"c": false,
+"prof": "CPC, arts. 62 e 63.",
+"x": "Em regra relativa.",
+"e": "Critérios"
+},
+{
+"p": "A ação fundada em direito pessoal será proposta, em regra, no foro de domicílio do réu.",
+"c": true,
+"prof": "CPC, art. 46.",
+"x": "Regra geral.",
+"e": "Domicílio"
+},
+{
+"p": "A ação possessória imobiliária será proposta no foro de situação da coisa, cujo juízo tem competência absoluta.",
+"c": true,
+"prof": "CPC, art. 47, § 2º.",
+"x": "Possessória.",
+"e": "Imóveis"
+},
+{
+"p": "Nas ações reais imobiliárias sobre propriedade, vizinhança e servidão, a competência do foro da situação da coisa é absoluta.",
+"c": true,
+"prof": "CPC, art. 47, § 1º.",
+"x": "Absoluta.",
+"e": "Imóveis"
+},
+{
+"p": "A ação de alimentos é proposta no foro de domicílio ou residência do alimentando.",
+"c": true,
+"prof": "CPC, art. 53, II.",
+"x": "Alimentando.",
+"e": "Alimentos"
+},
+{
+"p": "É competente o foro de domicílio da vítima de violência doméstica para a ação de divórcio.",
+"c": true,
+"prof": "CPC, art. 53, I, d.",
+"x": "Lei 13.894/2019.",
+"e": "Divórcio"
+},
+{
+"p": "A ação de reparação de dano sofrido em razão de acidente de veículo pode ser proposta no foro do domicílio do autor ou do local do fato.",
+"c": true,
+"prof": "CPC, art. 53, V.",
+"x": "Acidente.",
+"e": "Acidente"
+},
+{
+"p": "Sendo a União demandada, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato, no de situação da coisa ou no Distrito Federal.",
+"c": true,
+"prof": "CPC, art. 51, parágrafo único.",
+"x": "União.",
+"e": "União"
+},
+{
+"p": "O STF limitou a escolha do foro de domicílio do autor contra Estados aos limites territoriais do ente ou ao local de ocorrência do fato.",
+"c": true,
+"prof": "ADIs 5.492 e 5.737.",
+"x": "Interpretação conforme.",
+"e": "Estados"
+},
+{
+"p": "As partes podem modificar a competência em razão do valor e do território, elegendo foro.",
+"c": true,
+"prof": "CPC, art. 63.",
+"x": "Eleição.",
+"e": "Foro de eleição"
+},
+{
+"p": "Após a Lei 14.879/2024, a eleição de foro deve guardar pertinência com o domicílio ou residência de uma das partes ou com o local da obrigação.",
+"c": true,
+"prof": "CPC, art. 63, § 1º.",
+"x": "Pertinência.",
+"e": "Lei 14.879"
+},
+{
+"p": "O ajuizamento de ação em juízo aleatório constitui prática abusiva que justifica a declinação de competência de ofício.",
+"c": true,
+"prof": "CPC, art. 63, § 5º.",
+"x": "Juízo aleatório.",
+"e": "Lei 14.879"
+},
+{
+"p": "O foro de eleição não obriga os herdeiros e sucessores das partes.",
+"c": false,
+"prof": "CPC, art. 63, § 2º.",
+"x": "Obriga.",
+"e": "Sucessores"
+},
+{
+"p": "Antes da citação, a cláusula de eleição de foro abusiva pode ser reputada ineficaz de ofício pelo juiz.",
+"c": true,
+"prof": "CPC, art. 63, § 3º.",
+"x": "Abusiva.",
+"e": "Abusividade"
+},
+{
+"p": "Citado, o réu deve alegar a abusividade da cláusula de eleição de foro na contestação, sob pena de preclusão.",
+"c": true,
+"prof": "CPC, art. 63, § 4º.",
+"x": "Preclusão.",
+"e": "Preclusão"
+},
+{
+"p": "Reputam-se conexas duas ou mais ações quando lhes for comum o pedido ou a causa de pedir.",
+"c": true,
+"prof": "CPC, art. 55.",
+"x": "Conexão.",
+"e": "Conexão"
+},
+{
+"p": "A conexão determina a reunião dos processos mesmo que um deles já tenha sido julgado.",
+"c": false,
+"prof": "Súmula 235 do STJ.",
+"x": "Não determina.",
+"e": "Súmula 235"
+},
+{
+"p": "Serão reunidos os processos que possam gerar risco de decisões conflitantes, mesmo sem conexão entre eles.",
+"c": true,
+"prof": "CPC, art. 55, § 3º.",
+"x": "Risco.",
+"e": "Reunião"
+},
+{
+"p": "Na continência, se a ação continente tiver sido proposta anteriormente, a ação contida será extinta sem resolução de mérito.",
+"c": true,
+"prof": "CPC, art. 57.",
+"x": "Continência.",
+"e": "Continência"
+},
+{
+"p": "O registro ou a distribuição da petição inicial torna prevento o juízo.",
+"c": true,
+"prof": "CPC, art. 59.",
+"x": "Prevenção.",
+"e": "Prevenção"
+},
+{
+"p": "A competência absoluta pode ser modificada pela conexão.",
+"c": false,
+"prof": "CPC, art. 54.",
+"x": "Só a relativa.",
+"e": "Modificação"
+},
+{
+"p": "A ação acessória será proposta no juízo competente para a ação principal.",
+"c": true,
+"prof": "CPC, art. 61.",
+"x": "Acessória.",
+"e": "Acessória"
+},
+{
+"p": "A parte que arguiu incompetência relativa pode suscitar conflito de competência.",
+"c": false,
+"prof": "CPC, art. 952.",
+"x": "Não pode.",
+"e": "Conflito"
+},
+{
+"p": "Não há conflito de competência se já existe sentença com trânsito em julgado proferida por um dos juízos conflitantes.",
+"c": true,
+"prof": "Súmula 59 do STJ.",
+"x": "Trânsito.",
+"e": "Súmula 59"
+},
+{
+"p": "Compete ao STJ julgar conflito de competência entre juiz federal e juiz estadual não investido de jurisdição federal.",
+"c": true,
+"prof": "CF, art. 105, I, d.",
+"x": "STJ.",
+"e": "Conflito"
+},
+{
+"p": "Compete à Justiça Federal decidir sobre a existência de interesse jurídico da União, suas autarquias ou empresas públicas no processo.",
+"c": true,
+"prof": "Súmula 150 do STJ.",
+"x": "Súmula 150.",
+"e": "Interesse federal"
+},
+{
+"p": "As causas em que é parte sociedade de economia mista federal são de competência da Justiça Federal.",
+"c": false,
+"prof": "Súmula 42 do STJ.",
+"x": "Justiça Estadual.",
+"e": "SEM"
+},
+{
+"p": "As causas de acidente do trabalho, ainda que contra o INSS, são de competência da Justiça Estadual.",
+"c": true,
+"prof": "CF, art. 109, I.",
+"x": "Exceção.",
+"e": "Acidente de trabalho"
+},
+{
+"p": "O conciliador atua preferencialmente nos casos em que não houver vínculo anterior entre as partes, podendo sugerir soluções.",
+"c": true,
+"prof": "CPC, art. 165, § 2º.",
+"x": "Conciliador.",
+"e": "Conciliador"
+},
+{
+"p": "O mediador atua preferencialmente nos casos em que houver vínculo anterior entre as partes.",
+"c": true,
+"prof": "CPC, art. 165, § 3º.",
+"x": "Mediador.",
+"e": "Mediador"
+},
+{
+"p": "União, Estados, DF e Municípios criarão câmaras de mediação e conciliação para a solução consensual de conflitos no âmbito administrativo.",
+"c": true,
+"prof": "CPC, art. 174.",
+"x": "Câmaras.",
+"e": "Administração"
+},
+{
+"p": "A instauração de procedimento administrativo de resolução consensual de conflito na Administração suspende a prescrição.",
+"c": true,
+"prof": "Lei 13.140, art. 34.",
+"x": "Suspensão.",
+"e": "Mediação"
+},
+{
+"p": "A audiência de conciliação do art. 334 deixa de ser realizada se apenas o autor manifestar desinteresse.",
+"c": false,
+"prof": "CPC, art. 334, § 4º.",
+"x": "Ambas as partes.",
+"e": "Audiência"
+},
+{
+"p": "O não comparecimento injustificado à audiência de conciliação é ato atentatório à dignidade da justiça, sancionado com multa de até 2%.",
+"c": true,
+"prof": "CPC, art. 334, § 8º.",
+"x": "Multa.",
+"e": "Ausência"
+},
+{
+"p": "A ausência de alegação, pelo réu, da convenção de arbitragem implica aceitação da jurisdição estatal.",
+"c": true,
+"prof": "CPC, art. 337, § 6º.",
+"x": "Renúncia.",
+"e": "Arbitragem"
+},
+{
+"p": "Se o autor der causa, por três vezes, a sentença fundada em abandono, não poderá propor nova ação com o mesmo objeto, ressalvada a alegação em defesa.",
+"c": true,
+"prof": "CPC, art. 486, § 3º.",
+"x": "Perempção.",
+"e": "Perempção"
+},
+{
+"p": "O STF declarou constitucional o art. 139, IV, do CPC, que autoriza medidas atípicas para o cumprimento de ordens judiciais.",
+"c": true,
+"prof": "ADI 5.941.",
+"x": "Medidas atípicas.",
+"e": "Medidas atípicas"
+},
+{
+"p": "A dilação de prazos pelo juiz somente pode ser determinada antes de encerrado o prazo regular.",
+"c": true,
+"prof": "CPC, art. 139, parágrafo único.",
+"x": "Dilação.",
+"e": "Prazos"
+},
+{
+"p": "Nos contratos administrativos, deve constar cláusula declarando competente o foro da sede da Administração, salvo as exceções legais.",
+"c": true,
+"prof": "Lei 14.133, art. 92, § 1º.",
+"x": "Foro.",
+"e": "Contratos"
+},
+{
+"p": "Segundo o CPC, o processo",
+"alts": [
+"começa e se desenvolve por impulso oficial",
+"começa por impulso oficial e se desenvolve por iniciativa da parte",
+"começa por iniciativa da parte e se desenvolve por impulso oficial, salvo exceções legais",
+"depende sempre de requerimento da parte para cada ato",
+"só começa com autorização do MP"
+],
+"r": 2,
+"x": "Art. 2º.",
+"n": [
+"Não.",
+"Invertido.",
+"Correta.",
+"Impulso oficial.",
+"Não."
+],
+"e": "Art. 2º."
+},
+{
+"p": "O contraditório prévio NÃO se aplica, segundo o art. 9º do CPC,",
+"alts": [
+"à sentença de mérito",
+"ao julgamento antecipado",
+"à tutela provisória de urgência, a hipóteses de tutela da evidência e à expedição do mandado monitório",
+"à decisão sobre prescrição",
+"a qualquer decisão interlocutória"
+],
+"r": 2,
+"x": "Art. 9º, parágrafo único.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Exige oitiva (art. 487).",
+"Não."
+],
+"e": "Exceções."
+},
+{
+"p": "Sobre a vedação da decisão surpresa, é correto afirmar:",
+"alts": [
+"não se aplica às matérias cognoscíveis de ofício",
+"só se aplica em primeiro grau",
+"aplica-se em qualquer grau de jurisdição, inclusive às matérias que o juiz deva decidir de ofício",
+"foi revogada pela Lei 13.256/2016",
+"só vale para o réu"
+],
+"r": 2,
+"x": "Art. 10.",
+"n": [
+"Aplica-se.",
+"Todos os graus.",
+"Correta.",
+"Não.",
+"Ambas as partes."
+],
+"e": "Art. 10."
+},
+{
+"p": "O negócio jurídico processual atípico do art. 190 do CPC",
+"alts": [
+"é vedado à Fazenda Pública em qualquer hipótese",
+"depende de homologação judicial para existir",
+"pode ser celebrado por partes plenamente capazes em processos sobre direitos que admitam autocomposição",
+"pode ser celebrado em qualquer causa",
+"só pode ser celebrado depois da citação"
+],
+"r": 2,
+"x": "Art. 190.",
+"n": [
+"Doutrina admite.",
+"O juiz controla a validade.",
+"Correta.",
+"Exige autocomposição.",
+"Antes ou durante."
+],
+"e": "Negócio processual."
+},
+{
+"p": "Determina-se a competência no momento",
+"alts": [
+"da citação válida",
+"do despacho inicial",
+"do registro ou da distribuição da petição inicial",
+"da contestação",
+"da sentença"
+],
+"r": 2,
+"x": "Art. 43.",
+"n": [
+"Regra antiga de prevenção.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Perpetuação."
+},
+{
+"p": "Assinale a alternativa correta sobre incompetência.",
+"alts": [
+"a incompetência relativa é declarada de ofício",
+"a incompetência absoluta preclui se não alegada na contestação",
+"a incompetência, absoluta ou relativa, será alegada como questão preliminar de contestação",
+"a incompetência relativa é arguida em exceção autônoma",
+"acolhida a incompetência, todos os atos são automaticamente nulos"
+],
+"r": 2,
+"x": "Art. 64.",
+"n": [
+"Súmula 33.",
+"Qualquer tempo.",
+"Correta.",
+"Não no CPC/2015.",
+"Conservam-se efeitos."
+],
+"e": "Incompetência."
+},
+{
+"p": "A ação possessória imobiliária será proposta no foro",
+"alts": [
+"de domicílio do réu, com competência relativa",
+"de domicílio do autor",
+"de situação da coisa, cujo juízo tem competência absoluta",
+"de eleição",
+"da capital do Estado"
+],
+"r": 2,
+"x": "Art. 47, § 2º.",
+"n": [
+"Absoluta.",
+"Não.",
+"Correta.",
+"Absoluta, não admite.",
+"Não."
+],
+"e": "Possessória."
+},
+{
+"p": "De acordo com a Lei 14.879/2024, a cláusula de eleição de foro",
+"alts": [
+"pode indicar qualquer comarca do país",
+"deve guardar pertinência com o domicílio ou residência de uma das partes ou com o local da obrigação",
+"só vale em contratos de consumo",
+"modifica competência absoluta",
+"não vincula sucessores"
+],
+"r": 1,
+"x": "Art. 63, § 1º.",
+"n": [
+"Não mais.",
+"Correta.",
+"Não.",
+"Não.",
+"Vincula."
+],
+"e": "Foro de eleição."
+},
+{
+"p": "O ajuizamento de ação em juízo aleatório, sem vinculação com o domicílio ou residência das partes ou com o negócio jurídico, é considerado pelo CPC",
+"alts": [
+"legítimo exercício de escolha do autor",
+"causa de extinção do processo com resolução de mérito",
+"prática abusiva que justifica a declinação de competência de ofício",
+"hipótese de perempção",
+"caso de litispendência"
+],
+"r": 2,
+"x": "Art. 63, § 5º.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Juízo aleatório."
+},
+{
+"p": "Reputam-se conexas duas ou mais ações quando lhes for comum",
+"alts": [
+"apenas as partes",
+"o pedido ou a causa de pedir",
+"as partes, o pedido e a causa de pedir",
+"o juízo",
+"o advogado"
+],
+"r": 1,
+"x": "Art. 55.",
+"n": [
+"Não.",
+"Correta.",
+"Isso é litispendência.",
+"Não.",
+"Não."
+],
+"e": "Conexão."
+},
+{
+"p": "Na continência, quando a ação continente tiver sido proposta anteriormente,",
+"alts": [
+"as ações serão necessariamente reunidas",
+"no processo relativo à ação contida será proferida sentença sem resolução de mérito",
+"a ação continente será extinta",
+"ocorre perempção",
+"prorroga-se a competência absoluta"
+],
+"r": 1,
+"x": "Art. 57.",
+"n": [
+"Se posterior.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Continência."
+},
+{
+"p": "Segundo a Súmula 150 do STJ, compete decidir sobre a existência de interesse jurídico da União que justifique sua presença no processo",
+"alts": [
+"ao juiz estadual",
+"ao STF",
+"à Justiça Federal",
+"ao TJ",
+"ao STJ"
+],
+"r": 2,
+"x": "Súmula 150.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Súmula 150."
+},
+{
+"p": "Quanto aos foros especiais, é correto afirmar:",
+"alts": [
+"a ação de alimentos corre no domicílio do alimentante",
+"a ação de reparação por acidente de veículo pode ser proposta no domicílio do autor ou no local do fato",
+"o inventário corre no domicílio do herdeiro mais velho",
+"a ação contra o incapaz corre no domicílio do autor",
+"a ação do idoso corre na capital"
+],
+"r": 1,
+"x": "Art. 53, V.",
+"n": [
+"Alimentando.",
+"Correta.",
+"Último domicílio do autor da herança.",
+"Representante.",
+"Residência do idoso."
+],
+"e": "Foros especiais."
+},
+{
+"p": "Não pode suscitar conflito de competência",
+"alts": [
+"o juiz",
+"o Ministério Público",
+"a parte que, no processo, arguiu incompetência relativa",
+"o réu revel",
+"o assistente"
+],
+"r": 2,
+"x": "Art. 952.",
+"n": [
+"Pode.",
+"Pode.",
+"Correta.",
+"Não há vedação.",
+"Não há vedação."
+],
+"e": "Conflito."
+},
+{
+"p": "Sobre as medidas executivas atípicas do art. 139, IV, do CPC, segundo o STF e o STJ,",
+"alts": [
+"são inconstitucionais",
+"podem ser aplicadas como primeira medida, sem fundamentação",
+"são constitucionais, mas exigem fundamentação, proporcionalidade e, segundo o STJ, subsidiariedade em relação aos meios típicos",
+"não se aplicam a obrigações pecuniárias",
+"só podem ser requeridas pelo MP"
+],
+"r": 2,
+"x": "ADI 5.941.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Aplicam-se.",
+"Não."
+],
+"e": "Medidas atípicas."
+},
+{
+"p": "Segundo o CPC, o mediador",
+"alts": [
+"atua preferencialmente quando não há vínculo anterior entre as partes",
+"impõe a solução às partes",
+"atua preferencialmente quando há vínculo anterior, auxiliando as partes a identificar, por si próprias, soluções consensuais",
+"é sempre servidor do Poder Judiciário",
+"não se submete à confidencialidade"
+],
+"r": 2,
+"x": "Art. 165, § 3º.",
+"n": [
+"Conciliador.",
+"Não.",
+"Correta.",
+"Não necessariamente.",
+"Submete-se."
+],
+"e": "Mediador."
+},
+{
+"p": "Determinam a competência absoluta os critérios",
+"alts": [
+"do valor e do território",
+"da matéria, da pessoa e da função",
+"do domicílio do autor",
+"da eleição de foro",
+"da conexão"
+],
+"r": 1,
+"x": "Arts. 62 e 63.",
+"n": [
+"Em regra relativa.",
+"Correta.",
+"Não.",
+"Relativa.",
+"Modifica a relativa."
+],
+"e": "Critérios."
+},
+{
+"p": "Segundo o CPC, a norma processual",
+"alts": [
+"retroage para atingir atos já praticados",
+"só se aplica a processos iniciados após sua vigência",
+"não retroage e é aplicável imediatamente aos processos em curso, respeitados os atos praticados",
+"depende de vacatio de 1 ano",
+"aplica-se ao processo penal subsidiariamente pelo art. 15"
+],
+"r": 2,
+"x": "Arts. 14 e 15.",
+"n": [
+"Não.",
+"Imediata.",
+"Correta.",
+"Não.",
+"Art. 15 não cita o penal."
+],
+"e": "Intertemporal."
+}
+]
+},
+"sujeitos": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>10% a 20%</b><span>honorários na regra geral (CPC, art. 85, § 2º); contra a Fazenda há 5 faixas escalonadas (§ 3º)</span></div><div class=\"lt-stat\"><b>dobro</b><span>prazo da Advocacia Pública, do MP e da Defensoria (arts. 180, 183 e 186)</span></div><div class=\"lt-stat\"><b>até 20%</b><span>multa por ato atentatório à dignidade da justiça (art. 77, § 2º)</span></div><div class=\"lt-stat\"><b>2025</b><span>Lei 15.109 dispensou o advogado de adiantar custas na cobrança de honorários</span></div></div>\n<h3>1. Partes: capacidade de ser parte, capacidade processual e postulatória</h3>\n<ul><li><b>Capacidade de ser parte</b> (personalidade judiciária): é a aptidão para figurar como parte em um processo. Têm-na todas as <b>pessoas naturais e jurídicas</b> e também alguns <b>entes despersonalizados</b>, como a massa falida, o espólio, a herança jacente ou vacante, o condomínio, a sociedade sem personalidade jurídica e os <b>órgãos públicos</b> com personalidade judiciária para defender suas prerrogativas (por exemplo, a <b>Câmara Municipal</b>, segundo a <b>Súmula 525 do STJ</b>: \"A Câmara de Vereadores não possui personalidade jurídica, apenas personalidade judiciária, somente podendo demandar em juízo para defender os seus direitos institucionais\").</li><li><b>Capacidade processual</b> (art. 70): toda pessoa que se encontre no exercício de seus direitos tem capacidade para estar em juízo. Os <b>incapazes</b> serão <b>representados</b> (absolutamente incapazes) ou <b>assistidos</b> (relativamente incapazes) por seus pais, tutores ou curadores, na forma da lei (art. 71).</li><li><b>Curador especial</b> (art. 72): o juiz nomeará curador especial ao: I, <b>incapaz</b>, se não tiver representante legal ou se os interesses deste colidirem com os daquele, enquanto durar a incapacidade; II, <b>réu preso revel</b>, bem como ao réu revel citado por <b>edital</b> ou com <b>hora certa</b>, enquanto não for constituído advogado. A curatela especial será exercida pela <b>Defensoria Pública</b>, nos termos da lei (parágrafo único).</li><li><b>Cônjuges</b> (art. 73): o cônjuge necessitará do <b>consentimento do outro</b> para propor ação que verse sobre <b>direito real imobiliário</b>, salvo quando casados sob o regime de <b>separação absoluta de bens</b>. Ambos os cônjuges serão necessariamente citados para a ação que verse sobre direito real imobiliário, resultante de fato que diga respeito a ambos ou de ato praticado por eles, fundada em dívida contraída por um dos cônjuges a bem da família, ou que tenha por objeto o reconhecimento, a constituição ou a extinção de ônus sobre imóvel de um ou de ambos os cônjuges (§ 1º). Nas <b>ações possessórias</b>, a participação do cônjuge do autor ou do réu somente é indispensável nas hipóteses de <b>composse</b> ou de ato por ambos praticado (§ 2º). Aplica-se à <b>união estável</b> comprovada nos autos (§ 3º).</li><li><b>Capacidade postulatória</b>: é a aptidão para praticar atos processuais em juízo, que pertence ao <b>advogado</b> regularmente inscrito na OAB, aos membros do <b>MP</b>, da <b>Defensoria Pública</b> e da <b>Advocacia Pública</b>. A parte pode postular sem advogado em hipóteses legais, como nos <b>Juizados Especiais Cíveis</b> até 20 salários mínimos (Lei 9.099, art. 9º), na Justiça do Trabalho e no habeas corpus.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Câmara Municipal tem personalidade jurídica própria</span><br>✅ <span class=\"certo\">Tem apenas <b>personalidade judiciária</b>, para defender seus direitos <b>institucionais</b> (Súmula 525 do STJ)</span></li><li>❌ <span class=\"banca\">O curador especial do réu citado por edital é nomeado entre advogados particulares</span><br>✅ <span class=\"certo\">A curatela especial é exercida pela <b>Defensoria Pública</b> (art. 72, parágrafo único)</span></li><li>❌ <span class=\"banca\">O cônjuge casado em separação absoluta precisa de consentimento para ação imobiliária</span><br>✅ <span class=\"certo\"><b>Não precisa</b> (art. 73)</span></li><li>❌ <span class=\"banca\">Nas possessórias, a participação do cônjuge é sempre indispensável</span><br>✅ <span class=\"certo\">Só em caso de <b>composse</b> ou de ato por ambos praticado (art. 73, § 2º)</span></li></ol></div>\n<h3>2. Representação em juízo das pessoas jurídicas de direito público (art. 75)</h3>\n<table class=\"tab\"><thead><tr><th>Ente</th><th>Representado em juízo por</th></tr></thead><tbody><tr><td><b>União</b></td><td><b>Advocacia-Geral da União</b>, diretamente ou mediante órgão vinculado (art. 75, I)</td></tr><tr><td><b>Estado e DF</b></td><td>seus <b>procuradores</b> (art. 75, II)</td></tr><tr><td><b>Município</b></td><td>seu <b>prefeito</b>, <b>procurador</b> ou <b>Associação de Representação de Municípios</b>, quando expressamente autorizada (art. 75, III, redação da Lei 14.341/2022)</td></tr><tr><td><b>Autarquia e fundação de direito público</b></td><td>quem a <b>lei do ente federado</b> designar (art. 75, IV)</td></tr><tr><td><b>Massa falida</b></td><td>administrador judicial</td></tr><tr><td><b>Herança jacente ou vacante</b></td><td>curador</td></tr><tr><td><b>Espólio</b></td><td><b>inventariante</b> (se dativo, todos os sucessores serão intimados no processo)</td></tr><tr><td><b>Pessoa jurídica</b></td><td>quem os respectivos atos constitutivos designarem ou, não havendo essa designação, por seus diretores</td></tr><tr><td><b>Condomínio</b></td><td>administrador ou <b>síndico</b></td></tr></tbody></table>\n<ul><li><b>Município</b>: pode ser representado pelo <b>Prefeito</b> (que, não sendo advogado, precisa constituir advogado, pois o Prefeito não tem capacidade postulatória em nome próprio) ou pelo <b>procurador</b> municipal (que tem capacidade postulatória decorrente do cargo e <b>dispensa procuração</b>). O STJ entende que o procurador municipal ocupante de cargo efetivo <b>não precisa juntar procuração</b>, pois sua representação decorre da lei (Súmula 644 do STF, relativa às autarquias: \"Ao titular do cargo de procurador de autarquia não se exige a apresentação de instrumento de mandato para representá-la em juízo\", aplicada por analogia).</li><li><b>Associação de Representação de Municípios</b> (§ 5º, incluído pela Lei 14.341/2022): a representação judicial do Município pela associação somente poderá ocorrer em questões de <b>interesse comum</b> dos Municípios associados e dependerá de <b>autorização do respectivo chefe do Poder Executivo municipal</b>, com <b>indicação específica</b> do direito ou da obrigação a ser objeto das medidas judiciais.</li><li><b>Convênio entre procuradorias</b> (§ 4º): os <b>Estados e o DF</b> poderão ajustar compromisso recíproco para prática de ato processual por seus procuradores em favor de outro ente federado, mediante <b>convênio</b> firmado pelas respectivas procuradorias.</li><li><b>Pessoa jurídica estrangeira</b> (art. 75, X, e § 3º): representada pelo gerente, representante ou administrador de sua filial, agência ou sucursal aberta ou instalada no Brasil, presumindo-se autorizado a receber citação para qualquer processo.</li><li><b>Irregularidade de representação</b> (art. 76): verificada a incapacidade processual ou a irregularidade da representação da parte, o juiz <b>suspenderá o processo</b> e designará <b>prazo razoável</b> para que seja sanado o vício. Descumprida a determinação, caso o processo esteja na instância originária: se a providência couber ao <b>autor</b>, o processo será <b>extinto</b>; se couber ao <b>réu</b>, ele será considerado <b>revel</b>; se couber ao <b>terceiro</b>, será considerado revel ou excluído do processo, dependendo do polo em que se encontre. Em fase recursal perante tribunal, o relator <b>não conhecerá do recurso</b>, se a providência couber ao recorrente, ou determinará o <b>desentranhamento das contrarrazões</b>, se a providência couber ao recorrido (§ 2º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Município é representado em juízo exclusivamente pelo Prefeito</span><br>✅ <span class=\"certo\">Pelo <b>prefeito</b>, <b>procurador</b> ou <b>Associação de Representação de Municípios</b> autorizada (art. 75, III)</span></li><li>❌ <span class=\"banca\">O procurador municipal efetivo precisa juntar procuração</span><br>✅ <span class=\"certo\">A representação decorre do <b>cargo</b> (lei), dispensando mandato</span></li><li>❌ <span class=\"banca\">A associação de Municípios pode representar o Município em qualquer causa</span><br>✅ <span class=\"certo\">Só em questões de <b>interesse comum</b>, com <b>autorização específica</b> do Prefeito (§ 5º)</span></li><li>❌ <span class=\"banca\">Irregularidade de representação do réu leva à extinção do processo</span><br>✅ <span class=\"certo\">O réu é considerado <b>revel</b>; a extinção é para o vício do <b>autor</b> (art. 76)</span></li></ol></div>\n<h3>3. Deveres das partes e dos procuradores</h3>\n<ul><li><b>Art. 77</b>: são deveres das partes, de seus procuradores e de todos aqueles que de qualquer forma participem do processo: I, expor os fatos em juízo conforme a <b>verdade</b>; II, não formular pretensão ou apresentar defesa quando cientes de que são <b>destituídas de fundamento</b>; III, não produzir provas e não praticar atos <b>inúteis ou desnecessários</b>; IV, <b>cumprir com exatidão as decisões jurisdicionais</b>, de natureza provisória ou final, e não criar embaraços à sua efetivação; V, declinar, no primeiro momento que lhes couber falar nos autos, o <b>endereço</b> residencial ou profissional onde receberão intimações, atualizando essa informação sempre que ocorrer qualquer modificação temporária ou definitiva; VI, não praticar <b>inovação ilegal no estado de fato</b> de bem ou direito litigioso; VII, informar e manter atualizados seus dados cadastrais perante os órgãos do Poder Judiciário e, no caso do § 6º do art. 246, da Administração Tributária, para recebimento de citações e intimações (Lei 14.195/2021).</li><li><b>Ato atentatório à dignidade da justiça</b> (§§ 1º e 2º): a violação ao disposto nos incisos <b>IV</b> e <b>VI</b> constitui ato atentatório à dignidade da justiça, devendo o juiz, sem prejuízo das sanções criminais, civis e processuais cabíveis, aplicar ao responsável <b>multa de até 20% do valor da causa</b>, de acordo com a gravidade da conduta. Não sendo paga no prazo, a multa será inscrita como <b>dívida ativa da União ou do Estado</b> (§ 3º). Quando o valor da causa for irrisório ou inestimável, a multa poderá ser fixada em até <b>10 vezes o salário mínimo</b> (§ 5º).</li><li><b>Advogados e membros das carreiras públicas</b> (§ 6º): aos <b>advogados públicos ou privados</b> e aos membros da <b>Defensoria Pública</b> e do <b>Ministério Público</b> <b>não se aplica</b> o disposto nos §§ 2º a 5º, devendo eventual responsabilidade disciplinar ser apurada pelo respectivo <b>órgão de classe</b> ou <b>corregedoria</b>, ao qual o juiz oficiará.</li><li><b>Expressões ofensivas</b> (art. 78): é vedado às partes, a seus procuradores, aos juízes, aos membros do MP e da Defensoria e a qualquer pessoa que participe do processo empregar <b>expressões ofensivas</b> nos escritos apresentados. Quando expressas oralmente, o juiz advertirá o ofensor de que não as deve usar ou repetir, sob pena de lhe ser cassada a palavra. De ofício ou a requerimento do ofendido, o juiz determinará que as expressões ofensivas sejam <b>riscadas</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A multa por ato atentatório à dignidade da justiça é de até 10% do valor da causa</span><br>✅ <span class=\"certo\">É de até <b>20%</b> (art. 77, § 2º)</span></li><li>❌ <span class=\"banca\">O juiz pode aplicar a multa do art. 77, § 2º, diretamente ao advogado público</span><br>✅ <span class=\"certo\"><b>Não se aplica</b> a advogados, defensores e membros do MP; o juiz oficia ao <b>órgão de classe</b> (§ 6º)</span></li><li>❌ <span class=\"banca\">A multa do ato atentatório reverte para a parte contrária</span><br>✅ <span class=\"certo\">É inscrita em <b>dívida ativa da União ou do Estado</b> (§ 3º)</span></li></ol></div>\n<h3>4. Litigância de má-fé</h3>\n<ul><li><b>Responsabilidade</b> (art. 79): responde por <b>perdas e danos</b> aquele que litigar de má-fé como <b>autor, réu ou interveniente</b>.</li><li><b>Hipóteses</b> (art. 80): considera-se litigante de má-fé aquele que: I, deduzir pretensão ou defesa contra <b>texto expresso de lei ou fato incontroverso</b>; II, <b>alterar a verdade dos fatos</b>; III, usar do processo para conseguir <b>objetivo ilegal</b>; IV, opuser <b>resistência injustificada</b> ao andamento do processo; V, proceder de <b>modo temerário</b> em qualquer incidente ou ato do processo; VI, provocar incidente <b>manifestamente infundado</b>; VII, interpuser <b>recurso com intuito manifestamente protelatório</b>.</li><li><b>Sanção</b> (art. 81): de ofício ou a requerimento, o juiz condenará o litigante de má-fé a pagar <b>multa</b>, que deverá ser <b>superior a 1% e inferior a 10%</b> do valor corrigido da causa, a <b>indenizar a parte contrária</b> pelos prejuízos que esta sofreu e a arcar com os <b>honorários advocatícios</b> e com todas as despesas que efetuou. Quando forem 2 ou mais os litigantes de má-fé, o juiz condenará cada um na proporção de seu respectivo interesse na causa ou <b>solidariamente</b> aqueles que se coligaram para lesar a parte contrária (§ 1º). Quando o valor da causa for irrisório ou inestimável, a multa poderá ser fixada em até <b>10 vezes o salário mínimo</b> (§ 2º). O valor da indenização será fixado pelo juiz ou, caso não seja possível mensurá-lo, liquidado por arbitramento ou pelo procedimento comum, nos próprios autos (§ 3º).</li><li><b>Destino da multa</b>: a multa por litigância de má-fé reverte em favor da <b>parte contrária</b> (art. 96), diferentemente da multa por ato atentatório (que vai para a União ou o Estado).</li><li><b>Gratuidade e má-fé</b>: a concessão de gratuidade <b>não afasta</b> o dever de o beneficiário pagar, ao final, as <b>multas processuais</b> que lhe sejam impostas (art. 98, § 4º).</li><li><b>Advogado</b>: a jurisprudência do STJ entende que a multa por litigância de má-fé não pode ser imposta diretamente ao <b>advogado</b> nos autos em que atua; eventual responsabilidade dele deve ser apurada em <b>ação própria</b> (Estatuto da OAB, art. 32, parágrafo único).</li></ul>\n<table class=\"tab\"><thead><tr><th>Multa</th><th>Hipótese</th><th>Valor</th><th>Destino</th></tr></thead><tbody><tr><td><b>Ato atentatório</b> (art. 77, § 2º)</td><td>descumprir decisões ou inovar ilegalmente no estado de fato</td><td>até <b>20%</b> do valor da causa</td><td><b>União ou Estado</b> (dívida ativa)</td></tr><tr><td><b>Litigância de má-fé</b> (art. 81)</td><td>hipóteses do art. 80</td><td><b>mais de 1% e menos de 10%</b> do valor corrigido da causa</td><td><b>parte contrária</b></td></tr><tr><td><b>Embargos de declaração protelatórios</b> (art. 1.026, § 2º)</td><td>ED manifestamente protelatórios</td><td>até <b>2%</b>; na reiteração, até <b>10%</b></td><td><b>embargado</b></td></tr><tr><td><b>Agravo interno manifestamente inadmissível ou improcedente</b> (art. 1.021, § 4º)</td><td>votação unânime</td><td>entre <b>1% e 5%</b> do valor atualizado da causa</td><td><b>agravado</b></td></tr><tr><td><b>Ausência injustificada à audiência de conciliação</b> (art. 334, § 8º)</td><td>não comparecimento</td><td>até <b>2%</b></td><td><b>União ou Estado</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A multa por litigância de má-fé pode chegar a 20% do valor da causa</span><br>✅ <span class=\"certo\">Deve ser <b>superior a 1% e inferior a 10%</b> (art. 81)</span></li><li>❌ <span class=\"banca\">A multa de litigância de má-fé reverte para o Estado</span><br>✅ <span class=\"certo\">Reverte para a <b>parte contrária</b></span></li><li>❌ <span class=\"banca\">O beneficiário da gratuidade fica isento das multas processuais</span><br>✅ <span class=\"certo\">Deve pagá-las <b>ao final</b> (art. 98, § 4º)</span></li><li>❌ <span class=\"banca\">Interpor recurso protelatório não é hipótese legal de má-fé</span><br>✅ <span class=\"certo\">É hipótese expressa (art. 80, VII)</span></li></ol></div>\n<h3>5. Despesas processuais e a Fazenda Pública</h3>\n<ul><li><b>Adiantamento</b> (art. 82): salvo as disposições concernentes à gratuidade da justiça, incumbe às partes prover as despesas dos atos que realizarem ou requererem no processo, <b>antecipando-lhes o pagamento</b>, desde o início até a sentença final ou, na execução, até a plena satisfação do direito reconhecido no título. Incumbe ao <b>autor</b> adiantar as despesas relativas a ato cuja realização o juiz determinar <b>de ofício</b> ou a requerimento do <b>Ministério Público</b>, quando sua intervenção ocorrer como fiscal da ordem jurídica (§ 1º). A sentença condenará o <b>vencido</b> a pagar ao vencedor as despesas que antecipou (§ 2º).</li><li><b>Lei 15.109/2025</b> (art. 82, § 3º): nas ações de <b>cobrança</b> por qualquer procedimento, comum ou especial, bem como nas <b>execuções ou cumprimentos de sentença</b> de <b>honorários advocatícios</b>, o <b>advogado</b> ficará <b>dispensado de adiantar o pagamento de custas processuais</b>, e caberá ao réu ou executado suprir, ao final do processo, o seu pagamento, se tiver dado causa ao processo.</li><li><b>Fazenda Pública</b> (art. 91): as despesas dos atos processuais praticados a requerimento da <b>Fazenda Pública</b>, do <b>Ministério Público</b> ou da <b>Defensoria Pública</b> serão pagas <b>ao final pelo vencido</b>. As <b>perícias</b> requeridas por esses entes poderão ser realizadas por <b>entidade pública</b> ou, havendo previsão orçamentária, ter os valores <b>adiantados</b> por aquele que requerer a prova (§ 1º). Não havendo previsão orçamentária no exercício financeiro para adiantamento dos honorários periciais, eles serão pagos no exercício seguinte ou ao final, pelo vencido, caso o processo se encerre antes do adiantamento a ser feito pelo ente público (§ 2º).</li><li><b>Isenção de custas</b>: a Fazenda Pública (União, autarquias e fundações federais) é isenta de custas na Justiça Federal (Lei 9.289/1996, art. 4º). Na <b>Justiça Estadual</b>, a isenção dos Estados e Municípios depende da <b>lei estadual de custas</b> (em Minas Gerais, a Lei estadual 14.939/2003 isenta de custas a Fazenda Pública estadual e municipal). A isenção de <b>custas</b> não alcança, em regra, o <b>reembolso</b> das despesas que a parte vencedora antecipou, nem os <b>honorários</b> de sucumbência.</li><li><b>Súmula 232 do STJ</b>: \"A Fazenda Pública, quando parte no processo, fica sujeita à exigência do <b>depósito prévio dos honorários do perito</b>.\" Essa súmula é anterior ao CPC/2015, cujo art. 91, §§ 1º e 2º, passou a disciplinar o tema de forma específica; a jurisprudência tem conciliado os dois: a Fazenda deve adiantar os honorários do perito que <b>ela própria</b> requereu, se houver previsão orçamentária.</li><li><b>Perícia requerida pelo MP em ação civil pública</b>: o STJ (Tema 510) entende que <b>não</b> se pode exigir do MP o adiantamento dos honorários periciais, que devem ser custeados pela <b>Fazenda Pública a que se vincula o MP</b> (aplicação analógica da Súmula 232).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O advogado deve adiantar custas na ação de cobrança de seus honorários</span><br>✅ <span class=\"certo\">A <b>Lei 15.109/2025</b> o <b>dispensou</b> do adiantamento (art. 82, § 3º)</span></li><li>❌ <span class=\"banca\">As despesas de atos requeridos pela Fazenda são pagas por ela antecipadamente, sempre</span><br>✅ <span class=\"certo\">São pagas <b>ao final pelo vencido</b> (art. 91); a perícia pode ser adiantada se houver previsão orçamentária</span></li><li>❌ <span class=\"banca\">A isenção de custas da Fazenda municipal decorre do CPC</span><br>✅ <span class=\"certo\">Decorre da <b>lei estadual</b> de custas</span></li><li>❌ <span class=\"banca\">O MP deve adiantar os honorários do perito na ACP</span><br>✅ <span class=\"certo\">Segundo o STJ, quem custeia é a <b>Fazenda</b> a que o MP se vincula</span></li></ol></div>\n<h3>6. Honorários advocatícios de sucumbência (art. 85)</h3>\n<ul><li><b>Regra geral</b> (art. 85, caput e § 2º): a sentença condenará o vencido a pagar honorários ao <b>advogado do vencedor</b>. Os honorários serão fixados entre o mínimo de <b>10%</b> e o máximo de <b>20%</b> sobre o valor da <b>condenação</b>, do <b>proveito econômico</b> obtido ou, não sendo possível mensurá-lo, sobre o <b>valor atualizado da causa</b>, atendidos: o grau de zelo do profissional; o lugar de prestação do serviço; a natureza e a importância da causa; o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.</li><li><b>Titularidade</b> (art. 85, § 14): os honorários constituem <b>direito do advogado</b> e têm <b>natureza alimentar</b>, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo <b>vedada a compensação</b> em caso de sucumbência parcial. (A Súmula 306 do STJ, que permitia a compensação, foi superada.)</li><li><b>Sucumbência recursal</b> (art. 85, § 11): o tribunal, ao julgar recurso, <b>majorará</b> os honorários fixados anteriormente, levando em conta o trabalho adicional realizado em grau recursal, observados os limites legais. O STJ (Tema 1.059) fixou que a majoração só ocorre quando o recurso for <b>integralmente</b> não conhecido ou desprovido, e quando houver fixação anterior de honorários na mesma relação processual.</li><li><b>Equidade</b> (art. 85, § 8º): nas causas em que for <b>inestimável ou irrisório o proveito econômico</b> ou, ainda, quando o <b>valor da causa for muito baixo</b>, o juiz fixará o valor dos honorários por <b>apreciação equitativa</b>. O STJ, no <b>Tema 1.076</b> (2022), decidiu que a fixação por equidade <b>não é permitida</b> quando os valores da condenação, da causa ou o proveito econômico forem <b>elevados</b>: nesses casos, aplicam-se obrigatoriamente os percentuais dos §§ 2º e 3º. A apreciação equitativa só cabe quando o proveito for inestimável ou irrisório, ou o valor da causa muito baixo. A <b>Lei 14.365/2022</b> incluiu o § 8º-A, determinando que, na equidade, o juiz observe os valores recomendados pelo Conselho Seccional da OAB ou o limite mínimo de 10% do § 2º, o que for maior.</li></ul>\n<table class=\"tab\"><thead><tr><th>Valor da condenação ou proveito econômico (Fazenda Pública parte, art. 85, § 3º)</th><th>Percentual</th></tr></thead><tbody><tr><td>até <b>200</b> salários mínimos</td><td>mínimo de <b>10%</b> e máximo de <b>20%</b></td></tr><tr><td>acima de 200 até <b>2.000</b> salários mínimos</td><td><b>8% a 10%</b></td></tr><tr><td>acima de 2.000 até <b>20.000</b> salários mínimos</td><td><b>5% a 8%</b></td></tr><tr><td>acima de 20.000 até <b>100.000</b> salários mínimos</td><td><b>3% a 5%</b></td></tr><tr><td>acima de <b>100.000</b> salários mínimos</td><td><b>1% a 3%</b></td></tr></tbody></table>\n<ul><li><b>Fazenda Pública</b> (art. 85, §§ 3º a 7º): nas causas em que a Fazenda Pública for <b>parte</b> (como autora ou ré, vencida ou vencedora), os honorários seguem as <b>faixas</b> do § 3º. A fixação é <b>escalonada</b>: quando a condenação ultrapassar o valor da primeira faixa, a fixação do percentual de honorários deve observar a faixa inicial e, naquilo que a exceder, a faixa subsequente, e assim sucessivamente (§ 5º). O salário mínimo considerado é o vigente quando prolatada a sentença líquida ou o que estiver em vigor na data da decisão de liquidação (§ 4º, IV).</li><li><b>Cumprimento de sentença contra a Fazenda</b> (art. 85, § 7º): <b>não serão devidos honorários</b> no cumprimento de sentença contra a Fazenda Pública que enseje expedição de <b>precatório</b>, <b>desde que não tenha sido impugnada</b>. Se o crédito for pago por <b>RPV</b>, os honorários são <b>devidos</b> mesmo sem impugnação: o STF (RE 420.816) já havia entendido que a dispensa de honorários nas execuções não embargadas contra a Fazenda (Lei 9.494, art. 1º-D) <b>não se aplica</b> aos pagamentos por RPV, e o § 7º manteve essa lógica. Para a prova: <b>precatório + não impugnado = sem honorários</b>.</li><li><b>Honorários dos advogados públicos</b> (art. 85, § 19): os advogados públicos perceberão honorários de sucumbência, nos termos da lei. O STF, na <b>ADI 6.053</b> (2020), declarou <b>constitucional</b> o recebimento de honorários pelos advogados públicos, desde que a soma dos subsídios e dos honorários <b>não ultrapasse o teto</b> remuneratório (CF, art. 37, XI). Cada ente deve ter lei própria disciplinando o rateio (em muitos Municípios, por meio de fundo gerido pela Procuradoria).</li><li><b>Desistência e reconhecimento</b> (art. 90): proferida sentença com fundamento em <b>desistência</b>, em <b>renúncia</b> ou em <b>reconhecimento do pedido</b>, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu. Se o réu <b>reconhecer a procedência</b> do pedido e, simultaneamente, <b>cumprir integralmente</b> a prestação reconhecida, os honorários serão <b>reduzidos pela metade</b> (§ 4º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os honorários de sucumbência pertencem à parte vencedora</span><br>✅ <span class=\"certo\">Pertencem ao <b>advogado</b> e têm natureza <b>alimentar</b> (art. 85, § 14)</span></li><li>❌ <span class=\"banca\">Em sucumbência parcial, os honorários se compensam</span><br>✅ <span class=\"certo\">É <b>vedada</b> a compensação (art. 85, § 14)</span></li><li>❌ <span class=\"banca\">O juiz pode fixar honorários por equidade em causas de valor elevado</span><br>✅ <span class=\"certo\">O STJ vedou (<b>Tema 1.076</b>)</span></li><li>❌ <span class=\"banca\">Contra a Fazenda, os honorários são sempre de 10% a 20%</span><br>✅ <span class=\"certo\">Seguem as <b>cinco faixas</b> do art. 85, § 3º, de forma <b>escalonada</b></span></li><li>❌ <span class=\"banca\">No cumprimento de sentença contra a Fazenda pago por precatório e não impugnado, há honorários</span><br>✅ <span class=\"certo\"><b>Não</b> há (art. 85, § 7º)</span></li></ol></div>\n<h3>7. Gratuidade da justiça (arts. 98 a 102)</h3>\n<ul><li><b>Quem tem direito</b> (art. 98): a pessoa natural ou jurídica, brasileira ou estrangeira, com <b>insuficiência de recursos</b> para pagar as custas, as despesas processuais e os honorários advocatícios. A gratuidade abrange, entre outros: taxas ou custas judiciais; selos postais; despesas com publicação na imprensa oficial; indenização devida à testemunha empregada; despesas com exames de DNA; honorários do advogado e do perito e a remuneração do intérprete ou do tradutor; custo com a elaboração de memória de cálculo; depósitos previstos em lei para interposição de recurso e propositura de ação; emolumentos devidos a notários ou registradores (§ 1º).</li><li><b>Sucumbência</b> (art. 98, §§ 2º e 3º): a concessão de gratuidade <b>não afasta a responsabilidade</b> do beneficiário pelas despesas processuais e pelos honorários advocatícios decorrentes de sua sucumbência. Vencido o beneficiário, as obrigações ficarão sob <b>condição suspensiva de exigibilidade</b> e somente poderão ser executadas se, nos <b>5 anos</b> subsequentes ao trânsito em julgado, o credor demonstrar que deixou de existir a situação de insuficiência de recursos. Passado esse prazo, extinguem-se tais obrigações.</li><li><b>Concessão parcial</b> (art. 98, §§ 5º e 6º): a gratuidade poderá ser concedida em relação a <b>algum ou a todos os atos</b> processuais, ou consistir na <b>redução percentual</b> de despesas, ou no <b>parcelamento</b> de despesas que o beneficiário tiver de adiantar.</li><li><b>Pedido e presunção</b> (art. 99): o pedido pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em <b>recurso</b>. O juiz somente poderá <b>indeferir</b> o pedido se houver nos autos <b>elementos que evidenciem a falta dos pressupostos</b> legais, devendo, antes de indeferir, determinar à parte a <b>comprovação</b> do preenchimento dos pressupostos (§ 2º). Presume-se <b>verdadeira</b> a alegação de insuficiência deduzida <b>exclusivamente por pessoa natural</b> (§ 3º). A assistência do requerente por <b>advogado particular não impede</b> a concessão de gratuidade (§ 4º).</li><li><b>Pessoa jurídica</b>: <b>Súmula 481 do STJ</b>: \"Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que <b>demonstrar</b> sua impossibilidade de arcar com os encargos processuais.\" Não há presunção para a pessoa jurídica.</li><li><b>Recurso sobre honorários</b> (art. 99, § 5º): o recurso que verse <b>exclusivamente</b> sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário estará sujeito a <b>preparo</b>, salvo se o próprio advogado demonstrar que tem direito à gratuidade.</li><li><b>Impugnação e recurso</b> (arts. 100 e 101): deferido o pedido, a parte contrária poderá oferecer <b>impugnação</b> na contestação, na réplica, nas contrarrazões de recurso ou, nos casos de pedido superveniente ou formulado por terceiro, por meio de petição simples, a ser apresentada no prazo de <b>15 dias</b>, nos autos do próprio processo e <b>sem suspensão</b> de seu curso. Contra a decisão que <b>indeferir</b> a gratuidade ou a que acolher pedido de sua <b>revogação</b> caberá <b>agravo de instrumento</b>, exceto quando a questão for resolvida na sentença, contra a qual caberá <b>apelação</b>. Revogado o benefício, a parte arcará com as despesas processuais que tiver deixado de adiantar e, em caso de <b>má-fé</b>, pagará, a título de multa, até o <b>décuplo</b> de seu valor (art. 100, parágrafo único).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A pessoa jurídica tem presunção de insuficiência de recursos</span><br>✅ <span class=\"certo\">A presunção é só da <b>pessoa natural</b>; a jurídica deve <b>demonstrar</b> (Súmula 481 do STJ)</span></li><li>❌ <span class=\"banca\">O beneficiário vencido nunca paga honorários</span><br>✅ <span class=\"certo\">Ficam sob <b>condição suspensiva</b> por <b>5 anos</b> (art. 98, § 3º)</span></li><li>❌ <span class=\"banca\">A assistência por advogado particular impede a gratuidade</span><br>✅ <span class=\"certo\"><b>Não impede</b> (art. 99, § 4º)</span></li><li>❌ <span class=\"banca\">Da decisão que concede a gratuidade cabe agravo de instrumento</span><br>✅ <span class=\"certo\">Cabe agravo da decisão que <b>indefere</b> ou que <b>revoga</b> (art. 101); a concessão é impugnada por petição</span></li></ol></div>\n<h3>8. Procuradores e sucessão das partes</h3>\n<ul><li><b>Procuração</b> (arts. 103 a 107): a parte será representada em juízo por <b>advogado</b> regularmente inscrito na OAB. É lícito à parte postular em causa própria quando tiver habilitação legal. O advogado não será admitido a postular em juízo <b>sem procuração</b>, salvo para evitar <b>preclusão, decadência ou prescrição</b>, ou para praticar ato considerado <b>urgente</b>; nesses casos, deverá exibir a procuração no prazo de <b>15 dias</b>, prorrogável por igual período por despacho do juiz (art. 104). O ato não ratificado será considerado <b>ineficaz</b> relativamente àquele em cujo nome foi praticado.</li><li><b>Poderes especiais</b> (art. 105): a procuração geral para o foro habilita o advogado a praticar todos os atos do processo, <b>exceto</b> receber citação, confessar, reconhecer a procedência do pedido, transigir, desistir, renunciar ao direito sobre o qual se funda a ação, receber, dar quitação, firmar compromisso e assinar declaração de hipossuficiência econômica, que devem constar de <b>cláusula específica</b>.</li><li><b>Direitos do advogado</b> (art. 107): examinar, em cartório de fórum e secretaria de tribunal, mesmo <b>sem procuração</b>, autos de qualquer processo, independentemente da fase de tramitação, assegurados a obtenção de cópias e o registro de anotações, <b>salvo</b> na hipótese de <b>segredo de justiça</b>, nas quais apenas o advogado constituído terá acesso aos autos; requerer, como procurador, vista dos autos de qualquer processo, pelo prazo de 5 dias; retirar os autos do cartório ou da secretaria, pelo prazo legal, sempre que neles lhe couber falar por determinação do juiz. Sendo o prazo <b>comum</b> às partes, os procuradores poderão retirar os autos somente em conjunto ou mediante prévio ajuste, por petição nos autos (§ 2º), ressalvada a carga rápida de 2 a 6 horas para cópias (§ 3º).</li><li><b>Sucessão processual</b> (arts. 108 a 112): no curso do processo, somente é lícita a sucessão voluntária das partes nos casos expressos em lei. A <b>alienação</b> da coisa ou do direito litigioso por ato entre vivos, a título particular, <b>não altera a legitimidade</b> das partes (art. 109). O adquirente ou cessionário <b>não poderá ingressar</b> em juízo, sucedendo o alienante ou cedente, <b>sem que o consinta a parte contrária</b>, mas poderá intervir como <b>assistente litisconsorcial</b> do alienante ou cedente. Os efeitos da sentença proferida entre as partes originárias <b>estendem-se ao adquirente</b> ou cessionário (§ 3º). Ocorrendo a <b>morte</b> de qualquer das partes, dar-se-á a sucessão pelo seu <b>espólio</b> ou pelos seus <b>sucessores</b> (art. 110).</li><li><b>Substituição de advogado</b> (arts. 111 e 112): a parte que revogar o mandato outorgado a seu advogado constituirá, no mesmo ato, outro que assuma o patrocínio da causa; não sendo constituído novo procurador em 15 dias, aplica-se o art. 76. O advogado poderá <b>renunciar</b> ao mandato a qualquer tempo, provando que comunicou a renúncia ao mandante, a fim de que este nomeie sucessor; durante os <b>10 dias</b> seguintes, o advogado continuará a representar o mandante, desde que necessário para lhe evitar prejuízo.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A procuração geral para o foro permite ao advogado transigir e dar quitação</span><br>✅ <span class=\"certo\">São poderes que exigem <b>cláusula específica</b> (art. 105)</span></li><li>❌ <span class=\"banca\">A alienação do bem litigioso altera a legitimidade das partes</span><br>✅ <span class=\"certo\"><b>Não altera</b> (art. 109)</span></li><li>❌ <span class=\"banca\">O adquirente do bem litigioso sucede o alienante independentemente de consentimento</span><br>✅ <span class=\"certo\">Precisa do <b>consentimento</b> da parte contrária; senão, pode ser <b>assistente litisconsorcial</b></span></li><li>❌ <span class=\"banca\">O advogado sem procuração nunca pode praticar atos</span><br>✅ <span class=\"certo\">Pode para evitar preclusão, decadência, prescrição ou em ato urgente, juntando a procuração em <b>15 dias</b></span></li></ol></div>\n<h3>9. Litisconsórcio</h3>\n<ul><li><b>Litisconsórcio</b> é a pluralidade de partes em um ou ambos os polos do processo. Hipóteses (art. 113): duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente, quando: I, entre elas houver <b>comunhão de direitos ou de obrigações</b> relativamente à lide; II, entre as causas houver <b>conexão</b> pelo pedido ou pela causa de pedir; III, ocorrer <b>afinidade de questões</b> por ponto comum de fato ou de direito.</li></ul>\n<table class=\"tab\"><thead><tr><th>Classificação</th><th>Tipos</th></tr></thead><tbody><tr><td><b>Quanto à obrigatoriedade</b></td><td><b>facultativo</b> (formado por vontade das partes) x <b>necessário</b> (exigido por lei ou pela natureza da relação jurídica, art. 114)</td></tr><tr><td><b>Quanto ao resultado</b></td><td><b>simples</b> (a decisão pode ser diferente para cada litisconsorte) x <b>unitário</b> (a decisão deve ser <b>uniforme</b> para todos, art. 116)</td></tr><tr><td><b>Quanto à posição</b></td><td>ativo, passivo ou misto</td></tr><tr><td><b>Quanto ao momento</b></td><td>inicial ou ulterior (superveniente)</td></tr></tbody></table>\n<ul><li><b>Necessário</b> (art. 114): o litisconsórcio será necessário <b>por disposição de lei</b> ou quando, <b>pela natureza da relação jurídica controvertida</b>, a eficácia da sentença depender da <b>citação de todos</b> que devam ser litisconsortes. Exemplo legal: ação de usucapião (citação dos confinantes, art. 246, § 3º); ação real imobiliária envolvendo cônjuges (art. 73, § 1º).</li><li><b>Unitário</b> (art. 116): o litisconsórcio será unitário quando, pela natureza da relação jurídica, o juiz tiver de decidir o mérito de <b>modo uniforme</b> para todos os litisconsortes. Exemplo: ação de anulação de casamento proposta pelo MP contra ambos os cônjuges.</li><li><b>Combinações</b>: há litisconsórcio necessário e unitário (anulação de contrato proposta por terceiro contra os dois contratantes); necessário e simples (usucapião: os confinantes podem ter destinos diferentes); facultativo e unitário (ação de condôminos para reivindicar a coisa comum: qualquer um pode propor sozinho, mas, se vários propuserem, a decisão é uniforme); facultativo e simples (vários servidores pedindo o mesmo reajuste).</li><li><b>Ausência de citação do litisconsorte necessário</b> (art. 115): a sentença de mérito, quando proferida sem a integração do contraditório, será: I, <b>nula</b>, se a decisão deveria ser <b>uniforme</b> em relação a todos que deveriam ter integrado o processo (unitário); II, <b>ineficaz</b>, nos outros casos, apenas para os que <b>não foram citados</b> (simples). Nos casos de litisconsórcio passivo necessário, o juiz determinará ao autor que requeira a citação de todos que devam ser litisconsortes, dentro do prazo que assinar, sob pena de <b>extinção</b> do processo (parágrafo único).</li><li><b>Litisconsórcio multitudinário</b> (art. 113, §§ 1º e 2º): o juiz poderá <b>limitar</b> o litisconsórcio <b>facultativo</b> quanto ao número de litigantes na fase de conhecimento, na liquidação de sentença ou na execução, quando este comprometer a <b>rápida solução do litígio</b> ou dificultar a <b>defesa</b> ou o <b>cumprimento da sentença</b>. O requerimento de limitação <b>interrompe</b> o prazo para manifestação ou resposta, que recomeçará da intimação da decisão que o solucionar. Muito comum em ações de servidores públicos contra o Município.</li><li><b>Regime de autonomia</b> (art. 117): os litisconsortes serão considerados, em suas relações com a parte adversa, como <b>litigantes distintos</b>, exceto no litisconsórcio <b>unitário</b>, caso em que os atos e as omissões de um <b>não prejudicarão os outros</b>, mas os poderão <b>beneficiar</b>. Cada litisconsorte tem o direito de promover o andamento do processo, e todos devem ser intimados dos respectivos atos (art. 118).</li><li><b>Prazo em dobro</b> (art. 229): os litisconsortes que tiverem <b>diferentes procuradores, de escritórios de advocacia distintos</b>, terão prazos contados em <b>dobro</b> para todas as suas manifestações, em qualquer juízo ou tribunal, independentemente de requerimento. <b>Não se aplica</b> aos processos em <b>autos eletrônicos</b> (§ 2º). Cessa a contagem em dobro se, havendo apenas 2 réus, é oferecida defesa por apenas um deles (§ 1º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na falta de citação de litisconsorte necessário unitário, a sentença é ineficaz</span><br>✅ <span class=\"certo\">É <b>nula</b> (art. 115, I); ineficaz é no <b>simples</b>, só para os não citados</span></li><li>❌ <span class=\"banca\">O juiz pode limitar o litisconsórcio necessário multitudinário</span><br>✅ <span class=\"certo\">A limitação é do litisconsórcio <b>facultativo</b> (art. 113, § 1º)</span></li><li>❌ <span class=\"banca\">O prazo em dobro dos litisconsortes com advogados diferentes vale nos autos eletrônicos</span><br>✅ <span class=\"certo\"><b>Não se aplica</b> a autos eletrônicos (art. 229, § 2º)</span></li><li>❌ <span class=\"banca\">No litisconsórcio unitário, a omissão de um prejudica os demais</span><br>✅ <span class=\"certo\">Os atos e omissões de um <b>não prejudicam</b>, mas podem <b>beneficiar</b> (art. 117)</span></li></ol></div>\n<h3>10. Intervenção de terceiros: assistência</h3>\n<ul><li>O CPC/2015 prevê cinco modalidades típicas de intervenção de terceiros: <b>assistência</b> (simples e litisconsorcial), <b>denunciação da lide</b>, <b>chamamento ao processo</b>, <b>incidente de desconsideração da personalidade jurídica</b> e <b>amicus curiae</b>. A <b>oposição</b> passou a ser procedimento especial (arts. 682 a 686), e a <b>nomeação à autoria</b> foi substituída pela correção do polo passivo na contestação (arts. 338 e 339).</li><li><b>Assistência</b> (art. 119): pendendo causa entre 2 ou mais pessoas, o terceiro <b>juridicamente interessado</b> em que a sentença seja favorável a uma delas poderá intervir no processo para assisti-la. A assistência será admitida em <b>qualquer procedimento</b> e em <b>todos os graus de jurisdição</b>, recebendo o assistente o processo <b>no estado em que se encontre</b>. O interesse deve ser <b>jurídico</b>, e não meramente econômico, moral ou afetivo.</li><li><b>Procedimento</b> (art. 120): não havendo impugnação no prazo de <b>15 dias</b>, o pedido do assistente será deferido, salvo se for caso de rejeição liminar. Se qualquer parte alegar que falta ao requerente interesse jurídico para intervir, o juiz decidirá o incidente, <b>sem suspensão</b> do processo.</li><li><b>Assistência simples</b> (arts. 121 a 123): o assistente atuará como <b>auxiliar da parte principal</b>, exercerá os mesmos poderes e sujeitar-se-á aos mesmos ônus processuais que o assistido. Sendo <b>revel</b> ou, de qualquer outro modo, <b>omisso</b> o assistido, o assistente será considerado seu <b>substituto processual</b> (art. 121, parágrafo único). A assistência simples <b>não obsta</b> a que a parte principal reconheça a procedência do pedido, desista da ação, renuncie ao direito sobre o que se funda a ação ou transija sobre direitos controvertidos (art. 122).</li><li><b>Eficácia da intervenção</b> (art. 123): transitada em julgado a sentença no processo em que interveio o assistente, este <b>não poderá</b>, em processo posterior, <b>discutir a justiça da decisão</b>, salvo se alegar e provar que: I, pelo estado em que recebeu o processo ou pelas declarações e pelos atos do assistido, foi impedido de produzir provas suscetíveis de influir na sentença; II, desconhecia a existência de alegações ou de provas das quais o assistido, por dolo ou culpa, não se valeu (<i>exceptio male gesti processus</i>).</li><li><b>Assistência litisconsorcial</b> (art. 124): considera-se litisconsorte da parte principal o assistente sempre que a sentença influir na <b>relação jurídica entre ele e o adversário do assistido</b>. Exemplo: o adquirente do bem litigioso que intervém ao lado do alienante; o substituído que intervém no processo movido pelo substituto. O assistente litisconsorcial é tratado como <b>litisconsorte</b>, com autonomia, e fica sujeito à coisa julgada.</li><li><b>Intervenção anômala da União e das pessoas de direito público</b> (Lei 9.469/1997, art. 5º): a <b>União</b> poderá intervir nas causas em que figurarem, como autoras ou rés, autarquias, fundações públicas, sociedades de economia mista e empresas públicas federais. As <b>pessoas jurídicas de direito público</b> poderão, nas causas cuja decisão possa ter reflexos, ainda que <b>indiretos</b>, de natureza <b>econômica</b>, intervir, independentemente da demonstração de interesse jurídico, para esclarecer questões de fato e de direito, podendo juntar documentos e memoriais e, se for o caso, <b>recorrer</b>, hipótese em que, para fins de deslocamento de competência, serão consideradas partes (parágrafo único). É a única hipótese de intervenção por interesse <b>econômico</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A assistência exige interesse econômico do terceiro</span><br>✅ <span class=\"certo\">Exige interesse <b>jurídico</b> (art. 119); a exceção é a intervenção anômala dos entes públicos (Lei 9.469, art. 5º, parágrafo único)</span></li><li>❌ <span class=\"banca\">A assistência só é admitida no primeiro grau</span><br>✅ <span class=\"certo\">Em <b>todos os graus</b>, recebendo o processo no estado em que se encontre</span></li><li>❌ <span class=\"banca\">O assistente simples impede que o assistido desista da ação</span><br>✅ <span class=\"certo\"><b>Não obsta</b> (art. 122)</span></li><li>❌ <span class=\"banca\">O assistente simples pode sempre rediscutir a justiça da decisão</span><br>✅ <span class=\"certo\">Fica sujeito à <b>eficácia da intervenção</b>, salvo as exceções do art. 123</span></li></ol></div>\n<h3>11. Denunciação da lide</h3>\n<ul><li><b>Hipóteses</b> (art. 125): é <b>admissível</b> a denunciação da lide, promovida por qualquer das partes: I, ao <b>alienante imediato</b>, no processo relativo à coisa cujo domínio foi transferido ao denunciante, a fim de que possa exercer os direitos que da <b>evicção</b> lhe resultam; II, àquele que estiver obrigado, <b>por lei ou pelo contrato</b>, a indenizar, em <b>ação regressiva</b>, o prejuízo de quem for vencido no processo.</li><li><b>Facultatividade</b>: o CPC/2015 diz \"é admissível\" (e não mais \"é obrigatória\", como no CPC/1973). O direito regressivo será exercido por <b>ação autônoma</b> quando a denunciação da lide for <b>indeferida</b>, deixar de ser promovida ou não for permitida (§ 1º). Ou seja, deixar de denunciar <b>não</b> faz perder o direito de regresso.</li><li><b>Denunciação sucessiva</b> (§ 2º): admite-se uma única denunciação sucessiva, promovida pelo denunciado, contra seu antecessor imediato na cadeia dominial ou quem seja responsável por indenizá-lo, <b>não podendo o denunciado sucessivo promover nova denunciação</b>, hipótese em que eventual direito de regresso será exercido por ação autônoma.</li><li><b>Procedimento</b> (arts. 126 a 129): a citação do denunciado será requerida na <b>petição inicial</b>, se o denunciante for <b>autor</b>, ou na <b>contestação</b>, se o denunciante for <b>réu</b>. Se o denunciado aceitar, forma-se <b>litisconsórcio</b> entre denunciante e denunciado contra o adversário (arts. 127 e 128). Se o denunciante for <b>vencido</b> na ação principal, o juiz passará ao julgamento da denunciação da lide; se for <b>vencedor</b>, a ação de denunciação não terá o seu pedido examinado, sem prejuízo da condenação do denunciante ao pagamento das verbas de sucumbência em favor do denunciado (art. 129).</li><li><b>Condenação direta</b> (art. 128, parágrafo único): procedente o pedido da ação principal, pode o autor, se for o caso, requerer o <b>cumprimento da sentença também contra o denunciado</b>, nos limites da condenação deste na ação regressiva. O STJ já admitia isso para a <b>seguradora</b> (Súmula 537: \"Em ação de reparação de danos, a seguradora denunciada, se aceitar a denunciação ou contestar o pedido do autor, pode ser condenada, direta e solidariamente junto com o segurado, ao pagamento da indenização devida à vítima, nos limites contratados na apólice\").</li><li><b>Denunciação ao servidor pelo Estado</b>: em ação de responsabilidade civil do Estado (CF, art. 37, § 6º), o ente pode denunciar a lide ao servidor causador do dano? A jurisprudência do STJ entende que a denunciação é <b>facultativa</b> e pode ser <b>indeferida</b> quando introduzir fundamento novo (culpa ou dolo do servidor) que tumultue o processo fundado em responsabilidade objetiva. O ente não perde o direito de regresso se não denunciar. Além disso, o STF, no <b>Tema 940</b> (RE 1.027.633, 2019), fixou: \"A teor do disposto no art. 37, § 6º, da Constituição Federal, a ação por danos causados por agente público deve ser ajuizada <b>contra o Estado</b> ou a pessoa jurídica de direito privado prestadora de serviço público, sendo <b>parte ilegítima</b> para a ação o <b>autor do ato</b>, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa\" (teoria da <b>dupla garantia</b>).</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · Tema 940 (RE 1.027.633)</b><p class=\"jc-tese\">A ação por danos causados por agente público deve ser ajuizada contra o <b>Estado</b> ou a pessoa jurídica de direito privado prestadora de serviço público, sendo <b>parte ilegítima</b> para a ação o <b>autor do ato</b>, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.</p><p class=\"jc-com\">Para o Procurador: se a vítima processa diretamente o servidor municipal, ele é parte ilegítima (dupla garantia: protege a vítima, que tem um devedor solvente e responsabilidade objetiva, e o servidor, que só responde perante o ente, em regresso, com dolo ou culpa). O Município, por sua vez, pode cobrar do servidor em <b>ação regressiva</b> autônoma ou por denunciação, se admitida. Lembre-se de que a ação regressiva por ato ilícito do servidor é, em regra, <b>prescritível</b> (STF, Tema 666), salvo ato doloso de improbidade (Tema 897).</p></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A denunciação da lide é obrigatória, sob pena de perda do direito de regresso</span><br>✅ <span class=\"certo\">É <b>admissível</b> (facultativa); o regresso pode ser exercido por <b>ação autônoma</b> (art. 125, § 1º)</span></li><li>❌ <span class=\"banca\">Admitem-se denunciações sucessivas ilimitadas</span><br>✅ <span class=\"certo\">Só <b>uma</b> denunciação sucessiva (art. 125, § 2º)</span></li><li>❌ <span class=\"banca\">A vítima pode processar diretamente o servidor público causador do dano</span><br>✅ <span class=\"certo\">O STF fixou a <b>dupla garantia</b>: o servidor é parte <b>ilegítima</b> (Tema 940)</span></li><li>❌ <span class=\"banca\">A seguradora denunciada nunca pode ser condenada diretamente</span><br>✅ <span class=\"certo\">Pode, se aceitar a denunciação ou contestar o pedido (Súmula 537 do STJ)</span></li></ol></div>\n<h3>12. Chamamento ao processo</h3>\n<ul><li><b>Hipóteses</b> (art. 130): é admissível o chamamento ao processo, requerido pelo <b>réu</b>: I, do <b>afiançado</b>, na ação em que o <b>fiador</b> for réu; II, dos <b>demais fiadores</b>, na ação proposta contra um ou alguns deles; III, dos <b>demais devedores solidários</b>, quando o credor exigir de um ou de alguns o pagamento da dívida comum.</li><li><b>Só o réu chama</b>: diferentemente da denunciação (que pode ser feita por autor ou réu), o chamamento é privativo do <b>réu</b>. A citação daqueles que devam figurar em litisconsórcio passivo será requerida pelo réu na <b>contestação</b> e deve ser promovida no prazo de <b>30 dias</b>, sob pena de ficar sem efeito o chamamento (art. 131). Se o chamado residir em outra comarca, seção ou subseção judiciárias, ou em lugar incerto, o prazo será de <b>2 meses</b>.</li><li><b>Efeito</b> (art. 132): a sentença de procedência valerá como <b>título executivo</b> em favor do réu que satisfizer a dívida, a fim de que possa exigi-la, por inteiro, do devedor principal, ou, de cada um dos codevedores, a sua quota, na proporção que lhes tocar.</li><li><b>Saúde e chamamento da União</b>: o STF fixou, no <b>Tema 793</b> (RE 855.178), que os entes da federação, em decorrência da competência comum, são <b>solidariamente responsáveis</b> nas demandas prestacionais na área da <b>saúde</b>, competindo à autoridade judicial, diante dos critérios constitucionais de descentralização e hierarquização, <b>direcionar o cumprimento</b> conforme as regras de repartição de competências e determinar o <b>ressarcimento</b> a quem suportou o ônus financeiro. Depois, no <b>Tema 1.234</b> (2024), o STF homologou acordo entre os entes e fixou regras de <b>competência</b> (Justiça Federal para medicamentos não incorporados ao SUS acima de certo valor anual) e de <b>ressarcimento</b>. Para o Município, o chamamento ao processo da União ou do Estado em ações de medicamentos segue essas regras específicas, e não apenas o art. 130.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O autor pode chamar ao processo os devedores solidários</span><br>✅ <span class=\"certo\">O chamamento é privativo do <b>réu</b> (art. 130)</span></li><li>❌ <span class=\"banca\">O fiador réu pode chamar o afiançado</span><br>✅ <span class=\"certo\">Sim, art. 130, I</span></li><li>❌ <span class=\"banca\">A sentença no chamamento não serve de título ao réu que paga</span><br>✅ <span class=\"certo\">Vale como <b>título executivo</b> em favor do réu que satisfizer a dívida (art. 132)</span></li><li>❌ <span class=\"banca\">Nas ações de saúde, só o Município responde</span><br>✅ <span class=\"certo\">Os entes são <b>solidariamente</b> responsáveis (<b>Tema 793</b>), com direcionamento e ressarcimento</span></li></ol></div>\n<h3>13. Incidente de desconsideração da personalidade jurídica (IDPJ)</h3>\n<ul><li><b>Natureza</b> (art. 133): o incidente de desconsideração da personalidade jurídica será instaurado a pedido da <b>parte</b> ou do <b>Ministério Público</b>, quando lhe couber intervir no processo. O pedido de desconsideração observará os <b>pressupostos previstos em lei</b> (o procedimento é processual; os requisitos materiais estão no Código Civil, art. 50, no CDC, art. 28, na Lei 9.605, art. 4º, etc.). Aplica-se também à <b>desconsideração inversa</b> da personalidade jurídica (§ 2º), quando se busca atingir o patrimônio da pessoa jurídica por dívida do sócio.</li><li><b>Cabimento</b> (art. 134): o incidente é cabível em <b>todas as fases</b> do processo de conhecimento, no cumprimento de sentença e na execução fundada em título executivo extrajudicial. A instauração será imediatamente comunicada ao distribuidor. <b>Dispensa-se</b> a instauração do incidente se a desconsideração for requerida na <b>petição inicial</b>, hipótese em que será citado o sócio ou a pessoa jurídica (§ 2º). A instauração do incidente <b>suspenderá o processo</b>, salvo na hipótese do § 2º (§ 3º).</li><li><b>Procedimento</b> (arts. 135 e 136): instaurado o incidente, o sócio ou a pessoa jurídica será <b>citado</b> para manifestar-se e requerer as provas cabíveis no prazo de <b>15 dias</b>. Concluída a instrução, se necessária, o incidente será resolvido por <b>decisão interlocutória</b>, impugnável por <b>agravo de instrumento</b> (art. 1.015, IV); se a decisão for proferida pelo relator, cabe <b>agravo interno</b>.</li><li><b>Fraude</b> (art. 137): acolhido o pedido de desconsideração, a alienação ou a oneração de bens, havida em <b>fraude de execução</b>, será <b>ineficaz</b> em relação ao requerente.</li><li><b>Execução fiscal e IDPJ</b>: o STJ entende que o IDPJ <b>não é necessário</b> para o <b>redirecionamento</b> da execução fiscal com base no art. 135 do CTN (responsabilidade pessoal do sócio-gerente por atos com excesso de poderes ou infração de lei, como a <b>dissolução irregular</b>, Súmula 435), porque nesse caso não há desconsideração, e sim <b>responsabilidade tributária</b> própria. O IDPJ seria exigível apenas quando se pretender desconsiderar a personalidade com base no art. 50 do Código Civil (abuso, desvio de finalidade, confusão patrimonial), por exemplo para alcançar empresas do mesmo grupo econômico sem participação no fato gerador.</li><li><b>Requisitos materiais no Código Civil</b> (art. 50, com redação da Lei 13.874/2019): em caso de <b>abuso da personalidade jurídica</b>, caracterizado pelo <b>desvio de finalidade</b> ou pela <b>confusão patrimonial</b>, pode o juiz, a requerimento da parte ou do MP, desconsiderá-la para que os efeitos de certas obrigações sejam estendidos aos bens particulares de administradores ou de sócios <b>beneficiados direta ou indiretamente</b> pelo abuso. A mera existência de <b>grupo econômico</b> sem a presença desses requisitos <b>não autoriza</b> a desconsideração (§ 4º). É a <b>teoria maior</b>. O CDC (art. 28, § 5º) e a Lei 9.605 (art. 4º) adotam a <b>teoria menor</b> (basta a personalidade ser obstáculo ao ressarcimento).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O IDPJ só cabe na fase de execução</span><br>✅ <span class=\"certo\">Cabe em <b>todas as fases</b> do conhecimento, no cumprimento e na execução (art. 134)</span></li><li>❌ <span class=\"banca\">A instauração do IDPJ nunca suspende o processo</span><br>✅ <span class=\"certo\"><b>Suspende</b>, salvo se a desconsideração for pedida na <b>petição inicial</b> (art. 134, § 3º)</span></li><li>❌ <span class=\"banca\">A decisão do IDPJ é sentença, atacável por apelação</span><br>✅ <span class=\"certo\">É <b>decisão interlocutória</b>, atacável por <b>agravo de instrumento</b></span></li><li>❌ <span class=\"banca\">O redirecionamento da execução fiscal ao sócio pelo art. 135 do CTN exige IDPJ</span><br>✅ <span class=\"certo\">Segundo o STJ, <b>não exige</b></span></li></ol></div>\n<h3>14. Amicus curiae</h3>\n<ul><li><b>Conceito</b> (art. 138): o juiz ou o relator, considerando a <b>relevância da matéria</b>, a <b>especificidade do tema</b> objeto da demanda ou a <b>repercussão social</b> da controvérsia, poderá, por decisão <b>irrecorrível</b>, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de <b>pessoa natural ou jurídica, órgão ou entidade especializada</b>, com <b>representatividade adequada</b>, no prazo de <b>15 dias</b> de sua intimação.</li><li><b>Limites</b> (§§ 1º a 3º): a intervenção <b>não implica alteração de competência</b> nem autoriza a interposição de recursos, <b>ressalvadas</b> a oposição de <b>embargos de declaração</b> e a hipótese de recurso contra a decisão que julgar o <b>incidente de resolução de demandas repetitivas</b> (IRDR). Caberá ao juiz ou ao relator, na decisão que solicitar ou admitir a intervenção, <b>definir os poderes</b> do amicus curiae.</li><li><b>Cabimento amplo</b>: no CPC/2015, o amicus curiae pode intervir em <b>qualquer processo</b> e em <b>qualquer grau</b> de jurisdição, e não apenas no controle concentrado de constitucionalidade (Lei 9.868/1999, art. 7º, § 2º) ou nos recursos repetitivos. Pode ser <b>pessoa natural</b>, desde que tenha representatividade adequada.</li><li><b>Irrecorribilidade</b>: a decisão que admite ou inadmite o amicus curiae é <b>irrecorrível</b> segundo a letra do art. 138. O STF, porém, já admitiu em alguns casos agravo contra a decisão que <b>inadmite</b> o amicus no controle concentrado; a questão é controvertida. Para a prova objetiva do CPC: <b>irrecorrível</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O amicus curiae só pode ser pessoa jurídica</span><br>✅ <span class=\"certo\">Pode ser <b>pessoa natural ou jurídica</b>, órgão ou entidade (art. 138)</span></li><li>❌ <span class=\"banca\">A intervenção do amicus curiae desloca a competência</span><br>✅ <span class=\"certo\"><b>Não</b> altera a competência (§ 1º)</span></li><li>❌ <span class=\"banca\">O amicus curiae pode interpor qualquer recurso</span><br>✅ <span class=\"certo\">Só <b>embargos de declaração</b> e recurso contra a decisão do <b>IRDR</b></span></li><li>❌ <span class=\"banca\">A decisão que admite o amicus curiae é atacável por agravo de instrumento</span><br>✅ <span class=\"certo\">É <b>irrecorrível</b> (art. 138)</span></li></ol></div>\n<h3>15. O juiz: impedimento, suspeição e responsabilidade</h3>\n<ul><li><b>Responsabilidade do juiz</b> (art. 143): o juiz responderá, <b>civil e regressivamente</b>, por perdas e danos quando: I, no exercício de suas funções, proceder com <b>dolo ou fraude</b>; II, recusar, omitir ou retardar, <b>sem justo motivo</b>, providência que deva ordenar de ofício ou a requerimento da parte. As hipóteses do inciso II somente serão verificadas depois que a parte requerer ao juiz que determine a providência e o requerimento não for apreciado no prazo de <b>10 dias</b>. Pela lógica da CF (art. 37, § 6º), a vítima aciona o <b>Estado</b>, que tem regresso contra o juiz.</li></ul>\n<table class=\"tab\"><thead><tr><th>Impedimento (art. 144): é vedado ao juiz exercer suas funções no processo</th><th>Suspeição (art. 145): há suspeição do juiz</th></tr></thead><tbody><tr><td>em que <b>interveio como mandatário</b> da parte, oficiou como <b>perito</b>, funcionou como membro do <b>MP</b> ou prestou depoimento como <b>testemunha</b></td><td><b>amigo íntimo ou inimigo</b> de qualquer das partes ou de seus advogados</td></tr><tr><td>de que conheceu em <b>outro grau de jurisdição</b>, tendo proferido decisão</td><td>que receber <b>presentes</b> de pessoas que tiverem interesse na causa, antes ou depois de iniciado o processo, que <b>aconselhar</b> alguma das partes acerca do objeto da causa ou que subministrar meios para atender às despesas do litígio</td></tr><tr><td>quando nele estiver postulando, como defensor público, advogado ou membro do MP, seu <b>cônjuge ou companheiro</b>, ou qualquer <b>parente</b>, consanguíneo ou afim, em linha reta ou colateral, até o <b>terceiro grau</b>, inclusive</td><td>quando qualquer das partes for sua <b>credora ou devedora</b>, de seu cônjuge ou companheiro ou de parentes destes, em linha reta até o terceiro grau, inclusive</td></tr><tr><td>quando for <b>parte</b> no processo ele próprio, seu cônjuge ou companheiro, ou parente até o terceiro grau</td><td><b>interessado no julgamento</b> do processo em favor de qualquer das partes</td></tr><tr><td>quando for sócio ou membro de direção ou de administração de <b>pessoa jurídica parte</b> no processo</td><td>o juiz pode declarar-se suspeito <b>por motivo de foro íntimo</b>, sem necessidade de declarar suas razões (§ 1º)</td></tr><tr><td>quando for herdeiro presuntivo, donatário ou empregador de qualquer das partes ;</td></tr><tr><td>em que figure como parte <b>instituição de ensino</b> com a qual tenha relação de emprego ou decorrente de contrato de prestação de serviços ;</td></tr><tr><td>em que figure como parte cliente do <b>escritório de advocacia</b> de seu cônjuge, companheiro ou parente, consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau, inclusive, mesmo que patrocinado por advogado de outro escritório (inciso VIII; o STF, na <b>ADI 5.953</b>, declarou <b>inconstitucional</b> esse inciso, por impor ao juiz um dever de conhecer a carteira de clientes do escritório de parentes) ;</td></tr><tr><td>quando promover ação contra a parte ou seu advogado ;</td></tr></tbody></table>\n<ul><li><b>Diferenças</b>: o <b>impedimento</b> é <b>objetivo</b> (presunção absoluta de parcialidade), não preclui e autoriza <b>ação rescisória</b> (art. 966, II). A <b>suspeição</b> é <b>subjetiva</b> (presunção relativa), <b>preclui</b> se não alegada no prazo, e não autoriza rescisória.</li><li><b>Alegação</b> (art. 146): no prazo de <b>15 dias</b>, a contar do conhecimento do fato, a parte alegará o impedimento ou a suspeição, em <b>petição específica</b> dirigida ao juiz do processo, na qual indicará o fundamento da recusa, podendo instruí-la com documentos e rol de testemunhas. Se reconhecer o impedimento ou a suspeição, o juiz ordenará imediatamente a remessa dos autos a seu substituto legal; caso contrário, determinará a autuação em apartado da petição e, no prazo de 15 dias, apresentará suas razões, ordenando a remessa do incidente ao <b>tribunal</b>. Será <b>ilegítima</b> a alegação de suspeição quando houver sido provocada por quem a alega ou quando a parte que a alega houver praticado ato que signifique manifesta aceitação do arguido (art. 145, § 2º).</li><li><b>Extensão</b> (art. 148): aplicam-se os motivos de impedimento e de suspeição ao <b>membro do MP</b>, aos <b>auxiliares da justiça</b> (perito, intérprete, escrivão, oficial de justiça) e aos demais sujeitos imparciais do processo.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A suspeição do juiz autoriza ação rescisória</span><br>✅ <span class=\"certo\">A rescisória cabe por <b>impedimento</b> (art. 966, II), não por suspeição</span></li><li>❌ <span class=\"banca\">O juiz precisa explicar o motivo de foro íntimo</span><br>✅ <span class=\"certo\">Pode declarar suspeição por foro íntimo <b>sem declarar suas razões</b> (art. 145, § 1º)</span></li><li>❌ <span class=\"banca\">O prazo para alegar impedimento ou suspeição é de 5 dias</span><br>✅ <span class=\"certo\">É de <b>15 dias</b> do conhecimento do fato (art. 146)</span></li><li>❌ <span class=\"banca\">O juiz que proferiu decisão no processo em outro grau é suspeito</span><br>✅ <span class=\"certo\">É <b>impedido</b> (art. 144, II)</span></li></ol></div>\n<h3>16. Auxiliares da justiça: perito, conciliador e mediador</h3>\n<ul><li><b>Perito</b> (arts. 156 a 158): o juiz será assistido por perito quando a prova do fato depender de <b>conhecimento técnico ou científico</b>. Os peritos serão nomeados entre os profissionais legalmente habilitados e os órgãos técnicos ou científicos devidamente inscritos em <b>cadastro</b> mantido pelo tribunal. Onde não houver inscrito, a nomeação é de livre escolha do juiz. O perito que, por <b>dolo ou culpa</b>, prestar informações inverídicas responderá pelos prejuízos que causar à parte e ficará <b>inabilitado</b> para atuar em outras perícias no prazo de <b>2 a 5 anos</b>, independentemente das demais sanções previstas em lei (art. 158).</li><li><b>Conciliadores e mediadores</b> (arts. 167 a 175): serão inscritos em cadastro nacional e em cadastro de tribunal; os que forem advogados ficam <b>impedidos de exercer a advocacia</b> nos juízos em que desempenhem suas funções (art. 167, § 5º); ficam impedidos, pelo prazo de <b>1 ano</b> contado do término da última audiência em que atuaram, de <b>assessorar, representar ou patrocinar</b> qualquer das partes (art. 172).</li></ul>\n<h3>17. O Ministério Público no processo civil</h3>\n<ul><li><b>Atuação</b> (art. 176): o MP atuará na defesa da ordem jurídica, do regime democrático e dos interesses e direitos sociais e individuais indisponíveis. Pode atuar como <b>parte</b> (art. 177: o MP exercerá o direito de ação em conformidade com suas atribuições constitucionais) ou como <b>fiscal da ordem jurídica</b> (<i>custos iuris</i>).</li><li><b>Intervenção obrigatória</b> (art. 178): o MP será intimado para, no prazo de <b>30 dias</b>, intervir como fiscal da ordem jurídica nas hipóteses previstas em lei ou na Constituição e nos processos que envolvam: I, <b>interesse público ou social</b>; II, <b>interesse de incapaz</b>; III, <b>litígios coletivos pela posse de terra rural ou urbana</b>. A <b>participação da Fazenda Pública não configura, por si só, hipótese de intervenção</b> do MP (parágrafo único). É ponto muito cobrado: ação de cobrança contra o Município não exige, por si só, a intervenção do MP.</li><li><b>Poderes</b> (art. 179): nos casos de intervenção como fiscal da ordem jurídica, o MP terá <b>vista dos autos depois das partes</b>, sendo intimado de todos os atos do processo; e poderá produzir provas, requerer as medidas processuais pertinentes e <b>recorrer</b>.</li><li><b>Prazos</b> (art. 180): o MP gozará de <b>prazo em dobro</b> para manifestar-se nos autos, que terá início a partir de sua <b>intimação pessoal</b>. Findo o prazo para manifestação do MP <b>sem o oferecimento de parecer</b>, o juiz requisitará os autos e dará andamento ao processo (§ 1º). <b>Não se aplica</b> o benefício da contagem em dobro quando a lei estabelecer, de forma expressa, <b>prazo próprio</b> para o MP (§ 2º).</li><li><b>Nulidade por falta de intervenção</b> (art. 279): é <b>nulo</b> o processo quando o membro do MP <b>não for intimado</b> a acompanhar o feito em que deva intervir. A nulidade só pode ser decretada <b>após a intimação do MP</b>, que se manifestará sobre a existência ou a inexistência de <b>prejuízo</b> (§ 2º). Ou seja, não há nulidade automática: se o MP, ouvido depois, disser que não houve prejuízo (por exemplo, porque o incapaz venceu), o processo é aproveitado.</li><li><b>Responsabilidade</b> (art. 181): o membro do MP será <b>civil e regressivamente</b> responsável quando agir com <b>dolo ou fraude</b> no exercício de suas funções.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O MP deve intervir em toda causa em que a Fazenda Pública é parte</span><br>✅ <span class=\"certo\">A participação da Fazenda <b>não configura, por si só</b>, hipótese de intervenção (art. 178, parágrafo único)</span></li><li>❌ <span class=\"banca\">O prazo do MP para intervir como fiscal é de 15 dias</span><br>✅ <span class=\"certo\">São <b>30 dias</b> (art. 178)</span></li><li>❌ <span class=\"banca\">A falta de intimação do MP gera nulidade automática</span><br>✅ <span class=\"certo\">A nulidade depende de manifestação do MP sobre <b>prejuízo</b> (art. 279, § 2º)</span></li><li>❌ <span class=\"banca\">O MP tem prazo em dobro mesmo quando a lei fixa prazo próprio</span><br>✅ <span class=\"certo\"><b>Não</b> (art. 180, § 2º)</span></li></ol></div>\n<h3>18. A Advocacia Pública (arts. 182 a 184)</h3>\n<ul><li><b>Função</b> (art. 182): incumbe à <b>Advocacia Pública</b>, na forma da lei, defender e promover os interesses públicos da <b>União, dos Estados, do Distrito Federal e dos Municípios</b>, por meio da representação judicial, em todos os âmbitos federativos, das pessoas jurídicas de direito público que integram a administração direta e indireta.</li><li><b>Prazo em dobro e intimação pessoal</b> (art. 183): a <b>União, os Estados, o DF, os Municípios</b> e suas respectivas <b>autarquias e fundações de direito público</b> gozarão de <b>prazo em dobro</b> para <b>todas as suas manifestações</b> processuais, cuja contagem terá início a partir da <b>intimação pessoal</b>. A intimação pessoal far-se-á por <b>carga, remessa ou meio eletrônico</b> (§ 1º). <b>Não se aplica</b> o benefício da contagem em dobro quando a lei estabelecer, de forma expressa, <b>prazo próprio</b> para o ente público (§ 2º).</li><li><b>Exemplos de prazo próprio</b> (sem dobra): o prazo de <b>30 dias</b> para a Fazenda <b>impugnar</b> o cumprimento de sentença (art. 535) e para opor <b>embargos à execução</b> fundada em título extrajudicial (art. 910); o prazo de <b>10 dias</b> para a autoridade prestar <b>informações</b> no mandado de segurança (Lei 12.016, art. 7º, I); os prazos dos <b>Juizados Especiais da Fazenda Pública</b>, nos quais <b>não há</b> prazo diferenciado para a Fazenda (Lei 12.153, art. 7º); o prazo para contestar a ação popular (20 dias, prorrogáveis por mais 20, Lei 4.717, art. 7º, IV).</li><li><b>Empresas estatais</b>: empresas públicas e sociedades de economia mista <b>não</b> têm prazo em dobro, porque são pessoas jurídicas de direito <b>privado</b>. Exceção: as estatais prestadoras de serviço público em regime não concorrencial, como os Correios (ECT), têm algumas prerrogativas da Fazenda (impenhorabilidade, precatório), segundo o STF; mas a prerrogativa de prazo depende de previsão específica.</li><li><b>Responsabilidade</b> (art. 184): o membro da Advocacia Pública será <b>civil e regressivamente</b> responsável quando agir com <b>dolo ou fraude</b> no exercício de suas funções. O advogado público não responde por mero erro de opinião em parecer, salvo dolo, fraude ou erro grosseiro (Lei 13.655/2018, que incluiu o art. 28 na LINDB: \"O agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de <b>dolo ou erro grosseiro</b>\").</li><li><b>Dispensa de recorrer e de contestar</b>: muitos entes têm normas que autorizam os procuradores a <b>não recorrer</b> ou a <b>reconhecer o pedido</b> em matérias pacificadas (por exemplo, quando houver súmula vinculante ou tese de repercussão geral contrária ao ente). O CPC prevê, no art. 496, § 4º, que <b>não se aplica a remessa necessária</b> quando a sentença estiver fundada em entendimento coincidente com <b>orientação vinculante firmada no âmbito administrativo</b> do próprio ente público, consolidada em manifestação, parecer ou súmula administrativa.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Empresas públicas têm prazo em dobro como a Fazenda</span><br>✅ <span class=\"certo\">São de direito <b>privado</b>; não têm a prerrogativa do art. 183</span></li><li>❌ <span class=\"banca\">A Fazenda tem prazo em dobro para impugnar o cumprimento de sentença</span><br>✅ <span class=\"certo\">O prazo de <b>30 dias</b> do art. 535 é <b>próprio</b>, sem dobra</span></li><li>❌ <span class=\"banca\">A intimação pessoal da Fazenda só pode ser feita por oficial de justiça</span><br>✅ <span class=\"certo\">Faz-se por <b>carga, remessa ou meio eletrônico</b> (art. 183, § 1º)</span></li><li>❌ <span class=\"banca\">O procurador responde por qualquer erro em parecer</span><br>✅ <span class=\"certo\">Responde civil e regressivamente por <b>dolo ou fraude</b> (art. 184); pessoalmente por <b>dolo ou erro grosseiro</b> (LINDB, art. 28)</span></li></ol></div>\n<h3>19. A Defensoria Pública (arts. 185 a 187)</h3>\n<ul><li><b>Função</b> (art. 185): a Defensoria Pública exercerá a <b>orientação jurídica</b>, a promoção dos direitos humanos e a defesa dos direitos individuais e coletivos dos <b>necessitados</b>, em todos os graus, de forma integral e gratuita.</li><li><b>Prazo em dobro</b> (art. 186): a Defensoria Pública gozará de <b>prazo em dobro</b> para todas as suas manifestações processuais, a partir da <b>intimação pessoal</b>. A requerimento da Defensoria, o juiz determinará a <b>intimação pessoal da parte patrocinada</b> quando o ato processual depender de providência ou informação que somente por ela possa ser realizada ou prestada (§ 2º). O prazo em dobro aplica-se também aos <b>escritórios de prática jurídica</b> das faculdades de Direito reconhecidas na forma da lei e às entidades que prestam assistência jurídica gratuita em razão de <b>convênios</b> firmados com a Defensoria Pública (§ 3º).</li><li><b>Honorários para a Defensoria contra o ente público</b>: o STF, no <b>Tema 1.002</b> (RE 1.140.005, 2023), fixou que \"é <b>devido</b> o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra <b>qualquer ente público</b>, <b>inclusive aquele que integra</b>\". Com isso, ficou superada a <b>Súmula 421 do STJ</b> (que vedava honorários à Defensoria contra a pessoa jurídica de direito público à qual pertença). Os valores devem ser destinados <b>exclusivamente</b> ao aparelhamento da Defensoria, vedado o rateio entre seus membros.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O prazo em dobro da Defensoria não se aplica aos núcleos de prática jurídica das faculdades</span><br>✅ <span class=\"certo\"><b>Aplica-se</b> (art. 186, § 3º)</span></li><li>❌ <span class=\"banca\">A Defensoria estadual não pode receber honorários do próprio Estado</span><br>✅ <span class=\"certo\">Pode (STF, <b>Tema 1.002</b>), superando a Súmula 421 do STJ</span></li><li>❌ <span class=\"banca\">Os honorários da Defensoria podem ser rateados entre os defensores</span><br>✅ <span class=\"certo\">Devem ser destinados ao <b>aparelhamento</b> da instituição</span></li></ol></div>\n<h3>20. Casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A ação contra o motorista da Prefeitura</b><p>Um pedestre atropelado por caminhão da Prefeitura ajuíza ação de indenização apenas contra o motorista, servidor municipal, alegando que ele dirigia em alta velocidade. O motorista procura o Procurador do Município.</p><details><summary>Ver a solução comentada</summary><p>Pelo <b>Tema 940</b> do STF, a ação deve ser ajuizada contra o <b>Município</b> (responsabilidade objetiva, CF, art. 37, § 6º), e o servidor é <b>parte ilegítima</b> (dupla garantia). O motorista deve alegar a ilegitimidade passiva em preliminar de contestação (art. 337, XI), pedindo a extinção sem resolução de mérito ou a correção do polo passivo (art. 338: o autor pode, em 15 dias, alterar a petição inicial para substituir o réu). Se o Município for condenado, poderá cobrar do servidor em <b>regresso</b>, provando <b>dolo ou culpa</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Honorários contra o Município</b><p>O Município perdeu ação em que foi condenado a pagar R$ 3 milhões a uma construtora (cerca de 1.850 salários mínimos). O juiz fixou honorários de 15% sobre o total.</p><details><summary>Ver a solução comentada</summary><p>Como a <b>Fazenda é parte</b>, aplicam-se as <b>faixas</b> do art. 85, § 3º, de forma <b>escalonada</b> (§ 5º): até 200 SM, entre <b>10% e 20%</b>; o que excede 200 SM até 2.000 SM, entre <b>8% e 10%</b>. Os 15% sobre o total violam o § 3º. O Procurador deve recorrer pedindo a aplicação escalonada. A fixação por <b>equidade</b> (§ 8º) não é cabível, pois o valor não é irrisório (Tema 1.076 do STJ).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ação de servidores com 300 autores</b><p>Trezentos professores municipais propõem, em uma única ação, pedido de pagamento de diferenças salariais, cada um com situação funcional diferente.</p><details><summary>Ver a solução comentada</summary><p>Trata-se de <b>litisconsórcio facultativo multitudinário</b> (art. 113, III: afinidade de questões). O Município pode requerer a <b>limitação</b> do número de litigantes por comprometer a defesa e a rápida solução (art. 113, § 1º). O requerimento <b>interrompe</b> o prazo de resposta, que recomeça da intimação da decisão (§ 2º). Se o processo for eletrônico, os autores não terão prazo em dobro mesmo com advogados diferentes (art. 229, § 2º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O MP não foi intimado</b><p>Em ação de cobrança de IPTU contra um espólio em que há herdeiro menor de idade, o MP não foi intimado. A sentença foi de improcedência para o Município. O espólio pede a anulação.</p><details><summary>Ver a solução comentada</summary><p>O MP deveria intervir por haver <b>interesse de incapaz</b> (art. 178, II). Mas a nulidade só pode ser decretada após a intimação do MP, que se manifestará sobre o <b>prejuízo</b> (art. 279, § 2º). Como o resultado foi <b>favorável</b> ao lado do incapaz, provavelmente não houve prejuízo, e o processo será aproveitado (<i>pas de nullité sans grief</i>). Note que a simples presença do <b>Município</b> como parte não exigiria intervenção do MP (art. 178, parágrafo único).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O juiz parente do advogado</b><p>O juiz da causa é primo (quarto grau) do advogado da parte contrária ao Município. O Procurador quer arguir impedimento.</p><details><summary>Ver a solução comentada</summary><p>Não há impedimento: o art. 144, III, alcança o parentesco até o <b>terceiro grau</b> (primos são parentes colaterais de quarto grau). Pode haver <b>suspeição</b> se houver <b>amizade íntima</b> (art. 145, I), a ser provada. O prazo para alegar é de <b>15 dias</b> do conhecimento do fato, por <b>petição específica</b> (art. 146). A suspeição não alegada no prazo <b>preclui</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Execução contra empresa esvaziada</b><p>O Município executa multa administrativa (não tributária) contra uma empresa que encerrou atividades sem baixa e transferiu bens para outra empresa do mesmo dono.</p><details><summary>Ver a solução comentada</summary><p>Para a dívida <b>não tributária</b>, o caminho é o <b>IDPJ</b> (arts. 133 a 137), com base no <b>art. 50 do Código Civil</b> (confusão patrimonial ou desvio de finalidade). O sócio e a nova empresa serão <b>citados</b> para se manifestar em 15 dias; a decisão é interlocutória, atacável por agravo de instrumento. Se fosse dívida <b>tributária</b> e houvesse <b>dissolução irregular</b>, o redirecionamento ao sócio-gerente poderia ser feito com base no <b>art. 135 do CTN</b> e na <b>Súmula 435</b> do STJ, sem necessidade de IDPJ, segundo o STJ.</p></details></div>\n<h3>21. Questões comentadas</h3>\n<ul><li><b>\"A Câmara Municipal possui personalidade jurídica e pode demandar em juízo para defender quaisquer interesses.\"</b> Errado: tem só <b>personalidade judiciária</b>, para defender <b>direitos institucionais</b> (Súmula 525 do STJ).</li><li><b>\"O Município será representado em juízo por seu prefeito, procurador ou Associação de Representação de Municípios, quando expressamente autorizada.\"</b> Certo: art. 75, III.</li><li><b>\"A violação do dever de cumprir com exatidão as decisões jurisdicionais constitui ato atentatório à dignidade da justiça, punível com multa de até 20% do valor da causa.\"</b> Certo: art. 77, §§ 1º e 2º.</li><li><b>\"O litigante de má-fé será condenado a pagar multa entre 10% e 20% do valor da causa.\"</b> Errado: <b>superior a 1% e inferior a 10%</b> (art. 81).</li><li><b>\"Nas causas em que a Fazenda Pública for parte, os honorários serão fixados entre 10% e 20% sobre qualquer valor.\"</b> Errado: há <b>faixas</b> decrescentes (art. 85, § 3º).</li><li><b>\"Os honorários constituem direito do advogado e têm natureza alimentar, sendo vedada a compensação em caso de sucumbência parcial.\"</b> Certo: art. 85, § 14.</li><li><b>\"Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural.\"</b> Certo: art. 99, § 3º.</li><li><b>\"A denunciação da lide é obrigatória, sob pena de perda do direito de regresso.\"</b> Errado: art. 125, § 1º.</li><li><b>\"O chamamento ao processo pode ser requerido pelo autor.\"</b> Errado: é privativo do <b>réu</b> (art. 130).</li><li><b>\"O incidente de desconsideração da personalidade jurídica é cabível em todas as fases do processo de conhecimento, no cumprimento de sentença e na execução.\"</b> Certo: art. 134.</li><li><b>\"A participação da Fazenda Pública configura, por si só, hipótese de intervenção do Ministério Público.\"</b> Errado: art. 178, parágrafo único.</li><li><b>\"A União, os Estados, o DF, os Municípios e suas autarquias e fundações de direito público gozarão de prazo em dobro para todas as suas manifestações processuais.\"</b> Certo: art. 183.</li><li><b>\"Aplica-se o prazo em dobro à Fazenda Pública ainda que a lei estabeleça prazo próprio.\"</b> Errado: art. 183, § 2º.</li></ul>\n<h3>22. Como as bancas cobram este tópico</h3>\n<ul><li><b>Representação</b> do Município (art. 75, III, e § 5º) e da Câmara (Súmula 525).</li><li><b>Multas</b>: tabela comparativa (ato atentatório até 20%; má-fé de 1% a 10%; ED protelatórios até 2% e 10%; agravo interno de 1% a 5%; ausência à audiência até 2%), com seus destinatários.</li><li><b>Honorários</b>: faixas do art. 85, § 3º; § 7º (precatório não impugnado); § 11 (recursal); § 14 (natureza alimentar e vedação de compensação); § 19 (advogados públicos, ADI 6.053); Tema 1.076 (equidade).</li><li><b>Gratuidade</b>: presunção da pessoa natural, Súmula 481, condição suspensiva de 5 anos, agravo contra indeferimento.</li><li><b>Litisconsórcio</b>: necessário x unitário; consequências do art. 115; multitudinário; prazo em dobro só em autos físicos.</li><li><b>Intervenções</b>: assistência (interesse jurídico), denunciação (facultativa, uma sucessiva), chamamento (só o réu), IDPJ (todas as fases, suspende, agravo), amicus curiae (irrecorrível, só ED e recurso no IRDR).</li><li><b>MP, Advocacia Pública e Defensoria</b>: prazos em dobro (com a exceção do prazo próprio), intimação pessoal, responsabilidade por dolo ou fraude, art. 178, parágrafo único, e Tema 1.002 do STF.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para as intervenções de terceiros, pense em quem as provoca: <b>Assistência</b> = o próprio terceiro pede para entrar; <b>Denunciação</b> = autor ou réu traz quem deve <b>indenizar em regresso</b>; <b>Chamamento</b> = só o réu traz <b>codevedores</b> (fiador, afiançado, solidários); <b>IDPJ</b> = parte ou MP traz o <b>sócio</b> (ou a empresa, na inversa); <b>Amicus</b> = juiz ou interessado traz quem tem <b>conhecimento e representatividade</b>.</div>",
+"quiz": [
+{
+"p": "A Câmara de Vereadores não possui personalidade jurídica, apenas personalidade judiciária, somente podendo demandar em juízo para defender seus direitos institucionais.",
+"c": true,
+"prof": "Súmula 525 do STJ.",
+"x": "Personalidade judiciária.",
+"e": "Câmara"
+},
+{
+"p": "O juiz nomeará curador especial ao réu revel citado por edital ou com hora certa, enquanto não constituído advogado.",
+"c": true,
+"prof": "CPC, art. 72, II.",
+"x": "Curador especial.",
+"e": "Curador"
+},
+{
+"p": "A curatela especial será exercida pela Defensoria Pública.",
+"c": true,
+"prof": "CPC, art. 72, parágrafo único.",
+"x": "Defensoria.",
+"e": "Curador"
+},
+{
+"p": "O cônjuge casado sob regime de separação absoluta de bens precisa do consentimento do outro para propor ação real imobiliária.",
+"c": false,
+"prof": "CPC, art. 73.",
+"x": "Dispensado.",
+"e": "Cônjuges"
+},
+{
+"p": "Nas ações possessórias, a participação do cônjuge é indispensável nas hipóteses de composse ou de ato por ambos praticado.",
+"c": true,
+"prof": "CPC, art. 73, § 2º.",
+"x": "Possessórias.",
+"e": "Cônjuges"
+},
+{
+"p": "O Município é representado em juízo por seu prefeito, procurador ou Associação de Representação de Municípios, quando expressamente autorizada.",
+"c": true,
+"prof": "CPC, art. 75, III.",
+"x": "Lei 14.341/2022.",
+"e": "Município"
+},
+{
+"p": "A representação do Município por associação depende de autorização do chefe do Executivo municipal, com indicação específica do direito ou da obrigação.",
+"c": true,
+"prof": "CPC, art. 75, § 5º.",
+"x": "Autorização.",
+"e": "Associação"
+},
+{
+"p": "O espólio é representado em juízo pelo inventariante.",
+"c": true,
+"prof": "CPC, art. 75, VII.",
+"x": "Espólio.",
+"e": "Espólio"
+},
+{
+"p": "Verificada a irregularidade de representação, o juiz suspenderá o processo e designará prazo razoável para que seja sanado o vício.",
+"c": true,
+"prof": "CPC, art. 76.",
+"x": "Sanação.",
+"e": "Representação"
+},
+{
+"p": "Descumprida a determinação de regularizar a representação pelo réu, o processo será extinto.",
+"c": false,
+"prof": "CPC, art. 76, § 1º, II.",
+"x": "Réu revel.",
+"e": "Representação"
+},
+{
+"p": "Descumprir com exatidão as decisões jurisdicionais constitui ato atentatório à dignidade da justiça.",
+"c": true,
+"prof": "CPC, art. 77, IV e § 1º.",
+"x": "Ato atentatório.",
+"e": "Ato atentatório"
+},
+{
+"p": "A multa por ato atentatório à dignidade da justiça pode chegar a 20% do valor da causa.",
+"c": true,
+"prof": "CPC, art. 77, § 2º.",
+"x": "20%.",
+"e": "Multa"
+},
+{
+"p": "O juiz pode aplicar diretamente ao advogado público a multa por ato atentatório à dignidade da justiça.",
+"c": false,
+"prof": "CPC, art. 77, § 6º.",
+"x": "Órgão de classe.",
+"e": "Advogados"
+},
+{
+"p": "Considera-se litigante de má-fé quem interpuser recurso com intuito manifestamente protelatório.",
+"c": true,
+"prof": "CPC, art. 80, VII.",
+"x": "Má-fé.",
+"e": "Má-fé"
+},
+{
+"p": "A multa por litigância de má-fé deve ser superior a 1% e inferior a 10% do valor corrigido da causa.",
+"c": true,
+"prof": "CPC, art. 81.",
+"x": "1% a 10%.",
+"e": "Má-fé"
+},
+{
+"p": "A concessão de gratuidade não afasta o dever de o beneficiário pagar, ao final, as multas processuais que lhe sejam impostas.",
+"c": true,
+"prof": "CPC, art. 98, § 4º.",
+"x": "Multas.",
+"e": "Gratuidade"
+},
+{
+"p": "Incumbe ao autor adiantar as despesas de ato determinado de ofício pelo juiz.",
+"c": true,
+"prof": "CPC, art. 82, § 1º.",
+"x": "Adiantamento.",
+"e": "Despesas"
+},
+{
+"p": "Após a Lei 15.109/2025, o advogado fica dispensado de adiantar custas nas ações de cobrança e execução de seus honorários.",
+"c": true,
+"prof": "CPC, art. 82, § 3º.",
+"x": "Lei 15.109.",
+"e": "Custas"
+},
+{
+"p": "As despesas de atos requeridos pela Fazenda Pública, pelo MP ou pela Defensoria serão pagas ao final pelo vencido.",
+"c": true,
+"prof": "CPC, art. 91.",
+"x": "Fazenda.",
+"e": "Despesas"
+},
+{
+"p": "As perícias requeridas pela Fazenda Pública podem ter os valores adiantados por ela, havendo previsão orçamentária.",
+"c": true,
+"prof": "CPC, art. 91, § 1º.",
+"x": "Perícia.",
+"e": "Perícia"
+},
+{
+"p": "Segundo o STJ, não se pode exigir do MP o adiantamento de honorários periciais em ação civil pública, devendo a Fazenda a que se vincula custeá-los.",
+"c": true,
+"prof": "Tema 510 do STJ.",
+"x": "Súmula 232.",
+"e": "ACP"
+},
+{
+"p": "Os honorários advocatícios constituem direito do advogado e têm natureza alimentar.",
+"c": true,
+"prof": "CPC, art. 85, § 14.",
+"x": "Alimentar.",
+"e": "Honorários"
+},
+{
+"p": "Em caso de sucumbência parcial, os honorários advocatícios devem ser compensados.",
+"c": false,
+"prof": "CPC, art. 85, § 14.",
+"x": "Vedada.",
+"e": "Compensação"
+},
+{
+"p": "Nas causas em que a Fazenda Pública for parte, os honorários sobre condenação de até 200 salários mínimos variam entre 10% e 20%.",
+"c": true,
+"prof": "CPC, art. 85, § 3º, I.",
+"x": "Primeira faixa.",
+"e": "Fazenda"
+},
+{
+"p": "Nas causas em que a Fazenda Pública for parte, os honorários sobre a parcela acima de 100.000 salários mínimos variam entre 1% e 3%.",
+"c": true,
+"prof": "CPC, art. 85, § 3º, V.",
+"x": "Última faixa.",
+"e": "Fazenda"
+},
+{
+"p": "Contra a Fazenda, a fixação de honorários é escalonada pelas faixas do art. 85, § 3º.",
+"c": true,
+"prof": "CPC, art. 85, § 5º.",
+"x": "Escalonamento.",
+"e": "Escalonamento"
+},
+{
+"p": "Não são devidos honorários no cumprimento de sentença contra a Fazenda que enseje precatório, desde que não impugnado.",
+"c": true,
+"prof": "CPC, art. 85, § 7º.",
+"x": "Precatório.",
+"e": "Cumprimento"
+},
+{
+"p": "Segundo o STJ, não é permitida a fixação de honorários por equidade quando os valores da condenação, da causa ou o proveito econômico forem elevados.",
+"c": true,
+"prof": "Tema 1.076 do STJ.",
+"x": "Equidade.",
+"e": "Equidade"
+},
+{
+"p": "O tribunal majorará os honorários ao julgar recurso, considerando o trabalho adicional em grau recursal.",
+"c": true,
+"prof": "CPC, art. 85, § 11.",
+"x": "Recursal.",
+"e": "Recursal"
+},
+{
+"p": "O STF declarou constitucional o recebimento de honorários de sucumbência por advogados públicos, observado o teto remuneratório.",
+"c": true,
+"prof": "ADI 6.053.",
+"x": "Teto.",
+"e": "Advogados públicos"
+},
+{
+"p": "Se o réu reconhecer a procedência do pedido e cumprir integralmente a prestação, os honorários serão reduzidos pela metade.",
+"c": true,
+"prof": "CPC, art. 90, § 4º.",
+"x": "Metade.",
+"e": "Reconhecimento"
+},
+{
+"p": "Presume-se verdadeira a alegação de insuficiência de recursos deduzida exclusivamente por pessoa natural.",
+"c": true,
+"prof": "CPC, art. 99, § 3º.",
+"x": "Presunção.",
+"e": "Gratuidade"
+},
+{
+"p": "A pessoa jurídica faz jus à gratuidade se demonstrar sua impossibilidade de arcar com os encargos processuais.",
+"c": true,
+"prof": "Súmula 481 do STJ.",
+"x": "Demonstração.",
+"e": "PJ"
+},
+{
+"p": "A assistência do requerente por advogado particular não impede a concessão de gratuidade.",
+"c": true,
+"prof": "CPC, art. 99, § 4º.",
+"x": "Advogado particular.",
+"e": "Gratuidade"
+},
+{
+"p": "Vencido o beneficiário da gratuidade, as obrigações de sucumbência ficam sob condição suspensiva de exigibilidade por 5 anos.",
+"c": true,
+"prof": "CPC, art. 98, § 3º.",
+"x": "Condição suspensiva.",
+"e": "Sucumbência"
+},
+{
+"p": "Contra a decisão que indeferir a gratuidade cabe agravo de instrumento, salvo se resolvida na sentença.",
+"c": true,
+"prof": "CPC, art. 101.",
+"x": "Recurso.",
+"e": "Agravo"
+},
+{
+"p": "A gratuidade da justiça só pode ser total, vedada a concessão parcial ou o parcelamento.",
+"c": false,
+"prof": "CPC, art. 98, §§ 5º e 6º.",
+"x": "Admite parcial.",
+"e": "Parcial"
+},
+{
+"p": "O advogado poderá postular sem procuração para evitar preclusão, decadência ou prescrição, devendo exibi-la em 15 dias.",
+"c": true,
+"prof": "CPC, art. 104.",
+"x": "Urgência.",
+"e": "Procuração"
+},
+{
+"p": "A procuração geral para o foro habilita o advogado a transigir e a dar quitação.",
+"c": false,
+"prof": "CPC, art. 105.",
+"x": "Cláusula específica.",
+"e": "Poderes"
+},
+{
+"p": "A alienação da coisa litigiosa por ato entre vivos não altera a legitimidade das partes.",
+"c": true,
+"prof": "CPC, art. 109.",
+"x": "Legitimidade.",
+"e": "Alienação"
+},
+{
+"p": "O adquirente da coisa litigiosa pode intervir como assistente litisconsorcial do alienante.",
+"c": true,
+"prof": "CPC, art. 109, § 2º.",
+"x": "Assistência.",
+"e": "Adquirente"
+},
+{
+"p": "O litisconsórcio será necessário por disposição de lei ou quando a eficácia da sentença depender da citação de todos.",
+"c": true,
+"prof": "CPC, art. 114.",
+"x": "Necessário.",
+"e": "Necessário"
+},
+{
+"p": "O litisconsórcio será unitário quando o juiz tiver de decidir o mérito de modo uniforme para todos.",
+"c": true,
+"prof": "CPC, art. 116.",
+"x": "Unitário.",
+"e": "Unitário"
+},
+{
+"p": "A sentença proferida sem a citação de litisconsorte necessário unitário é nula.",
+"c": true,
+"prof": "CPC, art. 115, I.",
+"x": "Nula.",
+"e": "Art. 115"
+},
+{
+"p": "A sentença proferida sem a citação de litisconsorte necessário simples é ineficaz apenas para os que não foram citados.",
+"c": true,
+"prof": "CPC, art. 115, II.",
+"x": "Ineficaz.",
+"e": "Art. 115"
+},
+{
+"p": "O juiz pode limitar o litisconsórcio facultativo quando o número de litigantes comprometer a rápida solução do litígio ou dificultar a defesa.",
+"c": true,
+"prof": "CPC, art. 113, § 1º.",
+"x": "Multitudinário.",
+"e": "Limitação"
+},
+{
+"p": "O requerimento de limitação do litisconsórcio multitudinário interrompe o prazo para resposta.",
+"c": true,
+"prof": "CPC, art. 113, § 2º.",
+"x": "Interrupção.",
+"e": "Limitação"
+},
+{
+"p": "O prazo em dobro para litisconsortes com procuradores de escritórios distintos aplica-se aos processos em autos eletrônicos.",
+"c": false,
+"prof": "CPC, art. 229, § 2º.",
+"x": "Não se aplica.",
+"e": "Prazo"
+},
+{
+"p": "No litisconsórcio unitário, os atos e as omissões de um litisconsorte não prejudicarão os outros, mas os poderão beneficiar.",
+"c": true,
+"prof": "CPC, art. 117.",
+"x": "Unitário.",
+"e": "Regime"
+},
+{
+"p": "A assistência pode ser admitida com base em interesse meramente econômico do terceiro, segundo o CPC.",
+"c": false,
+"prof": "CPC, art. 119.",
+"x": "Interesse jurídico.",
+"e": "Assistência"
+},
+{
+"p": "A assistência será admitida em qualquer procedimento e em todos os graus de jurisdição.",
+"c": true,
+"prof": "CPC, art. 119, parágrafo único.",
+"x": "Todos os graus.",
+"e": "Assistência"
+},
+{
+"p": "A assistência simples não obsta a que a parte principal desista da ação ou transija.",
+"c": true,
+"prof": "CPC, art. 122.",
+"x": "Autonomia do assistido.",
+"e": "Assistência simples"
+},
+{
+"p": "Considera-se litisconsorte da parte principal o assistente sempre que a sentença influir na relação jurídica entre ele e o adversário do assistido.",
+"c": true,
+"prof": "CPC, art. 124.",
+"x": "Litisconsorcial.",
+"e": "Assistência litisconsorcial"
+},
+{
+"p": "As pessoas jurídicas de direito público podem intervir em causas cuja decisão possa ter reflexos econômicos, ainda que indiretos, independentemente de interesse jurídico.",
+"c": true,
+"prof": "Lei 9.469, art. 5º, parágrafo único.",
+"x": "Intervenção anômala.",
+"e": "Anômala"
+},
+{
+"p": "O direito regressivo será exercido por ação autônoma quando a denunciação da lide for indeferida, deixar de ser promovida ou não for permitida.",
+"c": true,
+"prof": "CPC, art. 125, § 1º.",
+"x": "Facultativa.",
+"e": "Denunciação"
+},
+{
+"p": "Admite-se uma única denunciação sucessiva.",
+"c": true,
+"prof": "CPC, art. 125, § 2º.",
+"x": "Uma vez.",
+"e": "Sucessiva"
+},
+{
+"p": "Procedente o pedido principal, o autor pode requerer o cumprimento da sentença também contra o denunciado, nos limites da condenação deste.",
+"c": true,
+"prof": "CPC, art. 128, parágrafo único.",
+"x": "Condenação direta.",
+"e": "Denunciado"
+},
+{
+"p": "Segundo o STF, a ação por danos causados por agente público deve ser ajuizada contra o Estado, sendo parte ilegítima o autor do ato.",
+"c": true,
+"prof": "Tema 940.",
+"x": "Dupla garantia.",
+"e": "Tema 940"
+},
+{
+"p": "O chamamento ao processo pode ser requerido pelo autor para incluir os devedores solidários.",
+"c": false,
+"prof": "CPC, art. 130.",
+"x": "Só o réu.",
+"e": "Chamamento"
+},
+{
+"p": "É admissível o chamamento ao processo do afiançado, na ação em que o fiador for réu.",
+"c": true,
+"prof": "CPC, art. 130, I.",
+"x": "Afiançado.",
+"e": "Chamamento"
+},
+{
+"p": "A sentença de procedência no chamamento valerá como título executivo em favor do réu que satisfizer a dívida.",
+"c": true,
+"prof": "CPC, art. 132.",
+"x": "Título.",
+"e": "Chamamento"
+},
+{
+"p": "Segundo o STF, os entes federativos são solidariamente responsáveis nas demandas prestacionais de saúde.",
+"c": true,
+"prof": "Tema 793.",
+"x": "Solidariedade.",
+"e": "Saúde"
+},
+{
+"p": "O incidente de desconsideração da personalidade jurídica aplica-se também à desconsideração inversa.",
+"c": true,
+"prof": "CPC, art. 133, § 2º.",
+"x": "Inversa.",
+"e": "IDPJ"
+},
+{
+"p": "Dispensa-se o incidente se a desconsideração for requerida na petição inicial.",
+"c": true,
+"prof": "CPC, art. 134, § 2º.",
+"x": "Inicial.",
+"e": "IDPJ"
+},
+{
+"p": "A instauração do IDPJ suspende o processo, salvo se requerida a desconsideração na petição inicial.",
+"c": true,
+"prof": "CPC, art. 134, § 3º.",
+"x": "Suspensão.",
+"e": "IDPJ"
+},
+{
+"p": "O IDPJ é resolvido por decisão interlocutória, impugnável por agravo de instrumento.",
+"c": true,
+"prof": "CPC, arts. 136 e 1.015, IV.",
+"x": "Agravo.",
+"e": "IDPJ"
+},
+{
+"p": "A decisão que admite ou solicita a intervenção do amicus curiae é irrecorrível.",
+"c": true,
+"prof": "CPC, art. 138.",
+"x": "Irrecorrível.",
+"e": "Amicus"
+},
+{
+"p": "O amicus curiae pode opor embargos de declaração e recorrer da decisão que julgar o IRDR.",
+"c": true,
+"prof": "CPC, art. 138, §§ 1º e 3º.",
+"x": "Recursos.",
+"e": "Amicus"
+},
+{
+"p": "A intervenção do amicus curiae altera a competência do juízo.",
+"c": false,
+"prof": "CPC, art. 138, § 1º.",
+"x": "Não altera.",
+"e": "Amicus"
+},
+{
+"p": "O juiz responderá civil e regressivamente por perdas e danos quando proceder com dolo ou fraude.",
+"c": true,
+"prof": "CPC, art. 143.",
+"x": "Responsabilidade.",
+"e": "Juiz"
+},
+{
+"p": "É impedido o juiz no processo de que conheceu em outro grau de jurisdição, tendo proferido decisão.",
+"c": true,
+"prof": "CPC, art. 144, II.",
+"x": "Impedimento.",
+"e": "Impedimento"
+},
+{
+"p": "Há suspeição do juiz amigo íntimo ou inimigo de qualquer das partes ou de seus advogados.",
+"c": true,
+"prof": "CPC, art. 145, I.",
+"x": "Suspeição.",
+"e": "Suspeição"
+},
+{
+"p": "O juiz pode declarar-se suspeito por motivo de foro íntimo, sem necessidade de declarar suas razões.",
+"c": true,
+"prof": "CPC, art. 145, § 1º.",
+"x": "Foro íntimo.",
+"e": "Foro íntimo"
+},
+{
+"p": "O impedimento do juiz autoriza ação rescisória.",
+"c": true,
+"prof": "CPC, art. 966, II.",
+"x": "Rescisória.",
+"e": "Rescisória"
+},
+{
+"p": "O STF declarou inconstitucional o inciso do art. 144 que impedia o juiz em processos de clientes do escritório de parente, ainda que patrocinados por outro escritório.",
+"c": true,
+"prof": "ADI 5.953.",
+"x": "Inciso VIII.",
+"e": "ADI 5.953"
+},
+{
+"p": "O prazo para alegar impedimento ou suspeição é de 15 dias do conhecimento do fato.",
+"c": true,
+"prof": "CPC, art. 146.",
+"x": "15 dias.",
+"e": "Prazo"
+},
+{
+"p": "O MP será intimado para intervir, em 30 dias, nos processos que envolvam interesse de incapaz.",
+"c": true,
+"prof": "CPC, art. 178, II.",
+"x": "Incapaz.",
+"e": "MP"
+},
+{
+"p": "A participação da Fazenda Pública configura, por si só, hipótese de intervenção do MP.",
+"c": false,
+"prof": "CPC, art. 178, parágrafo único.",
+"x": "Não configura.",
+"e": "MP"
+},
+{
+"p": "A nulidade por falta de intimação do MP só pode ser decretada após sua intimação para se manifestar sobre a existência de prejuízo.",
+"c": true,
+"prof": "CPC, art. 279, § 2º.",
+"x": "Prejuízo.",
+"e": "Nulidade"
+},
+{
+"p": "Os entes públicos gozam de prazo em dobro para todas as suas manifestações processuais, contado da intimação pessoal.",
+"c": true,
+"prof": "CPC, art. 183.",
+"x": "Dobro.",
+"e": "Fazenda"
+},
+{
+"p": "A intimação pessoal da Fazenda Pública far-se-á por carga, remessa ou meio eletrônico.",
+"c": true,
+"prof": "CPC, art. 183, § 1º.",
+"x": "Intimação.",
+"e": "Intimação"
+},
+{
+"p": "O prazo de 30 dias para a Fazenda impugnar o cumprimento de sentença é contado em dobro.",
+"c": false,
+"prof": "CPC, arts. 183, § 2º, e 535.",
+"x": "Prazo próprio.",
+"e": "Prazo próprio"
+},
+{
+"p": "O membro da Advocacia Pública será civil e regressivamente responsável quando agir com dolo ou fraude.",
+"c": true,
+"prof": "CPC, art. 184.",
+"x": "Responsabilidade.",
+"e": "Advocacia Pública"
+},
+{
+"p": "Empresas públicas e sociedades de economia mista gozam do prazo em dobro do art. 183 do CPC.",
+"c": false,
+"prof": "CPC, art. 183.",
+"x": "Direito privado.",
+"e": "Estatais"
+},
+{
+"p": "O prazo em dobro da Defensoria aplica-se aos escritórios de prática jurídica das faculdades de Direito.",
+"c": true,
+"prof": "CPC, art. 186, § 3º.",
+"x": "Núcleos.",
+"e": "Defensoria"
+},
+{
+"p": "Segundo o STF, são devidos honorários à Defensoria Pública que vence demanda contra qualquer ente público, inclusive aquele que integra.",
+"c": true,
+"prof": "Tema 1.002.",
+"x": "Súmula 421 superada.",
+"e": "Defensoria"
+},
+{
+"p": "Segundo o CPC, o Município será representado em juízo",
+"alts": [
+"exclusivamente pelo Prefeito",
+"exclusivamente pela Procuradoria-Geral do Estado",
+"por seu prefeito, procurador ou Associação de Representação de Municípios, quando expressamente autorizada",
+"pela Câmara Municipal",
+"pela AGU"
+],
+"r": 2,
+"x": "Art. 75, III.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"União."
+],
+"e": "Representação."
+},
+{
+"p": "Quanto às multas processuais, assinale a correta.",
+"alts": [
+"a multa por litigância de má-fé reverte ao Estado",
+"a multa por ato atentatório à dignidade da justiça pode chegar a 20% do valor da causa e é inscrita em dívida ativa da União ou do Estado",
+"a multa por má-fé é de 10% a 20%",
+"o advogado público responde diretamente pela multa do art. 77",
+"a gratuidade isenta o beneficiário das multas"
+],
+"r": 1,
+"x": "Arts. 77 e 81.",
+"n": [
+"À parte contrária.",
+"Correta.",
+"1% a 10%.",
+"Órgão de classe.",
+"Paga ao final."
+],
+"e": "Multas."
+},
+{
+"p": "O Município foi condenado a pagar o equivalente a 1.000 salários mínimos. Os honorários de sucumbência devem ser fixados",
+"alts": [
+"entre 10% e 20% sobre o total",
+"por equidade",
+"entre 10% e 20% até 200 salários mínimos e entre 8% e 10% sobre o que exceder até 2.000 salários mínimos",
+"em 1% a 3% sobre o total",
+"sempre em 10% fixos"
+],
+"r": 2,
+"x": "Art. 85, §§ 3º e 5º.",
+"n": [
+"Escalonamento.",
+"Tema 1.076.",
+"Correta.",
+"Última faixa.",
+"Não."
+],
+"e": "Faixas."
+},
+{
+"p": "Segundo o art. 85, § 7º, do CPC, não são devidos honorários no cumprimento de sentença contra a Fazenda Pública",
+"alts": [
+"em qualquer hipótese",
+"que enseje expedição de precatório, desde que não tenha sido impugnada",
+"que enseje RPV, mesmo impugnada",
+"quando o credor for pessoa jurídica",
+"quando o valor for superior a 60 salários mínimos"
+],
+"r": 1,
+"x": "Art. 85, § 7º.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Cumprimento."
+},
+{
+"p": "Sobre a gratuidade da justiça, é correto afirmar:",
+"alts": [
+"a pessoa jurídica tem presunção de insuficiência",
+"presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural",
+"a assistência por advogado particular impede a gratuidade",
+"o beneficiário vencido jamais paga honorários",
+"só pode ser total"
+],
+"r": 1,
+"x": "Art. 99, §§ 3º e 4º.",
+"n": [
+"Súmula 481.",
+"Correta.",
+"Não impede.",
+"Condição suspensiva.",
+"Admite parcial."
+],
+"e": "Gratuidade."
+},
+{
+"p": "A sentença de mérito proferida sem a citação de litisconsorte necessário cuja decisão deveria ser uniforme será",
+"alts": [
+"válida e eficaz",
+"ineficaz apenas para os não citados",
+"nula",
+"anulável a critério do réu",
+"inexistente para todos"
+],
+"r": 2,
+"x": "Art. 115, I.",
+"n": [
+"Não.",
+"Isso é o simples.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Art. 115."
+},
+{
+"p": "Na assistência simples, é correto afirmar:",
+"alts": [
+"o assistente pode impedir a desistência da ação pelo assistido",
+"exige interesse econômico",
+"só é admitida em primeiro grau",
+"sendo revel ou omisso o assistido, o assistente será considerado seu substituto processual",
+"o assistente pode sempre rediscutir a justiça da decisão"
+],
+"r": 3,
+"x": "Arts. 119 a 123.",
+"n": [
+"Não obsta (art. 122).",
+"Interesse jurídico.",
+"Todos os graus.",
+"Correta.",
+"Eficácia da intervenção."
+],
+"e": "Assistência."
+},
+{
+"p": "Quanto à denunciação da lide no CPC/2015,",
+"alts": [
+"é obrigatória, sob pena de perda do direito de regresso",
+"admite denunciações sucessivas ilimitadas",
+"é admissível, podendo o direito regressivo ser exercido por ação autônoma se não for promovida",
+"só pode ser feita pelo autor",
+"é cabível contra devedores solidários"
+],
+"r": 2,
+"x": "Art. 125.",
+"n": [
+"Facultativa.",
+"Uma sucessiva.",
+"Correta.",
+"Autor ou réu.",
+"Chamamento."
+],
+"e": "Denunciação."
+},
+{
+"p": "Segundo o STF (Tema 940), a vítima de dano causado por servidor municipal no exercício da função",
+"alts": [
+"pode escolher entre processar o servidor ou o Município",
+"deve processar o servidor e o Município em litisconsórcio necessário",
+"deve processar o Município, sendo o servidor parte ilegítima, assegurado o regresso",
+"deve processar apenas o servidor",
+"não tem direito à indenização"
+],
+"r": 2,
+"x": "Tema 940.",
+"n": [
+"Dupla garantia.",
+"Não.",
+"Correta.",
+"Não.",
+"Tem."
+],
+"e": "Dupla garantia."
+},
+{
+"p": "É hipótese de chamamento ao processo:",
+"alts": [
+"do alienante, na evicção",
+"do servidor, em ação de responsabilidade do Estado",
+"dos demais devedores solidários, quando o credor exigir de um ou de alguns a dívida comum",
+"do sócio, na desconsideração",
+"do amicus curiae"
+],
+"r": 2,
+"x": "Art. 130, III.",
+"n": [
+"Denunciação.",
+"Denunciação.",
+"Correta.",
+"IDPJ.",
+"Não."
+],
+"e": "Chamamento."
+},
+{
+"p": "Sobre o incidente de desconsideração da personalidade jurídica, é INCORRETO afirmar:",
+"alts": [
+"cabe em todas as fases do processo de conhecimento",
+"aplica-se à desconsideração inversa",
+"é dispensado se requerido na inicial",
+"é resolvido por sentença, atacável por apelação",
+"o sócio será citado para se manifestar em 15 dias"
+],
+"r": 3,
+"x": "Arts. 133 a 136.",
+"n": [
+"Correta.",
+"Correta.",
+"Correta.",
+"Incorreta: decisão interlocutória, agravo.",
+"Correta."
+],
+"e": "IDPJ."
+},
+{
+"p": "Quanto ao amicus curiae, segundo o CPC,",
+"alts": [
+"só pode ser pessoa jurídica",
+"sua intervenção desloca a competência",
+"pode interpor qualquer recurso",
+"a decisão que o admite é irrecorrível, e ele pode opor embargos de declaração",
+"só atua no STF"
+],
+"r": 3,
+"x": "Art. 138.",
+"n": [
+"Pessoa natural também.",
+"Não.",
+"Só ED e IRDR.",
+"Correta.",
+"Qualquer grau."
+],
+"e": "Amicus."
+},
+{
+"p": "É hipótese de impedimento do juiz:",
+"alts": [
+"ser amigo íntimo da parte",
+"receber presentes de interessado",
+"ter conhecido do processo em outro grau de jurisdição, tendo proferido decisão",
+"ser credor da parte",
+"aconselhar a parte"
+],
+"r": 2,
+"x": "Art. 144, II.",
+"n": [
+"Suspeição.",
+"Suspeição.",
+"Correta.",
+"Suspeição.",
+"Suspeição."
+],
+"e": "Impedimento."
+},
+{
+"p": "Segundo o CPC, a intervenção do Ministério Público como fiscal da ordem jurídica",
+"alts": [
+"é obrigatória em toda causa em que a Fazenda é parte",
+"é obrigatória em processos que envolvam interesse de incapaz, e a participação da Fazenda, por si só, não a exige",
+"ocorre em 15 dias",
+"gera nulidade automática se faltar",
+"dá ao MP vista antes das partes"
+],
+"r": 1,
+"x": "Art. 178.",
+"n": [
+"Parágrafo único.",
+"Correta.",
+"30 dias.",
+"Exige prejuízo.",
+"Depois das partes."
+],
+"e": "MP."
+},
+{
+"p": "Sobre as prerrogativas processuais da Fazenda Pública, assinale a correta.",
+"alts": [
+"o prazo em dobro abrange as empresas públicas",
+"aplica-se o prazo em dobro mesmo quando a lei fixa prazo próprio",
+"a intimação pessoal far-se-á por carga, remessa ou meio eletrônico",
+"o prazo para impugnar o cumprimento de sentença é de 60 dias",
+"só abrange a contestação"
+],
+"r": 2,
+"x": "Art. 183.",
+"n": [
+"Direito privado.",
+"Não (§ 2º).",
+"Correta.",
+"30 dias, próprio.",
+"Todas as manifestações."
+],
+"e": "Fazenda."
+},
+{
+"p": "Segundo o STF (Tema 1.002), quanto aos honorários devidos à Defensoria Pública,",
+"alts": [
+"são vedados contra o ente que a Defensoria integra",
+"podem ser rateados entre os defensores",
+"são devidos contra qualquer ente público, inclusive o que integra, destinados ao aparelhamento da instituição",
+"só são devidos contra particulares",
+"dependem de lei complementar federal"
+],
+"r": 2,
+"x": "Tema 1.002.",
+"n": [
+"Superado.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Defensoria."
+},
+{
+"p": "A Câmara de Vereadores, segundo a Súmula 525 do STJ,",
+"alts": [
+"tem personalidade jurídica plena",
+"não pode demandar em juízo",
+"tem apenas personalidade judiciária, podendo demandar para defender seus direitos institucionais",
+"é representada pelo Prefeito",
+"pode cobrar tributos em nome próprio"
+],
+"r": 2,
+"x": "Súmula 525.",
+"n": [
+"Não.",
+"Pode, limitadamente.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Câmara."
+},
+{
+"p": "Os honorários de sucumbência fixados em favor do advogado",
+"alts": [
+"pertencem à parte vencedora",
+"podem ser compensados em caso de sucumbência parcial",
+"constituem direito do advogado e têm natureza alimentar",
+"podem ser fixados por equidade em causas de valor elevado",
+"não são devidos em grau recursal"
+],
+"r": 2,
+"x": "Art. 85, §§ 11 e 14.",
+"n": [
+"Ao advogado.",
+"Vedada.",
+"Correta.",
+"Tema 1.076.",
+"Majoração recursal."
+],
+"e": "Honorários."
+}
+]
+},
+"atos-prazos": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>dias úteis</b><span>só os prazos processuais em dias se contam em dias úteis (CPC, art. 219)</span></div><div class=\"lt-stat\"><b>20/12 a 20/1</b><span>suspensão dos prazos no fim do ano (art. 220)</span></div><div class=\"lt-stat\"><b>2 dias úteis</b><span>prazo para enviar a citação eletrônica após a decisão que a determinar (art. 246, Lei 14.195/2021)</span></div><div class=\"lt-stat\"><b>3 dias úteis</b><span>prazo para o citado confirmar o recebimento da citação eletrônica (art. 246, § 1º-A)</span></div></div>\n<h3>1. Forma dos atos processuais</h3>\n<ul><li><b>Liberdade e instrumentalidade das formas</b> (art. 188): os atos e os termos processuais <b>independem de forma determinada</b>, salvo quando a lei expressamente a exigir, considerando-se <b>válidos</b> os que, realizados de outro modo, lhe preencham a <b>finalidade essencial</b>. O art. 277 reforça: quando a lei prescrever determinada forma, o juiz considerará válido o ato se, realizado de outro modo, lhe alcançar a finalidade.</li><li><b>Publicidade e segredo de justiça</b> (art. 189): os atos processuais são <b>públicos</b>, todavia tramitam em <b>segredo de justiça</b> os processos: I, em que o exija o <b>interesse público ou social</b>; II, que versem sobre <b>casamento, separação de corpos, divórcio, separação, união estável, filiação, alimentos e guarda</b> de crianças e adolescentes; III, em que constem dados protegidos pelo direito constitucional à <b>intimidade</b>; IV, que versem sobre <b>arbitragem</b>, inclusive sobre cumprimento de carta arbitral, desde que a confidencialidade estipulada na arbitragem seja comprovada perante o juízo. O direito de consultar os autos de processo que tramite em segredo de justiça e de pedir certidões de seus atos é restrito às <b>partes e aos seus procuradores</b> (§ 1º). O terceiro que demonstrar <b>interesse jurídico</b> pode requerer ao juiz certidão do dispositivo da sentença, bem como de inventário e de partilha resultantes de divórcio ou separação (§ 2º).</li><li><b>Língua</b> (art. 192): em todos os atos e termos do processo é obrigatório o uso da <b>língua portuguesa</b>. O documento redigido em língua estrangeira somente poderá ser juntado aos autos quando acompanhado de versão para a língua portuguesa tramitada por via diplomática ou pela autoridade central, ou firmada por <b>tradutor juramentado</b>.</li><li><b>Atos eletrônicos</b> (arts. 193 a 199): os atos processuais podem ser total ou parcialmente digitais, de forma a permitir que sejam produzidos, comunicados, armazenados e validados por meio eletrônico. Os sistemas de automação processual respeitarão a publicidade dos atos, o acesso e a participação das partes e de seus procuradores, inclusive nas audiências e sessões de julgamento. As unidades do Poder Judiciário deverão manter gratuitamente, à disposição dos interessados, equipamentos necessários à prática de atos processuais e à consulta e ao acesso ao sistema e aos documentos dele constantes (art. 198).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os atos processuais dependem sempre de forma determinada</span><br>✅ <span class=\"certo\"><b>Independem</b> de forma, salvo exigência legal, valendo se atingirem a finalidade (art. 188)</span></li><li>❌ <span class=\"banca\">Os processos de alimentos são públicos</span><br>✅ <span class=\"certo\">Tramitam em <b>segredo de justiça</b> (art. 189, II)</span></li><li>❌ <span class=\"banca\">Terceiro com interesse jurídico pode consultar todos os autos em segredo de justiça</span><br>✅ <span class=\"certo\">Pode requerer certidão do <b>dispositivo</b> da sentença e de inventário e partilha (art. 189, § 2º)</span></li><li>❌ <span class=\"banca\">Documento em língua estrangeira pode ser juntado sem tradução</span><br>✅ <span class=\"certo\">Exige versão em português por via diplomática, autoridade central ou <b>tradutor juramentado</b> (art. 192)</span></li></ol></div>\n<h3>2. Atos das partes e pronunciamentos do juiz</h3>\n<ul><li><b>Atos das partes</b> (art. 200): os atos das partes consistentes em declarações unilaterais ou bilaterais de vontade produzem <b>imediatamente</b> a constituição, modificação ou extinção de direitos processuais. A <b>desistência da ação</b>, porém, só produzirá efeitos após <b>homologação judicial</b> (parágrafo único). Oferecida a contestação, o autor não poderá, <b>sem o consentimento do réu</b>, desistir da ação (art. 485, § 4º), e a desistência pode ser apresentada <b>até a sentença</b> (art. 485, § 5º).</li><li><b>Pronunciamentos do juiz</b> (art. 203): consistirão em <b>sentenças</b>, <b>decisões interlocutórias</b> e <b>despachos</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Pronunciamento</th><th>Conceito (art. 203)</th><th>Recurso</th></tr></thead><tbody><tr><td><b>Sentença</b></td><td>o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487, <b>põe fim à fase cognitiva</b> do procedimento comum, bem como <b>extingue a execução</b>, ressalvadas as disposições expressas dos procedimentos especiais</td><td><b>apelação</b></td></tr><tr><td><b>Decisão interlocutória</b></td><td>todo pronunciamento judicial de natureza <b>decisória</b> que <b>não se enquadre</b> no conceito de sentença (conceito por exclusão)</td><td><b>agravo de instrumento</b> nas hipóteses do art. 1.015; nas demais, impugnação em preliminar de apelação</td></tr><tr><td><b>Despacho</b></td><td>todos os demais pronunciamentos do juiz praticados no processo, de ofício ou a requerimento da parte (sem conteúdo decisório)</td><td><b>irrecorrível</b> (art. 1.001)</td></tr><tr><td><b>Acórdão</b> (art. 204)</td><td>o julgamento colegiado proferido pelos tribunais</td><td>recursos aos tribunais superiores, embargos de declaração</td></tr></tbody></table>\n<ul><li><b>Atos ordinatórios</b> (art. 203, § 4º): os atos meramente ordinatórios, como a <b>juntada</b> e a <b>vista obrigatória</b>, independem de despacho, devendo ser praticados de ofício pelo servidor e revistos pelo juiz quando necessário. É a forma de concretizar a indelegabilidade da jurisdição sem travar o processo.</li><li><b>Sentença parcial</b>: o CPC/2015 admite o <b>julgamento antecipado parcial do mérito</b> (art. 356), mas o pronunciamento que o faz é <b>decisão interlocutória</b> (não põe fim à fase cognitiva), atacável por <b>agravo de instrumento</b> (art. 356, § 5º, e art. 1.015, II).</li><li><b>Assinatura e publicação</b> (art. 205): os despachos, as decisões, as sentenças e os acórdãos serão redigidos, datados e assinados pelos juízes. Quando os pronunciamentos forem proferidos <b>oralmente</b>, o servidor os documentará, submetendo-os aos juízes para revisão e assinatura. Os despachos, as decisões interlocutórias, o dispositivo das sentenças e a ementa dos acórdãos serão publicados no <b>Diário de Justiça Eletrônico</b> (§ 3º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A desistência da ação produz efeitos imediatamente, como os demais atos das partes</span><br>✅ <span class=\"certo\">Só produz efeitos após <b>homologação judicial</b> (art. 200, parágrafo único)</span></li><li>❌ <span class=\"banca\">Despacho é recorrível por agravo de instrumento</span><br>✅ <span class=\"certo\">Despachos são <b>irrecorríveis</b> (art. 1.001)</span></li><li>❌ <span class=\"banca\">A decisão que julga antecipadamente parte do mérito é sentença</span><br>✅ <span class=\"certo\">É <b>decisão interlocutória</b>, atacável por <b>agravo de instrumento</b> (art. 356, § 5º)</span></li><li>❌ <span class=\"banca\">O autor pode desistir da ação após a contestação sem consentimento do réu</span><br>✅ <span class=\"certo\">Precisa do <b>consentimento</b> do réu (art. 485, § 4º)</span></li></ol></div>\n<h3>3. Tempo e lugar dos atos processuais</h3>\n<ul><li><b>Horário</b> (art. 212): os atos processuais serão realizados em <b>dias úteis</b>, das <b>6 às 20 horas</b>. Serão concluídos após as 20 horas os atos iniciados antes, quando o adiamento prejudicar a diligência ou causar grave dano (§ 1º). Independentemente de autorização judicial, as <b>citações, intimações e penhoras</b> poderão realizar-se no período de <b>férias forenses</b>, onde as houver, e nos <b>feriados ou dias úteis fora do horário</b> estabelecido, observado o art. 5º, XI, da CF (inviolabilidade do domicílio: só de dia, salvo flagrante, desastre, socorro) (§ 2º).</li><li><b>Protocolo físico</b> (art. 212, § 3º): quando o ato tiver de ser praticado por meio de petição em autos <b>não eletrônicos</b>, essa deverá ser protocolada no horário de funcionamento do fórum ou tribunal, conforme o disposto na lei de organização judiciária local.</li><li><b>Atos eletrônicos</b> (art. 213): a prática eletrônica de ato processual pode ocorrer em qualquer horário até as <b>24 horas do último dia do prazo</b>. O horário vigente no juízo perante o qual o ato deve ser praticado será considerado para fins de atendimento do prazo (parágrafo único).</li><li><b>Férias e feriados</b> (arts. 214 a 216): durante as férias forenses e nos feriados, <b>não se praticarão atos processuais</b>, excetuando-se as citações, intimações e penhoras e a <b>tutela de urgência</b>. Processam-se durante as férias forenses, onde as houver, e <b>não se suspendem</b> pela superveniência delas: os procedimentos de <b>jurisdição voluntária</b> e os necessários à conservação de direitos, quando puderem ser prejudicados pelo adiamento; a ação de <b>alimentos</b> e os processos de nomeação ou remoção de tutor e curador; e os processos que a lei determinar (art. 215). Além dos declarados em lei, são <b>feriados</b>, para efeito forense, os <b>sábados</b>, os <b>domingos</b> e os dias em que <b>não haja expediente forense</b> (art. 216).</li><li><b>Lugar</b> (art. 217): os atos processuais realizar-se-ão ordinariamente na <b>sede do juízo</b>, ou, excepcionalmente, em outro lugar em razão de deferência, de interesse da justiça, da natureza do ato ou de obstáculo arguido pelo interessado e acolhido pelo juiz.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os atos processuais podem ser praticados entre 6 e 22 horas</span><br>✅ <span class=\"certo\">Das <b>6 às 20 horas</b> (art. 212)</span></li><li>❌ <span class=\"banca\">O ato eletrônico deve ser praticado até o fim do expediente forense</span><br>✅ <span class=\"certo\">Pode ser praticado até as <b>24 horas</b> do último dia (art. 213)</span></li><li>❌ <span class=\"banca\">Citações e penhoras em feriados dependem de autorização judicial</span><br>✅ <span class=\"certo\"><b>Independem</b> de autorização (art. 212, § 2º)</span></li><li>❌ <span class=\"banca\">Sábado não é feriado forense</span><br>✅ <span class=\"certo\">Para efeito forense, sábados e domingos <b>são feriados</b> (art. 216)</span></li></ol></div>\n<h3>4. Prazos: regras gerais e contagem em dias úteis</h3>\n<ul><li><b>Fixação</b> (art. 218): os atos processuais serão realizados nos prazos prescritos em <b>lei</b>. Quando a lei for omissa, o <b>juiz</b> determinará os prazos em consideração à complexidade do ato. Quando a lei ou o juiz não determinar prazo, as intimações somente obrigarão a comparecimento após decorridas <b>48 horas</b> (§ 2º). Inexistindo preceito legal ou prazo determinado pelo juiz, será de <b>5 dias</b> o prazo para a prática de ato processual a cargo da parte (§ 3º). Será considerado <b>tempestivo</b> o ato praticado <b>antes do termo inicial</b> do prazo (§ 4º): acabou a polêmica do \"recurso prematuro\".</li><li><b>Dias úteis</b> (art. 219): na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão <b>somente os dias úteis</b>. O disposto neste artigo aplica-se <b>somente aos prazos processuais</b> (parágrafo único). Prazos <b>materiais</b> (prescrição, decadência, prazo para pagamento voluntário de dívida civil) correm em dias corridos.</li><li><b>Polêmicas sobre dias úteis</b>: o STJ entende que o prazo de <b>15 dias para pagamento voluntário</b> no cumprimento de sentença (art. 523) é <b>processual</b> e conta-se em <b>dias úteis</b> (porque é ato praticado no processo, com consequências processuais). O prazo de <b>120 dias</b> para impetrar mandado de segurança é <b>decadencial</b> (material): conta-se em dias corridos. Nos <b>Juizados Especiais</b>, a Lei 13.728/2018 incluiu o art. 12-A na Lei 9.099: na contagem de prazo em dias, para a prática de qualquer ato processual, inclusive para a interposição de recursos, computar-se-ão <b>somente os dias úteis</b>. No <b>processo penal</b>, os prazos continuam corridos (CPP, art. 798).</li><li><b>Recesso de fim de ano</b> (art. 220): <b>suspende-se</b> o curso do prazo processual nos dias compreendidos entre <b>20 de dezembro e 20 de janeiro</b>, inclusive. Ressalvadas as férias individuais e os feriados instituídos por lei, os juízes, os membros do MP, da Defensoria Pública e da Advocacia Pública e os auxiliares da Justiça <b>exercerão suas atribuições</b> durante esse período (§ 1º). Durante a suspensão do prazo, <b>não se realizarão audiências nem sessões de julgamento</b> (§ 2º). Note: é <b>suspensão</b> (o prazo volta a correr do ponto em que parou), e não interrupção.</li><li><b>Suspensão por obstáculo</b> (art. 221): suspende-se o curso do prazo por <b>obstáculo criado em detrimento da parte</b> ou ocorrendo qualquer das hipóteses do art. 313, devendo o prazo ser restituído por tempo igual ao que faltava para sua complementação. Suspendem-se os prazos durante a execução de <b>programa instituído pelo Poder Judiciário para promover a autocomposição</b> (parágrafo único), como as semanas de conciliação.</li><li><b>Prorrogação</b> (art. 222): na comarca, seção ou subseção judiciária onde for <b>difícil o transporte</b>, o juiz poderá prorrogar os prazos por até <b>2 meses</b>. Ao juiz é <b>vedado reduzir prazos peremptórios sem anuência das partes</b> (§ 1º). Havendo <b>calamidade pública</b>, o limite previsto para prorrogação de prazos poderá ser <b>excedido</b> (§ 2º).</li><li><b>Preclusão temporal e justa causa</b> (art. 223): decorrido o prazo, extingue-se o direito de praticar ou de emendar o ato processual, <b>independentemente de declaração judicial</b>, ficando assegurado, porém, à parte provar que <b>não o realizou por justa causa</b>. Considera-se justa causa o <b>evento alheio à vontade da parte</b> e que a impediu de praticar o ato por si ou por mandatário (§ 1º). Verificada a justa causa, o juiz permitirá à parte a prática do ato no prazo que lhe assinar (§ 2º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todos os prazos previstos no CPC, inclusive os materiais, contam-se em dias úteis</span><br>✅ <span class=\"certo\">Só os prazos <b>processuais</b> (art. 219, parágrafo único)</span></li><li>❌ <span class=\"banca\">O recesso de 20/12 a 20/1 interrompe os prazos</span><br>✅ <span class=\"certo\"><b>Suspende</b> os prazos (art. 220)</span></li><li>❌ <span class=\"banca\">Ato praticado antes do termo inicial do prazo é intempestivo</span><br>✅ <span class=\"certo\">É <b>tempestivo</b> (art. 218, § 4º)</span></li><li>❌ <span class=\"banca\">Sem prazo legal ou judicial, a parte tem 15 dias para praticar o ato</span><br>✅ <span class=\"certo\">São <b>5 dias</b> (art. 218, § 3º)</span></li><li>❌ <span class=\"banca\">O juiz pode reduzir prazos peremptórios livremente</span><br>✅ <span class=\"certo\">Precisa da <b>anuência das partes</b> (art. 222, § 1º)</span></li></ol></div>\n<h3>5. Início da contagem dos prazos</h3>\n<ul><li><b>Exclusão do dia do começo</b> (art. 224): salvo disposição em contrário, os prazos serão contados <b>excluindo o dia do começo</b> e <b>incluindo o dia do vencimento</b>. Os dias do começo e do vencimento do prazo serão <b>protraídos para o primeiro dia útil seguinte</b>, se coincidirem com dia em que o expediente forense for encerrado antes ou iniciado depois da hora normal ou houver <b>indisponibilidade da comunicação eletrônica</b> (§ 1º).</li><li><b>Diário eletrônico</b> (art. 224, §§ 2º e 3º): considera-se como <b>data de publicação</b> o <b>primeiro dia útil seguinte</b> ao da <b>disponibilização</b> da informação no Diário da Justiça eletrônico. A contagem do prazo terá início no <b>primeiro dia útil que seguir ao da publicação</b>. Exemplo: disponibilização na segunda-feira; publicação na terça; primeiro dia do prazo na quarta.</li><li><b>Dia do começo do prazo</b> (art. 231): salvo disposição em sentido diverso, considera-se dia do começo do prazo:</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma da comunicação</th><th>Dia do começo do prazo (art. 231)</th></tr></thead><tbody><tr><td><b>Correio</b></td><td>data de <b>juntada aos autos do aviso de recebimento</b> (I)</td></tr><tr><td><b>Oficial de justiça</b></td><td>data de <b>juntada aos autos do mandado cumprido</b> (II)</td></tr><tr><td><b>Ato do escrivão ou chefe de secretaria</b> (comparecimento em cartório)</td><td>data de ocorrência da citação ou da intimação (III)</td></tr><tr><td><b>Edital</b></td><td>o dia útil seguinte ao fim da <b>dilação</b> assinada pelo juiz (IV)</td></tr><tr><td><b>Eletrônica</b> (Lei 11.419)</td><td>o dia útil seguinte à <b>consulta ao teor</b> da citação ou da intimação ou ao término do prazo para que a consulta se dê (V)</td></tr><tr><td><b>Carta</b> (precatória, rogatória, de ordem)</td><td>data de juntada do comunicado ou, não havendo, da juntada da carta aos autos de origem devidamente cumprida (VI)</td></tr><tr><td><b>Diário da Justiça</b></td><td>data de <b>publicação</b> (VII)</td></tr><tr><td><b>Retirada dos autos</b> (carga)</td><td>o dia da carga (VIII)</td></tr><tr><td><b>Citação por meio eletrônico do art. 246</b> (Lei 14.195/2021)</td><td>o <b>quinto dia útil</b> seguinte à <b>confirmação</b>, na forma prevista na mensagem de citação, do recebimento da citação realizada por meio eletrônico (IX)</td></tr></tbody></table>\n<ul><li><b>Pluralidade de réus</b> (art. 231, § 1º): quando houver <b>mais de um réu</b>, o dia do começo do prazo para <b>contestar</b> corresponderá à <b>última</b> das datas a que se referem os incisos I a VI. Quando o ato tiver de ser praticado diretamente pela parte ou por quem, de qualquer forma, participe do processo, sem a intermediação de representante judicial, o dia do começo do prazo para cumprimento da determinação judicial corresponderá à data em que se der a comunicação (§ 3º).</li><li><b>Intimação eletrônica tácita</b> (Lei 11.419, art. 5º, § 3º): a consulta ao teor da intimação eletrônica deverá ser feita em até <b>10 dias corridos</b> contados da data do envio da intimação, sob pena de considerar-se a intimação <b>automaticamente realizada</b> na data do término desse prazo.</li><li><b>Prazos do juiz</b> (art. 226): o juiz proferirá: I, os <b>despachos</b> no prazo de <b>5 dias</b>; II, as <b>decisões interlocutórias</b> no prazo de <b>10 dias</b>; III, as <b>sentenças</b> no prazo de <b>30 dias</b>. Em qualquer grau de jurisdição, havendo <b>motivo justificado</b>, o juiz pode exceder, por igual tempo, os prazos a que está submetido (art. 227). São <b>prazos impróprios</b>: seu descumprimento não gera preclusão, mas pode gerar responsabilidade disciplinar e <b>representação</b> contra o juiz por excesso de prazo (art. 235).</li><li><b>Serventuário</b> (art. 228): incumbirá ao serventuário remeter os autos conclusos no prazo de <b>1 dia</b> e executar os atos processuais no prazo de <b>5 dias</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Com o Diário eletrônico, a data da publicação é o dia da disponibilização</span><br>✅ <span class=\"certo\">É o <b>primeiro dia útil seguinte</b> à disponibilização (art. 224, § 2º)</span></li><li>❌ <span class=\"banca\">Havendo vários réus citados por correio, o prazo de contestação corre para cada um a partir de sua juntada</span><br>✅ <span class=\"certo\">Corre da <b>última</b> juntada (art. 231, § 1º)</span></li><li>❌ <span class=\"banca\">Na citação eletrônica do art. 246, o prazo começa no dia útil seguinte à confirmação</span><br>✅ <span class=\"certo\">Começa no <b>quinto dia útil</b> seguinte à confirmação (art. 231, IX)</span></li><li>❌ <span class=\"banca\">A intimação eletrônica não consultada nunca se considera feita</span><br>✅ <span class=\"certo\">Considera-se feita ao fim de <b>10 dias corridos</b> do envio (Lei 11.419, art. 5º, § 3º)</span></li><li>❌ <span class=\"banca\">O juiz tem 15 dias para proferir sentença</span><br>✅ <span class=\"certo\">Tem <b>30 dias</b> (art. 226, III), prazo impróprio</span></li></ol></div>\n<h3>6. Prazos diferenciados: dobra e suas exceções</h3>\n<table class=\"tab\"><thead><tr><th>Sujeito</th><th>Prazo</th><th>Fundamento</th><th>Exceção</th></tr></thead><tbody><tr><td><b>Fazenda Pública</b> (União, Estados, DF, Municípios, autarquias e fundações de direito público)</td><td><b>dobro</b> para todas as manifestações, da intimação pessoal</td><td>art. 183</td><td>prazo próprio fixado em lei (§ 2º)</td></tr><tr><td><b>Ministério Público</b></td><td><b>dobro</b>, da intimação pessoal</td><td>art. 180</td><td>prazo próprio (§ 2º)</td></tr><tr><td><b>Defensoria Pública</b> e núcleos de prática jurídica conveniados</td><td><b>dobro</b>, da intimação pessoal</td><td>art. 186</td><td>prazo próprio (§ 4º)</td></tr><tr><td><b>Litisconsortes com procuradores diferentes</b>, de escritórios distintos</td><td><b>dobro</b>, independentemente de requerimento</td><td>art. 229</td><td><b>autos eletrônicos</b> (§ 2º); se só um de dois réus contestar (§ 1º)</td></tr></tbody></table>\n<ul><li><b>Não acumulação</b>: os prazos diferenciados <b>não se somam</b>. A Fazenda em litisconsórcio com outro ente público com procuradores diferentes não tem prazo quádruplo: tem o prazo em dobro do art. 183, e, nos autos eletrônicos, nem se cogita do art. 229.</li><li><b>Juizados</b>: nos Juizados Especiais da Fazenda Pública (Lei 12.153, art. 7º) e nos Juizados Especiais Federais (Lei 10.259, art. 9º), <b>não há prazo diferenciado</b> para a Fazenda, inclusive para recursos.</li><li><b>Mandado de segurança</b>: as <b>informações</b> da autoridade coatora devem ser prestadas em <b>10 dias</b> (Lei 12.016, art. 7º, I), prazo próprio que <b>não</b> se dobra. Já os <b>recursos</b> da pessoa jurídica no MS seguem o CPC (há divergência; prevalece que a Fazenda tem prazo em dobro para recorrer no MS, porque a Lei 12.016 não fixa prazo próprio para o recurso).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Fazenda em litisconsórcio com advogados diferentes tem prazo quádruplo</span><br>✅ <span class=\"certo\">Os benefícios <b>não se acumulam</b></span></li><li>❌ <span class=\"banca\">Nos Juizados da Fazenda Pública, a Fazenda tem prazo em dobro</span><br>✅ <span class=\"certo\"><b>Não</b> há prazo diferenciado (Lei 12.153, art. 7º)</span></li><li>❌ <span class=\"banca\">O prazo de informações no mandado de segurança é dobrado</span><br>✅ <span class=\"certo\">Os <b>10 dias</b> são prazo <b>próprio</b></span></li></ol></div>\n<h3>7. Citação: conceito, indispensabilidade e efeitos</h3>\n<ul><li><b>Conceito</b> (art. 238): citação é o ato pelo qual são convocados o <b>réu</b>, o <b>executado</b> ou o <b>interessado</b> para <b>integrar a relação processual</b>.</li><li><b>Indispensabilidade</b> (art. 239): para a validade do processo é indispensável a citação do réu ou do executado, <b>ressalvadas</b> as hipóteses de <b>indeferimento da petição inicial</b> ou de <b>improcedência liminar do pedido</b>. O <b>comparecimento espontâneo</b> do réu ou do executado <b>supre a falta ou a nulidade da citação</b>, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução (§ 1º). Rejeitada a alegação de nulidade, tratando-se de processo de conhecimento, o réu será considerado <b>revel</b>; tratando-se de processo de execução, o feito terá seguimento (§ 2º).</li><li><b>Vício transrescisório</b>: a falta ou a nulidade da citação no processo que correu à <b>revelia</b> é o vício mais grave do processo civil. Pode ser alegada a <b>qualquer tempo</b>, mesmo depois do prazo da ação rescisória, por <b>impugnação ao cumprimento de sentença</b> (art. 525, § 1º, I, e art. 535, I) ou por <b>ação declaratória de nulidade</b> (<i>querela nullitatis insanabilis</i>), que não se sujeita a prazo.</li><li><b>Efeitos da citação válida</b> (art. 240): a citação válida, <b>ainda quando ordenada por juízo incompetente</b>, <b>induz litispendência</b>, torna <b>litigiosa a coisa</b> e <b>constitui em mora o devedor</b>, ressalvado o disposto nos arts. 397 e 398 do Código Civil (mora <i>ex re</i> e mora no ato ilícito, que existem antes da citação).</li><li><b>Interrupção da prescrição</b> (art. 240, §§ 1º a 4º): a interrupção da prescrição, operada pelo <b>despacho que ordena a citação</b>, ainda que proferido por juízo incompetente, <b>retroagirá à data de propositura da ação</b>. Incumbe ao <b>autor</b> adotar, no prazo de <b>10 dias</b>, as providências necessárias para viabilizar a citação, sob pena de não se aplicar a retroação (§ 2º). A parte <b>não será prejudicada pela demora imputável exclusivamente ao serviço judiciário</b> (§ 3º; Súmula 106 do STJ: \"Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência\"). O efeito retroativo aplica-se à <b>decadência</b> e aos demais prazos extintivos previstos em lei (§ 4º).</li><li><b>Execução fiscal</b>: na execução fiscal de crédito tributário, a interrupção da prescrição ocorre pelo <b>despacho do juiz que ordenar a citação</b> (CTN, art. 174, parágrafo único, I, redação da LC 118/2005), retroagindo à data da propositura, conforme o STJ (Tema 383, REsp 1.120.295).</li></ul>\n<table class=\"tab\"><thead><tr><th>Efeito (art. 240)</th><th>Momento</th></tr></thead><tbody><tr><td>Litispendência</td><td>citação válida</td></tr><tr><td>Coisa litigiosa</td><td>citação válida</td></tr><tr><td>Constituição em mora</td><td>citação válida (salvo mora <i>ex re</i> e ato ilícito, CC, arts. 397 e 398)</td></tr><tr><td>Interrupção da prescrição</td><td><b>despacho que ordena a citação</b>, retroagindo à <b>propositura</b>, desde que o autor promova a citação em 10 dias</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A citação ordenada por juízo incompetente não produz efeitos</span><br>✅ <span class=\"certo\">Produz os efeitos do art. 240, <b>ainda quando ordenada por juízo incompetente</b></span></li><li>❌ <span class=\"banca\">A prescrição se interrompe pela citação válida</span><br>✅ <span class=\"certo\">Pelo <b>despacho que ordena a citação</b>, retroagindo à propositura (art. 240, § 1º)</span></li><li>❌ <span class=\"banca\">A demora do cartório na citação prejudica o autor</span><br>✅ <span class=\"certo\">Não prejudica (art. 240, § 3º; Súmula 106 do STJ)</span></li><li>❌ <span class=\"banca\">A falta de citação do revel só pode ser alegada em ação rescisória</span><br>✅ <span class=\"certo\">Pode ser alegada a <b>qualquer tempo</b> (impugnação ou <i>querela nullitatis</i>)</span></li></ol></div>\n<h3>8. Onde e em quem se faz a citação</h3>\n<ul><li><b>Pessoalidade</b> (art. 242): a citação será <b>pessoal</b>, podendo, no entanto, ser feita na pessoa do <b>representante legal</b> ou do <b>procurador do réu</b>, do executado ou do interessado. Na ausência do citando, a citação será feita na pessoa de seu mandatário, administrador, preposto ou gerente, quando a ação se originar de atos por eles praticados (§ 1º). O locador que se ausentar do Brasil sem cientificar o locatário de que deixou, na localidade onde estiver situado o imóvel, procurador com poderes para receber citação será citado na pessoa do <b>administrador do imóvel</b> encarregado do recebimento dos aluguéis (§ 2º).</li><li><b>Fazenda Pública</b> (art. 242, § 3º): a citação da <b>União, dos Estados, do DF, dos Municípios</b> e de suas respectivas <b>autarquias e fundações de direito público</b> será realizada <b>perante o órgão de Advocacia Pública</b> responsável por sua representação judicial. No Município sem Procuradoria estruturada, a citação é feita na pessoa do <b>Prefeito</b> (art. 75, III).</li><li><b>Local</b> (art. 243): a citação poderá ser feita em <b>qualquer lugar</b> em que se encontre o réu. O militar em serviço ativo será citado na unidade em que estiver servindo, se não for conhecida sua residência ou nela não for encontrado.</li><li><b>Vedações temporárias</b> (art. 244): <b>não se fará a citação</b>, salvo para <b>evitar o perecimento do direito</b>: I, de quem estiver participando de <b>ato de culto religioso</b>; II, de <b>cônjuge, companheiro ou qualquer parente</b> do morto, consanguíneo ou afim, em linha reta ou na linha colateral em segundo grau, no dia do <b>falecimento</b> e nos <b>7 dias</b> seguintes; III, de <b>noivos</b>, nos <b>3 primeiros dias</b> seguintes ao casamento; IV, de <b>doente</b>, enquanto grave o seu estado.</li><li><b>Citando mentalmente incapaz</b> (art. 245): não se fará citação quando se verificar que o citando é <b>mentalmente incapaz</b> ou está impossibilitado de recebê-la. O oficial de justiça descreverá e certificará minuciosamente a ocorrência; o juiz nomeará médico para examinar o citando, que apresentará laudo no prazo de 5 dias; reconhecida a impossibilidade, o juiz nomeará <b>curador</b> ao citando, observando, quanto à sua escolha, a preferência estabelecida em lei e restringindo a nomeação à causa. A citação será feita na pessoa do curador, a quem incumbirá a defesa dos interesses do citando.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A citação do Município é feita no gabinete do Prefeito em qualquer caso</span><br>✅ <span class=\"certo\">É feita <b>perante o órgão de Advocacia Pública</b> responsável pela representação (art. 242, § 3º)</span></li><li>❌ <span class=\"banca\">É vedada a citação de noivos nos 7 dias seguintes ao casamento</span><br>✅ <span class=\"certo\">São os <b>3 primeiros dias</b> (art. 244, III); os 7 dias são do <b>luto</b></span></li><li>❌ <span class=\"banca\">O citando com doença grave pode ser citado normalmente</span><br>✅ <span class=\"certo\">Não se faz a citação <b>enquanto grave o estado</b>, salvo para evitar perecimento de direito</span></li><li>❌ <span class=\"banca\">A citação só pode ser feita no domicílio do réu</span><br>✅ <span class=\"certo\">Pode ser feita em <b>qualquer lugar</b> em que se encontre (art. 243)</span></li></ol></div>\n<h3>9. Modalidades de citação após a Lei 14.195/2021</h3>\n<ul><li><b>Ordem preferencial</b> (art. 246, com redação da Lei 14.195/2021): a citação será feita <b>preferencialmente por meio eletrônico</b>, no prazo de até <b>2 dias úteis</b>, contado da decisão que a determinar, por meio dos <b>endereços eletrônicos indicados pelo citando no banco de dados do Poder Judiciário</b>, conforme regulamento do CNJ. Se não houver confirmação, far-se-á: I, pelo <b>correio</b>; II, por <b>oficial de justiça</b>; III, pelo <b>escrivão ou chefe de secretaria</b>, se o citando comparecer em cartório; IV, por <b>edital</b>.</li><li><b>Confirmação</b> (§ 1º-A): a ausência de confirmação, em até <b>3 dias úteis</b> contados do recebimento da citação eletrônica, implicará a realização da citação por outros meios. Na primeira oportunidade de falar nos autos, o réu citado por outra forma deverá apresentar <b>justa causa</b> para a ausência de confirmação do recebimento da citação enviada eletronicamente (§ 1º-B). Considera-se <b>ato atentatório à dignidade da justiça</b>, passível de <b>multa de até 5%</b> do valor da causa, deixar de confirmar no prazo legal, <b>sem justa causa</b>, o recebimento da citação recebida por meio eletrônico (§ 1º-C).</li><li><b>Cadastro obrigatório</b> (§§ 1º e 2º): com exceção das <b>microempresas e das empresas de pequeno porte</b>, as <b>empresas públicas e privadas</b> são obrigadas a manter <b>cadastro</b> nos sistemas de processo em autos eletrônicos, para efeito de recebimento de citações e intimações, as quais serão efetuadas preferencialmente por esse meio. O disposto aplica-se à <b>União, aos Estados, ao DF, aos Municípios</b> e às entidades da <b>administração indireta</b>.</li><li><b>Usucapião</b> (§ 3º): na ação de usucapião de imóvel, os <b>confinantes</b> serão citados <b>pessoalmente</b>, <b>exceto</b> quando tiver por objeto unidade autônoma de prédio em <b>condomínio</b>, caso em que tal citação é dispensada.</li><li><b>Citação por correio</b> (arts. 247 e 248): a citação será feita pelo correio para qualquer comarca do país, <b>exceto</b>: I, nas ações de <b>estado</b>, observado o art. 695, § 3º; II, quando o citando for <b>incapaz</b>; III, quando o citando for <b>pessoa de direito público</b>; IV, quando o citando residir em local <b>não atendido</b> pela entrega domiciliar de correspondência; V, quando o autor, <b>justificadamente</b>, a requerer de outra forma. Sendo o citando <b>pessoa jurídica</b>, será válida a entrega do mandado a pessoa com poderes de gerência geral ou de administração ou, ainda, a <b>funcionário responsável pelo recebimento de correspondências</b> (art. 248, § 2º; teoria da aparência). Nos <b>condomínios edilícios</b> ou nos loteamentos com controle de acesso, será válida a entrega do mandado a <b>funcionário da portaria</b> responsável pelo recebimento de correspondência, que, entretanto, poderá recusar o recebimento, se declarar, por escrito, sob as penas da lei, que o destinatário da correspondência está ausente (§ 4º).</li><li><b>Oficial de justiça</b> (arts. 249 a 251): a citação será feita por meio de oficial de justiça nas hipóteses previstas no CPC ou em lei, ou quando frustrada a citação pelo correio. O oficial lerá o mandado e entregará a contrafé, portará por fé se o citando recebeu ou recusou a contrafé, e obterá a nota de ciente ou certificará que o citando não a apôs no mandado.</li><li><b>Hora certa</b> (arts. 252 a 254): quando, por <b>2 vezes</b>, o oficial de justiça houver procurado o citando em seu domicílio ou residência <b>sem o encontrar</b>, deverá, havendo <b>suspeita de ocultação</b>, intimar qualquer pessoa da família ou, em sua falta, qualquer vizinho de que, no dia útil imediato, voltará a fim de efetuar a citação, na hora que designar. Nos condomínios edilícios ou loteamentos com controle de acesso, será válida a intimação feita a funcionário da portaria. Feita a citação com hora certa, o escrivão ou chefe de secretaria enviará ao réu, executado ou interessado, no prazo de <b>10 dias</b>, contado da data da juntada do mandado aos autos, <b>carta, telegrama ou correspondência eletrônica</b>, dando-lhe de tudo ciência (art. 254). O réu citado por hora certa que for revel recebe <b>curador especial</b> (art. 72, II).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A citação eletrônica deve ser enviada em até 5 dias úteis</span><br>✅ <span class=\"certo\">Em até <b>2 dias úteis</b> da decisão (art. 246)</span></li><li>❌ <span class=\"banca\">O citando tem 5 dias úteis para confirmar a citação eletrônica</span><br>✅ <span class=\"certo\">Tem <b>3 dias úteis</b> (§ 1º-A)</span></li><li>❌ <span class=\"banca\">Deixar de confirmar a citação eletrônica sem justa causa gera multa de até 20%</span><br>✅ <span class=\"certo\">Multa de até <b>5%</b> do valor da causa (§ 1º-C)</span></li><li>❌ <span class=\"banca\">Microempresas são obrigadas a manter cadastro para citação eletrônica</span><br>✅ <span class=\"certo\">Estão <b>excetuadas</b> (art. 246, § 1º)</span></li><li>❌ <span class=\"banca\">A pessoa jurídica de direito público pode ser citada pelo correio</span><br>✅ <span class=\"certo\">É <b>vedada</b> (art. 247, III)</span></li><li>❌ <span class=\"banca\">Basta uma tentativa frustrada para a citação por hora certa</span><br>✅ <span class=\"certo\">São <b>2 vezes</b>, com <b>suspeita de ocultação</b> (art. 252)</span></li></ol></div>\n<h3>10. Citação por edital</h3>\n<ul><li><b>Hipóteses</b> (art. 256): a citação por edital será feita: I, quando <b>desconhecido ou incerto</b> o citando; II, quando <b>ignorado, incerto ou inacessível</b> o lugar em que se encontrar o citando; III, nos casos expressos em lei. Considera-se inacessível, para efeito de citação por edital, o <b>país que recusar o cumprimento de carta rogatória</b> (§ 1º). O réu será considerado em local ignorado ou incerto se infrutíferas as tentativas de sua localização, inclusive mediante <b>requisição</b> pelo juízo de informações sobre seu endereço nos <b>cadastros de órgãos públicos</b> ou de concessionárias de serviços públicos (§ 3º). Ou seja, o edital é <b>último recurso</b>.</li><li><b>Requisitos</b> (art. 257): a afirmação do autor ou a certidão do oficial informando a presença das circunstâncias autorizadoras; a publicação do edital na <b>rede mundial de computadores</b>, no sítio do respectivo tribunal e na plataforma de editais do CNJ, que deve ser certificada nos autos; a determinação, pelo juiz, do <b>prazo</b>, que variará <b>entre 20 e 60 dias</b>, fluindo da data da publicação única ou, havendo mais de uma, da primeira; a advertência de que será nomeado <b>curador especial</b> em caso de revelia. O juiz poderá determinar que a publicação do edital seja feita também em <b>jornal local</b> de ampla circulação ou por outros meios, considerando as peculiaridades da comarca (parágrafo único).</li><li><b>Má-fé</b> (art. 258): a parte que requerer a citação por edital, alegando <b>dolosamente</b> a ocorrência das circunstâncias autorizadoras para sua realização, incorrerá em <b>multa de 5 vezes o salário mínimo</b>, que reverterá em benefício do <b>citando</b>.</li><li><b>Publicação obrigatória de editais</b> (art. 259): serão publicados editais: I, na ação de <b>usucapião</b> de imóvel; II, na ação de recuperação ou substituição de título ao portador; III, em qualquer ação em que seja necessária, por determinação legal, a provocação, para participação no processo, de <b>interessados incertos ou desconhecidos</b>.</li><li><b>Execução fiscal</b> (Súmula 414 do STJ): \"A citação por edital na execução fiscal é cabível quando <b>frustradas as demais modalidades</b>.\"</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O prazo do edital varia entre 10 e 30 dias</span><br>✅ <span class=\"certo\">Varia entre <b>20 e 60 dias</b> (art. 257, III)</span></li><li>❌ <span class=\"banca\">A citação por edital pode ser a primeira tentativa em execução fiscal</span><br>✅ <span class=\"certo\">Só quando <b>frustradas as demais modalidades</b> (Súmula 414 do STJ)</span></li><li>❌ <span class=\"banca\">A multa por requerimento doloso de edital reverte ao Estado</span><br>✅ <span class=\"certo\">Reverte ao <b>citando</b> (art. 258)</span></li><li>❌ <span class=\"banca\">Considera-se inacessível o país que demora a cumprir carta rogatória</span><br>✅ <span class=\"certo\">É o país que <b>recusar</b> o cumprimento (art. 256, § 1º)</span></li></ol></div>\n<h3>11. Cartas e intimações</h3>\n<ul><li><b>Requisitos das cartas</b> (art. 260): indicação dos juízes de origem e de cumprimento do ato; inteiro teor da petição, do despacho judicial e do instrumento do mandato conferido ao advogado; menção do ato processual que lhe constitui o objeto; encerramento com a assinatura do juiz. Em todas as cartas o juiz fixará o <b>prazo para cumprimento</b>, atendendo à facilidade das comunicações e à natureza da diligência (art. 261). A carta tem <b>caráter itinerante</b>: antes ou depois de lhe ser ordenado o cumprimento, poderá ser apresentada a juízo diverso do que dela consta, a fim de se praticar o ato (art. 262). As cartas deverão, <b>preferencialmente</b>, ser expedidas por <b>meio eletrônico</b> (art. 263).</li><li><b>Recusa de cumprimento</b> (art. 267): o juiz <b>recusará</b> cumprimento a carta precatória ou arbitral, devolvendo-a com decisão motivada, quando: I, a carta não estiver revestida dos requisitos legais; II, faltar ao juiz <b>competência em razão da matéria ou da hierarquia</b>; III, o juiz tiver <b>dúvida acerca de sua autenticidade</b>. No caso de incompetência em razão da matéria ou da hierarquia, o juiz deprecado, conforme o ato a ser praticado, poderá remeter a carta ao juiz ou ao tribunal competente.</li><li><b>Intimação</b> (art. 269): é o ato pelo qual se dá <b>ciência a alguém dos atos e dos termos do processo</b>. É facultado aos <b>advogados</b> promover a intimação do advogado da parte contrária por meio do <b>correio</b>, juntando aos autos, a seguir, cópia do ofício de intimação e do aviso de recebimento (§ 1º). O ofício de intimação deverá ser instruído com cópia do despacho, da decisão ou da sentença (§ 2º). A intimação da <b>União, dos Estados, do DF, dos Municípios</b> e de suas autarquias e fundações de direito público será realizada perante o <b>órgão de Advocacia Pública</b> responsável por sua representação judicial (§ 3º).</li><li><b>Meio eletrônico</b> (art. 270): as intimações realizam-se, <b>sempre que possível, por meio eletrônico</b>, na forma da lei. Aplica-se ao <b>MP</b>, à <b>Defensoria Pública</b> e à <b>Advocacia Pública</b> o disposto no § 1º do art. 246 (cadastro obrigatório).</li><li><b>Publicação no Diário</b> (art. 272): quando não realizadas por meio eletrônico, consideram-se feitas as intimações pela publicação dos atos no órgão oficial. É <b>indispensável</b>, sob pena de <b>nulidade</b>, que da publicação constem os <b>nomes das partes</b> e de seus advogados, com o respectivo número de inscrição na OAB, ou, se assim requerido, da <b>sociedade de advogados</b> (§ 2º). Constando dos autos pedido expresso para que as comunicações dos atos processuais sejam feitas em <b>nome dos advogados indicados</b>, o seu desatendimento implicará <b>nulidade</b> (§ 5º). A <b>retirada dos autos</b> do cartório ou da secretaria em carga pelo advogado, por pessoa credenciada a pedido do advogado ou da sociedade de advogados, pela Advocacia Pública, pela Defensoria Pública ou pelo MP implicará <b>intimação de qualquer decisão</b> contida no processo retirado, ainda que pendente de publicação (§ 6º).</li><li><b>Nulidade da intimação</b> (art. 272, §§ 8º e 9º): a parte arguirá a nulidade da intimação em <b>capítulo preliminar</b> do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido. Não sendo possível a prática imediata do ato diante da necessidade de acesso prévio aos autos, a parte limitar-se-á a arguir a nulidade da intimação, caso em que o prazo será contado da intimação da decisão que a reconheça.</li><li><b>Intimação pessoal pelo oficial</b> (art. 275): a intimação será feita por <b>oficial de justiça</b> quando <b>frustrada</b> a realização por meio eletrônico ou pelo correio. Caso necessário, a intimação poderá ser efetuada com <b>hora certa</b> ou por <b>edital</b> (§ 2º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O juiz deprecado deve cumprir a carta mesmo se faltar competência em razão da matéria</span><br>✅ <span class=\"certo\">Deve <b>recusar</b> o cumprimento (art. 267, II)</span></li><li>❌ <span class=\"banca\">Os advogados não podem intimar o advogado da parte contrária</span><br>✅ <span class=\"certo\">É <b>facultado</b> fazê-lo pelo <b>correio</b> (art. 269, § 1º)</span></li><li>❌ <span class=\"banca\">A carga dos autos pelo procurador não importa intimação</span><br>✅ <span class=\"certo\">Implica intimação de <b>qualquer decisão</b> contida no processo (art. 272, § 6º)</span></li><li>❌ <span class=\"banca\">A nulidade da intimação deve ser arguida em petição autônoma</span><br>✅ <span class=\"certo\">Em <b>capítulo preliminar</b> do próprio ato (art. 272, § 8º)</span></li></ol></div>\n<h3>12. Nulidades processuais</h3>\n<ul><li><b>Sistema das nulidades</b>: o CPC adota o princípio da <b>instrumentalidade das formas</b> e o da <b>ausência de prejuízo</b> (<i>pas de nullité sans grief</i>): <b>não se decreta nulidade sem prejuízo</b>. Também vale o princípio da <b>causalidade</b> (anulado um ato, só se anulam os atos dele dependentes) e o do <b>interesse</b> (quem deu causa à nulidade não pode alegá-la).</li><li><b>Quem deu causa</b> (art. 276): quando a lei prescrever determinada forma sob pena de nulidade, a decretação desta <b>não pode ser requerida pela parte que lhe deu causa</b>.</li><li><b>Finalidade</b> (art. 277): quando a lei prescrever determinada forma, o juiz considerará <b>válido</b> o ato se, realizado de outro modo, lhe <b>alcançar a finalidade</b>.</li><li><b>Preclusão</b> (art. 278): a nulidade dos atos deve ser alegada na <b>primeira oportunidade</b> em que couber à parte falar nos autos, <b>sob pena de preclusão</b>. <b>Não se aplica</b> essa regra às nulidades que o juiz deva decretar <b>de ofício</b>, nem prevalece a preclusão provando a parte <b>legítimo impedimento</b> (parágrafo único).</li><li><b>Causalidade</b> (art. 281): anulado o ato, consideram-se de <b>nenhum efeito todos os subsequentes que dele dependam</b>, todavia, a nulidade de uma parte do ato <b>não prejudicará as outras</b> que dela sejam independentes.</li><li><b>Aproveitamento</b> (art. 282): ao pronunciar a nulidade, o juiz declarará que atos são atingidos e ordenará as providências necessárias a fim de que sejam repetidos ou retificados. O ato <b>não será repetido</b> nem sua falta será suprida quando <b>não prejudicar a parte</b> (§ 1º). Quando puder decidir o <b>mérito a favor da parte a quem aproveite</b> a decretação da nulidade, o juiz <b>não a pronunciará</b> nem mandará repetir o ato ou suprir-lhe a falta (§ 2º).</li><li><b>Erro de forma</b> (art. 283): o <b>erro de forma</b> do processo acarreta unicamente a <b>anulação dos atos que não possam ser aproveitados</b>, devendo ser praticados os que forem necessários a fim de se observarem as prescrições legais. Dar-se-á o aproveitamento dos atos praticados desde que <b>não resulte prejuízo à defesa</b> de qualquer parte (parágrafo único).</li><li><b>Falta de intimação do MP</b> (art. 279): é nulo o processo quando o membro do MP não for intimado a acompanhar o feito em que deva intervir. Se o processo tiver tramitado sem conhecimento do MP, o juiz invalidará os atos praticados a partir do momento em que ele deveria ter sido intimado. A nulidade só pode ser decretada <b>após a intimação do MP</b>, que se manifestará sobre a existência ou a inexistência de <b>prejuízo</b>.</li><li><b>Citações e intimações</b> (art. 280): as citações e as intimações serão <b>nulas</b> quando feitas sem observância das prescrições legais.</li></ul>\n<table class=\"tab\"><thead><tr><th>Princípio</th><th>Dispositivo</th><th>Ideia</th></tr></thead><tbody><tr><td><b>Instrumentalidade</b></td><td>arts. 188 e 277</td><td>vale o ato que atinge a finalidade</td></tr><tr><td><b>Prejuízo</b></td><td>art. 282, § 1º</td><td>sem prejuízo, sem nulidade</td></tr><tr><td><b>Primazia do mérito</b></td><td>art. 282, § 2º</td><td>se o mérito favorece quem se beneficiaria da nulidade, não se anula</td></tr><tr><td><b>Interesse</b></td><td>art. 276</td><td>quem deu causa não pode alegar</td></tr><tr><td><b>Causalidade</b></td><td>art. 281</td><td>só caem os atos dependentes</td></tr><tr><td><b>Preclusão</b></td><td>art. 278</td><td>alegar na primeira oportunidade, salvo nulidade cognoscível de ofício</td></tr><tr><td><b>Aproveitamento</b></td><td>art. 283</td><td>erro de forma só anula o que não puder ser aproveitado</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A parte que deu causa à nulidade pode requerer sua decretação</span><br>✅ <span class=\"certo\"><b>Não pode</b> (art. 276)</span></li><li>❌ <span class=\"banca\">A nulidade relativa pode ser alegada a qualquer tempo</span><br>✅ <span class=\"certo\">Deve ser alegada na <b>primeira oportunidade</b>, sob pena de <b>preclusão</b> (art. 278)</span></li><li>❌ <span class=\"banca\">Anulado um ato, todos os atos posteriores são nulos</span><br>✅ <span class=\"certo\">Só os <b>dependentes</b> (art. 281)</span></li><li>❌ <span class=\"banca\">O juiz deve pronunciar a nulidade mesmo que possa julgar o mérito a favor de quem ela aproveitaria</span><br>✅ <span class=\"certo\"><b>Não</b> a pronunciará (art. 282, § 2º)</span></li></ol></div>\n<h3>13. Distribuição, registro e valor da causa</h3>\n<ul><li><b>Distribuição</b> (arts. 284 a 290): todos os processos estão sujeitos a <b>registro</b>, devendo ser <b>distribuídos</b> onde houver mais de um juiz. A distribuição, que poderá ser eletrônica, será <b>alternada e aleatória</b>, obedecendo-se rigorosa igualdade. Serão distribuídas <b>por dependência</b> as causas de qualquer natureza: I, quando se relacionarem, por <b>conexão ou continência</b>, com outra já ajuizada; II, quando, tendo sido extinto o processo <b>sem resolução de mérito</b>, for reiterado o pedido, ainda que em litisconsórcio com outros autores ou que sejam parcialmente alterados os réus da demanda; III, quando houver ajuizamento de ações nos termos do art. 55, § 3º, ao juízo prevento (art. 286). A regra do inciso II impede a burla ao juiz natural pela desistência seguida de nova ação.</li><li><b>Cancelamento</b> (art. 290): será <b>cancelada a distribuição</b> do feito se a parte, intimada na pessoa de seu advogado, não realizar o <b>pagamento das custas e despesas</b> de ingresso em <b>15 dias</b>.</li><li><b>Valor da causa</b> (art. 291): a toda causa será atribuído <b>valor certo</b>, ainda que não tenha conteúdo econômico imediatamente aferível.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ação (art. 292)</th><th>Valor da causa</th></tr></thead><tbody><tr><td><b>Cobrança de dívida</b></td><td>a soma monetariamente corrigida do principal, dos juros de mora vencidos e de outras penalidades, se houver, até a data de propositura</td></tr><tr><td><b>Existência, validade, cumprimento, modificação, resolução, resilição ou rescisão de ato jurídico</b></td><td>o valor do <b>ato</b> ou o de sua parte controvertida</td></tr><tr><td><b>Alimentos</b></td><td>a soma de <b>12 prestações mensais</b> pedidas pelo autor</td></tr><tr><td><b>Divisão, demarcação e reivindicação</b></td><td>o valor de avaliação da área ou do bem objeto do pedido</td></tr><tr><td><b>Indenização, inclusive a fundada em dano moral</b></td><td>o <b>valor pretendido</b></td></tr><tr><td><b>Cumulação de pedidos</b></td><td>a quantia correspondente à <b>soma</b> dos valores de todos eles</td></tr><tr><td><b>Pedidos alternativos</b></td><td>o de <b>maior</b> valor</td></tr><tr><td><b>Pedido subsidiário</b></td><td>o valor do <b>pedido principal</b></td></tr></tbody></table>\n<ul><li><b>Prestações vencidas e vincendas</b> (art. 292, §§ 1º e 2º): quando se pedirem prestações vencidas e vincendas, considerar-se-á o valor de umas e outras. O valor das prestações vincendas será igual a <b>uma prestação anual</b>, se a obrigação for por tempo indeterminado ou por tempo superior a 1 ano, e, se por tempo inferior, será igual à soma das prestações.</li><li><b>Correção de ofício</b> (art. 292, § 3º): o juiz corrigirá, <b>de ofício</b> e por arbitramento, o valor da causa quando verificar que não corresponde ao conteúdo patrimonial em discussão ou ao proveito econômico perseguido pelo autor, caso em que se procederá ao recolhimento das custas correspondentes.</li><li><b>Impugnação</b> (art. 293): o réu poderá impugnar, em <b>preliminar da contestação</b>, o valor atribuído à causa pelo autor, sob pena de <b>preclusão</b>, e o juiz decidirá a respeito, impondo, se for o caso, a complementação das custas. (No CPC/1973 era incidente autônomo.)</li><li><b>Importância prática</b>: o valor da causa define a competência do <b>Juizado Especial da Fazenda Pública</b> (até 60 salários mínimos), as custas, a base dos honorários quando não há condenação, o cabimento de <b>embargos infringentes</b> na execução fiscal (Lei 6.830, art. 34) e as multas processuais.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na ação de alimentos, o valor da causa é a soma de 24 prestações</span><br>✅ <span class=\"certo\">São <b>12 prestações</b> mensais (art. 292, III)</span></li><li>❌ <span class=\"banca\">Na ação de indenização por dano moral, o autor pode atribuir valor simbólico</span><br>✅ <span class=\"certo\">O valor é o <b>pretendido</b> (art. 292, V)</span></li><li>❌ <span class=\"banca\">A impugnação ao valor da causa é feita em incidente autônomo</span><br>✅ <span class=\"certo\">É feita em <b>preliminar da contestação</b> (art. 293)</span></li><li>❌ <span class=\"banca\">O juiz não pode corrigir de ofício o valor da causa</span><br>✅ <span class=\"certo\">Pode, <b>de ofício</b> e por arbitramento (art. 292, § 3º)</span></li><li>❌ <span class=\"banca\">A distribuição é cancelada se as custas não forem pagas em 30 dias</span><br>✅ <span class=\"certo\">Em <b>15 dias</b> (art. 290)</span></li></ol></div>\n<h3>14. Formação, suspensão e extinção do processo</h3>\n<ul><li><b>Formação</b> (art. 312): considera-se <b>proposta a ação</b> quando a <b>petição inicial for protocolada</b>, todavia, a propositura da ação só produz quanto ao <b>réu</b> os efeitos mencionados no art. 240 depois que for <b>validamente citado</b>.</li><li><b>Suspensão</b> (art. 313): suspende-se o processo:</li></ul>\n<table class=\"tab\"><thead><tr><th>Hipótese (art. 313)</th><th>Prazo e observações</th></tr></thead><tbody><tr><td>I, <b>morte ou perda da capacidade processual</b> de qualquer das partes, de seu representante legal ou de seu procurador</td><td>até a habilitação; se morrer o procurador e a parte não constituir novo em 15 dias, aplica-se o regime do art. 76</td></tr><tr><td>II, <b>convenção das partes</b></td><td>no máximo <b>6 meses</b> (§ 4º)</td></tr><tr><td>III, <b>arguição de impedimento ou de suspeição</b></td><td>até o julgamento do incidente, se o tribunal lhe atribuir efeito suspensivo</td></tr><tr><td>IV, admissão de <b>IRDR</b></td><td>enquanto pendente o incidente (até 1 ano, art. 980)</td></tr><tr><td>V, <b>prejudicialidade externa</b>: quando a sentença de mérito depender do julgamento de outra causa ou da declaração de existência ou de inexistência de relação jurídica que constitua o objeto principal de outro processo pendente; ou tiver de ser proferida somente após a verificação de determinado fato ou a produção de certa prova, requisitada a outro juízo</td><td>no máximo <b>1 ano</b> (§ 4º); findo o prazo, o juiz mandará prosseguir</td></tr><tr><td>VI, <b>motivo de força maior</b></td><td>enquanto durar</td></tr><tr><td>VII, quando se discutir em juízo questão decorrente de <b>acidentes e fatos da navegação</b> de competência do Tribunal Marítimo ;</td></tr><tr><td>VIII, nos demais casos que o CPC regula ;</td></tr><tr><td>IX, pelo <b>parto ou concessão de adoção</b>, quando a <b>advogada</b> responsável pelo processo constituir a única patrona da causa</td><td><b>30 dias</b>, contados do parto ou da adoção (§ 6º)</td></tr><tr><td>X, quando o <b>advogado</b> responsável pelo processo constituir o único patrono da causa e tornar-se <b>pai</b></td><td><b>8 dias</b> (§ 7º)</td></tr></tbody></table>\n<ul><li><b>Atos durante a suspensão</b> (art. 314): durante a suspensão é <b>vedado praticar qualquer ato processual</b>, podendo o juiz, todavia, determinar a realização de <b>atos urgentes</b> a fim de evitar dano irreparável, <b>salvo</b> no caso de arguição de impedimento e de suspeição.</li><li><b>Prejudicial criminal</b> (art. 315): se o conhecimento do mérito depender de verificação da existência de fato delituoso, o juiz pode determinar a suspensão do processo até que se pronuncie a justiça criminal. Se a ação penal não for proposta no prazo de <b>3 meses</b>, contado da intimação do ato de suspensão, cessará o efeito desse, incumbindo ao juiz cível examinar incidentemente a questão prévia. Proposta a ação penal, o processo ficará suspenso pelo prazo máximo de <b>1 ano</b>, ao final do qual aplicar-se-á o disposto na parte final do § 1º.</li><li><b>Extinção</b> (arts. 316 e 317): a extinção do processo dar-se-á por <b>sentença</b>. <b>Antes de proferir decisão sem resolução de mérito</b>, o juiz deverá conceder à parte <b>oportunidade para, se possível, corrigir o vício</b> (art. 317). É a primazia do julgamento de mérito.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A suspensão convencional do processo pode durar até 1 ano</span><br>✅ <span class=\"certo\">No máximo <b>6 meses</b> (art. 313, § 4º)</span></li><li>❌ <span class=\"banca\">A suspensão por prejudicialidade externa pode durar indefinidamente</span><br>✅ <span class=\"certo\">No máximo <b>1 ano</b> (art. 313, § 4º)</span></li><li>❌ <span class=\"banca\">A advogada única patrona tem o processo suspenso por 120 dias após o parto</span><br>✅ <span class=\"certo\">São <b>30 dias</b> (art. 313, § 6º)</span></li><li>❌ <span class=\"banca\">Durante a arguição de suspeição o juiz pode praticar atos urgentes</span><br>✅ <span class=\"certo\">É a <b>exceção</b>: na arguição de impedimento e suspeição, nem atos urgentes (art. 314)</span></li><li>❌ <span class=\"banca\">A propositura da ação produz efeitos para o réu desde o protocolo</span><br>✅ <span class=\"certo\">Só depois de <b>validamente citado</b> (art. 312)</span></li></ol></div>\n<h3>15. Processo eletrônico e audiências por videoconferência</h3>\n<ul><li><b>Lei 11.419/2006</b>: dispõe sobre a <b>informatização do processo judicial</b>. O envio de petições, de recursos e a prática de atos processuais em geral por meio eletrônico serão admitidos mediante uso de <b>assinatura eletrônica</b>, sendo obrigatório o <b>credenciamento prévio</b> no Poder Judiciário (art. 2º). Consideram-se realizados os atos processuais por meio eletrônico no <b>dia e hora do seu envio</b> ao sistema do Poder Judiciário, do que deverá ser fornecido protocolo eletrônico (art. 3º). Quando a petição eletrônica for enviada para atender <b>prazo processual</b>, serão consideradas <b>tempestivas</b> as transmitidas até as <b>24 horas</b> do seu último dia (parágrafo único).</li><li><b>Indisponibilidade do sistema</b> (art. 10, § 2º, da Lei 11.419; art. 224, § 1º, do CPC): no caso de o Sistema do Poder Judiciário se tornar <b>indisponível por motivo técnico</b>, o prazo fica automaticamente <b>prorrogado para o primeiro dia útil seguinte</b> à resolução do problema.</li><li><b>Documentos digitalizados</b> (art. 11 da Lei 11.419): os documentos produzidos eletronicamente e juntados aos processos eletrônicos com garantia da origem e de seu signatário serão considerados <b>originais</b> para todos os efeitos legais. Os extratos digitais e os documentos digitalizados e juntados aos autos pelos órgãos da Justiça e seus auxiliares, pelo MP e seus auxiliares, pelas <b>procuradorias</b>, pelas autoridades policiais, pelas repartições públicas em geral e por advogados públicos e privados têm a <b>mesma força probante dos originais</b>, ressalvada a alegação motivada e fundamentada de adulteração antes ou durante o processo de digitalização (§ 1º).</li><li><b>Videoconferência</b>: o CPC admite a prática de atos processuais por <b>videoconferência</b> ou outro recurso tecnológico de transmissão de sons e imagens em tempo real, como o depoimento pessoal (art. 385, § 3º), a oitiva de testemunha que residir em comarca diversa (art. 453, § 1º), a sustentação oral (art. 937, § 4º) e a acareação (art. 461, § 2º). O CNJ instituiu o <b>Juízo 100% Digital</b> (Resolução 345/2020), em que todos os atos são praticados exclusivamente por meio eletrônico e remoto, mediante escolha das partes.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na indisponibilidade do sistema eletrônico, o prazo vence normalmente</span><br>✅ <span class=\"certo\">Fica <b>prorrogado</b> para o primeiro dia útil seguinte à solução do problema</span></li><li>❌ <span class=\"banca\">Documentos digitalizados por procuradorias têm força probante inferior aos originais</span><br>✅ <span class=\"certo\">Têm a <b>mesma força probante</b> dos originais (Lei 11.419, art. 11, § 1º)</span></li><li>❌ <span class=\"banca\">O ato eletrônico considera-se praticado na data da juntada pelo servidor</span><br>✅ <span class=\"certo\">No <b>dia e hora do envio</b> ao sistema (Lei 11.419, art. 3º)</span></li></ol></div>\n<h3>16. Casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Prazo de contestação do Município</b><p>O Município foi citado em ação de cobrança pelo sistema eletrônico do tribunal (Lei 11.419), e o procurador consultou a citação numa quarta-feira, 4 de março. Qual o prazo e quando começa?</p><details><summary>Ver a solução comentada</summary><p>O prazo de contestação é de <b>15 dias úteis</b> (art. 335), <b>em dobro</b> para a Fazenda (art. 183): <b>30 dias úteis</b>. Na citação eletrônica pelo portal (Lei 11.419), o prazo começa no <b>dia útil seguinte à consulta</b> (art. 231, V), ou seja, na quinta-feira, 5 de março, excluído o dia do começo (art. 224). Contam-se só <b>dias úteis</b> (art. 219), excluídos sábados, domingos e feriados. Se o procurador não consultasse, a citação se consideraria feita ao fim de <b>10 dias corridos</b> do envio.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Recurso protocolado durante o recesso</b><p>Uma sentença contra o Município foi publicada em 15 de dezembro. O procurador quer saber como fica o prazo de apelação durante o fim de ano.</p><details><summary>Ver a solução comentada</summary><p>O prazo de apelação é de <b>15 dias úteis</b> (art. 1.003, § 5º), em dobro para a Fazenda (<b>30 dias úteis</b>). Os prazos ficam <b>suspensos</b> de <b>20 de dezembro a 20 de janeiro</b> (art. 220), voltando a correr de onde pararam no primeiro dia útil após 20 de janeiro. Os dias úteis entre a publicação e 19 de dezembro já contam. O procurador pode protocolar durante o recesso, se quiser: o ato praticado durante a suspensão é válido, e o praticado antes do termo inicial é tempestivo (art. 218, § 4º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Citação por edital sem buscas</b><p>Numa execução fiscal de IPTU, a Procuradoria pediu citação por edital logo após a carta voltar com o aviso \"mudou-se\". O juiz deferiu. Anos depois, o executado alega nulidade.</p><details><summary>Ver a solução comentada</summary><p>Pela <b>Súmula 414</b> do STJ, a citação por edital na execução fiscal só cabe quando <b>frustradas as demais modalidades</b> (correio e oficial de justiça), e o art. 256, § 3º, exige tentativas de localização, inclusive pela <b>requisição</b> de informações a cadastros públicos. A citação por edital feita sem essas diligências é <b>nula</b>, e a nulidade da citação do revel pode ser alegada a qualquer tempo. Para o Município, o risco é grave: anulada a citação, a <b>prescrição</b> pode ter se consumado, salvo a retroação do art. 240, § 1º, se o despacho citatório for válido e o atraso não for imputável à Fazenda (Súmula 106).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Intimação em nome de advogado errado</b><p>O Município pediu expressamente que as intimações fossem feitas em nome do procurador-chefe. A publicação saiu só em nome de outro procurador já exonerado.</p><details><summary>Ver a solução comentada</summary><p>Havendo <b>pedido expresso</b> de intimação em nome de advogado indicado, o desatendimento gera <b>nulidade</b> (art. 272, § 5º). O Município deve arguir a nulidade em <b>capítulo preliminar</b> do ato que lhe cabe praticar (art. 272, § 8º), ou, se precisar ver os autos antes, limitar-se a arguir a nulidade, contando-se o prazo da intimação da decisão que a reconhecer (§ 9º). Lembre-se, porém, de que a Fazenda tem direito à <b>intimação pessoal</b> (art. 183, § 1º), o que torna a intimação pelo Diário, por si só, inadequada.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Morte do autor</b><p>O autor de ação contra o Município morre no curso do processo. O que acontece?</p><details><summary>Ver a solução comentada</summary><p>O processo é <b>suspenso</b> (art. 313, I) até a <b>habilitação</b> do espólio ou dos sucessores (arts. 110 e 687 a 692). Durante a suspensão, nenhum ato processual pode ser praticado, salvo atos urgentes (art. 314). Se o direito for <b>intransmissível</b> (por exemplo, certos direitos personalíssimos), o processo será extinto sem resolução de mérito (art. 485, IX).</p></details></div>\n<h3>17. Questões comentadas</h3>\n<ul><li><b>\"Os atos e os termos processuais independem de forma determinada, salvo quando a lei expressamente a exigir.\"</b> Certo: art. 188.</li><li><b>\"A desistência da ação produz efeitos imediatamente, independentemente de homologação.\"</b> Errado: art. 200, parágrafo único.</li><li><b>\"Sentença é o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487, põe fim à fase cognitiva do procedimento comum, bem como extingue a execução.\"</b> Certo: art. 203, § 1º.</li><li><b>\"Os atos processuais serão realizados em dias úteis, das 6 às 22 horas.\"</b> Errado: até as <b>20 horas</b> (art. 212).</li><li><b>\"Na contagem de prazo em dias, computar-se-ão somente os dias úteis, inclusive para os prazos de direito material.\"</b> Errado: só <b>prazos processuais</b> (art. 219, parágrafo único).</li><li><b>\"Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive.\"</b> Certo: art. 220.</li><li><b>\"Será considerado intempestivo o ato praticado antes do termo inicial do prazo.\"</b> Errado: é <b>tempestivo</b> (art. 218, § 4º).</li><li><b>\"Considera-se como data de publicação o primeiro dia útil seguinte ao da disponibilização da informação no Diário da Justiça eletrônico.\"</b> Certo: art. 224, § 2º.</li><li><b>\"A citação válida, ainda quando ordenada por juízo incompetente, induz litispendência, torna litigiosa a coisa e constitui em mora o devedor.\"</b> Certo: art. 240.</li><li><b>\"A interrupção da prescrição, operada pela citação válida, retroagirá à data do despacho.\"</b> Errado: a interrupção é operada pelo <b>despacho que ordena a citação</b> e retroage à <b>propositura</b> (art. 240, § 1º).</li><li><b>\"A citação da pessoa jurídica de direito público pode ser feita pelo correio.\"</b> Errado: art. 247, III.</li><li><b>\"A citação da União, dos Estados, do DF, dos Municípios e de suas autarquias e fundações de direito público será realizada perante o órgão de Advocacia Pública responsável por sua representação judicial.\"</b> Certo: art. 242, § 3º.</li><li><b>\"O prazo do edital variará entre 20 e 60 dias.\"</b> Certo: art. 257, III.</li><li><b>\"Quando a lei prescrever determinada forma sob pena de nulidade, a decretação desta pode ser requerida pela parte que lhe deu causa.\"</b> Errado: art. 276.</li><li><b>\"O réu poderá impugnar o valor da causa em preliminar da contestação, sob pena de preclusão.\"</b> Certo: art. 293.</li></ul>\n<h3>18. Como as bancas cobram este tópico</h3>\n<ul><li><b>Números</b>: 6 às 20 horas; 24 horas para atos eletrônicos; 20/12 a 20/1; 5 dias (prazo supletivo); 48 horas (comparecimento); 2 meses (prorrogação em comarca de difícil acesso); 5, 10 e 30 dias (despachos, interlocutórias e sentenças); 10 dias (consulta eletrônica tácita e providências do autor para a citação); 2 e 3 dias úteis (citação eletrônica); 5% (multa por não confirmar); 20 a 60 dias (edital); 5 salários mínimos (edital doloso); 15 dias (custas, sob pena de cancelamento); 6 meses e 1 ano (suspensão); 30 e 8 dias (parto ou adoção e paternidade).</li><li><b>Início dos prazos</b> (art. 231), especialmente o inciso IX (quinto dia útil após a confirmação da citação eletrônica) e o § 1º (vários réus: última juntada).</li><li><b>Prerrogativas da Fazenda</b>: prazo em dobro, intimação pessoal, citação perante a Advocacia Pública, vedação de citação pelo correio, ausência de prazo diferenciado nos Juizados.</li><li><b>Nulidades</b>: os princípios (instrumentalidade, prejuízo, interesse, causalidade, preclusão) e o art. 282, § 2º.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para lembrar o art. 226: <b>\"5, 10, 30: Despacho, Decisão, Sentença\"</b>. Quanto mais importante o pronunciamento, mais tempo o juiz tem.</div>\n<h3>19. Exercício integrado: a linha do tempo da ação contra o Município</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Do protocolo à contestação</b><p>Uma servidora ajuíza, em 2 de fevereiro, ação de cobrança de adicional contra o Município de Belo Vale. A distribuição é feita no mesmo dia, o juiz manda citar em 10 de fevereiro, e a citação eletrônica é enviada à Procuradoria em 11 de fevereiro. O procurador confirma o recebimento em 13 de fevereiro.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Propositura</b>: a ação considera-se proposta em <b>2 de fevereiro</b>, com o protocolo (art. 312). (2) <b>Prescrição</b>: a prescrição quinquenal contra a Fazenda (Decreto 20.910/1932) foi interrompida pelo <b>despacho de 10 de fevereiro</b>, que <b>retroage a 2 de fevereiro</b> (art. 240, § 1º), desde que a autora tenha promovido os atos necessários em 10 dias. Contra a Fazenda, a prescrição interrompida recomeça a correr pela <b>metade</b> (Decreto 20.910, art. 9º; Súmula 383 do STF: o prazo, interrompido, recomeça a correr por dois anos e meio, mas não fica reduzido aquém de cinco anos, embora o titular do direito a interrompa durante a primeira metade do prazo). (3) <b>Citação eletrônica</b>: enviada em até 2 dias úteis da decisão (art. 246); a confirmação ocorreu dentro de 3 dias úteis (§ 1º-A). (4) <b>Início do prazo</b>: o <b>quinto dia útil</b> seguinte à confirmação (art. 231, IX). (5) <b>Prazo</b>: 15 dias úteis para contestar (art. 335), em <b>dobro</b> para o Município (art. 183): <b>30 dias úteis</b>. Se o juiz tivesse designado audiência de conciliação (art. 334), o prazo contaria da audiência ou do protocolo do pedido de cancelamento (art. 335, I e II). (6) <b>Litispendência e mora</b>: a citação válida induz litispendência e constitui o Município em mora (art. 240), o que importa para o termo inicial dos juros na ação de cobrança.</p></details></div>\n<ul><li><b>Moral do exercício</b>: os prazos processuais são o terreno onde mais se perdem causas por detalhe. O procurador deve manter controle rigoroso: tipo de comunicação, termo inicial (art. 231), dias úteis (art. 219), dobra (art. 183), exceções de prazo próprio e suspensões (art. 220 e art. 313).</li></ul>\n<h3>20. Prazos prescricionais contra e a favor da Fazenda Pública</h3>\n<ul><li>Embora prescrição seja matéria de direito material, ela se cruza a todo momento com os prazos e a citação no processo contra a Fazenda. O Procurador precisa dominar as regras abaixo.</li><li><b>Decreto 20.910/1932</b> (art. 1º): as dívidas passivas da União, dos Estados e dos <b>Municípios</b>, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em <b>5 anos</b> contados da data do ato ou fato do qual se originarem. O <b>Decreto-Lei 4.597/1942</b> estendeu a regra às <b>autarquias</b> e entidades paraestatais criadas por lei e mantidas mediante impostos, taxas ou contribuições.</li><li><b>Prestações periódicas</b> (Súmula 85 do STJ): \"Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.\" Exemplo: diferenças salariais de servidor. Se o direito for <b>negado expressamente</b> por ato da Administração (por exemplo, indeferimento de pedido de enquadramento), a prescrição atinge o <b>fundo de direito</b> em 5 anos do ato.</li><li><b>Responsabilidade civil do Estado</b>: o STJ (Tema 553, REsp 1.251.993) firmou que o prazo prescricional das ações indenizatórias contra a Fazenda Pública é <b>quinquenal</b> (Decreto 20.910), e não trienal (art. 206, § 3º, V, do Código Civil), por ser regra especial.</li><li><b>Suspensão pelo requerimento administrativo</b> (Decreto 20.910, art. 4º): <b>não corre a prescrição</b> durante a demora que, no estudo, no reconhecimento ou no pagamento da dívida, considerada líquida, tiverem as repartições ou funcionários encarregados de estudar e apurá-la. A suspensão verifica-se pela entrada do requerimento do titular do direito ou do credor nos livros ou protocolos das repartições públicas, com designação do dia, mês e ano.</li><li><b>Interrupção uma única vez</b> (Decreto 20.910, art. 8º, e Decreto-Lei 4.597, art. 3º): a prescrição somente poderá ser interrompida <b>uma vez</b> e, interrompida, recomeça a correr, pela <b>metade do prazo</b> (2 anos e meio), da data do ato que a interrompeu ou do último ato ou termo do respectivo processo. A <b>Súmula 383 do STF</b> garante que o prazo total <b>não fica reduzido aquém de 5 anos</b> quando a interrupção ocorre na primeira metade.</li><li><b>Prescrição a favor da Fazenda (cobrança de créditos)</b>: os créditos <b>tributários</b> prescrevem em <b>5 anos</b> contados da <b>constituição definitiva</b> (CTN, art. 174), interrompendo-se pelo <b>despacho que ordena a citação</b> em execução fiscal, pelo protesto judicial ou extrajudicial (incluído pela LC 208/2024), por qualquer ato judicial que constitua em mora o devedor e por qualquer ato inequívoco, ainda que extrajudicial, que importe em reconhecimento do débito (como o pedido de parcelamento). Os créditos <b>não tributários</b> (multas administrativas, por exemplo) prescrevem em <b>5 anos</b>, por aplicação analógica do Decreto 20.910 (Súmula 467 do STJ, para multas ambientais, e Tema 147 do STJ, para multas administrativas em geral), contados do término do processo administrativo.</li><li><b>Prescrição intercorrente na execução fiscal</b> (Lei 6.830, art. 40): suspensa a execução por <b>1 ano</b> por não localização do devedor ou de bens, inicia-se automaticamente o prazo de <b>5 anos</b> da prescrição intercorrente (STJ, Tema 566), que pode ser reconhecida <b>de ofício</b>, ouvida a Fazenda. Esse tema é aprofundado no tópico de execução fiscal.</li><li><b>Ação regressiva e ressarcimento ao erário</b>: o STF fixou que é <b>prescritível</b> a ação de reparação de danos à Fazenda decorrente de <b>ilícito civil</b> (Tema 666), que é <b>imprescritível</b> a ação de ressarcimento fundada em ato <b>doloso</b> tipificado na Lei de Improbidade (Tema 897) e que é <b>prescritível</b> a pretensão de ressarcimento fundada em decisão de <b>Tribunal de Contas</b> (Tema 899, prazo de 5 anos).</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Prazo e regra</th></tr></thead><tbody><tr><td>Ação contra a Fazenda (qualquer natureza)</td><td><b>5 anos</b> do ato ou fato (Decreto 20.910, art. 1º)</td></tr><tr><td>Prestações de trato sucessivo sem negativa do direito</td><td>prescrevem só as parcelas anteriores aos <b>5 anos</b> da propositura (Súmula 85 do STJ)</td></tr><tr><td>Indenização contra o Estado</td><td><b>5 anos</b> (Tema 553 do STJ), não 3</td></tr><tr><td>Interrupção contra a Fazenda</td><td>uma só vez; recomeça pela <b>metade</b>, sem reduzir o total abaixo de 5 anos (Súmula 383 do STF)</td></tr><tr><td>Crédito tributário</td><td><b>5 anos</b> da constituição definitiva; interrompe pelo despacho citatório (CTN, art. 174)</td></tr><tr><td>Multa administrativa</td><td><b>5 anos</b> do término do processo administrativo</td></tr><tr><td>Ressarcimento por ilícito civil</td><td>prescritível (Tema 666)</td></tr><tr><td>Ressarcimento por improbidade dolosa</td><td><b>imprescritível</b> (Tema 897)</td></tr><tr><td>Ressarcimento por acórdão do TCU ou TCE</td><td>prescritível (Tema 899)</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A ação de indenização contra o Município prescreve em 3 anos, pelo Código Civil</span><br>✅ <span class=\"certo\">Prescreve em <b>5 anos</b> (Decreto 20.910; Tema 553 do STJ)</span></li><li>❌ <span class=\"banca\">Interrompida, a prescrição contra a Fazenda recomeça por inteiro</span><br>✅ <span class=\"certo\">Recomeça pela <b>metade</b>, sem ficar o total abaixo de 5 anos (Súmula 383 do STF)</span></li><li>❌ <span class=\"banca\">Nas prestações de trato sucessivo, prescreve o fundo de direito em 5 anos</span><br>✅ <span class=\"certo\">Prescrevem só as <b>parcelas</b> anteriores ao quinquênio, salvo negativa expressa do direito (Súmula 85 do STJ)</span></li><li>❌ <span class=\"banca\">Toda ação de ressarcimento ao erário é imprescritível</span><br>✅ <span class=\"certo\">Só a fundada em ato <b>doloso de improbidade</b> (Tema 897); ilícito civil e acórdão de Tribunal de Contas prescrevem (Temas 666 e 899)</span></li></ol></div>",
+"quiz": [
+{
+"p": "Os atos processuais independem de forma determinada, salvo quando a lei expressamente a exigir, valendo os que preencham a finalidade essencial.",
+"c": true,
+"prof": "CPC, art. 188.",
+"x": "Instrumentalidade.",
+"e": "Forma"
+},
+{
+"p": "Tramitam em segredo de justiça os processos que versem sobre alimentos e guarda de crianças e adolescentes.",
+"c": true,
+"prof": "CPC, art. 189, II.",
+"x": "Segredo.",
+"e": "Segredo"
+},
+{
+"p": "Os processos que versem sobre arbitragem tramitam em segredo de justiça, desde que comprovada a confidencialidade estipulada.",
+"c": true,
+"prof": "CPC, art. 189, IV.",
+"x": "Arbitragem.",
+"e": "Segredo"
+},
+{
+"p": "O documento em língua estrangeira só pode ser juntado acompanhado de tradução por tradutor juramentado ou via diplomática.",
+"c": true,
+"prof": "CPC, art. 192, parágrafo único.",
+"x": "Língua.",
+"e": "Língua"
+},
+{
+"p": "A desistência da ação só produz efeitos após homologação judicial.",
+"c": true,
+"prof": "CPC, art. 200, parágrafo único.",
+"x": "Homologação.",
+"e": "Desistência"
+},
+{
+"p": "Decisão interlocutória é todo pronunciamento de natureza decisória que não se enquadre no conceito de sentença.",
+"c": true,
+"prof": "CPC, art. 203, § 2º.",
+"x": "Exclusão.",
+"e": "Interlocutória"
+},
+{
+"p": "Os despachos são recorríveis por agravo de instrumento.",
+"c": false,
+"prof": "CPC, art. 1.001.",
+"x": "Irrecorríveis.",
+"e": "Despacho"
+},
+{
+"p": "Os atos meramente ordinatórios, como a juntada e a vista obrigatória, independem de despacho.",
+"c": true,
+"prof": "CPC, art. 203, § 4º.",
+"x": "Ordinatórios.",
+"e": "Ordinatórios"
+},
+{
+"p": "Os atos processuais serão realizados em dias úteis, das 6 às 20 horas.",
+"c": true,
+"prof": "CPC, art. 212.",
+"x": "Horário.",
+"e": "Horário"
+},
+{
+"p": "Citações, intimações e penhoras podem ser realizadas em férias e feriados, independentemente de autorização judicial.",
+"c": true,
+"prof": "CPC, art. 212, § 2º.",
+"x": "Exceção.",
+"e": "Feriados"
+},
+{
+"p": "A prática eletrônica de ato processual pode ocorrer até as 24 horas do último dia do prazo.",
+"c": true,
+"prof": "CPC, art. 213.",
+"x": "24 horas.",
+"e": "Eletrônico"
+},
+{
+"p": "Para efeito forense, são feriados os sábados, os domingos e os dias em que não haja expediente forense.",
+"c": true,
+"prof": "CPC, art. 216.",
+"x": "Feriados.",
+"e": "Feriados"
+},
+{
+"p": "A ação de alimentos processa-se durante as férias forenses e não se suspende pela superveniência delas.",
+"c": true,
+"prof": "CPC, art. 215, II.",
+"x": "Alimentos.",
+"e": "Férias"
+},
+{
+"p": "Inexistindo prazo legal ou judicial, será de 5 dias o prazo para a prática de ato a cargo da parte.",
+"c": true,
+"prof": "CPC, art. 218, § 3º.",
+"x": "5 dias.",
+"e": "Prazo supletivo"
+},
+{
+"p": "Será considerado tempestivo o ato praticado antes do termo inicial do prazo.",
+"c": true,
+"prof": "CPC, art. 218, § 4º.",
+"x": "Prematuro.",
+"e": "Tempestividade"
+},
+{
+"p": "Na contagem de prazos processuais em dias, computam-se somente os dias úteis.",
+"c": true,
+"prof": "CPC, art. 219.",
+"x": "Dias úteis.",
+"e": "Dias úteis"
+},
+{
+"p": "A contagem em dias úteis aplica-se também aos prazos de direito material, como a prescrição.",
+"c": false,
+"prof": "CPC, art. 219, parágrafo único.",
+"x": "Só processuais.",
+"e": "Dias úteis"
+},
+{
+"p": "Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive.",
+"c": true,
+"prof": "CPC, art. 220.",
+"x": "Recesso.",
+"e": "Recesso"
+},
+{
+"p": "Durante a suspensão dos prazos de fim de ano, as audiências continuam a ser realizadas normalmente.",
+"c": false,
+"prof": "CPC, art. 220, § 2º.",
+"x": "Não se realizam.",
+"e": "Recesso"
+},
+{
+"p": "Os prazos suspendem-se durante a execução de programa do Judiciário para promover a autocomposição.",
+"c": true,
+"prof": "CPC, art. 221, parágrafo único.",
+"x": "Conciliação.",
+"e": "Suspensão"
+},
+{
+"p": "Na comarca de difícil transporte, o juiz poderá prorrogar os prazos por até 2 meses.",
+"c": true,
+"prof": "CPC, art. 222.",
+"x": "2 meses.",
+"e": "Prorrogação"
+},
+{
+"p": "Ao juiz é permitido reduzir prazos peremptórios independentemente da anuência das partes.",
+"c": false,
+"prof": "CPC, art. 222, § 1º.",
+"x": "Exige anuência.",
+"e": "Redução"
+},
+{
+"p": "Decorrido o prazo, extingue-se o direito de praticar o ato, independentemente de declaração judicial, salvo justa causa.",
+"c": true,
+"prof": "CPC, art. 223.",
+"x": "Preclusão.",
+"e": "Preclusão"
+},
+{
+"p": "Considera-se justa causa o evento alheio à vontade da parte que a impediu de praticar o ato.",
+"c": true,
+"prof": "CPC, art. 223, § 1º.",
+"x": "Justa causa.",
+"e": "Justa causa"
+},
+{
+"p": "Considera-se como data de publicação o primeiro dia útil seguinte ao da disponibilização no Diário da Justiça eletrônico.",
+"c": true,
+"prof": "CPC, art. 224, § 2º.",
+"x": "Publicação.",
+"e": "Diário"
+},
+{
+"p": "A contagem do prazo terá início no primeiro dia útil que seguir ao da publicação.",
+"c": true,
+"prof": "CPC, art. 224, § 3º.",
+"x": "Início.",
+"e": "Diário"
+},
+{
+"p": "Na citação pelo correio, o prazo começa na data de juntada aos autos do aviso de recebimento.",
+"c": true,
+"prof": "CPC, art. 231, I.",
+"x": "AR.",
+"e": "Início"
+},
+{
+"p": "Na citação eletrônica do art. 246, o prazo começa no quinto dia útil seguinte à confirmação do recebimento.",
+"c": true,
+"prof": "CPC, art. 231, IX.",
+"x": "Lei 14.195.",
+"e": "Início"
+},
+{
+"p": "Havendo mais de um réu, o prazo para contestar começa da última das datas de juntada ou de citação.",
+"c": true,
+"prof": "CPC, art. 231, § 1º.",
+"x": "Pluralidade.",
+"e": "Vários réus"
+},
+{
+"p": "A intimação eletrônica não consultada considera-se realizada ao término do prazo de 10 dias corridos contados do envio.",
+"c": true,
+"prof": "Lei 11.419, art. 5º, § 3º.",
+"x": "Tácita.",
+"e": "Eletrônica"
+},
+{
+"p": "O juiz proferirá as decisões interlocutórias no prazo de 10 dias.",
+"c": true,
+"prof": "CPC, art. 226, II.",
+"x": "Prazo do juiz.",
+"e": "Juiz"
+},
+{
+"p": "O juiz deve proferir sentença em 15 dias.",
+"c": false,
+"prof": "CPC, art. 226, III.",
+"x": "30 dias.",
+"e": "Juiz"
+},
+{
+"p": "O serventuário deve executar os atos processuais no prazo de 5 dias.",
+"c": true,
+"prof": "CPC, art. 228, II.",
+"x": "Serventuário.",
+"e": "Serventuário"
+},
+{
+"p": "Nos Juizados Especiais da Fazenda Pública não há prazo diferenciado para a Fazenda.",
+"c": true,
+"prof": "Lei 12.153, art. 7º.",
+"x": "Juizados.",
+"e": "Juizados"
+},
+{
+"p": "Nos Juizados Especiais Cíveis, contam-se somente os dias úteis, inclusive para recursos.",
+"c": true,
+"prof": "Lei 9.099, art. 12-A.",
+"x": "Lei 13.728/2018.",
+"e": "Juizados"
+},
+{
+"p": "Para a validade do processo é indispensável a citação do réu, ressalvados o indeferimento da inicial e a improcedência liminar.",
+"c": true,
+"prof": "CPC, art. 239.",
+"x": "Indispensável.",
+"e": "Citação"
+},
+{
+"p": "O comparecimento espontâneo do réu supre a falta ou a nulidade da citação.",
+"c": true,
+"prof": "CPC, art. 239, § 1º.",
+"x": "Comparecimento.",
+"e": "Suprimento"
+},
+{
+"p": "A citação válida, ainda quando ordenada por juízo incompetente, induz litispendência e constitui em mora o devedor.",
+"c": true,
+"prof": "CPC, art. 240.",
+"x": "Efeitos.",
+"e": "Efeitos"
+},
+{
+"p": "A interrupção da prescrição, operada pelo despacho que ordena a citação, retroage à data de propositura da ação.",
+"c": true,
+"prof": "CPC, art. 240, § 1º.",
+"x": "Retroação.",
+"e": "Prescrição"
+},
+{
+"p": "Incumbe ao autor adotar, em 10 dias, as providências necessárias para viabilizar a citação.",
+"c": true,
+"prof": "CPC, art. 240, § 2º.",
+"x": "10 dias.",
+"e": "Autor"
+},
+{
+"p": "A parte não será prejudicada pela demora imputável exclusivamente ao serviço judiciário.",
+"c": true,
+"prof": "CPC, art. 240, § 3º.",
+"x": "Súmula 106.",
+"e": "Demora"
+},
+{
+"p": "A citação dos entes públicos será realizada perante o órgão de Advocacia Pública responsável por sua representação judicial.",
+"c": true,
+"prof": "CPC, art. 242, § 3º.",
+"x": "Fazenda.",
+"e": "Fazenda"
+},
+{
+"p": "A citação poderá ser feita em qualquer lugar em que se encontre o réu.",
+"c": true,
+"prof": "CPC, art. 243.",
+"x": "Local.",
+"e": "Local"
+},
+{
+"p": "Não se fará a citação, salvo para evitar o perecimento do direito, de parente do morto no dia do falecimento e nos 7 dias seguintes.",
+"c": true,
+"prof": "CPC, art. 244, II.",
+"x": "Luto.",
+"e": "Vedação"
+},
+{
+"p": "É vedada a citação dos noivos nos 7 primeiros dias seguintes ao casamento.",
+"c": false,
+"prof": "CPC, art. 244, III.",
+"x": "3 dias.",
+"e": "Noivos"
+},
+{
+"p": "A citação será feita preferencialmente por meio eletrônico, em até 2 dias úteis da decisão que a determinar.",
+"c": true,
+"prof": "CPC, art. 246.",
+"x": "Eletrônica.",
+"e": "Eletrônica"
+},
+{
+"p": "A ausência de confirmação da citação eletrônica em até 3 dias úteis implica a citação por outros meios.",
+"c": true,
+"prof": "CPC, art. 246, § 1º-A.",
+"x": "Confirmação.",
+"e": "Confirmação"
+},
+{
+"p": "Deixar de confirmar, sem justa causa, a citação eletrônica é ato atentatório à dignidade da justiça, punível com multa de até 5% do valor da causa.",
+"c": true,
+"prof": "CPC, art. 246, § 1º-C.",
+"x": "Multa.",
+"e": "Multa"
+},
+{
+"p": "As microempresas e empresas de pequeno porte são obrigadas a manter cadastro para recebimento de citações eletrônicas.",
+"c": false,
+"prof": "CPC, art. 246, § 1º.",
+"x": "Exceção.",
+"e": "Cadastro"
+},
+{
+"p": "Os Municípios e as entidades da administração indireta devem manter cadastro nos sistemas de processo eletrônico.",
+"c": true,
+"prof": "CPC, art. 246, § 2º.",
+"x": "Cadastro.",
+"e": "Cadastro"
+},
+{
+"p": "A citação de pessoa de direito público pode ser feita pelo correio.",
+"c": false,
+"prof": "CPC, art. 247, III.",
+"x": "Vedada.",
+"e": "Correio"
+},
+{
+"p": "Nos condomínios edilícios, é válida a entrega do mandado de citação a funcionário da portaria responsável pelo recebimento de correspondência.",
+"c": true,
+"prof": "CPC, art. 248, § 4º.",
+"x": "Portaria.",
+"e": "Condomínio"
+},
+{
+"p": "A citação por hora certa exige duas tentativas frustradas e suspeita de ocultação.",
+"c": true,
+"prof": "CPC, art. 252.",
+"x": "Hora certa.",
+"e": "Hora certa"
+},
+{
+"p": "Feita a citação com hora certa, o escrivão enviará ao réu, em 10 dias, carta, telegrama ou correspondência eletrônica dando-lhe ciência.",
+"c": true,
+"prof": "CPC, art. 254.",
+"x": "Comunicação.",
+"e": "Hora certa"
+},
+{
+"p": "Considera-se inacessível, para fins de citação por edital, o país que recusar o cumprimento de carta rogatória.",
+"c": true,
+"prof": "CPC, art. 256, § 1º.",
+"x": "Inacessível.",
+"e": "Edital"
+},
+{
+"p": "O prazo do edital variará entre 20 e 60 dias.",
+"c": true,
+"prof": "CPC, art. 257, III.",
+"x": "Prazo.",
+"e": "Edital"
+},
+{
+"p": "A parte que requerer dolosamente a citação por edital incorrerá em multa de 5 vezes o salário mínimo, revertida ao citando.",
+"c": true,
+"prof": "CPC, art. 258.",
+"x": "Multa.",
+"e": "Edital"
+},
+{
+"p": "A citação por edital na execução fiscal é cabível quando frustradas as demais modalidades.",
+"c": true,
+"prof": "Súmula 414 do STJ.",
+"x": "Último recurso.",
+"e": "Execução fiscal"
+},
+{
+"p": "O juiz recusará cumprimento a carta precatória quando lhe faltar competência em razão da matéria ou da hierarquia.",
+"c": true,
+"prof": "CPC, art. 267, II.",
+"x": "Recusa.",
+"e": "Cartas"
+},
+{
+"p": "É facultado aos advogados promover a intimação do advogado da parte contrária por meio do correio.",
+"c": true,
+"prof": "CPC, art. 269, § 1º.",
+"x": "Intimação.",
+"e": "Advogados"
+},
+{
+"p": "A retirada dos autos em carga pela Advocacia Pública implica intimação de qualquer decisão contida no processo.",
+"c": true,
+"prof": "CPC, art. 272, § 6º.",
+"x": "Carga.",
+"e": "Carga"
+},
+{
+"p": "Havendo pedido expresso de intimação em nome dos advogados indicados, seu desatendimento implica nulidade.",
+"c": true,
+"prof": "CPC, art. 272, § 5º.",
+"x": "Nulidade.",
+"e": "Nome"
+},
+{
+"p": "A nulidade da intimação será arguida em capítulo preliminar do próprio ato que caiba à parte praticar.",
+"c": true,
+"prof": "CPC, art. 272, § 8º.",
+"x": "Preliminar.",
+"e": "Arguição"
+},
+{
+"p": "A decretação da nulidade pode ser requerida pela parte que lhe deu causa.",
+"c": false,
+"prof": "CPC, art. 276.",
+"x": "Vedado.",
+"e": "Interesse"
+},
+{
+"p": "A nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão.",
+"c": true,
+"prof": "CPC, art. 278.",
+"x": "Preclusão.",
+"e": "Preclusão"
+},
+{
+"p": "Anulado o ato, consideram-se de nenhum efeito os subsequentes que dele dependam.",
+"c": true,
+"prof": "CPC, art. 281.",
+"x": "Causalidade.",
+"e": "Causalidade"
+},
+{
+"p": "Quando puder decidir o mérito a favor da parte a quem aproveite a nulidade, o juiz não a pronunciará.",
+"c": true,
+"prof": "CPC, art. 282, § 2º.",
+"x": "Primazia do mérito.",
+"e": "Aproveitamento"
+},
+{
+"p": "Serão distribuídas por dependência as causas reiteradas após extinção sem resolução de mérito, ainda que alterados parcialmente os réus.",
+"c": true,
+"prof": "CPC, art. 286, II.",
+"x": "Dependência.",
+"e": "Distribuição"
+},
+{
+"p": "Será cancelada a distribuição se a parte não pagar as custas de ingresso em 15 dias.",
+"c": true,
+"prof": "CPC, art. 290.",
+"x": "Cancelamento.",
+"e": "Custas"
+},
+{
+"p": "Na ação de alimentos, o valor da causa é a soma de 12 prestações mensais pedidas.",
+"c": true,
+"prof": "CPC, art. 292, III.",
+"x": "Alimentos.",
+"e": "Valor"
+},
+{
+"p": "Na ação de indenização, inclusive por dano moral, o valor da causa é o valor pretendido.",
+"c": true,
+"prof": "CPC, art. 292, V.",
+"x": "Dano moral.",
+"e": "Valor"
+},
+{
+"p": "O juiz corrigirá, de ofício, o valor da causa que não corresponda ao proveito econômico perseguido.",
+"c": true,
+"prof": "CPC, art. 292, § 3º.",
+"x": "De ofício.",
+"e": "Valor"
+},
+{
+"p": "O réu deve impugnar o valor da causa em preliminar da contestação, sob pena de preclusão.",
+"c": true,
+"prof": "CPC, art. 293.",
+"x": "Impugnação.",
+"e": "Valor"
+},
+{
+"p": "A propositura da ação só produz efeitos quanto ao réu depois que for validamente citado.",
+"c": true,
+"prof": "CPC, art. 312.",
+"x": "Formação.",
+"e": "Formação"
+},
+{
+"p": "A suspensão do processo por convenção das partes pode durar até 1 ano.",
+"c": false,
+"prof": "CPC, art. 313, § 4º.",
+"x": "6 meses.",
+"e": "Suspensão"
+},
+{
+"p": "A suspensão por prejudicialidade externa não pode exceder 1 ano.",
+"c": true,
+"prof": "CPC, art. 313, § 4º.",
+"x": "1 ano.",
+"e": "Prejudicialidade"
+},
+{
+"p": "Suspende-se o processo por 30 dias pelo parto da advogada que seja a única patrona da causa.",
+"c": true,
+"prof": "CPC, art. 313, IX e § 6º.",
+"x": "30 dias.",
+"e": "Parto"
+},
+{
+"p": "Durante a suspensão é vedado praticar atos processuais, mas o juiz pode determinar atos urgentes, salvo na arguição de impedimento ou suspeição.",
+"c": true,
+"prof": "CPC, art. 314.",
+"x": "Atos urgentes.",
+"e": "Suspensão"
+},
+{
+"p": "Antes de proferir decisão sem resolução de mérito, o juiz deve conceder à parte oportunidade de corrigir o vício, se possível.",
+"c": true,
+"prof": "CPC, art. 317.",
+"x": "Primazia.",
+"e": "Art. 317"
+},
+{
+"p": "No processo eletrônico, consideram-se realizados os atos no dia e hora do seu envio ao sistema do Judiciário.",
+"c": true,
+"prof": "Lei 11.419, art. 3º.",
+"x": "Envio.",
+"e": "Eletrônico"
+},
+{
+"p": "Os documentos digitalizados juntados pelas procuradorias têm a mesma força probante dos originais.",
+"c": true,
+"prof": "Lei 11.419, art. 11, § 1º.",
+"x": "Força probante.",
+"e": "Documentos"
+},
+{
+"p": "As ações contra a Fazenda municipal, seja qual for sua natureza, prescrevem em 5 anos contados do ato ou fato.",
+"c": true,
+"prof": "Decreto 20.910, art. 1º.",
+"x": "Quinquenal.",
+"e": "Prescrição"
+},
+{
+"p": "Nas relações de trato sucessivo com a Fazenda devedora, não negado o próprio direito, prescrevem apenas as prestações vencidas antes do quinquênio anterior à ação.",
+"c": true,
+"prof": "Súmula 85 do STJ.",
+"x": "Trato sucessivo.",
+"e": "Súmula 85"
+},
+{
+"p": "A prescrição da ação indenizatória contra a Fazenda Pública é trienal, pelo Código Civil.",
+"c": false,
+"prof": "Tema 553 do STJ.",
+"x": "Quinquenal.",
+"e": "Indenização"
+},
+{
+"p": "A prescrição contra a Fazenda interrompida recomeça por dois anos e meio, mas não fica reduzida aquém de cinco anos se interrompida na primeira metade.",
+"c": true,
+"prof": "Súmula 383 do STF.",
+"x": "Metade.",
+"e": "Interrupção"
+},
+{
+"p": "É imprescritível a ação de ressarcimento ao erário fundada em ato doloso tipificado na Lei de Improbidade.",
+"c": true,
+"prof": "Tema 897 do STF.",
+"x": "Imprescritível.",
+"e": "Ressarcimento"
+},
+{
+"p": "É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas.",
+"c": true,
+"prof": "Tema 899 do STF.",
+"x": "Prescritível.",
+"e": "TCU"
+},
+{
+"p": "Segundo o CPC, a contagem de prazos em dias úteis",
+"alts": [
+"aplica-se a todos os prazos, processuais e materiais",
+"aplica-se apenas aos prazos recursais",
+"aplica-se somente aos prazos processuais",
+"não se aplica à Fazenda Pública",
+"só vale no processo eletrônico"
+],
+"r": 2,
+"x": "Art. 219.",
+"n": [
+"Só processuais.",
+"Todos os processuais.",
+"Correta.",
+"Aplica-se.",
+"Não."
+],
+"e": "Dias úteis."
+},
+{
+"p": "O curso dos prazos processuais suspende-se",
+"alts": [
+"entre 1º e 31 de janeiro",
+"entre 20 de dezembro e 6 de janeiro",
+"entre 20 de dezembro e 20 de janeiro, inclusive",
+"apenas nos feriados nacionais",
+"durante todo o mês de julho"
+],
+"r": 2,
+"x": "Art. 220.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Recesso."
+},
+{
+"p": "Na citação feita por meio eletrônico, nos termos do art. 246 do CPC, o prazo para contestar começa",
+"alts": [
+"na data do envio da citação",
+"no dia útil seguinte ao envio",
+"no quinto dia útil seguinte à confirmação do recebimento",
+"após 10 dias corridos",
+"na data da juntada do mandado"
+],
+"r": 2,
+"x": "Art. 231, IX.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Lei 11.419 sem consulta.",
+"Oficial de justiça."
+],
+"e": "Início do prazo."
+},
+{
+"p": "Sobre a citação eletrônica após a Lei 14.195/2021, é correto afirmar:",
+"alts": [
+"é facultativa para os Municípios",
+"o citando tem 10 dias úteis para confirmar",
+"a ausência de confirmação sem justa causa é ato atentatório punível com multa de até 5% do valor da causa",
+"as microempresas devem manter cadastro",
+"não admite outra forma de citação"
+],
+"r": 2,
+"x": "Art. 246.",
+"n": [
+"Cadastro obrigatório.",
+"3 dias úteis.",
+"Correta.",
+"Excetuadas.",
+"Outros meios se não confirmar."
+],
+"e": "Citação eletrônica."
+},
+{
+"p": "A citação pelo correio NÃO é admitida quando",
+"alts": [
+"o réu for pessoa jurídica de direito privado",
+"o réu residir em outra comarca",
+"o citando for pessoa de direito público",
+"o réu for empresário individual",
+"o autor for a Fazenda"
+],
+"r": 2,
+"x": "Art. 247, III.",
+"n": [
+"Admitida.",
+"Admitida.",
+"Correta.",
+"Admitida.",
+"Não."
+],
+"e": "Correio."
+},
+{
+"p": "Quanto aos efeitos da citação, é correto afirmar:",
+"alts": [
+"a citação ordenada por juízo incompetente não produz efeitos",
+"a prescrição interrompe-se pela citação válida, sem retroação",
+"a interrupção da prescrição, operada pelo despacho que ordena a citação, retroage à data da propositura",
+"a demora imputável ao Judiciário prejudica o autor",
+"a citação não constitui o devedor em mora"
+],
+"r": 2,
+"x": "Art. 240.",
+"n": [
+"Produz.",
+"Retroage.",
+"Correta.",
+"Não prejudica.",
+"Constitui."
+],
+"e": "Efeitos."
+},
+{
+"p": "A citação por hora certa exige que o oficial de justiça",
+"alts": [
+"tenha procurado o citando uma vez",
+"tenha procurado o citando por duas vezes sem encontrá-lo e haja suspeita de ocultação",
+"obtenha autorização judicial prévia",
+"publique edital",
+"cite na presença de duas testemunhas"
+],
+"r": 1,
+"x": "Art. 252.",
+"n": [
+"Duas vezes.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Hora certa."
+},
+{
+"p": "Na citação por edital, o prazo fixado pelo juiz variará entre",
+"alts": [
+"5 e 15 dias",
+"10 e 30 dias",
+"20 e 60 dias",
+"30 e 90 dias",
+"60 e 120 dias"
+],
+"r": 2,
+"x": "Art. 257, III.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Edital."
+},
+{
+"p": "Considera-se como data de publicação, no Diário da Justiça eletrônico,",
+"alts": [
+"o dia da disponibilização",
+"o primeiro dia útil seguinte ao da disponibilização",
+"o terceiro dia útil após a disponibilização",
+"o dia da leitura pelo advogado",
+"o quinto dia útil após a disponibilização"
+],
+"r": 1,
+"x": "Art. 224, § 2º.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Diário."
+},
+{
+"p": "Assinale a alternativa correta sobre as nulidades processuais.",
+"alts": [
+"a parte que deu causa à nulidade pode alegá-la",
+"a nulidade relativa pode ser alegada a qualquer tempo",
+"anulado um ato, todos os posteriores são nulos",
+"quando puder decidir o mérito a favor de quem aproveitaria a nulidade, o juiz não a pronunciará",
+"a falta de intimação do MP gera nulidade automática"
+],
+"r": 3,
+"x": "Arts. 276 a 282.",
+"n": [
+"Vedado.",
+"Preclusão.",
+"Só dependentes.",
+"Correta.",
+"Exige prejuízo."
+],
+"e": "Nulidades."
+},
+{
+"p": "São prazos do juiz, segundo o art. 226 do CPC:",
+"alts": [
+"2 dias para despachos, 5 para decisões e 10 para sentenças",
+"5 dias para despachos, 10 para decisões interlocutórias e 30 para sentenças",
+"10, 15 e 30 dias",
+"5, 15 e 60 dias",
+"1, 5 e 15 dias"
+],
+"r": 1,
+"x": "Art. 226.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Serventuário: 1 e 5."
+],
+"e": "Prazos do juiz."
+},
+{
+"p": "A suspensão do processo por convenção das partes não pode exceder",
+"alts": [
+"30 dias",
+"3 meses",
+"6 meses",
+"1 ano",
+"2 anos"
+],
+"r": 2,
+"x": "Art. 313, § 4º.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Prejudicialidade.",
+"Não."
+],
+"e": "Suspensão."
+},
+{
+"p": "Na ação de cobrança de prestações vencidas e vincendas por tempo indeterminado, as vincendas entram no valor da causa",
+"alts": [
+"pela soma de todas as prestações futuras",
+"pelo valor de uma prestação anual",
+"pelo valor de 6 prestações",
+"não entram",
+"pelo dobro da última prestação"
+],
+"r": 1,
+"x": "Art. 292, §§ 1º e 2º.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Entram.",
+"Não."
+],
+"e": "Valor da causa."
+},
+{
+"p": "A impugnação ao valor da causa pelo réu deve ser feita",
+"alts": [
+"em incidente autônomo, em 5 dias",
+"em preliminar da contestação, sob pena de preclusão",
+"a qualquer tempo",
+"em apelação",
+"por exceção"
+],
+"r": 1,
+"x": "Art. 293.",
+"n": [
+"Regra antiga.",
+"Correta.",
+"Preclusão.",
+"Não.",
+"Não."
+],
+"e": "Impugnação."
+},
+{
+"p": "Segundo o art. 189 do CPC, tramitam em segredo de justiça, entre outros, os processos",
+"alts": [
+"em que a Fazenda Pública for parte",
+"de cobrança de tributos",
+"que versem sobre casamento, divórcio, união estável, filiação, alimentos e guarda",
+"de execução fiscal",
+"de mandado de segurança"
+],
+"r": 2,
+"x": "Art. 189, II.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Segredo."
+},
+{
+"p": "Os atos processuais eletrônicos podem ser praticados",
+"alts": [
+"até o fim do expediente forense",
+"das 6 às 20 horas",
+"em qualquer horário até as 24 horas do último dia do prazo",
+"apenas em dias úteis até as 18 horas",
+"até as 12 horas do dia seguinte"
+],
+"r": 2,
+"x": "Art. 213.",
+"n": [
+"Não.",
+"Atos físicos.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Eletrônico."
+},
+{
+"p": "A intimação dos Municípios e de suas autarquias será realizada",
+"alts": [
+"pelo Diário Oficial, como para qualquer parte",
+"perante o órgão de Advocacia Pública responsável por sua representação judicial",
+"sempre por oficial de justiça",
+"por edital",
+"na pessoa do Presidente da Câmara"
+],
+"r": 1,
+"x": "Art. 269, § 3º; art. 183, § 1º.",
+"n": [
+"Intimação pessoal.",
+"Correta.",
+"Carga, remessa ou eletrônica.",
+"Não.",
+"Não."
+],
+"e": "Intimação."
+},
+{
+"p": "O ato processual praticado antes do termo inicial do prazo é",
+"alts": [
+"intempestivo",
+"nulo",
+"inexistente",
+"tempestivo",
+"anulável"
+],
+"r": 3,
+"x": "Art. 218, § 4º.",
+"n": [
+"Não.",
+"Não.",
+"Não.",
+"Correta.",
+"Não."
+],
+"e": "Tempestividade."
+}
+]
+},
+"tutela-provisoria": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2 espécies</b><span>tutela de urgência (cautelar ou antecipada) e tutela da evidência (CPC, art. 294)</span></div><div class=\"lt-stat\"><b>2 anos</b><span>prazo para rever, reformar ou invalidar a tutela antecipada estabilizada (art. 304, § 5º)</span></div><div class=\"lt-stat\"><b>30 dias</b><span>prazo para formular o pedido principal após efetivada a cautelar antecedente (art. 308)</span></div><div class=\"lt-stat\"><b>72 horas</b><span>prazo para o representante judicial da pessoa de direito público se manifestar antes de liminar em MS coletivo e ACP (Lei 8.437, art. 2º)</span></div></div>\n<h3>1. Visão geral: o que é tutela provisória</h3>\n<ul><li><b>Tutela provisória</b> é a tutela jurisdicional concedida com base em <b>cognição sumária</b> (juízo de probabilidade), antes da decisão final, para distribuir de modo mais justo o <b>ônus do tempo</b> do processo. Ela é <b>provisória</b> porque pode ser revogada ou modificada e será substituída pela tutela definitiva.</li><li><b>Espécies</b> (art. 294): a tutela provisória pode fundamentar-se em <b>urgência</b> ou <b>evidência</b>. A tutela provisória de <b>urgência</b>, <b>cautelar</b> ou <b>antecipada</b>, pode ser concedida em caráter <b>antecedente</b> ou <b>incidental</b> (parágrafo único). A tutela da <b>evidência</b> só é concedida em caráter <b>incidental</b> (não há tutela da evidência antecedente).</li></ul>\n<table class=\"tab\"><thead><tr><th>Espécie</th><th>Fundamento</th><th>Finalidade</th><th>Pode ser antecedente?</th></tr></thead><tbody><tr><td><b>Urgência antecipada</b> (satisfativa)</td><td>probabilidade do direito + perigo de dano ou risco ao resultado útil</td><td><b>satisfazer</b> desde logo, total ou parcialmente, o direito afirmado (adiantar os efeitos da sentença)</td><td><b>sim</b> (arts. 303 e 304), com possibilidade de <b>estabilização</b></td></tr><tr><td><b>Urgência cautelar</b> (conservativa)</td><td>probabilidade do direito + perigo de dano ou risco ao resultado útil</td><td><b>assegurar</b> o resultado útil do processo, sem satisfazer o direito (arresto, sequestro, arrolamento)</td><td><b>sim</b> (arts. 305 a 310)</td></tr><tr><td><b>Evidência</b></td><td>direito evidente, <b>independentemente de perigo</b></td><td>redistribuir o ônus do tempo quando o direito é muito provável</td><td><b>não</b>: só incidental (art. 311)</td></tr></tbody></table>\n<ul><li><b>Fungibilidade</b> (art. 305, parágrafo único): caso entenda que o pedido de tutela cautelar antecedente tem <b>natureza antecipada</b>, o juiz observará o disposto no art. 303. A doutrina e o STJ admitem a fungibilidade <b>nos dois sentidos</b> (de cautelar para antecipada e de antecipada para cautelar), em nome da instrumentalidade.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A tutela da evidência pode ser requerida em caráter antecedente</span><br>✅ <span class=\"certo\">Só em caráter <b>incidental</b></span></li><li>❌ <span class=\"banca\">A tutela cautelar satisfaz o direito do autor</span><br>✅ <span class=\"certo\">A cautelar <b>assegura</b> o resultado útil; quem <b>satisfaz</b> é a antecipada</span></li><li>❌ <span class=\"banca\">A tutela de evidência exige perigo de dano</span><br>✅ <span class=\"certo\">Concede-se <b>independentemente</b> de perigo (art. 311)</span></li><li>❌ <span class=\"banca\">Não há fungibilidade entre tutela cautelar e antecipada</span><br>✅ <span class=\"certo\">O art. 305, parágrafo único, prevê a <b>fungibilidade</b></span></li></ol></div>\n<h3>2. Disposições gerais (arts. 295 a 299)</h3>\n<ul><li><b>Custas</b> (art. 295): a tutela provisória requerida em caráter <b>incidental independe do pagamento de custas</b>.</li><li><b>Eficácia</b> (art. 296): a tutela provisória <b>conserva sua eficácia na pendência do processo</b>, mas pode, a qualquer tempo, ser <b>revogada ou modificada</b>. Salvo decisão judicial em contrário, a tutela provisória conservará a eficácia durante o período de <b>suspensão</b> do processo (parágrafo único).</li><li><b>Efetivação</b> (art. 297): o juiz poderá determinar as medidas que considerar adequadas para efetivação da tutela provisória (poder geral de efetivação, com medidas típicas e atípicas, art. 139, IV). A efetivação da tutela provisória observará as normas referentes ao <b>cumprimento provisório da sentença</b>, no que couber (parágrafo único).</li><li><b>Fundamentação</b> (art. 298): na decisão que conceder, negar, modificar ou revogar a tutela provisória, o juiz motivará seu convencimento de modo <b>claro e preciso</b>. Aplicam-se os requisitos de fundamentação do art. 489, § 1º (o juiz não pode se limitar a reproduzir o texto da lei, nem usar conceitos jurídicos indeterminados sem explicar sua incidência no caso).</li><li><b>Competência</b> (art. 299): a tutela provisória será requerida ao <b>juízo da causa</b> e, quando antecedente, ao <b>juízo competente para conhecer do pedido principal</b>. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao <b>órgão jurisdicional competente para apreciar o mérito</b> (parágrafo único). Na pendência de recurso, o pedido de efeito suspensivo ou de tutela recursal vai ao <b>relator</b> (art. 932, II; arts. 1.012, § 3º, e 1.019, I).</li><li><b>Recurso</b>: a decisão interlocutória que versar sobre <b>tutelas provisórias</b> é impugnável por <b>agravo de instrumento</b> (art. 1.015, I). Se a tutela for concedida, confirmada ou revogada <b>na sentença</b>, a apelação contra esse capítulo <b>não tem efeito suspensivo</b> (art. 1.012, § 1º, V), e o efeito suspensivo deve ser pedido ao tribunal (§ 3º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A tutela provisória incidental exige o pagamento de novas custas</span><br>✅ <span class=\"certo\"><b>Independe</b> de custas (art. 295)</span></li><li>❌ <span class=\"banca\">A tutela provisória perde a eficácia durante a suspensão do processo</span><br>✅ <span class=\"certo\"><b>Conserva</b> a eficácia, salvo decisão em contrário (art. 296, parágrafo único)</span></li><li>❌ <span class=\"banca\">Da decisão que nega tutela provisória cabe apelação</span><br>✅ <span class=\"certo\">Cabe <b>agravo de instrumento</b> (art. 1.015, I)</span></li><li>❌ <span class=\"banca\">A apelação contra sentença que confirma tutela provisória tem efeito suspensivo automático</span><br>✅ <span class=\"certo\">Esse capítulo <b>não</b> tem efeito suspensivo (art. 1.012, § 1º, V)</span></li></ol></div>\n<h3>3. Requisitos da tutela de urgência (art. 300)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CPC, art. 300</div><div class=\"art-lei\">A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. § 1º Para a concessão da tutela de urgência, o juiz pode, conforme o caso, exigir caução real ou fidejussória idônea para ressarcir os danos que a outra parte possa vir a sofrer, podendo a caução ser dispensada se a parte economicamente hipossuficiente não puder oferecê-la. § 2º A tutela de urgência pode ser concedida liminarmente ou após justificação prévia. § 3º A tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Requisitos: PROBABILIDADE do direito (fumus boni iuris) + PERIGO de dano ou risco ao resultado útil (periculum in mora)</li><li>Caução: FACULTATIVA, dispensável para o hipossuficiente</li><li>Liminar ou após JUSTIFICAÇÃO prévia</li><li>Irreversibilidade: limite da tutela ANTECIPADA</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>O CPC/2015 unificou os requisitos: os mesmos valem para a cautelar e para a antecipada. No CPC/1973, a antecipação exigia \"prova inequívoca\" e \"verossimilhança\", requisitos mais rigorosos.</li></ul></div></div>\n<ul><li><b>Irreversibilidade</b> (§ 3º): é um limite <b>relativo</b>. A doutrina e o STJ admitem a concessão de tutela antecipada com efeitos irreversíveis quando a <b>não concessão</b> também gerar dano irreversível ao autor, especialmente quando estão em jogo direitos fundamentais como <b>vida e saúde</b> (a chamada <b>irreversibilidade recíproca</b>). Exemplo: cirurgia urgente, medicamento para doença grave. O juiz faz uma <b>ponderação</b> entre os bens em conflito.</li><li><b>Medidas cautelares</b> (art. 301): a tutela de urgência de natureza cautelar pode ser efetivada mediante <b>arresto</b>, <b>sequestro</b>, <b>arrolamento de bens</b>, <b>registro de protesto contra alienação de bem</b> e qualquer outra medida idônea para asseguração do direito. O CPC/2015 <b>acabou com as cautelares nominadas</b> como procedimentos próprios: hoje há um <b>poder geral de cautela</b>, e esses nomes são só exemplos.</li><li><b>Responsabilidade objetiva</b> (art. 302): independentemente da reparação por dano processual, a parte responde pelo <b>prejuízo</b> que a efetivação da tutela de urgência causar à parte adversa, se: I, a <b>sentença lhe for desfavorável</b>; II, obtida liminarmente a tutela em caráter antecedente, não fornecer os meios necessários para a <b>citação</b> do requerido no prazo de <b>5 dias</b>; III, ocorrer a <b>cessação da eficácia</b> da medida em qualquer hipótese legal; IV, o juiz acolher a alegação de <b>decadência ou prescrição</b> da pretensão do autor. A indenização será <b>liquidada nos autos</b> em que a medida tiver sido concedida, sempre que possível (parágrafo único). A responsabilidade é <b>objetiva</b>: não depende de má-fé.</li><li><b>Devolução de valores</b>: o STJ, no <b>Tema 692</b> (revisado em 2022), fixou que a reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a <b>devolver os valores</b> dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de <b>desconto em valor que não exceda 30%</b> da importância de eventual benefício que ainda lhe estiver sendo pago. O raciocínio vale para servidores que recebem vantagens por liminar depois revogada: a Fazenda pode buscar a devolução, salvo situações específicas em que se reconheça a boa-fé objetiva por erro da Administração (STJ, Tema 1.009, para pagamentos indevidos por erro administrativo, com regra própria).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A tutela de urgência antecipada exige prova inequívoca</span><br>✅ <span class=\"certo\">O CPC/2015 exige <b>probabilidade do direito</b> e <b>perigo de dano</b> (art. 300)</span></li><li>❌ <span class=\"banca\">A caução é sempre obrigatória para a tutela de urgência</span><br>✅ <span class=\"certo\">É <b>facultativa</b>, podendo ser <b>dispensada</b> para o hipossuficiente (§ 1º)</span></li><li>❌ <span class=\"banca\">O perigo de irreversibilidade impede de forma absoluta a tutela antecipada</span><br>✅ <span class=\"certo\">A jurisprudência admite em caso de <b>irreversibilidade recíproca</b> (vida, saúde)</span></li><li>❌ <span class=\"banca\">A responsabilidade do requerente pelos danos da tutela revogada depende de má-fé</span><br>✅ <span class=\"certo\">É <b>objetiva</b> (art. 302)</span></li><li>❌ <span class=\"banca\">O CPC/2015 mantém o procedimento autônomo do arresto e do sequestro</span><br>✅ <span class=\"certo\">São só <b>exemplos</b> de medidas cautelares (art. 301)</span></li></ol></div>\n<h3>4. Tutela antecipada requerida em caráter antecedente (art. 303)</h3>\n<ul><li><b>Cabimento</b> (art. 303): nos casos em que a <b>urgência for contemporânea à propositura da ação</b>, a petição inicial pode <b>limitar-se ao requerimento da tutela antecipada</b> e à <b>indicação do pedido de tutela final</b>, com a exposição da lide, do direito que se busca realizar e do perigo de dano ou do risco ao resultado útil do processo. O autor indicará o valor da causa, que deve levar em consideração o pedido de tutela final (§ 4º), e indicará na petição inicial que pretende <b>valer-se do benefício</b> previsto no caput (§ 5º).</li><li><b>Se concedida</b> (§ 1º): o autor deverá <b>aditar a petição inicial</b>, com a complementação de sua argumentação, a juntada de novos documentos e a confirmação do pedido de tutela final, em <b>15 dias</b> ou em outro prazo maior que o juiz fixar. O réu será citado e intimado para a audiência de conciliação ou de mediação; não havendo autocomposição, o prazo para contestação será contado na forma do art. 335. Não realizado o aditamento, o processo será <b>extinto sem resolução do mérito</b> (§ 2º). O aditamento dar-se-á nos mesmos autos, <b>sem incidência de novas custas</b> processuais (§ 3º).</li><li><b>Se negada</b> (§ 6º): caso o órgão jurisdicional entenda que não há elementos para a concessão de tutela antecipada, determinará a <b>emenda da petição inicial</b> em até <b>5 dias</b>, sob pena de ser indeferida e de o processo ser extinto sem resolução de mérito.</li></ul>\n<div class=\"lt-fluxo\"><span>Urgência contemporânea à propositura</span> <em>→</em> <span>petição inicial simplificada (pedido de tutela antecipada + indicação do pedido final + benefício do art. 303)</span> <em>→</em> <span>concedida a tutela: aditamento em 15 dias e citação do réu</span> <em>→</em> <span>réu não recorre: estabilização (art. 304) e extinção do processo</span> <em>→</em> <span>qualquer parte pode propor ação para rever a tutela em 2 anos</span></div>\n<h3>5. Estabilização da tutela antecipada (art. 304)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CPC, art. 304</div><div class=\"art-lei\">A tutela antecipada, concedida nos termos do art. 303, torna-se estável se da decisão que a conceder não for interposto o respectivo recurso. § 1º No caso previsto no caput, o processo será extinto. § 2º Qualquer das partes poderá demandar a outra com o intuito de rever, reformar ou invalidar a tutela antecipada estabilizada nos termos do caput. § 3º A tutela antecipada conservará seus efeitos enquanto não revista, reformada ou invalidada por decisão de mérito proferida na ação de que trata o § 2º. (...) § 5º O direito de rever, reformar ou invalidar a tutela antecipada, previsto no § 2º deste artigo, extingue-se após 2 (dois) anos, contados da ciência da decisão que extinguiu o processo, nos termos do § 1º. § 6º A decisão que concede a tutela não fará coisa julgada, mas a estabilidade dos respectivos efeitos só será afastada por decisão que a revir, reformar ou invalidar, proferida em ação ajuizada por uma das partes, nos termos do § 2º deste artigo.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Só a tutela ANTECIPADA ANTECEDENTE se estabiliza (não a cautelar, não a incidental, não a evidência)</li><li>Requisito: o réu NÃO RECORRER</li><li>Ação para rever: prazo de 2 ANOS</li><li>NÃO faz coisa julgada</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Depois dos 2 anos, a doutrina discute se há coisa julgada material ou apenas uma estabilidade qualificada; prevalece que não cabe ação rescisória, porque não houve coisa julgada.</li></ul></div></div>\n<ul><li><b>O que impede a estabilização?</b> A lei fala em \"recurso\" (o agravo de instrumento). O STJ tem decisões no sentido de que <b>qualquer forma de impugnação</b> pelo réu, inclusive a <b>contestação</b>, é suficiente para impedir a estabilização, porque demonstra o inconformismo e a intenção de discutir o mérito (interpretação sistemática). Há precedentes em sentido mais literal, exigindo o agravo. Para a prova objetiva que cobra a letra da lei: a estabilização ocorre se <b>não for interposto o respectivo recurso</b>.</li><li><b>Fazenda Pública</b>: a doutrina majoritária admite a estabilização contra a Fazenda Pública, desde que respeitadas as restrições legais à tutela provisória (art. 1.059) e que não haja necessidade de <b>remessa necessária</b> (há divergência: parte da doutrina entende que a estabilização contra a Fazenda é incompatível com a remessa necessária). Na prática, a Procuradoria deve <b>sempre agravar</b> da tutela antecipada antecedente concedida contra o ente, para evitar a estabilização.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A tutela cautelar antecedente se estabiliza se o réu não recorrer</span><br>✅ <span class=\"certo\">Só a tutela <b>antecipada antecedente</b> se estabiliza (art. 304)</span></li><li>❌ <span class=\"banca\">A tutela estabilizada faz coisa julgada material</span><br>✅ <span class=\"certo\"><b>Não faz</b> coisa julgada (art. 304, § 6º)</span></li><li>❌ <span class=\"banca\">O prazo para rever a tutela estabilizada é de 5 anos</span><br>✅ <span class=\"certo\">É de <b>2 anos</b> da ciência da extinção (art. 304, § 5º)</span></li><li>❌ <span class=\"banca\">Concedida a tutela antecedente, o autor tem 30 dias para aditar a inicial</span><br>✅ <span class=\"certo\">Tem <b>15 dias</b> ou prazo maior fixado pelo juiz (art. 303, § 1º, I)</span></li></ol></div>\n<h3>6. Tutela cautelar requerida em caráter antecedente (arts. 305 a 310)</h3>\n<ul><li><b>Petição</b> (art. 305): a petição inicial da ação que visa à prestação de tutela cautelar em caráter antecedente indicará a <b>lide</b> e seu <b>fundamento</b>, a <b>exposição sumária do direito</b> que se objetiva assegurar e o <b>perigo de dano</b> ou o risco ao resultado útil do processo.</li><li><b>Contestação</b> (arts. 306 e 307): o réu será citado para, no prazo de <b>5 dias</b>, contestar o pedido e indicar as provas que pretende produzir. Não sendo contestado o pedido, os fatos alegados pelo autor presumir-se-ão aceitos pelo réu como ocorridos, caso em que o juiz decidirá dentro de 5 dias. Contestado o pedido, observar-se-á o <b>procedimento comum</b>.</li><li><b>Pedido principal</b> (art. 308): efetivada a tutela cautelar, o <b>pedido principal</b> terá de ser formulado pelo autor no prazo de <b>30 dias</b>, caso em que será apresentado <b>nos mesmos autos</b> em que deduzido o pedido de tutela cautelar, <b>não dependendo do adiantamento de novas custas</b> processuais. O pedido principal pode ser formulado <b>conjuntamente</b> com o pedido de tutela cautelar (§ 1º). A causa de pedir poderá ser aditada no momento de formulação do pedido principal (§ 2º). Apresentado o pedido principal, as partes serão intimadas para a audiência de conciliação ou de mediação, sem necessidade de nova citação do réu (§ 3º).</li><li><b>Cessação da eficácia</b> (art. 309): cessa a eficácia da tutela concedida em caráter antecedente, se: I, o autor <b>não deduzir o pedido principal no prazo legal</b> (30 dias); II, <b>não for efetivada dentro de 30 dias</b>; III, o juiz <b>julgar improcedente o pedido principal</b> formulado pelo autor ou <b>extinguir o processo sem resolução de mérito</b>. Se por qualquer motivo cessar a eficácia da tutela cautelar, é <b>vedado à parte renovar o pedido</b>, salvo sob <b>novo fundamento</b> (parágrafo único).</li><li><b>Independência</b> (art. 310): o <b>indeferimento da tutela cautelar não obsta</b> a que a parte formule o pedido principal, <b>nem influi no julgamento desse</b>, <b>salvo</b> se o motivo do indeferimento for o reconhecimento de <b>decadência ou de prescrição</b>.</li><li><b>Prazo de 30 dias</b>: há divergência sobre a natureza do prazo de 30 dias do art. 308. Há precedentes do STJ tratando-o como <b>processual</b> (contado em <b>dias úteis</b>) e outros como prazo de natureza material (dias corridos). Por segurança, o autor deve formular o pedido principal dentro de 30 dias <b>corridos</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Aspecto</th><th>Antecipada antecedente (art. 303)</th><th>Cautelar antecedente (art. 305)</th></tr></thead><tbody><tr><td>Finalidade</td><td>satisfazer</td><td>assegurar</td></tr><tr><td>Prazo do autor após a concessão</td><td><b>aditar</b> a inicial em <b>15 dias</b></td><td>formular o <b>pedido principal</b> em <b>30 dias</b> após a efetivação</td></tr><tr><td>Prazo de resposta do réu</td><td>contestação pelo art. 335 (15 dias), após a audiência</td><td>contestação em <b>5 dias</b></td></tr><tr><td>Estabilização</td><td><b>sim</b>, se o réu não recorrer</td><td><b>não</b></td></tr><tr><td>Consequência do descumprimento pelo autor</td><td>extinção sem mérito</td><td><b>cessa a eficácia</b> da cautelar</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O réu da cautelar antecedente tem 15 dias para contestar</span><br>✅ <span class=\"certo\">Tem <b>5 dias</b> (art. 306)</span></li><li>❌ <span class=\"banca\">O pedido principal deve ser apresentado em novo processo, com novas custas</span><br>✅ <span class=\"certo\">Nos <b>mesmos autos</b>, <b>sem novas custas</b> (art. 308)</span></li><li>❌ <span class=\"banca\">O indeferimento da cautelar sempre impede o pedido principal</span><br>✅ <span class=\"certo\"><b>Não impede</b>, salvo se fundado em <b>prescrição ou decadência</b> (art. 310)</span></li><li>❌ <span class=\"banca\">Cessada a eficácia da cautelar, a parte pode renová-la com o mesmo fundamento</span><br>✅ <span class=\"certo\">É vedado, salvo sob <b>novo fundamento</b> (art. 309, parágrafo único)</span></li></ol></div>\n<h3>7. Tutela da evidência (art. 311)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CPC, art. 311</div><div class=\"art-lei\">A tutela da evidência será concedida, independentemente da demonstração de perigo de dano ou de risco ao resultado útil do processo, quando: I - ficar caracterizado o abuso do direito de defesa ou o manifesto propósito protelatório da parte; II - as alegações de fato puderem ser comprovadas apenas documentalmente e houver tese firmada em julgamento de casos repetitivos ou em súmula vinculante; III - se tratar de pedido reipersecutório fundado em prova documental adequada do contrato de depósito, caso em que será decretada a ordem de entrega do objeto custodiado, sob cominação de multa; IV - a petição inicial for instruída com prova documental suficiente dos fatos constitutivos do direito do autor, a que o réu não oponha prova capaz de gerar dúvida razoável. Parágrafo único. Nas hipóteses dos incisos II e III, o juiz poderá decidir liminarmente.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Independe de PERIGO</li><li>Inciso I: ABUSO de defesa ou propósito PROTELATÓRIO (pressupõe a defesa do réu)</li><li>Inciso II: prova DOCUMENTAL + tese de CASOS REPETITIVOS ou SÚMULA VINCULANTE</li><li>Inciso III: contrato de DEPÓSITO</li><li>Inciso IV: prova documental do autor sem dúvida razoável do réu</li><li>LIMINAR só nos incisos II e III</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Os incisos I e IV dependem da manifestação do réu (por isso não admitem liminar).</li></ul></div></div>\n<ul><li><b>Abrangência do inciso II</b>: a doutrina amplia a leitura para incluir também os demais precedentes vinculantes do art. 927 (como as decisões do STF em controle concentrado e as teses de repercussão geral), por coerência do sistema de precedentes.</li><li><b>Fazenda Pública</b>: a tutela da evidência contra a Fazenda é admitida, mas sujeita às mesmas restrições legais da tutela provisória (art. 1.059). O inciso II é especialmente útil para o autor quando a tese contra a Fazenda já foi fixada em <b>repercussão geral</b> ou <b>recurso repetitivo</b>: nesse caso, o juiz pode conceder a tutela <b>liminarmente</b>. Na outra ponta, quando a tese favorece a Fazenda, o juiz pode julgar <b>liminarmente improcedente</b> o pedido (art. 332).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A tutela da evidência exige demonstração de perigo de dano</span><br>✅ <span class=\"certo\">Concede-se <b>independentemente</b> de perigo</span></li><li>❌ <span class=\"banca\">Todas as hipóteses de tutela da evidência admitem concessão liminar</span><br>✅ <span class=\"certo\">Só os incisos <b>II e III</b> (art. 311, parágrafo único)</span></li><li>❌ <span class=\"banca\">A tutela da evidência do inciso II exige apenas súmula do tribunal local</span><br>✅ <span class=\"certo\">Exige tese de <b>casos repetitivos</b> ou <b>súmula vinculante</b> e prova <b>documental</b></span></li><li>❌ <span class=\"banca\">O abuso do direito de defesa autoriza tutela da evidência liminar</span><br>✅ <span class=\"certo\">O inciso I pressupõe a <b>defesa</b> do réu; não cabe liminar</span></li></ol></div>\n<h3>8. Tutela provisória contra a Fazenda Pública: o art. 1.059 e as leis especiais</h3>\n<ul><li><b>Art. 1.059 do CPC</b>: à tutela provisória requerida contra a <b>Fazenda Pública</b> aplica-se o disposto nos <b>arts. 1º a 4º da Lei 8.437/1992</b> e no <b>art. 7º, § 2º, da Lei 12.016/2009</b>. Ou seja, o CPC manteve o regime de restrições às liminares contra o Poder Público previsto nas leis especiais.</li><li><b>Lei 8.437/1992, art. 1º</b>: não será cabível medida liminar contra atos do Poder Público, no procedimento cautelar ou em quaisquer outras ações de natureza cautelar ou preventiva, <b>toda vez que providência semelhante não puder ser concedida em ações de mandado de segurança</b>, em virtude de vedação legal. Não será cabível, no juízo de primeiro grau, medida cautelar inominada ou a sua liminar, quando impugnado ato de autoridade sujeita, na via de mandado de segurança, à <b>competência originária de tribunal</b> (§ 1º). <b>Não será cabível medida liminar que esgote, no todo ou em qualquer parte, o objeto da ação</b> (§ 3º). Nos casos em que cabível medida liminar, sem prejuízo da comunicação ao dirigente do órgão ou entidade, o respectivo representante judicial dela será <b>imediatamente intimado</b> (§ 4º). Não será cabível medida liminar que defira <b>compensação de créditos tributários ou previdenciários</b> (§ 5º).</li><li><b>Lei 8.437/1992, art. 2º</b>: no <b>mandado de segurança coletivo</b> e na <b>ação civil pública</b>, a liminar será concedida, quando cabível, <b>após a audiência do representante judicial da pessoa jurídica de direito público</b>, que deverá se pronunciar no prazo de <b>72 horas</b>.</li><li><b>Lei 9.494/1997, art. 1º</b>: aplica-se à tutela antecipada contra a Fazenda o disposto nas leis que restringem liminares (antigas Leis 4.348/1964 e 5.021/1966, hoje substituídas pela Lei 12.016/2009, e a Lei 8.437/1992). O <b>STF</b>, na <b>ADC 4</b> (2008), declarou <b>constitucional</b> o art. 1º da Lei 9.494/1997. A <b>Súmula 729 do STF</b> ressalva: \"A decisão na ADC 4 <b>não se aplica</b> à antecipação de tutela em causa de natureza <b>previdenciária</b>.\"</li><li><b>Lei 12.016/2009, art. 7º, § 2º</b>: dizia que não será concedida medida liminar que tenha por objeto a <b>compensação de créditos tributários</b>, a <b>entrega de mercadorias e bens provenientes do exterior</b>, a <b>reclassificação ou equiparação de servidores públicos</b> e a <b>concessão de aumento ou a extensão de vantagens ou pagamento de qualquer natureza</b>. O <b>STF</b>, na <b>ADI 4.296</b> (2021), declarou <b>inconstitucional</b> esse § 2º (e o art. 22, § 2º, que exigia oitiva prévia no MS coletivo), por entender que a vedação abstrata e genérica de liminares restringe indevidamente o poder geral de cautela do juiz e a efetividade do mandado de segurança. Com isso, a remissão do art. 1.059 ao art. 7º, § 2º, <b>perdeu efeito</b>.</li></ul>\n<div class=\"lt-jc\"><b class=\"lt-tit\">⚖ Jurisprudência comentada · STF · ADI 4.296 (2021)</b><p class=\"jc-tese\">O STF declarou inconstitucionais o art. 7º, § 2º, da Lei 12.016/2009 (vedação de liminar em MS para compensação tributária, entrega de mercadorias importadas, reclassificação e equiparação de servidores e concessão de aumento ou extensão de vantagens) e o art. 22, § 2º (exigência de oitiva prévia do representante judicial da pessoa jurídica no MS coletivo, em 72 horas). Para a maioria, impedir a concessão de liminar de forma abstrata viola o <b>acesso à justiça</b> e esvazia o MS, cabendo ao juiz avaliar caso a caso. O STF manteve outros dispositivos questionados, como a possibilidade de o juiz exigir caução, fiança ou depósito para a liminar (art. 7º, III).</p><p class=\"jc-com\">Atenção: a ADI 4.296 tratou da <b>Lei 12.016</b>. As restrições da <b>Lei 8.437/1992</b> (como a vedação de liminar que esgote o objeto da ação e a de compensação tributária no § 5º do art. 1º, e a oitiva em 72 horas na ACP do art. 2º) <b>não</b> foram objeto dessa decisão e continuam sendo aplicadas, assim como o art. 1º da Lei 9.494, validado na ADC 4. A jurisprudência, porém, relativiza essas vedações em casos de <b>saúde</b>, <b>vida</b> e <b>direitos fundamentais</b>.</p></div>\n<ul><li><b>Saúde e direitos fundamentais</b>: o STJ e o STF admitem tutela de urgência contra a Fazenda para fornecimento de <b>medicamentos</b>, <b>tratamentos</b> e <b>vagas</b> em creche ou hospital, inclusive com efeitos irreversíveis e satisfativos, porque as restrições legais devem ser interpretadas conforme a Constituição. O STJ (Tema 84) admite inclusive o <b>bloqueio de verbas públicas</b> para garantir o fornecimento de medicamentos.</li><li><b>Pagamento a servidores</b> (Lei 9.494, art. 2º-B): a sentença que tenha por objeto a <b>liberação de recurso</b>, <b>inclusão em folha de pagamento</b>, <b>reclassificação</b>, <b>equiparação</b>, <b>concessão de aumento ou extensão de vantagens</b> a servidores da União, dos Estados, do DF e dos Municípios, inclusive de suas autarquias e fundações, somente poderá ser executada <b>após seu trânsito em julgado</b>. A jurisprudência do STJ interpreta esse dispositivo restritivamente, admitindo a tutela antecipada em situações excepcionais (por exemplo, para <b>restabelecer</b> vantagem suprimida ilegalmente, porque aí não se \"concede\" aumento, mas se mantém o que já era pago).</li></ul>\n<table class=\"tab\"><thead><tr><th>Norma</th><th>Restrição à tutela provisória contra a Fazenda</th><th>Situação atual</th></tr></thead><tbody><tr><td>Lei 8.437, art. 1º, caput</td><td>não cabe liminar quando não cabível em MS por vedação legal</td><td>em vigor (alcance reduzido após a ADI 4.296)</td></tr><tr><td>Lei 8.437, art. 1º, § 3º</td><td>liminar que <b>esgote</b> o objeto da ação</td><td>em vigor, relativizada para saúde e vida</td></tr><tr><td>Lei 8.437, art. 1º, § 5º</td><td>liminar que defira <b>compensação</b> de créditos tributários ou previdenciários</td><td>em vigor (ver também Súmula 212 do STJ)</td></tr><tr><td>Lei 8.437, art. 2º</td><td>liminar em <b>MS coletivo e ACP</b> só após ouvir o ente em <b>72 horas</b></td><td>em vigor para a ACP; para o MS coletivo, o art. 22, § 2º, da Lei 12.016 foi declarado inconstitucional</td></tr><tr><td>Lei 9.494, art. 1º</td><td>aplica as restrições à tutela antecipada</td><td>constitucional (ADC 4), salvo causas previdenciárias (Súmula 729 do STF)</td></tr><tr><td>Lei 9.494, art. 2º-B</td><td>execução de decisões sobre vencimentos de servidores só após trânsito</td><td>em vigor, interpretada restritivamente</td></tr><tr><td>Lei 12.016, art. 7º, § 2º</td><td>liminar em MS para compensação, mercadorias importadas, reclassificação e aumento de servidores</td><td><b>inconstitucional</b> (ADI 4.296)</td></tr></tbody></table>\n<ul><li><b>Compensação tributária</b>: a <b>Súmula 212 do STJ</b> diz que \"a compensação de créditos tributários não pode ser deferida em ação cautelar ou por medida liminar cautelar ou antecipatória\". O CTN (art. 170-A) também veda a compensação, mediante aproveitamento de tributo objeto de contestação judicial, <b>antes do trânsito em julgado</b> da decisão. Apesar da ADI 4.296, essas regras continuam relevantes por força do CTN e da Lei 8.437.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O CPC/2015 revogou todas as restrições às liminares contra a Fazenda</span><br>✅ <span class=\"certo\">O art. 1.059 <b>manteve</b> as restrições da Lei 8.437 e da Lei 12.016</span></li><li>❌ <span class=\"banca\">O STF declarou inconstitucional o art. 1º da Lei 9.494/1997</span><br>✅ <span class=\"certo\">Declarou <b>constitucional</b> (ADC 4), com a ressalva da <b>Súmula 729</b> (previdenciária)</span></li><li>❌ <span class=\"banca\">O art. 7º, § 2º, da Lei 12.016 continua vedando liminar para equiparação de servidores</span><br>✅ <span class=\"certo\">Foi declarado <b>inconstitucional</b> na <b>ADI 4.296</b></span></li><li>❌ <span class=\"banca\">Na ACP, a liminar contra o ente público dispensa sua oitiva prévia</span><br>✅ <span class=\"certo\">Exige a audiência do representante judicial em <b>72 horas</b> (Lei 8.437, art. 2º)</span></li></ol></div>\n<h3>9. Suspensão de liminar, de segurança e de sentença</h3>\n<ul><li><b>Lei 8.437/1992, art. 4º</b>: compete ao <b>presidente do tribunal</b> ao qual couber o conhecimento do respectivo recurso <b>suspender</b>, em despacho fundamentado, a <b>execução da liminar</b> nas ações movidas contra o Poder Público ou seus agentes, a requerimento do <b>Ministério Público</b> ou da <b>pessoa jurídica de direito público interessada</b>, em caso de <b>manifesto interesse público</b> ou de <b>flagrante ilegitimidade</b>, e para evitar <b>grave lesão à ordem, à saúde, à segurança e à economia públicas</b>. Aplica-se também à <b>sentença</b> proferida em processo de ação cautelar inominada, no processo de ação popular e na ação civil pública, enquanto não transitada em julgado (§ 1º).</li><li><b>Natureza</b>: a suspensão <b>não é recurso</b>. É um <b>incidente</b> de natureza política e administrativa (contracautela), em que o presidente do tribunal <b>não examina o mérito</b> da decisão (se está certa ou errada juridicamente), mas apenas o <b>risco de grave lesão</b> aos bens públicos tutelados. Por isso pode ser usada <b>ao mesmo tempo</b> que o agravo de instrumento, sem prejuízo deste (§ 6º: a interposição do agravo de instrumento contra liminar concedida nas ações movidas contra o Poder Público e seus agentes não prejudica nem condiciona o julgamento do pedido de suspensão).</li><li><b>Procedimento</b>: o presidente do tribunal poderá ouvir o autor e o MP em <b>72 horas</b> (§ 2º). Do despacho que <b>conceder ou negar</b> a suspensão caberá <b>agravo</b> (interno), no prazo de <b>5 dias</b>, que será levado a julgamento na sessão seguinte a sua interposição (§ 3º). Se do julgamento do agravo resultar a <b>manutenção ou o restabelecimento</b> da decisão que se pretende suspender, caberá <b>novo pedido de suspensão</b> ao presidente do tribunal competente para conhecer de eventual <b>recurso especial ou extraordinário</b> (STJ ou STF) (§ 4º). É cabível também o pedido de suspensão a que se refere o § 4º quando <b>negado provimento a agravo de instrumento</b> interposto contra a liminar (§ 5º).</li><li><b>Efeito ampliado</b> (§ 8º): as liminares cujo objeto seja <b>idêntico</b> poderão ser suspensas em uma <b>única decisão</b>, podendo o presidente do tribunal estender os efeitos da suspensão a liminares supervenientes, mediante simples aditamento do pedido original.</li><li><b>Duração</b> (§ 9º): a suspensão deferida pelo presidente do tribunal <b>vigorará até o trânsito em julgado da decisão de mérito</b> na ação principal (Súmula 626 do STF, no mesmo sentido, para o mandado de segurança).</li><li><b>Mandado de segurança</b> (Lei 12.016, art. 15): regra semelhante para a <b>suspensão de segurança</b>, também a requerimento da pessoa jurídica de direito público interessada ou do MP, com agravo em <b>5 dias</b>.</li><li><b>Legitimidade</b>: o STJ e o STF admitem que <b>pessoas jurídicas de direito privado prestadoras de serviço público</b> e <b>concessionárias</b> formulem pedido de suspensão quando estiverem defendendo <b>interesse público</b> primário (por exemplo, a continuidade de um serviço essencial).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A suspensão de liminar é recurso e substitui o agravo de instrumento</span><br>✅ <span class=\"certo\">É <b>incidente</b> (contracautela); pode coexistir com o agravo (Lei 8.437, art. 4º, § 6º)</span></li><li>❌ <span class=\"banca\">O presidente do tribunal examina se a liminar está juridicamente correta</span><br>✅ <span class=\"certo\">Examina o risco de <b>grave lesão à ordem, saúde, segurança e economia públicas</b></span></li><li>❌ <span class=\"banca\">A suspensão vigora até a sentença de primeiro grau</span><br>✅ <span class=\"certo\">Vigora até o <b>trânsito em julgado</b> da decisão de mérito (§ 9º; Súmula 626)</span></li><li>❌ <span class=\"banca\">Contra a decisão do presidente que defere a suspensão não cabe nenhum recurso</span><br>✅ <span class=\"certo\">Cabe <b>agravo</b> em <b>5 dias</b> (§ 3º)</span></li><li>❌ <span class=\"banca\">Mantida a liminar pelo tribunal, não cabe novo pedido de suspensão</span><br>✅ <span class=\"certo\">Cabe novo pedido ao presidente do <b>STJ ou do STF</b> (§ 4º)</span></li></ol></div>\n<h3>10. Execução provisória e multa contra a Fazenda</h3>\n<ul><li><b>Obrigação de pagar quantia</b>: a execução de obrigação de pagar quantia contra a Fazenda, que se submete ao regime de <b>precatório</b> ou <b>RPV</b>, depende do <b>trânsito em julgado</b> da sentença (CF, art. 100, §§ 1º, 3º e 5º, que falam em \"sentenças judiciárias transitadas em julgado\"). Por isso, em regra, <b>não cabe execução provisória</b> de quantia contra a Fazenda, nem tutela provisória que mande pagar valores atrasados fora do regime de precatório.</li><li><b>Obrigação de fazer</b>: o STF, no <b>Tema 45</b> (RE 573.872, 2017), fixou: \"A execução provisória de obrigação de <b>fazer</b> em face da Fazenda Pública <b>não atrai o regime constitucional dos precatórios</b>.\" Assim, é possível executar provisoriamente uma decisão que mande a Fazenda implantar um benefício, fornecer um medicamento, nomear um candidato ou realizar uma obra, respeitadas as restrições legais (como o art. 2º-B da Lei 9.494, interpretado restritivamente).</li><li><b>Multa diária (astreintes) contra a Fazenda</b>: é <b>admitida</b>. O STJ, no <b>Tema 98</b> (REsp 1.474.665), fixou que é possível a imposição de multa diária ao ente público para compeli-lo a fornecer <b>medicamento</b> a pessoa desprovida de recursos financeiros. A multa pode ser modificada pelo juiz (valor e periodicidade) se se tornar insuficiente ou excessiva (art. 537, § 1º). O STJ também admite a fixação da multa contra o <b>agente público</b> responsável pelo cumprimento, desde que ele tenha integrado a relação processual (para lhe garantir o contraditório).</li><li><b>Execução da multa</b>: a multa fixada liminarmente é <b>exigível desde logo</b>, mas o cumprimento provisório da multa depende de depósito em juízo, e o levantamento do valor só é permitido <b>após o trânsito em julgado</b> da sentença favorável à parte (art. 537, § 3º, com redação da Lei 13.256/2016). Contra a Fazenda, o pagamento da multa também se submete ao regime de <b>precatório</b> ou <b>RPV</b>.</li><li><b>Bloqueio de verbas</b> (STJ, Tema 84): tratando-se de fornecimento de medicamentos, cabe ao juiz adotar medidas eficazes à efetivação de suas decisões, podendo, se necessário, determinar até mesmo o <b>sequestro de valores do ente público</b>, com fundamento no art. 461, § 5º, do CPC/1973 (hoje art. 536, § 1º, do CPC/2015).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A execução provisória de obrigação de fazer contra a Fazenda depende de precatório</span><br>✅ <span class=\"certo\"><b>Não</b> atrai o regime de precatórios (<b>Tema 45</b> do STF)</span></li><li>❌ <span class=\"banca\">Não cabe multa diária contra a Fazenda Pública</span><br>✅ <span class=\"certo\">É <b>admitida</b> (STJ, <b>Tema 98</b>)</span></li><li>❌ <span class=\"banca\">O valor da multa liminar pode ser levantado antes do trânsito em julgado</span><br>✅ <span class=\"certo\">O levantamento só é permitido <b>após o trânsito em julgado</b> (art. 537, § 3º)</span></li><li>❌ <span class=\"banca\">O bloqueio de verbas públicas é vedado em qualquer hipótese</span><br>✅ <span class=\"certo\">O STJ admite para <b>medicamentos</b> (<b>Tema 84</b>)</span></li></ol></div>\n<h3>11. Casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Medicamento de alto custo contra o Município</b><p>Uma moradora de Belo Vale com doença grave pede, em ação contra o Município, o fornecimento imediato de um medicamento de alto custo incorporado ao SUS, com laudo médico e prova de que não tem recursos. O juiz concede tutela de urgência em 24 horas, com multa diária, sem ouvir o Município.</p><details><summary>Ver a solução comentada</summary><p>A tutela de urgência pode ser concedida <b>liminarmente</b> (art. 300, § 2º, e art. 9º, parágrafo único, I). A <b>irreversibilidade</b> (o remédio consumido não volta) não impede a concessão quando o risco à <b>vida e à saúde</b> é maior (irreversibilidade recíproca). A <b>multa diária</b> contra o ente é admitida (Tema 98 do STJ), e, se necessário, o <b>bloqueio de verbas</b> (Tema 84). A responsabilidade dos entes é <b>solidária</b> (Tema 793 do STF), e o Município pode buscar o <b>ressarcimento</b> do Estado ou da União conforme a repartição de competências do SUS e as regras do <b>Tema 1.234</b>. O Procurador deve <b>agravar</b> (art. 1.015, I) se houver fundamento técnico (por exemplo, existência de alternativa terapêutica no SUS), mas sem descumprir a ordem, e pode pedir <b>suspensão de liminar</b> ao presidente do TJ se houver risco de grave lesão à economia pública, demonstrando o impacto concreto.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Tutela antecipada antecedente e estabilização</b><p>Um fornecedor ajuíza tutela antecipada antecedente pedindo que o Município seja obrigado a reconhecer a validade de um contrato e suspender uma penalidade de impedimento de licitar. O juiz concede. O Procurador perde o prazo do agravo de instrumento, mas contesta.</p><details><summary>Ver a solução comentada</summary><p>Pela letra do art. 304, a tutela se <b>estabiliza</b> se não for interposto o <b>recurso</b>. Há precedentes do STJ entendendo que a <b>contestação</b> também impede a estabilização, por revelar o inconformismo do réu; o Procurador deve sustentar essa tese. Se a tutela se estabilizar, o processo é <b>extinto</b>, e o Município ainda pode ajuizar, em <b>2 anos</b>, ação para <b>rever, reformar ou invalidar</b> a tutela (art. 304, §§ 2º e 5º). Como a decisão estabilizada <b>não faz coisa julgada</b> (§ 6º), não cabe ação rescisória. Lição prática: contra a tutela antecedente, a Procuradoria deve <b>sempre agravar</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Liminar para pagar diferenças a servidores</b><p>Servidores municipais pedem tutela de urgência para que o Município passe a pagar imediatamente um adicional que nunca receberam, previsto em lei municipal.</p><details><summary>Ver a solução comentada</summary><p>A tutela que manda <b>conceder aumento ou extensão de vantagens</b> a servidores encontra a restrição do <b>art. 2º-B da Lei 9.494</b> (execução só após o trânsito). A vedação do <b>art. 7º, § 2º, da Lei 12.016</b> caiu na <b>ADI 4.296</b>, mas aquela regra é para o mandado de segurança; nas ações ordinárias, segue valendo a Lei 9.494, interpretada restritivamente. O juiz deve avaliar se há <b>urgência</b> real (o adicional não pago há anos dificilmente configura perigo de dano iminente) e se o pedido envolve <b>atrasados</b> (que só podem ser pagos por precatório ou RPV após o trânsito). O Procurador deve defender a ausência de periculum in mora e a vedação legal.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Cautelar de arresto antes da execução fiscal</b><p>O Município descobre que um grande devedor de ISS está vendendo seus imóveis antes do ajuizamento da execução fiscal.</p><details><summary>Ver a solução comentada</summary><p>O Município pode pedir <b>tutela cautelar</b> (arresto, art. 301) em caráter <b>antecedente</b> (art. 305) ou usar a <b>medida cautelar fiscal</b> da <b>Lei 8.397/1992</b>, que é específica para a Fazenda Pública e permite a <b>indisponibilidade de bens</b> do devedor de crédito tributário ou não tributário regularmente constituído, nas hipóteses do art. 2º dessa lei (por exemplo, quando o devedor põe ou tenta pôr seus bens em nome de terceiros, ou aliena bens sem proceder à devida comunicação ao órgão da Fazenda, quando exigível em virtude de lei). Requerida a medida antes da execução, a Fazenda deve propor a execução judicial em <b>60 dias</b> contados da data em que a exigência se tornar irrecorrível na esfera administrativa (Lei 8.397, art. 11).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Suspensão de liminar em concurso público</b><p>O juiz concede liminar em ação popular suspendendo a nomeação de 200 aprovados no concurso de professores do Município, às vésperas do início do ano letivo. O Município quer evitar o fechamento de escolas.</p><details><summary>Ver a solução comentada</summary><p>Além do <b>agravo de instrumento</b>, o Município pode pedir ao <b>presidente do TJ</b> a <b>suspensão da liminar</b> (Lei 8.437, art. 4º, § 1º, que alcança a ação popular), demonstrando o risco de <b>grave lesão à ordem pública</b> (interrupção do serviço essencial de educação). O presidente não examina se a liminar está correta, só o risco. Se a suspensão for negada e o agravo interno também, cabe <b>novo pedido</b> ao presidente do <b>STJ ou do STF</b>, conforme a matéria (§ 4º). A suspensão concedida vale até o <b>trânsito em julgado</b> da ação (§ 9º).</p></details></div>\n<h3>12. Questões comentadas</h3>\n<ul><li><b>\"A tutela provisória pode fundamentar-se em urgência ou evidência.\"</b> Certo: art. 294.</li><li><b>\"A tutela da evidência pode ser requerida em caráter antecedente.\"</b> Errado: só incidental.</li><li><b>\"A tutela provisória requerida em caráter incidental depende do pagamento de custas.\"</b> Errado: art. 295.</li><li><b>\"A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.\"</b> Certo: art. 300.</li><li><b>\"A tutela de urgência de natureza cautelar não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão.\"</b> Errado: a vedação legal é para a tutela <b>antecipada</b> (art. 300, § 3º), e mesmo assim é relativizada.</li><li><b>\"A tutela antecipada concedida em caráter antecedente torna-se estável se da decisão que a conceder não for interposto o respectivo recurso.\"</b> Certo: art. 304.</li><li><b>\"A decisão que concede a tutela estabilizada faz coisa julgada.\"</b> Errado: art. 304, § 6º.</li><li><b>\"Efetivada a tutela cautelar antecedente, o pedido principal terá de ser formulado em 30 dias, nos mesmos autos, sem novas custas.\"</b> Certo: art. 308.</li><li><b>\"O indeferimento da tutela cautelar impede a formulação do pedido principal.\"</b> Errado: art. 310, salvo prescrição ou decadência.</li><li><b>\"Na hipótese de abuso do direito de defesa, o juiz pode conceder tutela da evidência liminarmente.\"</b> Errado: liminar só nos incisos II e III.</li><li><b>\"À tutela provisória requerida contra a Fazenda Pública aplica-se o disposto nos arts. 1º a 4º da Lei 8.437/1992.\"</b> Certo: art. 1.059.</li><li><b>\"Segundo o STF, é constitucional a vedação de liminar em mandado de segurança para concessão de aumento a servidores.\"</b> Errado: ADI 4.296 declarou o art. 7º, § 2º, inconstitucional.</li><li><b>\"A suspensão de liminar deferida pelo presidente do tribunal vigorará até o trânsito em julgado da decisão de mérito na ação principal.\"</b> Certo: Lei 8.437, art. 4º, § 9º.</li><li><b>\"A execução provisória de obrigação de fazer contra a Fazenda Pública não atrai o regime dos precatórios.\"</b> Certo: Tema 45 do STF.</li></ul>\n<h3>13. Como as bancas cobram este tópico</h3>\n<ul><li><b>Classificação</b>: urgência (cautelar e antecipada) x evidência; antecedente x incidental; a evidência é só incidental.</li><li><b>Prazos</b>: 15 dias (aditamento na antecipada antecedente), 5 dias (emenda se negada; contestação na cautelar antecedente; citação no art. 302, II), 30 dias (pedido principal; efetivação da cautelar), 2 anos (rever a tutela estabilizada), 72 horas (oitiva do ente na ACP), 5 dias (agravo contra decisão na suspensão).</li><li><b>Estabilização</b>: só da antecipada antecedente; não faz coisa julgada; ação revisional em 2 anos.</li><li><b>Tutela da evidência</b>: as quatro hipóteses e as duas que admitem liminar (II e III).</li><li><b>Fazenda Pública</b>: art. 1.059; ADC 4 e Súmula 729; ADI 4.296; suspensão de liminar (natureza, legitimidade, recursos, duração); Temas 45, 84 e 98.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para não errar a liminar na evidência: os incisos <b>I</b> e <b>IV</b> dependem do comportamento do <b>réu</b> na defesa (abuso de defesa; ausência de dúvida razoável). Se dependem da defesa, não podem ser deferidos <b>antes</b> dela. Já os incisos <b>II</b> (tese vinculante) e <b>III</b> (contrato de depósito) dependem só dos <b>documentos do autor</b>: cabem <b>liminarmente</b>.</div>\n<h3>14. Tutela provisória nos tribunais: efeito suspensivo e tutela recursal</h3>\n<ul><li><b>Regra geral</b> (art. 995): os recursos <b>não impedem a eficácia da decisão</b>, salvo disposição legal ou decisão judicial em sentido diverso. A eficácia da decisão recorrida poderá ser suspensa por decisão do <b>relator</b>, se da imediata produção de seus efeitos houver <b>risco de dano grave, de difícil ou impossível reparação</b>, e ficar demonstrada a <b>probabilidade de provimento</b> do recurso (parágrafo único).</li><li><b>Apelação</b> (art. 1.012): em regra, a apelação tem <b>efeito suspensivo</b> (exceção no sistema). Mas começa a produzir efeitos <b>imediatamente</b> após a sua publicação a sentença que: I, homologa divisão ou demarcação de terras; II, condena a pagar <b>alimentos</b>; III, extingue sem resolução do mérito ou julga improcedentes os <b>embargos do executado</b>; IV, julga procedente o pedido de instituição de <b>arbitragem</b>; V, <b>confirma, concede ou revoga tutela provisória</b>; VI, decreta a <b>interdição</b>. Nesses casos, o apelado pode promover o <b>cumprimento provisório</b> depois de publicada a sentença (§ 2º). O pedido de efeito suspensivo pode ser formulado por requerimento dirigido ao <b>tribunal</b>, no período compreendido entre a interposição da apelação e sua distribuição, ficando o relator designado para seu exame prevento para julgá-la; ou ao <b>relator</b>, se já distribuída a apelação (§ 3º). A eficácia da sentença poderá ser suspensa pelo relator se o apelante demonstrar a <b>probabilidade de provimento</b> do recurso ou se, sendo <b>relevante a fundamentação</b>, houver <b>risco de dano grave</b> ou de difícil reparação (§ 4º).</li><li><b>Agravo de instrumento</b> (art. 1.019, I): recebido o agravo, o relator poderá <b>atribuir efeito suspensivo</b> ao recurso ou <b>deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal</b> (efeito ativo), comunicando ao juiz sua decisão. Por exemplo: o juiz negou a liminar; o relator a concede no agravo.</li><li><b>Embargos de declaração</b> (art. 1.026, § 1º): os ED <b>não possuem efeito suspensivo</b> e <b>interrompem o prazo</b> para a interposição de recurso. A eficácia da decisão monocrática ou colegiada poderá ser suspensa pelo respectivo juiz ou relator se demonstrada a probabilidade de provimento do recurso ou, sendo relevante a fundamentação, se houver risco de dano grave ou de difícil reparação.</li><li><b>Recursos especial e extraordinário</b> (art. 1.029, § 5º): o pedido de concessão de efeito suspensivo a RE ou REsp poderá ser formulado por requerimento dirigido: I, ao tribunal superior respectivo, no período compreendido entre a <b>publicação da decisão de admissão</b> do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo; II, ao <b>relator</b>, se já distribuído o recurso; III, ao <b>presidente ou ao vice-presidente do tribunal recorrido</b>, no período compreendido entre a <b>interposição</b> do recurso e a <b>publicação da decisão de admissão</b> do recurso, assim como no caso de o recurso ter sido <b>sobrestado</b> (repetitivos). As Súmulas 634 e 635 do STF, que tratavam do tema, foram em grande parte absorvidas por essa regra.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em regra, os recursos impedem a eficácia da decisão</span><br>✅ <span class=\"certo\"><b>Não impedem</b>, salvo lei ou decisão em contrário (art. 995)</span></li><li>❌ <span class=\"banca\">A apelação contra sentença que confirma tutela provisória tem efeito suspensivo</span><br>✅ <span class=\"certo\">Produz efeitos <b>imediatamente</b> (art. 1.012, § 1º, V)</span></li><li>❌ <span class=\"banca\">O relator do agravo não pode conceder a liminar negada pelo juiz</span><br>✅ <span class=\"certo\">Pode deferir a pretensão recursal em <b>antecipação de tutela</b> (art. 1.019, I)</span></li><li>❌ <span class=\"banca\">Os embargos de declaração têm efeito suspensivo automático</span><br>✅ <span class=\"certo\"><b>Não</b> têm; <b>interrompem</b> o prazo de outros recursos (art. 1.026)</span></li></ol></div>\n<h3>15. Tutela específica e tutela inibitória (arts. 497 a 501)</h3>\n<ul><li><b>Tutela específica</b> (art. 497): na ação que tenha por objeto a prestação de <b>fazer ou de não fazer</b>, o juiz, se procedente o pedido, concederá a <b>tutela específica</b> ou determinará providências que assegurem a obtenção de <b>tutela pelo resultado prático equivalente</b>. Para a concessão da tutela específica destinada a <b>inibir a prática, a reiteração ou a continuação de um ilícito</b>, ou a sua <b>remoção</b>, é <b>irrelevante a demonstração da ocorrência de dano ou da existência de culpa ou dolo</b> (parágrafo único). É a base da <b>tutela inibitória</b> (contra o ilícito, e não contra o dano).</li><li><b>Entrega de coisa</b> (art. 498): na ação que tenha por objeto a entrega de coisa, o juiz, ao conceder a tutela específica, fixará o prazo para o cumprimento da obrigação.</li><li><b>Conversão em perdas e danos</b> (art. 499): a obrigação somente será convertida em <b>perdas e danos</b> se o <b>autor o requerer</b> ou se <b>impossível</b> a tutela específica ou a obtenção de tutela pelo resultado prático equivalente. A <b>Lei 14.833/2024</b> incluiu um parágrafo único: nas hipóteses de responsabilidade contratual previstas nos arts. 441, 618 e 757 do Código Civil (vício redibitório, responsabilidade do empreiteiro pela solidez da obra e contrato de seguro) e de responsabilidade <b>subsidiária e solidária</b>, se requerida a conversão da obrigação em perdas e danos, o juiz concederá, <b>primeiramente</b>, a faculdade para o <b>cumprimento da tutela específica</b>.</li><li><b>Multa e indenização</b> (art. 500): a indenização por perdas e danos dar-se-á <b>sem prejuízo da multa</b> fixada periodicamente para compelir o réu ao cumprimento específico da obrigação.</li><li><b>Declaração de vontade</b> (art. 501): na ação que tenha por objeto a emissão de declaração de vontade, a sentença que julgar procedente o pedido, uma vez transitada em julgado, produzirá <b>todos os efeitos da declaração não emitida</b>.</li><li><b>Exemplo na Fazenda</b>: o Município pode pedir tutela <b>inibitória</b> para impedir que uma empresa continue a construir sem alvará em área de preservação, sem precisar provar que já houve dano: basta a ameaça de ilícito. É também a lógica das ações civis públicas ambientais preventivas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Para a tutela inibitória é preciso provar o dano e a culpa do réu</span><br>✅ <span class=\"certo\">É <b>irrelevante</b> demonstrar dano, culpa ou dolo (art. 497, parágrafo único)</span></li><li>❌ <span class=\"banca\">A obrigação de fazer converte-se em perdas e danos a critério do réu</span><br>✅ <span class=\"certo\">Só se o <b>autor requerer</b> ou se <b>impossível</b> a tutela específica (art. 499)</span></li><li>❌ <span class=\"banca\">A indenização por perdas e danos exclui a multa</span><br>✅ <span class=\"certo\">É <b>sem prejuízo</b> da multa (art. 500)</span></li><li>❌ <span class=\"banca\">A sentença que substitui declaração de vontade produz efeitos desde a publicação</span><br>✅ <span class=\"certo\">Produz efeitos <b>uma vez transitada em julgado</b> (art. 501)</span></li></ol></div>\n<h3>16. Produção antecipada de provas e medida cautelar fiscal</h3>\n<ul><li><b>Produção antecipada de provas</b> (arts. 381 a 383): admitida nos casos em que: I, haja <b>fundado receio</b> de que venha a tornar-se impossível ou muito difícil a verificação de certos fatos na pendência da ação (urgência); II, a prova a ser produzida seja suscetível de viabilizar a <b>autocomposição</b> ou outro meio adequado de solução de conflito; III, o prévio conhecimento dos fatos possa <b>justificar ou evitar o ajuizamento de ação</b>. Os incisos II e III mostram que a produção antecipada deixou de ser exclusivamente cautelar: existe um <b>direito autônomo à prova</b>. A produção antecipada da prova é da competência do juízo do foro onde esta deva ser produzida ou do foro de domicílio do réu, e <b>não previne</b> a competência do juízo para a ação que venha a ser proposta (art. 381, §§ 2º e 3º). O juiz <b>não se pronunciará</b> sobre a ocorrência ou a inocorrência do fato, nem sobre as respectivas consequências jurídicas (art. 382, § 2º). Neste procedimento, <b>não se admitirá defesa ou recurso</b>, salvo contra decisão que indeferir totalmente a produção da prova pleiteada pelo requerente originário (art. 382, § 4º).</li><li><b>Medida cautelar fiscal</b> (Lei 8.397/1992): pode ser instaurada <b>após a constituição do crédito</b>, inclusive no curso da execução judicial da Dívida Ativa da União, dos Estados, do DF, dos Municípios e respectivas autarquias (art. 1º). Excepcionalmente, pode ser requerida <b>antes da constituição</b> do crédito em algumas hipóteses (quando o devedor, notificado, põe ou tenta pôr bens em nome de terceiros, ou aliena bens sem comunicação exigida por lei). Hipóteses (art. 2º): o devedor que, sem domicílio certo, intenta ausentar-se ou alienar bens; tendo domicílio certo, ausenta-se ou tenta se ausentar, visando a elidir o adimplemento; caindo em insolvência, aliena ou tenta alienar bens; contrai ou tenta contrair dívidas que comprometam a liquidez do seu patrimônio; notificado pela Fazenda para que proceda ao recolhimento do crédito fiscal, deixa de pagá-lo no prazo legal, salvo se suspensa sua exigibilidade, ou põe ou tenta por seus bens em nome de terceiros; possui débitos que somam valor superior a <b>30% do seu patrimônio</b> conhecido.</li><li><b>Requisitos e efeitos</b>: são essenciais <b>prova literal da constituição do crédito fiscal</b> e <b>prova documental</b> de algum dos casos do art. 2º (art. 3º). A decretação produz, de imediato, a <b>indisponibilidade dos bens</b> do requerido, até o limite da satisfação da obrigação (art. 4º). Na pessoa jurídica, a indisponibilidade recai somente sobre os bens do ativo permanente, podendo, ainda, ser estendida aos bens do acionista controlador e aos dos que em razão do contrato social ou estatuto tenham poderes para fazer a empresa cumprir suas obrigações fiscais, ao tempo do fato gerador, nos casos de lançamento de ofício. O juiz concederá liminarmente a medida, <b>dispensada a Fazenda de justificação prévia e de prestação de caução</b> (art. 7º). O requerido será citado para contestar em <b>15 dias</b> (art. 8º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A produção antecipada de provas exige sempre urgência</span><br>✅ <span class=\"certo\">Também cabe para viabilizar <b>autocomposição</b> ou para <b>justificar ou evitar</b> o ajuizamento (art. 381, II e III)</span></li><li>❌ <span class=\"banca\">A produção antecipada de provas previne a competência para a ação principal</span><br>✅ <span class=\"certo\"><b>Não previne</b> (art. 381, § 3º)</span></li><li>❌ <span class=\"banca\">Na medida cautelar fiscal, a Fazenda deve prestar caução</span><br>✅ <span class=\"certo\">É <b>dispensada</b> de justificação prévia e de caução (Lei 8.397, art. 7º)</span></li><li>❌ <span class=\"banca\">A medida cautelar fiscal só pode ser usada pela União</span><br>✅ <span class=\"certo\">Pode ser usada por União, <b>Estados, DF, Municípios</b> e autarquias (art. 1º)</span></li></ol></div>\n<h3>17. Fundamentação das decisões sobre tutela provisória</h3>\n<ul><li><b>Art. 489, § 1º</b>: não se considera <b>fundamentada</b> qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que: I, se limitar à <b>indicação, à reprodução ou à paráfrase de ato normativo</b>, sem explicar sua relação com a causa ou a questão decidida; II, empregar <b>conceitos jurídicos indeterminados</b>, sem explicar o motivo concreto de sua incidência no caso; III, invocar motivos que se prestariam a justificar <b>qualquer outra decisão</b>; IV, <b>não enfrentar todos os argumentos</b> deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; V, se limitar a invocar <b>precedente ou enunciado de súmula</b>, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; VI, deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, <b>sem demonstrar a existência de distinção</b> no caso em julgamento ou a <b>superação</b> do entendimento.</li><li><b>Aplicação às liminares</b>: decisões como \"presentes os requisitos legais, defiro a liminar\" ou \"ausentes os requisitos, indefiro\" são <b>nulas</b> por falta de fundamentação (art. 489, § 1º, I e III, combinado com o art. 298). O juiz deve indicar por que considera <b>provável</b> o direito e qual é o <b>perigo</b> concreto. Isso vale também para a decisão que <b>nega</b>: a Procuradoria pode usar o argumento a seu favor quando a liminar contra o ente for concedida sem fundamentação adequada.</li><li><b>Ponderação</b> (art. 489, § 2º): no caso de colisão entre normas, o juiz deve justificar o objeto e os critérios gerais da ponderação efetuada, enunciando as razões que autorizam a interferência na norma afastada e as premissas fáticas que fundamentam a conclusão. É exatamente o que ocorre na tutela com efeitos irreversíveis em saúde.</li><li><b>Consequencialismo</b> (LINDB, art. 20, incluído pela Lei 13.655/2018): nas esferas administrativa, controladora e <b>judicial</b>, não se decidirá com base em <b>valores jurídicos abstratos</b> sem que sejam consideradas as <b>consequências práticas</b> da decisão. A motivação demonstrará a necessidade e a adequação da medida imposta, inclusive em face das possíveis alternativas. Para a Fazenda, esse dispositivo é argumento relevante contra liminares de grande impacto orçamentário sem análise de consequências.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Basta ao juiz dizer que estão presentes os requisitos legais para conceder a liminar</span><br>✅ <span class=\"certo\">A decisão seria <b>nula</b> por falta de fundamentação (art. 489, § 1º)</span></li><li>❌ <span class=\"banca\">O dever de fundamentação analítica só se aplica a sentenças</span><br>✅ <span class=\"certo\">Aplica-se a <b>qualquer decisão</b>, inclusive interlocutória (art. 489, § 1º)</span></li><li>❌ <span class=\"banca\">A LINDB não se aplica às decisões judiciais</span><br>✅ <span class=\"certo\">O art. 20 alcança as esferas administrativa, controladora e <b>judicial</b></span></li></ol></div>\n<h3>18. Tutela provisória em outros procedimentos</h3>\n<ul><li><b>Mandado de segurança</b> (Lei 12.016, art. 7º, III): ao despachar a inicial, o juiz ordenará que se <b>suspenda o ato</b> que deu motivo ao pedido, quando houver <b>fundamento relevante</b> e do ato impugnado puder resultar a <b>ineficácia da medida</b>, caso seja finalmente deferida, sendo facultado exigir do impetrante <b>caução, fiança ou depósito</b>, com o objetivo de assegurar o ressarcimento à pessoa jurídica. Os efeitos da medida liminar, salvo se revogada ou cassada, persistirão até a prolação da sentença (art. 7º, § 3º). Da decisão do juiz de primeiro grau que conceder ou denegar a liminar caberá <b>agravo de instrumento</b> (§ 1º). Deferida a liminar, o processo terá <b>prioridade</b> para julgamento (§ 4º).</li><li><b>Ação popular</b> (Lei 4.717, art. 5º, § 4º): na defesa do patrimônio público caberá a <b>suspensão liminar</b> do ato lesivo impugnado.</li><li><b>Ação civil pública</b> (Lei 7.347, art. 12): poderá o juiz conceder <b>mandado liminar</b>, com ou sem justificação prévia, em decisão sujeita a agravo. A requerimento de pessoa jurídica de direito público interessada, e para evitar grave lesão à ordem, à saúde, à segurança e à economia pública, poderá o presidente do tribunal a que competir o conhecimento do respectivo recurso suspender a execução da liminar (§ 1º). A multa cominada liminarmente só será <b>exigível do réu após o trânsito em julgado</b> da decisão favorável ao autor, mas será devida desde o dia em que se houver configurado o descumprimento (§ 2º).</li><li><b>Improbidade administrativa</b> (Lei 8.429, art. 16, com redação da Lei 14.230/2021): na ação de improbidade, poderá ser formulado, em caráter antecedente ou incidente, pedido de <b>indisponibilidade de bens</b> dos réus, a fim de garantir a integral recomposição do erário ou do acréscimo patrimonial resultante de enriquecimento ilícito. O pedido de indisponibilidade de bens somente será deferido mediante a demonstração no caso concreto de <b>perigo de dano irreparável ou de risco ao resultado útil do processo</b> (§ 3º), o que <b>superou</b> o entendimento antigo do STJ (Tema 701) de que o periculum in mora era <b>presumido</b>. A indisponibilidade recairá sobre bens que assegurem <b>exclusivamente</b> o integral <b>ressarcimento</b> do dano, <b>sem incidir</b> sobre os valores da <b>multa civil</b> (§ 10), e não poderá recair sobre quantia de até <b>40 salários mínimos</b> depositada em caderneta de poupança, em outras aplicações financeiras ou em conta-corrente (§ 13). Há ordem de preferência: veículos, bens imóveis, bens móveis em geral, semoventes, navios e aeronaves, ações e quotas de sociedades simples e empresárias, pedras e metais preciosos e, apenas na inexistência desses, o bloqueio de contas bancárias (§ 11).</li><li><b>Juizados Especiais da Fazenda Pública</b> (Lei 12.153, art. 3º): o juiz poderá, <b>de ofício ou a requerimento</b> das partes, deferir quaisquer <b>providências cautelares e antecipatórias</b> no curso do processo, para evitar dano de difícil ou de incerta reparação. Somente se admitirá <b>recurso</b> contra as decisões que deferirem providências cautelares e antecipatórias e contra a sentença (art. 4º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No mandado de segurança, a liminar perde efeitos após 90 dias</span><br>✅ <span class=\"certo\">Persiste <b>até a sentença</b>, salvo revogação (Lei 12.016, art. 7º, § 3º)</span></li><li>❌ <span class=\"banca\">Na ação de improbidade, o perigo de dano para a indisponibilidade de bens é presumido</span><br>✅ <span class=\"certo\">Após a Lei 14.230/2021, deve ser <b>demonstrado</b> no caso concreto (art. 16, § 3º)</span></li><li>❌ <span class=\"banca\">A multa liminar da ACP é exigível imediatamente</span><br>✅ <span class=\"certo\">Só é exigível <b>após o trânsito em julgado</b>, mas é devida desde o descumprimento (Lei 7.347, art. 12, § 2º)</span></li><li>❌ <span class=\"banca\">Nos Juizados da Fazenda, o juiz não pode conceder cautelares de ofício</span><br>✅ <span class=\"certo\">Pode, <b>de ofício ou a requerimento</b> (Lei 12.153, art. 3º)</span></li></ol></div>\n<h3>19. Exercício integrado: a defesa do Município contra uma liminar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A liminar do transporte escolar</b><p>Uma associação de pais ajuíza ação civil pública contra o Município de Belo Vale pedindo liminar para obrigar o Município a contratar, em 48 horas, transporte escolar para 120 alunos da zona rural, sob pena de multa diária de R$ 10 mil e bloqueio de verbas. O juiz concede a liminar sem ouvir o Município. Como o Procurador deve agir?</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Oitiva prévia</b>: na <b>ação civil pública</b>, a liminar contra a pessoa jurídica de direito público deve ser precedida da <b>audiência do representante judicial em 72 horas</b> (Lei 8.437, art. 2º). A ausência dessa oitiva é vício a ser alegado no agravo, embora a jurisprudência a relativize em casos de urgência extrema envolvendo direitos fundamentais (educação de crianças). (2) <b>Agravo de instrumento</b> (art. 1.015, I; Lei 7.347, art. 12), com pedido de <b>efeito suspensivo</b> ao relator (art. 1.019, I), demonstrando a probabilidade de provimento e o risco de dano grave (por exemplo, impossibilidade material de contratar em 48 horas sem violar a Lei 14.133, cabendo, no máximo, contratação emergencial com dispensa do art. 75, VIII). (3) <b>Suspensão de liminar</b> ao presidente do TJ (Lei 8.437, art. 4º, § 1º), se houver risco de grave lesão à ordem ou à economia pública, sem prejuízo do agravo. (4) <b>Multa</b>: na ACP, a multa liminar só é exigível após o trânsito em julgado (Lei 7.347, art. 12, § 2º); o valor pode ser reduzido se excessivo (art. 537, § 1º). (5) <b>Bloqueio de verbas</b>: é medida excepcional; o Procurador deve argumentar que não há recusa do ente e que o bloqueio desorganiza o orçamento, pedindo prazo razoável. (6) <b>Mérito</b>: o direito ao transporte escolar é dever do Estado (CF, art. 208, VII), o que torna difícil derrubar a liminar no mérito; a estratégia mais realista é <b>ajustar o prazo e a forma</b> de cumprimento, demonstrando boa-fé e propondo cronograma, inclusive por meio de <b>acordo</b> na própria ACP (com natureza de TAC judicial).</p></details></div>\n<ul><li><b>Moral do exercício</b>: contra liminares, a Procuradoria tem quatro frentes: <b>oitiva prévia</b> (quando a lei exige), <b>agravo com efeito suspensivo</b>, <b>suspensão de liminar</b> (para risco de grave lesão) e <b>negociação</b> do cumprimento. Escolher bem a frente depende do caso: em saúde e educação de crianças, o Judiciário tende a manter a obrigação e a discutir só prazo e forma.</li></ul>\n<h3>20. Medidas de urgência na execução: arresto executivo e averbação premonitória</h3>\n<ul><li><b>Averbação premonitória</b> (art. 828): o exequente poderá obter <b>certidão</b> de que a execução foi <b>admitida pelo juiz</b>, com identificação das partes e do valor da causa, para fins de <b>averbação</b> no registro de imóveis, de veículos ou de outros bens sujeitos a penhora, arresto ou indisponibilidade. No prazo de <b>10 dias</b> de sua concretização, o exequente deverá comunicar ao juízo as averbações efetivadas (§ 1º). Formalizada a penhora sobre bens suficientes para cobrir o valor da dívida, o exequente providenciará, no prazo de <b>10 dias</b>, o <b>cancelamento</b> das averbações relativas àqueles não penhorados (§ 2º). Presume-se em <b>fraude à execução</b> a alienação ou a oneração de bens efetuada após a averbação (§ 4º). O exequente que promover averbação manifestamente indevida ou não cancelar as averbações indenizará a parte contrária (§ 5º).</li><li><b>Arresto executivo</b> (art. 830): se o <b>oficial de justiça não encontrar o executado</b>, <b>arrestar-lhe-á tantos bens quantos bastem</b> para garantir a execução. Nos <b>10 dias</b> seguintes à efetivação do arresto, o oficial de justiça procurará o executado <b>2 vezes</b> em dias distintos e, havendo suspeita de ocultação, realizará a <b>citação com hora certa</b>, certificando pormenorizadamente o ocorrido (§ 1º). Incumbe ao exequente requerer a citação por <b>edital</b> quando frustradas a pessoal e a com hora certa (§ 2º). Aperfeiçoada a citação e transcorrido o prazo de pagamento, o arresto <b>converter-se-á em penhora</b>, independentemente de termo (§ 3º).</li><li><b>Natureza do arresto executivo</b>: não é medida cautelar propriamente dita (não exige perigo nem probabilidade), mas uma <b>pré-penhora</b> que decorre da simples não localização do devedor. O STJ admite o <b>arresto on-line</b> (bloqueio de ativos financeiros via Sisbajud) antes da citação, quando o devedor não é localizado, inclusive na <b>execução fiscal</b> (Lei 6.830, art. 7º, III, que prevê o arresto se o executado não tiver domicílio ou dele se ocultar).</li><li><b>Indisponibilidade tributária</b> (CTN, art. 185-A): na hipótese de o devedor tributário, devidamente <b>citado</b>, <b>não pagar nem apresentar bens à penhora</b> no prazo legal e <b>não forem encontrados bens penhoráveis</b>, o juiz determinará a <b>indisponibilidade de seus bens e direitos</b>, comunicando a decisão, preferencialmente por meio eletrônico, aos órgãos e entidades que promovem registros de transferência de bens. A indisponibilidade limitar-se-á ao valor total exigível, devendo o juiz determinar o imediato levantamento da indisponibilidade dos bens ou valores que excederem esse limite. A <b>Súmula 560 do STJ</b> exige, para essa medida, o <b>exaurimento das diligências</b> na busca por bens penhoráveis, o que fica caracterizado quando infrutíferos o pedido de constrição sobre ativos financeiros e a expedição de ofícios aos registros públicos do domicílio do executado, ao Denatran ou Detran.</li><li><b>Fraude à execução</b> (art. 792): considera-se fraude à execução a alienação ou a oneração de bem: quando sobre o bem pender ação fundada em direito real ou com pretensão reipersecutória, desde que a pendência do processo tenha sido averbada no registro público; quando tiver sido averbada a pendência do processo de execução (art. 828); quando tiver sido averbado hipoteca judiciária ou outro ato de constrição judicial originário do processo onde foi arguida a fraude; quando, ao tempo da alienação ou da oneração, tramitava contra o devedor ação capaz de reduzi-lo à <b>insolvência</b>. A <b>Súmula 375 do STJ</b> diz que o reconhecimento da fraude à execução depende do <b>registro da penhora</b> do bem alienado ou da prova de <b>má-fé</b> do terceiro adquirente. Em matéria <b>tributária</b>, porém, vale o <b>art. 185 do CTN</b>: presume-se fraudulenta a alienação ou oneração de bens por sujeito passivo em débito com a Fazenda por crédito tributário regularmente <b>inscrito em dívida ativa</b>, sem reserva de bens suficientes; o STJ (Tema 290) afastou a Súmula 375 nas execuções fiscais: basta a <b>inscrição em dívida ativa</b> (após a LC 118/2005), independentemente de boa-fé do adquirente.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O arresto executivo exige perigo de dano</span><br>✅ <span class=\"certo\">Decorre da <b>não localização</b> do executado (art. 830)</span></li><li>❌ <span class=\"banca\">A averbação premonitória dispensa comunicação ao juízo</span><br>✅ <span class=\"certo\">Deve ser comunicada em <b>10 dias</b> (art. 828, § 1º)</span></li><li>❌ <span class=\"banca\">A indisponibilidade do art. 185-A do CTN pode ser decretada antes de qualquer diligência</span><br>✅ <span class=\"certo\">Exige <b>citação</b>, falta de pagamento e <b>exaurimento</b> das diligências (Súmula 560 do STJ)</span></li><li>❌ <span class=\"banca\">Na execução fiscal, a fraude depende do registro da penhora ou da má-fé do adquirente</span><br>✅ <span class=\"certo\">Basta a alienação após a <b>inscrição em dívida ativa</b> (CTN, art. 185; Tema 290 do STJ)</span></li></ol></div>",
+"quiz": [
+{
+"p": "A tutela provisória pode fundamentar-se em urgência ou evidência.",
+"c": true,
+"prof": "CPC, art. 294.",
+"x": "Espécies.",
+"e": "Espécies"
+},
+{
+"p": "A tutela de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental.",
+"c": true,
+"prof": "CPC, art. 294, parágrafo único.",
+"x": "Momento.",
+"e": "Urgência"
+},
+{
+"p": "A tutela da evidência pode ser requerida em caráter antecedente.",
+"c": false,
+"prof": "CPC, art. 294.",
+"x": "Só incidental.",
+"e": "Evidência"
+},
+{
+"p": "A tutela provisória requerida em caráter incidental independe do pagamento de custas.",
+"c": true,
+"prof": "CPC, art. 295.",
+"x": "Custas.",
+"e": "Custas"
+},
+{
+"p": "A tutela provisória conserva sua eficácia na pendência do processo, mas pode ser revogada ou modificada a qualquer tempo.",
+"c": true,
+"prof": "CPC, art. 296.",
+"x": "Provisoriedade.",
+"e": "Eficácia"
+},
+{
+"p": "Salvo decisão em contrário, a tutela provisória conserva a eficácia durante a suspensão do processo.",
+"c": true,
+"prof": "CPC, art. 296, parágrafo único.",
+"x": "Suspensão.",
+"e": "Eficácia"
+},
+{
+"p": "A efetivação da tutela provisória observará as normas do cumprimento provisório da sentença, no que couber.",
+"c": true,
+"prof": "CPC, art. 297, parágrafo único.",
+"x": "Efetivação.",
+"e": "Efetivação"
+},
+{
+"p": "Na decisão que conceder, negar, modificar ou revogar a tutela provisória, o juiz motivará seu convencimento de modo claro e preciso.",
+"c": true,
+"prof": "CPC, art. 298.",
+"x": "Motivação.",
+"e": "Fundamentação"
+},
+{
+"p": "A tutela provisória antecedente será requerida ao juízo competente para conhecer do pedido principal.",
+"c": true,
+"prof": "CPC, art. 299.",
+"x": "Competência.",
+"e": "Competência"
+},
+{
+"p": "A tutela de urgência exige probabilidade do direito e perigo de dano ou risco ao resultado útil do processo.",
+"c": true,
+"prof": "CPC, art. 300.",
+"x": "Requisitos.",
+"e": "Requisitos"
+},
+{
+"p": "A caução para a tutela de urgência pode ser dispensada se a parte hipossuficiente não puder oferecê-la.",
+"c": true,
+"prof": "CPC, art. 300, § 1º.",
+"x": "Caução.",
+"e": "Caução"
+},
+{
+"p": "A tutela de urgência pode ser concedida liminarmente ou após justificação prévia.",
+"c": true,
+"prof": "CPC, art. 300, § 2º.",
+"x": "Liminar.",
+"e": "Liminar"
+},
+{
+"p": "A tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão.",
+"c": true,
+"prof": "CPC, art. 300, § 3º.",
+"x": "Irreversibilidade.",
+"e": "Irreversibilidade"
+},
+{
+"p": "A jurisprudência admite tutela antecipada com efeitos irreversíveis quando a negativa também gerar dano irreversível a direitos como vida e saúde.",
+"c": true,
+"prof": "Irreversibilidade recíproca.",
+"x": "Ponderação.",
+"e": "Irreversibilidade"
+},
+{
+"p": "A tutela de urgência cautelar pode ser efetivada por arresto, sequestro, arrolamento de bens e registro de protesto contra alienação.",
+"c": true,
+"prof": "CPC, art. 301.",
+"x": "Medidas.",
+"e": "Cautelar"
+},
+{
+"p": "A parte responde objetivamente pelo prejuízo que a efetivação da tutela de urgência causar à parte adversa se a sentença lhe for desfavorável.",
+"c": true,
+"prof": "CPC, art. 302, I.",
+"x": "Responsabilidade.",
+"e": "Responsabilidade"
+},
+{
+"p": "A indenização pelos danos da tutela de urgência será liquidada nos autos em que a medida foi concedida, sempre que possível.",
+"c": true,
+"prof": "CPC, art. 302, parágrafo único.",
+"x": "Liquidação.",
+"e": "Indenização"
+},
+{
+"p": "A tutela antecipada antecedente cabe quando a urgência for contemporânea à propositura da ação.",
+"c": true,
+"prof": "CPC, art. 303.",
+"x": "Contemporânea.",
+"e": "Antecedente"
+},
+{
+"p": "Concedida a tutela antecipada antecedente, o autor deve aditar a petição inicial em 15 dias ou em prazo maior fixado pelo juiz.",
+"c": true,
+"prof": "CPC, art. 303, § 1º, I.",
+"x": "Aditamento.",
+"e": "Aditamento"
+},
+{
+"p": "O aditamento da inicial na tutela antecipada antecedente dá-se nos mesmos autos, sem novas custas.",
+"c": true,
+"prof": "CPC, art. 303, § 3º.",
+"x": "Custas.",
+"e": "Aditamento"
+},
+{
+"p": "Negada a tutela antecipada antecedente, o juiz determinará a emenda da inicial em até 5 dias.",
+"c": true,
+"prof": "CPC, art. 303, § 6º.",
+"x": "Emenda.",
+"e": "Negativa"
+},
+{
+"p": "A tutela antecipada antecedente torna-se estável se da decisão que a conceder não for interposto o respectivo recurso.",
+"c": true,
+"prof": "CPC, art. 304.",
+"x": "Estabilização.",
+"e": "Estabilização"
+},
+{
+"p": "A tutela cautelar antecedente torna-se estável se o réu não recorrer.",
+"c": false,
+"prof": "CPC, art. 304.",
+"x": "Só a antecipada.",
+"e": "Estabilização"
+},
+{
+"p": "Estabilizada a tutela, o processo será extinto.",
+"c": true,
+"prof": "CPC, art. 304, § 1º.",
+"x": "Extinção.",
+"e": "Estabilização"
+},
+{
+"p": "O direito de rever, reformar ou invalidar a tutela estabilizada extingue-se em 2 anos da ciência da decisão que extinguiu o processo.",
+"c": true,
+"prof": "CPC, art. 304, § 5º.",
+"x": "2 anos.",
+"e": "Revisão"
+},
+{
+"p": "A decisão que concede a tutela antecipada estabilizada faz coisa julgada material.",
+"c": false,
+"prof": "CPC, art. 304, § 6º.",
+"x": "Não faz.",
+"e": "Coisa julgada"
+},
+{
+"p": "Há precedentes do STJ no sentido de que a contestação também impede a estabilização da tutela antecipada.",
+"c": true,
+"prof": "STJ.",
+"x": "Impugnação.",
+"e": "Estabilização"
+},
+{
+"p": "Caso o juiz entenda que o pedido de tutela cautelar antecedente tem natureza antecipada, observará o rito do art. 303.",
+"c": true,
+"prof": "CPC, art. 305, parágrafo único.",
+"x": "Fungibilidade.",
+"e": "Fungibilidade"
+},
+{
+"p": "Na tutela cautelar antecedente, o réu será citado para contestar em 5 dias.",
+"c": true,
+"prof": "CPC, art. 306.",
+"x": "5 dias.",
+"e": "Cautelar"
+},
+{
+"p": "Efetivada a tutela cautelar, o pedido principal terá de ser formulado em 30 dias, nos mesmos autos, sem novas custas.",
+"c": true,
+"prof": "CPC, art. 308.",
+"x": "Pedido principal.",
+"e": "Cautelar"
+},
+{
+"p": "O pedido principal pode ser formulado conjuntamente com o pedido de tutela cautelar.",
+"c": true,
+"prof": "CPC, art. 308, § 1º.",
+"x": "Conjunto.",
+"e": "Cautelar"
+},
+{
+"p": "Cessa a eficácia da tutela cautelar antecedente se não for efetivada dentro de 30 dias.",
+"c": true,
+"prof": "CPC, art. 309, II.",
+"x": "Cessação.",
+"e": "Cessação"
+},
+{
+"p": "Cessada a eficácia da tutela cautelar, é vedado renovar o pedido, salvo sob novo fundamento.",
+"c": true,
+"prof": "CPC, art. 309, parágrafo único.",
+"x": "Renovação.",
+"e": "Cessação"
+},
+{
+"p": "O indeferimento da tutela cautelar não obsta o pedido principal, salvo se fundado em decadência ou prescrição.",
+"c": true,
+"prof": "CPC, art. 310.",
+"x": "Independência.",
+"e": "Indeferimento"
+},
+{
+"p": "A tutela da evidência será concedida independentemente da demonstração de perigo de dano.",
+"c": true,
+"prof": "CPC, art. 311.",
+"x": "Sem perigo.",
+"e": "Evidência"
+},
+{
+"p": "Cabe tutela da evidência quando ficar caracterizado o abuso do direito de defesa ou o manifesto propósito protelatório da parte.",
+"c": true,
+"prof": "CPC, art. 311, I.",
+"x": "Abuso.",
+"e": "Evidência"
+},
+{
+"p": "Cabe tutela da evidência quando as alegações puderem ser comprovadas documentalmente e houver tese firmada em casos repetitivos ou súmula vinculante.",
+"c": true,
+"prof": "CPC, art. 311, II.",
+"x": "Tese.",
+"e": "Evidência"
+},
+{
+"p": "Nas hipóteses de tese repetitiva ou súmula vinculante e de contrato de depósito, o juiz poderá decidir liminarmente a tutela da evidência.",
+"c": true,
+"prof": "CPC, art. 311, parágrafo único.",
+"x": "Liminar.",
+"e": "Evidência"
+},
+{
+"p": "A tutela da evidência por abuso do direito de defesa pode ser concedida liminarmente.",
+"c": false,
+"prof": "CPC, art. 311, parágrafo único.",
+"x": "Não pode.",
+"e": "Evidência"
+},
+{
+"p": "À tutela provisória contra a Fazenda aplicam-se os arts. 1º a 4º da Lei 8.437/1992 e o art. 7º, § 2º, da Lei 12.016/2009.",
+"c": true,
+"prof": "CPC, art. 1.059.",
+"x": "Restrições.",
+"e": "Fazenda"
+},
+{
+"p": "Não será cabível medida liminar contra o Poder Público que esgote, no todo ou em qualquer parte, o objeto da ação.",
+"c": true,
+"prof": "Lei 8.437, art. 1º, § 3º.",
+"x": "Esgotamento.",
+"e": "Lei 8.437"
+},
+{
+"p": "Não será cabível medida liminar que defira compensação de créditos tributários ou previdenciários.",
+"c": true,
+"prof": "Lei 8.437, art. 1º, § 5º.",
+"x": "Compensação.",
+"e": "Lei 8.437"
+},
+{
+"p": "Na ação civil pública, a liminar contra pessoa jurídica de direito público será concedida após a audiência de seu representante judicial, em 72 horas.",
+"c": true,
+"prof": "Lei 8.437, art. 2º.",
+"x": "72 horas.",
+"e": "ACP"
+},
+{
+"p": "O STF declarou constitucional o art. 1º da Lei 9.494/1997, que restringe a tutela antecipada contra a Fazenda.",
+"c": true,
+"prof": "ADC 4.",
+"x": "Constitucional.",
+"e": "ADC 4"
+},
+{
+"p": "A decisão na ADC 4 não se aplica à antecipação de tutela em causa de natureza previdenciária.",
+"c": true,
+"prof": "Súmula 729 do STF.",
+"x": "Previdenciária.",
+"e": "Súmula 729"
+},
+{
+"p": "O STF declarou inconstitucional a vedação de liminar em mandado de segurança para reclassificação, equiparação e concessão de aumento a servidores.",
+"c": true,
+"prof": "ADI 4.296.",
+"x": "Art. 7º, § 2º.",
+"e": "ADI 4.296"
+},
+{
+"p": "A compensação de créditos tributários não pode ser deferida por medida liminar cautelar ou antecipatória.",
+"c": true,
+"prof": "Súmula 212 do STJ.",
+"x": "Compensação.",
+"e": "Súmula 212"
+},
+{
+"p": "A sentença que concede aumento ou extensão de vantagens a servidores somente poderá ser executada após o trânsito em julgado.",
+"c": true,
+"prof": "Lei 9.494, art. 2º-B.",
+"x": "Servidores.",
+"e": "Servidores"
+},
+{
+"p": "O presidente do tribunal pode suspender a execução de liminar contra o Poder Público para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.",
+"c": true,
+"prof": "Lei 8.437, art. 4º.",
+"x": "Suspensão.",
+"e": "Suspensão"
+},
+{
+"p": "A suspensão de liminar pode ser requerida pelo Ministério Público ou pela pessoa jurídica de direito público interessada.",
+"c": true,
+"prof": "Lei 8.437, art. 4º.",
+"x": "Legitimidade.",
+"e": "Suspensão"
+},
+{
+"p": "A suspensão de liminar é recurso e impede a interposição de agravo de instrumento.",
+"c": false,
+"prof": "Lei 8.437, art. 4º, § 6º.",
+"x": "Incidente, coexiste.",
+"e": "Natureza"
+},
+{
+"p": "Do despacho que conceder ou negar a suspensão caberá agravo em 5 dias.",
+"c": true,
+"prof": "Lei 8.437, art. 4º, § 3º.",
+"x": "5 dias.",
+"e": "Agravo"
+},
+{
+"p": "Mantida a liminar no julgamento do agravo, cabe novo pedido de suspensão ao presidente do tribunal competente para eventual recurso especial ou extraordinário.",
+"c": true,
+"prof": "Lei 8.437, art. 4º, § 4º.",
+"x": "Novo pedido.",
+"e": "STJ/STF"
+},
+{
+"p": "As liminares com objeto idêntico podem ser suspensas em uma única decisão.",
+"c": true,
+"prof": "Lei 8.437, art. 4º, § 8º.",
+"x": "Efeito ampliado.",
+"e": "Ampliação"
+},
+{
+"p": "A suspensão deferida pelo presidente do tribunal vigorará até o trânsito em julgado da decisão de mérito na ação principal.",
+"c": true,
+"prof": "Lei 8.437, art. 4º, § 9º.",
+"x": "Duração.",
+"e": "Duração"
+},
+{
+"p": "A execução provisória de obrigação de fazer em face da Fazenda Pública não atrai o regime dos precatórios.",
+"c": true,
+"prof": "Tema 45 do STF.",
+"x": "Fazer.",
+"e": "Tema 45"
+},
+{
+"p": "É possível a imposição de multa diária ao ente público para compeli-lo a fornecer medicamento.",
+"c": true,
+"prof": "Tema 98 do STJ.",
+"x": "Astreintes.",
+"e": "Multa"
+},
+{
+"p": "O STJ admite o bloqueio de verbas públicas para garantir o fornecimento de medicamentos.",
+"c": true,
+"prof": "Tema 84 do STJ.",
+"x": "Bloqueio.",
+"e": "Bloqueio"
+},
+{
+"p": "O levantamento da multa fixada liminarmente só é permitido após o trânsito em julgado da sentença favorável.",
+"c": true,
+"prof": "CPC, art. 537, § 3º.",
+"x": "Levantamento.",
+"e": "Multa"
+},
+{
+"p": "Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.",
+"c": true,
+"prof": "CPC, art. 995.",
+"x": "Regra.",
+"e": "Efeito suspensivo"
+},
+{
+"p": "Começa a produzir efeitos imediatamente a sentença que confirma, concede ou revoga tutela provisória.",
+"c": true,
+"prof": "CPC, art. 1.012, § 1º, V.",
+"x": "Apelação.",
+"e": "Apelação"
+},
+{
+"p": "O relator do agravo de instrumento pode deferir, em antecipação de tutela, a pretensão recursal.",
+"c": true,
+"prof": "CPC, art. 1.019, I.",
+"x": "Efeito ativo.",
+"e": "Agravo"
+},
+{
+"p": "Os embargos de declaração não possuem efeito suspensivo e interrompem o prazo para outros recursos.",
+"c": true,
+"prof": "CPC, art. 1.026.",
+"x": "ED.",
+"e": "ED"
+},
+{
+"p": "Para a tutela inibitória, é irrelevante a demonstração de dano ou de culpa ou dolo.",
+"c": true,
+"prof": "CPC, art. 497, parágrafo único.",
+"x": "Inibitória.",
+"e": "Inibitória"
+},
+{
+"p": "A obrigação de fazer somente será convertida em perdas e danos se o autor o requerer ou se impossível a tutela específica.",
+"c": true,
+"prof": "CPC, art. 499.",
+"x": "Conversão.",
+"e": "Perdas e danos"
+},
+{
+"p": "A Lei 14.833/2024 determinou que, em certas hipóteses de responsabilidade contratual, solidária e subsidiária, o juiz conceda primeiro a faculdade de cumprir a tutela específica antes da conversão em perdas e danos.",
+"c": true,
+"prof": "CPC, art. 499, parágrafo único.",
+"x": "Lei 14.833.",
+"e": "Tutela específica"
+},
+{
+"p": "A produção antecipada de provas pode ser admitida para viabilizar a autocomposição.",
+"c": true,
+"prof": "CPC, art. 381, II.",
+"x": "Autônoma.",
+"e": "Produção antecipada"
+},
+{
+"p": "A produção antecipada de provas não previne a competência do juízo para a ação que venha a ser proposta.",
+"c": true,
+"prof": "CPC, art. 381, § 3º.",
+"x": "Prevenção.",
+"e": "Produção antecipada"
+},
+{
+"p": "Na medida cautelar fiscal, o juiz concederá a liminar dispensando a Fazenda de justificação prévia e de caução.",
+"c": true,
+"prof": "Lei 8.397, art. 7º.",
+"x": "Dispensa.",
+"e": "Cautelar fiscal"
+},
+{
+"p": "A decretação da medida cautelar fiscal produz a indisponibilidade dos bens do requerido até o limite da obrigação.",
+"c": true,
+"prof": "Lei 8.397, art. 4º.",
+"x": "Indisponibilidade.",
+"e": "Cautelar fiscal"
+},
+{
+"p": "Não se considera fundamentada a decisão que se limita a reproduzir ato normativo sem explicar sua relação com a causa.",
+"c": true,
+"prof": "CPC, art. 489, § 1º, I.",
+"x": "Fundamentação.",
+"e": "Fundamentação"
+},
+{
+"p": "Nas decisões judiciais, não se decidirá com base em valores jurídicos abstratos sem considerar as consequências práticas da decisão.",
+"c": true,
+"prof": "LINDB, art. 20.",
+"x": "Consequências.",
+"e": "LINDB"
+},
+{
+"p": "No mandado de segurança, os efeitos da liminar persistem até a prolação da sentença, salvo revogação ou cassação.",
+"c": true,
+"prof": "Lei 12.016, art. 7º, § 3º.",
+"x": "Duração.",
+"e": "MS"
+},
+{
+"p": "Na ação civil pública, a multa cominada liminarmente só é exigível após o trânsito em julgado, mas é devida desde o descumprimento.",
+"c": true,
+"prof": "Lei 7.347, art. 12, § 2º.",
+"x": "Multa.",
+"e": "ACP"
+},
+{
+"p": "Após a Lei 14.230/2021, a indisponibilidade de bens na ação de improbidade exige demonstração de perigo de dano irreparável ou risco ao resultado útil.",
+"c": true,
+"prof": "Lei 8.429, art. 16, § 3º.",
+"x": "Periculum.",
+"e": "Improbidade"
+},
+{
+"p": "Nos Juizados da Fazenda Pública, o juiz pode deferir providências cautelares e antecipatórias de ofício ou a requerimento.",
+"c": true,
+"prof": "Lei 12.153, art. 3º.",
+"x": "Juizados.",
+"e": "Juizados"
+},
+{
+"p": "Se o oficial de justiça não encontrar o executado, arrestar-lhe-á tantos bens quantos bastem para garantir a execução.",
+"c": true,
+"prof": "CPC, art. 830.",
+"x": "Arresto executivo.",
+"e": "Arresto"
+},
+{
+"p": "Presume-se em fraude à execução a alienação de bens efetuada após a averbação premonitória.",
+"c": true,
+"prof": "CPC, art. 828, § 4º.",
+"x": "Averbação.",
+"e": "Averbação"
+},
+{
+"p": "A indisponibilidade do art. 185-A do CTN exige o exaurimento das diligências na busca de bens penhoráveis.",
+"c": true,
+"prof": "Súmula 560 do STJ.",
+"x": "Exaurimento.",
+"e": "Indisponibilidade"
+},
+{
+"p": "Nas execuções fiscais, presume-se fraudulenta a alienação de bens pelo devedor após a inscrição do crédito tributário em dívida ativa, sem reserva de bens suficientes.",
+"c": true,
+"prof": "CTN, art. 185; Tema 290 do STJ.",
+"x": "Fraude fiscal.",
+"e": "Fraude"
+},
+{
+"p": "Aperfeiçoada a citação e transcorrido o prazo de pagamento, o arresto executivo depende de termo para converter-se em penhora.",
+"c": false,
+"prof": "CPC, art. 830, § 3º.",
+"x": "Independe de termo.",
+"e": "Arresto"
+},
+{
+"p": "Sobre as espécies de tutela provisória no CPC, é correto afirmar:",
+"alts": [
+"a tutela da evidência pode ser antecedente ou incidental",
+"a tutela de urgência pode ser cautelar ou antecipada, antecedente ou incidental",
+"a tutela cautelar satisfaz o direito",
+"a tutela da evidência exige perigo de dano",
+"só há tutela antecipada incidental"
+],
+"r": 1,
+"x": "Art. 294.",
+"n": [
+"Só incidental.",
+"Correta.",
+"Assegura.",
+"Independe.",
+"Há antecedente."
+],
+"e": "Espécies."
+},
+{
+"p": "São requisitos da tutela de urgência:",
+"alts": [
+"prova inequívoca e verossimilhança",
+"probabilidade do direito e perigo de dano ou risco ao resultado útil do processo",
+"apenas a probabilidade do direito",
+"abuso do direito de defesa",
+"tese firmada em súmula vinculante"
+],
+"r": 1,
+"x": "Art. 300.",
+"n": [
+"CPC/1973.",
+"Correta.",
+"Também perigo.",
+"Evidência.",
+"Evidência."
+],
+"e": "Requisitos."
+},
+{
+"p": "A tutela antecipada concedida em caráter antecedente torna-se estável quando",
+"alts": [
+"o autor não aditar a inicial",
+"da decisão que a conceder não for interposto o respectivo recurso",
+"o réu for revel na ação principal",
+"o juiz assim declarar na sentença",
+"transcorrer 1 ano da concessão"
+],
+"r": 1,
+"x": "Art. 304.",
+"n": [
+"Extinção.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Estabilização."
+},
+{
+"p": "Quanto à tutela antecipada estabilizada, é correto afirmar:",
+"alts": [
+"faz coisa julgada material",
+"pode ser desconstituída por ação rescisória",
+"não faz coisa julgada, e o direito de revê-la extingue-se em 2 anos",
+"o prazo para revê-la é de 5 anos",
+"estabiliza-se também a tutela cautelar"
+],
+"r": 2,
+"x": "Art. 304, §§ 5º e 6º.",
+"n": [
+"Não faz.",
+"Não houve coisa julgada.",
+"Correta.",
+"2 anos.",
+"Só a antecipada."
+],
+"e": "Estabilizada."
+},
+{
+"p": "Efetivada a tutela cautelar antecedente, o pedido principal deverá ser formulado",
+"alts": [
+"em 15 dias, em nova ação",
+"em 30 dias, nos mesmos autos, sem adiantamento de novas custas",
+"em 5 dias",
+"em 60 dias",
+"a qualquer tempo"
+],
+"r": 1,
+"x": "Art. 308.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Cessa a eficácia."
+],
+"e": "Pedido principal."
+},
+{
+"p": "Nas hipóteses de tutela da evidência, o juiz poderá decidir liminarmente quando",
+"alts": [
+"houver abuso do direito de defesa",
+"a inicial estiver instruída com prova suficiente sem dúvida razoável do réu",
+"houver tese firmada em casos repetitivos ou súmula vinculante com prova documental, ou se tratar de contrato de depósito",
+"houver qualquer prova documental",
+"o réu for a Fazenda"
+],
+"r": 2,
+"x": "Art. 311, parágrafo único.",
+"n": [
+"Pressupõe defesa.",
+"Pressupõe defesa.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Evidência."
+},
+{
+"p": "A parte que obteve tutela de urgência responde pelo prejuízo que sua efetivação causar à parte adversa",
+"alts": [
+"somente se agiu de má-fé",
+"somente se houve culpa grave",
+"independentemente de culpa, se a sentença lhe for desfavorável, entre outras hipóteses",
+"nunca, por se tratar de ato judicial",
+"apenas mediante ação autônoma"
+],
+"r": 2,
+"x": "Art. 302.",
+"n": [
+"Objetiva.",
+"Objetiva.",
+"Correta.",
+"Responde.",
+"Liquidação nos autos."
+],
+"e": "Responsabilidade."
+},
+{
+"p": "Segundo o art. 1.059 do CPC, à tutela provisória contra a Fazenda Pública aplicam-se",
+"alts": [
+"apenas as regras gerais do CPC",
+"os arts. 1º a 4º da Lei 8.437/1992 e o art. 7º, § 2º, da Lei 12.016/2009",
+"apenas a Lei 9.494/1997",
+"as regras dos Juizados Especiais",
+"as regras do CPP"
+],
+"r": 1,
+"x": "Art. 1.059.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Art. 1.059."
+},
+{
+"p": "No julgamento da ADI 4.296, o STF",
+"alts": [
+"declarou inconstitucional toda a Lei 12.016/2009",
+"declarou inconstitucional a Lei 8.437/1992",
+"declarou inconstitucional a vedação genérica de liminar em mandado de segurança prevista no art. 7º, § 2º, da Lei 12.016/2009",
+"declarou constitucional a vedação de liminar para aumento de servidores",
+"proibiu liminares contra a Fazenda"
+],
+"r": 2,
+"x": "ADI 4.296.",
+"n": [
+"Não.",
+"Não foi objeto.",
+"Correta.",
+"Inconstitucional.",
+"Não."
+],
+"e": "ADI 4.296."
+},
+{
+"p": "Na ação civil pública, a liminar contra pessoa jurídica de direito público",
+"alts": [
+"dispensa qualquer oitiva prévia",
+"será concedida, quando cabível, após a audiência do representante judicial, que se pronunciará em 72 horas",
+"exige caução de 10% do valor da causa",
+"só pode ser concedida na sentença",
+"depende de autorização do Senado"
+],
+"r": 1,
+"x": "Lei 8.437, art. 2º.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "ACP."
+},
+{
+"p": "Sobre a suspensão de liminar contra o Poder Público, é correto afirmar:",
+"alts": [
+"tem natureza de recurso e substitui o agravo",
+"o presidente do tribunal analisa o acerto jurídico da decisão",
+"pode ser requerida pela pessoa jurídica de direito público ou pelo MP, e a suspensão vigora até o trânsito em julgado da decisão de mérito",
+"é irrecorrível",
+"não pode ser renovada no STJ ou STF"
+],
+"r": 2,
+"x": "Lei 8.437, art. 4º.",
+"n": [
+"Incidente.",
+"Grave lesão.",
+"Correta.",
+"Agravo em 5 dias.",
+"Pode (§ 4º)."
+],
+"e": "Suspensão."
+},
+{
+"p": "Segundo o STF (Tema 45), a execução provisória contra a Fazenda Pública de obrigação de fazer",
+"alts": [
+"depende de precatório",
+"é vedada",
+"não atrai o regime constitucional dos precatórios",
+"só é possível após o trânsito em julgado",
+"depende de caução"
+],
+"r": 2,
+"x": "RE 573.872.",
+"n": [
+"Não.",
+"Admitida.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Tema 45."
+},
+{
+"p": "A decisão do STF na ADC 4, que validou restrições à tutela antecipada contra a Fazenda, segundo a Súmula 729,",
+"alts": [
+"aplica-se a todas as causas",
+"não se aplica à antecipação de tutela em causa de natureza previdenciária",
+"só se aplica a causas tributárias",
+"foi cancelada",
+"aplica-se somente aos Municípios"
+],
+"r": 1,
+"x": "Súmula 729 do STF.",
+"n": [
+"Exceção.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Súmula 729."
+},
+{
+"p": "Quanto ao efeito suspensivo dos recursos, assinale a correta.",
+"alts": [
+"todos os recursos têm efeito suspensivo automático",
+"os embargos de declaração suspendem a eficácia da decisão",
+"a apelação contra sentença que confirma tutela provisória não tem efeito suspensivo, que pode ser pedido ao tribunal",
+"o agravo de instrumento sempre suspende a decisão",
+"o relator não pode antecipar a tutela recursal"
+],
+"r": 2,
+"x": "Arts. 995, 1.012, 1.019 e 1.026.",
+"n": [
+"Regra é não.",
+"Não têm.",
+"Correta.",
+"Depende do relator.",
+"Pode."
+],
+"e": "Efeito suspensivo."
+},
+{
+"p": "Para a concessão de tutela inibitória destinada a impedir a prática de ilícito, segundo o CPC,",
+"alts": [
+"é indispensável provar o dano",
+"é necessário demonstrar a culpa do réu",
+"é irrelevante a demonstração de dano, culpa ou dolo",
+"exige-se caução",
+"só cabe em ação civil pública"
+],
+"r": 2,
+"x": "Art. 497, parágrafo único.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Inibitória."
+},
+{
+"p": "Na medida cautelar fiscal da Lei 8.397/1992,",
+"alts": [
+"a Fazenda deve prestar caução",
+"só a União pode requerê-la",
+"a liminar é concedida dispensando-se a Fazenda de justificação prévia e de caução, decretando a indisponibilidade de bens",
+"o requerido tem 5 dias para contestar",
+"não é necessária prova do crédito"
+],
+"r": 2,
+"x": "Lei 8.397, arts. 1º, 3º, 7º e 8º.",
+"n": [
+"Dispensada.",
+"Todos os entes.",
+"Correta.",
+"15 dias.",
+"Prova literal."
+],
+"e": "Cautelar fiscal."
+},
+{
+"p": "Após a Lei 14.230/2021, a indisponibilidade de bens na ação de improbidade",
+"alts": [
+"tem periculum in mora presumido",
+"pode recair sobre qualquer valor em poupança",
+"exige demonstração de perigo de dano irreparável ou de risco ao resultado útil e não pode recair sobre até 40 salários mínimos em poupança ou conta",
+"garante também a multa civil",
+"só pode ser requerida após a sentença"
+],
+"r": 2,
+"x": "Lei 8.429, art. 16.",
+"n": [
+"Superado.",
+"Não.",
+"Correta.",
+"Não incide sobre a multa.",
+"Antecedente ou incidente."
+],
+"e": "Improbidade."
+},
+{
+"p": "Da decisão interlocutória que versa sobre tutela provisória cabe",
+"alts": [
+"apelação",
+"embargos infringentes",
+"agravo de instrumento",
+"recurso inominado em qualquer procedimento",
+"correição parcial"
+],
+"r": 2,
+"x": "Art. 1.015, I.",
+"n": [
+"Não.",
+"Extintos.",
+"Correta.",
+"Só nos Juizados.",
+"Não."
+],
+"e": "Recurso."
+}
+]
+},
+"procedimento-comum": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>15 dias</b><span>prazo de contestação no procedimento comum (CPC, art. 335), em dobro para a Fazenda</span></div><div class=\"lt-stat\"><b>1.000 / 500 / 100 SM</b><span>limites da remessa necessária para União, Estados e capitais, e demais Municípios (art. 496, § 3º)</span></div><div class=\"lt-stat\"><b>2 anos</b><span>prazo da ação rescisória (art. 975)</span></div><div class=\"lt-stat\"><b>5 dias</b><span>prazo para o juiz se retratar no indeferimento da inicial e na improcedência liminar (arts. 331 e 332)</span></div></div>\n<h3>1. O procedimento comum: visão geral</h3>\n<ul><li>O CPC/2015 <b>unificou</b> o procedimento de conhecimento: acabaram o rito <b>sumário</b> e o ordinário, e passou a existir o <b>procedimento comum</b> (arts. 318 a 512), aplicado subsidiariamente aos procedimentos especiais e ao processo de execução (art. 318, parágrafo único).</li></ul>\n<div class=\"lt-fluxo\"><span>Petição inicial</span> <em>→</em> <span>juízo de admissibilidade (emenda, indeferimento ou improcedência liminar)</span> <em>→</em> <span>citação e audiência de conciliação ou mediação (art. 334)</span> <em>→</em> <span>contestação (e reconvenção)</span> <em>→</em> <span>réplica e providências preliminares</span> <em>→</em> <span>julgamento conforme o estado do processo (extinção, julgamento antecipado total ou parcial) ou saneamento</span> <em>→</em> <span>instrução (provas e audiência)</span> <em>→</em> <span>sentença</span> <em>→</em> <span>cumprimento de sentença</span></div>\n<h3>2. Petição inicial (arts. 319 a 321)</h3>\n<ul><li><b>Requisitos</b> (art. 319): a petição inicial indicará: I, o <b>juízo</b> a que é dirigida; II, os <b>nomes</b>, os prenomes, o estado civil, a existência de união estável, a profissão, o número de inscrição no CPF ou no CNPJ, o endereço eletrônico, o domicílio e a residência do autor e do réu; III, o <b>fato</b> e os <b>fundamentos jurídicos do pedido</b> (causa de pedir); IV, o <b>pedido</b> com as suas especificações; V, o <b>valor da causa</b>; VI, as <b>provas</b> com que o autor pretende demonstrar a verdade dos fatos alegados; VII, a <b>opção do autor pela realização ou não de audiência</b> de conciliação ou de mediação.</li><li><b>Dados do réu</b> (art. 319, §§ 1º a 3º): caso não disponha das informações do inciso II, poderá o autor, na petição inicial, requerer ao juiz <b>diligências</b> necessárias a sua obtenção. A petição inicial <b>não será indeferida</b> se, a despeito da falta de informações, for possível a <b>citação</b> do réu, nem quando a obtenção dessas informações tornar impossível ou excessivamente oneroso o acesso à justiça.</li><li><b>Documentos indispensáveis</b> (art. 320): a petição inicial será instruída com os documentos indispensáveis à propositura da ação (por exemplo, a certidão de casamento no divórcio, o título no caso de execução).</li><li><b>Emenda</b> (art. 321): o juiz, ao verificar que a petição inicial não preenche os requisitos dos arts. 319 e 320 ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor, no prazo de <b>15 dias</b>, a <b>emende ou a complete</b>, <b>indicando com precisão o que deve ser corrigido ou completado</b>. Se o autor não cumprir a diligência, o juiz <b>indeferirá</b> a petição inicial (parágrafo único). A indicação precisa do vício é decorrência do <b>dever de cooperação</b> (prevenção).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O CPC/2015 manteve o rito sumário</span><br>✅ <span class=\"certo\">O rito sumário foi <b>extinto</b>; há o procedimento <b>comum</b></span></li><li>❌ <span class=\"banca\">A falta do CPF do réu leva sempre ao indeferimento da inicial</span><br>✅ <span class=\"certo\">Não se indefere se for possível a <b>citação</b> (art. 319, § 2º)</span></li><li>❌ <span class=\"banca\">O prazo para emendar a inicial é de 10 dias</span><br>✅ <span class=\"certo\">É de <b>15 dias</b> (art. 321)</span></li><li>❌ <span class=\"banca\">O juiz pode mandar emendar sem apontar o vício</span><br>✅ <span class=\"certo\">Deve indicar <b>com precisão</b> o que corrigir (art. 321)</span></li></ol></div>\n<h3>3. Pedido: espécies e cumulação (arts. 322 a 329)</h3>\n<ul><li><b>Pedido certo e determinado</b> (arts. 322 e 324): o pedido deve ser <b>certo</b> (expresso) e <b>determinado</b> (delimitado em qualidade e quantidade). É lícito, porém, formular <b>pedido genérico</b>: I, nas <b>ações universais</b>, se o autor não puder individuar os bens demandados; II, quando <b>não for possível determinar</b>, desde logo, as <b>consequências do ato ou do fato</b>; III, quando a determinação do objeto ou do valor da condenação depender de <b>ato que deva ser praticado pelo réu</b> (por exemplo, prestação de contas).</li><li><b>Pedido implícito</b>: compreendem-se no principal os <b>juros legais</b>, a <b>correção monetária</b> e as <b>verbas de sucumbência</b>, inclusive os honorários advocatícios (art. 322, § 1º). Na ação que tiver por objeto <b>prestações sucessivas</b>, essas serão consideradas incluídas no pedido, <b>independentemente de declaração expressa</b> do autor, e serão incluídas na condenação, enquanto durar a obrigação, se o devedor, no curso do processo, deixar de pagá-las ou de consigná-las (art. 323).</li><li><b>Pedido alternativo</b> (art. 325): quando, pela natureza da obrigação, o devedor puder cumprir a prestação de <b>mais de um modo</b>. Quando, pela lei ou pelo contrato, a <b>escolha couber ao devedor</b>, o juiz lhe assegurará o direito de cumprir a prestação de um ou de outro modo, ainda que o autor não tenha formulado pedido alternativo.</li><li><b>Pedido subsidiário</b> (eventual) (art. 326): é lícito formular mais de um pedido em ordem subsidiária, a fim de que o juiz conheça do <b>posterior</b>, quando <b>não acolher o anterior</b>. É lícito formular mais de um pedido, alternativamente, para que o juiz acolha um deles (parágrafo único).</li><li><b>Cumulação</b> (art. 327): é lícita a cumulação, em um único processo, contra o <b>mesmo réu</b>, de vários pedidos, <b>ainda que entre eles não haja conexão</b>. São requisitos: I, que os pedidos sejam <b>compatíveis</b> entre si; II, que seja competente para conhecer deles o <b>mesmo juízo</b>; III, que seja <b>adequado para todos os pedidos o tipo de procedimento</b>. Quando, para cada pedido, corresponder tipo diverso de procedimento, será admitida a cumulação se o autor empregar o <b>procedimento comum</b>, sem prejuízo do emprego das técnicas processuais diferenciadas previstas nos procedimentos especiais (§ 2º). A exigência de compatibilidade <b>não se aplica</b> à cumulação <b>subsidiária</b> (§ 3º).</li><li><b>Alteração do pedido</b> (art. 329): o autor poderá: I, <b>até a citação</b>, aditar ou alterar o pedido ou a causa de pedir, <b>independentemente de consentimento do réu</b>; II, <b>até o saneamento</b> do processo, aditar ou alterar o pedido e a causa de pedir, <b>com consentimento do réu</b>, assegurado o contraditório mediante a possibilidade de manifestação deste no prazo mínimo de 15 dias, facultado o requerimento de prova suplementar. Depois do saneamento, a <b>estabilização</b> da demanda é total.</li></ul>\n<table class=\"tab\"><thead><tr><th>Momento</th><th>Alteração do pedido ou da causa de pedir (art. 329)</th></tr></thead><tbody><tr><td>Até a <b>citação</b></td><td>livre, <b>sem</b> consentimento do réu</td></tr><tr><td>Da citação até o <b>saneamento</b></td><td><b>com</b> consentimento do réu, garantido o contraditório em 15 dias</td></tr><tr><td>Após o saneamento</td><td><b>vedada</b> (estabilização da demanda)</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Só se admite cumulação de pedidos conexos</span><br>✅ <span class=\"certo\">É lícita a cumulação <b>ainda que não haja conexão</b> (art. 327)</span></li><li>❌ <span class=\"banca\">Na cumulação subsidiária, os pedidos devem ser compatíveis</span><br>✅ <span class=\"certo\">A compatibilidade <b>não se aplica</b> à subsidiária (art. 327, § 3º)</span></li><li>❌ <span class=\"banca\">Após a citação, o autor pode alterar o pedido livremente até o saneamento</span><br>✅ <span class=\"certo\">Precisa do <b>consentimento do réu</b> (art. 329, II)</span></li><li>❌ <span class=\"banca\">Prestações sucessivas vincendas precisam de pedido expresso</span><br>✅ <span class=\"certo\">Consideram-se incluídas <b>independentemente</b> de declaração (art. 323)</span></li></ol></div>\n<h3>4. Indeferimento da petição inicial (arts. 330 e 331)</h3>\n<ul><li><b>Hipóteses</b> (art. 330): a petição inicial será indeferida quando: I, for <b>inepta</b>; II, a parte for <b>manifestamente ilegítima</b>; III, o autor carecer de <b>interesse processual</b>; IV, não atendidas as prescrições dos arts. 106 (endereço do advogado em causa própria) e 321 (emenda não cumprida).</li><li><b>Inépcia</b> (§ 1º): considera-se inepta a petição inicial quando: I, lhe faltar <b>pedido ou causa de pedir</b>; II, o pedido for <b>indeterminado</b>, ressalvadas as hipóteses legais em que se permite o pedido genérico; III, da narração dos fatos <b>não decorrer logicamente a conclusão</b>; IV, contiver <b>pedidos incompatíveis</b> entre si.</li><li><b>Revisão de contratos</b> (§§ 2º e 3º): nas ações que tenham por objeto a revisão de obrigação decorrente de empréstimo, de financiamento ou de alienação de bens, o autor terá de, sob pena de inépcia, <b>discriminar na petição inicial</b>, entre as obrigações contratuais, aquelas que pretende controverter, além de <b>quantificar o valor incontroverso</b> do débito. O valor incontroverso deverá continuar a ser pago no tempo e modo contratados.</li><li><b>Recurso</b> (art. 331): indeferida a petição inicial, o autor poderá <b>apelar</b>, facultado ao juiz, no prazo de <b>5 dias</b>, <b>retratar-se</b>. Se não houver retratação, o juiz mandará <b>citar o réu</b> para responder ao recurso. Sendo a sentença reformada pelo tribunal, o prazo para a contestação começará a correr da intimação do retorno dos autos. Não interposta a apelação, o réu será <b>intimado do trânsito em julgado</b> da sentença (§ 3º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A petição com pedidos incompatíveis entre si é apenas irregular</span><br>✅ <span class=\"certo\">É <b>inepta</b> (art. 330, § 1º, IV)</span></li><li>❌ <span class=\"banca\">Contra o indeferimento da inicial cabe agravo de instrumento</span><br>✅ <span class=\"certo\">Cabe <b>apelação</b>, com retratação em <b>5 dias</b> (art. 331)</span></li><li>❌ <span class=\"banca\">Indeferida a inicial e não interposta apelação, o réu nunca toma conhecimento</span><br>✅ <span class=\"certo\">Será <b>intimado do trânsito em julgado</b> (art. 331, § 3º)</span></li><li>❌ <span class=\"banca\">Na ação revisional de financiamento, basta pedir a revisão genericamente</span><br>✅ <span class=\"certo\">Deve <b>discriminar</b> as obrigações controvertidas e <b>quantificar</b> o incontroverso (art. 330, § 2º)</span></li></ol></div>\n<h3>5. Improcedência liminar do pedido (art. 332)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CPC, art. 332</div><div class=\"art-lei\">Nas causas que dispensem a fase instrutória, o juiz, independentemente da citação do réu, julgará liminarmente improcedente o pedido que contrariar: I - enunciado de súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça; II - acórdão proferido pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça em julgamento de recursos repetitivos; III - entendimento firmado em incidente de resolução de demandas repetitivas ou de assunção de competência; IV - enunciado de súmula de tribunal de justiça sobre direito local. § 1º O juiz também poderá julgar liminarmente improcedente o pedido se verificar, desde logo, a ocorrência de decadência ou de prescrição.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Requisito comum: causa que DISPENSE a fase instrutória</li><li>Julga-se SEM citar o réu</li><li>Hipóteses: SÚMULA do STF ou STJ; REPETITIVOS; IRDR ou IAC; súmula do TJ sobre DIREITO LOCAL; PRESCRIÇÃO ou DECADÊNCIA</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>É sentença de MÉRITO (art. 487), apta a fazer coisa julgada material.</li></ul></div></div>\n<ul><li><b>Recurso e retratação</b> (art. 332, §§ 2º a 4º): não interposta a apelação, o réu será intimado do <b>trânsito em julgado</b> da sentença. Interposta a apelação, o juiz poderá <b>retratar-se em 5 dias</b>. Se houver retratação, o juiz determinará o prosseguimento do processo, com a citação do réu; se não houver retratação, determinará a citação do réu para apresentar <b>contrarrazões</b>, no prazo de 15 dias.</li><li><b>Diferença do indeferimento</b>: o indeferimento da inicial (art. 330) é, em regra, decisão <b>sem resolução de mérito</b> (art. 485, I). A improcedência liminar (art. 332) é decisão <b>de mérito</b> (art. 487, I ou II). Ambas ocorrem <b>antes da citação</b>, admitem apelação com <b>retratação em 5 dias</b> e dispensam a citação do réu para responder à ação (mas não para responder ao recurso).</li><li><b>Uso pela Fazenda</b>: quando a tese do autor contraria súmula ou repetitivo favorável ao ente público (por exemplo, pedidos de servidores já rejeitados em repercussão geral), o juiz deve julgar liminarmente improcedente, sem nem citar o Município. O Procurador será intimado do trânsito em julgado ou chamado a contrarrazoar a apelação.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A improcedência liminar exige a prévia citação do réu</span><br>✅ <span class=\"certo\">É julgada <b>independentemente da citação</b> (art. 332)</span></li><li>❌ <span class=\"banca\">A improcedência liminar é sentença terminativa, sem mérito</span><br>✅ <span class=\"certo\">É sentença de <b>mérito</b></span></li><li>❌ <span class=\"banca\">Cabe improcedência liminar por contrariedade a súmula do TJ sobre direito federal</span><br>✅ <span class=\"certo\">Só sobre <b>direito local</b> (art. 332, IV)</span></li><li>❌ <span class=\"banca\">O juiz pode reconhecer de plano a prescrição antes de citar o réu</span><br>✅ <span class=\"certo\">Sim, na improcedência liminar (art. 332, § 1º)</span></li></ol></div>\n<h3>6. Audiência de conciliação ou de mediação (art. 334)</h3>\n<ul><li><b>Designação</b>: se a petição inicial preencher os requisitos essenciais e não for o caso de improcedência liminar do pedido, o juiz designará audiência de conciliação ou de mediação com antecedência mínima de <b>30 dias</b>, devendo ser <b>citado o réu com pelo menos 20 dias de antecedência</b>.</li><li><b>Quando não se realiza</b> (§ 4º): I, se <b>ambas as partes</b> manifestarem, expressamente, <b>desinteresse</b> na composição consensual; II, quando <b>não se admitir a autocomposição</b>. O autor deverá indicar, na petição inicial, seu desinteresse na autocomposição, e o réu deverá fazê-lo, por petição, apresentada com <b>10 dias de antecedência</b>, contados da data da audiência (§ 5º). Havendo <b>litisconsórcio</b>, o desinteresse na realização da audiência deve ser manifestado por <b>todos</b> os litisconsortes (§ 6º).</li><li><b>Forma e presença</b>: a audiência pode realizar-se por <b>meio eletrônico</b> (§ 7º). As partes devem estar acompanhadas por seus advogados ou defensores públicos (§ 9º). A parte poderá constituir representante, por meio de procuração específica, com <b>poderes para negociar e transigir</b> (§ 10). O <b>não comparecimento injustificado</b> é ato atentatório à dignidade da justiça e será sancionado com <b>multa de até 2%</b> da vantagem econômica pretendida ou do valor da causa, revertida em favor da União ou do Estado (§ 8º).</li><li><b>Duração e pauta</b>: pode haver mais de uma sessão destinada à conciliação e à mediação, <b>não podendo exceder 2 meses</b> da data de realização da primeira sessão, desde que necessárias à composição das partes (§ 2º). A pauta das audiências será organizada de modo a respeitar o intervalo mínimo de <b>20 minutos</b> entre o início de uma e o início da seguinte (§ 12). A autocomposição obtida será reduzida a termo e <b>homologada por sentença</b> (§ 11).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A audiência do art. 334 deixa de ocorrer quando o réu manifesta desinteresse</span><br>✅ <span class=\"certo\">Exige que <b>ambas</b> as partes manifestem desinteresse (§ 4º, I)</span></li><li>❌ <span class=\"banca\">O réu deve se manifestar sobre a audiência em 5 dias de antecedência</span><br>✅ <span class=\"certo\">São <b>10 dias</b> de antecedência (§ 5º)</span></li><li>❌ <span class=\"banca\">As sessões de conciliação podem se estender por 6 meses</span><br>✅ <span class=\"certo\">Não podem exceder <b>2 meses</b> da primeira sessão (§ 2º)</span></li><li>❌ <span class=\"banca\">O réu deve ser citado com 10 dias de antecedência da audiência</span><br>✅ <span class=\"certo\">Com pelo menos <b>20 dias</b> (art. 334)</span></li></ol></div>\n<h3>7. Contestação: prazo e princípios (arts. 335 e 336)</h3>\n<ul><li><b>Prazo</b> (art. 335): o réu poderá oferecer contestação, por petição, no prazo de <b>15 dias</b> (úteis; em dobro para Fazenda, MP e Defensoria), cujo termo inicial será a data: I, da <b>audiência de conciliação ou de mediação</b>, ou da última sessão de conciliação, quando qualquer parte não comparecer ou, comparecendo, não houver autocomposição; II, do <b>protocolo do pedido de cancelamento</b> da audiência apresentado pelo réu, quando ocorrer a hipótese do art. 334, § 4º, I; III, prevista no <b>art. 231</b>, de acordo com o modo como foi feita a citação, nos demais casos.</li><li><b>Concentração e eventualidade</b> (art. 336): incumbe ao réu alegar, <b>na contestação</b>, <b>toda a matéria de defesa</b>, expondo as razões de fato e de direito com que impugna o pedido do autor e especificando as provas que pretende produzir. O réu deve deduzir todas as defesas de uma vez, ainda que sejam <b>subsidiárias</b> e até contraditórias entre si (eventualidade), sob pena de <b>preclusão</b>.</li><li><b>Novas alegações</b> (art. 342): depois da contestação, só é lícito ao réu deduzir novas alegações quando: I, relativas a <b>direito ou a fato superveniente</b>; II, competir ao juiz conhecer delas <b>de ofício</b>; III, por expressa autorização legal, puderem ser formuladas em <b>qualquer tempo</b> e grau de jurisdição.</li></ul>\n<h3>8. Preliminares da contestação (art. 337)</h3>\n<table class=\"tab\"><thead><tr><th>Preliminar (art. 337)</th><th>Pode ser conhecida de ofício?</th></tr></thead><tbody><tr><td>I, <b>inexistência ou nulidade da citação</b></td><td>sim</td></tr><tr><td>II, <b>incompetência absoluta e relativa</b></td><td>absoluta sim; <b>relativa não</b></td></tr><tr><td>III, <b>incorreção do valor da causa</b></td><td>sim (art. 292, § 3º)</td></tr><tr><td>IV, <b>inépcia da petição inicial</b></td><td>sim</td></tr><tr><td>V, <b>perempção</b></td><td>sim</td></tr><tr><td>VI, <b>litispendência</b></td><td>sim</td></tr><tr><td>VII, <b>coisa julgada</b></td><td>sim</td></tr><tr><td>VIII, <b>conexão</b></td><td>sim</td></tr><tr><td>IX, <b>incapacidade da parte, defeito de representação ou falta de autorização</b></td><td>sim</td></tr><tr><td>X, <b>convenção de arbitragem</b></td><td><b>não</b></td></tr><tr><td>XI, <b>ausência de legitimidade ou de interesse processual</b></td><td>sim</td></tr><tr><td>XII, <b>falta de caução</b> ou de outra prestação que a lei exige como preliminar</td><td>sim</td></tr><tr><td>XIII, <b>indevida concessão do benefício de gratuidade</b> de justiça</td><td>sim</td></tr></tbody></table>\n<ul><li><b>Regra</b> (art. 337, § 5º): excetuadas a <b>convenção de arbitragem</b> e a <b>incompetência relativa</b>, o juiz <b>conhecerá de ofício</b> das matérias enumeradas no art. 337. A ausência de alegação da convenção de arbitragem implica <b>aceitação da jurisdição estatal</b> e renúncia ao juízo arbitral (§ 6º).</li><li><b>Correção do polo passivo</b> (arts. 338 e 339): alegando o réu, na contestação, ser <b>parte ilegítima</b> ou <b>não ser o responsável</b> pelo prejuízo invocado, o juiz facultará ao autor, em <b>15 dias</b>, a <b>alteração da petição inicial para substituição do réu</b>. Realizada a substituição, o autor reembolsará as despesas e pagará os honorários ao procurador do réu excluído, que serão fixados entre <b>3% e 5%</b> do valor da causa ou, sendo este irrisório, nos termos do art. 85, § 8º. Quando alegar sua ilegitimidade, incumbe ao réu <b>indicar o sujeito passivo</b> da relação jurídica discutida <b>sempre que tiver conhecimento</b>, sob pena de arcar com as despesas processuais e de indenizar o autor pelos prejuízos decorrentes da falta de indicação (art. 339). O autor pode, ainda, optar por <b>incluir</b> o indicado como <b>litisconsorte passivo</b> (art. 339, § 2º). É o substituto da antiga <b>nomeação à autoria</b>.</li><li><b>Incompetência e domicílio do réu</b> (art. 340): havendo alegação de incompetência relativa ou absoluta, a contestação poderá ser <b>protocolada no foro de domicílio do réu</b>, fato que será imediatamente comunicado ao juiz da causa, preferencialmente por meio eletrônico.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O juiz pode conhecer de ofício de todas as preliminares do art. 337</span><br>✅ <span class=\"certo\">Exceto <b>convenção de arbitragem</b> e <b>incompetência relativa</b> (§ 5º)</span></li><li>❌ <span class=\"banca\">Alegada a ilegitimidade passiva, o processo é extinto imediatamente</span><br>✅ <span class=\"certo\">O autor pode <b>substituir o réu</b> em <b>15 dias</b> (art. 338)</span></li><li>❌ <span class=\"banca\">O réu que alega ilegitimidade não precisa indicar o verdadeiro responsável</span><br>✅ <span class=\"certo\">Deve <b>indicá-lo</b> sempre que souber, sob pena de pagar despesas e indenizar (art. 339)</span></li><li>❌ <span class=\"banca\">Os honorários do réu excluído por substituição seguem o art. 85, § 2º</span><br>✅ <span class=\"certo\">São fixados entre <b>3% e 5%</b> do valor da causa (art. 338, parágrafo único)</span></li></ol></div>\n<h3>9. Ônus da impugnação especificada e reconvenção</h3>\n<ul><li><b>Impugnação especificada</b> (art. 341): incumbe também ao réu manifestar-se <b>precisamente</b> sobre as alegações de fato constantes da petição inicial, <b>presumindo-se verdadeiras as não impugnadas</b>, salvo se: I, não for admissível, a seu respeito, a <b>confissão</b>; II, a petição inicial não estiver acompanhada de <b>instrumento</b> que a lei considerar da substância do ato; III, estiverem em <b>contradição com a defesa</b>, considerada em seu conjunto. O ônus da impugnação especificada dos fatos <b>não se aplica</b> ao <b>defensor público</b>, ao <b>advogado dativo</b> e ao <b>curador especial</b> (parágrafo único), que podem fazer <b>contestação por negação geral</b>.</li><li><b>Fazenda Pública e impugnação especificada</b>: como a Fazenda defende, em regra, <b>interesses indisponíveis</b>, a presunção de veracidade dos fatos não impugnados é <b>mitigada</b>, por aplicação do inciso I (não se admite confissão sobre direitos indisponíveis, art. 392). O STJ, porém, aplica a presunção à Fazenda quando se trata de <b>direitos disponíveis</b>, como em contratos de natureza privada celebrados pela Administração.</li><li><b>Reconvenção</b> (art. 343): na contestação, é lícito ao réu propor reconvenção para manifestar <b>pretensão própria</b>, <b>conexa com a ação principal</b> ou com o <b>fundamento da defesa</b>. Proposta a reconvenção, o autor será intimado, na pessoa de seu advogado, para apresentar <b>resposta</b> no prazo de <b>15 dias</b> (§ 1º). A <b>desistência</b> da ação ou a ocorrência de causa extintiva que impeça o exame de seu mérito <b>não obsta</b> ao prosseguimento do processo quanto à reconvenção (§ 2º; <b>autonomia</b>). A reconvenção pode ser proposta contra o autor <b>e terceiro</b> (§ 3º) e pode ser proposta pelo réu <b>em litisconsórcio com terceiro</b> (§ 4º). Se o autor for <b>substituto processual</b>, o reconvinte deverá afirmar ser titular de direito em face do substituído, e a reconvenção deverá ser proposta em face do autor, também na qualidade de substituto processual (§ 5º). O réu pode propor reconvenção <b>independentemente de oferecer contestação</b> (§ 6º).</li><li><b>Reconvenção e Fazenda</b>: a Fazenda pode reconvir, por exemplo, para cobrar multa contratual em ação proposta pelo contratado. Mas <b>não cabe reconvenção em mandado de segurança</b> nem, em regra, nos Juizados Especiais (Lei 9.099, art. 31, que admite apenas o <b>pedido contraposto</b>).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A contestação por negação geral é vedada a todos</span><br>✅ <span class=\"certo\">É admitida ao <b>defensor público</b>, ao <b>advogado dativo</b> e ao <b>curador especial</b> (art. 341, parágrafo único)</span></li><li>❌ <span class=\"banca\">A reconvenção é sempre feita em peça separada da contestação</span><br>✅ <span class=\"certo\">É proposta <b>na contestação</b> (art. 343), podendo ser oferecida mesmo <b>sem contestar</b> (§ 6º)</span></li><li>❌ <span class=\"banca\">A desistência da ação principal extingue a reconvenção</span><br>✅ <span class=\"certo\">A reconvenção <b>prossegue</b> (art. 343, § 2º)</span></li><li>❌ <span class=\"banca\">A reconvenção não pode envolver terceiro</span><br>✅ <span class=\"certo\">Pode ser proposta <b>contra</b> o autor e terceiro e <b>pelo</b> réu com terceiro (§§ 3º e 4º)</span></li></ol></div>\n<h3>10. Revelia (arts. 344 a 346)</h3>\n<ul><li><b>Conceito e efeito material</b> (art. 344): se o réu <b>não contestar</b> a ação, será considerado <b>revel</b> e presumir-se-ão <b>verdadeiras as alegações de fato</b> formuladas pelo autor. A revelia é a ausência de contestação; o efeito material é a <b>presunção relativa</b> de veracidade dos fatos (não do direito).</li><li><b>Quando a revelia não produz o efeito material</b> (art. 345): I, havendo <b>pluralidade de réus</b>, algum deles <b>contestar</b> a ação; II, o litígio versar sobre <b>direitos indisponíveis</b>; III, a petição inicial não estiver acompanhada de <b>instrumento que a lei considere indispensável</b> à prova do ato; IV, as alegações de fato formuladas pelo autor forem <b>inverossímeis</b> ou estiverem em <b>contradição com prova</b> constante dos autos.</li><li><b>Efeito processual</b> (art. 346): os prazos contra o <b>revel que não tenha patrono nos autos</b> fluirão da data de <b>publicação do ato decisório no órgão oficial</b>. O revel poderá <b>intervir no processo em qualquer fase</b>, recebendo-o no estado em que se encontrar (parágrafo único). O revel que comparecer a tempo pode produzir provas, desde que se faça representar nos autos a tempo de praticar os atos processuais indispensáveis a essa produção (art. 349).</li><li><b>Revelia da Fazenda Pública</b>: a doutrina e a jurisprudência majoritárias entendem que a revelia da Fazenda <b>não produz o efeito material</b> de presunção de veracidade quando a causa envolver <b>direitos indisponíveis</b> (art. 345, II), como na maioria das causas de direito público (vencimentos de servidores, tributos, responsabilidade civil com dinheiro público). Isso não significa que a Fazenda revel não sofra consequências: ela perde a oportunidade de alegar e provar, e o juiz pode julgar com base nas provas do autor. Nos contratos de natureza privada celebrados pela Administração, o STJ tem admitido o efeito material.</li><li><b>Revel citado fictamente</b>: o réu revel citado por <b>edital</b> ou <b>hora certa</b> recebe <b>curador especial</b> (art. 72, II), que pode contestar por negação geral (art. 341, parágrafo único), afastando a revelia formal.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A revelia gera presunção absoluta de veracidade dos fatos e do direito</span><br>✅ <span class=\"certo\">É presunção <b>relativa</b>, apenas dos <b>fatos</b> (art. 344)</span></li><li>❌ <span class=\"banca\">A revelia produz efeito material mesmo se outro réu contestar</span><br>✅ <span class=\"certo\"><b>Não</b> produz (art. 345, I)</span></li><li>❌ <span class=\"banca\">O revel não pode mais intervir no processo</span><br>✅ <span class=\"certo\">Pode intervir <b>em qualquer fase</b>, no estado em que se encontrar (art. 346, parágrafo único)</span></li><li>❌ <span class=\"banca\">A revelia da Fazenda sempre gera presunção de veracidade</span><br>✅ <span class=\"certo\">Em regra <b>não</b>, por envolver <b>direitos indisponíveis</b> (art. 345, II)</span></li></ol></div>\n<h3>11. Providências preliminares e julgamento conforme o estado do processo</h3>\n<ul><li><b>Providências preliminares</b> (arts. 347 a 353): findo o prazo para a contestação, o juiz tomará, conforme o caso, as providências preliminares. Se o réu não contestar e não ocorrer o efeito da revelia, o juiz ordenará que o autor <b>especifique as provas</b> que pretenda produzir (art. 348). Se o réu alegar <b>fato impeditivo, modificativo ou extintivo</b> do direito do autor, este será ouvido no prazo de <b>15 dias</b> (<b>réplica</b>), permitindo-lhe o juiz a produção de prova (art. 350). Se o réu alegar qualquer das <b>preliminares</b> do art. 337, o juiz determinará a oitiva do autor no prazo de 15 dias (art. 351). Verificando a existência de <b>irregularidades ou de vícios sanáveis</b>, o juiz determinará sua correção em prazo nunca superior a <b>30 dias</b> (art. 352).</li><li><b>Extinção do processo</b> (art. 354): ocorrendo qualquer das hipóteses dos arts. 485 e 487, II e III (prescrição, decadência, homologação de reconhecimento, transação ou renúncia), o juiz proferirá <b>sentença</b>. A decisão pode dizer respeito a apenas <b>parcela do processo</b>, caso em que será impugnável por <b>agravo de instrumento</b> (parágrafo único).</li><li><b>Julgamento antecipado do mérito</b> (art. 355): o juiz julgará antecipadamente o pedido, proferindo <b>sentença com resolução de mérito</b>, quando: I, <b>não houver necessidade de produção de outras provas</b>; II, o réu for <b>revel</b>, ocorrer o efeito da revelia (art. 344) e <b>não houver requerimento de prova</b>, na forma do art. 349.</li><li><b>Julgamento antecipado parcial</b> (art. 356): o juiz decidirá parcialmente o mérito quando um ou mais dos pedidos formulados ou parcela deles: I, mostrar-se <b>incontroverso</b>; II, estiver em <b>condições de imediato julgamento</b>, nos termos do art. 355. A decisão poderá reconhecer a existência de obrigação <b>líquida ou ilíquida</b> (§ 1º). A parte poderá <b>liquidar ou executar, desde logo</b>, a obrigação reconhecida, <b>independentemente de caução</b>, ainda que haja recurso contra essa interposto (§ 2º). Se houver <b>trânsito em julgado</b> da decisão, a execução será <b>definitiva</b> (§ 3º). A decisão é impugnável por <b>agravo de instrumento</b> (§ 5º).</li><li><b>Julgamento antecipado e cerceamento de defesa</b>: o julgamento antecipado só é legítimo se a prova requerida for realmente <b>desnecessária</b>. O STJ anula sentenças que julgam improcedente o pedido <b>por falta de prova</b> depois de indeferir a produção da prova requerida pela parte (contradição que configura <b>cerceamento de defesa</b>).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O julgamento antecipado parcial do mérito é feito por sentença, atacável por apelação</span><br>✅ <span class=\"certo\">É <b>decisão interlocutória</b>, atacável por <b>agravo de instrumento</b> (art. 356, § 5º)</span></li><li>❌ <span class=\"banca\">A execução da parcela incontroversa exige caução</span><br>✅ <span class=\"certo\">É <b>independente de caução</b> (art. 356, § 2º)</span></li><li>❌ <span class=\"banca\">O prazo da réplica é de 10 dias</span><br>✅ <span class=\"certo\">É de <b>15 dias</b> (arts. 350 e 351)</span></li><li>❌ <span class=\"banca\">O juiz pode julgar improcedente por falta de prova depois de indeferir a prova requerida</span><br>✅ <span class=\"certo\">Configura <b>cerceamento de defesa</b> (STJ)</span></li></ol></div>\n<h3>12. Saneamento e organização do processo (art. 357)</h3>\n<ul><li><b>Conteúdo</b> (art. 357): não ocorrendo nenhuma das hipóteses de extinção ou julgamento antecipado, deverá o juiz, em <b>decisão de saneamento e de organização do processo</b>: I, resolver as <b>questões processuais pendentes</b>, se houver; II, <b>delimitar as questões de fato</b> sobre as quais recairá a atividade probatória, especificando os meios de prova admitidos; III, definir a <b>distribuição do ônus da prova</b>, observado o art. 373; IV, <b>delimitar as questões de direito</b> relevantes para a decisão do mérito; V, designar, se necessário, <b>audiência de instrução e julgamento</b>.</li><li><b>Estabilidade</b> (§ 1º): realizado o saneamento, as partes têm o direito de pedir <b>esclarecimentos ou solicitar ajustes</b>, no prazo comum de <b>5 dias</b>, findo o qual a decisão se torna <b>estável</b>.</li><li><b>Saneamento consensual</b> (§ 2º): as partes podem apresentar ao juiz, para <b>homologação</b>, delimitação <b>consensual</b> das questões de fato e de direito, a qual, se homologada, <b>vincula as partes e o juiz</b>.</li><li><b>Saneamento compartilhado</b> (§ 3º): se a causa apresentar <b>complexidade</b> em matéria de fato ou de direito, deverá o juiz designar <b>audiência</b> para que o saneamento seja feito <b>em cooperação com as partes</b>, oportunidade em que o juiz, se for o caso, convidará as partes a integrar ou esclarecer suas alegações. Nesse caso, as partes devem levar, para a audiência, o respectivo <b>rol de testemunhas</b> (§ 5º).</li><li><b>Rol de testemunhas</b> (§§ 4º e 6º): caso tenha sido determinada a produção de prova testemunhal, o juiz fixará <b>prazo comum não superior a 15 dias</b> para que as partes apresentem rol de testemunhas. O número de testemunhas arroladas <b>não pode ser superior a 10</b>, sendo <b>3, no máximo, para a prova de cada fato</b>. O juiz poderá <b>limitar</b> o número de testemunhas levando em conta a complexidade da causa e dos fatos individualmente considerados (§ 7º).</li><li><b>Perícia</b> (§ 8º): caso tenha sido determinada a produção de prova pericial, o juiz deve observar o art. 465 e, se possível, estabelecer, desde logo, <b>calendário</b> para sua realização.</li><li><b>Recurso</b>: a decisão de saneamento, em regra, <b>não é agravável</b> de imediato, salvo nos capítulos previstos no art. 1.015 (como a <b>redistribuição do ônus da prova</b>, inciso XI, ou a rejeição da alegação de convenção de arbitragem, inciso III). As demais questões são impugnadas em preliminar de <b>apelação</b> (art. 1.009, § 1º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O pedido de esclarecimentos sobre o saneamento deve ser feito em 15 dias</span><br>✅ <span class=\"certo\">Em <b>5 dias</b>, após o que a decisão se torna <b>estável</b> (art. 357, § 1º)</span></li><li>❌ <span class=\"banca\">O saneamento consensual homologado não vincula o juiz</span><br>✅ <span class=\"certo\"><b>Vincula</b> as partes e o juiz (§ 2º)</span></li><li>❌ <span class=\"banca\">Cada parte pode arrolar até 10 testemunhas para cada fato</span><br>✅ <span class=\"certo\">Até <b>10</b> no total, <b>3</b> por fato (§ 6º)</span></li><li>❌ <span class=\"banca\">A decisão de saneamento é sempre agravável</span><br>✅ <span class=\"certo\">Só nos capítulos do <b>art. 1.015</b> (por exemplo, redistribuição do ônus da prova)</span></li></ol></div>\n<h3>13. Teoria geral da prova e ônus da prova</h3>\n<ul><li><b>Direito à prova</b> (art. 369): as partes têm o direito de empregar <b>todos os meios legais</b>, bem como os <b>moralmente legítimos</b>, ainda que não especificados no Código, para provar a verdade dos fatos em que se funda o pedido ou a defesa e <b>influir eficazmente na convicção do juiz</b>. A prova obtida por meio ilícito é inadmissível (CF, art. 5º, LVI).</li><li><b>Poderes instrutórios</b> (art. 370): caberá ao juiz, <b>de ofício ou a requerimento da parte</b>, determinar as provas necessárias ao julgamento do mérito. O juiz indeferirá, em decisão fundamentada, as diligências <b>inúteis ou meramente protelatórias</b>.</li><li><b>Livre convencimento motivado</b> (art. 371): o juiz <b>apreciará a prova</b> constante dos autos, independentemente do sujeito que a tiver promovido, e indicará na decisão as <b>razões da formação de seu convencimento</b>. (O CPC/2015 suprimiu a palavra \"livremente\", mas a doutrina continua falando em persuasão racional.)</li><li><b>Prova emprestada</b> (art. 372): o juiz poderá admitir a utilização de prova produzida em outro processo, atribuindo-lhe o valor que considerar adequado, observado o <b>contraditório</b>. O STJ admite a prova emprestada mesmo que a parte contra quem é usada <b>não tenha participado</b> do processo original, desde que lhe seja assegurado o contraditório sobre ela no novo processo.</li></ul>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CPC, art. 373</div><div class=\"art-lei\">O ônus da prova incumbe: I - ao autor, quanto ao fato constitutivo de seu direito; II - ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor. § 1º Nos casos previstos em lei ou diante de peculiaridades da causa relacionadas à impossibilidade ou à excessiva dificuldade de cumprir o encargo nos termos do caput ou à maior facilidade de obtenção da prova do fato contrário, poderá o juiz atribuir o ônus da prova de modo diverso, desde que o faça por decisão fundamentada, caso em que deverá dar à parte a oportunidade de se desincumbir do ônus que lhe foi atribuído. § 2º A decisão prevista no § 1º deste artigo não pode gerar situação em que a desincumbência do encargo pela parte seja impossível ou excessivamente difícil.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Regra estática: AUTOR prova fatos CONSTITUTIVOS; RÉU prova fatos IMPEDITIVOS, MODIFICATIVOS e EXTINTIVOS</li><li>Distribuição DINÂMICA: decisão FUNDAMENTADA, com OPORTUNIDADE de se desincumbir</li><li>Vedada a prova DIABÓLICA reversa (§ 2º)</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>A redistribuição deve ocorrer antes da instrução (regra de instrução), normalmente no saneamento, e é agravável (art. 1.015, XI).</li></ul></div></div>\n<ul><li><b>Convenção sobre o ônus</b> (art. 373, §§ 3º e 4º): a distribuição diversa do ônus da prova também pode ocorrer por <b>convenção das partes</b>, salvo quando: I, recair sobre <b>direito indisponível</b> da parte; II, tornar <b>excessivamente difícil</b> a uma parte o exercício do direito. A convenção pode ser celebrada <b>antes ou durante</b> o processo.</li><li><b>Fatos que não dependem de prova</b> (art. 374): os <b>notórios</b>; os <b>afirmados por uma parte e confessados pela parte contrária</b>; os admitidos no processo como <b>incontroversos</b>; aqueles em cujo favor milita <b>presunção legal</b> de existência ou de veracidade.</li><li><b>Direito que precisa de prova</b> (art. 376): a parte que alegar direito <b>municipal, estadual, estrangeiro ou consuetudinário</b> provar-lhe-á o <b>teor e a vigência</b>, se assim o juiz determinar. Ponto importante para o Procurador Municipal: a lei municipal pode ter de ser provada (juntando cópia oficial ou certidão de vigência).</li><li><b>Presunção de legitimidade do ato administrativo</b>: os atos administrativos gozam de <b>presunção relativa de legitimidade e veracidade</b>. Por isso, em ações contra a Fazenda (por exemplo, anulatória de multa de trânsito ou de auto de infração), cabe ao autor o ônus de provar a ilegalidade, salvo inversão justificada.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O autor deve provar os fatos extintivos do direito alegados pelo réu</span><br>✅ <span class=\"certo\">Fatos <b>impeditivos, modificativos e extintivos</b> são ônus do <b>réu</b> (art. 373, II)</span></li><li>❌ <span class=\"banca\">A redistribuição do ônus da prova pode ser feita na sentença, sem aviso</span><br>✅ <span class=\"certo\">Deve ser <b>fundamentada</b> e dar oportunidade de se desincumbir (§ 1º)</span></li><li>❌ <span class=\"banca\">Fatos notórios dependem de prova</span><br>✅ <span class=\"certo\"><b>Não</b> dependem (art. 374, I)</span></li><li>❌ <span class=\"banca\">A lei municipal nunca precisa ser provada</span><br>✅ <span class=\"certo\">A parte deve provar teor e vigência de direito <b>municipal</b> se o juiz determinar (art. 376)</span></li></ol></div>\n<h3>14. Meios de prova em espécie</h3>\n<ul><li><b>Ata notarial</b> (art. 384): a existência e o modo de existir de algum fato podem ser atestados ou documentados, a requerimento do interessado, mediante <b>ata lavrada por tabelião</b>. Dados representados por imagem ou som gravados em arquivos eletrônicos poderão constar da ata notarial (parágrafo único). Muito usada para provar conteúdo de sites, mensagens e redes sociais.</li><li><b>Depoimento pessoal</b> (arts. 385 a 388): cabe à parte requerer o depoimento pessoal da <b>outra parte</b>, a fim de que esta seja interrogada na audiência de instrução e julgamento, sem prejuízo do poder do juiz de ordená-lo de ofício. Se a parte, pessoalmente intimada para prestar depoimento pessoal e advertida da pena, <b>não comparecer ou, comparecendo, se recusar a depor</b>, o juiz aplicar-lhe-á a <b>pena de confesso</b> (§ 1º). É vedado a quem ainda não depôs assistir ao interrogatório da outra parte (§ 2º).</li><li><b>Confissão</b> (arts. 389 a 395): há confissão, judicial ou extrajudicial, quando a parte admite a <b>verdade de fato contrário ao seu interesse</b> e favorável ao do adversário. A confissão judicial pode ser <b>espontânea</b> ou <b>provocada</b>. <b>Não vale como confissão a admissão, em juízo, de fatos relativos a direitos indisponíveis</b> (art. 392). A confissão será <b>ineficaz</b> se feita por quem não for capaz de dispor do direito a que se referem os fatos confessados (§ 1º). A confissão é <b>irrevogável</b>, mas pode ser <b>anulada</b> se decorreu de <b>erro de fato ou de coação</b> (art. 393). A confissão é, em regra, <b>indivisível</b> (art. 395).</li><li><b>Fazenda e confissão</b>: por força do art. 392, o <b>depoimento pessoal</b> de agente público ou a admissão de fatos pelo procurador <b>não vale como confissão</b> quando envolver direitos indisponíveis. Além disso, o representante da Fazenda (o Prefeito, o procurador) não presta depoimento pessoal sobre fatos que não presenciou.</li><li><b>Exibição de documento ou coisa</b> (arts. 396 a 404): o juiz pode ordenar que a parte exiba documento ou coisa que se encontre em seu poder. Se a parte não exibir nem justificar a recusa, o juiz <b>admitirá como verdadeiros os fatos</b> que, por meio do documento ou da coisa, a parte pretendia provar (art. 400), podendo ainda adotar <b>medidas indutivas, coercitivas, mandamentais ou sub-rogatórias</b> para que o documento seja exibido (parágrafo único; o que superou parcialmente a <b>Súmula 372 do STJ</b>, que vedava multa na ação de exibição).</li><li><b>Prova documental</b> (arts. 405 a 441): o <b>documento público</b> faz prova não só da sua formação, mas também dos fatos que o escrivão, o chefe de secretaria, o tabelião ou o servidor declarar que ocorreram em sua presença (art. 405). A <b>arguição de falsidade</b> será suscitada na contestação, na réplica ou no prazo de <b>15 dias</b>, contado a partir da intimação da juntada do documento aos autos (art. 430), e será resolvida como <b>questão incidental</b>, salvo se a parte requerer que o juiz a decida como <b>questão principal</b>, caso em que fará coisa julgada (art. 430, parágrafo único, e art. 433). Os documentos devem instruir a inicial e a contestação (art. 434), sendo lícito juntar, a qualquer tempo, <b>documentos novos</b> destinados a fazer prova de fatos ocorridos depois dos articulados ou para contrapô-los aos que foram produzidos nos autos (art. 435).</li><li><b>Prova testemunhal</b> (arts. 442 a 463): é sempre admissível, salvo disposição legal em contrário. O juiz indeferirá a inquirição de testemunhas sobre fatos já provados por documento ou confissão, ou que só por documento ou exame pericial puderem ser provados (art. 443). Não podem depor como testemunhas os <b>incapazes</b>, os <b>impedidos</b> e os <b>suspeitos</b> (art. 447), mas o juiz pode ouvi-los como <b>informantes</b>, sem compromisso, quando necessário. Cabe ao <b>advogado</b> da parte <b>informar ou intimar</b> a testemunha por ele arrolada do dia, da hora e do local da audiência, por <b>carta com aviso de recebimento</b>, dispensando-se a intimação do juízo (art. 455). A intimação será feita <b>pela via judicial</b> quando a testemunha for <b>servidor público ou militar</b>, hipótese em que o juiz a <b>requisitará ao chefe da repartição</b> ou ao comando do corpo em que servir (art. 455, § 4º, III). As perguntas serão formuladas pelas partes <b>diretamente à testemunha</b> (sistema <i>cross-examination</i>), começando pela que a arrolou (art. 459).</li><li><b>Autoridades que depõem em local e dia designados</b> (art. 454): são inquiridos em sua residência ou onde exercem sua função, entre outros, o Presidente e o Vice-Presidente da República, os ministros de Estado, os ministros dos tribunais superiores, o procurador-geral da República, os <b>governadores</b>, os <b>prefeitos</b>, os deputados e senadores, os <b>deputados estaduais</b>, os desembargadores e os conselheiros dos tribunais de contas, entre outros. O juiz solicitará à autoridade que indique dia, hora e local a fim de ser inquirida, remetendo-lhe cópia da petição inicial ou da defesa oferecida pela parte que a arrolou como testemunha; passado <b>1 mês</b> sem manifestação da autoridade, o juiz designará dia, hora e local para o depoimento.</li><li><b>Prova pericial</b> (arts. 464 a 480): consiste em <b>exame, vistoria ou avaliação</b>. O juiz poderá, em substituição à perícia, determinar a produção de <b>prova técnica simplificada</b>, quando o ponto controvertido for de <b>menor complexidade</b> (consistente na inquirição de especialista). O juiz nomeará perito especializado e fixará de imediato o prazo para a entrega do laudo. Incumbe às partes, em <b>15 dias</b>, arguir o impedimento ou a suspeição do perito, indicar <b>assistente técnico</b> e apresentar <b>quesitos</b> (art. 465, § 1º). As partes podem escolher o perito <b>de comum acordo</b> (perícia consensual, art. 471). O juiz <b>não está adstrito ao laudo pericial</b>, podendo formar sua convicção com outros elementos ou fatos provados nos autos, desde que indique na sentença os motivos que o levaram a considerar ou a deixar de considerar as conclusões do laudo (art. 479).</li><li><b>Inspeção judicial</b> (arts. 481 a 484): o juiz, de ofício ou a requerimento da parte, pode, em qualquer fase do processo, <b>inspecionar pessoas ou coisas</b>, a fim de se esclarecer sobre fato que interesse à decisão da causa.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Admitir fato relativo a direito indisponível vale como confissão</span><br>✅ <span class=\"certo\"><b>Não vale</b> como confissão (art. 392)</span></li><li>❌ <span class=\"banca\">A confissão pode ser revogada a qualquer tempo</span><br>✅ <span class=\"certo\">É <b>irrevogável</b>, mas anulável por <b>erro de fato ou coação</b> (art. 393)</span></li><li>❌ <span class=\"banca\">O advogado nunca precisa intimar suas testemunhas</span><br>✅ <span class=\"certo\">Cabe ao <b>advogado</b> informar ou intimar por carta com AR (art. 455)</span></li><li>❌ <span class=\"banca\">O servidor público arrolado como testemunha é intimado pelo advogado</span><br>✅ <span class=\"certo\">É <b>requisitado ao chefe da repartição</b> (art. 455, § 4º, III)</span></li><li>❌ <span class=\"banca\">O juiz fica vinculado ao laudo pericial</span><br>✅ <span class=\"certo\"><b>Não está adstrito</b> ao laudo (art. 479)</span></li></ol></div>\n<h3>15. Audiência de instrução e julgamento (arts. 358 a 368)</h3>\n<ul><li><b>Abertura e conciliação</b>: no dia e na hora designados, o juiz declarará aberta a audiência de instrução e julgamento e mandará apregoar as partes e os respectivos advogados (art. 358). Instalada a audiência, o juiz <b>tentará conciliar</b> as partes, independentemente do emprego anterior de outros métodos de solução consensual (art. 359).</li><li><b>Ordem das provas</b> (art. 361): as provas orais serão produzidas em audiência, ouvindo-se nesta ordem, <b>preferencialmente</b>: I, o <b>perito</b> e os <b>assistentes técnicos</b>, que responderão aos quesitos de esclarecimentos requeridos no prazo e na forma do art. 477, caso não respondidos anteriormente por escrito; II, o <b>autor</b> e, em seguida, o <b>réu</b>, que prestarão depoimentos pessoais; III, as <b>testemunhas</b> arroladas pelo autor e pelo réu, que serão inquiridas. Enquanto depuserem o perito, os assistentes técnicos, as partes e as testemunhas, não poderão os advogados e o MP intervir ou apartear, sem licença do juiz.</li><li><b>Adiamento</b> (art. 362): a audiência poderá ser adiada: I, por <b>convenção das partes</b>; II, se <b>não puder comparecer</b>, por motivo justificado, qualquer pessoa que dela deva necessariamente participar; III, por <b>atraso injustificado</b> de seu início em tempo superior a <b>30 minutos</b> do horário marcado.</li><li><b>Debates e sentença</b> (art. 364): finda a instrução, o juiz dará a palavra ao advogado do autor e do réu, bem como ao membro do MP, se for o caso de sua intervenção, sucessivamente, pelo prazo de <b>20 minutos</b> para cada um, prorrogável por <b>10 minutos</b>, a critério do juiz. Havendo litisconsorte ou terceiro interveniente, o prazo, que formará com o da prorrogação um só todo, dividir-se-á entre os do mesmo grupo, se não convencionarem de modo diverso. Quando a causa apresentar questões complexas de fato ou de direito, o debate oral poderá ser substituído por <b>razões finais escritas</b> (memoriais), em prazos sucessivos de <b>15 dias</b>, assegurada vista dos autos (§ 2º). Encerrado o debate ou oferecidas as razões finais, o juiz proferirá <b>sentença em audiência</b> ou no prazo de <b>30 dias</b> (art. 366).</li><li><b>Gravação</b> (art. 367, §§ 5º e 6º): a audiência poderá ser integralmente <b>gravada</b> em imagem e em áudio, em meio digital ou analógico. A gravação pode ser realizada <b>diretamente por qualquer das partes</b>, <b>independentemente de autorização judicial</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A audiência pode ser adiada por atraso injustificado de 15 minutos</span><br>✅ <span class=\"certo\">O atraso deve ser superior a <b>30 minutos</b> (art. 362, III)</span></li><li>❌ <span class=\"banca\">Nos debates orais, cada advogado tem 15 minutos</span><br>✅ <span class=\"certo\">São <b>20 minutos</b>, prorrogáveis por <b>10</b> (art. 364)</span></li><li>❌ <span class=\"banca\">As partes precisam de autorização judicial para gravar a audiência</span><br>✅ <span class=\"certo\"><b>Independe</b> de autorização (art. 367, § 6º)</span></li><li>❌ <span class=\"banca\">A ordem das provas orais é testemunhas, partes e perito</span><br>✅ <span class=\"certo\"><b>Perito</b>, <b>partes</b> (autor e réu) e <b>testemunhas</b>, preferencialmente (art. 361)</span></li></ol></div>\n<h3>16. Sentença sem e com resolução do mérito (arts. 485 a 488)</h3>\n<table class=\"tab\"><thead><tr><th>Sem resolução do mérito (art. 485): o juiz não resolverá o mérito quando</th><th>Com resolução do mérito (art. 487): haverá resolução de mérito quando o juiz</th></tr></thead><tbody><tr><td>I, <b>indeferir a petição inicial</b></td><td>I, <b>acolher ou rejeitar o pedido</b> formulado na ação ou na reconvenção</td></tr><tr><td>II, o processo ficar <b>parado durante mais de 1 ano por negligência das partes</b></td><td>II, decidir, de ofício ou a requerimento, sobre a ocorrência de <b>decadência ou prescrição</b></td></tr><tr><td>III, por <b>não promover os atos e as diligências</b> que lhe incumbir, o autor <b>abandonar a causa por mais de 30 dias</b></td><td>III, <b>homologar</b>: a) o <b>reconhecimento da procedência</b> do pedido formulado na ação ou na reconvenção; b) a <b>transação</b>; c) a <b>renúncia</b> à pretensão formulada na ação ou na reconvenção</td></tr><tr><td>IV, verificar a <b>ausência de pressupostos</b> de constituição e de desenvolvimento válido e regular do processo ;</td></tr><tr><td>V, reconhecer a existência de <b>perempção, de litispendência ou de coisa julgada</b> ;</td></tr><tr><td>VI, verificar <b>ausência de legitimidade ou de interesse processual</b> ;</td></tr><tr><td>VII, acolher a alegação de existência de <b>convenção de arbitragem</b> ou quando o juízo arbitral reconhecer sua competência ;</td></tr><tr><td>VIII, homologar a <b>desistência</b> da ação ;</td></tr><tr><td>IX, em caso de <b>morte da parte</b>, a ação for considerada <b>intransmissível</b> por disposição legal ;</td></tr><tr><td>X, nos demais casos prescritos no Código ;</td></tr></tbody></table>\n<ul><li><b>Abandono</b> (art. 485, § 1º): nas hipóteses dos incisos II e III (paralisação e abandono), a parte será <b>intimada pessoalmente</b> para suprir a falta no prazo de <b>5 dias</b>. O juiz <b>não pode</b> extinguir o processo por abandono do autor <b>de ofício</b> depois de oferecida a contestação: a extinção depende de <b>requerimento do réu</b> (§ 6º; Súmula 240 do STJ).</li><li><b>De ofício</b> (§ 3º): o juiz conhecerá de ofício da matéria dos incisos <b>IV, V, VI e IX</b> em qualquer tempo e grau de jurisdição, enquanto não ocorrer o trânsito em julgado.</li><li><b>Retratação</b> (§ 7º): interposta a apelação em qualquer dos casos do art. 485, o juiz terá <b>5 dias para retratar-se</b>. (Toda sentença terminativa admite retratação.)</li><li><b>Primazia do mérito</b> (art. 488): desde que possível, o juiz <b>resolverá o mérito sempre que a decisão for favorável à parte a quem aproveitaria</b> eventual pronunciamento nos termos do art. 485. Exemplo: se o réu é parte ilegítima, mas a prova mostra que o autor não tem o direito, o juiz pode julgar improcedente.</li></ul>\n<h3>17. Elementos, congruência e alteração da sentença</h3>\n<ul><li><b>Elementos</b> (art. 489): são elementos essenciais da sentença: I, o <b>relatório</b>, que conterá os nomes das partes, a identificação do caso, com a suma do pedido e da contestação, e o registro das principais ocorrências havidas no andamento do processo; II, os <b>fundamentos</b>, em que o juiz analisará as questões de fato e de direito; III, o <b>dispositivo</b>, em que o juiz resolverá as questões principais que as partes lhe submeterem. Nos <b>Juizados Especiais</b>, o relatório é dispensado (Lei 9.099, art. 38).</li><li><b>Congruência</b> (arts. 490 a 492): o juiz resolverá o mérito acolhendo ou rejeitando, no todo ou em parte, os pedidos formulados pelas partes. É <b>vedado</b> ao juiz proferir decisão de natureza <b>diversa</b> da pedida (<i>extra petita</i>), bem como condenar a parte em <b>quantidade superior</b> (<i>ultra petita</i>) ou em <b>objeto diverso</b> do que lhe foi demandado. Também é viciada a sentença que <b>deixa de apreciar</b> pedido (<i>citra</i> ou <i>infra petita</i>). A decisão deve ser <b>certa</b>, ainda que resolva relação jurídica condicional (art. 492, parágrafo único).</li><li><b>Fatos supervenientes</b> (art. 493): se, depois da propositura da ação, algum <b>fato constitutivo, modificativo ou extintivo</b> do direito influir no julgamento do mérito, caberá ao juiz tomá-lo em consideração, <b>de ofício ou a requerimento</b> da parte, no momento de proferir a decisão. Se constatar de ofício o fato novo, o juiz <b>ouvirá as partes</b> sobre ele antes de decidir (parágrafo único).</li><li><b>Sentença líquida</b> (art. 491): na ação relativa à obrigação de pagar quantia, ainda que formulado pedido genérico, a decisão definirá desde logo a <b>extensão da obrigação</b>, o índice de <b>correção monetária</b>, a taxa de <b>juros</b>, o termo inicial de ambos e a periodicidade da capitalização dos juros, se for o caso, salvo quando não for possível determinar, de modo definitivo, o montante devido, ou a apuração do valor depender da produção de prova de realização demorada ou excessivamente dispendiosa.</li><li><b>Alteração</b> (art. 494): publicada a sentença, o juiz só poderá alterá-la: I, para corrigir-lhe, de ofício ou a requerimento da parte, <b>inexatidões materiais</b> ou <b>erros de cálculo</b>; II, por meio de <b>embargos de declaração</b>.</li><li><b>Hipoteca judiciária</b> (art. 495): a decisão que condenar o réu ao pagamento de prestação consistente em dinheiro e a que determinar a conversão de prestação de fazer, de não fazer ou de dar coisa em prestação pecuniária valerão como <b>título constitutivo de hipoteca judiciária</b>, ainda que a condenação seja genérica, pendente arresto ou recurso com efeito suspensivo. Pode ser realizada mediante apresentação de cópia da sentença perante o cartório de registro imobiliário, <b>independentemente de ordem judicial</b>, de declaração expressa do juiz ou de demonstração de urgência.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O juiz pode extinguir de ofício o processo por abandono após a contestação</span><br>✅ <span class=\"certo\">Depende de <b>requerimento do réu</b> (art. 485, § 6º; Súmula 240 do STJ)</span></li><li>❌ <span class=\"banca\">A sentença terminativa não admite retratação</span><br>✅ <span class=\"certo\">Admite retratação em <b>5 dias</b> após a apelação (art. 485, § 7º)</span></li><li>❌ <span class=\"banca\">O juiz pode corrigir erro de cálculo da sentença só por embargos de declaração</span><br>✅ <span class=\"certo\">Pode corrigir <b>de ofício</b> inexatidões materiais e erros de cálculo (art. 494, I)</span></li><li>❌ <span class=\"banca\">A hipoteca judiciária depende de ordem do juiz</span><br>✅ <span class=\"certo\"><b>Independe</b> de ordem judicial (art. 495, § 2º)</span></li></ol></div>\n<h3>18. Remessa necessária (art. 496)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CPC, art. 496</div><div class=\"art-lei\">Está sujeita ao duplo grau de jurisdição, não produzindo efeito senão depois de confirmada pelo tribunal, a sentença: I - proferida contra a União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público; II - que julgar procedentes, no todo ou em parte, os embargos à execução fiscal. § 1º Nos casos previstos neste artigo, não interposta a apelação no prazo legal, o juiz ordenará a remessa dos autos ao tribunal, e, se não o fizer, o presidente do respectivo tribunal avocá-los-á.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>Só SENTENÇA contra a Fazenda (União, Estados, DF, Municípios, autarquias e fundações de direito público)</li><li>Embargos à execução fiscal PROCEDENTES</li><li>A sentença NÃO produz efeitos antes da confirmação</li><li>Não é recurso: é condição de eficácia</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>Empresas públicas e sociedades de economia mista NÃO têm remessa necessária.</li></ul></div></div>\n<table class=\"tab\"><thead><tr><th>Dispensa por valor (art. 496, § 3º): não se aplica a remessa quando a condenação ou o proveito econômico obtido na causa for de valor certo e líquido inferior a</th><th>Ente</th></tr></thead><tbody><tr><td><b>1.000 salários mínimos</b></td><td><b>União</b> e as respectivas autarquias e fundações de direito público</td></tr><tr><td><b>500 salários mínimos</b></td><td><b>Estados</b>, o <b>DF</b>, as respectivas autarquias e fundações de direito público e os <b>Municípios que constituam capitais</b> dos Estados</td></tr><tr><td><b>100 salários mínimos</b></td><td><b>todos os demais Municípios</b> e respectivas autarquias e fundações de direito público</td></tr></tbody></table>\n<ul><li><b>Dispensa por precedente</b> (art. 496, § 4º): também não se aplica a remessa quando a sentença estiver fundada em: I, <b>súmula</b> de tribunal superior; II, acórdão proferido pelo STF ou pelo STJ em julgamento de <b>recursos repetitivos</b>; III, entendimento firmado em <b>IRDR</b> ou de <b>IAC</b>; IV, entendimento coincidente com <b>orientação vinculante firmada no âmbito administrativo do próprio ente público</b>, consolidada em manifestação, parecer ou súmula administrativa.</li><li><b>Sentença ilíquida</b>: a <b>Súmula 490 do STJ</b> diz que \"a dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas\" (editada sob o CPC/1973). Sob o CPC/2015, o STJ entende que a sentença <b>ilíquida</b> continua sujeita à remessa, salvo quando for possível aferir, por simples cálculo, que o valor é inferior ao limite (por exemplo, nas causas previdenciárias, o STJ admite a dispensa quando é evidente que o proveito não atinge 1.000 salários mínimos).</li><li><b>Efeito translativo e proibição de reformatio in pejus</b>: na remessa, o tribunal reexamina toda a matéria decidida contra a Fazenda, mas <b>não pode agravar</b> a condenação da Fazenda (<b>Súmula 45 do STJ</b>: \"No reexame necessário, é defeso, ao tribunal, agravar a condenação imposta à Fazenda Pública\"). A remessa devolve ao tribunal o exame dos <b>honorários</b> fixados contra a Fazenda (Súmula 325 do STJ).</li><li><b>Mandado de segurança, ação popular e ACP</b>: a sentença que <b>concede</b> a segurança está sujeita ao duplo grau (Lei 12.016, art. 14, § 1º). Na ação popular, está sujeita à remessa a sentença que concluir pela <b>carência ou pela improcedência</b> da ação (Lei 4.717, art. 19), o que o STJ estende, por analogia, à <b>ação civil pública</b> e à ação de improbidade julgadas improcedentes (para a improbidade, a Lei 14.230/2021 passou a dizer expressamente que <b>não haverá remessa necessária</b> nas sentenças da Lei 8.429, art. 17-C, § 3º).</li><li><b>Juizados</b>: <b>não há</b> remessa necessária nos Juizados Especiais da Fazenda Pública (Lei 12.153, art. 11) nem nos Juizados Especiais Federais (Lei 10.259, art. 13).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A remessa necessária é um recurso da Fazenda</span><br>✅ <span class=\"certo\">É <b>condição de eficácia</b> da sentença, e não recurso</span></li><li>❌ <span class=\"banca\">Sentença contra empresa pública municipal sujeita-se à remessa</span><br>✅ <span class=\"certo\">Só as pessoas de <b>direito público</b> (art. 496, I)</span></li><li>❌ <span class=\"banca\">Para Município do interior, dispensa-se a remessa abaixo de 500 salários mínimos</span><br>✅ <span class=\"certo\">Para os <b>demais Municípios</b>, o limite é de <b>100</b> salários mínimos; 500 é para Estados e <b>capitais</b></span></li><li>❌ <span class=\"banca\">No reexame necessário, o tribunal pode agravar a condenação da Fazenda</span><br>✅ <span class=\"certo\">É <b>vedado</b> (Súmula 45 do STJ)</span></li><li>❌ <span class=\"banca\">Há remessa necessária nos Juizados da Fazenda Pública</span><br>✅ <span class=\"certo\"><b>Não há</b> (Lei 12.153, art. 11)</span></li></ol></div>\n<h3>19. Coisa julgada (arts. 502 a 508)</h3>\n<ul><li><b>Conceito</b> (art. 502): denomina-se <b>coisa julgada material</b> a autoridade que torna <b>imutável e indiscutível</b> a <b>decisão de mérito</b> não mais sujeita a recurso. A <b>coisa julgada formal</b> é a imutabilidade da decisão dentro do próprio processo (ocorre em qualquer sentença, inclusive terminativa); a <b>material</b> projeta-se para fora do processo e só ocorre nas decisões de <b>mérito</b>.</li><li><b>Limites objetivos</b> (art. 503): a decisão que julgar total ou parcialmente o mérito tem <b>força de lei</b> nos limites da <b>questão principal expressamente decidida</b>.</li><li><b>Questão prejudicial</b> (art. 503, § 1º): a coisa julgada <b>também</b> se aplica à resolução de <b>questão prejudicial</b>, decidida <b>expressa e incidentemente</b> no processo, se: I, dessa resolução <b>depender o julgamento do mérito</b>; II, a seu respeito tiver havido <b>contraditório prévio e efetivo</b>, <b>não se aplicando no caso de revelia</b>; III, o juízo tiver <b>competência em razão da matéria e da pessoa</b> para resolvê-la como questão principal. Não se aplica se no processo houver <b>restrições probatórias</b> ou limitações à cognição que impeçam o aprofundamento da análise da questão prejudicial (§ 2º; por exemplo, no mandado de segurança). É uma das grandes novidades do CPC/2015: dispensa a antiga <b>ação declaratória incidental</b>.</li><li><b>O que não faz coisa julgada</b> (art. 504): I, os <b>motivos</b>, ainda que importantes para determinar o alcance da parte dispositiva da sentença; II, a <b>verdade dos fatos</b>, estabelecida como fundamento da sentença.</li><li><b>Relações continuativas</b> (art. 505): nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide, salvo: I, se, tratando-se de <b>relação jurídica de trato continuado</b>, sobreveio <b>modificação no estado de fato ou de direito</b>, caso em que poderá a parte pedir a <b>revisão</b> do que foi estatuído na sentença (por exemplo, revisão de alimentos); II, nos demais casos prescritos em lei.</li><li><b>Limites subjetivos</b> (art. 506): a sentença faz coisa julgada às <b>partes</b> entre as quais é dada, <b>não prejudicando terceiros</b>. (O CPC/1973 dizia \"não beneficiando nem prejudicando\"; o CPC/2015 retirou \"beneficiando\", permitindo que terceiros se beneficiem.)</li><li><b>Eficácia preclusiva</b> (art. 508): transitada em julgado a decisão de mérito, considerar-se-ão <b>deduzidas e repelidas todas as alegações e as defesas</b> que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido.</li><li><b>Coisa julgada e tributos de trato continuado</b>: o STF, nos <b>Temas 881 e 885</b> (2023), decidiu que as decisões do STF em <b>controle concentrado</b> ou em <b>repercussão geral</b> que forem contrárias a uma coisa julgada anterior, em relações jurídicas tributárias de <b>trato sucessivo</b>, <b>interrompem automaticamente os efeitos temporais</b> dessa coisa julgada, respeitadas a irretroatividade, a anterioridade anual e a noventena (conforme a natureza do tributo), <b>independentemente de ação rescisória</b>. Exemplo: empresa que tinha coisa julgada desobrigando-a de pagar a CSLL passou a ter de pagar a partir da decisão do STF que declarou o tributo constitucional.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os motivos da sentença fazem coisa julgada</span><br>✅ <span class=\"certo\"><b>Não</b> fazem (art. 504, I)</span></li><li>❌ <span class=\"banca\">A questão prejudicial nunca faz coisa julgada no CPC/2015</span><br>✅ <span class=\"certo\">Faz, se preenchidos os requisitos do art. 503, § 1º (dependência, contraditório efetivo, competência)</span></li><li>❌ <span class=\"banca\">A questão prejudicial decidida em processo com revelia faz coisa julgada</span><br>✅ <span class=\"certo\"><b>Não</b> se aplica no caso de <b>revelia</b> (art. 503, § 1º, II)</span></li><li>❌ <span class=\"banca\">A coisa julgada em relação tributária de trato sucessivo é imune a decisões posteriores do STF</span><br>✅ <span class=\"certo\">O STF decidiu que seus efeitos <b>cessam automaticamente</b> (Temas 881 e 885)</span></li></ol></div>\n<h3>20. Ação rescisória e coisa julgada inconstitucional</h3>\n<table class=\"tab\"><thead><tr><th>Hipóteses da rescisória (art. 966)</th><th>A decisão de mérito, transitada em julgado, pode ser rescindida quando</th></tr></thead><tbody><tr><td>I</td><td>se verificar que foi proferida por força de <b>prevaricação, concussão ou corrupção</b> do juiz</td></tr><tr><td>II</td><td>for proferida por juiz <b>impedido</b> ou por juízo <b>absolutamente incompetente</b></td></tr><tr><td>III</td><td>resultar de <b>dolo ou coação</b> da parte vencedora em detrimento da parte vencida ou, ainda, de <b>simulação ou colusão</b> entre as partes, a fim de fraudar a lei</td></tr><tr><td>IV</td><td><b>ofender a coisa julgada</b></td></tr><tr><td>V</td><td><b>violar manifestamente norma jurídica</b></td></tr><tr><td>VI</td><td>for fundada em <b>prova cuja falsidade</b> tenha sido apurada em processo criminal ou venha a ser demonstrada na própria ação rescisória</td></tr><tr><td>VII</td><td>obtiver o autor, posteriormente ao trânsito em julgado, <b>prova nova</b> cuja existência ignorava ou de que não pôde fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável</td></tr><tr><td>VIII</td><td>for fundada em <b>erro de fato</b> verificável do exame dos autos</td></tr></tbody></table>\n<ul><li><b>Prazo</b> (art. 975): o direito à rescisão se extingue em <b>2 anos</b> contados do <b>trânsito em julgado da última decisão</b> proferida no processo. Prorroga-se até o primeiro dia útil imediatamente subsequente o prazo que expirar durante férias forenses, recesso, feriados ou em dia em que não houver expediente forense (§ 1º). Se fundada em <b>prova nova</b> (inciso VII), o termo inicial do prazo será a data de <b>descoberta</b> da prova nova, observado o <b>prazo máximo de 5 anos</b>, contado do trânsito em julgado da última decisão proferida no processo (§ 2º). Nas hipóteses de <b>simulação ou de colusão</b> das partes, o prazo começa a contar, para o terceiro prejudicado e para o MP, que não interveio no processo, a partir do momento em que <b>têm ciência</b> da simulação ou da colusão (§ 3º).</li><li><b>Depósito</b> (art. 968, II, e § 1º): o autor deve depositar a importância de <b>5% sobre o valor da causa</b>, que se converterá em multa caso a ação seja, por unanimidade de votos, declarada inadmissível ou improcedente. O depósito <b>não se aplica</b> à União, aos Estados, ao DF, aos <b>Municípios</b>, às suas respectivas autarquias e fundações de direito público, ao MP, à Defensoria Pública e aos que tenham obtido o benefício de <b>gratuidade</b> da justiça. O depósito não será superior a <b>1.000 salários mínimos</b> (§ 2º).</li><li><b>Decisão terminativa</b> (art. 966, § 2º): também cabe rescisória contra decisão transitada em julgado que, <b>embora não seja de mérito</b>, impeça: I, <b>nova propositura</b> da demanda; ou II, <b>admissibilidade do recurso</b> correspondente.</li><li><b>Súmula 343 do STF</b>: \"Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de <b>interpretação controvertida</b> nos tribunais.\" O STF afasta a súmula em matéria <b>constitucional</b> em algumas hipóteses e, no Tema 136 (RE 590.809), aplicou-a também à matéria constitucional quando a decisão rescindenda seguiu a jurisprudência do próprio STF à época.</li><li><b>Coisa julgada inconstitucional na execução</b> (arts. 525, §§ 12 a 15, e 535, §§ 5º a 8º): considera-se também <b>inexigível</b> a obrigação reconhecida em título executivo judicial fundado em lei ou ato normativo considerado <b>inconstitucional pelo STF</b>, ou fundado em aplicação ou interpretação da lei ou do ato normativo tido pelo STF como incompatível com a Constituição, em controle de constitucionalidade <b>concentrado ou difuso</b>. A decisão do STF deve ter sido proferida <b>antes do trânsito em julgado</b> da decisão exequenda; se for <b>posterior</b>, caberá <b>ação rescisória</b>, cujo prazo será contado do <b>trânsito em julgado da decisão proferida pelo STF</b>. Esse é um argumento de defesa importante para a Fazenda na impugnação ao cumprimento de sentença.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O prazo da rescisória é de 2 anos contados da publicação da sentença</span><br>✅ <span class=\"certo\">Contados do <b>trânsito em julgado da última decisão</b> (art. 975)</span></li><li>❌ <span class=\"banca\">A rescisória fundada em prova nova pode ser proposta a qualquer tempo após a descoberta</span><br>✅ <span class=\"certo\">Há prazo máximo de <b>5 anos</b> do trânsito (art. 975, § 2º)</span></li><li>❌ <span class=\"banca\">O Município deve depositar 5% do valor da causa para propor rescisória</span><br>✅ <span class=\"certo\">Os entes públicos são <b>dispensados</b> do depósito (art. 968, § 1º)</span></li><li>❌ <span class=\"banca\">A suspeição do juiz autoriza rescisória</span><br>✅ <span class=\"certo\">Só o <b>impedimento</b> (art. 966, II)</span></li><li>❌ <span class=\"banca\">Se a decisão do STF for posterior ao trânsito, basta impugnar o cumprimento de sentença</span><br>✅ <span class=\"certo\">Cabe <b>ação rescisória</b>, com prazo contado do trânsito da decisão do STF</span></li></ol></div>\n<h3>21. Casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A revelia do Município</b><p>O Município perdeu o prazo da contestação em ação em que um ex-servidor cobra horas extras supostamente prestadas. O juiz quer julgar antecipadamente, aplicando a presunção de veracidade.</p><details><summary>Ver a solução comentada</summary><p>A causa envolve <b>verbas remuneratórias pagas com dinheiro público</b>, matéria de <b>direito indisponível</b>. Pelo art. 345, II, a revelia <b>não produz o efeito material</b>, e o autor continua com o ônus de provar as horas extras (fato constitutivo, art. 373, I). O Município pode <b>intervir</b> a qualquer tempo (art. 346, parágrafo único) e, se comparecer a tempo, requerer provas (art. 349). Julgar antecipadamente com base na presunção de veracidade seria <b>erro</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Sentença contra Município do interior</b><p>O Município de Belo Vale foi condenado a pagar R$ 120 mil a uma empresa (cerca de 75 salários mínimos). Não houve apelação. O juiz certificou o trânsito em julgado.</p><details><summary>Ver a solução comentada</summary><p>Para <b>Municípios que não são capitais</b>, a remessa necessária é dispensada quando a condenação for de valor certo e líquido <b>inferior a 100 salários mínimos</b> (art. 496, § 3º, III). Como 75 SM é menos que 100, <b>não há remessa</b>: o trânsito em julgado é válido. Se a condenação fosse de 150 SM, a sentença só produziria efeitos depois de confirmada pelo TJ, e o trânsito certificado sem remessa seria inválido (Súmula 423 do STF: \"Não transita em julgado a sentença por haver omitido o recurso ex officio, que se considera interposto ex lege\").</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Questão prejudicial sobre a validade do contrato</b><p>Em ação de cobrança contra o Município, este alega na contestação que o contrato é nulo por falta de licitação. O juiz, após instrução, declara incidentemente a nulidade e julga a cobrança parcialmente procedente (só pelos serviços efetivamente prestados). Depois, a empresa ajuíza outra ação para discutir a validade do contrato.</p><details><summary>Ver a solução comentada</summary><p>A nulidade do contrato foi <b>questão prejudicial</b>, decidida <b>expressa e incidentemente</b>, com <b>contraditório prévio e efetivo</b>, por juízo <b>competente</b> (vara da Fazenda) e dela dependeu o julgamento. Pelo <b>art. 503, § 1º</b>, a decisão sobre ela faz <b>coisa julgada</b>. A nova ação deve ser extinta por <b>coisa julgada</b> (art. 485, V).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ônus da prova em multa de trânsito</b><p>Um motorista ajuíza ação anulatória de multa aplicada pelo agente municipal de trânsito, alegando que não estava no local. Pede inversão do ônus da prova.</p><details><summary>Ver a solução comentada</summary><p>Os atos administrativos têm <b>presunção relativa de legitimidade e veracidade</b>: cabe, em regra, ao <b>autor</b> provar a ilegalidade (fato constitutivo). O juiz pode <b>redistribuir</b> o ônus (art. 373, § 1º) se houver excessiva dificuldade para o autor e maior facilidade para o Município (por exemplo, se o Município tem as imagens do equipamento de fiscalização), por decisão <b>fundamentada</b> e com oportunidade de se desincumbir, sem gerar <b>prova diabólica</b> para o ente. A redistribuição deve ocorrer antes da instrução e é <b>agravável</b> (art. 1.015, XI).</p></details></div>\n<h3>22. Questões comentadas</h3>\n<ul><li><b>\"O juiz, ao verificar que a petição inicial não preenche os requisitos legais, determinará a emenda em 15 dias, indicando com precisão o que deve ser corrigido.\"</b> Certo: art. 321.</li><li><b>\"A improcedência liminar do pedido pressupõe a citação do réu.\"</b> Errado: art. 332.</li><li><b>\"Até o saneamento, o autor pode alterar o pedido sem consentimento do réu.\"</b> Errado: só <b>até a citação</b> (art. 329, I).</li><li><b>\"O juiz conhecerá de ofício da incompetência relativa e da convenção de arbitragem.\"</b> Errado: art. 337, § 5º.</li><li><b>\"A revelia não produz o efeito de presunção de veracidade se o litígio versar sobre direitos indisponíveis.\"</b> Certo: art. 345, II.</li><li><b>\"A decisão que julga antecipadamente parcela do mérito é impugnável por agravo de instrumento.\"</b> Certo: art. 356, § 5º.</li><li><b>\"O número de testemunhas não pode ser superior a 10, sendo 3, no máximo, para a prova de cada fato.\"</b> Certo: art. 357, § 6º.</li><li><b>\"Não vale como confissão a admissão, em juízo, de fatos relativos a direitos indisponíveis.\"</b> Certo: art. 392.</li><li><b>\"Está sujeita à remessa necessária a sentença proferida contra Município que não seja capital, quando a condenação for inferior a 100 salários mínimos.\"</b> Errado: abaixo de 100 SM, a remessa é <b>dispensada</b>.</li><li><b>\"Os motivos, ainda que importantes para determinar o alcance da parte dispositiva, fazem coisa julgada.\"</b> Errado: art. 504, I.</li><li><b>\"O direito à rescisão se extingue em 2 anos contados do trânsito em julgado da última decisão proferida no processo.\"</b> Certo: art. 975.</li></ul>\n<h3>23. Como as bancas cobram este tópico</h3>\n<ul><li><b>Prazos e números</b>: 15 dias (emenda, contestação, réplica, rol de testemunhas, quesitos, arguição de falsidade); 5 dias (retratação, pedido de esclarecimento do saneamento, abandono após intimação); 30 dias (antecedência da audiência; sentença após a instrução; abandono do autor); 20 dias (citação antes da audiência); 10 dias (manifestação de desinteresse); 1 ano (paralisação); 10 e 3 testemunhas; 20 + 10 minutos de debates; 30 minutos de atraso; 3% a 5% (honorários na substituição do réu); 1.000, 500 e 100 SM (remessa); 2 e 5 anos (rescisória); 5% (depósito da rescisória, limitado a 1.000 SM).</li><li><b>Comparações</b>: indeferimento x improcedência liminar; revelia (efeito material e exceções); julgamento antecipado total x parcial; ônus estático x dinâmico; coisa julgada formal x material; questão principal x prejudicial.</li><li><b>Fazenda</b>: revelia e direitos indisponíveis; confissão (art. 392); remessa necessária e suas dispensas; Súmulas 45, 325 e 490 do STJ; dispensa de depósito na rescisória; coisa julgada inconstitucional (art. 535, §§ 5º a 8º).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para a remessa necessária: <b>\"Mil, quinhentos, cem: União, Estado e Capital, demais Municípios\"</b>. Quanto menor o ente, menor o teto para dispensar o reexame.</div>",
+"quiz": [
+{
+"p": "O CPC/2015 unificou o procedimento de conhecimento no procedimento comum, extinguindo o rito sumário.",
+"c": true,
+"prof": "CPC, art. 318.",
+"x": "Procedimento comum.",
+"e": "Procedimento"
+},
+{
+"p": "A petição inicial deve indicar a opção do autor pela realização ou não de audiência de conciliação ou de mediação.",
+"c": true,
+"prof": "CPC, art. 319, VII.",
+"x": "Requisito.",
+"e": "Inicial"
+},
+{
+"p": "A petição inicial não será indeferida pela falta de dados do réu se for possível sua citação.",
+"c": true,
+"prof": "CPC, art. 319, § 2º.",
+"x": "Dados do réu.",
+"e": "Inicial"
+},
+{
+"p": "O juiz determinará a emenda da inicial em 15 dias, indicando com precisão o que deve ser corrigido ou completado.",
+"c": true,
+"prof": "CPC, art. 321.",
+"x": "Emenda.",
+"e": "Emenda"
+},
+{
+"p": "Compreendem-se no principal os juros legais, a correção monetária e as verbas de sucumbência, inclusive os honorários.",
+"c": true,
+"prof": "CPC, art. 322, § 1º.",
+"x": "Pedido implícito.",
+"e": "Pedido"
+},
+{
+"p": "Nas prestações sucessivas, as vincendas consideram-se incluídas no pedido independentemente de declaração expressa.",
+"c": true,
+"prof": "CPC, art. 323.",
+"x": "Prestações sucessivas.",
+"e": "Pedido"
+},
+{
+"p": "É lícito formular pedido genérico quando não for possível determinar, desde logo, as consequências do ato ou do fato.",
+"c": true,
+"prof": "CPC, art. 324, § 1º, II.",
+"x": "Genérico.",
+"e": "Pedido genérico"
+},
+{
+"p": "É lícita a cumulação de pedidos contra o mesmo réu, ainda que entre eles não haja conexão.",
+"c": true,
+"prof": "CPC, art. 327.",
+"x": "Cumulação.",
+"e": "Cumulação"
+},
+{
+"p": "Na cumulação subsidiária, exige-se que os pedidos sejam compatíveis entre si.",
+"c": false,
+"prof": "CPC, art. 327, § 3º.",
+"x": "Não se exige.",
+"e": "Subsidiária"
+},
+{
+"p": "Até a citação, o autor pode aditar ou alterar o pedido ou a causa de pedir independentemente de consentimento do réu.",
+"c": true,
+"prof": "CPC, art. 329, I.",
+"x": "Alteração.",
+"e": "Estabilização"
+},
+{
+"p": "Após o saneamento, o autor pode alterar a causa de pedir com o consentimento do réu.",
+"c": false,
+"prof": "CPC, art. 329, II.",
+"x": "Até o saneamento.",
+"e": "Estabilização"
+},
+{
+"p": "Considera-se inepta a petição inicial quando contiver pedidos incompatíveis entre si.",
+"c": true,
+"prof": "CPC, art. 330, § 1º, IV.",
+"x": "Inépcia.",
+"e": "Inépcia"
+},
+{
+"p": "Considera-se inepta a petição inicial quando da narração dos fatos não decorrer logicamente a conclusão.",
+"c": true,
+"prof": "CPC, art. 330, § 1º, III.",
+"x": "Inépcia.",
+"e": "Inépcia"
+},
+{
+"p": "Indeferida a petição inicial, o autor poderá apelar, facultado ao juiz retratar-se em 5 dias.",
+"c": true,
+"prof": "CPC, art. 331.",
+"x": "Retratação.",
+"e": "Indeferimento"
+},
+{
+"p": "Nas causas que dispensem a fase instrutória, o juiz julgará liminarmente improcedente o pedido que contrariar súmula do STF ou do STJ, independentemente da citação.",
+"c": true,
+"prof": "CPC, art. 332, I.",
+"x": "Improcedência liminar.",
+"e": "Art. 332"
+},
+{
+"p": "O juiz pode julgar liminarmente improcedente o pedido se verificar desde logo a decadência ou a prescrição.",
+"c": true,
+"prof": "CPC, art. 332, § 1º.",
+"x": "Prescrição.",
+"e": "Art. 332"
+},
+{
+"p": "Cabe improcedência liminar quando o pedido contrariar súmula de tribunal de justiça sobre direito federal.",
+"c": false,
+"prof": "CPC, art. 332, IV.",
+"x": "Só direito local.",
+"e": "Art. 332"
+},
+{
+"p": "A audiência de conciliação será designada com antecedência mínima de 30 dias, citado o réu com pelo menos 20 dias de antecedência.",
+"c": true,
+"prof": "CPC, art. 334.",
+"x": "Antecedência.",
+"e": "Audiência"
+},
+{
+"p": "O réu deve manifestar desinteresse na audiência de conciliação por petição com 10 dias de antecedência.",
+"c": true,
+"prof": "CPC, art. 334, § 5º.",
+"x": "10 dias.",
+"e": "Audiência"
+},
+{
+"p": "Havendo litisconsórcio, o desinteresse na audiência deve ser manifestado por todos os litisconsortes.",
+"c": true,
+"prof": "CPC, art. 334, § 6º.",
+"x": "Todos.",
+"e": "Audiência"
+},
+{
+"p": "As sessões de conciliação não podem exceder 2 meses da data da primeira sessão.",
+"c": true,
+"prof": "CPC, art. 334, § 2º.",
+"x": "2 meses.",
+"e": "Audiência"
+},
+{
+"p": "O prazo de contestação é de 15 dias, contado, em regra, da audiência de conciliação em que não houve autocomposição.",
+"c": true,
+"prof": "CPC, art. 335, I.",
+"x": "Termo inicial.",
+"e": "Contestação"
+},
+{
+"p": "Incumbe ao réu alegar, na contestação, toda a matéria de defesa.",
+"c": true,
+"prof": "CPC, art. 336.",
+"x": "Concentração.",
+"e": "Contestação"
+},
+{
+"p": "Depois da contestação, o réu pode deduzir novas alegações relativas a direito ou a fato superveniente.",
+"c": true,
+"prof": "CPC, art. 342, I.",
+"x": "Novas alegações.",
+"e": "Contestação"
+},
+{
+"p": "Excetuadas a convenção de arbitragem e a incompetência relativa, o juiz conhecerá de ofício das matérias do art. 337.",
+"c": true,
+"prof": "CPC, art. 337, § 5º.",
+"x": "De ofício.",
+"e": "Preliminares"
+},
+{
+"p": "A indevida concessão de gratuidade de justiça é matéria preliminar da contestação.",
+"c": true,
+"prof": "CPC, art. 337, XIII.",
+"x": "Preliminar.",
+"e": "Preliminares"
+},
+{
+"p": "Alegando o réu ilegitimidade, o juiz facultará ao autor, em 15 dias, alterar a petição inicial para substituir o réu.",
+"c": true,
+"prof": "CPC, art. 338.",
+"x": "Substituição.",
+"e": "Ilegitimidade"
+},
+{
+"p": "Na substituição do réu, os honorários do procurador do réu excluído serão fixados entre 3% e 5% do valor da causa.",
+"c": true,
+"prof": "CPC, art. 338, parágrafo único.",
+"x": "Honorários.",
+"e": "Substituição"
+},
+{
+"p": "O réu que alega ilegitimidade deve indicar o sujeito passivo sempre que tiver conhecimento, sob pena de arcar com despesas e indenizar o autor.",
+"c": true,
+"prof": "CPC, art. 339.",
+"x": "Indicação.",
+"e": "Ilegitimidade"
+},
+{
+"p": "Havendo alegação de incompetência, a contestação pode ser protocolada no foro de domicílio do réu.",
+"c": true,
+"prof": "CPC, art. 340.",
+"x": "Foro do réu.",
+"e": "Incompetência"
+},
+{
+"p": "Presumem-se verdadeiras as alegações de fato não impugnadas, salvo se não admitida a confissão a seu respeito.",
+"c": true,
+"prof": "CPC, art. 341, I.",
+"x": "Impugnação especificada.",
+"e": "Impugnação"
+},
+{
+"p": "O ônus da impugnação especificada não se aplica ao defensor público, ao advogado dativo e ao curador especial.",
+"c": true,
+"prof": "CPC, art. 341, parágrafo único.",
+"x": "Negação geral.",
+"e": "Impugnação"
+},
+{
+"p": "A desistência da ação não obsta o prosseguimento do processo quanto à reconvenção.",
+"c": true,
+"prof": "CPC, art. 343, § 2º.",
+"x": "Autonomia.",
+"e": "Reconvenção"
+},
+{
+"p": "O réu pode propor reconvenção independentemente de oferecer contestação.",
+"c": true,
+"prof": "CPC, art. 343, § 6º.",
+"x": "Independência.",
+"e": "Reconvenção"
+},
+{
+"p": "A reconvenção pode ser proposta contra o autor e terceiro.",
+"c": true,
+"prof": "CPC, art. 343, § 3º.",
+"x": "Terceiro.",
+"e": "Reconvenção"
+},
+{
+"p": "Se o réu não contestar, será revel e presumir-se-ão verdadeiras as alegações de fato do autor.",
+"c": true,
+"prof": "CPC, art. 344.",
+"x": "Revelia.",
+"e": "Revelia"
+},
+{
+"p": "A revelia não produz efeito material quando o litígio versar sobre direitos indisponíveis.",
+"c": true,
+"prof": "CPC, art. 345, II.",
+"x": "Indisponíveis.",
+"e": "Revelia"
+},
+{
+"p": "A revelia não produz efeito material se, havendo pluralidade de réus, algum deles contestar.",
+"c": true,
+"prof": "CPC, art. 345, I.",
+"x": "Pluralidade.",
+"e": "Revelia"
+},
+{
+"p": "Os prazos contra o revel sem patrono nos autos fluem da publicação do ato decisório no órgão oficial.",
+"c": true,
+"prof": "CPC, art. 346.",
+"x": "Efeito processual.",
+"e": "Revelia"
+},
+{
+"p": "O revel pode intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar.",
+"c": true,
+"prof": "CPC, art. 346, parágrafo único.",
+"x": "Intervenção.",
+"e": "Revelia"
+},
+{
+"p": "Se o réu alegar fato impeditivo, modificativo ou extintivo do direito do autor, este será ouvido em 15 dias.",
+"c": true,
+"prof": "CPC, art. 350.",
+"x": "Réplica.",
+"e": "Réplica"
+},
+{
+"p": "O juiz julgará antecipadamente o pedido quando não houver necessidade de produção de outras provas.",
+"c": true,
+"prof": "CPC, art. 355, I.",
+"x": "Julgamento antecipado.",
+"e": "Antecipado"
+},
+{
+"p": "O juiz decidirá parcialmente o mérito quando um dos pedidos mostrar-se incontroverso.",
+"c": true,
+"prof": "CPC, art. 356, I.",
+"x": "Parcial.",
+"e": "Parcial"
+},
+{
+"p": "A obrigação reconhecida em julgamento antecipado parcial pode ser executada desde logo, independentemente de caução.",
+"c": true,
+"prof": "CPC, art. 356, § 2º.",
+"x": "Sem caução.",
+"e": "Parcial"
+},
+{
+"p": "A decisão que julga antecipadamente parte do mérito é impugnável por agravo de instrumento.",
+"c": true,
+"prof": "CPC, art. 356, § 5º.",
+"x": "Agravo.",
+"e": "Parcial"
+},
+{
+"p": "Realizado o saneamento, as partes podem pedir esclarecimentos em 5 dias, findo o qual a decisão se torna estável.",
+"c": true,
+"prof": "CPC, art. 357, § 1º.",
+"x": "Estabilidade.",
+"e": "Saneamento"
+},
+{
+"p": "A delimitação consensual das questões de fato e de direito, homologada pelo juiz, vincula as partes e o juiz.",
+"c": true,
+"prof": "CPC, art. 357, § 2º.",
+"x": "Consensual.",
+"e": "Saneamento"
+},
+{
+"p": "Em causa complexa, o juiz deve designar audiência para fazer o saneamento em cooperação com as partes.",
+"c": true,
+"prof": "CPC, art. 357, § 3º.",
+"x": "Compartilhado.",
+"e": "Saneamento"
+},
+{
+"p": "O número de testemunhas não pode ser superior a 10, sendo 3, no máximo, para cada fato.",
+"c": true,
+"prof": "CPC, art. 357, § 6º.",
+"x": "Testemunhas.",
+"e": "Testemunhas"
+},
+{
+"p": "As partes podem empregar todos os meios legais e moralmente legítimos, ainda que não especificados no Código.",
+"c": true,
+"prof": "CPC, art. 369.",
+"x": "Atipicidade.",
+"e": "Prova"
+},
+{
+"p": "O juiz pode determinar de ofício as provas necessárias ao julgamento do mérito.",
+"c": true,
+"prof": "CPC, art. 370.",
+"x": "Poderes instrutórios.",
+"e": "Prova"
+},
+{
+"p": "O juiz poderá admitir prova produzida em outro processo, observado o contraditório.",
+"c": true,
+"prof": "CPC, art. 372.",
+"x": "Prova emprestada.",
+"e": "Prova emprestada"
+},
+{
+"p": "O ônus da prova incumbe ao autor quanto ao fato constitutivo de seu direito.",
+"c": true,
+"prof": "CPC, art. 373, I.",
+"x": "Ônus.",
+"e": "Ônus"
+},
+{
+"p": "A distribuição dinâmica do ônus da prova exige decisão fundamentada e oportunidade de a parte se desincumbir.",
+"c": true,
+"prof": "CPC, art. 373, § 1º.",
+"x": "Dinâmica.",
+"e": "Ônus dinâmico"
+},
+{
+"p": "A redistribuição do ônus da prova não pode gerar situação em que a desincumbência seja impossível ou excessivamente difícil.",
+"c": true,
+"prof": "CPC, art. 373, § 2º.",
+"x": "Prova diabólica.",
+"e": "Ônus dinâmico"
+},
+{
+"p": "As partes podem convencionar livremente a distribuição do ônus da prova, inclusive sobre direito indisponível.",
+"c": false,
+"prof": "CPC, art. 373, § 3º, I.",
+"x": "Vedado.",
+"e": "Convenção"
+},
+{
+"p": "Não dependem de prova os fatos notórios e os admitidos no processo como incontroversos.",
+"c": true,
+"prof": "CPC, art. 374.",
+"x": "Independem.",
+"e": "Fatos"
+},
+{
+"p": "A parte que alegar direito municipal provar-lhe-á o teor e a vigência, se assim o juiz determinar.",
+"c": true,
+"prof": "CPC, art. 376.",
+"x": "Direito local.",
+"e": "Direito municipal"
+},
+{
+"p": "A existência e o modo de existir de algum fato podem ser atestados por ata lavrada por tabelião.",
+"c": true,
+"prof": "CPC, art. 384.",
+"x": "Ata notarial.",
+"e": "Ata notarial"
+},
+{
+"p": "A parte que, intimada pessoalmente e advertida, não comparecer para depor sofrerá a pena de confesso.",
+"c": true,
+"prof": "CPC, art. 385, § 1º.",
+"x": "Pena de confesso.",
+"e": "Depoimento"
+},
+{
+"p": "Não vale como confissão a admissão, em juízo, de fatos relativos a direitos indisponíveis.",
+"c": true,
+"prof": "CPC, art. 392.",
+"x": "Indisponíveis.",
+"e": "Confissão"
+},
+{
+"p": "A confissão é revogável a qualquer tempo.",
+"c": false,
+"prof": "CPC, art. 393.",
+"x": "Irrevogável, anulável.",
+"e": "Confissão"
+},
+{
+"p": "Cabe ao advogado informar ou intimar a testemunha por ele arrolada, por carta com aviso de recebimento.",
+"c": true,
+"prof": "CPC, art. 455.",
+"x": "Intimação.",
+"e": "Testemunha"
+},
+{
+"p": "A testemunha servidora pública é requisitada ao chefe da repartição em que servir.",
+"c": true,
+"prof": "CPC, art. 455, § 4º, III.",
+"x": "Requisição.",
+"e": "Servidor"
+},
+{
+"p": "O prefeito é inquirido em sua residência ou onde exerce sua função.",
+"c": true,
+"prof": "CPC, art. 454, VIII.",
+"x": "Prerrogativa.",
+"e": "Prefeito"
+},
+{
+"p": "O juiz pode determinar prova técnica simplificada, em substituição à perícia, quando o ponto controvertido for de menor complexidade.",
+"c": true,
+"prof": "CPC, art. 464, § 2º.",
+"x": "Simplificada.",
+"e": "Perícia"
+},
+{
+"p": "As partes podem escolher o perito de comum acordo.",
+"c": true,
+"prof": "CPC, art. 471.",
+"x": "Consensual.",
+"e": "Perícia"
+},
+{
+"p": "O juiz não está adstrito ao laudo pericial, devendo indicar os motivos de considerá-lo ou não.",
+"c": true,
+"prof": "CPC, art. 479.",
+"x": "Livre apreciação.",
+"e": "Perícia"
+},
+{
+"p": "A audiência pode ser adiada por atraso injustificado de seu início superior a 30 minutos.",
+"c": true,
+"prof": "CPC, art. 362, III.",
+"x": "30 minutos.",
+"e": "Audiência"
+},
+{
+"p": "Nos debates orais, cada advogado tem 20 minutos, prorrogáveis por 10.",
+"c": true,
+"prof": "CPC, art. 364.",
+"x": "Debates.",
+"e": "Debates"
+},
+{
+"p": "A gravação da audiência pode ser feita por qualquer das partes, independentemente de autorização judicial.",
+"c": true,
+"prof": "CPC, art. 367, § 6º.",
+"x": "Gravação.",
+"e": "Gravação"
+},
+{
+"p": "O juiz não resolverá o mérito quando o autor abandonar a causa por mais de 30 dias.",
+"c": true,
+"prof": "CPC, art. 485, III.",
+"x": "Abandono.",
+"e": "Sem mérito"
+},
+{
+"p": "Oferecida a contestação, a extinção por abandono da causa depende de requerimento do réu.",
+"c": true,
+"prof": "CPC, art. 485, § 6º.",
+"x": "Súmula 240.",
+"e": "Abandono"
+},
+{
+"p": "Interposta apelação contra sentença sem resolução de mérito, o juiz terá 5 dias para retratar-se.",
+"c": true,
+"prof": "CPC, art. 485, § 7º.",
+"x": "Retratação.",
+"e": "Retratação"
+},
+{
+"p": "Haverá resolução de mérito quando o juiz homologar a transação.",
+"c": true,
+"prof": "CPC, art. 487, III, b.",
+"x": "Mérito.",
+"e": "Com mérito"
+},
+{
+"p": "Desde que possível, o juiz resolverá o mérito sempre que a decisão for favorável à parte a quem aproveitaria a extinção sem mérito.",
+"c": true,
+"prof": "CPC, art. 488.",
+"x": "Primazia.",
+"e": "Primazia"
+},
+{
+"p": "É vedado ao juiz condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado.",
+"c": true,
+"prof": "CPC, art. 492.",
+"x": "Congruência.",
+"e": "Congruência"
+},
+{
+"p": "Publicada a sentença, o juiz pode corrigir de ofício inexatidões materiais e erros de cálculo.",
+"c": true,
+"prof": "CPC, art. 494, I.",
+"x": "Erro material.",
+"e": "Alteração"
+},
+{
+"p": "A sentença condenatória vale como título constitutivo de hipoteca judiciária, independentemente de ordem judicial.",
+"c": true,
+"prof": "CPC, art. 495.",
+"x": "Hipoteca.",
+"e": "Hipoteca"
+},
+{
+"p": "Está sujeita à remessa necessária a sentença proferida contra os Municípios e suas autarquias e fundações de direito público.",
+"c": true,
+"prof": "CPC, art. 496, I.",
+"x": "Remessa.",
+"e": "Remessa"
+},
+{
+"p": "Está sujeita à remessa necessária a sentença que julgar procedentes os embargos à execução fiscal.",
+"c": true,
+"prof": "CPC, art. 496, II.",
+"x": "Embargos.",
+"e": "Remessa"
+},
+{
+"p": "Não se aplica a remessa necessária quando a condenação contra Município que não seja capital for inferior a 100 salários mínimos.",
+"c": true,
+"prof": "CPC, art. 496, § 3º, III.",
+"x": "100 SM.",
+"e": "Dispensa"
+},
+{
+"p": "Não se aplica a remessa necessária quando a sentença estiver fundada em orientação vinculante firmada no âmbito administrativo do próprio ente.",
+"c": true,
+"prof": "CPC, art. 496, § 4º, IV.",
+"x": "Orientação administrativa.",
+"e": "Dispensa"
+},
+{
+"p": "No reexame necessário, é defeso ao tribunal agravar a condenação imposta à Fazenda Pública.",
+"c": true,
+"prof": "Súmula 45 do STJ.",
+"x": "Reformatio in pejus.",
+"e": "Súmula 45"
+},
+{
+"p": "Há remessa necessária nas sentenças dos Juizados Especiais da Fazenda Pública.",
+"c": false,
+"prof": "Lei 12.153, art. 11.",
+"x": "Não há.",
+"e": "Juizados"
+},
+{
+"p": "Coisa julgada material é a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.",
+"c": true,
+"prof": "CPC, art. 502.",
+"x": "Conceito.",
+"e": "Coisa julgada"
+},
+{
+"p": "A coisa julgada abrange a questão prejudicial decidida expressa e incidentemente, se houver contraditório prévio e efetivo e competência do juízo.",
+"c": true,
+"prof": "CPC, art. 503, § 1º.",
+"x": "Prejudicial.",
+"e": "Prejudicial"
+},
+{
+"p": "A questão prejudicial decidida em processo com revelia faz coisa julgada.",
+"c": false,
+"prof": "CPC, art. 503, § 1º, II.",
+"x": "Não faz.",
+"e": "Prejudicial"
+},
+{
+"p": "Não fazem coisa julgada os motivos, ainda que importantes para determinar o alcance do dispositivo.",
+"c": true,
+"prof": "CPC, art. 504, I.",
+"x": "Motivos.",
+"e": "Limites"
+},
+{
+"p": "A sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiros.",
+"c": true,
+"prof": "CPC, art. 506.",
+"x": "Limites subjetivos.",
+"e": "Limites"
+},
+{
+"p": "Transitada em julgado a decisão, consideram-se deduzidas e repelidas todas as alegações e defesas que a parte poderia opor.",
+"c": true,
+"prof": "CPC, art. 508.",
+"x": "Eficácia preclusiva.",
+"e": "Preclusiva"
+},
+{
+"p": "Segundo o STF, decisões em controle concentrado ou repercussão geral cessam automaticamente os efeitos de coisa julgada anterior em relações tributárias de trato sucessivo.",
+"c": true,
+"prof": "Temas 881 e 885.",
+"x": "Coisa julgada tributária.",
+"e": "Trato sucessivo"
+},
+{
+"p": "Cabe ação rescisória contra decisão proferida por juiz impedido.",
+"c": true,
+"prof": "CPC, art. 966, II.",
+"x": "Impedimento.",
+"e": "Rescisória"
+},
+{
+"p": "O direito à rescisão extingue-se em 2 anos contados do trânsito em julgado da última decisão proferida no processo.",
+"c": true,
+"prof": "CPC, art. 975.",
+"x": "2 anos.",
+"e": "Prazo"
+},
+{
+"p": "Na rescisória fundada em prova nova, o prazo conta-se da descoberta, observado o máximo de 5 anos do trânsito.",
+"c": true,
+"prof": "CPC, art. 975, § 2º.",
+"x": "5 anos.",
+"e": "Prova nova"
+},
+{
+"p": "Os Municípios estão dispensados do depósito de 5% do valor da causa na ação rescisória.",
+"c": true,
+"prof": "CPC, art. 968, § 1º.",
+"x": "Dispensa.",
+"e": "Depósito"
+},
+{
+"p": "Se a decisão do STF que declara a inconstitucionalidade for posterior ao trânsito em julgado da decisão exequenda, cabe ação rescisória, contado o prazo do trânsito da decisão do STF.",
+"c": true,
+"prof": "CPC, art. 535, § 8º.",
+"x": "Rescisória.",
+"e": "Inconstitucional"
+},
+{
+"p": "Considera-se inepta a petição inicial quando",
+"alts": [
+"o autor for parte ilegítima",
+"faltar interesse processual",
+"lhe faltar pedido ou causa de pedir",
+"não indicar o CPF do réu, ainda que possível a citação",
+"não houver opção pela audiência"
+],
+"r": 2,
+"x": "Art. 330, § 1º.",
+"n": [
+"Ilegitimidade (art. 330, II).",
+"Art. 330, III.",
+"Correta.",
+"Não se indefere.",
+"Não."
+],
+"e": "Inépcia."
+},
+{
+"p": "Sobre a improcedência liminar do pedido, é correto afirmar:",
+"alts": [
+"exige citação prévia do réu",
+"é decisão sem resolução de mérito",
+"cabe em causas que dispensem instrução, quando o pedido contrariar súmula do STF ou STJ, ou se houver prescrição ou decadência",
+"não admite retratação",
+"só cabe por contrariedade a súmula vinculante"
+],
+"r": 2,
+"x": "Art. 332.",
+"n": [
+"Independe.",
+"Mérito.",
+"Correta.",
+"Admite em 5 dias.",
+"Hipóteses mais amplas."
+],
+"e": "Improcedência liminar."
+},
+{
+"p": "Segundo o art. 329 do CPC, o autor pode alterar o pedido ou a causa de pedir",
+"alts": [
+"a qualquer tempo, livremente",
+"até a citação, sem consentimento do réu; até o saneamento, com consentimento do réu",
+"até a sentença, com consentimento do réu",
+"só antes da distribuição",
+"nunca, após o protocolo"
+],
+"r": 1,
+"x": "Art. 329.",
+"n": [
+"Não.",
+"Correta.",
+"Até o saneamento.",
+"Não.",
+"Não."
+],
+"e": "Estabilização."
+},
+{
+"p": "A audiência de conciliação ou de mediação do art. 334 NÃO será realizada quando",
+"alts": [
+"o réu manifestar desinteresse",
+"o autor manifestar desinteresse",
+"ambas as partes manifestarem, expressamente, desinteresse, ou quando não se admitir autocomposição",
+"a Fazenda for ré, em qualquer caso",
+"o valor da causa for alto"
+],
+"r": 2,
+"x": "Art. 334, § 4º.",
+"n": [
+"Precisa das duas.",
+"Precisa das duas.",
+"Correta.",
+"Não automaticamente.",
+"Não."
+],
+"e": "Audiência."
+},
+{
+"p": "Excetuadas duas matérias, o juiz conhecerá de ofício das preliminares do art. 337. São elas:",
+"alts": [
+"coisa julgada e litispendência",
+"inépcia e perempção",
+"convenção de arbitragem e incompetência relativa",
+"ilegitimidade e falta de interesse",
+"incompetência absoluta e conexão"
+],
+"r": 2,
+"x": "Art. 337, § 5º.",
+"n": [
+"De ofício.",
+"De ofício.",
+"Correta.",
+"De ofício.",
+"De ofício."
+],
+"e": "Preliminares."
+},
+{
+"p": "Alegando o réu, na contestação, ser parte ilegítima, o juiz",
+"alts": [
+"extinguirá imediatamente o processo",
+"facultará ao autor, em 15 dias, alterar a petição inicial para substituir o réu",
+"determinará a citação do verdadeiro réu de ofício",
+"condenará o autor por litigância de má-fé",
+"suspenderá o processo por 1 ano"
+],
+"r": 1,
+"x": "Art. 338.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Substituição."
+},
+{
+"p": "A revelia NÃO produz o efeito de presunção de veracidade quando",
+"alts": [
+"o réu for pessoa jurídica de direito privado",
+"o autor juntar documentos",
+"o litígio versar sobre direitos indisponíveis",
+"o réu for citado pelo correio",
+"o valor da causa for pequeno"
+],
+"r": 2,
+"x": "Art. 345, II.",
+"n": [
+"Produz.",
+"Não.",
+"Correta.",
+"Produz.",
+"Não."
+],
+"e": "Revelia."
+},
+{
+"p": "Quanto ao julgamento antecipado parcial do mérito, é correto afirmar:",
+"alts": [
+"é feito por sentença",
+"é atacável por apelação",
+"depende de caução para execução",
+"é decisão interlocutória, atacável por agravo de instrumento, e a obrigação reconhecida pode ser executada desde logo, sem caução",
+"só cabe se o réu for revel"
+],
+"r": 3,
+"x": "Art. 356.",
+"n": [
+"Interlocutória.",
+"Agravo.",
+"Sem caução.",
+"Correta.",
+"Não."
+],
+"e": "Parcial."
+},
+{
+"p": "Na decisão de saneamento, as partes podem pedir esclarecimentos ou ajustes no prazo comum de",
+"alts": [
+"15 dias",
+"10 dias",
+"5 dias, findo o qual a decisão se torna estável",
+"48 horas",
+"30 dias"
+],
+"r": 2,
+"x": "Art. 357, § 1º.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Saneamento."
+},
+{
+"p": "Sobre a distribuição dinâmica do ônus da prova, assinale a correta.",
+"alts": [
+"pode ser feita na sentença, sem prévio aviso",
+"pode gerar prova impossível para a parte",
+"exige decisão fundamentada e oportunidade de a parte se desincumbir do ônus",
+"só pode ser feita por convenção",
+"é vedada no CPC/2015"
+],
+"r": 2,
+"x": "Art. 373, §§ 1º e 2º.",
+"n": [
+"Não.",
+"Vedado.",
+"Correta.",
+"Também pelo juiz.",
+"Prevista."
+],
+"e": "Ônus dinâmico."
+},
+{
+"p": "Não vale como confissão, segundo o CPC,",
+"alts": [
+"a admissão espontânea de fato por pessoa capaz",
+"a admissão, em juízo, de fatos relativos a direitos indisponíveis",
+"a confissão provocada em depoimento pessoal",
+"a confissão extrajudicial escrita",
+"a confissão do autor"
+],
+"r": 1,
+"x": "Art. 392.",
+"n": [
+"Vale.",
+"Correta.",
+"Vale.",
+"Pode valer.",
+"Vale."
+],
+"e": "Confissão."
+},
+{
+"p": "O juiz não resolverá o mérito quando",
+"alts": [
+"acolher a prescrição",
+"homologar a transação",
+"verificar ausência de legitimidade ou de interesse processual",
+"homologar a renúncia à pretensão",
+"rejeitar o pedido"
+],
+"r": 2,
+"x": "Art. 485, VI.",
+"n": [
+"Mérito.",
+"Mérito.",
+"Correta.",
+"Mérito.",
+"Mérito."
+],
+"e": "Sem mérito."
+},
+{
+"p": "Está dispensada a remessa necessária da sentença proferida contra Município que não é capital quando a condenação, de valor certo e líquido, for inferior a",
+"alts": [
+"1.000 salários mínimos",
+"500 salários mínimos",
+"100 salários mínimos",
+"60 salários mínimos",
+"40 salários mínimos"
+],
+"r": 2,
+"x": "Art. 496, § 3º, III.",
+"n": [
+"União.",
+"Estados e capitais.",
+"Correta.",
+"Regra antiga.",
+"Não."
+],
+"e": "Remessa."
+},
+{
+"p": "Sobre a remessa necessária, é correto afirmar:",
+"alts": [
+"aplica-se às empresas públicas",
+"permite ao tribunal agravar a condenação da Fazenda",
+"não se aplica quando a sentença estiver fundada em súmula de tribunal superior",
+"aplica-se nos Juizados da Fazenda Pública",
+"é um recurso voluntário"
+],
+"r": 2,
+"x": "Art. 496, § 4º; Súmula 45 do STJ.",
+"n": [
+"Direito público.",
+"Vedado.",
+"Correta.",
+"Não há.",
+"Condição de eficácia."
+],
+"e": "Remessa."
+},
+{
+"p": "A coisa julgada abrange a questão prejudicial decidida incidentemente quando",
+"alts": [
+"a parte requerer ação declaratória incidental",
+"houver revelia",
+"dela depender o julgamento do mérito, houver contraditório prévio e efetivo e o juízo for competente em razão da matéria e da pessoa",
+"houver restrição probatória",
+"for decidida nos motivos sem contraditório"
+],
+"r": 2,
+"x": "Art. 503, § 1º.",
+"n": [
+"Dispensada.",
+"Afasta.",
+"Correta.",
+"Afasta (§ 2º).",
+"Não."
+],
+"e": "Prejudicial."
+},
+{
+"p": "NÃO fazem coisa julgada, segundo o art. 504 do CPC,",
+"alts": [
+"o dispositivo da sentença",
+"a questão principal decidida",
+"os motivos e a verdade dos fatos estabelecida como fundamento",
+"a decisão de mérito transitada",
+"a questão prejudicial nas condições legais"
+],
+"r": 2,
+"x": "Art. 504.",
+"n": [
+"Faz.",
+"Faz.",
+"Correta.",
+"Faz.",
+"Faz."
+],
+"e": "Limites."
+},
+{
+"p": "O prazo para a ação rescisória é de",
+"alts": [
+"1 ano da publicação da sentença",
+"2 anos do trânsito em julgado da última decisão, ou até 5 anos se fundada em prova nova descoberta depois",
+"5 anos sempre",
+"120 dias",
+"10 anos"
+],
+"r": 1,
+"x": "Art. 975.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Rescisória."
+},
+{
+"p": "Na audiência de instrução, as provas orais serão produzidas, preferencialmente, na seguinte ordem:",
+"alts": [
+"testemunhas do autor, testemunhas do réu, partes e perito",
+"partes, testemunhas e perito",
+"perito e assistentes técnicos, depoimentos pessoais do autor e do réu, e testemunhas",
+"réu, autor e testemunhas",
+"perito, testemunhas e partes"
+],
+"r": 2,
+"x": "Art. 361.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Instrução."
+}
+]
+}
+},
 "portugues": {
 "interpretacao": {
 "html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>erros clássicos de leitura (extrapolação, redução e contradição)</span></div><div class=\"lt-stat\"><b>2</b><span>níveis de leitura (compreensão e interpretação)</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de informação implícita (pressuposto e subentendido)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: toda resposta precisa estar autorizada pelo texto</span></div></div>\n<h3>1. Por que interpretação é a matéria que mais decide a prova</h3>\n<ul><li>Em quase todos os concursos, <b>interpretação de textos</b> é o assunto com <b>mais questões</b> de Língua Portuguesa, e as questões de gramática também vêm, muitas vezes, <b>ligadas a um texto</b> (\"no segundo parágrafo, a palavra X refere-se a...\"). Quem lê bem acerta mais <b>em todas as matérias</b>, porque também lê melhor os enunciados de Direito, as alternativas e as pegadinhas.</li><li>A boa notícia: interpretação <b>se treina</b>. Existe <b>método</b>: entender o que a banca pede, localizar a informação, separar o que o texto <b>diz</b> do que você <b>acha</b>, reconhecer os erros que as alternativas armam.</li></ul>\n<h3>2. Compreensão x interpretação</h3>\n<table class=\"tab\"><thead><tr><th>Nível</th><th>O que é</th><th>Comandos típicos</th></tr></thead><tbody><tr><td><b>Compreensão</b></td><td>entender o que o texto <b>diz explicitamente</b>: a informação está <b>escrita</b>, com essas ou outras palavras</td><td>\"<b>segundo</b> o texto\", \"<b>de acordo com</b> o autor\", \"o texto <b>informa</b> que\", \"o autor <b>afirma</b>\"</td></tr><tr><td><b>Interpretação</b></td><td>tirar <b>conclusões</b> a partir do texto: o que ele <b>permite deduzir</b>, sem estar escrito</td><td>\"<b>infere-se</b>\", \"<b>depreende-se</b>\", \"<b>conclui-se</b>\", \"o texto <b>sugere</b>\", \"<b>pode-se deduzir</b>\", \"<b>permite concluir</b>\"</td></tr></tbody></table>\n<ul><li><b>Compreensão</b> é como <b>localizar</b> um dado: a resposta certa costuma ser uma <b>paráfrase</b> (a mesma ideia, com outras palavras) de um trecho.</li><li><b>Interpretação</b> exige <b>raciocínio</b>, mas <b>dentro dos limites</b> do texto: a conclusão precisa ser <b>necessária</b> ou fortemente <b>autorizada</b> pelo que está escrito, e não apenas \"possível\" ou \"razoável\" no mundo real.</li><li><b>Regra de ouro</b>: a resposta deve ser <b>autorizada pelo texto</b>. Seu conhecimento de mundo ajuda a <b>entender</b>, mas não pode <b>substituir</b> o texto. Se a alternativa traz algo <b>verdadeiro na vida real</b>, mas que o texto <b>não diz nem permite concluir</b>, ela está <b>errada</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se a afirmação é verdadeira no mundo real, a alternativa está correta</span><br>✅ <span class=\"certo\">Só está correta se for <b>autorizada pelo texto</b></span></li><li>❌ <span class=\"banca\">\"Infere-se\" pede que o candidato localize uma frase copiada do texto</span><br>✅ <span class=\"certo\">\"Infere-se\" pede <b>conclusão implícita</b>, autorizada pelo texto</span></li><li>❌ <span class=\"banca\">\"Segundo o texto\" admite conclusões pessoais do leitor</span><br>✅ <span class=\"certo\">\"Segundo o texto\" pede o que o texto <b>diz</b> (compreensão)</span></li></ol></div>\n<h3>3. Os três erros clássicos das alternativas</h3>\n<table class=\"tab\"><thead><tr><th>Erro</th><th>O que a alternativa faz</th><th>Exemplo (texto: \"Muitos jovens brasileiros têm deixado a escola antes de concluir o ensino médio, sobretudo por necessidade de trabalhar.\")</th></tr></thead><tbody><tr><td><b>Extrapolação</b></td><td>vai <b>além</b> do texto: acrescenta informação, generaliza, exagera, conclui o que não dá para concluir</td><td>\"<b>Todos</b> os jovens brasileiros abandonam a escola\" ou \"O governo é o culpado pela evasão\" (o texto não fala em todos nem em culpa do governo)</td></tr><tr><td><b>Redução</b></td><td>fica <b>aquém</b> do texto: toma uma <b>parte</b> pelo todo, omite algo essencial, restringe</td><td>\"O texto trata apenas da necessidade de trabalhar\" (o texto diz \"sobretudo\", o que indica que há outros motivos)</td></tr><tr><td><b>Contradição</b></td><td>diz o <b>contrário</b> do texto</td><td>\"Poucos jovens deixam a escola antes do ensino médio\" ou \"O trabalho não influencia a evasão\"</td></tr></tbody></table>\n<ul><li><b>Palavras de alerta</b> (costumam indicar <b>extrapolação</b> quando o texto não as autoriza): <b>sempre, nunca, todos, nenhum, apenas, somente, exclusivamente, necessariamente, certamente, o único, a maior, a principal</b>. Elas tornam a afirmação <b>absoluta</b>. Se o texto disse \"muitos\", \"frequentemente\", \"pode\", a alternativa com \"todos\", \"sempre\", \"deve\" <b>extrapola</b>.</li><li><b>Palavras que relativizam</b> (geralmente aparecem nas alternativas <b>corretas</b>, porque os textos costumam ser cuidadosos): <b>pode, parece, sugere, em geral, muitas vezes, alguns, tende a, provavelmente</b>.</li><li><b>Cuidado com o contrário</b>: nem toda alternativa com \"sempre\" está errada (se o texto disser \"sempre\", ela pode estar certa), e nem toda alternativa com \"pode\" está certa. A palavra <b>acende o alerta</b>; a <b>comparação com o texto</b> decide.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Alternativa com \"todos\" ou \"sempre\" está sempre errada</span><br>✅ <span class=\"certo\">As palavras <b>absolutas</b> são <b>alerta</b>, mas a alternativa pode estar certa se o <b>texto</b> também for absoluto</span></li><li>❌ <span class=\"banca\">Redução é acrescentar informação ao texto</span><br>✅ <span class=\"certo\">Acrescentar é <b>extrapolação</b>; <b>redução</b> é restringir, tomar a parte pelo todo</span></li></ol></div>\n<h3>4. Informação explícita e implícita: pressuposto e subentendido</h3>\n<ul><li><b>Explícita</b>: está <b>dita</b> no texto.</li><li><b>Implícita</b>: não está dita, mas é <b>transmitida</b>. Há dois tipos principais:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Definição</th><th>Exemplo</th><th>Característica</th></tr></thead><tbody><tr><td><b>Pressuposto</b></td><td>informação implícita <b>marcada na própria frase</b> por uma palavra ou construção; quem afirma a frase <b>aceita</b> essa informação</td><td>\"Paulo <b>parou de</b> fumar\" → pressupõe que Paulo <b>fumava</b></td><td>é <b>objetivo</b>: <b>não pode ser negado</b> sem contradição (\"Paulo parou de fumar, mas nunca fumou\" é absurdo)</td></tr><tr><td><b>Subentendido</b></td><td>insinuação que <b>depende do contexto</b> e da interpretação do ouvinte; não está marcada em palavra</td><td>\"Está calor aqui, não?\" (dito a quem está perto da janela fechada) → subentende-se um <b>pedido</b> para abrir a janela</td><td>é <b>subjetivo</b>: quem fala pode <b>negar</b> (\"Eu só comentei o tempo\")</td></tr></tbody></table>\n<ul><li><b>Marcadores de pressuposto</b> (muito cobrados): <b>verbos</b> que indicam mudança ou continuidade de estado (<b>parar de, deixar de, continuar, começar a, voltar a, tornar-se</b>): \"Ele <b>voltou a</b> estudar\" pressupõe que <b>estudava antes</b> e <b>parou</b>; <b>advérbios</b> como <b>ainda, já, também, até, só</b>: \"<b>Ainda</b> chove\" pressupõe que <b>chovia antes</b>; \"<b>Até</b> o diretor veio\" pressupõe que o diretor <b>não era esperado</b>; <b>adjetivos</b> e expressões: \"o <b>novo</b> chefe\" pressupõe um chefe <b>anterior</b>; <b>orações adjetivas</b> e <b>conectivos</b> que trazem informação dada como certa: \"O policial <b>que salvou a criança</b> foi homenageado\" pressupõe que <b>um policial salvou a criança</b>.</li><li><b>Por que importa</b>: as bancas perguntam \"a frase X <b>pressupõe</b> que...\" ou \"o emprego de 'ainda' indica que...\". O pressuposto é <b>seguro</b>: dá para afirmar com certeza. O subentendido é <b>inferência de contexto</b> e precisa ser muito bem amparado.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O subentendido não pode ser negado por quem fala</span><br>✅ <span class=\"certo\">Quem <b>não pode negar</b> é o <b>pressuposto</b>; o subentendido <b>pode</b> ser negado</span></li><li>❌ <span class=\"banca\">\"Ele deixou de beber\" não traz informação implícita</span><br>✅ <span class=\"certo\">Pressupõe que ele <b>bebia</b> antes</span></li><li>❌ <span class=\"banca\">\"Até o goleiro marcou gol\" pressupõe que o goleiro costuma marcar gols</span><br>✅ <span class=\"certo\">Pressupõe o <b>contrário</b>: que <b>não era esperado</b> que ele marcasse</span></li></ol></div>\n<h3>5. Tema, tese, ideia principal e argumentos</h3>\n<ul><li><b>Assunto</b> (ou tema amplo): <b>de que</b> o texto fala (ex.: segurança pública).</li><li><b>Tema</b> (recorte): o aspecto específico tratado (ex.: o uso de câmeras corporais por policiais).</li><li><b>Tese</b>: o <b>posicionamento</b> do autor sobre o tema, aquilo que ele <b>defende</b> (ex.: as câmeras corporais protegem tanto o cidadão quanto o policial e devem ser ampliadas). Só existe tese em textos <b>argumentativos</b> (dissertativo-argumentativos, artigos de opinião, editoriais, resenhas críticas).</li><li><b>Ideia principal</b> de um parágrafo: a ideia central que o parágrafo desenvolve, geralmente apresentada no <b>tópico frasal</b> (muitas vezes a <b>primeira frase</b>), seguida de explicações, exemplos e detalhes.</li><li><b>Argumentos</b>: as razões que sustentam a tese. <b>Tipos mais cobrados</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de argumento</th><th>Como funciona</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Autoridade</b></td><td>cita especialista, instituição, pesquisa reconhecida</td><td>\"Segundo estudo da universidade X...\"</td></tr><tr><td><b>Exemplificação / ilustração</b></td><td>usa casos concretos, fatos, narrativas</td><td>\"Na cidade X, após a medida, os roubos caíram\"</td></tr><tr><td><b>Dados estatísticos</b> (provas concretas)</td><td>números, porcentagens, índices</td><td>\"A taxa caiu 30% em dois anos\"</td></tr><tr><td><b>Causa e consequência</b></td><td>mostra o que provoca o quê</td><td>\"Como a iluminação melhorou, os assaltos diminuíram\"</td></tr><tr><td><b>Comparação / analogia</b></td><td>aproxima situações semelhantes</td><td>\"Assim como o cinto de segurança, a medida protege mesmo quem a critica\"</td></tr><tr><td><b>Senso comum / consenso</b></td><td>apoia-se no que todos aceitam</td><td>\"Ninguém duvida de que educação reduz a violência\" (argumento fraco se não comprovado)</td></tr><tr><td><b>Contra-argumentação (concessão e refutação)</b></td><td>reconhece a objeção e a rebate</td><td>\"<b>Embora</b> haja custos, os benefícios são maiores\"</td></tr></tbody></table>\n<ul><li><b>Concessão</b>: reconhecer parcialmente a posição contrária para depois <b>reforçar</b> a própria (conectivos <b>embora, ainda que, apesar de, mesmo que, conquanto</b>). A ideia <b>mais importante</b> costuma estar na oração <b>principal</b>, não na concessiva: em \"Embora caro, o projeto é necessário\", o autor <b>defende</b> o projeto.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo texto tem uma tese</span><br>✅ <span class=\"certo\">Só os textos <b>argumentativos</b>; narrativos e descritivos não defendem posição</span></li><li>❌ <span class=\"banca\">Em \"Embora seja caro, o projeto é necessário\", o autor critica o projeto</span><br>✅ <span class=\"certo\">O autor <b>defende</b> o projeto; a concessiva apenas reconhece o custo</span></li><li>❌ <span class=\"banca\">Tema e tese são a mesma coisa</span><br>✅ <span class=\"certo\">Tema é <b>sobre o quê</b>; tese é <b>o que o autor defende</b></span></li></ol></div>\n<h3>6. Vozes do texto e ponto de vista</h3>\n<ul><li>Nem tudo o que está no texto é <b>opinião do autor</b>. O texto pode trazer <b>outras vozes</b>: citações, falas de entrevistados, opiniões que o autor <b>apresenta para criticar</b>.</li><li><b>Discurso direto</b> (a fala reproduzida, entre aspas ou com travessão), <b>discurso indireto</b> (o autor relata o que alguém disse: \"O ministro afirmou que...\") e <b>discurso indireto livre</b> (a voz da personagem se mistura à do narrador, comum na literatura).</li><li><b>Cuidado</b>: se o texto diz \"<b>Alguns especialistas afirmam</b> que a pena de prisão resolve o problema, <b>mas</b> os dados mostram o contrário\", a ideia de que a prisão resolve <b>não é do autor</b>; ele a <b>apresenta para refutar</b>. A alternativa que atribui essa opinião ao autor está <b>errada</b>.</li><li><b>Aspas</b>: podem indicar <b>citação</b>, <b>ironia</b> (sentido contrário: \"o 'brilhante' plano fracassou\"), <b>estrangeirismo</b>, <b>neologismo</b> ou <b>distanciamento</b> (o autor usa a palavra, mas não se responsabiliza por ela: os chamados \"efeitos colaterais\").</li><li><b>Modalizadores</b>: palavras que mostram <b>o grau de certeza ou a avaliação</b> do autor: <b>certamente, talvez, possivelmente, felizmente, infelizmente, é provável que, é necessário que, deve-se</b>. Identificam o <b>ponto de vista</b>: \"<b>Infelizmente</b>, a medida demorou\" mostra avaliação <b>negativa</b> do autor sobre a demora.</li></ul>\n<h3>7. Paráfrase: dizer o mesmo com outras palavras</h3>\n<ul><li><b>Paráfrase</b> é a reescrita que <b>mantém o sentido</b> do original. Muitas questões perguntam qual alternativa <b>reproduz adequadamente</b> uma ideia do texto.</li><li><b>Como testar</b>: compare <b>ponto por ponto</b>: quem faz o quê, com que intensidade, com que certeza, em que tempo, com que restrições. Basta mudar <b>um</b> desses elementos para a paráfrase falhar.</li><li><b>Pontos que costumam ser alterados</b> nas alternativas erradas: <b>quantificadores</b> (muitos → todos), <b>modalização</b> (pode → deve; talvez → certamente), <b>tempo verbal</b> (aumentou → aumentará), <b>causa e consequência invertidas</b> (\"A chuva causou o alagamento\" → \"O alagamento causou a chuva\"), <b>negação</b> acrescentada ou retirada, <b>agente</b> trocado (quem fez a ação).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Paráfrase em prática</b><p>Trecho: \"A ampliação do horário dos postos de saúde pode reduzir a procura pelos prontos-socorros.\"</p><details><summary>Ver a solução comentada</summary><p><b>Correta</b>: \"Estender o funcionamento dos postos de saúde talvez diminua a demanda nos prontos-socorros\" (mantém a <b>possibilidade</b>: \"pode\" → \"talvez\"). <b>Errada</b>: \"A ampliação do horário dos postos <b>reduzirá</b> a procura\" (transforma possibilidade em <b>certeza</b>). <b>Errada</b>: \"A procura pelos prontos-socorros <b>causa</b> a ampliação do horário\" (inverte <b>causa e efeito</b>). <b>Errada</b>: \"Somente a ampliação do horário reduz a procura\" (acrescenta <b>exclusividade</b>).</p></details></div>\n<h3>8. Referenciação: a quem se refere cada palavra</h3>\n<ul><li>Os textos retomam ideias com <b>pronomes</b> (ele, isso, o qual, cujo, este, aquele), <b>sinônimos</b>, expressões gerais (\"o fato\", \"a medida\", \"o problema\"), <b>numerais</b> e até com <b>elipse</b> (a palavra fica subentendida). Saber <b>a que</b> cada termo se refere é tema frequente: \"o pronome 'isso' (linha 5) retoma...\".</li><li><b>Anáfora</b>: retoma algo <b>já dito</b> (\"O delegado chegou. <b>Ele</b> ouviu as testemunhas\"). <b>Catáfora</b>: antecipa algo que <b>ainda será dito</b> (\"O problema é <b>este</b>: falta efetivo\").</li><li><b>Este x esse x aquele</b> (no texto): <b>este</b> costuma anunciar o que <b>vem</b> (catáfora) ou referir-se ao <b>mais próximo</b>; <b>esse</b> retoma o que <b>já foi dito</b>; <b>aquele</b> retoma o termo <b>mais distante</b>. Em \"Pedro e Ana chegaram; <b>esta</b> sorria, <b>aquele</b> estava sério\", <b>esta</b> = Ana (mais próxima), <b>aquele</b> = Pedro (mais distante).</li><li><b>Isso / isto</b> podem retomar <b>uma ideia inteira</b> (uma oração, um parágrafo), e não só uma palavra. A pegadinha é dizer que retoma apenas um substantivo.</li><li><b>Método</b>: substitua o pronome pelo termo candidato e veja se a frase <b>mantém o sentido</b> e a <b>concordância</b> (gênero e número).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Este\" sempre retoma o que já foi dito</span><br>✅ <span class=\"certo\">\"Este\" costuma <b>anunciar</b> o que vem ou indicar o mais <b>próximo</b>; quem retoma é \"esse\"</span></li><li>❌ <span class=\"banca\">\"Isso\" só pode retomar um substantivo</span><br>✅ <span class=\"certo\">Pode retomar <b>uma ideia inteira</b></span></li><li>❌ <span class=\"banca\">Em \"Pedro e Ana chegaram; esta sorria, aquele estava sério\", \"aquele\" refere-se a Ana</span><br>✅ <span class=\"certo\">\"Aquele\" = o <b>mais distante</b> (Pedro); \"esta\" = Ana</span></li></ol></div>\n<h3>9. Conectivos e relações de sentido</h3>\n<ul><li>Os <b>conectivos</b> (conjunções, preposições, locuções, advérbios de ligação) mostram a <b>relação lógica</b> entre as ideias. Trocá-los muda o sentido do texto, e as bancas exploram muito isso.</li></ul>\n<table class=\"tab\"><thead><tr><th>Relação</th><th>Conectivos típicos</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Adição</b></td><td>e, nem, além disso, também, não só... mas também</td><td>\"Treinou e passou\"</td></tr><tr><td><b>Oposição / adversidade</b></td><td>mas, porém, contudo, todavia, entretanto, no entanto</td><td>\"Estudou, <b>mas</b> não passou\"</td></tr><tr><td><b>Concessão</b></td><td>embora, ainda que, mesmo que, apesar de, conquanto, posto que</td><td>\"<b>Embora</b> tenha estudado, não passou\"</td></tr><tr><td><b>Causa</b></td><td>porque, pois (antes do verbo... ver nota), como (no início), já que, visto que, uma vez que</td><td>\"<b>Como</b> choveu, o jogo foi adiado\"</td></tr><tr><td><b>Consequência</b></td><td>tão... que, tanto que, de modo que, de forma que</td><td>\"Choveu <b>tanto que</b> alagou\"</td></tr><tr><td><b>Conclusão</b></td><td>logo, portanto, por isso, assim, então, pois (depois do verbo, entre vírgulas)</td><td>\"Estudou muito; <b>logo</b>, passou\"</td></tr><tr><td><b>Condição</b></td><td>se, caso, desde que, contanto que</td><td>\"<b>Caso</b> chova, adiaremos\"</td></tr><tr><td><b>Finalidade</b></td><td>para que, a fim de que, para</td><td>\"Estudou <b>para</b> passar\"</td></tr><tr><td><b>Tempo</b></td><td>quando, enquanto, assim que, logo que, depois que</td><td>\"<b>Assim que</b> chegou, começou\"</td></tr><tr><td><b>Comparação</b></td><td>como, tal qual, mais... (do) que</td><td>\"Corre <b>como</b> um atleta\"</td></tr><tr><td><b>Conformidade</b></td><td>conforme, segundo, consoante, como</td><td>\"<b>Conforme</b> previsto, o prazo acabou\"</td></tr><tr><td><b>Proporção</b></td><td>à medida que, à proporção que, quanto mais... mais</td><td>\"<b>À medida que</b> estudava, aprendia\"</td></tr></tbody></table>\n<ul><li><b>\"Pois\"</b>: é <b>explicativo/causal</b> quando vem <b>antes</b> do verbo, iniciando a oração (\"Saiu cedo, <b>pois</b> tinha prova\"); é <b>conclusivo</b> quando vem <b>depois</b> do verbo, entre vírgulas (\"Tinha prova; saiu, <b>pois</b>, cedo\").</li><li><b>\"Como\"</b> pode indicar <b>causa</b> (no início: \"<b>Como</b> estava doente, faltou\"), <b>comparação</b> (\"forte <b>como</b> um touro\") ou <b>conformidade</b> (\"<b>Como</b> combinamos, cheguei cedo\").</li><li><b>Substituição de conectivos</b>: só se troca um conectivo por outro da <b>mesma relação</b> (mas → porém; embora → ainda que), observando também o <b>modo verbal</b> (embora pede <b>subjuntivo</b>: \"Embora <b>esteja</b> cansado\"; \"apesar de\" pede <b>infinitivo</b> ou substantivo: \"Apesar de <b>estar</b> cansado\", \"apesar do cansaço\").</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Embora\" e \"mas\" são intercambiáveis sem nenhuma alteração</span><br>✅ <span class=\"certo\">Ambos opõem ideias, mas <b>embora</b> é <b>concessivo</b> e exige <b>subjuntivo</b> e reestruturação; \"mas\" é <b>adversativo</b></span></li><li>❌ <span class=\"banca\">\"Pois\" é sempre explicativo</span><br>✅ <span class=\"certo\">Depois do verbo, entre vírgulas, é <b>conclusivo</b></span></li><li>❌ <span class=\"banca\">\"Portanto\" indica causa</span><br>✅ <span class=\"certo\">Indica <b>conclusão</b></span></li></ol></div>\n<h3>10. Textos verbais e não verbais: charges, tirinhas e gráficos</h3>\n<ul><li><b>Charge</b>: desenho <b>crítico</b> e <b>humorístico</b> sobre fato <b>atual</b> (política, sociedade). Exige conhecer o contexto e perceber a <b>ironia</b> ou a <b>crítica</b>.</li><li><b>Cartum</b>: humor <b>atemporal</b>, sem ligação com fato específico.</li><li><b>Tirinha</b> (tira): sequência de quadrinhos; o humor costuma estar na <b>quebra de expectativa</b> do último quadro. Leia <b>todos os quadros</b> e a <b>relação</b> entre imagem e texto.</li><li><b>Infográficos, tabelas e gráficos</b>: leia <b>título, legenda, unidades, eixos, fonte e período</b>. A pegadinha mais comum é afirmar uma <b>tendência</b> ou uma <b>causa</b> que o gráfico <b>não mostra</b> (gráfico mostra <b>correlação</b>, não necessariamente <b>causa</b>) ou comparar dados de <b>períodos ou unidades</b> diferentes.</li><li><b>Linguagem não verbal</b>: expressões faciais, cores, tamanho das letras (grito), balões (fala, pensamento, cochicho) também <b>significam</b> e entram na interpretação.</li></ul>\n<h3>11. Ironia, humor e duplo sentido</h3>\n<ul><li><b>Ironia</b>: dizer o <b>contrário</b> do que se pensa, com intenção crítica ou humorística, percebida pelo <b>contexto</b> (\"Que beleza! O ônibus atrasou de novo\"). Muitas questões perguntam qual é o <b>sentido real</b> do trecho irônico.</li><li><b>Ambiguidade</b>: frase com <b>dois sentidos</b> possíveis. Pode ser <b>defeito</b> (em textos técnicos e oficiais, deve ser evitada: \"O policial abordou o suspeito em seu carro\": carro de quem?) ou <b>recurso expressivo</b> (em propagandas, piadas e títulos, é usada de propósito).</li><li><b>Humor</b>: frequentemente nasce da <b>ambiguidade</b>, da <b>quebra de expectativa</b>, do <b>exagero</b> ou da <b>ironia</b>. Identificar o <b>mecanismo</b> do humor é pedido comum em tirinhas.</li></ul>\n<h3>12. Título, estrutura e progressão do texto</h3>\n<ul><li><b>Título</b>: resume, antecipa ou provoca. Pode ser <b>ambíguo</b> ou <b>irônico</b> de propósito. Questões pedem o título <b>mais adequado</b> (aquele que abrange o <b>tema central</b>, sem reduzir a um detalhe nem extrapolar).</li><li><b>Estrutura do texto argumentativo</b>: <b>introdução</b> (apresenta o tema e, muitas vezes, a tese), <b>desenvolvimento</b> (argumentos, um por parágrafo, em regra) e <b>conclusão</b> (retoma a tese, sintetiza, propõe solução).</li><li><b>Progressão</b>: o texto avança acrescentando informação nova ao que já foi dito. Questões perguntam a <b>função</b> de um parágrafo (introduzir, exemplificar, contrapor, concluir) ou de um trecho entre parênteses ou travessões (explicar, exemplificar, acrescentar comentário).</li><li><b>Função dos sinais</b>: <b>dois-pontos</b> introduzem explicação, enumeração, citação ou conclusão; <b>parênteses e travessões duplos</b> isolam comentários ou explicações; <b>aspas</b> marcam citação, ironia ou destaque.</li></ul>\n<h3>13. Sentido das palavras no contexto</h3>\n<ul><li><b>Sentido denotativo</b>: o sentido <b>literal</b>, de dicionário (\"O <b>coração</b> bombeia o sangue\"). <b>Sentido conotativo</b>: o sentido <b>figurado</b>, que depende do contexto (\"Ele é o <b>coração</b> do time\").</li><li><b>Sinonímia contextual</b>: a questão pergunta qual palavra <b>substitui</b> outra <b>sem alterar o sentido</b> no texto. A resposta depende do <b>contexto</b>: \"<b>grave</b>\" pode ser <b>sério</b> (\"situação grave\"), <b>baixo</b> (\"som grave\") ou <b>acentuado</b> (\"acento grave\").</li><li><b>Polissemia</b>: uma palavra com <b>vários sentidos</b> relacionados (\"pé\" da mesa, \"pé\" de alface, \"pé\" humano). <b>Homonímia</b>: palavras <b>iguais na forma</b>, com sentidos <b>sem relação</b> (\"são\" de santo, de sadio e do verbo ser).</li><li><b>Parônimos</b>: palavras <b>parecidas</b> na forma, com sentidos diferentes (<b>descrição</b> x <b>discrição</b>; <b>eminente</b> x <b>iminente</b>; <b>ratificar</b> x <b>retificar</b>; <b>comprimento</b> x <b>cumprimento</b>; <b>infligir</b> x <b>infringir</b>; <b>mandado</b> x <b>mandato</b>). São cobrados também em ortografia e reescrita.</li></ul>\n<table class=\"tab\"><thead><tr><th>Par</th><th>Diferença</th></tr></thead><tbody><tr><td><b>Eminente / iminente</b></td><td>eminente = <b>ilustre</b>, elevado; iminente = <b>prestes a acontecer</b></td></tr><tr><td><b>Ratificar / retificar</b></td><td>ratificar = <b>confirmar</b>; retificar = <b>corrigir</b></td></tr><tr><td><b>Infligir / infringir</b></td><td>infligir = <b>aplicar</b> (pena, castigo); infringir = <b>violar</b> (lei, regra)</td></tr><tr><td><b>Mandado / mandato</b></td><td>mandado = <b>ordem</b> judicial (mandado de prisão); mandato = <b>período</b> de representação ou procuração (mandato do prefeito)</td></tr><tr><td><b>Descrição / discrição</b></td><td>descrição = <b>descrever</b>; discrição = <b>reserva</b>, ser discreto</td></tr><tr><td><b>Flagrante / fragrante</b></td><td>flagrante = <b>evidente</b>, no ato; fragrante = <b>perfumado</b></td></tr><tr><td><b>Deferir / diferir</b></td><td>deferir = <b>atender</b>, conceder; diferir = <b>adiar</b> ou ser diferente</td></tr><tr><td><b>Delatar / dilatar</b></td><td>delatar = <b>denunciar</b>; dilatar = <b>ampliar</b></td></tr><tr><td><b>Emigrar / imigrar</b></td><td>emigrar = <b>sair</b> do país; imigrar = <b>entrar</b> em país estrangeiro</td></tr><tr><td><b>Tráfego / tráfico</b></td><td>tráfego = <b>trânsito</b>; tráfico = <b>comércio ilegal</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O juiz ratificou a sentença para corrigir um erro</span><br>✅ <span class=\"certo\">Corrigir é <b>retificar</b>; ratificar é <b>confirmar</b></span></li><li>❌ <span class=\"banca\">A pena foi infringida ao réu</span><br>✅ <span class=\"certo\">Aplicar pena = <b>infligir</b>; infringir é <b>violar</b></span></li><li>❌ <span class=\"banca\">O mandato de prisão foi cumprido</span><br>✅ <span class=\"certo\">Ordem judicial = <b>mandado</b>; mandato é período de representação</span></li><li>❌ <span class=\"banca\">Perigo eminente</span><br>✅ <span class=\"certo\">Prestes a acontecer = <b>iminente</b></span></li></ol></div>\n<h3>14. Método prático para resolver questões de interpretação</h3>\n<ul><li><b>1) Leia o comando primeiro</b>: descubra se a questão pede <b>compreensão</b> (\"segundo o texto\"), <b>interpretação</b> (\"infere-se\"), <b>sentido de palavra</b>, <b>referência</b>, <b>função</b> de trecho ou a alternativa <b>incorreta</b> (atenção ao \"<b>exceto</b>\", \"<b>incorreta</b>\", \"<b>não</b>\").</li><li><b>2) Leia o texto inteiro</b> com atenção, identificando o <b>tema</b>, a <b>tese</b> (se houver) e a <b>ideia principal</b> de cada parágrafo. Em textos longos, sublinhe palavras-chave e conectivos.</li><li><b>3) Volte ao trecho</b> indicado e leia <b>antes e depois</b> dele (o contexto resolve a maioria das dúvidas).</li><li><b>4) Teste cada alternativa</b> contra o texto: procure <b>extrapolação</b>, <b>redução</b>, <b>contradição</b>, troca de quantificadores, de modalização, de tempo, de causa e consequência, de agente.</li><li><b>5) Elimine</b> as alternativas com erro claro e compare as que sobram: a correta é a <b>mais fiel</b> ao texto, não a mais \"bonita\" ou a mais completa sobre o assunto.</li><li><b>6) Desconfie</b> de alternativas que trazem <b>opinião do candidato</b> (frases que soam corretas moralmente mas não estão no texto) e de alternativas que <b>copiam</b> trechos do texto mudando <b>uma palavra</b>.</li></ul>\n<h3>15. Como a FGV e outras bancas cobram</h3>\n<ul><li>A <b>FGV</b> (banca de referência para a PCMG) costuma usar textos <b>jornalísticos e opinativos</b> atuais, com questões que exigem <b>inferência</b> fina, <b>paráfrase</b>, <b>sentido contextual</b> de palavras, <b>função</b> de conectivos e de trechos, <b>pressupostos</b> e análise de <b>argumentos</b> (\"o argumento utilizado no segundo parágrafo é de...\", \"o autor se vale de...\"). As alternativas costumam ser <b>longas</b> e muito <b>parecidas</b>, diferindo em um detalhe.</li><li><b>Cebraspe</b> (Certo/Errado): cobra <b>paráfrase</b> e <b>reescrita</b> (manutenção de sentido e correção), inferências e o <b>sentido</b> de trechos; um único detalhe torna o item errado.</li><li><b>Outras bancas</b> (Fumarc, Consulplan, Vunesp, IBFC): misturam compreensão direta, sentido de palavras e gramática aplicada ao texto.</li></ul>\n<h3>16. Casos práticos de leitura</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto e inferência</b><p>Texto: \"Desde que o bairro passou a contar com a ronda escolar, os pais relatam mais tranquilidade na saída dos alunos. A diretora, porém, lembra que a iluminação da praça ao lado continua precária.\"</p><details><summary>Ver a solução comentada</summary><p><b>Pode-se inferir</b>: a ronda escolar <b>é recente</b> (pressuposto de \"desde que passou a contar\"); a diretora considera que <b>ainda há problemas</b> de segurança (o \"porém\" contrapõe e o \"continua\" pressupõe que a iluminação já era precária). <b>Não se pode inferir</b>: que a violência <b>acabou</b> (extrapolação), que os pais <b>não confiam</b> na ronda (contradição) ou que a iluminação é responsabilidade da escola (extrapolação).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ponto de vista e outras vozes</b><p>Texto: \"Há quem diga que o videomonitoramento resolve sozinho a criminalidade urbana. A experiência de várias cidades, contudo, mostra que câmeras sem equipe para acompanhar as imagens pouco adiantam.\"</p><details><summary>Ver a solução comentada</summary><p>A ideia de que o videomonitoramento resolve <b>sozinho</b> o problema <b>não é do autor</b>: é atribuída a \"há quem diga\" e <b>refutada</b> pelo \"contudo\". O autor defende que as câmeras dependem de <b>equipe</b> para funcionar. Uma alternativa que diga \"o autor é contrário ao videomonitoramento\" <b>extrapola</b>: ele critica a ideia de que as câmeras <b>bastam sozinhas</b>, não as câmeras em si.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Palavra no contexto</b><p>Frase: \"O relatório apontou falhas graves na fiscalização, o que exige uma resposta imediata.\"</p><details><summary>Ver a solução comentada</summary><p><b>Graves</b> = <b>sérias</b>, <b>importantes</b> (não \"de som baixo\"). <b>Imediata</b> = <b>sem demora</b>. O pronome \"<b>o que</b>\" retoma <b>toda a ideia</b> anterior (o fato de o relatório ter apontado falhas), e não só a palavra \"fiscalização\".</p></details></div>\n<h3>17. Textos literários: narrador, eu lírico e linguagem figurada</h3>\n<ul><li>Algumas provas trazem <b>crônicas</b>, <b>contos</b> e <b>poemas</b>. A leitura exige atenção a elementos próprios:</li></ul>\n<table class=\"tab\"><thead><tr><th>Elemento</th><th>O que é</th><th>Como aparece na questão</th></tr></thead><tbody><tr><td><b>Narrador</b></td><td>quem <b>conta</b> a história (não é o autor real)</td><td>\"o narrador do texto...\"</td></tr><tr><td><b>Foco narrativo em 1ª pessoa</b></td><td>narrador <b>personagem</b> (participa da história: \"eu fui...\")</td><td>visão <b>limitada</b> ao que ele sabe e sente</td></tr><tr><td><b>Foco narrativo em 3ª pessoa</b></td><td>narrador <b>observador</b> (conta de fora) ou <b>onisciente</b> (conhece pensamentos e sentimentos das personagens)</td><td>\"o narrador conhece o que a personagem pensa\"</td></tr><tr><td><b>Eu lírico</b> (eu poético)</td><td>a <b>voz</b> que fala no poema; não se confunde com o poeta</td><td>\"o eu lírico expressa...\"</td></tr><tr><td><b>Crônica</b></td><td>texto curto, ligado ao <b>cotidiano</b>, com tom leve, humorístico ou reflexivo, publicado em jornal ou revista</td><td>\"o cronista parte de um fato banal para refletir...\"</td></tr><tr><td><b>Linguagem figurada</b></td><td>metáforas, comparações, personificações</td><td>\"a expressão X foi empregada em sentido figurado\"</td></tr></tbody></table>\n<ul><li><b>Cuidado</b>: na crônica e no poema, o sentido <b>figurado</b> é a regra. Uma questão que pede o sentido de \"O tempo é um rio\" não quer \"o tempo é feito de água\", e sim a ideia de <b>passagem contínua</b>, que não volta. As figuras de linguagem são aprofundadas no tópico de Semântica.</li><li><b>Personagens e falas</b>: no discurso <b>direto</b>, a fala é reproduzida com as palavras da personagem; no <b>indireto</b>, o narrador relata o que ela disse; no <b>indireto livre</b>, a fala ou o pensamento da personagem aparece misturado à narração, sem verbo de fala e sem aspas.</li></ul>\n<h3>18. Inferência na prática: o que pode e o que não pode</h3>\n<ul><li><b>Inferência válida</b> é a conclusão que <b>decorre</b> do texto com segurança ou com alta probabilidade, sem depender de suposições externas.</li><li><b>Exemplo 1</b>: \"O delegado só conseguiu ouvir a testemunha no terceiro dia, quando ela finalmente compareceu.\" <b>Pode-se inferir</b>: a testemunha <b>não compareceu</b> nos dois primeiros dias (pressuposto de \"só\" e \"finalmente\"); houve <b>demora</b> ou dificuldade. <b>Não se pode inferir</b>: que a testemunha <b>mentiu</b>, que estava <b>com medo</b> ou que o delegado foi <b>negligente</b> (todas são suposições).</li><li><b>Exemplo 2</b>: \"Com a nova lei, os motoristas flagrados pela segunda vez perderão a habilitação.\" <b>Pode-se inferir</b>: na primeira vez, a perda da habilitação <b>não</b> é automática pela regra mencionada (o texto fala em \"segunda vez\"); a lei é <b>nova</b>. <b>Não se pode inferir</b>: que a lei <b>reduzirá</b> os acidentes (efeito não afirmado) ou que antes não havia nenhuma punição (o texto não diz).</li><li><b>Exemplo 3</b>: \"Ao contrário do que se previa, a obra terminou no prazo.\" <b>Pode-se inferir</b>: havia <b>expectativa</b> de atraso. <b>Não se pode inferir</b>: que obras públicas <b>sempre</b> atrasam (generalização).</li><li><b>Teste rápido</b>: pergunte \"<b>o texto me obriga</b> a concluir isso?\" Se a resposta for \"não, mas é provável no mundo real\", a alternativa provavelmente <b>extrapola</b>.</li></ul>\n<h3>19. Função de trechos e de parágrafos</h3>\n<ul><li>Muitas questões não perguntam <b>o que</b> o texto diz, mas <b>para que</b> um trecho foi usado. Funções frequentes:</li></ul>\n<table class=\"tab\"><thead><tr><th>Função</th><th>Sinais típicos</th></tr></thead><tbody><tr><td><b>Introduzir o tema</b></td><td>primeiro parágrafo, apresentação do assunto, dados gerais</td></tr><tr><td><b>Apresentar a tese</b></td><td>frase opinativa central, muitas vezes no fim da introdução</td></tr><tr><td><b>Exemplificar</b></td><td>\"por exemplo\", \"como\", casos concretos, nomes de cidades, números</td></tr><tr><td><b>Explicar / esclarecer</b></td><td>\"isto é\", \"ou seja\", parênteses, dois-pontos</td></tr><tr><td><b>Ressalvar / contrapor</b></td><td>\"mas\", \"porém\", \"embora\", \"por outro lado\"</td></tr><tr><td><b>Retomar / resumir</b></td><td>\"em suma\", \"em síntese\", \"dessa forma\"</td></tr><tr><td><b>Concluir / propor</b></td><td>último parágrafo, \"portanto\", \"é preciso\", \"cabe ao poder público\"</td></tr><tr><td><b>Introduzir outra voz</b></td><td>\"segundo\", \"de acordo com\", \"para fulano\", aspas</td></tr><tr><td><b>Retificar</b></td><td>\"ou melhor\", \"aliás\", correção de algo dito antes</td></tr></tbody></table>\n<ul><li><b>Parênteses</b> e <b>travessões</b> costumam acrescentar <b>explicação</b>, <b>exemplo</b> ou <b>comentário</b> do autor; retirá-los, em geral, <b>não prejudica</b> a correção gramatical, mas pode tirar uma informação.</li><li><b>Pergunta retórica</b>: pergunta feita <b>sem esperar resposta</b>, para provocar reflexão ou reforçar a tese (\"Até quando vamos aceitar isso?\").</li></ul>\n<h3>20. Exercício comentado com texto completo</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto para análise</b><p>\"Em muitas cidades brasileiras, o policiamento comunitário deixou de ser uma promessa e passou a fazer parte da rotina. A ideia é simples: o mesmo grupo de policiais atua por longo tempo no mesmo bairro, conhece os moradores e é conhecido por eles. Os resultados, porém, dependem menos do nome do programa do que da continuidade. Quando os policiais são trocados a todo momento, a confiança construída se perde, e a população volta a enxergar a farda como algo distante. Há, ainda, quem veja no modelo apenas uma estratégia de imagem. Os números de algumas experiências bem conduzidas, no entanto, mostram queda de crimes e aumento das denúncias anônimas, sinal de que a comunidade passou a colaborar. O desafio, portanto, não é criar novos programas a cada gestão, mas manter os que funcionam.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tese</b>: o sucesso do policiamento comunitário depende da <b>continuidade</b>; o desafio é <b>manter</b> os programas que funcionam (último período, introduzido por \"portanto\"). <b>2) Pressuposto</b> de \"deixou de ser uma promessa\": antes, o policiamento comunitário <b>era apenas promessa</b>. <b>3) Função de \"A ideia é simples:\"</b>: anuncia uma <b>explicação</b> do conceito (os dois-pontos introduzem o esclarecimento). <b>4) \"Porém\"</b> (3º período): introduz <b>ressalva</b>: os resultados não vêm automaticamente. <b>5) \"Há, ainda, quem veja no modelo apenas uma estratégia de imagem\"</b>: é <b>outra voz</b>, que o autor <b>refuta</b> com o \"no entanto\" seguinte; atribuir essa visão ao autor é <b>erro</b>. <b>6) Argumento</b> do penúltimo período: <b>dados/provas concretas</b> (\"os números... mostram\"). <b>7) Inferência válida</b>: a troca constante de policiais <b>prejudica</b> a confiança da população. <b>8) Inferência inválida</b> (extrapolação): \"o policiamento comunitário reduz a criminalidade em <b>todas</b> as cidades onde é implantado\" (o texto fala em \"algumas experiências <b>bem conduzidas</b>\"). <b>9) Redução</b>: \"o texto trata <b>apenas</b> da queda dos crimes\" (ignora o tema central, a continuidade). <b>10) Sentido de \"farda\"</b>: metonímia para a <b>polícia/instituição</b> (a parte pelo todo), e não apenas a roupa.</p></details></div>\n<h3>21. Estratégia de prova e controle do tempo</h3>\n<ul><li><b>Textos longos</b>: faça uma primeira leitura <b>rápida</b> para captar tema e estrutura e, depois, leia com atenção os trechos indicados pelas questões. Marque <b>conectivos</b> e palavras <b>absolutas</b> e <b>modalizadoras</b>.</li><li><b>Ordem das questões</b>: comece pelas de <b>compreensão</b> e <b>sentido de palavras</b> (mais rápidas) e deixe as de inferência mais complexa para depois, voltando ao texto com calma.</li><li><b>Alternativas longas</b> (comuns na FGV): divida a alternativa em <b>partes</b> e verifique cada uma. Basta <b>um</b> pedaço errado para eliminá-la.</li><li><b>Questões \"exceto/incorreta\"</b>: marque o comando com destaque; muitos erros vêm de responder o contrário do que foi pedido.</li><li><b>Não brigue com o texto</b>: mesmo que você discorde da opinião do autor, a questão pede o que <b>o texto</b> diz ou permite concluir.</li><li><b>Treino</b>: a habilidade cresce com a <b>prática diária</b> de leitura (editoriais, artigos de opinião, reportagens) e de questões comentadas da banca. Ao errar, anote o <b>tipo de erro</b> (extrapolou? reduziu? confundiu voz?) para não repeti-lo.</li></ul>\n<h3>22. Segundo exercício comentado: texto expositivo</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto para análise</b><p>\"O número de golpes aplicados por mensagens de celular cresceu nos últimos anos. Em geral, o criminoso se apresenta como um parente ou um funcionário de banco e cria um senso de urgência: pede uma transferência imediata, alegando um problema grave. Especialistas recomendam desconfiar de qualquer pedido de dinheiro por mensagem, sobretudo quando acompanhado de pressa, e confirmar a história por outro canal, como uma ligação para o número já conhecido do parente. Nem sempre, porém, a vítima consegue pensar com calma, pois o golpista explora justamente o medo e o afeto.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tipo de texto</b>: predominantemente <b>expositivo/injuntivo</b>: informa sobre o golpe e traz <b>recomendações</b> (não defende uma tese polêmica). <b>2) \"Em geral\"</b>: <b>relativiza</b>; uma alternativa que diga que o criminoso \"<b>sempre</b> se apresenta como parente\" <b>extrapola</b> (o texto também cita funcionário de banco e usa \"em geral\"). <b>3) \"Sobretudo\"</b>: indica <b>destaque</b>, não exclusividade; \"a desconfiança só é necessária quando há pressa\" é <b>redução/contradição</b> (o texto manda desconfiar de <b>qualquer</b> pedido). <b>4) \"Como uma ligação...\"</b>: <b>exemplifica</b> o \"outro canal\". <b>5) \"Porém\"</b> no último período: <b>ressalva</b> à recomendação: nem sempre a vítima consegue segui-la. <b>6) \"Pois\"</b> (antes do verbo): <b>explicativo/causal</b>: explica por que a vítima não pensa com calma. <b>7) Inferência válida</b>: o <b>senso de urgência</b> é uma estratégia do golpista para reduzir a reflexão da vítima. <b>8) Inferência inválida</b>: \"os bancos são responsáveis pelos golpes\" (o texto não trata de responsabilidade); \"os golpes diminuirão com as recomendações\" (efeito não afirmado).</p></details></div>\n<h3>23. Terceiro exercício comentado: tirinha descrita</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Tirinha (descrição)</b><p>Quadro 1: um homem diz ao amigo: \"Comecei a correr todo dia para ter mais saúde.\" Quadro 2: o amigo pergunta: \"E como está indo?\" Quadro 3: o homem, deitado no sofá, comendo pizza e vendo televisão, responde: \"Ótimo! Já corro todo dia... atrás do entregador da pizzaria.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Mecanismo do humor</b>: <b>quebra de expectativa</b> e <b>ambiguidade</b> do verbo \"correr\": no início, \"correr\" sugere <b>exercício físico</b>; no fim, revela-se o sentido de <b>correr atrás</b> do entregador (para pegar a pizza). <b>2) Ironia/contradição</b> entre o objetivo (saúde) e o comportamento mostrado (sedentarismo e pizza). <b>3) Linguagem não verbal</b>: a <b>imagem</b> do último quadro (sofá, pizza, TV) é essencial para o humor e contradiz a fala inicial. <b>4) Inferência válida</b>: o personagem <b>não</b> pratica corrida como exercício. <b>5) Inferência inválida</b>: \"o personagem trabalha como entregador\" (contradição: ele corre <b>atrás</b> do entregador) ou \"a tirinha critica as pizzarias\" (extrapolação).</p></details></div>\n<h3>24. Interpretação de textos legais e de enunciados de outras matérias</h3>\n<ul><li>A habilidade de interpretação vale para <b>ler a lei</b>: muitas questões de Direito são, na verdade, questões de <b>leitura atenta</b> do texto legal, com as mesmas armadilhas: troca de \"<b>pode</b>\" por \"<b>deve</b>\", de \"<b>poderá</b>\" por \"<b>será</b>\", de \"<b>salvo</b>\" por \"<b>inclusive</b>\", de prazos e quantificadores (\"<b>até</b> 10 dias\" x \"<b>no mínimo</b> 10 dias\"; \"<b>e</b>\" x \"<b>ou</b>\").</li><li><b>Palavras que mudam tudo</b> em textos normativos: <b>salvo, exceto, ressalvado</b> (exceção); <b>inclusive, também</b> (inclusão); <b>somente, apenas, exclusivamente, privativamente</b> (exclusividade); <b>vedado, proibido</b> (proibição); <b>facultado, poderá</b> (faculdade); <b>deverá, será, é obrigatório</b> (obrigação); <b>até, no máximo, no mínimo, não inferior a, não superior a</b> (limites).</li><li><b>Exemplo</b>: \"O laudo será elaborado no prazo <b>máximo</b> de 10 dias, <b>podendo</b> ser prorrogado, em casos <b>excepcionais</b>, a requerimento dos peritos.\" Uma alternativa que diga \"o prazo de 10 dias é <b>improrrogável</b>\" contradiz o texto; outra que diga \"o prazo <b>será</b> prorrogado a pedido de <b>qualquer parte</b>\" troca a <b>faculdade</b> por <b>obrigação</b> e o <b>legitimado</b>.</li><li><b>Enunciados longos de Direito</b> (casos práticos): leia como um texto: identifique <b>quem</b> fez <b>o quê</b>, <b>quando</b>, <b>com que intenção</b>, e o que a questão <b>pergunta</b>. Muitos erros vêm de ignorar um dado do enunciado (a idade da vítima, o prazo, a relação entre as pessoas).</li></ul>\n<h3>25. Erros mais comuns dos candidatos (e como evitar)</h3>\n<ul><li><b>Responder com a própria opinião</b>: escolher a alternativa que parece \"mais justa\" ou \"mais correta\" no mundo, e não a que o texto autoriza. <b>Remédio</b>: para cada alternativa, apontar <b>onde</b> no texto está a base.</li><li><b>Ler só o trecho indicado</b>: muitas vezes o sentido depende da frase anterior ou seguinte. <b>Remédio</b>: ler <b>antes e depois</b>.</li><li><b>Ignorar conectivos e modalizadores</b>: deixar passar um \"porém\", um \"talvez\", um \"nem sempre\". <b>Remédio</b>: sublinhar conectivos e palavras de certeza.</li><li><b>Confundir a voz do autor com a de terceiros</b>: atribuir ao autor uma opinião que ele cita para criticar. <b>Remédio</b>: perguntar \"<b>quem</b> está dizendo isso no texto?\".</li><li><b>Não perceber o comando \"incorreta/exceto\"</b>: marcar a primeira alternativa verdadeira. <b>Remédio</b>: circular o comando antes de ler as alternativas.</li><li><b>Cansaço e pressa</b>: interpretação exige concentração; deixar para o fim da prova costuma prejudicar. <b>Remédio</b>: resolver os textos em um momento de boa atenção e controlar o tempo por bloco de questões.</li><li><b>Achar que toda alternativa bem escrita é correta</b>: as alternativas erradas costumam ser <b>bem redigidas</b> e parecidas com o texto. <b>Remédio</b>: comparar <b>palavra por palavra</b> os pontos sensíveis (quantificadores, tempo, causa, agente, modalização).</li></ul>\n<h3>26. Quarto exercício comentado: crônica</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Crônica (texto autoral)</b><p>\"Toda segunda-feira, seu Antônio abre a padaria antes das cinco. Diz que é para pegar o pão saindo do forno, mas a vizinhança sabe que é para conversar com os primeiros fregueses: o motorista do ônibus, a enfermeira do plantão, o vigia que volta para casa. Entre um café e outro, ele resolve, de graça, os problemas do bairro, e às vezes os do país. Na semana passada, a padaria não abriu. Ninguém sabia o que dizer. O motorista atrasou a saída, a enfermeira chegou ao hospital sem o pão de queijo, o vigia foi dormir sem ouvir que 'amanhã vai ser melhor'. Na terça, seu Antônio voltou, gripado, mas voltou. E o bairro, que nem sabia que precisava dele, respirou aliviado.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Gênero</b>: <b>crônica</b>: parte de um fato do <b>cotidiano</b> para refletir sobre as <b>relações humanas</b> e a importância de pequenos gestos. <b>2) Ironia leve</b> em \"resolve, de graça, os problemas do bairro, e às vezes os do país\": <b>humor</b> com exagero (hipérbole), mostrando o hábito de conversar e opinar. <b>3) Pressuposto</b> de \"Na terça, seu Antônio <b>voltou</b>\": ele <b>havia faltado</b> antes. <b>4) Inferência válida</b>: a ausência de seu Antônio <b>afetou a rotina</b> dos fregueses, mostrando que sua presença tinha <b>valor afetivo</b> para o bairro. <b>5) Inferência inválida</b>: \"seu Antônio fechou a padaria por falência\" (o texto indica <b>gripe</b>; extrapolação/contradição) ou \"o bairro não gostava de seu Antônio\" (contradição). <b>6) \"Mas a vizinhança sabe que é para conversar\"</b>: o \"mas\" opõe o <b>motivo declarado</b> (pão saindo do forno) ao <b>motivo real</b> percebido pela vizinhança (conversar). <b>7) Tese?</b> Crônica não defende tese como um artigo de opinião; ela <b>sugere uma reflexão</b> (o valor das pequenas presenças no cotidiano). <b>8) Narrador</b>: em <b>3ª pessoa</b>, observador, com tom afetuoso.</p></details></div>\n<h3>27. Quinto exercício comentado: leitura de gráfico</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Gráfico (descrição)</b><p>Título: \"Ocorrências de furto de celular no centro da cidade (por mês)\". Eixo horizontal: janeiro a junho. Eixo vertical: número de ocorrências. Valores: janeiro 120, fevereiro 135, março 90, abril 85, maio 80, junho 82. Nota de rodapé: \"Em março foi instalado o videomonitoramento na praça central.\" Fonte: Secretaria Municipal de Segurança.</p><details><summary>Ver a solução comentada</summary><p><b>1) Leitura correta</b>: houve <b>aumento</b> de janeiro para fevereiro, <b>queda</b> acentuada em março e <b>estabilidade</b> com pequenas variações de abril a junho (aumento leve em junho). <b>2) Inferência possível</b>: a queda <b>coincide</b> com a instalação do videomonitoramento. <b>3) Inferência indevida</b>: \"o videomonitoramento <b>causou</b> a queda dos furtos\" (o gráfico mostra <b>coincidência no tempo</b>, não prova a causa; outros fatores podem ter influído, como mais policiamento ou mudança de comércio). <b>4) Erro de leitura</b>: \"os furtos caíram <b>todos os meses</b> após março\" (em junho houve <b>leve aumento</b>: 80 → 82). <b>5) Erro de unidade/escopo</b>: \"os furtos caíram na <b>cidade inteira</b>\" (o gráfico trata do <b>centro</b>). <b>6) Atenção à fonte e ao período</b>: dados de <b>seis meses</b> não permitem afirmar tendência de <b>longo prazo</b>.</p></details></div>\n<h3>28. Sexto exercício comentado: artigo de opinião</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Artigo de opinião (texto autoral)</b><p>\"Proibir o celular nas salas de aula tornou-se bandeira de muitas escolas. A medida parece óbvia: sem a tela por perto, o aluno presta mais atenção. Ainda assim, convém evitar o entusiasmo fácil. O celular não é o único responsável pela distração, e aulas pouco interessantes continuarão pouco interessantes sem ele. Além disso, o aparelho pode ser ferramenta valiosa quando o professor o integra ao planejamento, como em pesquisas rápidas ou em exercícios interativos. Isso não significa liberar o uso sem regras; significa reconhecer que a proibição, sozinha, não resolve. Mais eficaz do que banir é ensinar os jovens a usar a tecnologia com propósito, algo de que precisarão para o resto da vida.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tese</b>: a <b>proibição isolada</b> do celular <b>não resolve</b> a distração; é mais eficaz <b>ensinar o uso com propósito</b> (últimos períodos). <b>2) \"A medida parece óbvia\"</b>: o verbo \"<b>parece</b>\" já sinaliza que o autor vai <b>relativizar</b> essa ideia; não é afirmação de concordância plena. <b>3) \"Ainda assim\"</b>: conectivo de <b>concessão/oposição</b>: mesmo reconhecendo o argumento da atenção, o autor pede cautela. <b>4) \"Além disso\"</b>: <b>adição</b> de novo argumento (o celular como ferramenta pedagógica). <b>5) \"Como em pesquisas rápidas...\"</b>: <b>exemplificação</b>. <b>6) \"Isso não significa...\"</b>: o \"isso\" retoma a <b>ideia anterior</b> (o uso pedagógico do aparelho) e o trecho <b>antecipa uma objeção</b> (a de que o autor defenderia liberar tudo), refutando-a: é <b>contra-argumentação</b>. <b>7) Inferência válida</b>: o autor <b>não é favorável</b> ao uso irrestrito do celular. <b>8) Inferência inválida</b> (contradição): \"o autor defende a liberação total do celular\". <b>9) Inferência inválida</b> (extrapolação): \"o autor considera que os professores são os culpados pela distração\" (ele menciona aulas pouco interessantes, mas não atribui culpa aos professores). <b>10) Redução</b>: \"o texto trata apenas dos benefícios do celular\" (ele também reconhece o argumento da atenção e a necessidade de regras).</p></details></div>\n<ul><li><b>Observação</b>: repare como os <b>conectivos</b> (\"ainda assim\", \"além disso\", \"isso não significa... significa\") organizam o raciocínio. Em textos argumentativos, <b>mapear os conectivos</b> é o caminho mais rápido para achar a <b>tese</b> e a <b>função</b> de cada parte.</li></ul>\n<h3>29. Sétimo exercício comentado: notícia</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Notícia (texto autoral)</b><p>\"A Prefeitura anunciou ontem que vai ampliar o horário de funcionamento de cinco unidades básicas de saúde, que passarão a atender até as 22 horas a partir do próximo mês. Segundo a secretária de Saúde, a medida busca reduzir a superlotação dos prontos-socorros, que recebem muitos casos sem urgência no período noturno. O sindicato dos servidores, por sua vez, afirma que não houve contratação de novos profissionais e teme sobrecarga das equipes atuais. A Prefeitura não informou o custo da mudança.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Gênero</b>: <b>notícia</b>: relata um fato com <b>vozes</b> de diferentes fontes, sem opinião explícita do jornalista. <b>2) Vozes</b>: a <b>secretária</b> (objetivo da medida) e o <b>sindicato</b> (crítica); a afirmação de que \"não houve contratação\" é do <b>sindicato</b>, não do jornal. <b>3) Inferência válida</b>: atualmente, essas unidades <b>não</b> funcionam até as 22 horas (pressuposto de \"<b>vai ampliar</b>\" e \"<b>passarão a</b> atender\"). <b>4) Inferência válida</b>: há <b>divergência</b> entre a Prefeitura e o sindicato quanto às condições de implantação. <b>5) Inferência inválida</b> (extrapolação): \"a medida <b>reduzirá</b> a superlotação\" (é o <b>objetivo</b> declarado pela secretária, não um resultado garantido). <b>6) Inferência inválida</b>: \"o jornal considera a medida inadequada\" (o texto não traz opinião do jornal; apenas registra a crítica do sindicato). <b>7) Último período</b>: \"A Prefeitura <b>não informou</b> o custo\" é dado factual, e não prova de que o custo seja alto; dizer isso seria extrapolar. <b>8) \"Por sua vez\"</b>: introduz a <b>outra parte</b>, marcando o contraponto entre as fontes.</p></details></div>\n<ul><li><b>Checklist final antes de marcar a resposta</b>: (1) Respondi exatamente ao <b>comando</b> (correta, incorreta, infere-se, segundo o texto)? (2) A alternativa escolhida tem <b>base</b> em um trecho que consigo apontar? (3) Ela mantém os <b>quantificadores</b> (alguns, muitos, todos), a <b>modalização</b> (pode, deve, talvez) e o <b>tempo</b> verbal do texto? (4) Ela atribui as ideias à <b>voz certa</b> (autor ou terceiros)? (5) Ela respeita a <b>relação lógica</b> (causa, consequência, oposição, concessão) estabelecida pelos conectivos? (6) Não estou trazendo <b>conhecimento de fora</b> que o texto não autoriza? Se as seis respostas forem \"sim\", a chance de acerto é muito alta. Repetir esse checklist em cada questão, durante os treinos, faz com que ele se torne automático no dia da prova, e é nesse momento que a interpretação deixa de depender do \"feeling\" e passa a ser um procedimento seguro.</li><li><b>Como treinar em casa (rotina sugerida)</b>: escolha diariamente <b>um texto opinativo</b> (editorial ou artigo) e <b>uma notícia</b>. No texto opinativo, sublinhe a <b>tese</b>, numere os <b>argumentos</b> e circule os <b>conectivos</b>; depois, escreva em duas linhas o que o autor defende. Na notícia, separe <b>fato</b>, <b>falas</b> e <b>dados</b>. Em seguida, resolva de 10 a 15 questões da banca do seu concurso e, para cada erro, anote a <b>causa</b> (extrapolação, redução, contradição, voz trocada, conectivo, comando). Em poucas semanas, os erros se repetem cada vez menos, porque você passa a reconhecer os padrões das alternativas erradas. Esse treino também melhora a sua <b>escrita</b> (redação e peças discursivas), porque quem identifica bem a estrutura dos textos dos outros aprende a organizar melhor os próprios.</li><li><b>Lembrete sobre o vocabulário</b>: muitas questões de interpretação dependem de conhecer o <b>sentido de palavras</b> menos usadas no dia a dia (exíguo = escasso; profícuo = proveitoso; inócuo = sem efeito; ínfimo = mínimo; precípuo = principal; óbice = obstáculo; dirimir = resolver uma dúvida; coibir = reprimir). Ler textos variados e consultar o dicionário quando aparecer palavra desconhecida amplia o vocabulário e evita erros por desconhecimento de um único termo-chave.</li><li><b>Lição da notícia</b>: em textos jornalísticos, separe sempre <b>o fato</b> (o que aconteceu), <b>as falas</b> (quem disse o quê) e <b>as conclusões</b> que a questão propõe. A maioria das alternativas erradas mistura esses três planos.</li></ul>\n<h3>30. Treino rápido de pegadinhas de leitura</h3>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quando o texto diz \"pode reduzir\", a alternativa \"reduz\" mantém o sentido</span><br>✅ <span class=\"certo\">Transforma <b>possibilidade</b> em <b>certeza</b></span></li><li>❌ <span class=\"banca\">Quando o texto diz \"alguns especialistas\", a alternativa \"os especialistas\" mantém o sentido</span><br>✅ <span class=\"certo\">Generaliza: é <b>extrapolação</b></span></li><li>❌ <span class=\"banca\">Se o texto critica uma opinião, a alternativa pode atribuir essa opinião ao autor</span><br>✅ <span class=\"certo\">O autor <b>refuta</b> a opinião; atribuí-la a ele é erro</span></li><li>❌ <span class=\"banca\">Coincidência no tempo, em um gráfico, prova causa</span><br>✅ <span class=\"certo\">Mostra <b>correlação</b>; causa exige outros elementos</span></li><li>❌ <span class=\"banca\">Crônica sempre defende uma tese explícita</span><br>✅ <span class=\"certo\">A crônica costuma sugerir <b>reflexão</b> a partir do cotidiano, sem tese formal</span></li><li>❌ <span class=\"banca\">\"Nem sempre\" equivale a \"nunca\"</span><br>✅ <span class=\"certo\">\"Nem sempre\" = <b>às vezes não</b>; \"nunca\" é absoluto</span></li></ol></div>\n<ul><li><b>Fechamento</b>: interpretar bem é <b>comparar com rigor</b> o que está escrito com o que a alternativa afirma. Com o método deste tópico (comando, leitura completa, contexto, teste de cada alternativa, eliminação) e treino constante, a interpretação deixa de ser \"sorte\" e passa a ser <b>técnica</b>.</li></ul>\n<h3>31. Glossário e mapa de revisão</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Compreensão</b></td><td>entender o que o texto diz explicitamente</td></tr><tr><td><b>Interpretação</b></td><td>concluir o que o texto permite deduzir</td></tr><tr><td><b>Extrapolação</b></td><td>ir além do texto</td></tr><tr><td><b>Redução</b></td><td>ficar aquém do texto, tomar a parte pelo todo</td></tr><tr><td><b>Contradição</b></td><td>afirmar o contrário do texto</td></tr><tr><td><b>Pressuposto</b></td><td>informação implícita marcada na frase, que não pode ser negada</td></tr><tr><td><b>Subentendido</b></td><td>insinuação que depende do contexto e pode ser negada</td></tr><tr><td><b>Tese</b></td><td>posição defendida pelo autor</td></tr><tr><td><b>Tópico frasal</b></td><td>frase que apresenta a ideia principal do parágrafo</td></tr><tr><td><b>Concessão</b></td><td>reconhecer a objeção para reforçar a própria tese</td></tr><tr><td><b>Paráfrase</b></td><td>reescrita que mantém o sentido</td></tr><tr><td><b>Anáfora / catáfora</b></td><td>retoma o já dito / antecipa o que virá</td></tr><tr><td><b>Modalizador</b></td><td>palavra que mostra certeza ou avaliação do autor</td></tr><tr><td><b>Denotação / conotação</b></td><td>sentido literal / figurado</td></tr><tr><td><b>Polissemia</b></td><td>vários sentidos relacionados</td></tr><tr><td><b>Parônimos</b></td><td>palavras parecidas com sentidos diferentes</td></tr><tr><td><b>Charge / cartum</b></td><td>humor crítico atual / atemporal</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Segundo o texto\" pede</span></span><span class=\"vs\"><span>compreensão (o que está dito)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Infere-se\" pede</span></span><span class=\"vs\"><span>interpretação (conclusão autorizada)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Extrapolação</span></span><span class=\"vs\"><span>ir além do texto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Redução</span></span><span class=\"vs\"><span>restringir, tomar a parte pelo todo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Contradição</span></span><span class=\"vs\"><span>dizer o contrário do texto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pressuposto</span></span><span class=\"vs\"><span>marcado na frase; não pode ser negado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Subentendido</span></span><span class=\"vs\"><span>depende do contexto; pode ser negado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Parou de fumar\" pressupõe</span></span><span class=\"vs\"><span>que fumava</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tese</span></span><span class=\"vs\"><span>o que o autor defende</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Argumento de autoridade</span></span><span class=\"vs\"><span>cita especialista ou instituição</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Concessão</span></span><span class=\"vs\"><span>embora, ainda que, apesar de</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Pois\" antes do verbo</span></span><span class=\"vs\"><span>explicativo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Pois\" depois do verbo, entre vírgulas</span></span><span class=\"vs\"><span>conclusivo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Este x esse</span></span><span class=\"vs\"><span>este anuncia/próximo; esse retoma</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ratificar x retificar</span></span><span class=\"vs\"><span>confirmar x corrigir</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infligir x infringir</span></span><span class=\"vs\"><span>aplicar x violar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mandado x mandato</span></span><span class=\"vs\"><span>ordem x período de representação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gráfico mostra</span></span><span class=\"vs\"><span>correlação, não necessariamente causa</span></span></button></div></div>",
