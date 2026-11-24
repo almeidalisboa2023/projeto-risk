@@ -26,14 +26,27 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Outfit:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="preload" as="image" href="img/logo-3d-bulbo.webp">
   <link rel="stylesheet" href="css/app.css">
   <script>try{var t=localStorage.getItem('risk-tema');if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+  <div id="intro" aria-hidden="true">
+    <canvas id="introFx"></canvas>
+    <div class="logo3d nascer"><div class="l3-palco"><i class="l3-anel a1"></i><i class="l3-anel a2"></i><i class="l3-anel a3"></i><i class="l3-halo"></i><img class="l3-bulbo" src="img/logo-3d-bulbo.webp" alt=""><img class="l3-texto" src="img/logo-3d-texto.webp" alt=""><i class="l3-brilho"></i></div></div>
+  </div>
+  <script>
+  (function(){var el=document.getElementById('intro'),calmo=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var cv=document.getElementById('introFx');if(cv&&!calmo){var c=cv.getContext('2d'),d=Math.min(2,devicePixelRatio||1),w=innerWidth,h=innerHeight;cv.width=w*d;cv.height=h*d;c.scale(d,d);
+  var ps=[];for(var i=0;i<90;i++){var a=Math.random()*6.283,r=Math.max(w,h)*(.45+Math.random()*.4);ps.push({a:a,r:r,v:.018+Math.random()*.02,s:.6+Math.random()*1.8});}
+  var t0=performance.now();(function f(t){if(!el.isConnected)return;var k=Math.min(1,(t-t0)/1500);c.clearRect(0,0,w,h);
+  for(var j=0;j<ps.length;j++){var p=ps[j];var rr=p.r*(1-k*k);var x=w/2+Math.cos(p.a+k*1.6)*rr,y=h/2+Math.sin(p.a+k*1.6)*rr;c.beginPath();c.arc(x,y,p.s,0,6.283);c.fillStyle='rgba(233,196,106,'+(0.25+0.75*k*(1-k)*3)+')';c.shadowColor='#e9c46a';c.shadowBlur=10;c.fill();}
+  requestAnimationFrame(f);})(t0);}
+  setTimeout(function(){el.classList.add('sai');setTimeout(function(){el.remove();},700);},calmo?300:2500);})();
+  </script>
   <div id="app">
     <main class="login"><div class="card" style="text-align:center">
-      <img src="img/logo-claro.webp" alt="PROJETO R.I.S.K." style="max-width:260px;width:100%">
-      <h1 style="font-size:1.4rem">PROJETO R.I.S.K. — Organizador de estudos</h1>
+      <h1 style="font-size:1.3rem;margin-top:8px">PROJETO R.I.S.K. — Organizador de estudos</h1>
       <p class="muted">Plano de estudos semanal, edital verticalizado, revisões espaçadas, horas de estudo e desempenho por matéria para quem se prepara para concursos públicos.</p>
       <div class="loading" style="justify-content:center"><span class="spin"></span>Carregando…</div>
       <p style="font-size:13px"><a href="termos.html">Termos de Uso</a> · <a href="privacidade.html">Política de Privacidade</a></p>

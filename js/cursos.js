@@ -26,10 +26,10 @@ const m = (id, assuntos = null, obs = '') => ({ id, assuntos, obs });
 export const CURSOS = [
   {
     id: 'prf', tema: 'rodoviario', nome: 'PRF · Policial Rodoviário Federal', curto: 'PRF', banca: 'cebraspe',
-    edital: 'Baseado no último edital (PRF 2021, Cebraspe). Prova objetiva de Certo/Errado + discursiva.',
+    edital: 'Baseado no último edital (PRF 2021, Cebraspe), já com a matéria PRF Multimodal (ferrovias, hidrovias e Amazônia) da PEC da Segurança Pública aprovada em 2026. Prova objetiva de Certo/Errado + discursiva.',
     materias: [
       m('portugues'), m('rlm'), m('informatica'), m('fisica'), m('etica-cidadania'), m('geopolitica'), m('lingua-estrangeira'),
-      m('transito'), m('resolucoes-ctb'),
+      m('transito'), m('resolucoes-ctb'), m('prf-multimodal'),
       m('administrativo'), m('constitucional'), m('penal'), m('processo-penal'), m('extravagante'), m('direitos-humanos'),
       m('redacao'),
     ],
