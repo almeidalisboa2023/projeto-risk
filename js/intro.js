@@ -38,4 +38,4 @@ export function inclinar(card) {
 
 // Logo em camadas (lâmpada + nome) que "nasce" em 3D
 export const logo3D = (extra = '') => `<div class="logo3d ${extra}" aria-label="PROJETO R.I.S.K."><div class="l3-palco">
-  <i class="l3-halo"></i><img class="l3-bulbo" src="img/logo-3d-bulbo.webp" alt=""><img class="l3-texto" src="img/logo-3d-texto.webp" alt="PROJETO R.I.S.K."><i class="l3-brilho"></i></div></div>`;
+  <i class="l3-anel pulso"></i><i class="l3-anel pulso b"></i><i class="l3-halo"></i><img class="l3-bulbo" src="img/logo-3d-bulbo.webp" alt=""><img class="l3-texto" src="img/logo-3d-texto.webp" alt="PROJETO R.I.S.K."><i class="l3-brilho"></i></div></div>`;

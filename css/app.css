@@ -1100,6 +1100,8 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
 /* ===== Abertura: a logo "nasce" em 3D ===== */
 #intro { position: fixed; inset: 0; z-index: 9999; display: grid; place-items: center; background: radial-gradient(ellipse at 50% 45%, #1a1f33 0%, #07090f 55%, #020305 100%); transition: opacity .7s ease, transform .7s ease; }
 #intro.sai { opacity: 0; transform: scale(1.06); pointer-events: none; }
+#intro { animation: introSai .6s ease 2.6s forwards; }
+@keyframes introSai { to { opacity: 0; visibility: hidden; pointer-events: none; } }
 #introFx { position: absolute; inset: 0; width: 100%; height: 100%; }
 .logo3d { perspective: 900px; display: grid; place-items: center; }
 .l3-palco { position: relative; width: min(300px, 70vw); transform-style: preserve-3d; }
@@ -1110,13 +1112,13 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
   -webkit-mask: url(../img/logo-3d.webp) center / 100% 100% no-repeat; mask: url(../img/logo-3d.webp) center / 100% 100% no-repeat; }
 .l3-anel { position: absolute; left: 50%; top: 34%; width: 40%; aspect-ratio: 1; border-radius: 50%; border: 2px solid rgba(233,196,106,.7); transform: translate(-50%, -50%) scale(.2); opacity: 0; box-shadow: 0 0 24px rgba(233,196,106,.5); }
 /* sequência do nascimento */
-.nascer .l3-bulbo { animation: l3bulbo 1.5s cubic-bezier(.16,1,.3,1) .15s both; }
-.nascer .l3-texto { animation: l3texto 1.1s cubic-bezier(.16,1,.3,1) .9s both; }
+.nascer .l3-bulbo { animation: l3bulbo 1.2s cubic-bezier(.16,1,.3,1) .1s both; }
+.nascer .l3-texto { animation: l3texto .9s cubic-bezier(.16,1,.3,1) .7s both; }
 .nascer .l3-halo { animation: l3halo 2.2s ease-out .4s both; }
-.nascer .l3-brilho { animation: l3brilho 1.2s ease-in-out 1.35s both; }
-.nascer .l3-anel.a1 { animation: l3anel 1.6s ease-out .55s both; }
-.nascer .l3-anel.a2 { animation: l3anel 1.6s ease-out .8s both; }
-.nascer .l3-anel.a3 { animation: l3anel 1.6s ease-out 1.05s both; }
+.nascer .l3-brilho { animation: l3brilho 1s ease-in-out 1.1s both; }
+.nascer .l3-anel.a1 { animation: l3anel 1.4s ease-out .4s both; }
+.nascer .l3-anel.a2 { animation: l3anel 1.4s ease-out .6s both; }
+.nascer .l3-anel.a3 { animation: l3anel 1.4s ease-out .8s both; }
 @keyframes l3bulbo { 0% { opacity: 0; transform: translateZ(-700px) rotateX(65deg) rotateY(-35deg) scale(.4); filter: blur(14px) brightness(2.2); }
   60% { opacity: 1; filter: blur(0) brightness(1.4); } 100% { opacity: 1; transform: none; } }
 @keyframes l3texto { 0% { opacity: 0; transform: translateY(40px) rotateX(-80deg); } 100% { opacity: 1; transform: none; } }
@@ -1128,8 +1130,8 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
 .logo3d.vivo .l3-brilho { animation: l3brilho 1.2s ease-in-out 1.4s both, l3brilhoLoop 6s ease-in-out 4s infinite; }
 @keyframes l3flutua { 0%, 100% { transform: translateY(0) rotateY(0) rotateX(0); } 25% { transform: translateY(-6px) rotateY(10deg) rotateX(3deg); } 50% { transform: translateY(-2px) rotateY(0) rotateX(-2deg); } 75% { transform: translateY(-7px) rotateY(-10deg) rotateX(3deg); } }
 @keyframes l3brilhoLoop { 0%, 70% { background-position: 150% 0; } 100% { background-position: -60% 0; } }
-:root:not([data-theme="dark"]) .login .l3-texto { filter: invert(1) hue-rotate(180deg) saturate(1.4) brightness(.95); }
-:root:not([data-theme="dark"]) .login .l3-halo { background: radial-gradient(circle, rgba(168,119,26,.35) 0%, rgba(168,119,26,.08) 45%, transparent 70%); }
+:root:not([data-theme="dark"]) .login:not(.cinema) .l3-texto { filter: invert(1) hue-rotate(180deg) saturate(1.4) brightness(.95); }
+:root:not([data-theme="dark"]) .login:not(.cinema) .l3-halo { background: radial-gradient(circle, rgba(168,119,26,.35) 0%, rgba(168,119,26,.08) 45%, transparent 70%); }
 
 /* ===== Tela de entrada imersiva ===== */
 .login { position: relative; overflow: hidden; isolation: isolate; perspective: 1200px; }
@@ -1157,3 +1159,25 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
 .login .l3-palco { width: min(230px, 62vw); }
 .login .login-frase { animation: l3texto .9s cubic-bezier(.16,1,.3,1) 1.1s both; }
 @media (prefers-reduced-motion: reduce) { #intro, .nascer *, .logo3d.vivo *, .login::before, .login .card.vidro, .login .login-frase { animation: none !important; } }
+
+/* ===== Tela de entrada no mesmo padrão da abertura (escura, dourada), nos dois modos ===== */
+.login.cinema { --bg: #05070c; --card: #161b2b; --hero: #1a2032; --borda: rgba(233,196,106,.18); --txt: #F2EDE3; --txt2: #A9A49A; --pill: rgba(255,255,255,.07); --pill-txt: #D8D2C6;
+  --ouro: #D9A93F; --ouro2: #E9C46A; --btn: #F2EDE3; --btn-txt: #111; color: var(--txt); background: radial-gradient(ellipse at 50% 40%, #1a1f33 0%, #07090f 60%, #020305 100%); }
+.login.cinema::before { background:
+  radial-gradient(40% 35% at 20% 25%, rgba(233,196,106,.16), transparent 70%),
+  radial-gradient(35% 30% at 80% 75%, rgba(59,130,255,.12), transparent 70%),
+  radial-gradient(ellipse at 50% 40%, #1a1f33, #05070c 70%) !important; }
+.login.cinema .card.vidro { background: rgba(14,17,27,.66) !important; border-color: rgba(233,196,106,.35); box-shadow: 0 30px 90px rgba(0,0,0,.6), 0 0 80px rgba(233,196,106,.10), inset 0 1px 0 rgba(255,255,255,.05); color: var(--txt); }
+.login.cinema input { background: rgba(255,255,255,.05) !important; border-color: rgba(255,255,255,.12); color: var(--txt); }
+.login.cinema input:focus { outline: none; border-color: var(--ouro2); box-shadow: 0 0 0 3px rgba(233,196,106,.18); }
+.login.cinema .btn.sec { background: rgba(255,255,255,.05); color: var(--txt); border-color: rgba(255,255,255,.14); }
+.login.cinema .btn-google { background: #fff; color: #1f1f1f; border-color: #fff; }
+.login.cinema .linkbtn, .login.cinema .muted, .login.cinema label { color: var(--txt2); }
+.login.cinema .ou span { background: transparent; }
+.login.cinema .login-frase { color: var(--txt); }
+.login.cinema .logo3d .l3-palco { animation: l3entra .8s cubic-bezier(.16,1,.3,1) both, l3flutua 7s ease-in-out .8s infinite; }
+.login.cinema .l3-anel.pulso { animation: l3pulso 3.2s ease-out infinite; }
+.login.cinema .l3-anel.pulso.b { animation-delay: 1.6s; }
+@keyframes l3entra { from { opacity: 0; transform: translateY(14px) scale(.92); filter: blur(6px); } to { opacity: 1; transform: none; filter: none; } }
+@keyframes l3pulso { 0% { opacity: 0; transform: translate(-50%, -50%) scale(.6); } 20% { opacity: .7; } 100% { opacity: 0; transform: translate(-50%, -50%) scale(2.4); } }
+.login.cinema .card.vidro { animation-delay: .1s; }
