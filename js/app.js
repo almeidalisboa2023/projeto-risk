@@ -3,10 +3,11 @@ import { S, carregarTudo, trocarEdital, isAdmin, visaoAluno } from './state.js';
 import { esc } from './util.js';
 import { toast, loading } from './ui.js';
 import { flutuante } from './crono.js';
-import { CURSOS, cursoInfo, entrarVisao, sairVisao, BANCAS } from './cursos.js';
+import { CURSOS, cursoInfo, entrarVisao, sairVisao, BANCAS, meuCurso } from './cursos.js';
 import { situacao, acessoVencido, fmtData, diasRestantes, AVISO_DIAS } from './acesso.js';
 import { TERMOS_VERSAO } from './privacidade.js';
 import { rodapeLegal } from './fornecedor.js';
+import { temaAtual } from './temas.js';
 
 const PAGINAS = {
   painel: ['Painel', '⌂', () => import('./pages/painel.js')],
@@ -96,7 +97,22 @@ function layout(atual) {
   </div>`;
 }
 
+// Identidade visual do curso: fundo temático (PRF, tribunal, procurador, bombeiro, polícia…)
+const FUNDOS = { rodoviario: 'rodoviario', juridico: 'juridico', bombeiro: 'bombeiro', civil: 'civil', pm: 'civil', federal: 'civil', gm: 'civil' };
+function identidade() {
+  const h = document.documentElement;
+  let t = 'padrao'; try { t = temaAtual() || 'padrao'; } catch {}
+  let f = FUNDOS[t] || 'padrao';
+  const cargo = [S.edital?.cargo, S.edital?.concurso].filter(Boolean).join(' ');
+  if (t === 'juridico' && /procurad|advoga/i.test(cargo + ' ' + (meuCurso()?.nome || ''))) f = 'procurador';
+  h.dataset.curso = t; h.dataset.fundo = f;
+  // Quem tem curso e nunca escolheu claro/escuro começa no modo imersivo (escuro)
+  let salvo = null; try { salvo = localStorage.getItem('risk-tema'); } catch {}
+  if (!salvo && t !== 'padrao') h.dataset.theme = 'dark';
+}
+
 async function rota() {
+  identidade();
   const [nome, query] = (location.hash.replace(/^#\/?/, '') || 'painel').split('?');
   const k = PAGINAS[nome] && (nome !== 'admin' || isAdmin()) ? nome : 'painel';
   document.querySelectorAll('.modal-bg').forEach((m) => m.remove()); // trocar de página fecha janelas abertas

@@ -1022,3 +1022,57 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
   .lt-indice::-webkit-scrollbar-thumb { background: color-mix(in srgb, var(--c, var(--ouro)) 55%, transparent); border-radius: 8px; }
   .lt-indice::-webkit-scrollbar-track { background: transparent; }
 }
+
+/* ===== Identidade visual imersiva por curso (modo escuro) ===== */
+:root[data-curso="rodoviario"] { --acc: #F2C230; --acc2: #3B82FF; }
+:root[data-curso="juridico"] { --acc: #E9C46A; --acc2: #8FA8D8; }
+:root[data-curso="bombeiro"] { --acc: #FF4D2E; --acc2: #FFB347; }
+:root[data-curso="civil"], :root[data-curso="federal"] { --acc: #E9C46A; --acc2: #2F6BFF; }
+:root[data-curso="pm"], :root[data-curso="gm"] { --acc: #E9C46A; --acc2: #4C7BD9; }
+:root[data-fundo="rodoviario"] { --fundo: url(../img/temas/rodoviario.svg); }
+:root[data-fundo="juridico"] { --fundo: url(../img/temas/juridico.svg); }
+:root[data-fundo="procurador"] { --fundo: url(../img/temas/procurador.svg); }
+:root[data-fundo="bombeiro"] { --fundo: url(../img/temas/bombeiro.svg); }
+:root[data-fundo="civil"] { --fundo: url(../img/temas/civil.svg); }
+:root[data-fundo="padrao"] { --fundo: url(../img/temas/padrao.svg); }
+:root[data-theme="dark"][data-fundo] {
+  --bg: #05070C; --card: rgba(12,16,26,.62); --hero: rgba(12,16,26,.5); --borda: rgba(255,255,255,.09);
+  --menu: rgba(6,8,14,.72); --menu-ativo: rgba(255,255,255,.07); --pill: rgba(255,255,255,.07);
+  --ouro: var(--acc, #D9A93F); --ouro2: var(--acc, #D9A93F); --flip: rgba(0,0,0,.55);
+  --sombra: 0 10px 30px rgba(0,0,0,.35);
+}
+:root[data-theme="dark"][data-fundo] { background: #05070C; } :root[data-theme="dark"][data-fundo] body { background: transparent; }
+:root[data-theme="dark"][data-fundo] body::before { content: ''; position: fixed; inset: 0; z-index: -1; background: linear-gradient(90deg, rgba(5,7,12,.55), rgba(5,7,12,.1) 60%), var(--fundo) right center / cover no-repeat; }
+:root[data-theme="dark"][data-fundo] .card, :root[data-theme="dark"][data-fundo] .hero, :root[data-theme="dark"][data-fundo] .side { -webkit-backdrop-filter: blur(14px) saturate(1.2); backdrop-filter: blur(14px) saturate(1.2); }
+:root[data-theme="dark"][data-fundo] .side { border: 1px solid rgba(255,255,255,.07); }
+:root[data-theme="dark"][data-fundo] .side .rodape { background: transparent; border-top-color: rgba(255,255,255,.08); }
+:root[data-theme="dark"][data-fundo] .side a.item.ativo { background: color-mix(in srgb, var(--acc, #D9A93F) 16%, transparent); color: var(--acc, #D9A93F); box-shadow: inset 3px 0 0 var(--acc, #D9A93F); }
+:root[data-theme="dark"][data-fundo] .side select { background: rgba(255,255,255,.06); border-color: rgba(255,255,255,.12); }
+:root[data-theme="dark"][data-fundo] .btn:not(.sec):not(.verde):not(.vermelho) { background: var(--acc, #F2EDE3); border-color: var(--acc, #F2EDE3); color: #0b0b0b; }
+:root[data-theme="dark"][data-fundo] .btn.sec { background: rgba(255,255,255,.05); }
+:root[data-theme="dark"][data-fundo] .hero { border: 1px solid var(--borda); }
+.side .logo-img img { max-width: 100%; height: auto; display: block; margin: 0 auto 14px; }
+
+/* cartões de números com ícone e mini gráficos */
+.stat .st-h { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+.stat .ic { width: 30px; height: 30px; border-radius: 9px; display: inline-grid; place-items: center; font-size: 15px; background: color-mix(in srgb, var(--ouro2) 16%, transparent); flex-shrink: 0; }
+.stat .st-ring { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.stat svg.anel { width: 52px; height: 52px; color: var(--txt); flex-shrink: 0; }
+.stat svg.mini { width: 70px; height: 40px; flex-shrink: 0; }
+.stat .bar { margin: 4px 0 6px; }
+
+/* calendário do cronômetro em cartões de vidro */
+.cs-dia { position: relative; background: rgba(127,127,127,.06); border-radius: 14px; }
+.cs-dia.melhor { border-color: var(--ouro2); background: color-mix(in srgb, var(--ouro2) 14%, transparent); }
+.cs-dia.melhor .cs-barra > div { background: var(--ouro2); box-shadow: 0 0 12px var(--ouro2); }
+.cs-ok { position: absolute; top: 6px; right: 6px; width: 18px; height: 18px; border-radius: 50%; background: var(--ouro2); color: #111; font: 700 11px/18px var(--sans); font-style: normal; text-align: center; }
+.cs-abrir { border-color: var(--ouro2) !important; color: var(--ouro2) !important; background: transparent !important; }
+
+/* faixa do curso no fim do painel */
+.faixa-curso { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-top: 16px; padding: 22px 24px; border-radius: 20px; text-decoration: none; color: var(--txt);
+  background: linear-gradient(90deg, color-mix(in srgb, var(--ouro2) 22%, var(--card)), var(--card)); border: 1px solid color-mix(in srgb, var(--ouro2) 40%, var(--borda)); }
+.faixa-curso b { font-family: var(--serif); font-size: 1.35rem; display: block; margin: 2px 0 8px; }
+.fc-chips { display: flex; flex-wrap: wrap; gap: 8px; font-size: 13px; }
+.fc-chips span { background: var(--pill); border-radius: 999px; padding: 4px 10px; }
+@media (max-width: 520px) { .faixa-curso { padding: 16px; } .faixa-curso .btn { width: 100%; } }
+@media (max-width: 520px) { .cs-dia span small { display: none; } .cs-ok { width: 14px; height: 14px; font-size: 9px; line-height: 14px; top: 3px; right: 3px; } }

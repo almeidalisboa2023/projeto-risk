@@ -32,6 +32,7 @@ function dasNovidades() {
   const itens = c ? new Map(materiasDoCurso(c).map((m) => [m.id, m])) : null;
   const doCurso = (n) => {
     if (!itens) return true;
+    if (!n.materia && !n.cursos) return true; // aviso geral, para todos
     if (n.cursos) return n.cursos.includes(c.id);
     const it = n.materia && itens.get(n.materia);
     if (!it) return false;

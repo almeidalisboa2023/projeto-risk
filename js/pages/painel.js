@@ -39,6 +39,7 @@ export async function render(el) {
   const minEntre = (a, b) => S.sessoes.filter((s) => s.data >= iso(a) && s.data <= iso(b)).reduce((x, s) => x + s.minutos, 0);
   const minSem = minEntre(seg, addDias(seg, 6));
   const minHoje = minEntre(h, h);
+  const ult7 = Array.from({ length: 7 }, (_, i) => addDias(h, i - 6));
   const minTotal = S.sessoes.reduce((x, s) => x + s.minutos, 0);
   const restantes = validos.filter((t) => !t.concluido).length;
   const semRest = faltam != null ? Math.max(1, Math.ceil(faltam / 7)) : null;
@@ -70,18 +71,18 @@ export async function render(el) {
     <div style="max-width:560px;margin:18px auto 0;text-align:left"><div class="row"><span>Tópicos finalizados</span><span class="sp"></span><b>${fin}/${validos.length}</b></div>${barra(pct(fin, validos.length))}</div>
   </section>
   <div class="card" style="margin-top:16px" id="cronoSem"></div>
-  <div class="grid g4" style="margin-top:16px">
-    <div class="card"><div class="mono up">Progresso do edital</div><div class="num">${pct(praticados, validos.length) ?? 0}%</div><div class="muted">${praticados} de ${validos.length} tópicos praticados</div></div>
-    <div class="card"><div class="mono up">Questões na semana</div><div class="num">${fs}</div><div class="muted">${as} acertos</div></div>
-    <div class="card"><div class="mono up">Tempo de estudo total</div><div class="num">${fmtMin(minTotal)}</div><a class="muted" href="#/horas">desde o início · por matéria →</a></div>
-    <div class="card"><div class="mono up">Taxa de acerto</div><div class="num ${corPct(tx)}">${tx ?? '—'}${tx != null ? '%' : ''}</div><div class="muted">${tx != null && txa != null ? `${tx - txa >= 0 ? '+' : ''}${tx - txa} pp vs semana anterior` : 'semana atual'}</div></div>
-    <div class="card"><div class="mono up">Flashcards feitos</div><div class="num" id="pFlash">…</div><a class="muted" id="pFlashSub" href="#/leitura">desde o início · na leitura →</a></div>
+  <div class="grid g4 stats" style="margin-top:16px">
+    <div class="card stat"><div class="st-h"><span class="ic">📈</span><span class="mono up">Progresso do edital</span></div><div class="num">${pct(praticados, validos.length) ?? 0}%</div>${barra(pct(praticados, validos.length) || 0)}<div class="muted">${praticados} de ${validos.length} tópicos praticados</div></div>
+    <div class="card stat"><div class="st-h"><span class="ic">📝</span><span class="mono up">Questões na semana</span></div><div class="num">${fs}</div><div class="muted">${as} acertos</div></div>
+    <div class="card stat"><div class="st-h"><span class="ic">⏳</span><span class="mono up">Tempo de estudo total</span></div><div class="num">${fmtMin(minTotal)}</div><a class="muted" href="#/horas">desde o início · por matéria →</a></div>
+    <div class="card stat"><div class="st-h"><span class="ic">🎯</span><span class="mono up">Taxa de acerto</span></div><div class="st-ring"><div class="num ${corPct(tx)}">${tx ?? '—'}${tx != null ? '%' : ''}</div>${anel(tx)}</div><div class="muted">${tx != null && txa != null ? `${tx - txa >= 0 ? '+' : ''}${tx - txa} pp vs semana anterior` : 'semana atual'}</div></div>
+    <div class="card stat"><div class="st-h"><span class="ic">🃏</span><span class="mono up">Flashcards feitos</span></div><div class="num" id="pFlash">…</div><a class="muted" id="pFlashSub" href="#/leitura">desde o início · na leitura →</a></div>
   </div>
-  <div class="grid g4" style="margin-top:16px">
-    <div class="card"><div class="mono up">Meta de hoje</div><div class="num">${qHoje}<span class="muted" style="font-size:1rem"> / ${meta}</span></div>${barra(Math.min(100, pct(qHoje, meta) || 0))}<div class="muted" style="margin-top:6px">${qHoje >= meta ? 'Meta batida! 🎯' : `Faltam ${meta - qHoje} questões`}</div></div>
-    <div class="card"><div class="mono up">Sequência</div><div class="num"><span class="fogo">🔥</span> ${seq} ${seq === 1 ? 'dia' : 'dias'}</div><div class="muted">${seq ? 'estudando sem parar' : 'registre algo hoje para começar'}</div></div>
-    <div class="card"><div class="mono up">Tempo de estudo hoje</div><div class="num">${fmtMin(minHoje)}</div><div class="muted">${fmtMin(minSem)} nesta semana</div></div>
-    <div class="card"><div class="mono up">Ritmo até a prova</div>${ritmo}</div>
+  <div class="grid g4 stats" style="margin-top:16px">
+    <div class="card stat"><div class="st-h"><span class="ic">${qHoje >= meta ? '✅' : '🏁'}</span><span class="mono up">Meta de hoje</span></div><div class="num">${qHoje}<span class="muted" style="font-size:1rem"> / ${meta}</span></div>${barra(Math.min(100, pct(qHoje, meta) || 0))}<div class="muted" style="margin-top:6px">${qHoje >= meta ? 'Meta batida! 🎯' : `Faltam ${meta - qHoje} questões`}</div></div>
+    <div class="card stat"><div class="st-h"><span class="ic">🔥</span><span class="mono up">Sequência</span></div><div class="st-ring"><div class="num">${seq} ${seq === 1 ? 'dia' : 'dias'}</div>${miniBarras(ult7.map((d) => (ativ.has(iso(d)) ? 1 : 0.15)))}</div><div class="muted">${seq ? 'estudando sem parar' : 'registre algo hoje para começar'}</div></div>
+    <div class="card stat"><div class="st-h"><span class="ic">⏱</span><span class="mono up">Tempo de estudo hoje</span></div><div class="st-ring"><div class="num">${fmtMin(minHoje)}</div>${linha(ult7.map((d) => minEntre(d, d)))}</div><div class="muted">${fmtMin(minSem)} nesta semana</div></div>
+    <div class="card stat"><div class="st-h"><span class="ic">🧭</span><span class="mono up">Ritmo até a prova</span></div>${ritmo}</div>
   </div>
   <div class="grid g2" style="margin-top:16px">
     <div class="card"><div class="row"><h3>Revisões sugeridas</h3><span class="sp"></span>${sug.length > 5 ? '<button class="btn sec mini" id="todasSug">Ver todas</button>' : ''}</div>
@@ -97,7 +98,8 @@ export async function render(el) {
     <div class="card"><h3>Tarefas de hoje</h3>${tarefasHoje.length ? tarefasHoje.map((t) => `<div class="check"><span>${t.concluido ? '✅' : '⬜'}</span><span><b>${esc(t.materia)}</b> — ${esc(t.topico)}</span></div>`).join('') : '<p class="muted">Sem tarefas para hoje.</p>'}
       <a class="btn sec mini" href="#/calendario" style="margin-top:8px">Abrir o dia →</a></div>
   </div>
-  <div class="card" style="margin-top:16px"><h3>Desempenho por matéria</h3><div id="pormat"></div></div>`;
+  <div class="card" style="margin-top:16px"><h3>Desempenho por matéria</h3><div id="pormat"></div></div>
+  ${faixaCurso(meuCurso(), ed)}`;
   caixaAvisos(el.querySelector('#avisosBox')).catch(() => {});
   contarFlash().then((r) => { const n = el.querySelector('#pFlash'); if (!n) return; if (!r) { n.textContent = '—'; return; } n.textContent = r.cartoes; el.querySelector('#pFlashSub').textContent = `${r.viradas} viradas no total · ir para a leitura →`; });
 
@@ -196,10 +198,30 @@ function calendarioCrono(box, desl) {
   box.innerHTML = `<div class="row"><h3 style="margin:0">⏱ Calendário do cronômetro</h3><span class="sp"></span>
       <button class="btn sec mini" data-cs="-1">‹</button><button class="btn sec mini" data-cs="0">Esta semana</button><button class="btn sec mini" data-cs="1">›</button></div>
     <div class="muted" style="font-size:13px;margin:4px 0 12px">${ddmm(seg)} a ${ddmm(addDias(seg, 6))} · total <b>${fmtH(tot)}</b> · média <b>${fmtH(tot / 7)}</b> por dia${melhor[1] ? ` · melhor dia: ${DIAS_C[idxDia(melhor[0])]} (${fmtH(melhor[1])})` : ''}</div>
-    <div class="crono-sem">${dias.map(([d, m]) => `<div class="cs-dia ${iso(d) === iso(h) ? 'hoje' : ''} ${iso(d) > iso(h) ? 'futuro' : ''}">
+    <div class="crono-sem">${dias.map(([d, m]) => `<div class="cs-dia ${iso(d) === iso(h) ? 'hoje' : ''} ${iso(d) > iso(h) ? 'futuro' : ''} ${m && d === melhor[0] ? 'melhor' : ''}">${m && d === melhor[0] ? '<i class="cs-ok">✓</i>' : ''}
         <div class="cs-barra"><div style="height:${m ? Math.max(6, Math.round((m / max) * 100)) : 0}%"></div></div>
-        <b>${m ? fmtH(m) : '—'}</b><span>${DIAS_C[idxDia(d)]} ${ddmm(d)}</span></div>`).join('')}</div>
-    <div class="row" style="margin-top:10px"><a class="btn sec mini" href="#/horas">Abrir Horas de estudo</a><span class="muted" style="font-size:12.5px">Use o cronômetro dos blocos ou lance horas manualmente.</span></div>`;
+        <b>${m ? fmtH(m) : '—'}</b><span>${DIAS_C[idxDia(d)]} <small>${ddmm(d)}</small></span></div>`).join('')}</div>
+    <div class="row" style="margin-top:10px"><a class="btn sec mini cs-abrir" href="#/horas">⏱ Abrir horas de estudo</a><span class="muted" style="font-size:12.5px">Use o cronômetro dos blocos ou lance horas manualmente.</span></div>`;
   box.querySelectorAll('[data-cs]').forEach((b) => (b.onclick = () => calendarioCrono(box, b.dataset.cs === '0' ? 0 : semCrono + Number(b.dataset.cs))));
 }
 const DIAS_C = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
+
+// Mini gráficos dos cartões
+function anel(p) {
+  const v = Math.max(0, Math.min(100, p || 0)), r = 22, c = 2 * Math.PI * r;
+  return `<svg class="anel" viewBox="0 0 56 56" aria-hidden="true"><circle cx="28" cy="28" r="${r}" fill="none" stroke="currentColor" stroke-opacity=".15" stroke-width="6"/><circle cx="28" cy="28" r="${r}" fill="none" stroke="var(--ouro2)" stroke-width="6" stroke-linecap="round" stroke-dasharray="${(c * v) / 100} ${c}" transform="rotate(-90 28 28)"/></svg>`;
+}
+function miniBarras(vals) {
+  return `<svg class="mini" viewBox="0 0 70 40" aria-hidden="true">${vals.map((v, i) => `<rect x="${i * 10 + 1}" y="${40 - Math.max(3, v * 38)}" width="7" height="${Math.max(3, v * 38)}" rx="2" fill="var(--ouro2)" fill-opacity="${v >= 1 ? 1 : 0.35}"/>`).join('')}</svg>`;
+}
+function linha(vals) {
+  const mx = Math.max(1, ...vals), pts = vals.map((v, i) => `${i * 11 + 2},${36 - (v / mx) * 32}`).join(' ');
+  return `<svg class="mini" viewBox="0 0 70 40" aria-hidden="true"><polyline points="${pts}" fill="none" stroke="var(--ouro2)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+}
+// Faixa do curso no fim do painel
+function faixaCurso(c, ed) {
+  const nome = c ? c.nome : ed?.concurso;
+  if (!nome) return '';
+  return `<a class="faixa-curso" href="#/leitura"><div><div class="mono up">Curso preparatório</div><b>${esc(nome)}</b>
+    <div class="fc-chips"><span>📚 Conteúdo completo</span><span>📝 Questões comentadas</span><span>🎯 Estratégias da banca</span></div></div><span class="btn">Acessar conteúdo →</span></a>`;
+}

@@ -34724,6 +34724,5030 @@ export const PROFUNDO = {
 "e": "Instrução."
 }
 ]
+},
+"recursos": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>15 dias</b><span>prazo de todos os recursos do CPC, exceto os embargos de declaração, de 5 dias (art. 1.003, § 5º)</span></div><div class=\"lt-stat\"><b>2/3</b><span>quórum para o STJ recusar o recurso especial por falta de relevância (CF, art. 105, § 2º, EC 125/2022)</span></div><div class=\"lt-stat\"><b>2024</b><span>Lei 14.939 permitiu corrigir a falta de prova do feriado local</span></div><div class=\"lt-stat\"><b>1 ano</b><span>prazo de suspensão dos processos no IRDR (art. 980)</span></div></div>\n<h3>1. Conceito e princípios dos recursos</h3>\n<ul><li><b>Recurso</b> é o meio <b>voluntário</b> de impugnação de decisões judiciais, <b>dentro do mesmo processo</b>, que visa à <b>reforma, invalidação, esclarecimento ou integração</b> da decisão. Distingue-se das <b>ações autônomas de impugnação</b> (ação rescisória, mandado de segurança contra ato judicial, reclamação, querela nullitatis) e dos <b>sucedâneos recursais</b> (remessa necessária, pedido de reconsideração, suspensão de liminar, correição parcial).</li></ul>\n<table class=\"tab\"><thead><tr><th>Recursos no CPC (art. 994)</th><th>Contra o quê</th></tr></thead><tbody><tr><td>I, <b>apelação</b></td><td>sentença</td></tr><tr><td>II, <b>agravo de instrumento</b></td><td>decisões interlocutórias do art. 1.015</td></tr><tr><td>III, <b>agravo interno</b></td><td>decisão do relator</td></tr><tr><td>IV, <b>embargos de declaração</b></td><td>qualquer decisão judicial (obscuridade, contradição, omissão, erro material)</td></tr><tr><td>V, <b>recurso ordinário</b></td><td>decisões dos tribunais nas hipóteses constitucionais (por exemplo, MS denegado em única instância pelos tribunais)</td></tr><tr><td>VI, <b>recurso especial</b></td><td>acórdão de TJ ou TRF que contrarie lei federal (STJ)</td></tr><tr><td>VII, <b>recurso extraordinário</b></td><td>decisão de única ou última instância que contrarie a Constituição (STF)</td></tr><tr><td>VIII, <b>agravo em recurso especial ou extraordinário</b></td><td>decisão do tribunal de origem que inadmite RE ou REsp</td></tr><tr><td>IX, <b>embargos de divergência</b></td><td>acórdão de turma de tribunal superior divergente de outro órgão do mesmo tribunal</td></tr></tbody></table>\n<ul><li><b>Taxatividade</b>: só são recursos os previstos em <b>lei federal</b> (competência privativa da União para legislar sobre processo, CF, art. 22, I). Os <b>embargos infringentes</b> do CPC/1973 foram <b>extintos</b> e substituídos pela <b>técnica de ampliação do colegiado</b> (art. 942), que não é recurso. O <b>agravo retido</b> também foi extinto: as interlocutórias não agraváveis são impugnadas em <b>preliminar de apelação</b> ou nas <b>contrarrazões</b> (art. 1.009, § 1º). Os <b>embargos infringentes de alçada</b> da Lei de Execução Fiscal (art. 34) continuam existindo, por lei especial.</li><li><b>Singularidade</b> (unirrecorribilidade): para cada decisão cabe, em regra, <b>um único recurso</b>. Exceções: <b>embargos de declaração</b> podem ser opostos antes de outro recurso; <b>RE e REsp</b> podem ser interpostos simultaneamente contra o mesmo acórdão.</li><li><b>Fungibilidade</b>: admite-se receber um recurso por outro, quando houver <b>dúvida objetiva</b> sobre o recurso cabível e <b>ausência de erro grosseiro</b>, desde que interposto no prazo do recurso correto. O CPC prevê fungibilidades expressas: embargos de declaração recebidos como <b>agravo interno</b> (art. 1.024, § 3º, com intimação para complementar as razões em 5 dias); <b>recurso especial</b> convertido em <b>extraordinário</b> e vice-versa (arts. 1.032 e 1.033).</li><li><b>Dialeticidade</b>: o recorrente deve impugnar <b>especificamente os fundamentos</b> da decisão recorrida (art. 932, III; art. 1.010, II e III; art. 1.021, § 1º). Recurso que repete a petição inicial sem atacar a sentença pode não ser conhecido.</li><li><b>Proibição da reformatio in pejus</b>: o recorrente não pode ter sua situação piorada pelo julgamento do seu próprio recurso, se não houver recurso da outra parte. Exceção: matérias de <b>ordem pública</b> conhecidas de ofício (efeito translativo).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O CPC/2015 manteve os embargos infringentes contra acórdão não unânime</span><br>✅ <span class=\"certo\">Foram <b>extintos</b>; existe a <b>técnica de ampliação do colegiado</b> (art. 942)</span></li><li>❌ <span class=\"banca\">O agravo retido é o recurso contra interlocutórias não previstas no art. 1.015</span><br>✅ <span class=\"certo\">Foi <b>extinto</b>; a impugnação é feita em <b>preliminar de apelação</b> ou <b>contrarrazões</b></span></li><li>❌ <span class=\"banca\">A fungibilidade recursal admite qualquer erro na escolha do recurso</span><br>✅ <span class=\"certo\">Exige <b>dúvida objetiva</b> e ausência de <b>erro grosseiro</b></span></li><li>❌ <span class=\"banca\">Os embargos infringentes da Lei de Execução Fiscal foram extintos</span><br>✅ <span class=\"certo\">Continuam previstos no <b>art. 34 da Lei 6.830</b> (lei especial)</span></li></ol></div>\n<h3>2. Admissibilidade: requisitos intrínsecos e extrínsecos</h3>\n<table class=\"tab\"><thead><tr><th>Requisito</th><th>Conteúdo</th></tr></thead><tbody><tr><td><b>Cabimento</b> (intrínseco)</td><td>previsão legal e adequação do recurso à decisão</td></tr><tr><td><b>Legitimidade</b> (intrínseco)</td><td>parte vencida, <b>terceiro prejudicado</b> e <b>Ministério Público</b>, como parte ou fiscal da ordem jurídica (art. 996)</td></tr><tr><td><b>Interesse recursal</b> (intrínseco)</td><td>utilidade e necessidade do recurso (sucumbência)</td></tr><tr><td><b>Inexistência de fato impeditivo ou extintivo</b> (intrínseco)</td><td>renúncia, desistência e aquiescência (arts. 998 a 1.000)</td></tr><tr><td><b>Tempestividade</b> (extrínseco)</td><td>prazo de <b>15 dias</b> (ED: <b>5 dias</b>), em dobro para Fazenda, MP e Defensoria</td></tr><tr><td><b>Preparo</b> (extrínseco)</td><td>pagamento das custas e do porte de remessa e retorno (art. 1.007)</td></tr><tr><td><b>Regularidade formal</b> (extrínseco)</td><td>forma escrita, razões, pedido, peças obrigatórias</td></tr></tbody></table>\n<ul><li><b>Terceiro prejudicado</b> (art. 996, parágrafo único): cumpre ao terceiro demonstrar a possibilidade de a decisão sobre a relação jurídica submetida à apreciação judicial <b>atingir direito de que se afirme titular</b> ou que possa discutir em juízo como substituto processual.</li><li><b>Renúncia e desistência</b> (arts. 998 e 999): o recorrente poderá, a qualquer tempo, <b>sem a anuência do recorrido ou dos litisconsortes</b>, <b>desistir</b> do recurso. A desistência do recurso <b>não impede a análise de questão cuja repercussão geral já tenha sido reconhecida</b> e daquela objeto de julgamento de <b>recursos extraordinários ou especiais repetitivos</b> (art. 998, parágrafo único). A <b>renúncia</b> ao direito de recorrer <b>independe da aceitação</b> da outra parte.</li><li><b>Aquiescência</b> (art. 1.000): a parte que <b>aceitar expressa ou tacitamente</b> a decisão <b>não poderá recorrer</b>. Considera-se aceitação tácita a prática, sem nenhuma reserva, de <b>ato incompatível</b> com a vontade de recorrer (por exemplo, cumprir voluntariamente a sentença sem ressalva).</li><li><b>Recurso adesivo</b> (art. 997): sendo vencidos <b>autor e réu</b>, ao recurso interposto por qualquer deles poderá <b>aderir</b> o outro. O recurso adesivo fica <b>subordinado ao recurso independente</b>, sendo-lhe aplicáveis as mesmas regras quanto aos requisitos de admissibilidade e julgamento no tribunal. Será dirigido ao órgão perante o qual o recurso independente fora interposto, <b>no prazo de que a parte dispõe para responder</b>; será admissível na <b>apelação</b>, no <b>recurso extraordinário</b> e no <b>recurso especial</b>; <b>não será conhecido</b> se houver <b>desistência</b> do recurso principal ou se for ele considerado <b>inadmissível</b>. A Fazenda Pública pode recorrer adesivamente.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A desistência do recurso depende da anuência do recorrido</span><br>✅ <span class=\"certo\"><b>Independe</b> de anuência (art. 998)</span></li><li>❌ <span class=\"banca\">A desistência impede o tribunal de julgar a tese em repercussão geral</span><br>✅ <span class=\"certo\"><b>Não impede</b> (art. 998, parágrafo único)</span></li><li>❌ <span class=\"banca\">Cabe recurso adesivo no agravo de instrumento</span><br>✅ <span class=\"certo\">Só na <b>apelação</b>, no <b>RE</b> e no <b>REsp</b> (art. 997, § 2º, II)</span></li><li>❌ <span class=\"banca\">Desistindo o recorrente principal, o recurso adesivo continua</span><br>✅ <span class=\"certo\">O adesivo <b>não será conhecido</b> (art. 997, § 2º, III)</span></li><li>❌ <span class=\"banca\">Cumprir a sentença sem ressalva não impede o recurso</span><br>✅ <span class=\"certo\">É <b>aquiescência tácita</b> (art. 1.000)</span></li></ol></div>\n<h3>3. Prazo, feriado local e preparo</h3>\n<ul><li><b>Prazo</b> (art. 1.003): o prazo para interposição de recurso conta-se da data em que os advogados, a sociedade de advogados, a Advocacia Pública, a Defensoria Pública ou o MP são <b>intimados</b> da decisão. Os advogados reputam-se intimados <b>na audiência</b> quando nesta for proferida a decisão (§ 1º). <b>Excetuados os embargos de declaração, o prazo para interpor os recursos e para responder-lhes é de 15 dias</b> (§ 5º). Para aferição da tempestividade do recurso remetido pelo correio, será considerada como data de interposição a <b>data de postagem</b> (§ 4º).</li><li><b>Feriado local</b> (art. 1.003, § 6º, redação da <b>Lei 14.939/2024</b>): o recorrente comprovará a ocorrência de <b>feriado local</b> no ato de interposição do recurso, e, se não o fizer, o tribunal <b>determinará a correção do vício formal</b>, ou poderá <b>desconsiderá-lo caso a informação já conste do processo eletrônico</b>. Antes dessa lei, o STJ entendia que a falta de comprovação do feriado local no ato da interposição gerava <b>intempestividade insanável</b>, o que causou a perda de muitos recursos. É um caso de <b>superação legislativa</b> (<i>overriding</i>) da jurisprudência. O STJ passou a aplicar a nova regra aos recursos pendentes de julgamento.</li><li><b>Preparo</b> (art. 1.007): no ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de <b>deserção</b>. São <b>dispensados de preparo</b>, inclusive porte de remessa e de retorno, os recursos interpostos pelo <b>MP</b>, pela <b>União</b>, pelo <b>DF</b>, pelos <b>Estados</b>, pelos <b>Municípios</b>, e respectivas <b>autarquias</b>, e pelos que gozam de <b>isenção legal</b> (§ 1º). É dispensado o recolhimento do porte de remessa e de retorno no processo em <b>autos eletrônicos</b> (§ 3º).</li><li><b>Preparo insuficiente e ausente</b> (§§ 2º e 4º): a <b>insuficiência</b> no valor do preparo implicará deserção se o recorrente, intimado na pessoa de seu advogado, <b>não vier a supri-lo no prazo de 5 dias</b>. O recorrente que <b>não comprovar, no ato de interposição</b> do recurso, o recolhimento do preparo será intimado, na pessoa de seu advogado, para realizar o recolhimento <b>em dobro</b>, sob pena de deserção. É <b>vedada a complementação</b> se houver insuficiência parcial do preparo <b>no recolhimento realizado na forma do § 4º</b> (§ 5º). Provando o recorrente <b>justo impedimento</b>, o relator relevará a pena de deserção (§ 6º). O <b>equívoco no preenchimento da guia</b> de custas <b>não implicará</b> a aplicação da pena de deserção, cabendo ao relator, na hipótese de dúvida quanto ao recolhimento, intimar o recorrente para sanar o vício no prazo de 5 dias (§ 7º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação do preparo</th><th>Consequência (art. 1.007)</th></tr></thead><tbody><tr><td>Recolhido <b>a menor</b></td><td>intimação para <b>complementar em 5 dias</b>, sob pena de deserção</td></tr><tr><td><b>Não recolhido</b> ou não comprovado na interposição</td><td>intimação para recolher <b>em dobro</b>, sob pena de deserção</td></tr><tr><td>Recolhido em dobro, mas <b>insuficiente</b></td><td><b>vedada a complementação</b>: deserção</td></tr><tr><td>Erro no <b>preenchimento da guia</b></td><td>não gera deserção; intimação para sanar em 5 dias</td></tr><tr><td>Fazenda, MP, autarquias, isentos</td><td><b>dispensados</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O prazo dos embargos de declaração é de 15 dias</span><br>✅ <span class=\"certo\">É de <b>5 dias</b> (art. 1.023)</span></li><li>❌ <span class=\"banca\">Após a Lei 14.939/2024, a falta de prova do feriado local gera intempestividade insanável</span><br>✅ <span class=\"certo\">O tribunal <b>determina a correção</b> ou <b>desconsidera</b> o vício se a informação constar do processo eletrônico (art. 1.003, § 6º)</span></li><li>❌ <span class=\"banca\">O Município deve recolher preparo para apelar</span><br>✅ <span class=\"certo\">Está <b>dispensado</b> (art. 1.007, § 1º)</span></li><li>❌ <span class=\"banca\">Não recolhido o preparo, o recurso é imediatamente deserto</span><br>✅ <span class=\"certo\">O recorrente é intimado para recolher <b>em dobro</b> (art. 1.007, § 4º)</span></li><li>❌ <span class=\"banca\">O erro no preenchimento da guia gera deserção</span><br>✅ <span class=\"certo\"><b>Não gera</b> (art. 1.007, § 7º)</span></li></ol></div>\n<h3>4. Efeitos dos recursos e poderes do relator</h3>\n<ul><li><b>Efeito devolutivo</b>: transfere ao tribunal o conhecimento da matéria <b>impugnada</b> (<i>tantum devolutum quantum appellatum</i>). Na apelação, a extensão é limitada pelo pedido do recorrente, mas a <b>profundidade</b> abrange todas as questões suscitadas e discutidas no processo, ainda que não solucionadas, desde que relativas ao capítulo impugnado (art. 1.013, §§ 1º e 2º).</li><li><b>Efeito suspensivo</b>: impede que a decisão produza efeitos enquanto pendente o recurso. A regra geral é a <b>ausência</b> de efeito suspensivo (art. 995), salvo previsão legal (como a apelação, art. 1.012) ou decisão judicial.</li><li><b>Efeito translativo</b>: permite ao tribunal conhecer <b>de ofício</b> das matérias de <b>ordem pública</b> (pressupostos processuais, condições da ação, prescrição e decadência), mesmo não impugnadas, respeitado o contraditório (art. 10). Nos recursos especial e extraordinário, o efeito translativo é limitado pela exigência de <b>prequestionamento</b>, mas, uma vez admitido o recurso, o tribunal superior pode aplicar o direito à espécie e conhecer de matérias de ordem pública (art. 1.034).</li><li><b>Efeito expansivo</b>: o julgamento do recurso pode atingir atos ou sujeitos além dos diretamente envolvidos (por exemplo, o provimento do agravo contra decisão que rejeitou preliminar pode anular a sentença posterior). O <b>efeito expansivo subjetivo</b> ocorre no litisconsórcio unitário (o recurso de um aproveita aos outros, art. 1.005: o recurso interposto por um dos litisconsortes a todos aproveita, salvo se distintos ou opostos os seus interesses).</li><li><b>Efeito substitutivo</b> (art. 1.008): o julgamento proferido pelo tribunal <b>substituirá</b> a decisão impugnada no que tiver sido objeto de recurso. É importante para a ação rescisória (que deve atacar a última decisão de mérito).</li><li><b>Efeito regressivo</b> (retratação): permite ao próprio juiz que proferiu a decisão rever seu pronunciamento. Existe no agravo de instrumento (art. 1.018, § 1º), na apelação contra indeferimento da inicial, improcedência liminar e sentenças sem mérito (arts. 331, 332, § 3º, e 485, § 7º), e no ECA.</li><li><b>Poderes do relator</b> (art. 932): incumbe ao relator: I, dirigir e ordenar o processo no tribunal, inclusive em relação à produção de prova, bem como, quando for o caso, homologar autocomposição das partes; II, apreciar o <b>pedido de tutela provisória</b> nos recursos e nos processos de competência originária do tribunal; III, <b>não conhecer</b> de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; IV, <b>negar provimento</b> a recurso que for contrário a: a) <b>súmula</b> do STF, do STJ ou do próprio tribunal; b) acórdão proferido pelo STF ou pelo STJ em julgamento de <b>recursos repetitivos</b>; c) entendimento firmado em <b>IRDR</b> ou de <b>IAC</b>; V, depois de facultada a apresentação de contrarrazões, <b>dar provimento</b> ao recurso se a decisão recorrida for contrária às mesmas hipóteses. Antes de considerar inadmissível o recurso, o relator concederá o prazo de <b>5 dias</b> ao recorrente para que seja <b>sanado vício</b> ou complementada a documentação exigível (parágrafo único).</li><li><b>Sustentação oral</b> (art. 937): na sessão de julgamento, depois da exposição da causa pelo relator, o presidente dará a palavra, sucessivamente, ao recorrente, ao recorrido e, nos casos de sua intervenção, ao membro do MP, pelo prazo improrrogável de <b>15 minutos</b> para cada um, a fim de sustentarem suas razões, nas seguintes hipóteses: no recurso de <b>apelação</b>; no <b>recurso ordinário</b>; no <b>recurso especial</b>; no <b>recurso extraordinário</b>; nos <b>embargos de divergência</b>; na ação rescisória, no mandado de segurança e na reclamação; no <b>agravo de instrumento interposto contra decisões interlocutórias que versem sobre tutelas provisórias</b> de urgência ou da evidência; e em outras hipóteses previstas em lei ou no regimento interno do tribunal. A <b>Lei 14.365/2022</b> incluiu no <b>Estatuto da OAB</b> (art. 7º, § 2º-B) o direito à sustentação oral no <b>agravo interno</b> contra decisão monocrática do relator que julgar o mérito ou não conhecer de apelação, recurso ordinário, especial ou extraordinário, embargos de divergência, ação rescisória, mandado de segurança, reclamação, habeas corpus e outras ações de competência originária.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em regra, os recursos têm efeito suspensivo</span><br>✅ <span class=\"certo\">A regra é a <b>ausência</b> de efeito suspensivo (art. 995)</span></li><li>❌ <span class=\"banca\">O recurso de um litisconsorte nunca aproveita aos demais</span><br>✅ <span class=\"certo\"><b>Aproveita</b>, salvo se distintos ou opostos os interesses (art. 1.005)</span></li><li>❌ <span class=\"banca\">O relator pode negar provimento a recurso contrário a qualquer julgado do tribunal</span><br>✅ <span class=\"certo\">Só nas hipóteses do art. 932, IV (súmulas, repetitivos, IRDR, IAC)</span></li><li>❌ <span class=\"banca\">O relator pode dar provimento ao recurso sem ouvir o recorrido</span><br>✅ <span class=\"certo\">Só <b>depois</b> de facultadas as <b>contrarrazões</b> (art. 932, V)</span></li><li>❌ <span class=\"banca\">Não cabe sustentação oral em agravo de instrumento</span><br>✅ <span class=\"certo\">Cabe no agravo contra decisão sobre <b>tutela provisória</b> (art. 937, VIII)</span></li></ol></div>\n<h3>5. Técnica de ampliação do colegiado (art. 942)</h3>\n<ul><li><b>Regra</b>: quando o resultado da <b>apelação</b> for <b>não unânime</b>, o julgamento terá prosseguimento em sessão a ser designada com a presença de <b>outros julgadores</b>, que serão convocados nos termos previamente definidos no regimento interno, em número suficiente para garantir a possibilidade de <b>inversão do resultado inicial</b>, assegurado às partes e a eventuais terceiros o direito de <b>sustentar oralmente</b> suas razões perante os novos julgadores. Sendo possível, o prosseguimento do julgamento dar-se-á na <b>mesma sessão</b>, colhendo-se os votos de outros julgadores que porventura componham o órgão colegiado (§ 1º). Os julgadores que já tiverem votado poderão <b>rever seus votos</b> por ocasião do prosseguimento do julgamento (§ 2º).</li><li><b>Outras hipóteses</b> (§ 3º): a técnica aplica-se, igualmente, ao julgamento não unânime proferido em: I, <b>ação rescisória</b>, quando o resultado for a <b>rescisão</b> da sentença, devendo, nesse caso, seu prosseguimento ocorrer em órgão de maior composição previsto no regimento interno; II, <b>agravo de instrumento</b>, quando houver <b>reforma</b> da decisão que <b>julgar parcialmente o mérito</b>.</li><li><b>Não se aplica</b> (§ 4º): ao julgamento do <b>IAC</b> e do <b>IRDR</b>; à <b>remessa necessária</b>; ao julgamento <b>não unânime</b> proferido, nos tribunais, pelo <b>plenário</b> ou pela <b>corte especial</b>.</li><li><b>Natureza</b>: não é recurso (não depende de provocação), é <b>técnica de julgamento</b> que se aplica de ofício. O STJ entende que se aplica a <b>qualquer apelação</b> com resultado não unânime, <b>mesmo que confirme a sentença</b> e mesmo que a divergência seja só sobre parte (capítulo) do julgamento, ao contrário dos antigos embargos infringentes (que exigiam reforma da sentença de mérito).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A ampliação do colegiado depende de requerimento da parte vencida</span><br>✅ <span class=\"certo\">Aplica-se <b>de ofício</b> (técnica de julgamento)</span></li><li>❌ <span class=\"banca\">A técnica de ampliação aplica-se à remessa necessária</span><br>✅ <span class=\"certo\"><b>Não se aplica</b> (art. 942, § 4º, II)</span></li><li>❌ <span class=\"banca\">Na apelação, a técnica só se aplica se houver reforma da sentença</span><br>✅ <span class=\"certo\">Aplica-se a <b>qualquer resultado não unânime</b> da apelação</span></li><li>❌ <span class=\"banca\">Os julgadores que já votaram não podem mudar o voto no prosseguimento</span><br>✅ <span class=\"certo\"><b>Podem rever</b> seus votos (art. 942, § 2º)</span></li></ol></div>\n<h3>6. Apelação (arts. 1.009 a 1.014)</h3>\n<ul><li><b>Cabimento</b> (art. 1.009): da <b>sentença</b> cabe apelação. As questões resolvidas na fase de conhecimento, se a decisão a seu respeito <b>não comportar agravo de instrumento</b>, <b>não são cobertas pela preclusão</b> e devem ser suscitadas em <b>preliminar de apelação</b>, eventualmente interposta contra a decisão final, ou nas <b>contrarrazões</b> (§ 1º). Se as questões forem suscitadas em contrarrazões, o recorrente será intimado para, em <b>15 dias</b>, manifestar-se a respeito delas (§ 2º). O disposto aplica-se mesmo quando as questões mencionadas no art. 1.015 integrarem capítulo da sentença (§ 3º): ou seja, se a sentença trata de tutela provisória, cabe <b>apelação</b> (e não agravo) contra esse capítulo.</li><li><b>Interposição</b> (art. 1.010): a apelação, interposta por petição dirigida ao <b>juízo de primeiro grau</b>, conterá: os nomes e a qualificação das partes; a exposição do fato e do direito; as razões do pedido de reforma ou de decretação de nulidade; o pedido de nova decisão. O apelado será intimado para apresentar <b>contrarrazões</b> no prazo de <b>15 dias</b>. Após as formalidades, os autos serão remetidos ao tribunal pelo juiz, <b>independentemente de juízo de admissibilidade</b> (§ 3º). O juízo de admissibilidade da apelação é feito <b>somente no tribunal</b>.</li><li><b>Efeito suspensivo</b> (art. 1.012): a apelação terá <b>efeito suspensivo</b>. Além de outras hipóteses previstas em lei, começa a produzir efeitos <b>imediatamente</b> após a sua publicação a sentença que: I, homologa divisão ou demarcação de terras; II, condena a pagar <b>alimentos</b>; III, extingue sem resolução do mérito ou julga improcedentes os <b>embargos do executado</b>; IV, julga procedente o pedido de instituição de <b>arbitragem</b>; V, confirma, concede ou revoga <b>tutela provisória</b>; VI, decreta a <b>interdição</b>. Leis especiais também retiram o efeito suspensivo: a sentença que <b>concede</b> o mandado de segurança pode ser executada provisoriamente (Lei 12.016, art. 14, § 3º), salvo nos casos em que for vedada a concessão de liminar; a sentença na <b>ação civil pública</b> (o juiz pode conferir efeito suspensivo, Lei 7.347, art. 14); a sentença de <b>despejo</b> (Lei 8.245, art. 58, V).</li><li><b>Teoria da causa madura</b> (art. 1.013, § 3º): se o processo estiver em condições de <b>imediato julgamento</b>, o tribunal deve <b>decidir desde logo o mérito</b> quando: I, <b>reformar sentença</b> fundada no art. 485 (sem resolução de mérito); II, decretar a nulidade da sentença por <b>não ser ela congruente</b> com os limites do pedido ou da causa de pedir; III, constatar a <b>omissão</b> no exame de um dos pedidos, hipótese em que poderá julgá-lo; IV, decretar a nulidade de sentença por <b>falta de fundamentação</b>. Quando reformar sentença que reconheça a <b>decadência ou a prescrição</b>, o tribunal, se possível, julgará o mérito, examinando as demais questões, <b>sem determinar o retorno do processo</b> ao juízo de primeiro grau (§ 4º).</li><li><b>Questões de fato novas</b> (art. 1.014): as questões de fato não propostas no juízo inferior poderão ser suscitadas na apelação, se a parte provar que deixou de fazê-lo por <b>motivo de força maior</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As interlocutórias não agraváveis precluem se não impugnadas imediatamente</span><br>✅ <span class=\"certo\"><b>Não precluem</b>; são suscitadas em <b>preliminar de apelação</b> ou <b>contrarrazões</b> (art. 1.009, § 1º)</span></li><li>❌ <span class=\"banca\">O juiz de primeiro grau faz o juízo de admissibilidade da apelação</span><br>✅ <span class=\"certo\">Os autos sobem <b>independentemente</b> de juízo de admissibilidade (art. 1.010, § 3º)</span></li><li>❌ <span class=\"banca\">A apelação contra sentença que condena a pagar alimentos tem efeito suspensivo</span><br>✅ <span class=\"certo\">Produz efeitos <b>imediatamente</b> (art. 1.012, § 1º, II)</span></li><li>❌ <span class=\"banca\">Reformada a sentença que reconheceu prescrição, os autos sempre voltam ao primeiro grau</span><br>✅ <span class=\"certo\">O tribunal julga o mérito, se possível, <b>sem retorno</b> (art. 1.013, § 4º)</span></li></ol></div>\n<h3>7. Agravo de instrumento (arts. 1.015 a 1.020)</h3>\n<table class=\"tab\"><thead><tr><th>Cabe agravo de instrumento contra decisões interlocutórias que versarem sobre (art. 1.015)</th><th>Exemplo</th></tr></thead><tbody><tr><td>I, <b>tutelas provisórias</b></td><td>liminar concedida ou negada</td></tr><tr><td>II, <b>mérito do processo</b></td><td>julgamento antecipado parcial (art. 356)</td></tr><tr><td>III, <b>rejeição da alegação de convenção de arbitragem</b> ;</td></tr><tr><td>IV, <b>incidente de desconsideração da personalidade jurídica</b> ;</td></tr><tr><td>V, <b>rejeição do pedido de gratuidade</b> da justiça ou <b>acolhimento do pedido de sua revogação</b> ;</td></tr><tr><td>VI, <b>exibição ou posse de documento ou coisa</b> ;</td></tr><tr><td>VII, <b>exclusão de litisconsorte</b> ;</td></tr><tr><td>VIII, <b>rejeição do pedido de limitação do litisconsórcio</b> ;</td></tr><tr><td>IX, <b>admissão ou inadmissão de intervenção de terceiros</b> ;</td></tr><tr><td>X, concessão, modificação ou revogação do <b>efeito suspensivo aos embargos à execução</b> ;</td></tr><tr><td>XI, <b>redistribuição do ônus da prova</b> nos termos do art. 373, § 1º ;</td></tr><tr><td>XIII, outros casos expressamente referidos em <b>lei</b></td><td>por exemplo, decisão que extingue parcialmente o processo (art. 354, parágrafo único), decisão sobre liminar no MS (Lei 12.016, art. 7º, § 1º)</td></tr></tbody></table>\n<ul><li><b>Fases sem restrição</b> (art. 1.015, parágrafo único): também caberá agravo de instrumento contra <b>todas</b> as decisões interlocutórias proferidas na fase de <b>liquidação de sentença</b> ou de <b>cumprimento de sentença</b>, no <b>processo de execução</b> e no <b>processo de inventário</b>. Na <b>execução fiscal</b>, portanto, toda interlocutória é agravável (por exemplo, a decisão que rejeita a exceção de pré-executividade).</li><li><b>Taxatividade mitigada</b> (STJ, <b>Tema 988</b>, REsp 1.704.520, 2018): \"O rol do art. 1.015 do CPC é de <b>taxatividade mitigada</b>, por isso admite a interposição de agravo de instrumento quando verificada a <b>urgência decorrente da inutilidade do julgamento da questão no recurso de apelação</b>.\" Exemplo clássico: a decisão sobre <b>competência</b> (se esperar a apelação, o processo inteiro terá corrido no juízo errado). Se a parte não agravar nesses casos, não há preclusão: ainda pode impugnar na apelação.</li><li><b>Prazo e interposição</b> (arts. 1.016 e 1.017): o agravo será dirigido <b>diretamente ao tribunal</b> competente, no prazo de <b>15 dias</b>. A petição de agravo será instruída: obrigatoriamente, com cópias da petição inicial, da contestação, da petição que ensejou a decisão agravada, da própria decisão agravada, da certidão da respectiva intimação ou outro documento oficial que comprove a tempestividade e das procurações outorgadas aos advogados do agravante e do agravado. Sendo <b>eletrônicos</b> os autos do processo, <b>dispensam-se as peças</b> obrigatórias, facultando-se ao agravante anexar outros documentos que entender úteis (§ 5º). Na falta da cópia de qualquer peça ou no caso de algum outro vício que comprometa a admissibilidade, o relator concederá prazo de <b>5 dias</b> para sanar o vício (§ 3º).</li><li><b>Comunicação ao juízo de origem</b> (art. 1.018): o agravante <b>poderá</b> requerer a juntada, aos autos do processo, de cópia da petição do agravo, do comprovante de sua interposição e da relação dos documentos que instruíram o recurso. Se o juiz comunicar que <b>reformou inteiramente</b> a decisão, o relator considerará <b>prejudicado</b> o agravo (§ 1º). Sendo <b>físicos</b> os autos, a providência é <b>obrigatória</b>, no prazo de <b>3 dias</b> a contar da interposição do agravo (§ 2º), e seu descumprimento, <b>desde que arguido e provado pelo agravado</b>, importa <b>inadmissibilidade</b> do agravo (§ 3º).</li><li><b>Poderes do relator</b> (art. 1.019): recebido o agravo no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, III e IV, o relator, no prazo de <b>5 dias</b>: I, poderá atribuir <b>efeito suspensivo</b> ao recurso ou <b>deferir, em antecipação de tutela</b>, total ou parcialmente, a <b>pretensão recursal</b>; II, ordenará a intimação do agravado para que responda no prazo de <b>15 dias</b>; III, determinará a intimação do MP, preferencialmente por meio eletrônico, quando for o caso de sua intervenção, para que se manifeste no prazo de 15 dias. O relator solicitará dia para julgamento em prazo não superior a <b>1 mês</b> da intimação do agravado (art. 1.020).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O rol do art. 1.015 é absolutamente taxativo</span><br>✅ <span class=\"certo\">É de <b>taxatividade mitigada</b> (STJ, <b>Tema 988</b>), admitindo agravo em caso de <b>urgência</b></span></li><li>❌ <span class=\"banca\">Na execução, só cabem agravos nas hipóteses do art. 1.015</span><br>✅ <span class=\"certo\">Cabe agravo contra <b>todas</b> as interlocutórias na liquidação, cumprimento, execução e inventário</span></li><li>❌ <span class=\"banca\">Em autos eletrônicos, o agravo deve ser instruído com todas as peças obrigatórias</span><br>✅ <span class=\"certo\">As peças são <b>dispensadas</b> (art. 1.017, § 5º)</span></li><li>❌ <span class=\"banca\">A falta de juntada da cópia do agravo nos autos físicos gera inadmissão de ofício</span><br>✅ <span class=\"certo\">Só se <b>arguido e provado pelo agravado</b> (art. 1.018, § 3º)</span></li></ol></div>\n<h3>8. Agravo interno (art. 1.021)</h3>\n<ul><li><b>Cabimento</b>: contra <b>decisão proferida pelo relator</b> caberá agravo interno para o <b>respectivo órgão colegiado</b>, observadas, quanto ao processamento, as regras do regimento interno do tribunal. Prazo: <b>15 dias</b> (dobrado para a Fazenda).</li><li><b>Requisitos</b> (§§ 1º e 2º): na petição de agravo interno, o recorrente <b>impugnará especificadamente os fundamentos da decisão agravada</b>. O agravo será dirigido ao relator, que intimará o agravado para manifestar-se sobre o recurso no prazo de 15 dias, ao final do qual, <b>não havendo retratação</b>, o relator levá-lo-á a julgamento pelo órgão colegiado, com inclusão em pauta.</li><li><b>Fundamentação</b> (§ 3º): é <b>vedado ao relator limitar-se à reprodução dos fundamentos da decisão agravada</b> para julgar improcedente o agravo interno.</li><li><b>Multa</b> (§§ 4º e 5º): quando o agravo interno for declarado <b>manifestamente inadmissível ou improcedente em votação unânime</b>, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre <b>1% e 5%</b> do valor atualizado da causa. A interposição de qualquer outro recurso está condicionada ao <b>depósito prévio</b> do valor da multa, <b>à exceção da Fazenda Pública e do beneficiário de gratuidade</b> da justiça, que farão o pagamento <b>ao final</b>. O STJ entende que a multa <b>não é automática</b>: exige análise do caráter manifestamente inadmissível ou improcedente, e não basta a unanimidade.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Contra decisão do relator cabe agravo de instrumento</span><br>✅ <span class=\"certo\">Cabe <b>agravo interno</b> (art. 1.021)</span></li><li>❌ <span class=\"banca\">O relator pode julgar o agravo interno reproduzindo os fundamentos da decisão agravada</span><br>✅ <span class=\"certo\">É <b>vedado</b> (art. 1.021, § 3º)</span></li><li>❌ <span class=\"banca\">A multa do agravo interno é aplicada sempre que o recurso for desprovido por unanimidade</span><br>✅ <span class=\"certo\">Exige recurso <b>manifestamente inadmissível ou improcedente</b> (não é automática)</span></li><li>❌ <span class=\"banca\">A Fazenda deve depositar previamente a multa do agravo interno para recorrer</span><br>✅ <span class=\"certo\">Paga <b>ao final</b> (art. 1.021, § 5º)</span></li></ol></div>\n<h3>9. Embargos de declaração (arts. 1.022 a 1.026)</h3>\n<ul><li><b>Cabimento</b> (art. 1.022): cabem embargos de declaração contra <b>qualquer decisão judicial</b> para: I, esclarecer <b>obscuridade</b> ou eliminar <b>contradição</b>; II, suprir <b>omissão</b> de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; III, corrigir <b>erro material</b>. Considera-se <b>omissa</b> a decisão que: I, deixe de se manifestar sobre <b>tese firmada em julgamento de casos repetitivos ou em IAC</b> aplicável ao caso sob julgamento; II, incorra em qualquer das condutas descritas no art. 489, § 1º (falta de fundamentação).</li><li><b>Prazo e forma</b> (art. 1.023): os embargos serão opostos, no prazo de <b>5 dias</b>, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e <b>não se sujeitam a preparo</b>. Aplica-se aos embargos o prazo em dobro dos litisconsortes com procuradores diferentes (art. 229) e, naturalmente, o da Fazenda. O juiz intimará o embargado para, querendo, manifestar-se, no prazo de <b>5 dias</b>, sobre os embargos opostos, <b>caso seu eventual acolhimento implique a modificação da decisão embargada</b> (efeitos infringentes ou modificativos) (§ 2º).</li><li><b>Julgamento</b> (art. 1.024): o juiz julgará os embargos em <b>5 dias</b>. Nos tribunais, o relator apresentará os embargos em mesa na sessão subsequente. Quando os embargos de declaração forem opostos contra <b>decisão de relator</b> ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á <b>monocraticamente</b> (§ 2º). O órgão julgador conhecerá dos embargos de declaração como <b>agravo interno</b> se entender ser este o recurso cabível, desde que determine previamente a intimação do recorrente para, no prazo de 5 dias, complementar as razões recursais (§ 3º). Caso o acolhimento dos embargos implique modificação da decisão embargada, o embargado que já tiver interposto outro recurso contra a decisão originária tem o direito de <b>complementar ou alterar suas razões</b>, nos exatos limites da modificação, no prazo de 15 dias (§ 4º). Se os embargos forem <b>rejeitados</b> ou não alterarem a conclusão do julgamento anterior, o recurso interposto pela outra parte antes da publicação do julgamento dos embargos <b>será processado e julgado independentemente de ratificação</b> (§ 5º; superou a Súmula 418 do STJ, que foi cancelada e substituída pela Súmula 579).</li><li><b>Prequestionamento ficto</b> (art. 1.025): consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de <b>pré-questionamento</b>, ainda que os embargos de declaração sejam <b>inadmitidos ou rejeitados</b>, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade. É a superação da antiga <b>Súmula 211 do STJ</b> (que exigia prequestionamento efetivo); mas o STJ exige que o recorrente, no REsp, alegue <b>violação ao art. 1.022</b> para que o prequestionamento ficto seja reconhecido.</li><li><b>Efeitos</b> (art. 1.026): os embargos de declaração <b>não possuem efeito suspensivo</b> e <b>interrompem o prazo</b> para a interposição de recurso. Quando <b>manifestamente protelatórios</b>, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a <b>2%</b> sobre o valor atualizado da causa (§ 2º). Na <b>reiteração</b> de embargos manifestamente protelatórios, a multa será elevada a até <b>10%</b> sobre o valor atualizado da causa, e a interposição de qualquer recurso ficará condicionada ao <b>depósito prévio</b> do valor da multa, à exceção da Fazenda Pública e do beneficiário de gratuidade, que a recolherão ao final (§ 3º). <b>Não serão admitidos novos embargos</b> de declaração se os <b>2 anteriores</b> houverem sido considerados <b>protelatórios</b> (§ 4º).</li><li><b>Súmula 98 do STJ</b>: \"Embargos de declaração manifestados com notório propósito de <b>prequestionamento não têm caráter protelatório</b>.\"</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Embargos de declaração só cabem contra sentenças e acórdãos</span><br>✅ <span class=\"certo\">Cabem contra <b>qualquer decisão judicial</b> (art. 1.022)</span></li><li>❌ <span class=\"banca\">Os embargos de declaração suspendem o prazo dos demais recursos</span><br>✅ <span class=\"certo\"><b>Interrompem</b> o prazo (art. 1.026)</span></li><li>❌ <span class=\"banca\">Os embargos de declaração exigem preparo</span><br>✅ <span class=\"certo\"><b>Não se sujeitam a preparo</b> (art. 1.023)</span></li><li>❌ <span class=\"banca\">Rejeitados os embargos da outra parte, o recurso já interposto precisa ser ratificado</span><br>✅ <span class=\"certo\">É processado <b>independentemente de ratificação</b> (art. 1.024, § 5º)</span></li><li>❌ <span class=\"banca\">Embargos com propósito de prequestionamento são protelatórios</span><br>✅ <span class=\"certo\"><b>Não</b> são (Súmula 98 do STJ)</span></li></ol></div>\n<h3>10. Recurso ordinário constitucional (arts. 1.027 e 1.028)</h3>\n<ul><li><b>Para o STF</b> (CF, art. 102, II): os <b>mandados de segurança</b>, os habeas data e os mandados de injunção decididos em <b>única instância pelos tribunais superiores</b>, quando <b>denegatória</b> a decisão.</li><li><b>Para o STJ</b> (CF, art. 105, II): os <b>mandados de segurança decididos em única instância pelos TRFs ou pelos TJs</b>, quando <b>denegatória</b> a decisão; os processos em que forem partes, de um lado, <b>Estado estrangeiro ou organismo internacional</b> e, de outro, <b>Município</b> ou pessoa residente ou domiciliada no País (nesse caso, o recurso vai da sentença do juiz federal direto ao STJ, e das interlocutórias cabe agravo para o STJ).</li><li><b>Características</b>: é recurso de <b>fundamentação livre</b>, com ampla devolutividade (como uma apelação), e aplica-se a ele a <b>teoria da causa madura</b> (art. 1.027, § 2º, c/c art. 1.013, § 3º). Prazo de <b>15 dias</b>. Exemplo para o Município: mandado de segurança impetrado <b>pelo Município</b> contra ato do Governador (competência originária do TJ), <b>denegado</b>: cabe <b>recurso ordinário</b> ao STJ, e não recurso especial.</li></ul>\n<h3>11. Recurso extraordinário e recurso especial: requisitos comuns</h3>\n<table class=\"tab\"><thead><tr><th>Aspecto</th><th>Recurso extraordinário (STF)</th><th>Recurso especial (STJ)</th></tr></thead><tbody><tr><td>Base</td><td>CF, art. 102, III</td><td>CF, art. 105, III</td></tr><tr><td>Decisão recorrida</td><td>causas decididas em <b>única ou última instância</b> (inclusive turmas recursais dos Juizados)</td><td>causas decididas em única ou última instância pelos <b>TRFs ou TJs</b> (não cabe contra decisão de <b>turma recursal</b>, Súmula 203 do STJ)</td></tr><tr><td>Hipóteses</td><td>a) contrariar dispositivo da <b>Constituição</b>; b) declarar a inconstitucionalidade de <b>tratado ou lei federal</b>; c) julgar válida <b>lei ou ato de governo local contestado em face da Constituição</b>; d) julgar válida <b>lei local contestada em face de lei federal</b></td><td>a) contrariar <b>tratado ou lei federal</b>, ou negar-lhes vigência; b) julgar válido <b>ato de governo local</b> contestado em face de lei federal; c) der a lei federal <b>interpretação divergente</b> da que lhe haja atribuído outro tribunal</td></tr><tr><td>Filtro</td><td><b>repercussão geral</b> (art. 102, § 3º; EC 45/2004)</td><td><b>relevância da questão federal</b> (art. 105, §§ 2º e 3º; EC 125/2022; Lei 15.484/2026)</td></tr><tr><td>Quórum para recusar</td><td><b>2/3</b> dos membros do STF</td><td><b>2/3</b> dos membros do órgão competente do STJ</td></tr></tbody></table>\n<ul><li><b>Prequestionamento</b>: é indispensável que a questão constitucional ou federal tenha sido <b>decidida</b> pelo tribunal de origem. Súmula 282 do STF: \"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.\" Súmula 356 do STF: o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento. O CPC adotou o <b>prequestionamento ficto</b> (art. 1.025).</li><li><b>Vedação de reexame de fatos e provas</b>: Súmula 7 do STJ (\"A pretensão de simples reexame de prova não enseja recurso especial\") e Súmula 279 do STF (\"Para simples reexame de prova não cabe recurso extraordinário\"). Também não cabe REsp para interpretar <b>cláusula contratual</b> (Súmula 5 do STJ) nem RE por ofensa a <b>direito local</b> (Súmula 280 do STF).</li><li><b>Lei local x lei federal</b>: desde a EC 45/2004, julgar válida <b>lei local</b> contestada em face de <b>lei federal</b> é hipótese de <b>recurso extraordinário</b> (art. 102, III, \"d\"), porque envolve conflito de competência legislativa (questão constitucional). Julgar válido <b>ato de governo local</b> contestado em face de lei federal continua sendo hipótese de <b>recurso especial</b> (art. 105, III, \"b\").</li><li><b>Interposição</b> (art. 1.029): o RE e o REsp serão interpostos perante o <b>presidente ou o vice-presidente do tribunal recorrido</b>, em <b>petições distintas</b>, com: a exposição do fato e do direito; a demonstração do cabimento do recurso interposto; as razões do pedido de reforma ou de invalidação da decisão recorrida. Quando o recurso fundar-se em <b>dissídio jurisprudencial</b>, o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na rede mundial de computadores, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as <b>circunstâncias que identifiquem ou assemelhem os casos confrontados</b> (§ 1º). O STF ou o STJ poderá <b>desconsiderar vício formal</b> de recurso tempestivo ou determinar sua correção, desde que não o repute grave (§ 3º).</li><li><b>Fungibilidade entre RE e REsp</b> (arts. 1.032 e 1.033): se o relator, no STJ, entender que o recurso especial versa sobre <b>questão constitucional</b>, deverá conceder prazo de <b>15 dias</b> para que o recorrente demonstre a existência de <b>repercussão geral</b> e se manifeste sobre a questão constitucional; cumprida a diligência, remeterá o recurso ao STF, que, em juízo de admissibilidade, poderá devolvê-lo ao STJ. Se o STF considerar como <b>reflexa</b> a ofensa à Constituição afirmada no recurso extraordinário, por pressupor a revisão da interpretação de lei federal ou de tratado, remetê-lo-á ao STJ para julgamento como recurso especial.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Cabe recurso especial contra acórdão de turma recursal dos Juizados</span><br>✅ <span class=\"certo\"><b>Não cabe</b> (Súmula 203 do STJ); cabe <b>RE</b>, se houver questão constitucional</span></li><li>❌ <span class=\"banca\">Julgar válida lei municipal contestada em face de lei federal é hipótese de recurso especial</span><br>✅ <span class=\"certo\">É hipótese de <b>recurso extraordinário</b> (CF, art. 102, III, \"d\")</span></li><li>❌ <span class=\"banca\">O STJ pode reexaminar provas no recurso especial</span><br>✅ <span class=\"certo\">Vedado o <b>reexame de prova</b> (Súmula 7 do STJ)</span></li><li>❌ <span class=\"banca\">O MS denegado pelo TJ em única instância é atacável por recurso especial</span><br>✅ <span class=\"certo\">Cabe <b>recurso ordinário</b> ao STJ (CF, art. 105, II, \"b\")</span></li></ol></div>\n<h3>12. Repercussão geral e relevância da questão federal</h3>\n<ul><li><b>Repercussão geral</b> (CF, art. 102, § 3º; CPC, art. 1.035): o STF, em decisão <b>irrecorrível</b>, não conhecerá do recurso extraordinário quando a questão constitucional nele versada <b>não tiver repercussão geral</b>. Para efeito de repercussão geral, será considerada a existência ou não de questões relevantes do ponto de vista <b>econômico, político, social ou jurídico</b> que <b>ultrapassem os interesses subjetivos</b> do processo (§ 1º). Haverá repercussão geral <b>sempre</b> que o recurso impugnar acórdão que: I, <b>contrarie súmula ou jurisprudência dominante</b> do STF; III, tenha reconhecido a <b>inconstitucionalidade de tratado ou de lei federal</b>, nos termos do art. 97 da CF (§ 3º). A recusa exige manifestação de <b>2/3</b> dos membros do STF (CF, art. 102, § 3º).</li><li><b>Efeitos do reconhecimento</b> (art. 1.035, §§ 5º e 9º): reconhecida a repercussão geral, o relator no STF determinará a <b>suspensão</b> do processamento de <b>todos os processos pendentes</b>, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional. O recurso que tiver a repercussão geral reconhecida deverá ser julgado no prazo de <b>1 ano</b> e terá <b>preferência</b> sobre os demais feitos, ressalvados os que envolvam réu preso e os pedidos de habeas corpus.</li><li><b>Relevância da questão federal</b> (CF, art. 105, §§ 2º e 3º, incluídos pela <b>EC 125/2022</b>): no recurso especial, o recorrente deve demonstrar a <b>relevância das questões de direito federal infraconstitucional</b> discutidas no caso, nos termos da lei, a fim de que a admissão do recurso seja examinada pelo Tribunal, o qual somente pode <b>dele não conhecer</b> com base nesse motivo pela manifestação de <b>2/3 dos membros do órgão competente</b> para o julgamento. Haverá <b>relevância presumida</b> nos seguintes casos: I, <b>ações penais</b>; II, ações de <b>improbidade administrativa</b>; III, ações cujo <b>valor da causa ultrapasse 500 salários mínimos</b>; IV, ações que possam gerar <b>inelegibilidade</b>; V, hipóteses em que o acórdão recorrido <b>contrariar jurisprudência dominante do STJ</b>; VI, outras hipóteses previstas em lei.</li><li><b>Lei 15.484/2026</b>: regulamentou o filtro de relevância no CPC, que passou a ser exigido nos recursos especiais interpostos a partir de <b>3 de setembro de 2026</b>, segundo a regra de transição da lei e do regimento do STJ. Na prática, o recorrente deve dedicar um <b>tópico específico</b> à demonstração da relevância (salvo nas hipóteses de presunção), de forma semelhante ao que já faz com a repercussão geral no RE. Para o Procurador Municipal: causas de <b>improbidade</b> e de valor acima de <b>500 salários mínimos</b> têm relevância presumida; nas demais, é preciso demonstrar que a questão transcende o interesse do caso concreto (por exemplo, impacto em várias ações repetitivas contra Municípios).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A decisão que nega repercussão geral é recorrível ao Plenário</span><br>✅ <span class=\"certo\">É <b>irrecorrível</b> (art. 1.035)</span></li><li>❌ <span class=\"banca\">A relevância da questão federal é presumida em qualquer ação contra a Fazenda</span><br>✅ <span class=\"certo\">É presumida em ações <b>penais</b>, de <b>improbidade</b>, de valor acima de <b>500 SM</b>, que gerem <b>inelegibilidade</b>, ou contra <b>jurisprudência dominante do STJ</b></span></li><li>❌ <span class=\"banca\">O STJ pode recusar o recurso especial por falta de relevância por maioria simples</span><br>✅ <span class=\"certo\">Exige <b>2/3</b> dos membros do órgão competente</span></li><li>❌ <span class=\"banca\">A repercussão geral é presumida quando o acórdão declara inconstitucional lei federal</span><br>✅ <span class=\"certo\">Sim (art. 1.035, § 3º, III)</span></li></ol></div>\n<h3>13. Recursos repetitivos e agravo em RE e REsp</h3>\n<ul><li><b>Afetação</b> (art. 1.036): sempre que houver <b>multiplicidade</b> de recursos extraordinários ou especiais com fundamento em <b>idêntica questão de direito</b>, haverá afetação para julgamento como repetitivo. O presidente ou o vice-presidente de tribunal de justiça ou de TRF selecionará <b>2 ou mais recursos representativos</b> da controvérsia, que serão encaminhados ao STF ou ao STJ para fins de afetação, determinando a <b>suspensão</b> do trâmite de todos os processos pendentes, individuais ou coletivos, que tramitem no Estado ou na região. O relator no tribunal superior, ao afetar, determinará a suspensão de todos os processos pendentes que versem sobre a questão em <b>todo o território nacional</b> (art. 1.037, II). Os recursos afetados deverão ser julgados no prazo de <b>1 ano</b> (§ 4º).</li><li><b>Distinção na suspensão</b> (art. 1.037, §§ 9º a 13): demonstrando <b>distinção</b> entre a questão a ser decidida no processo e aquela a ser julgada no recurso repetitivo, a parte poderá requerer o <b>prosseguimento</b> do seu processo. Da decisão que resolver o requerimento caberá <b>agravo de instrumento</b>, se o processo estiver em primeiro grau, ou <b>agravo interno</b>, se a decisão for de relator.</li><li><b>Efeitos da tese</b> (arts. 1.039 e 1.040): publicado o acórdão paradigma, o presidente ou o vice-presidente do tribunal de origem <b>negará seguimento</b> aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior; o órgão que proferiu o acórdão recorrido, na origem, <b>reexaminará</b> o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior (juízo de <b>retratação</b>); os processos suspensos em primeiro e segundo graus de jurisdição <b>retomarão o curso</b> para julgamento e aplicação da tese firmada. Se os recursos versarem sobre questão relativa a <b>prestação de serviço público</b> objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para <b>fiscalização</b> da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada (art. 1.040, IV).</li><li><b>Agravo em RE e REsp</b> (art. 1.042): cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que <b>inadmitir</b> recurso extraordinário ou recurso especial, <b>salvo</b> quando fundada na aplicação de entendimento firmado em regime de <b>repercussão geral</b> ou em julgamento de <b>recursos repetitivos</b>. Nesse último caso, cabe <b>agravo interno</b> para o próprio tribunal de origem (art. 1.030, § 2º). O prazo é de <b>15 dias</b>, e o agravo <b>independe do pagamento de custas</b> e despesas postais. Não cabe agravo do art. 1.042 contra a decisão que aplica a tese repetitiva: interpor o agravo errado é <b>erro grosseiro</b> (sem fungibilidade, segundo o STF e o STJ).</li><li><b>Embargos de divergência</b> (arts. 1.043 e 1.044): é embargável o acórdão de <b>órgão fracionário</b> que, em recurso extraordinário ou em recurso especial, <b>divergir do julgamento de qualquer outro órgão do mesmo tribunal</b>, sendo os acórdãos, embargado e paradigma, de mérito, ou sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia. Poderão ser confrontadas teses jurídicas contidas em julgamentos de recursos e de ações de competência originária. Cabem embargos de divergência quando o acórdão paradigma for da <b>mesma turma</b> que proferiu a decisão embargada, desde que sua composição tenha sofrido alteração em <b>mais da metade</b> de seus membros (§ 3º). A interposição de embargos de divergência no STJ <b>interrompe</b> o prazo para interposição de recurso extraordinário por qualquer das partes (art. 1.044, § 1º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Contra a decisão que inadmite REsp com base em tese repetitiva cabe agravo ao STJ</span><br>✅ <span class=\"certo\">Cabe <b>agravo interno</b> no tribunal de origem (art. 1.030, § 2º)</span></li><li>❌ <span class=\"banca\">O agravo em recurso especial exige preparo</span><br>✅ <span class=\"certo\"><b>Independe</b> de custas (art. 1.042, § 2º)</span></li><li>❌ <span class=\"banca\">A parte não pode pedir o prosseguimento de processo suspenso por repetitivo</span><br>✅ <span class=\"certo\">Pode, demonstrando <b>distinção</b> (art. 1.037, § 9º)</span></li><li>❌ <span class=\"banca\">Embargos de divergência só cabem contra acórdão de outra turma</span><br>✅ <span class=\"certo\">Cabem contra a <b>mesma turma</b> se a composição mudou em <b>mais da metade</b> (art. 1.043, § 3º)</span></li></ol></div>\n<h3>14. Precedentes judiciais (arts. 926 a 928)</h3>\n<ul><li><b>Dever de uniformidade</b> (art. 926): os tribunais devem <b>uniformizar</b> sua jurisprudência e mantê-la <b>estável, íntegra e coerente</b>. Na forma estabelecida e segundo os pressupostos fixados no regimento interno, os tribunais editarão <b>enunciados de súmula</b> correspondentes a sua jurisprudência dominante. Ao editar os enunciados, os tribunais devem ater-se às <b>circunstâncias fáticas dos precedentes</b> que motivaram sua criação.</li></ul>\n<table class=\"tab\"><thead><tr><th>Os juízes e os tribunais observarão (art. 927)</th><th>Exemplos</th></tr></thead><tbody><tr><td>I, as <b>decisões do STF em controle concentrado</b> de constitucionalidade</td><td>ADI, ADC, ADO, ADPF</td></tr><tr><td>II, os enunciados de <b>súmula vinculante</b></td><td>SV 13 (nepotismo)</td></tr><tr><td>III, os acórdãos em <b>IAC</b> ou de <b>IRDR</b> e em julgamento de <b>recursos extraordinário e especial repetitivos</b></td><td>Temas do STF e do STJ</td></tr><tr><td>IV, os enunciados das <b>súmulas do STF em matéria constitucional</b> e do <b>STJ em matéria infraconstitucional</b></td><td>Súmulas do STJ</td></tr><tr><td>V, a <b>orientação do plenário ou do órgão especial</b> aos quais estiverem vinculados</td><td>decisões do órgão especial do TJ</td></tr></tbody></table>\n<ul><li><b>Superação e modulação</b> (art. 927, §§ 2º a 4º): a alteração de tese jurídica adotada em enunciado de súmula ou em julgamento de casos repetitivos poderá ser precedida de <b>audiências públicas</b> e da participação de pessoas, órgãos ou entidades que possam contribuir para a rediscussão da tese. Na hipótese de alteração de jurisprudência dominante do STF e dos tribunais superiores ou daquela oriunda de julgamento de casos repetitivos, pode haver <b>modulação dos efeitos</b> da alteração no interesse social e no da segurança jurídica. A modificação de enunciado de súmula, de jurisprudência pacificada ou de tese adotada em julgamento de casos repetitivos observará a necessidade de <b>fundamentação adequada e específica</b>, considerando os princípios da segurança jurídica, da proteção da confiança e da isonomia.</li><li><b>Vocabulário dos precedentes</b>: <b>ratio decidendi</b> (ou fundamentos determinantes): a razão de decidir, a parte que vincula; <b>obiter dictum</b>: argumento lateral, que não vincula; <b>distinguishing</b>: demonstração de que o caso concreto é diferente do precedente, afastando sua aplicação; <b>overruling</b>: superação total do precedente; <b>overriding</b>: superação parcial, ou por lei (como a Lei 14.939/2024, que superou a jurisprudência do STJ sobre feriado local).</li><li><b>Casos repetitivos</b> (art. 928): considera-se julgamento de casos repetitivos a decisão proferida em <b>IRDR</b> e em <b>recursos especial e extraordinário repetitivos</b>. Pode ter por objeto questão de <b>direito material ou processual</b>.</li></ul>\n<h3>15. Incidente de resolução de demandas repetitivas (IRDR)</h3>\n<ul><li><b>Requisitos</b> (art. 976): é cabível a instauração do IRDR quando houver, <b>simultaneamente</b>: I, <b>efetiva repetição de processos</b> que contenham controvérsia sobre a <b>mesma questão unicamente de direito</b>; II, <b>risco de ofensa à isonomia e à segurança jurídica</b>. A desistência ou o abandono do processo não impede o exame de mérito do incidente (§ 1º). Se não for o requerente, o <b>MP</b> intervirá obrigatoriamente no incidente e deverá assumir sua titularidade em caso de desistência ou de abandono (§ 2º). É <b>incabível</b> o IRDR quando um dos tribunais superiores, no âmbito de sua respectiva competência, já tiver <b>afetado recurso</b> para definição de tese sobre a mesma questão (§ 4º). <b>Não serão exigidas custas</b> processuais (§ 5º).</li><li><b>Legitimidade</b> (art. 977): o pedido de instauração será dirigido ao presidente de tribunal: I, pelo <b>juiz ou relator</b>, por ofício; II, pelas <b>partes</b>, por petição; III, pelo <b>Ministério Público</b> ou pela <b>Defensoria Pública</b>, por petição.</li><li><b>Admissão e suspensão</b> (arts. 981 e 982): admitido o incidente, o relator <b>suspenderá os processos pendentes</b>, individuais ou coletivos, que tramitam no Estado ou na região. O IRDR será julgado no prazo de <b>1 ano</b> e terá preferência sobre os demais feitos, ressalvados os que envolvam réu preso e os pedidos de habeas corpus (art. 980). Superado o prazo, <b>cessa a suspensão</b> dos processos, salvo decisão fundamentada do relator em sentido contrário. Visando à garantia da segurança jurídica, qualquer legitimado poderá requerer ao tribunal competente para conhecer do RE ou do REsp a <b>suspensão de todos os processos</b> em curso no <b>território nacional</b> que versem sobre a questão objeto do incidente já instaurado (art. 982, § 3º).</li><li><b>Aplicação da tese</b> (art. 985): julgado o incidente, a tese jurídica será aplicada: I, a <b>todos os processos</b> individuais ou coletivos que versem sobre idêntica questão de direito e que tramitem na <b>área de jurisdição do respectivo tribunal</b>, inclusive àqueles que tramitem nos <b>juizados especiais</b> do respectivo Estado ou região; II, aos <b>casos futuros</b> que versem idêntica questão de direito e que venham a tramitar no território de competência do tribunal, salvo revisão. <b>Não observada</b> a tese adotada no incidente, caberá <b>reclamação</b> (§ 1º). Se o incidente tiver por objeto questão relativa a <b>prestação de serviço concedido</b>, permitido ou autorizado, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização (§ 2º).</li><li><b>Recursos</b> (art. 987): do julgamento do mérito do incidente caberá <b>recurso extraordinário ou especial</b>, conforme o caso. O recurso tem <b>efeito suspensivo</b>, presumindo-se a <b>repercussão geral</b> de questão constitucional eventualmente discutida. Apreciado o mérito do recurso, a tese jurídica adotada pelo STF ou pelo STJ será aplicada no <b>território nacional</b> a todos os processos individuais ou coletivos que versem sobre idêntica questão de direito.</li><li><b>IAC</b> (art. 947): é admissível a <b>assunção de competência</b> quando o julgamento de recurso, de remessa necessária ou de processo de competência originária envolver <b>relevante questão de direito</b>, com <b>grande repercussão social</b>, <b>sem repetição em múltiplos processos</b>. O acórdão proferido em assunção de competência <b>vinculará</b> todos os juízes e órgãos fracionários, exceto se houver revisão de tese. Diferença para o IRDR: o IAC é para questão relevante <b>sem</b> multiplicidade; o IRDR é para questão <b>com</b> multiplicidade de processos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O IRDR pode versar sobre questão de fato</span><br>✅ <span class=\"certo\">Exige controvérsia sobre questão <b>unicamente de direito</b> (art. 976, I)</span></li><li>❌ <span class=\"banca\">O IRDR exige o pagamento de custas</span><br>✅ <span class=\"certo\"><b>Não serão exigidas custas</b> (art. 976, § 5º)</span></li><li>❌ <span class=\"banca\">A tese do IRDR não se aplica aos Juizados Especiais</span><br>✅ <span class=\"certo\">Aplica-se <b>inclusive</b> aos juizados do Estado ou região (art. 985, I)</span></li><li>❌ <span class=\"banca\">O IAC exige multiplicidade de processos</span><br>✅ <span class=\"certo\">O IAC é para questão relevante <b>sem repetição</b> em múltiplos processos (art. 947)</span></li><li>❌ <span class=\"banca\">Admitido o IRDR, a suspensão dos processos é indefinida</span><br>✅ <span class=\"certo\">O IRDR deve ser julgado em <b>1 ano</b>; superado o prazo, cessa a suspensão, salvo decisão em contrário (art. 980)</span></li></ol></div>\n<h3>16. Reclamação (arts. 988 a 993)</h3>\n<ul><li><b>Hipóteses</b> (art. 988): caberá reclamação da parte interessada ou do Ministério Público para: I, preservar a <b>competência</b> do tribunal; II, garantir a <b>autoridade das decisões</b> do tribunal; III, garantir a observância de enunciado de <b>súmula vinculante</b> e de decisão do STF em <b>controle concentrado</b> de constitucionalidade; IV, garantir a observância de acórdão proferido em julgamento de <b>IRDR</b> ou de <b>IAC</b>.</li><li><b>Inadmissibilidade</b> (§ 5º): é inadmissível a reclamação: I, proposta <b>após o trânsito em julgado</b> da decisão reclamada (Súmula 734 do STF); II, proposta para garantir a observância de acórdão de recurso extraordinário com <b>repercussão geral</b> reconhecida ou de acórdão proferido em julgamento de <b>recursos extraordinário ou especial repetitivos</b>, quando <b>não esgotadas as instâncias ordinárias</b>. O STJ, na Rcl 36.476 (2020), decidiu que <b>não cabe reclamação</b> ao STJ para controlar a aplicação de tese de <b>recurso especial repetitivo</b>, por ausência de previsão após a Lei 13.256/2016 (devendo a parte usar os recursos próprios).</li><li><b>Natureza</b>: a reclamação não é recurso: é <b>ação autônoma</b> de competência originária do tribunal cuja competência ou autoridade se quer preservar. Pode ser proposta perante <b>qualquer tribunal</b> (art. 988, § 1º). Ao despachar a reclamação, o relator poderá ordenar a <b>suspensão do processo</b> ou do ato impugnado para evitar dano irreparável (art. 989, II). Julgando procedente a reclamação, o tribunal <b>cassará</b> a decisão exorbitante de seu julgado ou determinará medida adequada à solução da controvérsia (art. 992).</li><li><b>Administração Pública e súmula vinculante</b> (Lei 11.417/2006, art. 7º): da decisão judicial ou do <b>ato administrativo</b> que contrariar enunciado de súmula vinculante, negar-lhe vigência ou aplicá-lo indevidamente caberá <b>reclamação ao STF</b>. Contra <b>omissão ou ato da administração pública</b>, o uso da reclamação só será admitido após <b>esgotamento das vias administrativas</b> (§ 1º). Exemplo: nomeação de parente do Prefeito para cargo em comissão contrariando a <b>SV 13</b> (nepotismo).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A reclamação é recurso contra decisão que viola súmula</span><br>✅ <span class=\"certo\">É <b>ação autônoma</b> de competência originária</span></li><li>❌ <span class=\"banca\">Cabe reclamação após o trânsito em julgado da decisão reclamada</span><br>✅ <span class=\"certo\">É <b>inadmissível</b> (art. 988, § 5º, I; Súmula 734 do STF)</span></li><li>❌ <span class=\"banca\">Cabe reclamação direta ao STF para aplicar tese de repercussão geral, sem esgotar instâncias</span><br>✅ <span class=\"certo\">Exige <b>esgotamento das instâncias ordinárias</b> (art. 988, § 5º, II)</span></li><li>❌ <span class=\"banca\">Contra ato administrativo que viola súmula vinculante cabe reclamação sem esgotar a via administrativa</span><br>✅ <span class=\"certo\">Exige <b>esgotamento das vias administrativas</b> (Lei 11.417, art. 7º, § 1º)</span></li></ol></div>\n<h3>17. Casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A decisão sobre competência</b><p>Numa ação contra o Município, o juiz rejeitou a preliminar de incompetência absoluta (o Município alegou que a causa deveria tramitar na vara da Fazenda Pública, e não na vara cível). A decisão não está no rol do art. 1.015.</p><details><summary>Ver a solução comentada</summary><p>Pelo <b>Tema 988</b> do STJ (taxatividade mitigada), cabe <b>agravo de instrumento</b> quando houver <b>urgência</b> decorrente da <b>inutilidade</b> do julgamento da questão na apelação. Decisões sobre <b>competência</b> são o exemplo clássico: esperar a apelação significaria processar toda a causa no juízo errado. O Município pode agravar em <b>30 dias úteis</b> (15 em dobro). Se não agravar, a questão <b>não preclui</b>: pode ser suscitada em <b>preliminar de apelação</b> (art. 1.009, § 1º), e a incompetência absoluta pode ser alegada a qualquer tempo.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Apelação sem prova do feriado</b><p>O Município apelou no último dia do prazo, que foi prorrogado por um feriado municipal não comprovado na petição. O relator considerou o recurso intempestivo.</p><details><summary>Ver a solução comentada</summary><p>Pela redação dada ao art. 1.003, § 6º, pela <b>Lei 14.939/2024</b>, o tribunal deve <b>determinar a correção do vício</b> (intimando o Município a comprovar o feriado) ou <b>desconsiderá-lo</b> se a informação já constar do processo eletrônico. Declarar a intempestividade de plano é ilegal. O Município deve interpor <b>agravo interno</b> (art. 1.021), juntando a prova do feriado (por exemplo, a lei municipal que o instituiu).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Embargos de declaração e prequestionamento</b><p>O TJ manteve a condenação do Município sem examinar a alegação de violação ao art. 1º-F da Lei 9.494 (juros e correção). O Município opôs embargos de declaração, rejeitados sem enfrentar o ponto. O Município quer interpor recurso especial.</p><details><summary>Ver a solução comentada</summary><p>Pelo <b>prequestionamento ficto</b> (art. 1.025), consideram-se incluídos no acórdão os elementos suscitados nos embargos, se o STJ entender que havia omissão. No REsp, o Município deve alegar, além da violação à lei federal (mérito), a <b>violação ao art. 1.022</b> do CPC (omissão), para que o STJ reconheça o prequestionamento ficto. Os embargos com propósito de prequestionamento <b>não são protelatórios</b> (Súmula 98 do STJ). A Fazenda está <b>dispensada de preparo</b> e, se houver multa, paga <b>ao final</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Inadmissão de recurso especial com base em repetitivo</b><p>O vice-presidente do TJ negou seguimento ao REsp do Município porque o acórdão recorrido estava de acordo com tese firmada pelo STJ em recurso repetitivo. O procurador interpôs agravo em recurso especial (art. 1.042).</p><details><summary>Ver a solução comentada</summary><p>O recurso correto era o <b>agravo interno</b> para o próprio TJ (art. 1.030, § 2º), porque a decisão aplicou entendimento de <b>repetitivo</b>. O art. 1.042 exclui expressamente essa hipótese. O STF e o STJ consideram <b>erro grosseiro</b>, sem fungibilidade. O Município perderá o recurso. Se o Município entendesse que seu caso é diferente da tese, deveria demonstrar a <b>distinção</b> no agravo interno.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Apelação contra sentença que extinguiu o processo</b><p>O juiz extinguiu, sem resolução de mérito, a ação de cobrança de multa contratual movida pelo Município, por ilegitimidade ativa. O Município apela, e o TJ entende que o Município é parte legítima. Toda a prova documental já está nos autos.</p><details><summary>Ver a solução comentada</summary><p>O TJ deve aplicar a <b>teoria da causa madura</b> (art. 1.013, § 3º, I): reformada a sentença fundada no art. 485 e estando o processo em condições de imediato julgamento, o tribunal <b>decide desde logo o mérito</b>, sem devolver os autos ao primeiro grau. Antes da apelação subir, o juiz poderia ter se <b>retratado</b> em 5 dias (art. 485, § 7º).</p></details></div>\n<h3>18. Questões comentadas</h3>\n<ul><li><b>\"Excetuados os embargos de declaração, o prazo para interpor os recursos e para responder-lhes é de 15 dias.\"</b> Certo: art. 1.003, § 5º.</li><li><b>\"O recorrente que não comprovar o feriado local no ato de interposição terá o recurso considerado intempestivo, sem possibilidade de correção.\"</b> Errado: art. 1.003, § 6º (Lei 14.939/2024).</li><li><b>\"São dispensados de preparo os recursos interpostos pelos Municípios e respectivas autarquias.\"</b> Certo: art. 1.007, § 1º.</li><li><b>\"O recurso adesivo é admissível na apelação, no recurso extraordinário e no recurso especial.\"</b> Certo: art. 997, § 2º, II.</li><li><b>\"As questões resolvidas na fase de conhecimento, se não comportarem agravo de instrumento, são cobertas pela preclusão.\"</b> Errado: art. 1.009, § 1º.</li><li><b>\"Compete ao juiz de primeiro grau o juízo de admissibilidade da apelação.\"</b> Errado: os autos sobem independentemente de juízo de admissibilidade (art. 1.010, § 3º).</li><li><b>\"O rol do art. 1.015 é de taxatividade mitigada, admitindo agravo de instrumento quando verificada urgência decorrente da inutilidade do julgamento na apelação.\"</b> Certo: Tema 988 do STJ.</li><li><b>\"Os embargos de declaração suspendem o prazo para a interposição de outros recursos.\"</b> Errado: <b>interrompem</b> (art. 1.026).</li><li><b>\"Quando o agravo interno for declarado manifestamente inadmissível em votação unânime, o agravante será condenado a pagar multa entre 1% e 5% do valor atualizado da causa.\"</b> Certo: art. 1.021, § 4º.</li><li><b>\"A técnica de ampliação do colegiado aplica-se à remessa necessária.\"</b> Errado: art. 942, § 4º, II.</li><li><b>\"No recurso especial, haverá relevância presumida nas ações cujo valor da causa ultrapasse 500 salários mínimos.\"</b> Certo: CF, art. 105, § 3º, III.</li><li><b>\"Cabe agravo em recurso especial contra decisão que inadmite o recurso com base em tese firmada em recurso repetitivo.\"</b> Errado: cabe <b>agravo interno</b> (art. 1.030, § 2º; art. 1.042).</li><li><b>\"É cabível IRDR quando houver efetiva repetição de processos sobre a mesma questão unicamente de direito e risco de ofensa à isonomia e à segurança jurídica.\"</b> Certo: art. 976.</li><li><b>\"É inadmissível a reclamação proposta após o trânsito em julgado da decisão reclamada.\"</b> Certo: art. 988, § 5º, I.</li></ul>\n<h3>19. Como as bancas cobram este tópico</h3>\n<ul><li><b>Prazos</b>: 15 dias (todos os recursos e respostas), 5 dias (ED; manifestação nos ED com efeito modificativo; complementação de preparo; correção de vício pelo relator; complementar razões quando ED vira agravo interno), 3 dias (juntada da cópia do agravo em autos físicos), 1 ano (IRDR, repetitivos e repercussão geral), 15 minutos (sustentação oral).</li><li><b>Multas</b>: ED protelatórios (2% e 10%), agravo interno (1% a 5%), depósito prévio com exceção da Fazenda e do beneficiário de gratuidade.</li><li><b>Rol do art. 1.015</b> e Tema 988; <b>fases sem restrição</b> do parágrafo único.</li><li><b>Efeito suspensivo</b>: regra (art. 995), apelação (art. 1.012 e exceções), ED (não têm).</li><li><b>Filtros</b>: repercussão geral (2/3; presunções do art. 1.035, § 3º) e relevância da questão federal (EC 125/2022, presunções, Lei 15.484/2026).</li><li><b>Precedentes</b>: art. 927, IRDR x IAC, reclamação e suas hipóteses de inadmissibilidade.</li><li><b>Fazenda</b>: prazo em dobro, dispensa de preparo, multa paga ao final, remessa necessária (não é recurso; não admite ampliação do colegiado), recurso ordinário no MS denegado pelo TJ.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para não confundir os agravos contra a inadmissão de RE ou REsp: se a decisão do tribunal de origem aplicou <b>tese vinculante</b> (repercussão geral ou repetitivo), o recurso fica <b>\"em casa\"</b>: <b>agravo interno</b> no próprio tribunal. Se inadmitiu por qualquer <b>outro motivo</b> (intempestividade, Súmula 7, falta de prequestionamento), o recurso <b>\"sobe\"</b>: <b>agravo em RE ou REsp</b> (art. 1.042).</div>\n<h3>20. Sucedâneos recursais e ações autônomas de impugnação</h3>\n<ul><li><b>Mandado de segurança contra ato judicial</b>: é admitido de forma <b>excepcional</b>. <b>Súmula 267 do STF</b>: \"Não cabe mandado de segurança contra ato judicial passível de recurso ou correição.\" <b>Súmula 268 do STF</b>: \"Não cabe mandado de segurança contra decisão judicial com trânsito em julgado.\" A Lei 12.016 (art. 5º, II e III) repete: não se concederá MS quando se tratar de decisão judicial da qual caiba <b>recurso com efeito suspensivo</b>, nem de decisão judicial <b>transitada em julgado</b>. Na prática, o MS contra ato judicial cabe contra decisão <b>teratológica</b> ou manifestamente ilegal, sem recurso eficaz; também é usado por <b>terceiro</b> prejudicado que não foi parte (Súmula 202 do STJ: \"A impetração de segurança por terceiro, contra ato judicial, não se condiciona a interposição de recurso\"). Nos Juizados Especiais, o STF entende que <b>não cabe</b> MS contra decisões interlocutórias (RE 576.847), por opção do legislador pela irrecorribilidade.</li><li><b>Correição parcial</b>: medida administrativa prevista em leis de organização judiciária e regimentos para corrigir <b>erro de procedimento</b> (<i>error in procedendo</i>) que cause tumulto processual, quando não houver recurso específico. Tem uso residual no processo civil atual.</li><li><b>Pedido de reconsideração</b>: não é recurso, <b>não interrompe nem suspende</b> prazo recursal. Quem pede reconsideração e perde o prazo do agravo perde o recurso.</li><li><b>Querela nullitatis</b>: ação declaratória de <b>inexistência</b> da sentença proferida em processo sem citação (ou com citação nula) do réu revel. Não tem prazo e pode ser proposta no <b>juízo de primeiro grau</b> que proferiu a sentença (não é de competência originária de tribunal, ao contrário da rescisória).</li><li><b>Ação rescisória</b>: ação autônoma de competência originária dos tribunais para desconstituir decisão de mérito transitada em julgado, nas hipóteses do art. 966, no prazo de 2 anos (estudada no tópico de procedimento comum).</li></ul>\n<table class=\"tab\"><thead><tr><th>Instrumento</th><th>Natureza</th><th>Quando usar</th></tr></thead><tbody><tr><td><b>Recursos</b> (art. 994)</td><td>prolongam o mesmo processo</td><td>contra decisões ainda não transitadas, nos prazos legais</td></tr><tr><td><b>Remessa necessária</b> (art. 496)</td><td>condição de eficácia (sucedâneo)</td><td>sentenças contra a Fazenda, de ofício</td></tr><tr><td><b>Suspensão de liminar e de segurança</b> (Lei 8.437, art. 4º; Lei 12.016, art. 15)</td><td>incidente (sucedâneo)</td><td>risco de grave lesão a bens públicos</td></tr><tr><td><b>Mandado de segurança contra ato judicial</b></td><td>ação autônoma</td><td>decisão teratológica sem recurso com efeito suspensivo; terceiro prejudicado</td></tr><tr><td><b>Reclamação</b> (art. 988)</td><td>ação autônoma</td><td>preservar competência ou autoridade de decisões e precedentes</td></tr><tr><td><b>Ação rescisória</b> (art. 966)</td><td>ação autônoma</td><td>decisão de mérito transitada, em 2 anos</td></tr><tr><td><b>Querela nullitatis</b></td><td>ação autônoma</td><td>sentença sem citação do revel, sem prazo</td></tr></tbody></table>\n<h3>21. Prazos recursais em leis especiais</h3>\n<ul><li><b>Juizados Especiais Cíveis e da Fazenda Pública</b>: o <b>recurso inominado</b> contra a sentença é interposto no prazo de <b>10 dias</b> (Lei 9.099, art. 42), contados em <b>dias úteis</b> (art. 12-A), para a <b>Turma Recursal</b>. Os <b>embargos de declaração</b> nos Juizados são opostos em <b>5 dias</b> e, desde o CPC/2015, <b>interrompem</b> o prazo para recurso (Lei 9.099, art. 50, com redação dada pelo CPC). Nos Juizados da Fazenda, <b>não há prazo diferenciado</b> para a Fazenda (Lei 12.153, art. 7º). Contra o acórdão da Turma Recursal cabe <b>recurso extraordinário</b> (questão constitucional) e <b>pedido de uniformização</b> (Lei 12.153, arts. 18 e 19), mas <b>não</b> recurso especial (Súmula 203 do STJ).</li><li><b>Execução fiscal</b> (Lei 6.830, art. 34): das sentenças de primeira instância proferidas em execuções de valor igual ou inferior a <b>50 ORTN</b> (valor atualizado periodicamente; o STJ, no Tema 395, fixou a forma de atualização, que gira hoje em torno de R$ 1.300), só se admitirão <b>embargos infringentes</b> e de <b>declaração</b>. Os embargos infringentes são julgados pelo <b>próprio juízo</b> que proferiu a sentença, no prazo de <b>10 dias</b>. O STF (Tema 408) declarou constitucional esse regime recursal restrito. Contra a decisão nos embargos infringentes, cabe apenas <b>recurso extraordinário</b>, se houver questão constitucional (Súmula 640 do STF).</li><li><b>Estatuto da Criança e do Adolescente</b> (art. 198, II): nos procedimentos afetos à Justiça da Infância e da Juventude, adota-se o sistema recursal do CPC, mas o prazo para o MP e para a defesa, em todos os recursos, <b>salvo os embargos de declaração</b>, será sempre de <b>10 dias</b>, e os prazos são contados em <b>dias corridos</b>, vedado o prazo em dobro para a Fazenda e o MP (art. 152, § 2º, do ECA, incluído pela Lei 13.509/2017).</li><li><b>Mandado de segurança</b>: da sentença cabe <b>apelação</b> (15 dias); da decisão sobre a liminar, <b>agravo de instrumento</b>; nos casos de competência originária de tribunal, da decisão do relator sobre a liminar cabe <b>agravo interno</b> (Lei 12.016, art. 16, parágrafo único). <b>Não cabem embargos infringentes</b> (Lei 12.016, art. 25) nem condenação em <b>honorários</b> (art. 25; Súmula 512 do STF e Súmula 105 do STJ).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O pedido de reconsideração interrompe o prazo do agravo</span><br>✅ <span class=\"certo\"><b>Não interrompe</b> nem suspende</span></li><li>❌ <span class=\"banca\">Cabe mandado de segurança contra decisão judicial transitada em julgado</span><br>✅ <span class=\"certo\"><b>Não cabe</b> (Súmula 268 do STF; Lei 12.016, art. 5º, III)</span></li><li>❌ <span class=\"banca\">O recurso inominado dos Juizados tem prazo de 15 dias</span><br>✅ <span class=\"certo\">São <b>10 dias</b> (Lei 9.099, art. 42)</span></li><li>❌ <span class=\"banca\">Nas execuções fiscais de pequeno valor, cabe apelação ao TJ</span><br>✅ <span class=\"certo\">Cabem <b>embargos infringentes</b> ao próprio juízo, em <b>10 dias</b> (Lei 6.830, art. 34)</span></li><li>❌ <span class=\"banca\">Nos recursos do ECA, a Fazenda tem prazo em dobro</span><br>✅ <span class=\"certo\">É <b>vedado</b> o prazo em dobro; os prazos são de <b>10 dias corridos</b> (ECA, arts. 152, § 2º, e 198, II)</span></li></ol></div>",
+"quiz": [
+{
+"p": "São cabíveis no CPC a apelação, o agravo de instrumento, o agravo interno, os embargos de declaração, o recurso ordinário, o recurso especial, o recurso extraordinário, o agravo em RE e REsp e os embargos de divergência.",
+"c": true,
+"prof": "CPC, art. 994.",
+"x": "Rol.",
+"e": "Taxatividade"
+},
+{
+"p": "O CPC/2015 manteve os embargos infringentes contra acórdão não unânime.",
+"c": false,
+"prof": "CPC, art. 942.",
+"x": "Ampliação do colegiado.",
+"e": "Infringentes"
+},
+{
+"p": "Os embargos infringentes de alçada da Lei de Execução Fiscal continuam previstos em lei especial.",
+"c": true,
+"prof": "Lei 6.830, art. 34.",
+"x": "Lei especial.",
+"e": "Alçada"
+},
+{
+"p": "A fungibilidade recursal exige dúvida objetiva e ausência de erro grosseiro.",
+"c": true,
+"prof": "Doutrina e jurisprudência.",
+"x": "Fungibilidade.",
+"e": "Fungibilidade"
+},
+{
+"p": "O órgão julgador conhecerá dos embargos de declaração como agravo interno se este for o recurso cabível, intimando o recorrente para complementar as razões.",
+"c": true,
+"prof": "CPC, art. 1.024, § 3º.",
+"x": "Fungibilidade.",
+"e": "Fungibilidade"
+},
+{
+"p": "O recurso pode ser interposto pelo terceiro prejudicado e pelo Ministério Público.",
+"c": true,
+"prof": "CPC, art. 996.",
+"x": "Legitimidade.",
+"e": "Legitimidade"
+},
+{
+"p": "O recorrente pode desistir do recurso a qualquer tempo, sem a anuência do recorrido.",
+"c": true,
+"prof": "CPC, art. 998.",
+"x": "Desistência.",
+"e": "Desistência"
+},
+{
+"p": "A desistência do recurso não impede a análise de questão com repercussão geral reconhecida.",
+"c": true,
+"prof": "CPC, art. 998, parágrafo único.",
+"x": "Interesse público.",
+"e": "Desistência"
+},
+{
+"p": "A parte que aceitar expressa ou tacitamente a decisão não poderá recorrer.",
+"c": true,
+"prof": "CPC, art. 1.000.",
+"x": "Aquiescência.",
+"e": "Aquiescência"
+},
+{
+"p": "O recurso adesivo é cabível no agravo de instrumento.",
+"c": false,
+"prof": "CPC, art. 997, § 2º, II.",
+"x": "Apelação, RE e REsp.",
+"e": "Adesivo"
+},
+{
+"p": "O recurso adesivo não será conhecido se houver desistência do recurso principal.",
+"c": true,
+"prof": "CPC, art. 997, § 2º, III.",
+"x": "Subordinação.",
+"e": "Adesivo"
+},
+{
+"p": "O recurso adesivo é interposto no prazo de que a parte dispõe para responder.",
+"c": true,
+"prof": "CPC, art. 997, § 2º, I.",
+"x": "Prazo.",
+"e": "Adesivo"
+},
+{
+"p": "Excetuados os embargos de declaração, o prazo para interpor e responder aos recursos é de 15 dias.",
+"c": true,
+"prof": "CPC, art. 1.003, § 5º.",
+"x": "15 dias.",
+"e": "Prazo"
+},
+{
+"p": "Para o recurso enviado pelo correio, considera-se como data de interposição a data de postagem.",
+"c": true,
+"prof": "CPC, art. 1.003, § 4º.",
+"x": "Postagem.",
+"e": "Correio"
+},
+{
+"p": "Após a Lei 14.939/2024, se o recorrente não comprovar o feriado local na interposição, o tribunal determinará a correção do vício ou o desconsiderará se a informação constar do processo eletrônico.",
+"c": true,
+"prof": "CPC, art. 1.003, § 6º.",
+"x": "Feriado local.",
+"e": "Feriado"
+},
+{
+"p": "São dispensados de preparo os recursos interpostos pelos Municípios e suas autarquias.",
+"c": true,
+"prof": "CPC, art. 1.007, § 1º.",
+"x": "Dispensa.",
+"e": "Preparo"
+},
+{
+"p": "A insuficiência no valor do preparo implicará deserção se o recorrente não a suprir em 5 dias.",
+"c": true,
+"prof": "CPC, art. 1.007, § 2º.",
+"x": "Complementação.",
+"e": "Preparo"
+},
+{
+"p": "O recorrente que não comprovar o preparo na interposição será intimado a recolhê-lo em dobro.",
+"c": true,
+"prof": "CPC, art. 1.007, § 4º.",
+"x": "Dobro.",
+"e": "Preparo"
+},
+{
+"p": "O equívoco no preenchimento da guia de custas não implica deserção.",
+"c": true,
+"prof": "CPC, art. 1.007, § 7º.",
+"x": "Guia.",
+"e": "Preparo"
+},
+{
+"p": "É dispensado o porte de remessa e retorno nos processos em autos eletrônicos.",
+"c": true,
+"prof": "CPC, art. 1.007, § 3º.",
+"x": "Eletrônico.",
+"e": "Porte"
+},
+{
+"p": "O recurso interposto por um dos litisconsortes a todos aproveita, salvo se distintos ou opostos os seus interesses.",
+"c": true,
+"prof": "CPC, art. 1.005.",
+"x": "Expansivo.",
+"e": "Litisconsortes"
+},
+{
+"p": "O julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso.",
+"c": true,
+"prof": "CPC, art. 1.008.",
+"x": "Substitutivo.",
+"e": "Efeito substitutivo"
+},
+{
+"p": "O relator negará provimento a recurso contrário a súmula do STF, do STJ ou do próprio tribunal.",
+"c": true,
+"prof": "CPC, art. 932, IV, a.",
+"x": "Monocrática.",
+"e": "Relator"
+},
+{
+"p": "Antes de considerar inadmissível o recurso, o relator concederá 5 dias para sanar o vício.",
+"c": true,
+"prof": "CPC, art. 932, parágrafo único.",
+"x": "Primazia.",
+"e": "Relator"
+},
+{
+"p": "Cabe sustentação oral no agravo de instrumento interposto contra decisão sobre tutela provisória.",
+"c": true,
+"prof": "CPC, art. 937, VIII.",
+"x": "Sustentação.",
+"e": "Sustentação"
+},
+{
+"p": "Quando o resultado da apelação for não unânime, o julgamento prossegue com outros julgadores em número suficiente para inverter o resultado.",
+"c": true,
+"prof": "CPC, art. 942.",
+"x": "Ampliação.",
+"e": "Art. 942"
+},
+{
+"p": "A técnica de ampliação aplica-se ao agravo de instrumento quando houver reforma da decisão que julgar parcialmente o mérito.",
+"c": true,
+"prof": "CPC, art. 942, § 3º, II.",
+"x": "Agravo.",
+"e": "Art. 942"
+},
+{
+"p": "A técnica de ampliação do colegiado aplica-se à remessa necessária.",
+"c": false,
+"prof": "CPC, art. 942, § 4º, II.",
+"x": "Não se aplica.",
+"e": "Art. 942"
+},
+{
+"p": "Os julgadores que já tiverem votado poderão rever seus votos no prosseguimento do julgamento ampliado.",
+"c": true,
+"prof": "CPC, art. 942, § 2º.",
+"x": "Revisão.",
+"e": "Art. 942"
+},
+{
+"p": "As questões da fase de conhecimento não agraváveis não precluem e devem ser suscitadas em preliminar de apelação ou contrarrazões.",
+"c": true,
+"prof": "CPC, art. 1.009, § 1º.",
+"x": "Preliminar.",
+"e": "Apelação"
+},
+{
+"p": "Suscitadas questões nas contrarrazões, o recorrente será intimado para se manifestar em 15 dias.",
+"c": true,
+"prof": "CPC, art. 1.009, § 2º.",
+"x": "Contraditório.",
+"e": "Contrarrazões"
+},
+{
+"p": "Na apelação, os autos são remetidos ao tribunal independentemente de juízo de admissibilidade.",
+"c": true,
+"prof": "CPC, art. 1.010, § 3º.",
+"x": "Admissibilidade.",
+"e": "Apelação"
+},
+{
+"p": "Começa a produzir efeitos imediatamente a sentença que condena a pagar alimentos.",
+"c": true,
+"prof": "CPC, art. 1.012, § 1º, II.",
+"x": "Sem efeito suspensivo.",
+"e": "Efeito suspensivo"
+},
+{
+"p": "Começa a produzir efeitos imediatamente a sentença que julga improcedentes os embargos do executado.",
+"c": true,
+"prof": "CPC, art. 1.012, § 1º, III.",
+"x": "Embargos.",
+"e": "Efeito suspensivo"
+},
+{
+"p": "Reformada sentença sem resolução de mérito e estando a causa em condições de imediato julgamento, o tribunal decidirá desde logo o mérito.",
+"c": true,
+"prof": "CPC, art. 1.013, § 3º, I.",
+"x": "Causa madura.",
+"e": "Causa madura"
+},
+{
+"p": "Reformada sentença que reconheceu prescrição, o tribunal, se possível, julgará o mérito sem determinar o retorno dos autos.",
+"c": true,
+"prof": "CPC, art. 1.013, § 4º.",
+"x": "Prescrição.",
+"e": "Causa madura"
+},
+{
+"p": "Questões de fato não propostas no juízo inferior podem ser suscitadas na apelação se a parte provar força maior.",
+"c": true,
+"prof": "CPC, art. 1.014.",
+"x": "Força maior.",
+"e": "Fato novo"
+},
+{
+"p": "Cabe agravo de instrumento contra decisão que versa sobre tutelas provisórias.",
+"c": true,
+"prof": "CPC, art. 1.015, I.",
+"x": "Rol.",
+"e": "Agravo"
+},
+{
+"p": "Cabe agravo de instrumento contra decisão que redistribui o ônus da prova.",
+"c": true,
+"prof": "CPC, art. 1.015, XI.",
+"x": "Ônus.",
+"e": "Agravo"
+},
+{
+"p": "Cabe agravo de instrumento contra todas as interlocutórias proferidas no cumprimento de sentença e no processo de execução.",
+"c": true,
+"prof": "CPC, art. 1.015, parágrafo único.",
+"x": "Sem restrição.",
+"e": "Execução"
+},
+{
+"p": "Segundo o STJ, o rol do art. 1.015 é de taxatividade mitigada, admitindo agravo quando a questão não puder aguardar a apelação.",
+"c": true,
+"prof": "Tema 988 do STJ.",
+"x": "Urgência.",
+"e": "Tema 988"
+},
+{
+"p": "Sendo eletrônicos os autos, dispensam-se as peças obrigatórias na formação do agravo de instrumento.",
+"c": true,
+"prof": "CPC, art. 1.017, § 5º.",
+"x": "Eletrônico.",
+"e": "Peças"
+},
+{
+"p": "Nos autos físicos, a falta de juntada da cópia do agravo no primeiro grau em 3 dias importa inadmissibilidade, se arguida e provada pelo agravado.",
+"c": true,
+"prof": "CPC, art. 1.018, §§ 2º e 3º.",
+"x": "Arguição.",
+"e": "Juntada"
+},
+{
+"p": "Se o juiz comunicar que reformou inteiramente a decisão, o relator considerará prejudicado o agravo de instrumento.",
+"c": true,
+"prof": "CPC, art. 1.018, § 1º.",
+"x": "Retratação.",
+"e": "Prejudicado"
+},
+{
+"p": "Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado.",
+"c": true,
+"prof": "CPC, art. 1.021.",
+"x": "Agravo interno.",
+"e": "Agravo interno"
+},
+{
+"p": "É vedado ao relator limitar-se à reprodução dos fundamentos da decisão agravada para julgar improcedente o agravo interno.",
+"c": true,
+"prof": "CPC, art. 1.021, § 3º.",
+"x": "Fundamentação.",
+"e": "Agravo interno"
+},
+{
+"p": "O agravo interno manifestamente inadmissível ou improcedente em votação unânime sujeita o agravante a multa de 1% a 5% do valor atualizado da causa.",
+"c": true,
+"prof": "CPC, art. 1.021, § 4º.",
+"x": "Multa.",
+"e": "Multa"
+},
+{
+"p": "A Fazenda Pública não precisa depositar previamente a multa do agravo interno para recorrer, pagando-a ao final.",
+"c": true,
+"prof": "CPC, art. 1.021, § 5º.",
+"x": "Fazenda.",
+"e": "Multa"
+},
+{
+"p": "Cabem embargos de declaração contra qualquer decisão judicial para corrigir erro material.",
+"c": true,
+"prof": "CPC, art. 1.022, III.",
+"x": "Erro material.",
+"e": "ED"
+},
+{
+"p": "Considera-se omissa a decisão que deixa de se manifestar sobre tese firmada em casos repetitivos aplicável ao caso.",
+"c": true,
+"prof": "CPC, art. 1.022, parágrafo único, I.",
+"x": "Omissão.",
+"e": "ED"
+},
+{
+"p": "Os embargos de declaração são opostos em 5 dias e não se sujeitam a preparo.",
+"c": true,
+"prof": "CPC, art. 1.023.",
+"x": "Prazo.",
+"e": "ED"
+},
+{
+"p": "O embargado será intimado para se manifestar em 5 dias quando o acolhimento dos embargos implicar modificação da decisão.",
+"c": true,
+"prof": "CPC, art. 1.023, § 2º.",
+"x": "Efeitos infringentes.",
+"e": "ED"
+},
+{
+"p": "Rejeitados os embargos de declaração, o recurso já interposto pela outra parte será julgado independentemente de ratificação.",
+"c": true,
+"prof": "CPC, art. 1.024, § 5º.",
+"x": "Ratificação.",
+"e": "ED"
+},
+{
+"p": "Consideram-se incluídos no acórdão os elementos suscitados nos embargos de declaração para fins de prequestionamento, ainda que rejeitados, se o tribunal superior considerar existente o vício.",
+"c": true,
+"prof": "CPC, art. 1.025.",
+"x": "Prequestionamento ficto.",
+"e": "Prequestionamento"
+},
+{
+"p": "Os embargos de declaração interrompem o prazo para a interposição de recurso.",
+"c": true,
+"prof": "CPC, art. 1.026.",
+"x": "Interrupção.",
+"e": "ED"
+},
+{
+"p": "Embargos de declaração manifestamente protelatórios sujeitam o embargante a multa de até 2% do valor atualizado da causa.",
+"c": true,
+"prof": "CPC, art. 1.026, § 2º.",
+"x": "Multa.",
+"e": "ED protelatórios"
+},
+{
+"p": "Não serão admitidos novos embargos de declaração se os dois anteriores tiverem sido considerados protelatórios.",
+"c": true,
+"prof": "CPC, art. 1.026, § 4º.",
+"x": "Vedação.",
+"e": "ED protelatórios"
+},
+{
+"p": "Embargos de declaração com notório propósito de prequestionamento não têm caráter protelatório.",
+"c": true,
+"prof": "Súmula 98 do STJ.",
+"x": "Prequestionamento.",
+"e": "Súmula 98"
+},
+{
+"p": "Cabe recurso ordinário ao STJ contra mandado de segurança decidido em única instância pelo TJ, quando denegatória a decisão.",
+"c": true,
+"prof": "CF, art. 105, II, b.",
+"x": "ROC.",
+"e": "ROC"
+},
+{
+"p": "Cabe recurso especial contra acórdão de turma recursal dos Juizados Especiais.",
+"c": false,
+"prof": "Súmula 203 do STJ.",
+"x": "Não cabe.",
+"e": "Turma recursal"
+},
+{
+"p": "Cabe recurso extraordinário contra decisão que julga válida lei local contestada em face de lei federal.",
+"c": true,
+"prof": "CF, art. 102, III, d.",
+"x": "EC 45/2004.",
+"e": "Lei local"
+},
+{
+"p": "A pretensão de simples reexame de prova não enseja recurso especial.",
+"c": true,
+"prof": "Súmula 7 do STJ.",
+"x": "Fatos.",
+"e": "Súmula 7"
+},
+{
+"p": "O STF pode recusar a repercussão geral pela manifestação de dois terços de seus membros.",
+"c": true,
+"prof": "CF, art. 102, § 3º.",
+"x": "2/3.",
+"e": "Repercussão geral"
+},
+{
+"p": "Haverá repercussão geral sempre que o acórdão recorrido contrariar súmula ou jurisprudência dominante do STF.",
+"c": true,
+"prof": "CPC, art. 1.035, § 3º, I.",
+"x": "Presunção.",
+"e": "Repercussão geral"
+},
+{
+"p": "A EC 125/2022 criou o requisito da relevância das questões de direito federal no recurso especial.",
+"c": true,
+"prof": "CF, art. 105, § 2º.",
+"x": "Relevância.",
+"e": "Relevância"
+},
+{
+"p": "A relevância da questão federal é presumida nas ações de improbidade administrativa.",
+"c": true,
+"prof": "CF, art. 105, § 3º, II.",
+"x": "Presunção.",
+"e": "Relevância"
+},
+{
+"p": "O STJ só pode deixar de conhecer do recurso especial por falta de relevância pela manifestação de 2/3 dos membros do órgão competente.",
+"c": true,
+"prof": "CF, art. 105, § 2º.",
+"x": "Quórum.",
+"e": "Relevância"
+},
+{
+"p": "O relator que entender que o recurso especial versa sobre questão constitucional concederá 15 dias para o recorrente demonstrar a repercussão geral e o remeterá ao STF.",
+"c": true,
+"prof": "CPC, art. 1.032.",
+"x": "Fungibilidade.",
+"e": "RE e REsp"
+},
+{
+"p": "Reconhecida a repercussão geral, o relator determinará a suspensão de todos os processos que versem sobre a questão no território nacional.",
+"c": true,
+"prof": "CPC, art. 1.035, § 5º.",
+"x": "Suspensão.",
+"e": "Repercussão geral"
+},
+{
+"p": "A parte pode requerer o prosseguimento do processo suspenso demonstrando distinção em relação ao repetitivo.",
+"c": true,
+"prof": "CPC, art. 1.037, § 9º.",
+"x": "Distinção.",
+"e": "Repetitivos"
+},
+{
+"p": "Cabe agravo interno contra decisão que nega seguimento a recurso especial com base em tese firmada em recurso repetitivo.",
+"c": true,
+"prof": "CPC, art. 1.030, § 2º.",
+"x": "Agravo interno.",
+"e": "Inadmissão"
+},
+{
+"p": "Cabe agravo em recurso especial contra decisão que inadmite o recurso com base em entendimento firmado em recurso repetitivo.",
+"c": false,
+"prof": "CPC, art. 1.042.",
+"x": "Exceção.",
+"e": "Agravo em REsp"
+},
+{
+"p": "O agravo em recurso especial independe do pagamento de custas.",
+"c": true,
+"prof": "CPC, art. 1.042, § 2º.",
+"x": "Sem custas.",
+"e": "Agravo em REsp"
+},
+{
+"p": "Cabem embargos de divergência quando o paradigma for da mesma turma, se sua composição tiver mudado em mais da metade.",
+"c": true,
+"prof": "CPC, art. 1.043, § 3º.",
+"x": "Mesma turma.",
+"e": "Divergência"
+},
+{
+"p": "Os juízes e tribunais observarão as decisões do STF em controle concentrado e os enunciados de súmula vinculante.",
+"c": true,
+"prof": "CPC, art. 927, I e II.",
+"x": "Precedentes.",
+"e": "Art. 927"
+},
+{
+"p": "Na alteração de jurisprudência dominante, pode haver modulação dos efeitos no interesse social e da segurança jurídica.",
+"c": true,
+"prof": "CPC, art. 927, § 3º.",
+"x": "Modulação.",
+"e": "Modulação"
+},
+{
+"p": "É cabível IRDR quando houver efetiva repetição de processos sobre a mesma questão unicamente de direito e risco à isonomia e à segurança jurídica.",
+"c": true,
+"prof": "CPC, art. 976.",
+"x": "IRDR.",
+"e": "IRDR"
+},
+{
+"p": "No IRDR exige-se o pagamento de custas processuais.",
+"c": false,
+"prof": "CPC, art. 976, § 5º.",
+"x": "Isento.",
+"e": "IRDR"
+},
+{
+"p": "O MP intervirá obrigatoriamente no IRDR e assumirá sua titularidade em caso de desistência ou abandono.",
+"c": true,
+"prof": "CPC, art. 976, § 2º.",
+"x": "MP.",
+"e": "IRDR"
+},
+{
+"p": "O IRDR será julgado em 1 ano, com preferência sobre os demais feitos, salvo réu preso e habeas corpus.",
+"c": true,
+"prof": "CPC, art. 980.",
+"x": "1 ano.",
+"e": "IRDR"
+},
+{
+"p": "A tese do IRDR aplica-se inclusive aos processos dos juizados especiais do respectivo Estado ou região.",
+"c": true,
+"prof": "CPC, art. 985, I.",
+"x": "Juizados.",
+"e": "IRDR"
+},
+{
+"p": "Do julgamento do mérito do IRDR cabe recurso extraordinário ou especial com efeito suspensivo.",
+"c": true,
+"prof": "CPC, art. 987.",
+"x": "Recurso.",
+"e": "IRDR"
+},
+{
+"p": "A assunção de competência cabe para relevante questão de direito, com grande repercussão social, sem repetição em múltiplos processos.",
+"c": true,
+"prof": "CPC, art. 947.",
+"x": "IAC.",
+"e": "IAC"
+},
+{
+"p": "Cabe reclamação para garantir a observância de acórdão proferido em IRDR ou IAC.",
+"c": true,
+"prof": "CPC, art. 988, IV.",
+"x": "Reclamação.",
+"e": "Reclamação"
+},
+{
+"p": "É inadmissível a reclamação proposta após o trânsito em julgado da decisão reclamada.",
+"c": true,
+"prof": "CPC, art. 988, § 5º, I.",
+"x": "Súmula 734.",
+"e": "Reclamação"
+},
+{
+"p": "Contra ato administrativo que contrarie súmula vinculante, a reclamação ao STF só é admitida após esgotamento das vias administrativas.",
+"c": true,
+"prof": "Lei 11.417, art. 7º, § 1º.",
+"x": "Administração.",
+"e": "Súmula vinculante"
+},
+{
+"p": "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição.",
+"c": true,
+"prof": "Súmula 267 do STF.",
+"x": "MS contra ato judicial.",
+"e": "MS"
+},
+{
+"p": "A impetração de segurança por terceiro contra ato judicial não se condiciona à interposição de recurso.",
+"c": true,
+"prof": "Súmula 202 do STJ.",
+"x": "Terceiro.",
+"e": "MS"
+},
+{
+"p": "O pedido de reconsideração interrompe o prazo para interposição do agravo de instrumento.",
+"c": false,
+"prof": "Jurisprudência.",
+"x": "Não interrompe.",
+"e": "Reconsideração"
+},
+{
+"p": "Nas execuções fiscais de valor igual ou inferior a 50 ORTN, só se admitem embargos infringentes e de declaração contra a sentença.",
+"c": true,
+"prof": "Lei 6.830, art. 34.",
+"x": "Alçada.",
+"e": "Alçada"
+},
+{
+"p": "No mandado de segurança não cabe condenação ao pagamento de honorários advocatícios.",
+"c": true,
+"prof": "Lei 12.016, art. 25.",
+"x": "Honorários.",
+"e": "MS"
+},
+{
+"p": "Após a Lei 14.939/2024, quando o recorrente não comprova o feriado local no ato de interposição do recurso,",
+"alts": [
+"o recurso é considerado intempestivo, sem possibilidade de correção",
+"o recurso é automaticamente conhecido",
+"o tribunal determina a correção do vício formal ou o desconsidera se a informação já constar do processo eletrônico",
+"o recorrente paga multa",
+"o prazo é reaberto integralmente"
+],
+"r": 2,
+"x": "Art. 1.003, § 6º.",
+"n": [
+"Superado.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Feriado local."
+},
+{
+"p": "Quanto ao preparo, é correto afirmar:",
+"alts": [
+"os Municípios devem recolher preparo em dobro",
+"o recorrente que não comprovar o preparo na interposição será intimado a recolhê-lo em dobro, sob pena de deserção",
+"o erro no preenchimento da guia gera deserção",
+"a insuficiência do preparo gera deserção imediata",
+"o porte de remessa é exigido nos autos eletrônicos"
+],
+"r": 1,
+"x": "Art. 1.007.",
+"n": [
+"Dispensados.",
+"Correta.",
+"Não gera.",
+"Prazo de 5 dias.",
+"Dispensado."
+],
+"e": "Preparo."
+},
+{
+"p": "O recurso adesivo",
+"alts": [
+"cabe em qualquer recurso",
+"é autônomo em relação ao principal",
+"é admissível na apelação, no recurso extraordinário e no recurso especial, e não será conhecido se houver desistência do principal",
+"deve ser interposto no prazo do recurso principal, antes da intimação",
+"só pode ser interposto pelo autor"
+],
+"r": 2,
+"x": "Art. 997.",
+"n": [
+"Não.",
+"Subordinado.",
+"Correta.",
+"Prazo da resposta.",
+"Qualquer parte vencida."
+],
+"e": "Adesivo."
+},
+{
+"p": "Sobre a apelação, assinale a correta.",
+"alts": [
+"o juiz de primeiro grau faz o juízo de admissibilidade",
+"as interlocutórias não agraváveis precluem",
+"as questões não agraváveis devem ser suscitadas em preliminar de apelação ou contrarrazões",
+"a apelação nunca tem efeito suspensivo",
+"o tribunal não pode julgar o mérito ao reformar sentença terminativa"
+],
+"r": 2,
+"x": "Arts. 1.009, 1.010, 1.012 e 1.013.",
+"n": [
+"Só no tribunal.",
+"Não precluem.",
+"Correta.",
+"Em regra tem.",
+"Causa madura."
+],
+"e": "Apelação."
+},
+{
+"p": "Segundo o STJ (Tema 988), o rol do art. 1.015 do CPC é",
+"alts": [
+"absolutamente taxativo",
+"meramente exemplificativo",
+"de taxatividade mitigada, admitindo agravo quando houver urgência decorrente da inutilidade do julgamento na apelação",
+"aplicável só aos Juizados",
+"inconstitucional"
+],
+"r": 2,
+"x": "Tema 988.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Tema 988."
+},
+{
+"p": "Cabe agravo de instrumento contra todas as decisões interlocutórias proferidas",
+"alts": [
+"na fase de conhecimento do procedimento comum",
+"na liquidação de sentença, no cumprimento de sentença, no processo de execução e no inventário",
+"apenas no mandado de segurança",
+"nos Juizados Especiais",
+"apenas em tutelas provisórias"
+],
+"r": 1,
+"x": "Art. 1.015, parágrafo único.",
+"n": [
+"Só o rol.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Sem restrição."
+},
+{
+"p": "Os embargos de declaração",
+"alts": [
+"suspendem o prazo de outros recursos",
+"exigem preparo",
+"interrompem o prazo para outros recursos e são opostos em 5 dias",
+"só cabem contra sentenças",
+"têm efeito suspensivo automático"
+],
+"r": 2,
+"x": "Arts. 1.022, 1.023 e 1.026.",
+"n": [
+"Interrompem.",
+"Não exigem.",
+"Correta.",
+"Qualquer decisão.",
+"Não têm."
+],
+"e": "ED."
+},
+{
+"p": "Quanto à multa por embargos de declaração protelatórios, é correto afirmar:",
+"alts": [
+"é de 10% na primeira vez",
+"é de até 2% do valor atualizado da causa e, na reiteração, de até 10%, condicionando recursos ao depósito prévio, salvo para a Fazenda e o beneficiário de gratuidade",
+"reverte ao Estado",
+"aplica-se a embargos com propósito de prequestionamento",
+"é automática"
+],
+"r": 1,
+"x": "Art. 1.026, §§ 2º e 3º.",
+"n": [
+"2% na primeira.",
+"Correta.",
+"Ao embargado.",
+"Súmula 98.",
+"Fundamentada."
+],
+"e": "ED protelatórios."
+},
+{
+"p": "A técnica de ampliação do colegiado (art. 942) NÃO se aplica",
+"alts": [
+"à apelação não unânime que mantém a sentença",
+"à ação rescisória com resultado de rescisão",
+"ao agravo de instrumento que reforma decisão de mérito parcial",
+"à remessa necessária e ao IRDR",
+"à apelação não unânime que reforma a sentença"
+],
+"r": 3,
+"x": "Art. 942, § 4º.",
+"n": [
+"Aplica.",
+"Aplica.",
+"Aplica.",
+"Correta.",
+"Aplica."
+],
+"e": "Art. 942."
+},
+{
+"p": "Segundo a EC 125/2022, há relevância presumida da questão federal no recurso especial, entre outras hipóteses,",
+"alts": [
+"em qualquer ação contra a Fazenda",
+"em ações de valor superior a 60 salários mínimos",
+"em ações de improbidade administrativa e em ações cujo valor da causa ultrapasse 500 salários mínimos",
+"apenas em ações penais",
+"em todas as ações coletivas"
+],
+"r": 2,
+"x": "CF, art. 105, § 3º.",
+"n": [
+"Não.",
+"500 SM.",
+"Correta.",
+"Também outras.",
+"Não."
+],
+"e": "Relevância."
+},
+{
+"p": "Contra decisão do vice-presidente do TJ que nega seguimento a recurso especial com base em tese firmada em recurso repetitivo cabe",
+"alts": [
+"agravo em recurso especial ao STJ",
+"reclamação ao STJ",
+"agravo interno no próprio tribunal de origem",
+"mandado de segurança",
+"embargos de divergência"
+],
+"r": 2,
+"x": "Art. 1.030, § 2º.",
+"n": [
+"Erro grosseiro.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Inadmissão."
+},
+{
+"p": "Cabe recurso ordinário ao STJ contra",
+"alts": [
+"acórdão de TJ em apelação",
+"mandado de segurança decidido em única instância pelo TJ, quando denegatória a decisão",
+"qualquer decisão de turma recursal",
+"decisão concessiva de MS pelo TRF",
+"acórdão em IRDR"
+],
+"r": 1,
+"x": "CF, art. 105, II, b.",
+"n": [
+"REsp.",
+"Correta.",
+"Não.",
+"Só denegatória.",
+"RE ou REsp."
+],
+"e": "ROC."
+},
+{
+"p": "Considera-se omissa, para fins de embargos de declaração, a decisão que",
+"alts": [
+"adota tese diferente da pretendida pela parte",
+"deixa de se manifestar sobre tese firmada em julgamento de casos repetitivos aplicável ao caso",
+"é longa demais",
+"cita doutrina",
+"aplica súmula"
+],
+"r": 1,
+"x": "Art. 1.022, parágrafo único, I.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Omissão."
+},
+{
+"p": "Segundo o art. 1.025 do CPC, consideram-se incluídos no acórdão, para fins de prequestionamento,",
+"alts": [
+"apenas os pontos efetivamente decididos",
+"os elementos suscitados nos embargos de declaração, ainda que inadmitidos ou rejeitados, se o tribunal superior considerar existente o vício",
+"os argumentos da contestação",
+"os votos vencidos, sempre",
+"nenhum elemento novo"
+],
+"r": 1,
+"x": "Art. 1.025.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Prequestionamento."
+},
+{
+"p": "São requisitos para a instauração do IRDR, simultaneamente:",
+"alts": [
+"questão de fato repetida e urgência",
+"efetiva repetição de processos sobre a mesma questão unicamente de direito e risco de ofensa à isonomia e à segurança jurídica",
+"relevância social sem repetição",
+"afetação prévia de recurso pelo STJ",
+"requerimento de 2/3 dos desembargadores"
+],
+"r": 1,
+"x": "Art. 976.",
+"n": [
+"Só direito.",
+"Correta.",
+"IAC.",
+"Impede o IRDR.",
+"Não."
+],
+"e": "IRDR."
+},
+{
+"p": "É inadmissível a reclamação",
+"alts": [
+"para preservar a competência do tribunal",
+"para garantir a observância de súmula vinculante",
+"proposta após o trânsito em julgado da decisão reclamada",
+"para garantir acórdão em IRDR",
+"para garantir decisão do STF em ADI"
+],
+"r": 2,
+"x": "Art. 988, § 5º, I.",
+"n": [
+"Cabível.",
+"Cabível.",
+"Correta.",
+"Cabível.",
+"Cabível."
+],
+"e": "Reclamação."
+},
+{
+"p": "Quanto ao agravo interno, é correto afirmar:",
+"alts": [
+"é dirigido a outro tribunal",
+"o relator pode reproduzir a decisão agravada para negar provimento",
+"a multa por agravo manifestamente inadmissível ou improcedente em votação unânime varia de 1% a 5% do valor atualizado da causa",
+"a Fazenda deve depositar a multa previamente",
+"o prazo é de 5 dias"
+],
+"r": 2,
+"x": "Art. 1.021.",
+"n": [
+"Mesmo tribunal.",
+"Vedado.",
+"Correta.",
+"Paga ao final.",
+"15 dias."
+],
+"e": "Agravo interno."
+},
+{
+"p": "Segundo a Súmula 7 do STJ,",
+"alts": [
+"cabe recurso especial para reexame de cláusula contratual",
+"a pretensão de simples reexame de prova não enseja recurso especial",
+"cabe REsp contra decisão de turma recursal",
+"o prequestionamento é dispensável",
+"lei local enseja REsp"
+],
+"r": 1,
+"x": "Súmula 7 do STJ.",
+"n": [
+"Súmula 5.",
+"Correta.",
+"Súmula 203.",
+"Exigido.",
+"RE."
+],
+"e": "Súmula 7."
+}
+]
+},
+"execucao-fazenda": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>30 dias</b><span>prazo próprio para a Fazenda impugnar o cumprimento de sentença (CPC, art. 535) e embargar a execução (art. 910)</span></div><div class=\"lt-stat\"><b>2 de abril</b><span>data-limite para inclusão do precatório no orçamento do ano seguinte (CF, art. 100, § 5º, EC 114/2021)</span></div><div class=\"lt-stat\"><b>2 meses</b><span>prazo para pagamento da RPV após a ordem judicial (CPC, art. 535, § 3º, II)</span></div><div class=\"lt-stat\"><b>3 vezes</b><span>teto da superpreferência em relação ao valor da RPV (CF, art. 100, § 2º)</span></div></div>\n<h3>1. Cumprimento de sentença: regras gerais (arts. 513 a 519)</h3>\n<ul><li><b>Sincretismo</b>: desde a Lei 11.232/2005, e de forma ampla no CPC/2015, a efetivação da sentença é feita no <b>mesmo processo</b>, numa <b>fase de cumprimento</b>, sem necessidade de nova citação (salvo exceções). A execução autônoma, com citação, fica reservada aos <b>títulos extrajudiciais</b> e a alguns títulos judiciais (sentença penal condenatória, sentença arbitral, sentença estrangeira homologada, acórdão que julgar procedente revisão criminal), em que o devedor é <b>citado</b> (art. 515, § 1º).</li><li><b>Requerimento e intimação</b> (art. 513): o cumprimento da sentença que reconhece o dever de pagar quantia, provisório ou definitivo, far-se-á <b>a requerimento do exequente</b> (não de ofício). O devedor será <b>intimado</b> para cumprir a sentença: I, pelo <b>Diário da Justiça</b>, na pessoa de seu advogado constituído nos autos; II, por <b>carta com aviso de recebimento</b>, quando representado pela Defensoria Pública ou quando não tiver procurador constituído nos autos; III, por meio <b>eletrônico</b>, quando, no caso do § 1º do art. 246, não tiver procurador constituído nos autos; IV, por <b>edital</b>, quando, citado na forma do art. 256, tiver sido revel na fase de conhecimento. Se o requerimento for formulado após <b>1 ano do trânsito em julgado</b> da sentença, a intimação será feita na pessoa do devedor, por meio de carta com aviso de recebimento (§ 4º).</li><li><b>Fiador e coobrigado</b> (art. 513, § 5º): o cumprimento da sentença <b>não poderá ser promovido</b> em face do <b>fiador</b>, do <b>coobrigado</b> ou do <b>corresponsável</b> que <b>não tiver participado da fase de conhecimento</b>.</li><li><b>Títulos executivos judiciais</b> (art. 515): as decisões proferidas no processo civil que reconheçam a exigibilidade de obrigação de pagar quantia, de fazer, de não fazer ou de entregar coisa; a decisão homologatória de <b>autocomposição judicial</b>; a decisão homologatória de <b>autocomposição extrajudicial</b> de qualquer natureza; o formal e a certidão de partilha; o crédito de auxiliar da justiça, quando as custas, emolumentos ou honorários tiverem sido aprovados por decisão judicial; a <b>sentença penal condenatória</b> transitada em julgado; a <b>sentença arbitral</b>; a sentença estrangeira homologada pelo STJ; a decisão interlocutória estrangeira, após a concessão do exequatur à carta rogatória pelo STJ.</li><li><b>Protesto da decisão</b> (art. 517): a decisão judicial transitada em julgado poderá ser levada a <b>protesto</b>, nos termos da lei, depois de transcorrido o prazo para pagamento voluntário previsto no art. 523.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O cumprimento de sentença de pagar quantia é iniciado de ofício pelo juiz</span><br>✅ <span class=\"certo\">Depende de <b>requerimento</b> do exequente (art. 513, § 1º)</span></li><li>❌ <span class=\"banca\">O fiador que não participou do processo pode ser executado no cumprimento de sentença</span><br>✅ <span class=\"certo\"><b>Não pode</b> (art. 513, § 5º)</span></li><li>❌ <span class=\"banca\">Requerido o cumprimento 2 anos após o trânsito, a intimação é feita ao advogado</span><br>✅ <span class=\"certo\">Após <b>1 ano</b>, a intimação é <b>pessoal</b>, por carta com AR (art. 513, § 4º)</span></li><li>❌ <span class=\"banca\">A sentença penal condenatória é título executivo extrajudicial</span><br>✅ <span class=\"certo\">É título <b>judicial</b> (art. 515, VI), com citação do devedor</span></li></ol></div>\n<h3>2. Cumprimento definitivo de pagar quantia contra o particular (arts. 523 a 527)</h3>\n<ul><li><b>Prazo e multa</b> (art. 523): no caso de condenação em quantia certa, ou já fixada em liquidação, e no caso de decisão sobre parcela incontroversa, o cumprimento definitivo da sentença far-se-á a requerimento do exequente, sendo o executado intimado para <b>pagar o débito, no prazo de 15 dias</b>, acrescido de custas, se houver. Não ocorrendo pagamento voluntário no prazo, o débito será acrescido de <b>multa de 10%</b> e, também, de <b>honorários de advogado de 10%</b> (§ 1º). Efetuado o pagamento <b>parcial</b>, a multa e os honorários incidirão sobre o <b>restante</b> (§ 2º). Não efetuado tempestivamente o pagamento voluntário, será expedido, desde logo, <b>mandado de penhora e avaliação</b> (§ 3º).</li><li><b>Pagamento antes da intimação</b> (art. 526): é lícito ao réu, antes de ser intimado para o cumprimento da sentença, comparecer em juízo e oferecer em pagamento o valor que entender devido, apresentando memória discriminada do cálculo. O autor será ouvido em 5 dias, podendo impugnar o valor depositado, sem prejuízo do levantamento do depósito a título de parcela incontroversa. Concluindo o juiz pela insuficiência do depósito, sobre a diferença incidirão <b>multa de 10%</b> e <b>honorários de 10%</b>.</li><li><b>Impugnação</b> (art. 525): transcorrido o prazo do art. 523 sem o pagamento voluntário, inicia-se o prazo de <b>15 dias</b> para que o executado, <b>independentemente de penhora ou nova intimação</b>, apresente, nos próprios autos, sua <b>impugnação</b>. Na impugnação, o executado poderá alegar: I, <b>falta ou nulidade da citação</b> se, na fase de conhecimento, o processo correu à <b>revelia</b>; II, <b>ilegitimidade</b> de parte; III, <b>inexequibilidade do título ou inexigibilidade da obrigação</b>; IV, <b>penhora incorreta ou avaliação errônea</b>; V, <b>excesso de execução ou cumulação indevida</b> de execuções; VI, <b>incompetência absoluta ou relativa</b> do juízo da execução; VII, qualquer <b>causa modificativa ou extintiva da obrigação</b>, como pagamento, novação, compensação, transação ou prescrição, desde que <b>supervenientes à sentença</b> (§ 1º).</li><li><b>Excesso de execução</b> (§§ 4º e 5º): quando o executado alegar que o exequente, em excesso de execução, pleiteia quantia superior à resultante da sentença, cumprir-lhe-á <b>declarar de imediato o valor que entende correto</b>, apresentando demonstrativo discriminado e atualizado de seu cálculo. Não apontado o valor correto ou não apresentado o demonstrativo, a impugnação será <b>liminarmente rejeitada</b>, se o excesso de execução for o seu único fundamento, ou, se houver outro, a alegação de excesso de execução não será examinada.</li><li><b>Efeito suspensivo</b> (§ 6º): a apresentação de impugnação <b>não impede</b> a prática dos atos executivos, inclusive os de expropriação, podendo o juiz, a requerimento do executado e desde que <b>garantido o juízo</b> com penhora, caução ou depósito suficientes, atribuir-lhe efeito suspensivo, se seus fundamentos forem <b>relevantes</b> e se o prosseguimento da execução for manifestamente suscetível de causar ao executado <b>grave dano</b> de difícil ou incerta reparação.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No cumprimento definitivo, a multa e os honorários incidem desde a intimação</span><br>✅ <span class=\"certo\">Incidem se não houver pagamento em <b>15 dias</b> (art. 523, § 1º)</span></li><li>❌ <span class=\"banca\">Para impugnar o cumprimento de sentença, o executado precisa garantir o juízo</span><br>✅ <span class=\"certo\">A impugnação <b>independe de penhora</b> (art. 525); a garantia só é exigida para o <b>efeito suspensivo</b></span></li><li>❌ <span class=\"banca\">Na impugnação, o executado pode alegar pagamento anterior à sentença</span><br>✅ <span class=\"certo\">Só causas <b>supervenientes</b> à sentença (art. 525, § 1º, VII)</span></li><li>❌ <span class=\"banca\">Alegado excesso de execução sem indicar o valor correto, o juiz manda emendar</span><br>✅ <span class=\"certo\">A impugnação será <b>liminarmente rejeitada</b> se esse for o único fundamento (§ 5º)</span></li></ol></div>\n<h3>3. Cumprimento provisório e obrigações de fazer</h3>\n<ul><li><b>Cumprimento provisório</b> (art. 520): será realizado da mesma forma que o definitivo, sujeitando-se ao seguinte regime: corre por <b>iniciativa e responsabilidade do exequente</b>, que se obriga, se a sentença for reformada, a reparar os danos que o executado haja sofrido; fica sem efeito, sobrevindo decisão que modifique ou anule a sentença objeto da execução; se a sentença for objeto de anulação apenas em parte, somente nesta ficará sem efeito a execução; o <b>levantamento de depósito em dinheiro</b> e a prática de atos que importem transferência de posse ou alienação de propriedade ou de outro direito real, ou dos quais possa resultar grave dano ao executado, dependem de <b>caução suficiente e idônea</b>, arbitrada de plano pelo juiz e prestada nos próprios autos. A <b>multa e os honorários de 10%</b> também são devidos no cumprimento provisório (§ 2º).</li><li><b>Dispensa de caução</b> (art. 521): a caução poderá ser dispensada nos casos em que: I, o crédito for de natureza <b>alimentar</b>, independentemente de sua origem; II, o credor demonstrar situação de <b>necessidade</b>; III, pender o <b>agravo do art. 1.042</b> (agravo em RE ou REsp); IV, a sentença a ser provisoriamente cumprida estiver em consonância com <b>súmula</b> da jurisprudência do STF ou do STJ ou em conformidade com acórdão proferido no julgamento de <b>casos repetitivos</b>. A exigência de caução será mantida quando da dispensa possa resultar <b>manifesto risco de grave dano</b> de difícil ou incerta reparação.</li><li><b>Obrigação de fazer e não fazer</b> (art. 536): no cumprimento de sentença que reconheça a exigibilidade de obrigação de fazer ou de não fazer, o juiz poderá, de ofício ou a requerimento, para a efetivação da tutela específica ou a obtenção de tutela pelo resultado prático equivalente, determinar as <b>medidas necessárias</b> à satisfação do exequente. Para atender ao disposto, o juiz poderá determinar, entre outras medidas, a imposição de <b>multa</b>, a <b>busca e apreensão</b>, a <b>remoção de pessoas e coisas</b>, o <b>desfazimento de obras</b> e o <b>impedimento de atividade nociva</b>, podendo, caso necessário, requisitar o auxílio de força policial (§ 1º).</li><li><b>Multa</b> (art. 537): a multa independe de requerimento da parte e poderá ser aplicada na fase de conhecimento, em tutela provisória ou na sentença, ou na fase de execução, desde que seja <b>suficiente e compatível</b> com a obrigação e que se determine <b>prazo razoável</b> para cumprimento do preceito. O juiz poderá, de ofício ou a requerimento, <b>modificar o valor ou a periodicidade</b> da multa <b>vincenda</b> ou excluí-la, caso verifique que se tornou insuficiente ou excessiva, ou que o obrigado demonstrou cumprimento parcial superveniente ou justa causa para o descumprimento (§ 1º). O valor da multa será devido ao <b>exequente</b> (§ 2º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O cumprimento provisório dispensa a multa de 10%</span><br>✅ <span class=\"certo\">A multa e os honorários <b>também</b> são devidos (art. 520, § 2º)</span></li><li>❌ <span class=\"banca\">O levantamento de dinheiro no cumprimento provisório nunca exige caução</span><br>✅ <span class=\"certo\">Em regra <b>exige</b>, com as dispensas do art. 521</span></li><li>❌ <span class=\"banca\">A multa por descumprimento de obrigação de fazer reverte ao Estado</span><br>✅ <span class=\"certo\">É devida ao <b>exequente</b> (art. 537, § 2º)</span></li><li>❌ <span class=\"banca\">O juiz pode reduzir a multa já vencida livremente</span><br>✅ <span class=\"certo\">A modificação alcança a multa <b>vincenda</b> (art. 537, § 1º)</span></li></ol></div>\n<h3>4. Cumprimento de sentença contra a Fazenda Pública (arts. 534 e 535)</h3>\n<ul><li><b>Por que um regime especial?</b> Os bens públicos são <b>impenhoráveis</b> e <b>inalienáveis</b> (Código Civil, arts. 100 e 101), e os pagamentos devidos pela Fazenda em virtude de sentença judiciária seguem a <b>ordem cronológica</b> de <b>precatórios</b> ou o regime de <b>requisição de pequeno valor</b> (CF, art. 100). Por isso não há penhora, multa de 10% nem expropriação contra a Fazenda nas obrigações de pagar.</li><li><b>Requerimento</b> (art. 534): no cumprimento de sentença que impuser à Fazenda Pública o dever de pagar quantia certa, o exequente apresentará <b>demonstrativo discriminado e atualizado do crédito</b>, contendo: o nome completo e o CPF ou CNPJ do exequente; o índice de correção monetária adotado; os juros aplicados e as respectivas taxas; o termo inicial e o termo final dos juros e da correção monetária utilizados; a periodicidade da capitalização dos juros, se for o caso; a especificação dos eventuais descontos obrigatórios realizados. Havendo <b>pluralidade de exequentes</b>, cada um deverá apresentar o seu próprio demonstrativo (§ 1º). <b>A multa prevista no § 1º do art. 523 não se aplica</b> (§ 2º).</li><li><b>Intimação e impugnação</b> (art. 535): a Fazenda Pública será <b>intimada na pessoa de seu representante judicial</b>, por carga, remessa ou meio eletrônico, para, querendo, no prazo de <b>30 dias</b> e <b>nos próprios autos</b>, <b>impugnar a execução</b>. O prazo de 30 dias é <b>próprio</b> (não se dobra, art. 183, § 2º).</li></ul>\n<table class=\"tab\"><thead><tr><th>Matérias da impugnação da Fazenda (art. 535)</th><th>Observação</th></tr></thead><tbody><tr><td>I, <b>falta ou nulidade da citação</b> se, na fase de conhecimento, o processo correu à <b>revelia</b></td><td>vício transrescisório</td></tr><tr><td>II, <b>ilegitimidade</b> de parte ;</td></tr><tr><td>III, <b>inexequibilidade do título</b> ou <b>inexigibilidade da obrigação</b></td><td>inclui a coisa julgada inconstitucional (§§ 5º a 8º)</td></tr><tr><td>IV, <b>excesso de execução</b> ou <b>cumulação indevida</b> de execuções</td><td>deve declarar de imediato o <b>valor correto</b> (§ 2º)</td></tr><tr><td>V, <b>incompetência absoluta ou relativa</b> do juízo da execução ;</td></tr><tr><td>VI, qualquer <b>causa modificativa ou extintiva</b> da obrigação, como pagamento, novação, transação ou prescrição, desde que <b>supervenientes ao trânsito em julgado</b> da sentença ;</td></tr></tbody></table>\n<ul><li><b>Diferenças em relação ao particular</b>: a Fazenda é <b>intimada</b> (não citada); tem <b>30 dias</b> (e não 15); <b>não há</b> prazo prévio de 15 dias para pagamento voluntário nem multa de 10%; <b>não há</b> alegação de penhora incorreta (porque não há penhora); a impugnação tem, na prática, <b>efeito suspensivo</b> quanto ao valor impugnado, porque o precatório ou a RPV só são expedidos sobre o valor <b>incontroverso</b> ou após a rejeição da impugnação.</li><li><b>Expedição</b> (art. 535, §§ 3º e 4º): não impugnada a execução ou rejeitadas as arguições da executada: I, expedir-se-á, por intermédio do <b>presidente do tribunal</b> competente, <b>precatório</b> em favor do exequente, observando-se o disposto na Constituição; II, por ordem do <b>juiz</b>, dirigida à autoridade na pessoa de quem o ente público foi citado para o processo, o pagamento de obrigação de <b>pequeno valor</b> será realizado no prazo de <b>2 meses</b> contado da entrega da requisição, mediante depósito na agência de banco oficial mais próxima da residência do exequente. Tratando-se de impugnação <b>parcial</b>, a parte <b>não questionada</b> pela executada será, desde logo, objeto de cumprimento (§ 4º).</li><li><b>Honorários</b> (art. 85, § 7º): <b>não serão devidos honorários</b> no cumprimento de sentença contra a Fazenda que enseje expedição de <b>precatório</b>, desde que <b>não tenha sido impugnada</b>. Na <b>RPV</b>, são devidos.</li><li><b>Obrigação de fazer contra a Fazenda</b>: segue o regime geral dos arts. 536 e 537 (multa, medidas de apoio), e a execução <b>provisória</b> é admitida, porque <b>não atrai o regime de precatórios</b> (Tema 45 do STF).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Fazenda é citada para pagar em 15 dias, sob pena de multa de 10%</span><br>✅ <span class=\"certo\">É <b>intimada</b> para <b>impugnar</b> em <b>30 dias</b>, e a multa de 10% <b>não se aplica</b> (arts. 534, § 2º, e 535)</span></li><li>❌ <span class=\"banca\">O prazo de 30 dias da impugnação da Fazenda é contado em dobro</span><br>✅ <span class=\"certo\">É prazo <b>próprio</b> (art. 183, § 2º)</span></li><li>❌ <span class=\"banca\">A Fazenda pode alegar pagamento anterior à sentença na impugnação</span><br>✅ <span class=\"certo\">Só causas <b>supervenientes ao trânsito em julgado</b> (art. 535, VI)</span></li><li>❌ <span class=\"banca\">A RPV é paga em até 6 meses da requisição</span><br>✅ <span class=\"certo\">Em <b>2 meses</b> (art. 535, § 3º, II)</span></li><li>❌ <span class=\"banca\">A parte não impugnada aguarda o julgamento da impugnação</span><br>✅ <span class=\"certo\">É <b>desde logo</b> objeto de cumprimento (art. 535, § 4º)</span></li></ol></div>\n<h3>5. Coisa julgada inconstitucional na execução contra a Fazenda (art. 535, §§ 5º a 8º)</h3>\n<ul><li><b>Inexigibilidade</b> (§ 5º): considera-se também <b>inexigível</b> a obrigação reconhecida em título executivo judicial fundado em lei ou ato normativo considerado <b>inconstitucional pelo STF</b>, ou fundado em aplicação ou interpretação da lei ou do ato normativo tido pelo STF como incompatível com a Constituição, em controle de constitucionalidade <b>concentrado ou difuso</b>.</li><li><b>Modulação</b> (§ 6º): os efeitos da decisão do STF poderão ser <b>modulados no tempo</b>, de modo a favorecer a segurança jurídica.</li><li><b>Momento</b> (§§ 7º e 8º): a decisão do STF deve ter sido proferida <b>antes do trânsito em julgado</b> da decisão exequenda. Se a decisão do STF for proferida <b>após</b> o trânsito em julgado da decisão exequenda, caberá <b>ação rescisória</b>, cujo prazo será contado do <b>trânsito em julgado da decisão proferida pelo STF</b>.</li><li><b>Constitucionalidade</b>: o STF, na <b>ADI 2.418</b> e no <b>Tema 360</b> (RE 611.503), considerou <b>constitucional</b> essa hipótese de inexigibilidade (que já existia no CPC/1973, art. 741, parágrafo único), desde que a decisão do STF seja anterior ao trânsito em julgado.</li><li><b>Uso pela Procuradoria</b>: é um dos argumentos mais fortes de defesa na impugnação. Exemplo: título que condenou o Município a pagar reajuste com base em lei que o STF, em ADI anterior ao trânsito, declarou inconstitucional; ou título que aplicou índice de correção declarado inconstitucional.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A inexigibilidade do título por inconstitucionalidade exige decisão do STF em controle concentrado</span><br>✅ <span class=\"certo\">Vale para controle <b>concentrado ou difuso</b> (art. 535, § 5º)</span></li><li>❌ <span class=\"banca\">Se a decisão do STF for posterior ao trânsito, basta alegar na impugnação</span><br>✅ <span class=\"certo\">Cabe <b>ação rescisória</b>, com prazo contado do trânsito da decisão do STF (§ 8º)</span></li><li>❌ <span class=\"banca\">O STF declarou inconstitucional a inexigibilidade por coisa julgada inconstitucional</span><br>✅ <span class=\"certo\">Declarou <b>constitucional</b> (ADI 2.418; Tema 360)</span></li></ol></div>\n<h3>6. Execução de título extrajudicial contra a Fazenda (art. 910)</h3>\n<ul><li><b>Cabimento</b>: a <b>Súmula 279 do STJ</b> diz que \"é cabível execução por <b>título extrajudicial</b> contra a Fazenda Pública\". Exemplos: contrato administrativo assinado por duas testemunhas, cheque emitido pelo ente, termo de ajustamento de conduta, decisão do Tribunal de Contas que imputa débito (que é título extrajudicial em favor do ente, mas pode envolver a Fazenda como credora).</li><li><b>Procedimento</b> (art. 910): na execução fundada em título extrajudicial, a Fazenda Pública será <b>citada</b> para opor <b>embargos</b> em <b>30 dias</b>. Não opostos embargos ou transitada em julgado a decisão que os rejeitar, expedir-se-á precatório ou requisição de pequeno valor em favor do exequente, observando-se o disposto no art. 100 da CF (§ 1º). Nos embargos, a Fazenda Pública poderá alegar <b>qualquer matéria</b> que lhe seria lícito deduzir como defesa no processo de conhecimento (§ 2º), porque o título extrajudicial não passou pelo crivo judicial. Aplica-se a esse procedimento, no que couber, o disposto nos arts. 534 e 535 (§ 3º).</li><li><b>Monitória contra a Fazenda</b>: é admissível ação <b>monitória</b> em face da Fazenda Pública (art. 700, § 6º; Súmula 339 do STJ). Se a Fazenda não apresentar embargos, aplica-se a <b>remessa necessária</b> à decisão que constitui o título (art. 701, § 4º), e, depois, segue-se o cumprimento de sentença dos arts. 534 e 535.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Não cabe execução de título extrajudicial contra a Fazenda</span><br>✅ <span class=\"certo\">É <b>cabível</b> (Súmula 279 do STJ; art. 910)</span></li><li>❌ <span class=\"banca\">Nos embargos à execução de título extrajudicial, a Fazenda só pode alegar as matérias do art. 535</span><br>✅ <span class=\"certo\">Pode alegar <b>qualquer matéria</b> de defesa (art. 910, § 2º)</span></li><li>❌ <span class=\"banca\">Não cabe ação monitória contra a Fazenda</span><br>✅ <span class=\"certo\">É <b>admissível</b> (art. 700, § 6º; Súmula 339 do STJ)</span></li><li>❌ <span class=\"banca\">Na monitória contra a Fazenda sem embargos, não há remessa necessária</span><br>✅ <span class=\"certo\"><b>Aplica-se</b> a remessa necessária (art. 701, § 4º)</span></li></ol></div>\n<h3>7. O regime constitucional dos precatórios (CF, art. 100)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CF, art. 100, caput</div><div class=\"art-lei\">Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>EXCLUSIVAMENTE na ordem CRONOLÓGICA</li><li>PROIBIDA a designação de casos ou pessoas</li><li>Vale para todas as Fazendas (União, Estados, DF, Municípios) e suas autarquias e fundações</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>O precatório é a requisição de pagamento expedida pelo presidente do tribunal ao ente devedor, após o trânsito em julgado.</li></ul></div></div>\n<table class=\"tab\"><thead><tr><th>Regra</th><th>Conteúdo (art. 100)</th></tr></thead><tbody><tr><td><b>Créditos alimentares</b> (§ 1º)</td><td>os débitos de natureza alimentícia (salários, vencimentos, proventos, pensões e suas complementações, benefícios previdenciários e indenizações por morte ou por invalidez, fundadas em responsabilidade civil, em virtude de sentença judicial transitada em julgado) serão pagos <b>com preferência</b> sobre todos os demais débitos, exceto sobre os do § 2º</td></tr><tr><td><b>Superpreferência</b> (§ 2º)</td><td>os débitos de natureza alimentícia cujos titulares, originários ou por sucessão hereditária, tenham <b>60 anos de idade</b>, ou sejam portadores de <b>doença grave</b>, ou <b>pessoas com deficiência</b>, definidos na forma da lei, serão pagos com preferência sobre todos os demais débitos, até o valor equivalente ao <b>triplo</b> fixado em lei para a RPV, admitido o <b>fracionamento</b> para essa finalidade, sendo que o restante será pago na ordem cronológica de apresentação do precatório</td></tr><tr><td><b>RPV</b> (§ 3º)</td><td>o regime de precatórios <b>não se aplica</b> aos pagamentos de obrigações definidas em leis como de <b>pequeno valor</b></td></tr><tr><td><b>Valor da RPV</b> (§ 4º)</td><td>poderão ser fixados, por <b>leis próprias</b>, valores distintos às entidades de direito público, segundo as diferentes capacidades econômicas, sendo o <b>mínimo igual ao valor do maior benefício do regime geral de previdência social</b></td></tr><tr><td><b>Orçamento</b> (§ 5º)</td><td>é obrigatória a inclusão no orçamento das entidades de direito público de verba necessária ao pagamento de seus débitos oriundos de sentenças transitadas em julgado constantes de precatórios judiciários apresentados até <b>2 de abril</b>, fazendo-se o pagamento até o <b>final do exercício seguinte</b>, quando terão seus valores atualizados monetariamente (redação da EC 114/2021; antes era 1º de julho)</td></tr><tr><td><b>Sequestro</b> (§ 6º)</td><td>o presidente do tribunal que proferir a decisão exequenda autorizará, a requerimento do credor, o <b>sequestro</b> da quantia respectiva exclusivamente para os casos de <b>preterição</b> de seu direito de precedência ou de <b>não alocação orçamentária</b> do valor necessário à satisfação do seu débito</td></tr><tr><td><b>Responsabilidade</b> (§ 7º)</td><td>o presidente do tribunal competente que, por ato comissivo ou omissivo, retardar ou tentar frustrar a liquidação regular de precatórios incorrerá em <b>crime de responsabilidade</b> e responderá, também, perante o <b>CNJ</b></td></tr><tr><td><b>Fracionamento</b> (§ 8º)</td><td>é <b>vedada</b> a expedição de precatórios complementares ou suplementares de valor pago, bem como o <b>fracionamento, repartição ou quebra</b> do valor da execução para fins de enquadramento de parcela do total como RPV</td></tr></tbody></table>\n<ul><li><b>RPV na falta de lei</b> (ADCT, art. 87): até que sejam publicadas as leis definidoras pelos entes, serão considerados de pequeno valor os débitos ou obrigações de valor igual ou inferior a: I, <b>40 salários mínimos</b>, perante a Fazenda dos <b>Estados e do DF</b>; II, <b>30 salários mínimos</b>, perante a Fazenda dos <b>Municípios</b>. Para a <b>União</b>, a Lei 10.259/2001 (art. 17, § 1º) fixou <b>60 salários mínimos</b>. Se o valor da execução ultrapassar o limite, o pagamento far-se-á sempre por precatório, sendo facultada à parte exequente a <b>renúncia ao crédito do valor excedente</b>, para que possa optar pelo pagamento do saldo sem o precatório (ADCT, art. 87, parágrafo único).</li><li><b>Lei municipal de RPV</b>: o STF (ADI 2.868 e Tema 792) admite que o ente fixe valor de RPV <b>inferior</b> aos do art. 87 do ADCT, segundo sua capacidade econômica, desde que respeite o <b>mínimo</b> constitucional (o maior benefício do RGPS) e que a lei seja <b>razoável</b>. A lei nova que reduz o valor da RPV <b>não se aplica</b> às execuções já iniciadas antes de sua vigência? O STF fixou, no <b>Tema 792</b>, que \"lei disciplinadora da submissão de crédito ao sistema de execução via precatório possui natureza material e processual, sendo inaplicável a situação jurídica constituída em data que a anteceda\", tomando como marco o <b>trânsito em julgado</b> da decisão exequenda. É ponto importante para Procuradores Municipais que propõem a lei local de RPV.</li><li><b>Prazo de pagamento da RPV</b>: <b>2 meses</b> contados da entrega da requisição (CPC, art. 535, § 3º, II). O descumprimento autoriza o <b>sequestro</b> do valor (Lei 10.259, art. 17, § 2º, aplicável por analogia, e jurisprudência), independentemente de preterição.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os créditos alimentares de idosos têm superpreferência ilimitada</span><br>✅ <span class=\"certo\">A superpreferência vai até o <b>triplo</b> do valor da RPV; o restante segue a ordem cronológica (§ 2º)</span></li><li>❌ <span class=\"banca\">O precatório apresentado até 1º de julho é pago no exercício seguinte</span><br>✅ <span class=\"certo\">Após a EC 114/2021, a data-limite é <b>2 de abril</b> (§ 5º)</span></li><li>❌ <span class=\"banca\">Sem lei própria, a RPV dos Municípios é de 60 salários mínimos</span><br>✅ <span class=\"certo\">É de <b>30 salários mínimos</b> (ADCT, art. 87, II); 60 é a da <b>União</b></span></li><li>❌ <span class=\"banca\">O credor pode fracionar o crédito para receber parte por RPV</span><br>✅ <span class=\"certo\">É <b>vedado</b> o fracionamento (§ 8º), mas pode <b>renunciar</b> ao excedente</span></li><li>❌ <span class=\"banca\">O sequestro de verbas cabe em qualquer atraso de precatório</span><br>✅ <span class=\"certo\">Cabe em caso de <b>preterição</b> ou de <b>não alocação orçamentária</b> (§ 6º)</span></li></ol></div>\n<h3>8. Juros, correção e súmulas sobre precatórios</h3>\n<ul><li><b>Período de graça</b>: <b>Súmula Vinculante 17</b>: \"Durante o período previsto no § 1º do art. 100 da Constituição (hoje § 5º), <b>não incidem juros de mora</b> sobre os precatórios que nele sejam pagos.\" Ou seja, entre a inscrição (até 2 de abril) e o fim do exercício seguinte, se o ente pagar dentro desse prazo, não há juros de mora (apenas correção monetária).</li><li><b>Juros entre o cálculo e a requisição</b> (STF, <b>Tema 96</b>, RE 579.431): \"Incidem os <b>juros da mora</b> no período compreendido entre a <b>data da realização dos cálculos</b> e a da <b>requisição ou do precatório</b>.\"</li><li><b>Créditos alimentares e ordem própria</b>: <b>Súmula 655 do STF</b>: \"A exceção prevista no art. 100, caput, da Constituição, em favor dos créditos de natureza alimentícia, <b>não dispensa a expedição de precatório</b>, limitando-se a isentá-los da observância da ordem cronológica dos precatórios decorrentes de condenações de outra natureza.\" Ou seja, há duas filas: a dos alimentares (que tem preferência) e a dos não alimentares.</li><li><b>Honorários advocatícios</b>: <b>Súmula Vinculante 47</b>: \"Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam <b>verba de natureza alimentar</b> cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.\" O STF também admite a <b>execução autônoma</b> dos honorários sucumbenciais, inclusive por RPV se o valor couber, sem que isso configure fracionamento vedado (RE 564.132, Tema 18).</li><li><b>Litisconsórcio facultativo</b>: nas ações com vários autores (litisconsórcio ativo facultativo, comum em ações de servidores), o valor da RPV é aferido <b>por credor</b>, e não pelo total da execução, segundo o STF e o STJ, sem que isso configure fracionamento.</li><li><b>Correção monetária e juros contra a Fazenda</b>: o STF, nas <b>ADIs 4.357 e 4.425</b> (2013), declarou inconstitucional o uso da <b>TR</b> para corrigir precatórios; no <b>Tema 810</b> (RE 870.947, 2017), estendeu o entendimento às condenações em geral contra a Fazenda na fase de conhecimento (correção pelo <b>IPCA-E</b> e juros da poupança para débitos não tributários). A <b>EC 113/2021</b> (art. 3º) passou a determinar que, nas discussões e nas condenações que envolvam a Fazenda Pública, para fins de atualização monetária, de remuneração do capital e de compensação da mora, incidirá, <b>uma única vez</b>, até o efetivo pagamento, o índice da <b>taxa Selic</b>, acumulado mensalmente. Em seguida, a <b>EC 136/2025</b> reformulou o regime de pagamento e de atualização dos precatórios, estabelecendo <b>limites anuais de pagamento</b> para Estados, DF e Municípios proporcionais à <b>receita corrente líquida</b> e ao estoque de precatórios, e novos critérios de atualização (com base no <b>IPCA</b> acrescido de juros, limitados à Selic). Em provas, verifique a data do edital: as questões mais recentes cobram a EC 136/2025; as anteriores, a EC 113/2021.</li><li><b>Compensação</b>: os §§ 9º e 10 do art. 100 (incluídos pela EC 62/2009), que previam a <b>compensação obrigatória</b> de precatórios com débitos do credor com a Fazenda, foram declarados <b>inconstitucionais</b> nas ADIs 4.357 e 4.425. A EC 113/2021 alterou o § 9º para permitir a compensação apenas mediante opção do credor e nas hipóteses legais, e o § 11 passou a permitir ao credor <b>utilizar o precatório</b> para quitar débitos inscritos em dívida ativa, comprar imóveis públicos, pagar outorga de serviços públicos, adquirir participação societária e outras finalidades, conforme a lei do ente.</li><li><b>Cessão</b> (§§ 13 e 14): o credor poderá <b>ceder</b>, total ou parcialmente, seus créditos em precatórios a terceiros, independentemente da concordância do devedor, não se aplicando ao cessionário as <b>preferências</b> dos §§ 2º e 3º (superpreferência e RPV). A cessão somente produzirá efeitos após comunicação, por meio de petição protocolizada, ao tribunal de origem e ao ente devedor.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Incidem juros de mora no período de graça constitucional se o pagamento ocorrer no prazo</span><br>✅ <span class=\"certo\"><b>Não</b> incidem (Súmula Vinculante 17)</span></li><li>❌ <span class=\"banca\">Não incidem juros entre a data do cálculo e a da requisição</span><br>✅ <span class=\"certo\"><b>Incidem</b> (Tema 96 do STF)</span></li><li>❌ <span class=\"banca\">Os créditos alimentares dispensam precatório</span><br>✅ <span class=\"certo\"><b>Não dispensam</b>; têm apenas ordem própria (Súmula 655 do STF)</span></li><li>❌ <span class=\"banca\">Os honorários advocatícios não têm natureza alimentar</span><br>✅ <span class=\"certo\">Têm natureza <b>alimentar</b> (Súmula Vinculante 47)</span></li><li>❌ <span class=\"banca\">A compensação obrigatória de precatórios com débitos fiscais foi mantida pelo STF</span><br>✅ <span class=\"certo\">Foi declarada <b>inconstitucional</b> (ADIs 4.357 e 4.425)</span></li><li>❌ <span class=\"banca\">O cessionário do precatório mantém a superpreferência do cedente idoso</span><br>✅ <span class=\"certo\"><b>Não</b> se aplicam ao cessionário as preferências (§ 13)</span></li></ol></div>\n<h3>9. Regimes especiais e o Município devedor</h3>\n<ul><li><b>Regime especial</b> (ADCT, arts. 101 a 105): os Estados, o DF e os Municípios que, em 25 de março de 2015, se encontravam em <b>mora</b> no pagamento de seus precatórios submetem-se a um <b>regime especial</b>, depositando mensalmente, em conta especial do Tribunal de Justiça, percentual de sua <b>receita corrente líquida</b>, para quitar o estoque até prazo fixado na Constituição (prorrogado pela EC 109/2021 até <b>31 de dezembro de 2029</b>). Nesse regime, admitem-se <b>acordos diretos</b> com redução de até 40% do valor atualizado do crédito, desde que em relação ao crédito não penda recurso ou defesa judicial e que sejam observados os requisitos definidos na regulamentação editada pelo ente.</li><li><b>Limites da EC 136/2025</b>: a emenda criou limites anuais de pagamento de precatórios proporcionais à <b>receita corrente líquida</b> dos Estados, do DF e dos Municípios, escalonados conforme o tamanho do estoque em relação à receita, além de permitir parcelamentos especiais de dívidas previdenciárias municipais. A medida busca dar previsibilidade orçamentária, mas é criticada por alongar o prazo de pagamento aos credores. Para o Procurador Municipal, isso significa acompanhar o <b>plano de pagamento</b> junto ao Tribunal de Justiça e garantir a inclusão correta no orçamento.</li><li><b>Sanções ao ente inadimplente</b>: o descumprimento do regime de pagamento pode levar ao <b>sequestro</b> de valores pelo presidente do TJ, à retenção de repasses do FPE ou do FPM, à proibição de receber <b>transferências voluntárias</b> e à responsabilização do chefe do Executivo (improbidade e crime de responsabilidade, conforme a legislação). A <b>intervenção</b> estadual no Município por descumprimento de ordem judicial (CF, art. 35, IV) também é possível em tese, mas o STF exige demonstração de <b>atuação dolosa e deliberada</b> do ente, e não mera insuficiência financeira (IF 164 e outras).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os entes em mora no regime especial podem pagar o estoque sem prazo final</span><br>✅ <span class=\"certo\">O prazo foi fixado na Constituição (EC 109/2021: até <b>2029</b>), com regras alteradas pela EC 136/2025</span></li><li>❌ <span class=\"banca\">A intervenção no Município por atraso de precatórios é automática</span><br>✅ <span class=\"certo\">O STF exige <b>atuação dolosa e deliberada</b>, não mera insuficiência financeira</span></li><li>❌ <span class=\"banca\">No regime especial, o acordo direto pode reduzir o crédito sem limite</span><br>✅ <span class=\"certo\">A redução é de até <b>40%</b> do valor atualizado</span></li></ol></div>\n<h3>10. Liquidação de sentença (arts. 509 a 512)</h3>\n<ul><li><b>Cabimento</b> (art. 509): quando a sentença condenar ao pagamento de <b>quantia ilíquida</b>, proceder-se-á à sua liquidação, a requerimento do credor ou do devedor: I, <b>por arbitramento</b>, quando determinado pela sentença, convencionado pelas partes ou exigido pela natureza do objeto da liquidação; II, <b>pelo procedimento comum</b>, quando houver necessidade de <b>alegar e provar fato novo</b>. Quando a apuração do valor depender apenas de <b>cálculo aritmético</b>, o credor poderá promover, desde logo, o cumprimento da sentença (§ 2º), sem liquidação. Na liquidação é <b>vedado discutir de novo a lide</b> ou modificar a sentença que a julgou (§ 4º).</li><li><b>Liquidação provisória</b> (art. 512): a liquidação poderá ser realizada na <b>pendência de recurso</b>, processando-se em autos apartados no juízo de origem.</li><li><b>Contra a Fazenda</b>: a liquidação contra a Fazenda segue as mesmas regras, e a decisão que a julga é <b>interlocutória</b>, atacável por <b>agravo de instrumento</b> (art. 1.015, parágrafo único). Nas ações coletivas que condenam o ente a pagar diferenças a uma categoria de servidores, cada beneficiário promove a <b>liquidação individual</b> da sentença coletiva, demonstrando sua condição de titular do direito e o valor devido.</li></ul>\n<h3>11. Casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A impugnação do Município</b><p>A sentença transitada em julgado condenou o Município a pagar a uma empresa R$ 400 mil. A empresa apresentou demonstrativo de R$ 520 mil, aplicando índice de correção diverso do fixado na sentença e juros capitalizados. O Município foi intimado em 2 de março pelo sistema eletrônico.</p><details><summary>Ver a solução comentada</summary><p>O Município tem <b>30 dias</b> (prazo próprio, sem dobra) para <b>impugnar</b> nos próprios autos (art. 535). Deve alegar <b>excesso de execução</b> (inciso IV) e <b>declarar de imediato o valor que entende correto</b> (por exemplo, R$ 430 mil), com demonstrativo (§ 2º), sob pena de a alegação não ser examinada. A parte <b>incontroversa</b> (R$ 430 mil) será objeto de cumprimento desde logo (§ 4º), com expedição de <b>precatório</b> pelo presidente do TJ (o valor supera a RPV). Sobre o valor controvertido, aguarda-se a decisão. Como houve impugnação, se rejeitada, o Município pagará <b>honorários</b> no cumprimento (art. 85, § 7º, a contrario).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Servidora idosa e precatório alimentar</b><p>Uma servidora aposentada de 72 anos tem crédito de diferenças de proventos de R$ 300 mil contra o Município, cuja lei de RPV fixa o teto em R$ 15 mil.</p><details><summary>Ver a solução comentada</summary><p>O crédito é <b>alimentar</b> (proventos) e a credora tem mais de <b>60 anos</b>: tem direito à <b>superpreferência</b> até o <b>triplo</b> da RPV (R$ 45 mil), pago com prioridade sobre todos os demais, admitido o <b>fracionamento</b> para essa finalidade (CF, art. 100, § 2º). O restante (R$ 255 mil) entra na fila dos <b>precatórios alimentares</b> (§ 1º), que têm preferência sobre os não alimentares. Os honorários do advogado podem ser <b>destacados</b> e, se couberem no valor da RPV, pagos por RPV (Súmula Vinculante 47 e Tema 18).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Lei municipal reduzindo a RPV</b><p>Em 2025, o Município de Belo Vale aprovou lei fixando o valor da RPV em montante igual ao maior benefício do RGPS, abaixo dos 30 salários mínimos do ADCT. Um credor com sentença transitada em 2023 quer receber por RPV pelo teto antigo.</p><details><summary>Ver a solução comentada</summary><p>A lei municipal é <b>válida</b>: o ente pode fixar valor inferior ao do ADCT, segundo sua capacidade econômica, desde que respeite o <b>mínimo</b> constitucional (o maior benefício do RGPS) (CF, art. 100, § 4º; ADI 2.868). Mas a nova lei <b>não se aplica</b> a situações jurídicas constituídas antes dela: pelo <b>Tema 792</b> do STF, o marco é o <b>trânsito em julgado</b> da decisão exequenda. Como o trânsito ocorreu em 2023, antes da lei, aplica-se o teto anterior (30 SM, se não havia lei local).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Execução de contrato contra o Município</b><p>Uma empresa tem contrato administrativo assinado pelo Prefeito e por duas testemunhas, com medições atestadas e não pagas. Ajuíza execução de título extrajudicial.</p><details><summary>Ver a solução comentada</summary><p>É cabível (<b>Súmula 279</b> do STJ; art. 910). O Município será <b>citado</b> para opor <b>embargos em 30 dias</b>, podendo alegar <b>qualquer matéria</b> de defesa (art. 910, § 2º), inclusive a nulidade do contrato ou a não execução dos serviços. Rejeitados os embargos ou não opostos, expede-se precatório ou RPV. Se o título não tivesse força executiva, a empresa poderia usar a <b>ação monitória</b> (art. 700, § 6º; Súmula 339 do STJ).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Precatório não incluído no orçamento</b><p>O precatório de um credor foi apresentado ao Município em 15 de março de 2025, mas o Município não incluiu a verba no orçamento de 2026.</p><details><summary>Ver a solução comentada</summary><p>Como o precatório foi apresentado <b>até 2 de abril</b>, era <b>obrigatória</b> a inclusão no orçamento de 2026 (CF, art. 100, § 5º), com pagamento até o fim de 2026. A <b>não alocação orçamentária</b> autoriza o presidente do TJ, a requerimento do credor, a determinar o <b>sequestro</b> da quantia (§ 6º). Se o Município estiver no <b>regime especial</b>, aplicam-se as regras próprias do ADCT e os limites da EC 136/2025.</p></details></div>\n<h3>12. Questões comentadas</h3>\n<ul><li><b>\"No cumprimento de sentença contra a Fazenda Pública, não se aplica a multa de 10% pelo não pagamento voluntário.\"</b> Certo: art. 534, § 2º.</li><li><b>\"A Fazenda Pública será intimada para impugnar a execução no prazo de 30 dias, contado em dobro.\"</b> Errado: o prazo de 30 dias é <b>próprio</b>, sem dobra.</li><li><b>\"Na impugnação, a Fazenda pode alegar qualquer causa extintiva da obrigação, ainda que anterior à sentença.\"</b> Errado: só causas <b>supervenientes ao trânsito em julgado</b> (art. 535, VI).</li><li><b>\"Tratando-se de impugnação parcial, a parte não questionada será, desde logo, objeto de cumprimento.\"</b> Certo: art. 535, § 4º.</li><li><b>\"A obrigação de pequeno valor será paga no prazo de 2 meses da entrega da requisição.\"</b> Certo: art. 535, § 3º, II.</li><li><b>\"Na execução fundada em título extrajudicial, a Fazenda será citada para opor embargos em 30 dias, podendo alegar qualquer matéria de defesa.\"</b> Certo: art. 910.</li><li><b>\"Os débitos alimentares de titulares com 60 anos serão pagos com preferência sobre todos os demais, até o triplo do valor da RPV.\"</b> Certo: CF, art. 100, § 2º.</li><li><b>\"É permitido o fracionamento do valor da execução para enquadramento de parcela como RPV.\"</b> Errado: CF, art. 100, § 8º (salvo a superpreferência e a renúncia ao excedente).</li><li><b>\"Na falta de lei própria, a RPV dos Municípios corresponde a 40 salários mínimos.\"</b> Errado: <b>30</b> salários mínimos (ADCT, art. 87, II); 40 é para os Estados.</li><li><b>\"Durante o período constitucional de pagamento, não incidem juros de mora sobre os precatórios nele pagos.\"</b> Certo: Súmula Vinculante 17.</li><li><b>\"A exceção em favor dos créditos alimentares dispensa a expedição de precatório.\"</b> Errado: Súmula 655 do STF.</li><li><b>\"É cabível ação monitória contra a Fazenda Pública.\"</b> Certo: Súmula 339 do STJ.</li></ul>\n<h3>13. Como as bancas cobram este tópico</h3>\n<ul><li><b>Prazos</b>: 15 dias (pagamento voluntário e impugnação do particular), 30 dias (impugnação e embargos da Fazenda, prazo próprio), 2 meses (RPV), 2 de abril (inclusão de precatório no orçamento), 1 ano (intimação pessoal do devedor).</li><li><b>Valores</b>: RPV federal (60 SM), estadual (40 SM) e municipal (30 SM) na falta de lei; mínimo constitucional (maior benefício do RGPS); superpreferência até o triplo da RPV.</li><li><b>Matérias da impugnação</b>: art. 525 (particular) x art. 535 (Fazenda); excesso de execução com indicação do valor correto; coisa julgada inconstitucional (§§ 5º a 8º).</li><li><b>Súmulas</b>: SV 17, SV 47, Súmula 655 do STF, Súmulas 279 e 339 do STJ; Temas 18, 45, 96 e 792 do STF.</li><li><b>Emendas</b>: EC 62/2009 (declarada parcialmente inconstitucional), EC 94/2016, EC 113/2021 (Selic; 2 de abril), EC 114/2021, EC 136/2025 (limites e atualização).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para lembrar as diferenças da execução contra a Fazenda: <b>\"Intimada, Trinta dias, Sem multa, Sem penhora, Fila do precatório\"</b>. Contra o particular é o contrário: intimado para <b>pagar</b> em 15 dias, com <b>multa e honorários de 10%</b> e <b>penhora</b> se não pagar.</div>\n<h3>14. Exercício integrado: do trânsito ao pagamento</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Do trânsito em julgado ao dinheiro na conta</b><p>Um ex-servidor do Município de Belo Vale obteve sentença, transitada em julgado em março de 2026, condenando o Município a pagar diferenças de vencimentos, com juros e correção, sem valor definido. Como o processo segue até o pagamento?</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Liquidez</b>: se o valor depender só de cálculo aritmético, o credor apresenta diretamente o <b>demonstrativo</b> (art. 509, § 2º, e art. 534); se depender de prova de fatos novos, faz-se <b>liquidação</b> pelo procedimento comum. (2) <b>Cumprimento</b>: o Município é <b>intimado</b> na pessoa do procurador para <b>impugnar em 30 dias</b> (art. 535). (3) <b>Impugnação</b>: o Procurador confere o cálculo (índices, termo inicial dos juros, aplicação da Selic pela EC 113/2021 ou dos critérios da EC 136/2025, descontos de contribuição previdenciária e imposto de renda) e, se houver excesso, <b>indica o valor correto</b>. (4) <b>Parte incontroversa</b>: é paga desde logo (§ 4º). (5) <b>Forma de pagamento</b>: se o valor couber na <b>RPV</b> da lei municipal vigente ao tempo do trânsito (Tema 792), o juiz requisita e o Município paga em <b>2 meses</b>; se superar, o presidente do TJ expede <b>precatório</b> alimentar, que, apresentado até <b>2 de abril</b>, deve ser incluído no orçamento do ano seguinte e pago até o fim daquele exercício, sem juros de mora no período de graça (SV 17). (6) <b>Preferências</b>: se o credor tiver 60 anos, doença grave ou deficiência, recebe até o triplo da RPV com superpreferência. (7) <b>Honorários</b>: os contratuais podem ser <b>destacados</b>; os sucumbenciais da fase de conhecimento podem ser executados de forma <b>autônoma</b>; no cumprimento, só há novos honorários se houver impugnação (no precatório) ou na RPV.</p></details></div>\n<ul><li><b>Moral do exercício</b>: o papel do Procurador na execução contra o Município é técnico e decisivo: um cálculo mal conferido pode custar ao erário mais do que a própria condenação. A impugnação bem feita, com indicação do valor correto, é a principal ferramenta de defesa.</li></ul>\n<h3>15. Execução por quantia certa contra devedor solvente: noções essenciais</h3>\n<ul><li><b>Títulos extrajudiciais</b> (art. 784): a letra de câmbio, a nota promissória, a duplicata, a debênture e o <b>cheque</b>; a <b>escritura pública</b> ou outro <b>documento público</b> assinado pelo devedor; o <b>documento particular assinado pelo devedor e por 2 testemunhas</b> (a Lei 14.620/2023 incluiu o § 4º: nos títulos executivos constituídos ou atestados por meio eletrônico, é admitida qualquer modalidade de assinatura eletrônica prevista em lei, <b>dispensada a assinatura de testemunhas</b> quando sua integridade for conferida por provedor de assinatura); o instrumento de <b>transação</b> referendado pelo MP, pela Defensoria Pública, pela Advocacia Pública, pelos advogados dos transatores ou por conciliador ou mediador credenciado por tribunal; os contratos garantidos por hipoteca, penhor, anticrese ou outro direito real de garantia e aquele garantido por caução; o contrato de seguro de vida em caso de morte; o crédito decorrente de foro e laudêmio; o crédito de aluguel de imóvel e encargos acessórios; a <b>certidão de dívida ativa</b> da Fazenda Pública da União, dos Estados, do DF e dos <b>Municípios</b>, correspondente aos créditos inscritos na forma da lei; o crédito referente às contribuições ordinárias ou extraordinárias de <b>condomínio</b> edilício; a certidão expedida por serventia notarial ou de registro relativa a valores de emolumentos; e todos os demais títulos aos quais, por disposição expressa, a lei atribuir força executiva (como as decisões dos <b>Tribunais de Contas</b> que imputam débito ou multa, CF, art. 71, § 3º).</li><li><b>Decisões dos Tribunais de Contas</b>: têm <b>eficácia de título executivo</b> (CF, art. 71, § 3º). O STF fixou, no <b>Tema 642</b> (ARE 823.347), que o <b>Município prejudicado</b> é o legitimado para a execução de crédito decorrente de multa aplicada por <b>Tribunal de Contas estadual</b> a agente público municipal, em razão de danos causados ao erário municipal. O <b>Ministério Público</b> e o <b>Tribunal de Contas</b> não têm legitimidade para executar (o MP pode atuar em caso de omissão, por meio de ação civil pública, segundo parte da jurisprudência). É atribuição típica da <b>Procuradoria Municipal</b>.</li><li><b>Embargos à execução</b> (arts. 914 a 920): o executado, <b>independentemente de penhora, depósito ou caução</b>, poderá se opor à execução por meio de embargos, no prazo de <b>15 dias</b>, contado da <b>juntada do mandado de citação</b> (ou na forma do art. 231). Os embargos <b>não terão efeito suspensivo</b>, salvo se o juiz, a requerimento do embargante, verificar os requisitos para a concessão da <b>tutela provisória</b> e a execução já estiver <b>garantida</b> por penhora, depósito ou caução suficientes (art. 919, § 1º). Nos embargos, o executado pode alegar qualquer matéria que lhe seria lícito deduzir como defesa em processo de conhecimento (art. 917, VI).</li><li><b>Parcelamento</b> (art. 916): no prazo para embargos, reconhecendo o crédito do exequente e comprovando o depósito de <b>30%</b> do valor em execução, acrescido de custas e de honorários de advogado, o executado poderá requerer que lhe seja permitido pagar o restante em até <b>6 parcelas mensais</b>, acrescidas de correção monetária e de juros de 1% ao mês. A opção pelo parcelamento importa <b>renúncia</b> ao direito de opor embargos (§ 6º). O parcelamento <b>não se aplica ao cumprimento de sentença</b> (§ 7º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os embargos à execução dependem de prévia garantia do juízo</span><br>✅ <span class=\"certo\"><b>Independem</b> de penhora, depósito ou caução (art. 914); a garantia é exigida para o <b>efeito suspensivo</b></span></li><li>❌ <span class=\"banca\">O parcelamento do art. 916 exige depósito de 50%</span><br>✅ <span class=\"certo\">Exige <b>30%</b>, com o restante em até <b>6</b> parcelas</span></li><li>❌ <span class=\"banca\">O parcelamento do art. 916 aplica-se ao cumprimento de sentença</span><br>✅ <span class=\"certo\"><b>Não se aplica</b> (art. 916, § 7º)</span></li><li>❌ <span class=\"banca\">O MP pode executar a multa imposta pelo Tribunal de Contas a agente municipal</span><br>✅ <span class=\"certo\">O legitimado é o <b>Município</b> prejudicado (Tema 642 do STF)</span></li></ol></div>\n<h3>16. Penhora: impenhorabilidades e ordem preferencial</h3>\n<table class=\"tab\"><thead><tr><th>São impenhoráveis (art. 833)</th><th>Observação</th></tr></thead><tbody><tr><td>I, os bens <b>inalienáveis</b> e os declarados, por ato voluntário, não sujeitos à execução</td><td>inclui os <b>bens públicos</b></td></tr><tr><td>II, os <b>móveis, os pertences e as utilidades domésticas</b> que guarnecem a residência do executado, salvo os de elevado valor ou os que ultrapassem as necessidades comuns correspondentes a um médio padrão de vida ;</td></tr><tr><td>III, os <b>vestuários</b> e os pertences de uso pessoal do executado, salvo se de elevado valor ;</td></tr><tr><td>IV, os <b>vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões</b>, os pecúlios e os montepios, as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal</td><td>exceções do § 2º: prestação <b>alimentícia</b>, independentemente de sua origem, e importâncias excedentes a <b>50 salários mínimos</b> mensais</td></tr><tr><td>V, os livros, as máquinas, as ferramentas, os utensílios, os instrumentos ou outros bens móveis <b>necessários ou úteis ao exercício da profissão</b> do executado ;</td></tr><tr><td>VI, o <b>seguro de vida</b> ;</td></tr><tr><td>VII, os materiais necessários para <b>obras em andamento</b>, salvo se essas forem penhoradas ;</td></tr><tr><td>VIII, a <b>pequena propriedade rural</b>, assim definida em lei, desde que trabalhada pela família ;</td></tr><tr><td>IX, os <b>recursos públicos recebidos por instituições privadas</b> para aplicação compulsória em educação, saúde ou assistência social ;</td></tr><tr><td>X, a quantia depositada em <b>caderneta de poupança</b>, até o limite de <b>40 salários mínimos</b></td><td>o STJ estende a proteção a outras aplicações e à conta-corrente, até 40 SM, como reserva</td></tr><tr><td>XI, os recursos públicos do <b>fundo partidário</b> ;</td></tr><tr><td>XII, os créditos oriundos de alienação de unidades imobiliárias, sob regime de incorporação imobiliária, vinculados à execução da obra ;</td></tr></tbody></table>\n<ul><li><b>Flexibilização do salário</b>: o STJ, em sua Corte Especial (EREsp 1.874.222, 2023), admitiu a <b>penhora de parte do salário</b> para pagamento de dívida <b>não alimentar</b>, mesmo abaixo de 50 salários mínimos, <b>em caráter excepcional</b>, desde que preservado o suficiente para a <b>subsistência digna</b> do devedor e de sua família.</li><li><b>Bem de família</b> (Lei 8.009/1990): o imóvel residencial próprio do casal ou da entidade familiar é <b>impenhorável</b> e não responderá por qualquer tipo de dívida, salvo as exceções do art. 3º, entre elas: a cobrança de <b>impostos, predial ou territorial, taxas e contribuições devidas em função do imóvel familiar</b> (o <b>IPTU</b> do próprio imóvel pode levar à penhora do bem de família, o que interessa diretamente ao Município); o crédito decorrente do financiamento destinado à construção ou aquisição do imóvel; a pensão alimentícia; a execução de hipoteca sobre o imóvel oferecido como garantia real; a aquisição do imóvel com produto de crime; e a obrigação decorrente de <b>fiança em contrato de locação</b> (o STF, no Tema 1.127, validou a penhora do bem de família do fiador inclusive em locação <b>comercial</b>). A <b>Súmula 364 do STJ</b> estende a proteção ao imóvel de <b>pessoas solteiras, separadas e viúvas</b>.</li><li><b>Ordem preferencial</b> (art. 835): a penhora observará, preferencialmente, a seguinte ordem: I, <b>dinheiro</b>, em espécie ou em depósito ou aplicação em instituição financeira; II, títulos da dívida pública da União, dos Estados e do DF com cotação em mercado; III, títulos e valores mobiliários com cotação em mercado; IV, veículos de via terrestre; V, bens imóveis; VI, bens móveis em geral; VII, semoventes; VIII, navios e aeronaves; IX, ações e quotas de sociedades simples e empresárias; X, percentual do faturamento de empresa devedora; XI, pedras e metais preciosos; XII, direitos aquisitivos derivados de promessa de compra e venda e de alienação fiduciária em garantia; XIII, outros direitos. É <b>prioritária</b> a penhora em <b>dinheiro</b>, podendo o juiz, nas demais hipóteses, alterar a ordem de acordo com as circunstâncias do caso concreto (§ 1º). Para fins de substituição da penhora, equiparam-se a dinheiro a <b>fiança bancária</b> e o <b>seguro garantia judicial</b>, desde que em valor não inferior ao do débito constante da inicial, acrescido de <b>30%</b> (§ 2º).</li><li><b>Penhora on-line</b> (art. 854): para possibilitar a penhora de dinheiro em depósito ou em aplicação financeira, o juiz, a requerimento do exequente, <b>sem dar ciência prévia do ato ao executado</b>, determinará às instituições financeiras, por meio de sistema eletrônico (o <b>Sisbajud</b>), que tornem indisponíveis ativos financeiros existentes em nome do executado, limitando-se a indisponibilidade ao valor indicado na execução. O executado será intimado e terá <b>5 dias</b> para comprovar que as quantias são <b>impenhoráveis</b> ou que ainda remanesce indisponibilidade excessiva (§ 3º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O IPTU do próprio imóvel não pode levar à penhora do bem de família</span><br>✅ <span class=\"certo\">A cobrança de <b>impostos e taxas do próprio imóvel</b> é <b>exceção</b> à impenhorabilidade (Lei 8.009, art. 3º, IV)</span></li><li>❌ <span class=\"banca\">A poupança é impenhorável em qualquer valor</span><br>✅ <span class=\"certo\">Até <b>40 salários mínimos</b> (art. 833, X)</span></li><li>❌ <span class=\"banca\">O salário nunca pode ser penhorado para dívidas não alimentares</span><br>✅ <span class=\"certo\">O STJ admite, <b>excepcionalmente</b>, preservada a subsistência digna</span></li><li>❌ <span class=\"banca\">A penhora on-line exige ciência prévia do executado</span><br>✅ <span class=\"certo\">É feita <b>sem ciência prévia</b> (art. 854)</span></li><li>❌ <span class=\"banca\">O seguro garantia equipara-se a dinheiro se cobrir o débito acrescido de 10%</span><br>✅ <span class=\"certo\">Acrescido de <b>30%</b> (art. 835, § 2º)</span></li></ol></div>\n<h3>17. Expropriação e prescrição intercorrente no CPC</h3>\n<ul><li><b>Expropriação</b> (art. 825): consiste em <b>adjudicação</b>, <b>alienação</b> (por iniciativa particular ou em leilão judicial, preferencialmente <b>eletrônico</b>) e <b>apropriação de frutos e rendimentos</b> de empresa ou de estabelecimentos e de outros bens. A <b>adjudicação</b> é a forma preferencial: é lícito ao exequente, oferecendo preço não inferior ao da avaliação, requerer que lhe sejam adjudicados os bens penhorados (art. 876).</li><li><b>Preço vil</b> (art. 891): não será aceito lance que ofereça <b>preço vil</b>. Considera-se vil o preço inferior ao <b>mínimo estipulado pelo juiz</b> e constante do edital, e, não tendo sido fixado preço mínimo, considera-se vil o preço inferior a <b>50% do valor da avaliação</b>.</li><li><b>Remição da execução</b> (art. 826): antes de adjudicados ou alienados os bens, o executado pode, a todo tempo, <b>remir a execução</b>, pagando ou consignando a importância atualizada da dívida, acrescida de juros, custas e honorários advocatícios.</li><li><b>Prescrição intercorrente</b> (art. 921, com redação da <b>Lei 14.195/2021</b>): suspende-se a execução quando o executado <b>não possuir bens penhoráveis</b> (inciso III). Na hipótese, o juiz suspenderá a execução pelo prazo de <b>1 ano</b>, durante o qual se suspenderá a prescrição (§ 1º). Decorrido o prazo máximo de 1 ano sem que seja localizado o executado ou que sejam encontrados bens penhoráveis, o juiz ordenará o <b>arquivamento</b> dos autos (§ 2º). O termo inicial da prescrição no curso do processo será a <b>ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis</b>, e será suspensa, por uma única vez, pelo prazo máximo previsto no § 1º (§ 4º). A efetiva citação, intimação do devedor ou constrição de bens penhoráveis <b>interrompe</b> o prazo de prescrição, que <b>não corre</b> pelo tempo necessário à citação e à intimação do devedor, bem como para as formalidades da constrição patrimonial, se necessária, desde que o credor cumpra os prazos previstos na lei processual ou fixados pelo juiz (§ 4º-A). O juiz, depois de ouvidas as partes, no prazo de 15 dias, poderá, <b>de ofício</b>, reconhecer a prescrição intercorrente e extinguir o processo, <b>sem ônus para as partes</b> (§ 5º). A alegação de nulidade quanto ao procedimento previsto neste artigo somente será conhecida caso demonstrada a ocorrência de <b>efetivo prejuízo</b>, que será presumido apenas em caso de inexistência da intimação de que trata o § 4º (§ 7º).</li><li><b>Prazo</b>: o prazo da prescrição intercorrente é o <b>mesmo da prescrição da pretensão</b> de direito material (Súmula 150 do STF: \"Prescreve a execução no mesmo prazo de prescrição da ação\"). Para a <b>execução fiscal</b>, há regra própria no <b>art. 40 da Lei 6.830</b> e na Súmula 314 do STJ (estudadas no tópico de execução fiscal).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Considera-se vil o lance inferior a 70% da avaliação, sem preço mínimo fixado</span><br>✅ <span class=\"certo\">Inferior a <b>50%</b> (art. 891, parágrafo único)</span></li><li>❌ <span class=\"banca\">A prescrição intercorrente no CPC começa após o arquivamento</span><br>✅ <span class=\"certo\">O termo inicial é a <b>ciência da primeira tentativa infrutífera</b> de localização do devedor ou de bens (art. 921, § 4º)</span></li><li>❌ <span class=\"banca\">O juiz não pode reconhecer de ofício a prescrição intercorrente</span><br>✅ <span class=\"certo\">Pode, <b>de ofício</b>, após ouvir as partes em 15 dias (art. 921, § 5º)</span></li><li>❌ <span class=\"banca\">A execução prescreve em prazo diferente da ação</span><br>✅ <span class=\"certo\">Prescreve no <b>mesmo prazo</b> (Súmula 150 do STF)</span></li></ol></div>\n<h3>18. A Fazenda como credora no cumprimento de sentença</h3>\n<ul><li><b>Honorários e despesas</b>: quando o Município vence uma ação, ele (ou seus procuradores, conforme a lei local) promove o <b>cumprimento de sentença</b> contra o particular para cobrar <b>honorários de sucumbência</b> e o reembolso de <b>despesas</b>, pelo regime comum dos arts. 523 e seguintes (intimação para pagar em 15 dias, multa e honorários de 10%, penhora).</li><li><b>Condenações em favor do ente</b>: em ações de ressarcimento ao erário, de improbidade, de indenização por danos ao patrimônio público e em ações civis públicas, a sentença que condena o particular a pagar ao Município é executada pelo <b>cumprimento de sentença</b> comum, e não por execução fiscal (salvo se o crédito for inscrito em dívida ativa).</li><li><b>Inscrição em dívida ativa de crédito judicial</b>: em regra, o crédito reconhecido em sentença já é título judicial e se executa no próprio processo, sem necessidade de inscrição. Mas o crédito de <b>multa</b> aplicada por Tribunal de Contas, por ser título <b>extrajudicial</b>, pode ser executado diretamente pelo rito do CPC (execução de título extrajudicial) ou inscrito em dívida ativa e cobrado por <b>execução fiscal</b>; o STJ admite ambos os caminhos.</li><li><b>Protesto</b>: o Município pode <b>protestar</b> a decisão judicial transitada em julgado, após o prazo de pagamento voluntário (art. 517), e a <b>CDA</b> (Lei 9.492/1997, art. 1º, parágrafo único; STF, ADI 5.135: o protesto de CDA é constitucional e não configura sanção política).</li></ul>\n<h3>19. Questões adicionais de prova</h3>\n<ul><li><b>\"A decisão judicial transitada em julgado poderá ser levada a protesto depois de transcorrido o prazo para pagamento voluntário.\"</b> Certo: art. 517.</li><li><b>\"Os embargos à execução de título extrajudicial têm efeito suspensivo automático.\"</b> Errado: art. 919.</li><li><b>\"No cumprimento definitivo, não efetuado o pagamento em 15 dias, o débito é acrescido de multa de 10% e honorários de 10%.\"</b> Certo: art. 523, § 1º.</li><li><b>\"A impugnação ao cumprimento de sentença depende de prévia garantia do juízo.\"</b> Errado: art. 525 (só o efeito suspensivo exige garantia).</li><li><b>\"É impenhorável a quantia depositada em caderneta de poupança até o limite de 40 salários mínimos.\"</b> Certo: art. 833, X.</li><li><b>\"A dívida de IPTU do próprio imóvel autoriza a penhora do bem de família.\"</b> Certo: Lei 8.009, art. 3º, IV.</li><li><b>\"O Ministério Público tem legitimidade para executar multa imposta por Tribunal de Contas estadual a agente público municipal.\"</b> Errado: o legitimado é o <b>Município</b> (Tema 642 do STF).</li><li><b>\"O juiz, depois de ouvidas as partes, poderá reconhecer de ofício a prescrição intercorrente e extinguir o processo, sem ônus para as partes.\"</b> Certo: art. 921, § 5º.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Particular executado</span></span><span class=\"vs\"><span>intimado para pagar em 15 dias; multa e honorários de 10%; impugnação em 15 dias sem garantia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fazenda executada</span></span><span class=\"vs\"><span>intimada para impugnar em 30 dias; sem multa; precatório ou RPV</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Título extrajudicial contra a Fazenda</span></span><span class=\"vs\"><span>embargos em 30 dias, qualquer matéria (art. 910)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>RPV sem lei local</span></span><span class=\"vs\"><span>União 60 SM; Estados 40 SM; Municípios 30 SM</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Superpreferência</span></span><span class=\"vs\"><span>60 anos, doença grave ou deficiência; até o triplo da RPV</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Precatório</span></span><span class=\"vs\"><span>apresentado até 2 de abril, pago até o fim do exercício seguinte, sem juros no período de graça (SV 17)</span></span></button></div></div>\n<h3>20. Execução individual de sentença coletiva contra a Fazenda</h3>\n<ul><li><b>Cenário comum</b>: um sindicato de servidores municipais vence ação coletiva (mandado de segurança coletivo ou ação civil pública) que reconhece o direito da categoria a um adicional. Cada servidor, então, promove a <b>liquidação e o cumprimento individual</b> da sentença coletiva, demonstrando sua condição de beneficiário e o valor devido.</li><li><b>Competência</b>: o STJ admite que a execução individual da sentença coletiva seja proposta no <b>foro do domicílio</b> do beneficiário (não necessariamente no juízo que proferiu a sentença coletiva), aplicando o microssistema do processo coletivo (CDC, arts. 98 e 101, I).</li><li><b>Prescrição</b>: a pretensão de execução individual de sentença coletiva prescreve em <b>5 anos</b> contados do <b>trânsito em julgado</b> da sentença coletiva (STJ, Tema 877, e Súmula 150 do STF). O STJ também decidiu que <b>não é necessária</b> a publicação de editais (CDC, art. 94) para dar início ao prazo prescricional da execução individual.</li><li><b>Honorários</b>: <b>Súmula 345 do STJ</b>: \"São devidos honorários advocatícios pela Fazenda Pública nas execuções <b>individuais</b> de sentença proferida em <b>ações coletivas</b>, <b>ainda que não embargadas</b>.\" A razão é que, na execução individual da sentença coletiva, o credor precisa demonstrar sua titularidade e o valor (atividade cognitiva), e o art. 85, § 7º, não afasta essa súmula, segundo o STJ (Tema 973: o art. 85, § 7º, não afasta a aplicação da Súmula 345, preservada a hipótese de RPV ou precatório).</li><li><b>Limites subjetivos</b>: na ação coletiva proposta por <b>associação</b> em defesa de interesses de seus associados (representação, CF, art. 5º, XXI), o STF fixou, no <b>Tema 499</b> (RE 612.043), que a eficácia subjetiva da coisa julgada formada a partir de ação coletiva, de rito ordinário, ajuizada por associação civil na defesa de interesses dos associados, somente alcança os <b>filiados</b>, residentes no âmbito da jurisdição do órgão julgador, que o fossem em momento <b>anterior ou até a data da propositura</b> da demanda, constantes de relação jurídica juntada à inicial do processo de conhecimento. Já nas ações propostas por <b>sindicato</b>, que atua como <b>substituto processual</b> (CF, art. 8º, III), a sentença beneficia <b>toda a categoria</b>, filiados ou não.</li><li><b>Limitação territorial</b>: o STF, no <b>Tema 1.075</b> (RE 1.101.937, 2021), declarou <b>inconstitucional</b> o art. 16 da Lei 7.347/1985, na redação dada pela Lei 9.494/1997, que limitava a eficácia da sentença coletiva aos <b>limites da competência territorial</b> do órgão prolator. Hoje, a sentença em ação civil pública tem eficácia <b>erga omnes</b>, nos limites do dano, independentemente do território do juiz.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na execução individual de sentença coletiva não embargada, a Fazenda não paga honorários</span><br>✅ <span class=\"certo\">São <b>devidos</b> (Súmula 345 do STJ)</span></li><li>❌ <span class=\"banca\">A execução individual da sentença coletiva prescreve em 2 anos</span><br>✅ <span class=\"certo\">Prescreve em <b>5 anos</b> do trânsito da sentença coletiva (Tema 877 do STJ)</span></li><li>❌ <span class=\"banca\">A sentença em ação de associação beneficia todos os integrantes da categoria</span><br>✅ <span class=\"certo\">Só os <b>filiados</b> até a propositura, constantes da lista (Tema 499 do STF); sindicato substituto beneficia a <b>categoria</b></span></li><li>❌ <span class=\"banca\">A sentença da ação civil pública vale só no território do juiz prolator</span><br>✅ <span class=\"certo\">O STF declarou inconstitucional a limitação territorial (<b>Tema 1.075</b>)</span></li></ol></div>\n<h3>21. Juros, correção e retenções na execução contra a Fazenda</h3>\n<ul><li><b>Antes da EC 113/2021</b>: o <b>art. 1º-F da Lei 9.494/1997</b> (redação da Lei 11.960/2009) mandava aplicar, nas condenações impostas à Fazenda, os índices oficiais de remuneração básica e juros aplicados à <b>caderneta de poupança</b> (TR + juros da poupança). O STF, no <b>Tema 810</b> (RE 870.947, 2017), decidiu que: quanto aos <b>juros de mora</b>, o art. 1º-F é constitucional para débitos <b>não tributários</b> (juros da poupança), mas, para débitos <b>tributários</b>, devem ser os mesmos que a Fazenda cobra do contribuinte (isonomia); quanto à <b>correção monetária</b>, o uso da TR é <b>inconstitucional</b>, por não recompor a perda inflacionária, devendo ser aplicado o <b>IPCA-E</b>. O STJ, no <b>Tema 905</b>, detalhou os índices por natureza do débito (por exemplo, INPC para benefícios previdenciários, IPCA-E para condenações de natureza administrativa em geral).</li><li><b>EC 113/2021</b>: a partir de 9 de dezembro de 2021, nas discussões e condenações que envolvam a Fazenda Pública, independentemente de sua natureza, incide, <b>uma única vez</b>, até o efetivo pagamento, a <b>taxa Selic</b> (que engloba juros e correção). A <b>EC 136/2025</b> voltou a disciplinar a atualização dos precatórios, com critérios baseados no IPCA e juros limitados à Selic. O cálculo deve, portanto, observar <b>cada período</b> com o índice então vigente.</li><li><b>Retenções tributárias e previdenciárias</b>: no pagamento de precatório ou RPV a servidor ou ex-servidor, a instituição financeira ou o ente retém o <b>imposto de renda</b> na fonte (Lei 10.833/2003, art. 27, para créditos federais; e as regras de rendimentos recebidos acumuladamente, Lei 7.713/1988, art. 12-A) e, conforme o caso, a <b>contribuição previdenciária</b> do servidor sobre as verbas remuneratórias. Para o <b>Município</b>, o imposto de renda retido na fonte sobre rendimentos pagos por ele <b>pertence ao próprio Município</b> (CF, art. 158, I; STF, Tema 1.130), o que torna a correta retenção também uma questão de receita municipal.</li><li><b>Juros de mora contra a Fazenda nas ações de indenização</b>: o termo inicial dos juros, nas obrigações extracontratuais, é a data do <b>evento danoso</b> (Súmula 54 do STJ), e o da correção monetária, nas indenizações por dano moral, é a data do <b>arbitramento</b> (Súmula 362 do STJ).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O STF validou a TR para corrigir condenações contra a Fazenda</span><br>✅ <span class=\"certo\">Declarou <b>inconstitucional</b> a TR (Tema 810), aplicando o <b>IPCA-E</b></span></li><li>❌ <span class=\"banca\">Após a EC 113/2021, aplicam-se separadamente juros e correção sobre a Selic</span><br>✅ <span class=\"certo\">A Selic incide <b>uma única vez</b>, englobando juros e correção</span></li><li>❌ <span class=\"banca\">O imposto de renda retido pelo Município sobre pagamentos de precatório a seus servidores pertence à União</span><br>✅ <span class=\"certo\">Pertence ao <b>Município</b> (CF, art. 158, I; Tema 1.130)</span></li><li>❌ <span class=\"banca\">Os juros na indenização por ato ilícito contam da citação</span><br>✅ <span class=\"certo\">Contam do <b>evento danoso</b> (Súmula 54 do STJ)</span></li></ol></div>",
+"quiz": [
+{
+"p": "O cumprimento da sentença que reconhece o dever de pagar quantia far-se-á a requerimento do exequente.",
+"c": true,
+"prof": "CPC, art. 513, § 1º.",
+"x": "Requerimento.",
+"e": "Cumprimento"
+},
+{
+"p": "O cumprimento de sentença não pode ser promovido contra o fiador que não participou da fase de conhecimento.",
+"c": true,
+"prof": "CPC, art. 513, § 5º.",
+"x": "Fiador.",
+"e": "Fiador"
+},
+{
+"p": "Requerido o cumprimento após 1 ano do trânsito em julgado, a intimação do devedor será pessoal, por carta com aviso de recebimento.",
+"c": true,
+"prof": "CPC, art. 513, § 4º.",
+"x": "1 ano.",
+"e": "Intimação"
+},
+{
+"p": "A decisão homologatória de autocomposição extrajudicial de qualquer natureza é título executivo judicial.",
+"c": true,
+"prof": "CPC, art. 515, III.",
+"x": "Título judicial.",
+"e": "Títulos"
+},
+{
+"p": "A decisão judicial transitada em julgado pode ser levada a protesto após o prazo de pagamento voluntário.",
+"c": true,
+"prof": "CPC, art. 517.",
+"x": "Protesto.",
+"e": "Protesto"
+},
+{
+"p": "Não ocorrendo o pagamento voluntário em 15 dias, o débito será acrescido de multa de 10% e de honorários de 10%.",
+"c": true,
+"prof": "CPC, art. 523, § 1º.",
+"x": "Multa.",
+"e": "Multa"
+},
+{
+"p": "Efetuado pagamento parcial, a multa e os honorários incidirão sobre o restante.",
+"c": true,
+"prof": "CPC, art. 523, § 2º.",
+"x": "Parcial.",
+"e": "Multa"
+},
+{
+"p": "Transcorrido o prazo para pagamento, inicia-se o prazo de 15 dias para impugnação, independentemente de penhora ou nova intimação.",
+"c": true,
+"prof": "CPC, art. 525.",
+"x": "Impugnação.",
+"e": "Impugnação"
+},
+{
+"p": "Alegado excesso de execução sem indicação do valor correto, a impugnação será liminarmente rejeitada se esse for seu único fundamento.",
+"c": true,
+"prof": "CPC, art. 525, § 5º.",
+"x": "Excesso.",
+"e": "Excesso"
+},
+{
+"p": "A impugnação não impede a prática dos atos executivos, salvo se o juiz lhe atribuir efeito suspensivo, garantido o juízo.",
+"c": true,
+"prof": "CPC, art. 525, § 6º.",
+"x": "Efeito suspensivo.",
+"e": "Impugnação"
+},
+{
+"p": "No cumprimento provisório, também são devidos a multa e os honorários de 10%.",
+"c": true,
+"prof": "CPC, art. 520, § 2º.",
+"x": "Provisório.",
+"e": "Provisório"
+},
+{
+"p": "A caução no cumprimento provisório pode ser dispensada quando o crédito for de natureza alimentar.",
+"c": true,
+"prof": "CPC, art. 521, I.",
+"x": "Dispensa.",
+"e": "Caução"
+},
+{
+"p": "A multa por descumprimento de obrigação de fazer é devida ao exequente.",
+"c": true,
+"prof": "CPC, art. 537, § 2º.",
+"x": "Destino.",
+"e": "Astreinte"
+},
+{
+"p": "O juiz pode modificar o valor ou a periodicidade da multa vincenda se ela se tornar insuficiente ou excessiva.",
+"c": true,
+"prof": "CPC, art. 537, § 1º.",
+"x": "Modificação.",
+"e": "Astreinte"
+},
+{
+"p": "No cumprimento de sentença contra a Fazenda, o exequente apresentará demonstrativo discriminado e atualizado do crédito.",
+"c": true,
+"prof": "CPC, art. 534.",
+"x": "Demonstrativo.",
+"e": "Fazenda"
+},
+{
+"p": "A multa de 10% do art. 523 não se aplica ao cumprimento de sentença contra a Fazenda Pública.",
+"c": true,
+"prof": "CPC, art. 534, § 2º.",
+"x": "Sem multa.",
+"e": "Fazenda"
+},
+{
+"p": "A Fazenda será intimada na pessoa de seu representante judicial para impugnar a execução em 30 dias, nos próprios autos.",
+"c": true,
+"prof": "CPC, art. 535.",
+"x": "30 dias.",
+"e": "Impugnação"
+},
+{
+"p": "O prazo de 30 dias para a Fazenda impugnar o cumprimento de sentença é contado em dobro.",
+"c": false,
+"prof": "CPC, art. 183, § 2º.",
+"x": "Prazo próprio.",
+"e": "Prazo"
+},
+{
+"p": "Na impugnação, a Fazenda pode alegar falta ou nulidade da citação se o processo correu à revelia.",
+"c": true,
+"prof": "CPC, art. 535, I.",
+"x": "Citação.",
+"e": "Matérias"
+},
+{
+"p": "Na impugnação, a Fazenda pode alegar pagamento anterior à sentença.",
+"c": false,
+"prof": "CPC, art. 535, VI.",
+"x": "Só superveniente.",
+"e": "Matérias"
+},
+{
+"p": "A Fazenda que alegar excesso de execução deve declarar de imediato o valor que entende correto.",
+"c": true,
+"prof": "CPC, art. 535, § 2º.",
+"x": "Valor correto.",
+"e": "Excesso"
+},
+{
+"p": "Não impugnada a execução, o precatório será expedido por intermédio do presidente do tribunal.",
+"c": true,
+"prof": "CPC, art. 535, § 3º, I.",
+"x": "Precatório.",
+"e": "Expedição"
+},
+{
+"p": "A obrigação de pequeno valor será paga no prazo de 2 meses contado da entrega da requisição.",
+"c": true,
+"prof": "CPC, art. 535, § 3º, II.",
+"x": "RPV.",
+"e": "RPV"
+},
+{
+"p": "Na impugnação parcial, a parte não questionada será desde logo objeto de cumprimento.",
+"c": true,
+"prof": "CPC, art. 535, § 4º.",
+"x": "Incontroverso.",
+"e": "Parcial"
+},
+{
+"p": "É inexigível a obrigação fundada em lei declarada inconstitucional pelo STF em controle concentrado ou difuso, se a decisão for anterior ao trânsito em julgado.",
+"c": true,
+"prof": "CPC, art. 535, §§ 5º e 7º.",
+"x": "Coisa julgada inconstitucional.",
+"e": "Inexigibilidade"
+},
+{
+"p": "Se a decisão do STF for posterior ao trânsito em julgado da decisão exequenda, caberá ação rescisória, contado o prazo do trânsito da decisão do STF.",
+"c": true,
+"prof": "CPC, art. 535, § 8º.",
+"x": "Rescisória.",
+"e": "Rescisória"
+},
+{
+"p": "O STF considerou constitucional a inexigibilidade do título fundado em norma declarada inconstitucional.",
+"c": true,
+"prof": "Tema 360 do STF.",
+"x": "Constitucional.",
+"e": "Tema 360"
+},
+{
+"p": "É cabível execução por título extrajudicial contra a Fazenda Pública.",
+"c": true,
+"prof": "Súmula 279 do STJ.",
+"x": "Título extrajudicial.",
+"e": "Súmula 279"
+},
+{
+"p": "Na execução de título extrajudicial, a Fazenda será citada para opor embargos em 30 dias, podendo alegar qualquer matéria de defesa.",
+"c": true,
+"prof": "CPC, art. 910.",
+"x": "Embargos.",
+"e": "Art. 910"
+},
+{
+"p": "É admissível ação monitória em face da Fazenda Pública.",
+"c": true,
+"prof": "Súmula 339 do STJ.",
+"x": "Monitória.",
+"e": "Monitória"
+},
+{
+"p": "Na monitória contra a Fazenda sem embargos, aplica-se a remessa necessária.",
+"c": true,
+"prof": "CPC, art. 701, § 4º.",
+"x": "Remessa.",
+"e": "Monitória"
+},
+{
+"p": "Os pagamentos da Fazenda em virtude de sentença far-se-ão exclusivamente na ordem cronológica dos precatórios.",
+"c": true,
+"prof": "CF, art. 100.",
+"x": "Ordem cronológica.",
+"e": "Precatório"
+},
+{
+"p": "Os débitos de natureza alimentícia serão pagos com preferência sobre os demais, salvo sobre os da superpreferência.",
+"c": true,
+"prof": "CF, art. 100, § 1º.",
+"x": "Alimentares.",
+"e": "Alimentares"
+},
+{
+"p": "Os débitos alimentares de titulares com 60 anos, doença grave ou deficiência terão superpreferência até o triplo do valor da RPV.",
+"c": true,
+"prof": "CF, art. 100, § 2º.",
+"x": "Superpreferência.",
+"e": "Superpreferência"
+},
+{
+"p": "O valor mínimo da RPV fixado por lei do ente deve ser igual ao do maior benefício do regime geral de previdência social.",
+"c": true,
+"prof": "CF, art. 100, § 4º.",
+"x": "Mínimo.",
+"e": "RPV"
+},
+{
+"p": "Após a EC 114/2021, os precatórios apresentados até 2 de abril devem ser incluídos no orçamento do exercício seguinte.",
+"c": true,
+"prof": "CF, art. 100, § 5º.",
+"x": "2 de abril.",
+"e": "Orçamento"
+},
+{
+"p": "O sequestro de valores é autorizado em caso de preterição do direito de precedência ou de não alocação orçamentária.",
+"c": true,
+"prof": "CF, art. 100, § 6º.",
+"x": "Sequestro.",
+"e": "Sequestro"
+},
+{
+"p": "O presidente do tribunal que retardar ou frustrar a liquidação de precatórios comete crime de responsabilidade.",
+"c": true,
+"prof": "CF, art. 100, § 7º.",
+"x": "Responsabilidade.",
+"e": "Presidente"
+},
+{
+"p": "É vedado o fracionamento do valor da execução para enquadramento de parcela como RPV.",
+"c": true,
+"prof": "CF, art. 100, § 8º.",
+"x": "Fracionamento.",
+"e": "Fracionamento"
+},
+{
+"p": "Na falta de lei própria, a RPV dos Municípios corresponde a 30 salários mínimos.",
+"c": true,
+"prof": "ADCT, art. 87, II.",
+"x": "30 SM.",
+"e": "RPV"
+},
+{
+"p": "Na falta de lei própria, a RPV dos Estados corresponde a 40 salários mínimos.",
+"c": true,
+"prof": "ADCT, art. 87, I.",
+"x": "40 SM.",
+"e": "RPV"
+},
+{
+"p": "A RPV da União corresponde a 60 salários mínimos.",
+"c": true,
+"prof": "Lei 10.259, art. 17, § 1º.",
+"x": "60 SM.",
+"e": "RPV"
+},
+{
+"p": "O credor pode renunciar ao valor excedente da RPV para receber sem precatório.",
+"c": true,
+"prof": "ADCT, art. 87, parágrafo único.",
+"x": "Renúncia.",
+"e": "Renúncia"
+},
+{
+"p": "O ente pode fixar por lei valor de RPV inferior ao do ADCT, respeitado o mínimo constitucional.",
+"c": true,
+"prof": "ADI 2.868.",
+"x": "Capacidade econômica.",
+"e": "Lei local"
+},
+{
+"p": "Segundo o STF, a lei que altera o limite da RPV não se aplica a situações jurídicas constituídas antes de sua vigência.",
+"c": true,
+"prof": "Tema 792.",
+"x": "Irretroatividade.",
+"e": "Tema 792"
+},
+{
+"p": "Durante o período constitucional de pagamento, não incidem juros de mora sobre os precatórios nele pagos.",
+"c": true,
+"prof": "Súmula Vinculante 17.",
+"x": "Período de graça.",
+"e": "SV 17"
+},
+{
+"p": "Incidem juros de mora entre a data da realização dos cálculos e a da requisição ou do precatório.",
+"c": true,
+"prof": "Tema 96 do STF.",
+"x": "Juros.",
+"e": "Tema 96"
+},
+{
+"p": "A preferência dos créditos alimentares dispensa a expedição de precatório.",
+"c": false,
+"prof": "Súmula 655 do STF.",
+"x": "Não dispensa.",
+"e": "Súmula 655"
+},
+{
+"p": "Os honorários advocatícios têm natureza alimentar e são pagos por precatório ou RPV, em ordem especial.",
+"c": true,
+"prof": "Súmula Vinculante 47.",
+"x": "Honorários.",
+"e": "SV 47"
+},
+{
+"p": "O STF declarou inconstitucional a compensação obrigatória de precatórios com débitos do credor.",
+"c": true,
+"prof": "ADIs 4.357 e 4.425.",
+"x": "Compensação.",
+"e": "Compensação"
+},
+{
+"p": "A EC 113/2021 determinou a aplicação da taxa Selic, uma única vez, nas condenações contra a Fazenda.",
+"c": true,
+"prof": "EC 113/2021, art. 3º.",
+"x": "Selic.",
+"e": "Atualização"
+},
+{
+"p": "Ao cessionário de precatório não se aplicam as preferências da superpreferência e da RPV.",
+"c": true,
+"prof": "CF, art. 100, § 13.",
+"x": "Cessão.",
+"e": "Cessão"
+},
+{
+"p": "No regime especial do ADCT, admitem-se acordos diretos com redução de até 40% do crédito atualizado.",
+"c": true,
+"prof": "ADCT, art. 102, § 1º.",
+"x": "Acordo.",
+"e": "Regime especial"
+},
+{
+"p": "Quando a apuração do valor depender apenas de cálculo aritmético, o credor pode promover desde logo o cumprimento da sentença.",
+"c": true,
+"prof": "CPC, art. 509, § 2º.",
+"x": "Cálculo.",
+"e": "Liquidação"
+},
+{
+"p": "Na liquidação é vedado discutir de novo a lide ou modificar a sentença.",
+"c": true,
+"prof": "CPC, art. 509, § 4º.",
+"x": "Fidelidade.",
+"e": "Liquidação"
+},
+{
+"p": "A certidão de dívida ativa dos Municípios é título executivo extrajudicial.",
+"c": true,
+"prof": "CPC, art. 784, IX.",
+"x": "CDA.",
+"e": "Títulos"
+},
+{
+"p": "Segundo o STF, o Município prejudicado é o legitimado para executar multa aplicada por Tribunal de Contas estadual a agente público municipal.",
+"c": true,
+"prof": "Tema 642.",
+"x": "Município.",
+"e": "Tribunal de Contas"
+},
+{
+"p": "Os embargos à execução independem de penhora, depósito ou caução.",
+"c": true,
+"prof": "CPC, art. 914.",
+"x": "Sem garantia.",
+"e": "Embargos"
+},
+{
+"p": "Os embargos à execução não têm efeito suspensivo, salvo se presentes os requisitos da tutela provisória e garantida a execução.",
+"c": true,
+"prof": "CPC, art. 919.",
+"x": "Efeito suspensivo.",
+"e": "Embargos"
+},
+{
+"p": "No parcelamento do art. 916, o executado deposita 30% e paga o restante em até 6 parcelas mensais.",
+"c": true,
+"prof": "CPC, art. 916.",
+"x": "Parcelamento.",
+"e": "Parcelamento"
+},
+{
+"p": "O parcelamento do art. 916 aplica-se ao cumprimento de sentença.",
+"c": false,
+"prof": "CPC, art. 916, § 7º.",
+"x": "Não se aplica.",
+"e": "Parcelamento"
+},
+{
+"p": "É impenhorável a quantia em caderneta de poupança até o limite de 40 salários mínimos.",
+"c": true,
+"prof": "CPC, art. 833, X.",
+"x": "Poupança.",
+"e": "Impenhorabilidade"
+},
+{
+"p": "A impenhorabilidade dos salários não se aplica à penhora para pagamento de prestação alimentícia.",
+"c": true,
+"prof": "CPC, art. 833, § 2º.",
+"x": "Alimentos.",
+"e": "Salário"
+},
+{
+"p": "A cobrança de impostos devidos em função do imóvel familiar é exceção à impenhorabilidade do bem de família.",
+"c": true,
+"prof": "Lei 8.009, art. 3º, IV.",
+"x": "IPTU.",
+"e": "Bem de família"
+},
+{
+"p": "A impenhorabilidade do bem de família abrange o imóvel de pessoas solteiras, separadas e viúvas.",
+"c": true,
+"prof": "Súmula 364 do STJ.",
+"x": "Solteiros.",
+"e": "Bem de família"
+},
+{
+"p": "A penhora em dinheiro é prioritária.",
+"c": true,
+"prof": "CPC, art. 835, § 1º.",
+"x": "Dinheiro.",
+"e": "Ordem"
+},
+{
+"p": "Para fins de substituição da penhora, equiparam-se a dinheiro a fiança bancária e o seguro garantia judicial no valor do débito acrescido de 30%.",
+"c": true,
+"prof": "CPC, art. 835, § 2º.",
+"x": "30%.",
+"e": "Seguro garantia"
+},
+{
+"p": "A penhora on-line de ativos financeiros é determinada sem ciência prévia do executado.",
+"c": true,
+"prof": "CPC, art. 854.",
+"x": "Sisbajud.",
+"e": "Penhora on-line"
+},
+{
+"p": "Não tendo sido fixado preço mínimo, considera-se vil o preço inferior a 50% do valor da avaliação.",
+"c": true,
+"prof": "CPC, art. 891, parágrafo único.",
+"x": "Preço vil.",
+"e": "Leilão"
+},
+{
+"p": "O termo inicial da prescrição intercorrente no CPC é a ciência da primeira tentativa infrutífera de localização do devedor ou de bens.",
+"c": true,
+"prof": "CPC, art. 921, § 4º.",
+"x": "Termo inicial.",
+"e": "Prescrição intercorrente"
+},
+{
+"p": "O juiz pode reconhecer de ofício a prescrição intercorrente, depois de ouvidas as partes em 15 dias, sem ônus para elas.",
+"c": true,
+"prof": "CPC, art. 921, § 5º.",
+"x": "De ofício.",
+"e": "Prescrição intercorrente"
+},
+{
+"p": "Prescreve a execução no mesmo prazo de prescrição da ação.",
+"c": true,
+"prof": "Súmula 150 do STF.",
+"x": "Mesmo prazo.",
+"e": "Súmula 150"
+},
+{
+"p": "O protesto de certidão de dívida ativa é constitucional.",
+"c": true,
+"prof": "ADI 5.135.",
+"x": "Protesto.",
+"e": "CDA"
+},
+{
+"p": "São devidos honorários pela Fazenda nas execuções individuais de sentença coletiva, ainda que não embargadas.",
+"c": true,
+"prof": "Súmula 345 do STJ.",
+"x": "Coletiva.",
+"e": "Súmula 345"
+},
+{
+"p": "A eficácia da sentença em ação coletiva ordinária proposta por associação alcança apenas os filiados até a data da propositura, constantes da lista.",
+"c": true,
+"prof": "Tema 499 do STF.",
+"x": "Associação.",
+"e": "Tema 499"
+},
+{
+"p": "O STF declarou inconstitucional a limitação territorial da eficácia da sentença na ação civil pública.",
+"c": true,
+"prof": "Tema 1.075.",
+"x": "Erga omnes.",
+"e": "Tema 1.075"
+},
+{
+"p": "O STF declarou inconstitucional o uso da TR para correção monetária das condenações contra a Fazenda.",
+"c": true,
+"prof": "Tema 810.",
+"x": "IPCA-E.",
+"e": "Tema 810"
+},
+{
+"p": "O imposto de renda retido na fonte pelo Município sobre rendimentos que paga pertence ao próprio Município.",
+"c": true,
+"prof": "CF, art. 158, I; Tema 1.130.",
+"x": "Receita municipal.",
+"e": "IR"
+},
+{
+"p": "No cumprimento de sentença que impõe à Fazenda Pública o dever de pagar quantia certa,",
+"alts": [
+"a Fazenda é intimada para pagar em 15 dias, sob pena de multa de 10%",
+"a Fazenda é intimada para impugnar em 30 dias, não se aplicando a multa do art. 523",
+"a Fazenda é citada para embargar em 15 dias",
+"há penhora de bens públicos dominicais",
+"a impugnação exige garantia do juízo"
+],
+"r": 1,
+"x": "Arts. 534 e 535.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Impenhoráveis.",
+"Não."
+],
+"e": "Fazenda."
+},
+{
+"p": "Pode a Fazenda alegar na impugnação ao cumprimento de sentença, EXCETO:",
+"alts": [
+"ilegitimidade de parte",
+"excesso de execução",
+"incompetência do juízo",
+"nulidade da citação, se o processo correu à revelia",
+"penhora incorreta ou avaliação errônea"
+],
+"r": 4,
+"x": "Art. 535.",
+"n": [
+"Cabe.",
+"Cabe.",
+"Cabe.",
+"Cabe.",
+"Correta: não há penhora contra a Fazenda."
+],
+"e": "Matérias."
+},
+{
+"p": "Sobre o excesso de execução alegado pela Fazenda, é correto afirmar:",
+"alts": [
+"basta alegá-lo genericamente",
+"a Fazenda deve declarar de imediato o valor que entende correto, e a parte não impugnada será desde logo cumprida",
+"suspende todo o cumprimento até a decisão",
+"exige perícia obrigatória",
+"só pode ser alegado em ação autônoma"
+],
+"r": 1,
+"x": "Art. 535, §§ 2º e 4º.",
+"n": [
+"Não.",
+"Correta.",
+"Só a parte controvertida.",
+"Não.",
+"Não."
+],
+"e": "Excesso."
+},
+{
+"p": "A obrigação de pequeno valor devida pela Fazenda será paga",
+"alts": [
+"por precatório, no exercício seguinte",
+"no prazo de 2 meses contado da entrega da requisição, por ordem do juiz",
+"em 30 dias da sentença",
+"em 6 meses",
+"sem prazo definido"
+],
+"r": 1,
+"x": "Art. 535, § 3º, II.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "RPV."
+},
+{
+"p": "Na falta de lei própria, consideram-se de pequeno valor os débitos dos Municípios de valor igual ou inferior a",
+"alts": [
+"60 salários mínimos",
+"40 salários mínimos",
+"30 salários mínimos",
+"20 salários mínimos",
+"10 salários mínimos"
+],
+"r": 2,
+"x": "ADCT, art. 87, II.",
+"n": [
+"União.",
+"Estados.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "RPV municipal."
+},
+{
+"p": "Quanto à superpreferência no pagamento de precatórios, é correto afirmar:",
+"alts": [
+"alcança qualquer crédito de idosos, sem limite",
+"alcança créditos alimentares de titulares com 60 anos, doença grave ou deficiência, até o triplo do valor da RPV, admitido o fracionamento",
+"aplica-se ao cessionário do crédito",
+"dispensa precatório para todo o valor",
+"só vale para a União"
+],
+"r": 1,
+"x": "CF, art. 100, §§ 2º e 13.",
+"n": [
+"Até o triplo.",
+"Correta.",
+"Não se aplica.",
+"Restante segue a fila.",
+"Todos os entes."
+],
+"e": "Superpreferência."
+},
+{
+"p": "Após a EC 114/2021, os precatórios apresentados até determinada data devem ser incluídos no orçamento e pagos até o fim do exercício seguinte. Essa data é",
+"alts": [
+"1º de julho",
+"31 de dezembro",
+"2 de abril",
+"1º de março",
+"30 de junho"
+],
+"r": 2,
+"x": "CF, art. 100, § 5º.",
+"n": [
+"Regra antiga.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Orçamento."
+},
+{
+"p": "Segundo a Súmula Vinculante 17,",
+"alts": [
+"incidem juros de mora no período de graça",
+"não incidem juros de mora sobre os precatórios pagos durante o período constitucional",
+"não incide correção monetária",
+"os precatórios alimentares não têm juros",
+"a Fazenda paga juros em dobro"
+],
+"r": 1,
+"x": "SV 17.",
+"n": [
+"Não.",
+"Correta.",
+"Incide.",
+"Não.",
+"Não."
+],
+"e": "SV 17."
+},
+{
+"p": "Sobre a Lei municipal que fixa o valor da RPV, é correto afirmar:",
+"alts": [
+"deve observar exatamente 30 salários mínimos",
+"pode fixar valor inferior ao do ADCT, respeitado o mínimo igual ao maior benefício do RGPS, e não se aplica a situações constituídas antes de sua vigência",
+"aplica-se retroativamente a todas as execuções",
+"depende de aprovação do TJ",
+"é inconstitucional"
+],
+"r": 1,
+"x": "CF, art. 100, § 4º; ADI 2.868; Tema 792.",
+"n": [
+"Não.",
+"Correta.",
+"Tema 792.",
+"Não.",
+"Válida."
+],
+"e": "Lei de RPV."
+},
+{
+"p": "Segundo a Súmula 279 do STJ,",
+"alts": [
+"não cabe execução contra a Fazenda",
+"é cabível execução por título extrajudicial contra a Fazenda Pública",
+"a Fazenda não pode ser executada por RPV",
+"cabe penhora de bens públicos",
+"cabe prisão do Prefeito"
+],
+"r": 1,
+"x": "Súmula 279.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Súmula 279."
+},
+{
+"p": "Na execução de título extrajudicial contra a Fazenda, os embargos",
+"alts": [
+"devem ser opostos em 15 dias, limitados às matérias do art. 535",
+"devem ser opostos em 30 dias, podendo a Fazenda alegar qualquer matéria de defesa",
+"dependem de garantia",
+"são julgados pelo presidente do tribunal",
+"não existem"
+],
+"r": 1,
+"x": "Art. 910.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Art. 910."
+},
+{
+"p": "Quanto à execução de multa imposta pelo Tribunal de Contas estadual a agente público municipal, o STF decidiu que o legitimado é",
+"alts": [
+"o Ministério Público estadual",
+"o próprio Tribunal de Contas",
+"o Município prejudicado",
+"o Estado",
+"qualquer cidadão"
+],
+"r": 2,
+"x": "Tema 642.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Tema 642."
+},
+{
+"p": "É exceção à impenhorabilidade do bem de família:",
+"alts": [
+"a dívida de cartão de crédito",
+"a cobrança de impostos, como o IPTU, devidos em função do próprio imóvel",
+"a dívida trabalhista de terceiros",
+"a multa de trânsito",
+"qualquer dívida acima de 100 salários mínimos"
+],
+"r": 1,
+"x": "Lei 8.009, art. 3º, IV.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Bem de família."
+},
+{
+"p": "No cumprimento definitivo contra o particular, não havendo pagamento voluntário em 15 dias,",
+"alts": [
+"o processo é extinto",
+"o débito é acrescido de multa de 10% e honorários de 10%, expedindo-se mandado de penhora",
+"o devedor é preso",
+"o juiz converte em perdas e danos",
+"a multa é de 20%"
+],
+"r": 1,
+"x": "Art. 523.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"10%."
+],
+"e": "Multa."
+},
+{
+"p": "A impugnação ao cumprimento de sentença pelo particular",
+"alts": [
+"depende de penhora",
+"tem efeito suspensivo automático",
+"independe de penhora, mas o efeito suspensivo exige garantia do juízo, relevância e risco de grave dano",
+"é apresentada em 30 dias",
+"só pode tratar de excesso de execução"
+],
+"r": 2,
+"x": "Art. 525.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"15 dias.",
+"Várias matérias."
+],
+"e": "Impugnação."
+},
+{
+"p": "São impenhoráveis, segundo o CPC, EXCETO:",
+"alts": [
+"os vencimentos e salários, ressalvadas as exceções legais",
+"o seguro de vida",
+"a poupança até 40 salários mínimos",
+"os instrumentos necessários à profissão",
+"o dinheiro depositado em conta de empresa sem vinculação a obra"
+],
+"r": 4,
+"x": "Art. 833.",
+"n": [
+"Impenhorável.",
+"Impenhorável.",
+"Impenhorável.",
+"Impenhorável.",
+"Correta: penhorável."
+],
+"e": "Impenhorabilidade."
+},
+{
+"p": "Sobre a prescrição intercorrente no CPC após a Lei 14.195/2021, é correto afirmar:",
+"alts": [
+"só começa após 5 anos de arquivamento",
+"não pode ser reconhecida de ofício",
+"seu termo inicial é a ciência da primeira tentativa infrutífera de localização do devedor ou de bens, e o juiz pode reconhecê-la de ofício após ouvir as partes",
+"gera ônus de sucumbência para o credor",
+"tem prazo de 2 anos fixo"
+],
+"r": 2,
+"x": "Art. 921.",
+"n": [
+"Não.",
+"Pode.",
+"Correta.",
+"Sem ônus.",
+"Mesmo prazo da pretensão."
+],
+"e": "Intercorrente."
+},
+{
+"p": "A exceção prevista na Constituição em favor dos créditos alimentares contra a Fazenda",
+"alts": [
+"dispensa a expedição de precatório",
+"não dispensa o precatório, apenas os isenta da ordem cronológica dos créditos de outra natureza",
+"permite penhora de bens públicos",
+"dispensa a inclusão no orçamento",
+"permite pagamento imediato"
+],
+"r": 1,
+"x": "Súmula 655 do STF.",
+"n": [
+"Não dispensa.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Alimentares."
+}
+]
+},
+"execucao-fiscal": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>30 dias</b><span>prazo dos embargos à execução fiscal, contados da garantia (Lei 6.830, art. 16)</span></div><div class=\"lt-stat\"><b>1 + 5 anos</b><span>suspensão de 1 ano e prescrição intercorrente de 5 anos (art. 40; Súmula 314 do STJ)</span></div><div class=\"lt-stat\"><b>R$ 10 mil</b><span>valor de referência da Resolução CNJ 547/2024 para extinção de execuções fiscais paradas</span></div><div class=\"lt-stat\"><b>Tema 1.184</b><span>STF admitiu extinguir execução fiscal de baixo valor por falta de interesse de agir</span></div></div>\n<h3>1. A Lei de Execução Fiscal e a dívida ativa</h3>\n<ul><li>A <b>Lei 6.830/1980</b> (Lei de Execução Fiscal, LEF) rege a cobrança judicial da <b>Dívida Ativa</b> da <b>União, dos Estados, do DF, dos Municípios</b> e respectivas <b>autarquias</b>. O <b>CPC</b> aplica-se <b>subsidiariamente</b> (art. 1º). Para o Procurador Municipal, é a lei mais usada no dia a dia: a cobrança de IPTU, ISS, taxas, multas administrativas e outros créditos do Município passa por ela.</li><li><b>Dívida Ativa</b> (art. 2º): constitui Dívida Ativa da Fazenda Pública aquela definida como <b>tributária</b> ou <b>não tributária</b> na Lei 4.320/1964 (art. 39, § 2º). <b>Tributária</b> é o crédito proveniente de obrigação legal relativa a tributos e respectivos adicionais e multas; <b>não tributária</b> são os demais créditos da Fazenda Pública, como os provenientes de empréstimos compulsórios, contribuições estabelecidas em lei, <b>multas de qualquer origem</b> ou natureza (exceto as tributárias), foros, laudêmios, aluguéis ou taxas de ocupação, custas processuais, preços de serviços prestados por estabelecimentos públicos, indenizações, reposições, restituições, alcances dos responsáveis definitivamente julgados, entre outros.</li><li><b>Alcance</b> (art. 2º, § 2º): a Dívida Ativa da Fazenda Pública, compreendendo a tributária e a não tributária, abrange <b>atualização monetária, juros e multa de mora</b> e demais encargos previstos em lei ou contrato.</li><li><b>Inscrição</b> (art. 2º, § 3º): a inscrição, que se constitui no <b>ato de controle administrativo da legalidade</b>, será feita pelo órgão competente para apurar a <b>liquidez e certeza</b> do crédito e <b>suspenderá a prescrição</b>, para todos os efeitos de direito, por <b>180 dias</b> ou até a distribuição da execução fiscal, se esta ocorrer antes de findo aquele prazo. Atenção: o STJ entende que essa suspensão de 180 dias só se aplica aos créditos <b>não tributários</b>, porque prescrição tributária é matéria reservada a <b>lei complementar</b> (CF, art. 146, III, \"b\"; CTN, art. 174).</li><li><b>Quem inscreve</b>: no âmbito federal, a <b>Procuradoria-Geral da Fazenda Nacional</b> (art. 2º, § 4º); nos Municípios, o órgão definido em lei local, normalmente a <b>Procuradoria</b> ou a Secretaria de Fazenda.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A LEF só se aplica a créditos tributários</span><br>✅ <span class=\"certo\">Abrange dívida ativa <b>tributária e não tributária</b> (art. 2º)</span></li><li>❌ <span class=\"banca\">A inscrição em dívida ativa suspende a prescrição tributária por 180 dias</span><br>✅ <span class=\"certo\">Segundo o STJ, a suspensão do art. 2º, § 3º, aplica-se só aos créditos <b>não tributários</b></span></li><li>❌ <span class=\"banca\">O CPC não se aplica à execução fiscal</span><br>✅ <span class=\"certo\">Aplica-se <b>subsidiariamente</b> (art. 1º)</span></li><li>❌ <span class=\"banca\">Multas administrativas não podem ser inscritas em dívida ativa</span><br>✅ <span class=\"certo\">São dívida ativa <b>não tributária</b></span></li></ol></div>\n<h3>2. Certidão de Dívida Ativa (CDA)</h3>\n<ul><li><b>Requisitos do termo de inscrição</b> (art. 2º, § 5º): I, o <b>nome do devedor</b>, dos <b>corresponsáveis</b> e, sempre que conhecido, o <b>domicílio</b> ou residência de um e de outros; II, o <b>valor originário</b> da dívida, bem como o termo inicial e a forma de calcular os juros de mora e demais encargos previstos em lei ou contrato; III, a <b>origem, a natureza e o fundamento legal</b> ou contratual da dívida; IV, a indicação, se for o caso, de estar a dívida sujeita à <b>atualização monetária</b>, bem como o respectivo fundamento legal e o termo inicial para o cálculo; V, a <b>data e o número da inscrição</b>, no Registro de Dívida Ativa; VI, o número do <b>processo administrativo</b> ou do auto de infração, se neles estiver apurado o valor da dívida. A <b>Certidão de Dívida Ativa</b> conterá os mesmos elementos do Termo de Inscrição e será autenticada pela autoridade competente (§ 6º).</li><li><b>Presunção</b> (art. 3º): a Dívida Ativa regularmente inscrita goza da <b>presunção de certeza e liquidez</b>. A presunção é <b>relativa</b> e pode ser ilidida por <b>prova inequívoca</b>, a cargo do executado ou de terceiro, a quem aproveite (parágrafo único).</li><li><b>Emenda e substituição</b> (art. 2º, § 8º): até a <b>decisão de primeira instância</b>, a CDA poderá ser <b>emendada ou substituída</b>, assegurada ao executado a <b>devolução do prazo para embargos</b>. A <b>Súmula 392 do STJ</b> limita: \"A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de <b>erro material ou formal</b>, <b>vedada a modificação do sujeito passivo</b> da execução.\" Ou seja, não se pode trocar o executado nem alterar o próprio lançamento.</li><li><b>Execução contra morto</b>: o STJ entende que, ajuizada a execução fiscal contra <b>devedor já falecido</b> antes do ajuizamento, não é possível redirecioná-la ao espólio ou aos herdeiros, nem substituir a CDA para isso (Súmula 392), devendo o processo ser <b>extinto</b>, cabendo à Fazenda novo lançamento e nova execução contra o espólio, se ainda não houver decadência. Se o falecimento ocorrer <b>depois</b> da citação, há <b>sucessão</b> processual normal.</li><li><b>CPF e demonstrativo</b>: <b>Súmula 558 do STJ</b>: \"Em ações de execução fiscal, a petição inicial <b>não pode ser indeferida</b> sob o argumento da <b>falta de indicação do CPF e/ou RG ou CNPJ</b> da parte executada.\" <b>Súmula 559 do STJ</b>: \"Em ações de execução fiscal, é <b>desnecessária</b> a instrução da petição inicial com o <b>demonstrativo de cálculo</b> do débito, por tratar-se de requisito não previsto no art. 6º da Lei 6.830/1980.\"</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A presunção de certeza e liquidez da CDA é absoluta</span><br>✅ <span class=\"certo\">É <b>relativa</b>, ilidível por prova inequívoca (art. 3º)</span></li><li>❌ <span class=\"banca\">A Fazenda pode substituir a CDA para trocar o executado</span><br>✅ <span class=\"certo\">É <b>vedada a modificação do sujeito passivo</b> (Súmula 392 do STJ)</span></li><li>❌ <span class=\"banca\">A CDA pode ser substituída até o trânsito em julgado</span><br>✅ <span class=\"certo\">Até a <b>decisão de primeira instância</b> (sentença dos embargos)</span></li><li>❌ <span class=\"banca\">A falta do CPF do executado autoriza o indeferimento da inicial</span><br>✅ <span class=\"certo\"><b>Não autoriza</b> (Súmula 558 do STJ)</span></li><li>❌ <span class=\"banca\">A inicial da execução fiscal deve vir com demonstrativo de cálculo</span><br>✅ <span class=\"certo\">É <b>desnecessário</b> (Súmula 559 do STJ)</span></li></ol></div>\n<h3>3. Partes, competência e petição inicial</h3>\n<ul><li><b>Sujeito passivo</b> (art. 4º): a execução fiscal poderá ser promovida contra: I, o <b>devedor</b>; II, o <b>fiador</b>; III, o <b>espólio</b>; IV, a <b>massa</b>; V, o <b>responsável</b>, nos termos da lei, por dívidas, tributárias ou não, de pessoas físicas ou pessoas jurídicas de direito privado; VI, os <b>sucessores</b> a qualquer título. O síndico, o comissário, o liquidante, o inventariante e o administrador, nos casos de falência, concordata, liquidação, inventário, insolvência ou concurso de credores, se, antes de garantidos os créditos da Fazenda Pública, alienarem ou derem em garantia quaisquer dos bens administrados, respondem, solidariamente, pelo valor desses bens (§ 1º).</li><li><b>Competência</b> (art. 5º): a competência para processar e julgar a execução da Dívida Ativa da Fazenda Pública <b>exclui a de qualquer outro juízo</b>, inclusive o da falência, da concordata, da liquidação, da insolvência ou do inventário. O CPC (art. 46, § 5º) diz que a execução fiscal será proposta no foro de <b>domicílio do réu</b>, no de sua residência ou no do lugar onde for encontrado; o STF (ADIs 5.492 e 5.737) restringiu a regra aos <b>limites territoriais do ente</b> ou ao local do fato gerador. <b>Súmula 58 do STJ</b>: \"Proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada.\"</li><li><b>Reunião de execuções</b> (art. 28): o juiz, a requerimento das partes, poderá, por conveniência da unidade da garantia da execução, ordenar a reunião de processos contra o mesmo devedor. <b>Súmula 515 do STJ</b>: \"A reunião de execuções fiscais contra o mesmo devedor constitui <b>faculdade do juiz</b>.\"</li><li><b>Petição inicial</b> (art. 6º): indicará apenas: I, o juiz a quem é dirigida; II, o pedido; III, o requerimento para a citação. A petição inicial será instruída com a <b>CDA</b>, que dela fará parte integrante, como se estivesse transcrita (§ 1º). A petição inicial e a CDA poderão constituir um <b>único documento</b>, preparado inclusive por processo eletrônico (§ 2º). A produção de provas pela Fazenda Pública <b>independe de requerimento</b> na petição inicial (§ 3º). O valor da causa será o da dívida constante da certidão, com os encargos legais (§ 4º).</li><li><b>Despacho inicial</b> (art. 7º): o despacho do juiz que deferir a inicial importa em ordem para: I, <b>citação</b>; II, <b>penhora</b>, se não for paga a dívida, nem garantida a execução, por meio de depósito, fiança ou seguro garantia; III, <b>arresto</b>, se o executado não tiver domicílio ou dele se ocultar; IV, <b>registro</b> da penhora ou do arresto, independentemente do pagamento de custas ou outras despesas; V, <b>avaliação</b> dos bens penhorados ou arrestados.</li><li><b>Intervenção do MP</b>: <b>Súmula 189 do STJ</b>: \"É <b>desnecessária</b> a intervenção do Ministério Público nas execuções fiscais.\"</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A competência da execução fiscal é atraída pelo juízo da falência</span><br>✅ <span class=\"certo\">A competência da execução fiscal <b>exclui</b> a de qualquer outro juízo, inclusive o falimentar (art. 5º)</span></li><li>❌ <span class=\"banca\">A mudança de domicílio do executado após a propositura desloca a competência</span><br>✅ <span class=\"certo\"><b>Não desloca</b> (Súmula 58 do STJ)</span></li><li>❌ <span class=\"banca\">A reunião de execuções fiscais é obrigatória</span><br>✅ <span class=\"certo\">É <b>faculdade do juiz</b> (Súmula 515 do STJ)</span></li><li>❌ <span class=\"banca\">O MP deve intervir em toda execução fiscal</span><br>✅ <span class=\"certo\">É <b>desnecessária</b> (Súmula 189 do STJ)</span></li></ol></div>\n<h3>4. Citação e garantia da execução</h3>\n<ul><li><b>Citação</b> (art. 8º): o executado será <b>citado</b> para, no prazo de <b>5 dias</b>, <b>pagar a dívida</b> com os juros e multa de mora e encargos indicados na CDA, ou <b>garantir a execução</b>, observadas as seguintes normas: I, a citação será feita pelo <b>correio</b>, com aviso de recepção, se a Fazenda Pública não a requerer por outra forma; II, a citação pelo correio considera-se feita na data da entrega da carta no endereço do executado, ou, se a data for omitida no aviso de recepção, <b>10 dias</b> após a entrega da carta à agência postal; III, se o aviso de recepção não retornar no prazo de 15 dias da entrega da carta à agência postal, a citação será feita por oficial de justiça ou por edital; IV, o edital de citação será afixado na sede do juízo, publicado uma só vez no órgão oficial, gratuitamente, como expediente judiciário, com o <b>prazo de 30 dias</b>, e conterá, apenas, a indicação da exequente, o nome do devedor e dos corresponsáveis, a quantia devida, a natureza da dívida, a data e o número da inscrição no Registro da Dívida Ativa, o prazo e o endereço da sede do juízo.</li><li><b>Interrupção da prescrição</b> (art. 8º, § 2º): o <b>despacho do juiz, que ordenar a citação, interrompe a prescrição</b>. Para créditos tributários, a regra é a do CTN, art. 174, parágrafo único, I (redação da LC 118/2005), com retroação à data da propositura (STJ, Tema 383).</li><li><b>Edital</b> (Súmula 414 do STJ): a citação por edital na execução fiscal é cabível quando <b>frustradas as demais modalidades</b>. O executado citado por edital que não comparece recebe <b>curador especial</b> (Súmula 196 do STJ: \"Ao executado que, citado por edital ou por hora certa, permanecer revel, será nomeado curador especial, com legitimidade para apresentação de embargos\").</li><li><b>Garantia</b> (art. 9º): em garantia da execução, pelo valor da dívida, juros e multa de mora e encargos indicados na CDA, o executado poderá: I, efetuar <b>depósito em dinheiro</b>, à ordem do juízo em estabelecimento oficial de crédito, que assegure atualização monetária; II, oferecer <b>fiança bancária</b> ou <b>seguro garantia</b>; III, <b>nomear bens à penhora</b>, observada a ordem do art. 11; IV, <b>indicar à penhora bens oferecidos por terceiros</b> e aceitos pela Fazenda Pública. A garantia da execução, por meio de depósito em dinheiro, fiança bancária ou seguro garantia, produz os <b>mesmos efeitos da penhora</b> (§ 3º). Somente o <b>depósito em dinheiro</b> faz cessar a responsabilidade pela atualização monetária e juros de mora (§ 4º). A Lei 14.689/2023 incluiu o § 7º: as garantias apresentadas na forma do inciso II (fiança e seguro garantia) somente serão <b>liquidadas</b>, no todo ou parcialmente, <b>após o trânsito em julgado</b> de decisão de mérito em desfavor do contribuinte, vedada a sua liquidação antecipada.</li><li><b>Ordem da penhora</b> (art. 11): a penhora ou arresto de bens obedecerá à seguinte ordem: I, <b>dinheiro</b>; II, título da dívida pública, bem como título de crédito, que tenham cotação em bolsa; III, pedras e metais preciosos; IV, imóveis; V, navios e aeronaves; VI, veículos; VII, móveis ou semoventes; VIII, direitos e ações. Excepcionalmente, a penhora poderá recair sobre estabelecimento comercial, industrial ou agrícola, bem como em plantações ou edifícios em construção (§ 1º). <b>Súmula 451 do STJ</b>: \"É legítima a penhora da <b>sede do estabelecimento comercial</b>.\"</li><li><b>Substituição</b> (art. 15): em qualquer fase do processo, será deferida pelo juiz: I, ao executado, a substituição da penhora por <b>depósito em dinheiro, fiança bancária ou seguro garantia</b>; II, à Fazenda Pública, a substituição dos bens penhorados por outros, independentemente da ordem enumerada no art. 11, bem como o reforço da penhora insuficiente.</li><li><b>Penhora on-line</b>: o STJ, no <b>Tema 425</b> (REsp 1.184.765), firmou que, após a Lei 11.382/2006, a penhora on-line (Bacenjud, hoje Sisbajud) <b>não exige o esgotamento prévio</b> das diligências para localizar outros bens, pois o dinheiro é o primeiro bem da ordem legal.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na execução fiscal, o executado é citado para pagar ou garantir em 3 dias</span><br>✅ <span class=\"certo\">Em <b>5 dias</b> (art. 8º)</span></li><li>❌ <span class=\"banca\">A citação na execução fiscal é feita, em regra, por oficial de justiça</span><br>✅ <span class=\"certo\">Em regra, pelo <b>correio</b> com AR (art. 8º, I)</span></li><li>❌ <span class=\"banca\">O edital de citação da execução fiscal tem prazo de 20 a 60 dias</span><br>✅ <span class=\"certo\">Tem prazo de <b>30 dias</b> (art. 8º, IV)</span></li><li>❌ <span class=\"banca\">O seguro garantia pode ser liquidado antes do trânsito em julgado dos embargos</span><br>✅ <span class=\"certo\">Após a Lei 14.689/2023, só <b>após o trânsito em julgado</b> (art. 9º, § 7º)</span></li><li>❌ <span class=\"banca\">A penhora on-line na execução fiscal exige esgotamento das diligências</span><br>✅ <span class=\"certo\"><b>Não exige</b> (Tema 425 do STJ)</span></li></ol></div>\n<h3>5. Embargos à execução fiscal</h3>\n<ul><li><b>Prazo</b> (art. 16): o executado oferecerá embargos no prazo de <b>30 dias</b>, contados: I, do <b>depósito</b>; II, da <b>juntada da prova da fiança bancária ou do seguro garantia</b>; III, da <b>intimação da penhora</b>.</li><li><b>Garantia</b> (art. 16, § 1º): <b>não são admissíveis embargos do executado antes de garantida a execução</b>. Essa é uma diferença marcante em relação ao CPC (onde os embargos independem de garantia). O STJ, no julgamento repetitivo do <b>REsp 1.272.827</b>, decidiu que a regra do CPC que dispensa a garantia <b>não se aplica</b> à execução fiscal, por ser a LEF lei especial. Mas o STJ flexibiliza: admite embargos com <b>garantia parcial</b> (podendo o juiz exigir reforço) e, em situações excepcionais, dispensa a garantia ao executado <b>comprovadamente hipossuficiente</b> que não tem patrimônio, para não violar o acesso à justiça.</li><li><b>Matéria</b> (art. 16, §§ 2º e 3º): no prazo dos embargos, o executado deverá alegar <b>toda matéria útil à defesa</b>, requerer provas e juntar aos autos os documentos e rol de testemunhas, até <b>3</b>, ou, a critério do juiz, até o dobro desse limite. <b>Não será admitida reconvenção, nem compensação</b>, e as exceções, salvo as de suspeição, incompetência e impedimentos, serão arguidas como matéria preliminar e serão processadas e julgadas com os embargos. O STJ admite a alegação de <b>compensação já efetuada</b> e reconhecida administrativamente antes da execução (o que se veda é a compensação pretendida nos próprios embargos).</li><li><b>Impugnação</b> (art. 17): recebidos os embargos, o juiz mandará intimar a Fazenda para <b>impugná-los no prazo de 30 dias</b>, designando, em seguida, audiência de instrução e julgamento. Não se realizará audiência se os embargos versarem sobre matéria de direito ou, sendo de direito e de fato, a prova for exclusivamente documental, caso em que o juiz proferirá a sentença no prazo de 30 dias.</li><li><b>Efeito suspensivo</b>: o STJ, no <b>Tema 526</b> (REsp 1.272.827), decidiu que se aplica à execução fiscal o <b>art. 919, § 1º, do CPC</b> (antigo art. 739-A): os embargos <b>não têm efeito suspensivo automático</b>; a suspensão depende de requerimento, de <b>garantia</b> suficiente, de <b>relevância</b> dos fundamentos e de <b>risco de dano grave</b>.</li><li><b>Remessa necessária</b>: a sentença que julgar <b>procedentes</b>, no todo ou em parte, os embargos à execução fiscal está sujeita à <b>remessa necessária</b> (CPC, art. 496, II), observados os limites de valor do § 3º.</li><li><b>Sem embargos</b> (art. 18): caso não sejam oferecidos os embargos, a Fazenda Pública manifestar-se-á sobre a garantia da execução.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na execução fiscal, os embargos independem de garantia, como no CPC</span><br>✅ <span class=\"certo\"><b>Não</b> são admissíveis antes de garantida a execução (art. 16, § 1º; STJ, REsp 1.272.827), com flexibilizações</span></li><li>❌ <span class=\"banca\">O prazo dos embargos à execução fiscal é de 15 dias</span><br>✅ <span class=\"certo\">É de <b>30 dias</b> (art. 16)</span></li><li>❌ <span class=\"banca\">Nos embargos à execução fiscal admite-se reconvenção</span><br>✅ <span class=\"certo\"><b>Não</b> se admite reconvenção nem compensação (art. 16, § 3º)</span></li><li>❌ <span class=\"banca\">Os embargos à execução fiscal têm efeito suspensivo automático</span><br>✅ <span class=\"certo\"><b>Não</b>; aplica-se o art. 919, § 1º, do CPC (Tema 526 do STJ)</span></li><li>❌ <span class=\"banca\">O executado pode arrolar até 10 testemunhas nos embargos</span><br>✅ <span class=\"certo\">Até <b>3</b>, ou até o dobro a critério do juiz (art. 16, § 2º)</span></li></ol></div>\n<h3>6. Exceção de pré-executividade</h3>\n<ul><li><b>Conceito</b>: é a defesa feita por <b>simples petição</b>, nos próprios autos da execução, <b>sem garantia do juízo</b> e sem prazo, admitida pela doutrina e pela jurisprudência para matérias que o juiz pode conhecer <b>de ofício</b> e que <b>não demandam dilação probatória</b>.</li><li><b>Súmula 393 do STJ</b>: \"A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias <b>conhecíveis de ofício</b> que <b>não demandem dilação probatória</b>.\" Exemplos: <b>prescrição</b> e <b>decadência</b> (verificáveis de plano), <b>nulidade da CDA</b> por falta de requisito, <b>ilegitimidade passiva</b> evidente, <b>pagamento</b> comprovado por documento, <b>imunidade</b> ou <b>isenção</b> demonstradas documentalmente.</li><li><b>Redirecionamento e pré-executividade</b>: o STJ, no <b>Tema 108</b> (REsp 1.104.900), decidiu que não cabe exceção de pré-executividade em execução fiscal promovida contra <b>sócio que figura como responsável na CDA</b>, porque a presunção de legitimidade da CDA impõe ao sócio o ônus de provar que não agiu com excesso de poderes ou infração à lei, o que exige <b>dilação probatória</b> (via <b>embargos</b>).</li><li><b>Honorários</b>: acolhida a exceção de pré-executividade, ainda que parcialmente, com extinção total ou parcial da execução, são devidos <b>honorários</b> pela Fazenda (STJ, Tema 410 e Tema 961).</li><li><b>Recurso</b>: a decisão que <b>rejeita</b> a exceção é interlocutória, atacável por <b>agravo de instrumento</b> (CPC, art. 1.015, parágrafo único). A que <b>acolhe</b> e extingue a execução é <b>sentença</b>, atacável por <b>apelação</b> (ou embargos infringentes, na alçada do art. 34).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A exceção de pré-executividade exige garantia do juízo</span><br>✅ <span class=\"certo\"><b>Dispensa</b> garantia (é defesa por simples petição)</span></li><li>❌ <span class=\"banca\">Cabe exceção de pré-executividade para discutir matéria que exige perícia</span><br>✅ <span class=\"certo\">Só matérias <b>conhecíveis de ofício</b> sem <b>dilação probatória</b> (Súmula 393 do STJ)</span></li><li>❌ <span class=\"banca\">O sócio que consta da CDA pode afastar sua responsabilidade por exceção de pré-executividade, sem provas</span><br>✅ <span class=\"certo\">Deve usar <b>embargos</b>, pois exige dilação probatória (Tema 108 do STJ)</span></li><li>❌ <span class=\"banca\">Acolhida a exceção de pré-executividade, não há honorários</span><br>✅ <span class=\"certo\">São <b>devidos</b> honorários (STJ)</span></li></ol></div>\n<h3>7. Redirecionamento da execução fiscal aos sócios</h3>\n<ul><li><b>Base legal</b> (CTN, art. 135, III): são <b>pessoalmente responsáveis</b> pelos créditos correspondentes a obrigações tributárias resultantes de atos praticados com <b>excesso de poderes</b> ou <b>infração de lei</b>, contrato social ou estatutos, os <b>diretores, gerentes ou representantes</b> de pessoas jurídicas de direito privado.</li><li><b>Mero inadimplemento não basta</b>: <b>Súmula 430 do STJ</b>: \"O <b>inadimplemento da obrigação tributária</b> pela sociedade <b>não gera, por si só</b>, a responsabilidade solidária do sócio-gerente.\" É preciso demonstrar ato com excesso de poderes ou infração de lei.</li><li><b>Dissolução irregular</b>: <b>Súmula 435 do STJ</b>: \"Presume-se <b>dissolvida irregularmente</b> a empresa que deixar de funcionar no seu <b>domicílio fiscal</b>, <b>sem comunicação aos órgãos competentes</b>, legitimando o redirecionamento da execução fiscal para o sócio-gerente.\" A prova usual é a <b>certidão do oficial de justiça</b> atestando que a empresa não funciona mais no endereço cadastrado.</li><li><b>Qual sócio responde?</b> O STJ, no <b>Tema 981</b> (2022), fixou: \"O redirecionamento da execução fiscal, quando fundado na dissolução irregular da pessoa jurídica executada ou na presunção de sua ocorrência, pode ser autorizado contra o sócio ou o terceiro não sócio, com <b>poderes de administração na data em que configurada ou presumida a dissolução irregular</b>, ainda que não tenha exercido poderes de gerência quando ocorrido o fato gerador do tributo não adimplido, conforme art. 135, III, do CTN.\" Em consequência, <b>não</b> pode ser redirecionada contra o sócio que, embora administrador ao tempo do fato gerador, <b>saiu regularmente</b> da sociedade antes da dissolução irregular (Tema 962).</li><li><b>Créditos não tributários</b>: o STJ estende o raciocínio da Súmula 435 aos créditos <b>não tributários</b> (como multas administrativas), com base no art. 10 do Decreto 3.708/1919 e no art. 1.016 do Código Civil (Tema 630, REsp 1.371.128): a dissolução irregular também autoriza o redirecionamento ao sócio-gerente da execução de dívida ativa não tributária.</li><li><b>Prazo para redirecionar</b>: o STJ, no <b>Tema 444</b> (REsp 1.201.993, 2019), fixou que o prazo de redirecionamento é de <b>5 anos</b>, contados: (a) da <b>citação da pessoa jurídica</b>, se o ato ilícito do art. 135 (por exemplo, a dissolução irregular) for <b>anterior</b> a ela; (b) da <b>data do ato ilícito</b>, se ele for <b>posterior</b> à citação. Além disso, exige-se a demonstração de <b>inércia</b> da Fazenda para o reconhecimento da prescrição para o redirecionamento.</li><li><b>Procedimento</b>: o redirecionamento com base no art. 135 do CTN <b>não exige</b> a instauração do <b>IDPJ</b> (incidente de desconsideração da personalidade jurídica), segundo o STJ, porque não se trata de desconsideração, mas de responsabilidade tributária própria. Basta requerer nos autos, com a prova da dissolução irregular ou do ato ilícito, e o juiz determina a citação do sócio.</li><li><b>Sócio que consta da CDA</b>: se o nome do sócio já consta da <b>CDA</b> como corresponsável, inverte-se o ônus da prova: cabe a ele demonstrar que não agiu com excesso de poderes ou infração de lei, nos <b>embargos</b> (Tema 103, REsp 1.104.900, e Tema 108).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O não pagamento do tributo gera, por si só, a responsabilidade do sócio-gerente</span><br>✅ <span class=\"certo\"><b>Não gera</b> (Súmula 430 do STJ)</span></li><li>❌ <span class=\"banca\">O redirecionamento por dissolução irregular atinge o sócio-gerente da época do fato gerador</span><br>✅ <span class=\"certo\">Atinge quem tinha <b>poderes de administração na data da dissolução irregular</b> (Tema 981 do STJ)</span></li><li>❌ <span class=\"banca\">O redirecionamento ao sócio exige a instauração do IDPJ</span><br>✅ <span class=\"certo\">Com base no art. 135 do CTN, <b>não exige</b> IDPJ (STJ)</span></li><li>❌ <span class=\"banca\">A Súmula 435 só vale para créditos tributários</span><br>✅ <span class=\"certo\">O STJ aplica também a dívida ativa <b>não tributária</b> (Tema 630)</span></li></ol></div>\n<h3>8. Prescrição intercorrente na execução fiscal (art. 40)</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 6.830/1980, art. 40</div><div class=\"art-lei\">O Juiz suspenderá o curso da execução, enquanto não for localizado o devedor ou encontrados bens sobre os quais possa recair a penhora, e, nesses casos, não correrá o prazo de prescrição. § 1º Suspenso o curso da execução, será aberta vista dos autos ao representante judicial da Fazenda Pública. § 2º Decorrido o prazo máximo de 1 (um) ano, sem que seja localizado o devedor ou encontrados bens penhoráveis, o Juiz ordenará o arquivamento dos autos. § 3º Encontrados que sejam, a qualquer tempo, o devedor ou os bens, serão desarquivados os autos para prosseguimento da execução. § 4º Se da decisão que ordenar o arquivamento tiver decorrido o prazo prescricional, o juiz, depois de ouvida a Fazenda Pública, poderá, de ofício, reconhecer a prescrição intercorrente e decretá-la de imediato.</div><div class=\"art-dest\"><b>🔍 Destrinchando</b><ol><li>SUSPENSÃO por 1 ano (não corre prescrição)</li><li>ARQUIVAMENTO provisório</li><li>Prescrição intercorrente de 5 ANOS (prazo do crédito)</li><li>Reconhecida DE OFÍCIO, ouvida a Fazenda</li></ol></div><div class=\"art-peg\"><b class=\"t\">⚠ Como a banca tenta te pegar</b><ul><li>O § 5º dispensa a oitiva da Fazenda quando se tratar de cobrança de valor inferior ao mínimo fixado por ato do Ministro da Fazenda (âmbito federal).</li></ul></div></div>\n<ul><li><b>Súmula 314 do STJ</b>: \"Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por <b>um ano</b>, findo o qual se inicia o prazo da <b>prescrição quinquenal intercorrente</b>.\"</li><li><b>Tema 566 do STJ</b> (REsp 1.340.553, 2018): fixou as regras práticas: (1) o prazo de <b>1 ano de suspensão</b> do art. 40 tem início <b>automaticamente</b> na data da <b>ciência da Fazenda Pública</b> a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, independentemente de despacho do juiz; (2) findo o prazo de 1 ano, inicia-se <b>automaticamente</b> o prazo prescricional de <b>5 anos</b>, durante o qual o processo deveria estar arquivado, sem necessidade de nova intimação ou de despacho; (3) a efetiva <b>constrição patrimonial</b> e a efetiva <b>citação</b> (ainda que por edital) são aptas a <b>interromper</b> o curso da prescrição intercorrente, <b>não bastando para tal o mero peticionamento</b> em juízo requerendo a feitura da penhora sobre ativos financeiros ou sobre outros bens; (4) a Fazenda Pública, em sua primeira oportunidade de falar nos autos, ao alegar nulidade pela falta de qualquer intimação dentro do procedimento do art. 40, deverá demonstrar o <b>prejuízo</b> que sofreu.</li><li><b>STF</b> (Tema 390, RE 636.562, 2023): declarou <b>constitucional</b> o art. 40 da LEF e fixou a tese de que é constitucional o art. 40 da Lei 6.830, tendo natureza processual o prazo de 1 ano de suspensão da execução fiscal, e que, após o decurso desse prazo, inicia-se automaticamente o prazo prescricional de 5 anos.</li><li><b>Consequência para o Município</b>: execuções fiscais paradas, sem citação ou sem bens, por mais de <b>6 anos</b> (1 de suspensão + 5 de prescrição) após a ciência da Fazenda sobre a frustração, estão <b>prescritas</b>. O Procurador deve fazer gestão ativa da carteira, priorizando diligências <b>efetivas</b> (penhora on-line, protesto, busca de bens), porque petições genéricas pedindo penhora <b>não interrompem</b> a prescrição.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O prazo de suspensão do art. 40 começa com o despacho do juiz</span><br>✅ <span class=\"certo\">Começa <b>automaticamente</b> da <b>ciência da Fazenda</b> sobre a frustração (Tema 566 do STJ)</span></li><li>❌ <span class=\"banca\">O pedido de penhora on-line interrompe a prescrição intercorrente</span><br>✅ <span class=\"certo\">Só a <b>efetiva constrição</b> ou a <b>efetiva citação</b> interrompem (Tema 566)</span></li><li>❌ <span class=\"banca\">A prescrição intercorrente na execução fiscal não pode ser reconhecida de ofício</span><br>✅ <span class=\"certo\">Pode, <b>de ofício</b>, ouvida a Fazenda (art. 40, § 4º)</span></li><li>❌ <span class=\"banca\">O STF declarou inconstitucional o art. 40 da LEF por tratar de prescrição em lei ordinária</span><br>✅ <span class=\"certo\">Declarou <b>constitucional</b> (Tema 390)</span></li></ol></div>\n<h3>9. Execuções fiscais de baixo valor: Tema 1.184 e Resolução CNJ 547/2024</h3>\n<ul><li><b>Tema 1.184 do STF</b> (RE 1.355.208, dezembro de 2023): \"1. É <b>legítima a extinção de execução fiscal de baixo valor</b> pela ausência de <b>interesse de agir</b> tendo em vista o princípio constitucional da <b>eficiência administrativa</b>, respeitada a competência constitucional de cada ente federado. 2. O ajuizamento da execução fiscal dependerá da <b>prévia adoção</b> das seguintes providências: a) tentativa de <b>conciliação</b> ou adoção de <b>solução administrativa</b>; e b) <b>protesto do título</b>, salvo por motivo de eficiência administrativa, comprovando-se a inadequação da medida. 3. O trâmite de ações de execução fiscal não impede os entes federados de pedirem a suspensão do processo para a adoção das medidas previstas no item 2, devendo, nesse caso, o juiz ser comunicado do prazo para as providências cabíveis.\"</li><li><b>Resolução CNJ 547/2024</b>: regulamentou o Tema 1.184 e determinou a <b>extinção</b> de execuções fiscais de valor inferior a <b>R$ 10.000,00</b> quando do ajuizamento, em que <b>não haja movimentação útil há mais de 1 ano</b> sem citação do executado ou, ainda que citado, <b>não tenham sido localizados bens penhoráveis</b>. Também condicionou o <b>ajuizamento</b> de novas execuções à prévia tentativa de <b>conciliação</b> ou solução administrativa e ao <b>protesto</b> do título (salvo se demonstrada a inadequação), e dispensou o protesto em algumas hipóteses (por exemplo, quando o ente comprovar que o devedor tem bens penhoráveis ou quando houver indícios de fraude).</li><li><b>Impacto para o Município</b>: o Município deve ter uma <b>política de cobrança administrativa</b> (lei de transação ou de parcelamento, notificação, protesto da CDA, inscrição em cadastros de inadimplentes) e reservar o Judiciário para os créditos de maior valor ou com bens localizados. Muitos Municípios aprovaram leis fixando <b>valor mínimo</b> para ajuizamento de execuções fiscais (o que é válido, por ser competência do ente, segundo o próprio Tema 1.184).</li><li><b>Protesto da CDA</b>: a Lei 9.492/1997, art. 1º, parágrafo único (incluído pela Lei 12.767/2012), inclui entre os títulos sujeitos a protesto as <b>certidões de dívida ativa</b> da União, dos Estados, do DF, dos Municípios e das respectivas autarquias e fundações públicas. O STF, na <b>ADI 5.135</b> (2016), fixou: \"O protesto das Certidões de Dívida Ativa constitui mecanismo <b>constitucional e legítimo</b>, por não restringir de forma desproporcional quaisquer direitos fundamentais garantidos aos contribuintes e, assim, não constituir sanção política.\" O STJ (Tema 777) também admite o protesto de CDA.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O STF proibiu a extinção de execuções fiscais de baixo valor por violar a inafastabilidade</span><br>✅ <span class=\"certo\">O STF <b>admitiu</b> a extinção por falta de <b>interesse de agir</b> (Tema 1.184)</span></li><li>❌ <span class=\"banca\">A Resolução CNJ 547/2024 manda extinguir toda execução fiscal abaixo de R$ 10 mil</span><br>✅ <span class=\"certo\">Só as <b>sem movimentação útil há mais de 1 ano</b>, sem citação ou sem bens penhoráveis</span></li><li>❌ <span class=\"banca\">O protesto de CDA é sanção política inconstitucional</span><br>✅ <span class=\"certo\">É <b>constitucional</b> (ADI 5.135)</span></li><li>❌ <span class=\"banca\">O Município não pode fixar valor mínimo para ajuizar execução fiscal</span><br>✅ <span class=\"certo\">Pode, por ser <b>competência do ente</b> (Tema 1.184)</span></li></ol></div>\n<h3>10. Expropriação, adjudicação e prerrogativas processuais da Fazenda na LEF</h3>\n<ul><li><b>Leilão</b> (arts. 22 e 23): a arrematação será precedida de <b>edital</b>, afixado no local de costume, na sede do juízo, e publicado em resumo, uma só vez, gratuitamente, como expediente judiciário, no órgão oficial. O prazo entre as datas de publicação do edital e do leilão não poderá ser superior a 30, nem inferior a 10 dias. A alienação de quaisquer bens penhorados será feita em <b>leilão público</b>, no lugar designado pelo juiz. <b>Súmula 121 do STJ</b>: \"Na execução fiscal o devedor deverá ser <b>intimado pessoalmente</b> do dia e hora da realização do leilão.\" <b>Súmula 128 do STJ</b>: \"Na execução fiscal haverá <b>segundo leilão</b>, se no primeiro não houver lanço superior à avaliação.\"</li><li><b>Adjudicação pela Fazenda</b> (art. 24): a Fazenda Pública poderá <b>adjudicar</b> os bens penhorados: I, <b>antes do leilão</b>, pelo <b>preço da avaliação</b>, se a execução não for embargada ou se rejeitados os embargos; II, <b>findo o leilão</b>: a) se não houver licitante, pelo preço da avaliação; b) havendo licitantes, com <b>preferência</b>, em igualdade de condições com a melhor oferta, no prazo de 30 dias. Se o preço da avaliação ou o valor da melhor oferta for superior ao dos créditos da Fazenda Pública, a adjudicação somente será deferida pelo juiz se a diferença for depositada, pela exequente, à ordem do juízo, no prazo de 30 dias (parágrafo único).</li><li><b>Intimação pessoal</b> (art. 25): na execução fiscal, <b>qualquer intimação ao representante judicial da Fazenda Pública será feita pessoalmente</b>. A intimação de que trata este artigo poderá ser feita mediante vista dos autos, com imediata remessa ao representante judicial da Fazenda Pública, pelo cartório ou secretaria (parágrafo único).</li><li><b>Desistência</b> (art. 26): se, antes da decisão de primeira instância, a inscrição de Dívida Ativa for, a qualquer título, <b>cancelada</b>, a execução fiscal será extinta, <b>sem qualquer ônus para as partes</b>. <b>Súmula 153 do STJ</b>: \"A desistência da execução fiscal, <b>após o oferecimento dos embargos</b>, não exime o exequente dos encargos da sucumbência.\" O STJ entende que, se o executado teve de contratar advogado para apresentar exceção de pré-executividade ou embargos, a Fazenda paga honorários pelo princípio da <b>causalidade</b>.</li><li><b>Custas</b> (art. 39): a Fazenda Pública não está sujeita ao pagamento de <b>custas e emolumentos</b>. A prática dos atos judiciais de seu interesse independerá de preparo ou de prévio depósito. Se vencida, a Fazenda Pública <b>ressarcirá</b> o valor das despesas feitas pela parte contrária (parágrafo único).</li><li><b>Recurso de alçada</b> (art. 34): das sentenças de primeira instância proferidas em execuções de valor igual ou inferior a <b>50 ORTN</b>, só se admitirão <b>embargos infringentes</b> e de <b>declaração</b>. Os embargos infringentes, instruídos ou não com documentos novos, serão deduzidos, no prazo de <b>10 dias</b>, perante o <b>mesmo juízo</b>, em petição fundamentada. O STF (Tema 408) declarou <b>constitucional</b> o dispositivo. Contra a decisão nos embargos infringentes de alçada cabe apenas <b>recurso extraordinário</b> (Súmula 640 do STF), se houver questão constitucional; não cabe recurso especial (o STJ não admite REsp contra decisão de primeiro grau).</li><li><b>Prova</b> (art. 41): o processo administrativo correspondente à inscrição de Dívida Ativa, à execução fiscal ou à ação proposta contra a Fazenda Pública será mantido na repartição competente, dele se extraindo as cópias autenticadas ou certidões, que forem requeridas pelas partes ou requisitadas pelo juiz ou pelo MP.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na execução fiscal, a intimação do procurador pode ser feita pelo Diário Oficial</span><br>✅ <span class=\"certo\">Deve ser <b>pessoal</b> (art. 25)</span></li><li>❌ <span class=\"banca\">A Fazenda só pode adjudicar após o leilão</span><br>✅ <span class=\"certo\">Pode adjudicar <b>antes</b> do leilão, pelo preço da avaliação, se não houver embargos ou se rejeitados (art. 24, I)</span></li><li>❌ <span class=\"banca\">A desistência da execução fiscal após os embargos isenta a Fazenda da sucumbência</span><br>✅ <span class=\"certo\"><b>Não isenta</b> (Súmula 153 do STJ)</span></li><li>❌ <span class=\"banca\">Cabe recurso especial contra decisão em embargos infringentes de alçada</span><br>✅ <span class=\"certo\">Só cabe <b>recurso extraordinário</b> (Súmula 640 do STF)</span></li><li>❌ <span class=\"banca\">O executado não precisa ser intimado pessoalmente do leilão</span><br>✅ <span class=\"certo\">Deve ser intimado <b>pessoalmente</b> (Súmula 121 do STJ)</span></li></ol></div>\n<h3>11. IPTU, ISS e execução fiscal municipal</h3>\n<ul><li><b>Lançamento do IPTU</b>: <b>Súmula 397 do STJ</b>: \"O contribuinte do IPTU é notificado do lançamento pelo <b>envio do carnê</b> ao seu endereço.\" Cabe ao contribuinte provar que não recebeu o carnê. A constituição definitiva do crédito ocorre com a notificação, e o prazo prescricional da execução (5 anos, CTN, art. 174) começa no <b>dia seguinte ao vencimento</b> previsto no carnê (STJ, Tema 980: o termo inicial do prazo prescricional da cobrança judicial do IPTU inicia-se no dia seguinte à data estipulada para o vencimento da exação; e o parcelamento de ofício da dívida tributária não configura causa interruptiva da contagem da prescrição, uma vez que o contribuinte não anuiu).</li><li><b>Sujeito passivo do IPTU</b>: <b>Súmula 399 do STJ</b>: \"Cabe à <b>legislação municipal</b> estabelecer o sujeito passivo do IPTU.\" O STJ (Tema 122) admite que tanto o <b>promitente comprador</b> (possuidor a qualquer título) quanto o <b>promitente vendedor</b> (proprietário que consta no registro) sejam contribuintes, cabendo à lei municipal eleger um ou ambos.</li><li><b>Execução contra o espólio e herdeiros</b>: o espólio responde pelos tributos devidos pelo <i>de cujus</i> até a data da abertura da sucessão (CTN, art. 131, III), e os sucessores, até a partilha, limitados ao montante do quinhão (art. 131, II). Execução ajuizada contra pessoa já falecida deve ser extinta (não se admite substituição da CDA para trocar o sujeito passivo, Súmula 392).</li><li><b>Responsabilidade do adquirente</b>: os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio útil ou a posse de bens imóveis, e bem assim os relativos a taxas pela prestação de serviços referentes a tais bens, ou a contribuições de melhoria, <b>sub-rogam-se na pessoa dos respectivos adquirentes</b>, salvo quando conste do título a <b>prova de sua quitação</b> (CTN, art. 130). No caso de <b>arrematação em hasta pública</b>, a sub-rogação ocorre sobre o respectivo <b>preço</b> (parágrafo único): o arrematante recebe o imóvel livre dos débitos de IPTU anteriores.</li><li><b>Taxas municipais</b>: a <b>Súmula Vinculante 19</b> diz que a taxa cobrada exclusivamente em razão dos serviços públicos de <b>coleta, remoção e tratamento ou destinação de lixo</b> ou resíduos provenientes de imóveis <b>não viola</b> o art. 145, II, da CF. Já a <b>Súmula Vinculante 41</b> diz que o serviço de <b>iluminação pública não pode ser remunerado mediante taxa</b> (por isso existe a COSIP, CF, art. 149-A).</li><li><b>ISS</b>: na execução de ISS de prestador de serviços, o Município deve observar o <b>local da incidência</b> (LC 116/2003, art. 3º) e as regras de responsabilidade do tomador. O ISS será substituído gradualmente pelo <b>IBS</b> a partir da reforma tributária (EC 132/2023 e LC 214/2025), com transição entre 2029 e 2032, mas os créditos de ISS já constituídos continuam sendo cobrados pelos Municípios pelas regras atuais.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O contribuinte do IPTU só é notificado do lançamento por intimação pessoal</span><br>✅ <span class=\"certo\">É notificado pelo <b>envio do carnê</b> (Súmula 397 do STJ)</span></li><li>❌ <span class=\"banca\">O sujeito passivo do IPTU é definido exclusivamente pelo CTN</span><br>✅ <span class=\"certo\">Cabe à <b>legislação municipal</b> estabelecer (Súmula 399 do STJ)</span></li><li>❌ <span class=\"banca\">O arrematante do imóvel em hasta pública responde pelos débitos anteriores de IPTU</span><br>✅ <span class=\"certo\">A sub-rogação ocorre sobre o <b>preço</b> (CTN, art. 130, parágrafo único)</span></li><li>❌ <span class=\"banca\">A iluminação pública pode ser remunerada por taxa</span><br>✅ <span class=\"certo\"><b>Não pode</b> (Súmula Vinculante 41); existe a <b>COSIP</b></span></li><li>❌ <span class=\"banca\">O parcelamento de ofício do IPTU interrompe a prescrição</span><br>✅ <span class=\"certo\"><b>Não</b> interrompe (Tema 980 do STJ)</span></li></ol></div>\n<h3>12. Casos para treinar</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Execução fiscal parada há 7 anos</b><p>O Município ajuizou execução de IPTU em 2017. O devedor foi citado, mas não foram encontrados bens. A Procuradoria foi intimada da frustração em março de 2018. Desde então, apresentou petições pedindo \"nova pesquisa de bens\" a cada ano, sem resultado. Em 2026, o executado alega prescrição intercorrente.</p><details><summary>Ver a solução comentada</summary><p>Pelo <b>Tema 566</b> do STJ, o prazo de <b>1 ano</b> de suspensão começou <b>automaticamente</b> em março de 2018 (ciência da Fazenda), e o prazo de <b>5 anos</b> de prescrição intercorrente começou em março de 2019, terminando em março de 2024. <b>Petições</b> pedindo pesquisa de bens <b>não interrompem</b> a prescrição; só a <b>efetiva constrição</b> ou citação. A prescrição intercorrente ocorreu, e o juiz deve reconhecê-la, ouvida a Fazenda (art. 40, § 4º). O Município, ao ser ouvido, só pode alegar nulidade se demonstrar <b>prejuízo</b> (por exemplo, falta de intimação que o impediu de agir).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Dissolução irregular e sócio que saiu</b><p>Uma empresa devedora de ISS deixou de funcionar no endereço sem comunicar ao fisco, conforme certidão do oficial em 2025. O sócio-gerente da época dos fatos geradores (2019) havia deixado a sociedade regularmente em 2021, quando assumiu outro administrador.</p><details><summary>Ver a solução comentada</summary><p>Pela <b>Súmula 435</b>, presume-se a dissolução irregular, o que autoriza o redirecionamento. Pelo <b>Tema 981</b> do STJ, o redirecionamento é cabível contra quem tinha <b>poderes de administração na data da dissolução irregular</b> (o administrador de 2025), e <b>não</b> contra o sócio que saiu regularmente em 2021, ainda que fosse gerente na época dos fatos geradores (<b>Tema 962</b>). O pedido pode ser feito nos autos, sem IDPJ. O prazo de 5 anos para o redirecionamento conta-se da data do ato ilícito, se posterior à citação da empresa (<b>Tema 444</b>).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Embargos sem garantia</b><p>Um contribuinte executado por R$ 300 mil de ISS opõe embargos sem qualquer garantia, alegando que a cobrança é indevida. Não tem bens suficientes.</p><details><summary>Ver a solução comentada</summary><p>Na execução fiscal, <b>não se admitem embargos antes de garantida a execução</b> (LEF, art. 16, § 1º), regra que prevalece sobre o CPC (STJ, REsp 1.272.827). O STJ flexibiliza para admitir garantia <b>parcial</b> e, excepcionalmente, dispensa a garantia ao executado <b>comprovadamente hipossuficiente</b>. Se a alegação for de matéria conhecível de ofício e sem necessidade de provas (por exemplo, prescrição ou decadência evidentes), o contribuinte pode usar a <b>exceção de pré-executividade</b> (Súmula 393), sem garantia.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: CDA com erro no valor</b><p>Nos embargos, o executado demonstra que a CDA de IPTU incluiu multa de 30% quando a lei municipal prevê 20%. A sentença ainda não foi proferida.</p><details><summary>Ver a solução comentada</summary><p>A Fazenda pode <b>substituir ou emendar a CDA</b> até a decisão de primeira instância, para corrigir <b>erro material ou formal</b> (art. 2º, § 8º; Súmula 392), assegurada a <b>devolução do prazo para embargos</b> ao executado. A correção de um excesso que pode ser resolvido por simples cálculo não invalida toda a CDA: o STJ entende que, quando o excesso é destacável, a execução prossegue pelo valor correto, sem necessidade de nulidade total.</p></details></div>\n<h3>13. Questões comentadas</h3>\n<ul><li><b>\"A Dívida Ativa regularmente inscrita goza de presunção absoluta de certeza e liquidez.\"</b> Errado: a presunção é <b>relativa</b> (art. 3º).</li><li><b>\"Até a decisão de primeira instância, a CDA poderá ser emendada ou substituída, assegurada ao executado a devolução do prazo para embargos.\"</b> Certo: art. 2º, § 8º.</li><li><b>\"A Fazenda Pública pode substituir a CDA para alterar o sujeito passivo da execução.\"</b> Errado: Súmula 392 do STJ.</li><li><b>\"O executado será citado para, no prazo de 5 dias, pagar a dívida ou garantir a execução.\"</b> Certo: art. 8º.</li><li><b>\"São admissíveis embargos do executado antes de garantida a execução fiscal.\"</b> Errado: art. 16, § 1º.</li><li><b>\"Nos embargos à execução fiscal, não será admitida reconvenção, nem compensação.\"</b> Certo: art. 16, § 3º.</li><li><b>\"A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória.\"</b> Certo: Súmula 393 do STJ.</li><li><b>\"O inadimplemento da obrigação tributária pela sociedade gera, por si só, a responsabilidade solidária do sócio-gerente.\"</b> Errado: Súmula 430 do STJ.</li><li><b>\"Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente.\"</b> Certo: Súmula 314 do STJ.</li><li><b>\"Na execução fiscal, qualquer intimação ao representante judicial da Fazenda Pública será feita pessoalmente.\"</b> Certo: art. 25.</li><li><b>\"É legítima a extinção de execução fiscal de baixo valor pela ausência de interesse de agir.\"</b> Certo: Tema 1.184 do STF.</li><li><b>\"O contribuinte do IPTU é notificado do lançamento pelo envio do carnê ao seu endereço.\"</b> Certo: Súmula 397 do STJ.</li></ul>\n<h3>14. Suspensão da exigibilidade, certidões e garantia antecipada</h3>\n<ul><li><b>Suspensão da exigibilidade</b> (CTN, art. 151): suspendem a exigibilidade do crédito tributário: I, a <b>moratória</b>; II, o <b>depósito do seu montante integral</b>; III, as <b>reclamações e os recursos</b>, nos termos das leis reguladoras do processo tributário administrativo; IV, a concessão de <b>medida liminar em mandado de segurança</b>; V, a concessão de medida liminar ou de <b>tutela antecipada</b>, em outras espécies de ação judicial; VI, o <b>parcelamento</b>. Enquanto suspensa a exigibilidade, a Fazenda <b>não pode</b> ajuizar execução fiscal (se ajuizar, a execução deve ser extinta), e a prescrição, em regra, não corre (por exemplo, o parcelamento interrompe a prescrição por ser ato de reconhecimento do débito, CTN, art. 174, parágrafo único, IV, e a suspende enquanto vigente).</li><li><b>Depósito integral</b>: <b>Súmula 112 do STJ</b>: \"O depósito somente suspende a exigibilidade do crédito tributário se for <b>integral e em dinheiro</b>.\" <b>Súmula Vinculante 28</b>: \"É <b>inconstitucional</b> a exigência de <b>depósito prévio</b> como requisito de admissibilidade de <b>ação judicial</b> na qual se pretenda discutir a exigibilidade de crédito tributário.\" (Por isso o art. 38 da LEF, que exigia depósito na ação anulatória, não é aplicado como requisito.) <b>Súmula Vinculante 21</b>: \"É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de <b>recurso administrativo</b>.\"</li><li><b>Certidões</b> (CTN, arts. 205 e 206): a <b>certidão negativa</b> prova a inexistência de débitos; a <b>certidão positiva com efeitos de negativa</b> é expedida quando existam créditos <b>não vencidos</b>, em curso de cobrança executiva em que tenha sido efetivada a <b>penhora</b>, ou cuja exigibilidade esteja <b>suspensa</b>. Ela tem os <b>mesmos efeitos</b> da certidão negativa (por exemplo, para participar de licitações).</li><li><b>Garantia antecipada</b>: o contribuinte que ainda não foi executado, mas precisa de certidão, pode <b>antecipar a garantia</b> da futura execução fiscal, oferecendo caução (inclusive seguro garantia ou fiança) em ação cautelar ou tutela antecedente, para obter a certidão positiva com efeitos de negativa. O STJ admitiu isso no <b>Tema 237</b> (REsp 1.123.669). A caução <b>não suspende a exigibilidade</b> do crédito (não está no art. 151 do CTN), mas equivale à penhora antecipada para fins de certidão.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O depósito parcial do tributo suspende a exigibilidade</span><br>✅ <span class=\"certo\">Só o depósito <b>integral e em dinheiro</b> (Súmula 112 do STJ)</span></li><li>❌ <span class=\"banca\">É constitucional exigir depósito prévio para ajuizar ação anulatória de débito fiscal</span><br>✅ <span class=\"certo\">É <b>inconstitucional</b> (Súmula Vinculante 28)</span></li><li>❌ <span class=\"banca\">A certidão positiva com efeitos de negativa exige o pagamento do débito</span><br>✅ <span class=\"certo\">Basta débito não vencido, <b>penhora</b> efetivada ou exigibilidade <b>suspensa</b> (CTN, art. 206)</span></li><li>❌ <span class=\"banca\">A caução antecipada suspende a exigibilidade do crédito tributário</span><br>✅ <span class=\"certo\"><b>Não suspende</b>, mas permite obter certidão (Tema 237 do STJ)</span></li></ol></div>\n<h3>15. Ações do contribuinte contra o fisco (ações antiexacionais)</h3>\n<ul><li><b>Ação anulatória de débito fiscal</b>: visa anular o lançamento ou o crédito já constituído. Pode ser proposta antes ou depois da execução fiscal. Proposta <b>antes</b>, não impede o ajuizamento da execução, salvo se houver <b>depósito integral</b> ou <b>tutela antecipada</b> (suspensão da exigibilidade). Proposta <b>depois</b>, pode haver <b>conexão</b> com a execução (art. 55, § 2º, I, do CPC), mas o STJ entende que a reunião só ocorre se o juízo for competente para ambas, e a anulatória não suspende a execução sem garantia.</li><li><b>Mandado de segurança</b>: cabível contra ato de autoridade fiscal que viole direito líquido e certo, com prova pré-constituída. <b>Súmula 213 do STJ</b>: \"O mandado de segurança constitui ação adequada para a <b>declaração do direito à compensação</b> tributária.\" <b>Súmula 460 do STJ</b>: \"É <b>incabível</b> o mandado de segurança para <b>convalidar a compensação</b> tributária realizada pelo contribuinte.\" <b>Súmula 271 do STF</b>: concessão de mandado de segurança não produz efeitos patrimoniais em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria.</li><li><b>Repetição de indébito</b> (CTN, arts. 165 a 169): ação para reaver tributo pago indevidamente, no prazo de <b>5 anos</b> do pagamento (LC 118/2005, art. 3º, para tributos lançados por homologação). <b>Súmula 188 do STJ</b>: os juros moratórios, na repetição do indébito tributário, são devidos a partir do <b>trânsito em julgado</b> da sentença; após 1996, no âmbito federal, aplica-se a Selic desde o pagamento indevido. <b>Súmula 461 do STJ</b>: o contribuinte pode optar por receber, por meio de <b>precatório ou por compensação</b>, o indébito tributário certificado por sentença declaratória transitada em julgado.</li><li><b>Consignação em pagamento</b> (CTN, art. 164): cabível quando houver recusa de recebimento, subordinação do pagamento a exigências ilegais ou <b>exigência, por mais de uma pessoa jurídica de direito público, de tributo idêntico</b> sobre um mesmo fato gerador (por exemplo, dois Municípios cobrando ISS sobre o mesmo serviço).</li></ul>\n<h3>16. Execução fiscal, recuperação judicial e falência</h3>\n<ul><li><b>Recuperação judicial</b> (Lei 11.101/2005, art. 6º, § 7º-B, incluído pela Lei 14.112/2020): as <b>execuções fiscais não se suspendem</b> com o deferimento da recuperação judicial, mas o <b>juízo da recuperação</b> é competente para determinar a <b>substituição dos atos de constrição</b> que recaiam sobre <b>bens de capital essenciais</b> à manutenção da atividade empresarial até o encerramento da recuperação, a ser implementada mediante a cooperação jurisdicional (art. 69 do CPC). Ou seja: o juízo da execução fiscal penhora, mas o juízo da recuperação pode trocar a penhora de bem essencial.</li><li><b>Falência</b>: a execução fiscal <b>não se suspende</b> com a falência e não se sujeita ao concurso universal (CTN, art. 187; LEF, art. 29: a cobrança judicial da Dívida Ativa da Fazenda Pública não é sujeita a concurso de credores ou habilitação em falência, concordata, liquidação, inventário ou arrolamento). Os créditos tributários têm <b>preferência</b>, mas abaixo dos créditos trabalhistas (limitados a 150 salários mínimos por credor) e dos créditos com garantia real até o limite do bem gravado (CTN, art. 186, parágrafo único, e Lei 11.101, art. 83). A Fazenda pode optar por <b>habilitar</b> o crédito na falência, mas não pode cumular a habilitação com a penhora na execução fiscal sobre o mesmo bem (o STJ admite a habilitação, o que implica renúncia ao rito da LEF quanto à constrição).</li><li><b>Concurso de preferência entre entes</b> (CTN, art. 187, parágrafo único): o concurso de preferência somente se verifica entre pessoas jurídicas de direito público, na seguinte ordem: União; Estados, DF e Territórios, conjuntamente e pro rata; Municípios, conjuntamente e pro rata. O STF, na <b>ADPF 357</b> (2021), declarou <b>não recepcionado</b> pela Constituição esse parágrafo único (e o art. 29, parágrafo único, da LEF), por violar o <b>pacto federativo</b> e a isonomia entre os entes. Hoje, <b>não há preferência</b> da União sobre Estados e Municípios no concurso de credores fiscais, e o <b>cancelamento da Súmula 563 do STF</b> foi consequência dessa decisão.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A recuperação judicial suspende as execuções fiscais</span><br>✅ <span class=\"certo\"><b>Não suspende</b>; o juízo da recuperação pode <b>substituir a constrição</b> sobre bens de capital essenciais (Lei 11.101, art. 6º, § 7º-B)</span></li><li>❌ <span class=\"banca\">A execução fiscal se sujeita ao concurso universal da falência</span><br>✅ <span class=\"certo\"><b>Não se sujeita</b> (CTN, art. 187; LEF, art. 29)</span></li><li>❌ <span class=\"banca\">A União tem preferência sobre os Municípios no concurso de credores fiscais</span><br>✅ <span class=\"certo\">O STF declarou <b>não recepcionada</b> essa preferência (<b>ADPF 357</b>)</span></li><li>❌ <span class=\"banca\">É cabível mandado de segurança para convalidar compensação já feita pelo contribuinte</span><br>✅ <span class=\"certo\">É <b>incabível</b> (Súmula 460 do STJ)</span></li></ol></div>\n<h3>17. Transação, parcelamento e cobrança administrativa no Município</h3>\n<ul><li><b>Transação tributária</b> (CTN, arts. 156, III, e 171): a lei pode facultar, nas condições que estabeleça, aos sujeitos ativo e passivo da obrigação tributária celebrar <b>transação</b> que, mediante concessões mútuas, importe em determinação de litígio e consequente <b>extinção</b> de crédito tributário. A lei indicará a autoridade competente para autorizar a transação em cada caso. No âmbito federal, a <b>Lei 13.988/2020</b> é o modelo (transação por adesão, individual, no contencioso de pequeno valor). Cada Município precisa de <b>lei própria</b> para transacionar seus créditos.</li><li><b>Parcelamento</b> (CTN, art. 155-A): será concedido na forma e condição estabelecidas em <b>lei específica</b>. Salvo disposição de lei em contrário, o parcelamento do crédito tributário <b>não exclui a incidência de juros e multas</b>. O pedido de parcelamento é <b>ato de reconhecimento do débito</b> e <b>interrompe a prescrição</b> (CTN, art. 174, parágrafo único, IV), que volta a correr por inteiro em caso de rescisão do parcelamento.</li><li><b>Remissão e anistia</b> (CTN, arts. 172 e 180): dependem de <b>lei específica</b> do ente (CF, art. 150, § 6º). A concessão de benefícios fiscais deve observar a <b>Lei de Responsabilidade Fiscal</b> (LC 101/2000, art. 14: estimativa do impacto orçamentário-financeiro e medidas de compensação, quando for o caso).</li><li><b>Cobrança administrativa</b>: a Lei de Responsabilidade Fiscal (art. 11) exige que o ente institua, preveja e <b>efetivamente arrecade</b> todos os tributos de sua competência; a renúncia de receita sem observância da lei é irregular. Por isso, o Município não pode simplesmente \"abandonar\" a cobrança de pequenos valores sem uma política legal (lei de valor mínimo para ajuizamento, protesto, transação).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Município pode transacionar créditos tributários sem lei própria</span><br>✅ <span class=\"certo\">A transação depende de <b>lei</b> que a autorize (CTN, art. 171)</span></li><li>❌ <span class=\"banca\">O parcelamento exclui os juros e multas, salvo lei em contrário</span><br>✅ <span class=\"certo\">É o oposto: <b>não exclui</b> juros e multas, salvo lei em contrário (CTN, art. 155-A, § 1º)</span></li><li>❌ <span class=\"banca\">O pedido de parcelamento não interfere na prescrição</span><br>✅ <span class=\"certo\"><b>Interrompe</b> a prescrição (reconhecimento do débito, CTN, art. 174, parágrafo único, IV)</span></li><li>❌ <span class=\"banca\">A anistia de multas pode ser concedida por decreto do Prefeito</span><br>✅ <span class=\"certo\">Exige <b>lei específica</b> (CF, art. 150, § 6º)</span></li></ol></div>\n<h3>18. Exercício integrado: a carteira de execuções fiscais do Município</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A nova gestão da Procuradoria</b><p>A nova Procuradora-Geral de Belo Vale encontrou 3.000 execuções fiscais em curso, a maioria de IPTU de valores entre R$ 500 e R$ 5.000, muitas paradas há anos, e algumas grandes execuções de ISS contra empresas. O juiz da comarca começou a extinguir as execuções pequenas com base na Resolução CNJ 547/2024. O que ela deve fazer?</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Diagnóstico</b>: separar as execuções por <b>valor</b>, <b>data de ajuizamento</b>, situação da <b>citação</b> e de <b>bens</b>. (2) <b>Execuções pequenas paradas</b>: as de valor inferior a <b>R$ 10 mil</b> no ajuizamento, sem movimentação útil há mais de <b>1 ano</b> sem citação ou sem bens, tendem a ser extintas (Tema 1.184; Res. CNJ 547/2024). A Procuradoria pode pedir <b>suspensão</b> para adotar as providências administrativas (conciliação, protesto), conforme o item 3 da tese do Tema 1.184. (3) <b>Prescrição intercorrente</b>: verificar quais já passaram de 1 + 5 anos desde a ciência da frustração (Tema 566); nessas, não há o que fazer, e insistir gera condenação em honorários se o executado tiver advogado. (4) <b>Política de cobrança</b>: propor à Câmara uma <b>lei municipal</b> de cobrança que fixe <b>valor mínimo</b> para ajuizamento, institua o <b>protesto</b> sistemático das CDAs (ADI 5.135), preveja <b>transação</b> e <b>parcelamento</b> com descontos de multa e juros (com estimativa de impacto, LRF, art. 14) e autorize a inscrição em cadastros de inadimplentes. (5) <b>Execuções grandes de ISS</b>: priorizar diligências <b>efetivas</b> (penhora on-line via Sisbajud, que não exige esgotamento, Tema 425; pesquisa de bens; redirecionamento em caso de dissolução irregular, Súmula 435 e Tema 981), lembrando que só a <b>efetiva constrição</b> ou citação interrompe a prescrição intercorrente. (6) <b>Novas execuções</b>: só ajuizar após tentativa de solução administrativa e protesto (Tema 1.184, item 2), salvo quando demonstrada a inadequação. (7) <b>IPTU</b>: revisar a regularidade do <b>lançamento</b> (envio do carnê, Súmula 397) e o termo inicial da prescrição (vencimento, Tema 980).</p></details></div>\n<ul><li><b>Moral do exercício</b>: a execução fiscal deixou de ser o primeiro e único instrumento de cobrança. O Procurador Municipal moderno combina <b>cobrança administrativa</b>, <b>protesto</b>, <b>transação</b> e <b>execução fiscal seletiva</b>, com gestão ativa de prazos. Isso aumenta a arrecadação e evita condenações em honorários e extinções em massa.</li></ul>\n<h3>19. Como as bancas cobram este tópico</h3>\n<ul><li><b>Lei 6.830</b>: art. 2º (dívida ativa tributária e não tributária, CDA e seus requisitos, substituição até a decisão de primeira instância), art. 3º (presunção relativa), art. 4º (sujeitos passivos), art. 5º (competência), art. 6º (inicial simples), art. 7º (efeitos do despacho), art. 8º (citação pelo correio, 5 dias, edital de 30 dias), art. 9º (garantias), art. 11 (ordem da penhora), art. 16 (embargos em 30 dias, garantia obrigatória, sem reconvenção e compensação, até 3 testemunhas), art. 17 (impugnação em 30 dias), art. 24 (adjudicação), art. 25 (intimação pessoal), art. 26 (cancelamento sem ônus), art. 34 (alçada), art. 39 (custas), art. 40 (prescrição intercorrente).</li><li><b>Súmulas do STJ</b>: 58, 106, 121, 128, 153, 189, 196, 314, 392, 393, 397, 399, 414, 430, 435, 451, 515, 558, 559. <b>Súmulas Vinculantes</b>: 21, 28. <b>Súmula do STF</b>: 640.</li><li><b>Temas</b>: 108, 383, 425, 444, 566, 630, 962, 980 e 981 do STJ; 390, 408 e 1.184 do STF; ADI 5.135 (protesto) e ADPF 357 (preferência entre entes).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para a prescrição intercorrente na execução fiscal: <b>\"1 + 5, automático, só ato efetivo interrompe\"</b>. Um ano de suspensão a partir da ciência da Fazenda; cinco anos de prescrição a partir daí; tudo <b>automático</b>, sem despacho; e só <b>citação ou constrição efetivas</b> interrompem.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CDA</span></span><span class=\"vs\"><span>presunção relativa; substituível até a sentença dos embargos, sem trocar o executado (Súmula 392)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Citação</span></span><span class=\"vs\"><span>correio; 5 dias para pagar ou garantir; edital de 30 dias só após frustradas as demais (Súmula 414)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Embargos</span></span><span class=\"vs\"><span>30 dias da garantia; garantia obrigatória; sem reconvenção ou compensação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exceção de pré-executividade</span></span><span class=\"vs\"><span>matérias de ofício sem dilação probatória (Súmula 393)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Redirecionamento</span></span><span class=\"vs\"><span>dissolução irregular (Súmula 435); administrador da data da dissolução (Tema 981)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prescrição intercorrente</span></span><span class=\"vs\"><span>1 ano de suspensão + 5 anos (Súmula 314; Tema 566)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Baixo valor</span></span><span class=\"vs\"><span>extinção legítima por falta de interesse (Tema 1.184; Res. CNJ 547/2024)</span></span></button></div></div>\n<h3>20. Antes da execução: lançamento, decadência e prescrição do crédito tributário</h3>\n<ul><li><b>Por que isso importa no processo?</b> A maior parte das defesas em execução fiscal (embargos e exceção de pré-executividade) discute se o crédito foi <b>constituído a tempo</b> (decadência) e se foi <b>cobrado a tempo</b> (prescrição). O Procurador Municipal precisa dominar esses prazos para evitar execuções nulas.</li><li><b>Decadência</b> (prazo para <b>constituir</b> o crédito, pelo lançamento): em regra, <b>5 anos</b> contados do <b>primeiro dia do exercício seguinte</b> àquele em que o lançamento poderia ter sido efetuado (CTN, art. 173, I). Nos tributos sujeitos a <b>lançamento por homologação</b> (como o ISS, quando o contribuinte declara e paga), se houver <b>pagamento antecipado</b>, ainda que parcial, a decadência conta-se de <b>5 anos da ocorrência do fato gerador</b> (CTN, art. 150, § 4º), salvo dolo, fraude ou simulação. <b>Súmula 555 do STJ</b>: \"Quando <b>não houver declaração</b> do débito, o prazo decadencial quinquenal para o Fisco constituir o crédito tributário conta-se exclusivamente na forma do <b>art. 173, I</b>, do CTN, nos casos em que a legislação atribui ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa.\"</li><li><b>IPTU</b>: é tributo lançado <b>de ofício</b>, anualmente. O prazo decadencial segue o art. 173, I. Exemplo: o IPTU de 2021 podia ser lançado até 31 de dezembro de 2026 (5 anos a partir de 1º de janeiro de 2022).</li><li><b>Declaração do contribuinte</b>: <b>Súmula 436 do STJ</b>: \"A <b>entrega de declaração</b> pelo contribuinte reconhecendo débito fiscal <b>constitui o crédito tributário</b>, dispensada qualquer outra providência por parte do fisco.\" Por isso, ISS declarado e não pago pode ser inscrito diretamente em dívida ativa, sem lançamento de ofício, e o prazo <b>prescricional</b> começa do vencimento ou da entrega da declaração, o que for posterior. <b>Súmula 446 do STJ</b>: \"Declarado e não pago o débito tributário pelo contribuinte, é <b>legítima a recusa de expedição de certidão</b> negativa ou positiva com efeito de negativa.\"</li><li><b>Prescrição</b> (prazo para <b>cobrar</b> o crédito já constituído): <b>5 anos</b> contados da <b>constituição definitiva</b> do crédito (CTN, art. 174). A constituição definitiva ocorre quando não cabe mais recurso administrativo contra o lançamento (ou, no IPTU, a partir do vencimento indicado no carnê, Tema 980). Causas de <b>interrupção</b> (art. 174, parágrafo único): I, o <b>despacho do juiz que ordenar a citação</b> em execução fiscal; II, o <b>protesto judicial ou extrajudicial</b>; III, qualquer <b>ato judicial que constitua em mora</b> o devedor; IV, qualquer <b>ato inequívoco</b>, ainda que extrajudicial, que importe em <b>reconhecimento do débito</b> pelo devedor (por exemplo, o pedido de parcelamento).</li><li><b>Lei complementar</b>: prescrição e decadência tributárias são matérias reservadas a <b>lei complementar</b> (CF, art. 146, III, \"b\"). <b>Súmula Vinculante 8</b>: \"São inconstitucionais o parágrafo único do art. 5º do Decreto-Lei 1.569/1977 e os arts. 45 e 46 da Lei 8.212/1991, que tratam de <b>prescrição e decadência</b> de crédito tributário.\" Por isso, lei municipal <b>não pode</b> criar prazos de prescrição ou decadência diferentes dos do CTN, nem novas causas de interrupção.</li><li><b>Reconhecimento de ofício</b>: a prescrição e a decadência tributárias podem ser reconhecidas <b>de ofício</b> pelo juiz, porque extinguem o crédito tributário (CTN, art. 156, V), mas o juiz deve ouvir a Fazenda antes (CPC, art. 10 e art. 487, parágrafo único), salvo na improcedência liminar.</li></ul>\n<table class=\"tab\"><thead><tr><th>Prazo</th><th>Termo inicial</th><th>Interrupção ou observação</th></tr></thead><tbody><tr><td><b>Decadência</b>, regra (CTN, art. 173, I)</td><td>1º dia do exercício seguinte ao que o lançamento poderia ser feito</td><td>não se interrompe nem se suspende</td></tr><tr><td><b>Decadência</b>, homologação com pagamento (art. 150, § 4º)</td><td>data do <b>fato gerador</b></td><td>sem dolo, fraude ou simulação</td></tr><tr><td><b>Decadência</b>, homologação sem declaração (Súmula 555)</td><td>regra do art. 173, I ;</td></tr><tr><td><b>Prescrição</b> (art. 174)</td><td><b>constituição definitiva</b> do crédito</td><td>despacho citatório; protesto; ato judicial de mora; reconhecimento do débito</td></tr><tr><td><b>Prescrição do IPTU</b> (Tema 980)</td><td>dia seguinte ao <b>vencimento</b> do carnê</td><td>parcelamento de ofício não interrompe</td></tr><tr><td><b>Prescrição intercorrente</b> (LEF, art. 40)</td><td>1 ano após a ciência da frustração</td><td>só citação ou constrição efetivas interrompem</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A decadência do IPTU conta-se da data do fato gerador</span><br>✅ <span class=\"certo\">Conta-se do <b>primeiro dia do exercício seguinte</b> (CTN, art. 173, I)</span></li><li>❌ <span class=\"banca\">A declaração do contribuinte não constitui o crédito, exigindo lançamento de ofício</span><br>✅ <span class=\"certo\">A declaração <b>constitui</b> o crédito (Súmula 436 do STJ)</span></li><li>❌ <span class=\"banca\">Lei municipal pode fixar prazo prescricional de 10 anos para tributos municipais</span><br>✅ <span class=\"certo\">Prescrição e decadência tributárias exigem <b>lei complementar</b> (Súmula Vinculante 8)</span></li><li>❌ <span class=\"banca\">O protesto extrajudicial da CDA não interrompe a prescrição tributária</span><br>✅ <span class=\"certo\"><b>Interrompe</b> (CTN, art. 174, parágrafo único, II)</span></li></ol></div>",
+"quiz": [
+{
+"p": "A Lei 6.830/1980 rege a execução judicial da Dívida Ativa da União, dos Estados, do DF, dos Municípios e de suas autarquias, aplicando-se o CPC subsidiariamente.",
+"c": true,
+"prof": "Lei 6.830, art. 1º.",
+"x": "Âmbito.",
+"e": "LEF"
+},
+{
+"p": "Constitui Dívida Ativa da Fazenda Pública aquela definida como tributária ou não tributária na Lei 4.320/1964.",
+"c": true,
+"prof": "Lei 6.830, art. 2º.",
+"x": "Dívida ativa.",
+"e": "Dívida ativa"
+},
+{
+"p": "A multa administrativa aplicada pelo Município integra a dívida ativa não tributária.",
+"c": true,
+"prof": "Lei 4.320, art. 39, § 2º.",
+"x": "Não tributária.",
+"e": "Dívida ativa"
+},
+{
+"p": "A inscrição em dívida ativa constitui ato de controle administrativo da legalidade.",
+"c": true,
+"prof": "Lei 6.830, art. 2º, § 3º.",
+"x": "Controle.",
+"e": "Inscrição"
+},
+{
+"p": "Segundo o STJ, a suspensão da prescrição por 180 dias com a inscrição aplica-se apenas aos créditos não tributários.",
+"c": true,
+"prof": "Lei 6.830, art. 2º, § 3º.",
+"x": "Lei complementar.",
+"e": "Prescrição"
+},
+{
+"p": "O termo de inscrição deve conter o nome do devedor e dos corresponsáveis, o valor originário, a origem e o fundamento legal da dívida.",
+"c": true,
+"prof": "Lei 6.830, art. 2º, § 5º.",
+"x": "Requisitos.",
+"e": "CDA"
+},
+{
+"p": "A Dívida Ativa regularmente inscrita goza da presunção de certeza e liquidez, ilidível por prova inequívoca.",
+"c": true,
+"prof": "Lei 6.830, art. 3º.",
+"x": "Presunção relativa.",
+"e": "Presunção"
+},
+{
+"p": "Até a decisão de primeira instância, a CDA pode ser emendada ou substituída, devolvendo-se o prazo para embargos.",
+"c": true,
+"prof": "Lei 6.830, art. 2º, § 8º.",
+"x": "Substituição.",
+"e": "CDA"
+},
+{
+"p": "A Fazenda pode substituir a CDA para modificar o sujeito passivo da execução.",
+"c": false,
+"prof": "Súmula 392 do STJ.",
+"x": "Vedado.",
+"e": "Súmula 392"
+},
+{
+"p": "Em execução fiscal, a inicial não pode ser indeferida pela falta de indicação do CPF ou CNPJ do executado.",
+"c": true,
+"prof": "Súmula 558 do STJ.",
+"x": "CPF.",
+"e": "Súmula 558"
+},
+{
+"p": "É desnecessária a instrução da inicial da execução fiscal com demonstrativo de cálculo.",
+"c": true,
+"prof": "Súmula 559 do STJ.",
+"x": "Demonstrativo.",
+"e": "Súmula 559"
+},
+{
+"p": "A execução fiscal pode ser promovida contra o devedor, o fiador, o espólio, a massa, o responsável e os sucessores.",
+"c": true,
+"prof": "Lei 6.830, art. 4º.",
+"x": "Sujeito passivo.",
+"e": "Sujeitos"
+},
+{
+"p": "A competência para a execução fiscal exclui a de qualquer outro juízo, inclusive o da falência.",
+"c": true,
+"prof": "Lei 6.830, art. 5º.",
+"x": "Exclusiva.",
+"e": "Competência"
+},
+{
+"p": "Proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência.",
+"c": true,
+"prof": "Súmula 58 do STJ.",
+"x": "Perpetuação.",
+"e": "Súmula 58"
+},
+{
+"p": "A reunião de execuções fiscais contra o mesmo devedor constitui faculdade do juiz.",
+"c": true,
+"prof": "Súmula 515 do STJ.",
+"x": "Faculdade.",
+"e": "Reunião"
+},
+{
+"p": "A petição inicial e a CDA podem constituir um único documento, preparado inclusive por processo eletrônico.",
+"c": true,
+"prof": "Lei 6.830, art. 6º, § 2º.",
+"x": "Documento único.",
+"e": "Inicial"
+},
+{
+"p": "O despacho que defere a inicial importa ordem para citação, penhora, arresto, registro e avaliação.",
+"c": true,
+"prof": "Lei 6.830, art. 7º.",
+"x": "Despacho.",
+"e": "Despacho"
+},
+{
+"p": "É desnecessária a intervenção do Ministério Público nas execuções fiscais.",
+"c": true,
+"prof": "Súmula 189 do STJ.",
+"x": "MP.",
+"e": "MP"
+},
+{
+"p": "Na execução fiscal, o executado é citado para, em 5 dias, pagar a dívida ou garantir a execução.",
+"c": true,
+"prof": "Lei 6.830, art. 8º.",
+"x": "5 dias.",
+"e": "Citação"
+},
+{
+"p": "A citação na execução fiscal é feita, em regra, pelo correio com aviso de recepção.",
+"c": true,
+"prof": "Lei 6.830, art. 8º, I.",
+"x": "Correio.",
+"e": "Citação"
+},
+{
+"p": "O edital de citação na execução fiscal tem prazo de 30 dias.",
+"c": true,
+"prof": "Lei 6.830, art. 8º, IV.",
+"x": "Edital.",
+"e": "Edital"
+},
+{
+"p": "O despacho do juiz que ordenar a citação interrompe a prescrição.",
+"c": true,
+"prof": "Lei 6.830, art. 8º, § 2º.",
+"x": "Interrupção.",
+"e": "Prescrição"
+},
+{
+"p": "Ao executado citado por edital ou hora certa que permanecer revel será nomeado curador especial, legitimado a embargar.",
+"c": true,
+"prof": "Súmula 196 do STJ.",
+"x": "Curador.",
+"e": "Curador"
+},
+{
+"p": "A garantia por depósito, fiança bancária ou seguro garantia produz os mesmos efeitos da penhora.",
+"c": true,
+"prof": "Lei 6.830, art. 9º, § 3º.",
+"x": "Garantia.",
+"e": "Garantia"
+},
+{
+"p": "Somente o depósito em dinheiro faz cessar a responsabilidade pela atualização monetária e juros de mora.",
+"c": true,
+"prof": "Lei 6.830, art. 9º, § 4º.",
+"x": "Depósito.",
+"e": "Garantia"
+},
+{
+"p": "A fiança bancária e o seguro garantia só podem ser liquidados após o trânsito em julgado da decisão de mérito desfavorável ao contribuinte.",
+"c": true,
+"prof": "Lei 6.830, art. 9º, § 7º.",
+"x": "Lei 14.689/2023.",
+"e": "Seguro garantia"
+},
+{
+"p": "Na ordem de penhora da LEF, o dinheiro vem em primeiro lugar.",
+"c": true,
+"prof": "Lei 6.830, art. 11, I.",
+"x": "Ordem.",
+"e": "Penhora"
+},
+{
+"p": "É legítima a penhora da sede do estabelecimento comercial.",
+"c": true,
+"prof": "Súmula 451 do STJ.",
+"x": "Sede.",
+"e": "Súmula 451"
+},
+{
+"p": "O executado pode, em qualquer fase, substituir a penhora por depósito em dinheiro, fiança bancária ou seguro garantia.",
+"c": true,
+"prof": "Lei 6.830, art. 15, I.",
+"x": "Substituição.",
+"e": "Substituição"
+},
+{
+"p": "A penhora on-line na execução fiscal não exige o esgotamento prévio de diligências para localizar outros bens.",
+"c": true,
+"prof": "Tema 425 do STJ.",
+"x": "Sisbajud.",
+"e": "Penhora on-line"
+},
+{
+"p": "O executado oferecerá embargos em 30 dias, contados do depósito, da juntada da fiança ou do seguro, ou da intimação da penhora.",
+"c": true,
+"prof": "Lei 6.830, art. 16.",
+"x": "30 dias.",
+"e": "Embargos"
+},
+{
+"p": "Na execução fiscal, os embargos do executado independem de garantia da execução.",
+"c": false,
+"prof": "Lei 6.830, art. 16, § 1º.",
+"x": "Garantia exigida.",
+"e": "Garantia"
+},
+{
+"p": "Nos embargos à execução fiscal não será admitida reconvenção nem compensação.",
+"c": true,
+"prof": "Lei 6.830, art. 16, § 3º.",
+"x": "Vedação.",
+"e": "Embargos"
+},
+{
+"p": "Nos embargos à execução fiscal, o executado pode arrolar até 3 testemunhas, ou até o dobro a critério do juiz.",
+"c": true,
+"prof": "Lei 6.830, art. 16, § 2º.",
+"x": "Testemunhas.",
+"e": "Embargos"
+},
+{
+"p": "Recebidos os embargos, a Fazenda será intimada para impugná-los em 30 dias.",
+"c": true,
+"prof": "Lei 6.830, art. 17.",
+"x": "Impugnação.",
+"e": "Impugnação"
+},
+{
+"p": "Os embargos à execução fiscal não têm efeito suspensivo automático, aplicando-se o art. 919, § 1º, do CPC.",
+"c": true,
+"prof": "Tema 526 do STJ.",
+"x": "Efeito suspensivo.",
+"e": "Efeito"
+},
+{
+"p": "A sentença que julga procedentes os embargos à execução fiscal está sujeita à remessa necessária.",
+"c": true,
+"prof": "CPC, art. 496, II.",
+"x": "Remessa.",
+"e": "Remessa"
+},
+{
+"p": "A exceção de pré-executividade é admissível na execução fiscal para matérias conhecíveis de ofício que não demandem dilação probatória.",
+"c": true,
+"prof": "Súmula 393 do STJ.",
+"x": "Pré-executividade.",
+"e": "Súmula 393"
+},
+{
+"p": "O sócio cujo nome consta da CDA pode afastar sua responsabilidade por exceção de pré-executividade, sem dilação probatória.",
+"c": false,
+"prof": "Tema 108 do STJ.",
+"x": "Embargos.",
+"e": "Pré-executividade"
+},
+{
+"p": "Acolhida a exceção de pré-executividade com extinção da execução, são devidos honorários pela Fazenda.",
+"c": true,
+"prof": "STJ, Tema 410.",
+"x": "Honorários.",
+"e": "Honorários"
+},
+{
+"p": "O inadimplemento da obrigação tributária pela sociedade não gera, por si só, a responsabilidade do sócio-gerente.",
+"c": true,
+"prof": "Súmula 430 do STJ.",
+"x": "Inadimplemento.",
+"e": "Súmula 430"
+},
+{
+"p": "Presume-se dissolvida irregularmente a empresa que deixar de funcionar no domicílio fiscal sem comunicação aos órgãos competentes.",
+"c": true,
+"prof": "Súmula 435 do STJ.",
+"x": "Dissolução.",
+"e": "Súmula 435"
+},
+{
+"p": "O redirecionamento por dissolução irregular pode atingir o sócio com poderes de administração na data da dissolução, ainda que não fosse gerente ao tempo do fato gerador.",
+"c": true,
+"prof": "Tema 981 do STJ.",
+"x": "Redirecionamento.",
+"e": "Tema 981"
+},
+{
+"p": "O redirecionamento não pode atingir o sócio que se retirou regularmente e não deu causa à dissolução irregular.",
+"c": true,
+"prof": "Tema 962 do STJ.",
+"x": "Retirada regular.",
+"e": "Tema 962"
+},
+{
+"p": "O STJ admite o redirecionamento da execução de dívida ativa não tributária ao sócio-gerente em caso de dissolução irregular.",
+"c": true,
+"prof": "Tema 630 do STJ.",
+"x": "Não tributária.",
+"e": "Tema 630"
+},
+{
+"p": "O redirecionamento com base no art. 135 do CTN não exige incidente de desconsideração da personalidade jurídica.",
+"c": true,
+"prof": "STJ.",
+"x": "IDPJ.",
+"e": "IDPJ"
+},
+{
+"p": "O prazo para redirecionar a execução ao sócio é de 5 anos, contado da citação da empresa ou do ato ilícito, se posterior.",
+"c": true,
+"prof": "Tema 444 do STJ.",
+"x": "Prazo.",
+"e": "Tema 444"
+},
+{
+"p": "Não localizados bens penhoráveis, suspende-se a execução fiscal por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente.",
+"c": true,
+"prof": "Súmula 314 do STJ.",
+"x": "Intercorrente.",
+"e": "Súmula 314"
+},
+{
+"p": "O prazo de suspensão do art. 40 da LEF inicia-se automaticamente na data da ciência da Fazenda sobre a não localização do devedor ou de bens.",
+"c": true,
+"prof": "Tema 566 do STJ.",
+"x": "Automático.",
+"e": "Tema 566"
+},
+{
+"p": "O mero peticionamento requerendo penhora interrompe a prescrição intercorrente.",
+"c": false,
+"prof": "Tema 566 do STJ.",
+"x": "Só efetiva constrição.",
+"e": "Interrupção"
+},
+{
+"p": "O juiz, ouvida a Fazenda, pode reconhecer de ofício a prescrição intercorrente na execução fiscal.",
+"c": true,
+"prof": "Lei 6.830, art. 40, § 4º.",
+"x": "De ofício.",
+"e": "Art. 40"
+},
+{
+"p": "O STF declarou constitucional o art. 40 da Lei de Execução Fiscal.",
+"c": true,
+"prof": "Tema 390 do STF.",
+"x": "Constitucional.",
+"e": "Tema 390"
+},
+{
+"p": "É legítima a extinção de execução fiscal de baixo valor pela ausência de interesse de agir, respeitada a competência de cada ente.",
+"c": true,
+"prof": "Tema 1.184 do STF.",
+"x": "Eficiência.",
+"e": "Tema 1.184"
+},
+{
+"p": "Segundo o Tema 1.184, o ajuizamento da execução fiscal depende de prévia tentativa de conciliação ou solução administrativa e do protesto do título, salvo inadequação comprovada.",
+"c": true,
+"prof": "Tema 1.184 do STF.",
+"x": "Providências prévias.",
+"e": "Tema 1.184"
+},
+{
+"p": "A Resolução CNJ 547/2024 determina a extinção de execuções fiscais de valor inferior a R$ 10 mil sem movimentação útil há mais de 1 ano, sem citação ou sem bens penhoráveis.",
+"c": true,
+"prof": "Resolução CNJ 547/2024.",
+"x": "Extinção.",
+"e": "CNJ"
+},
+{
+"p": "O protesto de certidão de dívida ativa é constitucional e não configura sanção política.",
+"c": true,
+"prof": "ADI 5.135.",
+"x": "Protesto.",
+"e": "Protesto"
+},
+{
+"p": "Na execução fiscal, o devedor deve ser intimado pessoalmente do dia e hora do leilão.",
+"c": true,
+"prof": "Súmula 121 do STJ.",
+"x": "Leilão.",
+"e": "Súmula 121"
+},
+{
+"p": "A Fazenda pode adjudicar os bens penhorados antes do leilão, pelo preço da avaliação, se não houver embargos ou se rejeitados.",
+"c": true,
+"prof": "Lei 6.830, art. 24, I.",
+"x": "Adjudicação.",
+"e": "Adjudicação"
+},
+{
+"p": "Na execução fiscal, qualquer intimação ao representante judicial da Fazenda será feita pessoalmente.",
+"c": true,
+"prof": "Lei 6.830, art. 25.",
+"x": "Intimação.",
+"e": "Intimação"
+},
+{
+"p": "Cancelada a inscrição antes da decisão de primeira instância, a execução fiscal será extinta sem ônus para as partes.",
+"c": true,
+"prof": "Lei 6.830, art. 26.",
+"x": "Cancelamento.",
+"e": "Art. 26"
+},
+{
+"p": "A desistência da execução fiscal após o oferecimento dos embargos não exime o exequente dos encargos da sucumbência.",
+"c": true,
+"prof": "Súmula 153 do STJ.",
+"x": "Sucumbência.",
+"e": "Súmula 153"
+},
+{
+"p": "A Fazenda Pública não está sujeita ao pagamento de custas e emolumentos na execução fiscal, mas ressarcirá as despesas da parte contrária se vencida.",
+"c": true,
+"prof": "Lei 6.830, art. 39.",
+"x": "Custas.",
+"e": "Custas"
+},
+{
+"p": "Contra decisão em embargos infringentes de alçada na execução fiscal cabe apenas recurso extraordinário.",
+"c": true,
+"prof": "Súmula 640 do STF.",
+"x": "Alçada.",
+"e": "Alçada"
+},
+{
+"p": "O contribuinte do IPTU é notificado do lançamento pelo envio do carnê ao seu endereço.",
+"c": true,
+"prof": "Súmula 397 do STJ.",
+"x": "Carnê.",
+"e": "IPTU"
+},
+{
+"p": "Cabe à legislação municipal estabelecer o sujeito passivo do IPTU.",
+"c": true,
+"prof": "Súmula 399 do STJ.",
+"x": "Sujeito passivo.",
+"e": "IPTU"
+},
+{
+"p": "O termo inicial da prescrição da cobrança judicial do IPTU é o dia seguinte ao vencimento, e o parcelamento de ofício não interrompe a prescrição.",
+"c": true,
+"prof": "Tema 980 do STJ.",
+"x": "IPTU.",
+"e": "Tema 980"
+},
+{
+"p": "Na arrematação em hasta pública, a sub-rogação dos débitos de IPTU ocorre sobre o preço.",
+"c": true,
+"prof": "CTN, art. 130, parágrafo único.",
+"x": "Arrematante.",
+"e": "Arrematação"
+},
+{
+"p": "O serviço de iluminação pública não pode ser remunerado mediante taxa.",
+"c": true,
+"prof": "Súmula Vinculante 41.",
+"x": "COSIP.",
+"e": "Iluminação"
+},
+{
+"p": "O depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro.",
+"c": true,
+"prof": "Súmula 112 do STJ.",
+"x": "Depósito.",
+"e": "Suspensão"
+},
+{
+"p": "É inconstitucional a exigência de depósito prévio como requisito de ação judicial que discuta a exigibilidade de crédito tributário.",
+"c": true,
+"prof": "Súmula Vinculante 28.",
+"x": "Depósito prévio.",
+"e": "SV 28"
+},
+{
+"p": "É possível ao contribuinte antecipar a garantia da futura execução fiscal para obter certidão positiva com efeitos de negativa.",
+"c": true,
+"prof": "Tema 237 do STJ.",
+"x": "Caução.",
+"e": "Garantia antecipada"
+},
+{
+"p": "As execuções fiscais não se suspendem com a recuperação judicial, mas o juízo da recuperação pode substituir constrições sobre bens de capital essenciais.",
+"c": true,
+"prof": "Lei 11.101, art. 6º, § 7º-B.",
+"x": "Recuperação.",
+"e": "Recuperação"
+},
+{
+"p": "O STF declarou não recepcionada a preferência da União sobre Estados e Municípios no concurso de credores fiscais.",
+"c": true,
+"prof": "ADPF 357.",
+"x": "Pacto federativo.",
+"e": "ADPF 357"
+},
+{
+"p": "O pedido de parcelamento interrompe a prescrição do crédito tributário, por ser ato de reconhecimento do débito.",
+"c": true,
+"prof": "CTN, art. 174, parágrafo único, IV.",
+"x": "Parcelamento.",
+"e": "Parcelamento"
+},
+{
+"p": "A transação tributária depende de lei que a autorize.",
+"c": true,
+"prof": "CTN, art. 171.",
+"x": "Lei.",
+"e": "Transação"
+},
+{
+"p": "Quando não houver declaração do débito, a decadência conta-se na forma do art. 173, I, do CTN.",
+"c": true,
+"prof": "Súmula 555 do STJ.",
+"x": "Sem declaração.",
+"e": "Decadência"
+},
+{
+"p": "A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário.",
+"c": true,
+"prof": "Súmula 436 do STJ.",
+"x": "Declaração.",
+"e": "Súmula 436"
+},
+{
+"p": "Declarado e não pago o débito tributário, é legítima a recusa de certidão negativa ou positiva com efeito de negativa.",
+"c": true,
+"prof": "Súmula 446 do STJ.",
+"x": "Certidão.",
+"e": "Súmula 446"
+},
+{
+"p": "São inconstitucionais leis ordinárias que tratam de prescrição e decadência de crédito tributário.",
+"c": true,
+"prof": "Súmula Vinculante 8.",
+"x": "Lei complementar.",
+"e": "SV 8"
+},
+{
+"p": "O protesto judicial ou extrajudicial interrompe a prescrição do crédito tributário.",
+"c": true,
+"prof": "CTN, art. 174, parágrafo único, II.",
+"x": "Protesto.",
+"e": "Interrupção"
+},
+{
+"p": "Sobre a Certidão de Dívida Ativa, é correto afirmar:",
+"alts": [
+"goza de presunção absoluta de certeza e liquidez",
+"pode ser substituída até o trânsito em julgado",
+"pode ser emendada ou substituída até a decisão de primeira instância, vedada a modificação do sujeito passivo",
+"sua substituição dispensa nova oportunidade de embargos",
+"deve vir sempre acompanhada de demonstrativo de cálculo"
+],
+"r": 2,
+"x": "Lei 6.830, arts. 2º, § 8º, e 3º; Súmulas 392 e 559 do STJ.",
+"n": [
+"Relativa.",
+"Até a sentença.",
+"Correta.",
+"Devolve o prazo.",
+"Desnecessário."
+],
+"e": "CDA."
+},
+{
+"p": "Na execução fiscal, o executado é citado para",
+"alts": [
+"contestar em 15 dias",
+"pagar em 3 dias",
+"pagar a dívida ou garantir a execução em 5 dias",
+"embargar em 30 dias da citação",
+"comparecer à audiência de conciliação"
+],
+"r": 2,
+"x": "Lei 6.830, art. 8º.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Da garantia.",
+"Não."
+],
+"e": "Citação."
+},
+{
+"p": "São admissíveis os embargos à execução fiscal",
+"alts": [
+"independentemente de garantia, como no CPC",
+"após garantida a execução, no prazo de 30 dias contados do depósito, da juntada da fiança ou do seguro, ou da intimação da penhora",
+"no prazo de 15 dias da citação",
+"com reconvenção",
+"com compensação a ser realizada nos próprios embargos"
+],
+"r": 1,
+"x": "Lei 6.830, art. 16.",
+"n": [
+"Garantia exigida.",
+"Correta.",
+"Não.",
+"Vedada.",
+"Vedada."
+],
+"e": "Embargos."
+},
+{
+"p": "A exceção de pré-executividade, na execução fiscal,",
+"alts": [
+"exige garantia do juízo",
+"admite ampla produção de provas",
+"é admissível para matérias conhecíveis de ofício que não demandem dilação probatória",
+"é o meio para o sócio da CDA provar que não agiu com excesso de poderes",
+"não gera honorários quando acolhida"
+],
+"r": 2,
+"x": "Súmula 393 do STJ.",
+"n": [
+"Dispensa.",
+"Não.",
+"Correta.",
+"Embargos (Tema 108).",
+"Gera."
+],
+"e": "Pré-executividade."
+},
+{
+"p": "Segundo a Súmula 435 e o Tema 981 do STJ, na dissolução irregular da empresa, o redirecionamento da execução fiscal pode atingir",
+"alts": [
+"todos os sócios, inclusive os que nunca tiveram gerência",
+"apenas o sócio-gerente da época do fato gerador",
+"o sócio ou terceiro com poderes de administração na data em que configurada ou presumida a dissolução irregular",
+"apenas os herdeiros",
+"ninguém, pois exige IDPJ"
+],
+"r": 2,
+"x": "Súmula 435; Tema 981.",
+"n": [
+"Não.",
+"Não necessariamente.",
+"Correta.",
+"Não.",
+"Não exige."
+],
+"e": "Redirecionamento."
+},
+{
+"p": "O inadimplemento da obrigação tributária pela sociedade, segundo a Súmula 430 do STJ,",
+"alts": [
+"gera responsabilidade solidária de todos os sócios",
+"não gera, por si só, a responsabilidade solidária do sócio-gerente",
+"gera responsabilidade subsidiária automática",
+"autoriza a prisão civil",
+"dispensa prova de infração à lei"
+],
+"r": 1,
+"x": "Súmula 430.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Súmula 430."
+},
+{
+"p": "Sobre a prescrição intercorrente na execução fiscal, segundo o STJ (Tema 566),",
+"alts": [
+"o prazo de suspensão depende de despacho do juiz",
+"o pedido de penhora interrompe a prescrição",
+"o prazo de 1 ano de suspensão inicia-se automaticamente na ciência da Fazenda, seguido automaticamente do prazo de 5 anos",
+"só a citação pessoal interrompe",
+"o prazo é de 10 anos"
+],
+"r": 2,
+"x": "Tema 566 do STJ; Súmula 314.",
+"n": [
+"Automático.",
+"Só efetiva constrição.",
+"Correta.",
+"Também constrição e edital.",
+"5 anos."
+],
+"e": "Intercorrente."
+},
+{
+"p": "Segundo o Tema 1.184 do STF, quanto às execuções fiscais de baixo valor,",
+"alts": [
+"a extinção é vedada pela inafastabilidade",
+"é legítima a extinção pela ausência de interesse de agir, e o ajuizamento depende de prévia tentativa de solução administrativa e protesto, salvo inadequação",
+"só a União pode extinguir suas execuções",
+"o protesto da CDA é proibido",
+"o juiz deve prosseguir sempre"
+],
+"r": 1,
+"x": "Tema 1.184.",
+"n": [
+"Legítima.",
+"Correta.",
+"Cada ente.",
+"Exigido.",
+"Não."
+],
+"e": "Tema 1.184."
+},
+{
+"p": "Na execução fiscal, a intimação do representante judicial da Fazenda Pública",
+"alts": [
+"é feita pelo Diário Oficial",
+"é feita pessoalmente, podendo ocorrer por vista dos autos com remessa ao procurador",
+"é feita por edital",
+"é dispensada",
+"é feita ao Prefeito"
+],
+"r": 1,
+"x": "Lei 6.830, art. 25.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Intimação."
+},
+{
+"p": "Sobre a competência na execução fiscal, assinale a correta.",
+"alts": [
+"a falência atrai a execução fiscal ao juízo universal",
+"a mudança de domicílio do executado desloca a competência",
+"a competência da execução fiscal exclui a de qualquer outro juízo, e a mudança posterior de domicílio não a desloca",
+"a reunião de execuções é obrigatória",
+"o MP deve intervir sempre"
+],
+"r": 2,
+"x": "Lei 6.830, art. 5º; Súmulas 58, 189 e 515 do STJ.",
+"n": [
+"Não.",
+"Súmula 58.",
+"Correta.",
+"Faculdade.",
+"Desnecessária."
+],
+"e": "Competência."
+},
+{
+"p": "Das sentenças proferidas em execuções fiscais de valor igual ou inferior a 50 ORTN cabem",
+"alts": [
+"apelação ao tribunal",
+"recurso especial",
+"embargos infringentes, ao próprio juízo, e embargos de declaração",
+"agravo de instrumento",
+"recurso inominado à turma recursal"
+],
+"r": 2,
+"x": "Lei 6.830, art. 34.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Alçada."
+},
+{
+"p": "Segundo a Súmula 397 do STJ, o contribuinte do IPTU é notificado do lançamento",
+"alts": [
+"por edital",
+"por oficial de justiça",
+"pelo envio do carnê ao seu endereço",
+"pela inscrição em dívida ativa",
+"pelo protesto"
+],
+"r": 2,
+"x": "Súmula 397.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "IPTU."
+},
+{
+"p": "Sobre a desistência ou o cancelamento da execução fiscal, é correto afirmar:",
+"alts": [
+"a desistência após os embargos isenta a Fazenda de honorários",
+"cancelada a inscrição antes da decisão de primeira instância, a execução é extinta sem ônus, mas a desistência após os embargos não exime a Fazenda da sucumbência",
+"a Fazenda nunca paga honorários na execução fiscal",
+"o cancelamento depende de anuência do executado",
+"a desistência gera multa"
+],
+"r": 1,
+"x": "Lei 6.830, art. 26; Súmula 153 do STJ.",
+"n": [
+"Não.",
+"Correta.",
+"Paga.",
+"Não.",
+"Não."
+],
+"e": "Desistência."
+},
+{
+"p": "A garantia da execução fiscal por fiança bancária ou seguro garantia",
+"alts": [
+"não produz os efeitos da penhora",
+"pode ser liquidada antes do trânsito em julgado",
+"produz os mesmos efeitos da penhora e só pode ser liquidada após o trânsito em julgado de decisão de mérito desfavorável ao contribuinte",
+"faz cessar os juros de mora",
+"é vedada"
+],
+"r": 2,
+"x": "Lei 6.830, art. 9º, §§ 3º, 4º e 7º.",
+"n": [
+"Produz.",
+"Vedado (Lei 14.689).",
+"Correta.",
+"Só o depósito.",
+"Admitida."
+],
+"e": "Seguro garantia."
+},
+{
+"p": "Segundo o STF, o protesto de certidão de dívida ativa",
+"alts": [
+"é sanção política inconstitucional",
+"só é permitido à União",
+"é constitucional e legítimo",
+"depende de autorização judicial",
+"substitui a execução fiscal por lei federal"
+],
+"r": 2,
+"x": "ADI 5.135.",
+"n": [
+"Não.",
+"Todos os entes.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Protesto."
+},
+{
+"p": "No concurso de credores fiscais, segundo o STF (ADPF 357),",
+"alts": [
+"a União tem preferência sobre os Estados e Municípios",
+"os Municípios têm preferência sobre a União",
+"não foi recepcionada a regra que dava preferência à União sobre Estados e Municípios",
+"os Estados preferem a todos",
+"a preferência é decidida pelo juiz"
+],
+"r": 2,
+"x": "ADPF 357.",
+"n": [
+"Não recepcionada.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "ADPF 357."
+},
+{
+"p": "Quanto à suspensão da exigibilidade do crédito tributário, é correto afirmar:",
+"alts": [
+"o depósito parcial suspende a exigibilidade",
+"é constitucional exigir depósito prévio para ação anulatória",
+"o depósito suspende a exigibilidade se for integral e em dinheiro, e é inconstitucional exigir depósito prévio para ajuizar ação",
+"a caução antecipada suspende a exigibilidade",
+"o parcelamento não suspende"
+],
+"r": 2,
+"x": "Súmula 112 do STJ; SV 28; CTN, art. 151.",
+"n": [
+"Integral.",
+"SV 28.",
+"Correta.",
+"Não suspende.",
+"Suspende."
+],
+"e": "Suspensão."
+},
+{
+"p": "Ajuizada execução fiscal contra pessoa já falecida antes do ajuizamento, segundo o STJ,",
+"alts": [
+"basta substituir a CDA para incluir o espólio",
+"o juiz redireciona ao herdeiro de ofício",
+"não é possível substituir a CDA para trocar o sujeito passivo, devendo a execução ser extinta",
+"a execução prossegue contra o morto",
+"a dívida se extingue"
+],
+"r": 2,
+"x": "Súmula 392 do STJ.",
+"n": [
+"Vedado.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Falecido."
+}
+]
+},
+"acoes-constitucionais": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>120 dias</b><span>prazo decadencial para impetrar mandado de segurança, contado da ciência do ato (Lei 12.016, art. 23)</span></div><div class=\"lt-stat\"><b>5 anos</b><span>prazo da ação popular (Lei 4.717, art. 21)</span></div><div class=\"lt-stat\"><b>8 anos</b><span>prescrição da ação de improbidade, contada do fato (Lei 8.429, art. 23, com a Lei 14.230/2021)</span></div><div class=\"lt-stat\"><b>Tema 1.075</b><span>STF declarou inconstitucional a limitação territorial da coisa julgada na ação civil pública</span></div></div>\n<h3>1. Visão geral: as ações constitucionais e o Procurador Municipal</h3>\n<ul><li>As chamadas <b>ações constitucionais</b> (ou remédios constitucionais) são as ações previstas diretamente na Constituição para proteger direitos fundamentais e o patrimônio público: <b>habeas corpus</b>, <b>mandado de segurança</b> (individual e coletivo), <b>mandado de injunção</b>, <b>habeas data</b> e <b>ação popular</b> (CF, art. 5º, LXVIII a LXXIII). A <b>ação civil pública</b> (CF, art. 129, III) e a <b>ação de improbidade administrativa</b> (CF, art. 37, § 4º) completam o chamado <b>microssistema de tutela coletiva</b> e de defesa do patrimônio público.</li><li>Para o <b>Procurador Municipal</b>, essas ações aparecem quase sempre com o Município (ou a autoridade municipal) no <b>polo passivo</b>: o servidor impetra mandado de segurança contra o Secretário de Administração; o cidadão propõe ação popular contra um contrato assinado pelo Prefeito; o Ministério Público ajuíza ação civil pública para obrigar o Município a reformar uma escola. Mas o Município também pode ser <b>autor</b>: ele é legitimado para propor <b>ação civil pública</b> (Lei 7.347, art. 5º, III) e, depois do julgamento das <b>ADIs 7.042 e 7.043</b> pelo STF, também para propor <b>ação de improbidade</b> como pessoa jurídica lesada.</li><li>O que as bancas cobram, em resumo: <b>cabimento</b> (qual ação serve para quê), <b>legitimidade</b> (quem pode propor e contra quem), <b>prazos</b> (120 dias do MS, 5 anos da ação popular, 8 anos da improbidade), <b>liminares contra o Poder Público</b> (e suas restrições), <b>reexame necessário</b>, <b>honorários</b> (que não cabem no MS) e as <b>súmulas</b> do STF e do STJ sobre cada ação.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ação</th><th>Fundamento</th><th>Serve para</th><th>Quem propõe</th></tr></thead><tbody><tr><td><b>Mandado de segurança</b></td><td>CF, art. 5º, LXIX; Lei 12.016/2009</td><td>proteger direito líquido e certo contra ato de autoridade</td><td>pessoa física ou jurídica titular do direito</td></tr><tr><td><b>MS coletivo</b></td><td>CF, art. 5º, LXX; Lei 12.016, arts. 21 e 22</td><td>direitos coletivos e individuais homogêneos de um grupo</td><td>partido político, sindicato, entidade de classe, associação</td></tr><tr><td><b>Ação popular</b></td><td>CF, art. 5º, LXXIII; Lei 4.717/1965</td><td>anular ato lesivo ao patrimônio público, à moralidade, ao meio ambiente ou ao patrimônio histórico</td><td><b>cidadão</b></td></tr><tr><td><b>Ação civil pública</b></td><td>CF, art. 129, III; Lei 7.347/1985</td><td>tutela de direitos difusos, coletivos e individuais homogêneos</td><td>MP, Defensoria, entes públicos, associações</td></tr><tr><td><b>Improbidade</b></td><td>CF, art. 37, § 4º; Lei 8.429/1992</td><td>aplicar sanções ao agente ímprobo</td><td>MP e pessoa jurídica lesada (ADIs 7.042 e 7.043)</td></tr><tr><td><b>Mandado de injunção</b></td><td>CF, art. 5º, LXXI; Lei 13.300/2016</td><td>suprir falta de norma regulamentadora</td><td>titular do direito; no coletivo, MP, partido, sindicato, Defensoria</td></tr><tr><td><b>Habeas data</b></td><td>CF, art. 5º, LXXII; Lei 9.507/1997</td><td>conhecer ou retificar informações pessoais</td><td>a própria pessoa</td></tr></tbody></table>\n<h3>2. Mandado de segurança: conceito e cabimento</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CF, art. 5º, LXIX</div><div class=\"art-lei\">conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por \"habeas-corpus\" ou \"habeas-data\", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público;</div></div>\n<ul><li>O <b>mandado de segurança</b> é a ação constitucional de rito especial e sumário (Lei 12.016/2009) que protege <b>direito líquido e certo</b>, não amparado por habeas corpus ou habeas data, contra <b>ilegalidade ou abuso de poder</b> de <b>autoridade pública</b> ou de agente de pessoa jurídica no exercício de atribuições do Poder Público. É <b>subsidiário</b> em relação ao HC e ao HD: se o caso é de liberdade de locomoção, cabe HC; se é de informações pessoais em banco de dados, cabe HD.</li><li><b>Direito líquido e certo</b> não é um direito \"simples\" ou \"evidente\". É o direito cujos <b>fatos</b> podem ser comprovados de plano, por <b>prova documental pré-constituída</b>, juntada com a inicial. No MS <b>não há dilação probatória</b>: não se ouve testemunha nem se faz perícia. A questão de direito, por mais complexa que seja, pode ser decidida no MS. <b>Súmula 625 do STF</b>: \"<b>Controvérsia sobre matéria de direito não impede</b> concessão de mandado de segurança.\"</li><li>Exceção à prova pré-constituída: se o documento necessário estiver em poder da própria <b>Administração</b> ou de terceiro que se recuse a fornecê-lo, o juiz ordenará, preliminarmente, a sua exibição no prazo de <b>10 dias</b> (Lei 12.016, art. 6º, § 1º).</li><li><b>MS preventivo e repressivo</b>: o MS pode ser <b>repressivo</b> (contra ato já praticado) ou <b>preventivo</b> (quando houver <b>justo receio</b> de sofrer violação, art. 1º). No preventivo, exige-se ameaça <b>concreta e objetiva</b>, não mero temor subjetivo. Exemplo: o contribuinte recebe notificação de que será autuado se não recolher um tributo que considera inconstitucional.</li><li><b>Autoridade coatora</b>: é quem <b>praticou o ato</b> impugnado ou <b>da qual emane a ordem</b> para a sua prática (art. 6º, § 3º). Não é o mero executor material. Equiparam-se às autoridades os representantes ou órgãos de <b>partidos políticos</b>, os administradores de <b>entidades autárquicas</b> e os dirigentes de pessoas jurídicas ou pessoas naturais no exercício de <b>atribuições do poder público</b>, somente no que disser respeito a essas atribuições (art. 1º, § 1º).</li><li><b>Atos de gestão comercial</b>: <b>não cabe</b> MS contra os atos de gestão comercial praticados pelos administradores de <b>empresas públicas</b>, de <b>sociedade de economia mista</b> e de <b>concessionárias</b> de serviço público (art. 1º, § 2º). Mas os atos praticados em <b>licitação</b> são atos de autoridade. <b>Súmula 333 do STJ</b>: \"Cabe mandado de segurança contra ato praticado em <b>licitação</b> promovida por sociedade de economia mista ou empresa pública.\"</li><li><b>Ato praticado por delegação</b>: <b>Súmula 510 do STF</b>: \"Praticado o ato por autoridade, no exercício de <b>competência delegada</b>, contra ela cabe o mandado de segurança ou a medida judicial.\" Isso importa para a <b>competência</b>: se o Prefeito delegou ao Secretário a competência para homologar concursos, o MS contra a homologação é impetrado contra o <b>Secretário</b> (o delegado).</li><li><b>Parte passiva</b>: a autoridade coatora presta as <b>informações</b>, mas a parte no processo é a <b>pessoa jurídica</b> a que ela está vinculada. Por isso, a inicial deve indicar a autoridade coatora <b>e</b> a pessoa jurídica que esta integra, à qual se acha vinculada ou da qual exerce atribuições (art. 6º), e o juiz manda dar ciência do feito ao <b>órgão de representação judicial</b> da pessoa jurídica interessada (art. 7º, II), que é a <b>Procuradoria do Município</b>. A autoridade coatora também tem legitimidade para <b>recorrer</b> (art. 14, § 2º).</li><li><b>Indicação errônea da autoridade</b>: o STJ admite a <b>emenda</b> da inicial para corrigir a autoridade coatora quando o erro for escusável e não alterar a competência, e aplica a <b>teoria da encampação</b>. <b>Súmula 628 do STJ</b>: \"A <b>teoria da encampação</b> é aplicada no mandado de segurança quando presentes, cumulativamente, os seguintes requisitos: a) existência de vínculo hierárquico entre a autoridade que prestou informações e a que ordenou a prática do ato impugnado; b) manifestação a respeito do mérito nas informações prestadas; e c) ausência de modificação na competência estabelecida na Constituição Federal.\"</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No mandado de segurança admite-se prova testemunhal quando os documentos forem insuficientes</span><br>✅ <span class=\"certo\"><b>Não há dilação probatória</b>; a prova deve ser documental e pré-constituída</span></li><li>❌ <span class=\"banca\">Matéria de direito complexa impede a concessão do mandado de segurança</span><br>✅ <span class=\"certo\"><b>Não impede</b> (Súmula 625 do STF)</span></li><li>❌ <span class=\"banca\">Cabe mandado de segurança contra ato de gestão comercial de empresa pública</span><br>✅ <span class=\"certo\"><b>Não cabe</b> (Lei 12.016, art. 1º, § 2º), mas cabe contra ato em <b>licitação</b> (Súmula 333 do STJ)</span></li><li>❌ <span class=\"banca\">Praticado o ato por delegação, o MS deve ser impetrado contra a autoridade delegante</span><br>✅ <span class=\"certo\">Contra a autoridade <b>delegada</b>, que praticou o ato (Súmula 510 do STF)</span></li></ol></div>\n<h3>3. Quando não cabe mandado de segurança</h3>\n<ul><li>A Lei 12.016 (art. 5º) diz que <b>não se concederá</b> mandado de segurança quando se tratar: I, de ato do qual caiba <b>recurso administrativo com efeito suspensivo, independentemente de caução</b>; II, de <b>decisão judicial</b> da qual caiba <b>recurso com efeito suspensivo</b>; III, de decisão judicial <b>transitada em julgado</b>.</li><li>Note o detalhe do inciso I: a lei não exige o <b>esgotamento</b> da via administrativa. O interessado pode deixar de recorrer administrativamente e impetrar o MS. O que não cabe é o MS <b>enquanto</b> pende recurso administrativo com efeito suspensivo, porque nesse caso o ato ainda não produz efeitos (não há lesão). <b>Súmula 429 do STF</b>: \"A existência de recurso administrativo com efeito suspensivo <b>não impede</b> o uso do mandado de segurança contra <b>omissão</b> da autoridade.\"</li><li><b>Súmulas clássicas do STF sobre não cabimento</b>:</li><li><b>Súmula 266</b>: \"Não cabe mandado de segurança contra <b>lei em tese</b>.\" A lei geral e abstrata não lesa ninguém por si só; o MS deve atacar o <b>ato concreto</b> que a aplica. Exceção: as <b>leis de efeitos concretos</b> (por exemplo, a lei que desapropria um imóvel determinado ou que cria um Município) podem ser atacadas por MS, porque são atos administrativos em forma de lei.</li><li><b>Súmula 267</b>: \"Não cabe mandado de segurança contra ato judicial <b>passível de recurso ou correição</b>.\" A jurisprudência admite, excepcionalmente, MS contra decisão judicial <b>teratológica</b> ou flagrantemente ilegal, quando não houver recurso eficaz.</li><li><b>Súmula 268</b>: \"Não cabe mandado de segurança contra decisão judicial com <b>trânsito em julgado</b>.\" O meio próprio é a ação rescisória.</li><li><b>Súmula 269</b>: \"O mandado de segurança <b>não é substitutivo de ação de cobrança</b>.\"</li><li><b>Súmula 271</b>: \"Concessão de mandado de segurança <b>não produz efeitos patrimoniais em relação a período pretérito</b>, os quais devem ser reclamados administrativamente ou pela via judicial própria.\" Combinada com o art. 14, § 4º, da Lei 12.016: o pagamento de vencimentos e vantagens pecuniárias assegurados em sentença concessiva de MS a servidor público só será efetuado relativamente às prestações que se vencerem <b>a contar da data do ajuizamento da inicial</b>.</li><li><b>Súmula 101</b>: \"O mandado de segurança <b>não substitui a ação popular</b>.\"</li><li><b>Súmula 474</b>: \"Não há direito líquido e certo, amparado pelo mandado de segurança, quando se escuda em lei cujos efeitos foram anulados por outra, declarada constitucional pelo Supremo Tribunal Federal.\"</li><li><b>Questão funcional complexa</b>: a jurisprudência não admite MS quando a solução depender de exame de prova ou de situação funcional complexa (por exemplo, um reenquadramento que exija perícia sobre as atribuições exercidas). Nesse caso, o servidor deve usar a ação de procedimento comum.</li><li><b>Questões interna corporis</b>: não cabe MS contra atos <b>interna corporis</b> do Legislativo (interpretação de regimento interno), salvo violação direta a norma constitucional do processo legislativo. O STF admite MS impetrado por <b>parlamentar</b> para garantir o devido processo legislativo (controle preventivo de constitucionalidade).</li><li><b>Ato disciplinar</b>: o MS pode atacar a <b>legalidade</b> do ato disciplinar (competência, forma, devido processo, proporcionalidade evidente), mas não reexaminar o <b>mérito administrativo</b> nem as provas do processo disciplinar.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Não cabe mandado de segurança se o interessado não esgotou a via administrativa</span><br>✅ <span class=\"certo\">A lei <b>não exige esgotamento</b>; só veda o MS enquanto pende recurso <b>com efeito suspensivo</b> independentemente de caução (art. 5º, I)</span></li><li>❌ <span class=\"banca\">Cabe MS contra lei em tese quando ela for inconstitucional</span><br>✅ <span class=\"certo\"><b>Não cabe</b> (Súmula 266 do STF), salvo lei de <b>efeitos concretos</b></span></li><li>❌ <span class=\"banca\">A concessão do MS garante ao servidor as diferenças desde o ato ilegal</span><br>✅ <span class=\"certo\">Só desde o <b>ajuizamento</b> da inicial (art. 14, § 4º; Súmula 271 do STF)</span></li><li>❌ <span class=\"banca\">O MS pode substituir a ação de cobrança</span><br>✅ <span class=\"certo\"><b>Não substitui</b> (Súmula 269 do STF)</span></li></ol></div>\n<h3>4. Prazo, petição inicial, informações e liminar</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 12.016/2009, art. 23</div><div class=\"art-lei\">O direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado.</div></div>\n<ul><li><b>Prazo de 120 dias</b>: é prazo <b>decadencial</b>, contado da <b>ciência</b> do ato pelo interessado. Não se suspende nem se interrompe. <b>Súmula 632 do STF</b>: \"É <b>constitucional</b> lei que fixa o prazo de decadência para a impetração de mandado de segurança.\" <b>Súmula 430 do STF</b>: \"<b>Pedido de reconsideração</b> na via administrativa <b>não interrompe</b> o prazo para o mandado de segurança.\" A perda do prazo não extingue o direito material: o interessado ainda pode usar a <b>ação de procedimento comum</b>.</li><li><b>MS preventivo</b> não se sujeita ao prazo de 120 dias, porque ainda não há ato a impugnar. Nas <b>omissões</b> da autoridade, quando a lei fixa prazo para agir, o STJ entende que o prazo decadencial começa a correr do fim do prazo legal; quando não há prazo legal, a omissão se renova continuamente.</li><li><b>Atos de efeitos permanentes e prestações de trato sucessivo</b>: o STJ distingue o ato que <b>suprime</b> uma vantagem (ato único de efeitos permanentes, em que o prazo conta da ciência da supressão) do ato que apenas <b>reduz</b> o valor pago mês a mês (prestações de trato sucessivo, em que o prazo se renova a cada pagamento). É uma distinção muito cobrada em provas de Procuradoria, porque a Fazenda alega decadência e o servidor alega renovação mensal.</li><li><b>Petição inicial</b> (art. 6º): deve preencher os requisitos da lei processual, ser apresentada com os documentos que instruem a primeira (em duas vias, quando física) e <b>indicar a autoridade coatora e a pessoa jurídica</b> que esta integra. A inicial será <b>indeferida desde logo</b> quando não for o caso de MS, quando lhe faltar algum dos requisitos legais ou quando decorrido o prazo legal (art. 10). Do indeferimento cabe <b>apelação</b>; nos casos de competência originária dos tribunais, cabe <b>agravo</b> para o órgão competente (art. 10, § 1º).</li><li><b>Despacho inicial</b> (art. 7º): ao despachar a inicial, o juiz ordena: I, que se <b>notifique a autoridade coatora</b> para que, no prazo de <b>10 dias</b>, preste as <b>informações</b>; II, que se dê <b>ciência ao órgão de representação judicial da pessoa jurídica</b> interessada (a Procuradoria do Município), enviando-lhe cópia da inicial sem documentos, para que, querendo, ingresse no feito; III, que se <b>suspenda o ato</b> que deu motivo ao pedido, quando houver <b>fundamento relevante</b> e do ato impugnado puder resultar a <b>ineficácia da medida</b>, caso seja finalmente deferida, sendo facultado exigir do impetrante <b>caução, fiança ou depósito</b>, com o objetivo de assegurar o ressarcimento à pessoa jurídica.</li><li><b>Requisitos da liminar</b>: <b>fundamento relevante</b> (fumus boni iuris) e <b>risco de ineficácia</b> da medida (periculum in mora). Da decisão do juiz de primeiro grau que <b>conceder ou denegar</b> a liminar cabe <b>agravo de instrumento</b> (art. 7º, § 1º). Os efeitos da liminar, salvo se revogada ou cassada, <b>persistem até a prolação da sentença</b> (art. 7º, § 3º). Deferida a liminar, o processo terá <b>prioridade</b> para julgamento (art. 7º, § 4º).</li><li><b>Vedações de liminar e a ADI 4.296</b>: o art. 7º, § 2º, da Lei 12.016 proibia liminar que tivesse por objeto a <b>compensação de créditos tributários</b>, a <b>entrega de mercadorias e bens provenientes do exterior</b>, a <b>reclassificação ou equiparação de servidores</b> públicos e a <b>concessão de aumento ou extensão de vantagens</b> ou pagamento de qualquer natureza. Em 2021, no julgamento da <b>ADI 4.296</b>, o STF declarou <b>inconstitucional</b> esse § 2º (e também o § 2º do art. 22, que exigia oitiva prévia do Poder Público em 72 horas antes de liminar em MS coletivo), por entender que a lei não pode impedir o juiz de conceder medida urgente necessária para proteger direito. Na mesma ação, o STF manteve válidos outros dispositivos, como o prazo de 120 dias.</li><li><b>Perempção ou caducidade da liminar</b> (art. 8º): será decretada, de ofício ou a requerimento do MP, quando, concedida a medida, o impetrante <b>criar obstáculo</b> ao normal andamento do processo ou <b>deixar de promover</b>, por mais de <b>3 dias úteis</b>, os atos e as diligências que lhe cumprirem.</li><li><b>Ministério Público</b> (art. 12): findo o prazo das informações, o juiz ouve o MP, que opina em <b>10 dias</b>. Com ou sem o parecer, os autos vão conclusos para decisão, que deve ser proferida em <b>30 dias</b>.</li><li><b>Litisconsórcio passivo necessário</b>: se a concessão da segurança atingir direito de terceiro (por exemplo, o candidato que seria desclassificado se o impetrante fosse reclassificado no concurso), esse terceiro deve ser citado. <b>Súmula 631 do STF</b>: \"Extingue-se o processo de mandado de segurança se o impetrante não promove, no prazo assinado, a <b>citação do litisconsorte passivo necessário</b>.\"</li><li><b>Desistência</b>: o STF fixou (<b>Tema 530</b>, RE 669.367) que o impetrante pode <b>desistir</b> do mandado de segurança <b>a qualquer tempo</b>, ainda que proferida decisão de mérito a ele favorável, e <b>sem anuência</b> da parte contrária. É uma diferença importante em relação às ações comuns, em que, depois da contestação, a desistência depende do consentimento do réu (CPC, art. 485, § 4º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O pedido de reconsideração administrativo interrompe o prazo de 120 dias</span><br>✅ <span class=\"certo\"><b>Não interrompe</b> (Súmula 430 do STF)</span></li><li>❌ <span class=\"banca\">Ainda vale a vedação de liminar em MS para reclassificação de servidores</span><br>✅ <span class=\"certo\">O STF declarou <b>inconstitucional</b> o art. 7º, § 2º (<b>ADI 4.296</b>)</span></li><li>❌ <span class=\"banca\">A desistência do MS após a sentença depende da concordância da autoridade</span><br>✅ <span class=\"certo\">Pode desistir <b>a qualquer tempo</b> e <b>sem anuência</b> (Tema 530 do STF)</span></li><li>❌ <span class=\"banca\">Decorridos 120 dias, o interessado perde o direito material</span><br>✅ <span class=\"certo\">Perde apenas a via do MS; pode usar a <b>ação comum</b></span></li></ol></div>\n<h3>5. Sentença, recursos, reexame, execução e honorários</h3>\n<ul><li><b>Comunicação da sentença</b> (art. 13): concedido o mandado, o juiz transmite em ofício, por oficial do juízo, pelo correio ou por meio eletrônico, o inteiro teor da sentença à <b>autoridade coatora</b> e à <b>pessoa jurídica</b> interessada.</li><li><b>Apelação</b> (art. 14): da sentença, denegando ou concedendo o mandado, cabe <b>apelação</b>. Têm legitimidade para recorrer a pessoa jurídica e também a <b>autoridade coatora</b> (art. 14, § 2º).</li><li><b>Reexame necessário</b> (art. 14, § 1º): <b>concedida</b> a segurança, a sentença estará sujeita <b>obrigatoriamente</b> ao duplo grau de jurisdição. Atenção: no MS, a lei <b>não traz</b> os limites de valor do art. 496 do CPC. Prevalece no STJ o entendimento de que a regra especial da Lei 12.016 se aplica, de modo que a sentença concessiva se sujeita à remessa mesmo quando o valor envolvido é pequeno.</li><li><b>Execução provisória</b> (art. 14, § 3º): a sentença que conceder o mandado pode ser <b>executada provisoriamente</b>, salvo nos casos em que for vedada a concessão da liminar. Como o STF derrubou as vedações do art. 7º, § 2º, o alcance dessa ressalva ficou reduzido, e o tema é tratado hoje também pelas regras gerais de tutela contra a Fazenda (Lei 8.437/1992 e Lei 9.494/1997).</li><li><b>Pagamento ao servidor</b> (art. 14, § 4º): o pagamento de vencimentos e vantagens pecuniárias assegurados em sentença concessiva a servidor público da administração direta ou autárquica federal, estadual e municipal somente será efetuado relativamente às prestações que se vencerem <b>a contar da data do ajuizamento da inicial</b>. As parcelas anteriores devem ser cobradas em ação própria (Súmulas 269 e 271 do STF).</li><li><b>Liminar e sentença denegatória</b>: <b>Súmula 405 do STF</b>: \"Denegado o mandado de segurança pela sentença, ou no julgamento do agravo, dela interposto, <b>fica sem efeito a liminar</b> concedida, retroagindo os efeitos da decisão contrária.\"</li><li><b>Competência originária</b> (art. 16): nos MS de competência originária dos tribunais, cabe ao <b>relator</b> a instrução do processo, sendo assegurada a <b>sustentação oral</b> na sessão do julgamento do mérito ou do pedido liminar. Da decisão do relator que conceder ou denegar a medida liminar cabe <b>agravo</b> ao órgão competente do tribunal que integre.</li><li><b>Recursos contra acórdãos em MS originário</b> (art. 18 e CF): das decisões em MS proferidas em <b>única instância</b> pelos tribunais cabe <b>recurso especial</b> e <b>extraordinário</b>, nos casos legalmente previstos, e <b>recurso ordinário</b>, quando a ordem for <b>denegada</b>. O <b>recurso ordinário constitucional</b> vai ao <b>STJ</b> quando o MS for decidido em única instância pelos <b>TRFs ou Tribunais de Justiça</b> e a decisão for <b>denegatória</b> (CF, art. 105, II, \"b\"); vai ao <b>STF</b> quando decidido em única instância pelos <b>Tribunais Superiores</b> e for denegatória (CF, art. 102, II, \"a\"). Se a decisão for <b>concessiva</b>, não cabe recurso ordinário; a Fazenda deve usar o REsp ou o RE.</li><li><b>Denegação sem mérito</b>: a sentença ou o acórdão que denegar o MS <b>sem decidir o mérito</b> não impede que o requerente, por ação própria, pleiteie os seus direitos e os respectivos efeitos patrimoniais (art. 19). O pedido também pode ser <b>renovado</b> dentro do prazo decadencial, se a decisão denegatória não apreciou o mérito (art. 6º, § 6º). <b>Súmula 304 do STF</b>: \"Decisão denegatória de mandado de segurança, não fazendo coisa julgada contra o impetrante, <b>não impede o uso da ação própria</b>.\"</li><li><b>Honorários</b>: <b>não cabe</b> condenação ao pagamento de <b>honorários advocatícios</b> no MS, nem embargos infringentes, sem prejuízo das sanções por litigância de má-fé (art. 25). É a positivação da <b>Súmula 512 do STF</b> (\"Não cabe condenação em honorários de advogado na ação de mandado de segurança\") e da <b>Súmula 105 do STJ</b>. As <b>custas</b>, porém, são devidas normalmente.</li><li><b>Descumprimento</b>: constitui <b>crime de desobediência</b> (CP, art. 330) o não cumprimento das decisões proferidas em MS, sem prejuízo das sanções administrativas e da aplicação da Lei 1.079/1950 (crimes de responsabilidade), quando cabíveis (art. 26).</li><li><b>Prioridade</b>: os processos de MS e os respectivos recursos têm <b>prioridade sobre todos os atos judiciais</b>, salvo <b>habeas corpus</b> (art. 20).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A sentença que denega a segurança está sujeita ao reexame necessário</span><br>✅ <span class=\"certo\">É a sentença que <b>concede</b> a segurança (art. 14, § 1º)</span></li><li>❌ <span class=\"banca\">Cabe recurso ordinário ao STJ contra acórdão de TJ que concede a segurança em MS originário</span><br>✅ <span class=\"certo\">Só quando <b>denegatória</b> (CF, art. 105, II, \"b\")</span></li><li>❌ <span class=\"banca\">No MS, o vencido paga honorários de sucumbência</span><br>✅ <span class=\"certo\"><b>Não cabem honorários</b> (art. 25; Súmula 512 do STF)</span></li><li>❌ <span class=\"banca\">A autoridade coatora não tem legitimidade para recorrer</span><br>✅ <span class=\"certo\"><b>Tem</b> (art. 14, § 2º)</span></li></ol></div>\n<h3>6. Mandado de segurança coletivo</h3>\n<ul><li><b>Legitimados</b> (CF, art. 5º, LXX; Lei 12.016, art. 21): a) <b>partido político com representação no Congresso Nacional</b>, na defesa de seus interesses legítimos relativos a seus integrantes ou à finalidade partidária; b) <b>organização sindical</b>, <b>entidade de classe</b> ou <b>associação</b> legalmente constituída e em funcionamento há, pelo menos, <b>1 ano</b>, em defesa de direitos líquidos e certos da totalidade, ou de parte, dos seus membros ou associados, na forma dos seus estatutos e desde que pertinentes às suas finalidades, <b>dispensada autorização especial</b>.</li><li><b>Requisito de 1 ano</b>: o STF entende que a exigência de constituição e funcionamento há pelo menos um ano se aplica às <b>associações</b>, e não aos sindicatos e entidades de classe.</li><li><b>Substituição processual</b>: no MS coletivo, a entidade atua como <b>substituta processual</b> (legitimação extraordinária). Por isso, não precisa de autorização dos associados. <b>Súmula 629 do STF</b>: \"A impetração de mandado de segurança coletivo por entidade de classe em favor dos associados <b>independe da autorização destes</b>.\" <b>Súmula 630 do STF</b>: \"A entidade de classe tem legitimação para o mandado de segurança ainda quando a pretensão veiculada interesse <b>apenas a uma parte</b> da respectiva categoria.\"</li><li><b>Direitos protegidos</b> (art. 21, parágrafo único): I, <b>coletivos</b>, assim entendidos os transindividuais, de natureza indivisível, de que seja titular grupo ou categoria de pessoas ligadas entre si ou com a parte contrária por uma relação jurídica básica; II, <b>individuais homogêneos</b>, assim entendidos os decorrentes de origem comum e da atividade ou situação específica da totalidade ou de parte dos associados ou membros do impetrante. A lei <b>não menciona</b> os direitos <b>difusos</b>, o que gera debate doutrinário; para eles, o instrumento típico é a ação civil pública.</li><li><b>Coisa julgada</b> (art. 22): no MS coletivo, a sentença fará coisa julgada <b>limitadamente aos membros do grupo ou categoria</b> substituídos pelo impetrante. O MS coletivo <b>não induz litispendência</b> para as ações individuais, mas os efeitos da coisa julgada <b>não beneficiarão</b> o impetrante individual se não requerer a <b>desistência</b> de seu MS no prazo de <b>30 dias</b> a contar da ciência comprovada da impetração da segurança coletiva (art. 22, § 1º).</li><li><b>Execução</b>: o STF fixou (<b>Tema 1.119</b>) que é <b>desnecessária</b> a autorização expressa dos associados, a relação nominal deles e a comprovação de filiação prévia para a execução de título judicial decorrente de <b>mandado de segurança coletivo</b> impetrado por entidade associativa. Compare com a <b>ação coletiva ordinária</b> proposta por associação, em que o STF exige <b>autorização expressa</b> (Tema 82) e limita a execução aos filiados até a propositura (Tema 499). Essa diferença é cobrada com frequência.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A associação precisa de autorização expressa dos associados para impetrar MS coletivo</span><br>✅ <span class=\"certo\"><b>Dispensa</b> autorização (Súmula 629 do STF; art. 21)</span></li><li>❌ <span class=\"banca\">O sindicato precisa estar constituído há mais de 1 ano para impetrar MS coletivo</span><br>✅ <span class=\"certo\">O requisito de 1 ano se aplica às <b>associações</b></span></li><li>❌ <span class=\"banca\">O MS coletivo induz litispendência em relação aos MS individuais</span><br>✅ <span class=\"certo\"><b>Não induz</b>; o impetrante individual deve desistir em <b>30 dias</b> para se beneficiar (art. 22, § 1º)</span></li><li>❌ <span class=\"banca\">Na execução de MS coletivo, só se beneficiam os associados listados na inicial</span><br>✅ <span class=\"certo\">É <b>desnecessária</b> a relação nominal e a filiação prévia (Tema 1.119 do STF)</span></li></ol></div>\n<h3>7. Liminares contra o Poder Público e suspensão de segurança</h3>\n<ul><li>O ordenamento traz um conjunto de regras especiais sobre <b>tutelas de urgência contra a Fazenda Pública</b>. O <b>CPC, art. 1.059</b>, manda aplicar à tutela provisória requerida contra a Fazenda Pública o disposto nos <b>arts. 1º a 4º da Lei 8.437/1992</b> e no <b>art. 7º, § 2º, da Lei 12.016/2009</b> (este último, porém, foi declarado inconstitucional na ADI 4.296).</li><li><b>Lei 8.437/1992, art. 1º</b>: não será cabível medida liminar contra atos do Poder Público, no procedimento cautelar ou em quaisquer outras ações de natureza cautelar ou preventiva, <b>toda vez que providência semelhante não puder ser concedida em mandado de segurança</b>, em virtude de vedação legal. Também <b>não será cabível</b>, no juízo de primeiro grau, medida cautelar inominada ou a sua liminar quando impugnado ato de autoridade sujeita, na via do MS, à <b>competência originária de tribunal</b> (§ 1º). E <b>não será cabível</b> medida liminar que <b>esgote, no todo ou em parte, o objeto da ação</b> (§ 3º).</li><li><b>Oitiva prévia em 72 horas</b> (Lei 8.437, art. 2º): no MS coletivo e na <b>ação civil pública</b>, a liminar será concedida, quando cabível, após a audiência do representante judicial da pessoa jurídica de direito público, que deverá se pronunciar no prazo de <b>72 horas</b>. Para o MS coletivo, a regra equivalente da Lei 12.016 (art. 22, § 2º) foi declarada inconstitucional na ADI 4.296. Na prática, a jurisprudência admite afastar a oitiva prévia quando a demora puder causar perecimento do direito.</li><li><b>Lei 9.494/1997</b>: estende à <b>tutela antecipada</b> as restrições das Leis 8.437 e 12.016 (art. 1º), o que o STF considerou constitucional na <b>ADC 4</b>. <b>Súmula 729 do STF</b>: \"A decisão na ADC 4 <b>não se aplica</b> à antecipação de tutela em causa de natureza <b>previdenciária</b>.\" O STF e o STJ também admitem tutela contra a Fazenda para proteger o <b>direito à saúde</b> (fornecimento de medicamentos e tratamentos), apesar das restrições legais.</li><li><b>Suspensão de segurança</b> (Lei 12.016, art. 15) e <b>suspensão de liminar e de sentença</b> (Lei 8.437, art. 4º): é o instrumento pelo qual a <b>pessoa jurídica de direito público interessada</b> ou o <b>Ministério Público</b> pede ao <b>presidente do tribunal</b> competente para julgar o recurso que <b>suspenda a execução</b> da liminar ou da sentença, para evitar <b>grave lesão à ordem, à saúde, à segurança e à economia públicas</b>. O STJ também admite o pedido por pessoas jurídicas de direito privado quando estiverem na defesa do interesse público (por exemplo, concessionárias de serviço público).</li><li><b>Natureza</b>: a suspensão <b>não é recurso</b>. O presidente do tribunal <b>não examina se a decisão está certa ou errada</b> (isso é papel do recurso), mas apenas se a sua execução imediata causa <b>grave lesão</b> a um dos quatro bens públicos protegidos. Por isso se diz que o juízo é <b>político</b> ou de <b>contracautela</b>, embora se exija a plausibilidade mínima da tese do Poder Público. O pedido <b>não depende</b> da interposição de recurso: o agravo de instrumento contra a liminar <b>não prejudica nem condiciona</b> o julgamento do pedido de suspensão (Lei 12.016, art. 15, § 3º).</li><li><b>Recurso contra a decisão</b>: da decisão do presidente que suspende (ou nega a suspensão) cabe <b>agravo interno</b>, no prazo de <b>5 dias</b> pela letra das leis especiais (Lei 12.016, art. 15; Lei 8.437, art. 4º, § 3º); há precedentes aplicando o prazo do agravo interno do CPC (<b>15 dias</b>), mas, em prova objetiva que cobre a letra da lei, a resposta é <b>5 dias</b>. Indeferido o pedido ou provido o agravo, cabe <b>novo pedido de suspensão</b> ao presidente do tribunal competente para conhecer de eventual recurso especial (STJ) ou extraordinário (STF) (art. 15, § 1º). É a chamada <b>suspensão da suspensão</b> ou renovação do pedido.</li><li><b>Duração</b>: a suspensão deferida pelo presidente do tribunal <b>vigora até o trânsito em julgado</b> da decisão de mérito na ação principal (Lei 8.437, art. 4º, § 9º). <b>Súmula 626 do STF</b>: \"A suspensão da liminar em mandado de segurança, salvo determinação em contrário da decisão que a deferir, vigorará até o trânsito em julgado da decisão definitiva de concessão da segurança ou, havendo recurso, até a sua manutenção pelo Supremo Tribunal Federal, desde que o objeto da liminar deferida coincida, total ou parcialmente, com o da impetração.\"</li><li><b>Suspensão de liminares em massa</b> (art. 15, § 5º): as liminares cujo objeto seja idêntico poderão ser suspensas em <b>uma única decisão</b>, podendo o presidente do tribunal estender os efeitos da suspensão a liminares supervenientes, mediante simples aditamento do pedido original.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A liminar que manda reintegrar 300 servidores</b><p>Um juiz concede liminar em ação civil pública determinando que o Município reintegre, em 48 horas, 300 servidores contratados temporariamente cujos contratos venceram, com pagamento imediato dos salários. A folha do Município está no limite da Lei de Responsabilidade Fiscal.</p><details><summary>Ver a solução comentada</summary><p>O Procurador Municipal tem dois caminhos, que podem ser usados <b>ao mesmo tempo</b>: (1) <b>agravo de instrumento</b> contra a liminar, discutindo o mérito (contratação temporária vencida não gera direito à recondução; a liminar esgota o objeto da ação, o que é vedado pela Lei 8.437, art. 1º, § 3º; não houve oitiva prévia em 72 horas, art. 2º); e (2) <b>pedido de suspensão de liminar</b> ao <b>presidente do Tribunal de Justiça</b>, demonstrando <b>grave lesão à ordem e à economia públicas</b> (impacto na folha, risco de descumprir limites da LRF, efeito multiplicador). O pedido de suspensão não depende do agravo e não discute se a decisão está correta, mas o seu <b>efeito concreto</b> sobre o interesse público.</p></details></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O pedido de suspensão de segurança é um recurso</span><br>✅ <span class=\"certo\"><b>Não é recurso</b>; é medida de contracautela, sem exame do acerto da decisão</span></li><li>❌ <span class=\"banca\">O pedido de suspensão depende da interposição prévia de agravo de instrumento</span><br>✅ <span class=\"certo\">O agravo <b>não prejudica nem condiciona</b> o pedido (art. 15, § 3º)</span></li><li>❌ <span class=\"banca\">O particular lesado pode pedir suspensão de liminar contra o Poder Público</span><br>✅ <span class=\"certo\">Legitimados: <b>pessoa jurídica de direito público</b> interessada e <b>MP</b> (e, segundo o STJ, entes privados na defesa do interesse público)</span></li><li>❌ <span class=\"banca\">A suspensão vale só até a sentença</span><br>✅ <span class=\"certo\">Vigora até o <b>trânsito em julgado</b> da decisão de mérito (Lei 8.437, art. 4º, § 9º)</span></li></ol></div>\n<h3>8. Ação popular</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CF, art. 5º, LXXIII</div><div class=\"art-lei\">qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência;</div></div>\n<ul><li><b>Legitimidade ativa</b>: somente o <b>cidadão</b>, isto é, o brasileiro no gozo dos direitos políticos, que prova a cidadania com o <b>título eleitoral</b> ou documento que a ele corresponda (Lei 4.717, art. 1º, § 3º). <b>Súmula 365 do STF</b>: \"<b>Pessoa jurídica não tem legitimidade</b> para propor ação popular.\" O MP também <b>não</b> propõe ação popular, embora possa <b>prosseguir</b> nela.</li><li><b>Objeto</b>: anular ato <b>lesivo</b> ao <b>patrimônio público</b> (bens e direitos de valor econômico, artístico, estético, histórico ou turístico, art. 1º, § 1º), à <b>moralidade administrativa</b>, ao <b>meio ambiente</b> e ao <b>patrimônio histórico e cultural</b>. O STF fixou (<b>Tema 836</b>) que <b>não é condição</b> para o cabimento da ação popular a demonstração de <b>prejuízo material</b> aos cofres públicos: basta a lesão à moralidade ou a outro bem protegido.</li><li><b>Vícios do ato</b> (art. 2º): são nulos os atos lesivos nos casos de <b>incompetência</b>, <b>vício de forma</b>, <b>ilegalidade do objeto</b>, <b>inexistência dos motivos</b> e <b>desvio de finalidade</b>. O art. 4º traz hipóteses de <b>nulidade presumida</b>, como a admissão de pessoal com desobediência às normas legais e a contratação sem a concorrência exigida em lei.</li><li><b>Polo passivo</b> (art. 6º): a ação é proposta contra as <b>pessoas públicas ou privadas</b> e as entidades cujo patrimônio foi lesado, contra as <b>autoridades, funcionários ou administradores</b> que houverem autorizado, aprovado, ratificado ou praticado o ato (ou que, por omissão, tiverem dado oportunidade à lesão) e contra os <b>beneficiários diretos</b> do ato. É um <b>litisconsórcio passivo necessário</b>.</li><li><b>Intervenção móvel do ente público</b> (art. 6º, § 3º): a pessoa jurídica de direito público ou de direito privado cujo ato seja objeto de impugnação poderá <b>abster-se de contestar</b> o pedido, ou poderá <b>atuar ao lado do autor</b>, desde que isso se afigure útil ao interesse público, a juízo do respectivo representante legal ou dirigente. Para o Procurador Municipal, isso é decisivo: se o ato impugnado foi praticado pela gestão anterior e é de fato lesivo, o Município pode <b>migrar para o polo ativo</b> e ajudar a anular o ato.</li><li><b>Ministério Público</b> (art. 6º, § 4º): acompanha a ação, cabendo-lhe apressar a produção da prova e promover a responsabilidade civil ou criminal dos culpados, sendo-lhe <b>vedado, em qualquer hipótese, assumir a defesa do ato impugnado</b> ou dos seus autores. Se o autor <b>desistir</b> da ação ou der motivo à extinção, serão publicados editais, e qualquer cidadão ou o MP poderá <b>promover o prosseguimento</b> no prazo de <b>90 dias</b> (art. 9º).</li><li><b>Competência</b> (art. 5º): é determinada pela <b>origem do ato</b>: se o ato é municipal, a ação corre perante o juiz competente para as causas que interessem ao Município. A ação popular é sempre proposta no <b>primeiro grau</b>, ainda que o ato seja do Presidente da República ou de outra autoridade com foro especial em outras ações. A propositura da ação <b>previne a jurisdição</b> do juízo para todas as ações posteriormente intentadas contra as mesmas partes e sob os mesmos fundamentos (art. 5º, § 3º). Cabe <b>suspensão liminar</b> do ato lesivo (art. 5º, § 4º).</li><li><b>Procedimento</b> (art. 7º): segue o procedimento comum com modificações. O prazo de <b>contestação</b> é de <b>20 dias</b>, prorrogável por mais 20, a requerimento do interessado, se particularmente difícil a produção de prova documental.</li><li><b>Sentença de procedência</b> (arts. 11 e 12): decreta a <b>invalidade</b> do ato e condena ao pagamento de <b>perdas e danos</b> os responsáveis e os beneficiários, além das custas e dos <b>honorários</b> do advogado do autor. Se a lide for <b>manifestamente temerária</b>, o autor será condenado ao pagamento do <b>décuplo das custas</b> (art. 13).</li><li><b>Reexame necessário invertido</b> (art. 19): a sentença que concluir pela <b>carência</b> ou pela <b>improcedência</b> da ação está sujeita ao <b>duplo grau de jurisdição</b>, não produzindo efeito senão depois de confirmada pelo tribunal. Da sentença de <b>procedência</b> cabe <b>apelação com efeito suspensivo</b>. É o contrário da lógica do CPC: aqui se protege o <b>interesse da coletividade</b> (o autor popular), e não o da Fazenda. O STJ aplica esse reexame invertido, por analogia, à <b>ação civil pública</b> (microssistema de tutela coletiva).</li><li><b>Coisa julgada</b> (art. 18): a sentença terá eficácia de coisa julgada <b>erga omnes</b>, <b>exceto</b> no caso de ter sido a ação julgada <b>improcedente por deficiência de prova</b>; neste caso, qualquer cidadão poderá intentar outra ação com idêntico fundamento, valendo-se de <b>nova prova</b> (coisa julgada <b>secundum eventum probationis</b>).</li><li><b>Execução</b> (arts. 16 e 17): decorridos <b>60 dias</b> da publicação da sentença condenatória de segunda instância sem que o autor ou terceiro promova a execução, o <b>MP</b> deverá promovê-la nos 30 dias seguintes, sob pena de falta grave. As entidades rés podem, ainda que tenham contestado, promover a execução contra os demais réus (art. 17).</li><li><b>Prescrição</b>: a ação popular prescreve em <b>5 anos</b> (art. 21).</li><li><b>Custas</b>: o autor é <b>isento de custas e do ônus da sucumbência</b>, salvo comprovada <b>má-fé</b> (CF, art. 5º, LXXIII).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Associação de moradores pode propor ação popular</span><br>✅ <span class=\"certo\">Só o <b>cidadão</b>; pessoa jurídica não tem legitimidade (Súmula 365 do STF)</span></li><li>❌ <span class=\"banca\">A ação popular exige prova de prejuízo material ao erário</span><br>✅ <span class=\"certo\"><b>Não exige</b>; basta a lesão à moralidade ou a outro bem (Tema 836 do STF)</span></li><li>❌ <span class=\"banca\">A sentença de procedência da ação popular está sujeita a reexame necessário</span><br>✅ <span class=\"certo\">É a de <b>improcedência ou carência</b> (art. 19)</span></li><li>❌ <span class=\"banca\">O MP pode assumir a defesa do ato impugnado na ação popular</span><br>✅ <span class=\"certo\">É <b>vedado</b> em qualquer hipótese (art. 6º, § 4º)</span></li><li>❌ <span class=\"banca\">A improcedência da ação popular sempre faz coisa julgada erga omnes</span><br>✅ <span class=\"certo\">Exceto quando por <b>deficiência de prova</b> (art. 18)</span></li></ol></div>\n<h3>9. Ação civil pública: objeto, legitimidade e competência</h3>\n<ul><li><b>Objeto</b> (Lei 7.347, art. 1º): a ação civil pública (ACP) rege as ações de responsabilidade por danos morais e patrimoniais causados ao <b>meio ambiente</b>, ao <b>consumidor</b>, a bens e direitos de valor <b>artístico, estético, histórico, turístico e paisagístico</b>, a <b>qualquer outro interesse difuso ou coletivo</b>, por <b>infração da ordem econômica</b>, à <b>ordem urbanística</b>, à <b>honra e à dignidade de grupos raciais, étnicos ou religiosos</b> e ao <b>patrimônio público e social</b>. Pode ter por objeto a condenação em <b>dinheiro</b> ou o cumprimento de <b>obrigação de fazer ou não fazer</b> (art. 3º), e as obrigações podem ser <b>cumuladas</b>. <b>Súmula 629 do STJ</b>: \"Quanto ao dano ambiental, é admitida a condenação do réu à obrigação de fazer ou à de não fazer <b>cumulada</b> com a de indenizar.\"</li><li><b>Vedação</b> (art. 1º, parágrafo único): <b>não será cabível</b> ação civil pública para veicular pretensões que envolvam <b>tributos</b>, <b>contribuições previdenciárias</b>, o <b>FGTS</b> ou outros fundos de natureza institucional cujos beneficiários podem ser individualmente determinados. Por isso, o MP não pode usar ACP para discutir, em favor dos contribuintes, a validade de um tributo municipal. Mas o STF admitiu (<b>Tema 56</b>) que o MP proponha ACP para <b>anular acordo tributário</b> (Termo de Acordo de Regime Especial) lesivo ao erário, porque aí ele defende o <b>patrimônio público</b>, e não os contribuintes.</li><li><b>Legitimados</b> (art. 5º): I, o <b>Ministério Público</b>; II, a <b>Defensoria Pública</b> (legitimidade confirmada pelo STF na ADI 3.943); III, a <b>União, os Estados, o DF e os Municípios</b>; IV, a <b>autarquia, empresa pública, fundação ou sociedade de economia mista</b>; V, a <b>associação</b> que, concomitantemente, esteja constituída há pelo menos <b>1 ano</b> nos termos da lei civil e inclua, entre suas finalidades institucionais, a proteção ao bem jurídico tutelado (<b>pertinência temática</b>). O requisito de pré-constituição pode ser <b>dispensado pelo juiz</b> quando haja manifesto interesse social evidenciado pela dimensão ou característica do dano, ou pela relevância do bem jurídico a ser protegido (art. 5º, § 4º).</li><li>A legitimidade é <b>concorrente e disjuntiva</b>: cada legitimado pode propor a ação sozinho, sem depender dos demais, e todos podem atuar em litisconsórcio. É facultado ao Poder Público e a outras associações <b>habilitar-se como litisconsortes</b> de qualquer das partes (art. 5º, § 2º). Em caso de <b>desistência infundada ou abandono</b> da ação por associação legitimada, o <b>MP ou outro legitimado</b> assumirá a titularidade ativa (art. 5º, § 3º). O MP, se não intervier como parte, atuará obrigatoriamente como <b>fiscal da ordem jurídica</b> (art. 5º, § 1º).</li><li><b>Súmulas sobre a legitimidade do MP</b>: <b>Súmula 643 do STF</b>: \"O Ministério Público tem legitimidade para promover ação civil pública cujo fundamento seja a ilegalidade de reajuste de <b>mensalidades escolares</b>.\" <b>Súmula 329 do STJ</b>: \"O Ministério Público tem legitimidade para propor ação civil pública em defesa do <b>patrimônio público</b>.\" <b>Súmula 601 do STJ</b>: \"O Ministério Público tem legitimidade ativa para atuar na defesa de direitos difusos, coletivos e individuais homogêneos dos <b>consumidores</b>, ainda que decorrentes da prestação de <b>serviço público</b>.\"</li><li><b>Competência</b> (art. 2º): a ação deve ser proposta no <b>foro do local onde ocorrer o dano</b>, cujo juízo terá <b>competência funcional</b> (absoluta) para processar e julgar a causa. A propositura da ação <b>previne</b> a jurisdição do juízo para todas as ações posteriormente intentadas que possuam a mesma causa de pedir ou o mesmo objeto (art. 2º, parágrafo único). <b>Súmula 489 do STJ</b>: \"Reconhecida a continência, devem ser reunidas na <b>Justiça Federal</b> as ações civis públicas propostas nesta e na Justiça estadual.\"</li><li><b>Tema 1.075 do STF</b> (2021): o STF declarou <b>inconstitucional</b> a redação do art. 16 da Lei 7.347 dada pela Lei 9.494/1997, que limitava a coisa julgada da ACP aos <b>limites da competência territorial</b> do órgão prolator. Fixou que, nas ações de efeitos <b>nacionais ou regionais</b>, a competência segue o <b>art. 93, II, do CDC</b> (capital do Estado ou DF), e que, ajuizadas múltiplas ações, firma-se a <b>prevenção</b> do juízo que primeiro conheceu de uma delas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A associação precisa sempre estar constituída há 1 ano para propor ACP</span><br>✅ <span class=\"certo\">O juiz pode <b>dispensar</b> o requisito diante de manifesto interesse social (art. 5º, § 4º)</span></li><li>❌ <span class=\"banca\">O MP pode propor ACP para discutir a cobrança de tributo em favor dos contribuintes</span><br>✅ <span class=\"certo\"><b>Não cabe</b> ACP sobre tributos (art. 1º, parágrafo único)</span></li><li>❌ <span class=\"banca\">A coisa julgada na ACP fica limitada ao território do juiz que a proferiu</span><br>✅ <span class=\"certo\">O STF declarou <b>inconstitucional</b> essa limitação (<b>Tema 1.075</b>)</span></li><li>❌ <span class=\"banca\">O Município não tem legitimidade para propor ACP</span><br>✅ <span class=\"certo\"><b>Tem</b> (art. 5º, III)</span></li></ol></div>\n<h3>10. Inquérito civil, TAC, liminar, custas e coisa julgada</h3>\n<ul><li><b>Inquérito civil</b> (arts. 8º e 9º): é procedimento investigatório <b>exclusivo do Ministério Público</b>, de natureza administrativa e <b>inquisitiva</b> (não há contraditório obrigatório), destinado a colher elementos para a eventual propositura da ACP. <b>Não é obrigatório</b>: se o MP já tiver elementos, pode propor a ação diretamente. O MP pode <b>requisitar</b>, de qualquer organismo público ou particular, certidões, informações, exames ou perícias, no prazo que assinalar, o qual não poderá ser inferior a <b>10 dias úteis</b> (art. 8º, § 1º). Se o MP se convencer da inexistência de fundamento para a ação, promoverá o <b>arquivamento</b> fundamentadamente, e os autos serão remetidos, sob pena de falta grave, no prazo de <b>3 dias</b>, ao <b>Conselho Superior do Ministério Público</b>, que homologará ou rejeitará o arquivamento (art. 9º).</li><li><b>Crime</b> (art. 10): constitui crime, punido com pena de <b>reclusão de 1 a 3 anos</b>, mais multa, a <b>recusa, o retardamento ou a omissão</b> de dados técnicos indispensáveis à propositura da ação civil, quando <b>requisitados pelo Ministério Público</b>. Para o Procurador Municipal, isso significa: as requisições do MP ao Município devem ser respondidas <b>no prazo</b>, ou com pedido fundamentado de prorrogação.</li><li><b>Termo de ajustamento de conduta</b> (TAC, art. 5º, § 6º): os <b>órgãos públicos legitimados</b> podem tomar dos interessados <b>compromisso de ajustamento de sua conduta</b> às exigências legais, mediante cominações, que terá eficácia de <b>título executivo extrajudicial</b>. Só os <b>órgãos públicos</b> (MP, Defensoria, entes federados, autarquias) podem tomar o TAC; as associações <b>não</b> podem. O TAC não pode <b>renunciar</b> ao direito material (que é indisponível); ele ajusta <b>o modo, o tempo e o lugar</b> do cumprimento da obrigação. O próprio Município pode <b>firmar</b> TAC com o MP (como compromissário) e também <b>tomar</b> TAC de particulares (por exemplo, de uma empresa que causou dano urbanístico).</li><li><b>Liminar</b> (art. 12): o juiz pode conceder mandado liminar, com ou sem justificação prévia. A requerimento de pessoa jurídica de direito público interessada, e para evitar grave lesão à ordem, à saúde, à segurança e à economia pública, o <b>presidente do tribunal</b> pode <b>suspender</b> a execução da liminar (art. 12, § 1º). A <b>multa</b> cominada liminarmente só será <b>exigível</b> do réu após o <b>trânsito em julgado</b> da decisão favorável ao autor, mas será devida desde o dia em que se houver configurado o descumprimento (art. 12, § 2º).</li><li><b>Efeito dos recursos</b> (art. 14): o juiz <b>poderá conferir efeito suspensivo</b> aos recursos, para evitar dano irreparável à parte. A doutrina majoritária lê a regra como efeito suspensivo <b>ope judicis</b> (concedido pelo juiz), e não automático.</li><li><b>Custas e honorários</b> (art. 18): nas ações civis públicas <b>não haverá adiantamento</b> de custas, emolumentos, honorários periciais e quaisquer outras despesas, nem condenação da <b>associação autora</b>, salvo comprovada <b>má-fé</b>, em honorários de advogado, custas e despesas processuais. Em caso de <b>litigância de má-fé</b>, a associação autora e os diretores responsáveis pela propositura serão solidariamente condenados em honorários e ao <b>décuplo das custas</b> (art. 17).</li><li><b>Honorários periciais quando o autor é o MP</b>: o STJ fixou (<b>Tema 510</b>) que não se pode exigir do MP o adiantamento dos honorários periciais, e que, por aplicação analógica da <b>Súmula 232 do STJ</b> (\"A Fazenda Pública, quando parte no processo, fica sujeita à exigência do depósito prévio dos honorários do perito\"), cabe à <b>Fazenda Pública à qual se acha vinculado o Parquet</b> arcar com o adiantamento.</li><li><b>Simetria nos honorários</b>: o STJ entende que, assim como o MP <b>não paga</b> honorários quando vencido (salvo má-fé), também <b>não recebe</b> honorários quando vencedor na ACP (<b>princípio da simetria</b>). A mesma lógica tem sido aplicada às ações em que o autor vencido é ente que goza da isenção do art. 18.</li><li><b>Fundo</b> (art. 13): havendo condenação em dinheiro, a indenização reverterá a um <b>fundo</b> gerido por um Conselho Federal ou por Conselhos Estaduais de que participarão necessariamente o MP e representantes da comunidade, sendo seus recursos destinados à reconstituição dos bens lesados.</li><li><b>Execução</b> (art. 15): decorridos <b>60 dias</b> do trânsito em julgado da sentença condenatória sem que a <b>associação autora</b> lhe promova a execução, deverá fazê-lo o <b>MP</b>, facultada igual iniciativa aos demais legitimados.</li><li><b>Coisa julgada coletiva</b> (CDC, art. 103, aplicável à ACP pelo art. 21 da Lei 7.347): a) nos <b>difusos</b>, a sentença faz coisa julgada <b>erga omnes</b>, exceto se o pedido for julgado improcedente por <b>insuficiência de provas</b>; b) nos <b>coletivos</b>, faz coisa julgada <b>ultra partes</b>, mas limitadamente ao grupo, categoria ou classe, com a mesma exceção; c) nos <b>individuais homogêneos</b>, faz coisa julgada <b>erga omnes apenas no caso de procedência</b>, para beneficiar todas as vítimas e seus sucessores (coisa julgada <b>secundum eventum litis</b>). As ações coletivas <b>não induzem litispendência</b> para as ações individuais, mas os efeitos da coisa julgada não beneficiarão os autores das ações individuais se não for requerida a sua <b>suspensão</b> no prazo de <b>30 dias</b>, a contar da ciência nos autos do ajuizamento da ação coletiva (CDC, art. 104).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O TAC da coleta de lixo</b><p>O MP instaurou inquérito civil porque o lixão do Município funciona sem licença e polui um córrego. O Promotor propõe ao Município um TAC: encerrar o lixão em 18 meses, construir um aterro sanitário consorciado com Municípios vizinhos e pagar multa diária de R$ 5 mil em caso de descumprimento. O Prefeito pergunta ao Procurador se deve assinar.</p><details><summary>Ver a solução comentada</summary><p>O Procurador deve avaliar: (1) <b>viabilidade técnica e orçamentária</b> do cronograma (há previsão no PPA e na LOA? o consórcio exige lei autorizativa de cada Município?); (2) se as <b>multas</b> são proporcionais e se recaem sobre o Município ou, como às vezes se negocia, sobre o gestor; (3) que o TAC tem eficácia de <b>título executivo extrajudicial</b> (art. 5º, § 6º): descumprido, o MP executa diretamente, sem ação de conhecimento; (4) a vantagem de <b>negociar prazos e etapas</b> em vez de sofrer uma ACP com liminar. O TAC não pode dispensar a obrigação legal (encerrar disposição inadequada de resíduos é dever legal), mas pode <b>ajustar o modo e o tempo</b> de cumprimento. Assinar um TAC realista é, em regra, melhor do que um TAC impossível de cumprir, que gera execução e multas.</p></details></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A associação autora pode firmar TAC com o causador do dano</span><br>✅ <span class=\"certo\">Só <b>órgãos públicos</b> legitimados tomam TAC (art. 5º, § 6º)</span></li><li>❌ <span class=\"banca\">O inquérito civil é obrigatório antes da ACP proposta pelo MP</span><br>✅ <span class=\"certo\"><b>Não é obrigatório</b></span></li><li>❌ <span class=\"banca\">Na ACP proposta pelo MP, ele deve adiantar os honorários do perito</span><br>✅ <span class=\"certo\">Cabe à <b>Fazenda</b> a que o MP está vinculado (Tema 510 do STJ)</span></li><li>❌ <span class=\"banca\">A multa liminar na ACP é exigível imediatamente</span><br>✅ <span class=\"certo\">Só após o <b>trânsito em julgado</b> favorável ao autor, embora devida desde o descumprimento (art. 12, § 2º)</span></li></ol></div>\n<h3>11. Políticas públicas, ressarcimento ao erário e prescrição</h3>\n<ul><li><b>Controle judicial de políticas públicas</b>: grande parte das ACPs contra Municípios pede que o Judiciário obrigue o ente a construir creches, contratar médicos, reformar escolas, fornecer medicamentos ou tratar esgoto. O STF fixou, no <b>Tema 698</b> (RE 684.612, 2023), que: 1) a intervenção do Poder Judiciário em políticas públicas voltadas à realização de direitos fundamentais, em caso de <b>ausência ou deficiência grave do serviço</b>, <b>não viola</b> a separação dos Poderes; 2) a decisão judicial, <b>como regra</b>, em lugar de determinar medidas pontuais, deve apontar as <b>finalidades a serem alcançadas</b> e determinar à Administração que <b>apresente um plano</b> e/ou os meios adequados para alcançar o resultado; 3) no caso de serviços de saúde, o déficit de profissionais pode ser suprido por concurso público ou por outras soluções, como o remanejamento de recursos humanos e a contratação de organizações sociais.</li><li>Para a defesa do Município, o Tema 698 é um argumento poderoso: em vez de aceitar uma ordem do tipo \"contrate 20 médicos em 30 dias\", o Procurador pode pedir que a decisão fixe <b>metas</b> e conceda prazo para o Município <b>apresentar um plano</b>, compatível com o orçamento e com a <b>reserva do possível</b>. A reserva do possível, contudo, não pode ser alegada de forma genérica: o ente deve <b>provar</b> a impossibilidade financeira concreta, e ela não se opõe ao <b>mínimo existencial</b>.</li><li><b>Prescrição do ressarcimento ao erário</b> (CF, art. 37, § 5º): o STF fixou três teses que se completam: <b>Tema 666</b>: \"É <b>prescritível</b> a ação de reparação de danos à Fazenda Pública decorrente de <b>ilícito civil</b>\" (por exemplo, um acidente de trânsito causado por particular com viatura do Município). <b>Tema 897</b>: \"São <b>imprescritíveis</b> as ações de ressarcimento ao erário fundadas na prática de <b>ato doloso tipificado na Lei de Improbidade</b> Administrativa.\" <b>Tema 899</b>: \"É <b>prescritível</b> a pretensão de ressarcimento ao erário fundada em <b>decisão de Tribunal de Contas</b>.\"</li><li><b>Dano ambiental</b>: o STF fixou (<b>Tema 999</b>) que é <b>imprescritível</b> a pretensão de <b>reparação civil de dano ambiental</b>.</li><li><b>Prazo das demais ACPs</b>: na falta de prazo específico, o STJ aplica, por analogia, o prazo de <b>5 anos</b> da ação popular (Lei 4.717, art. 21) às ações civis públicas, ressalvadas as pretensões imprescritíveis.</li></ul>\n<table class=\"tab\"><thead><tr><th>Pretensão</th><th>Prazo</th><th>Fundamento</th></tr></thead><tbody><tr><td>Ressarcimento por <b>ilícito civil</b> comum</td><td>prescritível</td><td>Tema 666 do STF</td></tr><tr><td>Ressarcimento por <b>ato doloso de improbidade</b></td><td><b>imprescritível</b></td><td>Tema 897 do STF</td></tr><tr><td>Ressarcimento fundado em <b>decisão do Tribunal de Contas</b></td><td>prescritível</td><td>Tema 899 do STF</td></tr><tr><td>Reparação de <b>dano ambiental</b></td><td><b>imprescritível</b></td><td>Tema 999 do STF</td></tr><tr><td><b>Ação popular</b></td><td>5 anos</td><td>Lei 4.717, art. 21</td></tr><tr><td><b>Sanções de improbidade</b></td><td>8 anos do fato</td><td>Lei 8.429, art. 23</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Toda ação de ressarcimento ao erário é imprescritível</span><br>✅ <span class=\"certo\">Só a fundada em <b>ato doloso de improbidade</b> (Tema 897); a de ilícito civil é prescritível (Tema 666)</span></li><li>❌ <span class=\"banca\">A pretensão de executar ressarcimento determinado pelo Tribunal de Contas é imprescritível</span><br>✅ <span class=\"certo\">É <b>prescritível</b> (Tema 899 do STF)</span></li><li>❌ <span class=\"banca\">O Judiciário não pode intervir em políticas públicas, sob pena de violar a separação dos Poderes</span><br>✅ <span class=\"certo\">Pode, em caso de ausência ou deficiência grave do serviço, preferencialmente exigindo um <b>plano</b> (Tema 698 do STF)</span></li><li>❌ <span class=\"banca\">A reparação civil do dano ambiental prescreve em 5 anos</span><br>✅ <span class=\"certo\">É <b>imprescritível</b> (Tema 999 do STF)</span></li></ol></div>\n<h3>12. Ação de improbidade: legitimidade, competência e petição inicial</h3>\n<ul><li><b>Natureza</b>: depois da <b>Lei 14.230/2021</b>, a ação de improbidade administrativa é <b>repressiva e de caráter sancionatório</b>, destinada à aplicação de sanções de caráter pessoal; <b>não constitui ação civil</b>, sendo <b>vedado</b> o seu ajuizamento para o <b>controle de legalidade de políticas públicas</b> e para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos, coletivos e individuais homogêneos (Lei 8.429, art. 17-D). Para esses fins, o instrumento é a <b>ação civil pública</b>. A consequência prática é que a ação de improbidade exige <b>dolo</b> e segue garantias próximas às do processo sancionador.</li><li><b>Legitimidade ativa</b>: o art. 17 da Lei 8.429, com a redação da Lei 14.230, previa que a ação seria proposta <b>pelo Ministério Público</b>. No julgamento das <b>ADIs 7.042 e 7.043</b> (2022), o STF declarou inconstitucional essa exclusividade e restabeleceu a <b>legitimidade ativa concorrente</b> entre o <b>MP</b> e as <b>pessoas jurídicas interessadas</b> (a entidade lesada), tanto para propor a ação quanto para celebrar o <b>acordo de não persecução civil</b>. Na mesma decisão, o STF declarou inconstitucional o <b>art. 3º da Lei 14.230</b>, que dava ao MP prazo de 1 ano para manifestar interesse no prosseguimento das ações propostas pela Fazenda, sob pena de extinção.</li><li>Para o <b>Procurador Municipal</b>, isso significa que o <b>Município pode e deve</b> propor ação de improbidade contra o agente que lesou o seu patrimônio, sem depender do MP. Quando a ação for proposta pelo MP, a pessoa jurídica interessada será <b>intimada</b> para, caso queira, intervir no processo (art. 17, § 14).</li><li><b>Defesa do agente pela Advocacia Pública</b> (art. 17, § 20): a lei previa que a assessoria jurídica que emitiu parecer atestando a legalidade prévia do ato ficaria <b>obrigada</b> a defender judicialmente o administrador público. Nas ADIs 7.042 e 7.043, o STF entendeu que <b>não existe obrigatoriedade</b> de defesa judicial, mas admitiu que os órgãos da Advocacia Pública <b>autorizem</b> essa representação, conforme as normas de cada ente.</li><li><b>Competência</b>: a ação será proposta perante o <b>foro do local onde ocorrer o dano</b> ou da <b>pessoa jurídica prejudicada</b> (art. 17, § 4º-A), e a propositura <b>previne</b> a jurisdição do juízo para todas as ações posteriormente intentadas que possuam a mesma causa de pedir ou o mesmo objeto (§ 5º). <b>Não há foro por prerrogativa de função</b> na ação de improbidade: o Prefeito, os Secretários e os Vereadores respondem perante o <b>juiz de primeiro grau</b>. O STF admite o duplo regime: os agentes políticos (exceto o Presidente da República) respondem por <b>crime de responsabilidade</b> e também por <b>improbidade</b> (Pet 3.240).</li><li><b>Petição inicial</b> (art. 17, § 6º): deverá <b>individualizar a conduta</b> de cada réu e apontar os <b>elementos probatórios mínimos</b> que demonstrem a ocorrência das hipóteses dos arts. 9º, 10 e 11 e de sua autoria, salvo impossibilidade devidamente fundamentada; e deverá ser instruída com documentos ou justificação que contenham <b>indícios suficientes</b> da veracidade dos fatos e do <b>dolo</b> imputado. A inicial será <b>rejeitada</b> nos casos do art. 330 do CPC, quando não preenchidos esses requisitos ou quando <b>manifestamente inexistente</b> o ato de improbidade (§ 6º-B).</li><li><b>Fim da defesa prévia</b>: antes da reforma, o réu era notificado para apresentar <b>defesa preliminar</b> em 15 dias antes do recebimento da inicial. A Lei 14.230 <b>extinguiu</b> essa fase: estando a inicial em devida forma, o juiz ordena a <b>citação</b> dos réus para <b>contestar</b> no prazo comum de <b>30 dias</b> (art. 17, § 7º).</li><li><b>Procedimento</b>: segue o <b>procedimento comum</b> do CPC, com as regras especiais da Lei 8.429 (art. 17, caput). Das <b>decisões interlocutórias</b> cabe <b>agravo de instrumento</b>, inclusive da decisão que rejeitar questões preliminares suscitadas na contestação (art. 17, §§ 9º-A e 21).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Depois da Lei 14.230, só o MP pode propor ação de improbidade</span><br>✅ <span class=\"certo\">O STF restabeleceu a legitimidade <b>concorrente</b> da pessoa jurídica lesada (<b>ADIs 7.042 e 7.043</b>)</span></li><li>❌ <span class=\"banca\">O Prefeito tem foro no Tribunal de Justiça na ação de improbidade</span><br>✅ <span class=\"certo\"><b>Não há foro por prerrogativa</b> na improbidade; julga o juiz de 1º grau</span></li><li>❌ <span class=\"banca\">O réu é notificado para defesa prévia de 15 dias antes do recebimento da inicial</span><br>✅ <span class=\"certo\">A defesa prévia foi <b>extinta</b>; o réu é <b>citado</b> para contestar em <b>30 dias</b> (art. 17, § 7º)</span></li><li>❌ <span class=\"banca\">A procuradoria que emitiu parecer favorável é obrigada a defender o agente</span><br>✅ <span class=\"certo\">Não há <b>obrigatoriedade</b> (ADIs 7.042 e 7.043)</span></li></ol></div>\n<h3>13. Garantias do réu, conversão em ACP e sentença</h3>\n<ul><li><b>Tipificação</b>: após a réplica, o juiz profere decisão na qual indica <b>com precisão a tipificação</b> do ato de improbidade imputável ao réu, sendo-lhe <b>vedado modificar o fato principal e a capitulação legal</b> apresentada pelo autor (art. 17, § 10-C). Para cada ato de improbidade, deverá necessariamente ser indicado <b>apenas um tipo</b> dentre os arts. 9º (enriquecimento ilícito), 10 (dano ao erário) e 11 (violação de princípios) (§ 10-D).</li><li><b>Nulidades</b> (§ 10-F): será <b>nula</b> a decisão de mérito, total ou parcial, que <b>condenar o réu por tipo diverso</b> daquele definido na petição inicial ou que condenar o réu <b>sem a produção das provas</b> por ele tempestivamente especificadas.</li><li><b>Regras afastadas</b> (art. 17, § 19): <b>não se aplicam</b> na ação de improbidade: I, a <b>presunção de veracidade</b> dos fatos alegados pelo autor em caso de <b>revelia</b>; II, a imposição de <b>ônus da prova ao réu</b> (a distribuição dinâmica dos §§ 1º e 2º do art. 373 do CPC); III, o ajuizamento de <b>mais de uma ação</b> de improbidade pelo <b>mesmo fato</b>, competindo ao CNMP dirimir conflitos de atribuições entre membros de MPs distintos; IV, o <b>reexame obrigatório</b> da sentença de <b>improcedência</b> ou de extinção sem resolução de mérito.</li><li><b>Interrogatório</b> (art. 17): o réu tem o direito de ser interrogado sobre os fatos, e a sua <b>recusa ou silêncio não implicará confissão</b>.</li><li><b>Improcedência a qualquer momento</b> (§ 11): em qualquer momento do processo, verificada a <b>inexistência do ato</b> de improbidade, o juiz julgará a demanda <b>improcedente</b>.</li><li><b>Conversão em ação civil pública</b> (§ 16): a qualquer momento, se o juiz identificar a existência de <b>ilegalidades ou irregularidades administrativas</b> a serem sanadas <b>sem que estejam presentes todos os requisitos</b> para a imposição das sanções aos agentes (por exemplo, falta de dolo), poderá, em decisão motivada, <b>converter</b> a ação de improbidade em <b>ação civil pública</b>, regulada pela Lei 7.347. Dessa decisão cabe <b>agravo de instrumento</b> (§ 17).</li><li><b>Sentença</b> (art. 17-C): deve indicar de modo preciso os fundamentos que demonstram os elementos do tipo, considerar as consequências práticas da decisão (LINDB), os obstáculos e as dificuldades reais do gestor, e observar os princípios da proporcionalidade e da razoabilidade na dosimetria. A <b>ilegalidade sem a presença de dolo</b> que a qualifique <b>não configura</b> ato de improbidade (art. 17-C, § 1º). E <b>não haverá remessa necessária</b> nas sentenças de que trata a Lei 8.429 (art. 17-C, § 3º), seja de procedência, seja de improcedência.</li><li><b>Ressarcimento</b> (art. 18): a sentença que julgar procedente a ação fundada nos arts. 9º e 10 condenará ao <b>ressarcimento</b> dos danos e à <b>perda ou reversão dos bens</b> e valores ilicitamente adquiridos, conforme o caso, <b>em favor da pessoa jurídica prejudicada</b>. Se houver necessidade de <b>liquidação</b> do dano, a pessoa jurídica prejudicada deverá promovê-la no prazo de <b>6 meses</b> a contar do trânsito em julgado; se não o fizer, o MP procederá à liquidação (art. 18, §§ 1º e 2º).</li><li><b>Tema 1.199 do STF</b> (2022), sobre a aplicação da Lei 14.230 no tempo: 1) é necessária a comprovação de responsabilidade <b>subjetiva</b> para a tipificação dos atos de improbidade, exigindo-se, nos arts. 9º, 10 e 11, a presença do elemento subjetivo <b>dolo</b>; 2) a norma benéfica que <b>revogou a modalidade culposa</b> é <b>irretroativa</b> em relação à <b>coisa julgada</b>, nem incide durante o processo de execução das penas; 3) a nova lei aplica-se aos atos culposos praticados na vigência do texto anterior <b>sem condenação transitada em julgado</b>, devendo o juízo analisar eventual dolo do agente; 4) o <b>novo regime prescricional</b> é <b>irretroativo</b>, aplicando-se os novos marcos temporais a partir da publicação da lei (<b>26/10/2021</b>).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na ação de improbidade, a revelia gera presunção de veracidade dos fatos</span><br>✅ <span class=\"certo\"><b>Não se aplica</b> a presunção (art. 17, § 19, I)</span></li><li>❌ <span class=\"banca\">A sentença de improcedência na ação de improbidade está sujeita ao reexame necessário</span><br>✅ <span class=\"certo\"><b>Não há</b> remessa necessária (art. 17, § 19, IV, e art. 17-C, § 3º)</span></li><li>❌ <span class=\"banca\">O juiz pode condenar o réu por tipo diverso do indicado na inicial, desde que os fatos sejam os mesmos</span><br>✅ <span class=\"certo\">É <b>nula</b> a condenação por tipo diverso (art. 17, § 10-F, I)</span></li><li>❌ <span class=\"banca\">A revogação da improbidade culposa alcança condenações já transitadas em julgado</span><br>✅ <span class=\"certo\">É <b>irretroativa</b> quanto à coisa julgada (Tema 1.199 do STF)</span></li></ol></div>\n<h3>14. Indisponibilidade de bens, acordo de não persecução civil e prescrição</h3>\n<ul><li><b>Indisponibilidade de bens</b> (art. 16): pode ser requerida em caráter <b>antecedente ou incidente</b>, a fim de garantir a <b>integral recomposição do erário</b> ou do acréscimo patrimonial resultante de enriquecimento ilícito. A grande mudança da Lei 14.230 foi exigir a demonstração, <b>no caso concreto</b>, de <b>perigo de dano irreparável ou de risco ao resultado útil do processo</b> (§ 3º), afastando a antiga jurisprudência do STJ que <b>presumia</b> o perigo da demora. A medida pode ser decretada <b>sem oitiva prévia</b> do réu quando o contraditório prévio puder comprovadamente frustrar a sua efetividade, mas <b>a urgência não pode ser presumida</b> (§ 4º). Aplica-se à indisponibilidade o regime da <b>tutela provisória de urgência</b> do CPC (§ 8º), e da decisão cabe <b>agravo de instrumento</b> (§ 9º).</li><li><b>Limites da indisponibilidade</b>: a indisponibilidade recairá sobre bens que assegurem <b>exclusivamente o integral ressarcimento</b> do dano ao erário, <b>sem incidir</b> sobre os valores a serem eventualmente aplicados a título de <b>multa civil</b> ou sobre acréscimo patrimonial decorrente de atividade lícita (§ 10). Deve observar uma <b>ordem de preferência</b>, ficando o <b>bloqueio de contas bancárias</b> para o final, apenas na inexistência de outros bens (§ 11). É <b>vedada</b> a indisponibilidade da quantia de até <b>40 salários mínimos</b> depositados em caderneta de poupança, em outras aplicações financeiras ou em conta-corrente (§ 13), e do <b>bem de família</b> do réu, salvo se comprovado que o imóvel seja fruto de vantagem patrimonial indevida (§ 14).</li><li><b>Acordo de não persecução civil</b> (ANPC, art. 17-B): o MP (e, depois das ADIs 7.042 e 7.043, também a pessoa jurídica lesada) poderá celebrar ANPC, desde que dele advenham, ao menos: I, o <b>integral ressarcimento do dano</b>; II, a <b>reversão</b> à pessoa jurídica lesada da <b>vantagem indevida</b> obtida. A celebração depende, cumulativamente: I, da <b>oitiva do ente federativo lesado</b>, em momento anterior ou posterior à propositura da ação; II, de <b>aprovação</b> pelo órgão do MP competente para apreciar as promoções de arquivamento de inquéritos civis, se anterior ao ajuizamento da ação; III, de <b>homologação judicial</b>, independentemente de o acordo ocorrer antes ou depois do ajuizamento. O acordo pode ser celebrado no curso da <b>investigação</b>, no curso da <b>ação</b> ou no momento da <b>execução</b> da sentença condenatória (§ 4º). Em caso de <b>descumprimento</b>, o investigado ou demandado ficará impedido de celebrar novo acordo pelo prazo de <b>5 anos</b> (§ 7º).</li><li><b>Prescrição</b> (art. 23): a ação para a aplicação das sanções prescreve em <b>8 anos</b>, contados a partir da <b>ocorrência do fato</b> ou, no caso de infrações permanentes, do dia em que <b>cessou a permanência</b>. A instauração de inquérito civil ou de processo administrativo para apuração dos ilícitos <b>suspende</b> o curso do prazo prescricional por, no máximo, <b>180 dias corridos</b> (§ 1º). O inquérito civil deve ser concluído em <b>365 dias corridos</b>, prorrogável uma única vez por igual período (§ 2º), e, encerrado o prazo, a ação deverá ser proposta em <b>30 dias</b>, se não for caso de arquivamento (§ 3º).</li><li><b>Interrupção e prescrição intercorrente</b> (art. 23, §§ 4º, 5º e 8º): o prazo se <b>interrompe</b> pelo ajuizamento da ação, pela publicação da sentença condenatória e pela publicação de decisão ou acórdão de tribunal que confirme a condenação ou reforme a sentença de improcedência (inclusive no STJ e no STF). Interrompida a prescrição, o prazo <b>recomeça pela metade</b> (<b>4 anos</b>). Se, entre dois marcos interruptivos, transcorrer esse prazo de 4 anos, o juiz, depois de ouvido o MP, deverá <b>reconhecer de ofício</b> a <b>prescrição intercorrente</b>.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A Prefeitura como autora da ação de improbidade</b><p>A auditoria interna do Município apurou que o ex-Secretário de Obras, em 2023, pagou R$ 800 mil a uma empreiteira por serviços não executados, com laudos de medição falsificados e depósitos da empreiteira na conta de um parente do Secretário. O MP ainda não agiu. O novo Prefeito pergunta ao Procurador o que fazer.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Legitimidade</b>: o Município pode propor diretamente a ação de improbidade (ADIs 7.042 e 7.043), sem esperar o MP, que será intimado. (2) <b>Tipificação</b>: indicar <b>um único tipo</b> por ato (art. 17, § 10-D); aqui, enriquecimento ilícito (art. 9º) do Secretário, com a empreiteira como beneficiária (art. 3º). (3) <b>Prova do dolo</b>: juntar os laudos falsos, os pagamentos e os depósitos ao parente, porque a inicial deve trazer <b>elementos probatórios mínimos</b> e indícios do <b>dolo</b> (art. 17, § 6º). (4) <b>Indisponibilidade</b>: pedir a indisponibilidade de bens <b>limitada ao dano</b> (R$ 800 mil, sem a multa), demonstrando <b>concretamente</b> o risco (por exemplo, a venda recente de imóveis pelo réu), e não apenas a gravidade dos fatos (art. 16, §§ 3º e 10). (5) <b>Prescrição</b>: o fato é de 2023; o prazo é de <b>8 anos</b> do fato. (6) <b>Ressarcimento</b>: como o ato é doloso, a pretensão de ressarcimento é <b>imprescritível</b> (Tema 897), mas as sanções (multa, suspensão de direitos políticos, proibição de contratar) se sujeitam ao prazo de 8 anos. (7) <b>Alternativa</b>: avaliar um <b>ANPC</b>, que exige ao menos o <b>integral ressarcimento</b> e a reversão da vantagem, com homologação judicial.</p></details></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A indisponibilidade de bens dispensa prova do perigo da demora, que é presumido</span><br>✅ <span class=\"certo\">Exige <b>perigo concreto</b> de dano ou risco ao resultado útil (art. 16, § 3º)</span></li><li>❌ <span class=\"banca\">A indisponibilidade deve abranger o dano e a futura multa civil</span><br>✅ <span class=\"certo\">Só o <b>ressarcimento</b>; <b>não</b> incide sobre a multa (art. 16, § 10)</span></li><li>❌ <span class=\"banca\">A prescrição da improbidade é de 5 anos contados do fim do mandato</span><br>✅ <span class=\"certo\">São <b>8 anos</b> contados do <b>fato</b> (art. 23)</span></li><li>❌ <span class=\"banca\">Interrompida a prescrição, recomeça a correr por inteiro</span><br>✅ <span class=\"certo\">Recomeça <b>pela metade</b> (4 anos) (art. 23, § 5º)</span></li></ol></div>\n<h3>15. Mandado de injunção</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CF, art. 5º, LXXI</div><div class=\"art-lei\">conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania;</div></div>\n<ul><li><b>Cabimento</b> (Lei 13.300/2016, art. 2º): concede-se mandado de injunção sempre que a <b>falta total ou parcial</b> de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Considera-se <b>parcial</b> a regulamentação quando forem <b>insuficientes</b> as normas editadas pelo órgão legislador competente.</li><li><b>Requisitos</b>: a) um <b>direito previsto na Constituição</b> que dependa de regulamentação (norma de eficácia limitada); b) a <b>omissão</b> do órgão competente para editar a norma (mora); c) a <b>inviabilidade</b> concreta do exercício do direito. <b>Não cabe</b> MI quando a norma constitucional é <b>autoaplicável</b>, quando o direito é apenas <b>legal</b> (não constitucional), quando a norma regulamentadora já existe e o impetrante apenas a considera injusta ou inconstitucional, ou quando a mora já foi suprida.</li><li><b>Partes</b> (art. 3º): são legitimados para o MI, como <b>impetrantes</b>, as pessoas naturais ou jurídicas que se afirmam <b>titulares</b> dos direitos, das liberdades ou das prerrogativas; e, como <b>impetrado</b>, o <b>Poder, o órgão ou a autoridade</b> com atribuição para editar a norma regulamentadora. Se a omissão é de lei municipal de iniciativa do Prefeito (por exemplo, a lei que regulamenta um direito previsto na Lei Orgânica e na Constituição), o impetrado pode ser o Prefeito e a Câmara, conforme a atribuição.</li><li><b>Procedimento</b> (arts. 4º a 7º): recebida a inicial, será <b>notificado o impetrado</b> para prestar <b>informações em 10 dias</b> e dada ciência ao órgão de representação judicial da pessoa jurídica interessada. A inicial será <b>indeferida desde logo</b> quando a impetração for manifestamente incabível ou manifestamente improcedente; da decisão de relator que indeferir a inicial cabe <b>agravo, em 5 dias</b>, para o órgão colegiado (art. 6º). Findo o prazo das informações, o MP opina em <b>10 dias</b> (art. 7º).</li><li><b>Decisão</b> (art. 8º): reconhecido o estado de <b>mora legislativa</b>, será deferida a injunção para: I, determinar <b>prazo razoável</b> para que o impetrado promova a edição da norma; II, estabelecer as <b>condições</b> em que se dará o exercício dos direitos, das liberdades ou das prerrogativas reclamados ou, se for o caso, as condições em que poderá o interessado promover ação própria visando a exercê-los, caso não seja suprida a mora no prazo determinado. Será <b>dispensada</b> a fixação do prazo quando comprovado que o impetrado deixou de atender, em MI anterior, ao prazo estabelecido.</li><li><b>Teoria adotada</b>: a lei consagrou a <b>teoria concretista intermediária</b>: primeiro, o Judiciário dá prazo ao omisso; não suprida a mora, o próprio Judiciário fixa as condições para o exercício do direito. Antes da lei, o STF já havia abandonado a teoria não concretista nos <b>MIs 670, 708 e 712</b> (2007), em que mandou aplicar ao <b>direito de greve dos servidores públicos</b>, no que couber, a lei de greve do setor privado (Lei 7.783/1989). Na mesma linha, a <b>Súmula Vinculante 33</b> mandou aplicar aos servidores as regras do regime geral sobre <b>aposentadoria especial</b>, enquanto não editada a lei complementar.</li><li><b>Eficácia subjetiva</b> (art. 9º): a decisão terá eficácia subjetiva <b>limitada às partes</b> e produzirá efeitos até o advento da norma regulamentadora. Poderá ser conferida eficácia <b>ultra partes ou erga omnes</b> quando isso for inerente ou indispensável ao exercício do direito objeto da impetração. Transitada em julgado, os seus efeitos poderão ser <b>estendidos</b> aos casos análogos por decisão monocrática do relator. O indeferimento do pedido por <b>insuficiência de prova</b> não impede a renovação da impetração fundada em outros elementos probatórios.</li><li><b>Norma superveniente</b> (art. 11): a norma regulamentadora superveniente produzirá <b>efeitos ex nunc</b> em relação aos beneficiados por decisão transitada em julgado, <b>salvo se a aplicação da norma editada lhes for mais favorável</b>. Se a norma for editada <b>antes da decisão</b>, a impetração fica <b>prejudicada</b>, e o processo é extinto sem resolução de mérito.</li><li><b>MI coletivo</b> (art. 12): pode ser promovido: I, pelo <b>Ministério Público</b>, quando a tutela requerida for especialmente relevante para a defesa da ordem jurídica, do regime democrático ou dos interesses sociais ou individuais indisponíveis; II, por <b>partido político</b> com representação no Congresso Nacional; III, por <b>organização sindical, entidade de classe ou associação</b> legalmente constituída e em funcionamento há pelo menos 1 ano, dispensada autorização especial; IV, pela <b>Defensoria Pública</b>, quando a tutela for especialmente relevante para a promoção dos direitos humanos e a defesa dos direitos dos necessitados. O MI coletivo <b>não induz litispendência</b> em relação aos individuais, mas os efeitos da coisa julgada não beneficiarão o impetrante que não requerer a <b>desistência</b> da demanda individual no prazo de <b>30 dias</b> (art. 13, parágrafo único). Repare: diferentemente do MS coletivo, o <b>MP e a Defensoria</b> são legitimados para o <b>MI coletivo</b>.</li><li><b>Competência</b>: é do <b>STF</b> quando a elaboração da norma for atribuição do Presidente da República, do Congresso, da Câmara, do Senado, das Mesas, do TCU, dos Tribunais Superiores ou do próprio STF (CF, art. 102, I, \"q\"); do <b>STJ</b> quando for atribuição de órgão, entidade ou autoridade federal, ressalvadas as competências do STF e de outras justiças (CF, art. 105, I, \"h\"). Omissões <b>estaduais e municipais</b> são julgadas conforme a <b>Constituição estadual</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Cabe mandado de injunção para regulamentar direito previsto apenas em lei ordinária</span><br>✅ <span class=\"certo\">Só para direito <b>constitucional</b> cujo exercício esteja inviabilizado pela falta de norma</span></li><li>❌ <span class=\"banca\">A decisão no MI tem sempre eficácia erga omnes</span><br>✅ <span class=\"certo\">Em regra, <b>limitada às partes</b>; pode ser ultra partes ou erga omnes quando indispensável (art. 9º)</span></li><li>❌ <span class=\"banca\">A norma regulamentadora superveniente retroage para atingir os beneficiados pelo MI</span><br>✅ <span class=\"certo\">Produz efeitos <b>ex nunc</b>, salvo se mais favorável (art. 11)</span></li><li>❌ <span class=\"banca\">O Ministério Público não tem legitimidade para MI coletivo</span><br>✅ <span class=\"certo\"><b>Tem</b> (art. 12, I), assim como a <b>Defensoria</b> (art. 12, IV)</span></li></ol></div>\n<h3>16. Habeas data</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 CF, art. 5º, LXXII</div><div class=\"art-lei\">conceder-se-á \"habeas-data\": a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público; b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo;</div></div>\n<ul><li><b>Cabimento</b> (Lei 9.507/1997, art. 7º): I, para assegurar o <b>conhecimento</b> de informações relativas à pessoa do impetrante, constantes de registro ou banco de dados de entidades governamentais ou de caráter público; II, para a <b>retificação</b> de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo; III, para a <b>anotação</b> nos assentamentos do interessado de <b>contestação ou explicação</b> sobre dado verdadeiro mas justificável e que esteja sob pendência judicial ou amigável.</li><li><b>Banco de dados de caráter público</b> (art. 1º, parágrafo único): é todo registro ou banco de dados contendo informações que sejam ou que possam ser <b>transmitidas a terceiros</b> ou que não sejam de uso privativo do órgão ou entidade produtora ou depositária das informações. Por isso, cabe HD contra entidades privadas como os <b>serviços de proteção ao crédito</b>.</li><li><b>Informações pessoais</b>: o HD só protege informações <b>relativas à pessoa do impetrante</b>. Para obter informações de <b>interesse coletivo ou geral</b>, ou certidões, o caminho é o <b>direito de petição e de certidão</b> (CF, art. 5º, XXXIII e XXXIV), a <b>Lei de Acesso à Informação</b> (Lei 12.527/2011) e, se houver recusa ilegal, o <b>mandado de segurança</b>. O HD também não serve para obter <b>vista ou cópia de processo administrativo</b>.</li><li><b>Prévia recusa administrativa</b>: <b>Súmula 2 do STJ</b>: \"Não cabe o habeas data (CF, art. 5º, LXXII, letra a) se <b>não houve recusa de informações</b> por parte da autoridade administrativa.\" A lei exige que a inicial seja instruída com a <b>prova da recusa</b> ou do <b>decurso de mais de 10 dias</b> sem decisão (pedido de acesso), ou de <b>mais de 15 dias</b> sem decisão (pedido de retificação ou de anotação) (art. 8º, parágrafo único). Na via administrativa, o requerimento será deferido ou indeferido no prazo de <b>48 horas</b>, e a decisão será comunicada ao requerente em <b>24 horas</b> (art. 2º).</li><li><b>Procedimento</b>: o coator é notificado para prestar <b>informações em 10 dias</b> (art. 9º); o MP opina em <b>5 dias</b> e o juiz decide em <b>5 dias</b> (art. 12). Da sentença cabe <b>apelação</b>; quando a sentença <b>conceder</b> o HD, o recurso terá efeito <b>meramente devolutivo</b> (art. 15). Os processos de HD têm <b>prioridade</b> sobre todos os atos judiciais, <b>exceto</b> habeas corpus e mandado de segurança (art. 19).</li><li><b>Gratuidade</b>: são <b>gratuitos</b> o procedimento administrativo e a ação de habeas data (art. 21; CF, art. 5º, LXXVII).</li><li><b>Tema 582 do STF</b>: o habeas data é garantia constitucional adequada para a obtenção dos <b>dados concernentes ao pagamento de tributos do próprio contribuinte</b> constantes dos sistemas informatizados de apoio à arrecadação dos órgãos da administração fazendária dos entes estatais. Para o Município, isso significa que o contribuinte pode usar HD para conhecer os seus dados nos sistemas da <b>Secretaria de Fazenda municipal</b> (pagamentos, débitos, créditos).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Cabe habeas data para obter cópia de processo administrativo</span><br>✅ <span class=\"certo\">O HD serve para <b>informações pessoais</b> em bancos de dados; a cópia do processo se obtém por certidão ou MS</span></li><li>❌ <span class=\"banca\">O habeas data pode ser impetrado sem prévio requerimento administrativo</span><br>✅ <span class=\"certo\">Exige <b>recusa</b> ou <b>demora</b> comprovada (Súmula 2 do STJ; art. 8º)</span></li><li>❌ <span class=\"banca\">O HD tem prioridade sobre o mandado de segurança</span><br>✅ <span class=\"certo\">Tem prioridade sobre todos os atos, <b>exceto HC e MS</b> (art. 19)</span></li><li>❌ <span class=\"banca\">Cabe HD contra banco de dados de entidade privada</span><br>✅ <span class=\"certo\">Cabe, se o banco tiver <b>caráter público</b> (art. 1º, parágrafo único)</span></li></ol></div>\n<h3>17. Exercício integrado: qual é a ação cabível?</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Servidor com vantagem cortada</b><p>Em 10 de janeiro, o Secretário de Administração do Município cortou o adicional por tempo de serviço de uma servidora, alegando que a lei municipal que o previa foi revogada. A servidora tem todos os documentos (lei, fichas financeiras, ato de corte). Em 20 de junho, procura um advogado.</p><details><summary>Ver a solução comentada</summary><p>Cabe <b>mandado de segurança</b> contra o <b>Secretário</b> (autoridade que praticou o ato), com indicação do <b>Município</b> como pessoa jurídica. Prova documental pré-constituída: ok. Prazo: <b>120 dias</b> da ciência (10 de janeiro) terminaram em maio; como o ato é de <b>supressão</b> da vantagem (ato único de efeitos permanentes), o STJ tende a reconhecer a <b>decadência</b>. Restará a <b>ação de procedimento comum</b>, na qual a servidora poderá cobrar inclusive as parcelas atrasadas. Se o MS tivesse sido impetrado a tempo e concedido, as diferenças seriam pagas apenas <b>desde o ajuizamento</b> (art. 14, § 4º; Súmula 271 do STF).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Contrato sem licitação para a festa</b><p>Um morador, eleitor do Município, descobre que a Prefeitura contratou sem licitação, por valor três vezes acima do mercado, a empresa do cunhado do Prefeito para organizar a festa da cidade. A associação comercial também quer agir.</p><details><summary>Ver a solução comentada</summary><p>O <b>morador</b> pode propor <b>ação popular</b> (é cidadão), pedindo a <b>anulação</b> do contrato e a condenação do Prefeito, dos responsáveis e da <b>empresa beneficiária</b> a ressarcir o dano (Lei 4.717, arts. 6º e 11). Não precisa provar prejuízo material, embora aqui ele exista (Tema 836). A <b>associação comercial</b> não pode propor ação popular (Súmula 365 do STF), mas, se tiver pertinência temática e 1 ano de constituição, pode propor <b>ação civil pública</b> em defesa do patrimônio público, assim como o <b>MP</b>. O MP ou o Município podem ainda propor <b>ação de improbidade</b>, se houver <b>dolo</b>. O Município, citado na ação popular, pode <b>migrar para o polo ativo</b> (art. 6º, § 3º), se o atual gestor concluir que o ato é lesivo.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Escola fechada e ACP</b><p>O MP ajuíza ACP pedindo que o Município reforme, em 60 dias, todas as 12 escolas municipais, sob pena de multa diária de R$ 50 mil, e pede liminar.</p><details><summary>Ver a solução comentada</summary><p>O Procurador deve: (1) pedir ao juiz que observe a <b>oitiva prévia de 72 horas</b> antes da liminar (Lei 8.437, art. 2º); (2) sustentar que a liminar <b>esgota o objeto</b> da ação (art. 1º, § 3º); (3) invocar o <b>Tema 698 do STF</b>, pedindo que a decisão fixe <b>metas</b> e prazo para o Município <b>apresentar um plano</b> de reformas compatível com o orçamento, em vez de ordens pontuais; (4) se a liminar for concedida, interpor <b>agravo de instrumento</b> e, se houver grave lesão à economia pública, pedir <b>suspensão de liminar</b> ao presidente do TJ (Lei 8.437, art. 4º); (5) lembrar que a <b>multa diária</b> só é exigível após o <b>trânsito em julgado</b> favorável ao autor (Lei 7.347, art. 12, § 2º), e pedir que ela seja fixada em valor proporcional.</p></details></div>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Ação adequada</th></tr></thead><tbody><tr><td>Ato ilegal de autoridade, com prova documental, dentro de 120 dias</td><td><b>Mandado de segurança</b></td></tr><tr><td>Cidadão quer anular ato lesivo ao patrimônio público ou à moralidade</td><td><b>Ação popular</b></td></tr><tr><td>Defesa de meio ambiente, consumidor, ordem urbanística, patrimônio público por MP, Defensoria, ente público ou associação</td><td><b>Ação civil pública</b></td></tr><tr><td>Aplicar sanções a agente que agiu com dolo contra a Administração</td><td><b>Ação de improbidade</b></td></tr><tr><td>Falta de norma que torna inviável direito constitucional</td><td><b>Mandado de injunção</b></td></tr><tr><td>Conhecer ou retificar informações pessoais em banco de dados público</td><td><b>Habeas data</b></td></tr><tr><td>Grave lesão à ordem, saúde, segurança ou economia públicas por liminar</td><td><b>Pedido de suspensão</b> ao presidente do tribunal</td></tr></tbody></table>\n<h3>18. Como as bancas cobram este tópico</h3>\n<ul><li><b>Mandado de segurança (Lei 12.016)</b>: art. 1º (cabimento, autoridade equiparada, atos de gestão comercial), art. 5º (não cabimento), art. 6º (autoridade coatora e pessoa jurídica; exibição de documento), art. 7º (liminar e agravo de instrumento; ADI 4.296), art. 8º (perempção), art. 10 (indeferimento), art. 14 (apelação, reexame da concessão, pagamento desde a inicial), art. 15 (suspensão), art. 18 (recurso ordinário quando denegada), art. 19 (ação própria), arts. 21 e 22 (MS coletivo), art. 23 (120 dias), art. 25 (sem honorários).</li><li><b>Súmulas do STF</b>: 101, 266, 267, 268, 269, 271, 304, 365, 405, 429, 430, 510, 512, 625, 626, 629, 630, 631, 632, 643, 729. <b>Súmulas do STJ</b>: 2, 105, 213, 232, 329, 333, 460, 489, 601, 628, 629.</li><li><b>Temas e ações de controle</b>: Tema 530 (desistência do MS), Tema 836 (ação popular sem prejuízo material), Tema 1.075 (limite territorial da ACP), Tema 698 (políticas públicas), Temas 666, 897, 899 e 999 (prescrição do ressarcimento e do dano ambiental), Tema 1.199 (Lei 14.230 no tempo), Tema 1.119 (execução do MS coletivo), Tema 582 (habeas data de dados fiscais), Tema 510 do STJ (honorários periciais na ACP do MP); ADI 4.296; ADIs 7.042 e 7.043.</li><li><b>Improbidade processual</b>: legitimidade concorrente, foro do dano, inicial com elementos mínimos e dolo, citação para contestar em 30 dias, um tipo por ato, vedação de condenação por tipo diverso, regras afastadas do § 19, conversão em ACP, indisponibilidade com perigo concreto e sem multa, ANPC, prescrição de 8 anos e intercorrente de 4.</li><li><b>Pegadinhas clássicas</b>: reexame necessário do MS (concessão) x ação popular (improcedência) x improbidade (nenhum); honorários (não no MS; não para a associação na ACP salvo má-fé; isenção do autor popular); legitimados (cidadão na ação popular; MP e Defensoria no MI coletivo, mas não no MS coletivo).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para o reexame necessário nas ações constitucionais, memorize <b>\"MS concede, AP nega, improbidade nunca\"</b>: no <b>mandado de segurança</b>, sobe a sentença que <b>concede</b>; na <b>ação popular</b>, sobe a que <b>nega</b> (improcedência ou carência); na <b>improbidade</b>, <b>não há</b> remessa necessária.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MS</span></span><span class=\"vs\"><span>direito líquido e certo, prova pré-constituída, 120 dias da ciência, sem honorários (art. 25)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MS coletivo</span></span><span class=\"vs\"><span>partido com representação no CN, sindicato, entidade de classe, associação com 1 ano; sem autorização (Súmula 629)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação popular</span></span><span class=\"vs\"><span>cidadão; anula ato lesivo; sem prova de prejuízo material (Tema 836); 5 anos; reexame da improcedência</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ACP</span></span><span class=\"vs\"><span>MP, Defensoria, entes, administração indireta, associação; não cabe para tributos; Tema 1.075</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Improbidade</span></span><span class=\"vs\"><span>dolo; MP e pessoa jurídica lesada; 8 anos do fato; sem remessa necessária; indisponibilidade só do dano</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MI</span></span><span class=\"vs\"><span>falta de norma; prazo para suprir a mora e depois condições (art. 8º); efeitos ex nunc da norma superveniente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>HD</span></span><span class=\"vs\"><span>informações pessoais; exige recusa prévia (Súmula 2 do STJ); gratuito</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Suspensão de segurança</span></span><span class=\"vs\"><span>presidente do tribunal; grave lesão à ordem, saúde, segurança ou economia públicas; não é recurso</span></span></button></div></div>",
+"quiz": [
+{
+"p": "O mandado de segurança protege direito líquido e certo não amparado por habeas corpus ou habeas data.",
+"c": true,
+"prof": "CF, art. 5º, LXIX.",
+"x": "Subsidiário ao HC e ao HD.",
+"e": "MS"
+},
+{
+"p": "Direito líquido e certo é aquele cuja questão jurídica é simples e pacífica.",
+"c": false,
+"prof": "Súmula 625 do STF.",
+"x": "É o direito com fatos provados de plano; matéria de direito complexa não impede o MS.",
+"e": "MS"
+},
+{
+"p": "Controvérsia sobre matéria de direito não impede a concessão de mandado de segurança.",
+"c": true,
+"prof": "Súmula 625 do STF.",
+"x": "Literal.",
+"e": "MS"
+},
+{
+"p": "No mandado de segurança admite-se prova pericial quando a questão técnica for indispensável.",
+"c": false,
+"prof": "Lei 12.016.",
+"x": "Não há dilação probatória.",
+"e": "MS"
+},
+{
+"p": "Se o documento necessário à prova estiver em poder da Administração que se recuse a fornecê-lo, o juiz ordenará a sua exibição no prazo de 10 dias.",
+"c": true,
+"prof": "Lei 12.016, art. 6º, § 1º.",
+"x": "Exceção à prova pré-constituída.",
+"e": "MS"
+},
+{
+"p": "O mandado de segurança pode ser preventivo, quando houver justo receio de sofrer violação de direito.",
+"c": true,
+"prof": "Lei 12.016, art. 1º.",
+"x": "Ameaça concreta.",
+"e": "MS"
+},
+{
+"p": "Autoridade coatora é o servidor que executa materialmente o ato, ainda que não tenha poder de decisão.",
+"c": false,
+"prof": "Lei 12.016, art. 6º, § 3º.",
+"x": "É quem praticou o ato ou de quem emanou a ordem.",
+"e": "Autoridade coatora"
+},
+{
+"p": "Cabe mandado de segurança contra atos de gestão comercial praticados por administradores de sociedade de economia mista.",
+"c": false,
+"prof": "Lei 12.016, art. 1º, § 2º.",
+"x": "Não cabe.",
+"e": "Cabimento"
+},
+{
+"p": "Cabe mandado de segurança contra ato praticado em licitação promovida por empresa pública.",
+"c": true,
+"prof": "Súmula 333 do STJ.",
+"x": "Ato de autoridade.",
+"e": "Cabimento"
+},
+{
+"p": "Praticado o ato por autoridade no exercício de competência delegada, o MS deve ser impetrado contra a autoridade delegante.",
+"c": false,
+"prof": "Súmula 510 do STF.",
+"x": "Contra a autoridade delegada.",
+"e": "Autoridade coatora"
+},
+{
+"p": "A teoria da encampação exige vínculo hierárquico, manifestação sobre o mérito nas informações e ausência de modificação de competência constitucional.",
+"c": true,
+"prof": "Súmula 628 do STJ.",
+"x": "Requisitos cumulativos.",
+"e": "Encampação"
+},
+{
+"p": "A autoridade coatora tem legitimidade para recorrer da sentença no mandado de segurança.",
+"c": true,
+"prof": "Lei 12.016, art. 14, § 2º.",
+"x": "Literal.",
+"e": "Recursos"
+},
+{
+"p": "Não cabe mandado de segurança quando o interessado deixou de esgotar a via administrativa.",
+"c": false,
+"prof": "Lei 12.016, art. 5º, I.",
+"x": "A lei não exige esgotamento.",
+"e": "Cabimento"
+},
+{
+"p": "Não se concede mandado de segurança contra ato do qual caiba recurso administrativo com efeito suspensivo, independentemente de caução.",
+"c": true,
+"prof": "Lei 12.016, art. 5º, I.",
+"x": "Literal.",
+"e": "Cabimento"
+},
+{
+"p": "A existência de recurso administrativo com efeito suspensivo não impede o uso do mandado de segurança contra omissão da autoridade.",
+"c": true,
+"prof": "Súmula 429 do STF.",
+"x": "Literal.",
+"e": "Cabimento"
+},
+{
+"p": "Cabe mandado de segurança contra lei em tese, desde que ela seja manifestamente inconstitucional.",
+"c": false,
+"prof": "Súmula 266 do STF.",
+"x": "Não cabe contra lei em tese; cabe contra lei de efeitos concretos.",
+"e": "Cabimento"
+},
+{
+"p": "Lei de efeitos concretos pode ser impugnada por mandado de segurança.",
+"c": true,
+"prof": "Doutrina e jurisprudência; Súmula 266 do STF.",
+"x": "É ato administrativo em forma de lei.",
+"e": "Cabimento"
+},
+{
+"p": "Não cabe mandado de segurança contra decisão judicial transitada em julgado.",
+"c": true,
+"prof": "Súmula 268 do STF; Lei 12.016, art. 5º, III.",
+"x": "Via própria: rescisória.",
+"e": "Cabimento"
+},
+{
+"p": "O mandado de segurança não é substitutivo de ação de cobrança.",
+"c": true,
+"prof": "Súmula 269 do STF.",
+"x": "Literal.",
+"e": "Efeitos patrimoniais"
+},
+{
+"p": "A concessão do mandado de segurança produz efeitos patrimoniais desde a data do ato ilegal.",
+"c": false,
+"prof": "Súmula 271 do STF; art. 14, § 4º.",
+"x": "Pagamento só das prestações vencidas a partir do ajuizamento.",
+"e": "Efeitos patrimoniais"
+},
+{
+"p": "O mandado de segurança não substitui a ação popular.",
+"c": true,
+"prof": "Súmula 101 do STF.",
+"x": "Literal.",
+"e": "Cabimento"
+},
+{
+"p": "O direito de requerer mandado de segurança extingue-se decorridos 120 dias da ciência do ato impugnado pelo interessado.",
+"c": true,
+"prof": "Lei 12.016, art. 23.",
+"x": "Prazo decadencial.",
+"e": "Prazo"
+},
+{
+"p": "O pedido de reconsideração na via administrativa interrompe o prazo para a impetração.",
+"c": false,
+"prof": "Súmula 430 do STF.",
+"x": "Não interrompe.",
+"e": "Prazo"
+},
+{
+"p": "É constitucional lei que fixa prazo de decadência para a impetração de mandado de segurança.",
+"c": true,
+"prof": "Súmula 632 do STF.",
+"x": "Literal.",
+"e": "Prazo"
+},
+{
+"p": "Decorrido o prazo de 120 dias, o interessado perde o direito material discutido.",
+"c": false,
+"prof": "Lei 12.016, art. 23.",
+"x": "Perde só a via do MS.",
+"e": "Prazo"
+},
+{
+"p": "Da decisão do juiz de primeiro grau que conceder ou denegar a liminar em mandado de segurança cabe agravo de instrumento.",
+"c": true,
+"prof": "Lei 12.016, art. 7º, § 1º.",
+"x": "Literal.",
+"e": "Liminar"
+},
+{
+"p": "Continua em vigor a vedação de liminar em mandado de segurança para reclassificação ou equiparação de servidores públicos.",
+"c": false,
+"prof": "ADI 4.296.",
+"x": "O STF declarou inconstitucional o art. 7º, § 2º.",
+"e": "Liminar"
+},
+{
+"p": "Na ADI 4.296, o STF declarou inconstitucional a exigência de oitiva prévia do Poder Público em 72 horas antes da liminar em mandado de segurança coletivo.",
+"c": true,
+"prof": "ADI 4.296; Lei 12.016, art. 22, § 2º.",
+"x": "Correto.",
+"e": "Liminar"
+},
+{
+"p": "Será decretada a perempção da liminar se o impetrante deixar de promover, por mais de 3 dias úteis, os atos que lhe cumprirem.",
+"c": true,
+"prof": "Lei 12.016, art. 8º.",
+"x": "Literal.",
+"e": "Liminar"
+},
+{
+"p": "Extingue-se o mandado de segurança se o impetrante não promove, no prazo assinado, a citação do litisconsorte passivo necessário.",
+"c": true,
+"prof": "Súmula 631 do STF.",
+"x": "Literal.",
+"e": "Litisconsórcio"
+},
+{
+"p": "A desistência do mandado de segurança após a sentença de mérito depende da anuência da autoridade coatora.",
+"c": false,
+"prof": "Tema 530 do STF.",
+"x": "Pode desistir a qualquer tempo, sem anuência.",
+"e": "Desistência"
+},
+{
+"p": "Concedida a segurança, a sentença estará sujeita obrigatoriamente ao duplo grau de jurisdição.",
+"c": true,
+"prof": "Lei 12.016, art. 14, § 1º.",
+"x": "Literal.",
+"e": "Reexame"
+},
+{
+"p": "Denegada a segurança, a sentença está sujeita ao reexame necessário.",
+"c": false,
+"prof": "Lei 12.016, art. 14, § 1º.",
+"x": "Só a concessiva.",
+"e": "Reexame"
+},
+{
+"p": "Denegado o mandado de segurança pela sentença, fica sem efeito a liminar concedida, retroagindo os efeitos da decisão contrária.",
+"c": true,
+"prof": "Súmula 405 do STF.",
+"x": "Literal.",
+"e": "Liminar"
+},
+{
+"p": "Cabe recurso ordinário ao STJ contra acórdão de Tribunal de Justiça que denega mandado de segurança em única instância.",
+"c": true,
+"prof": "CF, art. 105, II, b.",
+"x": "Só se denegatória.",
+"e": "Recursos"
+},
+{
+"p": "Cabe recurso ordinário ao STJ contra acórdão de Tribunal de Justiça que concede mandado de segurança originário.",
+"c": false,
+"prof": "CF, art. 105, II, b.",
+"x": "Contra a concessão, REsp ou RE.",
+"e": "Recursos"
+},
+{
+"p": "No mandado de segurança, o impetrado vencido é condenado em honorários de sucumbência.",
+"c": false,
+"prof": "Lei 12.016, art. 25; Súmula 512 do STF.",
+"x": "Não cabem honorários.",
+"e": "Honorários"
+},
+{
+"p": "A decisão denegatória de mandado de segurança que não aprecia o mérito não impede o uso da ação própria.",
+"c": true,
+"prof": "Súmula 304 do STF; Lei 12.016, art. 19.",
+"x": "Literal.",
+"e": "Coisa julgada"
+},
+{
+"p": "Os processos de mandado de segurança têm prioridade sobre todos os atos judiciais, salvo habeas corpus.",
+"c": true,
+"prof": "Lei 12.016, art. 20.",
+"x": "Literal.",
+"e": "Prioridade"
+},
+{
+"p": "Partido político com representação no Congresso Nacional pode impetrar mandado de segurança coletivo.",
+"c": true,
+"prof": "CF, art. 5º, LXX, a.",
+"x": "Literal.",
+"e": "MS coletivo"
+},
+{
+"p": "A impetração de mandado de segurança coletivo por entidade de classe depende de autorização expressa dos associados.",
+"c": false,
+"prof": "Súmula 629 do STF.",
+"x": "Independe.",
+"e": "MS coletivo"
+},
+{
+"p": "A entidade de classe tem legitimação para o mandado de segurança ainda quando a pretensão interesse apenas a uma parte da categoria.",
+"c": true,
+"prof": "Súmula 630 do STF.",
+"x": "Literal.",
+"e": "MS coletivo"
+},
+{
+"p": "O mandado de segurança coletivo induz litispendência em relação aos mandados de segurança individuais.",
+"c": false,
+"prof": "Lei 12.016, art. 22, § 1º.",
+"x": "Não induz.",
+"e": "MS coletivo"
+},
+{
+"p": "O impetrante individual que não desistir de seu mandado de segurança em 30 dias da ciência do coletivo não se beneficia da coisa julgada coletiva.",
+"c": true,
+"prof": "Lei 12.016, art. 22, § 1º.",
+"x": "Literal.",
+"e": "MS coletivo"
+},
+{
+"p": "O Ministério Público é legitimado para impetrar mandado de segurança coletivo pela Lei 12.016.",
+"c": false,
+"prof": "Lei 12.016, art. 21.",
+"x": "Não está no rol do art. 21.",
+"e": "MS coletivo"
+},
+{
+"p": "O pedido de suspensão de segurança pode ser formulado pela pessoa jurídica de direito público interessada ou pelo Ministério Público.",
+"c": true,
+"prof": "Lei 12.016, art. 15.",
+"x": "Literal.",
+"e": "Suspensão"
+},
+{
+"p": "A suspensão de segurança tem natureza recursal e permite ao presidente do tribunal reformar a decisão.",
+"c": false,
+"prof": "Lei 12.016, art. 15.",
+"x": "Não é recurso; só suspende a execução.",
+"e": "Suspensão"
+},
+{
+"p": "O agravo de instrumento interposto contra a liminar não prejudica nem condiciona o julgamento do pedido de suspensão.",
+"c": true,
+"prof": "Lei 12.016, art. 15, § 3º.",
+"x": "Literal.",
+"e": "Suspensão"
+},
+{
+"p": "Indeferido o pedido de suspensão, cabe novo pedido ao presidente do tribunal competente para conhecer de eventual recurso especial ou extraordinário.",
+"c": true,
+"prof": "Lei 12.016, art. 15, § 1º.",
+"x": "Suspensão da suspensão.",
+"e": "Suspensão"
+},
+{
+"p": "A suspensão de liminar deferida pelo presidente do tribunal vigora até o trânsito em julgado da decisão de mérito na ação principal.",
+"c": true,
+"prof": "Lei 8.437, art. 4º, § 9º.",
+"x": "Literal.",
+"e": "Suspensão"
+},
+{
+"p": "Não será cabível medida liminar contra o Poder Público que esgote, no todo ou em parte, o objeto da ação.",
+"c": true,
+"prof": "Lei 8.437, art. 1º, § 3º.",
+"x": "Literal.",
+"e": "Liminar"
+},
+{
+"p": "A decisão da ADC 4 impede a antecipação de tutela em causa de natureza previdenciária.",
+"c": false,
+"prof": "Súmula 729 do STF.",
+"x": "Não se aplica às causas previdenciárias.",
+"e": "Liminar"
+},
+{
+"p": "Na ação civil pública, a liminar contra o Poder Público será concedida, quando cabível, após a audiência do seu representante judicial em 72 horas.",
+"c": true,
+"prof": "Lei 8.437, art. 2º.",
+"x": "Literal.",
+"e": "Liminar"
+},
+{
+"p": "Pessoa jurídica pode propor ação popular em defesa da moralidade administrativa.",
+"c": false,
+"prof": "Súmula 365 do STF.",
+"x": "Só o cidadão.",
+"e": "Ação popular"
+},
+{
+"p": "A prova da cidadania para ingresso em juízo com ação popular é feita com o título eleitoral ou documento correspondente.",
+"c": true,
+"prof": "Lei 4.717, art. 1º, § 3º.",
+"x": "Literal.",
+"e": "Ação popular"
+},
+{
+"p": "Não é condição para o cabimento da ação popular a demonstração de prejuízo material aos cofres públicos.",
+"c": true,
+"prof": "Tema 836 do STF.",
+"x": "Literal.",
+"e": "Ação popular"
+},
+{
+"p": "A pessoa jurídica cujo ato é impugnado na ação popular pode abster-se de contestar ou atuar ao lado do autor.",
+"c": true,
+"prof": "Lei 4.717, art. 6º, § 3º.",
+"x": "Intervenção móvel.",
+"e": "Ação popular"
+},
+{
+"p": "Na ação popular, o Ministério Público pode assumir a defesa do ato impugnado quando entender que ele é legal.",
+"c": false,
+"prof": "Lei 4.717, art. 6º, § 4º.",
+"x": "É vedado em qualquer hipótese.",
+"e": "Ação popular"
+},
+{
+"p": "Se o autor popular desistir da ação, qualquer cidadão ou o Ministério Público pode promover o seu prosseguimento em 90 dias da última publicação do edital.",
+"c": true,
+"prof": "Lei 4.717, art. 9º.",
+"x": "Literal.",
+"e": "Ação popular"
+},
+{
+"p": "Na ação popular, o prazo de contestação é de 20 dias, prorrogável por mais 20.",
+"c": true,
+"prof": "Lei 4.717, art. 7º, IV.",
+"x": "Literal.",
+"e": "Ação popular"
+},
+{
+"p": "A sentença que julga procedente a ação popular está sujeita ao duplo grau obrigatório.",
+"c": false,
+"prof": "Lei 4.717, art. 19.",
+"x": "É a de improcedência ou carência.",
+"e": "Ação popular"
+},
+{
+"p": "A sentença de improcedência da ação popular por deficiência de prova não impede outra ação com idêntico fundamento, valendo-se de nova prova.",
+"c": true,
+"prof": "Lei 4.717, art. 18.",
+"x": "Coisa julgada secundum eventum probationis.",
+"e": "Ação popular"
+},
+{
+"p": "A ação popular prescreve em 5 anos.",
+"c": true,
+"prof": "Lei 4.717, art. 21.",
+"x": "Literal.",
+"e": "Ação popular"
+},
+{
+"p": "Na ação popular proposta contra ato do Presidente da República, a competência originária é do STF.",
+"c": false,
+"prof": "Lei 4.717, art. 5º.",
+"x": "Juízo de primeiro grau.",
+"e": "Ação popular"
+},
+{
+"p": "O autor da ação popular é isento de custas e do ônus da sucumbência, salvo comprovada má-fé.",
+"c": true,
+"prof": "CF, art. 5º, LXXIII.",
+"x": "Literal.",
+"e": "Ação popular"
+},
+{
+"p": "O Município é legitimado para propor ação civil pública.",
+"c": true,
+"prof": "Lei 7.347, art. 5º, III.",
+"x": "Literal.",
+"e": "ACP"
+},
+{
+"p": "Não cabe ação civil pública para a defesa da ordem urbanística.",
+"c": false,
+"prof": "Lei 7.347, art. 1º, VI.",
+"x": "Cabe.",
+"e": "ACP"
+},
+{
+"p": "Não é cabível ação civil pública para veicular pretensões que envolvam tributos.",
+"c": true,
+"prof": "Lei 7.347, art. 1º, parágrafo único.",
+"x": "Literal.",
+"e": "ACP"
+},
+{
+"p": "O requisito de pré-constituição de 1 ano da associação pode ser dispensado pelo juiz diante de manifesto interesse social.",
+"c": true,
+"prof": "Lei 7.347, art. 5º, § 4º.",
+"x": "Literal.",
+"e": "ACP"
+},
+{
+"p": "As associações podem tomar compromisso de ajustamento de conduta com eficácia de título executivo extrajudicial.",
+"c": false,
+"prof": "Lei 7.347, art. 5º, § 6º.",
+"x": "Só órgãos públicos.",
+"e": "TAC"
+},
+{
+"p": "O compromisso de ajustamento de conduta tem eficácia de título executivo extrajudicial.",
+"c": true,
+"prof": "Lei 7.347, art. 5º, § 6º.",
+"x": "Literal.",
+"e": "TAC"
+},
+{
+"p": "O inquérito civil é procedimento obrigatório e prévio à ação civil pública proposta pelo MP.",
+"c": false,
+"prof": "Lei 7.347, art. 8º.",
+"x": "É facultativo.",
+"e": "Inquérito civil"
+},
+{
+"p": "A promoção de arquivamento do inquérito civil é submetida ao Conselho Superior do Ministério Público.",
+"c": true,
+"prof": "Lei 7.347, art. 9º.",
+"x": "Literal.",
+"e": "Inquérito civil"
+},
+{
+"p": "Constitui crime a recusa, o retardamento ou a omissão de dados técnicos indispensáveis à propositura da ação civil, quando requisitados pelo MP.",
+"c": true,
+"prof": "Lei 7.347, art. 10.",
+"x": "Literal.",
+"e": "ACP"
+},
+{
+"p": "A ação civil pública deve ser proposta no foro do local onde ocorrer o dano, cujo juízo tem competência funcional.",
+"c": true,
+"prof": "Lei 7.347, art. 2º.",
+"x": "Literal.",
+"e": "ACP"
+},
+{
+"p": "É válida a limitação da coisa julgada da ação civil pública aos limites da competência territorial do órgão prolator.",
+"c": false,
+"prof": "Tema 1.075 do STF.",
+"x": "Declarada inconstitucional.",
+"e": "ACP"
+},
+{
+"p": "A multa cominada liminarmente na ação civil pública só é exigível após o trânsito em julgado da decisão favorável ao autor.",
+"c": true,
+"prof": "Lei 7.347, art. 12, § 2º.",
+"x": "Embora devida desde o descumprimento.",
+"e": "ACP"
+},
+{
+"p": "Na ação civil pública proposta pelo MP, este deve adiantar os honorários periciais.",
+"c": false,
+"prof": "Tema 510 do STJ.",
+"x": "A Fazenda a que o MP se vincula adianta.",
+"e": "ACP"
+},
+{
+"p": "Nos direitos individuais homogêneos, a coisa julgada coletiva é erga omnes apenas no caso de procedência.",
+"c": true,
+"prof": "CDC, art. 103, III.",
+"x": "Literal.",
+"e": "Coisa julgada"
+},
+{
+"p": "A intervenção judicial em políticas públicas, em caso de deficiência grave do serviço, não viola a separação dos Poderes.",
+"c": true,
+"prof": "Tema 698 do STF.",
+"x": "Preferência por plano e metas.",
+"e": "Políticas públicas"
+},
+{
+"p": "São imprescritíveis todas as ações de ressarcimento ao erário.",
+"c": false,
+"prof": "Temas 666, 897 e 899 do STF.",
+"x": "Só as de ato doloso de improbidade.",
+"e": "Prescrição"
+},
+{
+"p": "É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas.",
+"c": true,
+"prof": "Tema 899 do STF.",
+"x": "Literal.",
+"e": "Prescrição"
+},
+{
+"p": "É imprescritível a pretensão de reparação civil de dano ambiental.",
+"c": true,
+"prof": "Tema 999 do STF.",
+"x": "Literal.",
+"e": "Prescrição"
+},
+{
+"p": "Após a Lei 14.230/2021, o Município não pode propor ação de improbidade, que é exclusiva do MP.",
+"c": false,
+"prof": "ADIs 7.042 e 7.043.",
+"x": "Legitimidade concorrente restabelecida.",
+"e": "Improbidade"
+},
+{
+"p": "Não há foro por prerrogativa de função na ação de improbidade administrativa.",
+"c": true,
+"prof": "Jurisprudência do STF.",
+"x": "O Prefeito responde em primeiro grau.",
+"e": "Improbidade"
+},
+{
+"p": "Na ação de improbidade, o réu é notificado para apresentar defesa prévia de 15 dias antes do recebimento da inicial.",
+"c": false,
+"prof": "Lei 8.429, art. 17, § 7º.",
+"x": "Defesa prévia extinta; citação para contestar em 30 dias.",
+"e": "Improbidade"
+},
+{
+"p": "Para cada ato de improbidade deve ser indicado apenas um tipo dentre os arts. 9º, 10 e 11 da Lei 8.429.",
+"c": true,
+"prof": "Lei 8.429, art. 17, § 10-D.",
+"x": "Literal.",
+"e": "Improbidade"
+},
+{
+"p": "Na ação de improbidade, a revelia gera presunção de veracidade dos fatos alegados pelo autor.",
+"c": false,
+"prof": "Lei 8.429, art. 17, § 19, I.",
+"x": "Não se aplica.",
+"e": "Improbidade"
+},
+{
+"p": "O juiz pode converter a ação de improbidade em ação civil pública quando identificar irregularidades sem os requisitos para as sanções.",
+"c": true,
+"prof": "Lei 8.429, art. 17, § 16.",
+"x": "Literal.",
+"e": "Improbidade"
+},
+{
+"p": "A sentença de improcedência na ação de improbidade está sujeita a remessa necessária.",
+"c": false,
+"prof": "Lei 8.429, art. 17, § 19, IV; art. 17-C, § 3º.",
+"x": "Não há remessa.",
+"e": "Improbidade"
+},
+{
+"p": "A indisponibilidade de bens na improbidade exige demonstração de perigo de dano irreparável ou de risco ao resultado útil do processo.",
+"c": true,
+"prof": "Lei 8.429, art. 16, § 3º.",
+"x": "O perigo não é presumido.",
+"e": "Indisponibilidade"
+},
+{
+"p": "A indisponibilidade de bens deve abranger o valor da futura multa civil.",
+"c": false,
+"prof": "Lei 8.429, art. 16, § 10.",
+"x": "Não incide sobre a multa.",
+"e": "Indisponibilidade"
+},
+{
+"p": "É vedada a indisponibilidade de até 40 salários mínimos depositados em poupança, outras aplicações ou conta-corrente.",
+"c": true,
+"prof": "Lei 8.429, art. 16, § 13.",
+"x": "Literal.",
+"e": "Indisponibilidade"
+},
+{
+"p": "O acordo de não persecução civil depende de homologação judicial, ainda que celebrado antes do ajuizamento da ação.",
+"c": true,
+"prof": "Lei 8.429, art. 17-B, § 1º, III.",
+"x": "Literal.",
+"e": "ANPC"
+},
+{
+"p": "A pretensão sancionadora da improbidade prescreve em 8 anos, contados da ocorrência do fato.",
+"c": true,
+"prof": "Lei 8.429, art. 23.",
+"x": "Literal.",
+"e": "Prescrição"
+},
+{
+"p": "Interrompida a prescrição na improbidade, o prazo recomeça a correr por inteiro.",
+"c": false,
+"prof": "Lei 8.429, art. 23, § 5º.",
+"x": "Recomeça pela metade.",
+"e": "Prescrição"
+},
+{
+"p": "O novo regime prescricional da Lei 14.230 é irretroativo.",
+"c": true,
+"prof": "Tema 1.199 do STF.",
+"x": "Marcos a partir de 26/10/2021.",
+"e": "Tema 1.199"
+},
+{
+"p": "O mandado de injunção cabe quando a falta total ou parcial de norma regulamentadora tornar inviável o exercício de direitos constitucionais.",
+"c": true,
+"prof": "Lei 13.300, art. 2º.",
+"x": "Literal.",
+"e": "MI"
+},
+{
+"p": "Reconhecida a mora, o mandado de injunção determinará prazo razoável para a edição da norma e as condições para o exercício do direito caso a mora não seja suprida.",
+"c": true,
+"prof": "Lei 13.300, art. 8º.",
+"x": "Concretista intermediária.",
+"e": "MI"
+},
+{
+"p": "A norma regulamentadora superveniente produz efeitos retroativos em relação aos beneficiados por decisão transitada em julgado no MI.",
+"c": false,
+"prof": "Lei 13.300, art. 11.",
+"x": "Efeitos ex nunc, salvo se mais favorável.",
+"e": "MI"
+},
+{
+"p": "A Defensoria Pública é legitimada para o mandado de injunção coletivo.",
+"c": true,
+"prof": "Lei 13.300, art. 12, IV.",
+"x": "Literal.",
+"e": "MI"
+},
+{
+"p": "Cabe habeas data mesmo sem prévio requerimento administrativo.",
+"c": false,
+"prof": "Súmula 2 do STJ.",
+"x": "Exige recusa ou demora.",
+"e": "HD"
+},
+{
+"p": "É de caráter público o banco de dados cujas informações possam ser transmitidas a terceiros.",
+"c": true,
+"prof": "Lei 9.507, art. 1º, parágrafo único.",
+"x": "Literal.",
+"e": "HD"
+},
+{
+"p": "O habeas data é adequado para o contribuinte obter os seus dados de pagamento de tributos nos sistemas da administração fazendária.",
+"c": true,
+"prof": "Tema 582 do STF.",
+"x": "Literal.",
+"e": "HD"
+},
+{
+"p": "São gratuitos o procedimento administrativo e a ação de habeas data.",
+"c": true,
+"prof": "Lei 9.507, art. 21.",
+"x": "Literal.",
+"e": "HD"
+},
+{
+"p": "Sobre o prazo para impetrar mandado de segurança, é correto afirmar:",
+"alts": [
+"é prescricional e se interrompe pelo pedido de reconsideração",
+"é decadencial de 120 dias contados da ciência do ato, e o pedido de reconsideração administrativo não o interrompe",
+"é de 120 dias contados da publicação da lei que fundamenta o ato",
+"aplica-se também ao mandado de segurança preventivo",
+"sua perda extingue o direito material"
+],
+"r": 1,
+"x": "Lei 12.016, art. 23; Súmulas 430 e 632 do STF.",
+"n": [
+"Decadencial; não interrompe.",
+"Correta.",
+"Da ciência do ato.",
+"Não se aplica ao preventivo.",
+"Só a via do MS."
+],
+"e": "Prazo do MS."
+},
+{
+"p": "Na Lei 12.016/2009, está sujeita obrigatoriamente ao duplo grau de jurisdição a sentença que",
+"alts": [
+"denegar a segurança",
+"extinguir o processo sem resolução de mérito",
+"conceder a segurança",
+"indeferir a inicial",
+"julgar o MS coletivo improcedente"
+],
+"r": 2,
+"x": "Lei 12.016, art. 14, § 1º.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Reexame."
+},
+{
+"p": "Um servidor teve gratificação suprimida em 2024 e obteve, em 2025, sentença concessiva em mandado de segurança impetrado em março daquele ano. Quanto às parcelas, o pagamento por força do MS abrange",
+"alts": [
+"todas as parcelas desde a supressão",
+"apenas as prestações vencidas a partir do ajuizamento da inicial",
+"apenas as parcelas posteriores ao trânsito em julgado",
+"as parcelas dos últimos 5 anos",
+"nenhuma parcela, pois o MS não tem efeitos patrimoniais"
+],
+"r": 1,
+"x": "Lei 12.016, art. 14, § 4º; Súmula 271 do STF.",
+"n": [
+"Só desde a inicial.",
+"Correta.",
+"Não.",
+"Não.",
+"Tem, a partir da inicial."
+],
+"e": "Efeitos patrimoniais."
+},
+{
+"p": "Quanto às liminares em mandado de segurança, segundo o STF na ADI 4.296,",
+"alts": [
+"é constitucional a vedação de liminar para reclassificação de servidores",
+"é inconstitucional a vedação genérica do art. 7º, § 2º, da Lei 12.016",
+"é inconstitucional o prazo decadencial de 120 dias",
+"é obrigatória a oitiva prévia do Poder Público em 72 horas no MS coletivo",
+"a liminar só pode ser concedida após as informações"
+],
+"r": 1,
+"x": "ADI 4.296.",
+"n": [
+"Inconstitucional.",
+"Correta.",
+"Constitucional (Súmula 632).",
+"Declarada inconstitucional.",
+"Não."
+],
+"e": "ADI 4.296."
+},
+{
+"p": "Contra acórdão de Tribunal de Justiça que, em mandado de segurança de sua competência originária, concede a ordem contra o Prefeito, o Município pode interpor",
+"alts": [
+"recurso ordinário ao STJ",
+"apelação",
+"embargos infringentes",
+"recurso especial ou extraordinário, conforme o caso",
+"agravo de instrumento"
+],
+"r": 3,
+"x": "Lei 12.016, art. 18; CF, arts. 102, III, e 105, II, b, e III.",
+"n": [
+"Só contra denegação.",
+"Não.",
+"Vedados (art. 25).",
+"Correta.",
+"Não."
+],
+"e": "Recursos no MS."
+},
+{
+"p": "São legitimados para o mandado de segurança coletivo, nos termos da Lei 12.016/2009,",
+"alts": [
+"o Ministério Público e a Defensoria Pública",
+"qualquer partido político registrado no TSE",
+"associação constituída há 6 meses",
+"partido político com representação no Congresso Nacional e associação legalmente constituída e em funcionamento há pelo menos 1 ano",
+"o cidadão eleitor"
+],
+"r": 3,
+"x": "Lei 12.016, art. 21; CF, art. 5º, LXX.",
+"n": [
+"Não estão no art. 21.",
+"Precisa de representação no CN.",
+"1 ano.",
+"Correta.",
+"Não."
+],
+"e": "MS coletivo."
+},
+{
+"p": "Sobre o pedido de suspensão de segurança, assinale a correta.",
+"alts": [
+"tem natureza de recurso e devolve ao tribunal o exame do mérito",
+"depende da prévia interposição de agravo de instrumento",
+"é dirigido ao presidente do tribunal para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas",
+"pode ser requerido por qualquer particular prejudicado",
+"perde efeito com a sentença de mérito"
+],
+"r": 2,
+"x": "Lei 12.016, art. 15; Lei 8.437, art. 4º.",
+"n": [
+"Não é recurso.",
+"Independe (art. 15, § 3º).",
+"Correta.",
+"PJ de direito público e MP.",
+"Vigora até o trânsito."
+],
+"e": "Suspensão."
+},
+{
+"p": "Sobre a ação popular, é correto afirmar:",
+"alts": [
+"pode ser proposta por associação de defesa do patrimônio",
+"exige a prova de prejuízo material aos cofres públicos",
+"a pessoa jurídica cujo ato é impugnado pode atuar ao lado do autor, se útil ao interesse público",
+"o MP pode assumir a defesa do ato impugnado",
+"prescreve em 10 anos"
+],
+"r": 2,
+"x": "Lei 4.717, arts. 6º, § 3º e § 4º, e 21; Súmula 365; Tema 836.",
+"n": [
+"Só cidadão.",
+"Não exige.",
+"Correta.",
+"Vedado.",
+"5 anos."
+],
+"e": "Ação popular."
+},
+{
+"p": "Na ação popular, a sentença que julga improcedente o pedido",
+"alts": [
+"produz efeitos imediatamente",
+"admite apelação sem efeito suspensivo",
+"está sujeita ao duplo grau de jurisdição e só produz efeito após confirmada pelo tribunal",
+"faz sempre coisa julgada erga omnes",
+"condena o autor em honorários"
+],
+"r": 2,
+"x": "Lei 4.717, arts. 18 e 19.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Exceto deficiência de prova.",
+"Isento, salvo má-fé."
+],
+"e": "Reexame invertido."
+},
+{
+"p": "Não é legitimado para propor ação civil pública, segundo a Lei 7.347/1985,",
+"alts": [
+"o Município",
+"a Defensoria Pública",
+"a sociedade de economia mista",
+"o cidadão, individualmente",
+"a associação constituída há mais de 1 ano com pertinência temática"
+],
+"r": 3,
+"x": "Lei 7.347, art. 5º.",
+"n": [
+"Legitimado.",
+"Legitimada.",
+"Legitimada.",
+"Correta: o cidadão usa a ação popular.",
+"Legitimada."
+],
+"e": "Legitimados da ACP."
+},
+{
+"p": "Segundo o STF no Tema 1.075, quanto à coisa julgada na ação civil pública,",
+"alts": [
+"fica limitada à competência territorial do órgão prolator",
+"é inconstitucional a limitação territorial, e as ações de efeitos nacionais ou regionais seguem a competência do art. 93, II, do CDC",
+"só alcança os associados residentes na comarca",
+"depende de autorização dos substituídos",
+"só vale para o MP"
+],
+"r": 1,
+"x": "Tema 1.075 do STF.",
+"n": [
+"Inconstitucional.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Tema 1.075."
+},
+{
+"p": "Sobre o compromisso de ajustamento de conduta, é correto afirmar:",
+"alts": [
+"pode ser tomado por associações civis",
+"tem eficácia de título executivo judicial",
+"permite renunciar ao direito material lesado",
+"pode ser tomado pelos órgãos públicos legitimados e tem eficácia de título executivo extrajudicial",
+"depende de homologação judicial para valer"
+],
+"r": 3,
+"x": "Lei 7.347, art. 5º, § 6º.",
+"n": [
+"Só órgãos públicos.",
+"Extrajudicial.",
+"Não.",
+"Correta.",
+"Não depende."
+],
+"e": "TAC."
+},
+{
+"p": "Segundo o STF (Temas 666, 897 e 899), é imprescritível a pretensão de ressarcimento ao erário",
+"alts": [
+"decorrente de qualquer ilícito civil",
+"fundada em decisão do Tribunal de Contas",
+"decorrente de ato culposo de improbidade",
+"fundada na prática de ato doloso tipificado na Lei de Improbidade",
+"contra particular que causou acidente com veículo público"
+],
+"r": 3,
+"x": "Temas 666, 897 e 899 do STF.",
+"n": [
+"Prescritível.",
+"Prescritível.",
+"Exige dolo.",
+"Correta.",
+"Ilícito civil, prescritível."
+],
+"e": "Prescrição do ressarcimento."
+},
+{
+"p": "Após a Lei 14.230/2021 e as ADIs 7.042 e 7.043, a ação de improbidade administrativa",
+"alts": [
+"é de legitimidade exclusiva do Ministério Público",
+"é julgada pelo TJ quando o réu é Prefeito",
+"pode ser proposta pelo MP ou pela pessoa jurídica lesada",
+"admite defesa prévia de 15 dias antes do recebimento",
+"sujeita a sentença de improcedência ao reexame necessário"
+],
+"r": 2,
+"x": "ADIs 7.042 e 7.043; Lei 8.429, art. 17.",
+"n": [
+"Concorrente.",
+"Sem foro.",
+"Correta.",
+"Extinta.",
+"Sem remessa."
+],
+"e": "Improbidade."
+},
+{
+"p": "Na ação de improbidade, conforme a Lei 8.429/1992 com a redação da Lei 14.230/2021,",
+"alts": [
+"a revelia induz presunção de veracidade dos fatos",
+"o juiz pode inverter o ônus da prova contra o réu",
+"é nula a condenação por tipo diverso daquele definido na petição inicial",
+"podem ser propostas várias ações pelo mesmo fato",
+"o silêncio do réu no interrogatório importa confissão"
+],
+"r": 2,
+"x": "Lei 8.429, art. 17, §§ 10-F e 19.",
+"n": [
+"Afastada.",
+"Afastada.",
+"Correta.",
+"Vedado.",
+"Não importa."
+],
+"e": "Garantias do réu."
+},
+{
+"p": "A indisponibilidade de bens na ação de improbidade",
+"alts": [
+"dispensa demonstração de perigo, que é presumido",
+"deve garantir o ressarcimento e a multa civil",
+"começa pelo bloqueio de contas bancárias",
+"exige demonstração de perigo de dano irreparável ou de risco ao resultado útil do processo e não incide sobre a multa civil",
+"pode recair sobre qualquer valor em poupança"
+],
+"r": 3,
+"x": "Lei 8.429, art. 16, §§ 3º, 10, 11 e 13.",
+"n": [
+"Não presumido.",
+"Sem multa.",
+"Contas por último.",
+"Correta.",
+"Até 40 SM é impenhorável."
+],
+"e": "Indisponibilidade."
+},
+{
+"p": "No mandado de injunção, a Lei 13.300/2016 prevê que",
+"alts": [
+"a decisão tem sempre eficácia erga omnes",
+"o MP não tem legitimidade para o MI coletivo",
+"reconhecida a mora, será fixado prazo razoável para a edição da norma, dispensado se o impetrado já descumpriu prazo em MI anterior",
+"a norma superveniente retroage sempre",
+"cabe MI para regulamentar direito previsto apenas em lei"
+],
+"r": 2,
+"x": "Lei 13.300, arts. 8º, 9º, 11 e 12.",
+"n": [
+"Em regra, inter partes.",
+"Tem.",
+"Correta.",
+"Ex nunc, salvo mais favorável.",
+"Só direito constitucional."
+],
+"e": "Mandado de injunção."
+},
+{
+"p": "Sobre o habeas data, assinale a correta.",
+"alts": [
+"cabe para obter cópia de processo administrativo de terceiro",
+"dispensa prévio requerimento administrativo",
+"tem prioridade sobre o mandado de segurança",
+"exige prova da recusa ou do decurso de mais de 10 dias sem decisão sobre o pedido de acesso",
+"é sujeito a custas"
+],
+"r": 3,
+"x": "Lei 9.507, arts. 8º, 19 e 21; Súmula 2 do STJ.",
+"n": [
+"Informações pessoais.",
+"Exige.",
+"Exceto HC e MS.",
+"Correta.",
+"Gratuito."
+],
+"e": "Habeas data."
+}
+]
+},
+"juizados": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>60 salários mínimos</b><span>teto dos Juizados Especiais da Fazenda Pública e dos Federais (Lei 12.153, art. 2º; Lei 10.259, art. 3º)</span></div><div class=\"lt-stat\"><b>30 salários mínimos</b><span>RPV dos Municípios enquanto não houver lei própria (Lei 12.153, art. 13, § 3º, II)</span></div><div class=\"lt-stat\"><b>60 dias</b><span>prazo para pagar a RPV, contado da entrega da requisição (Lei 12.153, art. 13, I)</span></div><div class=\"lt-stat\"><b>10 dias corridos</b><span>prazo para consulta da intimação eletrônica no portal, sob pena de intimação tácita (Lei 11.419, art. 5º, § 3º)</span></div></div>\n<h3>1. O sistema dos Juizados Especiais</h3>\n<ul><li>A Constituição determina a criação de <b>juizados especiais</b>, providos por juízes togados, ou togados e leigos, competentes para a conciliação, o julgamento e a execução de <b>causas cíveis de menor complexidade</b> e infrações penais de menor potencial ofensivo, mediante os procedimentos <b>oral e sumaríssimo</b>, permitidos a transação e o julgamento de recursos por <b>turmas de juízes de primeiro grau</b> (CF, art. 98, I). O § 1º do art. 98 prevê a criação dos juizados especiais no âmbito da <b>Justiça Federal</b>.</li><li>Três leis formam o chamado <b>Sistema dos Juizados Especiais</b>, que funciona como um microssistema, com aplicação recíproca e subsidiária: a <b>Lei 9.099/1995</b> (Juizados Especiais Cíveis e Criminais estaduais), a <b>Lei 10.259/2001</b> (Juizados Especiais Federais) e a <b>Lei 12.153/2009</b> (Juizados Especiais da Fazenda Pública dos Estados, do DF, dos Territórios e dos Municípios). A Lei 12.153 manda aplicar, <b>subsidiariamente</b>, o CPC, a Lei 9.099 e a Lei 10.259 (art. 27).</li><li><b>Critérios orientadores</b> (Lei 9.099, art. 2º): o processo orientar-se-á pelos critérios da <b>oralidade</b>, <b>simplicidade</b>, <b>informalidade</b>, <b>economia processual</b> e <b>celeridade</b>, buscando, sempre que possível, a <b>conciliação ou a transação</b>. Esses critérios explicam boa parte das regras: poucos recursos, ausência de reexame necessário, ausência de prazos diferenciados para a Fazenda, sentença sem relatório, citação e intimação simplificadas.</li><li><b>Por que isso importa ao Procurador Municipal</b>: o <b>Juizado Especial da Fazenda Pública</b> (JEFaz) recebe grande parte das demandas contra o Município: servidores que pedem diferenças de vencimentos, contribuintes que questionam multas de trânsito e lançamentos de pequeno valor, cidadãos que pedem medicamentos, indenizações por buracos na via pública, restituição de taxas. Por isso, o Procurador precisa dominar as regras próprias do JEFaz, que são <b>bem diferentes</b> das prerrogativas que a Fazenda tem no CPC: <b>não há prazo em dobro</b>, <b>não há reexame necessário</b> e o pagamento é feito por <b>RPV em 60 dias</b>, sem precatório, até o limite fixado em lei.</li></ul>\n<table class=\"tab\"><thead><tr><th>Juizado</th><th>Lei</th><th>Teto</th><th>Quem pode ser réu</th></tr></thead><tbody><tr><td><b>Especial Cível</b> (estadual)</td><td>Lei 9.099/1995</td><td>40 salários mínimos</td><td>particulares; <b>não</b> pessoas jurídicas de direito público</td></tr><tr><td><b>Especial Federal</b></td><td>Lei 10.259/2001</td><td>60 salários mínimos</td><td>União, autarquias, fundações e empresas públicas federais</td></tr><tr><td><b>Especial da Fazenda Pública</b></td><td>Lei 12.153/2009</td><td>60 salários mínimos</td><td>Estados, DF, Territórios, <b>Municípios</b>, suas autarquias, fundações e empresas públicas</td></tr></tbody></table>\n<h3>2. Juizado Especial da Fazenda Pública: competência</h3>\n<div class=\"lt-art\"><div class=\"art-cab\">📜 Lei 12.153/2009, art. 2º</div><div class=\"art-lei\">É de competência dos Juizados Especiais da Fazenda Pública processar, conciliar e julgar causas cíveis de interesse dos Estados, do Distrito Federal, dos Territórios e dos Municípios, até o valor de 60 (sessenta) salários mínimos.</div></div>\n<ul><li><b>Valor</b>: o JEFaz julga as causas cíveis de interesse dos Estados, do DF, dos Territórios e dos <b>Municípios</b> até o valor de <b>60 salários mínimos</b> (art. 2º). Quando a pretensão versar sobre <b>obrigações vincendas</b>, para fins de competência, a soma de <b>12 parcelas vincendas</b> e de eventuais parcelas vencidas não poderá exceder esse valor (art. 2º, § 2º).</li><li><b>Competência absoluta</b>: no foro onde estiver instalado o Juizado Especial da Fazenda Pública, a sua competência é <b>absoluta</b> (art. 2º, § 4º). Isso é uma diferença importante em relação ao Juizado Cível da Lei 9.099, em que o autor pode <b>optar</b> entre o juizado e a justiça comum (e, se optar pelo juizado, renuncia ao valor excedente, art. 3º, § 3º, da Lei 9.099). No JEFaz, se a causa estiver dentro do teto e não for excluída por lei, o autor <b>não pode escolher</b> a Vara da Fazenda Pública comum.</li><li><b>Causas excluídas</b> (art. 2º, § 1º): não se incluem na competência do JEFaz: I, as ações de <b>mandado de segurança</b>, de <b>desapropriação</b>, de <b>divisão e demarcação</b>, <b>populares</b>, por <b>improbidade administrativa</b>, <b>execuções fiscais</b> e as demandas sobre <b>direitos ou interesses difusos e coletivos</b>; II, as causas sobre <b>bens imóveis</b> dos Estados, DF, Territórios e Municípios, autarquias e fundações públicas a eles vinculadas; III, as causas que tenham como objeto a <b>impugnação da pena de demissão</b> imposta a servidores públicos civis ou <b>sanções disciplinares</b> aplicadas a militares.</li><li><b>Interpretação das exclusões</b>: a exclusão é <b>taxativa</b>. Assim, cabem no JEFaz, por exemplo: a ação de servidor que pede <b>diferenças salariais</b> ou <b>adicional</b>; a ação <b>anulatória de multa de trânsito</b> ou de lançamento tributário de pequeno valor (o que se exclui é a <b>execução fiscal</b>, não a ação do contribuinte contra o fisco); a ação de <b>indenização</b> por responsabilidade civil do Município; a ação para fornecimento de <b>medicamento</b>; a impugnação de <b>suspensão</b> ou <b>advertência</b> aplicada a servidor civil (o que se exclui é a <b>demissão</b> do servidor civil).</li><li><b>Complexidade da causa</b>: o STJ entende que, nos Juizados da Fazenda Pública e Federais, a competência é fixada pelo <b>valor</b> e pelas <b>exclusões legais</b>, e não pela complexidade da matéria. A necessidade de <b>perícia</b> não afasta, por si só, a competência do juizado, porque a lei prevê o <b>exame técnico</b> (Lei 12.153, art. 10; Lei 10.259, art. 12).</li><li><b>Instalação e transição</b>: os Juizados da Fazenda Pública deveriam ser instalados pelos Tribunais de Justiça em <b>2 anos</b> da vigência da lei (art. 22), e os tribunais puderam <b>limitar</b> a sua competência por até 5 anos, conforme a necessidade de organização dos serviços (art. 23). As demandas ajuizadas <b>até a data de instalação</b> do juizado <b>não são remetidas</b> a ele (art. 24). Hoje, a regra geral é a competência absoluta nas comarcas onde o JEFaz está instalado; nas comarcas sem juizado instalado, a causa tramita na vara comum, que pode, conforme a organização local, aplicar o rito da Lei 12.153 por meio de <b>juizado adjunto</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No JEFaz o autor pode optar entre o juizado e a vara da Fazenda Pública</span><br>✅ <span class=\"certo\">No foro onde instalado, a competência do JEFaz é <b>absoluta</b> (art. 2º, § 4º)</span></li><li>❌ <span class=\"banca\">A ação anulatória de multa de trânsito está excluída do JEFaz por ser matéria fiscal</span><br>✅ <span class=\"certo\">Excluída é a <b>execução fiscal</b>; a ação do particular contra a multa cabe no JEFaz</span></li><li>❌ <span class=\"banca\">A impugnação de suspensão disciplinar de servidor civil está excluída do JEFaz</span><br>✅ <span class=\"certo\">Excluída é a impugnação de <b>demissão</b> do servidor civil (art. 2º, § 1º, III)</span></li><li>❌ <span class=\"banca\">A necessidade de perícia afasta a competência do JEFaz</span><br>✅ <span class=\"certo\"><b>Não afasta</b>; há exame técnico (art. 10)</span></li></ol></div>\n<h3>3. Partes, citação, prazos e representação da Fazenda no JEFaz</h3>\n<ul><li><b>Partes</b> (Lei 12.153, art. 5º): podem ser partes no JEFaz: I, como <b>autores</b>, as <b>pessoas físicas</b> e as <b>microempresas e empresas de pequeno porte</b>, assim definidas na LC 123/2006; II, como <b>réus</b>, os <b>Estados, o DF, os Territórios e os Municípios</b>, bem como <b>autarquias, fundações e empresas públicas</b> a eles vinculadas. Repare: o ente público <b>não pode ser autor</b> no JEFaz. Se o Município quiser cobrar um particular, deve usar a justiça comum (ou a execução fiscal, se for dívida ativa). E a <b>sociedade de economia mista</b> não está no rol de réus.</li><li><b>Citação e intimação</b> (art. 6º): quanto às citações e intimações, aplicam-se as disposições contidas no CPC. Na prática, a citação do Município é feita por meio <b>eletrônico</b> ou na pessoa do seu representante judicial (CPC, art. 242, § 3º: a citação da União, dos Estados, do DF, dos Municípios e de suas autarquias e fundações será realizada perante o <b>órgão de Advocacia Pública</b> responsável por sua representação judicial).</li><li><b>Sem prazo diferenciado</b> (art. 7º): <b>não haverá prazo diferenciado</b> para a prática de qualquer ato processual pelas pessoas jurídicas de direito público, <b>inclusive a interposição de recursos</b>, devendo a <b>citação</b> para a audiência de conciliação ser efetuada com antecedência mínima de <b>30 dias</b>. Em outras palavras, o <b>prazo em dobro</b> do art. 183 do CPC <b>não se aplica</b> no JEFaz. O Procurador que interpõe recurso inominado em 20 dias, contando prazo em dobro, perde o prazo.</li><li><b>Poderes de conciliação</b> (art. 8º): os representantes judiciais dos réus presentes à audiência poderão <b>conciliar, transigir ou desistir</b> nos processos da competência dos Juizados Especiais, <b>nos termos e nas hipóteses previstas na lei do respectivo ente</b> da Federação. Sem lei municipal autorizando, o Procurador <b>não pode</b> fazer acordo no juizado. Por isso, muitos Municípios editam leis que autorizam a Procuradoria a fazer acordos até determinado valor, em matérias pacificadas (por exemplo, em demandas repetitivas de servidores ou em indenizações de pequeno valor).</li><li><b>Documentação</b> (art. 9º): a entidade ré deverá fornecer ao juizado a <b>documentação de que disponha</b> para o esclarecimento da causa, apresentando-a até a instalação da audiência de conciliação. Por exemplo, nas ações de servidores, a Procuradoria deve juntar as fichas financeiras e os assentamentos funcionais.</li><li><b>Exame técnico</b> (art. 10): para efetuar o exame técnico necessário à conciliação ou ao julgamento da causa, o juiz nomeará <b>pessoa habilitada</b>, que apresentará o <b>laudo até 5 dias antes da audiência</b>.</li><li><b>Conciliadores e juízes leigos</b> (arts. 15 e 16): serão designados, na forma da legislação dos Estados e do DF, <b>conciliadores e juízes leigos</b> dos Juizados Especiais da Fazenda Pública. Os juízes leigos são recrutados preferencialmente entre advogados com mais de 2 anos de experiência e ficam <b>impedidos de exercer a advocacia</b> perante todos os Juizados Especiais da Fazenda Pública instalados em território nacional, enquanto no desempenho de suas funções. O conciliador pode, para fins de encaminhamento da composição amigável, ouvir as partes e testemunhas sobre os contornos fáticos da controvérsia (art. 16, § 1º).</li><li><b>Sem reexame necessário</b> (art. 11): nas causas do JEFaz <b>não haverá reexame necessário</b>. A mesma regra está no art. 13 da Lei 10.259 para os juizados federais.</li><li><b>Sem custas e honorários em primeiro grau</b>: por aplicação subsidiária da Lei 9.099 (arts. 54 e 55), o acesso ao juizado em primeiro grau independe do pagamento de custas, e a sentença de primeiro grau <b>não condena</b> o vencido em custas e honorários, ressalvada a litigância de má-fé. Em segundo grau, o <b>recorrente vencido</b> paga custas e <b>honorários</b> de 10% a 20% do valor da condenação ou, não havendo condenação, do valor corrigido da causa. Isso vale também para a <b>Fazenda recorrente vencida</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Município pode ajuizar ação de cobrança no JEFaz contra particular</span><br>✅ <span class=\"certo\">Ente público <b>não pode ser autor</b>; só réu (art. 5º)</span></li><li>❌ <span class=\"banca\">No JEFaz, a Fazenda tem prazo em dobro para recorrer</span><br>✅ <span class=\"certo\"><b>Não há prazo diferenciado</b>, inclusive para recursos (art. 7º)</span></li><li>❌ <span class=\"banca\">O Procurador pode fazer acordo no JEFaz independentemente de lei do ente</span><br>✅ <span class=\"certo\">Pode conciliar <b>nos termos da lei do respectivo ente</b> (art. 8º)</span></li><li>❌ <span class=\"banca\">A sentença do JEFaz contra o Município sujeita-se a reexame necessário</span><br>✅ <span class=\"certo\"><b>Não há</b> reexame (art. 11)</span></li></ol></div>\n<h3>4. Tutelas de urgência, recursos e turmas recursais</h3>\n<ul><li><b>Tutela provisória</b> (art. 3º): o juiz poderá, <b>de ofício ou a requerimento</b> das partes, deferir quaisquer <b>providências cautelares e antecipatórias</b> no curso do processo, para evitar dano de difícil ou de incerta reparação. Note a peculiaridade: no JEFaz, a lei permite a tutela <b>de ofício</b>.</li><li><b>Recorribilidade das interlocutórias</b> (art. 4º): <b>exceto nos casos do art. 3º</b>, somente será admitido recurso contra a <b>sentença</b>. Assim, no JEFaz cabe <b>recurso contra a decisão que defere ou indefere tutela provisória</b> (o chamado agravo, julgado pela turma recursal), mas <b>não cabe</b> recurso contra as demais decisões interlocutórias, que podem ser impugnadas no recurso contra a sentença.</li><li><b>Recurso inominado</b>: contra a sentença cabe o <b>recurso inominado</b>, no prazo de <b>10 dias</b> contados da ciência da sentença, por petição escrita com as razões e o pedido (Lei 9.099, art. 42, aplicável subsidiariamente). O <b>preparo</b> deve ser feito, independentemente de intimação, nas <b>48 horas seguintes à interposição</b>, sob pena de <b>deserção</b> (art. 42, § 1º). A Fazenda Pública é dispensada do preparo pelas regras gerais de isenção, mas <b>não</b> tem prazo diferenciado. O recurso tem, em regra, <b>somente efeito devolutivo</b>, podendo o juiz dar-lhe efeito suspensivo para evitar dano irreparável (Lei 9.099, art. 43).</li><li><b>Embargos de declaração</b>: cabem quando houver obscuridade, contradição, omissão ou erro material, no prazo de <b>5 dias</b>, e <b>interrompem</b> o prazo para a interposição de recurso (Lei 9.099, arts. 48 a 50, com a redação dada pelo CPC de 2015; antes, os embargos apenas suspendiam o prazo quando opostos contra sentença).</li><li><b>Turmas recursais</b> (art. 17): são compostas por <b>juízes em exercício no primeiro grau</b> de jurisdição, na forma da legislação dos Estados e do DF, com <b>mandato de 2 anos</b>, e integradas, preferencialmente, por juízes do Sistema dos Juizados Especiais.</li><li><b>Pedido de uniformização</b> (arts. 18 e 19): caberá <b>pedido de uniformização de interpretação de lei</b> quando houver <b>divergência entre decisões</b> proferidas por Turmas Recursais sobre <b>questões de direito material</b>. Se a divergência for entre Turmas do <b>mesmo Estado</b>, o pedido será julgado em <b>reunião conjunta</b> das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça. Se a divergência for entre Turmas de <b>diferentes Estados</b> ou se a decisão contrariar <b>súmula do STJ</b>, o pedido será por este julgado. Quando a orientação acolhida pela Turma de Uniformização estadual contrariar <b>súmula do STJ</b>, a parte interessada poderá provocar a manifestação deste (art. 19).</li><li><b>Recurso extraordinário</b> (art. 21): cabe RE contra decisões das turmas, na forma do regimento do STF. <b>Súmula 640 do STF</b>: \"É cabível recurso extraordinário contra decisão proferida por juiz de primeiro grau nas causas de alçada, ou por <b>turma recursal</b> de juizado especial cível e criminal.\"</li><li><b>Recurso especial</b>: <b>não cabe</b>. <b>Súmula 203 do STJ</b>: \"Não cabe recurso especial contra decisão proferida por órgão de segundo grau dos <b>Juizados Especiais</b>.\" É que o REsp exige decisão de <b>tribunal</b> (CF, art. 105, III), e a turma recursal não é tribunal. Por isso, no JEFaz e no JEF, a via para levar a questão ao STJ é o <b>pedido de uniformização</b>.</li><li><b>Mandado de segurança contra ato do juizado</b>: <b>Súmula 376 do STJ</b>: \"Compete à <b>turma recursal</b> processar e julgar o mandado de segurança contra ato de juizado especial.\" O STF fixou (<b>Tema 77</b>) que <b>não cabe mandado de segurança</b> contra as <b>decisões interlocutórias</b> proferidas nos processos submetidos ao rito da <b>Lei 9.099</b>, justamente porque o sistema optou por não as tornar recorríveis de imediato.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No JEFaz cabe agravo contra qualquer decisão interlocutória</span><br>✅ <span class=\"certo\">Só contra as decisões de <b>tutela provisória</b> (arts. 3º e 4º)</span></li><li>❌ <span class=\"banca\">Cabe recurso especial contra acórdão de turma recursal</span><br>✅ <span class=\"certo\"><b>Não cabe</b> (Súmula 203 do STJ); usa-se o pedido de uniformização</span></li><li>❌ <span class=\"banca\">Contra decisão de turma recursal não cabe recurso extraordinário</span><br>✅ <span class=\"certo\"><b>Cabe</b> RE (Súmula 640 do STF)</span></li><li>❌ <span class=\"banca\">O MS contra ato do juiz do juizado é julgado pelo Tribunal de Justiça</span><br>✅ <span class=\"certo\">Pela <b>turma recursal</b> (Súmula 376 do STJ)</span></li></ol></div>\n<h3>5. Cumprimento das decisões no JEFaz: obrigações de fazer e RPV</h3>\n<ul><li><b>Obrigação de fazer, não fazer ou entregar coisa</b> (art. 12): o cumprimento do acordo ou da sentença, com trânsito em julgado, que imponham obrigação de fazer, não fazer ou entrega de coisa certa, será efetuado mediante <b>ofício do juiz à autoridade citada para a causa</b>, com cópia da sentença ou do acordo. Não há um novo processo de execução: o juiz oficia, e a autoridade cumpre. Em caso de descumprimento, o juiz pode fixar <b>multa</b> e adotar as medidas do CPC.</li><li><b>Obrigação de pagar quantia</b> (art. 13): tratando-se de obrigação de pagar quantia certa, após o trânsito em julgado da decisão, o pagamento será efetuado: I, no prazo máximo de <b>60 dias</b>, contado da <b>entrega da requisição do juiz à autoridade citada</b> para a causa, <b>independentemente de precatório</b>, na hipótese do § 3º do art. 100 da Constituição (obrigações de <b>pequeno valor</b>); II, mediante <b>precatório</b>, caso o montante da condenação exceda o valor definido como obrigação de pequeno valor.</li><li><b>Sequestro</b> (art. 13, § 1º): <b>desatendida a requisição judicial</b>, o juiz, imediatamente, determinará o <b>sequestro do numerário</b> suficiente ao cumprimento da decisão, dispensada a audiência da Fazenda Pública. Para o Procurador, isso significa que a RPV <b>não pode ser ignorada</b>: o atraso leva ao bloqueio direto das contas do Município.</li><li><b>Valor da RPV</b> (art. 13, §§ 2º e 3º): as obrigações de pequeno valor terão como limite o que for estabelecido na <b>lei do respectivo ente</b> da Federação. Até que se dê a publicação dessas leis, os valores serão: I, <b>40 salários mínimos</b>, quanto aos <b>Estados e ao DF</b>; II, <b>30 salários mínimos</b>, quanto aos <b>Municípios</b>. Os mesmos valores constam do <b>art. 87 do ADCT</b>.</li><li><b>Lei municipal de RPV</b>: o Município pode fixar, por <b>lei própria</b>, valor diferente para a RPV, segundo a sua <b>capacidade econômica</b>, mas o mínimo deve ser igual ao valor do <b>maior benefício do regime geral de previdência social</b> (CF, art. 100, § 4º). O STF já admitiu que lei local fixe valor <b>inferior</b> ao do art. 87 do ADCT, desde que respeitado esse mínimo e a proporcionalidade com a capacidade financeira do ente (ADI 2.868). O STF também fixou (<b>Tema 792</b>) que a lei que altera o valor da RPV <b>não se aplica</b> às execuções relativas a situação jurídica constituída <b>antes</b> dela, ou seja, a redução do teto não alcança créditos já reconhecidos.</li><li><b>Vedação de fracionamento</b> (art. 13, § 4º): são <b>vedados</b> o fracionamento, a repartição ou a quebra do valor da execução, de modo que o pagamento se faça, em parte, por RPV e, em parte, por precatório. É a mesma regra do art. 100, § 8º, da Constituição.</li><li><b>Renúncia ao excedente</b> (art. 13, § 5º): se o valor da execução <b>ultrapassar</b> o estabelecido para pagamento independentemente do precatório, o pagamento far-se-á, sempre, por meio do <b>precatório</b>, sendo <b>facultada à parte exequente a renúncia</b> ao crédito do valor excedente, para que possa optar pelo pagamento do saldo sem o precatório. Muitos autores renunciam ao excedente para receber em 60 dias, em vez de esperar anos pelo precatório.</li><li><b>Saque</b> (art. 13, § 6º): o saque do valor depositado poderá ser feito pela parte autora <b>pessoalmente</b>, em qualquer agência do banco depositário, independentemente de alvará.</li><li><b>Diferença entre o teto do juizado e o teto da RPV</b>: o teto de <b>competência</b> do JEFaz é de <b>60 salários mínimos</b> na data do ajuizamento; o teto da <b>RPV</b> municipal, sem lei própria, é de <b>30 salários mínimos</b> na data do pagamento. Assim, uma condenação de 50 salários mínimos no JEFaz contra o Município será paga por <b>precatório</b>, salvo se o autor <b>renunciar</b> ao que exceder o teto da RPV. É uma das questões mais cobradas em provas de Procuradoria Municipal.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A RPV de 45 salários mínimos</b><p>Uma servidora venceu no JEFaz ação contra o Município de Belo Vale e tem crédito de 45 salários mínimos. O Município não tem lei própria de RPV. O advogado pede ao juiz que expeça RPV para 30 salários mínimos e precatório para os 15 restantes.</p><details><summary>Ver a solução comentada</summary><p>O pedido deve ser <b>indeferido</b>: é <b>vedado o fracionamento</b> do valor para pagamento parte por RPV e parte por precatório (Lei 12.153, art. 13, § 4º; CF, art. 100, § 8º). Como o crédito supera o teto da RPV municipal (<b>30 salários mínimos</b>, art. 13, § 3º, II, na falta de lei local), o pagamento será por <b>precatório</b>, <b>salvo se a autora renunciar</b> aos 15 salários mínimos excedentes, caso em que receberá 30 salários mínimos por RPV em <b>60 dias</b> (art. 13, § 5º). Se o Município editar lei que fixe um teto de RPV, ela só valerá para situações constituídas depois dela (Tema 792 do STF), e o teto não poderá ser inferior ao maior benefício do RGPS (CF, art. 100, § 4º).</p></details></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A RPV dos Municípios, na falta de lei local, é de 40 salários mínimos</span><br>✅ <span class=\"certo\">São <b>30 salários mínimos</b> para Municípios; 40 para Estados e DF (art. 13, § 3º)</span></li><li>❌ <span class=\"banca\">O exequente pode receber parte do crédito por RPV e parte por precatório</span><br>✅ <span class=\"certo\">É <b>vedado o fracionamento</b>; pode <b>renunciar</b> ao excedente (art. 13, §§ 4º e 5º)</span></li><li>❌ <span class=\"banca\">Desatendida a RPV, o juiz deve ouvir a Fazenda antes de sequestrar valores</span><br>✅ <span class=\"certo\">O sequestro é imediato, <b>dispensada a audiência</b> da Fazenda (art. 13, § 1º)</span></li><li>❌ <span class=\"banca\">O Município pode fixar a RPV em qualquer valor por lei</span><br>✅ <span class=\"certo\">O mínimo é o <b>maior benefício do RGPS</b> (CF, art. 100, § 4º)</span></li></ol></div>\n<h3>6. Regras da Lei 9.099 aplicáveis ao sistema</h3>\n<ul><li>A Lei 9.099 rege os Juizados Especiais <b>Cíveis estaduais</b>, que <b>não</b> julgam causas contra a Fazenda Pública, mas as suas regras se aplicam <b>subsidiariamente</b> ao JEFaz e ao JEF. As principais, cobradas em prova:</li><li><b>Competência</b> (art. 3º): causas cíveis de menor complexidade, assim consideradas: I, as de valor não excedente a <b>40 salários mínimos</b>; II, as enumeradas no art. 275, II, do CPC de 1973 (o antigo procedimento sumário, mantido pelo art. 1.063 do CPC de 2015); III, a ação de <b>despejo para uso próprio</b>; IV, as <b>ações possessórias</b> sobre bens imóveis de valor não excedente a 40 salários mínimos. Ficam <b>excluídas</b> as causas de natureza <b>alimentar, falimentar, fiscal e de interesse da Fazenda Pública</b>, e também as relativas a acidentes de trabalho, a resíduos e ao estado e capacidade das pessoas (art. 3º, § 2º). A opção pelo procedimento importa <b>renúncia</b> ao crédito excedente ao limite, excetuada a hipótese de conciliação (art. 3º, § 3º).</li><li><b>Partes vedadas</b> (art. 8º): <b>não poderão ser partes</b> no processo instituído pela Lei 9.099 o <b>incapaz</b>, o <b>preso</b>, as <b>pessoas jurídicas de direito público</b>, as <b>empresas públicas da União</b>, a <b>massa falida</b> e o <b>insolvente civil</b>.</li><li><b>Advogado</b> (art. 9º): nas causas de valor até <b>20 salários mínimos</b>, as partes comparecerão pessoalmente, podendo ser assistidas por advogado; nas de valor superior, a assistência é <b>obrigatória</b>. Para <b>recorrer</b>, as partes devem estar representadas por advogado (art. 41, § 2º).</li><li><b>Intervenção de terceiros</b> (art. 10): <b>não se admitirá</b>, no processo, qualquer forma de intervenção de terceiro nem de assistência; admitir-se-á o <b>litisconsórcio</b>. Exceção trazida pelo CPC de 2015: o <b>incidente de desconsideração da personalidade jurídica</b> aplica-se ao processo de competência dos juizados especiais (CPC, art. 1.062).</li><li><b>Prazos em dias úteis</b> (art. 12-A, incluído pela Lei 13.728/2018): na contagem de prazo em dias, para a prática de qualquer ato processual, inclusive para a interposição de recursos, computar-se-ão <b>somente os dias úteis</b>. Isso encerrou a discussão sobre a aplicação do art. 219 do CPC aos juizados.</li><li><b>Revelia</b> (art. 20): não comparecendo o demandado à sessão de conciliação ou à audiência de instrução e julgamento, <b>reputar-se-ão verdadeiros</b> os fatos alegados no pedido inicial, salvo se o contrário resultar da convicção do juiz. Atenção: no JEFaz, por se tratar de direitos da Fazenda, aplica-se a regra do CPC de que a revelia <b>não produz</b> o efeito material quando o litígio versar sobre <b>direitos indisponíveis</b> (CPC, art. 345, II).</li><li><b>Defesa</b> (arts. 30 e 31): a contestação, oral ou escrita, conterá toda matéria de defesa, exceto arguição de suspeição ou impedimento do juiz. <b>Não se admite reconvenção</b>, mas é lícito ao réu formular <b>pedido contraposto</b>, desde que fundado nos mesmos fatos que constituem objeto da controvérsia.</li><li><b>Provas</b> (arts. 33 e 34): todas as provas serão produzidas na audiência de instrução e julgamento; as testemunhas, até o máximo de <b>3 para cada parte</b>, comparecerão levadas pela parte que as tenha arrolado, independentemente de intimação, ou mediante esta, se assim for requerido.</li><li><b>Sentença</b> (arts. 38 e 39): mencionará os elementos de convicção do juiz, com breve resumo dos fatos relevantes, <b>dispensado o relatório</b>. <b>Não se admitirá sentença condenatória por quantia ilíquida</b>, ainda que genérico o pedido. É <b>ineficaz</b> a sentença condenatória na parte que <b>exceder a alçada</b> estabelecida na lei.</li><li><b>Extinção sem mérito</b> (art. 51): extingue-se o processo, além dos casos previstos em lei, quando o <b>autor deixar de comparecer</b> a qualquer das audiências do processo; quando inadmissível o procedimento instituído pela lei ou seu prosseguimento, após a conciliação; quando for reconhecida a <b>incompetência territorial</b>; entre outros. A extinção <b>independe de prévia intimação pessoal</b> das partes (§ 1º).</li><li><b>Ação rescisória</b> (art. 59): <b>não se admitirá</b> ação rescisória nas causas sujeitas ao procedimento instituído pela Lei 9.099.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Município pode ser réu no Juizado Especial Cível da Lei 9.099</span><br>✅ <span class=\"certo\">Pessoas jurídicas de direito público <b>não podem ser partes</b> (art. 8º); o Município é réu no <b>JEFaz</b></span></li><li>❌ <span class=\"banca\">Nos juizados, os prazos são contados em dias corridos</span><br>✅ <span class=\"certo\">Contam-se <b>dias úteis</b> (art. 12-A, Lei 13.728/2018)</span></li><li>❌ <span class=\"banca\">Cabe reconvenção nos juizados</span><br>✅ <span class=\"certo\"><b>Não cabe</b>; admite-se <b>pedido contraposto</b> (art. 31)</span></li><li>❌ <span class=\"banca\">Cabe ação rescisória contra sentença do juizado</span><br>✅ <span class=\"certo\"><b>Não cabe</b> (art. 59)</span></li><li>❌ <span class=\"banca\">O incidente de desconsideração da personalidade jurídica não se aplica aos juizados</span><br>✅ <span class=\"certo\"><b>Aplica-se</b> (CPC, art. 1.062)</span></li></ol></div>\n<h3>7. Juizados Especiais Federais (Lei 10.259/2001) e o quadro comparativo</h3>\n<ul><li><b>Competência</b> (art. 3º): compete ao Juizado Especial Federal Cível processar, conciliar e julgar causas de competência da Justiça Federal até o valor de <b>60 salários mínimos</b>, bem como executar as suas sentenças. No foro onde estiver instalada Vara do Juizado Especial, a sua competência é <b>absoluta</b> (art. 3º, § 3º). Quando a pretensão versar sobre obrigações vincendas, a soma de <b>12 parcelas</b> não poderá exceder o teto (art. 3º, § 2º).</li><li><b>Exclusões</b> (art. 3º, § 1º): não se incluem na competência do JEF, entre outras, as causas referidas no art. 109, II, III e XI, da Constituição (Estado estrangeiro, tratados, disputa sobre direitos indígenas), as ações de <b>mandado de segurança</b>, de <b>desapropriação</b>, de divisão e demarcação, <b>populares</b>, <b>execuções fiscais</b> e por <b>improbidade</b>, e as demandas sobre direitos difusos, coletivos ou individuais homogêneos; as causas sobre <b>bens imóveis da União</b>, autarquias e fundações públicas federais; as causas para <b>anulação ou cancelamento de ato administrativo federal</b>, <b>salvo o de natureza previdenciária e o de lançamento fiscal</b>; e as que tenham como objeto a impugnação da pena de <b>demissão</b> imposta a servidores públicos civis ou de sanções disciplinares aplicadas a militares.</li><li><b>Partes</b> (art. 6º): podem ser partes no JEF, como <b>autores</b>, as pessoas físicas e as microempresas e empresas de pequeno porte; como <b>réus</b>, a <b>União, autarquias, fundações e empresas públicas federais</b>. O <b>Município não pode ser réu</b> no JEF, nem autor.</li><li><b>Regras comuns com o JEFaz</b>: <b>não há prazo diferenciado</b> para as pessoas jurídicas de direito público, inclusive para recursos, e a citação para a audiência deve ser feita com antecedência mínima de <b>30 dias</b> (art. 9º); os representantes judiciais da União, autarquias, fundações e empresas públicas federais ficam autorizados a <b>conciliar, transigir ou desistir</b> nos termos da lei (art. 10, parágrafo único); <b>não há reexame necessário</b> (art. 13); o pagamento de pequeno valor é feito em <b>60 dias</b> da entrega da requisição, independentemente de precatório (art. 17), e o teto da RPV federal é igual ao teto do juizado, <b>60 salários mínimos</b> (art. 17, § 1º).</li><li><b>Uniformização no JEF</b> (art. 14): o pedido de uniformização, quando a divergência for entre Turmas da <b>mesma Região</b>, é julgado em reunião conjunta das Turmas em conflito; quando for entre Turmas de <b>diferentes Regiões</b> ou contrariar súmula ou jurisprudência dominante do STJ, é julgado pela <b>Turma Nacional de Uniformização</b> (TNU). Se a orientação da TNU contrariar súmula ou jurisprudência dominante do <b>STJ</b>, a parte pode provocar a manifestação deste.</li><li><b>Conflito de competência</b>: <b>Súmula 428 do STJ</b>: \"Compete ao <b>Tribunal Regional Federal</b> decidir os conflitos de competência entre <b>juizado especial federal e juízo federal</b> da mesma seção judiciária.\" Pela mesma lógica, o conflito entre <b>JEFaz</b> e <b>vara comum</b> do mesmo Estado é decidido pelo <b>Tribunal de Justiça</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Regra</th><th>Juizado Cível (9.099)</th><th>JEF (10.259)</th><th>JEFaz (12.153)</th></tr></thead><tbody><tr><td>Teto</td><td>40 SM</td><td>60 SM</td><td>60 SM</td></tr><tr><td>Competência</td><td>opcional (renúncia ao excedente)</td><td>absoluta onde instalado</td><td>absoluta onde instalado</td></tr><tr><td>Ente público como réu</td><td>vedado</td><td>União e entes federais</td><td>Estados, DF, <b>Municípios</b> e entes vinculados</td></tr><tr><td>Prazo em dobro para a Fazenda</td><td>não se aplica</td><td>não há (art. 9º)</td><td>não há (art. 7º)</td></tr><tr><td>Reexame necessário</td><td>não</td><td>não (art. 13)</td><td>não (art. 11)</td></tr><tr><td>Pagamento</td><td>cumprimento de sentença</td><td>RPV em 60 dias até 60 SM</td><td>RPV em 60 dias até o teto da lei local (30 SM para Municípios sem lei)</td></tr><tr><td>Uniformização</td><td>não prevista na lei</td><td>TNU e STJ</td><td>reunião conjunta de Turmas do Estado e STJ</td></tr></tbody></table>\n<h3>8. Saúde e medicamentos no JEFaz: o que mudou com o Tema 1.234</h3>\n<ul><li>Grande parte das ações no JEFaz contra Municípios pede <b>medicamentos e tratamentos</b>. O STF fixou, no <b>Tema 793</b>, que os entes da Federação são <b>solidariamente responsáveis</b> nas demandas prestacionais na área da saúde, mas que compete à autoridade judicial, diante dos critérios constitucionais de descentralização e hierarquização, <b>direcionar o cumprimento</b> conforme as regras de repartição de competências e determinar o <b>ressarcimento</b> a quem suportou o ônus financeiro.</li><li>Em 2024, no <b>Tema 1.234</b>, o STF homologou <b>acordos interfederativos</b> sobre o fornecimento de medicamentos e fixou regras de <b>competência</b> e de <b>custeio</b>. Em síntese: nas ações sobre medicamentos <b>não incorporados</b> ao SUS, a competência é da <b>Justiça Federal</b>, com a <b>União</b> no polo passivo, quando o custo anual do tratamento for igual ou superior a <b>210 salários mínimos</b>; abaixo desse valor, a competência é da <b>Justiça Estadual</b>, com regras de ressarcimento entre os entes. A <b>Súmula Vinculante 60</b> determina que o pedido e a análise administrativos de fármacos e a judicialização observem os termos desses acordos. A <b>Súmula Vinculante 61</b> trata dos requisitos para a concessão judicial de medicamentos <b>não incorporados</b>, fixados no Tema 6.</li><li>Para o Procurador Municipal no JEFaz, isso significa: (1) verificar se o medicamento é <b>incorporado</b> ao SUS e de qual componente (básico, estratégico, especializado), porque a responsabilidade de financiamento e de dispensação muda; (2) nos não incorporados, verificar o <b>custo anual</b> para discutir a <b>competência</b> e a presença da União; (3) exigir o cumprimento dos <b>requisitos</b> do Tema 6 (negativa administrativa, laudo fundamentado, imprescindibilidade, ausência de substituto no SUS, registro na Anvisa, incapacidade financeira, entre outros); (4) pedir que o juiz <b>direcione o cumprimento</b> ao ente responsável e assegure o <b>ressarcimento</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na saúde, o Município responde sozinho porque é o ente mais próximo do cidadão</span><br>✅ <span class=\"certo\">Os entes são <b>solidários</b>, cabendo ao juiz <b>direcionar o cumprimento</b> e o ressarcimento (Tema 793)</span></li><li>❌ <span class=\"banca\">Toda ação de medicamento não incorporado tramita na Justiça Estadual</span><br>✅ <span class=\"certo\">Se o custo anual for de <b>210 salários mínimos</b> ou mais, a competência é da <b>Justiça Federal</b>, com a União (Tema 1.234)</span></li><li>❌ <span class=\"banca\">A judicialização de fármacos não precisa observar os acordos homologados pelo STF</span><br>✅ <span class=\"certo\">Deve observar (<b>Súmula Vinculante 60</b>)</span></li></ol></div>\n<h3>9. Processo eletrônico (Lei 11.419/2006) e comunicação dos atos</h3>\n<ul><li><b>Âmbito</b> (art. 1º): a Lei 11.419 admite o uso de meio eletrônico na tramitação de processos judiciais, comunicação de atos e transmissão de peças processuais, e aplica-se <b>indistintamente</b> aos processos <b>civil, penal e trabalhista</b>, bem como aos <b>juizados especiais</b>, em qualquer grau de jurisdição. Considera-se <b>assinatura eletrônica</b>: a) a assinatura digital baseada em <b>certificado digital</b> emitido por Autoridade Certificadora credenciada; b) mediante <b>cadastro de usuário</b> no Poder Judiciário, conforme disciplinado pelos órgãos respectivos (art. 1º, § 2º, III).</li><li><b>Momento do ato</b> (art. 3º): consideram-se realizados os atos processuais por meio eletrônico no <b>dia e hora do seu envio</b> ao sistema do Poder Judiciário, do que deverá ser fornecido <b>protocolo eletrônico</b>. Quando a petição eletrônica for enviada para atender prazo processual, serão consideradas <b>tempestivas</b> as transmitidas até as <b>24 horas do seu último dia</b> (art. 3º, parágrafo único; art. 10, § 1º). O CPC repete a regra: o ato processual por meio eletrônico pode ser praticado em qualquer horário até as 24 horas do último dia do prazo (CPC, art. 213), considerado o horário vigente no <b>juízo perante o qual o ato deve ser praticado</b> (parágrafo único).</li><li><b>Indisponibilidade do sistema</b> (art. 10, § 2º): no caso de indisponibilidade do sistema por motivo técnico, o prazo fica <b>automaticamente prorrogado</b> para o <b>primeiro dia útil seguinte</b> à resolução do problema.</li><li><b>Diário da Justiça eletrônico</b> (art. 4º): os tribunais poderão criar Diário da Justiça eletrônico, e a publicação eletrônica <b>substitui</b> qualquer outro meio e publicação oficial, para quaisquer efeitos legais, <b>à exceção dos casos que, por lei, exigem intimação ou vista pessoal</b> (§ 2º). <b>Considera-se como data da publicação o primeiro dia útil seguinte ao da disponibilização</b> da informação no Diário da Justiça eletrônico (§ 3º), e os prazos processuais terão início no <b>primeiro dia útil que seguir ao considerado como data da publicação</b> (§ 4º). O CPC adota a mesma regra (art. 224, §§ 2º e 3º).</li><li><b>Exemplo</b>: a decisão é <b>disponibilizada</b> no DJe na segunda-feira; considera-se <b>publicada</b> na terça-feira; o prazo começa a correr na <b>quarta-feira</b> (primeiro dia útil seguinte à publicação).</li><li><b>Intimação pelo portal</b> (art. 5º): as intimações serão feitas por meio eletrônico em <b>portal próprio</b> aos que se cadastrarem, dispensando-se a publicação no órgão oficial. Considerar-se-á realizada a intimação no dia em que o intimando <b>efetivar a consulta eletrônica</b> ao teor da intimação (§ 1º); se a consulta se der em dia não útil, a intimação será considerada realizada no primeiro dia útil seguinte (§ 2º). A consulta deverá ser feita em até <b>10 dias corridos</b> contados da data do envio da intimação, sob pena de considerar-se a intimação <b>automaticamente realizada</b> na data do término desse prazo (§ 3º), a chamada <b>intimação tácita</b> ou ficta.</li><li><b>Fazenda Pública</b> (art. 5º, § 6º): as intimações feitas na forma do art. 5º, <b>inclusive da Fazenda Pública</b>, serão consideradas <b>pessoais</b> para todos os efeitos legais. Assim, a intimação eletrônica pelo portal satisfaz a prerrogativa de <b>intimação pessoal</b> do advogado público (CPC, art. 183, § 1º: a intimação pessoal far-se-á por carga, remessa ou <b>meio eletrônico</b>).</li><li><b>Citação eletrônica</b> (art. 6º): observadas as formas e as cautelas do art. 5º, as citações, <b>inclusive da Fazenda Pública</b>, excetuadas as dos processos criminais e infracionais, poderão ser feitas por meio eletrônico, desde que a <b>íntegra dos autos</b> seja acessível ao citando.</li><li><b>Documentos</b> (art. 11): os documentos produzidos eletronicamente e juntados aos processos eletrônicos com garantia da origem e de seu signatário serão considerados <b>originais</b> para todos os efeitos legais. Os extratos digitais e os documentos digitalizados e juntados aos autos pelos órgãos da Justiça e seus auxiliares, pelo MP e seus auxiliares, pelas <b>procuradorias</b>, pelas autoridades policiais, pelas repartições públicas em geral e por advogados públicos e privados têm a <b>mesma força probante dos originais</b>, ressalvada a alegação motivada e fundamentada de adulteração (§ 1º). Os originais dos documentos digitalizados deverão ser preservados pelo seu detentor até o <b>trânsito em julgado</b> da sentença ou, quando admitida, até o final do prazo para propositura de <b>ação rescisória</b> (§ 3º).</li></ul>\n<h3>10. Citação eletrônica no CPC e o Domicílio Judicial Eletrônico</h3>\n<ul><li>A <b>Lei 14.195/2021</b> alterou o CPC para tornar a citação <b>preferencialmente eletrônica</b>. Pelo <b>art. 246</b> do CPC, a citação será feita <b>preferencialmente por meio eletrônico</b>, no prazo de até <b>2 dias úteis</b>, contado da decisão que a determinar, por meio dos endereços eletrônicos indicados pelo citando no banco de dados do Poder Judiciário.</li><li><b>Cadastro obrigatório</b>: as empresas públicas e privadas são obrigadas a manter <b>cadastro</b> nos sistemas de processo em autos eletrônicos, para efeito de recebimento de citações e intimações (art. 246, § 1º), e essa obrigação <b>aplica-se à União, aos Estados, ao DF, aos Municípios e às entidades da administração indireta</b> (art. 246, § 2º). O CNJ instituiu o <b>Domicílio Judicial Eletrônico</b> (Resolução CNJ 455/2022) como a plataforma que concentra as comunicações processuais dirigidas a esses destinatários.</li><li><b>Confirmação</b>: o citando deve <b>confirmar o recebimento</b> da citação eletrônica em até <b>3 dias úteis</b>. Na ausência de confirmação, a citação será feita pelos outros meios (correio, oficial de justiça, escrivão ou edital) (art. 246, § 1º-A), e o citado deverá apresentar <b>justa causa</b> para a ausência de confirmação na primeira oportunidade em que falar nos autos (§ 1º-B), sob pena de <b>multa de até 5% do valor da causa</b>, por ato atentatório à dignidade da justiça (§ 1º-C).</li><li><b>Início do prazo</b>: na citação eletrônica, considera-se dia do começo do prazo o <b>quinto dia útil seguinte à confirmação</b>, na forma prevista na mensagem de citação, do recebimento da citação realizada por meio eletrônico (CPC, art. 231, IX). Na <b>intimação eletrônica</b>, é o dia útil seguinte à consulta ao teor da intimação ou ao término do prazo para que a consulta se dê (art. 231, V).</li><li><b>Intimações</b>: as intimações realizam-se, <b>sempre que possível, por meio eletrônico</b> (CPC, art. 270), e aplica-se ao <b>MP</b>, à <b>Defensoria</b> e à <b>Advocacia Pública</b> o disposto no § 1º do art. 246 (cadastro obrigatório) (art. 270, parágrafo único).</li><li><b>Para a Procuradoria Municipal</b>: manter o <b>cadastro atualizado</b> nos sistemas dos tribunais e no Domicílio Judicial Eletrônico, controlar diariamente as intimações (o prazo de <b>10 dias corridos</b> corre mesmo sem abertura, gerando <b>intimação tácita</b>) e lembrar que, no <b>JEFaz</b>, os prazos contados a partir dessas intimações são <b>simples</b>, sem dobra.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Considera-se data da publicação no DJe o dia da disponibilização</span><br>✅ <span class=\"certo\">É o <b>primeiro dia útil seguinte</b> à disponibilização (Lei 11.419, art. 4º, § 3º)</span></li><li>❌ <span class=\"banca\">Se o procurador não abrir a intimação no portal, ela não se considera feita</span><br>✅ <span class=\"certo\">Considera-se feita ao fim de <b>10 dias corridos</b> (art. 5º, § 3º)</span></li><li>❌ <span class=\"banca\">A intimação eletrônica pelo portal não supre a intimação pessoal da Fazenda</span><br>✅ <span class=\"certo\">É considerada <b>pessoal</b> para todos os efeitos (art. 5º, § 6º)</span></li><li>❌ <span class=\"banca\">Os Municípios não são obrigados a manter cadastro para citação eletrônica</span><br>✅ <span class=\"certo\"><b>São obrigados</b> (CPC, art. 246, § 2º)</span></li></ol></div>\n<h3>11. Precedentes, demandas repetitivas e a defesa do Município no JEFaz</h3>\n<ul><li><b>IRDR nos juizados</b>: o <b>incidente de resolução de demandas repetitivas</b> é muito usado para as demandas em massa contra a Fazenda (por exemplo, reajustes de servidores). Julgado o incidente, a tese jurídica será aplicada a todos os processos individuais ou coletivos que versem sobre idêntica questão de direito e que tramitem na área de jurisdição do respectivo tribunal, <b>inclusive àqueles que tramitem nos juizados especiais</b> do respectivo Estado ou região (CPC, art. 985, I). A admissão do IRDR também <b>suspende</b> os processos pendentes, inclusive nos juizados (art. 982, I).</li><li><b>Reclamação para o STJ</b>: como não cabe recurso especial contra decisão de turma recursal estadual (Súmula 203), o STJ, por meio da <b>Resolução STJ 3/2016</b>, atribuiu às <b>Câmaras Reunidas ou Seção Especializada dos Tribunais de Justiça</b> a competência para processar e julgar as <b>reclamações</b> destinadas a dirimir divergência entre acórdão de turma recursal estadual e a jurisprudência do STJ consolidada em incidente de assunção de competência, em julgamento de recursos especiais repetitivos e em súmulas.</li><li><b>Estratégia de defesa do Município</b>: no JEFaz, o volume é alto e os prazos são curtos. Boas práticas de Procuradoria: (1) <b>padronizar contestações</b> para teses repetitivas, sempre com a documentação do art. 9º (fichas financeiras, processos administrativos); (2) propor <b>lei municipal de conciliação</b> que autorize acordos em teses já perdidas nos tribunais, reduzindo honorários de segundo grau e juros; (3) controlar o <b>teto da RPV</b> e o orçamento para RPVs, evitando <b>sequestros</b>; (4) acompanhar <b>IRDRs</b> e <b>temas repetitivos</b> para pedir a suspensão de processos e aplicar as teses favoráveis; (5) não contar <b>prazo em dobro</b>, e contar os prazos em <b>dias úteis</b> (Lei 9.099, art. 12-A).</li><li><b>Impugnação do valor da causa e competência</b>: se o autor <b>subestimar</b> o valor da causa para caber no JEFaz (por exemplo, pedindo só as parcelas vencidas e omitindo as 12 vincendas), o Município deve <b>impugnar</b> o valor e arguir a <b>incompetência absoluta</b> do juizado, porque a soma de vencidas e 12 vincendas define o teto (art. 2º, § 2º). Por outro lado, o autor <b>pode renunciar</b> ao excedente para permanecer no juizado, desde que o faça de forma expressa.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O servidor e as parcelas vincendas</b><p>Um servidor ajuíza ação no JEFaz contra o Município pedindo a incorporação de um adicional de R$ 1.500 por mês, mais 30 parcelas atrasadas (R$ 45 mil). O salário mínimo vigente é de R$ 1.500 (valor hipotético), de modo que o teto do JEFaz é de R$ 90 mil.</p><details><summary>Ver a solução comentada</summary><p>Para a competência, soma-se o valor das <b>parcelas vencidas</b> (R$ 45 mil) com <b>12 parcelas vincendas</b> (12 x R$ 1.500 = R$ 18 mil), o que dá R$ 63 mil, <b>abaixo</b> do teto de 60 salários mínimos (R$ 90 mil). A causa é da competência <b>absoluta</b> do JEFaz (art. 2º, §§ 2º e 4º). Na defesa, o Procurador deve contestar no prazo <b>simples</b>, juntar as fichas financeiras (art. 9º) e verificar a <b>prescrição quinquenal</b> das parcelas (Decreto 20.910/1932; Súmula 85 do STJ: nas relações de trato sucessivo, prescrevem apenas as prestações vencidas antes do quinquênio anterior à propositura da ação). Se o Município perder, o pagamento das parcelas vencidas seguirá o <b>teto da RPV</b> municipal (30 salários mínimos sem lei própria, ou o valor da lei local), sem fracionamento.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A buraqueira e o recurso fora do prazo</b><p>Um motociclista ajuizou no JEFaz ação de indenização contra o Município por danos causados por buraco em via pública e obteve sentença de procedência (R$ 12 mil). A Procuradoria foi intimada pelo portal eletrônico em 3 de março (data do envio), mas só abriu a intimação em 20 de março e interpôs recurso inominado 15 dias úteis depois, contando prazo em dobro.</p><details><summary>Ver a solução comentada</summary><p>O recurso é <b>intempestivo</b> por duas razões. Primeiro, a intimação considera-se <b>tacitamente realizada</b> ao fim de <b>10 dias corridos</b> do envio (13 de março), e não na data em que foi aberta (Lei 11.419, art. 5º, § 3º). Segundo, no JEFaz <b>não há prazo diferenciado</b> para a Fazenda, inclusive para recursos (Lei 12.153, art. 7º): o prazo do recurso inominado é de <b>10 dias úteis</b> (Lei 9.099, arts. 12-A e 42). A sentença transitará em julgado, e o pagamento será feito por <b>RPV em 60 dias</b>. Moral: a Procuradoria deve controlar as intimações do portal <b>diariamente</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Medicamento de alto custo no JEFaz</b><p>Uma moradora ajuíza ação no JEFaz contra o Município pedindo um medicamento oncológico <b>não incorporado</b> ao SUS, cujo custo anual estimado é de 300 salários mínimos.</p><details><summary>Ver a solução comentada</summary><p>O Procurador deve arguir a <b>incompetência</b> da Justiça Estadual, porque, pelo <b>Tema 1.234</b> do STF, as ações sobre medicamentos <b>não incorporados</b> com custo anual igual ou superior a <b>210 salários mínimos</b> tramitam na <b>Justiça Federal</b>, com a <b>União</b> no polo passivo. Além disso, o valor da causa (custo anual do tratamento) superaria o teto de 60 salários mínimos do JEFaz. No mérito, deve exigir os requisitos do <b>Tema 6</b> (Súmula Vinculante 61) para medicamentos não incorporados e, se houver condenação, pedir o <b>direcionamento</b> do cumprimento ao ente responsável e o <b>ressarcimento</b> (Tema 793).</p></details></div>\n<h3>12. O rito na prática: pedido, sessão de conciliação e instrução</h3>\n<ul><li><b>Pedido</b> (Lei 9.099, arts. 14 e 15, aplicáveis ao JEFaz): o processo instaura-se com a apresentação do pedido, <b>escrito ou oral</b>, à Secretaria do Juizado. Do pedido constarão, de forma simples e em linguagem acessível, o <b>nome</b>, a qualificação e o endereço das partes, os <b>fatos e os fundamentos</b>, de forma sucinta, e o <b>objeto e seu valor</b>. O pedido oral será reduzido a escrito pela Secretaria, que pode usar o sistema de fichas ou formulários impressos. Os pedidos podem ser <b>alternativos ou cumulados</b>, desde que conexos e que a soma não ultrapasse o limite de alçada.</li><li><b>Sessão de conciliação</b>: registrado o pedido, a Secretaria designa a <b>sessão de conciliação</b>. No JEFaz, a citação do ente público deve ocorrer com antecedência mínima de <b>30 dias</b> da audiência (Lei 12.153, art. 7º). A conciliação é conduzida pelo juiz togado ou leigo ou por <b>conciliador</b> sob sua orientação. Obtida a conciliação, ela é <b>reduzida a escrito</b> e <b>homologada</b> pelo juiz togado, mediante sentença com eficácia de título executivo.</li><li><b>Conciliação por videoconferência</b>: a <b>Lei 13.994/2020</b> incluiu na Lei 9.099 a possibilidade de <b>conciliação não presencial</b>, conduzida pelo Juizado mediante o emprego dos recursos tecnológicos disponíveis de transmissão de sons e imagens em tempo real (art. 22, § 2º). Se o demandado <b>não comparecer</b> ou <b>recusar-se a participar</b> da tentativa de conciliação não presencial, o juiz togado proferirá <b>sentença</b> (art. 23). Para o Procurador, isso significa que a ausência injustificada na sessão virtual tem consequências processuais sérias.</li><li><b>Instrução</b> (Lei 12.153, art. 16, § 2º): <b>não obtida a conciliação</b>, caberá ao juiz presidir a instrução do processo, podendo <b>dispensar novos depoimentos</b> se entender suficientes para o julgamento da causa os esclarecimentos já constantes dos autos, e não houver impugnação das partes. Na prática, muitas causas do JEFaz são <b>exclusivamente de direito</b> (por exemplo, a interpretação de uma lei municipal de vencimentos) e são julgadas logo após a contestação, sem audiência de instrução.</li><li><b>Juiz leigo</b> (Lei 9.099, art. 40): o juiz leigo que tiver dirigido a instrução proferirá sua <b>decisão</b> e imediatamente a submeterá ao <b>juiz togado</b>, que poderá <b>homologá-la</b>, proferir outra em substituição ou, antes de se manifestar, determinar a realização de atos probatórios indispensáveis. O juiz leigo, portanto, <b>não profere sentença</b> por conta própria: o que ele faz é um <b>projeto de sentença</b>.</li><li><b>Provas e documentos</b>: todas as provas são produzidas na audiência de instrução e julgamento, ainda que não requeridas previamente (Lei 9.099, art. 33). No JEFaz, a entidade ré tem o <b>dever</b> de fornecer a documentação de que disponha até a audiência de conciliação (Lei 12.153, art. 9º), e a ausência dessa documentação pode levar o juiz a decidir com base nas alegações do autor, quando verossímeis.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O pedido no juizado deve ser sempre escrito e assinado por advogado</span><br>✅ <span class=\"certo\">Pode ser <b>escrito ou oral</b>, reduzido a termo pela Secretaria (Lei 9.099, art. 14)</span></li><li>❌ <span class=\"banca\">O juiz leigo profere sentença que transita em julgado sem participação do juiz togado</span><br>✅ <span class=\"certo\">O juiz leigo submete a decisão ao <b>juiz togado</b>, que pode homologá-la ou substituí-la (art. 40)</span></li><li>❌ <span class=\"banca\">Não cabe conciliação por videoconferência no juizado</span><br>✅ <span class=\"certo\"><b>Cabe</b> (Lei 9.099, art. 22, § 2º, incluído pela Lei 13.994/2020)</span></li><li>❌ <span class=\"banca\">No JEFaz, o juiz deve sempre colher novos depoimentos após a conciliação frustrada</span><br>✅ <span class=\"certo\">Pode <b>dispensá-los</b> se os esclarecimentos forem suficientes e não houver impugnação (Lei 12.153, art. 16, § 2º)</span></li></ol></div>\n<h3>13. Defesas típicas do Município no JEFaz</h3>\n<ul><li><b>Prescrição quinquenal</b> (Decreto 20.910/1932, art. 1º): as dívidas passivas da União, dos Estados e dos <b>Municípios</b>, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, <b>prescrevem em 5 anos</b> contados da data do ato ou fato do qual se originarem. É a primeira defesa a verificar em toda ação de servidor ou de indenização.</li><li><b>Relações de trato sucessivo</b>: <b>Súmula 85 do STJ</b>: \"Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as <b>prestações vencidas antes do quinquênio anterior</b> à propositura da ação.\" Se, ao contrário, houve <b>negativa expressa</b> do próprio direito (o chamado <b>fundo de direito</b>), a prescrição atinge a pretensão inteira, contada da negativa.</li><li><b>Interrupção da prescrição contra a Fazenda</b>: <b>Súmula 383 do STF</b>: \"A prescrição em favor da Fazenda Pública recomeça a correr, <b>por dois anos e meio</b>, a partir do ato interruptivo, mas <b>não fica reduzida aquém de cinco anos</b>, embora o titular do direito a interrompa durante a primeira metade do prazo.\" A regra está no art. 9º do Decreto 20.910.</li><li><b>Responsabilidade civil e legitimidade</b>: o STF fixou (<b>Tema 940</b>) que a ação por danos causados por agente público deve ser ajuizada <b>contra o Estado</b> (ou contra a pessoa jurídica de direito privado prestadora de serviço público), sendo <b>parte ilegítima</b> o autor do ato, assegurado o direito de <b>regresso</b> contra o responsável nos casos de dolo ou culpa. Assim, se o autor incluir o motorista da ambulância como réu ao lado do Município, a Procuradoria pode alegar a ilegitimidade passiva do servidor (a chamada <b>dupla garantia</b>).</li><li><b>Responsabilidade por omissão</b>: nas ações por buracos em vias, falta de sinalização ou queda de árvores, a defesa costuma discutir o <b>nexo causal</b>, a <b>culpa exclusiva da vítima</b> (por exemplo, excesso de velocidade) ou o <b>caso fortuito</b>. A jurisprudência majoritária aplica a responsabilidade <b>objetiva</b> também às omissões específicas, quando o ente tinha o dever concreto de agir e não agiu.</li><li><b>Servidores e vencimentos</b>: <b>Súmula Vinculante 37</b>: \"Não cabe ao Poder Judiciário, que não tem função legislativa, <b>aumentar vencimentos de servidores públicos</b> sob o fundamento de isonomia.\" <b>Súmula Vinculante 42</b>: \"É inconstitucional a <b>vinculação do reajuste</b> de vencimentos de servidores estaduais ou municipais a <b>índices federais</b> de correção monetária.\" São defesas recorrentes do Município em ações que pedem equiparação ou reajuste automático.</li><li><b>Multas de trânsito</b>: muitas ações no JEFaz impugnam multas aplicadas pelo órgão municipal de trânsito. <b>Súmula 312 do STJ</b>: \"No processo administrativo para imposição de multa de trânsito, são necessárias as <b>notificações da autuação e da aplicação da pena</b> decorrente da infração.\" <b>Súmula 127 do STJ</b>: \"É ilegal condicionar a renovação da licença de veículo ao pagamento de multa, da qual o infrator <b>não foi notificado</b>.\" A defesa do Município depende da prova da <b>dupla notificação</b>, que a Procuradoria deve obter do órgão de trânsito antes da audiência.</li><li><b>Tributos de pequeno valor</b>: o contribuinte pode, no JEFaz, propor ação <b>anulatória</b> de lançamento de IPTU, de taxa ou de ISS de pequeno valor, ou de <b>repetição de indébito</b>. Nessas ações, o Município deve verificar a regularidade do <b>lançamento</b> e da <b>notificação</b> (<b>Súmula 397 do STJ</b>: o contribuinte do IPTU é notificado do lançamento pelo envio do carnê ao seu endereço) e a <b>decadência</b> e a prescrição do crédito.</li><li><b>Correção e juros nas condenações</b>: desde a <b>Emenda Constitucional 113/2021</b> (art. 3º), nas discussões e condenações que envolvam a Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, de remuneração do capital e de compensação da mora, incide, <b>uma única vez</b>, até o efetivo pagamento, o índice da <b>taxa Selic</b>, acumulado mensalmente. Os cálculos de RPV e de precatório devem observar essa regra e eventuais alterações constitucionais posteriores sobre o regime de pagamento da Fazenda.</li></ul>\n<table class=\"tab\"><thead><tr><th>Defesa</th><th>Fundamento</th><th>Exemplo no JEFaz</th></tr></thead><tbody><tr><td><b>Prescrição quinquenal</b></td><td>Decreto 20.910, art. 1º</td><td>servidor cobra diferenças de 2015 em ação de 2026</td></tr><tr><td><b>Trato sucessivo</b></td><td>Súmula 85 do STJ</td><td>prescrevem só as parcelas anteriores aos 5 anos</td></tr><tr><td><b>Ilegitimidade do agente</b></td><td>Tema 940 do STF</td><td>motorista da ambulância incluído como réu</td></tr><tr><td><b>Vedação de aumento por isonomia</b></td><td>Súmula Vinculante 37</td><td>servidor pede equiparação com outro cargo</td></tr><tr><td><b>Vinculação a índice federal</b></td><td>Súmula Vinculante 42</td><td>lei local que reajusta pelo IPCA automático</td></tr><tr><td><b>Dupla notificação na multa</b></td><td>Súmula 312 do STJ</td><td>motorista alega não ter sido notificado</td></tr><tr><td><b>Selic única</b></td><td>EC 113/2021, art. 3º</td><td>cálculo da RPV</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A prescrição contra o Município é de 3 anos, como a reparação civil do Código Civil</span><br>✅ <span class=\"certo\">É de <b>5 anos</b> (Decreto 20.910, art. 1º)</span></li><li>❌ <span class=\"banca\">Nas relações de trato sucessivo, a prescrição atinge sempre todo o direito</span><br>✅ <span class=\"certo\">Atinge só as <b>prestações anteriores ao quinquênio</b>, se não negado o próprio direito (Súmula 85 do STJ)</span></li><li>❌ <span class=\"banca\">A vítima pode escolher processar diretamente o servidor que causou o dano</span><br>✅ <span class=\"certo\">Deve processar o <b>ente</b>; o servidor é parte ilegítima (Tema 940 do STF)</span></li><li>❌ <span class=\"banca\">O juiz pode conceder aumento a servidor municipal por isonomia</span><br>✅ <span class=\"certo\"><b>Não pode</b> (Súmula Vinculante 37)</span></li></ol></div>\n<h3>14. Questões comentadas: o raciocínio das bancas</h3>\n<ul><li><b>Questão 1 (estilo Consulplan)</b>: \"Nos Juizados Especiais da Fazenda Pública, o Município dispõe de prazo em dobro para contestar, mas não para recorrer.\" <b>Errado.</b> O art. 7º da Lei 12.153 é amplo: <b>não haverá prazo diferenciado para a prática de qualquer ato processual</b> pelas pessoas jurídicas de direito público, <b>inclusive</b> a interposição de recursos. A banca tenta confundir o candidato com uma regra \"parcial\" que não existe.</li><li><b>Questão 2 (estilo FGV)</b>: \"João, servidor municipal, foi demitido após processo disciplinar e pretende anular a demissão, com pedido de reintegração e pagamento dos atrasados, em valor estimado de 50 salários mínimos. A ação deve tramitar no JEFaz, porque o valor está abaixo de 60 salários mínimos.\" <b>Errado.</b> A impugnação da <b>pena de demissão</b> de servidor civil está <b>excluída</b> do JEFaz independentemente do valor (Lei 12.153, art. 2º, § 1º, III). A causa vai para a <b>Vara da Fazenda Pública</b> comum (ou vara cível com competência fazendária).</li><li><b>Questão 3 (estilo Cebraspe)</b>: \"Nas causas do Juizado Especial da Fazenda Pública, a sentença condenatória contra o Município não se submete a reexame necessário, e o pagamento de pequeno valor deve ocorrer em até sessenta dias contados da entrega da requisição do juiz à autoridade citada para a causa.\" <b>Certo.</b> Arts. 11 e 13, I, da Lei 12.153.</li><li><b>Questão 4 (estilo Vunesp)</b>: \"Ultrapassado o limite da obrigação de pequeno valor, o exequente pode receber a parte que cabe na RPV em 60 dias e o restante por precatório.\" <b>Errado.</b> É <b>vedado o fracionamento</b> (art. 13, § 4º; CF, art. 100, § 8º). O exequente tem duas opções: receber <b>tudo por precatório</b> ou <b>renunciar ao excedente</b> e receber por RPV (art. 13, § 5º).</li><li><b>Questão 5 (estilo FCC)</b>: \"Cabe recurso especial ao STJ contra acórdão de Turma Recursal do Juizado Especial da Fazenda Pública que contraria súmula do STJ.\" <b>Errado.</b> <b>Não cabe REsp</b> contra decisão de turma recursal (Súmula 203 do STJ), porque a turma não é tribunal. O caminho é o <b>pedido de uniformização</b> (Lei 12.153, arts. 18, § 3º, e 19), que leva a questão ao STJ quando a decisão contraria súmula daquele tribunal.</li><li><b>Questão 6 (estilo Consulplan)</b>: \"A ação de indenização movida por particular contra o Município, no valor de 30 salários mínimos, em comarca onde está instalado o JEFaz, pode ser proposta, à escolha do autor, na Vara da Fazenda Pública.\" <b>Errado.</b> No foro onde estiver instalado, a competência do JEFaz é <b>absoluta</b> (art. 2º, § 4º). O autor não escolhe. A faculdade de opção existe no <b>Juizado Cível da Lei 9.099</b>, que não julga causas da Fazenda.</li><li><b>Questão 7 (estilo FGV)</b>: \"No JEFaz, o juiz não pode conceder tutela de urgência de ofício, pois a lei exige requerimento da parte.\" <b>Errado.</b> O art. 3º da Lei 12.153 autoriza o juiz a deferir providências cautelares e antecipatórias <b>de ofício ou a requerimento</b> das partes, para evitar dano de difícil ou de incerta reparação.</li><li><b>Questão 8 (estilo Cebraspe)</b>: \"A intimação eletrônica da Fazenda Pública feita pelo portal próprio do tribunal é considerada pessoal para todos os efeitos legais, e, se não consultada em dez dias corridos contados do envio, considera-se automaticamente realizada.\" <b>Certo.</b> Lei 11.419, art. 5º, §§ 3º e 6º.</li><li><b>Questão 9 (estilo Vunesp)</b>: \"Considera-se como data da publicação no Diário da Justiça eletrônico o dia da disponibilização, iniciando-se o prazo no primeiro dia útil seguinte.\" <b>Errado.</b> A data da <b>publicação</b> é o <b>primeiro dia útil seguinte ao da disponibilização</b>, e o prazo começa no <b>primeiro dia útil seguinte à publicação</b> (Lei 11.419, art. 4º, §§ 3º e 4º). A banca \"pula\" uma etapa.</li><li><b>Questão 10 (estilo Consulplan)</b>: \"Não havendo lei municipal sobre o tema, as obrigações de pequeno valor do Município serão aquelas de valor igual ou inferior a 40 salários mínimos.\" <b>Errado.</b> Para os <b>Municípios</b>, o valor é de <b>30 salários mínimos</b>; o de <b>40</b> é dos <b>Estados e do DF</b> (Lei 12.153, art. 13, § 3º; ADCT, art. 87).</li><li><b>Questão 11 (estilo FGV)</b>: \"O Procurador do Município, na audiência de conciliação do JEFaz, pode propor acordo para pagamento de 70% do valor pedido, desde que considere a proposta vantajosa ao interesse público.\" <b>Errado</b>, se não houver <b>lei municipal</b> autorizando. Os representantes judiciais podem conciliar, transigir ou desistir <b>nos termos e nas hipóteses previstas na lei do respectivo ente</b> (art. 8º). A vantagem para o interesse público é requisito, mas não substitui a autorização legal.</li><li><b>Questão 12 (estilo Cebraspe)</b>: \"Microempresa pode propor ação no Juizado Especial da Fazenda Pública contra o Município para anular auto de infração de posturas municipais de valor inferior a sessenta salários mínimos.\" <b>Certo.</b> A microempresa pode ser <b>autora</b> (art. 5º, I), o Município é <b>réu</b> (art. 5º, II), o valor está dentro do teto e a matéria <b>não está excluída</b> (a exclusão é a execução fiscal, e não a ação do particular contra a autuação).</li><li><b>Questão 13 (estilo FCC)</b>: \"No sistema dos juizados, a sentença ilíquida é admitida quando o pedido for genérico, devendo a liquidação ocorrer por arbitramento.\" <b>Errado.</b> <b>Não se admitirá sentença condenatória por quantia ilíquida</b>, ainda que genérico o pedido (Lei 9.099, art. 38, parágrafo único). A lógica é a simplicidade: o juizado deve entregar um título pronto para pagamento.</li><li><b>Questão 14 (estilo Vunesp)</b>: \"A citação do Município por meio eletrônico considera-se feita no dia do envio, e o prazo para contestar começa no dia útil seguinte.\" <b>Errado.</b> Na citação eletrônica, o prazo começa no <b>quinto dia útil seguinte à confirmação</b> do recebimento (CPC, art. 231, IX), e a ausência de confirmação em 3 dias úteis leva à citação pelos outros meios (art. 246, § 1º-A).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Quando a questão falar em <b>juizado</b>, faça mentalmente quatro perguntas: (1) <b>Qual juizado?</b> (Cível, Federal ou da Fazenda). (2) <b>A causa está excluída?</b> (MS, popular, improbidade, execução fiscal, desapropriação, imóveis públicos, demissão, difusos). (3) <b>Qual é o teto e como se calcula?</b> (60 SM; vencidas + 12 vincendas). (4) <b>Qual prerrogativa da Fazenda caiu?</b> (prazo em dobro, reexame, precatório até o teto da RPV).</div>\n<h3>15. Como as bancas cobram este tópico</h3>\n<ul><li><b>Lei 12.153/2009</b>: art. 2º (60 salários mínimos; 12 parcelas vincendas; exclusões; competência absoluta), art. 3º (tutela de ofício), art. 4º (recurso só contra sentença, salvo tutela), art. 5º (partes), art. 7º (sem prazo diferenciado; citação 30 dias antes), art. 8º (conciliação nos termos da lei do ente), art. 9º (documentação), art. 10 (exame técnico), art. 11 (sem reexame), art. 12 (ofício para obrigação de fazer), art. 13 (RPV em 60 dias; sequestro; 40 e 30 salários mínimos; vedação de fracionamento; renúncia), arts. 15 e 16 (conciliadores e juízes leigos), art. 17 (turmas recursais), arts. 18 e 19 (uniformização), art. 27 (aplicação subsidiária).</li><li><b>Lei 9.099/1995</b>: arts. 2º (critérios), 3º (40 salários mínimos; exclusões; renúncia), 8º (partes vedadas), 9º (advogado até 20 salários mínimos), 10 (sem intervenção de terceiros), 12-A (dias úteis), 20 (revelia), 31 (pedido contraposto), 34 (3 testemunhas), 38 e 39 (sentença líquida, ineficácia do excesso), 41 a 43 (recurso inominado em 10 dias, preparo em 48 horas, efeito devolutivo), 48 a 50 (embargos interrompem), 51 (extinção), 54 e 55 (custas e honorários), 59 (sem rescisória).</li><li><b>Lei 10.259/2001</b>: arts. 3º (60 salários mínimos, exclusões, competência absoluta), 6º (partes), 9º, 10, 13, 14 (TNU) e 17 (RPV de 60 salários mínimos).</li><li><b>Lei 11.419/2006</b>: arts. 1º, 3º (24 horas do último dia), 4º (DJe: publicação no primeiro dia útil seguinte à disponibilização), 5º (portal; 10 dias corridos; intimação pessoal da Fazenda), 6º, 10 e 11. <b>CPC</b>: arts. 183, § 1º, 213, 224, 231, V e IX, 246 e 270.</li><li><b>Súmulas</b>: 203, 376 e 428 do STJ; 640 do STF; Tema 77 do STF (não cabe MS contra interlocutória na Lei 9.099); Tema 792 do STF (lei de RPV não retroage); Temas 793 e 1.234 do STF e Súmulas Vinculantes 60 e 61 (saúde).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para o JEFaz, lembre <b>\"60, 60, 30, 10\"</b>: teto de <b>60 salários mínimos</b> para entrar; <b>60 dias</b> para pagar a RPV; <b>30 salários mínimos</b> de RPV para o Município sem lei própria; e <b>10 dias</b> (úteis) para o recurso inominado, <b>sem prazo em dobro</b>.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>JEFaz</span></span><span class=\"vs\"><span>60 SM; competência absoluta onde instalado; autores PF, ME e EPP; réus Estados, DF, Municípios e entes vinculados</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exclusões do JEFaz</span></span><span class=\"vs\"><span>MS, desapropriação, divisão e demarcação, populares, improbidade, execuções fiscais, difusos e coletivos, imóveis públicos, demissão de servidor civil</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazos no JEFaz</span></span><span class=\"vs\"><span>sem prazo diferenciado para a Fazenda; citação 30 dias antes da audiência; dias úteis</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Recursos no JEFaz</span></span><span class=\"vs\"><span>só contra sentença e tutela provisória; sem reexame; sem REsp (Súmula 203); cabe RE (Súmula 640)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>RPV</span></span><span class=\"vs\"><span>60 dias; Municípios 30 SM sem lei; vedado fracionar; renúncia ao excedente; sequestro se desatendida</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>DJe</span></span><span class=\"vs\"><span>publicação no 1º dia útil após a disponibilização; prazo no dia útil seguinte</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Portal</span></span><span class=\"vs\"><span>intimação na consulta ou tácita após 10 dias corridos; pessoal para a Fazenda</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Os Juizados Especiais da Fazenda Pública julgam causas cíveis de interesse dos Estados, do DF, dos Territórios e dos Municípios até 60 salários mínimos.",
+"c": true,
+"prof": "Lei 12.153, art. 2º.",
+"x": "Literal.",
+"e": "Competência"
+},
+{
+"p": "O teto dos Juizados Especiais da Fazenda Pública é de 40 salários mínimos.",
+"c": false,
+"prof": "Lei 12.153, art. 2º.",
+"x": "São 60; 40 é o da Lei 9.099.",
+"e": "Competência"
+},
+{
+"p": "No foro onde estiver instalado, a competência do Juizado Especial da Fazenda Pública é absoluta.",
+"c": true,
+"prof": "Lei 12.153, art. 2º, § 4º.",
+"x": "Literal.",
+"e": "Competência"
+},
+{
+"p": "Nas obrigações vincendas, considera-se para a competência do JEFaz apenas o valor das parcelas vencidas.",
+"c": false,
+"prof": "Lei 12.153, art. 2º, § 2º.",
+"x": "Soma-se 12 vincendas e as vencidas.",
+"e": "Competência"
+},
+{
+"p": "Não se incluem na competência do JEFaz as ações de mandado de segurança, populares e por improbidade.",
+"c": true,
+"prof": "Lei 12.153, art. 2º, § 1º, I.",
+"x": "Literal.",
+"e": "Exclusões"
+},
+{
+"p": "As execuções fiscais estão excluídas da competência do JEFaz.",
+"c": true,
+"prof": "Lei 12.153, art. 2º, § 1º, I.",
+"x": "Literal.",
+"e": "Exclusões"
+},
+{
+"p": "A ação anulatória de multa de trânsito proposta pelo particular contra o Município está excluída do JEFaz.",
+"c": false,
+"prof": "Lei 12.153, art. 2º, § 1º.",
+"x": "A exclusão é da execução fiscal.",
+"e": "Exclusões"
+},
+{
+"p": "Estão excluídas do JEFaz as causas sobre bens imóveis dos Municípios e de suas autarquias e fundações.",
+"c": true,
+"prof": "Lei 12.153, art. 2º, § 1º, II.",
+"x": "Literal.",
+"e": "Exclusões"
+},
+{
+"p": "Está excluída do JEFaz a causa que impugna a pena de demissão imposta a servidor público civil.",
+"c": true,
+"prof": "Lei 12.153, art. 2º, § 1º, III.",
+"x": "Literal.",
+"e": "Exclusões"
+},
+{
+"p": "A impugnação de suspensão disciplinar aplicada a servidor civil está excluída do JEFaz.",
+"c": false,
+"prof": "Lei 12.153, art. 2º, § 1º, III.",
+"x": "Só a demissão do servidor civil.",
+"e": "Exclusões"
+},
+{
+"p": "As demandas sobre direitos difusos e coletivos podem ser propostas no JEFaz até 60 salários mínimos.",
+"c": false,
+"prof": "Lei 12.153, art. 2º, § 1º, I.",
+"x": "Estão excluídas.",
+"e": "Exclusões"
+},
+{
+"p": "Podem ser autores no JEFaz as pessoas físicas, as microempresas e as empresas de pequeno porte.",
+"c": true,
+"prof": "Lei 12.153, art. 5º, I.",
+"x": "Literal.",
+"e": "Partes"
+},
+{
+"p": "O Município pode ser autor no JEFaz para cobrar crédito não tributário de pequeno valor.",
+"c": false,
+"prof": "Lei 12.153, art. 5º.",
+"x": "Ente público só é réu.",
+"e": "Partes"
+},
+{
+"p": "Empresas públicas vinculadas aos Municípios podem ser rés no JEFaz.",
+"c": true,
+"prof": "Lei 12.153, art. 5º, II.",
+"x": "Literal.",
+"e": "Partes"
+},
+{
+"p": "Sociedade de economia mista municipal pode ser ré no JEFaz.",
+"c": false,
+"prof": "Lei 12.153, art. 5º, II.",
+"x": "Não consta do rol.",
+"e": "Partes"
+},
+{
+"p": "No JEFaz não há prazo diferenciado para a Fazenda Pública, inclusive para a interposição de recursos.",
+"c": true,
+"prof": "Lei 12.153, art. 7º.",
+"x": "Literal.",
+"e": "Prazos"
+},
+{
+"p": "No JEFaz, a citação para a audiência de conciliação deve ser feita com antecedência mínima de 30 dias.",
+"c": true,
+"prof": "Lei 12.153, art. 7º.",
+"x": "Literal.",
+"e": "Prazos"
+},
+{
+"p": "O Município tem prazo em dobro para interpor recurso inominado no JEFaz.",
+"c": false,
+"prof": "Lei 12.153, art. 7º.",
+"x": "Sem prazo diferenciado.",
+"e": "Prazos"
+},
+{
+"p": "Os representantes judiciais dos réus podem conciliar, transigir ou desistir nos termos e hipóteses previstos na lei do respectivo ente.",
+"c": true,
+"prof": "Lei 12.153, art. 8º.",
+"x": "Literal.",
+"e": "Conciliação"
+},
+{
+"p": "O procurador municipal pode celebrar acordo no JEFaz em qualquer valor, independentemente de lei local.",
+"c": false,
+"prof": "Lei 12.153, art. 8º.",
+"x": "Depende da lei do ente.",
+"e": "Conciliação"
+},
+{
+"p": "A entidade ré deve fornecer ao juizado a documentação de que disponha até a instalação da audiência de conciliação.",
+"c": true,
+"prof": "Lei 12.153, art. 9º.",
+"x": "Literal.",
+"e": "Documentação"
+},
+{
+"p": "O laudo do exame técnico no JEFaz deve ser apresentado até 5 dias antes da audiência.",
+"c": true,
+"prof": "Lei 12.153, art. 10.",
+"x": "Literal.",
+"e": "Exame técnico"
+},
+{
+"p": "Nas causas do JEFaz não haverá reexame necessário.",
+"c": true,
+"prof": "Lei 12.153, art. 11.",
+"x": "Literal.",
+"e": "Reexame"
+},
+{
+"p": "No JEFaz, o juiz pode deferir de ofício providências cautelares e antecipatórias para evitar dano de difícil reparação.",
+"c": true,
+"prof": "Lei 12.153, art. 3º.",
+"x": "Literal.",
+"e": "Tutela"
+},
+{
+"p": "No JEFaz, cabe recurso contra qualquer decisão interlocutória.",
+"c": false,
+"prof": "Lei 12.153, art. 4º.",
+"x": "Só contra sentença e decisões do art. 3º.",
+"e": "Recursos"
+},
+{
+"p": "No JEFaz, cabe recurso contra a decisão que defere ou indefere tutela provisória.",
+"c": true,
+"prof": "Lei 12.153, arts. 3º e 4º.",
+"x": "Exceção do art. 4º.",
+"e": "Recursos"
+},
+{
+"p": "O recurso inominado deve ser interposto no prazo de 10 dias.",
+"c": true,
+"prof": "Lei 9.099, art. 42.",
+"x": "Aplicação subsidiária.",
+"e": "Recursos"
+},
+{
+"p": "O preparo do recurso inominado deve ser feito nas 48 horas seguintes à interposição, independentemente de intimação.",
+"c": true,
+"prof": "Lei 9.099, art. 42, § 1º.",
+"x": "Literal.",
+"e": "Recursos"
+},
+{
+"p": "O recurso inominado tem, em regra, efeito suspensivo automático.",
+"c": false,
+"prof": "Lei 9.099, art. 43.",
+"x": "Só devolutivo, podendo o juiz dar efeito suspensivo.",
+"e": "Recursos"
+},
+{
+"p": "Nos juizados, os embargos de declaração interrompem o prazo para a interposição de recurso.",
+"c": true,
+"prof": "Lei 9.099, art. 50.",
+"x": "Redação do CPC de 2015.",
+"e": "Recursos"
+},
+{
+"p": "As turmas recursais do JEFaz são compostas por juízes em exercício no primeiro grau, com mandato de 2 anos.",
+"c": true,
+"prof": "Lei 12.153, art. 17.",
+"x": "Literal.",
+"e": "Turmas"
+},
+{
+"p": "A divergência entre turmas recursais do mesmo Estado sobre direito material é resolvida em reunião conjunta, presidida por desembargador.",
+"c": true,
+"prof": "Lei 12.153, art. 18, § 1º.",
+"x": "Literal.",
+"e": "Uniformização"
+},
+{
+"p": "Divergência entre turmas recursais de diferentes Estados no JEFaz é julgada pelo STJ.",
+"c": true,
+"prof": "Lei 12.153, art. 18, § 3º.",
+"x": "Literal.",
+"e": "Uniformização"
+},
+{
+"p": "Cabe recurso especial contra acórdão de turma recursal.",
+"c": false,
+"prof": "Súmula 203 do STJ.",
+"x": "Não cabe.",
+"e": "Recursos"
+},
+{
+"p": "Cabe recurso extraordinário contra decisão de turma recursal de juizado especial.",
+"c": true,
+"prof": "Súmula 640 do STF.",
+"x": "Literal.",
+"e": "Recursos"
+},
+{
+"p": "Compete à turma recursal julgar mandado de segurança contra ato de juizado especial.",
+"c": true,
+"prof": "Súmula 376 do STJ.",
+"x": "Literal.",
+"e": "MS no juizado"
+},
+{
+"p": "Cabe mandado de segurança contra decisão interlocutória proferida no rito da Lei 9.099.",
+"c": false,
+"prof": "Tema 77 do STF.",
+"x": "Não cabe.",
+"e": "MS no juizado"
+},
+{
+"p": "No JEFaz, a obrigação de fazer é cumprida mediante ofício do juiz à autoridade citada para a causa.",
+"c": true,
+"prof": "Lei 12.153, art. 12.",
+"x": "Literal.",
+"e": "Cumprimento"
+},
+{
+"p": "A obrigação de pequeno valor no JEFaz deve ser paga em até 60 dias da entrega da requisição, independentemente de precatório.",
+"c": true,
+"prof": "Lei 12.153, art. 13, I.",
+"x": "Literal.",
+"e": "RPV"
+},
+{
+"p": "A RPV no JEFaz deve ser paga em 90 dias da intimação do ente.",
+"c": false,
+"prof": "Lei 12.153, art. 13, I.",
+"x": "60 dias da entrega da requisição.",
+"e": "RPV"
+},
+{
+"p": "Desatendida a requisição judicial, o juiz determinará imediatamente o sequestro do numerário, dispensada a audiência da Fazenda.",
+"c": true,
+"prof": "Lei 12.153, art. 13, § 1º.",
+"x": "Literal.",
+"e": "RPV"
+},
+{
+"p": "Na falta de lei local, a obrigação de pequeno valor dos Municípios é de 30 salários mínimos.",
+"c": true,
+"prof": "Lei 12.153, art. 13, § 3º, II; ADCT, art. 87.",
+"x": "Literal.",
+"e": "RPV"
+},
+{
+"p": "Na falta de lei local, a obrigação de pequeno valor dos Municípios é de 60 salários mínimos.",
+"c": false,
+"prof": "Lei 12.153, art. 13, § 3º.",
+"x": "30 SM; 60 é o teto do juizado.",
+"e": "RPV"
+},
+{
+"p": "Na falta de lei própria, a obrigação de pequeno valor dos Estados e do DF é de 40 salários mínimos.",
+"c": true,
+"prof": "Lei 12.153, art. 13, § 3º, I.",
+"x": "Literal.",
+"e": "RPV"
+},
+{
+"p": "É vedado o fracionamento do valor da execução para pagamento em parte por RPV e em parte por precatório.",
+"c": true,
+"prof": "Lei 12.153, art. 13, § 4º.",
+"x": "Literal.",
+"e": "RPV"
+},
+{
+"p": "O exequente pode renunciar ao crédito excedente ao limite da RPV para receber sem precatório.",
+"c": true,
+"prof": "Lei 12.153, art. 13, § 5º.",
+"x": "Literal.",
+"e": "RPV"
+},
+{
+"p": "Lei do ente pode fixar valor próprio para a RPV, respeitado como mínimo o maior benefício do RGPS.",
+"c": true,
+"prof": "CF, art. 100, § 4º.",
+"x": "Literal.",
+"e": "RPV"
+},
+{
+"p": "A lei municipal que reduz o teto da RPV aplica-se às execuções de créditos constituídos antes dela.",
+"c": false,
+"prof": "Tema 792 do STF.",
+"x": "Não retroage.",
+"e": "RPV"
+},
+{
+"p": "O saque do valor da RPV pode ser feito pela parte autora pessoalmente, independentemente de alvará.",
+"c": true,
+"prof": "Lei 12.153, art. 13, § 6º.",
+"x": "Literal.",
+"e": "RPV"
+},
+{
+"p": "Aplicam-se subsidiariamente ao JEFaz o CPC, a Lei 9.099 e a Lei 10.259.",
+"c": true,
+"prof": "Lei 12.153, art. 27.",
+"x": "Literal.",
+"e": "Microssistema"
+},
+{
+"p": "O processo nos juizados orienta-se pela oralidade, simplicidade, informalidade, economia processual e celeridade.",
+"c": true,
+"prof": "Lei 9.099, art. 2º.",
+"x": "Literal.",
+"e": "Princípios"
+},
+{
+"p": "O Município pode ser réu no Juizado Especial Cível da Lei 9.099.",
+"c": false,
+"prof": "Lei 9.099, art. 8º.",
+"x": "Pessoas jurídicas de direito público não podem ser partes.",
+"e": "Lei 9.099"
+},
+{
+"p": "Nas causas de até 20 salários mínimos no Juizado Cível, a assistência por advogado é facultativa.",
+"c": true,
+"prof": "Lei 9.099, art. 9º.",
+"x": "Literal.",
+"e": "Lei 9.099"
+},
+{
+"p": "No Juizado Cível, a parte pode recorrer sem advogado se a causa for de até 20 salários mínimos.",
+"c": false,
+"prof": "Lei 9.099, art. 41, § 2º.",
+"x": "Recurso exige advogado.",
+"e": "Lei 9.099"
+},
+{
+"p": "Nos juizados admite-se a denunciação da lide.",
+"c": false,
+"prof": "Lei 9.099, art. 10.",
+"x": "Não se admite intervenção de terceiros.",
+"e": "Lei 9.099"
+},
+{
+"p": "O incidente de desconsideração da personalidade jurídica aplica-se aos juizados especiais.",
+"c": true,
+"prof": "CPC, art. 1.062.",
+"x": "Literal.",
+"e": "Lei 9.099"
+},
+{
+"p": "Nos juizados, os prazos processuais são contados em dias úteis.",
+"c": true,
+"prof": "Lei 9.099, art. 12-A.",
+"x": "Lei 13.728/2018.",
+"e": "Prazos"
+},
+{
+"p": "Nos juizados admite-se reconvenção.",
+"c": false,
+"prof": "Lei 9.099, art. 31.",
+"x": "Admite-se pedido contraposto.",
+"e": "Lei 9.099"
+},
+{
+"p": "Nos juizados, cada parte pode levar até 3 testemunhas.",
+"c": true,
+"prof": "Lei 9.099, art. 34.",
+"x": "Literal.",
+"e": "Lei 9.099"
+},
+{
+"p": "Nos juizados admite-se sentença condenatória ilíquida quando genérico o pedido.",
+"c": false,
+"prof": "Lei 9.099, art. 38, parágrafo único.",
+"x": "Não se admite.",
+"e": "Lei 9.099"
+},
+{
+"p": "É ineficaz a sentença condenatória do juizado na parte que exceder a alçada.",
+"c": true,
+"prof": "Lei 9.099, art. 39.",
+"x": "Literal.",
+"e": "Lei 9.099"
+},
+{
+"p": "A extinção do processo no juizado por ausência do autor à audiência independe de prévia intimação pessoal.",
+"c": true,
+"prof": "Lei 9.099, art. 51, § 1º.",
+"x": "Literal.",
+"e": "Lei 9.099"
+},
+{
+"p": "A sentença de primeiro grau do juizado não condena o vencido em custas e honorários, salvo litigância de má-fé.",
+"c": true,
+"prof": "Lei 9.099, art. 55.",
+"x": "Literal.",
+"e": "Custas"
+},
+{
+"p": "Em segundo grau, o recorrente vencido nos juizados paga custas e honorários.",
+"c": true,
+"prof": "Lei 9.099, art. 55.",
+"x": "Literal.",
+"e": "Custas"
+},
+{
+"p": "Cabe ação rescisória contra sentença de juizado especial.",
+"c": false,
+"prof": "Lei 9.099, art. 59.",
+"x": "Não cabe.",
+"e": "Lei 9.099"
+},
+{
+"p": "Os Juizados Especiais Federais julgam causas da Justiça Federal até 60 salários mínimos.",
+"c": true,
+"prof": "Lei 10.259, art. 3º.",
+"x": "Literal.",
+"e": "JEF"
+},
+{
+"p": "O Município pode ser réu no Juizado Especial Federal ao lado da União.",
+"c": false,
+"prof": "Lei 10.259, art. 6º, II.",
+"x": "Réus são entes federais.",
+"e": "JEF"
+},
+{
+"p": "No JEF, a anulação de ato administrativo federal está excluída, salvo o de natureza previdenciária e o de lançamento fiscal.",
+"c": true,
+"prof": "Lei 10.259, art. 3º, § 1º, III.",
+"x": "Literal.",
+"e": "JEF"
+},
+{
+"p": "No JEF, o teto da RPV é de 60 salários mínimos.",
+"c": true,
+"prof": "Lei 10.259, art. 17, § 1º.",
+"x": "Igual ao teto do juizado.",
+"e": "JEF"
+},
+{
+"p": "Compete ao TRF decidir conflito de competência entre juizado especial federal e juízo federal da mesma seção judiciária.",
+"c": true,
+"prof": "Súmula 428 do STJ.",
+"x": "Literal.",
+"e": "JEF"
+},
+{
+"p": "A tese firmada em IRDR aplica-se também aos processos dos juizados especiais do respectivo Estado ou região.",
+"c": true,
+"prof": "CPC, art. 985, I.",
+"x": "Literal.",
+"e": "IRDR"
+},
+{
+"p": "Nas demandas de saúde, os entes da Federação são solidariamente responsáveis, cabendo ao juiz direcionar o cumprimento.",
+"c": true,
+"prof": "Tema 793 do STF.",
+"x": "Literal.",
+"e": "Saúde"
+},
+{
+"p": "Ações sobre medicamentos não incorporados com custo anual de 210 salários mínimos ou mais tramitam na Justiça Federal.",
+"c": true,
+"prof": "Tema 1.234 do STF.",
+"x": "Com a União no polo passivo.",
+"e": "Saúde"
+},
+{
+"p": "A Lei 11.419 aplica-se aos processos civil, penal e trabalhista, bem como aos juizados especiais.",
+"c": true,
+"prof": "Lei 11.419, art. 1º.",
+"x": "Literal.",
+"e": "Processo eletrônico"
+},
+{
+"p": "Consideram-se realizados os atos processuais eletrônicos no dia e hora do seu envio ao sistema.",
+"c": true,
+"prof": "Lei 11.419, art. 3º.",
+"x": "Literal.",
+"e": "Processo eletrônico"
+},
+{
+"p": "A petição eletrônica enviada até as 24 horas do último dia do prazo é tempestiva.",
+"c": true,
+"prof": "Lei 11.419, art. 3º, parágrafo único.",
+"x": "Literal.",
+"e": "Processo eletrônico"
+},
+{
+"p": "Havendo indisponibilidade do sistema por motivo técnico, o prazo prorroga-se para o primeiro dia útil seguinte à resolução do problema.",
+"c": true,
+"prof": "Lei 11.419, art. 10, § 2º.",
+"x": "Literal.",
+"e": "Processo eletrônico"
+},
+{
+"p": "Considera-se data da publicação no DJe o próprio dia da disponibilização.",
+"c": false,
+"prof": "Lei 11.419, art. 4º, § 3º.",
+"x": "Primeiro dia útil seguinte.",
+"e": "DJe"
+},
+{
+"p": "Os prazos começam no primeiro dia útil que seguir ao considerado como data da publicação no DJe.",
+"c": true,
+"prof": "Lei 11.419, art. 4º, § 4º.",
+"x": "Literal.",
+"e": "DJe"
+},
+{
+"p": "A intimação pelo portal considera-se realizada no dia em que o intimando efetivar a consulta eletrônica.",
+"c": true,
+"prof": "Lei 11.419, art. 5º, § 1º.",
+"x": "Literal.",
+"e": "Intimação"
+},
+{
+"p": "Não feita a consulta em 10 dias corridos do envio, a intimação considera-se automaticamente realizada.",
+"c": true,
+"prof": "Lei 11.419, art. 5º, § 3º.",
+"x": "Intimação tácita.",
+"e": "Intimação"
+},
+{
+"p": "A intimação eletrônica pelo portal não equivale à intimação pessoal da Fazenda Pública.",
+"c": false,
+"prof": "Lei 11.419, art. 5º, § 6º.",
+"x": "É considerada pessoal.",
+"e": "Intimação"
+},
+{
+"p": "Os documentos digitalizados juntados por procuradorias têm a mesma força probante dos originais, ressalvada alegação fundamentada de adulteração.",
+"c": true,
+"prof": "Lei 11.419, art. 11, § 1º.",
+"x": "Literal.",
+"e": "Documentos"
+},
+{
+"p": "A citação será feita preferencialmente por meio eletrônico, em até 2 dias úteis da decisão que a determinar.",
+"c": true,
+"prof": "CPC, art. 246.",
+"x": "Lei 14.195/2021.",
+"e": "Citação eletrônica"
+},
+{
+"p": "Os Municípios estão obrigados a manter cadastro para recebimento de citações e intimações eletrônicas.",
+"c": true,
+"prof": "CPC, art. 246, § 2º.",
+"x": "Literal.",
+"e": "Citação eletrônica"
+},
+{
+"p": "Na citação eletrônica, o prazo começa no dia útil seguinte ao envio da mensagem.",
+"c": false,
+"prof": "CPC, art. 231, IX.",
+"x": "Quinto dia útil após a confirmação.",
+"e": "Citação eletrônica"
+},
+{
+"p": "A ausência de confirmação da citação eletrônica em 3 dias úteis leva à citação pelos outros meios.",
+"c": true,
+"prof": "CPC, art. 246, § 1º-A.",
+"x": "Literal.",
+"e": "Citação eletrônica"
+},
+{
+"p": "No juizado, o pedido pode ser escrito ou oral, caso em que é reduzido a escrito pela Secretaria.",
+"c": true,
+"prof": "Lei 9.099, art. 14.",
+"x": "Literal.",
+"e": "Rito"
+},
+{
+"p": "É cabível a conciliação não presencial nos juizados, por recursos de transmissão de sons e imagens em tempo real.",
+"c": true,
+"prof": "Lei 9.099, art. 22, § 2º.",
+"x": "Lei 13.994/2020.",
+"e": "Rito"
+},
+{
+"p": "Se o demandado não comparecer à conciliação não presencial, o juiz togado proferirá sentença.",
+"c": true,
+"prof": "Lei 9.099, art. 23.",
+"x": "Lei 13.994/2020.",
+"e": "Rito"
+},
+{
+"p": "A decisão do juiz leigo dispensa a homologação do juiz togado.",
+"c": false,
+"prof": "Lei 9.099, art. 40.",
+"x": "É submetida ao juiz togado.",
+"e": "Rito"
+},
+{
+"p": "No JEFaz, frustrada a conciliação, o juiz pode dispensar novos depoimentos se os esclarecimentos dos autos forem suficientes e não houver impugnação.",
+"c": true,
+"prof": "Lei 12.153, art. 16, § 2º.",
+"x": "Literal.",
+"e": "Rito"
+},
+{
+"p": "As dívidas passivas dos Municípios prescrevem em 5 anos contados do ato ou fato do qual se originarem.",
+"c": true,
+"prof": "Decreto 20.910, art. 1º.",
+"x": "Literal.",
+"e": "Prescrição"
+},
+{
+"p": "Nas relações de trato sucessivo, não negado o próprio direito, prescrevem apenas as prestações vencidas antes do quinquênio anterior à ação.",
+"c": true,
+"prof": "Súmula 85 do STJ.",
+"x": "Literal.",
+"e": "Prescrição"
+},
+{
+"p": "A prescrição em favor da Fazenda recomeça a correr por dois anos e meio após a interrupção, mas não fica reduzida aquém de cinco anos.",
+"c": true,
+"prof": "Súmula 383 do STF.",
+"x": "Literal.",
+"e": "Prescrição"
+},
+{
+"p": "A vítima de dano causado por servidor municipal pode ajuizar a ação diretamente contra o servidor.",
+"c": false,
+"prof": "Tema 940 do STF.",
+"x": "Deve ajuizar contra o ente.",
+"e": "Responsabilidade"
+},
+{
+"p": "Não cabe ao Judiciário aumentar vencimentos de servidores públicos sob o fundamento de isonomia.",
+"c": true,
+"prof": "Súmula Vinculante 37.",
+"x": "Literal.",
+"e": "Servidores"
+},
+{
+"p": "É inconstitucional vincular o reajuste de vencimentos de servidores municipais a índices federais de correção monetária.",
+"c": true,
+"prof": "Súmula Vinculante 42.",
+"x": "Literal.",
+"e": "Servidores"
+},
+{
+"p": "No processo administrativo de multa de trânsito, são necessárias as notificações da autuação e da aplicação da pena.",
+"c": true,
+"prof": "Súmula 312 do STJ.",
+"x": "Literal.",
+"e": "Trânsito"
+},
+{
+"p": "Desde a EC 113/2021, as condenações da Fazenda Pública são atualizadas, uma única vez, pela taxa Selic.",
+"c": true,
+"prof": "EC 113/2021, art. 3º.",
+"x": "Literal.",
+"e": "Selic"
+},
+{
+"p": "A anulação da pena de demissão de servidor civil pode tramitar no JEFaz se o valor for inferior a 60 salários mínimos.",
+"c": false,
+"prof": "Lei 12.153, art. 2º, § 1º, III.",
+"x": "Excluída independentemente do valor.",
+"e": "Exclusões"
+},
+{
+"p": "A microempresa pode propor no JEFaz ação para anular auto de infração municipal de valor inferior a 60 salários mínimos.",
+"c": true,
+"prof": "Lei 12.153, arts. 2º e 5º.",
+"x": "Matéria não excluída.",
+"e": "Partes"
+},
+{
+"p": "No JEFaz, o juiz só pode conceder tutela de urgência mediante requerimento da parte.",
+"c": false,
+"prof": "Lei 12.153, art. 3º.",
+"x": "De ofício ou a requerimento.",
+"e": "Tutela"
+},
+{
+"p": "Sobre a competência dos Juizados Especiais da Fazenda Pública, é correto afirmar:",
+"alts": [
+"é relativa, podendo o autor optar pela vara comum",
+"abrange as execuções fiscais de pequeno valor",
+"é absoluta no foro onde estiver instalado o juizado e vai até 60 salários mínimos",
+"abrange as ações populares de pequeno valor",
+"vai até 40 salários mínimos"
+],
+"r": 2,
+"x": "Lei 12.153, art. 2º, caput e §§ 1º e 4º.",
+"n": [
+"Absoluta.",
+"Excluídas.",
+"Correta.",
+"Excluídas.",
+"60 SM."
+],
+"e": "Competência."
+},
+{
+"p": "Está incluída na competência do Juizado Especial da Fazenda Pública a ação",
+"alts": [
+"de desapropriação de imóvel de pequeno valor",
+"por improbidade contra servidor municipal",
+"de servidor municipal civil que impugna suspensão disciplinar de 10 dias",
+"sobre a posse de imóvel do Município",
+"de demarcação de terras públicas"
+],
+"r": 2,
+"x": "Lei 12.153, art. 2º, § 1º.",
+"n": [
+"Excluída.",
+"Excluída.",
+"Correta: só a demissão é excluída.",
+"Excluída (imóveis).",
+"Excluída."
+],
+"e": "Exclusões."
+},
+{
+"p": "Podem ser partes no Juizado Especial da Fazenda Pública",
+"alts": [
+"como autor, o Município, para cobrar créditos de pequeno valor",
+"como réu, a sociedade de economia mista estadual",
+"como autora, a microempresa, e como réu, a autarquia municipal",
+"como autor, o condomínio edilício e a associação civil",
+"como réu, a União"
+],
+"r": 2,
+"x": "Lei 12.153, art. 5º.",
+"n": [
+"Ente público só é réu.",
+"Não consta.",
+"Correta.",
+"Não constam.",
+"JEF."
+],
+"e": "Partes."
+},
+{
+"p": "No Juizado Especial da Fazenda Pública, quanto aos prazos da Fazenda Pública,",
+"alts": [
+"aplica-se o prazo em dobro do art. 183 do CPC",
+"o prazo em dobro vale apenas para recorrer",
+"não há prazo diferenciado para nenhum ato, inclusive recursos",
+"a Fazenda tem prazo em quádruplo para contestar",
+"os prazos correm em dias corridos"
+],
+"r": 2,
+"x": "Lei 12.153, art. 7º; Lei 9.099, art. 12-A.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Dias úteis."
+],
+"e": "Prazos."
+},
+{
+"p": "Em relação às decisões no JEFaz, assinale a correta.",
+"alts": [
+"cabe agravo de instrumento de qualquer decisão interlocutória",
+"a sentença contra o Município se sujeita a reexame necessário",
+"só cabe recurso contra a sentença, exceto contra as decisões sobre tutelas cautelares e antecipatórias",
+"cabe recurso especial ao STJ contra acórdão da turma recursal",
+"não cabe recurso extraordinário"
+],
+"r": 2,
+"x": "Lei 12.153, arts. 3º, 4º e 11; Súmulas 203 do STJ e 640 do STF.",
+"n": [
+"Não.",
+"Não há reexame.",
+"Correta.",
+"Súmula 203.",
+"Cabe (Súmula 640)."
+],
+"e": "Recursos."
+},
+{
+"p": "Um particular obteve no JEFaz condenação do Município de 45 salários mínimos. O Município não tem lei de RPV. O pagamento será",
+"alts": [
+"por RPV de 45 salários mínimos em 60 dias",
+"por RPV de 30 salários mínimos e precatório do restante",
+"por precatório, salvo se o credor renunciar ao que exceder 30 salários mínimos para receber por RPV",
+"por RPV, pois o teto do JEFaz é de 60 salários mínimos",
+"por sequestro imediato"
+],
+"r": 2,
+"x": "Lei 12.153, art. 13, §§ 3º, 4º e 5º.",
+"n": [
+"Excede 30 SM.",
+"Fracionamento vedado.",
+"Correta.",
+"Teto do juizado não é teto da RPV.",
+"Só se desatendida."
+],
+"e": "RPV."
+},
+{
+"p": "Desatendida a requisição de pequeno valor expedida pelo JEFaz, o juiz",
+"alts": [
+"deve intimar a Fazenda para justificar em 15 dias",
+"expedirá precatório",
+"determinará imediatamente o sequestro do numerário suficiente, dispensada a audiência da Fazenda",
+"aplicará multa ao Procurador",
+"oficiará ao Tribunal de Contas"
+],
+"r": 2,
+"x": "Lei 12.153, art. 13, § 1º.",
+"n": [
+"Dispensada.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Sequestro."
+},
+{
+"p": "Sobre o valor das obrigações de pequeno valor dos Municípios, é correto afirmar:",
+"alts": [
+"é fixado pelo Tribunal de Justiça",
+"é sempre de 60 salários mínimos",
+"pode ser fixado por lei municipal segundo a capacidade econômica, com mínimo igual ao maior benefício do RGPS",
+"não pode ser inferior a 30 salários mínimos",
+"a lei que o reduz aplica-se às execuções em curso de créditos anteriores"
+],
+"r": 2,
+"x": "CF, art. 100, § 4º; ADCT, art. 87; Tema 792 do STF.",
+"n": [
+"Lei do ente.",
+"Não.",
+"Correta.",
+"Pode ser inferior (ADI 2.868).",
+"Não retroage."
+],
+"e": "Lei de RPV."
+},
+{
+"p": "Segundo a Lei 9.099/1995, não podem ser partes no Juizado Especial Cível",
+"alts": [
+"as microempresas",
+"as pessoas físicas capazes",
+"as pessoas jurídicas de direito público e o preso",
+"os condomínios",
+"os idosos"
+],
+"r": 2,
+"x": "Lei 9.099, art. 8º.",
+"n": [
+"Podem ser autoras.",
+"Podem.",
+"Correta.",
+"Admitidos pela jurisprudência.",
+"Podem."
+],
+"e": "Partes na Lei 9.099."
+},
+{
+"p": "Nos Juizados Especiais, é correto afirmar que",
+"alts": [
+"cabe reconvenção",
+"admite-se denunciação da lide",
+"os prazos processuais são contados em dias úteis",
+"cabe ação rescisória",
+"admite-se sentença ilíquida se o pedido for genérico"
+],
+"r": 2,
+"x": "Lei 9.099, arts. 10, 12-A, 31, 38 e 59.",
+"n": [
+"Pedido contraposto.",
+"Vedada.",
+"Correta.",
+"Vedada.",
+"Vedada."
+],
+"e": "Lei 9.099."
+},
+{
+"p": "No recurso inominado, o preparo deve ser feito",
+"alts": [
+"no ato da interposição, sob pena de deserção",
+"em 10 dias da intimação",
+"nas 48 horas seguintes à interposição, independentemente de intimação",
+"somente se o juiz determinar",
+"após as contrarrazões"
+],
+"r": 2,
+"x": "Lei 9.099, art. 42, § 1º.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Preparo."
+},
+{
+"p": "Quanto ao mandado de segurança no sistema dos juizados, assinale a correta.",
+"alts": [
+"o MS contra ato do juiz do juizado é julgado pelo TJ",
+"cabe MS contra qualquer decisão interlocutória da Lei 9.099",
+"compete à turma recursal julgar MS contra ato de juizado especial, e não cabe MS contra interlocutórias no rito da Lei 9.099",
+"o MS pode ser impetrado no próprio JEFaz",
+"o STJ julga o MS contra a turma recursal"
+],
+"r": 2,
+"x": "Súmula 376 do STJ; Tema 77 do STF; Lei 12.153, art. 2º, § 1º.",
+"n": [
+"Turma recursal.",
+"Não cabe.",
+"Correta.",
+"MS excluído do JEFaz.",
+"Não."
+],
+"e": "MS no juizado."
+},
+{
+"p": "Sobre o Juizado Especial Federal, é correto afirmar:",
+"alts": [
+"o Município pode ser réu ao lado da União",
+"o teto da RPV é de 30 salários mínimos",
+"a divergência entre turmas de diferentes Regiões é julgada pela Turma Nacional de Uniformização",
+"a Fazenda tem prazo em dobro para recorrer",
+"há reexame necessário"
+],
+"r": 2,
+"x": "Lei 10.259, arts. 6º, 9º, 13, 14 e 17.",
+"n": [
+"Não.",
+"60 SM.",
+"Correta.",
+"Sem prazo diferenciado.",
+"Não há."
+],
+"e": "JEF."
+},
+{
+"p": "Segundo a Lei 11.419/2006, a decisão disponibilizada no Diário da Justiça eletrônico numa segunda-feira (sem feriados na semana) tem prazo iniciado na",
+"alts": [
+"segunda-feira",
+"terça-feira",
+"quarta-feira",
+"quinta-feira",
+"segunda-feira seguinte"
+],
+"r": 2,
+"x": "Lei 11.419, art. 4º, §§ 3º e 4º; CPC, art. 224.",
+"n": [
+"Não.",
+"Data da publicação.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "DJe."
+},
+{
+"p": "A intimação eletrônica enviada ao portal do Procurador Municipal e não consultada",
+"alts": [
+"nunca se considera realizada",
+"considera-se realizada no dia do envio",
+"considera-se automaticamente realizada ao término de 10 dias corridos do envio",
+"considera-se realizada após 30 dias",
+"exige publicação no DJe"
+],
+"r": 2,
+"x": "Lei 11.419, art. 5º, § 3º.",
+"n": [
+"Tácita.",
+"Não.",
+"Correta.",
+"Não.",
+"Dispensa."
+],
+"e": "Intimação tácita."
+},
+{
+"p": "Sobre a citação eletrônica no CPC, com a redação da Lei 14.195/2021,",
+"alts": [
+"os Municípios estão dispensados de manter cadastro",
+"o prazo de resposta começa no dia útil seguinte ao envio",
+"o prazo começa no quinto dia útil seguinte à confirmação do recebimento",
+"a ausência de confirmação gera revelia",
+"a citação eletrônica é vedada para a Fazenda"
+],
+"r": 2,
+"x": "CPC, arts. 231, IX, e 246.",
+"n": [
+"Obrigados (§ 2º).",
+"Não.",
+"Correta.",
+"Gera citação por outros meios.",
+"Permitida."
+],
+"e": "Citação eletrônica."
+},
+{
+"p": "Uma moradora pede ao Município, no JEFaz, medicamento não incorporado ao SUS com custo anual de 300 salários mínimos. Segundo o STF (Tema 1.234), a competência é",
+"alts": [
+"do JEFaz, pela solidariedade dos entes",
+"da vara cível comum",
+"da Justiça Federal, com a União no polo passivo",
+"do STF",
+"do Tribunal de Justiça originariamente"
+],
+"r": 2,
+"x": "Tema 1.234 do STF; Súmula Vinculante 60.",
+"n": [
+"Não.",
+"Não.",
+"Correta: custo de 210 SM ou mais.",
+"Não.",
+"Não."
+],
+"e": "Saúde."
+},
+{
+"p": "Na contagem da competência do JEFaz quando o pedido envolve parcelas vincendas,",
+"alts": [
+"considera-se apenas o valor das parcelas vencidas",
+"considera-se o valor de 24 parcelas vincendas",
+"soma-se o valor de 12 parcelas vincendas com o das eventuais parcelas vencidas",
+"considera-se o valor anual mais as vencidas dos últimos 5 anos em dobro",
+"não há limite para obrigações vincendas"
+],
+"r": 2,
+"x": "Lei 12.153, art. 2º, § 2º.",
+"n": [
+"Não.",
+"12.",
+"Correta.",
+"Não.",
+"Há."
+],
+"e": "Vincendas."
+}
+]
 }
 },
 "portugues": {
