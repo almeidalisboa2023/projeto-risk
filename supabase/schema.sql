@@ -566,6 +566,7 @@ create table if not exists public.cursos_ajustes (
   incluidas text[] not null default '{}',
   excluidas text[] not null default '{}',
   atualizado_em timestamptz default now()
+  ,fundo text                         -- foto de fundo: 'galeria:<id>' ou URL (atualização 23)
 );
 alter table public.cursos_ajustes enable row level security;
 

@@ -1095,7 +1095,6 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
 @media (max-width: 520px) { .cs-dia span small { display: none; } .cs-ok { width: 14px; height: 14px; font-size: 9px; line-height: 14px; top: 3px; right: 3px; } }
 
 :root[data-fundo] .hero h1, :root[data-fundo] .hero .frase { text-shadow: 0 1px 12px rgba(0,0,0,.25); }
-:root[data-fundo]:not([data-theme="dark"]) .hero h1, :root[data-fundo]:not([data-theme="dark"]) .hero .frase { text-shadow: 0 1px 10px rgba(255,255,255,.8); }
 
 /* ===== Abertura: a logo "nasce" em 3D ===== */
 #intro { position: fixed; inset: 0; z-index: 9999; display: grid; place-items: center; background: radial-gradient(ellipse at 50% 45%, #1a1f33 0%, #07090f 55%, #020305 100%); transition: opacity .7s ease, transform .7s ease; }
@@ -1181,3 +1180,36 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
 @keyframes l3entra { from { opacity: 0; transform: translateY(14px) scale(.92); filter: blur(6px); } to { opacity: 1; transform: none; filter: none; } }
 @keyframes l3pulso { 0% { opacity: 0; transform: translate(-50%, -50%) scale(.6); } 20% { opacity: .7; } 100% { opacity: 0; transform: translate(-50%, -50%) scale(2.4); } }
 .login.cinema .card.vidro { animation-delay: .1s; }
+
+/* ===== Fundo com foto: versão profissional (cartões sólidos, foto desfocada no fundo e nítida no destaque) ===== */
+/* A foto inteira fica suavemente desfocada e escurecida/clareada: dá atmosfera sem mostrar falta de resolução */
+:root[data-fundo] body::before { filter: blur(18px) saturate(1.15); transform: scale(1.08); }
+:root[data-theme="dark"][data-fundo] body::after { background: linear-gradient(180deg, rgba(6,8,14,.70) 0%, rgba(6,8,14,.84) 45%, rgba(6,8,14,.93) 100%); }
+:root[data-fundo]:not([data-theme="dark"]) body::after { background: linear-gradient(180deg, rgba(244,239,228,.72) 0%, rgba(244,239,228,.86) 45%, rgba(244,239,228,.94) 100%); }
+/* Cartões quase sólidos, com sombra suave e borda fina */
+:root[data-theme="dark"][data-fundo] { --card: #141925; --hero: #141925; --borda: rgba(255,255,255,.08); --pill: rgba(255,255,255,.07); --sombra: 0 1px 0 rgba(255,255,255,.04) inset, 0 12px 32px rgba(0,0,0,.35); }
+:root[data-fundo]:not([data-theme="dark"]) { --card: #FFFFFF; --hero: #FFFFFF; --borda: rgba(30,25,15,.09); --pill: #F1ECE1; --sombra: 0 1px 2px rgba(40,30,10,.06), 0 10px 28px rgba(40,30,10,.08); }
+:root[data-fundo] .card { -webkit-backdrop-filter: none !important; backdrop-filter: none !important; }
+:root[data-theme="dark"][data-fundo] .side { background: #0B0E15; -webkit-backdrop-filter: none; backdrop-filter: none; border-color: rgba(255,255,255,.06); }
+:root[data-fundo]:not([data-theme="dark"]) .side { background: #111214; -webkit-backdrop-filter: none; backdrop-filter: none; }
+:root[data-theme="dark"][data-fundo] .side .rodape { background: #0B0E15; }
+:root[data-fundo]:not([data-theme="dark"]) .side .rodape { background: #111214; }
+/* O destaque do painel mostra a foto nítida, como capa */
+:root[data-fundo] .hero { position: relative; overflow: hidden; isolation: isolate; color: #F4F1EA; border: 1px solid rgba(255,255,255,.08);
+  background: #0d1018; -webkit-backdrop-filter: none !important; backdrop-filter: none !important; box-shadow: 0 18px 44px rgba(0,0,0,.28); }
+:root[data-fundo] .hero::before { content: ''; position: absolute; inset: 0; z-index: -2; background: var(--fundo) var(--fpos, center) / cover no-repeat; }
+:root[data-fundo] .hero::after { content: ''; position: absolute; inset: 0; z-index: -1;
+  background: linear-gradient(180deg, rgba(8,10,16,.45) 0%, rgba(8,10,16,.62) 55%, rgba(8,10,16,.88) 100%); }
+:root[data-fundo] .hero h1, :root[data-fundo] .hero .frase { color: #fff; text-shadow: 0 2px 14px rgba(0,0,0,.55); }
+:root[data-fundo] .hero .muted, :root[data-fundo] .hero .mono { color: rgba(244,241,234,.82); }
+:root[data-fundo] .hero .bar { background: rgba(255,255,255,.18); }
+/* Galeria de fundos no Administrador */
+.fd-box { margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--borda); }
+.fd-grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 10px; margin-top: 10px; }
+.fd-op { display: flex; flex-direction: column; gap: 6px; padding: 6px; border-radius: 12px; border: 2px solid var(--borda); background: var(--card); color: var(--txt); cursor: pointer; text-align: left; font: inherit; }
+.fd-op small { font-size: 12px; line-height: 1.25; }
+.fd-op.on { border-color: var(--ouro2); box-shadow: 0 0 0 3px color-mix(in srgb, var(--ouro2) 25%, transparent); }
+.fd-mini { display: block; aspect-ratio: 16 / 9; border-radius: 8px; background: #222 center / cover no-repeat; }
+.fd-auto { display: grid; place-items: center; font-size: 12px; font-weight: 600; color: var(--txt2); background: repeating-linear-gradient(45deg, var(--pill), var(--pill) 8px, transparent 8px, transparent 16px); }
+:root[data-fundo] .hero .flip, :root[data-fundo] .hero [class*="flip"] { --flip: rgba(10,12,18,.88); }
+:root[data-theme="dark"][data-fundo] { --flip: #0E111A; }

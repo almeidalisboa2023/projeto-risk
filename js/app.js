@@ -9,6 +9,7 @@ import { TERMOS_VERSAO } from './privacidade.js';
 import { rodapeLegal } from './fornecedor.js';
 import { temaAtual } from './temas.js';
 import { faiscas, inclinar, logo3D } from './intro.js';
+import { fundoDoCurso, resolverFundo } from './fundos.js';
 
 const PAGINAS = {
   painel: ['Painel', '⌂', () => import('./pages/painel.js')],
@@ -106,6 +107,11 @@ function identidade() {
   let f = FUNDOS[t] || 'padrao';
   const cargo = [S.edital?.cargo, S.edital?.concurso].filter(Boolean).join(' ');
   if (t === 'juridico' && /procurad|advoga/i.test(cargo + ' ' + (meuCurso()?.nome || ''))) f = 'procurador';
+  // Foto escolhida pelo administrador para o curso (galeria do app ou foto enviada)
+  const cid = meuCurso()?.id || S.edital?.curso || '';
+  const esc0 = resolverFundo(fundoDoCurso(cid));
+  if (esc0) f = esc0.id;
+  if (esc0?.url) h.style.setProperty('--fundo', `url("${esc0.url.replace(/"/g, '%22')}")`); else h.style.removeProperty('--fundo');
   h.dataset.curso = t; h.dataset.fundo = f;
   // Quem tem curso e nunca escolheu claro/escuro começa no modo imersivo (escuro)
   let salvo = null; try { salvo = localStorage.getItem('risk-tema'); } catch {}

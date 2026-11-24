@@ -22,7 +22,7 @@ const PASTAS = [
   ['cadastros', '📝', 'Cadastros pendentes', 'Conferir dados e aprovar quem se cadastrou'],
   ['vitrine', '🎓', 'Cursos preparatórios', 'Vitrine pública: foto do órgão, vagas, matérias, preço e link'],
   ['compras', '🛒', 'Compras Hotmart', 'Pagamentos recebidos e liberações automáticas'],
-  ['materias', '📚', 'Matérias por curso', 'Incluir ou tirar matérias de cada curso'],
+  ['materias', '📚', 'Matérias e fundo dos cursos', 'Incluir ou tirar matérias e escolher a foto de fundo de cada curso'],
   ['pdfs', '📄', 'Conteúdo em PDF', 'Enviar PDF para virar conteúdo programático'],
   ['avisos', '📣', 'Avisos da página inicial', 'Publicar recados para os alunos (conteúdo novo, simulado, datas)'],
   ['erros', '⚑', 'Erros reportados', 'Avisos de erro enviados pelos alunos'],

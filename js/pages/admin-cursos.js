@@ -5,12 +5,15 @@ import { esc } from '../util.js';
 import { toast } from '../ui.js';
 import { CURSOS, cursoInfo, materiasDoCurso } from '../cursos.js';
 import { MATERIAS_TODAS, comConteudos } from '../leitura/index.js';
+import { storage } from '../backend.js';
+import { GALERIA, prepararFoto } from '../fundos.js';
 
 export function materiasCursos(box) {
   let curso = CURSOS[0].id, rascunho = null;
   const ajusteDe = (id) => (S.cursosAjustes || []).find((x) => x.curso === id) || { curso: id, incluidas: [], excluidas: [] };
   const comecar = () => { const a = ajusteDe(curso); rascunho = { incluidas: [...(a.incluidas || [])], excluidas: [...(a.excluidas || [])] }; };
   const desenha = () => {
+    const fundoAtual = ajusteDe(curso).fundo || '';
     const c = cursoInfo(curso), todas = comConteudos(MATERIAS_TODAS);
     const nomeDe = (id) => todas.find((m) => m.id === id)?.nome || id;
     const topicos = (id, it) => { const m = todas.find((x) => x.id === id); return m ? (it?.assuntos ? it.assuntos.length : m.assuntos.length) : 0; };
@@ -34,7 +37,16 @@ export function materiasCursos(box) {
         <select id="mcNova" style="width:100%"><option value="">— escolha —</option>${fora.map((m) => `<option value="${esc(m.id)}">${esc(m.nome)} (${m.assuntos.length} tópicos)</option>`).join('')}</select></div>
         <button class="btn sec" id="mcInc">Incluir</button></div>
       <div class="row" style="margin-top:12px"><span class="muted" style="font-size:13px">${salvo ? '' : '⚠ Alterações ainda não confirmadas.'}</span><span class="sp"></span>
-        <button class="btn sec" id="mcDesf" ${salvo ? 'disabled' : ''}>Desfazer</button><button class="btn verde" id="mcOk" ${salvo ? 'disabled' : ''}>Confirmar</button></div>`;
+        <button class="btn sec" id="mcDesf" ${salvo ? 'disabled' : ''}>Desfazer</button><button class="btn verde" id="mcOk" ${salvo ? 'disabled' : ''}>Confirmar</button></div>
+      <div class="fd-box"><div class="row"><h3 style="margin:0">🖼 Foto de fundo do curso</h3><span class="sp"></span><span class="muted" style="font-size:12.5px">Aparece no painel dos alunos de <b>${esc(c.curto)}</b>, no modo claro e no escuro.</span></div>
+        <div class="fd-grade">
+          <button type="button" class="fd-op ${!fundoAtual ? 'on' : ''}" data-fd=""><span class="fd-mini fd-auto">Automático</span><small>Foto padrão do tema</small></button>
+          ${GALERIA.map((g) => `<button type="button" class="fd-op ${fundoAtual === 'galeria:' + g.id ? 'on' : ''}" data-fd="galeria:${g.id}"><span class="fd-mini" style="background-image:url('${g.arq}')"></span><small>${esc(g.nome)}</small></button>`).join('')}
+          ${/^https:|^data:|^blob:/.test(fundoAtual) ? `<button type="button" class="fd-op on" data-fd="${esc(fundoAtual)}"><span class="fd-mini" style="background-image:url('${esc(fundoAtual)}')"></span><small>Foto enviada</small></button>` : ''}
+        </div>
+        <div class="row" style="margin-top:10px"><label class="btn sec" style="cursor:pointer">📤 Enviar foto do computador<input type="file" id="fdArq" accept="image/jpeg,image/png,image/webp" hidden></label>
+          <span class="muted" style="font-size:12.5px" id="fdInfo">Use foto <b>horizontal</b> com pelo menos <b>1920 px</b> de largura (de preferência de banco de imagens ou sua). Fotos pequenas ficam sem nitidez.</span></div>
+      </div>`;
     const $ = (q) => box.querySelector(q);
     $('#mcCurso').onchange = (e) => { if (!salvo && !confirm('Há alterações não confirmadas neste curso. Trocar mesmo assim?')) { e.target.value = curso; return; } curso = e.target.value; comecar(); desenha(); };
     box.querySelectorAll('[data-tira]').forEach((b) => (b.onclick = () => {
@@ -51,9 +63,30 @@ export function materiasCursos(box) {
       const reg = { curso, incluidas: rascunho.incluidas, excluidas: rascunho.excluidas, atualizado_em: new Date().toISOString() };
       try {
         await db.insert('cursos_ajustes', [reg], { upsert: true, onConflict: 'curso' });
-        S.cursosAjustes = [...(S.cursosAjustes || []).filter((x) => x.curso !== curso), reg];
+        S.cursosAjustes = [...(S.cursosAjustes || []).filter((x) => x.curso !== curso), { ...ajusteDe(curso), ...reg }];
         toast(`Matérias de ${cursoInfo(curso).curto} atualizadas.`); desenha();
       } catch (e) { toast(e.message, 'erro'); ev.target.disabled = false; }
+    };
+    const salvaFundo = async (valor) => {
+      try {
+        await db.insert('cursos_ajustes', [{ curso, fundo: valor || null, atualizado_em: new Date().toISOString() }], { upsert: true, onConflict: 'curso' });
+        const a = ajusteDe(curso);
+        S.cursosAjustes = [...(S.cursosAjustes || []).filter((x) => x.curso !== curso), { ...a, curso, fundo: valor || null }];
+        toast(`Foto de fundo de ${cursoInfo(curso).curto} salva.`); desenha();
+      } catch (e) { toast(e.message, 'erro'); }
+    };
+    box.querySelectorAll('[data-fd]').forEach((b) => (b.onclick = () => salvaFundo(b.dataset.fd)));
+    $('#fdArq').onchange = async (e) => {
+      const f = e.target.files[0]; if (!f) return;
+      const info = $('#fdInfo');
+      try {
+        info.textContent = 'Preparando a foto…';
+        const { blob, largura } = await prepararFoto(f);
+        if (largura < 1600 && !confirm(`A foto tem só ${largura} px de largura e pode ficar sem nitidez no fundo. Usar mesmo assim?`)) { info.textContent = 'Envio cancelado.'; return; }
+        info.textContent = 'Enviando…';
+        const url = await storage.upload('cursos', `fundo-${curso}-${Date.now()}.webp`, new File([blob], 'fundo.webp', { type: 'image/webp' }));
+        await salvaFundo(url);
+      } catch (err) { info.textContent = ''; toast(err.message, 'erro'); }
     };
   };
   comecar(); desenha();
