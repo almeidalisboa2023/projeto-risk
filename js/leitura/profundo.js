@@ -40028,6 +40028,153 @@ export const PROFUNDO = {
 "e": "Vocabulário"
 },
 {
+"p": "Em inglês, assume significa \"supor, presumir\".",
+"c": true,
+"prof": "Falsos cognatos.",
+"x": "Assumir cargo = take on.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, attend significa \"atender o telefone\".",
+"c": false,
+"prof": "Falsos cognatos.",
+"x": "Significa frequentar, comparecer.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, exit significa \"saída\".",
+"c": true,
+"prof": "Falsos cognatos.",
+"x": "Êxito = success.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, resume significa \"retomar\".",
+"c": true,
+"prof": "Falsos cognatos.",
+"x": "Resumir = summarize.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, lecture significa \"palestra\".",
+"c": true,
+"prof": "Falsos cognatos.",
+"x": "Leitura = reading.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, costume significa \"costume, hábito\".",
+"c": false,
+"prof": "Falsos cognatos.",
+"x": "Significa fantasia; hábito = habit.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em espanhol, taller significa \"oficina mecânica\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Literal.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, pelado pode significar \"careca\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Literal.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, borrar significa \"apagar\" um texto.",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Literal.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, cena significa \"jantar\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Cena (teatro) = escena.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, rubio significa \"ruivo\".",
+"c": false,
+"prof": "Heterossemânticos.",
+"x": "Significa loiro; ruivo = pelirrojo.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, brincar significa \"pular\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Brincar (jogar) = jugar.",
+"e": "Heterossemânticos"
+},
+{
+"p": "A predição usa título, fonte e imagens para antecipar o assunto do texto.",
+"c": true,
+"prof": "Estratégias.",
+"x": "Literal.",
+"e": "Predição"
+},
+{
+"p": "Palavras repetidas no texto costumam indicar o tema central.",
+"c": true,
+"prof": "Estratégias.",
+"x": "Literal.",
+"e": "Palavras-chave"
+},
+{
+"p": "Diante de palavra desconhecida, a melhor estratégia é sempre abandonar o item.",
+"c": false,
+"prof": "Estratégias.",
+"x": "Use o contexto e os afixos.",
+"e": "Inferência"
+},
+{
+"p": "O sufixo -ful em careful indica presença da qualidade.",
+"c": true,
+"prof": "Afixos.",
+"x": "Careful = cuidadoso.",
+"e": "Afixos"
+},
+{
+"p": "O sufixo -ly costuma formar advérbios em inglês.",
+"c": true,
+"prof": "Afixos.",
+"x": "Quickly = rapidamente.",
+"e": "Afixos"
+},
+{
+"p": "Em espanhol, o sufixo -mente forma advérbios.",
+"c": true,
+"prof": "Afixos.",
+"x": "Rápidamente.",
+"e": "Afixos"
+},
+{
+"p": "Em espanhol, o prefixo des- pode expressar negação, como em desconocido.",
+"c": true,
+"prof": "Afixos.",
+"x": "Literal.",
+"e": "Afixos"
+},
+{
+"p": "Atribuir ao texto uma afirmação razoável que ele não faz é erro de extrapolação.",
+"c": true,
+"prof": "Armadilhas.",
+"x": "Literal.",
+"e": "Armadilhas"
+},
+{
+"p": "Trocar causa e consequência é um tipo de inversão de sentido cobrado pelas bancas.",
+"c": true,
+"prof": "Armadilhas.",
+"x": "Literal.",
+"e": "Armadilhas"
+},
+{
 "p": "Texto: \"Some drivers still ignore the new signs, but most of them have adapted quickly.\" Segundo o trecho,",
 "alts": [
 "todos os motoristas ignoram as placas",
@@ -40397,6 +40544,174 @@ export const PROFUNDO = {
 "prof": "Infinitivo.",
 "x": "Literal.",
 "e": "Infinitivo"
+},
+{
+"p": "O passado de see é saw.",
+"c": true,
+"prof": "Verbos irregulares.",
+"x": "Literal.",
+"e": "Irregulares"
+},
+{
+"p": "O passado de drive é drove.",
+"c": true,
+"prof": "Verbos irregulares.",
+"x": "Literal.",
+"e": "Irregulares"
+},
+{
+"p": "Na negativa do simple past usa-se did not seguido do verbo na forma base.",
+"c": true,
+"prof": "Simple past.",
+"x": "Literal.",
+"e": "Tempos"
+},
+{
+"p": "\"He doesn't drive at night\" está no simple present, na negativa.",
+"c": true,
+"prof": "Simple present.",
+"x": "Literal.",
+"e": "Tempos"
+},
+{
+"p": "\"They were driving when the tire burst\" indica ação em andamento interrompida no passado.",
+"c": true,
+"prof": "Past continuous.",
+"x": "Literal.",
+"e": "Tempos"
+},
+{
+"p": "\"Since\" e \"for\" são palavras-sinal frequentes do present perfect.",
+"c": true,
+"prof": "Present perfect.",
+"x": "Literal.",
+"e": "Tempos"
+},
+{
+"p": "\"Be going to\" pode indicar plano ou intenção futura.",
+"c": true,
+"prof": "Futuro.",
+"x": "Literal.",
+"e": "Futuro"
+},
+{
+"p": "\"Could\" pode expressar possibilidade mais fraca.",
+"c": true,
+"prof": "Modais.",
+"x": "Literal.",
+"e": "Modais"
+},
+{
+"p": "\"Can't\" pode expressar impossibilidade ou proibição.",
+"c": true,
+"prof": "Modais.",
+"x": "Literal.",
+"e": "Modais"
+},
+{
+"p": "\"Should\" equivale a \"must\" e expressa obrigação legal.",
+"c": false,
+"prof": "Modais.",
+"x": "Should = recomendação.",
+"e": "Modais"
+},
+{
+"p": "\"Would\" aparece frequentemente em hipóteses.",
+"c": true,
+"prof": "Modais.",
+"x": "Literal.",
+"e": "Modais"
+},
+{
+"p": "\"The road has been closed\" indica que a estrada foi fechada e continua fechada.",
+"c": true,
+"prof": "Voz passiva.",
+"x": "Literal.",
+"e": "Passiva"
+},
+{
+"p": "Na primeira condicional, usa-se if + presente e will + verbo.",
+"c": true,
+"prof": "Condicionais.",
+"x": "Literal.",
+"e": "Condicionais"
+},
+{
+"p": "\"If you drink, you lose reflexes\" é exemplo de zero conditional.",
+"c": true,
+"prof": "Condicionais.",
+"x": "Literal.",
+"e": "Condicionais"
+},
+{
+"p": "\"Which\" é pronome relativo usado para coisas.",
+"c": true,
+"prof": "Relativos.",
+"x": "Literal.",
+"e": "Relativos"
+},
+{
+"p": "\"Where\" pode ser pronome relativo de lugar.",
+"c": true,
+"prof": "Relativos.",
+"x": "Literal.",
+"e": "Relativos"
+},
+{
+"p": "\"As safe as\" expressa comparação de igualdade.",
+"c": true,
+"prof": "Comparativos.",
+"x": "Literal.",
+"e": "Comparativos"
+},
+{
+"p": "O comparativo de bad é worse.",
+"c": true,
+"prof": "Comparativos.",
+"x": "Literal.",
+"e": "Comparativos"
+},
+{
+"p": "\"A few drivers obey the rule\" significa que alguns motoristas obedecem à regra.",
+"c": true,
+"prof": "Quantificadores.",
+"x": "Literal.",
+"e": "Quantificadores"
+},
+{
+"p": "\"Find out\" significa descobrir.",
+"c": true,
+"prof": "Phrasal verbs.",
+"x": "Literal.",
+"e": "Phrasal verbs"
+},
+{
+"p": "\"Break down\" pode significar quebrar, enguiçar.",
+"c": true,
+"prof": "Phrasal verbs.",
+"x": "Literal.",
+"e": "Phrasal verbs"
+},
+{
+"p": "\"Get away\" pode significar escapar.",
+"c": true,
+"prof": "Phrasal verbs.",
+"x": "Literal.",
+"e": "Phrasal verbs"
+},
+{
+"p": "\"In custody\" significa sob custódia.",
+"c": true,
+"prof": "Expressões.",
+"x": "Literal.",
+"e": "Expressões"
+},
+{
+"p": "\"On duty\" significa de serviço.",
+"c": true,
+"prof": "Expressões.",
+"x": "Literal.",
+"e": "Expressões"
 },
 {
 "p": "\"All passengers must wear seat belts, but they don't have to show their documents to the driver.\" O trecho indica que",

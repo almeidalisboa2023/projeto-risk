@@ -16,7 +16,11 @@ const MAX_SEMANAS = 104;
 export function materiasDoPlano() {
   const pal = (h) => String(h || '').replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
   // tempo estimado do assunto: leitura (~180 palavras/min) + questões (~1,2 min cada) + 10 min de fixação
-  return visiveis().filter((m) => (m.assuntos || []).length).map((m) => ({ id: m.id, nome: m.nome, ico: m.ico, cor: m.cor,
+  // Língua estrangeira: se o aluno já escolheu o idioma, o cronograma traz só os tópicos dele
+  let lg = ''; try { lg = JSON.parse(localStorage.getItem('risk-lingua')) || ''; } catch {}
+  const idioma = (id) => (/^espanhol/.test(id) ? 'es' : /^ingles|^gramatica$/.test(id) ? 'en' : '');
+  const porLingua = (m) => (m.id === 'lingua-estrangeira' && (lg === 'en' || lg === 'es') ? { ...m, assuntos: m.assuntos.filter((a) => !idioma(a.id) || idioma(a.id) === lg) } : m);
+  return visiveis().map(porLingua).filter((m) => (m.assuntos || []).length).map((m) => ({ id: m.id, nome: m.nome, ico: m.ico, cor: m.cor,
     assuntos: m.assuntos.map((a) => a.titulo), est: m.assuntos.map((a) => pal(a.html) / 180 + pal(a.aprof) / 360 + Math.min(a.quiz?.length || 0, 40) * 1.2 + 10) }));
 }
 

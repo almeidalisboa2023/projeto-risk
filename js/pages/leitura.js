@@ -60,14 +60,40 @@ const bolas = (m, a) => {
 
 export async function render(el, q) {
   const [mid, aid] = String(q?.get('a') || '').split('/');
-  const m0 = visiveis().find((m) => m.id === mid);
+  let m0 = visiveis().find((m) => m.id === mid);
   if (REV === null) await carregarRevisoes(visiveis());
   if (!m0) return quadro(el);
+  // Língua estrangeira: o aluno escolhe inglês ou espanhol e vê só os tópicos do idioma escolhido
+  if (m0.id === 'lingua-estrangeira') {
+    const pedida = q?.get('l');
+    if (pedida === 'trocar') { gravar('risk-lingua', ''); return escolherLingua(el, m0); }
+    if (pedida === 'en' || pedida === 'es') gravar('risk-lingua', pedida);
+    const lg = ler('risk-lingua', '');
+    if (lg !== 'en' && lg !== 'es') return escolherLingua(el, m0);
+    m0 = filtrarLingua(m0, lg);
+  }
   const mat = { ...m0, assuntos: m0.assuntos.map((a) => (a.quiz ? { ...a, quiz: a.quiz.map((x) => embaralhar(padraoBanca(x))) } : a)) };
   let idx = mat.assuntos.findIndex((a) => a.id === aid);
   if (idx < 0) idx = Math.max(0, mat.assuntos.findIndex((a) => a.id === ler('risk-ultimo-' + mat.id, '')));
   gravar('risk-ultimo-' + mat.id, mat.assuntos[idx].id);
   leitura(el, q, mat, idx);
+}
+
+// ---------- Língua estrangeira: escolha do idioma ----------
+const idiomaDoTopico = (id) => (/^espanhol/.test(id) ? 'es' : /^ingles|^gramatica$/.test(id) ? 'en' : '');
+export function filtrarLingua(m, lg) {
+  const ass = m.assuntos.filter((a) => { const i = idiomaDoTopico(a.id); return !i || i === lg; });
+  return { ...m, nome: m.nome.replace(/\s*\(.*\)\s*$/, '') + (lg === 'en' ? ' · Inglês' : ' · Espanhol'), assuntos: ass, lingua: lg };
+}
+function escolherLingua(el, m) {
+  const conta = (lg) => filtrarLingua(m, lg).assuntos.length;
+  el.innerHTML = `<div class="row"><a class="btn sec mini" href="#/leitura">‹ Todas as matérias</a></div>
+    <div class="lg-escolha"><div class="mono up">Conteúdo programático</div><h1>Língua Estrangeira</h1>
+    <p class="muted">Escolha o idioma que você vai fazer na prova. Você verá só os tópicos desse idioma (as estratégias de leitura valem para os dois). Dá para trocar depois.</p>
+    <div class="lg-cards">
+      <a class="lg-card" href="#/leitura?a=lingua-estrangeira/&l=en"><span class="lg-flag">🇺🇸</span><b>Inglês</b><small>${conta('en')} tópicos · leitura, gramática, vocabulário e textos comentados</small><span class="btn">Estudar inglês</span></a>
+      <a class="lg-card" href="#/leitura?a=lingua-estrangeira/&l=es"><span class="lg-flag">🇪🇸</span><b>Espanhol</b><small>${conta('es')} tópicos · leitura, gramática, heterossemânticos e textos comentados</small><span class="btn">Estudar espanhol</span></a>
+    </div></div>`;
 }
 
 // Matérias que aparecem no edital atual do aluno (qualquer edital)
@@ -143,22 +169,35 @@ function leitura(el, q, mat, idx) {
   const nME = (a.quiz || []).filter((x) => x.alts).length, nCE = (a.quiz || []).length - nME;
   const feitos = mat.assuntos.filter((x) => L.has(mat.id + '/' + x.id)).length;
   const ir = (i) => `#/leitura?a=${mat.id}/${mat.assuntos[i].id}`;
-  el.innerHTML = `<div class="row"><a class="btn sec mini" href="#/leitura">‹ Todas as matérias</a></div>
-  <div class="lt-cab ${imagemDe(mat.id) ? 'com-img' : ''}" style="--c:${mat.cor}${imagemDe(mat.id) ? `;--img:url('${imagemDe(mat.id)}')` : ''}">${imagemDe(mat.id) ? '' : `<span>${mat.ico}</span>`}<div><div class="mono up">Conteúdo programático${meuCurso() ? ' · ' + esc(meuCurso().curto) : ''}</div><h1 style="margin:0">${esc(mat.nome)}</h1></div></div>
+  const fav = new Set(ler('risk-fav-' + (S.user?.id || 'x'), []));
+  el.innerHTML = `<div class="lt-pro">
+  <div class="lt-top">
+    <div class="lt-top-esq"><a class="lt-tb" href="#/leitura">← Voltar</a><button class="lt-tb" id="ltCap" type="button">☰ Capítulos</button>${mat.lingua ? '<a class="lt-tb" href="#/leitura?a=lingua-estrangeira/&l=trocar">🌐 Trocar idioma</a>' : ''}</div>
+    <div class="lt-top-tit"><small>${esc(mat.nome)}</small><b>${esc(a.titulo)}</b></div>
+    <div class="lt-top-dir"><label class="lt-concl" title="Marcar este tópico como concluído"><span>Concluído</span><input type="checkbox" id="ltConcl" ${L.has(k) ? 'checked' : ''}><i></i></label></div>
+  </div>
+  <nav class="lt-ferr" aria-label="Ferramentas de leitura">
+    <button type="button" id="ltPdf" title="Baixar em PDF (imprimir)">⬇</button>
+    <button type="button" id="ltNota" title="Minhas anotações deste tópico">✎</button>
+    <button type="button" id="ltFav" class="${fav.has(k) ? 'on' : ''}" title="Favoritar tópico">${fav.has(k) ? '★' : '☆'}</button>
+    <button type="button" id="ltTela" title="Tela cheia">⛶</button>
+    <button type="button" id="ltMais" title="Aumentar letra">A+</button>
+    <button type="button" id="ltMenos" title="Diminuir letra">A−</button>
+    <button type="button" id="ltErro" title="Reportar erro neste texto">⚠</button>
+  </nav>
   ${mat.recorte ? `<div class="lt-recorte">📋 <b>Recorte do seu edital:</b> ${esc(mat.recorte)}. Aparecem só os tópicos cobrados.</div>` : ''}
   <div class="lt-wrap" style="--c:${mat.cor}">
-    <aside class="card lt-indice">
-      <div class="mono up" style="margin:4px 0 6px">Ordem de estudo · ${feitos}/${mat.assuntos.length} lidos</div>
+    <aside class="card lt-indice" id="ltIndice">
+      <div class="row" style="margin:2px 0 6px"><div class="mono up">Capítulos · ${feitos}/${mat.assuntos.length} concluídos</div><span class="sp"></span><button class="linkbtn lt-fecha-cap" id="ltCapX" type="button">✕</button></div>
       <div class="lt-mat-bar" style="margin-bottom:10px"><div style="width:${Math.round((feitos / mat.assuntos.length) * 100)}%"></div></div>
       <select id="ltSel" class="lt-sel-mob">${mat.assuntos.map((x, i) => `<option value="${i}" ${i === idx ? 'selected' : ''}>${i + 1}. ${esc(x.titulo)}${L.has(mat.id + '/' + x.id) ? ' ✓' : ''}</option>`).join('')}</select>
       <ol class="lt-lista">${mat.assuntos.map((x, i) => `<li class="${i === idx ? 'on' : ''} ${L.has(mat.id + '/' + x.id) ? 'lido' : ''}"><a href="${ir(i)}">${bolas(mat, x)}${esc(x.titulo)}</a></li>`).join('')}</ol>
     </aside>
     <article class="card lt-texto">
-      <div class="row"><span class="pill">${idx + 1} de ${mat.assuntos.length}</span><span class="pill">${esc(a.arts || '')}</span><span class="pill lt-tempo" title="Leitura do texto essencial + aprofundamento">⏱ ~${minutosLeitura(a.html + (a.aprof || ''), 0)} min de leitura</span><span class="sp"></span>
-        ${isAdmin() ? '<button class="btn sec mini" id="ltEditar" title="Só o administrador vê este botão">✏️ Editar conteúdo</button>' : ''}
-        <button class="btn sec mini" id="ltMenos" title="Diminuir letra">A−</button><button class="btn sec mini" id="ltMais" title="Aumentar letra">A+</button></div>
-      <h2 style="margin:10px 0 4px">${esc(a.titulo)}</h2>
-      <p class="muted" style="font-size:12.5px;margin:0 0 8px">${a.editado ? 'Revisado pelo administrador' : 'Atualizado em ' + esc(String(mat.atualizado || '').split(' · ')[0]) + ' · ' + (a.quiz || []).length + ' questões neste tópico'} · <button class="linkbtn" id="ltErro">⚑ Reportar erro neste texto</button></p>
+      <div class="lt-meta"><span class="pill">${idx + 1} de ${mat.assuntos.length}</span>${a.arts ? `<span class="pill">${esc(a.arts)}</span>` : ''}<span class="pill lt-tempo" title="Leitura do texto essencial + aprofundamento">⏱ ~${minutosLeitura(a.html + (a.aprof || ''), 0)} min</span><span class="sp"></span>
+        ${isAdmin() ? '<button class="btn sec mini" id="ltEditar" title="Só o administrador vê este botão">✏️ Editar conteúdo</button>' : ''}</div>
+      <h2 class="lt-h">${esc(a.titulo)}</h2>
+      <p class="muted lt-sub">${a.editado ? 'Revisado pelo administrador' : 'Atualizado em ' + esc(String(mat.atualizado || '').split(' · ')[0]) + ' · ' + (a.quiz || []).length + ' questões neste tópico'}</p>
       <p class="muted lt-ia">🤖 Texto, questões e flashcards elaborados com auxílio de inteligência artificial e revisados pela equipe do PROJETO R.I.S.K. Achou algo errado? Use “Reportar erro”.</p>
       ${isAdmin() ? `<div class="st-admin">${bolas(mat, a)} <b>${topicoCompleto(a) ? 'Tópico completo' : `Faltam: ${minutosLeitura(a.html + (a.aprof || ''), 0) < 55 ? `leitura (${minutosLeitura(a.html + (a.aprof || ''), 0)} de 55 min)` : ''}${minutosLeitura(a.html + (a.aprof || ''), 0) < 55 && (a.quiz || []).length < 100 ? ' e ' : ''}${(a.quiz || []).length < 100 ? `questões (${(a.quiz || []).length} de 100)` : ''}`}</b>
         ${(REV?.[mat.id + '/' + a.id] || []).length ? `<span class="muted">· 🟡 ${esc(REV[mat.id + '/' + a.id].join('; '))}</span>` : ''}<span class="sp"></span>
@@ -181,9 +220,18 @@ function leitura(el, q, mat, idx) {
         ${idx > 0 ? `<a class="btn sec" href="${ir(idx - 1)}">‹ Anterior</a>` : ''}${idx < mat.assuntos.length - 1 ? `<a class="btn sec" href="${ir(idx + 1)}">Próximo ›</a>` : ''}
       </div>
     </article>
-  </div>`;
+  </div></div>`;
 
   const $ = (s) => el.querySelector(s);
+  // Ferramentas do leitor
+  const ind = $('#ltIndice');
+  $('#ltCap').onclick = () => ind.classList.toggle('aberto');
+  $('#ltCapX').onclick = () => ind.classList.remove('aberto');
+  $('#ltConcl').onchange = () => { const s2 = lidos(); s2.has(k) ? s2.delete(k) : s2.add(k); gravar(chave(), [...s2]); render(el, q); };
+  $('#ltPdf').onclick = () => { document.body.classList.add('lt-imprimir'); setTimeout(() => { window.print(); document.body.classList.remove('lt-imprimir'); }, 50); };
+  $('#ltTela').onclick = () => { const r = el.querySelector('.lt-pro'); if (document.fullscreenElement) document.exitFullscreen(); else (r.requestFullscreen ? r.requestFullscreen() : null)?.catch?.(() => {}); };
+  $('#ltFav').onclick = () => { const f = new Set(ler('risk-fav-' + (S.user?.id || 'x'), [])); f.has(k) ? f.delete(k) : f.add(k); gravar('risk-fav-' + (S.user?.id || 'x'), [...f]); const on = f.has(k); $('#ltFav').classList.toggle('on', on); $('#ltFav').textContent = on ? '★' : '☆'; toast(on ? 'Tópico favoritado.' : 'Favorito removido.'); };
+  $('#ltNota').onclick = () => { const kn = 'risk-nota-' + (S.user?.id || 'x') + '-' + k; modal(`<h3>✎ Minhas anotações</h3><p class="muted" style="font-size:13.5px">${esc(a.titulo)} · ficam salvas neste aparelho.</p><textarea id="ntT" style="min-height:200px">${esc(ler(kn, ''))}</textarea><button class="btn" id="ntS" style="margin-top:8px">Salvar</button>`, { onMount: (m, close) => (m.querySelector('#ntS').onclick = () => { gravar(kn, m.querySelector('#ntT').value); toast('Anotação salva.'); close(); }) }); };
   // índice com rolagem própria: deixa o tópico atual visível dentro dele, sem mexer na rolagem da página
   { const ind = $('.lt-indice'), on = $('.lt-lista li.on');
     if (ind && on && ind.scrollHeight > ind.clientHeight) ind.scrollTop = Math.max(0, on.offsetTop - ind.offsetTop - ind.clientHeight / 3); }
@@ -241,6 +289,13 @@ export function blocoQuiz(a) {
   const tid = temaAtual(), T = TEMAS[tid] || {};
   const cab = tid !== 'padrao' && S.edital ? `<div class="tema-topo"><span class="tema-selo">${T.selo || ''} ${esc(S.edital.concurso)}</span><div><div class="tema-tit">Treino de questões · <span>${esc(T.titulo || '')}</span></div><div class="tema-sub">${esc(a.titulo || '')}</div></div></div>` : '<h3>🎯 Teste seu conhecimento</h3>';
   return `<div class="lt-quiz ${tid !== 'padrao' ? 'tema-wrap tema-' + tid + ' lt-qtema' : ''}">${cab}
+        <div class="lt-desemp" id="ltDesemp" aria-live="polite">
+          <div class="ld-anel"><svg viewBox="0 0 44 44"><circle cx="22" cy="22" r="18" class="ld-fundo"/><circle cx="22" cy="22" r="18" class="ld-arco" id="ldArco" stroke-dasharray="0 113"/></svg><b id="ldPct">—</b></div>
+          <div class="ld-n"><b id="ldResp">0</b><small>respondidas</small></div>
+          <div class="ld-n ok"><b id="ldOk">0</b><small>acertos</small></div>
+          <div class="ld-n bad"><b id="ldErr">0</b><small>erros</small></div>
+          <div class="ld-barra"><i id="ldBar" style="width:0%"></i></div>
+        </div>
         <p class="muted" style="margin-top:0">${nCE} de Certo ou Errado${nME ? ` e ${nME} de múltipla escolha` : ''}. <span id="ltPlacar"></span></p>
         <div class="row lt-qbar">${nME && nCE ? `<select id="ltTipo"><option value="">Todos os tipos</option><option value="ce">Só Certo/Errado</option><option value="me">Só múltipla escolha</option></select>` : ''}
           <select id="ltHist"><option value="">Todas as questões</option><option value="novas">Só as que nunca respondi</option><option value="erradas">Só as que errei</option><option value="semacerto">Esconder as que já acertei</option></select>
@@ -352,7 +407,23 @@ export function quiz(el, mat, a, ctx0) {
   const placar = () => {
     const c = [...resp.values()].filter((v) => v.ok).length;
     $('#ltPlacar').textContent = resp.size ? `Placar: ${c}/${resp.size} (${Math.round((100 * c) / resp.size)}%)` : '';
+    const n = resp.size, pc = n ? Math.round((100 * c) / n) : 0, d = el.querySelector('#ltDesemp');
+    if (d) {
+      d.querySelector('#ldResp').textContent = n; d.querySelector('#ldOk').textContent = c; d.querySelector('#ldErr').textContent = n - c;
+      d.querySelector('#ldPct').textContent = n ? pc + '%' : '—';
+      d.querySelector('#ldArco').setAttribute('stroke-dasharray', `${(113 * pc) / 100} 113`);
+      d.querySelector('#ldBar').style.width = (a.quiz.length ? Math.round((100 * n) / a.quiz.length) : 0) + '%';
+      d.classList.toggle('bom', n > 0 && pc >= 70); d.classList.toggle('ruim', n > 0 && pc < 60);
+    }
   };
+  // Painel de desempenho flutuante: fica visível enquanto a lista de questões estiver na tela
+  { const d = el.querySelector('#ltDesemp'), lst = el.querySelector('#ltLista');
+    if (d && lst && 'IntersectionObserver' in window) {
+      const io = new IntersectionObserver((es) => { const vis = es.some((e) => e.isIntersecting); d.classList.toggle('flutua', vis && lst.getBoundingClientRect().top < 120); }, { threshold: [0, 0.01, 0.5, 1] });
+      io.observe(lst);
+      const rola = () => { if (!d.isConnected) { removeEventListener('scroll', rola); return; } const r = lst.getBoundingClientRect(); d.classList.toggle('flutua', r.top < 100 && r.bottom > 160 && !lst.closest('[hidden]')); };
+      addEventListener('scroll', rola, { passive: true });
+    } }
   ctx.aoContar = (n) => { const st = $('#ltSalvar'); if (st) st.textContent = `✓ ${n} ${n === 1 ? 'resposta contada' : 'respostas contadas'} nas questões de hoje`; };
   const desenhar = () => {
     const lista = filtrada(), tot = Math.max(1, Math.ceil(lista.length / POR_PAG));

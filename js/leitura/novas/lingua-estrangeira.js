@@ -567,6 +567,174 @@ export default {
 "e": "Interpretação"
 },
 {
+"p": "Yet, como conectivo, pode expressar contraste.",
+"c": true,
+"prof": "Conectivos.",
+"x": "Literal.",
+"e": "Conectivos"
+},
+{
+"p": "Because of deve ser seguido de substantivo.",
+"c": true,
+"prof": "Conectivos.",
+"x": "Literal.",
+"e": "Conectivos"
+},
+{
+"p": "Thus e hence expressam conclusão.",
+"c": true,
+"prof": "Conectivos.",
+"x": "Literal.",
+"e": "Conectivos"
+},
+{
+"p": "As long as equivale a \"desde que\".",
+"c": true,
+"prof": "Conectivos.",
+"x": "Literal.",
+"e": "Conectivos"
+},
+{
+"p": "In order to expressa finalidade.",
+"c": true,
+"prof": "Conectivos.",
+"x": "Literal.",
+"e": "Conectivos"
+},
+{
+"p": "That is (i.e.) introduz explicação.",
+"c": true,
+"prof": "Conectivos.",
+"x": "Literal.",
+"e": "Conectivos"
+},
+{
+"p": "Roundabout significa rotatória.",
+"c": true,
+"prof": "Vocabulário viário.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Overtaking significa ultrapassagem.",
+"c": true,
+"prof": "Vocabulário viário.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Tailgating significa dirigir colado ao veículo da frente.",
+"c": true,
+"prof": "Vocabulário viário.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Rollover significa capotamento.",
+"c": true,
+"prof": "Vocabulário viário.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Pedestrian significa pedestre.",
+"c": true,
+"prof": "Vocabulário viário.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Weigh station significa balança de pesagem.",
+"c": true,
+"prof": "Vocabulário viário.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Prosecutor significa promotor.",
+"c": true,
+"prof": "Vocabulário jurídico.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Bail significa fiança.",
+"c": true,
+"prof": "Vocabulário jurídico.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Seizure significa apreensão.",
+"c": true,
+"prof": "Vocabulário policial.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Human trafficking significa tráfico de pessoas.",
+"c": true,
+"prof": "Vocabulário criminal.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Burglary designa arrombamento de imóvel.",
+"c": true,
+"prof": "Vocabulário criminal.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Border crossing significa passagem de fronteira.",
+"c": true,
+"prof": "Vocabulário de fronteira.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Riverbank significa margem do rio.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Rainforest significa floresta tropical.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "\"Three quarters\" significa três quartos.",
+"c": true,
+"prof": "Números.",
+"x": "Literal.",
+"e": "Números"
+},
+{
+"p": "\"Dozens of\" significa dezenas de.",
+"c": true,
+"prof": "Números.",
+"x": "Literal.",
+"e": "Números"
+},
+{
+"p": "\"By 2030\" significa até 2030.",
+"c": true,
+"prof": "Datas.",
+"x": "Literal.",
+"e": "Datas"
+},
+{
+"p": "Em inglês, 1.5 corresponde a um e meio.",
+"c": true,
+"prof": "Números.",
+"x": "Ponto decimal.",
+"e": "Números"
+},
+{
 "p": "No trecho \"Despite heavy rain, the operation continued\", a palavra despite pode ser substituída, sem prejuízo do sentido, por",
 "alts": [
 "because of",
@@ -956,6 +1124,167 @@ export default {
 },
 {
 "p": "Em espanhol, él (com acento) é pronome pessoal, e el (sem acento) é artigo.",
+"c": true,
+"prof": "Acentuação.",
+"x": "Literal.",
+"e": "Acentuação"
+},
+{
+"p": "Em espanhol, sangre é substantivo feminino.",
+"c": true,
+"prof": "Heterogenéricos.",
+"x": "La sangre.",
+"e": "Heterogenéricos"
+},
+{
+"p": "Em espanhol, nariz é substantivo feminino.",
+"c": true,
+"prof": "Heterogenéricos.",
+"x": "La nariz.",
+"e": "Heterogenéricos"
+},
+{
+"p": "Em espanhol, árbol é substantivo masculino.",
+"c": true,
+"prof": "Heterogenéricos.",
+"x": "El árbol.",
+"e": "Heterogenéricos"
+},
+{
+"p": "Em espanhol, color é substantivo masculino.",
+"c": true,
+"prof": "Heterogenéricos.",
+"x": "El color.",
+"e": "Heterogenéricos"
+},
+{
+"p": "Em espanhol, costumbre é substantivo feminino.",
+"c": true,
+"prof": "Heterogenéricos.",
+"x": "La costumbre.",
+"e": "Heterogenéricos"
+},
+{
+"p": "Em espanhol, océano tem a sílaba tônica em \"cé\".",
+"c": true,
+"prof": "Heterotônicos.",
+"x": "Literal.",
+"e": "Heterotônicos"
+},
+{
+"p": "Ustedes pode ser usado como plural geral na América hispânica.",
+"c": true,
+"prof": "Pronomes.",
+"x": "Literal.",
+"e": "Pronomes"
+},
+{
+"p": "Vosotros é pronome de 2ª pessoa do plural usado na Espanha.",
+"c": true,
+"prof": "Pronomes.",
+"x": "Literal.",
+"e": "Pronomes"
+},
+{
+"p": "Su pode significar \"seu, dele, dela, deles\", conforme o contexto.",
+"c": true,
+"prof": "Possessivos.",
+"x": "Literal.",
+"e": "Possessivos"
+},
+{
+"p": "Em \"un amigo mío\", mío é possessivo posposto.",
+"c": true,
+"prof": "Possessivos.",
+"x": "Literal.",
+"e": "Possessivos"
+},
+{
+"p": "Ser pode indicar profissão, como em \"es policía\".",
+"c": true,
+"prof": "Verbos.",
+"x": "Literal.",
+"e": "Ser e estar"
+},
+{
+"p": "O pretérito indefinido de decir, na 3ª pessoa do singular, é dijo.",
+"c": true,
+"prof": "Irregulares.",
+"x": "Literal.",
+"e": "Irregulares"
+},
+{
+"p": "O pretérito indefinido de tener, na 3ª pessoa do singular, é tuvo.",
+"c": true,
+"prof": "Irregulares.",
+"x": "Literal.",
+"e": "Irregulares"
+},
+{
+"p": "O pretérito indefinido de ir e de ser, na 3ª pessoa do singular, é fue.",
+"c": true,
+"prof": "Irregulares.",
+"x": "Literal.",
+"e": "Irregulares"
+},
+{
+"p": "\"Para que los conductores respeten\" usa o subjuntivo para expressar finalidade.",
+"c": true,
+"prof": "Subjuntivo.",
+"x": "Literal.",
+"e": "Subjuntivo"
+},
+{
+"p": "\"Dejar de fumar\" significa parar de fumar.",
+"c": true,
+"prof": "Perífrases.",
+"x": "Literal.",
+"e": "Perífrases"
+},
+{
+"p": "Primero sofre apócope e vira primer antes de substantivo masculino singular.",
+"c": true,
+"prof": "Apócope.",
+"x": "Literal.",
+"e": "Apócope"
+},
+{
+"p": "Ninguno sofre apócope e vira ningún antes de substantivo masculino singular.",
+"c": true,
+"prof": "Apócope.",
+"x": "Literal.",
+"e": "Apócope"
+},
+{
+"p": "Pues, ya que e puesto que podem expressar causa.",
+"c": true,
+"prof": "Conectores.",
+"x": "Literal.",
+"e": "Conectores"
+},
+{
+"p": "Es decir e o sea introduzem explicação.",
+"c": true,
+"prof": "Conectores.",
+"x": "Literal.",
+"e": "Conectores"
+},
+{
+"p": "Quizás e tal vez expressam dúvida.",
+"c": true,
+"prof": "Conectores.",
+"x": "Literal.",
+"e": "Conectores"
+},
+{
+"p": "Em espanhol, qué, quién e dónde levam acento em perguntas.",
+"c": true,
+"prof": "Acentuação.",
+"x": "Literal.",
+"e": "Acentuação"
+},
+{
+"p": "Em espanhol, tú (com acento) é pronome, e tu (sem acento) é possessivo.",
 "c": true,
 "prof": "Acentuação.",
 "x": "Literal.",
@@ -1361,6 +1690,167 @@ export default {
 "prof": "Interpretação.",
 "x": "Voz passiva.",
 "e": "Interpretação"
+},
+{
+"p": "Autopista designa rodovia de pista dupla.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Trânsito"
+},
+{
+"p": "Calzada designa a pista, o leito da via.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Trânsito"
+},
+{
+"p": "Paso de peatones significa faixa de pedestres.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Trânsito"
+},
+{
+"p": "Rotonda e glorieta significam rotatória.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Trânsito"
+},
+{
+"p": "Cinturón de seguridad significa cinto de segurança.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Trânsito"
+},
+{
+"p": "Casco significa capacete.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Trânsito"
+},
+{
+"p": "Manejar e conducir significam dirigir.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Trânsito"
+},
+{
+"p": "Retirar el carné significa suspender a habilitação.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Fiscalização"
+},
+{
+"p": "Denuncia pode significar o registro de ocorrência feito pela vítima.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Justiça"
+},
+{
+"p": "Orden de captura corresponde a mandado de prisão.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Justiça"
+},
+{
+"p": "Juicio significa julgamento.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Justiça"
+},
+{
+"p": "Narcotráfico significa tráfico de drogas.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Crimes"
+},
+{
+"p": "Secuestro significa sequestro.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Crimes"
+},
+{
+"p": "Estupefacientes significa entorpecentes.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Apreensões"
+},
+{
+"p": "Comunidades ribereñas significa comunidades ribeirinhas.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Ambiente"
+},
+{
+"p": "Escoba significa vassoura.",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Escova = cepillo.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Oso significa urso.",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Osso = hueso.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Cuello significa pescoço.",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Literal.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Latir pode significar pulsar, bater (o coração).",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Literal.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Anteayer significa anteontem.",
+"c": true,
+"prof": "Tempo.",
+"x": "Literal.",
+"e": "Tempo"
+},
+{
+"p": "En seguida significa imediatamente.",
+"c": true,
+"prof": "Tempo.",
+"x": "Literal.",
+"e": "Tempo"
+},
+{
+"p": "\"Aumentó un 20%\" significa que aumentou 20%.",
+"c": true,
+"prof": "Numerais.",
+"x": "Literal.",
+"e": "Numerais"
+},
+{
+"p": "\"Se duplicó\" significa que dobrou.",
+"c": true,
+"prof": "Numerais.",
+"x": "Literal.",
+"e": "Numerais"
 },
 {
 "p": "\"La lancha fue interceptada por la patrulla fluvial y los tripulantes huyeron por la orilla.\" Segundo o trecho,",
