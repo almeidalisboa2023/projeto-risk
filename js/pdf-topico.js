@@ -275,79 +275,129 @@ async function montaPdf(capaJpg, logo, paginas) {
 const jpeg = (cv, q = 0.9) => new Promise((ok) => cv.toBlob(async (b) => ok(new Uint8Array(await b.arrayBuffer())), 'image/jpeg', q));
 const espera = () => new Promise((r) => setTimeout(r, 0));
 
-// ---------- função principal ----------
-export async function gerarPdfTopico(mat, a, aviso = () => {}) {
-  aviso('Preparando o texto…');
+// ---------- conteúdo de um tópico (texto, leitura complementar, questões e gabarito) ----------
+const palavras = (h) => String(h || '').replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
+const questoesDe = (a) => (a.quiz || []).filter((q) => q && q.p);
+function tituloGrande(L, t, extra = {}) { quebrar([{ t, neg: true }], LARG, 44, COR.txt).forEach((ln, k) => L.push({ h: 62, segs: ln, tam: 44, recuo: 0, keep: 3, ...(k === 0 ? extra : {}) })); L.push({ h: 10, regua: true }); L.push({ h: 16 }); }
+function textoHtml(L, html) {
+  const raiz = document.createElement('div'); raiz.innerHTML = String(html || '').replace(/<script[\s\S]*?<\/script>/gi, '');
+  raiz.querySelectorAll('.lt-flash-box, .lt-flash, .lt-pegtreino, button, .lt-q, .lt-quiz, input, select, .lt-charge').forEach((e) => e.remove());
+  L.push(...montar(raiz));
+}
+function adicionarTopico(L, a, { comQuestoes = true, titulo = null, marca = null } = {}) {
+  if (titulo) { L.push({ quebra: true, h: 0 }); tituloGrande(L, titulo, marca != null ? { marca } : {}); if (a.arts) L.push({ h: 34, segs: quebrar([{ t: a.arts, ita: true, cor: COR.txt2 }], LARG, 22)[0], tam: 22, recuo: 0 }, { h: 14 }); }
+  textoHtml(L, a.html);
+  if (a.aprof) { L.push({ h: 20 }); tituloGrande(L, 'Leitura complementar'); textoHtml(L, a.aprof); }
+  const questoes = questoesDe(a);
+  if (!comQuestoes || !questoes.length) return;
+  L.push({ quebra: true, h: 0 });
+  tituloGrande(L, titulo ? `Questões · ${titulo}` : 'Questões');
+  const d = document.createElement('div');
+  questoes.forEach((q, i) => {
+    d.innerHTML = q.p;
+    const ts = [{ t: `${i + 1}. `, neg: true, cor: COR.dest }, ...(q.alts ? [{ t: '[Múltipla escolha] ', neg: true, cor: COR.txt2 }] : []), ...trechos(d)];
+    const ls = quebrar(ts, LARG, 25);
+    ls.forEach((ln, k) => L.push({ h: 38, segs: ln, tam: 25, recuo: 0, keep: k === 0 ? Math.min(3, ls.length) : 0 }));
+    if (q.alts) q.alts.forEach((x, j) => { d.innerHTML = x; quebrar([{ t: `${'ABCDE'[j]}) `, neg: true }, ...trechos(d)], LARG - 40, 24).forEach((ln) => L.push({ h: 36, segs: ln, tam: 24, recuo: 40 })); });
+    else L.push({ h: 36, segs: quebrar([{ t: '(   ) Certo        (   ) Errado', cor: COR.txt2 }], LARG, 23)[0], tam: 23, recuo: 0 });
+    L.push({ h: 26 });
+  });
+  L.push({ quebra: true, h: 0 });
+  tituloGrande(L, titulo ? `Gabarito comentado · ${titulo}` : 'Gabarito comentado');
+  const resp = (q) => (q.alts ? 'ABCDE'[q.r ?? 0] : q.c ? 'C' : 'E');
+  for (let i = 0; i < questoes.length; i += 10) {
+    const ts = []; for (let k = i; k < Math.min(i + 10, questoes.length); k++) ts.push({ t: `${k + 1}-`, cor: COR.txt2 }, { t: `${resp(questoes[k])}     `, neg: true, cor: COR.dest });
+    L.push({ h: 40, segs: quebrar(ts, LARG, 24)[0], tam: 24, recuo: 0 });
+  }
+  L.push({ h: 24 });
+  questoes.forEach((q, i) => {
+    d.innerHTML = (q.alts ? q.n?.[q.r ?? 0] : q.x) || ''; let com = d.textContent.trim();
+    if (/^literal\.?$/i.test(com)) com = 'Reproduz o texto da norma.';
+    d.innerHTML = (q.alts ? q.x : q.prof || q.t) || ''; const fonteQ = d.textContent.trim();
+    const ts = [{ t: `${i + 1}. ${q.alts ? 'Letra ' + resp(q) : q.c ? 'Certo' : 'Errado'}. `, neg: true, cor: COR.dest }, { t: com }, ...(fonteQ ? [{ t: ` (${fonteQ})`, ita: true, cor: COR.txt2 }] : [])];
+    quebrar(ts, LARG, 22).forEach((ln, k) => L.push({ h: 33, segs: ln, tam: 22, recuo: 0, keep: k === 0 ? 1 : 0 }));
+    L.push({ h: 8 });
+  });
+}
+
+// ---------- montagem final: capa, sumário (opcional), páginas e arquivo ----------
+async function gerar({ info, L, sumario = null, nome, aviso }) {
   try { await document.fonts?.load(fonte(26, true)); await document.fonts?.load(fonte(26)); await document.fonts?.load(fonte(80, true, false, SERIF)); } catch {}
   const logo = new Image(); logo.src = 'img/logo-claro.webp'; await logo.decode();
-  const info = {
-    data: new Date().toLocaleDateString('pt-BR'), materia: mat.nome, topico: a.titulo, arts: a.arts || '',
-    sup: 'Conteúdo programático' + (S.edital?.concurso ? ' · ' + S.edital.concurso : ''), rodape: a.titulo, secao: 'Conteúdo programático · PROJETO R.I.S.K.', min: Math.round(String(a.html || '').replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length / 180) || 0,
-  };
-  const questoes = (a.quiz || []).filter((q) => q && q.p);
-  info.nq = questoes.length;
-
-  // texto do tópico, limpo
-  const raiz = document.createElement('div'); raiz.innerHTML = String(a.html || '').replace(/<script[\s\S]*?<\/script>/gi, '');
-  raiz.querySelectorAll('.lt-flash-box, .lt-flash, .lt-pegtreino, button, .lt-q, .lt-quiz, input, select, .lt-charge').forEach((e) => e.remove());
-  const L = montar(raiz);
-
-  // questões e gabarito
-  if (questoes.length) {
-    L.push({ quebra: true, h: 0 });
-    const tit = (t) => { L.push({ h: 72, segs: quebrar([{ t, neg: true }], LARG, 44, COR.txt)[0], tam: 44, recuo: 0, keep: 3 }); L.push({ h: 10, regua: true }); L.push({ h: 16 }); };
-    tit('Questões');
-    const d = document.createElement('div');
-    questoes.forEach((q, i) => {
-      d.innerHTML = q.p;
-      const ts = [{ t: `${i + 1}. `, neg: true, cor: COR.dest }, ...(q.alts ? [{ t: '[Múltipla escolha] ', neg: true, cor: COR.txt2 }] : []), ...trechos(d)];
-      const larg = LARG; const ls = quebrar(ts, larg, 25);
-      ls.forEach((ln, k) => L.push({ h: 38, segs: ln, tam: 25, recuo: 0, keep: k === 0 ? Math.min(3, ls.length) : 0 }));
-      if (q.alts) q.alts.forEach((x, j) => { d.innerHTML = x; quebrar([{ t: `${'ABCDE'[j]}) `, neg: true }, ...trechos(d)], LARG - 40, 24).forEach((ln) => L.push({ h: 36, segs: ln, tam: 24, recuo: 40 })); });
-      else L.push({ h: 36, segs: quebrar([{ t: '(   ) Certo        (   ) Errado', cor: COR.txt2 }], LARG, 23)[0], tam: 23, recuo: 0 });
-      L.push({ h: 26 });
-    });
-    L.push({ quebra: true, h: 0 });
-    tit('Gabarito comentado');
-    const resp = (q) => (q.alts ? 'ABCDE'[q.r ?? 0] : q.c ? 'C' : 'E');
-    // grade compacta: 10 por linha
-    for (let i = 0; i < questoes.length; i += 10) {
-      const ts = []; for (let k = i; k < Math.min(i + 10, questoes.length); k++) ts.push({ t: `${k + 1}-`, cor: COR.txt2 }, { t: `${resp(questoes[k])}     `, neg: true, cor: COR.dest });
-      L.push({ h: 40, segs: quebrar(ts, LARG, 24)[0], tam: 24, recuo: 0 });
+  const pags = paginar(L);
+  // sumário: páginas logo depois da capa, com a página de início de cada tópico
+  let sumPags = [];
+  if (sumario) {
+    const POR = 26, nSum = Math.ceil(sumario.length / POR);
+    const inicio = new Map(); pags.forEach((pg, i) => pg.forEach((ln) => { if (ln.marca != null && !inicio.has(ln.marca)) inicio.set(ln.marca, i); }));
+    for (let s0 = 0; s0 < sumario.length; s0 += POR) {
+      const pl = []; let y = TOPO;
+      if (s0 === 0) { pl.push({ y, h: 62, segs: quebrar([{ t: 'Sumário', neg: true }], LARG, 44)[0], tam: 44 }); y += 62; pl.push({ y, h: 10, regua: true }); y += 30; }
+      sumario.slice(s0, s0 + POR).forEach((t, k) => {
+        const idx = s0 + k, pagina = (inicio.get(idx) ?? 0) + 2 + nSum;
+        const num = `${idx + 1}.`, larg = LARG - 120;
+        const linha = quebrar([{ t: num + ' ', neg: true, cor: COR.dest }, { t }], larg, 24)[0] || [];
+        pl.push({ y, h: 50, segs: linha, tam: 24, sumPag: String(pagina) }); y += 50;
+      });
+      sumPags.push(pl);
     }
-    L.push({ h: 24 });
-    questoes.forEach((q, i) => {
-      d.innerHTML = (q.alts ? q.n?.[q.r ?? 0] : q.x) || ''; let com = d.textContent.trim();
-      if (/^literal\.?$/i.test(com)) com = 'Reproduz o texto da norma.';
-      d.innerHTML = (q.alts ? q.x : q.prof || q.t) || ''; const fonteQ = d.textContent.trim();
-      const ts = [{ t: `${i + 1}. ${q.alts ? 'Letra ' + resp(q) : q.c ? 'Certo' : 'Errado'}. `, neg: true, cor: COR.dest }, { t: com }, ...(fonteQ ? [{ t: ` (${fonteQ})`, ita: true, cor: COR.txt2 }] : [])];
-      quebrar(ts, LARG, 22).forEach((ln, k) => L.push({ h: 33, segs: ln, tam: 22, recuo: 0, keep: k === 0 ? 1 : 0 }));
-      L.push({ h: 8 });
-    });
   }
-
-  const pags = paginar(L), total = pags.length + 1;
+  const total = 1 + sumPags.length + pags.length;
   aviso('Desenhando a capa…');
   const cv = document.createElement('canvas'); cv.width = PW * 2; cv.height = PH * 2; const ctx = cv.getContext('2d');
   ctx.scale(2, 2); ctx.textBaseline = 'alphabetic';
   capa(ctx, info, logo);
   const capaJpg = { jpg: await jpeg(cv, 0.9), w: cv.width, h: cv.height };
-  // logo do cabeçalho em resolução original, sobre fundo branco
   const lc = document.createElement('canvas'); lc.width = logo.naturalWidth; lc.height = logo.naturalHeight; const lx = lc.getContext('2d');
   lx.fillStyle = '#fff'; lx.fillRect(0, 0, lc.width, lc.height); lx.drawImage(logo, 0, 0);
   const logoJpg = { jpg: await jpeg(lc, 0.95), w: lc.width, h: lc.height };
   const paginas = [];
+  sumPags.forEach((pl, i) => { const pg = new Pagina(); desenharLinhas(pg, pl); pl.forEach((ln) => ln.sumPag && pg.texto(ln.sumPag, PW - MX, ln.y + Math.round(24 * 1.15), 24, { neg: true, alinha: 'right' })); moldura(pg, i + 2, total, { ...info, rodape: 'Sumário' }, logoJpg); paginas.push(pg); });
+  let atual = info.rodape;
   for (let i = 0; i < pags.length; i++) {
-    if (i % 5 === 0) { aviso(`Montando página ${i + 2} de ${total}…`); await espera(); }
-    const pg = new Pagina(); desenharLinhas(pg, pags[i]); moldura(pg, i + 2, total, info, logoJpg); paginas.push(pg);
+    if (i % 5 === 0) { aviso(`Montando página ${i + 2 + sumPags.length} de ${total}…`); await espera(); }
+    for (const ln of pags[i]) if (ln.marca != null && sumario) atual = sumario[ln.marca];
+    const pg = new Pagina(); desenharLinhas(pg, pags[i]); moldura(pg, i + 2 + sumPags.length, total, { ...info, rodape: atual }, logoJpg); paginas.push(pg);
   }
   aviso('Salvando…');
-  return { blob: await montaPdf(capaJpg, logoJpg, paginas), nome: `RISK - ${mat.nome} - ${a.titulo}`.replace(/[\\/:*?"<>|]+/g, '').slice(0, 120) + '.pdf', paginas: total };
+  return { blob: await montaPdf(capaJpg, logoJpg, paginas), nome: nome.replace(/[\\/:*?"<>|]+/g, '').slice(0, 120) + '.pdf', paginas: total };
 }
 
-export async function baixarPdfTopico(mat, a, aviso) {
-  const { blob, nome } = await gerarPdfTopico(mat, a, aviso);
+// PDF de um tópico
+export async function gerarPdfTopico(mat, a, aviso = () => {}) {
+  aviso('Preparando o texto…');
+  const info = {
+    data: new Date().toLocaleDateString('pt-BR'), materia: mat.nome, topico: a.titulo, arts: a.arts || '',
+    sup: 'Conteúdo programático' + (S.edital?.concurso ? ' · ' + S.edital.concurso : ''), rodape: a.titulo, secao: 'Conteúdo programático · PROJETO R.I.S.K.',
+    min: Math.round((palavras(a.html) + palavras(a.aprof)) / 180) || 0, nq: questoesDe(a).length,
+  };
+  const L = []; adicionarTopico(L, a);
+  return gerar({ info, L, nome: `RISK - ${mat.nome} - ${a.titulo}`, aviso });
+}
+
+// Apostila da matéria: capa, sumário e todos os tópicos em sequência (com ou sem as questões de cada tópico)
+export async function gerarApostila(mat, { comQuestoes = false } = {}, aviso = () => {}) {
+  aviso('Preparando a apostila…');
+  const ass = mat.assuntos || [];
+  const nq = ass.reduce((s, a) => s + questoesDe(a).length, 0);
+  const info = {
+    data: new Date().toLocaleDateString('pt-BR'), materia: mat.nome, topico: `Apostila completa · ${ass.length} tópicos`, arts: '',
+    sup: 'Apostila' + (S.edital?.concurso ? ' · ' + S.edital.concurso : ''), rodape: mat.nome, secao: 'Apostila · PROJETO R.I.S.K.',
+    min: Math.round(ass.reduce((s, a) => s + palavras(a.html) + palavras(a.aprof), 0) / 180) || 0, nq: comQuestoes ? nq : 0,
+  };
+  const L = [];
+  for (let i = 0; i < ass.length; i++) {
+    if (i % 3 === 0) { aviso(`Organizando o tópico ${i + 1} de ${ass.length}…`); await espera(); }
+    adicionarTopico(L, ass[i], { comQuestoes, titulo: ass[i].titulo, marca: i });
+  }
+  return gerar({ info, L, sumario: ass.map((a) => a.titulo), nome: `RISK - Apostila - ${mat.nome}`, aviso });
+}
+
+export async function baixarApostila(mat, opcoes, aviso) { baixar(await gerarApostila(mat, opcoes, aviso)); }
+function baixar({ blob, nome }) {
   const url = URL.createObjectURL(blob), link = document.createElement('a');
   link.href = url; link.download = nome; document.body.appendChild(link); link.click(); link.remove();
   setTimeout(() => URL.revokeObjectURL(url), 30000);
 }
+
+export async function baixarPdfTopico(mat, a, aviso) { baixar(await gerarPdfTopico(mat, a, aviso)); }

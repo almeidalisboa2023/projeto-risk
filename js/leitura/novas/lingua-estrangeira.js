@@ -1355,6 +1355,287 @@ export default {
 ]
 },
 {
+"id": "ingles-palavras",
+"titulo": "Inglês: formação de palavras, referência e vocabulário pelo contexto",
+"arts": "Inglês",
+"chaves": [
+"prefixos em ingles",
+"sufixos em ingles",
+"formacao de palavras em ingles",
+"referencia pronominal",
+"inferencia de vocabulario"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3 ferramentas</b><span>prefixos, sufixos e referência resolvem palavras desconhecidas</span></div><div class=\"lt-stat\"><b>Núcleo à direita</b><span>em \"road safety campaign\", o núcleo é campaign</span></div><div class=\"lt-stat\"><b>it / they / this</b><span>retomam algo dito antes: ache o referente</span></div><div class=\"lt-stat\"><b>4 pistas</b><span>definição, exemplo, contraste e sinônimo no próprio texto</span></div></div>\n<p>Ninguém chega à prova conhecendo todas as palavras de um texto em inglês, e não precisa. O candidato que sabe <b>desmontar a palavra</b> (prefixo + raiz + sufixo), <b>achar o referente</b> de um pronome e <b>usar o contexto</b> entende o trecho mesmo com vocabulário limitado. Este tópico treina essas três ferramentas, que aparecem em itens do tipo \"o termo X refere-se a Y\" e \"a palavra Z poderia ser substituída por W\".</p>\n<h3>1. Por que a formação de palavras resolve itens</h3>\n<ul><li><b>A banca cobra sentido, não tradução</b>: itens de vocabulário costumam perguntar se uma palavra tem sentido positivo ou negativo, se indica pessoa, ação ou qualidade, ou se pode ser trocada por outra. Prefixos e sufixos respondem a essas perguntas.</li><li><b>Uma raiz, várias palavras</b>: de <b>legal</b> vêm <b>illegal</b> (ilegal), <b>legally</b> (legalmente), <b>legality</b> (legalidade), <b>legalize</b> (legalizar). Reconhecendo a raiz e a terminação, você sabe a classe e o sentido.</li><li><b>Cuidado com a negação escondida</b>: \"<b>un</b>safe\", \"<b>ir</b>regular\", \"<b>mis</b>use\" e \"care<b>less</b>\" carregam negação ou sentido negativo dentro da palavra. Passar por cima disso inverte o item.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Diante de uma palavra desconhecida, faça três perguntas: <b>tem prefixo?</b> (muda o sentido), <b>tem sufixo?</b> (mostra a classe: substantivo, adjetivo, verbo ou advérbio), <b>qual é a raiz?</b> (muitas vezes é cognata do português).</div>\n<h3>2. Prefixos de negação e de oposição</h3>\n<table class=\"tab\"><thead><tr><th>Prefixo</th><th>Sentido</th><th>Exemplos</th></tr></thead><tbody><tr><td>un-</td><td>não, contrário</td><td>unsafe (inseguro), unlawful (ilegal), unlicensed (sem habilitação), unknown (desconhecido)</td></tr><tr><td>in- / im- / il- / ir-</td><td>não</td><td>inaccurate (impreciso), impossible, illegal, irregular, irresponsible</td></tr><tr><td>dis-</td><td>contrário, retirar</td><td>disagree (discordar), disobey (desobedecer), disarm (desarmar)</td></tr><tr><td>non-</td><td>não (neutro)</td><td>non-profit (sem fins lucrativos), non-violent</td></tr><tr><td>mis-</td><td>errado, mal</td><td>misuse (uso indevido), misunderstand (entender mal), misconduct (má conduta)</td></tr><tr><td>anti-</td><td>contra</td><td>anti-corruption, anti-drug</td></tr><tr><td>counter-</td><td>oposto, contra</td><td>counterfeit (falsificado), countermeasure (contramedida)</td></tr><tr><td>de-</td><td>desfazer, reduzir</td><td>decrease (diminuir), deforestation (desmatamento)</td></tr></tbody></table>\n<ul><li><b>Im-, il-, ir-</b> são variações de <b>in-</b> antes de p/b/m (im), l (il) e r (ir): <b>im</b>possible, <b>il</b>legal, <b>ir</b>regular.</li><li><b>Atenção ao \"in-\" que não é negação</b>: em <b>in</b>side, <b>in</b>crease, <b>in</b>come e <b>in</b>vestigate, o \"in\" não nega nada. Confirme pelo sentido.</li><li><b>Mis-</b> não é \"não\", é \"errado\": <b>misuse of public funds</b> = uso <b>indevido</b> de recursos públicos (houve uso, só que errado).</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> \"Unlicensed driver\" é o motorista com a habilitação suspensa. Errado: <b>unlicensed</b> = <b>sem</b> habilitação (não licenciado). Suspensa seria \"<b>suspended</b> license\".</div>\n<h3>3. Outros prefixos frequentes</h3>\n<ul><li><b>re-</b> (de novo): reopen (reabrir), reoffend (reincidir), rebuild.</li><li><b>pre- / post-</b> (antes / depois): pre-trial (antes do julgamento), post-crash (após a colisão).</li><li><b>over- / under-</b> (excesso / falta): <b>overload</b> (sobrecarga), <b>overspeed</b>, <b>overcrowded</b> (superlotado); <b>underage</b> (menor de idade), <b>underreported</b> (subnotificado), <b>underestimate</b> (subestimar).</li><li><b>out-</b> (superar): outnumber (superar em número), outweigh (pesar mais que).</li><li><b>co- / inter- / trans-</b> (junto / entre / através): cooperation, interstate (interestadual), <b>transnational</b> crime (crime transnacional).</li><li><b>sub- / super-</b> (abaixo / acima): subsection, supervise.</li><li><b>multi- / semi- / bi-</b> (muitos / meio / dois): multimodal, semi-trailer (semirreboque), bilateral.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O \"under\" que muda o número</b><p>Texto: \"Experts believe road deaths in the region are <b>underreported</b>.\" Item: \"Segundo os especialistas, as mortes no trânsito da região são superestimadas nas estatísticas.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado</b>. <b>Underreported</b> = <b>subnotificadas</b>: o número real é <b>maior</b> que o registrado. O item inverte o sentido.</p></details></div>\n<h3>4. Sufixos: a terminação mostra a classe da palavra</h3>\n<table class=\"tab\"><thead><tr><th>Sufixo</th><th>Forma</th><th>Exemplos</th></tr></thead><tbody><tr><td>-tion / -sion</td><td>substantivo (ação, resultado)</td><td>inspection, prevention, collision, decision</td></tr><tr><td>-ment</td><td>substantivo</td><td>enforcement (fiscalização, aplicação da lei), punishment, government</td></tr><tr><td>-ness / -ity / -ty</td><td>substantivo (qualidade)</td><td>awareness (consciência), security, visibility, safety</td></tr><tr><td>-er / -or / -ist</td><td>pessoa que faz</td><td>driver, offender (infrator), inspector, cyclist</td></tr><tr><td>-ee</td><td>pessoa que recebe a ação</td><td>employee (empregado), detainee (detido)</td></tr><tr><td>-ful / -less</td><td>com / sem</td><td>careful (cuidadoso), careless (descuidado), harmless (inofensivo)</td></tr><tr><td>-able / -ible</td><td>que pode ser</td><td>avoidable (evitável), visible</td></tr><tr><td>-ous / -al / -ive</td><td>adjetivo</td><td>dangerous, illegal, effective</td></tr><tr><td>-ly</td><td>advérbio (modo)</td><td>safely, illegally, roughly (aproximadamente)</td></tr><tr><td>-ize / -ify / -en</td><td>verbo</td><td>legalize, identify, strengthen (fortalecer), widen (alargar)</td></tr></tbody></table>\n<ul><li><b>Pessoa que faz x pessoa que recebe</b>: <b>employer</b> (empregador) x <b>employee</b> (empregado); <b>detainer</b> x <b>detainee</b> (o detido). A troca do sufixo inverte o papel.</li><li><b>-ful x -less</b>: <b>useful</b> (útil) x <b>useless</b> (inútil). <b>Harmless</b> = inofensivo (sem dano), não \"prejudicial\".</li><li><b>-ly nem sempre é advérbio de modo</b>: <b>friendly</b> (amigável) e <b>costly</b> (caro) são adjetivos; <b>likely</b> pode ser adjetivo (\"a likely cause\") ou indicar probabilidade.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Avoidable deaths\" são mortes inevitáveis</span><br>✅ <span class=\"certo\"><b>-able</b> = que pode ser: <b>evitáveis</b></span></li><li>❌ <span class=\"banca\">\"Careless driving\" é direção cuidadosa</span><br>✅ <span class=\"certo\"><b>-less</b> = sem cuidado: direção <b>descuidada, imprudente</b></span></li><li>❌ <span class=\"banca\">\"Detainee\" é o policial que prende</span><br>✅ <span class=\"certo\"><b>-ee</b> = quem recebe a ação: o <b>detido</b></span></li><li>❌ <span class=\"banca\">\"Enforcement\" é um verbo</span><br>✅ <span class=\"certo\"><b>-ment</b> forma substantivo: <b>fiscalização, aplicação</b> (o verbo é enforce)</span></li></ol></div>\n<h3>5. Palavras compostas e grupos nominais: leia da direita para a esquerda</h3>\n<ul><li><b>Regra de ouro</b>: em inglês, o <b>núcleo</b> do grupo nominal fica <b>à direita</b>, e o que vem antes o qualifica. \"<b>road safety campaign</b>\" = campanha (núcleo) de segurança viária; \"<b>speed camera fines</b>\" = multas (núcleo) de radar.</li><li><b>Traduza de trás para frente</b>: \"<b>federal highway police officer</b>\" = <b>policial</b> (officer) da polícia rodoviária federal; \"<b>illegal gold mining operations</b>\" = <b>operações</b> de garimpo ilegal de ouro.</li><li><b>O primeiro substantivo funciona como adjetivo e fica no singular</b>: \"a <b>ten-year</b> sentence\" (pena de dez anos), \"a <b>two-lane</b> road\" (estrada de duas faixas), \"<b>drug</b> trafficking\".</li><li><b>Genitivo ('s)</b> indica posse ou relação: \"<b>the driver's license</b>\" (a habilitação do motorista), \"<b>the country's borders</b>\" (as fronteiras do país).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Em grupos nominais longos, ache a <b>última palavra</b>: ela diz <b>o que</b> é a coisa. Tudo o que vem antes diz <b>que tipo</b> de coisa.</div>\n<h3>6. Referência: quem é \"it\", \"they\", \"this\" e \"which\"?</h3>\n<ul><li><b>Pronomes pessoais e possessivos</b>: <b>it/its</b> (coisa, singular), <b>they/them/their</b> (plural, ou pessoa de gênero indefinido), <b>he/she</b>. Procure o substantivo <b>anterior</b> compatível em número.</li><li><b>Demonstrativos</b>: <b>this / that</b> (singular) e <b>these / those</b> (plural) podem retomar uma palavra ou uma <b>ideia inteira</b> da frase anterior: \"Drivers ignored the signs. <b>This</b> led to several crashes.\" (This = o fato de ignorarem as placas).</li><li><b>Relativos</b>: <b>who</b> (pessoas), <b>which</b> (coisas e, depois de vírgula, também a ideia inteira), <b>that</b> (ambos), <b>whose</b> (cujo), <b>where</b> (onde).</li><li><b>The former / the latter</b>: o <b>primeiro</b> e o <b>último</b> de dois elementos citados. \"Police and firefighters arrived; <b>the latter</b> put out the fire.\" (os bombeiros).</li><li><b>One / ones</b>: substituem um substantivo já dito. \"Old cameras will be replaced by new <b>ones</b>.\" (ones = cameras).</li><li><b>Such</b>: \"tal, desse tipo\": \"<b>Such</b> measures\" = medidas desse tipo (as citadas antes).</li><li><b>Do so</b>: retoma uma ação: \"Some drivers stopped; others refused to <b>do so</b>.\" (do so = stop).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A banca pergunta o referente</b><p>Texto: \"The agency seized three trucks and two boats. <b>They</b> were carrying illegal timber.\" Item: \"O pronome 'they' refere-se aos agentes da agência.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado</b>. \"They were carrying illegal timber\" (transportavam madeira ilegal) retoma <b>os caminhões e os barcos</b>. Teste o referente: troque o pronome pelo substantivo e veja se a frase faz sentido.</p></details></div>\n<h3>7. Vocabulário pelo contexto: as quatro pistas</h3>\n<ul><li><b>Definição</b>: o texto explica a palavra logo depois, com vírgula, travessão ou \"that is\", \"known as\", \"which means\". \"<b>Dredges</b>, large floating machines that suck up river sediment, ...\" (a explicação diz o que é).</li><li><b>Exemplo</b>: \"<b>Wildlife</b>, such as parrots, turtles and monkeys, ...\" (os exemplos mostram que é fauna silvestre). Sinais: <b>such as, for example, including, like</b>.</li><li><b>Contraste</b>: \"Unlike urban roads, rural highways are often <b>poorly lit</b>.\" O contraste com estradas urbanas indica que \"poorly lit\" = mal iluminadas. Sinais: <b>but, however, unlike, while, whereas</b>.</li><li><b>Sinônimo ou repetição</b>: o texto troca a palavra por outra parecida para não repetir. \"The <b>smugglers</b> fled. The <b>criminals</b> were later found ...\"</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Uma palavra parecida com o português sempre tem o mesmo sentido. <b>Errado</b>: confira o contexto. <b>Actual</b> = real; <b>eventually</b> = finalmente; <b>pretend</b> = fingir; <b>assist</b> = ajudar.</div>\n<h3>8. Texto comentado: fiscalização nas estradas</h3>\n<ul><li><b>Texto (original)</b>: \"Road safety campaigns alone are rarely enough. In regions where enforcement is weak, many drivers continue to speed, and some even drive unlicensed vehicles. Unlike campaigns, which rely on awareness, roadside checks have an immediate effect: offenders know they may be stopped. However, experts warn that such checks must be frequent and unpredictable; otherwise, drivers simply learn to avoid them.\"</li><li><b>Item</b>: \"Segundo o texto, as campanhas de segurança viária, isoladamente, raramente bastam.\" <b>Certo</b>: \"alone are rarely enough\".</li><li><b>Item</b>: \"A palavra 'enforcement' refere-se à fiscalização e à aplicação das regras.\" <b>Certo</b>: sufixo <b>-ment</b> (substantivo de <b>enforce</b>).</li><li><b>Item</b>: \"'Unlicensed vehicles' são veículos com licenciamento em dia.\" <b>Errado</b>: <b>un-</b> = <b>não</b> licenciados.</li><li><b>Item</b>: \"O pronome 'which' refere-se a 'roadside checks'.\" <b>Errado</b>: \"campaigns, <b>which</b> rely on awareness\" retoma <b>campaigns</b> (as campanhas dependem de conscientização).</li><li><b>Item</b>: \"'Offenders' designa os infratores.\" <b>Certo</b>: <b>-er</b> = quem pratica (offend = infringir).</li><li><b>Item</b>: \"'Such checks' retoma as fiscalizações nas estradas citadas antes.\" <b>Certo</b>: <b>such</b> = desse tipo.</li><li><b>Item</b>: \"Segundo os especialistas, a fiscalização deve ser previsível para educar os motoristas.\" <b>Errado</b>: \"<b>unpredictable</b>\" (imprevisível: <b>un-</b> + predict + <b>-able</b>).</li><li><b>Item</b>: \"'Otherwise' introduz o que acontece se as fiscalizações não forem frequentes e imprevisíveis.\" <b>Certo</b>: otherwise = caso contrário.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>un- / in- / il- / ir-</span></span><span class=\"vs\"><span>não (unsafe, illegal, irregular)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>mis-</span></span><span class=\"vs\"><span>errado, mal (misuse = uso indevido)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>under-</span></span><span class=\"vs\"><span>abaixo, a menos (underreported = subnotificado)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>-er / -or</span></span><span class=\"vs\"><span>quem faz (offender = infrator)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>-ee</span></span><span class=\"vs\"><span>quem recebe (detainee = detido)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>-less</span></span><span class=\"vs\"><span>sem (careless = descuidado)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>-able</span></span><span class=\"vs\"><span>que pode ser (avoidable = evitável)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>-ment</span></span><span class=\"vs\"><span>substantivo (enforcement = fiscalização)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Núcleo do grupo nominal</span></span><span class=\"vs\"><span>última palavra (road safety CAMPAIGN)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>The latter</span></span><span class=\"vs\"><span>o último de dois citados</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Do so</span></span><span class=\"vs\"><span>retoma a ação anterior</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Such as</span></span><span class=\"vs\"><span>exemplo (pista de vocabulário)</span></span></button></div></div>",
+"quiz": [
+{
+"p": "A palavra \"unsafe\" tem sentido negativo por causa do prefixo \"un-\".",
+"c": true,
+"prof": "Certo. Unsafe = inseguro.",
+"x": "O prefixo un- indica negação ou o contrário.",
+"e": "un- = não."
+},
+{
+"p": "\"Illegal\" e \"irregular\" usam variações do prefixo \"in-\", adaptadas à letra inicial da raiz.",
+"c": true,
+"prof": "Certo.",
+"x": "In- vira il- antes de l, ir- antes de r e im- antes de p, b e m.",
+"e": "il- / ir- / im-."
+},
+{
+"p": "Em \"increase\", o prefixo \"in-\" indica negação.",
+"c": false,
+"prof": "Errado. Increase = aumentar.",
+"x": "Nem todo \"in-\" é negativo: inside, income, increase e investigate não têm sentido de negação.",
+"e": "in- nem sempre nega."
+},
+{
+"p": "\"Misuse of public funds\" indica uso indevido de recursos públicos.",
+"c": true,
+"prof": "Certo.",
+"x": "Mis- = errado, mal. Houve uso, mas impróprio.",
+"e": "mis- = mal."
+},
+{
+"p": "\"Misconduct\" significa ausência de conduta.",
+"c": false,
+"prof": "Errado. Misconduct = má conduta.",
+"x": "O prefixo mis- indica algo feito de forma errada, não ausência.",
+"e": "misconduct."
+},
+{
+"p": "\"Counterfeit goods\" são mercadorias falsificadas.",
+"c": true,
+"prof": "Certo.",
+"x": "Counterfeit = falsificado; tema comum em textos de contrabando e pirataria.",
+"e": "counterfeit = falsificado."
+},
+{
+"p": "\"Underreported\" indica que o número real tende a ser maior que o registrado.",
+"c": true,
+"prof": "Certo. Subnotificado.",
+"x": "Under- = abaixo, menos que o devido.",
+"e": "underreported."
+},
+{
+"p": "\"Overcrowded\", referindo-se a um barco, indica que ele estava vazio.",
+"c": false,
+"prof": "Errado. Overcrowded = superlotado.",
+"x": "Over- indica excesso.",
+"e": "over- = excesso."
+},
+{
+"p": "\"Reoffend\" significa voltar a cometer infração ou crime.",
+"c": true,
+"prof": "Certo.",
+"x": "Re- = de novo. \"Reoffending rates\" = taxas de reincidência.",
+"e": "re- = de novo."
+},
+{
+"p": "\"Transnational crime\" refere-se a crimes que ultrapassam fronteiras nacionais.",
+"c": true,
+"prof": "Certo.",
+"x": "Trans- = através, além.",
+"e": "transnational."
+},
+{
+"p": "\"Pre-trial detention\" é a prisão cumprida depois da condenação definitiva.",
+"c": false,
+"prof": "Errado. Pre-trial = antes do julgamento.",
+"x": "Pre- = antes. A expressão equivale, em linhas gerais, à prisão provisória.",
+"e": "pre- = antes."
+},
+{
+"p": "Em \"employee\", o sufixo \"-ee\" indica a pessoa que recebe a ação.",
+"c": true,
+"prof": "Certo. Empregado.",
+"x": "Employer = empregador (quem emprega); employee = empregado.",
+"e": "-ee = quem recebe."
+},
+{
+"p": "\"Detainee\" designa o agente que efetua a prisão.",
+"c": false,
+"prof": "Errado. Detainee = o detido.",
+"x": "O sufixo -ee indica quem sofre a ação.",
+"e": "detainee = detido."
+},
+{
+"p": "\"Offender\" designa o infrator.",
+"c": true,
+"prof": "Certo.",
+"x": "Offend (infringir) + -er (quem faz).",
+"e": "offender = infrator."
+},
+{
+"p": "\"Enforcement\" é substantivo formado a partir do verbo \"enforce\".",
+"c": true,
+"prof": "Certo.",
+"x": "O sufixo -ment forma substantivos. Law enforcement = aplicação da lei.",
+"e": "-ment = substantivo."
+},
+{
+"p": "\"Careless driving\" significa direção cuidadosa.",
+"c": false,
+"prof": "Errado. Careless = descuidado.",
+"x": "-less = sem. Careful = cuidadoso.",
+"e": "careless = descuidado."
+},
+{
+"p": "\"Avoidable deaths\" são mortes que poderiam ser evitadas.",
+"c": true,
+"prof": "Certo.",
+"x": "-able = que pode ser. Avoidable = evitável.",
+"e": "avoidable = evitável."
+},
+{
+"p": "\"Harmless\" significa prejudicial.",
+"c": false,
+"prof": "Errado. Harmless = inofensivo.",
+"x": "Harm (dano) + -less (sem). Prejudicial seria \"harmful\".",
+"e": "harmless x harmful."
+},
+{
+"p": "\"Strengthen\" é verbo e significa fortalecer.",
+"c": true,
+"prof": "Certo.",
+"x": "O sufixo -en forma verbos: strong → strengthen; wide → widen.",
+"e": "-en = verbo."
+},
+{
+"p": "Toda palavra terminada em \"-ly\" é advérbio de modo.",
+"c": false,
+"prof": "Errado.",
+"x": "Friendly e costly são adjetivos. Na maioria dos casos, porém, -ly forma advérbio (safely, illegally).",
+"e": "-ly nem sempre é advérbio."
+},
+{
+"p": "Em \"road safety campaign\", o núcleo do grupo nominal é \"campaign\".",
+"c": true,
+"prof": "Certo.",
+"x": "Em inglês, o núcleo fica à direita. Tradução: campanha de segurança viária.",
+"e": "núcleo à direita."
+},
+{
+"p": "\"Speed camera fines\" refere-se a câmeras de multa de velocidade.",
+"c": false,
+"prof": "Errado. Refere-se a multas de radar.",
+"x": "O núcleo é \"fines\" (multas); \"speed camera\" qualifica as multas.",
+"e": "fines = núcleo."
+},
+{
+"p": "Em \"a ten-year sentence\", \"ten-year\" funciona como adjetivo e por isso não vai para o plural.",
+"c": true,
+"prof": "Certo.",
+"x": "Substantivo usado como modificador fica no singular: a two-lane road, a five-hour operation.",
+"e": "ten-year."
+},
+{
+"p": "Em \"the country's borders\", o genitivo indica que as fronteiras são do país.",
+"c": true,
+"prof": "Certo.",
+"x": "O 's indica posse ou relação.",
+"e": "genitivo."
+},
+{
+"p": "Em \"Drivers ignored the signs. This led to several crashes\", \"this\" retoma a ideia de que os motoristas ignoraram as placas.",
+"c": true,
+"prof": "Certo.",
+"x": "Demonstrativos podem retomar uma ideia inteira, e não só uma palavra.",
+"e": "this = ideia anterior."
+},
+{
+"p": "Em \"Police and firefighters arrived; the latter put out the fire\", quem apagou o fogo foi a polícia.",
+"c": false,
+"prof": "Errado. Foram os bombeiros.",
+"x": "The latter = o último dos dois citados. The former = o primeiro.",
+"e": "the latter."
+},
+{
+"p": "Em \"Old cameras will be replaced by new ones\", \"ones\" substitui \"cameras\".",
+"c": true,
+"prof": "Certo.",
+"x": "One/ones evitam repetir um substantivo já mencionado.",
+"e": "ones."
+},
+{
+"p": "Em \"Some drivers stopped; others refused to do so\", \"do so\" retoma a ação de parar.",
+"c": true,
+"prof": "Certo.",
+"x": "Do so substitui a ação já citada para evitar repetição.",
+"e": "do so."
+},
+{
+"p": "Em \"The agency seized three trucks and two boats. They were carrying illegal timber\", \"they\" refere-se aos caminhões e barcos.",
+"c": true,
+"prof": "Certo.",
+"x": "Teste: os caminhões e barcos transportavam madeira ilegal. É o único referente plural que faz sentido.",
+"e": "referente."
+},
+{
+"p": "\"Whose\" é usado para indicar lugar.",
+"c": false,
+"prof": "Errado. Whose indica posse (cujo).",
+"x": "Lugar é \"where\".",
+"e": "whose = cujo."
+},
+{
+"p": "Expressões como \"such as\" e \"for example\" ajudam a inferir o sentido de uma palavra pelos exemplos dados.",
+"c": true,
+"prof": "Certo.",
+"x": "Em \"Wildlife, such as parrots and turtles\", os exemplos mostram que wildlife é fauna silvestre.",
+"e": "such as = exemplo."
+},
+{
+"p": "Uma palavra desconhecida pode ser explicada no próprio texto por aposto, travessão ou expressões como \"that is\" e \"known as\".",
+"c": true,
+"prof": "Certo. Pista de definição.",
+"x": "É uma das quatro pistas de contexto: definição, exemplo, contraste e sinônimo.",
+"e": "pista de definição."
+},
+{
+"p": "Em \"Unlike urban roads, rural highways are often poorly lit\", o contraste ajuda a entender que as rodovias rurais costumam ser mal iluminadas.",
+"c": true,
+"prof": "Certo.",
+"x": "Unlike = diferentemente de; poorly lit = mal iluminado.",
+"e": "unlike = contraste."
+},
+{
+"p": "Texto: \"Experts warn that checks must be frequent and unpredictable.\" Os especialistas defendem fiscalizações previsíveis.",
+"c": false,
+"prof": "Errado.",
+"x": "Unpredictable = un- + predict + -able = imprevisível.",
+"e": "unpredictable."
+},
+{
+"p": "Texto: \"Road safety campaigns alone are rarely enough.\" O texto afirma que só campanhas raramente bastam.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Alone\" = sozinhas, isoladamente; \"rarely\" = raramente.",
+"e": "alone = sozinho."
+},
+{
+"p": "Em \"campaigns, which rely on awareness\", o pronome \"which\" retoma \"awareness\".",
+"c": false,
+"prof": "Errado. Retoma \"campaigns\".",
+"x": "As campanhas é que dependem de conscientização. O relativo retoma o termo anterior à vírgula.",
+"e": "which = campaigns."
+},
+{
+"p": "\"Awareness\" é substantivo e significa conscientização ou consciência.",
+"c": true,
+"prof": "Certo.",
+"x": "Aware (ciente) + -ness (substantivo de qualidade).",
+"e": "awareness."
+},
+{
+"p": "Em \"illegal gold mining operations\", o termo principal é \"operations\".",
+"c": true,
+"prof": "Certo.",
+"x": "Leia da direita para a esquerda: operações de garimpo ilegal de ouro.",
+"e": "operations = núcleo."
+}
+]
+},
+{
 "id": "espanhol-gramatica",
 "titulo": "Espanhol: gramática para interpretação de textos",
 "arts": "Espanhol",
@@ -2138,6 +2419,288 @@ export default {
 "prof": "Errado. Leva acento: \"exámenes\".",
 "x": "No plural, a palavra passa a ser proparoxítona (esdrújula), que sempre leva acento gráfico.",
 "e": "exámenes."
+}
+]
+},
+{
+"id": "espanhol-verbos",
+"titulo": "Espanhol: verbos e tempos verbais para interpretação de textos",
+"arts": "Espanhol",
+"chaves": [
+"verbos em espanhol",
+"preterito indefinido",
+"preterito perfecto",
+"subjuntivo em espanhol",
+"imperativo em espanhol",
+"futuro em espanhol"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3 passados</b><span>indefinido (llegó), perfecto (ha llegado) e imperfecto (llegaba)</span></div><div class=\"lt-stat\"><b>-rá / -ría</b><span>futuro (será) e condicional (sería): planejado x hipotético</span></div><div class=\"lt-stat\"><b>Subjuntivo</b><span>desejo, finalidade, hipótese: \"para que vengan\"</span></div><div class=\"lt-stat\"><b>haber</b><span>único auxiliar dos tempos compostos</span></div></div>\n<p>Em textos de espanhol, a banca adora trocar o <b>tempo do verbo</b>: o item diz que algo <b>já aconteceu</b> quando o texto diz que <b>vai acontecer</b> (reforzarán), ou trata como <b>fato</b> o que é <b>hipótese</b> (podría, tuviera). Este tópico mostra como reconhecer cada tempo pela terminação, sem precisar decorar todas as conjugações.</p>\n<h3>1. Por que o verbo decide o item</h3>\n<ul><li><b>Passado x futuro</b>: \"La policía <b>reforzó</b> los controles\" (reforçou: já aconteceu) x \"La policía <b>reforzará</b> los controles\" (vai reforçar). Uma letra muda o item de Certo para Errado.</li><li><b>Fato x hipótese</b>: \"El operativo <b>redujo</b> los robos\" (reduziu: fato) x \"El operativo <b>reduciría</b> los robos\" (reduziria: hipótese, estimativa).</li><li><b>Afirmação x desejo</b>: \"Los vecinos <b>piden</b> que la policía <b>venga</b>\" (pedem que venha: ainda não veio).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Olhe a <b>terminação</b>: <b>-ó / -aron</b> (passado concluído), <b>-aba / -ía</b> (passado habitual), <b>-rá / -rán</b> (futuro), <b>-ría / -rían</b> (condicional, hipótese), <b>-e / -a trocados</b> no presente (subjuntivo: venga, llegue, hable).</div>\n<h3>2. Presente do indicativo e as irregularidades que mais aparecem</h3>\n<ul><li><b>Ditongação</b>: o radical muda quando é tônico. <b>e → ie</b>: querer → qu<b>ie</b>ro, cerrar → c<b>ie</b>rran; <b>o → ue</b>: poder → p<b>ue</b>de, volver → v<b>ue</b>lve, contar → c<b>ue</b>nta; <b>e → i</b>: pedir → p<b>i</b>de, seguir → s<b>i</b>gue.</li><li><b>Primeira pessoa irregular</b>: tener → <b>tengo</b>, hacer → <b>hago</b>, poner → <b>pongo</b>, salir → <b>salgo</b>, decir → <b>digo</b>, conocer → <b>conozco</b>, traer → <b>traigo</b>.</li><li><b>Muito irregulares</b>: ser (soy, es, son), ir (voy, va, van), estar (estoy, está), haber (he, ha, hay).</li><li><b>Ser x estar</b>: <b>ser</b> para características e identidade (\"es policía\", \"es peligroso\"); <b>estar</b> para estados e localização (\"está herido\", \"está en la frontera\").</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> \"Sigue\" vem de \"seguir\" e sempre significa \"segue um caminho\". <b>Errado</b>: \"<b>sigue</b> investigando\" = <b>continua</b> investigando (seguir + gerúndio = continuar).</div>\n<h3>3. Os três passados: indefinido, perfecto e imperfecto</h3>\n<table class=\"tab\"><thead><tr><th>Tempo</th><th>Forma</th><th>Uso</th><th>Exemplo</th></tr></thead><tbody><tr><td>Pretérito indefinido</td><td>llegó, llegaron, hizo, fue</td><td>ação concluída num tempo terminado</td><td>\"Ayer la patrulla detuvo a dos sospechosos.\"</td></tr><tr><td>Pretérito perfecto</td><td>ha llegado, han detenido</td><td>ação passada ligada ao presente (hoy, este año, ya)</td><td>\"Este año se han incautado 3 toneladas.\"</td></tr><tr><td>Pretérito imperfecto</td><td>llegaba, tenía, era</td><td>hábito, descrição, ação em curso no passado</td><td>\"Antes los camiones pasaban sin control.\"</td></tr><tr><td>Pluscuamperfecto</td><td>había llegado</td><td>passado anterior a outro passado</td><td>\"Cuando llegó la policía, los ladrones ya habían huido.\"</td></tr></tbody></table>\n<ul><li><b>Indefinido irregular</b>: hacer → <b>hizo</b>, tener → <b>tuvo</b>, estar → <b>estuvo</b>, poder → <b>pudo</b>, poner → <b>puso</b>, decir → <b>dijo</b>, traer → <b>trajo</b>, venir → <b>vino</b>. <b>Ser e ir</b> têm a mesma forma: <b>fue / fueron</b> (o contexto decide: \"fue detenido\" = foi detido; \"fue a la comisaría\" = foi à delegacia).</li><li><b>Imperfecto descreve o pano de fundo</b>: \"<b>Llovía</b> cuando el camión <b>volcó</b>\" (chovia: cenário; capotou: ação pontual).</li><li><b>Pluscuamperfecto ordena os fatos</b>: \"ya <b>habían huido</b>\" = já tinham fugido (antes de a polícia chegar).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Quem chegou primeiro?</b><p>Texto: \"Cuando los agentes llegaron al puerto, la lancha ya había zarpado.\" Item: \"Os agentes chegaram ao porto antes da partida da lancha.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado</b>. \"Ya <b>había zarpado</b>\" (pluscuamperfecto) indica que a lancha <b>já tinha partido</b> quando os agentes chegaram.</p></details></div>\n<h3>4. Futuro e condicional</h3>\n<ul><li><b>Futuro simples</b>: infinitivo + <b>-é, -ás, -á, -emos, -éis, -án</b>: reforzar<b>á</b>, controlar<b>án</b>. Irregulares: tener → <b>tendrá</b>, poder → <b>podrá</b>, hacer → <b>hará</b>, decir → <b>dirá</b>, salir → <b>saldrá</b>, poner → <b>pondrá</b>, venir → <b>vendrá</b>, haber → <b>habrá</b>.</li><li><b>Futuro de probabilidade</b>: também indica suposição sobre o presente: \"<b>Serán</b> las diez\" = devem ser umas dez horas; \"<b>Tendrá</b> unos 30 años\" = deve ter uns 30 anos.</li><li><b>Condicional</b>: infinitivo + <b>-ía, -ías, -ía, -íamos, -íais, -ían</b>: podr<b>ía</b>, ser<b>ía</b>, deber<b>ía</b>. Indica hipótese, cortesia, conselho ou informação não confirmada.</li><li><b>Condicional de rumor (muito comum em notícias)</b>: \"El sospechoso <b>habría huido</b> a Bolivia\" = o suspeito <b>teria fugido</b> (informação não confirmada). Item que trata isso como fato está errado.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Habrá más controles\" indica que já houve controles</span><br>✅ <span class=\"certo\"><b>habrá</b> = <b>haverá</b> (futuro)</span></li><li>❌ <span class=\"banca\">\"Debería\" expressa obrigação já cumprida</span><br>✅ <span class=\"certo\"><b>debería</b> = <b>deveria</b> (conselho ou dever não cumprido)</span></li><li>❌ <span class=\"banca\">\"El detenido habría confesado\" afirma que ele confessou</span><br>✅ <span class=\"certo\">é <b>rumor</b>: <b>teria</b> confessado</span></li><li>❌ <span class=\"banca\">\"Podrán\" indica permissão no passado</span><br>✅ <span class=\"certo\"><b>podrán</b> = <b>poderão</b> (futuro)</span></li></ol></div>\n<h3>5. Subjuntivo: desejo, finalidade, dúvida e hipótese</h3>\n<ul><li><b>Presente do subjuntivo</b>: troca a vogal temática: hablar → habl<b>e</b>, comer → com<b>a</b>, vivir → viv<b>a</b>; irregulares a partir da 1ª pessoa: tengo → <b>tenga</b>, hago → <b>haga</b>, vengo → <b>venga</b>, digo → <b>diga</b>. Ser → <b>sea</b>, ir → <b>vaya</b>, haber → <b>haya</b>, estar → <b>esté</b>.</li><li><b>Quando aparece</b>: depois de verbos de desejo, pedido e ordem (<b>querer que, pedir que, exigir que</b>), de finalidade (<b>para que, a fin de que</b>), de emoção (<b>me alegra que</b>), de dúvida (<b>no creo que, es posible que</b>) e em orações temporais com sentido de futuro (<b>cuando llegue</b> = quando chegar).</li><li><b>Imperfeito do subjuntivo</b>: formas em <b>-ra</b> ou <b>-se</b>: tuviera / tuviese, pudiera, fuera, hubiera. Aparece em hipóteses: \"<b>Si hubiera</b> más agentes, <b>habría</b> menos robos\" (se houvesse mais agentes, haveria menos roubos: hoje não há).</li><li><b>Aunque + indicativo x subjuntivo</b>: \"aunque <b>llueve</b>\" (embora esteja chovendo: fato) x \"aunque <b>llueva</b>\" (ainda que chova: hipótese).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Desejo não é fato</b><p>Texto: \"Los alcaldes exigen que el gobierno federal envíe más patrullas a la región.\" Item: \"O governo federal enviou mais patrulhas à região.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado</b>. \"<b>Exigen que</b> ... <b>envíe</b>\" (subjuntivo) expressa uma exigência: as patrulhas <b>ainda não</b> foram enviadas.</p></details></div>\n<h3>6. Imperativo</h3>\n<ul><li><b>Tú (afirmativo)</b>: igual à 3ª pessoa do presente: <b>controla, pide, sigue</b>. Irregulares: <b>ten, haz, pon, sal, di, ven, ve, sé</b>.</li><li><b>Usted / ustedes</b>: usa as formas do subjuntivo: <b>pare, detenga, muestre, siga</b> / <b>paren, muestren</b>. Em placas e ordens policiais: \"<b>Pare</b>\", \"<b>Muestre su licencia</b>\", \"<b>No adelante</b>\".</li><li><b>Negativo</b>: sempre com subjuntivo: <b>no corras, no pare, no estacionen</b>.</li><li><b>Pronomes</b>: no afirmativo, vão depois e unidos (<b>dígame, muéstrelo</b>); no negativo, antes (<b>no me diga, no lo muestre</b>).</li></ul>\n<h3>7. Verbos de sentido traiçoeiro</h3>\n<table class=\"tab\"><thead><tr><th>Verbo</th><th>Significa</th><th>Cuidado</th></tr></thead><tbody><tr><td>quedar</td><td>ficar, restar, combinar</td><td>\"quedan tres detenidos\" = restam três detidos</td></tr><tr><td>echar</td><td>jogar, lançar, expulsar</td><td>\"echar de menos\" = sentir falta</td></tr><tr><td>soler</td><td>costumar</td><td>\"suelen pasar de noche\" = costumam passar à noite</td></tr><tr><td>tardar</td><td>demorar</td><td>\"tardó dos horas\" = demorou duas horas</td></tr><tr><td>acordarse</td><td>lembrar-se</td><td>acordar = despertar(se)</td></tr><tr><td>pasar</td><td>passar, acontecer</td><td>\"¿qué pasó?\" = o que aconteceu?</td></tr><tr><td>tirar</td><td>jogar fora, atirar</td><td>\"tiró la droga al río\" = jogou a droga no rio</td></tr><tr><td>salir</td><td>sair, dar certo</td><td>\"salió bien\" = deu certo</td></tr><tr><td>contestar</td><td>responder</td><td>o sentido mais comum é responder, e não discordar</td></tr></tbody></table>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> \"Suelen\" indica algo que aconteceu uma única vez. <b>Errado</b>: <b>soler</b> = <b>costumar</b> (hábito). \"Los contrabandistas <b>suelen</b> usar el río de noche\" = costumam usar.</div>\n<h3>8. Texto comentado: operativo en la frontera</h3>\n<ul><li><b>Texto (original)</b>: \"Durante el fin de semana, agentes federales realizaron un operativo en la frontera que terminó con la incautación de 200 kilos de cocaína. Según fuentes oficiales, la droga habría sido transportada en una barcaza que solía cruzar el río sin ser revisada. Las autoridades anunciaron que reforzarán los controles fluviales, aunque reconocen que, si no hubiera cooperación entre los países vecinos, el problema sería difícil de resolver.\"</li><li><b>Item</b>: \"O operativo foi realizado e terminou com apreensão de cocaína.\" <b>Certo</b>: \"realizaron\", \"terminó\" (indefinido).</li><li><b>Item</b>: \"O texto afirma, como fato comprovado, que a droga foi transportada em uma barcaça.\" <b>Errado</b>: \"<b>habría sido</b> transportada\" (condicional de rumor: <b>teria sido</b>).</li><li><b>Item</b>: \"A barcaça costumava cruzar o rio sem ser revistada.\" <b>Certo</b>: \"<b>solía</b>\" = costumava (imperfecto de soler).</li><li><b>Item</b>: \"Os controles fluviais já foram reforçados.\" <b>Errado</b>: \"<b>reforzarán</b>\" = vão reforçar (futuro).</li><li><b>Item</b>: \"Segundo as autoridades, sem cooperação entre os países vizinhos, o problema seria difícil de resolver.\" <b>Certo</b>: \"si no <b>hubiera</b>... <b>sería</b>\" (hipótese).</li><li><b>Item</b>: \"'Aunque' introduz uma ressalva.\" <b>Certo</b>: concessão.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>-ó / -aron</span></span><span class=\"vs\"><span>passado concluído (indefinido)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ha / han + particípio</span></span><span class=\"vs\"><span>passado ligado ao presente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>-aba / -ía</span></span><span class=\"vs\"><span>passado habitual ou descritivo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>había + particípio</span></span><span class=\"vs\"><span>passado anterior a outro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>-rá / -rán</span></span><span class=\"vs\"><span>futuro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>-ría / -rían</span></span><span class=\"vs\"><span>condicional (hipótese)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>habría + particípio</span></span><span class=\"vs\"><span>teria (notícia não confirmada)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>querer que / pedir que + subjuntivo</span></span><span class=\"vs\"><span>desejo, não fato</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>para que</span></span><span class=\"vs\"><span>finalidade + subjuntivo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>si + hubiera</span></span><span class=\"vs\"><span>hipótese irreal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>soler</span></span><span class=\"vs\"><span>costumar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>tardar</span></span><span class=\"vs\"><span>demorar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>fue</span></span><span class=\"vs\"><span>foi (de ser ou de ir)</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Em \"La policía reforzó los controles\", o verbo indica ação já concluída.",
+"c": true,
+"prof": "Certo. Pretérito indefinido.",
+"x": "A terminação -ó marca o passado concluído na 3ª pessoa do singular.",
+"e": "-ó = passado."
+},
+{
+"p": "Em \"La policía reforzará los controles\", o reforço já ocorreu.",
+"c": false,
+"prof": "Errado. Reforzará = vai reforçar.",
+"x": "-rá indica futuro.",
+"e": "-rá = futuro."
+},
+{
+"p": "\"Han detenido\" é forma do pretérito perfecto compuesto, formado com o auxiliar \"haber\".",
+"c": true,
+"prof": "Certo.",
+"x": "Haber + particípio: he llegado, han detenido.",
+"e": "haber + particípio."
+},
+{
+"p": "Em \"Antes los camiones pasaban sin control\", o imperfecto indica hábito no passado.",
+"c": true,
+"prof": "Certo.",
+"x": "-aba indica ação habitual ou descritiva no passado.",
+"e": "imperfecto = hábito."
+},
+{
+"p": "Em \"los ladrones ya habían huido\", o pluscuamperfecto indica fuga anterior a outro fato passado.",
+"c": true,
+"prof": "Certo.",
+"x": "Había + particípio = tinha + particípio.",
+"e": "pluscuamperfecto."
+},
+{
+"p": "\"Fue\" pertence apenas ao verbo \"ser\".",
+"c": false,
+"prof": "Errado. \"Fue\" é forma de \"ser\" e de \"ir\".",
+"x": "\"Fue detenido\" (foi detido: ser) e \"fue a la comisaría\" (foi à delegacia: ir).",
+"e": "fue = ser ou ir."
+},
+{
+"p": "\"Hizo\" é o pretérito indefinido de \"hacer\", na 3ª pessoa do singular.",
+"c": true,
+"prof": "Certo.",
+"x": "Hacer é irregular: hice, hiciste, hizo.",
+"e": "hizo = fez."
+},
+{
+"p": "\"Dijo\" significa \"disse\".",
+"c": true,
+"prof": "Certo.",
+"x": "Pretérito indefinido de decir.",
+"e": "dijo."
+},
+{
+"p": "\"Tuvo\" é forma do presente do verbo \"tener\".",
+"c": false,
+"prof": "Errado. Tuvo = teve (pretérito indefinido).",
+"x": "O presente é \"tiene\".",
+"e": "tuvo = teve."
+},
+{
+"p": "Em \"quiero\", ocorre ditongação \"e → ie\" no radical do verbo \"querer\".",
+"c": true,
+"prof": "Certo.",
+"x": "Querer → quiero, quieres, quiere, queremos.",
+"e": "e → ie."
+},
+{
+"p": "\"Puede\" vem do verbo \"poder\", com ditongação \"o → ue\".",
+"c": true,
+"prof": "Certo.",
+"x": "Poder → puedo, puede, pueden.",
+"e": "o → ue."
+},
+{
+"p": "Em espanhol, usa-se \"estar\" para localização e estados: \"está en la frontera\", \"está herido\".",
+"c": true,
+"prof": "Certo.",
+"x": "Ser indica identidade e características: \"es policía\".",
+"e": "ser x estar."
+},
+{
+"p": "\"Serán las diez\" pode expressar suposição sobre a hora atual.",
+"c": true,
+"prof": "Certo. Futuro de probabilidade.",
+"x": "Equivale a \"devem ser umas dez\".",
+"e": "futuro de probabilidade."
+},
+{
+"p": "\"Tendrá\" é o futuro de \"tener\".",
+"c": true,
+"prof": "Certo.",
+"x": "Futuro irregular: tendrá, podrá, hará, dirá, saldrá, vendrá.",
+"e": "tendrá = terá."
+},
+{
+"p": "\"Habrá más controles\" indica que houve mais controles no passado.",
+"c": false,
+"prof": "Errado. Habrá = haverá.",
+"x": "Futuro de haber.",
+"e": "habrá = haverá."
+},
+{
+"p": "Em notícias, \"el sospechoso habría huido\" indica informação não confirmada.",
+"c": true,
+"prof": "Certo. Condicional de rumor.",
+"x": "Equivale a \"o suspeito teria fugido\".",
+"e": "habría = teria."
+},
+{
+"p": "\"Debería\" expressa obrigação já cumprida.",
+"c": false,
+"prof": "Errado. Debería = deveria.",
+"x": "O condicional expressa conselho, dever ou hipótese, sem afirmar que foi cumprido.",
+"e": "debería."
+},
+{
+"p": "\"Podría\" indica possibilidade ou hipótese.",
+"c": true,
+"prof": "Certo.",
+"x": "Condicional de poder: poderia.",
+"e": "podría."
+},
+{
+"p": "Em \"Los vecinos piden que la policía venga\", a vinda da polícia é um pedido, e não um fato já ocorrido.",
+"c": true,
+"prof": "Certo.",
+"x": "Pedir que + subjuntivo expressa algo desejado.",
+"e": "pedir que + subjuntivo."
+},
+{
+"p": "Em \"Los alcaldes exigen que el gobierno envíe más patrullas\", afirma-se que o governo já enviou as patrulhas.",
+"c": false,
+"prof": "Errado.",
+"x": "Exigir que + subjuntivo (envíe): é exigência, ainda não cumprida.",
+"e": "exigir que."
+},
+{
+"p": "\"Para que\" exige o verbo no subjuntivo: \"para que los conductores reduzcan la velocidad\".",
+"c": true,
+"prof": "Certo.",
+"x": "Orações de finalidade levam subjuntivo.",
+"e": "para que + subjuntivo."
+},
+{
+"p": "Em \"Cuando llegue el fiscal, empezará la audiencia\", \"llegue\" está no subjuntivo por indicar fato futuro.",
+"c": true,
+"prof": "Certo.",
+"x": "Cuando + subjuntivo = quando chegar (futuro).",
+"e": "cuando + subjuntivo."
+},
+{
+"p": "\"Tuviera\" e \"tuviese\" são formas equivalentes do imperfeito do subjuntivo.",
+"c": true,
+"prof": "Certo.",
+"x": "As terminações -ra e -se se equivalem: pudiera/pudiese, fuera/fuese.",
+"e": "-ra / -se."
+},
+{
+"p": "Em \"Si hubiera más agentes, habría menos robos\", afirma-se que há mais agentes hoje.",
+"c": false,
+"prof": "Errado.",
+"x": "É hipótese irreal: se houvesse mais agentes (não há), haveria menos roubos.",
+"e": "si + hubiera."
+},
+{
+"p": "\"Aunque llueva\" expressa hipótese (ainda que chova), e \"aunque llueve\" expressa fato (embora esteja chovendo).",
+"c": true,
+"prof": "Certo.",
+"x": "Aunque + subjuntivo = hipótese; + indicativo = fato.",
+"e": "aunque."
+},
+{
+"p": "Em placas e ordens com \"usted\", o imperativo usa formas do subjuntivo: \"Pare\", \"Muestre su licencia\".",
+"c": true,
+"prof": "Certo.",
+"x": "Imperativo de usted = presente do subjuntivo.",
+"e": "imperativo usted."
+},
+{
+"p": "O imperativo negativo em espanhol usa as mesmas formas do imperativo afirmativo de \"tú\": \"no corre\".",
+"c": false,
+"prof": "Errado. O correto é \"no corras\".",
+"x": "O imperativo negativo usa sempre o subjuntivo.",
+"e": "no + subjuntivo."
+},
+{
+"p": "Em \"muéstrelo\", o pronome vem depois do imperativo afirmativo, unido ao verbo.",
+"c": true,
+"prof": "Certo.",
+"x": "No negativo, vem antes: \"no lo muestre\".",
+"e": "imperativo + pronome."
+},
+{
+"p": "\"Soler\" significa costumar: \"suelen cruzar de noche\" = costumam cruzar à noite.",
+"c": true,
+"prof": "Certo.",
+"x": "Verbo de hábito.",
+"e": "soler = costumar."
+},
+{
+"p": "\"Tardar\" significa chegar tarde, e não demorar.",
+"c": false,
+"prof": "Errado. Tardar = demorar.",
+"x": "\"Tardó dos horas\" = demorou duas horas.",
+"e": "tardar = demorar."
+},
+{
+"p": "\"Quedan tres detenidos\" pode significar que restam três presos.",
+"c": true,
+"prof": "Certo.",
+"x": "Quedar = ficar, restar.",
+"e": "quedar = restar."
+},
+{
+"p": "\"Echar de menos\" significa sentir falta.",
+"c": true,
+"prof": "Certo.",
+"x": "Echar sozinho significa jogar, lançar, expulsar.",
+"e": "echar de menos."
+},
+{
+"p": "\"Acordarse\" significa acordar do sono.",
+"c": false,
+"prof": "Errado. Acordarse = lembrar-se.",
+"x": "Acordar do sono é \"despertar(se)\".",
+"e": "acordarse = lembrar."
+},
+{
+"p": "\"Sigue investigando\" indica que a investigação continua.",
+"c": true,
+"prof": "Certo.",
+"x": "Seguir + gerúndio = continuar fazendo.",
+"e": "seguir + gerúndio."
+},
+{
+"p": "Texto: \"Las autoridades anunciaron que reforzarán los controles.\" O reforço é anunciado para o futuro.",
+"c": true,
+"prof": "Certo.",
+"x": "Anunciaron (passado) que reforzarán (futuro).",
+"e": "reforzarán."
+},
+{
+"p": "Texto: \"La droga habría sido transportada en una barcaza.\" O texto confirma o meio de transporte da droga.",
+"c": false,
+"prof": "Errado.",
+"x": "\"Habría sido\" = teria sido: informação atribuída e não confirmada.",
+"e": "habría sido."
+},
+{
+"p": "Texto: \"una barcaza que solía cruzar el río sin ser revisada.\" A barcaça costumava atravessar o rio sem revista.",
+"c": true,
+"prof": "Certo.",
+"x": "Solía = costumava (imperfecto de soler).",
+"e": "solía."
+},
+{
+"p": "\"Contestar\", em espanhol, significa principalmente responder.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Contestó a las preguntas del juez\" = respondeu às perguntas do juiz.",
+"e": "contestar = responder."
 }
 ]
 },

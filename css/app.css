@@ -1483,3 +1483,9 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
 .rc-nums b { display: block; font: 600 22px var(--sans); }
 .rc-nums small { color: var(--txt2); font-size: 12px; }
 @media (max-width: 720px) { .rc-grade { grid-template-columns: 1fr; } .rc-nums b { font-size: 18px; } }
+
+/* Apostila da matéria */
+.lt-mat { position: relative; }
+.lt-ap-card { position: static; align-self: flex-end; margin: -4px 12px 12px; border: 1px solid var(--borda); background: var(--card); color: var(--txt); font: 600 12px var(--sans); padding: 4px 10px; border-radius: 8px; cursor: pointer; opacity: .9; }
+.lt-ap-card:hover { opacity: 1; border-color: var(--txt); }
+.lt-ap-btn { width: 100%; margin-top: 12px; }

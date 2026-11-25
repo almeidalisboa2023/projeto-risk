@@ -121,7 +121,7 @@ function quadro(el) {
       <small>${m.assuntos.length} tópicos · ${feitos} lidos</small>
       <div class="lt-mat-bar"><div style="width:${p}%"></div></div></div>
       <span class="st-bolas">${bolas(m)}</span>
-      ${meu.has(m.id) ? '<span class="lt-mat-tag">No seu edital</span>' : ''}</a>`;
+      ${meu.has(m.id) ? '<span class="lt-mat-tag">No seu edital</span>' : ''}<button class="lt-ap-card" type="button" data-apostila="${m.id}" title="Gerar a apostila da matéria em PDF">⤓ Apostila</button></a>`;
   }).join('')}</div>`;
   const inp = el.querySelector('#ltBusca'), res = el.querySelector('#ltRes');
   let timer = 0;
@@ -132,6 +132,7 @@ function quadro(el) {
     res.innerHTML = termo && ![...el.querySelectorAll('.lt-mat')].some((c) => c.style.display !== 'none') ? '<div class="card muted">Nenhuma matéria com esse nome.</div>' : '';
   };
   inp.oninput = () => { clearTimeout(timer); timer = setTimeout(busca, 180); };
+  el.querySelectorAll('[data-apostila]').forEach((b) => (b.onclick = (e) => { e.preventDefault(); e.stopPropagation(); const m = visiveis().find((x) => x.id === b.dataset.apostila); if (m) pedirApostila(m); }));
   if (ultimaBusca) busca();
 }
 
@@ -164,6 +165,30 @@ function marca(texto, termo) {
   return esc(texto.slice(0, i)) + '<mark class="lt-hl">' + esc(texto.slice(i, i + p.length)) + '</mark>' + esc(texto.slice(i + p.length));
 }
 
+// ---------- Apostila da matéria (PDF com todos os tópicos) ----------
+const m0DaLeitura = (mat) => { const m = visiveis().find((x) => x.id === mat.id) || mat; return m.id === 'lingua-estrangeira' && mat.lingua ? filtrarLingua(m, mat.lingua) : m; };
+function pedirApostila(m0) {
+  let m = m0;
+  if (m.id === 'lingua-estrangeira' && !m.lingua) { const lg = ler('risk-lingua', ''); if (lg === 'en' || lg === 'es') m = filtrarLingua(m, lg); }
+  const nq = m.assuntos.reduce((s, a) => s + (a.quiz || []).length, 0);
+  modal(`<h3>Apostila de ${esc(m.nome)}</h3>
+    <p class="muted" style="font-size:14px">O PDF traz capa, sumário com as páginas e o conteúdo completo dos <b>${m.assuntos.length} tópicos</b>, sem flashcards nem botões.</p>
+    <label class="check"><input type="checkbox" id="apQ"> Incluir as questões de cada tópico com gabarito comentado (${nq} questões; o arquivo fica bem maior)</label>
+    <div class="row" style="margin-top:14px"><span class="sp"></span><button class="btn" id="apOk">⤓ Gerar apostila</button></div>`, {
+    onMount: (box, close) => (box.querySelector('#apOk').onclick = async () => {
+      const comQuestoes = box.querySelector('#apQ').checked; close();
+      const tela = document.createElement('div'); tela.className = 'pdf-gerando'; tela.innerHTML = '<div><span class="spin"></span><b>Gerando a apostila</b><small id="pdfMsg">Preparando…</small></div>'; document.body.appendChild(tela);
+      try {
+        const mat = { ...m, assuntos: m.assuntos.map((a) => (a.quiz ? { ...a, quiz: a.quiz.map((x) => padraoBanca(x)) } : a)) };
+        const { baixarApostila } = await import('../pdf-topico.js');
+        await baixarApostila(mat, { comQuestoes }, (t) => { const x = tela.querySelector('#pdfMsg'); if (x && t) x.textContent = t; });
+        toast('Apostila baixada.');
+      } catch (e) { console.error(e); toast(e.message || 'Não foi possível gerar a apostila.', 'erro'); }
+      finally { tela.remove(); }
+    }),
+  });
+}
+
 function leitura(el, q, mat, idx) {
   const a = mat.assuntos[idx], L = lidos(), k = mat.id + '/' + a.id;
   const nME = (a.quiz || []).filter((x) => x.alts).length, nCE = (a.quiz || []).length - nME;
@@ -192,6 +217,7 @@ function leitura(el, q, mat, idx) {
       <div class="lt-mat-bar" style="margin-bottom:10px"><div style="width:${Math.round((feitos / mat.assuntos.length) * 100)}%"></div></div>
       <select id="ltSel" class="lt-sel-mob">${mat.assuntos.map((x, i) => `<option value="${i}" ${i === idx ? 'selected' : ''}>${i + 1}. ${esc(x.titulo)}${L.has(mat.id + '/' + x.id) ? ' ✓' : ''}</option>`).join('')}</select>
       <ol class="lt-lista">${mat.assuntos.map((x, i) => `<li class="${i === idx ? 'on' : ''} ${L.has(mat.id + '/' + x.id) ? 'lido' : ''}"><a href="${ir(i)}">${bolas(mat, x)}${esc(x.titulo)}</a></li>`).join('')}</ol>
+      <button class="btn sec mini lt-ap-btn" id="ltApostila" type="button">⤓ Gerar apostila da matéria (PDF)</button>
     </aside>
     <article class="card lt-texto">
       <div class="lt-meta"><span class="pill">${idx + 1} de ${mat.assuntos.length}</span>${a.arts ? `<span class="pill">${esc(a.arts)}</span>` : ''}<span class="pill lt-tempo" title="Leitura do texto essencial + aprofundamento">⏱ ~${minutosLeitura(a.html + (a.aprof || ''), 0)} min</span><span class="sp"></span>
@@ -228,6 +254,7 @@ function leitura(el, q, mat, idx) {
   $('#ltCap').onclick = () => ind.classList.toggle('aberto');
   $('#ltCapX').onclick = () => ind.classList.remove('aberto');
   $('#ltConcl').onchange = () => { const s2 = lidos(); s2.has(k) ? s2.delete(k) : s2.add(k); gravar(chave(), [...s2]); render(el, q); };
+  $('#ltApostila').onclick = () => pedirApostila(m0DaLeitura(mat));
   $('#ltPdf').onclick = async () => {
     const b = $('#ltPdf'); if (b.disabled) return; b.disabled = true;
     const tela = document.createElement('div'); tela.className = 'pdf-gerando'; tela.innerHTML = '<div><span class="spin"></span><b>Gerando o seu PDF</b><small id="pdfMsg">Preparando…</small></div>'; document.body.appendChild(tela);
