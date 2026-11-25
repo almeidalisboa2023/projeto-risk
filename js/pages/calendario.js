@@ -8,23 +8,24 @@ import { corrigirAtrasos, atrasados } from './replanejar.js';
 import { revisoesEspacadas, dataTarefa } from '../revisoes.js';
 import * as crono from '../crono.js';
 import { acharLeitura } from '../leitura/index.js';
-import { TEMAS, temaAtual, progressoHTML } from '../temas.js';
 import { topicosValidos } from '../state.js';
-import { meuCurso } from '../cursos.js';
-import { assistente, convite } from './cronograma.js';
+import { assistente, convite, reiniciar, cursoDoCronograma, incluirNovasAutomatico } from './cronograma.js';
 import { blocosMistos, blocoMisto, separarBloco, separarTodos } from '../separar-blocos.js';
 
 let semanaSel = null, diaSel = null, visao = 'semana', mesSel = null, edSel = null;
 
 export async function render(el, q) {
   const ed = S.edital;
-  const curso = meuCurso();
+  const curso = cursoDoCronograma();
   if (curso && q?.get('montar')) return assistente(el, { voltar: () => { location.hash = '#/calendario'; } });
+  if ((curso || S.profile?.role === 'admin') && q?.get('reiniciar')) return reiniciar(el, { voltar: () => { location.hash = '#/calendario'; } });
   if (!ed || (curso && !S.tarefas.length)) {
     el.innerHTML = curso ? `<div class="mono up">Calendário de estudos</div><h1>Seu calendário está vazio</h1>${convite(curso)}`
       : '<div class="card"><h2>Sem edital</h2><p>Peça ao administrador para importar seu edital ou crie um na aba Edital.</p></div>';
     return;
   }
+  // matéria nova no curso: entra sozinha no cronograma (se o aluno deixou essa opção ligada)
+  incluirNovasAutomatico().then((n) => { if (n) render(el, q); });
   const h = hoje();
   const semAtual = semanaDe(ed.data_inicio, h);
   if (edSel !== ed.id + ed.data_inicio) { edSel = ed.id + ed.data_inicio; semanaSel = null; }
@@ -37,42 +38,44 @@ export async function render(el, q) {
   const tarefas = doDia(diaSel);
   const feitos = tarefas.filter((t) => t.concluido).length;
   const dataSel = addDias(ini, diaSel);
-  const estado = !tarefas.length ? 'Sem blocos' : feitos === 0 ? 'Nenhum bloco feito ainda' : feitos === tarefas.length ? 'Dia concluído' : 'Em andamento';
   const semanas = [...new Set(S.tarefas.map((t) => t.semana))].sort((a, b) => a - b);
-  const temaId = temaAtual(), T = temaId !== 'padrao' ? TEMAS[temaId] : null;
-  const validos = topicosValidos(); const pctEd = pct(validos.filter((x) => x.concluido).length, validos.length) || 0;
   const semFeitos = daSemana.filter((x) => x.concluido).length;
+  const minDia = tarefas.reduce((s, t) => s + (t.previsto || 0), 0);
+  const fimSem = addDias(ini, 6);
+  const mesCurto = (d) => d.toLocaleDateString('pt-BR', { month: 'short' }).replace('.', '');
+  const ehHoje = iso(dataSel) === iso(h);
+  const tituloDia = (ehHoje ? 'Hoje, ' : '') + dataSel.toLocaleDateString('pt-BR', { weekday: 'long', day: 'numeric', month: 'long' });
 
-  el.innerHTML = `
-    <div class="row" style="margin-bottom:6px"><div class="abas"><button class="on">Semana</button><button id="vmes">Mês</button></div><span class="sp"></span>
-      ${curso ? '<a class="btn sec mini" href="#/calendario?montar=1" title="Responder de novo as perguntas e regerar os blocos que ainda não foram feitos">🧭 Refazer cronograma</a>' : ''}<button class="btn ${nAtr ? 'vermelho' : 'sec'} mini" id="atr">${nAtr ? `Corrigir atrasos (${nAtr})` : 'Reorganizar calendário'}</button></div>
-    <div class="mono up">${esc(dataExtenso(dataSel))} · Semana ${semanaSel}${semanaSel === semAtual ? ' (atual)' : ''}</div>
-    <h1>${iso(dataSel) === iso(h) ? 'Hoje' : esc(DIAS[diaSel])}${T && iso(dataSel) === iso(h) ? ` <span class="tema-hoje">${T.hoje}</span>` : ''}</h1>
-    <div class="card">
-      <div class="row">
-        <div style="min-width:220px;flex:1"><div class="row"><b>${feitos} de ${tarefas.length} blocos</b><span class="pill ${estado === 'Dia concluído' ? 'verde' : ''}">${estado}</span></div>${barra(pct(feitos, tarefas.length))}</div>
-        <div class="row"><button class="btn mini" id="incluir">+ Incluir semana</button><button class="btn sec mini" id="ant">‹ Anterior</button><button class="btn sec mini" id="esta">Esta semana</button><button class="btn sec mini" id="prox">Próxima ›</button></div>
-      </div>
-      <div class="dias" style="margin-top:12px">${DIAS_CURTO.map((d, i) => { const ts = doDia(i); const ok = ts.length && ts.every((t) => t.concluido); const parc = ts.some((t) => t.concluido); const di = addDias(ini, i);
-        return `<button class="dia ${i === diaSel ? 'sel' : ''} ${iso(di) === iso(h) ? 'hoje' : ''}" data-d="${i}">${d}<small>${ddmm(di)}</small><div class="pt ${ok ? 'feito' : parc ? 'parcial' : ''}"></div></button>`; }).join('')}</div>
-      ${!daSemana.length ? `<div class="hero" style="margin-top:12px;padding:18px"><b>A semana ${semanaSel} ainda não tem blocos.</b><div class="muted" style="margin:4px 0 10px">${semanas.length ? `Semanas montadas: ${semanas[0]} a ${semanas[semanas.length - 1]}.` : 'Monte seu primeiro calendário.'}</div><button class="btn" data-i="1">+ Incluir esta semana (manual ou automático)</button></div>` : ''}
+  el.innerHTML = `<div class="cal">
+    <div class="cal-topo">
+      <div><div class="mono up">Semana ${semanaSel}${semanaSel === semAtual ? ' · atual' : ''} · ${ini.getDate()} ${mesCurto(ini)} a ${fimSem.getDate()} ${mesCurto(fimSem)}</div>
+        <h1 class="cal-tit">${esc(tituloDia.charAt(0).toUpperCase() + tituloDia.slice(1))}</h1></div>
+      <div class="cal-acoes"><div class="cal-seg"><button class="on">Semana</button><button id="vmes">Mês</button></div>
+        ${curso || S.profile?.role === 'admin' ? '<a class="btn sec mini" href="#/calendario?reiniciar=1">Reiniciar cronograma</a>' : ''}
+        <button class="btn sec mini ${nAtr ? 'cal-atr' : ''}" id="atr">${nAtr ? `${nAtr} atrasado${nAtr > 1 ? 's' : ''}: reorganizar` : 'Reorganizar'}</button></div>
     </div>
-    ${(() => { const mx = blocosMistos(); return mx.length ? `<div class="card" style="margin-top:12px;border-left:4px solid var(--ouro2,#c9a227)"><b>⚠ ${mx.length} bloco(s) do seu calendário têm várias matérias juntas.</b><div class="muted" style="font-size:13.5px;margin:4px 0 10px">Isso acontece com cronogramas antigos ou colados em texto. O app pode dividir cada um em um bloco por matéria, no mesmo dia.</div><button class="btn mini" id="sepTodos">Separar todos agora</button></div>` : ''; })()}
+    <div class="cal-semana">
+      <button class="cal-nav" id="ant" aria-label="Semana anterior">‹</button>
+      <div class="cal-dias">${DIAS_CURTO.map((d, i) => { const ts = doDia(i); const di = addDias(ini, i); const fe = ts.filter((t) => t.concluido).length;
+        return `<button class="cal-dia ${i === diaSel ? 'sel' : ''} ${iso(di) === iso(h) ? 'hoje' : ''} ${ts.length && fe === ts.length ? 'ok' : ''} ${!ts.length ? 'vazio' : ''}" data-d="${i}">
+          <span class="cd-sem">${d}</span><span class="cd-num">${di.getDate()}</span>
+          <span class="cd-pts">${ts.length ? ts.map((t) => `<i class="${t.concluido ? 'f' : ''}"></i>`).join('') : '<small>—</small>'}</span></button>`; }).join('')}</div>
+      <button class="cal-nav" id="prox" aria-label="Próxima semana">›</button>
+    </div>
+    <div class="cal-resumo"><span><b>${feitos}/${tarefas.length}</b> blocos ${ehHoje ? "hoje" : "no dia"}${minDia ? ` · ${crono.fmtMin(minDia)} previstos` : ''}</span><div class="cal-barra"><i style="width:${pct(feitos, tarefas.length) || 0}%"></i></div>
+      <span class="muted">Semana: ${semFeitos}/${daSemana.length}</span>${semanaSel !== semAtual ? '<button class="linkbtn" id="esta">Voltar para esta semana</button>' : ''}</div>
+    ${!daSemana.length ? `<div class="cal-vazio"><b>A semana ${semanaSel} ainda não tem blocos.</b><span class="muted">${semanas.length ? `Semanas montadas: ${semanas[0]} a ${semanas[semanas.length - 1]}.` : 'Monte seu primeiro calendário.'}</span><button class="btn mini" data-i="1">Incluir esta semana</button></div>` : ''}
+    ${(() => { const mx = blocosMistos(); return mx.length ? `<div class="cal-aviso"><span><b>${mx.length} bloco(s) têm várias matérias juntas.</b> O app pode dividir em um bloco por matéria.</span><button class="btn sec mini" id="sepTodos">Separar agora</button></div>` : ''; })()}
     <div id="blocos"></div>
-    <div class="row" style="margin-top:16px"><button class="btn sec" id="add">+ Adicionar matéria ao calendário</button><button class="btn sec" id="semana">Ver semana inteira</button>${daSemana.length ? `<button class="btn sec" data-g="1">Completar semana automaticamente</button>` : ''}</div>`;
-  if (T) {
-    // envolve tudo no tema e coloca o cabeçalho temático
-    const conteudo = el.innerHTML;
-    el.innerHTML = `<div class="tema-wrap tema-${temaId}"><div class="tema-topo"><span class="tema-selo">${T.selo} ${esc(S.edital.concurso)}</span><div><div class="tema-tit">Semana ${semanaSel} · <span>${esc(T.titulo)}</span></div><div class="tema-sub">${semFeitos} de ${daSemana.length} blocos feitos na semana${S.edital.cargo ? ' · ' + esc(S.edital.cargo) : ''}</div></div></div>
-      ${progressoHTML(temaId, pctEd, ` · ${validos.filter((x) => !x.concluido).length} tópicos pendentes`)}${conteudo}</div>`;
-  }
+    <div class="cal-rodape"><button class="linkbtn" id="add">+ Adicionar matéria neste dia</button><button class="linkbtn" id="semana">Ver semana inteira</button><button class="linkbtn" id="incluir">Incluir semana</button>${daSemana.length ? '<button class="linkbtn" data-g="1">Completar semana automaticamente</button>' : ''}</div>
+  </div>`;
 
   el.querySelector('#vmes').onclick = () => { visao = 'mes'; mesSel = null; render(el); };
   el.querySelector('#atr').onclick = () => corrigirAtrasos(() => render(el));
   el.querySelector('#ant').onclick = () => { semanaSel--; render(el); };
   el.querySelector('#prox').onclick = () => { semanaSel++; render(el); };
-  el.querySelector('#esta').onclick = () => { semanaSel = semAtual; diaSel = idxDia(h); render(el); };
-  el.querySelectorAll('.dia').forEach((b) => (b.onclick = () => { diaSel = Number(b.dataset.d); render(el); }));
+  const est = el.querySelector('#esta'); if (est) est.onclick = () => { semanaSel = semAtual; diaSel = idxDia(h); render(el); };
+  el.querySelectorAll('.cal-dia').forEach((b) => (b.onclick = () => { diaSel = Number(b.dataset.d); render(el); }));
   el.querySelector('#semana').onclick = () => verSemana(daSemana, ini);
   el.querySelector('#add').onclick = () => adicionarBloco(semanaSel, DIAS[diaSel], (s, d) => { if (s) { semanaSel = s; diaSel = DIAS.indexOf(d); } render(el); });
   const irPara = (s) => { if (s) { semanaSel = s; diaSel = 0; } render(el); };
@@ -83,17 +86,16 @@ export async function render(el, q) {
   el.querySelectorAll('[data-i]').forEach((b) => (b.onclick = () => incluirSemana(semanaSel, irPara, true)));
 
   const box = el.querySelector('#blocos');
-  if (!tarefas.length) { box.innerHTML = '<div class="card" style="margin-top:12px"><p class="muted">Nenhum bloco neste dia.</p></div>'; return; }
+  if (!tarefas.length) { box.innerHTML = daSemana.length ? '<div class="cal-livre">Dia livre: nenhum bloco programado.</div>' : ''; return; }
   const appHoje = (tid) => S.logs.filter((l) => l.topico_id === tid && l.data === iso(dataSel) && l.origem === 'app').reduce((s, l) => s + l.feitas, 0);
   const temPublica = new Set((await db.select('questoes', { origem: 'eq.publica', select: 'materia,assunto' }).catch(() => [])).map((q) => norm(q.materia) + '|' + norm(q.assunto)));
 
-  let html = '<div style="margin-top:16px"></div>';
-  tarefas.forEach((t, i) => {
+  let html = '';
+  tarefas.forEach((t) => {
     const tp = S.topicos.find((x) => x.id === t.topico_id);
     const tipo = tipoBloco(t.topico);
-    const [cod, nome] = separaCodigo(tp ? tp.topico : t.topico);
+    const [, nome] = separaCodigo(tp ? tp.topico : t.topico);
     const cl = t.checklist || {};
-    const n = tp ? appHoje(tp.id) : 0;
     const itens = tipo === 'Teoria' ? [['teoria', 'Teoria do assunto']]
       : tipo === 'Revisão' ? [['leitura', 'Leitura dirigida / lei seca']]
       : [['q', 'Resolvi as questões'], ['erros', 'Revisei os erros']];
@@ -101,33 +103,30 @@ export async function render(el, q) {
     const atrasado = !t.concluido && iso(dataTarefa(t)) < iso(h);
     const rodando = crono.atual()?.id === t.id;
     const ehRev = /^revis/i.test(t.origem || '') || tipo !== 'Teoria';
-    const num = `${semanaSel}${String(diaSel + 1)}${String(i + 1).padStart(2, '0')}`;
-    const estadoT = T ? (t.concluido ? 'CONCLUÍDO' : atrasado ? T.atraso : ehRev ? T.revisao.toUpperCase() : iso(dataSel) === iso(h) ? 'EM CURSO' : 'PROGRAMADO') : '';
-    html += `<div class="card bloco ${t.concluido ? 'feito' : ''} ${atrasado ? 'atraso' : ''} ${ehRev && !t.concluido ? 'rev' : ''}" data-id="${t.id}" style="margin-bottom:12px">
-      ${T ? `<span class="bl-ico">${t.concluido ? T.icoFeito : atrasado ? '⚠️' : ehRev ? '🔁' : T.ico}</span>${T.carimbo && t.concluido ? `<span class="bl-carimbo">${T.carimbo}</span>` : ''}${temaId === 'juridico' && atrasado ? `<span class="bl-carimbo bad">${T.atraso}</span>` : ''}` : ''}
-      <div class="row"><span class="mono bl-cod">${T ? `${T.cod} ${num} · ${estadoT}` : `Bloco ${i + 1}`}</span><span class="sp"></span>${atrasado ? '<span class="pill" style="color:var(--vermelho)">Atrasado</span>' : ''}${/^revis/i.test(t.origem || '') ? '<span class="pill ouro">Revisão programada</span>' : ''}<span class="pill">${tipo}</span></div>
-      <h2 style="margin-top:6px">${esc(t.materia)}</h2>
-      <div class="assunto"><span class="mono">${esc(cod)}</span> <b>${esc(tipo === 'Teoria' ? nome : t.topico)}</b>
-        ${tp ? `<details><summary>detalhes e lei seca</summary>
-          <div class="row" style="margin-top:8px"><span class="pill dash">Banca: ${caiu ? 'já caiu' : 'não caiu'}</span><span class="pill">${esc(S.edital.concurso)}</span>${tp.concluido ? '<span class="pill verde">Assunto finalizado</span>' : ''}</div>
-          ${leiSecaHTML(tp)}</details>` : '<div class="muted" style="font-size:13px">Tarefa sem tópico do edital ligado.</div>'}
+    const lt = acharLeitura(tp?.materia || t.materia, (tp?.topico || '') + ' ' + (t.topico || ''));
+    const cor = lt?.mat?.cor || '#8a8f98';
+    const parte = (t.topico.match(/\(parte [^)]+\)/) || [''])[0];
+    const titulo = tipo === 'Teoria' ? nome + (parte && !nome.includes(parte) ? ' ' + parte : '') : t.topico;
+    html += `<article class="cb ${t.concluido ? 'feito' : ''} ${atrasado ? 'atraso' : ''}" data-id="${t.id}" style="--c:${cor}">
+      <button class="cb-check" data-a="concluir" title="${t.concluido ? 'Reabrir bloco' : 'Concluir bloco'}" aria-label="${t.concluido ? 'Reabrir bloco' : 'Concluir bloco'}">${t.concluido ? '<svg viewBox="0 0 24 24"><path d="M5 12.5l4.2 4.2L19 7" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>' : ''}</button>
+      <div class="cb-corpo">
+        <div class="cb-mat">${esc(t.materia)}</div>
+        <div class="cb-top">${esc(titulo)}</div>
+        <div class="cb-meta"><span class="cb-tag ${ehRev ? 'rev' : ''}">${ehRev ? (tipo === 'Teoria' ? 'Revisão' : tipo) : 'Teoria'}</span>${t.previsto ? `<span>${crono.fmtMin(t.previsto)}</span>` : ''}${t.minutos ? `<span>${crono.fmtMin(t.minutos)} estudados</span>` : ''}${atrasado ? '<span class="cb-atr">Atrasado</span>' : ''}${tp?.concluido ? '<span class="cb-fin">Assunto finalizado</span>' : ''}</div>
+        ${!t.concluido && blocoMisto(t) ? '<div class="cb-linha"><span class="cb-atr">Várias matérias neste bloco</span><button class="linkbtn" data-a="separar">Separar</button></div>' : ''}
+        ${t.duvida ? `<div class="cb-duvida">Dúvida: ${esc(t.duvida)}</div>` : ''}
+        <details class="cb-mais"><summary>Mais opções</summary>
+          <div class="cb-checks">${itens.map(([k, txt]) => `<label class="check"><input type="checkbox" data-k="${k}" ${cl[k] ? 'checked' : ''}> ${esc(txt)}</label>`).join('')}</div>
+          <div class="cb-links">${tp ? `<button class="linkbtn" data-a="terminei">${tp.concluido ? 'Reabrir assunto' : 'Terminei este assunto'}</button>` : ''}<button class="linkbtn" data-a="duvida">Anotar dúvida</button><button class="linkbtn" data-a="editar">Editar, mover ou excluir</button>${tp ? '<button class="linkbtn" data-a="externo">Registrar questões feitas fora do app</button>' : ''}</div>
+          ${tp ? `<div class="cb-lei"><div class="row" style="margin-bottom:6px"><span class="pill dash">Banca: ${caiu ? 'já caiu' : 'não caiu'}</span>${appHoje(tp.id) ? `<span class="pill">${appHoje(tp.id)} questões hoje</span>` : ''}</div>${leiSecaHTML(tp)}</div>` : ''}
+        </details>
       </div>
-      ${!t.concluido && blocoMisto(t) ? '<div class="row" style="margin:8px 0"><span class="pill" style="color:var(--vermelho)">Várias matérias neste bloco</span><button class="btn sec mini" data-a="separar">Separar em um bloco por matéria</button></div>' : ''}
-      ${itens.map(([k, txt, auto]) => `<label class="check"><input type="checkbox" data-k="${k}" ${cl[k] || auto ? 'checked' : ''}> ${esc(txt)}</label>`).join('')}
-      ${t.duvida ? `<div class="muted" style="font-size:13px">📝 ${esc(t.duvida)}</div>` : ''}
-      ${(() => { const lt = acharLeitura(tp?.materia || t.materia, (tp?.topico || '') + ' ' + (t.topico || '')); return lt ? `<div class="row" style="margin-top:10px"><a class="btn sec mini lt-link" style="--c:${lt.mat.cor}" href="${lt.link}">📖 ${lt.a ? 'Ler o assunto: ' + esc(lt.rotulo) : 'Leitura de ' + esc(lt.rotulo)}</a></div>` : ''; })()}
-      <div class="row" style="margin-top:10px"><span class="crono ${rodando ? 'rodando' : ''}">⏱ ${rodando ? 'Cronômetro rodando' : `Tempo estudado: ${crono.fmtMin(t.minutos || 0)}${t.previsto ? ' de ' + crono.fmtMin(t.previsto) + ' previstos' : ''}`}</span><button class="btn sec mini" data-a="crono">${rodando ? '■ Parar' : '▶ Iniciar cronômetro'}</button></div>
-      <div class="row" style="margin-top:12px">
-        <button class="btn bl-btn" data-a="concluir" ${t.concluido ? 'title="Clique para reabrir"' : ''}>${T ? (t.concluido ? T.feito : T.btn) : t.concluido ? 'Reabrir bloco' : 'Concluí o bloco'}</button>
-        ${tp ? `<button class="btn sec" data-a="terminei">${tp.concluido ? 'Reabrir assunto' : 'Terminei este assunto'}</button>
-` : ''}
-      </div>
-      <div class="row" style="margin-top:6px"><button class="linkbtn" data-a="duvida">Anotar dúvida</button><button class="linkbtn" data-a="editar">Editar, mover ou excluir</button>${tp ? '<button class="linkbtn" data-a="externo">Registrar questões feitas fora do app</button>' : ''}</div>
-    </div>`;
+      <div class="cb-acoes">${lt ? `<a class="btn mini" href="${lt.link}">Ler</a>` : ''}<button class="btn sec mini ${rodando ? 'cb-rodando' : ''}" data-a="crono">${rodando ? '■ Parar' : '▶ Cronômetro'}</button></div>
+    </article>`;
   });
   box.innerHTML = html;
 
-  box.querySelectorAll('.bloco').forEach((card) => {
+  box.querySelectorAll('.cb').forEach((card) => {
     const t = S.tarefas.find((x) => x.id === card.dataset.id);
     const tp = S.topicos.find((x) => x.id === t.topico_id);
     card.querySelectorAll('input[data-k]').forEach((c) => (c.onchange = async () => {
@@ -188,7 +187,7 @@ function renderMes(el, abrirDia, voltar) {
   }
   const doMes = [...porDia].filter(([k]) => k.slice(0, 7) === iso(primeiro).slice(0, 7)).flatMap(([, v]) => v);
   const fe = doMes.filter((t) => t.concluido).length;
-  el.innerHTML = `<div class="row" style="margin-bottom:6px"><div class="abas"><button id="vsem">Semana</button><button class="on">Mês</button></div><span class="sp"></span>
+  el.innerHTML = `<div class="row" style="margin-bottom:6px"><div class="cal-seg"><button id="vsem">Semana</button><button class="on">Mês</button></div><span class="sp"></span>
       <button class="btn ${atrasados().length ? 'vermelho' : 'sec'} mini" id="atr">${atrasados().length ? `Corrigir atrasos (${atrasados().length})` : 'Reorganizar calendário'}</button></div>
     <div class="mono up">Visão do mês</div><h1>${esc(nomeMes)}</h1>
     <div class="card"><div class="row" style="margin-bottom:12px"><b>${fe} de ${doMes.length} blocos feitos no mês</b><span class="sp"></span>

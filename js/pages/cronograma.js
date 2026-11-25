@@ -5,27 +5,38 @@ import { S, carregarTudo, trocarEdital } from '../state.js';
 import { db } from '../backend.js';
 import { esc, iso, hoje, addDias, segundaDa, parseISO, DIAS, DIAS_CURTO, ddmm, semanaDe, inicioSemana, norm } from '../util.js';
 import { toast } from '../ui.js';
-import { meuCurso, minhaBanca, cursoInfo } from '../cursos.js';
-import { visiveis } from '../leitura/index.js';
+import { meuCurso, minhaBanca, cursoInfo, CURSOS, filtrarMaterias } from '../cursos.js';
+import { visiveis, comConteudos, comEdicoes } from '../leitura/index.js';
+import { modal } from '../ui.js';
 import { TEMAS, temaAtual } from '../temas.js';
 
 const NIVEL = { dif: { nome: 'Tenho dificuldade', peso: 1.6 }, normal: { nome: 'Normal', peso: 1 }, dom: { nome: 'Já domino', peso: 0.6 } };
 const MAX_SEMANAS = 104;
 
 // Matérias e assuntos do edital do curso (os mesmos do Conteúdo programático)
-export function materiasDoPlano() {
+// Curso do cronograma: o do aluno; para o administrador, o curso gravado no edital ou o que bate com o nome dele
+export function cursoDoCronograma() {
+  const c = meuCurso(); if (c) return c;
+  if (S.edital?.curso && cursoInfo(S.edital.curso)) return cursoInfo(S.edital.curso);
+  if (S.profile?.role !== 'admin') return null;
+  const nome = norm([S.edital?.concurso, S.edital?.cargo].filter(Boolean).join(' '));
+  return CURSOS.find((x) => nome && nome.includes(norm(x.curto))) || null;
+}
+
+export function materiasDoPlano(curso = meuCurso()) {
   const pal = (h) => String(h || '').replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
   // tempo estimado do assunto: leitura (~180 palavras/min) + questões (~1,2 min cada) + 10 min de fixação
   // Língua estrangeira: se o aluno já escolheu o idioma, o cronograma traz só os tópicos dele
   let lg = ''; try { lg = JSON.parse(localStorage.getItem('risk-lingua')) || ''; } catch {}
   const idioma = (id) => (/^espanhol/.test(id) ? 'es' : /^ingles|^gramatica$/.test(id) ? 'en' : '');
   const porLingua = (m) => (m.id === 'lingua-estrangeira' && (lg === 'en' || lg === 'es') ? { ...m, assuntos: m.assuntos.filter((a) => !idioma(a.id) || idioma(a.id) === lg) } : m);
-  return visiveis().map(porLingua).filter((m) => (m.assuntos || []).length).map((m) => ({ id: m.id, nome: m.nome, ico: m.ico, cor: m.cor,
+  const base = curso && !meuCurso() ? filtrarMaterias(comEdicoes(comConteudos()), { role: 'aluno', curso: curso.id, materias_removidas: [] }).map((m) => (m.soEdital ? { ...m, soEdital: null } : m)) : visiveis();
+  return base.map(porLingua).filter((m) => (m.assuntos || []).length).map((m) => ({ id: m.id, nome: m.nome, ico: m.ico, cor: m.cor,
     assuntos: m.assuntos.map((a) => a.titulo), est: m.assuntos.map((a) => pal(a.html) / 180 + pal(a.aprof) / 360 + Math.min(a.quiz?.length || 0, 40) * 1.2 + 10) }));
 }
 
 const padrao = (mats, ant) => ({
-  inicio: iso(hoje()), prova: '', dias: [0, 1, 2, 3, 4, 5], horas: 3, porDia: 3, revDia: 5, retaFinal: true,
+  inicio: iso(hoje()), prova: '', dias: [0, 1, 2, 3, 4], horas: 3, porDia: 3, revDia: 5, retaFinal: true,
   nivel: Object.fromEntries(mats.map((m) => [m.id, 'normal'])), prio: [], ...(ant || {}),
 });
 
@@ -96,10 +107,10 @@ export function gerarPlano(cfg, mats, { edInicio, jaVistos = new Map(), tarefasA
 
 // ---------- tela do assistente ----------
 export function assistente(el, { voltar } = {}) {
-  const c = meuCurso();
+  const c = cursoDoCronograma();
   if (!c) { el.innerHTML = '<div class="card"><h2>Montar cronograma</h2><p class="muted">O assistente monta o cronograma em cima do edital do seu curso. Seu curso ainda não foi definido: fale com o administrador.</p></div>'; return; }
-  const mats = materiasDoPlano();
-  const meu = S.edital && S.edital.curso === c.id ? S.edital : null;
+  const mats = materiasDoPlano(c);
+  const meu = S.edital && (S.edital.curso === c.id || !S.edital.curso) ? S.edital : null;
   const cfg = padrao(mats, meu?.plano ? { ...meu.plano, inicio: iso(hoje()) } : null);
   if (meu?.data_prova && !cfg.prova) cfg.prova = meu.data_prova;
   const temaId = temaAtual(), T = TEMAS[temaId] || {};
@@ -171,7 +182,7 @@ export function assistente(el, { voltar } = {}) {
     if ($('#crSair')) $('#crSair').onclick = () => voltar();
     if ($('#crGera')) $('#crGera').onclick = async (e) => {
       e.target.disabled = true; e.target.textContent = 'Gerando seu cronograma…';
-      try { await salvarPlano(c, cfg, mats, meu, (t) => (e.target.textContent = t)); toast('Cronograma pronto! Bons estudos.'); location.hash = '#/calendario'; }
+      try { await salvarPlano(c, cfg, mats, meu, (t) => (e.target.textContent = t), { conhecidas: mats.map((m) => m.id) }); toast('Cronograma pronto! Bons estudos.'); location.hash = '#/calendario'; }
       catch (er) { console.error(er); toast('Não deu para gerar: ' + er.message, 'erro'); e.target.disabled = false; e.target.textContent = '✅ Gerar meu cronograma'; }
     };
   };
@@ -184,16 +195,23 @@ async function lotes(tabela, linhas, st, rot) {
   for (let i = 0; i < linhas.length; i += 300) { st && st(`${rot} ${Math.min(i + 300, linhas.length)}/${linhas.length}…`); out.push(...(await db.insert(tabela, linhas.slice(i, i + 300)))); }
   return out;
 }
-async function salvarPlano(c, cfg, mats, meu, st) {
+// modo: 'refazer' (apaga os blocos pendentes da data de início em diante), 'reiniciar' (apaga todos os pendentes,
+// inclusive os atrasados) ou 'zerar' (apaga todo o calendário e desmarca tudo, no edital e no conteúdo programático).
+// foraDoCurso: 'historico' guarda como "fora do edital" os tópicos que não estão na lista do curso.
+export async function salvarPlano(c, cfg, mats, meu, st = () => {}, { modo = 'refazer', foraDoCurso = '', conhecidas = null, excluidas = [] } = {}) {
   const banca = minhaBanca() || null;
   const fmt = (banca?.formato || (c.banca === 'cebraspe' ? 'ce' : 'me')) === 'ce' ? 'certo_errado' : 'multipla_escolha';
   let ed = meu;
-  const plano = { ...cfg, gerado_em: new Date().toISOString() };
+  const plano = { ...cfg, gerado_em: new Date().toISOString(), curso: c.id, excluidas, conhecidas: conhecidas || meu?.plano?.conhecidas || mats.map((m) => m.id) };
+  delete plano.excluidasSel;
   if (!ed) {
     st('Criando o edital do curso…');
     [ed] = await db.insert('editais', [{ user_id: S.user.id, concurso: c.nome, cargo: c.curto, banca: banca?.nome || null, formato: fmt, data_inicio: iso(segundaDa(parseISO(cfg.inicio) || hoje())), data_prova: cfg.prova || null, tema: c.tema || null, curso: c.id, plano }]);
   } else {
-    await db.update('editais', { id: 'eq.' + ed.id }, { data_prova: cfg.prova || null, plano, tema: c.tema || ed.tema || null });
+    const mud = { data_prova: cfg.prova || null, plano, tema: c.tema || ed.tema || null, curso: c.id };
+    if (modo === 'zerar') mud.data_inicio = iso(segundaDa(parseISO(cfg.inicio) || hoje()));
+    await db.update('editais', { id: 'eq.' + ed.id }, mud);
+    ed = { ...ed, ...mud };
   }
   // tópicos: os que faltam no edital do aluno
   const tops = (await db.selectAll('topicos', { edital_id: 'eq.' + ed.id })) || [];
@@ -202,11 +220,27 @@ async function salvarPlano(c, cfg, mats, meu, st) {
   const novos = [];
   mats.forEach((m) => m.assuntos.forEach((a, k) => { if (!mapa.has(chave(m.nome, a))) novos.push({ user_id: S.user.id, edital_id: ed.id, materia: m.nome, topico: a, ordem: k }); }));
   if (novos.length) (await lotes('topicos', novos, st, 'Gravando assuntos')).forEach((t) => mapa.set(chave(t.materia, t.topico), t));
+  // sincroniza o edital com a lista do curso: o que não está no curso vai para o histórico (fora do edital)
+  if (foraDoCurso === 'historico') {
+    const doCurso = new Set(); mats.forEach((m) => m.assuntos.forEach((a) => doCurso.add(chave(m.nome, a))));
+    const sai = [...mapa.values()].filter((t) => !t.fora_do_edital && !doCurso.has(chave(t.materia, t.topico))).map((t) => t.id);
+    const volta = [...mapa.values()].filter((t) => t.fora_do_edital && doCurso.has(chave(t.materia, t.topico))).map((t) => t.id);
+    for (let i = 0; i < sai.length; i += 100) { st('Organizando o edital…'); await db.update('topicos', { id: 'in.(' + sai.slice(i, i + 100).join(',') + ')' }, { fora_do_edital: true }); }
+    for (let i = 0; i < volta.length; i += 100) await db.update('topicos', { id: 'in.(' + volta.slice(i, i + 100).join(',') + ')' }, { fora_do_edital: false });
+    for (const t of mapa.values()) { if (sai.includes(t.id)) t.fora_do_edital = true; if (volta.includes(t.id)) t.fora_do_edital = false; }
+  }
+  // zerar: desmarca todos os tópicos e as leituras do conteúdo programático
+  if (modo === 'zerar') {
+    const marcados = [...mapa.values()].filter((t) => t.concluido).map((t) => t.id);
+    for (let i = 0; i < marcados.length; i += 100) { st('Desmarcando os tópicos…'); await db.update('topicos', { id: 'in.(' + marcados.slice(i, i + 100).join(',') + ')' }, { concluido: false }); }
+    for (const t of mapa.values()) t.concluido = false;
+    zerarLeituras();
+  }
   // refazer: apaga os blocos não concluídos de hoje em diante e guarda o que já foi estudado
   const antigas = meu ? (await db.selectAll('tarefas', { edital_id: 'eq.' + ed.id })) || [] : [];
   const dataDe = (t) => iso(addDias(inicioSemana(ed.data_inicio, t.semana), DIAS.indexOf(t.dia)));
   const hojeI = iso(parseISO(cfg.inicio) || hoje());
-  const apagar = antigas.filter((t) => !t.concluido && dataDe(t) >= hojeI).map((t) => t.id);
+  const apagar = antigas.filter((t) => modo === 'zerar' || (!t.concluido && (modo === 'reiniciar' || dataDe(t) >= hojeI))).map((t) => t.id);
   for (let i = 0; i < apagar.length; i += 100) { st('Limpando o cronograma antigo…'); await db.remove('tarefas', { id: 'in.(' + apagar.slice(i, i + 100).join(',') + ')' }); }
   const ficam = antigas.filter((t) => !apagar.includes(t.id));
   const topPorId = new Map([...mapa.values()].map((t) => [t.id, t]));
@@ -224,6 +258,117 @@ async function salvarPlano(c, cfg, mats, meu, st) {
   if (S.profile) S.profile.edital_atual = ed.id;
   await carregarTudo();
   if (S.edital?.id !== ed.id) await trocarEdital(ed.id).catch(() => {});
+}
+
+// Desmarca o que o aluno leu no Conteúdo programático (usado ao zerar o edital)
+export function zerarLeituras() { try { localStorage.removeItem('risk-lidos-' + (S.user?.id || 'x')); } catch {} }
+
+// Matérias que chegaram ao curso depois do último cronograma gerado
+export function materiasNovas(c, mats) {
+  const pl = S.edital?.plano;
+  if (pl?.conhecidas) { const k = new Set(pl.conhecidas); return mats.filter((m) => !k.has(m.id)); }
+  // sem referência confiável (edital importado ou criado à mão): não aponta nada como novo
+  if (!S.edital?.curso || !S.tarefas.length) return [];
+  const nomes = new Set((S.topicos || []).map((t) => norm(t.materia)));
+  return mats.filter((m) => !nomes.has(norm(m.nome)));
+}
+
+// Automático: matéria nova no curso entra sozinha no cronograma (da data de hoje em diante), se o aluno deixou ligado
+let verificando = false;
+export async function incluirNovasAutomatico() {
+  const ed = S.edital, pl = ed?.plano; if (verificando || !pl || pl.autoNovas === false || !S.tarefas.length) return 0;
+  const c = cursoDoCronograma(); if (!c || (ed.curso && ed.curso !== c.id)) return 0;
+  const todas = materiasDoPlano(c), novas = materiasNovas(c, todas); if (!novas.length) return 0;
+  verificando = true;
+  try {
+    const exc = new Set(pl.excluidas || []);
+    const mats = todas.filter((m) => !exc.has(m.id));
+    const cfg = { ...padrao(mats, pl), inicio: iso(hoje()) };
+    await salvarPlano(c, cfg, mats, ed, () => {}, { modo: 'refazer', conhecidas: todas.map((m) => m.id), excluidas: [...exc], foraDoCurso: pl.foraDoCurso || '' });
+    toast(`Matéria nova no seu edital: ${novas.map((m) => m.nome).join(', ')}. Ela já foi incluída no seu cronograma.`);
+    return novas.length;
+  } catch (e) { console.error(e); return 0; } finally { verificando = false; }
+}
+
+// ---------- REINICIAR CRONOGRAMA: uma tela só, o aluno escolhe tudo e o app refaz o calendário ----------
+export function reiniciar(el, { voltar } = {}) {
+  const admin = S.profile?.role === 'admin' && !meuCurso();
+  let c = cursoDoCronograma() || (admin ? CURSOS[0] : null);
+  if (!c) { el.innerHTML = '<div class="card"><h2>Reiniciar cronograma</h2><p class="muted">Seu curso ainda não foi definido: fale com o administrador.</p></div>'; return; }
+  const ant = S.edital?.plano || null;
+  const amanha = iso(addDias(hoje(), 1));
+  let cfg = padrao([], ant ? { ...ant, inicio: amanha } : { inicio: amanha });
+  if (!ant) cfg.dias = [0, 1, 2, 3, 4];
+  if (S.edital?.data_prova && !cfg.prova) cfg.prova = S.edital.data_prova;
+  let modo = 'reiniciar', foraDoCurso = 'historico', autoNovas = ant?.autoNovas !== false;
+  let excl = new Set(ant?.excluidas || []);
+  let lg = ''; try { lg = JSON.parse(localStorage.getItem('risk-lingua')) || ''; } catch {}
+
+  const desenha = () => {
+    const mats = materiasDoPlano(c), novas = new Set(materiasNovas(c, mats).map((m) => m.id));
+    const temLingua = mats.some((m) => m.id === 'lingua-estrangeira');
+    const doCurso = new Set(); mats.forEach((m) => m.assuntos.forEach((a) => doCurso.add(norm(m.nome) + '|' + norm(a))));
+    const fora = S.edital ? S.topicos.filter((t) => !t.fora_do_edital && !doCurso.has(norm(t.materia) + '|' + norm(t.topico))).length : 0;
+    const sel = mats.filter((m) => !excl.has(m.id));
+    const r = gerarPlano(cfg, sel, { edInicio: iso(segundaDa(parseISO(cfg.inicio) || hoje())) });
+    const fim = r.fimTeoria ? parseISO(r.fimTeoria) : null;
+    el.innerHTML = `<div class="rc">
+      <div class="rc-cab"><div><div class="mono up">Calendário de estudos</div><h1>Reiniciar cronograma</h1>
+        <p class="muted">Escolha como quer estudar a partir de agora. O app refaz o calendário inteiro com essas opções; você pode reiniciar de novo sempre que quiser.</p></div></div>
+      <div class="rc-grade">
+        <section class="card rc-sec"><h3><span>1</span>Datas</h3>
+          ${admin ? `<div class="campo"><label>Curso</label><select id="rcCurso">${CURSOS.map((x) => `<option value="${x.id}" ${x.id === c.id ? 'selected' : ''}>${esc(x.nome)}</option>`).join('')}</select></div>` : `<div class="rc-curso">${esc(c.nome)}</div>`}
+          <div class="row cr-campos"><div class="campo"><label>Começar em</label><input type="date" id="rcIni" value="${esc(cfg.inicio)}"></div>
+          <div class="campo"><label>Data da prova (opcional)</label><input type="date" id="rcProva" value="${esc(cfg.prova)}"></div></div></section>
+        <section class="card rc-sec"><h3><span>2</span>Rotina</h3>
+          <div class="campo"><label>Dias de estudo</label><div class="cr-chips">${DIAS_CURTO.map((d, i) => `<button class="cr-chip ${cfg.dias.includes(i) ? 'on' : ''}" data-dia="${i}">${d}</button>`).join('')}</div></div>
+          <div class="row cr-campos"><div class="campo"><label>Matérias por dia</label><select id="rcPorDia">${[1, 2, 3, 4, 5, 6].map((n) => `<option ${n === cfg.porDia ? 'selected' : ''}>${n}</option>`).join('')}</select></div>
+          <div class="campo"><label>Horas por dia</label><select id="rcHoras">${[1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 6, 7, 8].map((h) => `<option value="${h}" ${h === cfg.horas ? 'selected' : ''}>${String(h).replace('.5', 'h30').replace(/^(\d+)$/, '$1h')}</option>`).join('')}</select></div>
+          <div class="campo"><label>Dia de revisão</label><select id="rcRev">${[[5, 'Sábado'], [6, 'Domingo'], [-1, 'Sem dia fixo']].map(([v, n]) => `<option value="${v}" ${cfg.revDia === v ? 'selected' : ''}>${n}</option>`).join('')}</select></div></div></section>
+        <section class="card rc-sec rc-larga"><h3><span>3</span>Matérias</h3>
+          ${novas.size ? `<div class="rc-nova-aviso"><b>${novas.size === 1 ? 'Há 1 matéria nova' : `Há ${novas.size} matérias novas`} no seu edital.</b> Ela${novas.size > 1 ? 's estão marcadas' : ' está marcada'} para entrar no cronograma; desmarque se não quiser.</div>` : ''}
+          ${temLingua ? `<div class="campo"><label>Língua estrangeira</label><div class="cr-chips">${[['en', 'Inglês'], ['es', 'Espanhol']].map(([v, n]) => `<button class="cr-chip ${lg === v ? 'on' : ''}" data-lg="${v}">${n}</button>`).join('')}</div>${lg ? '' : '<small class="muted">Escolha o idioma: só os tópicos dele entram no cronograma.</small>'}</div>` : ''}
+          <div class="rc-mats">${mats.map((m) => `<label class="rc-mat ${novas.has(m.id) ? 'nova' : ''}"><input type="checkbox" data-mat="${m.id}" ${excl.has(m.id) ? '' : 'checked'}><i style="background:${m.cor || '#888'}"></i><span>${esc(m.nome)}<small>${m.assuntos.length} tópicos</small></span>${novas.has(m.id) ? '<em>nova</em>' : ''}</label>`).join('')}</div>
+          <label class="check" style="margin-top:12px"><input type="checkbox" id="rcAuto" ${autoNovas ? 'checked' : ''}> Quando chegar matéria nova no meu curso, incluir no cronograma automaticamente</label></section>
+        <section class="card rc-sec rc-larga"><h3><span>4</span>O que você já estudou</h3>
+          <label class="rc-op"><input type="radio" name="rcModo" value="reiniciar" ${modo === 'reiniciar' ? 'checked' : ''}><span><b>Manter o que já concluí</b><small>Os blocos e tópicos concluídos ficam; o resto do calendário (inclusive atrasos) é refeito a partir da data escolhida.</small></span></label>
+          <label class="rc-op"><input type="radio" name="rcModo" value="zerar" ${modo === 'zerar' ? 'checked' : ''}><span><b>Começar do zero</b><small>Apaga o calendário e desmarca tudo, no edital e no conteúdo programático. As questões e o histórico de desempenho são mantidos.</small></span></label>
+          ${fora ? `<label class="check" style="margin-top:8px"><input type="checkbox" id="rcFora" ${foraDoCurso === 'historico' ? 'checked' : ''}> Guardar no histórico os ${fora} tópicos do meu edital que não estão na lista do curso (importados ou criados à mão)</label>` : ''}</section>
+      </div>
+      <div class="card rc-resumo"><div class="rc-nums"><div><b>${sel.length}</b><small>matérias</small></div><div><b>${cfg.porDia}</b><small>por dia</small></div><div><b>${Math.max(20, Math.round((cfg.horas * 60) / cfg.porDia / 5) * 5)} min</b><small>por bloco</small></div><div><b>${fim ? ddmm(fim) + '/' + String(fim.getFullYear()).slice(2) : '—'}</b><small>fim do edital</small></div></div>
+        ${cfg.prova && r.sobrou ? `<div class="cr-alerta">Com essa rotina, ${r.sobrou} assuntos ficam de fora até a prova.</div>` : ''}
+        <div class="row" style="margin-top:14px">${voltar ? '<button class="btn sec" id="rcSair">Cancelar</button>' : ''}<span class="sp"></span><button class="btn" id="rcOk">Reiniciar cronograma</button></div></div>
+    </div>`;
+    const $ = (q) => el.querySelector(q);
+    const ler = () => { cfg.inicio = $('#rcIni').value || amanha; cfg.prova = $('#rcProva').value || ''; cfg.porDia = +$('#rcPorDia').value; cfg.horas = +$('#rcHoras').value; cfg.revDia = +$('#rcRev').value; autoNovas = $('#rcAuto').checked; modo = el.querySelector('[name=rcModo]:checked').value; foraDoCurso = $('#rcFora') ? ($('#rcFora').checked ? 'historico' : '') : foraDoCurso; };
+    const refaz = () => { const y = scrollY; ler(); desenha(); scrollTo(0, y); };
+    el.querySelectorAll('select, input[type=date], input[type=radio], #rcAuto, #rcFora').forEach((x) => (x.onchange = refaz));
+    if ($('#rcCurso')) $('#rcCurso').onchange = (e) => { ler(); c = cursoInfo(e.target.value); excl = new Set(); desenha(); };
+    el.querySelectorAll('[data-dia]').forEach((b) => (b.onclick = () => { const i = +b.dataset.dia; cfg.dias = cfg.dias.includes(i) ? cfg.dias.filter((x) => x !== i) : [...cfg.dias, i].sort(); refaz(); }));
+    el.querySelectorAll('[data-lg]').forEach((b) => (b.onclick = () => { lg = b.dataset.lg; try { localStorage.setItem('risk-lingua', JSON.stringify(lg)); } catch {} refaz(); }));
+    el.querySelectorAll('[data-mat]').forEach((x) => (x.onchange = () => { x.checked ? excl.delete(x.dataset.mat) : excl.add(x.dataset.mat); refaz(); }));
+    if ($('#rcSair')) $('#rcSair').onclick = () => voltar();
+    $('#rcOk').onclick = () => {
+      ler();
+      if (!cfg.dias.length) return toast('Escolha pelo menos um dia de estudo.', 'erro');
+      if (!sel.length) return toast('Escolha pelo menos uma matéria.', 'erro');
+      if (cfg.prova && cfg.prova <= cfg.inicio) return toast('A data da prova precisa ser depois do início.', 'erro');
+      if (temLingua && !lg && !excl.has('lingua-estrangeira')) return toast('Escolha inglês ou espanhol em Língua estrangeira.', 'erro');
+      if (cfg.revDia >= 0 && cfg.dias.length === 1 && cfg.dias[0] === cfg.revDia) cfg.revDia = -1;
+      const vai = async (b) => {
+        b.disabled = true;
+        try {
+          cfg.autoNovas = autoNovas; cfg.foraDoCurso = foraDoCurso;
+          const mats = materiasDoPlano(c), escolhidas = mats.filter((m) => !excl.has(m.id));
+          await salvarPlano(c, cfg, escolhidas, S.edital || null, (t) => (b.textContent = t), { modo, foraDoCurso, conhecidas: mats.map((m) => m.id), excluidas: [...excl] });
+          toast(modo === 'zerar' ? 'Cronograma zerado e refeito. Bons estudos!' : 'Cronograma reiniciado. Bons estudos!'); location.hash = '#/calendario';
+        } catch (e) { console.error(e); toast('Não deu para reiniciar: ' + e.message, 'erro'); b.disabled = false; b.textContent = 'Reiniciar cronograma'; }
+      };
+      if (modo === 'zerar') modal('<h3>Começar do zero?</h3><p>O calendário atual será apagado e todos os tópicos voltam desmarcados, no edital e no conteúdo programático. As questões resolvidas e o desempenho continuam salvos.</p><div class="row"><button class="btn sec" id="nao">Voltar</button><span class="sp"></span><button class="btn vermelho" id="sim">Zerar e refazer</button></div>', { onMount: (m, close) => { m.querySelector('#nao').onclick = close; m.querySelector('#sim').onclick = () => { close(); vai($('#rcOk')); }; } });
+      else vai($('#rcOk'));
+    };
+  };
+  desenha();
 }
 
 // Cartão de convite (calendário vazio e página inicial)

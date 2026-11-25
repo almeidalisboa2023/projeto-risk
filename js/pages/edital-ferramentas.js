@@ -64,6 +64,7 @@ export function finalizarCronograma(ed, depois) {
         ev.target.disabled = true; ev.target.textContent = 'Finalizando…';
         try {
           await db.update('editais', { id: 'eq.' + ed.id }, { ativo: false, finalizado_em: iso(hoje()) });
+          try { localStorage.removeItem('risk-lidos-' + (S.user?.id || 'x')); } catch {} // novo ciclo: conteúdo programático volta desmarcado
           if (op === 'ciclo') {
             const n = (ed.concurso.match(/ciclo (\d+)/i)?.[1] | 0) + 1 || 2;
             const nome = ed.concurso.replace(/\s*[—-]\s*ciclo \d+$/i, '') + ` — ciclo ${Math.max(2, n)}`;

@@ -1,6 +1,7 @@
-// PDF do tópico do conteúdo programático, gerado no próprio navegador (sem bibliotecas externas):
-// capa com matéria e tópico, cabeçalho com a logo e a identificação do aluno (nome e CPF), número de página,
-// marca d'água, texto sem flashcards/botões, questões numeradas e gabarito comentado no fim.
+// PDF do tópico do conteúdo programático, gerado no próprio navegador (sem bibliotecas externas).
+// As páginas de conteúdo são PDF de verdade (texto vetorial em Helvetica, nítido em qualquer zoom e pesquisável);
+// só a capa é imagem, em alta resolução. Capa com matéria e tópico, cabeçalho com a logo, número de página,
+// texto sem flashcards/botões, questões numeradas e gabarito comentado no fim.
 import { S } from './state.js';
 
 // ---------- página A4 a 150 dpi ----------
@@ -20,9 +21,19 @@ const CAIXAS = {
   'lt-calc': { bg: '#F3F4F6', barra: '#8A8F98', titulo: COR.dest },
   'lt-fluxo': { bg: '#F3F4F6', barra: '#8A8F98', titulo: COR.dest },
 };
-const fmtCpf = (c) => { const d = String(c || '').replace(/\D/g, ''); return d.length === 11 ? `${d.slice(0, 3)}.${d.slice(3, 6)}.${d.slice(6, 9)}-${d.slice(9)}` : ''; };
 const fonte = (tam, neg, ita, fam = FONTE) => `${ita ? 'italic ' : ''}${neg ? '700' : '400'} ${tam}px ${fam}`;
 const medidor = document.createElement('canvas').getContext('2d');
+const K = 595.28 / PW; // unidade de layout -> ponto do PDF
+
+// Larguras das fontes padrão do PDF (Helvetica e Helvetica-Bold, códigos 32 a 255 da WinAnsi, em milésimos)
+const AFM = [[278,278,355,556,556,889,667,191,333,333,389,584,278,333,278,278,556,556,556,556,556,556,556,556,556,556,278,278,584,584,584,556,1015,667,667,722,722,667,611,778,722,278,500,667,556,833,722,778,667,778,722,667,611,722,667,944,667,667,611,278,278,278,469,556,333,556,556,500,556,556,278,556,556,222,222,500,222,833,556,556,556,556,333,500,278,556,500,722,500,500,500,334,260,334,584,761,556,0,222,556,333,1000,556,556,333,1000,667,333,1000,0,611,0,0,222,222,333,333,350,556,1000,333,1000,500,333,944,0,500,667,278,333,556,556,556,556,260,556,333,737,370,556,584,333,737,333,400,584,333,333,333,556,537,278,333,333,365,556,834,834,834,611,667,667,667,667,667,667,1000,722,667,667,667,667,278,278,278,278,722,722,778,778,778,778,778,584,778,722,722,722,722,667,667,611,556,556,556,556,556,556,889,500,556,556,556,556,278,278,278,278,556,556,556,556,556,556,556,584,611,556,556,556,556,500,556,500],[278,333,474,556,556,889,722,238,333,333,389,584,278,333,278,278,556,556,556,556,556,556,556,556,556,556,333,333,584,584,584,611,975,722,722,722,722,667,611,778,722,278,556,722,611,833,722,778,667,778,722,667,611,722,667,944,667,667,611,333,278,333,584,556,333,556,611,556,611,556,333,611,611,278,278,556,278,889,611,611,611,611,389,556,333,611,556,778,556,556,500,389,280,389,584,761,556,0,278,556,500,1000,556,556,333,1000,667,333,1000,0,611,0,0,278,278,500,500,350,556,1000,333,1000,556,333,944,0,500,667,278,333,556,556,556,556,280,556,333,737,370,556,584,333,737,333,400,584,333,333,333,611,556,278,333,333,365,556,834,834,834,611,722,722,722,722,722,722,1000,722,667,667,667,667,278,278,278,278,722,722,778,778,778,778,778,584,778,722,722,722,722,667,667,611,556,556,556,556,556,556,889,556,556,556,556,556,278,278,278,278,611,611,611,611,611,611,611,584,611,611,611,611,611,556,611,556]];
+const W1252 = '€\u0081‚ƒ„…†‡ˆ‰Š‹Œ\u008DŽ\u008F\u0090‘’“”•–—˜™š›œ\u009DžŸ';
+const TROCA = { '→': '->', '←': '<-', '⇒': '=>', '⇔': '<=>', '↔': '<->', '≥': '>=', '≤': '<=', '≠': '!=', '≈': '~', '✓': 'v', '✔': 'v', '✅': 'v', '✗': 'x', '✘': 'x', '❌': 'x', '▸': '>', '►': '>', '➜': '>', '➔': '>', '−': '-', '‐': '-', '‑': '-', '√': 'raiz de ', '∴': 'portanto', 'π': 'pi', '∞': 'infinito', 'Δ': 'Delta', 'α': 'alfa', 'β': 'beta', '\u2009': ' ', '\u202F': ' ', '\u200B': '', '\uFE0F': '', '★': '*', '⭐': '*', '⚠': '!', '•': '•' };
+const codigo = (ch) => { const c = ch.codePointAt(0); if (c < 128 || (c >= 160 && c < 256)) return c; const k = W1252.indexOf(ch); return k >= 0 ? 128 + k : -1; };
+// Deixa só caracteres que as fontes padrão do PDF conseguem mostrar
+const limpa = (s) => { let o = ''; for (const ch of String(s)) { if (codigo(ch) >= 0 && ch !== '\u0081' && ch !== '\u008D' && ch !== '\u008F' && ch !== '\u0090' && ch !== '\u009D') o += ch; else if (TROCA[ch] != null) o += TROCA[ch]; } return o; };
+const largura = (s, tam, neg) => { const t = AFM[neg ? 1 : 0]; let w = 0; for (const ch of s) { const c = codigo(ch); w += c >= 32 ? t[c - 32] || 500 : 500; } return (w / 1000) * tam; };
+
 
 // ---------- texto rico: nós inline viram trechos (negrito, itálico, cor) ----------
 function trechos(no, est = {}, out = []) {
@@ -42,28 +53,31 @@ function trechos(no, est = {}, out = []) {
   return out;
 }
 
-// Quebra os trechos em linhas que cabem na largura
-function quebrar(ts, larg, tam, cor0 = COR.txt, fam = FONTE) {
+// Quebra os trechos em linhas que cabem na largura.
+// Sem 'fam': mede com as larguras da Helvetica (páginas vetoriais). Com 'fam': mede no canvas (capa).
+function quebrar(ts, larg, tam, cor0 = COR.txt, fam = null) {
   const linhas = []; let linha = [], x = 0;
   const fecha = () => { linhas.push(linha); linha = []; x = 0; };
   for (const tr of ts) {
     if (tr.t === '\n') { fecha(); continue; }
-    const f = fonte(tam, tr.neg, tr.ita, fam); medidor.font = f;
-    for (const pedaco of tr.t.split(/(\s+)/)) {
+    const f = fam ? fonte(tam, tr.neg, tr.ita, fam) : null; if (f) medidor.font = f;
+    const mede = (s) => (fam ? medidor.measureText(s).width : largura(s, tam, tr.neg));
+    const texto = fam ? tr.t : limpa(tr.t);
+    const seg = (t, x0) => ({ t, f, neg: !!tr.neg, ita: !!tr.ita, cor: tr.cor || cor0, x: x0 });
+    for (const pedaco of texto.split(/(\s+)/)) {
       if (!pedaco) continue;
       const esp = /^\s+$/.test(pedaco);
       if (esp && !linha.length) continue;
-      let w = medidor.measureText(esp ? ' ' : pedaco).width;
-      if (!esp && x + w > larg && linha.length) { fecha(); }
+      const w = mede(esp ? ' ' : pedaco);
+      if (!esp && x + w > larg && linha.length) fecha();
       if (!esp && w > larg) { // palavra enorme: corta
-        let p = pedaco; while (p) { let k = p.length; while (k > 1 && medidor.measureText(p.slice(0, k)).width > larg - x) k--; linha.push({ t: p.slice(0, k), f, cor: tr.cor || cor0, x }); x += medidor.measureText(p.slice(0, k)).width; p = p.slice(k); if (p) fecha(); }
+        let p = pedaco; while (p) { let k = p.length; while (k > 1 && mede(p.slice(0, k)) > larg - x) k--; linha.push(seg(p.slice(0, k), x)); x += mede(p.slice(0, k)); p = p.slice(k); if (p) fecha(); }
         continue;
       }
-      linha.push({ t: esp ? ' ' : pedaco, f, cor: tr.cor || cor0, x }); x += w;
+      linha.push(seg(esp ? ' ' : pedaco, x)); x += w;
     }
   }
   if (linha.length) fecha();
-  // tira espaços no fim da linha
   return linhas.map((l) => { while (l.length && l[l.length - 1].t === ' ') l.pop(); return l; }).filter((l, i, a) => l.length || (i > 0 && i < a.length - 1));
 }
 
@@ -120,7 +134,7 @@ function montar(raiz) {
       if (tag === 'TABLE') { tabela(n, caixa); continue; }
       if (cls.includes('lt-stats')) {
         [...n.querySelectorAll('.lt-stat')].forEach((s) => { const v = s.querySelector('b'), d = s.cloneNode(true); d.querySelector('b')?.remove();
-          paragrafo([{ t: (v?.textContent || '').trim() + ' — ', neg: true, cor: COR.dest }, { t: d.textContent.trim() }], { caixa, recuo, marcador: '▸', antes: 2, depois: 4 }); });
+          paragrafo([{ t: (v?.textContent || '').trim() + ' — ', neg: true, cor: COR.dest }, { t: d.textContent.trim() }], { caixa, recuo, marcador: '•', antes: 2, depois: 4 }); });
         espaco(8, caixa); continue;
       }
       if (tag === 'DETAILS') { bloco(n, caixa, recuo); continue; }
@@ -152,43 +166,52 @@ function paginar(L) {
   return pags;
 }
 
-// ---------- desenho ----------
-function desenharLinhas(ctx, linhas) {
+// ---------- desenho vetorial (comandos de página PDF) ----------
+const rgb = (h) => { let s = String(h).replace('#', ''); if (s.length === 3) s = [...s].map((c) => c + c).join(''); return [0, 2, 4].map((i) => (parseInt(s.slice(i, i + 2), 16) / 255).toFixed(3)).join(' '); };
+const n2 = (v) => (Math.round(v * 100) / 100).toString();
+const pdfStr = (s) => { let o = ''; for (const ch of s) { const c = codigo(ch); if (c < 0) continue; if (c === 40 || c === 41 || c === 92) o += '\\' + ch; else if (c < 128) o += ch; else o += '\\' + c.toString(8).padStart(3, '0'); } return o; };
+class Pagina {
+  constructor() { this.ops = []; }
+  ret(x, y, w, h, cor) { this.ops.push(`${rgb(cor)} rg ${n2(x * K)} ${n2((PH - y - h) * K)} ${n2(w * K)} ${n2(h * K)} re f`); }
+  borda(x, y, w, h, cor, lw = 2) { this.ops.push(`${rgb(cor)} RG ${n2(lw * K)} w ${n2(x * K)} ${n2((PH - y - h) * K)} ${n2(w * K)} ${n2(h * K)} re S`); }
+  texto(t, x, y, tam, { neg = false, ita = false, cor = COR.txt, alinha = 'left' } = {}) {
+    t = limpa(t); if (!t) return;
+    if (alinha === 'right') x -= largura(t, tam, neg); else if (alinha === 'center') x -= largura(t, tam, neg) / 2;
+    this.ops.push(`BT /F${1 + (neg ? 1 : 0) + (ita ? 2 : 0)} ${n2(tam * K)} Tf ${rgb(cor)} rg ${n2(x * K)} ${n2((PH - y) * K)} Td (${pdfStr(t)}) Tj ET`);
+  }
+  imagem(nome, x, y, w, h) { this.ops.push(`q ${n2(w * K)} 0 0 ${n2(h * K)} ${n2(x * K)} ${n2((PH - y - h) * K)} cm /${nome} Do Q`); }
+  get conteudo() { return this.ops.join('\n'); }
+}
+
+function desenharLinhas(pg, linhas) {
   for (const ln of linhas) {
-    if (ln.caixa) { ctx.fillStyle = ln.caixa.bg; ctx.fillRect(MX, ln.y, LARG, ln.h); ctx.fillStyle = ln.caixa.barra; ctx.fillRect(MX, ln.y, 8, ln.h); }
+    if (ln.caixa) { pg.ret(MX, ln.y, LARG, ln.h, ln.caixa.bg); pg.ret(MX, ln.y, 8, ln.h, ln.caixa.barra); }
+    if (ln.regua) { pg.ret(MX, ln.y, LARG, 5, COR.ouro); continue; }
     if (ln.tabela) {
       const { cels, cw, cab } = ln.tabela, x0 = MX + (ln.caixa ? 28 : 0);
-      if (cab) { ctx.fillStyle = COR.ouro; ctx.fillRect(x0, ln.y, cw * cels.length, ln.h); }
-      ctx.strokeStyle = '#d9dce1'; ctx.lineWidth = 2;
-      cels.forEach((c, k) => { ctx.strokeRect(x0 + k * cw, ln.y, cw, ln.h); c.forEach((linha, j) => linha.forEach((s) => { ctx.font = s.f; ctx.fillStyle = cab ? '#111' : s.cor; ctx.fillText(s.t, x0 + k * cw + 10 + s.x, ln.y + 36 + j * 32); })); });
+      if (cab) pg.ret(x0, ln.y, cw * cels.length, ln.h, COR.ouro);
+      cels.forEach((c, k) => { pg.borda(x0 + k * cw, ln.y, cw, ln.h, '#d9dce1'); c.forEach((linha, j) => linha.forEach((s) => pg.texto(s.t, x0 + k * cw + 10 + s.x, ln.y + 36 + j * 32, 22, { neg: s.neg, ita: s.ita, cor: cab ? '#111111' : s.cor }))); });
       continue;
     }
     if (!ln.segs) continue;
     const x0 = MX + (ln.recuo || 0), base = ln.y + Math.round(ln.tam * 1.15);
-    if (ln.barraTitulo) { ctx.fillStyle = COR.ouro; ctx.fillRect(MX - 22, ln.y + 6, 7, ln.h - 10); }
-    if (ln.marcador) { ctx.font = fonte(ln.tam, true); ctx.fillStyle = COR.ouro; ctx.fillText(ln.marcador, x0 - 30, base); }
-    for (const s of ln.segs) { ctx.font = s.f; ctx.fillStyle = s.cor; ctx.fillText(s.t, x0 + s.x, base); }
+    if (ln.barraTitulo) pg.ret(MX - 22, ln.y + 6, 7, ln.h - 10, COR.ouro);
+    if (ln.marcador) pg.texto(ln.marcador, x0 - 30, base, ln.tam, { neg: true, cor: COR.ouro });
+    for (const s of ln.segs) pg.texto(s.t, x0 + s.x, base, ln.tam, { neg: s.neg, ita: s.ita, cor: s.cor });
   }
 }
 
-function moldura(ctx, p, total, info, logo) {
-  // cabeçalho
-  const lh = 64, lw = (logo.width / logo.height) * lh;
-  ctx.drawImage(logo, MX, 44, lw, lh);
-  ctx.textAlign = 'right'; ctx.fillStyle = COR.txt; ctx.font = fonte(24, true); ctx.fillText(info.nome, PW - MX, 72);
-  ctx.fillStyle = COR.txt2; ctx.font = fonte(21); ctx.fillText(`CPF ${info.cpf}`, PW - MX, 102);
-  ctx.fillStyle = COR.ouro; ctx.fillRect(MX, 128, LARG, 3);
-  // rodapé
-  ctx.fillStyle = '#dfe2e6'; ctx.fillRect(MX, BASE + 40, LARG, 2);
-  ctx.font = fonte(19); ctx.fillStyle = '#7a808a';
-  ctx.textAlign = 'left'; let r = info.rodape; while (medidor.measureText(r).width > LARG - 260 && r.length > 10) { r = r.slice(0, -2); medidor.font = ctx.font; } ctx.fillText(r, MX, BASE + 76);
-  ctx.textAlign = 'right'; ctx.fillText(`Página ${p} de ${total}`, PW - MX, BASE + 76);
-  ctx.textAlign = 'left';
-  // marca d'água discreta
-  ctx.save(); ctx.globalAlpha = 0.06; ctx.translate(PW / 2, PH / 2); ctx.rotate(-Math.PI / 5); ctx.textAlign = 'center';
-  ctx.font = fonte(54, true); ctx.fillStyle = '#000'; ctx.fillText(`${info.nome} · ${info.cpf}`, 0, 0);
-  ctx.font = fonte(30); ctx.fillText('Uso pessoal e intransferível · PROJETO R.I.S.K.', 0, 60);
-  ctx.restore();
+// Cabeçalho (logo, matéria e seção) e rodapé (tópico e número da página)
+const corta = (t, max, tam, neg) => { t = limpa(t); if (largura(t, tam, neg) <= max) return t; while (t.length > 4 && largura(t + '…', tam, neg) > max) t = t.slice(0, -1); return t.trimEnd() + '…'; };
+function moldura(pg, p, total, info, logo) {
+  const lh = 60, lw = (logo.w / logo.h) * lh;
+  pg.imagem('Lg', MX, 50, lw, lh);
+  pg.texto(corta(info.materia, LARG - lw - 40, 22, true), PW - MX, 78, 22, { neg: true, alinha: 'right' });
+  pg.texto(corta(info.secao, LARG - lw - 40, 19, false), PW - MX, 106, 19, { cor: COR.txt2, alinha: 'right' });
+  pg.ret(MX, 128, LARG, 3, COR.ouro);
+  pg.ret(MX, BASE + 40, LARG, 2, '#dfe2e6');
+  pg.texto(corta(info.rodape, LARG - 240, 18, false), MX, BASE + 76, 18, { cor: '#7a808a' });
+  pg.texto(`Página ${p} de ${total}`, PW - MX, BASE + 76, 18, { neg: true, cor: '#7a808a', alinha: 'right' });
 }
 
 function capa(ctx, info, logo) {
@@ -198,48 +221,58 @@ function capa(ctx, info, logo) {
   // logo sobre placa clara
   const lw = 360, lh = (logo.height / logo.width) * lw;
   ctx.fillStyle = '#fff'; ctx.beginPath(); ctx.roundRect ? ctx.roundRect(MX - 12, 100, lw + 24, lh + 24, 22) : ctx.rect(MX - 12, 100, lw + 24, lh + 24); ctx.fill();
-  ctx.drawImage(logo, MX, 112, lw, lh);
+  ctx.imageSmoothingQuality = 'high'; ctx.drawImage(logo, MX, 112, lw, lh);
   let y = 760;
   ctx.fillStyle = '#E9C46A'; ctx.fillRect(MX, y - 60, 150, 10);
   ctx.font = fonte(26, true); ctx.fillStyle = '#E9C46A'; ctx.fillText(info.sup.toUpperCase(), MX, y);
   y += 30;
   for (const ln of quebrar([{ t: info.materia, neg: true }], LARG, 76, '#fff', SERIF).slice(0, 3)) { y += 92; ln.forEach((s) => { ctx.font = s.f; ctx.fillStyle = '#fff'; ctx.fillText(s.t, MX + s.x, y); }); }
   y += 30;
-  for (const ln of quebrar([{ t: info.topico }], LARG, 46, '#E9E4D8').slice(0, 4)) { y += 62; ln.forEach((s) => { ctx.font = s.f; ctx.fillStyle = '#E9E4D8'; ctx.fillText(s.t, MX + s.x, y); }); }
+  for (const ln of quebrar([{ t: info.topico }], LARG, 46, '#E9E4D8', FONTE).slice(0, 4)) { y += 62; ln.forEach((s) => { ctx.font = s.f; ctx.fillStyle = '#E9E4D8'; ctx.fillText(s.t, MX + s.x, y); }); }
   if (info.arts) { y += 50; ctx.font = fonte(26); ctx.fillStyle = '#b9b4a8'; ctx.fillText(info.arts.slice(0, 80), MX, y); }
-  // quadro do aluno
-  const qy = 1290, qh = 230; ctx.fillStyle = 'rgba(255,255,255,.07)'; ctx.fillRect(MX, qy, LARG, qh); ctx.strokeStyle = 'rgba(255,255,255,.15)'; ctx.lineWidth = 2; ctx.strokeRect(MX, qy, LARG, qh);
+  // quadro de informações
+  const qy = 1350, qh = 130; ctx.fillStyle = 'rgba(255,255,255,.07)'; ctx.fillRect(MX, qy, LARG, qh); ctx.strokeStyle = 'rgba(255,255,255,.15)'; ctx.lineWidth = 2; ctx.strokeRect(MX, qy, LARG, qh);
   const campo = (rot, val, x, yy) => { ctx.font = fonte(20, true); ctx.fillStyle = '#b9b4a8'; ctx.fillText(rot.toUpperCase(), x, yy); ctx.font = fonte(30, true); ctx.fillStyle = '#fff'; ctx.fillText(val, x, yy + 40); };
-  campo('Aluno', info.nome.slice(0, 34), MX + 30, qy + 56); campo('CPF', info.cpf, MX + LARG / 2 + 20, qy + 56);
-  campo('Emitido em', info.data, MX + 30, qy + 156); campo('Questões', info.nq ? `${info.nq} com gabarito` : '—', MX + LARG / 2 + 20, qy + 156);
+  const c3 = LARG / 3;
+  campo('Emitido em', info.data, MX + 30, qy + 56); campo('Leitura', info.min ? `cerca de ${info.min} min` : '—', MX + c3 + 20, qy + 56); campo('Questões', info.nq ? `${info.nq} com gabarito` : '—', MX + 2 * c3 + 10, qy + 56);
   ctx.font = fonte(20); ctx.fillStyle = '#9d988c';
-  quebrar([{ t: 'Material de uso pessoal e intransferível. Este arquivo é identificado com o nome e o CPF do aluno que o baixou; o compartilhamento é proibido.' }], LARG, 20).forEach((ln, i) => ln.forEach((s) => ctx.fillText(s.t, MX + s.x, 1600 + i * 30)));
+  ctx.fillText('PROJETO R.I.S.K. · material de estudo', MX, 1620);
 }
 
-// ---------- PDF com uma imagem JPEG por página ----------
-function montaPdf(imgs) {
+// ---------- montagem do arquivo PDF ----------
+async function comprime(txt) {
+  const bytes = new TextEncoder().encode(txt);
+  if (typeof CompressionStream === 'undefined') return { dados: bytes, filtro: '' };
+  try { const s = new Blob([bytes]).stream().pipeThrough(new CompressionStream('deflate')); return { dados: new Uint8Array(await new Response(s).arrayBuffer()), filtro: ' /Filter /FlateDecode' }; }
+  catch { return { dados: bytes, filtro: '' }; }
+}
+async function montaPdf(capaJpg, logo, paginas) {
   const enc = new TextEncoder(), partes = [], offs = []; let tam = 0;
   const put = (x) => { const b = typeof x === 'string' ? enc.encode(x) : x; partes.push(b); tam += b.length; };
   const obj = (i, corpo, stream) => { offs[i] = tam; put(`${i} 0 obj\n${corpo}\n`); if (stream) { put('stream\n'); put(stream); put('\nendstream\n'); } put('endobj\n'); };
   put('%PDF-1.4\n%\xE2\xE3\xCF\xD3\n');
-  const nP = imgs.length, kids = imgs.map((_, k) => `${4 + k * 3} 0 R`).join(' ');
+  const W = '595.28', H = '841.89', nP = paginas.length + 1, P0 = 10;
+  const kids = Array.from({ length: nP }, (_, k) => `${P0 + k * 2} 0 R`).join(' ');
   obj(1, '<< /Type /Catalog /Pages 2 0 R >>');
   obj(2, `<< /Type /Pages /Kids [${kids}] /Count ${nP} >>`);
   obj(3, '<< /Producer (PROJETO R.I.S.K.) /Creator (PROJETO R.I.S.K.) >>');
-  imgs.forEach((im, k) => {
-    const p = 4 + k * 3, c = p + 1, x = p + 2, w = '595.28', h = '841.89';
-    obj(p, `<< /Type /Page /Parent 2 0 R /MediaBox [0 0 ${w} ${h}] /Resources << /XObject << /Im${k} ${x} 0 R >> >> /Contents ${c} 0 R >>`);
-    const cs = enc.encode(`q ${w} 0 0 ${h} 0 0 cm /Im${k} Do Q`);
-    obj(c, `<< /Length ${cs.length} >>`, cs);
-    obj(x, `<< /Type /XObject /Subtype /Image /Width ${im.w} /Height ${im.h} /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length ${im.jpg.length} >>`, im.jpg);
-  });
-  const total = 4 + nP * 3, xref = tam;
+  ['Helvetica', 'Helvetica-Bold', 'Helvetica-Oblique', 'Helvetica-BoldOblique'].forEach((f, i) => obj(4 + i, `<< /Type /Font /Subtype /Type1 /BaseFont /${f} /Encoding /WinAnsiEncoding >>`));
+  obj(8, `<< /Type /XObject /Subtype /Image /Width ${logo.w} /Height ${logo.h} /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length ${logo.jpg.length} >>`, logo.jpg);
+  obj(9, `<< /Type /XObject /Subtype /Image /Width ${capaJpg.w} /Height ${capaJpg.h} /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length ${capaJpg.jpg.length} >>`, capaJpg.jpg);
+  const recursos = '<< /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> /XObject << /Lg 8 0 R /Cv 9 0 R >> >>';
+  const fluxos = [`q ${W} 0 0 ${H} 0 0 cm /Cv Do Q`, ...paginas.map((p) => p.conteudo)];
+  for (let k = 0; k < nP; k++) {
+    const p = P0 + k * 2, { dados, filtro } = await comprime(fluxos[k]);
+    obj(p, `<< /Type /Page /Parent 2 0 R /MediaBox [0 0 ${W} ${H}] /Resources ${recursos} /Contents ${p + 1} 0 R >>`);
+    obj(p + 1, `<< /Length ${dados.length}${filtro} >>`, dados);
+  }
+  const total = P0 + nP * 2, xref = tam;
   put(`xref\n0 ${total}\n0000000000 65535 f \n`);
   for (let i = 1; i < total; i++) put(String(offs[i]).padStart(10, '0') + ' 00000 n \n');
   put(`trailer\n<< /Size ${total} /Root 1 0 R /Info 3 0 R >>\nstartxref\n${xref}\n%%EOF`);
   return new Blob(partes, { type: 'application/pdf' });
 }
-const jpeg = (cv) => new Promise((ok) => cv.toBlob(async (b) => ok(new Uint8Array(await b.arrayBuffer())), 'image/jpeg', 0.8));
+const jpeg = (cv, q = 0.9) => new Promise((ok) => cv.toBlob(async (b) => ok(new Uint8Array(await b.arrayBuffer())), 'image/jpeg', q));
 const espera = () => new Promise((r) => setTimeout(r, 0));
 
 // ---------- função principal ----------
@@ -248,9 +281,8 @@ export async function gerarPdfTopico(mat, a, aviso = () => {}) {
   try { await document.fonts?.load(fonte(26, true)); await document.fonts?.load(fonte(26)); await document.fonts?.load(fonte(80, true, false, SERIF)); } catch {}
   const logo = new Image(); logo.src = 'img/logo-claro.webp'; await logo.decode();
   const info = {
-    nome: S.profile?.nome || S.user?.email || 'Aluno', cpf: fmtCpf(S.profile?.cpf) || 'não informado',
     data: new Date().toLocaleDateString('pt-BR'), materia: mat.nome, topico: a.titulo, arts: a.arts || '',
-    sup: 'Conteúdo programático' + (S.edital?.concurso ? ' · ' + S.edital.concurso : ''), rodape: `${mat.nome} · ${a.titulo}`,
+    sup: 'Conteúdo programático' + (S.edital?.concurso ? ' · ' + S.edital.concurso : ''), rodape: a.titulo, secao: 'Conteúdo programático · PROJETO R.I.S.K.', min: Math.round(String(a.html || '').replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length / 180) || 0,
   };
   const questoes = (a.quiz || []).filter((q) => q && q.p);
   info.nq = questoes.length;
@@ -294,22 +326,23 @@ export async function gerarPdfTopico(mat, a, aviso = () => {}) {
     });
   }
 
-  const pags = paginar(L), total = pags.length + 1, imgs = [];
-  const cv = document.createElement('canvas'); cv.width = PW; cv.height = PH; const ctx = cv.getContext('2d');
-  ctx.textBaseline = 'alphabetic';
+  const pags = paginar(L), total = pags.length + 1;
   aviso('Desenhando a capa…');
-  capa(ctx, info, logo); imgs.push({ jpg: await jpeg(cv), w: PW, h: PH });
+  const cv = document.createElement('canvas'); cv.width = PW * 2; cv.height = PH * 2; const ctx = cv.getContext('2d');
+  ctx.scale(2, 2); ctx.textBaseline = 'alphabetic';
+  capa(ctx, info, logo);
+  const capaJpg = { jpg: await jpeg(cv, 0.9), w: cv.width, h: cv.height };
+  // logo do cabeçalho em resolução original, sobre fundo branco
+  const lc = document.createElement('canvas'); lc.width = logo.naturalWidth; lc.height = logo.naturalHeight; const lx = lc.getContext('2d');
+  lx.fillStyle = '#fff'; lx.fillRect(0, 0, lc.width, lc.height); lx.drawImage(logo, 0, 0);
+  const logoJpg = { jpg: await jpeg(lc, 0.95), w: lc.width, h: lc.height };
+  const paginas = [];
   for (let i = 0; i < pags.length; i++) {
-    aviso(`Montando página ${i + 2} de ${total}…`);
-    ctx.fillStyle = '#fff'; ctx.fillRect(0, 0, PW, PH);
-    desenharLinhas(ctx, pags[i]);
-    for (const ln of pags[i]) if (ln.regua) { ctx.fillStyle = COR.ouro; ctx.fillRect(MX, ln.y, LARG, 5); }
-    moldura(ctx, i + 2, total, info, logo);
-    imgs.push({ jpg: await jpeg(cv), w: PW, h: PH });
-    await espera();
+    if (i % 5 === 0) { aviso(`Montando página ${i + 2} de ${total}…`); await espera(); }
+    const pg = new Pagina(); desenharLinhas(pg, pags[i]); moldura(pg, i + 2, total, info, logoJpg); paginas.push(pg);
   }
   aviso('Salvando…');
-  return { blob: montaPdf(imgs), nome: `RISK - ${mat.nome} - ${a.titulo}`.replace(/[\\/:*?"<>|]+/g, '').slice(0, 120) + '.pdf', paginas: total };
+  return { blob: await montaPdf(capaJpg, logoJpg, paginas), nome: `RISK - ${mat.nome} - ${a.titulo}`.replace(/[\\/:*?"<>|]+/g, '').slice(0, 120) + '.pdf', paginas: total };
 }
 
 export async function baixarPdfTopico(mat, a, aviso) {
