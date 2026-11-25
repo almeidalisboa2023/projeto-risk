@@ -30,7 +30,8 @@ export async function render(el) {
   const tx = pct(as, fs), txa = pct(aa, fa);
   const prova = parseISO(ed?.data_prova);
   const faltam = prova ? Math.max(0, Math.round((prova - h) / 864e5)) : null;
-  let fi = Math.floor(Math.random() * FRASES.length);
+  // frase do dia: muda sozinha a cada dia (a mesma para o dia inteiro)
+  const fi = Math.floor(Date.UTC(h.getFullYear(), h.getMonth(), h.getDate()) / 86400000) % FRASES.length;
 
   const semanaAtual = ed ? semanaDe(ed.data_inicio, h) : null;
   const meta = S.profile.meta_questoes || 30;
@@ -67,7 +68,6 @@ export async function render(el) {
     <div id="relogio"></div>
     <div class="mono up">${esc(dataExtenso(h))}</div>
     <p class="frase" id="frase"></p><div class="mono" id="autor"></div>
-    <button class="btn mini" id="outra" style="margin-top:10px">↻ Outra frase</button>
     ${faltam != null ? `<div style="margin-top:18px">${flipHTML(String(faltam).padStart(3, '0'))}<div class="muted">dias para a prova (${prova.toLocaleDateString('pt-BR')})</div></div>` : ''}
     <div style="max-width:560px;margin:18px auto 0;text-align:left"><div class="row"><span>Tópicos finalizados</span><span class="sp"></span><b>${fin}/${validos.length}</b></div>${barra(pct(fin, validos.length))}</div>
   </section>
@@ -137,7 +137,6 @@ export async function render(el) {
   relogio(); timer = setInterval(relogio, 1000);
   const frase = () => { el.querySelector('#frase').textContent = '“' + FRASES[fi][0] + '”'; el.querySelector('#autor').textContent = FRASES[fi][1].toUpperCase(); };
   frase();
-  el.querySelector('#outra').onclick = () => { fi = (fi + 1 + Math.floor(Math.random() * (FRASES.length - 1))) % FRASES.length; frase(); };
   el.querySelector('#tema').onclick = () => { alternaTema(); recarregar(); };
   const dp = el.querySelector('#dp');
   if (dp) {

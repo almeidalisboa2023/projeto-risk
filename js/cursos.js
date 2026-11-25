@@ -31,7 +31,7 @@ export const CURSOS = [
       m('portugues'), m('rlm'), m('informatica'), m('fisica'), m('etica-cidadania'), m('geopolitica'), m('lingua-estrangeira'),
       m('transito'), m('resolucoes-ctb'), m('prf-multimodal'),
       m('administrativo'), m('constitucional'), m('penal'), m('processo-penal'), m('extravagante'), m('direitos-humanos'),
-      m('redacao'),
+      m('redacao'), m('redacao-interativa'),
     ],
   },
   {
@@ -61,7 +61,7 @@ export const CURSOS = [
     materias: [
       m('administrativo'), m('lei-organica-pcmg'), m('constitucional'), m('civil'),
       m('penal'), m('processo-penal'), m('extravagante'),
-      m('direitos-humanos'), m('medicina-legal'), m('criminologia'), m('redacao'),
+      m('direitos-humanos'), m('medicina-legal'), m('criminologia'), m('redacao'), m('redacao-interativa'),
     ],
   },
   {

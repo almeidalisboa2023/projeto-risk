@@ -53,7 +53,10 @@ async function carregarRevisoes(mats) {
   return (REV = r);
 }
 const precisaAtualizar = (m, a) => isAdmin() && REV && (a ? !!REV[m.id + '/' + a.id] : (!!REV[m.id] || m.assuntos.some((x) => REV[m.id + '/' + x.id])));
+// Matérias interativas: sem PDF/apostila e sem bolinha de completude
+const SEM_PDF = new Set(['redacao-interativa']);
 const bolas = (m, a) => {
+  if (SEM_PDF.has(m.id)) return '';
   const ok = a ? topicoCompleto(a) : materiaCompleta(m);
   return `<span class="st-bola ${ok ? 'verde' : 'vermelha'}" title="${ok ? 'Completo (≈1 h de leitura e 100+ questões)' : 'Ainda não está completo'}"></span>${precisaAtualizar(m, a) ? '<span class="st-bola amarela" title="Precisa de atualização (só o administrador vê)"></span>' : ''}`;
 };
@@ -121,7 +124,7 @@ function quadro(el) {
       <small>${m.assuntos.length} tópicos · ${feitos} lidos</small>
       <div class="lt-mat-bar"><div style="width:${p}%"></div></div></div>
       <span class="st-bolas">${bolas(m)}</span>
-      ${meu.has(m.id) ? '<span class="lt-mat-tag">No seu edital</span>' : ''}<button class="lt-ap-card" type="button" data-apostila="${m.id}" title="Gerar a apostila da matéria em PDF">⤓ Apostila</button></a>`;
+      ${meu.has(m.id) ? '<span class="lt-mat-tag">No seu edital</span>' : ''}${SEM_PDF.has(m.id) ? '' : `<button class="lt-ap-card" type="button" data-apostila="${m.id}" title="Apostila completa da matéria em PDF">⤓ Apostila</button>`}</a>`;
   }).join('')}</div>`;
   const inp = el.querySelector('#ltBusca'), res = el.querySelector('#ltRes');
   let timer = 0;
@@ -172,20 +175,22 @@ function pedirApostila(m0) {
   if (m.id === 'lingua-estrangeira' && !m.lingua) { const lg = ler('risk-lingua', ''); if (lg === 'en' || lg === 'es') m = filtrarLingua(m, lg); }
   const nq = m.assuntos.reduce((s, a) => s + (a.quiz || []).length, 0);
   modal(`<h3>Apostila de ${esc(m.nome)}</h3>
-    <p class="muted" style="font-size:14px">O PDF traz capa, sumário com as páginas e o conteúdo completo dos <b>${m.assuntos.length} tópicos</b>, sem flashcards nem botões.</p>
+    <p class="muted" style="font-size:14px">PDF completo dos <b>${m.assuntos.length} tópicos</b>, com sumário, quadros coloridos (números que caem, bizus, cartões para memorizar, pegadinhas, lei seca, jurisprudência e casos práticos) e sem flashcards nem botões.</p>
     <label class="check"><input type="checkbox" id="apQ"> Incluir as questões de cada tópico com gabarito comentado (${nq} questões; o arquivo fica bem maior)</label>
     <div class="row" style="margin-top:14px"><span class="sp"></span><button class="btn" id="apOk">⤓ Gerar apostila</button></div>`, {
-    onMount: (box, close) => (box.querySelector('#apOk').onclick = async () => {
-      const comQuestoes = box.querySelector('#apQ').checked; close();
-      const tela = document.createElement('div'); tela.className = 'pdf-gerando'; tela.innerHTML = '<div><span class="spin"></span><b>Gerando a apostila</b><small id="pdfMsg">Preparando…</small></div>'; document.body.appendChild(tela);
-      try {
-        const mat = { ...m, assuntos: m.assuntos.map((a) => (a.quiz ? { ...a, quiz: a.quiz.map((x) => padraoBanca(x)) } : a)) };
-        const { baixarApostila } = await import('../pdf-topico.js');
-        await baixarApostila(mat, { comQuestoes }, (t) => { const x = tela.querySelector('#pdfMsg'); if (x && t) x.textContent = t; });
-        toast('Apostila baixada.');
-      } catch (e) { console.error(e); toast(e.message || 'Não foi possível gerar a apostila.', 'erro'); }
-      finally { tela.remove(); }
-    }),
+    onMount: (box, close) => {
+      box.querySelector('#apOk').onclick = async () => {
+        const comQuestoes = box.querySelector('#apQ').checked; close();
+        const tela = document.createElement('div'); tela.className = 'pdf-gerando'; tela.innerHTML = '<div><span class="spin"></span><b>Gerando a apostila</b><small id="pdfMsg">Preparando…</small></div>'; document.body.appendChild(tela);
+        try {
+          const mat = { ...m, assuntos: m.assuntos.map((a) => (a.quiz ? { ...a, quiz: a.quiz.map((x) => padraoBanca(x)) } : a)) };
+          const { baixarApostila } = await import('../pdf-topico.js');
+          await baixarApostila(mat, { comQuestoes }, (t) => { const x = tela.querySelector('#pdfMsg'); if (x && t) x.textContent = t; });
+          toast('Apostila baixada.');
+        } catch (e) { console.error(e); toast(e.message || 'Não foi possível gerar a apostila.', 'erro'); }
+        finally { tela.remove(); }
+      };
+    },
   });
 }
 
@@ -202,7 +207,7 @@ function leitura(el, q, mat, idx) {
     <div class="lt-top-dir"><label class="lt-concl" title="Marcar este tópico como concluído"><span>Concluído</span><input type="checkbox" id="ltConcl" ${L.has(k) ? 'checked' : ''}><i></i></label></div>
   </div>
   <nav class="lt-ferr" aria-label="Ferramentas de leitura">
-    <button type="button" id="ltPdf" title="Baixar este tópico em PDF">⬇</button>
+    ${SEM_PDF.has(mat.id) ? '' : '<button type="button" id="ltPdf" title="Baixar este tópico em PDF">⬇</button>'}
     <button type="button" id="ltNota" title="Minhas anotações deste tópico">✎</button>
     <button type="button" id="ltFav" class="${fav.has(k) ? 'on' : ''}" title="Favoritar tópico">${fav.has(k) ? '★' : '☆'}</button>
     <button type="button" id="ltTela" title="Tela cheia">⛶</button>
@@ -217,7 +222,7 @@ function leitura(el, q, mat, idx) {
       <div class="lt-mat-bar" style="margin-bottom:10px"><div style="width:${Math.round((feitos / mat.assuntos.length) * 100)}%"></div></div>
       <select id="ltSel" class="lt-sel-mob">${mat.assuntos.map((x, i) => `<option value="${i}" ${i === idx ? 'selected' : ''}>${i + 1}. ${esc(x.titulo)}${L.has(mat.id + '/' + x.id) ? ' ✓' : ''}</option>`).join('')}</select>
       <ol class="lt-lista">${mat.assuntos.map((x, i) => `<li class="${i === idx ? 'on' : ''} ${L.has(mat.id + '/' + x.id) ? 'lido' : ''}"><a href="${ir(i)}">${bolas(mat, x)}${esc(x.titulo)}</a></li>`).join('')}</ol>
-      <button class="btn sec mini lt-ap-btn" id="ltApostila" type="button">⤓ Gerar apostila da matéria (PDF)</button>
+      ${SEM_PDF.has(mat.id) ? '' : '<button class="btn sec mini lt-ap-btn" id="ltApostila" type="button">⤓ Apostila da matéria (PDF)</button>'}
     </aside>
     <article class="card lt-texto">
       <div class="lt-meta"><span class="pill">${idx + 1} de ${mat.assuntos.length}</span>${a.arts ? `<span class="pill">${esc(a.arts)}</span>` : ''}<span class="pill lt-tempo" title="Leitura do texto essencial + aprofundamento">⏱ ~${minutosLeitura(a.html + (a.aprof || ''), 0)} min</span><span class="sp"></span>
@@ -254,8 +259,9 @@ function leitura(el, q, mat, idx) {
   $('#ltCap').onclick = () => ind.classList.toggle('aberto');
   $('#ltCapX').onclick = () => ind.classList.remove('aberto');
   $('#ltConcl').onchange = () => { const s2 = lidos(); s2.has(k) ? s2.delete(k) : s2.add(k); gravar(chave(), [...s2]); render(el, q); };
-  $('#ltApostila').onclick = () => pedirApostila(m0DaLeitura(mat));
-  $('#ltPdf').onclick = async () => {
+  if ($('#ltApostila')) $('#ltApostila').onclick = () => pedirApostila(m0DaLeitura(mat));
+  import('../redacao.js').then((r) => r.montarExercicios(el.querySelector('.lt-texto'), S.user?.id || 'x')).catch(() => {});
+  if ($('#ltPdf')) $('#ltPdf').onclick = async () => {
     const b = $('#ltPdf'); if (b.disabled) return; b.disabled = true;
     const tela = document.createElement('div'); tela.className = 'pdf-gerando'; tela.innerHTML = '<div><span class="spin"></span><b>Gerando o seu PDF</b><small id="pdfMsg">Preparando…</small></div>'; document.body.appendChild(tela);
     try { const { baixarPdfTopico } = await import('../pdf-topico.js'); await baixarPdfTopico(mat, a, (t) => { const m = tela.querySelector('#pdfMsg'); if (m && t) m.textContent = t; }); toast('PDF baixado.'); }

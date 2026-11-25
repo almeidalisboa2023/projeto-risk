@@ -8,19 +8,6 @@ import { S } from './state.js';
 const PW = 1240, PH = 1754, MX = 96, TOPO = 168, BASE = 1640, LARG = PW - 2 * MX;
 const FONTE = "'Outfit', 'Segoe UI', Arial, sans-serif", SERIF = "'Fraunces', Georgia, serif";
 const COR = { txt: '#1b1d21', txt2: '#5a606b', dest: '#9a5d00', link: '#0f7f93', ouro: '#C8902A' };
-const CAIXAS = {
-  'lt-dica': { bg: '#EEF6EA', barra: '#4E9B3C', titulo: '#2E6B22' },
-  'lt-caso': { bg: '#F3F4F6', barra: '#8A8F98', titulo: COR.dest },
-  'lt-ex': { bg: '#F3F4F6', barra: '#8A8F98', titulo: COR.dest },
-  'lt-box': { bg: '#F3F4F6', barra: '#8A8F98', titulo: COR.dest },
-  'lt-pegs': { bg: '#FFF6E8', barra: '#E0A43A', titulo: '#8a5a00' },
-  'lt-peg': { bg: '#FFF6E8', barra: '#E0A43A', titulo: '#8a5a00' },
-  'lt-art': { bg: '#F2F7FA', barra: '#2C8FA3', titulo: '#1f6f80' },
-  'lt-jc': { bg: '#F4F1FA', barra: '#7B5EA7', titulo: '#5b3f8a' },
-  'lt-juris': { bg: '#F4F1FA', barra: '#7B5EA7', titulo: '#5b3f8a' },
-  'lt-calc': { bg: '#F3F4F6', barra: '#8A8F98', titulo: COR.dest },
-  'lt-fluxo': { bg: '#F3F4F6', barra: '#8A8F98', titulo: COR.dest },
-};
 const fonte = (tam, neg, ita, fam = FONTE) => `${ita ? 'italic ' : ''}${neg ? '700' : '400'} ${tam}px ${fam}`;
 const medidor = document.createElement('canvas').getContext('2d');
 const K = 595.28 / PW; // unidade de layout -> ponto do PDF
@@ -100,7 +87,7 @@ function montar(raiz) {
       const cab = ri === 0 && r.querySelector('th');
       const cels = [...r.children].map((c) => quebrar(trechos(c, cab ? { neg: true, cor: '#111' } : {}), cw - 20, 22));
       const nl = Math.max(1, ...cels.map((c) => c.length)), h = nl * 32 + 16;
-      L.push({ h, caixa, tabela: { cels, cw, cab, nc } });
+      L.push({ h, caixa, tabela: { cels, cw, cab, nc }, keep: cab ? 1 : 0 });
     });
     espaco(12, caixa);
   };
@@ -110,18 +97,28 @@ function montar(raiz) {
       if (n.nodeType !== 1) continue;
       const tag = n.tagName, cls = [...n.classList];
       if (/^(BUTTON|INPUT|SELECT|SCRIPT|STYLE|SVG|FIGURE|IMG|CANVAS)$/.test(tag)) continue;
+      if (cls.includes('lt-flash-box') && !caixa) { memorizar(L, [...n.querySelectorAll('.lt-fc')].map((b) => [b.querySelector('.fr'), b.querySelector('.vs')]).filter((x) => x[0] && x[1])); continue; }
       if (cls.some((c) => /^lt-(flash|flash-box|fc|pegtreino|quiz|q|charge)$/.test(c))) continue;
-      const cx = cls.map((c) => CAIXAS[c]).find(Boolean);
-      if (cx && !caixa) {
-        espaco(14); espaco(18, cx);
-        const tit = n.querySelector(':scope > .lt-tit, :scope > .art-cab');
-        if (tit) paragrafo(trechos(tit, { neg: true, cor: cx.titulo }), { caixa: cx, tam: 25, antes: 0, depois: 6, keep: 2 });
-        const copia = n.cloneNode(true); copia.querySelector(':scope > .lt-tit, :scope > .art-cab')?.remove();
-        bloco(copia, cx, 0);
-        espaco(18, cx); espaco(14);
+      if (cls.includes('lt-pegs') && !caixa) {
+        const its = [...n.querySelectorAll('li')].map((li) => [li.querySelector('.banca'), li.querySelector('.certo')]).filter((x) => x[0] && x[1]);
+        caixaRes(L, { ...RES.peg, rot: 'PEGADINHAS MAIS COBRADAS' }, its.map(([b, c]) => [{ t: 'Banca: ', neg: true, cor: '#C0392B' }, ...trechos(b).map((r) => ({ ...r, neg: false, cor: COR.txt2 })), { t: '\n' }, { t: 'Certo: ', neg: true, cor: '#2B6A1F' }, ...trechos(c)]));
         continue;
       }
-      if (/^H[1-4]$/.test(tag)) { paragrafo(trechos(n, { neg: true, cor: COR.txt }), { tam: tag === 'H2' ? 36 : 32, caixa, antes: 26, depois: 10, keep: 4, barra: !caixa }); continue; }
+      const tipo = cls.map((c) => TIPO_CAIXA[c]).find(Boolean);
+      if (tipo && !caixa) {
+        const cx = RES[tipo[0]];
+        const titEl = n.querySelector(':scope > .lt-tit, :scope > .art-cab');
+        const titTxt = limpa(titEl ? titEl.textContent : '').replace(/^[^A-Za-zÀ-ÿ0-9]+/, '').trim();
+        const rot = (tipo[1] && (!titTxt || tipo[2]) ? tipo[1] + (tipo[2] && titTxt ? ' · ' + titTxt : '') : titTxt || tipo[1]).toUpperCase();
+        L.push({ h: 12 }, { h: 12, caixa: cx, keep: 3 });
+        quebrar([{ t: rot, neg: true, cor: cx.titulo }], LARG - 56, 18).forEach((ln, k) => L.push({ h: 30, caixa: cx, segs: ln, tam: 18, recuo: 32, keep: k === 0 ? 2 : 0 }));
+        const copia = n.cloneNode(true); copia.querySelector(':scope > .lt-tit, :scope > .art-cab')?.remove();
+        copia.querySelectorAll('summary').forEach((x) => (x.textContent = 'Solução comentada'));
+        if (copia.querySelector('p,ul,ol,table,div,details,h1,h2,h3,h4')) bloco(copia, cx, 0); else paragrafo(trechos(copia), { caixa: cx, antes: 0, depois: 4, tam: 24 });
+        espaco(14, cx); espaco(12);
+        continue;
+      }
+      if (/^H[1-4]$/.test(tag)) { if (caixa) { paragrafo(trechos(n, { neg: true, cor: COR.txt }), { tam: 25, caixa }); continue; } espaco(18); const cx = { bg: tingir(corAtual), barra: corAtual }; espaco(10, cx); paragrafo(trechos(n, { neg: true, cor: '#1b1d21' }).map((r) => ({ ...r, cor: '#1b1d21' })), { tam: 29, caixa: cx, antes: 0, depois: 0, keep: 4 }); espaco(10, cx); espaco(8); continue; }
       if (tag === 'P' || tag === 'SUMMARY' || tag === 'BLOCKQUOTE') { paragrafo(trechos(n, tag === 'SUMMARY' ? { neg: true, cor: '#2E6B22' } : {}), { caixa, recuo }); continue; }
       if (tag === 'UL' || tag === 'OL') {
         [...n.children].forEach((li, i) => {
@@ -132,11 +129,7 @@ function montar(raiz) {
         espaco(6, caixa); continue;
       }
       if (tag === 'TABLE') { tabela(n, caixa); continue; }
-      if (cls.includes('lt-stats')) {
-        [...n.querySelectorAll('.lt-stat')].forEach((s) => { const v = s.querySelector('b'), d = s.cloneNode(true); d.querySelector('b')?.remove();
-          paragrafo([{ t: (v?.textContent || '').trim() + ' — ', neg: true, cor: COR.dest }, { t: d.textContent.trim() }], { caixa, recuo, marcador: '•', antes: 2, depois: 4 }); });
-        espaco(8, caixa); continue;
-      }
+      if (cls.includes('lt-stats')) { cartoes(L, [...n.querySelectorAll('.lt-stat')].map((x) => ({ n: (x.querySelector('b')?.textContent || '').trim(), t: (x.querySelector('span')?.textContent || '').trim() }))); continue; }
       if (tag === 'DETAILS') { bloco(n, caixa, recuo); continue; }
       if (/^(DIV|SECTION|ARTICLE|ASIDE|DL|DD|DT|SPAN|LABEL|CENTER)$/.test(tag)) {
         const temBloco = n.querySelector('p,ul,ol,table,div,h1,h2,h3,h4,details');
@@ -151,15 +144,15 @@ function montar(raiz) {
 }
 
 // ---------- paginação ----------
-function paginar(L) {
-  const pags = []; let atual = [], y = TOPO;
+function paginar(L, topo1 = TOPO) {
+  const pags = []; let atual = [], y = topo1;
   const nova = () => { pags.push(atual); atual = []; y = TOPO; };
   for (let i = 0; i < L.length; i++) {
     const ln = L[i];
     if (ln.quebra) { if (atual.length) nova(); continue; }
     let precisa = ln.h; if (ln.keep) for (let k = 1; k <= ln.keep && L[i + k]; k++) precisa += L[i + k].h;
     if (y + Math.min(precisa, BASE - TOPO) > BASE && atual.length) nova();
-    if (!atual.length && !ln.segs && !ln.tabela && !ln.caixa) continue; // não começa página com espaço vazio
+    if (!atual.length && !ln.segs && !ln.tabela && !ln.caixa && !ln.faixa && !ln.chips) continue; // não começa página com espaço vazio
     atual.push({ ...ln, y }); y += ln.h;
   }
   if (atual.length) pags.push(atual);
@@ -187,6 +180,9 @@ function desenharLinhas(pg, linhas) {
   for (const ln of linhas) {
     if (ln.caixa) { pg.ret(MX, ln.y, LARG, ln.h, ln.caixa.bg); pg.ret(MX, ln.y, 8, ln.h, ln.caixa.barra); }
     if (ln.regua) { pg.ret(MX, ln.y, LARG, 5, COR.ouro); continue; }
+    if (ln.regua2) { pg.ret(MX, ln.y, LARG, 1.5, '#e3e5e9'); continue; }
+    if (ln.faixa) { const f = ln.faixa; pg.ret(MX, ln.y + 6, LARG, ln.h - 12, f.cor); pg.ret(MX, ln.y + 6, 76, ln.h - 12, f.escura || '#000000'); if (f.num != null) pg.texto(String(f.num).padStart(2, '0'), MX + 38, ln.y + ln.h / 2 + 11, 30, { neg: true, cor: '#ffffff', alinha: 'center' }); const y0 = ln.y + ln.h / 2 - (f.linhas.length - 1) * 17 + 10; f.linhas.forEach((t, k) => pg.texto(t, MX + 96, y0 + k * 34, 27, { neg: true, cor: '#ffffff' })); continue; }
+    if (ln.chips) { const n = ln.chips.length, gap = 14, w = (LARG - gap * (n - 1)) / n; ln.chips.forEach((c, k) => { const x = MX + k * (w + gap); pg.ret(x, ln.y + 4, w, ln.h - 12, c.bg); pg.ret(x, ln.y + 4, w, 5, c.cor); pg.texto(corta(c.n, w - 24, 30, true), x + 14, ln.y + 46, 30, { neg: true, cor: c.cor }); c.linhas.forEach((l2, j) => pg.texto(l2, x + 14, ln.y + 76 + j * 26, 19, { cor: COR.txt })); }); continue; }
     if (ln.tabela) {
       const { cels, cw, cab } = ln.tabela, x0 = MX + (ln.caixa ? 28 : 0);
       if (cab) pg.ret(x0, ln.y, cw * cels.length, ln.h, COR.ouro);
@@ -214,31 +210,6 @@ function moldura(pg, p, total, info, logo) {
   pg.texto(`Página ${p} de ${total}`, PW - MX, BASE + 76, 18, { neg: true, cor: '#7a808a', alinha: 'right' });
 }
 
-function capa(ctx, info, logo) {
-  const g = ctx.createLinearGradient(0, 0, PW, PH); g.addColorStop(0, '#0f1220'); g.addColorStop(0.55, '#171c2e'); g.addColorStop(1, '#0b0d14');
-  ctx.fillStyle = g; ctx.fillRect(0, 0, PW, PH);
-  ctx.strokeStyle = 'rgba(233,196,106,.25)'; ctx.lineWidth = 3; for (const r of [300, 380, 470]) { ctx.beginPath(); ctx.arc(PW - 60, 120, r, 0, Math.PI * 2); ctx.stroke(); }
-  // logo sobre placa clara
-  const lw = 360, lh = (logo.height / logo.width) * lw;
-  ctx.fillStyle = '#fff'; ctx.beginPath(); ctx.roundRect ? ctx.roundRect(MX - 12, 100, lw + 24, lh + 24, 22) : ctx.rect(MX - 12, 100, lw + 24, lh + 24); ctx.fill();
-  ctx.imageSmoothingQuality = 'high'; ctx.drawImage(logo, MX, 112, lw, lh);
-  let y = 760;
-  ctx.fillStyle = '#E9C46A'; ctx.fillRect(MX, y - 60, 150, 10);
-  ctx.font = fonte(26, true); ctx.fillStyle = '#E9C46A'; ctx.fillText(info.sup.toUpperCase(), MX, y);
-  y += 30;
-  for (const ln of quebrar([{ t: info.materia, neg: true }], LARG, 76, '#fff', SERIF).slice(0, 3)) { y += 92; ln.forEach((s) => { ctx.font = s.f; ctx.fillStyle = '#fff'; ctx.fillText(s.t, MX + s.x, y); }); }
-  y += 30;
-  for (const ln of quebrar([{ t: info.topico }], LARG, 46, '#E9E4D8', FONTE).slice(0, 4)) { y += 62; ln.forEach((s) => { ctx.font = s.f; ctx.fillStyle = '#E9E4D8'; ctx.fillText(s.t, MX + s.x, y); }); }
-  if (info.arts) { y += 50; ctx.font = fonte(26); ctx.fillStyle = '#b9b4a8'; ctx.fillText(info.arts.slice(0, 80), MX, y); }
-  // quadro de informações
-  const qy = 1350, qh = 130; ctx.fillStyle = 'rgba(255,255,255,.07)'; ctx.fillRect(MX, qy, LARG, qh); ctx.strokeStyle = 'rgba(255,255,255,.15)'; ctx.lineWidth = 2; ctx.strokeRect(MX, qy, LARG, qh);
-  const campo = (rot, val, x, yy) => { ctx.font = fonte(20, true); ctx.fillStyle = '#b9b4a8'; ctx.fillText(rot.toUpperCase(), x, yy); ctx.font = fonte(30, true); ctx.fillStyle = '#fff'; ctx.fillText(val, x, yy + 40); };
-  const c3 = LARG / 3;
-  campo('Emitido em', info.data, MX + 30, qy + 56); campo('Leitura', info.min ? `cerca de ${info.min} min` : '—', MX + c3 + 20, qy + 56); campo('Questões', info.nq ? `${info.nq} com gabarito` : '—', MX + 2 * c3 + 10, qy + 56);
-  ctx.font = fonte(20); ctx.fillStyle = '#9d988c';
-  ctx.fillText('PROJETO R.I.S.K. · material de estudo', MX, 1620);
-}
-
 // ---------- montagem do arquivo PDF ----------
 async function comprime(txt) {
   const bytes = new TextEncoder().encode(txt);
@@ -251,16 +222,16 @@ async function montaPdf(capaJpg, logo, paginas) {
   const put = (x) => { const b = typeof x === 'string' ? enc.encode(x) : x; partes.push(b); tam += b.length; };
   const obj = (i, corpo, stream) => { offs[i] = tam; put(`${i} 0 obj\n${corpo}\n`); if (stream) { put('stream\n'); put(stream); put('\nendstream\n'); } put('endobj\n'); };
   put('%PDF-1.4\n%\xE2\xE3\xCF\xD3\n');
-  const W = '595.28', H = '841.89', nP = paginas.length + 1, P0 = 10;
+  const W = '595.28', H = '841.89', nP = paginas.length + (capaJpg ? 1 : 0), P0 = 10;
   const kids = Array.from({ length: nP }, (_, k) => `${P0 + k * 2} 0 R`).join(' ');
   obj(1, '<< /Type /Catalog /Pages 2 0 R >>');
   obj(2, `<< /Type /Pages /Kids [${kids}] /Count ${nP} >>`);
   obj(3, '<< /Producer (PROJETO R.I.S.K.) /Creator (PROJETO R.I.S.K.) >>');
   ['Helvetica', 'Helvetica-Bold', 'Helvetica-Oblique', 'Helvetica-BoldOblique'].forEach((f, i) => obj(4 + i, `<< /Type /Font /Subtype /Type1 /BaseFont /${f} /Encoding /WinAnsiEncoding >>`));
   obj(8, `<< /Type /XObject /Subtype /Image /Width ${logo.w} /Height ${logo.h} /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length ${logo.jpg.length} >>`, logo.jpg);
-  obj(9, `<< /Type /XObject /Subtype /Image /Width ${capaJpg.w} /Height ${capaJpg.h} /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length ${capaJpg.jpg.length} >>`, capaJpg.jpg);
-  const recursos = '<< /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> /XObject << /Lg 8 0 R /Cv 9 0 R >> >>';
-  const fluxos = [`q ${W} 0 0 ${H} 0 0 cm /Cv Do Q`, ...paginas.map((p) => p.conteudo)];
+  if (capaJpg) obj(9, `<< /Type /XObject /Subtype /Image /Width ${capaJpg.w} /Height ${capaJpg.h} /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length ${capaJpg.jpg.length} >>`, capaJpg.jpg);
+  const recursos = `<< /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> /XObject << /Lg 8 0 R${capaJpg ? ' /Cv 9 0 R' : ''} >> >>`;
+  const fluxos = [...(capaJpg ? [`q ${W} 0 0 ${H} 0 0 cm /Cv Do Q`] : []), ...paginas.map((p) => p.conteudo)];
   for (let k = 0; k < nP; k++) {
     const p = P0 + k * 2, { dados, filtro } = await comprime(fluxos[k]);
     obj(p, `<< /Type /Page /Parent 2 0 R /MediaBox [0 0 ${W} ${H}] /Resources ${recursos} /Contents ${p + 1} 0 R >>`);
@@ -275,129 +246,177 @@ async function montaPdf(capaJpg, logo, paginas) {
 const jpeg = (cv, q = 0.9) => new Promise((ok) => cv.toBlob(async (b) => ok(new Uint8Array(await b.arrayBuffer())), 'image/jpeg', q));
 const espera = () => new Promise((r) => setTimeout(r, 0));
 
+// ---------- estilo dos quadros (mesma estética em todos os PDFs) ----------
+const RES = {
+  stats: { bg: '#EAF2FB', barra: '#2F6FB0', titulo: '#1F4E80', rot: 'NÚMEROS E PRAZOS QUE CAEM' },
+  bizu: { bg: '#EAF6E6', barra: '#3E8E2F', titulo: '#2B6A1F', rot: 'BIZU · MEMORIZAÇÃO' },
+  peg: { bg: '#FDEDEC', barra: '#C0392B', titulo: '#962D22', rot: 'PEGADINHA' },
+  jur: { bg: '#F2EEFA', barra: '#7B5EA7', titulo: '#5B3F8A', rot: 'JURISPRUDÊNCIA' },
+  lei: { bg: '#E8F4F6', barra: '#2C8FA3', titulo: '#1F6F80', rot: 'LEI SECA' },
+  caso: { bg: '#FFF4E5', barra: '#E08A1E', titulo: '#9A5A0B', rot: 'CASO PRÁTICO' },
+  banca: { bg: '#FFF8E1', barra: '#C8902A', titulo: '#8A6210', rot: 'COMO A BANCA COBRA' },
+  chave: { bg: '#F4F4F2', barra: '#8A8F98', titulo: '#4A4F58', rot: 'EXEMPLO' },
+};
+// classe do quadro -> [estilo, rótulo, junta o título próprio ao rótulo?]
+const TIPO_CAIXA = {
+  'lt-dica': ['bizu', 'Bizu · memorização'], 'lt-peg': ['peg', 'Pegadinha'], 'lt-jc': ['jur', 'Jurisprudência'], 'lt-juris': ['jur', 'Jurisprudência'],
+  'lt-art': ['lei', 'Lei seca', true], 'lt-caso': ['caso', '', false], 'lt-box': ['banca', ''], 'lt-ex': ['chave', 'Exemplo'], 'lt-calc': ['chave', ''],
+  'lt-fluxo': ['chave', 'Fluxo'], 'lt-barras': ['stats', ''], 'lt-verdade': ['chave', 'Tabela-verdade'],
+};
+let corAtual = COR.ouro;
+const mistura = (h, alvo, f) => { let x = String(h).replace('#', ''); if (x.length === 3) x = [...x].map((c) => c + c).join(''); return '#' + [0, 2, 4].map((i, k) => Math.round(parseInt(x.slice(i, i + 2), 16) * (1 - f) + alvo[k] * f).toString(16).padStart(2, '0')).join(''); };
+const tingir = (h) => mistura(h, [255, 255, 255], 0.88);
+const escurecer = (h) => mistura(h, [0, 0, 0], 0.3);
+const linhasDe = (t, larg, tam) => quebrar([{ t }], larg, tam).map((l) => l.map((x) => x.t).join(''));
+const esc2 = (t) => String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;');
+
+// cartões azuis com os números que caem (3 por linha)
+function cartoes(L, st) {
+  st = st.filter((x) => x.n); if (!st.length) return;
+  L.push({ h: 10 }); L.push({ h: 28, segs: quebrar([{ t: RES.stats.rot, neg: true, cor: RES.stats.titulo }], LARG, 18)[0], tam: 18, recuo: 0, keep: 1 });
+  for (let k = 0; k < st.length; k += 3) {
+    const w = (LARG - 28) / 3 - 28;
+    const chips = st.slice(k, k + 3).map((c) => ({ n: c.n, linhas: linhasDe(c.t, w, 19).slice(0, 5), cor: RES.stats.barra, bg: RES.stats.bg }));
+    const nl = Math.max(...chips.map((c) => c.linhas.length));
+    while (chips.length < 3) chips.push({ n: '', linhas: [], cor: '#ffffff', bg: '#ffffff' });
+    L.push({ h: 66 + nl * 26, chips });
+  }
+  L.push({ h: 6 });
+}
+// tabela dourada "Memorize" a partir dos flashcards
+function memorizar(L, pares) {
+  if (!pares.length) return;
+  const d = document.createElement('div');
+  d.innerHTML = `<table><tr><th>Memorize</th><th>Resposta</th></tr>${pares.map(([f, v]) => `<tr><td>${esc2(f.textContent.trim())}</td><td><b>${esc2(v.textContent.trim())}</b></td></tr>`).join('')}</table>`;
+  L.push({ h: 8 }); L.push(...montar(d));
+}
+// quadro colorido com rótulo e itens
+function caixaRes(L, cx, itens, { marcador = '•' } = {}) {
+  if (!itens.length) return;
+  const tam = 22, lh = 33, larg = LARG - 56 - (marcador ? 30 : 0);
+  L.push({ h: 12 }); L.push({ h: 12, caixa: cx, keep: 3 });
+  L.push({ h: 30, caixa: cx, segs: quebrar([{ t: cx.rot, neg: true, cor: cx.titulo }], LARG - 56, 18)[0], tam: 18, recuo: 32, keep: 2 });
+  itens.forEach((ts, k) => {
+    quebrar(ts, larg, tam).forEach((ln, j) => L.push({ h: lh, caixa: cx, segs: ln, tam, recuo: 32 + (marcador ? 30 : 0), marcador: j === 0 ? marcador : '', keep: j === 0 && k === 0 ? 1 : 0 }));
+    L.push({ h: 8, caixa: cx });
+  });
+  L.push({ h: 8, caixa: cx }); L.push({ h: 6 });
+}
+const faixaDe = (titulo, num, cor) => { const ls = linhasDe(titulo, LARG - 120, 27).slice(0, 3); return { h: 40 + ls.length * 34, faixa: { cor, escura: escurecer(cor), num, linhas: ls }, keep: 3 }; };
+
 // ---------- conteúdo de um tópico (texto, leitura complementar, questões e gabarito) ----------
 const palavras = (h) => String(h || '').replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
 const questoesDe = (a) => (a.quiz || []).filter((q) => q && q.p);
-function tituloGrande(L, t, extra = {}) { quebrar([{ t, neg: true }], LARG, 44, COR.txt).forEach((ln, k) => L.push({ h: 62, segs: ln, tam: 44, recuo: 0, keep: 3, ...(k === 0 ? extra : {}) })); L.push({ h: 10, regua: true }); L.push({ h: 16 }); }
 function textoHtml(L, html) {
   const raiz = document.createElement('div'); raiz.innerHTML = String(html || '').replace(/<script[\s\S]*?<\/script>/gi, '');
-  raiz.querySelectorAll('.lt-flash-box, .lt-flash, .lt-pegtreino, button, .lt-q, .lt-quiz, input, select, .lt-charge').forEach((e) => e.remove());
+  raiz.querySelectorAll('.lt-pegtreino, .lt-q, .lt-quiz, input, select, .lt-charge, .rd-ex').forEach((e) => e.remove());
+  raiz.querySelectorAll('button:not(.lt-fc)').forEach((e) => e.remove());
   L.push(...montar(raiz));
 }
-function adicionarTopico(L, a, { comQuestoes = true, titulo = null, marca = null } = {}) {
-  if (titulo) { L.push({ quebra: true, h: 0 }); tituloGrande(L, titulo, marca != null ? { marca } : {}); if (a.arts) L.push({ h: 34, segs: quebrar([{ t: a.arts, ita: true, cor: COR.txt2 }], LARG, 22)[0], tam: 22, recuo: 0 }, { h: 14 }); }
+function adicionarTopico(L, a, { comQuestoes = true, num = null, marca = null, cor = COR.ouro, quebraAntes = false } = {}) {
+  corAtual = cor;
+  if (quebraAntes) L.push({ quebra: true, h: 0 });
+  L.push({ ...faixaDe(a.titulo, num, cor), ...(marca != null ? { marca } : {}) });
+  if (a.arts) L.push({ h: 34, segs: quebrar([{ t: a.arts, ita: true, cor: COR.txt2 }], LARG, 21)[0], tam: 21, recuo: 0 }, { h: 8 });
   textoHtml(L, a.html);
-  if (a.aprof) { L.push({ h: 20 }); tituloGrande(L, 'Leitura complementar'); textoHtml(L, a.aprof); }
+  if (a.aprof) { L.push({ h: 16 }, faixaDe('Leitura complementar', null, escurecer(cor))); textoHtml(L, a.aprof); }
   const questoes = questoesDe(a);
   if (!comQuestoes || !questoes.length) return;
-  L.push({ quebra: true, h: 0 });
-  tituloGrande(L, titulo ? `Questões · ${titulo}` : 'Questões');
+  L.push({ quebra: true, h: 0 }, faixaDe(`Questões · ${a.titulo}`, null, '#2b2f3a'), { h: 12 });
   const d = document.createElement('div');
   questoes.forEach((q, i) => {
     d.innerHTML = q.p;
-    const ts = [{ t: `${i + 1}. `, neg: true, cor: COR.dest }, ...(q.alts ? [{ t: '[Múltipla escolha] ', neg: true, cor: COR.txt2 }] : []), ...trechos(d)];
-    const ls = quebrar(ts, LARG, 25);
-    ls.forEach((ln, k) => L.push({ h: 38, segs: ln, tam: 25, recuo: 0, keep: k === 0 ? Math.min(3, ls.length) : 0 }));
-    if (q.alts) q.alts.forEach((x, j) => { d.innerHTML = x; quebrar([{ t: `${'ABCDE'[j]}) `, neg: true }, ...trechos(d)], LARG - 40, 24).forEach((ln) => L.push({ h: 36, segs: ln, tam: 24, recuo: 40 })); });
-    else L.push({ h: 36, segs: quebrar([{ t: '(   ) Certo        (   ) Errado', cor: COR.txt2 }], LARG, 23)[0], tam: 23, recuo: 0 });
-    L.push({ h: 26 });
+    const ts = [{ t: `${i + 1}. `, neg: true, cor: cor }, ...(q.alts ? [{ t: '[Múltipla escolha] ', neg: true, cor: COR.txt2 }] : []), ...trechos(d).map((r) => ({ ...r, cor: r.cor === COR.dest ? COR.txt : r.cor }))];
+    const ls = quebrar(ts, LARG, 24);
+    ls.forEach((ln, k) => L.push({ h: 36, segs: ln, tam: 24, recuo: 0, keep: k === 0 ? Math.min(3, ls.length) : 0 }));
+    if (q.alts) q.alts.forEach((x, j) => { d.innerHTML = x; quebrar([{ t: `${'ABCDE'[j]}) `, neg: true }, ...trechos(d)], LARG - 40, 23).forEach((ln) => L.push({ h: 34, segs: ln, tam: 23, recuo: 40 })); });
+    else L.push({ h: 34, segs: quebrar([{ t: '(   ) Certo        (   ) Errado', cor: COR.txt2 }], LARG, 22)[0], tam: 22, recuo: 0 });
+    L.push({ h: 20 });
   });
-  L.push({ quebra: true, h: 0 });
-  tituloGrande(L, titulo ? `Gabarito comentado · ${titulo}` : 'Gabarito comentado');
+  L.push({ quebra: true, h: 0 }, faixaDe(`Gabarito comentado · ${a.titulo}`, null, '#2E6B22'), { h: 12 });
   const resp = (q) => (q.alts ? 'ABCDE'[q.r ?? 0] : q.c ? 'C' : 'E');
-  for (let i = 0; i < questoes.length; i += 10) {
-    const ts = []; for (let k = i; k < Math.min(i + 10, questoes.length); k++) ts.push({ t: `${k + 1}-`, cor: COR.txt2 }, { t: `${resp(questoes[k])}     `, neg: true, cor: COR.dest });
-    L.push({ h: 40, segs: quebrar(ts, LARG, 24)[0], tam: 24, recuo: 0 });
-  }
-  L.push({ h: 24 });
+  const linhasGab = [];
+  for (let i = 0; i < questoes.length; i += 10) { const ts = []; for (let k = i; k < Math.min(i + 10, questoes.length); k++) ts.push({ t: `${k + 1}-`, cor: COR.txt2 }, { t: `${resp(questoes[k])}     `, neg: true, cor: '#2B6A1F' }); linhasGab.push(ts); }
+  caixaRes(L, { ...RES.bizu, rot: 'GABARITO' }, linhasGab, { marcador: '' });
   questoes.forEach((q, i) => {
     d.innerHTML = (q.alts ? q.n?.[q.r ?? 0] : q.x) || ''; let com = d.textContent.trim();
     if (/^literal\.?$/i.test(com)) com = 'Reproduz o texto da norma.';
     d.innerHTML = (q.alts ? q.x : q.prof || q.t) || ''; const fonteQ = d.textContent.trim();
-    const ts = [{ t: `${i + 1}. ${q.alts ? 'Letra ' + resp(q) : q.c ? 'Certo' : 'Errado'}. `, neg: true, cor: COR.dest }, { t: com }, ...(fonteQ ? [{ t: ` (${fonteQ})`, ita: true, cor: COR.txt2 }] : [])];
+    const ok = q.alts ? true : q.c;
+    const ts = [{ t: `${i + 1}. ${q.alts ? 'Letra ' + resp(q) : q.c ? 'Certo' : 'Errado'}. `, neg: true, cor: ok ? '#2B6A1F' : '#C0392B' }, { t: com }, ...(fonteQ ? [{ t: ` (${fonteQ})`, ita: true, cor: COR.txt2 }] : [])];
     quebrar(ts, LARG, 22).forEach((ln, k) => L.push({ h: 33, segs: ln, tam: 22, recuo: 0, keep: k === 0 ? 1 : 0 }));
     L.push({ h: 8 });
   });
 }
 
-// ---------- montagem final: capa, sumário (opcional), páginas e arquivo ----------
-async function gerar({ info, L, sumario = null, nome, aviso }) {
-  try { await document.fonts?.load(fonte(26, true)); await document.fonts?.load(fonte(26)); await document.fonts?.load(fonte(80, true, false, SERIF)); } catch {}
+// ---------- primeira página com cabeçalho escuro (no lugar da capa) ----------
+function cabecalho(pg, info, logo, cor) {
+  const tit = linhasDe(info.titulo, LARG - 210, 42).slice(0, 4), alt = Math.max(360, 190 + tit.length * 50 + 120);
+  pg.ret(0, 0, PW, alt, '#12151f'); pg.ret(0, alt - 8, PW, 8, cor);
+  pg.ret(MX - 10, 60, 170, 170 * logo.h / logo.w + 20, '#ffffff'); pg.imagem('Lg', MX, 70, 150, 150 * logo.h / logo.w);
+  pg.texto(corta(info.rotulo.toUpperCase(), LARG - 210, 21, true), MX + 200, 100, 21, { neg: true, cor: '#E9C46A' });
+  tit.forEach((t, k) => pg.texto(t, MX + 200, 156 + k * 50, 42, { neg: true, cor: '#ffffff' }));
+  pg.texto(corta(info.sub, LARG - 210, 20, false), MX + 200, 156 + tit.length * 50 + 6, 20, { cor: '#C9CED8' });
+  const leg = [['Números', RES.stats.barra], ['Bizu', RES.bizu.barra], ['Memorize', COR.ouro], ['Pegadinha', RES.peg.barra], ['Lei seca', RES.lei.barra], ['Jurisprudência', RES.jur.barra], ['Caso', RES.caso.barra]];
+  let x = MX; const yl = alt - 46; leg.forEach(([t, c]) => { pg.ret(x, yl - 14, 15, 15, c); pg.texto(t, x + 22, yl, 17, { cor: '#E6E8EE' }); x += 22 + largura(t, 17, false) + 22; });
+  return alt + 40;
+}
+async function logoPdf() {
   const logo = new Image(); logo.src = 'img/logo-claro.webp'; await logo.decode();
-  const pags = paginar(L);
-  // sumário: páginas logo depois da capa, com a página de início de cada tópico
-  let sumPags = [];
-  if (sumario) {
-    const POR = 26, nSum = Math.ceil(sumario.length / POR);
-    const inicio = new Map(); pags.forEach((pg, i) => pg.forEach((ln) => { if (ln.marca != null && !inicio.has(ln.marca)) inicio.set(ln.marca, i); }));
-    for (let s0 = 0; s0 < sumario.length; s0 += POR) {
-      const pl = []; let y = TOPO;
-      if (s0 === 0) { pl.push({ y, h: 62, segs: quebrar([{ t: 'Sumário', neg: true }], LARG, 44)[0], tam: 44 }); y += 62; pl.push({ y, h: 10, regua: true }); y += 30; }
-      sumario.slice(s0, s0 + POR).forEach((t, k) => {
-        const idx = s0 + k, pagina = (inicio.get(idx) ?? 0) + 2 + nSum;
-        const num = `${idx + 1}.`, larg = LARG - 120;
-        const linha = quebrar([{ t: num + ' ', neg: true, cor: COR.dest }, { t }], larg, 24)[0] || [];
-        pl.push({ y, h: 50, segs: linha, tam: 24, sumPag: String(pagina) }); y += 50;
-      });
-      sumPags.push(pl);
-    }
-  }
-  const total = 1 + sumPags.length + pags.length;
-  aviso('Desenhando a capa…');
-  const cv = document.createElement('canvas'); cv.width = PW * 2; cv.height = PH * 2; const ctx = cv.getContext('2d');
-  ctx.scale(2, 2); ctx.textBaseline = 'alphabetic';
-  capa(ctx, info, logo);
-  const capaJpg = { jpg: await jpeg(cv, 0.9), w: cv.width, h: cv.height };
   const lc = document.createElement('canvas'); lc.width = logo.naturalWidth; lc.height = logo.naturalHeight; const lx = lc.getContext('2d');
   lx.fillStyle = '#fff'; lx.fillRect(0, 0, lc.width, lc.height); lx.drawImage(logo, 0, 0);
-  const logoJpg = { jpg: await jpeg(lc, 0.95), w: lc.width, h: lc.height };
-  const paginas = [];
-  sumPags.forEach((pl, i) => { const pg = new Pagina(); desenharLinhas(pg, pl); pl.forEach((ln) => ln.sumPag && pg.texto(ln.sumPag, PW - MX, ln.y + Math.round(24 * 1.15), 24, { neg: true, alinha: 'right' })); moldura(pg, i + 2, total, { ...info, rodape: 'Sumário' }, logoJpg); paginas.push(pg); });
-  let atual = info.rodape;
+  return { jpg: await jpeg(lc, 0.95), w: lc.width, h: lc.height };
+}
+async function gerar({ info, L, cor, titulos = null, nome, aviso }) {
+  const logoJpg = await logoPdf();
+  const pg0 = new Pagina(), topo1 = cabecalho(pg0, info, logoJpg, cor);
+  const pags = paginar(L, topo1), total = pags.length;
+  const inicio = new Map(); pags.forEach((pgL, i) => pgL.forEach((ln) => { if (ln.marca != null && !inicio.has(ln.marca)) inicio.set(ln.marca, i + 1); }));
+  const paginas = []; let atual = info.rodape;
   for (let i = 0; i < pags.length; i++) {
-    if (i % 5 === 0) { aviso(`Montando página ${i + 2 + sumPags.length} de ${total}…`); await espera(); }
-    for (const ln of pags[i]) if (ln.marca != null && sumario) atual = sumario[ln.marca];
-    const pg = new Pagina(); desenharLinhas(pg, pags[i]); moldura(pg, i + 2 + sumPags.length, total, { ...info, rodape: atual }, logoJpg); paginas.push(pg);
+    if (i % 5 === 0) { aviso(`Montando página ${i + 1} de ${total}…`); await espera(); }
+    for (const ln of pags[i]) if (ln.marca != null && titulos) atual = titulos[ln.marca];
+    const pg = i === 0 ? pg0 : new Pagina();
+    desenharLinhas(pg, pags[i]);
+    for (const ln of pags[i]) if (ln.sumIdx != null) pg.texto(String(inicio.get(ln.sumIdx) ?? ''), PW - MX, ln.y + Math.round(23 * 1.15), 23, { neg: true, cor, alinha: 'right' });
+    if (i === 0) { pg.ret(MX, BASE + 40, LARG, 2, '#dfe2e6'); pg.texto(corta(info.rodape, LARG - 240, 18, false), MX, BASE + 76, 18, { cor: '#7a808a' }); pg.texto(`Página 1 de ${total}`, PW - MX, BASE + 76, 18, { neg: true, cor: '#7a808a', alinha: 'right' }); }
+    else moldura(pg, i + 1, total, { ...info, rodape: atual }, logoJpg);
+    paginas.push(pg);
   }
   aviso('Salvando…');
-  return { blob: await montaPdf(capaJpg, logoJpg, paginas), nome: nome.replace(/[\\/:*?"<>|]+/g, '').slice(0, 120) + '.pdf', paginas: total };
+  return { blob: await montaPdf(null, logoJpg, paginas), nome: nome.replace(/[\\/:*?"<>|]+/g, '').slice(0, 120) + '.pdf', paginas: total };
 }
 
 // PDF de um tópico
 export async function gerarPdfTopico(mat, a, aviso = () => {}) {
   aviso('Preparando o texto…');
-  const info = {
-    data: new Date().toLocaleDateString('pt-BR'), materia: mat.nome, topico: a.titulo, arts: a.arts || '',
-    sup: 'Conteúdo programático' + (S.edital?.concurso ? ' · ' + S.edital.concurso : ''), rodape: a.titulo, secao: 'Conteúdo programático · PROJETO R.I.S.K.',
-    min: Math.round((palavras(a.html) + palavras(a.aprof)) / 180) || 0, nq: questoesDe(a).length,
-  };
-  const L = []; adicionarTopico(L, a);
-  return gerar({ info, L, nome: `RISK - ${mat.nome} - ${a.titulo}`, aviso });
+  const cor = mat.cor || COR.ouro, num = (mat.assuntos || []).indexOf(a);
+  const min = Math.round((palavras(a.html) + palavras(a.aprof)) / 180) || 0, nq = questoesDe(a).length;
+  const info = { rotulo: `Conteúdo programático · ${mat.nome}`, titulo: a.titulo, sub: [a.arts, min ? `cerca de ${min} min de leitura` : '', nq ? `${nq} questões com gabarito` : '', new Date().toLocaleDateString('pt-BR')].filter(Boolean).join(' · '), materia: mat.nome, secao: 'Conteúdo programático · PROJETO R.I.S.K.', rodape: a.titulo };
+  const L = []; adicionarTopico(L, a, { cor, num: num >= 0 ? num + 1 : null });
+  return gerar({ info, L, cor, nome: `RISK - ${mat.nome} - ${a.titulo}`, aviso });
 }
 
-// Apostila da matéria: capa, sumário e todos os tópicos em sequência (com ou sem as questões de cada tópico)
+// Apostila completa da matéria: sumário na primeira página e todos os tópicos, sem limite de páginas
 export async function gerarApostila(mat, { comQuestoes = false } = {}, aviso = () => {}) {
   aviso('Preparando a apostila…');
-  const ass = mat.assuntos || [];
+  const ass = mat.assuntos || [], cor = mat.cor || COR.ouro;
+  const min = Math.round(ass.reduce((s, a) => s + palavras(a.html) + palavras(a.aprof), 0) / 180) || 0;
   const nq = ass.reduce((s, a) => s + questoesDe(a).length, 0);
-  const info = {
-    data: new Date().toLocaleDateString('pt-BR'), materia: mat.nome, topico: `Apostila completa · ${ass.length} tópicos`, arts: '',
-    sup: 'Apostila' + (S.edital?.concurso ? ' · ' + S.edital.concurso : ''), rodape: mat.nome, secao: 'Apostila · PROJETO R.I.S.K.',
-    min: Math.round(ass.reduce((s, a) => s + palavras(a.html) + palavras(a.aprof), 0) / 180) || 0, nq: comQuestoes ? nq : 0,
-  };
-  const L = [];
+  const info = { rotulo: 'Apostila completa · PROJETO R.I.S.K.', titulo: mat.nome, sub: `${ass.length} tópicos · cerca de ${min} min de leitura${comQuestoes ? ` · ${nq} questões com gabarito` : ''} · ${new Date().toLocaleDateString('pt-BR')}`, materia: mat.nome, secao: 'Apostila · PROJETO R.I.S.K.', rodape: 'Sumário' };
+  const L = [faixaDe('Sumário', null, '#2b2f3a'), { h: 10 }];
+  ass.forEach((a, k) => { const ln = quebrar([{ t: `${String(k + 1).padStart(2, '0')}  `, neg: true, cor }, { t: a.titulo }], LARG - 110, 23)[0] || []; L.push({ h: 44, segs: ln, tam: 23, recuo: 0, sumIdx: k }, { h: 2, regua2: true }); });
   for (let i = 0; i < ass.length; i++) {
     if (i % 3 === 0) { aviso(`Organizando o tópico ${i + 1} de ${ass.length}…`); await espera(); }
-    adicionarTopico(L, ass[i], { comQuestoes, titulo: ass[i].titulo, marca: i });
+    adicionarTopico(L, ass[i], { comQuestoes, num: i + 1, marca: i, cor, quebraAntes: true });
   }
-  return gerar({ info, L, sumario: ass.map((a) => a.titulo), nome: `RISK - Apostila - ${mat.nome}`, aviso });
+  return gerar({ info, L, cor, titulos: ass.map((a) => a.titulo), nome: `RISK - Apostila - ${mat.nome}`, aviso });
 }
 
-export async function baixarApostila(mat, opcoes, aviso) { baixar(await gerarApostila(mat, opcoes, aviso)); }
 function baixar({ blob, nome }) {
   const url = URL.createObjectURL(blob), link = document.createElement('a');
   link.href = url; link.download = nome; document.body.appendChild(link); link.click(); link.remove();
   setTimeout(() => URL.revokeObjectURL(url), 30000);
 }
-
 export async function baixarPdfTopico(mat, a, aviso) { baixar(await gerarPdfTopico(mat, a, aviso)); }
+export async function baixarApostila(mat, opcoes, aviso) { baixar(await gerarApostila(mat, opcoes, aviso)); }
