@@ -33,7 +33,8 @@ export function extrair(mats) {
 }
 
 export async function render(el, q) {
-  const mats = visiveis();
+  // Línguas estrangeiras não entram no treino de pegadinhas
+  const mats = visiveis().filter((m) => m.id !== 'lingua-estrangeira');
   const { pares, dicas } = extrair(mats);
   const porMat = new Map();
   for (const p of pares) porMat.set(p.mid, (porMat.get(p.mid) || 0) + 1);

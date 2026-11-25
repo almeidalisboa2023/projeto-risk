@@ -913,3 +913,16 @@ alter table public.editais add column if not exists plano jsonb;
 
 -- Tempo previsto de cada bloco do calendário (em minutos)
 alter table public.tarefas add column if not exists previsto int;
+
+-- Atualização 24: marcas de "precisa de atualização" (só administrador)
+create table if not exists public.conteudo_revisao (
+  id uuid primary key default gen_random_uuid(),
+  materia text not null,
+  assunto text,
+  nota text,
+  criado_em timestamptz default now()
+);
+alter table public.conteudo_revisao enable row level security;
+drop policy if exists "conteudo revisao admin" on public.conteudo_revisao;
+create policy "conteudo revisao admin" on public.conteudo_revisao for all
+  using (public.is_admin()) with check (public.is_admin());

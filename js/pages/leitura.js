@@ -34,9 +34,34 @@ let fonte = ler('risk-fonte', 17);
 
 const POR_PAG = 10;
 
+// ---------- Situação do conteúdo: verde (completo), vermelho (falta), amarelo (precisa atualizar, só admin) ----------
+// Tópico completo = cerca de 1 hora de leitura (55 min ou mais) e 100 questões ou mais
+const topicoCompleto = (a) => minutosLeitura(a.html + (a.aprof || ''), 0) >= 55 && (a.quiz || []).length >= 100;
+const materiaCompleta = (m) => m.assuntos.length > 0 && m.assuntos.every(topicoCompleto);
+let REV = null; // { 'materia' ou 'materia/assunto': [motivos] }
+async function carregarRevisoes(mats) {
+  if (!isAdmin()) return (REV = {});
+  const r = {};
+  const add = (k, motivo) => (r[k] = r[k] || []).push(motivo);
+  try { for (const x of await db.select('conteudo_revisao', {})) add(x.assunto ? x.materia + '/' + x.assunto : x.materia, x.nota || 'Marcado pelo administrador'); } catch {}
+  try {
+    const rep = (await db.select('reportes', { resolvido: 'eq.false', limit: 500 })).filter((x) => /^\[Leitura · /.test(x.texto || ''));
+    for (const x of rep) { const mm = /^\[Leitura · (.+?) › (.+?)\]/.exec(x.texto); if (!mm) continue;
+      const m = mats.find((y) => y.nome === mm[1]); const a = m?.assuntos.find((y) => y.titulo === mm[2]);
+      if (m && a) add(m.id + '/' + a.id, 'Erro reportado por aluno'); }
+  } catch {}
+  return (REV = r);
+}
+const precisaAtualizar = (m, a) => isAdmin() && REV && (a ? !!REV[m.id + '/' + a.id] : (!!REV[m.id] || m.assuntos.some((x) => REV[m.id + '/' + x.id])));
+const bolas = (m, a) => {
+  const ok = a ? topicoCompleto(a) : materiaCompleta(m);
+  return `<span class="st-bola ${ok ? 'verde' : 'vermelha'}" title="${ok ? 'Completo (≈1 h de leitura e 100+ questões)' : 'Ainda não está completo'}"></span>${precisaAtualizar(m, a) ? '<span class="st-bola amarela" title="Precisa de atualização (só o administrador vê)"></span>' : ''}`;
+};
+
 export async function render(el, q) {
   const [mid, aid] = String(q?.get('a') || '').split('/');
   const m0 = visiveis().find((m) => m.id === mid);
+  if (REV === null) await carregarRevisoes(visiveis());
   if (!m0) return quadro(el);
   const mat = { ...m0, assuntos: m0.assuntos.map((a) => (a.quiz ? { ...a, quiz: a.quiz.map((x) => embaralhar(padraoBanca(x))) } : a)) };
   let idx = mat.assuntos.findIndex((a) => a.id === aid);
@@ -58,7 +83,8 @@ function quadro(el) {
   const ultimaBusca = ler('risk-busca-lt', '');
   el.innerHTML = `${faixaCurso()}<div class="mono up">Conteúdo programático</div><h1>Escolha a matéria</h1>
   <p class="muted" style="margin-top:-6px">Textos completos, com quadros, exemplos, pegadinhas e questões no fim de cada tópico. ${isAdmin() ? 'Como administrador, você vê todas as matérias.' : 'Aqui aparecem as matérias do seu edital.'}</p>
-  <div class="lt-busca"><span>🔎</span><input id="ltBusca" type="search" placeholder="Pesquise a matéria ou o assunto (ex.: crase, LAI, art. 165, nepotismo)" value="${esc(ultimaBusca)}" autocomplete="off" aria-label="Pesquisar matéria ou assunto"></div>
+  <div class="lt-busca"><span>🔎</span><input id="ltBusca" type="search" placeholder="Pesquise a matéria (ex.: Direito Penal, Trânsito, Português)" value="${esc(ultimaBusca)}" autocomplete="off" aria-label="Pesquisar matéria"></div>
+  <div class="st-legenda"><span><i class="st-bola verde"></i> Matéria completa</span><span><i class="st-bola vermelha"></i> Ainda em construção</span>${isAdmin() ? '<span><i class="st-bola amarela"></i> Precisa de atualização (só você vê)</span>' : ''}</div>
   <div id="ltRes"></div>
   ${ordem.length ? '' : '<div class="card"><b>Nenhuma matéria liberada ainda.</b><p class="muted">Assim que o seu curso ou edital for definido, as matérias aparecem aqui.</p></div>'}
   <div class="lt-materias" id="ltMats">${ordem.map((m) => {
@@ -68,6 +94,7 @@ function quadro(el) {
       <div class="lt-mat-txt"><b>${esc(m.nome)}</b>
       <small>${m.assuntos.length} tópicos · ${feitos} lidos</small>
       <div class="lt-mat-bar"><div style="width:${p}%"></div></div></div>
+      <span class="st-bolas">${bolas(m)}</span>
       ${meu.has(m.id) ? '<span class="lt-mat-tag">No seu edital</span>' : ''}</a>`;
   }).join('')}</div>`;
   const inp = el.querySelector('#ltBusca'), res = el.querySelector('#ltRes');
@@ -76,10 +103,7 @@ function quadro(el) {
     const termo = norm(inp.value.trim());
     gravar('risk-busca-lt', inp.value.trim());
     el.querySelectorAll('.lt-mat').forEach((c) => (c.style.display = !termo || c.dataset.busca.includes(termo) ? '' : 'none'));
-    if (termo.length < 2) { res.innerHTML = ''; return; }
-    const achados = buscar(ordem, termo);
-    res.innerHTML = `<div class="card lt-busca-res"><div class="muted" style="font-size:13px;margin-bottom:6px">${achados.length ? `${achados.length >= 40 ? 'Mais de 40' : achados.length} assunto(s) encontrado(s)` : 'Nenhum assunto encontrado. Tente outra palavra.'}</div>
-      ${achados.map((r) => `<a class="lt-busca-item" href="#/leitura?a=${r.m.id}/${r.a.id}" style="--c:${r.m.cor}"><span>${r.m.ico}</span><div><small>${esc(r.m.nome)}</small><b>${marca(r.a.titulo, termo)}</b>${r.trecho ? `<p>${marca(r.trecho, termo)}</p>` : ''}</div></a>`).join('')}</div>`;
+    res.innerHTML = termo && ![...el.querySelectorAll('.lt-mat')].some((c) => c.style.display !== 'none') ? '<div class="card muted">Nenhuma matéria com esse nome.</div>' : '';
   };
   inp.oninput = () => { clearTimeout(timer); timer = setTimeout(busca, 180); };
   if (ultimaBusca) busca();
@@ -127,7 +151,7 @@ function leitura(el, q, mat, idx) {
       <div class="mono up" style="margin:4px 0 6px">Ordem de estudo · ${feitos}/${mat.assuntos.length} lidos</div>
       <div class="lt-mat-bar" style="margin-bottom:10px"><div style="width:${Math.round((feitos / mat.assuntos.length) * 100)}%"></div></div>
       <select id="ltSel" class="lt-sel-mob">${mat.assuntos.map((x, i) => `<option value="${i}" ${i === idx ? 'selected' : ''}>${i + 1}. ${esc(x.titulo)}${L.has(mat.id + '/' + x.id) ? ' ✓' : ''}</option>`).join('')}</select>
-      <ol class="lt-lista">${mat.assuntos.map((x, i) => `<li class="${i === idx ? 'on' : ''} ${L.has(mat.id + '/' + x.id) ? 'lido' : ''}"><a href="${ir(i)}">${esc(x.titulo)}</a></li>`).join('')}</ol>
+      <ol class="lt-lista">${mat.assuntos.map((x, i) => `<li class="${i === idx ? 'on' : ''} ${L.has(mat.id + '/' + x.id) ? 'lido' : ''}"><a href="${ir(i)}">${bolas(mat, x)}${esc(x.titulo)}</a></li>`).join('')}</ol>
     </aside>
     <article class="card lt-texto">
       <div class="row"><span class="pill">${idx + 1} de ${mat.assuntos.length}</span><span class="pill">${esc(a.arts || '')}</span><span class="pill lt-tempo" title="Leitura do texto essencial + aprofundamento">⏱ ~${minutosLeitura(a.html + (a.aprof || ''), 0)} min de leitura</span><span class="sp"></span>
@@ -136,6 +160,9 @@ function leitura(el, q, mat, idx) {
       <h2 style="margin:10px 0 4px">${esc(a.titulo)}</h2>
       <p class="muted" style="font-size:12.5px;margin:0 0 8px">${a.editado ? 'Revisado pelo administrador' : 'Atualizado em ' + esc(String(mat.atualizado || '').split(' · ')[0]) + ' · ' + (a.quiz || []).length + ' questões neste tópico'} · <button class="linkbtn" id="ltErro">⚑ Reportar erro neste texto</button></p>
       <p class="muted lt-ia">🤖 Texto, questões e flashcards elaborados com auxílio de inteligência artificial e revisados pela equipe do PROJETO R.I.S.K. Achou algo errado? Use “Reportar erro”.</p>
+      ${isAdmin() ? `<div class="st-admin">${bolas(mat, a)} <b>${topicoCompleto(a) ? 'Tópico completo' : `Faltam: ${minutosLeitura(a.html + (a.aprof || ''), 0) < 55 ? `leitura (${minutosLeitura(a.html + (a.aprof || ''), 0)} de 55 min)` : ''}${minutosLeitura(a.html + (a.aprof || ''), 0) < 55 && (a.quiz || []).length < 100 ? ' e ' : ''}${(a.quiz || []).length < 100 ? `questões (${(a.quiz || []).length} de 100)` : ''}`}</b>
+        ${(REV?.[mat.id + '/' + a.id] || []).length ? `<span class="muted">· 🟡 ${esc(REV[mat.id + '/' + a.id].join('; '))}</span>` : ''}<span class="sp"></span>
+        <button class="btn mini sec" id="stMarca">${(REV?.[mat.id + '/' + a.id] || []).some((x) => x !== 'Erro reportado por aluno') ? 'Tirar marca de atualização' : '🟡 Marcar para atualizar'}</button></div>` : ''}
       <div class="abas lt-abas" id="ltAbas">
         <button data-aba="ess" class="on">📘 Essencial</button>
         ${a.aprof ? '<button data-aba="apr">🔬 Aprofundamento</button>' : ''}
@@ -176,6 +203,15 @@ function leitura(el, q, mat, idx) {
     el.querySelectorAll('[data-pane]').forEach((p) => (p.hidden = p.dataset.pane !== b.dataset.aba));
   }));
   if (typeof a.montar === 'function') a.montar(el);
+  const stB = $('#stMarca');
+  if (stB) stB.onclick = async () => {
+    const marcado = (REV?.[mat.id + '/' + a.id] || []).some((x) => x !== 'Erro reportado por aluno');
+    try {
+      if (marcado) await db.remove('conteudo_revisao', { materia: 'eq.' + mat.id, assunto: 'eq.' + a.id });
+      else { const nota = prompt('O que precisa ser atualizado? (ex.: lei nova, súmula alterada)', '') ; if (nota === null) return; await db.insert('conteudo_revisao', [{ materia: mat.id, assunto: a.id, nota: nota || 'Marcado pelo administrador' }]); }
+      REV = null; await carregarRevisoes(visiveis()); toast(marcado ? 'Marca retirada.' : 'Tópico marcado para atualização.'); leitura(el, q, mat, idx);
+    } catch (e) { toast('Rode a atualização 24 do Supabase para usar as marcas. (' + e.message + ')', 'erro'); }
+  };
   $('#ltErro').onclick = () => modal(`<h3>Reportar erro</h3><p class="muted" style="font-size:14px">${esc(mat.nome)} › ${esc(a.titulo)}</p>
     <textarea id="erT" style="min-height:120px" placeholder="Descreva o erro: o trecho, o que está errado e, se souber, a fonte correta."></textarea><button class="btn" id="erE" style="margin-top:8px">Enviar</button>`, {
     onMount: (m, close) => (m.querySelector('#erE').onclick = async () => {

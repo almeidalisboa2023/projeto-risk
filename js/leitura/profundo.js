@@ -39750,6 +39750,757 @@ export const PROFUNDO = {
 ]
 }
 },
+"lingua-estrangeira": {
+"leitura": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>C/E</b><span>a Cebraspe cobra a língua estrangeira com itens de Certo ou Errado em português sobre textos em inglês ou espanhol</span></div><div class=\"lt-stat\"><b>5 passos</b><span>método de leitura: enunciado, skimming, scanning, leitura fina e checagem</span></div><div class=\"lt-stat\"><b>3 armadilhas</b><span>extrapolação, restrição indevida e inversão de sentido</span></div><div class=\"lt-stat\"><b>1 escolha</b><span>na PRF, o candidato escolhe inglês ou espanhol na inscrição (último edital)</span></div></div>\n<h3>1. Como a prova de língua estrangeira funciona</h3>\n<ul><li>No último edital da PRF (2021, Cebraspe), <b>Língua Estrangeira</b> era uma disciplina dos conhecimentos básicos, com opção entre <b>inglês</b> e <b>espanhol</b> feita na inscrição. O conteúdo previsto era a <b>compreensão de textos escritos</b> e o <b>domínio do vocabulário fundamental</b> e dos <b>aspectos gramaticais básicos</b> para a compreensão de textos. Na prática, isso significa: um ou dois textos curtos (notícias, artigos de divulgação, trechos de relatórios), seguidos de itens de <b>Certo ou Errado</b> escritos em <b>português</b>.</li><li><b>O que a banca quer medir</b>: não é conversação nem escrita. É a capacidade de <b>entender o sentido</b> de um texto, localizar informações, reconhecer a ideia central, identificar a que se referem pronomes e conectivos, entender o sentido de palavras no contexto e reconhecer equivalências de sentido (paráfrases) e falsos cognatos.</li><li><b>Como os itens são construídos</b>: a maioria dos itens faz uma <b>afirmação em português</b> sobre o texto (\"De acordo com o texto, ...\"; \"Infere-se do texto que ...\"; \"No trecho X, a palavra Y pode ser substituída por Z sem prejuízo do sentido\"). O candidato precisa voltar ao texto e conferir se a afirmação é <b>fiel</b> ao que está escrito.</li><li><b>Por que dá para gabaritar mesmo sem fluência</b>: os textos usam muitas palavras <b>cognatas</b> (parecidas com o português) e tratam de temas que o candidato conhece (segurança, trânsito, tecnologia, meio ambiente, saúde). Com método, vocabulário-chave e atenção às armadilhas, o candidato que lê pouco em inglês ou espanhol consegue acertar a maior parte dos itens.</li></ul>\n<h3>2. O método em 5 passos</h3>\n<ul><li><b>Passo 1, leia os itens antes do texto</b>: os enunciados em português dizem <b>o que procurar</b>. Se um item fala em \"número de mortes nas estradas em 2025\", você já sabe que precisa localizar um número e um ano.</li><li><b>Passo 2, skimming (leitura panorâmica)</b>: leia rapidamente o <b>título</b>, o <b>primeiro parágrafo</b> e a <b>primeira frase dos demais parágrafos</b>. O objetivo é captar o <b>tema</b> e a <b>ideia geral</b>. Não pare em palavras desconhecidas.</li><li><b>Passo 3, scanning (leitura de varredura)</b>: procure <b>informações específicas</b> pedidas nos itens: números, datas, nomes próprios, siglas, palavras em destaque. O olho \"varre\" o texto atrás do dado.</li><li><b>Passo 4, leitura fina do trecho</b>: ao localizar o trecho de cada item, leia-o com atenção, observando <b>conectivos</b> (however, sin embargo), <b>negações</b> (not, never, no, nunca), <b>modais</b> (may, might, puede), <b>quantificadores</b> (some, most, all, algunos, la mayoría) e <b>tempos verbais</b>. É nesses detalhes que a banca constrói os itens errados.</li><li><b>Passo 5, checagem de fidelidade</b>: compare a afirmação do item com o texto. Pergunte: o item <b>diz exatamente o que o texto diz</b>? Ele <b>acrescentou</b> algo (extrapolação)? Ele <b>generalizou</b> o que o texto restringiu? Ele <b>inverteu</b> causa e consequência? Ele trocou \"pode\" por \"deve\"?</li></ul>\n<h3>3. Estratégias de leitura em detalhe</h3>\n<ul><li><b>Predição (prediction)</b>: antes de ler, use título, subtítulo, fonte, data e imagens para <b>prever</b> o assunto. Um texto intitulado \"Speed cameras cut road deaths\" provavelmente trata de <b>radares</b> e da <b>redução de mortes</b>.</li><li><b>Palavras repetidas (key words)</b>: palavras que aparecem várias vezes indicam o <b>tema central</b>. Em um texto em que aparecem \"smuggling\", \"border\" e \"river\" várias vezes, o tema é contrabando pela fronteira fluvial.</li><li><b>Cognatos (cognates)</b>: palavras de grafia parecida e <b>mesmo sentido</b> no português: em inglês, police, accident, vehicle, important, government, crime, violence, federal, organization; em espanhol, policía, accidente, vehículo, gobierno, violencia, organización. Elas sustentam a compreensão geral.</li><li><b>Inferência pelo contexto</b>: diante de uma palavra desconhecida, observe a frase: ela é verbo, substantivo, adjetivo? Há uma explicação logo depois (aposto, \"that is\", \"es decir\")? Há um contraste (\"but\", \"pero\") que indica sentido oposto? Muitas vezes o contexto basta.</li><li><b>Afixos</b>: prefixos e sufixos ajudam a deduzir o sentido. Em inglês, <b>un-, in-, im-, dis-</b> negam (unsafe = inseguro; illegal = ilegal); <b>-less</b> indica ausência (careless = descuidado); <b>-ful</b> indica presença (careful = cuidadoso); <b>-ly</b> forma advérbios (quickly = rapidamente); <b>-er/-or</b> indica agente (driver = motorista). Em espanhol, <b>-mente</b> forma advérbios (rápidamente); <b>des-</b> nega (desconocido); <b>-ción</b> forma substantivos (detención).</li><li><b>Referenciação</b>: pronomes e expressões retomam termos anteriores. Em inglês, <b>it, they, them, this, these, which, who</b>; em espanhol, <b>lo, la, los, las, le, este, esto, cuyo, quien, el cual</b>. A banca adora perguntar <b>a que termo</b> um pronome se refere. A resposta quase sempre está <b>na frase anterior</b> ou no início da mesma frase.</li></ul>\n<h3>4. As três armadilhas clássicas da banca</h3>\n<ul><li><b>Extrapolação</b>: o item afirma algo que <b>não está no texto</b>, embora pareça razoável. Exemplo: o texto diz que \"speed cameras were installed on three highways\"; o item afirma que \"os radares reduziram os acidentes em todas as rodovias do país\". O texto não diz isso: <b>errado</b>.</li><li><b>Restrição ou generalização indevida</b>: o texto usa <b>some</b> (alguns), <b>many</b> (muitos) ou <b>most</b> (a maioria), e o item fala em <b>todos</b>; ou o texto usa <b>may/might</b> (pode, talvez), e o item fala em <b>certeza</b>. Exemplo: \"Some drivers ignore the signs\" não autoriza afirmar que \"os motoristas ignoram a sinalização\".</li><li><b>Inversão</b>: o item troca <b>causa e efeito</b>, <b>sujeito e objeto</b>, <b>antes e depois</b>, ou atribui uma opinião à pessoa errada. Exemplo: o texto diz que \"the officers were attacked by the smugglers\"; o item afirma que \"os policiais atacaram os contrabandistas\": <b>errado</b> (voz passiva mal lida).</li><li><b>Paráfrase legítima</b>: por outro lado, o item pode dizer a mesma coisa com <b>outras palavras</b> e estar <b>certo</b>. \"The number of fatalities dropped by half\" = \"o número de mortes caiu pela metade\". Não marque errado só porque as palavras são diferentes.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se o item usa palavras diferentes das do texto, ele está errado</span><br>✅ <span class=\"certo\">Paráfrase fiel está <b>certa</b>; o que importa é o <b>sentido</b></span></li><li>❌ <span class=\"banca\">\"Some drivers\" autoriza afirmar que \"os motoristas\" em geral agem assim</span><br>✅ <span class=\"certo\"><b>Some</b> = alguns; generalizar é erro de <b>restrição</b></span></li><li>❌ <span class=\"banca\">Na voz passiva, quem aparece primeiro na frase é quem pratica a ação</span><br>✅ <span class=\"certo\">Na passiva, o primeiro termo <b>sofre</b> a ação; o agente vem depois de <b>by</b> (ou <b>por</b>, em espanhol)</span></li><li>❌ <span class=\"banca\">Para acertar a prova, é preciso traduzir o texto inteiro</span><br>✅ <span class=\"certo\">O método é localizar e conferir; tradução integral desperdiça tempo</span></li></ol></div>\n<h3>5. Falsos cognatos: os que mais caem</h3>\n<table class=\"tab\"><thead><tr><th>Inglês</th><th>Significa</th><th>Não significa</th></tr></thead><tbody><tr><td>actually</td><td>na verdade, de fato</td><td>atualmente (= currently, nowadays)</td></tr><tr><td>eventually</td><td>finalmente, por fim</td><td>eventualmente (= occasionally)</td></tr><tr><td>pretend</td><td>fingir</td><td>pretender (= intend)</td></tr><tr><td>push</td><td>empurrar</td><td>puxar (= pull)</td></tr><tr><td>assume</td><td>supor, presumir</td><td>assumir um cargo (= take on)</td></tr><tr><td>attend</td><td>frequentar, comparecer</td><td>atender (= answer, serve)</td></tr><tr><td>realize</td><td>perceber</td><td>realizar (= carry out, accomplish)</td></tr><tr><td>sensible</td><td>sensato</td><td>sensível (= sensitive)</td></tr><tr><td>library</td><td>biblioteca</td><td>livraria (= bookstore)</td></tr><tr><td>exit</td><td>saída</td><td>êxito (= success)</td></tr><tr><td>policy</td><td>política, diretriz</td><td>polícia (= police)</td></tr><tr><td>prejudice</td><td>preconceito</td><td>prejuízo (= damage, loss)</td></tr><tr><td>resume</td><td>retomar</td><td>resumir (= summarize)</td></tr><tr><td>data</td><td>dados</td><td>data (= date)</td></tr><tr><td>lecture</td><td>palestra</td><td>leitura (= reading)</td></tr><tr><td>costume</td><td>fantasia</td><td>costume (= habit)</td></tr></tbody></table>\n<ul><li><b>Por que caem tanto</b>: a banca coloca o falso cognato no texto e um item que o \"traduz\" pelo sentido parecido. Exemplo: \"The police eventually arrested the driver\" significa que a polícia <b>finalmente</b> prendeu o motorista, e não que prendeu \"eventualmente\". \"Road safety <b>policy</b>\" é <b>política</b> de segurança viária, não \"polícia\".</li></ul>\n<table class=\"tab\"><thead><tr><th>Espanhol</th><th>Significa</th><th>Não significa</th></tr></thead><tbody><tr><td>embarazada</td><td>grávida</td><td>embaraçada (= avergonzada)</td></tr><tr><td>exquisito</td><td>delicioso, refinado</td><td>esquisito (= raro)</td></tr><tr><td>oficina</td><td>escritório</td><td>oficina mecânica (= taller)</td></tr><tr><td>taller</td><td>oficina mecânica</td><td>talher (= cubierto)</td></tr><tr><td>largo</td><td>comprido</td><td>largo (= ancho)</td></tr><tr><td>rato</td><td>momento, instante</td><td>rato (= ratón)</td></tr><tr><td>polvo</td><td>pó</td><td>polvo (= pulpo)</td></tr><tr><td>pelado</td><td>careca</td><td>pelado/nu (= desnudo)</td></tr><tr><td>apellido</td><td>sobrenome</td><td>apelido (= apodo)</td></tr><tr><td>borrar</td><td>apagar (texto)</td><td>borrar (= manchar)</td></tr><tr><td>apagar</td><td>desligar</td><td>apagar (texto = borrar)</td></tr><tr><td>cena</td><td>jantar</td><td>cena (= escena)</td></tr><tr><td>cola</td><td>fila, rabo</td><td>cola (= pegamento)</td></tr><tr><td>vaso</td><td>copo</td><td>vaso (= florero, maceta)</td></tr><tr><td>zurdo</td><td>canhoto</td><td>surdo (= sordo)</td></tr><tr><td>aceite</td><td>óleo, azeite</td><td>aceite (= aceptación)</td></tr><tr><td>brincar</td><td>pular</td><td>brincar (= jugar)</td></tr><tr><td>rubio</td><td>loiro</td><td>ruivo (= pelirrojo)</td></tr></tbody></table>\n<ul><li><b>Em espanhol, os falsos cognatos se chamam heterossemânticos</b>: palavras iguais ou parecidas com o português, mas de <b>sentido diferente</b>. São a pegadinha número um das provas de espanhol. \"Los agentes hicieron <b>cola</b> durante un <b>rato</b>\" significa que os agentes fizeram <b>fila</b> durante um <b>momento</b>.</li></ul>\n<h3>6. Texto modelo em inglês, com análise</h3>\n<ul><li><b>Texto (original, para estudo)</b>: \"Road deaths on federal highways fell by 12% last year, according to a report released on Monday. Officials attributed the decline mainly to stricter enforcement of speed limits and to a campaign against drunk driving. However, the report also warned that motorcycle crashes are still rising in some northern states, where long distances and poor lighting make night travel especially dangerous. Experts say that, unless investment in road maintenance increases, the gains may not last.\"</li><li><b>Tema (skimming)</b>: queda de mortes nas rodovias federais, com ressalvas.</li><li><b>Item 1</b>: \"Segundo o texto, as mortes nas rodovias federais caíram 12% no último ano.\" <b>Certo</b> (fell by 12% last year).</li><li><b>Item 2</b>: \"O relatório atribui a queda exclusivamente às campanhas contra a embriaguez ao volante.\" <b>Errado</b>: \"mainly\" (principalmente) e duas causas: fiscalização da velocidade <b>e</b> campanha contra a embriaguez. \"Exclusivamente\" é extrapolação.</li><li><b>Item 3</b>: \"Os acidentes com motocicletas continuam aumentando em todos os estados do Norte.\" <b>Errado</b>: \"in <b>some</b> northern states\" (em alguns). Generalização indevida.</li><li><b>Item 4</b>: \"O conectivo 'However' introduz uma ideia de contraste em relação ao que foi dito antes.\" <b>Certo</b>: however = no entanto.</li><li><b>Item 5</b>: \"Os especialistas afirmam que os ganhos certamente vão desaparecer.\" <b>Errado</b>: \"may not last\" (podem não durar) e, ainda, condicionado a \"unless investment increases\" (a menos que o investimento aumente). Trocar possibilidade por certeza é erro clássico.</li><li><b>Item 6</b>: \"A expressão 'drunk driving' corresponde a 'dirigir embriagado'.\" <b>Certo</b>.</li></ul>\n<h3>7. Texto modelo em espanhol, con análisis</h3>\n<ul><li><b>Texto (original, para estudio)</b>: \"La policía fluvial decomisó el pasado fin de semana más de dos toneladas de mercancías de contrabando en un barco que navegaba sin luces por el río. Según el informe oficial, los tripulantes intentaron huir cuando los agentes se acercaron, pero fueron detenidos tras una breve persecución. Las autoridades advierten que el contrabando por vía fluvial ha aumentado en los últimos meses, aunque todavía no existen datos precisos sobre su alcance.\"</li><li><b>Item 1</b>: \"A apreensão ocorreu em um barco que navegava com as luzes apagadas.\" <b>Certo</b> (\"navegaba sin luces\").</li><li><b>Item 2</b>: \"Os tripulantes se entregaram assim que os agentes se aproximaram.\" <b>Errado</b>: \"intentaron huir\" (tentaram fugir) e foram detidos <b>após</b> breve perseguição.</li><li><b>Item 3</b>: \"As autoridades dispõem de dados precisos sobre o tamanho do contrabando fluvial.\" <b>Errado</b>: \"todavía no existen datos precisos\" (ainda não existem dados precisos).</li><li><b>Item 4</b>: \"Na frase 'aunque todavía no existen datos', o termo 'aunque' expressa concessão e poderia ser traduzido por 'embora'.\" <b>Certo</b>.</li><li><b>Item 5</b>: \"'Decomisó' significa 'apreendeu' (confiscou).\" <b>Certo</b>: decomisar = apreender, confiscar.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Nos itens, desconfie de palavras <b>absolutas</b> que o texto não usa: <b>todos, sempre, nunca, exclusivamente, certamente, apenas</b>. Quase sempre são o sinal de <b>extrapolação</b> ou <b>generalização indevida</b>.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Skimming</span></span><span class=\"vs\"><span>leitura rápida para a ideia geral</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Scanning</span></span><span class=\"vs\"><span>busca de informação específica (números, datas, nomes)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>actually</span></span><span class=\"vs\"><span>na verdade (não \"atualmente\")</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>eventually</span></span><span class=\"vs\"><span>finalmente (não \"eventualmente\")</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>policy</span></span><span class=\"vs\"><span>política, diretriz (não \"polícia\")</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>embarazada</span></span><span class=\"vs\"><span>grávida</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>oficina</span></span><span class=\"vs\"><span>escritório; taller => oficina mecânica</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>rato</span></span><span class=\"vs\"><span>momento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>However / sin embargo</span></span><span class=\"vs\"><span>contraste</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>may / puede</span></span><span class=\"vs\"><span>possibilidade, não certeza</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Skimming é a leitura rápida para captar a ideia geral do texto.",
+"c": true,
+"prof": "Estratégias de leitura.",
+"x": "Literal.",
+"e": "Skimming"
+},
+{
+"p": "Scanning é a leitura lenta e integral do texto, palavra por palavra.",
+"c": false,
+"prof": "Estratégias de leitura.",
+"x": "É a busca de informação específica.",
+"e": "Scanning"
+},
+{
+"p": "Ler os itens antes do texto ajuda a saber que informação procurar.",
+"c": true,
+"prof": "Método de leitura.",
+"x": "Literal.",
+"e": "Método"
+},
+{
+"p": "Palavras cognatas têm grafia parecida e o mesmo sentido em português.",
+"c": true,
+"prof": "Estratégias de leitura.",
+"x": "Literal.",
+"e": "Cognatos"
+},
+{
+"p": "Em inglês, actually significa \"na verdade\".",
+"c": true,
+"prof": "Falsos cognatos.",
+"x": "Não significa atualmente.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, eventually significa \"eventualmente, de vez em quando\".",
+"c": false,
+"prof": "Falsos cognatos.",
+"x": "Significa finalmente.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, policy significa \"polícia\".",
+"c": false,
+"prof": "Falsos cognatos.",
+"x": "Significa política, diretriz.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, pretend significa \"fingir\".",
+"c": true,
+"prof": "Falsos cognatos.",
+"x": "Literal.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, push significa \"empurrar\".",
+"c": true,
+"prof": "Falsos cognatos.",
+"x": "Pull é puxar.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, realize significa \"realizar\".",
+"c": false,
+"prof": "Falsos cognatos.",
+"x": "Significa perceber.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, prejudice significa \"preconceito\".",
+"c": true,
+"prof": "Falsos cognatos.",
+"x": "Literal.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, library significa \"biblioteca\".",
+"c": true,
+"prof": "Falsos cognatos.",
+"x": "Livraria é bookstore.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, sensible significa \"sensível\".",
+"c": false,
+"prof": "Falsos cognatos.",
+"x": "Significa sensato; sensível é sensitive.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em inglês, data significa \"dados\".",
+"c": true,
+"prof": "Falsos cognatos.",
+"x": "Data é date.",
+"e": "Falsos cognatos"
+},
+{
+"p": "Em espanhol, embarazada significa \"grávida\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Literal.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, oficina significa \"oficina mecânica\".",
+"c": false,
+"prof": "Heterossemânticos.",
+"x": "Significa escritório; taller é oficina.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, rato significa \"momento, instante\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Literal.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, largo significa \"comprido\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Ancho é largo.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, apellido significa \"apelido\".",
+"c": false,
+"prof": "Heterossemânticos.",
+"x": "Significa sobrenome.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, cola pode significar \"fila\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Hacer cola = fazer fila.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, vaso significa \"copo\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Literal.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, exquisito significa \"estranho, esquisito\".",
+"c": false,
+"prof": "Heterossemânticos.",
+"x": "Significa delicioso, refinado.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, apagar significa \"desligar\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Borrar é apagar texto.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, zurdo significa \"canhoto\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Literal.",
+"e": "Heterossemânticos"
+},
+{
+"p": "Em espanhol, polvo significa \"pó\".",
+"c": true,
+"prof": "Heterossemânticos.",
+"x": "Polvo (animal) é pulpo.",
+"e": "Heterossemânticos"
+},
+{
+"p": "O prefixo un- em unsafe tem valor de negação.",
+"c": true,
+"prof": "Afixos.",
+"x": "Unsafe = inseguro.",
+"e": "Afixos"
+},
+{
+"p": "O sufixo -less em careless indica ausência.",
+"c": true,
+"prof": "Afixos.",
+"x": "Careless = descuidado.",
+"e": "Afixos"
+},
+{
+"p": "O sufixo -er em driver indica o agente da ação.",
+"c": true,
+"prof": "Afixos.",
+"x": "Driver = motorista.",
+"e": "Afixos"
+},
+{
+"p": "Afirmar que \"todos\" fazem algo quando o texto diz \"some\" é erro de generalização indevida.",
+"c": true,
+"prof": "Armadilhas.",
+"x": "Literal.",
+"e": "Armadilhas"
+},
+{
+"p": "Se o texto diz que algo \"may happen\", o item pode afirmar que aquilo certamente acontecerá.",
+"c": false,
+"prof": "Armadilhas.",
+"x": "May indica possibilidade.",
+"e": "Armadilhas"
+},
+{
+"p": "Uma paráfrase fiel ao texto, mesmo com outras palavras, deve ser julgada certa.",
+"c": true,
+"prof": "Armadilhas.",
+"x": "O que importa é o sentido.",
+"e": "Paráfrase"
+},
+{
+"p": "Na frase \"The officers were attacked by the smugglers\", os contrabandistas atacaram os policiais.",
+"c": true,
+"prof": "Voz passiva.",
+"x": "Agente após by.",
+"e": "Voz passiva"
+},
+{
+"p": "Na frase \"Los contrabandistas fueron detenidos por los agentes\", os contrabandistas detiveram os agentes.",
+"c": false,
+"prof": "Voz passiva.",
+"x": "Agente após por.",
+"e": "Voz passiva"
+},
+{
+"p": "However introduz ideia de contraste.",
+"c": true,
+"prof": "Conectivos.",
+"x": "However = no entanto.",
+"e": "Conectivos"
+},
+{
+"p": "Em espanhol, aunque pode expressar concessão, equivalendo a \"embora\".",
+"c": true,
+"prof": "Conectivos.",
+"x": "Literal.",
+"e": "Conectivos"
+},
+{
+"p": "Em espanhol, sin embargo equivale a \"no entanto\".",
+"c": true,
+"prof": "Conectivos.",
+"x": "Literal.",
+"e": "Conectivos"
+},
+{
+"p": "Pronomes como it e they costumam retomar termos mencionados antes no texto.",
+"c": true,
+"prof": "Referenciação.",
+"x": "Literal.",
+"e": "Referenciação"
+},
+{
+"p": "Decomisar, em espanhol, significa apreender ou confiscar.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Drunk driving significa dirigir embriagado.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "Texto: \"Some drivers still ignore the new signs, but most of them have adapted quickly.\" Segundo o trecho,",
+"alts": [
+"todos os motoristas ignoram as placas",
+"alguns motoristas ainda ignoram as placas, mas a maioria se adaptou rapidamente",
+"nenhum motorista se adaptou",
+"a maioria ignora as placas",
+"as placas foram retiradas"
+],
+"r": 1,
+"x": "Some = alguns; most = a maioria.",
+"n": [
+"Generalização.",
+"Correta.",
+"Não.",
+"Inversão.",
+"Não."
+],
+"e": "Quantificadores."
+},
+{
+"p": "Em \"The police eventually found the stolen truck\", o advérbio eventually significa",
+"alts": [
+"eventualmente",
+"raramente",
+"finalmente, por fim",
+"imediatamente",
+"atualmente"
+],
+"r": 2,
+"x": "Falso cognato.",
+"n": [
+"Falso cognato.",
+"Não.",
+"Correta.",
+"Não.",
+"Actually/currently."
+],
+"e": "Falsos cognatos."
+},
+{
+"p": "Em espanhol, \"Los agentes trabajan en una oficina cerca del puente\" significa que os agentes trabalham",
+"alts": [
+"em uma oficina mecânica perto da ponte",
+"em um escritório perto da ponte",
+"em uma fábrica",
+"em um posto de gasolina",
+"em uma oficina longe da ponte"
+],
+"r": 1,
+"x": "Oficina = escritório; taller = oficina mecânica.",
+"n": [
+"Heterossemântico.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Heterossemânticos."
+},
+{
+"p": "Texto: \"Experts say the gains may not last unless investment increases.\" O item correto é:",
+"alts": [
+"os ganhos certamente vão acabar",
+"os ganhos vão durar para sempre",
+"os ganhos podem não durar, a menos que o investimento aumente",
+"o investimento já aumentou",
+"os especialistas não comentaram"
+],
+"r": 2,
+"x": "May = possibilidade; unless = a menos que.",
+"n": [
+"Certeza indevida.",
+"Não.",
+"Correta.",
+"Não diz.",
+"Não."
+],
+"e": "Modalização."
+},
+{
+"p": "A estratégia de procurar no texto informações específicas, como números e datas, chama-se",
+"alts": [
+"skimming",
+"prediction",
+"scanning",
+"translation",
+"summary"
+],
+"r": 2,
+"x": "Estratégias de leitura.",
+"n": [
+"Ideia geral.",
+"Predição.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Scanning."
+}
+]
+},
+"gramatica": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>Present perfect</b><span>tempo que liga passado e presente (have/has + particípio) e cai muito em itens de sentido</span></div><div class=\"lt-stat\"><b>Modais</b><span>can, could, may, might, must, should: possibilidade, obrigação, conselho</span></div><div class=\"lt-stat\"><b>by</b><span>na voz passiva, introduz quem pratica a ação</span></div><div class=\"lt-stat\"><b>4 condicionais</b><span>zero, primeira, segunda e terceira: real, provável, hipotética e impossível</span></div></div>\n<h3>1. Por que gramática na prova de leitura</h3>\n<ul><li>A prova não pede que você conjugue verbos. Ela pede que você <b>entenda o sentido</b>. Mas é a gramática que decide o sentido: o <b>tempo verbal</b> diz se algo já aconteceu ou ainda vai acontecer; o <b>modal</b> diz se algo é certo, possível ou obrigatório; a <b>voz passiva</b> diz quem fez e quem sofreu a ação; o <b>condicional</b> diz se a situação é real ou hipotética. A banca constrói itens errados justamente trocando esses detalhes.</li></ul>\n<h3>2. Tempos verbais que mudam o sentido</h3>\n<ul><li><b>Simple present</b> (presente simples): fatos gerais e hábitos. \"Officers <b>patrol</b> the highway every night.\" Na 3ª pessoa do singular, o verbo ganha <b>-s</b>: \"The officer patrol<b>s</b>\". Negativa com <b>do/does not</b>: \"He <b>does not</b> (doesn't) drive at night.\"</li><li><b>Present continuous</b> (presente contínuo): ação <b>em andamento</b> agora ou plano próximo. \"The police <b>are checking</b> every truck.\" Estrutura: <b>am/is/are + verbo-ing</b>.</li><li><b>Simple past</b> (passado simples): ação <b>terminada</b> em momento definido. \"The driver <b>crashed</b> the car <b>yesterday</b>.\" Verbos regulares terminam em <b>-ed</b> (stopped, arrested); irregulares têm forma própria (go → <b>went</b>, see → <b>saw</b>, catch → <b>caught</b>, drive → <b>drove</b>, flee → <b>fled</b>, seize → seized). Negativa com <b>did not</b> (didn't) + verbo na forma base.</li><li><b>Past continuous</b>: ação <b>em andamento no passado</b>, muitas vezes interrompida. \"They <b>were driving</b> when the tire <b>burst</b>.\"</li><li><b>Present perfect</b>: ação passada <b>sem tempo definido</b> ou que <b>continua até agora</b>. Estrutura: <b>have/has + particípio</b>. \"Road deaths <b>have fallen</b> since 2020\" (caíram desde 2020 e o efeito continua). Palavras-sinal: <b>since</b> (desde), <b>for</b> (há, por), <b>already</b> (já), <b>yet</b> (ainda, em negativas e perguntas), <b>ever</b>, <b>never</b>, <b>recently</b>. \"The government <b>has not yet</b> approved the law\" = o governo <b>ainda não</b> aprovou a lei.</li><li><b>Past perfect</b>: ação <b>anterior a outra</b> no passado. \"When the officers arrived, the suspects <b>had</b> already <b>left</b>\" (os suspeitos já tinham saído antes da chegada).</li><li><b>Futuro</b>: <b>will + verbo</b> (previsão, decisão no momento, promessa): \"The new law <b>will take</b> effect in March\"; <b>be going to + verbo</b> (plano, intenção, evidência): \"They <b>are going to</b> expand the bases.\" Lembre que o <b>present continuous</b> também pode indicar futuro agendado.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tempo</th><th>Estrutura</th><th>Exemplo</th><th>Ideia</th></tr></thead><tbody><tr><td>Simple present</td><td>verbo (+s na 3ª pessoa)</td><td>Officers patrol the road</td><td>hábito, fato geral</td></tr><tr><td>Present continuous</td><td>am/is/are + -ing</td><td>They are checking trucks</td><td>ação em curso</td></tr><tr><td>Simple past</td><td>verbo + ed / irregular</td><td>The driver fled</td><td>passado concluído</td></tr><tr><td>Present perfect</td><td>have/has + particípio</td><td>Deaths have fallen</td><td>passado ligado ao presente</td></tr><tr><td>Past perfect</td><td>had + particípio</td><td>They had left</td><td>passado anterior a outro passado</td></tr><tr><td>Future</td><td>will / be going to + verbo</td><td>The law will take effect</td><td>futuro</td></tr></tbody></table>\n<h3>3. Verbos modais: certeza, possibilidade, obrigação</h3>\n<ul><li><b>Can</b>: capacidade ou permissão. \"Drivers <b>can</b> check their fines online\" (podem consultar). <b>Cannot / can't</b>: impossibilidade ou proibição.</li><li><b>Could</b>: capacidade no passado, possibilidade mais fraca, pedido educado. \"The delay <b>could</b> cause accidents\" (poderia causar).</li><li><b>May / might</b>: <b>possibilidade</b> (might é mais remota). \"The new rule <b>may</b> reduce crashes\" (pode reduzir). <b>Nunca</b> equivale a \"vai reduzir\" com certeza.</li><li><b>Must</b>: <b>obrigação forte</b> ou <b>dedução lógica</b>. \"All passengers <b>must</b> wear seat belts\" (devem, obrigatório). \"He <b>must</b> be tired\" (deve estar cansado, dedução). <b>Must not / mustn't</b>: <b>proibição</b> (\"You must not overtake here\" = é proibido ultrapassar).</li><li><b>Have to</b>: obrigação externa. <b>Don't have to</b>: <b>não é necessário</b> (atenção: é diferente de mustn't, que proíbe). \"You <b>don't have to</b> stop here\" = você não precisa parar aqui; \"You <b>mustn't</b> stop here\" = você não pode parar aqui.</li><li><b>Should / ought to</b>: conselho, recomendação. \"Drivers <b>should</b> rest every two hours\" (deveriam, é recomendável). Não é obrigação legal.</li><li><b>Will / would</b>: futuro e condicional. \"<b>Would</b>\" aparece em hipóteses: \"Stricter laws <b>would</b> save lives\" (salvariam).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Must not\" significa \"não precisa\"</span><br>✅ <span class=\"certo\"><b>Must not</b> = <b>proibição</b>; \"não precisa\" é <b>don't have to</b></span></li><li>❌ <span class=\"banca\">\"May reduce crashes\" significa que certamente vai reduzir</span><br>✅ <span class=\"certo\"><b>May</b> indica <b>possibilidade</b></span></li><li>❌ <span class=\"banca\">\"Should\" indica obrigação legal</span><br>✅ <span class=\"certo\"><b>Should</b> indica <b>recomendação</b></span></li><li>❌ <span class=\"banca\">\"Has fallen\" indica ação que ainda vai ocorrer</span><br>✅ <span class=\"certo\">É <b>present perfect</b>: já ocorreu e tem relação com o presente</span></li></ol></div>\n<h3>4. Voz passiva: quem fez e quem sofreu</h3>\n<ul><li><b>Estrutura</b>: <b>verbo to be + particípio</b>, com o agente (quem pratica) introduzido por <b>by</b>. \"The suspects <b>were arrested by</b> federal officers\" = os suspeitos <b>foram presos pelos</b> policiais federais.</li><li><b>Por que cai</b>: textos jornalísticos usam muito a passiva, e a banca escreve itens trocando os papéis. \"The boat <b>was stopped by</b> the patrol\" significa que a <b>patrulha parou o barco</b>, e não o contrário.</li><li><b>Passiva sem agente</b>: muitas vezes o agente não aparece. \"Two tons of drugs <b>were seized</b>\" (duas toneladas de drogas <b>foram apreendidas</b>), sem dizer por quem. Um item que afirme \"a PRF apreendeu\" pode ser <b>extrapolação</b>, se o texto não disser quem apreendeu.</li><li><b>Tempos na passiva</b>: \"is being investigated\" (está sendo investigado); \"has been closed\" (foi fechada, e continua fechada); \"will be announced\" (será anunciado).</li></ul>\n<h3>5. Condicionais</h3>\n<ul><li><b>Zero conditional</b> (verdade geral): <b>If + presente, presente</b>. \"If you <b>drink</b>, you <b>lose</b> reflexes.\"</li><li><b>First conditional</b> (possibilidade real no futuro): <b>If + presente, will + verbo</b>. \"If the river <b>rises</b>, the road <b>will close</b>.\"</li><li><b>Second conditional</b> (hipótese no presente/futuro): <b>If + passado, would + verbo</b>. \"If the government <b>invested</b> more, roads <b>would be</b> safer\" (se investisse, seriam). Indica que, hoje, <b>não investe</b> o suficiente.</li><li><b>Third conditional</b> (hipótese no passado, impossível de mudar): <b>If + past perfect, would have + particípio</b>. \"If the driver <b>had worn</b> a seat belt, he <b>would have survived</b>\" (se tivesse usado o cinto, teria sobrevivido). Logo, ele <b>não</b> usou o cinto e <b>não</b> sobreviveu.</li><li><b>Unless</b> = <b>if not</b> (a menos que). \"Unless investment increases, the gains may not last\" = se o investimento não aumentar, os ganhos podem não durar.</li></ul>\n<h3>6. Pronomes relativos, comparativos e quantificadores</h3>\n<ul><li><b>Who</b> (pessoas), <b>which</b> (coisas), <b>that</b> (pessoas ou coisas), <b>whose</b> (cujo), <b>where</b> (onde), <b>when</b> (quando). \"The officer <b>who</b> stopped the car\" (o policial <b>que</b> parou o carro); \"the river <b>where</b> the boat sank\" (o rio <b>onde</b> o barco afundou); \"the driver <b>whose</b> license was suspended\" (o motorista <b>cuja</b> habilitação foi suspensa).</li><li><b>Comparativos</b>: adjetivos curtos ganham <b>-er</b> e <b>than</b> (faster <b>than</b>); longos usam <b>more ... than</b> (more dangerous <b>than</b>); igualdade com <b>as ... as</b> (as safe <b>as</b>). Irregulares: good → <b>better</b> → <b>the best</b>; bad → <b>worse</b> → <b>the worst</b>; far → <b>farther/further</b>.</li><li><b>Superlativos</b>: <b>the -est</b> (the fastest) ou <b>the most</b> (the most dangerous). \"The <b>deadliest</b> highway\" = a rodovia <b>mais letal</b>.</li><li><b>Quantificadores</b>: <b>all</b> (todos), <b>most</b> (a maioria), <b>many / much</b> (muitos / muito), <b>some</b> (alguns), <b>a few</b> (alguns, poucos, sentido positivo), <b>few</b> (poucos, sentido negativo), <b>little</b> (pouco), <b>none / no</b> (nenhum), <b>each / every</b> (cada / todo). \"<b>Few</b> drivers obey the rule\" = <b>poucos</b> obedecem (quase ninguém). \"<b>A few</b> drivers obey\" = <b>alguns</b> obedecem.</li><li><b>Números e frações</b>: \"a third\" (um terço), \"half\" (metade), \"a quarter\" (um quarto), \"twice as many\" (o dobro), \"three times higher\" (três vezes maior), \"doubled\" (dobrou), \"dropped by 10%\" (caiu 10%), \"dropped to 10%\" (caiu <b>para</b> 10%). Atenção à diferença entre <b>by</b> e <b>to</b>.</li></ul>\n<h3>7. Phrasal verbs e expressões frequentes em textos policiais</h3>\n<ul><li><b>Phrasal verbs</b> são verbos com partícula cujo sentido muda: <b>carry out</b> (realizar, executar: \"carry out an operation\"); <b>find out</b> (descobrir); <b>look into</b> (investigar); <b>set up</b> (montar, estabelecer: \"set up a checkpoint\" = montar uma barreira); <b>pull over</b> (encostar o veículo, mandar parar: \"the officer pulled the truck over\"); <b>break down</b> (quebrar, enguiçar); <b>run over</b> (atropelar); <b>take off</b> (decolar, tirar); <b>turn down</b> (recusar); <b>give up</b> (desistir); <b>get away</b> (escapar); <b>hand over</b> (entregar); <b>crack down on</b> (reprimir duramente: \"crack down on smuggling\").</li><li><b>Expressões</b>: <b>on duty</b> (de serviço), <b>off duty</b> (de folga), <b>law enforcement</b> (forças de segurança, aplicação da lei), <b>under arrest</b> (preso), <b>at large</b> (foragido), <b>in custody</b> (sob custódia), <b>on board</b> (a bordo), <b>in charge of</b> (responsável por), <b>according to</b> (segundo, de acordo com).</li></ul>\n<h3>8. Verbos com -ing e infinitivo; ordem de adjetivos</h3>\n<ul><li><b>-ing como substantivo</b>: \"<b>Speeding</b> is the main cause of crashes\" (o <b>excesso de velocidade</b>). \"Drunk <b>driving</b>\", \"<b>smuggling</b>\", \"<b>trafficking</b>\" são substantivos formados com -ing.</li><li><b>Infinitivo de finalidade</b>: \"They set up checkpoints <b>to reduce</b> crashes\" (para reduzir).</li><li><b>Adjetivo antes do substantivo</b>: em inglês, o adjetivo vem <b>antes</b>: \"federal highway\" (rodovia federal), \"illegal mining\" (mineração ilegal), \"river patrol\" (patrulha fluvial). O núcleo é a <b>última palavra</b>: \"<b>road safety campaign</b>\" é uma <b>campanha</b> de segurança viária.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Lendo um parágrafo com a gramática</b><p>Texto: \"If more officers had been deployed along the river, the smugglers would not have escaped. Since then, the federal government has set up two new river bases, and more patrols will be carried out next year.\"</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Terceira condicional</b> (\"if ... had been deployed, ... would not have escaped\"): hipótese sobre o passado; logo, <b>não</b> havia policiais suficientes e os contrabandistas <b>escaparam</b>. (2) <b>Present perfect</b> (\"has set up\"): o governo <b>já montou</b> duas bases, desde então. (3) <b>Voz passiva no futuro</b> (\"will be carried out\"): <b>serão realizadas</b> mais patrulhas no próximo ano. Um item que diga \"os contrabandistas foram presos graças ao reforço de policiais\" está <b>errado</b>: a condicional mostra que eles escaparam.</p></details></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Few drivers obey the rule\" significa que alguns motoristas obedecem</span><br>✅ <span class=\"certo\"><b>Few</b> = poucos (quase ninguém); <b>a few</b> = alguns</span></li><li>❌ <span class=\"banca\">\"Dropped by 10%\" e \"dropped to 10%\" têm o mesmo sentido</span><br>✅ <span class=\"certo\"><b>By</b> = queda de 10 pontos; <b>to</b> = chegou a 10%</span></li><li>❌ <span class=\"banca\">Em \"road safety campaign\", o núcleo é \"road\"</span><br>✅ <span class=\"certo\">O núcleo é a <b>última palavra</b>: <b>campaign</b></span></li><li>❌ <span class=\"banca\">\"Pull over\" significa puxar</span><br>✅ <span class=\"certo\">Significa <b>encostar o veículo</b> ou mandar parar</span></li></ol></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para a gramática na prova, pergunte sempre: <b>quando</b> (tempo verbal), <b>quão certo</b> (modal), <b>quem fez</b> (voz passiva) e <b>real ou hipotético</b> (condicional).</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Present perfect</span></span><span class=\"vs\"><span>have/has + particípio; passado ligado ao presente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Must not</span></span><span class=\"vs\"><span>proibição; don't have to => não é necessário</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>May/might</span></span><span class=\"vs\"><span>possibilidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Should</span></span><span class=\"vs\"><span>recomendação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Passiva</span></span><span class=\"vs\"><span>be + particípio; agente após by</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>If + had + particípio</span></span><span class=\"vs\"><span>hipótese no passado (não aconteceu)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Unless</span></span><span class=\"vs\"><span>a menos que</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Few</span></span><span class=\"vs\"><span>poucos; a few => alguns</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pull over</span></span><span class=\"vs\"><span>encostar o veículo</span></span></button></div></div>",
+"quiz": [
+{
+"p": "O present perfect é formado por have ou has seguido do particípio.",
+"c": true,
+"prof": "Gramática inglesa.",
+"x": "Literal.",
+"e": "Tempos"
+},
+{
+"p": "\"Road deaths have fallen since 2020\" indica queda que começou em 2020 e se relaciona com o presente.",
+"c": true,
+"prof": "Present perfect.",
+"x": "Literal.",
+"e": "Tempos"
+},
+{
+"p": "\"The suspects had left when the police arrived\" indica que os suspeitos saíram depois da chegada da polícia.",
+"c": false,
+"prof": "Past perfect.",
+"x": "Saíram antes.",
+"e": "Tempos"
+},
+{
+"p": "O simple past de catch é caught.",
+"c": true,
+"prof": "Verbos irregulares.",
+"x": "Literal.",
+"e": "Irregulares"
+},
+{
+"p": "O simple past de flee é fled.",
+"c": true,
+"prof": "Verbos irregulares.",
+"x": "Literal.",
+"e": "Irregulares"
+},
+{
+"p": "\"They are checking every truck\" descreve uma ação em andamento.",
+"c": true,
+"prof": "Present continuous.",
+"x": "Literal.",
+"e": "Tempos"
+},
+{
+"p": "\"The government has not yet approved the law\" significa que o governo ainda não aprovou a lei.",
+"c": true,
+"prof": "Present perfect com yet.",
+"x": "Literal.",
+"e": "Tempos"
+},
+{
+"p": "\"Will\" pode indicar previsão ou decisão sobre o futuro.",
+"c": true,
+"prof": "Futuro.",
+"x": "Literal.",
+"e": "Futuro"
+},
+{
+"p": "\"May\" indica possibilidade.",
+"c": true,
+"prof": "Modais.",
+"x": "Literal.",
+"e": "Modais"
+},
+{
+"p": "\"Must not\" equivale a \"não é necessário\".",
+"c": false,
+"prof": "Modais.",
+"x": "Must not = proibição.",
+"e": "Modais"
+},
+{
+"p": "\"You don't have to stop here\" significa que não é necessário parar ali.",
+"c": true,
+"prof": "Modais.",
+"x": "Literal.",
+"e": "Modais"
+},
+{
+"p": "\"Should\" expressa recomendação ou conselho.",
+"c": true,
+"prof": "Modais.",
+"x": "Literal.",
+"e": "Modais"
+},
+{
+"p": "\"He must be tired\" pode expressar dedução lógica.",
+"c": true,
+"prof": "Modais.",
+"x": "Literal.",
+"e": "Modais"
+},
+{
+"p": "Na voz passiva, o agente da ação é introduzido por \"by\".",
+"c": true,
+"prof": "Voz passiva.",
+"x": "Literal.",
+"e": "Passiva"
+},
+{
+"p": "\"Two tons of drugs were seized\" é uma frase na voz passiva sem agente expresso.",
+"c": true,
+"prof": "Voz passiva.",
+"x": "Literal.",
+"e": "Passiva"
+},
+{
+"p": "\"The boat was stopped by the patrol\" significa que o barco parou a patrulha.",
+"c": false,
+"prof": "Voz passiva.",
+"x": "A patrulha parou o barco.",
+"e": "Passiva"
+},
+{
+"p": "\"The case is being investigated\" significa que o caso está sendo investigado.",
+"c": true,
+"prof": "Voz passiva.",
+"x": "Literal.",
+"e": "Passiva"
+},
+{
+"p": "Na segunda condicional, usa-se if + passado e would + verbo para hipóteses.",
+"c": true,
+"prof": "Condicionais.",
+"x": "Literal.",
+"e": "Condicionais"
+},
+{
+"p": "\"If the driver had worn a seat belt, he would have survived\" indica que ele não usou o cinto.",
+"c": true,
+"prof": "Terceira condicional.",
+"x": "Literal.",
+"e": "Condicionais"
+},
+{
+"p": "\"Unless\" equivale a \"a menos que\".",
+"c": true,
+"prof": "Conectivos.",
+"x": "Literal.",
+"e": "Conectivos"
+},
+{
+"p": "\"Who\" é usado como pronome relativo para coisas.",
+"c": false,
+"prof": "Pronomes relativos.",
+"x": "Who é para pessoas; which para coisas.",
+"e": "Relativos"
+},
+{
+"p": "\"Whose\" equivale a \"cujo\".",
+"c": true,
+"prof": "Pronomes relativos.",
+"x": "Literal.",
+"e": "Relativos"
+},
+{
+"p": "O comparativo de good é better, e o superlativo é the best.",
+"c": true,
+"prof": "Comparativos.",
+"x": "Literal.",
+"e": "Comparativos"
+},
+{
+"p": "\"The deadliest highway\" significa \"a rodovia mais letal\".",
+"c": true,
+"prof": "Superlativos.",
+"x": "Literal.",
+"e": "Superlativos"
+},
+{
+"p": "\"Few drivers obey the rule\" significa que alguns motoristas obedecem à regra, em sentido positivo.",
+"c": false,
+"prof": "Quantificadores.",
+"x": "Few = poucos, quase nenhum.",
+"e": "Quantificadores"
+},
+{
+"p": "\"Twice as many\" significa \"o dobro\".",
+"c": true,
+"prof": "Números.",
+"x": "Literal.",
+"e": "Números"
+},
+{
+"p": "\"Dropped to 10%\" significa que o índice caiu para 10%.",
+"c": true,
+"prof": "Números.",
+"x": "Literal.",
+"e": "Números"
+},
+{
+"p": "\"Set up a checkpoint\" significa montar uma barreira de fiscalização.",
+"c": true,
+"prof": "Phrasal verbs.",
+"x": "Literal.",
+"e": "Phrasal verbs"
+},
+{
+"p": "\"Pull over\" significa encostar o veículo ou mandar o veículo parar.",
+"c": true,
+"prof": "Phrasal verbs.",
+"x": "Literal.",
+"e": "Phrasal verbs"
+},
+{
+"p": "\"Carry out\" significa realizar ou executar.",
+"c": true,
+"prof": "Phrasal verbs.",
+"x": "Literal.",
+"e": "Phrasal verbs"
+},
+{
+"p": "\"Look into\" pode significar investigar.",
+"c": true,
+"prof": "Phrasal verbs.",
+"x": "Literal.",
+"e": "Phrasal verbs"
+},
+{
+"p": "\"Run over\" pode significar atropelar.",
+"c": true,
+"prof": "Phrasal verbs.",
+"x": "Literal.",
+"e": "Phrasal verbs"
+},
+{
+"p": "\"At large\" significa foragido.",
+"c": true,
+"prof": "Expressões.",
+"x": "Literal.",
+"e": "Expressões"
+},
+{
+"p": "\"Off duty\" significa de folga.",
+"c": true,
+"prof": "Expressões.",
+"x": "Literal.",
+"e": "Expressões"
+},
+{
+"p": "Em \"road safety campaign\", o núcleo da expressão é campaign.",
+"c": true,
+"prof": "Ordem de palavras.",
+"x": "Literal.",
+"e": "Ordem"
+},
+{
+"p": "\"Speeding\" significa excesso de velocidade.",
+"c": true,
+"prof": "Vocabulário.",
+"x": "Literal.",
+"e": "Vocabulário"
+},
+{
+"p": "\"Crack down on smuggling\" significa facilitar o contrabando.",
+"c": false,
+"prof": "Phrasal verbs.",
+"x": "Significa reprimir duramente.",
+"e": "Phrasal verbs"
+},
+{
+"p": "O infinitivo pode expressar finalidade, como em \"to reduce crashes\".",
+"c": true,
+"prof": "Infinitivo.",
+"x": "Literal.",
+"e": "Infinitivo"
+},
+{
+"p": "\"All passengers must wear seat belts, but they don't have to show their documents to the driver.\" O trecho indica que",
+"alts": [
+"os passageiros podem escolher usar o cinto",
+"usar o cinto é obrigatório, mas não é necessário mostrar documentos ao motorista",
+"é proibido mostrar documentos ao motorista",
+"o cinto é apenas recomendado",
+"o motorista deve usar o cinto"
+],
+"r": 1,
+"x": "Must = obrigação; don't have to = não é necessário.",
+"n": [
+"Não.",
+"Correta.",
+"Don't have to não proíbe.",
+"Must é obrigação.",
+"Não diz."
+],
+"e": "Modais."
+},
+{
+"p": "\"If more officers had been deployed, the smugglers would not have escaped.\" Infere-se que",
+"alts": [
+"os contrabandistas foram presos",
+"havia poucos policiais e os contrabandistas escaparam",
+"mais policiais foram enviados",
+"os contrabandistas vão escapar",
+"nada se pode inferir"
+],
+"r": 1,
+"x": "Terceira condicional.",
+"n": [
+"Escaparam.",
+"Correta.",
+"Não foram.",
+"Passado.",
+"Pode-se inferir."
+],
+"e": "Condicionais."
+},
+{
+"p": "Em \"The driver whose license was suspended was arrested\", whose equivale a",
+"alts": [
+"quem",
+"que",
+"cujo (cuja)",
+"onde",
+"quando"
+],
+"r": 2,
+"x": "Pronome relativo.",
+"n": [
+"Who.",
+"That/which.",
+"Correta.",
+"Where.",
+"When."
+],
+"e": "Relativos."
+},
+{
+"p": "\"Few drivers obey the speed limit on this road.\" O sentido é:",
+"alts": [
+"alguns motoristas obedecem, e isso é positivo",
+"a maioria obedece",
+"poucos motoristas obedecem ao limite",
+"todos obedecem",
+"nenhum motorista circula ali"
+],
+"r": 2,
+"x": "Few = poucos (sentido negativo).",
+"n": [
+"A few.",
+"Most.",
+"Correta.",
+"All.",
+"Não."
+],
+"e": "Quantificadores."
+},
+{
+"p": "A frase \"The road will be closed next week\" está",
+"alts": [
+"no passado, voz ativa",
+"no presente contínuo",
+"no futuro, voz passiva",
+"no present perfect",
+"na segunda condicional"
+],
+"r": 2,
+"x": "Will be + particípio.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Passiva."
+}
+]
+}
+},
 "portugues": {
 "interpretacao": {
 "html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3</b><span>erros clássicos de leitura (extrapolação, redução e contradição)</span></div><div class=\"lt-stat\"><b>2</b><span>níveis de leitura (compreensão e interpretação)</span></div><div class=\"lt-stat\"><b>2</b><span>tipos de informação implícita (pressuposto e subentendido)</span></div><div class=\"lt-stat\"><b>1</b><span>regra de ouro: toda resposta precisa estar autorizada pelo texto</span></div></div>\n<h3>1. Por que interpretação é a matéria que mais decide a prova</h3>\n<ul><li>Em quase todos os concursos, <b>interpretação de textos</b> é o assunto com <b>mais questões</b> de Língua Portuguesa, e as questões de gramática também vêm, muitas vezes, <b>ligadas a um texto</b> (\"no segundo parágrafo, a palavra X refere-se a...\"). Quem lê bem acerta mais <b>em todas as matérias</b>, porque também lê melhor os enunciados de Direito, as alternativas e as pegadinhas.</li><li>A boa notícia: interpretação <b>se treina</b>. Existe <b>método</b>: entender o que a banca pede, localizar a informação, separar o que o texto <b>diz</b> do que você <b>acha</b>, reconhecer os erros que as alternativas armam.</li></ul>\n<h3>2. Compreensão x interpretação</h3>\n<table class=\"tab\"><thead><tr><th>Nível</th><th>O que é</th><th>Comandos típicos</th></tr></thead><tbody><tr><td><b>Compreensão</b></td><td>entender o que o texto <b>diz explicitamente</b>: a informação está <b>escrita</b>, com essas ou outras palavras</td><td>\"<b>segundo</b> o texto\", \"<b>de acordo com</b> o autor\", \"o texto <b>informa</b> que\", \"o autor <b>afirma</b>\"</td></tr><tr><td><b>Interpretação</b></td><td>tirar <b>conclusões</b> a partir do texto: o que ele <b>permite deduzir</b>, sem estar escrito</td><td>\"<b>infere-se</b>\", \"<b>depreende-se</b>\", \"<b>conclui-se</b>\", \"o texto <b>sugere</b>\", \"<b>pode-se deduzir</b>\", \"<b>permite concluir</b>\"</td></tr></tbody></table>\n<ul><li><b>Compreensão</b> é como <b>localizar</b> um dado: a resposta certa costuma ser uma <b>paráfrase</b> (a mesma ideia, com outras palavras) de um trecho.</li><li><b>Interpretação</b> exige <b>raciocínio</b>, mas <b>dentro dos limites</b> do texto: a conclusão precisa ser <b>necessária</b> ou fortemente <b>autorizada</b> pelo que está escrito, e não apenas \"possível\" ou \"razoável\" no mundo real.</li><li><b>Regra de ouro</b>: a resposta deve ser <b>autorizada pelo texto</b>. Seu conhecimento de mundo ajuda a <b>entender</b>, mas não pode <b>substituir</b> o texto. Se a alternativa traz algo <b>verdadeiro na vida real</b>, mas que o texto <b>não diz nem permite concluir</b>, ela está <b>errada</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se a afirmação é verdadeira no mundo real, a alternativa está correta</span><br>✅ <span class=\"certo\">Só está correta se for <b>autorizada pelo texto</b></span></li><li>❌ <span class=\"banca\">\"Infere-se\" pede que o candidato localize uma frase copiada do texto</span><br>✅ <span class=\"certo\">\"Infere-se\" pede <b>conclusão implícita</b>, autorizada pelo texto</span></li><li>❌ <span class=\"banca\">\"Segundo o texto\" admite conclusões pessoais do leitor</span><br>✅ <span class=\"certo\">\"Segundo o texto\" pede o que o texto <b>diz</b> (compreensão)</span></li></ol></div>\n<h3>3. Os três erros clássicos das alternativas</h3>\n<table class=\"tab\"><thead><tr><th>Erro</th><th>O que a alternativa faz</th><th>Exemplo (texto: \"Muitos jovens brasileiros têm deixado a escola antes de concluir o ensino médio, sobretudo por necessidade de trabalhar.\")</th></tr></thead><tbody><tr><td><b>Extrapolação</b></td><td>vai <b>além</b> do texto: acrescenta informação, generaliza, exagera, conclui o que não dá para concluir</td><td>\"<b>Todos</b> os jovens brasileiros abandonam a escola\" ou \"O governo é o culpado pela evasão\" (o texto não fala em todos nem em culpa do governo)</td></tr><tr><td><b>Redução</b></td><td>fica <b>aquém</b> do texto: toma uma <b>parte</b> pelo todo, omite algo essencial, restringe</td><td>\"O texto trata apenas da necessidade de trabalhar\" (o texto diz \"sobretudo\", o que indica que há outros motivos)</td></tr><tr><td><b>Contradição</b></td><td>diz o <b>contrário</b> do texto</td><td>\"Poucos jovens deixam a escola antes do ensino médio\" ou \"O trabalho não influencia a evasão\"</td></tr></tbody></table>\n<ul><li><b>Palavras de alerta</b> (costumam indicar <b>extrapolação</b> quando o texto não as autoriza): <b>sempre, nunca, todos, nenhum, apenas, somente, exclusivamente, necessariamente, certamente, o único, a maior, a principal</b>. Elas tornam a afirmação <b>absoluta</b>. Se o texto disse \"muitos\", \"frequentemente\", \"pode\", a alternativa com \"todos\", \"sempre\", \"deve\" <b>extrapola</b>.</li><li><b>Palavras que relativizam</b> (geralmente aparecem nas alternativas <b>corretas</b>, porque os textos costumam ser cuidadosos): <b>pode, parece, sugere, em geral, muitas vezes, alguns, tende a, provavelmente</b>.</li><li><b>Cuidado com o contrário</b>: nem toda alternativa com \"sempre\" está errada (se o texto disser \"sempre\", ela pode estar certa), e nem toda alternativa com \"pode\" está certa. A palavra <b>acende o alerta</b>; a <b>comparação com o texto</b> decide.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Alternativa com \"todos\" ou \"sempre\" está sempre errada</span><br>✅ <span class=\"certo\">As palavras <b>absolutas</b> são <b>alerta</b>, mas a alternativa pode estar certa se o <b>texto</b> também for absoluto</span></li><li>❌ <span class=\"banca\">Redução é acrescentar informação ao texto</span><br>✅ <span class=\"certo\">Acrescentar é <b>extrapolação</b>; <b>redução</b> é restringir, tomar a parte pelo todo</span></li></ol></div>\n<h3>4. Informação explícita e implícita: pressuposto e subentendido</h3>\n<ul><li><b>Explícita</b>: está <b>dita</b> no texto.</li><li><b>Implícita</b>: não está dita, mas é <b>transmitida</b>. Há dois tipos principais:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Definição</th><th>Exemplo</th><th>Característica</th></tr></thead><tbody><tr><td><b>Pressuposto</b></td><td>informação implícita <b>marcada na própria frase</b> por uma palavra ou construção; quem afirma a frase <b>aceita</b> essa informação</td><td>\"Paulo <b>parou de</b> fumar\" → pressupõe que Paulo <b>fumava</b></td><td>é <b>objetivo</b>: <b>não pode ser negado</b> sem contradição (\"Paulo parou de fumar, mas nunca fumou\" é absurdo)</td></tr><tr><td><b>Subentendido</b></td><td>insinuação que <b>depende do contexto</b> e da interpretação do ouvinte; não está marcada em palavra</td><td>\"Está calor aqui, não?\" (dito a quem está perto da janela fechada) → subentende-se um <b>pedido</b> para abrir a janela</td><td>é <b>subjetivo</b>: quem fala pode <b>negar</b> (\"Eu só comentei o tempo\")</td></tr></tbody></table>\n<ul><li><b>Marcadores de pressuposto</b> (muito cobrados): <b>verbos</b> que indicam mudança ou continuidade de estado (<b>parar de, deixar de, continuar, começar a, voltar a, tornar-se</b>): \"Ele <b>voltou a</b> estudar\" pressupõe que <b>estudava antes</b> e <b>parou</b>; <b>advérbios</b> como <b>ainda, já, também, até, só</b>: \"<b>Ainda</b> chove\" pressupõe que <b>chovia antes</b>; \"<b>Até</b> o diretor veio\" pressupõe que o diretor <b>não era esperado</b>; <b>adjetivos</b> e expressões: \"o <b>novo</b> chefe\" pressupõe um chefe <b>anterior</b>; <b>orações adjetivas</b> e <b>conectivos</b> que trazem informação dada como certa: \"O policial <b>que salvou a criança</b> foi homenageado\" pressupõe que <b>um policial salvou a criança</b>.</li><li><b>Por que importa</b>: as bancas perguntam \"a frase X <b>pressupõe</b> que...\" ou \"o emprego de 'ainda' indica que...\". O pressuposto é <b>seguro</b>: dá para afirmar com certeza. O subentendido é <b>inferência de contexto</b> e precisa ser muito bem amparado.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O subentendido não pode ser negado por quem fala</span><br>✅ <span class=\"certo\">Quem <b>não pode negar</b> é o <b>pressuposto</b>; o subentendido <b>pode</b> ser negado</span></li><li>❌ <span class=\"banca\">\"Ele deixou de beber\" não traz informação implícita</span><br>✅ <span class=\"certo\">Pressupõe que ele <b>bebia</b> antes</span></li><li>❌ <span class=\"banca\">\"Até o goleiro marcou gol\" pressupõe que o goleiro costuma marcar gols</span><br>✅ <span class=\"certo\">Pressupõe o <b>contrário</b>: que <b>não era esperado</b> que ele marcasse</span></li></ol></div>\n<h3>5. Tema, tese, ideia principal e argumentos</h3>\n<ul><li><b>Assunto</b> (ou tema amplo): <b>de que</b> o texto fala (ex.: segurança pública).</li><li><b>Tema</b> (recorte): o aspecto específico tratado (ex.: o uso de câmeras corporais por policiais).</li><li><b>Tese</b>: o <b>posicionamento</b> do autor sobre o tema, aquilo que ele <b>defende</b> (ex.: as câmeras corporais protegem tanto o cidadão quanto o policial e devem ser ampliadas). Só existe tese em textos <b>argumentativos</b> (dissertativo-argumentativos, artigos de opinião, editoriais, resenhas críticas).</li><li><b>Ideia principal</b> de um parágrafo: a ideia central que o parágrafo desenvolve, geralmente apresentada no <b>tópico frasal</b> (muitas vezes a <b>primeira frase</b>), seguida de explicações, exemplos e detalhes.</li><li><b>Argumentos</b>: as razões que sustentam a tese. <b>Tipos mais cobrados</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de argumento</th><th>Como funciona</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Autoridade</b></td><td>cita especialista, instituição, pesquisa reconhecida</td><td>\"Segundo estudo da universidade X...\"</td></tr><tr><td><b>Exemplificação / ilustração</b></td><td>usa casos concretos, fatos, narrativas</td><td>\"Na cidade X, após a medida, os roubos caíram\"</td></tr><tr><td><b>Dados estatísticos</b> (provas concretas)</td><td>números, porcentagens, índices</td><td>\"A taxa caiu 30% em dois anos\"</td></tr><tr><td><b>Causa e consequência</b></td><td>mostra o que provoca o quê</td><td>\"Como a iluminação melhorou, os assaltos diminuíram\"</td></tr><tr><td><b>Comparação / analogia</b></td><td>aproxima situações semelhantes</td><td>\"Assim como o cinto de segurança, a medida protege mesmo quem a critica\"</td></tr><tr><td><b>Senso comum / consenso</b></td><td>apoia-se no que todos aceitam</td><td>\"Ninguém duvida de que educação reduz a violência\" (argumento fraco se não comprovado)</td></tr><tr><td><b>Contra-argumentação (concessão e refutação)</b></td><td>reconhece a objeção e a rebate</td><td>\"<b>Embora</b> haja custos, os benefícios são maiores\"</td></tr></tbody></table>\n<ul><li><b>Concessão</b>: reconhecer parcialmente a posição contrária para depois <b>reforçar</b> a própria (conectivos <b>embora, ainda que, apesar de, mesmo que, conquanto</b>). A ideia <b>mais importante</b> costuma estar na oração <b>principal</b>, não na concessiva: em \"Embora caro, o projeto é necessário\", o autor <b>defende</b> o projeto.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo texto tem uma tese</span><br>✅ <span class=\"certo\">Só os textos <b>argumentativos</b>; narrativos e descritivos não defendem posição</span></li><li>❌ <span class=\"banca\">Em \"Embora seja caro, o projeto é necessário\", o autor critica o projeto</span><br>✅ <span class=\"certo\">O autor <b>defende</b> o projeto; a concessiva apenas reconhece o custo</span></li><li>❌ <span class=\"banca\">Tema e tese são a mesma coisa</span><br>✅ <span class=\"certo\">Tema é <b>sobre o quê</b>; tese é <b>o que o autor defende</b></span></li></ol></div>\n<h3>6. Vozes do texto e ponto de vista</h3>\n<ul><li>Nem tudo o que está no texto é <b>opinião do autor</b>. O texto pode trazer <b>outras vozes</b>: citações, falas de entrevistados, opiniões que o autor <b>apresenta para criticar</b>.</li><li><b>Discurso direto</b> (a fala reproduzida, entre aspas ou com travessão), <b>discurso indireto</b> (o autor relata o que alguém disse: \"O ministro afirmou que...\") e <b>discurso indireto livre</b> (a voz da personagem se mistura à do narrador, comum na literatura).</li><li><b>Cuidado</b>: se o texto diz \"<b>Alguns especialistas afirmam</b> que a pena de prisão resolve o problema, <b>mas</b> os dados mostram o contrário\", a ideia de que a prisão resolve <b>não é do autor</b>; ele a <b>apresenta para refutar</b>. A alternativa que atribui essa opinião ao autor está <b>errada</b>.</li><li><b>Aspas</b>: podem indicar <b>citação</b>, <b>ironia</b> (sentido contrário: \"o 'brilhante' plano fracassou\"), <b>estrangeirismo</b>, <b>neologismo</b> ou <b>distanciamento</b> (o autor usa a palavra, mas não se responsabiliza por ela: os chamados \"efeitos colaterais\").</li><li><b>Modalizadores</b>: palavras que mostram <b>o grau de certeza ou a avaliação</b> do autor: <b>certamente, talvez, possivelmente, felizmente, infelizmente, é provável que, é necessário que, deve-se</b>. Identificam o <b>ponto de vista</b>: \"<b>Infelizmente</b>, a medida demorou\" mostra avaliação <b>negativa</b> do autor sobre a demora.</li></ul>\n<h3>7. Paráfrase: dizer o mesmo com outras palavras</h3>\n<ul><li><b>Paráfrase</b> é a reescrita que <b>mantém o sentido</b> do original. Muitas questões perguntam qual alternativa <b>reproduz adequadamente</b> uma ideia do texto.</li><li><b>Como testar</b>: compare <b>ponto por ponto</b>: quem faz o quê, com que intensidade, com que certeza, em que tempo, com que restrições. Basta mudar <b>um</b> desses elementos para a paráfrase falhar.</li><li><b>Pontos que costumam ser alterados</b> nas alternativas erradas: <b>quantificadores</b> (muitos → todos), <b>modalização</b> (pode → deve; talvez → certamente), <b>tempo verbal</b> (aumentou → aumentará), <b>causa e consequência invertidas</b> (\"A chuva causou o alagamento\" → \"O alagamento causou a chuva\"), <b>negação</b> acrescentada ou retirada, <b>agente</b> trocado (quem fez a ação).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Paráfrase em prática</b><p>Trecho: \"A ampliação do horário dos postos de saúde pode reduzir a procura pelos prontos-socorros.\"</p><details><summary>Ver a solução comentada</summary><p><b>Correta</b>: \"Estender o funcionamento dos postos de saúde talvez diminua a demanda nos prontos-socorros\" (mantém a <b>possibilidade</b>: \"pode\" → \"talvez\"). <b>Errada</b>: \"A ampliação do horário dos postos <b>reduzirá</b> a procura\" (transforma possibilidade em <b>certeza</b>). <b>Errada</b>: \"A procura pelos prontos-socorros <b>causa</b> a ampliação do horário\" (inverte <b>causa e efeito</b>). <b>Errada</b>: \"Somente a ampliação do horário reduz a procura\" (acrescenta <b>exclusividade</b>).</p></details></div>\n<h3>8. Referenciação: a quem se refere cada palavra</h3>\n<ul><li>Os textos retomam ideias com <b>pronomes</b> (ele, isso, o qual, cujo, este, aquele), <b>sinônimos</b>, expressões gerais (\"o fato\", \"a medida\", \"o problema\"), <b>numerais</b> e até com <b>elipse</b> (a palavra fica subentendida). Saber <b>a que</b> cada termo se refere é tema frequente: \"o pronome 'isso' (linha 5) retoma...\".</li><li><b>Anáfora</b>: retoma algo <b>já dito</b> (\"O delegado chegou. <b>Ele</b> ouviu as testemunhas\"). <b>Catáfora</b>: antecipa algo que <b>ainda será dito</b> (\"O problema é <b>este</b>: falta efetivo\").</li><li><b>Este x esse x aquele</b> (no texto): <b>este</b> costuma anunciar o que <b>vem</b> (catáfora) ou referir-se ao <b>mais próximo</b>; <b>esse</b> retoma o que <b>já foi dito</b>; <b>aquele</b> retoma o termo <b>mais distante</b>. Em \"Pedro e Ana chegaram; <b>esta</b> sorria, <b>aquele</b> estava sério\", <b>esta</b> = Ana (mais próxima), <b>aquele</b> = Pedro (mais distante).</li><li><b>Isso / isto</b> podem retomar <b>uma ideia inteira</b> (uma oração, um parágrafo), e não só uma palavra. A pegadinha é dizer que retoma apenas um substantivo.</li><li><b>Método</b>: substitua o pronome pelo termo candidato e veja se a frase <b>mantém o sentido</b> e a <b>concordância</b> (gênero e número).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Este\" sempre retoma o que já foi dito</span><br>✅ <span class=\"certo\">\"Este\" costuma <b>anunciar</b> o que vem ou indicar o mais <b>próximo</b>; quem retoma é \"esse\"</span></li><li>❌ <span class=\"banca\">\"Isso\" só pode retomar um substantivo</span><br>✅ <span class=\"certo\">Pode retomar <b>uma ideia inteira</b></span></li><li>❌ <span class=\"banca\">Em \"Pedro e Ana chegaram; esta sorria, aquele estava sério\", \"aquele\" refere-se a Ana</span><br>✅ <span class=\"certo\">\"Aquele\" = o <b>mais distante</b> (Pedro); \"esta\" = Ana</span></li></ol></div>\n<h3>9. Conectivos e relações de sentido</h3>\n<ul><li>Os <b>conectivos</b> (conjunções, preposições, locuções, advérbios de ligação) mostram a <b>relação lógica</b> entre as ideias. Trocá-los muda o sentido do texto, e as bancas exploram muito isso.</li></ul>\n<table class=\"tab\"><thead><tr><th>Relação</th><th>Conectivos típicos</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Adição</b></td><td>e, nem, além disso, também, não só... mas também</td><td>\"Treinou e passou\"</td></tr><tr><td><b>Oposição / adversidade</b></td><td>mas, porém, contudo, todavia, entretanto, no entanto</td><td>\"Estudou, <b>mas</b> não passou\"</td></tr><tr><td><b>Concessão</b></td><td>embora, ainda que, mesmo que, apesar de, conquanto, posto que</td><td>\"<b>Embora</b> tenha estudado, não passou\"</td></tr><tr><td><b>Causa</b></td><td>porque, pois (antes do verbo... ver nota), como (no início), já que, visto que, uma vez que</td><td>\"<b>Como</b> choveu, o jogo foi adiado\"</td></tr><tr><td><b>Consequência</b></td><td>tão... que, tanto que, de modo que, de forma que</td><td>\"Choveu <b>tanto que</b> alagou\"</td></tr><tr><td><b>Conclusão</b></td><td>logo, portanto, por isso, assim, então, pois (depois do verbo, entre vírgulas)</td><td>\"Estudou muito; <b>logo</b>, passou\"</td></tr><tr><td><b>Condição</b></td><td>se, caso, desde que, contanto que</td><td>\"<b>Caso</b> chova, adiaremos\"</td></tr><tr><td><b>Finalidade</b></td><td>para que, a fim de que, para</td><td>\"Estudou <b>para</b> passar\"</td></tr><tr><td><b>Tempo</b></td><td>quando, enquanto, assim que, logo que, depois que</td><td>\"<b>Assim que</b> chegou, começou\"</td></tr><tr><td><b>Comparação</b></td><td>como, tal qual, mais... (do) que</td><td>\"Corre <b>como</b> um atleta\"</td></tr><tr><td><b>Conformidade</b></td><td>conforme, segundo, consoante, como</td><td>\"<b>Conforme</b> previsto, o prazo acabou\"</td></tr><tr><td><b>Proporção</b></td><td>à medida que, à proporção que, quanto mais... mais</td><td>\"<b>À medida que</b> estudava, aprendia\"</td></tr></tbody></table>\n<ul><li><b>\"Pois\"</b>: é <b>explicativo/causal</b> quando vem <b>antes</b> do verbo, iniciando a oração (\"Saiu cedo, <b>pois</b> tinha prova\"); é <b>conclusivo</b> quando vem <b>depois</b> do verbo, entre vírgulas (\"Tinha prova; saiu, <b>pois</b>, cedo\").</li><li><b>\"Como\"</b> pode indicar <b>causa</b> (no início: \"<b>Como</b> estava doente, faltou\"), <b>comparação</b> (\"forte <b>como</b> um touro\") ou <b>conformidade</b> (\"<b>Como</b> combinamos, cheguei cedo\").</li><li><b>Substituição de conectivos</b>: só se troca um conectivo por outro da <b>mesma relação</b> (mas → porém; embora → ainda que), observando também o <b>modo verbal</b> (embora pede <b>subjuntivo</b>: \"Embora <b>esteja</b> cansado\"; \"apesar de\" pede <b>infinitivo</b> ou substantivo: \"Apesar de <b>estar</b> cansado\", \"apesar do cansaço\").</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">\"Embora\" e \"mas\" são intercambiáveis sem nenhuma alteração</span><br>✅ <span class=\"certo\">Ambos opõem ideias, mas <b>embora</b> é <b>concessivo</b> e exige <b>subjuntivo</b> e reestruturação; \"mas\" é <b>adversativo</b></span></li><li>❌ <span class=\"banca\">\"Pois\" é sempre explicativo</span><br>✅ <span class=\"certo\">Depois do verbo, entre vírgulas, é <b>conclusivo</b></span></li><li>❌ <span class=\"banca\">\"Portanto\" indica causa</span><br>✅ <span class=\"certo\">Indica <b>conclusão</b></span></li></ol></div>\n<h3>10. Textos verbais e não verbais: charges, tirinhas e gráficos</h3>\n<ul><li><b>Charge</b>: desenho <b>crítico</b> e <b>humorístico</b> sobre fato <b>atual</b> (política, sociedade). Exige conhecer o contexto e perceber a <b>ironia</b> ou a <b>crítica</b>.</li><li><b>Cartum</b>: humor <b>atemporal</b>, sem ligação com fato específico.</li><li><b>Tirinha</b> (tira): sequência de quadrinhos; o humor costuma estar na <b>quebra de expectativa</b> do último quadro. Leia <b>todos os quadros</b> e a <b>relação</b> entre imagem e texto.</li><li><b>Infográficos, tabelas e gráficos</b>: leia <b>título, legenda, unidades, eixos, fonte e período</b>. A pegadinha mais comum é afirmar uma <b>tendência</b> ou uma <b>causa</b> que o gráfico <b>não mostra</b> (gráfico mostra <b>correlação</b>, não necessariamente <b>causa</b>) ou comparar dados de <b>períodos ou unidades</b> diferentes.</li><li><b>Linguagem não verbal</b>: expressões faciais, cores, tamanho das letras (grito), balões (fala, pensamento, cochicho) também <b>significam</b> e entram na interpretação.</li></ul>\n<h3>11. Ironia, humor e duplo sentido</h3>\n<ul><li><b>Ironia</b>: dizer o <b>contrário</b> do que se pensa, com intenção crítica ou humorística, percebida pelo <b>contexto</b> (\"Que beleza! O ônibus atrasou de novo\"). Muitas questões perguntam qual é o <b>sentido real</b> do trecho irônico.</li><li><b>Ambiguidade</b>: frase com <b>dois sentidos</b> possíveis. Pode ser <b>defeito</b> (em textos técnicos e oficiais, deve ser evitada: \"O policial abordou o suspeito em seu carro\": carro de quem?) ou <b>recurso expressivo</b> (em propagandas, piadas e títulos, é usada de propósito).</li><li><b>Humor</b>: frequentemente nasce da <b>ambiguidade</b>, da <b>quebra de expectativa</b>, do <b>exagero</b> ou da <b>ironia</b>. Identificar o <b>mecanismo</b> do humor é pedido comum em tirinhas.</li></ul>\n<h3>12. Título, estrutura e progressão do texto</h3>\n<ul><li><b>Título</b>: resume, antecipa ou provoca. Pode ser <b>ambíguo</b> ou <b>irônico</b> de propósito. Questões pedem o título <b>mais adequado</b> (aquele que abrange o <b>tema central</b>, sem reduzir a um detalhe nem extrapolar).</li><li><b>Estrutura do texto argumentativo</b>: <b>introdução</b> (apresenta o tema e, muitas vezes, a tese), <b>desenvolvimento</b> (argumentos, um por parágrafo, em regra) e <b>conclusão</b> (retoma a tese, sintetiza, propõe solução).</li><li><b>Progressão</b>: o texto avança acrescentando informação nova ao que já foi dito. Questões perguntam a <b>função</b> de um parágrafo (introduzir, exemplificar, contrapor, concluir) ou de um trecho entre parênteses ou travessões (explicar, exemplificar, acrescentar comentário).</li><li><b>Função dos sinais</b>: <b>dois-pontos</b> introduzem explicação, enumeração, citação ou conclusão; <b>parênteses e travessões duplos</b> isolam comentários ou explicações; <b>aspas</b> marcam citação, ironia ou destaque.</li></ul>\n<h3>13. Sentido das palavras no contexto</h3>\n<ul><li><b>Sentido denotativo</b>: o sentido <b>literal</b>, de dicionário (\"O <b>coração</b> bombeia o sangue\"). <b>Sentido conotativo</b>: o sentido <b>figurado</b>, que depende do contexto (\"Ele é o <b>coração</b> do time\").</li><li><b>Sinonímia contextual</b>: a questão pergunta qual palavra <b>substitui</b> outra <b>sem alterar o sentido</b> no texto. A resposta depende do <b>contexto</b>: \"<b>grave</b>\" pode ser <b>sério</b> (\"situação grave\"), <b>baixo</b> (\"som grave\") ou <b>acentuado</b> (\"acento grave\").</li><li><b>Polissemia</b>: uma palavra com <b>vários sentidos</b> relacionados (\"pé\" da mesa, \"pé\" de alface, \"pé\" humano). <b>Homonímia</b>: palavras <b>iguais na forma</b>, com sentidos <b>sem relação</b> (\"são\" de santo, de sadio e do verbo ser).</li><li><b>Parônimos</b>: palavras <b>parecidas</b> na forma, com sentidos diferentes (<b>descrição</b> x <b>discrição</b>; <b>eminente</b> x <b>iminente</b>; <b>ratificar</b> x <b>retificar</b>; <b>comprimento</b> x <b>cumprimento</b>; <b>infligir</b> x <b>infringir</b>; <b>mandado</b> x <b>mandato</b>). São cobrados também em ortografia e reescrita.</li></ul>\n<table class=\"tab\"><thead><tr><th>Par</th><th>Diferença</th></tr></thead><tbody><tr><td><b>Eminente / iminente</b></td><td>eminente = <b>ilustre</b>, elevado; iminente = <b>prestes a acontecer</b></td></tr><tr><td><b>Ratificar / retificar</b></td><td>ratificar = <b>confirmar</b>; retificar = <b>corrigir</b></td></tr><tr><td><b>Infligir / infringir</b></td><td>infligir = <b>aplicar</b> (pena, castigo); infringir = <b>violar</b> (lei, regra)</td></tr><tr><td><b>Mandado / mandato</b></td><td>mandado = <b>ordem</b> judicial (mandado de prisão); mandato = <b>período</b> de representação ou procuração (mandato do prefeito)</td></tr><tr><td><b>Descrição / discrição</b></td><td>descrição = <b>descrever</b>; discrição = <b>reserva</b>, ser discreto</td></tr><tr><td><b>Flagrante / fragrante</b></td><td>flagrante = <b>evidente</b>, no ato; fragrante = <b>perfumado</b></td></tr><tr><td><b>Deferir / diferir</b></td><td>deferir = <b>atender</b>, conceder; diferir = <b>adiar</b> ou ser diferente</td></tr><tr><td><b>Delatar / dilatar</b></td><td>delatar = <b>denunciar</b>; dilatar = <b>ampliar</b></td></tr><tr><td><b>Emigrar / imigrar</b></td><td>emigrar = <b>sair</b> do país; imigrar = <b>entrar</b> em país estrangeiro</td></tr><tr><td><b>Tráfego / tráfico</b></td><td>tráfego = <b>trânsito</b>; tráfico = <b>comércio ilegal</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O juiz ratificou a sentença para corrigir um erro</span><br>✅ <span class=\"certo\">Corrigir é <b>retificar</b>; ratificar é <b>confirmar</b></span></li><li>❌ <span class=\"banca\">A pena foi infringida ao réu</span><br>✅ <span class=\"certo\">Aplicar pena = <b>infligir</b>; infringir é <b>violar</b></span></li><li>❌ <span class=\"banca\">O mandato de prisão foi cumprido</span><br>✅ <span class=\"certo\">Ordem judicial = <b>mandado</b>; mandato é período de representação</span></li><li>❌ <span class=\"banca\">Perigo eminente</span><br>✅ <span class=\"certo\">Prestes a acontecer = <b>iminente</b></span></li></ol></div>\n<h3>14. Método prático para resolver questões de interpretação</h3>\n<ul><li><b>1) Leia o comando primeiro</b>: descubra se a questão pede <b>compreensão</b> (\"segundo o texto\"), <b>interpretação</b> (\"infere-se\"), <b>sentido de palavra</b>, <b>referência</b>, <b>função</b> de trecho ou a alternativa <b>incorreta</b> (atenção ao \"<b>exceto</b>\", \"<b>incorreta</b>\", \"<b>não</b>\").</li><li><b>2) Leia o texto inteiro</b> com atenção, identificando o <b>tema</b>, a <b>tese</b> (se houver) e a <b>ideia principal</b> de cada parágrafo. Em textos longos, sublinhe palavras-chave e conectivos.</li><li><b>3) Volte ao trecho</b> indicado e leia <b>antes e depois</b> dele (o contexto resolve a maioria das dúvidas).</li><li><b>4) Teste cada alternativa</b> contra o texto: procure <b>extrapolação</b>, <b>redução</b>, <b>contradição</b>, troca de quantificadores, de modalização, de tempo, de causa e consequência, de agente.</li><li><b>5) Elimine</b> as alternativas com erro claro e compare as que sobram: a correta é a <b>mais fiel</b> ao texto, não a mais \"bonita\" ou a mais completa sobre o assunto.</li><li><b>6) Desconfie</b> de alternativas que trazem <b>opinião do candidato</b> (frases que soam corretas moralmente mas não estão no texto) e de alternativas que <b>copiam</b> trechos do texto mudando <b>uma palavra</b>.</li></ul>\n<h3>15. Como a FGV e outras bancas cobram</h3>\n<ul><li>A <b>FGV</b> (banca de referência para a PCMG) costuma usar textos <b>jornalísticos e opinativos</b> atuais, com questões que exigem <b>inferência</b> fina, <b>paráfrase</b>, <b>sentido contextual</b> de palavras, <b>função</b> de conectivos e de trechos, <b>pressupostos</b> e análise de <b>argumentos</b> (\"o argumento utilizado no segundo parágrafo é de...\", \"o autor se vale de...\"). As alternativas costumam ser <b>longas</b> e muito <b>parecidas</b>, diferindo em um detalhe.</li><li><b>Cebraspe</b> (Certo/Errado): cobra <b>paráfrase</b> e <b>reescrita</b> (manutenção de sentido e correção), inferências e o <b>sentido</b> de trechos; um único detalhe torna o item errado.</li><li><b>Outras bancas</b> (Fumarc, Consulplan, Vunesp, IBFC): misturam compreensão direta, sentido de palavras e gramática aplicada ao texto.</li></ul>\n<h3>16. Casos práticos de leitura</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto e inferência</b><p>Texto: \"Desde que o bairro passou a contar com a ronda escolar, os pais relatam mais tranquilidade na saída dos alunos. A diretora, porém, lembra que a iluminação da praça ao lado continua precária.\"</p><details><summary>Ver a solução comentada</summary><p><b>Pode-se inferir</b>: a ronda escolar <b>é recente</b> (pressuposto de \"desde que passou a contar\"); a diretora considera que <b>ainda há problemas</b> de segurança (o \"porém\" contrapõe e o \"continua\" pressupõe que a iluminação já era precária). <b>Não se pode inferir</b>: que a violência <b>acabou</b> (extrapolação), que os pais <b>não confiam</b> na ronda (contradição) ou que a iluminação é responsabilidade da escola (extrapolação).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ponto de vista e outras vozes</b><p>Texto: \"Há quem diga que o videomonitoramento resolve sozinho a criminalidade urbana. A experiência de várias cidades, contudo, mostra que câmeras sem equipe para acompanhar as imagens pouco adiantam.\"</p><details><summary>Ver a solução comentada</summary><p>A ideia de que o videomonitoramento resolve <b>sozinho</b> o problema <b>não é do autor</b>: é atribuída a \"há quem diga\" e <b>refutada</b> pelo \"contudo\". O autor defende que as câmeras dependem de <b>equipe</b> para funcionar. Uma alternativa que diga \"o autor é contrário ao videomonitoramento\" <b>extrapola</b>: ele critica a ideia de que as câmeras <b>bastam sozinhas</b>, não as câmeras em si.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Palavra no contexto</b><p>Frase: \"O relatório apontou falhas graves na fiscalização, o que exige uma resposta imediata.\"</p><details><summary>Ver a solução comentada</summary><p><b>Graves</b> = <b>sérias</b>, <b>importantes</b> (não \"de som baixo\"). <b>Imediata</b> = <b>sem demora</b>. O pronome \"<b>o que</b>\" retoma <b>toda a ideia</b> anterior (o fato de o relatório ter apontado falhas), e não só a palavra \"fiscalização\".</p></details></div>\n<h3>17. Textos literários: narrador, eu lírico e linguagem figurada</h3>\n<ul><li>Algumas provas trazem <b>crônicas</b>, <b>contos</b> e <b>poemas</b>. A leitura exige atenção a elementos próprios:</li></ul>\n<table class=\"tab\"><thead><tr><th>Elemento</th><th>O que é</th><th>Como aparece na questão</th></tr></thead><tbody><tr><td><b>Narrador</b></td><td>quem <b>conta</b> a história (não é o autor real)</td><td>\"o narrador do texto...\"</td></tr><tr><td><b>Foco narrativo em 1ª pessoa</b></td><td>narrador <b>personagem</b> (participa da história: \"eu fui...\")</td><td>visão <b>limitada</b> ao que ele sabe e sente</td></tr><tr><td><b>Foco narrativo em 3ª pessoa</b></td><td>narrador <b>observador</b> (conta de fora) ou <b>onisciente</b> (conhece pensamentos e sentimentos das personagens)</td><td>\"o narrador conhece o que a personagem pensa\"</td></tr><tr><td><b>Eu lírico</b> (eu poético)</td><td>a <b>voz</b> que fala no poema; não se confunde com o poeta</td><td>\"o eu lírico expressa...\"</td></tr><tr><td><b>Crônica</b></td><td>texto curto, ligado ao <b>cotidiano</b>, com tom leve, humorístico ou reflexivo, publicado em jornal ou revista</td><td>\"o cronista parte de um fato banal para refletir...\"</td></tr><tr><td><b>Linguagem figurada</b></td><td>metáforas, comparações, personificações</td><td>\"a expressão X foi empregada em sentido figurado\"</td></tr></tbody></table>\n<ul><li><b>Cuidado</b>: na crônica e no poema, o sentido <b>figurado</b> é a regra. Uma questão que pede o sentido de \"O tempo é um rio\" não quer \"o tempo é feito de água\", e sim a ideia de <b>passagem contínua</b>, que não volta. As figuras de linguagem são aprofundadas no tópico de Semântica.</li><li><b>Personagens e falas</b>: no discurso <b>direto</b>, a fala é reproduzida com as palavras da personagem; no <b>indireto</b>, o narrador relata o que ela disse; no <b>indireto livre</b>, a fala ou o pensamento da personagem aparece misturado à narração, sem verbo de fala e sem aspas.</li></ul>\n<h3>18. Inferência na prática: o que pode e o que não pode</h3>\n<ul><li><b>Inferência válida</b> é a conclusão que <b>decorre</b> do texto com segurança ou com alta probabilidade, sem depender de suposições externas.</li><li><b>Exemplo 1</b>: \"O delegado só conseguiu ouvir a testemunha no terceiro dia, quando ela finalmente compareceu.\" <b>Pode-se inferir</b>: a testemunha <b>não compareceu</b> nos dois primeiros dias (pressuposto de \"só\" e \"finalmente\"); houve <b>demora</b> ou dificuldade. <b>Não se pode inferir</b>: que a testemunha <b>mentiu</b>, que estava <b>com medo</b> ou que o delegado foi <b>negligente</b> (todas são suposições).</li><li><b>Exemplo 2</b>: \"Com a nova lei, os motoristas flagrados pela segunda vez perderão a habilitação.\" <b>Pode-se inferir</b>: na primeira vez, a perda da habilitação <b>não</b> é automática pela regra mencionada (o texto fala em \"segunda vez\"); a lei é <b>nova</b>. <b>Não se pode inferir</b>: que a lei <b>reduzirá</b> os acidentes (efeito não afirmado) ou que antes não havia nenhuma punição (o texto não diz).</li><li><b>Exemplo 3</b>: \"Ao contrário do que se previa, a obra terminou no prazo.\" <b>Pode-se inferir</b>: havia <b>expectativa</b> de atraso. <b>Não se pode inferir</b>: que obras públicas <b>sempre</b> atrasam (generalização).</li><li><b>Teste rápido</b>: pergunte \"<b>o texto me obriga</b> a concluir isso?\" Se a resposta for \"não, mas é provável no mundo real\", a alternativa provavelmente <b>extrapola</b>.</li></ul>\n<h3>19. Função de trechos e de parágrafos</h3>\n<ul><li>Muitas questões não perguntam <b>o que</b> o texto diz, mas <b>para que</b> um trecho foi usado. Funções frequentes:</li></ul>\n<table class=\"tab\"><thead><tr><th>Função</th><th>Sinais típicos</th></tr></thead><tbody><tr><td><b>Introduzir o tema</b></td><td>primeiro parágrafo, apresentação do assunto, dados gerais</td></tr><tr><td><b>Apresentar a tese</b></td><td>frase opinativa central, muitas vezes no fim da introdução</td></tr><tr><td><b>Exemplificar</b></td><td>\"por exemplo\", \"como\", casos concretos, nomes de cidades, números</td></tr><tr><td><b>Explicar / esclarecer</b></td><td>\"isto é\", \"ou seja\", parênteses, dois-pontos</td></tr><tr><td><b>Ressalvar / contrapor</b></td><td>\"mas\", \"porém\", \"embora\", \"por outro lado\"</td></tr><tr><td><b>Retomar / resumir</b></td><td>\"em suma\", \"em síntese\", \"dessa forma\"</td></tr><tr><td><b>Concluir / propor</b></td><td>último parágrafo, \"portanto\", \"é preciso\", \"cabe ao poder público\"</td></tr><tr><td><b>Introduzir outra voz</b></td><td>\"segundo\", \"de acordo com\", \"para fulano\", aspas</td></tr><tr><td><b>Retificar</b></td><td>\"ou melhor\", \"aliás\", correção de algo dito antes</td></tr></tbody></table>\n<ul><li><b>Parênteses</b> e <b>travessões</b> costumam acrescentar <b>explicação</b>, <b>exemplo</b> ou <b>comentário</b> do autor; retirá-los, em geral, <b>não prejudica</b> a correção gramatical, mas pode tirar uma informação.</li><li><b>Pergunta retórica</b>: pergunta feita <b>sem esperar resposta</b>, para provocar reflexão ou reforçar a tese (\"Até quando vamos aceitar isso?\").</li></ul>\n<h3>20. Exercício comentado com texto completo</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto para análise</b><p>\"Em muitas cidades brasileiras, o policiamento comunitário deixou de ser uma promessa e passou a fazer parte da rotina. A ideia é simples: o mesmo grupo de policiais atua por longo tempo no mesmo bairro, conhece os moradores e é conhecido por eles. Os resultados, porém, dependem menos do nome do programa do que da continuidade. Quando os policiais são trocados a todo momento, a confiança construída se perde, e a população volta a enxergar a farda como algo distante. Há, ainda, quem veja no modelo apenas uma estratégia de imagem. Os números de algumas experiências bem conduzidas, no entanto, mostram queda de crimes e aumento das denúncias anônimas, sinal de que a comunidade passou a colaborar. O desafio, portanto, não é criar novos programas a cada gestão, mas manter os que funcionam.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tese</b>: o sucesso do policiamento comunitário depende da <b>continuidade</b>; o desafio é <b>manter</b> os programas que funcionam (último período, introduzido por \"portanto\"). <b>2) Pressuposto</b> de \"deixou de ser uma promessa\": antes, o policiamento comunitário <b>era apenas promessa</b>. <b>3) Função de \"A ideia é simples:\"</b>: anuncia uma <b>explicação</b> do conceito (os dois-pontos introduzem o esclarecimento). <b>4) \"Porém\"</b> (3º período): introduz <b>ressalva</b>: os resultados não vêm automaticamente. <b>5) \"Há, ainda, quem veja no modelo apenas uma estratégia de imagem\"</b>: é <b>outra voz</b>, que o autor <b>refuta</b> com o \"no entanto\" seguinte; atribuir essa visão ao autor é <b>erro</b>. <b>6) Argumento</b> do penúltimo período: <b>dados/provas concretas</b> (\"os números... mostram\"). <b>7) Inferência válida</b>: a troca constante de policiais <b>prejudica</b> a confiança da população. <b>8) Inferência inválida</b> (extrapolação): \"o policiamento comunitário reduz a criminalidade em <b>todas</b> as cidades onde é implantado\" (o texto fala em \"algumas experiências <b>bem conduzidas</b>\"). <b>9) Redução</b>: \"o texto trata <b>apenas</b> da queda dos crimes\" (ignora o tema central, a continuidade). <b>10) Sentido de \"farda\"</b>: metonímia para a <b>polícia/instituição</b> (a parte pelo todo), e não apenas a roupa.</p></details></div>\n<h3>21. Estratégia de prova e controle do tempo</h3>\n<ul><li><b>Textos longos</b>: faça uma primeira leitura <b>rápida</b> para captar tema e estrutura e, depois, leia com atenção os trechos indicados pelas questões. Marque <b>conectivos</b> e palavras <b>absolutas</b> e <b>modalizadoras</b>.</li><li><b>Ordem das questões</b>: comece pelas de <b>compreensão</b> e <b>sentido de palavras</b> (mais rápidas) e deixe as de inferência mais complexa para depois, voltando ao texto com calma.</li><li><b>Alternativas longas</b> (comuns na FGV): divida a alternativa em <b>partes</b> e verifique cada uma. Basta <b>um</b> pedaço errado para eliminá-la.</li><li><b>Questões \"exceto/incorreta\"</b>: marque o comando com destaque; muitos erros vêm de responder o contrário do que foi pedido.</li><li><b>Não brigue com o texto</b>: mesmo que você discorde da opinião do autor, a questão pede o que <b>o texto</b> diz ou permite concluir.</li><li><b>Treino</b>: a habilidade cresce com a <b>prática diária</b> de leitura (editoriais, artigos de opinião, reportagens) e de questões comentadas da banca. Ao errar, anote o <b>tipo de erro</b> (extrapolou? reduziu? confundiu voz?) para não repeti-lo.</li></ul>\n<h3>22. Segundo exercício comentado: texto expositivo</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto para análise</b><p>\"O número de golpes aplicados por mensagens de celular cresceu nos últimos anos. Em geral, o criminoso se apresenta como um parente ou um funcionário de banco e cria um senso de urgência: pede uma transferência imediata, alegando um problema grave. Especialistas recomendam desconfiar de qualquer pedido de dinheiro por mensagem, sobretudo quando acompanhado de pressa, e confirmar a história por outro canal, como uma ligação para o número já conhecido do parente. Nem sempre, porém, a vítima consegue pensar com calma, pois o golpista explora justamente o medo e o afeto.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tipo de texto</b>: predominantemente <b>expositivo/injuntivo</b>: informa sobre o golpe e traz <b>recomendações</b> (não defende uma tese polêmica). <b>2) \"Em geral\"</b>: <b>relativiza</b>; uma alternativa que diga que o criminoso \"<b>sempre</b> se apresenta como parente\" <b>extrapola</b> (o texto também cita funcionário de banco e usa \"em geral\"). <b>3) \"Sobretudo\"</b>: indica <b>destaque</b>, não exclusividade; \"a desconfiança só é necessária quando há pressa\" é <b>redução/contradição</b> (o texto manda desconfiar de <b>qualquer</b> pedido). <b>4) \"Como uma ligação...\"</b>: <b>exemplifica</b> o \"outro canal\". <b>5) \"Porém\"</b> no último período: <b>ressalva</b> à recomendação: nem sempre a vítima consegue segui-la. <b>6) \"Pois\"</b> (antes do verbo): <b>explicativo/causal</b>: explica por que a vítima não pensa com calma. <b>7) Inferência válida</b>: o <b>senso de urgência</b> é uma estratégia do golpista para reduzir a reflexão da vítima. <b>8) Inferência inválida</b>: \"os bancos são responsáveis pelos golpes\" (o texto não trata de responsabilidade); \"os golpes diminuirão com as recomendações\" (efeito não afirmado).</p></details></div>\n<h3>23. Terceiro exercício comentado: tirinha descrita</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Tirinha (descrição)</b><p>Quadro 1: um homem diz ao amigo: \"Comecei a correr todo dia para ter mais saúde.\" Quadro 2: o amigo pergunta: \"E como está indo?\" Quadro 3: o homem, deitado no sofá, comendo pizza e vendo televisão, responde: \"Ótimo! Já corro todo dia... atrás do entregador da pizzaria.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Mecanismo do humor</b>: <b>quebra de expectativa</b> e <b>ambiguidade</b> do verbo \"correr\": no início, \"correr\" sugere <b>exercício físico</b>; no fim, revela-se o sentido de <b>correr atrás</b> do entregador (para pegar a pizza). <b>2) Ironia/contradição</b> entre o objetivo (saúde) e o comportamento mostrado (sedentarismo e pizza). <b>3) Linguagem não verbal</b>: a <b>imagem</b> do último quadro (sofá, pizza, TV) é essencial para o humor e contradiz a fala inicial. <b>4) Inferência válida</b>: o personagem <b>não</b> pratica corrida como exercício. <b>5) Inferência inválida</b>: \"o personagem trabalha como entregador\" (contradição: ele corre <b>atrás</b> do entregador) ou \"a tirinha critica as pizzarias\" (extrapolação).</p></details></div>\n<h3>24. Interpretação de textos legais e de enunciados de outras matérias</h3>\n<ul><li>A habilidade de interpretação vale para <b>ler a lei</b>: muitas questões de Direito são, na verdade, questões de <b>leitura atenta</b> do texto legal, com as mesmas armadilhas: troca de \"<b>pode</b>\" por \"<b>deve</b>\", de \"<b>poderá</b>\" por \"<b>será</b>\", de \"<b>salvo</b>\" por \"<b>inclusive</b>\", de prazos e quantificadores (\"<b>até</b> 10 dias\" x \"<b>no mínimo</b> 10 dias\"; \"<b>e</b>\" x \"<b>ou</b>\").</li><li><b>Palavras que mudam tudo</b> em textos normativos: <b>salvo, exceto, ressalvado</b> (exceção); <b>inclusive, também</b> (inclusão); <b>somente, apenas, exclusivamente, privativamente</b> (exclusividade); <b>vedado, proibido</b> (proibição); <b>facultado, poderá</b> (faculdade); <b>deverá, será, é obrigatório</b> (obrigação); <b>até, no máximo, no mínimo, não inferior a, não superior a</b> (limites).</li><li><b>Exemplo</b>: \"O laudo será elaborado no prazo <b>máximo</b> de 10 dias, <b>podendo</b> ser prorrogado, em casos <b>excepcionais</b>, a requerimento dos peritos.\" Uma alternativa que diga \"o prazo de 10 dias é <b>improrrogável</b>\" contradiz o texto; outra que diga \"o prazo <b>será</b> prorrogado a pedido de <b>qualquer parte</b>\" troca a <b>faculdade</b> por <b>obrigação</b> e o <b>legitimado</b>.</li><li><b>Enunciados longos de Direito</b> (casos práticos): leia como um texto: identifique <b>quem</b> fez <b>o quê</b>, <b>quando</b>, <b>com que intenção</b>, e o que a questão <b>pergunta</b>. Muitos erros vêm de ignorar um dado do enunciado (a idade da vítima, o prazo, a relação entre as pessoas).</li></ul>\n<h3>25. Erros mais comuns dos candidatos (e como evitar)</h3>\n<ul><li><b>Responder com a própria opinião</b>: escolher a alternativa que parece \"mais justa\" ou \"mais correta\" no mundo, e não a que o texto autoriza. <b>Remédio</b>: para cada alternativa, apontar <b>onde</b> no texto está a base.</li><li><b>Ler só o trecho indicado</b>: muitas vezes o sentido depende da frase anterior ou seguinte. <b>Remédio</b>: ler <b>antes e depois</b>.</li><li><b>Ignorar conectivos e modalizadores</b>: deixar passar um \"porém\", um \"talvez\", um \"nem sempre\". <b>Remédio</b>: sublinhar conectivos e palavras de certeza.</li><li><b>Confundir a voz do autor com a de terceiros</b>: atribuir ao autor uma opinião que ele cita para criticar. <b>Remédio</b>: perguntar \"<b>quem</b> está dizendo isso no texto?\".</li><li><b>Não perceber o comando \"incorreta/exceto\"</b>: marcar a primeira alternativa verdadeira. <b>Remédio</b>: circular o comando antes de ler as alternativas.</li><li><b>Cansaço e pressa</b>: interpretação exige concentração; deixar para o fim da prova costuma prejudicar. <b>Remédio</b>: resolver os textos em um momento de boa atenção e controlar o tempo por bloco de questões.</li><li><b>Achar que toda alternativa bem escrita é correta</b>: as alternativas erradas costumam ser <b>bem redigidas</b> e parecidas com o texto. <b>Remédio</b>: comparar <b>palavra por palavra</b> os pontos sensíveis (quantificadores, tempo, causa, agente, modalização).</li></ul>\n<h3>26. Quarto exercício comentado: crônica</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Crônica (texto autoral)</b><p>\"Toda segunda-feira, seu Antônio abre a padaria antes das cinco. Diz que é para pegar o pão saindo do forno, mas a vizinhança sabe que é para conversar com os primeiros fregueses: o motorista do ônibus, a enfermeira do plantão, o vigia que volta para casa. Entre um café e outro, ele resolve, de graça, os problemas do bairro, e às vezes os do país. Na semana passada, a padaria não abriu. Ninguém sabia o que dizer. O motorista atrasou a saída, a enfermeira chegou ao hospital sem o pão de queijo, o vigia foi dormir sem ouvir que 'amanhã vai ser melhor'. Na terça, seu Antônio voltou, gripado, mas voltou. E o bairro, que nem sabia que precisava dele, respirou aliviado.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Gênero</b>: <b>crônica</b>: parte de um fato do <b>cotidiano</b> para refletir sobre as <b>relações humanas</b> e a importância de pequenos gestos. <b>2) Ironia leve</b> em \"resolve, de graça, os problemas do bairro, e às vezes os do país\": <b>humor</b> com exagero (hipérbole), mostrando o hábito de conversar e opinar. <b>3) Pressuposto</b> de \"Na terça, seu Antônio <b>voltou</b>\": ele <b>havia faltado</b> antes. <b>4) Inferência válida</b>: a ausência de seu Antônio <b>afetou a rotina</b> dos fregueses, mostrando que sua presença tinha <b>valor afetivo</b> para o bairro. <b>5) Inferência inválida</b>: \"seu Antônio fechou a padaria por falência\" (o texto indica <b>gripe</b>; extrapolação/contradição) ou \"o bairro não gostava de seu Antônio\" (contradição). <b>6) \"Mas a vizinhança sabe que é para conversar\"</b>: o \"mas\" opõe o <b>motivo declarado</b> (pão saindo do forno) ao <b>motivo real</b> percebido pela vizinhança (conversar). <b>7) Tese?</b> Crônica não defende tese como um artigo de opinião; ela <b>sugere uma reflexão</b> (o valor das pequenas presenças no cotidiano). <b>8) Narrador</b>: em <b>3ª pessoa</b>, observador, com tom afetuoso.</p></details></div>\n<h3>27. Quinto exercício comentado: leitura de gráfico</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Gráfico (descrição)</b><p>Título: \"Ocorrências de furto de celular no centro da cidade (por mês)\". Eixo horizontal: janeiro a junho. Eixo vertical: número de ocorrências. Valores: janeiro 120, fevereiro 135, março 90, abril 85, maio 80, junho 82. Nota de rodapé: \"Em março foi instalado o videomonitoramento na praça central.\" Fonte: Secretaria Municipal de Segurança.</p><details><summary>Ver a solução comentada</summary><p><b>1) Leitura correta</b>: houve <b>aumento</b> de janeiro para fevereiro, <b>queda</b> acentuada em março e <b>estabilidade</b> com pequenas variações de abril a junho (aumento leve em junho). <b>2) Inferência possível</b>: a queda <b>coincide</b> com a instalação do videomonitoramento. <b>3) Inferência indevida</b>: \"o videomonitoramento <b>causou</b> a queda dos furtos\" (o gráfico mostra <b>coincidência no tempo</b>, não prova a causa; outros fatores podem ter influído, como mais policiamento ou mudança de comércio). <b>4) Erro de leitura</b>: \"os furtos caíram <b>todos os meses</b> após março\" (em junho houve <b>leve aumento</b>: 80 → 82). <b>5) Erro de unidade/escopo</b>: \"os furtos caíram na <b>cidade inteira</b>\" (o gráfico trata do <b>centro</b>). <b>6) Atenção à fonte e ao período</b>: dados de <b>seis meses</b> não permitem afirmar tendência de <b>longo prazo</b>.</p></details></div>\n<h3>28. Sexto exercício comentado: artigo de opinião</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Artigo de opinião (texto autoral)</b><p>\"Proibir o celular nas salas de aula tornou-se bandeira de muitas escolas. A medida parece óbvia: sem a tela por perto, o aluno presta mais atenção. Ainda assim, convém evitar o entusiasmo fácil. O celular não é o único responsável pela distração, e aulas pouco interessantes continuarão pouco interessantes sem ele. Além disso, o aparelho pode ser ferramenta valiosa quando o professor o integra ao planejamento, como em pesquisas rápidas ou em exercícios interativos. Isso não significa liberar o uso sem regras; significa reconhecer que a proibição, sozinha, não resolve. Mais eficaz do que banir é ensinar os jovens a usar a tecnologia com propósito, algo de que precisarão para o resto da vida.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Tese</b>: a <b>proibição isolada</b> do celular <b>não resolve</b> a distração; é mais eficaz <b>ensinar o uso com propósito</b> (últimos períodos). <b>2) \"A medida parece óbvia\"</b>: o verbo \"<b>parece</b>\" já sinaliza que o autor vai <b>relativizar</b> essa ideia; não é afirmação de concordância plena. <b>3) \"Ainda assim\"</b>: conectivo de <b>concessão/oposição</b>: mesmo reconhecendo o argumento da atenção, o autor pede cautela. <b>4) \"Além disso\"</b>: <b>adição</b> de novo argumento (o celular como ferramenta pedagógica). <b>5) \"Como em pesquisas rápidas...\"</b>: <b>exemplificação</b>. <b>6) \"Isso não significa...\"</b>: o \"isso\" retoma a <b>ideia anterior</b> (o uso pedagógico do aparelho) e o trecho <b>antecipa uma objeção</b> (a de que o autor defenderia liberar tudo), refutando-a: é <b>contra-argumentação</b>. <b>7) Inferência válida</b>: o autor <b>não é favorável</b> ao uso irrestrito do celular. <b>8) Inferência inválida</b> (contradição): \"o autor defende a liberação total do celular\". <b>9) Inferência inválida</b> (extrapolação): \"o autor considera que os professores são os culpados pela distração\" (ele menciona aulas pouco interessantes, mas não atribui culpa aos professores). <b>10) Redução</b>: \"o texto trata apenas dos benefícios do celular\" (ele também reconhece o argumento da atenção e a necessidade de regras).</p></details></div>\n<ul><li><b>Observação</b>: repare como os <b>conectivos</b> (\"ainda assim\", \"além disso\", \"isso não significa... significa\") organizam o raciocínio. Em textos argumentativos, <b>mapear os conectivos</b> é o caminho mais rápido para achar a <b>tese</b> e a <b>função</b> de cada parte.</li></ul>\n<h3>29. Sétimo exercício comentado: notícia</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Notícia (texto autoral)</b><p>\"A Prefeitura anunciou ontem que vai ampliar o horário de funcionamento de cinco unidades básicas de saúde, que passarão a atender até as 22 horas a partir do próximo mês. Segundo a secretária de Saúde, a medida busca reduzir a superlotação dos prontos-socorros, que recebem muitos casos sem urgência no período noturno. O sindicato dos servidores, por sua vez, afirma que não houve contratação de novos profissionais e teme sobrecarga das equipes atuais. A Prefeitura não informou o custo da mudança.\"</p><details><summary>Ver a solução comentada</summary><p><b>1) Gênero</b>: <b>notícia</b>: relata um fato com <b>vozes</b> de diferentes fontes, sem opinião explícita do jornalista. <b>2) Vozes</b>: a <b>secretária</b> (objetivo da medida) e o <b>sindicato</b> (crítica); a afirmação de que \"não houve contratação\" é do <b>sindicato</b>, não do jornal. <b>3) Inferência válida</b>: atualmente, essas unidades <b>não</b> funcionam até as 22 horas (pressuposto de \"<b>vai ampliar</b>\" e \"<b>passarão a</b> atender\"). <b>4) Inferência válida</b>: há <b>divergência</b> entre a Prefeitura e o sindicato quanto às condições de implantação. <b>5) Inferência inválida</b> (extrapolação): \"a medida <b>reduzirá</b> a superlotação\" (é o <b>objetivo</b> declarado pela secretária, não um resultado garantido). <b>6) Inferência inválida</b>: \"o jornal considera a medida inadequada\" (o texto não traz opinião do jornal; apenas registra a crítica do sindicato). <b>7) Último período</b>: \"A Prefeitura <b>não informou</b> o custo\" é dado factual, e não prova de que o custo seja alto; dizer isso seria extrapolar. <b>8) \"Por sua vez\"</b>: introduz a <b>outra parte</b>, marcando o contraponto entre as fontes.</p></details></div>\n<ul><li><b>Checklist final antes de marcar a resposta</b>: (1) Respondi exatamente ao <b>comando</b> (correta, incorreta, infere-se, segundo o texto)? (2) A alternativa escolhida tem <b>base</b> em um trecho que consigo apontar? (3) Ela mantém os <b>quantificadores</b> (alguns, muitos, todos), a <b>modalização</b> (pode, deve, talvez) e o <b>tempo</b> verbal do texto? (4) Ela atribui as ideias à <b>voz certa</b> (autor ou terceiros)? (5) Ela respeita a <b>relação lógica</b> (causa, consequência, oposição, concessão) estabelecida pelos conectivos? (6) Não estou trazendo <b>conhecimento de fora</b> que o texto não autoriza? Se as seis respostas forem \"sim\", a chance de acerto é muito alta. Repetir esse checklist em cada questão, durante os treinos, faz com que ele se torne automático no dia da prova, e é nesse momento que a interpretação deixa de depender do \"feeling\" e passa a ser um procedimento seguro.</li><li><b>Como treinar em casa (rotina sugerida)</b>: escolha diariamente <b>um texto opinativo</b> (editorial ou artigo) e <b>uma notícia</b>. No texto opinativo, sublinhe a <b>tese</b>, numere os <b>argumentos</b> e circule os <b>conectivos</b>; depois, escreva em duas linhas o que o autor defende. Na notícia, separe <b>fato</b>, <b>falas</b> e <b>dados</b>. Em seguida, resolva de 10 a 15 questões da banca do seu concurso e, para cada erro, anote a <b>causa</b> (extrapolação, redução, contradição, voz trocada, conectivo, comando). Em poucas semanas, os erros se repetem cada vez menos, porque você passa a reconhecer os padrões das alternativas erradas. Esse treino também melhora a sua <b>escrita</b> (redação e peças discursivas), porque quem identifica bem a estrutura dos textos dos outros aprende a organizar melhor os próprios.</li><li><b>Lembrete sobre o vocabulário</b>: muitas questões de interpretação dependem de conhecer o <b>sentido de palavras</b> menos usadas no dia a dia (exíguo = escasso; profícuo = proveitoso; inócuo = sem efeito; ínfimo = mínimo; precípuo = principal; óbice = obstáculo; dirimir = resolver uma dúvida; coibir = reprimir). Ler textos variados e consultar o dicionário quando aparecer palavra desconhecida amplia o vocabulário e evita erros por desconhecimento de um único termo-chave.</li><li><b>Lição da notícia</b>: em textos jornalísticos, separe sempre <b>o fato</b> (o que aconteceu), <b>as falas</b> (quem disse o quê) e <b>as conclusões</b> que a questão propõe. A maioria das alternativas erradas mistura esses três planos.</li></ul>\n<h3>30. Treino rápido de pegadinhas de leitura</h3>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quando o texto diz \"pode reduzir\", a alternativa \"reduz\" mantém o sentido</span><br>✅ <span class=\"certo\">Transforma <b>possibilidade</b> em <b>certeza</b></span></li><li>❌ <span class=\"banca\">Quando o texto diz \"alguns especialistas\", a alternativa \"os especialistas\" mantém o sentido</span><br>✅ <span class=\"certo\">Generaliza: é <b>extrapolação</b></span></li><li>❌ <span class=\"banca\">Se o texto critica uma opinião, a alternativa pode atribuir essa opinião ao autor</span><br>✅ <span class=\"certo\">O autor <b>refuta</b> a opinião; atribuí-la a ele é erro</span></li><li>❌ <span class=\"banca\">Coincidência no tempo, em um gráfico, prova causa</span><br>✅ <span class=\"certo\">Mostra <b>correlação</b>; causa exige outros elementos</span></li><li>❌ <span class=\"banca\">Crônica sempre defende uma tese explícita</span><br>✅ <span class=\"certo\">A crônica costuma sugerir <b>reflexão</b> a partir do cotidiano, sem tese formal</span></li><li>❌ <span class=\"banca\">\"Nem sempre\" equivale a \"nunca\"</span><br>✅ <span class=\"certo\">\"Nem sempre\" = <b>às vezes não</b>; \"nunca\" é absoluto</span></li></ol></div>\n<ul><li><b>Fechamento</b>: interpretar bem é <b>comparar com rigor</b> o que está escrito com o que a alternativa afirma. Com o método deste tópico (comando, leitura completa, contexto, teste de cada alternativa, eliminação) e treino constante, a interpretação deixa de ser \"sorte\" e passa a ser <b>técnica</b>.</li></ul>\n<h3>31. Glossário e mapa de revisão</h3>\n<table class=\"tab\"><thead><tr><th>Termo</th><th>Significado</th></tr></thead><tbody><tr><td><b>Compreensão</b></td><td>entender o que o texto diz explicitamente</td></tr><tr><td><b>Interpretação</b></td><td>concluir o que o texto permite deduzir</td></tr><tr><td><b>Extrapolação</b></td><td>ir além do texto</td></tr><tr><td><b>Redução</b></td><td>ficar aquém do texto, tomar a parte pelo todo</td></tr><tr><td><b>Contradição</b></td><td>afirmar o contrário do texto</td></tr><tr><td><b>Pressuposto</b></td><td>informação implícita marcada na frase, que não pode ser negada</td></tr><tr><td><b>Subentendido</b></td><td>insinuação que depende do contexto e pode ser negada</td></tr><tr><td><b>Tese</b></td><td>posição defendida pelo autor</td></tr><tr><td><b>Tópico frasal</b></td><td>frase que apresenta a ideia principal do parágrafo</td></tr><tr><td><b>Concessão</b></td><td>reconhecer a objeção para reforçar a própria tese</td></tr><tr><td><b>Paráfrase</b></td><td>reescrita que mantém o sentido</td></tr><tr><td><b>Anáfora / catáfora</b></td><td>retoma o já dito / antecipa o que virá</td></tr><tr><td><b>Modalizador</b></td><td>palavra que mostra certeza ou avaliação do autor</td></tr><tr><td><b>Denotação / conotação</b></td><td>sentido literal / figurado</td></tr><tr><td><b>Polissemia</b></td><td>vários sentidos relacionados</td></tr><tr><td><b>Parônimos</b></td><td>palavras parecidas com sentidos diferentes</td></tr><tr><td><b>Charge / cartum</b></td><td>humor crítico atual / atemporal</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Segundo o texto\" pede</span></span><span class=\"vs\"><span>compreensão (o que está dito)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Infere-se\" pede</span></span><span class=\"vs\"><span>interpretação (conclusão autorizada)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Extrapolação</span></span><span class=\"vs\"><span>ir além do texto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Redução</span></span><span class=\"vs\"><span>restringir, tomar a parte pelo todo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Contradição</span></span><span class=\"vs\"><span>dizer o contrário do texto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pressuposto</span></span><span class=\"vs\"><span>marcado na frase; não pode ser negado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Subentendido</span></span><span class=\"vs\"><span>depende do contexto; pode ser negado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Parou de fumar\" pressupõe</span></span><span class=\"vs\"><span>que fumava</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tese</span></span><span class=\"vs\"><span>o que o autor defende</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Argumento de autoridade</span></span><span class=\"vs\"><span>cita especialista ou instituição</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Concessão</span></span><span class=\"vs\"><span>embora, ainda que, apesar de</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Pois\" antes do verbo</span></span><span class=\"vs\"><span>explicativo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Pois\" depois do verbo, entre vírgulas</span></span><span class=\"vs\"><span>conclusivo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Este x esse</span></span><span class=\"vs\"><span>este anuncia/próximo; esse retoma</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ratificar x retificar</span></span><span class=\"vs\"><span>confirmar x corrigir</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infligir x infringir</span></span><span class=\"vs\"><span>aplicar x violar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mandado x mandato</span></span><span class=\"vs\"><span>ordem x período de representação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gráfico mostra</span></span><span class=\"vs\"><span>correlação, não necessariamente causa</span></span></button></div></div>",
