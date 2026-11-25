@@ -65,6 +65,160 @@ export default {
 "e": "Falsos cognatos."
 },
 {
+"p": "Em prova Certo ou Errado de língua estrangeira, o item que troca \"some\" (alguns) por \"todos\" costuma estar errado por generalização.",
+"c": true,
+"prof": "Certo. Generalização indevida é a armadilha mais comum.",
+"x": "Quantificadores (some, many, most, few, algunos, muchos) limitam o alcance da afirmação. Se o item amplia para \"todos\" ou \"nenhum\", ele extrapola o texto.",
+"e": "some ≠ all."
+},
+{
+"p": "\"Eventually\", em inglês, significa \"eventualmente\" no sentido de \"por acaso\".",
+"c": false,
+"prof": "Errado. Eventually = finalmente, por fim.",
+"x": "É falso cognato clássico: \"eventually\" indica algo que acontece depois de um tempo, no fim. \"Eventualmente\" em português corresponde a \"occasionally\" ou \"possibly\".",
+"e": "eventually = por fim."
+},
+{
+"p": "\"Actually\" pode ser traduzido por \"atualmente\".",
+"c": false,
+"prof": "Errado. Actually = na verdade.",
+"x": "\"Atualmente\" em inglês é \"currently\" ou \"nowadays\". \"Actually\" introduz correção ou reforço: \"na verdade\", \"de fato\".",
+"e": "actually = na verdade."
+},
+{
+"p": "\"Pretend\", em inglês, significa fingir, e não pretender.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Pretender\" (ter a intenção) corresponde a \"intend\". \"Pretend\" é fingir.",
+"e": "pretend = fingir."
+},
+{
+"p": "\"Exquisito\", em espanhol, significa delicioso ou requintado, e não estranho.",
+"c": true,
+"prof": "Certo. Falso amigo do espanhol.",
+"x": "Para \"esquisito\" (estranho) o espanhol usa \"raro\" ou \"extraño\".",
+"e": "exquisito = delicioso."
+},
+{
+"p": "\"Oficina\", em espanhol, significa oficina mecânica.",
+"c": false,
+"prof": "Errado. Oficina = escritório.",
+"x": "Oficina mecânica em espanhol é \"taller\". \"Oficina\" é o local de trabalho administrativo.",
+"e": "oficina = escritório; taller = oficina."
+},
+{
+"p": "\"Polvo\", em espanhol, significa pó ou poeira.",
+"c": true,
+"prof": "Certo.",
+"x": "O animal polvo, em espanhol, é \"pulpo\".",
+"e": "polvo = pó."
+},
+{
+"p": "Skimming é a leitura lenta, palavra por palavra, para traduzir o texto inteiro.",
+"c": false,
+"prof": "Errado. Skimming é leitura rápida para captar a ideia geral.",
+"x": "Skimming = olhar título, primeiro parágrafo, primeiras frases e conclusão para pegar o tema. Scanning = procurar informação específica (número, nome, data).",
+"e": "skimming = ideia geral; scanning = dado específico."
+},
+{
+"p": "Scanning é a técnica indicada para localizar no texto um número, uma data ou um nome citado no item.",
+"c": true,
+"prof": "Certo.",
+"x": "O candidato lê o item, identifica a palavra-chave e corre o olho pelo texto até achá-la; só então lê com atenção o trecho ao redor.",
+"e": "scanning."
+},
+{
+"p": "Ler primeiro os itens da prova e depois o texto ajuda a direcionar a leitura para o que será cobrado.",
+"c": true,
+"prof": "Certo. Estratégia recomendada.",
+"x": "Saber de antemão o que os itens perguntam evita gastar tempo traduzindo trechos que não serão cobrados.",
+"e": "itens antes do texto."
+},
+{
+"p": "Em itens de interpretação, a informação verdadeira no mundo real, mas ausente do texto, torna o item certo.",
+"c": false,
+"prof": "Errado. Vale só o que está no texto.",
+"x": "A banca avalia a compreensão do texto. Conhecimento externo, mesmo correto, não sustenta o item se o texto não autoriza aquela conclusão.",
+"e": "só o texto."
+},
+{
+"p": "Verbos modais como \"may\", \"might\" e \"could\" indicam possibilidade, e o item que os trata como certeza tende a estar errado.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Cameras may reduce crashes\" (podem reduzir) não equivale a \"reduzem\". A troca de possibilidade por certeza é armadilha recorrente.",
+"e": "may = pode ser."
+},
+{
+"p": "Palavras cognatas, como \"investigation\", \"federal\" e \"important\", ajudam a construir o sentido geral do texto.",
+"c": true,
+"prof": "Certo.",
+"x": "Os cognatos verdadeiros são a base do skimming: mesmo sem vocabulário amplo, o leitor reconhece o tema por eles.",
+"e": "cognatos verdadeiros."
+},
+{
+"p": "\"Library\" significa livraria.",
+"c": false,
+"prof": "Errado. Library = biblioteca.",
+"x": "Livraria em inglês é \"bookstore\" ou \"bookshop\".",
+"e": "library = biblioteca."
+},
+{
+"p": "\"Sensible\", em inglês, significa sensato.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Sensível\" em inglês é \"sensitive\".",
+"e": "sensible = sensato."
+},
+{
+"p": "\"Embarazada\", em espanhol, significa embaraçada ou envergonhada.",
+"c": false,
+"prof": "Errado. Embarazada = grávida.",
+"x": "Envergonhada em espanhol é \"avergonzada\".",
+"e": "embarazada = grávida."
+},
+{
+"p": "\"Rato\", em espanhol, significa momento, curto período de tempo.",
+"c": true,
+"prof": "Certo.",
+"x": "O animal rato, em espanhol, é \"ratón\" (ou \"rata\").",
+"e": "rato = momento."
+},
+{
+"p": "O título de um texto costuma antecipar o tema e deve ser usado na leitura inicial.",
+"c": true,
+"prof": "Certo.",
+"x": "Título, subtítulo e fonte indicam o assunto e o tipo de texto (notícia, artigo de opinião, relatório), o que orienta a leitura.",
+"e": "título orienta."
+},
+{
+"p": "Quando o texto diz que algo \"fell to a third\", ele afirma que caiu em um terço.",
+"c": false,
+"prof": "Errado. Fell to = caiu para um terço.",
+"x": "\"By\" indica a variação (caiu em um terço, ou seja, sobrou dois terços). \"To\" indica o valor final (sobrou um terço).",
+"e": "by = variação; to = resultado."
+},
+{
+"p": "Em textos de opinião, expressões como \"critics argue\" e \"supporters claim\" indicam posições de terceiros, e não necessariamente a do autor.",
+"c": true,
+"prof": "Certo.",
+"x": "Atribuir ao autor uma opinião que ele apenas relata é erro comum de interpretação.",
+"e": "quem diz o quê."
+},
+{
+"p": "\"Assist\", em inglês, significa assistir a um filme ou a uma aula.",
+"c": false,
+"prof": "Errado. Assist = ajudar.",
+"x": "Assistir a algo, no sentido de ver, é \"watch\" ou \"attend\" (comparecer).",
+"e": "assist = ajudar."
+},
+{
+"p": "\"Exit\", em inglês, significa saída, e não êxito.",
+"c": true,
+"prof": "Certo.",
+"x": "Êxito em inglês é \"success\".",
+"e": "exit = saída."
+},
+{
 "p": "Em inglês, “eventually” significa “finalmente, por fim”.",
 "c": true,
 "x": "“Eventualmente” é “occasionally”.",
@@ -198,6 +352,146 @@ export default {
 "É although."
 ],
 "e": "Conectivos."
+},
+{
+"p": "Em \"The suspect was arrested by federal officers\", a oração está na voz passiva e os agentes federais praticaram a ação.",
+"c": true,
+"prof": "Certo. Agente da passiva introduzido por \"by\".",
+"x": "Voz passiva = verbo to be + particípio. Quem pratica a ação aparece depois de \"by\".",
+"e": "be + particípio + by."
+},
+{
+"p": "Em \"The bridge has been closed\", a ponte fechou algo.",
+"c": false,
+"prof": "Errado. A ponte sofreu a ação (foi fechada).",
+"x": "Present perfect passivo (has been + particípio): a ponte é o paciente; o agente não foi mencionado.",
+"e": "has been closed = foi fechada."
+},
+{
+"p": "\"Must\" pode indicar obrigação (\"you must stop\") ou dedução lógica (\"he must be the driver\").",
+"c": true,
+"prof": "Certo.",
+"x": "O contexto define: obrigação forte ou conclusão quase certa a partir de indícios.",
+"e": "must = obrigação ou dedução."
+},
+{
+"p": "\"Should\" indica obrigação absoluta, equivalente a \"must\".",
+"c": false,
+"prof": "Errado. Should = recomendação, conselho.",
+"x": "\"Drivers should rest every two hours\" é recomendação (deveriam). \"Must\" é mais forte.",
+"e": "should = deveria."
+},
+{
+"p": "Em \"If drivers slowed down, fewer people would die\", a condição é hipotética no presente.",
+"c": true,
+"prof": "Certo. Segunda condicional.",
+"x": "If + passado simples, would + verbo: situação hipotética ou improvável no presente ou futuro.",
+"e": "2ª condicional = hipótese."
+},
+{
+"p": "Em \"If the police had arrived earlier, the robbery would have been prevented\", o roubo foi impedido.",
+"c": false,
+"prof": "Errado. O roubo não foi impedido.",
+"x": "Terceira condicional (if + had + particípio; would have + particípio) fala de um passado que não aconteceu: a polícia não chegou cedo e o roubo ocorreu.",
+"e": "3ª condicional = passado irreal."
+},
+{
+"p": "Em \"Unless the law changes, the problem will continue\", \"unless\" equivale a \"if not\".",
+"c": true,
+"prof": "Certo.",
+"x": "Unless = a menos que, a não ser que.",
+"e": "unless = a menos que."
+},
+{
+"p": "O pronome relativo \"whose\" indica posse.",
+"c": true,
+"prof": "Certo. Whose = cujo, cuja.",
+"x": "\"The driver whose license was suspended\" = o motorista cuja carteira foi suspensa.",
+"e": "whose = cujo."
+},
+{
+"p": "\"Who\" é o pronome relativo usado para coisas e animais.",
+"c": false,
+"prof": "Errado. Who = pessoas; which = coisas.",
+"x": "\"That\" pode substituir ambos em orações restritivas.",
+"e": "who = pessoas; which = coisas."
+},
+{
+"p": "Em \"fewer accidents\" usa-se \"fewer\" porque \"accidents\" é contável; com incontáveis usa-se \"less\".",
+"c": true,
+"prof": "Certo.",
+"x": "Fewer cars, fewer deaths; less traffic, less money.",
+"e": "fewer = contáveis."
+},
+{
+"p": "\"The more cameras, the fewer crashes\" expressa proporção: quanto mais, menos.",
+"c": true,
+"prof": "Certo.",
+"x": "Estrutura \"the + comparativo..., the + comparativo\" = quanto mais..., mais (ou menos).",
+"e": "the more..., the..."
+},
+{
+"p": "\"Used to\", em \"He used to drive trucks\", indica hábito atual.",
+"c": false,
+"prof": "Errado. Indica hábito no passado que não existe mais.",
+"x": "Costumava dirigir caminhões (não dirige mais). Para hábito atual, usa-se o presente simples ou \"be used to\" (estar acostumado).",
+"e": "used to = costumava."
+},
+{
+"p": "\"Stop smoking\" significa parar de fumar, e \"stop to smoke\" significa parar para fumar.",
+"c": true,
+"prof": "Certo.",
+"x": "Gerúndio após stop = a atividade interrompida; infinitivo = finalidade da parada.",
+"e": "stop + -ing x stop + to."
+},
+{
+"p": "Em espanhol, \"sino\" é usado depois de uma negação para corrigir a ideia: \"no es policía, sino bombero\".",
+"c": true,
+"prof": "Certo.",
+"x": "\"Pero\" indica oposição simples sem negação anterior com correção (\"es caro, pero bueno\").",
+"e": "sino = mas sim."
+},
+{
+"p": "Em espanhol, \"aunque\" sempre exige o verbo no indicativo.",
+"c": false,
+"prof": "Errado. Pode vir com indicativo ou subjuntivo, com sentidos diferentes.",
+"x": "\"Aunque llueve\" = embora esteja chovendo (fato). \"Aunque llueva\" = ainda que chova (hipótese).",
+"e": "aunque + indicativo/subjuntivo."
+},
+{
+"p": "Em espanhol, a perífrase \"acabar de + infinitivo\" indica ação concluída há pouco.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Acaba de llegar\" = acabou de chegar.",
+"e": "acabar de = acabou de."
+},
+{
+"p": "Em espanhol, \"sin embargo\" equivale a \"no entanto\".",
+"c": true,
+"prof": "Certo.",
+"x": "É conector adversativo. Não confundir com \"embargo\" em sentido jurídico.",
+"e": "sin embargo = no entanto."
+},
+{
+"p": "Em espanhol, \"todavía\" significa \"todavia\" (contudo).",
+"c": false,
+"prof": "Errado. Todavía = ainda.",
+"x": "\"Todavía no llegó\" = ainda não chegou. O \"todavia\" português corresponde a \"sin embargo\".",
+"e": "todavía = ainda."
+},
+{
+"p": "Em espanhol, \"luego\" pode significar \"depois\" ou, como conector, \"portanto\".",
+"c": true,
+"prof": "Certo.",
+"x": "\"Pienso, luego existo\" = penso, logo existo. Em narrativas, \"luego\" costuma marcar sequência no tempo.",
+"e": "luego = depois / logo."
+},
+{
+"p": "Em inglês, \"however\" no início da frase, seguido de vírgula, introduz contraste com a ideia anterior.",
+"c": true,
+"prof": "Certo.",
+"x": "Equivale a \"no entanto\". Pode ser trocado por \"nevertheless\" sem grande alteração de sentido.",
+"e": "however = no entanto."
 },
 {
 "p": "Em inglês, “should” é usado para dar conselho ou recomendação.",

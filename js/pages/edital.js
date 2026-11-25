@@ -4,6 +4,7 @@ import { esc, hoje, iso, addDias, parseISO, pct, corPct, norm, segundaDa } from 
 import { barra, toast, modal } from '../ui.js';
 import { formExterno } from './calendario.js';
 import { recarregar } from '../app.js';
+import { motivoFinalizado, tarefasPorTopico } from '../progresso.js';
 import { ajustarDatas, finalizarCronograma, importarEdital } from './edital-ferramentas.js';
 
 let periodo = { tipo: 'total', de: null, ate: null };
@@ -18,6 +19,8 @@ export async function render(el) {
     return;
   }
   const h = hoje();
+  const _L = new Set(JSON.parse(localStorage.getItem("risk-lidos-" + (S.user?.id || "x")) || "[]")), _T = tarefasPorTopico(), _M = new Map();
+  const FIN = (t) => (_M.has(t.id) ? _M.get(t.id) : _M.set(t.id, motivoFinalizado(t, _L, _T)).get(t.id));
   const intervalo = () => {
     if (periodo.tipo === 'dia') return [iso(h), iso(h)];
     if (periodo.tipo === 'semana') return [iso(segundaDa(h)), iso(h)];
@@ -33,7 +36,7 @@ export async function render(el) {
   const validos = topicosValidos();
   const fora = S.topicos.filter((t) => t.fora_do_edital);
   const comQ = new Set(S.logs.map((l) => l.topico_id));
-  const prog = pct(validos.filter((t) => comQ.has(t.id)).length, validos.length) ?? 0;
+  const prog = pct(validos.filter((t) => FIN(t)).length, validos.length) ?? 0;
   const mats = new Map();
   for (const t of validos) { if (!mats.has(t.materia)) mats.set(t.materia, []); mats.get(t.materia).push(t); }
   const ap = pct(tot.a, tot.f);
@@ -43,7 +46,7 @@ export async function render(el) {
   <div class="topo"><div><div class="mono up">Edital verticalizado</div><h1>${esc(ed.concurso)}</h1><div class="muted">${esc([ed.cargo, ed.banca, ed.formato === 'multipla_escolha' ? 'múltipla escolha' : 'certo/errado'].filter(Boolean).join(' · '))}</div></div>
     <div class="row"><button class="btn" id="anexo">📎 Anexar edital</button><button class="btn sec" id="novo">+ Novo edital</button><button class="btn sec" id="addTop">+ Tópico</button><button class="btn sec" id="datas">📅 Ajustar datas</button><button class="btn sec" id="finaliza">🏁 Finalizar cronograma</button></div></div>
   <div class="grid g2">
-    <div class="card"><div class="mono up">Progresso geral</div><div class="num">${prog}%</div>${barra(prog)}<div class="muted" style="margin-top:6px">${validos.filter((t) => comQ.has(t.id)).length} de ${validos.length} tópicos praticados · ${validos.filter((t) => t.concluido).length} finalizados</div></div>
+    <div class="card"><div class="mono up">Progresso geral</div><div class="num">${prog}%</div>${barra(prog)}<div class="muted" style="margin-top:6px">${validos.filter((t) => FIN(t)).length} de ${validos.length} tópicos finalizados · ${validos.filter((t) => comQ.has(t.id)).length} com questões</div></div>
     <div class="card"><div class="row"><div class="mono up">Análise de questões</div><span class="sp"></span>
       <select id="per">${[['total', 'Total'], ['dia', 'Hoje'], ['semana', 'Semana'], ['mes', 'Último mês'], ['periodo', 'Período personalizado']].map(([v, n]) => `<option value="${v}" ${periodo.tipo === v ? 'selected' : ''}>${n}</option>`).join('')}</select></div>
       ${periodo.tipo === 'periodo' ? `<div class="row" style="margin-top:8px"><input type="date" id="de" value="${esc(periodo.de || '')}"> a <input type="date" id="ate" value="${esc(periodo.ate || '')}"></div>
@@ -55,11 +58,11 @@ export async function render(el) {
       <div class="mono" style="margin-top:6px">No app: ${tot.app[0]} questões · ${tot.app[1]} acertos — Fora do app: ${tot.ext[0]} questões · ${tot.ext[1]} acertos</div></div>
   </div>
   <div class="row" style="margin:18px 0 8px"><h2 style="margin:0">Matérias do edital</h2><span class="sp"></span><label class="check" style="margin:0"><input type="checkbox" id="pend" ${soPendentes ? 'checked' : ''}> Só não finalizados</label></div>
-  ${[...mats].map(([m, ts]) => { const vis = soPendentes ? ts.filter((t) => !t.concluido) : ts; const pr = ts.filter((t) => comQ.has(t.id)).length;
+  ${[...mats].map(([m, ts]) => { const vis = soPendentes ? ts.filter((t) => !FIN(t)) : ts; const pr = ts.filter((t) => comQ.has(t.id)).length;
     return `<details class="mat"><summary><b style="font-family:var(--serif);font-size:1.1rem">${esc(m)}</b><span class="muted">(${ts.length})</span><span class="sp"></span><span class="pill">${pr}/${ts.length}</span></summary>
       ${vis.map((t) => { const [f, a] = porTop.get(t.id) || [0, 0]; const p = pct(a, f);
-        return `<div class="top"><input type="checkbox" data-c="${t.id}" ${t.concluido ? 'checked' : ''} title="Tópico finalizado">
-          <div>${esc(t.topico)}<div class="row" style="margin-top:6px"><button class="linkbtn" data-ext="${t.id}">Registrar fora do app</button></div></div>
+        return `<div class="top"><input type="checkbox" data-c="${t.id}" ${FIN(t) ? 'checked' : ''} title="Tópico finalizado">
+          <div>${esc(t.topico)}${!t.concluido && FIN(t) ? ` <span class="pill" style="font-size:.7rem">✓ ${FIN(t) === 'leitura' ? 'lido no conteúdo' : 'feito no cronograma'}</span>` : ''}<div class="row" style="margin-top:6px"><button class="linkbtn" data-ext="${t.id}">Registrar fora do app</button></div></div>
           <div class="nums">${f ? `<b class="${corPct(p)}">${p}%</b><br><span class="muted">${a}/${f}</span>` : `<span class="muted">${iv ? 'sem questões no período' : '—'}</span>`}</div></div>`; }).join('')}
     </details>`; }).join('')}
   ${fora.length ? `<details class="mat"><summary><b>Fora do edital (histórico)</b><span class="muted">— ${fora.length} tópicos</span></summary>${fora.map((t) => { const [f, a] = porTop.get(t.id) || [0, 0]; return `<div class="top"><span></span><div><span class="muted">${esc(t.materia)}</span><br>${esc(t.topico)}</div><div class="nums">${f} questões · ${a} acertos</div></div>`; }).join('')}</details>` : ''}`;

@@ -177,7 +177,7 @@ function leitura(el, q, mat, idx) {
     <div class="lt-top-dir"><label class="lt-concl" title="Marcar este tópico como concluído"><span>Concluído</span><input type="checkbox" id="ltConcl" ${L.has(k) ? 'checked' : ''}><i></i></label></div>
   </div>
   <nav class="lt-ferr" aria-label="Ferramentas de leitura">
-    <button type="button" id="ltPdf" title="Baixar em PDF (imprimir)">⬇</button>
+    <button type="button" id="ltPdf" title="Baixar este tópico em PDF">⬇</button>
     <button type="button" id="ltNota" title="Minhas anotações deste tópico">✎</button>
     <button type="button" id="ltFav" class="${fav.has(k) ? 'on' : ''}" title="Favoritar tópico">${fav.has(k) ? '★' : '☆'}</button>
     <button type="button" id="ltTela" title="Tela cheia">⛶</button>
@@ -228,7 +228,13 @@ function leitura(el, q, mat, idx) {
   $('#ltCap').onclick = () => ind.classList.toggle('aberto');
   $('#ltCapX').onclick = () => ind.classList.remove('aberto');
   $('#ltConcl').onchange = () => { const s2 = lidos(); s2.has(k) ? s2.delete(k) : s2.add(k); gravar(chave(), [...s2]); render(el, q); };
-  $('#ltPdf').onclick = () => { document.body.classList.add('lt-imprimir'); setTimeout(() => { window.print(); document.body.classList.remove('lt-imprimir'); }, 50); };
+  $('#ltPdf').onclick = async () => {
+    const b = $('#ltPdf'); if (b.disabled) return; b.disabled = true;
+    const tela = document.createElement('div'); tela.className = 'pdf-gerando'; tela.innerHTML = '<div><span class="spin"></span><b>Gerando o seu PDF</b><small id="pdfMsg">Preparando…</small></div>'; document.body.appendChild(tela);
+    try { const { baixarPdfTopico } = await import('../pdf-topico.js'); await baixarPdfTopico(mat, a, (t) => { const m = tela.querySelector('#pdfMsg'); if (m && t) m.textContent = t; }); toast('PDF baixado.'); }
+    catch (e) { console.error(e); toast(e.message || 'Não foi possível gerar o PDF.', 'erro'); }
+    finally { tela.remove(); b.disabled = false; }
+  };
   $('#ltTela').onclick = () => { const r = el.querySelector('.lt-pro'); if (document.fullscreenElement) document.exitFullscreen(); else (r.requestFullscreen ? r.requestFullscreen() : null)?.catch?.(() => {}); };
   $('#ltFav').onclick = () => { const f = new Set(ler('risk-fav-' + (S.user?.id || 'x'), [])); f.has(k) ? f.delete(k) : f.add(k); gravar('risk-fav-' + (S.user?.id || 'x'), [...f]); const on = f.has(k); $('#ltFav').classList.toggle('on', on); $('#ltFav').textContent = on ? '★' : '☆'; toast(on ? 'Tópico favoritado.' : 'Favorito removido.'); };
   $('#ltNota').onclick = () => { const kn = 'risk-nota-' + (S.user?.id || 'x') + '-' + k; modal(`<h3>✎ Minhas anotações</h3><p class="muted" style="font-size:13.5px">${esc(a.titulo)} · ficam salvas neste aparelho.</p><textarea id="ntT" style="min-height:200px">${esc(ler(kn, ''))}</textarea><button class="btn" id="ntS" style="margin-top:8px">Salvar</button>`, { onMount: (m, close) => (m.querySelector('#ntS').onclick = () => { gravar(kn, m.querySelector('#ntT').value); toast('Anotação salva.'); close(); }) }); };

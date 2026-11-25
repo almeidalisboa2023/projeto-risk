@@ -10,6 +10,7 @@ import { contarFlash } from '../questao.js';
 import { caixaAvisos } from '../avisos.js';
 import { meuCurso } from '../cursos.js';
 import { convite } from './cronograma.js';
+import { finalizados } from '../progresso.js';
 
 let timer = null;
 
@@ -18,7 +19,7 @@ export async function render(el) {
   const ed = S.edital;
   const nome = (S.profile.nome || '').split(' ')[0] || 'estudante';
   const validos = topicosValidos();
-  const fin = validos.filter((t) => t.concluido).length;
+  const FIN = finalizados(validos), fin = FIN.size;
   const comQ = new Set(S.logs.map((l) => l.topico_id));
   const praticados = validos.filter((t) => comQ.has(t.id)).length;
   const h = hoje(), seg = segundaDa(h);
@@ -41,7 +42,7 @@ export async function render(el) {
   const minHoje = minEntre(h, h);
   const ult7 = Array.from({ length: 7 }, (_, i) => addDias(h, i - 6));
   const minTotal = S.sessoes.reduce((x, s) => x + s.minutos, 0);
-  const restantes = validos.filter((t) => !t.concluido).length;
+  const restantes = validos.length - fin;
   const semRest = faltam != null ? Math.max(1, Math.ceil(faltam / 7)) : null;
   const teoria4 = ed ? S.tarefas.filter((t) => t.concluido && t.semana < semanaAtual && t.semana >= semanaAtual - 4 && !/^revis/i.test(t.topico)).length / 4 : 0;
   const precisa = semRest ? Math.ceil(restantes / semRest) : null;
