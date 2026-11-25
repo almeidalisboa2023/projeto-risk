@@ -18,7 +18,6 @@ const PAGINAS = {
   registrar: ['Registrar questões', '✎', () => import('./pages/registrar.js')],
   leitura: ['Conteúdo programático', '📖', () => import('./pages/leitura.js')],
   pegadinhas: ['Treino de pegadinhas', '🪤', () => import('./pages/pegadinhas.js')],
-  cursos: ['Cursos preparatórios', '🎓', () => import('./pages/vitrine.js')],
   apostilas: ['Apostilas', '📚', () => import('./pages/apostilas.js')],
   materiais: ['Materiais', '📄', () => import('./pages/materiais.js')],
   simulados: ['Simulados', '📝', () => import('./pages/simulados-pdf.js')],
@@ -75,7 +74,7 @@ function faixaVencimento() {
   const p = S.profile; if (!p || p.role === 'admin') return '';
   const d = diasRestantes(p);
   if (d === null || d < 0 || d > AVISO_DIAS) return '';
-  return `<div class="faixa-venc">⏳ Seu acesso ${d === 0 ? 'vence <b>hoje</b>' : `vence em <b>${d} dia${d === 1 ? '' : 's'}</b> (${fmtData(p.acesso_ate)})`}. <a href="#/cursos">Renovar agora</a></div>`;
+  return `<div class="faixa-venc">⏳ Seu acesso ${d === 0 ? 'vence <b>hoje</b>' : `vence em <b>${d} dia${d === 1 ? '' : 's'}</b> (${fmtData(p.acesso_ate)})`}. Renove com o mesmo e-mail para continuar.</div>`;
 }
 
 function layout(atual) {
@@ -148,18 +147,14 @@ async function rota() {
 }
 export const recarregar = rota;
 
-// Visitante sem login: a página inicial é a vitrine de cursos; Entrar/Criar conta ficam no canto
+// Visitante sem login: a página inicial é a tela de entrada
 const ROTA_LOGIN = /^#\/(entrar|criar|esqueci)\b/;
 function deslogado() {
-  const h = location.hash;
-  if (ROTA_LOGIN.test(h)) telaLogin(h.slice(2).split(/[?&]/)[0]);
-  else { if (!/^#\/cursos/.test(h)) history.replaceState(null, '', location.pathname + location.search + '#/cursos'); telaPublica(); }
+  const modo = () => (ROTA_LOGIN.test(location.hash) ? location.hash.slice(2).split(/[?&]/)[0] : 'entrar');
+  if (!ROTA_LOGIN.test(location.hash)) history.replaceState(null, '', location.pathname + location.search + '#/entrar');
+  telaLogin(modo());
   if (window.__riskDeslog) return; window.__riskDeslog = true;
-  window.addEventListener('hashchange', () => {
-    if (S.user) return; const h2 = location.hash;
-    if (ROTA_LOGIN.test(h2)) telaLogin(h2.slice(2).split(/[?&]/)[0]);
-    else if (!root.querySelector('.pub')) { if (!/^#\/cursos/.test(h2)) history.replaceState(null, '', location.pathname + location.search + '#/cursos'); telaPublica(); }
-  });
+  window.addEventListener('hashchange', () => { if (S.user) return; if (!ROTA_LOGIN.test(location.hash)) history.replaceState(null, '', location.pathname + location.search + '#/entrar'); telaLogin(modo()); });
 }
 
 function telaLogin(modo = 'entrar') {
@@ -180,10 +175,8 @@ function telaLogin(modo = 'entrar') {
     <div class="row" style="margin-top:12px;justify-content:space-between">
       ${modo !== 'entrar' ? '<button class="linkbtn" data-m="entrar">Já tenho conta</button>' : '<button class="linkbtn" data-m="criar">Criar conta</button>'}
       ${modo === 'entrar' ? '<button class="linkbtn" data-m="esqueci">Esqueci a senha</button>' : ''}
-    </div>
-    <a class="btn sec" href="#/cursos" id="verCursos" style="width:100%;margin-top:14px;text-align:center">🎓 Ver cursos preparatórios</a></div></div>`;
+    </div></div></div>`;
   faiscas(root.querySelector('.login .fx')); inclinar(root.querySelector('.login .card.vidro'));
-  root.querySelector('#verCursos').onclick = (e) => { e.preventDefault(); location.hash = '#/cursos'; };
   root.querySelectorAll('[data-m]').forEach((b) => (b.onclick = () => { location.hash = '#/' + b.dataset.m; }));
   const g = root.querySelector('#google'); if (g) g.onclick = () => auth.signInGoogle();
   root.querySelector('#f').onsubmit = async (e) => {
@@ -200,35 +193,17 @@ function telaLogin(modo = 'entrar') {
   };
 }
 
-// Vitrine de cursos para quem ainda não entrou
-async function telaPublica() {
-  root.innerHTML = `<div class="pub"><header class="pub-top"><a href="#/cursos" class="pub-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></a><span class="sp"></span><button class="btn sec mini" id="pubE">Entrar</button><button class="btn mini" id="pubC">Criar conta</button></header><main class="pub-main" id="pubM">${loading()}</main>${rodapeLegal()}</div>`;
-  root.querySelector('#pubE').onclick = () => { location.hash = '#/entrar'; };
-  root.querySelector('#pubC').onclick = () => { location.hash = '#/criar'; };
-  const mod = await import('./pages/vitrine.js');
-  const desenha = () => { if (!/^#\/cursos/.test(location.hash)) { window.removeEventListener('hashchange', desenha); return; } const q = new URLSearchParams(location.hash.split('?')[1] || ''); mod.render(root.querySelector('#pubM'), q, { publico: true, aoEntrar: (m) => { location.hash = '#/' + (m === 'criar' ? 'criar' : 'entrar'); } }); window.scrollTo(0, 0); };
-  window.addEventListener('hashchange', desenha);
-  desenha();
-}
 
 function telaAviso(titulo, texto, verificar = false, corrigir = false, cursos = false) {
   root.innerHTML = `<div class="login"><div class="card" style="text-align:center">
     <div class="login-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></div>
     <h2>${esc(titulo)}</h2><p class="muted">${texto}</p>
-    <div class="row" style="justify-content:center;margin-top:14px">${verificar ? '<button class="btn" id="avV">Verificar de novo</button>' : ''}${cursos ? '<button class="btn sec" id="avCur">🎓 Cursos preparatórios</button>' : ''}${corrigir ? '<button class="btn sec" id="avC">Corrigir meus dados</button>' : ''}<button class="btn sec" id="avS">Sair</button></div></div></div>`;
+    <div class="row" style="justify-content:center;margin-top:14px">${verificar ? '<button class="btn" id="avV">Verificar de novo</button>' : ''}${corrigir ? '<button class="btn sec" id="avC">Corrigir meus dados</button>' : ''}<button class="btn sec" id="avS">Sair</button></div></div></div>`;
   root.querySelector('#avS').onclick = () => { auth.signOut(); location.hash = ''; location.reload(); };
   const v = root.querySelector('#avV'); if (v) v.onclick = () => location.reload();
   const c = root.querySelector('#avC'); if (c) c.onclick = () => telaCadastroCurso();
-  const cu = root.querySelector('#avCur'); if (cu) cu.onclick = () => { location.hash = '#/cursos'; telaVitrineLogado(); };
 }
 
-async function telaVitrineLogado() {
-  root.innerHTML = `<div class="pub"><header class="pub-top"><a href="#/cursos" class="pub-logo"><img src="img/${tema() === 'dark' ? 'logo-escuro' : 'logo-claro'}.webp" alt="PROJETO R.I.S.K."></a><span class="sp"></span><button class="btn sec mini" id="pubV">Voltar</button></header><main class="pub-main" id="pubM">${loading()}</main>${rodapeLegal()}</div>`;
-  root.querySelector('#pubV').onclick = () => { location.hash = ''; location.reload(); };
-  const mod = await import('./pages/vitrine.js');
-  const desenha = () => { if (!/^#\/cursos/.test(location.hash)) return; mod.render(root.querySelector('#pubM'), new URLSearchParams(location.hash.split('?')[1] || '')); };
-  window.addEventListener('hashchange', desenha); desenha();
-}
 
 // Primeiro acesso: o aluno escolhe o curso do edital dele e informa os dados para o administrador conferir.
 function telaCadastroCurso() {

@@ -12,7 +12,7 @@ export async function cursosVenda(box) {
   let lista = [];
   try { lista = await db.select('cursos_venda', { order: 'ordem.asc,created_at.desc' }); }
   catch (e) { box.innerHTML = `<h3>Cursos preparatórios</h3><p class="bad">Não foi possível carregar: ${esc(e.message)}. Rode a atualização 16 no Supabase.</p>`; return; }
-  box.innerHTML = `<div class="row"><h3 style="margin:0">Cursos preparatórios (${lista.length})</h3><span class="sp"></span><a class="btn sec mini" href="#/cursos" target="_blank">👁 Ver vitrine</a><button class="btn mini" id="cvNovo">+ Novo curso</button></div>
+  box.innerHTML = `<div class="row"><h3 style="margin:0">Cursos preparatórios (${lista.length})</h3><span class="sp"></span><button class="btn mini" id="cvNovo">+ Novo curso</button></div>
     <p class="muted" style="font-size:13px">A vitrine aparece para qualquer pessoa, mesmo sem conta. Só os cursos <b>publicados</b> aparecem. Ao comprar, a pessoa cria a conta e é levada à Hotmart com o mesmo e-mail; o acesso é liberado sozinho com o prazo do curso.</p>
     <div class="cv-lista">${lista.map((c) => `<div class="cv-item">
       <div class="cv-mini" style="${c.foto_url ? `background-image:url('${esc(c.foto_url)}')` : ''}">${c.foto_url ? '' : '📷'}</div>

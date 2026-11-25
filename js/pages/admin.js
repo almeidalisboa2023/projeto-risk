@@ -20,7 +20,7 @@ const COLS = 'codigo;modalidade;enunciado;alt_a;alt_b;alt_c;alt_d;alt_e;gabarito
 const PASTAS = [
   ['usuarios', '👥', 'Usuários', 'Cada aluno com o próprio cartão: prazo de acesso, contato e avisos'],
   ['cadastros', '📝', 'Cadastros pendentes', 'Conferir dados e aprovar quem se cadastrou'],
-  ['vitrine', '🎓', 'Cursos preparatórios', 'Vitrine pública: foto do órgão, vagas, matérias, preço e link'],
+  ['vitrine', '🎓', 'Produtos da Hotmart', 'Cursos vendidos na Hotmart e o curso liberado em cada compra (a vitrine não aparece mais no app)'],
   ['compras', '🛒', 'Compras Hotmart', 'Pagamentos recebidos e liberações automáticas'],
   ['materias', '📚', 'Matérias e fundo dos cursos', 'Incluir ou tirar matérias e escolher a foto de fundo de cada curso'],
   ['pdfs', '📄', 'Conteúdo em PDF', 'Enviar PDF para virar conteúdo programático'],

@@ -1127,6 +1127,230 @@ export default {
 "Não."
 ],
 "e": "Vocabulário."
+},
+{
+"p": "Em \"Although the road was closed, some drivers tried to pass\", o conectivo \"although\" introduz uma concessão.",
+"c": true,
+"prof": "Certo. Although = embora.",
+"x": "A ideia de concessão admite um fato contrário (a estrada estava fechada) que não impede a ação principal (alguns tentaram passar).",
+"e": "although = embora."
+},
+{
+"p": "\"Whereas\" indica causa e pode ser substituído por \"because\".",
+"c": false,
+"prof": "Errado. Whereas indica contraste.",
+"x": "\"Whereas\" = enquanto, ao passo que (comparação por oposição): \"Cars are faster, whereas bikes are cheaper\".",
+"e": "whereas = ao passo que."
+},
+{
+"p": "\"Therefore\" e \"thus\" introduzem conclusão ou consequência.",
+"c": true,
+"prof": "Certo.",
+"x": "Equivalem a \"portanto\", \"assim\". Também \"consequently\" e \"as a result\".",
+"e": "therefore = portanto."
+},
+{
+"p": "\"Moreover\" e \"furthermore\" acrescentam informação ao argumento.",
+"c": true,
+"prof": "Certo. Adição.",
+"x": "Equivalem a \"além disso\". \"In addition\" e \"besides\" têm o mesmo papel.",
+"e": "moreover = além disso."
+},
+{
+"p": "\"Due to\" introduz uma consequência.",
+"c": false,
+"prof": "Errado. Due to introduz causa.",
+"x": "\"Delays due to heavy rain\" = atrasos por causa da chuva forte. Sinônimos: \"because of\", \"owing to\".",
+"e": "due to = devido a."
+},
+{
+"p": "Em \"Unless drivers slow down, accidents will rise\", o aumento dos acidentes depende de os motoristas não reduzirem a velocidade.",
+"c": true,
+"prof": "Certo.",
+"x": "Unless = a menos que. Se não reduzirem a velocidade, os acidentes aumentarão.",
+"e": "unless = se não."
+},
+{
+"p": "\"Toll\" corresponde a pedágio.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Toll road\" = rodovia com pedágio; \"toll booth\" = cabine de pedágio.",
+"e": "toll = pedágio."
+},
+{
+"p": "\"Speed bump\" significa radar de velocidade.",
+"c": false,
+"prof": "Errado. Speed bump = lombada.",
+"x": "Radar é \"speed camera\". Lombada é \"speed bump\" ou \"speed hump\".",
+"e": "speed bump = lombada."
+},
+{
+"p": "\"Roadblock\" e \"checkpoint\" podem designar barreiras ou pontos de fiscalização policial.",
+"c": true,
+"prof": "Certo.",
+"x": "Checkpoint = posto de controle; roadblock = bloqueio de via.",
+"e": "checkpoint."
+},
+{
+"p": "\"Seizure\", em textos policiais, costuma significar apreensão.",
+"c": true,
+"prof": "Certo.",
+"x": "\"The seizure of 2 tons of cocaine\" = a apreensão de 2 toneladas de cocaína. Verbo: \"to seize\".",
+"e": "seizure = apreensão."
+},
+{
+"p": "\"Smuggling\" significa sequestro.",
+"c": false,
+"prof": "Errado. Smuggling = contrabando.",
+"x": "Sequestro é \"kidnapping\". \"Smuggler\" é o contrabandista.",
+"e": "smuggling = contrabando."
+},
+{
+"p": "\"Drunk driving\" e \"driving under the influence (DUI)\" referem-se a dirigir embriagado.",
+"c": true,
+"prof": "Certo.",
+"x": "Também aparece \"drink-driving\" no inglês britânico.",
+"e": "DUI."
+},
+{
+"p": "\"Hit-and-run\" designa o atropelamento ou colisão seguido de fuga do condutor.",
+"c": true,
+"prof": "Certo.",
+"x": "É expressão muito comum em notícias: \"a hit-and-run accident\".",
+"e": "hit-and-run = fuga do local."
+},
+{
+"p": "\"Pedestrian\" significa passageiro.",
+"c": false,
+"prof": "Errado. Pedestrian = pedestre.",
+"x": "Passageiro é \"passenger\".",
+"e": "pedestrian = pedestre."
+},
+{
+"p": "\"Lane\" significa faixa de rolamento.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Fast lane\", \"bus lane\", \"change lanes\" (mudar de faixa).",
+"e": "lane = faixa."
+},
+{
+"p": "Em \"Deaths rose from 120 to 150\", houve aumento de 30 mortes.",
+"c": true,
+"prof": "Certo.",
+"x": "From... to indica valor inicial e final. A variação é 30 (aumento de 25%).",
+"e": "from x to y."
+},
+{
+"p": "\"Roughly 40%\" indica exatamente 40%.",
+"c": false,
+"prof": "Errado. Roughly = aproximadamente.",
+"x": "Sinônimos: about, around, approximately, nearly (quase).",
+"e": "roughly = cerca de."
+},
+{
+"p": "\"Twice as many\" significa o dobro.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Twice as many arrests as last year\" = o dobro de prisões do ano passado.",
+"e": "twice = duas vezes."
+},
+{
+"p": "\"Nearly half of the drivers\" significa mais da metade dos motoristas.",
+"c": false,
+"prof": "Errado. Nearly = quase (menos da metade).",
+"x": "Nearly half = quase metade, ou seja, um pouco menos de 50%.",
+"e": "nearly = quase."
+},
+{
+"p": "Texto: \"Most crashes on rural highways happen at night, even though traffic is lighter.\" O texto afirma que, apesar do trânsito menor, a maioria dos acidentes nas rodovias rurais ocorre à noite.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Even though\" (mesmo que, embora) introduz a concessão; \"most\" = a maioria.",
+"e": "even though."
+},
+{
+"p": "Texto: \"Most crashes on rural highways happen at night, even though traffic is lighter.\" O texto afirma que o trânsito é mais intenso à noite.",
+"c": false,
+"prof": "Errado. \"Lighter\" = mais leve, menor.",
+"x": "\"Traffic is lighter\" = o trânsito é menor. O item inverte a informação.",
+"e": "light traffic = trânsito leve."
+},
+{
+"p": "Texto: \"Officers seized the cargo after noticing that the invoice did not match the goods.\" Os policiais apreenderam a carga porque a nota fiscal não correspondia às mercadorias.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Invoice\" = nota fiscal; \"did not match\" = não correspondia.",
+"e": "invoice = nota fiscal."
+},
+{
+"p": "Texto: \"Officers seized the cargo after noticing that the invoice did not match the goods.\" O motorista apresentou nota fiscal compatível com a carga.",
+"c": false,
+"prof": "Errado.",
+"x": "O texto diz justamente que a nota não correspondia (\"did not match\").",
+"e": "match = corresponder."
+},
+{
+"p": "Texto: \"The new law, which takes effect next month, raises fines for using a phone while driving.\" A lei ainda não está em vigor.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Takes effect next month\" = entra em vigor no mês que vem.",
+"e": "take effect = entrar em vigor."
+},
+{
+"p": "Texto: \"The new law, which takes effect next month, raises fines for using a phone while driving.\" A lei proíbe pela primeira vez o uso do celular ao volante.",
+"c": false,
+"prof": "Errado. Ela aumenta multas (raises fines).",
+"x": "O texto não diz que é a primeira proibição; diz que as multas aumentam. Afirmar a novidade da proibição é extrapolação.",
+"e": "raise fines."
+},
+{
+"p": "Texto: \"Few drivers wear seat belts in the back seat.\" A informação indica que a minoria usa cinto no banco traseiro.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Few\" (poucos) tem sentido negativo; \"a few\" (alguns) é neutro.",
+"e": "few x a few."
+},
+{
+"p": "\"A few\" e \"few\" têm exatamente o mesmo sentido.",
+"c": false,
+"prof": "Errado.",
+"x": "\"A few\" = alguns (quantidade pequena, mas positiva). \"Few\" = poucos, quase nenhum (ênfase negativa).",
+"e": "a few = alguns."
+},
+{
+"p": "Em \"Police are likely to increase patrols\", a expressão \"are likely to\" indica probabilidade.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Be likely to\" = provavelmente vai, tende a. Não é certeza.",
+"e": "likely = provável."
+},
+{
+"p": "Em \"The suspect is said to have fled to Bolivia\", o texto afirma como fato comprovado que o suspeito fugiu para a Bolívia.",
+"c": false,
+"prof": "Errado. É informação atribuída (diz-se que).",
+"x": "\"Is said to have fled\" = diz-se que fugiu. Estrutura de relato, sem comprovação.",
+"e": "is said to = diz-se que."
+},
+{
+"p": "\"Wildlife trafficking\" refere-se ao tráfico de animais silvestres.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Wildlife\" = fauna silvestre. Tema recorrente em textos sobre a Amazônia.",
+"e": "wildlife = fauna."
+},
+{
+"p": "\"Logging\" e \"deforestation\" aparecem em textos sobre a Amazônia como extração de madeira e desmatamento.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Illegal logging\" = extração ilegal de madeira.",
+"e": "logging = exploração madeireira."
+},
+{
+"p": "\"Border\" significa ponte.",
+"c": false,
+"prof": "Errado. Border = fronteira.",
+"x": "Ponte é \"bridge\". \"Border control\" = controle de fronteira.",
+"e": "border = fronteira."
 }
 ]
 },
@@ -1683,6 +1907,237 @@ export default {
 "Ir a."
 ],
 "e": "Tener que."
+},
+{
+"p": "Em espanhol, o artigo neutro \"lo\" acompanha adjetivos para formar ideias abstratas: \"lo importante es llegar\".",
+"c": true,
+"prof": "Certo.",
+"x": "\"Lo importante\" = o (que é) importante. \"Lo\" nunca acompanha substantivo masculino.",
+"e": "lo + adjetivo."
+},
+{
+"p": "Em espanhol, diz-se \"lo coche\" para \"o carro\".",
+"c": false,
+"prof": "Errado. O correto é \"el coche\".",
+"x": "\"Lo\" é neutro e não se usa antes de substantivos. O artigo masculino é \"el\".",
+"e": "el coche."
+},
+{
+"p": "A contração \"al\" resulta de \"a + el\", e \"del\" resulta de \"de + el\".",
+"c": true,
+"prof": "Certo.",
+"x": "São as duas únicas contrações obrigatórias do espanhol: \"voy al trabajo\", \"la casa del juez\".",
+"e": "al / del."
+},
+{
+"p": "Em espanhol, \"a + la\" contrai-se em \"à\".",
+"c": false,
+"prof": "Errado. Não há contração: \"a la\".",
+"x": "\"Voy a la comisaría\". O acento grave não existe no espanhol.",
+"e": "a la."
+},
+{
+"p": "\"El agua\" usa artigo masculino por causa do \"a\" tônico inicial, mas o substantivo continua feminino: \"el agua fría\".",
+"c": true,
+"prof": "Certo.",
+"x": "Regra eufônica: \"el agua, el águila, el hacha\", com adjetivo no feminino.",
+"e": "el agua fría."
+},
+{
+"p": "\"La leche\", \"la sangre\", \"la nariz\" e \"la sal\" são femininos em espanhol e masculinos em português.",
+"c": true,
+"prof": "Certo. Heterogenéricos.",
+"x": "O leite, o sangue, o nariz, o sal. Já \"el viaje\", \"el puente\", \"el árbol\" são masculinos.",
+"e": "heterogenéricos."
+},
+{
+"p": "Em espanhol, \"el puente\" é feminino.",
+"c": false,
+"prof": "Errado. \"El puente\" é masculino (em português, \"a ponte\").",
+"x": "É heterogenérico: muda de gênero de uma língua para outra.",
+"e": "el puente."
+},
+{
+"p": "Em espanhol, \"muy\" é usado antes de adjetivos e advérbios, e \"mucho\" antes de substantivos e verbos.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Muy rápido\", \"muy cerca\"; \"mucho tráfico\", \"llueve mucho\". Exceções: \"mucho más\", \"mucho menos\", \"mucho mejor\".",
+"e": "muy x mucho."
+},
+{
+"p": "\"Muy tráfico\" é a forma correta em espanhol.",
+"c": false,
+"prof": "Errado. O correto é \"mucho tráfico\".",
+"x": "Diante de substantivo usa-se \"mucho/mucha/muchos/muchas\".",
+"e": "mucho + substantivo."
+},
+{
+"p": "Em \"Se lo entregué\", o pronome \"se\" substitui \"le\" antes de \"lo\".",
+"c": true,
+"prof": "Certo.",
+"x": "\"Le lo\" vira \"se lo\": \"Le entregué el informe\" → \"Se lo entregué\".",
+"e": "le lo = se lo."
+},
+{
+"p": "Os pronomes \"usted\" e \"ustedes\" levam o verbo na terceira pessoa.",
+"c": true,
+"prof": "Certo.",
+"x": "\"¿Usted tiene el documento?\", \"¿Ustedes vienen?\". São tratamentos formais.",
+"e": "usted + 3ª pessoa."
+},
+{
+"p": "Em espanhol, o pretérito perfecto compuesto (\"he llegado\") indica ação passada ligada ao presente.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Hoy he trabajado mucho\" (o dia ainda não terminou). Em português costuma corresponder ao pretérito perfeito simples.",
+"e": "he llegado."
+},
+{
+"p": "Em espanhol, o verbo auxiliar dos tempos compostos é \"tener\".",
+"c": false,
+"prof": "Errado. É \"haber\".",
+"x": "\"He visto\", \"habían salido\". \"Tener\" indica posse: \"tengo un coche\".",
+"e": "haber auxiliar."
+},
+{
+"p": "\"Hay\" (do verbo haber) equivale a \"há\" ou \"existe\" e é impessoal.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Hay muchos coches en la carretera\". Não se diz \"hayn\".",
+"e": "hay = há."
+},
+{
+"p": "A perífrase \"ir a + infinitivo\" indica futuro próximo: \"voy a estudiar\".",
+"c": true,
+"prof": "Certo.",
+"x": "Equivale a \"vou estudar\". A preposição \"a\" é obrigatória.",
+"e": "ir a + infinitivo."
+},
+{
+"p": "Em espanhol, \"voy estudiar\" é a forma correta do futuro próximo.",
+"c": false,
+"prof": "Errado. O correto é \"voy a estudiar\".",
+"x": "Sem a preposição \"a\", a construção é erro típico de falantes de português.",
+"e": "voy a."
+},
+{
+"p": "A perífrase \"volver a + infinitivo\" indica repetição: \"volvió a llamar\" significa \"ligou de novo\".",
+"c": true,
+"prof": "Certo.",
+"x": "Não tem sentido de retorno físico nessa construção.",
+"e": "volver a = de novo."
+},
+{
+"p": "A perífrase \"llevar + gerúndio\" indica tempo de duração: \"lleva dos años estudiando\" = está há dois anos estudando.",
+"c": true,
+"prof": "Certo.",
+"x": "É muito usada em textos: \"llevan meses investigando\".",
+"e": "llevar + gerúndio."
+},
+{
+"p": "\"Hace\" pode indicar tempo decorrido: \"hace dos días\" significa \"há dois dias\".",
+"c": true,
+"prof": "Certo.",
+"x": "\"Llegó hace una semana\" = chegou há uma semana.",
+"e": "hace = há (tempo)."
+},
+{
+"p": "Em espanhol, \"desde hace\" indica um fato que terminou no passado.",
+"c": false,
+"prof": "Errado. Indica algo que continua até o presente.",
+"x": "\"Vive aquí desde hace diez años\" = mora aqui há dez anos (e continua morando).",
+"e": "desde hace."
+},
+{
+"p": "\"Aún\" (com acento) significa \"ainda\", e \"aun\" (sem acento) significa \"até mesmo\".",
+"c": true,
+"prof": "Certo.",
+"x": "\"Aún no llegó\" = ainda não chegou; \"aun los expertos fallan\" = até os especialistas erram.",
+"e": "aún x aun."
+},
+{
+"p": "\"Ya que\" e \"puesto que\" introduzem causa.",
+"c": true,
+"prof": "Certo.",
+"x": "Equivalem a \"já que\", \"visto que\": \"No salió, ya que llovía\".",
+"e": "ya que = já que."
+},
+{
+"p": "\"Por lo tanto\" e \"por consiguiente\" introduzem conclusão.",
+"c": true,
+"prof": "Certo.",
+"x": "Equivalem a \"portanto\", \"por conseguinte\".",
+"e": "por lo tanto."
+},
+{
+"p": "\"Además\" introduz oposição, equivalente a \"pero\".",
+"c": false,
+"prof": "Errado. Além disso (adição).",
+"x": "\"Además\" acrescenta informação. Para oposição: \"pero\", \"sin embargo\", \"no obstante\".",
+"e": "además = além disso."
+},
+{
+"p": "\"Mientras\" pode indicar tempo simultâneo ou contraste: \"mientras unos trabajan, otros descansan\".",
+"c": true,
+"prof": "Certo.",
+"x": "Equivale a \"enquanto\" nos dois sentidos.",
+"e": "mientras = enquanto."
+},
+{
+"p": "\"A pesar de\" e \"pese a\" introduzem concessão.",
+"c": true,
+"prof": "Certo.",
+"x": "\"A pesar de la lluvia, el operativo siguió\" = apesar da chuva, a operação continuou.",
+"e": "a pesar de = apesar de."
+},
+{
+"p": "Em espanhol, \"en cuanto\" significa sempre \"enquanto\".",
+"c": false,
+"prof": "Errado. \"En cuanto\" significa \"assim que\" ou, em \"en cuanto a\", \"quanto a\".",
+"x": "\"En cuanto llegue, te aviso\" = assim que eu chegar, te aviso. \"En cuanto a la ley\" = quanto à lei.",
+"e": "en cuanto = assim que."
+},
+{
+"p": "Os pronomes de complemento vão depois do infinitivo e do gerúndio, unidos a eles: \"quiero verlo\", \"estoy leyéndolo\".",
+"c": true,
+"prof": "Certo.",
+"x": "Também se admite antes do verbo conjugado: \"lo quiero ver\", \"lo estoy leyendo\".",
+"e": "ênclise no infinitivo."
+},
+{
+"p": "No imperativo afirmativo, o pronome vai depois do verbo, unido: \"dígame\", \"entréguelo\".",
+"c": true,
+"prof": "Certo.",
+"x": "No imperativo negativo, vai antes: \"no me diga\", \"no lo entregue\".",
+"e": "imperativo + pronome."
+},
+{
+"p": "\"Cuyo\" concorda em gênero e número com o substantivo que o segue: \"el conductor cuya licencia fue suspendida\".",
+"c": true,
+"prof": "Certo.",
+"x": "Igual ao \"cujo\" do português: concorda com a coisa possuída.",
+"e": "cuyo/cuya."
+},
+{
+"p": "Em espanhol, os pronomes de objeto direto de terceira pessoa são \"lo, la, los, las\".",
+"c": true,
+"prof": "Certo.",
+"x": "\"Vi el coche\" → \"Lo vi\". \"Detuvieron a las sospechosas\" → \"Las detuvieron\".",
+"e": "lo/la/los/las."
+},
+{
+"p": "Os pronomes de objeto indireto de terceira pessoa são \"le\" e \"les\".",
+"c": true,
+"prof": "Certo.",
+"x": "\"Entregué el documento al agente\" → \"Le entregué el documento\".",
+"e": "le/les."
+},
+{
+"p": "Em espanhol, o plural de \"el examen\" é \"los exámenes\" sem acento.",
+"c": false,
+"prof": "Errado. Leva acento: \"exámenes\".",
+"x": "No plural, a palavra passa a ser proparoxítona (esdrújula), que sempre leva acento gráfico.",
+"e": "exámenes."
 }
 ]
 },
@@ -2245,6 +2700,223 @@ export default {
 "Não."
 ],
 "e": "Tempos."
+},
+{
+"p": "\"Carretera\" significa rodovia ou estrada.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Carretera federal\" = rodovia federal. \"Autopista\" = autoestrada com pistas separadas.",
+"e": "carretera = rodovia."
+},
+{
+"p": "\"Calle\" significa calçada.",
+"c": false,
+"prof": "Errado. Calle = rua.",
+"x": "Calçada é \"acera\" (Espanha) ou \"vereda\" (parte da América).",
+"e": "calle = rua; acera = calçada."
+},
+{
+"p": "\"Peaje\" significa pedágio.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Cabina de peaje\", \"pagar el peaje\".",
+"e": "peaje = pedágio."
+},
+{
+"p": "\"Atropello\" significa atropelamento.",
+"c": true,
+"prof": "Certo.",
+"x": "Verbo: \"atropellar\". \"El peatón fue atropellado\".",
+"e": "atropello."
+},
+{
+"p": "\"Choque\" em espanhol significa apenas o susto emocional.",
+"c": false,
+"prof": "Errado. Choque = colisão (também pode ser abalo).",
+"x": "\"Choque frontal\" = colisão frontal. \"Chocar\" = colidir.",
+"e": "choque = colisão."
+},
+{
+"p": "\"Embriaguez\" e \"alcoholemia\" aparecem em textos sobre fiscalização de álcool ao volante.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Prueba de alcoholemia\" = teste do bafômetro. \"Alcoholímetro\" = etilômetro.",
+"e": "alcoholemia."
+},
+{
+"p": "\"Multa\" tem o mesmo sentido em espanhol e em português.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Le pusieron una multa\" = aplicaram-lhe uma multa.",
+"e": "multa."
+},
+{
+"p": "\"Carné de conducir\" significa certificado de propriedade do veículo.",
+"c": false,
+"prof": "Errado. É a carteira de habilitação.",
+"x": "Na América Latina também se diz \"licencia de conducir\" ou \"licencia de manejo\".",
+"e": "carné de conducir = CNH."
+},
+{
+"p": "\"Matrícula\" e \"placa\" podem designar a placa do veículo, conforme o país.",
+"c": true,
+"prof": "Certo.",
+"x": "Na Espanha, \"matrícula\"; em vários países americanos, \"placa\" ou \"patente\".",
+"e": "matrícula = placa."
+},
+{
+"p": "\"Contrabando\" e \"narcotráfico\" têm o mesmo sentido em espanhol e em português.",
+"c": true,
+"prof": "Certo.",
+"x": "São cognatos verdadeiros frequentes em textos sobre fronteira.",
+"e": "cognatos."
+},
+{
+"p": "\"Detenido\" significa sempre condenado pela Justiça.",
+"c": false,
+"prof": "Errado. Detenido = preso (detido), sem implicar condenação.",
+"x": "\"El sospechoso fue detenido\" = o suspeito foi detido. Condenado é \"condenado\".",
+"e": "detenido = detido."
+},
+{
+"p": "\"Incautar\" significa apreender bens ou mercadorias.",
+"c": true,
+"prof": "Certo.",
+"x": "\"La policía incautó 300 kilos de droga\". Substantivo: \"incautación\".",
+"e": "incautar = apreender."
+},
+{
+"p": "\"Desarrollo\" significa desenrolar uma corda.",
+"c": false,
+"prof": "Errado. Desarrollo = desenvolvimento.",
+"x": "\"Desarrollo sostenible\" = desenvolvimento sustentável.",
+"e": "desarrollo."
+},
+{
+"p": "\"Selva\" é palavra usada em espanhol para a floresta amazônica.",
+"c": true,
+"prof": "Certo.",
+"x": "\"La selva amazónica\". Também \"bosque\" (floresta, bosque).",
+"e": "selva."
+},
+{
+"p": "\"Minería ilegal\" corresponde a garimpo ou mineração ilegal.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Mineros ilegales\", \"dragas\" (dragas), \"mercurio\" (mercúrio).",
+"e": "minería ilegal."
+},
+{
+"p": "Texto: \"Pese a los controles, el número de siniestros aumentó durante las vacaciones.\" O texto afirma que os acidentes aumentaram, apesar da fiscalização.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Pese a\" = apesar de; \"siniestros\" = sinistros, acidentes.",
+"e": "pese a."
+},
+{
+"p": "Texto: \"Pese a los controles, el número de siniestros aumentó durante las vacaciones.\" Segundo o texto, os controles reduziram os acidentes nas férias.",
+"c": false,
+"prof": "Errado.",
+"x": "O número de acidentes aumentou (\"aumentó\"), apesar dos controles.",
+"e": "aumentó."
+},
+{
+"p": "Texto: \"La mayoría de los conductores sancionados no llevaba el cinturón.\" A maior parte dos condutores multados não usava cinto.",
+"c": true,
+"prof": "Certo.",
+"x": "\"La mayoría\" = a maioria; \"sancionados\" = punidos, multados.",
+"e": "la mayoría."
+},
+{
+"p": "Texto: \"Apenas el 10 % de los camiones fue inspeccionado.\" O texto informa que quase todos os caminhões foram inspecionados.",
+"c": false,
+"prof": "Errado. \"Apenas\" = somente.",
+"x": "\"Apenas\" em espanhol significa \"somente, mal\". Foi inspecionado só 10%.",
+"e": "apenas = só."
+},
+{
+"p": "Texto: \"Las autoridades todavía investigan las causas del accidente.\" As causas ainda estão sendo apuradas.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Todavía\" = ainda.",
+"e": "todavía = ainda."
+},
+{
+"p": "Texto: \"Las autoridades todavía investigan las causas del accidente.\" O texto conclui que a causa foi o excesso de velocidade.",
+"c": false,
+"prof": "Errado.",
+"x": "O texto diz que a investigação continua; não aponta causa.",
+"e": "extrapolação."
+},
+{
+"p": "Texto: \"El operativo, que duró tres días, terminó con doce detenidos.\" A operação levou três dias.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Duró\" (passado de durar). \"Detenidos\" = presos.",
+"e": "duró."
+},
+{
+"p": "Texto: \"Sin embargo, los expertos advierten que el problema no se resolverá solo con multas.\" Os especialistas consideram as multas insuficientes, isoladamente, para resolver o problema.",
+"c": true,
+"prof": "Certo.",
+"x": "\"No se resolverá solo con multas\" = não se resolverá só com multas.",
+"e": "solo = só."
+},
+{
+"p": "\"Advertir\", em espanhol, significa somente repreender alguém.",
+"c": false,
+"prof": "Errado. Advertir = avisar, alertar (também observar).",
+"x": "\"Los expertos advierten\" = os especialistas alertam.",
+"e": "advertir = alertar."
+},
+{
+"p": "\"Ahorrar\" significa economizar.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Ahorrar combustible\" = economizar combustível. Não confundir com \"aforrar\" (forrar).",
+"e": "ahorrar = economizar."
+},
+{
+"p": "Em espanhol, o sentido mais comum de \"exprimir\" é espremer, extrair o suco.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Exprimir una naranja\" = espremer uma laranja. Para expressar uma opinião, o usual é \"expresar\".",
+"e": "exprimir = espremer."
+},
+{
+"p": "\"Cena\" significa jantar, e \"escena\" significa cena.",
+"c": true,
+"prof": "Certo.",
+"x": "Falso amigo clássico.",
+"e": "cena = jantar."
+},
+{
+"p": "\"Borracha\", em espanhol, significa borracha de apagar.",
+"c": false,
+"prof": "Errado. Borracha = bêbada.",
+"x": "Borracha de apagar é \"goma (de borrar)\". \"Borracho\" = bêbado.",
+"e": "borracho = bêbado."
+},
+{
+"p": "\"Rubio\" significa loiro.",
+"c": true,
+"prof": "Certo.",
+"x": "Ruivo em espanhol é \"pelirrojo\".",
+"e": "rubio = loiro."
+},
+{
+"p": "\"Sitio\" pode significar lugar ou local.",
+"c": true,
+"prof": "Certo.",
+"x": "\"En el sitio del accidente\" = no local do acidente.",
+"e": "sitio = local."
+},
+{
+"p": "\"Pelo\", em espanhol, significa cabelo.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Pelo corto\" = cabelo curto.",
+"e": "pelo = cabelo."
 }
 ]
 }
