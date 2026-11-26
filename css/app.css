@@ -1526,3 +1526,4 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
 h1, h2, h3 { letter-spacing: -0.015em; font-weight: 600; }
 h1 { font-size: 2rem; }
 body { font-feature-settings: 'kern', 'liga'; -webkit-font-smoothing: antialiased; }
+.lt-corpo h4 { font-weight: 600; color: var(--c, var(--ouro)); }
