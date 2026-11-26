@@ -17,7 +17,7 @@ const PAGINAS = {
   horas: ['Horas de estudo', '⏱', () => import('./pages/horas.js')],
   registrar: ['Registrar questões', '✎', () => import('./pages/registrar.js')],
   leitura: ['Conteúdo programático', '📖', () => import('./pages/leitura.js')],
-  pegadinhas: ['Treino de pegadinhas', '🪤', () => import('./pages/pegadinhas.js')],
+  redacao: ['Treino de redação', '✍️', () => import('./pages/redacao-treino.js')],
   apostilas: ['Apostilas', '📚', () => import('./pages/apostilas.js')],
   materiais: ['Materiais', '📄', () => import('./pages/materiais.js')],
   simulados: ['Simulados', '📝', () => import('./pages/simulados-pdf.js')],
@@ -110,8 +110,9 @@ function identidade() {
   const cid = meuCurso()?.id || S.edital?.curso || '';
   const esc0 = resolverFundo(fundoDoCurso(cid));
   if (esc0) f = esc0.id;
-  if (esc0?.url) h.style.setProperty('--fundo', `url("${esc0.url.replace(/"/g, '%22')}")`); else h.style.removeProperty('--fundo');
-  h.dataset.curso = t; h.dataset.fundo = f;
+  // Sem foto de fundo: o site usa o fundo liso do tema (a escolha de foto foi desativada)
+  void esc0; void f; h.style.removeProperty('--fundo'); delete h.dataset.fundo;
+  h.dataset.curso = t;
   // Quem tem curso e nunca escolheu claro/escuro começa no modo imersivo (escuro)
   let salvo = null; try { salvo = localStorage.getItem('risk-tema'); } catch {}
   if (!salvo && t !== 'padrao') h.dataset.theme = 'dark';

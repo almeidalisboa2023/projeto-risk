@@ -43,7 +43,7 @@ export const CURSOS = [
       m('lei-organica-pcmg'),
       m('administrativo'), m('constitucional'), m('penal'), m('processo-penal'),
       m('extravagante', ['hediondos', 'drogas', 'desarmamento', 'abuso', 'maria-penha', 'orcrim', 'interceptacao', 'lep', 'crimes-tributarios', 'crimes-ctb', 'anticrime'], 'Leis do item 5.7 do edital (LEP, hediondos, 8.137, interceptação, CTB, desarmamento, Maria da Penha, drogas, organização criminosa, abuso de autoridade e Pacote Anticrime)'),
-      m('direitos-humanos'), m('medicina-legal'), m('criminologia'),
+      m('direitos-humanos'), m('medicina-legal'), m('criminologia'), m('redacao-interativa'),
     ],
   },
   {
@@ -52,7 +52,7 @@ export const CURSOS = [
     materias: [
       m('portugues'), m('rlm'), m('informatica'), m('lei-organica-pcmg'),
       m('administrativo'), m('constitucional'), m('penal'), m('processo-penal'), m('extravagante'),
-      m('direitos-humanos'), m('medicina-legal'), m('criminologia'),
+      m('direitos-humanos'), m('medicina-legal'), m('criminologia'), m('redacao-interativa'),
     ],
   },
   {
@@ -69,7 +69,7 @@ export const CURSOS = [
     edital: 'Edital nº 1/2026 do Município de Belo Vale (Instituto Consulplan), Quadro V: 50 questões de múltipla escolha (A a D). Prova objetiva em 13/12/2026.',
     materias: [
       m('portugues'), m('constitucional'), m('administrativo'), m('processo-civil'), m('civil'),
-      m('trabalho'), m('previdenciario'), m('financeiro'), m('ambiental-urbanistico'), m('belovale'),
+      m('trabalho'), m('previdenciario'), m('financeiro'), m('ambiental-urbanistico'), m('belovale'), m('redacao-interativa'),
     ],
   },
 ];
