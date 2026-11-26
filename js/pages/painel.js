@@ -21,6 +21,8 @@ export async function render(el) {
   const validos = topicosValidos();
   const FIN = finalizados(validos), fin = FIN.size;
   const comQ = new Set(S.logs.map((l) => l.topico_id));
+  const totQ = S.logs.reduce((x, l) => x + (l.feitas || 0), 0), totA = S.logs.reduce((x, l) => x + (l.acertos || 0), 0);
+  const br0 = (n) => Number(n || 0).toLocaleString('pt-BR');
   const praticados = validos.filter((t) => comQ.has(t.id)).length;
   const h = hoje(), seg = segundaDa(h);
   const naSemana = (l, ini) => { const d = parseISO(l.data); return d >= ini && d < addDias(ini, 7); };
@@ -75,6 +77,7 @@ export async function render(el) {
   <div class="grid g4 stats" style="margin-top:16px">
     <div class="card stat"><div class="st-h"><span class="ic">📈</span><span class="mono up">Progresso do edital</span></div><div class="num">${pct(praticados, validos.length) ?? 0}%</div>${barra(pct(praticados, validos.length) || 0)}<div class="muted">${praticados} de ${validos.length} tópicos praticados</div></div>
     <div class="card stat"><div class="st-h"><span class="ic">📝</span><span class="mono up">Questões na semana</span></div><div class="num">${fs}</div><div class="muted">${as} acertos</div></div>
+    <div class="card stat"><div class="st-h"><span class="ic">📚</span><span class="mono up">Total de questões</span></div><div class="num">${br0(totQ)}</div><div class="muted">${br0(totA)} acertos${totQ ? ` · ${pct(totA, totQ)}%` : ''}</div></div>
     <div class="card stat"><div class="st-h"><span class="ic">⏳</span><span class="mono up">Tempo de estudo total</span></div><div class="num">${fmtMin(minTotal)}</div><a class="muted" href="#/horas">desde o início · por matéria →</a></div>
     <div class="card stat"><div class="st-h"><span class="ic">🎯</span><span class="mono up">Taxa de acerto</span></div><div class="st-ring"><div class="num ${corPct(tx)}">${tx ?? '—'}${tx != null ? '%' : ''}</div>${anel(tx)}</div><div class="muted">${tx != null && txa != null ? `${tx - txa >= 0 ? '+' : ''}${tx - txa} pp vs semana anterior` : 'semana atual'}</div></div>
     <div class="card stat"><div class="st-h"><span class="ic">🃏</span><span class="mono up">Flashcards feitos</span></div><div class="num" id="pFlash">…</div><a class="muted" id="pFlashSub" href="#/leitura">desde o início · na leitura →</a></div>

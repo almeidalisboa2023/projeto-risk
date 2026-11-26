@@ -7,9 +7,11 @@
   // A abertura fica na tela até o app terminar de carregar (mínimo de 1,4 s, máximo de 15 s), para não aparecer tela de "carregando"
   var app = document.getElementById('app'), pronto = false, minimo = false;
   var tenta = function () { if (pronto && minimo) fim(); };
-  if (app && window.MutationObserver) new MutationObserver(function (m, o) { if (!app.querySelector('.pre-app')) { pronto = true; o.disconnect(); tenta(); } }).observe(app, { childList: true });
+  // pronto = a tela de verdade apareceu (login, vitrine ou o painel já preenchido, sem o "carregando")
+  var ok = function () { return app.querySelector('.login, .pub') || (app.querySelector('#pagina') && !app.querySelector('#pagina > .loading') && app.querySelector('#pagina').children.length); };
+  if (app && window.MutationObserver) new MutationObserver(function (m, o) { if (ok()) { pronto = true; o.disconnect(); tenta(); } }).observe(app, { childList: true, subtree: true });
   else pronto = true;
-  setTimeout(function () { minimo = true; tenta(); }, calmo ? 200 : 1400);
+  setTimeout(function () { minimo = true; tenta(); }, calmo ? 200 : 1200);
   setTimeout(fim, 15000);
   el.addEventListener('click', fim); // um toque pula a abertura
   var cv = document.getElementById('introFx'); if (!cv || calmo) return;

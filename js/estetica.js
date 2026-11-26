@@ -99,7 +99,10 @@ export function padronizar(...secoes) {
 }
 
 // Tempo de leitura (180 palavras por minuto, mais 1 minuto por questão no meio do texto)
+// Treinos de Certo ou Errado e de lacunas gerados da lei seca são exercício, não leitura: não entram no tempo.
+export const semTreinos = (html) => String(html || '').replace(/<div class="lt-caso"><b class="lt-tit">[^<]*?(?:Item|Lacuna) \d+[\s\S]*?<\/details><\/div>/g, ' ');
 export function minutosLeitura(html, extras = 0) {
+  html = semTreinos(html);
   const n = String(html || '').replace(/<svg[\s\S]*?<\/svg>/g, ' ').replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
   return Math.max(1, Math.round(n / 180 + extras));
 }

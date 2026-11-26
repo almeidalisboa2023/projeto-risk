@@ -2,7 +2,7 @@
   --bg: #F6F0E3; --card: #FFFFFF; --hero: #ECE4D3; --borda: #E7DFCF; --txt: #1A1A1A; --txt2: #6B6458;
   --menu: #0D0E0E; --menu-ativo: #1F1F1F; --menu-txt: #EDE7DA; --rosa: #F4A7B9; --verde: #2E7D4F; --vermelho: #C0392B;
   --btn: #111111; --btn-txt: #F6F0E3; --pill: #EFE8DA; --pill-txt: #4A453C; --flip: #151515; --flip-txt: #F6F0E3;
-  --serif: 'Fraunces', Georgia, serif; --sans: 'Outfit', system-ui, sans-serif; --mono: 'JetBrains Mono', ui-monospace, monospace;
+  --serif: 'IBM Plex Sans', 'Segoe UI', Arial, sans-serif; --sans: 'IBM Plex Sans', 'Segoe UI', Arial, sans-serif; --mono: 'IBM Plex Mono', Consolas, monospace;
   --ouro: #A8771A; --ouro2: #D9A93F; --raio: 16px; --sombra: 0 1px 2px rgba(0,0,0,.04);
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
@@ -1521,3 +1521,8 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
 .lt-texto .rd-ex .rd-itens li { padding-left: 12px; }
 .lt-texto .rd-ex .rd-itens { padding-left: 0; margin-left: 0; }
 .rd-txt { hyphens: manual; -webkit-hyphens: manual; }
+
+/* Tipografia profissional: IBM Plex Sans em todo o site */
+h1, h2, h3 { letter-spacing: -0.015em; font-weight: 600; }
+h1 { font-size: 2rem; }
+body { font-feature-settings: 'kern', 'liga'; -webkit-font-smoothing: antialiased; }

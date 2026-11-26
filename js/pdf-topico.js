@@ -6,7 +6,7 @@ import { S } from './state.js';
 
 // ---------- página A4 a 150 dpi ----------
 const PW = 1240, PH = 1754, MX = 96, TOPO = 168, BASE = 1640, LARG = PW - 2 * MX;
-const FONTE = "'Outfit', 'Segoe UI', Arial, sans-serif", SERIF = "'Fraunces', Georgia, serif";
+const FONTE = "'IBM Plex Sans', 'Segoe UI', Arial, sans-serif", SERIF = FONTE;
 const COR = { txt: '#1b1d21', txt2: '#5a606b', dest: '#9a5d00', link: '#0f7f93', ouro: '#C8902A' };
 const fonte = (tam, neg, ita, fam = FONTE) => `${ita ? 'italic ' : ''}${neg ? '700' : '400'} ${tam}px ${fam}`;
 const medidor = document.createElement('canvas').getContext('2d');
