@@ -15,7 +15,7 @@ const K = 595.28 / PW; // unidade de layout -> ponto do PDF
 // Larguras das fontes padrão do PDF (Helvetica e Helvetica-Bold, códigos 32 a 255 da WinAnsi, em milésimos)
 const AFM = [[278,278,355,556,556,889,667,191,333,333,389,584,278,333,278,278,556,556,556,556,556,556,556,556,556,556,278,278,584,584,584,556,1015,667,667,722,722,667,611,778,722,278,500,667,556,833,722,778,667,778,722,667,611,722,667,944,667,667,611,278,278,278,469,556,333,556,556,500,556,556,278,556,556,222,222,500,222,833,556,556,556,556,333,500,278,556,500,722,500,500,500,334,260,334,584,761,556,0,222,556,333,1000,556,556,333,1000,667,333,1000,0,611,0,0,222,222,333,333,350,556,1000,333,1000,500,333,944,0,500,667,278,333,556,556,556,556,260,556,333,737,370,556,584,333,737,333,400,584,333,333,333,556,537,278,333,333,365,556,834,834,834,611,667,667,667,667,667,667,1000,722,667,667,667,667,278,278,278,278,722,722,778,778,778,778,778,584,778,722,722,722,722,667,667,611,556,556,556,556,556,556,889,500,556,556,556,556,278,278,278,278,556,556,556,556,556,556,556,584,611,556,556,556,556,500,556,500],[278,333,474,556,556,889,722,238,333,333,389,584,278,333,278,278,556,556,556,556,556,556,556,556,556,556,333,333,584,584,584,611,975,722,722,722,722,667,611,778,722,278,556,722,611,833,722,778,667,778,722,667,611,722,667,944,667,667,611,333,278,333,584,556,333,556,611,556,611,556,333,611,611,278,278,556,278,889,611,611,611,611,389,556,333,611,556,778,556,556,500,389,280,389,584,761,556,0,278,556,500,1000,556,556,333,1000,667,333,1000,0,611,0,0,278,278,500,500,350,556,1000,333,1000,556,333,944,0,500,667,278,333,556,556,556,556,280,556,333,737,370,556,584,333,737,333,400,584,333,333,333,611,556,278,333,333,365,556,834,834,834,611,722,722,722,722,722,722,1000,722,667,667,667,667,278,278,278,278,722,722,778,778,778,778,778,584,778,722,722,722,722,667,667,611,556,556,556,556,556,556,889,556,556,556,556,556,278,278,278,278,611,611,611,611,611,611,611,584,611,611,611,611,611,556,611,556]];
 const W1252 = '€\u0081‚ƒ„…†‡ˆ‰Š‹Œ\u008DŽ\u008F\u0090‘’“”•–—˜™š›œ\u009DžŸ';
-const TROCA = { '→': '->', '←': '<-', '⇒': '=>', '⇔': '<=>', '↔': '<->', '≥': '>=', '≤': '<=', '≠': '!=', '≈': '~', '✓': 'v', '✔': 'v', '✅': 'v', '✗': 'x', '✘': 'x', '❌': 'x', '▸': '>', '►': '>', '➜': '>', '➔': '>', '−': '-', '‐': '-', '‑': '-', '√': 'raiz de ', '∴': 'portanto', 'π': 'pi', '∞': 'infinito', 'Δ': 'Delta', 'α': 'alfa', 'β': 'beta', '\u2009': ' ', '\u202F': ' ', '\u200B': '', '\uFE0F': '', '★': '*', '⭐': '*', '⚠': '!', '•': '•' };
+const TROCA = { '→': '->', '←': '<-', '⇒': '=>', '⇔': '<=>', '↔': '<->', '∧': '^', '∨': 'v', '¬': '~', '≡': '=', '⇒': '=>', '≥': '>=', '≤': '<=', '≠': '!=', '≈': '~', '✓': 'v', '✔': 'v', '✅': 'v', '✗': 'x', '✘': 'x', '❌': 'x', '▸': '>', '►': '>', '➜': '>', '➔': '>', '−': '-', '‐': '-', '‑': '-', '√': 'raiz de ', '∴': 'portanto', 'π': 'pi', '∞': 'infinito', 'Δ': 'Delta', 'α': 'alfa', 'β': 'beta', '\u2009': ' ', '\u202F': ' ', '\u200B': '', '\uFE0F': '', '★': '*', '⭐': '*', '⚠': '!', '•': '•' };
 const codigo = (ch) => { const c = ch.codePointAt(0); if (c < 128 || (c >= 160 && c < 256)) return c; const k = W1252.indexOf(ch); return k >= 0 ? 128 + k : -1; };
 // Deixa só caracteres que as fontes padrão do PDF conseguem mostrar
 const limpa = (s) => { let o = ''; for (const ch of String(s)) { if (codigo(ch) >= 0 && ch !== '\u0081' && ch !== '\u008D' && ch !== '\u008F' && ch !== '\u0090' && ch !== '\u009D') o += ch; else if (TROCA[ch] != null) o += TROCA[ch]; } return o; };
@@ -313,6 +313,37 @@ function textoHtml(L, html) {
   raiz.querySelectorAll('button:not(.lt-fc)').forEach((e) => e.remove());
   L.push(...montar(raiz));
 }
+// ---------- fundamentação do gabarito: acha no texto do tópico o trecho que sustenta a questão ----------
+const sa2 = (t) => String(t || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+const PARADA = new Set(sa2('para pelo pela pelos pelas como mais menos sobre entre quando onde deve devem pode podem será serão esse essa este esta isso aquele aquela segundo conforme sendo também ainda apenas outro outra outros outras qualquer todos todas cada mesmo mesma nosso nossa seus suas item afirma texto caso porque assim então desde após até sem com que não sim').split(' '));
+const fichas = (t) => (sa2(t).match(/[a-z0-9º]+/g) || []).filter((w) => (w.length >= 4 || /\d/.test(w)) && !PARADA.has(w));
+const cacheFrases = new WeakMap();
+function frasesDoTopico(a) {
+  if (cacheFrases.has(a)) return cacheFrases.get(a);
+  const d = document.createElement('div'); d.innerHTML = String(a.html || '') + String(a.aprof || '');
+  d.querySelectorAll('.lt-flash-box, .lt-quiz, .lt-q, .rd-ex, button, .lt-pegs, .lt-peg, .art-peg, .lt-tit').forEach((x) => x.remove());
+  const tx = document.createElement('textarea');
+  const out = [];
+  d.querySelectorAll('p, li, .art-lei, .jc-tese, .jc-com, tr').forEach((el) => {
+    if (el.querySelector('p, li, tr')) return;
+    tx.innerHTML = el.innerHTML.replace(/<[^>]+>/g, ' '); const t = tx.value.replace(/\s+/g, ' ').replace(/\s+([,.;:!?)])/g, '$1').trim().replace(/^[a-z]\)?\s+(?=[a-záéíóú])/, ''); if (t.length < 25) return;
+    t.split(/(?<=[.!?;])\s+(?=[A-ZÀ-Ý"“(])/).reduce((acc, f) => { if (acc.length && (acc[acc.length - 1].length < 60)) acc[acc.length - 1] += ' ' + f; else acc.push(f); return acc; }, []).forEach((f) => { f = f.trim(); if (f.length >= 30) out.push({ t: f, w: new Set(fichas(f)) }); });
+  });
+  const df = new Map(); out.forEach((f) => f.w.forEach((w) => df.set(w, (df.get(w) || 0) + 1)));
+  const res = { frases: out, idf: (w) => Math.log(1 + out.length / (df.get(w) || 1)) };
+  cacheFrases.set(a, res); return res;
+}
+function melhorTrecho(enunciado, base) {
+  if (!base.frases.length) return '';
+  const q = [...new Set(fichas(enunciado))]; if (q.length < 2) return '';
+  let melhor = null, nota = 0;
+  const minimo = q.length >= 6 ? 3 : 2;
+  for (const f of base.frases) { let s = 0, n = 0; for (const w of q) if (f.w.has(w)) { s += base.idf(w); n++; } s = s / Math.sqrt(Math.max(4, f.w.size)); if (n >= minimo && n / q.length >= 0.25 && s > nota) { nota = s; melhor = f; } }
+  if (!melhor || nota < 1.1) return '';
+  let t = melhor.t; if (t.length > 320) t = t.slice(0, 317).replace(/\s+\S*$/, '') + '…';
+  return t;
+}
+
 function adicionarTopico(L, a, { comQuestoes = true, num = null, marca = null, cor = COR.ouro, quebraAntes = false } = {}) {
   corAtual = cor;
   if (quebraAntes) L.push({ quebra: true, h: 0 });
@@ -338,14 +369,33 @@ function adicionarTopico(L, a, { comQuestoes = true, num = null, marca = null, c
   const linhasGab = [];
   for (let i = 0; i < questoes.length; i += 10) { const ts = []; for (let k = i; k < Math.min(i + 10, questoes.length); k++) ts.push({ t: `${k + 1}-`, cor: COR.txt2 }, { t: `${resp(questoes[k])}     `, neg: true, cor: '#2B6A1F' }); linhasGab.push(ts); }
   caixaRes(L, { ...RES.bizu, rot: 'GABARITO' }, linhasGab, { marcador: '' });
+  const base = frasesDoTopico(a), txt = (h) => { d.innerHTML = h || ''; return d.textContent.replace(/\s+/g, ' ').trim(); };
+  const semVeredito = (t) => t.replace(/^(certo|errado|correta|incorreta|gabarito)[.:!,]?\s*/i, '').trim();
+  const fraco = (t) => !t || t.trim().length < 4 || /^(literal|n[aã]o( [eé])?|correta|certo|errado|errada|incorreta|errad[ao] tamb[eé]m)\.?$/i.test(t.trim()) || /^n[aã]o confere/i.test(t.trim());
   questoes.forEach((q, i) => {
-    d.innerHTML = (q.alts ? q.n?.[q.r ?? 0] : q.x) || ''; let com = d.textContent.trim();
-    if (/^literal\.?$/i.test(com)) com = 'Reproduz o texto da norma.';
-    d.innerHTML = (q.alts ? q.x : q.prof || q.t) || ''; const fonteQ = d.textContent.trim();
-    const ok = q.alts ? true : q.c;
-    const ts = [{ t: `${i + 1}. ${q.alts ? 'Letra ' + resp(q) : q.c ? 'Certo' : 'Errado'}. `, neg: true, cor: ok ? '#2B6A1F' : '#C0392B' }, { t: com }, ...(fonteQ ? [{ t: ` (${fonteQ})`, ita: true, cor: COR.txt2 }] : [])];
-    quebrar(ts, LARG, 22).forEach((ln, k) => L.push({ h: 33, segs: ln, tam: 22, recuo: 0, keep: k === 0 ? 1 : 0 }));
-    L.push({ h: 8 });
+    const veredito = q.alts ? `Letra ${resp(q)}` : q.c ? 'Certo' : 'Errado', ok = q.alts ? true : q.c;
+    const blocos = [];
+    if (q.alts) {
+      const certa = semVeredito(txt(q.n?.[q.r ?? 0])), fund = txt(q.x);
+      if (!fraco(certa)) blocos.push([{ t: 'Por que está correta: ', neg: true, cor: '#2B6A1F' }, { t: certa }]);
+      if (!fraco(fund)) blocos.push([{ t: 'Fundamento: ', neg: true, cor: '#1F4E80' }, { t: fund }]);
+      const erradas = (q.alts || []).map((_, j) => [j, txt(q.n?.[j])]).filter(([j, t]) => j !== (q.r ?? 0) && !fraco(t));
+      if (erradas.length) blocos.push([{ t: 'As outras: ', neg: true, cor: '#962D22' }, { t: erradas.map(([j, t]) => `${'ABCDE'[j]}) ${t}`).join(' ') }]);
+    } else {
+      const prof = semVeredito(txt(q.prof || q.t)), exp = txt(q.x);
+      if (!fraco(prof)) blocos.push([{ t: q.c ? 'Fundamento: ' : 'Onde está o erro: ', neg: true, cor: q.c ? '#1F4E80' : '#962D22' }, { t: prof }]);
+      if (!fraco(exp) && sa2(exp) !== sa2(prof)) blocos.push([{ t: !q.c && fraco(prof) ? 'Onde está o erro: ' : 'Explicação: ', neg: true, cor: !q.c && fraco(prof) ? '#962D22' : COR.txt }, { t: exp }]);
+      else if (/^literal\.?$/i.test(exp)) blocos.push([{ t: 'Explicação: ', neg: true, cor: COR.txt }, { t: q.c ? 'O item reproduz o texto da norma, sem alteração de sentido.' : 'O item altera o texto da norma.' }]);
+    }
+    const trecho = melhorTrecho(txt(q.p), base);
+    if (trecho) blocos.push([{ t: 'No conteúdo: ', neg: true, cor: '#5B3F8A' }, { t: `"${trecho}"`, ita: true, cor: COR.txt2 }]);
+    const biz = txt(q.e), ja = sa2(blocos.map((b) => b.map((x) => x.t).join('')).join(' '));
+    if (!fraco(biz) && !ja.includes(sa2(biz).replace(/[.]$/, ''))) blocos.push([{ t: biz.length < 40 && /\d/.test(biz) ? 'Base legal: ' : 'Bizu: ', neg: true, cor: '#8A6210' }, { t: biz }]);
+    if (!blocos.length) blocos.push([{ t: 'Confira o tópico correspondente no texto acima.' }]);
+    const cab = quebrar([{ t: `${i + 1}. ${veredito}`, neg: true, cor: ok ? '#2B6A1F' : '#C0392B' }], LARG, 23);
+    cab.forEach((ln) => L.push({ h: 36, segs: ln, tam: 23, recuo: 0, keep: 2 }));
+    blocos.forEach((ts) => quebrar(ts, LARG - 30, 21).forEach((ln) => L.push({ h: 31, segs: ln, tam: 21, recuo: 30 })));
+    L.push({ h: 6 }, { h: 2, regua2: true }, { h: 10 });
   });
 }
 

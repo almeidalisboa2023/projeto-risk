@@ -4,7 +4,13 @@
   var el = document.getElementById('intro'); if (!el) return;
   var calmo = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
   var fim = function () { if (!el.isConnected) return; el.classList.add('sai'); setTimeout(function () { el.remove(); }, 600); };
-  setTimeout(fim, calmo ? 200 : 2200);
+  // A abertura fica na tela até o app terminar de carregar (mínimo de 1,4 s, máximo de 15 s), para não aparecer tela de "carregando"
+  var app = document.getElementById('app'), pronto = false, minimo = false;
+  var tenta = function () { if (pronto && minimo) fim(); };
+  if (app && window.MutationObserver) new MutationObserver(function (m, o) { if (!app.querySelector('.pre-app')) { pronto = true; o.disconnect(); tenta(); } }).observe(app, { childList: true });
+  else pronto = true;
+  setTimeout(function () { minimo = true; tenta(); }, calmo ? 200 : 1400);
+  setTimeout(fim, 15000);
   el.addEventListener('click', fim); // um toque pula a abertura
   var cv = document.getElementById('introFx'); if (!cv || calmo) return;
   var c = cv.getContext('2d'), d = Math.min(2, window.devicePixelRatio || 1), w = innerWidth, h = innerHeight;

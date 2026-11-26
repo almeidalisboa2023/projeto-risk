@@ -1,5 +1,1814 @@
 // Tópicos novos de matérias escritas à mão (gerado pelo conversor). Entram no fim ou na ordem indicada.
 export const TOPICOS_EXTRA = {
+"rlm": {
+"ordem": [
+"proposicoes",
+"equivalencias",
+"logica-argumentacao",
+"conjuntos",
+"equacoes",
+"funcoes",
+"razao",
+"porcentagem",
+"sequencias",
+"contagem",
+"probabilidade",
+"estatistica",
+"geometria",
+"medidas-cartesiano"
+],
+"assuntos": [
+{
+"id": "juros",
+"titulo": "Juros simples e compostos",
+"arts": "Matemática financeira",
+"chaves": [
+"juros simples",
+"juros compostos",
+"montante",
+"taxa proporcional",
+"matematica financeira",
+"capital"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>J = C·i·t</b><span>juros simples: sempre sobre o capital inicial</span></div><div class=\"lt-stat\"><b>M = C·(1 + i)^t</b><span>juros compostos: juros sobre juros</span></div><div class=\"lt-stat\"><b>mesma unidade</b><span>taxa e tempo precisam estar no mesmo período</span></div><div class=\"lt-stat\"><b>1 + i</b><span>o fator de cada período de capitalização</span></div></div>\n<p>Matemática financeira aparece em RLM de muitos editais com o nome de \"juros simples e compostos\" ou dentro de porcentagem. A boa notícia: tudo se resolve com duas fórmulas e com a ideia de <b>fator multiplicativo</b>, que você já viu em porcentagem.</p>\n<h3>1. Os elementos da operação</h3>\n<ul><li><b>Capital (C)</b>: o valor aplicado ou emprestado no início (também chamado de principal ou valor presente).</li><li><b>Taxa (i)</b>: o percentual cobrado ou pago por período (ao mês, ao ano). Nas fórmulas, use a forma decimal: 5% = 0,05.</li><li><b>Tempo (t ou n)</b>: o número de períodos. <b>Atenção</b>: a taxa e o tempo precisam estar na <b>mesma unidade</b> (taxa mensal com tempo em meses; taxa anual com tempo em anos).</li><li><b>Juros (J)</b>: a remuneração do capital. <b>Montante (M)</b>: o total ao final, M = C + J.</li></ul>\n<div class=\"lt-peg\"><b class=\"lt-tit\">⚠ Pegadinha</b> Se a taxa é de 2% ao mês e o prazo é de 1 ano, basta usar t = 1. <b>Errado</b>: converta o tempo para meses (t = 12) ou a taxa para anual. Unidades diferentes são a pegadinha mais comum.</div>\n<h3>2. Juros simples</h3>\n<ul><li><b>Fórmula</b>: J = C · i · t, e o montante é M = C · (1 + i · t).</li><li><b>Ideia</b>: os juros de cada período são calculados <b>sempre sobre o capital inicial</b>; por isso crescem em linha reta (é uma <b>função afim</b> do tempo, e o montante forma uma <b>PA</b>).</li><li><b>Exemplo</b>: R$ 2.000,00 a 3% ao mês por 5 meses: J = 2.000 × 0,03 × 5 = R$ 300,00; M = R$ 2.300,00.</li><li><b>Taxas proporcionais</b>: em juros simples, 12% ao ano equivalem a 1% ao mês (basta dividir ou multiplicar pelo número de períodos).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Mnemônico dos simples: <b>\"CIT\"</b>, J = <b>C</b>apital × <b>I</b> × <b>T</b>empo. Para achar qualquer um deles, divida os juros pelo produto dos outros dois: C = J/(i·t), i = J/(C·t), t = J/(C·i).</div>\n<h3>3. Juros compostos</h3>\n<ul><li><b>Fórmula</b>: M = C · (1 + i)^t, e os juros são J = M - C.</li><li><b>Ideia</b>: os juros de cada período são incorporados ao capital e passam a render juros também (<b>juros sobre juros</b>). O montante cresce como uma <b>PG</b> de razão (1 + i), ou seja, como <b>função exponencial</b> do tempo.</li><li><b>Exemplo</b>: R$ 1.000,00 a 10% ao ano por 2 anos: M = 1.000 × 1,1² = 1.000 × 1,21 = R$ 1.210,00. A juros simples, seriam R$ 1.200,00.</li><li><b>Taxas equivalentes</b>: em compostos, 1% ao mês <b>não</b> equivale a 12% ao ano: (1,01)^12 ≈ 1,1268, ou seja, cerca de 12,68% ao ano.</li></ul>\n<table class=\"tab\"><thead><tr><th>Comparação</th><th>Juros simples</th><th>Juros compostos</th></tr></thead><tbody><tr><td>Base de cálculo</td><td>capital inicial</td><td>capital + juros acumulados</td></tr><tr><td>Crescimento</td><td>linear (PA, função afim)</td><td>exponencial (PG)</td></tr><tr><td>Fórmula do montante</td><td>M = C(1 + it)</td><td>M = C(1 + i)^t</td></tr><tr><td>Conversão de taxas</td><td>proporcional (divide ou multiplica)</td><td>equivalente (potência)</td></tr><tr><td>Quem rende mais</td><td>mais em prazos menores que um período</td><td>mais a partir do 2º período (empatam no 1º)</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Juros compostos sempre rendem mais que simples</span><br>✅ <span class=\"certo\">Em <b>um único período</b>, os dois rendem o mesmo; antes de um período inteiro, os simples rendem mais</span></li><li>❌ <span class=\"banca\">2% ao mês em compostos equivale a 24% ao ano</span><br>✅ <span class=\"certo\">Isso é <b>taxa proporcional</b> (simples); a equivalente composta é maior</span></li><li>❌ <span class=\"banca\">Montante e juros são a mesma coisa</span><br>✅ <span class=\"certo\"><b>Montante = capital + juros</b></span></li></ol></div>\n<h3>4. Como a banca cobra</h3>\n<ul><li><b>Cálculo direto</b>: aplicar a fórmula com números redondos (taxas de 10%, 20%, prazos de 2 ou 3 períodos).</li><li><b>Comparação simples x composto</b>: a diferença entre os montantes depois de 2 ou 3 períodos.</li><li><b>Ligação com porcentagem</b>: aumentos sucessivos são juros compostos; aumentos sobre o valor original são juros simples.</li><li><b>Ligação com funções e sequências</b>: montante simples é PA (função afim); montante composto é PG (função exponencial). A Cebraspe adora itens que pedem essa interpretação.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Simples ou composto?</b><p>Um servidor tomou R$ 10.000,00 emprestados a 10% ao mês por 3 meses. Compare o montante a juros simples e a juros compostos.</p><details><summary>Ver a solução comentada</summary><p>Simples: M = 10.000 × (1 + 0,10 × 3) = 10.000 × 1,3 = R$ 13.000,00. Compostos: M = 10.000 × 1,1³ = 10.000 × 1,331 = R$ 13.310,00. A diferença de R$ 310,00 é exatamente o \"juro sobre juros\" acumulado no 2º e no 3º meses.</p></details></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juros simples</span></span><span class=\"vs\"><span>J = C·i·t (sobre o capital inicial)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Montante simples</span></span><span class=\"vs\"><span>M = C(1 + it)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juros compostos</span></span><span class=\"vs\"><span>M = C(1 + i)^t</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juros simples crescem como</span></span><span class=\"vs\"><span>PA / função afim</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Juros compostos crescem como</span></span><span class=\"vs\"><span>PG / função exponencial</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Taxa proporcional</span></span><span class=\"vs\"><span>juros simples (divide ou multiplica)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Taxa equivalente</span></span><span class=\"vs\"><span>juros compostos (potência)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Unidades</span></span><span class=\"vs\"><span>taxa e tempo no mesmo período</span></span></button></div></div>\n<h3>Questões resolvidas passo a passo</h3>\n<p>Esta bateria de exercícios resolvidos cobre os formatos que mais caem. Tente resolver cada um antes de abrir a solução comentada: o passo a passo mostra o raciocínio esperado pela banca, e o bizu resume a regra para levar para a prova.</p>\n<h3>Treino: Juros simples</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 1 · Juros simples</b><p>Um capital de R$ 4.500,00 foi aplicado a juros simples de 5% ao mês durante 12 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 4.500 × 0,05 × 12 = 2.700.<br>Resposta: <b>R$ 2.700,00</b>. Montante: M = C + J = R$ 7.200,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 2 · Juros simples</b><p>Um capital de R$ 14.500,00 foi aplicado a juros simples de 2,5% ao mês durante 16 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 14.500 × 0,025 × 16 = 5.800.<br>Resposta: <b>R$ 5.800,00</b>. Montante: M = C + J = R$ 20.300,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 3 · Juros simples</b><p>Um capital de R$ 14.500,00 foi aplicado a juros simples de 5% ao mês durante 10 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 14.500 × 0,05 × 10 = 7.250.<br>Resposta: <b>R$ 7.250,00</b>. Montante: M = C + J = R$ 21.750,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 4 · Juros simples</b><p>Um capital de R$ 4.500,00 foi aplicado a juros simples de 1,5% ao mês durante 12 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 4.500 × 0,015 × 12 = 810.<br>Resposta: <b>R$ 810,00</b>. Montante: M = C + J = R$ 5.310,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 5 · Juros simples</b><p>Um capital de R$ 10.500,00 foi aplicado a juros simples de 3% ao mês durante 17 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 10.500 × 0,03 × 17 = 5.355.<br>Resposta: <b>R$ 5.355,00</b>. Montante: M = C + J = R$ 15.855,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 6 · Juros simples</b><p>Um capital de R$ 13.500,00 foi aplicado a juros simples de 5% ao mês durante 5 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 13.500 × 0,05 × 5 = 3.375.<br>Resposta: <b>R$ 3.375,00</b>. Montante: M = C + J = R$ 16.875,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 7 · Juros simples</b><p>Um capital de R$ 8.500,00 foi aplicado a juros simples de 2,5% ao mês durante 7 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 8.500 × 0,025 × 7 = 1.487,5.<br>Resposta: <b>R$ 1.487,50</b>. Montante: M = C + J = R$ 9.987,50.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 8 · Juros simples</b><p>Um capital de R$ 14.500,00 foi aplicado a juros simples de 1,5% ao mês durante 8 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 14.500 × 0,015 × 8 = 1.740.<br>Resposta: <b>R$ 1.740,00</b>. Montante: M = C + J = R$ 16.240,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 9 · Juros simples</b><p>Um capital de R$ 17.500,00 foi aplicado a juros simples de 5% ao mês durante 23 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 17.500 × 0,05 × 23 = 20.125.<br>Resposta: <b>R$ 20.125,00</b>. Montante: M = C + J = R$ 37.625,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 10 · Juros simples</b><p>Um capital de R$ 16.500,00 foi aplicado a juros simples de 1,5% ao mês durante 13 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 16.500 × 0,015 × 13 = 3.217,5.<br>Resposta: <b>R$ 3.217,50</b>. Montante: M = C + J = R$ 19.717,50.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 11 · Juros simples</b><p>Um capital de R$ 10.000,00 foi aplicado a juros simples de 4% ao mês durante 18 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 10.000 × 0,04 × 18 = 7.200.<br>Resposta: <b>R$ 7.200,00</b>. Montante: M = C + J = R$ 17.200,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 12 · Juros simples</b><p>Um capital de R$ 12.000,00 foi aplicado a juros simples de 2,5% ao mês durante 14 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 12.000 × 0,025 × 14 = 4.200.<br>Resposta: <b>R$ 4.200,00</b>. Montante: M = C + J = R$ 16.200,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 13 · Juros simples</b><p>Um capital de R$ 2.000,00 foi aplicado a juros simples de 1,5% ao mês durante 6 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 2.000 × 0,015 × 6 = 180.<br>Resposta: <b>R$ 180,00</b>. Montante: M = C + J = R$ 2.180,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 14 · Juros simples</b><p>Um capital de R$ 7.500,00 foi aplicado a juros simples de 2% ao mês durante 4 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 7.500 × 0,02 × 4 = 600.<br>Resposta: <b>R$ 600,00</b>. Montante: M = C + J = R$ 8.100,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 15 · Juros simples</b><p>Um capital de R$ 10.000,00 foi aplicado a juros simples de 1% ao mês durante 10 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 10.000 × 0,01 × 10 = 1.000.<br>Resposta: <b>R$ 1.000,00</b>. Montante: M = C + J = R$ 11.000,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 16 · Juros simples</b><p>Um capital de R$ 19.000,00 foi aplicado a juros simples de 2,5% ao mês durante 12 meses. Qual o valor dos juros?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> J = C · i · t (taxa e tempo na mesma unidade).<br><b>Passo 2.</b> J = 19.000 × 0,025 × 12 = 5.700.<br>Resposta: <b>R$ 5.700,00</b>. Montante: M = C + J = R$ 24.700,00.<br><b>Bizu:</b> Simples: J = C·i·t (juros sempre sobre o capital inicial).</p></details></div>\n<h3>Treino: Montante a juros simples</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 17 · Montante a juros simples</b><p>Uma dívida de R$ 7.500,00 é corrigida a juros simples de 4% ao mês. Qual o montante após 4 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 7.500 × (1 + 0,04 × 4) = 7.500 × 1,16.<br><b>Passo 2.</b> M = 8.700.<br>Resposta: <b>R$ 8.700,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 18 · Montante a juros simples</b><p>Uma dívida de R$ 1.000,00 é corrigida a juros simples de 4% ao mês. Qual o montante após 4 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 1.000 × (1 + 0,04 × 4) = 1.000 × 1,16.<br><b>Passo 2.</b> M = 1.160.<br>Resposta: <b>R$ 1.160,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 19 · Montante a juros simples</b><p>Uma dívida de R$ 1.000,00 é corrigida a juros simples de 5% ao mês. Qual o montante após 3 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 1.000 × (1 + 0,05 × 3) = 1.000 × 1,15.<br><b>Passo 2.</b> M = 1.150.<br>Resposta: <b>R$ 1.150,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 20 · Montante a juros simples</b><p>Uma dívida de R$ 2.500,00 é corrigida a juros simples de 5% ao mês. Qual o montante após 2 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 2.500 × (1 + 0,05 × 2) = 2.500 × 1,1.<br><b>Passo 2.</b> M = 2.750.<br>Resposta: <b>R$ 2.750,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 21 · Montante a juros simples</b><p>Uma dívida de R$ 4.000,00 é corrigida a juros simples de 5% ao mês. Qual o montante após 7 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 4.000 × (1 + 0,05 × 7) = 4.000 × 1,35.<br><b>Passo 2.</b> M = 5.400.<br>Resposta: <b>R$ 5.400,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 22 · Montante a juros simples</b><p>Uma dívida de R$ 6.000,00 é corrigida a juros simples de 3% ao mês. Qual o montante após 12 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 6.000 × (1 + 0,03 × 12) = 6.000 × 1,36.<br><b>Passo 2.</b> M = 8.160.<br>Resposta: <b>R$ 8.160,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 23 · Montante a juros simples</b><p>Uma dívida de R$ 7.000,00 é corrigida a juros simples de 5% ao mês. Qual o montante após 8 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 7.000 × (1 + 0,05 × 8) = 7.000 × 1,4.<br><b>Passo 2.</b> M = 9.800.<br>Resposta: <b>R$ 9.800,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 24 · Montante a juros simples</b><p>Uma dívida de R$ 9.500,00 é corrigida a juros simples de 2% ao mês. Qual o montante após 6 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 9.500 × (1 + 0,02 × 6) = 9.500 × 1,12.<br><b>Passo 2.</b> M = 10.640.<br>Resposta: <b>R$ 10.640,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 25 · Montante a juros simples</b><p>Uma dívida de R$ 4.000,00 é corrigida a juros simples de 4% ao mês. Qual o montante após 11 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 4.000 × (1 + 0,04 × 11) = 4.000 × 1,44.<br><b>Passo 2.</b> M = 5.760.<br>Resposta: <b>R$ 5.760,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 26 · Montante a juros simples</b><p>Uma dívida de R$ 5.500,00 é corrigida a juros simples de 3% ao mês. Qual o montante após 3 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 5.500 × (1 + 0,03 × 3) = 5.500 × 1,09.<br><b>Passo 2.</b> M = 5.995.<br>Resposta: <b>R$ 5.995,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 27 · Montante a juros simples</b><p>Uma dívida de R$ 7.000,00 é corrigida a juros simples de 6% ao mês. Qual o montante após 11 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 7.000 × (1 + 0,06 × 11) = 7.000 × 1,66.<br><b>Passo 2.</b> M = 11.620.<br>Resposta: <b>R$ 11.620,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 28 · Montante a juros simples</b><p>Uma dívida de R$ 9.000,00 é corrigida a juros simples de 5% ao mês. Qual o montante após 5 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 9.000 × (1 + 0,05 × 5) = 9.000 × 1,25.<br><b>Passo 2.</b> M = 11.250.<br>Resposta: <b>R$ 11.250,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 29 · Montante a juros simples</b><p>Uma dívida de R$ 6.500,00 é corrigida a juros simples de 6% ao mês. Qual o montante após 9 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 6.500 × (1 + 0,06 × 9) = 6.500 × 1,54.<br><b>Passo 2.</b> M = 10.010.<br>Resposta: <b>R$ 10.010,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 30 · Montante a juros simples</b><p>Uma dívida de R$ 2.000,00 é corrigida a juros simples de 2% ao mês. Qual o montante após 8 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 2.000 × (1 + 0,02 × 8) = 2.000 × 1,16.<br><b>Passo 2.</b> M = 2.320.<br>Resposta: <b>R$ 2.320,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 31 · Montante a juros simples</b><p>Uma dívida de R$ 5.500,00 é corrigida a juros simples de 6% ao mês. Qual o montante após 11 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 5.500 × (1 + 0,06 × 11) = 5.500 × 1,66.<br><b>Passo 2.</b> M = 9.130.<br>Resposta: <b>R$ 9.130,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 32 · Montante a juros simples</b><p>Uma dívida de R$ 1.500,00 é corrigida a juros simples de 3% ao mês. Qual o montante após 5 meses?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i·t) = 1.500 × (1 + 0,03 × 5) = 1.500 × 1,15.<br><b>Passo 2.</b> M = 1.725.<br>Resposta: <b>R$ 1.725,00</b>.<br><b>Bizu:</b> Montante simples: C(1 + it).</p></details></div>\n<h3>Treino: Juros compostos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 33 · Juros compostos</b><p>Um capital de R$ 10.000,00 foi aplicado a juros compostos de 5% ao ano. Qual o montante após 2 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 10.000 × 1,05^2.<br><b>Passo 2.</b> 1,05^2 = 1,1025 → M = 11.025.<br>Resposta: <b>R$ 11.025,00</b>. A juros simples seriam R$ 11.000,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 34 · Juros compostos</b><p>Um capital de R$ 1.000,00 foi aplicado a juros compostos de 5% ao ano. Qual o montante após 2 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 1.000 × 1,05^2.<br><b>Passo 2.</b> 1,05^2 = 1,1025 → M = 1.102,5.<br>Resposta: <b>R$ 1.102,50</b>. A juros simples seriam R$ 1.100,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 35 · Juros compostos</b><p>Um capital de R$ 1.000,00 foi aplicado a juros compostos de 10% ao ano. Qual o montante após 3 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 1.000 × 1,1^3.<br><b>Passo 2.</b> 1,1^3 = 1,331 → M = 1.331.<br>Resposta: <b>R$ 1.331,00</b>. A juros simples seriam R$ 1.300,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 36 · Juros compostos</b><p>Um capital de R$ 10.000,00 foi aplicado a juros compostos de 20% ao ano. Qual o montante após 3 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 10.000 × 1,2^3.<br><b>Passo 2.</b> 1,2^3 = 1,728 → M = 17.280.<br>Resposta: <b>R$ 17.280,00</b>. A juros simples seriam R$ 16.000,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 37 · Juros compostos</b><p>Um capital de R$ 1.000,00 foi aplicado a juros compostos de 20% ao ano. Qual o montante após 2 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 1.000 × 1,2^2.<br><b>Passo 2.</b> 1,2^2 = 1,44 → M = 1.440.<br>Resposta: <b>R$ 1.440,00</b>. A juros simples seriam R$ 1.400,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 38 · Juros compostos</b><p>Um capital de R$ 1.000,00 foi aplicado a juros compostos de 5% ao ano. Qual o montante após 3 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 1.000 × 1,05^3.<br><b>Passo 2.</b> 1,05^3 = 1,1576 → M = 1.157,63.<br>Resposta: <b>R$ 1.157,63</b>. A juros simples seriam R$ 1.150,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 39 · Juros compostos</b><p>Um capital de R$ 20.000,00 foi aplicado a juros compostos de 20% ao ano. Qual o montante após 2 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 20.000 × 1,2^2.<br><b>Passo 2.</b> 1,2^2 = 1,44 → M = 28.800.<br>Resposta: <b>R$ 28.800,00</b>. A juros simples seriam R$ 28.000,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 40 · Juros compostos</b><p>Um capital de R$ 5.000,00 foi aplicado a juros compostos de 5% ao ano. Qual o montante após 3 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 5.000 × 1,05^3.<br><b>Passo 2.</b> 1,05^3 = 1,1576 → M = 5.788,13.<br>Resposta: <b>R$ 5.788,13</b>. A juros simples seriam R$ 5.750,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 41 · Juros compostos</b><p>Um capital de R$ 5.000,00 foi aplicado a juros compostos de 10% ao ano. Qual o montante após 3 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 5.000 × 1,1^3.<br><b>Passo 2.</b> 1,1^3 = 1,331 → M = 6.655.<br>Resposta: <b>R$ 6.655,00</b>. A juros simples seriam R$ 6.500,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 42 · Juros compostos</b><p>Um capital de R$ 10.000,00 foi aplicado a juros compostos de 20% ao ano. Qual o montante após 2 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 10.000 × 1,2^2.<br><b>Passo 2.</b> 1,2^2 = 1,44 → M = 14.400.<br>Resposta: <b>R$ 14.400,00</b>. A juros simples seriam R$ 14.000,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 43 · Juros compostos</b><p>Um capital de R$ 10.000,00 foi aplicado a juros compostos de 10% ao ano. Qual o montante após 2 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 10.000 × 1,1^2.<br><b>Passo 2.</b> 1,1^2 = 1,21 → M = 12.100.<br>Resposta: <b>R$ 12.100,00</b>. A juros simples seriam R$ 12.000,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 44 · Juros compostos</b><p>Um capital de R$ 2.000,00 foi aplicado a juros compostos de 5% ao ano. Qual o montante após 3 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 2.000 × 1,05^3.<br><b>Passo 2.</b> 1,05^3 = 1,1576 → M = 2.315,25.<br>Resposta: <b>R$ 2.315,25</b>. A juros simples seriam R$ 2.300,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 45 · Juros compostos</b><p>Um capital de R$ 2.000,00 foi aplicado a juros compostos de 10% ao ano. Qual o montante após 2 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 2.000 × 1,1^2.<br><b>Passo 2.</b> 1,1^2 = 1,21 → M = 2.420.<br>Resposta: <b>R$ 2.420,00</b>. A juros simples seriam R$ 2.400,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 46 · Juros compostos</b><p>Um capital de R$ 2.000,00 foi aplicado a juros compostos de 20% ao ano. Qual o montante após 2 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 2.000 × 1,2^2.<br><b>Passo 2.</b> 1,2^2 = 1,44 → M = 2.880.<br>Resposta: <b>R$ 2.880,00</b>. A juros simples seriam R$ 2.800,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 47 · Juros compostos</b><p>Um capital de R$ 1.000,00 foi aplicado a juros compostos de 20% ao ano. Qual o montante após 3 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 1.000 × 1,2^3.<br><b>Passo 2.</b> 1,2^3 = 1,728 → M = 1.728.<br>Resposta: <b>R$ 1.728,00</b>. A juros simples seriam R$ 1.600,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 48 · Juros compostos</b><p>Um capital de R$ 5.000,00 foi aplicado a juros compostos de 20% ao ano. Qual o montante após 3 anos?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> M = C·(1 + i)^t = 5.000 × 1,2^3.<br><b>Passo 2.</b> 1,2^3 = 1,728 → M = 8.640.<br>Resposta: <b>R$ 8.640,00</b>. A juros simples seriam R$ 8.000,00: no composto, há juros sobre juros.<br><b>Bizu:</b> Composto: C(1 + i)^t — juros sobre juros.</p></details></div>\n<h3>Treino: Taxas proporcionais</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 49 · Taxas proporcionais</b><p>Uma taxa de juros simples é de 24% ao ano. Qual a taxa mensal proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Em juros simples, taxas proporcionais: divida pelo número de períodos.<br><b>Passo 2.</b> 24% ÷ 12 = 2% ao mês.<br>Resposta: <b>2% a.m.</b> (em juros compostos, usa-se taxa equivalente, que é diferente).<br><b>Bizu:</b> Simples: taxa proporcional (divide); compostos: taxa equivalente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 50 · Taxas proporcionais</b><p>Uma taxa de juros simples é de 48% ao ano. Qual a taxa mensal proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Em juros simples, taxas proporcionais: divida pelo número de períodos.<br><b>Passo 2.</b> 48% ÷ 12 = 4% ao mês.<br>Resposta: <b>4% a.m.</b> (em juros compostos, usa-se taxa equivalente, que é diferente).<br><b>Bizu:</b> Simples: taxa proporcional (divide); compostos: taxa equivalente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 51 · Taxas proporcionais</b><p>Uma taxa de juros simples é de 60% ao ano. Qual a taxa mensal proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Em juros simples, taxas proporcionais: divida pelo número de períodos.<br><b>Passo 2.</b> 60% ÷ 12 = 5% ao mês.<br>Resposta: <b>5% a.m.</b> (em juros compostos, usa-se taxa equivalente, que é diferente).<br><b>Bizu:</b> Simples: taxa proporcional (divide); compostos: taxa equivalente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 52 · Taxas proporcionais</b><p>Uma taxa de juros simples é de 12% ao ano. Qual a taxa mensal proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Em juros simples, taxas proporcionais: divida pelo número de períodos.<br><b>Passo 2.</b> 12% ÷ 12 = 1% ao mês.<br>Resposta: <b>1% a.m.</b> (em juros compostos, usa-se taxa equivalente, que é diferente).<br><b>Bizu:</b> Simples: taxa proporcional (divide); compostos: taxa equivalente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 53 · Taxas proporcionais</b><p>Uma taxa de juros simples é de 36% ao ano. Qual a taxa mensal proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Em juros simples, taxas proporcionais: divida pelo número de períodos.<br><b>Passo 2.</b> 36% ÷ 12 = 3% ao mês.<br>Resposta: <b>3% a.m.</b> (em juros compostos, usa-se taxa equivalente, que é diferente).<br><b>Bizu:</b> Simples: taxa proporcional (divide); compostos: taxa equivalente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 54 · Taxas proporcionais</b><p>Uma taxa de juros simples é de 30% ao ano. Qual a taxa mensal proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Em juros simples, taxas proporcionais: divida pelo número de períodos.<br><b>Passo 2.</b> 30% ÷ 12 = 2,5% ao mês.<br>Resposta: <b>2,5% a.m.</b> (em juros compostos, usa-se taxa equivalente, que é diferente).<br><b>Bizu:</b> Simples: taxa proporcional (divide); compostos: taxa equivalente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 55 · Taxas proporcionais</b><p>Uma taxa de juros simples é de 18% ao ano. Qual a taxa mensal proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Em juros simples, taxas proporcionais: divida pelo número de períodos.<br><b>Passo 2.</b> 18% ÷ 12 = 1,5% ao mês.<br>Resposta: <b>1,5% a.m.</b> (em juros compostos, usa-se taxa equivalente, que é diferente).<br><b>Bizu:</b> Simples: taxa proporcional (divide); compostos: taxa equivalente.</p></details></div>\n<h3>Treino: Capital a partir dos juros</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 56 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 5% ao mês rendeu R$ 800,00 de juros em 4 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 800 ÷ (0,05 × 4) = 800 ÷ 0,2 = 4.000.<br>Resposta: <b>R$ 4.000,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 57 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 2% ao mês rendeu R$ 1.700,00 de juros em 10 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 1.700 ÷ (0,02 × 10) = 1.700 ÷ 0,2 = 8.500.<br>Resposta: <b>R$ 8.500,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 58 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 5% ao mês rendeu R$ 3.600,00 de juros em 12 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 3.600 ÷ (0,05 × 12) = 3.600 ÷ 0,6 = 6.000.<br>Resposta: <b>R$ 6.000,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 59 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 5% ao mês rendeu R$ 400,00 de juros em 4 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 400 ÷ (0,05 × 4) = 400 ÷ 0,2 = 2.000.<br>Resposta: <b>R$ 2.000,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 60 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 4% ao mês rendeu R$ 320,00 de juros em 8 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 320 ÷ (0,04 × 8) = 320 ÷ 0,32 = 1.000.<br>Resposta: <b>R$ 1.000,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 61 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 5% ao mês rendeu R$ 750,00 de juros em 10 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 750 ÷ (0,05 × 10) = 750 ÷ 0,5 = 1.500.<br>Resposta: <b>R$ 1.500,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 62 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 2% ao mês rendeu R$ 360,00 de juros em 4 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 360 ÷ (0,02 × 4) = 360 ÷ 0,08 = 4.500.<br>Resposta: <b>R$ 4.500,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 63 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 2,5% ao mês rendeu R$ 1.500,00 de juros em 8 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 1.500 ÷ (0,025 × 8) = 1.500 ÷ 0,2 = 7.500.<br>Resposta: <b>R$ 7.500,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 64 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 4% ao mês rendeu R$ 2.080,00 de juros em 8 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 2.080 ÷ (0,04 × 8) = 2.080 ÷ 0,32 = 6.500.<br>Resposta: <b>R$ 6.500,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 65 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 5% ao mês rendeu R$ 4.200,00 de juros em 12 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 4.200 ÷ (0,05 × 12) = 4.200 ÷ 0,6 = 7.000.<br>Resposta: <b>R$ 7.000,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 66 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 4% ao mês rendeu R$ 1.600,00 de juros em 8 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 1.600 ÷ (0,04 × 8) = 1.600 ÷ 0,32 = 5.000.<br>Resposta: <b>R$ 5.000,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 67 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 5% ao mês rendeu R$ 3.400,00 de juros em 8 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 3.400 ÷ (0,05 × 8) = 3.400 ÷ 0,4 = 8.500.<br>Resposta: <b>R$ 8.500,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 68 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 5% ao mês rendeu R$ 3.200,00 de juros em 8 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 3.200 ÷ (0,05 × 8) = 3.200 ÷ 0,4 = 8.000.<br>Resposta: <b>R$ 8.000,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 69 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 2,5% ao mês rendeu R$ 2.375,00 de juros em 10 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 2.375 ÷ (0,025 × 10) = 2.375 ÷ 0,25 = 9.500.<br>Resposta: <b>R$ 9.500,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 70 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 2% ao mês rendeu R$ 720,00 de juros em 12 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 720 ÷ (0,02 × 12) = 720 ÷ 0,24 = 3.000.<br>Resposta: <b>R$ 3.000,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 71 · Capital a partir dos juros</b><p>Uma aplicação a juros simples de 2,5% ao mês rendeu R$ 2.700,00 de juros em 12 meses. Qual o capital aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Isole o capital: C = J ÷ (i·t).<br><b>Passo 2.</b> C = 2.700 ÷ (0,025 × 12) = 2.700 ÷ 0,3 = 9.000.<br>Resposta: <b>R$ 9.000,00</b>.<br><b>Bizu:</b> Volte da fórmula: C = J/(it).</p></details></div>\n<h3>Treino: Tempo de aplicação</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 72 · Tempo de aplicação</b><p>Um capital de R$ 5.000,00, aplicado a juros simples de 2% ao mês, rendeu R$ 1.200,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 1.200 ÷ (5.000 × 0,02) = 1.200 ÷ 100 = 12.<br>Resposta: <b>12 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 73 · Tempo de aplicação</b><p>Um capital de R$ 6.000,00, aplicado a juros simples de 4% ao mês, rendeu R$ 3.840,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 3.840 ÷ (6.000 × 0,04) = 3.840 ÷ 240 = 16.<br>Resposta: <b>16 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 74 · Tempo de aplicação</b><p>Um capital de R$ 1.000,00, aplicado a juros simples de 5% ao mês, rendeu R$ 300,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 300 ÷ (1.000 × 0,05) = 300 ÷ 50 = 6.<br>Resposta: <b>6 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 75 · Tempo de aplicação</b><p>Um capital de R$ 7.500,00, aplicado a juros simples de 4% ao mês, rendeu R$ 6.000,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 6.000 ÷ (7.500 × 0,04) = 6.000 ÷ 300 = 20.<br>Resposta: <b>20 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 76 · Tempo de aplicação</b><p>Um capital de R$ 9.500,00, aplicado a juros simples de 2,5% ao mês, rendeu R$ 950,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 950 ÷ (9.500 × 0,025) = 950 ÷ 237,5 = 4.<br>Resposta: <b>4 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 77 · Tempo de aplicação</b><p>Um capital de R$ 7.000,00, aplicado a juros simples de 2,5% ao mês, rendeu R$ 700,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 700 ÷ (7.000 × 0,025) = 700 ÷ 175 = 4.<br>Resposta: <b>4 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 78 · Tempo de aplicação</b><p>Um capital de R$ 8.000,00, aplicado a juros simples de 2,5% ao mês, rendeu R$ 3.200,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 3.200 ÷ (8.000 × 0,025) = 3.200 ÷ 200 = 16.<br>Resposta: <b>16 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 79 · Tempo de aplicação</b><p>Um capital de R$ 1.000,00, aplicado a juros simples de 2,5% ao mês, rendeu R$ 500,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 500 ÷ (1.000 × 0,025) = 500 ÷ 25 = 20.<br>Resposta: <b>20 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 80 · Tempo de aplicação</b><p>Um capital de R$ 5.500,00, aplicado a juros simples de 2% ao mês, rendeu R$ 1.760,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 1.760 ÷ (5.500 × 0,02) = 1.760 ÷ 110 = 16.<br>Resposta: <b>16 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 81 · Tempo de aplicação</b><p>Um capital de R$ 4.000,00, aplicado a juros simples de 2,5% ao mês, rendeu R$ 1.600,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 1.600 ÷ (4.000 × 0,025) = 1.600 ÷ 100 = 16.<br>Resposta: <b>16 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 82 · Tempo de aplicação</b><p>Um capital de R$ 4.500,00, aplicado a juros simples de 5% ao mês, rendeu R$ 3.600,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 3.600 ÷ (4.500 × 0,05) = 3.600 ÷ 225 = 16.<br>Resposta: <b>16 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 83 · Tempo de aplicação</b><p>Um capital de R$ 6.500,00, aplicado a juros simples de 4% ao mês, rendeu R$ 1.040,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 1.040 ÷ (6.500 × 0,04) = 1.040 ÷ 260 = 4.<br>Resposta: <b>4 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 84 · Tempo de aplicação</b><p>Um capital de R$ 8.500,00, aplicado a juros simples de 5% ao mês, rendeu R$ 3.400,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 3.400 ÷ (8.500 × 0,05) = 3.400 ÷ 425 = 8.<br>Resposta: <b>8 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 85 · Tempo de aplicação</b><p>Um capital de R$ 3.000,00, aplicado a juros simples de 4% ao mês, rendeu R$ 960,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 960 ÷ (3.000 × 0,04) = 960 ÷ 120 = 8.<br>Resposta: <b>8 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 86 · Tempo de aplicação</b><p>Um capital de R$ 3.000,00, aplicado a juros simples de 4% ao mês, rendeu R$ 480,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 480 ÷ (3.000 × 0,04) = 480 ÷ 120 = 4.<br>Resposta: <b>4 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 87 · Tempo de aplicação</b><p>Um capital de R$ 5.500,00, aplicado a juros simples de 5% ao mês, rendeu R$ 2.200,00. Por quantos meses ficou aplicado?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> t = J ÷ (C·i).<br><b>Passo 2.</b> t = 2.200 ÷ (5.500 × 0,05) = 2.200 ÷ 275 = 8.<br>Resposta: <b>8 meses</b>.<br><b>Bizu:</b> Isole o tempo: t = J/(C·i).</p></details></div>\n<h3>Treino: Prazo para dobrar (juros simples)</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 88 · Prazo para dobrar (juros simples)</b><p>Um capital é aplicado a juros simples de 2,5% ao mês. Em quanto tempo ele dobra?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Dobrar significa juros iguais ao capital: J = C.<br><b>Passo 2.</b> C = C × 0,025 × t → t = 1 ÷ 0,025 = 40.<br>Resposta: <b>40 meses</b> (regra: 100 ÷ taxa).<br><b>Bizu:</b> Juros simples: dobra em 100/i períodos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 89 · Prazo para dobrar (juros simples)</b><p>Um capital é aplicado a juros simples de 12,5% ao mês. Em quanto tempo ele dobra?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Dobrar significa juros iguais ao capital: J = C.<br><b>Passo 2.</b> C = C × 0,125 × t → t = 1 ÷ 0,125 = 8.<br>Resposta: <b>8 meses</b> (regra: 100 ÷ taxa).<br><b>Bizu:</b> Juros simples: dobra em 100/i períodos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 90 · Prazo para dobrar (juros simples)</b><p>Um capital é aplicado a juros simples de 25% ao mês. Em quanto tempo ele dobra?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Dobrar significa juros iguais ao capital: J = C.<br><b>Passo 2.</b> C = C × 0,25 × t → t = 1 ÷ 0,25 = 4.<br>Resposta: <b>4 meses</b> (regra: 100 ÷ taxa).<br><b>Bizu:</b> Juros simples: dobra em 100/i períodos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 91 · Prazo para dobrar (juros simples)</b><p>Um capital é aplicado a juros simples de 4% ao mês. Em quanto tempo ele dobra?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Dobrar significa juros iguais ao capital: J = C.<br><b>Passo 2.</b> C = C × 0,04 × t → t = 1 ÷ 0,04 = 25.<br>Resposta: <b>25 meses</b> (regra: 100 ÷ taxa).<br><b>Bizu:</b> Juros simples: dobra em 100/i períodos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 92 · Prazo para dobrar (juros simples)</b><p>Um capital é aplicado a juros simples de 10% ao mês. Em quanto tempo ele dobra?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Dobrar significa juros iguais ao capital: J = C.<br><b>Passo 2.</b> C = C × 0,1 × t → t = 1 ÷ 0,1 = 10.<br>Resposta: <b>10 meses</b> (regra: 100 ÷ taxa).<br><b>Bizu:</b> Juros simples: dobra em 100/i períodos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 93 · Prazo para dobrar (juros simples)</b><p>Um capital é aplicado a juros simples de 20% ao mês. Em quanto tempo ele dobra?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Dobrar significa juros iguais ao capital: J = C.<br><b>Passo 2.</b> C = C × 0,2 × t → t = 1 ÷ 0,2 = 5.<br>Resposta: <b>5 meses</b> (regra: 100 ÷ taxa).<br><b>Bizu:</b> Juros simples: dobra em 100/i períodos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 94 · Prazo para dobrar (juros simples)</b><p>Um capital é aplicado a juros simples de 2% ao mês. Em quanto tempo ele dobra?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Dobrar significa juros iguais ao capital: J = C.<br><b>Passo 2.</b> C = C × 0,02 × t → t = 1 ÷ 0,02 = 50.<br>Resposta: <b>50 meses</b> (regra: 100 ÷ taxa).<br><b>Bizu:</b> Juros simples: dobra em 100/i períodos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 95 · Prazo para dobrar (juros simples)</b><p>Um capital é aplicado a juros simples de 5% ao mês. Em quanto tempo ele dobra?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Dobrar significa juros iguais ao capital: J = C.<br><b>Passo 2.</b> C = C × 0,05 × t → t = 1 ÷ 0,05 = 20.<br>Resposta: <b>20 meses</b> (regra: 100 ÷ taxa).<br><b>Bizu:</b> Juros simples: dobra em 100/i períodos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 96 · Prazo para dobrar (juros simples)</b><p>Um capital é aplicado a juros simples de 8% ao mês. Em quanto tempo ele dobra?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Dobrar significa juros iguais ao capital: J = C.<br><b>Passo 2.</b> C = C × 0,08 × t → t = 1 ÷ 0,08 = 12,5.<br>Resposta: <b>12,5 meses</b> (regra: 100 ÷ taxa).<br><b>Bizu:</b> Juros simples: dobra em 100/i períodos.</p></details></div>\n<h3>Treino: Simples x compostos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 97 · Simples x compostos</b><p>Um capital de R$ 10.000,00 é aplicado por 2 períodos a 20% por período. Qual a diferença entre o montante a juros compostos e a juros simples?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Simples: M = 10.000 × (1 + 0,2 × 2) = 14.000.<br><b>Passo 2.</b> Compostos: M = 10.000 × 1,2² = 14.400.<br><b>Passo 3.</b> Diferença: 14.400 - 14.000 = 400 = juros do 1º período rendendo no 2º (2.000 × 0,2).<br>Resposta: <b>R$ 400,00</b>.<br><b>Bizu:</b> Em 2 períodos, a diferença é C·i².</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 98 · Simples x compostos</b><p>Um capital de R$ 1.000,00 é aplicado por 2 períodos a 10% por período. Qual a diferença entre o montante a juros compostos e a juros simples?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Simples: M = 1.000 × (1 + 0,1 × 2) = 1.200.<br><b>Passo 2.</b> Compostos: M = 1.000 × 1,1² = 1.210.<br><b>Passo 3.</b> Diferença: 1.210 - 1.200 = 10 = juros do 1º período rendendo no 2º (100 × 0,1).<br>Resposta: <b>R$ 10,00</b>.<br><b>Bizu:</b> Em 2 períodos, a diferença é C·i².</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 99 · Simples x compostos</b><p>Um capital de R$ 2.000,00 é aplicado por 2 períodos a 10% por período. Qual a diferença entre o montante a juros compostos e a juros simples?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Simples: M = 2.000 × (1 + 0,1 × 2) = 2.400.<br><b>Passo 2.</b> Compostos: M = 2.000 × 1,1² = 2.420.<br><b>Passo 3.</b> Diferença: 2.420 - 2.400 = 20 = juros do 1º período rendendo no 2º (200 × 0,1).<br>Resposta: <b>R$ 20,00</b>.<br><b>Bizu:</b> Em 2 períodos, a diferença é C·i².</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 100 · Simples x compostos</b><p>Um capital de R$ 10.000,00 é aplicado por 2 períodos a 10% por período. Qual a diferença entre o montante a juros compostos e a juros simples?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Simples: M = 10.000 × (1 + 0,1 × 2) = 12.000.<br><b>Passo 2.</b> Compostos: M = 10.000 × 1,1² = 12.100.<br><b>Passo 3.</b> Diferença: 12.100 - 12.000 = 100 = juros do 1º período rendendo no 2º (1.000 × 0,1).<br>Resposta: <b>R$ 100,00</b>.<br><b>Bizu:</b> Em 2 períodos, a diferença é C·i².</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 101 · Simples x compostos</b><p>Um capital de R$ 5.000,00 é aplicado por 2 períodos a 10% por período. Qual a diferença entre o montante a juros compostos e a juros simples?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Simples: M = 5.000 × (1 + 0,1 × 2) = 6.000.<br><b>Passo 2.</b> Compostos: M = 5.000 × 1,1² = 6.050.<br><b>Passo 3.</b> Diferença: 6.050 - 6.000 = 50 = juros do 1º período rendendo no 2º (500 × 0,1).<br>Resposta: <b>R$ 50,00</b>.<br><b>Bizu:</b> Em 2 períodos, a diferença é C·i².</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 102 · Simples x compostos</b><p>Um capital de R$ 2.000,00 é aplicado por 2 períodos a 20% por período. Qual a diferença entre o montante a juros compostos e a juros simples?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Simples: M = 2.000 × (1 + 0,2 × 2) = 2.800.<br><b>Passo 2.</b> Compostos: M = 2.000 × 1,2² = 2.880.<br><b>Passo 3.</b> Diferença: 2.880 - 2.800 = 80 = juros do 1º período rendendo no 2º (400 × 0,2).<br>Resposta: <b>R$ 80,00</b>.<br><b>Bizu:</b> Em 2 períodos, a diferença é C·i².</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 103 · Simples x compostos</b><p>Um capital de R$ 5.000,00 é aplicado por 2 períodos a 20% por período. Qual a diferença entre o montante a juros compostos e a juros simples?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Simples: M = 5.000 × (1 + 0,2 × 2) = 7.000.<br><b>Passo 2.</b> Compostos: M = 5.000 × 1,2² = 7.200.<br><b>Passo 3.</b> Diferença: 7.200 - 7.000 = 200 = juros do 1º período rendendo no 2º (1.000 × 0,2).<br>Resposta: <b>R$ 200,00</b>.<br><b>Bizu:</b> Em 2 períodos, a diferença é C·i².</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 104 · Simples x compostos</b><p>Um capital de R$ 1.000,00 é aplicado por 2 períodos a 20% por período. Qual a diferença entre o montante a juros compostos e a juros simples?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Simples: M = 1.000 × (1 + 0,2 × 2) = 1.400.<br><b>Passo 2.</b> Compostos: M = 1.000 × 1,2² = 1.440.<br><b>Passo 3.</b> Diferença: 1.440 - 1.400 = 40 = juros do 1º período rendendo no 2º (200 × 0,2).<br>Resposta: <b>R$ 40,00</b>.<br><b>Bizu:</b> Em 2 períodos, a diferença é C·i².</p></details></div>\n<h3>Treino: Taxa de juros</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 105 · Taxa de juros</b><p>Um capital de R$ 9.500,00 rendeu R$ 3.420,00 de juros simples em 12 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 3.420 ÷ (9.500 × 12) = 3.420 ÷ 114.000 = 0,03 = 3%.<br>Resposta: <b>3% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 106 · Taxa de juros</b><p>Um capital de R$ 3.500,00 rendeu R$ 700,00 de juros simples em 5 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 700 ÷ (3.500 × 5) = 700 ÷ 17.500 = 0,04 = 4%.<br>Resposta: <b>4% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 107 · Taxa de juros</b><p>Um capital de R$ 3.000,00 rendeu R$ 600,00 de juros simples em 5 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 600 ÷ (3.000 × 5) = 600 ÷ 15.000 = 0,04 = 4%.<br>Resposta: <b>4% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 108 · Taxa de juros</b><p>Um capital de R$ 3.000,00 rendeu R$ 180,00 de juros simples em 6 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 180 ÷ (3.000 × 6) = 180 ÷ 18.000 = 0,01 = 1%.<br>Resposta: <b>1% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 109 · Taxa de juros</b><p>Um capital de R$ 5.000,00 rendeu R$ 900,00 de juros simples em 6 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 900 ÷ (5.000 × 6) = 900 ÷ 30.000 = 0,03 = 3%.<br>Resposta: <b>3% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 110 · Taxa de juros</b><p>Um capital de R$ 5.000,00 rendeu R$ 1.200,00 de juros simples em 8 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 1.200 ÷ (5.000 × 8) = 1.200 ÷ 40.000 = 0,03 = 3%.<br>Resposta: <b>3% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 111 · Taxa de juros</b><p>Um capital de R$ 1.500,00 rendeu R$ 450,00 de juros simples em 10 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 450 ÷ (1.500 × 10) = 450 ÷ 15.000 = 0,03 = 3%.<br>Resposta: <b>3% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 112 · Taxa de juros</b><p>Um capital de R$ 1.000,00 rendeu R$ 120,00 de juros simples em 6 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 120 ÷ (1.000 × 6) = 120 ÷ 6.000 = 0,02 = 2%.<br>Resposta: <b>2% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 113 · Taxa de juros</b><p>Um capital de R$ 6.500,00 rendeu R$ 520,00 de juros simples em 8 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 520 ÷ (6.500 × 8) = 520 ÷ 52.000 = 0,01 = 1%.<br>Resposta: <b>1% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 114 · Taxa de juros</b><p>Um capital de R$ 9.000,00 rendeu R$ 5.400,00 de juros simples em 12 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 5.400 ÷ (9.000 × 12) = 5.400 ÷ 108.000 = 0,05 = 5%.<br>Resposta: <b>5% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 115 · Taxa de juros</b><p>Um capital de R$ 3.000,00 rendeu R$ 750,00 de juros simples em 5 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 750 ÷ (3.000 × 5) = 750 ÷ 15.000 = 0,05 = 5%.<br>Resposta: <b>5% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 116 · Taxa de juros</b><p>Um capital de R$ 3.000,00 rendeu R$ 720,00 de juros simples em 6 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 720 ÷ (3.000 × 6) = 720 ÷ 18.000 = 0,04 = 4%.<br>Resposta: <b>4% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 117 · Taxa de juros</b><p>Um capital de R$ 9.500,00 rendeu R$ 3.040,00 de juros simples em 8 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 3.040 ÷ (9.500 × 8) = 3.040 ÷ 76.000 = 0,04 = 4%.<br>Resposta: <b>4% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 118 · Taxa de juros</b><p>Um capital de R$ 2.500,00 rendeu R$ 1.200,00 de juros simples em 12 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 1.200 ÷ (2.500 × 12) = 1.200 ÷ 30.000 = 0,04 = 4%.<br>Resposta: <b>4% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 119 · Taxa de juros</b><p>Um capital de R$ 7.000,00 rendeu R$ 350,00 de juros simples em 5 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 350 ÷ (7.000 × 5) = 350 ÷ 35.000 = 0,01 = 1%.<br>Resposta: <b>1% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 120 · Taxa de juros</b><p>Um capital de R$ 7.500,00 rendeu R$ 1.350,00 de juros simples em 6 meses. Qual a taxa mensal?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> i = J ÷ (C·t).<br><b>Passo 2.</b> i = 1.350 ÷ (7.500 × 6) = 1.350 ÷ 45.000 = 0,03 = 3%.<br>Resposta: <b>3% a.m.</b>.<br><b>Bizu:</b> Isole a taxa: i = J/(C·t).</p></details></div>\n<h3>Treino: Taxa anual proporcional</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 121 · Taxa anual proporcional</b><p>Uma aplicação paga juros simples de 1% ao mês. Qual a taxa anual proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Juros simples: taxas proporcionais. 1 ano = 12 meses.<br><b>Passo 2.</b> 1% × 12 = 12% ao ano.<br>Resposta: <b>12% a.a.</b>. Em juros compostos, seria (1 + 0,01)^12 - 1, um valor maior.<br><b>Bizu:</b> Proporcional: multiplica pelo número de meses.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 122 · Taxa anual proporcional</b><p>Uma aplicação paga juros simples de 0,5% ao mês. Qual a taxa anual proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Juros simples: taxas proporcionais. 1 ano = 12 meses.<br><b>Passo 2.</b> 0,5% × 12 = 6% ao ano.<br>Resposta: <b>6% a.a.</b>. Em juros compostos, seria (1 + 0,005)^12 - 1, um valor maior.<br><b>Bizu:</b> Proporcional: multiplica pelo número de meses.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 123 · Taxa anual proporcional</b><p>Uma aplicação paga juros simples de 2,5% ao mês. Qual a taxa anual proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Juros simples: taxas proporcionais. 1 ano = 12 meses.<br><b>Passo 2.</b> 2,5% × 12 = 30% ao ano.<br>Resposta: <b>30% a.a.</b>. Em juros compostos, seria (1 + 0,025)^12 - 1, um valor maior.<br><b>Bizu:</b> Proporcional: multiplica pelo número de meses.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 124 · Taxa anual proporcional</b><p>Uma aplicação paga juros simples de 2% ao mês. Qual a taxa anual proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Juros simples: taxas proporcionais. 1 ano = 12 meses.<br><b>Passo 2.</b> 2% × 12 = 24% ao ano.<br>Resposta: <b>24% a.a.</b>. Em juros compostos, seria (1 + 0,02)^12 - 1, um valor maior.<br><b>Bizu:</b> Proporcional: multiplica pelo número de meses.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 125 · Taxa anual proporcional</b><p>Uma aplicação paga juros simples de 4% ao mês. Qual a taxa anual proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Juros simples: taxas proporcionais. 1 ano = 12 meses.<br><b>Passo 2.</b> 4% × 12 = 48% ao ano.<br>Resposta: <b>48% a.a.</b>. Em juros compostos, seria (1 + 0,04)^12 - 1, um valor maior.<br><b>Bizu:</b> Proporcional: multiplica pelo número de meses.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 126 · Taxa anual proporcional</b><p>Uma aplicação paga juros simples de 3% ao mês. Qual a taxa anual proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Juros simples: taxas proporcionais. 1 ano = 12 meses.<br><b>Passo 2.</b> 3% × 12 = 36% ao ano.<br>Resposta: <b>36% a.a.</b>. Em juros compostos, seria (1 + 0,03)^12 - 1, um valor maior.<br><b>Bizu:</b> Proporcional: multiplica pelo número de meses.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exercício 127 · Taxa anual proporcional</b><p>Uma aplicação paga juros simples de 1,5% ao mês. Qual a taxa anual proporcional?</p><details><summary>Ver a solução comentada</summary><p><b>Passo 1.</b> Juros simples: taxas proporcionais. 1 ano = 12 meses.<br><b>Passo 2.</b> 1,5% × 12 = 18% ao ano.<br>Resposta: <b>18% a.a.</b>. Em juros compostos, seria (1 + 0,015)^12 - 1, um valor maior.<br><b>Bizu:</b> Proporcional: multiplica pelo número de meses.</p></details></div>",
+"quiz": [
+{
+"p": "Um capital de R$ 3.500,00 foi aplicado a juros simples de 4% ao mês durante 9 meses. Nessa situação, os juros foram de R$ 1.260,00.",
+"c": true,
+"prof": "Certo. Resposta: R$ 1.260,00. Montante: M = C + J = R$ 4.760,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 3.500 × 0,04 × 9 = 1.260. Resposta: R$ 1.260,00. Montante: M = C + J = R$ 4.760,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Uma aplicação a juros simples de 4% ao mês rendeu R$ 1.200,00 de juros em 12 meses. Qual o capital aplicado?",
+"alts": [
+"R$ 14.400,00",
+"R$ 5.000,00",
+"R$ 2.500,00",
+"R$ 30.000,00",
+"R$ 3.000,00"
+],
+"r": 2,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 2.500,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 1.200 ÷ (0,04 × 12) = 1.200 ÷ 0,48 = 2.500. Resposta: R$ 2.500,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Um capital de R$ 8.500,00, aplicado a juros simples de 2% ao mês, rendeu R$ 2.720,00. Por quantos meses ficou aplicado?",
+"alts": [
+"18 meses",
+"14 meses",
+"3 meses",
+"16 meses",
+"32 meses"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 16 meses.",
+"x": "t = J ÷ (C·i). t = 2.720 ÷ (8.500 × 0,02) = 2.720 ÷ 170 = 16. Resposta: 16 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 4.500,00 rendeu R$ 450,00 de juros simples em 10 meses. Nessa situação, a taxa foi de 1% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 1% a.m..",
+"x": "i = J ÷ (C·t). i = 450 ÷ (4.500 × 10) = 450 ÷ 45.000 = 0,01 = 1%. Resposta: 1% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Uma dívida de R$ 9.000,00 é corrigida a juros simples de 2% ao mês. Nessa situação, o montante será de R$ 9.540,00.",
+"c": true,
+"prof": "Certo. Resposta: R$ 9.540,00.",
+"x": "M = C·(1 + i·t) = 9.000 × (1 + 0,02 × 3) = 9.000 × 1,06. M = 9.540. Resposta: R$ 9.540,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 8.000,00, aplicado a juros simples de 5% ao mês, rendeu R$ 3.200,00. Por quantos meses ficou aplicado?",
+"alts": [
+"16 meses",
+"10 meses",
+"6 meses",
+"8 meses",
+"4 meses"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 8 meses.",
+"x": "t = J ÷ (C·i). t = 3.200 ÷ (8.000 × 0,05) = 3.200 ÷ 400 = 8. Resposta: 8 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 8.500,00 foi aplicado a juros simples de 3% ao mês durante 16 meses. Nessa situação, os juros foram de R$ 12.580,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 4.080,00. Resposta: R$ 4.080,00. Montante: M = C + J = R$ 12.580,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 8.500 × 0,03 × 16 = 4.080. Resposta: R$ 4.080,00. Montante: M = C + J = R$ 12.580,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Um capital de R$ 8.000,00, aplicado a juros simples de 5% ao mês, rendeu R$ 4.000,00. Por quantos meses ficou aplicado?",
+"alts": [
+"5 meses",
+"8 meses",
+"12 meses",
+"20 meses",
+"10 meses"
+],
+"r": 4,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta."
+],
+"prof": "Resposta: 10 meses.",
+"x": "t = J ÷ (C·i). t = 4.000 ÷ (8.000 × 0,05) = 4.000 ÷ 400 = 10. Resposta: 10 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 5.000,00 foi aplicado a juros compostos de 20% ao ano. Qual o montante após 2 anos?",
+"alts": [
+"R$ 7.000,00",
+"R$ 8.640,00",
+"R$ 8.200,00",
+"R$ 2.200,00",
+"R$ 7.200,00"
+],
+"r": 4,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta."
+],
+"prof": "Resposta: R$ 7.200,00. A juros simples seriam R$ 7.000,00: no composto, há juros sobre juros.",
+"x": "M = C·(1 + i)^t = 5.000 × 1,2^2. 1,2^2 = 1,44 → M = 7.200. Resposta: R$ 7.200,00. A juros simples seriam R$ 7.000,00: no composto, há juros sobre juros.",
+"e": "Composto: C(1 + i)^t — juros sobre juros."
+},
+{
+"p": "Uma dívida de R$ 6.000,00 é corrigida a juros simples de 6% ao mês. Nessa situação, o montante será de R$ 7.440,00.",
+"c": true,
+"prof": "Certo. Resposta: R$ 7.440,00.",
+"x": "M = C·(1 + i·t) = 6.000 × (1 + 0,06 × 4) = 6.000 × 1,24. M = 7.440. Resposta: R$ 7.440,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Uma aplicação a juros simples de 5% ao mês rendeu R$ 700,00 de juros em 4 meses. Qual o capital aplicado?",
+"alts": [
+"R$ 1.400,00",
+"R$ 7.000,00",
+"R$ 14.000,00",
+"R$ 3.500,00",
+"R$ 2.800,00"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 3.500,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 700 ÷ (0,05 × 4) = 700 ÷ 0,2 = 3.500. Resposta: R$ 3.500,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Um capital de R$ 4.000,00 rendeu R$ 1.920,00 de juros simples em 12 meses. Qual a taxa mensal?",
+"alts": [
+"4% a.m.",
+"48% a.m.",
+"5% a.m.",
+"8% a.m.",
+"2.0% a.m."
+],
+"r": 0,
+"n": [
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 4% a.m..",
+"x": "i = J ÷ (C·t). i = 1.920 ÷ (4.000 × 12) = 1.920 ÷ 48.000 = 0,04 = 4%. Resposta: 4% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 20.000,00 foi aplicado a juros compostos de 5% ao ano. Qual o montante após 2 anos?",
+"alts": [
+"R$ 23.152,50",
+"R$ 22.050,00",
+"R$ 22.000,00",
+"R$ 23.050,00",
+"R$ 2.050,00"
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 22.050,00. A juros simples seriam R$ 22.000,00: no composto, há juros sobre juros.",
+"x": "M = C·(1 + i)^t = 20.000 × 1,05^2. 1,05^2 = 1,1025 → M = 22.050. Resposta: R$ 22.050,00. A juros simples seriam R$ 22.000,00: no composto, há juros sobre juros.",
+"e": "Composto: C(1 + i)^t — juros sobre juros."
+},
+{
+"p": "Um capital de R$ 1.500,00, aplicado a juros simples de 4% ao mês, rendeu R$ 480,00. Nessa situação, ficou aplicado por 16 meses.",
+"c": false,
+"prof": "Errado: a resposta correta é 8 meses. Resposta: 8 meses.",
+"x": "t = J ÷ (C·i). t = 480 ÷ (1.500 × 0,04) = 480 ÷ 60 = 8. Resposta: 8 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 3.500,00 rendeu R$ 560,00 de juros simples em 8 meses. Nessa situação, a taxa foi de 2% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 2% a.m..",
+"x": "i = J ÷ (C·t). i = 560 ÷ (3.500 × 8) = 560 ÷ 28.000 = 0,02 = 2%. Resposta: 2% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Uma dívida de R$ 9.000,00 é corrigida a juros simples de 4% ao mês. Nessa situação, o montante será de R$ 720,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 9.720,00. Resposta: R$ 9.720,00.",
+"x": "M = C·(1 + i·t) = 9.000 × (1 + 0,04 × 2) = 9.000 × 1,08. M = 9.720. Resposta: R$ 9.720,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 1.000,00 rendeu R$ 600,00 de juros simples em 12 meses. Nessa situação, a taxa foi de 5% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 5% a.m..",
+"x": "i = J ÷ (C·t). i = 600 ÷ (1.000 × 12) = 600 ÷ 12.000 = 0,05 = 5%. Resposta: 5% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 4.000,00 rendeu R$ 800,00 de juros simples em 5 meses. Qual a taxa mensal?",
+"alts": [
+"8% a.m.",
+"20% a.m.",
+"2.0% a.m.",
+"5% a.m.",
+"4% a.m."
+],
+"r": 4,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta."
+],
+"prof": "Resposta: 4% a.m..",
+"x": "i = J ÷ (C·t). i = 800 ÷ (4.000 × 5) = 800 ÷ 20.000 = 0,04 = 4%. Resposta: 4% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 12.000,00 foi aplicado a juros simples de 1,5% ao mês durante 17 meses. Qual o valor dos juros?",
+"alts": [
+"R$ 180,00",
+"R$ 3.456,24",
+"R$ 15.060,00",
+"R$ 3.060,00",
+"R$ 6.120,00"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 3.060,00. Montante: M = C + J = R$ 15.060,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 12.000 × 0,015 × 17 = 3.060. Resposta: R$ 3.060,00. Montante: M = C + J = R$ 15.060,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Um capital de R$ 7.500,00 rendeu R$ 375,00 de juros simples em 5 meses. Nessa situação, a taxa foi de 1% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 1% a.m..",
+"x": "i = J ÷ (C·t). i = 375 ÷ (7.500 × 5) = 375 ÷ 37.500 = 0,01 = 1%. Resposta: 1% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 8.000,00, aplicado a juros simples de 5% ao mês, rendeu R$ 2.400,00. Por quantos meses ficou aplicado?",
+"alts": [
+"3 meses",
+"8 meses",
+"12 meses",
+"6 meses",
+"4 meses"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 6 meses.",
+"x": "t = J ÷ (C·i). t = 2.400 ÷ (8.000 × 0,05) = 2.400 ÷ 400 = 6. Resposta: 6 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 5.500,00 foi aplicado a juros simples de 2% ao mês durante 10 meses. Nessa situação, os juros foram de R$ 1.100,00.",
+"c": true,
+"prof": "Certo. Resposta: R$ 1.100,00. Montante: M = C + J = R$ 6.600,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 5.500 × 0,02 × 10 = 1.100. Resposta: R$ 1.100,00. Montante: M = C + J = R$ 6.600,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Um capital de R$ 4.500,00, aplicado a juros simples de 5% ao mês, rendeu R$ 1.800,00. Por quantos meses ficou aplicado?",
+"alts": [
+"4 meses",
+"6 meses",
+"8 meses",
+"16 meses",
+"10 meses"
+],
+"r": 2,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 8 meses.",
+"x": "t = J ÷ (C·i). t = 1.800 ÷ (4.500 × 0,05) = 1.800 ÷ 225 = 8. Resposta: 8 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 2.500,00 rendeu R$ 600,00 de juros simples em 8 meses. Qual a taxa mensal?",
+"alts": [
+"1.5% a.m.",
+"3% a.m.",
+"4% a.m.",
+"6% a.m.",
+"24% a.m."
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 3% a.m..",
+"x": "i = J ÷ (C·t). i = 600 ÷ (2.500 × 8) = 600 ÷ 20.000 = 0,03 = 3%. Resposta: 3% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Uma dívida de R$ 1.500,00 é corrigida a juros simples de 4% ao mês. Qual o montante após 11 meses?",
+"alts": [
+"R$ 1.544,00",
+"R$ 660,00",
+"R$ 2.220,00",
+"R$ 2.309,18",
+"R$ 2.160,00"
+],
+"r": 4,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta."
+],
+"prof": "Resposta: R$ 2.160,00.",
+"x": "M = C·(1 + i·t) = 1.500 × (1 + 0,04 × 11) = 1.500 × 1,44. M = 2.160. Resposta: R$ 2.160,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Uma aplicação a juros simples de 2% ao mês rendeu R$ 1.080,00 de juros em 12 meses. Nessa situação, o capital aplicado foi de R$ 12.960,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 4.500,00. Resposta: R$ 4.500,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 1.080 ÷ (0,02 × 12) = 1.080 ÷ 0,24 = 4.500. Resposta: R$ 4.500,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Um capital de R$ 1.000,00, aplicado a juros simples de 5% ao mês, rendeu R$ 600,00. Nessa situação, ficou aplicado por 12 meses.",
+"c": true,
+"prof": "Certo. Resposta: 12 meses.",
+"x": "t = J ÷ (C·i). t = 600 ÷ (1.000 × 0,05) = 600 ÷ 50 = 12. Resposta: 12 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 8.000,00 rendeu R$ 2.880,00 de juros simples em 12 meses. Qual a taxa mensal?",
+"alts": [
+"36% a.m.",
+"6% a.m.",
+"1.5% a.m.",
+"4% a.m.",
+"3% a.m."
+],
+"r": 4,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta."
+],
+"prof": "Resposta: 3% a.m..",
+"x": "i = J ÷ (C·t). i = 2.880 ÷ (8.000 × 12) = 2.880 ÷ 96.000 = 0,03 = 3%. Resposta: 3% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 2.000,00 foi aplicado a juros compostos de 5% ao ano. Nessa situação, o montante será de R$ 2.200,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 2.205,00. Resposta: R$ 2.205,00. A juros simples seriam R$ 2.200,00: no composto, há juros sobre juros.",
+"x": "M = C·(1 + i)^t = 2.000 × 1,05^2. 1,05^2 = 1,1025 → M = 2.205. Resposta: R$ 2.205,00. A juros simples seriam R$ 2.200,00: no composto, há juros sobre juros.",
+"e": "Composto: C(1 + i)^t — juros sobre juros."
+},
+{
+"p": "Um capital de R$ 2.000,00, aplicado a juros simples de 4% ao mês, rendeu R$ 480,00. Por quantos meses ficou aplicado?",
+"alts": [
+"12 meses",
+"6 meses",
+"2 meses",
+"4 meses",
+"8 meses"
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 6 meses.",
+"x": "t = J ÷ (C·i). t = 480 ÷ (2.000 × 0,04) = 480 ÷ 80 = 6. Resposta: 6 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 5.500,00 rendeu R$ 2.640,00 de juros simples em 12 meses. Nessa situação, a taxa foi de 4% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 4% a.m..",
+"x": "i = J ÷ (C·t). i = 2.640 ÷ (5.500 × 12) = 2.640 ÷ 66.000 = 0,04 = 4%. Resposta: 4% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 20.000,00 foi aplicado a juros compostos de 10% ao ano. Qual o montante após 2 anos?",
+"alts": [
+"R$ 24.000,00",
+"R$ 24.200,00",
+"R$ 26.200,00",
+"R$ 4.200,00",
+"R$ 26.620,00"
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 24.200,00. A juros simples seriam R$ 24.000,00: no composto, há juros sobre juros.",
+"x": "M = C·(1 + i)^t = 20.000 × 1,1^2. 1,1^2 = 1,21 → M = 24.200. Resposta: R$ 24.200,00. A juros simples seriam R$ 24.000,00: no composto, há juros sobre juros.",
+"e": "Composto: C(1 + i)^t — juros sobre juros."
+},
+{
+"p": "Um capital de R$ 3.000,00 rendeu R$ 1.500,00 de juros simples em 10 meses. Nessa situação, a taxa foi de 5% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 5% a.m..",
+"x": "i = J ÷ (C·t). i = 1.500 ÷ (3.000 × 10) = 1.500 ÷ 30.000 = 0,05 = 5%. Resposta: 5% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Uma dívida de R$ 6.500,00 é corrigida a juros simples de 3% ao mês. Nessa situação, o montante será de R$ 8.255,00.",
+"c": true,
+"prof": "Certo. Resposta: R$ 8.255,00.",
+"x": "M = C·(1 + i·t) = 6.500 × (1 + 0,03 × 9) = 6.500 × 1,27. M = 8.255. Resposta: R$ 8.255,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 8.000,00, aplicado a juros simples de 4% ao mês, rendeu R$ 6.400,00. Por quantos meses ficou aplicado?",
+"alts": [
+"8 meses",
+"22 meses",
+"40 meses",
+"20 meses",
+"18 meses"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 20 meses.",
+"x": "t = J ÷ (C·i). t = 6.400 ÷ (8.000 × 0,04) = 6.400 ÷ 320 = 20. Resposta: 20 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Uma dívida de R$ 2.500,00 é corrigida a juros simples de 4% ao mês. Nessa situação, o montante será de R$ 400,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 2.900,00. Resposta: R$ 2.900,00.",
+"x": "M = C·(1 + i·t) = 2.500 × (1 + 0,04 × 4) = 2.500 × 1,16. M = 2.900. Resposta: R$ 2.900,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 6.500,00, aplicado a juros simples de 2% ao mês, rendeu R$ 1.040,00. Nessa situação, ficou aplicado por 8 meses.",
+"c": true,
+"prof": "Certo. Resposta: 8 meses.",
+"x": "t = J ÷ (C·i). t = 1.040 ÷ (6.500 × 0,02) = 1.040 ÷ 130 = 8. Resposta: 8 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 9.500,00 rendeu R$ 5.700,00 de juros simples em 12 meses. Nessa situação, a taxa foi de 5% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 5% a.m..",
+"x": "i = J ÷ (C·t). i = 5.700 ÷ (9.500 × 12) = 5.700 ÷ 114.000 = 0,05 = 5%. Resposta: 5% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 5.000,00 foi aplicado a juros compostos de 5% ao ano. Qual o montante após 2 anos?",
+"alts": [
+"R$ 512,50",
+"R$ 5.788,13",
+"R$ 5.762,50",
+"R$ 5.512,50",
+"R$ 5.500,00"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 5.512,50. A juros simples seriam R$ 5.500,00: no composto, há juros sobre juros.",
+"x": "M = C·(1 + i)^t = 5.000 × 1,05^2. 1,05^2 = 1,1025 → M = 5.512,5. Resposta: R$ 5.512,50. A juros simples seriam R$ 5.500,00: no composto, há juros sobre juros.",
+"e": "Composto: C(1 + i)^t — juros sobre juros."
+},
+{
+"p": "Um capital de R$ 7.000,00 rendeu R$ 3.500,00 de juros simples em 10 meses. Nessa situação, a taxa foi de 5% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 5% a.m..",
+"x": "i = J ÷ (C·t). i = 3.500 ÷ (7.000 × 10) = 3.500 ÷ 70.000 = 0,05 = 5%. Resposta: 5% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 2.000,00, aplicado a juros simples de 2% ao mês, rendeu R$ 800,00. Nessa situação, ficou aplicado por 40 meses.",
+"c": false,
+"prof": "Errado: a resposta correta é 20 meses. Resposta: 20 meses.",
+"x": "t = J ÷ (C·i). t = 800 ÷ (2.000 × 0,02) = 800 ÷ 40 = 20. Resposta: 20 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 16.500,00 foi aplicado a juros simples de 1% ao mês durante 23 meses. Qual o valor dos juros?",
+"alts": [
+"R$ 3.795,00",
+"R$ 7.590,00",
+"R$ 20.295,00",
+"R$ 165,00",
+"R$ 4.243,19"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 3.795,00. Montante: M = C + J = R$ 20.295,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 16.500 × 0,01 × 23 = 3.795. Resposta: R$ 3.795,00. Montante: M = C + J = R$ 20.295,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Um capital de R$ 3.000,00 rendeu R$ 450,00 de juros simples em 5 meses. Nessa situação, a taxa foi de 3% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 3% a.m..",
+"x": "i = J ÷ (C·t). i = 450 ÷ (3.000 × 5) = 450 ÷ 15.000 = 0,03 = 3%. Resposta: 3% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Uma dívida de R$ 4.500,00 é corrigida a juros simples de 6% ao mês. Nessa situação, o montante será de R$ 2.430,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 6.930,00. Resposta: R$ 6.930,00.",
+"x": "M = C·(1 + i·t) = 4.500 × (1 + 0,06 × 9) = 4.500 × 1,54. M = 6.930. Resposta: R$ 6.930,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Uma dívida de R$ 2.000,00 é corrigida a juros simples de 6% ao mês. Qual o montante após 12 meses?",
+"alts": [
+"R$ 1.440,00",
+"R$ 3.560,00",
+"R$ 4.024,39",
+"R$ 3.440,00",
+"R$ 2.072,00"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 3.440,00.",
+"x": "M = C·(1 + i·t) = 2.000 × (1 + 0,06 × 12) = 2.000 × 1,72. M = 3.440. Resposta: R$ 3.440,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 8.500,00 foi aplicado a juros simples de 5% ao mês durante 17 meses. Qual o valor dos juros?",
+"alts": [
+"R$ 425,00",
+"R$ 15.725,00",
+"R$ 10.982,16",
+"R$ 7.225,00",
+"R$ 14.450,00"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 7.225,00. Montante: M = C + J = R$ 15.725,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 8.500 × 0,05 × 17 = 7.225. Resposta: R$ 7.225,00. Montante: M = C + J = R$ 15.725,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Uma dívida de R$ 3.000,00 é corrigida a juros simples de 4% ao mês. Qual o montante após 5 meses?",
+"alts": [
+"R$ 3.020,00",
+"R$ 3.649,96",
+"R$ 3.600,00",
+"R$ 3.720,00",
+"R$ 600,00"
+],
+"r": 2,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 3.600,00.",
+"x": "M = C·(1 + i·t) = 3.000 × (1 + 0,04 × 5) = 3.000 × 1,2. M = 3.600. Resposta: R$ 3.600,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 18.500,00 foi aplicado a juros simples de 2% ao mês durante 18 meses. Nessa situação, os juros foram de R$ 6.660,00.",
+"c": true,
+"prof": "Certo. Resposta: R$ 6.660,00. Montante: M = C + J = R$ 25.160,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 18.500 × 0,02 × 18 = 6.660. Resposta: R$ 6.660,00. Montante: M = C + J = R$ 25.160,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Um capital de R$ 9.000,00, aplicado a juros simples de 2% ao mês, rendeu R$ 2.880,00. Nessa situação, ficou aplicado por 32 meses.",
+"c": false,
+"prof": "Errado: a resposta correta é 16 meses. Resposta: 16 meses.",
+"x": "t = J ÷ (C·i). t = 2.880 ÷ (9.000 × 0,02) = 2.880 ÷ 180 = 16. Resposta: 16 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 4.000,00 rendeu R$ 480,00 de juros simples em 6 meses. Nessa situação, a taxa foi de 2% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 2% a.m..",
+"x": "i = J ÷ (C·t). i = 480 ÷ (4.000 × 6) = 480 ÷ 24.000 = 0,02 = 2%. Resposta: 2% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Uma dívida de R$ 6.000,00 é corrigida a juros simples de 4% ao mês. Qual o montante após 3 meses?",
+"alts": [
+"R$ 6.749,18",
+"R$ 720,00",
+"R$ 6.960,00",
+"R$ 6.720,00",
+"R$ 6.012,00"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 6.720,00.",
+"x": "M = C·(1 + i·t) = 6.000 × (1 + 0,04 × 3) = 6.000 × 1,12. M = 6.720. Resposta: R$ 6.720,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 19.500,00 foi aplicado a juros simples de 1,5% ao mês durante 18 meses. Nessa situação, os juros foram de R$ 24.765,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 5.265,00. Resposta: R$ 5.265,00. Montante: M = C + J = R$ 24.765,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 19.500 × 0,015 × 18 = 5.265. Resposta: R$ 5.265,00. Montante: M = C + J = R$ 24.765,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Um capital de R$ 13.000,00 foi aplicado a juros simples de 2% ao mês durante 9 meses. Nessa situação, os juros foram de R$ 2.340,00.",
+"c": true,
+"prof": "Certo. Resposta: R$ 2.340,00. Montante: M = C + J = R$ 15.340,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 13.000 × 0,02 × 9 = 2.340. Resposta: R$ 2.340,00. Montante: M = C + J = R$ 15.340,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Uma aplicação a juros simples de 4% ao mês rendeu R$ 4.000,00 de juros em 10 meses. Nessa situação, o capital aplicado foi de R$ 40.000,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 10.000,00. Resposta: R$ 10.000,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 4.000 ÷ (0,04 × 10) = 4.000 ÷ 0,4 = 10.000. Resposta: R$ 10.000,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Um capital de R$ 17.500,00 foi aplicado a juros simples de 4% ao mês durante 18 meses. Qual o valor dos juros?",
+"alts": [
+"R$ 30.100,00",
+"R$ 25.200,00",
+"R$ 17.951,79",
+"R$ 12.600,00",
+"R$ 700,00"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 12.600,00. Montante: M = C + J = R$ 30.100,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 17.500 × 0,04 × 18 = 12.600. Resposta: R$ 12.600,00. Montante: M = C + J = R$ 30.100,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Um capital de R$ 8.000,00, aplicado a juros simples de 2% ao mês, rendeu R$ 1.280,00. Nessa situação, ficou aplicado por 8 meses.",
+"c": true,
+"prof": "Certo. Resposta: 8 meses.",
+"x": "t = J ÷ (C·i). t = 1.280 ÷ (8.000 × 0,02) = 1.280 ÷ 160 = 8. Resposta: 8 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 18.500,00 foi aplicado a juros simples de 1,5% ao mês durante 18 meses. Qual o valor dos juros?",
+"alts": [
+"R$ 4.995,00",
+"R$ 5.685,80",
+"R$ 23.495,00",
+"R$ 277,50",
+"R$ 9.990,00"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 4.995,00. Montante: M = C + J = R$ 23.495,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 18.500 × 0,015 × 18 = 4.995. Resposta: R$ 4.995,00. Montante: M = C + J = R$ 23.495,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Uma aplicação a juros simples de 2,5% ao mês rendeu R$ 3.150,00 de juros em 12 meses. Qual o capital aplicado?",
+"alts": [
+"R$ 10.500,00",
+"R$ 12.600,00",
+"R$ 126.000,00",
+"R$ 37.800,00",
+"R$ 21.000,00"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 10.500,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 3.150 ÷ (0,025 × 12) = 3.150 ÷ 0,3 = 10.500. Resposta: R$ 10.500,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Um capital de R$ 5.500,00, aplicado a juros simples de 2,5% ao mês, rendeu R$ 2.750,00. Nessa situação, ficou aplicado por 40 meses.",
+"c": false,
+"prof": "Errado: a resposta correta é 20 meses. Resposta: 20 meses.",
+"x": "t = J ÷ (C·i). t = 2.750 ÷ (5.500 × 0,025) = 2.750 ÷ 137,5 = 20. Resposta: 20 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Uma dívida de R$ 3.500,00 é corrigida a juros simples de 5% ao mês. Nessa situação, o montante será de R$ 4.900,00.",
+"c": true,
+"prof": "Certo. Resposta: R$ 4.900,00.",
+"x": "M = C·(1 + i·t) = 3.500 × (1 + 0,05 × 8) = 3.500 × 1,4. M = 4.900. Resposta: R$ 4.900,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Uma aplicação a juros simples de 5% ao mês rendeu R$ 4.200,00 de juros em 8 meses. Nessa situação, o capital aplicado foi de R$ 33.600,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 10.500,00. Resposta: R$ 10.500,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 4.200 ÷ (0,05 × 8) = 4.200 ÷ 0,4 = 10.500. Resposta: R$ 10.500,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Um capital de R$ 5.000,00 foi aplicado a juros simples de 2,5% ao mês durante 13 meses. Qual o valor dos juros?",
+"alts": [
+"R$ 1.892,56",
+"R$ 6.625,00",
+"R$ 1.625,00",
+"R$ 3.250,00",
+"R$ 125,00"
+],
+"r": 2,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 1.625,00. Montante: M = C + J = R$ 6.625,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 5.000 × 0,025 × 13 = 1.625. Resposta: R$ 1.625,00. Montante: M = C + J = R$ 6.625,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Um capital de R$ 1.000,00 rendeu R$ 240,00 de juros simples em 12 meses. Qual a taxa mensal?",
+"alts": [
+"4% a.m.",
+"24% a.m.",
+"1.0% a.m.",
+"2% a.m.",
+"3% a.m."
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 2% a.m..",
+"x": "i = J ÷ (C·t). i = 240 ÷ (1.000 × 12) = 240 ÷ 12.000 = 0,02 = 2%. Resposta: 2% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Uma dívida de R$ 6.500,00 é corrigida a juros simples de 5% ao mês. Qual o montante após 11 meses?",
+"alts": [
+"R$ 10.075,00",
+"R$ 6.555,00",
+"R$ 10.400,00",
+"R$ 11.117,21",
+"R$ 3.575,00"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 10.075,00.",
+"x": "M = C·(1 + i·t) = 6.500 × (1 + 0,05 × 11) = 6.500 × 1,55. M = 10.075. Resposta: R$ 10.075,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 6.000,00 rendeu R$ 960,00 de juros simples em 8 meses. Qual a taxa mensal?",
+"alts": [
+"4% a.m.",
+"2% a.m.",
+"1.0% a.m.",
+"3% a.m.",
+"16% a.m."
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 2% a.m..",
+"x": "i = J ÷ (C·t). i = 960 ÷ (6.000 × 8) = 960 ÷ 48.000 = 0,02 = 2%. Resposta: 2% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 6.500,00, aplicado a juros simples de 2,5% ao mês, rendeu R$ 650,00. Por quantos meses ficou aplicado?",
+"alts": [
+"8 meses",
+"6 meses",
+"1 meses",
+"4 meses",
+"40 meses"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 4 meses.",
+"x": "t = J ÷ (C·i). t = 650 ÷ (6.500 × 0,025) = 650 ÷ 162,5 = 4. Resposta: 4 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 10.000,00 foi aplicado a juros compostos de 10% ao ano. Nessa situação, o montante será de R$ 13.310,00.",
+"c": true,
+"prof": "Certo. Resposta: R$ 13.310,00. A juros simples seriam R$ 13.000,00: no composto, há juros sobre juros.",
+"x": "M = C·(1 + i)^t = 10.000 × 1,1^3. 1,1^3 = 1,331 → M = 13.310. Resposta: R$ 13.310,00. A juros simples seriam R$ 13.000,00: no composto, há juros sobre juros.",
+"e": "Composto: C(1 + i)^t — juros sobre juros."
+},
+{
+"p": "Um capital de R$ 8.500,00, aplicado a juros simples de 2,5% ao mês, rendeu R$ 1.275,00. Nessa situação, ficou aplicado por 12 meses.",
+"c": false,
+"prof": "Errado: a resposta correta é 6 meses. Resposta: 6 meses.",
+"x": "t = J ÷ (C·i). t = 1.275 ÷ (8.500 × 0,025) = 1.275 ÷ 212,5 = 6. Resposta: 6 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 4.500,00 rendeu R$ 2.250,00 de juros simples em 10 meses. Qual a taxa mensal?",
+"alts": [
+"10% a.m.",
+"5% a.m.",
+"50% a.m.",
+"2.5% a.m.",
+"6% a.m."
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 5% a.m..",
+"x": "i = J ÷ (C·t). i = 2.250 ÷ (4.500 × 10) = 2.250 ÷ 45.000 = 0,05 = 5%. Resposta: 5% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 1.500,00, aplicado a juros simples de 2,5% ao mês, rendeu R$ 225,00. Por quantos meses ficou aplicado?",
+"alts": [
+"4 meses",
+"6 meses",
+"12 meses",
+"2 meses",
+"8 meses"
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 6 meses.",
+"x": "t = J ÷ (C·i). t = 225 ÷ (1.500 × 0,025) = 225 ÷ 37,5 = 6. Resposta: 6 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 8.000,00, aplicado a juros simples de 4% ao mês, rendeu R$ 3.840,00. Nessa situação, ficou aplicado por 12 meses.",
+"c": true,
+"prof": "Certo. Resposta: 12 meses.",
+"x": "t = J ÷ (C·i). t = 3.840 ÷ (8.000 × 0,04) = 3.840 ÷ 320 = 12. Resposta: 12 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 1.000,00 foi aplicado a juros compostos de 10% ao ano. Nessa situação, o montante será de R$ 1.200,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 1.210,00. Resposta: R$ 1.210,00. A juros simples seriam R$ 1.200,00: no composto, há juros sobre juros.",
+"x": "M = C·(1 + i)^t = 1.000 × 1,1^2. 1,1^2 = 1,21 → M = 1.210. Resposta: R$ 1.210,00. A juros simples seriam R$ 1.200,00: no composto, há juros sobre juros.",
+"e": "Composto: C(1 + i)^t — juros sobre juros."
+},
+{
+"p": "Um capital de R$ 20.000,00 foi aplicado a juros compostos de 20% ao ano. Qual o montante após 3 anos?",
+"alts": [
+"R$ 14.560,00",
+"R$ 41.472,00",
+"R$ 32.000,00",
+"R$ 34.560,00",
+"R$ 38.560,00"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 34.560,00. A juros simples seriam R$ 32.000,00: no composto, há juros sobre juros.",
+"x": "M = C·(1 + i)^t = 20.000 × 1,2^3. 1,2^3 = 1,728 → M = 34.560. Resposta: R$ 34.560,00. A juros simples seriam R$ 32.000,00: no composto, há juros sobre juros.",
+"e": "Composto: C(1 + i)^t — juros sobre juros."
+},
+{
+"p": "Uma aplicação a juros simples de 4% ao mês rendeu R$ 4.320,00 de juros em 12 meses. Nessa situação, o capital aplicado foi de R$ 9.000,00.",
+"c": true,
+"prof": "Certo. Resposta: R$ 9.000,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 4.320 ÷ (0,04 × 12) = 4.320 ÷ 0,48 = 9.000. Resposta: R$ 9.000,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Uma aplicação a juros simples de 5% ao mês rendeu R$ 2.000,00 de juros em 8 meses. Nessa situação, o capital aplicado foi de R$ 16.000,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 5.000,00. Resposta: R$ 5.000,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 2.000 ÷ (0,05 × 8) = 2.000 ÷ 0,4 = 5.000. Resposta: R$ 5.000,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Um capital de R$ 5.000,00 rendeu R$ 600,00 de juros simples em 12 meses. Nessa situação, a taxa foi de 1% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 1% a.m..",
+"x": "i = J ÷ (C·t). i = 600 ÷ (5.000 × 12) = 600 ÷ 60.000 = 0,01 = 1%. Resposta: 1% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Uma dívida de R$ 5.000,00 é corrigida a juros simples de 3% ao mês. Nessa situação, o montante será de R$ 1.800,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 6.800,00. Resposta: R$ 6.800,00.",
+"x": "M = C·(1 + i·t) = 5.000 × (1 + 0,03 × 12) = 5.000 × 1,36. M = 6.800. Resposta: R$ 6.800,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Uma dívida de R$ 3.000,00 é corrigida a juros simples de 3% ao mês. Qual o montante após 5 meses?",
+"alts": [
+"R$ 3.015,00",
+"R$ 3.477,82",
+"R$ 450,00",
+"R$ 3.540,00",
+"R$ 3.450,00"
+],
+"r": 4,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta."
+],
+"prof": "Resposta: R$ 3.450,00.",
+"x": "M = C·(1 + i·t) = 3.000 × (1 + 0,03 × 5) = 3.000 × 1,15. M = 3.450. Resposta: R$ 3.450,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 5.500,00, aplicado a juros simples de 2% ao mês, rendeu R$ 2.200,00. Por quantos meses ficou aplicado?",
+"alts": [
+"20 meses",
+"18 meses",
+"4 meses",
+"40 meses",
+"22 meses"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 20 meses.",
+"x": "t = J ÷ (C·i). t = 2.200 ÷ (5.500 × 0,02) = 2.200 ÷ 110 = 20. Resposta: 20 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Uma aplicação a juros simples de 2% ao mês rendeu R$ 2.760,00 de juros em 12 meses. Nessa situação, o capital aplicado foi de R$ 11.500,00.",
+"c": true,
+"prof": "Certo. Resposta: R$ 11.500,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 2.760 ÷ (0,02 × 12) = 2.760 ÷ 0,24 = 11.500. Resposta: R$ 11.500,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Uma dívida de R$ 2.500,00 é corrigida a juros simples de 5% ao mês. Qual o montante após 10 meses?",
+"alts": [
+"R$ 2.550,00",
+"R$ 3.750,00",
+"R$ 4.072,24",
+"R$ 3.875,00",
+"R$ 1.250,00"
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 3.750,00.",
+"x": "M = C·(1 + i·t) = 2.500 × (1 + 0,05 × 10) = 2.500 × 1,5. M = 3.750. Resposta: R$ 3.750,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 5.500,00, aplicado a juros simples de 2,5% ao mês, rendeu R$ 1.375,00. Nessa situação, ficou aplicado por 20 meses.",
+"c": false,
+"prof": "Errado: a resposta correta é 10 meses. Resposta: 10 meses.",
+"x": "t = J ÷ (C·i). t = 1.375 ÷ (5.500 × 0,025) = 1.375 ÷ 137,5 = 10. Resposta: 10 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 20.000,00 foi aplicado a juros compostos de 5% ao ano. Nessa situação, o montante será de R$ 23.152,50.",
+"c": true,
+"prof": "Certo. Resposta: R$ 23.152,50. A juros simples seriam R$ 23.000,00: no composto, há juros sobre juros.",
+"x": "M = C·(1 + i)^t = 20.000 × 1,05^3. 1,05^3 = 1,1576 → M = 23.152,5. Resposta: R$ 23.152,50. A juros simples seriam R$ 23.000,00: no composto, há juros sobre juros.",
+"e": "Composto: C(1 + i)^t — juros sobre juros."
+},
+{
+"p": "Uma aplicação a juros simples de 5% ao mês rendeu R$ 2.250,00 de juros em 10 meses. Nessa situação, o capital aplicado foi de R$ 22.500,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 4.500,00. Resposta: R$ 4.500,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 2.250 ÷ (0,05 × 10) = 2.250 ÷ 0,5 = 4.500. Resposta: R$ 4.500,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Um capital de R$ 17.500,00 foi aplicado a juros simples de 1% ao mês durante 13 meses. Qual o valor dos juros?",
+"alts": [
+"R$ 19.775,00",
+"R$ 4.550,00",
+"R$ 175,00",
+"R$ 2.275,00",
+"R$ 2.416,63"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 2.275,00. Montante: M = C + J = R$ 19.775,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 17.500 × 0,01 × 13 = 2.275. Resposta: R$ 2.275,00. Montante: M = C + J = R$ 19.775,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Uma aplicação a juros simples de 2,5% ao mês rendeu R$ 1.150,00 de juros em 4 meses. Qual o capital aplicado?",
+"alts": [
+"R$ 12.650,00",
+"R$ 11.500,00",
+"R$ 4.600,00",
+"R$ 46.000,00",
+"R$ 23.000,00"
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 11.500,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 1.150 ÷ (0,025 × 4) = 1.150 ÷ 0,1 = 11.500. Resposta: R$ 11.500,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Um capital de R$ 2.500,00, aplicado a juros simples de 5% ao mês, rendeu R$ 2.500,00. Por quantos meses ficou aplicado?",
+"alts": [
+"20 meses",
+"18 meses",
+"40 meses",
+"22 meses",
+"10 meses"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 20 meses.",
+"x": "t = J ÷ (C·i). t = 2.500 ÷ (2.500 × 0,05) = 2.500 ÷ 125 = 20. Resposta: 20 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 3.500,00, aplicado a juros simples de 2% ao mês, rendeu R$ 280,00. Nessa situação, ficou aplicado por 4 meses.",
+"c": true,
+"prof": "Certo. Resposta: 4 meses.",
+"x": "t = J ÷ (C·i). t = 280 ÷ (3.500 × 0,02) = 280 ÷ 70 = 4. Resposta: 4 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Uma dívida de R$ 8.000,00 é corrigida a juros simples de 5% ao mês. Qual o montante após 3 meses?",
+"alts": [
+"R$ 8.015,00",
+"R$ 9.600,00",
+"R$ 9.261,00",
+"R$ 9.200,00",
+"R$ 1.200,00"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 9.200,00.",
+"x": "M = C·(1 + i·t) = 8.000 × (1 + 0,05 × 3) = 8.000 × 1,15. M = 9.200. Resposta: R$ 9.200,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 9.000,00 rendeu R$ 2.250,00 de juros simples em 5 meses. Nessa situação, a taxa foi de 5% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 5% a.m..",
+"x": "i = J ÷ (C·t). i = 2.250 ÷ (9.000 × 5) = 2.250 ÷ 45.000 = 0,05 = 5%. Resposta: 5% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 6.500,00 rendeu R$ 1.625,00 de juros simples em 5 meses. Nessa situação, a taxa foi de 5% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 5% a.m..",
+"x": "i = J ÷ (C·t). i = 1.625 ÷ (6.500 × 5) = 1.625 ÷ 32.500 = 0,05 = 5%. Resposta: 5% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 15.000,00 foi aplicado a juros simples de 2,5% ao mês durante 10 meses. Nessa situação, os juros foram de R$ 18.750,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 3.750,00. Resposta: R$ 3.750,00. Montante: M = C + J = R$ 18.750,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 15.000 × 0,025 × 10 = 3.750. Resposta: R$ 3.750,00. Montante: M = C + J = R$ 18.750,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Um capital de R$ 5.500,00 rendeu R$ 990,00 de juros simples em 6 meses. Nessa situação, a taxa foi de 3% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 3% a.m..",
+"x": "i = J ÷ (C·t). i = 990 ÷ (5.500 × 6) = 990 ÷ 33.000 = 0,03 = 3%. Resposta: 3% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 1.500,00 rendeu R$ 300,00 de juros simples em 5 meses. Nessa situação, a taxa foi de 4% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 4% a.m..",
+"x": "i = J ÷ (C·t). i = 300 ÷ (1.500 × 5) = 300 ÷ 7.500 = 0,04 = 4%. Resposta: 4% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Um capital de R$ 3.500,00 foi aplicado a juros simples de 2,5% ao mês durante 4 meses. Qual o valor dos juros?",
+"alts": [
+"R$ 3.850,00",
+"R$ 87,50",
+"R$ 700,00",
+"R$ 350,00",
+"R$ 363,35"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 350,00. Montante: M = C + J = R$ 3.850,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 3.500 × 0,025 × 4 = 350. Resposta: R$ 350,00. Montante: M = C + J = R$ 3.850,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Uma aplicação a juros simples de 5% ao mês rendeu R$ 1.800,00 de juros em 8 meses. Qual o capital aplicado?",
+"alts": [
+"R$ 14.400,00",
+"R$ 3.600,00",
+"R$ 9.000,00",
+"R$ 36.000,00",
+"R$ 4.500,00"
+],
+"r": 4,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta."
+],
+"prof": "Resposta: R$ 4.500,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 1.800 ÷ (0,05 × 8) = 1.800 ÷ 0,4 = 4.500. Resposta: R$ 4.500,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Uma aplicação a juros simples de 2,5% ao mês rendeu R$ 450,00 de juros em 6 meses. Qual o capital aplicado?",
+"alts": [
+"R$ 18.000,00",
+"R$ 2.700,00",
+"R$ 3.000,00",
+"R$ 6.000,00",
+"R$ 1.800,00"
+],
+"r": 2,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 3.000,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 450 ÷ (0,025 × 6) = 450 ÷ 0,15 = 3.000. Resposta: R$ 3.000,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Um capital de R$ 5.000,00 rendeu R$ 1.500,00 de juros simples em 6 meses. Qual a taxa mensal?",
+"alts": [
+"6% a.m.",
+"5% a.m.",
+"2.5% a.m.",
+"30% a.m.",
+"10% a.m."
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 5% a.m..",
+"x": "i = J ÷ (C·t). i = 1.500 ÷ (5.000 × 6) = 1.500 ÷ 30.000 = 0,05 = 5%. Resposta: 5% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Uma dívida de R$ 6.500,00 é corrigida a juros simples de 4% ao mês. Qual o montante após 9 meses?",
+"alts": [
+"R$ 6.536,00",
+"R$ 8.840,00",
+"R$ 9.100,00",
+"R$ 2.340,00",
+"R$ 9.251,53"
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 8.840,00.",
+"x": "M = C·(1 + i·t) = 6.500 × (1 + 0,04 × 9) = 6.500 × 1,36. M = 8.840. Resposta: R$ 8.840,00.",
+"e": "Montante simples: C(1 + it)."
+},
+{
+"p": "Um capital de R$ 4.000,00 rendeu R$ 1.440,00 de juros simples em 12 meses. Nessa situação, a taxa foi de 3% ao mês.",
+"c": true,
+"prof": "Certo. Resposta: 3% a.m..",
+"x": "i = J ÷ (C·t). i = 1.440 ÷ (4.000 × 12) = 1.440 ÷ 48.000 = 0,03 = 3%. Resposta: 3% a.m..",
+"e": "Isole a taxa: i = J/(C·t)."
+},
+{
+"p": "Uma aplicação a juros simples de 5% ao mês rendeu R$ 1.800,00 de juros em 6 meses. Qual o capital aplicado?",
+"alts": [
+"R$ 3.600,00",
+"R$ 12.000,00",
+"R$ 10.800,00",
+"R$ 6.000,00",
+"R$ 36.000,00"
+],
+"r": 3,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: R$ 6.000,00.",
+"x": "Isole o capital: C = J ÷ (i·t). C = 1.800 ÷ (0,05 × 6) = 1.800 ÷ 0,3 = 6.000. Resposta: R$ 6.000,00.",
+"e": "Volte da fórmula: C = J/(it)."
+},
+{
+"p": "Um capital de R$ 13.500,00 foi aplicado a juros simples de 4% ao mês durante 12 meses. Nessa situação, os juros foram de R$ 19.980,00.",
+"c": false,
+"prof": "Errado: a resposta correta é R$ 6.480,00. Resposta: R$ 6.480,00. Montante: M = C + J = R$ 19.980,00.",
+"x": "J = C · i · t (taxa e tempo na mesma unidade). J = 13.500 × 0,04 × 12 = 6.480. Resposta: R$ 6.480,00. Montante: M = C + J = R$ 19.980,00.",
+"e": "Simples: J = C·i·t (juros sempre sobre o capital inicial)."
+},
+{
+"p": "Um capital de R$ 5.000,00, aplicado a juros simples de 2% ao mês, rendeu R$ 2.000,00. Nessa situação, ficou aplicado por 20 meses.",
+"c": true,
+"prof": "Certo. Resposta: 20 meses.",
+"x": "t = J ÷ (C·i). t = 2.000 ÷ (5.000 × 0,02) = 2.000 ÷ 100 = 20. Resposta: 20 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+},
+{
+"p": "Um capital de R$ 3.000,00, aplicado a juros simples de 4% ao mês, rendeu R$ 2.400,00. Por quantos meses ficou aplicado?",
+"alts": [
+"22 meses",
+"20 meses",
+"8 meses",
+"40 meses",
+"18 meses"
+],
+"r": 1,
+"n": [
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Correta.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo.",
+"Não confere: refaça o cálculo pelo passo a passo."
+],
+"prof": "Resposta: 20 meses.",
+"x": "t = J ÷ (C·i). t = 2.400 ÷ (3.000 × 0,04) = 2.400 ÷ 120 = 20. Resposta: 20 meses.",
+"e": "Isole o tempo: t = J/(C·i)."
+}
+]
+},
+{
+"id": "logica-argumentacao",
+"titulo": "Problemas de lógica: associações, verdades e mentiras, argumentação e raciocínio sequencial",
+"arts": "Lógica de argumentação e problemas lógicos",
+"chaves": [
+"logica de argumentacao",
+"argumento valido",
+"silogismo",
+"modus ponens",
+"modus tollens",
+"falacia",
+"associacao logica",
+"verdades e mentiras",
+"raciocinio sequencial",
+"orientacao temporal",
+"calendario"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2</b><span>regras de ouro do argumento: modus ponens e modus tollens</span></div><div class=\"lt-stat\"><b>2</b><span>falácias clássicas: afirmar o consequente e negar o antecedente</span></div><div class=\"lt-stat\"><b>7</b><span>dias: o ciclo da semana (use resto da divisão por 7)</span></div><div class=\"lt-stat\"><b>1</b><span>hipótese por vez nos problemas de verdade e mentira</span></div></div>\n<h3>1. Argumento válido</h3>\n<ul><li><b>Argumento</b> = premissas + conclusão. É <b>válido</b> quando, <b>se as premissas forem verdadeiras, a conclusão é obrigatoriamente verdadeira</b>. Validade é questão de <b>forma</b>, não do conteúdo ser verdadeiro no mundo real.</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma</th><th>Estrutura</th><th>Válido?</th></tr></thead><tbody><tr><td><b>Modus ponens</b></td><td>Se P, então Q. P. Logo, Q.</td><td><b>Sim</b></td></tr><tr><td><b>Modus tollens</b></td><td>Se P, então Q. Não Q. Logo, não P.</td><td><b>Sim</b></td></tr><tr><td>Silogismo hipotético</td><td>Se P, então Q. Se Q, então R. Logo, se P, então R.</td><td><b>Sim</b></td></tr><tr><td>Silogismo disjuntivo</td><td>P ou Q. Não P. Logo, Q.</td><td><b>Sim</b></td></tr><tr><td><b>Afirmação do consequente</b></td><td>Se P, então Q. Q. Logo, P.</td><td><b>Não</b> (falácia)</td></tr><tr><td><b>Negação do antecedente</b></td><td>Se P, então Q. Não P. Logo, não Q.</td><td><b>Não</b> (falácia)</td></tr></tbody></table>\n<div class=\"lt-ex\"><b class=\"lt-tit\">✍ Exemplo</b><p>\"Se o suspeito estava na festa, ele foi filmado. Ele não foi filmado. Logo, não estava na festa.\" → <b>Modus tollens: válido</b>. \"Se estava na festa, foi filmado. Foi filmado. Logo, estava na festa.\" → <b>afirmação do consequente: inválido</b> (pode ter sido filmado em outro lugar).</p></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Testando validade por \"tentar quebrar\"</b><ol><li><span>Suponha a conclusão FALSA</span></li><li><span>Tente fazer TODAS as premissas verdadeiras ao mesmo tempo</span></li><li><span>Se conseguir, o argumento é INVÁLIDO; se for impossível, é VÁLIDO</span></li></ol><span class=\"res\">Método mais rápido que a tabela-verdade completa</span></div>\n<h3>2. Associações lógicas</h3>\n<ul><li>Monte uma <b>tabela</b> (pessoas × características), marque <b>X</b> no que é impossível e <b>✓</b> no que é certo. Cada ✓ elimina o resto da linha e da coluna.</li></ul>\n<div class=\"lt-ex\"><b class=\"lt-tit\">✍ Exemplo</b><p>Ana, Bia e Caio são delegada, perita e investigador (não necessariamente nessa ordem). Bia não é perita; Caio não é delegado nem perito. → Caio = investigador; sobra perita para Ana (Bia não é perita); Bia = delegada.</p></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Verdades e mentiras</h3>\n<ul><li>Teste <b>uma hipótese por vez</b> (\"suponha que A diz a verdade\") e veja se chega a contradição. Procure <b>afirmações contraditórias</b> entre si: se duas pessoas dizem coisas opostas, <b>exatamente uma</b> delas fala a verdade.</li></ul>\n<h3>4. Raciocínio sequencial e orientação temporal</h3>\n<ul><li><b>Sequências</b>: procure o padrão (soma, multiplicação, alternância, posição no alfabeto, figuras que giram).</li><li><b>Calendário</b>: dias da semana se repetem a cada <b>7 dias</b>. Use o <b>resto da divisão por 7</b>. Ano comum tem 365 dias = 52 semanas + <b>1 dia</b>; ano bissexto, + <b>2 dias</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Que dia da semana será daqui a 100 dias, se hoje é segunda-feira?</b><ol><li><span>100 ÷ 7 = 14 semanas e resto 2</span></li><li><span>Ande 2 dias a partir de segunda</span></li></ol><span class=\"res\">Quarta-feira</span></div>\n<h3>5. Métodos para resolver os principais tipos</h3>\n<ul><li><b>Validade pelo modus tollens</b>: \"Se P, então Q. Não Q. Logo, não P.\" é <b>válido</b>. Ex.: \"Se chove, a pista fica molhada. A pista não está molhada. Logo, não choveu.\" (válido). Já \"Se P, então Q. Q. Logo, P.\" é <b>inválido</b> (falácia da <b>afirmação do consequente</b>): a pista pode estar molhada por outro motivo. Também é inválido \"Se P, então Q. Não P. Logo, não Q.\" (<b>negação do antecedente</b>).</li><li><b>Aplicação</b>: \"Se Paulo é investigador, então trabalha na PCMG\" e \"Paulo não trabalha na PCMG\" → conclui-se que <b>Paulo não é investigador</b> (modus tollens). Não se conclui nada sobre o que Paulo é.</li><li><b>Verdades e mentiras (método das hipóteses)</b>: suponha que cada suspeito é o culpado, um de cada vez, e conte quantas frases ficam verdadeiras; a hipótese que respeita o enunciado (\"só um mente\", \"só um diz a verdade\") é a resposta. Exemplo: Ari: \"Bento é o culpado\"; Bento: \"Ari mente\"; Ciro: \"Eu não sou o culpado\". Só um é culpado e só um diz a verdade. Note que Ari e Bento se contradizem: <b>exatamente um dos dois diz a verdade</b>. Logo, <b>Ciro mente</b>: \"eu não sou o culpado\" é falso, então <b>Ciro é o culpado</b>. Conferindo: Bento não é culpado, então Ari mente e Bento diz a verdade (só um verdadeiro). ✔</li><li><b>Calendário</b>: a semana tem <b>7 dias</b>, então avance só o <b>resto da divisão por 7</b>. De sexta-feira, daqui a <b>30 dias</b>: 30 = 4 × 7 + <b>2</b> → sexta + 2 = <b>domingo</b>. Daqui a 100 dias: 100 = 14 × 7 + 2 → também domingo. Para anos: um ano comum avança <b>1 dia</b> da semana; um bissexto, <b>2</b>.</li><li><b>Negações mais cobradas</b>: negação de \"Se P, então Q\" é \"<b>P e não Q</b>\" (Se bebe, não dirige → <b>Bebe e dirige</b>); negação de \"P ou Q\" é \"<b>não P e não Q</b>\" (Ana não é médica <b>e</b> Bia não é advogada); negação de \"Algum A é B\" é \"<b>Nenhum A é B</b>\" (Nenhum carro é vermelho); negação de \"Todo A é B\" é \"<b>Algum A não é B</b>\".</li><li><b>Equivalências</b>: \"Se P, então Q\" ≡ \"Se não Q, então não P\" (<b>contrapositiva</b>) ≡ \"Não P ou Q\". Ex.: \"Se não estudar, não passará\" ≡ \"<b>Se passou, estudou</b>\". <b>Absorção</b>: P ∨ (P ∧ Q) ≡ P e P ∧ (P ∨ Q) ≡ P.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Argumento com conclusão verdadeira é válido</span><br>✅ <span class=\"certo\">Validade depende da FORMA; pode haver conclusão verdadeira com argumento inválido.</span></li><li>❌ <span class=\"banca\">Se P então Q; Q; logo P é válido</span><br>✅ <span class=\"certo\">É a falácia da afirmação do consequente.</span></li><li>❌ <span class=\"banca\">Se P então Q; não P; logo não Q é válido</span><br>✅ <span class=\"certo\">É a falácia da negação do antecedente.</span></li><li>❌ <span class=\"banca\">Para o dia da semana, divida por 30</span><br>✅ <span class=\"certo\">Divida por 7 e use o resto.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Modus ponens?</span></span><span class=\"vs\"><span>Se P→Q e P, então <b>Q</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Modus tollens?</span></span><span class=\"vs\"><span>Se P→Q e não Q, então <b>não P</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afirmação do consequente?</span></span><span class=\"vs\"><span><b>Falácia</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Negação do antecedente?</span></span><span class=\"vs\"><span><b>Falácia</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dia da semana daqui a N dias?</span></span><span class=\"vs\"><span>Resto de <b>N ÷ 7</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "O argumento \"Se chove, a pista fica molhada. A pista não está molhada. Logo, não choveu.\" é válido.",
+"c": true,
+"prof": "Certo. Modus tollens.",
+"x": "Negado o consequente de uma condicional verdadeira, nega-se o antecedente. A forma inválida seria concluir \"choveu\" a partir de \"a pista está molhada\" (afirmação do consequente).",
+"e": "Nega o Q, nega o P."
+},
+{
+"p": "Se hoje é sexta-feira, daqui a 30 dias será domingo.",
+"c": true,
+"prof": "Certo.",
+"x": "30 dividido por 7 dá quociente 4 e resto 2. Avançam-se 2 dias a partir de sexta: sábado, domingo.",
+"e": "Resto da divisão por 7."
+},
+{
+"p": "Considere as premissas: \"Se Paulo é investigador, então ele trabalha na PCMG\" e \"Paulo não trabalha na PCMG\". Conclui-se corretamente que:",
+"alts": [
+"Paulo é investigador",
+"Paulo é delegado",
+"Paulo não é investigador",
+"Paulo trabalha na PCMG",
+"nada se pode concluir"
+],
+"r": 2,
+"n": [
+"Contradiz as premissas.",
+"Não há informação.",
+"Correta: modus tollens.",
+"Contradiz a segunda premissa.",
+"Há conclusão válida."
+],
+"prof": "Modus tollens.",
+"x": "Se fosse investigador, trabalharia na PCMG. Como não trabalha, não é investigador.",
+"e": "Não Q → não P."
+},
+{
+"p": "Três suspeitos dão depoimentos. Ari: \"Bento é o culpado\". Bento: \"Ari mente\". Ciro: \"Eu não sou o culpado\". Sabe-se que só um é culpado e só um diz a verdade. O culpado é:",
+"alts": [
+"Ari",
+"Bento",
+"Ciro",
+"Ari ou Bento, indistintamente",
+"não é possível determinar"
+],
+"r": 2,
+"n": [
+"Testando Ari culpado, Bento e Ciro dizem a verdade: dois verdadeiros.",
+"Testando Bento culpado, Ari e Ciro dizem a verdade.",
+"Correta.",
+"Há solução única.",
+"Há solução única."
+],
+"prof": "Ari e Bento se contradizem.",
+"x": "Como Bento diz que Ari mente, exatamente um dos dois fala a verdade. Logo Ciro mente, e \"eu não sou o culpado\" é falso: Ciro é o culpado. Conferindo: Bento é inocente, Ari mente e Bento diz a verdade, um só verdadeiro.",
+"e": "Contradição entre dois: o terceiro mente."
+},
+{
+"p": "A negação de \"Se bebe, não dirige\" é \"Se não bebe, dirige\".",
+"c": false,
+"prof": "Negação de condicional: P e não Q.",
+"x": "A negação de \"Se P, então Q\" é \"P e não Q\". Aqui: \"Bebe e dirige\".",
+"e": "Não (P → Q) = P ∧ ¬Q."
+},
+{
+"p": "A proposição \"Se não estudar, não passará\" é equivalente a \"Se passou, estudou\".",
+"c": true,
+"prof": "Certo. Contrapositiva.",
+"x": "\"Se P, então Q\" equivale a \"Se não Q, então não P\". Com P = não estudar e Q = não passar: se passou (não Q), então estudou (não P).",
+"e": "Contrapositiva."
+},
+{
+"p": "O argumento \"Se chove, a pista fica molhada. A pista não está molhada. Logo, não choveu.\" é válido.",
+"c": true,
+"prof": "Certo. É o modus tollens.",
+"x": "Negando o consequente, nega-se o antecedente.",
+"e": "Modus tollens."
+},
+{
+"p": "O argumento \"Se o réu é culpado, ele fugiu. O réu fugiu. Logo, o réu é culpado.\" é válido.",
+"c": false,
+"prof": "Forma inválida.",
+"x": "É a falácia da afirmação do consequente: a fuga pode ter outra causa. Com as premissas verdadeiras, a conclusão pode ser falsa.",
+"e": "Afirmar o consequente."
+},
+{
+"p": "Se hoje é sexta-feira, daqui a 30 dias será domingo.",
+"c": true,
+"prof": "Certo.",
+"x": "30 ÷ 7 = 4 semanas e resto 2. Dois dias após sexta: domingo.",
+"e": "Resto 2."
+},
+{
+"p": "Um argumento é válido sempre que sua conclusão é verdadeira.",
+"c": false,
+"prof": "Validade não é verdade.",
+"x": "Validade diz respeito à forma: se as premissas forem verdadeiras, a conclusão deve ser verdadeira. Um argumento pode ter conclusão verdadeira e ser inválido.",
+"e": "Validade = forma."
+},
+{
+"p": "Considere as premissas: \"Se Paulo é investigador, então ele trabalha na PCMG\" e \"Paulo não trabalha na PCMG\". Conclui-se corretamente que:",
+"alts": [
+"Paulo é investigador",
+"Paulo não é investigador",
+"Paulo trabalha na PCMG",
+"Paulo é delegado",
+"nada se pode concluir"
+],
+"r": 1,
+"n": [
+"Contradiz as premissas.",
+"Correta: modus tollens.",
+"Contradiz a 2ª premissa.",
+"Não decorre.",
+"É possível concluir."
+],
+"prof": "Negou o consequente? Negue o antecedente.",
+"x": "Pelo modus tollens, de \"P → Q\" e \"não Q\" conclui-se \"não P\": Paulo não é investigador.",
+"e": "Modus tollens."
+},
+{
+"p": "Três suspeitos dão depoimentos. Ari: \"Bento é o culpado\". Bento: \"Ari mente\". Ciro: \"Eu não sou o culpado\". Sabe-se que só um é culpado e só um diz a verdade. O culpado é:",
+"alts": [
+"Ari",
+"Bento",
+"Ciro",
+"Ari ou Bento, indistintamente",
+"impossível determinar"
+],
+"r": 2,
+"n": [
+"Se Ari fosse culpado, Bento e Ciro diriam a verdade (duas verdades).",
+"Se Bento fosse culpado, Ari e Ciro diriam a verdade (duas).",
+"Correta.",
+"Só há uma solução.",
+"É possível determinar."
+],
+"prof": "Ari e Bento se contradizem: exatamente um deles diz a verdade. Logo, Ciro mente.",
+"x": "Ari e Bento dizem coisas opostas, então exatamente um deles fala a verdade. Como só há uma verdade, Ciro mente: \"eu não sou o culpado\" é falso, logo Ciro é o culpado. Conferindo: Ari mente (Bento não é culpado) e Bento diz a verdade.",
+"e": "Ciro."
+},
+{
+"p": "Ana, Bruno e Carla são escrivã, investigador e perita, não necessariamente nessa ordem. Sabe-se que: Carla não é escrivã; Bruno não é perito nem escrivão. Assim:",
+"alts": [
+"Ana é perita, Bruno é investigador e Carla é escrivã",
+"Ana é escrivã, Bruno é investigador e Carla é perita",
+"Ana é investigadora, Bruno é escrivão e Carla é perita",
+"Ana é perita, Bruno é escrivão e Carla é investigadora",
+"Ana é escrivã, Bruno é perito e Carla é investigadora"
+],
+"r": 1,
+"n": [
+"Carla não é escrivã.",
+"Correta.",
+"Bruno não é escrivão.",
+"Bruno não é escrivão.",
+"Bruno não é perito."
+],
+"prof": "Comece por quem tem mais restrições: Bruno.",
+"x": "Bruno não é perito nem escrivão, logo é investigador. Restam escrivã e perita para Ana e Carla; como Carla não é escrivã, Carla é perita e Ana é escrivã.",
+"e": "Associação lógica."
+}
+]
+},
+{
+"id": "medidas-cartesiano",
+"titulo": "Medidas, plano cartesiano e problemas com matrizes",
+"arts": "Medidas, plano cartesiano e matrizes",
+"chaves": [
+"medidas de comprimento",
+"area",
+"volume",
+"litro",
+"massa",
+"tempo",
+"conversao de unidades",
+"hectare",
+"plano cartesiano",
+"distancia entre pontos",
+"ponto medio",
+"quadrantes",
+"matriz"
+],
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>×10</b><span>cada degrau de comprimento (km → m: ×1.000)</span></div><div class=\"lt-stat\"><b>×100</b><span>cada degrau de área (m² → dm²)</span></div><div class=\"lt-stat\"><b>×1.000</b><span>cada degrau de volume (m³ → dm³)</span></div><div class=\"lt-stat\"><b>1 dm³</b><span>= 1 litro</span></div></div>\n<h3>1. Medidas</h3>\n<table class=\"tab\"><thead><tr><th>Grandeza</th><th>Escada</th><th>Fator por degrau</th></tr></thead><tbody><tr><td>Comprimento</td><td>km – hm – dam – <b>m</b> – dm – cm – mm</td><td><b>10</b></td></tr><tr><td>Área</td><td>km² – hm² – dam² – <b>m²</b> – dm² – cm² – mm²</td><td><b>100</b></td></tr><tr><td>Volume</td><td>km³ – … – <b>m³</b> – <b>dm³</b> – cm³</td><td><b>1.000</b></td></tr><tr><td>Massa</td><td>kg – hg – dag – <b>g</b> – dg – cg – mg</td><td>10 (e 1 t = 1.000 kg)</td></tr></tbody></table>\n<ul><li><b>Capacidade</b>: <b>1 dm³ = 1 L</b>; <b>1 m³ = 1.000 L</b>; <b>1 cm³ = 1 mL</b>. <b>Hectare</b>: <b>1 ha = 10.000 m²</b> (um quadrado de 100 m × 100 m).</li><li><b>Tempo</b>: 1 h = 60 min = <b>3.600 s</b>. Cuidado: <b>1,5 h = 1 h 30 min</b> (não 1 h 50 min).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Uma caixa d'água de 2 m × 1,5 m × 1 m está cheia. Quantos litros?</b><ol><li><span>Volume = 2 × 1,5 × 1 = 3 m³</span></li><li><span>1 m³ = 1.000 L</span></li></ol><span class=\"res\">3.000 litros</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Uma viatura percorre 72 km/h. Quantos metros por segundo?</b><ol><li><span>72 km = 72.000 m; 1 h = 3.600 s</span></li><li><span>72.000 ÷ 3.600 = 20</span></li></ol><span class=\"res\">20 m/s (atalho: divida km/h por 3,6)</span></div>\n<h3>2. Plano cartesiano</h3>\n<ul><li>Eixo <b>x</b> (abscissas, horizontal) e eixo <b>y</b> (ordenadas, vertical); o ponto é escrito <b>(x, y)</b>. Quadrantes, no sentido anti-horário: <b>1º (+,+)</b>, <b>2º (−,+)</b>, <b>3º (−,−)</b>, <b>4º (+,−)</b>.</li></ul>\n<code class=\"lt-formula\">d(A,B) = √[(x₂ − x₁)² + (y₂ − y₁)²]   |   Ponto médio M = ((x₁ + x₂)/2 ; (y₁ + y₂)/2)</code>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Distância entre A(1, 2) e B(4, 6)</b><ol><li><span>Δx = 4 − 1 = 3; Δy = 6 − 2 = 4</span></li><li><span>d = √(3² + 4²) = √25</span></li></ol><span class=\"res\">d = 5</span></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Problemas matriciais</h3>\n<ul><li>Questões com <b>tabelas</b> ou <b>quadros</b> em que cada linha e coluna segue uma regra (soma constante, sequência, padrão de figuras). Leia <b>linhas e colunas</b> separadamente e procure a regra antes de calcular.</li></ul>\n<div class=\"lt-ex\"><b class=\"lt-tit\">✍ Exemplo</b><p>Quadro: 1ª linha 2, 4, 8; 2ª linha 3, 6, 12; 3ª linha 5, 10, ?. Em cada linha, o número dobra: ? = <b>20</b>.</p></div>\n<h3>4. Conversões e cálculos que mais caem</h3>\n<ul><li><b>Volume e capacidade</b>: <b>1 m³ = 1.000 litros</b>; <b>1 dm³ = 1 litro</b>; 1 cm³ = 1 mL. Caixa-d'água ou piscina (paralelepípedo): <b>V = comprimento × largura × altura</b>. Ex.: 5 m × 1 m × 2 m = 10 m³ = <b>10.000 L</b>; 3 × 3 × 3 = 27 m³ = <b>27.000 L</b>; 3 × 3 × 2 = 18 m³ = <b>18.000 L</b>; 4 × 1 × 1 = 4 m³ = <b>4.000 L</b>; piscina 10 × 5 × 1,2 = 60 m³ = <b>60.000 L</b>. Logo, um reservatório de <b>2 m³</b> comporta <b>2.000 litros</b> (e não 200).</li><li><b>Área</b>: <b>1 hectare = 10.000 m²</b> (um quadrado de 100 m × 100 m); 1 km² = 100 ha = 1.000.000 m². Círculo: <b>A = π r²</b>; com π = 3,14 e r = 1 m, A = <b>3,14 m²</b>. Comprimento da circunferência: C = 2πr.</li><li><b>Tempo em decimal</b>: a parte decimal da hora deve ser multiplicada por <b>60</b>. <b>2,4 horas</b> = 2 h + 0,4 × 60 min = <b>2 h 24 min</b> (e não 2 h 40 min). 1,25 h = 1 h 15 min; 0,5 h = 30 min.</li><li><b>Quadrantes do plano cartesiano</b>: <b>1º</b> (x > 0, y > 0); <b>2º</b> (x < 0, y > 0); <b>3º</b> (x < 0, y < 0); <b>4º</b> (x > 0, y < 0). O ponto <b>(−2, −7)</b> tem as duas coordenadas negativas: está no <b>3º quadrante</b>. Pontos com uma coordenada nula estão <b>sobre os eixos</b>, e não em quadrante.</li><li><b>Distância entre dois pontos</b>: d = √[(x₂ − x₁)² + (y₂ − y₁)²]. Ponto médio: ((x₁ + x₂)/2, (y₁ + y₂)/2).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">1 m² = 10 dm²</span><br>✅ <span class=\"certo\">1 m² = 100 dm² (área: fator 100).</span></li><li>❌ <span class=\"banca\">1 m³ = 100 L</span><br>✅ <span class=\"certo\">1 m³ = 1.000 L.</span></li><li>❌ <span class=\"banca\">2,5 h = 2 h 50 min</span><br>✅ <span class=\"certo\">2,5 h = 2 h 30 min.</span></li><li>❌ <span class=\"banca\">O ponto (−3, 5) está no 4º quadrante</span><br>✅ <span class=\"certo\">x negativo e y positivo = 2º quadrante.</span></li><li>❌ <span class=\"banca\">1 hectare = 1.000 m²</span><br>✅ <span class=\"certo\">1 ha = 10.000 m².</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 m³ em litros?</span></span><span class=\"vs\"><span><b>1.000 L</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 ha?</span></span><span class=\"vs\"><span><b>10.000 m²</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>km/h para m/s?</span></span><span class=\"vs\"><span><b>÷ 3,6</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Distância entre pontos?</span></span><span class=\"vs\"><span><b>√(Δx² + Δy²)</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>2º quadrante?</span></span><span class=\"vs\"><span><b>x negativo, y positivo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 dm³?</span></span><span class=\"vs\"><span><b>1 litro</b>.</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Um terreno de 1 hectare corresponde a uma área de 10.000 metros quadrados.",
+"c": true,
+"prof": "Certo.",
+"x": "Um hectare equivale a um quadrado de 100 m de lado: 100 × 100 = 10.000 m².",
+"e": "1 ha = 10.000 m²."
+},
+{
+"p": "Um reservatório com 2 m³ de capacidade comporta 200 litros.",
+"c": false,
+"prof": "Comporta 2.000 litros.",
+"x": "Cada metro cúbico equivale a 1.000 litros. Logo, 2 m³ = 2.000 L.",
+"e": "1 m³ = 1.000 L."
+},
+{
+"p": "O ponto (−2, −7) está localizado no segundo quadrante.",
+"c": false,
+"prof": "Está no terceiro quadrante.",
+"x": "No segundo quadrante, x é negativo e y é positivo. Com as duas coordenadas negativas, o ponto está no terceiro quadrante.",
+"e": "(−, −): 3º quadrante."
+},
+{
+"p": "Uma diligência durou 2,4 horas. Esse tempo corresponde a:",
+"alts": [
+"2 h 40 min",
+"2 h 24 min",
+"2 h 4 min",
+"2 h 14 min",
+"2 h 30 min"
+],
+"r": 1,
+"n": [
+"Erro comum: ler 0,4 como 40 minutos.",
+"Correta: 0,4 × 60 = 24 min.",
+"Cálculo errado.",
+"Cálculo errado.",
+"Seria 2,5 h."
+],
+"prof": "Decimal × 60.",
+"x": "A parte decimal da hora é fração de 60 minutos: 0,4 × 60 = 24. Portanto, 2,4 h = 2 h 24 min.",
+"e": "2,4 h = 2 h 24 min."
+},
+{
+"p": "Uma piscina tem 10 m de comprimento, 5 m de largura e 1,2 m de profundidade. Estando completamente cheia, contém:",
+"alts": [
+"6.000 litros",
+"600 litros",
+"60.000 litros",
+"600.000 litros",
+"16.200 litros"
+],
+"r": 2,
+"n": [
+"Faltou multiplicar por 10.",
+"Erro de conversão.",
+"Correta: 10 × 5 × 1,2 = 60 m³ = 60.000 L.",
+"Conversão exagerada.",
+"Somou as medidas."
+],
+"prof": "Volume e conversão.",
+"x": "V = 10 × 5 × 1,2 = 60 m³. Como 1 m³ = 1.000 L, a piscina comporta 60.000 litros.",
+"e": "60 m³ = 60.000 L."
+},
+{
+"p": "Um terreno de 1 hectare corresponde a uma área de 10.000 metros quadrados.",
+"c": true,
+"prof": "Certo.",
+"x": "1 ha equivale a um quadrado de 100 m × 100 m.",
+"e": "1 ha = 10.000 m²."
+},
+{
+"p": "Um reservatório com 2 m³ de capacidade comporta 200 litros.",
+"c": false,
+"prof": "Fator de conversão errado.",
+"x": "1 m³ = 1.000 L, então 2 m³ = 2.000 L.",
+"e": "2 m³ = 2.000 L."
+},
+{
+"p": "A distância entre os pontos A(0, 0) e B(6, 8) do plano cartesiano é igual a 10.",
+"c": true,
+"prof": "Certo.",
+"x": "d = √(6² + 8²) = √(36 + 64) = √100 = 10.",
+"e": "d = 10."
+},
+{
+"p": "O ponto (−2, −7) está localizado no segundo quadrante.",
+"c": false,
+"prof": "Confira os sinais.",
+"x": "Com x e y negativos, o ponto está no 3º quadrante. O 2º quadrante tem x negativo e y positivo.",
+"e": "(−,−) = 3º quadrante."
+},
+{
+"p": "Uma diligência durou 2,4 horas. Esse tempo corresponde a:",
+"alts": [
+"2 h 4 min",
+"2 h 40 min",
+"2 h 24 min",
+"2 h 14 min",
+"2 h 30 min"
+],
+"r": 2,
+"n": [
+"Leu o decimal como minutos.",
+"Leu 0,4 h como 40 min.",
+"Correta: 0,4 × 60 = 24 min.",
+"Cálculo errado.",
+"0,5 h seria 30 min."
+],
+"prof": "A parte decimal da hora multiplica por 60.",
+"x": "0,4 h × 60 min = 24 min. Portanto, 2,4 h = 2 h 24 min.",
+"e": "0,4 h = 24 min."
+},
+{
+"p": "O ponto médio entre A(2, 3) e B(8, 11) é:",
+"alts": [
+"(6, 8)",
+"(5, 7)",
+"(10, 14)",
+"(3, 4)",
+"(4, 7)"
+],
+"r": 1,
+"n": [
+"Diferenças, não média.",
+"Correta.",
+"Soma, sem dividir.",
+"Cálculo errado.",
+"x errado."
+],
+"prof": "Média das coordenadas.",
+"x": "M = ((2+8)/2 ; (3+11)/2) = (5 ; 7).",
+"e": "(5, 7)."
+},
+{
+"p": "Uma piscina tem 10 m de comprimento, 5 m de largura e 1,2 m de profundidade. Estando completamente cheia, contém:",
+"alts": [
+"6.000 litros",
+"600 litros",
+"60.000 litros",
+"6.000.000 litros",
+"60 litros"
+],
+"r": 2,
+"n": [
+"Errou a conversão.",
+"Errou a conversão.",
+"Correta.",
+"Errou a conversão.",
+"Errou a conversão."
+],
+"prof": "Volume em m³, depois ×1.000.",
+"x": "V = 10 × 5 × 1,2 = 60 m³ = 60 × 1.000 L = 60.000 L.",
+"e": "60.000 L."
+}
+]
+}
+]
+},
 "penal": {
 "ordem": [
 "principios",
@@ -517,385 +2326,6 @@ export const TOPICOS_EXTRA = {
 "prof": "Grupo paramilitar para cometer crimes = milícia (288-A).",
 "x": "O art. 288-A pune constituir, organizar, integrar, manter ou custear milícia particular ou grupo para praticar crimes do CP, com reclusão de 4 a 8 anos, em concurso com os homicídios e extorsões.",
 "e": "Milícia privada."
-}
-]
-}
-]
-},
-"rlm": {
-"ordem": [
-"proposicoes",
-"equivalencias",
-"logica-argumentacao",
-"conjuntos",
-"equacoes",
-"funcoes",
-"razao",
-"porcentagem",
-"sequencias",
-"contagem",
-"probabilidade",
-"estatistica",
-"geometria",
-"medidas-cartesiano"
-],
-"assuntos": [
-{
-"id": "logica-argumentacao",
-"titulo": "Problemas de lógica: associações, verdades e mentiras, argumentação e raciocínio sequencial",
-"arts": "Lógica de argumentação e problemas lógicos",
-"chaves": [
-"logica de argumentacao",
-"argumento valido",
-"silogismo",
-"modus ponens",
-"modus tollens",
-"falacia",
-"associacao logica",
-"verdades e mentiras",
-"raciocinio sequencial",
-"orientacao temporal",
-"calendario"
-],
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2</b><span>regras de ouro do argumento: modus ponens e modus tollens</span></div><div class=\"lt-stat\"><b>2</b><span>falácias clássicas: afirmar o consequente e negar o antecedente</span></div><div class=\"lt-stat\"><b>7</b><span>dias: o ciclo da semana (use resto da divisão por 7)</span></div><div class=\"lt-stat\"><b>1</b><span>hipótese por vez nos problemas de verdade e mentira</span></div></div>\n<h3>1. Argumento válido</h3>\n<ul><li><b>Argumento</b> = premissas + conclusão. É <b>válido</b> quando, <b>se as premissas forem verdadeiras, a conclusão é obrigatoriamente verdadeira</b>. Validade é questão de <b>forma</b>, não do conteúdo ser verdadeiro no mundo real.</li></ul>\n<table class=\"tab\"><thead><tr><th>Forma</th><th>Estrutura</th><th>Válido?</th></tr></thead><tbody><tr><td><b>Modus ponens</b></td><td>Se P, então Q. P. Logo, Q.</td><td><b>Sim</b></td></tr><tr><td><b>Modus tollens</b></td><td>Se P, então Q. Não Q. Logo, não P.</td><td><b>Sim</b></td></tr><tr><td>Silogismo hipotético</td><td>Se P, então Q. Se Q, então R. Logo, se P, então R.</td><td><b>Sim</b></td></tr><tr><td>Silogismo disjuntivo</td><td>P ou Q. Não P. Logo, Q.</td><td><b>Sim</b></td></tr><tr><td><b>Afirmação do consequente</b></td><td>Se P, então Q. Q. Logo, P.</td><td><b>Não</b> (falácia)</td></tr><tr><td><b>Negação do antecedente</b></td><td>Se P, então Q. Não P. Logo, não Q.</td><td><b>Não</b> (falácia)</td></tr></tbody></table>\n<div class=\"lt-ex\"><b class=\"lt-tit\">✍ Exemplo</b><p>\"Se o suspeito estava na festa, ele foi filmado. Ele não foi filmado. Logo, não estava na festa.\" → <b>Modus tollens: válido</b>. \"Se estava na festa, foi filmado. Foi filmado. Logo, estava na festa.\" → <b>afirmação do consequente: inválido</b> (pode ter sido filmado em outro lugar).</p></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Testando validade por \"tentar quebrar\"</b><ol><li><span>Suponha a conclusão FALSA</span></li><li><span>Tente fazer TODAS as premissas verdadeiras ao mesmo tempo</span></li><li><span>Se conseguir, o argumento é INVÁLIDO; se for impossível, é VÁLIDO</span></li></ol><span class=\"res\">Método mais rápido que a tabela-verdade completa</span></div>\n<h3>2. Associações lógicas</h3>\n<ul><li>Monte uma <b>tabela</b> (pessoas × características), marque <b>X</b> no que é impossível e <b>✓</b> no que é certo. Cada ✓ elimina o resto da linha e da coluna.</li></ul>\n<div class=\"lt-ex\"><b class=\"lt-tit\">✍ Exemplo</b><p>Ana, Bia e Caio são delegada, perita e investigador (não necessariamente nessa ordem). Bia não é perita; Caio não é delegado nem perito. → Caio = investigador; sobra perita para Ana (Bia não é perita); Bia = delegada.</p></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Verdades e mentiras</h3>\n<ul><li>Teste <b>uma hipótese por vez</b> (\"suponha que A diz a verdade\") e veja se chega a contradição. Procure <b>afirmações contraditórias</b> entre si: se duas pessoas dizem coisas opostas, <b>exatamente uma</b> delas fala a verdade.</li></ul>\n<h3>4. Raciocínio sequencial e orientação temporal</h3>\n<ul><li><b>Sequências</b>: procure o padrão (soma, multiplicação, alternância, posição no alfabeto, figuras que giram).</li><li><b>Calendário</b>: dias da semana se repetem a cada <b>7 dias</b>. Use o <b>resto da divisão por 7</b>. Ano comum tem 365 dias = 52 semanas + <b>1 dia</b>; ano bissexto, + <b>2 dias</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Que dia da semana será daqui a 100 dias, se hoje é segunda-feira?</b><ol><li><span>100 ÷ 7 = 14 semanas e resto 2</span></li><li><span>Ande 2 dias a partir de segunda</span></li></ol><span class=\"res\">Quarta-feira</span></div>\n<h3>5. Métodos para resolver os principais tipos</h3>\n<ul><li><b>Validade pelo modus tollens</b>: \"Se P, então Q. Não Q. Logo, não P.\" é <b>válido</b>. Ex.: \"Se chove, a pista fica molhada. A pista não está molhada. Logo, não choveu.\" (válido). Já \"Se P, então Q. Q. Logo, P.\" é <b>inválido</b> (falácia da <b>afirmação do consequente</b>): a pista pode estar molhada por outro motivo. Também é inválido \"Se P, então Q. Não P. Logo, não Q.\" (<b>negação do antecedente</b>).</li><li><b>Aplicação</b>: \"Se Paulo é investigador, então trabalha na PCMG\" e \"Paulo não trabalha na PCMG\" → conclui-se que <b>Paulo não é investigador</b> (modus tollens). Não se conclui nada sobre o que Paulo é.</li><li><b>Verdades e mentiras (método das hipóteses)</b>: suponha que cada suspeito é o culpado, um de cada vez, e conte quantas frases ficam verdadeiras; a hipótese que respeita o enunciado (\"só um mente\", \"só um diz a verdade\") é a resposta. Exemplo: Ari: \"Bento é o culpado\"; Bento: \"Ari mente\"; Ciro: \"Eu não sou o culpado\". Só um é culpado e só um diz a verdade. Note que Ari e Bento se contradizem: <b>exatamente um dos dois diz a verdade</b>. Logo, <b>Ciro mente</b>: \"eu não sou o culpado\" é falso, então <b>Ciro é o culpado</b>. Conferindo: Bento não é culpado, então Ari mente e Bento diz a verdade (só um verdadeiro). ✔</li><li><b>Calendário</b>: a semana tem <b>7 dias</b>, então avance só o <b>resto da divisão por 7</b>. De sexta-feira, daqui a <b>30 dias</b>: 30 = 4 × 7 + <b>2</b> → sexta + 2 = <b>domingo</b>. Daqui a 100 dias: 100 = 14 × 7 + 2 → também domingo. Para anos: um ano comum avança <b>1 dia</b> da semana; um bissexto, <b>2</b>.</li><li><b>Negações mais cobradas</b>: negação de \"Se P, então Q\" é \"<b>P e não Q</b>\" (Se bebe, não dirige → <b>Bebe e dirige</b>); negação de \"P ou Q\" é \"<b>não P e não Q</b>\" (Ana não é médica <b>e</b> Bia não é advogada); negação de \"Algum A é B\" é \"<b>Nenhum A é B</b>\" (Nenhum carro é vermelho); negação de \"Todo A é B\" é \"<b>Algum A não é B</b>\".</li><li><b>Equivalências</b>: \"Se P, então Q\" ≡ \"Se não Q, então não P\" (<b>contrapositiva</b>) ≡ \"Não P ou Q\". Ex.: \"Se não estudar, não passará\" ≡ \"<b>Se passou, estudou</b>\". <b>Absorção</b>: P ∨ (P ∧ Q) ≡ P e P ∧ (P ∨ Q) ≡ P.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Argumento com conclusão verdadeira é válido</span><br>✅ <span class=\"certo\">Validade depende da FORMA; pode haver conclusão verdadeira com argumento inválido.</span></li><li>❌ <span class=\"banca\">Se P então Q; Q; logo P é válido</span><br>✅ <span class=\"certo\">É a falácia da afirmação do consequente.</span></li><li>❌ <span class=\"banca\">Se P então Q; não P; logo não Q é válido</span><br>✅ <span class=\"certo\">É a falácia da negação do antecedente.</span></li><li>❌ <span class=\"banca\">Para o dia da semana, divida por 30</span><br>✅ <span class=\"certo\">Divida por 7 e use o resto.</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Modus ponens?</span></span><span class=\"vs\"><span>Se P→Q e P, então <b>Q</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Modus tollens?</span></span><span class=\"vs\"><span>Se P→Q e não Q, então <b>não P</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afirmação do consequente?</span></span><span class=\"vs\"><span><b>Falácia</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Negação do antecedente?</span></span><span class=\"vs\"><span><b>Falácia</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dia da semana daqui a N dias?</span></span><span class=\"vs\"><span>Resto de <b>N ÷ 7</b>.</span></span></button></div></div>",
-"quiz": [
-{
-"p": "O argumento \"Se chove, a pista fica molhada. A pista não está molhada. Logo, não choveu.\" é válido.",
-"c": true,
-"prof": "Certo. Modus tollens.",
-"x": "Negado o consequente de uma condicional verdadeira, nega-se o antecedente. A forma inválida seria concluir \"choveu\" a partir de \"a pista está molhada\" (afirmação do consequente).",
-"e": "Nega o Q, nega o P."
-},
-{
-"p": "Se hoje é sexta-feira, daqui a 30 dias será domingo.",
-"c": true,
-"prof": "Certo.",
-"x": "30 dividido por 7 dá quociente 4 e resto 2. Avançam-se 2 dias a partir de sexta: sábado, domingo.",
-"e": "Resto da divisão por 7."
-},
-{
-"p": "Considere as premissas: \"Se Paulo é investigador, então ele trabalha na PCMG\" e \"Paulo não trabalha na PCMG\". Conclui-se corretamente que:",
-"alts": [
-"Paulo é investigador",
-"Paulo é delegado",
-"Paulo não é investigador",
-"Paulo trabalha na PCMG",
-"nada se pode concluir"
-],
-"r": 2,
-"n": [
-"Contradiz as premissas.",
-"Não há informação.",
-"Correta: modus tollens.",
-"Contradiz a segunda premissa.",
-"Há conclusão válida."
-],
-"prof": "Modus tollens.",
-"x": "Se fosse investigador, trabalharia na PCMG. Como não trabalha, não é investigador.",
-"e": "Não Q → não P."
-},
-{
-"p": "Três suspeitos dão depoimentos. Ari: \"Bento é o culpado\". Bento: \"Ari mente\". Ciro: \"Eu não sou o culpado\". Sabe-se que só um é culpado e só um diz a verdade. O culpado é:",
-"alts": [
-"Ari",
-"Bento",
-"Ciro",
-"Ari ou Bento, indistintamente",
-"não é possível determinar"
-],
-"r": 2,
-"n": [
-"Testando Ari culpado, Bento e Ciro dizem a verdade: dois verdadeiros.",
-"Testando Bento culpado, Ari e Ciro dizem a verdade.",
-"Correta.",
-"Há solução única.",
-"Há solução única."
-],
-"prof": "Ari e Bento se contradizem.",
-"x": "Como Bento diz que Ari mente, exatamente um dos dois fala a verdade. Logo Ciro mente, e \"eu não sou o culpado\" é falso: Ciro é o culpado. Conferindo: Bento é inocente, Ari mente e Bento diz a verdade, um só verdadeiro.",
-"e": "Contradição entre dois: o terceiro mente."
-},
-{
-"p": "A negação de \"Se bebe, não dirige\" é \"Se não bebe, dirige\".",
-"c": false,
-"prof": "Negação de condicional: P e não Q.",
-"x": "A negação de \"Se P, então Q\" é \"P e não Q\". Aqui: \"Bebe e dirige\".",
-"e": "Não (P → Q) = P ∧ ¬Q."
-},
-{
-"p": "A proposição \"Se não estudar, não passará\" é equivalente a \"Se passou, estudou\".",
-"c": true,
-"prof": "Certo. Contrapositiva.",
-"x": "\"Se P, então Q\" equivale a \"Se não Q, então não P\". Com P = não estudar e Q = não passar: se passou (não Q), então estudou (não P).",
-"e": "Contrapositiva."
-},
-{
-"p": "O argumento \"Se chove, a pista fica molhada. A pista não está molhada. Logo, não choveu.\" é válido.",
-"c": true,
-"prof": "Certo. É o modus tollens.",
-"x": "Negando o consequente, nega-se o antecedente.",
-"e": "Modus tollens."
-},
-{
-"p": "O argumento \"Se o réu é culpado, ele fugiu. O réu fugiu. Logo, o réu é culpado.\" é válido.",
-"c": false,
-"prof": "Forma inválida.",
-"x": "É a falácia da afirmação do consequente: a fuga pode ter outra causa. Com as premissas verdadeiras, a conclusão pode ser falsa.",
-"e": "Afirmar o consequente."
-},
-{
-"p": "Se hoje é sexta-feira, daqui a 30 dias será domingo.",
-"c": true,
-"prof": "Certo.",
-"x": "30 ÷ 7 = 4 semanas e resto 2. Dois dias após sexta: domingo.",
-"e": "Resto 2."
-},
-{
-"p": "Um argumento é válido sempre que sua conclusão é verdadeira.",
-"c": false,
-"prof": "Validade não é verdade.",
-"x": "Validade diz respeito à forma: se as premissas forem verdadeiras, a conclusão deve ser verdadeira. Um argumento pode ter conclusão verdadeira e ser inválido.",
-"e": "Validade = forma."
-},
-{
-"p": "Considere as premissas: \"Se Paulo é investigador, então ele trabalha na PCMG\" e \"Paulo não trabalha na PCMG\". Conclui-se corretamente que:",
-"alts": [
-"Paulo é investigador",
-"Paulo não é investigador",
-"Paulo trabalha na PCMG",
-"Paulo é delegado",
-"nada se pode concluir"
-],
-"r": 1,
-"n": [
-"Contradiz as premissas.",
-"Correta: modus tollens.",
-"Contradiz a 2ª premissa.",
-"Não decorre.",
-"É possível concluir."
-],
-"prof": "Negou o consequente? Negue o antecedente.",
-"x": "Pelo modus tollens, de \"P → Q\" e \"não Q\" conclui-se \"não P\": Paulo não é investigador.",
-"e": "Modus tollens."
-},
-{
-"p": "Três suspeitos dão depoimentos. Ari: \"Bento é o culpado\". Bento: \"Ari mente\". Ciro: \"Eu não sou o culpado\". Sabe-se que só um é culpado e só um diz a verdade. O culpado é:",
-"alts": [
-"Ari",
-"Bento",
-"Ciro",
-"Ari ou Bento, indistintamente",
-"impossível determinar"
-],
-"r": 2,
-"n": [
-"Se Ari fosse culpado, Bento e Ciro diriam a verdade (duas verdades).",
-"Se Bento fosse culpado, Ari e Ciro diriam a verdade (duas).",
-"Correta.",
-"Só há uma solução.",
-"É possível determinar."
-],
-"prof": "Ari e Bento se contradizem: exatamente um deles diz a verdade. Logo, Ciro mente.",
-"x": "Ari e Bento dizem coisas opostas, então exatamente um deles fala a verdade. Como só há uma verdade, Ciro mente: \"eu não sou o culpado\" é falso, logo Ciro é o culpado. Conferindo: Ari mente (Bento não é culpado) e Bento diz a verdade.",
-"e": "Ciro."
-},
-{
-"p": "Ana, Bruno e Carla são escrivã, investigador e perita, não necessariamente nessa ordem. Sabe-se que: Carla não é escrivã; Bruno não é perito nem escrivão. Assim:",
-"alts": [
-"Ana é perita, Bruno é investigador e Carla é escrivã",
-"Ana é escrivã, Bruno é investigador e Carla é perita",
-"Ana é investigadora, Bruno é escrivão e Carla é perita",
-"Ana é perita, Bruno é escrivão e Carla é investigadora",
-"Ana é escrivã, Bruno é perito e Carla é investigadora"
-],
-"r": 1,
-"n": [
-"Carla não é escrivã.",
-"Correta.",
-"Bruno não é escrivão.",
-"Bruno não é escrivão.",
-"Bruno não é perito."
-],
-"prof": "Comece por quem tem mais restrições: Bruno.",
-"x": "Bruno não é perito nem escrivão, logo é investigador. Restam escrivã e perita para Ana e Carla; como Carla não é escrivã, Carla é perita e Ana é escrivã.",
-"e": "Associação lógica."
-}
-]
-},
-{
-"id": "medidas-cartesiano",
-"titulo": "Medidas, plano cartesiano e problemas com matrizes",
-"arts": "Medidas, plano cartesiano e matrizes",
-"chaves": [
-"medidas de comprimento",
-"area",
-"volume",
-"litro",
-"massa",
-"tempo",
-"conversao de unidades",
-"hectare",
-"plano cartesiano",
-"distancia entre pontos",
-"ponto medio",
-"quadrantes",
-"matriz"
-],
-"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>×10</b><span>cada degrau de comprimento (km → m: ×1.000)</span></div><div class=\"lt-stat\"><b>×100</b><span>cada degrau de área (m² → dm²)</span></div><div class=\"lt-stat\"><b>×1.000</b><span>cada degrau de volume (m³ → dm³)</span></div><div class=\"lt-stat\"><b>1 dm³</b><span>= 1 litro</span></div></div>\n<h3>1. Medidas</h3>\n<table class=\"tab\"><thead><tr><th>Grandeza</th><th>Escada</th><th>Fator por degrau</th></tr></thead><tbody><tr><td>Comprimento</td><td>km – hm – dam – <b>m</b> – dm – cm – mm</td><td><b>10</b></td></tr><tr><td>Área</td><td>km² – hm² – dam² – <b>m²</b> – dm² – cm² – mm²</td><td><b>100</b></td></tr><tr><td>Volume</td><td>km³ – … – <b>m³</b> – <b>dm³</b> – cm³</td><td><b>1.000</b></td></tr><tr><td>Massa</td><td>kg – hg – dag – <b>g</b> – dg – cg – mg</td><td>10 (e 1 t = 1.000 kg)</td></tr></tbody></table>\n<ul><li><b>Capacidade</b>: <b>1 dm³ = 1 L</b>; <b>1 m³ = 1.000 L</b>; <b>1 cm³ = 1 mL</b>. <b>Hectare</b>: <b>1 ha = 10.000 m²</b> (um quadrado de 100 m × 100 m).</li><li><b>Tempo</b>: 1 h = 60 min = <b>3.600 s</b>. Cuidado: <b>1,5 h = 1 h 30 min</b> (não 1 h 50 min).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Uma caixa d'água de 2 m × 1,5 m × 1 m está cheia. Quantos litros?</b><ol><li><span>Volume = 2 × 1,5 × 1 = 3 m³</span></li><li><span>1 m³ = 1.000 L</span></li></ol><span class=\"res\">3.000 litros</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Uma viatura percorre 72 km/h. Quantos metros por segundo?</b><ol><li><span>72 km = 72.000 m; 1 h = 3.600 s</span></li><li><span>72.000 ÷ 3.600 = 20</span></li></ol><span class=\"res\">20 m/s (atalho: divida km/h por 3,6)</span></div>\n<h3>2. Plano cartesiano</h3>\n<ul><li>Eixo <b>x</b> (abscissas, horizontal) e eixo <b>y</b> (ordenadas, vertical); o ponto é escrito <b>(x, y)</b>. Quadrantes, no sentido anti-horário: <b>1º (+,+)</b>, <b>2º (−,+)</b>, <b>3º (−,−)</b>, <b>4º (+,−)</b>.</li></ul>\n<code class=\"lt-formula\">d(A,B) = √[(x₂ − x₁)² + (y₂ − y₁)²]   |   Ponto médio M = ((x₁ + x₂)/2 ; (y₁ + y₂)/2)</code>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Distância entre A(1, 2) e B(4, 6)</b><ol><li><span>Δx = 4 − 1 = 3; Δy = 6 − 2 = 4</span></li><li><span>d = √(3² + 4²) = √25</span></li></ol><span class=\"res\">d = 5</span></div>\n<div class=\"lt-pare\"></div>\n<h3>3. Problemas matriciais</h3>\n<ul><li>Questões com <b>tabelas</b> ou <b>quadros</b> em que cada linha e coluna segue uma regra (soma constante, sequência, padrão de figuras). Leia <b>linhas e colunas</b> separadamente e procure a regra antes de calcular.</li></ul>\n<div class=\"lt-ex\"><b class=\"lt-tit\">✍ Exemplo</b><p>Quadro: 1ª linha 2, 4, 8; 2ª linha 3, 6, 12; 3ª linha 5, 10, ?. Em cada linha, o número dobra: ? = <b>20</b>.</p></div>\n<h3>4. Conversões e cálculos que mais caem</h3>\n<ul><li><b>Volume e capacidade</b>: <b>1 m³ = 1.000 litros</b>; <b>1 dm³ = 1 litro</b>; 1 cm³ = 1 mL. Caixa-d'água ou piscina (paralelepípedo): <b>V = comprimento × largura × altura</b>. Ex.: 5 m × 1 m × 2 m = 10 m³ = <b>10.000 L</b>; 3 × 3 × 3 = 27 m³ = <b>27.000 L</b>; 3 × 3 × 2 = 18 m³ = <b>18.000 L</b>; 4 × 1 × 1 = 4 m³ = <b>4.000 L</b>; piscina 10 × 5 × 1,2 = 60 m³ = <b>60.000 L</b>. Logo, um reservatório de <b>2 m³</b> comporta <b>2.000 litros</b> (e não 200).</li><li><b>Área</b>: <b>1 hectare = 10.000 m²</b> (um quadrado de 100 m × 100 m); 1 km² = 100 ha = 1.000.000 m². Círculo: <b>A = π r²</b>; com π = 3,14 e r = 1 m, A = <b>3,14 m²</b>. Comprimento da circunferência: C = 2πr.</li><li><b>Tempo em decimal</b>: a parte decimal da hora deve ser multiplicada por <b>60</b>. <b>2,4 horas</b> = 2 h + 0,4 × 60 min = <b>2 h 24 min</b> (e não 2 h 40 min). 1,25 h = 1 h 15 min; 0,5 h = 30 min.</li><li><b>Quadrantes do plano cartesiano</b>: <b>1º</b> (x > 0, y > 0); <b>2º</b> (x < 0, y > 0); <b>3º</b> (x < 0, y < 0); <b>4º</b> (x > 0, y < 0). O ponto <b>(−2, −7)</b> tem as duas coordenadas negativas: está no <b>3º quadrante</b>. Pontos com uma coordenada nula estão <b>sobre os eixos</b>, e não em quadrante.</li><li><b>Distância entre dois pontos</b>: d = √[(x₂ − x₁)² + (y₂ − y₁)²]. Ponto médio: ((x₁ + x₂)/2, (y₁ + y₂)/2).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">1 m² = 10 dm²</span><br>✅ <span class=\"certo\">1 m² = 100 dm² (área: fator 100).</span></li><li>❌ <span class=\"banca\">1 m³ = 100 L</span><br>✅ <span class=\"certo\">1 m³ = 1.000 L.</span></li><li>❌ <span class=\"banca\">2,5 h = 2 h 50 min</span><br>✅ <span class=\"certo\">2,5 h = 2 h 30 min.</span></li><li>❌ <span class=\"banca\">O ponto (−3, 5) está no 4º quadrante</span><br>✅ <span class=\"certo\">x negativo e y positivo = 2º quadrante.</span></li><li>❌ <span class=\"banca\">1 hectare = 1.000 m²</span><br>✅ <span class=\"certo\">1 ha = 10.000 m².</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 m³ em litros?</span></span><span class=\"vs\"><span><b>1.000 L</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 ha?</span></span><span class=\"vs\"><span><b>10.000 m²</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>km/h para m/s?</span></span><span class=\"vs\"><span><b>÷ 3,6</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Distância entre pontos?</span></span><span class=\"vs\"><span><b>√(Δx² + Δy²)</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>2º quadrante?</span></span><span class=\"vs\"><span><b>x negativo, y positivo</b>.</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 dm³?</span></span><span class=\"vs\"><span><b>1 litro</b>.</span></span></button></div></div>",
-"quiz": [
-{
-"p": "Um terreno de 1 hectare corresponde a uma área de 10.000 metros quadrados.",
-"c": true,
-"prof": "Certo.",
-"x": "Um hectare equivale a um quadrado de 100 m de lado: 100 × 100 = 10.000 m².",
-"e": "1 ha = 10.000 m²."
-},
-{
-"p": "Um reservatório com 2 m³ de capacidade comporta 200 litros.",
-"c": false,
-"prof": "Comporta 2.000 litros.",
-"x": "Cada metro cúbico equivale a 1.000 litros. Logo, 2 m³ = 2.000 L.",
-"e": "1 m³ = 1.000 L."
-},
-{
-"p": "O ponto (−2, −7) está localizado no segundo quadrante.",
-"c": false,
-"prof": "Está no terceiro quadrante.",
-"x": "No segundo quadrante, x é negativo e y é positivo. Com as duas coordenadas negativas, o ponto está no terceiro quadrante.",
-"e": "(−, −): 3º quadrante."
-},
-{
-"p": "Uma diligência durou 2,4 horas. Esse tempo corresponde a:",
-"alts": [
-"2 h 40 min",
-"2 h 24 min",
-"2 h 4 min",
-"2 h 14 min",
-"2 h 30 min"
-],
-"r": 1,
-"n": [
-"Erro comum: ler 0,4 como 40 minutos.",
-"Correta: 0,4 × 60 = 24 min.",
-"Cálculo errado.",
-"Cálculo errado.",
-"Seria 2,5 h."
-],
-"prof": "Decimal × 60.",
-"x": "A parte decimal da hora é fração de 60 minutos: 0,4 × 60 = 24. Portanto, 2,4 h = 2 h 24 min.",
-"e": "2,4 h = 2 h 24 min."
-},
-{
-"p": "Uma piscina tem 10 m de comprimento, 5 m de largura e 1,2 m de profundidade. Estando completamente cheia, contém:",
-"alts": [
-"6.000 litros",
-"600 litros",
-"60.000 litros",
-"600.000 litros",
-"16.200 litros"
-],
-"r": 2,
-"n": [
-"Faltou multiplicar por 10.",
-"Erro de conversão.",
-"Correta: 10 × 5 × 1,2 = 60 m³ = 60.000 L.",
-"Conversão exagerada.",
-"Somou as medidas."
-],
-"prof": "Volume e conversão.",
-"x": "V = 10 × 5 × 1,2 = 60 m³. Como 1 m³ = 1.000 L, a piscina comporta 60.000 litros.",
-"e": "60 m³ = 60.000 L."
-},
-{
-"p": "Um terreno de 1 hectare corresponde a uma área de 10.000 metros quadrados.",
-"c": true,
-"prof": "Certo.",
-"x": "1 ha equivale a um quadrado de 100 m × 100 m.",
-"e": "1 ha = 10.000 m²."
-},
-{
-"p": "Um reservatório com 2 m³ de capacidade comporta 200 litros.",
-"c": false,
-"prof": "Fator de conversão errado.",
-"x": "1 m³ = 1.000 L, então 2 m³ = 2.000 L.",
-"e": "2 m³ = 2.000 L."
-},
-{
-"p": "A distância entre os pontos A(0, 0) e B(6, 8) do plano cartesiano é igual a 10.",
-"c": true,
-"prof": "Certo.",
-"x": "d = √(6² + 8²) = √(36 + 64) = √100 = 10.",
-"e": "d = 10."
-},
-{
-"p": "O ponto (−2, −7) está localizado no segundo quadrante.",
-"c": false,
-"prof": "Confira os sinais.",
-"x": "Com x e y negativos, o ponto está no 3º quadrante. O 2º quadrante tem x negativo e y positivo.",
-"e": "(−,−) = 3º quadrante."
-},
-{
-"p": "Uma diligência durou 2,4 horas. Esse tempo corresponde a:",
-"alts": [
-"2 h 4 min",
-"2 h 40 min",
-"2 h 24 min",
-"2 h 14 min",
-"2 h 30 min"
-],
-"r": 2,
-"n": [
-"Leu o decimal como minutos.",
-"Leu 0,4 h como 40 min.",
-"Correta: 0,4 × 60 = 24 min.",
-"Cálculo errado.",
-"0,5 h seria 30 min."
-],
-"prof": "A parte decimal da hora multiplica por 60.",
-"x": "0,4 h × 60 min = 24 min. Portanto, 2,4 h = 2 h 24 min.",
-"e": "0,4 h = 24 min."
-},
-{
-"p": "O ponto médio entre A(2, 3) e B(8, 11) é:",
-"alts": [
-"(6, 8)",
-"(5, 7)",
-"(10, 14)",
-"(3, 4)",
-"(4, 7)"
-],
-"r": 1,
-"n": [
-"Diferenças, não média.",
-"Correta.",
-"Soma, sem dividir.",
-"Cálculo errado.",
-"x errado."
-],
-"prof": "Média das coordenadas.",
-"x": "M = ((2+8)/2 ; (3+11)/2) = (5 ; 7).",
-"e": "(5, 7)."
-},
-{
-"p": "Uma piscina tem 10 m de comprimento, 5 m de largura e 1,2 m de profundidade. Estando completamente cheia, contém:",
-"alts": [
-"6.000 litros",
-"600 litros",
-"60.000 litros",
-"6.000.000 litros",
-"60 litros"
-],
-"r": 2,
-"n": [
-"Errou a conversão.",
-"Errou a conversão.",
-"Correta.",
-"Errou a conversão.",
-"Errou a conversão."
-],
-"prof": "Volume em m³, depois ×1.000.",
-"x": "V = 10 × 5 × 1,2 = 60 m³ = 60 × 1.000 L = 60.000 L.",
-"e": "60.000 L."
 }
 ]
 }
