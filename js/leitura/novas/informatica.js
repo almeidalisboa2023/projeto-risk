@@ -708,7 +708,7 @@ export default {
 {
 "id": "certificacao-software-livre",
 "titulo": "Certificação digital, ICP-Brasil, criptografia PGP e software livre",
-"arts": "Editores de apresentação",
+"arts": "Licenças de software e software livre",
 "chaves": [
 "certificacao digital",
 "certificado digital",
@@ -981,7 +981,7 @@ export default {
 {
 "id": "apresentacoes",
 "titulo": "Apresentações: PowerPoint 2016 e LibreOffice Impress 7.1",
-"arts": "Licenças de software e software livre",
+"arts": "Editores de apresentação",
 "chaves": [
 "powerpoint",
 "impress",
