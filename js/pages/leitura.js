@@ -37,7 +37,8 @@ const POR_PAG = 10;
 
 // ---------- Situação do conteúdo: verde (completo), vermelho (falta), amarelo (precisa atualizar, só admin) ----------
 // Tópico completo = cerca de 1 hora de leitura (55 min ou mais) e 100 questões ou mais
-const topicoCompleto = (a) => minutosLeitura(a.html + (a.aprof || ''), 0) >= 55 && (a.quiz || []).length >= 100;
+// Matéria de consulta (Constituição e o Supremo): conteúdo do STF sob demanda, conta como completa
+const topicoCompleto = (a) => !!a.consulta || minutosLeitura(a.html + (a.aprof || ''), 0) >= 55 && (a.quiz || []).length >= 100;
 const materiaCompleta = (m) => m.assuntos.length > 0 && m.assuntos.every(topicoCompleto);
 let REV = null; // { 'materia' ou 'materia/assunto': [motivos] }
 async function carregarRevisoes(mats) {

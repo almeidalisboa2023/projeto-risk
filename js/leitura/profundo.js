@@ -98101,5 +98101,5396 @@ export const PROFUNDO = {
 }
 ]
 }
+},
+"etica-cidadania": {
+"codigo-etica": {
+"html": "<h3>1. O Decreto 1.171/1994: estrutura e alcance</h3>\n<ul><li>O <b>Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal</b> foi aprovado pelo <b>Decreto 1.171, de 22 de junho de 1994</b>, e está no <b>Anexo</b> desse decreto. É um dos textos mais cobrados em provas de ética, quase sempre pela <b>literalidade</b>.</li><li>O decreto em si tem poucos artigos: aprova o Código (art. 1º) e determina que os órgãos e entidades da administração pública federal direta e indireta <b>implementem, em 60 dias</b>, as providências necessárias à plena vigência do Código, inclusive mediante a <b>constituição da respectiva Comissão de Ética</b>, integrada por <b>três servidores ou empregados titulares de cargo efetivo ou emprego permanente</b> (art. 2º). A composição e o funcionamento das comissões foram depois detalhados pelo <b>Decreto 6.029/2007</b>.</li><li><b>Estrutura do Anexo</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Parte; Conteúdo; Regras</th></tr></thead><tbody><tr><td>Capítulo I, Seção I; Regras deontológicas (princípios e valores); I a XIII</td></tr><tr><td>Capítulo I, Seção II; Principais deveres do servidor público; XIV (alíneas a a v)</td></tr><tr><td>Capítulo I, Seção III; Vedações ao servidor público; XV (alíneas a a p)</td></tr><tr><td>Capítulo II; Comissões de Ética; XVI a XXV (várias revogadas pelo Decreto 6.029/2007)</td></tr></tbody></table>\n<ul><li><b>Alcance subjetivo</b>: para fins de apuração do comprometimento ético, entende-se por <b>servidor público</b> todo aquele que, por força de <b>lei, contrato ou qualquer ato jurídico</b>, preste serviços de natureza <b>permanente, temporária ou excepcional</b>, <b>ainda que sem retribuição financeira</b>, desde que ligado direta ou indiretamente a qualquer órgão do poder estatal, como as <b>autarquias, as fundações públicas, as entidades paraestatais, as empresas públicas e as sociedades de economia mista</b>, ou em qualquer setor onde prevaleça o interesse do Estado (regra XXIV).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 1.171/1994</span></span><span class=\"vs\"><span>Código de Ética do servidor civil do Executivo federal (Anexo)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo para implementação</span></span><span class=\"vs\"><span>60 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comissão de Ética (art. 2º)</span></span><span class=\"vs\"><span>3 servidores ou empregados efetivos/permanentes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regras deontológicas</span></span><span class=\"vs\"><span>I a XIII</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Deveres</span></span><span class=\"vs\"><span>XIV</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vedações</span></span><span class=\"vs\"><span>XV</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comissões</span></span><span class=\"vs\"><span>XVI a XXV</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Para o Código de Ética, só é servidor público quem ocupa cargo efetivo e recebe remuneração</span><br>✅ <span class=\"certo\">o conceito é amplíssimo: abrange serviço permanente, <b>temporário ou excepcional</b>, <b>ainda que sem retribuição</b>, inclusive em <b>empresas públicas e sociedades de economia mista</b> (regra XXIV)</span></li><li>❌ <span class=\"banca\">O Código de Ética aplica-se apenas à administração direta</span><br>✅ <span class=\"certo\">alcança também autarquias, fundações, paraestatais, empresas públicas e sociedades de economia mista</span></li></ol></div>\n<h3>2. Regras deontológicas (I a XIII): o espírito do Código</h3>\n<ul><li>As regras deontológicas não descrevem condutas proibidas; elas expressam os <b>valores</b> que devem orientar o servidor. São muito cobradas porque usam frases marcantes, fáceis de transformar em itens com uma palavra trocada.</li><li><b>Regra I</b>: a <b>dignidade, o decoro, o zelo, a eficácia e a consciência dos princípios morais</b> são primados maiores que devem nortear o servidor público, <b>seja no exercício do cargo ou função, ou fora dele</b>, já que refletirá o exercício da vocação do próprio poder estatal. Seus atos, comportamentos e atitudes serão direcionados para a preservação da <b>honra e da tradição</b> dos serviços públicos.</li><li><b>Regra II</b>: o servidor não poderá jamais desprezar o <b>elemento ético</b> de sua conduta. Assim, não terá que decidir somente entre o legal e o ilegal, o justo e o injusto, o conveniente e o inconveniente, o oportuno e o inoportuno, mas <b>principalmente entre o honesto e o desonesto</b>, consoante as regras contidas no art. 37, caput, e § 4º, da Constituição.</li><li><b>Regra III</b>: a moralidade da Administração Pública não se limita à distinção entre o bem e o mal, devendo ser acrescida da ideia de que o <b>fim é sempre o bem comum</b>. O <b>equilíbrio entre a legalidade e a finalidade</b>, na conduta do servidor, é que poderá consolidar a moralidade do ato administrativo.</li><li><b>Regra IV</b>: a remuneração do servidor é custeada pelos tributos pagos direta ou indiretamente por todos, <b>até por ele próprio</b>, e por isso se exige, como contrapartida, que a moralidade administrativa se integre no Direito, como elemento indissociável de sua aplicação e de sua finalidade, erigindo-se, como consequência, em fator de legalidade.</li><li><b>Regra V</b>: o trabalho desenvolvido pelo servidor perante a comunidade deve ser entendido como <b>acréscimo ao seu próprio bem-estar</b>, já que, como cidadão, integrante da sociedade, o êxito desse trabalho pode ser considerado como seu <b>maior patrimônio</b>.</li><li><b>Regra VI</b>: a função pública deve ser tida como <b>exercício profissional</b> e, portanto, <b>se integra na vida particular</b> de cada servidor. Assim, os fatos e atos verificados na conduta do dia a dia em sua vida privada poderão <b>acrescer ou diminuir o seu bom conceito</b> na vida funcional.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra I</span></span><span class=\"vs\"><span>Dignidade, decoro, zelo, eficácia e consciência dos princípios morais, dentro e fora do cargo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra II</span></span><span class=\"vs\"><span>Principalmente entre o honesto e o desonesto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra III</span></span><span class=\"vs\"><span>Fim é sempre o bem comum; equilíbrio entre legalidade e finalidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra IV</span></span><span class=\"vs\"><span>Remuneração custeada por todos, até pelo próprio servidor</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra VI</span></span><span class=\"vs\"><span>Função pública integra-se na vida particular</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A regra I limita os primados éticos ao exercício do cargo, não alcançando a conduta fora dele</span><br>✅ <span class=\"certo\">alcança a conduta <b>no exercício do cargo ou fora dele</b></span></li><li>❌ <span class=\"banca\">A regra III afirma que a moralidade se limita à distinção entre o bem e o mal</span><br>✅ <span class=\"certo\">diz que <b>não se limita</b> a isso: deve ser acrescida da ideia de que o <b>fim é sempre o bem comum</b></span></li><li>❌ <span class=\"banca\">A regra V afirma que o êxito do trabalho do servidor é patrimônio exclusivo da Administração</span><br>✅ <span class=\"certo\">pode ser considerado o <b>maior patrimônio do próprio servidor</b>, como cidadão</span></li></ol></div>\n<h3>3. Regras deontológicas VII a XIII: publicidade, verdade, cortesia e assiduidade</h3>\n<ul><li>As regras VII a XIII aproximam os valores do dia a dia da repartição. Elas tratam de temas muito concretos: <b>publicidade dos atos</b>, <b>direito à verdade</b>, <b>cortesia no atendimento</b>, <b>filas e atrasos</b>, <b>atenção às ordens legais</b>, <b>faltas ao serviço</b> e <b>trabalho em harmonia</b> com a estrutura do órgão. Por serem frases longas e cheias de expressões fortes (\"dano moral\", \"desmoralização do serviço público\", \"grave dano moral aos usuários\"), as bancas costumam trocar uma palavra e perguntar se o item ficou certo.</li></ul>\n<h4>Regra VII: publicidade como requisito de eficácia e moralidade</h4>\n<ul><li><b>Texto</b>: salvo os casos de <b>segurança nacional</b>, <b>investigações policiais</b> ou <b>interesse superior do Estado e da Administração Pública</b>, a serem preservados em processo <b>previamente declarado sigiloso</b>, nos termos da lei, a <b>publicidade</b> de qualquer ato administrativo constitui <b>requisito de eficácia e moralidade</b>, ensejando sua omissão comprometimento ético contra o bem comum, <b>imputável a quem a negar</b>.</li><li><b>O que a regra quer dizer</b>: a regra geral é a publicidade. O sigilo é exceção e depende de três coisas: hipótese prevista (segurança nacional, investigação policial, interesse superior do Estado), <b>declaração prévia</b> de sigilo e base <b>legal</b>. O servidor que nega publicidade fora dessas hipóteses comete falta ética, e a responsabilidade é pessoal (\"imputável a quem a negar\").</li><li><b>Ligação com outras normas</b>: a regra conversa com o princípio da publicidade (CF, art. 37, caput), com o direito de receber informações dos órgãos públicos (CF, art. 5º, XXXIII) e com a Lei de Acesso à Informação (Lei 12.527/2011), que trata a publicidade como preceito geral e o sigilo como exceção.</li><li><b>Exemplo</b>: um agente de fiscalização se recusa a informar ao cidadão autuado qual norma fundamentou a autuação, dizendo que \"isso é interno\". Não há investigação sigilosa nem declaração de sigilo: há omissão de publicidade, com comprometimento ético imputável ao agente.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Segundo o Código, a publicidade é mera faculdade da Administração, que pode omiti-la por conveniência</span><br>✅ <span class=\"certo\">a publicidade é <b>requisito de eficácia e moralidade</b>; sua omissão gera comprometimento ético <b>imputável a quem a negar</b></span></li><li>❌ <span class=\"banca\">O sigilo pode ser decretado depois que a informação já foi pedida, a critério do servidor que a detém</span><br>✅ <span class=\"certo\">o processo deve ser <b>previamente declarado sigiloso</b>, <b>nos termos da lei</b>, e só nas hipóteses de segurança nacional, investigações policiais ou interesse superior do Estado</span></li></ol></div>\n<h4>Regra VIII: o direito à verdade</h4>\n<ul><li><b>Texto</b>: toda pessoa tem <b>direito à verdade</b>. O servidor <b>não pode omiti-la ou falseá-la</b>, <b>ainda que contrária aos interesses da própria pessoa interessada ou da Administração Pública</b>. Nenhum Estado pode crescer ou estabilizar-se sobre o poder corruptivo do hábito do <b>erro</b>, da <b>opressão</b> ou da <b>mentira</b>, que sempre aniquilam até mesmo a dignidade humana, quanto mais a de uma Nação.</li><li><b>Ponto de prova</b>: a verdade é devida <b>mesmo quando desagrada</b> a pessoa ou a própria Administração. A banca adora o item que diz que o servidor \"pode omitir a verdade para proteger a imagem do órgão\" ou \"quando a informação for contrária ao interesse da Administração\": está <b>errado</b>.</li><li><b>Exemplo</b>: num atendimento, o servidor percebe que o próprio órgão perdeu o processo do cidadão. Mentir dizendo que \"o processo está em análise\" viola a regra VIII. O correto é informar a verdade e adotar as providências para reconstituir o processo.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra VII</span></span><span class=\"vs\"><span>Publicidade é requisito de eficácia e moralidade; sigilo só em processo previamente declarado sigiloso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra VIII</span></span><span class=\"vs\"><span>Direito à verdade, ainda que contrária ao interesse do interessado ou da Administração</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Três males da regra VIII</span></span><span class=\"vs\"><span>Erro, opressão e mentira</span></span></button></div></div>\n<h4>Regra IX: cortesia e cuidado com o patrimônio</h4>\n<ul><li><b>Texto</b>: a <b>cortesia</b>, a <b>boa vontade</b>, o <b>cuidado</b> e o <b>tempo</b> dedicados ao serviço público caracterizam o <b>esforço pela disciplina</b>. <b>Tratar mal</b> uma pessoa que paga seus tributos direta ou indiretamente significa <b>causar-lhe dano moral</b>. Da mesma forma, causar dano a qualquer bem do patrimônio público, deteriorando-o <b>por descuido ou má vontade</b>, não constitui apenas ofensa ao equipamento, às instalações ou ao Estado, mas <b>a todos os homens de boa vontade</b> que dedicaram inteligência, tempo, esperanças e esforços para construí-los.</li><li><b>Leitura didática</b>: o Código liga duas ideias. O mau atendimento é tratado como <b>dano moral</b> ao cidadão contribuinte. A destruição do patrimônio público por descuido ofende <b>toda a coletividade</b>, e não apenas o Estado como pessoa jurídica.</li><li><b>Exemplo policial</b>: o agente que trata com grosseria o condutor parado numa fiscalização regular, ou que danifica a viatura por uso descuidado, contraria a regra IX, independentemente de eventual responsabilidade disciplinar ou civil.</li></ul>\n<h4>Regra X: filas e atrasos</h4>\n<ul><li><b>Texto</b>: deixar o servidor público qualquer pessoa <b>à espera de solução</b> que compete ao setor em que exerça suas funções, permitindo a formação de <b>longas filas</b>, ou qualquer outra espécie de <b>atraso</b> na prestação do serviço, <b>não caracteriza apenas</b> atitude contra a ética ou ato de desumanidade, mas <b>principalmente grave dano moral aos usuários</b> dos serviços públicos.</li><li><b>Palavra-chave</b>: \"principalmente grave dano moral\". Um item que diga que a demora \"caracteriza apenas ato de desumanidade, sem repercussão para o usuário\" está errado.</li><li><b>Ligação com os deveres</b>: a regra X é a base do dever da alínea <b>b</b> do inciso XIV (resolver prioritariamente situações procrastinatórias, principalmente diante de filas).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Para o Código, a formação de longas filas por desídia do servidor caracteriza apenas falta de urbanidade, sem gerar dano ao usuário</span><br>✅ <span class=\"certo\">caracteriza <b>principalmente grave dano moral aos usuários</b> dos serviços públicos (regra X)</span></li><li>❌ <span class=\"banca\">Segundo a regra IX, o dano ao patrimônio público por descuido ofende apenas o ente estatal proprietário do bem</span><br>✅ <span class=\"certo\">ofende <b>todos os homens de boa vontade</b> que dedicaram esforços para construí-lo, e não só o Estado</span></li></ol></div>\n<h4>Regra XI: atenção às ordens legais e negligência</h4>\n<ul><li><b>Texto</b>: o servidor deve prestar toda a sua atenção às <b>ordens legais</b> de seus superiores, velando atentamente por seu cumprimento, e, assim, evitando a <b>conduta negligente</b>. Os <b>repetidos erros</b>, o <b>descaso</b> e o <b>acúmulo de desvios</b> tornam-se, às vezes, difíceis de corrigir e caracterizam <b>até mesmo imprudência</b> no desempenho da função pública.</li><li><b>Atenção ao adjetivo</b>: são as ordens <b>legais</b>. O Código não manda cumprir ordem manifestamente ilegal; ao contrário, a alínea <b>h</b> do inciso XIV manda respeitar a hierarquia \"sem nenhum temor de representar\" contra comprometimentos indevidos, e a alínea <b>i</b> manda <b>resistir a pressões</b> de superiores que visem vantagens indevidas. A mesma lógica aparece na Lei 8.112/1990, que manda cumprir as ordens superiores, <b>exceto quando manifestamente ilegais</b> (art. 116, IV).</li></ul>\n<h4>Regra XII: ausência injustificada</h4>\n<ul><li><b>Texto</b>: toda <b>ausência injustificada</b> do servidor de seu local de trabalho é <b>fator de desmoralização do serviço público</b>, o que quase sempre conduz à <b>desordem nas relações humanas</b>.</li><li><b>Relação com os deveres</b>: a regra XII fundamenta a alínea <b>l</b> do inciso XIV (ser assíduo e frequente ao serviço). Na Lei 8.112, a falta reiterada tem consequência disciplinar própria: <b>inassiduidade habitual</b> (60 dias interpolados em 12 meses) e <b>abandono de cargo</b> (mais de 30 dias consecutivos) geram <b>demissão</b>. No Código de Ética, a consequência é a <b>censura</b>, sem prejuízo da apuração disciplinar.</li></ul>\n<h4>Regra XIII: trabalho em harmonia</h4>\n<ul><li><b>Texto</b>: o servidor que trabalha em <b>harmonia com a estrutura organizacional</b>, respeitando seus colegas e cada concidadão, <b>colabora e de todos pode receber colaboração</b>, pois sua atividade pública é a <b>grande oportunidade para o crescimento e o engrandecimento da Nação</b>.</li><li><b>Sentido</b>: a regra fecha as deontológicas com uma visão positiva, de cooperação. É pouco cobrada isoladamente, mas aparece em itens que pedem a \"finalidade\" das regras deontológicas.</li></ul>\n<table class=\"tab\"><thead><tr><th>Regra; Ideia central; Expressão que a banca troca</th></tr></thead><tbody><tr><td>VII; Publicidade como requisito de eficácia e moralidade; \"previamente declarado sigiloso\" e \"imputável a quem a negar\"</td></tr><tr><td>VIII; Direito à verdade; \"ainda que contrária aos interesses da própria pessoa ou da Administração\"</td></tr><tr><td>IX; Cortesia e cuidado com o patrimônio; \"tratar mal ... causar-lhe dano moral\"</td></tr><tr><td>X; Filas e atrasos; \"principalmente grave dano moral aos usuários\"</td></tr><tr><td>XI; Ordens legais e negligência; \"repetidos erros ... até mesmo imprudência\"</td></tr><tr><td>XII; Ausência injustificada; \"fator de desmoralização do serviço público\"</td></tr><tr><td>XIII; Harmonia com a estrutura; \"grande oportunidade para o crescimento da Nação\"</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para memorizar a sequência VII a XIII, pense num dia de atendimento: o servidor <b>publica</b> (VII), diz a <b>verdade</b> (VIII), é <b>cortês</b> (IX), não deixa <b>fila</b> (X), cumpre <b>ordens legais</b> (XI), não <b>falta</b> (XII) e trabalha em <b>harmonia</b> (XIII). Sequência: <b>Publicidade, Verdade, Cortesia, Fila, Ordem, Falta, Harmonia</b>.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra IX</span></span><span class=\"vs\"><span>Tratar mal o contribuinte é dano moral</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra X</span></span><span class=\"vs\"><span>Filas e atrasos: principalmente grave dano moral</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra XI</span></span><span class=\"vs\"><span>Ordens legais; repetidos erros caracterizam até imprudência</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra XII</span></span><span class=\"vs\"><span>Ausência injustificada desmoraliza o serviço público</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra XIII</span></span><span class=\"vs\"><span>Harmonia: colabora e recebe colaboração</span></span></button></div></div>\n<h3>4. Os deveres fundamentais (inciso XIV, alíneas a a v)</h3>\n<ul><li>O inciso XIV lista os <b>principais deveres</b> do servidor. São 21 alíneas (de <b>a</b> a <b>v</b>, sem a letra <b>k</b>, como era a técnica de redação da época). As bancas cobram a literalidade e, principalmente, a <b>diferença entre dever e vedação</b>: um mesmo assunto pode aparecer nos dois incisos (por exemplo, \"informações\" aparece como dever de facilitar a fiscalização e como vedação de uso de informação privilegiada).</li><li>Um modo eficiente de estudar é agrupar as alíneas por tema. Assim fica mais fácil reconhecer o item que \"inventou\" um dever ou trocou um verbo.</li></ul>\n<h4>Grupo 1: tempo, rapidez e eficiência</h4>\n<ul><li><b>a)</b> desempenhar, <b>a tempo</b>, as atribuições do cargo, função ou emprego público de que seja titular.</li><li><b>b)</b> exercer suas atribuições com <b>rapidez, perfeição e rendimento</b>, pondo fim ou procurando <b>prioritariamente</b> resolver situações <b>procrastinatórias</b>, principalmente diante de <b>filas</b> ou de qualquer outra espécie de atraso na prestação dos serviços pelo setor em que exerça suas atribuições, com o fim de <b>evitar dano moral ao usuário</b>.</li><li><b>r)</b> cumprir, de acordo com as normas do serviço e as instruções superiores, as tarefas de seu cargo ou função, <b>tanto quanto possível, com critério, segurança e rapidez</b>, mantendo tudo sempre em boa ordem.</li><li><b>d)</b> <b>jamais retardar</b> qualquer <b>prestação de contas</b>, condição essencial da gestão dos bens, direitos e serviços da coletividade a seu cargo.</li><li><b>Leitura de prova</b>: \"rapidez, perfeição e rendimento\" (alínea b) e \"critério, segurança e rapidez\" (alínea r) são trios que a banca embaralha. A prestação de contas é tratada com o advérbio mais forte do inciso: <b>jamais</b> retardar.</li></ul>\n<h4>Grupo 2: caráter e escolha pelo bem comum</h4>\n<ul><li><b>c)</b> ser <b>probo, reto, leal e justo</b>, demonstrando toda a integridade do seu caráter, escolhendo sempre, quando estiver diante de duas opções, <b>a melhor e a mais vantajosa para o bem comum</b>.</li><li><b>f)</b> ter <b>consciência</b> de que seu trabalho é regido por <b>princípios éticos</b> que se materializam na <b>adequada prestação dos serviços públicos</b>.</li><li><b>u)</b> <b>abster-se, de forma absoluta</b>, de exercer sua função, poder ou autoridade com <b>finalidade estranha ao interesse público</b>, <b>mesmo que observando as formalidades legais</b> e não cometendo qualquer violação expressa à lei.</li><li><b>A alínea u é das mais cobradas</b>: ela mostra que o Código exige mais do que a legalidade formal. Um ato pode cumprir todas as formalidades e, ainda assim, ser antiético se tiver <b>finalidade estranha ao interesse público</b> (é a ideia do <b>desvio de finalidade</b>). Item típico: \"Não há falta ética se o servidor observou todas as formalidades legais\" — <b>errado</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Segundo o Código, se o servidor observar as formalidades legais e não violar expressamente a lei, não há falta ética, ainda que a finalidade do ato seja alheia ao interesse público</span><br>✅ <span class=\"certo\">deve <b>abster-se, de forma absoluta</b>, de agir com <b>finalidade estranha ao interesse público</b>, <b>mesmo que observando as formalidades legais</b> (XIV, u)</span></li><li>❌ <span class=\"banca\">Diante de duas opções, o servidor deve escolher a mais vantajosa para a Administração</span><br>✅ <span class=\"certo\">deve escolher <b>a melhor e a mais vantajosa para o bem comum</b> (XIV, c)</span></li></ol></div>\n<h4>Grupo 3: atendimento e respeito ao usuário</h4>\n<ul><li><b>e)</b> tratar <b>cuidadosamente</b> os usuários dos serviços, <b>aperfeiçoando o processo de comunicação</b> e contato com o público.</li><li><b>g)</b> ser <b>cortês</b>, ter <b>urbanidade</b>, <b>disponibilidade</b> e <b>atenção</b>, respeitando a capacidade e as limitações individuais de todos os usuários do serviço público, <b>sem qualquer espécie de preconceito ou distinção</b> de raça, sexo, nacionalidade, cor, idade, religião, cunho político e posição social, abstendo-se, dessa forma, de causar-lhes <b>dano moral</b>.</li><li><b>t)</b> exercer com <b>estrita moderação</b> as <b>prerrogativas funcionais</b> que lhe sejam atribuídas, abstendo-se de fazê-lo contrariamente aos legítimos interesses dos usuários do serviço público e dos jurisdicionados administrativos.</li><li><b>Aplicação policial</b>: a alínea <b>t</b> é especialmente relevante para quem exerce poder de polícia. O policial tem prerrogativas (abordar, fiscalizar, reter documento, remover veículo), mas deve usá-las com <b>estrita moderação</b>, sem excesso e sem contrariar os legítimos interesses do cidadão. Excesso no uso de prerrogativa, além de falta ética, pode configurar abuso de autoridade (Lei 13.869/2019).</li></ul>\n<h4>Grupo 4: hierarquia, pressões e denúncia</h4>\n<ul><li><b>h)</b> ter <b>respeito à hierarquia</b>, porém <b>sem nenhum temor de representar</b> contra qualquer comprometimento indevido da estrutura em que se funda o Poder Estatal.</li><li><b>i)</b> <b>resistir a todas as pressões</b> de <b>superiores hierárquicos</b>, de <b>contratantes</b>, <b>interessados</b> e outros que visem obter quaisquer favores, benesses ou vantagens indevidas em decorrência de ações imorais, ilegais ou aéticas <b>e denunciá-las</b>.</li><li><b>m)</b> <b>comunicar imediatamente</b> a seus superiores todo e qualquer ato ou fato <b>contrário ao interesse público</b>, <b>exigindo</b> as providências cabíveis.</li><li><b>s)</b> <b>facilitar a fiscalização</b> de todos os atos ou serviços por quem de direito.</li><li><b>Leitura conjunta</b>: o Código equilibra <b>hierarquia</b> e <b>integridade</b>. Respeitar o chefe não significa obedecer a pedido imoral: o servidor deve <b>resistir</b> e <b>denunciar</b>, inclusive se a pressão vier do superior. A alínea m não fala em \"sugerir\" providências, mas em <b>exigir</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O dever de resistir a pressões alcança apenas as pressões de particulares interessados, não as de superiores hierárquicos, em respeito à hierarquia</span><br>✅ <span class=\"certo\">alcança <b>todas as pressões</b>, inclusive de <b>superiores hierárquicos</b>, contratantes e interessados, e inclui o dever de <b>denunciá-las</b> (XIV, i)</span></li><li>❌ <span class=\"banca\">O servidor deve comunicar aos superiores os atos contrários ao interesse público quando julgar conveniente, podendo sugerir providências</span><br>✅ <span class=\"certo\">deve comunicar <b>imediatamente</b> e <b>exigir</b> as providências cabíveis (XIV, m)</span></li></ol></div>\n<h4>Grupo 5: greve, assiduidade, local e apresentação</h4>\n<ul><li><b>j)</b> zelar, <b>no exercício do direito de greve</b>, pelas exigências específicas da <b>defesa da vida e da segurança coletiva</b>.</li><li><b>l)</b> ser <b>assíduo e frequente</b> ao serviço, na certeza de que sua ausência provoca danos ao trabalho ordenado, refletindo negativamente em todo o sistema.</li><li><b>n)</b> manter <b>limpo e em perfeita ordem</b> o local de trabalho, seguindo os métodos mais adequados à sua organização e distribuição.</li><li><b>p)</b> apresentar-se ao trabalho com <b>vestimentas adequadas</b> ao exercício da função.</li><li><b>Atenção sobre greve</b>: o Código <b>reconhece</b> o direito de greve do servidor civil e impõe um dever <b>durante</b> a greve (zelar pela vida e pela segurança coletiva). Lembre que, para policiais, o STF entende que a greve é <b>vedada</b> (Tema 541), por se tratar de atividade armada essencial à segurança pública.</li></ul>\n<h4>Grupo 6: atualização, melhoria e divulgação do Código</h4>\n<ul><li><b>o)</b> <b>participar</b> dos movimentos e estudos que se relacionem com a <b>melhoria do exercício de suas funções</b>, tendo por escopo a realização do bem comum.</li><li><b>q)</b> manter-se <b>atualizado</b> com as instruções, as normas de serviço e a legislação pertinentes ao órgão onde exerce suas funções.</li><li><b>v)</b> <b>divulgar e informar</b> a todos os integrantes da sua classe sobre a existência deste Código de Ética, <b>estimulando o seu integral cumprimento</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Grupo; Alíneas; Palavras-chave</th></tr></thead><tbody><tr><td>Tempo e eficiência; a, b, d, r; a tempo; rapidez, perfeição e rendimento; jamais retardar prestação de contas; critério, segurança e rapidez</td></tr><tr><td>Caráter e bem comum; c, f, u; probo, reto, leal e justo; princípios éticos; finalidade estranha ao interesse público</td></tr><tr><td>Atendimento; e, g, t; cuidadosamente; cortês, urbanidade, sem preconceito; estrita moderação nas prerrogativas</td></tr><tr><td>Hierarquia e integridade; h, i, m, s; sem temor de representar; resistir e denunciar; comunicar imediatamente e exigir; facilitar a fiscalização</td></tr><tr><td>Rotina; j, l, n, p; greve com defesa da vida; assíduo e frequente; local limpo; vestimentas adequadas</td></tr><tr><td>Aperfeiçoamento; o, q, v; participar de estudos; manter-se atualizado; divulgar o Código</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para lembrar que não existe alínea <b>k</b> nos deveres (nem nas vedações), pense que o Código \"pula o K\". Uma questão que cite \"alínea k do inciso XIV\" está inventando dispositivo.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XIV, b</span></span><span class=\"vs\"><span>Rapidez, perfeição e rendimento; resolver procrastinações, sobretudo filas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XIV, c</span></span><span class=\"vs\"><span>Probo, reto, leal e justo; a opção melhor para o bem comum</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XIV, d</span></span><span class=\"vs\"><span>Jamais retardar prestação de contas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XIV, h</span></span><span class=\"vs\"><span>Respeito à hierarquia sem temor de representar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XIV, i</span></span><span class=\"vs\"><span>Resistir a todas as pressões, inclusive de superiores, e denunciar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XIV, j</span></span><span class=\"vs\"><span>Na greve, zelar pela vida e segurança coletiva</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XIV, t</span></span><span class=\"vs\"><span>Estrita moderação nas prerrogativas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XIV, u</span></span><span class=\"vs\"><span>Abster-se de finalidade estranha ao interesse público, mesmo com formalidades legais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XIV, v</span></span><span class=\"vs\"><span>Divulgar o Código à sua classe</span></span></button></div></div>\n<h3>5. As vedações (inciso XV, alíneas a a p)</h3>\n<ul><li>O inciso XV traz o que é <b>vedado</b> ao servidor. São 15 alíneas (de <b>a</b> a <b>p</b>, também sem a letra <b>k</b>). As vedações são a face negativa dos deveres: muitas vezes, o mesmo valor aparece como dever no XIV e como proibição no XV.</li></ul>\n<h4>Grupo 1: uso do cargo e vantagens</h4>\n<ul><li><b>a)</b> o <b>uso do cargo ou função, facilidades, amizades, tempo, posição e influências</b>, para obter <b>qualquer favorecimento, para si ou para outrem</b>.</li><li><b>g)</b> <b>pleitear, solicitar, provocar, sugerir ou receber</b> qualquer tipo de <b>ajuda financeira, gratificação, prêmio, comissão, doação ou vantagem de qualquer espécie</b>, <b>para si, familiares ou qualquer pessoa</b>, para o <b>cumprimento da sua missão</b> ou para <b>influenciar outro servidor</b> para o mesmo fim.</li><li><b>m)</b> fazer uso de <b>informações privilegiadas</b> obtidas no âmbito interno de seu serviço, <b>em benefício próprio, de parentes, de amigos ou de terceiros</b>.</li><li><b>Ponto central da alínea g</b>: a vedação alcança cinco verbos (<b>pleitear, solicitar, provocar, sugerir, receber</b>) e vale até quando a vantagem seria paga \"para o cumprimento da sua missão\", isto é, para fazer aquilo que o servidor já teria de fazer. Não importa se o ato é lícito: receber \"gorjeta\" para cumprir a própria função é vedado. Também é vedado usar a vantagem para <b>influenciar outro servidor</b>.</li><li><b>Exemplo</b>: um motorista multado oferece \"um agrado\" ao agente para que ele \"agilize\" a liberação do veículo que já estava regularizado. Mesmo que a liberação fosse devida, aceitar o agrado viola a alínea g (e, no plano penal, pode configurar corrupção passiva, art. 317 do Código Penal).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A vedação de receber vantagem só se aplica quando o servidor pratica ato ilegal em troca dela</span><br>✅ <span class=\"certo\">é vedado receber vantagem até <b>para o cumprimento da sua missão</b> (ato regular), ou para <b>influenciar outro servidor</b> (XV, g)</span></li><li>❌ <span class=\"banca\">A vedação ao uso de informação privilegiada protege apenas contra benefícios ao próprio servidor</span><br>✅ <span class=\"certo\">alcança benefício <b>próprio, de parentes, de amigos ou de terceiros</b> (XV, m)</span></li><li>❌ <span class=\"banca\">O uso de amizades e influências só é vedado quando o favorecimento é para o próprio servidor</span><br>✅ <span class=\"certo\">é vedado o favorecimento <b>para si ou para outrem</b> (XV, a)</span></li></ol></div>\n<h4>Grupo 2: lealdade com colegas e cidadãos</h4>\n<ul><li><b>b)</b> <b>prejudicar deliberadamente a reputação</b> de outros servidores ou de cidadãos que deles dependam.</li><li><b>c)</b> ser, em função de seu <b>espírito de solidariedade</b>, <b>conivente</b> com erro ou infração a este Código de Ética ou ao Código de Ética de sua profissão.</li><li><b>f)</b> permitir que <b>perseguições, simpatias, antipatias, caprichos, paixões ou interesses de ordem pessoal</b> interfiram no trato com o público, com os jurisdicionados administrativos ou com colegas hierarquicamente <b>superiores ou inferiores</b>.</li><li><b>Atenção à alínea c</b>: o \"corporativismo\" não justifica acobertar colega. A solidariedade entre servidores é positiva, mas <b>não pode virar conivência</b> com erro ou infração ética. A alínea alcança também o <b>código de ética da profissão</b> (por exemplo, o de médicos, engenheiros ou contadores que sejam servidores).</li><li><b>Atenção à alínea f</b>: são seis fatores pessoais (perseguições, simpatias, antipatias, caprichos, paixões, interesses pessoais) e três destinatários (público, jurisdicionados administrativos e colegas superiores ou inferiores). É a projeção ética do princípio da <b>impessoalidade</b>.</li></ul>\n<h4>Grupo 3: honestidade no atendimento e nos documentos</h4>\n<ul><li><b>d)</b> usar de <b>artifícios para procrastinar ou dificultar</b> o exercício regular de direito por qualquer pessoa, causando-lhe <b>dano moral ou material</b>.</li><li><b>h)</b> <b>alterar ou deturpar</b> o teor de documentos que deva encaminhar para providências.</li><li><b>i)</b> <b>iludir ou tentar iludir</b> qualquer pessoa que necessite do atendimento em serviços públicos.</li><li><b>e)</b> <b>deixar de utilizar os avanços técnicos e científicos</b> ao seu alcance ou do seu conhecimento para atendimento do seu mister.</li><li><b>Observação</b>: a alínea <b>i</b> pune também a <b>tentativa</b> (\"iludir ou tentar iludir\"). A alínea <b>e</b> surpreende muitos candidatos: é vedado deixar de usar a tecnologia disponível. Um servidor que insiste em processos manuais lentos, tendo sistema eletrônico à disposição, contraria o Código.</li></ul>\n<h4>Grupo 4: patrimônio e pessoal da repartição</h4>\n<ul><li><b>j)</b> <b>desviar servidor público</b> para atendimento a <b>interesse particular</b>.</li><li><b>l)</b> <b>retirar da repartição pública, sem estar legalmente autorizado</b>, qualquer documento, livro ou bem pertencente ao patrimônio público.</li><li><b>Exemplos</b>: mandar o motorista do órgão levar o filho do chefe à escola (alínea j); levar para casa, sem autorização, um notebook da repartição ou um processo físico (alínea l). Na Lei 8.112, há proibições parecidas (art. 117, II e XVI: retirar documento sem prévia anuência; utilizar pessoal ou recursos materiais da repartição em serviços ou atividades particulares).</li></ul>\n<h4>Grupo 5: conduta pessoal e reputação</h4>\n<ul><li><b>n)</b> apresentar-se <b>embriagado no serviço</b> ou <b>fora dele habitualmente</b>.</li><li><b>o)</b> dar o seu <b>concurso</b> a qualquer instituição que atente contra a <b>moral, a honestidade ou a dignidade da pessoa humana</b>.</li><li><b>p)</b> exercer <b>atividade profissional aética</b> ou ligar o seu nome a <b>empreendimentos de cunho duvidoso</b>.</li><li><b>Alínea n: cuidado com a estrutura da frase</b>. No serviço, basta uma vez: é vedado apresentar-se embriagado <b>no serviço</b>. Fora do serviço, a vedação exige <b>habitualidade</b> (\"fora dele habitualmente\"). A banca costuma inverter: \"é vedado apresentar-se embriagado no serviço habitualmente\" (errado: no serviço não se exige habitualidade) ou \"é vedado apresentar-se embriagado fora do serviço, ainda que eventualmente\" (errado: fora do serviço exige-se habitualidade).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">É vedado ao servidor apresentar-se embriagado no serviço, desde que de forma habitual</span><br>✅ <span class=\"certo\">no serviço, a vedação <b>não exige habitualidade</b>; a habitualidade só é exigida <b>fora do serviço</b> (XV, n)</span></li><li>❌ <span class=\"banca\">O Código veda apresentar-se embriagado fora do serviço, ainda que eventualmente</span><br>✅ <span class=\"certo\">fora do serviço, a vedação depende de <b>habitualidade</b></span></li><li>❌ <span class=\"banca\">Por espírito de solidariedade, o servidor pode deixar de comunicar infração ética leve de colega</span><br>✅ <span class=\"certo\">é vedado ser <b>conivente</b> com erro ou infração, ainda que por <b>espírito de solidariedade</b> (XV, c)</span></li></ol></div>\n<table class=\"tab\"><thead><tr><th>Vedação; Alínea; Detalhe que a banca cobra</th></tr></thead><tbody><tr><td>Usar cargo, amizades e influências para favorecimento; a; para si <b>ou para outrem</b></td></tr><tr><td>Prejudicar reputação; b; <b>deliberadamente</b></td></tr><tr><td>Conivência por solidariedade; c; inclui o código de ética <b>da profissão</b></td></tr><tr><td>Procrastinar ou dificultar direito; d; dano <b>moral ou material</b></td></tr><tr><td>Não usar avanços técnicos; e; tecnologia ao seu alcance <b>ou conhecimento</b></td></tr><tr><td>Interferência de paixões e interesses pessoais; f; com público e com colegas <b>superiores ou inferiores</b></td></tr><tr><td>Pedir ou receber vantagem; g; até para o <b>cumprimento da missão</b></td></tr><tr><td>Alterar documentos; h; <b>alterar ou deturpar</b></td></tr><tr><td>Iludir; i; inclui <b>tentar</b> iludir</td></tr><tr><td>Desviar servidor; j; para <b>interesse particular</b></td></tr><tr><td>Retirar bens ou documentos; l; <b>sem estar legalmente autorizado</b></td></tr><tr><td>Informação privilegiada; m; benefício próprio, de parentes, amigos ou terceiros</td></tr><tr><td>Embriaguez; n; no serviço; fora dele <b>habitualmente</b></td></tr><tr><td>Apoiar instituição imoral; o; moral, honestidade ou dignidade</td></tr><tr><td>Atividade aética; p; empreendimentos de <b>cunho duvidoso</b></td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Uma forma de fixar as vedações mais cobradas é a frase: \"<b>Não use o cargo (a), não peça agrado (g), não vaze informação (m), não acoberte colega (c) e não chegue bêbado (n)</b>\".</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XV, a</span></span><span class=\"vs\"><span>Usar cargo, amizades e influências para favorecer a si ou a outrem</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XV, c</span></span><span class=\"vs\"><span>Conivência por solidariedade é vedada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XV, e</span></span><span class=\"vs\"><span>Deixar de usar avanços técnicos é vedado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XV, g</span></span><span class=\"vs\"><span>Pleitear, solicitar, provocar, sugerir ou receber vantagem, até para cumprir a missão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XV, i</span></span><span class=\"vs\"><span>Iludir ou tentar iludir</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XV, n</span></span><span class=\"vs\"><span>Embriagado no serviço, ou fora dele habitualmente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XV, p</span></span><span class=\"vs\"><span>Atividade aética ou empreendimento de cunho duvidoso</span></span></button></div></div>\n<h3>6. Deveres e vedações lado a lado</h3>\n<ul><li>Muitas questões misturam os incisos XIV e XV para ver se o candidato sabe se a conduta é um <b>dever</b> ou uma <b>vedação</b>. O quadro abaixo mostra pares que se completam.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tema; Dever (XIV); Vedação (XV)</th></tr></thead><tbody><tr><td>Atendimento; e, g: tratar cuidadosamente; ser cortês, sem preconceito; f, i: deixar paixões interferirem; iludir o usuário</td></tr><tr><td>Rapidez; a, b: a tempo; resolver procrastinações e filas; d: usar artifícios para procrastinar</td></tr><tr><td>Pressões e vantagens; i: resistir a pressões e denunciá-las; a, g: usar influências; receber vantagens</td></tr><tr><td>Patrimônio; n: manter o local limpo e em ordem; l: retirar bens sem autorização</td></tr><tr><td>Informação; s: facilitar a fiscalização; m: usar informação privilegiada</td></tr><tr><td>Tecnologia; q: manter-se atualizado; e: deixar de usar avanços técnicos</td></tr><tr><td>Colegas; h, m: representar contra irregularidades; c: ser conivente por solidariedade</td></tr></tbody></table>\n<ul><li><b>Técnica para a prova</b>: quando o item disser \"constitui dever do servidor\" e trouxer um verbo negativo (\"abster-se\", \"jamais retardar\"), não se assuste: alguns deveres são redigidos de forma negativa (alíneas d e u). E quando disser \"é vedado\" com conduta positiva (\"deixar de utilizar\"), lembre que vedar uma omissão equivale a exigir a ação.</li></ul>\n<h3>7. Comissões de Ética no Decreto 1.171/1994 (Capítulo II)</h3>\n<ul><li>O Capítulo II do Código cuida das <b>Comissões de Ética</b>. Muitas de suas regras foram <b>revogadas pelo Decreto 6.029/2007</b>, que passou a disciplinar o Sistema de Gestão da Ética do Poder Executivo Federal. Para a prova, é importante saber o que <b>continua em vigor</b> no próprio Código e o que hoje está no Decreto 6.029.</li></ul>\n<h4>Regra XVI: criação e competência da Comissão</h4>\n<ul><li><b>Texto</b>: em todos os órgãos e entidades da Administração Pública Federal <b>direta, indireta autárquica e fundacional</b>, ou em qualquer órgão ou entidade que <b>exerça atribuições delegadas pelo poder público</b>, deverá ser criada uma <b>Comissão de Ética</b>, encarregada de <b>orientar e aconselhar</b> sobre a ética profissional do servidor, no <b>tratamento com as pessoas e com o patrimônio público</b>, competindo-lhe <b>conhecer concretamente de imputação ou de procedimento susceptível de censura</b>.</li><li><b>Leitura</b>: a Comissão tem papel <b>educativo</b> (orientar e aconselhar) e <b>apuratório</b> (conhecer de imputação passível de censura). Ela não substitui a apuração disciplinar da Lei 8.112.</li></ul>\n<h4>Regra XVIII: registros para a carreira</h4>\n<ul><li><b>Texto</b>: à Comissão de Ética incumbe <b>fornecer</b>, aos organismos encarregados da execução do quadro de carreira dos servidores, os <b>registros sobre sua conduta ética</b>, para o efeito de <b>instruir e fundamentar promoções</b> e para todos os demais procedimentos próprios da carreira do servidor público.</li><li><b>Consequência prática</b>: a conduta ética entra na vida funcional. Um registro de censura pode pesar em promoções e outros procedimentos de carreira.</li></ul>\n<h4>Regra XXII: a pena de censura</h4>\n<ul><li><b>Texto</b>: a pena aplicável ao servidor público pela Comissão de Ética é a de <b>censura</b>, e sua fundamentação constará do respectivo <b>parecer</b>, <b>assinado por todos os seus integrantes</b>, com <b>ciência do faltoso</b>.</li><li><b>Três detalhes cobrados</b>:</li><li>A <b>única</b> pena prevista no Código é a <b>censura</b>. Advertência, suspensão e demissão são penalidades <b>disciplinares</b> da Lei 8.112 (art. 127), aplicadas pela autoridade competente após sindicância ou PAD, e não pela Comissão de Ética.</li><li>A fundamentação vai num <b>parecer</b>.</li><li>O parecer é <b>assinado por todos os integrantes</b> da Comissão, com <b>ciência do faltoso</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Comissão de Ética pode aplicar advertência, suspensão ou censura, conforme a gravidade da falta</span><br>✅ <span class=\"certo\">a única pena aplicável pela Comissão de Ética é a <b>censura</b> (regra XXII)</span></li><li>❌ <span class=\"banca\">O parecer que aplica a censura é assinado pelo presidente da Comissão, dispensada a ciência do faltoso</span><br>✅ <span class=\"certo\">é assinado <b>por todos os integrantes</b>, <b>com ciência do faltoso</b></span></li></ol></div>\n<h4>Regra XXIV: o conceito amplo de servidor (já visto)</h4>\n<ul><li>Para fins de apuração do comprometimento ético, é servidor público <b>todo aquele</b> que, por força de <b>lei, contrato ou qualquer ato jurídico</b>, preste serviços de natureza <b>permanente, temporária ou excepcional</b>, <b>ainda que sem retribuição financeira</b>, desde que ligado direta ou indiretamente a qualquer órgão do poder estatal (autarquias, fundações públicas, entidades paraestatais, empresas públicas, sociedades de economia mista) ou a qualquer setor onde prevaleça o interesse do Estado.</li><li><b>Consequência</b>: estagiários, terceirizados em atividade ligada ao órgão, colaboradores eventuais e voluntários podem ter a conduta ética apreciada. Para a Comissão de Ética, o conceito é mais amplo do que o de servidor da Lei 8.112 (pessoa legalmente investida em cargo público).</li></ul>\n<h4>O que foi revogado e onde está hoje</h4>\n<ul><li>As regras <b>XVII, XIX, XX, XXI, XXIII e XXV</b> foram <b>revogadas</b> pelo Decreto 6.029/2007. Elas tratavam de detalhes do funcionamento das comissões (composição, mandato, procedimento), matéria que hoje está no Decreto 6.029.</li><li><b>Pelo Decreto 6.029/2007</b> (detalhes no tópico próprio):</li><li>A Comissão de Ética de cada órgão é composta por <b>três membros titulares e respectivos suplentes</b>, escolhidos entre servidores e empregados do quadro permanente, designados pelo dirigente máximo do órgão, com <b>mandatos não coincidentes de três anos</b>.</li><li>Os trabalhos devem proteger a <b>honra e a imagem</b> da pessoa investigada e a <b>identidade do denunciante</b>, que deve ser mantida sob <b>reserva</b> se ele assim desejar, e são desenvolvidos com <b>celeridade e independência</b>.</li><li>O investigado é notificado para se manifestar por escrito em <b>10 dias</b>; ao final, a Comissão profere <b>decisão conclusiva e fundamentada</b>. Se houver falta ética, além da censura, pode sugerir exoneração de cargo em comissão, encaminhar o caso à <b>CGU</b> ou ao sistema de correição e recomendar a abertura de procedimento administrativo. A Resolução CEP nº 10/2008 prevê ainda o <b>Acordo de Conduta Pessoal e Profissional (ACPP)</b> em certos casos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Assunto; Onde está hoje</th></tr></thead><tbody><tr><td>Comissão em cada órgão e entidade; Decreto 1.171, regra XVI, e Decreto 6.029/2007</td></tr><tr><td>Composição (3 titulares + suplentes, mandato de 3 anos não coincidente); Decreto 6.029/2007 (art. 5º)</td></tr><tr><td>Pena de censura com parecer assinado por todos; Decreto 1.171, regra XXII</td></tr><tr><td>Registros para promoções; Decreto 1.171, regra XVIII</td></tr><tr><td>Conceito amplo de servidor; Decreto 1.171, regra XXIV</td></tr><tr><td>Rito da apuração e ACPP; Decreto 6.029/2007</td></tr></tbody></table>\n<h3>8. Código de Ética x Lei 8.112/1990: dois regimes que convivem</h3>\n<ul><li>Uma mesma conduta pode gerar <b>falta ética</b> (Decreto 1.171) e <b>infração disciplinar</b> (Lei 8.112). As instâncias são <b>independentes</b>, mas se comunicam: a Comissão de Ética pode <b>encaminhar</b> o caso à autoridade competente para apuração disciplinar.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ponto; Código de Ética (Decreto 1.171); Regime disciplinar (Lei 8.112)</th></tr></thead><tbody><tr><td>Quem apura; Comissão de Ética; Autoridade competente, por sindicância ou PAD</td></tr><tr><td>Penalidade; Censura; Advertência, suspensão, demissão, cassação de aposentadoria ou disponibilidade, destituição de cargo em comissão ou de função comissionada</td></tr><tr><td>Alcance subjetivo; Amplíssimo (inclui temporários, sem retribuição, empresas estatais); Servidor investido em cargo público</td></tr><tr><td>Natureza; Ética e pedagógica; Disciplinar e sancionadora</td></tr><tr><td>Efeito na carreira; Registros para promoções; Anotações nos assentamentos e efeitos próprios de cada pena</td></tr></tbody></table>\n<ul><li><b>Exemplo</b>: um agente recebe \"presente\" de valor de quem ele fiscaliza. No plano ético, viola o XV, g, e pode receber <b>censura</b>. No plano disciplinar, viola o art. 117, XII, da Lei 8.112 (receber propina, comissão, presente ou vantagem de qualquer espécie em razão de suas atribuições), punível com <b>demissão</b> (art. 132, XIII). No plano penal, pode haver <b>corrupção passiva</b>. São três esferas distintas.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Guarde a escada: <b>ética → censura</b>; <b>disciplinar → advertência, suspensão, demissão</b>; <b>penal → crime</b>. A Comissão de Ética fica no primeiro degrau, mas pode mandar o caso subir.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Única pena da Comissão de Ética</span></span><span class=\"vs\"><span>Censura</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fundamentação da censura</span></span><span class=\"vs\"><span>Parecer assinado por todos os integrantes, com ciência do faltoso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra XVIII</span></span><span class=\"vs\"><span>Registros éticos para instruir promoções</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regras revogadas</span></span><span class=\"vs\"><span>XVII, XIX, XX, XXI, XXIII e XXV (Decreto 6.029/2007)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Composição atual</span></span><span class=\"vs\"><span>3 titulares + suplentes; mandato de 3 anos não coincidente</span></span></button></div></div>\n<h3>9. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O agente e o \"café\" do posto</b><p>Durante a fiscalização de rotina numa rodovia, o dono de um posto de combustíveis oferece aos agentes café, lanche e um \"vale-combustível\" para a viatura, \"em agradecimento pela segurança da região\". Os agentes aceitam o vale. Há falta ética?</p><details><summary>Ver a solução comentada</summary><p>Sim. O vale é <b>vantagem de qualquer espécie</b> oferecida em razão da função, vedada pelo <b>XV, g</b>, ainda que o agradecimento seja por um serviço regular (\"para o cumprimento da sua missão\"). Também há risco de comprometimento da <b>impessoalidade</b> (XV, f), pois o posto pode esperar tratamento diferenciado. No plano disciplinar, receber presente ou vantagem em razão das atribuições é proibido pela Lei 8.112 (art. 117, XII). Um café oferecido indistintamente a qualquer pessoa no balcão é cortesia de valor irrisório; o vale-combustível não é.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A servidora que \"segura\" o processo</b><p>Uma servidora deixa de analisar o requerimento de um cidadão de quem não gosta, por causa de uma discussão antiga, e o processo fica parado por meses. Quais regras foram violadas?</p><details><summary>Ver a solução comentada</summary><p>Ela permitiu que <b>antipatias e interesses pessoais</b> interferissem no trato com o público (<b>XV, f</b>), usou de procrastinação para dificultar o exercício regular de direito (<b>XV, d</b>) e descumpriu os deveres de desempenhar as atribuições <b>a tempo</b> e de resolver <b>prioritariamente</b> situações procrastinatórias (<b>XIV, a e b</b>). A demora gera <b>dano moral</b> ao usuário (regra X).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O chefe que pede um \"favor\"</b><p>O chefe de um setor pede a um subordinado que libere um veículo apreendido sem a documentação exigida, porque o dono é \"amigo da família\". O subordinado obedece em respeito à hierarquia. Ele agiu corretamente?</p><details><summary>Ver a solução comentada</summary><p>Não. O dever de respeitar a hierarquia (XIV, h) não alcança ordens <b>ilegais</b>. O Código manda <b>resistir a todas as pressões</b>, inclusive de <b>superiores hierárquicos</b>, que visem favores indevidos, e <b>denunciá-las</b> (<b>XIV, i</b>). Também manda comunicar imediatamente ato contrário ao interesse público (<b>XIV, m</b>). O chefe, por sua vez, usou o cargo e as amizades para favorecer outrem (<b>XV, a</b>).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A publicação no grupo de mensagens</b><p>Um servidor tira foto do sistema interno com dados de uma operação ainda não divulgada e envia a um amigo empresário, que passa a negociar com base nisso. Qual vedação foi violada?</p><details><summary>Ver a solução comentada</summary><p>O <b>uso de informação privilegiada</b> obtida no âmbito interno do serviço em benefício de <b>terceiros</b> (<b>XV, m</b>). Dependendo do caso, pode haver também conflito de interesses (Lei 12.813/2013), infração disciplinar (revelar segredo de que se apropriou em razão do cargo) e crime (violação de sigilo funcional, art. 325 do CP).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O colega que bebe</b><p>Um servidor percebe que um colega chega frequentemente ao trabalho com hálito etílico e sinais de embriaguez. Por amizade, nada comunica. Há falta ética de quem silencia?</p><details><summary>Ver a solução comentada</summary><p>Sim. Apresentar-se embriagado <b>no serviço</b> é vedado ao colega (<b>XV, n</b>), sem exigência de habitualidade. Quem silencia por amizade pode ser <b>conivente por espírito de solidariedade</b> (<b>XV, c</b>), o que também é vedado, e descumpre o dever de comunicar fato contrário ao interesse público (<b>XIV, m</b>). Uma atuação ética também considera o cuidado com a saúde do colega, encaminhando a situação pelos canais adequados.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O servidor e a tecnologia</b><p>Um órgão implantou sistema eletrônico de protocolo, mas um servidor continua recebendo pedidos em papel e digitando-os semanas depois, alegando que \"prefere o método antigo\". Há violação ao Código?</p><details><summary>Ver a solução comentada</summary><p>Sim. É vedado <b>deixar de utilizar os avanços técnicos e científicos</b> ao seu alcance para o atendimento do seu mister (<b>XV, e</b>). Há ainda violação ao dever de exercer as atribuições com <b>rapidez, perfeição e rendimento</b> (<b>XIV, b</b>) e de manter-se <b>atualizado</b> com as normas de serviço (<b>XIV, q</b>).</p></details></div>\n<h3>10. Como as bancas cobram o Decreto 1.171/1994</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>O Código de Ética é cobrado quase sempre pela <b>literalidade</b>. As armadilhas mais frequentes são: trocar \"fora dele\" por \"apenas no exercício\" (regra I); trocar \"honesto e desonesto\" por \"legal e ilegal\" (regra II); dizer que a moralidade \"se limita\" à distinção entre bem e mal (regra III); afirmar que a publicidade pode ser omitida livremente (regra VII); permitir omitir a verdade em favor da Administração (regra VIII); exigir habitualidade da embriaguez no serviço (XV, n); restringir a vedação de vantagens a atos ilegais (XV, g); dizer que a Comissão de Ética pode aplicar suspensão ou demissão (regra XXII); e restringir o conceito de servidor a quem tem cargo efetivo remunerado (regra XXIV).</p></div>\n<ul><li><b>Roteiro de resolução</b>:</li><li>Identifique se o item fala de <b>valor</b> (regras I a XIII), <b>dever</b> (XIV), <b>vedação</b> (XV) ou <b>Comissão</b> (XVI a XXV).</li><li>Procure palavras absolutas ou restritivas inseridas pela banca: \"apenas\", \"somente\", \"exclusivamente\", \"desde que habitual\", \"a critério do servidor\".</li><li>Lembre que o Código é <b>mais exigente</b> que a lei: o que é formalmente legal pode ser antiético (XIV, u).</li><li>Se o item fala em <b>penalidade</b>, a única do Código é a <b>censura</b>.</li><li>Se o item fala em <b>quem é servidor</b> para fins éticos, o conceito é <b>amplíssimo</b>.</li></ul>\n<h3>11. Quadro-resumo final do Código</h3>\n<table class=\"tab\"><thead><tr><th>Bloco; O que guardar</th></tr></thead><tbody><tr><td>Decreto 1.171/1994; Aprova o Código (Anexo); 60 dias para implementação e criação da Comissão de Ética</td></tr><tr><td>Regras I a VI; Dignidade, decoro, zelo, eficácia; honesto x desonesto; fim é o bem comum; remuneração paga por todos; trabalho como patrimônio; vida privada reflete na funcional</td></tr><tr><td>Regras VII a XIII; Publicidade; verdade; cortesia; filas; ordens legais; assiduidade; harmonia</td></tr><tr><td>Inciso XIV; 21 deveres (a a v, sem k); destaque para b, c, h, i, m, t, u</td></tr><tr><td>Inciso XV; 15 vedações (a a p, sem k); destaque para a, c, e, g, m, n</td></tr><tr><td>Comissões; Orientar, aconselhar e apurar; única pena: censura; parecer assinado por todos com ciência do faltoso</td></tr><tr><td>Regra XXIV; Servidor, para fins éticos, é todo aquele que presta serviço ao Estado, ainda que temporário e sem remuneração</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 1.171/1994</span></span><span class=\"vs\"><span>Código de Ética do servidor civil do Executivo federal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra II</span></span><span class=\"vs\"><span>Honesto x desonesto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra VIII</span></span><span class=\"vs\"><span>Verdade, ainda que contra a Administração</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XIV, u</span></span><span class=\"vs\"><span>Formalidade legal não basta: finalidade deve ser o interesse público</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XV, g</span></span><span class=\"vs\"><span>Nenhuma vantagem, nem para cumprir a missão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>XV, n</span></span><span class=\"vs\"><span>Embriaguez: no serviço sempre; fora, se habitual</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra XXII</span></span><span class=\"vs\"><span>Censura, por parecer assinado por todos</span></span></button></div></div>\n<h3>12. Revisão em perguntas rápidas</h3>\n<ul><li><b>O Código vale só para quem tem cargo efetivo?</b> Não. Vale para todo aquele que presta serviço ao Estado, de forma permanente, temporária ou excepcional, ainda que sem remuneração, inclusive em empresas públicas e sociedades de economia mista.</li><li><b>A conduta fora do serviço interessa ao Código?</b> Sim. A regra I alcança o servidor \"no exercício do cargo ou fora dele\", e a regra VI diz que a vida privada pode acrescer ou diminuir o bom conceito funcional.</li><li><b>O servidor pode recusar ordem do superior?</b> Deve cumprir as ordens <b>legais</b> (regra XI), mas tem de <b>resistir</b> a pressões para obter vantagens indevidas e <b>denunciá-las</b> (XIV, i).</li><li><b>Ser rápido é dever ético?</b> Sim: a tempo (XIV, a), com rapidez, perfeição e rendimento (XIV, b), e com critério, segurança e rapidez (XIV, r). Filas e atrasos causam grave dano moral (regra X).</li><li><b>Quem aplica a censura e como?</b> A Comissão de Ética, por parecer fundamentado, assinado por todos os integrantes, com ciência do faltoso.</li><li><b>A censura impede punição disciplinar?</b> Não. As esferas são independentes; a Comissão pode encaminhar o caso para apuração disciplinar e para outras providências.</li></ul>\n<h3>13. Código de Ética e Lei 8.112/1990: deveres e proibições comparados</h3>\n<ul><li>O Decreto 1.171/1994 e a Lei 8.112/1990 tratam de assuntos parecidos, mas com natureza diferente. A Lei 8.112 é <b>lei</b>, com deveres (art. 116) e proibições (art. 117) cuja violação gera <b>penalidades disciplinares</b>. O Código de Ética é <b>decreto</b>, com valores, deveres e vedações cuja violação gera <b>censura ética</b>. Saber comparar os dois evita confusões em itens que misturam as normas.</li></ul>\n<table class=\"tab\"><thead><tr><th>Assunto; Código de Ética (Decreto 1.171); Lei 8.112/1990</th></tr></thead><tbody><tr><td>Zelo e dedicação; Rapidez, perfeição e rendimento (XIV, b); Exercer com zelo e dedicação as atribuições do cargo (art. 116, I)</td></tr><tr><td>Lealdade; Ser probo, reto, leal e justo (XIV, c); Ser leal às instituições a que servir (art. 116, II)</td></tr><tr><td>Ordens superiores; Atenção às ordens legais (XI); resistir a pressões indevidas (XIV, i); Cumprir as ordens superiores, exceto quando manifestamente ilegais (art. 116, IV)</td></tr><tr><td>Atendimento; Cortesia, urbanidade, sem preconceito (XIV, g); Atender com presteza ao público (art. 116, V) e tratar as pessoas com urbanidade (art. 116, XI)</td></tr><tr><td>Irregularidades; Comunicar imediatamente fatos contrários ao interesse público (XIV, m); Levar as irregularidades ao conhecimento da autoridade superior ou, se envolvida, de outra autoridade competente (art. 116, VI)</td></tr><tr><td>Assiduidade; Ser assíduo e frequente (XIV, l); Ser assíduo e pontual (art. 116, X)</td></tr><tr><td>Vantagens; Vedado pleitear ou receber vantagem de qualquer espécie (XV, g); Proibido receber propina, comissão, presente ou vantagem em razão das atribuições (art. 117, XII)</td></tr><tr><td>Uso do cargo; Vedado usar cargo e influências para favorecimento (XV, a); Proibido valer-se do cargo para lograr proveito pessoal ou de outrem (art. 117, IX)</td></tr><tr><td>Documentos; Vedado retirar sem autorização (XV, l); Proibido retirar, sem prévia anuência, documento ou objeto da repartição (art. 117, II)</td></tr><tr><td>Pessoal da repartição; Vedado desviar servidor para interesse particular (XV, j); Proibido utilizar pessoal ou recursos materiais em atividades particulares (art. 117, XVI)</td></tr></tbody></table>\n<ul><li><b>Observação importante sobre o art. 116, VI, da Lei 8.112</b>: o dever de representar contra irregularidades tem uma particularidade: quando houver suspeita de envolvimento da autoridade superior, a comunicação é feita a <b>outra autoridade competente</b> para apuração. O Código de Ética tem espírito semelhante ao mandar <b>representar sem temor</b> (XIV, h) e <b>denunciar</b> pressões (XIV, i).</li><li><b>Consequência prática</b>: uma conduta pode ser, ao mesmo tempo, falta ética e infração disciplinar. Por exemplo, valer-se do cargo para obter proveito para outrem viola o XV, a, do Código e o art. 117, IX, da Lei 8.112, punido com <b>demissão</b>. A Comissão de Ética, ao constatar a falta, aplica a censura e pode encaminhar o caso à autoridade competente para instaurar o processo disciplinar.</li></ul>\n<h3>14. O Código de Ética na atividade policial e de fiscalização</h3>\n<ul><li>O policial e o agente de fiscalização exercem <b>poder de polícia</b> e entram em contato com o cidadão em situações de tensão. Por isso, alguns pontos do Código ganham peso especial nessas carreiras.</li><li><b>Moderação nas prerrogativas (XIV, t)</b>: abordar, revistar, reter documentos, remover veículos e usar força são prerrogativas que devem ser exercidas com <b>estrita moderação</b>. O excesso fere o Código e pode configurar abuso de autoridade.</li><li><b>Cortesia sem preconceito (XIV, g)</b>: o tratamento não pode variar conforme raça, sexo, nacionalidade, cor, idade, religião, opinião política ou posição social. Na abordagem, a seleção do abordado deve se basear em <b>fundada suspeita</b> e em critérios objetivos, e não em características pessoais.</li><li><b>Verdade (regra VIII)</b>: o registro de ocorrências, autos de infração e boletins deve corresponder ao que aconteceu. Alterar ou deturpar documento é vedado (XV, h) e pode configurar crime de falsidade.</li><li><b>Vantagens (XV, g)</b>: a oferta de \"agrados\" por parte de pessoas fiscalizadas é situação comum. O Código não admite nem mesmo a vantagem \"para o cumprimento da missão\".</li><li><b>Informações (XV, m)</b>: dados de operações, investigações e bancos de dados policiais não podem ser usados em benefício próprio ou de terceiros.</li><li><b>Vida privada (regras I e VI)</b>: a conduta fora do serviço (por exemplo, postagens ofensivas em redes sociais, embriaguez habitual, envolvimento em empreendimentos de cunho duvidoso) repercute no conceito funcional e pode ser apreciada pela Comissão de Ética.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A postagem do servidor</b><p>Um servidor, fora do horário de trabalho, publica em rede social mensagens ofensivas e preconceituosas contra determinado grupo, identificando-se como agente do órgão. O Código de Ética pode alcançar essa conduta?</p><details><summary>Ver a solução comentada</summary><p>Sim. A regra I exige dignidade e decoro <b>no exercício do cargo ou fora dele</b>, e a regra VI afirma que a vida privada pode <b>diminuir o bom conceito</b> na vida funcional. Ao associar o próprio cargo a manifestações preconceituosas, o servidor compromete a imagem do serviço público. A Comissão de Ética pode apurar a conduta, sem prejuízo de outras esferas (disciplinar e penal, se houver crime).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A abordagem \"pelo jeito\"</b><p>Numa operação, um agente aborda apenas motociclistas jovens de bairros periféricos, sem qualquer indício objetivo de irregularidade, dizendo que \"esse perfil sempre tem algo errado\". Qual é o problema ético?</p><details><summary>Ver a solução comentada</summary><p>A conduta permite que <b>preconceitos e interesses pessoais</b> interfiram no trato com o público (XV, f) e descumpre o dever de tratar os usuários <b>sem qualquer espécie de preconceito ou distinção</b> de idade ou posição social (XIV, g). O exercício da prerrogativa de abordar deve ser <b>moderado</b> e baseado em critérios objetivos (XIV, t).</p></details></div>\n<h3>15. Ética, moralidade administrativa e improbidade</h3>\n<ul><li>O Código de Ética se apoia no princípio da <b>moralidade</b> (CF, art. 37, caput) e na repressão à <b>improbidade</b> (CF, art. 37, § 4º), citados expressamente na regra II.</li><li><b>Moralidade administrativa</b>: não basta que o ato seja legal; ele deve ser honesto, leal e de boa-fé. É a ideia que o Código traduz ao exigir que o servidor escolha entre o <b>honesto e o desonesto</b>.</li><li><b>Improbidade administrativa</b>: é a imoralidade qualificada, punida pela Lei 8.429/1992 (com as mudanças da Lei 14.230/2021, que passou a exigir <b>dolo</b> para a configuração do ato de improbidade). As sanções incluem perda da função, suspensão dos direitos políticos, multa, ressarcimento e proibição de contratar com o poder público, conforme o tipo de ato.</li><li><b>Relação entre as esferas</b>: a falta ética é apurada pela Comissão de Ética; a improbidade, em ação judicial; a infração disciplinar, em PAD; o crime, em processo penal. Uma conduta grave, como receber vantagem indevida, pode repercutir nas quatro.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 116, IV, Lei 8.112</span></span><span class=\"vs\"><span>Cumprir ordens, salvo manifestamente ilegais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 117, XII, Lei 8.112</span></span><span class=\"vs\"><span>Proibido receber propina, presente ou vantagem em razão das atribuições</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra II do Código</span></span><span class=\"vs\"><span>Remete ao art. 37, caput e § 4º, da CF</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Improbidade após a Lei 14.230/2021</span></span><span class=\"vs\"><span>Exige dolo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Abordagem</span></span><span class=\"vs\"><span>Fundada suspeita e critérios objetivos, sem preconceito</span></span></button></div></div>\n<h3>16. Linha do tempo das normas de ética federal</h3>\n<ul><li>Entender a ordem em que as normas surgiram ajuda a localizar cada assunto na prova:</li></ul>\n<table class=\"tab\"><thead><tr><th>Ano; Norma; O que fez</th></tr></thead><tbody><tr><td>1990; Lei 8.112; Regime jurídico dos servidores civis federais: deveres (art. 116), proibições (art. 117) e penalidades disciplinares</td></tr><tr><td>1992; Lei 8.429; Lei de Improbidade Administrativa (alterada pela Lei 14.230/2021)</td></tr><tr><td>1994; Decreto 1.171; Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal</td></tr><tr><td>1999; Decreto de 26 de maio de 1999; Criou a Comissão de Ética Pública (CEP)</td></tr><tr><td>2000; Exposição de Motivos 37; Código de Conduta da Alta Administração Federal</td></tr><tr><td>2007; Decreto 6.029; Sistema de Gestão da Ética do Poder Executivo Federal (revogou regras do Capítulo II do Código)</td></tr><tr><td>2010; Decreto 7.203; Vedação do nepotismo no Executivo federal</td></tr><tr><td>2011; Lei 12.527; Lei de Acesso à Informação</td></tr><tr><td>2013; Lei 12.813; Conflito de interesses</td></tr><tr><td>2017; Decreto 9.203; Política de governança da administração federal</td></tr></tbody></table>\n<ul><li><b>Como usar a linha do tempo</b>: se o item mencionar a composição das comissões, mandatos ou rito de apuração, a fonte é o <b>Decreto 6.029/2007</b>. Se mencionar valores, deveres, vedações ou a censura, a fonte é o <b>Decreto 1.171/1994</b>. Se mencionar demissão, suspensão ou advertência, a fonte é a <b>Lei 8.112/1990</b>.</li></ul>\n<h3>17. Dicas de memorização do Código</h3>\n<ul><li><b>Estrutura \"1-2-3\"</b>: o Código tem <b>1</b> anexo, <b>2</b> capítulos e <b>3</b> seções no Capítulo I (regras deontológicas, deveres e vedações).</li><li><b>\"Fora dele\"</b>: sempre que aparecer conduta fora do serviço, lembre-se das regras I (dentro ou fora do cargo), VI (vida privada influencia o conceito funcional) e XV, n (embriaguez habitual fora do serviço).</li><li><b>\"Mesmo que\"</b>: duas expressões de reforço são muito cobradas: \"<b>ainda que</b> contrária aos interesses da Administração\" (verdade, regra VIII) e \"<b>mesmo que</b> observando as formalidades legais\" (finalidade, XIV, u).</li><li><b>\"Até ele próprio\"</b>: a remuneração é paga por todos, <b>até pelo próprio servidor</b> (regra IV).</li><li><b>\"Todos assinam\"</b>: a censura vem em parecer assinado por <b>todos</b> os integrantes, com ciência do faltoso (regra XXII).</li><li><b>Contagem</b>: deveres de <b>a a v</b> (21 alíneas) e vedações de <b>a a p</b> (15 alíneas), sem a letra <b>k</b> em ambos.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Composição e rito das comissões</span></span><span class=\"vs\"><span>Decreto 6.029/2007</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Valores, deveres, vedações e censura</span></span><span class=\"vs\"><span>Decreto 1.171/1994</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Penalidades disciplinares</span></span><span class=\"vs\"><span>Lei 8.112/1990</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Ainda que contrária à Administração\"</span></span><span class=\"vs\"><span>Regra VIII (verdade)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>\"Mesmo que observando as formalidades legais\"</span></span><span class=\"vs\"><span>XIV, u (finalidade)</span></span></button></div></div>",
+"quiz": [
+{
+"p": "O Decreto 1.171/1994 determinou que os órgãos e entidades da administração pública federal implementassem, em 60 dias, as providências necessárias à plena vigência do Código de Ética, inclusive com a constituição da Comissão de Ética.",
+"c": true,
+"prof": "Certo.",
+"x": "O art. 2º do decreto fixou 60 dias e mandou constituir a Comissão de Ética.",
+"e": "Decreto 1.171/1994, art. 2º"
+},
+{
+"p": "O Decreto 1.171/1994 determinou que os órgãos federais implementassem, em 180 dias, as providências para a vigência do Código de Ética, dispensada a criação de Comissão de Ética nas entidades da administração indireta.",
+"c": false,
+"prof": "Errado.",
+"x": "O art. 2º do decreto fixou 60 dias e mandou constituir a Comissão de Ética.",
+"e": "Decreto 1.171/1994, art. 2º"
+},
+{
+"p": "Para fins de apuração do comprometimento ético, considera-se servidor público aquele que presta serviço de natureza temporária ou excepcional ao Estado, ainda que sem retribuição financeira.",
+"c": true,
+"prof": "Certo.",
+"x": "O conceito da regra XXIV é amplíssimo: serviço permanente, temporário ou excepcional, ainda que sem retribuição.",
+"e": "Decreto 1.171/1994, Anexo, XXIV"
+},
+{
+"p": "Para fins de apuração do comprometimento ético, considera-se servidor público apenas o titular de cargo efetivo que perceba remuneração dos cofres públicos.",
+"c": false,
+"prof": "Errado.",
+"x": "O conceito da regra XXIV é amplíssimo: serviço permanente, temporário ou excepcional, ainda que sem retribuição.",
+"e": "Decreto 1.171/1994, Anexo, XXIV"
+},
+{
+"p": "O conceito de servidor público do Código de Ética alcança quem presta serviços a sociedades de economia mista e a empresas públicas.",
+"c": true,
+"prof": "Certo.",
+"x": "A regra XXIV inclui expressamente empresas públicas e sociedades de economia mista.",
+"e": "Decreto 1.171/1994, Anexo, XXIV"
+},
+{
+"p": "O Código de Ética do Decreto 1.171/1994 não alcança empregados de empresas públicas e sociedades de economia mista, por se submeterem ao regime celetista.",
+"c": false,
+"prof": "Errado.",
+"x": "A regra XXIV inclui expressamente empresas públicas e sociedades de economia mista.",
+"e": "Decreto 1.171/1994, Anexo, XXIV"
+},
+{
+"p": "Segundo a regra I, a dignidade, o decoro, o zelo, a eficácia e a consciência dos princípios morais devem nortear o servidor no exercício do cargo ou função ou fora dele.",
+"c": true,
+"prof": "Certo.",
+"x": "A regra I alcança a conduta dentro e fora do cargo.",
+"e": "Decreto 1.171/1994, Anexo, I"
+},
+{
+"p": "Segundo a regra I, a dignidade e o decoro devem nortear o servidor apenas no exercício do cargo, já que a vida privada não interessa à Administração.",
+"c": false,
+"prof": "Errado.",
+"x": "A regra I alcança a conduta dentro e fora do cargo.",
+"e": "Decreto 1.171/1994, Anexo, I"
+},
+{
+"p": "Segundo o Código de Ética, o servidor não terá que decidir somente entre o legal e o ilegal, mas principalmente entre o honesto e o desonesto.",
+"c": true,
+"prof": "Certo.",
+"x": "É a regra II, que vincula a decisão ao elemento ético, com remissão ao art. 37, caput e § 4º, da CF.",
+"e": "Decreto 1.171/1994, Anexo, II"
+},
+{
+"p": "Segundo o Código de Ética, ao servidor basta decidir entre o legal e o ilegal, pois a honestidade é aferida apenas pela observância da lei.",
+"c": false,
+"prof": "Errado.",
+"x": "É a regra II, que vincula a decisão ao elemento ético, com remissão ao art. 37, caput e § 4º, da CF.",
+"e": "Decreto 1.171/1994, Anexo, II"
+},
+{
+"p": "Para o Código de Ética, a moralidade administrativa não se limita à distinção entre o bem e o mal, devendo ser acrescida da ideia de que o fim é sempre o bem comum.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra III: o equilíbrio entre legalidade e finalidade consolida a moralidade do ato.",
+"e": "Decreto 1.171/1994, Anexo, III"
+},
+{
+"p": "Para o Código de Ética, a moralidade administrativa limita-se à distinção entre o bem e o mal, sendo irrelevante a finalidade do ato.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra III: o equilíbrio entre legalidade e finalidade consolida a moralidade do ato.",
+"e": "Decreto 1.171/1994, Anexo, III"
+},
+{
+"p": "O Código de Ética lembra que a remuneração do servidor é custeada pelos tributos pagos por todos, até pelo próprio servidor.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra IV: a remuneração é custeada por todos, até pelo próprio servidor, o que exige moralidade como contrapartida.",
+"e": "Decreto 1.171/1994, Anexo, IV"
+},
+{
+"p": "O Código de Ética afirma que a remuneração do servidor, por ser contraprestação de seu trabalho, não guarda relação com os tributos pagos pela coletividade.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra IV: a remuneração é custeada por todos, até pelo próprio servidor, o que exige moralidade como contrapartida.",
+"e": "Decreto 1.171/1994, Anexo, IV"
+},
+{
+"p": "De acordo com o Código de Ética, os fatos e atos da vida privada do servidor podem acrescer ou diminuir o seu bom conceito na vida funcional.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra VI: a função pública integra-se na vida particular.",
+"e": "Decreto 1.171/1994, Anexo, VI"
+},
+{
+"p": "De acordo com o Código de Ética, os atos da vida privada do servidor não repercutem em seu conceito funcional, pois a função pública não se integra à vida particular.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra VI: a função pública integra-se na vida particular.",
+"e": "Decreto 1.171/1994, Anexo, VI"
+},
+{
+"p": "A publicidade de ato administrativo constitui requisito de eficácia e moralidade, e sua omissão gera comprometimento ético imputável a quem a negar, salvo nas hipóteses de sigilo previstas no Código.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra VII: sigilo só em segurança nacional, investigações policiais ou interesse superior do Estado, em processo previamente declarado sigiloso.",
+"e": "Decreto 1.171/1994, Anexo, VII"
+},
+{
+"p": "A publicidade dos atos administrativos é mera recomendação do Código de Ética, podendo o servidor omiti-la sempre que entender conveniente à Administração.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra VII: sigilo só em segurança nacional, investigações policiais ou interesse superior do Estado, em processo previamente declarado sigiloso.",
+"e": "Decreto 1.171/1994, Anexo, VII"
+},
+{
+"p": "O servidor não pode omitir nem falsear a verdade, ainda que ela seja contrária aos interesses da própria Administração Pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra VIII: toda pessoa tem direito à verdade.",
+"e": "Decreto 1.171/1994, Anexo, VIII"
+},
+{
+"p": "O servidor pode omitir a verdade quando ela for contrária aos interesses da Administração Pública, em atenção à supremacia do interesse público.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra VIII: toda pessoa tem direito à verdade.",
+"e": "Decreto 1.171/1994, Anexo, VIII"
+},
+{
+"p": "Segundo o Código de Ética, tratar mal uma pessoa que paga seus tributos significa causar-lhe dano moral.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra IX.",
+"e": "Decreto 1.171/1994, Anexo, IX"
+},
+{
+"p": "Segundo o Código de Ética, o tratamento descortês ao usuário configura mera falta de urbanidade, sem caracterizar dano moral.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra IX.",
+"e": "Decreto 1.171/1994, Anexo, IX"
+},
+{
+"p": "Permitir a formação de longas filas por demora na solução que compete ao seu setor caracteriza, segundo o Código, principalmente grave dano moral aos usuários.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra X.",
+"e": "Decreto 1.171/1994, Anexo, X"
+},
+{
+"p": "Permitir a formação de longas filas caracteriza, segundo o Código, apenas ato de desumanidade, sem repercussão moral para os usuários.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra X.",
+"e": "Decreto 1.171/1994, Anexo, X"
+},
+{
+"p": "Os repetidos erros, o descaso e o acúmulo de desvios podem caracterizar até mesmo imprudência no desempenho da função pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra XI.",
+"e": "Decreto 1.171/1994, Anexo, XI"
+},
+{
+"p": "Os repetidos erros do servidor, por serem involuntários, não têm relevância ética segundo o Código.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra XI.",
+"e": "Decreto 1.171/1994, Anexo, XI"
+},
+{
+"p": "Toda ausência injustificada do servidor de seu local de trabalho é fator de desmoralização do serviço público.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra XII: toda ausência injustificada. Os 30 dias são critério do abandono de cargo na Lei 8.112.",
+"e": "Decreto 1.171/1994, Anexo, XII"
+},
+{
+"p": "Apenas a ausência injustificada reiterada por mais de 30 dias é considerada, pelo Código de Ética, fator de desmoralização do serviço público.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra XII: toda ausência injustificada. Os 30 dias são critério do abandono de cargo na Lei 8.112.",
+"e": "Decreto 1.171/1994, Anexo, XII"
+},
+{
+"p": "É dever do servidor exercer suas atribuições com rapidez, perfeição e rendimento, procurando prioritariamente resolver situações procrastinatórias, principalmente diante de filas.",
+"c": true,
+"prof": "Certo.",
+"x": "XIV, b.",
+"e": "Decreto 1.171/1994, Anexo, XIV, b"
+},
+{
+"p": "É dever do servidor exercer suas atribuições com rapidez, perfeição e rendimento, devendo, contudo, respeitar rigorosamente a ordem cronológica dos processos, ainda que isso provoque filas.",
+"c": false,
+"prof": "Errado.",
+"x": "XIV, b.",
+"e": "Decreto 1.171/1994, Anexo, XIV, b"
+},
+{
+"p": "É dever do servidor jamais retardar qualquer prestação de contas, condição essencial da gestão dos bens, direitos e serviços da coletividade.",
+"c": true,
+"prof": "Certo.",
+"x": "XIV, d: jamais retardar.",
+"e": "Decreto 1.171/1994, Anexo, XIV, d"
+},
+{
+"p": "O Código de Ética admite o retardamento da prestação de contas quando justificado pelo volume de trabalho do setor.",
+"c": false,
+"prof": "Errado.",
+"x": "XIV, d: jamais retardar.",
+"e": "Decreto 1.171/1994, Anexo, XIV, d"
+},
+{
+"p": "Diante de duas opções, o servidor deve escolher a melhor e a mais vantajosa para o bem comum.",
+"c": true,
+"prof": "Certo.",
+"x": "XIV, c.",
+"e": "Decreto 1.171/1994, Anexo, XIV, c"
+},
+{
+"p": "Diante de duas opções, o servidor deve escolher a mais vantajosa para a Administração, ainda que menos favorável ao bem comum.",
+"c": false,
+"prof": "Errado.",
+"x": "XIV, c.",
+"e": "Decreto 1.171/1994, Anexo, XIV, c"
+},
+{
+"p": "É dever do servidor ter respeito à hierarquia, porém sem nenhum temor de representar contra qualquer comprometimento indevido da estrutura em que se funda o Poder Estatal.",
+"c": true,
+"prof": "Certo.",
+"x": "XIV, h.",
+"e": "Decreto 1.171/1994, Anexo, XIV, h"
+},
+{
+"p": "O respeito à hierarquia impede o servidor de representar contra atos de seus superiores, cabendo-lhe apenas cumpri-los.",
+"c": false,
+"prof": "Errado.",
+"x": "XIV, h.",
+"e": "Decreto 1.171/1994, Anexo, XIV, h"
+},
+{
+"p": "O servidor deve resistir a todas as pressões de superiores hierárquicos, contratantes e interessados que visem obter vantagens indevidas, e denunciá-las.",
+"c": true,
+"prof": "Certo.",
+"x": "XIV, i.",
+"e": "Decreto 1.171/1994, Anexo, XIV, i"
+},
+{
+"p": "O dever de resistir a pressões indevidas não abrange as provenientes de superiores hierárquicos, em razão do dever de obediência.",
+"c": false,
+"prof": "Errado.",
+"x": "XIV, i.",
+"e": "Decreto 1.171/1994, Anexo, XIV, i"
+},
+{
+"p": "O Código de Ética impõe ao servidor zelar, no exercício do direito de greve, pelas exigências específicas da defesa da vida e da segurança coletiva.",
+"c": true,
+"prof": "Certo.",
+"x": "XIV, j: o Código pressupõe a greve e impõe deveres durante ela.",
+"e": "Decreto 1.171/1994, Anexo, XIV, j"
+},
+{
+"p": "O Código de Ética proíbe o exercício do direito de greve pelo servidor público civil, por ser incompatível com a continuidade do serviço.",
+"c": false,
+"prof": "Errado.",
+"x": "XIV, j: o Código pressupõe a greve e impõe deveres durante ela.",
+"e": "Decreto 1.171/1994, Anexo, XIV, j"
+},
+{
+"p": "É dever do servidor comunicar imediatamente a seus superiores todo e qualquer ato ou fato contrário ao interesse público, exigindo as providências cabíveis.",
+"c": true,
+"prof": "Certo.",
+"x": "XIV, m.",
+"e": "Decreto 1.171/1994, Anexo, XIV, m"
+},
+{
+"p": "É faculdade do servidor comunicar aos superiores os atos contrários ao interesse público, podendo apenas sugerir providências.",
+"c": false,
+"prof": "Errado.",
+"x": "XIV, m.",
+"e": "Decreto 1.171/1994, Anexo, XIV, m"
+},
+{
+"p": "É dever do servidor apresentar-se ao trabalho com vestimentas adequadas ao exercício da função.",
+"c": true,
+"prof": "Certo.",
+"x": "XIV, p.",
+"e": "Decreto 1.171/1994, Anexo, XIV, p"
+},
+{
+"p": "O Código de Ética não trata da apresentação pessoal do servidor, matéria reservada a normas internas de cada órgão.",
+"c": false,
+"prof": "Errado.",
+"x": "XIV, p.",
+"e": "Decreto 1.171/1994, Anexo, XIV, p"
+},
+{
+"p": "É dever do servidor exercer com estrita moderação as prerrogativas funcionais que lhe sejam atribuídas.",
+"c": true,
+"prof": "Certo.",
+"x": "XIV, t.",
+"e": "Decreto 1.171/1994, Anexo, XIV, t"
+},
+{
+"p": "O Código de Ética autoriza o servidor a exercer suas prerrogativas funcionais com a amplitude necessária, ainda que contrariamente aos legítimos interesses dos usuários.",
+"c": false,
+"prof": "Errado.",
+"x": "XIV, t.",
+"e": "Decreto 1.171/1994, Anexo, XIV, t"
+},
+{
+"p": "Deve o servidor abster-se, de forma absoluta, de exercer sua função com finalidade estranha ao interesse público, mesmo que observando as formalidades legais.",
+"c": true,
+"prof": "Certo.",
+"x": "XIV, u.",
+"e": "Decreto 1.171/1994, Anexo, XIV, u"
+},
+{
+"p": "Não há falta ética quando o servidor, embora com finalidade estranha ao interesse público, observa todas as formalidades legais e não viola expressamente a lei.",
+"c": false,
+"prof": "Errado.",
+"x": "XIV, u.",
+"e": "Decreto 1.171/1994, Anexo, XIV, u"
+},
+{
+"p": "É dever do servidor divulgar e informar a todos os integrantes de sua classe sobre a existência do Código de Ética, estimulando o seu integral cumprimento.",
+"c": true,
+"prof": "Certo.",
+"x": "XIV, v.",
+"e": "Decreto 1.171/1994, Anexo, XIV, v"
+},
+{
+"p": "A divulgação do Código de Ética é atribuição exclusiva da Comissão de Ética, não sendo dever individual do servidor.",
+"c": false,
+"prof": "Errado.",
+"x": "XIV, v.",
+"e": "Decreto 1.171/1994, Anexo, XIV, v"
+},
+{
+"p": "É vedado ao servidor o uso do cargo, de amizades, de tempo, de posição e de influências para obter favorecimento para si ou para outrem.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, a.",
+"e": "Decreto 1.171/1994, Anexo, XV, a"
+},
+{
+"p": "É vedado ao servidor o uso de influências para obter favorecimento próprio, sendo permitido utilizá-las em favor de terceiros de boa-fé.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, a.",
+"e": "Decreto 1.171/1994, Anexo, XV, a"
+},
+{
+"p": "É vedado ao servidor ser conivente com erro ou infração ao Código de Ética, ainda que em função de seu espírito de solidariedade.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, c.",
+"e": "Decreto 1.171/1994, Anexo, XV, c"
+},
+{
+"p": "O espírito de solidariedade entre colegas autoriza o servidor a não comunicar infrações éticas de menor gravidade.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, c.",
+"e": "Decreto 1.171/1994, Anexo, XV, c"
+},
+{
+"p": "É vedado ao servidor deixar de utilizar os avanços técnicos e científicos ao seu alcance ou do seu conhecimento para o atendimento do seu mister.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, e.",
+"e": "Decreto 1.171/1994, Anexo, XV, e"
+},
+{
+"p": "O uso de avanços técnicos e científicos no atendimento é mera faculdade do servidor, segundo o Código de Ética.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, e.",
+"e": "Decreto 1.171/1994, Anexo, XV, e"
+},
+{
+"p": "É vedado ao servidor permitir que simpatias, antipatias, caprichos ou interesses pessoais interfiram no trato com colegas hierarquicamente superiores ou inferiores.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, f.",
+"e": "Decreto 1.171/1994, Anexo, XV, f"
+},
+{
+"p": "A vedação de que paixões e interesses pessoais interfiram no trato funcional aplica-se apenas ao atendimento ao público externo.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, f.",
+"e": "Decreto 1.171/1994, Anexo, XV, f"
+},
+{
+"p": "É vedado ao servidor receber qualquer tipo de gratificação, prêmio ou vantagem para o cumprimento da sua missão.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, g: a vedação alcança vantagem até para o cumprimento da missão.",
+"e": "Decreto 1.171/1994, Anexo, XV, g"
+},
+{
+"p": "É permitido ao servidor receber gratificação de particular quando se tratar de cumprimento regular de sua missão, sem prática de ato ilegal.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, g: a vedação alcança vantagem até para o cumprimento da missão.",
+"e": "Decreto 1.171/1994, Anexo, XV, g"
+},
+{
+"p": "É vedado ao servidor sugerir ou provocar o oferecimento de vantagem para influenciar outro servidor.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, g: pleitear, solicitar, provocar, sugerir ou receber.",
+"e": "Decreto 1.171/1994, Anexo, XV, g"
+},
+{
+"p": "O Código de Ética veda apenas o recebimento de vantagens, não alcançando as condutas de sugerir ou provocar seu oferecimento.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, g: pleitear, solicitar, provocar, sugerir ou receber.",
+"e": "Decreto 1.171/1994, Anexo, XV, g"
+},
+{
+"p": "É vedado ao servidor iludir ou tentar iludir qualquer pessoa que necessite do atendimento em serviços públicos.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, i.",
+"e": "Decreto 1.171/1994, Anexo, XV, i"
+},
+{
+"p": "O Código de Ética veda apenas a conduta de iludir efetivamente o usuário, não alcançando a mera tentativa.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, i.",
+"e": "Decreto 1.171/1994, Anexo, XV, i"
+},
+{
+"p": "É vedado ao servidor desviar servidor público para atendimento a interesse particular.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, j.",
+"e": "Decreto 1.171/1994, Anexo, XV, j"
+},
+{
+"p": "O Código de Ética permite que o servidor utilize subordinados em atividades particulares, desde que fora do horário de expediente.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, j.",
+"e": "Decreto 1.171/1994, Anexo, XV, j"
+},
+{
+"p": "É vedado ao servidor retirar da repartição, sem estar legalmente autorizado, qualquer documento, livro ou bem pertencente ao patrimônio público.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, l.",
+"e": "Decreto 1.171/1994, Anexo, XV, l"
+},
+{
+"p": "É permitido ao servidor retirar documentos da repartição para trabalhar em casa, independentemente de autorização, se houver urgência.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, l.",
+"e": "Decreto 1.171/1994, Anexo, XV, l"
+},
+{
+"p": "É vedado ao servidor fazer uso de informações privilegiadas obtidas no âmbito interno de seu serviço em benefício de amigos ou de terceiros.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, m.",
+"e": "Decreto 1.171/1994, Anexo, XV, m"
+},
+{
+"p": "A vedação ao uso de informações privilegiadas restringe-se ao benefício do próprio servidor.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, m.",
+"e": "Decreto 1.171/1994, Anexo, XV, m"
+},
+{
+"p": "É vedado ao servidor apresentar-se embriagado no serviço, independentemente de habitualidade.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, n: no serviço, basta a conduta; fora dele, exige-se habitualidade.",
+"e": "Decreto 1.171/1994, Anexo, XV, n"
+},
+{
+"p": "Segundo o Código de Ética, é vedado ao servidor apresentar-se embriagado no serviço, desde que o faça habitualmente.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, n: no serviço, basta a conduta; fora dele, exige-se habitualidade.",
+"e": "Decreto 1.171/1994, Anexo, XV, n"
+},
+{
+"p": "Fora do serviço, o Código de Ética veda que o servidor se apresente embriagado habitualmente.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, n.",
+"e": "Decreto 1.171/1994, Anexo, XV, n"
+},
+{
+"p": "O Código de Ética veda que o servidor se apresente embriagado fora do serviço, ainda que de forma eventual e isolada.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, n.",
+"e": "Decreto 1.171/1994, Anexo, XV, n"
+},
+{
+"p": "É vedado ao servidor ligar o seu nome a empreendimentos de cunho duvidoso.",
+"c": true,
+"prof": "Certo.",
+"x": "XV, p.",
+"e": "Decreto 1.171/1994, Anexo, XV, p"
+},
+{
+"p": "O Código de Ética não alcança atividades privadas do servidor, como a participação em empreendimentos particulares.",
+"c": false,
+"prof": "Errado.",
+"x": "XV, p.",
+"e": "Decreto 1.171/1994, Anexo, XV, p"
+},
+{
+"p": "A pena aplicável pela Comissão de Ética é a de censura, cuja fundamentação consta de parecer assinado por todos os seus integrantes, com ciência do faltoso.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra XXII: única pena, a censura.",
+"e": "Decreto 1.171/1994, Anexo, XXII"
+},
+{
+"p": "A Comissão de Ética pode aplicar as penas de advertência, censura e suspensão, conforme a gravidade da falta.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra XXII: única pena, a censura.",
+"e": "Decreto 1.171/1994, Anexo, XXII"
+},
+{
+"p": "Cabe à Comissão de Ética fornecer aos órgãos de carreira os registros sobre a conduta ética do servidor, para instruir e fundamentar promoções.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra XVIII.",
+"e": "Decreto 1.171/1994, Anexo, XVIII"
+},
+{
+"p": "Os registros da Comissão de Ética são sigilosos e não podem ser utilizados para fins de promoção na carreira.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra XVIII.",
+"e": "Decreto 1.171/1994, Anexo, XVIII"
+},
+{
+"p": "A Comissão de Ética tem a atribuição de orientar e aconselhar sobre a ética profissional do servidor e de conhecer de imputação ou procedimento susceptível de censura.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra XVI.",
+"e": "Decreto 1.171/1994, Anexo, XVI"
+},
+{
+"p": "A Comissão de Ética tem função exclusivamente punitiva, sem atribuição de orientar ou aconselhar os servidores.",
+"c": false,
+"prof": "Errado.",
+"x": "Regra XVI.",
+"e": "Decreto 1.171/1994, Anexo, XVI"
+},
+{
+"p": "A aplicação de censura pela Comissão de Ética não impede a apuração da mesma conduta na esfera disciplinar.",
+"c": true,
+"prof": "Certo.",
+"x": "As instâncias ética, disciplinar e penal são independentes.",
+"e": "Decreto 1.171/1994 e Lei 8.112/1990"
+},
+{
+"p": "A aplicação de censura pela Comissão de Ética impede a apuração disciplinar do mesmo fato, em razão da vedação ao bis in idem.",
+"c": false,
+"prof": "Errado.",
+"x": "As instâncias ética, disciplinar e penal são independentes.",
+"e": "Decreto 1.171/1994 e Lei 8.112/1990"
+},
+{
+"p": "De acordo com o Decreto 1.171/1994, a única penalidade aplicável pela Comissão de Ética ao servidor é a",
+"alts": [
+"advertência",
+"suspensão",
+"censura",
+"demissão",
+"multa"
+],
+"r": 2,
+"n": [
+"Penalidade disciplinar da Lei 8.112, aplicada pela autoridade competente.",
+"Penalidade disciplinar da Lei 8.112.",
+"Correta: regra XXII.",
+"Penalidade disciplinar, aplicada após PAD.",
+"Não prevista no Código."
+],
+"x": "Regra XXII: a pena aplicável pela Comissão de Ética é a censura.",
+"e": "Decreto 1.171/1994, Anexo, XXII"
+},
+{
+"p": "Segundo o Código de Ética, é vedado ao servidor apresentar-se embriagado",
+"alts": [
+"apenas no serviço e de forma habitual",
+"no serviço ou, fora dele, habitualmente",
+"somente fora do serviço",
+"no serviço ou fora dele, ainda que eventualmente",
+"apenas quando houver prejuízo ao atendimento"
+],
+"r": 1,
+"n": [
+"Inverte a exigência de habitualidade.",
+"Correta: XV, n.",
+"Omite o serviço, onde a vedação é mais grave.",
+"Fora do serviço, exige-se habitualidade.",
+"Requisito inexistente."
+],
+"x": "No serviço, basta a conduta; fora dele, exige-se habitualidade.",
+"e": "Decreto 1.171/1994, Anexo, XV, n"
+},
+{
+"p": "Assinale a opção que corresponde a um DEVER do servidor, segundo o inciso XIV do Código de Ética.",
+"alts": [
+"Usar o tempo e as influências para favorecer terceiros",
+"Deixar de usar avanços técnicos ao seu alcance",
+"Facilitar a fiscalização de todos os atos ou serviços por quem de direito",
+"Ser conivente com erro por espírito de solidariedade",
+"Retirar documentos da repartição sem autorização"
+],
+"r": 2,
+"n": [
+"É vedação (XV, a).",
+"É vedação (XV, e).",
+"Correta: XIV, s.",
+"É vedação (XV, c).",
+"É vedação (XV, l)."
+],
+"x": "Facilitar a fiscalização é dever da alínea s do inciso XIV.",
+"e": "Decreto 1.171/1994, Anexo, XIV, s"
+},
+{
+"p": "Para fins de apuração do comprometimento ético, o Decreto 1.171/1994 considera servidor público",
+"alts": [
+"apenas o ocupante de cargo efetivo",
+"apenas quem recebe remuneração do Estado",
+"apenas os servidores da administração direta",
+"todo aquele que presta serviço ao Estado, ainda que temporário e sem retribuição financeira",
+"apenas os servidores estáveis"
+],
+"r": 3,
+"n": [
+"Restritivo demais.",
+"O conceito dispensa retribuição.",
+"Alcança também a indireta.",
+"Correta: regra XXIV.",
+"Estabilidade é irrelevante."
+],
+"x": "O conceito ético de servidor é amplíssimo (regra XXIV).",
+"e": "Decreto 1.171/1994, Anexo, XXIV"
+},
+{
+"p": "Conforme a regra II do Código de Ética, o servidor deve decidir principalmente entre",
+"alts": [
+"o legal e o ilegal",
+"o conveniente e o inconveniente",
+"o oportuno e o inoportuno",
+"o honesto e o desonesto",
+"o justo e o injusto"
+],
+"r": 3,
+"n": [
+"Não basta.",
+"Não basta.",
+"Não basta.",
+"Correta.",
+"Também não basta, segundo a regra."
+],
+"x": "A regra II diz que o servidor não decide somente entre legal e ilegal, justo e injusto etc., mas principalmente entre o honesto e o desonesto.",
+"e": "Decreto 1.171/1994, Anexo, II"
+}
+]
+},
+"etica-funcao-publica": {
+"html": "<h3>1. Função pública: conceito e natureza</h3>\n<ul><li><b>Função pública</b> é o conjunto de atribuições exercidas por agentes em nome do Estado, para realizar o interesse público. Quem a exerce não age em nome próprio: age como <b>órgão</b> do Estado, e seus atos são imputados à pessoa jurídica (teoria do órgão).</li><li><b>Agente público</b> é termo amplo: todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função pública. Essa definição ampla está na Lei de Improbidade (Lei 8.429/1992, art. 2º) e mostra que <b>as exigências éticas alcançam muito além dos servidores efetivos</b>: estagiários, terceirizados em funções públicas, mesários, jurados e comissionados também podem responder.</li><li><b>Servidor público</b>, na Lei 8.112/1990, é a pessoa legalmente investida em <b>cargo público</b> (art. 2º); cargo público é o conjunto de atribuições e responsabilidades previstas na estrutura organizacional que devem ser cometidas a um servidor (art. 3º), criado por lei, com denominação própria e vencimento pago pelos cofres públicos.</li><li>A ética da função pública baseia-se em três ideias: (1) o <b>poder é instrumental</b>, existe para cumprir a finalidade pública; (2) o agente é <b>gestor de bens alheios</b>, que pertencem à coletividade; (3) a <b>confiança pública</b> é condição de legitimidade das instituições.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Agente público (Lei 8.429)</span></span><span class=\"vs\"><span>Conceito amplo, inclusive transitório e sem remuneração</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Servidor (Lei 8.112, art. 2º)</span></span><span class=\"vs\"><span>Pessoa legalmente investida em cargo público</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cargo público</span></span><span class=\"vs\"><span>Criado por lei, com denominação própria e vencimento pago pelos cofres públicos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Teoria do órgão</span></span><span class=\"vs\"><span>Atos do agente imputados ao Estado</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As exigências éticas da função pública alcançam apenas os servidores efetivos estáveis</span><br>✅ <span class=\"certo\">alcançam todos os <b>agentes públicos</b>, inclusive comissionados, temporários e quem exerce função sem remuneração</span></li><li>❌ <span class=\"banca\">O servidor, ao exercer o cargo, age em nome próprio e responde sozinho por seus atos perante terceiros</span><br>✅ <span class=\"certo\">age como <b>órgão</b> do Estado; perante terceiros responde o Estado (CF, art. 37, § 6º), com direito de regresso contra o agente em caso de dolo ou culpa</span></li></ol></div>\n<h3>2. Integridade: o conceito central</h3>\n<ul><li><b>Integridade pública</b> é o alinhamento consistente da conduta dos agentes e das instituições a <b>valores, princípios e normas éticas compartilhados</b>, para sustentar e priorizar o <b>interesse público</b> sobre os interesses privados. Essa é a definição difundida pela OCDE e adotada pelos programas de integridade brasileiros.</li><li>Integridade tem duas dimensões:</li><li><b>Individual</b>: o caráter do agente que age corretamente mesmo sem fiscalização; coerência entre o que diz e o que faz.</li><li><b>Institucional</b>: o conjunto de regras, estruturas e processos que <b>previnem, detectam e corrigem</b> desvios (códigos de conduta, gestão de riscos, canais de denúncia, controle interno, transparência, corregedoria).</li><li>O <b>Decreto 9.203/2017</b> (governança pública federal) inclui a <b>integridade</b> entre os princípios da governança e determina que os órgãos e entidades instituam <b>programas de integridade</b>, estruturados em eixos como comprometimento da alta administração, existência de unidade responsável, gestão de riscos e monitoramento contínuo (art. 19).</li><li>O <b>Decreto 11.529/2023</b> instituiu o <b>Sistema de Integridade, Transparência e Acesso à Informação da Administração Pública Federal (Sitai)</b>, coordenado pela CGU, que organiza as unidades de gestão da integridade nos órgãos federais.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Integridade pública (OCDE)</span></span><span class=\"vs\"><span>Alinhamento a valores e normas para priorizar o interesse público</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Integridade institucional</span></span><span class=\"vs\"><span>Prevenir, detectar e corrigir desvios</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 9.203/2017</span></span><span class=\"vs\"><span>Governança e programas de integridade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 11.529/2023</span></span><span class=\"vs\"><span>Sitai, coordenado pela CGU</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Integridade diz respeito apenas ao caráter individual do servidor, não exigindo estruturas institucionais</span><br>✅ <span class=\"certo\">a integridade tem dimensão <b>institucional</b>: regras, controles, gestão de riscos e canais de denúncia</span></li><li>❌ <span class=\"banca\">Os programas de integridade são exclusivos de empresas privadas, por força da Lei Anticorrupção</span><br>✅ <span class=\"certo\">o Decreto 9.203/2017 manda órgãos e entidades públicas federais instituírem <b>programas de integridade</b></span></li></ol></div>\n<h3>3. Moralidade administrativa (CF, art. 37)</h3>\n<ul><li>A <b>moralidade</b> é princípio expresso da Administração Pública (CF, art. 37, caput). Ela exige que o administrador atue com <b>honestidade, boa-fé, lealdade às instituições e probidade</b>, observando não apenas a lei, mas os padrões éticos de conduta.</li><li>A doutrina clássica (Hauriou, divulgado no Brasil por Hely Lopes Meirelles) define a moralidade administrativa como o conjunto de <b>regras de conduta tiradas da disciplina interior da Administração</b>. O administrador deve distinguir não só o legal do ilegal, mas o <b>honesto do desonesto</b>.</li><li>Consequências práticas do princípio:</li><li>O ato imoral é <b>inválido</b>, mesmo que formalmente legal, e pode ser anulado pela própria Administração ou pelo Judiciário.</li><li>Qualquer <b>cidadão</b> pode propor <b>ação popular</b> para anular ato lesivo à moralidade administrativa (CF, art. 5º, LXXIII), ficando isento de custas e ônus da sucumbência, salvo comprovada má-fé.</li><li>A <b>improbidade administrativa</b>, forma qualificada de imoralidade (desonestidade com dolo), gera sanções graves (CF, art. 37, § 4º).</li><li>O STF aplica a moralidade diretamente, sem depender de lei: foi o fundamento da <b>Súmula Vinculante 13</b> (nepotismo), editada a partir da própria Constituição.</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação; Legal?; Moral?; Comentário</th></tr></thead><tbody><tr><td>Nomear parente para cargo em comissão sem lei proibindo; Aparentemente sim; Não; Viola SV 13 (moralidade e impessoalidade)</td></tr><tr><td>Usar verba de publicidade para exaltar o governante; Pode ter previsão orçamentária; Não; Promoção pessoal vedada (art. 37, § 1º)</td></tr><tr><td>Dispensa de licitação com preço superfaturado; Pode ter hipótese legal; Não; Improbidade e crime licitatório</td></tr><tr><td>Concurso com critérios objetivos e ampla divulgação; Sim; Sim; Atende a legalidade, moralidade e impessoalidade</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A aplicação do princípio da moralidade depende de lei que defina, em cada caso, as condutas imorais</span><br>✅ <span class=\"certo\">o STF aplica a moralidade <b>diretamente da Constituição</b> (ex.: SV 13)</span></li><li>❌ <span class=\"banca\">A ação popular contra ato lesivo à moralidade pode ser proposta por qualquer pessoa, inclusive pessoa jurídica</span><br>✅ <span class=\"certo\">só o <b>cidadão</b> (eleitor) pode propor ação popular; pessoa jurídica não (Súmula 365 do STF)</span></li></ol></div>\n<h3>4. O dever do art. 116, IX, da Lei 8.112: conduta compatível com a moralidade</h3>\n<ul><li>Entre os <b>deveres do servidor</b> (Lei 8.112, art. 116), o inciso IX determina <b>\"manter conduta compatível com a moralidade administrativa\"</b>. É a ponte direta entre a ética e o regime disciplinar: a falta de ética pode, sim, gerar punição disciplinar.</li><li>O dever é <b>aberto</b>: não descreve condutas específicas, mas exige que o comportamento do servidor, <b>dentro e fora da repartição</b>, não comprometa a dignidade da função e a confiança no órgão. Por isso, condutas privadas escandalosas e incompatíveis com o cargo podem repercutir funcionalmente.</li><li>A violação de deveres do art. 116 sujeita o servidor, em regra, à <b>advertência</b> (art. 129), que pode ser agravada para <b>suspensão</b> em caso de reincidência (art. 130). Conforme a gravidade, a mesma conduta pode configurar infração mais séria, como <b>improbidade</b> ou <b>conduta escandalosa na repartição</b>, puníveis com <b>demissão</b> (art. 132, IV e V).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 8.112, art. 116, IX</span></span><span class=\"vs\"><span>Manter conduta compatível com a moralidade administrativa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Violação de dever (art. 116)</span></span><span class=\"vs\"><span>Em regra, advertência (art. 129)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reincidência</span></span><span class=\"vs\"><span>Suspensão (art. 130)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Improbidade e conduta escandalosa</span></span><span class=\"vs\"><span>Demissão (art. 132, IV e V)</span></span></button></div></div>\n<h3>5. Os deveres do servidor (Lei 8.112, art. 116)</h3>\n<ul><li>O art. 116 é a \"lista ética positiva\" do servidor federal: diz o que ele <b>deve fazer</b>. Muitos concursos estaduais e municipais copiam essa lista nos seus estatutos, por isso vale decorá-la.</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso; Dever; Ideia ética</th></tr></thead><tbody><tr><td>I; Exercer com zelo e dedicação as atribuições do cargo; Eficiência e responsabilidade</td></tr><tr><td>II; Ser leal às instituições a que servir; Lealdade institucional (não a pessoas)</td></tr><tr><td>III; Observar as normas legais e regulamentares; Legalidade</td></tr><tr><td>IV; Cumprir as ordens superiores, exceto quando manifestamente ilegais; Hierarquia com limite ético</td></tr><tr><td>V; Atender com presteza ao público (prestando informações, ressalvadas as sigilosas), à expedição de certidões para defesa de direito ou esclarecimento de situações de interesse pessoal e às requisições para a defesa da Fazenda Pública; Respeito ao cidadão e transparência</td></tr><tr><td>VI; Levar as irregularidades de que tiver ciência em razão do cargo ao conhecimento da autoridade superior ou, se houver suspeita de envolvimento desta, de outra autoridade competente; Dever de reportar</td></tr><tr><td>VII; Zelar pela economia do material e a conservação do patrimônio público; Cuidado com o bem público</td></tr><tr><td>VIII; Guardar sigilo sobre assunto da repartição; Discrição</td></tr><tr><td>IX; Manter conduta compatível com a moralidade administrativa; Moralidade</td></tr><tr><td>X; Ser assíduo e pontual ao serviço; Compromisso</td></tr><tr><td>XI; Tratar com urbanidade as pessoas; Cortesia</td></tr><tr><td>XII; Representar contra ilegalidade, omissão ou abuso de poder; Coragem cívica</td></tr></tbody></table>\n<ul><li><b>Representação</b> (inciso XII): é encaminhada <b>pela via hierárquica</b> e apreciada pela <b>autoridade superior</b> àquela contra a qual é formulada, assegurando-se ao representando ampla defesa (art. 116, parágrafo único).</li><li><b>Proteção a quem denuncia</b>: nenhum servidor poderá ser responsabilizado civil, penal ou administrativamente por dar ciência à autoridade superior ou, quando houver suspeita de envolvimento desta, a outra autoridade competente para apuração, de informação concernente à prática de <b>crimes ou improbidade</b> de que tenha conhecimento, ainda que em decorrência do exercício de cargo, emprego ou função pública (art. 126-A, incluído pela Lei 12.527/2011).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O dever de lealdade do art. 116, II, refere-se à lealdade ao chefe imediato</span><br>✅ <span class=\"certo\">é lealdade às <b>instituições</b> a que o servidor serve, e não a pessoas</span></li><li>❌ <span class=\"banca\">Se a irregularidade envolver a própria chefia, o servidor fica dispensado de comunicá-la</span><br>✅ <span class=\"certo\">deve levá-la a <b>outra autoridade competente</b> (art. 116, VI)</span></li><li>❌ <span class=\"banca\">A representação contra ilegalidade é dirigida diretamente à autoridade contra a qual é formulada</span><br>✅ <span class=\"certo\">é encaminhada pela via hierárquica e apreciada pela autoridade <b>superior</b> àquela contra a qual é formulada</span></li></ol></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Mnemônico dos deveres: <b>\"ZeLO, LeAL, NORMAS, ORDENS (menos as ilegais), ATENDE, AVISA, ZELA, SIGILO, MORAL, ASSÍDUO, URBANO, REPRESENTA\"</b>. Leia a tabela duas vezes em voz alta: a ordem dos incisos ajuda a lembrar.</div>\n<h3>6. As proibições (Lei 8.112, art. 117)</h3>\n<ul><li>O art. 117 é a \"lista ética negativa\": o que o servidor <b>não pode fazer</b>. As bancas cobram tanto o conteúdo de cada inciso quanto a <b>penalidade</b> correspondente.</li></ul>\n<table class=\"tab\"><thead><tr><th>Inciso; Proibição (resumo); Penalidade</th></tr></thead><tbody><tr><td>I; Ausentar-se do serviço durante o expediente sem prévia autorização do chefe imediato; Advertência</td></tr><tr><td>II; Retirar, sem prévia anuência da autoridade competente, documento ou objeto da repartição; Advertência</td></tr><tr><td>III; Recusar fé a documentos públicos; Advertência</td></tr><tr><td>IV; Opor resistência injustificada ao andamento de documento, processo ou execução de serviço; Advertência</td></tr><tr><td>V; Promover manifestação de apreço ou desapreço no recinto da repartição; Advertência</td></tr><tr><td>VI; Cometer a pessoa estranha à repartição, fora dos casos legais, atribuição que seja sua ou de subordinado; Advertência</td></tr><tr><td>VII; Coagir ou aliciar subordinados a se filiarem a associação profissional ou sindical, ou a partido político; Advertência</td></tr><tr><td>VIII; Manter sob sua chefia imediata, em cargo ou função de confiança, cônjuge, companheiro ou parente até o 2º grau civil; Advertência</td></tr><tr><td>IX; Valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função; Demissão</td></tr><tr><td>X; Participar de gerência ou administração de sociedade privada, ou exercer o comércio (exceto como acionista, cotista ou comanditário); Demissão</td></tr><tr><td>XI; Atuar como procurador ou intermediário junto a repartições públicas (salvo benefícios previdenciários ou assistenciais de parentes até o 2º grau, cônjuge ou companheiro); Demissão</td></tr><tr><td>XII; Receber propina, comissão, presente ou vantagem de qualquer espécie, em razão de suas atribuições; Demissão</td></tr><tr><td>XIII; Aceitar comissão, emprego ou pensão de Estado estrangeiro; Demissão</td></tr><tr><td>XIV; Praticar usura sob qualquer de suas formas; Demissão</td></tr><tr><td>XV; Proceder de forma desidiosa; Demissão</td></tr><tr><td>XVI; Utilizar pessoal ou recursos materiais da repartição em serviços ou atividades particulares; Demissão</td></tr><tr><td>XVII; Cometer a outro servidor atribuições estranhas ao cargo, salvo emergência e situação transitória; Suspensão</td></tr><tr><td>XVIII; Exercer atividades incompatíveis com o cargo ou função e com o horário de trabalho; Suspensão</td></tr><tr><td>XIX; Recusar-se a atualizar seus dados cadastrais quando solicitado; Advertência</td></tr></tbody></table>\n<ul><li><b>Regra de memorização das penalidades</b>: incisos <b>I a VIII e XIX → advertência</b>; <b>IX a XVI → demissão</b>; <b>XVII e XVIII → suspensão</b>.</li><li>A vedação do inciso X (gerência de sociedade e comércio) <b>não se aplica</b>: (1) à participação nos conselhos de administração e fiscal de empresas ou entidades em que a União detenha, direta ou indiretamente, participação no capital social ou em sociedade cooperativa constituída para prestar serviços a seus membros; e (2) ao gozo de licença para o trato de interesses particulares, observada a legislação sobre conflito de interesses (art. 117, parágrafo único).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 117, I a VIII e XIX</span></span><span class=\"vs\"><span>Advertência</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 117, IX a XVI</span></span><span class=\"vs\"><span>Demissão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 117, XVII e XVIII</span></span><span class=\"vs\"><span>Suspensão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Receber presente em razão das atribuições</span></span><span class=\"vs\"><span>Demissão (XII)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Parente até 2º grau sob chefia imediata em confiança</span></span><span class=\"vs\"><span>Advertência (VIII)</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Manter parente sob chefia imediata em função de confiança gera demissão, por configurar nepotismo</span><br>✅ <span class=\"certo\">na Lei 8.112 (art. 117, VIII), a penalidade é <b>advertência</b>; a SV 13 e o Decreto 7.203/2010 tratam do nepotismo com alcance mais amplo</span></li><li>❌ <span class=\"banca\">O servidor pode ser sócio-gerente de empresa privada, desde que fora do horário de expediente</span><br>✅ <span class=\"certo\">é vedado <b>gerenciar ou administrar</b> sociedade privada e exercer o comércio; é permitido ser <b>acionista, cotista ou comanditário</b></span></li><li>❌ <span class=\"banca\">Utilizar o carro oficial para atividade particular é punido com advertência</span><br>✅ <span class=\"certo\">utilizar pessoal ou recursos da repartição em atividades particulares gera <b>demissão</b> (art. 117, XVI)</span></li></ol></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O servidor \"despachante\"</b><p>Um servidor do INSS passa a cobrar de conhecidos para acompanhar e \"agilizar\" pedidos de benefícios em outras agências do órgão.</p><details><summary>Ver a solução comentada</summary><p>Ele atua como <b>intermediário junto a repartições públicas</b>, fora da exceção legal (que só alcança benefícios de parentes até o 2º grau, cônjuge ou companheiro), e ainda se vale do cargo para proveito pessoal. As condutas (art. 117, IX e XI) são punidas com <b>demissão</b>, sem prejuízo de responsabilidade penal e por improbidade.</p></details></div>\n<h3>7. As penalidades disciplinares (Lei 8.112, arts. 127 a 142)</h3>\n<ul><li><b>Penalidades</b> (art. 127): advertência; suspensão; demissão; cassação de aposentadoria ou disponibilidade; destituição de cargo em comissão; destituição de função comissionada.</li><li><b>Dosimetria</b> (art. 128): na aplicação das penalidades serão consideradas a <b>natureza e a gravidade</b> da infração, os <b>danos</b> que dela provierem para o serviço público, as circunstâncias <b>agravantes ou atenuantes</b> e os <b>antecedentes funcionais</b>. O ato de imposição da penalidade mencionará sempre o fundamento legal e a causa da sanção.</li><li><b>Advertência</b> (art. 129): aplicada por escrito, nos casos de violação das proibições do art. 117, I a VIII e XIX, e de inobservância de dever funcional previsto em lei, regulamentação ou norma interna, que não justifique imposição de penalidade mais grave.</li><li><b>Suspensão</b> (art. 130): aplicada em caso de <b>reincidência</b> das faltas punidas com advertência e de violação das demais proibições que não tipifiquem infração sujeita a demissão, <b>não podendo exceder 90 dias</b>. Será punido com suspensão de até <b>15 dias</b> o servidor que, injustificadamente, recusar-se a ser submetido a <b>inspeção médica</b> determinada pela autoridade (§ 1º). Quando houver conveniência para o serviço, a suspensão pode ser <b>convertida em multa</b>, na base de <b>50% por dia</b> de vencimento ou remuneração, ficando o servidor obrigado a permanecer em serviço (§ 2º).</li><li><b>Cancelamento do registro</b> (art. 131): advertência e suspensão terão seus registros cancelados após <b>3 e 5 anos</b> de efetivo exercício, respectivamente, se o servidor não houver, nesse período, praticado nova infração disciplinar. O cancelamento <b>não surtirá efeitos retroativos</b>.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Suspensão máxima</span></span><span class=\"vs\"><span>90 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Recusa a inspeção médica</span></span><span class=\"vs\"><span>Suspensão de até 15 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Conversão da suspensão em multa</span></span><span class=\"vs\"><span>50% por dia, servidor permanece em serviço</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cancelamento do registro</span></span><span class=\"vs\"><span>Advertência 3 anos; suspensão 5 anos</span></span></button></div></div>\n<h3>8. Hipóteses de demissão (art. 132)</h3>\n<ul><li>A demissão será aplicada nos seguintes casos: <b>I</b> - crime contra a administração pública; <b>II</b> - abandono de cargo; <b>III</b> - inassiduidade habitual; <b>IV</b> - improbidade administrativa; <b>V</b> - incontinência pública e conduta escandalosa, na repartição; <b>VI</b> - insubordinação grave em serviço; <b>VII</b> - ofensa física, em serviço, a servidor ou a particular, salvo em legítima defesa própria ou de outrem; <b>VIII</b> - aplicação irregular de dinheiros públicos; <b>IX</b> - revelação de segredo do qual se apropriou em razão do cargo; <b>X</b> - lesão aos cofres públicos e dilapidação do patrimônio nacional; <b>XI</b> - corrupção; <b>XII</b> - acumulação ilegal de cargos, empregos ou funções públicas; <b>XIII</b> - transgressão dos incisos IX a XVI do art. 117.</li><li><b>Abandono de cargo</b> (art. 138): ausência <b>intencional</b> do servidor ao serviço por <b>mais de 30 dias consecutivos</b>.</li><li><b>Inassiduidade habitual</b> (art. 139): falta ao serviço, <b>sem causa justificada</b>, por <b>60 dias, interpoladamente</b>, durante o período de <b>12 meses</b>.</li><li><b>Cassação de aposentadoria ou disponibilidade</b> (art. 134): se o inativo houver praticado, <b>na atividade</b>, falta punível com demissão.</li><li><b>Destituição de cargo em comissão</b> (art. 135): exercido por não ocupante de cargo efetivo, nos casos de infração sujeita às penalidades de suspensão e de demissão.</li><li><b>Efeitos para nova investidura</b> (art. 137): a demissão ou a destituição de cargo em comissão por infringência do art. 117, <b>IX e XI</b>, incompatibiliza o ex-servidor para nova investidura em cargo público federal pelo prazo de <b>5 anos</b>. O parágrafo único previa que, nos casos do art. 132, I, IV, VIII, X e XI, o servidor não poderia retornar ao serviço público federal; o STF, na <b>ADI 2.975</b> (2020), declarou <b>inconstitucional</b> essa proibição perpétua, por violar a vedação de penas de caráter perpétuo.</li></ul>\n<table class=\"tab\"><thead><tr><th>Infração; Requisito numérico</th></tr></thead><tbody><tr><td>Abandono de cargo; Mais de 30 dias consecutivos, com intenção</td></tr><tr><td>Inassiduidade habitual; 60 dias interpolados em 12 meses, sem causa justificada</td></tr><tr><td>Suspensão; Até 90 dias</td></tr><tr><td>Recusa a inspeção médica; Suspensão de até 15 dias</td></tr><tr><td>Impedimento de nova investidura (art. 117, IX e XI); 5 anos</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Abandono de cargo é a falta ao serviço por 60 dias interpolados em 12 meses</span><br>✅ <span class=\"certo\">isso é <b>inassiduidade habitual</b>; abandono é ausência <b>intencional</b> por <b>mais de 30 dias consecutivos</b></span></li><li>❌ <span class=\"banca\">A ofensa física em serviço gera demissão mesmo em legítima defesa</span><br>✅ <span class=\"certo\">a legítima defesa, própria ou de outrem, <b>exclui</b> a hipótese (art. 132, VII)</span></li><li>❌ <span class=\"banca\">O servidor demitido por corrupção jamais poderá voltar ao serviço público federal, conforme a jurisprudência atual</span><br>✅ <span class=\"certo\">o STF declarou inconstitucional a <b>proibição perpétua</b> do art. 137, parágrafo único (ADI 2.975)</span></li></ol></div>\n<h3>9. Competência e prescrição</h3>\n<ul><li><b>Competência para aplicar penalidades</b> (art. 141): demissão e cassação de aposentadoria ou disponibilidade, quando se tratar de servidor vinculado ao Executivo, <b>Presidente da República</b> (delegável a Ministros), e equivalentes nos demais Poderes; suspensão superior a 30 dias, autoridades administrativas de hierarquia imediatamente inferior; advertência ou suspensão de até 30 dias, <b>chefe da repartição</b> e outras autoridades conforme regimentos; destituição de cargo em comissão, a autoridade que houver feito a nomeação.</li><li><b>Prescrição da ação disciplinar</b> (art. 142): <b>5 anos</b> para demissão, cassação e destituição de cargo em comissão; <b>2 anos</b> para suspensão; <b>180 dias</b> para advertência. O prazo começa a correr da data em que o <b>fato se tornou conhecido</b>. Os prazos da lei penal aplicam-se às infrações disciplinares também capituladas como crime. A abertura de sindicância ou a instauração de processo disciplinar <b>interrompe</b> a prescrição, até a decisão final.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prescrição demissão</span></span><span class=\"vs\"><span>5 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prescrição suspensão</span></span><span class=\"vs\"><span>2 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prescrição advertência</span></span><span class=\"vs\"><span>180 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Início da prescrição</span></span><span class=\"vs\"><span>Data em que o fato se tornou conhecido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Instauração de PAD</span></span><span class=\"vs\"><span>Interrompe a prescrição</span></span></button></div></div>\n<h3>10. Responsabilidades do servidor (arts. 121 a 126)</h3>\n<ul><li>O servidor responde <b>civil, penal e administrativamente</b> pelo exercício irregular de suas atribuições (art. 121). As três esferas são <b>independentes</b> e as sanções <b>podem cumular-se</b> (art. 125).</li><li><b>Responsabilidade civil</b> (art. 122): decorre de ato omissivo ou comissivo, <b>doloso ou culposo</b>, que resulte em prejuízo ao erário ou a terceiros. Diante de terceiros, responde o Estado, com <b>ação regressiva</b> contra o servidor.</li><li><b>Responsabilidade penal</b> (art. 123): abrange os crimes e contravenções imputados ao servidor nessa qualidade.</li><li><b>Responsabilidade administrativa</b> (art. 124): resulta de ato omissivo ou comissivo praticado no desempenho do cargo ou função.</li><li><b>Comunicação entre as esferas</b> (art. 126): a responsabilidade administrativa do servidor será <b>afastada</b> no caso de <b>absolvição criminal que negue a existência do fato ou sua autoria</b>. A absolvição por falta de provas <b>não</b> afasta a punição administrativa (e a Súmula 18 do STF admite a punição pela \"falta residual\").</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A absolvição criminal por insuficiência de provas impede a punição administrativa pelo mesmo fato</span><br>✅ <span class=\"certo\">só afastam a responsabilidade administrativa a absolvição que <b>negue a existência do fato</b> ou a <b>autoria</b> (art. 126)</span></li><li>❌ <span class=\"banca\">As responsabilidades civil, penal e administrativa são excludentes: aplicada uma, as outras ficam afastadas</span><br>✅ <span class=\"certo\">são <b>independentes</b> e <b>cumuláveis</b> (art. 125)</span></li></ol></div>\n<h3>11. Sindicância e PAD em linhas gerais</h3>\n<ul><li>A autoridade que tiver ciência de irregularidade no serviço público é <b>obrigada a promover sua apuração imediata</b>, mediante <b>sindicância</b> ou <b>processo administrativo disciplinar</b>, assegurada ao acusado ampla defesa (art. 143).</li><li>As denúncias serão apuradas desde que contenham a identificação e o endereço do denunciante e sejam formuladas por escrito, confirmada a autenticidade (art. 144); quando o fato narrado não configurar evidente infração disciplinar ou ilícito penal, a denúncia será arquivada, por falta de objeto. Na prática, as denúncias anônimas podem dar início a uma <b>apuração preliminar</b> sigilosa, conforme entendimento consolidado (Súmula 611 do STJ: desde que devidamente motivada e com amparo em investigação ou sindicância, é permitida a instauração de PAD com base em denúncia anônima).</li><li><b>Sindicância</b> (art. 145) pode resultar em arquivamento, aplicação de <b>advertência ou suspensão de até 30 dias</b>, ou instauração de PAD; tem prazo de <b>30 dias</b>, prorrogável por igual período.</li><li><b>PAD</b> é obrigatório sempre que o ilícito ensejar <b>suspensão por mais de 30 dias</b>, demissão, cassação de aposentadoria ou disponibilidade, ou destituição de cargo em comissão (art. 146). É conduzido por <b>comissão de 3 servidores estáveis</b>, com prazo de <b>60 dias</b>, prorrogável por igual período (arts. 149 e 152).</li><li><b>Afastamento preventivo</b> (art. 147): como medida cautelar, para que o servidor não venha a influir na apuração, a autoridade pode afastá-lo por até <b>60 dias</b>, prorrogáveis por igual prazo, <b>sem prejuízo da remuneração</b>.</li><li>A <b>Súmula Vinculante 5</b> estabelece que a falta de defesa técnica por advogado no PAD <b>não ofende a Constituição</b>.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sindicância</span></span><span class=\"vs\"><span>30 dias + 30; pode aplicar advertência ou suspensão até 30 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>PAD obrigatório</span></span><span class=\"vs\"><span>Suspensão > 30 dias, demissão, cassação, destituição</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comissão do PAD</span></span><span class=\"vs\"><span>3 servidores estáveis; 60 dias + 60</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento preventivo</span></span><span class=\"vs\"><span>Até 60 dias + 60, com remuneração</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SV 5</span></span><span class=\"vs\"><span>Falta de advogado no PAD não ofende a CF</span></span></button></div></div>\n<h3>12. Improbidade administrativa: a imoralidade qualificada</h3>\n<ul><li><b>Improbidade</b> é a desonestidade no trato da coisa pública. A Constituição determina que os atos de improbidade importarão a <b>suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário</b>, na forma e gradação previstas em lei, <b>sem prejuízo da ação penal cabível</b> (CF, art. 37, § 4º).</li><li>A <b>Lei 8.429/1992</b>, profundamente alterada pela <b>Lei 14.230/2021</b>, disciplina o tema. As mudanças mais cobradas:</li><li>Só há improbidade com <b>dolo</b>: a vontade livre e consciente de alcançar o resultado ilícito. Não basta a voluntariedade do agente, e <b>a mera divergência de interpretação da lei</b> não configura improbidade. A modalidade culposa foi extinta.</li><li>O rol do art. 11 (atos contra os princípios) passou a ser <b>taxativo</b>.</li><li>A prescrição passou a ser de <b>8 anos</b>, contados da ocorrência do fato (ou, nas infrações permanentes, do dia em que cessou a permanência).</li><li>O STF, no <b>Tema 1.199</b> (ARE 843.989, 2022), decidiu que a extinção da modalidade culposa <b>não retroage</b> para atingir condenações transitadas em julgado, mas se aplica aos processos em curso sem condenação definitiva; e que o novo regime prescricional <b>não retroage</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Espécie; Núcleo; Exemplos; Sanções principais (Lei 14.230)</th></tr></thead><tbody><tr><td>Enriquecimento ilícito (art. 9º); Auferir vantagem patrimonial indevida em razão do cargo; Receber propina; usar bens públicos em proveito próprio; Perda dos bens acrescidos, perda da função, suspensão dos direitos políticos até 14 anos, multa equivalente ao acréscimo, proibição de contratar até 14 anos</td></tr><tr><td>Lesão ao erário (art. 10); Ação ou omissão dolosa que causa perda patrimonial; Frustrar licitação; facilitar desvio de verbas; Ressarcimento, perda da função, suspensão dos direitos políticos até 12 anos, multa equivalente ao dano, proibição de contratar até 12 anos</td></tr><tr><td>Atentado aos princípios (art. 11); Violar honestidade, imparcialidade e legalidade nas hipóteses taxativas; Revelar segredo; frustrar concurso; nepotismo; publicidade com promoção pessoal; Multa até 24 vezes a remuneração e proibição de contratar até 4 anos</td></tr></tbody></table>\n<ul><li>O <b>nepotismo</b>, inclusive o cruzado (designações recíprocas), passou a constar expressamente como ato de improbidade contra os princípios (art. 11, XI).</li><li>A ação de improbidade pode ser proposta pelo <b>Ministério Público</b>; o STF (ADIs 7.042 e 7.043) restabeleceu também a legitimidade da <b>pessoa jurídica interessada</b> (o ente lesado).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Improbidade (Lei 14.230)</span></span><span class=\"vs\"><span>Exige dolo; culposa extinta</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 11</span></span><span class=\"vs\"><span>Rol taxativo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prescrição da improbidade</span></span><span class=\"vs\"><span>8 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Nepotismo</span></span><span class=\"vs\"><span>Improbidade contra os princípios (art. 11, XI)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CF, art. 37, § 4º</span></span><span class=\"vs\"><span>Suspensão de direitos políticos, perda da função, indisponibilidade e ressarcimento, sem prejuízo da ação penal</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Após a Lei 14.230/2021, o ato de improbidade que causa dano ao erário admite a modalidade culposa</span><br>✅ <span class=\"certo\">a culposa foi <b>extinta</b>; todas as modalidades exigem <b>dolo</b></span></li><li>❌ <span class=\"banca\">As sanções por improbidade excluem a responsabilização penal pelo mesmo fato</span><br>✅ <span class=\"certo\">a CF ressalva: <b>sem prejuízo da ação penal cabível</b> (art. 37, § 4º)</span></li><li>❌ <span class=\"banca\">A mera divergência na interpretação da lei, sem dolo, configura improbidade contra os princípios</span><br>✅ <span class=\"certo\">a lei afasta expressamente essa hipótese</span></li></ol></div>\n<h3>13. Ética e transparência na função pública</h3>\n<ul><li><b>Publicidade</b> é princípio constitucional (CF, art. 37) e condição da ética: o que é feito às claras pode ser controlado. A Lei de Acesso à Informação (Lei 12.527/2011) fixa a <b>publicidade como preceito geral e o sigilo como exceção</b> e impõe a <b>transparência ativa</b> (divulgação independentemente de pedido) e a <b>passiva</b> (resposta a pedidos).</li><li><b>Declaração de bens</b>: a posse em cargo público exige a apresentação de declaração de bens e valores que compõem o patrimônio privado (Lei 8.112, art. 13, § 5º), e a Lei de Improbidade condiciona a posse e o exercício à apresentação de declaração do imposto de renda, atualizada anualmente (Lei 8.429, art. 13). O agente que se recusar a prestá-la ou a prestar <b>falsa</b> declaração pode ser <b>demitido</b>.</li><li><b>Agenda pública</b>: a Lei de Conflito de Interesses determina que ministros e altas autoridades divulguem <b>diariamente</b> sua agenda de compromissos públicos (Lei 12.813/2013, art. 11). O <b>Decreto 10.889/2021</b> e o sistema <b>e-Agendas</b> organizam essa divulgação no Executivo federal.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A apresentação de declaração de bens é exigida apenas no momento da aposentadoria do servidor</span><br>✅ <span class=\"certo\">é exigida na <b>posse</b> e atualizada <b>anualmente</b>; a recusa ou a falsidade pode levar à <b>demissão</b></span></li><li>❌ <span class=\"banca\">Na LAI, o sigilo é a regra, e a publicidade, a exceção</span><br>✅ <span class=\"certo\">é o inverso: <b>publicidade é a regra</b>, sigilo a exceção</span></li></ol></div>\n<h3>14. Ética e acumulação de cargos</h3>\n<ul><li>A Constituição proíbe a <b>acumulação remunerada de cargos públicos</b>, exceto, quando houver <b>compatibilidade de horários</b>: a de <b>dois cargos de professor</b>; a de <b>um cargo de professor com outro técnico ou científico</b>; e a de <b>dois cargos ou empregos privativos de profissionais de saúde</b>, com profissões regulamentadas (CF, art. 37, XVI). A proibição se estende a empregos e funções em autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias e sociedades controladas, direta ou indiretamente, pelo poder público (art. 37, XVII).</li><li>Na Lei 8.112, a acumulação ilegal é apurada por <b>procedimento sumário</b>: detectada a acumulação, o servidor é notificado para <b>optar</b> em <b>10 dias</b>; a opção até o último dia de prazo para defesa configura <b>boa-fé</b>, hipótese em que se converte automaticamente em pedido de exoneração do outro cargo; caracterizada a <b>má-fé</b>, aplica-se a <b>demissão</b>, destituição ou cassação em relação aos cargos acumulados (art. 133).</li><li>A acumulação também é uma questão ética porque envolve a <b>dedicação</b> ao serviço e o risco de conflitos de interesses e de \"servidores fantasmas\".</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Acumulação permitida (com compatibilidade de horários)</span></span><span class=\"vs\"><span>2 de professor; professor + técnico/científico; 2 de saúde com profissão regulamentada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo para opção (art. 133)</span></span><span class=\"vs\"><span>10 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Opção até o fim do prazo de defesa</span></span><span class=\"vs\"><span>Boa-fé: exoneração do outro cargo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Má-fé</span></span><span class=\"vs\"><span>Demissão</span></span></button></div></div>\n<h3>15. Ética no atendimento e na conduta cotidiana</h3>\n<ul><li>A maior parte das situações éticas do servidor não envolve grandes escândalos, mas o <b>atendimento diário</b>. Pequenos gestos constroem ou destroem a confiança do cidadão.</li><li><b>Condutas exemplares</b>: chegar no horário; identificar-se; ouvir com atenção; informar com clareza e em linguagem simples; explicar o motivo de uma negativa; indicar alternativas; cumprir prazos; registrar o atendimento; tratar todos com o mesmo respeito, independentemente de aparência, classe social, cor, gênero, religião ou orientação política.</li><li><b>Condutas reprovadas</b> pelo Código de Ética e pela Lei 8.112: fazer o cidadão esperar sem justificativa (\"deixar para amanhã\"); usar o celular durante o atendimento; recusar informações que não são sigilosas; ironizar, gritar ou humilhar; pedir \"ajuda\" para dar andamento; atender primeiro os conhecidos.</li><li>O Código de Ética diz que deixar o usuário esperando por demora injustificada configura <b>atitude contra a ética</b> e caracteriza grave dano moral aos usuários dos serviços públicos (regra X, que se refere a \"permitir a formação de longas filas, ou qualquer outra espécie de atraso na prestação do serviço\").</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Atendimento ao condutor estrangeiro</b><p>Um turista estrangeiro, sem falar português, procura o posto policial para registrar a perda de documentos. O servidor de plantão, irritado, diz que \"aqui é o Brasil\" e manda que volte acompanhado de um intérprete.</p><details><summary>Ver a solução comentada</summary><p>A conduta viola a <b>urbanidade</b> (Lei 8.112, art. 116, XI), a presteza no atendimento (art. 116, V) e o dever de cortesia do Código de Ética. O correto é buscar meios de comunicação (aplicativos de tradução, colegas que falem outro idioma), registrar o fato e orientar o turista sobre os próximos passos (consulado, boletim de ocorrência).</p></details></div>\n<h3>16. Ética no setor público: o papel de cada ator</h3>\n<ul><li><b>Alta administração</b> (ministros, secretários, dirigentes de autarquias e estatais): dá o <b>exemplo</b> (\"tom do topo\"), aprova o programa de integridade, garante recursos para a unidade de integridade e responde com firmeza aos desvios. O Código de Conduta da Alta Administração Federal e a Comissão de Ética Pública (CEP) cuidam especificamente desse grupo.</li><li><b>Chefias intermediárias</b>: traduzem os valores em práticas do dia a dia, orientam a equipe, evitam favoritismos na distribuição de tarefas e promoções e acolhem relatos de irregularidades sem retaliação.</li><li><b>Servidores em geral</b>: cumprem deveres, recusam vantagens, comunicam irregularidades e tratam o público com respeito.</li><li><b>Comissões de ética</b>: orientam e aconselham sobre a ética profissional, apuram condutas em desacordo com o Código de Ética e aplicam a <b>censura ética</b> (Decreto 1.171 e Decreto 6.029/2007).</li><li><b>Corregedorias</b>: conduzem sindicâncias e processos disciplinares (Lei 8.112).</li><li><b>Controle interno</b> (CGU no Executivo federal) e <b>controle externo</b> (Tribunal de Contas, Legislativo): fiscalizam a gestão.</li><li><b>Ouvidorias</b>: recebem manifestações dos cidadãos, inclusive denúncias, e encaminham para apuração.</li><li><b>Sociedade</b>: exerce o controle social, cobra transparência e usa instrumentos como a ação popular e a LAI.</li></ul>\n<table class=\"tab\"><thead><tr><th>Órgão ou instância; O que faz; Sanção típica</th></tr></thead><tbody><tr><td>Comissão de ética setorial; Orienta e apura desvios éticos (Decreto 1.171); Censura ética (e ACPP)</td></tr><tr><td>Corregedoria; Sindicância e PAD (Lei 8.112); Advertência, suspensão, demissão</td></tr><tr><td>CGU; Controle interno, integridade, corregedoria-geral, ouvidoria-geral; Pode avocar e instaurar processos</td></tr><tr><td>Tribunal de Contas; Controle externo de contas; Multas, imputação de débito</td></tr><tr><td>Ministério Público; Ação penal, ação de improbidade; Sanções penais e de improbidade</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A comissão de ética pode aplicar a penalidade de suspensão ao servidor que violar o Código de Ética</span><br>✅ <span class=\"certo\">a pena aplicável pela comissão de ética é a <b>censura</b>; suspensão e demissão são penalidades <b>disciplinares</b> aplicadas em sindicância ou PAD</span></li><li>❌ <span class=\"banca\">As instâncias ética, disciplinar e penal são excludentes: se o fato for crime, a comissão de ética não pode apreciá-lo</span><br>✅ <span class=\"certo\">as instâncias são <b>independentes</b>; a comissão pode apreciar a dimensão ética e encaminhar o caso às demais</span></li></ol></div>\n<h3>17. A censura ética e o acordo de conduta pessoal e profissional</h3>\n<ul><li>O Decreto 1.171/1994 prevê que a pena aplicável ao servidor público pela comissão de ética é a de <b>censura</b>, e sua fundamentação constará do respectivo parecer, assinado por todos os seus integrantes, com ciência do faltoso (regra XXII).</li><li>As normas da Comissão de Ética Pública que regulamentam o Decreto 6.029/2007 (Resolução CEP nº 10/2008) preveem que a comissão pode celebrar <b>Acordo de Conduta Pessoal e Profissional (ACPP)</b> com o investigado, quando a infração for de <b>menor gravidade</b>: o agente se compromete a ajustar sua conduta, e o processo fica sobrestado; cumprido o acordo, é arquivado.</li><li>A comissão de ética também pode encaminhar sua decisão e o respectivo expediente para a <b>Comissão de Ética Pública</b>, para a corregedoria, para o órgão de controle ou para o Ministério Público, quando o fato também configurar infração disciplinar, ato de improbidade ou crime.</li><li>A censura é <b>registrada</b> e pode ser considerada nas avaliações do servidor, mas não implica perda do cargo nem desconto salarial. Sua força é <b>moral e pedagógica</b>.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pena da comissão de ética</span></span><span class=\"vs\"><span>Censura</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ACPP</span></span><span class=\"vs\"><span>Acordo de Conduta Pessoal e Profissional, para infrações de menor gravidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Censura</span></span><span class=\"vs\"><span>Fundamentada em parecer assinado por todos os integrantes, com ciência do faltoso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Encaminhamento</span></span><span class=\"vs\"><span>Corregedoria, CGU, MP quando houver ilícito disciplinar, improbidade ou crime</span></span></button></div></div>\n<h3>18. Integridade na prática: gestão de riscos e controles</h3>\n<ul><li>Os programas de integridade partem da ideia de que é melhor <b>prevenir</b> do que punir. Para isso, os órgãos identificam os <b>riscos à integridade</b>: situações em que podem ocorrer corrupção, fraude, conflito de interesses, nepotismo, desvio de conduta ou abuso de poder.</li><li>Exemplos de <b>riscos</b> típicos e <b>controles</b> correspondentes:</li></ul>\n<table class=\"tab\"><thead><tr><th>Risco à integridade; Controle preventivo</th></tr></thead><tbody><tr><td>Fiscal de contrato muito próximo da empresa fiscalizada; Rodízio de fiscais, segregação de funções, declaração de conflito</td></tr><tr><td>Agente que decide sozinho sobre multas de alto valor; Decisões colegiadas, revisão por amostragem, sistemas eletrônicos com trilha de auditoria</td></tr><tr><td>Contratação de parentes por empresas terceirizadas; Cláusulas contratuais e checagem de vínculos (Decreto 7.203/2010)</td></tr><tr><td>Recebimento de presentes de fornecedores; Política de brindes e presentes, registro e devolução</td></tr><tr><td>Uso indevido de dados de sistemas; Controle de acesso, registro de consultas, auditoria</td></tr></tbody></table>\n<ul><li><b>Linhas de defesa</b> (modelo usado por órgãos de controle): a <b>primeira linha</b> são os gestores e servidores que executam os processos e aplicam os controles do dia a dia; a <b>segunda linha</b> são as áreas de apoio que supervisionam riscos e conformidade (como a unidade de integridade); a <b>terceira linha</b> é a <b>auditoria interna</b>, que avalia de forma independente a eficácia dos controles.</li><li><b>Canais de denúncia</b> seguros, com proteção da identidade do denunciante e vedação de retaliação, são pilares da integridade. A Lei 13.608/2018 (com redação da Lei 13.964/2019) assegura ao <b>informante</b> proteção contra ações ou omissões praticadas em retaliação e prevê a possibilidade de recompensa quando as informações resultarem em recuperação de produto de crime contra a administração pública.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A terceira linha de defesa é composta pelos servidores que executam diretamente os processos</span><br>✅ <span class=\"certo\">esses são a <b>primeira</b> linha; a terceira é a <b>auditoria interna</b>, avaliação independente</span></li><li>❌ <span class=\"banca\">A política de integridade é eficaz mesmo sem canais de denúncia, bastando o código de conduta</span><br>✅ <span class=\"certo\">canais seguros, proteção ao denunciante e consequências reais são pilares indispensáveis</span></li></ol></div>\n<h3>19. Casos práticos integrados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A diária \"esticada\"</b><p>Um servidor viaja a serviço para um evento de dois dias e pede diárias para quatro dias, ficando os dois dias adicionais a passeio, sem atividade oficial.</p><details><summary>Ver a solução comentada</summary><p>Há <b>uso do cargo para proveito pessoal</b> e lesão ao erário. Pode configurar <b>improbidade</b> (enriquecimento ilícito ou dano ao erário, conforme o caso, com dolo), infração disciplinar punível com <b>demissão</b> (art. 117, IX; art. 132, IV) e, conforme as circunstâncias, crime (peculato-desvio ou estelionato contra a Administração). Além disso, viola os deveres de lealdade e moralidade. O servidor deve restituir os valores.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O plantão \"cobrado por fora\"</b><p>Um servidor da área de licenciamento combina com despachantes a análise prioritária de processos mediante pagamento, sem alterar o conteúdo das decisões.</p><details><summary>Ver a solução comentada</summary><p>Mesmo sem alterar o mérito, ele <b>recebe vantagem em razão das atribuições</b> (art. 117, XII → demissão), pratica <b>corrupção passiva</b> (CP, art. 317) e <b>improbidade por enriquecimento ilícito</b> (Lei 8.429, art. 9º). Também viola a impessoalidade, pois quebra a ordem de atendimento. Não existe \"propina inofensiva\".</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O chefe que pede silêncio</b><p>Uma servidora percebe que seu chefe imediato altera notas fiscais para justificar despesas inexistentes. Ele pede que ela \"não se meta\".</p><details><summary>Ver a solução comentada</summary><p>O dever de levar irregularidades ao conhecimento de <b>outra autoridade competente</b>, quando houver suspeita de envolvimento da chefia (art. 116, VI), é claro. A servidora está <b>protegida</b> pelo art. 126-A da Lei 8.112 e pode usar os canais da ouvidoria e da CGU (Fala.BR), inclusive com pedido de proteção de identidade. Obedecer à ordem de silêncio a tornaria conivente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Vida privada e cargo</b><p>Um policial, de folga, envolve-se em brigas frequentes em bares da cidade, identificando-se como policial para intimidar outras pessoas.</p><details><summary>Ver a solução comentada</summary><p>A conduta privada repercute na função: há uso da condição funcional para intimidar (abuso), quebra do decoro e da dignidade da função e potencial violação do dever de manter conduta compatível com a moralidade administrativa (art. 116, IX). O Código de Ética afirma que atos da vida privada podem <b>diminuir o bom conceito</b> na vida funcional (regra VI). Cabem apuração ética e disciplinar.</p></details></div>\n<h3>20. Ética e poder de polícia: o agente de fiscalização</h3>\n<ul><li>O policial e o agente de fiscalização exercem uma forma especial de função pública: o <b>poder de polícia</b>, que limita direitos individuais em benefício do interesse coletivo (CTN, art. 78). Por isso, suas decisões precisam de <b>legalidade estrita, proporcionalidade, motivação e respeito à dignidade</b>.</li><li><b>Discricionariedade</b> não é arbítrio. Quando a lei deixa margem de escolha (por exemplo, sobre o momento e o local de uma abordagem), o agente deve escolher a alternativa mais adequada ao interesse público, motivar a decisão e evitar qualquer critério pessoal, discriminatório ou de vingança.</li><li><b>Uso da força</b>: deve obedecer aos princípios de <b>legalidade, necessidade, proporcionalidade, moderação e conveniência</b> (Portaria Interministerial nº 4.226/2010, sobre diretrizes do uso da força; e Lei 13.060/2014, que disciplina o uso dos instrumentos de menor potencial ofensivo). A <b>Lei 13.060/2014</b> veda o uso de arma de fogo contra pessoa em fuga que esteja desarmada ou que não represente risco imediato de morte ou de lesão aos agentes ou a terceiros, e contra veículo que desrespeite bloqueio policial, salvo quando o ato represente esse risco.</li><li><b>Perfilamento discriminatório</b>: abordar alguém apenas por cor, aparência, roupa ou local de moradia viola a igualdade e a impessoalidade. A fundada suspeita, exigida para a busca pessoal (CPP, art. 244), deve basear-se em elementos <b>objetivos e concretos</b>, e não em intuições subjetivas; o STF e o STJ têm anulado buscas fundadas apenas em critérios genéricos.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Poder de polícia</span></span><span class=\"vs\"><span>Limita direitos em favor do interesse coletivo (CTN, art. 78)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Uso da força</span></span><span class=\"vs\"><span>Legalidade, necessidade, proporcionalidade, moderação, conveniência</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 13.060/2014</span></span><span class=\"vs\"><span>Instrumentos de menor potencial ofensivo; limites ao uso de arma de fogo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fundada suspeita (CPP, art. 244)</span></span><span class=\"vs\"><span>Elementos objetivos, não intuição</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O agente pode disparar arma de fogo contra veículo que fura bloqueio policial em qualquer situação</span><br>✅ <span class=\"certo\">a Lei 13.060/2014 veda, <b>salvo</b> quando o ato represente risco de morte ou lesão aos agentes ou a terceiros</span></li><li>❌ <span class=\"banca\">Discricionariedade autoriza o agente a escolher livremente, inclusive por critérios pessoais</span><br>✅ <span class=\"certo\">discricionariedade exige escolha <b>motivada</b> e voltada ao <b>interesse público</b>, sem critérios pessoais</span></li></ol></div>\n<h3>21. Ética e a Lei de Abuso de Autoridade</h3>\n<ul><li>A <b>Lei 13.869/2019</b> define crimes de abuso de autoridade cometidos por agente público que, no exercício de suas funções ou a pretexto de exercê-las, abuse do poder que lhe tenha sido atribuído.</li><li><b>Elemento subjetivo especial</b>: as condutas só constituem crime quando praticadas com a <b>finalidade específica</b> de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou ainda por <b>mero capricho ou satisfação pessoal</b> (art. 1º, § 1º).</li><li><b>Divergência interpretativa</b>: a divergência na interpretação de lei ou na avaliação de fatos e provas <b>não configura</b>, por si só, abuso de autoridade (art. 1º, § 2º), o chamado \"crime de hermenêutica\" está vedado.</li><li>Exemplos de crimes da lei que dialogam com a ética policial: decretar ou executar prisão fora das hipóteses legais; constranger o preso, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a exibir-se à curiosidade pública ou a submeter-se a situação vexatória ou a constrangimento não autorizado em lei (art. 13); prosseguir com o interrogatório de quem decidiu permanecer calado ou pediu assistência de advogado; divulgar gravação ou trecho de gravação sem relação com a prova que se pretendia produzir, expondo a intimidade; e antecipar, inclusive por meio de rede social, a atribuição de culpa antes de concluídas as apurações e formalizada a acusação (art. 38).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Qualquer erro na interpretação da lei pelo agente configura abuso de autoridade</span><br>✅ <span class=\"certo\">a divergência interpretativa <b>não configura</b>, por si só, abuso; exige-se finalidade específica de prejudicar, beneficiar ou mero capricho</span></li><li>❌ <span class=\"banca\">Os crimes da Lei 13.869/2019 admitem a modalidade culposa</span><br>✅ <span class=\"certo\">exigem <b>dolo</b> e <b>finalidade específica</b></span></li></ol></div>\n<h3>22. Revisão comparativa: as várias \"listas\" do servidor</h3>\n<table class=\"tab\"><thead><tr><th>Norma; Foco; Sanção principal; Quem aplica</th></tr></thead><tbody><tr><td>Decreto 1.171/1994 (Código de Ética); Conduta ética, decoro, cortesia; Censura; Comissão de ética</td></tr><tr><td>Lei 8.112/1990 (arts. 116 e 117); Deveres e proibições funcionais; Advertência, suspensão, demissão; Autoridade competente após sindicância ou PAD</td></tr><tr><td>Lei 8.429/1992 (Improbidade); Desonestidade dolosa: enriquecimento, dano, princípios; Perda da função, direitos políticos, multa, ressarcimento; Poder Judiciário</td></tr><tr><td>Código Penal (crimes contra a Administração); Peculato, corrupção, concussão, prevaricação; Pena privativa de liberdade e multa; Poder Judiciário</td></tr><tr><td>Lei 12.813/2013 (Conflito de interesses); Situações de conflito durante e após o exercício; Improbidade e demissão; Judiciário e autoridade disciplinar</td></tr><tr><td>Lei 13.869/2019 (Abuso de autoridade); Abuso de poder com finalidade específica; Penas criminais, efeitos como perda do cargo em reincidência; Poder Judiciário</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Na prova, identifique <b>a norma</b> e <b>a instância</b> antes de julgar o item. \"A comissão de ética demitiu o servidor\" está errado na origem: comissão de ética aplica <b>censura</b>. \"O juiz aplicou advertência por violação do art. 117, I\" também está errado: advertência é aplicada pela <b>autoridade administrativa</b>.</div>\n<h3>23. Como as bancas cobram este tópico</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>Cebraspe cobra literalidade dos arts. 116, 117, 127 a 142 da Lei 8.112 (sobretudo a associação inciso → penalidade e os prazos de prescrição), a natureza da moralidade como princípio autônomo, a independência das instâncias (art. 125 e 126), as mudanças da Lei 14.230/2021 na improbidade e a distinção entre comissão de ética (censura) e corregedoria (penas disciplinares). FGV prefere situações práticas: servidor que recebe presente, que atua como intermediário, que usa veículo oficial, que divulga informações, e pede a conduta ou a consequência correta.</p></div>\n<ul><li><b>Pegadinhas mais repetidas</b>:</li><li>Trocar advertência por demissão nos incisos do art. 117 (lembre: I-VIII e XIX advertência; IX-XVI demissão; XVII-XVIII suspensão).</li><li>Confundir abandono de cargo (mais de 30 dias consecutivos) com inassiduidade habitual (60 dias interpolados em 12 meses).</li><li>Dizer que a absolvição por falta de provas afasta a punição administrativa.</li><li>Afirmar que a comissão de ética aplica suspensão ou demissão.</li><li>Afirmar que ainda existe improbidade culposa.</li><li>Dizer que o servidor deve cumprir ordem manifestamente ilegal.</li><li>Confundir lealdade às instituições com lealdade ao chefe.</li><li><b>Checklist de resolução</b>: (1) qual norma? (2) qual instância? (3) qual penalidade? (4) há número envolvido (prazo, dias, anos)? (5) há exceção legal (legítima defesa, parentes até 2º grau, acionista ou cotista)?</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 116, IX</span></span><span class=\"vs\"><span>Conduta compatível com a moralidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 117, XII</span></span><span class=\"vs\"><span>Receber presente em razão das atribuições: demissão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 126</span></span><span class=\"vs\"><span>Absolvição que nega fato ou autoria afasta a esfera administrativa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comissão de ética</span></span><span class=\"vs\"><span>Censura</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 14.230/2021</span></span><span class=\"vs\"><span>Improbidade só dolosa; prescrição de 8 anos</span></span></button></div></div>\n<h3>24. Fechamento</h3>\n<ul><li>A função pública é um <b>encargo</b>, não um privilégio. A ética da função pública reúne valores (integridade, moralidade, impessoalidade, transparência) e normas concretas (Código de Ética, Lei 8.112, Lei de Improbidade, Código Penal, leis de conflito de interesses e de abuso de autoridade). O servidor ético conhece essas normas, mas sobretudo interioriza seu fundamento: <b>servir ao público com honestidade</b>.</li></ul>\n<h3>25. Ética em período eleitoral: as condutas vedadas</h3>\n<ul><li>A neutralidade política da Administração é expressão da impessoalidade. Para evitar que a máquina pública desequilibre a disputa, a <b>Lei 9.504/1997</b> (art. 73) proíbe aos agentes públicos, servidores ou não, condutas <b>tendentes a afetar a igualdade de oportunidades entre candidatos</b> nos pleitos eleitorais.</li><li>Entre as condutas vedadas: <b>ceder ou usar</b>, em benefício de candidato, partido ou coligação, <b>bens móveis ou imóveis</b> da Administração (ressalvada a realização de convenção partidária); <b>usar materiais ou serviços</b> custeados pelos governos que excedam as prerrogativas; <b>ceder servidor</b> ou usar seus serviços para comitês de campanha <b>durante o horário de expediente</b>, salvo se o servidor estiver licenciado; fazer uso promocional, em favor de candidato, da <b>distribuição gratuita de bens e serviços de caráter social</b>; e, nos três meses que antecedem o pleito, <b>nomear, contratar, demitir sem justa causa, remover ou transferir</b> servidores na circunscrição, com as ressalvas legais (como a nomeação de aprovados em concursos homologados até o início desse prazo e cargos em comissão).</li><li>O servidor, como cidadão, <b>pode</b> ter preferência política e participar de campanha <b>fora do expediente</b>, sem usar recursos públicos e sem se valer do cargo. O que a ética e a lei proíbem é <b>misturar</b> a função com a campanha.</li><li>O Código de Ética veda ao servidor <b>usar do cargo ou função, facilidades, amizades, tempo, posição e influências, para obter qualquer favorecimento</b>, para si ou para outrem (regra XV, a), o que também alcança o favorecimento político.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Condutas vedadas (Lei 9.504, art. 73)</span></span><span class=\"vs\"><span>Atos que afetam a igualdade entre candidatos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Servidor em campanha</span></span><span class=\"vs\"><span>Permitido fora do expediente, sem recursos públicos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ceder servidor a comitê no expediente</span></span><span class=\"vs\"><span>Vedado, salvo se licenciado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Três meses antes do pleito</span></span><span class=\"vs\"><span>Vedadas nomeações e remoções, com ressalvas</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O servidor público está proibido de participar de campanhas eleitorais, mesmo fora do expediente</span><br>✅ <span class=\"certo\">a participação como cidadão é permitida <b>fora do expediente</b>, sem uso do cargo ou de recursos públicos</span></li><li>❌ <span class=\"banca\">Usar o carro oficial para levar material de campanha é permitido se o servidor estiver de férias</span><br>✅ <span class=\"certo\">é vedado ceder ou usar bens da Administração em benefício de candidato, independentemente de férias</span></li></ol></div>\n<h3>26. Glossário essencial da função pública</h3>\n<ul><li><b>Agente público</b>: todo aquele que exerce, ainda que transitoriamente ou sem remuneração, mandato, cargo, emprego ou função pública.</li><li><b>Cargo público</b>: conjunto de atribuições e responsabilidades previstas na estrutura organizacional, criado por lei.</li><li><b>Função de confiança</b>: exercida exclusivamente por servidores ocupantes de cargo efetivo, destinada às atribuições de direção, chefia e assessoramento (CF, art. 37, V).</li><li><b>Cargo em comissão</b>: de livre nomeação e exoneração, a ser preenchido por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinado às atribuições de direção, chefia e assessoramento.</li><li><b>Decoro</b>: compostura, dignidade no comportamento compatível com a função.</li><li><b>Probidade</b>: honestidade no trato da coisa pública.</li><li><b>Urbanidade</b>: tratamento cortês e respeitoso.</li><li><b>Desídia</b>: desleixo, negligência habitual no cumprimento das tarefas (art. 117, XV, punível com demissão).</li><li><b>Usura</b>: cobrança de juros abusivos, agiotagem (art. 117, XIV, punível com demissão).</li><li><b>Insubordinação grave</b>: recusa ostensiva e grave de cumprir ordem legal do superior, em serviço (art. 132, VI).</li><li><b>Incontinência pública e conduta escandalosa</b>: comportamento ofensivo ao decoro, praticado <b>na repartição</b> (art. 132, V).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A função de confiança pode ser exercida por pessoa sem vínculo efetivo com a Administração</span><br>✅ <span class=\"certo\">a função de confiança é <b>exclusiva</b> de ocupantes de cargo efetivo; o cargo em comissão é que admite pessoas sem vínculo</span></li><li>❌ <span class=\"banca\">A desídia é punida com advertência, por ser falta leve</span><br>✅ <span class=\"certo\">proceder de forma <b>desidiosa</b> (art. 117, XV) é punido com <b>demissão</b></span></li></ol></div>\n<h3>27. Treino rápido: associação norma → consequência</h3>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Recusar fé a documentos públicos gera demissão</span><br>✅ <span class=\"certo\">art. 117, III → <b>advertência</b></span></li><li>❌ <span class=\"banca\">Coagir subordinado a filiar-se a partido político gera demissão</span><br>✅ <span class=\"certo\">art. 117, VII → <b>advertência</b></span></li><li>❌ <span class=\"banca\">Aceitar emprego de Estado estrangeiro gera suspensão</span><br>✅ <span class=\"certo\">art. 117, XIII → <b>demissão</b></span></li><li>❌ <span class=\"banca\">Exercer atividade incompatível com o horário de trabalho gera demissão</span><br>✅ <span class=\"certo\">art. 117, XVIII → <b>suspensão</b></span></li><li>❌ <span class=\"banca\">Recusar-se a atualizar dados cadastrais gera suspensão</span><br>✅ <span class=\"certo\">art. 117, XIX → <b>advertência</b></span></li></ol></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Repita até automatizar: <b>\"Até o oitavo, advertência; do nono ao décimo sexto, demissão; décimo sétimo e décimo oitavo, suspensão; o décimo nono volta à advertência.\"</b></div>\n<h3>28. Mapa mental do tópico</h3>\n<ul><li><b>Função pública</b>: agente × servidor × cargo; teoria do órgão; poder como instrumento.</li><li><b>Integridade</b>: individual e institucional; programas de integridade (Decreto 9.203/2017); Sitai (Decreto 11.529/2023); linhas de defesa; canais de denúncia.</li><li><b>Moralidade</b>: princípio autônomo (CF, art. 37); legal × moral; ação popular; SV 13.</li><li><b>Lei 8.112</b>: deveres (art. 116), proibições (art. 117), penalidades (arts. 127 a 137), prescrição (art. 142), responsabilidades (arts. 121 a 126), sindicância e PAD (arts. 143 a 152).</li><li><b>Improbidade</b>: Lei 8.429 com a Lei 14.230/2021 (dolo, art. 11 taxativo, prescrição de 8 anos).</li><li><b>Poder de polícia e abuso de autoridade</b>: proporcionalidade, uso da força, fundada suspeita, Lei 13.869/2019.</li><li><b>Neutralidade política</b>: condutas vedadas da Lei 9.504/1997.</li></ul>\n<h3>29. Estágio probatório: a ética avaliada desde o início</h3>\n<ul><li>Ao entrar em exercício, o servidor nomeado para cargo de provimento efetivo fica sujeito a <b>estágio probatório</b>, durante o qual sua <b>aptidão e capacidade</b> para o desempenho do cargo são objeto de avaliação (Lei 8.112, art. 20). Embora o texto da lei mencione 24 meses, prevalece o prazo de <b>3 anos</b>, coincidente com o da estabilidade (CF, art. 41, com a EC 19/1998), conforme entendimento do STF e do STJ.</li><li>Os fatores avaliados no estágio probatório (art. 20) são: <b>assiduidade</b>, <b>disciplina</b>, <b>capacidade de iniciativa</b>, <b>produtividade</b> e <b>responsabilidade</b>. Vários deles são, na essência, <b>virtudes éticas</b>: a assiduidade expressa compromisso; a disciplina, respeito às normas; a responsabilidade, a consciência das consequências dos próprios atos.</li><li>O servidor não aprovado no estágio probatório é <b>exonerado</b> ou, se estável em outro cargo, <b>reconduzido</b> ao cargo anteriormente ocupado (art. 20, § 2º). A exoneração por inaptidão não é punição, mas exige <b>procedimento</b> com contraditório e ampla defesa (Súmula 21 do STF).</li><li>A Constituição também prevê a <b>avaliação especial de desempenho</b> por comissão instituída para essa finalidade como condição para a aquisição da estabilidade (CF, art. 41, § 4º), e a perda do cargo do servidor estável mediante <b>procedimento de avaliação periódica de desempenho</b>, na forma de lei complementar, assegurada ampla defesa (art. 41, § 1º, III).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estágio probatório (fatores)</span></span><span class=\"vs\"><span>Assiduidade, disciplina, iniciativa, produtividade e responsabilidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estabilidade</span></span><span class=\"vs\"><span>3 anos de efetivo exercício + avaliação especial de desempenho</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reprovação no estágio</span></span><span class=\"vs\"><span>Exoneração (ou recondução, se estável em outro cargo)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Súmula 21 do STF</span></span><span class=\"vs\"><span>Exoneração no estágio exige apuração formal</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O servidor em estágio probatório pode ser exonerado sumariamente, sem qualquer formalidade, por ainda não ser estável</span><br>✅ <span class=\"certo\">exige <b>procedimento</b> com as formalidades legais e defesa (Súmula 21 do STF)</span></li><li>❌ <span class=\"banca\">A avaliação do estágio probatório considera apenas a produtividade do servidor</span><br>✅ <span class=\"certo\">considera <b>assiduidade, disciplina, capacidade de iniciativa, produtividade e responsabilidade</b></span></li></ol></div>\n<h3>30. Teletrabalho, jornada e ética</h3>\n<ul><li>O <b>teletrabalho</b> (Programa de Gestão e Desempenho no Executivo federal) trouxe novos desafios éticos: cumprir metas com honestidade, estar disponível no horário combinado, proteger dados acessados fora da repartição e não usar o tempo de serviço para atividades particulares.</li><li>Os deveres da Lei 8.112 continuam valendo: <b>zelo e dedicação</b> (art. 116, I), <b>sigilo</b> (art. 116, VIII), <b>assiduidade e pontualidade</b> adaptadas ao regime (art. 116, X) e a proibição de <b>atividades incompatíveis com o horário de trabalho</b> (art. 117, XVIII).</li><li><b>Registro de ponto</b> ou de entregas fraudulento é grave: além de violar a lealdade e a moralidade, pode configurar improbidade e crime (falsidade ideológica, peculato). A confiança do teletrabalho exige integridade redobrada.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O teletrabalho \"paralelo\"</b><p>Um servidor em teletrabalho integral passa a prestar consultoria privada no mesmo horário em que deveria estar disponível para a equipe, entregando as metas do órgão à noite, com atrasos frequentes.</p><details><summary>Ver a solução comentada</summary><p>Há exercício de <b>atividade incompatível com o horário de trabalho</b> (art. 117, XVIII, suspensão), possível <b>conflito de interesses</b> (Lei 12.813/2013, se a consultoria se relacionar com a área de atuação) e quebra do dever de zelo e dedicação. O teletrabalho não suspende os deveres funcionais.</p></details></div>\n<h3>31. Ética e gestão de pessoas no setor público</h3>\n<ul><li>A ética também se manifesta nas decisões de <b>gestão</b>: distribuição de tarefas, avaliações de desempenho, indicações para funções e cursos. Critérios <b>objetivos e transparentes</b> protegem a impessoalidade e evitam perseguições ou favoritismos.</li><li><b>Meritocracia</b> e ética andam juntas: o concurso público (CF, art. 37, II) é a principal garantia de que os cargos efetivos serão ocupados por mérito, e não por relações pessoais. Burlar o concurso, por exemplo com provimento derivado indevido, é inconstitucional (Súmula Vinculante 43).</li><li>Avaliar com honestidade também é dever ético: inflar notas de quem é próximo ou punir com notas baixas quem discorda viola a impessoalidade e a moralidade.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Por ser ato de gestão interna, a avaliação de desempenho pode basear-se em critérios pessoais da chefia</span><br>✅ <span class=\"certo\">deve seguir critérios <b>objetivos</b>, motivados e transparentes, em respeito à impessoalidade</span></li><li>❌ <span class=\"banca\">A ascensão funcional para cargo de outra carreira sem concurso é válida se prevista em lei estadual</span><br>✅ <span class=\"certo\">é <b>inconstitucional</b> (SV 43)</span></li></ol></div>\n<h3>32. Frases-chave para a revisão final</h3>\n<ul><li><b>\"O cargo não é do servidor.\"</b> Ele exerce a função em nome da coletividade e responde pelos atos que pratica nessa qualidade.</li><li><b>\"Legal não basta.\"</b> A moralidade é princípio autônomo; um ato pode ser formalmente legal e, ainda assim, imoral e inválido.</li><li><b>\"Lealdade é às instituições.\"</b> O servidor deve lealdade ao órgão e ao interesse público, não a pessoas, e deve comunicar irregularidades, inclusive da chefia, a outra autoridade competente.</li><li><b>\"Ordem manifestamente ilegal não se cumpre.\"</b> O dever de obediência tem limite (art. 116, IV) e quem cumpre ordem manifestamente ilegal também responde.</li><li><b>\"Presente em razão do cargo é demissão.\"</b> Receber propina, comissão, presente ou vantagem de qualquer espécie em razão das atribuições é proibição do art. 117, XII, punida com demissão.</li><li><b>\"Até o oitavo, advertência; do nono ao décimo sexto, demissão; dezessete e dezoito, suspensão; dezenove, advertência.\"</b> É a regra das penalidades do art. 117.</li><li><b>\"Trinta seguidos, abandono; sessenta intercalados em doze meses, inassiduidade.\"</b> São os números das hipóteses de demissão por faltas ao serviço.</li><li><b>\"Cinco, dois e cento e oitenta.\"</b> São os prazos de prescrição da ação disciplinar para demissão, suspensão e advertência.</li><li><b>\"Fato ou autoria negados no crime, cai o administrativo; falta de provas, não.\"</b> É a regra de comunicação entre as instâncias (art. 126).</li><li><b>\"Comissão de ética aplica censura.\"</b> Advertência, suspensão e demissão vêm da autoridade disciplinar, após sindicância ou PAD.</li><li><b>\"Improbidade agora só com dolo.\"</b> A Lei 14.230/2021 extinguiu a modalidade culposa, tornou o art. 11 taxativo e fixou a prescrição em 8 anos.</li><li><b>\"Força só a necessária.\"</b> O uso da força obedece à legalidade, necessidade, proporcionalidade, moderação e conveniência.</li><li><b>\"Campanha só fora do expediente e sem recursos públicos.\"</b> A neutralidade política da Administração protege a igualdade entre candidatos.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cargo</span></span><span class=\"vs\"><span>Exercido em nome da coletividade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Moralidade</span></span><span class=\"vs\"><span>Princípio autônomo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lealdade</span></span><span class=\"vs\"><span>Às instituições</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Presente em razão do cargo</span></span><span class=\"vs\"><span>Demissão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prescrição disciplinar</span></span><span class=\"vs\"><span>5 anos, 2 anos, 180 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comissão de ética</span></span><span class=\"vs\"><span>Censura</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Para a Lei de Improbidade, considera-se agente público inclusive quem exerce função pública transitoriamente ou sem remuneração.",
+"c": true,
+"prof": "Certo.",
+"x": "Conceito amplo (Lei 8.429, art. 2º).",
+"e": "Agente público"
+},
+{
+"p": "Servidor público, para a Lei 8.112/1990, é qualquer pessoa que preste serviço ao Estado, com ou sem vínculo formal.",
+"c": false,
+"prof": "Errado.",
+"x": "É a pessoa legalmente investida em cargo público (art. 2º).",
+"e": "Lei 8.112, art. 2º"
+},
+{
+"p": "Cargo público é criado por lei, com denominação própria e vencimento pago pelos cofres públicos.",
+"c": true,
+"prof": "Certo.",
+"x": "Lei 8.112, art. 3º.",
+"e": "Cargo público"
+},
+{
+"p": "Integridade pública, segundo a OCDE, é o alinhamento consistente a valores e normas éticas para priorizar o interesse público sobre interesses privados.",
+"c": true,
+"prof": "Certo.",
+"x": "Conceito difundido pelos programas de integridade.",
+"e": "Integridade"
+},
+{
+"p": "A integridade pública tem dimensão exclusivamente individual, ligada ao caráter de cada servidor.",
+"c": false,
+"prof": "Errado.",
+"x": "Tem também dimensão institucional: regras, controles e canais que previnem, detectam e corrigem desvios.",
+"e": "Integridade"
+},
+{
+"p": "O Decreto 9.203/2017 determina que órgãos e entidades da administração federal instituam programas de integridade.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 19.",
+"e": "Decreto 9.203"
+},
+{
+"p": "A moralidade é princípio expresso da Administração Pública no caput do art. 37 da Constituição.",
+"c": true,
+"prof": "Certo.",
+"x": "LIMPE.",
+"e": "CF, art. 37"
+},
+{
+"p": "A aplicação do princípio da moralidade depende sempre de lei específica que descreva as condutas imorais.",
+"c": false,
+"prof": "Errado.",
+"x": "O STF aplica a moralidade diretamente da CF (ex.: SV 13).",
+"e": "Moralidade"
+},
+{
+"p": "Pessoa jurídica tem legitimidade para propor ação popular contra ato lesivo à moralidade administrativa.",
+"c": false,
+"prof": "Errado.",
+"x": "Só o cidadão (Súmula 365 do STF).",
+"e": "Ação popular"
+},
+{
+"p": "Manter conduta compatível com a moralidade administrativa é dever do servidor previsto na Lei 8.112/1990.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 116, IX.",
+"e": "Lei 8.112, art. 116"
+},
+{
+"p": "Ser leal às instituições a que servir é dever do servidor.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 116, II: lealdade às instituições, não a pessoas.",
+"e": "Lei 8.112, art. 116"
+},
+{
+"p": "O servidor deve cumprir as ordens superiores, ainda que manifestamente ilegais.",
+"c": false,
+"prof": "Errado.",
+"x": "O dever exclui ordens manifestamente ilegais (art. 116, IV).",
+"e": "Lei 8.112, art. 116"
+},
+{
+"p": "Havendo suspeita de envolvimento da autoridade superior, o servidor deve levar a irregularidade ao conhecimento de outra autoridade competente para apuração.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 116, VI.",
+"e": "Lei 8.112, art. 116"
+},
+{
+"p": "A representação contra ilegalidade, omissão ou abuso de poder é encaminhada pela via hierárquica e apreciada pela autoridade superior àquela contra a qual é formulada.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 116, parágrafo único.",
+"e": "Representação"
+},
+{
+"p": "Nenhum servidor poderá ser responsabilizado por dar ciência à autoridade competente de informação sobre prática de crimes ou improbidade de que tenha conhecimento.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 126-A, incluído pela Lei 12.527/2011.",
+"e": "Proteção ao denunciante"
+},
+{
+"p": "Tratar com urbanidade as pessoas é mera recomendação, sem natureza de dever funcional.",
+"c": false,
+"prof": "Errado.",
+"x": "É dever previsto no art. 116, XI.",
+"e": "Lei 8.112, art. 116"
+},
+{
+"p": "Ausentar-se do serviço durante o expediente, sem prévia autorização do chefe imediato, é proibição punida com advertência.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 117, I, e art. 129.",
+"e": "Penalidades"
+},
+{
+"p": "Receber presente em razão de suas atribuições sujeita o servidor à penalidade de advertência.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 117, XII: demissão (art. 132, XIII).",
+"e": "Penalidades"
+},
+{
+"p": "Valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública, é punido com demissão.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 117, IX.",
+"e": "Penalidades"
+},
+{
+"p": "Manter sob chefia imediata, em função de confiança, parente até o segundo grau civil é punido com demissão.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 117, VIII: advertência.",
+"e": "Penalidades"
+},
+{
+"p": "É permitido ao servidor ser acionista, cotista ou comanditário de sociedade privada.",
+"c": true,
+"prof": "Certo.",
+"x": "A vedação alcança gerência, administração e comércio (art. 117, X).",
+"e": "Art. 117, X"
+},
+{
+"p": "O servidor pode atuar como procurador de qualquer pessoa junto a repartições públicas, desde que gratuitamente.",
+"c": false,
+"prof": "Errado.",
+"x": "Só é admitido em benefícios previdenciários ou assistenciais de parentes até o 2º grau, cônjuge ou companheiro (art. 117, XI).",
+"e": "Art. 117, XI"
+},
+{
+"p": "Cometer a outro servidor atribuições estranhas ao cargo que ocupa, salvo em emergência e situações transitórias, é punido com suspensão.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 117, XVII.",
+"e": "Penalidades"
+},
+{
+"p": "Proceder de forma desidiosa é proibição cuja violação é punida com demissão.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 117, XV.",
+"e": "Penalidades"
+},
+{
+"p": "Utilizar recursos materiais da repartição em atividades particulares é falta leve, punida com advertência.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 117, XVI: demissão.",
+"e": "Penalidades"
+},
+{
+"p": "A recusa em atualizar dados cadastrais quando solicitado é punida com advertência.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 117, XIX.",
+"e": "Penalidades"
+},
+{
+"p": "Na aplicação das penalidades, consideram-se a natureza e a gravidade da infração, os danos ao serviço, as agravantes e atenuantes e os antecedentes funcionais.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 128.",
+"e": "Dosimetria"
+},
+{
+"p": "A suspensão disciplinar pode ser aplicada por até 120 dias.",
+"c": false,
+"prof": "Errado.",
+"x": "O limite é de 90 dias (art. 130).",
+"e": "Suspensão"
+},
+{
+"p": "O servidor que, injustificadamente, recusar-se a ser submetido a inspeção médica determinada pela autoridade será punido com suspensão de até 15 dias.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 130, § 1º.",
+"e": "Suspensão"
+},
+{
+"p": "Havendo conveniência para o serviço, a suspensão pode ser convertida em multa de 50% por dia de vencimento, permanecendo o servidor em serviço.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 130, § 2º.",
+"e": "Suspensão"
+},
+{
+"p": "Os registros de advertência e suspensão são cancelados após 5 e 10 anos, respectivamente, sem nova infração.",
+"c": false,
+"prof": "Errado.",
+"x": "São 3 e 5 anos (art. 131).",
+"e": "Cancelamento"
+},
+{
+"p": "O cancelamento dos registros de advertência e de suspensão não surte efeitos retroativos.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 131, parágrafo único.",
+"e": "Cancelamento"
+},
+{
+"p": "Configura abandono de cargo a falta ao serviço, sem justa causa, por 60 dias interpolados em 12 meses.",
+"c": false,
+"prof": "Errado.",
+"x": "Isso é inassiduidade habitual; abandono é ausência intencional por mais de 30 dias consecutivos.",
+"e": "Art. 138 e 139"
+},
+{
+"p": "A ofensa física em serviço a servidor ou particular não gera demissão quando praticada em legítima defesa própria ou de outrem.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 132, VII.",
+"e": "Demissão"
+},
+{
+"p": "Incontinência pública e conduta escandalosa, na repartição, são hipóteses de demissão.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 132, V.",
+"e": "Demissão"
+},
+{
+"p": "A cassação de aposentadoria é aplicada ao inativo que houver praticado, na atividade, falta punível com demissão.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 134.",
+"e": "Cassação"
+},
+{
+"p": "O STF declarou inconstitucional a regra que impedia, de forma perpétua, o retorno ao serviço público federal de servidor demitido por determinadas infrações.",
+"c": true,
+"prof": "Certo.",
+"x": "ADI 2.975: vedação de pena de caráter perpétuo.",
+"e": "Art. 137"
+},
+{
+"p": "A ação disciplinar prescreve em 2 anos para as infrações puníveis com demissão.",
+"c": false,
+"prof": "Errado.",
+"x": "São 5 anos para demissão; 2 para suspensão; 180 dias para advertência (art. 142).",
+"e": "Prescrição"
+},
+{
+"p": "O prazo prescricional da ação disciplinar começa a correr da data em que o fato se tornou conhecido.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 142, § 1º.",
+"e": "Prescrição"
+},
+{
+"p": "A instauração de processo disciplinar interrompe a prescrição até a decisão final proferida por autoridade competente.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 142, § 3º.",
+"e": "Prescrição"
+},
+{
+"p": "As sanções civis, penais e administrativas poderão cumular-se, sendo independentes entre si.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 125.",
+"e": "Responsabilidades"
+},
+{
+"p": "A absolvição criminal por falta de provas afasta a responsabilidade administrativa do servidor.",
+"c": false,
+"prof": "Errado.",
+"x": "Só afasta a absolvição que negue a existência do fato ou a autoria (art. 126).",
+"e": "Art. 126"
+},
+{
+"p": "A responsabilidade civil do servidor decorre de ato omissivo ou comissivo, doloso ou culposo, que resulte em prejuízo ao erário ou a terceiros.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 122.",
+"e": "Responsabilidade civil"
+},
+{
+"p": "A sindicância pode resultar na aplicação de advertência ou de suspensão de até 30 dias.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 145, II.",
+"e": "Sindicância"
+},
+{
+"p": "O processo administrativo disciplinar é conduzido por comissão de dois servidores estáveis.",
+"c": false,
+"prof": "Errado.",
+"x": "São três servidores estáveis (art. 149).",
+"e": "PAD"
+},
+{
+"p": "O afastamento preventivo do servidor, no PAD, ocorre sem prejuízo da remuneração.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 147.",
+"e": "Afastamento preventivo"
+},
+{
+"p": "Segundo a Súmula Vinculante 5, a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.",
+"c": true,
+"prof": "Certo.",
+"x": "SV 5.",
+"e": "SV 5"
+},
+{
+"p": "Conforme a Súmula 611 do STJ, é permitida a instauração de PAD com base em denúncia anônima, desde que devidamente motivada e com amparo em investigação ou sindicância.",
+"c": true,
+"prof": "Certo.",
+"x": "Súmula 611 do STJ.",
+"e": "Denúncia anônima"
+},
+{
+"p": "Após a Lei 14.230/2021, admite-se improbidade culposa nos atos que causam lesão ao erário.",
+"c": false,
+"prof": "Errado.",
+"x": "A modalidade culposa foi extinta; exige-se dolo.",
+"e": "Improbidade"
+},
+{
+"p": "Após a Lei 14.230/2021, o rol de atos de improbidade que atentam contra os princípios da Administração passou a ser taxativo.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 11.",
+"e": "Improbidade"
+},
+{
+"p": "A ação de improbidade prescreve em 8 anos, conforme a redação dada pela Lei 14.230/2021.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 23.",
+"e": "Improbidade"
+},
+{
+"p": "O nepotismo foi incluído expressamente entre os atos de improbidade que atentam contra os princípios da Administração.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 11, XI.",
+"e": "Improbidade"
+},
+{
+"p": "As sanções por improbidade administrativa impedem a responsabilização penal pelo mesmo fato.",
+"c": false,
+"prof": "Errado.",
+"x": "A CF ressalva: sem prejuízo da ação penal cabível (art. 37, § 4º).",
+"e": "CF, art. 37, § 4º"
+},
+{
+"p": "A mera divergência interpretativa da lei, sem dolo, não configura improbidade administrativa.",
+"c": true,
+"prof": "Certo.",
+"x": "Lei 8.429, com a Lei 14.230/2021.",
+"e": "Improbidade"
+},
+{
+"p": "A posse em cargo público exige apresentação de declaração de bens e valores.",
+"c": true,
+"prof": "Certo.",
+"x": "Lei 8.112, art. 13, § 5º.",
+"e": "Declaração de bens"
+},
+{
+"p": "É permitida a acumulação remunerada de dois cargos de professor, havendo compatibilidade de horários.",
+"c": true,
+"prof": "Certo.",
+"x": "CF, art. 37, XVI, a.",
+"e": "Acumulação"
+},
+{
+"p": "É permitida a acumulação de um cargo técnico com qualquer outro cargo técnico, havendo compatibilidade de horários.",
+"c": false,
+"prof": "Errado.",
+"x": "Admite-se professor com técnico ou científico; dois técnicos não.",
+"e": "Acumulação"
+},
+{
+"p": "Detectada a acumulação ilegal, a opção do servidor até o último dia do prazo para defesa configura sua boa-fé.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 133, § 5º.",
+"e": "Acumulação"
+},
+{
+"p": "A pena aplicável ao servidor pela comissão de ética é a de censura.",
+"c": true,
+"prof": "Certo.",
+"x": "Decreto 1.171, regra XXII.",
+"e": "Censura"
+},
+{
+"p": "A comissão de ética pode aplicar suspensão de até 30 dias ao servidor que violar o Código de Ética.",
+"c": false,
+"prof": "Errado.",
+"x": "Ela aplica censura; suspensão é penalidade disciplinar.",
+"e": "Censura"
+},
+{
+"p": "O modelo das três linhas de defesa situa a auditoria interna na terceira linha, como avaliação independente.",
+"c": true,
+"prof": "Certo.",
+"x": "Primeira: gestores; segunda: supervisão de riscos; terceira: auditoria interna.",
+"e": "Integridade"
+},
+{
+"p": "A Lei 13.060/2014 disciplina o uso dos instrumentos de menor potencial ofensivo pelos agentes de segurança pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Uso diferenciado da força.",
+"e": "Uso da força"
+},
+{
+"p": "É legítimo o disparo de arma de fogo contra veículo que desrespeite bloqueio policial, em qualquer circunstância.",
+"c": false,
+"prof": "Errado.",
+"x": "É vedado, salvo quando o ato represente risco de morte ou lesão (Lei 13.060/2014).",
+"e": "Uso da força"
+},
+{
+"p": "A fundada suspeita para a busca pessoal deve basear-se em elementos objetivos e concretos.",
+"c": true,
+"prof": "Certo.",
+"x": "CPP, art. 244; jurisprudência do STJ e do STF.",
+"e": "Busca pessoal"
+},
+{
+"p": "Na Lei de Abuso de Autoridade, as condutas só são crime quando praticadas com finalidade específica de prejudicar outrem, beneficiar a si ou a terceiro, ou por mero capricho ou satisfação pessoal.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 1º, § 1º.",
+"e": "Abuso de autoridade"
+},
+{
+"p": "A divergência na interpretação da lei configura, por si só, crime de abuso de autoridade.",
+"c": false,
+"prof": "Errado.",
+"x": "Não configura (art. 1º, § 2º).",
+"e": "Abuso de autoridade"
+},
+{
+"p": "A legislação eleitoral veda ceder servidor público para comitê de campanha durante o horário de expediente, salvo se licenciado.",
+"c": true,
+"prof": "Certo.",
+"x": "Lei 9.504/1997, art. 73, III.",
+"e": "Condutas vedadas"
+},
+{
+"p": "O servidor público está proibido de participar de campanhas eleitorais, ainda que fora do expediente.",
+"c": false,
+"prof": "Errado.",
+"x": "Pode participar como cidadão, fora do expediente e sem recursos públicos.",
+"e": "Condutas vedadas"
+},
+{
+"p": "As funções de confiança são exercidas exclusivamente por servidores ocupantes de cargo efetivo.",
+"c": true,
+"prof": "Certo.",
+"x": "CF, art. 37, V.",
+"e": "Função de confiança"
+},
+{
+"p": "Assiduidade, disciplina, capacidade de iniciativa, produtividade e responsabilidade são fatores avaliados no estágio probatório.",
+"c": true,
+"prof": "Certo.",
+"x": "Lei 8.112, art. 20.",
+"e": "Estágio probatório"
+},
+{
+"p": "O servidor em estágio probatório pode ser exonerado sem qualquer procedimento, por não ter estabilidade.",
+"c": false,
+"prof": "Errado.",
+"x": "Exige apuração com formalidades legais (Súmula 21 do STF).",
+"e": "Estágio probatório"
+},
+{
+"p": "Segundo a Lei 8.112/1990, a violação da proibição de exercer atividade incompatível com o horário de trabalho é punida com",
+"alts": [
+"advertência",
+"suspensão",
+"demissão",
+"cassação de aposentadoria",
+"destituição de função"
+],
+"r": 1,
+"n": [
+"Advertência é para I a VIII e XIX.",
+"Correta (art. 117, XVIII).",
+"Demissão é para IX a XVI.",
+"Aplica-se a inativos.",
+"Não é a regra."
+],
+"x": "XVII e XVIII → suspensão.",
+"e": "Lei 8.112, art. 117"
+},
+{
+"p": "Configura inassiduidade habitual a falta ao serviço, sem causa justificada, por",
+"alts": [
+"mais de 30 dias consecutivos",
+"30 dias interpolados em 12 meses",
+"60 dias interpolados em 12 meses",
+"90 dias consecutivos",
+"60 dias consecutivos"
+],
+"r": 2,
+"n": [
+"Isso é abandono de cargo.",
+"Número errado.",
+"Correta (art. 139).",
+"Não é a regra.",
+"Não é a regra."
+],
+"x": "Arts. 138 e 139.",
+"e": "Lei 8.112"
+},
+{
+"p": "A prescrição da ação disciplinar quanto às infrações puníveis com suspensão ocorre em",
+"alts": [
+"180 dias",
+"2 anos",
+"3 anos",
+"5 anos",
+"8 anos"
+],
+"r": 1,
+"n": [
+"Advertência.",
+"Correta.",
+"Não é prazo do art. 142.",
+"Demissão.",
+"Improbidade."
+],
+"x": "Art. 142.",
+"e": "Prescrição"
+},
+{
+"p": "A responsabilidade administrativa do servidor é afastada quando houver absolvição criminal",
+"alts": [
+"por insuficiência de provas",
+"por prescrição",
+"que negue a existência do fato ou sua autoria",
+"por extinção da punibilidade",
+"em qualquer hipótese"
+],
+"r": 2,
+"n": [
+"Não afasta.",
+"Não afasta.",
+"Correta (art. 126).",
+"Não afasta.",
+"As instâncias são independentes."
+],
+"x": "Art. 126.",
+"e": "Instâncias"
+},
+{
+"p": "Após a Lei 14.230/2021, os atos de improbidade administrativa",
+"alts": [
+"admitem modalidade culposa em todas as espécies",
+"exigem dolo para sua configuração",
+"prescrevem em 5 anos",
+"têm rol exemplificativo no art. 11",
+"só podem ser apurados pela CGU"
+],
+"r": 1,
+"n": [
+"Foi extinta.",
+"Correta.",
+"São 8 anos.",
+"É taxativo.",
+"Ação judicial."
+],
+"x": "Lei 8.429.",
+"e": "Improbidade"
+},
+{
+"p": "Um servidor recebe de empresa interessada em processo sob sua análise um relógio de alto valor. Pela Lei 8.112/1990, a conduta é punível com",
+"alts": [
+"advertência",
+"suspensão de até 30 dias",
+"suspensão de até 90 dias",
+"demissão",
+"censura ética apenas"
+],
+"r": 3,
+"n": [
+"Penalidade insuficiente.",
+"Penalidade insuficiente.",
+"Penalidade insuficiente.",
+"Correta (art. 117, XII).",
+"Também há responsabilidade disciplinar."
+],
+"x": "Art. 117, XII.",
+"e": "Penalidades"
+},
+{
+"p": "É condição para a aquisição da estabilidade pelo servidor nomeado em virtude de concurso",
+"alts": [
+"dois anos de efetivo exercício",
+"três anos de efetivo exercício e avaliação especial de desempenho",
+"aprovação em curso de formação",
+"cinco anos de serviço público",
+"ausência de punições disciplinares"
+],
+"r": 1,
+"n": [
+"Prazo antigo.",
+"Correta (CF, art. 41).",
+"Não é requisito constitucional geral.",
+"Não é a regra.",
+"Não é o requisito."
+],
+"x": "CF, art. 41.",
+"e": "Estabilidade"
+},
+{
+"p": "A instância que aplica a censura ao servidor que viola o Código de Ética é",
+"alts": [
+"a corregedoria",
+"o Tribunal de Contas",
+"a comissão de ética",
+"o Ministério Público",
+"o Poder Judiciário"
+],
+"r": 2,
+"n": [
+"Aplica penas disciplinares.",
+"Controle externo.",
+"Correta.",
+"Propõe ações.",
+"Julga ações."
+],
+"x": "Decreto 1.171, regra XXII.",
+"e": "Comissão de ética"
+}
+]
+},
+"etica-moral": {
+"html": "<h3>1. Por que estudar ética numa prova de concurso</h3>\n<ul><li>A ética aparece nos editais da PRF, das polícias civis e de quase todos os concursos federais porque o servidor exerce <b>poder em nome do Estado</b>: fiscaliza, multa, prende, decide e administra dinheiro público. Quem tem poder sobre a vida dos outros precisa de <b>critérios</b> para usar esse poder bem, e a ética é a disciplina que estuda esses critérios.</li><li>Nas provas, o tema costuma ser cobrado em duas camadas. A primeira é <b>conceitual</b>: o que é ética, o que é moral, o que são valores, princípios e virtudes, e como as grandes correntes filosóficas pensam o bem agir. A segunda é <b>normativa</b>: o que dizem a Constituição, a Lei 8.112/1990, o Código de Ética (Decreto 1.171/1994) e as demais normas sobre a conduta do servidor. Este tópico cuida da primeira camada, que serve de base para todas as outras.</li><li>As bancas gostam de <b>definições bem delimitadas</b>. Um item do tipo \"a ética é o conjunto de normas impostas pelo Estado, cujo descumprimento gera sanção penal\" está errado, e saber por quê exige dominar a diferença entre ética, moral e direito. É isso que construiremos passo a passo.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Leia este tópico como um mapa: primeiro os conceitos (ética, moral, valor, princípio, virtude), depois as diferenças (ética × moral; moral × direito), depois as correntes filosóficas e, por fim, a ponte com a ética no serviço público.</div>\n<h3>2. A origem das palavras</h3>\n<ul><li><b>Ética</b> vem do grego <b>ethos</b>. Na língua grega havia duas grafias próximas: *éthos* (com vogal longa), que significava <b>caráter, modo de ser</b>, e *ethos* (com vogal breve), que significava <b>costume, hábito</b>. A ética nasce justamente da reflexão sobre o caráter que se forma pelos hábitos.</li><li><b>Moral</b> vem do latim <b>mos, moris</b> (no plural, *mores*), que significa <b>costume</b>. Os romanos traduziram o *ethos* grego por *mos*, e daí veio \"moral\".</li><li>Etimologicamente, portanto, as duas palavras estão ligadas à ideia de <b>costume</b>. Por isso muitos autores e até algumas bancas as tratam como sinônimas em sentido amplo. Mas, na linguagem técnica cobrada em concursos, elas costumam ser <b>distinguidas</b>, como veremos.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ethos (grego)</span></span><span class=\"vs\"><span>Caráter, modo de ser; costume</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mos, moris (latim)</span></span><span class=\"vs\"><span>Costume</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Origem comum</span></span><span class=\"vs\"><span>Ambas ligadas à ideia de costume</span></span></button></div></div>\n<h3>3. Ética e moral: a distinção clássica</h3>\n<ul><li><b>Moral</b> é o <b>conjunto de normas, valores e costumes</b> que orientam o comportamento das pessoas em um grupo social, em determinado tempo e lugar. Ela é <b>prática</b>: diz o que se deve e o que não se deve fazer. Exemplo: \"não se deve mentir\", \"deve-se respeitar os mais velhos\".</li><li><b>Ética</b> é a <b>reflexão teórica e crítica sobre a moral</b>. Ela pergunta <b>por que</b> algo é considerado certo ou errado, se as normas morais têm fundamento, se valem para todos, e como devemos viver. Por isso se diz que a ética é a <b>\"ciência da moral\"</b> ou a <b>filosofia moral</b>.</li><li>Uma imagem ajuda: a moral é o <b>conteúdo</b> (as regras do jogo que um grupo pratica); a ética é o <b>olhar crítico</b> sobre esse conteúdo (o estudo das regras, de sua justificação e de seus limites).</li></ul>\n<table class=\"tab\"><thead><tr><th>Critério; Moral; Ética</th></tr></thead><tbody><tr><td>Natureza; Prática, normativa (o que fazer); Teórica, reflexiva (por que fazer)</td></tr><tr><td>Abrangência; Particular: varia entre grupos, épocas e culturas; Pretende universalidade: busca princípios válidos para todos</td></tr><tr><td>Mudança; Muda com o tempo e com a sociedade; Questiona e pode impulsionar a mudança da moral</td></tr><tr><td>Pergunta típica; \"O que devo fazer?\"; \"Por que devo fazer isso?\"</td></tr><tr><td>Exemplo; Costume de não trabalhar aos domingos em certa comunidade; Estudo sobre se o descanso semanal é um dever, um direito ou uma convenção</td></tr></tbody></table>\n<ul><li><b>Característica decisiva da moral</b>: ela é <b>histórica e cultural</b>. O que era moralmente aceito no século XIX (por exemplo, a escravidão) passou a ser condenado. A moral de um grupo religioso pode diferir da de outro. A moral muda.</li><li><b>Característica decisiva da ética</b>: ela busca <b>fundamentos racionais</b> e <b>universais</b>. Ao perguntar se a escravidão era justa, a reflexão ética mostrou que ela violava a dignidade humana, independentemente do que os costumes da época aceitavam.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A moral é universal e imutável, enquanto a ética varia de acordo com a cultura</span><br>✅ <span class=\"certo\">é o contrário: a <b>moral</b> é histórica e varia entre culturas; a <b>ética</b> busca princípios <b>universais</b></span></li><li>❌ <span class=\"banca\">Ética e moral são sempre termos técnicos opostos, sem relação entre si</span><br>✅ <span class=\"certo\">ambas têm origem ligada a <b>costume</b>; a ética é a <b>reflexão sobre a moral</b> (são distintas, mas relacionadas)</span></li></ol></div>\n<ul><li><b>Atenção à banca</b>: alguns textos de apoio usam \"ética\" e \"moral\" como sinônimos. Se o enunciado de um item disser expressamente \"em sentido amplo, ética e moral podem ser tomadas como sinônimos\", o item pode estar certo. Leia sempre o contexto: a distinção técnica é a regra; a sinonímia é a exceção que precisa vir explicitada.</li></ul>\n<h3>4. Moral, direito e outras ordens normativas</h3>\n<ul><li>A vida em sociedade é regulada por várias <b>ordens normativas</b>: a moral, o direito, a religião e as regras de etiqueta (trato social). Todas dizem como devemos agir, mas diferem em pontos importantes.</li></ul>\n<table class=\"tab\"><thead><tr><th>Critério; Moral; Direito</th></tr></thead><tbody><tr><td>Origem; Consciência e costumes sociais; Estado (leis, decretos, decisões)</td></tr><tr><td>Coercibilidade; Não há coação organizada; a sanção é interna (remorso) ou social (reprovação); Coercível: o Estado pode impor o cumprimento e aplicar sanções</td></tr><tr><td>Foro; Íntimo (interior); Externo (conduta exteriorizada)</td></tr><tr><td>Bilateralidade; Unilateral: exige do sujeito sem conferir a outro o poder de cobrar; Bilateral (atributivo): a um dever corresponde o direito de alguém exigir</td></tr><tr><td>Heteronomia; Tende à autonomia (eu me dou a regra); Heterônomo (a regra vem de fora e vale mesmo contra a minha vontade)</td></tr></tbody></table>\n<ul><li><b>Teoria do mínimo ético</b> (Jellinek): o direito representaria o <b>mínimo de moral</b> indispensável à convivência social, tornado obrigatório pelo Estado. Graficamente, o direito seria um círculo <b>menor</b>, contido dentro do círculo maior da moral.</li><li><b>Teoria dos círculos secantes</b> (Du Pasquier): direito e moral teriam uma <b>parte em comum</b> e partes <b>independentes</b>. Há normas jurídicas moralmente neutras (por exemplo, mão de direção no trânsito, prazos processuais) e normas morais que o direito não impõe (por exemplo, a gratidão).</li><li><b>Teoria dos círculos independentes</b> (Kelsen, na leitura usual das bancas): o direito vale por ter sido produzido segundo o procedimento previsto, <b>independentemente de seu conteúdo moral</b>. É a visão juspositivista estrita.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Toda norma jurídica é necessariamente uma norma moral</span><br>✅ <span class=\"certo\">há normas jurídicas <b>moralmente neutras</b> (ex.: regras de trânsito, prazos), como mostra a teoria dos <b>círculos secantes</b></span></li><li>❌ <span class=\"banca\">A moral é coercível pelo Estado, como o direito</span><br>✅ <span class=\"certo\">a moral <b>não</b> tem coação organizada; a sanção moral é interna ou social</span></li></ol></div>\n<ul><li><b>Exemplo prático</b>: a lei exige que o servidor seja assíduo e pontual (Lei 8.112, art. 116, X). Essa é uma regra jurídica com sanção (advertência, suspensão, demissão por inassiduidade habitual). Já a cortesia com que ele trata o cidadão é um dever <b>moral</b> que o Código de Ética e a própria Lei 8.112 (art. 116, XI, \"tratar com urbanidade as pessoas\") transformaram também em dever <b>jurídico</b>. Isso mostra como a moral pode \"migrar\" para o direito.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mínimo ético (Jellinek)</span></span><span class=\"vs\"><span>Direito contido na moral</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Círculos secantes (Du Pasquier)</span></span><span class=\"vs\"><span>Parte comum + partes independentes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Coercibilidade</span></span><span class=\"vs\"><span>Marca do direito, não da moral</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Bilateralidade atributiva</span></span><span class=\"vs\"><span>Ao dever corresponde o direito de outrem exigir</span></span></button></div></div>\n<h3>5. Valores, princípios, virtudes e normas</h3>\n<ul><li><b>Valor</b> é aquilo que <b>consideramos digno de ser buscado ou preservado</b>: justiça, honestidade, vida, liberdade, solidariedade. Valores orientam escolhas e permitem julgar ações e situações como boas ou más, desejáveis ou indesejáveis.</li><li>Características dos valores frequentemente cobradas:</li><li><b>Bipolaridade</b>: todo valor tem um contravalor (justo/injusto; honesto/desonesto).</li><li><b>Hierarquia</b>: os valores se organizam em escalas de importância, que variam entre pessoas e sociedades; em conflitos, é preciso escolher o mais alto no caso concreto.</li><li><b>Historicidade</b>: os valores são reconhecidos e reinterpretados ao longo da história.</li><li><b>Objetividade relativa</b>: embora vividos subjetivamente, muitos valores são compartilhados e reconhecidos por toda a sociedade (por exemplo, a dignidade humana, consagrada na Constituição).</li><li><b>Princípio</b> é o <b>ponto de partida</b> que orienta a conduta e a interpretação de regras. Em ética, os princípios são <b>diretrizes gerais</b> que concretizam valores: por exemplo, o valor \"justiça\" se traduz no princípio da <b>impessoalidade</b> no serviço público (tratar todos sem favoritismos).</li><li><b>Norma (regra)</b> é a <b>prescrição específica</b>: \"é vedado ao servidor receber presente de quem tenha interesse em decisão sua\". A norma concretiza princípios em situações determinadas.</li><li><b>Virtude</b> é a <b>disposição de caráter</b>, adquirida pelo hábito, de agir bem. A honestidade como valor é um ideal; a honestidade como virtude é a qualidade da pessoa que <b>habitualmente</b> age com honestidade.</li></ul>\n<div class=\"lt-fluxo\"><span>Valor (o que é digno: justiça)</span> <em>→</em> <span>Princípio (diretriz: impessoalidade)</span> <em>→</em> <span>Norma (regra concreta: vedado favorecer parentes)</span> <em>→</em> <span>Conduta (o servidor nomeia o mais bem classificado)</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Princípios e normas são a mesma coisa: ambos descrevem condutas específicas</span><br>✅ <span class=\"certo\">o <b>princípio</b> é diretriz <b>geral</b> que concretiza um valor; a <b>norma</b> é prescrição <b>específica</b></span></li><li>❌ <span class=\"banca\">Virtude é um ato isolado de bondade</span><br>✅ <span class=\"certo\">virtude é <b>disposição estável</b>, adquirida pelo <b>hábito</b>, de agir bem</span></li></ol></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para a prova, guarde a cadeia <b>valor → princípio → norma → conduta</b>. Muitas questões descrevem um elemento e pedem que você o classifique.</div>\n<h3>6. Os elementos do ato moral</h3>\n<ul><li>Para que uma ação seja objeto de avaliação moral, a tradição filosófica exige alguns elementos. Sem eles, a ação pode ser lamentável, mas não é moralmente imputável a alguém.</li><li><b>Consciência</b>: o agente sabe o que está fazendo e conhece, ao menos em linhas gerais, o valor moral do ato. Quem age em erro invencível (sem possibilidade de saber) tem a responsabilidade reduzida ou excluída.</li><li><b>Liberdade (vontade livre)</b>: o agente pode escolher entre alternativas. Ações praticadas sob coação irresistível não são plenamente livres.</li><li><b>Responsabilidade</b>: por ser consciente e livre, o agente <b>responde</b> pelo ato e por suas consequências previsíveis. Responsabilidade é a contrapartida da liberdade.</li><li><b>Intencionalidade</b>: o ato moral tem um fim, um motivo. Dois atos externamente iguais podem ter valor moral diferente conforme a intenção (devolver um objeto perdido por honestidade ou só para receber recompensa).</li><li><b>Alteridade</b>: a moral pressupõe a relação com o <b>outro</b>. A pergunta ética nasce quando minha ação afeta alguém.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ato moral exige</span></span><span class=\"vs\"><span>Consciência, liberdade, responsabilidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Erro invencível</span></span><span class=\"vs\"><span>Reduz ou exclui a imputação moral</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Alteridade</span></span><span class=\"vs\"><span>A ação afeta o outro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Responsabilidade</span></span><span class=\"vs\"><span>Contrapartida da liberdade</span></span></button></div></div>\n<ul><li><b>Consciência moral</b> é a capacidade de julgar o valor das próprias ações. Ela atua <b>antes</b> (orientando a escolha), <b>durante</b> (acompanhando a ação) e <b>depois</b> (aprovando, com a sensação de dever cumprido, ou reprovando, com o remorso).</li><li><b>Juízo de fato × juízo de valor</b>: \"o servidor chegou às 9h\" é juízo de <b>fato</b> (descreve). \"O servidor agiu mal ao chegar atrasado sem justificativa\" é juízo de <b>valor</b> (avalia). A ética trabalha com juízos de valor, mas eles devem se apoiar em fatos verdadeiros.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Juízo de valor e juízo de fato são equivalentes, pois ambos descrevem a realidade</span><br>✅ <span class=\"certo\">o juízo de <b>fato</b> descreve; o juízo de <b>valor</b> avalia (bom, mau, justo, injusto)</span></li></ol></div>\n<h3>7. Autonomia e heteronomia</h3>\n<ul><li><b>Heteronomia</b> (do grego *heteros*, outro, e *nomos*, lei): a regra vem <b>de fora</b> do sujeito, de uma autoridade, de uma tradição ou do medo da punição. A pessoa age certo porque \"mandaram\" ou para não ser castigada.</li><li><b>Autonomia</b> (*autos*, si mesmo): o sujeito <b>dá a si mesmo</b> a lei moral, por compreender racionalmente o que é certo. É o ideal kantiano: agir por dever, reconhecendo a validade da regra.</li><li>Na psicologia do desenvolvimento moral (Piaget e Kohlberg), a criança passa de uma moral heterônoma (obediência à autoridade) para uma moral autônoma (cooperação e princípios). Kohlberg descreve três níveis: <b>pré-convencional</b> (evitar castigo, buscar recompensa), <b>convencional</b> (seguir normas do grupo e a lei) e <b>pós-convencional</b> (agir por princípios universais, como justiça e dignidade).</li><li><b>Aplicação no serviço público</b>: o servidor que só cumpre o Código de Ética por medo da comissão de ética age heteronomamente. O ideal ético é que ele compreenda e interiorize o porquê das regras (servir ao interesse público), agindo bem mesmo quando ninguém fiscaliza.</li></ul>\n<table class=\"tab\"><thead><tr><th>Nível (Kohlberg); Motivação; Exemplo no serviço público</th></tr></thead><tbody><tr><td>Pré-convencional; Evitar punição ou obter vantagem; Não aceita propina só por medo de ser descoberto</td></tr><tr><td>Convencional; Cumprir normas, ser aprovado pelo grupo; Segue o regulamento porque \"é a regra\"</td></tr><tr><td>Pós-convencional; Princípios universais (justiça, dignidade); Recusa a propina por respeito ao interesse público e ao cidadão</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Heteronomia</span></span><span class=\"vs\"><span>Regra imposta de fora</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Autonomia</span></span><span class=\"vs\"><span>Regra que o sujeito dá a si mesmo pela razão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Kohlberg</span></span><span class=\"vs\"><span>Pré-convencional, convencional, pós-convencional</span></span></button></div></div>\n<h3>8. As grandes correntes da ética</h3>\n<ul><li>A história da filosofia oferece várias respostas à pergunta \"como devo agir?\". As bancas cobram principalmente as linhas gerais de cada corrente e seus autores.</li></ul>\n<h4>Sócrates, Platão e a virtude como conhecimento</h4>\n<ul><li><b>Sócrates</b> (séc. V a.C.) identificou virtude e conhecimento: <b>ninguém faz o mal voluntariamente</b>; quem faz o mal o faz por ignorância do bem. Daí a importância do autoexame: \"conhece-te a ti mesmo\" e \"uma vida sem exame não vale a pena ser vivida\".</li><li><b>Platão</b> desenvolveu a ideia de que a alma tem três partes (racional, irascível e concupiscível) e que a <b>justiça</b> é a harmonia entre elas, sob o governo da razão. As virtudes cardeais são <b>sabedoria (prudência), coragem (fortaleza), temperança e justiça</b>.</li></ul>\n<h4>Aristóteles e a ética das virtudes</h4>\n<ul><li><b>Aristóteles</b> (Ética a Nicômaco) afirma que o fim último da vida humana é a <b>eudaimonia</b> (felicidade, vida plena), alcançada pela prática das <b>virtudes</b>.</li><li>A virtude moral é um <b>hábito</b> (*hexis*): tornamo-nos justos praticando atos justos, corajosos praticando atos corajosos.</li><li>A virtude é o <b>justo meio</b> (*mesotes*) entre dois extremos viciosos: a coragem está entre a covardia (falta) e a temeridade (excesso); a generosidade está entre a avareza e a prodigalidade.</li><li>A <b>prudência</b> (*phronesis*) é a virtude intelectual que permite identificar o justo meio no caso concreto. Aristóteles também vê o homem como <b>animal político</b>: a vida ética se realiza na pólis.</li></ul>\n<table class=\"tab\"><thead><tr><th>Virtude (justo meio); Falta (vício); Excesso (vício)</th></tr></thead><tbody><tr><td>Coragem; Covardia; Temeridade</td></tr><tr><td>Temperança; Insensibilidade; Intemperança</td></tr><tr><td>Generosidade; Avareza; Prodigalidade</td></tr><tr><td>Mansidão; Indiferença; Irascibilidade</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Para Aristóteles, a virtude é inata e não depende do hábito</span><br>✅ <span class=\"certo\">a virtude moral é adquirida pelo <b>hábito</b>; \"tornamo-nos justos praticando atos justos\"</span></li><li>❌ <span class=\"banca\">Para Aristóteles, a virtude é sempre o extremo oposto ao vício</span><br>✅ <span class=\"certo\">a virtude é o <b>justo meio</b> entre dois vícios (falta e excesso)</span></li></ol></div>\n<h4>Estoicos e epicuristas</h4>\n<ul><li><b>Estoicos</b> (Zenão, Sêneca, Epiteto, Marco Aurélio): viver <b>conforme a natureza e a razão</b>, aceitar o que não depende de nós e dominar as paixões; o sábio busca a <b>ataraxia</b> e a <b>apatheia</b> (ausência de perturbação pelas paixões).</li><li><b>Epicuristas</b> (Epicuro): o bem é o <b>prazer</b>, entendido como ausência de dor no corpo (aponia) e de perturbação na alma (ataraxia); prazeres moderados e a amizade valem mais que os excessos.</li></ul>\n<h4>Ética cristã medieval</h4>\n<ul><li><b>Santo Agostinho</b> e <b>São Tomás de Aquino</b> integraram a filosofia grega à fé cristã. Tomás retoma Aristóteles e acrescenta às virtudes cardeais as <b>virtudes teologais</b> (fé, esperança e caridade). Surge também a ideia de <b>lei natural</b>, acessível à razão, como fundamento da moral.</li></ul>\n<h4>Kant e a ética do dever (deontologia)</h4>\n<ul><li><b>Immanuel Kant</b> (séc. XVIII) fundamenta a moral na <b>razão</b> e no <b>dever</b>. Uma ação tem valor moral quando é praticada <b>por dever</b>, e não apenas conforme ao dever ou por interesse.</li><li><b>Imperativo hipotético</b>: \"se quiseres X, faze Y\" (condicional, depende de um fim desejado). <b>Imperativo categórico</b>: ordena de modo incondicional, para todo ser racional.</li><li>Fórmulas do imperativo categórico mais cobradas: (1) <b>da universalidade</b>: \"age apenas segundo uma máxima tal que possas, ao mesmo tempo, querer que ela se torne lei universal\"; (2) <b>da humanidade</b>: \"age de tal maneira que uses a humanidade, tanto na tua pessoa como na de qualquer outro, sempre como <b>fim</b> e nunca simplesmente como <b>meio</b>\"; (3) <b>da autonomia</b>: a vontade de todo ser racional é legisladora universal.</li><li>Consequência: para Kant, <b>mentir é sempre errado</b>, mesmo para obter bons resultados, porque a máxima \"mentir quando convém\" não pode ser universalizada sem se destruir.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Para Kant, uma ação é moralmente boa quando produz as melhores consequências</span><br>✅ <span class=\"certo\">Kant avalia a <b>intenção e o dever</b> (deontologia); quem olha as consequências é o <b>utilitarismo</b></span></li><li>❌ <span class=\"banca\">O imperativo hipotético kantiano ordena de forma incondicional</span><br>✅ <span class=\"certo\">incondicional é o imperativo <b>categórico</b>; o hipotético é <b>condicional</b> (\"se quiseres X...\")</span></li></ol></div>\n<h4>Utilitarismo (consequencialismo)</h4>\n<ul><li><b>Jeremy Bentham</b> e <b>John Stuart Mill</b> (séc. XVIII-XIX): a ação correta é a que produz <b>a maior felicidade para o maior número de pessoas</b> (princípio da utilidade). A moralidade se mede pelas <b>consequências</b>.</li><li>Bentham propôs um \"cálculo\" de prazeres e dores; Mill distinguiu prazeres <b>superiores</b> (intelectuais, morais) e <b>inferiores</b> (\"é melhor ser um Sócrates insatisfeito do que um tolo satisfeito\").</li><li>Crítica clássica: o utilitarismo puro poderia justificar o sacrifício de uma minoria em nome do bem-estar da maioria. Por isso o direito protege <b>direitos fundamentais</b> que não podem ser trocados por ganhos coletivos.</li></ul>\n<h4>Max Weber: ética da convicção e ética da responsabilidade</h4>\n<ul><li>Em \"A política como vocação\", <b>Max Weber</b> distingue a <b>ética da convicção</b> (agir conforme princípios, independentemente das consequências: \"faço o que é certo, o resultado a Deus pertence\") e a <b>ética da responsabilidade</b> (responder pelas <b>consequências previsíveis</b> dos próprios atos).</li><li>Para Weber, o homem público maduro combina as duas: tem convicções, mas responde pelos efeitos de suas decisões. É uma ideia muito usada para pensar a ética de gestores e autoridades.</li></ul>\n<h4>Ética contemporânea: discurso, justiça e cuidado</h4>\n<ul><li><b>Habermas</b> (ética do discurso): normas são válidas quando poderiam ser aceitas por todos os afetados num diálogo livre e racional. A legitimidade nasce da <b>comunicação</b> e da participação.</li><li><b>John Rawls</b> (Uma teoria da justiça): princípios justos seriam escolhidos sob um <b>véu de ignorância</b>, sem saber que posição ocuparíamos na sociedade; daí a prioridade das liberdades básicas e o <b>princípio da diferença</b> (desigualdades só se justificam se beneficiarem os menos favorecidos).</li><li><b>Hans Jonas</b> (princípio responsabilidade): diante do poder da técnica, devemos agir de modo que as consequências sejam compatíveis com a permanência da vida humana na Terra; é a base de uma ética para as <b>gerações futuras</b> e o meio ambiente.</li></ul>\n<table class=\"tab\"><thead><tr><th>Corrente; Critério do certo; Autor-chave; Frase para lembrar</th></tr></thead><tbody><tr><td>Ética das virtudes; Caráter virtuoso, justo meio; Aristóteles; \"Tornamo-nos justos praticando atos justos\"</td></tr><tr><td>Deontologia; Dever, intenção, regra universal; Kant; \"Trata a humanidade sempre como fim\"</td></tr><tr><td>Utilitarismo; Consequências, maior felicidade; Bentham e Mill; \"Maior felicidade do maior número\"</td></tr><tr><td>Convicção × responsabilidade; Princípios × consequências; Weber; \"O homem público responde pelos efeitos\"</td></tr><tr><td>Ética do discurso; Consenso racional dos afetados; Habermas; \"Vale o que todos poderiam aceitar\"</td></tr><tr><td>Justiça como equidade; Escolha sob o véu de ignorância; Rawls; \"Desigualdade só se beneficiar os menos favorecidos\"</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Kant</span></span><span class=\"vs\"><span>Dever e imperativo categórico</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Bentham e Mill</span></span><span class=\"vs\"><span>Utilitarismo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aristóteles</span></span><span class=\"vs\"><span>Virtude como justo meio, eudaimonia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Weber</span></span><span class=\"vs\"><span>Ética da convicção e da responsabilidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Habermas</span></span><span class=\"vs\"><span>Ética do discurso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rawls</span></span><span class=\"vs\"><span>Véu de ignorância</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hans Jonas</span></span><span class=\"vs\"><span>Princípio responsabilidade (gerações futuras)</span></span></button></div></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Associe cada autor a uma palavra-chave: Aristóteles = <b>hábito</b>; Kant = <b>dever</b>; Mill = <b>consequência</b>; Weber = <b>responsabilidade</b>; Habermas = <b>diálogo</b>; Rawls = <b>véu</b>.</div>\n<h3>9. Relativismo, universalismo e pluralismo</h3>\n<ul><li><b>Relativismo moral</b>: não existiria certo ou errado absoluto; cada cultura ou pessoa teria sua moral, e nenhuma poderia ser julgada pela outra. O relativismo tem um mérito, que é estimular a tolerância e o respeito às diferenças, mas também um problema grave: se tudo é relativo, não seria possível condenar práticas como a tortura ou a escravidão.</li><li><b>Universalismo moral</b>: existem valores e princípios válidos para todos os seres humanos, independentemente da cultura. A <b>Declaração Universal dos Direitos Humanos</b> (1948) e a <b>dignidade da pessoa humana</b> (CF, art. 1º, III) expressam essa ideia.</li><li><b>Pluralismo</b>: numa sociedade democrática convivem diferentes concepções de vida boa (religiosas, filosóficas, culturais). O Estado deve respeitá-las, desde que respeitem os direitos dos outros. O pluralismo político é fundamento da República (CF, art. 1º, V).</li><li>Para o servidor público, a consequência prática é clara: ele pode ter suas convicções pessoais, mas <b>não pode impô-las ao cidadão</b> nem tratar alguém pior por pensar, crer ou viver de modo diferente. O atendimento deve ser <b>impessoal</b> e respeitoso com a diversidade.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O relativismo moral é a base do Estado Democrático de Direito, pois impede julgar qualquer prática cultural</span><br>✅ <span class=\"certo\">a democracia se funda no <b>pluralismo</b>, mas com limites <b>universais</b>: dignidade humana e direitos fundamentais</span></li><li>❌ <span class=\"banca\">O servidor pode recusar atendimento a quem tem convicções religiosas diferentes das suas</span><br>✅ <span class=\"certo\">viola a impessoalidade, a igualdade e o pluralismo (CF, arts. 1º, V, 5º e 37)</span></li></ol></div>\n<h3>10. Ética, cidadania e democracia</h3>\n<ul><li><b>Cidadania</b> é a condição de quem participa da vida política e é titular de direitos e deveres numa comunidade. Em sentido estrito, é a titularidade de direitos políticos (votar e ser votado); em sentido amplo, é a participação ativa na vida pública e o acesso efetivo a direitos civis, políticos e sociais.</li><li><b>T. H. Marshall</b> descreveu a cidadania como conquista histórica em três etapas: direitos <b>civis</b> (liberdades individuais, séc. XVIII), <b>políticos</b> (participação, séc. XIX) e <b>sociais</b> (educação, saúde, previdência, séc. XX). No Brasil, autores como José Murilo de Carvalho apontam que a ordem foi diferente: os direitos sociais avançaram antes dos civis e políticos em vários momentos.</li><li>A democracia depende de uma <b>ética pública</b>: respeito às regras do jogo, tolerância, transparência, prestação de contas e participação. Sem confiança nas instituições, a cidadania se enfraquece.</li><li><b>Deveres do cidadão</b> também fazem parte da ética: cumprir as leis, respeitar os direitos alheios, votar, pagar tributos, zelar pelo patrimônio público e fiscalizar os governantes (controle social).</li><li>O <b>controle social</b> é a participação do cidadão na fiscalização da gestão pública. Instrumentos: pedidos de acesso à informação (Lei 12.527/2011), ouvidorias, conselhos de políticas públicas, audiências públicas, ação popular (CF, art. 5º, LXXIII) e denúncias aos órgãos de controle.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cidadania (Marshall)</span></span><span class=\"vs\"><span>Direitos civis, políticos e sociais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Controle social</span></span><span class=\"vs\"><span>Participação do cidadão na fiscalização da gestão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação popular</span></span><span class=\"vs\"><span>Qualquer cidadão, para anular ato lesivo ao patrimônio público e à moralidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pluralismo político</span></span><span class=\"vs\"><span>Fundamento da República (CF, art. 1º, V)</span></span></button></div></div>\n<h3>11. Ética profissional e deontologia</h3>\n<ul><li><b>Ética profissional</b> é o conjunto de princípios e normas que orientam o exercício de uma profissão. Quando organizada em códigos, é chamada <b>deontologia</b> (do grego *deon*, dever): o estudo dos deveres de uma categoria.</li><li>Códigos de ética profissional existem para médicos, advogados, contadores e também para servidores públicos (Decreto 1.171/1994, no Executivo federal). Eles costumam tratar de: deveres para com o cliente ou o público, sigilo, conflito de interesses, relações com colegas e sanções.</li><li>Funções de um código de ética: <b>orientar</b> a conduta (função preventiva e pedagógica), <b>dar previsibilidade</b> aos comportamentos esperados, <b>proteger a imagem</b> da instituição e <b>permitir a responsabilização</b> de desvios.</li><li>Ética profissional não se confunde com corporativismo. Proteger colegas que erram, só por pertencerem à mesma categoria, é <b>antiético</b>. O compromisso primeiro é com o público atendido.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Deontologia é o estudo das consequências das ações</span><br>✅ <span class=\"certo\">deontologia é o estudo dos <b>deveres</b> (do grego *deon*); o estudo das consequências é o <b>consequencialismo</b></span></li><li>❌ <span class=\"banca\">O código de ética profissional existe principalmente para proteger os membros da categoria</span><br>✅ <span class=\"certo\">sua finalidade é orientar a conduta e proteger o <b>público</b> e a <b>confiança</b> na profissão</span></li></ol></div>\n<h3>12. Ética no setor público: valores centrais</h3>\n<ul><li>A ética no serviço público parte de uma ideia simples: <b>o cargo não pertence ao servidor</b>. Ele exerce funções públicas em nome da coletividade, com recursos que são de todos. Por isso, o padrão de conduta exigido é <b>mais alto</b> do que o de um particular.</li><li><b>Valores centrais</b> que aparecem nas normas e nas provas:</li><li><b>Interesse público</b>: o fim de todo ato é o bem comum, e não interesses pessoais, partidários ou de grupos.</li><li><b>Integridade</b>: coerência entre valores e ações, recusa a vantagens indevidas, honestidade nas pequenas e nas grandes coisas.</li><li><b>Impessoalidade</b>: tratar todos igualmente, sem favorecimentos nem perseguições.</li><li><b>Transparência e publicidade</b>: agir de forma visível e prestar contas.</li><li><b>Probidade</b>: honestidade na gestão da coisa pública (seu oposto é a improbidade, punida pela Lei 8.429/1992).</li><li><b>Eficiência e zelo</b>: fazer bem feito, com qualidade e sem desperdício.</li><li><b>Cortesia e respeito</b>: tratar o cidadão como titular de direitos, e não como \"pedinte\".</li><li><b>Legalidade</b>: o administrador só pode fazer o que a lei autoriza, e tudo o que faz deve ter base legal.</li><li>O Código de Ética do servidor federal resume o espírito: \"a <b>dignidade</b>, o <b>decoro</b>, o <b>zelo</b>, a <b>eficácia</b> e a <b>consciência dos princípios morais</b> são primados maiores que devem nortear o servidor público\" (Decreto 1.171/1994, regra I).</li><li>E acrescenta que o servidor <b>não poderá jamais desprezar o elemento ético de sua conduta</b>, devendo decidir não somente entre o legal e o ilegal, o justo e o injusto, o conveniente e o inconveniente, o oportuno e o inoportuno, mas <b>principalmente entre o honesto e o desonesto</b> (regra II).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Primados do servidor (Dec. 1.171, I)</span></span><span class=\"vs\"><span>Dignidade, decoro, zelo, eficácia e consciência dos princípios morais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decisão ética (Dec. 1.171, II)</span></span><span class=\"vs\"><span>Principalmente entre o honesto e o desonesto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Probidade</span></span><span class=\"vs\"><span>Honestidade na gestão pública</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cargo público</span></span><span class=\"vs\"><span>Não pertence ao servidor; é exercido em nome da coletividade</span></span></button></div></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Questão clássica: \"o servidor deve decidir principalmente entre o legal e o ilegal\". <b>Errado</b>: o Código diz que ele decide entre legal e ilegal, justo e injusto, conveniente e inconveniente, oportuno e inoportuno, mas <b>principalmente entre o honesto e o desonesto</b>.</div>\n<h3>13. Legalidade não basta: a moralidade administrativa</h3>\n<ul><li>Um ato pode ser <b>legal e imoral</b>. Exemplo: nomear para cargo em comissão um amigo sem qualificação, quando a lei permite livre nomeação. O ato cumpre a forma legal, mas viola a moralidade, a impessoalidade e, conforme o caso, a Súmula Vinculante 13 (nepotismo).</li><li>Por isso a Constituição elevou a <b>moralidade</b> a princípio expresso da Administração (CF, art. 37, caput) e permitiu que qualquer cidadão proponha <b>ação popular</b> para anular ato lesivo à moralidade administrativa (art. 5º, LXXIII), mesmo sem prejuízo financeiro.</li><li>O Código de Ética reforça: \"a moralidade da Administração Pública não se limita à distinção entre o bem e o mal, devendo ser acrescida da ideia de que o <b>fim é sempre o bem comum</b>. O equilíbrio entre a legalidade e a finalidade, na conduta do servidor público, é que poderá consolidar a moralidade do ato administrativo\" (regra III).</li><li>Moralidade administrativa, segundo a doutrina, não é a moral comum de cada servidor: é a <b>moral jurídica</b>, extraída da disciplina interior da Administração, ligada à <b>boa-fé</b>, à <b>lealdade</b> às instituições e à <b>finalidade pública</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Todo ato legal é, necessariamente, moral</span><br>✅ <span class=\"certo\">um ato pode ser <b>legal e imoral</b> (ex.: nomeação de parente sem qualificação); por isso a moralidade é princípio autônomo (CF, art. 37)</span></li><li>❌ <span class=\"banca\">A ação popular só cabe quando há prejuízo financeiro ao erário</span><br>✅ <span class=\"certo\">cabe também contra ato lesivo à <b>moralidade administrativa</b>, mesmo sem dano patrimonial</span></li></ol></div>\n<h3>14. Dilemas éticos e como decidir</h3>\n<ul><li><b>Dilema ético</b> é a situação em que dois ou mais valores legítimos entram em conflito, e qualquer escolha sacrifica algum deles. Exemplo: o dever de sigilo sobre uma informação × o dever de denunciar uma irregularidade grave.</li><li>Diferença importante: nem todo problema é um dilema. Receber propina <b>não é dilema</b>: é simplesmente errado. Dilema existe quando há boas razões dos dois lados.</li><li>Roteiro prático usado em programas de integridade para decidir:</li></ul>\n<div class=\"lt-fluxo\"><span>Identifique os fatos e as pessoas afetadas</span> <em>→</em> <span>Verifique leis, regulamentos e o código de ética</span> <em>→</em> <span>Liste os valores em conflito</span> <em>→</em> <span>Pense nas alternativas e nas consequências</span> <em>→</em> <span>Aplique testes rápidos (publicidade, universalidade, reciprocidade)</span> <em>→</em> <span>Decida, registre os motivos e, se houver dúvida, consulte a comissão de ética</span></div>\n<ul><li><b>Teste da publicidade</b> (ou do jornal): \"eu ficaria tranquilo se essa decisão fosse publicada na primeira página amanhã?\".</li><li><b>Teste da universalidade</b> (inspirado em Kant): \"e se todos os servidores fizessem o mesmo?\".</li><li><b>Teste da reciprocidade</b> (regra de ouro): \"eu gostaria de ser tratado assim, se estivesse no lugar do cidadão?\".</li><li><b>Teste do espelho</b>: \"consigo justificar essa conduta para mim mesmo, sem desculpas?\".</li><li>O Decreto 6.029/2007 permite ao servidor <b>consultar</b> a comissão de ética sobre dúvidas de conduta. Na dúvida, perguntar antes é a atitude correta.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O \"agradinho\" na blitz</b><p>Durante uma fiscalização, um motorista autuado oferece ao agente \"um cafezinho\" de R$ 50, dizendo que \"é só um agradecimento pela educação\". O agente pensa que o valor é pequeno e que não vai mudar o auto.</p><details><summary>Ver a solução comentada</summary><p>Não há dilema: aceitar seria <b>corrupção passiva</b> (CP, art. 317) e violação do Código de Ética, independentemente do valor ou de o auto ser mantido. A ética pública não admite \"pequenas\" vantagens em razão da função. O correto é recusar e, conforme o caso, adotar as providências cabíveis (a oferta pode configurar <b>corrupção ativa</b>, CP, art. 333).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Sigilo × denúncia</b><p>Um servidor descobre, por documentos a que teve acesso em razão do cargo, que um colega está desviando material do almoxarifado. Ele teme violar o sigilo profissional se relatar o fato.</p><details><summary>Ver a solução comentada</summary><p>O dever de sigilo protege informações legítimas, não ilícitos. A Lei 8.112 impõe o dever de <b>levar ao conhecimento da autoridade superior as irregularidades</b> de que tiver ciência (art. 116, VI) e de <b>representar contra ilegalidade, omissão ou abuso de poder</b> (art. 116, XII). Relatar pelos canais oficiais é dever, não deslealdade.</p></details></div>\n<h3>15. Ética e poder: por que o servidor é mais cobrado</h3>\n<ul><li>Toda função pública envolve <b>assimetria de poder</b>: o agente decide, fiscaliza ou atende, e o cidadão depende dessa decisão. Quanto maior o poder, maior a tentação de usá-lo para fins próprios e maior a necessidade de controles éticos.</li><li>A ética pública protege um bem coletivo frágil: a <b>confiança</b>. Quando o cidadão acredita que o servidor age com imparcialidade, aceita suas decisões e colabora; quando suspeita de favorecimentos, passa a desconfiar das instituições, a buscar \"jeitinhos\" e a sonegar cooperação. A corrupção corrói esse capital de confiança.</li><li>Por isso o Código de Ética afirma que a <b>função pública deve ser tida como exercício profissional</b> e, portanto, <b>se integra na vida particular</b> de cada servidor: os fatos e atos verificados na conduta do dia a dia em sua vida privada poderão <b>acrescer ou diminuir o seu bom conceito</b> na vida funcional (Decreto 1.171, regra VI).</li><li>Também diz que o trabalho desenvolvido pelo servidor perante a comunidade deve ser entendido como <b>acréscimo ao seu próprio bem-estar</b>, já que, como cidadão, integrante da sociedade, o êxito desse trabalho pode ser considerado como seu maior patrimônio (regra V).</li><li>E que a <b>remuneração</b> do servidor é custeada pelos tributos pagos direta ou indiretamente por todos, <b>até por ele próprio</b>, e por isso se exige, como contrapartida, que a moralidade administrativa se integre no Direito como elemento indissociável de sua aplicação e de sua finalidade (regra IV).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A conduta do servidor em sua vida privada é irrelevante para a sua avaliação funcional</span><br>✅ <span class=\"certo\">o Código de Ética diz que a função pública <b>se integra na vida particular</b>, e atos da vida privada podem <b>acrescer ou diminuir</b> o bom conceito funcional (regra VI)</span></li><li>❌ <span class=\"banca\">A remuneração do servidor é custeada apenas pelos contribuintes, excluído o próprio servidor</span><br>✅ <span class=\"certo\">o Código diz que é custeada por todos, <b>inclusive por ele próprio</b> (regra IV)</span></li></ol></div>\n<h3>16. Corrupção: conceito, causas e efeitos</h3>\n<ul><li>Em sentido amplo, <b>corrupção</b> é o <b>abuso do poder confiado para obter ganhos privados</b> (definição usada pela Transparência Internacional). Inclui suborno, peculato, tráfico de influência, nepotismo, fraude em licitações e uso de informação privilegiada.</li><li><b>Causas</b> apontadas pela literatura: baixa transparência, excesso de discricionariedade sem controle, regras confusas, impunidade, cultura de tolerância (\"todo mundo faz\"), baixa remuneração e falta de valorização (fatores que não justificam, mas aumentam o risco).</li><li><b>Efeitos</b>: desperdício de recursos, serviços de pior qualidade, aumento da desigualdade (quem paga propina \"fura a fila\"), perda de investimentos, descrédito da democracia e da lei.</li><li><b>Pequena e grande corrupção</b>: a pequena ocorre no balcão (propina para agilizar um documento, \"cafezinho\" na fiscalização); a grande envolve altos escalões, contratos e políticas públicas. Ambas são graves, e a pequena ajuda a criar a cultura que tolera a grande.</li><li>Respostas institucionais: leis (Código Penal, Lei de Improbidade, Lei Anticorrupção 12.846/2013, Lei de Conflito de Interesses), órgãos de controle (CGU, TCU, MP, polícias), <b>programas de integridade</b>, transparência ativa, canais de denúncia com proteção ao denunciante e educação ética.</li></ul>\n<table class=\"tab\"><thead><tr><th>Conduta; Enquadramento comum</th></tr></thead><tbody><tr><td>Servidor pede ou aceita vantagem indevida; Corrupção passiva (CP, art. 317)</td></tr><tr><td>Particular oferece vantagem ao servidor; Corrupção ativa (CP, art. 333)</td></tr><tr><td>Servidor exige vantagem indevida; Concussão (CP, art. 316)</td></tr><tr><td>Servidor se apropria de bem que tem a posse em razão do cargo; Peculato (CP, art. 312)</td></tr><tr><td>Servidor retarda ato para satisfazer interesse pessoal; Prevaricação (CP, art. 319)</td></tr><tr><td>Servidor patrocina interesse privado perante a Administração; Advocacia administrativa (CP, art. 321)</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Corrupção (conceito amplo)</span></span><span class=\"vs\"><span>Abuso do poder confiado para ganho privado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Corrupção passiva</span></span><span class=\"vs\"><span>Solicitar ou receber vantagem indevida (servidor)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Corrupção ativa</span></span><span class=\"vs\"><span>Oferecer ou prometer vantagem (particular)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Concussão</span></span><span class=\"vs\"><span>Exigir vantagem indevida</span></span></button></div></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Na prova de ética, os crimes aparecem como exemplos de condutas antiéticas. O foco é reconhecer que o problema ético existe <b>mesmo quando a vantagem é pequena</b> ou quando o ato praticado seria o mesmo.</div>\n<h3>17. O \"jeitinho brasileiro\" e a cultura de integridade</h3>\n<ul><li>O antropólogo <b>Roberto DaMatta</b> e outros autores analisaram o <b>\"jeitinho\"</b>: a forma de contornar regras impessoais por meio de relações pessoais (\"você sabe com quem está falando?\"). O jeitinho pode parecer simpático, mas no serviço público ele produz <b>desigualdade</b>: quem tem contatos é atendido antes ou melhor.</li><li>A ética pública propõe o contrário: <b>regras iguais para todos</b>, aplicadas com cordialidade, mas sem exceções pessoais. O servidor pode e deve ser gentil, mas não pode \"quebrar o galho\" de um conhecido em prejuízo da fila ou da lei.</li><li><b>Cultura de integridade</b> é o ambiente em que agir corretamente é o comportamento esperado e valorizado. Ela depende do <b>exemplo da liderança</b> (\"tom do topo\"), de regras claras, de treinamento, de canais seguros de denúncia e de consequências reais para os desvios.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O \"jeitinho\" é uma forma legítima de flexibilizar a regra em favor de quem o servidor conhece</span><br>✅ <span class=\"certo\">favorecer conhecidos fere a <b>impessoalidade</b> e a <b>igualdade</b>; a cordialidade não autoriza exceções pessoais</span></li></ol></div>\n<h3>18. Ética, transparência e prestação de contas</h3>\n<ul><li><b>Accountability</b> é a obrigação de quem administra recursos e poderes públicos de <b>prestar contas</b> e de <b>ser responsabilizado</b> por suas ações. Envolve transparência (mostrar o que faz), justificação (explicar por que faz) e responsabilização (sofrer consequências quando erra).</li><li>Classificação muito cobrada (Guillermo O'Donnell):</li><li><b>Accountability vertical</b>: controle da sociedade sobre os governantes, sobretudo pelo <b>voto</b>, mas também pela imprensa e pela sociedade civil.</li><li><b>Accountability horizontal</b>: controle mútuo entre <b>órgãos do próprio Estado</b> (Tribunais de Contas, Ministério Público, Judiciário, controle interno, Legislativo).</li><li><b>Accountability societal</b> (ou social): controle exercido por <b>organizações da sociedade civil</b> e pela mídia, mobilizando denúncias e pressões.</li><li>A transparência é ao mesmo tempo <b>valor ético</b> e <b>instrumento</b> de controle: quanto mais visíveis os atos, menor o espaço para desvios. A Lei de Acesso à Informação estabelece a <b>publicidade como preceito geral e o sigilo como exceção</b>.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Accountability</span></span><span class=\"vs\"><span>Prestar contas e ser responsabilizado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vertical</span></span><span class=\"vs\"><span>Eleitor sobre governantes (voto)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Horizontal</span></span><span class=\"vs\"><span>Órgãos do Estado entre si (TCU, MP, Judiciário)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Societal</span></span><span class=\"vs\"><span>Sociedade civil e imprensa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>LAI</span></span><span class=\"vs\"><span>Publicidade é a regra, sigilo é a exceção</span></span></button></div></div>\n<h3>19. Revisão comparativa: conceitos que a banca troca</h3>\n<table class=\"tab\"><thead><tr><th>Par de conceitos; Como diferenciar</th></tr></thead><tbody><tr><td>Ética × moral; Moral = normas e costumes de um grupo; ética = reflexão crítica sobre a moral</td></tr><tr><td>Moral × direito; Direito é coercível, heterônomo e bilateral; a moral não tem coação organizada</td></tr><tr><td>Valor × princípio; Valor = o que é digno; princípio = diretriz geral que o concretiza</td></tr><tr><td>Princípio × norma; Princípio = geral; norma = prescrição específica</td></tr><tr><td>Virtude × valor; Virtude = hábito do caráter; valor = ideal</td></tr><tr><td>Autonomia × heteronomia; Regra dada a si mesmo pela razão × regra imposta de fora</td></tr><tr><td>Deontologia × utilitarismo; Dever e intenção × consequências</td></tr><tr><td>Convicção × responsabilidade (Weber); Princípios independentemente do resultado × resposta pelas consequências</td></tr><tr><td>Legalidade × moralidade; Conformidade com a lei × conformidade com a finalidade pública e a boa-fé</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Antes de marcar, pergunte: <b>o item trocou os conceitos de lugar?</b> A maioria das pegadinhas deste tópico é uma simples inversão das definições da tabela acima.</div>\n<h3>20. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Fila do atendimento</b><p>Uma servidora do atendimento ao público reconhece na fila um ex-professor e o chama na frente dos demais, \"por respeito\". Outros cidadãos reclamam.</p><details><summary>Ver a solução comentada</summary><p>A intenção pode ser boa, mas a conduta viola a <b>impessoalidade</b> e a <b>igualdade</b> no atendimento. O Código de Ética veda <b>usar o cargo para obter favorecimento para si ou para outrem</b> e manda tratar o público com igualdade (regras XIV e XV). Respeito se demonstra com cortesia, não com privilégio. A exceção legítima seria a prioridade legal (idosos, gestantes, pessoas com deficiência).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A mentira \"para o bem\"</b><p>Um chefe orienta a equipe a informar ao cidadão que \"o sistema caiu\", quando na verdade os processos estão parados por falta de organização interna. Ele argumenta que a mentira evita reclamações e \"protege a imagem do órgão\".</p><details><summary>Ver a solução comentada</summary><p>Para Kant, a mentira é sempre errada, pois não pode ser universalizada. Para o Código de Ética, é vedado <b>iludir o cidadão</b> e o servidor deve ser <b>verdadeiro</b> e transparente. O correto é informar a situação real e o prazo provável. Proteger a imagem com mentiras destrói justamente a confiança que se quer preservar.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Legal, mas imoral?</b><p>Um prefeito, valendo-se da livre nomeação para cargo em comissão, nomeia o cunhado para a chefia de gabinete. Ele alega que a lei permite nomear livremente e que o cunhado é competente.</p><details><summary>Ver a solução comentada</summary><p>A nomeação de parente por afinidade até o 3º grau (cunhado é parente por afinidade em 2º grau) para cargo em comissão viola a <b>Súmula Vinculante 13</b>. O STF admite exceção apenas para cargos de natureza <b>política</b> (secretários, ministros), desde que não haja fraude ou falta evidente de qualificação, e chefe de gabinete não é cargo político. O caso ilustra que <b>legalidade aparente não basta</b>: a moralidade e a impessoalidade são exigências próprias.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ética da responsabilidade na operação</b><p>Um policial rodoviário tem, pela regra, o dever de abordar um veículo suspeito. A abordagem, porém, teria de ocorrer em trecho de curva, à noite, com fluxo intenso, colocando em risco os demais usuários.</p><details><summary>Ver a solução comentada</summary><p>A <b>ética da responsabilidade</b> (Weber) pede que o agente considere as <b>consequências previsíveis</b>: escolher local e momento seguros para a abordagem não é omissão, mas prudência. O dever continua, mas sua execução deve preservar a vida e a segurança, valores mais altos no caso concreto.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Presente de fim de ano</b><p>Uma empresa que presta serviços ao órgão envia ao servidor responsável pela fiscalização do contrato uma cesta de natal com vinhos importados.</p><details><summary>Ver a solução comentada</summary><p>O servidor não pode aceitar presentes de quem tenha interesse em decisão sua. As normas federais admitem apenas <b>brindes</b> de baixo valor, distribuídos de forma generalizada, como cortesia, propaganda ou divulgação habitual. A Resolução CEP nº 3/2000 fixou o limite de R$ 100 para a alta administração, e o Decreto 10.889/2021 passou a disciplinar brindes, presentes e hospitalidades no Executivo federal. Cesta de vinhos importados para o fiscal do contrato é presente, e deve ser recusada ou devolvida, comunicando-se o fato.</p></details></div>\n<h3>21. Mapa mental do tópico</h3>\n<ul><li><b>Conceitos</b>: ética (reflexão), moral (normas de um grupo), valores (o que é digno), princípios (diretrizes), normas (regras específicas), virtudes (hábitos do caráter).</li><li><b>Diferenças</b>: ética × moral; moral × direito (coercibilidade, bilateralidade, heteronomia); legalidade × moralidade.</li><li><b>Sujeito moral</b>: consciência, liberdade, responsabilidade, intencionalidade e alteridade; autonomia × heteronomia; níveis de Kohlberg.</li><li><b>Correntes</b>: Sócrates (virtude é conhecimento), Platão (virtudes cardeais), Aristóteles (justo meio, hábito, eudaimonia), estoicos e epicuristas, ética cristã (lei natural), Kant (dever, imperativo categórico), utilitarismo (consequências), Weber (convicção × responsabilidade), Habermas (discurso), Rawls (véu de ignorância), Jonas (gerações futuras).</li><li><b>Ética pública</b>: interesse público, integridade, impessoalidade, transparência, probidade, eficiência, cortesia; regras I a VI do Decreto 1.171; corrupção, jeitinho e cultura de integridade; accountability vertical, horizontal e societal.</li></ul>\n<div class=\"lt-fluxo\"><span>Conceito</span> <em>→</em> <span>Diferença</span> <em>→</em> <span>Autor ou norma</span> <em>→</em> <span>Exemplo no serviço público</span> <em>→</em> <span>Pegadinha provável</span></div>\n<h3>22. Como as bancas cobram este tópico</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>Cebraspe costuma propor itens conceituais curtos (\"a ética caracteriza-se por ser...\") e inversões entre ética e moral, autonomia e heteronomia, Kant e utilitarismo, accountability vertical e horizontal. Também usa trechos literais do Decreto 1.171 com uma palavra trocada (\"principalmente entre o legal e o ilegal\"). FGV e outras bancas de múltipla escolha preferem situações-problema: um servidor diante de um conflito, em que é preciso escolher a conduta eticamente adequada.</p></div>\n<ul><li><b>Pegadinhas mais repetidas</b>:</li><li>Dizer que a moral é universal e a ética é relativa (é o inverso).</li><li>Afirmar que a moral é coercível pelo Estado.</li><li>Dizer que todo ato legal é moral.</li><li>Atribuir a Kant a avaliação pelas consequências.</li><li>Afirmar que a virtude, para Aristóteles, é inata ou um extremo.</li><li>Trocar \"honesto e desonesto\" por \"legal e ilegal\" na regra II do Código de Ética.</li><li>Dizer que a vida privada do servidor não interfere no seu conceito funcional.</li><li>Tratar pequenos presentes de quem tem interesse em decisão do servidor como aceitáveis.</li><li><b>Checklist de resolução</b>:</li><li>Identifique se o item é <b>conceitual</b> (definição), <b>autoral</b> (filósofo) ou <b>normativo</b> (Código de Ética, CF, Lei 8.112).</li><li>Procure a <b>troca de pares</b>: ética/moral, dever/consequência, vertical/horizontal, honesto/legal.</li><li>Em situações-problema, aplique os testes da publicidade, da universalidade e da reciprocidade.</li><li>Lembre que no serviço público a regra é a <b>impessoalidade</b>: qualquer favorecimento pessoal é suspeito.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Moral</span></span><span class=\"vs\"><span>Normas e costumes de um grupo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ética</span></span><span class=\"vs\"><span>Reflexão crítica sobre a moral</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Kant</span></span><span class=\"vs\"><span>Dever e imperativo categórico</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Utilitarismo</span></span><span class=\"vs\"><span>Consequências</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra II do Decreto 1.171</span></span><span class=\"vs\"><span>Principalmente entre o honesto e o desonesto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Legal e imoral</span></span><span class=\"vs\"><span>Possível: moralidade é princípio autônomo</span></span></button></div></div>\n<h3>23. Fechamento</h3>\n<ul><li>Ética não é um capítulo decorativo do edital. Ela explica <b>por que</b> existem as regras que o servidor deve cumprir e ajuda a decidir quando as regras não dão resposta pronta. Dominar os conceitos deste tópico facilita todos os demais: função pública, Código de Ética, comissões de ética, conflito de interesses, nepotismo e transparência.</li><li>Revise na ordem: conceitos e diferenças; elementos do ato moral e autonomia; correntes filosóficas; ética pública, corrupção e accountability; casos práticos. Em cada bloco, há uma frase-chave que costuma bastar para acertar o item da prova.</li></ul>\n<h3>24. Liberdade e responsabilidade: outras vozes da filosofia</h3>\n<ul><li><b>Jean-Paul Sartre</b> (existencialismo): \"o homem está condenado a ser livre\". Não há uma natureza humana pronta que determine nossas escolhas; somos responsáveis pelo que fazemos de nós mesmos. Desculpar-se com \"eu só cumpria ordens\" ou \"não tive escolha\" seria <b>má-fé</b>: fingir não ser livre para fugir da responsabilidade.</li><li><b>Hannah Arendt</b>, ao acompanhar o julgamento de Adolf Eichmann, cunhou a expressão <b>\"banalidade do mal\"</b>: grandes crimes podem ser cometidos por funcionários comuns, que deixam de <b>pensar</b> e apenas executam ordens e rotinas burocráticas. A lição para o servidor é poderosa: obedecer à hierarquia não dispensa o juízo moral.</li><li>No direito brasileiro, essa ideia aparece no <b>dever de obediência com limite</b>: o servidor deve cumprir as ordens superiores, <b>exceto quando manifestamente ilegais</b> (Lei 8.112, art. 116, IV). E, no direito penal, a obediência hierárquica só exclui a culpabilidade quando a ordem <b>não é manifestamente ilegal</b> (CP, art. 22).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O servidor deve cumprir qualquer ordem do superior hierárquico, cabendo a responsabilidade exclusivamente a quem ordenou</span><br>✅ <span class=\"certo\">o dever de obediência <b>não alcança ordens manifestamente ilegais</b> (Lei 8.112, art. 116, IV); quem cumpre ordem manifestamente ilegal também responde</span></li><li>❌ <span class=\"banca\">Para Arendt, o mal só é praticado por pessoas excepcionalmente perversas</span><br>✅ <span class=\"certo\">a <b>banalidade do mal</b> mostra que funcionários comuns, que deixam de pensar, podem participar de grandes crimes</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sartre</span></span><span class=\"vs\"><span>\"Condenado a ser livre\"; responsabilidade total</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Má-fé (Sartre)</span></span><span class=\"vs\"><span>Fingir não ter escolha</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arendt</span></span><span class=\"vs\"><span>Banalidade do mal; o perigo de não pensar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ordem manifestamente ilegal</span></span><span class=\"vs\"><span>Não deve ser cumprida (Lei 8.112, art. 116, IV)</span></span></button></div></div>\n<h3>25. Ética, dignidade humana e direitos fundamentais</h3>\n<ul><li>A <b>dignidade da pessoa humana</b> é fundamento da República (CF, art. 1º, III) e o núcleo ético da Constituição. Inspirada na fórmula kantiana, ela significa que a pessoa <b>nunca pode ser tratada como mero objeto</b> ou instrumento.</li><li>No serviço público, isso se traduz em deveres concretos: atender com respeito, não humilhar, não expor o cidadão a situações vexatórias, preservar a intimidade, garantir acessibilidade e respeitar a diversidade.</li><li>Para a atividade policial, a dignidade impõe limites claros: <b>vedação absoluta da tortura</b> e de tratamento desumano ou degradante (CF, art. 5º, III), uso de algemas apenas nas hipóteses da <b>Súmula Vinculante 11</b>, uso <b>diferenciado e proporcional</b> da força, respeito à integridade física e moral do preso (art. 5º, XLIX) e informação dos seus direitos (art. 5º, LXIII).</li><li>A <b>Lei de Abuso de Autoridade</b> (Lei 13.869/2019) transformou em crime diversas condutas que violam a dignidade, como constranger o preso a exibir-se à curiosidade pública ou a submeter-se a situação vexatória (art. 13), ou antecipar, inclusive por rede social, a atribuição de culpa antes de concluídas as apurações (art. 38).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Abordagem e dignidade</b><p>Após uma abordagem rotineira sem nada de ilícito encontrado, um agente decide fotografar o abordado e postar a imagem em grupo de mensagens \"para alertar os colegas\".</p><details><summary>Ver a solução comentada</summary><p>A conduta viola a <b>dignidade</b>, a <b>intimidade</b> e a <b>imagem</b> (CF, art. 5º, X), o <b>sigilo</b> que o Código de Ética impõe sobre informações obtidas em razão do cargo, e pode configurar crime da Lei de Abuso de Autoridade. A eficiência policial nunca justifica tratar a pessoa como objeto de exposição.</p></details></div>\n<h3>26. O cidadão como usuário: Lei 13.460/2017</h3>\n<ul><li>A <b>Lei 13.460/2017</b> é o Código de Defesa do Usuário de Serviços Públicos. Ela concretiza a ética do atendimento ao estabelecer <b>direitos do usuário</b> e <b>deveres dos agentes públicos</b>.</li><li><b>Diretrizes do atendimento</b> (art. 5º, entre outras): urbanidade, respeito, acessibilidade e cortesia; presunção de <b>boa-fé</b> do usuário; atendimento por ordem de chegada, ressalvadas as prioridades legais; adequação entre meios e fins, <b>vedada a exigência de requisitos desnecessários</b>; igualdade no tratamento, <b>vedado qualquer tipo de discriminação</b>; cumprimento de prazos; linguagem simples e compreensível; vedação de exigir <b>reconhecimento de firma e autenticação de cópia</b>, salvo dúvida de autenticidade.</li><li><b>Direitos básicos do usuário</b> (art. 6º): participação no acompanhamento da prestação e na avaliação dos serviços; obtenção e utilização dos serviços com liberdade de escolha; acesso e obtenção de informações relativas à sua pessoa constantes de registros ou bancos de dados; proteção de suas informações pessoais; atuação integrada e sistêmica na expedição de atestados e certidões; e obtenção de informações precisas sobre horário de funcionamento, serviços oferecidos, localização e responsáveis.</li><li><b>Carta de Serviços ao Usuário</b>: cada órgão deve divulgá-la, informando os serviços, requisitos, etapas, prazos e formas de atendimento (art. 7º).</li><li><b>Manifestações</b> (reclamações, denúncias, sugestões, elogios) são recebidas pelas <b>ouvidorias</b> e não podem ser recusadas; a identificação do requerente é informação pessoal protegida, e é <b>vedada qualquer exigência relativa aos motivos</b> da manifestação.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 13.460/2017</span></span><span class=\"vs\"><span>Código de Defesa do Usuário de Serviços Públicos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Presunção do usuário</span></span><span class=\"vs\"><span>Boa-fé</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reconhecimento de firma e autenticação</span></span><span class=\"vs\"><span>Vedados, salvo dúvida de autenticidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ouvidoria</span></span><span class=\"vs\"><span>Recebe reclamações, denúncias, sugestões e elogios</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carta de Serviços</span></span><span class=\"vs\"><span>Informa serviços, requisitos, prazos e formas de atendimento</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Lei 13.460/2017 autoriza o órgão a exigir reconhecimento de firma em qualquer requerimento, por segurança</span><br>✅ <span class=\"certo\">é <b>vedado</b> exigir reconhecimento de firma e autenticação de cópia, <b>salvo</b> em caso de dúvida de autenticidade</span></li><li>❌ <span class=\"banca\">O usuário deve justificar os motivos da sua reclamação para que ela seja recebida</span><br>✅ <span class=\"certo\">é <b>vedada</b> qualquer exigência relativa aos motivos determinantes da manifestação</span></li></ol></div>\n<h3>27. Os princípios da Administração como expressão ética</h3>\n<ul><li>Os princípios do art. 37, caput, da Constituição (<b>legalidade, impessoalidade, moralidade, publicidade e eficiência</b>, o famoso <b>LIMPE</b>) não são apenas regras técnicas de direito administrativo: cada um traduz um valor ético.</li></ul>\n<table class=\"tab\"><thead><tr><th>Princípio; Valor ético por trás; Exemplo de violação</th></tr></thead><tbody><tr><td>Legalidade; Submissão do poder à lei (ninguém acima da lei); Cobrar taxa sem previsão legal</td></tr><tr><td>Impessoalidade; Igualdade e finalidade pública; Promoção pessoal com propaganda oficial (CF, art. 37, § 1º)</td></tr><tr><td>Moralidade; Honestidade, boa-fé e lealdade; Nomear parente para cargo em comissão</td></tr><tr><td>Publicidade; Transparência e controle social; Negar acesso a informação pública sem fundamento</td></tr><tr><td>Eficiência; Respeito ao dinheiro e ao tempo do cidadão; Deixar processos parados sem motivo</td></tr></tbody></table>\n<ul><li><b>Impessoalidade</b> tem dois sentidos cobrados: (1) <b>finalidade</b>: o ato deve buscar o interesse público, e não beneficiar ou prejudicar pessoas; (2) <b>vedação à promoção pessoal</b>: a publicidade dos órgãos deve ter caráter educativo, informativo ou de orientação social, <b>dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal</b> de autoridades ou servidores (CF, art. 37, § 1º). Além disso, os atos são imputados ao <b>órgão</b>, e não ao agente.</li><li><b>Eficiência</b> (incluída pela EC 19/1998) liga-se à ética porque desperdiçar recursos ou tempo do cidadão também é uma forma de desrespeito. O Código de Ética considera falta grave deixar o cidadão esperando ou causar dano moral pela demora (regra X).</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Na prova, quando o enunciado descrever uma conduta e perguntar qual princípio foi violado, procure o <b>valor ético</b> dominante: favorecimento → impessoalidade; desonestidade → moralidade; segredo indevido → publicidade; desperdício ou demora → eficiência; ausência de base legal → legalidade.</div>\n<h3>28. Treino rápido de fixação</h3>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A ética, por ser reflexão teórica, não tem aplicação prática no serviço público</span><br>✅ <span class=\"certo\">a reflexão ética orienta decisões concretas e fundamenta códigos de conduta e princípios como a moralidade</span></li><li>❌ <span class=\"banca\">A moralidade administrativa confunde-se com a moral pessoal de cada servidor</span><br>✅ <span class=\"certo\">é <b>moral jurídica</b>, ligada à boa-fé, à lealdade institucional e à finalidade pública</span></li><li>❌ <span class=\"banca\">A accountability horizontal é exercida diretamente pelos eleitores</span><br>✅ <span class=\"certo\">a <b>vertical</b> é a dos eleitores; a <b>horizontal</b> é a dos órgãos de controle do próprio Estado</span></li><li>❌ <span class=\"banca\">Para Weber, a ética da responsabilidade exige que o agente ignore suas convicções</span><br>✅ <span class=\"certo\">Weber defende que o político maduro <b>combine</b> convicção e responsabilidade</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dignidade (Kant e CF, art. 1º, III)</span></span><span class=\"vs\"><span>Pessoa nunca como mero meio</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Promoção pessoal na publicidade oficial</span></span><span class=\"vs\"><span>Vedada (CF, art. 37, § 1º)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>LIMPE</span></span><span class=\"vs\"><span>Legalidade, impessoalidade, moralidade, publicidade, eficiência</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eficiência</span></span><span class=\"vs\"><span>EC 19/1998</span></span></button></div></div>\n<h3>29. Ética nas redes sociais e no ambiente digital</h3>\n<ul><li>A vida digital ampliou os dilemas éticos do servidor. O que é publicado numa rede social pode alcançar milhares de pessoas em minutos e afetar a imagem da instituição, a intimidade de terceiros e a confiança do público.</li><li><b>Liberdade de expressão</b> também é direito do servidor (CF, art. 5º, IV e IX). Ele pode opinar sobre política, religião e temas públicos como qualquer cidadão. Mas essa liberdade encontra limites nos deveres funcionais: <b>sigilo</b> sobre assuntos da repartição, <b>lealdade</b> às instituições, vedação de <b>divulgar informações</b> obtidas em razão do cargo, respeito à <b>honra</b> e à <b>imagem</b> de colegas e cidadãos.</li><li>Situações que costumam gerar responsabilização ética ou disciplinar:</li><li>Publicar fotos ou vídeos de ocorrências, de presos, de vítimas ou de documentos internos.</li><li>Usar a farda, o distintivo ou o nome do órgão para promover produtos, candidaturas ou opiniões pessoais.</li><li>Ofender colegas, chefias ou cidadãos, ainda que em grupos \"fechados\".</li><li>Antecipar informações de operações, concursos ou decisões ainda não publicadas.</li><li>A <b>Lei Geral de Proteção de Dados</b> (Lei 13.709/2018) reforça o dever de cuidado com dados pessoais tratados pelo poder público: eles só podem ser usados para a finalidade pública que justificou a coleta, e o vazamento ou o uso indevido gera responsabilidade.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Por estar em sua conta pessoal, o servidor pode divulgar livremente documentos internos que conheceu em razão do cargo</span><br>✅ <span class=\"certo\">o dever de <b>sigilo</b> e a vedação de divulgar informações funcionais valem também nas redes pessoais</span></li><li>❌ <span class=\"banca\">A liberdade de expressão do servidor é absoluta fora do horário de expediente</span><br>✅ <span class=\"certo\">é limitada pelos deveres funcionais, pela honra alheia e pelo sigilo, a qualquer hora</span></li></ol></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O vídeo da operação</b><p>Um servidor grava, com o próprio celular, a apreensão de drogas e armas em uma operação e publica o vídeo com a legenda \"mais um dia de trabalho\", mostrando o rosto dos detidos.</p><details><summary>Ver a solução comentada</summary><p>Mesmo com intenção de valorizar o trabalho, a publicação pode expor pessoas ainda não julgadas (presunção de inocência), atrapalhar investigações, revelar táticas e violar a imagem dos detidos. A divulgação de informações de operações cabe aos canais oficiais do órgão. A conduta fere o sigilo funcional, a dignidade e pode configurar abuso de autoridade.</p></details></div>\n<h3>30. Assédio moral e assédio sexual: a ética nas relações de trabalho</h3>\n<ul><li>A ética pública vale também <b>dentro</b> do órgão, nas relações entre colegas e chefias. Duas condutas recebem atenção especial dos programas de integridade.</li><li><b>Assédio moral</b>: exposição <b>repetida e prolongada</b> do trabalhador a situações humilhantes e constrangedoras, que atingem sua dignidade e o ambiente de trabalho. Exemplos: críticas em público para ridicularizar, isolamento proposital, tarefas impossíveis ou inúteis para humilhar, ameaças constantes. Não se confunde com cobranças legítimas de desempenho feitas com respeito.</li><li><b>Assédio sexual</b>: constranger alguém com o intuito de obter vantagem ou favorecimento sexual, <b>prevalecendo-se</b> da condição de superior hierárquico ou de ascendência inerente ao exercício do emprego, cargo ou função. É <b>crime</b> (CP, art. 216-A) e grave infração ética e disciplinar.</li><li>A <b>Lei 14.540/2023</b> instituiu o Programa de Prevenção e Enfrentamento ao Assédio Sexual e demais Crimes contra a Dignidade Sexual e à Violência Sexual no âmbito da administração pública direta e indireta.</li><li>O Código de Ética veda ao servidor <b>ser, em função de seu espírito de solidariedade, conivente com erro ou infração</b> ao Código ou ao Código de Ética de sua profissão (regra XV, c) e manda ter respeito à hierarquia, <b>porém sem nenhum temor de representar contra qualquer comprometimento indevido</b> da estrutura em que se funda o Poder Estatal (regra XIV, h).</li></ul>\n<table class=\"tab\"><thead><tr><th>Conduta; O que caracteriza; Observação</th></tr></thead><tbody><tr><td>Cobrança de metas com respeito; Gestão legítima; Não é assédio</td></tr><tr><td>Humilhação reiterada, isolamento, ridicularização; Assédio moral; Viola a dignidade; pode gerar responsabilização disciplinar e civil</td></tr><tr><td>Constranger para obter favor sexual, valendo-se da hierarquia; Assédio sexual; Crime (CP, art. 216-A)</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Assédio moral</span></span><span class=\"vs\"><span>Humilhação repetida e prolongada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Assédio sexual</span></span><span class=\"vs\"><span>Constrangimento para obter favor sexual, valendo-se da hierarquia (CP, art. 216-A)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 14.540/2023</span></span><span class=\"vs\"><span>Programa de prevenção ao assédio sexual na administração</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Conivência por solidariedade</span></span><span class=\"vs\"><span>Vedada pelo Código de Ética</span></span></button></div></div>\n<h3>31. Sustentabilidade e ética intergeracional</h3>\n<ul><li>A ética contemporânea ampliou o círculo da responsabilidade moral: além das pessoas presentes, também as <b>gerações futuras</b> e o <b>meio ambiente</b>. A Constituição incorporou essa visão ao impor ao poder público e à coletividade o dever de defender e preservar o meio ambiente ecologicamente equilibrado <b>para as presentes e futuras gerações</b> (CF, art. 225).</li><li>Na gestão pública, a ética da sustentabilidade aparece nas <b>licitações sustentáveis</b> (a Lei 14.133/2021 inclui o desenvolvimento nacional sustentável entre os objetivos da licitação), no uso racional de recursos (energia, papel, combustível) e na avaliação de impactos das políticas públicas.</li><li>O servidor que desperdiça recursos públicos, mesmo pequenos (luz acesa, veículo oficial usado para fins particulares, material de expediente levado para casa), viola ao mesmo tempo a <b>eficiência</b>, a <b>moralidade</b> e o dever de <b>zelar pela economia do material e a conservação do patrimônio público</b> (Lei 8.112, art. 116, VII).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Usar o veículo oficial para levar o filho à escola é falta menor, pois o percurso é curto</span><br>✅ <span class=\"certo\">é uso de bem público para fins particulares, vedado pelo Código de Ética e pela Lei 8.112 (art. 117, XVI), e pode configurar improbidade</span></li></ol></div>\n<h3>32. Resumo final em frases de prova</h3>\n<ul><li><b>Moral</b> = normas e costumes de um grupo, históricas e variáveis; <b>ética</b> = reflexão crítica e racional sobre a moral, com pretensão universal.</li><li>O <b>direito</b> é coercível, heterônomo e bilateral; a <b>moral</b> não tem coação organizada.</li><li><b>Valor</b> orienta, <b>princípio</b> concretiza o valor, <b>norma</b> prescreve a conduta, <b>virtude</b> é o hábito de agir bem.</li><li>Ato moral exige <b>consciência, liberdade e responsabilidade</b>; a regra autônoma é dada pela própria razão.</li><li><b>Aristóteles</b>: virtude como hábito e justo meio. <b>Kant</b>: dever e imperativo categórico. <b>Mill</b>: maior felicidade do maior número. <b>Weber</b>: convicção e responsabilidade. <b>Arendt</b>: banalidade do mal.</li><li>No serviço público, <b>legal não basta</b>: é preciso ser moral, impessoal, transparente e eficiente; o servidor decide <b>principalmente entre o honesto e o desonesto</b>.</li></ul>",
+"quiz": [
+{
+"p": "A palavra ética deriva do grego ethos, que pode significar tanto caráter ou modo de ser quanto costume.",
+"c": true,
+"prof": "Certo.",
+"x": "É a origem etimológica clássica.",
+"e": "Etimologia"
+},
+{
+"p": "A palavra moral deriva do latim mos, moris, que significa costume.",
+"c": true,
+"prof": "Certo.",
+"x": "Os romanos traduziram o ethos grego por mos.",
+"e": "Etimologia"
+},
+{
+"p": "A moral caracteriza-se por sua pretensão de universalidade, ao passo que a ética varia conforme a cultura de cada povo.",
+"c": false,
+"prof": "Errado.",
+"x": "É o inverso: a moral é histórica e cultural; a ética busca princípios universais.",
+"e": "Ética × moral"
+},
+{
+"p": "A ética pode ser entendida como a reflexão teórica e crítica sobre a moral.",
+"c": true,
+"prof": "Certo.",
+"x": "Por isso é chamada de filosofia moral ou ciência da moral.",
+"e": "Ética × moral"
+},
+{
+"p": "A moral é histórica: normas morais aceitas em uma época podem ser rejeitadas em outra.",
+"c": true,
+"prof": "Certo.",
+"x": "Ex.: a escravidão, aceita por costumes antigos, hoje é condenada.",
+"e": "Moral"
+},
+{
+"p": "A coercibilidade, isto é, a possibilidade de imposição pelo Estado, é característica comum à moral e ao direito.",
+"c": false,
+"prof": "Errado.",
+"x": "Só o direito é coercível; a moral não tem coação organizada.",
+"e": "Moral × direito"
+},
+{
+"p": "Diferentemente da moral, o direito é bilateral atributivo: ao dever de um corresponde a faculdade de outro exigir o cumprimento.",
+"c": true,
+"prof": "Certo.",
+"x": "Bilateralidade atributiva é marca do direito.",
+"e": "Moral × direito"
+},
+{
+"p": "Segundo a teoria do mínimo ético, o direito representa o mínimo de moral indispensável à convivência, tornado obrigatório.",
+"c": true,
+"prof": "Certo.",
+"x": "Teoria de Jellinek.",
+"e": "Teorias"
+},
+{
+"p": "A teoria dos círculos secantes sustenta que toda norma jurídica é também uma norma moral.",
+"c": false,
+"prof": "Errado.",
+"x": "Ela admite normas jurídicas moralmente neutras: os círculos têm parte comum e partes independentes.",
+"e": "Teorias"
+},
+{
+"p": "Há normas jurídicas moralmente neutras, como as que fixam prazos processuais ou a mão de direção no trânsito.",
+"c": true,
+"prof": "Certo.",
+"x": "Ilustra a teoria dos círculos secantes.",
+"e": "Moral × direito"
+},
+{
+"p": "Valor é aquilo que se considera digno de ser buscado ou preservado, como a justiça e a honestidade.",
+"c": true,
+"prof": "Certo.",
+"x": "Conceito de valor.",
+"e": "Valores"
+},
+{
+"p": "Princípios e normas se equivalem, pois ambos descrevem condutas específicas e detalhadas.",
+"c": false,
+"prof": "Errado.",
+"x": "Princípio é diretriz geral que concretiza um valor; norma é prescrição específica.",
+"e": "Princípios"
+},
+{
+"p": "A virtude, em sentido ético, é uma disposição estável de caráter, adquirida pelo hábito, para agir bem.",
+"c": true,
+"prof": "Certo.",
+"x": "Virtude não é ato isolado.",
+"e": "Virtudes"
+},
+{
+"p": "A bipolaridade dos valores significa que a todo valor corresponde um contravalor, como justo e injusto.",
+"c": true,
+"prof": "Certo.",
+"x": "Característica dos valores.",
+"e": "Valores"
+},
+{
+"p": "O ato moral pressupõe consciência, liberdade e responsabilidade do agente.",
+"c": true,
+"prof": "Certo.",
+"x": "Sem esses elementos, a ação não é plenamente imputável.",
+"e": "Ato moral"
+},
+{
+"p": "Juízos de fato e juízos de valor são equivalentes, pois ambos se limitam a descrever a realidade.",
+"c": false,
+"prof": "Errado.",
+"x": "O juízo de fato descreve; o juízo de valor avalia.",
+"e": "Juízos"
+},
+{
+"p": "Na heteronomia, a regra de conduta é imposta ao sujeito por uma fonte externa a ele.",
+"c": true,
+"prof": "Certo.",
+"x": "Heteros = outro.",
+"e": "Autonomia"
+},
+{
+"p": "Para Kant, a autonomia da vontade consiste em o sujeito dar a si mesmo a lei moral, pela razão.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideal kantiano.",
+"e": "Kant"
+},
+{
+"p": "No nível pré-convencional de Kohlberg, o indivíduo age com base em princípios universais de justiça.",
+"c": false,
+"prof": "Errado.",
+"x": "Princípios universais são do nível pós-convencional; o pré-convencional age para evitar punição ou obter recompensa.",
+"e": "Kohlberg"
+},
+{
+"p": "Para Sócrates, ninguém pratica o mal voluntariamente, sendo o mal fruto da ignorância do bem.",
+"c": true,
+"prof": "Certo.",
+"x": "Identificação socrática entre virtude e conhecimento.",
+"e": "Sócrates"
+},
+{
+"p": "Prudência, coragem, temperança e justiça são as chamadas virtudes cardeais.",
+"c": true,
+"prof": "Certo.",
+"x": "Formuladas na tradição platônica.",
+"e": "Platão"
+},
+{
+"p": "Para Aristóteles, a virtude moral é inata, não dependendo da prática reiterada.",
+"c": false,
+"prof": "Errado.",
+"x": "A virtude moral é adquirida pelo hábito: tornamo-nos justos praticando atos justos.",
+"e": "Aristóteles"
+},
+{
+"p": "Para Aristóteles, a virtude é o justo meio entre dois vícios, um por falta e outro por excesso.",
+"c": true,
+"prof": "Certo.",
+"x": "Ex.: coragem entre covardia e temeridade.",
+"e": "Aristóteles"
+},
+{
+"p": "Segundo Aristóteles, a coragem é o meio-termo entre a temeridade e a prodigalidade.",
+"c": false,
+"prof": "Errado.",
+"x": "A coragem fica entre a covardia e a temeridade; prodigalidade é excesso oposto à avareza.",
+"e": "Aristóteles"
+},
+{
+"p": "A eudaimonia, em Aristóteles, designa a felicidade ou vida plena, fim último da ação humana.",
+"c": true,
+"prof": "Certo.",
+"x": "Fim último.",
+"e": "Aristóteles"
+},
+{
+"p": "Para os estoicos, o sábio deve viver conforme a natureza e a razão, dominando as paixões.",
+"c": true,
+"prof": "Certo.",
+"x": "Busca da ataraxia e da apatheia.",
+"e": "Estoicos"
+},
+{
+"p": "Para Kant, uma ação é moralmente boa quando produz as melhores consequências para o maior número de pessoas.",
+"c": false,
+"prof": "Errado.",
+"x": "Essa é a tese utilitarista; Kant avalia a ação pelo dever e pela intenção.",
+"e": "Kant"
+},
+{
+"p": "O imperativo categórico kantiano ordena de modo incondicional, independentemente dos fins desejados pelo agente.",
+"c": true,
+"prof": "Certo.",
+"x": "O hipotético é condicional.",
+"e": "Kant"
+},
+{
+"p": "O imperativo hipotético, em Kant, é o comando moral incondicional válido para todo ser racional.",
+"c": false,
+"prof": "Errado.",
+"x": "O incondicional é o categórico; o hipotético depende de um fim desejado.",
+"e": "Kant"
+},
+{
+"p": "Uma das fórmulas do imperativo categórico determina tratar a humanidade sempre como fim e nunca simplesmente como meio.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula da humanidade.",
+"e": "Kant"
+},
+{
+"p": "Para o utilitarismo de Bentham e Mill, a ação correta é a que produz a maior felicidade para o maior número de pessoas.",
+"c": true,
+"prof": "Certo.",
+"x": "Princípio da utilidade.",
+"e": "Utilitarismo"
+},
+{
+"p": "Stuart Mill distinguiu prazeres superiores e inferiores, valorizando os intelectuais e morais.",
+"c": true,
+"prof": "Certo.",
+"x": "\"Melhor um Sócrates insatisfeito que um tolo satisfeito\".",
+"e": "Utilitarismo"
+},
+{
+"p": "Max Weber distinguiu a ética da convicção, guiada por princípios, da ética da responsabilidade, atenta às consequências previsíveis dos atos.",
+"c": true,
+"prof": "Certo.",
+"x": "A política como vocação.",
+"e": "Weber"
+},
+{
+"p": "Para Weber, o político maduro deve abandonar suas convicções e agir apenas segundo as consequências.",
+"c": false,
+"prof": "Errado.",
+"x": "Weber propõe combinar convicção e responsabilidade.",
+"e": "Weber"
+},
+{
+"p": "Na ética do discurso de Habermas, uma norma é válida se puder ser aceita por todos os afetados em diálogo livre e racional.",
+"c": true,
+"prof": "Certo.",
+"x": "Ética do discurso.",
+"e": "Habermas"
+},
+{
+"p": "Em Rawls, os princípios de justiça seriam escolhidos sob um véu de ignorância.",
+"c": true,
+"prof": "Certo.",
+"x": "Justiça como equidade.",
+"e": "Rawls"
+},
+{
+"p": "Hannah Arendt usou a expressão banalidade do mal para mostrar que funcionários comuns, ao deixarem de pensar, podem participar de grandes crimes.",
+"c": true,
+"prof": "Certo.",
+"x": "Julgamento de Eichmann.",
+"e": "Arendt"
+},
+{
+"p": "O servidor deve cumprir qualquer ordem superior, ainda que manifestamente ilegal, respondendo apenas quem a emitiu.",
+"c": false,
+"prof": "Errado.",
+"x": "O dever de obediência não alcança ordens manifestamente ilegais (Lei 8.112, art. 116, IV).",
+"e": "Lei 8.112"
+},
+{
+"p": "O relativismo moral afirma que não há certo ou errado absoluto, variando a moral entre culturas e pessoas.",
+"c": true,
+"prof": "Certo.",
+"x": "Conceito de relativismo.",
+"e": "Relativismo"
+},
+{
+"p": "O pluralismo político é um dos fundamentos da República Federativa do Brasil.",
+"c": true,
+"prof": "Certo.",
+"x": "CF, art. 1º, V.",
+"e": "CF, art. 1º"
+},
+{
+"p": "Em nome de suas convicções pessoais, o servidor pode recusar atendimento a cidadão de religião diversa da sua.",
+"c": false,
+"prof": "Errado.",
+"x": "Viola a impessoalidade, a igualdade e o pluralismo.",
+"e": "Impessoalidade"
+},
+{
+"p": "Segundo T. H. Marshall, a cidadania moderna compreende direitos civis, políticos e sociais.",
+"c": true,
+"prof": "Certo.",
+"x": "Sequência histórica inglesa.",
+"e": "Cidadania"
+},
+{
+"p": "O controle social é a participação do cidadão na fiscalização da gestão pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Ex.: pedidos de acesso à informação, ouvidorias, conselhos.",
+"e": "Controle social"
+},
+{
+"p": "Deontologia é o estudo dos deveres de uma profissão ou categoria.",
+"c": true,
+"prof": "Certo.",
+"x": "Do grego deon, dever.",
+"e": "Deontologia"
+},
+{
+"p": "A finalidade principal de um código de ética profissional é proteger os membros da categoria contra reclamações do público.",
+"c": false,
+"prof": "Errado.",
+"x": "Sua finalidade é orientar a conduta e proteger o público e a confiança na profissão.",
+"e": "Ética profissional"
+},
+{
+"p": "Segundo o Código de Ética do servidor federal, a dignidade, o decoro, o zelo, a eficácia e a consciência dos princípios morais são primados maiores que devem nortear o servidor.",
+"c": true,
+"prof": "Certo.",
+"x": "Decreto 1.171/1994, regra I.",
+"e": "Decreto 1.171"
+},
+{
+"p": "O Código de Ética determina que o servidor decida principalmente entre o legal e o ilegal.",
+"c": false,
+"prof": "Errado.",
+"x": "Decide principalmente entre o honesto e o desonesto (regra II).",
+"e": "Decreto 1.171"
+},
+{
+"p": "Para o Código de Ética, o equilíbrio entre a legalidade e a finalidade é que poderá consolidar a moralidade do ato administrativo.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra III.",
+"e": "Decreto 1.171"
+},
+{
+"p": "Segundo o Código de Ética, a vida privada do servidor é irrelevante para o seu conceito funcional.",
+"c": false,
+"prof": "Errado.",
+"x": "Fatos da vida privada podem acrescer ou diminuir o bom conceito funcional (regra VI).",
+"e": "Decreto 1.171"
+},
+{
+"p": "O Código de Ética afirma que a remuneração do servidor é custeada pelos tributos pagos por todos, inclusive por ele próprio.",
+"c": true,
+"prof": "Certo.",
+"x": "Regra IV.",
+"e": "Decreto 1.171"
+},
+{
+"p": "Um ato administrativo pode ser legal e, ainda assim, violar o princípio da moralidade.",
+"c": true,
+"prof": "Certo.",
+"x": "Por isso a moralidade é princípio autônomo.",
+"e": "Moralidade"
+},
+{
+"p": "A ação popular somente pode ser proposta quando houver prejuízo financeiro ao erário.",
+"c": false,
+"prof": "Errado.",
+"x": "Cabe também contra ato lesivo à moralidade administrativa.",
+"e": "CF, art. 5º, LXXIII"
+},
+{
+"p": "A moralidade administrativa, segundo a doutrina, não se confunde com a moral comum, ligando-se à boa-fé, à lealdade e à finalidade pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Moral jurídica.",
+"e": "Moralidade"
+},
+{
+"p": "Accountability envolve o dever de prestar contas e a possibilidade de responsabilização de quem administra recursos públicos.",
+"c": true,
+"prof": "Certo.",
+"x": "Conceito.",
+"e": "Accountability"
+},
+{
+"p": "A accountability horizontal é exercida pelos eleitores, por meio do voto.",
+"c": false,
+"prof": "Errado.",
+"x": "Isso é accountability vertical; a horizontal é entre órgãos do Estado.",
+"e": "Accountability"
+},
+{
+"p": "O controle exercido pelos Tribunais de Contas sobre a Administração é exemplo de accountability horizontal.",
+"c": true,
+"prof": "Certo.",
+"x": "Órgãos do Estado controlando-se mutuamente.",
+"e": "Accountability"
+},
+{
+"p": "Dilema ético é a situação em que valores legítimos entram em conflito, de modo que qualquer escolha sacrifica algum deles.",
+"c": true,
+"prof": "Certo.",
+"x": "Receber propina não é dilema: é simplesmente errado.",
+"e": "Dilemas"
+},
+{
+"p": "O teste da publicidade consiste em perguntar se o agente se sentiria confortável caso sua decisão fosse amplamente divulgada.",
+"c": true,
+"prof": "Certo.",
+"x": "Teste do jornal.",
+"e": "Decisão ética"
+},
+{
+"p": "Por ser de pequeno valor e não alterar o auto de infração, a gratificação oferecida pelo condutor pode ser aceita pelo agente.",
+"c": false,
+"prof": "Errado.",
+"x": "Configura corrupção passiva e violação ética, independentemente do valor.",
+"e": "Corrupção"
+},
+{
+"p": "Oferecer vantagem indevida a funcionário público para que pratique, omita ou retarde ato de ofício configura corrupção ativa.",
+"c": true,
+"prof": "Certo.",
+"x": "CP, art. 333.",
+"e": "Corrupção"
+},
+{
+"p": "Exigir vantagem indevida em razão da função caracteriza concussão.",
+"c": true,
+"prof": "Certo.",
+"x": "CP, art. 316.",
+"e": "Corrupção"
+},
+{
+"p": "O dever de sigilo não impede o servidor de levar ao conhecimento da autoridade superior as irregularidades de que tiver ciência.",
+"c": true,
+"prof": "Certo.",
+"x": "Lei 8.112, art. 116, VI.",
+"e": "Lei 8.112"
+},
+{
+"p": "A publicidade dos atos oficiais pode conter nomes e imagens de autoridades, desde que tenha caráter informativo.",
+"c": false,
+"prof": "Errado.",
+"x": "É vedado constar nomes, símbolos ou imagens que caracterizem promoção pessoal (CF, art. 37, § 1º).",
+"e": "CF, art. 37"
+},
+{
+"p": "O princípio da eficiência foi incluído expressamente no caput do art. 37 da CF pela EC 19/1998.",
+"c": true,
+"prof": "Certo.",
+"x": "Reforma administrativa.",
+"e": "CF, art. 37"
+},
+{
+"p": "A Lei 13.460/2017 estabelece como diretriz do atendimento a presunção de boa-fé do usuário.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 5º.",
+"e": "Lei 13.460"
+},
+{
+"p": "A Lei 13.460/2017 permite exigir reconhecimento de firma em qualquer requerimento, por segurança.",
+"c": false,
+"prof": "Errado.",
+"x": "É vedado, salvo dúvida de autenticidade.",
+"e": "Lei 13.460"
+},
+{
+"p": "Para que a ouvidoria receba a reclamação, o usuário deve justificar os motivos que o levaram a manifestar-se.",
+"c": false,
+"prof": "Errado.",
+"x": "É vedada qualquer exigência relativa aos motivos da manifestação.",
+"e": "Lei 13.460"
+},
+{
+"p": "Assédio moral caracteriza-se pela exposição repetida e prolongada do trabalhador a situações humilhantes.",
+"c": true,
+"prof": "Certo.",
+"x": "Não se confunde com cobranças legítimas.",
+"e": "Assédio"
+},
+{
+"p": "Assédio sexual é crime previsto no Código Penal, caracterizado pelo constrangimento com intuito de obter favorecimento sexual, prevalecendo-se o agente de sua superioridade hierárquica ou ascendência.",
+"c": true,
+"prof": "Certo.",
+"x": "CP, art. 216-A.",
+"e": "Assédio"
+},
+{
+"p": "A liberdade de expressão do servidor fora do expediente permite-lhe divulgar documentos internos obtidos em razão do cargo.",
+"c": false,
+"prof": "Errado.",
+"x": "O dever de sigilo funcional persiste.",
+"e": "Redes sociais"
+},
+{
+"p": "A Constituição impõe ao poder público e à coletividade o dever de preservar o meio ambiente para as presentes e futuras gerações.",
+"c": true,
+"prof": "Certo.",
+"x": "CF, art. 225; ética intergeracional.",
+"e": "CF, art. 225"
+},
+{
+"p": "Assinale a opção que apresenta característica própria do direito, e não da moral.",
+"alts": [
+"Foro íntimo",
+"Ausência de sanção organizada",
+"Coercibilidade",
+"Autonomia",
+"Unilateralidade"
+],
+"r": 2,
+"n": [
+"É característica da moral.",
+"É característica da moral.",
+"Correta: o direito pode ser imposto pelo Estado.",
+"A moral tende à autonomia.",
+"A moral é unilateral."
+],
+"x": "O direito é coercível, heterônomo e bilateral.",
+"e": "Moral × direito"
+},
+{
+"p": "A corrente ética que avalia a correção das ações por suas consequências para o bem-estar geral é o",
+"alts": [
+"kantismo",
+"utilitarismo",
+"estoicismo",
+"existencialismo",
+"aristotelismo"
+],
+"r": 1,
+"n": [
+"Avalia pelo dever.",
+"Correta.",
+"Vida conforme a razão e a natureza.",
+"Liberdade e responsabilidade.",
+"Virtude e justo meio."
+],
+"x": "Bentham e Mill.",
+"e": "Utilitarismo"
+},
+{
+"p": "Para Aristóteles, a virtude moral é",
+"alts": [
+"um dom divino concedido a poucos",
+"uma disposição adquirida pelo hábito, situada no justo meio",
+"o extremo oposto a qualquer paixão",
+"o cálculo dos prazeres e das dores",
+"a obediência às ordens da autoridade"
+],
+"r": 1,
+"n": [
+"Não é inata.",
+"Correta.",
+"É meio-termo, não extremo.",
+"Isso é Bentham.",
+"Isso é heteronomia."
+],
+"x": "Ética a Nicômaco.",
+"e": "Aristóteles"
+},
+{
+"p": "Um servidor recusa propina apenas por medo de ser descoberto. Segundo Kohlberg, essa motivação corresponde ao nível",
+"alts": [
+"pós-convencional",
+"convencional",
+"pré-convencional",
+"autônomo",
+"universal"
+],
+"r": 2,
+"n": [
+"Agiria por princípios.",
+"Agiria para cumprir normas do grupo.",
+"Correta: evitar punição.",
+"Autonomia é agir por princípios próprios.",
+"Não é nível de Kohlberg."
+],
+"x": "Desenvolvimento moral.",
+"e": "Kohlberg"
+},
+{
+"p": "A distinção entre ética da convicção e ética da responsabilidade é atribuída a",
+"alts": [
+"Kant",
+"Aristóteles",
+"Habermas",
+"Max Weber",
+"Stuart Mill"
+],
+"r": 3,
+"n": [
+"Dever.",
+"Virtude.",
+"Discurso.",
+"Correta.",
+"Utilidade."
+],
+"x": "A política como vocação.",
+"e": "Weber"
+},
+{
+"p": "Segundo o Decreto 1.171/1994, o servidor deve decidir, principalmente, entre",
+"alts": [
+"o legal e o ilegal",
+"o conveniente e o inconveniente",
+"o oportuno e o inoportuno",
+"o honesto e o desonesto",
+"o justo e o injusto"
+],
+"r": 3,
+"n": [
+"Consta, mas não é o principal.",
+"Consta, mas não é o principal.",
+"Consta, mas não é o principal.",
+"Correta (regra II).",
+"Consta, mas não é o principal."
+],
+"x": "Regra II.",
+"e": "Decreto 1.171"
+},
+{
+"p": "O controle exercido pela imprensa e por organizações da sociedade civil sobre os governantes é denominado accountability",
+"alts": [
+"horizontal",
+"vertical eleitoral",
+"societal",
+"interna",
+"jurisdicional"
+],
+"r": 2,
+"n": [
+"Entre órgãos do Estado.",
+"Pelo voto.",
+"Correta.",
+"Controle interno.",
+"Pelo Judiciário."
+],
+"x": "O'Donnell e desdobramentos.",
+"e": "Accountability"
+},
+{
+"p": "Um prefeito utiliza a publicidade oficial de obras com seu nome e foto em destaque. O princípio mais diretamente violado é o da",
+"alts": [
+"eficiência",
+"legalidade tributária",
+"impessoalidade",
+"continuidade",
+"publicidade"
+],
+"r": 2,
+"n": [
+"Não é o foco.",
+"Não se aplica.",
+"Correta (CF, art. 37, § 1º).",
+"Não se aplica.",
+"A publicidade é o meio usado, não o princípio violado."
+],
+"x": "Promoção pessoal.",
+"e": "CF, art. 37, § 1º"
+},
+{
+"p": "Segundo Kant, a mentira é",
+"alts": [
+"permitida quando gera boas consequências",
+"sempre moralmente errada, por não poder ser universalizada",
+"indiferente moralmente",
+"permitida a servidores públicos",
+"um imperativo hipotético"
+],
+"r": 1,
+"n": [
+"Raciocínio utilitarista.",
+"Correta.",
+"Kant a condena.",
+"Sem base.",
+"Confusão de conceitos."
+],
+"x": "Imperativo categórico.",
+"e": "Kant"
+},
+{
+"p": "A expressão banalidade do mal está associada a",
+"alts": [
+"Sartre",
+"Hannah Arendt",
+"Rawls",
+"Platão",
+"Bentham"
+],
+"r": 1,
+"n": [
+"Liberdade e má-fé.",
+"Correta.",
+"Véu de ignorância.",
+"Virtudes cardeais.",
+"Utilidade."
+],
+"x": "Eichmann em Jerusalém.",
+"e": "Arendt"
+}
+]
+},
+"governanca": {
+"html": "<h3>1. Por que falar em governança pública</h3>\n<ul><li>Até os anos 1980, a administração pública era pensada sobretudo pela lente da <b>burocracia weberiana</b>: regras, hierarquia, impessoalidade e controle de procedimentos. Nos anos 1990, a <b>Nova Gestão Pública</b> (*New Public Management*) trouxe ferramentas do setor privado: foco em resultados, metas, contratos de gestão, avaliação de desempenho. No Brasil, essa onda aparece no Plano Diretor da Reforma do Aparelho do Estado (1995) e na <b>EC 19/1998</b>, que incluiu a <b>eficiência</b> no art. 37.</li><li>A partir dos anos 2000, ganhou força a ideia de <b>governança pública</b> (*New Public Governance*): o Estado não governa sozinho, mas em rede, com outros órgãos, entes federativos, sociedade civil e setor privado. Mais do que fazer bem cada processo, é preciso <b>direcionar</b> a organização para gerar <b>valor público</b>, <b>monitorar</b> resultados e <b>prestar contas</b>.</li><li>A governança também responde a crises de <b>confiança</b> e de <b>integridade</b>: grandes escândalos de corrupção mostraram que bons controles e lideranças éticas são indispensáveis para que o dinheiro público chegue ao cidadão em forma de serviços.</li><li>No Executivo federal, o marco é o <b>Decreto 9.203/2017</b>, que dispõe sobre a <b>política de governança da administração pública federal direta, autárquica e fundacional</b>. Empresas estatais têm regras próprias de governança na <b>Lei 13.303/2016</b> (Lei das Estatais).</li></ul>\n<table class=\"tab\"><thead><tr><th>Modelo; Foco; Palavras-chave</th></tr></thead><tbody><tr><td>Burocrático (Weber); Procedimentos, legalidade, hierarquia; Impessoalidade, regras, carreira</td></tr><tr><td>Gerencial (Nova Gestão Pública); Resultados, eficiência, cliente; Metas, contratos de gestão, desempenho</td></tr><tr><td>Governança pública (Nova Governança); Redes, valor público, legitimidade; Liderança, estratégia, controle, transparência, participação</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 9.203/2017</span></span><span class=\"vs\"><span>Política de governança da administração federal direta, autárquica e fundacional</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 13.303/2016</span></span><span class=\"vs\"><span>Governança das empresas estatais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>EC 19/1998</span></span><span class=\"vs\"><span>Eficiência no art. 37 (reforma gerencial)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Nova Governança</span></span><span class=\"vs\"><span>Estado em rede, valor público</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Decreto 9.203/2017 aplica-se às empresas públicas e sociedades de economia mista federais</span><br>✅ <span class=\"certo\">aplica-se à administração <b>direta, autárquica e fundacional</b>; estatais seguem a <b>Lei 13.303/2016</b></span></li><li>❌ <span class=\"banca\">A governança pública substitui completamente a gestão, eliminando a necessidade de processos operacionais</span><br>✅ <span class=\"certo\">governança e gestão são <b>complementares</b>: a governança avalia, direciona e monitora; a gestão executa</span></li></ol></div>\n<h3>2. Governança × gestão</h3>\n<ul><li>Este é o ponto conceitual mais cobrado. <b>Governança</b> é a função de <b>avaliar, direcionar e monitorar</b> a gestão. <b>Gestão</b> é a função de <b>planejar, executar, controlar e agir</b> (o ciclo PDCA) para entregar os resultados definidos.</li><li>Uma imagem ajuda: num barco, a <b>gestão rema</b> e mantém o barco funcionando; a <b>governança</b> decide <b>para onde ir</b>, verifica se o rumo está certo e se a tripulação está fazendo o que foi combinado.</li><li>Quem exerce a governança são as instâncias de topo (alta administração, conselhos, comitês de governança) e as instâncias de controle e supervisão. Quem exerce a gestão são as unidades executoras (secretarias, departamentos, coordenações).</li></ul>\n<table class=\"tab\"><thead><tr><th>Aspecto; Governança; Gestão</th></tr></thead><tbody><tr><td>Pergunta central; \"Estamos fazendo as coisas certas?\"; \"Estamos fazendo as coisas do jeito certo?\"</td></tr><tr><td>Funções; Avaliar, direcionar, monitorar; Planejar, executar, controlar, agir</td></tr><tr><td>Quem exerce; Alta administração, conselhos, comitês; Gerentes e equipes executoras</td></tr><tr><td>Horizonte; Estratégico; Tático e operacional</td></tr></tbody></table>\n<div class=\"lt-fluxo\"><span>Avaliar o ambiente e os resultados</span> <em>→</em> <span>Direcionar (estratégia, prioridades, políticas)</span> <em>→</em> <span>Gestão planeja e executa</span> <em>→</em> <span>Monitorar o desempenho e os riscos</span> <em>→</em> <span>Prestar contas à sociedade</span> <em>→</em> <span>Avaliar de novo</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A função de executar as ações planejadas pertence à governança, cabendo à gestão apenas monitorar</span><br>✅ <span class=\"certo\">é o inverso: a <b>gestão executa</b>; a <b>governança avalia, direciona e monitora</b></span></li><li>❌ <span class=\"banca\">Avaliar, direcionar e monitorar são funções típicas da gestão operacional</span><br>✅ <span class=\"certo\">são as funções da <b>governança</b></span></li></ol></div>\n<h3>3. Conceitos do Decreto 9.203/2017 (art. 2º)</h3>\n<ul><li><b>Governança pública</b>: conjunto de mecanismos de <b>liderança, estratégia e controle</b> postos em prática para <b>avaliar, direcionar e monitorar a gestão</b>, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade.</li><li><b>Valor público</b>: produtos e resultados gerados, preservados ou entregues pelas atividades de uma organização que representem <b>respostas efetivas e úteis às necessidades ou às demandas de interesse público</b> e modifiquem aspectos do conjunto da sociedade ou de alguns grupos específicos reconhecidos como destinatários legítimos de bens e serviços públicos.</li><li><b>Alta administração</b>: Ministros de Estado, ocupantes de cargos de natureza especial, ocupantes de cargo de nível 6 do Grupo-Direção e Assessoramento Superiores (ou equivalentes, nos cargos atuais) e presidentes e diretores de autarquias, inclusive as especiais, e de fundações públicas ou autoridades de hierarquia equivalente.</li><li><b>Gestão de riscos</b>: processo de natureza permanente, estabelecido, direcionado e monitorado pela alta administração, que contempla as atividades de <b>identificar, avaliar e gerenciar potenciais eventos</b> que possam afetar a organização, destinado a fornecer <b>segurança razoável</b> quanto à realização de seus objetivos.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Governança pública</span></span><span class=\"vs\"><span>Liderança, estratégia e controle para avaliar, direcionar e monitorar a gestão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Valor público</span></span><span class=\"vs\"><span>Respostas efetivas e úteis às necessidades de interesse público</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gestão de riscos</span></span><span class=\"vs\"><span>Identificar, avaliar e gerenciar eventos; segurança razoável</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Alta administração</span></span><span class=\"vs\"><span>Ministros, natureza especial, nível 6 e dirigentes de autarquias e fundações</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A gestão de riscos destina-se a fornecer segurança absoluta quanto ao alcance dos objetivos</span><br>✅ <span class=\"certo\">fornece <b>segurança razoável</b>, nunca absoluta</span></li><li>❌ <span class=\"banca\">O valor público corresponde ao lucro obtido pela organização pública com suas atividades</span><br>✅ <span class=\"certo\">valor público são <b>respostas efetivas e úteis</b> às necessidades de interesse público, e não lucro</span></li></ol></div>\n<h3>4. Os princípios da governança pública (art. 3º)</h3>\n<ul><li>São <b>seis</b> princípios. Decore com o mnemônico <b>\"CI-CO-ME-PRE-TRA\"</b> (ou, em ordem livre, <b>\"Capacidade, Integridade, Confiabilidade, Melhoria, Prestação, Transparência\"</b>).</li></ul>\n<table class=\"tab\"><thead><tr><th>Princípio; Significado; Exemplo</th></tr></thead><tbody><tr><td>Capacidade de resposta; Responder de forma eficiente e eficaz às necessidades das pessoas, inclusive em crises; Ampliar rapidamente o atendimento em uma emergência</td></tr><tr><td>Integridade; Agir com base em princípios e valores éticos, priorizando o interesse público; Programa de integridade, política de conflito de interesses</td></tr><tr><td>Confiabilidade; Manter objetivos e diretrizes estáveis e coerentes, gerando previsibilidade; Não mudar regras a cada gestão sem justificativa</td></tr><tr><td>Melhoria regulatória; Normas de qualidade, simples, avaliadas quanto a impacto; Análise de impacto regulatório, consultas públicas</td></tr><tr><td>Prestação de contas e responsabilidade; Responder pelos atos e resultados, assumindo responsabilidades; Relatório de gestão, prestação de contas ao TCU</td></tr><tr><td>Transparência; Divulgar de forma aberta e compreensível; Portal da transparência, dados abertos</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Eficiência e economicidade estão entre os seis princípios da governança pública do Decreto 9.203/2017</span><br>✅ <span class=\"certo\">os princípios são <b>capacidade de resposta, integridade, confiabilidade, melhoria regulatória, prestação de contas e responsabilidade, e transparência</b></span></li><li>❌ <span class=\"banca\">A participação social é um dos seis princípios expressos do art. 3º</span><br>✅ <span class=\"certo\">não está no rol de princípios; aparece nas <b>diretrizes</b> (apoio à participação da sociedade)</span></li></ol></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Muitas questões listam \"princípios\" misturando os do art. 37 da CF (LIMPE) com os do Decreto 9.203. Separe: <b>LIMPE</b> é da Constituição; <b>CI-CO-ME-PRE-TRA</b> é do decreto. Apenas <b>transparência/publicidade</b> e <b>integridade/moralidade</b> têm parentesco direto.</div>\n<h3>5. As diretrizes da governança pública (art. 4º)</h3>\n<ul><li>O art. 4º lista <b>onze diretrizes</b>, que orientam como os princípios devem ser postos em prática. Elas aparecem em itens literais com uma palavra trocada, por isso convém lê-las com atenção:</li><li><b>I</b> - direcionar ações para a <b>busca de resultados para a sociedade</b>, encontrando soluções tempestivas e inovadoras para lidar com a limitação de recursos e com as mudanças de prioridades;</li><li><b>II</b> - promover a <b>simplificação administrativa</b>, a modernização da gestão pública e a integração dos serviços públicos, especialmente aqueles prestados por meio eletrônico;</li><li><b>III</b> - <b>monitorar o desempenho e avaliar</b> a concepção, a implementação e os resultados das políticas e das ações prioritárias para assegurar que as diretrizes estratégicas sejam observadas;</li><li><b>IV</b> - <b>articular instituições e coordenar processos</b> para melhorar a integração entre os diferentes níveis e esferas do setor público, com vistas a gerar, preservar e entregar valor público;</li><li><b>V</b> - fazer incorporar <b>padrões elevados de conduta pela alta administração</b> para orientar o comportamento dos agentes públicos, em consonância com as funções e as atribuições de seus órgãos e de suas entidades;</li><li><b>VI</b> - implementar <b>controles internos fundamentados na gestão de risco</b>, que privilegiará <b>ações estratégicas de prevenção antes de processos sancionadores</b>;</li><li><b>VII</b> - <b>avaliar as propostas</b> de criação, de expansão ou de aperfeiçoamento de políticas públicas e de concessão de <b>incentivos fiscais</b> e aferir, sempre que possível, seus <b>custos e benefícios</b>;</li><li><b>VIII</b> - manter <b>processo decisório orientado pelas evidências</b>, pela conformidade legal, pela qualidade regulatória, pela desburocratização e pelo <b>apoio à participação da sociedade</b>;</li><li><b>IX</b> - editar e revisar atos normativos, pautando-se pelas <b>boas práticas regulatórias</b> e pela legitimidade, estabilidade e coerência do ordenamento jurídico e realizando <b>consultas públicas</b> sempre que conveniente;</li><li><b>X</b> - definir <b>formalmente as funções, as competências e as responsabilidades</b> das estruturas e dos arranjos institucionais;</li><li><b>XI</b> - promover a <b>comunicação aberta, voluntária e transparente</b> das atividades e dos resultados da organização, de maneira a fortalecer o acesso público à informação.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diretriz VI</span></span><span class=\"vs\"><span>Controles com base em risco; prevenção antes da sanção</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diretriz VIII</span></span><span class=\"vs\"><span>Decisão orientada por evidências e apoio à participação social</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diretriz V</span></span><span class=\"vs\"><span>Padrões elevados de conduta pela alta administração</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diretriz VII</span></span><span class=\"vs\"><span>Avaliar custos e benefícios de políticas e incentivos fiscais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diretriz XI</span></span><span class=\"vs\"><span>Comunicação aberta, voluntária e transparente</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Segundo o Decreto 9.203/2017, os controles internos devem privilegiar os processos sancionadores, por seu efeito dissuasório</span><br>✅ <span class=\"certo\">devem privilegiar <b>ações estratégicas de prevenção antes de processos sancionadores</b> (art. 4º, VI)</span></li><li>❌ <span class=\"banca\">A realização de consultas públicas na edição de atos normativos é obrigatória em todos os casos</span><br>✅ <span class=\"certo\">deve ocorrer <b>sempre que conveniente</b> (art. 4º, IX)</span></li><li>❌ <span class=\"banca\">O processo decisório deve ser orientado pela intuição e pela experiência dos gestores</span><br>✅ <span class=\"certo\">deve ser orientado pelas <b>evidências</b> (art. 4º, VIII)</span></li></ol></div>\n<h3>6. Os mecanismos: liderança, estratégia e controle (art. 5º)</h3>\n<ul><li><b>Liderança</b>: conjunto de práticas de natureza humana ou comportamental exercidas nos principais cargos das organizações, para assegurar a existência das condições mínimas para o exercício da boa governança, quais sejam: <b>integridade, competência, responsabilidade e motivação</b>.</li><li><b>Estratégia</b>: definição de diretrizes, objetivos, planos e ações, além de critérios de priorização e alinhamento entre organizações e partes interessadas, para que os serviços e produtos de responsabilidade da organização alcancem o resultado pretendido.</li><li><b>Controle</b>: processos estruturados para mitigar os possíveis riscos com vistas ao alcance dos objetivos institucionais e para garantir a execução ordenada, ética, econômica, eficiente e eficaz das atividades da organização, com preservação da legalidade e da economicidade no dispêndio de recursos públicos.</li></ul>\n<table class=\"tab\"><thead><tr><th>Mecanismo; Essência; Exemplos de práticas (referencial do TCU)</th></tr></thead><tbody><tr><td>Liderança; Pessoas e comportamento no topo; Seleção de dirigentes por competência, código de conduta, avaliação da alta administração, modelo de governança definido</td></tr><tr><td>Estratégia; Direção e prioridades; Planejamento estratégico, gestão de partes interessadas, alinhamento entre órgãos, monitoramento de indicadores</td></tr><tr><td>Controle; Riscos, auditoria e accountability; Gestão de riscos, auditoria interna, transparência, prestação de contas, responsabilização</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mecanismos de governança</span></span><span class=\"vs\"><span>Liderança, estratégia e controle</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Liderança (condições mínimas)</span></span><span class=\"vs\"><span>Integridade, competência, responsabilidade e motivação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Controle</span></span><span class=\"vs\"><span>Mitigar riscos; execução ordenada, ética, econômica, eficiente e eficaz</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Integridade, competência, responsabilidade e motivação são elementos do mecanismo de controle</span><br>✅ <span class=\"certo\">são as condições mínimas ligadas à <b>liderança</b></span></li><li>❌ <span class=\"banca\">O mecanismo de estratégia consiste nos processos estruturados para mitigar riscos</span><br>✅ <span class=\"certo\">isso é o mecanismo de <b>controle</b>; estratégia é a definição de diretrizes, objetivos e prioridades</span></li></ol></div>\n<h3>7. Quem faz o quê: a estrutura de governança federal</h3>\n<ul><li><b>Alta administração</b> dos órgãos e entidades: deve <b>implementar e manter mecanismos, instâncias e práticas de governança</b>, em consonância com os princípios e as diretrizes do decreto, incluindo, no mínimo, formas de acompanhamento de resultados, soluções para melhoria do desempenho e instrumentos de promoção do processo decisório fundamentado em evidências (art. 6º).</li><li><b>Comitê Interministerial de Governança (CIG)</b>: instância de nível central que tem a finalidade de <b>assessorar o Presidente da República na condução da política de governança</b> da administração pública federal, propondo medidas, aprovando manuais e guias e incentivando boas práticas. Sua composição é definida no próprio decreto, sob coordenação da Casa Civil, com participação de ministérios da área econômica e da Controladoria-Geral da União.</li><li><b>Comitês internos de governança</b>: cada órgão e entidade deve instituir o seu, para garantir que as boas práticas de governança sejam desenvolvidas e apropriadas pela instituição de forma contínua e progressiva, promover a implementação das medidas, mecanismos e práticas, e incentivar a integração dos agentes responsáveis pela governança, pela gestão de riscos e pelos controles internos.</li><li><b>Controladoria-Geral da União (CGU)</b>: órgão central do Sistema de Controle Interno e do Sistema de Integridade (Sitai), estabelece procedimentos para a estruturação, a execução e o monitoramento dos programas de integridade.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Comitê Interministerial de Governança tem por finalidade julgar infrações disciplinares de servidores da alta administração</span><br>✅ <span class=\"certo\">sua finalidade é <b>assessorar o Presidente da República</b> na condução da política de governança</span></li><li>❌ <span class=\"banca\">Os comitês internos de governança são facultativos e dependem de autorização do CIG</span><br>✅ <span class=\"certo\">cada órgão e entidade <b>deve instituir</b> seu comitê interno de governança</span></li></ol></div>\n<h3>8. Gestão de riscos e controles internos (art. 17)</h3>\n<ul><li>A alta administração dos órgãos e entidades deve <b>estabelecer, manter, monitorar e aprimorar sistema de gestão de riscos e controles internos</b> com vistas à identificação, à avaliação, ao tratamento, ao monitoramento e à análise crítica de riscos que possam impactar a implementação da estratégia e a consecução dos objetivos da organização no cumprimento da sua missão institucional.</li><li><b>Princípios da gestão de riscos</b> (art. 17):</li><li><b>I</b> - implementação e aplicação de forma <b>sistemática, estruturada, oportuna e documentada</b>, subordinada ao interesse público;</li><li><b>II</b> - <b>integração</b> da gestão de riscos ao processo de planejamento estratégico e aos seus desdobramentos, às atividades, aos processos de trabalho e aos projetos em todos os níveis do órgão ou da entidade, relevantes para a execução da estratégia e o alcance dos objetivos institucionais;</li><li><b>III</b> - estabelecimento de <b>controles internos proporcionais aos riscos</b>, de maneira a considerar suas causas, fontes, consequências e impactos, observada a <b>relação custo-benefício</b>;</li><li><b>IV</b> - utilização dos resultados da gestão de riscos para apoio à <b>melhoria contínua</b> do desempenho e dos processos de governança, de gestão de riscos e de controle.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sistema de gestão de riscos</span></span><span class=\"vs\"><span>Estabelecido, mantido, monitorado e aprimorado pela alta administração</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Controles internos</span></span><span class=\"vs\"><span>Proporcionais aos riscos, observado o custo-benefício</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gestão de riscos</span></span><span class=\"vs\"><span>Integrada ao planejamento estratégico, em todos os níveis</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os controles internos devem ser os mais rigorosos possíveis, independentemente do custo</span><br>✅ <span class=\"certo\">devem ser <b>proporcionais aos riscos</b>, observada a <b>relação custo-benefício</b></span></li><li>❌ <span class=\"banca\">A gestão de riscos deve ficar restrita à área de auditoria, sem integração ao planejamento</span><br>✅ <span class=\"certo\">deve ser <b>integrada</b> ao planejamento estratégico e aos processos em <b>todos os níveis</b></span></li></ol></div>\n<h3>9. O ciclo da gestão de riscos na prática</h3>\n<ul><li>Embora o decreto não detalhe a metodologia, os órgãos federais adotam modelos como a <b>ISO 31000</b> e o <b>COSO</b>. O ciclo típico tem as etapas abaixo.</li></ul>\n<div class=\"lt-fluxo\"><span>Estabelecer o contexto (objetivos, processos)</span> <em>→</em> <span>Identificar riscos (o que pode dar errado, causas e consequências)</span> <em>→</em> <span>Analisar (probabilidade e impacto)</span> <em>→</em> <span>Avaliar (comparar com o apetite a risco e priorizar)</span> <em>→</em> <span>Tratar (evitar, reduzir, compartilhar ou aceitar)</span> <em>→</em> <span>Monitorar e comunicar</span></div>\n<ul><li><b>Risco</b> é o efeito da incerteza sobre os objetivos; costuma ser medido pela combinação de <b>probabilidade</b> e <b>impacto</b>. O <b>nível de risco</b> orienta a prioridade de tratamento.</li><li><b>Apetite a risco</b> é o nível de risco que a organização está disposta a aceitar na busca de seus objetivos; <b>tolerância</b> é a variação aceitável em torno desse nível.</li><li><b>Respostas ao risco</b>: <b>evitar</b> (deixar de fazer a atividade que gera o risco), <b>reduzir ou mitigar</b> (criar controles), <b>compartilhar ou transferir</b> (seguro, parceria, terceirização com responsabilidades definidas) e <b>aceitar</b> (quando o custo do controle é maior que o benefício).</li><li><b>Risco inerente</b> é o risco antes dos controles; <b>risco residual</b> é o que permanece depois dos controles.</li></ul>\n<table class=\"tab\"><thead><tr><th>Resposta ao risco; Exemplo na fiscalização rodoviária</th></tr></thead><tbody><tr><td>Evitar; Não realizar operação noturna em trecho sem iluminação e acostamento</td></tr><tr><td>Reduzir; Usar sinalização, cones, viaturas de apoio e coletes refletivos</td></tr><tr><td>Compartilhar; Operação conjunta com órgão estadual, dividindo responsabilidades</td></tr><tr><td>Aceitar; Risco baixo de atraso no relatório, sem custo-benefício para controle adicional</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Risco</span></span><span class=\"vs\"><span>Efeito da incerteza sobre os objetivos (probabilidade × impacto)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Risco inerente</span></span><span class=\"vs\"><span>Antes dos controles</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Risco residual</span></span><span class=\"vs\"><span>Depois dos controles</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Respostas</span></span><span class=\"vs\"><span>Evitar, reduzir, compartilhar, aceitar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Apetite a risco</span></span><span class=\"vs\"><span>Nível que a organização aceita</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Risco residual é o risco existente antes da adoção de qualquer controle</span><br>✅ <span class=\"certo\">esse é o <b>inerente</b>; o <b>residual</b> é o que resta <b>após</b> os controles</span></li><li>❌ <span class=\"banca\">Aceitar o risco é sempre conduta irregular do gestor</span><br>✅ <span class=\"certo\">aceitar é resposta legítima quando o risco é baixo ou o custo do controle supera o benefício</span></li></ol></div>\n<h3>10. Programas de integridade (art. 19)</h3>\n<ul><li>Os órgãos e as entidades da administração direta, autárquica e fundacional <b>instituirão programa de integridade</b>, com o objetivo de promover a adoção de medidas e ações institucionais destinadas à <b>prevenção, à detecção, à punição e à remediação</b> de fraudes e atos de corrupção.</li><li>O programa é estruturado nos seguintes <b>eixos</b> (art. 19):</li><li><b>I</b> - <b>comprometimento e apoio da alta administração</b>;</li><li><b>II</b> - existência de <b>unidade responsável</b> pela implementação no órgão ou na entidade;</li><li><b>III</b> - <b>análise, avaliação e gestão dos riscos</b> associados ao tema da integridade;</li><li><b>IV</b> - <b>monitoramento contínuo</b> dos atributos do programa de integridade.</li><li>A CGU estabelece os procedimentos necessários à estruturação, à execução e ao monitoramento dos programas de integridade. Hoje, o <b>Sistema de Integridade, Transparência e Acesso à Informação (Sitai)</b>, instituído pelo <b>Decreto 11.529/2023</b>, organiza as <b>unidades setoriais de integridade</b> de cada órgão, sob coordenação da CGU, e cada órgão elabora seu <b>Plano de Integridade</b>.</li><li><b>Riscos à integridade</b> que costumam constar dos planos: abuso de posição ou poder em favor de interesses privados; nepotismo; conflito de interesses; pressão interna ou externa ilegal ou antiética para influenciar agente público; solicitação ou recebimento de vantagem indevida; e utilização de recursos públicos em favor de interesses privados.</li><li>Funções típicas cobertas por um programa: <b>código de conduta</b> e comissão de ética; <b>gestão de conflitos de interesses</b>; <b>canais de denúncia</b> e ouvidoria; <b>correição</b> (apuração disciplinar); <b>controles internos</b> e auditoria; <b>transparência</b> e acesso à informação; <b>treinamentos</b> e comunicação.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eixos do programa de integridade</span></span><span class=\"vs\"><span>Comprometimento da alta administração; unidade responsável; gestão de riscos de integridade; monitoramento contínuo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Objetivo</span></span><span class=\"vs\"><span>Prevenir, detectar, punir e remediar fraudes e corrupção</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sitai</span></span><span class=\"vs\"><span>Decreto 11.529/2023, coordenado pela CGU</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os eixos do programa de integridade incluem a obrigatoriedade de contratar auditoria independente privada</span><br>✅ <span class=\"certo\">os eixos são <b>comprometimento da alta administração, unidade responsável, gestão de riscos de integridade e monitoramento contínuo</b></span></li><li>❌ <span class=\"banca\">O programa de integridade tem finalidade exclusivamente punitiva</span><br>✅ <span class=\"certo\">abrange <b>prevenção, detecção, punição e remediação</b></span></li></ol></div>\n<h3>11. Auditoria interna governamental (art. 18)</h3>\n<ul><li>A <b>auditoria interna governamental</b> deverá <b>adicionar valor e melhorar as operações</b> das organizações para o alcance de seus objetivos, mediante a abordagem <b>sistemática e disciplinada</b>, por meio da <b>avaliação</b> da eficácia dos processos de <b>gerenciamento de riscos, dos controles e da governança</b>, e da prestação de <b>consultoria</b>.</li><li>Ela deve realizar trabalhos que considerem a eficiência, a eficácia e a efetividade dos processos de governança, de gestão de riscos e de controles internos; a adequação das informações gerenciais; e a conformidade das operações com a legislação.</li><li>Duas atividades: <b>avaliação</b> (*assurance*: exame objetivo de evidências para dar opinião independente) e <b>consultoria</b> (assessoramento sem assumir responsabilidades de gestão).</li><li>No Executivo federal, a auditoria interna é exercida pela <b>CGU</b> (órgão central do Sistema de Controle Interno) e pelas <b>auditorias internas singulares</b> de autarquias e fundações (Audins), além das assessorias especiais de controle interno nos ministérios.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Auditoria interna (art. 18)</span></span><span class=\"vs\"><span>Adicionar valor; avaliar riscos, controles e governança; consultoria</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Avaliação (assurance)</span></span><span class=\"vs\"><span>Opinião independente baseada em evidências</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Consultoria</span></span><span class=\"vs\"><span>Assessoramento sem assumir a gestão</span></span></button></div></div>\n<h3>12. As três linhas: quem cuida de quê</h3>\n<ul><li>O modelo das <b>três linhas</b> (Instituto dos Auditores Internos, IIA, atualizado em 2020) é usado pela CGU e pelo TCU para organizar papéis:</li><li><b>Órgão de governança</b> (alta administração, conselhos): presta contas às partes interessadas, define a estratégia e o apetite a riscos e supervisiona.</li><li><b>Primeira linha</b>: a <b>gestão operacional</b>, responsável por entregar produtos e serviços e por gerenciar os riscos do próprio processo, aplicando controles no dia a dia.</li><li><b>Segunda linha</b>: funções de <b>apoio especializado</b> em riscos e conformidade (gestão de riscos, integridade, compliance, controles financeiros), que monitoram e desafiam a primeira linha.</li><li><b>Terceira linha</b>: a <b>auditoria interna</b>, que fornece avaliação e assessoria <b>independentes e objetivas</b> sobre a adequação e a eficácia da governança e do gerenciamento de riscos.</li><li><b>Prestadores externos de avaliação</b> (como o Tribunal de Contas e auditorias externas) complementam o modelo de fora.</li></ul>\n<table class=\"tab\"><thead><tr><th>Linha; Quem; Papel</th></tr></thead><tbody><tr><td>Primeira; Gestores e equipes que executam; Possuem e gerenciam os riscos do processo</td></tr><tr><td>Segunda; Gestão de riscos, integridade, compliance; Apoio especializado, monitoramento e desafio</td></tr><tr><td>Terceira; Auditoria interna; Avaliação independente</td></tr><tr><td>Externo; TCU, auditores externos; Avaliação de fora</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No modelo das três linhas, a auditoria interna integra a primeira linha, por executar os controles operacionais</span><br>✅ <span class=\"certo\">a auditoria interna é a <b>terceira linha</b>, independente</span></li><li>❌ <span class=\"banca\">A segunda linha é composta pelos órgãos de controle externo, como o Tribunal de Contas</span><br>✅ <span class=\"certo\">a segunda linha são funções internas de <b>riscos e conformidade</b>; o controle externo é <b>prestador externo</b> de avaliação</span></li></ol></div>\n<h3>13. O referencial do TCU e a avaliação da governança</h3>\n<ul><li>O <b>Tribunal de Contas da União</b> publica o <b>Referencial Básico de Governança Organizacional</b> e realiza levantamentos periódicos (o <b>Índice Integrado de Governança e Gestão Públicas, iGG</b>) para medir a maturidade de governança dos órgãos federais.</li><li>No referencial do TCU, os mecanismos <b>liderança, estratégia e controle</b> se desdobram em práticas, como: estabelecer o modelo de governança; promover a integridade; promover a capacidade da liderança; gerir riscos; estabelecer a estratégia; promover a gestão estratégica; monitorar o alcance dos resultados; monitorar o desempenho das funções de gestão; promover a transparência; garantir a accountability; avaliar a satisfação das partes interessadas; e assegurar a efetividade da auditoria interna.</li><li>O TCU também adota a ideia de que a governança envolve as <b>partes interessadas</b> (cidadãos, usuários, órgãos de controle, Congresso, sociedade civil), cujas necessidades devem orientar a estratégia, e cujo acompanhamento depende de transparência e accountability.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>TCU</span></span><span class=\"vs\"><span>Referencial Básico de Governança e índice iGG</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Partes interessadas</span></span><span class=\"vs\"><span>Cidadãos, usuários, controle, Legislativo, sociedade civil</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Práticas de controle (TCU)</span></span><span class=\"vs\"><span>Gestão de riscos, auditoria interna, transparência, accountability</span></span></button></div></div>\n<h3>14. Governança, compliance e accountability</h3>\n<ul><li><b>Compliance</b> (conformidade) significa <b>estar de acordo</b> com leis, regulamentos e políticas internas. É parte da governança, mas não se confunde com ela: uma organização pode estar \"em conformidade\" e, ainda assim, não gerar valor público.</li><li><b>Accountability</b> é o dever de prestar contas e de ser responsabilizado, envolvendo transparência, justificação e sanção. O princípio da <b>prestação de contas e responsabilidade</b> do Decreto 9.203 expressa essa ideia.</li><li><b>Transparência</b> é a condição para a accountability: sem informação acessível, o cidadão e os órgãos de controle não conseguem avaliar a gestão. Por isso a diretriz XI do decreto fala em comunicação <b>aberta, voluntária e transparente</b>.</li><li><b>Governança multinível</b>: políticas públicas no Brasil envolvem União, Estados e Municípios (saúde, educação, segurança pública). A diretriz IV do decreto (articular instituições e coordenar processos entre níveis e esferas) busca justamente melhorar essa integração. Um exemplo é o <b>Sistema Único de Segurança Pública (SUSP)</b>, criado pela Lei 13.675/2018, que integra os órgãos de segurança dos entes federativos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Compliance e governança são sinônimos: estar em conformidade com a lei basta para haver boa governança</span><br>✅ <span class=\"certo\">compliance é <b>parte</b> da governança; a boa governança exige também liderança, estratégia, geração de valor público e accountability</span></li><li>❌ <span class=\"banca\">O SUSP é órgão do Poder Judiciário encarregado da governança da segurança pública</span><br>✅ <span class=\"certo\">o SUSP (Lei 13.675/2018) <b>integra</b> os órgãos de segurança pública dos entes federativos, em atuação conjunta e coordenada</span></li></ol></div>\n<h3>15. Casos práticos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Plano de integridade de um órgão policial</b><p>A unidade de integridade de um órgão de fiscalização identifica que agentes isolados lavram autos de alto valor sem revisão e que há relatos de pedidos de vantagem em postos de fronteira. A alta administração quer reagir.</p><details><summary>Ver a solução comentada</summary><p>Aplicando o Decreto 9.203: (1) comprometimento da alta administração, com comunicação clara de tolerância zero; (2) a unidade de integridade mapeia os <b>riscos de integridade</b> (solicitação de vantagem indevida, abuso de poder); (3) controles proporcionais: rodízio de equipes, registro eletrônico de abordagens, câmeras corporais, revisão por amostragem, canais de denúncia com proteção ao denunciante; (4) monitoramento contínuo com indicadores. Prevenção vem <b>antes</b> da punição (diretriz VI), sem afastar a apuração dos casos concretos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Mudança brusca de regras</b><p>Uma autarquia altera, três vezes no mesmo ano e sem consulta, os requisitos para concessão de uma licença, gerando insegurança e pedidos de anulação.</p><details><summary>Ver a solução comentada</summary><p>Violam-se os princípios da <b>confiabilidade</b> (objetivos e diretrizes estáveis e coerentes) e da <b>melhoria regulatória</b>, além das diretrizes de boas práticas regulatórias e de <b>consultas públicas sempre que conveniente</b> (art. 4º, IX). A boa governança exige previsibilidade e análise de impacto antes de mudar normas.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Incentivo fiscal sem avaliação</b><p>Um ministério propõe ampliar um benefício fiscal sem estimar quanto ele custa nem quais resultados produziu até então.</p><details><summary>Ver a solução comentada</summary><p>A diretriz VII manda <b>avaliar as propostas</b> de criação, expansão ou aperfeiçoamento de políticas e de incentivos fiscais e <b>aferir custos e benefícios</b>. A proposta deve ser acompanhada de análise de evidências (diretriz VIII), sob pena de desperdício de recursos e baixa geração de valor público.</p></details></div>\n<h3>16. Valor público: a ideia de Mark Moore</h3>\n<ul><li>O conceito de <b>valor público</b> foi popularizado por <b>Mark Moore</b> (Harvard). Para ele, assim como o gestor privado busca criar valor para os acionistas, o gestor público deve criar <b>valor para a sociedade</b>, o que vai além da eficiência: inclui justiça, equidade, confiança e legitimidade.</li><li>O <b>triângulo estratégico</b> de Moore propõe que uma ação pública só se sustenta se combinar três elementos: (1) <b>valor público</b> (o resultado é desejável para a sociedade); (2) <b>legitimidade e apoio político</b> (há autorização e respaldo das instâncias democráticas e da sociedade); e (3) <b>capacidade operacional</b> (a organização tem meios, pessoas e processos para entregar o resultado).</li><li>Exemplo: uma operação de redução de acidentes em rodovias gera valor público (vidas salvas), precisa de legitimidade (apoio da sociedade, base legal, transparência sobre os critérios de fiscalização) e de capacidade operacional (efetivo, equipamentos, dados de acidentes).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Valor público (Moore)</span></span><span class=\"vs\"><span>Resultados desejáveis para a sociedade, não apenas eficiência</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Triângulo estratégico</span></span><span class=\"vs\"><span>Valor público, legitimidade e apoio, capacidade operacional</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Valor público é medido exclusivamente pela economia de recursos obtida pela organização</span><br>✅ <span class=\"certo\">inclui <b>efetividade</b>, justiça, equidade e legitimidade; eficiência é só uma parte</span></li></ol></div>\n<h3>17. A Recomendação da OCDE sobre Integridade Pública</h3>\n<ul><li>A <b>OCDE</b> (Organização para a Cooperação e o Desenvolvimento Econômico) aprovou em 2017 a <b>Recomendação sobre Integridade Pública</b>, com <b>13 princípios</b> organizados em três pilares: <b>sistema</b>, <b>cultura</b> e <b>prestação de contas</b>.</li><li><b>Sistema</b>: compromisso das lideranças, responsabilidades claras entre órgãos, estratégia baseada em riscos e padrões elevados de conduta.</li><li><b>Cultura</b>: integridade em toda a sociedade, liderança pelo exemplo, meritocracia no serviço público, capacitação e ambiente aberto em que se possam discutir dilemas e comunicar irregularidades.</li><li><b>Prestação de contas</b>: gestão de riscos e controle interno, aplicação efetiva de sanções (fiscalização e responsabilização), supervisão externa e transparência, e participação das partes interessadas.</li><li>O Brasil passou por uma <b>Revisão da OCDE sobre Integridade</b> (2021), e muitas das práticas dos programas de integridade federais seguem essas recomendações.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>OCDE (2017)</span></span><span class=\"vs\"><span>13 princípios de integridade pública</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pilares OCDE</span></span><span class=\"vs\"><span>Sistema, cultura e prestação de contas</span></span></button></div></div>\n<h3>18. Governança nas empresas estatais (Lei 13.303/2016)</h3>\n<ul><li>A <b>Lei das Estatais</b> impôs às empresas públicas e sociedades de economia mista regras de governança e integridade, como: <b>código de conduta e integridade</b>; <b>área de compliance e gestão de riscos</b> vinculada ao diretor-presidente; <b>auditoria interna</b> vinculada ao conselho de administração; <b>comitê de auditoria estatutário</b>; <b>canal de denúncias</b>; requisitos e vedações para indicação de <b>administradores</b> (experiência profissional, formação, vedação de dirigentes partidários e de quem atuou em campanha nos últimos 36 meses, entre outras); e divulgação de <b>carta anual</b> de políticas públicas e governança.</li><li>O STF, ao julgar a ADI 7.331 (2024), considerou <b>constitucionais</b> as vedações à indicação de dirigentes partidários e de pessoas que atuaram em campanhas para cargos de direção de estatais, reforçando a ideia de que a governança protege as empresas contra o uso político.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As empresas estatais estão dispensadas de manter código de conduta, por se submeterem ao regime privado</span><br>✅ <span class=\"certo\">a Lei 13.303/2016 <b>exige</b> código de conduta e integridade, compliance, auditoria interna e canal de denúncias</span></li><li>❌ <span class=\"banca\">Na Lei das Estatais, a auditoria interna vincula-se ao diretor-presidente</span><br>✅ <span class=\"certo\">vincula-se ao <b>conselho de administração</b>; o <b>compliance</b> é que se vincula ao diretor-presidente</span></li></ol></div>\n<h3>19. Integridade nas relações com o setor privado</h3>\n<ul><li>A <b>Lei Anticorrupção (Lei 12.846/2013)</b> responsabiliza <b>objetivamente</b>, nas esferas administrativa e civil, as <b>pessoas jurídicas</b> pela prática de atos lesivos contra a administração pública, nacional ou estrangeira. Na aplicação das sanções, é considerada a existência de <b>mecanismos e procedimentos internos de integridade</b> (programa de compliance), cujos parâmetros estão no <b>Decreto 11.129/2022</b>.</li><li>A <b>Lei de Licitações (Lei 14.133/2021)</b> exige que, nas contratações de <b>obras, serviços e fornecimentos de grande vulto</b>, o edital preveja a obrigatoriedade de <b>implantação de programa de integridade</b> pelo licitante vencedor, no prazo de <b>seis meses</b> contado da celebração do contrato (art. 25, § 4º). O programa de integridade também serve como <b>critério de desempate</b> e é considerado na aplicação de sanções e na reabilitação de licitantes.</li><li>Assim, a governança pública não olha só para dentro: ela também <b>induz</b> integridade nas empresas que se relacionam com o Estado.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 12.846/2013</span></span><span class=\"vs\"><span>Responsabilidade objetiva da pessoa jurídica por atos lesivos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 11.129/2022</span></span><span class=\"vs\"><span>Parâmetros do programa de integridade das empresas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 14.133/2021</span></span><span class=\"vs\"><span>Programa de integridade obrigatório em contratos de grande vulto, em 6 meses</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Lei Anticorrupção exige dolo ou culpa da pessoa jurídica para a responsabilização administrativa</span><br>✅ <span class=\"certo\">a responsabilidade da pessoa jurídica é <b>objetiva</b></span></li><li>❌ <span class=\"banca\">Na Lei 14.133/2021, o programa de integridade deve estar implantado antes da assinatura de qualquer contrato público</span><br>✅ <span class=\"certo\">é exigido em contratos de <b>grande vulto</b>, no prazo de <b>6 meses</b> após a celebração</span></li></ol></div>\n<h3>20. Governo digital e governança</h3>\n<ul><li>A <b>Lei 14.129/2021</b> (Lei do Governo Digital) dispõe sobre princípios, regras e instrumentos para o aumento da eficiência da administração pública, especialmente por meio da <b>desburocratização</b>, da <b>inovação</b>, da <b>transformação digital</b> e da <b>participação do cidadão</b>.</li><li>Entre seus princípios estão a desburocratização e a simplificação; a disponibilização em plataforma única do acesso às informações e aos serviços públicos; a possibilidade de acesso aos serviços sem necessidade de solicitação presencial; a transparência na execução dos serviços; o uso de linguagem clara; a interoperabilidade de sistemas; e o estímulo a ações educativas para qualificação dos servidores no uso das tecnologias digitais.</li><li>A lei se conecta à diretriz II do Decreto 9.203 (simplificação administrativa e integração dos serviços, <b>especialmente os prestados por meio eletrônico</b>).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 14.129/2021</span></span><span class=\"vs\"><span>Governo Digital: desburocratização, inovação, transformação digital, participação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diretriz II do Decreto 9.203</span></span><span class=\"vs\"><span>Simplificação e integração de serviços, sobretudo eletrônicos</span></span></button></div></div>\n<h3>21. Revisão comparativa</h3>\n<table class=\"tab\"><thead><tr><th>Elemento; Quantidade; Conteúdo</th></tr></thead><tbody><tr><td>Princípios (art. 3º); 6; Capacidade de resposta, integridade, confiabilidade, melhoria regulatória, prestação de contas e responsabilidade, transparência</td></tr><tr><td>Diretrizes (art. 4º); 11; Resultados, simplificação, monitoramento, articulação, conduta da alta administração, controles com base em riscos, avaliação de custos e benefícios, evidências, boas práticas regulatórias, papéis formais, comunicação aberta</td></tr><tr><td>Mecanismos (art. 5º); 3; Liderança, estratégia, controle</td></tr><tr><td>Princípios da gestão de riscos (art. 17); 4; Sistemática, integração, controles proporcionais, melhoria contínua</td></tr><tr><td>Eixos do programa de integridade (art. 19); 4; Alta administração, unidade responsável, riscos de integridade, monitoramento</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Números que caem: <b>6</b> princípios, <b>11</b> diretrizes, <b>3</b> mecanismos, <b>4</b> princípios de gestão de riscos e <b>4</b> eixos do programa de integridade. Monte uma ficha com esses números e o mnemônico de cada lista.</div>\n<h3>22. Desempenho: eficiência, eficácia, efetividade e economicidade</h3>\n<ul><li>A governança exige <b>monitorar o desempenho</b> (diretriz III). Para isso, é preciso medir. As dimensões clássicas, muito cobradas, são:</li><li><b>Economicidade</b>: obter os insumos (recursos) pelo <b>menor custo</b>, sem comprometer a qualidade.</li><li><b>Eficiência</b>: relação entre <b>produtos e insumos</b>; fazer mais com menos (custo por atendimento, por exemplo).</li><li><b>Eficácia</b>: grau de alcance das <b>metas</b> programadas (fazer o que se planejou: quantas fiscalizações foram feitas em relação à meta).</li><li><b>Efetividade</b>: o <b>impacto</b> real na sociedade (a fiscalização reduziu de fato os acidentes e as mortes?).</li><li>O TCU e a doutrina às vezes acrescentam <b>equidade</b> (distribuição justa dos benefícios) e <b>excelência</b>, formando o modelo dos <b>6 Es do desempenho</b> (economicidade, execução, excelência, eficiência, eficácia, efetividade), usado no Guia de Indicadores do antigo Ministério do Planejamento.</li></ul>\n<table class=\"tab\"><thead><tr><th>Dimensão; Pergunta; Exemplo (fiscalização de excesso de velocidade)</th></tr></thead><tbody><tr><td>Economicidade; Os recursos foram adquiridos pelo menor custo?; Compra de radares por preço justo, com qualidade</td></tr><tr><td>Eficiência; Quanto produto por insumo?; Autuações processadas por servidor por mês</td></tr><tr><td>Eficácia; A meta foi alcançada?; 100% dos trechos críticos fiscalizados, conforme o plano</td></tr><tr><td>Efetividade; Houve impacto na sociedade?; Queda de 20% nas mortes nos trechos fiscalizados</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eficiência</span></span><span class=\"vs\"><span>Produto ÷ insumo (fazer certo as coisas)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eficácia</span></span><span class=\"vs\"><span>Alcance das metas (fazer as coisas planejadas)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Efetividade</span></span><span class=\"vs\"><span>Impacto na realidade social</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Economicidade</span></span><span class=\"vs\"><span>Menor custo dos insumos, com qualidade</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Efetividade é a relação entre os produtos gerados e os insumos utilizados</span><br>✅ <span class=\"certo\">essa é a <b>eficiência</b>; <b>efetividade</b> é o <b>impacto</b> na sociedade</span></li><li>❌ <span class=\"banca\">Uma política eficaz é, necessariamente, efetiva</span><br>✅ <span class=\"certo\">pode-se cumprir as metas (eficácia) sem gerar o impacto desejado (efetividade)</span></li></ol></div>\n<h3>23. Estratégia na prática: planejamento estratégico</h3>\n<ul><li>O mecanismo <b>estratégia</b> se materializa no <b>planejamento estratégico</b> da organização, que costuma conter: <b>missão</b> (razão de existir), <b>visão</b> (aonde se quer chegar), <b>valores</b> (princípios que orientam a conduta), <b>objetivos estratégicos</b>, <b>indicadores e metas</b>, e <b>projetos e ações</b> prioritários.</li><li>Ferramentas usuais: <b>análise SWOT</b> (forças, fraquezas, oportunidades e ameaças), <b>Balanced Scorecard</b> (BSC, que organiza objetivos em perspectivas como sociedade, processos internos, pessoas e orçamento) e <b>mapa estratégico</b>.</li><li>O ciclo <b>PDCA</b> (planejar, executar, checar, agir) é o motor da gestão e da melhoria contínua, alimentando a governança com informações para avaliar e redirecionar.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Missão</span></span><span class=\"vs\"><span>Razão de existir</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Visão</span></span><span class=\"vs\"><span>Futuro desejado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SWOT</span></span><span class=\"vs\"><span>Forças, fraquezas (internas); oportunidades, ameaças (externas)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>BSC</span></span><span class=\"vs\"><span>Objetivos em perspectivas equilibradas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>PDCA</span></span><span class=\"vs\"><span>Planejar, executar, checar, agir</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na análise SWOT, oportunidades e ameaças referem-se ao ambiente interno da organização</span><br>✅ <span class=\"certo\">referem-se ao ambiente <b>externo</b>; forças e fraquezas são <b>internas</b></span></li></ol></div>\n<h3>24. Governança da segurança pública</h3>\n<ul><li>A segurança pública é um caso clássico de <b>governança multinível</b>: envolve União (PF, PRF, Força Nacional, políticas e fundos), Estados (polícias civis e militares, bombeiros, polícias penais), Municípios (guardas municipais) e outros órgãos (Judiciário, Ministério Público, sistema prisional).</li><li>A <b>Lei 13.675/2018</b> criou a <b>Política Nacional de Segurança Pública e Defesa Social (PNSPDS)</b> e instituiu o <b>Sistema Único de Segurança Pública (SUSP)</b>, com o objetivo de atuação <b>conjunta, coordenada, sistêmica e integrada</b> dos órgãos de segurança pública e defesa social, em articulação com a sociedade.</li><li>Instrumentos de governança previstos: planos de segurança pública com metas e indicadores, sistemas de informação integrados (como o Sinesp), conselhos de segurança pública com participação social, avaliação periódica de resultados e mecanismos de <b>controle</b>, como corregedorias e ouvidorias independentes.</li><li>Esses instrumentos refletem os mecanismos do Decreto 9.203: <b>estratégia</b> (planos e metas), <b>liderança</b> (coordenação e integridade das chefias) e <b>controle</b> (indicadores, corregedorias, ouvidorias, transparência dos dados).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O SUSP extinguiu a autonomia das polícias estaduais, subordinando-as à Polícia Federal</span><br>✅ <span class=\"certo\">o SUSP busca <b>integração e coordenação</b>, respeitando a autonomia dos entes e a organização do art. 144 da CF</span></li><li>❌ <span class=\"banca\">A PNSPDS dispensa metas e indicadores, por tratar de política de Estado</span><br>✅ <span class=\"certo\">a lei prevê <b>planos com metas e indicadores</b> e avaliação de resultados</span></li></ol></div>\n<h3>25. Mais casos práticos</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O dirigente que não quer saber de riscos</b><p>O novo diretor de uma autarquia determina o fim das reuniões do comitê interno de governança e da matriz de riscos, alegando que \"isso é burocracia\" e que prefere \"resolver na hora\".</p><details><summary>Ver a solução comentada</summary><p>A conduta contraria o art. 6º (a alta administração deve implementar e manter mecanismos de governança), o art. 17 (deve estabelecer, manter, monitorar e aprimorar o sistema de gestão de riscos) e o eixo de <b>comprometimento da alta administração</b> do programa de integridade. Governança não é burocracia: é o que permite decidir com base em evidências e prevenir problemas.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Auditoria que vira gestora</b><p>O chefe da auditoria interna passa a aprovar pessoalmente os pagamentos da área financeira, \"para garantir que nada passe errado\".</p><details><summary>Ver a solução comentada</summary><p>A auditoria interna (terceira linha) deve manter <b>independência</b> e <b>objetividade</b>; assumir funções de gestão (primeira linha) compromete sua capacidade de avaliar esses mesmos processos. Ela pode <b>prestar consultoria</b>, mas sem assumir responsabilidades de gestão.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Indicador que engana</b><p>Um órgão comemora o aumento de 50% no número de autuações em rodovias, mas os acidentes com morte também subiram.</p><details><summary>Ver a solução comentada</summary><p>O indicador de produto (autuações) mostra <b>eficácia</b> ou produtividade, mas não <b>efetividade</b>. A boa governança exige monitorar <b>resultados e impactos</b> (mortes, feridos, custos sociais) e reavaliar a estratégia, por exemplo, concentrando a fiscalização nos trechos e horários mais críticos.</p></details></div>\n<h3>26. Como as bancas cobram este tópico</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>Cebraspe cobra a literalidade do Decreto 9.203/2017: conceitos do art. 2º (governança, valor público, alta administração, gestão de riscos), os seis princípios do art. 3º, as diretrizes do art. 4º com palavras trocadas, os três mecanismos do art. 5º, os princípios de gestão de riscos do art. 17 e os eixos do art. 19. Também aparece a distinção governança × gestão e, em provas de administração pública, eficiência × eficácia × efetividade. FGV costuma propor situações: qual princípio ou mecanismo foi violado, qual resposta ao risco é adequada, qual linha de defesa deve atuar.</p></div>\n<ul><li><b>Pegadinhas mais repetidas</b>:</li><li>Incluir eficiência, legalidade ou participação social entre os seis princípios do art. 3º.</li><li>Trocar liderança e controle (integridade, competência, responsabilidade e motivação são da <b>liderança</b>).</li><li>Dizer que a gestão de riscos dá segurança <b>absoluta</b>.</li><li>Afirmar que os controles devem privilegiar processos <b>sancionadores</b> (o decreto diz: <b>prevenção antes</b> da sanção).</li><li>Aplicar o Decreto 9.203 às <b>estatais</b> (que seguem a Lei 13.303/2016).</li><li>Inverter risco inerente e residual.</li><li>Confundir eficiência, eficácia e efetividade.</li><li><b>Checklist</b>: identifique se o item fala de <b>conceito, princípio, diretriz, mecanismo, gestão de riscos ou integridade</b>; compare com a lista correspondente; procure palavras trocadas (absoluta/razoável, sanção/prevenção, gestão/governança).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípios (art. 3º)</span></span><span class=\"vs\"><span>CI-CO-ME-PRE-TRA</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mecanismos (art. 5º)</span></span><span class=\"vs\"><span>Liderança, estratégia, controle</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Segurança da gestão de riscos</span></span><span class=\"vs\"><span>Razoável</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Controles internos</span></span><span class=\"vs\"><span>Prevenção antes da sanção, proporcionais aos riscos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Programa de integridade</span></span><span class=\"vs\"><span>4 eixos</span></span></button></div></div>\n<h3>27. Controles internos: o modelo COSO</h3>\n<ul><li>O <b>COSO</b> (Committee of Sponsoring Organizations) é a referência internacional mais usada para estruturar <b>controles internos</b>, adotada pela CGU e pelo TCU. Ele define controle interno como um <b>processo</b> conduzido pela alta administração, pelos gestores e pelos demais servidores, destinado a fornecer <b>segurança razoável</b> quanto ao alcance de objetivos operacionais, de informação e de conformidade.</li><li><b>Cinco componentes</b> do controle interno (COSO):</li><li><b>Ambiente de controle</b>: cultura, valores éticos, integridade e postura da liderança (\"tom do topo\"); é a base dos demais.</li><li><b>Avaliação de riscos</b>: identificação e análise dos riscos que ameaçam os objetivos.</li><li><b>Atividades de controle</b>: políticas e procedimentos que reduzem os riscos (autorizações, conferências, segregação de funções, reconciliações, controles de acesso).</li><li><b>Informação e comunicação</b>: dados confiáveis e comunicação adequada, interna e externa.</li><li><b>Atividades de monitoramento</b>: avaliações contínuas e independentes para verificar se os controles funcionam.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de controle; Quando atua; Exemplo</th></tr></thead><tbody><tr><td>Preventivo; Antes do evento indesejado; Exigir duas assinaturas para pagamentos; segregação de funções</td></tr><tr><td>Detectivo; Durante ou depois, para identificar falhas; Conciliações bancárias; auditoria de autos de infração por amostragem</td></tr><tr><td>Corretivo; Depois, para corrigir e evitar repetição; Revisão de procedimentos após irregularidade; recuperação de valores</td></tr></tbody></table>\n<ul><li><b>Segregação de funções</b>: quem <b>autoriza</b> não deve <b>executar</b> nem <b>conferir</b> a mesma operação. É um dos controles preventivos mais importantes contra fraudes (por exemplo, o servidor que atesta o recebimento de um material não deve ser o mesmo que realizou a compra).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>COSO (5 componentes)</span></span><span class=\"vs\"><span>Ambiente de controle, avaliação de riscos, atividades de controle, informação e comunicação, monitoramento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ambiente de controle</span></span><span class=\"vs\"><span>Base: cultura e valores éticos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Segregação de funções</span></span><span class=\"vs\"><span>Quem autoriza não executa nem confere</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Controle interno</span></span><span class=\"vs\"><span>Segurança razoável, não absoluta</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O ambiente de controle é o componente do COSO que trata apenas de sistemas informatizados</span><br>✅ <span class=\"certo\">trata da <b>cultura, valores éticos e postura da liderança</b>; é a base dos demais componentes</span></li><li>❌ <span class=\"banca\">Controles detectivos atuam antes da ocorrência do evento, impedindo-o</span><br>✅ <span class=\"certo\">isso é o controle <b>preventivo</b>; o detectivo <b>identifica</b> falhas já ocorridas</span></li></ol></div>\n<h3>28. Participação social na governança</h3>\n<ul><li>A boa governança é <b>participativa</b>: ouve os destinatários das políticas e permite que a sociedade acompanhe e controle a gestão. O Decreto 9.203 prevê o <b>apoio à participação da sociedade</b> no processo decisório (art. 4º, VIII) e a realização de <b>consultas públicas</b> na edição de normas (art. 4º, IX).</li><li>Instrumentos de participação e controle social: <b>conselhos de políticas públicas</b> (saúde, educação, assistência, segurança pública), <b>audiências e consultas públicas</b>, <b>ouvidorias</b> (Lei 13.460/2017), <b>orçamento participativo</b>, <b>pedidos de acesso à informação</b> (Lei 12.527/2011), plataforma <b>Fala.BR</b> (manifestações e pedidos de informação no Executivo federal) e <b>Participa + Brasil</b> (consultas públicas).</li><li>A participação aumenta a <b>legitimidade</b> das decisões e a <b>qualidade</b> das políticas, pois traz informações que o gestor não tem, e fortalece a <b>accountability</b>.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fala.BR</span></span><span class=\"vs\"><span>Ouvidoria e acesso à informação no Executivo federal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Consultas públicas</span></span><span class=\"vs\"><span>Sempre que conveniente, na edição de normas (art. 4º, IX)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Participação social</span></span><span class=\"vs\"><span>Diretriz (art. 4º, VIII), não princípio do art. 3º</span></span></button></div></div>\n<h3>29. Glossário essencial</h3>\n<ul><li><b>Governança pública</b>: liderança, estratégia e controle para avaliar, direcionar e monitorar a gestão.</li><li><b>Gestão</b>: planejar, executar, controlar e agir para entregar resultados.</li><li><b>Valor público</b>: respostas efetivas e úteis às necessidades de interesse público.</li><li><b>Alta administração</b>: dirigentes de topo (ministros, natureza especial, nível 6, presidentes e diretores de autarquias e fundações).</li><li><b>Risco</b>: efeito da incerteza sobre os objetivos (probabilidade e impacto).</li><li><b>Apetite a risco</b>: nível de risco que a organização aceita.</li><li><b>Controle interno</b>: processo que dá segurança razoável ao alcance dos objetivos.</li><li><b>Integridade</b>: agir com base em princípios e valores éticos, priorizando o interesse público.</li><li><b>Compliance</b>: conformidade com leis, normas e políticas.</li><li><b>Accountability</b>: prestar contas e ser responsabilizado.</li><li><b>Partes interessadas</b> (*stakeholders*): pessoas, grupos e instituições afetados pela atuação da organização ou que podem influenciá-la.</li></ul>\n<h3>30. Mapa mental e fechamento</h3>\n<ul><li><b>Contexto</b>: da burocracia à Nova Gestão Pública e à Nova Governança; Decreto 9.203/2017 (administração direta, autárquica e fundacional); Lei 13.303/2016 para estatais.</li><li><b>Conceitos</b> (art. 2º): governança, valor público, alta administração, gestão de riscos.</li><li><b>Princípios</b> (art. 3º): capacidade de resposta, integridade, confiabilidade, melhoria regulatória, prestação de contas e responsabilidade, transparência.</li><li><b>Diretrizes</b> (art. 4º): onze, com destaque para resultados, simplificação, conduta da alta administração, prevenção antes da sanção, evidências, consultas públicas e comunicação aberta.</li><li><b>Mecanismos</b> (art. 5º): liderança (integridade, competência, responsabilidade, motivação), estratégia e controle.</li><li><b>Estrutura</b>: alta administração (art. 6º), CIG, comitês internos, CGU.</li><li><b>Riscos</b> (art. 17) e <b>auditoria interna</b> (art. 18); três linhas; COSO.</li><li><b>Integridade</b> (art. 19): quatro eixos; Sitai (Decreto 11.529/2023); OCDE; Lei Anticorrupção; Lei 14.133/2021.</li><li><b>Desempenho</b>: economicidade, eficiência, eficácia, efetividade.</li><li>A governança é, no fundo, a forma organizada de garantir que o poder e o dinheiro públicos sejam usados <b>com integridade e para gerar valor à sociedade</b>. É por isso que ela aparece no edital de Ética: governança e ética são duas faces do mesmo compromisso com o interesse público.</li></ul>\n<h3>31. Linha do tempo da governança e da integridade no Brasil</h3>\n<ul><li><b>1967 (Decreto-Lei 200)</b>: estrutura a administração federal com os princípios de planejamento, coordenação, descentralização, delegação de competência e <b>controle</b>. É a primeira grande base da gestão pública moderna.</li><li><b>1988 (Constituição)</b>: consagra a legalidade, a impessoalidade, a moralidade e a publicidade (art. 37), o sistema de <b>controle interno</b> de cada Poder e o <b>controle externo</b> pelo Legislativo com auxílio do Tribunal de Contas (arts. 70 a 74).</li><li><b>1994 (Decreto 1.171)</b>: Código de Ética Profissional do Servidor Civil do Executivo federal.</li><li><b>1995 (Plano Diretor da Reforma do Aparelho do Estado)</b>: modelo <b>gerencial</b>, com foco em resultados.</li><li><b>1998 (EC 19)</b>: insere a <b>eficiência</b> no art. 37.</li><li><b>2000 (Código de Conduta da Alta Administração Federal)</b> e <b>LRF (LC 101/2000)</b>: responsabilidade na gestão fiscal, transparência e planejamento.</li><li><b>2007 (Decreto 6.029)</b>: Sistema de Gestão da Ética do Poder Executivo Federal.</li><li><b>2011 (Lei 12.527, LAI)</b>: acesso à informação, publicidade como regra.</li><li><b>2013 (Leis 12.813 e 12.846)</b>: conflito de interesses e responsabilização de pessoas jurídicas (Lei Anticorrupção).</li><li><b>2016 (Lei 13.303)</b>: governança das estatais.</li><li><b>2017 (Decreto 9.203)</b>: política de governança da administração federal direta, autárquica e fundacional; programas de integridade.</li><li><b>2021 (Leis 14.129, 14.133 e 14.230)</b>: governo digital, nova lei de licitações com programa de integridade em grandes contratos, e reforma da Lei de Improbidade.</li><li><b>2023 (Decreto 11.529)</b>: Sistema de Integridade, Transparência e Acesso à Informação (Sitai).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto-Lei 200/1967</span></span><span class=\"vs\"><span>Planejamento, coordenação, descentralização, delegação e controle</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>LRF (LC 101/2000)</span></span><span class=\"vs\"><span>Gestão fiscal responsável e transparente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 9.203/2017</span></span><span class=\"vs\"><span>Governança federal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 11.529/2023</span></span><span class=\"vs\"><span>Sitai</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A preocupação com controle na administração pública federal surgiu apenas com o Decreto 9.203/2017</span><br>✅ <span class=\"certo\">o controle já era princípio do <b>Decreto-Lei 200/1967</b> e da CF de 1988 (arts. 70 a 74)</span></li><li>❌ <span class=\"banca\">A Lei de Responsabilidade Fiscal trata exclusivamente de limites de gasto com pessoal</span><br>✅ <span class=\"certo\">trata de planejamento, transparência, metas fiscais, endividamento e limites com pessoal</span></li></ol></div>\n<h3>32. Treino de fixação com itens típicos</h3>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Governança pública compreende os mecanismos de liderança, estratégia e controle voltados a executar diretamente as atividades operacionais</span><br>✅ <span class=\"certo\">os mecanismos servem para <b>avaliar, direcionar e monitorar</b> a gestão</span></li><li>❌ <span class=\"banca\">O princípio da confiabilidade significa responder com rapidez às demandas da sociedade</span><br>✅ <span class=\"certo\">isso é <b>capacidade de resposta</b>; confiabilidade é manter objetivos e diretrizes <b>estáveis e coerentes</b></span></li><li>❌ <span class=\"banca\">A melhoria regulatória dispensa a análise de impacto das normas</span><br>✅ <span class=\"certo\">busca normas de qualidade, com simplificação e avaliação de <b>impacto</b></span></li><li>❌ <span class=\"banca\">A diretriz de definir formalmente funções e responsabilidades é desnecessária quando há boa liderança</span><br>✅ <span class=\"certo\">é diretriz expressa (art. 4º, X), pois papéis claros são base da accountability</span></li><li>❌ <span class=\"banca\">A auditoria interna deve limitar-se a apontar irregularidades formais, sem prestar consultoria</span><br>✅ <span class=\"certo\">o art. 18 prevê <b>avaliação e consultoria</b> e o objetivo de <b>adicionar valor</b></span></li></ol></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Na hora da prova, faça uma verificação em três passos: (1) a frase usa o verbo certo para a função (governança avalia, direciona, monitora; gestão executa)? (2) o elemento citado está na lista correta (princípio, diretriz, mecanismo, eixo)? (3) há adjetivo trocado (absoluta/razoável; sancionador/preventivo; obrigatório/sempre que conveniente)?</div>\n<h3>33. Frases-chave para a revisão final</h3>\n<ul><li><b>\"Governança avalia, direciona e monitora; gestão planeja e executa.\"</b></li><li><b>\"Seis princípios: capacidade de resposta, integridade, confiabilidade, melhoria regulatória, prestação de contas e responsabilidade, transparência.\"</b></li><li><b>\"Três mecanismos: liderança, estratégia e controle; a liderança exige integridade, competência, responsabilidade e motivação.\"</b></li><li><b>\"Valor público é resposta efetiva e útil às necessidades da sociedade.\"</b></li><li><b>\"Gestão de riscos dá segurança razoável, nunca absoluta; controles proporcionais aos riscos, com custo-benefício.\"</b></li><li><b>\"Prevenção antes da sanção.\"</b></li><li><b>\"Programa de integridade: alta administração, unidade responsável, riscos de integridade e monitoramento contínuo.\"</b></li><li><b>\"Auditoria interna: terceira linha, independente, avalia e presta consultoria para adicionar valor.\"</b></li><li><b>\"Eficiência é produto por insumo; eficácia é meta alcançada; efetividade é impacto na sociedade.\"</b></li><li><b>\"Estatais seguem a Lei 13.303/2016; o Decreto 9.203/2017 vale para a administração direta, autárquica e fundacional.\"</b></li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Governança</span></span><span class=\"vs\"><span>Avaliar, direcionar, monitorar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gestão</span></span><span class=\"vs\"><span>Planejar, executar, controlar, agir</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Segurança razoável</span></span><span class=\"vs\"><span>Gestão de riscos e controles internos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Terceira linha</span></span><span class=\"vs\"><span>Auditoria interna</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Efetividade</span></span><span class=\"vs\"><span>Impacto</span></span></button></div></div>\n<h3>34. A ponte entre ética e governança</h3>\n<ul><li>A governança pública pode parecer, à primeira vista, um tema de administração, e não de ética. Mas os dois assuntos estão profundamente ligados. A ética responde à pergunta \"como devo agir?\"; a governança organiza a instituição para que <b>todos ajam bem, de forma consistente e verificável</b>.</li><li>A <b>integridade</b> é, ao mesmo tempo, princípio da governança (art. 3º, II), condição da liderança (art. 5º, I) e objeto de um programa específico (art. 19). A <b>transparência</b> e a <b>prestação de contas</b> são valores éticos que o decreto transforma em práticas obrigatórias. E a diretriz que manda a alta administração incorporar <b>padrões elevados de conduta</b> (art. 4º, V) é um mandamento ético dirigido a quem ocupa o topo.</li><li>Na prática, um órgão com boa governança tem regras claras de conduta, sabe onde estão seus riscos de corrupção, protege quem denuncia, pune quem desvia, divulga seus dados e escuta a sociedade. Um órgão sem governança depende apenas da virtude individual de cada servidor, o que é insuficiente: mesmo pessoas honestas erram ou cedem a pressões quando não há estruturas que as apoiem.</li><li>Para o candidato, a lição é dupla. Primeiro, decorar as listas do decreto, porque a banca cobra a literalidade. Segundo, entender o porquê de cada elemento, porque as questões situacionais exigem aplicar os conceitos a casos concretos, como um gestor que ignora riscos, uma auditoria que perde a independência ou um indicador que mede produção e não impacto.</li><li>Em uma frase: <b>governança é a ética organizada</b>. É o conjunto de mecanismos que transforma valores (integridade, transparência, responsabilidade) em rotinas, estruturas e resultados para a sociedade.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Integridade no decreto</span></span><span class=\"vs\"><span>Princípio (art. 3º), condição da liderança (art. 5º) e programa (art. 19)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Padrões elevados de conduta</span></span><span class=\"vs\"><span>Diretriz dirigida à alta administração (art. 4º, V)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Governança</span></span><span class=\"vs\"><span>Ética organizada em mecanismos e rotinas</span></span></button></div></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Aplicando o decreto a uma superintendência regional</b><p>Uma superintendência de um órgão de fiscalização rodoviária quer melhorar sua governança. O superintendente pede um roteiro simples.</p><details><summary>Ver a solução comentada</summary><p><b>Liderança</b>: dar o exemplo, divulgar o código de conduta, escolher chefias por competência e exigir declarações de conflito de interesses. <b>Estratégia</b>: definir objetivos (reduzir mortes nas rodovias da região, combater o crime nas fronteiras), metas e indicadores de resultado e de impacto, alinhados ao planejamento nacional e aos parceiros estaduais. <b>Controle</b>: matriz de riscos (inclusive de integridade), controles proporcionais (rodízio, registros eletrônicos, revisão por amostragem), canal de denúncias, transparência dos dados de fiscalização, prestação de contas periódica e apoio da auditoria interna. Tudo isso deve ser revisado de forma contínua, com o comitê interno de governança acompanhando a execução.</p></details></div>\n<ul><li>Repare que o roteiro usa exatamente a estrutura do art. 5º: <b>liderança, estratégia e controle</b>. Em questões discursivas ou situacionais, organizar a resposta por esses três mecanismos demonstra domínio do tema e facilita a correção.</li></ul>",
+"quiz": [
+{
+"p": "O Decreto 9.203/2017 dispõe sobre a política de governança da administração pública federal direta, autárquica e fundacional.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 1º.",
+"e": "Decreto 9.203"
+},
+{
+"p": "As empresas públicas e sociedades de economia mista federais submetem-se integralmente à política de governança do Decreto 9.203/2017, por serem integrantes da administração indireta.",
+"c": false,
+"prof": "Errado.",
+"x": "O decreto abrange a administração direta, autárquica e fundacional; estatais seguem a Lei 13.303/2016.",
+"e": "Âmbito"
+},
+{
+"p": "Governança pública compreende mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a gestão.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 2º, I.",
+"e": "Conceito"
+},
+{
+"p": "Cabe à governança executar as atividades operacionais, enquanto a gestão se limita a monitorá-las.",
+"c": false,
+"prof": "Errado.",
+"x": "A gestão executa; a governança avalia, direciona e monitora.",
+"e": "Governança × gestão"
+},
+{
+"p": "Valor público corresponde a produtos e resultados que representem respostas efetivas e úteis às necessidades ou demandas de interesse público.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 2º, II.",
+"e": "Valor público"
+},
+{
+"p": "Valor público equivale ao lucro que a organização pública obtém com suas atividades.",
+"c": false,
+"prof": "Errado.",
+"x": "É resposta efetiva e útil às necessidades de interesse público.",
+"e": "Valor público"
+},
+{
+"p": "Integram a alta administração, para fins do decreto, os Ministros de Estado e os presidentes e diretores de autarquias e fundações públicas.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 2º, III.",
+"e": "Alta administração"
+},
+{
+"p": "A gestão de riscos destina-se a fornecer segurança absoluta quanto à realização dos objetivos da organização.",
+"c": false,
+"prof": "Errado.",
+"x": "Fornece segurança razoável.",
+"e": "Gestão de riscos"
+},
+{
+"p": "A gestão de riscos é processo de natureza permanente, estabelecido, direcionado e monitorado pela alta administração.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 2º, IV.",
+"e": "Gestão de riscos"
+},
+{
+"p": "Capacidade de resposta, integridade, confiabilidade, melhoria regulatória, prestação de contas e responsabilidade e transparência são princípios da governança pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 3º.",
+"e": "Princípios"
+},
+{
+"p": "A eficiência é um dos seis princípios da governança pública expressos no art. 3º do Decreto 9.203/2017.",
+"c": false,
+"prof": "Errado.",
+"x": "Não consta do art. 3º; é princípio constitucional do art. 37.",
+"e": "Princípios"
+},
+{
+"p": "O princípio da confiabilidade consiste em responder de forma rápida e eficaz às necessidades das pessoas.",
+"c": false,
+"prof": "Errado.",
+"x": "Isso é capacidade de resposta; confiabilidade é manter objetivos e diretrizes estáveis e coerentes.",
+"e": "Princípios"
+},
+{
+"p": "Os controles internos devem ser fundamentados na gestão de risco, privilegiando ações estratégicas de prevenção antes de processos sancionadores.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 4º, VI.",
+"e": "Diretrizes"
+},
+{
+"p": "Segundo o decreto, a realização de consultas públicas é obrigatória na edição de qualquer ato normativo.",
+"c": false,
+"prof": "Errado.",
+"x": "Devem ocorrer sempre que conveniente (art. 4º, IX).",
+"e": "Diretrizes"
+},
+{
+"p": "O processo decisório deve ser orientado pelas evidências, pela conformidade legal, pela qualidade regulatória, pela desburocratização e pelo apoio à participação da sociedade.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 4º, VIII.",
+"e": "Diretrizes"
+},
+{
+"p": "É diretriz da governança fazer incorporar padrões elevados de conduta pela alta administração para orientar o comportamento dos agentes públicos.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 4º, V.",
+"e": "Diretrizes"
+},
+{
+"p": "Avaliar propostas de concessão de incentivos fiscais e aferir seus custos e benefícios é diretriz da governança pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 4º, VII.",
+"e": "Diretrizes"
+},
+{
+"p": "Promover a simplificação administrativa e a integração dos serviços públicos, especialmente os prestados por meio eletrônico, é diretriz da governança.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 4º, II.",
+"e": "Diretrizes"
+},
+{
+"p": "Liderança, estratégia e controle são os mecanismos para o exercício da governança pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 5º.",
+"e": "Mecanismos"
+},
+{
+"p": "Integridade, competência, responsabilidade e motivação são condições ligadas ao mecanismo de controle.",
+"c": false,
+"prof": "Errado.",
+"x": "São condições mínimas do mecanismo de liderança.",
+"e": "Mecanismos"
+},
+{
+"p": "O mecanismo de controle compreende processos estruturados para mitigar riscos e garantir a execução ordenada, ética, econômica, eficiente e eficaz das atividades.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 5º, III.",
+"e": "Mecanismos"
+},
+{
+"p": "O mecanismo de estratégia corresponde às práticas comportamentais exercidas nos principais cargos da organização.",
+"c": false,
+"prof": "Errado.",
+"x": "Isso é liderança; estratégia é definir diretrizes, objetivos, planos e prioridades.",
+"e": "Mecanismos"
+},
+{
+"p": "Cabe à alta administração implementar e manter mecanismos, instâncias e práticas de governança.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 6º.",
+"e": "Alta administração"
+},
+{
+"p": "O Comitê Interministerial de Governança tem a finalidade de assessorar o Presidente da República na condução da política de governança.",
+"c": true,
+"prof": "Certo.",
+"x": "CIG.",
+"e": "CIG"
+},
+{
+"p": "Os comitês internos de governança são facultativos nos órgãos e entidades da administração federal.",
+"c": false,
+"prof": "Errado.",
+"x": "Cada órgão e entidade deve instituir o seu.",
+"e": "Comitês internos"
+},
+{
+"p": "A alta administração deve estabelecer, manter, monitorar e aprimorar sistema de gestão de riscos e controles internos.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 17.",
+"e": "Gestão de riscos"
+},
+{
+"p": "Os controles internos devem ser proporcionais aos riscos, observada a relação custo-benefício.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 17, III.",
+"e": "Gestão de riscos"
+},
+{
+"p": "A gestão de riscos deve permanecer separada do planejamento estratégico, para garantir sua independência.",
+"c": false,
+"prof": "Errado.",
+"x": "Deve ser integrada ao planejamento e aos processos em todos os níveis (art. 17, II).",
+"e": "Gestão de riscos"
+},
+{
+"p": "A auditoria interna governamental deve adicionar valor e melhorar as operações, avaliando a eficácia dos processos de gerenciamento de riscos, controles e governança.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 18.",
+"e": "Auditoria interna"
+},
+{
+"p": "A auditoria interna está proibida de prestar consultoria, devendo limitar-se a trabalhos de avaliação.",
+"c": false,
+"prof": "Errado.",
+"x": "O art. 18 prevê avaliação e consultoria.",
+"e": "Auditoria interna"
+},
+{
+"p": "Os programas de integridade visam à prevenção, à detecção, à punição e à remediação de fraudes e atos de corrupção.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 19.",
+"e": "Integridade"
+},
+{
+"p": "O comprometimento e apoio da alta administração é um dos eixos do programa de integridade.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 19, I.",
+"e": "Integridade"
+},
+{
+"p": "A análise, avaliação e gestão dos riscos associados ao tema da integridade é eixo do programa de integridade.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 19, III.",
+"e": "Integridade"
+},
+{
+"p": "A contratação de auditoria privada independente é eixo obrigatório do programa de integridade previsto no Decreto 9.203/2017.",
+"c": false,
+"prof": "Errado.",
+"x": "Os eixos são alta administração, unidade responsável, riscos de integridade e monitoramento contínuo.",
+"e": "Integridade"
+},
+{
+"p": "O Decreto 11.529/2023 instituiu o Sistema de Integridade, Transparência e Acesso à Informação da administração federal, coordenado pela CGU.",
+"c": true,
+"prof": "Certo.",
+"x": "Sitai.",
+"e": "Sitai"
+},
+{
+"p": "Risco residual é o nível de risco existente antes da adoção de qualquer controle.",
+"c": false,
+"prof": "Errado.",
+"x": "Esse é o risco inerente; o residual permanece após os controles.",
+"e": "Riscos"
+},
+{
+"p": "Evitar, reduzir, compartilhar e aceitar são respostas possíveis a um risco identificado.",
+"c": true,
+"prof": "Certo.",
+"x": "Tratamento de riscos.",
+"e": "Riscos"
+},
+{
+"p": "Apetite a risco é o nível de risco que a organização está disposta a aceitar na busca de seus objetivos.",
+"c": true,
+"prof": "Certo.",
+"x": "Conceito.",
+"e": "Riscos"
+},
+{
+"p": "No modelo das três linhas, a auditoria interna corresponde à terceira linha, prestando avaliação independente.",
+"c": true,
+"prof": "Certo.",
+"x": "IIA.",
+"e": "Três linhas"
+},
+{
+"p": "No modelo das três linhas, os gestores que executam os processos compõem a segunda linha.",
+"c": false,
+"prof": "Errado.",
+"x": "Compõem a primeira linha; a segunda é de riscos e conformidade.",
+"e": "Três linhas"
+},
+{
+"p": "O ambiente de controle, base dos demais componentes do COSO, envolve a cultura, os valores éticos e a postura da liderança.",
+"c": true,
+"prof": "Certo.",
+"x": "COSO.",
+"e": "COSO"
+},
+{
+"p": "Avaliação de riscos, atividades de controle, informação e comunicação e monitoramento são componentes do controle interno segundo o COSO, ao lado do ambiente de controle.",
+"c": true,
+"prof": "Certo.",
+"x": "Cinco componentes.",
+"e": "COSO"
+},
+{
+"p": "A segregação de funções é controle preventivo segundo o qual quem autoriza uma operação não deve executá-la nem conferi-la.",
+"c": true,
+"prof": "Certo.",
+"x": "Controle interno.",
+"e": "Controles"
+},
+{
+"p": "Controles detectivos são aqueles que atuam antes da ocorrência do evento, impedindo-o.",
+"c": false,
+"prof": "Errado.",
+"x": "Esses são preventivos; detectivos identificam falhas ocorridas.",
+"e": "Controles"
+},
+{
+"p": "Eficácia refere-se ao grau de alcance das metas programadas.",
+"c": true,
+"prof": "Certo.",
+"x": "Dimensões do desempenho.",
+"e": "Desempenho"
+},
+{
+"p": "Efetividade é a relação entre os produtos gerados e os insumos utilizados.",
+"c": false,
+"prof": "Errado.",
+"x": "Isso é eficiência; efetividade é o impacto na sociedade.",
+"e": "Desempenho"
+},
+{
+"p": "Uma ação pode ser eficaz, por alcançar as metas, e não ser efetiva, se não produzir o impacto desejado na sociedade.",
+"c": true,
+"prof": "Certo.",
+"x": "Eficácia × efetividade.",
+"e": "Desempenho"
+},
+{
+"p": "Na análise SWOT, forças e fraquezas referem-se ao ambiente interno da organização.",
+"c": true,
+"prof": "Certo.",
+"x": "Oportunidades e ameaças são externas.",
+"e": "Estratégia"
+},
+{
+"p": "O triângulo estratégico de Mark Moore relaciona valor público, legitimidade e apoio, e capacidade operacional.",
+"c": true,
+"prof": "Certo.",
+"x": "Valor público.",
+"e": "Moore"
+},
+{
+"p": "A Recomendação da OCDE sobre Integridade Pública organiza seus princípios nos pilares sistema, cultura e prestação de contas.",
+"c": true,
+"prof": "Certo.",
+"x": "OCDE, 2017.",
+"e": "OCDE"
+},
+{
+"p": "A Lei 13.303/2016 exige das empresas estatais código de conduta e integridade, área de compliance e canal de denúncias.",
+"c": true,
+"prof": "Certo.",
+"x": "Lei das Estatais.",
+"e": "Estatais"
+},
+{
+"p": "A Lei Anticorrupção prevê responsabilidade objetiva da pessoa jurídica por atos lesivos contra a administração pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Lei 12.846/2013.",
+"e": "Lei Anticorrupção"
+},
+{
+"p": "Nas contratações de grande vulto, a Lei 14.133/2021 exige a implantação de programa de integridade pelo vencedor no prazo de seis meses da celebração do contrato.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 25, § 4º.",
+"e": "Lei 14.133"
+},
+{
+"p": "Compliance e governança são sinônimos, bastando a conformidade legal para que haja boa governança.",
+"c": false,
+"prof": "Errado.",
+"x": "Compliance é parte da governança, que exige também liderança, estratégia e valor público.",
+"e": "Compliance"
+},
+{
+"p": "O Sistema Único de Segurança Pública busca a atuação conjunta, coordenada, sistêmica e integrada dos órgãos de segurança pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Lei 13.675/2018.",
+"e": "SUSP"
+},
+{
+"p": "São mecanismos de governança pública previstos no Decreto 9.203/2017",
+"alts": [
+"planejamento, execução e controle",
+"liderança, estratégia e controle",
+"integridade, transparência e eficiência",
+"avaliação, direção e monitoramento",
+"prevenção, detecção e punição"
+],
+"r": 1,
+"n": [
+"Ciclo de gestão.",
+"Correta (art. 5º).",
+"Mistura princípios.",
+"São funções da governança, não mecanismos.",
+"Objetivos do programa de integridade."
+],
+"x": "Art. 5º.",
+"e": "Mecanismos"
+},
+{
+"p": "Não é princípio da governança pública previsto no art. 3º do Decreto 9.203/2017",
+"alts": [
+"capacidade de resposta",
+"integridade",
+"economicidade",
+"melhoria regulatória",
+"transparência"
+],
+"r": 2,
+"n": [
+"É princípio.",
+"É princípio.",
+"Correta: não consta do art. 3º.",
+"É princípio.",
+"É princípio."
+],
+"x": "Art. 3º.",
+"e": "Princípios"
+},
+{
+"p": "No modelo das três linhas, a função de gestão de riscos e conformidade que apoia e monitora os gestores corresponde à",
+"alts": [
+"primeira linha",
+"segunda linha",
+"terceira linha",
+"auditoria externa",
+"alta administração"
+],
+"r": 1,
+"n": [
+"Gestão operacional.",
+"Correta.",
+"Auditoria interna.",
+"Prestador externo.",
+"Órgão de governança."
+],
+"x": "IIA.",
+"e": "Três linhas"
+},
+{
+"p": "Um órgão de trânsito aumentou o número de autuações, mas o número de mortes nas vias não caiu. Esse resultado indica falha de",
+"alts": [
+"economicidade",
+"eficiência",
+"eficácia",
+"efetividade",
+"legalidade"
+],
+"r": 3,
+"n": [
+"Custo dos insumos.",
+"Relação produto/insumo.",
+"Meta de autuações foi atingida.",
+"Correta: não houve impacto.",
+"Não há indício de ilegalidade."
+],
+"x": "Desempenho.",
+"e": "Desempenho"
+},
+{
+"p": "Segundo o Decreto 9.203/2017, os controles internos devem",
+"alts": [
+"ser os mais rigorosos possíveis, independentemente do custo",
+"privilegiar processos sancionadores",
+"ser proporcionais aos riscos, observada a relação custo-benefício",
+"ficar restritos à auditoria interna",
+"dispensar documentação"
+],
+"r": 2,
+"n": [
+"Contraria o custo-benefício.",
+"Prevenção antes da sanção.",
+"Correta (art. 17, III).",
+"Envolvem todos os níveis.",
+"Devem ser documentados."
+],
+"x": "Art. 17.",
+"e": "Gestão de riscos"
+},
+{
+"p": "São eixos do programa de integridade previstos no art. 19 do Decreto 9.203/2017, exceto",
+"alts": [
+"comprometimento da alta administração",
+"unidade responsável pela implementação",
+"gestão dos riscos de integridade",
+"monitoramento contínuo",
+"certificação por organismo internacional"
+],
+"r": 4,
+"n": [
+"Eixo I.",
+"Eixo II.",
+"Eixo III.",
+"Eixo IV.",
+"Correta: não é eixo."
+],
+"x": "Art. 19.",
+"e": "Integridade"
+}
+]
+},
+"sistema-gestao-etica": {
+"html": "<h3>1. O que é o Sistema de Gestão da Ética</h3>\n<ul><li>O <b>Decreto 6.029, de 1º de fevereiro de 2007</b>, instituiu o <b>Sistema de Gestão da Ética do Poder Executivo Federal</b>. A ideia é simples: em vez de cada órgão cuidar da ética de forma isolada, existe um <b>sistema</b>, com um órgão central (a <b>Comissão de Ética Pública</b>, CEP) e comissões em cada órgão e entidade, que trocam informações, seguem princípios comuns e aplicam os códigos de ética de forma coordenada.</li><li>Antes do decreto, as Comissões de Ética já existiam (o Decreto 1.171/1994 mandou criá-las) e a CEP já funcionava (criada pelo <b>Decreto de 26 de maio de 1999</b>). O Decreto 6.029 organizou tudo isso, detalhou competências e procedimentos e <b>revogou</b> várias regras do Capítulo II do Código de Ética (XVII, XIX, XX, XXI, XXIII e XXV).</li></ul>\n<h4>Finalidade e competências do Sistema (art. 1º)</h4>\n<ul><li>O Sistema tem a <b>finalidade de promover atividades que dispõem sobre a conduta ética</b> no âmbito do Executivo Federal. Compete-lhe:</li><li><b>I – integrar</b> os órgãos, programas e ações relacionadas com a ética pública;</li><li><b>II – contribuir para a implementação de políticas públicas</b> tendo a <b>transparência</b> e o <b>acesso à informação</b> como <b>instrumentos fundamentais</b> para o exercício de gestão da ética pública;</li><li><b>III – promover</b>, com apoio dos segmentos pertinentes, a <b>compatibilização e interação de normas</b>, procedimentos técnicos e de gestão relativos à ética pública;</li><li><b>IV – articular ações</b> com vistas a estabelecer e efetivar procedimentos de <b>incentivo e incremento ao desempenho institucional</b> na gestão da ética pública do Estado brasileiro.</li><li><b>Ponto de prova</b>: o inciso II destaca a <b>transparência</b> e o <b>acesso à informação</b> como <b>instrumentos fundamentais</b> da gestão da ética. A banca troca por \"sigilo\" ou \"controle disciplinar\" para tornar o item errado.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Sistema de Gestão da Ética tem por finalidade principal aplicar penalidades disciplinares aos servidores federais</span><br>✅ <span class=\"certo\">sua finalidade é <b>promover atividades que dispõem sobre a conduta ética</b>; penalidades disciplinares são da Lei 8.112</span></li><li>❌ <span class=\"banca\">Segundo o Decreto 6.029, o sigilo das informações é instrumento fundamental da gestão da ética pública</span><br>✅ <span class=\"certo\">os instrumentos fundamentais são a <b>transparência</b> e o <b>acesso à informação</b> (art. 1º, II)</span></li></ol></div>\n<h4>Quem integra o Sistema (art. 2º)</h4>\n<ul><li><b>I – a Comissão de Ética Pública (CEP)</b>, instituída pelo Decreto de 26 de maio de 1999;</li><li><b>II – as Comissões de Ética de que trata o Decreto 1.171/1994</b> (as comissões de cada órgão e entidade);</li><li><b>III – as demais Comissões de Ética e equivalentes</b> nas entidades e órgãos do Poder Executivo Federal.</li><li><b>Atenção</b>: a <b>Controladoria-Geral da União (CGU)</b>, as corregedorias e as ouvidorias <b>não</b> estão na lista do art. 2º. Elas se relacionam com o Sistema (por exemplo, a Comissão de Ética encaminha casos à CGU), mas não o integram. Item que inclui a CGU entre os integrantes está errado.</li></ul>\n<table class=\"tab\"><thead><tr><th>Integrante; Base; Papel em uma frase</th></tr></thead><tbody><tr><td>CEP; Decreto de 26-5-1999 e Decreto 6.029, arts. 3º e 4º; Órgão central: coordena, avalia e supervisiona o Sistema e cuida da alta administração</td></tr><tr><td>Comissões de Ética do Decreto 1.171; Decreto 1.171 e Decreto 6.029, art. 5º; Aplicam o Código de Ética no órgão ou entidade</td></tr><tr><td>Demais comissões e equivalentes; Decreto 6.029, art. 2º, III; Comissões de ética com outros nomes ou estruturas, em órgãos e entidades do Executivo federal</td></tr></tbody></table>\n<ul><li><b>A Rede de Ética do Poder Executivo Federal</b> (art. 9º) é formada pelos <b>representantes</b> das comissões dos incisos I, II e III do art. 2º, para promover <b>cooperação técnica</b> e <b>avaliação em gestão da ética</b>. Seus integrantes se reúnem sob a <b>coordenação da CEP</b>, <b>pelo menos uma vez por ano</b>, em fórum específico, para avaliar o programa e as ações de promoção da ética.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 6.029/2007</span></span><span class=\"vs\"><span>Sistema de Gestão da Ética do Poder Executivo Federal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Integrantes (art. 2º)</span></span><span class=\"vs\"><span>CEP, Comissões do Decreto 1.171 e demais comissões e equivalentes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Instrumentos fundamentais (art. 1º, II)</span></span><span class=\"vs\"><span>Transparência e acesso à informação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rede de Ética</span></span><span class=\"vs\"><span>Representantes das comissões; reúne-se ao menos 1 vez por ano sob coordenação da CEP</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CEP criada por</span></span><span class=\"vs\"><span>Decreto de 26 de maio de 1999</span></span></button></div></div>\n<h3>2. Por que um sistema? A lógica da gestão da ética</h3>\n<ul><li>A gestão da ética parte da ideia de que <b>prevenir</b> é mais eficiente do que punir. Por isso, o Decreto 6.029 dá às comissões funções <b>consultivas</b>, <b>educativas</b> e de <b>apuração</b>: elas orientam servidores e dirigentes, respondem a dúvidas, promovem capacitação e, quando necessário, apuram condutas.</li><li>Essa lógica aparece em vários pontos:</li><li>As comissões atuam como <b>instância consultiva</b> de dirigentes e servidores (art. 7º, I).</li><li>Devem <b>recomendar, acompanhar e avaliar</b> ações de <b>disseminação, capacitação e treinamento</b> sobre normas de ética e disciplina (art. 7º, II, d).</li><li>A CEP responde a <b>consultas</b> de comissões, órgãos, cidadãos e pessoas indicadas para cargos da alta administração (art. 16, § 2º).</li><li>A posse em cargo da alta administração deve ser <b>precedida de consulta à CEP</b> sobre possível conflito de interesses (art. 15, parágrafo único).</li><li><b>Comparação útil</b>: o <b>sistema de correição</b> (coordenado pela CGU) trata de infrações <b>disciplinares</b> e aplica penalidades da Lei 8.112. O <b>sistema de gestão da ética</b> trata da conduta <b>ética</b>, com ênfase preventiva, e sua sanção típica é a <b>censura</b> (para servidores) ou a <b>advertência e censura ética</b> (para autoridades da alta administração, no Código de Conduta). Os dois sistemas se comunicam: a comissão encaminha à CGU ou à unidade de correição os casos que possam configurar transgressão disciplinar (art. 12, § 5º, II).</li></ul>\n<table class=\"tab\"><thead><tr><th>Aspecto; Sistema de Gestão da Ética; Sistema de Correição</th></tr></thead><tbody><tr><td>Norma básica; Decreto 6.029/2007; Decreto 5.480/2005 e Lei 8.112/1990</td></tr><tr><td>Órgão central; Comissão de Ética Pública (CEP); Controladoria-Geral da União (CGU)</td></tr><tr><td>Foco; Conduta ética, prevenção, orientação; Infrações disciplinares e responsabilização</td></tr><tr><td>Instrumento de apuração; Processo de apuração ética; Sindicância e processo administrativo disciplinar</td></tr><tr><td>Sanção típica; Censura (servidores); advertência e censura ética (alta administração); Advertência, suspensão, demissão e outras da Lei 8.112</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Grave a dupla: <b>CEP cuida da ética</b>, <b>CGU cuida da correição</b>. Quando o item disser que a CEP aplica demissão, ou que a CGU integra o Sistema de Gestão da Ética, desconfie.</div>\n<h3>3. A Comissão de Ética Pública (CEP)</h3>\n<h4>Composição (art. 3º)</h4>\n<ul><li>A CEP é integrada por <b>sete brasileiros</b> que preencham os requisitos de <b>idoneidade moral</b>, <b>reputação ilibada</b> e <b>notória experiência em administração pública</b>.</li><li>São <b>designados pelo Presidente da República</b>, para <b>mandatos de três anos</b>, <b>não coincidentes</b>, <b>permitida uma única recondução</b>.</li><li>A atuação na CEP <b>não enseja qualquer remuneração</b> para seus membros, e os trabalhos são considerados <b>prestação de relevante serviço público</b> (§ 1º).</li><li>O <b>Presidente da CEP</b> tem <b>voto de qualidade</b> nas deliberações (§ 2º), isto é, desempata.</li><li>Os mandatos dos <b>primeiros membros</b> foram de <b>um, dois e três anos</b>, fixados no decreto de designação (§ 3º). Essa regra de transição serviu para criar o escalonamento que torna os mandatos <b>não coincidentes</b>: assim, a comissão nunca é renovada inteira de uma vez.</li><li><b>Quem escolhe o Presidente da CEP?</b> A <b>própria CEP</b> (art. 4º, VI). Não é o Presidente da República.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os membros da CEP são designados pelo Presidente da República para mandatos de dois anos, admitidas reconduções sucessivas</span><br>✅ <span class=\"certo\">mandatos de <b>três anos</b>, não coincidentes, permitida <b>uma única recondução</b></span></li><li>❌ <span class=\"banca\">Os membros da CEP recebem jeton por sessão, por se tratar de relevante serviço público</span><br>✅ <span class=\"certo\">a atuação <b>não enseja qualquer remuneração</b>; é considerada prestação de relevante serviço público</span></li><li>❌ <span class=\"banca\">O Presidente da CEP é escolhido pelo Presidente da República</span><br>✅ <span class=\"certo\">a CEP <b>escolhe o seu Presidente</b> (art. 4º, VI)</span></li></ol></div>\n<table class=\"tab\"><thead><tr><th>Item; CEP; Comissão de Ética de órgão (art. 5º)</th></tr></thead><tbody><tr><td>Número de membros; 7 brasileiros; 3 titulares e respectivos suplentes</td></tr><tr><td>Requisitos; Idoneidade moral, reputação ilibada, notória experiência em administração pública; Servidores ou empregados do quadro permanente</td></tr><tr><td>Quem designa; Presidente da República; Dirigente máximo do órgão ou entidade</td></tr><tr><td>Mandato; 3 anos, não coincidentes, uma única recondução; 3 anos, não coincidentes</td></tr><tr><td>Remuneração; Nenhuma (relevante serviço público); Sem previsão de remuneração adicional; trabalhos têm prioridade sobre as atribuições do cargo (art. 19)</td></tr><tr><td>Apoio; Secretaria-Executiva vinculada à Casa Civil; Secretaria-Executiva vinculada à instância máxima do órgão</td></tr></tbody></table>\n<h4>Competências da CEP (art. 4º)</h4>\n<ul><li><b>I –</b> atuar como <b>instância consultiva do Presidente da República e dos Ministros de Estado</b> em matéria de ética pública;</li><li><b>II –</b> <b>administrar a aplicação do Código de Conduta da Alta Administração Federal</b>, devendo:</li><li><b>a)</b> submeter ao Presidente da República medidas para seu <b>aprimoramento</b>;</li><li><b>b)</b> <b>dirimir dúvidas</b> de interpretação de suas normas, <b>deliberando sobre casos omissos</b>;</li><li><b>c)</b> <b>apurar</b>, mediante <b>denúncia ou de ofício</b>, condutas em desacordo com suas normas, quando praticadas pelas <b>autoridades a ele submetidas</b>;</li><li><b>III –</b> <b>dirimir dúvidas de interpretação</b> sobre as normas do <b>Código de Ética Profissional</b> do servidor (Decreto 1.171/1994);</li><li><b>IV –</b> <b>coordenar, avaliar e supervisionar</b> o Sistema de Gestão da Ética Pública do Poder Executivo Federal;</li><li><b>V –</b> <b>aprovar o seu regimento interno</b>;</li><li><b>VI –</b> <b>escolher o seu Presidente</b>.</li><li><b>Parágrafo único</b>: a CEP conta com uma <b>Secretaria-Executiva</b>, <b>vinculada à Casa Civil da Presidência da República</b>, que presta apoio técnico e administrativo.</li><li><b>Distinção importante</b>: quanto ao <b>Código de Conduta da Alta Administração</b>, a CEP <b>administra a aplicação</b> (inclusive apura condutas das autoridades). Quanto ao <b>Código de Ética do servidor</b> (Decreto 1.171), a CEP apenas <b>dirime dúvidas de interpretação</b>: a aplicação e a apuração ficam com as <b>comissões de cada órgão</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Compete à CEP aplicar o Código de Ética do Decreto 1.171/1994 a todos os servidores do Executivo federal</span><br>✅ <span class=\"certo\">quanto ao Decreto 1.171, a CEP <b>dirime dúvidas de interpretação</b>; a aplicação cabe às <b>comissões dos órgãos</b> (art. 7º, II)</span></li><li>❌ <span class=\"banca\">A Secretaria-Executiva da CEP é vinculada ao Ministério da Justiça</span><br>✅ <span class=\"certo\">é vinculada à <b>Casa Civil da Presidência da República</b></span></li></ol></div>\n<h4>Outras atribuições da CEP espalhadas no decreto</h4>\n<ul><li><b>Consultas (art. 16, § 2º)</b>: a CEP responde a consultas sobre aspectos éticos dirigidas pelas <b>demais Comissões de Ética</b>, pelos <b>órgãos e entidades</b> do Executivo federal e pelos <b>cidadãos e servidores indicados</b> para cargo ou função abrangida pelo Código de Conduta da Alta Administração.</li><li><b>Infração ética de membro de comissão (art. 21)</b>: a infração de natureza ética cometida por <b>membro de Comissão de Ética</b> de órgão ou entidade é <b>apurada pela CEP</b>.</li><li><b>Banco de dados de sanções (art. 22)</b>: a CEP mantém <b>banco de dados das sanções</b> aplicadas pelas comissões e por ela própria, para consulta pelos órgãos em casos de <b>nomeação para cargo em comissão</b> ou de <b>alta relevância pública</b>. O banco abrange sanções aplicadas a <b>qualquer agente público</b> no conceito do art. 11.</li><li><b>Coordenação da Rede de Ética (art. 9º)</b> e regulamentação, por <b>Resolução</b>, das atividades dos representantes das comissões que atuam como <b>elementos de ligação</b> com a CEP (art. 23).</li><li><b>Consulta prévia à posse (art. 15, parágrafo único)</b>: a posse em cargo que submeta a autoridade ao Código de Conduta da Alta Administração deve ser <b>precedida de consulta da autoridade à CEP</b> sobre situação que possa suscitar <b>conflito de interesses</b>.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CEP</span></span><span class=\"vs\"><span>7 brasileiros, designados pelo Presidente da República, mandato de 3 anos não coincidente, uma recondução</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Remuneração dos membros da CEP</span></span><span class=\"vs\"><span>Nenhuma; relevante serviço público</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Voto de qualidade</span></span><span class=\"vs\"><span>Presidente da CEP</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Presidente da CEP</span></span><span class=\"vs\"><span>Escolhido pela própria CEP</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Secretaria-Executiva da CEP</span></span><span class=\"vs\"><span>Vinculada à Casa Civil</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Código de Conduta da Alta Administração</span></span><span class=\"vs\"><span>CEP administra e apura</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 1.171</span></span><span class=\"vs\"><span>CEP dirime dúvidas; comissões aplicam</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Infração ética de membro de comissão</span></span><span class=\"vs\"><span>Apurada pela CEP</span></span></button></div></div>\n<h3>4. As Comissões de Ética dos órgãos e entidades</h3>\n<h4>Composição (art. 5º)</h4>\n<ul><li>Cada Comissão de Ética de que trata o Decreto 1.171/1994 é integrada por <b>três membros titulares e respectivos suplentes</b>, escolhidos entre <b>servidores e empregados do seu quadro permanente</b>, e <b>designados pelo dirigente máximo</b> da respectiva entidade ou órgão, para <b>mandatos não coincidentes de três anos</b>.</li><li>Repare nas diferenças em relação à CEP: na comissão do órgão, os membros são <b>do quadro permanente</b> e são designados pelo <b>dirigente máximo</b> do órgão, e não pelo Presidente da República. O decreto não fala em \"uma única recondução\" para as comissões dos órgãos, como faz para a CEP.</li></ul>\n<h4>Competências (art. 7º)</h4>\n<ul><li><b>I –</b> atuar como <b>instância consultiva de dirigentes e servidores</b> no âmbito do respectivo órgão ou entidade;</li><li><b>II –</b> <b>aplicar o Código de Ética Profissional</b> do servidor (Decreto 1.171/1994), devendo:</li><li><b>a)</b> submeter <b>à CEP</b> propostas para seu <b>aperfeiçoamento</b>;</li><li><b>b)</b> <b>dirimir dúvidas</b> a respeito da interpretação de suas normas e <b>deliberar sobre casos omissos</b>;</li><li><b>c)</b> <b>apurar</b>, mediante <b>denúncia ou de ofício</b>, conduta em desacordo com as normas éticas pertinentes;</li><li><b>d)</b> <b>recomendar, acompanhar e avaliar</b>, no âmbito do órgão, o desenvolvimento de ações de <b>disseminação, capacitação e treinamento</b> sobre as normas de <b>ética e disciplina</b>;</li><li><b>III –</b> <b>representar</b> a respectiva entidade ou órgão na <b>Rede de Ética</b> do Poder Executivo Federal;</li><li><b>IV –</b> <b>supervisionar a observância do Código de Conduta da Alta Administração Federal</b> e <b>comunicar à CEP</b> situações que possam configurar descumprimento de suas normas.</li><li><b>Ponto de prova sobre o inciso IV</b>: a comissão do órgão <b>não apura</b> a conduta das autoridades da alta administração; ela <b>supervisiona</b> e <b>comunica à CEP</b>, que é quem apura (art. 4º, II, c).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Comissão de Ética do órgão é competente para apurar e punir as autoridades submetidas ao Código de Conduta da Alta Administração lotadas em seu âmbito</span><br>✅ <span class=\"certo\">ela <b>supervisiona</b> a observância desse Código e <b>comunica à CEP</b>, a quem cabe a apuração (art. 7º, IV, e art. 4º, II, c)</span></li><li>❌ <span class=\"banca\">As Comissões de Ética só podem agir mediante denúncia formal</span><br>✅ <span class=\"certo\">podem apurar <b>mediante denúncia ou de ofício</b> (art. 7º, II, c)</span></li></ol></div>\n<h4>Secretaria-Executiva das comissões (art. 7º, §§ 1º e 2º)</h4>\n<ul><li>Cada Comissão de Ética conta com uma <b>Secretaria-Executiva</b>, vinculada <b>administrativamente à instância máxima</b> da entidade ou órgão, para cumprir <b>plano de trabalho por ela aprovado</b> e prover o apoio técnico e material necessário.</li><li>As Secretarias-Executivas são <b>chefiadas por servidor ou empregado do quadro permanente</b>, ocupante de cargo de direção compatível com a estrutura do órgão, <b>alocado sem aumento de despesas</b>.</li></ul>\n<h4>Deveres dos dirigentes e das instâncias superiores (arts. 6º e 8º)</h4>\n<ul><li><b>Art. 6º – dever do titular</b> de entidade ou órgão da administração federal, direta e indireta:</li><li><b>I –</b> <b>assegurar as condições de trabalho</b> para que as Comissões de Ética cumpram suas funções, <b>inclusive para que do exercício das atribuições de seus integrantes não lhes resulte qualquer prejuízo ou dano</b>;</li><li><b>II –</b> conduzir em seu âmbito a <b>avaliação da gestão da ética</b> conforme processo <b>coordenado pela CEP</b>.</li><li><b>Art. 8º – competências das instâncias superiores</b> dos órgãos e entidades (direta e indireta):</li><li><b>I –</b> <b>observar e fazer observar</b> as normas de ética e disciplina;</li><li><b>II –</b> <b>constituir</b> Comissão de Ética;</li><li><b>III –</b> <b>garantir os recursos humanos, materiais e financeiros</b> para que a Comissão cumpra suas atribuições;</li><li><b>IV –</b> <b>atender com prioridade</b> às solicitações da CEP.</li><li><b>Leitura</b>: o decreto protege a independência dos membros da comissão. O dirigente deve garantir que o membro <b>não sofra prejuízo</b> por atuar na comissão (por exemplo, perseguição pelo fato de ter apurado conduta de colega ou de superior).</li></ul>\n<h4>Prioridade dos trabalhos (art. 19)</h4>\n<ul><li>Os trabalhos nas Comissões de Ética dos órgãos são considerados <b>relevantes</b> e têm <b>prioridade sobre as atribuições próprias dos cargos</b> dos seus membros, quando estes <b>não atuarem com exclusividade</b> na Comissão.</li></ul>\n<h4>Elementos de ligação com a CEP (art. 23)</h4>\n<ul><li>Os <b>representantes</b> das comissões atuam como <b>elementos de ligação com a CEP</b>, que disporá em <b>Resolução própria</b> sobre as atividades que deverão desenvolver.</li></ul>\n<table class=\"tab\"><thead><tr><th>Quem; Dever ou competência; Artigo</th></tr></thead><tbody><tr><td>Titular do órgão; Assegurar condições de trabalho e evitar prejuízo aos membros; conduzir a avaliação da gestão da ética; 6º</td></tr><tr><td>Instâncias superiores; Observar e fazer observar normas; constituir a comissão; garantir recursos; atender com prioridade a CEP; 8º</td></tr><tr><td>Comissão de Ética do órgão; Instância consultiva; aplicar o Decreto 1.171; representar o órgão na Rede de Ética; supervisionar o Código da Alta Administração e comunicar à CEP; 7º</td></tr><tr><td>Membros da comissão; Trabalhos relevantes e prioritários sobre as atribuições do cargo; 19</td></tr><tr><td>Representantes das comissões; Elementos de ligação com a CEP; 23</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comissão do órgão</span></span><span class=\"vs\"><span>3 titulares + suplentes do quadro permanente, designados pelo dirigente máximo, mandatos não coincidentes de 3 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comissão do órgão e alta administração</span></span><span class=\"vs\"><span>Supervisiona e comunica à CEP</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Secretaria-Executiva da comissão</span></span><span class=\"vs\"><span>Vinculada à instância máxima do órgão; chefiada por servidor do quadro permanente, sem aumento de despesa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 19</span></span><span class=\"vs\"><span>Trabalho na comissão tem prioridade sobre as atribuições do cargo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 8º, IV</span></span><span class=\"vs\"><span>Atender com prioridade às solicitações da CEP</span></span></button></div></div>\n<h3>5. Princípios dos trabalhos e quem pode provocar as comissões</h3>\n<h4>Celeridade e três princípios (art. 10)</h4>\n<ul><li>Os trabalhos da CEP e das demais Comissões de Ética devem ser desenvolvidos com <b>celeridade</b> e observância dos seguintes princípios:</li><li><b>I –</b> <b>proteção à honra e à imagem da pessoa investigada</b>;</li><li><b>II –</b> <b>proteção à identidade do denunciante</b>, que deverá ser mantida <b>sob reserva, se este assim o desejar</b>;</li><li><b>III –</b> <b>independência e imparcialidade</b> dos seus membros na apuração dos fatos, com as garantias asseguradas no decreto.</li><li><b>Detalhe muito cobrado</b>: a identidade do denunciante é mantida sob reserva <b>se ele assim desejar</b>. Não é sigilo automático e absoluto, nem é proibida a denúncia identificada.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A identidade do denunciante deve ser obrigatoriamente divulgada ao investigado, em respeito ao contraditório</span><br>✅ <span class=\"certo\">deve ser mantida <b>sob reserva, se o denunciante assim o desejar</b> (art. 10, II)</span></li><li>❌ <span class=\"banca\">O decreto impõe sigilo absoluto e automático sobre a identidade de todo denunciante</span><br>✅ <span class=\"certo\">a reserva depende da <b>vontade do denunciante</b></span></li><li>❌ <span class=\"banca\">A celeridade não é exigida nos trabalhos das comissões, que devem priorizar a profundidade da apuração</span><br>✅ <span class=\"certo\">os trabalhos devem ser desenvolvidos com <b>celeridade</b> (art. 10, caput)</span></li></ol></div>\n<h4>Legitimidade para provocar (art. 11)</h4>\n<ul><li><b>Qualquer cidadão, agente público, pessoa jurídica de direito privado, associação ou entidade de classe</b> pode <b>provocar a atuação</b> da CEP ou de Comissão de Ética, visando à apuração de <b>infração ética</b> imputada a <b>agente público</b>, <b>órgão</b> ou <b>setor específico</b> de ente estatal.</li><li>Repare: a apuração pode recair sobre <b>agente público</b>, mas também sobre <b>órgão ou setor específico</b>. E quem provoca não precisa ser servidor: <b>qualquer cidadão</b> pode.</li></ul>\n<h4>O conceito de agente público (art. 11, parágrafo único)</h4>\n<ul><li>Para os fins do decreto, agente público é <b>todo aquele</b> que, por força de <b>lei, contrato ou qualquer ato jurídico</b>, preste serviços de natureza <b>permanente, temporária, excepcional ou eventual</b>, <b>ainda que sem retribuição financeira</b>, a órgão ou entidade da administração pública federal, <b>direta e indireta</b>.</li><li><b>Compare com o Decreto 1.171 (regra XXIV)</b>: os dois conceitos são amplos. O Decreto 6.029 acrescenta expressamente o serviço <b>eventual</b> e fala em administração federal direta e indireta; o Decreto 1.171 menciona serviço \"permanente, temporária ou excepcional\" e lista autarquias, fundações, paraestatais, empresas públicas e sociedades de economia mista.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ponto; Decreto 1.171 (regra XXIV); Decreto 6.029 (art. 11, parágrafo único)</th></tr></thead><tbody><tr><td>Natureza do serviço; Permanente, temporária ou excepcional; Permanente, temporária, excepcional <b>ou eventual</b></td></tr><tr><td>Remuneração; Ainda que sem retribuição financeira; Ainda que sem retribuição financeira</td></tr><tr><td>Vínculo; Lei, contrato ou qualquer ato jurídico; Lei, contrato ou qualquer ato jurídico</td></tr><tr><td>Onde; Qualquer órgão do poder estatal, incluindo autarquias, fundações, paraestatais, empresas públicas e sociedades de economia mista; Órgão ou entidade da administração federal direta e indireta</td></tr></tbody></table>\n<h4>Integração das lacunas (art. 16)</h4>\n<ul><li>As Comissões de Ética <b>não poderão escusar-se de proferir decisão</b> sobre matéria de sua competência alegando <b>omissão</b> dos códigos de ética. A omissão será <b>suprida pela analogia</b> e pela <b>invocação aos princípios</b> da <b>legalidade, impessoalidade, moralidade, publicidade e eficiência</b> (os princípios do art. 37 da CF).</li><li><b>§ 1º</b>: havendo <b>dúvida quanto à legalidade</b>, a comissão deve <b>ouvir previamente a área jurídica</b> do órgão ou entidade.</li><li><b>§ 2º</b>: cabe à CEP responder a <b>consultas</b> sobre aspectos éticos (de comissões, órgãos, cidadãos e indicados para a alta administração).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Diante de omissão do código de ética, a comissão deve arquivar o caso, por ausência de norma aplicável</span><br>✅ <span class=\"certo\">não pode escusar-se de decidir; a omissão é suprida pela <b>analogia</b> e pelos <b>princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência</b> (art. 16)</span></li><li>❌ <span class=\"banca\">Havendo dúvida sobre legalidade, a comissão deve consultar a CEP antes de decidir</span><br>✅ <span class=\"certo\">deve <b>ouvir previamente a área jurídica do órgão ou entidade</b> (art. 16, § 1º)</span></li></ol></div>\n<h4>Aplicação mesmo em licença (art. 24)</h4>\n<ul><li>As normas do Código de Conduta da Alta Administração, do Código de Ética Profissional e do código de ética do órgão aplicam-se, no que couber, às autoridades e agentes públicos neles referidos, <b>mesmo quando em gozo de licença</b>.</li></ul>\n<h4>Compromisso solene na posse (art. 15)</h4>\n<ul><li><b>Todo ato de posse</b>, investidura em função pública ou celebração de contrato de trabalho dos agentes públicos deve ser <b>acompanhado da prestação de compromisso solene</b> de acatamento e observância das regras do <b>Código de Conduta da Alta Administração</b>, do <b>Código de Ética Profissional</b> e do <b>código de ética do órgão</b>, conforme o caso.</li><li><b>Parágrafo único</b>: a posse em cargo que submeta a autoridade ao Código de Conduta da Alta Administração deve ser <b>precedida de consulta da autoridade à CEP</b> sobre situação que possa suscitar <b>conflito de interesses</b>.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 10</span></span><span class=\"vs\"><span>Celeridade; honra e imagem do investigado; reserva do denunciante se ele quiser; independência e imparcialidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 11</span></span><span class=\"vs\"><span>Qualquer cidadão, agente público, PJ de direito privado, associação ou entidade de classe pode provocar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Agente público (art. 11)</span></span><span class=\"vs\"><span>Permanente, temporário, excepcional ou eventual, ainda que sem retribuição</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Omissão do código (art. 16)</span></span><span class=\"vs\"><span>Analogia + princípios do art. 37</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dúvida de legalidade</span></span><span class=\"vs\"><span>Ouvir antes a área jurídica</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 24</span></span><span class=\"vs\"><span>Normas éticas valem mesmo em licença</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Posse (art. 15)</span></span><span class=\"vs\"><span>Compromisso solene; alta administração consulta antes a CEP</span></span></button></div></div>\n<h3>6. O processo de apuração ética (arts. 12 a 14)</h3>\n<h4>Instauração e defesa (art. 12, caput e §§ 1º a 3º)</h4>\n<ul><li>O processo de apuração de ato em desrespeito ao Código de Conduta da Alta Administração ou ao Código de Ética Profissional é <b>instaurado de ofício ou em razão de denúncia fundamentada</b>, respeitando-se <b>sempre</b> o <b>contraditório e a ampla defesa</b>, pela CEP ou pela Comissão de Ética, conforme o caso.</li><li>A comissão <b>notifica o investigado</b> para <b>manifestar-se, por escrito, no prazo de 10 dias</b>.</li><li>O investigado pode <b>produzir prova documental</b> necessária à sua defesa (§ 1º).</li><li>As comissões podem <b>requisitar documentos</b>, <b>promover diligências</b> e <b>solicitar parecer de especialista</b> (§ 2º).</li><li>Se, <b>após</b> a manifestação do investigado, forem juntados <b>novos elementos de prova</b>, ele será notificado para <b>nova manifestação</b>, também no prazo de <b>10 dias</b> (§ 3º).</li></ul>\n<h4>Decisão e providências (art. 12, §§ 4º e 5º)</h4>\n<ul><li>Concluída a instrução, a comissão profere <b>decisão conclusiva e fundamentada</b> (§ 4º).</li><li>Se a conclusão for pela <b>existência de falta ética</b>, além das providências previstas nos códigos (censura, para o servidor; advertência ou censura ética, para a alta administração), a comissão toma, <b>no que couber</b>, as seguintes providências (§ 5º):</li><li><b>I –</b> encaminhamento de <b>sugestão de exoneração</b> de cargo ou função de confiança à autoridade hierarquicamente superior, ou <b>devolução ao órgão de origem</b>, conforme o caso;</li><li><b>II –</b> encaminhamento à <b>Controladoria-Geral da União</b> ou à unidade do <b>Sistema de Correição</b> do Executivo federal (Decreto 5.480/2005), para exame de eventuais <b>transgressões disciplinares</b>;</li><li><b>III –</b> <b>recomendação de abertura de procedimento administrativo</b>, se a gravidade da conduta o exigir.</li><li><b>Atenção</b>: a comissão <b>sugere</b> exoneração e <b>recomenda</b> abertura de procedimento; ela <b>não exonera</b> nem <b>instaura</b> PAD por conta própria.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Comissão de Ética, ao concluir pela existência de falta grave, pode exonerar o servidor ocupante de cargo em comissão</span><br>✅ <span class=\"certo\">ela <b>encaminha sugestão de exoneração</b> à autoridade hierarquicamente superior (art. 12, § 5º, I)</span></li><li>❌ <span class=\"banca\">O investigado tem 15 dias para se manifestar por escrito após a notificação</span><br>✅ <span class=\"certo\">o prazo é de <b>10 dias</b>, e novo prazo de <b>10 dias</b> se surgirem novas provas</span></li></ol></div>\n<h4>Reserva do procedimento (art. 13)</h4>\n<ul><li>Qualquer procedimento de apuração ética é mantido com a chancela de <b>\"reservado\"</b> <b>até que esteja concluído</b>.</li><li><b>§ 1º</b>: concluída a investigação e após a deliberação da comissão, os autos <b>deixam de ser reservados</b>.</li><li><b>§ 2º</b>: se os autos contiverem documento protegido por <b>sigilo legal</b>, o acesso a ele só é permitido a quem tiver <b>igual direito</b> perante o órgão encarregado da sua guarda.</li><li><b>§ 3º</b>: para resguardar o sigilo, depois de concluída a investigação, tais documentos são <b>desentranhados dos autos, lacrados e acautelados</b>.</li></ul>\n<h4>Direitos do investigado (art. 14)</h4>\n<ul><li>A qualquer pessoa investigada é assegurado o direito de <b>saber o que lhe está sendo imputado</b>, de <b>conhecer o teor da acusação</b> e de <b>ter vista dos autos</b>, no recinto das comissões, <b>mesmo que ainda não tenha sido notificada</b> da existência do procedimento.</li><li>O direito inclui o de <b>obter cópia dos autos</b> e <b>certidão do seu teor</b> (parágrafo único).</li></ul>\n<div class=\"lt-fluxo\"><span>Denúncia fundamentada ou atuação de ofício</span> <em>→</em> <span>Instauração pela comissão</span> <em>→</em> <span>Notificação: manifestação escrita em 10 dias</span> <em>→</em> <span>Instrução: documentos, diligências, parecer de especialista</span> <em>→</em> <span>Novas provas? nova manifestação em 10 dias</span> <em>→</em> <span>Decisão conclusiva e fundamentada</span> <em>→</em> <span>Se houver falta: censura e providências do art. 12, § 5º</span> <em>→</em> <span>Divulgação da ementa sem nomes e remessa à CEP</span></div>\n<h4>Comunicação a outras autoridades (art. 17)</h4>\n<ul><li>Sempre que constatarem possível ocorrência de <b>ilícitos penais, civis, de improbidade administrativa ou de infração disciplinar</b>, as comissões <b>encaminham cópia dos autos às autoridades competentes</b>, <b>sem prejuízo</b> das medidas de sua competência.</li></ul>\n<h4>Divulgação das decisões (art. 18)</h4>\n<ul><li>As decisões das comissões são <b>resumidas em ementa</b> e, <b>com a omissão dos nomes dos investigados</b>, <b>divulgadas no sítio do próprio órgão</b>, bem como <b>remetidas à CEP</b>.</li></ul>\n<h4>Prioridade na entrega de documentos (art. 20)</h4>\n<ul><li>Os órgãos e entidades dão <b>tratamento prioritário</b> às solicitações de documentos das comissões.</li><li>Se houver descumprimento desse dever, a comissão adota a providência do art. 12, § 5º, III (<b>recomendação de abertura de procedimento administrativo</b>).</li><li>As autoridades <b>não podem alegar sigilo</b> para deixar de prestar informação solicitada pelas comissões (§ 2º).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As decisões das Comissões de Ética são divulgadas integralmente, com o nome do investigado, para garantir a publicidade</span><br>✅ <span class=\"certo\">são resumidas em <b>ementa</b> e divulgadas <b>com omissão dos nomes dos investigados</b> (art. 18)</span></li><li>❌ <span class=\"banca\">O investigado só pode ter vista dos autos após ser formalmente notificado</span><br>✅ <span class=\"certo\">tem direito de ter vista <b>mesmo que ainda não tenha sido notificado</b> (art. 14)</span></li><li>❌ <span class=\"banca\">A autoridade pode negar documento à Comissão de Ética alegando sigilo</span><br>✅ <span class=\"certo\">as autoridades <b>não poderão alegar sigilo</b> para deixar de prestar informação (art. 20, § 2º)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Instauração</span></span><span class=\"vs\"><span>De ofício ou por denúncia fundamentada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazo de defesa escrita</span></span><span class=\"vs\"><span>10 dias (e mais 10 se houver novas provas)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Durante a apuração</span></span><span class=\"vs\"><span>Chancela de \"reservado\"</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Depois da deliberação</span></span><span class=\"vs\"><span>Autos deixam de ser reservados</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Documento com sigilo legal</span></span><span class=\"vs\"><span>Desentranhado, lacrado e acautelado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decisão divulgada</span></span><span class=\"vs\"><span>Ementa sem nomes, no sítio do órgão, e remetida à CEP</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Indício de crime ou improbidade</span></span><span class=\"vs\"><span>Cópia às autoridades competentes (art. 17)</span></span></button></div></div>\n<h3>7. Casos práticos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A denúncia anônima</b><p>Um cidadão envia à Comissão de Ética de uma autarquia um relato detalhado, com documentos, sobre servidor que atende pessoas de forma discriminatória, mas pede que seu nome não seja revelado. Como a comissão deve agir?</p><details><summary>Ver a solução comentada</summary><p>A comissão pode instaurar o procedimento a partir de <b>denúncia fundamentada</b> ou mesmo <b>de ofício</b> (arts. 7º, II, c, e 12). O denunciante pode ter sua <b>identidade mantida sob reserva</b>, pois assim deseja (art. 10, II). O investigado será notificado para se manifestar por escrito em <b>10 dias</b> e terá direito de conhecer o teor da acusação e ter vista dos autos (art. 14), sem que isso implique revelar a identidade de quem denunciou.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O ministro e a empresa</b><p>Um Ministro de Estado, submetido ao Código de Conduta da Alta Administração, participa de reunião privada com empresa que tem contrato em análise no seu ministério e recebe da empresa um presente de alto valor. A Comissão de Ética do ministério toma conhecimento. Ela deve apurar o caso?</p><details><summary>Ver a solução comentada</summary><p>Não diretamente. A comissão do órgão <b>supervisiona</b> a observância do Código de Conduta da Alta Administração e <b>comunica à CEP</b> situações de possível descumprimento (art. 7º, IV). Quem <b>apura</b> condutas das autoridades submetidas a esse Código é a <b>CEP</b>, mediante denúncia ou de ofício (art. 4º, II, c).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O membro da comissão sob suspeita</b><p>Um dos três membros titulares da Comissão de Ética de um órgão é acusado de vazar informações de um procedimento reservado. Quem apura?</p><details><summary>Ver a solução comentada</summary><p>A infração ética cometida por <b>membro de Comissão de Ética</b> de órgão ou entidade é <b>apurada pela CEP</b> (art. 21). Além disso, o vazamento de procedimento \"reservado\" contraria o art. 13 e pode configurar infração disciplinar e até crime, o que justifica o encaminhamento às autoridades competentes.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O diretor que não entrega documentos</b><p>A Comissão de Ética solicita a um diretor documentos necessários à apuração. O diretor demora semanas e, depois, responde que os documentos são \"sigilosos\". Está correto?</p><details><summary>Ver a solução comentada</summary><p>Não. Os órgãos devem dar <b>tratamento prioritário</b> às solicitações de documentos das comissões, e as autoridades <b>não podem alegar sigilo</b> para deixar de prestar informação (art. 20, caput e § 2º). Diante da inobservância, a comissão pode <b>recomendar a abertura de procedimento administrativo</b> (art. 20, § 1º, combinado com art. 12, § 5º, III). Se houver documento protegido por sigilo legal, o acesso fica restrito a quem tiver igual direito e, ao final, ele é desentranhado, lacrado e acautelado (art. 13, §§ 2º e 3º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O código que não previu a situação</b><p>A comissão analisa uma conduta nova (uso de perfil oficial do órgão em rede social para promover candidatura própria de servidor) que não está descrita expressamente no código de ética do órgão. A comissão pode deixar de decidir?</p><details><summary>Ver a solução comentada</summary><p>Não. As comissões <b>não podem escusar-se de decidir</b> alegando omissão dos códigos. A lacuna é suprida pela <b>analogia</b> e pelos princípios da <b>legalidade, impessoalidade, moralidade, publicidade e eficiência</b> (art. 16). No caso, a impessoalidade e a moralidade orientam a decisão. Havendo dúvida sobre a legalidade, a comissão <b>ouve antes a área jurídica</b> (art. 16, § 1º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O servidor em licença</b><p>Um servidor em licença para tratar de interesses particulares é flagrado utilizando a condição de servidor para obter vantagens de fornecedores do órgão. Por estar de licença, ele escapa das normas éticas?</p><details><summary>Ver a solução comentada</summary><p>Não. As normas dos códigos de ética aplicam-se, no que couber, aos agentes públicos <b>mesmo quando em gozo de licença</b> (art. 24).</p></details></div>\n<h3>8. A Resolução CEP nº 10/2008: normas de funcionamento das comissões</h3>\n<ul><li>Para detalhar o funcionamento das comissões e o rito de apuração, a CEP editou resoluções. A mais importante é a <b>Resolução CEP nº 10/2008</b>, que estabelece normas de funcionamento e de rito processual para as Comissões de Ética instituídas pelo Decreto 1.171/1994 e disciplinadas pelo Decreto 6.029/2007.</li><li>Pontos gerais que costumam ser cobrados:</li><li>A apuração pode começar por um <b>procedimento preliminar</b> (para verificar indícios mínimos) e seguir para um <b>processo de apuração ética</b>, com contraditório e ampla defesa.</li><li>A resolução prevê a possibilidade de celebração de <b>Acordo de Conduta Pessoal e Profissional (ACPP)</b>, instrumento pelo qual o agente se compromete a ajustar sua conduta, em casos de menor gravidade.</li><li>As deliberações e o funcionamento das comissões seguem as garantias do Decreto 6.029: celeridade, reserva, proteção da honra do investigado e da identidade do denunciante, independência e imparcialidade.</li><li><b>Como estudar</b>: em prova de nível médio, o foco é o <b>Decreto 6.029</b>. A Resolução 10/2008 aparece com menor frequência; basta saber que ela <b>regulamenta o rito</b> e prevê o <b>ACPP</b>.</li></ul>\n<h3>9. Comparativo final: CEP x Comissão de Ética do órgão</h3>\n<table class=\"tab\"><thead><tr><th>Ponto; CEP; Comissão de Ética do órgão</th></tr></thead><tbody><tr><td>Composição; 7 brasileiros de idoneidade moral, reputação ilibada e notória experiência em administração pública; 3 titulares e suplentes do quadro permanente</td></tr><tr><td>Designação; Presidente da República; Dirigente máximo do órgão</td></tr><tr><td>Mandato; 3 anos, não coincidentes, uma única recondução; 3 anos, não coincidentes</td></tr><tr><td>Instância consultiva de; Presidente da República e Ministros de Estado; Dirigentes e servidores do órgão</td></tr><tr><td>Código de Conduta da Alta Administração; Administra a aplicação e apura condutas; Supervisiona e comunica à CEP</td></tr><tr><td>Código de Ética do Decreto 1.171; Dirime dúvidas de interpretação; Aplica: interpreta, delibera sobre omissões e apura</td></tr><tr><td>Secretaria-Executiva; Vinculada à Casa Civil; Vinculada à instância máxima do órgão</td></tr><tr><td>Infração ética de seus membros; (CEP: regras próprias); Apurada pela CEP (art. 21)</td></tr><tr><td>Funções extras; Coordena, avalia e supervisiona o Sistema; coordena a Rede de Ética; mantém banco de sanções; Representa o órgão na Rede de Ética; promove capacitação</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Pense na CEP como a \"comissão das autoridades e do sistema\" e na comissão do órgão como a \"comissão dos servidores do órgão\". A CEP <b>apura</b> a alta administração; a comissão do órgão <b>apura</b> os servidores do órgão.</div>\n<h3>10. Como as bancas cobram o Decreto 6.029/2007</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>O decreto é cobrado pela literalidade de números e verbos. As trocas mais comuns são: número de membros da CEP (7) e das comissões dos órgãos (3 titulares e suplentes); duração e reconduções do mandato (3 anos, não coincidentes; na CEP, uma única recondução); remuneração dos membros da CEP (nenhuma); quem designa (Presidente da República para a CEP; dirigente máximo para a comissão do órgão); quem escolhe o Presidente da CEP (a própria CEP); a vinculação da Secretaria-Executiva da CEP (Casa Civil); o prazo de manifestação do investigado (10 dias); a reserva da identidade do denunciante (se ele desejar); a divulgação das decisões (ementa sem nomes); e a diferença entre \"apurar\" e \"supervisionar e comunicar\" quanto à alta administração.</p></div>\n<ul><li><b>Roteiro de resolução</b>:</li><li>Pergunte primeiro <b>de qual comissão</b> o item fala: CEP ou comissão do órgão.</li><li>Confira os <b>números</b>: 7 e 3; 3 anos; 10 dias; ao menos 1 reunião anual da Rede.</li><li>Verifique os <b>verbos</b>: a comissão <b>sugere</b> exoneração, <b>recomenda</b> procedimento, <b>encaminha</b> à CGU, <b>supervisiona</b> a alta administração; a CEP <b>apura</b> a alta administração e <b>dirime dúvidas</b> do Decreto 1.171.</li><li>Desconfie de <b>sigilo absoluto</b>: o procedimento é <b>reservado até a conclusão</b>; depois, os autos deixam de ser reservados (salvo documentos com sigilo legal).</li></ul>\n<h3>11. Quadro de números do decreto</h3>\n<table class=\"tab\"><thead><tr><th>Número; Onde aparece</th></tr></thead><tbody><tr><td>7; Membros da CEP (art. 3º)</td></tr><tr><td>3 anos; Mandato dos membros da CEP e das comissões dos órgãos (arts. 3º e 5º)</td></tr><tr><td>1; Única recondução permitida aos membros da CEP (art. 3º)</td></tr><tr><td>1, 2 e 3 anos; Mandatos dos primeiros membros da CEP, para escalonar (art. 3º, § 3º)</td></tr><tr><td>3; Membros titulares (com suplentes) das comissões dos órgãos (art. 5º)</td></tr><tr><td>10 dias; Prazo para manifestação escrita do investigado e para nova manifestação após novas provas (art. 12)</td></tr><tr><td>1 vez por ano; Reunião mínima da Rede de Ética (art. 9º, parágrafo único)</td></tr></tbody></table>\n<h3>12. Dicas de memorização</h3>\n<ul><li><b>\"Sete sábios, três guardiões\"</b>: a CEP tem <b>7</b> membros; cada comissão de órgão tem <b>3</b> titulares.</li><li><b>\"3-3-1\"</b>: mandato de <b>3</b> anos, para CEP e comissões; na CEP, só <b>1</b> recondução.</li><li><b>\"Dez para falar, dez para responder\"</b>: 10 dias para a manifestação escrita e 10 dias para a nova manifestação após novas provas.</li><li><b>\"Reservado até o fim\"</b>: o procedimento é reservado <b>até a conclusão</b>; a decisão sai em <b>ementa sem nomes</b>.</li><li><b>\"Casa Civil para a CEP; casa própria para a comissão\"</b>: a Secretaria-Executiva da CEP fica na Casa Civil; a da comissão do órgão fica vinculada à instância máxima do próprio órgão.</li><li><b>\"LIMPE para as lacunas\"</b>: na omissão do código, use a analogia e os princípios <b>L</b>egalidade, <b>I</b>mpessoalidade, <b>M</b>oralidade, <b>P</b>ublicidade e <b>E</b>ficiência (art. 16).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>7</span></span><span class=\"vs\"><span>Membros da CEP</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>3</span></span><span class=\"vs\"><span>Titulares das comissões dos órgãos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>3 anos</span></span><span class=\"vs\"><span>Mandatos (CEP e comissões), não coincidentes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Uma única recondução</span></span><span class=\"vs\"><span>Membros da CEP</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>10 dias</span></span><span class=\"vs\"><span>Manifestação escrita do investigado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ementa sem nomes</span></span><span class=\"vs\"><span>Divulgação das decisões</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Analogia + LIMPE</span></span><span class=\"vs\"><span>Suprir omissão dos códigos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 22</span></span><span class=\"vs\"><span>Banco de dados de sanções para consulta em nomeações</span></span></button></div></div>\n<h3>13. Revisão em perguntas rápidas</h3>\n<ul><li><b>Quem integra o Sistema?</b> A CEP, as Comissões de Ética do Decreto 1.171 e as demais comissões e equivalentes do Executivo federal.</li><li><b>Quem designa os membros da CEP e por quanto tempo?</b> O Presidente da República, para mandatos de 3 anos, não coincidentes, com uma única recondução.</li><li><b>Os membros da CEP são remunerados?</b> Não; a atuação é considerada relevante serviço público.</li><li><b>Quem apura a conduta de um Ministro de Estado?</b> A CEP, pois ele está submetido ao Código de Conduta da Alta Administração.</li><li><b>Qual é o papel da comissão do órgão em relação às autoridades da alta administração?</b> Supervisionar a observância do Código de Conduta e comunicar à CEP.</li><li><b>Quem apura infração ética de membro de comissão de órgão?</b> A CEP.</li><li><b>O investigado pode ver os autos antes de ser notificado?</b> Sim, e pode obter cópia e certidão.</li><li><b>A comissão pode exonerar ou demitir?</b> Não. Ela aplica a censura (servidores) e pode <b>sugerir</b> exoneração de cargo de confiança, <b>encaminhar</b> o caso à CGU e <b>recomendar</b> procedimento administrativo.</li><li><b>O que acontece com as decisões?</b> São resumidas em ementa, sem os nomes dos investigados, divulgadas no sítio do órgão e remetidas à CEP.</li></ul>\n<h3>14. O decreto artigo por artigo</h3>\n<table class=\"tab\"><thead><tr><th>Artigo; Assunto; O que guardar</th></tr></thead><tbody><tr><td>1º; Finalidade e competências do Sistema; Integrar órgãos e ações; transparência e acesso à informação como instrumentos fundamentais; compatibilizar normas; incentivar o desempenho institucional</td></tr><tr><td>2º; Integrantes; CEP; Comissões do Decreto 1.171; demais comissões e equivalentes</td></tr><tr><td>3º; Composição da CEP; 7 brasileiros; Presidente da República designa; 3 anos não coincidentes; uma recondução; sem remuneração; voto de qualidade do Presidente da CEP</td></tr><tr><td>4º; Competências da CEP; Consultiva do Presidente e Ministros; administra o Código da Alta Administração; dirime dúvidas do Decreto 1.171; coordena o Sistema; aprova regimento; escolhe o Presidente; Secretaria-Executiva na Casa Civil</td></tr><tr><td>5º; Composição das comissões dos órgãos; 3 titulares e suplentes do quadro permanente; designados pelo dirigente máximo; 3 anos não coincidentes</td></tr><tr><td>6º; Deveres do titular do órgão; Condições de trabalho e proteção dos membros; avaliação da gestão da ética</td></tr><tr><td>7º; Competências das comissões dos órgãos; Consultiva; aplicar o Decreto 1.171; representar na Rede; supervisionar a alta administração e comunicar à CEP; Secretaria-Executiva própria</td></tr><tr><td>8º; Instâncias superiores; Fazer observar normas; constituir comissão; garantir recursos; prioridade à CEP</td></tr><tr><td>9º; Rede de Ética; Representantes das comissões; cooperação técnica; reunião ao menos anual sob coordenação da CEP</td></tr><tr><td>10; Princípios; Celeridade; honra e imagem do investigado; reserva do denunciante se desejar; independência e imparcialidade</td></tr><tr><td>11; Quem provoca e conceito de agente público; Qualquer cidadão, agente público, PJ privada, associação ou entidade de classe; agente público em sentido amplíssimo</td></tr><tr><td>12; Rito; De ofício ou por denúncia fundamentada; 10 dias; novas provas, mais 10 dias; decisão fundamentada; providências do § 5º</td></tr><tr><td>13; Reserva; Reservado até a conclusão; desentranhar e lacrar documentos sigilosos</td></tr><tr><td>14; Direitos do investigado; Saber a imputação, vista, cópia e certidão, mesmo antes da notificação</td></tr><tr><td>15; Compromisso solene; Na posse e na investidura; alta administração consulta antes a CEP</td></tr><tr><td>16; Omissões e consultas; Proibido não decidir; analogia e princípios do art. 37; ouvir a área jurídica em dúvida de legalidade; CEP responde consultas</td></tr><tr><td>17; Comunicação de ilícitos; Cópia dos autos às autoridades competentes</td></tr><tr><td>18; Divulgação; Ementa sem nomes, no sítio do órgão, e remessa à CEP</td></tr><tr><td>19; Prioridade; Trabalho na comissão prevalece sobre as atribuições do cargo</td></tr><tr><td>20; Documentos; Prioridade às solicitações; vedado alegar sigilo</td></tr><tr><td>21; Membros de comissões; Infração ética apurada pela CEP</td></tr><tr><td>22; Banco de sanções; Mantido pela CEP; consulta em nomeações para cargo em comissão ou de alta relevância</td></tr><tr><td>23; Elementos de ligação; Representantes das comissões; atividades definidas por Resolução da CEP</td></tr><tr><td>24; Licença; Normas éticas aplicam-se mesmo em licença</td></tr><tr><td>25; Revogações; Regras XVII, XIX, XX, XXI, XXIII e XXV do Decreto 1.171</td></tr></tbody></table>\n<h3>15. Como o Sistema conversa com outras normas de integridade</h3>\n<ul><li>O Sistema de Gestão da Ética não funciona sozinho. Ele se liga a várias normas que formam o chamado <b>sistema de integridade</b> do Executivo federal.</li><li><b>Código de Ética (Decreto 1.171/1994)</b>: é a norma de conduta dos servidores em geral; o Decreto 6.029 organiza as comissões que o aplicam.</li><li><b>Código de Conduta da Alta Administração Federal (2000)</b>: alcança Ministros, Secretários-Executivos, titulares de cargos de natureza especial, dirigentes de autarquias, fundações, empresas públicas e sociedades de economia mista e ocupantes de cargos do alto escalão; sua aplicação é administrada pela <b>CEP</b>.</li><li><b>Lei de Conflito de Interesses (Lei 12.813/2013)</b>: atribui à <b>CEP</b> e à <b>CGU</b> papéis na prevenção do conflito de interesses (por exemplo, consultas e pedidos de autorização para exercer atividade privada). A CEP atua em relação aos agentes do alto escalão; a CGU, em relação aos demais.</li><li><b>Lei de Acesso à Informação (Lei 12.527/2011)</b>: o Decreto 6.029 coloca a <b>transparência e o acesso à informação</b> como instrumentos fundamentais da gestão da ética (art. 1º, II). Por isso, as decisões são divulgadas em ementa no sítio do órgão (art. 18).</li><li><b>Governança (Decreto 9.203/2017)</b>: prevê os <b>programas de integridade</b> dos órgãos, cujos eixos incluem o comprometimento da alta administração, a existência de unidade responsável, a gestão de riscos de integridade e o monitoramento. As Comissões de Ética são peças desses programas.</li><li><b>Sistema de Correição (Decreto 5.480/2005)</b>: coordenado pela CGU, recebe os casos que a comissão encaminha para exame de <b>transgressões disciplinares</b> (art. 12, § 5º, II).</li></ul>\n<table class=\"tab\"><thead><tr><th>Norma; Relação com o Decreto 6.029</th></tr></thead><tbody><tr><td>Decreto 1.171/1994; Código aplicado pelas comissões dos órgãos; regras do Capítulo II revogadas pelo 6.029</td></tr><tr><td>Código de Conduta da Alta Administração; Aplicação administrada pela CEP; comissões dos órgãos supervisionam e comunicam</td></tr><tr><td>Lei 12.813/2013; CEP atua na prevenção de conflito de interesses do alto escalão</td></tr><tr><td>Lei 12.527/2011; Transparência e acesso à informação como instrumentos da gestão da ética</td></tr><tr><td>Decreto 9.203/2017; Programas de integridade dos quais as comissões fazem parte</td></tr><tr><td>Decreto 5.480/2005; Sistema de Correição, para onde vão as possíveis transgressões disciplinares</td></tr></tbody></table>\n<h3>16. Ética pública como política de Estado</h3>\n<ul><li>A gestão da ética não se resume a punir. O decreto aposta em <b>orientação</b> (instância consultiva), <b>educação</b> (capacitação e treinamento), <b>transparência</b> (divulgação de decisões) e <b>controle</b> (apuração e banco de sanções).</li><li>Para o servidor, isso significa ter a quem <b>perguntar</b> antes de agir. Se um agente tem dúvida sobre se pode aceitar um convite para palestrar paga por uma empresa do setor que fiscaliza, o caminho ético é <b>consultar</b> a comissão do órgão (ou, no alto escalão, a CEP) antes de decidir.</li><li>Para o cidadão, significa ter um canal para <b>denunciar</b> condutas antiéticas, com proteção da sua identidade se assim desejar, e acesso às decisões em forma de ementa.</li><li>Para a Administração, significa construir uma <b>cultura de integridade</b>, com registros éticos que pesam em nomeações (banco de sanções) e promoções (regra XVIII do Decreto 1.171).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sistema de integridade</span></span><span class=\"vs\"><span>Ética (CEP e comissões) + Correição (CGU) + Transparência (LAI) + Conflito de interesses (Lei 12.813) + Governança (Decreto 9.203)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dúvida ética antes de agir</span></span><span class=\"vs\"><span>Consultar a comissão (ou a CEP, no alto escalão)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Banco de sanções</span></span><span class=\"vs\"><span>Consulta em nomeações para cargo em comissão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regra XVIII do Decreto 1.171</span></span><span class=\"vs\"><span>Registros éticos instruem promoções</span></span></button></div></div>\n<h3>17. Itens de prova resolvidos e comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 1: composição da CEP</b><p>Item: \"A Comissão de Ética Pública é composta por sete brasileiros designados pelo Presidente da República para mandatos de três anos, não coincidentes, vedada a recondução.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado.</b> Tudo está certo, exceto o final: é <b>permitida uma única recondução</b> (art. 3º). A banca troca \"permitida uma única recondução\" por \"vedada a recondução\" ou por \"permitidas reconduções sucessivas\".</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 2: remuneração</b><p>Item: \"Os membros da Comissão de Ética Pública fazem jus a gratificação por sessão, pois sua atuação é considerada prestação de relevante serviço público.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado.</b> A atuação <b>não enseja qualquer remuneração</b>. O fato de ser relevante serviço público é exatamente o que justifica a ausência de pagamento (art. 3º, § 1º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 3: Código do servidor</b><p>Item: \"Compete à CEP aplicar o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, apurando de ofício as condutas dos servidores de todos os órgãos.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado.</b> Quanto ao Decreto 1.171, a CEP <b>dirime dúvidas de interpretação</b> (art. 4º, III). Quem <b>aplica</b> o Código e apura as condutas dos servidores são as <b>comissões dos órgãos</b> (art. 7º, II).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 4: alta administração</b><p>Item: \"Compete às Comissões de Ética dos órgãos supervisionar a observância do Código de Conduta da Alta Administração Federal e comunicar à CEP situações que possam configurar seu descumprimento.\"</p><details><summary>Ver a solução comentada</summary><p><b>Certo.</b> É a literalidade do art. 7º, IV.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 5: denunciante</b><p>Item: \"Nos trabalhos das comissões de ética, a identidade do denunciante deve ser mantida sob reserva, se este assim o desejar.\"</p><details><summary>Ver a solução comentada</summary><p><b>Certo.</b> Art. 10, II. Repare que a reserva depende da vontade do denunciante.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 6: prazo</b><p>Item: \"Instaurado o processo de apuração, o investigado será notificado para manifestar-se, por escrito, no prazo de quinze dias.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado.</b> O prazo é de <b>dez dias</b> (art. 12, caput), e também de dez dias a nova manifestação quando surgirem novas provas (§ 3º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 7: providências</b><p>Item: \"Concluindo pela existência de falta ética, a Comissão de Ética poderá aplicar a pena de demissão ao servidor.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado.</b> A comissão aplica a <b>censura</b> e pode adotar as providências do art. 12, § 5º: sugerir exoneração de cargo ou função de confiança, encaminhar o caso à CGU ou à unidade de correição e recomendar abertura de procedimento administrativo. Demissão é penalidade disciplinar, aplicada pela autoridade competente após PAD.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 8: reserva</b><p>Item: \"O procedimento de apuração ética é mantido com a chancela de reservado até a sua conclusão, deixando de sê-lo após a deliberação da comissão.\"</p><details><summary>Ver a solução comentada</summary><p><b>Certo.</b> Art. 13, caput e § 1º. Documentos com sigilo legal continuam protegidos e são desentranhados, lacrados e acautelados.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 9: vista dos autos</b><p>Item: \"A pessoa investigada somente terá vista dos autos após ser formalmente notificada da instauração do procedimento.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado.</b> O investigado pode conhecer a imputação e ter vista dos autos <b>mesmo que ainda não tenha sido notificado</b> (art. 14), inclusive com direito a cópia e certidão.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 10: omissão</b><p>Item: \"Constatada a omissão do código de ética, a comissão deverá abster-se de decidir e encaminhar a questão à CEP.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado.</b> As comissões <b>não podem escusar-se de decidir</b>; suprem a omissão pela <b>analogia</b> e pelos <b>princípios</b> da legalidade, impessoalidade, moralidade, publicidade e eficiência (art. 16).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 11: divulgação</b><p>Item: \"As decisões das comissões de ética devem ser publicadas no Diário Oficial da União com a identificação do agente investigado.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado.</b> As decisões são resumidas em <b>ementa</b>, <b>com omissão dos nomes</b>, divulgadas no <b>sítio do próprio órgão</b> e remetidas à CEP (art. 18).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 12: membros de comissões</b><p>Item: \"A infração de natureza ética cometida por membro de comissão de ética de órgão será apurada pela própria comissão a que ele pertence, com o seu afastamento.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado.</b> É apurada pela <b>CEP</b> (art. 21).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 13: Rede de Ética</b><p>Item: \"A Rede de Ética do Poder Executivo Federal reúne-se, sob a coordenação da CEP, pelo menos uma vez por ano, em fórum específico.\"</p><details><summary>Ver a solução comentada</summary><p><b>Certo.</b> Art. 9º, parágrafo único.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 14: sigilo como desculpa</b><p>Item: \"As autoridades competentes podem alegar sigilo para deixar de prestar informação solicitada pelas comissões de ética, desde que de forma fundamentada.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado.</b> As autoridades <b>não poderão alegar sigilo</b> para deixar de prestar informação (art. 20, § 2º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Comentário 15: licença</b><p>Item: \"As normas dos códigos de ética deixam de se aplicar ao agente público enquanto ele estiver em gozo de licença.\"</p><details><summary>Ver a solução comentada</summary><p><b>Errado.</b> Aplicam-se, no que couber, <b>mesmo quando em gozo de licença</b> (art. 24).</p></details></div>\n<h3>18. Mapa do caminho de uma denúncia ética</h3>\n<ul><li>Para fixar o funcionamento do Sistema, acompanhe o caminho de uma denúncia desde a chegada até a decisão, observando qual artigo do decreto governa cada passo.</li></ul>\n<table class=\"tab\"><thead><tr><th>Passo; O que acontece; Fundamento</th></tr></thead><tbody><tr><td>1. Provocação; Qualquer cidadão, agente público, pessoa jurídica de direito privado, associação ou entidade de classe leva o fato à comissão (ou a comissão age de ofício); Arts. 11 e 12</td></tr><tr><td>2. Identificação da comissão competente; Servidor comum: comissão do órgão. Autoridade da alta administração: CEP. Membro de comissão: CEP; Arts. 4º, 7º e 21</td></tr><tr><td>3. Proteções iniciais; Reserva do denunciante, se ele quiser; proteção da honra e da imagem do investigado; chancela de reservado; Arts. 10 e 13</td></tr><tr><td>4. Notificação; Investigado manifesta-se por escrito em 10 dias; pode produzir prova documental; Art. 12, caput e § 1º</td></tr><tr><td>5. Instrução; Requisição de documentos (com prioridade e sem alegação de sigilo), diligências, parecer de especialista; Arts. 12, § 2º, e 20</td></tr><tr><td>6. Novas provas; Nova manifestação em 10 dias; Art. 12, § 3º</td></tr><tr><td>7. Lacunas; Analogia e princípios do art. 37; ouvir a área jurídica se houver dúvida de legalidade; Art. 16</td></tr><tr><td>8. Decisão; Conclusiva e fundamentada; Art. 12, § 4º</td></tr><tr><td>9. Consequências; Censura (servidor) ou providências do Código de Conduta (alta administração); sugestão de exoneração; envio à CGU; recomendação de procedimento; cópia às autoridades se houver crime ou improbidade; Arts. 12, § 5º, e 17</td></tr><tr><td>10. Publicidade; Autos deixam de ser reservados; ementa sem nomes no sítio do órgão; remessa à CEP; registro no banco de sanções; Arts. 13, § 1º, 18 e 22</td></tr></tbody></table>\n<ul><li><b>Observação final</b>: o decreto equilibra dois valores que parecem opostos. De um lado, a <b>transparência</b> (as decisões são divulgadas e os autos deixam de ser reservados ao final). De outro, a <b>proteção das pessoas</b> (reserva durante a apuração, omissão dos nomes na ementa, proteção do denunciante e da honra do investigado). A banca explora esse equilíbrio trocando \"reservado até a conclusão\" por \"sigiloso para sempre\" ou \"público desde o início\".</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Provocação</span></span><span class=\"vs\"><span>Qualquer cidadão (art. 11)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Comissão competente</span></span><span class=\"vs\"><span>Órgão para servidores; CEP para alta administração e membros de comissões</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Durante a apuração</span></span><span class=\"vs\"><span>Reservado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Depois</span></span><span class=\"vs\"><span>Ementa sem nomes e autos não reservados</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equilíbrio do decreto</span></span><span class=\"vs\"><span>Transparência com proteção da honra e do denunciante</span></span></button></div></div>\n<h3>Revisão final: o Sistema em cinco ideias</h3>\n<ul><li><b>Primeira</b>: o Sistema de Gestão da Ética do Poder Executivo federal existe para <b>promover</b> a ética, e não apenas para punir. Por isso suas atividades incluem educação, orientação, consultas e divulgação de normas, além da apuração de desvios.</li><li><b>Segunda</b>: ele é formado pela <b>Comissão de Ética Pública (CEP)</b>, pelas <b>Comissões de Ética</b> de cada órgão e entidade e pelas demais comissões criadas por normas próprias, atuando de forma coordenada, com a CEP como instância de orientação e coordenação.</li><li><b>Terceira</b>: a apuração ética tem natureza <b>diferente</b> da disciplinar: segue rito próprio, garante contraditório e ampla defesa, preserva o sigilo enquanto necessário e pode terminar em <b>censura ética</b> ou em recomendações, sem substituir o processo administrativo disciplinar da Lei 8.112.</li><li><b>Quarta</b>: as instâncias são <b>independentes</b>. O mesmo fato pode gerar apuração ética, sindicância ou PAD, ação de improbidade e processo criminal, cada um com seus próprios requisitos e consequências.</li><li><b>Quinta</b>: a ética pública é responsabilidade de todos. Qualquer cidadão, servidor ou entidade pode provocar a comissão de ética, e o servidor tem o dever de colaborar com a apuração e de buscar orientação quando estiver em dúvida sobre a conduta correta.</li></ul>",
+"quiz": [
+{
+"p": "Integram o Sistema de Gestão da Ética do Poder Executivo Federal a Comissão de Ética Pública, as Comissões de Ética de que trata o Decreto 1.171/1994 e as demais comissões de ética e equivalentes dos órgãos e entidades do Executivo federal.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 2º do Decreto 6.029/2007. A CGU coordena o Sistema de Correição, não integra o Sistema de Gestão da Ética.",
+"e": "Decreto 6.029/2007, art. 2º"
+},
+{
+"p": "Integram o Sistema de Gestão da Ética do Poder Executivo Federal a Comissão de Ética Pública, a Controladoria-Geral da União e as corregedorias dos órgãos federais.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 2º do Decreto 6.029/2007. A CGU coordena o Sistema de Correição, não integra o Sistema de Gestão da Ética.",
+"e": "Decreto 6.029/2007, art. 2º"
+},
+{
+"p": "O Decreto 6.029/2007 aponta a transparência e o acesso à informação como instrumentos fundamentais para o exercício de gestão da ética pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 1º, II.",
+"e": "Decreto 6.029/2007, art. 1º, II"
+},
+{
+"p": "O Decreto 6.029/2007 aponta o sigilo e a reserva das informações como instrumentos fundamentais para o exercício de gestão da ética pública.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 1º, II.",
+"e": "Decreto 6.029/2007, art. 1º, II"
+},
+{
+"p": "A CEP é integrada por sete brasileiros de idoneidade moral, reputação ilibada e notória experiência em administração pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 3º.",
+"e": "Decreto 6.029/2007, art. 3º"
+},
+{
+"p": "A CEP é integrada por cinco brasileiros, escolhidos entre servidores efetivos com mais de dez anos de exercício.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 3º.",
+"e": "Decreto 6.029/2007, art. 3º"
+},
+{
+"p": "Os membros da CEP são designados pelo Presidente da República para mandatos de três anos, não coincidentes, permitida uma única recondução.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 3º.",
+"e": "Decreto 6.029/2007, art. 3º"
+},
+{
+"p": "Os membros da CEP são designados pelo Presidente da República para mandatos de dois anos, coincidentes, permitidas reconduções sucessivas.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 3º.",
+"e": "Decreto 6.029/2007, art. 3º"
+},
+{
+"p": "A atuação no âmbito da CEP não enseja qualquer remuneração para seus membros.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 3º, § 1º: relevante serviço público, sem remuneração.",
+"e": "Decreto 6.029/2007, art. 3º, § 1º"
+},
+{
+"p": "Os membros da CEP fazem jus a remuneração específica pela participação nas sessões.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 3º, § 1º: relevante serviço público, sem remuneração.",
+"e": "Decreto 6.029/2007, art. 3º, § 1º"
+},
+{
+"p": "O Presidente da CEP tem voto de qualidade nas deliberações da Comissão.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 3º, § 2º.",
+"e": "Decreto 6.029/2007, art. 3º, § 2º"
+},
+{
+"p": "Nas deliberações da CEP, em caso de empate, prevalece o voto do membro mais antigo.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 3º, § 2º.",
+"e": "Decreto 6.029/2007, art. 3º, § 2º"
+},
+{
+"p": "Compete à própria CEP escolher o seu Presidente.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 4º, VI.",
+"e": "Decreto 6.029/2007, art. 4º, VI"
+},
+{
+"p": "O Presidente da CEP é nomeado pelo Presidente da República, dentre os seus membros.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 4º, VI.",
+"e": "Decreto 6.029/2007, art. 4º, VI"
+},
+{
+"p": "Compete à CEP atuar como instância consultiva do Presidente da República e dos Ministros de Estado em matéria de ética pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 4º, I.",
+"e": "Decreto 6.029/2007, art. 4º, I"
+},
+{
+"p": "Compete à CEP atuar como instância consultiva do Congresso Nacional em matéria de ética parlamentar.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 4º, I.",
+"e": "Decreto 6.029/2007, art. 4º, I"
+},
+{
+"p": "Compete à CEP apurar, mediante denúncia ou de ofício, condutas em desacordo com o Código de Conduta da Alta Administração Federal praticadas pelas autoridades a ele submetidas.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 4º, II, c.",
+"e": "Decreto 6.029/2007, art. 4º, II, c"
+},
+{
+"p": "A CEP só pode apurar condutas das autoridades submetidas ao Código de Conduta da Alta Administração mediante denúncia formal identificada.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 4º, II, c.",
+"e": "Decreto 6.029/2007, art. 4º, II, c"
+},
+{
+"p": "Em relação ao Código de Ética do Decreto 1.171/1994, compete à CEP dirimir dúvidas de interpretação de suas normas.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 4º, III; a aplicação cabe às comissões dos órgãos (art. 7º, II).",
+"e": "Decreto 6.029/2007, arts. 4º, III, e 7º, II"
+},
+{
+"p": "Compete à CEP aplicar diretamente o Código de Ética do Decreto 1.171/1994 aos servidores de todos os órgãos, em substituição às comissões setoriais.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 4º, III; a aplicação cabe às comissões dos órgãos (art. 7º, II).",
+"e": "Decreto 6.029/2007, arts. 4º, III, e 7º, II"
+},
+{
+"p": "A CEP conta com Secretaria-Executiva vinculada à Casa Civil da Presidência da República.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 4º, parágrafo único.",
+"e": "Decreto 6.029/2007, art. 4º, parágrafo único"
+},
+{
+"p": "A Secretaria-Executiva da CEP é vinculada à Controladoria-Geral da União.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 4º, parágrafo único.",
+"e": "Decreto 6.029/2007, art. 4º, parágrafo único"
+},
+{
+"p": "Cada Comissão de Ética de órgão é integrada por três membros titulares e respectivos suplentes, escolhidos entre servidores e empregados do seu quadro permanente.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 5º.",
+"e": "Decreto 6.029/2007, art. 5º"
+},
+{
+"p": "Cada Comissão de Ética de órgão é integrada por cinco membros, podendo ser escolhidos ocupantes de cargos em comissão sem vínculo efetivo.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 5º.",
+"e": "Decreto 6.029/2007, art. 5º"
+},
+{
+"p": "Os membros das Comissões de Ética dos órgãos são designados pelo dirigente máximo da respectiva entidade ou órgão, para mandatos não coincidentes de três anos.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 5º.",
+"e": "Decreto 6.029/2007, art. 5º"
+},
+{
+"p": "Os membros das Comissões de Ética dos órgãos são designados pela CEP para mandatos de dois anos.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 5º.",
+"e": "Decreto 6.029/2007, art. 5º"
+},
+{
+"p": "É dever do titular do órgão assegurar as condições de trabalho para que as Comissões de Ética cumpram suas funções, inclusive para que do exercício das atribuições de seus integrantes não lhes resulte qualquer prejuízo ou dano.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 6º, I.",
+"e": "Decreto 6.029/2007, art. 6º"
+},
+{
+"p": "O Decreto 6.029/2007 não impõe ao titular do órgão deveres em relação ao funcionamento da Comissão de Ética, que é autônoma.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 6º, I.",
+"e": "Decreto 6.029/2007, art. 6º"
+},
+{
+"p": "Compete às Comissões de Ética dos órgãos supervisionar a observância do Código de Conduta da Alta Administração e comunicar à CEP situações que possam configurar seu descumprimento.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 7º, IV.",
+"e": "Decreto 6.029/2007, art. 7º, IV"
+},
+{
+"p": "Compete às Comissões de Ética dos órgãos apurar e punir as condutas das autoridades submetidas ao Código de Conduta da Alta Administração lotadas no órgão.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 7º, IV.",
+"e": "Decreto 6.029/2007, art. 7º, IV"
+},
+{
+"p": "Compete às Comissões de Ética dos órgãos recomendar, acompanhar e avaliar ações de disseminação, capacitação e treinamento sobre as normas de ética e disciplina.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 7º, II, d.",
+"e": "Decreto 6.029/2007, art. 7º, II, d"
+},
+{
+"p": "As Comissões de Ética dos órgãos têm função exclusivamente apuratória, cabendo a capacitação às escolas de governo.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 7º, II, d.",
+"e": "Decreto 6.029/2007, art. 7º, II, d"
+},
+{
+"p": "A Secretaria-Executiva de cada Comissão de Ética é chefiada por servidor ou empregado do quadro permanente, alocado sem aumento de despesas.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 7º, § 2º.",
+"e": "Decreto 6.029/2007, art. 7º, § 2º"
+},
+{
+"p": "A Secretaria-Executiva de cada Comissão de Ética deve ser chefiada por pessoa estranha ao quadro do órgão, para garantir a imparcialidade.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 7º, § 2º.",
+"e": "Decreto 6.029/2007, art. 7º, § 2º"
+},
+{
+"p": "Compete às instâncias superiores dos órgãos atender com prioridade às solicitações da CEP.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 8º, IV.",
+"e": "Decreto 6.029/2007, art. 8º, IV"
+},
+{
+"p": "As solicitações da CEP devem ser atendidas pelos órgãos de acordo com a ordem cronológica de demandas, sem prioridade.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 8º, IV.",
+"e": "Decreto 6.029/2007, art. 8º, IV"
+},
+{
+"p": "Os integrantes da Rede de Ética reúnem-se, sob a coordenação da CEP, pelo menos uma vez por ano, em fórum específico.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 9º, parágrafo único.",
+"e": "Decreto 6.029/2007, art. 9º"
+},
+{
+"p": "Os integrantes da Rede de Ética reúnem-se mensalmente, sob a coordenação da CGU.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 9º, parágrafo único.",
+"e": "Decreto 6.029/2007, art. 9º"
+},
+{
+"p": "Os trabalhos das comissões de ética devem ser desenvolvidos com celeridade e com proteção à honra e à imagem da pessoa investigada.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 10.",
+"e": "Decreto 6.029/2007, art. 10, I"
+},
+{
+"p": "Os trabalhos das comissões de ética não estão sujeitos à celeridade, devendo priorizar a ampla exposição pública dos fatos investigados.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 10.",
+"e": "Decreto 6.029/2007, art. 10, I"
+},
+{
+"p": "A identidade do denunciante deve ser mantida sob reserva, se este assim o desejar.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 10, II.",
+"e": "Decreto 6.029/2007, art. 10, II"
+},
+{
+"p": "A identidade do denunciante deve ser sempre revelada ao investigado, para garantir o contraditório.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 10, II.",
+"e": "Decreto 6.029/2007, art. 10, II"
+},
+{
+"p": "Qualquer cidadão pode provocar a atuação da CEP ou de Comissão de Ética para apuração de infração ética imputada a agente público.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 11: qualquer cidadão, agente público, PJ de direito privado, associação ou entidade de classe.",
+"e": "Decreto 6.029/2007, art. 11"
+},
+{
+"p": "Somente agentes públicos podem provocar a atuação das comissões de ética, vedada a provocação por particulares.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 11: qualquer cidadão, agente público, PJ de direito privado, associação ou entidade de classe.",
+"e": "Decreto 6.029/2007, art. 11"
+},
+{
+"p": "Para o Decreto 6.029/2007, é agente público quem presta serviço eventual a órgão federal, ainda que sem retribuição financeira.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 11, parágrafo único.",
+"e": "Decreto 6.029/2007, art. 11, parágrafo único"
+},
+{
+"p": "Para o Decreto 6.029/2007, o serviço eventual e não remunerado não caracteriza o prestador como agente público.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 11, parágrafo único.",
+"e": "Decreto 6.029/2007, art. 11, parágrafo único"
+},
+{
+"p": "Instaurado o processo de apuração ética, o investigado é notificado para manifestar-se, por escrito, no prazo de dez dias.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 12, caput.",
+"e": "Decreto 6.029/2007, art. 12"
+},
+{
+"p": "Instaurado o processo de apuração ética, o investigado é notificado para manifestar-se, oralmente, no prazo de cinco dias.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 12, caput.",
+"e": "Decreto 6.029/2007, art. 12"
+},
+{
+"p": "Juntados novos elementos de prova após a manifestação do investigado, ele será notificado para nova manifestação no prazo de dez dias.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 12, § 3º.",
+"e": "Decreto 6.029/2007, art. 12, § 3º"
+},
+{
+"p": "Juntados novos elementos de prova após a manifestação do investigado, a comissão decide sem nova oitiva, para garantir a celeridade.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 12, § 3º.",
+"e": "Decreto 6.029/2007, art. 12, § 3º"
+},
+{
+"p": "Concluindo pela existência de falta ética, a comissão pode encaminhar sugestão de exoneração de cargo ou função de confiança à autoridade hierarquicamente superior.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 12, § 5º, I: a comissão sugere.",
+"e": "Decreto 6.029/2007, art. 12, § 5º, I"
+},
+{
+"p": "Concluindo pela existência de falta ética, a própria comissão exonera o servidor do cargo em comissão que ocupa.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 12, § 5º, I: a comissão sugere.",
+"e": "Decreto 6.029/2007, art. 12, § 5º, I"
+},
+{
+"p": "O procedimento de apuração ética é mantido com a chancela de reservado até que esteja concluído.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 13, caput e § 1º.",
+"e": "Decreto 6.029/2007, art. 13"
+},
+{
+"p": "O procedimento de apuração ética é sigiloso de forma permanente, mesmo após a deliberação da comissão.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 13, caput e § 1º.",
+"e": "Decreto 6.029/2007, art. 13"
+},
+{
+"p": "O investigado tem direito de ter vista dos autos e de obter cópia, mesmo que ainda não tenha sido notificado da existência do procedimento.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 14.",
+"e": "Decreto 6.029/2007, art. 14"
+},
+{
+"p": "O investigado só tem direito de vista dos autos depois de apresentada a defesa escrita.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 14.",
+"e": "Decreto 6.029/2007, art. 14"
+},
+{
+"p": "A posse em cargo que submeta a autoridade ao Código de Conduta da Alta Administração deve ser precedida de consulta à CEP sobre situação que possa suscitar conflito de interesses.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 15, parágrafo único.",
+"e": "Decreto 6.029/2007, art. 15"
+},
+{
+"p": "A consulta à CEP sobre conflito de interesses é facultativa e só pode ser feita após a posse da autoridade.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 15, parágrafo único.",
+"e": "Decreto 6.029/2007, art. 15"
+},
+{
+"p": "Havendo omissão do código de ética, a comissão a supre pela analogia e pela invocação aos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 16.",
+"e": "Decreto 6.029/2007, art. 16"
+},
+{
+"p": "Havendo omissão do código de ética, a comissão deve deixar de decidir, por ausência de previsão normativa.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 16.",
+"e": "Decreto 6.029/2007, art. 16"
+},
+{
+"p": "Constatada a possível ocorrência de ilícito penal ou de improbidade, a comissão encaminha cópia dos autos às autoridades competentes, sem prejuízo das medidas de sua competência.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 17.",
+"e": "Decreto 6.029/2007, art. 17"
+},
+{
+"p": "Constatada a possível ocorrência de crime, a comissão de ética deve arquivar o procedimento ético, pois a esfera penal prevalece.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 17.",
+"e": "Decreto 6.029/2007, art. 17"
+},
+{
+"p": "As decisões das comissões de ética são resumidas em ementa e divulgadas no sítio do órgão com omissão dos nomes dos investigados.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 18.",
+"e": "Decreto 6.029/2007, art. 18"
+},
+{
+"p": "As decisões das comissões de ética são publicadas na íntegra no Diário Oficial, com o nome do investigado.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 18.",
+"e": "Decreto 6.029/2007, art. 18"
+},
+{
+"p": "Os trabalhos nas comissões de ética têm prioridade sobre as atribuições próprias dos cargos dos seus membros, quando estes não atuarem com exclusividade.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 19.",
+"e": "Decreto 6.029/2007, art. 19"
+},
+{
+"p": "Os trabalhos nas comissões de ética devem ser realizados somente após o cumprimento das atribuições próprias dos cargos dos seus membros.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 19.",
+"e": "Decreto 6.029/2007, art. 19"
+},
+{
+"p": "As autoridades não podem alegar sigilo para deixar de prestar informação solicitada pelas comissões de ética.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 20, § 2º.",
+"e": "Decreto 6.029/2007, art. 20, § 2º"
+},
+{
+"p": "As autoridades podem negar informação às comissões de ética quando o documento for classificado como sigiloso.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 20, § 2º.",
+"e": "Decreto 6.029/2007, art. 20, § 2º"
+},
+{
+"p": "A infração ética cometida por membro de comissão de ética de órgão é apurada pela CEP.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 21.",
+"e": "Decreto 6.029/2007, art. 21"
+},
+{
+"p": "A infração ética cometida por membro de comissão de ética de órgão é apurada pela corregedoria do respectivo órgão.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 21.",
+"e": "Decreto 6.029/2007, art. 21"
+},
+{
+"p": "A CEP mantém banco de dados de sanções éticas, para consulta pelos órgãos em casos de nomeação para cargo em comissão ou de alta relevância pública.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 22.",
+"e": "Decreto 6.029/2007, art. 22"
+},
+{
+"p": "O banco de dados de sanções éticas é mantido por cada órgão e não pode ser consultado para fins de nomeação.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 22.",
+"e": "Decreto 6.029/2007, art. 22"
+},
+{
+"p": "As normas dos códigos de ética aplicam-se, no que couber, aos agentes públicos mesmo quando em gozo de licença.",
+"c": true,
+"prof": "Certo.",
+"x": "Art. 24.",
+"e": "Decreto 6.029/2007, art. 24"
+},
+{
+"p": "As normas dos códigos de ética ficam suspensas enquanto o agente estiver em gozo de licença.",
+"c": false,
+"prof": "Errado.",
+"x": "Art. 24.",
+"e": "Decreto 6.029/2007, art. 24"
+},
+{
+"p": "De acordo com o Decreto 6.029/2007, a Comissão de Ética Pública é composta por",
+"alts": [
+"três membros, designados pelo Ministro da Justiça",
+"cinco membros, eleitos pelos servidores",
+"sete brasileiros, designados pelo Presidente da República",
+"nove membros, indicados pelo Congresso Nacional",
+"sete servidores efetivos, designados pela CGU"
+],
+"r": 2,
+"n": [
+"Número e autoridade errados.",
+"Não há eleição.",
+"Correta: art. 3º.",
+"Número e origem errados.",
+"Não precisam ser servidores; quem designa é o Presidente da República."
+],
+"x": "Art. 3º: sete brasileiros, designados pelo Presidente da República, mandato de 3 anos.",
+"e": "Decreto 6.029/2007, art. 3º"
+},
+{
+"p": "No processo de apuração ética do Decreto 6.029/2007, o prazo para o investigado manifestar-se por escrito após a notificação é de",
+"alts": [
+"cinco dias",
+"dez dias",
+"quinze dias",
+"vinte dias",
+"trinta dias"
+],
+"r": 1,
+"n": [
+"Prazo inexistente.",
+"Correta: art. 12.",
+"Prazo inexistente.",
+"Prazo inexistente.",
+"Prazo inexistente."
+],
+"x": "Dez dias, e mais dez se houver novas provas.",
+"e": "Decreto 6.029/2007, art. 12"
+},
+{
+"p": "A infração de natureza ética cometida por membro de Comissão de Ética de órgão ou entidade será apurada",
+"alts": [
+"pela própria comissão",
+"pelo dirigente máximo do órgão",
+"pela CGU",
+"pela CEP",
+"pelo Ministério Público Federal"
+],
+"r": 3,
+"n": [
+"Não.",
+"Não.",
+"Não.",
+"Correta: art. 21.",
+"Não."
+],
+"x": "A CEP apura a infração ética de membros das comissões dos órgãos.",
+"e": "Decreto 6.029/2007, art. 21"
+},
+{
+"p": "Concluindo pela existência de falta ética, a Comissão de Ética do órgão NÃO pode",
+"alts": [
+"encaminhar sugestão de exoneração de cargo de confiança",
+"encaminhar o caso à CGU para exame de transgressão disciplinar",
+"recomendar abertura de procedimento administrativo",
+"aplicar diretamente a pena de suspensão",
+"aplicar a censura ao servidor"
+],
+"r": 3,
+"n": [
+"Pode (art. 12, § 5º, I).",
+"Pode (art. 12, § 5º, II).",
+"Pode (art. 12, § 5º, III).",
+"Correta: suspensão é penalidade disciplinar.",
+"Pode (Decreto 1.171, regra XXII)."
+],
+"x": "Suspensão é penalidade disciplinar da Lei 8.112, aplicada pela autoridade competente.",
+"e": "Decreto 6.029/2007, art. 12, § 5º"
+}
+]
+},
+"cidadania-transparencia": {
+"html": "<h3>1. Cidadania: do conceito clássico ao cidadão que fiscaliza</h3>\n<ul><li><b>Cidadania</b>, em sentido estrito, é a condição de quem participa da vida política do Estado: votar, ser votado, propor leis por iniciativa popular, ajuizar ação popular. Em sentido amplo, que é o adotado pela Constituição de 1988 e cobrado em Ética e Cidadania, é o <b>conjunto de direitos e deveres</b> que permite à pessoa participar plenamente da vida social, política e econômica, com dignidade.</li><li>A Constituição coloca a cidadania entre os <b>fundamentos da República</b> (art. 1º, II), ao lado da soberania, da dignidade da pessoa humana, dos valores sociais do trabalho e da livre iniciativa e do pluralismo político. E o parágrafo único do art. 1º afirma: \"<b>todo o poder emana do povo</b>, que o exerce por meio de representantes eleitos ou diretamente\". A cidadania é, portanto, o modo como o povo exerce esse poder.</li><li>Uma referência clássica é a do sociólogo britânico <b>T. H. Marshall</b>, que descreveu a cidadania como a soma de três grupos de direitos, conquistados historicamente em sequência na Inglaterra: <b>direitos civis</b> (século XVIII: liberdade de ir e vir, de expressão, de propriedade, igualdade perante a lei), <b>direitos políticos</b> (século XIX: votar e ser votado) e <b>direitos sociais</b> (século XX: educação, saúde, previdência, trabalho). No Brasil, autores como José Murilo de Carvalho mostraram que a sequência foi diferente: os direitos sociais vieram em grande parte antes dos políticos e dos civis, muitas vezes concedidos por governos autoritários.</li><li>A cidadania não é só ter direitos: é também <b>cumprir deveres</b> (respeitar as leis, votar, pagar tributos, prestar o serviço militar, zelar pelo patrimônio público, respeitar os direitos dos outros) e <b>participar</b>, isto é, influenciar as decisões públicas e controlar quem as toma.</li></ul>\n<table class=\"tab\"><thead><tr><th>Dimensão da cidadania (Marshall);Exemplos de direitos;Onde estão na CF</th></tr></thead><tbody><tr><td>Civil;Liberdade, igualdade, propriedade, inviolabilidade do domicílio, devido processo;Art. 5º</td></tr><tr><td>Política;Votar, ser votado, plebiscito, referendo, iniciativa popular;Arts. 14 a 17</td></tr><tr><td>Social;Educação, saúde, trabalho, previdência, assistência, segurança;Arts. 6º a 11 e Título VIII</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cidadania na CF</span></span><span class=\"vs\"><span>Fundamento da República (art. 1º, II)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Todo poder emana do povo</span></span><span class=\"vs\"><span>Art. 1º, parágrafo único: representantes eleitos ou diretamente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marshall</span></span><span class=\"vs\"><span>Direitos civis, políticos e sociais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cidadania ampla</span></span><span class=\"vs\"><span>Direitos, deveres e participação</span></span></button></div></div>\n<h3>2. Ética e democracia: por que andam juntas</h3>\n<ul><li>A <b>democracia</b> é o regime em que o poder pertence ao povo e é exercido em seu benefício, com respeito às minorias e aos direitos fundamentais. Ela depende de algo que as leis sozinhas não garantem: <b>confiança</b>. O cidadão precisa confiar que as regras valem para todos, que os agentes públicos agem pelo interesse comum e que as decisões podem ser conhecidas e contestadas.</li><li>A <b>ética pública</b> é o conjunto de valores que sustenta essa confiança: honestidade, impessoalidade, responsabilidade, transparência, respeito ao cidadão. Sem ética, a democracia degenera em captura do Estado por interesses privados (patrimonialismo, clientelismo, corrupção).</li><li>A <b>transparência</b> é a ponte entre ética e democracia. Só é possível cobrar, criticar, votar conscientemente e controlar o poder se as informações públicas forem acessíveis. Por isso se diz que, na democracia, <b>a publicidade é a regra e o sigilo é a exceção</b>. É esse o espírito da <b>Lei de Acesso à Informação</b> (Lei 12.527/2011), núcleo normativo deste tópico.</li><li>Na prática, a ética e a democracia se encontram no <b>exercício da cidadania</b>: o cidadão que se informa, participa, denuncia, fiscaliza e exige prestação de contas; e o agente público que presta contas, informa, ouve e responde.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Em itens sobre \"ética e democracia: exercício da cidadania\", procure três ideias: <b>participação</b> (votar, propor, opinar), <b>controle social</b> (fiscalizar e denunciar) e <b>transparência</b> (acesso à informação como condição dos dois anteriores).</div>\n<h3>3. Instrumentos de participação e de controle social</h3>\n<ul><li><b>Participação direta</b> (CF, art. 14): <b>plebiscito</b> (consulta <b>prévia</b> ao ato), <b>referendo</b> (consulta <b>posterior</b>, para ratificar ou rejeitar) e <b>iniciativa popular</b> de leis (no plano federal, projeto subscrito por, no mínimo, <b>1% do eleitorado nacional</b>, distribuído por pelo menos <b>cinco Estados</b>, com não menos de <b>0,3%</b> dos eleitores de cada um deles, art. 61, § 2º).</li><li><b>Ação popular</b> (art. 5º, LXXIII): qualquer <b>cidadão</b> pode propor ação para anular ato lesivo ao patrimônio público, à <b>moralidade administrativa</b>, ao meio ambiente e ao patrimônio histórico e cultural, ficando isento de custas, salvo má-fé.</li><li><b>Direito de petição</b> e <b>obtenção de certidões</b> (art. 5º, XXXIV), independentemente do pagamento de taxas.</li><li><b>Denúncia aos Tribunais de Contas</b> (art. 74, § 2º): qualquer cidadão, partido, associação ou sindicato é parte legítima para denunciar irregularidades ao TCU.</li><li><b>Conselhos de políticas públicas</b> (saúde, educação, assistência social, segurança) com participação da sociedade, <b>audiências e consultas públicas</b>, <b>orçamento participativo</b> em alguns Municípios.</li><li><b>Ouvidorias</b>: canais para reclamações, denúncias, elogios, sugestões e solicitações. A <b>Lei 13.460/2017</b> (Código de Defesa do Usuário do Serviço Público) disciplina a participação, a proteção e a defesa dos direitos dos usuários e as ouvidorias.</li><li><b>Acesso à informação</b> (art. 5º, XXXIII; art. 37, § 3º, II; art. 216, § 2º): base constitucional da LAI.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instrumento;Quem usa;Para quê</th></tr></thead><tbody><tr><td>Plebiscito;Eleitorado, convocado pelo Congresso;Consulta antes do ato</td></tr><tr><td>Referendo;Eleitorado, autorizado pelo Congresso;Consulta depois do ato</td></tr><tr><td>Iniciativa popular;1% do eleitorado nacional, em 5 Estados, 0,3% em cada;Apresentar projeto de lei</td></tr><tr><td>Ação popular;Qualquer cidadão;Anular ato lesivo, inclusive à moralidade</td></tr><tr><td>Denúncia ao TCU;Cidadão, partido, associação, sindicato;Apontar irregularidades</td></tr><tr><td>Pedido de acesso à informação;Qualquer interessado;Obter informação pública</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O plebiscito é convocado depois do ato, para ratificá-lo</span><br>✅ <span class=\"certo\">plebiscito é <b>prévio</b>; o <b>referendo</b> é posterior</span></li><li>❌ <span class=\"banca\">A ação popular pode ser proposta por qualquer pessoa, inclusive pessoa jurídica</span><br>✅ <span class=\"certo\">só o <b>cidadão</b> (eleitor); pessoa jurídica não tem legitimidade (Súmula 365 do STF)</span></li><li>❌ <span class=\"banca\">O projeto de lei de iniciativa popular exige assinatura de 5% do eleitorado nacional</span><br>✅ <span class=\"certo\">exige <b>1%</b> do eleitorado nacional, distribuído por pelo menos <b>cinco Estados</b>, com <b>0,3%</b> em cada</span></li></ol></div>\n<h3>4. A Lei de Acesso à Informação: origem e lógica</h3>\n<ul><li>A <b>Lei 12.527/2011</b> (LAI) regulamenta o direito de acesso à informação previsto no <b>art. 5º, XXXIII</b>, no <b>art. 37, § 3º, II</b>, e no <b>art. 216, § 2º</b>, da Constituição. É uma <b>lei nacional</b>: vale para <b>União, Estados, Distrito Federal e Municípios</b>. No Executivo federal, é regulamentada pelo <b>Decreto 7.724/2012</b>. Estados e Municípios devem editar regulamentos próprios, respeitadas as normas gerais da lei.</li><li>Antes da LAI, o acesso dependia muitas vezes da boa vontade da autoridade, e a \"cultura do segredo\" predominava. A lei inverteu a lógica: <b>toda informação pública é, em princípio, acessível</b>, e o sigilo precisa ser <b>justificado</b> e <b>temporário</b>.</li><li><b>Quem se submete (art. 1º, parágrafo único)</b>: os <b>órgãos públicos</b> da administração direta dos <b>Poderes Executivo, Legislativo</b> (incluindo as <b>Cortes de Contas</b>) <b>e Judiciário</b> e do <b>Ministério Público</b>; as <b>autarquias, fundações públicas, empresas públicas, sociedades de economia mista</b> e demais entidades <b>controladas direta ou indiretamente</b> pelos entes federativos.</li><li><b>Entidades privadas sem fins lucrativos (art. 2º)</b>: aplicam-se as disposições da lei, <b>no que couber</b>, às entidades privadas sem fins lucrativos que recebam <b>recursos públicos</b> para a realização de ações de interesse público (por subvenção, contrato de gestão, termo de parceria, convênio etc.). A publicidade refere-se à <b>parcela dos recursos públicos recebidos</b> e à sua destinação.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Lei de Acesso à Informação aplica-se apenas ao Poder Executivo federal</span><br>✅ <span class=\"certo\">é lei <b>nacional</b>, aplicável aos <b>três Poderes</b>, ao <b>Ministério Público</b> e aos <b>Tribunais de Contas</b>, em <b>todos os entes</b></span></li><li>❌ <span class=\"banca\">As empresas públicas e as sociedades de economia mista não se submetem à LAI, por terem personalidade de direito privado</span><br>✅ <span class=\"certo\">submetem-se expressamente (art. 1º, parágrafo único, II)</span></li><li>❌ <span class=\"banca\">As entidades privadas sem fins lucrativos que recebem recursos públicos devem dar publicidade a todas as suas atividades e finanças</span><br>✅ <span class=\"certo\">a publicidade refere-se à <b>parcela dos recursos públicos</b> recebidos e à sua destinação</span></li></ol></div>\n<h3>5. Diretrizes (art. 3º) e conceitos (art. 4º)</h3>\n<ul><li>Os procedimentos da LAI destinam-se a assegurar o direito fundamental de acesso à informação, executados em conformidade com os princípios da Administração Pública e com as seguintes <b>diretrizes</b>:</li><li><b>I</b> – observância da <b>publicidade como preceito geral</b> e do <b>sigilo como exceção</b>;</li><li><b>II</b> – divulgação de informações de interesse público, <b>independentemente de solicitações</b>;</li><li><b>III</b> – utilização de meios de comunicação viabilizados pela <b>tecnologia da informação</b>;</li><li><b>IV</b> – fomento ao desenvolvimento da <b>cultura de transparência</b> na administração pública;</li><li><b>V</b> – desenvolvimento do <b>controle social</b> da administração pública.</li><li><b>Conceitos do art. 4º</b> que caem com frequência:</li><li><b>Informação</b>: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato.</li><li><b>Documento</b>: unidade de registro de informações, qualquer que seja o suporte ou formato.</li><li><b>Informação sigilosa</b>: aquela submetida temporariamente à restrição de acesso público em razão de sua imprescindibilidade para a segurança da sociedade e do Estado.</li><li><b>Informação pessoal</b>: aquela relacionada à pessoa natural identificada ou identificável.</li><li><b>Tratamento da informação</b>: conjunto de ações referentes à produção, recepção, classificação, utilização, acesso, reprodução, transporte, transmissão, distribuição, arquivamento, armazenamento, eliminação, avaliação, destinação ou controle da informação.</li><li><b>Disponibilidade</b>: qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados.</li><li><b>Autenticidade</b>: qualidade da informação produzida, expedida, recebida ou modificada por determinado indivíduo, equipamento ou sistema.</li><li><b>Integridade</b>: qualidade da informação não modificada, inclusive quanto à origem, trânsito e destino.</li><li><b>Primariedade</b>: qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Mnemônico das qualidades da informação: <b>\"DAIP\"</b> = <b>D</b>isponibilidade (pode ser conhecida), <b>A</b>utenticidade (sabe-se quem produziu), <b>I</b>ntegridade (não foi alterada), <b>P</b>rimariedade (veio da fonte, com detalhe máximo).</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diretriz I</span></span><span class=\"vs\"><span>Publicidade é a regra; sigilo, a exceção</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diretriz II</span></span><span class=\"vs\"><span>Divulgação independentemente de solicitação (transparência ativa)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Informação sigilosa</span></span><span class=\"vs\"><span>Restrição temporária por imprescindibilidade à segurança da sociedade e do Estado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Informação pessoal</span></span><span class=\"vs\"><span>Pessoa natural identificada ou identificável</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Primariedade</span></span><span class=\"vs\"><span>Coletada na fonte, com máximo detalhamento, sem modificações</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Integridade é a qualidade da informação coletada na fonte, com o máximo de detalhamento</span><br>✅ <span class=\"certo\">essa é a <b>primariedade</b>; integridade é a informação <b>não modificada</b></span></li><li>❌ <span class=\"banca\">Informação sigilosa é a restrita permanentemente, em razão de sua natureza</span><br>✅ <span class=\"certo\">a restrição é <b>temporária</b>, por imprescindibilidade à segurança da sociedade e do Estado</span></li></ol></div>\n<h3>6. Transparência ativa (arts. 6º a 9º)</h3>\n<ul><li><b>Transparência ativa</b> é a divulgação <b>por iniciativa do próprio órgão</b>, sem que ninguém peça. <b>Transparência passiva</b> é o atendimento aos <b>pedidos</b> de acesso.</li><li><b>Art. 8º</b>: é dever dos órgãos e entidades promover, <b>independentemente de requerimentos</b>, a divulgação, em local de fácil acesso, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas. No mínimo (§ 1º):</li><li>registro das <b>competências e estrutura organizacional</b>, endereços e telefones das unidades e horários de atendimento;</li><li>registros de quaisquer <b>repasses ou transferências</b> de recursos financeiros;</li><li>registros das <b>despesas</b>;</li><li>informações sobre <b>procedimentos licitatórios</b>, inclusive editais e resultados, e todos os <b>contratos</b> celebrados;</li><li>dados gerais para o acompanhamento de <b>programas, ações, projetos e obras</b>;</li><li><b>respostas a perguntas mais frequentes</b> da sociedade.</li><li><b>§ 2º</b>: para cumprir esse dever, devem utilizar todos os meios e instrumentos legítimos de que dispuserem, sendo <b>obrigatória a divulgação em sítios oficiais na internet</b>.</li><li><b>§ 4º</b>: os <b>Municípios com população de até 10.000 habitantes</b> ficam <b>dispensados</b> da divulgação obrigatória na internet, mantida a obrigação de divulgação, <b>em tempo real</b>, de informações relativas à <b>execução orçamentária e financeira</b>, nos termos da Lei de Responsabilidade Fiscal.</li><li>Os sítios devem atender a requisitos como: ferramenta de pesquisa, gravação de relatórios em formatos abertos e legíveis por máquina, atualização, indicação de instruções para comunicação com o órgão e <b>acessibilidade</b> para pessoas com deficiência (§ 3º).</li><li><b>Art. 9º</b>: o acesso também é assegurado mediante a criação de um <b>Serviço de Informações ao Cidadão (SIC)</b>, em local com condições apropriadas para atender e orientar o público, protocolizar documentos e requerimentos, e pela realização de <b>audiências ou consultas públicas</b> e incentivo à participação popular.</li></ul>\n<table class=\"tab\"><thead><tr><th>Transparência;Iniciativa;Exemplos</th></tr></thead><tbody><tr><td>Ativa;Do órgão, sem pedido;Portal da Transparência, salários, contratos, licitações, despesas, FAQ</td></tr><tr><td>Passiva;Do cidadão, por pedido;Pedido de acesso pelo SIC ou pelo Fala.BR</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os Municípios com até 10.000 habitantes estão dispensados de qualquer divulgação de informações</span><br>✅ <span class=\"certo\">ficam dispensados apenas da divulgação <b>obrigatória na internet</b>, mantida a divulgação <b>em tempo real</b> da execução orçamentária e financeira</span></li><li>❌ <span class=\"banca\">A divulgação em sítios oficiais na internet é facultativa</span><br>✅ <span class=\"certo\">é <b>obrigatória</b> (art. 8º, § 2º), ressalvada a exceção dos pequenos Municípios</span></li></ol></div>\n<h3>7. Transparência passiva: o pedido de acesso (arts. 10 a 14)</h3>\n<ul><li><b>Quem pode pedir (art. 10)</b>: <b>qualquer interessado</b>, pessoa física ou jurídica, brasileira ou estrangeira, por <b>qualquer meio legítimo</b>.</li><li><b>Identificação</b>: o pedido deve conter a <b>identificação do requerente</b> e a especificação da informação requerida. Mas a identificação <b>não pode conter exigências que inviabilizem</b> a solicitação (§ 1º).</li><li><b>Motivação</b>: <b>são vedadas quaisquer exigências relativas aos motivos</b> determinantes da solicitação de informações de interesse público (§ 3º). O cidadão não precisa dizer <b>por que</b> quer a informação.</li><li><b>Meio eletrônico</b>: os órgãos devem viabilizar alternativa de encaminhamento de pedidos por seus sítios oficiais na internet (§ 2º). No Executivo federal, a plataforma é o <b>Fala.BR</b>.</li><li><b>Prazos (art. 11)</b>: o órgão deve autorizar ou conceder o <b>acesso imediato</b> à informação disponível. Não sendo possível, deve, em prazo <b>não superior a 20 dias</b>: comunicar a data, o local e o modo para a consulta ou reprodução; indicar as razões de fato ou de direito da recusa, total ou parcial; ou comunicar que não possui a informação e indicar, se souber, quem a detém. O prazo de 20 dias pode ser <b>prorrogado por mais 10 dias</b>, mediante <b>justificativa expressa</b>, da qual será cientificado o requerente.</li><li><b>Informação já disponível ao público</b>: quando a informação estiver disponível em formato impresso, eletrônico ou em outro meio de acesso universal, o órgão pode apenas <b>indicar</b> ao requerente o lugar e a forma de acessá-la (art. 11, § 6º).</li><li><b>Gratuidade (art. 12)</b>: o serviço de busca e fornecimento da informação é <b>gratuito</b>, salvo nas hipóteses de <b>reprodução de documentos</b>, situação em que poderá ser cobrado exclusivamente o valor necessário ao <b>ressarcimento do custo</b> dos serviços e dos materiais. Fica <b>isento</b> quem declarar que não tem condições de pagar sem prejuízo do sustento próprio ou da família (Lei 7.115/1983).</li><li><b>Negativa (art. 11, § 4º, e art. 14)</b>: quando o acesso não for autorizado por se tratar de informação total ou parcialmente sigilosa, o requerente deve ser informado sobre a possibilidade de <b>recurso</b>, os prazos e as condições, e a autoridade a que se dirigir. Também é direito do requerente obter o <b>inteiro teor</b> da decisão de negativa (art. 14).</li><li><b>Acesso parcial (art. 7º, § 2º)</b>: quando não for autorizado o acesso integral por ser a informação parcialmente sigilosa, é assegurado o acesso à <b>parte não sigilosa</b>, por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo.</li></ul>\n<div class=\"lt-stats\"><div class=\"lt-stat\"><b>20 dias</b><span>prazo de resposta (art. 11)</span></div><div class=\"lt-stat\"><b>+10 dias</b><span>prorrogação com justificativa expressa</span></div><div class=\"lt-stat\"><b>10 dias</b><span>prazo para recorrer (art. 15)</span></div><div class=\"lt-stat\"><b>5 dias</b><span>prazo para a autoridade decidir o recurso (art. 15, parágrafo único)</span></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O pedido de acesso à informação deve conter a motivação do requerente</span><br>✅ <span class=\"certo\">são <b>vedadas</b> exigências relativas aos <b>motivos</b> (art. 10, § 3º)</span></li><li>❌ <span class=\"banca\">O prazo de resposta é de 30 dias, prorrogável por mais 30</span><br>✅ <span class=\"certo\">é de <b>20 dias</b>, prorrogável por <b>10</b>, com justificativa</span></li><li>❌ <span class=\"banca\">O fornecimento de informação é sempre gratuito, inclusive a reprodução de documentos</span><br>✅ <span class=\"certo\">a busca é gratuita; a <b>reprodução</b> pode ser cobrada pelo <b>custo</b>, com isenção para quem declarar hipossuficiência</span></li><li>❌ <span class=\"banca\">Se parte da informação for sigilosa, o pedido deve ser integralmente negado</span><br>✅ <span class=\"certo\">assegura-se o acesso à <b>parte não sigilosa</b></span></li></ol></div>\n<h3>8. Recursos (arts. 15 a 20 e Decreto 7.724/2012)</h3>\n<ul><li><b>Art. 15</b>: no caso de indeferimento de acesso ou às razões da negativa, o interessado pode interpor <b>recurso</b> no prazo de <b>10 dias</b> a contar da ciência, dirigido à <b>autoridade hierarquicamente superior</b> à que exarou a decisão, que deve se manifestar em <b>5 dias</b>.</li><li><b>Art. 16 (Executivo federal)</b>: negado o acesso, o requerente pode recorrer à <b>Controladoria-Geral da União</b>, que deliberará em <b>5 dias</b>, se: o acesso a informação não classificada como sigilosa for negado; a decisão de negativa de acesso a informação classificada não indicar a autoridade classificadora ou a hierarquicamente superior a quem possa ser dirigido pedido de desclassificação; os procedimentos de classificação não tiverem sido observados; ou estiverem sendo descumpridos prazos ou outros procedimentos da lei. A CGU só pode ser acionada depois de submetido o recurso a pelo menos uma autoridade hierarquicamente superior.</li><li><b>Art. 16, § 3º</b>: negado o acesso pela CGU, pode ser interposto recurso à <b>Comissão Mista de Reavaliação de Informações (CMRI)</b>.</li><li><b>Fluxo no Decreto 7.724/2012</b> (Executivo federal): pedido → recurso em <b>1ª instância</b> à autoridade hierarquicamente superior (10 dias para recorrer; 5 para decidir) → recurso em <b>2ª instância</b> à <b>autoridade máxima</b> do órgão (10 dias; 5 para decidir) → recurso à <b>CGU</b> (10 dias; 5 para decidir) → recurso à <b>CMRI</b> (10 dias).</li><li><b>Art. 18</b>: os procedimentos de revisão de decisões denegatórias proferidas em recurso e de revisão de classificação de documentos sigilosos serão objeto de regulamentação própria dos <b>Poderes Legislativo e Judiciário</b> e do <b>Ministério Público</b>, em seus respectivos âmbitos, assegurado ao solicitante o direito de ser informado sobre o andamento do pedido.</li></ul>\n<div class=\"lt-fluxo\"><span>Pedido (20 + 10 dias)</span> <em>→</em> <span>Recurso à autoridade superior (10 dias para recorrer; decisão em 5)</span> <em>→</em> <span>Recurso à autoridade máxima do órgão (Decreto 7.724)</span> <em>→</em> <span>Recurso à CGU (decisão em 5 dias)</span> <em>→</em> <span>Recurso à CMRI</span></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Recurso (art. 15)</span></span><span class=\"vs\"><span>10 dias da ciência; autoridade superior decide em 5</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CGU (art. 16)</span></span><span class=\"vs\"><span>Executivo federal; delibera em 5 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CMRI</span></span><span class=\"vs\"><span>Última instância administrativa no Executivo federal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Legislativo, Judiciário e MP</span></span><span class=\"vs\"><span>Regulamentação própria dos recursos (art. 18)</span></span></button></div></div>\n<h3>9. Restrições de acesso: o que não pode ser negado (art. 21)</h3>\n<ul><li><b>Não poderá ser negado acesso</b> à informação necessária à <b>tutela judicial ou administrativa de direitos fundamentais</b> (art. 21, caput).</li><li><b>Parágrafo único</b>: as informações ou documentos que versem sobre <b>condutas que impliquem violação dos direitos humanos</b> praticada por agentes públicos ou a mando de autoridades públicas <b>não poderão ser objeto de qualquer restrição de acesso</b>.</li><li><b>Art. 22</b>: a lei não exclui as <b>demais hipóteses legais de sigilo</b> e de segredo de justiça, nem as hipóteses de segredo industrial decorrentes da exploração direta de atividade econômica pelo Estado ou por pessoa física ou entidade privada que tenha qualquer vínculo com o poder público. Exemplos: sigilo fiscal, bancário, segredo de justiça em processos de família, sigilo do inquérito policial na forma da lei.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Informações sobre violações de direitos humanos praticadas por agentes públicos podem ser classificadas como ultrassecretas pelo prazo de 25 anos</span><br>✅ <span class=\"certo\"><b>não podem</b> ser objeto de <b>qualquer restrição</b> de acesso (art. 21, parágrafo único)</span></li><li>❌ <span class=\"banca\">A LAI revogou os demais sigilos legais, como o fiscal e o bancário</span><br>✅ <span class=\"certo\">o art. 22 <b>mantém</b> as demais hipóteses legais de sigilo e de segredo de justiça</span></li></ol></div>\n<h3>10. Classificação da informação sigilosa (arts. 23 a 30)</h3>\n<ul><li><b>Hipóteses de classificação (art. 23)</b>: são passíveis de classificação as informações cuja divulgação ou acesso irrestrito possam, entre outras situações: pôr em risco a <b>defesa e a soberania nacionais</b> ou a integridade do território; prejudicar a condução de <b>negociações ou relações internacionais</b>; pôr em risco a <b>vida, a segurança ou a saúde da população</b>; oferecer elevado risco à <b>estabilidade financeira, econômica ou monetária</b> do País; prejudicar planos ou operações estratégicos das <b>Forças Armadas</b>; prejudicar projetos de <b>pesquisa científica ou tecnológica</b> de interesse estratégico; pôr em risco a segurança de <b>instituições ou de altas autoridades</b> nacionais ou estrangeiras e seus familiares; ou comprometer <b>atividades de inteligência</b>, bem como de <b>investigação ou fiscalização</b> em andamento, relacionadas com a prevenção ou repressão de infrações.</li><li><b>Graus e prazos máximos (art. 24)</b>:</li><li><b>Ultrassecreta</b>: até <b>25 anos</b>;</li><li><b>Secreta</b>: até <b>15 anos</b>;</li><li><b>Reservada</b>: até <b>5 anos</b>.</li><li>Os prazos contam da <b>data de produção</b> da informação. Alternativamente, pode-se estabelecer como termo final a ocorrência de determinado <b>evento</b>, desde que ocorra antes do prazo máximo. Transcorrido o prazo ou consumado o evento, a informação torna-se, <b>automaticamente</b>, de acesso público.</li><li><b>Presidente e Vice-Presidente (art. 24, § 2º)</b>: as informações que puderem colocar em risco a segurança do Presidente e do Vice-Presidente da República e respectivos cônjuges e filhos(as) serão classificadas como <b>reservadas</b> e ficarão sob sigilo <b>até o término do mandato</b> em exercício ou do <b>último mandato</b>, em caso de reeleição.</li><li><b>Critério de classificação (art. 24, § 5º)</b>: deve-se observar o interesse público da informação e utilizar o <b>critério menos restritivo possível</b>, considerando a gravidade do risco ou dano e o prazo máximo ou o evento que defina seu termo final.</li><li><b>Prorrogação</b>: no Executivo federal, a <b>CMRI</b> pode prorrogar o prazo de sigilo da informação <b>ultrassecreta</b>, <b>uma única vez</b>, por <b>período determinado não superior a 25 anos</b>, enquanto seu acesso ou divulgação puder ocasionar ameaça externa à soberania nacional, à integridade do território ou grave risco às relações internacionais (art. 35, § 1º, III). Assim, o sigilo máximo possível é de <b>50 anos</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Grau;Prazo máximo;Quem classifica (Executivo federal, art. 27)</th></tr></thead><tbody><tr><td>Ultrassecreta;25 anos (prorrogável uma vez por até 25, pela CMRI);Presidente, Vice, Ministros e equivalentes, Comandantes das Forças, chefes de missões diplomáticas no exterior</td></tr><tr><td>Secreta;15 anos;As anteriores + titulares de autarquias, fundações, empresas públicas e sociedades de economia mista</td></tr><tr><td>Reservada;5 anos;As anteriores + ocupantes de cargos de direção, comando ou chefia de nível equivalente ao antigo DAS 101.5 ou superior</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Mnemônico dos prazos: <b>\"25-15-5\"</b>, do mais grave para o mais leve: <b>U</b>ltrassecreta 25, <b>S</b>ecreta 15, <b>R</b>eservada 5. Pense em \"<b>USR</b>\" e em \"<b>descer de 10 em 10</b>\" até o 5.</div>\n<ul><li><b>Competência (art. 27)</b>: a classificação <b>ultrassecreta</b> é competência do Presidente da República, do Vice-Presidente, dos Ministros de Estado e autoridades com as mesmas prerrogativas, dos Comandantes da Marinha, do Exército e da Aeronáutica e dos Chefes de Missões Diplomáticas e Consulares permanentes no exterior. A <b>secreta</b> acrescenta os titulares de autarquias, fundações, empresas públicas e sociedades de economia mista. A <b>reservada</b> acrescenta as autoridades que exerçam funções de direção, comando ou chefia de nível equivalente ao antigo DAS 101.5 ou superior. A competência para classificar como ultrassecreta e secreta pode ser <b>delegada</b> a agente público, inclusive em missão no exterior, <b>vedada a subdelegação</b>. Para a prova, guarde o essencial: cada grau inclui as autoridades do grau mais alto, e a lista cresce conforme o sigilo diminui.</li><li><b>Decisão de classificação (art. 28)</b>: deve ser formalizada com, no mínimo, o <b>assunto</b>, o <b>fundamento</b> da classificação (observados os critérios do art. 24), a indicação do <b>prazo de sigilo</b> (contado em anos, meses ou dias, ou do evento) e a <b>identificação da autoridade</b> que a classificou.</li><li><b>Reavaliação (art. 29)</b>: a classificação será <b>reavaliada</b> pela autoridade classificadora ou por autoridade hierarquicamente superior, mediante provocação ou de ofício, para <b>desclassificação</b> ou <b>redução do prazo</b> de sigilo.</li><li><b>Transparência sobre o sigilo (art. 30)</b>: a autoridade máxima de cada órgão publicará, <b>anualmente</b>, em sítio na internet, o <b>rol das informações desclassificadas</b> nos últimos 12 meses, o <b>rol de documentos classificados</b> em cada grau de sigilo (com identificação para referência futura) e <b>relatório estatístico</b> com a quantidade de pedidos recebidos, atendidos e indeferidos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A informação reservada pode permanecer em sigilo por até 15 anos</span><br>✅ <span class=\"certo\">reservada: até <b>5 anos</b>; secreta: até 15; ultrassecreta: até 25</span></li><li>❌ <span class=\"banca\">O prazo de sigilo conta da data em que a informação foi classificada</span><br>✅ <span class=\"certo\">conta da <b>data de produção</b> da informação</span></li><li>❌ <span class=\"banca\">Vencido o prazo de sigilo, a informação só se torna pública após ato expresso de desclassificação</span><br>✅ <span class=\"certo\">torna-se pública <b>automaticamente</b></span></li><li>❌ <span class=\"banca\">As informações que possam pôr em risco a segurança do Presidente e de sua família são ultrassecretas por 25 anos</span><br>✅ <span class=\"certo\">são <b>reservadas</b> até o <b>término do mandato</b> (ou do último, se houver reeleição)</span></li></ol></div>\n<h3>11. Informações pessoais (art. 31)</h3>\n<ul><li>O tratamento das informações pessoais deve ser feito de forma <b>transparente</b> e com <b>respeito à intimidade, vida privada, honra e imagem</b> das pessoas, bem como às liberdades e garantias individuais.</li><li>As informações pessoais relativas à intimidade, vida privada, honra e imagem: terão seu acesso <b>restrito</b>, <b>independentemente de classificação de sigilo</b>, pelo prazo máximo de <b>100 anos</b> a contar da sua data de produção, a <b>agentes públicos legalmente autorizados</b> e à <b>pessoa a que elas se referirem</b>; e poderão ter autorizada sua divulgação ou acesso por terceiros diante de <b>previsão legal</b> ou <b>consentimento expresso</b> da pessoa a que se referirem.</li><li>O <b>consentimento não será exigido</b> quando as informações forem necessárias: à prevenção e diagnóstico médico, quando a pessoa estiver física ou legalmente incapaz, e para utilização única e exclusivamente para o tratamento médico; à realização de estatísticas e pesquisas científicas de evidente interesse público ou geral, previstos em lei, sendo <b>vedada a identificação</b> da pessoa; ao cumprimento de <b>ordem judicial</b>; à defesa de <b>direitos humanos</b>; ou à proteção do interesse público e geral preponderante.</li><li>A restrição de acesso à informação pessoal <b>não pode ser invocada</b> com o intuito de prejudicar processo de apuração de irregularidades em que o titular estiver envolvido, bem como em ações voltadas para a recuperação de fatos históricos de maior relevância.</li><li>Aquele que obtiver acesso às informações pessoais será <b>responsabilizado</b> por seu uso indevido.</li><li><b>Remuneração de servidores</b>: o STF decidiu ser legítima a publicação, em sítio eletrônico, do <b>nome dos servidores e do valor dos vencimentos</b> e vantagens pecuniárias (ARE 652.777, repercussão geral). A remuneração de agente público não é informação de intimidade: é dado de interesse público.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Informação pessoal</span></span><span class=\"vs\"><span>Acesso restrito por até 100 anos, independentemente de classificação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quem acessa</span></span><span class=\"vs\"><span>Agentes legalmente autorizados e a própria pessoa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Terceiros</span></span><span class=\"vs\"><span>Com previsão legal ou consentimento expresso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Salário de servidor</span></span><span class=\"vs\"><span>Pode ser divulgado com o nome (STF, ARE 652.777)</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A informação pessoal precisa ser classificada como reservada para ter o acesso restrito</span><br>✅ <span class=\"certo\">a restrição ocorre <b>independentemente de classificação de sigilo</b></span></li><li>❌ <span class=\"banca\">O prazo máximo de restrição da informação pessoal é de 25 anos</span><br>✅ <span class=\"certo\">é de <b>100 anos</b> a contar da produção</span></li><li>❌ <span class=\"banca\">A divulgação nominal da remuneração dos servidores em portal da transparência viola a intimidade</span><br>✅ <span class=\"certo\">o STF considerou <b>legítima</b> a divulgação (ARE 652.777)</span></li></ol></div>\n<h3>12. Responsabilidades (arts. 32 a 34)</h3>\n<ul><li><b>Condutas ilícitas do agente público ou militar (art. 32)</b>: recusar-se a fornecer informação requerida, retardar deliberadamente o seu fornecimento ou fornecê-la intencionalmente de forma incorreta, incompleta ou imprecisa; utilizar indevidamente, subtrair, destruir, inutilizar, desfigurar, alterar ou ocultar informação sob sua guarda; agir com <b>dolo ou má-fé</b> na análise das solicitações; divulgar ou permitir a divulgação, ou acessar ou permitir acesso indevido, a informação sigilosa ou pessoal; impor sigilo à informação para obter <b>proveito pessoal</b> ou de terceiro, ou para fins de <b>ocultação de ato ilegal</b>; ocultar da revisão de autoridade superior competente informação sigilosa para beneficiar a si ou a outrem, ou em prejuízo de terceiros; e destruir ou subtrair documentos concernentes a possíveis violações de direitos humanos por parte de agentes do Estado.</li><li><b>Sanções</b>: para os <b>militares</b>, as condutas são consideradas <b>transgressões militares médias ou graves</b>, segundo os regulamentos disciplinares, desde que não tipificadas como crime ou contravenção. Para os <b>servidores</b> regidos pela Lei 8.112, são <b>infrações administrativas</b>, que devem ser apenadas, <b>no mínimo, com suspensão</b>, segundo os critérios da própria lei. As condutas também podem configurar <b>improbidade administrativa</b>, e o agente responde ainda civil e penalmente.</li><li><b>Pessoa física ou entidade privada (art. 33)</b>: a pessoa física ou entidade privada que detiver informações em virtude de <b>vínculo</b> de qualquer natureza com o poder público e deixar de observar a lei está sujeita a: <b>advertência</b>; <b>multa</b>; <b>rescisão do vínculo</b> com o poder público; <b>suspensão temporária</b> de participar em licitação e impedimento de contratar com a administração pública por prazo <b>não superior a 2 anos</b>; e <b>declaração de inidoneidade</b> para licitar ou contratar, até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade. A reabilitação será autorizada somente quando o interessado efetivar o ressarcimento ao órgão ou entidade dos prejuízos resultantes e após decorrido o prazo da sanção de suspensão.</li><li><b>Responsabilidade objetiva do Estado (art. 34)</b>: os órgãos e entidades públicas respondem <b>diretamente</b> pelos danos causados em decorrência da <b>divulgação não autorizada</b> ou <b>utilização indevida</b> de informações sigilosas ou pessoais, cabendo a apuração de responsabilidade funcional nos casos de dolo ou culpa, assegurado o direito de regresso.</li></ul>\n<table class=\"tab\"><thead><tr><th>Sujeito;Consequência pela violação da LAI</th></tr></thead><tbody><tr><td>Servidor (Lei 8.112);Infração administrativa punida, no mínimo, com suspensão; possível improbidade</td></tr><tr><td>Militar;Transgressão militar média ou grave</td></tr><tr><td>Pessoa física ou entidade privada com vínculo;Advertência, multa, rescisão, suspensão de licitar (até 2 anos), inidoneidade</td></tr><tr><td>Órgão ou entidade pública;Responde diretamente pelos danos, com regresso contra o agente culpado</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O servidor que recusa indevidamente o fornecimento de informação está sujeito, no máximo, à advertência</span><br>✅ <span class=\"certo\">a infração deve ser apenada, <b>no mínimo, com suspensão</b></span></li><li>❌ <span class=\"banca\">A suspensão de licitar aplicada a entidade privada que viola a LAI pode chegar a 5 anos</span><br>✅ <span class=\"certo\">o prazo <b>não é superior a 2 anos</b></span></li></ol></div>\n<h3>13. A estrutura de controle no Executivo federal</h3>\n<ul><li><b>Comissão Mista de Reavaliação de Informações (CMRI)</b>: decide, no âmbito da administração federal, sobre o tratamento e a classificação de informações sigilosas. Pode requisitar esclarecimentos, rever a classificação de informações ultrassecretas ou secretas (de ofício ou mediante provocação, no máximo a cada 4 anos), e <b>prorrogar uma única vez</b> o prazo das ultrassecretas. A revisão de ofício a cada quatro anos, se não ocorrer, implica a <b>desclassificação automática</b> das informações.</li><li><b>Controladoria-Geral da União</b>: é a instância recursal (art. 16) e monitora a aplicação da lei no Executivo federal, com relatórios e orientações.</li><li><b>Gabinete de Segurança Institucional</b>: trata da segurança das informações classificadas e do credenciamento de pessoas para acesso a elas.</li><li><b>Autoridade de monitoramento (art. 40)</b>: em cada órgão, o dirigente máximo designa uma autoridade, diretamente subordinada a ele, para assegurar o cumprimento da lei, monitorar sua implementação, recomendar medidas e orientar as unidades.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CMRI</span></span><span class=\"vs\"><span>Revê classificações; prorroga ultrassecreta uma vez; revisão a cada 4 anos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sem revisão em 4 anos</span></span><span class=\"vs\"><span>Desclassificação automática</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Autoridade de monitoramento</span></span><span class=\"vs\"><span>Subordinada ao dirigente máximo; assegura o cumprimento da LAI</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 34</span></span><span class=\"vs\"><span>Estado responde diretamente pelo dano da divulgação indevida</span></span></button></div></div>\n<h3>14. LAI, LGPD e transparência fiscal</h3>\n<ul><li>A <b>LGPD (Lei 13.709/2018)</b> e a LAI convivem. A LAI garante o acesso a informações <b>públicas</b>; a LGPD protege os <b>dados pessoais</b>. Não há contradição: o órgão deve divulgar o que é de interesse público (contratos, despesas, salários de servidores) e proteger o que é pessoal e não tem interesse público (endereço residencial, dados de saúde, informações da vida privada). A LGPD inclusive prevê que o tratamento de dados pessoais pelo poder público deve atender à sua <b>finalidade pública</b>, na persecução do interesse público.</li><li>A <b>Lei de Responsabilidade Fiscal</b> (LC 101/2000), alterada pela <b>LC 131/2009</b> (Lei da Transparência), exige a divulgação <b>em tempo real</b>, em meios eletrônicos de acesso público, de informações pormenorizadas sobre a <b>execução orçamentária e financeira</b> de todos os entes. É por isso que mesmo os Municípios de até 10.000 habitantes, dispensados da divulgação geral da LAI na internet, continuam obrigados a divulgar em tempo real a execução orçamentária.</li><li>O <b>Portal da Transparência</b> do Governo Federal, mantido pela CGU, reúne despesas, receitas, convênios, servidores, sanções e cartões de pagamento. A política de <b>dados abertos</b> (Decreto 8.777/2016) determina a publicação de bases de dados em formato aberto, legível por máquina.</li></ul>\n<h3>15. Código de Defesa do Usuário do Serviço Público (Lei 13.460/2017)</h3>\n<ul><li>Complementa a LAI e reforça a cidadania no dia a dia. Entre os direitos básicos do usuário: participação no acompanhamento da prestação e na avaliação dos serviços; obtenção e utilização dos serviços com liberdade de escolha; acesso e obtenção de informações relativas à sua pessoa constantes de registros ou bancos de dados; proteção de suas informações pessoais; atuação integrada e sistêmica na expedição de atestados, certidões e documentos comprobatórios de regularidade.</li><li>Os órgãos devem divulgar a <b>Carta de Serviços ao Usuário</b>, com informações claras sobre os serviços prestados, requisitos, prazos e formas de acesso.</li><li>As <b>ouvidorias</b> recebem e analisam manifestações (reclamações, denúncias, sugestões, elogios e solicitações), e o usuário pode apresentá-las <b>sem necessidade de justificar</b> os motivos. A identificação do requerente é informação <b>pessoal protegida</b>, com restrição de acesso.</li><li>A lei também cria os <b>conselhos de usuários</b>, órgãos consultivos para acompanhar a prestação dos serviços e propor melhorias.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A LGPD revogou o direito de acesso à informação sobre remuneração de servidores</span><br>✅ <span class=\"certo\">as normas convivem; a remuneração de agente público é informação de <b>interesse público</b></span></li><li>❌ <span class=\"banca\">Para apresentar reclamação à ouvidoria, o usuário deve justificar os motivos</span><br>✅ <span class=\"certo\">a Lei 13.460 <b>dispensa</b> a justificativa dos motivos</span></li><li>❌ <span class=\"banca\">A divulgação em tempo real da execução orçamentária foi dispensada para os Municípios pequenos</span><br>✅ <span class=\"certo\">os Municípios de até 10.000 habitantes <b>continuam</b> obrigados a divulgá-la em tempo real</span></li></ol></div>\n<h3>16. A dimensão ética da transparência: accountability e poder visível</h3>\n<ul><li>O filósofo italiano <b>Norberto Bobbio</b> definiu a democracia como \"o governo do <b>poder público em público</b>\": o poder democrático é aquele que se exerce <b>à vista</b> dos cidadãos. O segredo, para ele, é característico das autocracias; na democracia, só se admite sigilo como exceção, justificada e controlável. A LAI concretiza essa ideia ao fixar que a publicidade é a regra.</li><li>Outro conceito central é o de <b>accountability</b>, termo inglês sem tradução exata, que reúne três ideias: o dever do agente público de <b>prestar contas</b> (informar o que fez e por quê), a possibilidade de ser <b>responsabilizado</b> pelo que fez, e a <b>capacidade de resposta</b> às demandas dos cidadãos. A ciência política distingue a <b>accountability vertical</b> (do cidadão sobre o governante, sobretudo pelo voto e pelo controle social) da <b>accountability horizontal</b> (de um órgão do Estado sobre outro: Tribunais de Contas, Ministério Público, Judiciário, controle interno).</li><li>A transparência é condição da accountability: não há como cobrar contas de quem não informa. E a accountability é condição da confiança, que sustenta a democracia.</li><li>Para o servidor, a ética da transparência significa: tratar o pedido de informação como <b>direito do cidadão</b>, e não como incômodo; responder dentro do prazo, de forma clara e completa; só negar com <b>fundamento legal</b> expresso; não \"esconder\" informações em formatos inacessíveis; e lembrar que os documentos públicos pertencem à sociedade, e não ao órgão ou ao chefe.</li><li>O <b>Código de Ética do servidor federal (Decreto 1.171/1994)</b> reforça essa visão: a publicidade de qualquer ato administrativo constitui requisito de <b>eficácia e moralidade</b>, e o servidor não pode omitir ou falsear a verdade, ainda que contrária aos interesses da própria pessoa interessada ou da Administração Pública. Também é dever do servidor tratar cuidadosamente os usuários dos serviços e ser ágil na prestação de contas.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Bobbio</span></span><span class=\"vs\"><span>Democracia como governo do poder público em público</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Accountability</span></span><span class=\"vs\"><span>Prestar contas, ser responsabilizado e responder</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Accountability vertical</span></span><span class=\"vs\"><span>Cidadão sobre o governante (voto, controle social)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Accountability horizontal</span></span><span class=\"vs\"><span>Órgão sobre órgão (TCU, MP, Judiciário)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 1.171</span></span><span class=\"vs\"><span>Publicidade como requisito de eficácia e moralidade</span></span></button></div></div>\n<h3>17. Banco de casos comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 1. O pedido sem motivo</b><p>Um cidadão pede à PRF a quantidade de multas aplicadas por excesso de velocidade em determinado trecho no último ano. O servidor responde exigindo que ele explique a finalidade do pedido.</p><details><summary>Ver a solução comentada</summary><p>A exigência é <b>ilegal</b>: são vedadas exigências relativas aos <b>motivos</b> do pedido de informação de interesse público (art. 10, § 3º). O órgão deve fornecer os dados estatísticos, sem dados pessoais dos autuados.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 2. A informação no site</b><p>Um jornalista pede a lista de contratos de um ministério celebrados em 2025. Todos estão publicados no portal do órgão.</p><details><summary>Ver a solução comentada</summary><p>O órgão pode simplesmente <b>indicar</b> o local e a forma de acesso (art. 11, § 6º), sem precisar reproduzir as informações.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 3. O prazo estourado</b><p>O órgão recebeu o pedido em 1º de março e, no dia 21, comunicou que precisaria de mais tempo, sem dar nenhuma justificativa.</p><details><summary>Ver a solução comentada</summary><p>A prorrogação de <b>10 dias</b> exige <b>justificativa expressa</b>, da qual o requerente deve ser cientificado. Sem justificativa, houve descumprimento de prazo, que permite recurso e, no Executivo federal, recurso à CGU (art. 16, IV).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 4. O documento parcialmente sigiloso</b><p>Um pesquisador pede o relatório de uma operação policial já encerrada; algumas páginas trazem métodos de inteligência ainda em uso.</p><details><summary>Ver a solução comentada</summary><p>Deve ser dado acesso à <b>parte não sigilosa</b>, com ocultação das páginas protegidas (art. 7º, § 2º), e informada a possibilidade de recurso quanto à parte negada.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 5. O salário do servidor</b><p>Um cidadão pede o salário bruto de um delegado da Polícia Federal. O órgão nega alegando que é informação pessoal.</p><details><summary>Ver a solução comentada</summary><p>A negativa é <b>indevida</b>: a remuneração de agente público é informação de interesse público, e o STF reconheceu a legitimidade da divulgação nominal (ARE 652.777). No Executivo federal, essa informação está no Portal da Transparência.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 6. A ficha médica</b><p>Um terceiro pede o prontuário médico de um servidor afastado por licença para tratamento de saúde.</p><details><summary>Ver a solução comentada</summary><p>Informação <b>pessoal</b> relativa à intimidade: acesso restrito por até 100 anos ao próprio titular e a agentes autorizados, salvo previsão legal, consentimento expresso ou as exceções do art. 31, § 3º. O pedido deve ser negado.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 7. O sigilo para esconder</b><p>Um diretor classifica como secreto um relatório de auditoria que aponta irregularidades em contratos da sua gestão.</p><details><summary>Ver a solução comentada</summary><p>Impor sigilo para <b>ocultar ato ilegal</b> é conduta ilícita (art. 32, VI). A classificação é inválida, e o diretor responde disciplinarmente (no mínimo suspensão) e, se houver dolo, por improbidade.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 8. A ditadura e os arquivos</b><p>Uma família pede documentos sobre a morte de um parente em dependência policial em 1975.</p><details><summary>Ver a solução comentada</summary><p>Informações sobre <b>violação de direitos humanos</b> praticada por agentes públicos <b>não podem</b> ter qualquer restrição de acesso (art. 21, parágrafo único). Também se aplica a regra de que a proteção de informação pessoal não pode impedir a recuperação de fatos históricos de maior relevância.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 9. A ONG com convênio</b><p>Uma associação sem fins lucrativos recebe recursos de convênio com o Município para manter uma creche. Um vereador pede a ela a prestação de contas desses recursos.</p><details><summary>Ver a solução comentada</summary><p>A LAI se aplica, <b>no que couber</b>, às entidades privadas sem fins lucrativos que recebem recursos públicos, quanto à <b>parcela pública</b> e à sua destinação (art. 2º). A associação deve dar publicidade ao uso dos recursos do convênio, mas não precisa abrir suas contas privadas sem relação com ele.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 10. O pequeno Município</b><p>Um Município de 8.000 habitantes não mantém portal com contratos e licitações.</p><details><summary>Ver a solução comentada</summary><p>Pela LAI, Municípios de até 10.000 habitantes estão dispensados da divulgação <b>obrigatória na internet</b>, mas devem divulgar a informação por outros meios (por exemplo, no mural da Prefeitura) e continuam obrigados a divulgar <b>em tempo real</b> a execução orçamentária e financeira (LRF).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 11. O pedido de dados em massa</b><p>Um usuário pede todas as mensagens de e-mail trocadas por todos os servidores de um ministério em um ano.</p><details><summary>Ver a solução comentada</summary><p>O Decreto 7.724/2012 permite <b>não conhecer</b> de pedidos <b>genéricos</b>, <b>desproporcionais ou desarrazoados</b>, ou que exijam trabalhos adicionais de análise, interpretação ou consolidação de dados que não sejam de competência do órgão. O órgão deve fundamentar a negativa e, se possível, orientar o requerente a delimitar o pedido.</p></details></div>\n<h3>18. Perguntas frequentes</h3>\n<ul><li><b>Estrangeiro pode pedir informação?</b> Sim. A lei fala em <b>qualquer interessado</b>, sem restrição de nacionalidade.</li><li><b>Empresa pode pedir?</b> Sim. Pessoa jurídica pode apresentar pedido de acesso (diferentemente da ação popular, restrita ao cidadão).</li><li><b>Posso pedir anonimamente?</b> O pedido exige <b>identificação</b> do requerente, mas sem exigências que inviabilizem a solicitação. Na prática, os sistemas permitem proteger a identidade do requerente quando houver justificativa. Já <b>denúncias</b> às ouvidorias podem ser feitas com preservação da identidade.</li><li><b>O órgão precisa produzir informação que não tem?</b> Não. Se não possui a informação, deve comunicar isso e indicar, se souber, quem a detém. Também não é obrigado a fazer trabalhos de análise ou consolidação que não sejam de sua competência.</li><li><b>Quem pode classificar uma informação como ultrassecreta?</b> No Executivo federal: Presidente, Vice-Presidente, Ministros e equivalentes, Comandantes das Forças Armadas e chefes de missões diplomáticas e consulares permanentes no exterior.</li><li><b>O sigilo pode durar para sempre?</b> Não. O máximo é de <b>25 anos</b> (ultrassecreta), prorrogável <b>uma única vez</b> pela CMRI, por até mais 25. Informações pessoais têm restrição de até <b>100 anos</b>, mas isso não é \"classificação\" de sigilo.</li><li><b>O inquérito policial é público pela LAI?</b> A LAI preserva as demais hipóteses legais de sigilo (art. 22) e admite classificação de informações que comprometam investigação em andamento. O inquérito tem regras próprias de sigilo no CPP, e o advogado tem acesso aos elementos já documentados (Súmula Vinculante 14).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Somente brasileiros podem apresentar pedido de acesso à informação</span><br>✅ <span class=\"certo\"><b>qualquer interessado</b>, inclusive estrangeiro e pessoa jurídica</span></li><li>❌ <span class=\"banca\">O órgão é obrigado a produzir relatórios novos, consolidando dados de vários sistemas, sempre que o cidadão pedir</span><br>✅ <span class=\"certo\">o Decreto 7.724 permite não conhecer de pedidos que exijam <b>trabalhos adicionais</b> de análise ou consolidação que não sejam de competência do órgão</span></li><li>❌ <span class=\"banca\">A LAI tornou públicos todos os inquéritos policiais</span><br>✅ <span class=\"certo\">o art. 22 <b>preserva</b> as demais hipóteses legais de sigilo</span></li></ol></div>\n<h3>19. Como as bancas cobram</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>O Cebraspe cobra com frequência os prazos (20 + 10 dias; recurso em 10 dias, decisão em 5), os graus de sigilo (25, 15 e 5 anos), a vedação de exigir motivação, a gratuidade (com a exceção da reprodução), a abrangência (três Poderes, MP, Tribunais de Contas, indireta e ONGs com recursos públicos, no que couber) e a regra das informações pessoais (100 anos). A FGV costuma montar casos com pedidos negados e perguntar qual a conduta correta do servidor ou o recurso cabível. Em Ética e Cidadania, os itens também cobram a relação entre transparência, controle social e democracia.</p></div>\n<ul><li><b>Checklist de resolução</b>: (1) A entidade se submete à LAI? (2) A informação é pública, sigilosa (classificada) ou pessoal? (3) Se sigilosa, qual o grau e o prazo? Quem classificou? (4) O pedido foi respondido no prazo? Houve justificativa da prorrogação? (5) Qual o recurso e para quem? (6) Houve conduta ilícita do agente (art. 32)?</li></ul>\n<h3>20. Como responder a uma discursiva sobre ética, democracia e transparência</h3>\n<ul><li><b>Introdução</b>: a cidadania como fundamento da República e a ideia de que todo poder emana do povo.</li><li><b>Desenvolvimento 1</b>: a relação entre ética pública, democracia e confiança; transparência como condição do controle social e da accountability.</li><li><b>Desenvolvimento 2</b>: a LAI como concretização do direito de acesso (publicidade como regra; transparência ativa e passiva; prazos; recursos; sigilo como exceção temporária; proteção das informações pessoais).</li><li><b>Desenvolvimento 3</b>: instrumentos de participação e controle (plebiscito, referendo, iniciativa popular, ação popular, ouvidorias, conselhos, Portal da Transparência).</li><li><b>Conclusão</b>: o papel do servidor público como garantidor da transparência e o do cidadão como fiscal da coisa pública.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Cite números e nomes certos: <b>Lei 12.527/2011</b>, <b>Decreto 7.724/2012</b>, <b>20 + 10 dias</b>, <b>25-15-5 anos</b>, <b>100 anos</b> para informações pessoais, <b>CGU</b> e <b>CMRI</b> como instâncias recursais no Executivo federal.</div>\n<h3>21. Resumo final do tópico</h3>\n<ul><li><b>Cidadania</b>: fundamento da República (art. 1º, II); direitos civis, políticos e sociais; deveres; participação e controle social.</li><li><b>Ética e democracia</b>: confiança, transparência e accountability; o poder público exercido em público.</li><li><b>LAI</b>: lei nacional; três Poderes, MP, Tribunais de Contas, indireta; ONGs com recursos públicos quanto à parcela pública.</li><li><b>Diretrizes</b>: publicidade como regra, sigilo como exceção; divulgação independentemente de solicitação; tecnologia; cultura de transparência; controle social.</li><li><b>Transparência ativa</b>: rol mínimo do art. 8º; internet obrigatória (salvo Municípios até 10.000 habitantes, que mantêm a divulgação em tempo real da execução orçamentária).</li><li><b>Pedido</b>: qualquer interessado; identificação sem exigências inviabilizadoras; <b>sem motivação</b>; resposta imediata ou em <b>20 dias</b>, prorrogáveis por <b>10</b>; gratuito, salvo custo de reprodução.</li><li><b>Recursos</b>: <b>10 dias</b> para a autoridade superior, que decide em <b>5</b>; no Executivo federal, CGU e CMRI.</li><li><b>Sigilo</b>: ultrassecreta <b>25</b>, secreta <b>15</b>, reservada <b>5</b> anos, contados da produção; Presidente e Vice: reservada até o fim do mandato; prorrogação única da ultrassecreta pela CMRI.</li><li><b>Proibido restringir</b>: informação para tutela de direitos fundamentais e sobre violações de direitos humanos por agentes públicos.</li><li><b>Informação pessoal</b>: até <b>100 anos</b>, independentemente de classificação.</li><li><b>Responsabilidade</b>: servidor, no mínimo <b>suspensão</b>; militar, transgressão média ou grave; entidades privadas, de advertência a inidoneidade; o Estado responde diretamente pelos danos da divulgação indevida.</li></ul>\n<div class=\"lt-stats\"><div class=\"lt-stat\"><b>20 + 10</b><span>dias para responder ao pedido</span></div><div class=\"lt-stat\"><b>25 / 15 / 5</b><span>anos: ultrassecreta, secreta, reservada</span></div><div class=\"lt-stat\"><b>100</b><span>anos de restrição das informações pessoais</span></div><div class=\"lt-stat\"><b>10.000</b><span>habitantes: limite dos Municípios dispensados da internet</span></div></div>\n<h3>22. Deveres do Estado e direitos do cidadão (arts. 5º a 7º)</h3>\n<ul><li><b>Art. 5º</b>: é dever do Estado garantir o direito de acesso à informação, que será franqueada, mediante <b>procedimentos objetivos e ágeis</b>, de forma <b>transparente, clara e em linguagem de fácil compreensão</b>. A linguagem clara é parte do dever: entregar um documento incompreensível não cumpre a lei.</li><li><b>Art. 6º</b>: cabe aos órgãos e entidades, observadas as normas e procedimentos específicos aplicáveis, assegurar: a <b>gestão transparente</b> da informação, propiciando amplo acesso a ela e sua divulgação; a <b>proteção da informação</b>, garantindo sua disponibilidade, autenticidade e integridade; e a <b>proteção da informação sigilosa e da informação pessoal</b>, observada a sua disponibilidade, autenticidade, integridade e eventual restrição de acesso. Repare no equilíbrio: o Estado deve, ao mesmo tempo, <b>abrir</b> o que é público e <b>proteger</b> o que é sigiloso ou pessoal.</li><li><b>Art. 7º</b>: o acesso à informação compreende, entre outros, os direitos de obter:</li><li><b>orientação</b> sobre os procedimentos para a consecução do acesso, bem como sobre o local onde poderá ser encontrada ou obtida a informação almejada;</li><li>informação contida em <b>registros ou documentos</b>, produzidos ou acumulados por seus órgãos ou entidades, recolhidos ou não a arquivos públicos;</li><li>informação produzida ou custodiada por <b>pessoa física ou entidade privada</b> decorrente de qualquer <b>vínculo</b> com seus órgãos ou entidades, mesmo que esse vínculo já tenha cessado;</li><li>informação <b>primária, íntegra, autêntica e atualizada</b>;</li><li>informação sobre <b>atividades</b> exercidas pelos órgãos e entidades, inclusive as relativas à sua política, organização e serviços;</li><li>informação pertinente à <b>administração do patrimônio público</b>, utilização de recursos públicos, licitação e contratos administrativos;</li><li>informação relativa à implementação, acompanhamento e resultados dos <b>programas, projetos e ações</b>, bem como metas e indicadores, e ao resultado de <b>inspeções, auditorias, prestações e tomadas de contas</b> realizadas pelos órgãos de controle interno e externo.</li><li><b>Art. 7º, § 3º</b>: o direito de acesso aos documentos ou às informações neles contidas utilizados como <b>fundamento da tomada de decisão</b> e do ato administrativo será assegurado com a <b>edição do ato decisório</b> respectivo. Ou seja: documentos preparatórios podem ter o acesso adiado até a decisão, mas não negado para sempre.</li><li><b>Art. 7º, § 4º</b>: a negativa de acesso, quando não fundamentada, sujeita o responsável a <b>medidas disciplinares</b>.</li><li><b>Art. 7º, §§ 5º e 6º</b>: informado do <b>extravio</b> da informação, o interessado pode requerer à autoridade competente a imediata abertura de sindicância para apurar o desaparecimento, e o responsável pela guarda deve, em 10 dias, justificar o fato e indicar testemunhas que comprovem sua alegação.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os documentos preparatórios de uma decisão administrativa nunca podem ser acessados pelo cidadão</span><br>✅ <span class=\"certo\">o acesso é assegurado com a <b>edição do ato decisório</b> (art. 7º, § 3º)</span></li><li>❌ <span class=\"banca\">A negativa de acesso sem fundamentação é mera irregularidade, sem consequência para o servidor</span><br>✅ <span class=\"certo\">sujeita o responsável a <b>medidas disciplinares</b> (art. 7º, § 4º)</span></li><li>❌ <span class=\"banca\">A informação produzida por entidade privada com vínculo com o poder público deixa de ser acessível quando o vínculo cessa</span><br>✅ <span class=\"certo\">o acesso é garantido <b>mesmo que o vínculo já tenha cessado</b></span></li></ol></div>\n<h3>23. Pontos do Decreto 7.724/2012 que caem em provas federais</h3>\n<ul><li>O decreto regulamenta a LAI no <b>Poder Executivo federal</b> e detalha procedimentos.</li><li><b>Serviço de Informações ao Cidadão (SIC)</b>: deve existir em todos os órgãos e entidades, em local identificado e de fácil acesso, para atender o público, informar sobre a tramitação de documentos e receber pedidos. O pedido pode ser feito também pela internet, no sistema eletrônico centralizado (hoje integrado ao <b>Fala.BR</b>).</li><li><b>Pedidos que não serão atendidos</b>: os <b>genéricos</b>; os <b>desproporcionais ou desarrazoados</b>; e os que exijam <b>trabalhos adicionais</b> de análise, interpretação ou consolidação de dados e informações, ou serviço de produção ou tratamento de dados que <b>não seja de competência</b> do órgão. Nesse último caso, o órgão deve, se souber, indicar o local onde se encontram as informações a partir das quais o requerente poderá realizar a interpretação ou consolidação.</li><li><b>Transparência ativa obrigatória no Executivo federal</b>: além do rol da LAI, o decreto exige, por exemplo, a divulgação da <b>remuneração e do subsídio</b> recebidos por ocupante de cargo, posto, graduação, função e emprego público, incluindo auxílios, ajudas de custo, jetons e outras vantagens, de <b>maneira individualizada</b>.</li><li><b>Instâncias recursais</b>: autoridade hierarquicamente superior, autoridade máxima do órgão, CGU e CMRI, como visto.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pedido genérico, desproporcional ou que exija trabalho adicional</span></span><span class=\"vs\"><span>Pode não ser atendido (Decreto 7.724)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Remuneração individualizada</span></span><span class=\"vs\"><span>Transparência ativa obrigatória no Executivo federal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SIC</span></span><span class=\"vs\"><span>Atendimento presencial e protocolo de pedidos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fala.BR</span></span><span class=\"vs\"><span>Plataforma federal de pedidos e manifestações</span></span></button></div></div>\n<h3>24. Revisão relâmpago</h3>\n<ul><li>A LAI vale para os Municípios? <b>Sim, é lei nacional.</b></li><li>Precisa justificar o pedido? <b>Não.</b></li><li>Prazo de resposta? <b>Imediato ou até 20 dias, prorrogáveis por 10 com justificativa.</b></li><li>É gratuito? <b>Sim, salvo custo de reprodução; isento quem declara hipossuficiência.</b></li><li>Prazo para recorrer? <b>10 dias.</b> Para decidir? <b>5 dias.</b></li><li>Graus de sigilo? <b>Ultrassecreta 25, secreta 15, reservada 5 anos.</b></li><li>Prorrogação? <b>Só a ultrassecreta, uma vez, pela CMRI.</b></li><li>Informação pessoal? <b>Até 100 anos, independentemente de classificação.</b></li><li>Violação de direitos humanos por agentes públicos? <b>Nenhuma restrição de acesso.</b></li><li>Servidor que nega informação sem fundamento? <b>Responde disciplinarmente; no mínimo suspensão nas condutas do art. 32.</b></li><li>Salário de servidor? <b>Público, inclusive com o nome.</b></li></ul>\n<h3>25. Treino com prazos: contando os dias de um pedido</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Pedido simples</b><ol><li><span>Pedido protocolado; o órgão não tem a informação disponível de imediato</span></li><li><span>Prazo inicial: até 20 dias</span></li><li><span>Com justificativa expressa comunicada ao requerente: + 10 dias</span></li></ol><span class=\"res\">Prazo máximo: 30 dias</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Recurso em primeira instância</b><ol><li><span>Resposta negativa recebida pelo requerente</span></li><li><span>Prazo para recorrer: 10 dias a contar da ciência</span></li><li><span>Autoridade hierarquicamente superior decide em até 5 dias</span></li></ol><span class=\"res\">Se negado de novo, recurso à autoridade máxima (Decreto 7.724) e depois à CGU</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Sigilo de uma informação secreta</b><ol><li><span>Documento produzido em março de 2020 e classificado como secreto</span></li><li><span>Prazo máximo: 15 anos da produção</span></li><li><span>2020 + 15 = 2035</span></li></ol><span class=\"res\">Torna-se pública automaticamente em março de 2035, salvo desclassificação anterior</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Ultrassecreta prorrogada</b><ol><li><span>Documento ultrassecreto produzido em 2000</span></li><li><span>Prazo inicial: 25 anos, até 2025</span></li><li><span>A CMRI prorroga uma única vez, por até 25 anos</span></li></ol><span class=\"res\">Sigilo máximo possível: até 2050</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Informação pessoal</b><ol><li><span>Prontuário de servidor produzido em 2010</span></li><li><span>Restrição de acesso a terceiros: até 100 anos da produção</span></li><li><span>2010 + 100 = 2110</span></li></ol><span class=\"res\">Salvo consentimento, previsão legal ou exceções do art. 31, § 3º</span></div>\n<h3>26. Três frases para levar para a prova</h3>\n<ul><li>\"<b>Publicidade é a regra, sigilo é a exceção, e quem pede não precisa dizer por quê.</b>\"</li><li>\"<b>Vinte mais dez para responder; dez para recorrer; cinco para decidir.</b>\"</li><li>\"<b>Ultrassecreta 25, secreta 15, reservada 5; pessoal, 100; direitos humanos, nunca sigilosos.</b>\"</li><li>Junte essas frases à ideia de que a transparência é a ponte entre a <b>ética pública</b> e a <b>democracia</b>, porque permite a participação e o controle social, e você terá a espinha dorsal deste tópico, tanto para itens objetivos quanto para questões discursivas.</li></ul>\n<h3>27. O servidor diante do pedido: roteiro de boa conduta</h3>\n<ul><li><b>Recebeu o pedido</b>: registre, confira se a informação é da competência do órgão e, se não for, indique quem a detém.</li><li><b>Analise a natureza</b>: é informação pública, classificada ou pessoal? Se for parcialmente sigilosa, separe a parte que pode ser entregue.</li><li><b>Responda no prazo</b>: de imediato, se a informação estiver disponível; senão, em até 20 dias, prorrogando por 10 apenas com justificativa comunicada ao requerente.</li><li><b>Fundamente a negativa</b>: indique o dispositivo legal, a autoridade classificadora (se houver) e a possibilidade de recurso, com prazo e destinatário.</li><li><b>Use linguagem clara</b>: entregue a informação em formato compreensível e, quando possível, aberto.</li><li><b>Proteja o que é pessoal</b>: não exponha dados de terceiros, e lembre que o uso indevido gera responsabilidade.</li><li>Esse roteiro traduz em atitudes concretas os valores do Código de Ética: cortesia, presteza, transparência e respeito ao cidadão.</li></ul>",
+"quiz": [
+{
+"p": "A cidadania é um dos fundamentos da República Federativa do Brasil.",
+"c": true,
+"x": "CF, art. 1º, II.",
+"e": "CF, art. 1º, II."
+},
+{
+"p": "Segundo a Constituição, todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente.",
+"c": true,
+"x": "Art. 1º, parágrafo único.",
+"e": "CF, art. 1º, parágrafo único."
+},
+{
+"p": "Na classificação de T. H. Marshall, a cidadania compreende direitos civis, políticos e sociais.",
+"c": true,
+"x": "Conquistados, na Inglaterra, nos séculos XVIII, XIX e XX.",
+"e": "Marshall."
+},
+{
+"p": "O plebiscito é a consulta popular realizada após a edição do ato, para ratificá-lo ou rejeitá-lo.",
+"c": false,
+"x": "Essa é a definição de referendo; o plebiscito é prévio.",
+"e": "CF, art. 14; Lei 9.709/1998."
+},
+{
+"p": "A iniciativa popular de lei federal exige projeto subscrito por, no mínimo, um por cento do eleitorado nacional, distribuído pelo menos por cinco Estados, com não menos de três décimos por cento dos eleitores de cada um deles.",
+"c": true,
+"x": "CF, art. 61, § 2º.",
+"e": "CF, art. 61, § 2º."
+},
+{
+"p": "A pessoa jurídica tem legitimidade para propor ação popular.",
+"c": false,
+"x": "Só o cidadão (Súmula 365 do STF).",
+"e": "Súmula 365/STF."
+},
+{
+"p": "Qualquer cidadão, partido político, associação ou sindicato é parte legítima para denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.",
+"c": true,
+"x": "CF, art. 74, § 2º.",
+"e": "CF, art. 74, § 2º."
+},
+{
+"p": "A transparência é condição para o controle social e para a accountability, e por isso está ligada ao fortalecimento da democracia.",
+"c": true,
+"x": "Sem informação, não há como fiscalizar nem cobrar responsabilidade.",
+"e": "Ética e democracia."
+},
+{
+"p": "A accountability horizontal corresponde ao controle exercido por órgãos do próprio Estado sobre outros, como Tribunais de Contas e Ministério Público.",
+"c": true,
+"x": "A vertical é a do cidadão sobre o governante.",
+"e": "Conceitos."
+},
+{
+"p": "A Lei de Acesso à Informação é lei federal aplicável apenas à União, cabendo a cada Estado e Município editar sua própria lei de acesso.",
+"c": false,
+"x": "É lei nacional, aplicável a todos os entes; Estados e Municípios editam regulamentos.",
+"pg": "Confundir regulamentação local com aplicação da lei.",
+"e": "Lei 12.527, art. 1º."
+},
+{
+"p": "As entidades privadas sem fins lucrativos que recebem recursos públicos submetem-se à Lei de Acesso à Informação, no que couber, quanto à parcela dos recursos públicos recebidos e à sua destinação.",
+"c": true,
+"x": "Art. 2º.",
+"e": "Lei 12.527, art. 2º."
+},
+{
+"p": "É diretriz da Lei de Acesso à Informação a observância da publicidade como preceito geral e do sigilo como exceção.",
+"c": true,
+"x": "Art. 3º, I.",
+"e": "Lei 12.527, art. 3º, I."
+},
+{
+"p": "A divulgação de informações de interesse público independentemente de solicitações é diretriz da Lei de Acesso à Informação.",
+"c": true,
+"x": "Art. 3º, II: transparência ativa.",
+"e": "Lei 12.527, art. 3º, II."
+},
+{
+"p": "Informação sigilosa, para a Lei 12.527/2011, é aquela submetida temporariamente à restrição de acesso público em razão de sua imprescindibilidade para a segurança da sociedade e do Estado.",
+"c": true,
+"x": "Art. 4º, III.",
+"e": "Lei 12.527, art. 4º."
+},
+{
+"p": "Os Municípios com até 10.000 habitantes estão dispensados de divulgar a execução orçamentária e financeira em tempo real.",
+"c": false,
+"x": "Estão dispensados da divulgação obrigatória na internet do art. 8º, mas mantêm a divulgação em tempo real da execução orçamentária e financeira.",
+"e": "Lei 12.527, art. 8º, § 4º."
+},
+{
+"p": "É obrigatória a divulgação das informações de transparência ativa em sítios oficiais da rede mundial de computadores, ressalvados os Municípios de até 10.000 habitantes.",
+"c": true,
+"x": "Art. 8º, §§ 2º e 4º.",
+"e": "Lei 12.527, art. 8º."
+},
+{
+"p": "Qualquer interessado pode apresentar pedido de acesso a informações aos órgãos e entidades sujeitos à Lei 12.527/2011, por qualquer meio legítimo.",
+"c": true,
+"x": "Art. 10.",
+"e": "Lei 12.527, art. 10."
+},
+{
+"p": "O pedido de acesso à informação de interesse público deve indicar os motivos da solicitação, sob pena de não ser conhecido.",
+"c": false,
+"x": "São vedadas quaisquer exigências relativas aos motivos (art. 10, § 3º).",
+"e": "Lei 12.527, art. 10, § 3º."
+},
+{
+"p": "Não sendo possível conceder o acesso imediato, o órgão deverá, em prazo não superior a 20 dias, comunicar a data, o local e o modo para a consulta, indicar as razões da recusa ou comunicar que não possui a informação.",
+"c": true,
+"x": "Art. 11, § 1º.",
+"e": "Lei 12.527, art. 11."
+},
+{
+"p": "O prazo de 20 dias para resposta ao pedido de informação pode ser prorrogado por mais 10 dias, mediante justificativa expressa, da qual será cientificado o requerente.",
+"c": true,
+"x": "Art. 11, § 2º.",
+"e": "Lei 12.527, art. 11, § 2º."
+},
+{
+"p": "O prazo para resposta ao pedido de acesso à informação é de 30 dias, prorrogável por igual período.",
+"c": false,
+"x": "São 20 dias, prorrogáveis por 10.",
+"e": "Lei 12.527, art. 11."
+},
+{
+"p": "O serviço de busca e fornecimento da informação é gratuito, salvo nas hipóteses de reprodução de documentos, em que poderá ser cobrado o valor necessário ao ressarcimento do custo.",
+"c": true,
+"x": "Art. 12.",
+"e": "Lei 12.527, art. 12."
+},
+{
+"p": "Está isento de ressarcir os custos de reprodução aquele cuja situação econômica não lhe permita fazê-lo sem prejuízo do sustento próprio ou da família, declarada nos termos da Lei 7.115/1983.",
+"c": true,
+"x": "Art. 12, parágrafo único.",
+"e": "Lei 12.527, art. 12."
+},
+{
+"p": "Quando não for autorizado o acesso integral à informação por ser ela parcialmente sigilosa, é assegurado o acesso à parte não sigilosa.",
+"c": true,
+"x": "Art. 7º, § 2º.",
+"e": "Lei 12.527, art. 7º, § 2º."
+},
+{
+"p": "No caso de indeferimento de acesso a informações, o interessado poderá interpor recurso no prazo de 10 dias a contar da ciência, dirigido à autoridade hierarquicamente superior, que deverá se manifestar em 5 dias.",
+"c": true,
+"x": "Art. 15.",
+"e": "Lei 12.527, art. 15."
+},
+{
+"p": "Negado o acesso à informação no Poder Executivo federal, o requerente pode recorrer diretamente à Controladoria-Geral da União, sem necessidade de recurso prévio a qualquer autoridade do órgão.",
+"c": false,
+"x": "O recurso à CGU só pode ser dirigido depois de submetido a pelo menos uma autoridade hierarquicamente superior.",
+"e": "Lei 12.527, art. 16, § 1º."
+},
+{
+"p": "Negado o acesso pela Controladoria-Geral da União, pode ser interposto recurso à Comissão Mista de Reavaliação de Informações.",
+"c": true,
+"x": "Art. 16, § 3º.",
+"e": "Lei 12.527, art. 16, § 3º."
+},
+{
+"p": "Não poderá ser negado acesso à informação necessária à tutela judicial ou administrativa de direitos fundamentais.",
+"c": true,
+"x": "Art. 21, caput.",
+"e": "Lei 12.527, art. 21."
+},
+{
+"p": "As informações sobre condutas que impliquem violação dos direitos humanos praticada por agentes públicos podem ser classificadas como ultrassecretas.",
+"c": false,
+"x": "Não podem ser objeto de qualquer restrição de acesso (art. 21, parágrafo único).",
+"e": "Lei 12.527, art. 21."
+},
+{
+"p": "A Lei de Acesso à Informação não exclui as demais hipóteses legais de sigilo e de segredo de justiça.",
+"c": true,
+"x": "Art. 22.",
+"e": "Lei 12.527, art. 22."
+},
+{
+"p": "Os prazos máximos de restrição de acesso à informação classificada vigoram a partir da data de sua produção.",
+"c": true,
+"x": "Art. 24, § 1º.",
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "Transcorrido o prazo de classificação ou consumado o evento que defina o seu termo final, a informação tornar-se-á, automaticamente, de acesso público.",
+"c": true,
+"x": "Art. 24, § 4º.",
+"e": "Lei 12.527, art. 24, § 4º."
+},
+{
+"p": "As informações que puderem colocar em risco a segurança do Presidente e do Vice-Presidente da República e de seus cônjuges e filhos serão classificadas como reservadas e ficarão sob sigilo até o término do mandato em exercício ou do último mandato, em caso de reeleição.",
+"c": true,
+"x": "Art. 24, § 2º.",
+"e": "Lei 12.527, art. 24, § 2º."
+},
+{
+"p": "Na classificação da informação em determinado grau de sigilo, deve ser utilizado o critério menos restritivo possível.",
+"c": true,
+"x": "Art. 24, § 5º.",
+"e": "Lei 12.527, art. 24, § 5º."
+},
+{
+"p": "As informações pessoais relativas à intimidade, vida privada, honra e imagem terão seu acesso restrito, independentemente de classificação de sigilo, pelo prazo máximo de 100 anos a contar da data de produção.",
+"c": true,
+"x": "Art. 31, § 1º, I.",
+"e": "Lei 12.527, art. 31."
+},
+{
+"p": "As informações pessoais só têm acesso restrito se forem formalmente classificadas como reservadas.",
+"c": false,
+"x": "A restrição ocorre independentemente de classificação.",
+"e": "Lei 12.527, art. 31."
+},
+{
+"p": "A restrição de acesso à informação pessoal não poderá ser invocada com o intuito de prejudicar processo de apuração de irregularidades em que o titular das informações estiver envolvido.",
+"c": true,
+"x": "Art. 31, § 4º.",
+"e": "Lei 12.527, art. 31, § 4º."
+},
+{
+"p": "Segundo o STF, é legítima a publicação, em sítio eletrônico, do nome dos servidores e do valor dos correspondentes vencimentos e vantagens pecuniárias.",
+"c": true,
+"x": "ARE 652.777, repercussão geral.",
+"e": "STF, ARE 652.777."
+},
+{
+"p": "Impor sigilo à informação para obter proveito pessoal ou de terceiro, ou para fins de ocultação de ato ilegal, constitui conduta ilícita que enseja responsabilidade do agente público.",
+"c": true,
+"x": "Art. 32, V.",
+"e": "Lei 12.527, art. 32."
+},
+{
+"p": "As condutas ilícitas previstas na Lei de Acesso à Informação, praticadas por servidor regido pela Lei 8.112/1990, devem ser apenadas, no mínimo, com advertência.",
+"c": false,
+"x": "No mínimo, com suspensão.",
+"e": "Lei 12.527, art. 32, § 1º, II."
+},
+{
+"p": "Para os militares, as condutas ilícitas da Lei de Acesso à Informação são consideradas transgressões militares médias ou graves, desde que não tipificadas como crime ou contravenção.",
+"c": true,
+"x": "Art. 32, § 1º, I.",
+"e": "Lei 12.527, art. 32."
+},
+{
+"p": "Os órgãos e entidades públicas respondem diretamente pelos danos causados em decorrência da divulgação não autorizada ou da utilização indevida de informações sigilosas ou pessoais, assegurado o direito de regresso.",
+"c": true,
+"x": "Art. 34.",
+"e": "Lei 12.527, art. 34."
+},
+{
+"p": "A negativa de acesso à informação, quando não fundamentada, sujeita o responsável a medidas disciplinares.",
+"c": true,
+"x": "Art. 7º, § 4º.",
+"e": "Lei 12.527, art. 7º, § 4º."
+},
+{
+"p": "O direito de acesso aos documentos utilizados como fundamento da tomada de decisão será assegurado com a edição do ato decisório respectivo.",
+"c": true,
+"x": "Art. 7º, § 3º.",
+"e": "Lei 12.527, art. 7º, § 3º."
+},
+{
+"p": "No Executivo federal, não serão atendidos pedidos de acesso genéricos, desproporcionais ou desarrazoados.",
+"c": true,
+"x": "Decreto 7.724/2012.",
+"e": "Decreto 7.724/2012."
+},
+{
+"p": "A Lei 13.460/2017 dispõe sobre participação, proteção e defesa dos direitos do usuário dos serviços públicos e prevê a Carta de Serviços ao Usuário.",
+"c": true,
+"x": "É o Código de Defesa do Usuário do Serviço Público.",
+"e": "Lei 13.460/2017."
+},
+{
+"p": "Pela Lei 12.527/2011, o prazo para resposta a pedido de acesso, quando não for possível o acesso imediato, é de até",
+"alts": [
+"10 dias, prorrogáveis por 5",
+"15 dias, prorrogáveis por 15",
+"20 dias, prorrogáveis por 10",
+"30 dias, prorrogáveis por 10",
+"30 dias, improrrogáveis"
+],
+"r": 2,
+"x": "Art. 11.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Lei 12.527, art. 11."
+},
+{
+"p": "A informação classificada como secreta tem prazo máximo de restrição de",
+"alts": [
+"5 anos",
+"10 anos",
+"15 anos",
+"25 anos",
+"100 anos"
+],
+"r": 2,
+"x": "Art. 24.",
+"n": [
+"Reservada.",
+"Não existe.",
+"Correta.",
+"Ultrassecreta.",
+"Informação pessoal."
+],
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "Segundo a Lei de Acesso à Informação, a qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações, denomina-se",
+"alts": [
+"integridade",
+"autenticidade",
+"disponibilidade",
+"primariedade",
+"tempestividade"
+],
+"r": 3,
+"x": "Art. 4º, IX.",
+"n": [
+"Não modificada.",
+"Origem identificada.",
+"Pode ser conhecida.",
+"Correta.",
+"Não é conceito legal."
+],
+"e": "Lei 12.527, art. 4º."
+},
+{
+"p": "Negado o acesso à informação, o recurso previsto no art. 15 da Lei 12.527/2011 deve ser interposto no prazo de",
+"alts": [
+"5 dias",
+"10 dias",
+"15 dias",
+"20 dias",
+"30 dias"
+],
+"r": 1,
+"x": "Art. 15.",
+"n": [
+"É o prazo de decisão.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Lei 12.527, art. 15."
+},
+{
+"p": "Não pode ser objeto de qualquer restrição de acesso a informação sobre",
+"alts": [
+"planos estratégicos das Forças Armadas",
+"negociações internacionais em curso",
+"condutas que impliquem violação de direitos humanos praticadas por agentes públicos",
+"segurança do Presidente da República",
+"pesquisa tecnológica estratégica"
+],
+"r": 2,
+"x": "Art. 21, parágrafo único.",
+"n": [
+"Pode ser classificada.",
+"Pode ser classificada.",
+"Correta.",
+"Reservada até o fim do mandato.",
+"Pode ser classificada."
+],
+"e": "Lei 12.527, art. 21."
+},
+{
+"p": "Pela Lei 12.527/2011, o prazo máximo de restrição de acesso da informação classificada como ultrassecreta é de 25 anos.",
+"c": true,
+"x": "Art. 24, § 1º: ultrassecreta 25, secreta 15, reservada 5 anos.",
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "Pela Lei 12.527/2011, o prazo máximo de restrição de acesso da informação classificada como ultrassecreta é de 15 anos.",
+"c": false,
+"x": "O prazo da ultrassecreta é de 25 anos; 15 anos é o da secreta.",
+"pg": "Troca dos prazos entre os graus.",
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "Pela Lei 12.527/2011, o prazo máximo de restrição de acesso da informação classificada como ultrassecreta é de 5 anos.",
+"c": false,
+"x": "O prazo da ultrassecreta é de 25 anos; 5 anos é o da reservada.",
+"pg": "Troca dos prazos entre os graus.",
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "Pela Lei 12.527/2011, o prazo máximo de restrição de acesso da informação classificada como secreta é de 15 anos.",
+"c": true,
+"x": "Art. 24, § 1º: ultrassecreta 25, secreta 15, reservada 5 anos.",
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "Pela Lei 12.527/2011, o prazo máximo de restrição de acesso da informação classificada como secreta é de 25 anos.",
+"c": false,
+"x": "O prazo da secreta é de 15 anos; 25 anos é o da ultrassecreta.",
+"pg": "Troca dos prazos entre os graus.",
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "Pela Lei 12.527/2011, o prazo máximo de restrição de acesso da informação classificada como secreta é de 5 anos.",
+"c": false,
+"x": "O prazo da secreta é de 15 anos; 5 anos é o da reservada.",
+"pg": "Troca dos prazos entre os graus.",
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "Pela Lei 12.527/2011, o prazo máximo de restrição de acesso da informação classificada como reservada é de 5 anos.",
+"c": true,
+"x": "Art. 24, § 1º: ultrassecreta 25, secreta 15, reservada 5 anos.",
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "Pela Lei 12.527/2011, o prazo máximo de restrição de acesso da informação classificada como reservada é de 25 anos.",
+"c": false,
+"x": "O prazo da reservada é de 5 anos; 25 anos é o da ultrassecreta.",
+"pg": "Troca dos prazos entre os graus.",
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "Pela Lei 12.527/2011, o prazo máximo de restrição de acesso da informação classificada como reservada é de 15 anos.",
+"c": false,
+"x": "O prazo da reservada é de 5 anos; 15 anos é o da secreta.",
+"pg": "Troca dos prazos entre os graus.",
+"e": "Lei 12.527, art. 24."
+},
+{
+"p": "Subordinam-se ao regime da Lei de Acesso à Informação os órgãos públicos do Poder Judiciário.",
+"c": true,
+"x": "Art. 1º, parágrafo único, da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 1º."
+},
+{
+"p": "Subordinam-se ao regime da Lei de Acesso à Informação os Tribunais de Contas.",
+"c": true,
+"x": "Art. 1º, parágrafo único, da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 1º."
+},
+{
+"p": "Subordinam-se ao regime da Lei de Acesso à Informação o Ministério Público.",
+"c": true,
+"x": "Art. 1º, parágrafo único, da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 1º."
+},
+{
+"p": "Subordinam-se ao regime da Lei de Acesso à Informação as sociedades de economia mista.",
+"c": true,
+"x": "Art. 1º, parágrafo único, da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 1º."
+},
+{
+"p": "Subordinam-se ao regime da Lei de Acesso à Informação as empresas públicas.",
+"c": true,
+"x": "Art. 1º, parágrafo único, da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 1º."
+},
+{
+"p": "Subordinam-se ao regime da Lei de Acesso à Informação as entidades controladas direta ou indiretamente pelos entes federativos.",
+"c": true,
+"x": "Art. 1º, parágrafo único, da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 1º."
+},
+{
+"p": "Subordinam-se ao regime da Lei de Acesso à Informação os órgãos do Poder Legislativo.",
+"c": true,
+"x": "Art. 1º, parágrafo único, da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 1º."
+},
+{
+"p": "Subordinam-se ao regime da Lei de Acesso à Informação as autarquias e fundações públicas.",
+"c": true,
+"x": "Art. 1º, parágrafo único, da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 1º."
+},
+{
+"p": "Na Lei de Acesso à Informação, disponibilidade é a qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados.",
+"c": true,
+"x": "Art. 4º da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 4º."
+},
+{
+"p": "Na Lei de Acesso à Informação, autenticidade é a qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados.",
+"c": false,
+"x": "Essa é a definição de disponibilidade, e não de autenticidade.",
+"pg": "Troca entre as qualidades da informação.",
+"e": "Lei 12.527, art. 4º."
+},
+{
+"p": "Na Lei de Acesso à Informação, autenticidade é a qualidade da informação que foi produzida, expedida, recebida ou modificada por determinado indivíduo, equipamento ou sistema.",
+"c": true,
+"x": "Art. 4º da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 4º."
+},
+{
+"p": "Na Lei de Acesso à Informação, integridade é a qualidade da informação que foi produzida, expedida, recebida ou modificada por determinado indivíduo, equipamento ou sistema.",
+"c": false,
+"x": "Essa é a definição de autenticidade, e não de integridade.",
+"pg": "Troca entre as qualidades da informação.",
+"e": "Lei 12.527, art. 4º."
+},
+{
+"p": "Na Lei de Acesso à Informação, integridade é a qualidade da informação que não foi modificada, inclusive quanto à origem, trânsito e destino.",
+"c": true,
+"x": "Art. 4º da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 4º."
+},
+{
+"p": "Na Lei de Acesso à Informação, primariedade é a qualidade da informação que não foi modificada, inclusive quanto à origem, trânsito e destino.",
+"c": false,
+"x": "Essa é a definição de integridade, e não de primariedade.",
+"pg": "Troca entre as qualidades da informação.",
+"e": "Lei 12.527, art. 4º."
+},
+{
+"p": "Na Lei de Acesso à Informação, primariedade é a qualidade da informação que foi coletada na fonte, com o máximo de detalhamento possível, sem modificações.",
+"c": true,
+"x": "Art. 4º da Lei 12.527/2011.",
+"e": "Lei 12.527, art. 4º."
+},
+{
+"p": "Na Lei de Acesso à Informação, disponibilidade é a qualidade da informação que foi coletada na fonte, com o máximo de detalhamento possível, sem modificações.",
+"c": false,
+"x": "Essa é a definição de primariedade, e não de disponibilidade.",
+"pg": "Troca entre as qualidades da informação.",
+"e": "Lei 12.527, art. 4º."
+}
+]
+},
+"conduta-alta-administracao": {
+"html": "<h3>1. Por que um código só para a alta administração</h3>\n<ul><li>O <b>Código de Conduta da Alta Administração Federal</b> foi aprovado em <b>21 de agosto de 2000</b>, a partir da <b>Exposição de Motivos nº 37/2000</b>, assinada pelo Presidente da República. Ele nasceu com a <b>Comissão de Ética Pública (CEP)</b>, criada em 1999, e foi a primeira norma brasileira dedicada especificamente à conduta ética dos <b>dirigentes do topo</b> do Poder Executivo federal.</li><li>A lógica é a do <b>exemplo</b>: quem está no topo da hierarquia toma as decisões de maior impacto, administra os maiores orçamentos, lida com os interesses econômicos mais poderosos e serve de modelo para todos os servidores. Se a alta administração não for íntegra, as normas de conduta dos demais perdem a força moral. Por isso o Código exige dos dirigentes um padrão <b>mais elevado</b> do que o exigido do servidor comum.</li><li>O Código não substitui as leis (Lei 8.112, Lei de Improbidade, Lei 12.813). Ele trata de um espaço que as leis nem sempre alcançam: o da <b>conduta ética</b>, da <b>aparência</b>, do <b>decoro</b> e da <b>prevenção</b> de situações de conflito. Suas sanções são <b>éticas</b> (advertência e censura), aplicadas pela CEP, sem prejuízo das sanções legais.</li><li>Desde 2013, muitas de suas regras sobre conflito de interesses e quarentena foram absorvidas e endurecidas pela <b>Lei 12.813/2013</b>. As duas normas convivem, e as provas cobram as duas, muitas vezes comparando-as.</li></ul>\n<div class=\"lt-stats\"><div class=\"lt-stat\"><b>2000</b><span>aprovação do Código (EM nº 37/2000)</span></div><div class=\"lt-stat\"><b>6</b><span>finalidades do art. 1º</span></div><div class=\"lt-stat\"><b>3</b><span>grupos de autoridades alcançadas (art. 2º)</span></div><div class=\"lt-stat\"><b>2</b><span>providências por violação: advertência e censura ética</span></div></div>\n<h3>2. As seis finalidades (art. 1º)</h3>\n<ul><li>O Código tem por finalidade:</li><li><b>I</b> – tornar <b>claras as regras éticas</b> de conduta das autoridades da alta Administração Pública Federal, para que a <b>sociedade possa aferir a integridade e a lisura</b> do processo decisório governamental;</li><li><b>II</b> – contribuir para o <b>aperfeiçoamento dos padrões éticos</b> da Administração Pública Federal, a partir do <b>exemplo dado pelas autoridades</b> de nível hierárquico superior;</li><li><b>III</b> – <b>preservar a imagem e a reputação</b> do administrador público cuja conduta esteja de acordo com as normas éticas estabelecidas neste Código;</li><li><b>IV</b> – estabelecer <b>regras básicas sobre conflitos de interesses</b> públicos e privados e <b>limitações às atividades profissionais posteriores</b> ao exercício de cargo público;</li><li><b>V</b> – <b>minimizar a possibilidade de conflito</b> entre o interesse privado e o dever funcional das autoridades públicas da Administração Pública Federal;</li><li><b>VI</b> – criar <b>mecanismo de consulta</b>, destinado a possibilitar o <b>prévio e pronto esclarecimento de dúvidas</b> quanto à conduta ética do administrador.</li><li>Note a finalidade <b>III</b>: o Código também <b>protege</b> o dirigente honesto. Ao deixar claras as regras, ele permite que a autoridade que as cumpre demonstre sua integridade e se defenda de acusações infundadas. E a finalidade <b>VI</b> mostra a vocação <b>preventiva</b>: a consulta à CEP existe para evitar o erro, e não apenas para punir.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Mnemônico das finalidades: <b>\"CLAREZA, EXEMPLO, IMAGEM, CONFLITO, MINIMIZAR, CONSULTA\"</b>. Duas ideias guiam todas elas: <b>transparência para a sociedade</b> e <b>prevenção de conflitos</b>.</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Código de Conduta tem como finalidade punir as autoridades que violam a lei penal</span><br>✅ <span class=\"certo\">suas finalidades são <b>éticas e preventivas</b>: clareza das regras, exemplo, preservação da imagem, prevenção de conflitos e consulta</span></li><li>❌ <span class=\"banca\">O Código busca preservar a imagem de todo administrador público, independentemente de sua conduta</span><br>✅ <span class=\"certo\">preserva a imagem e a reputação do administrador <b>cuja conduta esteja de acordo</b> com as normas éticas</span></li><li>❌ <span class=\"banca\">O mecanismo de consulta previsto no Código destina-se a esclarecer dúvidas após a prática do ato</span><br>✅ <span class=\"certo\">destina-se ao <b>prévio e pronto</b> esclarecimento de dúvidas</span></li></ol></div>\n<h3>3. A quem se aplica (art. 2º)</h3>\n<ul><li>As normas do Código aplicam-se às seguintes autoridades públicas:</li><li><b>I</b> – <b>Ministros e Secretários de Estado</b>;</li><li><b>II</b> – titulares de <b>cargos de natureza especial</b>, <b>secretários-executivos</b>, <b>secretários</b> ou autoridades equivalentes ocupantes de cargo do <b>Grupo-Direção e Assessoramento Superiores (DAS), nível 6</b>;</li><li><b>III</b> – <b>presidentes e diretores</b> de <b>agências nacionais</b>, <b>autarquias</b>, inclusive as especiais, <b>fundações</b> mantidas pelo Poder Público, <b>empresas públicas</b> e <b>sociedades de economia mista</b>.</li><li>Compare com a Lei 12.813/2013: a lei alcança também os cargos de <b>nível 5</b> e os ocupantes de cargos com <b>acesso a informação privilegiada</b>. O Código de Conduta é mais <b>restrito</b>: fica no <b>topo</b> (nível 6 e equivalentes).</li><li>Desde a Lei 14.204/2021, os antigos cargos DAS foram transformados em cargos comissionados executivos (CCE) e funções comissionadas executivas (FCE); a referência ao \"nível 6\" deve ser lida pela equivalência.</li><li>O Código aplica-se a quem <b>está no exercício</b> do cargo, mas algumas regras alcançam a autoridade <b>depois</b> que deixa o cargo (arts. 14 e 15), e uma das sanções (a <b>censura ética</b>) é específica para quem já saiu.</li></ul>\n<table class=\"tab\"><thead><tr><th>Norma;Alcance;Observação</th></tr></thead><tbody><tr><td>Código de Conduta da Alta Administração;Ministros, Secretários de Estado, natureza especial, secretários-executivos, DAS 6 ou equivalentes, presidentes e diretores da indireta;Topo da hierarquia</td></tr><tr><td>Lei 12.813/2013, art. 2º;Os mesmos + DAS 5 ou equivalentes + cargos com acesso a informação privilegiada;Mais amplo</td></tr><tr><td>Código de Ética (Decreto 1.171/1994);Todos os servidores do Executivo federal;Regras gerais de conduta</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Código de Conduta da Alta Administração aplica-se a todos os ocupantes de cargos em comissão do Executivo federal</span><br>✅ <span class=\"certo\">aplica-se ao <b>topo</b>: Ministros, Secretários de Estado, natureza especial, secretários-executivos, <b>DAS 6</b> ou equivalentes e dirigentes da indireta</span></li><li>❌ <span class=\"banca\">Os diretores de agências reguladoras não se submetem ao Código, por terem mandato fixo</span><br>✅ <span class=\"certo\">o art. 2º, III, inclui expressamente <b>presidentes e diretores de agências nacionais</b> e autarquias especiais</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 2º, I</span></span><span class=\"vs\"><span>Ministros e Secretários de Estado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 2º, II</span></span><span class=\"vs\"><span>Natureza especial, secretários-executivos, secretários, DAS 6</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 2º, III</span></span><span class=\"vs\"><span>Presidentes e diretores de agências, autarquias, fundações, empresas públicas e sociedades de economia mista</span></span></button></div></div>\n<h3>4. Os padrões éticos (art. 3º)</h3>\n<ul><li>No exercício de suas funções, as autoridades públicas deverão pautar-se pelos padrões da ética, sobretudo no que diz respeito à <b>integridade</b>, à <b>moralidade</b>, à <b>clareza de posições</b> e ao <b>decoro</b>, com vistas a <b>motivar o respeito e a confiança do público</b> em geral.</li><li><b>Parágrafo único</b>: os padrões éticos de que trata o artigo são exigidos da autoridade pública <b>na relação entre suas atividades públicas e privadas</b>, de modo a <b>prevenir eventuais conflitos de interesses</b>.</li><li>Vale entender cada padrão:</li><li><b>Integridade</b>: coerência entre o que a autoridade diz e o que faz; recusa a qualquer forma de vantagem indevida; atuação inteira a serviço do interesse público.</li><li><b>Moralidade</b>: honestidade, lealdade às instituições e boa-fé, como exige o art. 37 da Constituição.</li><li><b>Clareza de posições</b>: a autoridade deve deixar claro de que lado está e por quê; não pode manter interesses ocultos nem agir de forma dúbia. É a base da transparência no processo decisório.</li><li><b>Decoro</b>: compostura e dignidade no comportamento, compatíveis com a importância do cargo, inclusive na vida pública fora do expediente.</li><li>O objetivo final é a <b>confiança do público</b>. O Código parte da ideia de que a autoridade deve não apenas ser honesta, mas <b>parecer</b> honesta, porque a confiança da sociedade depende da percepção.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Os quatro padrões do art. 3º: <b>\"I-M-C-D\"</b> = <b>I</b>ntegridade, <b>M</b>oralidade, <b>C</b>lareza de posições, <b>D</b>ecoro. Finalidade: <b>respeito e confiança do público</b>.</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os padrões éticos do Código de Conduta aplicam-se apenas às atividades públicas da autoridade</span><br>✅ <span class=\"certo\">são exigidos <b>na relação entre as atividades públicas e privadas</b>, para prevenir conflitos de interesses</span></li><li>❌ <span class=\"banca\">Entre os padrões éticos expressamente mencionados no art. 3º estão a eficiência e a economicidade</span><br>✅ <span class=\"certo\">o art. 3º menciona <b>integridade, moralidade, clareza de posições e decoro</b></span></li></ol></div>\n<h3>5. Patrimônio: informação à CEP em dez dias (art. 4º)</h3>\n<ul><li>Além da <b>declaração de bens e rendas</b> exigida pela <b>Lei 8.730/1993</b> (obrigatória para todas as autoridades e servidores que exercem cargos, empregos ou funções de confiança), a autoridade pública, no prazo de <b>dez dias contados de sua posse</b>, enviará à <b>CEP</b>, na forma por ela estabelecida, <b>informações sobre sua situação patrimonial</b> que, <b>real ou potencialmente, possa suscitar conflito</b> com o interesse público, <b>indicando o modo pelo qual irá evitá-lo</b>.</li><li>Repare na estrutura: não basta listar os bens; a autoridade deve apontar quais bens podem gerar conflito e <b>como pretende evitá-lo</b> (vender ações de empresas do setor que vai regular, transferir a gestão de investimentos a terceiros independentes, declarar-se impedida em determinados assuntos).</li><li>Na prática, a CEP desenvolveu a <b>Declaração Confidencial de Informações (DCI)</b>, formulário em que a autoridade informa patrimônio, atividades, participações societárias e situações que possam gerar conflito.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 8.730/1993</span></span><span class=\"vs\"><span>Declaração de bens e rendas (geral)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 4º do Código</span></span><span class=\"vs\"><span>Informações à CEP em 10 dias da posse, indicando como evitar o conflito</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>DCI</span></span><span class=\"vs\"><span>Declaração Confidencial de Informações à CEP</span></span></button></div></div>\n<h3>6. Alterações patrimoniais e investimentos (art. 5º)</h3>\n<ul><li>As <b>alterações relevantes</b> no patrimônio da autoridade deverão ser <b>imediatamente comunicadas</b> à CEP, especialmente quando se tratar de:</li><li><b>I</b> – atos de gestão patrimonial que envolvam: <b>a)</b> <b>transferência de bens</b> a cônjuge, ascendente, descendente ou parente na linha colateral; <b>b)</b> <b>aquisição</b>, direta ou indireta, do <b>controle de empresa</b>; ou <b>c)</b> outras alterações <b>significativas ou relevantes</b> no valor ou na natureza do patrimônio;</li><li><b>II</b> – atos de gestão de bens cujo valor possa ser <b>substancialmente alterado por decisão ou política governamental</b>.</li><li><b>§ 1º (vedação de investimentos)</b>: é <b>vedado o investimento</b> em bens cujo valor ou cotação possa ser afetado por decisão ou política governamental a respeito da qual a autoridade pública tenha <b>informações privilegiadas</b>, em razão do cargo ou função, <b>inclusive investimentos de renda variável ou em commodities, contratos futuros e moedas para fim especulativo</b>, excetuadas aplicações em modalidades de investimento que a CEP venha a especificar.</li><li><b>§ 2º</b>: em caso de dúvida, a CEP pode solicitar <b>informações adicionais</b> e esclarecimentos sobre alterações patrimoniais comunicadas ou que, por qualquer outro meio, cheguem ao seu conhecimento.</li><li><b>§ 3º</b>: a autoridade pode <b>consultar previamente</b> a CEP a respeito de ato específico de gestão de bens que pretenda realizar.</li><li><b>§ 4º (sigilo)</b>: a fim de preservar o caráter <b>sigiloso</b> das informações patrimoniais, as comunicações e consultas, após conferidas e respondidas, são acondicionadas em <b>envelope lacrado</b>, que somente poderá ser aberto por determinação da Comissão.</li><li>A ideia do § 1º é impedir que a autoridade <b>lucre com o próprio cargo</b>: um Ministro da área econômica que soubesse antes de uma mudança de juros ou de câmbio poderia ganhar fortunas especulando. Por isso a vedação menciona expressamente renda variável, commodities, contratos futuros e moedas <b>para fim especulativo</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Código proíbe à autoridade qualquer investimento em renda variável</span><br>✅ <span class=\"certo\">veda o investimento em bens cujo valor possa ser afetado por decisão ou política sobre a qual ela tenha <b>informação privilegiada</b>, inclusive renda variável, commodities, contratos futuros e moedas <b>para fim especulativo</b>, ressalvadas as modalidades que a CEP especificar</span></li><li>❌ <span class=\"banca\">As alterações relevantes no patrimônio devem ser comunicadas à CEP anualmente</span><br>✅ <span class=\"certo\">devem ser comunicadas <b>imediatamente</b></span></li><li>❌ <span class=\"banca\">As informações patrimoniais enviadas à CEP são públicas e devem ser divulgadas na internet</span><br>✅ <span class=\"certo\">são <b>sigilosas</b>, guardadas em <b>envelope lacrado</b>, aberto só por determinação da Comissão</span></li></ol></div>\n<h3>7. Participação acima de 5% (art. 6º)</h3>\n<ul><li>A autoridade pública que mantiver participação <b>superior a cinco por cento</b> do capital de <b>sociedade de economia mista</b>, de <b>instituição financeira</b> ou de <b>empresa que negocie com o Poder Público</b> <b>tornará público</b> este fato.</li><li>Note que o Código <b>não proíbe</b> a participação; exige <b>transparência</b>. A publicidade permite que a sociedade e os órgãos de controle verifiquem se a autoridade age com isenção em relação a essas empresas. Se houver conflito concreto, aplicam-se as regras de impedimento e, conforme o caso, a Lei 12.813.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 6º</span></span><span class=\"vs\"><span>Participação superior a 5% em SEM, instituição financeira ou empresa que negocia com o Poder Público: tornar público</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 5º, § 1º</span></span><span class=\"vs\"><span>Vedado investir com base em informação privilegiada, inclusive especulação em renda variável, commodities, futuros e moedas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 5º, § 4º</span></span><span class=\"vs\"><span>Informações patrimoniais em envelope lacrado</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">É vedado à autoridade manter participação superior a 5% no capital de instituição financeira</span><br>✅ <span class=\"certo\">o Código <b>não veda</b>; exige que a autoridade <b>torne público</b> o fato (art. 6º)</span></li></ol></div>\n<h3>8. Remuneração privada, favores e eventos (art. 7º)</h3>\n<ul><li>A autoridade pública <b>não poderá receber salário ou qualquer outra remuneração de fonte privada em desacordo com a lei</b>, nem <b>receber transporte, hospedagem ou quaisquer favores de particulares</b> de forma a permitir situação que possa gerar <b>dúvida sobre a sua probidade ou honorabilidade</b>.</li><li>O critério é a <b>dúvida</b>: o problema não é apenas o favor que comprove corrupção, mas qualquer favor que faça um observador razoável <b>duvidar</b> da honestidade da autoridade. É a ética da aparência.</li><li><b>Parágrafo único (eventos)</b>: é <b>permitida</b> a participação em <b>seminários, congressos e eventos semelhantes</b>, desde que <b>tornada pública</b> eventual remuneração, bem como o <b>pagamento das despesas de viagem pelo promotor do evento</b>, o qual <b>não poderá ter interesse em decisão</b> a ser tomada pela autoridade.</li><li>Assim, o Ministro pode aceitar convite para palestrar em congresso de uma universidade, com passagem e hotel pagos pela organização, e até receber cachê, desde que o torne público. Mas, se o promotor do evento for uma empresa interessada em processo que o Ministro vai decidir, a aceitação das despesas é vedada.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">É vedada à autoridade a participação remunerada em seminários e congressos</span><br>✅ <span class=\"certo\">é <b>permitida</b>, desde que <b>tornada pública</b> a remuneração</span></li><li>❌ <span class=\"banca\">A autoridade pode aceitar que o promotor do evento pague suas despesas de viagem em qualquer caso</span><br>✅ <span class=\"certo\">o promotor <b>não pode ter interesse em decisão</b> a ser tomada pela autoridade</span></li><li>❌ <span class=\"banca\">O Código só proíbe os favores de particulares que comprovadamente configurem corrupção</span><br>✅ <span class=\"certo\">proíbe favores que possam gerar <b>dúvida</b> sobre a probidade ou a honorabilidade</span></li></ol></div>\n<h3>9. Encargo de mandatário (art. 8º)</h3>\n<ul><li>É <b>permitido</b> à autoridade pública o exercício <b>não remunerado</b> de <b>encargo de mandatário</b>, desde que não implique a prática de <b>atos de comércio</b> ou quaisquer outros <b>incompatíveis</b> com o exercício do seu cargo ou função, nos termos da lei.</li><li>Encargo de mandatário é agir em nome de outra pessoa (por procuração), por exemplo, administrar os bens de um pai idoso. O Código admite, desde que seja <b>gratuito</b> e <b>compatível</b>. Lembre que a Lei 8.112 (art. 117, XI) e a Lei 12.813 (art. 5º, IV) vedam atuar como procurador ou intermediário de interesses privados <b>junto a repartições públicas</b>, salvo as exceções legais.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 7º</span></span><span class=\"vs\"><span>Proibidos remuneração privada ilegal e favores que gerem dúvida sobre a probidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 7º, parágrafo único</span></span><span class=\"vs\"><span>Eventos permitidos com remuneração pública e despesas pagas por promotor sem interesse em decisão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 8º</span></span><span class=\"vs\"><span>Mandatário permitido, se não remunerado e sem atos de comércio ou incompatíveis</span></span></button></div></div>\n<h3>10. Presentes e brindes (art. 9º)</h3>\n<ul><li>É <b>vedada</b> à autoridade pública a <b>aceitação de presentes</b>, <b>salvo</b> de <b>autoridades estrangeiras</b> nos <b>casos protocolares</b> em que houver <b>reciprocidade</b>.</li><li><b>Parágrafo único</b>: não se consideram presentes, para os fins do artigo, os <b>brindes</b> que: <b>I</b> – <b>não tenham valor comercial</b>; ou <b>II</b> – distribuídos por entidades de qualquer natureza a título de <b>cortesia, propaganda, divulgação habitual</b> ou por ocasião de <b>eventos especiais ou datas comemorativas</b>, <b>não ultrapassem o valor de R$ 100,00</b> (cem reais).</li><li>Hoje o tema também é regulado, para todo o Executivo federal, pelo <b>Decreto 10.889/2021</b>, que trata de presentes, brindes e hospitalidades e da agenda de compromissos públicos (e-Agendas). Nas provas sobre o Código de Conduta, porém, cobra-se a <b>literalidade do art. 9º</b>: presentes vedados, salvo protocolo com reciprocidade de autoridade estrangeira; brindes sem valor comercial ou de até <b>R$ 100,00</b>, distribuídos de forma generalizada.</li><li>Os presentes que, por razões protocolares, não puderem ser recusados devem ser <b>incorporados ao patrimônio da União</b> ou destinados a entidades de caráter cultural ou filantrópico, conforme orientação da CEP. A autoridade <b>não</b> fica com o presente.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">É permitido à autoridade aceitar presentes de autoridades estrangeiras em quaisquer circunstâncias</span><br>✅ <span class=\"certo\">somente <b>nos casos protocolares em que houver reciprocidade</b></span></li><li>❌ <span class=\"banca\">O limite de valor dos brindes previsto no Código de Conduta da Alta Administração é de R$ 500,00</span><br>✅ <span class=\"certo\">é de <b>R$ 100,00</b></span></li><li>❌ <span class=\"banca\">Brinde de valor comercial elevado distribuído em data comemorativa é admitido, porque é cortesia</span><br>✅ <span class=\"certo\">o brinde distribuído em data comemorativa não pode ultrapassar <b>R$ 100,00</b></span></li></ol></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O vinho do embaixador</b><p>Em visita oficial, o embaixador de um país amigo entrega ao Ministro das Relações Exteriores uma caixa de vinhos, retribuindo presente recebido pelo seu governo na visita anterior.</p><details><summary>Ver a solução comentada</summary><p>Presente de <b>autoridade estrangeira</b>, em <b>caso protocolar</b> com <b>reciprocidade</b>: admitido pelo art. 9º. Mas o presente não é da pessoa do Ministro: deve ter a destinação orientada pela CEP (patrimônio da União ou entidade cultural ou filantrópica).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A agenda da construtora</b><p>No fim do ano, uma construtora que tem contratos com o Ministério envia a todos os seus contatos uma agenda com o logotipo da empresa, de valor estimado em R$ 40,00. Um secretário-executivo recebe uma.</p><details><summary>Ver a solução comentada</summary><p>É <b>brinde</b> distribuído a título de <b>divulgação habitual</b> em data comemorativa, abaixo de <b>R$ 100,00</b>: não é considerado presente e pode ser aceito.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O relógio da construtora</b><p>A mesma construtora envia ao secretário-executivo, com cartão personalizado, um relógio de R$ 3.000,00.</p><details><summary>Ver a solução comentada</summary><p>É <b>presente</b>, vedado pelo art. 9º. Deve ser recusado e devolvido, e a situação comunicada à CEP. Aceitá-lo pode configurar, além do desvio ético, conflito de interesses (Lei 12.813, art. 5º, VI) e até crime.</p></details></div>\n<h3>11. Relacionamento com outros órgãos (art. 10)</h3>\n<ul><li>No relacionamento com outros órgãos e funcionários da Administração, a autoridade pública deverá <b>esclarecer a existência de eventual conflito de interesses</b>, bem como <b>comunicar qualquer circunstância ou fato impeditivo</b> de sua participação em <b>decisão coletiva</b> ou em <b>órgão colegiado</b>.</li><li>Exemplo: um diretor de agência reguladora que, antes de assumir, trabalhou como advogado de uma empresa regulada deve <b>declarar</b> essa circunstância e <b>não participar</b> das deliberações do colegiado sobre processos daquela empresa. Esse dever de transparência ativa sobre os próprios impedimentos é uma das marcas do Código.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 9º</span></span><span class=\"vs\"><span>Presentes vedados, salvo de autoridade estrangeira em caso protocolar com reciprocidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Brindes permitidos</span></span><span class=\"vs\"><span>Sem valor comercial ou até R$ 100,00, distribuídos a título de cortesia, propaganda, divulgação ou datas comemorativas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 10</span></span><span class=\"vs\"><span>Esclarecer conflito e comunicar impedimento em decisão coletiva ou colegiado</span></span></button></div></div>\n<h3>12. Divergências e manifestações públicas (arts. 11 e 12)</h3>\n<ul><li><b>Art. 11</b>: as <b>divergências entre autoridades públicas</b> serão resolvidas <b>internamente</b>, mediante <b>coordenação administrativa</b>, <b>não lhes cabendo manifestar-se publicamente</b> sobre matéria que <b>não seja afeta a sua área de competência</b>.</li><li>A regra preserva a <b>unidade de ação do governo</b> e evita que conflitos entre ministros e dirigentes se transformem em disputas públicas que confundem o cidadão e desgastam as instituições. Cada autoridade fala sobre sua área; divergências se resolvem na coordenação (por exemplo, na Casa Civil).</li><li><b>Art. 12</b>: é <b>vedado</b> à autoridade pública <b>opinar publicamente</b> a respeito:</li><li><b>I</b> – da <b>honorabilidade e do desempenho funcional de outra autoridade pública federal</b>; e</li><li><b>II</b> – do <b>mérito de questão que lhe será submetida</b>, para <b>decisão individual ou em órgão colegiado</b>.</li><li>O inciso I evita que autoridades se ataquem publicamente (ou se elogiem de modo a constranger). O inciso II protege a <b>imparcialidade</b>: quem vai decidir um caso não pode antecipar publicamente sua opinião, sob pena de comprometer o julgamento e de ser visto como parcial. É a mesma lógica que impede um juiz de dar entrevista sobre processo que vai julgar.</li><li>Atenção: o Código <b>não proíbe</b> a autoridade de falar publicamente sobre as políticas da sua área, de explicar decisões já tomadas ou de defender o programa de governo. A vedação é específica: opinar sobre <b>honorabilidade e desempenho de outra autoridade federal</b> e sobre o <b>mérito de questão que ainda vai decidir</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As autoridades sujeitas ao Código não podem conceder entrevistas sobre as políticas de suas pastas</span><br>✅ <span class=\"certo\">a vedação é opinar publicamente sobre a <b>honorabilidade e o desempenho de outra autoridade federal</b> e sobre o <b>mérito de questão que lhe será submetida</b></span></li><li>❌ <span class=\"banca\">As divergências entre autoridades devem ser resolvidas publicamente, em nome da transparência</span><br>✅ <span class=\"certo\">devem ser resolvidas <b>internamente</b>, mediante <b>coordenação administrativa</b></span></li><li>❌ <span class=\"banca\">A autoridade pode opinar publicamente sobre o desempenho funcional de autoridades estaduais e municipais, mas não das federais</span><br>✅ <span class=\"certo\">o texto do art. 12, I, fala em <b>outra autoridade pública federal</b>; quanto a outras, valem os padrões gerais de decoro e moralidade</span></li></ol></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A entrevista do diretor</b><p>O diretor-presidente de uma agência reguladora dá entrevista dizendo que \"a empresa X certamente será multada\" em processo que ainda será julgado pela diretoria colegiada que ele integra.</p><details><summary>Ver a solução comentada</summary><p>Viola o <b>art. 12, II</b>: opinou publicamente sobre o <b>mérito de questão que lhe será submetida</b> em órgão colegiado. A conduta compromete a imparcialidade do julgamento e pode levar à advertência pela CEP.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A crítica ao colega</b><p>Um Ministro afirma em rede social que o Ministro de outra pasta \"é incompetente e não tem condições morais de ocupar o cargo\".</p><details><summary>Ver a solução comentada</summary><p>Viola o <b>art. 12, I</b> (opinar publicamente sobre a honorabilidade e o desempenho funcional de outra autoridade pública federal) e o <b>art. 11</b> (divergências devem ser resolvidas internamente).</p></details></div>\n<h3>13. Propostas de trabalho (art. 13)</h3>\n<ul><li>As <b>propostas de trabalho ou de negócio futuro no setor privado</b>, bem como qualquer <b>negociação que envolva conflito de interesses</b>, deverão ser <b>imediatamente informadas</b> pela autoridade pública à <b>CEP</b>, <b>independentemente da sua aceitação ou rejeição</b>.</li><li>O dever de informar existe <b>mesmo que a proposta seja recusada</b>. A razão: o simples fato de estar negociando um emprego futuro com uma empresa pode influenciar, ainda que inconscientemente, as decisões que a autoridade toma sobre essa empresa. Informando a CEP, a autoridade se protege e permite que se adotem cautelas (por exemplo, afastar-se dos processos da empresa).</li><li>A Lei 12.813/2013 (art. 9º, II) também exige a comunicação de propostas de trabalho que a autoridade <b>pretenda aceitar</b>. O Código é ainda mais amplo: exige a informação <b>independentemente</b> da aceitação ou da rejeição.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A autoridade só precisa informar à CEP as propostas de trabalho que pretenda aceitar</span><br>✅ <span class=\"certo\">pelo Código, deve informar <b>imediatamente</b>, <b>independentemente da aceitação ou rejeição</b></span></li><li>❌ <span class=\"banca\">As propostas de emprego no setor privado devem ser informadas à CEP apenas depois que a autoridade deixar o cargo</span><br>✅ <span class=\"certo\">devem ser informadas <b>imediatamente</b>, durante o exercício</span></li></ol></div>\n<h3>14. Depois de deixar o cargo (arts. 14 a 16)</h3>\n<ul><li><b>Art. 14 (vedações permanentes ligadas ao que participou)</b>: após deixar o cargo, a autoridade pública <b>não poderá</b>:</li><li><b>I</b> – <b>atuar em benefício ou em nome</b> de pessoa física ou jurídica, inclusive sindicato ou associação de classe, <b>em processo ou negócio do qual tenha participado, em razão do cargo</b>;</li><li><b>II</b> – <b>prestar consultoria</b> a pessoa física ou jurídica, inclusive sindicato ou associação de classe, <b>valendo-se de informações não divulgadas publicamente</b> a respeito de programas ou políticas do órgão ou da entidade da Administração Pública Federal a que esteve vinculada ou com que tenha tido <b>relacionamento direto e relevante nos seis meses anteriores</b> ao término do exercício de função pública.</li><li>Note que o art. 14 <b>não traz prazo</b>: a ex-autoridade nunca poderá atuar, do outro lado do balcão, em processo ou negócio de que participou no cargo, nem prestar consultoria usando informações não públicas.</li><li><b>Art. 15 (quarentena do Código)</b>: na <b>ausência de lei</b> dispondo sobre prazo diverso, será de <b>quatro meses</b>, contados da exoneração, o período de interdição para atividade incompatível com o cargo anteriormente exercido, obrigando-se a autoridade a observar, nesse prazo, as seguintes regras:</li><li><b>I</b> – <b>não aceitar cargo de administrador ou conselheiro</b>, ou estabelecer <b>vínculo profissional</b> com pessoa física ou jurídica com a qual tenha mantido <b>relacionamento oficial direto e relevante</b> nos <b>seis meses anteriores</b> à exoneração;</li><li><b>II</b> – <b>não intervir</b>, em benefício ou em nome de pessoa física ou jurídica, junto a órgão ou entidade da Administração Pública Federal com que tenha tido relacionamento oficial direto e relevante nos seis meses anteriores à exoneração.</li><li><b>Atenção à evolução</b>: o próprio art. 15 diz que o prazo de quatro meses vale \"<b>na ausência de lei</b> dispondo sobre prazo diverso\". Em 2013, a <b>Lei 12.813</b> fixou a quarentena em <b>seis meses</b> para os agentes do seu art. 2º, que incluem as autoridades do Código. Assim, <b>na prática atual, prevalece o prazo legal de seis meses</b>. Nas provas, porém, o Cebraspe e outras bancas cobram a literalidade do Código (quatro meses) quando a questão pergunta expressamente o que diz o <b>Código de Conduta</b>. Leia o enunciado com atenção: \"segundo o Código\" → quatro meses; \"segundo a Lei 12.813\" ou \"atualmente\" → seis meses.</li><li><b>Art. 16</b>: para facilitar o cumprimento das normas, a <b>CEP informará</b> à autoridade as <b>obrigações decorrentes da aceitação de trabalho no setor privado</b> após o seu desligamento do cargo ou função.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tema;Código de Conduta (2000);Lei 12.813/2013</th></tr></thead><tbody><tr><td>Prazo de quarentena;4 meses, na ausência de lei;6 meses</td></tr><tr><td>Quem dispensa ou autoriza;—;CEP (altos cargos) ou CGU</td></tr><tr><td>Proposta de emprego;Informar à CEP, aceita ou rejeitada;Comunicar a que pretende aceitar</td></tr><tr><td>Uso de informação não pública após o cargo;Vedada a consultoria com base nela (art. 14, II);Vedado a qualquer tempo (art. 6º, I)</td></tr><tr><td>Consequência;Advertência ou censura ética (CEP);Improbidade e demissão</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Pelo Código de Conduta da Alta Administração, o período de interdição após a exoneração é de seis meses</span><br>✅ <span class=\"certo\">o Código fixa <b>quatro meses</b>, <b>na ausência de lei</b>; a Lei 12.813/2013 fixou <b>seis meses</b></span></li><li>❌ <span class=\"banca\">A vedação de atuar em processo ou negócio de que participou em razão do cargo dura apenas o período de quarentena</span><br>✅ <span class=\"certo\">o art. 14, I, <b>não tem prazo</b></span></li><li>❌ <span class=\"banca\">A quarentena do Código impede a ex-autoridade de trabalhar em qualquer empresa privada</span><br>✅ <span class=\"certo\">impede vínculo com quem teve <b>relacionamento oficial direto e relevante</b> nos <b>seis meses anteriores</b> à exoneração</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 14, I</span></span><span class=\"vs\"><span>Nunca atuar, do outro lado, em processo ou negócio de que participou no cargo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 14, II</span></span><span class=\"vs\"><span>Vedada consultoria com informação não pública do órgão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 15</span></span><span class=\"vs\"><span>4 meses de interdição, na ausência de lei (hoje: Lei 12.813, 6 meses)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Relacionamento relevante</span></span><span class=\"vs\"><span>Nos 6 meses anteriores à exoneração</span></span></button></div></div>\n<h3>15. Sanções éticas (art. 17)</h3>\n<ul><li>A violação das normas do Código acarretará, conforme sua gravidade, as seguintes providências:</li><li><b>I</b> – <b>advertência</b>, aplicável às autoridades <b>no exercício do cargo</b>;</li><li><b>II</b> – <b>censura ética</b>, aplicável às autoridades que <b>já tiverem deixado o cargo</b>.</li><li><b>Parágrafo único</b>: as sanções são aplicadas pela <b>Comissão de Ética Pública</b>, que, conforme o caso, poderá <b>encaminhar sugestão de demissão</b> à autoridade hierarquicamente superior.</li><li>Três pontos são cobrados com frequência: (1) <b>quem aplica</b> é a <b>CEP</b>; (2) a <b>advertência</b> é para quem <b>está</b> no cargo e a <b>censura</b> para quem <b>saiu</b>; (3) a CEP <b>não demite</b>: ela pode <b>sugerir</b> a demissão (no caso, a exoneração do cargo em comissão) à autoridade superior, que decide.</li><li>Compare com o <b>Código de Ética do servidor (Decreto 1.171/1994)</b>, cuja pena aplicável pelas comissões de ética é a <b>censura</b>, e com o <b>Decreto 6.029/2007</b>, que prevê, ao fim da apuração, censura ética e outras recomendações, como a sugestão de exoneração do cargo em comissão.</li></ul>\n<table class=\"tab\"><thead><tr><th>Sanção;Para quem;Quem aplica</th></tr></thead><tbody><tr><td>Advertência;Autoridade no exercício do cargo;CEP</td></tr><tr><td>Censura ética;Autoridade que já deixou o cargo;CEP</td></tr><tr><td>Sugestão de demissão;Encaminhada à autoridade hierarquicamente superior;CEP sugere; a superior decide</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A censura ética é a sanção aplicável às autoridades que ainda estão no exercício do cargo</span><br>✅ <span class=\"certo\">censura é para quem <b>já deixou</b> o cargo; quem está no cargo recebe <b>advertência</b></span></li><li>❌ <span class=\"banca\">A Comissão de Ética Pública pode demitir a autoridade que violar o Código de Conduta</span><br>✅ <span class=\"certo\">a CEP pode <b>sugerir</b> a demissão à autoridade hierarquicamente superior</span></li><li>❌ <span class=\"banca\">As sanções do Código são aplicadas pela Controladoria-Geral da União</span><br>✅ <span class=\"certo\">são aplicadas pela <b>Comissão de Ética Pública</b></span></li></ol></div>\n<h3>16. O processo de apuração na CEP (art. 18)</h3>\n<ul><li>O processo de apuração de prática de ato em desrespeito ao Código será <b>instaurado pela CEP</b>, <b>de ofício</b> ou em razão de <b>denúncia fundamentada</b>, desde que haja <b>indícios suficientes</b>.</li><li><b>§ 1º</b>: a autoridade pública será <b>oficiada</b> para se manifestar no prazo de <b>cinco dias</b>.</li><li><b>§ 2º</b>: o eventual <b>denunciante</b>, a <b>própria autoridade</b> pública e a <b>CEP</b>, de ofício, poderão produzir <b>prova documental</b>.</li><li><b>§ 3º</b>: a CEP poderá promover as <b>diligências</b> que considerar necessárias, bem como solicitar <b>parecer de especialista</b> quando julgar imprescindível.</li><li><b>§ 4º</b>: concluídas as diligências, a CEP oficiará a autoridade para <b>nova manifestação</b>, no prazo de <b>três dias</b>.</li><li><b>§ 5º</b>: se a CEP concluir pela <b>procedência</b> da denúncia, adotará uma das penalidades do art. 17, com <b>comunicação ao denunciado e ao seu superior hierárquico</b>.</li></ul>\n<div class=\"lt-fluxo\"><span>Denúncia fundamentada ou atuação de ofício, com indícios suficientes</span> <em>→</em> <span>Instauração pela CEP</span> <em>→</em> <span>Manifestação da autoridade em 5 dias</span> <em>→</em> <span>Provas documentais (denunciante, autoridade, CEP)</span> <em>→</em> <span>Diligências e parecer de especialista</span> <em>→</em> <span>Nova manifestação em 3 dias</span> <em>→</em> <span>Decisão: advertência ou censura, com comunicação ao denunciado e ao superior</span></div>\n<div class=\"lt-stats\"><div class=\"lt-stat\"><b>10 dias</b><span>da posse para enviar informações patrimoniais à CEP (art. 4º)</span></div><div class=\"lt-stat\"><b>5 dias</b><span>primeira manifestação da autoridade (art. 18, § 1º)</span></div><div class=\"lt-stat\"><b>3 dias</b><span>nova manifestação após as diligências (art. 18, § 4º)</span></div><div class=\"lt-stat\"><b>R$ 100,00</b><span>limite dos brindes (art. 9º)</span></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A CEP pode instaurar apuração com base em denúncia anônima e sem indícios</span><br>✅ <span class=\"certo\">o processo é instaurado de ofício ou por <b>denúncia fundamentada</b>, desde que haja <b>indícios suficientes</b></span></li><li>❌ <span class=\"banca\">A autoridade dispõe de dez dias para a primeira manifestação no processo da CEP</span><br>✅ <span class=\"certo\">são <b>cinco dias</b>; após as diligências, <b>três dias</b></span></li><li>❌ <span class=\"banca\">Somente a CEP pode produzir prova documental no processo</span><br>✅ <span class=\"certo\">também o <b>denunciante</b> e a <b>própria autoridade</b></span></li></ol></div>\n<h3>17. Normas complementares e consultas (art. 19)</h3>\n<ul><li>A CEP, se entender necessário, poderá fazer <b>recomendações</b> ou <b>sugerir ao Presidente da República normas complementares, interpretativas e orientadoras</b> das disposições do Código, bem como <b>responderá às consultas</b> formuladas por autoridades públicas sobre situações específicas.</li><li>Ao longo dos anos, a CEP editou <b>resoluções</b> e <b>orientações</b> interpretando o Código (por exemplo, sobre presentes, participação em eventos, atividades após o cargo e a Declaração Confidencial de Informações). As respostas às consultas formam uma espécie de \"jurisprudência ética\" que orienta outras autoridades.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 18</span></span><span class=\"vs\"><span>Apuração pela CEP: de ofício ou por denúncia fundamentada com indícios</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prazos</span></span><span class=\"vs\"><span>5 dias e, após diligências, 3 dias</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 19</span></span><span class=\"vs\"><span>CEP recomenda, sugere normas ao Presidente e responde a consultas</span></span></button></div></div>\n<h3>18. O Código dentro do sistema de gestão da ética</h3>\n<ul><li>O Código de Conduta é uma das peças do <b>Sistema de Gestão da Ética do Poder Executivo Federal</b> (Decreto 6.029/2007). A <b>CEP</b> é a instância responsável por ele e também coordena as <b>comissões de ética</b> dos órgãos e entidades, que aplicam o <b>Código de Ética do servidor (Decreto 1.171/1994)</b> aos demais agentes.</li><li>A divisão de tarefas é lógica: a <b>CEP</b> cuida das <b>altas autoridades</b> (as do Código de Conduta e as dos incisos I a IV do art. 2º da Lei 12.813); as <b>comissões de ética setoriais</b> cuidam dos <b>servidores</b> de cada órgão; a <b>CGU</b> cuida do conflito de interesses dos <b>demais agentes</b> e do sistema de correição.</li><li>A CEP é composta por <b>sete brasileiros</b> de idoneidade moral, reputação ilibada e notória experiência em administração pública, designados pelo <b>Presidente da República</b> para <b>mandatos de três anos</b>, não coincidentes, permitida uma única recondução (Decreto 6.029/2007). Seus membros não recebem remuneração, e os trabalhos são considerados prestação de <b>relevante serviço público</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Instância;Quem fiscaliza;Norma principal</th></tr></thead><tbody><tr><td>Comissão de Ética Pública (CEP);Altas autoridades (art. 2º do Código; art. 2º, I a IV, da Lei 12.813);Código de Conduta da Alta Administração; Lei 12.813</td></tr><tr><td>Comissões de ética dos órgãos;Servidores e empregados de cada órgão;Decreto 1.171/1994</td></tr><tr><td>CGU;Demais agentes, quanto a conflito de interesses; correição;Lei 12.813; Lei 8.112</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A CEP é composta por cinco membros com mandato de dois anos</span><br>✅ <span class=\"certo\">são <b>sete</b> membros, designados pelo Presidente, com mandato de <b>três anos</b>, permitida uma recondução</span></li><li>❌ <span class=\"banca\">As comissões de ética dos ministérios aplicam o Código de Conduta da Alta Administração aos Ministros</span><br>✅ <span class=\"certo\">as altas autoridades ficam a cargo da <b>CEP</b>; as comissões setoriais aplicam o <b>Decreto 1.171</b> aos servidores</span></li></ol></div>\n<h3>19. Banco de casos comentados</h3>\n<ul><li>Para cada caso, pergunte: (1) a pessoa é autoridade do art. 2º? (2) qual artigo do Código está em jogo? (3) ela está no cargo ou já saiu (advertência ou censura)? (4) há também incidência da Lei 12.813, da Lei 8.112 ou da Lei de Improbidade?</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 1. As ações da distribuidora de energia</b><p>Recém-empossado, o Ministro de Minas e Energia possui ações de uma distribuidora de energia elétrica. Ele não informa nada à CEP.</p><details><summary>Ver a solução comentada</summary><p>Violou o <b>art. 4º</b>: deveria, em <b>dez dias da posse</b>, informar à CEP a situação patrimonial que possa suscitar conflito, indicando <b>como pretende evitá-lo</b> (por exemplo, vendendo as ações ou entregando a gestão a terceiro independente). Também deve se abster de decidir sobre a empresa. Sujeita-se a <b>advertência</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 2. A compra de dólares</b><p>O presidente do Banco Central, sabendo que o Copom vai alterar a taxa de juros, compra dólares em grande volume para fins especulativos.</p><details><summary>Ver a solução comentada</summary><p>Violação do <b>art. 5º, § 1º</b> (investimento em moedas para fim especulativo com base em informação privilegiada). Há, também, conflito de interesses (Lei 12.813, art. 5º, I), possível improbidade e crime (uso de informação privilegiada).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 3. A doação ao filho</b><p>Uma secretária-executiva transfere ao filho um apartamento de alto valor.</p><details><summary>Ver a solução comentada</summary><p>Ato de gestão patrimonial que envolve <b>transferência de bens a descendente</b>: deve ser <b>imediatamente comunicado</b> à CEP (art. 5º, I, a). Não é proibido; a regra é de <b>transparência</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 4. O congresso internacional</b><p>Um diretor de agência é convidado por uma universidade estrangeira para proferir palestra; a universidade paga passagem, hotel e um cachê.</p><details><summary>Ver a solução comentada</summary><p>Permitido pelo <b>art. 7º, parágrafo único</b>, desde que o cachê seja <b>tornado público</b> e a universidade <b>não tenha interesse</b> em decisão a ser tomada pelo diretor.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 5. O convite da operadora de telefonia</b><p>O mesmo diretor, agora da agência de telecomunicações, é convidado por uma operadora de telefonia para um \"evento de relacionamento\" em resort, com tudo pago.</p><details><summary>Ver a solução comentada</summary><p><b>Vedado</b>: o promotor tem <b>interesse</b> em decisões da autoridade (art. 7º, parágrafo único), e a hospitalidade gera dúvida sobre a probidade (art. 7º, caput).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 6. A sociedade com o irmão</b><p>Um presidente de autarquia mantém 12% do capital de uma empresa que presta serviços a vários ministérios.</p><details><summary>Ver a solução comentada</summary><p>Por possuir participação <b>superior a 5%</b> em <b>empresa que negocia com o Poder Público</b>, deve <b>tornar público</b> o fato (art. 6º). Deve, ainda, abster-se de qualquer decisão envolvendo a empresa e observar a Lei 12.813.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 7. A proposta recusada</b><p>Um Ministro recebe proposta para presidir um banco privado depois de deixar o governo e a recusa na hora, sem avisar ninguém.</p><details><summary>Ver a solução comentada</summary><p>Violou o <b>art. 13</b>: a proposta deveria ter sido <b>imediatamente informada</b> à CEP <b>independentemente da aceitação ou rejeição</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 8. A consultoria no mês seguinte</b><p>Dois meses após deixar o cargo de secretário-executivo, o ex-dirigente passa a prestar consultoria a empresas interessadas em programas do ministério, usando dados internos ainda não divulgados.</p><details><summary>Ver a solução comentada</summary><p>Viola o <b>art. 14, II</b> (consultoria com informação não divulgada publicamente) e o período de interdição (art. 15; atualmente, quarentena de <b>seis meses</b> da Lei 12.813). Como já deixou o cargo, a sanção ética aplicável é a <b>censura ética</b>, além de improbidade e outras responsabilidades.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 9. O voto no colegiado</b><p>Um diretor de agência que, antes de assumir, foi sócio de escritório que advoga para uma concessionária participa, sem declarar nada, do julgamento de processo da concessionária.</p><details><summary>Ver a solução comentada</summary><p>Violou o <b>art. 10</b>: deveria esclarecer o possível conflito e <b>comunicar o fato impeditivo</b> de sua participação na decisão colegiada.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 10. O presente do empresário estrangeiro</b><p>Durante viagem oficial, um empresário estrangeiro (não autoridade) oferece ao Ministro uma caneta de ouro.</p><details><summary>Ver a solução comentada</summary><p>A exceção do art. 9º vale para presentes de <b>autoridades estrangeiras</b> em casos <b>protocolares</b> com <b>reciprocidade</b>. Empresário não é autoridade: o presente deve ser <b>recusado</b> (ou, se impossível recusar, entregue para destinação definida pela CEP).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 11. O mandato do pai</b><p>Um Ministro administra, por procuração e sem receber nada, os imóveis do pai idoso, recebendo aluguéis e pagando despesas.</p><details><summary>Ver a solução comentada</summary><p>Permitido: <b>encargo de mandatário não remunerado</b>, sem atos de comércio nem incompatibilidade (art. 8º). Ele não pode, porém, atuar como procurador do pai junto a repartições públicas fora das exceções legais.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 12. A briga pública</b><p>Durante uma crise, o Ministro A critica pela imprensa uma decisão do Ministro B, de outra pasta, sobre tema que não é da competência de A.</p><details><summary>Ver a solução comentada</summary><p>Violou o <b>art. 11</b>: divergências devem ser resolvidas <b>internamente</b>, e a autoridade não deve se manifestar publicamente sobre matéria <b>fora da sua área</b>. Se atacar a honorabilidade de B, viola também o art. 12, I.</p></details></div>\n<h3>20. Comparando os três instrumentos de ética do Executivo federal</h3>\n<table class=\"tab\"><thead><tr><th>Ponto;Código de Conduta da Alta Administração;Código de Ética do Servidor (Decreto 1.171/1994);Lei 12.813/2013</th></tr></thead><tbody><tr><td>Natureza;Norma ética aprovada pelo Presidente (EM 37/2000);Decreto com regras deontológicas;Lei</td></tr><tr><td>Alcance;Ministros, secretários, natureza especial, DAS 6, dirigentes da indireta;Todo servidor do Executivo federal;Altos cargos (inclusive DAS 5) e todos os agentes, conforme o artigo</td></tr><tr><td>Quem aplica;CEP;Comissões de ética dos órgãos;CEP e CGU (fiscalização); Judiciário (improbidade); autoridade disciplinar (demissão)</td></tr><tr><td>Sanções;Advertência (no cargo) e censura ética (fora do cargo);Censura;Improbidade e demissão</td></tr><tr><td>Presentes;Vedados, salvo protocolo com reciprocidade; brindes até R$ 100;Vedado receber vantagens para cumprir a missão ou influenciar;Vedados de interessados fora do regulamento</td></tr><tr><td>Pós-cargo;4 meses, na ausência de lei;—;6 meses</td></tr></tbody></table>\n<ul><li>O que une os três: a separação entre o <b>público</b> e o <b>privado</b>, a <b>transparência</b> sobre interesses pessoais, a <b>prevenção</b> de conflitos, a <b>consulta</b> em caso de dúvida e o objetivo de preservar a <b>confiança da sociedade</b>.</li></ul>\n<h3>21. Perguntas frequentes</h3>\n<ul><li><b>O Código é lei?</b> Não. É norma ética aprovada pelo Presidente da República a partir de exposição de motivos, com força vinculante para as autoridades da alta administração no plano ético. As sanções que ele prevê são <b>éticas</b>.</li><li><b>Um diretor de estatal federal se submete?</b> Sim: presidentes e diretores de <b>empresas públicas e sociedades de economia mista</b> estão no art. 2º, III.</li><li><b>E um coordenador-geral (nível intermediário)?</b> Não se submete ao Código de Conduta, mas sim ao Código de Ética do servidor (Decreto 1.171) e, conforme o caso, à Lei 12.813.</li><li><b>Quem já saiu do cargo pode ser punido?</b> Sim, com <b>censura ética</b>, se violar as regras aplicáveis após a saída ou se a apuração se referir a fatos do período em que estava no cargo.</li><li><b>A CEP pode exonerar um Ministro?</b> Não. Pode <b>sugerir</b> a demissão (exoneração) ao Presidente da República, que decide.</li><li><b>O Código proíbe ter ações?</b> Não. Exige comunicação de alterações relevantes, publicidade de participações acima de 5% em certas empresas e veda investimentos com base em informação privilegiada, especialmente especulativos.</li><li><b>Pode aceitar viagem paga para evento?</b> Sim, se o promotor <b>não tiver interesse</b> em decisão da autoridade e se eventual remuneração for <b>tornada pública</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Código de Conduta da Alta Administração é lei ordinária aprovada pelo Congresso Nacional</span><br>✅ <span class=\"certo\">foi aprovado pelo <b>Presidente da República</b>, a partir da <b>Exposição de Motivos nº 37/2000</b></span></li><li>❌ <span class=\"banca\">Os diretores de empresas públicas federais estão fora do alcance do Código de Conduta</span><br>✅ <span class=\"certo\">estão incluídos (art. 2º, III)</span></li><li>❌ <span class=\"banca\">A autoridade que já deixou o cargo não pode sofrer nenhuma sanção ética</span><br>✅ <span class=\"certo\">pode receber <b>censura ética</b></span></li></ol></div>\n<h3>22. Como as bancas cobram</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>O Cebraspe explora a literalidade: quem está sujeito (art. 2º), os padrões do art. 3º, o prazo de dez dias do art. 4º, a vedação de investimentos especulativos, a regra dos 5% (publicidade, e não proibição), a exceção dos presentes (autoridade estrangeira, protocolo, reciprocidade), o limite de R$ 100,00 dos brindes, as vedações de manifestação pública, o dever de informar propostas aceitas ou rejeitadas, os quatro meses do art. 15, a advertência e a censura e os prazos de cinco e três dias do processo. A FGV prefere casos de Ministros e diretores em situações de viagem, presentes, propostas de emprego e entrevistas.</p></div>\n<ul><li><b>Checklist de resolução</b>: (1) É autoridade do art. 2º? (2) Qual o tema: patrimônio (arts. 4º a 6º), favores e eventos (art. 7º), mandato (art. 8º), presentes (art. 9º), relacionamento (art. 10), manifestações (arts. 11 e 12), propostas (art. 13), pós-cargo (arts. 14 a 16), sanções e processo (arts. 17 a 19)? (3) Está no cargo (advertência) ou saiu (censura)? (4) A questão pergunta sobre o Código ou sobre a lei atual (quatro × seis meses)?</li></ul>\n<h3>23. Como responder a uma discursiva</h3>\n<ul><li><b>Introdução</b>: a ética da alta administração e o papel do exemplo; o Código de 2000 e a CEP.</li><li><b>Desenvolvimento 1</b>: finalidades (clareza, exemplo, imagem, conflitos, consulta) e destinatários.</li><li><b>Desenvolvimento 2</b>: deveres de transparência patrimonial (arts. 4º a 6º) e vedações (favores, presentes, manifestações públicas).</li><li><b>Desenvolvimento 3</b>: regras pós-cargo e a relação com a Lei 12.813/2013 (quarentena de seis meses).</li><li><b>Desenvolvimento 4</b>: sanções (advertência e censura ética) e processo na CEP.</li><li><b>Conclusão</b>: a confiança pública como objetivo e o caráter preventivo do Código.</li></ul>\n<h3>24. Resumo final do tópico</h3>\n<ul><li><b>Origem</b>: Exposição de Motivos nº 37/2000; aprovado em 21/8/2000; aplicado pela <b>CEP</b>.</li><li><b>Finalidades (art. 1º)</b>: clareza das regras para a sociedade aferir a lisura do processo decisório; exemplo das autoridades; preservar a imagem de quem age eticamente; regras sobre conflitos e atividades posteriores; minimizar conflitos; mecanismo de <b>consulta</b> prévia.</li><li><b>Destinatários (art. 2º)</b>: Ministros e Secretários de Estado; natureza especial, secretários-executivos, secretários e DAS 6 ou equivalentes; presidentes e diretores de agências, autarquias, fundações, empresas públicas e sociedades de economia mista.</li><li><b>Padrões (art. 3º)</b>: integridade, moralidade, clareza de posições e decoro, inclusive na relação entre atividades públicas e privadas.</li><li><b>Patrimônio</b>: informações à CEP em <b>10 dias</b> da posse (art. 4º); comunicação <b>imediata</b> de alterações relevantes (art. 5º); vedação de investimentos com base em informação privilegiada, inclusive especulativos (art. 5º, § 1º); sigilo em envelope lacrado (art. 5º, § 4º); publicidade de participação <b>superior a 5%</b> (art. 6º).</li><li><b>Favores e eventos (art. 7º)</b>: vedados favores que gerem dúvida sobre a probidade; eventos permitidos com remuneração pública e despesas pagas por promotor <b>sem interesse</b> em decisão.</li><li><b>Mandatário (art. 8º)</b>: permitido, se <b>não remunerado</b> e compatível.</li><li><b>Presentes (art. 9º)</b>: vedados, salvo de <b>autoridade estrangeira</b>, em caso <b>protocolar</b>, com <b>reciprocidade</b>; brindes sem valor comercial ou até <b>R$ 100,00</b>.</li><li><b>Relacionamento (art. 10)</b>: esclarecer conflitos e comunicar impedimentos em decisões coletivas.</li><li><b>Manifestações (arts. 11 e 12)</b>: divergências resolvidas <b>internamente</b>; vedado opinar publicamente sobre honorabilidade e desempenho de outra autoridade federal e sobre o <b>mérito</b> de questão que vai decidir.</li><li><b>Propostas (art. 13)</b>: informar <b>imediatamente</b> à CEP, aceitas ou rejeitadas.</li><li><b>Pós-cargo (arts. 14 e 15)</b>: nunca atuar em processo ou negócio de que participou; vedada consultoria com informação não pública; interdição de <b>4 meses</b> na ausência de lei (hoje, <b>6 meses</b> da Lei 12.813).</li><li><b>Sanções (art. 17)</b>: <b>advertência</b> (no cargo) e <b>censura ética</b> (fora do cargo), pela CEP, que pode <b>sugerir</b> a demissão.</li><li><b>Processo (art. 18)</b>: de ofício ou por denúncia fundamentada com indícios; manifestação em <b>5 dias</b>; provas; diligências; nova manifestação em <b>3 dias</b>; decisão comunicada ao denunciado e ao superior.</li></ul>\n<h3>25. Revisão relâmpago</h3>\n<ul><li>Prazo para informar patrimônio à CEP após a posse? <b>10 dias.</b></li><li>Alteração patrimonial relevante? <b>Comunicação imediata.</b></li><li>Participação acima de 5% em instituição financeira? <b>Tornar público.</b></li><li>Presente de empresário? <b>Vedado.</b> De autoridade estrangeira? <b>Só protocolar, com reciprocidade.</b></li><li>Brinde? <b>Sem valor comercial ou até R$ 100,00.</b></li><li>Palestra paga? <b>Permitida, com remuneração pública e promotor sem interesse em decisão.</b></li><li>Entrevista sobre processo que vai decidir? <b>Vedada (art. 12, II).</b></li><li>Proposta de emprego recusada? <b>Informar à CEP mesmo assim.</b></li><li>Quarentena do Código? <b>4 meses, na ausência de lei.</b> E hoje? <b>6 meses (Lei 12.813).</b></li><li>Sanção no cargo? <b>Advertência.</b> Fora do cargo? <b>Censura ética.</b> Quem aplica? <b>CEP.</b></li><li>Prazos do processo? <b>5 dias e 3 dias.</b></li></ul>\n<h3>26. Três frases para levar para a prova</h3>\n<ul><li>\"<b>Na alta administração, a ética é exemplo: integridade, moralidade, clareza de posições e decoro.</b>\"</li><li>\"<b>Patrimônio em 10 dias, alterações na hora, 5% em público, presente só protocolar e brinde até cem reais.</b>\"</li><li>\"<b>Advertência para quem está, censura para quem saiu; a CEP aplica e sugere a demissão.</b>\"</li></ul>\n<h3>27. Contexto histórico: por que o Código surgiu em 2000</h3>\n<ul><li>Na segunda metade da década de 1990, o Brasil passava por reformas do Estado: privatizações, criação das <b>agências reguladoras</b>, abertura econômica. Esse movimento aproximou as altas autoridades de grandes interesses empresariais (concessões, regulação de setores inteiros como energia, telecomunicações e petróleo) e aumentou o risco de <b>captura</b> do Estado por interesses privados e da \"porta giratória\" entre governo e mercado.</li><li>Ao mesmo tempo, organismos internacionais, como a <b>OCDE</b>, recomendavam aos países a adoção de <b>infraestruturas éticas</b> (*ethics infrastructure*): códigos de conduta claros, órgãos responsáveis por orientá-los, mecanismos de declaração de interesses e de consulta, e sanções proporcionais.</li><li>O Brasil respondeu com a criação da <b>Comissão de Ética Pública (1999)</b> e com a aprovação do <b>Código de Conduta da Alta Administração Federal (2000)</b>. Depois vieram o <b>Sistema de Gestão da Ética</b> (Decreto 6.029/2007), a <b>Lei de Acesso à Informação</b> (2011), a <b>Lei de Conflito de Interesses</b> (2013), a <b>Lei Anticorrupção</b> (Lei 12.846/2013, que responsabiliza empresas) e a política de <b>governança e integridade</b> (Decreto 9.203/2017). O Código de 2000 foi a primeira peça desse sistema.</li></ul>\n<div class=\"lt-fluxo\"><span>1999: criação da CEP</span> <em>→</em> <span>2000: Código de Conduta da Alta Administração</span> <em>→</em> <span>2007: Sistema de Gestão da Ética (Decreto 6.029)</span> <em>→</em> <span>2011: LAI</span> <em>→</em> <span>2013: Lei 12.813 e Lei Anticorrupção</span> <em>→</em> <span>2017: Governança e integridade (Decreto 9.203)</span></div>\n<h3>28. A ética do exemplo</h3>\n<ul><li>A segunda finalidade do Código, \"contribuir para o aperfeiçoamento dos padrões éticos da Administração a partir do <b>exemplo</b> dado pelas autoridades de nível hierárquico superior\", traduz uma ideia antiga da filosofia moral: as virtudes se aprendem pela <b>imitação</b> e pelo <b>hábito</b>. Aristóteles já dizia que nos tornamos justos praticando atos justos, e que a educação moral depende de bons modelos.</li><li>Nas organizações, o fenômeno é conhecido como \"<b>tom do topo</b>\" (*tone at the top*): a cultura ética de um órgão é fortemente definida pelo comportamento de seus dirigentes. Um Ministro que aceita favores de empresas autoriza, na prática, que seus subordinados façam o mesmo; um Ministro que recusa presentes, declara seus interesses e se afasta de processos em que está impedido ensina, pelo exemplo, que as regras valem para todos.</li><li>Por isso os programas de integridade (Decreto 9.203/2017) colocam o <b>comprometimento da alta administração</b> como primeiro eixo: sem ele, nenhum código funciona.</li></ul>\n<h3>29. Um dia na vida de uma autoridade sujeita ao Código</h3>\n<ul><li><b>Manhã</b>: a secretária-executiva recebe, no gabinete, representantes de uma associação empresarial. A audiência consta da <b>agenda pública</b> (Lei 12.813, art. 11). Ao final, a associação oferece uma caneta personalizada (brinde de baixo valor: aceitável) e um convite para jantar em restaurante caro, pago pela entidade, que tem interesse em uma portaria em elaboração (vedado: favor de quem tem interesse em decisão).</li><li><b>Meio-dia</b>: um jornalista pergunta a opinião dela sobre um recurso que a empresa X apresentou e que ela vai julgar na semana seguinte. Ela responde que não comenta o mérito de questões que ainda vai decidir (art. 12, II).</li><li><b>Tarde</b>: ela recebe, por e-mail, uma sondagem de um banco para um cargo de diretoria quando deixar o governo. Recusa, mas registra a proposta junto à <b>CEP</b> (art. 13).</li><li><b>Fim do dia</b>: ela pretende vender um imóvel e comprar cotas de um fundo. Como tem dúvida sobre a compatibilidade do investimento, faz uma <b>consulta prévia</b> à CEP (art. 5º, § 3º).</li><li><b>Meses depois, ao sair do cargo</b>: ela observa a <b>quarentena</b> antes de aceitar vínculos com empresas com que teve relacionamento relevante, nunca atua em processos de que participou e não presta consultoria com informações internas (arts. 14 e 15; Lei 12.813).</li><li>Esse roteiro mostra o espírito do Código: <b>transparência</b> (agenda, comunicação de propostas, informações patrimoniais), <b>prevenção</b> (consulta prévia, impedimentos) e <b>contenção</b> (não opinar sobre o mérito, não aceitar favores).</li></ul>\n<h3>30. Mapa mental final</h3>\n<ul><li><b>Quem</b>: topo do Executivo federal (Ministros, Secretários de Estado, natureza especial, secretários-executivos, DAS 6 ou equivalentes, presidentes e diretores da indireta e das agências).</li><li><b>Para quê</b>: clareza, exemplo, imagem, prevenção de conflitos, limites pós-cargo, consulta.</li><li><b>Como agir no cargo</b>: integridade, moralidade, clareza de posições, decoro; informar o patrimônio em 10 dias; comunicar alterações relevantes de imediato; não especular com informação privilegiada; dar publicidade a participações acima de 5%; recusar favores e presentes (salvo protocolo com reciprocidade e brindes até R$ 100); declarar impedimentos; resolver divergências internamente; não opinar sobre colegas nem sobre o mérito do que vai decidir; informar propostas de trabalho.</li><li><b>Como agir depois</b>: não atuar em processos de que participou; não prestar consultoria com informação interna; respeitar a quarentena (4 meses no Código, 6 meses pela Lei 12.813).</li><li><b>Se violar</b>: advertência (no cargo) ou censura ética (fora do cargo), aplicadas pela CEP, que pode sugerir a demissão; processo com manifestações em 5 e 3 dias.</li><li><b>Na dúvida</b>: consultar a CEP antes de agir.</li><li>Esse mapa cobre a grande maioria das questões sobre o Código e permite comparar rapidamente suas regras com as da Lei 12.813/2013 e do Código de Ética do servidor (Decreto 1.171/1994), que são os outros dois pilares da ética no Poder Executivo federal.</li></ul>\n<h3>31. Exercício final de fixação</h3>\n<ul><li><b>Item 1</b>: \"O Código exige que a autoridade informe à CEP, em dez dias da posse, toda a sua situação patrimonial, sem exceção.\" <b>Errado</b>: exige informações sobre a situação patrimonial que, <b>real ou potencialmente, possa suscitar conflito</b>, indicando como evitá-lo; a declaração completa de bens é a da Lei 8.730/1993.</li><li><b>Item 2</b>: \"A autoridade pode aceitar que empresa interessada em decisão sua custeie viagem para congresso, desde que torne pública a remuneração.\" <b>Errado</b>: o promotor que paga as despesas <b>não pode ter interesse</b> em decisão da autoridade.</li><li><b>Item 3</b>: \"A CEP pode aplicar censura ética a ex-Ministro que, após deixar o cargo, prestou consultoria com base em informações internas não divulgadas.\" <b>Certo</b>: art. 14, II, e art. 17, II.</li><li><b>Item 4</b>: \"Divergências entre Ministros devem ser levadas a público, em nome da transparência.\" <b>Errado</b>: devem ser resolvidas <b>internamente</b>, mediante coordenação administrativa (art. 11).</li><li><b>Item 5</b>: \"Participação acima de 5% em empresa que negocia com o Poder Público deve ser tornada pública.\" <b>Certo</b>: art. 6º.</li></ul>",
+"quiz": [
+{
+"p": "O Código de Conduta da Alta Administração Federal foi aprovado a partir da Exposição de Motivos nº 37/2000.",
+"c": true,
+"x": "Aprovado pelo Presidente da República em 21 de agosto de 2000.",
+"e": "EM nº 37/2000."
+},
+{
+"p": "O Código de Conduta da Alta Administração Federal aplica-se a todos os ocupantes de cargos em comissão do Poder Executivo federal.",
+"c": false,
+"x": "Aplica-se ao topo: Ministros, Secretários de Estado, natureza especial, secretários-executivos, DAS 6 ou equivalentes e dirigentes da administração indireta.",
+"e": "Código de Conduta, art. 2º."
+},
+{
+"p": "Os padrões éticos do Código de Conduta são exigidos da autoridade pública na relação entre suas atividades públicas e privadas, de modo a prevenir eventuais conflitos de interesses.",
+"c": true,
+"x": "Art. 3º, parágrafo único.",
+"e": "Código de Conduta, art. 3º."
+},
+{
+"p": "Além da declaração de bens e rendas, a autoridade deve enviar à Comissão de Ética Pública, no prazo de dez dias contados da posse, informações sobre sua situação patrimonial que, real ou potencialmente, possa suscitar conflito com o interesse público, indicando o modo pelo qual irá evitá-lo.",
+"c": true,
+"x": "Art. 4º.",
+"e": "Código de Conduta, art. 4º."
+},
+{
+"p": "As informações patrimoniais que possam suscitar conflito devem ser enviadas à CEP no prazo de trinta dias da posse.",
+"c": false,
+"x": "O prazo é de dez dias.",
+"pg": "Trocar o prazo.",
+"e": "Código de Conduta, art. 4º."
+},
+{
+"p": "As alterações relevantes no patrimônio da autoridade pública, como a transferência de bens a descendente, devem ser imediatamente comunicadas à CEP.",
+"c": true,
+"x": "Art. 5º, I, a.",
+"e": "Código de Conduta, art. 5º."
+},
+{
+"p": "É vedado à autoridade o investimento em bens cujo valor ou cotação possa ser afetado por decisão ou política governamental a respeito da qual tenha informações privilegiadas, inclusive investimentos de renda variável ou em commodities, contratos futuros e moedas para fim especulativo.",
+"c": true,
+"x": "Art. 5º, § 1º, ressalvadas as modalidades especificadas pela CEP.",
+"e": "Código de Conduta, art. 5º, § 1º."
+},
+{
+"p": "A autoridade pública poderá consultar previamente a CEP a respeito de ato específico de gestão de bens que pretenda realizar.",
+"c": true,
+"x": "Art. 5º, § 3º.",
+"e": "Código de Conduta, art. 5º, § 3º."
+},
+{
+"p": "As comunicações e consultas sobre a situação patrimonial da autoridade, após conferidas e respondidas, são acondicionadas em envelope lacrado, que somente pode ser aberto por determinação da Comissão.",
+"c": true,
+"x": "Art. 5º, § 4º, para preservar o sigilo.",
+"e": "Código de Conduta, art. 5º, § 4º."
+},
+{
+"p": "É vedado à autoridade pública manter participação superior a cinco por cento do capital de instituição financeira.",
+"c": false,
+"x": "O Código exige que a autoridade torne público o fato, sem proibi-lo.",
+"pg": "Confundir publicidade com proibição.",
+"e": "Código de Conduta, art. 6º."
+},
+{
+"p": "A autoridade que mantiver participação superior a cinco por cento do capital de sociedade de economia mista, de instituição financeira ou de empresa que negocie com o Poder Público tornará público esse fato.",
+"c": true,
+"x": "Art. 6º.",
+"e": "Código de Conduta, art. 6º."
+},
+{
+"p": "É vedado à autoridade receber transporte, hospedagem ou quaisquer favores de particulares de forma a permitir situação que possa gerar dúvida sobre a sua probidade ou honorabilidade.",
+"c": true,
+"x": "Art. 7º.",
+"e": "Código de Conduta, art. 7º."
+},
+{
+"p": "É permitida à autoridade a participação em seminários, congressos e eventos semelhantes, desde que tornada pública eventual remuneração, bem como o pagamento das despesas de viagem pelo promotor do evento, o qual não poderá ter interesse em decisão a ser tomada pela autoridade.",
+"c": true,
+"x": "Art. 7º, parágrafo único.",
+"e": "Código de Conduta, art. 7º."
+},
+{
+"p": "É vedada à autoridade pública a participação remunerada em congressos e seminários.",
+"c": false,
+"x": "É permitida, desde que tornada pública a remuneração.",
+"e": "Código de Conduta, art. 7º."
+},
+{
+"p": "É permitido à autoridade o exercício não remunerado de encargo de mandatário, desde que não implique a prática de atos de comércio ou outros incompatíveis com o cargo.",
+"c": true,
+"x": "Art. 8º.",
+"e": "Código de Conduta, art. 8º."
+},
+{
+"p": "O Código de Conduta permite o exercício remunerado de encargo de mandatário, desde que compatível com o cargo.",
+"c": false,
+"x": "Só é permitido o exercício não remunerado.",
+"e": "Código de Conduta, art. 8º."
+},
+{
+"p": "É vedada à autoridade pública a aceitação de presentes, salvo de autoridades estrangeiras nos casos protocolares em que houver reciprocidade.",
+"c": true,
+"x": "Art. 9º.",
+"e": "Código de Conduta, art. 9º."
+},
+{
+"p": "A autoridade pode aceitar presentes de empresários estrangeiros durante viagens oficiais, desde que haja reciprocidade.",
+"c": false,
+"x": "A exceção é para presentes de autoridades estrangeiras, em casos protocolares, com reciprocidade.",
+"e": "Código de Conduta, art. 9º."
+},
+{
+"p": "Não se consideram presentes os brindes que não tenham valor comercial ou que, distribuídos a título de cortesia, propaganda, divulgação habitual ou por ocasião de eventos especiais ou datas comemorativas, não ultrapassem o valor de cem reais.",
+"c": true,
+"x": "Art. 9º, parágrafo único.",
+"e": "Código de Conduta, art. 9º."
+},
+{
+"p": "Pelo Código de Conduta da Alta Administração, brindes distribuídos em datas comemorativas podem ser aceitos até o valor de quinhentos reais.",
+"c": false,
+"x": "O limite é de cem reais.",
+"e": "Código de Conduta, art. 9º."
+},
+{
+"p": "No relacionamento com outros órgãos e funcionários, a autoridade deve esclarecer a existência de eventual conflito de interesses e comunicar qualquer fato impeditivo de sua participação em decisão coletiva ou em órgão colegiado.",
+"c": true,
+"x": "Art. 10.",
+"e": "Código de Conduta, art. 10."
+},
+{
+"p": "As divergências entre autoridades públicas devem ser resolvidas internamente, mediante coordenação administrativa.",
+"c": true,
+"x": "Art. 11.",
+"e": "Código de Conduta, art. 11."
+},
+{
+"p": "É vedado à autoridade opinar publicamente a respeito da honorabilidade e do desempenho funcional de outra autoridade pública federal.",
+"c": true,
+"x": "Art. 12, I.",
+"e": "Código de Conduta, art. 12."
+},
+{
+"p": "É vedado à autoridade opinar publicamente sobre o mérito de questão que lhe será submetida, para decisão individual ou em órgão colegiado.",
+"c": true,
+"x": "Art. 12, II.",
+"e": "Código de Conduta, art. 12."
+},
+{
+"p": "O Código de Conduta proíbe as autoridades de concederem entrevistas sobre as políticas públicas de suas pastas.",
+"c": false,
+"x": "A vedação é específica: honorabilidade e desempenho de outra autoridade federal e mérito de questão que ainda vai decidir.",
+"e": "Código de Conduta, art. 12."
+},
+{
+"p": "As propostas de trabalho ou de negócio futuro no setor privado devem ser imediatamente informadas à CEP, independentemente de sua aceitação ou rejeição.",
+"c": true,
+"x": "Art. 13.",
+"e": "Código de Conduta, art. 13."
+},
+{
+"p": "A autoridade somente precisa informar à CEP as propostas de trabalho no setor privado que pretenda aceitar.",
+"c": false,
+"x": "Deve informar independentemente da aceitação ou rejeição.",
+"e": "Código de Conduta, art. 13."
+},
+{
+"p": "Após deixar o cargo, a autoridade não poderá atuar em benefício ou em nome de pessoa física ou jurídica, inclusive sindicato ou associação de classe, em processo ou negócio do qual tenha participado em razão do cargo.",
+"c": true,
+"x": "Art. 14, I.",
+"e": "Código de Conduta, art. 14."
+},
+{
+"p": "Após deixar o cargo, a autoridade não poderá prestar consultoria valendo-se de informações não divulgadas publicamente a respeito de programas ou políticas do órgão a que esteve vinculada.",
+"c": true,
+"x": "Art. 14, II.",
+"e": "Código de Conduta, art. 14."
+},
+{
+"p": "Segundo o Código de Conduta, na ausência de lei dispondo sobre prazo diverso, é de quatro meses, contados da exoneração, o período de interdição para atividade incompatível com o cargo anteriormente exercido.",
+"c": true,
+"x": "Art. 15. Atualmente, a Lei 12.813/2013 fixa seis meses para os altos cargos.",
+"e": "Código de Conduta, art. 15."
+},
+{
+"p": "Atualmente, a quarentena aplicável às altas autoridades do Executivo federal é de seis meses, por força da Lei 12.813/2013.",
+"c": true,
+"x": "O próprio Código ressalva prazo diverso fixado em lei.",
+"e": "Lei 12.813, art. 6º, II."
+},
+{
+"p": "A violação das normas do Código de Conduta acarreta advertência, aplicável às autoridades no exercício do cargo, ou censura ética, aplicável às que já tiverem deixado o cargo.",
+"c": true,
+"x": "Art. 17.",
+"e": "Código de Conduta, art. 17."
+},
+{
+"p": "A censura ética é a sanção aplicável às autoridades que estão no exercício do cargo, e a advertência, às que já o deixaram.",
+"c": false,
+"x": "É o contrário: advertência para quem está no cargo; censura ética para quem saiu.",
+"pg": "Inverter as sanções.",
+"e": "Código de Conduta, art. 17."
+},
+{
+"p": "A Comissão de Ética Pública aplica as sanções do Código de Conduta e pode, conforme o caso, encaminhar sugestão de demissão à autoridade hierarquicamente superior.",
+"c": true,
+"x": "Art. 17, parágrafo único.",
+"e": "Código de Conduta, art. 17."
+},
+{
+"p": "A Comissão de Ética Pública tem competência para demitir as autoridades que violarem o Código de Conduta.",
+"c": false,
+"x": "A CEP pode apenas sugerir a demissão à autoridade hierarquicamente superior.",
+"e": "Código de Conduta, art. 17."
+},
+{
+"p": "O processo de apuração na CEP pode ser instaurado de ofício ou em razão de denúncia fundamentada, desde que haja indícios suficientes.",
+"c": true,
+"x": "Art. 18.",
+"e": "Código de Conduta, art. 18."
+},
+{
+"p": "No processo de apuração, a autoridade será oficiada para manifestar-se no prazo de cinco dias e, concluídas as diligências, terá três dias para nova manifestação.",
+"c": true,
+"x": "Art. 18, §§ 1º e 4º.",
+"e": "Código de Conduta, art. 18."
+},
+{
+"p": "No processo perante a CEP, somente a Comissão pode produzir prova documental.",
+"c": false,
+"x": "O denunciante, a própria autoridade e a CEP podem produzir prova documental.",
+"e": "Código de Conduta, art. 18, § 2º."
+},
+{
+"p": "Concluindo pela procedência da denúncia, a CEP adotará uma das penalidades previstas e comunicará a decisão ao denunciado e ao seu superior hierárquico.",
+"c": true,
+"x": "Art. 18, § 5º.",
+"e": "Código de Conduta, art. 18."
+},
+{
+"p": "A CEP pode sugerir ao Presidente da República normas complementares, interpretativas e orientadoras do Código e responde às consultas formuladas pelas autoridades.",
+"c": true,
+"x": "Art. 19.",
+"e": "Código de Conduta, art. 19."
+},
+{
+"p": "A Comissão de Ética Pública é integrada por sete brasileiros designados pelo Presidente da República para mandatos de três anos, não coincidentes, permitida uma única recondução.",
+"c": true,
+"x": "Decreto 6.029/2007, art. 3º.",
+"e": "Decreto 6.029/2007."
+},
+{
+"p": "Situação hipotética: Ministro recebe proposta de emprego de um banco privado e a recusa imediatamente, sem comunicar à CEP. Nessa situação, ele descumpriu o Código de Conduta.",
+"c": true,
+"x": "O art. 13 exige a comunicação independentemente da aceitação ou rejeição.",
+"e": "Código de Conduta, art. 13."
+},
+{
+"p": "Situação hipotética: diretor de agência reguladora afirma em entrevista que determinada empresa será multada em processo ainda pendente de julgamento pela diretoria que ele integra. Nessa situação, violou-se o Código de Conduta.",
+"c": true,
+"x": "Art. 12, II: opinião pública sobre o mérito de questão que lhe será submetida.",
+"e": "Código de Conduta, art. 12."
+},
+{
+"p": "Situação hipotética: secretário-executivo recebe, de empresa interessada em contrato do ministério, relógio de alto valor e o aceita, por se tratar de data comemorativa. Nessa situação, a conduta é admitida como brinde.",
+"c": false,
+"x": "Brinde em data comemorativa não pode ultrapassar cem reais; trata-se de presente vedado.",
+"e": "Código de Conduta, art. 9º."
+},
+{
+"p": "Pelo Código de Conduta da Alta Administração Federal, a autoridade que já deixou o cargo e violou suas normas está sujeita a",
+"alts": [
+"advertência",
+"suspensão",
+"demissão",
+"censura ética",
+"multa"
+],
+"r": 3,
+"x": "Art. 17, II.",
+"n": [
+"Para quem está no cargo.",
+"Não prevista.",
+"A CEP só sugere.",
+"Correta.",
+"Não prevista."
+],
+"e": "Código de Conduta, art. 17."
+},
+{
+"p": "O limite de valor dos brindes que não se consideram presentes, segundo o Código de Conduta, é de",
+"alts": [
+"R$ 50,00",
+"R$ 100,00",
+"R$ 200,00",
+"R$ 500,00",
+"um salário mínimo"
+],
+"r": 1,
+"x": "Art. 9º, parágrafo único, II.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Código de Conduta, art. 9º."
+},
+{
+"p": "O prazo para a autoridade enviar à CEP informações sobre a situação patrimonial que possa suscitar conflito é de",
+"alts": [
+"cinco dias da nomeação",
+"dez dias da posse",
+"quinze dias da posse",
+"trinta dias do exercício",
+"um ano da posse"
+],
+"r": 1,
+"x": "Art. 4º.",
+"n": [
+"Não.",
+"Correta.",
+"Não.",
+"Não.",
+"Não."
+],
+"e": "Código de Conduta, art. 4º."
+},
+{
+"p": "Na ausência de lei, o período de interdição previsto no Código de Conduta após a exoneração é de",
+"alts": [
+"dois meses",
+"quatro meses",
+"seis meses",
+"doze meses",
+"vinte e quatro meses"
+],
+"r": 1,
+"x": "Art. 15. A Lei 12.813 hoje fixa seis meses.",
+"n": [
+"Não.",
+"Correta.",
+"Prazo da Lei 12.813.",
+"Não.",
+"Não."
+],
+"e": "Código de Conduta, art. 15."
+},
+{
+"p": "É finalidade do Código de Conduta da Alta Administração Federal tornar claras as regras éticas de conduta das autoridades da alta Administração, para que a sociedade possa aferir a integridade e a lisura do processo decisório governamental.",
+"c": true,
+"x": "Art. 1º, I.",
+"e": "Código de Conduta, art. 1º."
+},
+{
+"p": "É finalidade do Código de Conduta da Alta Administração Federal contribuir para o aperfeiçoamento dos padrões éticos da Administração Pública Federal, a partir do exemplo dado pelas autoridades de nível hierárquico superior.",
+"c": true,
+"x": "Art. 1º, II.",
+"e": "Código de Conduta, art. 1º."
+},
+{
+"p": "É finalidade do Código de Conduta da Alta Administração Federal preservar a imagem e a reputação do administrador público cuja conduta esteja de acordo com as normas éticas estabelecidas no Código.",
+"c": true,
+"x": "Art. 1º, III.",
+"e": "Código de Conduta, art. 1º."
+},
+{
+"p": "É finalidade do Código de Conduta da Alta Administração Federal estabelecer regras básicas sobre conflitos de interesses públicos e privados e limitações às atividades profissionais posteriores ao exercício de cargo público.",
+"c": true,
+"x": "Art. 1º, IV.",
+"e": "Código de Conduta, art. 1º."
+},
+{
+"p": "É finalidade do Código de Conduta da Alta Administração Federal minimizar a possibilidade de conflito entre o interesse privado e o dever funcional das autoridades públicas.",
+"c": true,
+"x": "Art. 1º, V.",
+"e": "Código de Conduta, art. 1º."
+},
+{
+"p": "É finalidade do Código de Conduta da Alta Administração Federal criar mecanismo de consulta destinado a possibilitar o prévio e pronto esclarecimento de dúvidas quanto à conduta ética do administrador.",
+"c": true,
+"x": "Art. 1º, VI.",
+"e": "Código de Conduta, art. 1º."
+},
+{
+"p": "Submetem-se ao Código de Conduta da Alta Administração Federal os Ministros de Estado.",
+"c": true,
+"x": "Estão no art. 2º, I.",
+"e": "Código de Conduta, art. 2º."
+},
+{
+"p": "Submetem-se ao Código de Conduta da Alta Administração Federal os Secretários de Estado.",
+"c": true,
+"x": "Estão no art. 2º, I.",
+"e": "Código de Conduta, art. 2º."
+},
+{
+"p": "Submetem-se ao Código de Conduta da Alta Administração Federal os secretários-executivos.",
+"c": true,
+"x": "Estão no art. 2º, II.",
+"e": "Código de Conduta, art. 2º."
+},
+{
+"p": "Submetem-se ao Código de Conduta da Alta Administração Federal os titulares de cargos de natureza especial.",
+"c": true,
+"x": "Estão no art. 2º, II.",
+"e": "Código de Conduta, art. 2º."
+},
+{
+"p": "Submetem-se ao Código de Conduta da Alta Administração Federal os presidentes e diretores de agências nacionais.",
+"c": true,
+"x": "Estão no art. 2º, III.",
+"e": "Código de Conduta, art. 2º."
+},
+{
+"p": "Submetem-se ao Código de Conduta da Alta Administração Federal os presidentes e diretores de sociedades de economia mista federais.",
+"c": true,
+"x": "Estão no art. 2º, III.",
+"e": "Código de Conduta, art. 2º."
+},
+{
+"p": "Submetem-se ao Código de Conduta da Alta Administração Federal os presidentes e diretores de fundações mantidas pelo Poder Público federal.",
+"c": true,
+"x": "Estão no art. 2º, III.",
+"e": "Código de Conduta, art. 2º."
+},
+{
+"p": "O Código de Conduta da Alta Administração determina que as autoridades se pautem pelos padrões da ética, sobretudo no que diz respeito à integridade, entre outros aspectos.",
+"c": true,
+"x": "Art. 3º: integridade, moralidade, clareza de posições e decoro.",
+"e": "Código de Conduta, art. 3º."
+},
+{
+"p": "O Código de Conduta da Alta Administração determina que as autoridades se pautem pelos padrões da ética, sobretudo no que diz respeito à moralidade, entre outros aspectos.",
+"c": true,
+"x": "Art. 3º: integridade, moralidade, clareza de posições e decoro.",
+"e": "Código de Conduta, art. 3º."
+},
+{
+"p": "O Código de Conduta da Alta Administração determina que as autoridades se pautem pelos padrões da ética, sobretudo no que diz respeito à clareza de posições, entre outros aspectos.",
+"c": true,
+"x": "Art. 3º: integridade, moralidade, clareza de posições e decoro.",
+"e": "Código de Conduta, art. 3º."
+},
+{
+"p": "O Código de Conduta da Alta Administração determina que as autoridades se pautem pelos padrões da ética, sobretudo no que diz respeito ao decoro, entre outros aspectos.",
+"c": true,
+"x": "Art. 3º: integridade, moralidade, clareza de posições e decoro.",
+"e": "Código de Conduta, art. 3º."
+}
+]
+},
+"conflito-interesses": {
+"html": "<h3>1. O problema que a lei quer resolver</h3>\n<ul><li>Todo agente público tem, ao mesmo tempo, uma vida pública e uma vida privada. Na vida privada ele tem patrimônio, família, amigos, ex-colegas, projetos profissionais para o futuro. Na vida pública ele decide, fiscaliza, contrata, regula e tem acesso a informações que o cidadão comum não tem. O <b>conflito de interesses</b> surge quando essas duas esferas se encontram e o interesse privado pode <b>contaminar</b> a decisão pública.</li><li>Exemplos simples ajudam: o servidor que fiscaliza empresas de transporte e, nas horas vagas, presta consultoria para uma delas; o diretor que sabe, antes de todos, que o governo vai mudar uma alíquota e compra ações que vão se valorizar; o ex-dirigente de uma agência que, no dia seguinte à exoneração, vira diretor da empresa que ele regulava. Em nenhum desses casos é preciso provar que houve propina ou dano ao erário: o simples <b>risco</b> de que o interesse privado influencie a função já compromete a confiança do cidadão.</li><li>A <b>Lei 12.813/2013</b>, conhecida como <b>Lei de Conflito de Interesses</b>, disciplina essas situações no <b>Poder Executivo federal</b>. Ela define o que é conflito, lista as condutas proibidas <b>durante</b> e <b>depois</b> do exercício do cargo, cria a <b>quarentena</b> de seis meses, atribui competências à <b>Comissão de Ética Pública (CEP)</b> e à <b>Controladoria-Geral da União (CGU)</b> e liga as violações à <b>improbidade administrativa</b> e à <b>demissão</b>.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> O conflito de interesses é um conceito <b>preventivo</b>: a lei quer evitar a situação de risco, e não apenas punir o dano. Guarde a frase do art. 4º, § 2º: o conflito <b>independe</b> de lesão ao patrimônio público e de recebimento de vantagem.</div>\n<h3>2. Conceitos legais (art. 3º)</h3>\n<ul><li><b>Conflito de interesses</b> é \"a situação gerada pelo <b>confronto entre interesses públicos e privados</b>, que possa <b>comprometer o interesse coletivo</b> ou <b>influenciar, de maneira imprópria</b>, o desempenho da função pública\" (art. 3º, I).</li><li>Note os verbos no <b>potencial</b>: \"possa comprometer\", \"possa influenciar\". Não é necessário que a influência tenha efetivamente ocorrido. Basta a situação de risco.</li><li><b>Informação privilegiada</b> é \"a que diz respeito a <b>assuntos sigilosos</b> ou aquela <b>relevante ao processo de decisão</b> no âmbito do Poder Executivo federal que tenha <b>repercussão econômica ou financeira</b> e que <b>não seja de amplo conhecimento público</b>\" (art. 3º, II).</li><li>São, portanto, duas espécies de informação privilegiada: (a) a informação <b>sigilosa</b>; (b) a informação <b>relevante para decisões</b> do Executivo federal, com <b>repercussão econômica ou financeira</b>, ainda não divulgada ao público. Exemplos: a decisão de aumentar um tributo antes da publicação, o resultado de uma licitação antes da divulgação, a intenção do governo de privatizar uma empresa, os critérios de uma fiscalização que será feita de surpresa.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Conflito de interesses</span></span><span class=\"vs\"><span>Confronto entre interesses públicos e privados que possa comprometer o interesse coletivo ou influenciar impropriamente a função</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Informação privilegiada</span></span><span class=\"vs\"><span>Sigilosa ou relevante para decisão, com repercussão econômica ou financeira, não pública</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 4º, § 2º</span></span><span class=\"vs\"><span>Conflito independe de dano ao erário e de vantagem recebida</span></span></button></div></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Só há conflito de interesses quando o agente efetivamente recebe vantagem indevida</span><br>✅ <span class=\"certo\">o conflito <b>independe</b> do recebimento de vantagem e de lesão ao patrimônio público (art. 4º, § 2º)</span></li><li>❌ <span class=\"banca\">Informação privilegiada é apenas a informação classificada como sigilosa</span><br>✅ <span class=\"certo\">também é a informação relevante para decisão, com repercussão econômica ou financeira, que <b>não seja de amplo conhecimento público</b></span></li><li>❌ <span class=\"banca\">Conflito de interesses exige que o interesse privado tenha efetivamente prevalecido</span><br>✅ <span class=\"certo\">basta a situação que <b>possa</b> comprometer o interesse coletivo ou influenciar impropriamente a função</span></li></ol></div>\n<h3>3. A quem a lei se aplica (art. 2º e art. 10)</h3>\n<ul><li>A lei trabalha com <b>dois círculos</b> de agentes.</li><li><b>Círculo interno (art. 2º)</b>: os ocupantes dos cargos mais altos, que se submetem a <b>todas</b> as regras da lei, inclusive a declaração anual, a divulgação de agenda e a quarentena:</li><li><b>I</b> – Ministro de Estado;</li><li><b>II</b> – cargos de <b>natureza especial</b> ou equivalentes;</li><li><b>III</b> – presidente, vice-presidente e diretor, ou equivalentes, de <b>autarquias, fundações públicas, empresas públicas ou sociedades de economia mista</b>;</li><li><b>IV</b> – cargos do Grupo-Direção e Assessoramento Superiores (DAS) de <b>níveis 6 e 5</b> ou equivalentes. Desde a Lei 14.204/2021, os antigos DAS foram substituídos por cargos comissionados executivos (CCE) e funções comissionadas executivas (FCE), e a correspondência é feita pelos níveis equivalentes.</li><li><b>Parágrafo único do art. 2º</b>: também se submetem os ocupantes de cargos ou empregos cujo exercício proporcione <b>acesso a informação privilegiada</b> capaz de trazer <b>vantagem econômica ou financeira</b> ao agente ou a terceiro, conforme definido em regulamento. Aqui não importa o nível do cargo, mas o <b>acesso à informação</b>.</li><li><b>Círculo externo (art. 10)</b>: as regras do <b>art. 5º</b> (conflito durante o exercício) e do <b>inciso I do art. 6º</b> (uso de informação privilegiada, a qualquer tempo, após deixar o cargo) <b>estendem-se a todos os agentes públicos</b> do Poder Executivo federal. Assim, um servidor de nível médio também não pode usar informação privilegiada nem atuar como intermediário de interesses privados.</li></ul>\n<table class=\"tab\"><thead><tr><th>Regra;Agentes do art. 2º (altos cargos e acesso a informação privilegiada);Demais agentes do Executivo federal (art. 10)</th></tr></thead><tbody><tr><td>Art. 5º: conflito durante o exercício;Sim;Sim</td></tr><tr><td>Art. 6º, I: uso de informação privilegiada após o cargo, a qualquer tempo;Sim;Sim</td></tr><tr><td>Art. 6º, II: quarentena de 6 meses;Sim;Não</td></tr><tr><td>Declaração anual (art. 9º, I);Sim;Não</td></tr><tr><td>Agenda diária na internet (art. 11);Sim;Não</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A quarentena de seis meses aplica-se a todos os servidores do Poder Executivo federal</span><br>✅ <span class=\"certo\">a quarentena (art. 6º, II) aplica-se aos agentes do <b>art. 2º</b>; aos demais estende-se apenas o art. 5º e o <b>inciso I</b> do art. 6º (art. 10)</span></li><li>❌ <span class=\"banca\">A Lei 12.813/2013 aplica-se a todos os Poderes da União</span><br>✅ <span class=\"certo\">ela disciplina o conflito de interesses no <b>Poder Executivo federal</b></span></li><li>❌ <span class=\"banca\">Somente os Ministros de Estado se submetem integralmente à Lei 12.813/2013</span><br>✅ <span class=\"certo\">também os cargos de natureza especial, os dirigentes da administração indireta, os níveis 6 e 5 (ou equivalentes) e os que têm acesso a informação privilegiada</span></li></ol></div>\n<h3>4. O dever de prevenção e a consulta (art. 4º)</h3>\n<ul><li>O art. 4º impõe um <b>dever ativo</b>: o ocupante de cargo ou emprego no Executivo federal deve <b>agir de modo a prevenir ou a impedir</b> possível conflito de interesses e a <b>resguardar informação privilegiada</b>.</li><li><b>§ 1º</b>: no caso de <b>dúvida</b> sobre como prevenir ou impedir situações que configurem conflito, o agente deverá <b>consultar</b> a <b>CEP</b> ou a <b>CGU</b>, conforme o caso. A consulta é uma ferramenta de <b>orientação</b>, não de punição: quem consulta antes de agir demonstra boa-fé e recebe uma resposta oficial sobre a conduta adequada.</li><li><b>§ 2º</b>: a ocorrência de conflito <b>independe</b> da existência de <b>lesão ao patrimônio público</b> e do <b>recebimento de qualquer vantagem ou ganho</b> pelo agente público ou por terceiro.</li><li>Na prática, a consulta e o pedido de autorização são feitos hoje por meio do <b>Sistema Eletrônico de Prevenção de Conflito de Interesses (SeCI)</b>, mantido pela CGU, no qual o servidor descreve a situação (por exemplo, a intenção de dar aulas, prestar consultoria ou aceitar proposta de emprego) e recebe a manifestação do órgão competente.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O auditor que quer dar aulas</b><p>Um auditor fiscal pretende dar aulas em um curso preparatório para concursos e tem dúvida se isso configura conflito.</p><details><summary>Ver a solução comentada</summary><p>A conduta correta é <b>consultar</b> previamente o órgão competente (art. 4º, § 1º). Dar aulas, em regra, não é incompatível, desde que não envolva uso de informação privilegiada, conflito de horário ou atividade relacionada a interesses que ele fiscaliza. A consulta dá segurança ao servidor e documenta sua boa-fé.</p></details></div>\n<h3>5. Conflito durante o exercício do cargo (art. 5º)</h3>\n<ul><li>O art. 5º lista <b>sete situações</b> que configuram conflito de interesses <b>no exercício</b> do cargo ou emprego. É o artigo mais cobrado da lei. Vale estudá-lo inciso por inciso:</li><li><b>I</b> – <b>divulgar ou fazer uso de informação privilegiada</b>, em proveito próprio ou de terceiro, obtida em razão das atividades exercidas. Exemplo: o servidor que conta ao irmão, empresário, que o governo vai zerar a tarifa de importação de um produto.</li><li><b>II</b> – exercer atividade que implique a <b>prestação de serviços</b> ou a <b>manutenção de relação de negócio</b> com pessoa física ou jurídica que tenha <b>interesse em decisão do agente</b> ou de colegiado do qual ele participe. Exemplo: o membro de comissão de licitação que presta serviços de contabilidade para uma das empresas licitantes.</li><li><b>III</b> – exercer, direta ou indiretamente, atividade que, em razão da sua natureza, seja <b>incompatível com as atribuições do cargo</b>, considerando-se como tal, inclusive, a atividade desenvolvida em <b>áreas ou matérias correlatas</b>. Exemplo: o servidor da área de licenciamento ambiental que trabalha, nas horas vagas, elaborando estudos ambientais para empresas que pedirão licença.</li><li><b>IV</b> – atuar, ainda que <b>informalmente</b>, como <b>procurador, consultor, assessor ou intermediário</b> de interesses privados nos órgãos ou entidades da administração pública direta ou indireta de <b>qualquer dos Poderes</b> da União, dos Estados, do DF e dos Municípios. Exemplo: o servidor que \"dá um jeito\" de agilizar o processo de um conhecido em outro órgão. Note a amplitude: a intermediação é vedada perante <b>qualquer</b> órgão de <b>qualquer</b> Poder e esfera.</li><li><b>V</b> – praticar ato em benefício de interesse de <b>pessoa jurídica</b> de que participe o <b>agente</b>, seu <b>cônjuge, companheiro ou parentes</b>, consanguíneos ou afins, em linha reta ou colateral, <b>até o terceiro grau</b>, e que possa ser por ele beneficiada ou influir em seus atos de gestão. Exemplo: o diretor que aprova um convênio com a ONG presidida pela esposa.</li><li><b>VI</b> – receber <b>presente</b> de quem tenha interesse em decisão do agente ou de colegiado do qual participe, <b>fora dos limites e condições</b> estabelecidos em regulamento. O regulamento atual é o <b>Decreto 10.889/2021</b>, que distingue presentes (em regra proibidos quando oferecidos por quem tem interesse em decisão do agente) de <b>brindes</b> (itens de baixo valor, distribuídos de forma generalizada, como cortesia ou divulgação), estes admitidos dentro dos limites fixados.</li><li><b>VII</b> – prestar serviços, ainda que <b>eventuais</b>, a empresa cuja atividade seja <b>controlada, fiscalizada ou regulada</b> pelo ente ao qual o agente está vinculado. Exemplo: o servidor de uma agência reguladora de transportes que faz um \"freela\" para uma concessionária de rodovia.</li><li><b>Parágrafo único</b>: essas situações aplicam-se aos agentes do art. 2º <b>ainda que em gozo de licença ou em período de afastamento</b>. Estar de licença não libera o dirigente para prestar consultoria à empresa regulada.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Mnemônico para os sete incisos do art. 5º: <b>\"I-S-A-I-P-P-R\"</b>: <b>I</b>nformação privilegiada; <b>S</b>erviço ou negócio com interessado; <b>A</b>tividade incompatível (inclusive correlata); <b>I</b>ntermediação de interesses privados; <b>P</b>essoa jurídica de familiar até o 3º grau; <b>P</b>resente fora do regulamento; <b>R</b>egulada (serviço a empresa regulada ou fiscalizada).</div>\n<table class=\"tab\"><thead><tr><th>Inciso do art. 5º;Conduta;Palavra-chave</th></tr></thead><tbody><tr><td>I;Divulgar ou usar informação privilegiada;Informação</td></tr><tr><td>II;Prestar serviço ou manter negócio com quem tem interesse em decisão do agente;Interessado</td></tr><tr><td>III;Atividade incompatível, inclusive em áreas correlatas;Incompatível</td></tr><tr><td>IV;Atuar como procurador, consultor, assessor ou intermediário de interesses privados em qualquer órgão, de qualquer Poder ou ente;Intermediário</td></tr><tr><td>V;Ato em benefício de PJ do agente, cônjuge, companheiro ou parente até o 3º grau;Família</td></tr><tr><td>VI;Receber presente de interessado fora do regulamento;Presente</td></tr><tr><td>VII;Prestar serviço, ainda que eventual, a empresa controlada, fiscalizada ou regulada pelo ente;Regulada</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A atuação como intermediário de interesses privados só configura conflito quando realizada perante o próprio órgão do agente</span><br>✅ <span class=\"certo\">o inciso IV alcança qualquer órgão ou entidade, de <b>qualquer dos Poderes</b>, da União, dos Estados, do DF e dos Municípios, <b>ainda que informalmente</b></span></li><li>❌ <span class=\"banca\">A prestação de serviços eventuais a empresa regulada pelo ente é permitida, porque não há vínculo permanente</span><br>✅ <span class=\"certo\">o inciso VII veda serviços <b>ainda que eventuais</b></span></li><li>❌ <span class=\"banca\">O benefício a pessoa jurídica de parente só configura conflito até o segundo grau</span><br>✅ <span class=\"certo\">o inciso V vai <b>até o terceiro grau</b></span></li><li>❌ <span class=\"banca\">O agente de licença está livre das vedações do art. 5º</span><br>✅ <span class=\"certo\">aplicam-se <b>ainda que em gozo de licença ou afastamento</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 5º, IV</span></span><span class=\"vs\"><span>Intermediário de interesses privados, ainda que informalmente, em qualquer órgão de qualquer Poder</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 5º, V</span></span><span class=\"vs\"><span>PJ do agente, cônjuge, companheiro ou parente até o 3º grau</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 5º, VI</span></span><span class=\"vs\"><span>Presente fora do regulamento (Decreto 10.889/2021)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 5º, VII</span></span><span class=\"vs\"><span>Serviço, ainda que eventual, a empresa regulada ou fiscalizada</span></span></button></div></div>\n<h3>6. Conflito depois do exercício: a quarentena (art. 6º)</h3>\n<ul><li>Deixar o cargo não apaga o que o agente sabe nem os relacionamentos que construiu. Por isso o art. 6º prevê situações de conflito <b>após</b> o exercício, em dois níveis:</li><li><b>Inciso I – a qualquer tempo</b>: divulgar ou fazer uso de <b>informação privilegiada</b> obtida em razão das atividades exercidas. Essa proibição <b>não tem prazo</b>: vale para sempre e, pelo art. 10, para <b>todos</b> os agentes do Executivo federal.</li><li><b>Inciso II – no período de 6 meses</b>, contado da data da <b>dispensa, exoneração, destituição, demissão ou aposentadoria</b>, salvo quando <b>expressamente autorizado</b> pela CEP ou pela CGU, conforme o caso:</li><li><b>a)</b> prestar, direta ou indiretamente, qualquer tipo de serviço a pessoa física ou jurídica com quem tenha estabelecido <b>relacionamento relevante</b> em razão do exercício do cargo ou emprego;</li><li><b>b)</b> aceitar cargo de <b>administrador ou conselheiro</b> ou estabelecer <b>vínculo profissional</b> com pessoa física ou jurídica que desempenhe atividade <b>relacionada à área de competência</b> do cargo ou emprego ocupado;</li><li><b>c)</b> celebrar com órgãos ou entidades do Poder Executivo federal <b>contratos de serviço, consultoria, assessoramento</b> ou atividades similares, vinculados, ainda que indiretamente, ao órgão ou entidade em que tenha ocupado o cargo;</li><li><b>d)</b> <b>intervir</b>, direta ou indiretamente, em favor de interesse privado perante órgão ou entidade em que haja ocupado cargo ou emprego ou com o qual tenha estabelecido relacionamento relevante em razão do exercício do cargo.</li><li>Esse período de seis meses é a chamada <b>quarentena</b>. Ela se aplica aos agentes do <b>art. 2º</b> (altos cargos e acesso a informação privilegiada).</li><li>Durante a quarentena, o ex-agente que ficar impedido de exercer atividade remunerada pode ter direito a <b>remuneração compensatória</b>, nos termos de regulamentação própria. A ideia é não punir o ex-dirigente honesto, mas impedir que ele \"venda\" imediatamente o conhecimento e os contatos adquiridos no cargo.</li></ul>\n<div class=\"lt-fluxo\"><span>Exoneração, dispensa, destituição, demissão ou aposentadoria</span> <em>→</em> <span>6 meses de quarentena (art. 6º, II), salvo autorização da CEP ou da CGU</span> <em>→</em> <span>Após 6 meses: ainda proibido usar informação privilegiada (art. 6º, I, a qualquer tempo)</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O prazo de quarentena da Lei 12.813/2013 é de doze meses</span><br>✅ <span class=\"certo\">são <b>seis meses</b></span></li><li>❌ <span class=\"banca\">A vedação de usar informação privilegiada termina com o fim da quarentena</span><br>✅ <span class=\"certo\">essa vedação vale <b>a qualquer tempo</b> (art. 6º, I)</span></li><li>❌ <span class=\"banca\">A quarentena começa a contar da posse no novo emprego privado</span><br>✅ <span class=\"certo\">conta da <b>dispensa, exoneração, destituição, demissão ou aposentadoria</b></span></li><li>❌ <span class=\"banca\">A quarentena não admite exceções</span><br>✅ <span class=\"certo\">a CEP ou a CGU podem <b>autorizar</b> expressamente quando verificada a inexistência de conflito ou sua irrelevância</span></li></ol></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O diretor da agência e a concessionária</b><p>O diretor de uma agência reguladora de transportes terrestres é exonerado em março e, em abril, recebe convite para ser conselheiro de uma concessionária de rodovias federais.</p><details><summary>Ver a solução comentada</summary><p>A concessionária desempenha atividade <b>relacionada à área de competência</b> do cargo que ele ocupava. Aceitar o cargo de conselheiro antes de seis meses configura conflito (art. 6º, II, b), <b>salvo autorização expressa</b> do órgão competente. O caminho correto é consultar e aguardar a quarentena. (Observação: leis específicas de agências reguladoras também preveem quarentena própria para seus dirigentes.)</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O ex-assessor e o segredo do edital</b><p>Um ex-assessor de nível intermediário, sem cargo do art. 2º, deixa o ministério e, dois anos depois, usa em sua empresa uma informação sigilosa sobre um futuro programa de financiamento que soube quando trabalhava no órgão.</p><details><summary>Ver a solução comentada</summary><p>Ele não se submetia à quarentena, mas o <b>art. 6º, I</b> (uso de informação privilegiada <b>a qualquer tempo</b>) estende-se a <b>todos</b> os agentes do Executivo federal (art. 10). Há conflito de interesses, com reflexos em improbidade.</p></details></div>\n<h3>7. Competências da CEP e da CGU (art. 8º)</h3>\n<ul><li>A lei divide a fiscalização entre dois órgãos. Sem prejuízo de suas competências institucionais, compete à <b>Comissão de Ética Pública</b> e à <b>Controladoria-Geral da União</b>, conforme o caso:</li><li><b>I</b> – estabelecer normas, procedimentos e mecanismos que objetivem <b>prevenir ou impedir</b> eventual conflito de interesses;</li><li><b>II</b> – <b>avaliar e fiscalizar</b> a ocorrência de situações que configuram conflito;</li><li><b>III</b> – <b>orientar e dirimir dúvidas</b> e controvérsias acerca da interpretação das normas;</li><li><b>IV</b> – <b>manifestar-se</b> sobre a existência ou não de conflito nas <b>consultas</b> a elas submetidas;</li><li><b>V</b> – <b>autorizar</b> o ocupante de cargo ou emprego a exercer <b>atividade privada</b>, quando verificada a inexistência de conflito ou sua irrelevância;</li><li><b>VI</b> – <b>dispensar</b> quem haja ocupado cargo ou emprego de cumprir o período de impedimento (<b>quarentena</b>), quando verificada a inexistência de conflito ou sua irrelevância;</li><li><b>VII</b> – dispor sobre a comunicação de alterações patrimoniais relevantes, exercício de atividade privada ou recebimento de propostas de trabalho;</li><li><b>VIII</b> – fiscalizar a divulgação da <b>agenda de compromissos públicos</b>.</li><li><b>Divisão de tarefas (parágrafo único)</b>: a <b>CEP</b> atua nos casos que envolvam os agentes dos <b>incisos I a IV do art. 2º</b> (Ministros, natureza especial, dirigentes da indireta, níveis 6 e 5 ou equivalentes); a <b>CGU</b> atua nos casos que envolvam os <b>demais agentes</b>, observado o regulamento.</li></ul>\n<table class=\"tab\"><thead><tr><th>Órgão;Atua sobre;Exemplos</th></tr></thead><tbody><tr><td>Comissão de Ética Pública (CEP);Agentes do art. 2º, I a IV;Ministros, secretários-executivos, presidentes de autarquias e estatais, altos cargos em comissão</td></tr><tr><td>Controladoria-Geral da União (CGU);Demais agentes do Executivo federal;Servidores em geral, inclusive os do parágrafo único do art. 2º (acesso a informação privilegiada), conforme regulamento</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CEP</span></span><span class=\"vs\"><span>Altos cargos (art. 2º, I a IV)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>CGU</span></span><span class=\"vs\"><span>Demais agentes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Autorizar atividade privada</span></span><span class=\"vs\"><span>CEP ou CGU, se inexistente ou irrelevante o conflito</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dispensar quarentena</span></span><span class=\"vs\"><span>CEP ou CGU, se inexistente ou irrelevante o conflito</span></span></button></div></div>\n<h3>8. Deveres de transparência dos altos cargos (arts. 9º e 11)</h3>\n<ul><li><b>Declaração anual (art. 9º, I)</b>: os agentes do art. 2º, inclusive os que estão de licença ou afastados, devem enviar <b>anualmente</b> à CEP ou à CGU, conforme o caso, <b>declaração</b> com informações sobre <b>situação patrimonial</b>, <b>participações societárias</b>, <b>atividades econômicas ou profissionais</b> e indicação da existência de <b>cônjuge, companheiro ou parente</b> até o <b>terceiro grau</b> no exercício de atividades que possam suscitar conflito de interesses.</li><li><b>Comunicação de propostas e atividades (art. 9º, II)</b>: devem comunicar por escrito o exercício de <b>atividade privada</b> ou o recebimento de <b>propostas de trabalho</b> que pretendam aceitar, contrato ou negócio no setor privado, ainda que não vedados.</li><li><b>Agenda pública (art. 11)</b>: os agentes do art. 2º devem <b>divulgar, diariamente, por meio da internet</b>, sua <b>agenda de compromissos públicos</b>. No Executivo federal, isso é feito no sistema <b>e-Agendas</b>, regulamentado pelo Decreto 10.889/2021, que também disciplina o registro de audiências com particulares e o recebimento de presentes e hospitalidades.</li><li>Essas regras dialogam com a <b>Lei de Acesso à Informação</b> e com o <b>Código de Conduta da Alta Administração Federal</b>: o alto dirigente deve ser transparente quanto ao patrimônio, às audiências e às relações privadas que possam afetar sua atuação.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A agenda de compromissos públicos dos altos cargos deve ser divulgada semanalmente</span><br>✅ <span class=\"certo\">a divulgação é <b>diária</b>, pela internet (art. 11)</span></li><li>❌ <span class=\"banca\">A declaração do art. 9º é exigida apenas no momento da posse</span><br>✅ <span class=\"certo\">é <b>anual</b></span></li><li>❌ <span class=\"banca\">Os agentes do art. 2º em licença ficam dispensados da declaração anual</span><br>✅ <span class=\"certo\">a lei inclui expressamente os que estão <b>em gozo de licença ou afastamento</b></span></li></ol></div>\n<h3>9. Consequências: improbidade e demissão (art. 12)</h3>\n<ul><li><b>Caput do art. 12</b>: o agente público que praticar os atos previstos nos <b>arts. 5º e 6º</b> incorre em <b>improbidade administrativa</b>, na forma do <b>art. 11 da Lei 8.429/1992</b>, quando não caracterizada qualquer das condutas descritas nos arts. 9º e 10 daquela lei. Em outras palavras: se o conflito também gerar <b>enriquecimento ilícito</b> (art. 9º) ou <b>dano ao erário</b> (art. 10), aplica-se o tipo mais grave; se não, enquadra-se como ato contra os <b>princípios</b> (art. 11).</li><li>Depois da reforma da Lei 14.230/2021, a improbidade exige <b>dolo</b>, e o art. 11 passou a ter rol de condutas mais fechado. Nas provas, porém, as bancas costumam cobrar a literalidade da Lei 12.813: a violação dos arts. 5º e 6º <b>pode configurar improbidade</b>.</li><li><b>Parágrafo único do art. 12</b>: sem prejuízo do caput e das demais sanções cabíveis, o agente que se encontrar em situação de conflito de interesses fica sujeito à penalidade disciplinar de <b>demissão</b>, prevista no <b>inciso III do art. 127</b> e no <b>art. 132 da Lei 8.112/1990</b>, ou medida equivalente (para empregados públicos, por exemplo).</li><li><b>Art. 13</b>: a lei <b>não afasta</b> a aplicação da Lei 8.112/1990, especialmente do seu <b>art. 117</b> (proibições), nem de outras normas de conduta. As instâncias se somam.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Pense em três camadas de consequência para o conflito de interesses: <b>improbidade</b> (art. 12, caput, remetendo ao art. 11 da LIA), <b>demissão</b> (art. 12, parágrafo único, remetendo aos arts. 127, III, e 132 da Lei 8.112) e <b>apuração ética</b> (Código de Ética e Comissões de Ética), além de eventual crime.</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Lei 12.813/2013 prevê, para o agente em situação de conflito de interesses, a penalidade disciplinar de suspensão de até 90 dias</span><br>✅ <span class=\"certo\">prevê a <b>demissão</b> (arts. 127, III, e 132 da Lei 8.112)</span></li><li>❌ <span class=\"banca\">A Lei 12.813/2013 revogou as proibições do art. 117 da Lei 8.112/1990 sobre atividades privadas</span><br>✅ <span class=\"certo\">o art. 13 diz que a lei <b>não afasta</b> a aplicação da Lei 8.112, especialmente do art. 117</span></li><li>❌ <span class=\"banca\">A prática das condutas dos arts. 5º e 6º configura sempre ato de improbidade que causa dano ao erário</span><br>✅ <span class=\"certo\">enquadra-se no <b>art. 11</b> (princípios), quando não caracterizadas as condutas dos arts. 9º e 10</span></li></ol></div>\n<h3>10. Diálogo com a Lei 8.112/1990 e o Código de Ética</h3>\n<ul><li>A Lei 8.112 já trazia proibições que funcionam como regras de conflito de interesses. As mais cobradas:</li><li><b>Art. 117, IX</b>: valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública (pena de <b>demissão</b>).</li><li><b>Art. 117, X</b>: participar de <b>gerência ou administração de sociedade privada</b>, personificada ou não, ou exercer o <b>comércio</b>, exceto na qualidade de acionista, cotista ou comanditário (pena de <b>demissão</b>). A lei ressalva, por exemplo, a participação em conselhos de empresas em que a União tenha participação e o gozo de licença para tratar de interesses particulares, observada a legislação sobre conflito de interesses.</li><li><b>Art. 117, XI</b>: atuar, como <b>procurador ou intermediário</b>, junto a repartições públicas, salvo quando se tratar de benefícios previdenciários ou assistenciais de parentes até o segundo grau, e de cônjuge ou companheiro (pena de <b>demissão</b>).</li><li><b>Art. 117, XII</b>: receber propina, comissão, presente ou vantagem de qualquer espécie, em razão de suas atribuições (pena de <b>demissão</b>).</li><li><b>Art. 117, XVIII</b>: exercer quaisquer atividades que sejam <b>incompatíveis</b> com o exercício do cargo ou função e com o horário de trabalho (pena de <b>suspensão</b>, em regra).</li><li>Compare: a Lei 8.112, art. 117, XI, admite que o servidor atue como procurador de parentes <b>até o 2º grau</b> e do cônjuge ou companheiro em benefícios <b>previdenciários ou assistenciais</b>. Já a Lei 12.813, art. 5º, IV, veda a atuação como intermediário de <b>interesses privados</b> em qualquer órgão. As bancas exploram essa nuance: a ressalva da Lei 8.112 é estreita e se limita a benefícios previdenciários e assistenciais de familiares próximos.</li><li>O <b>Código de Ética do servidor federal (Decreto 1.171/1994)</b> veda ao servidor, entre outras condutas, \"usar do cargo ou função, facilidades, amizades, tempo, posição e influências, para obter qualquer favorecimento, para si ou para outrem\" e \"pleitear, solicitar, provocar, sugerir ou receber qualquer tipo de ajuda financeira, gratificação, prêmio, comissão, doação ou vantagem de qualquer espécie, para si, familiares ou qualquer pessoa, para o cumprimento da sua missão ou para influenciar outro servidor para o mesmo fim\". A pena aplicável pela comissão de ética é a <b>censura</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Norma;Conduta;Consequência típica</th></tr></thead><tbody><tr><td>Lei 12.813, art. 5º;Conflito durante o exercício;Improbidade (art. 11 da LIA) e demissão</td></tr><tr><td>Lei 12.813, art. 6º;Conflito após o exercício (quarentena e informação privilegiada);Improbidade</td></tr><tr><td>Lei 8.112, art. 117, X;Gerência de sociedade privada ou comércio;Demissão</td></tr><tr><td>Lei 8.112, art. 117, XI;Procurador ou intermediário em repartições (salvo benefícios previdenciários e assistenciais de parentes até o 2º grau, cônjuge ou companheiro);Demissão</td></tr><tr><td>Lei 8.112, art. 117, XVIII;Atividade incompatível com o cargo e o horário;Suspensão</td></tr><tr><td>Decreto 1.171/1994;Usar o cargo para favorecimento; receber vantagens;Censura ética</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 117, X</span></span><span class=\"vs\"><span>Gerência de sociedade privada ou comércio: demissão (salvo acionista, cotista, comanditário)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 117, XI</span></span><span class=\"vs\"><span>Intermediário em repartições: demissão (salvo benefício previdenciário ou assistencial de parente até o 2º grau, cônjuge ou companheiro)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 117, XVIII</span></span><span class=\"vs\"><span>Atividade incompatível: suspensão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 1.171</span></span><span class=\"vs\"><span>Pena de censura</span></span></button></div></div>\n<h3>11. Presentes, brindes e hospitalidades</h3>\n<ul><li>O recebimento de presentes é o campo em que o conflito de interesses aparece de forma mais cotidiana. A lógica é: quem tem <b>interesse em decisão</b> do agente não deve oferecer-lhe presentes, e o agente não deve aceitá-los, porque o presente cria uma sensação de <b>dívida</b> que pode influenciar a decisão, ou, no mínimo, cria a <b>aparência</b> de influência.</li><li>O <b>Decreto 10.889/2021</b> regulamenta o tema no Executivo federal. Em linhas gerais:</li><li><b>Presente</b> oferecido por quem tem interesse em decisão do agente é, em regra, <b>vedado</b>. Quando não for possível recusar (por exemplo, por protocolo diplomático), o presente deve ser <b>incorporado ao patrimônio público</b> ou ter destinação prevista no regulamento.</li><li><b>Brinde</b> é o item <b>sem valor comercial</b> ou de <b>baixo valor</b>, distribuído de forma <b>generalizada</b> a título de cortesia, propaganda ou divulgação habitual, ou em datas comemorativas, dentro do limite de valor fixado no regulamento. Brindes podem ser recebidos.</li><li><b>Hospitalidade</b> (transporte, hospedagem, alimentação, ingressos) oferecida por agente privado também é disciplinada: em regra, o agente não deve aceitá-la quando houver interesse do ofertante em decisão sua, salvo nas hipóteses regulamentares de interesse institucional, com transparência.</li><li>O <b>Código de Conduta da Alta Administração Federal</b> já trazia regra semelhante: a autoridade não pode aceitar presentes, salvo de autoridades estrangeiras nos casos protocolares em que houver reciprocidade, e brindes de valor reduzido distribuídos de forma generalizada.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A caneta e o relógio</b><p>Um fiscal da PRF recebe, de uma transportadora autuada no mês anterior, uma caneta com o logotipo da empresa, distribuída a todos os clientes no fim do ano, e, uma semana depois, um relógio de grife entregue em mãos pelo gerente.</p><details><summary>Ver a solução comentada</summary><p>A <b>caneta</b> é brinde de baixo valor, distribuído de forma generalizada: em regra, admitida. O <b>relógio</b> é presente de quem tem interesse nas decisões do agente: deve ser <b>recusado</b>. Aceitá-lo configura conflito de interesses (art. 5º, VI) e infração disciplinar (Lei 8.112, art. 117, XII), podendo chegar a crime se vinculado a ato de ofício (corrupção passiva).</p></details></div>\n<h3>12. Banco de casos comentados</h3>\n<ul><li>Aplique sempre três perguntas: (1) Existe um <b>interesse privado</b> do agente ou de pessoa próxima? (2) Esse interesse pode <b>influenciar</b> uma decisão, uma fiscalização ou o uso de uma informação do cargo? (3) A situação se encaixa em algum inciso dos arts. 5º ou 6º, ou nas proibições da Lei 8.112?</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 1. O policial e a empresa de segurança</b><p>Um policial rodoviário federal é sócio-administrador de uma empresa de vigilância privada que presta serviços a transportadoras de carga.</p><details><summary>Ver a solução comentada</summary><p>Ser <b>gerente ou administrador</b> de sociedade privada é vedado pela Lei 8.112 (art. 117, X), com pena de demissão. Além disso, a empresa atende clientes que são fiscalizados pela PRF, o que configura atividade <b>incompatível</b> (Lei 12.813, art. 5º, III). Ser apenas <b>cotista</b>, sem administrar, não é vedado pela Lei 8.112, mas o conflito do art. 5º ainda deve ser avaliado.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 2. A esposa despachante</b><p>A esposa de um servidor do Detran federalizado em convênio abre um escritório de despacho de documentos de veículos. O servidor analisa processos de transferência.</p><details><summary>Ver a solução comentada</summary><p>Há risco evidente: decisões do servidor podem beneficiar a empresa da cônjuge (art. 5º, V, se ele praticar ato em benefício dela). O correto é declarar-se <b>impedido</b> nos processos do escritório, comunicar a situação à chefia e consultar o órgão competente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 3. O almoço pago</b><p>O coordenador de uma licitação aceita almoço semanal pago pelo representante de uma das empresas participantes, \"para conversar sobre o mercado\".</p><details><summary>Ver a solução comentada</summary><p>Hospitalidade oferecida por <b>interessado em decisão</b> do agente: conflito de interesses (art. 5º, VI, e regulamento), além de violação do Código de Ética. A conduta adequada é recusar e registrar as audiências com particulares na agenda oficial.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 4. A informação sobre o pedágio</b><p>Um técnico da área de concessões sabe que a tarifa de pedágio de certa rodovia será reajustada e comenta o fato com um amigo, acionista da concessionária, antes da publicação.</p><details><summary>Ver a solução comentada</summary><p><b>Divulgação de informação privilegiada</b> (art. 5º, I), aplicável a <b>todos</b> os agentes do Executivo federal (art. 10). Pode haver também crime contra o mercado de capitais, se houver uso em negociação de ações.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 5. A palestra paga</b><p>Um dirigente de autarquia é convidado por uma associação de empresas reguladas pela autarquia para uma palestra remunerada.</p><details><summary>Ver a solução comentada</summary><p>O dirigente é agente do art. 2º. Receber pagamento de entidade de empresas <b>reguladas</b> pode configurar prestação de serviço a quem tem interesse em suas decisões (art. 5º, II e VII). Deve <b>consultar</b> a CEP antes; em geral, palestras institucionais sem remuneração do setor regulado e com divulgação na agenda são a solução mais segura.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 6. Depois da exoneração</b><p>Um secretário-executivo de ministério é exonerado e, três meses depois, abre uma consultoria para \"facilitar\" contratos de empresas com o ministério em que trabalhava.</p><details><summary>Ver a solução comentada</summary><p>Viola a quarentena: prestar serviço de consultoria vinculado ao órgão e <b>intervir</b> em favor de interesse privado perante o órgão em que trabalhou, dentro de seis meses (art. 6º, II, c e d). Sem autorização expressa da CEP, há conflito de interesses e improbidade.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 7. O professor universitário</b><p>Um servidor de uma agência de vigilância sanitária dá aulas em uma universidade particular, em horário compatível, sobre teoria geral do direito sanitário.</p><details><summary>Ver a solução comentada</summary><p>Magistério, em regra, <b>não</b> é incompatível, desde que haja compatibilidade de horários e não haja uso de informação privilegiada ou vínculo com interessado em decisão do agente. É recomendável registrar a atividade e, havendo dúvida, consultar (art. 4º, § 1º).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 8. O irmão na licitação</b><p>Em uma licitação de um órgão federal, uma das empresas tem como sócio o irmão do pregoeiro.</p><details><summary>Ver a solução comentada</summary><p>O pregoeiro deve se declarar <b>impedido</b>. Praticar ato em benefício de PJ de parente até o 3º grau é conflito (art. 5º, V), e a Lei 14.133/2021 impede a participação na licitação de quem tenha parentesco até o 3º grau com agente que atue no certame (art. 14, IV).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 9. O intermediário informal</b><p>Um servidor do Ministério da Saúde, a pedido de um vizinho empresário, liga para um conhecido na Prefeitura para \"dar uma força\" no alvará da empresa do vizinho.</p><details><summary>Ver a solução comentada</summary><p>Atuar, <b>ainda que informalmente</b>, como <b>intermediário</b> de interesse privado perante órgão de <b>qualquer</b> ente (aqui, um Município) é conflito de interesses (art. 5º, IV), e também viola o art. 117, XI, da Lei 8.112.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 10. A licença para tratar de interesses particulares</b><p>Um diretor (cargo do art. 2º) tira licença sem remuneração e, durante ela, presta consultoria a uma empresa fiscalizada pela entidade em que trabalha.</p><details><summary>Ver a solução comentada</summary><p>As vedações do art. 5º aplicam-se <b>ainda que em gozo de licença ou afastamento</b> (parágrafo único). Há conflito de interesses.</p></details></div>\n<h3>13. Conflito de interesses, governança e integridade</h3>\n<ul><li>O conflito de interesses é um dos principais <b>riscos para a integridade</b> de uma organização pública. O <b>Decreto 9.203/2017</b> (política de governança da administração federal) determina que os órgãos instituam <b>programas de integridade</b>, com medidas de prevenção, detecção e remediação de fraudes e atos de corrupção, estruturados em eixos como o comprometimento da alta administração, a existência de unidade responsável, a gestão de riscos e o monitoramento contínuo.</li><li>Nos programas de integridade, a gestão do conflito de interesses inclui: <b>mapear</b> cargos expostos a informação privilegiada; <b>orientar</b> servidores sobre consultas e pedidos de autorização; <b>registrar</b> audiências com particulares na agenda; <b>controlar</b> presentes e hospitalidades; e <b>acompanhar</b> a quarentena dos dirigentes.</li><li>A lógica é a mesma da ética: mais vale <b>prevenir</b> a situação de risco do que punir o desvio depois. Por isso a lei valoriza a <b>consulta prévia</b> e a <b>transparência</b>.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Decreto 9.203/2017</span></span><span class=\"vs\"><span>Governança pública e programas de integridade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SeCI</span></span><span class=\"vs\"><span>Sistema eletrônico de consultas e pedidos de autorização sobre conflito de interesses</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>e-Agendas</span></span><span class=\"vs\"><span>Divulgação diária da agenda dos altos cargos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lógica da Lei 12.813</span></span><span class=\"vs\"><span>Prevenção e transparência</span></span></button></div></div>\n<h3>14. Perguntas frequentes</h3>\n<ul><li><b>O servidor pode ter outra atividade privada?</b> Em regra, sim, desde que não seja <b>incompatível</b> com o cargo, não conflite com o horário, não envolva gerência de sociedade ou comércio (salvo como acionista, cotista ou comanditário) e não caracterize nenhuma das hipóteses do art. 5º. Em caso de dúvida, consulta prévia.</li><li><b>Ser sócio de empresa é proibido?</b> Ser <b>cotista ou acionista</b> não é proibido pela Lei 8.112; <b>administrar</b> é. Mas, se a empresa tiver interesse em decisões do agente ou for regulada pelo ente, pode haver conflito do art. 5º.</li><li><b>A quarentena vale para todos os servidores?</b> Não. Vale para os agentes do <b>art. 2º</b>. Para os demais, estende-se apenas a proibição de usar informação privilegiada, <b>a qualquer tempo</b>.</li><li><b>Quem dispensa a quarentena?</b> A <b>CEP</b> (altos cargos do art. 2º, I a IV) ou a <b>CGU</b> (demais agentes), quando verificada a inexistência de conflito ou sua irrelevância.</li><li><b>E se o agente não recebeu nada?</b> Ainda assim pode haver conflito: o art. 4º, § 2º, afasta a exigência de vantagem ou de dano.</li><li><b>A lei vale para Estados e Municípios?</b> A Lei 12.813 disciplina o <b>Executivo federal</b>. Estados e Municípios podem ter normas próprias. Mas a improbidade (Lei 8.429) e os princípios do art. 37 valem para todos.</li><li><b>O que fazer ao receber proposta de emprego da iniciativa privada?</b> Os agentes do art. 2º devem <b>comunicar</b> por escrito a proposta que pretendam aceitar (art. 9º, II) e, enquanto estiverem no cargo, abster-se de atuar em assuntos que envolvam o potencial empregador. Depois de sair, observar a quarentena.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A participação como cotista em sociedade privada é sempre vedada ao servidor federal</span><br>✅ <span class=\"certo\">a Lei 8.112 veda a <b>gerência ou administração</b>, ressalvando a condição de <b>acionista, cotista ou comanditário</b></span></li><li>❌ <span class=\"banca\">A Lei 12.813/2013 é de observância obrigatória pelos Municípios</span><br>✅ <span class=\"certo\">ela disciplina o <b>Poder Executivo federal</b></span></li><li>❌ <span class=\"banca\">A CGU é competente para examinar consultas sobre conflito de interesses de Ministros de Estado</span><br>✅ <span class=\"certo\">nos casos dos agentes do art. 2º, I a IV, a competência é da <b>CEP</b></span></li></ol></div>\n<h3>15. Como as bancas cobram</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>O Cebraspe cobra a literalidade dos conceitos do art. 3º, o § 2º do art. 4º (conflito independe de dano ou vantagem), os incisos do art. 5º com pequenas trocas (segundo grau no lugar de terceiro; \"eventuais\" retirado; \"qualquer dos Poderes\" substituído por \"o próprio órgão\"), o prazo de seis meses da quarentena e a divisão CEP/CGU. A FGV prefere casos práticos com servidores que prestam consultoria, recebem presentes ou mudam para a iniciativa privada.</p></div>\n<ul><li><b>Checklist de resolução</b>: (1) O agente é do art. 2º ou não? Isso decide quarentena, declaração anual e agenda. (2) A conduta ocorreu durante o cargo (art. 5º) ou depois (art. 6º)? (3) Se depois: foi uso de informação privilegiada (a qualquer tempo) ou atividade dentro dos seis meses? (4) Há autorização da CEP ou da CGU? (5) Quais as consequências: improbidade (art. 11 da LIA), demissão e apuração ética?</li></ul>\n<h3>16. Resumo final do tópico</h3>\n<ul><li><b>Conceito</b>: confronto entre interesses públicos e privados que <b>possa</b> comprometer o interesse coletivo ou influenciar impropriamente a função. <b>Independe</b> de dano ou vantagem.</li><li><b>Informação privilegiada</b>: sigilosa ou relevante para decisão, com repercussão econômica ou financeira, não pública.</li><li><b>Destinatários</b>: art. 2º (Ministros, natureza especial, dirigentes da indireta, níveis 6 e 5 ou equivalentes, e quem tem acesso a informação privilegiada); art. 10 estende o art. 5º e o art. 6º, I, a <b>todos</b> os agentes do Executivo federal.</li><li><b>Durante o cargo (art. 5º)</b>: informação privilegiada; serviço ou negócio com interessado; atividade incompatível; intermediação em qualquer órgão de qualquer Poder; benefício a PJ de familiar até o 3º grau; presente fora do regulamento; serviço a empresa regulada, ainda que eventual. Vale também em licença.</li><li><b>Depois do cargo (art. 6º)</b>: informação privilegiada <b>a qualquer tempo</b>; <b>quarentena de 6 meses</b>, salvo autorização, para serviços a quem teve relacionamento relevante, vínculo com empresa da área, contratos com o órgão e intervenção em favor de interesse privado.</li><li><b>Fiscalização</b>: <b>CEP</b> (altos cargos) e <b>CGU</b> (demais); consultas, autorizações e dispensa de quarentena.</li><li><b>Transparência</b>: declaração <b>anual</b> e agenda <b>diária</b> na internet.</li><li><b>Consequências</b>: improbidade (art. 11 da LIA, quando não for caso dos arts. 9º e 10), <b>demissão</b> (arts. 127, III, e 132 da Lei 8.112) e responsabilidade ética.</li></ul>\n<div class=\"lt-stats\"><div class=\"lt-stat\"><b>6 meses</b><span>quarentena (art. 6º, II)</span></div><div class=\"lt-stat\"><b>3º grau</b><span>limite de parentesco do art. 5º, V, e da declaração anual</span></div><div class=\"lt-stat\"><b>7</b><span>incisos de conflito durante o exercício (art. 5º)</span></div><div class=\"lt-stat\"><b>2013</b><span>Lei 12.813</span></div></div>\n<h3>17. A lei comentada, artigo por artigo</h3>\n<ul><li><b>Art. 1º (objeto)</b>: a lei regula as situações que configuram conflito de interesses envolvendo ocupantes de cargo ou emprego no âmbito do <b>Poder Executivo federal</b>, os <b>requisitos e restrições</b> a ocupantes de cargo ou emprego que tenham acesso a informações privilegiadas, os <b>impedimentos posteriores</b> ao exercício do cargo ou emprego e as <b>competências</b> para fiscalização, avaliação e prevenção de conflitos. Repare nos quatro eixos: situações de conflito, restrições ligadas à informação privilegiada, impedimentos posteriores (quarentena) e competências (CEP e CGU).</li><li><b>Art. 2º (destinatários principais)</b>: Ministros de Estado; cargos de natureza especial ou equivalentes; presidente, vice-presidente e diretor, ou equivalentes, de autarquias, fundações públicas, empresas públicas ou sociedades de economia mista; e cargos de níveis 6 e 5 do antigo Grupo-DAS ou equivalentes. O <b>parágrafo único</b> acrescenta os ocupantes de cargos ou empregos cujo exercício proporcione acesso a <b>informação privilegiada</b> capaz de trazer <b>vantagem econômica ou financeira</b> ao agente ou a terceiro, conforme definido em regulamento.</li><li><b>Art. 3º (conceitos)</b>: conflito de interesses e informação privilegiada, já estudados. São os dois conceitos-base de toda a lei.</li><li><b>Art. 4º (prevenção)</b>: dever de prevenir ou impedir o conflito e de resguardar a informação privilegiada; consulta à CEP ou à CGU em caso de dúvida (§ 1º); conflito independente de dano ou vantagem (§ 2º).</li><li><b>Art. 5º (conflito durante o exercício)</b>: sete incisos, aplicáveis também durante licenças e afastamentos.</li><li><b>Art. 6º (conflito após o exercício)</b>: informação privilegiada a qualquer tempo (inciso I) e quarentena de seis meses (inciso II, alíneas a a d), salvo autorização.</li><li><b>Art. 8º (competências)</b>: CEP e CGU, conforme o caso, com oito competências (normatizar, fiscalizar, orientar, responder consultas, autorizar atividade privada, dispensar a quarentena, dispor sobre comunicações e fiscalizar a agenda). A CEP cuida dos agentes do art. 2º, I a IV; a CGU, dos demais.</li><li><b>Art. 9º (deveres dos agentes do art. 2º)</b>: declaração anual (patrimônio, participações societárias, atividades econômicas ou profissionais e familiares até o 3º grau em atividades que possam gerar conflito) e comunicação de atividades privadas e propostas de trabalho.</li><li><b>Art. 10 (extensão)</b>: o art. 5º e o inciso I do art. 6º alcançam <b>todos</b> os agentes públicos do Executivo federal.</li><li><b>Art. 11 (agenda)</b>: divulgação <b>diária</b>, na internet, da agenda de compromissos públicos dos agentes do art. 2º.</li><li><b>Art. 12 (sanções)</b>: improbidade (art. 11 da Lei 8.429, quando não caracterizados os arts. 9º e 10) e demissão (Lei 8.112, arts. 127, III, e 132), ou medida equivalente.</li><li><b>Art. 13 (convivência)</b>: a lei não afasta a aplicação da Lei 8.112, especialmente do art. 117, nem de outras normas de conduta.</li></ul>\n<div class=\"lt-fluxo\"><span>Art. 1º objeto</span> <em>→</em> <span>Art. 2º quem</span> <em>→</em> <span>Art. 3º conceitos</span> <em>→</em> <span>Art. 4º prevenção e consulta</span> <em>→</em> <span>Art. 5º conflito durante</span> <em>→</em> <span>Art. 6º conflito depois e quarentena</span> <em>→</em> <span>Art. 8º CEP e CGU</span> <em>→</em> <span>Art. 9º declaração</span> <em>→</em> <span>Art. 10 extensão a todos</span> <em>→</em> <span>Art. 11 agenda</span> <em>→</em> <span>Art. 12 sanções</span> <em>→</em> <span>Art. 13 convivência com a Lei 8.112</span></div>\n<h3>18. A teoria por trás: por que a aparência importa</h3>\n<ul><li>A ética pública trabalha com a ideia de que o agente deve evitar não apenas o <b>conflito real</b> (quando o interesse privado efetivamente distorce a decisão), mas também o <b>conflito aparente</b> (quando um observador razoável poderia suspeitar dessa distorção) e o <b>conflito potencial</b> (quando a situação pode se transformar em conflito no futuro). A Lei 12.813 incorpora essa lógica ao falar em situação que <b>possa</b> comprometer o interesse coletivo.</li><li>A razão é a <b>confiança pública</b>. O Estado só funciona se o cidadão acredita que as decisões são tomadas por razões públicas. Um fiscal pode ser absolutamente honesto e, ainda assim, se ele recebe presentes da empresa fiscalizada, o cidadão passa a duvidar das suas autuações e de seus arquivamentos. A aparência de parcialidade já causa dano institucional.</li><li>A doutrina internacional (como as diretrizes da OCDE sobre gestão de conflitos de interesses no serviço público) recomenda três estratégias complementares: <b>declaração</b> (o agente revela seus interesses privados relevantes), <b>afastamento</b> (o agente deixa de participar das decisões em que tem interesse, declarando-se impedido) e <b>desinvestimento</b> (o agente se desfaz do interesse incompatível, por exemplo vendendo participações). A lei brasileira adota essas ideias: declaração anual, consulta, autorização, impedimento e quarentena.</li><li>Também se fala em <b>\"porta giratória\"</b> (*revolving door*): o trânsito rápido de dirigentes entre o setor público e as empresas que regulam ou com que contratam. A quarentena é o principal instrumento para controlar a porta giratória.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Conflito real</span></span><span class=\"vs\"><span>O interesse privado efetivamente distorce a decisão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Conflito aparente</span></span><span class=\"vs\"><span>Um observador razoável poderia suspeitar da distorção</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Conflito potencial</span></span><span class=\"vs\"><span>A situação pode virar conflito no futuro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Porta giratória</span></span><span class=\"vs\"><span>Trânsito entre o cargo público e as empresas reguladas; controlada pela quarentena</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estratégias</span></span><span class=\"vs\"><span>Declarar, afastar-se, desinvestir</span></span></button></div></div>\n<h3>19. Como responder a uma questão discursiva</h3>\n<ul><li>Tema típico: \"Discorra sobre o conflito de interesses no Poder Executivo federal, abordando conceito, hipóteses durante e após o exercício do cargo e consequências.\" Estrutura sugerida:</li><li><b>Introdução</b>: o conflito como confronto entre interesses públicos e privados e a importância da confiança pública; Lei 12.813/2013.</li><li><b>Conceitos</b>: conflito de interesses e informação privilegiada (art. 3º); natureza preventiva e independência de dano ou vantagem (art. 4º, § 2º).</li><li><b>Destinatários</b>: art. 2º e extensão do art. 10.</li><li><b>Hipóteses</b>: art. 5º (durante, com exemplos) e art. 6º (informação privilegiada a qualquer tempo e quarentena de seis meses).</li><li><b>Fiscalização</b>: CEP e CGU, consultas, autorizações, dispensa de quarentena, declaração anual e agenda diária.</li><li><b>Consequências</b>: improbidade, demissão e responsabilidade ética, sem afastar a Lei 8.112.</li><li><b>Conclusão</b>: prevenção e transparência como pilares da integridade pública.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Na discursiva, cite os números certos: <b>seis meses</b> de quarentena; <b>terceiro grau</b> de parentesco; <b>diária</b> a agenda; <b>anual</b> a declaração; <b>CEP</b> para os altos cargos e <b>CGU</b> para os demais.</div>\n<h3>20. Situações do dia a dia policial</h3>\n<ul><li>A atividade policial é especialmente exposta a conflitos de interesses, porque o agente decide na hora se autua, se libera, se apreende, se encaminha. Algumas situações recorrentes:</li><li><b>Fiscalizar parente ou amigo</b>: o policial que aborda o veículo do irmão ou de um amigo deve agir com a mesma impessoalidade que teria com qualquer cidadão e, se houver risco de parcialidade, pedir que outro colega conduza a fiscalização. A Lei 9.784/1999 (processo administrativo federal) prevê o <b>impedimento</b> de quem tenha interesse direto na matéria ou seja cônjuge, companheiro ou parente até o 3º grau do interessado.</li><li><b>Indicar guinchos, pátios, oficinas ou despachantes</b>: indicar um prestador específico, especialmente se houver qualquer vínculo pessoal ou recompensa, é favorecimento e pode configurar conflito, infração disciplinar e até crime. O correto é seguir o procedimento oficial do órgão.</li><li><b>Bicos de segurança privada</b>: trabalhar como segurança para empresas que o órgão fiscaliza (transportadoras, por exemplo) gera conflito claro, além de violar regras disciplinares próprias das carreiras policiais.</li><li><b>Redes sociais e informações de operações</b>: divulgar detalhes de operações, locais de fiscalização ou dados de investigados é uso indevido de informação obtida em razão do cargo e pode beneficiar terceiros (art. 5º, I).</li><li><b>Cursos e palestras</b>: dar aulas sobre legislação de trânsito em cursinhos é, em regra, compatível; mas usar informações internas de operações ou de planejamento em aula não é.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O guincho do cunhado</b><p>Um agente de trânsito, ao remover veículos, sempre aciona o guincho da empresa do cunhado, embora o órgão tenha contrato com outra empresa e um sistema de rodízio.</p><details><summary>Ver a solução comentada</summary><p>Praticar ato em benefício de PJ de parente até o 3º grau (cunhado: 2º grau por afinidade) configura conflito de interesses (art. 5º, V), além de violar a impessoalidade e as normas do contrato. Pode haver improbidade e responsabilização disciplinar.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A viagem paga pela montadora</b><p>Um dirigente de órgão federal de trânsito, responsável por homologar equipamentos veiculares, aceita viagem internacional paga por uma montadora para \"conhecer a fábrica\".</p><details><summary>Ver a solução comentada</summary><p>Hospitalidade oferecida por empresa com <b>interesse em decisão</b> do dirigente. Em regra, vedada, salvo hipóteses de interesse institucional previstas no regulamento, custeadas de forma transparente e, de preferência, pelo próprio órgão. Sem isso, há conflito de interesses.</p></details></div>\n<h3>21. Revisão relâmpago</h3>\n<ul><li>Conflito exige dano? <b>Não.</b> Exige vantagem? <b>Não.</b></li><li>Informação privilegiada: só a sigilosa? <b>Não</b>, também a relevante para decisão, com repercussão econômica, não pública.</li><li>Quarentena: quanto tempo? <b>6 meses.</b> Para quem? <b>Agentes do art. 2º.</b> Quem dispensa? <b>CEP ou CGU.</b></li><li>Uso de informação privilegiada depois do cargo: até quando proibido? <b>A qualquer tempo, para todos.</b></li><li>Intermediação de interesses privados: só no próprio órgão? <b>Não, em qualquer órgão de qualquer Poder, ainda que informalmente.</b></li><li>Benefício a empresa de parente: até que grau? <b>3º grau.</b></li><li>Serviço eventual a empresa regulada? <b>Vedado.</b></li><li>Vale durante licença? <b>Sim.</b></li><li>Agenda: com que frequência? <b>Diária.</b> Declaração? <b>Anual.</b></li><li>Consequências? <b>Improbidade (art. 11 da LIA) e demissão.</b></li></ul>\n<h3>22. Outras normas que tratam do mesmo problema</h3>\n<ul><li>O conflito de interesses não está só na Lei 12.813. Várias normas setoriais repetem a mesma lógica, e as bancas gostam de cruzá-las:</li><li><b>Agências reguladoras (Lei 9.986/2000, com a redação da Lei 13.848/2019)</b>: os membros do Conselho Diretor ou da Diretoria Colegiada ficam <b>impedidos de exercer atividade ou prestar serviço no setor regulado</b> pela agência por <b>seis meses</b> após a exoneração ou o término do mandato, <b>assegurada a remuneração compensatória</b>. É uma quarentena específica, com a mesma duração da Lei 12.813.</li><li><b>Estatais (Lei 13.303/2016)</b>: estabelece requisitos e <b>vedações</b> para a indicação de administradores de empresas públicas e sociedades de economia mista, impedindo, por exemplo, a nomeação de pessoas que atuaram recentemente em estrutura decisória de partido político ou em campanha eleitoral, e de quem tenha conflito de interesses com a empresa. O objetivo é blindar a gestão das estatais contra interesses privados e partidários.</li><li><b>Processo administrativo (Lei 9.784/1999, arts. 18 a 21)</b>: é <b>impedido</b> de atuar em processo administrativo o servidor que tenha <b>interesse direto ou indireto</b> na matéria, que tenha participado ou venha a participar como perito, testemunha ou representante, ou se tais situações ocorrem quanto ao <b>cônjuge, companheiro ou parente e afins até o terceiro grau</b>, ou que esteja litigando com o interessado. Pode ser arguida a <b>suspeição</b> de quem tenha amizade íntima ou inimizade notória com algum dos interessados. A omissão do dever de comunicar o impedimento constitui <b>falta grave</b>, para efeitos disciplinares.</li><li><b>Código de Conduta da Alta Administração Federal</b>: exige que a autoridade, ao assumir, apresente informações sobre sua situação patrimonial e sobre atividades que possam suscitar conflito; veda o recebimento de presentes, salvo exceções protocolares e brindes; regula as propostas de trabalho e impõe a observância da quarentena.</li><li><b>Lei 14.133/2021 (licitações)</b>: veda a participação de licitante com vínculos de parentesco até o 3º grau com dirigentes ou agentes da licitação e exige que os agentes de contratação não tenham vínculos com licitantes.</li></ul>\n<table class=\"tab\"><thead><tr><th>Norma;Regra de conflito;Prazo ou grau</th></tr></thead><tbody><tr><td>Lei 12.813/2013;Quarentena dos altos cargos do Executivo federal;6 meses</td></tr><tr><td>Lei 9.986/2000;Quarentena de dirigentes de agências reguladoras, com remuneração compensatória;6 meses</td></tr><tr><td>Lei 9.784/1999;Impedimento de servidor com interesse ou parentesco no processo;Até o 3º grau</td></tr><tr><td>Lei 14.133/2021;Vedação de licitante com parentesco com agentes;Até o 3º grau</td></tr><tr><td>Lei 13.303/2016;Vedações para administradores de estatais;Requisitos e impedimentos específicos</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na Lei 9.784/1999, a amizade íntima com o interessado gera impedimento automático do servidor</span><br>✅ <span class=\"certo\">amizade íntima ou inimizade notória geram <b>suspeição</b>, que pode ser arguida; o <b>impedimento</b> decorre de interesse direto ou indireto, participação anterior, parentesco até o 3º grau ou litígio</span></li><li>❌ <span class=\"banca\">A quarentena dos dirigentes de agências reguladoras é de doze meses e sem remuneração</span><br>✅ <span class=\"certo\">é de <b>seis meses</b>, <b>assegurada a remuneração compensatória</b></span></li></ol></div>\n<h3>23. Exercícios de fixação comentados</h3>\n<ul><li><b>Exercício 1</b>: Um servidor, sem cargo do art. 2º, deixa o órgão e, no dia seguinte, vai trabalhar em uma empresa da área. Há violação da quarentena? <b>Não</b>: a quarentena alcança apenas os agentes do art. 2º. Mas ele continua proibido de usar informação privilegiada a qualquer tempo.</li><li><b>Exercício 2</b>: O agente consultou a CEP, que concluiu pela irrelevância do conflito e autorizou a atividade privada. Ele pode exercê-la? <b>Sim</b>: a autorização é competência expressa (art. 8º, V).</li><li><b>Exercício 3</b>: A esposa de um diretor é sócia de uma empresa que disputa licitação conduzida pela diretoria dele. O diretor não assina nada, mas orienta informalmente a comissão. Há conflito? <b>Sim</b>: ele pratica ato em benefício de PJ de cônjuge (art. 5º, V) e deveria ter se declarado impedido (Lei 9.784, art. 18).</li><li><b>Exercício 4</b>: Um analista recebe de uma empresa interessada em processo sob sua responsabilidade uma cesta de vinhos de alto valor no Natal. Pode aceitar? <b>Não</b>: é presente de interessado, fora das hipóteses de brinde; deve recusar e, se impossível, dar a destinação prevista no regulamento.</li><li><b>Exercício 5</b>: Um dirigente de estatal, em licença para tratar de assuntos particulares, assume a gerência de uma empresa concorrente. <b>Há conflito</b>: as vedações do art. 5º alcançam o agente em licença, e a gerência de sociedade privada também é vedada pela Lei 8.112.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 9.986</span></span><span class=\"vs\"><span>Quarentena de 6 meses para dirigentes de agências, com remuneração compensatória</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 9.784, art. 18</span></span><span class=\"vs\"><span>Impedimento: interesse, participação anterior, parentesco até o 3º grau, litígio</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 9.784, art. 20</span></span><span class=\"vs\"><span>Suspeição: amizade íntima ou inimizade notória</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Omissão de comunicar impedimento</span></span><span class=\"vs\"><span>Falta grave</span></span></button></div></div>\n<h3>24. A vida de um alto dirigente, do primeiro ao último dia</h3>\n<ul><li>Acompanhar a trajetória de um agente do art. 2º ajuda a fixar a lei inteira em ordem cronológica.</li><li><b>Antes da posse</b>: o futuro dirigente deve avaliar seus interesses privados (empresas em que é sócio, atividades que exerce, parentes em empresas do setor). Se houver incompatibilidade, deve se desfazer do interesse ou se afastar da atividade, e pode consultar a CEP.</li><li><b>Na posse e anualmente</b>: apresenta a <b>declaração</b> de patrimônio, participações societárias, atividades econômicas e familiares até o 3º grau em atividades que possam gerar conflito (art. 9º, I).</li><li><b>Todos os dias</b>: divulga sua <b>agenda</b> de compromissos públicos na internet (art. 11), inclusive as audiências com representantes de interesses privados.</li><li><b>Durante o mandato</b>: observa as sete vedações do art. 5º; resguarda as informações privilegiadas; recusa presentes de interessados; declara-se impedido quando o assunto envolve empresa de familiar; consulta a CEP quando tem dúvida (art. 4º, § 1º).</li><li><b>Ao receber proposta de trabalho</b>: comunica por escrito a proposta que pretende aceitar (art. 9º, II) e deixa de atuar em processos do potencial empregador.</li><li><b>Na saída</b>: cumpre a <b>quarentena de seis meses</b> (art. 6º, II), salvo autorização expressa da CEP; durante esse período, não presta serviços a quem teve relacionamento relevante, não assume cargo em empresa da área, não celebra contratos de consultoria com o órgão e não intervém em favor de interesses privados perante ele.</li><li><b>Para sempre</b>: não usa nem divulga informação privilegiada obtida no cargo (art. 6º, I).</li></ul>\n<div class=\"lt-fluxo\"><span>Antes da posse: avaliar e eliminar incompatibilidades</span> <em>→</em> <span>Posse e todo ano: declaração (art. 9º)</span> <em>→</em> <span>Todo dia: agenda pública (art. 11)</span> <em>→</em> <span>Durante o cargo: vedações do art. 5º e consultas</span> <em>→</em> <span>Proposta de emprego: comunicação (art. 9º, II)</span> <em>→</em> <span>Saída: quarentena de 6 meses (art. 6º, II)</span> <em>→</em> <span>Para sempre: sigilo da informação privilegiada (art. 6º, I)</span></div>\n<ul><li>Essa sequência mostra que a Lei 12.813 não é apenas uma lista de proibições: ela organiza um <b>ciclo de integridade</b> que começa antes da posse e termina muito depois da saída. Para o servidor comum, a mensagem é mais simples, mas igualmente importante: separar o público do privado, não intermediar interesses, não usar informações do cargo e, na dúvida, perguntar antes de agir.</li></ul>\n<h3>25. Três frases para levar para a prova</h3>\n<ul><li>\"<b>Conflito de interesses é situação de risco: independe de dano ao erário e de vantagem recebida.</b>\"</li><li>\"<b>Durante o cargo, sete vedações do art. 5º, que valem para todos e até em licença; depois do cargo, informação privilegiada nunca, e quarentena de seis meses para os altos cargos.</b>\"</li><li>\"<b>CEP para os altos cargos, CGU para os demais; declaração anual, agenda diária; consequências: improbidade e demissão.</b>\"</li><li>Com essas três frases e a tabela dos incisos do art. 5º, você resolve a maior parte das questões sobre a Lei 12.813/2013. Quando a questão misturar normas, lembre que a Lei 8.112 (art. 117), o Código de Ética (Decreto 1.171), a Lei 9.784 (impedimento e suspeição) e as leis setoriais (agências, estatais, licitações) convivem com ela e reforçam a mesma ideia: o cargo público não pode servir a interesses privados.</li></ul>",
+"quiz": [
+{
+"p": "Conflito de interesses é a situação gerada pelo confronto entre interesses públicos e privados que possa comprometer o interesse coletivo ou influenciar, de maneira imprópria, o desempenho da função pública.",
+"c": true,
+"x": "Literal do art. 3º, I, da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 3º, I."
+},
+{
+"p": "A caracterização do conflito de interesses depende da comprovação de lesão ao patrimônio público.",
+"c": false,
+"x": "O art. 4º, § 2º, afirma que o conflito independe de lesão ao patrimônio público e do recebimento de vantagem.",
+"pg": "Exigir dano ao erário.",
+"e": "Lei 12.813, art. 4º, § 2º."
+},
+{
+"p": "Só há conflito de interesses quando o agente ou terceiro efetivamente recebe vantagem ou ganho.",
+"c": false,
+"x": "Independe do recebimento de qualquer vantagem ou ganho (art. 4º, § 2º).",
+"e": "Lei 12.813, art. 4º, § 2º."
+},
+{
+"p": "Informação privilegiada é a que diz respeito a assuntos sigilosos ou aquela relevante ao processo de decisão no Poder Executivo federal que tenha repercussão econômica ou financeira e que não seja de amplo conhecimento público.",
+"c": true,
+"x": "Art. 3º, II.",
+"e": "Lei 12.813, art. 3º, II."
+},
+{
+"p": "Para a Lei 12.813/2013, informação privilegiada é exclusivamente a informação formalmente classificada como sigilosa.",
+"c": false,
+"x": "Também é a informação relevante para decisão, com repercussão econômica ou financeira, não pública.",
+"e": "Lei 12.813, art. 3º, II."
+},
+{
+"p": "Em caso de dúvida sobre como prevenir ou impedir situação de conflito de interesses, o agente público deverá consultar a Comissão de Ética Pública ou a Controladoria-Geral da União, conforme o caso.",
+"c": true,
+"x": "Art. 4º, § 1º.",
+"e": "Lei 12.813, art. 4º, § 1º."
+},
+{
+"p": "A Lei 12.813/2013 disciplina o conflito de interesses no âmbito dos três Poderes da União.",
+"c": false,
+"x": "A lei trata do Poder Executivo federal.",
+"e": "Lei 12.813, art. 1º."
+},
+{
+"p": "As situações de conflito de interesses durante o exercício previstas no art. 5º da Lei 12.813/2013 aplicam-se aos agentes do art. 2º ainda que em gozo de licença ou em período de afastamento.",
+"c": true,
+"x": "Parágrafo único do art. 5º.",
+"e": "Lei 12.813, art. 5º, parágrafo único."
+},
+{
+"p": "As disposições sobre conflito de interesses no exercício do cargo e a vedação de uso de informação privilegiada a qualquer tempo estendem-se a todos os agentes públicos no âmbito do Poder Executivo federal.",
+"c": true,
+"x": "Art. 10: alcança o art. 5º e o inciso I do art. 6º.",
+"e": "Lei 12.813, art. 10."
+},
+{
+"p": "A quarentena de seis meses prevista na Lei 12.813/2013 aplica-se a todos os servidores do Poder Executivo federal.",
+"c": false,
+"x": "A quarentena (art. 6º, II) aplica-se aos agentes do art. 2º; o art. 10 estende apenas o art. 5º e o inciso I do art. 6º.",
+"pg": "Estender a quarentena a todos.",
+"e": "Lei 12.813, arts. 6º e 10."
+},
+{
+"p": "A divulgação ou o uso de informação privilegiada obtida em razão das atividades exercidas configura conflito de interesses a qualquer tempo após o exercício do cargo.",
+"c": true,
+"x": "Art. 6º, I: não há prazo.",
+"e": "Lei 12.813, art. 6º, I."
+},
+{
+"p": "Após o término da quarentena, o ex-agente pode utilizar livremente as informações privilegiadas obtidas no exercício do cargo.",
+"c": false,
+"x": "O uso de informação privilegiada é vedado a qualquer tempo.",
+"e": "Lei 12.813, art. 6º, I."
+},
+{
+"p": "O prazo de seis meses de impedimento após o exercício do cargo é contado da data da dispensa, exoneração, destituição, demissão ou aposentadoria.",
+"c": true,
+"x": "Art. 6º, II.",
+"e": "Lei 12.813, art. 6º, II."
+},
+{
+"p": "A Comissão de Ética Pública ou a Controladoria-Geral da União podem dispensar o ex-ocupante de cargo do cumprimento da quarentena quando verificada a inexistência de conflito de interesses ou sua irrelevância.",
+"c": true,
+"x": "Art. 8º, VI.",
+"e": "Lei 12.813, art. 8º, VI."
+},
+{
+"p": "Compete à Comissão de Ética Pública ou à Controladoria-Geral da União, conforme o caso, autorizar o ocupante de cargo no Executivo federal a exercer atividade privada, quando verificada a inexistência de conflito de interesses ou sua irrelevância.",
+"c": true,
+"x": "Art. 8º, V.",
+"e": "Lei 12.813, art. 8º, V."
+},
+{
+"p": "A Comissão de Ética Pública atua nos casos que envolvam Ministros de Estado, ocupantes de cargos de natureza especial, dirigentes da administração indireta e ocupantes dos níveis mais altos de cargos em comissão; a CGU atua nos casos dos demais agentes.",
+"c": true,
+"x": "Parágrafo único do art. 8º.",
+"e": "Lei 12.813, art. 8º, parágrafo único."
+},
+{
+"p": "Cabe à Controladoria-Geral da União manifestar-se sobre consultas de conflito de interesses formuladas por Ministros de Estado.",
+"c": false,
+"x": "Agentes do art. 2º, I a IV, ficam a cargo da Comissão de Ética Pública.",
+"e": "Lei 12.813, art. 8º, parágrafo único."
+},
+{
+"p": "Os agentes do art. 2º da Lei 12.813/2013 devem divulgar, diariamente, por meio da internet, sua agenda de compromissos públicos.",
+"c": true,
+"x": "Art. 11.",
+"e": "Lei 12.813, art. 11."
+},
+{
+"p": "A agenda de compromissos públicos dos altos dirigentes do Executivo federal deve ser divulgada mensalmente.",
+"c": false,
+"x": "A divulgação é diária.",
+"pg": "Trocar a periodicidade.",
+"e": "Lei 12.813, art. 11."
+},
+{
+"p": "Os agentes do art. 2º da Lei 12.813/2013 devem enviar anualmente declaração com informações sobre situação patrimonial, participações societárias, atividades econômicas ou profissionais e existência de parentes até o terceiro grau em atividades que possam suscitar conflito.",
+"c": true,
+"x": "Art. 9º, I.",
+"e": "Lei 12.813, art. 9º, I."
+},
+{
+"p": "O agente público que praticar os atos previstos nos arts. 5º e 6º da Lei 12.813/2013 incorre em improbidade administrativa, na forma do art. 11 da Lei 8.429/1992, quando não caracterizadas as condutas dos arts. 9º e 10 daquela lei.",
+"c": true,
+"x": "Art. 12, caput.",
+"e": "Lei 12.813, art. 12."
+},
+{
+"p": "O agente público que se encontrar em situação de conflito de interesses fica sujeito à penalidade disciplinar de demissão, sem prejuízo de outras sanções.",
+"c": true,
+"x": "Art. 12, parágrafo único, remetendo aos arts. 127, III, e 132 da Lei 8.112.",
+"e": "Lei 12.813, art. 12, parágrafo único."
+},
+{
+"p": "Para o agente em situação de conflito de interesses, a Lei 12.813/2013 prevê como sanção disciplinar máxima a suspensão.",
+"c": false,
+"x": "Prevê a demissão.",
+"e": "Lei 12.813, art. 12, parágrafo único."
+},
+{
+"p": "A Lei 12.813/2013 afastou a aplicação do art. 117 da Lei 8.112/1990 aos casos de conflito de interesses.",
+"c": false,
+"x": "O art. 13 diz que a lei não afasta a Lei 8.112, especialmente o art. 117.",
+"e": "Lei 12.813, art. 13."
+},
+{
+"p": "Ao servidor federal é proibido participar de gerência ou administração de sociedade privada, salvo na qualidade de acionista, cotista ou comanditário.",
+"c": true,
+"x": "Lei 8.112, art. 117, X; pena de demissão.",
+"e": "Lei 8.112, art. 117, X."
+},
+{
+"p": "A Lei 8.112/1990 admite que o servidor atue como procurador junto a repartições públicas quando se tratar de benefícios previdenciários ou assistenciais de parentes até o segundo grau e de cônjuge ou companheiro.",
+"c": true,
+"x": "Art. 117, XI, parte final.",
+"e": "Lei 8.112, art. 117, XI."
+},
+{
+"p": "A Lei 8.112/1990 permite ao servidor atuar como intermediário de qualquer interesse de parentes até o terceiro grau junto a repartições públicas.",
+"c": false,
+"x": "A ressalva é restrita a benefícios previdenciários ou assistenciais de parentes até o 2º grau, cônjuge ou companheiro.",
+"e": "Lei 8.112, art. 117, XI."
+},
+{
+"p": "Nos termos da Lei 9.784/1999, é impedido de atuar em processo administrativo o servidor que tenha interesse direto ou indireto na matéria.",
+"c": true,
+"x": "Art. 18, I.",
+"e": "Lei 9.784, art. 18."
+},
+{
+"p": "Segundo a Lei 9.784/1999, a amizade íntima com o interessado gera impedimento automático do servidor.",
+"c": false,
+"x": "Amizade íntima ou inimizade notória geram suspeição (art. 20).",
+"e": "Lei 9.784, art. 20."
+},
+{
+"p": "Segundo a Lei 9.784/1999, a omissão do dever de comunicar o impedimento constitui falta grave, para efeitos disciplinares.",
+"c": true,
+"x": "Art. 19, parágrafo único.",
+"e": "Lei 9.784, art. 19."
+},
+{
+"p": "Os dirigentes de agências reguladoras ficam impedidos de prestar serviços no setor regulado por seis meses após a exoneração ou o término do mandato, assegurada a remuneração compensatória.",
+"c": true,
+"x": "Lei 9.986/2000, art. 8º, com a redação da Lei 13.848/2019.",
+"e": "Lei 9.986, art. 8º."
+},
+{
+"p": "O termo \"porta giratória\" designa o trânsito de dirigentes entre o setor público e as empresas que regulavam ou com as quais contratavam, problema que a quarentena procura controlar.",
+"c": true,
+"x": "É o fenômeno do revolving door.",
+"e": "Conceitos de integridade."
+},
+{
+"p": "Brindes de baixo valor, distribuídos de forma generalizada a título de cortesia ou divulgação, podem ser recebidos pelo agente público, nos limites do regulamento.",
+"c": true,
+"x": "O Decreto 10.889/2021 distingue brindes (admitidos nos limites) de presentes de interessados (vedados).",
+"e": "Decreto 10.889/2021."
+},
+{
+"p": "O agente público pode aceitar presentes de qualquer valor de empresa interessada em sua decisão, desde que os declare posteriormente à Comissão de Ética.",
+"c": false,
+"x": "Presentes de interessados em decisão do agente são vedados fora dos limites do regulamento; declarar não legitima o recebimento.",
+"e": "Lei 12.813, art. 5º, VI."
+},
+{
+"p": "Situação hipotética: servidor de agência reguladora de transportes presta, em suas férias, um serviço eventual de consultoria a uma concessionária regulada pela agência. Nessa situação, há conflito de interesses.",
+"c": true,
+"x": "O art. 5º, VII, veda serviços ainda que eventuais a empresa regulada.",
+"e": "Lei 12.813, art. 5º, VII."
+},
+{
+"p": "Situação hipotética: servidor do Ministério X liga para um conhecido na Prefeitura para agilizar o alvará da empresa de um amigo. Nessa situação, há conflito de interesses, ainda que a atuação tenha sido informal.",
+"c": true,
+"x": "Art. 5º, IV: intermediação, ainda que informal, perante órgão de qualquer ente.",
+"e": "Lei 12.813, art. 5º, IV."
+},
+{
+"p": "Situação hipotética: servidor de nível médio, sem cargo do art. 2º, exonerado há dois anos, utiliza informação sigilosa obtida no cargo para beneficiar sua empresa. Como ele não estava sujeito à quarentena, não há conflito de interesses.",
+"c": false,
+"x": "A vedação de uso de informação privilegiada vale a qualquer tempo e para todos os agentes (arts. 6º, I, e 10).",
+"e": "Lei 12.813, arts. 6º, I, e 10."
+},
+{
+"p": "Situação hipotética: diretor de autarquia federal, exonerado em janeiro, aceita em março o cargo de conselheiro de empresa que atua na área de competência do cargo que ocupava, sem autorização. Nessa situação, há conflito de interesses.",
+"c": true,
+"x": "Art. 6º, II, b, dentro dos seis meses.",
+"e": "Lei 12.813, art. 6º, II, b."
+},
+{
+"p": "Situação hipotética: pregoeiro conduz licitação em que uma das empresas tem como sócio o seu irmão. Nessa situação, ele deve declarar-se impedido.",
+"c": true,
+"x": "Irmão é parente de 2º grau; há conflito (art. 5º, V) e impedimento (Lei 9.784, art. 18).",
+"e": "Lei 12.813, art. 5º, V; Lei 9.784, art. 18."
+},
+{
+"p": "Na gestão de conflitos de interesses, são estratégias reconhecidas a declaração dos interesses privados, o afastamento das decisões em que o agente tem interesse e o desinvestimento do interesse incompatível.",
+"c": true,
+"x": "Declaração, afastamento e desinvestimento.",
+"e": "Doutrina de integridade."
+},
+{
+"p": "O conflito aparente, quando um observador razoável poderia suspeitar da influência do interesse privado, também deve ser evitado pelo agente público, porque compromete a confiança na Administração.",
+"c": true,
+"x": "A lei usa a lógica do \"possa comprometer\".",
+"e": "Lei 12.813, art. 3º, I."
+},
+{
+"p": "Segundo a Lei 12.813/2013, o período de impedimento após o exercício de cargo do art. 2º, contado da exoneração, é de",
+"alts": [
+"três meses",
+"quatro meses",
+"seis meses",
+"doze meses",
+"vinte e quatro meses"
+],
+"r": 2,
+"x": "Art. 6º, II: seis meses.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Lei 12.813, art. 6º, II."
+},
+{
+"p": "Configura conflito de interesses durante o exercício do cargo, nos termos da Lei 12.813/2013,",
+"alts": [
+"dar aulas em universidade, com compatibilidade de horários e sem uso de informação privilegiada",
+"ser cotista de sociedade sem relação com o órgão",
+"praticar ato em benefício de pessoa jurídica de que participe o cônjuge do agente",
+"receber brinde de baixo valor distribuído de forma generalizada",
+"consultar a CEP sobre dúvida de conduta"
+],
+"r": 2,
+"x": "Art. 5º, V.",
+"n": [
+"Em regra compatível.",
+"Não configura por si só.",
+"Correta.",
+"Brinde é admitido.",
+"Consulta é dever, não conflito."
+],
+"e": "Lei 12.813, art. 5º, V."
+},
+{
+"p": "A divulgação diária da agenda de compromissos públicos é dever dos",
+"alts": [
+"servidores de nível médio",
+"estagiários",
+"agentes do art. 2º da Lei 12.813/2013",
+"empregados terceirizados",
+"servidores aposentados"
+],
+"r": 2,
+"x": "Art. 11.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Lei 12.813, art. 11."
+},
+{
+"p": "Nos casos que envolvam Ministro de Estado, a competência para responder consulta sobre conflito de interesses é da",
+"alts": [
+"Controladoria-Geral da União",
+"Advocacia-Geral da União",
+"Comissão de Ética Pública",
+"Casa Civil",
+"comissão de ética do Ministério"
+],
+"r": 2,
+"x": "Art. 8º, parágrafo único.",
+"n": [
+"CGU cuida dos demais agentes.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Lei 12.813, art. 8º."
+},
+{
+"p": "A violação das regras de conflito de interesses dos arts. 5º e 6º da Lei 12.813/2013, quando não caracterizar enriquecimento ilícito nem dano ao erário, enquadra-se como improbidade administrativa",
+"alts": [
+"do art. 9º da Lei 8.429/1992",
+"do art. 10 da Lei 8.429/1992",
+"do art. 11 da Lei 8.429/1992",
+"do art. 10-A da Lei 8.429/1992",
+"culposa, prevista no art. 5º da Lei 8.429/1992"
+],
+"r": 2,
+"x": "Art. 12 da Lei 12.813.",
+"n": [
+"Enriquecimento ilícito.",
+"Dano ao erário.",
+"Correta.",
+"Revogado.",
+"Não há improbidade culposa."
+],
+"e": "Lei 12.813, art. 12."
+},
+{
+"p": "A ressalva do art. 117, XI, da Lei 8.112/1990 permite ao servidor atuar como procurador junto a repartições públicas em favor de",
+"alts": [
+"qualquer amigo, desde que sem remuneração",
+"parentes até o terceiro grau, em qualquer assunto",
+"parentes até o segundo grau, cônjuge ou companheiro, em benefícios previdenciários ou assistenciais",
+"empresas de que seja cotista",
+"entidades sem fins lucrativos"
+],
+"r": 2,
+"x": "Art. 117, XI.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"Não.",
+"Não."
+],
+"e": "Lei 8.112, art. 117, XI."
+},
+{
+"p": "A Lei 12.813/2013 trata, entre outros temas, dos impedimentos posteriores ao exercício do cargo ou emprego no Poder Executivo federal.",
+"c": true,
+"x": "Art. 1º: situações de conflito, restrições ligadas a informação privilegiada, impedimentos posteriores e competências.",
+"e": "Lei 12.813, art. 1º."
+},
+{
+"p": "Os agentes do art. 2º da Lei 12.813/2013 que estejam em gozo de licença ficam dispensados de enviar a declaração anual.",
+"c": false,
+"x": "O art. 9º inclui expressamente os que estão em licença ou afastamento.",
+"e": "Lei 12.813, art. 9º."
+},
+{
+"p": "Os agentes do art. 2º devem comunicar por escrito o exercício de atividade privada ou o recebimento de propostas de trabalho que pretendam aceitar, ainda que não vedadas pelas normas vigentes.",
+"c": true,
+"x": "Art. 9º, II.",
+"e": "Lei 12.813, art. 9º, II."
+},
+{
+"p": "Compete à CEP ou à CGU, conforme o caso, fiscalizar a divulgação da agenda de compromissos públicos.",
+"c": true,
+"x": "Art. 8º, VIII.",
+"e": "Lei 12.813, art. 8º, VIII."
+},
+{
+"p": "Durante a quarentena, o ex-dirigente pode celebrar contratos de consultoria com o mesmo órgão em que trabalhava, desde que vinculados apenas indiretamente a ele.",
+"c": false,
+"x": "A alínea c veda contratos vinculados, ainda que indiretamente, ao órgão em que ocupou o cargo.",
+"e": "Lei 12.813, art. 6º, II, c."
+},
+{
+"p": "O Decreto 9.203/2017 determina que os órgãos e entidades da administração federal instituam programas de integridade, que incluem a prevenção de conflitos de interesses.",
+"c": true,
+"x": "Programas de integridade com prevenção, detecção e remediação de desvios.",
+"e": "Decreto 9.203/2017."
+},
+{
+"p": "A Lei 12.813/2013 aplica-se somente aos servidores estatutários, excluídos os empregados públicos das estatais federais.",
+"c": false,
+"x": "A lei fala em ocupantes de cargo ou emprego, e o art. 2º inclui dirigentes de empresas públicas e sociedades de economia mista.",
+"e": "Lei 12.813, arts. 1º e 2º."
+},
+{
+"p": "Para a Lei 12.813/2013, o servidor tem o dever de agir de modo a prevenir ou impedir possível conflito de interesses e a resguardar informação privilegiada.",
+"c": true,
+"x": "Art. 4º, caput.",
+"e": "Lei 12.813, art. 4º."
+},
+{
+"p": "Configura conflito de interesses no exercício de cargo ou emprego no Poder Executivo federal divulgar ou fazer uso de informação privilegiada, em proveito próprio ou de terceiro, obtida em razão das atividades exercidas.",
+"c": true,
+"x": "É a hipótese do art. 5º, I, da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 5º, I."
+},
+{
+"p": "Configura conflito de interesses no exercício de cargo ou emprego no Poder Executivo federal exercer atividade que implique a prestação de serviços ou a manutenção de relação de negócio com pessoa física ou jurídica que tenha interesse em decisão do agente ou de colegiado do qual ele participe.",
+"c": true,
+"x": "É a hipótese do art. 5º, II, da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 5º, II."
+},
+{
+"p": "Configura conflito de interesses no exercício de cargo ou emprego no Poder Executivo federal exercer, direta ou indiretamente, atividade que, em razão da sua natureza, seja incompatível com as atribuições do cargo, inclusive em áreas ou matérias correlatas.",
+"c": true,
+"x": "É a hipótese do art. 5º, III, da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 5º, III."
+},
+{
+"p": "Configura conflito de interesses no exercício de cargo ou emprego no Poder Executivo federal atuar, ainda que informalmente, como procurador, consultor, assessor ou intermediário de interesses privados nos órgãos ou entidades da administração pública direta ou indireta de qualquer dos Poderes da União, dos Estados, do DF e dos Municípios.",
+"c": true,
+"x": "É a hipótese do art. 5º, IV, da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 5º, IV."
+},
+{
+"p": "Configura conflito de interesses no exercício de cargo ou emprego no Poder Executivo federal praticar ato em benefício de interesse de pessoa jurídica de que participe o agente público, seu cônjuge, companheiro ou parentes até o terceiro grau, e que possa ser por ele beneficiada ou influir em seus atos de gestão.",
+"c": true,
+"x": "É a hipótese do art. 5º, V, da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 5º, V."
+},
+{
+"p": "Configura conflito de interesses no exercício de cargo ou emprego no Poder Executivo federal receber presente de quem tenha interesse em decisão do agente ou de colegiado do qual participe, fora dos limites e condições estabelecidos em regulamento.",
+"c": true,
+"x": "É a hipótese do art. 5º, VI, da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 5º, VI."
+},
+{
+"p": "Configura conflito de interesses no exercício de cargo ou emprego no Poder Executivo federal prestar serviços, ainda que eventuais, a empresa cuja atividade seja controlada, fiscalizada ou regulada pelo ente ao qual o agente está vinculado.",
+"c": true,
+"x": "É a hipótese do art. 5º, VII, da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 5º, VII."
+},
+{
+"p": "Segundo a Lei 12.813/2013, somente configura conflito de interesses durante o exercício do cargo atuar como intermediário de interesses privados, desde que formalmente constituído como procurador e apenas perante o próprio órgão de lotação.",
+"c": false,
+"x": "A lei veda a atuação ainda que informal e perante órgãos de qualquer dos Poderes e entes. (art. 5º, IV).",
+"pg": "Restringir ao próprio órgão e exigir formalidade.",
+"e": "Lei 12.813, art. 5º, IV."
+},
+{
+"p": "Segundo a Lei 12.813/2013, somente configura conflito de interesses durante o exercício do cargo praticar ato em benefício de pessoa jurídica de que participe parente do agente até o segundo grau.",
+"c": false,
+"x": "O limite é o terceiro grau. (art. 5º, V).",
+"pg": "Trocar o terceiro pelo segundo grau.",
+"e": "Lei 12.813, art. 5º, V."
+},
+{
+"p": "Segundo a Lei 12.813/2013, somente configura conflito de interesses durante o exercício do cargo prestar serviços habituais, mas não eventuais, a empresa regulada pelo ente ao qual o agente está vinculado.",
+"c": false,
+"x": "A vedação alcança serviços ainda que eventuais. (art. 5º, VII).",
+"pg": "Retirar o \"ainda que eventuais\".",
+"e": "Lei 12.813, art. 5º, VII."
+},
+{
+"p": "Segundo a Lei 12.813/2013, somente configura conflito de interesses durante o exercício do cargo exercer atividade incompatível com as atribuições do cargo, excluídas as atividades desenvolvidas em áreas ou matérias correlatas.",
+"c": false,
+"x": "A lei considera incompatível inclusive a atividade em áreas ou matérias correlatas. (art. 5º, III).",
+"pg": "Excluir as áreas correlatas.",
+"e": "Lei 12.813, art. 5º, III."
+},
+{
+"p": "Configura conflito de interesses, no período de seis meses contado da exoneração, salvo autorização expressa do órgão competente, prestar, direta ou indiretamente, qualquer tipo de serviço a pessoa física ou jurídica com quem tenha estabelecido relacionamento relevante em razão do exercício do cargo.",
+"c": true,
+"x": "Art. 6º, II, a: hipótese da quarentena.",
+"e": "Lei 12.813, art. 6º, II, a."
+},
+{
+"p": "Configura conflito de interesses, no período de doze meses contado da exoneração, prestar, direta ou indiretamente, qualquer tipo de serviço a pessoa física ou jurídica com quem tenha estabelecido relacionamento relevante em razão do exercício do cargo.",
+"c": false,
+"x": "O período de impedimento (quarentena) é de seis meses.",
+"pg": "Trocar seis por doze meses.",
+"e": "Lei 12.813, art. 6º, II, a."
+},
+{
+"p": "Configura conflito de interesses, no período de seis meses contado da exoneração, salvo autorização expressa do órgão competente, aceitar cargo de administrador ou conselheiro ou estabelecer vínculo profissional com pessoa física ou jurídica que desempenhe atividade relacionada à área de competência do cargo ocupado.",
+"c": true,
+"x": "Art. 6º, II, b: hipótese da quarentena.",
+"e": "Lei 12.813, art. 6º, II, b."
+},
+{
+"p": "Configura conflito de interesses, no período de doze meses contado da exoneração, aceitar cargo de administrador ou conselheiro ou estabelecer vínculo profissional com pessoa física ou jurídica que desempenhe atividade relacionada à área de competência do cargo ocupado.",
+"c": false,
+"x": "O período de impedimento (quarentena) é de seis meses.",
+"pg": "Trocar seis por doze meses.",
+"e": "Lei 12.813, art. 6º, II, b."
+},
+{
+"p": "Configura conflito de interesses, no período de seis meses contado da exoneração, salvo autorização expressa do órgão competente, celebrar com órgãos ou entidades do Poder Executivo federal contratos de serviço, consultoria, assessoramento ou atividades similares, vinculados, ainda que indiretamente, ao órgão em que tenha ocupado o cargo.",
+"c": true,
+"x": "Art. 6º, II, c: hipótese da quarentena.",
+"e": "Lei 12.813, art. 6º, II, c."
+},
+{
+"p": "Configura conflito de interesses, no período de doze meses contado da exoneração, celebrar com órgãos ou entidades do Poder Executivo federal contratos de serviço, consultoria, assessoramento ou atividades similares, vinculados, ainda que indiretamente, ao órgão em que tenha ocupado o cargo.",
+"c": false,
+"x": "O período de impedimento (quarentena) é de seis meses.",
+"pg": "Trocar seis por doze meses.",
+"e": "Lei 12.813, art. 6º, II, c."
+},
+{
+"p": "Configura conflito de interesses, no período de seis meses contado da exoneração, salvo autorização expressa do órgão competente, intervir, direta ou indiretamente, em favor de interesse privado perante órgão ou entidade em que haja ocupado cargo ou com o qual tenha estabelecido relacionamento relevante.",
+"c": true,
+"x": "Art. 6º, II, d: hipótese da quarentena.",
+"e": "Lei 12.813, art. 6º, II, d."
+},
+{
+"p": "Configura conflito de interesses, no período de doze meses contado da exoneração, intervir, direta ou indiretamente, em favor de interesse privado perante órgão ou entidade em que haja ocupado cargo ou com o qual tenha estabelecido relacionamento relevante.",
+"c": false,
+"x": "O período de impedimento (quarentena) é de seis meses.",
+"pg": "Trocar seis por doze meses.",
+"e": "Lei 12.813, art. 6º, II, d."
+},
+{
+"p": "O Ministro de Estado submete-se ao regime completo da Lei 12.813/2013, inclusive à quarentena de seis meses após deixar o cargo.",
+"c": true,
+"x": "É agente do art. 2º da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 2º."
+},
+{
+"p": "O ocupante de cargo de natureza especial submete-se ao regime completo da Lei 12.813/2013, inclusive à quarentena de seis meses após deixar o cargo.",
+"c": true,
+"x": "É agente do art. 2º da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 2º."
+},
+{
+"p": "O presidente de autarquia federal submete-se ao regime completo da Lei 12.813/2013, inclusive à quarentena de seis meses após deixar o cargo.",
+"c": true,
+"x": "É agente do art. 2º da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 2º."
+},
+{
+"p": "O diretor de sociedade de economia mista federal submete-se ao regime completo da Lei 12.813/2013, inclusive à quarentena de seis meses após deixar o cargo.",
+"c": true,
+"x": "É agente do art. 2º da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 2º."
+},
+{
+"p": "O ocupante de cargo em comissão de nível 6 ou 5 do antigo Grupo-DAS, ou equivalente submete-se ao regime completo da Lei 12.813/2013, inclusive à quarentena de seis meses após deixar o cargo.",
+"c": true,
+"x": "É agente do art. 2º da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 2º."
+},
+{
+"p": "O ocupante de cargo cujo exercício proporcione acesso a informação privilegiada capaz de trazer vantagem econômica, conforme regulamento submete-se ao regime completo da Lei 12.813/2013, inclusive à quarentena de seis meses após deixar o cargo.",
+"c": true,
+"x": "É agente do art. 2º da Lei 12.813/2013.",
+"e": "Lei 12.813, art. 2º."
+}
+]
+},
+"nepotismo": {
+"html": "<h3>1. O que é nepotismo e por que ele é proibido</h3>\n<ul><li><b>Nepotismo</b> é o favorecimento de parentes na ocupação de cargos e funções públicas. A palavra vem do latim *nepos, nepotis* (sobrinho, neto) e nasceu na Igreja medieval, quando papas e bispos entregavam cargos e terras a \"sobrinhos\", que muitas vezes eram filhos. Hoje o termo designa qualquer escolha para cargo público feita <b>por causa do laço familiar</b>, e não pelo mérito ou pela confiança técnica.</li><li>O problema não é o parente em si. Um parente pode ser competente. O problema é que a escolha <b>por parentesco</b> quebra três princípios do art. 37 da Constituição de uma só vez: a <b>impessoalidade</b> (a Administração não pode beneficiar pessoas determinadas), a <b>moralidade</b> (o agente deve agir com honestidade e boa-fé, e não usar o cargo para proveito da família) e a <b>eficiência</b> (o cargo deve ser ocupado por quem melhor o desempenha).</li><li>O nepotismo também ofende a <b>igualdade</b> (art. 5º, caput): todos os cidadãos devem ter a mesma chance de servir ao Estado. Quando o cargo em comissão vira \"patrimônio da família\", os demais são excluídos sem critério legítimo.</li><li>Por isso o STF decidiu que a proibição do nepotismo <b>não depende de lei</b>. Ela decorre diretamente dos princípios constitucionais. Esse é o ponto de partida de todo o tópico: <b>a vedação ao nepotismo é autoaplicável</b>, nasce da Constituição e vale para todos os Poderes e todas as esferas da Federação.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Frase-chave para a prova: \"a vedação do nepotismo <b>independe de lei formal</b>, pois decorre diretamente dos princípios do art. 37, caput, da CF\". Itens que dizem que cada ente só estaria proibido depois de editar lei própria estão <b>errados</b>.</div>\n<h3>2. Linha do tempo: como a proibição se consolidou</h3>\n<ul><li><b>Constituição de 1988</b>: não tem um artigo que diga \"é proibido o nepotismo\", mas traz os princípios da impessoalidade e da moralidade (art. 37, caput) e a regra do concurso público (art. 37, II). Os cargos em comissão (art. 37, V) ficaram como exceção ao concurso, destinados a <b>direção, chefia e assessoramento</b>, e é nessa exceção que o nepotismo costumava se instalar.</li><li><b>Lei 8.112/1990, art. 117, VIII</b>: proíbe ao servidor federal \"manter sob sua chefia imediata, em cargo ou função de confiança, cônjuge, companheiro ou parente até o <b>segundo grau civil</b>\". É uma regra mais antiga e mais estreita: só alcança a <b>chefia imediata</b> e só vai até o <b>2º grau</b>.</li><li><b>Resolução CNJ nº 7/2005</b>: o Conselho Nacional de Justiça proibiu o nepotismo em todo o Poder Judiciário, inclusive o cruzado. A resolução foi questionada e o STF, na <b>ADC 12</b> (2006/2008), declarou-a <b>constitucional</b>, afirmando que o CNJ apenas concretizou princípios que já estavam na Constituição. O <b>CNMP</b> editou regra semelhante para o Ministério Público.</li><li><b>RE 579.951 (2008)</b>: o STF afirmou que a vedação vale <b>para os três Poderes</b> e para <b>União, Estados, DF e Municípios</b>, mesmo sem lei local.</li><li><b>Súmula Vinculante 13 (agosto de 2008)</b>: consolidou o entendimento em texto de observância obrigatória por toda a Administração e todo o Judiciário.</li><li><b>Decreto 7.203/2010</b>: regulamentou a vedação no <b>Poder Executivo federal</b>, com regras mais detalhadas (inclusive para contratações temporárias, estágio e terceirizados).</li><li><b>Lei 14.230/2021</b>: incluiu o nepotismo expressamente na Lei de Improbidade Administrativa (art. 11, XI), como ato que atenta contra os princípios da Administração.</li></ul>\n<div class=\"lt-fluxo\"><span>CF/1988 (princípios do art. 37)</span> <em>→</em> <span>Lei 8.112 (art. 117, VIII: chefia imediata, 2º grau)</span> <em>→</em> <span>Res. CNJ 7/2005 e ADC 12</span> <em>→</em> <span>RE 579.951</span> <em>→</em> <span>Súmula Vinculante 13 (2008)</span> <em>→</em> <span>Decreto 7.203/2010</span> <em>→</em> <span>Lei 14.230/2021 (improbidade, art. 11, XI)</span></div>\n<table class=\"tab\"><thead><tr><th>Norma;Alcance;Grau de parentesco;Observação</th></tr></thead><tbody><tr><td>Lei 8.112, art. 117, VIII;Servidor federal, chefia imediata;Até o 2º grau civil;Proibição funcional, punida com advertência</td></tr><tr><td>Súmula Vinculante 13;Todos os Poderes e entes;Até o 3º grau, inclusive;Inclui nepotismo cruzado</td></tr><tr><td>Decreto 7.203/2010;Executivo federal;Até o 3º grau (familiar);Inclui temporários, estagiários e terceirizados</td></tr><tr><td>Lei 8.429, art. 11, XI;Todos os agentes públicos;Até o 3º grau, inclusive;Ato de improbidade (exige dolo)</td></tr></tbody></table>\n<h3>3. O texto da Súmula Vinculante 13, palavra por palavra</h3>\n<ul><li>Texto: \"A nomeação de <b>cônjuge, companheiro ou parente</b> em <b>linha reta, colateral ou por afinidade, até o terceiro grau, inclusive</b>, da <b>autoridade nomeante</b> ou de <b>servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento</b>, para o exercício de <b>cargo em comissão ou de confiança</b> ou, ainda, de <b>função gratificada</b> na administração pública direta e indireta em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, <b>compreendido o ajuste mediante designações recíprocas</b>, viola a Constituição Federal.\"</li><li>Vamos desmontar o enunciado em <b>quatro perguntas</b>, que são exatamente as que a banca explora:</li><li><b>Quem não pode ser nomeado?</b> Cônjuge, companheiro e parentes até o 3º grau (em linha reta, colateral ou por afinidade).</li><li><b>Parente de quem?</b> De duas pessoas: (a) da <b>autoridade nomeante</b>; ou (b) de <b>servidor da mesma pessoa jurídica</b> que ocupe cargo de <b>direção, chefia ou assessoramento</b>.</li><li><b>Para quais postos?</b> Cargo em comissão, cargo (ou função) de confiança e função gratificada. Note que a súmula <b>não fala em cargo efetivo</b>: quem entra por concurso não é alcançado, porque o concurso afasta o favorecimento.</li><li><b>Onde?</b> Administração direta e indireta, em todos os Poderes e em todos os entes da Federação.</li><li>E a cláusula final: <b>\"compreendido o ajuste mediante designações recíprocas\"</b> é o <b>nepotismo cruzado</b>: a autoridade A nomeia o parente da autoridade B, e B, em troca, nomeia o parente de A. Cada nomeação, isolada, pareceria regular; o acordo entre elas revela a fraude.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A SV 13 alcança parentes até o 2º grau</span><br>✅ <span class=\"certo\">alcança até o <b>3º grau, inclusive</b> (o 2º grau é o da Lei 8.112, art. 117, VIII)</span></li><li>❌ <span class=\"banca\">A SV 13 proíbe a nomeação de parente aprovado em concurso público para cargo efetivo</span><br>✅ <span class=\"certo\">a súmula trata de <b>cargo em comissão, de confiança e função gratificada</b>; cargo efetivo provido por concurso não é alcançado</span></li><li>❌ <span class=\"banca\">O nepotismo cruzado não está abrangido pela súmula porque cada autoridade nomeou pessoa que não é sua parente</span><br>✅ <span class=\"certo\">a súmula inclui expressamente o <b>ajuste mediante designações recíprocas</b></span></li><li>❌ <span class=\"banca\">A SV 13 vale só para o Poder Executivo</span><br>✅ <span class=\"certo\">vale para <b>todos os Poderes</b> e <b>todos os entes</b>, na Administração direta e indireta</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SV 13: quem?</span></span><span class=\"vs\"><span>Cônjuge, companheiro e parentes até o 3º grau</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SV 13: parente de quem?</span></span><span class=\"vs\"><span>Autoridade nomeante ou servidor da mesma pessoa jurídica com cargo de direção, chefia ou assessoramento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SV 13: quais postos?</span></span><span class=\"vs\"><span>Cargo em comissão, de confiança ou função gratificada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Nepotismo cruzado</span></span><span class=\"vs\"><span>Designações recíprocas</span></span></button></div></div>\n<h3>4. \"Da mesma pessoa jurídica\": o alcance da segunda hipótese</h3>\n<ul><li>A primeira hipótese é intuitiva: a autoridade nomeia o próprio parente. A segunda é mais sutil e mais cobrada: é proibido nomear parente de <b>qualquer servidor da mesma pessoa jurídica</b> que ocupe cargo de <b>direção, chefia ou assessoramento</b>, ainda que não tenha sido ele quem nomeou.</li><li>Exemplo: na Prefeitura de um Município, o Secretário de Obras nomeia como assessor o filho do Diretor de Compras da Secretaria de Saúde. O Secretário de Obras não é parente do nomeado, mas o pai do nomeado é servidor da <b>mesma pessoa jurídica</b> (o Município) e ocupa cargo de <b>direção</b>. A nomeação viola a súmula.</li><li>O critério é a <b>pessoa jurídica</b>, e não o órgão. Secretarias e ministérios são órgãos da mesma pessoa jurídica (o ente federativo). Já uma <b>autarquia</b> ou uma <b>empresa pública</b> é pessoa jurídica distinta. Por isso, em tese, o parente de um diretor de autarquia pode ser nomeado para cargo em comissão na administração direta do mesmo ente, desde que não haja ajuste recíproco nem influência do parente na nomeação. As bancas raramente vão tão longe, mas a expressão \"da mesma pessoa jurídica\" precisa ser lida com atenção.</li><li>O servidor de referência precisa ocupar cargo de <b>direção, chefia ou assessoramento</b>. Se o parente é servidor efetivo <b>sem</b> função de comando, a SV 13 não incide automaticamente; o STF entende que a ideia é impedir que alguém use sua posição de influência para favorecer a família.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O pai é motorista concursado</b><p>Na Câmara Municipal, João é motorista concursado, sem função de chefia. O Presidente da Câmara, que não é parente de João, nomeia a filha de João para cargo em comissão de assessora parlamentar. Há violação da SV 13?</p><details><summary>Ver a solução comentada</summary><p>Em regra, <b>não</b>. João é servidor da mesma pessoa jurídica, mas <b>não ocupa cargo de direção, chefia ou assessoramento</b>, e o nomeante não é parente da nomeada. Só haveria problema se ficasse demonstrado ajuste, troca de favores ou burla (por exemplo, nomeação feita a pedido de outra autoridade em troca de outra nomeação).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A esposa do chefe de gabinete</b><p>No Ministério X, a chefe de gabinete do Ministro tem o marido nomeado, pelo Secretário-Executivo, para cargo em comissão em outra secretaria do mesmo Ministério. Há nepotismo?</p><details><summary>Ver a solução comentada</summary><p><b>Sim.</b> A chefe de gabinete é servidora da mesma pessoa jurídica (a União) investida em cargo de <b>direção/assessoramento</b>, e o marido (cônjuge) foi nomeado para cargo em comissão. Pouco importa que o nomeante não seja parente dele.</p></details></div>\n<h3>5. Contando graus de parentesco sem errar</h3>\n<ul><li>A SV 13 usa as regras do <b>Código Civil</b> (arts. 1.591 a 1.595). Há três tipos de parentesco e uma situação especial (cônjuge e companheiro):</li><li><b>Linha reta</b> (art. 1.591): pessoas que descendem umas das outras. Conta-se <b>uma geração = um grau</b>. Pai e filho: 1º grau. Avô e neto: 2º grau. Bisavô e bisneto: 3º grau. Trisavô e trineto: 4º grau (fora da súmula).</li><li><b>Linha colateral</b> (art. 1.592): pessoas que vêm de um tronco comum, sem descender umas das outras. Conta-se <b>subindo até o ancestral comum e descendo até o parente</b> (art. 1.594). Irmãos: sobe 1 (pai) e desce 1 = <b>2º grau</b>. Tio e sobrinho: sobe 2 (avô) e desce 1 = <b>3º grau</b>. Primos: sobe 2 e desce 2 = <b>4º grau</b> (fora da súmula). Não existe parente colateral de 1º grau.</li><li><b>Afinidade</b> (art. 1.595): é o vínculo de cada cônjuge ou companheiro com os <b>parentes do outro</b>. O grau é o mesmo que o parente tem com o cônjuge. Sogro e sogra: afins em <b>linha reta de 1º grau</b>. Genro e nora: <b>1º grau</b>. Enteado: <b>1º grau</b> em linha reta. Cunhado: <b>2º grau</b> colateral por afinidade. Na linha reta, a afinidade <b>não se extingue</b> com o fim do casamento (sogra continua sendo sogra para esse efeito).</li><li><b>Cônjuge e companheiro</b> não são parentes no sentido técnico, mas a súmula os menciona <b>expressamente</b>. A união estável, inclusive homoafetiva, conta da mesma forma que o casamento.</li></ul>\n<table class=\"tab\"><thead><tr><th>Parente;Linha;Grau;Alcançado pela SV 13?</th></tr></thead><tbody><tr><td>Pai, mãe, filho, filha;Reta;1º;Sim</td></tr><tr><td>Avô, avó, neto, neta;Reta;2º;Sim</td></tr><tr><td>Bisavô, bisneto;Reta;3º;Sim</td></tr><tr><td>Irmão, irmã;Colateral;2º;Sim</td></tr><tr><td>Tio, tia, sobrinho, sobrinha;Colateral;3º;Sim</td></tr><tr><td>Primo, prima;Colateral;4º;Não</td></tr><tr><td>Sogro, sogra, genro, nora, enteado;Afinidade (reta);1º;Sim</td></tr><tr><td>Cunhado, cunhada;Afinidade (colateral);2º;Sim</td></tr><tr><td>Cônjuge e companheiro;Mencionados expressamente;—;Sim</td></tr></tbody></table>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Contando o grau do sobrinho-neto</b><ol><li><span>O nomeado é neto do irmão da autoridade. Qual o grau?</span></li><li><span>Sobe da autoridade ao ancestral comum (pai da autoridade): 1 grau</span></li><li><span>Desce até o irmão: 2º grau</span></li><li><span>Desce até o filho do irmão (sobrinho): 3º grau</span></li><li><span>Desce até o neto do irmão (sobrinho-neto): 4º grau</span></li></ol><span class=\"res\">4º grau colateral: fora da SV 13</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Contando o grau do tio do cônjuge</b><ol><li><span>O nomeado é tio da esposa da autoridade. Qual o grau?</span></li><li><span>Para a esposa, o tio é colateral de 3º grau (sobe 2 até o avô dela, desce 1)</span></li><li><span>Na afinidade, o grau com a autoridade é o mesmo que o parente tem com o cônjuge</span></li><li><span>Logo, 3º grau por afinidade</span></li></ol><span class=\"res\">Dentro do limite da SV 13 (até o 3º grau, inclusive)</span></div>\n<ul><li>Atenção a um ponto técnico: o art. 1.595, § 1º, do Código Civil diz que o parentesco por afinidade, na colateral, \"limita-se aos irmãos do cônjuge\" (os cunhados). Por isso há debate sobre se o \"tio do cônjuge\" seria afim para fins civis. Para a prova, guarde a literalidade da súmula: ela fala em parentes <b>por afinidade até o terceiro grau, inclusive</b>. Em itens objetivos, as bancas aplicam o texto da súmula.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Truque para a contagem colateral: <b>\"sobe até o tronco, desce até o parente, conta os degraus\"</b>. Irmão = 2, tio/sobrinho = 3, primo = 4. Primo já está fora.</div>\n<h3>6. Cargos políticos: a grande exceção construída pelo STF</h3>\n<ul><li>O STF firmou entendimento de que a SV 13, em regra, <b>não se aplica à nomeação para cargos de natureza política</b>: Ministros de Estado, Secretários estaduais e Secretários municipais. A ideia é que esses cargos são de <b>escolha política</b> do chefe do Executivo, que forma seu governo com pessoas de sua confiança, e a própria Constituição dá ao Presidente, aos Governadores e aos Prefeitos ampla liberdade para escolhê-los.</li><li>Exemplo clássico: o Prefeito nomeia o irmão para Secretário Municipal de Saúde. Segundo a orientação predominante do STF, isso <b>não viola, por si só</b>, a SV 13.</li><li>Mas a exceção <b>não é absoluta</b>. O STF já afastou nomeações para cargo político quando havia <b>fraude</b> (por exemplo, criar um \"cargo político\" de fachada para abrigar parente), <b>nepotismo cruzado</b> ou <b>manifesta falta de qualificação técnica ou idoneidade moral</b> do nomeado para a função (um parente sem nenhuma formação ou experiência nomeado para chefiar uma pasta técnica).</li><li>Também não são cargos políticos os de <b>assessor, chefe de gabinete, diretor de departamento</b> e similares: esses são cargos administrativos em comissão, plenamente alcançados pela súmula.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O Prefeito que nomeia o próprio irmão para Secretário Municipal sempre viola a SV 13</span><br>✅ <span class=\"certo\">para o STF, em regra, cargos <b>políticos</b> (secretário, ministro) não são alcançados, salvo fraude, nepotismo cruzado ou falta manifesta de qualificação</span></li><li>❌ <span class=\"banca\">A exceção dos cargos políticos alcança o chefe de gabinete do Prefeito</span><br>✅ <span class=\"certo\">chefe de gabinete é cargo <b>administrativo</b> em comissão, sujeito à súmula</span></li><li>❌ <span class=\"banca\">A nomeação de parente para cargo político é sempre válida, ainda que ele não tenha nenhuma qualificação</span><br>✅ <span class=\"certo\">o STF admite controle em caso de <b>inequívoca falta de razoabilidade</b>, como ausência de qualificação técnica ou idoneidade</span></li></ol></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O cunhado Secretário de Finanças</b><p>O Governador nomeia o cunhado, economista com 20 anos de experiência em gestão fiscal, para Secretário de Estado da Fazenda. Um deputado aciona o STF alegando ofensa à SV 13.</p><details><summary>Ver a solução comentada</summary><p>Pela orientação predominante, <b>não há violação</b>: o cargo de Secretário de Estado é <b>político</b>, e o nomeado tem qualificação compatível. A situação mudaria se houvesse fraude, ajuste recíproco ou evidente falta de qualificação.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A sobrinha \"assessora especial\"</b><p>O mesmo Governador nomeia a sobrinha, recém-formada, para o cargo em comissão de Assessora Especial do Gabinete.</p><details><summary>Ver a solução comentada</summary><p><b>Há violação.</b> Assessor especial é cargo <b>administrativo</b> de assessoramento, não cargo político. A sobrinha é parente colateral de <b>3º grau</b> da autoridade nomeante.</p></details></div>\n<h3>7. O que a súmula não proíbe</h3>\n<ul><li><b>Servidor efetivo nomeado para cargo em comissão</b>: a súmula não impede, por si só, que um servidor concursado, parente de uma autoridade, seja designado para função de confiança ou cargo em comissão. O Decreto 7.203/2010, no Executivo federal, admite essa nomeação desde que haja <b>compatibilidade</b> entre a escolaridade e a qualificação do servidor e as atribuições do cargo, e <b>vedada a subordinação direta</b> ao parente. Em outras esferas, a análise é feita caso a caso, sempre com atenção à impessoalidade.</li><li><b>Parentesco surgido depois da nomeação</b>: se duas pessoas já trabalhavam no órgão e depois se casaram, não houve escolha por parentesco no momento da nomeação. O Decreto 7.203 exclui da vedação as nomeações <b>anteriores ao início do vínculo familiar</b>, desde que não haja ajuste prévio para burlar a regra.</li><li><b>Concurso público e processo seletivo</b>: a entrada por concurso (cargo efetivo) ou por processo seletivo impessoal (temporários e estagiários, no Decreto 7.203) afasta o nepotismo, porque não há escolha pessoal.</li><li><b>Parentes além do 3º grau</b>: primos, sobrinhos-netos, tios-avós (4º grau) não estão na súmula.</li><li><b>Cargos eletivos</b>: a súmula trata de nomeação, não de eleição. Inelegibilidades de parentes são outra matéria (CF, art. 14, § 7º).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cargo político (secretário, ministro)</span></span><span class=\"vs\"><span>Em regra fora da SV 13, salvo fraude, nepotismo cruzado ou falta manifesta de qualificação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Servidor efetivo em cargo em comissão</span></span><span class=\"vs\"><span>Admitido com compatibilidade e sem subordinação direta ao parente (Decreto 7.203)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Casamento depois da nomeação</span></span><span class=\"vs\"><span>Não é nepotismo, salvo ajuste prévio</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Primo</span></span><span class=\"vs\"><span>4º grau: fora da súmula</span></span></button></div></div>\n<h3>8. Decreto 7.203/2010: o nepotismo no Executivo federal</h3>\n<ul><li>O Decreto 7.203/2010 regulamenta a vedação no âmbito da <b>administração pública federal</b> (direta, autárquica e fundacional, empresas públicas e sociedades de economia mista federais). Ele é cobrado nos concursos federais, como PRF, PF e agências, e vai além da súmula em vários pontos.</li><li><b>Conceito de familiar</b>: o decreto define familiar como o <b>cônjuge, o companheiro ou o parente em linha reta ou colateral, por consanguinidade ou afinidade, até o terceiro grau</b>. É o mesmo limite da súmula.</li><li><b>Conceito de órgão e de entidade</b>: o decreto trabalha com o \"âmbito de cada órgão e de cada entidade\". Nos ministérios, a vedação alcança todo o ministério; nas entidades (autarquias, fundações, empresas), toda a entidade.</li><li><b>Vedações principais</b>: no âmbito de cada órgão e entidade, são vedadas as nomeações, contratações ou designações de familiar de <b>Ministro de Estado</b>, de familiar da <b>máxima autoridade administrativa</b> correspondente ou de familiar de ocupante de <b>cargo em comissão ou função de confiança de direção, chefia ou assessoramento</b>, para:</li><li>cargo em comissão ou função de confiança;</li><li>atendimento a <b>necessidade temporária de excepcional interesse público</b> (contratação temporária), <b>salvo</b> quando precedida de regular <b>processo seletivo</b>;</li><li><b>estágio</b>, <b>salvo</b> se a contratação for precedida de <b>processo seletivo</b> que assegure o princípio da isonomia.</li><li><b>Nepotismo cruzado</b>: o decreto também veda as nomeações ou designações recíprocas, envolvendo órgão ou entidade da administração federal, que caracterizem ajuste para burlar as restrições.</li><li><b>Terceirizados</b>: o decreto proíbe que a empresa contratada para prestar serviços terceirizados (limpeza, vigilância, apoio administrativo, TI) aloque familiar de agente público que exerça cargo em comissão ou função de confiança <b>no órgão contratante</b> ou que seja responsável pela demanda ou pela contratação. Essa vedação deve constar dos <b>editais de licitação e dos contratos</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação no Executivo federal;Regra do Decreto 7.203</th></tr></thead><tbody><tr><td>Familiar de Ministro nomeado para cargo em comissão no mesmo Ministério;Vedado</td></tr><tr><td>Familiar de diretor contratado como temporário sem seleção;Vedado</td></tr><tr><td>Familiar de diretor contratado como temporário após processo seletivo regular;Permitido</td></tr><tr><td>Familiar de chefe aprovado em seleção pública de estágio;Permitido</td></tr><tr><td>Familiar de gestor do contrato alocado pela empresa terceirizada no órgão;Vedado</td></tr><tr><td>Servidor efetivo, parente de autoridade, designado para função compatível, sem subordinação direta;Permitido</td></tr><tr><td>Nomeação anterior ao casamento entre os servidores, sem ajuste prévio;Permitido</td></tr></tbody></table>\n<ul><li><b>Exceções do decreto</b> (o que não está vedado): nomeações ou designações de <b>servidores federais efetivos</b> (e empregados permanentes, inclusive aposentados) para cargo em comissão ou função de confiança, observada a compatibilidade entre o grau de escolaridade, a qualificação profissional e a complexidade do cargo, <b>vedada a subordinação direta</b> do nomeado ao familiar; nomeações e contratações <b>anteriores ao início do vínculo familiar</b>, desde que não caracterizado ajuste prévio; e as que decorrem de processo seletivo, como visto.</li><li><b>Apuração e responsabilidade</b>: cabe aos dirigentes de cada órgão e entidade <b>exonerar ou dispensar</b> o agente em situação de nepotismo, ou <b>requerer</b> a exoneração a quem tenha a competência. Casos com indícios de influência de agentes públicos na contratação de familiares são objeto de <b>apuração específica</b>, inclusive pelos órgãos de controle interno.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> O Decreto 7.203 é mais <b>amplo</b> que a súmula em um ponto que cai muito: ele alcança <b>contratação temporária, estágio e terceirizados</b>. A palavra-chave das exceções é <b>processo seletivo</b>: com seleção impessoal, o familiar pode ser contratado.</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No Executivo federal, é vedada qualquer contratação de familiar como estagiário</span><br>✅ <span class=\"certo\">o estágio é vedado <b>salvo</b> se precedido de <b>processo seletivo</b> que assegure a isonomia</span></li><li>❌ <span class=\"banca\">A vedação do Decreto 7.203 não alcança empresas terceirizadas, porque o empregado não é servidor</span><br>✅ <span class=\"certo\">o decreto <b>alcança</b> a alocação de familiar em contratos de terceirização, e a vedação deve constar dos editais e contratos</span></li><li>❌ <span class=\"banca\">O servidor efetivo jamais pode ser designado para função de confiança no órgão onde trabalha um parente com cargo de chefia</span><br>✅ <span class=\"certo\">pode, desde que haja compatibilidade e <b>não haja subordinação direta</b> ao parente</span></li></ol></div>\n<h3>9. Nepotismo e improbidade administrativa</h3>\n<ul><li>A Lei 14.230/2021 reformou a Lei de Improbidade (Lei 8.429/1992) e incluiu o <b>inciso XI no art. 11</b>, que tipifica como ato de improbidade que atenta contra os princípios da Administração: \"nomear cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas\". O texto praticamente <b>reproduz a SV 13</b>.</li><li>Depois da reforma, a improbidade exige <b>dolo</b>: a vontade livre e consciente de praticar o ato ilícito. A lei também diz que <b>não se configura improbidade a mera nomeação ou indicação política</b> feita por detentores de mandato eletivo: é preciso demonstrar <b>dolo com finalidade ilícita</b> (art. 11, § 5º, incluído pela Lei 14.230).</li><li>As sanções do art. 11, após a reforma, são <b>multa civil</b> de até 24 vezes a remuneração do agente e <b>proibição de contratar com o poder público</b> ou receber benefícios por até 4 anos. A perda da função e a suspensão dos direitos políticos deixaram de estar previstas para o art. 11.</li><li>Além da improbidade, a nomeação em situação de nepotismo é <b>nula</b>, e o ato pode ser desfeito pela própria Administração (autotutela), pelo Judiciário ou, no caso do Judiciário e do MP, pelo CNJ e pelo CNMP. Também pode ser questionada por <b>reclamação</b> diretamente no STF, porque viola súmula vinculante (CF, art. 103-A, § 3º).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Nepotismo na LIA</span></span><span class=\"vs\"><span>Art. 11, XI (Lei 14.230/2021)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Elemento subjetivo</span></span><span class=\"vs\"><span>Dolo, com finalidade ilícita; a mera nomeação não basta</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Via direta ao STF</span></span><span class=\"vs\"><span>Reclamação por violação de súmula vinculante</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 8.112, art. 117, VIII</span></span><span class=\"vs\"><span>Chefia imediata, até o 2º grau</span></span></button></div></div>\n<h3>10. Lei 8.112: a proibição funcional do art. 117, VIII</h3>\n<ul><li>Entre as <b>proibições</b> do servidor federal está \"manter sob sua chefia imediata, em cargo ou função de confiança, cônjuge, companheiro ou parente até o segundo grau civil\" (art. 117, VIII). Compare com a súmula:</li><li><b>Grau</b>: a Lei 8.112 vai até o <b>2º grau</b> (pais, filhos, avós, netos, irmãos, sogros, genros, noras, cunhados); a súmula vai até o <b>3º</b>.</li><li><b>Situação</b>: a Lei 8.112 fala em <b>chefia imediata</b> (o parente trabalhando diretamente subordinado); a súmula fala em <b>nomeação</b>, em qualquer setor da mesma pessoa jurídica.</li><li><b>Sanção</b>: a violação do art. 117, VIII, é punida com <b>advertência</b> (art. 129), podendo chegar à suspensão em caso de reincidência (art. 130).</li><li>As duas regras convivem: um mesmo fato pode violar a SV 13, a Lei 8.112 e, se houver dolo e finalidade ilícita, a Lei de Improbidade.</li></ul>\n<table class=\"tab\"><thead><tr><th>Critério;Lei 8.112, art. 117, VIII;Súmula Vinculante 13</th></tr></thead><tbody><tr><td>Quem;Servidor federal;Todos os Poderes e entes</td></tr><tr><td>Conduta;Manter parente sob chefia imediata;Nomear parente para cargo em comissão, confiança ou função gratificada</td></tr><tr><td>Grau;Até o 2º grau civil;Até o 3º grau, inclusive</td></tr><tr><td>Consequência;Advertência (suspensão se reincidente);Nulidade do ato; reclamação ao STF; possível improbidade</td></tr></tbody></table>\n<h3>11. Nepotismo nos tribunais, no Ministério Público e nos Estados</h3>\n<ul><li><b>Judiciário</b>: a <b>Resolução CNJ nº 7/2005</b> veda o nepotismo em todos os órgãos do Poder Judiciário, inclusive a contratação de empresas prestadoras de serviço que empreguem parentes de magistrados ou de servidores com cargo de direção. Na <b>ADC 12</b>, o STF decidiu que o CNJ tinha competência para editar a resolução, porque ela apenas extrai consequências dos princípios do art. 37. Esse julgamento foi o embrião da SV 13.</li><li><b>Ministério Público</b>: o <b>CNMP</b> editou resoluções no mesmo sentido para os ramos do MP da União e dos Estados.</li><li><b>Estados e Municípios</b>: a vedação vale independentemente de lei local. Muitos entes editaram leis ou decretos próprios, que podem ser <b>mais rigorosos</b> (por exemplo, estendendo a proibição a parentes de vereadores ou a contratações de empresas), mas nunca podem ser mais brandos do que a súmula.</li><li><b>Legislativo</b>: a súmula vale para a nomeação de assessores de parlamentares, diretores de casas legislativas e demais cargos em comissão. O \"assessor parlamentar\" parente do deputado é o exemplo típico de nepotismo direto.</li></ul>\n<h3>12. Nepotismo no serviço policial: situações práticas</h3>\n<ul><li>Nas polícias, a hierarquia e a confiança são valores centrais, e por isso os cargos de chefia e de assessoramento são frequentemente de livre escolha. Isso torna o tema muito concreto para quem presta PRF, PF, Polícia Civil e Guardas Municipais.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O delegado e a esposa escrivã</b><p>Uma escrivã concursada da Polícia Civil se casa com um delegado da mesma delegacia, que é o seu chefe imediato. Depois do casamento, o delegado a designa para uma função gratificada de chefe de cartório, subordinada diretamente a ele.</p><details><summary>Ver a solução comentada</summary><p>O casamento ocorreu depois do ingresso por concurso, o que não é ilícito. Mas a <b>designação</b> para função gratificada, feita pelo próprio marido e com <b>subordinação direta</b>, é escolha pessoal em favor do cônjuge: viola a SV 13 e, se for servidor federal, a proibição do art. 117, VIII, da Lei 8.112. A solução é transferir um deles de unidade ou deixar a designação a outra autoridade, sem subordinação direta.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O superintendente e o primo</b><p>O superintendente regional nomeia o primo para cargo em comissão de assessor administrativo.</p><details><summary>Ver a solução comentada</summary><p>Primo é parente colateral de <b>4º grau</b>: está <b>fora</b> da SV 13 e do Decreto 7.203. Juridicamente não há nepotismo pela súmula. Ainda assim, a escolha pode ser analisada à luz da impessoalidade e da moralidade (por exemplo, se o primo não tem qualificação alguma), e a Comissão de Ética pode orientar o agente a evitar a aparência de favorecimento.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A troca entre dois diretores</b><p>O diretor da Academia de Polícia nomeia a filha do diretor de Logística para cargo em comissão; uma semana depois, o diretor de Logística nomeia o filho do diretor da Academia.</p><details><summary>Ver a solução comentada</summary><p><b>Nepotismo cruzado</b>: as nomeações recíprocas configuram o \"ajuste mediante designações recíprocas\" previsto na súmula. Ambas as nomeações são nulas e podem configurar improbidade (art. 11, XI, da Lei 8.429), se houver dolo com finalidade ilícita.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O guarda municipal e o Prefeito</b><p>O Prefeito nomeia o filho, guarda municipal concursado há 10 anos, para comandante da Guarda Municipal, cargo em comissão subordinado diretamente ao Prefeito.</p><details><summary>Ver a solução comentada</summary><p>O filho é servidor efetivo e pode ter qualificação, mas a nomeação foi feita pelo <b>pai</b> para cargo em comissão de <b>direção</b>, com subordinação direta. A orientação mais segura é que há violação da SV 13. Comandante da guarda não é cargo político (como secretário), e sim cargo administrativo de direção.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A sogra no estágio</b><p>Uma empresa de recrutamento faz processo seletivo público, com prova objetiva, para estagiários de um órgão federal. É aprovada a nora de um coordenador do órgão.</p><details><summary>Ver a solução comentada</summary><p>No Executivo federal, o Decreto 7.203 permite a contratação de familiar como estagiário quando precedida de <b>processo seletivo que assegure a isonomia</b>. Se o processo foi regular e o coordenador não interferiu, <b>não há nepotismo</b>.</p></details></div>\n<h3>13. Como as bancas cobram o tema</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>Cebraspe costuma cobrar a literalidade da SV 13 (até o 3º grau, inclusive; nepotismo cruzado; todos os Poderes) e a diferença para a Lei 8.112 (2º grau, chefia imediata). FGV gosta de casos práticos com contagem de graus (tio, sobrinho, primo, cunhado) e da exceção dos cargos políticos. Em concursos federais, aparecem as hipóteses do Decreto 7.203: temporários, estagiários e terceirizados, sempre com a ressalva do processo seletivo.</p></div>\n<ul><li><b>Pegadinhas mais repetidas</b>:</li><li>Dizer que a vedação depende de lei de cada ente.</li><li>Trocar \"até o 3º grau\" por \"até o 2º grau\" (ou o contrário, ao falar da Lei 8.112).</li><li>Excluir o nepotismo cruzado.</li><li>Dizer que primo é parente de 3º grau.</li><li>Dizer que cunhado não é parente para a súmula (é afim de 2º grau).</li><li>Dizer que a súmula proíbe a nomeação de parente aprovado em concurso para cargo efetivo.</li><li>Dizer que todo cargo político está sempre fora da súmula (há a ressalva da fraude e da falta de qualificação).</li><li>Dizer que o Decreto 7.203 proíbe qualquer estagiário familiar (a seleção pública afasta a vedação).</li><li><b>Checklist de resolução</b>: (1) Quem foi nomeado e qual o vínculo com quem? (2) Qual o grau? (3) O cargo é em comissão, de confiança ou função gratificada? É cargo político? (4) O parente de referência é a autoridade nomeante ou servidor com cargo de direção, chefia ou assessoramento da mesma pessoa jurídica? (5) Houve troca de nomeações? (6) Se for Executivo federal, há temporário, estagiário ou terceirizado, com ou sem processo seletivo?</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Primo</span></span><span class=\"vs\"><span>4º grau colateral, fora da SV 13</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cunhado</span></span><span class=\"vs\"><span>2º grau por afinidade, dentro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tio e sobrinho</span></span><span class=\"vs\"><span>3º grau colateral, dentro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sogro, genro, nora, enteado</span></span><span class=\"vs\"><span>1º grau por afinidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 8.112</span></span><span class=\"vs\"><span>Até o 2º grau, chefia imediata</span></span></button></div></div>\n<h3>14. Ética para além da regra</h3>\n<ul><li>A proibição jurídica do nepotismo é o mínimo. A ética pública pede mais: o agente deve evitar até a <b>aparência</b> de favorecimento. O Código de Ética do servidor federal (Decreto 1.171/1994) lembra que o servidor deve agir de modo a preservar a confiança do cidadão, e o Código de Conduta da Alta Administração exige que a autoridade evite situações que possam suscitar conflito entre o interesse privado e o público.</li><li>Na prática, isso significa: declarar-se impedido em decisões que envolvam parentes, não interferir em seleções de que participem familiares, comunicar à chefia situações de parentesco na equipe e, em caso de dúvida, consultar a <b>Comissão de Ética</b> do órgão.</li><li>O nepotismo também se relaciona com o <b>conflito de interesses</b> (Lei 12.813/2013): praticar ato em benefício de interesse de pessoa jurídica de que participe o agente, seu cônjuge, companheiro ou parentes até o 3º grau é uma das hipóteses de conflito durante o exercício do cargo. A lógica é a mesma: a família não pode ser beneficiária do poder público confiado ao agente.</li></ul>\n<h3>15. Resumo final do tópico</h3>\n<ul><li>A vedação ao nepotismo decorre diretamente dos princípios do art. 37 da Constituição e <b>independe de lei</b>.</li><li>A <b>SV 13</b> proíbe nomear cônjuge, companheiro ou parente até o <b>3º grau</b> (reta, colateral, afinidade) da <b>autoridade nomeante</b> ou de <b>servidor da mesma pessoa jurídica com cargo de direção, chefia ou assessoramento</b>, para <b>cargo em comissão, de confiança ou função gratificada</b>, em <b>todos os Poderes e entes</b>, inclusive o <b>nepotismo cruzado</b>.</li><li><b>Cargos políticos</b> (ministros e secretários) ficam, em regra, fora da súmula, salvo fraude, nepotismo cruzado ou falta manifesta de qualificação.</li><li>O <b>Decreto 7.203/2010</b> detalha a vedação no Executivo federal, alcançando <b>temporários, estagiários e terceirizados</b>, com a exceção do <b>processo seletivo</b> e as ressalvas dos servidores efetivos (sem subordinação direta) e do vínculo familiar posterior.</li><li>A <b>Lei 8.112</b> proíbe manter parente até o <b>2º grau</b> sob <b>chefia imediata</b> (advertência).</li><li>A <b>Lei 14.230/2021</b> tornou o nepotismo ato de <b>improbidade</b> (art. 11, XI), exigindo <b>dolo com finalidade ilícita</b>.</li></ul>\n<div class=\"lt-stats\"><div class=\"lt-stat\"><b>3º grau</b><span>limite da SV 13 e do Decreto 7.203</span></div><div class=\"lt-stat\"><b>2º grau</b><span>limite da Lei 8.112, art. 117, VIII</span></div><div class=\"lt-stat\"><b>2008</b><span>edição da Súmula Vinculante 13</span></div><div class=\"lt-stat\"><b>2010</b><span>Decreto 7.203 (Executivo federal)</span></div></div>\n<h3>16. Os princípios por trás da regra, em profundidade</h3>\n<ul><li><b>Impessoalidade</b> tem dois sentidos que as bancas cobram. No primeiro, significa que a Administração deve tratar todos os administrados sem favoritismos nem perseguições: o critério de escolha não pode ser \"quem é a pessoa\", mas \"o que a pessoa oferece ao interesse público\". No segundo, significa que os atos são imputados ao <b>órgão</b>, e não ao agente: o servidor age em nome do Estado, e não em nome próprio. O nepotismo fere o primeiro sentido de forma direta, porque a escolha é feita justamente pela identidade (o sobrenome) do escolhido.</li><li><b>Moralidade administrativa</b> não se confunde com a moral comum. É a moral <b>jurídica</b>, extraída da disciplina interna da Administração: lealdade, boa-fé, honestidade, probidade. Um ato pode ser formalmente legal (o cargo é de livre nomeação, a autoridade é competente) e, ainda assim, <b>imoral</b>, porque usa a competência para um fim estranho ao interesse público (beneficiar a família). Esse é o raciocínio que permitiu ao STF proibir o nepotismo sem lei específica: a competência para nomear existe para servir ao público, e não ao clã.</li><li><b>Eficiência</b> exige que o cargo seja ocupado por quem tem melhores condições de desempenhá-lo. A escolha por parentesco ignora esse critério e tende a reduzir a qualidade do serviço.</li><li><b>Isonomia e acesso aos cargos públicos</b> (art. 37, I e II): os cargos devem ser acessíveis a todos os que preencham os requisitos legais. O cargo em comissão é exceção ao concurso, mas não é exceção à isonomia.</li><li><b>Republicanismo</b>: a coisa pública (*res publica*) pertence a todos. O nepotismo é uma forma de <b>patrimonialismo</b>, a confusão entre o público e o privado, que marcou a formação do Estado brasileiro e que a Constituição de 1988 procurou superar.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Impessoalidade</span></span><span class=\"vs\"><span>Escolha sem favoritismo; ato imputado ao órgão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Moralidade</span></span><span class=\"vs\"><span>Boa-fé, lealdade e probidade; ato legal pode ser imoral</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Patrimonialismo</span></span><span class=\"vs\"><span>Confusão entre o público e o privado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fundamento da SV 13</span></span><span class=\"vs\"><span>Art. 37, caput (princípios), sem necessidade de lei</span></span></button></div></div>\n<h3>17. Julgados que construíram o entendimento</h3>\n<ul><li><b>ADC 12 (STF, 2008)</b>: confirmou a constitucionalidade da Resolução CNJ nº 7/2005. O STF afirmou que a resolução não criou proibição nova: apenas explicitou o que já decorria da Constituição. Também reconheceu que o CNJ tem competência para zelar pelo art. 37 no Judiciário (CF, art. 103-B, § 4º, II).</li><li><b>RE 579.951 (STF, 2008, repercussão geral)</b>: caso de um Município do Rio Grande do Norte em que um vereador e um motorista eram parentes de autoridades. O STF fixou que a vedação ao nepotismo <b>não exige lei formal</b> e alcança <b>todos os Poderes e entes</b>. No mesmo julgamento, sinalizou a distinção entre <b>cargos administrativos</b> e <b>cargos políticos</b>, admitindo a nomeação de parente para Secretário Municipal.</li><li><b>Súmula Vinculante 13 (2008)</b>: editada logo após esses julgamentos, com efeito vinculante para toda a Administração Pública e os demais órgãos do Judiciário (CF, art. 103-A). Seu descumprimento autoriza <b>reclamação</b> diretamente ao STF, que pode <b>anular</b> o ato administrativo.</li><li><b>Reclamações posteriores</b>: em diversas reclamações, o STF reafirmou a exceção dos cargos políticos, mas passou a ressalvar a <b>fraude à lei</b> e a <b>inequívoca falta de razoabilidade</b> da nomeação, como a ausência de qualificação técnica ou de idoneidade moral do nomeado. Em outras, deixou claro que <b>cargos de assessoramento</b> de gabinete, ainda que próximos do Prefeito ou do Governador, não são cargos políticos.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Associe: <b>ADC 12</b> = CNJ e Judiciário; <b>RE 579.951</b> = vale sem lei, para todos os entes, com exceção dos cargos políticos; <b>SV 13</b> = texto vinculante com nepotismo cruzado; <b>Reclamação</b> = instrumento para levar o descumprimento direto ao STF.</div>\n<h3>18. Perguntas frequentes (e as respostas que a banca espera)</h3>\n<ul><li><b>O nepotismo só é proibido quando o nomeado não tem qualificação?</b> Não. A súmula proíbe a nomeação por parentesco <b>independentemente</b> da qualificação do nomeado, nos cargos administrativos em comissão. A qualificação só importa na análise excepcional dos <b>cargos políticos</b>.</li><li><b>Se a autoridade exonerar o parente logo após a denúncia, desaparece o ilícito?</b> O ato nulo deixa de produzir efeitos para o futuro, mas a exoneração não apaga eventual responsabilidade (disciplinar ou por improbidade, se houver dolo com finalidade ilícita).</li><li><b>E se a nomeação foi feita pelo antecessor da autoridade?</b> A súmula fala em parente da autoridade nomeante <b>ou</b> de servidor da mesma pessoa jurídica com cargo de direção, chefia ou assessoramento. Se o parente passou a ocupar cargo de direção depois, a situação deve ser examinada: o Decreto 7.203 exclui as nomeações <b>anteriores ao vínculo</b> que gera a incompatibilidade, desde que sem ajuste prévio; mas, havendo subordinação direta ou influência, a Administração deve corrigir a situação.</li><li><b>Companheiro em união estável homoafetiva conta?</b> Sim. Desde o julgamento da ADI 4.277 e da ADPF 132 (2011), a união estável homoafetiva tem o mesmo tratamento da heteroafetiva, e o companheiro é alcançado pela súmula.</li><li><b>Ex-cônjuge está alcançado?</b> A súmula fala em cônjuge e companheiro, isto é, no vínculo atual. Mas o parentesco por afinidade em <b>linha reta</b> não se extingue com o divórcio (CC, art. 1.595, § 2º): a ex-sogra continua sendo afim em 1º grau.</li><li><b>Empresa contratada por licitação pode ter sócio parente da autoridade?</b> A SV 13 trata de nomeação para cargos e funções, não de contratos. Mas a Lei 14.133/2021 (art. 14, IV) impede a participação em licitação de quem tenha vínculo de parentesco, até o 3º grau, com dirigente do órgão ou com agente que atue na licitação ou na fiscalização do contrato, e a Lei 12.813 trata como conflito de interesses o ato que beneficia empresa de parente. São outras regras, com a mesma lógica.</li><li><b>O parente nomeado tem de devolver o que recebeu?</b> Em regra, não, se efetivamente trabalhou, porque a Administração não pode se enriquecer sem causa à custa do trabalho prestado. A nulidade atinge a investidura, não necessariamente os pagamentos por serviço efetivamente prestado de boa-fé.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se o parente tiver doutorado na área, a nomeação para cargo de assessor da própria autoridade deixa de ser nepotismo</span><br>✅ <span class=\"certo\">nos cargos administrativos em comissão, a qualificação <b>não afasta</b> a súmula</span></li><li>❌ <span class=\"banca\">O companheiro em união homoafetiva não está alcançado pela SV 13 por falta de previsão expressa</span><br>✅ <span class=\"certo\">a união homoafetiva tem o mesmo tratamento da união estável (ADI 4.277/ADPF 132)</span></li><li>❌ <span class=\"banca\">A exoneração do parente afasta qualquer responsabilidade da autoridade</span><br>✅ <span class=\"certo\">a exoneração cessa os efeitos para o futuro, mas não apaga eventual responsabilidade</span></li></ol></div>\n<h3>19. Treino de contagem de graus com casos</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Neto da irmã</b><ol><li><span>O nomeado é neto da irmã da autoridade</span></li><li><span>Autoridade → pai (tronco): 1</span></li><li><span>Pai → irmã: 2</span></li><li><span>Irmã → filho dela: 3</span></li><li><span>Filho → neto: 4</span></li></ol><span class=\"res\">4º grau colateral: fora da SV 13</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Filho do cunhado</b><ol><li><span>O nomeado é filho do irmão da esposa do Secretário</span></li><li><span>Para a esposa, o filho do irmão é sobrinho: 3º grau colateral</span></li><li><span>Afinidade: mesmo grau que o parente tem com o cônjuge</span></li></ol><span class=\"res\">3º grau por afinidade (dentro do texto da súmula)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Bisneta</b><ol><li><span>A nomeada é bisneta da autoridade</span></li><li><span>Filho (1), neto (2), bisneto (3)</span></li></ol><span class=\"res\">3º grau em linha reta: dentro da SV 13</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Avó do marido</b><ol><li><span>A nomeada é avó do marido da diretora</span></li><li><span>Para o marido, a avó é linha reta de 2º grau</span></li><li><span>Afinidade com a diretora: 2º grau em linha reta</span></li></ol><span class=\"res\">Dentro da SV 13</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Tio-avô</b><ol><li><span>O nomeado é irmão do avô da autoridade</span></li><li><span>Autoridade → pai (1) → avô (2) → bisavô, tronco comum (3)</span></li><li><span>Desce ao irmão do avô (4)</span></li></ol><span class=\"res\">4º grau colateral: fora</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Enteada</b><ol><li><span>A nomeada é filha da companheira do Prefeito, de outro relacionamento</span></li><li><span>Para a companheira, filha é 1º grau em linha reta</span></li><li><span>Afinidade com o Prefeito: 1º grau em linha reta</span></li></ol><span class=\"res\">Enteada: dentro da SV 13</span></div>\n<h3>20. Nepotismo, conflito de interesses e integridade: a visão de sistema</h3>\n<ul><li>O combate ao nepotismo faz parte de um conjunto maior de regras de <b>integridade pública</b>. Vale enxergar o sistema inteiro, porque as provas de Ética e Cidadania misturam os temas:</li><li><b>Lei 8.112/1990</b>: deveres (art. 116) e proibições (art. 117) do servidor, inclusive a de manter parente sob chefia imediata.</li><li><b>Decreto 1.171/1994</b> (Código de Ética do servidor federal): valores de dignidade, decoro, zelo, eficácia e consciência dos princípios morais.</li><li><b>Decreto 6.029/2007</b> (Sistema de Gestão da Ética): comissões de ética que orientam e apuram desvios éticos, podendo aplicar <b>censura ética</b>.</li><li><b>Lei 12.813/2013</b> (Conflito de interesses): impede que o agente use o cargo para beneficiar interesses privados, próprios ou de parentes até o 3º grau.</li><li><b>Decreto 7.203/2010</b> (Nepotismo no Executivo federal).</li><li><b>Lei 8.429/1992</b> (Improbidade), com o art. 11, XI.</li><li><b>Decreto 9.203/2017</b> (Governança pública), que exige programas de <b>integridade</b> nos órgãos federais, com gestão de riscos e controles internos.</li><li>Um mesmo fato (a nomeação da filha pelo diretor) pode ser analisado por todas essas lentes: violação da súmula (nulidade), falta funcional (Lei 8.112), desvio ético (comissão de ética), conflito de interesses e improbidade. As instâncias são <b>independentes</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Norma;O que acontece com o nepotismo</th></tr></thead><tbody><tr><td>SV 13 e Decreto 7.203;Nulidade do ato e exoneração</td></tr><tr><td>Lei 8.112;Infração disciplinar (advertência no art. 117, VIII)</td></tr><tr><td>Decreto 1.171 e 6.029;Apuração ética; censura ética</td></tr><tr><td>Lei 8.429, art. 11, XI;Improbidade (dolo com finalidade ilícita): multa e proibição de contratar</td></tr><tr><td>Reclamação ao STF;Anulação do ato por desrespeito à súmula vinculante</td></tr></tbody></table>\n<h3>21. Como redigir uma resposta discursiva sobre nepotismo</h3>\n<ul><li>Em provas discursivas (comuns para delegado e analista), o tema aparece como \"discorra sobre a vedação ao nepotismo na Administração Pública, abordando fundamento, alcance e exceções\". Uma estrutura segura:</li><li><b>Introdução</b>: conceito de nepotismo e sua incompatibilidade com o Estado republicano.</li><li><b>Fundamento</b>: princípios do art. 37, caput (impessoalidade, moralidade, eficiência) e isonomia; desnecessidade de lei (RE 579.951; ADC 12).</li><li><b>Alcance</b>: SV 13 (quem, de quem, quais cargos, onde, nepotismo cruzado); Decreto 7.203 no Executivo federal (temporários, estagiários, terceirizados).</li><li><b>Exceções e temperamentos</b>: cargos políticos (com as ressalvas de fraude e falta de qualificação), servidores efetivos sem subordinação direta, vínculo posterior, processo seletivo.</li><li><b>Consequências</b>: nulidade, reclamação ao STF, responsabilidade disciplinar e improbidade (art. 11, XI, exigindo dolo).</li><li><b>Conclusão</b>: a proibição concretiza a moralidade e reforça a confiança do cidadão na Administração.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Use os números certos: <b>3º grau</b> (SV 13, Decreto 7.203, LIA) e <b>2º grau</b> (Lei 8.112). Cite \"designações recíprocas\" ao falar do nepotismo cruzado. Isso mostra domínio da literalidade, que as bancas valorizam.</div>\n<h3>22. Revisão relâmpago em perguntas curtas</h3>\n<ul><li>A vedação precisa de lei? <b>Não.</b></li><li>Até que grau? <b>3º, inclusive.</b></li><li>Cônjuge e companheiro? <b>Sim, expressamente.</b></li><li>Cargo efetivo por concurso? <b>Fora da súmula.</b></li><li>Função gratificada? <b>Dentro.</b></li><li>Administração indireta? <b>Dentro.</b></li><li>Nepotismo cruzado? <b>Dentro.</b></li><li>Secretário municipal irmão do Prefeito? <b>Em regra, permitido (cargo político), salvo fraude ou falta manifesta de qualificação.</b></li><li>Chefe de gabinete irmão do Prefeito? <b>Vedado (cargo administrativo).</b></li><li>Primo? <b>Fora (4º grau).</b></li><li>Cunhado? <b>Dentro (2º grau por afinidade).</b></li><li>Estagiário familiar no Executivo federal? <b>Permitido com processo seletivo isonômico.</b></li><li>Terceirizado familiar do gestor do contrato? <b>Vedado.</b></li><li>Lei 8.112? <b>Parente até o 2º grau sob chefia imediata: proibido (advertência).</b></li><li>Improbidade? <b>Art. 11, XI; exige dolo com finalidade ilícita.</b></li></ul>\n<div class=\"lt-stats\"><div class=\"lt-stat\"><b>4</b><span>perguntas da SV 13: quem, de quem, quais cargos, onde</span></div><div class=\"lt-stat\"><b>3</b><span>tipos de parentesco: reta, colateral, afinidade</span></div><div class=\"lt-stat\"><b>1</b><span>grau de sogro, genro, nora e enteado</span></div><div class=\"lt-stat\"><b>4º</b><span>grau dos primos (fora da súmula)</span></div></div>\n<h3>23. Banco de casos comentados</h3>\n<ul><li>Os casos abaixo seguem o estilo das provas: uma situação concreta e a pergunta \"há nepotismo?\". Antes de ler a solução, aplique o checklist (vínculo, grau, cargo, pessoa de referência, troca de favores, regra do Decreto 7.203).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 1. A filha do vereador na Prefeitura</b><p>O Prefeito nomeia a filha de um vereador para cargo em comissão de assessora na Secretaria de Educação. Não há troca de favores comprovada.</p><details><summary>Ver a solução comentada</summary><p>O vereador integra o <b>Legislativo municipal</b>, e a Câmara e a Prefeitura pertencem à <b>mesma pessoa jurídica</b> (o Município). Mas o vereador não é \"servidor investido em cargo de direção, chefia ou assessoramento\", e o Prefeito não é parente da nomeada. Pelo texto da súmula, <b>não há nepotismo direto</b>. Se ficar demonstrado que a nomeação foi moeda de troca por apoio político ou por nomeação recíproca na Câmara, configura-se <b>nepotismo cruzado</b> ou desvio de finalidade.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 2. O irmão do reitor na fundação</b><p>O reitor de uma universidade federal (autarquia) nomeia o próprio irmão para cargo de direção na universidade.</p><details><summary>Ver a solução comentada</summary><p><b>Nepotismo direto</b>: irmão é parente colateral de 2º grau da autoridade nomeante, e o cargo é de direção (comissão). Viola a SV 13 e o Decreto 7.203.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 3. A esposa do vice-prefeito</b><p>O Prefeito nomeia a esposa do Vice-Prefeito para Secretária Municipal de Assistência Social. A nomeada é assistente social com mestrado na área.</p><details><summary>Ver a solução comentada</summary><p>Cargo de <b>Secretário Municipal</b> é <b>político</b>. Não há parentesco com o Prefeito, e a nomeada tem qualificação compatível. Em regra, <b>não há violação</b>. O exame mudaria se houvesse indício de fraude ou contrapartida.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 4. O genro em função gratificada</b><p>Em um tribunal, o diretor-geral (cargo em comissão) designa o próprio genro, servidor efetivo do tribunal, para função gratificada de chefe de seção na própria diretoria-geral.</p><details><summary>Ver a solução comentada</summary><p>Genro é afim de <b>1º grau</b>. A designação foi feita pelo <b>sogro</b>, para função gratificada, com <b>subordinação</b> na própria diretoria. A Resolução CNJ 7/2005 e a SV 13 vedam a situação. Ser servidor efetivo não afasta a vedação quando o próprio parente o escolhe e o mantém sob sua hierarquia.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 5. O sobrinho em outra autarquia</b><p>O diretor-presidente de uma agência reguladora federal (autarquia) tem um sobrinho nomeado para cargo em comissão no INSS (outra autarquia), por autoridade do INSS que não tem relação com ele. Não há reciprocidade.</p><details><summary>Ver a solução comentada</summary><p>São <b>pessoas jurídicas diferentes</b> (duas autarquias), e o nomeante não é parente do nomeado. Sem ajuste recíproco ou influência demonstrada, <b>não há nepotismo</b> pela súmula.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 6. A empresa de vigilância</b><p>Uma empresa terceirizada de vigilância aloca, na sede de um ministério, o filho do coordenador-geral de logística, que é o gestor do contrato.</p><details><summary>Ver a solução comentada</summary><p>O Decreto 7.203 veda que empresa contratada aloque familiar de agente público que exerça cargo em comissão ou função de confiança no órgão contratante, especialmente o responsável pela demanda ou contratação. <b>Há vedação</b>, e o contrato deve conter a cláusula proibitiva.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 7. O casamento no plantão</b><p>Dois policiais rodoviários federais, ambos sem cargo de chefia, trabalham na mesma delegacia e se casam.</p><details><summary>Ver a solução comentada</summary><p><b>Não há nepotismo</b>: ambos ingressaram por concurso, nenhum nomeou o outro, e não há relação de chefia. Se um deles vier a ser designado chefe da delegacia, a Administração deve evitar que o cônjuge fique sob sua <b>chefia imediata</b> (Lei 8.112, art. 117, VIII), por exemplo com remanejamento.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 8. A neta da desembargadora</b><p>A desembargadora presidente do Tribunal de Justiça nomeia a neta para assessora jurídica de seu gabinete.</p><details><summary>Ver a solução comentada</summary><p>Neta é linha reta de <b>2º grau</b> da autoridade nomeante; o cargo de assessor é em comissão. <b>Há nepotismo</b>, vedado pela SV 13 e pela Resolução CNJ 7/2005.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 9. O primo do Governador</b><p>O Governador nomeia o primo para Diretor do Departamento de Estradas (cargo em comissão administrativo).</p><details><summary>Ver a solução comentada</summary><p>Primo é parente colateral de <b>4º grau</b>: <b>fora</b> da SV 13. Juridicamente, a súmula não é violada. Mas a nomeação ainda pode ser questionada se houver desvio de finalidade ou falta de qualificação, à luz da moralidade.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 10. Cruzado entre Poderes</b><p>O Presidente da Assembleia Legislativa nomeia o filho do Secretário de Segurança Pública; o Secretário, por sua vez, nomeia para cargo em comissão na Secretaria a filha do Presidente da Assembleia.</p><details><summary>Ver a solução comentada</summary><p>A súmula fala em designações recíprocas na administração \"em qualquer dos Poderes\". A <b>troca</b> entre Legislativo e Executivo do mesmo Estado caracteriza <b>nepotismo cruzado</b>. Ambos os atos são nulos.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 11. Contratação temporária para a dengue</b><p>Em emergência sanitária, um órgão federal contrata temporários. A filha de um diretor do órgão é contratada sem nenhum processo seletivo, por indicação.</p><details><summary>Ver a solução comentada</summary><p>O Decreto 7.203 veda a contratação temporária de familiar <b>salvo</b> quando precedida de <b>processo seletivo</b> regular. Sem seleção, <b>há vedação</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: 12. O enteado na Câmara</b><p>O Presidente da Câmara Municipal nomeia o enteado para cargo de assessor legislativo.</p><details><summary>Ver a solução comentada</summary><p>Enteado é afim em <b>linha reta de 1º grau</b>. <b>Há nepotismo</b>.</p></details></div>\n<h3>24. Mapa mental final</h3>\n<ul><li><b>Fundamento</b>: art. 37, caput (impessoalidade, moralidade, eficiência) + isonomia; autoaplicável, sem lei.</li><li><b>Fonte principal</b>: Súmula Vinculante 13 (2008), precedida da ADC 12 e do RE 579.951.</li><li><b>Quem</b>: cônjuge, companheiro, parentes até o 3º grau (reta, colateral, afinidade).</li><li><b>De quem</b>: autoridade nomeante; servidor da mesma pessoa jurídica com cargo de direção, chefia ou assessoramento.</li><li><b>Para quê</b>: cargo em comissão, de confiança, função gratificada.</li><li><b>Onde</b>: administração direta e indireta, todos os Poderes, todos os entes.</li><li><b>Também</b>: nepotismo cruzado (designações recíprocas).</li><li><b>Exceção jurisprudencial</b>: cargos políticos, salvo fraude, nepotismo cruzado ou falta manifesta de qualificação.</li><li><b>Executivo federal</b>: Decreto 7.203 (temporários, estagiários e terceirizados; processo seletivo como exceção; servidor efetivo sem subordinação direta; vínculo posterior).</li><li><b>Lei 8.112</b>: até o 2º grau, chefia imediata, advertência.</li><li><b>Improbidade</b>: art. 11, XI (Lei 14.230/2021), exige dolo com finalidade ilícita.</li><li><b>Controle</b>: autotutela, Judiciário, CNJ/CNMP e reclamação ao STF.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ADC 12</span></span><span class=\"vs\"><span>Constitucionalidade da Resolução CNJ 7/2005</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>RE 579.951</span></span><span class=\"vs\"><span>Vedação sem lei, em todos os entes; distinção para cargos políticos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Art. 103-A, § 3º</span></span><span class=\"vs\"><span>Reclamação contra ato que contraria súmula vinculante</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lei 14.133, art. 14, IV</span></span><span class=\"vs\"><span>Vedação de licitante com vínculo de parentesco até o 3º grau com agentes da licitação</span></span></button></div></div>\n<h3>25. Por que a prática resiste: a dimensão histórica e social</h3>\n<ul><li>O nepotismo não é um desvio isolado de algumas autoridades; ele tem raízes na formação do Estado brasileiro. Autores clássicos do pensamento social, como Sérgio Buarque de Holanda (*Raízes do Brasil*, 1936), descreveram o \"homem cordial\", que leva para a vida pública os laços afetivos e familiares da vida privada. Raymundo Faoro (*Os donos do poder*, 1958) analisou o <b>patrimonialismo</b>: a apropriação do Estado por estamentos que o tratam como propriedade.</li><li>Nesse ambiente, nomear parentes parecia natural: o cargo era visto como recompensa ou como forma de garantir lealdade. A Constituição de 1988, com a exigência de concurso público, os princípios do art. 37 e o fortalecimento dos órgãos de controle, marcou uma ruptura com essa tradição, e a SV 13 foi um passo decisivo para tornar a ruptura efetiva.</li><li>Do ponto de vista da <b>ética</b>, o problema é a confusão entre duas esferas que devem permanecer separadas: a <b>esfera privada</b>, regida por afetos, preferências e lealdades pessoais, e a <b>esfera pública</b>, regida por critérios impessoais, isonômicos e voltados ao bem comum. O servidor pode (e deve) cuidar da família na vida privada; mas, ao exercer o cargo, deve agir como se não tivesse família.</li><li>Do ponto de vista da <b>cidadania</b>, o nepotismo enfraquece a confiança nas instituições. O cidadão que vê cargos distribuídos a parentes conclui que o Estado não é de todos, e isso corrói a legitimidade democrática. Por isso a <b>transparência</b> (Lei 12.527/2011) é aliada do combate ao nepotismo: a divulgação dos nomes dos ocupantes de cargos em comissão, da estrutura dos órgãos e das remunerações permite o <b>controle social</b>.</li></ul>\n<h3>26. Controle social e meios de denúncia</h3>\n<ul><li>Qualquer cidadão pode levar ao conhecimento das autoridades uma suspeita de nepotismo. Os caminhos mais comuns são:</li><li><b>Ouvidorias</b> dos órgãos e a plataforma federal de manifestações (Fala.BR), que recebe denúncias, inclusive com preservação da identidade do denunciante.</li><li><b>Ministério Público</b>, que pode instaurar inquérito civil e propor ação de improbidade ou ação civil pública.</li><li><b>Tribunais de Contas</b>, que fiscalizam a legalidade dos atos de pessoal.</li><li><b>CNJ e CNMP</b>, quando o caso envolve o Judiciário ou o Ministério Público.</li><li><b>Ação popular</b> (CF, art. 5º, LXXIII), proposta por qualquer cidadão para anular ato lesivo à <b>moralidade administrativa</b>, mesmo sem prejuízo financeiro direto.</li><li><b>Reclamação ao STF</b>, por violação da súmula vinculante, depois de esgotadas as vias administrativas, quando se tratar de ato da Administração (Lei 11.417/2006, art. 7º, § 1º).</li><li>O servidor que toma conhecimento de irregularidade tem o <b>dever</b> de levá-la ao conhecimento da autoridade superior ou, quando houver suspeita de envolvimento desta, a outra autoridade competente (Lei 8.112, art. 116, VI e XII).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A ação popular contra nomeação em nepotismo exige prova de prejuízo financeiro ao erário</span><br>✅ <span class=\"certo\">a ação popular protege também a <b>moralidade administrativa</b>, independentemente de dano financeiro</span></li><li>❌ <span class=\"banca\">Contra ato administrativo que viola súmula vinculante, a reclamação ao STF cabe de imediato, sem nenhuma exigência prévia</span><br>✅ <span class=\"certo\">a Lei 11.417/2006 exige o <b>esgotamento das vias administrativas</b> antes da reclamação contra ato ou omissão da Administração</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ação popular</span></span><span class=\"vs\"><span>Qualquer cidadão; protege a moralidade, mesmo sem dano financeiro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reclamação contra ato administrativo</span></span><span class=\"vs\"><span>Após esgotar as vias administrativas (Lei 11.417, art. 7º, § 1º)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dever do servidor</span></span><span class=\"vs\"><span>Levar irregularidades ao conhecimento da autoridade (Lei 8.112, art. 116)</span></span></button></div></div>\n<h3>27. Três frases para levar para a prova</h3>\n<ul><li>\"<b>A vedação ao nepotismo decorre da Constituição e não depende de lei.</b>\"</li><li>\"<b>Até o terceiro grau, inclusive, da autoridade nomeante ou de servidor com cargo de direção, chefia ou assessoramento da mesma pessoa jurídica, compreendidas as designações recíprocas.</b>\"</li><li>\"<b>Cargo político, em regra, fica fora; cargo administrativo em comissão, dentro.</b>\"</li><li>Com essas três frases, a tabela de graus (irmão 2, tio e sobrinho 3, primo 4, sogro e genro 1, cunhado 2) e as regras do Decreto 7.203 (temporários, estagiários e terceirizados, com a exceção do processo seletivo), você resolve a grande maioria das questões sobre nepotismo, seja no estilo Certo ou Errado, seja em múltipla escolha.</li></ul>\n<h3>28. Roteiro de revisão em cinco minutos</h3>\n<ul><li><b>Minuto 1</b>: releia o texto da SV 13 e marque as quatro perguntas (quem, de quem, quais cargos, onde) e a cláusula das designações recíprocas.</li><li><b>Minuto 2</b>: refaça de memória a tabela de graus: pais e filhos (1), avós, netos e irmãos (2), bisavós, bisnetos, tios e sobrinhos (3), primos (4); sogros, genros, noras e enteados (1 por afinidade); cunhados (2 por afinidade).</li><li><b>Minuto 3</b>: lembre a exceção dos cargos políticos e suas ressalvas (fraude, nepotismo cruzado, falta manifesta de qualificação), e a diferença entre secretário (político) e chefe de gabinete ou assessor (administrativo).</li><li><b>Minuto 4</b>: recapitule o Decreto 7.203: familiar até o 3º grau; temporários e estagiários vedados salvo processo seletivo; terceirizados vedados; servidor efetivo permitido sem subordinação direta; vínculo posterior permitido sem ajuste prévio.</li><li><b>Minuto 5</b>: feche com as consequências: nulidade, reclamação ao STF após as vias administrativas, advertência da Lei 8.112 (2º grau, chefia imediata) e improbidade do art. 11, XI (dolo com finalidade ilícita).</li></ul>",
+"quiz": [
+{
+"p": "A vedação ao nepotismo na Administração Pública decorre diretamente dos princípios constitucionais do art. 37, caput, e não depende da edição de lei formal por cada ente federativo.",
+"c": true,
+"x": "O STF (RE 579.951 e ADC 12) afirmou que a proibição é autoaplicável, extraída da impessoalidade e da moralidade.",
+"e": "RE 579.951; ADC 12."
+},
+{
+"p": "Os Municípios só ficam proibidos de nomear parentes para cargos em comissão depois de editarem lei municipal sobre o tema.",
+"c": false,
+"x": "A vedação independe de lei; leis locais podem ser mais rigorosas, nunca condição para a proibição.",
+"pg": "Exigir lei local para a vedação valer.",
+"e": "RE 579.951."
+},
+{
+"p": "A Súmula Vinculante 13 alcança o nepotismo cruzado, isto é, o ajuste mediante designações recíprocas.",
+"c": true,
+"x": "O texto da súmula inclui expressamente o \"ajuste mediante designações recíprocas\".",
+"e": "SV 13."
+},
+{
+"p": "A Súmula Vinculante 13 aplica-se somente ao Poder Executivo, pois o Legislativo e o Judiciário têm regras próprias.",
+"c": false,
+"x": "A súmula vale para a administração direta e indireta de todos os Poderes da União, dos Estados, do DF e dos Municípios.",
+"e": "SV 13."
+},
+{
+"p": "A Súmula Vinculante 13 veda a nomeação de parente da autoridade aprovado em concurso público para cargo efetivo.",
+"c": false,
+"x": "A súmula trata de cargo em comissão, de confiança e função gratificada; o concurso afasta o favorecimento.",
+"pg": "Estender a súmula ao cargo efetivo.",
+"e": "SV 13."
+},
+{
+"p": "A nomeação de parente de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento também é alcançada pela Súmula Vinculante 13, ainda que a autoridade nomeante não seja parente do nomeado.",
+"c": true,
+"x": "São duas pessoas de referência: a autoridade nomeante e o servidor da mesma pessoa jurídica com cargo de direção, chefia ou assessoramento.",
+"e": "SV 13."
+},
+{
+"p": "Segundo o entendimento predominante do STF, a nomeação de parente para cargo de natureza política, como Secretário Municipal, em regra não viola a Súmula Vinculante 13.",
+"c": true,
+"x": "Cargos políticos ficam, em regra, fora da súmula, ressalvadas fraude, nepotismo cruzado e falta manifesta de qualificação.",
+"e": "RE 579.951 e reclamações posteriores."
+},
+{
+"p": "A nomeação de parente para cargo político é sempre válida, ainda que fique demonstrada fraude ou manifesta falta de qualificação do nomeado.",
+"c": false,
+"x": "O STF ressalva a fraude e a inequívoca falta de razoabilidade, como a ausência de qualificação técnica ou idoneidade.",
+"pg": "Tratar a exceção dos cargos políticos como absoluta.",
+"e": "Jurisprudência do STF."
+},
+{
+"p": "O cargo de chefe de gabinete do Prefeito é considerado cargo político e, por isso, está fora do alcance da Súmula Vinculante 13.",
+"c": false,
+"x": "Chefe de gabinete é cargo administrativo em comissão de assessoramento, alcançado pela súmula.",
+"e": "SV 13."
+},
+{
+"p": "A Lei 8.112/1990 proíbe ao servidor manter sob sua chefia imediata, em cargo ou função de confiança, cônjuge, companheiro ou parente até o segundo grau civil.",
+"c": true,
+"x": "Art. 117, VIII, da Lei 8.112; a violação é punida com advertência.",
+"e": "Lei 8.112, art. 117, VIII."
+},
+{
+"p": "A proibição do art. 117, VIII, da Lei 8.112/1990 alcança parentes até o terceiro grau, assim como a Súmula Vinculante 13.",
+"c": false,
+"x": "A Lei 8.112 vai até o 2º grau civil; a súmula vai até o 3º.",
+"pg": "Igualar o grau da Lei 8.112 ao da súmula.",
+"e": "Lei 8.112, art. 117, VIII."
+},
+{
+"p": "A violação da proibição de manter parente sob chefia imediata, prevista na Lei 8.112/1990, sujeita o servidor à penalidade de advertência.",
+"c": true,
+"x": "Art. 129: advertência nos casos do art. 117, I a VIII e XIX.",
+"e": "Lei 8.112, arts. 117, VIII, e 129."
+},
+{
+"p": "No Poder Executivo federal, o Decreto 7.203/2010 veda a contratação de familiar de ocupante de cargo de direção para atendimento a necessidade temporária de excepcional interesse público, salvo quando precedida de regular processo seletivo.",
+"c": true,
+"x": "A exceção é o processo seletivo, que garante a impessoalidade.",
+"e": "Decreto 7.203/2010."
+},
+{
+"p": "O Decreto 7.203/2010 proíbe, sem exceção, a contratação de familiar de dirigente do órgão como estagiário.",
+"c": false,
+"x": "O estágio é vedado salvo se a contratação for precedida de processo seletivo que assegure a isonomia.",
+"pg": "Esquecer a exceção do processo seletivo.",
+"e": "Decreto 7.203/2010."
+},
+{
+"p": "O Decreto 7.203/2010 estende a vedação do nepotismo à alocação, por empresa terceirizada, de familiar de agente público que exerça cargo em comissão ou função de confiança no órgão contratante.",
+"c": true,
+"x": "A vedação deve constar dos editais de licitação e dos contratos de terceirização.",
+"e": "Decreto 7.203/2010."
+},
+{
+"p": "Para o Decreto 7.203/2010, familiar é o cônjuge, o companheiro ou o parente em linha reta ou colateral, por consanguinidade ou afinidade, até o terceiro grau.",
+"c": true,
+"x": "É o mesmo limite de grau da SV 13.",
+"e": "Decreto 7.203/2010."
+},
+{
+"p": "Pelo Decreto 7.203/2010, servidor efetivo jamais pode ser nomeado para cargo em comissão em órgão onde trabalhe parente com função de chefia.",
+"c": false,
+"x": "É possível, com compatibilidade de escolaridade e qualificação, vedada a subordinação direta ao familiar.",
+"e": "Decreto 7.203/2010."
+},
+{
+"p": "Não caracteriza nepotismo, nos termos do Decreto 7.203/2010, a nomeação realizada antes do início do vínculo familiar entre o agente público e o nomeado, desde que não haja ajuste prévio para burlar a vedação.",
+"c": true,
+"x": "Se não havia parentesco quando da escolha, não houve favorecimento familiar.",
+"e": "Decreto 7.203/2010."
+},
+{
+"p": "A Lei 14.230/2021 incluiu na Lei de Improbidade Administrativa, como ato que atenta contra os princípios da Administração, a nomeação de parentes nos termos semelhantes aos da Súmula Vinculante 13.",
+"c": true,
+"x": "Art. 11, XI, da Lei 8.429/1992.",
+"e": "Lei 8.429, art. 11, XI."
+},
+{
+"p": "Após a Lei 14.230/2021, a configuração de improbidade por nepotismo dispensa a demonstração de dolo, bastando a culpa da autoridade.",
+"c": false,
+"x": "A improbidade exige dolo; e a mera nomeação ou indicação política não basta, sendo necessária finalidade ilícita.",
+"pg": "Admitir improbidade culposa.",
+"e": "Lei 8.429, arts. 1º e 11, § 5º."
+},
+{
+"p": "Contra ato administrativo que contrarie a Súmula Vinculante 13 cabe reclamação ao STF, após o esgotamento das vias administrativas.",
+"c": true,
+"x": "CF, art. 103-A, § 3º, e Lei 11.417/2006, art. 7º, § 1º.",
+"e": "Lei 11.417/2006."
+},
+{
+"p": "A Resolução CNJ nº 7/2005, que proibiu o nepotismo no Poder Judiciário, foi declarada constitucional pelo STF na ADC 12.",
+"c": true,
+"x": "O STF entendeu que o CNJ apenas concretizou princípios constitucionais.",
+"e": "ADC 12."
+},
+{
+"p": "Primos são parentes colaterais de terceiro grau e, por isso, estão alcançados pela Súmula Vinculante 13.",
+"c": false,
+"x": "Primos são colaterais de 4º grau, fora do limite da súmula.",
+"pg": "Contar o primo como 3º grau.",
+"e": "CC, art. 1.594."
+},
+{
+"p": "O cunhado é parente por afinidade em segundo grau na linha colateral.",
+"c": true,
+"x": "Tem com a autoridade o mesmo grau que tem com o cônjuge (irmão do cônjuge: 2º grau).",
+"e": "CC, art. 1.595."
+},
+{
+"p": "O parentesco por afinidade em linha reta não se extingue com a dissolução do casamento ou da união estável.",
+"c": true,
+"x": "CC, art. 1.595, § 2º: a ex-sogra continua afim em 1º grau.",
+"e": "CC, art. 1.595, § 2º."
+},
+{
+"p": "Não existe parentesco colateral de segundo grau, pois o primeiro parente colateral é o tio.",
+"c": false,
+"x": "Irmãos são colaterais de 2º grau; o que não existe é colateral de 1º grau.",
+"e": "CC, art. 1.594."
+},
+{
+"p": "O companheiro em união estável homoafetiva está abrangido pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "A união homoafetiva tem o mesmo tratamento da união estável (ADI 4.277 e ADPF 132).",
+"e": "SV 13; ADI 4.277."
+},
+{
+"p": "A qualificação técnica do parente nomeado para cargo administrativo de assessor da própria autoridade afasta a caracterização do nepotismo.",
+"c": false,
+"x": "Nos cargos administrativos em comissão, a qualificação não afasta a súmula; ela só pesa na análise excepcional dos cargos políticos.",
+"e": "SV 13."
+},
+{
+"p": "A função gratificada está entre os postos abrangidos pela Súmula Vinculante 13.",
+"c": true,
+"x": "A súmula menciona cargo em comissão, cargo de confiança e função gratificada.",
+"e": "SV 13."
+},
+{
+"p": "A vedação ao nepotismo alcança a administração indireta, como autarquias, fundações, empresas públicas e sociedades de economia mista.",
+"c": true,
+"x": "A súmula fala em administração pública direta e indireta.",
+"e": "SV 13."
+},
+{
+"p": "A ação popular contra nomeação que configura nepotismo depende de prova de prejuízo financeiro ao erário.",
+"c": false,
+"x": "A ação popular protege a moralidade administrativa, independentemente de dano financeiro (CF, art. 5º, LXXIII).",
+"e": "CF, art. 5º, LXXIII."
+},
+{
+"p": "Situação hipotética: o diretor A nomeia a filha do diretor B e, em seguida, o diretor B nomeia o filho do diretor A, ambos para cargos em comissão no mesmo órgão. Nessa situação, configura-se nepotismo cruzado.",
+"c": true,
+"x": "As designações recíprocas revelam o ajuste para burlar a vedação.",
+"e": "SV 13."
+},
+{
+"p": "Situação hipotética: o Secretário de Administração nomeia o primo para cargo em comissão de assessor. Nessa situação, há violação direta da Súmula Vinculante 13.",
+"c": false,
+"x": "Primo é parente de 4º grau, fora do limite da súmula; a nomeação pode ser examinada à luz da moralidade, mas não viola a súmula por si só.",
+"e": "SV 13."
+},
+{
+"p": "Situação hipotética: o Presidente do Tribunal nomeia o próprio sobrinho para assessor de gabinete. Nessa situação, há nepotismo vedado pela Súmula Vinculante 13.",
+"c": true,
+"x": "Sobrinho é colateral de 3º grau; assessor é cargo em comissão.",
+"e": "SV 13."
+},
+{
+"p": "Situação hipotética: dois servidores concursados, sem função de chefia, casam-se depois de ingressar no mesmo órgão. Nessa situação, não há nepotismo.",
+"c": true,
+"x": "Ninguém foi escolhido por parentesco; ambos ingressaram por concurso.",
+"e": "SV 13."
+},
+{
+"p": "Situação hipotética: em órgão federal, a nora de um coordenador é aprovada em processo seletivo público e isonômico para estágio. Nessa situação, a contratação é vedada pelo Decreto 7.203/2010.",
+"c": false,
+"x": "Com processo seletivo que assegure a isonomia, a contratação de estagiário familiar é permitida.",
+"e": "Decreto 7.203/2010."
+},
+{
+"p": "O nepotismo é uma manifestação de patrimonialismo, isto é, da confusão entre o público e o privado na gestão do Estado.",
+"c": true,
+"x": "O cargo público é tratado como patrimônio da família.",
+"e": "Conceitos."
+},
+{
+"p": "A moralidade administrativa permite invalidar ato formalmente legal, praticado por autoridade competente, quando usado para fim estranho ao interesse público, como beneficiar parentes.",
+"c": true,
+"x": "Foi esse raciocínio que fundamentou a proibição do nepotismo sem lei específica.",
+"e": "CF, art. 37, caput."
+},
+{
+"p": "O servidor que tem conhecimento de nepotismo no seu órgão não tem dever de comunicar o fato, pois a nomeação é ato privativo da autoridade.",
+"c": false,
+"x": "É dever do servidor levar as irregularidades ao conhecimento da autoridade superior ou de outra competente (Lei 8.112, art. 116, VI e XII).",
+"e": "Lei 8.112, art. 116."
+},
+{
+"p": "A Lei 14.133/2021 impede que participe de licitação quem seja cônjuge, companheiro ou parente até o terceiro grau de dirigente do órgão contratante ou de agente que atue na licitação ou na fiscalização do contrato.",
+"c": true,
+"x": "Art. 14, IV, da nova Lei de Licitações, com a mesma lógica da vedação ao nepotismo.",
+"e": "Lei 14.133, art. 14, IV."
+},
+{
+"p": "De acordo com a Súmula Vinculante 13, viola a Constituição a nomeação, para cargo em comissão, de",
+"alts": [
+"primo da autoridade nomeante",
+"parente de 4º grau de servidor com cargo de chefia",
+"sobrinho da autoridade nomeante",
+"servidor efetivo aprovado em concurso para cargo efetivo",
+"tio-avô da autoridade nomeante"
+],
+"r": 2,
+"x": "O sobrinho é colateral de 3º grau, dentro do limite da súmula.",
+"n": [
+"4º grau: fora.",
+"4º grau: fora.",
+"Correta.",
+"Cargo efetivo por concurso não é alcançado.",
+"Tio-avô é 4º grau: fora."
+],
+"e": "SV 13."
+},
+{
+"p": "A proibição do art. 117, VIII, da Lei 8.112/1990 alcança o parente até o",
+"alts": [
+"primeiro grau, em cargo efetivo",
+"segundo grau civil, sob chefia imediata, em cargo ou função de confiança",
+"terceiro grau, em qualquer setor do órgão",
+"quarto grau, em qualquer cargo",
+"terceiro grau, apenas em linha reta"
+],
+"r": 1,
+"x": "Lei 8.112, art. 117, VIII: até o 2º grau civil, sob chefia imediata.",
+"n": [
+"Não é esse o alcance.",
+"Correta.",
+"Esse é o limite da SV 13, não da Lei 8.112.",
+"Não há esse alcance.",
+"Não."
+],
+"e": "Lei 8.112, art. 117, VIII."
+},
+{
+"p": "Segundo o Decreto 7.203/2010, a contratação de familiar de dirigente como estagiário no Executivo federal",
+"alts": [
+"é sempre vedada",
+"é sempre permitida",
+"depende de autorização do Ministro de Estado",
+"é permitida se precedida de processo seletivo que assegure a isonomia",
+"depende de lei específica"
+],
+"r": 3,
+"x": "A exceção é o processo seletivo isonômico.",
+"n": [
+"Há exceção.",
+"Não é livre.",
+"Não existe essa regra.",
+"Correta.",
+"Não."
+],
+"e": "Decreto 7.203/2010."
+},
+{
+"p": "A exceção jurisprudencial à Súmula Vinculante 13 reconhecida pelo STF refere-se, em regra, à nomeação de parentes para",
+"alts": [
+"cargos de assessoramento de gabinete",
+"funções gratificadas",
+"cargos em comissão de direção",
+"cargos de natureza política, como Secretário de Estado",
+"empregos em sociedades de economia mista"
+],
+"r": 3,
+"x": "Cargos políticos (ministros e secretários) ficam, em regra, fora da súmula.",
+"n": [
+"Alcançados.",
+"Alcançadas.",
+"Alcançados.",
+"Correta.",
+"Alcançados (administração indireta)."
+],
+"e": "Jurisprudência do STF."
+},
+{
+"p": "Assinale a opção que indica corretamente o grau de parentesco.",
+"alts": [
+"Primo: 3º grau colateral",
+"Cunhado: 1º grau por afinidade",
+"Tio: 3º grau colateral",
+"Neto: 1º grau em linha reta",
+"Irmão: 1º grau colateral"
+],
+"r": 2,
+"x": "Tio: sobe 2 até o avô e desce 1 = 3º grau colateral.",
+"n": [
+"Primo é 4º grau.",
+"Cunhado é 2º grau.",
+"Correta.",
+"Neto é 2º grau.",
+"Irmão é 2º grau."
+],
+"e": "CC, arts. 1.591 a 1.595."
+},
+{
+"p": "A inclusão do nepotismo como ato de improbidade administrativa foi feita pela Lei 14.230/2021 no",
+"alts": [
+"art. 9º, como enriquecimento ilícito",
+"art. 10, como dano ao erário",
+"art. 11, XI, como ato que atenta contra os princípios",
+"art. 12, como sanção autônoma",
+"art. 23, como hipótese imprescritível"
+],
+"r": 2,
+"x": "Art. 11, XI, da Lei 8.429/1992.",
+"n": [
+"Não.",
+"Não.",
+"Correta.",
+"O art. 12 trata das sanções.",
+"Não."
+],
+"e": "Lei 8.429, art. 11, XI."
+},
+{
+"p": "O instrumento processual que permite levar diretamente ao STF ato administrativo que contraria súmula vinculante, após esgotadas as vias administrativas, é",
+"alts": [
+"o mandado de injunção",
+"a ação popular",
+"a reclamação",
+"o habeas data",
+"a ADPF"
+],
+"r": 2,
+"x": "CF, art. 103-A, § 3º.",
+"n": [
+"Não.",
+"É ação do cidadão no primeiro grau.",
+"Correta.",
+"Não.",
+"Não é a via própria."
+],
+"e": "CF, art. 103-A, § 3º."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o pai da autoridade é parente em linha reta de 2º grau.",
+"c": false,
+"x": "O pai é parente em linha reta de 1º grau, e não de 2º.",
+"pg": "Contagem de graus trocada.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do pai da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "O pai é parente de 1º grau (linha reta), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, a filha da autoridade é parente em linha reta de 1º grau.",
+"c": true,
+"x": "A filha: linha reta, 1º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação da filha da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "A filha é parente de 1º grau (linha reta), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o avô da autoridade é parente em linha reta de 3º grau.",
+"c": false,
+"x": "O avô é parente em linha reta de 2º grau, e não de 3º.",
+"pg": "Contagem de graus trocada.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do avô da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "O avô é parente de 2º grau (linha reta), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, a neta da autoridade é parente em linha reta de 2º grau.",
+"c": true,
+"x": "A neta: linha reta, 2º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação da neta da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "A neta é parente de 2º grau (linha reta), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o bisneto da autoridade é parente em linha reta de 4º grau.",
+"c": false,
+"x": "O bisneto é parente em linha reta de 3º grau, e não de 4º.",
+"pg": "Contagem de graus trocada.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do bisneto da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "O bisneto é parente de 3º grau (linha reta), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, a bisavó da autoridade é parente em linha reta de 3º grau.",
+"c": true,
+"x": "A bisavó: linha reta, 3º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação da bisavó da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "A bisavó é parente de 3º grau (linha reta), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o trineto da autoridade é parente em linha reta de 3º grau.",
+"c": false,
+"x": "O trineto é parente em linha reta de 4º grau, e não de 3º.",
+"pg": "Contagem de graus trocada.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do trineto da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": false,
+"x": "O trineto é parente de 4º grau (linha reta), fora do limite de até o 3º grau da súmula.",
+"pg": "Achar que todo parente está alcançado.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o irmão da autoridade é parente em colateral de 2º grau.",
+"c": true,
+"x": "O irmão: colateral, 2º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do irmão da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "O irmão é parente de 2º grau (colateral), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, a irmã da autoridade é parente em colateral de 3º grau.",
+"c": false,
+"x": "A irmã é parente em colateral de 2º grau, e não de 3º.",
+"pg": "Contagem de graus trocada.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação da irmã da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "A irmã é parente de 2º grau (colateral), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o tio da autoridade é parente em colateral de 3º grau.",
+"c": true,
+"x": "O tio: colateral, 3º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do tio da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "O tio é parente de 3º grau (colateral), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, a sobrinha da autoridade é parente em colateral de 3º grau.",
+"c": true,
+"x": "A sobrinha: colateral, 3º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação da sobrinha da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "A sobrinha é parente de 3º grau (colateral), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o primo da autoridade é parente em colateral de 4º grau.",
+"c": true,
+"x": "O primo: colateral, 4º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do primo da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": false,
+"x": "O primo é parente de 4º grau (colateral), fora do limite de até o 3º grau da súmula.",
+"pg": "Achar que todo parente está alcançado.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, a prima da autoridade é parente em colateral de 3º grau.",
+"c": false,
+"x": "A prima é parente em colateral de 4º grau, e não de 3º.",
+"pg": "Contagem de graus trocada.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação da prima da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": false,
+"x": "A prima é parente de 4º grau (colateral), fora do limite de até o 3º grau da súmula.",
+"pg": "Achar que todo parente está alcançado.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o tio-avô da autoridade é parente em colateral de 4º grau.",
+"c": true,
+"x": "O tio-avô: colateral, 4º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do tio-avô da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": false,
+"x": "O tio-avô é parente de 4º grau (colateral), fora do limite de até o 3º grau da súmula.",
+"pg": "Achar que todo parente está alcançado.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o sobrinho-neto da autoridade é parente em colateral de 4º grau.",
+"c": true,
+"x": "O sobrinho-neto: colateral, 4º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do sobrinho-neto da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": false,
+"x": "O sobrinho-neto é parente de 4º grau (colateral), fora do limite de até o 3º grau da súmula.",
+"pg": "Achar que todo parente está alcançado.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o sogro da autoridade é parente em afinidade em linha reta de 1º grau.",
+"c": true,
+"x": "O sogro: afinidade em linha reta, 1º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do sogro da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "O sogro é parente de 1º grau (afinidade em linha reta), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, a nora da autoridade é parente em afinidade em linha reta de 1º grau.",
+"c": true,
+"x": "A nora: afinidade em linha reta, 1º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação da nora da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "A nora é parente de 1º grau (afinidade em linha reta), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o genro da autoridade é parente em afinidade em linha reta de 1º grau.",
+"c": true,
+"x": "O genro: afinidade em linha reta, 1º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do genro da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "O genro é parente de 1º grau (afinidade em linha reta), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o enteado da autoridade é parente em afinidade em linha reta de 1º grau.",
+"c": true,
+"x": "O enteado: afinidade em linha reta, 1º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do enteado da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "O enteado é parente de 1º grau (afinidade em linha reta), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+},
+{
+"p": "Para fins da Súmula Vinculante 13, o cunhado da autoridade é parente em afinidade colateral de 2º grau.",
+"c": true,
+"x": "O cunhado: afinidade colateral, 2º grau. Na linha reta, cada geração é um grau; na colateral, sobe-se até o tronco comum e desce-se até o parente.",
+"e": "CC, arts. 1.591 a 1.595; SV 13."
+},
+{
+"p": "A nomeação do cunhado da autoridade nomeante para cargo em comissão de assessor administrativo é alcançada pela vedação da Súmula Vinculante 13.",
+"c": true,
+"x": "O cunhado é parente de 2º grau (afinidade colateral), dentro do limite de até o 3º grau, inclusive.",
+"e": "SV 13."
+}
+]
+}
 }
 };
