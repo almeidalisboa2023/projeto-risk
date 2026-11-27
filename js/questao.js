@@ -6,6 +6,7 @@ import { db } from './backend.js';
 import { esc, iso, hoje } from './util.js';
 import { toast } from './ui.js';
 import { chaveQ } from './leitura/index.js';
+import { passoAPasso } from './rlm-tutor.js';
 
 export const LETRA = 'ABCDE';
 const hash = (s) => parseInt(chaveQ(String(s)), 36) || 0;
@@ -104,7 +105,7 @@ export function htmlGabarito(q, ok, marcada) {
   // 2) explicação: fala do professor (T:) e explicação (X:)
   const prof = String(q.prof || '').trim();
   if (prof) partes.push(msg(esc(prof)));
-  const base = x || (!prof ? e : '');
+  const base = q.rlm ? '' : x || (!prof ? e : '');
   if (base) {
     const intro = !me && !q.c ? um(ERRADO_PORQUE, h >>> 3) : um(POR_QUE, h >>> 3);
     partes.push(msg(`${prof ? '' : `<b>${intro}</b> `}${esc(base)}`));
@@ -123,8 +124,11 @@ export function htmlGabarito(q, ok, marcada) {
   }
   // 6) fecho
   if (e && (x || prof)) partes.push(msg(`<b>${um(FECHO, h >>> 7)}</b> ${esc(e)}`, 'fecho'));
+  // RLM: a explicação vira resolução passo a passo, com tabela-verdade pronta quando couber
+  let pp = ''; if (q.rlm) { try { pp = passoAPasso(q); } catch { pp = ''; } }
+  if (q.rlm && !pp && (x || e)) partes.splice(1, 0, msg(esc(x || e)));
   return `<b>${ok ? '✅ Você acertou!' : '❌ Não foi dessa vez.'}</b> Gabarito: ${gab}.
-    <div class="lt-gab lt-chat"><div class="lt-av">👨‍🏫 <b>Professor</b></div>${partes.join('')}</div>`;
+    <div class="lt-gab lt-chat"><div class="lt-av">👨‍🏫 <b>Professor</b></div>${partes.join('')}${pp}</div>`;
 }
 
 // ---------- uma questão interativa (usada dentro do texto) ----------

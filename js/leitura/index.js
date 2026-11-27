@@ -39,7 +39,9 @@ const comNovos = (m) => { const x = TOPICOS_EXTRA[m.id]; if (!x) return m;
   const ids = new Set(m.assuntos.map((a) => a.id)); const todos = [...m.assuntos, ...x.assuntos.filter((a) => !ids.has(a.id))];
   const pos = new Map((x.ordem || []).map((id, i) => [id, i]));
   return { ...m, assuntos: x.ordem?.length ? todos.sort((a, b) => (pos.get(a.id) ?? 999) - (pos.get(b.id) ?? 999)) : todos }; };
-export const MATERIAS_TODAS = [portugues, rlm, constitucional, administrativo, processo, penal, transito, belovale, ...NOVAS].map((m) => comGab(aprofundar(comNovos(m)))).map((m) => ({ ...m, cor: VISUAL[m.id]?.[0] || m.cor || '#6B6458', ico: VISUAL[m.id]?.[1] || m.ico || '📖', atualizado: m.atualizado || 'novembro de 2026' }));
+// Questões de RLM ganham a resolução passo a passo (marca o assunto em cada questão)
+const marcaRlm = (m) => (m.id !== 'rlm' ? m : { ...m, assuntos: m.assuntos.map((a) => ({ ...a, quiz: (a.quiz || []).map((q) => ({ ...q, rlm: a.id })) })) });
+export const MATERIAS_TODAS = [portugues, rlm, constitucional, administrativo, processo, penal, transito, belovale, ...NOVAS].map((m) => marcaRlm(comGab(aprofundar(comNovos(m))))).map((m) => ({ ...m, cor: VISUAL[m.id]?.[0] || m.cor || '#6B6458', ico: VISUAL[m.id]?.[1] || m.ico || '📖', atualizado: m.atualizado || 'novembro de 2026' }));
 
 // Junta os conteúdos enviados em PDF pelo administrador: tópico novo, complemento de tópico ou matéria nova.
 // Complementar um tópico "em produção" troca o aviso pelo texto enviado.

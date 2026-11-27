@@ -121,7 +121,7 @@ export async function render(el, q) {
           ${tp ? `<div class="cb-lei"><div class="row" style="margin-bottom:6px"><span class="pill dash">Banca: ${caiu ? 'já caiu' : 'não caiu'}</span>${appHoje(tp.id) ? `<span class="pill">${appHoje(tp.id)} questões hoje</span>` : ''}</div>${leiSecaHTML(tp)}</div>` : ''}
         </details>
       </div>
-      <div class="cb-acoes">${lt ? `<a class="btn mini" href="${lt.link}">Ler</a>` : ''}<button class="btn sec mini ${rodando ? 'cb-rodando' : ''}" data-a="crono">${rodando ? '■ Parar' : '▶ Cronômetro'}</button></div>
+      <div class="cb-acoes">${lt ? `<a class="btn mini" href="${lt.link}">Ler</a>` : ''}${lt ? `<a class="btn sec mini cb-qst" href="#/questoes?m=${encodeURIComponent(lt.mat.id)}${lt.a ? '&a=' + encodeURIComponent(lt.a.id) : ''}${tp ? '&t=' + encodeURIComponent(tp.id) : ''}" title="Abre o banco de questões já filtrado neste assunto">🎯 Fazer questões desse assunto</a>` : ''}<button class="btn sec mini ${rodando ? 'cb-rodando' : ''}" data-a="crono">${rodando ? '■ Parar' : '▶ Cronômetro'}</button></div>
     </article>`;
   });
   box.innerHTML = html;

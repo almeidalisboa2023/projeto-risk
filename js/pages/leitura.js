@@ -313,6 +313,8 @@ function leitura(el, q, mat, idx) {
   // Flashcards: os do conteúdo, ou um baralho automático com os itens de Certo/Errado
   const ess = $('[data-pane="ess"]');
   if (!ess.querySelector('.lt-flash') && a.quiz?.length) ess.insertAdjacentHTML('beforeend', htmlFlash(cartoesAuto(a.quiz), '🃏 Revisão rápida em flashcards: clique no cartão para ver a resposta'));
+  // RLM (lógica): atalho para o quadro interativo de tabela-verdade
+  if (mat.id === 'rlm' && ['proposicoes', 'equivalencias', 'logica-argumentacao'].includes(a.id)) ess.insertAdjacentHTML('afterbegin', '<a class="qb-tv lt-tvbox" href="#/tabela-verdade"><span>🧩</span><div><b>Quadro interativo de tabela-verdade</b><small>Monte a tabela célula por célula, todos os dias: o que estiver certo fica verde, o errado fica vermelho e o app mostra o porquê.</small></div><span class="qb-tv-ir">Treinar →</span></a>');
   const ctx = contexto(mat, a);
   const ligar = () => ligarFlash(el, ctx);
   if (S.user && !S.flashFeitos) contarFlash().then(ligar); else ligar();

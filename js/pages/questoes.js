@@ -1,72 +1,155 @@
+// Banco de questões: todas as questões dos tópicos de todas as matérias, num só lugar, com filtros.
+// As questões continuam dentro de cada matéria; aqui o aluno filtra por matéria, assunto, modo e situação.
 import { S } from '../state.js';
 import { db } from '../backend.js';
 import { esc } from '../util.js';
-import { loading, toast } from '../ui.js';
-import { montarQuestao, resolverSequencia, tagsQuestao } from '../quiz.js';
+import { MATERIAS_TODAS, comConteudos, comEdicoes, acharLeitura, chaveQ } from '../leitura/index.js';
+import { embaralhar, intercalar, htmlQuestao, responder, registrar } from '../questao.js';
 
-let F = { aba: 'banco', materia: '', assunto: '', banca: '', ano: '', dificuldade: '', origem: '', situacao: 'atualizada', status: 'todas', busca: '', pagina: 0 };
-const POR_PAG = 20;
+const POR_PAG = 10;
+let F = { m: '', a: '', modo: '', status: '', busca: '', ordem: 'mix', pag: 0 };
+let BANCO = null, HIST = null, sessao = { feitas: 0, ok: 0 };
+const num = (n) => Number(n).toLocaleString('pt-BR');
 
-export async function render(el, query) {
-  const topId = query.get('topico');
-  const tp = topId ? S.topicos.find((t) => t.id === topId) : null;
-  if (tp) F = { ...F, aba: 'banco', materia: tp.materia, assunto: tp.topico, pagina: 0 };
-  el.innerHTML = `<div class="mono up">Banco de questões</div><h1>Questões</h1>
-    ${tp ? `<div class="card" style="margin-bottom:12px"><div class="row"><div><div class="mono up">Tópico</div><b>${esc(tp.topico)}</b></div><span class="sp"></span><a class="btn sec mini" href="#/calendario">← Voltar ao calendário</a></div></div>` : ''}
-    <div class="row" style="margin-bottom:12px"><button class="btn ${F.aba === 'banco' ? '' : 'sec'}" data-aba="banco">Banco completo</button><button class="btn ${F.aba === 'ia' ? '' : 'sec'}" data-aba="ia">Geradas para você</button></div>
-    <div class="card filtros" id="filtros">${loading()}</div>
-    <div id="lista" style="margin-top:14px">${loading()}</div>`;
-  el.querySelectorAll('[data-aba]').forEach((b) => (b.onclick = () => { F.aba = b.dataset.aba; F.pagina = 0; if (topId) location.hash = '#/questoes'; else render(el, query); }));
-
-  const meta = await db.selectAll('questoes', { select: 'materia,assunto,banca,ano', order: 'materia.asc' });
-  const uniq = (k, filtro = () => true) => [...new Set(meta.filter(filtro).map((q) => q[k]).filter(Boolean))].sort();
-  const opt = (lista, v) => '<option value="">Todas</option>' + lista.map((x) => `<option ${x === v ? 'selected' : ''}>${esc(x)}</option>`).join('');
-  el.querySelector('#filtros').innerHTML = `
-    <div><label>Matéria</label><select data-f="materia">${opt(uniq('materia'), F.materia)}</select></div>
-    <div><label>Assunto</label><select data-f="assunto">${opt(uniq('assunto', (q) => !F.materia || q.materia === F.materia), F.assunto)}</select></div>
-    <div><label>Banca</label><select data-f="banca">${opt(uniq('banca'), F.banca)}</select></div>
-    <div><label>Ano</label><select data-f="ano">${opt(uniq('ano').map(String).reverse(), String(F.ano))}</select></div>
-    <div><label>Dificuldade</label><select data-f="dificuldade"><option value="">Todas</option>${[['1', 'Fácil'], ['2', 'Médio'], ['3', 'Difícil']].map(([v, n]) => `<option value="${v}" ${F.dificuldade === v ? 'selected' : ''}>${n}</option>`).join('')}</select></div>
-    <div><label>Origem</label><select data-f="origem"><option value="">Todas</option><option value="publica" ${F.origem === 'publica' ? 'selected' : ''}>Provas anteriores</option><option value="inedita" ${F.origem === 'inedita' ? 'selected' : ''}>Inéditas R.I.S.K.</option></select></div>
-    <div><label>Situação</label><select data-f="situacao"><option value="atualizada" ${F.situacao === 'atualizada' ? 'selected' : ''}>Só atualizadas</option><option value="" ${F.situacao === '' ? 'selected' : ''}>Incluir desatualizadas/anuladas</option></select></div>
-    <div><label>Status</label><select data-f="status">${[['todas', 'Todas'], ['nao', 'Não resolvidas'], ['res', 'Resolvidas'], ['acertei', 'Acertei'], ['errei', 'Errei']].map(([v, n]) => `<option value="${v}" ${F.status === v ? 'selected' : ''}>${n}</option>`).join('')}</select></div>
-    <div><label>Busca (texto ou código)</label><input data-f="busca" value="${esc(F.busca)}" placeholder="Ex.: crase, R21PRF"></div>`;
-  el.querySelectorAll('[data-f]').forEach((i) => (i.onchange = () => { F[i.dataset.f] = i.value; if (i.dataset.f === 'materia') F.assunto = ''; F.pagina = 0; if (topId) location.hash = '#/questoes'; else render(el, query); }));
-  await lista(el.querySelector('#lista'));
+// Junta as questões de todas as matérias (todos os alunos veem todas, não só as do edital)
+function montarBanco() {
+  const mats = comEdicoes(comConteudos(MATERIAS_TODAS));
+  const lista = [], vistos = new Set(), meta = [];
+  for (const m of mats) {
+    const assuntos = [];
+    for (const a of m.assuntos) {
+      let n = 0;
+      for (const q0 of a.quiz || []) {
+        if (!q0?.p) continue;
+        const id = `${m.id}/${a.id}/${chaveQ(q0.p)}`;
+        if (vistos.has(id)) continue; vistos.add(id);
+        lista.push({ id, mat: m, a, q: embaralhar(q0), txt: '' });
+        n++;
+      }
+      if (n) assuntos.push({ id: a.id, titulo: a.titulo, n });
+    }
+    if (assuntos.length) meta.push({ id: m.id, nome: m.nome, cor: m.cor, ico: m.ico, assuntos, n: assuntos.reduce((s, x) => s + x.n, 0) });
+  }
+  meta.sort((x, y) => x.nome.localeCompare(y.nome, 'pt-BR'));
+  return { lista, meta };
 }
 
-async function lista(box) {
-  const p = { select: 'id', order: 'codigo.asc' };
-  if (F.aba === 'ia') { p.origem = 'eq.ia'; p.owner = 'eq.' + S.user.id; }
-  else { if (F.origem) p.origem = 'eq.' + F.origem; else p.origem = 'in.(publica,inedita)'; }
-  if (F.materia) p.materia = 'eq.' + F.materia;
-  if (F.assunto) p.assunto = 'eq.' + F.assunto;
-  if (F.banca) p.banca = 'eq.' + F.banca;
-  if (F.ano) p.ano = 'eq.' + F.ano;
-  if (F.dificuldade) p.dificuldade = 'eq.' + F.dificuldade;
-  if (F.situacao) p.situacao = 'eq.' + F.situacao;
-  if (F.busca) { const b = F.busca.replace(/[,()*]/g, ' ').trim(); p.or = `(enunciado.ilike.*${b}*,codigo.ilike.*${b}*)`; }
-  let ids = (await db.selectAll('questoes', p)).map((q) => q.id);
-  const minhas = await db.selectAll('respostas', { user_id: 'eq.' + S.user.id, select: 'questao_id,acertou,created_at', order: 'created_at.asc' });
-  const ult = new Map(minhas.map((r) => [r.questao_id, r.acertou]));
-  if (F.status !== 'todas') ids = ids.filter((id) => ({ nao: !ult.has(id), res: ult.has(id), acertei: ult.get(id) === true, errei: ult.get(id) === false }[F.status]));
-  const total = ids.length, pags = Math.max(1, Math.ceil(total / POR_PAG));
-  F.pagina = Math.min(F.pagina, pags - 1);
-  const pagIds = ids.slice(F.pagina * POR_PAG, (F.pagina + 1) * POR_PAG);
-  const qs = pagIds.length ? await db.select('questoes', { id: `in.(${pagIds.join(',')})`, order: 'codigo.asc' }) : [];
-  box.innerHTML = `<div class="row" style="margin-bottom:10px"><b>${total} questão(ões)</b><span class="sp"></span>${qs.length ? '<button class="btn" id="seq">Responder esta página em sequência</button>' : ''}</div>
-    ${qs.length ? '' : `<div class="card"><p class="muted">${F.aba === 'ia' ? 'Você ainda não pediu questões ao Claude. Use o botão nos blocos do Calendário.' : 'Nenhuma questão com esses filtros.'}</p></div>`}
-    ${qs.map((q, i) => `<div class="card qcard" style="margin-bottom:10px" data-q="${q.id}"><div class="cab">${tagsQuestao(q, { extra: ult.has(q.id) ? `<span class="pill ${ult.get(q.id) ? 'verde' : ''}">${ult.get(q.id) ? 'Acertou' : 'Errou'}</span>` : '' })}</div>
-      <div class="prev qprev">${esc((() => { const t = String(q.enunciado).split(/<hr\s*\/?>/i).pop().replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim(); return t.length > 240 ? t.slice(0, 240) + '…' : t; })())}</div>
-      <button class="btn sec mini" data-ver="${i}">Ver questão</button><div class="area"></div></div>`).join('')}
-    <div class="row" style="justify-content:center;margin-top:12px">${F.pagina > 0 ? '<button class="btn sec" id="pa">‹ Anterior</button>' : ''}<span class="muted">Página ${F.pagina + 1} de ${pags}</span>${F.pagina < pags - 1 ? '<button class="btn sec" id="pp">Próxima ›</button>' : ''}</div>`;
-  box.querySelectorAll('[data-ver]').forEach((b) => (b.onclick = () => {
-    const card = b.closest('[data-q]'); const q = qs[Number(b.dataset.ver)];
-    card.querySelector('.prev').remove(); card.querySelector('.cab').remove(); b.remove();
-    montarQuestao(card.querySelector('.area'), q, {});
-  }));
-  const seq = box.querySelector('#seq'); if (seq) seq.onclick = () => resolverSequencia(qs, { titulo: F.assunto || F.materia || 'Questões', onFim: () => lista(box) });
-  const pa = box.querySelector('#pa'), pp = box.querySelector('#pp');
-  if (pa) pa.onclick = () => { F.pagina--; lista(box); };
-  if (pp) pp.onclick = () => { F.pagina++; lista(box); };
+async function carregarHist() {
+  const h = new Map();
+  if (!S.user) return h;
+  try { (await db.selectAll('respostas_leitura', { user_id: 'eq.' + S.user.id, select: 'chave,acertou,acertos,tentativas,atualizado_em' })).forEach((r) => h.set(r.chave, r)); } catch {}
+  return h;
+}
+
+// Contexto de cada assunto (para histórico, questões do dia e ligação com o tópico do calendário)
+const CTX = new Map();
+let topicoFixo = null;
+function ctxDe(it) {
+  const k = it.mat.id + '/' + it.a.id;
+  if (!CTX.has(k)) {
+    let tp = topicoFixo && topicoFixo.k === k ? topicoFixo.tp : null;
+    if (!tp) tp = (S.topicos || []).find((t) => { const r = acharLeitura(t.materia, t.topico); return r?.a && r.mat.id === it.mat.id && r.a.id === it.a.id; }) || null;
+    CTX.set(k, { mat: it.mat, a: it.a, hist: HIST, topicoId: tp?.id || null, materia: tp?.materia || it.mat.nome });
+  }
+  return CTX.get(k);
+}
+
+export async function render(el, query) {
+  // Vindo do calendário: "Fazer questões desse assunto" (?m=materia&a=assunto&t=topico) ou link antigo (?topico=id)
+  const tId = query?.get('t') || query?.get('topico');
+  const tp = tId ? (S.topicos || []).find((t) => t.id === tId) : null;
+  // Entrando pelo menu depois de vir do calendário: começa sem o filtro daquele assunto
+  if (!query?.get('m') && !tp && topicoFixo) { F = { m: '', a: '', modo: '', status: '', busca: '', ordem: 'mix', pag: 0 }; topicoFixo = null; }
+  if (query?.get('m') || tp) {
+    let m = query.get('m') || '', a = query.get('a') || '';
+    if (!m && tp) { const r = acharLeitura(tp.materia, tp.topico); if (r) { m = r.mat.id; a = r.a?.id || ''; } }
+    F = { ...F, m, a, pag: 0, status: '' };
+    topicoFixo = tp && m && a ? { k: m + '/' + a, tp } : null;
+  }
+  el.innerHTML = `<div class="qb"><div class="qb-hero"><div><div class="mono up">Banco de questões</div><h1>Questões</h1><p class="muted">Carregando o banco…</p></div></div></div>`;
+  if (!BANCO) BANCO = montarBanco();
+  if (!HIST) HIST = await carregarHist();
+  CTX.clear();
+  const tot = BANCO.lista.length, nME = BANCO.lista.filter((x) => x.q.alts).length;
+  const daCal = tp && F.m;
+  el.innerHTML = `
+  <div class="qb">
+    <div class="qb-hero">
+      <div class="qb-hero-txt"><div class="mono up">Banco de questões</div><h1>Questões</h1>
+        <p class="muted">Todas as questões do R.I.S.K. em um só lugar, de todas as matérias. Filtre por matéria, assunto e modo; cada resposta vem com o gabarito comentado e entra no seu histórico.</p></div>
+      <div class="qb-total" title="Total de questões no banco"><b>${num(tot)}</b><span>questões no banco</span><small>${num(tot - nME)} Certo/Errado · ${num(nME)} múltipla escolha</small></div>
+    </div>
+    ${daCal ? `<div class="qb-cal"><span>📅</span><div><small>Do seu calendário</small><b>${esc(tp.topico)}</b></div><span class="sp"></span><a class="btn sec mini" href="#/calendario">← Voltar ao calendário</a></div>` : ''}
+    <div class="qb-filtros">
+      <div class="qb-f"><label>Matéria</label><select id="fM"><option value="">Todas as matérias</option>${BANCO.meta.map((m) => `<option value="${m.id}" ${m.id === F.m ? 'selected' : ''}>${esc(m.nome)} (${num(m.n)})</option>`).join('')}</select></div>
+      <div class="qb-f"><label>Assunto</label><select id="fA" ${F.m ? '' : 'disabled'}><option value="">${F.m ? 'Todos os assuntos' : 'Escolha a matéria primeiro'}</option>${(BANCO.meta.find((m) => m.id === F.m)?.assuntos || []).map((a) => `<option value="${a.id}" ${a.id === F.a ? 'selected' : ''}>${esc(a.titulo)} (${num(a.n)})</option>`).join('')}</select></div>
+      <div class="qb-f qb-fmodo"><label>Modo</label><div class="qb-seg" id="fModo">${[['', 'Todos'], ['ce', 'Certo ou errado'], ['me', 'Múltipla escolha']].map(([v, n]) => `<button data-v="${v}" class="${F.modo === v ? 'ativo' : ''}">${n}</button>`).join('')}</div></div>
+      <div class="qb-f"><label>Situação</label><select id="fS">${[['', 'Todas'], ['novas', 'Nunca respondi'], ['erradas', 'Errei da última vez'], ['certas', 'Acertei da última vez']].map(([v, n]) => `<option value="${v}" ${F.status === v ? 'selected' : ''}>${n}</option>`).join('')}</select></div>
+      <div class="qb-f qb-busca"><label>Buscar no enunciado</label><input id="fB" value="${esc(F.busca)}" placeholder="Ex.: crase, contrapositiva, flagrante"></div>
+      <button class="linkbtn qb-limpa" id="fLimpa">Limpar filtros</button>
+    </div>
+    <div id="qbRlm"></div>
+    <div class="qb-barra">
+      <div><b id="qbN">0</b> <span class="muted">questões encontradas</span></div>
+      <div class="qb-sess" title="Nesta visita"><span>Nesta sessão:</span><b id="sF">${sessao.feitas}</b> respondidas · <b class="g" id="sO">${sessao.ok}</b> certas · <b class="r" id="sE">${sessao.feitas - sessao.ok}</b> erradas<i class="qb-sbar"><i id="sBar" style="width:${sessao.feitas ? Math.round((100 * sessao.ok) / sessao.feitas) : 0}%"></i></i></div>
+      <span class="sp"></span>
+      <div class="qb-seg mini" id="fOrd"><button data-v="mix" class="${F.ordem === 'mix' ? 'ativo' : ''}" title="Certo e Errado intercalados">Intercaladas</button><button data-v="rand" class="${F.ordem === 'rand' ? 'ativo' : ''}">🔀 Embaralhar</button></div>
+    </div>
+    <div id="qbLista"></div>
+    <div class="qb-pags" id="qbPags"></div>
+  </div>`;
+
+  const $ = (s) => el.querySelector(s);
+  $('#fM').onchange = (e) => { F.m = e.target.value; F.a = ''; F.pag = 0; topicoFixo = null; history.replaceState(null, '', '#/questoes'); render(el, null); };
+  $('#fA').onchange = (e) => { F.a = e.target.value; F.pag = 0; lista(el); };
+  $('#fS').onchange = (e) => { F.status = e.target.value; F.pag = 0; lista(el); };
+  let tb; $('#fB').oninput = (e) => { clearTimeout(tb); tb = setTimeout(() => { F.busca = e.target.value.trim(); F.pag = 0; lista(el); }, 250); };
+  el.querySelectorAll('#fModo button').forEach((b) => (b.onclick = () => { F.modo = b.dataset.v; F.pag = 0; el.querySelectorAll('#fModo button').forEach((x) => x.classList.toggle('ativo', x === b)); lista(el); }));
+  el.querySelectorAll('#fOrd button').forEach((b) => (b.onclick = () => { F.ordem = b.dataset.v; F.semente = Math.random(); F.pag = 0; el.querySelectorAll('#fOrd button').forEach((x) => x.classList.toggle('ativo', x === b)); lista(el); }));
+  $('#fLimpa').onclick = () => { F = { m: '', a: '', modo: '', status: '', busca: '', ordem: 'mix', pag: 0 }; topicoFixo = null; history.replaceState(null, '', '#/questoes'); render(el, null); };
+  lista(el);
+}
+
+const semAcento = (t) => String(t).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+function filtrar() {
+  const b = F.busca ? semAcento(F.busca) : '';
+  let L = BANCO.lista.filter((it) => (!F.m || it.mat.id === F.m) && (!F.a || it.a.id === F.a)
+    && (!F.modo || (F.modo === 'me') === !!it.q.alts)
+    && (!F.status || (() => { const h = HIST.get(it.id); return F.status === 'novas' ? !h : F.status === 'erradas' ? h && !h.acertou : h && h.acertou; })())
+    && (!b || semAcento(it.q.p).includes(b)));
+  if (F.ordem === 'rand') { let s = Math.floor((F.semente || 0.5) * 1e9) >>> 0; L = L.map((x) => { s = (Math.imul(s, 1103515245) + 12345) >>> 0; return [s, x]; }).sort((x, y) => x[0] - y[0]).map((x) => x[1]); }
+  else { const qs = L.map((x) => x.q); L = intercalar(qs, qs.map((_, i) => i)).map((i) => L[i]); }
+  return L;
+}
+
+function lista(el) {
+  const L = filtrar(), pags = Math.max(1, Math.ceil(L.length / POR_PAG));
+  F.pag = Math.min(F.pag, pags - 1);
+  el.querySelector('#qbN').textContent = num(L.length);
+  // RLM: atalho para o quadro de tabela-verdade
+  el.querySelector('#qbRlm').innerHTML = F.m === 'rlm' ? `<a class="qb-tv" href="#/tabela-verdade"><span>🧩</span><div><b>Quadro interativo de tabela-verdade</b><small>Monte a tabela célula por célula e veja em verde o que acertou e em vermelho o que errou, com o porquê. Um desafio novo por dia.</small></div><span class="qb-tv-ir">Treinar →</span></a>` : '';
+  const pedaco = L.slice(F.pag * POR_PAG, (F.pag + 1) * POR_PAG);
+  const box = el.querySelector('#qbLista');
+  box.innerHTML = pedaco.length ? pedaco.map((it, k) => `<article class="qb-q lt-q" data-k="${k}" style="--c:${it.mat.cor}">
+      <header class="qb-qcab"><span class="qb-num">${num(F.pag * POR_PAG + k + 1)}</span><span class="qb-mat"><i style="background:${it.mat.cor}"></i>${esc(it.mat.nome)}</span><span class="qb-ass" title="${esc(it.a.titulo)}">${esc(it.a.titulo)}</span><span class="sp"></span><span class="qb-modo">${it.q.alts ? 'Múltipla escolha' : 'Certo ou errado'}</span></header>
+      <div class="qb-corpo">${htmlQuestao(it.q, ctxDe(it))}</div></article>`).join('')
+    : `<div class="qb-vazio"><b>Nenhuma questão com esses filtros.</b><p class="muted">Troque o modo, a situação ou limpe a busca.</p></div>`;
+  box.querySelectorAll('.qb-q').forEach((d) => {
+    const it = pedaco[+d.dataset.k], ctx = ctxDe(it);
+    d.querySelectorAll('[data-r]').forEach((b) => (b.onclick = () => {
+      if (d.dataset.feito) return; d.dataset.feito = 1;
+      const ok = responder(d, it.q, b.dataset.r);
+      registrar(ctx, it.q, ok);
+      sessao.feitas++; if (ok) sessao.ok++;
+      el.querySelector('#sF').textContent = sessao.feitas; el.querySelector('#sO').textContent = sessao.ok; el.querySelector('#sE').textContent = sessao.feitas - sessao.ok;
+      el.querySelector('#sBar').style.width = Math.round((100 * sessao.ok) / sessao.feitas) + '%';
+    }));
+  });
+  // Paginação numerada
+  const pg = el.querySelector('#qbPags');
+  if (pags <= 1) { pg.innerHTML = ''; return; }
+  const nums = new Set([0, pags - 1, F.pag - 1, F.pag, F.pag + 1].filter((x) => x >= 0 && x < pags));
+  const ord = [...nums].sort((x, y) => x - y);
+  pg.innerHTML = `<button data-p="${F.pag - 1}" ${F.pag ? '' : 'disabled'}>‹ Anterior</button>${ord.map((p, i) => `${i && p - ord[i - 1] > 1 ? '<span>…</span>' : ''}<button data-p="${p}" class="${p === F.pag ? 'ativo' : ''}">${p + 1}</button>`).join('')}<button data-p="${F.pag + 1}" ${F.pag < pags - 1 ? '' : 'disabled'}>Próxima ›</button>`;
+  pg.querySelectorAll('[data-p]').forEach((b) => (b.onclick = () => { F.pag = +b.dataset.p; lista(el); el.querySelector('.qb-barra').scrollIntoView({ behavior: 'smooth', block: 'start' }); }));
 }

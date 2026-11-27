@@ -16,6 +16,8 @@ const PAGINAS = {
   calendario: ['Calendário', '▦', () => import('./pages/calendario.js')],
   horas: ['Horas de estudo', '⏱', () => import('./pages/horas.js')],
   registrar: ['Registrar questões', '✎', () => import('./pages/registrar.js')],
+  questoes: ['Questões', '🎯', () => import('./pages/questoes.js')],
+  'tabela-verdade': ['Tabela-verdade', '🧩', () => import('./pages/tabela-verdade.js')],
   leitura: ['Conteúdo programático', '📖', () => import('./pages/leitura.js')],
   redacao: ['Treino de redação', '✍️', () => import('./pages/redacao-treino.js')],
   apostilas: ['Apostilas', '📚', () => import('./pages/apostilas.js')],
@@ -25,6 +27,8 @@ const PAGINAS = {
   perfil: ['Perfil', '☺', () => import('./pages/perfil.js')],
   admin: ['Administrador', '⚙', () => import('./pages/admin.js')],
 };
+// Páginas que existem, mas não aparecem no menu (abertas por links de dentro do app)
+const OCULTAS = new Set(['tabela-verdade']);
 const root = document.getElementById('app');
 
 export function tema() { return document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'); }
@@ -78,7 +82,7 @@ function faixaVencimento() {
 }
 
 function layout(atual) {
-  const itens = Object.entries(PAGINAS).filter(([k]) => k !== 'admin' || isAdmin());
+  const itens = Object.entries(PAGINAS).filter(([k]) => (k !== 'admin' || isAdmin()) && !OCULTAS.has(k));
   const ativos = S.editais.filter((e) => e.ativo !== false);
   const vis = visaoAluno();
   return `${MODO_DEMO ? '<div class="demo">Modo demonstração – dados de exemplo salvos só neste navegador</div>' : ''}${vis ? faixaVisao(vis) : ''}

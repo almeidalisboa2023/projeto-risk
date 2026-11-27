@@ -110,7 +110,7 @@ export function linksDoTopico(t, concurso = '') {
   return {
     aula: t.link_aula || 'https://www.youtube.com/results?search_query=' + encodeURIComponent(`aula ${semNum} ${conc}`),
     pdf: t.link_pdf || 'https://www.google.com/search?q=' + encodeURIComponent(`${semNum} pdf apostila gratuita ${conc}`),
-    questoes: t.link_questoes || `#/questoes?topico=${t.id}`,
+    questoes: t.link_questoes || `#/questoes?t=${t.id}`,
     leis,
   };
 }
@@ -125,7 +125,7 @@ export function linksHTML(t, concurso) {
     ${ext(L.aula, 'Aula grátis (YouTube)')}
     ${ext(L.pdf, 'Material em PDF')}
     ${L.leis.map(([n, u]) => ext(u, 'Lei seca: ' + n)).join('')}
-    <a class="link" href="${esc(L.questoes)}">Questões do banco →</a>
+    <a class="link" href="${esc(L.questoes)}">🎯 Fazer questões desse assunto →</a>
   </div>`;
 }
 
