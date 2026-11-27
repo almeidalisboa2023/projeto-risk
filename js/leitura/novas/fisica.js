@@ -11,9 +11,12 @@ export default {
 "assuntos": [
 {
 "id": "cinematica",
-"titulo": "Cinemática: MRU, MRUV e queda livre",
-"arts": "Movimento",
+"titulo": "Cinemática escalar e vetorial: MRU, MRUV, queda livre e lançamentos",
+"arts": "Cinemática",
 "chaves": [
+"vetores",
+"lancamento obliquo",
+"lancamento horizontal",
 "cinematica",
 "mru",
 "mruv",
@@ -175,8 +178,34 @@ export default {
 ]
 },
 {
+"id": "movimento-circular",
+"titulo": "Movimento circular: MCU, aceleração centrípeta e curvas",
+"arts": "Movimento circular",
+"chaves": [
+"movimento circular",
+"mcu",
+"velocidade angular",
+"frequencia",
+"periodo",
+"aceleracao centripeta",
+"forca centripeta",
+"curvas",
+"polias",
+"engrenagens"
+],
+"html": "<h3>Ideia central</h3>\n<ul><li>No <b>movimento circular uniforme (MCU)</b>, o módulo da velocidade é constante, mas a <b>direção muda</b> a todo instante: por isso existe <b>aceleração centrípeta</b>, apontada para o centro, a_cp = v²/R.</li><li>Pontes entre grandezas: <b>v = ω·R</b> e <b>ω = 2π·f = 2π/T</b>.</li></ul>",
+"quiz": [
+{
+"p": "No movimento circular uniforme, a velocidade tem módulo constante, mas o corpo possui aceleração, dirigida para o centro da trajetória.",
+"c": true,
+"x": "Ideia: a direção da velocidade muda continuamente, e toda mudança de velocidade exige aceleração >> Fórmula: a_cp = v²/R, apontando para o centro.",
+"e": "MCU tem aceleração centrípeta."
+}
+]
+},
+{
 "id": "dinamica",
-"titulo": "Dinâmica: leis de Newton, atrito e plano inclinado",
+"titulo": "Leis de Newton e suas aplicações: forças, atrito, plano inclinado e sistemas",
 "arts": "Leis de Newton",
 "chaves": [
 "leis de newton",
@@ -325,38 +354,50 @@ export default {
 ]
 },
 {
+"id": "trabalho-potencia",
+"titulo": "Trabalho, potência e rendimento",
+"arts": "Trabalho e potência",
+"chaves": [
+"trabalho",
+"forca constante",
+"teorema da energia cinetica",
+"trabalho do peso",
+"potencia",
+"potencia media",
+"rendimento",
+"cavalo-vapor",
+"watt"
+],
+"html": "<h3>Ideia central</h3>\n<ul><li><b>Trabalho</b>: τ = F·d·cos θ (joules). <b>Teorema da energia cinética</b>: o trabalho da resultante é igual à variação da energia cinética, τ = ΔEc.</li><li><b>Potência</b>: P = τ/Δt = F·v (watts). <b>Rendimento</b>: η = P_útil / P_total.</li></ul>",
+"quiz": [
+{
+"p": "O trabalho realizado pela força resultante sobre um corpo é igual à variação de sua energia cinética.",
+"c": true,
+"x": "Ideia: é o teorema da energia cinética >> Fórmula: τ_R = Ec_final − Ec_inicial.",
+"e": "Teorema da energia cinética."
+}
+]
+},
+{
 "id": "energia",
-"titulo": "Trabalho, energia, potência, quantidade de movimento e colisões",
-"arts": "Energia e momento",
+"titulo": "Energia cinética, energia potencial, atrito e conservação da energia",
+"arts": "Energia",
 "chaves": [
 "energia cinetica",
 "energia potencial",
+"energia potencial elastica",
+"energia mecanica",
 "conservacao da energia",
-"potencia",
-"quantidade de movimento",
-"impulso",
-"colisoes",
-"airbag"
+"atrito",
+"energia dissipada"
 ],
-"html": "<h3>Energia</h3>\n<ul><li><b>Cinética</b>: Ec = m·v²/2 (depende do <b>quadrado</b> da velocidade). <b>Potencial gravitacional</b>: Ep = m·g·h.</li><li><b>Conservação</b>: sem atrito, a energia mecânica (Ec + Ep) se conserva.</li><li><b>Trabalho</b>: τ = F·d·cos θ. <b>Teorema da energia cinética</b>: τ = ΔEc. <b>Potência</b>: P = τ/Δt (watts).</li></ul>\n<h3>Quantidade de movimento</h3>\n<ul><li><b>Q = m·v</b> (vetorial). <b>Impulso</b>: I = F·Δt = ΔQ.</li><li><b>Air bag</b> e zonas de deformação aumentam o <b>tempo</b> de colisão, reduzindo a <b>força média</b> sobre os ocupantes (mesmo impulso, maior Δt).</li><li>Nas colisões, a quantidade de movimento do sistema <b>se conserva</b>. <b>Colisão perfeitamente inelástica</b>: os corpos seguem juntos, com a maior perda de energia cinética.</li></ul>\n<div class=\"lt-ex\"><b class=\"lt-tit\">✍ Exemplo</b><p>Carro de 1.000 kg a 20 m/s bate em outro parado de 1.000 kg e seguem juntos: Q antes = 20.000; depois: 2.000·v → v = 10 m/s.</p></div>",
+"html": "<h3>Energia</h3>\n<ul><li><b>Cinética</b>: Ec = m·v²/2 (depende do <b>quadrado</b> da velocidade). <b>Potencial gravitacional</b>: Ep = m·g·h.</li><li><b>Conservação</b>: sem atrito, a energia mecânica (Ec + Ep) se conserva.</li></ul>",
 "quiz": [
 {
 "p": "Dobrando a velocidade de um veículo, sua energia cinética fica quatro vezes maior.",
 "c": true,
 "x": "Ec = mv²/2: proporcional ao quadrado da velocidade.",
 "e": "Energia cinética."
-},
-{
-"p": "O air bag reduz a força média sobre o ocupante porque aumenta o tempo de interação durante a colisão.",
-"c": true,
-"x": "Pelo teorema do impulso, F·Δt = ΔQ: maior Δt, menor F.",
-"e": "Impulso."
-},
-{
-"p": "Em uma colisão perfeitamente inelástica, a energia cinética total do sistema se conserva.",
-"c": false,
-"x": "O que se conserva é a quantidade de movimento. A energia cinética tem a maior perda possível.",
-"e": "Colisões."
 },
 {
 "p": "Um veículo de 800 kg a 10 m/s tem energia cinética de",
@@ -471,6 +512,37 @@ export default {
 "Seria cúbico."
 ],
 "e": "Energia cinética."
+}
+]
+},
+{
+"id": "quantidade-movimento",
+"titulo": "Quantidade de movimento, impulso, conservação e colisões",
+"arts": "Quantidade de movimento",
+"chaves": [
+"quantidade de movimento",
+"momento linear",
+"impulso",
+"teorema do impulso",
+"conservacao da quantidade de movimento",
+"colisoes",
+"coeficiente de restituicao",
+"airbag",
+"explosoes"
+],
+"html": "<h3>Ideia central</h3>\n<ul><li><b>Q = m·v</b> (vetorial). <b>Impulso</b>: I = F·Δt = ΔQ.</li><li><b>Air bag</b> e zonas de deformação aumentam o <b>tempo</b> de colisão, reduzindo a <b>força média</b> sobre os ocupantes (mesmo impulso, maior Δt).</li><li>Nas colisões, a quantidade de movimento do sistema <b>se conserva</b>. <b>Colisão perfeitamente inelástica</b>: os corpos seguem juntos, com a maior perda de energia cinética.</li></ul>\n<div class=\"lt-ex\"><b class=\"lt-tit\">✍ Exemplo</b><p>Carro de 1.000 kg a 20 m/s bate em outro parado de 1.000 kg e seguem juntos: Q antes = 20.000; depois: 2.000·v → v = 10 m/s.</p></div>",
+"quiz": [
+{
+"p": "O air bag reduz a força média sobre o ocupante porque aumenta o tempo de interação durante a colisão.",
+"c": true,
+"x": "Pelo teorema do impulso, F·Δt = ΔQ: maior Δt, menor F.",
+"e": "Impulso."
+},
+{
+"p": "Em uma colisão perfeitamente inelástica, a energia cinética total do sistema se conserva.",
+"c": false,
+"x": "O que se conserva é a quantidade de movimento. A energia cinética tem a maior perda possível.",
+"e": "Colisões."
 }
 ]
 },

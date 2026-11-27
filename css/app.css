@@ -1649,3 +1649,21 @@ body { font-feature-settings: 'kern', 'liga'; -webkit-font-smoothing: antialiase
 @media (max-width: 640px) { .qb-fmodo { grid-column: auto; } .qb-fmodo .qb-seg { flex-wrap: wrap; } }
 .qb-q, .qb-q.ok, .qb-q.erro { color: var(--txt); }
 .pp { color: var(--txt); }
+
+/* ===== Física: resolução passo a passo interativa ===== */
+.fz-oculto { display: none !important; }
+.fz-dados { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.fz-dados span { font-family: var(--mono); font-size: 13px; padding: 4px 10px; border-radius: 10px; background: color-mix(in srgb, #2C5282 14%, var(--card)); border: 1px solid color-mix(in srgb, #2C5282 35%, var(--borda)); }
+.fz-dados i { font-style: normal; font-weight: 700; color: #4A90D9; }
+.fz-form { display: table; margin-top: 8px; padding: 8px 14px; border-radius: 10px; font-family: var(--mono); font-size: 15px; font-weight: 700; background: color-mix(in srgb, #E67E22 12%, var(--card)); border: 1px solid color-mix(in srgb, #E67E22 40%, var(--borda)); }
+.fz-conta { margin-top: 8px; font-family: var(--mono); font-size: 14px; display: grid; gap: 4px; }
+.fz-conta div { padding: 4px 10px; border-left: 3px solid color-mix(in srgb, #E67E22 55%, transparent); background: color-mix(in srgb, var(--txt) 4%, transparent); border-radius: 0 8px 8px 0; }
+.fz-conta b { color: #E67E22; }
+.fz-res { margin-top: 8px; display: table; padding: 6px 14px; border-radius: 10px; font-weight: 700; font-size: 15px; background: color-mix(in srgb, var(--verde) 14%, var(--card)); border: 1px solid color-mix(in srgb, var(--verde) 45%, var(--borda)); }
+.fz-passo p { margin: 6px 0 0; font-size: 14px; }
+.fz-k-atencao { background: color-mix(in srgb, #E53E3E 6%, transparent); }
+.fz-ctl { display: flex; gap: 12px; align-items: center; padding: 10px 14px; border-top: 1px solid var(--borda); }
+.fz-formulario { border-top: 1px solid var(--borda); padding: 8px 14px; font-size: 13.5px; }
+.fz-formulario summary { cursor: pointer; font-weight: 600; color: var(--ouro); }
+.fz-formulario div { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.fz-formulario code { font-family: var(--mono); font-size: 12.5px; padding: 3px 8px; border-radius: 8px; background: var(--pill); color: var(--pill-txt); }

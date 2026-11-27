@@ -73604,7 +73604,6 @@ export const PROFUNDO = {
 "Não existe esse limite no Windows.",
 "A RAM não limita o tamanho de arquivos copiados."
 ],
-"prof": "Letra C.",
 "x": "Atenção: formatar apaga o conteúdo do pendrive.",
 "e": "FAT32: 4 GB"
 },
@@ -73625,7 +73624,6 @@ export const PROFUNDO = {
 "O touchscreen é híbrido.",
 "O pendrive é de entrada e saída."
 ],
-"prof": "Letra B.",
 "x": "Dispositivos de armazenamento são classificados como de entrada e saída.",
 "e": "Entrada: scanner, microfone"
 },
@@ -73646,7 +73644,6 @@ export const PROFUNDO = {
 "640 não dá execução a ninguém.",
 "570 inverte dono e grupo."
 ],
-"prof": "Letra C.",
 "x": "Some r = 4, w = 2, x = 1 por classe.",
 "e": "750 = rwxr-x---"
 },
@@ -73667,7 +73664,6 @@ export const PROFUNDO = {
 "Correta: bloqueia o computador, mantendo a sessão.",
 "Windows + M minimiza as janelas."
 ],
-"prof": "Letra D.",
 "x": "O bloqueio de tela é uma medida básica de segurança.",
 "e": "Windows + L bloqueia"
 },
@@ -73688,7 +73684,6 @@ export const PROFUNDO = {
 "ls lista, não entra no diretório.",
 "rmdir remove diretório."
 ],
-"prof": "Letra B.",
 "x": "~ representa /home/usuario.",
 "e": "mkdir, cd, touch"
 },
@@ -74303,7 +74298,6 @@ export const PROFUNDO = {
 "A conexão é por cabos; o repetidor não faz NAT.",
 "O hub não faz NAT."
 ],
-"prof": "Letra B.",
 "x": "O roteador doméstico costuma reunir roteador, switch e access point.",
 "e": "Switch → roteador"
 },
@@ -74324,7 +74318,6 @@ export const PROFUNDO = {
 "Correta: a tradução do nome em IP é que falhou.",
 "O ARP atua na rede local, entre IP e MAC."
 ],
-"prof": "Letra D.",
 "x": "Teste com nslookup e limpe o cache com ipconfig /flushdns.",
 "e": "Nome falha, IP funciona: DNS"
 },
@@ -74345,7 +74338,6 @@ export const PROFUNDO = {
 "Esses valores são de uma /25.",
 "Esses valores são de uma /24."
 ],
-"prof": "Letra C.",
 "x": "/26 = 64 endereços por sub-rede.",
 "e": "/26: 62 hosts"
 },
@@ -74366,7 +74358,6 @@ export const PROFUNDO = {
 "O switch comum atua na camada de enlace (MAC).",
 "HTTP é da camada de aplicação."
 ],
-"prof": "Letra C.",
 "x": "Rede: IP; transporte: TCP/UDP.",
 "e": "IP = rede; TCP/UDP = transporte"
 },
@@ -74387,7 +74378,6 @@ export const PROFUNDO = {
 "O usuário não controla a rede do hotel, e ocultar o SSID não protege.",
 "O Telnet não criptografa."
 ],
-"prof": "Letra B.",
 "x": "Em redes públicas, há risco de interceptação e de redes falsas (evil twin).",
 "e": "Wi-Fi pública: VPN"
 },
@@ -75072,7 +75062,6 @@ export const PROFUNDO = {
 "DDoS derruba serviços por sobrecarga.",
 "Sniffing é captura de tráfego na rede."
 ],
-"prof": "Letra B.",
 "x": "O clique no link de uma mensagem enganosa é a marca do phishing.",
 "e": "Phishing: mensagem + link falso"
 },
@@ -75093,7 +75082,6 @@ export const PROFUNDO = {
 "Assinar com a chave de Bruno não prova que foi Ana.",
 "Ana nunca tem a chave privada de Bruno."
 ],
-"prof": "Letra B.",
 "x": "Assina com a sua privada; cifra com a pública do outro.",
 "e": "Assinar privada; cifrar pública do destino"
 },
@@ -75114,7 +75102,6 @@ export const PROFUNDO = {
 "Os incrementais sozinhos não contêm os arquivos inalterados.",
 "Ignora as alterações de quinta e a cadeia anterior."
 ],
-"prof": "Letra C.",
 "x": "Incremental exige a cadeia inteira.",
 "e": "Cadeia de incrementais"
 },
@@ -75135,7 +75122,6 @@ export const PROFUNDO = {
 "Essa é função do firewall.",
 "A VPN usa rede pública e depende da criptografia."
 ],
-"prof": "Letra C.",
 "x": "Proxy intermedeia e registra.",
 "e": "Proxy"
 },
@@ -75156,7 +75142,6 @@ export const PROFUNDO = {
 "Defacement altera o site verdadeiro.",
 "Spoofing de e-mail falsifica o remetente."
 ],
-"prof": "Letra C.",
 "x": "Endereço digitado certo + site falso = pharming.",
 "e": "Pharming: hosts/DNS"
 },
@@ -75177,7 +75162,6 @@ export const PROFUNDO = {
 "Correta.",
 "Isso é screenlogger."
 ],
-"prof": "Letra D.",
 "x": "Botnet: rede de zumbis.",
 "e": "Bot e botnet"
 },
@@ -75198,7 +75182,6 @@ export const PROFUNDO = {
 "Correta: a rede de visitantes pouco influi na principal porta de entrada (e-mail e vulnerabilidades).",
 "O phishing é o principal vetor inicial."
 ],
-"prof": "Letra D.",
 "x": "Ransomware: backup, patch, privilégio, treinamento.",
 "e": "Prevenção ransomware"
 },
@@ -75219,7 +75202,6 @@ export const PROFUNDO = {
 "MD5 e SHA-1 têm colisões conhecidas e são desaconselhados.",
 "Hash não cifra; garante integridade."
 ],
-"prof": "Letra C.",
 "x": "Hash: tamanho fixo, mão única, integridade.",
 "e": "Hash"
 },
@@ -75960,7 +75942,6 @@ export const PROFUNDO = {
 "Ignoraria o zero.",
 "Texto no intervalo não gera erro na MÉDIA."
 ],
-"prof": "Letra C.",
 "x": "Vazia e texto ignorados; zero entra.",
 "e": "MÉDIA"
 },
@@ -75981,7 +75962,6 @@ export const PROFUNDO = {
 "Ignora o deslocamento de coluna.",
 "A absoluta não muda."
 ],
-"prof": "Letra C.",
 "x": "Só o que não tem $ anda.",
 "e": "Cópia de fórmula"
 },
@@ -76002,7 +75982,6 @@ export const PROFUNDO = {
 "No Writer, Ctrl+B é negrito.",
 "Ctrl+G alinha à direita no Word."
 ],
-"prof": "Letra B.",
 "x": "Word pt-BR salva com Ctrl+B.",
 "e": "Salvar"
 },
@@ -76023,7 +76002,6 @@ export const PROFUNDO = {
 "Só fixa linhas e colunas na tela.",
 "É recurso do Word para documentos personalizados."
 ],
-"prof": "Letra C.",
 "x": "Resumo de grandes bases: tabela dinâmica.",
 "e": "Tabela dinâmica"
 },
@@ -76044,7 +76022,6 @@ export const PROFUNDO = {
 "O $ trava coluna ou linha.",
 "O Calc usa ponto."
 ],
-"prof": "Letra B.",
 "x": "Excel ! ; Calc .",
 "e": "Outra planilha"
 },
@@ -76673,7 +76650,6 @@ export const PROFUNDO = {
 "Assunto não recebe endereços.",
 "Responder para só define para onde vão as respostas."
 ],
-"prof": "Letra C.",
 "x": "Também protege dados pessoais (LGPD).",
 "e": "Cco"
 },
@@ -76694,7 +76670,6 @@ export const PROFUNDO = {
 "MIME é formato de conteúdo.",
 "O Exchange sincroniza."
 ],
-"prof": "Letra A.",
 "x": "Solução: reconfigurar com IMAP ou Exchange.",
 "e": "POP3 remove do servidor"
 },
@@ -76715,7 +76690,6 @@ export const PROFUNDO = {
 "Nenhuma das respostas inclui anexos.",
 "Só o encaminhamento inclui."
 ],
-"prof": "Letra C.",
 "x": "Prefixos: RE (responder) e ENC/FW (encaminhar).",
 "e": "Encaminhar = anexos"
 },
@@ -76736,7 +76710,6 @@ export const PROFUNDO = {
 "DMARC não lista servidores.",
 "SPF não assina."
 ],
-"prof": "Letra B.",
 "x": "Os três são publicados no DNS do domínio.",
 "e": "DKIM, SPF, DMARC"
 },
@@ -76757,7 +76730,6 @@ export const PROFUNDO = {
 "Pode espalhar o golpe; o correto é reportar à segurança.",
 "A janela anônima não protege contra phishing."
 ],
-"prof": "Letra C.",
 "x": "Urgência e domínio diferente são sinais clássicos.",
 "e": "Phishing: reportar"
 },
@@ -77589,7 +77561,6 @@ export const PROFUNDO = {
 "DaaS é área de trabalho virtual.",
 "Modelo de implantação, não de serviço."
 ],
-"prof": "Letra B.",
 "x": "PaaS: só a aplicação.",
 "e": "Modelo de serviço"
 },
@@ -77610,7 +77581,6 @@ export const PROFUNDO = {
 "Quem decide é o controlador.",
 "Não está entre as hipóteses do art. 11."
 ],
-"prof": "Letra C.",
 "x": "Art. 4º, III.",
 "e": "LGPD"
 },
@@ -77631,7 +77601,6 @@ export const PROFUNDO = {
 "Busca itens que ocorrem juntos.",
 "Aprende por recompensas."
 ],
-"prof": "Letra C.",
 "x": "Sem rótulo: agrupamento.",
 "e": "Mineração"
 },
@@ -77652,7 +77621,6 @@ export const PROFUNDO = {
 "Pivot gira os eixos.",
 "Dice seleciona subcubo em várias dimensões."
 ],
-"prof": "Letra C.",
 "x": "Detalhar: drill down.",
 "e": "OLAP"
 },
@@ -78309,7 +78277,6 @@ export const PROFUNDO = {
 "Anotações não são exibidas ao público.",
 "Apresentação personalizada seleciona slides."
 ],
-"prof": "Letra B.",
 "x": "Padronização: slide mestre.",
 "e": "Slide mestre"
 },
@@ -78330,7 +78297,6 @@ export const PROFUNDO = {
 "A legenda entraria junto.",
 "A foto esperaria o título e a legenda, um clique."
 ],
-"prof": "Letra C.",
 "x": "Com = junto; Após = depois.",
 "e": "Opções de início"
 },
@@ -78351,7 +78317,6 @@ export const PROFUNDO = {
 "Leitura é revisão em janela.",
 ".potx é modelo."
 ],
-"prof": "Letra B.",
 "x": "Quiosque + intervalos.",
 "e": "Quiosque"
 },
@@ -78372,7 +78337,6 @@ export const PROFUNDO = {
 "Contém macros.",
 "É do Impress (ODF), e o PowerPoint também o abre."
 ],
-"prof": "Letra C.",
 "x": ".ppsx = apresentação direta.",
 "e": "Formatos"
 },
@@ -78393,7 +78357,6 @@ export const PROFUNDO = {
 "O mestre é editado em Exibir > Slide Mestre.",
 "O Normal exibe o painel de anotações."
 ],
-"prof": "Letra B.",
 "x": "Classificação: reorganizar.",
 "e": "Modos de exibição"
 },
@@ -78414,7 +78377,6 @@ export const PROFUNDO = {
 "Não protege nada.",
 "O .ppsx mantém o conteúdo e pode ser editado."
 ],
-"prof": "Letra C.",
 "x": "Ocultar não protege.",
 "e": "Compartilhamento seguro"
 },
@@ -79176,7 +79138,6 @@ export const PROFUNDO = {
 "A chave pública não serve para assinar.",
 "Cifrar com a própria privada não dá sigilo."
 ],
-"prof": "Letra B.",
 "x": "Assina com a própria privada; cifra com a pública do destinatário.",
 "e": "Assinar + cifrar"
 },
@@ -79197,7 +79158,6 @@ export const PROFUNDO = {
 "Correta.",
 "Adota modelo hierárquico com raiz única."
 ],
-"prof": "Letra D.",
 "x": "ITI = AC-Raiz, sem emitir a usuário final.",
 "e": "ICP-Brasil"
 },
@@ -79218,7 +79178,6 @@ export const PROFUNDO = {
 "A LGPL admite a ligação por programas proprietários.",
 "Correta: copyleft forte exige que o produto distribuído seja GPL."
 ],
-"prof": "Letra E.",
 "x": "GPL contamina a obra derivada distribuída.",
 "e": "GPL x permissivas"
 },
@@ -79239,7 +79198,6 @@ export const PROFUNDO = {
 "O certificado vincula chave à identidade.",
 "Carimbo comprova data e hora."
 ],
-"prof": "Letra C.",
 "x": "Assinatura: autenticidade, integridade, não repúdio.",
 "e": "Mecanismo x princípio"
 },
@@ -79260,7 +79218,6 @@ export const PROFUNDO = {
 "Open source exige permissão para modificar e redistribuir.",
 "É protegido; a licença concede as liberdades."
 ],
-"prof": "Letra C.",
 "x": "Livre não é sinônimo de grátis.",
 "e": "Categorias"
 },
@@ -79281,7 +79238,6 @@ export const PROFUNDO = {
 "No A3 a chave não é exportável.",
 "Não resolve o comprometimento."
 ],
-"prof": "Letra C.",
 "x": "Perda: revogar.",
 "e": "Revogação"
 }
@@ -79839,7 +79795,6 @@ export const PROFUNDO = {
 "Ctrl + T abre aba nova vazia; Ctrl + F localiza.",
 "Alt + F4 fecha a janela."
 ],
-"prof": "Letra B.",
 "x": "Ctrl + H = histórico; Ctrl + Shift + Del = limpar dados.",
 "e": "Ctrl + Shift + T, J, D"
 },
@@ -79860,7 +79815,6 @@ export const PROFUNDO = {
 "Não oferece proteção contra malware.",
 "Não criptografa; para isso, HTTPS e VPN."
 ],
-"prof": "Letra C.",
 "x": "Útil em computadores compartilhados.",
 "e": "Anônima: não grava localmente"
 },
@@ -79881,7 +79835,6 @@ export const PROFUNDO = {
 "OR inclui 2015 como alternativa.",
 "allintext não restringe ao título e não exclui 2015."
 ],
-"prof": "Letra B.",
 "x": "O hífen deve ficar colado ao termo excluído.",
 "e": "site:, intitle:, -"
 },
@@ -79902,7 +79855,6 @@ export const PROFUNDO = {
 "IV está errada.",
 "IV está errada."
 ],
-"prof": "Letra C.",
 "x": "O conteúdo das comunicações exige ordem judicial (art. 7º, III).",
 "e": "Marco Civil: prazos e cautelar"
 },
@@ -79923,7 +79875,6 @@ export const PROFUNDO = {
 "A janela anônima não protege contra phishing.",
 "SMS é canal comum de golpes (smishing)."
 ],
-"prof": "Letra C.",
 "x": "Acesse serviços pelo site ou aplicativo oficial.",
 "e": "Smishing e domínio falso"
 },
@@ -92821,6 +92772,5332 @@ export const PROFUNDO = {
 "prof": "Lei Orgânica, art. 140, § 2º.",
 "x": "O art. 140, § 2º afirma o contrário: As dotações orçamentárias e os créditos abertos serão consignados ao Poder Judiciário, recolhidas as importâncias respectivas à repartição competente apara atender ao disposto no Art. 100o, § 2º , da Constituição da República.",
 "e": "Afirmação, não negação."
+}
+]
+}
+},
+"fisica": {
+"cinematica": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>÷ 3,6</b><span>converte km/h em m/s</span></div><div class=\"lt-stat\"><b>v² = v₀² + 2aΔs</b><span>Torricelli: a equação sem o tempo</span></div><div class=\"lt-stat\"><b>g ≈ 10 m/s²</b><span>aceleração da gravidade usada nas provas</span></div><div class=\"lt-stat\"><b>45°</b><span>ângulo de alcance máximo no lançamento oblíquo</span></div></div>\n<p>A cinemática descreve <b>como</b> os corpos se movem, sem perguntar <b>por que</b> se movem (isso é tarefa da dinâmica). É o primeiro item do edital de Física da PRF (\"cinemática escalar, cinemática vetorial\") e a base de quase todo o restante: sem dominar velocidade, aceleração e as equações do MRU e do MRUV, não se resolvem questões de energia, de quantidade de movimento ou de movimento circular. A Cebraspe gosta de contextualizar os itens no trânsito: distância de parada, tempo de reação, fiscalização por radar, ultrapassagens, frenagem com velocidade dobrada. Esta leitura percorre todos os conceitos, sempre com contas feitas passo a passo, e termina com as pegadinhas mais frequentes.</p>\n<h3>1. Conceitos fundamentais</h3>\n<ul><li><b>Referencial</b>: corpo ou sistema em relação ao qual se descreve o movimento. <b>Repouso e movimento são relativos</b>: o passageiro sentado no ônibus está em repouso em relação ao ônibus e em movimento em relação à rodovia.</li><li><b>Ponto material (partícula)</b>: corpo cujas dimensões podem ser desprezadas <b>no problema analisado</b>. Um caminhão de 20 m é ponto material numa viagem de 500 km, mas <b>não</b> é quando se calcula o tempo para atravessar uma ponte de 30 m ou para ser ultrapassado. <b>Corpo extenso</b> é aquele cujas dimensões importam.</li><li><b>Trajetória</b>: linha formada pelas posições sucessivas do corpo. Também depende do referencial: uma lâmpada que se solta do teto de um trem em movimento cai em linha reta para quem está no trem e descreve um arco de parábola para quem está parado na plataforma.</li><li><b>Posição (espaço) s</b>: indica onde o corpo está em relação a uma origem, medida sobre a trajetória. O marco quilométrico de uma rodovia é um exemplo de posição: estar no km 120 não significa ter percorrido 120 km.</li><li><b>Deslocamento escalar Δs = s − s₀</b>: variação da posição. Pode ser <b>negativo</b> (movimento contrário à orientação da trajetória, ou <b>retrógrado</b>) ou <b>nulo</b> (o corpo voltou ao ponto de partida).</li><li><b>Distância percorrida</b>: soma de todos os trechos efetivamente percorridos, <b>sempre positiva</b>. Em uma ida e volta de 50 km, o deslocamento escalar é zero e a distância percorrida é 100 km.</li><li><b>Intervalo de tempo Δt = t − t₀</b>: no SI, medido em <b>segundos</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O passageiro sentado em um ônibus em movimento está em repouso, de forma absoluta</span><br>✅ <span class=\"certo\">repouso e movimento dependem do <b>referencial</b>; em relação à rodovia, ele está em movimento</span></li><li>❌ <span class=\"banca\">Um caminhão nunca pode ser considerado ponto material, por causa de seu tamanho</span><br>✅ <span class=\"certo\">depende do problema: em uma viagem longa, suas dimensões são <b>desprezíveis</b></span></li><li>❌ <span class=\"banca\">O deslocamento escalar e a distância percorrida são sempre iguais</span><br>✅ <span class=\"certo\">só coincidem quando o movimento ocorre <b>sem inversão de sentido</b>; numa ida e volta, o deslocamento é nulo</span></li></ol></div>\n<h3>2. Velocidade escalar média</h3>\n<ul><li><b>Velocidade escalar média</b>: v_m = Δs/Δt. Indica a rapidez média ao longo de um intervalo, <b>não</b> a velocidade em cada instante.</li><li><b>Unidades</b>: no SI, <b>m/s</b>; no trânsito, <b>km/h</b>. A conversão é a operação mais cobrada da cinemática:</li></ul>\n<table class=\"tab\"><thead><tr><th>Conversão</th><th>Operação</th><th>Exemplos</th></tr></thead><tbody><tr><td>km/h → m/s</td><td><b>dividir por 3,6</b></td><td>36 km/h = 10 m/s; 72 km/h = 20 m/s; 90 km/h = 25 m/s; 108 km/h = 30 m/s; 144 km/h = 40 m/s</td></tr><tr><td>m/s → km/h</td><td><b>multiplicar por 3,6</b></td><td>15 m/s = 54 km/h; 35 m/s = 126 km/h</td></tr><tr><td>minutos → horas</td><td>dividir por 60</td><td>45 min = 0,75 h; 20 min = 1/3 h</td></tr><tr><td>horas → segundos</td><td>multiplicar por 3.600</td><td>0,5 h = 1.800 s</td></tr></tbody></table>\n<ul><li><b>De onde vem o 3,6?</b> 1 km/h = 1.000 m / 3.600 s = 1/3,6 m/s. Por isso, para passar de km/h para m/s, divide-se por 3,6.</li><li><b>Velocidade média não é média das velocidades</b>. Se um carro percorre metade do <b>caminho</b> a 60 km/h e a outra metade a 120 km/h, a velocidade média <b>não</b> é 90 km/h. Como o carro passa <b>mais tempo</b> no trecho lento, a média fica mais próxima de 60.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Média em trechos de mesma distância</b><ol><li><span>Trecho de 120 km: 60 km a 60 km/h e 60 km a 120 km/h</span></li><li><span>Tempo no 1º trecho: 60/60 = 1 h</span></li><li><span>Tempo no 2º trecho: 60/120 = 0,5 h</span></li><li><span>v_m = distância total / tempo total = 120/1,5</span></li></ol><span class=\"res\">v_m = 80 km/h (e não 90 km/h)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Média em intervalos de mesmo tempo</b><ol><li><span>1 h a 60 km/h e 1 h a 120 km/h</span></li><li><span>Distâncias: 60 km e 120 km</span></li><li><span>v_m = 180 km / 2 h</span></li></ol><span class=\"res\">v_m = 90 km/h: com tempos iguais, a média aritmética funciona</span></div>\n<ul><li><b>Regra prática</b>: com <b>tempos iguais</b>, a velocidade média é a média aritmética das velocidades; com <b>distâncias iguais</b>, é a <b>média harmônica</b>: v_m = 2·v₁·v₂/(v₁ + v₂).</li><li><b>Velocidade instantânea</b>: velocidade em um instante específico, a que o <b>velocímetro</b> indica. É o limite da velocidade média para intervalos de tempo muito pequenos.</li><li><b>Fiscalização por velocidade média</b>: alguns sistemas medem o tempo que o veículo gasta entre dois pontos de controle; se a distância dividida pelo tempo superar o limite, comprova-se que, em algum momento, o veículo esteve acima do limite (se a média passou do limite, a velocidade instantânea também passou em algum trecho).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Fiscalização entre dois pontos</b><p>Dois pontos de controle de uma rodovia distam 12 km. Um veículo passou pelo primeiro às 10h00min e pelo segundo às 10h06min. O limite no trecho é de 110 km/h. Houve excesso?</p><details><summary>Ver a solução comentada</summary><p>Δt = 6 min = 0,1 h. v_m = 12 km / 0,1 h = <b>120 km/h</b>. A média superou o limite; logo, em algum momento a velocidade instantânea foi <b>maior que 110 km/h</b>, ainda que o veículo tenha passado devagar pelos pontos de controle.</p></details></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se um veículo percorre metade de um percurso a 40 km/h e a outra metade a 60 km/h, sua velocidade média é de 50 km/h</span><br>✅ <span class=\"certo\">com <b>distâncias iguais</b>, usa-se a média harmônica: 2·40·60/100 = <b>48 km/h</b></span></li><li>❌ <span class=\"banca\">Para converter m/s em km/h, divide-se o valor por 3,6</span><br>✅ <span class=\"certo\">de m/s para km/h <b>multiplica-se</b> por 3,6</span></li><li>❌ <span class=\"banca\">A velocidade média indica a velocidade do veículo em cada instante do percurso</span><br>✅ <span class=\"certo\">indica a rapidez <b>média</b> no intervalo; a de cada instante é a <b>instantânea</b></span></li></ol></div>\n<h3>3. Movimento uniforme (MU) e retilíneo uniforme (MRU)</h3>\n<ul><li><b>Movimento uniforme</b>: velocidade escalar <b>constante e não nula</b>; o corpo percorre <b>distâncias iguais em intervalos de tempo iguais</b>. Se, além disso, a trajetória é reta, temos o <b>MRU</b>. A aceleração é <b>nula</b>.</li><li><b>Função horária da posição</b>: <b>s = s₀ + v·t</b>. É uma função do 1º grau em t.</li><li><b>Classificação</b>: <b>progressivo</b> (v > 0, posições crescentes) e <b>retrógrado</b> (v < 0, posições decrescentes).</li><li><b>Gráficos do MU</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Gráfico</th><th>Forma</th><th>O que se lê nele</th></tr></thead><tbody><tr><td><b>s × t</b></td><td><b>reta inclinada</b></td><td>a <b>inclinação</b> (coeficiente angular) é a velocidade: subindo, v > 0; descendo, v < 0</td></tr><tr><td><b>v × t</b></td><td><b>reta horizontal</b></td><td>a <b>área</b> sob a reta é o <b>deslocamento</b> Δs</td></tr><tr><td><b>a × t</b></td><td>reta sobre o eixo (a = 0)</td><td>não há aceleração</td></tr></tbody></table>\n<ul><li><b>Propriedade da área</b>: em <b>qualquer</b> gráfico v × t, a área entre a curva e o eixo do tempo é numericamente igual ao <b>deslocamento</b> no intervalo. Área abaixo do eixo conta como deslocamento negativo.</li></ul>\n<h3>4. Encontro e velocidade relativa</h3>\n<ul><li><b>Encontro de dois móveis</b>: escreve-se a função horária de cada um <b>no mesmo referencial</b> e iguala-se: s_A = s_B. O tempo encontrado é o instante do encontro; substituindo em qualquer função, obtém-se a posição.</li><li><b>Velocidade relativa</b> (atalho para movimentos na mesma reta): em <b>sentidos opostos</b>, as velocidades se <b>somam</b>; no <b>mesmo sentido</b>, se <b>subtraem</b>. Tempo até o encontro = distância inicial / velocidade relativa.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Encontro em sentidos opostos</b><ol><li><span>Dois veículos estão a 150 km um do outro, em sentidos opostos, a 70 km/h e 80 km/h</span></li><li><span>Velocidade relativa: 70 + 80 = 150 km/h</span></li><li><span>Tempo: 150 km ÷ 150 km/h = 1 h</span></li><li><span>Posição: o primeiro percorre 70 km</span></li></ol><span class=\"res\">Encontram-se após 1 h, a 70 km do ponto de partida do primeiro</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Alcance no mesmo sentido</b><ol><li><span>Uma viatura a 120 km/h persegue um carro a 90 km/h que está 6 km à frente</span></li><li><span>Velocidade relativa: 120 − 90 = 30 km/h</span></li><li><span>Tempo: 6 ÷ 30 = 0,2 h = 12 min</span></li></ol><span class=\"res\">A viatura alcança o carro em 12 minutos</span></div>\n<ul><li><b>Ultrapassagem e travessia (corpos extensos)</b>: o deslocamento a considerar é a <b>soma dos comprimentos</b> envolvidos. Um trem de 200 m que atravessa uma ponte de 100 m percorre <b>300 m</b> do momento em que a frente entra até a traseira sair. Na ultrapassagem de um caminhão, o carro precisa percorrer, <b>em relação ao caminhão</b>, o comprimento do caminhão somado ao próprio comprimento (e às distâncias de segurança antes e depois).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ultrapassagem segura</b><p>Um carro de 4 m, a 90 km/h, vai ultrapassar um caminhão de 16 m, a 72 km/h. Considere que ele começa a manobra 10 m atrás e termina 10 m à frente do caminhão. Quanto tempo dura a ultrapassagem e quanto o carro percorre em relação à pista?</p><details><summary>Ver a solução comentada</summary><p>Velocidade relativa: 25 − 20 = 5 m/s. Deslocamento relativo: 10 + 16 + 4 + 10 = 40 m. Tempo: 40/5 = <b>8 s</b>. Em relação à pista, o carro percorre 25 × 8 = <b>200 m</b>. Se houver um veículo vindo em sentido contrário a 25 m/s, ele percorre outros 200 m nesse tempo: a ultrapassagem exige pelo menos <b>400 m</b> de pista livre à frente.</p></details></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na ultrapassagem de um caminhão, basta considerar o comprimento do caminhão para calcular o tempo da manobra</span><br>✅ <span class=\"certo\">somam-se os comprimentos do <b>caminhão e do carro</b> (e as folgas de segurança)</span></li><li>❌ <span class=\"banca\">No MRU, o gráfico da velocidade em função do tempo é uma reta inclinada</span><br>✅ <span class=\"certo\">no MRU o gráfico v × t é uma reta <b>horizontal</b>; o de s × t é que é inclinado</span></li><li>❌ <span class=\"banca\">Dois veículos em sentidos opostos se aproximam com velocidade relativa igual à diferença entre suas velocidades</span><br>✅ <span class=\"certo\">em sentidos <b>opostos</b>, as velocidades se <b>somam</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>km/h → m/s</span></span><span class=\"vs\"><span>Dividir por 3,6</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Distâncias iguais</span></span><span class=\"vs\"><span>Média harmônica: 2v₁v₂/(v₁+v₂)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MRU</span></span><span class=\"vs\"><span>s = s₀ + v·t; aceleração nula</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Área do gráfico v × t</span></span><span class=\"vs\"><span>Deslocamento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sentidos opostos</span></span><span class=\"vs\"><span>Velocidades se somam</span></span></button></div></div>\n<h3>5. Tabela de consulta rápida</h3>\n<table class=\"tab\"><thead><tr><th>km/h</th><th>m/s</th><th>Distância de reação (1 s)</th><th>Frenagem a 5 m/s²</th><th>Frenagem a 8 m/s²</th></tr></thead><tbody><tr><td>36</td><td>10</td><td>10 m</td><td>10 m</td><td>6,25 m</td></tr><tr><td>54</td><td>15</td><td>15 m</td><td>22,5 m</td><td>14 m</td></tr><tr><td>72</td><td>20</td><td>20 m</td><td>40 m</td><td>25 m</td></tr><tr><td>90</td><td>25</td><td>25 m</td><td>62,5 m</td><td>39 m</td></tr><tr><td>108</td><td>30</td><td>30 m</td><td>90 m</td><td>56 m</td></tr><tr><td>126</td><td>35</td><td>35 m</td><td>122,5 m</td><td>77 m</td></tr><tr><td>144</td><td>40</td><td>40 m</td><td>160 m</td><td>100 m</td></tr></tbody></table>\n<ul><li>Observe na tabela: a coluna de reação cresce <b>em linha reta</b> (proporcional a v), enquanto as colunas de frenagem crescem <b>cada vez mais depressa</b> (proporcionais a v²). De 72 para 144 km/h, a reação dobra (20 → 40 m), e a frenagem a 5 m/s² quadruplica (40 → 160 m).</li><li>Compare também as duas últimas colunas: uma desaceleração maior (freios melhores, pista seca, pneus bons) reduz a distância de frenagem na <b>mesma proporção</b>: de 5 para 8 m/s², a distância cai a 5/8 do valor.</li></ul>\n<h3>6. Mapa do raciocínio em cinemática</h3>\n<div class=\"lt-fluxo\"><span>A questão fala em velocidade constante?</span> <em>→</em> <span>Sim: MRU (s = s₀ + v·t; área de retângulo no gráfico)</span> <em>→</em> <span>Não: a aceleração é constante?</span> <em>→</em> <span>Sim: MRUV (três equações; Torricelli sem tempo)</span> <em>→</em> <span>Movimento vertical sem ar? Queda livre/lançamento com a = g</span> <em>→</em> <span>Movimento em duas direções? Decomponha e trate cada eixo separadamente</span></div>\n<ul><li><b>Antes de calcular</b>, pergunte sempre:</li><li>As unidades estão compatíveis? (km com h; m com s)</li><li>O corpo é ponto material ou extenso? (ultrapassagem e travessia somam comprimentos)</li><li>O que a questão pede: posição, deslocamento, distância percorrida, tempo, velocidade média ou instantânea?</li><li>Há mais de um trecho? (calcule tempo e distância de cada um)</li></ul>\n<h3>7. Erros de raciocínio mais comuns</h3>\n<ul><li><b>Somar velocidades para obter a média</b>: só vale para tempos iguais.</li><li><b>Usar MRU com aceleração</b>: em frenagens e arrancadas, a velocidade muda, e d = v·t com a velocidade inicial superestima a distância.</li><li><b>Esquecer o tempo de reação</b> na distância de parada, ou incluí-lo quando a questão pede apenas a frenagem.</li><li><b>Confundir g com a massa</b>: a aceleração de queda não depende do peso do corpo (sem ar).</li><li><b>Esquecer o sinal</b>: em frenagem, a aceleração tem sinal oposto ao da velocidade; em Torricelli, isso aparece como v² = v₀² − 2·|a|·Δs.</li><li><b>Tratar velocidade como escalar em curvas</b>: em trajetória curva, mesmo com velocímetro parado no mesmo valor, há aceleração (centrípeta), o que será aprofundado no tópico de movimento circular.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A aceleração de um veículo que faz uma curva com o velocímetro indicando sempre 60 km/h é nula</span><br>✅ <span class=\"certo\">a <b>direção</b> da velocidade muda: há aceleração <b>centrípeta</b></span></li><li>❌ <span class=\"banca\">Com desaceleração de 8 m/s², a distância de frenagem a 72 km/h é maior que 30 m</span><br>✅ <span class=\"certo\">20²/(2·8) = <b>25 m</b>, menor que 30 m</span></li><li>❌ <span class=\"banca\">Na queda livre, a partir do repouso, o corpo percorre 10 m em cada segundo de queda</span><br>✅ <span class=\"certo\">a <b>velocidade</b> aumenta 10 m/s por segundo, mas as distâncias em cada segundo são <b>5 m, 15 m, 25 m...</b></span></li></ol></div>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Guarde os pares \"redondos\" de conversão como uma tabuada: 36→10, 54→15, 72→20, 90→25, 108→30, 126→35, 144→40. Quase todas as questões de prova usam algum deles.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>72 km/h a 5 m/s²</span></span><span class=\"vs\"><span>Frenagem de 40 m</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>72 km/h a 8 m/s²</span></span><span class=\"vs\"><span>Frenagem de 25 m</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reação de 1 s a 90 km/h</span></span><span class=\"vs\"><span>25 m</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Curva com velocidade constante</span></span><span class=\"vs\"><span>Aceleração centrípeta</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pares redondos</span></span><span class=\"vs\"><span>36→10, 54→15, 72→20, 90→25, 108→30</span></span></button></div></div>\n<h3>8. Aceleração e movimento uniformemente variado (MUV)</h3>\n<ul><li><b>Aceleração escalar média</b>: a_m = Δv/Δt. Unidade no SI: <b>m/s²</b> (a velocidade varia tantos m/s a cada segundo). Uma aceleração de 2 m/s² significa que a velocidade aumenta 2 m/s <b>a cada segundo</b>.</li><li><b>Movimento uniformemente variado (MUV)</b>: aceleração escalar <b>constante e não nula</b>. Em trajetória reta, <b>MRUV</b>. A velocidade varia <b>quantidades iguais em tempos iguais</b>.</li><li><b>Acelerado x retardado</b>: o movimento é <b>acelerado</b> quando o módulo da velocidade aumenta (v e a com <b>mesmo sinal</b>) e <b>retardado</b> quando diminui (v e a com <b>sinais opostos</b>). Atenção: aceleração negativa <b>não</b> significa, por si só, movimento retardado; depende do sinal da velocidade.</li></ul>\n<table class=\"tab\"><thead><tr><th>Equação</th><th>Fórmula</th><th>Quando usar</th></tr></thead><tbody><tr><td>Velocidade</td><td><b>v = v₀ + a·t</b></td><td>relaciona velocidade e tempo</td></tr><tr><td>Posição</td><td><b>s = s₀ + v₀·t + a·t²/2</b></td><td>relaciona posição e tempo</td></tr><tr><td><b>Torricelli</b></td><td><b>v² = v₀² + 2·a·Δs</b></td><td>quando <b>não se conhece nem se pede o tempo</b></td></tr><tr><td>Velocidade média</td><td><b>v_m = (v₀ + v)/2</b></td><td>vale <b>só no MUV</b>: a média é a média aritmética das velocidades inicial e final</td></tr></tbody></table>\n<ul><li><b>Estratégia de escolha</b>: liste as cinco grandezas do MUV (Δs, v₀, v, a, t). A questão sempre dá três e pede uma quarta; escolha a equação que <b>não contém</b> a grandeza que não aparece no problema.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Arrancada</b><ol><li><span>Um carro parte do repouso com aceleração constante de 3 m/s². Qual a velocidade e o deslocamento após 6 s?</span></li><li><span>v = v₀ + a·t = 0 + 3·6 = 18 m/s (64,8 km/h)</span></li><li><span>Δs = v₀·t + a·t²/2 = 0 + 3·36/2 = 54 m</span></li><li><span>Conferência pela média: v_m = (0 + 18)/2 = 9 m/s; 9·6 = 54 m</span></li></ol><span class=\"res\">v = 18 m/s e Δs = 54 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Frenagem sem o tempo</b><ol><li><span>Um veículo a 30 m/s (108 km/h) freia com desaceleração de 6 m/s² até parar. Qual a distância de frenagem?</span></li><li><span>Dados: v₀ = 30 m/s; v = 0; a = −6 m/s²; o tempo não é dado nem pedido → Torricelli</span></li><li><span>0 = 30² + 2·(−6)·Δs → 12·Δs = 900</span></li><li><span>Δs = 75 m</span></li></ol><span class=\"res\">Distância de frenagem: 75 m</span></div>\n<h3>9. Gráficos do MUV</h3>\n<table class=\"tab\"><thead><tr><th>Gráfico</th><th>Forma</th><th>O que se lê</th></tr></thead><tbody><tr><td><b>a × t</b></td><td>reta horizontal</td><td>a <b>área</b> sob a reta é a <b>variação de velocidade</b> Δv</td></tr><tr><td><b>v × t</b></td><td><b>reta inclinada</b></td><td>a <b>inclinação</b> é a aceleração; a <b>área</b> é o deslocamento</td></tr><tr><td><b>s × t</b></td><td><b>parábola</b></td><td>concavidade para cima se a > 0, para baixo se a < 0; o <b>vértice</b> é o instante em que v = 0 (inversão de sentido)</td></tr></tbody></table>\n<ul><li><b>Leitura de gráfico v × t com trechos</b>: em questões com vários trechos (acelera, mantém, freia), calcule a área de cada trecho como <b>triângulo</b>, <b>retângulo</b> ou <b>trapézio</b> e some. O deslocamento total é a soma das áreas, e a velocidade média é esse total dividido pelo tempo total.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Área de um gráfico v × t</b><ol><li><span>Um ônibus parte do repouso, acelera uniformemente até 20 m/s em 10 s, mantém essa velocidade por 30 s e freia uniformemente até parar em 5 s</span></li><li><span>Trecho 1 (triângulo): 10·20/2 = 100 m</span></li><li><span>Trecho 2 (retângulo): 30·20 = 600 m</span></li><li><span>Trecho 3 (triângulo): 5·20/2 = 50 m</span></li><li><span>Total: 750 m em 45 s → v_m = 750/45 ≈ 16,7 m/s</span></li></ol><span class=\"res\">Deslocamento de 750 m; velocidade média ≈ 16,7 m/s (60 km/h)</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No gráfico s × t do MUV, a curva é uma reta inclinada</span><br>✅ <span class=\"certo\">no MUV o gráfico s × t é uma <b>parábola</b>; a reta inclinada é o gráfico v × t</span></li><li>❌ <span class=\"banca\">A aceleração negativa indica, necessariamente, que o movimento é retardado</span><br>✅ <span class=\"certo\">depende do sinal da velocidade: com v também negativa, o movimento é <b>acelerado</b></span></li><li>❌ <span class=\"banca\">A equação de Torricelli exige que se conheça o tempo do movimento</span><br>✅ <span class=\"certo\">Torricelli é justamente a equação <b>sem o tempo</b></span></li></ol></div>\n<h3>10. Distância de parada: a cinemática no trânsito</h3>\n<ul><li>A distância total para parar um veículo diante de um imprevisto tem <b>duas partes</b>:</li><li><b>Distância de reação</b>: durante o <b>tempo de reação</b> do condutor (perceber o perigo, decidir, levar o pé ao freio, em geral entre 0,75 s e 1,5 s), o veículo continua <b>na mesma velocidade</b> (MRU): d_reação = v·t_r.</li><li><b>Distância de frenagem</b>: do início da frenagem até a parada, em MRUV com desaceleração a: d_frenagem = v²/(2·a).</li><li><b>Distância de parada</b> = distância de reação + distância de frenagem.</li><li><b>Consequências práticas</b>:</li><li>A distância de reação é <b>proporcional</b> à velocidade: dobrando v, dobra.</li><li>A distância de frenagem é proporcional ao <b>quadrado</b> da velocidade: dobrando v, ela <b>quadruplica</b>; triplicando v, fica <b>nove vezes</b> maior.</li><li>Álcool, sono, celular e cansaço <b>aumentam o tempo de reação</b> e, portanto, a distância de reação, mesmo sem alterar a frenagem.</li><li>Pista molhada, pneus gastos e freios ruins <b>reduzem a desaceleração</b> máxima e aumentam a distância de frenagem.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Distância de parada</b><ol><li><span>Carro a 72 km/h; tempo de reação 1 s; desaceleração de 5 m/s²</span></li><li><span>Converta: 72 ÷ 3,6 = 20 m/s</span></li><li><span>Reação (MRU): 20 · 1 = 20 m</span></li><li><span>Frenagem (Torricelli): 20²/(2·5) = 400/10 = 40 m</span></li><li><span>Parada: 20 + 40 = 60 m</span></li></ol><span class=\"res\">Distância total de parada: 60 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 O mesmo carro a 144 km/h</b><ol><li><span>Converta: 144 ÷ 3,6 = 40 m/s</span></li><li><span>Reação: 40 · 1 = 40 m (dobrou)</span></li><li><span>Frenagem: 40²/10 = 160 m (quadruplicou)</span></li><li><span>Parada: 200 m</span></li></ol><span class=\"res\">Com o dobro da velocidade, a parada passou de 60 m para 200 m (mais que o triplo)</span></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Celular ao volante</b><p>Um motorista a 90 km/h olha o celular por 2 s. Quantos metros ele percorre \"às cegas\"? E se o tempo de reação aumentar de 1 s para 2 s por causa da distração, quanto aumenta a distância de parada?</p><details><summary>Ver a solução comentada</summary><p>90 km/h = 25 m/s. Em 2 s ele percorre <b>50 m</b> sem olhar a pista. O tempo de reação extra de 1 s acrescenta <b>25 m</b> à distância de reação; a distância de frenagem não muda, porque depende da velocidade e da desaceleração.</p></details></div>\n<ul><li><b>Regra dos dois segundos</b>: para manter uma distância de seguimento segura, o condutor escolhe um ponto fixo na pista; quando o veículo da frente passa por ele, conta \"mil e um, mil e dois\". Se chegar ao ponto antes de terminar a contagem, está perto demais. A regra funciona em qualquer velocidade porque a distância de segurança cresce <b>proporcionalmente</b> à velocidade (em pista molhada, recomenda-se aumentar o intervalo).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se a velocidade de um veículo dobrar, mantida a desaceleração, a distância de frenagem também dobrará</span><br>✅ <span class=\"certo\">a frenagem é proporcional a <b>v²</b>: <b>quadruplica</b></span></li><li>❌ <span class=\"banca\">O consumo de álcool aumenta a distância de frenagem, pois reduz a eficiência dos freios</span><br>✅ <span class=\"certo\">o álcool aumenta o <b>tempo de reação</b> e, portanto, a <b>distância de reação</b></span></li><li>❌ <span class=\"banca\">Durante o tempo de reação, o veículo começa a desacelerar</span><br>✅ <span class=\"certo\">durante a reação o veículo segue em <b>velocidade constante</b> (MRU); só desacelera depois que o freio é acionado</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equações do MRUV</span></span><span class=\"vs\"><span>v = v₀ + at; s = s₀ + v₀t + at²/2; v² = v₀² + 2aΔs</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sem o tempo</span></span><span class=\"vs\"><span>Torricelli</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>v_m no MUV</span></span><span class=\"vs\"><span>(v₀ + v)/2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Distância de parada</span></span><span class=\"vs\"><span>Reação (v·t_r) + frenagem (v²/2a)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade dobra</span></span><span class=\"vs\"><span>Reação dobra; frenagem quadruplica</span></span></button></div></div>\n<h3>11. Queda livre e lançamento vertical</h3>\n<ul><li><b>Queda livre</b>: movimento vertical sob ação <b>exclusiva</b> da gravidade (resistência do ar desprezada). É um <b>MRUV</b> com aceleração <b>g ≈ 9,8 m/s²</b>, aproximada para <b>10 m/s²</b> nas provas, salvo indicação em contrário.</li><li><b>Galileu</b>: na ausência do ar, <b>todos os corpos caem com a mesma aceleração</b>, independentemente da massa. Uma pena e um martelo soltos juntos na Lua (sem atmosfera) chegam ao chão ao mesmo tempo, como mostrou a missão Apollo 15. Na Terra, a diferença que vemos no dia a dia vem da <b>resistência do ar</b>.</li><li><b>Equações</b> (orientando o eixo para baixo e partindo do repouso):</li></ul>\n<table class=\"tab\"><thead><tr><th>Grandeza</th><th>Fórmula</th><th>Exemplo com g = 10 m/s²</th></tr></thead><tbody><tr><td>Velocidade</td><td><b>v = g·t</b></td><td>após 3 s: 30 m/s</td></tr><tr><td>Altura de queda</td><td><b>h = g·t²/2</b></td><td>em 3 s: 45 m</td></tr><tr><td>Torricelli</td><td><b>v² = 2·g·h</b></td><td>de 20 m de altura: v = 20 m/s</td></tr><tr><td>Tempo de queda</td><td><b>t = √(2h/g)</b></td><td>de 80 m: t = 4 s</td></tr></tbody></table>\n<ul><li><b>Padrão das distâncias</b>: partindo do repouso, os deslocamentos em segundos sucessivos seguem a sequência <b>5 m, 15 m, 25 m, 35 m...</b> (proporção 1 : 3 : 5 : 7, a chamada regra de Galileu), e as distâncias acumuladas são 5, 20, 45, 80, 125 m (proporcionais a t²).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Queda de um objeto de um viaduto</b><ol><li><span>Um objeto é solto de um viaduto e leva 2 s para atingir a pista. Qual a altura e a velocidade de impacto? (g = 10 m/s²)</span></li><li><span>h = g·t²/2 = 10·4/2 = 20 m</span></li><li><span>v = g·t = 10·2 = 20 m/s (72 km/h)</span></li><li><span>Conferência por Torricelli: v² = 2·10·20 = 400 → v = 20 m/s</span></li></ol><span class=\"res\">Altura de 20 m; velocidade de 20 m/s ao chegar</span></div>\n<ul><li><b>Lançamento vertical para cima</b>: o corpo sobe em movimento <b>retardado</b> (a = −g), para no <b>ponto mais alto</b> (v = 0) e desce em queda livre.</li><li><b>Tempo de subida</b>: t_s = v₀/g. <b>Altura máxima</b>: H = v₀²/(2g). <b>Tempo total</b> (voltando ao mesmo nível): 2·t_s.</li><li><b>Simetria</b>: na ausência de ar, o tempo de subida é igual ao de descida, e o corpo passa por cada altura com a <b>mesma velocidade em módulo</b> na subida e na descida.</li><li><b>No ponto mais alto</b>, a velocidade é <b>zero</b>, mas a aceleração <b>continua sendo g</b> (para baixo). Essa é uma das pegadinhas mais cobradas.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Lançamento vertical</b><ol><li><span>Uma bola é lançada para cima a 30 m/s (g = 10 m/s²)</span></li><li><span>Tempo de subida: 30/10 = 3 s</span></li><li><span>Altura máxima: 30²/(2·10) = 900/20 = 45 m</span></li><li><span>Tempo total no ar: 6 s; volta à mão a 30 m/s</span></li></ol><span class=\"res\">H = 45 m; tempo de voo = 6 s</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No ponto mais alto da trajetória de um corpo lançado verticalmente para cima, a aceleração é nula</span><br>✅ <span class=\"certo\">a <b>velocidade</b> é nula; a aceleração continua sendo <b>g</b></span></li><li>❌ <span class=\"banca\">Desprezada a resistência do ar, um corpo de 10 kg cai com aceleração dez vezes maior que um corpo de 1 kg</span><br>✅ <span class=\"certo\">todos caem com a <b>mesma</b> aceleração g</span></li><li>❌ <span class=\"banca\">O tempo de subida de um corpo lançado verticalmente é maior que o tempo de descida até o mesmo nível</span><br>✅ <span class=\"certo\">sem ar, os tempos de subida e de descida são <b>iguais</b></span></li></ol></div>\n<h3>12. Cinemática vetorial: grandezas escalares e vetoriais</h3>\n<ul><li><b>Grandeza escalar</b>: fica completamente definida por <b>um número e uma unidade</b> (massa, tempo, temperatura, energia, distância percorrida).</li><li><b>Grandeza vetorial</b>: exige <b>módulo</b> (intensidade), <b>direção</b> e <b>sentido</b> (deslocamento vetorial, velocidade, aceleração, força, quantidade de movimento, impulso). Representa-se por uma seta: o comprimento indica o módulo.</li><li><b>Direção x sentido</b>: direção é a reta (horizontal, vertical, norte-sul); sentido é para qual lado dessa reta (para o norte ou para o sul). Duas forças horizontais, uma para a direita e outra para a esquerda, têm a <b>mesma direção</b> e <b>sentidos opostos</b>.</li><li><b>Soma de vetores</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Resultante</th></tr></thead><tbody><tr><td>Mesma direção e mesmo sentido</td><td><b>soma</b> dos módulos: 3 + 4 = 7</td></tr><tr><td>Mesma direção e sentidos opostos</td><td><b>diferença</b> dos módulos, no sentido do maior: 4 − 3 = 1</td></tr><tr><td><b>Perpendiculares</b></td><td><b>Pitágoras</b>: R = √(a² + b²); 3 e 4 → 5</td></tr><tr><td>Ângulo qualquer θ</td><td><b>lei dos cossenos</b>: R² = a² + b² + 2·a·b·cos θ</td></tr><tr><td>Limites</td><td>a resultante fica sempre entre |a − b| e a + b</td></tr></tbody></table>\n<ul><li><b>Regra do polígono e do paralelogramo</b>: para somar, coloca-se a origem de um vetor na extremidade do outro (polígono); a resultante liga a origem do primeiro à extremidade do último. Se o polígono \"fecha\" (volta ao início), a resultante é <b>nula</b>.</li><li><b>Decomposição</b>: um vetor V que forma ângulo θ com a horizontal tem componentes <b>Vx = V·cos θ</b> e <b>Vy = V·sen θ</b>. Valores úteis: sen 30° = cos 60° = 0,5; cos 30° = sen 60° ≈ 0,87; sen 45° = cos 45° ≈ 0,71; sen 37° ≈ cos 53° = 0,6; cos 37° ≈ sen 53° = 0,8.</li><li><b>Deslocamento vetorial x distância percorrida</b>: o deslocamento vetorial liga <b>diretamente</b> a posição inicial à final; a distância percorrida segue a trajetória. Em uma volta completa numa pista circular, o deslocamento vetorial é <b>nulo</b>, mas a distância percorrida é 2πR.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Patrulha em quadras</b><ol><li><span>Uma viatura anda 600 m para o norte e depois 800 m para o leste em 5 minutos</span></li><li><span>Distância percorrida: 600 + 800 = 1.400 m</span></li><li><span>Deslocamento vetorial (Pitágoras): √(600² + 800²) = √1.000.000 = 1.000 m</span></li><li><span>Velocidade escalar média: 1.400 m / 300 s ≈ 4,7 m/s</span></li><li><span>Velocidade vetorial média: 1.000 m / 300 s ≈ 3,3 m/s</span></li></ol><span class=\"res\">Distância de 1.400 m; deslocamento de 1.000 m (para nordeste)</span></div>\n<ul><li><b>Velocidade vetorial</b>: é sempre <b>tangente à trajetória</b>, no sentido do movimento. Seu módulo, em cada instante, é igual à velocidade escalar.</li><li><b>Velocidade vetorial média</b>: deslocamento vetorial ÷ tempo. Em módulo, é <b>menor ou igual</b> à velocidade escalar média (igual só em trajetória reta sem inversão).</li><li><b>Aceleração vetorial</b>: tem duas componentes:</li><li><b>Tangencial</b>: muda o <b>módulo</b> da velocidade (acelerar ou frear); existe nos movimentos variados.</li><li><b>Centrípeta</b>: muda a <b>direção</b> da velocidade; aponta para o centro da curva e vale v²/R. Existe em toda trajetória <b>curva</b>, mesmo com velocidade escalar constante.</li></ul>\n<table class=\"tab\"><thead><tr><th>Movimento</th><th>Aceleração tangencial</th><th>Aceleração centrípeta</th></tr></thead><tbody><tr><td>MRU</td><td>nula</td><td>nula</td></tr><tr><td>MRUV</td><td>não nula</td><td>nula</td></tr><tr><td>MCU</td><td>nula</td><td>não nula</td></tr><tr><td>Circular variado</td><td>não nula</td><td>não nula</td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Velocidade e aceleração são grandezas escalares, pois podem ser expressas por um número</span><br>✅ <span class=\"certo\">são <b>vetoriais</b>: exigem módulo, direção e sentido</span></li><li>❌ <span class=\"banca\">Duas forças de 3 N e 4 N podem ter resultante de 8 N</span><br>✅ <span class=\"certo\">a resultante fica entre <b>1 N e 7 N</b></span></li><li>❌ <span class=\"banca\">No movimento curvilíneo com velocidade escalar constante, a aceleração vetorial é nula</span><br>✅ <span class=\"certo\">há aceleração <b>centrípeta</b>, pois a direção da velocidade muda</span></li><li>❌ <span class=\"banca\">Após uma volta completa em uma pista circular, o deslocamento vetorial é igual ao perímetro da pista</span><br>✅ <span class=\"certo\">o deslocamento vetorial é <b>nulo</b>; o perímetro é a distância percorrida</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Queda livre</span></span><span class=\"vs\"><span>MRUV com a = g ≈ 10 m/s², para qualquer massa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Altura máxima</span></span><span class=\"vs\"><span>H = v₀²/2g; no topo v = 0 e a = g</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vetores perpendiculares</span></span><span class=\"vs\"><span>Pitágoras</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Componentes</span></span><span class=\"vs\"><span>Vx = V·cos θ; Vy = V·sen θ</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Trajetória curva</span></span><span class=\"vs\"><span>Sempre há aceleração centrípeta</span></span></button></div></div>\n<h3>13. Composição de movimentos</h3>\n<ul><li><b>Princípio da independência (Galileu)</b>: quando um corpo participa de dois movimentos ao mesmo tempo, cada um ocorre <b>como se o outro não existisse</b>. O movimento resultante é a soma vetorial dos dois.</li><li><b>Barco no rio</b>: a velocidade do barco em relação à margem é a soma vetorial da velocidade do barco em relação à água (v_rel) com a velocidade da correnteza (v_arr).</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Velocidade em relação à margem</th></tr></thead><tbody><tr><td>Barco descendo o rio (a favor)</td><td>v_rel + v_corr</td></tr><tr><td>Barco subindo o rio (contra)</td><td>v_rel − v_corr</td></tr><tr><td>Barco apontado perpendicularmente às margens</td><td>√(v_rel² + v_corr²), e o barco é arrastado rio abaixo</td></tr><tr><td>Para atravessar em linha reta (perpendicular)</td><td>o barco aponta inclinado contra a correnteza, e a velocidade resultante é √(v_rel² − v_corr²)</td></tr></tbody></table>\n<ul><li><b>Tempo de travessia</b>: quando o barco aponta <b>perpendicularmente</b> às margens, o tempo para atravessar depende <b>apenas</b> da largura do rio e da velocidade do barco em relação à água; a correnteza só o arrasta lateralmente, <b>sem alterar o tempo</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Travessia com correnteza</b><ol><li><span>Rio de 120 m de largura; barco a 4 m/s em relação à água, apontado perpendicularmente às margens; correnteza de 3 m/s</span></li><li><span>Tempo: 120/4 = 30 s (a correnteza não muda isso)</span></li><li><span>Arraste rio abaixo: 3 · 30 = 90 m</span></li><li><span>Velocidade em relação à margem: √(4² + 3²) = 5 m/s</span></li></ol><span class=\"res\">Atravessa em 30 s, chegando 90 m rio abaixo</span></div>\n<ul><li><b>Chuva vista de um carro</b>: para quem está no carro, a chuva parece vir inclinada, de frente, porque a velocidade relativa da gota é a velocidade da gota <b>menos</b> a do carro. Quanto mais rápido o carro, mais inclinada parece a chuva.</li><li><b>Velocidade relativa em geral</b>: v_A em relação a B = v_A − v_B (vetorialmente). Na mesma reta, recai nas regras de soma (sentidos opostos) e subtração (mesmo sentido).</li></ul>\n<h3>14. Lançamento horizontal</h3>\n<ul><li>Um corpo lançado <b>horizontalmente</b> de uma altura h, com velocidade v₀, descreve um arco de <b>parábola</b>. Pela independência dos movimentos:</li><li><b>Na horizontal</b>: <b>MRU</b> com velocidade v₀ (não há aceleração horizontal sem ar): x = v₀·t.</li><li><b>Na vertical</b>: <b>queda livre</b> a partir do repouso: y = g·t²/2.</li><li><b>Tempo de queda</b>: t = √(2h/g). Depende <b>só da altura</b>, não de v₀. Por isso, uma bala disparada horizontalmente e outra apenas solta da mesma altura, no mesmo instante, chegam juntas ao solo (desprezado o ar).</li><li><b>Alcance horizontal</b>: A = v₀·t.</li><li><b>Velocidade ao tocar o solo</b>: componentes v_x = v₀ e v_y = g·t; módulo v = √(v_x² + v_y²).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Objeto lançado de um caminhão</b><ol><li><span>Uma caixa cai da carroceria de um caminhão a 1,25 m de altura, movendo-se a 20 m/s (g = 10 m/s²)</span></li><li><span>Tempo de queda: t = √(2·1,25/10) = √0,25 = 0,5 s</span></li><li><span>Alcance horizontal: 20 · 0,5 = 10 m</span></li><li><span>Velocidade vertical ao chegar: 10 · 0,5 = 5 m/s</span></li></ol><span class=\"res\">Atinge o asfalto em 0,5 s, 10 m à frente do ponto em que se soltou</span></div>\n<ul><li><b>Perícia de acidentes</b>: a cinemática do lançamento horizontal permite estimar a velocidade de um veículo que caiu de uma ribanceira, a partir da altura e da distância horizontal em que parou: v₀ = A/t, com t = √(2h/g).</li></ul>\n<h3>15. Lançamento oblíquo</h3>\n<ul><li>Corpo lançado com velocidade v₀ formando ângulo θ com a horizontal. Decompõe-se a velocidade inicial:</li><li><b>Horizontal</b>: v₀x = v₀·cos θ, <b>constante</b> durante todo o voo (MRU).</li><li><b>Vertical</b>: v₀y = v₀·sen θ, que diminui na subida, <b>zera no ponto mais alto</b> e cresce na descida (lançamento vertical).</li></ul>\n<table class=\"tab\"><thead><tr><th>Grandeza</th><th>Fórmula</th><th>Observação</th></tr></thead><tbody><tr><td>Tempo de subida</td><td>t_s = v₀·sen θ / g</td><td>no topo, v_y = 0</td></tr><tr><td>Tempo total (mesmo nível)</td><td>2·t_s</td><td>simetria</td></tr><tr><td>Altura máxima</td><td>H = (v₀·sen θ)² / (2g)</td><td>só a componente vertical importa</td></tr><tr><td>Alcance</td><td>A = v₀²·sen(2θ) / g</td><td>máximo para <b>θ = 45°</b></td></tr><tr><td>Velocidade no topo</td><td>v = v₀·cos θ</td><td><b>não é zero</b>: sobra a componente horizontal</td></tr></tbody></table>\n<ul><li><b>Ângulos complementares</b> (por exemplo, 30° e 60°, ou 37° e 53°) produzem o <b>mesmo alcance</b>, porque sen(2·30°) = sen(2·60°). O de maior ângulo sobe mais e demora mais.</li><li><b>Aceleração durante todo o voo</b>: é sempre <b>g, vertical e para baixo</b>, inclusive no ponto mais alto.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Lançamento a 45°</b><ol><li><span>v₀ = 20 m/s, θ = 45°, g = 10 m/s²</span></li><li><span>v₀x = v₀y ≈ 20 · 0,71 ≈ 14,1 m/s</span></li><li><span>Tempo de subida: 14,1/10 ≈ 1,41 s; tempo total ≈ 2,83 s</span></li><li><span>Alcance: 20² · sen 90° / 10 = 400/10 = 40 m</span></li><li><span>Altura máxima: 14,1²/20 ≈ 10 m</span></li></ol><span class=\"res\">Alcance de 40 m (o máximo possível para 20 m/s)</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No ponto mais alto de um lançamento oblíquo, a velocidade do projétil é nula</span><br>✅ <span class=\"certo\">só a componente <b>vertical</b> é nula; a horizontal (v₀·cos θ) continua</span></li><li>❌ <span class=\"banca\">No lançamento horizontal, quanto maior a velocidade inicial, maior o tempo de queda</span><br>✅ <span class=\"certo\">o tempo de queda depende <b>só da altura</b>; v₀ aumenta o <b>alcance</b></span></li><li>❌ <span class=\"banca\">Lançamentos com 30° e 60°, com a mesma velocidade inicial, têm alcances diferentes</span><br>✅ <span class=\"certo\">ângulos <b>complementares</b> têm o <b>mesmo alcance</b></span></li><li>❌ <span class=\"banca\">Ao atravessar um rio apontando perpendicularmente às margens, quanto mais forte a correnteza, mais tempo o barco leva para atravessar</span><br>✅ <span class=\"certo\">o tempo depende só da largura e da velocidade do barco em relação à água; a correnteza só o <b>arrasta</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Independência dos movimentos</span></span><span class=\"vs\"><span>Horizontal e vertical ocorrem separadamente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lançamento horizontal</span></span><span class=\"vs\"><span>x = v₀t; y = gt²/2; tempo depende só de h</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Alcance máximo</span></span><span class=\"vs\"><span>θ = 45°</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ângulos complementares</span></span><span class=\"vs\"><span>Mesmo alcance</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Topo do lançamento oblíquo</span></span><span class=\"vs\"><span>v = v₀·cos θ; a = g</span></span></button></div></div>\n<h3>16. Unidades, notação científica e análise dimensional</h3>\n<ul><li><b>Sistema Internacional (SI)</b>: comprimento em <b>metro (m)</b>, massa em <b>quilograma (kg)</b>, tempo em <b>segundo (s)</b>. Velocidade em <b>m/s</b>, aceleração em <b>m/s²</b>, força em <b>newton (N = kg·m/s²)</b>, energia e trabalho em <b>joule (J = N·m)</b>, potência em <b>watt (W = J/s)</b>.</li><li><b>Prefixos mais usados</b>: quilo (k) = 10³; mega (M) = 10⁶; giga (G) = 10⁹; centi (c) = 10⁻²; mili (m) = 10⁻³; micro (μ) = 10⁻⁶; nano (n) = 10⁻⁹. Atenção: <b>m</b> minúsculo antes de uma unidade é mili (ms = milissegundo), mas sozinho é metro.</li><li><b>Notação científica</b>: número entre 1 e 10 multiplicado por potência de 10: 340 m/s = 3,4 × 10² m/s; 0,0005 s = 5 × 10⁻⁴ s; velocidade da luz ≈ 3 × 10⁸ m/s.</li><li><b>Ordem de grandeza</b>: a potência de 10 mais próxima do valor. Regra usual: se o número em notação científica for <b>menor que ≈ 3,16</b> (√10), a ordem é a própria potência; se for maior, sobe-se uma potência. 2 × 10³ tem ordem 10³; 5 × 10³ tem ordem 10⁴.</li><li><b>Análise dimensional</b>: as duas parcelas de uma soma e os dois lados de uma equação devem ter a <b>mesma unidade</b>. É um teste rápido para descobrir se uma fórmula está escrita errada: em s = s₀ + v·t, v·t tem unidade (m/s)·s = m, compatível com s. Já \"v = a·t²\" está errada, porque a·t² dá metros, não m/s.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Conferindo uma fórmula pela unidade</b><ol><li><span>Uma questão afirma que a altura máxima de um lançamento vertical é H = v₀/(2g)</span></li><li><span>Unidade de v₀/g: (m/s)/(m/s²) = s (segundo!)</span></li><li><span>Uma altura precisa estar em metros: a fórmula correta é H = v₀²/(2g)</span></li><li><span>(m²/s²)/(m/s²) = m ✓</span></li></ol><span class=\"res\">A fórmula proposta está errada: dá tempo, não altura</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O prefixo mili corresponde a 10³</span><br>✅ <span class=\"certo\">mili é <b>10⁻³</b>; <b>quilo</b> é 10³</span></li><li>❌ <span class=\"banca\">A expressão v·t² tem unidade de velocidade</span><br>✅ <span class=\"certo\">(m/s)·s² = m·s, que <b>não</b> é velocidade</span></li><li>❌ <span class=\"banca\">A massa e o peso são medidos na mesma unidade no SI</span><br>✅ <span class=\"certo\">massa em <b>kg</b>; peso é força, em <b>newtons</b></span></li></ol></div>\n<h3>17. Interpretação avançada de gráficos</h3>\n<ul><li><b>Inclinação (coeficiente angular)</b>: no gráfico s × t, dá a velocidade; no gráfico v × t, dá a aceleração. Inclinação <b>maior</b> = valor <b>maior</b>. Inclinação <b>zero</b> (trecho horizontal) = grandeza nula naquele trecho.</li><li><b>Área</b>: no gráfico v × t, dá o deslocamento; no gráfico a × t, a variação de velocidade. Área <b>abaixo</b> do eixo do tempo é <b>negativa</b>.</li><li><b>Mudança de sentido</b>: no gráfico v × t, ocorre quando a curva <b>cruza o eixo do tempo</b> (v passa de positiva a negativa). No gráfico s × t, quando a curva atinge um <b>máximo ou mínimo</b> (vértice).</li><li><b>Dois móveis no mesmo gráfico s × t</b>: o ponto em que as curvas se cruzam é o <b>encontro</b> (mesma posição no mesmo instante). No gráfico v × t, o cruzamento indica apenas que as <b>velocidades são iguais</b> naquele instante, <b>não</b> que os móveis se encontraram.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Gráfico v × t com dois carros</b><p>No gráfico v × t, o carro A parte do repouso com aceleração constante e o carro B mantém velocidade constante; as linhas se cruzam em t = 10 s. Os carros se encontram nesse instante?</p><details><summary>Ver a solução comentada</summary><p><b>Não necessariamente.</b> O cruzamento no gráfico v × t mostra que, em t = 10 s, as <b>velocidades</b> são iguais. Para saber se se encontram, compare as <b>áreas</b> (deslocamentos): até t = 10 s, B percorreu mais (retângulo) que A (triângulo de mesma altura); se partiram do mesmo ponto, B está <b>à frente</b> e A só o alcançará depois, em t = 20 s (quando as áreas se igualam).</p></details></div>\n<ul><li><b>Movimento variado não uniforme</b>: se o gráfico v × t for uma <b>curva</b>, a aceleração muda com o tempo e as equações do MRUV <b>não</b> valem. A área continua dando o deslocamento, e a inclinação da reta tangente dá a aceleração instantânea.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No gráfico v × t, o ponto de cruzamento das retas de dois móveis indica o instante em que eles se encontram</span><br>✅ <span class=\"certo\">indica que as <b>velocidades</b> se igualam; encontro se lê no gráfico <b>s × t</b></span></li><li>❌ <span class=\"banca\">Uma área sob o eixo do tempo, no gráfico v × t, deve ser somada como deslocamento positivo</span><br>✅ <span class=\"certo\">corresponde a deslocamento <b>negativo</b> (sentido contrário)</span></li><li>❌ <span class=\"banca\">As equações do MRUV podem ser aplicadas sempre que o gráfico v × t for uma curva</span><br>✅ <span class=\"certo\">só valem para aceleração <b>constante</b> (gráfico v × t <b>reto</b>)</span></li></ol></div>\n<h3>18. Cinemática aplicada à fiscalização e à perícia</h3>\n<ul><li><b>Radar fixo ou estático</b>: mede a <b>velocidade instantânea</b> (por efeito Doppler, laser ou sensores no pavimento) num ponto da via.</li><li><b>Velocidade média entre pontos</b>: medida pelo tempo de passagem entre dois pontos afastados, como visto antes.</li><li><b>Tolerância dos medidores</b>: a regulamentação do CONTRAN desconta uma margem de erro antes de considerar a infração; nas regras vigentes, a tolerância é de <b>7 km/h</b> para velocidades medidas até 100 km/h e de <b>7%</b> acima disso. A velocidade considerada é a medida menos a tolerância.</li><li><b>Gradação da infração por excesso de velocidade</b> (CTB, art. 218): até <b>20%</b> acima do limite, <b>média</b>; de <b>20% a 50%</b>, <b>grave</b>; <b>mais de 50%</b>, <b>gravíssima</b>, com multa multiplicada por três e suspensão do direito de dirigir.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Excesso de velocidade</b><ol><li><span>Rodovia com limite de 80 km/h; o radar mede 107 km/h</span></li><li><span>Tolerância (acima de 100 km/h): 7% de 107 ≈ 7,5 km/h</span></li><li><span>Velocidade considerada: ≈ 99,5 km/h</span></li><li><span>Excesso: 99,5 − 80 = 19,5 km/h ≈ 24% do limite</span></li></ol><span class=\"res\">Infração grave (excesso entre 20% e 50%)</span></div>\n<ul><li><b>Marcas de frenagem</b>: em pista seca, a perícia mede o comprimento das marcas de pneus (d) e estima o coeficiente de atrito μ. Como a desaceleração na frenagem com rodas travadas é a = μ·g, pela equação de Torricelli: <b>v₀ = √(2·μ·g·d)</b>. O resultado é uma velocidade <b>mínima</b>, porque parte da energia pode ter sido dissipada antes das marcas ou no impacto.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Velocidade a partir das marcas</b><ol><li><span>Marcas de frenagem de 40 m; coeficiente de atrito 0,8; g = 10 m/s²</span></li><li><span>Desaceleração: a = μ·g = 8 m/s²</span></li><li><span>Torricelli com v = 0: v₀² = 2·8·40 = 640</span></li><li><span>v₀ ≈ 25,3 m/s ≈ 91 km/h</span></li></ol><span class=\"res\">Velocidade mínima no início das marcas: cerca de 91 km/h</span></div>\n<ul><li><b>Zona de dilema no semáforo amarelo</b>: se o condutor está perto demais para parar com segurança e longe demais para atravessar o cruzamento antes do vermelho, fica numa \"zona de dilema\". Por isso o tempo de amarelo cresce com a velocidade da via. A distância mínima para parar é a distância de parada (reação + frenagem).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>SI</span></span><span class=\"vs\"><span>m, kg, s; N = kg·m/s²; J = N·m; W = J/s</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Análise dimensional</span></span><span class=\"vs\"><span>Os dois lados da equação têm a mesma unidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cruzamento no gráfico s × t</span></span><span class=\"vs\"><span>Encontro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cruzamento no gráfico v × t</span></span><span class=\"vs\"><span>Velocidades iguais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marcas de frenagem</span></span><span class=\"vs\"><span>v₀ = √(2μgd), velocidade mínima</span></span></button></div></div>\n<h3>19. Resolvendo itens no estilo Cebraspe</h3>\n<ul><li>Os itens de cinemática da Cebraspe costumam trazer um <b>texto-base</b> com uma situação (um veículo que freia, uma perseguição, uma ultrapassagem, um gráfico) e vários itens julgados a partir dele. O método que funciona:</li></ul>\n<div class=\"lt-fluxo\"><span>Ler o texto-base e anotar os dados com unidade</span> <em>→</em> <span>Converter tudo para o SI</span> <em>→</em> <span>Identificar o tipo de movimento em cada trecho</span> <em>→</em> <span>Escolher a equação pela grandeza ausente</span> <em>→</em> <span>Calcular e conferir a unidade</span> <em>→</em> <span>Comparar o resultado com o item, palavra por palavra</span></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a frenagem na rodovia</b><p>Um automóvel trafega a 108 km/h quando o condutor avista um animal na pista, a 100 m de distância. Seu tempo de reação é de 0,8 s e, após acionar os freios, o veículo desacelera uniformemente a 6 m/s². Julgue: (1) a distância percorrida durante o tempo de reação é inferior a 25 m; (2) o veículo para antes de atingir o animal; (3) o tempo total entre avistar o animal e parar é superior a 6 s.</p><details><summary>Ver a solução comentada</summary><p>Converta: 108 km/h = 30 m/s. (1) Reação: 30·0,8 = <b>24 m</b>: <b>certo</b>. (2) Frenagem: 30²/(2·6) = 900/12 = <b>75 m</b>; parada total: 24 + 75 = <b>99 m</b> < 100 m: <b>certo</b> (por apenas 1 m). (3) Tempo de frenagem: 30/6 = 5 s; total: 0,8 + 5 = <b>5,8 s</b>: <b>errado</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: perseguição</b><p>Um veículo suspeito passa por um posto da PRF a 90 km/h, em velocidade constante. Uma viatura parte do repouso no exato instante da passagem, com aceleração constante de 2,5 m/s². Julgue: (1) a viatura alcança o suspeito após 20 s; (2) no instante do encontro, a velocidade da viatura é o dobro da do suspeito; (3) o encontro ocorre a 500 m do posto.</p><details><summary>Ver a solução comentada</summary><p>90 km/h = 25 m/s. Suspeito: s = 25t. Viatura: s = 2,5·t²/2 = 1,25t². Igualando: 1,25t² = 25t → t = <b>20 s</b>: (1) <b>certo</b>. Velocidade da viatura: 2,5·20 = 50 m/s, <b>o dobro</b> de 25 m/s: (2) <b>certo</b> (é uma propriedade geral: quem parte do repouso em MRUV alcança um móvel em MRU, que saiu junto, com o dobro da velocidade dele). Posição: 25·20 = <b>500 m</b>: (3) <b>certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: queda de carga</b><p>De um caminhão parado no alto de um viaduto, a 45 m do solo, cai uma peça (g = 10 m/s², resistência do ar desprezível). Julgue: (1) a peça leva 3 s para atingir o solo; (2) a peça chega ao solo a 108 km/h; (3) uma peça com o dobro da massa chegaria ao solo em metade do tempo.</p><details><summary>Ver a solução comentada</summary><p>(1) t = √(2·45/10) = √9 = <b>3 s</b>: <b>certo</b>. (2) v = g·t = 30 m/s = <b>108 km/h</b>: <b>certo</b>. (3) Em queda livre o tempo <b>não depende da massa</b>: <b>errado</b>.</p></details></div>\n<ul><li><b>Dicas de prova</b>:</li><li>Faça as contas com números \"redondos\" que a banca escolhe: 72 km/h = 20 m/s, 108 km/h = 30 m/s, 54 km/h = 15 m/s, 90 km/h = 25 m/s. Se a conta estiver dando decimais feios, reveja a conversão.</li><li>Leia atentamente <b>qual</b> distância o item pede: de reação, de frenagem ou total; e <b>a partir de quando</b> conta o tempo.</li><li>Verbos como \"<b>apenas</b>\", \"<b>necessariamente</b>\", \"<b>sempre</b>\" e \"<b>independentemente</b>\" costumam esconder o erro do item.</li><li>Em itens de proporção (\"se a velocidade dobrar...\"), descubra a <b>potência</b> da grandeza na fórmula: Δs ∝ v² (frenagem), t ∝ v (tempo de frenagem com a mesma desaceleração), distância de reação ∝ v.</li></ul>\n<table class=\"tab\"><thead><tr><th>Se a velocidade inicial dobrar (mesma desaceleração)</th><th>O que acontece</th></tr></thead><tbody><tr><td>Tempo de reação</td><td>não muda (depende do condutor)</td></tr><tr><td>Distância de reação</td><td><b>dobra</b></td></tr><tr><td>Tempo de frenagem (t = v/a)</td><td><b>dobra</b></td></tr><tr><td>Distância de frenagem (v²/2a)</td><td><b>quadruplica</b></td></tr><tr><td>Energia cinética (próximo tópico)</td><td><b>quadruplica</b></td></tr></tbody></table>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se a velocidade dobrar, o tempo de frenagem quadruplica, mantida a desaceleração</span><br>✅ <span class=\"certo\">o <b>tempo</b> de frenagem (v/a) <b>dobra</b>; a <b>distância</b> é que quadruplica</span></li><li>❌ <span class=\"banca\">Um móvel que parte do repouso em MRUV, no mesmo instante e local em que outro passa em MRU, alcança-o quando suas velocidades se igualam</span><br>✅ <span class=\"certo\">quando as velocidades se igualam, a distância entre eles é <b>máxima</b>; o alcance ocorre quando a velocidade do perseguidor é o <b>dobro</b></span></li></ol></div>\n<h3>20. Síntese do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Movimento</th><th>Aceleração</th><th>Equações</th><th>Gráfico s × t</th><th>Gráfico v × t</th></tr></thead><tbody><tr><td>MRU</td><td>nula</td><td>s = s₀ + v·t</td><td>reta inclinada</td><td>reta horizontal</td></tr><tr><td>MRUV</td><td>constante</td><td>v = v₀ + a·t; s = s₀ + v₀t + at²/2; v² = v₀² + 2aΔs</td><td>parábola</td><td>reta inclinada</td></tr><tr><td>Queda livre</td><td>g (para baixo)</td><td>v = gt; h = gt²/2; v² = 2gh</td><td>parábola</td><td>reta inclinada</td></tr><tr><td>Lançamento vertical</td><td>g (para baixo)</td><td>t_s = v₀/g; H = v₀²/2g</td><td>parábola com vértice no topo</td><td>reta que cruza o eixo no topo</td></tr><tr><td>Lançamento horizontal</td><td>g (vertical)</td><td>x = v₀t; y = gt²/2</td><td>trajetória parabólica</td><td>v_x constante; v_y cresce</td></tr><tr><td>Lançamento oblíquo</td><td>g (vertical)</td><td>A = v₀²·sen 2θ/g; H = (v₀ sen θ)²/2g</td><td>trajetória parabólica</td><td>v_x constante; v_y diminui, zera e inverte</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para lembrar as três equações do MRUV, pense nas perguntas: \"quanto tempo?\" (v = v₀ + at), \"onde estará?\" (s = s₀ + v₀t + at²/2) e \"sem relógio?\" (Torricelli). Se a questão não fala em tempo, Torricelli quase sempre resolve.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perseguição a partir do repouso</span></span><span class=\"vs\"><span>O perseguidor alcança com o dobro da velocidade do perseguido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidades iguais na perseguição</span></span><span class=\"vs\"><span>Distância máxima entre eles</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tempo de frenagem</span></span><span class=\"vs\"><span>t = v/a (proporcional a v)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Distância de frenagem</span></span><span class=\"vs\"><span>v²/2a (proporcional a v²)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>108 km/h</span></span><span class=\"vs\"><span>30 m/s</span></span></button></div></div>\n<h3>21. Viagens, paradas e o \"tempo ganho\" com o excesso de velocidade</h3>\n<ul><li><b>Velocidade média de uma viagem com paradas</b>: o tempo parado <b>entra</b> no tempo total. Uma viagem de 300 km feita a 100 km/h em movimento, com uma parada de 30 minutos, dura 3,5 h, e a velocidade média é 300/3,5 ≈ 86 km/h.</li><li><b>Quanto se ganha correndo?</b> Muito menos do que se imagina. Em 60 km, a diferença entre 100 km/h e 120 km/h é de apenas <b>6 minutos</b> (36 min contra 30 min), enquanto a energia cinética, a distância de frenagem e a gravidade de um acidente aumentam em cerca de <b>44%</b> (proporcional a v²: (120/100)² = 1,44).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Tempo economizado</b><ol><li><span>Trecho de 60 km</span></li><li><span>A 100 km/h: 60/100 = 0,6 h = 36 min</span></li><li><span>A 120 km/h: 60/120 = 0,5 h = 30 min</span></li><li><span>Ganho: 6 min</span></li></ol><span class=\"res\">Ganho de 6 min com 44% a mais de energia cinética e de distância de frenagem</span></div>\n<ul><li><b>Tempo de viagem com trechos de velocidades diferentes</b>: calcule o tempo de <b>cada trecho</b> (distância ÷ velocidade) e some. Nunca faça a média das velocidades antes.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Viagem em três trechos</b><ol><li><span>40 km de serra a 50 km/h; 150 km de rodovia a 100 km/h; 10 km urbanos a 40 km/h</span></li><li><span>Tempos: 40/50 = 0,8 h; 150/100 = 1,5 h; 10/40 = 0,25 h</span></li><li><span>Total: 2,55 h (2 h 33 min) para 200 km</span></li><li><span>Velocidade média: 200/2,55 ≈ 78 km/h</span></li></ol><span class=\"res\">Tempo total ≈ 2 h 33 min; v_m ≈ 78 km/h</span></div>\n<h3>22. MRUV entre estações e trechos com aceleração e frenagem</h3>\n<ul><li>Em problemas com <b>aceleração, velocidade constante e frenagem</b> (trem, metrô, veículo entre semáforos), o caminho mais rápido é o <b>gráfico v × t</b> e suas áreas (trapézio). A área do trapézio é (base maior + base menor) × altura / 2.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Metrô entre duas estações</b><ol><li><span>O trem acelera a 1 m/s² até 20 m/s, segue a 20 m/s e freia a 1 m/s² até parar; a distância entre estações é de 1.200 m</span></li><li><span>Tempo de aceleração: 20 s (área: 200 m); de frenagem: 20 s (área: 200 m)</span></li><li><span>Trecho constante: 1.200 − 400 = 800 m → 800/20 = 40 s</span></li><li><span>Tempo total: 20 + 40 + 20 = 80 s</span></li></ol><span class=\"res\">80 s entre as estações; v_m = 1.200/80 = 15 m/s</span></div>\n<ul><li><b>Semáforos sincronizados (\"onda verde\")</b>: são programados para uma velocidade de projeto. Quem anda acima dela chega cedo aos sinais vermelhos e <b>não ganha tempo</b>; quem anda na velocidade de projeto encontra os sinais abertos.</li></ul>\n<h3>23. Navegação e vento: mais composição vetorial</h3>\n<ul><li>Um avião ou um drone voa em relação ao <b>ar</b>, que se move em relação ao solo (vento). A velocidade em relação ao solo é a soma vetorial: <b>v_solo = v_ar + v_vento</b>.</li><li><b>Vento de cauda</b> aumenta a velocidade em relação ao solo; <b>vento de proa</b> (de frente) diminui; <b>vento lateral</b> exige corrigir o rumo, apontando o nariz da aeronave levemente contra o vento.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Drone com vento lateral</b><ol><li><span>Um drone de monitoramento voa a 12 m/s em relação ao ar, apontado para o norte; sopra vento de 5 m/s para o leste</span></li><li><span>Velocidade em relação ao solo: √(12² + 5²) = √169 = 13 m/s</span></li><li><span>Direção: para o norte, desviando para leste</span></li><li><span>Em 60 s, desloca-se 720 m para o norte e 300 m para o leste</span></li></ol><span class=\"res\">v = 13 m/s; deslocamento de 780 m (√(720² + 300²))</span></div>\n<ul><li><b>Relatividade de Galileu</b>: as leis do movimento são as mesmas em qualquer referencial que se mova em <b>MRU</b> em relação a outro (referenciais <b>inerciais</b>). Por isso, num avião em voo de cruzeiro estável, um copo cai \"reto\" no corredor, como em terra.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O vento lateral não altera a velocidade de uma aeronave em relação ao solo, apenas sua direção</span><br>✅ <span class=\"certo\">a velocidade em relação ao solo é a <b>soma vetorial</b> e, em módulo, <b>aumenta</b> (√(v² + v_vento²))</span></li><li>❌ <span class=\"banca\">Numa viagem com parada, a velocidade média deve ser calculada considerando apenas o tempo em movimento</span><br>✅ <span class=\"certo\">o tempo <b>parado</b> entra no tempo total</span></li><li>❌ <span class=\"banca\">Aumentar a velocidade de 100 km/h para 120 km/h reduz pela metade o tempo de uma viagem</span><br>✅ <span class=\"certo\">reduz o tempo em cerca de <b>17%</b> (de 36 para 30 min em 60 km)</span></li></ol></div>\n<h3>24. Movimentos relativos em situações policiais</h3>\n<ul><li><b>Abordagem em movimento</b>: uma viatura que segue um veículo <b>à mesma velocidade</b> permanece em repouso em relação a ele; a distância entre ambos não muda.</li><li><b>Comboios</b>: veículos de um comboio a 80 km/h, separados por 50 m, passam por um ponto fixo a cada 50/(22,2) ≈ 2,25 s.</li><li><b>Ponto de encontro com bloqueio</b>: para interceptar um veículo, calcula-se o tempo que ele leva até o local do bloqueio e compara-se com o tempo que a equipe leva até lá.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Bloqueio a tempo?</b><p>Um veículo em fuga está a 30 km de um posto, rodando a 120 km/h em direção a ele. Uma equipe que está a 12 km do posto, do outro lado, parte imediatamente a 90 km/h para montar o bloqueio, que leva 3 minutos para ser montado. Dá tempo?</p><details><summary>Ver a solução comentada</summary><p>O fugitivo chega ao posto em 30/120 = 0,25 h = <b>15 min</b>. A equipe chega em 12/90 ≈ 0,133 h = <b>8 min</b> e monta o bloqueio em 3 min: pronto em <b>11 min</b>. Sobram <b>4 minutos</b>: dá tempo.</p></details></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Viagem com parada</span></span><span class=\"vs\"><span>Tempo parado entra no total</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>De 100 para 120 km/h</span></span><span class=\"vs\"><span>Ganha ~17% de tempo; energia e frenagem sobem 44%</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Trapézio no v × t</span></span><span class=\"vs\"><span>Área = (B + b)·h/2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vento lateral</span></span><span class=\"vs\"><span>Soma vetorial (Pitágoras)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mesma velocidade</span></span><span class=\"vs\"><span>Repouso relativo</span></span></button></div></div>\n<h3>25. Treino guiado: exercícios resolvidos em ordem de dificuldade</h3>\n<ul><li>Tente cada exercício <b>antes</b> de ler a solução. O método é sempre o mesmo: dados no SI, tipo de movimento, equação, conta, conferência da unidade.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 1 (conversão)</b><ol><li><span>Um veículo a 126 km/h percorre quantos metros em 4 s?</span></li><li><span>Converta: 126 ÷ 3,6 = 35 m/s</span></li><li><span>MRU: d = v·t = 35·4</span></li></ol><span class=\"res\">140 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 2 (MRU com tempo em minutos)</b><ol><li><span>Um caminhão a 72 km/h, em quanto tempo percorre 3 km?</span></li><li><span>Converta: 72 km/h = 20 m/s; 3 km = 3.000 m</span></li><li><span>t = d/v = 3.000/20 = 150 s</span></li></ol><span class=\"res\">150 s = 2 min 30 s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 3 (aceleração média)</b><ol><li><span>Uma moto passa de 36 km/h a 108 km/h em 5 s. Qual a aceleração média?</span></li><li><span>Converta: 10 m/s → 30 m/s</span></li><li><span>a = Δv/Δt = (30 − 10)/5</span></li></ol><span class=\"res\">a = 4 m/s²</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 4 (posição no MRUV)</b><ol><li><span>Partindo do repouso com a = 2 m/s², que distância um carro percorre no 5º segundo (entre t = 4 s e t = 5 s)?</span></li><li><span>s(5) = 2·25/2 = 25 m</span></li><li><span>s(4) = 2·16/2 = 16 m</span></li><li><span>Diferença: 25 − 16 = 9 m</span></li></ol><span class=\"res\">9 m no 5º segundo (regra 1 : 3 : 5 : 7 : 9)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 5 (Torricelli)</b><ol><li><span>Um carro a 20 m/s acelera a 1,5 m/s² ao longo de 100 m. Qual a velocidade final?</span></li><li><span>v² = 20² + 2·1,5·100 = 400 + 300 = 700</span></li><li><span>v = √700 ≈ 26,5 m/s</span></li></ol><span class=\"res\">v ≈ 26,5 m/s (≈ 95 km/h)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 6 (tempo de frenagem)</b><ol><li><span>Um ônibus a 54 km/h freia com desaceleração de 3 m/s². Quanto tempo leva e quanto percorre até parar?</span></li><li><span>Converta: 54 ÷ 3,6 = 15 m/s</span></li><li><span>t = v₀/a = 15/3 = 5 s</span></li><li><span>Δs = v_m·t = (15 + 0)/2·5 = 37,5 m</span></li></ol><span class=\"res\">5 s e 37,5 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 7 (queda livre)</b><ol><li><span>Uma pedra é solta de 125 m de altura. Quanto tempo leva e com que velocidade chega?</span></li><li><span>t = √(2·125/10) = √25 = 5 s</span></li><li><span>v = g·t = 50 m/s</span></li></ol><span class=\"res\">5 s; 50 m/s (180 km/h)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 8 (lançamento vertical)</b><ol><li><span>Com que velocidade mínima se deve lançar um objeto para cima para que ele atinja 20 m de altura?</span></li><li><span>No topo, v = 0: 0 = v₀² − 2·10·20</span></li><li><span>v₀² = 400</span></li></ol><span class=\"res\">v₀ = 20 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 9 (vetores)</b><ol><li><span>Um corpo sofre deslocamentos de 9 m para o leste e 12 m para o norte. Qual o deslocamento resultante?</span></li><li><span>Perpendiculares: Pitágoras</span></li><li><span>√(81 + 144) = √225</span></li></ol><span class=\"res\">15 m (para nordeste)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 10 (lançamento horizontal)</b><ol><li><span>Uma moto salta horizontalmente de uma rampa de 5 m de altura a 30 m/s. A que distância toca o solo?</span></li><li><span>t = √(2·5/10) = 1 s</span></li><li><span>A = v₀·t = 30·1</span></li></ol><span class=\"res\">30 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 11 (gráfico)</b><ol><li><span>No gráfico v × t, a velocidade cresce linearmente de 0 a 12 m/s em 6 s e depois cai linearmente a 0 em 4 s. Qual o deslocamento total e a velocidade média?</span></li><li><span>Área = triângulo de base 10 s e altura 12 m/s = 10·12/2 = 60 m</span></li><li><span>v_m = 60/10</span></li></ol><span class=\"res\">60 m; 6 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 12 (distância de parada)</b><ol><li><span>Carro a 90 km/h, tempo de reação 1,2 s, desaceleração 5 m/s²</span></li><li><span>25 m/s; reação: 25·1,2 = 30 m</span></li><li><span>Frenagem: 625/10 = 62,5 m</span></li><li><span>Total: 92,5 m</span></li></ol><span class=\"res\">Distância de parada: 92,5 m</span></div>\n<h3>26. Pegadinhas finais de cinemática</h3>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A velocidade de 20 m/s equivale a 5,6 km/h</span><br>✅ <span class=\"certo\">20 m/s × 3,6 = <b>72 km/h</b> (dividir por 3,6 é o caminho de km/h para m/s)</span></li><li>❌ <span class=\"banca\">Um corpo pode ter velocidade nula e aceleração não nula somente em situações hipotéticas</span><br>✅ <span class=\"certo\">acontece sempre no <b>topo</b> de um lançamento vertical e na <b>inversão de sentido</b> de qualquer MRUV</span></li><li>❌ <span class=\"banca\">No MRUV, a velocidade média é sempre igual à média aritmética entre as velocidades inicial e final, inclusive quando a aceleração varia</span><br>✅ <span class=\"certo\">a fórmula (v₀ + v)/2 vale <b>apenas</b> para aceleração <b>constante</b></span></li><li>❌ <span class=\"banca\">A trajetória de um corpo independe do referencial adotado</span><br>✅ <span class=\"certo\">a trajetória <b>depende</b> do referencial (exemplo da lâmpada no trem)</span></li><li>❌ <span class=\"banca\">Um corpo em queda livre percorre distâncias iguais em cada segundo</span><br>✅ <span class=\"certo\">as distâncias <b>crescem</b> na proporção 1 : 3 : 5 : 7 (5, 15, 25, 35 m...)</span></li></ol></div>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>Nas provas da PRF, a cinemática quase sempre aparece <b>contextualizada no trânsito</b>: distância de parada, efeito da velocidade dobrada, fiscalização, ultrapassagem, perseguição. Os itens costumam exigir <b>uma conta curta</b> e a leitura cuidadosa da grandeza pedida. Os erros mais comuns dos candidatos são a conversão de unidades, confundir distância de frenagem com distância total e aplicar MRU onde há aceleração.</p></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>No 5º segundo, a partir do repouso</span></span><span class=\"vs\"><span>Distância proporcional a 9 (1:3:5:7:9)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade nula com aceleração</span></span><span class=\"vs\"><span>Topo do lançamento; inversão de sentido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tempo de queda de 125 m</span></span><span class=\"vs\"><span>5 s</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Altura de 20 m</span></span><span class=\"vs\"><span>v₀ = 20 m/s</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>54 km/h</span></span><span class=\"vs\"><span>15 m/s</span></span></button></div></div>\n<h3>27. Desempenho de veículos: o que dizem os números do fabricante</h3>\n<ul><li><b>\"0 a 100 km/h em 10 s\"</b>: significa uma aceleração <b>média</b> de (100/3,6)/10 ≈ 2,8 m/s². Durante a arrancada, a aceleração real não é constante (é maior nas primeiras marchas), mas o valor médio permite estimar distâncias: supondo aceleração constante, o carro percorre v_m·t = (0 + 27,8)/2·10 ≈ 139 m.</li><li><b>Comparação com a gravidade</b>: uma aceleração de 2,8 m/s² equivale a cerca de <b>0,28 g</b>. Uma frenagem forte em pista seca, com ABS, chega a 8 ou 9 m/s² (0,8 a 0,9 g). Em colisões, as acelerações chegam a dezenas de \"g\", por isso o cinto e o air bag são essenciais (ver dinâmica e quantidade de movimento).</li><li><b>Frenagem é mais \"forte\" que arrancada</b>: um carro comum leva cerca de 10 s para chegar a 100 km/h, mas consegue parar dessa velocidade em cerca de 3 a 4 s. Os freios dissipam energia muito mais rapidamente do que o motor consegue fornecer.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Comparando arrancada e frenagem</b><ol><li><span>Um carro vai de 0 a 108 km/h em 12 s e freia de 108 km/h a 0 em 4 s (acelerações constantes)</span></li><li><span>Arrancada: a = 30/12 = 2,5 m/s²; distância = 15·12 = 180 m</span></li><li><span>Frenagem: a = 30/4 = 7,5 m/s²; distância = 15·4 = 60 m</span></li><li><span>Razão entre acelerações: 7,5/2,5 = 3</span></li></ol><span class=\"res\">A frenagem é 3 vezes mais intensa e ocupa 1/3 da distância</span></div>\n<ul><li><b>Motocicletas</b>: aceleram mais que carros (menor massa para a potência), mas frenagem e estabilidade dependem muito da técnica do condutor; as distâncias de parada costumam ser <b>maiores</b> que as de um carro com ABS, sobretudo em pista molhada.</li><li><b>Veículos pesados</b>: caminhões carregados têm desaceleração máxima menor (freios mais solicitados, maior massa) e precisam de distâncias de parada bem maiores. Por isso as regras de distância de segurança e as faixas de velocidade são mais restritivas para eles.</li></ul>\n<h3>28. Movimento de vários corpos e \"quem chega primeiro\"</h3>\n<ul><li>Em questões do tipo \"quem chega primeiro\", calcule o <b>tempo de cada um</b> até o mesmo ponto. Quem parte do repouso e acelera pode perder no início e ganhar no fim.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Corrida de 100 m</b><ol><li><span>A parte do repouso com 4 m/s² (sem limite de velocidade); B mantém 12 m/s desde o início</span></li><li><span>A: 100 = 2·t² → t = √50 ≈ 7,1 s</span></li><li><span>B: 100/12 ≈ 8,3 s</span></li><li><span>Quando estão empatados em velocidade? 4t = 12 → t = 3 s (nesse instante B está mais à frente: 36 m contra 18 m)</span></li></ol><span class=\"res\">A chega primeiro (7,1 s contra 8,3 s), embora esteja atrás durante os primeiros segundos</span></div>\n<ul><li><b>Distância máxima na perseguição</b>: enquanto o perseguido é mais rápido, a distância entre eles <b>aumenta</b>; quando o perseguidor fica mais rápido, ela <b>diminui</b>. Logo, a distância é <b>máxima</b> no instante em que as velocidades se igualam.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Perseguição com distância máxima</b><p>Um suspeito em MRU a 30 m/s passa por uma viatura parada, que no mesmo instante arranca com 3 m/s². Qual a maior distância entre eles e quando a viatura alcança o suspeito?</p><details><summary>Ver a solução comentada</summary><p>Velocidades iguais: 3t = 30 → t = 10 s. Nesse instante: suspeito em 300 m; viatura em 3·100/2 = 150 m; distância máxima de <b>150 m</b>. Alcance: 1,5t² = 30t → t = <b>20 s</b>, a 600 m, com a viatura a 60 m/s (216 km/h): o dobro da velocidade do suspeito, como na propriedade geral.</p></details></div>\n<h3>29. A física da direção defensiva</h3>\n<ul><li><b>Distância de seguimento</b> e <b>tempo de reação</b> são grandezas da cinemática que explicam muitas regras de trânsito: manter distância do veículo da frente, reduzir a velocidade em pista molhada, não usar o celular.</li><li><b>Pista molhada</b>: o coeficiente de atrito cai (de cerca de 0,8 para 0,4 ou menos), e a desaceleração máxima cai na mesma proporção. Como a distância de frenagem é v²/(2·μ·g), <b>dividir o atrito por dois dobra a distância de frenagem</b>.</li><li><b>Aquaplanagem</b>: acima de certa velocidade, o pneu não consegue escoar a água e passa a \"flutuar\" sobre uma lâmina d'água; o atrito praticamente desaparece, e o veículo perde frenagem e direção.</li><li><b>Neblina e visibilidade</b>: a velocidade segura é aquela em que a <b>distância de parada</b> é menor que a <b>distância de visibilidade</b>. Se só se enxerga 50 m à frente, é preciso conseguir parar em menos de 50 m.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Velocidade segura na neblina</b><ol><li><span>Visibilidade de 50 m; tempo de reação de 1 s; desaceleração máxima de 5 m/s². Qual a velocidade máxima segura?</span></li><li><span>Distância de parada = v·1 + v²/10 ≤ 50</span></li><li><span>v² + 10v − 500 ≤ 0 → v = [−10 + √(100 + 2.000)]/2</span></li><li><span>v ≈ (−10 + 45,8)/2 ≈ 17,9 m/s</span></li></ol><span class=\"res\">Cerca de 64 km/h, no máximo</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em pista molhada, com metade do coeficiente de atrito, a distância de frenagem aumenta pela metade</span><br>✅ <span class=\"certo\">a distância de frenagem é inversamente proporcional a μ: com metade do atrito, ela <b>dobra</b></span></li><li>❌ <span class=\"banca\">A distância entre um perseguidor que parte do repouso e um móvel em MRU é máxima no instante do encontro</span><br>✅ <span class=\"certo\">é máxima quando as <b>velocidades se igualam</b>; no encontro ela é zero</span></li><li>❌ <span class=\"banca\">A velocidade segura em neblina independe do tempo de reação do condutor</span><br>✅ <span class=\"certo\">depende: a distância de parada inclui a <b>distância de reação</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>0 a 100 km/h em 10 s</span></span><span class=\"vs\"><span>a ≈ 2,8 m/s² (≈ 0,28 g)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Frenagem forte com ABS</span></span><span class=\"vs\"><span>≈ 8 a 9 m/s²</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atrito pela metade</span></span><span class=\"vs\"><span>Frenagem dobra</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade segura</span></span><span class=\"vs\"><span>Distância de parada ≤ visibilidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Distância máxima na perseguição</span></span><span class=\"vs\"><span>Velocidades iguais</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Um veículo a 54 km/h desloca-se a 20 metros por segundo.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 54 km/h >> Ideia: de km/h para m/s divide-se por 3,6 (1 km/h = 1.000 m / 3.600 s) >> Conta: 54 ÷ 3,6 = 15 >> Resultado: 15 m/s",
+"e": "km/h ÷ 3,6 = m/s"
+},
+{
+"p": "Um veículo a 126 km/h desloca-se a 35 metros por segundo.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 126 km/h >> Ideia: de km/h para m/s divide-se por 3,6 (1 km/h = 1.000 m / 3.600 s) >> Conta: 126 ÷ 3,6 = 35 >> Resultado: 35 m/s",
+"e": "km/h ÷ 3,6 = m/s"
+},
+{
+"p": "Um veículo a 90 km/h desloca-se a 30 metros por segundo.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 90 km/h >> Ideia: de km/h para m/s divide-se por 3,6 (1 km/h = 1.000 m / 3.600 s) >> Conta: 90 ÷ 3,6 = 25 >> Resultado: 25 m/s",
+"e": "km/h ÷ 3,6 = m/s"
+},
+{
+"p": "Um veículo a 36 km/h desloca-se a 20 metros por segundo.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 36 km/h >> Ideia: de km/h para m/s divide-se por 3,6 (1 km/h = 1.000 m / 3.600 s) >> Conta: 36 ÷ 3,6 = 10 >> Resultado: 10 m/s",
+"e": "km/h ÷ 3,6 = m/s"
+},
+{
+"p": "Um veículo a 72 km/h desloca-se a 24 metros por segundo.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 72 km/h >> Ideia: de km/h para m/s divide-se por 3,6 (1 km/h = 1.000 m / 3.600 s) >> Conta: 72 ÷ 3,6 = 20 >> Resultado: 20 m/s",
+"e": "km/h ÷ 3,6 = m/s"
+},
+{
+"p": "Um veículo a 18 km/h desloca-se a 5 metros por segundo.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 18 km/h >> Ideia: de km/h para m/s divide-se por 3,6 (1 km/h = 1.000 m / 3.600 s) >> Conta: 18 ÷ 3,6 = 5 >> Resultado: 5 m/s",
+"e": "km/h ÷ 3,6 = m/s"
+},
+{
+"p": "Em movimento retilíneo uniforme a 126 km/h, um veículo percorre 175 m em 5 s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 126 km/h; t = 5 s >> Converta: 126 km/h = 35 m/s >> Fórmula: d = v·t (MRU) >> Conta: d = 35·5 → d = 175 m >> Resultado: 175 m",
+"e": "MRU: d = v·t"
+},
+{
+"p": "Em movimento retilíneo uniforme a 90 km/h, um veículo percorre 150 m em 6 s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 90 km/h; t = 6 s >> Converta: 90 km/h = 25 m/s >> Fórmula: d = v·t (MRU) >> Conta: d = 25·6 → d = 150 m >> Resultado: 150 m",
+"e": "MRU: d = v·t"
+},
+{
+"p": "Em movimento retilíneo uniforme a 90 km/h, um veículo percorre 250 m em 10 s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 90 km/h; t = 10 s >> Converta: 90 km/h = 25 m/s >> Fórmula: d = v·t (MRU) >> Conta: d = 25·10 → d = 250 m >> Resultado: 250 m",
+"e": "MRU: d = v·t"
+},
+{
+"p": "Em movimento retilíneo uniforme a 90 km/h, um veículo percorre 350 m em 12 s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 90 km/h; t = 12 s >> Converta: 90 km/h = 25 m/s >> Fórmula: d = v·t (MRU) >> Conta: d = 25·12 → d = 300 m >> Resultado: 300 m",
+"e": "MRU: d = v·t"
+},
+{
+"p": "Em movimento retilíneo uniforme a 54 km/h, um veículo percorre 165 m em 12 s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 54 km/h; t = 12 s >> Converta: 54 km/h = 15 m/s >> Fórmula: d = v·t (MRU) >> Conta: d = 15·12 → d = 180 m >> Resultado: 180 m",
+"e": "MRU: d = v·t"
+},
+{
+"p": "Um veículo percorre a primeira metade de um trajeto a 80 km/h e a segunda metade a 120 km/h. Sua velocidade média no trajeto todo é de 100 km/h.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: com distâncias iguais, o veículo passa mais tempo no trecho lento, e a média não é a aritmética >> Fórmula: v_m = 2·v₁·v₂/(v₁ + v₂) (média harmônica) >> Conta: v_m = 2·80·120/(80 + 120) → v_m = 19.200/200 → v_m = 96 km/h >> Atenção: a média aritmética (100 km/h) só valeria para tempos iguais >> Resultado: 96 km/h",
+"e": "Distâncias iguais: média harmônica"
+},
+{
+"p": "Um veículo percorre a primeira metade de um trajeto a 40 km/h e a segunda metade a 120 km/h. Sua velocidade média no trajeto todo é de 60 km/h.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: com distâncias iguais, o veículo passa mais tempo no trecho lento, e a média não é a aritmética >> Fórmula: v_m = 2·v₁·v₂/(v₁ + v₂) (média harmônica) >> Conta: v_m = 2·40·120/(40 + 120) → v_m = 9.600/160 → v_m = 60 km/h >> Atenção: a média aritmética (80 km/h) só valeria para tempos iguais >> Resultado: 60 km/h",
+"e": "Distâncias iguais: média harmônica"
+},
+{
+"p": "Um veículo percorre a primeira metade de um trajeto a 30 km/h e a segunda metade a 60 km/h. Sua velocidade média no trajeto todo é de 45 km/h.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: com distâncias iguais, o veículo passa mais tempo no trecho lento, e a média não é a aritmética >> Fórmula: v_m = 2·v₁·v₂/(v₁ + v₂) (média harmônica) >> Conta: v_m = 2·30·60/(30 + 60) → v_m = 3.600/90 → v_m = 40 km/h >> Atenção: a média aritmética (45 km/h) só valeria para tempos iguais >> Resultado: 40 km/h",
+"e": "Distâncias iguais: média harmônica"
+},
+{
+"p": "Um veículo percorre a primeira metade de um trajeto a 40 km/h e a segunda metade a 60 km/h. Sua velocidade média no trajeto todo é de 50 km/h.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: com distâncias iguais, o veículo passa mais tempo no trecho lento, e a média não é a aritmética >> Fórmula: v_m = 2·v₁·v₂/(v₁ + v₂) (média harmônica) >> Conta: v_m = 2·40·60/(40 + 60) → v_m = 4.800/100 → v_m = 48 km/h >> Atenção: a média aritmética (50 km/h) só valeria para tempos iguais >> Resultado: 48 km/h",
+"e": "Distâncias iguais: média harmônica"
+},
+{
+"p": "Um veículo percorre a primeira metade de um trajeto a 60 km/h e a segunda metade a 120 km/h. Sua velocidade média no trajeto todo é de 80 km/h.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: com distâncias iguais, o veículo passa mais tempo no trecho lento, e a média não é a aritmética >> Fórmula: v_m = 2·v₁·v₂/(v₁ + v₂) (média harmônica) >> Conta: v_m = 2·60·120/(60 + 120) → v_m = 14.400/180 → v_m = 80 km/h >> Atenção: a média aritmética (90 km/h) só valeria para tempos iguais >> Resultado: 80 km/h",
+"e": "Distâncias iguais: média harmônica"
+},
+{
+"p": "Um veículo passa de 90 km/h para 126 km/h em 10 s. Sua aceleração escalar média é de 1 m/s².",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 90 km/h; v = 126 km/h; Δt = 10 s >> Converta: 90 km/h = 25 m/s; 126 km/h = 35 m/s >> Fórmula: a = Δv/Δt >> Conta: a = (35 − 25)/10 → a = 1 m/s² >> Atenção: sem converter, obteríamos 3,6, que estaria em km/h por segundo >> Resultado: 1 m/s²",
+"e": "a = Δv/Δt (no SI)"
+},
+{
+"p": "Um veículo passa de 126 km/h para 144 km/h em 2 s. Sua aceleração escalar média é de 9 m/s².",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v₀ = 126 km/h; v = 144 km/h; Δt = 2 s >> Converta: 126 km/h = 35 m/s; 144 km/h = 40 m/s >> Fórmula: a = Δv/Δt >> Conta: a = (40 − 35)/2 → a = 2,5 m/s² >> Atenção: sem converter, obteríamos 9, que estaria em km/h por segundo >> Resultado: 2,5 m/s²",
+"e": "a = Δv/Δt (no SI)"
+},
+{
+"p": "Um veículo passa de 36 km/h para 72 km/h em 2 s. Sua aceleração escalar média é de 5 m/s².",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 36 km/h; v = 72 km/h; Δt = 2 s >> Converta: 36 km/h = 10 m/s; 72 km/h = 20 m/s >> Fórmula: a = Δv/Δt >> Conta: a = (20 − 10)/2 → a = 5 m/s² >> Atenção: sem converter, obteríamos 18, que estaria em km/h por segundo >> Resultado: 5 m/s²",
+"e": "a = Δv/Δt (no SI)"
+},
+{
+"p": "Um veículo passa de 72 km/h para 126 km/h em 2 s. Sua aceleração escalar média é de 7,5 m/s².",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 72 km/h; v = 126 km/h; Δt = 2 s >> Converta: 72 km/h = 20 m/s; 126 km/h = 35 m/s >> Fórmula: a = Δv/Δt >> Conta: a = (35 − 20)/2 → a = 7,5 m/s² >> Atenção: sem converter, obteríamos 27, que estaria em km/h por segundo >> Resultado: 7,5 m/s²",
+"e": "a = Δv/Δt (no SI)"
+},
+{
+"p": "Partindo do repouso com aceleração constante de 2,5 m/s², um veículo atinge, após 4 s, velocidade de 20 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v₀ = 0; a = 2,5 m/s²; t = 4 s >> Pede: velocidade final >> Fórmula: v = v₀ + a·t >> Conta: v = 0 + 2,5·4 → v = 10 m/s >> Resultado: 10 m/s (36 km/h)",
+"e": "v = v₀ + a·t"
+},
+{
+"p": "Partindo do repouso com aceleração constante de 2,5 m/s², um veículo atinge, após 10 s, velocidade de 25 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 0; a = 2,5 m/s²; t = 10 s >> Pede: velocidade final >> Fórmula: v = v₀ + a·t >> Conta: v = 0 + 2,5·10 → v = 25 m/s >> Resultado: 25 m/s (90 km/h)",
+"e": "v = v₀ + a·t"
+},
+{
+"p": "Partindo do repouso com aceleração constante de 1 m/s², um veículo percorre 8 m nos primeiros 4 s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 0; a = 1 m/s²; t = 4 s >> Pede: deslocamento >> Fórmula: Δs = v₀·t + a·t²/2 >> Conta: Δs = 0 + 1·4²/2 → Δs = 1·16/2 → Δs = 8 m >> Atenção: esquecer o /2 daria 16 m >> Resultado: 8 m",
+"e": "s = s₀ + v₀t + at²/2"
+},
+{
+"p": "Partindo do repouso com aceleração constante de 3 m/s², um veículo percorre 48 m nos primeiros 4 s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v₀ = 0; a = 3 m/s²; t = 4 s >> Pede: deslocamento >> Fórmula: Δs = v₀·t + a·t²/2 >> Conta: Δs = 0 + 3·4²/2 → Δs = 3·16/2 → Δs = 24 m >> Atenção: esquecer o /2 daria 48 m >> Resultado: 24 m",
+"e": "s = s₀ + v₀t + at²/2"
+},
+{
+"p": "Partindo do repouso com aceleração constante de 5 m/s², um veículo atinge, após 6 s, velocidade de 30 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 0; a = 5 m/s²; t = 6 s >> Pede: velocidade final >> Fórmula: v = v₀ + a·t >> Conta: v = 0 + 5·6 → v = 30 m/s >> Resultado: 30 m/s (108 km/h)",
+"e": "v = v₀ + a·t"
+},
+{
+"p": "Partindo do repouso com aceleração constante de 4 m/s², um veículo percorre 32 m nos primeiros 4 s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 0; a = 4 m/s²; t = 4 s >> Pede: deslocamento >> Fórmula: Δs = v₀·t + a·t²/2 >> Conta: Δs = 0 + 4·4²/2 → Δs = 4·16/2 → Δs = 32 m >> Atenção: esquecer o /2 daria 64 m >> Resultado: 32 m",
+"e": "s = s₀ + v₀t + at²/2"
+},
+{
+"p": "Um veículo a 72 km/h freia com desaceleração constante de 10 m/s². A distância percorrida até parar é de 20 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 72 km/h; v = 0 (para); desaceleração a = 10 m/s² >> Converta: 72 km/h = 20 m/s >> Pede: distância de frenagem (o tempo não aparece) >> Fórmula: v² = v₀² − 2·a·Δs (Torricelli) >> Conta: 0 = 20² − 2·10·Δs → 20·Δs = 400 → Δs = 20 m >> Resultado: 20 m",
+"e": "Torricelli: Δs = v₀²/2a"
+},
+{
+"p": "Um veículo a 108 km/h freia com desaceleração constante de 4 m/s². A distância percorrida até parar é de 225 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v₀ = 108 km/h; v = 0 (para); desaceleração a = 4 m/s² >> Converta: 108 km/h = 30 m/s >> Pede: distância de frenagem (o tempo não aparece) >> Fórmula: v² = v₀² − 2·a·Δs (Torricelli) >> Conta: 0 = 30² − 2·4·Δs → 8·Δs = 900 → Δs = 112,5 m >> Resultado: 112,5 m",
+"e": "Torricelli: Δs = v₀²/2a"
+},
+{
+"p": "Um veículo a 72 km/h freia com desaceleração constante de 8 m/s². A distância percorrida até parar é de 50 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v₀ = 72 km/h; v = 0 (para); desaceleração a = 8 m/s² >> Converta: 72 km/h = 20 m/s >> Pede: distância de frenagem (o tempo não aparece) >> Fórmula: v² = v₀² − 2·a·Δs (Torricelli) >> Conta: 0 = 20² − 2·8·Δs → 16·Δs = 400 → Δs = 25 m >> Resultado: 25 m",
+"e": "Torricelli: Δs = v₀²/2a"
+},
+{
+"p": "Um veículo a 144 km/h freia com desaceleração constante de 5 m/s². A distância percorrida até parar é de 160 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 144 km/h; v = 0 (para); desaceleração a = 5 m/s² >> Converta: 144 km/h = 40 m/s >> Pede: distância de frenagem (o tempo não aparece) >> Fórmula: v² = v₀² − 2·a·Δs (Torricelli) >> Conta: 0 = 40² − 2·5·Δs → 10·Δs = 1600 → Δs = 160 m >> Resultado: 160 m",
+"e": "Torricelli: Δs = v₀²/2a"
+},
+{
+"p": "Um veículo a 144 km/h; o condutor tem tempo de reação de 1,5 s e os freios produzem desaceleração constante de 8 m/s². A distância total de parada é de",
+"alts": [
+"60 m",
+"260 m",
+"160 m",
+"316 m",
+"100 m"
+],
+"r": 2,
+"n": [
+"Considerou apenas a reação.",
+"Errou a frenagem (v²/a).",
+"Correta.",
+"Não converteu a velocidade no cálculo da reação.",
+"Considerou apenas a frenagem, esquecendo a reação."
+],
+"x": "Dados: v = 144 km/h; tempo de reação = 1,5 s; desaceleração = 8 m/s² >> Converta: 144 km/h = 40 m/s >> Ideia: parada = reação (MRU, sem frear) + frenagem (MRUV) >> Conta: reação = 40·1,5 = 60 m → frenagem = 40²/(2·8) = 100 m → total = 60 + 100 = 160 m >> Resultado: 160 m",
+"e": "Distância de parada"
+},
+{
+"p": "Um condutor a 108 km/h, com tempo de reação de 1,5 s, aciona os freios, que produzem desaceleração de 5 m/s². A distância total de parada, desde que percebeu o perigo, é de 135 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 108 km/h; tempo de reação = 1,5 s; desaceleração = 5 m/s² >> Converta: 108 km/h = 30 m/s >> Ideia: parada = reação (MRU, sem frear) + frenagem (MRUV) >> Conta: reação = 30·1,5 = 45 m → frenagem = 30²/(2·5) = 90 m → total = 45 + 90 = 135 m >> Resultado: 135 m",
+"e": "Parada = reação + frenagem"
+},
+{
+"p": "Um veículo a 72 km/h; o condutor tem tempo de reação de 1 s e os freios produzem desaceleração constante de 5 m/s². A distância total de parada é de",
+"alts": [
+"40 m",
+"112 m",
+"100 m",
+"60 m",
+"20 m"
+],
+"r": 3,
+"n": [
+"Considerou apenas a frenagem, esquecendo a reação.",
+"Não converteu a velocidade no cálculo da reação.",
+"Errou a frenagem (v²/a).",
+"Correta.",
+"Considerou apenas a reação."
+],
+"x": "Dados: v = 72 km/h; tempo de reação = 1 s; desaceleração = 5 m/s² >> Converta: 72 km/h = 20 m/s >> Ideia: parada = reação (MRU, sem frear) + frenagem (MRUV) >> Conta: reação = 20·1 = 20 m → frenagem = 20²/(2·5) = 40 m → total = 20 + 40 = 60 m >> Resultado: 60 m",
+"e": "Distância de parada"
+},
+{
+"p": "Um condutor a 144 km/h, com tempo de reação de 0,5 s, aciona os freios, que produzem desaceleração de 4 m/s². A distância total de parada, desde que percebeu o perigo, é de 200 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 144 km/h; tempo de reação = 0,5 s; desaceleração = 4 m/s² >> Converta: 144 km/h = 40 m/s >> Ideia: parada = reação (MRU, sem frear) + frenagem (MRUV) >> Conta: reação = 40·0,5 = 20 m → frenagem = 40²/(2·4) = 200 m → total = 20 + 200 = 220 m >> Resultado: 220 m",
+"e": "Parada = reação + frenagem"
+},
+{
+"p": "Um veículo a 126 km/h; o condutor tem tempo de reação de 1,2 s e os freios produzem desaceleração constante de 5 m/s². A distância total de parada é de",
+"alts": [
+"273,7 m",
+"122,5 m",
+"42 m",
+"287 m",
+"164,5 m"
+],
+"r": 4,
+"n": [
+"Não converteu a velocidade no cálculo da reação.",
+"Considerou apenas a frenagem, esquecendo a reação.",
+"Considerou apenas a reação.",
+"Errou a frenagem (v²/a).",
+"Correta."
+],
+"x": "Dados: v = 126 km/h; tempo de reação = 1,2 s; desaceleração = 5 m/s² >> Converta: 126 km/h = 35 m/s >> Ideia: parada = reação (MRU, sem frear) + frenagem (MRUV) >> Conta: reação = 35·1,2 = 42 m → frenagem = 35²/(2·5) = 122,5 m → total = 42 + 122,5 = 164,5 m >> Resultado: 164,5 m",
+"e": "Distância de parada"
+},
+{
+"p": "Um condutor a 144 km/h, com tempo de reação de 0,8 s, aciona os freios, que produzem desaceleração de 5 m/s². A distância total de parada, desde que percebeu o perigo, é de 160 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 144 km/h; tempo de reação = 0,8 s; desaceleração = 5 m/s² >> Converta: 144 km/h = 40 m/s >> Ideia: parada = reação (MRU, sem frear) + frenagem (MRUV) >> Conta: reação = 40·0,8 = 32 m → frenagem = 40²/(2·5) = 160 m → total = 32 + 160 = 192 m >> Resultado: 192 m",
+"e": "Parada = reação + frenagem"
+},
+{
+"p": "Um veículo a 144 km/h; o condutor tem tempo de reação de 1 s e os freios produzem desaceleração constante de 5 m/s². A distância total de parada é de",
+"alts": [
+"360 m",
+"40 m",
+"304 m",
+"200 m",
+"160 m"
+],
+"r": 3,
+"n": [
+"Errou a frenagem (v²/a).",
+"Considerou apenas a reação.",
+"Não converteu a velocidade no cálculo da reação.",
+"Correta.",
+"Considerou apenas a frenagem, esquecendo a reação."
+],
+"x": "Dados: v = 144 km/h; tempo de reação = 1 s; desaceleração = 5 m/s² >> Converta: 144 km/h = 40 m/s >> Ideia: parada = reação (MRU, sem frear) + frenagem (MRUV) >> Conta: reação = 40·1 = 40 m → frenagem = 40²/(2·5) = 160 m → total = 40 + 160 = 200 m >> Resultado: 200 m",
+"e": "Distância de parada"
+},
+{
+"p": "Um condutor a 144 km/h, com tempo de reação de 0,8 s, aciona os freios, que produzem desaceleração de 4 m/s². A distância total de parada, desde que percebeu o perigo, é de 200 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 144 km/h; tempo de reação = 0,8 s; desaceleração = 4 m/s² >> Converta: 144 km/h = 40 m/s >> Ideia: parada = reação (MRU, sem frear) + frenagem (MRUV) >> Conta: reação = 40·0,8 = 32 m → frenagem = 40²/(2·4) = 200 m → total = 32 + 200 = 232 m >> Resultado: 232 m",
+"e": "Parada = reação + frenagem"
+},
+{
+"p": "Mantida a desaceleração, se a velocidade inicial de um veículo dobrar, sua distância de frenagem ficará quatro vezes maior.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Δs = v₀²/(2·a) >> Ideia: a distância é proporcional ao QUADRADO da velocidade >> Conta: fator na velocidade = 2 → fator na distância = 2² = 4 >> Resultado: a distância fica quatro vezes maior",
+"e": "Frenagem ∝ v²"
+},
+{
+"p": "Mantida a desaceleração, se a velocidade inicial de um veículo triplicar, sua distância de frenagem ficará três vezes maior.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Δs = v₀²/(2·a) >> Ideia: a distância é proporcional ao QUADRADO da velocidade >> Conta: fator na velocidade = 3 → fator na distância = 3² = 9 >> Resultado: a distância fica nove vezes maior",
+"e": "Frenagem ∝ v²"
+},
+{
+"p": "Mantida a desaceleração, se a velocidade inicial de um veículo cair pela metade, sua distância de frenagem ficará quatro vezes menor.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Δs = v₀²/(2·a) >> Ideia: a distância é proporcional ao QUADRADO da velocidade >> Conta: fator na velocidade = 0,5 → fator na distância = 0,5² = 0,25 >> Resultado: a distância fica quatro vezes menor",
+"e": "Frenagem ∝ v²"
+},
+{
+"p": "Mantida a desaceleração, se a velocidade inicial de um veículo quadruplicar, sua distância de frenagem ficará oito vezes maior.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Δs = v₀²/(2·a) >> Ideia: a distância é proporcional ao QUADRADO da velocidade >> Conta: fator na velocidade = 4 → fator na distância = 4² = 16 >> Resultado: a distância fica dezesseis vezes maior",
+"e": "Frenagem ∝ v²"
+},
+{
+"p": "Um objeto solto de uma altura de 180 m, em queda livre (g = 10 m/s²), atinge o solo após 12 s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: h = 180 m; v₀ = 0; g = 10 m/s² >> Fórmula: h = g·t²/2 → t = √(2h/g) >> Conta: t = √(2·180/10) → t = √36 → t = 6 s >> Resultado: 6 s",
+"e": "Tempo de queda: t = √(2h/g)"
+},
+{
+"p": "Um objeto solto de uma altura de 20 m, em queda livre (g = 10 m/s²), atinge o solo após 2 s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: h = 20 m; v₀ = 0; g = 10 m/s² >> Fórmula: h = g·t²/2 → t = √(2h/g) >> Conta: t = √(2·20/10) → t = √4 → t = 2 s >> Resultado: 2 s",
+"e": "Tempo de queda: t = √(2h/g)"
+},
+{
+"p": "Um objeto em queda livre, solto do repouso (g = 10 m/s²), atinge velocidade de 10 m/s após cair 5 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 0; v = 10 m/s; g = 10 m/s² >> Fórmula: v² = 2·g·h (Torricelli) >> Conta: 10² = 20·h → h = 100/20 → h = 5 m >> Resultado: 5 m",
+"e": "Torricelli na queda livre"
+},
+{
+"p": "Um objeto solto de uma altura de 80 m, em queda livre (g = 10 m/s²), atinge o solo após 4 s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: h = 80 m; v₀ = 0; g = 10 m/s² >> Fórmula: h = g·t²/2 → t = √(2h/g) >> Conta: t = √(2·80/10) → t = √16 → t = 4 s >> Resultado: 4 s",
+"e": "Tempo de queda: t = √(2h/g)"
+},
+{
+"p": "Um corpo lançado verticalmente para cima a 10 m/s (g = 10 m/s²) permanece 2 s no ar até voltar ao ponto de lançamento.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 10 m/s; g = 10 m/s² >> Fórmula: tempo de subida t_s = v₀/g; tempo total = 2·t_s (simetria) >> Conta: t_s = 10/10 = 1 s → total = 2 s >> Resultado: 2 s",
+"e": "Simetria subida/descida"
+},
+{
+"p": "Um corpo lançado verticalmente para cima a 20 m/s (g = 10 m/s², sem resistência do ar) atinge altura máxima de 40 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v₀ = 20 m/s; no topo v = 0; g = 10 m/s² >> Fórmula: H = v₀²/(2g) >> Conta: H = 20²/20 → H = 400/20 → H = 20 m >> Resultado: 20 m",
+"e": "Altura máxima"
+},
+{
+"p": "Um corpo lançado verticalmente para cima a 30 m/s (g = 10 m/s²) permanece 6 s no ar até voltar ao ponto de lançamento.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 30 m/s; g = 10 m/s² >> Fórmula: tempo de subida t_s = v₀/g; tempo total = 2·t_s (simetria) >> Conta: t_s = 30/10 = 3 s → total = 6 s >> Resultado: 6 s",
+"e": "Simetria subida/descida"
+},
+{
+"p": "Um corpo lançado verticalmente para cima a 40 m/s (g = 10 m/s², sem resistência do ar) atinge altura máxima de 80 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v₀ = 40 m/s; no topo v = 0; g = 10 m/s² >> Fórmula: H = v₀²/(2g) >> Conta: H = 40²/20 → H = 1600/20 → H = 80 m >> Resultado: 80 m",
+"e": "Altura máxima"
+},
+{
+"p": "Uma viatura desloca-se 6 m para o norte e, em seguida, 8 m para o leste. O módulo do deslocamento vetorial é de 10 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: deslocamentos perpendiculares; o deslocamento vetorial liga direto o início ao fim >> Fórmula: d = √(a² + b²) (Pitágoras) >> Conta: d = √(6² + 8²) → d = √100 → d = 10 m >> Atenção: 14 m é a distância percorrida, não o deslocamento >> Resultado: 10 m",
+"e": "Deslocamento vetorial"
+},
+{
+"p": "Uma viatura desloca-se 9 m para o norte e, em seguida, 12 m para o leste. O módulo do deslocamento vetorial é de 21 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: deslocamentos perpendiculares; o deslocamento vetorial liga direto o início ao fim >> Fórmula: d = √(a² + b²) (Pitágoras) >> Conta: d = √(9² + 12²) → d = √225 → d = 15 m >> Atenção: 21 m é a distância percorrida, não o deslocamento >> Resultado: 15 m",
+"e": "Deslocamento vetorial"
+},
+{
+"p": "Uma viatura desloca-se 300 m para o norte e, em seguida, 400 m para o leste. O módulo do deslocamento vetorial é de 500 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: deslocamentos perpendiculares; o deslocamento vetorial liga direto o início ao fim >> Fórmula: d = √(a² + b²) (Pitágoras) >> Conta: d = √(300² + 400²) → d = √250.000 → d = 500 m >> Atenção: 700 m é a distância percorrida, não o deslocamento >> Resultado: 500 m",
+"e": "Deslocamento vetorial"
+},
+{
+"p": "Uma viatura desloca-se 600 m para o norte e, em seguida, 800 m para o leste. O módulo do deslocamento vetorial é de 1.000 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: deslocamentos perpendiculares; o deslocamento vetorial liga direto o início ao fim >> Fórmula: d = √(a² + b²) (Pitágoras) >> Conta: d = √(600² + 800²) → d = √1.000.000 → d = 1.000 m >> Atenção: 1.400 m é a distância percorrida, não o deslocamento >> Resultado: 1.000 m",
+"e": "Deslocamento vetorial"
+},
+{
+"p": "Um objeto é lançado horizontalmente, a 25 m/s, de uma altura de 5 m (g = 10 m/s², sem resistência do ar). Ele toca o solo a 25 m, na horizontal, do ponto de lançamento.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: na vertical é queda livre; na horizontal, MRU com v₀ (movimentos independentes) >> Dados: h = 5 m; v₀ = 25 m/s >> Fórmula: t = √(2h/g); A = v₀·t >> Conta: t = √(2·5/10) = 1 s → A = 25·1 = 25 m >> Resultado: 25 m",
+"e": "Lançamento horizontal"
+},
+{
+"p": "Um objeto é lançado horizontalmente, a 25 m/s, de uma altura de 1,25 m (g = 10 m/s², sem resistência do ar). Ele toca o solo a 12,5 m, na horizontal, do ponto de lançamento.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: na vertical é queda livre; na horizontal, MRU com v₀ (movimentos independentes) >> Dados: h = 1,25 m; v₀ = 25 m/s >> Fórmula: t = √(2h/g); A = v₀·t >> Conta: t = √(2·1,25/10) = 0,5 s → A = 25·0,5 = 12,5 m >> Resultado: 12,5 m",
+"e": "Lançamento horizontal"
+},
+{
+"p": "Um objeto é lançado horizontalmente, a 30 m/s, de uma altura de 45 m (g = 10 m/s², sem resistência do ar). Ele toca o solo a 90 m, na horizontal, do ponto de lançamento.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: na vertical é queda livre; na horizontal, MRU com v₀ (movimentos independentes) >> Dados: h = 45 m; v₀ = 30 m/s >> Fórmula: t = √(2h/g); A = v₀·t >> Conta: t = √(2·45/10) = 3 s → A = 30·3 = 90 m >> Resultado: 90 m",
+"e": "Lançamento horizontal"
+},
+{
+"p": "Um objeto é lançado horizontalmente, a 25 m/s, de uma altura de 45 m (g = 10 m/s², sem resistência do ar). Ele toca o solo a 75 m, na horizontal, do ponto de lançamento.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: na vertical é queda livre; na horizontal, MRU com v₀ (movimentos independentes) >> Dados: h = 45 m; v₀ = 25 m/s >> Fórmula: t = √(2h/g); A = v₀·t >> Conta: t = √(2·45/10) = 3 s → A = 25·3 = 75 m >> Resultado: 75 m",
+"e": "Lançamento horizontal"
+},
+{
+"p": "Um objeto é lançado horizontalmente, a 30 m/s, de uma altura de 5 m (g = 10 m/s², sem resistência do ar). Ele toca o solo a 30 m, na horizontal, do ponto de lançamento.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: na vertical é queda livre; na horizontal, MRU com v₀ (movimentos independentes) >> Dados: h = 5 m; v₀ = 30 m/s >> Fórmula: t = √(2h/g); A = v₀·t >> Conta: t = √(2·5/10) = 1 s → A = 30·1 = 30 m >> Resultado: 30 m",
+"e": "Lançamento horizontal"
+},
+{
+"p": "Dois veículos estão separados por 75 km e se aproximam em sentidos opostos, a 60 km/h e 90 km/h. Eles se encontram após 0,5 h.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: em sentidos opostos, a velocidade relativa é a soma das velocidades >> Dados: d = 75 km; v_rel = 60 + 90 = 150 km/h >> Fórmula: t = d / v_rel >> Conta: t = 75/150 → t = 0,5 h >> Resultado: 0,5 h",
+"e": "Velocidade relativa"
+},
+{
+"p": "Dois veículos estão separados por 180 km e se aproximam em sentidos opostos, a 50 km/h e 70 km/h. Eles se encontram após 9 h.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: em sentidos opostos, a velocidade relativa é a soma das velocidades >> Dados: d = 180 km; v_rel = 50 + 70 = 120 km/h >> Fórmula: t = d / v_rel >> Conta: t = 180/120 → t = 1,5 h >> Resultado: 1,5 h",
+"e": "Velocidade relativa"
+},
+{
+"p": "Dois veículos estão separados por 150 km e se aproximam em sentidos opostos, a 60 km/h e 90 km/h. Eles se encontram após 5 h.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: em sentidos opostos, a velocidade relativa é a soma das velocidades >> Dados: d = 150 km; v_rel = 60 + 90 = 150 km/h >> Fórmula: t = d / v_rel >> Conta: t = 150/150 → t = 1 h >> Resultado: 1 h",
+"e": "Velocidade relativa"
+},
+{
+"p": "Dois veículos estão separados por 90 km e se aproximam em sentidos opostos, a 80 km/h e 100 km/h. Eles se encontram após 0,5 h.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: em sentidos opostos, a velocidade relativa é a soma das velocidades >> Dados: d = 90 km; v_rel = 80 + 100 = 180 km/h >> Fórmula: t = d / v_rel >> Conta: t = 90/180 → t = 0,5 h >> Resultado: 0,5 h",
+"e": "Velocidade relativa"
+},
+{
+"p": "Um passageiro sentado em um ônibus em movimento está em repouso em relação ao ônibus e em movimento em relação à rodovia.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: repouso e movimento dependem do referencial >> Ideia: a posição do passageiro não muda em relação ao ônibus, mas muda em relação à rodovia >> Resultado: as duas afirmações estão certas",
+"e": "Movimento é relativo"
+},
+{
+"p": "A trajetória de um corpo é a mesma para qualquer observador, pois depende apenas do corpo.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a trajetória depende do referencial >> Ideia: uma lâmpada que cai do teto de um trem em movimento cai em linha reta para quem está no trem e descreve uma parábola para quem está na plataforma >> Resultado: a afirmação está errada",
+"e": "Trajetória depende do referencial"
+},
+{
+"p": "Um caminhão de 20 m de comprimento pode ser tratado como ponto material ao se calcular o tempo de uma viagem de 600 km, mas não ao se calcular o tempo que leva para atravessar uma ponte de 40 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: ponto material é o corpo cujas dimensões são desprezíveis no problema >> Ideia: 20 m é desprezível diante de 600 km, mas não diante de 40 m (o caminhão percorre 60 m para atravessar a ponte) >> Resultado: certo",
+"e": "Ponto material depende do problema"
+},
+{
+"p": "Numa viagem de ida e volta entre duas cidades distantes 80 km, o deslocamento escalar é de 160 km.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: ida 80 km; volta 80 km >> Ideia: o deslocamento é posição final menos posição inicial; o veículo voltou ao ponto de partida >> Conta: Δs = s_final − s_inicial = 0 → distância percorrida = 160 km >> Resultado: deslocamento nulo; 160 km é a distância percorrida",
+"e": "Deslocamento x distância"
+},
+{
+"p": "Um trem de 200 m de comprimento, a 72 km/h, leva 15 s para atravessar completamente uma ponte de 100 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: L_trem = 200 m; L_ponte = 100 m; v = 72 km/h >> Converta: 72 km/h = 20 m/s >> Ideia: para atravessar completamente, o trem percorre o comprimento da ponte mais o seu próprio >> Conta: d = 200 + 100 = 300 m → t = 300/20 = 15 s >> Resultado: 15 s",
+"e": "Corpo extenso: somar comprimentos"
+},
+{
+"p": "Duas forças perpendiculares de 6 N e 8 N têm resultante de 14 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: vetores perpendiculares se somam por Pitágoras >> Fórmula: R = √(a² + b²) >> Conta: R = √(36 + 64) → R = √100 → R = 10 N >> Atenção: 14 N seria a resultante só se as forças tivessem a mesma direção e o mesmo sentido >> Resultado: 10 N",
+"e": "Soma vetorial"
+},
+{
+"p": "Duas forças de 5 N e 12 N, de direções quaisquer, podem ter resultante de 10 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a resultante de dois vetores fica entre a diferença e a soma dos módulos >> Conta: mínimo = 12 − 5 = 7 N → máximo = 12 + 5 = 17 N >> Resultado: 10 N está entre 7 N e 17 N: é possível",
+"e": "Limites da resultante"
+},
+{
+"p": "No ponto mais alto da trajetória de uma pedra lançada verticalmente para cima, a velocidade e a aceleração da pedra são nulas.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: no topo a velocidade é nula, mas a gravidade continua agindo >> Resultado: a aceleração é g (≈ 10 m/s²), para baixo, em todo o voo",
+"e": "Topo: v = 0, a = g"
+},
+{
+"p": "Desprezada a resistência do ar, uma bala disparada horizontalmente e outra simplesmente solta da mesma altura, no mesmo instante, atingem o solo ao mesmo tempo.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: os movimentos horizontal e vertical são independentes >> Ideia: na vertical, as duas partem com velocidade vertical nula e caem com a mesma aceleração g >> Fórmula: t = √(2h/g), que não depende da velocidade horizontal >> Resultado: chegam juntas; a disparada apenas chega mais longe",
+"e": "Independência dos movimentos"
+},
+{
+"p": "No lançamento oblíquo, a velocidade do projétil é nula no ponto mais alto da trajetória.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: decomponha a velocidade em horizontal e vertical >> Ideia: no topo, só a componente vertical é nula; a horizontal (v₀·cos θ) permanece constante durante todo o voo >> Resultado: no topo, v = v₀·cos θ ≠ 0",
+"e": "Topo do lançamento oblíquo"
+},
+{
+"p": "Com a mesma velocidade inicial, projéteis lançados a 30° e a 60° com a horizontal têm o mesmo alcance, desprezada a resistência do ar.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: A = v₀²·sen(2θ)/g >> Conta: sen(2·30°) = sen 60° → sen(2·60°) = sen 120° = sen 60° >> Ideia: ângulos complementares dão o mesmo alcance; o de 60° sobe mais e demora mais >> Resultado: alcances iguais",
+"e": "Ângulos complementares"
+},
+{
+"p": "O alcance de um projétil lançado do solo, com velocidade de módulo fixo, é máximo quando o ângulo de lançamento é de 60°.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: A = v₀²·sen(2θ)/g >> Ideia: sen(2θ) é máximo (= 1) quando 2θ = 90° >> Conta: θ = 45° >> Resultado: o alcance máximo ocorre a 45°",
+"e": "Alcance máximo a 45°"
+},
+{
+"p": "Um barco que atravessa um rio apontado perpendicularmente às margens leva o mesmo tempo para atravessá-lo, haja ou não correnteza.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o tempo de travessia depende só da largura do rio e da velocidade do barco em relação à água, que é perpendicular à correnteza >> Ideia: a correnteza apenas arrasta o barco rio abaixo >> Resultado: o tempo não muda",
+"e": "Composição de movimentos"
+},
+{
+"p": "Se a velocidade média de um veículo entre dois pontos de controle superou o limite da via, então, em algum instante desse trecho, sua velocidade instantânea também superou o limite.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: se a velocidade ficasse sempre igual ou abaixo do limite, a média também ficaria igual ou abaixo dele >> Resultado: certo; é a base da fiscalização por velocidade média",
+"e": "Média acima do limite"
+},
+{
+"p": "Um veículo que sai do repouso e atinge 100 km/h em 10 s percorreu, nesse intervalo, 1.000 m, supondo aceleração constante.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v₀ = 0; v = 100 km/h ≈ 27,8 m/s; t = 10 s >> Ideia: no MRUV a velocidade média é a média aritmética entre inicial e final >> Conta: v_m = (0 + 27,8)/2 ≈ 13,9 m/s → d = 13,9·10 ≈ 139 m >> Atenção: 1.000 m viria de usar 100 km/h como se fosse 100 m/s, e durante todo o tempo >> Resultado: ≈ 139 m",
+"e": "Velocidade média no MRUV"
+},
+{
+"p": "A distância de reação de um condutor é proporcional à velocidade do veículo, enquanto a distância de frenagem é proporcional ao quadrado dessa velocidade.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: reação: d_r = v·t_r → frenagem: d_f = v²/(2a) >> Resultado: d_r ∝ v e d_f ∝ v²",
+"e": "Reação ∝ v; frenagem ∝ v²"
+},
+{
+"p": "O consumo de bebida alcoólica aumenta a distância de frenagem do veículo, por diminuir a eficiência do sistema de freios.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o álcool age sobre o condutor, não sobre os freios >> Ideia: ele aumenta o tempo de reação e, portanto, a distância de reação; a frenagem depende da velocidade e da desaceleração dos freios >> Resultado: aumenta a distância de reação (e a de parada total)",
+"e": "Álcool: tempo de reação"
+},
+{
+"p": "Em pista molhada, se o coeficiente de atrito cair à metade, a distância de frenagem de um veículo dobrará, mantida a velocidade inicial.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: com rodas travadas, a = μ·g → d_f = v²/(2·μ·g) >> Ideia: d_f é inversamente proporcional a μ >> Conta: μ/2 → d_f × 2 >> Resultado: dobra",
+"e": "Frenagem ∝ 1/μ"
+},
+{
+"p": "No gráfico velocidade × tempo de dois veículos, o ponto em que as retas se cruzam indica o instante em que os veículos se encontram.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o cruzamento no gráfico v × t significa velocidades iguais naquele instante >> Ideia: o encontro (mesma posição) se lê no gráfico posição × tempo, ou comparando as áreas sob as curvas >> Resultado: indica velocidades iguais, não encontro",
+"e": "Leitura de gráfico v × t"
+},
+{
+"p": "No gráfico velocidade × tempo, a área compreendida entre a curva e o eixo do tempo é numericamente igual ao deslocamento do móvel no intervalo.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: no MRU, área = v·t = d; a propriedade vale para qualquer movimento >> Resultado: certo; áreas abaixo do eixo contam como deslocamento negativo",
+"e": "Área = deslocamento"
+},
+{
+"p": "Em queda livre, a partir do repouso, um corpo percorre 10 m em cada segundo de queda.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: h = 5·t² (g = 10 m/s²) >> Conta: h(1) = 5 m → h(2) = 20 m → h(3) = 45 m → trechos de 5, 15, 25 m >> Ideia: o corpo acelera, então percorre distâncias cada vez maiores >> Resultado: 5 m, 15 m, 25 m... (proporção 1 : 3 : 5)",
+"e": "Queda livre: 1 : 3 : 5"
+},
+{
+"p": "Uma viatura parte do repouso, no mesmo instante em que um carro passa por ela a 25 m/s em velocidade constante. A viatura acelera a 2,5 m/s². Ela alcança o carro após",
+"alts": [
+"10 s",
+"20 s",
+"25 s",
+"40 s",
+"5 s"
+],
+"r": 1,
+"n": [
+"Instante em que as velocidades se igualam (distância máxima).",
+"Correta.",
+"Não confere.",
+"Usou a aceleração errada na equação.",
+"Não confere."
+],
+"x": "Dados: carro: v = 25 m/s; viatura: v₀ = 0, a = 2,5 m/s² >> Fórmula: carro: s = 25·t → viatura: s = 2,5·t²/2 = 1,25·t² >> Conta: 1,25·t² = 25·t → t = 25/1,25 → t = 20 s >> Confere: viatura a 2,5·20 = 50 m/s, o dobro de 25 m/s (propriedade da perseguição) >> Resultado: 20 s",
+"e": "Encontro MRU x MRUV"
+},
+{
+"p": "Um veículo percorre 60 km a 120 km/h e depois mais 60 km a 60 km/h. Sua velocidade média no percurso total é de",
+"alts": [
+"90 km/h",
+"80 km/h",
+"100 km/h",
+"70 km/h",
+"85 km/h"
+],
+"r": 1,
+"n": [
+"Média aritmética: só valeria com tempos iguais.",
+"Correta.",
+"Não confere.",
+"Não confere.",
+"Não confere."
+],
+"x": "Dados: trecho 1: 60 km a 120 km/h; trecho 2: 60 km a 60 km/h >> Conta: t₁ = 60/120 = 0,5 h → t₂ = 60/60 = 1 h → v_m = 120/(0,5 + 1) = 120/1,5 = 80 km/h >> Resultado: 80 km/h",
+"e": "Velocidade média em trechos"
+},
+{
+"p": "Uma moto salta horizontalmente de uma rampa com 1,8 m de altura e toca o chão 12 m adiante. Desprezando o ar e com g = 10 m/s², a velocidade da moto ao deixar a rampa era de",
+"alts": [
+"10 m/s",
+"20 m/s",
+"6 m/s",
+"30 m/s",
+"21,6 m/s"
+],
+"r": 1,
+"n": [
+"Usou t = 1,2 s.",
+"Correta.",
+"Não confere.",
+"Não confere.",
+"Confundiu km/h com m/s."
+],
+"x": "Dados: h = 1,8 m; alcance A = 12 m >> Fórmula: t = √(2h/g); v₀ = A/t >> Conta: t = √(3,6/10) = √0,36 = 0,6 s → v₀ = 12/0,6 = 20 m/s >> Resultado: 20 m/s (72 km/h)",
+"e": "Perícia com lançamento horizontal"
+},
+{
+"p": "Marcas de frenagem de 50 m foram encontradas em pista seca com coeficiente de atrito 0,9. Com g = 10 m/s², a velocidade mínima do veículo no início das marcas era de",
+"alts": [
+"9 m/s",
+"45 m/s",
+"30 m/s",
+"15 m/s",
+"90 m/s"
+],
+"r": 2,
+"n": [
+"Não confere.",
+"Esqueceu a raiz.",
+"Correta.",
+"Esqueceu o fator 2.",
+"Não confere."
+],
+"x": "Dados: d = 50 m; μ = 0,9; g = 10 m/s² >> Fórmula: a = μ·g; v₀ = √(2·a·d) >> Conta: a = 9 m/s² → v₀² = 2·9·50 = 900 → v₀ = 30 m/s >> Resultado: 30 m/s (108 km/h), velocidade mínima",
+"e": "Velocidade pelas marcas de frenagem"
+}
+]
+},
+"dinamica": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>F = m·a</b><span>princípio fundamental da dinâmica</span></div><div class=\"lt-stat\"><b>1 N</b><span>força que acelera 1 kg a 1 m/s²</span></div><div class=\"lt-stat\"><b>Fat = μ·N</b><span>força de atrito</span></div><div class=\"lt-stat\"><b>P·sen θ</b><span>componente do peso ao longo do plano inclinado</span></div></div>\n<p>A dinâmica estuda as <b>causas</b> do movimento: as <b>forças</b>. É o terceiro item do edital de Física da PRF (\"Leis de Newton e suas aplicações\") e o mais rico em situações de trânsito: o cinto de segurança (inércia), a frenagem (atrito), o veículo estacionado em ladeira (plano inclinado), o reboque de um carro (tração), a carga que escorrega na carroceria, a interação entre pneu e pista. As questões cobram as três leis de Newton com rigor conceitual, o cálculo da força resultante e da aceleração, o atrito estático e o cinético e a decomposição do peso no plano inclinado. Esta leitura percorre tudo isso com diagramas de forças descritos em palavras e contas passo a passo.</p>\n<h3>1. Força: conceito e unidade</h3>\n<ul><li><b>Força</b> é a grandeza que expressa a <b>interação</b> entre corpos, capaz de alterar o estado de movimento (produzir aceleração) ou de deformar. É <b>vetorial</b>: tem módulo, direção e sentido.</li><li><b>Unidade no SI</b>: <b>newton (N)</b>. 1 N é a força que, aplicada a uma massa de 1 kg, produz aceleração de 1 m/s² (N = kg·m/s²). Uma maçã média pesa cerca de 1 N; um adulto de 70 kg pesa cerca de 700 N.</li><li><b>Interações de contato</b> (normal, atrito, tração, empurrão) e <b>de campo</b>, que agem a distância (gravitacional, elétrica, magnética).</li><li><b>Força resultante</b>: soma <b>vetorial</b> de todas as forças que atuam sobre um corpo. É ela que determina a aceleração. Forças de mesma direção somam-se ou subtraem-se conforme o sentido; forças perpendiculares, por Pitágoras.</li><li><b>Diagrama de corpo livre</b>: desenho do corpo isolado com <b>todas as forças que atuam sobre ele</b> (e só sobre ele). É o primeiro passo de qualquer problema de dinâmica.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A unidade newton equivale a kg·m/s</span><br>✅ <span class=\"certo\">N = <b>kg·m/s²</b> (kg·m/s é unidade de quantidade de movimento)</span></li><li>❌ <span class=\"banca\">A força resultante é a soma algébrica dos módulos de todas as forças que atuam sobre o corpo</span><br>✅ <span class=\"certo\">é a soma <b>vetorial</b> (direções e sentidos contam)</span></li><li>❌ <span class=\"banca\">Forças de campo exigem contato entre os corpos</span><br>✅ <span class=\"certo\">forças de campo (gravidade, elétrica, magnética) agem <b>a distância</b></span></li></ol></div>\n<h3>2. Primeira lei de Newton: princípio da inércia</h3>\n<ul><li><b>Enunciado</b>: todo corpo permanece em <b>repouso</b> ou em <b>movimento retilíneo uniforme</b> se a <b>força resultante</b> sobre ele for <b>nula</b>. Em outras palavras, para mudar a velocidade (em módulo ou direção), é preciso uma força resultante.</li><li><b>Inércia</b> é a tendência de um corpo de manter seu estado de movimento. A <b>massa</b> é a medida da inércia: quanto maior a massa, mais difícil acelerar ou frear o corpo.</li><li><b>Repouso e MRU são equivalentes</b> para a dinâmica: ambos têm resultante nula. Um carro a 100 km/h constantes, em linha reta, tem a força do motor (transmitida pelo atrito com o chão) equilibrada pelas resistências (ar e rolamento).</li><li><b>Não é preciso força para manter o movimento</b>, apenas para alterá-lo. Essa ideia derruba a concepção aristotélica, de que um corpo só se move enquanto é empurrado. Na prática, o carro precisa do motor ligado porque há <b>atrito e resistência do ar</b> freando-o; sem eles, seguiria indefinidamente.</li><li><b>Referencial inercial</b>: aquele em que a 1ª lei vale (em repouso ou em MRU). Um ônibus que freia <b>não</b> é inercial: dentro dele, objetos \"começam a se mover\" sem que nenhuma força os empurre.</li><li><b>Aplicações no trânsito</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>O que a inércia explica</th></tr></thead><tbody><tr><td><b>Freada brusca</b></td><td>os ocupantes continuam se movendo para a frente; o <b>cinto de segurança</b> aplica a força que os freia junto com o carro</td></tr><tr><td><b>Arrancada</b></td><td>a cabeça \"fica para trás\"; o <b>encosto de cabeça</b> evita o \"efeito chicote\" no pescoço, especialmente em colisões traseiras</td></tr><tr><td><b>Curva</b></td><td>ocupantes e cargas tendem a seguir em linha reta e são \"lançados\" para o lado externo</td></tr><tr><td><b>Carga solta na carroceria</b></td><td>numa freada, segue em frente e pode atingir a cabine; por isso deve ser <b>amarrada</b></td></tr><tr><td><b>Passageiro em pé no ônibus</b></td><td>numa freada, é \"jogado\" para a frente; na arrancada, para trás</td></tr><tr><td><b>Objetos soltos no painel ou no banco</b></td><td>numa colisão, viram projéteis com a velocidade que o carro tinha</td></tr></tbody></table>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Objeto solto num carro</b><ol><li><span>Um celular de 200 g está solto sobre o painel de um carro a 72 km/h, que colide e para quase instantaneamente</span></li><li><span>O celular continua a 20 m/s (inércia) até atingir algo</span></li><li><span>Energia cinética: 0,2·400/2 = 40 J, a mesma de um peso de 4 kg caindo de 1 m</span></li></ol><span class=\"res\">Objetos soltos tornam-se projéteis perigosos numa colisão</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na freada brusca, o passageiro é empurrado para a frente por uma força exercida pelo banco</span><br>✅ <span class=\"certo\">nenhuma força o empurra: ele <b>continua</b> em movimento por <b>inércia</b>, enquanto o carro freia</span></li><li>❌ <span class=\"banca\">Um carro em movimento retilíneo uniforme está sob ação de uma força resultante no sentido do movimento</span><br>✅ <span class=\"certo\">no MRU a resultante é <b>nula</b>: a força motriz é equilibrada pelas resistências</span></li><li>❌ <span class=\"banca\">Um corpo só permanece em movimento enquanto houver uma força atuando no sentido do movimento</span><br>✅ <span class=\"certo\">essa é a ideia <b>aristotélica</b>; pela 1ª lei, o movimento uniforme se mantém <b>sem</b> força resultante</span></li></ol></div>\n<h3>3. Segunda lei de Newton: princípio fundamental da dinâmica</h3>\n<ul><li><b>Enunciado</b>: a força resultante sobre um corpo é igual ao produto de sua massa pela aceleração: <b>F_R = m·a</b>. A aceleração tem a <b>mesma direção e o mesmo sentido</b> da força resultante.</li><li><b>Leituras da fórmula</b>: para a mesma força, aceleração e massa são <b>inversamente proporcionais</b> (o dobro da massa, metade da aceleração); para a mesma massa, aceleração e força são <b>diretamente proporcionais</b>.</li><li><b>Aceleração e velocidade não precisam ter o mesmo sentido</b>: na frenagem, a resultante (atrito) aponta para trás, a aceleração também, e a velocidade aponta para a frente.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Arrancada de um caminhão</b><ol><li><span>Caminhão de 10.000 kg; força motriz de 25.000 N; resistências somam 5.000 N</span></li><li><span>Resultante: 25.000 − 5.000 = 20.000 N</span></li><li><span>a = F_R/m = 20.000/10.000 = 2 m/s²</span></li></ol><span class=\"res\">Aceleração de 2 m/s², no sentido da força motriz</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Força de frenagem</b><ol><li><span>Que força resultante é necessária para parar um carro de 1.200 kg que está a 20 m/s em 4 s?</span></li><li><span>a = Δv/Δt = (0 − 20)/4 = −5 m/s²</span></li><li><span>F = m·a = 1.200·(−5) = −6.000 N</span></li></ol><span class=\"res\">6.000 N, opostos ao movimento</span></div>\n<ul><li><b>Massa x peso</b>: a <b>massa</b> (kg) é propriedade do corpo e mede sua inércia; o <b>peso</b> (N) é a força com que a Terra o atrai: <b>P = m·g</b>. Um corpo de 80 kg pesa 800 N na Terra (g = 10 m/s²) e cerca de 130 N na Lua, mas tem a mesma massa e a <b>mesma inércia</b> nos dois lugares (é igualmente difícil empurrá-lo horizontalmente para acelerá-lo).</li><li><b>A balança de banheiro</b> mede, na verdade, a <b>força normal</b> que exerce sobre a pessoa, e a converte em \"kg\" supondo g = 9,8 m/s². Num elevador acelerando, ela indica um valor diferente do peso (ver adiante).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se a força resultante sobre um corpo dobra e sua massa também dobra, a aceleração dobra</span><br>✅ <span class=\"certo\">a = F/m: dobrando os dois, a aceleração <b>não muda</b></span></li><li>❌ <span class=\"banca\">A aceleração de um corpo sempre tem o mesmo sentido de sua velocidade</span><br>✅ <span class=\"certo\">tem o mesmo sentido da <b>força resultante</b>; na frenagem, é oposta à velocidade</span></li><li>❌ <span class=\"banca\">A massa de um astronauta é menor na Lua, por isso lá é mais fácil empurrá-lo horizontalmente</span><br>✅ <span class=\"certo\">a massa (e a inércia) é a <b>mesma</b>; só o <b>peso</b> muda</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1ª lei</span></span><span class=\"vs\"><span>Resultante nula: repouso ou MRU</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Inércia</span></span><span class=\"vs\"><span>Medida pela massa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>2ª lei</span></span><span class=\"vs\"><span>F_R = m·a (mesma direção e sentido)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Peso</span></span><span class=\"vs\"><span>P = m·g (newtons)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cinto de segurança</span></span><span class=\"vs\"><span>Aplica a força que freia o ocupante (inércia)</span></span></button></div></div>\n<h3>4. Revisão relâmpago: perguntas e respostas</h3>\n<ul><li><b>O que é inércia?</b> A tendência de um corpo manter seu estado de repouso ou de MRU; sua medida é a massa.</li><li><b>Precisa de força para manter um carro em velocidade constante?</b> Só para vencer as resistências (ar, rolamento); a resultante é nula.</li><li><b>Qual a relação entre força resultante e aceleração?</b> F_R = m·a, com a mesma direção e sentido.</li><li><b>A aceleração tem sempre o sentido da velocidade?</b> Não: tem o sentido da força resultante (na frenagem, é oposta à velocidade).</li><li><b>Ação e reação se anulam?</b> Não, atuam em corpos diferentes.</li><li><b>Peso e normal são par ação-reação?</b> Não. O par do peso está na Terra; o par da normal está na superfície.</li><li><b>A normal é sempre igual ao peso?</b> Não: no plano inclinado é P·cos θ; no elevador acelerado e na lombada, muda.</li><li><b>O atrito estático vale sempre μe·N?</b> Não; esse é o máximo. Ele vale o necessário para impedir o deslizamento.</li><li><b>O atrito depende da área de contato?</b> No modelo usual, não.</li><li><b>Qual a desaceleração máxima de um veículo freando só pelo atrito?</b> μ·g.</li><li><b>Por que o ABS ajuda?</b> Evita travar as rodas, mantendo atrito estático e dirigibilidade.</li><li><b>Qual a aceleração num plano inclinado sem atrito?</b> g·sen θ, independente da massa.</li><li><b>Quando um corpo fica parado num plano inclinado?</b> Quando tg θ ≤ μe.</li><li><b>O que a balança mede?</b> A normal; no elevador acelerado para cima, indica mais que o peso.</li><li><b>Num reboque, quem acelera o carro rebocado?</b> A tração do cabo.</li><li><b>Por que o cinto salva vidas?</b> Aplica ao ocupante, em regiões resistentes e por mais tempo, a força que o freia junto com o carro; sem ele, o ocupante segue por inércia e colide com o interior.</li><li><b>Por que mais tempo de colisão significa menos força?</b> Porque, para a mesma variação de velocidade, a aceleração é menor (a = Δv/Δt), e F = m·a.</li></ul>\n<h3>5. Ordens de grandeza para conferir respostas</h3>\n<table class=\"tab\"><thead><tr><th>Grandeza</th><th>Valor típico</th></tr></thead><tbody><tr><td>Peso de um adulto</td><td>600 a 900 N</td></tr><tr><td>Peso de um carro de passeio</td><td>10.000 a 15.000 N</td></tr><tr><td>Força de atrito máxima de um carro em asfalto seco</td><td>≈ 0,8 × peso (8.000 a 12.000 N)</td></tr><tr><td>Força para empurrar um carro em ponto morto, em plano</td><td>algumas centenas de newtons</td></tr><tr><td>Desaceleração de frenagem forte (ABS, seco)</td><td>7 a 9 m/s²</td></tr><tr><td>Aceleração de um carro popular na arrancada</td><td>2 a 4 m/s²</td></tr><tr><td>Força num cinto em colisão a 50 km/h</td><td>milhares de newtons</td></tr></tbody></table>\n<ul><li>Se uma conta mostrar um carro acelerando a 80 m/s² por causa do motor, ou um atrito maior que o peso em pista molhada, revise: provavelmente houve erro de unidade ou de modelo.</li></ul>\n<h3>6. Mapa do raciocínio em dinâmica</h3>\n<div class=\"lt-fluxo\"><span>Escolher o corpo (ou o sistema)</span> <em>→</em> <span>Desenhar todas as forças sobre ele (Peso, Normal, Atrito, Tração, aplicadas)</span> <em>→</em> <span>Escolher eixos (no plano inclinado: ao longo e perpendicular ao plano)</span> <em>→</em> <span>Na direção sem movimento: soma das forças = 0 (acha a normal)</span> <em>→</em> <span>Na direção do movimento: F_R = m·a</span> <em>→</em> <span>Atrito: estático (até μe·N) ou cinético (μc·N)?</span> <em>→</em> <span>Resolver e conferir unidades e ordem de grandeza</span></div>\n<ul><li><b>Quando usar \"sistema inteiro\"</b>: corpos que se movem juntos (blocos encostados, reboque, bloco e polia). A aceleração sai de uma só equação; depois isola-se um corpo para achar forças internas (tração, contato).</li><li><b>Quando isolar cada corpo</b>: sempre que a questão pedir uma força entre os corpos ou quando eles podem ter acelerações diferentes (uma caixa que escorrega na carroceria).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Num sistema de blocos ligados, para obter a tração no fio, basta considerar o sistema inteiro</span><br>✅ <span class=\"certo\">o sistema inteiro dá a <b>aceleração</b>; a tração exige <b>isolar</b> um dos blocos</span></li><li>❌ <span class=\"banca\">A força de atrito máximo de um carro em asfalto seco pode ser várias vezes maior que seu peso</span><br>✅ <span class=\"certo\">com μ ≈ 0,8, o atrito máximo é <b>menor</b> que o peso (≈ 0,8 P)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Normal</span></span><span class=\"vs\"><span>Calcule pela direção sem movimento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sistema inteiro</span></span><span class=\"vs\"><span>Dá a aceleração</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Isolar um corpo</span></span><span class=\"vs\"><span>Dá forças internas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atrito máximo em asfalto seco</span></span><span class=\"vs\"><span>≈ 0,8 × peso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>F = m·a com Δt maior</span></span><span class=\"vs\"><span>Força menor</span></span></button></div></div>\n<h3>7. Situações de fiscalização e atendimento explicadas pela dinâmica</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Passageiros em pé no ônibus</b><p>Por que a legislação limita passageiros em pé e exige que se segurem, e por que o motorista de ônibus deve frear e arrancar suavemente?</p><details><summary>Ver a solução comentada</summary><p>Numa freada de 4 m/s², um passageiro de 70 kg precisa de 280 N de força horizontal para acompanhar o ônibus. Essa força vem do atrito dos pés com o piso e do apoio das mãos. Se a frenagem for brusca (8 m/s²), seriam necessários 560 N, mais do que o atrito dos sapatos costuma fornecer: o passageiro desliza ou cai para a frente (inércia).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Veículo atolado</b><p>Um carro atolado na lama tem as rodas girando em falso. Por que colocar galhos ou areia sob os pneus ajuda?</p><details><summary>Ver a solução comentada</summary><p>A força que acelera o carro é o <b>atrito estático</b> do chão sobre os pneus. Na lama, o coeficiente é muito baixo, e o pneu desliza (atrito cinético pequeno). Galhos, tábuas ou areia aumentam o coeficiente de atrito, permitindo que o chão \"empurre\" o carro para a frente (3ª lei).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Reboque em declive</b><p>Um caminhão-guincho desce uma serra rebocando um carro por cabo, sem que o carro freie. O que acontece com o cabo e com o guincho?</p><details><summary>Ver a solução comentada</summary><p>Na descida, a componente do peso do carro (P·sen θ) o empurra plano abaixo. Se o guincho freia, o carro rebocado tende a continuar e a alcançá-lo: o cabo <b>afrouxa</b> e o carro pode bater na traseira do guincho. Por isso, em declives, usa-se barra rígida de reboque ou plataforma, e não cabo flexível.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Carga indivisível e frenagem</b><p>Uma bobina de aço de 15 t é transportada sobre uma carreta, presa por cintas. O caminhão freia com 5 m/s². Que força as amarrações devem suportar, se o atrito da bobina com a carroceria (μ = 0,2) ajuda?</p><details><summary>Ver a solução comentada</summary><p>Força necessária para frear a bobina: 15.000·5 = 75.000 N. Atrito máximo: 0,2·150.000 = 30.000 N. As amarrações precisam fornecer <b>pelo menos 45.000 N</b>. Cintas subdimensionadas rompem e a bobina avança sobre a cabine.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A bicicleta na subida</b><p>Um ciclista de 70 kg (com a bicicleta, 80 kg) sobe uma rampa de 5% em velocidade constante. Qual força mínima, ao longo da pista, precisa produzir (desprezando o ar)?</p><details><summary>Ver a solução comentada</summary><p>Componente do peso: 800·0,05 ≈ <b>40 N</b> (para pequenas inclinações, sen θ ≈ tg θ). Em velocidade constante, a força motriz equilibra esse valor (mais o rolamento). É pouco em força, mas exige potência: a 4 m/s, 160 W (ver o tópico de potência).</p></details></div>\n<h3>8. Como a banca cobra este tópico</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>A Cebraspe cobra dinâmica com frequência em itens conceituais curtos (\"ação e reação se anulam\", \"a normal é igual ao peso\", \"a força resultante tem o sentido da velocidade\") e em itens de conta simples a partir de um texto-base (frenagem, plano inclinado, elevador, colisão). O candidato precisa dominar o diagrama de forças e saber distinguir atrito estático e cinético. Nos itens de trânsito, as leis de Newton justificam o cinto, o encosto de cabeça, a amarração de cargas e o ABS.</p></div>\n<ul><li><b>Lista de verificação final</b>:</li><li>Toda vez que aparecer \"velocidade constante\", escreva \"resultante nula\".</li><li>Toda vez que aparecer \"ação e reação\", pergunte \"em quais corpos?\".</li><li>Toda vez que aparecer atrito com corpo parado, pergunte \"qual força ele precisa equilibrar?\".</li><li>Toda vez que aparecer plano inclinado, decomponha o peso: P·sen θ e P·cos θ.</li><li>Toda vez que aparecer elevador, procure o sentido da <b>aceleração</b>.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Freada de ônibus</span></span><span class=\"vs\"><span>Passageiro precisa de m·a de força horizontal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atolado</span></span><span class=\"vs\"><span>Aumentar o atrito sob os pneus</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reboque em declive</span></span><span class=\"vs\"><span>Cabo afrouxa; usar barra rígida</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Amarração</span></span><span class=\"vs\"><span>Força = m·a − atrito</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade constante</span></span><span class=\"vs\"><span>Resultante nula</span></span></button></div></div>\n<h3>9. Resistências ao movimento de um veículo</h3>\n<ul><li><b>Resistência ao rolamento</b>: a deformação do pneu e do piso dissipa energia enquanto a roda gira. É bem menor que o atrito de deslizamento (coeficientes de rolamento da ordem de 0,01 a 0,02 para pneus calibrados em asfalto). <b>Pneus murchos</b> deformam mais e aumentam essa resistência (e o consumo), além de aquecerem e se desgastarem.</li><li><b>Resistência aerodinâmica</b>: F_ar ≈ ½·ρ·C_x·A·v², em que ρ é a densidade do ar, C_x o coeficiente aerodinâmico, A a área frontal e v a velocidade. Por depender de <b>v²</b>, dobrar a velocidade quadruplica essa força. Caminhões e ônibus, com grande área frontal, sentem muito esse efeito; o \"vácuo\" atrás de um caminhão reduz a resistência sobre quem vem atrás, mas segui-lo de perto é perigoso (distância de segurança e falta de visibilidade).</li><li><b>Resistência de rampa</b>: a componente P·sen θ em aclives.</li><li><b>Força motriz necessária em velocidade constante</b> = soma das resistências (rolamento + ar + rampa).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Resistências de um carro</b><ol><li><span>Carro de 1.200 kg a 30 m/s em plano; coeficiente de rolamento 0,015; resistência do ar estimada em 450 N nessa velocidade</span></li><li><span>Rolamento: 0,015·12.000 = 180 N</span></li><li><span>Total: 180 + 450 = 630 N</span></li><li><span>A 15 m/s, o ar cairia a 450/4 ≈ 113 N</span></li></ol><span class=\"res\">Força motriz de ≈ 630 N a 108 km/h; a 54 km/h, a resistência do ar cai a um quarto</span></div>\n<h3>10. Lendo gráficos de dinâmica</h3>\n<ul><li><b>Gráfico força resultante × aceleração</b>: para um mesmo corpo, é uma <b>reta pela origem</b>, cuja inclinação é a <b>massa</b> (F = m·a).</li><li><b>Gráfico atrito × força aplicada</b>: sobe em linha reta a 45° (atrito estático igual à força) até o valor máximo μe·N; depois cai para o valor cinético μc·N e fica constante.</li><li><b>Gráfico força elástica × deformação</b>: reta pela origem; a inclinação é a <b>constante elástica k</b>; a área sob a reta é a energia armazenada (k·x²/2, ver tópico de energia).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No gráfico força resultante × aceleração de um corpo, a inclinação da reta representa a velocidade</span><br>✅ <span class=\"certo\">representa a <b>massa</b></span></li><li>❌ <span class=\"banca\">Pneus com calibragem abaixo da recomendada reduzem a resistência ao rolamento e o consumo</span><br>✅ <span class=\"certo\">pneus murchos <b>aumentam</b> a resistência ao rolamento e o consumo</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Resistência do ar</span></span><span class=\"vs\"><span>∝ v²</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pneu murcho</span></span><span class=\"vs\"><span>Mais resistência, mais consumo e desgaste</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>F × a</span></span><span class=\"vs\"><span>Inclinação = massa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>F_el × x</span></span><span class=\"vs\"><span>Inclinação = k; área = energia</span></span></button></div></div>\n<h3>11. Três frases para levar para a prova</h3>\n<ul><li>\"<b>Força não mantém movimento; força muda movimento.</b>\" (1ª lei)</li><li>\"<b>A aceleração aponta para onde aponta a resultante.</b>\" (2ª lei)</li><li>\"<b>Ação e reação: mesmo tamanho, sentidos opostos, corpos diferentes.</b>\" (3ª lei)</li><li>Com essas três frases e o hábito de desenhar o diagrama de forças antes de calcular, a maioria dos itens de dinâmica se resolve em poucos segundos: identifique o corpo, liste as forças, decida se há aceleração e aplique F = m·a na direção do movimento.</li></ul>\n<h3>12. Glossário do tópico</h3>\n<ul><li><b>Força resultante</b>: soma vetorial de todas as forças sobre um corpo.</li><li><b>Inércia</b>: tendência de manter o estado de movimento; medida pela massa.</li><li><b>Referencial inercial</b>: aquele em que vale a 1ª lei (em repouso ou em MRU).</li><li><b>Normal</b>: força de contato perpendicular à superfície de apoio.</li><li><b>Tração</b>: força transmitida por fios, cabos e correntes esticados.</li><li><b>Atrito estático</b>: impede o início do deslizamento; vale até μe·N.</li><li><b>Atrito cinético</b>: atua durante o deslizamento; vale μc·N.</li><li><b>Coeficiente de atrito (μ)</b>: número sem unidade que depende dos materiais e do estado das superfícies.</li><li><b>Constante elástica (k)</b>: rigidez da mola, em N/m.</li><li><b>Velocidade terminal</b>: velocidade constante atingida quando a resistência do ar iguala o peso.</li><li><b>Peso aparente</b>: valor indicado pela balança (a normal), diferente do peso quando há aceleração vertical.</li><li><b>Momento (torque)</b>: tendência de uma força de girar um corpo; M = F·d.</li></ul>\n<h3>13. Terceira lei de Newton: ação e reação</h3>\n<ul><li><b>Enunciado</b>: quando um corpo A exerce uma força sobre um corpo B, B exerce sobre A uma força de <b>mesma intensidade</b>, <b>mesma direção</b> e <b>sentido oposto</b>. As forças de ação e reação surgem <b>aos pares</b>, <b>simultaneamente</b>, e são da <b>mesma natureza</b> (ambas de contato, ambas gravitacionais etc.).</li><li><b>Não se anulam</b>: atuam em <b>corpos diferentes</b>. Só faz sentido somar (e anular) forças que atuam <b>no mesmo corpo</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ação</th><th>Reação</th><th>Comentário</th></tr></thead><tbody><tr><td>O pneu empurra o chão para trás (atrito)</td><td>o chão empurra o pneu para a frente</td><td>é a força do <b>chão</b> que acelera o carro</td></tr><tr><td>A Terra atrai o livro para baixo (peso)</td><td>o livro atrai a Terra para cima</td><td>mesma intensidade; a Terra quase não acelera por ter massa enorme</td></tr><tr><td>O livro comprime a mesa</td><td>a mesa empurra o livro para cima (<b>normal</b>)</td><td>o par do peso <b>não</b> é a normal</td></tr><tr><td>O foguete expele os gases para trás</td><td>os gases empurram o foguete para a frente</td><td>funciona no vácuo, sem \"apoio\" no ar</td></tr><tr><td>O carro bate no caminhão</td><td>o caminhão bate no carro</td><td><b>forças iguais</b>, mas o carro, de menor massa, sofre aceleração muito maior</td></tr></tbody></table>\n<ul><li><b>Peso e normal não são par ação-reação</b>: ambas atuam no <b>mesmo</b> corpo (o livro) e têm naturezas diferentes (gravitacional e de contato). Elas podem ter módulos iguais quando o corpo está em equilíbrio sobre uma superfície horizontal, mas isso decorre da <b>1ª lei</b>, não da 3ª.</li><li><b>Colisão entre carro e caminhão</b>: as forças trocadas têm <b>a mesma intensidade</b> em cada instante. Os efeitos são diferentes porque, pela 2ª lei, a mesma força produz aceleração <b>muito maior</b> no corpo de menor massa: por isso os ocupantes do carro sofrem mais.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Mesma força, acelerações diferentes</b><ol><li><span>Numa colisão, carro (1.000 kg) e caminhão (10.000 kg) trocam força média de 200.000 N</span></li><li><span>Carro: a = 200.000/1.000 = 200 m/s² (≈ 20 g)</span></li><li><span>Caminhão: a = 200.000/10.000 = 20 m/s² (≈ 2 g)</span></li></ol><span class=\"res\">Forças iguais; aceleração do carro 10 vezes maior</span></div>\n<ul><li><b>Como o carro anda?</b> O motor faz as rodas girarem; o pneu \"empurra\" o asfalto para trás pelo <b>atrito</b>; pela 3ª lei, o asfalto empurra o pneu para a frente. Em gelo ou lama (atrito pequeno), a roda gira em falso e o carro não sai do lugar: sem atrito, não há força externa para acelerá-lo.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As forças de ação e reação se anulam porque têm mesma intensidade e sentidos opostos</span><br>✅ <span class=\"certo\">atuam em <b>corpos diferentes</b>, por isso <b>não</b> se anulam</span></li><li>❌ <span class=\"banca\">Peso e normal formam um par ação-reação</span><br>✅ <span class=\"certo\">o par do peso é a força com que o corpo atrai a <b>Terra</b>; o par da normal é a força com que o corpo <b>comprime</b> a superfície</span></li><li>❌ <span class=\"banca\">Numa colisão entre um carro e um caminhão, o caminhão exerce sobre o carro força maior que a que recebe</span><br>✅ <span class=\"certo\">as forças têm <b>mesma intensidade</b>; o carro sofre maior <b>aceleração</b> por ter menor massa</span></li><li>❌ <span class=\"banca\">O motor é a força externa que acelera o carro</span><br>✅ <span class=\"certo\">a força externa é o <b>atrito do chão</b> sobre os pneus (reação ao empurrão do pneu)</span></li></ol></div>\n<h3>14. As forças mais comuns</h3>\n<table class=\"tab\"><thead><tr><th>Força</th><th>Origem</th><th>Direção e sentido</th><th>Fórmula</th></tr></thead><tbody><tr><td><b>Peso (P)</b></td><td>atração gravitacional da Terra</td><td>vertical, para baixo</td><td>P = m·g</td></tr><tr><td><b>Normal (N)</b></td><td>contato com uma superfície</td><td><b>perpendicular</b> à superfície, \"empurrando\" o corpo</td><td>depende da situação (não é sempre igual ao peso)</td></tr><tr><td><b>Tração (T)</b></td><td>fio, cabo ou corda esticados</td><td>ao longo do fio, \"puxando\"</td><td>depende da situação; fio ideal transmite a mesma tração de ponta a ponta</td></tr><tr><td><b>Atrito (Fat)</b></td><td>contato entre superfícies rugosas</td><td>paralelo à superfície, <b>oposto ao deslizamento</b> (ou à tendência dele)</td><td>estático: até μe·N; cinético: μc·N</td></tr><tr><td><b>Elástica (Fel)</b></td><td>mola deformada</td><td>oposta à deformação</td><td><b>Lei de Hooke</b>: F = k·x</td></tr><tr><td><b>Resistência do ar</b></td><td>colisão com as moléculas do ar</td><td>oposta ao movimento</td><td>cresce com a velocidade (≈ ∝ v² em velocidades de veículos)</td></tr></tbody></table>\n<ul><li><b>Normal não é sempre igual ao peso</b>: é igual ao peso apenas quando o corpo está apoiado numa superfície <b>horizontal</b>, em equilíbrio vertical e sem outras forças verticais. No plano inclinado, N = P·cos θ; num elevador acelerando, N ≠ P; se alguém empurra o corpo contra o chão, N aumenta; numa lombada, N diminui.</li><li><b>Lei de Hooke</b>: a força elástica é proporcional à deformação: <b>F = k·x</b>, em que k é a constante elástica (N/m). Uma mola de k = 500 N/m, comprimida 10 cm, exerce 50 N. Vale dentro do limite elástico.</li><li><b>Molas da suspensão</b>: quanto maior a carga do veículo, maior a compressão das molas (x = F/k). Amortecedores dissipam a energia das oscilações.</li><li><b>Resistência do ar e velocidade terminal</b>: um corpo em queda acelera até que a resistência do ar (que cresce com a velocidade) iguale o peso; a partir daí, a resultante é nula e ele cai com <b>velocidade constante</b> (velocidade terminal). O paraquedas aumenta enormemente a resistência e reduz a velocidade terminal a valores seguros.</li><li><b>Resistência do ar nos veículos</b>: como cresce aproximadamente com <b>v²</b>, o consumo de combustível aumenta muito em altas velocidades; acima de 80 a 100 km/h, a maior parte da potência do motor é gasta para \"empurrar o ar\".</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A força normal sobre um corpo apoiado é sempre igual ao seu peso</span><br>✅ <span class=\"certo\">só em superfície <b>horizontal</b>, sem outras forças verticais e sem aceleração vertical; no plano inclinado, N = P·cos θ</span></li><li>❌ <span class=\"banca\">Pela Lei de Hooke, a força elástica é proporcional ao quadrado da deformação</span><br>✅ <span class=\"certo\">é <b>proporcional</b> à deformação: F = k·x</span></li><li>❌ <span class=\"banca\">Um paraquedista em velocidade terminal está sujeito a uma força resultante para baixo</span><br>✅ <span class=\"certo\">na velocidade terminal, a resultante é <b>nula</b> (resistência do ar = peso)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>3ª lei</span></span><span class=\"vs\"><span>Pares iguais e opostos em corpos diferentes; não se anulam</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Peso e normal</span></span><span class=\"vs\"><span>Não são par ação-reação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carro x caminhão</span></span><span class=\"vs\"><span>Forças iguais; aceleração maior no carro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Normal</span></span><span class=\"vs\"><span>Perpendicular à superfície; nem sempre igual ao peso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hooke</span></span><span class=\"vs\"><span>F = k·x</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade terminal</span></span><span class=\"vs\"><span>Resultante nula</span></span></button></div></div>\n<h3>15. Atrito: a força mais importante do trânsito</h3>\n<ul><li><b>Origem</b>: as superfícies, mesmo as que parecem lisas, têm rugosidades microscópicas que se \"encaixam\" e formam ligações. O atrito se opõe ao <b>deslizamento</b> (ou à <b>tendência</b> de deslizamento) entre as superfícies em contato.</li><li><b>Atrito estático</b>: atua quando <b>não há deslizamento</b>. Ele se <b>ajusta</b> à força aplicada, com o mesmo valor e sentido oposto, até um <b>máximo</b>: <b>Fat_e,máx = μe·N</b>. Se você empurra um armário com 100 N e ele não se move, o atrito estático vale exatamente 100 N, e não μe·N.</li><li><b>Atrito cinético (dinâmico)</b>: atua quando <b>há deslizamento</b>. Tem valor praticamente constante: <b>Fat_c = μc·N</b>.</li><li><b>Em geral, μe > μc</b>: é mais difícil <b>começar</b> a mover um objeto do que mantê-lo deslizando. Por isso, quando o armário \"desgruda\", ele dá um tranco.</li></ul>\n<table class=\"tab\"><thead><tr><th>Força aplicada no armário (μe·N = 300 N; μc·N = 250 N)</th><th>Atrito</th><th>Resultado</th></tr></thead><tbody><tr><td>0 N</td><td>0</td><td>repouso</td></tr><tr><td>100 N</td><td>100 N (estático)</td><td>repouso</td></tr><tr><td>300 N</td><td>300 N (estático máximo)</td><td>na iminência de deslizar</td></tr><tr><td>310 N</td><td>250 N (cinético)</td><td>desliza com resultante de 60 N</td></tr><tr><td>250 N, já em movimento</td><td>250 N (cinético)</td><td>desliza em MRU (resultante nula)</td></tr></tbody></table>\n<ul><li><b>O atrito não depende da área de contato</b> (no modelo usado em provas): depende do coeficiente μ (dos materiais e do estado das superfícies) e da <b>normal</b>. Um tijolo deitado ou em pé, sobre a mesma superfície, tem o mesmo atrito máximo.</li><li><b>Coeficientes típicos pneu-pista</b>: asfalto seco, 0,7 a 0,9; asfalto molhado, 0,4 a 0,6; terra solta ou cascalho, 0,3 a 0,5; gelo, 0,1 ou menos.</li><li><b>Atrito nem sempre se opõe ao movimento do corpo</b>: ele se opõe ao <b>deslizamento relativo</b>. O atrito do chão sobre o pneu motriz aponta <b>para a frente</b> (é a força que acelera o carro); o atrito da carroceria sobre uma caixa que é levada junto, numa arrancada, também aponta para a frente.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Empurrando um carro sem motor</b><ol><li><span>Carro de 1.000 kg em ponto morto; a resistência ao rolamento equivale a μ = 0,02; quanto é preciso empurrar para movê-lo em velocidade constante?</span></li><li><span>N = P = 10.000 N</span></li><li><span>Resistência = 0,02·10.000 = 200 N</span></li><li><span>Para velocidade constante, a força aplicada iguala a resistência</span></li></ol><span class=\"res\">≈ 200 N (rodas que rolam oferecem resistência muito menor que o atrito de deslizamento)</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Se um corpo permanece em repouso enquanto é empurrado com 80 N, o atrito estático sobre ele vale μe·N</span><br>✅ <span class=\"certo\">o atrito estático <b>se ajusta</b>: vale <b>80 N</b>; μe·N é só o valor <b>máximo</b></span></li><li>❌ <span class=\"banca\">O atrito de um bloco aumenta quando ele é apoiado sobre a face de maior área</span><br>✅ <span class=\"certo\">no modelo usual, o atrito <b>não depende da área</b>, apenas de μ e da normal</span></li><li>❌ <span class=\"banca\">O atrito sempre atua no sentido oposto ao movimento do corpo</span><br>✅ <span class=\"certo\">atua oposto ao <b>deslizamento relativo</b>; no pneu motriz, o atrito aponta <b>para a frente</b></span></li></ol></div>\n<h3>16. Atrito, frenagem e ABS</h3>\n<ul><li><b>Desaceleração máxima na frenagem</b>: com o atrito como única força horizontal, F = m·a e F_máx = μ·m·g, logo <b>a_máx = μ·g</b>. Em asfalto seco (μ ≈ 0,8), a desaceleração máxima é cerca de 8 m/s². A massa se cancela.</li><li><b>Roda girando x roda travada</b>: enquanto a roda gira sem deslizar, o pneu está em atrito <b>estático</b> com a pista (maior coeficiente). Se a roda trava e \"arrasta\", o atrito passa a <b>cinético</b> (menor), a desaceleração cai e a <b>dirigibilidade se perde</b> (rodas dianteiras travadas não esterçam o carro).</li><li><b>ABS (sistema antitravamento)</b>: sensores percebem quando uma roda está prestes a travar e o sistema alivia e reaplica a pressão do freio várias vezes por segundo. Mantém as rodas no limite do atrito estático, preservando a <b>dirigibilidade</b> e, em geral, encurtando a frenagem em piso firme.</li><li><b>Pneus</b>: os sulcos escoam a água; com sulcos rasos (abaixo do limite de desgaste, indicado pelos TWI, de 1,6 mm), a água não é expulsa e ocorre <b>aquaplanagem</b>: o pneu \"flutua\" sobre uma lâmina d'água, o atrito praticamente desaparece, e o veículo perde frenagem e direção. Velocidade alta e lâmina d'água profunda aumentam o risco.</li><li><b>Tração</b>: a força que acelera o veículo é o <b>atrito estático</b> nas rodas motrizes; o limite de aceleração também é μ·g (vezes a fração do peso sobre as rodas motrizes). Em pista escorregadia, acelerar demais faz as rodas patinarem; o controle de tração reduz a potência para evitar isso.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Frenagem em pista seca e molhada</b><ol><li><span>Carro a 25 m/s (90 km/h); μ seco = 0,8; μ molhado = 0,4; g = 10 m/s²</span></li><li><span>Seco: a = 8 m/s² → d = 625/16 ≈ 39 m</span></li><li><span>Molhado: a = 4 m/s² → d = 625/8 ≈ 78 m</span></li></ol><span class=\"res\">A distância de frenagem dobra com o atrito pela metade</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Com as rodas travadas, a frenagem é mais eficiente, pois o atrito cinético é maior que o estático</span><br>✅ <span class=\"certo\">o <b>estático</b> é maior; travar reduz a desaceleração e tira a dirigibilidade</span></li><li>❌ <span class=\"banca\">O ABS tem como principal finalidade reduzir o desgaste dos pneus</span><br>✅ <span class=\"certo\">a finalidade é evitar o <b>travamento</b> das rodas, preservando a <b>dirigibilidade</b></span></li><li>❌ <span class=\"banca\">A desaceleração máxima de frenagem de um caminhão é menor que a de um carro porque sua massa é maior, considerado o mesmo coeficiente de atrito</span><br>✅ <span class=\"certo\">pelo modelo a_máx = μ·g, a massa <b>se cancela</b>; na prática, diferenças vêm de freios, pneus e distribuição de carga</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atrito estático</span></span><span class=\"vs\"><span>Ajusta-se até μe·N</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atrito cinético</span></span><span class=\"vs\"><span>μc·N, com μc < μe</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Área de contato</span></span><span class=\"vs\"><span>Não altera o atrito (modelo usual)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Desaceleração máxima</span></span><span class=\"vs\"><span>a = μ·g</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>ABS</span></span><span class=\"vs\"><span>Evita travar: mantém atrito estático e dirigibilidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aquaplanagem</span></span><span class=\"vs\"><span>Lâmina d'água; atrito quase nulo</span></span></button></div></div>\n<h3>17. Plano inclinado</h3>\n<ul><li>Num plano inclinado de ângulo θ com a horizontal, decompõe-se o <b>peso</b> em duas componentes:</li></ul>\n<table class=\"tab\"><thead><tr><th>Componente</th><th>Fórmula</th><th>Papel</th></tr></thead><tbody><tr><td><b>Paralela ao plano</b> (P_x)</td><td><b>P·sen θ</b> = m·g·sen θ</td><td>\"puxa\" o corpo plano abaixo</td></tr><tr><td><b>Perpendicular ao plano</b> (P_y)</td><td><b>P·cos θ</b> = m·g·cos θ</td><td>é equilibrada pela <b>normal</b>: N = P·cos θ</td></tr></tbody></table>\n<ul><li><b>Sem atrito</b>: a resultante é P·sen θ, e a aceleração plano abaixo é <b>a = g·sen θ</b>, qualquer que seja a massa.</li><li><b>Com atrito, corpo descendo</b>: a = g·(sen θ − μc·cos θ).</li><li><b>Com atrito, corpo subindo (empurrado ou lançado)</b>: o atrito e a componente do peso apontam para baixo: a desaceleração é g·(sen θ + μc·cos θ).</li><li><b>Condição de repouso</b> (sem outras forças): o corpo fica parado se P·sen θ ≤ μe·P·cos θ, isto é, <b>tg θ ≤ μe</b>. O ângulo em que o corpo começa a escorregar, tg θ = μe, permite medir o coeficiente de atrito.</li><li><b>Valores úteis</b>: sen 30° = 0,5 e cos 30° ≈ 0,87; sen 37° ≈ 0,6 e cos 37° ≈ 0,8; sen 45° = cos 45° ≈ 0,71; sen 53° ≈ 0,8 e cos 53° ≈ 0,6.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Bloco no plano sem atrito</b><ol><li><span>Bloco de 10 kg num plano de 30°, sem atrito</span></li><li><span>P = 100 N</span></li><li><span>P_x = 100·0,5 = 50 N; P_y = 100·0,87 ≈ 87 N = N</span></li><li><span>a = g·sen 30° = 5 m/s²</span></li></ol><span class=\"res\">Desce com aceleração de 5 m/s²; a normal vale ≈ 87 N, menos que o peso</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Bloco no plano com atrito</b><ol><li><span>Mesmo bloco, plano de 37°, μc = 0,5</span></li><li><span>P_x = 100·0,6 = 60 N</span></li><li><span>N = 100·0,8 = 80 N → Fat = 0,5·80 = 40 N</span></li><li><span>Resultante: 60 − 40 = 20 N → a = 20/10 = 2 m/s²</span></li></ol><span class=\"res\">Desce com 2 m/s²</span></div>\n<h3>18. Ladeiras, rampas e estacionamento</h3>\n<ul><li><b>Veículo parado em ladeira</b>: o atrito estático (com o freio de estacionamento acionado) equilibra a componente P·sen θ. Se a rampa for íngreme demais ou a pista estiver escorregadia (tg θ > μe), o veículo escorrega mesmo freado.</li><li><b>Inclinação em porcentagem</b>: placas de \"declive acentuado\" e projetos de vias usam a <b>rampa em %</b>, que é a <b>tangente</b> do ângulo × 100. Uma rampa de 10% sobe 10 m a cada 100 m na horizontal (θ ≈ 5,7°). Para ângulos pequenos, sen θ ≈ tg θ.</li><li><b>Força para subir uma rampa em velocidade constante</b>: o motor (via atrito nas rodas) precisa vencer P·sen θ + resistências. Um caminhão de 40 t numa rampa de 5% precisa de cerca de 40.000·10·0,05 = <b>20.000 N</b> só para vencer a componente do peso.</li><li><b>Descidas longas</b>: a componente P·sen θ acelera o veículo continuamente; frear o tempo todo superaquece os freios. Por isso se usa o <b>freio-motor</b> (marcha reduzida) e, em serras, existem <b>áreas de escape</b> (rampas de areia ou cascalho, às vezes em aclive) para veículos sem freio: o material solto aumenta muito a resistência e o aclive acrescenta a componente do peso contra o movimento.</li><li><b>Manobras de estacionamento em ladeira</b>: virar as rodas em direção ao meio-fio é medida de segurança: se o freio falhar, o pneu se apoia no meio-fio.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Rampa de escape</b><ol><li><span>Caminhão entra a 25 m/s numa rampa de escape com aclive de sen θ = 0,1 e material que oferece desaceleração adicional de 4 m/s². Quanto percorre até parar?</span></li><li><span>Desaceleração total: g·sen θ + 4 = 1 + 4 = 5 m/s²</span></li><li><span>d = v²/(2a) = 625/10</span></li></ol><span class=\"res\">≈ 62,5 m</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A aceleração de um bloco que desliza sem atrito num plano inclinado depende de sua massa</span><br>✅ <span class=\"certo\">a = g·sen θ: <b>independe</b> da massa</span></li><li>❌ <span class=\"banca\">No plano inclinado, a força normal é igual ao peso do corpo</span><br>✅ <span class=\"certo\">N = <b>P·cos θ</b>, menor que o peso</span></li><li>❌ <span class=\"banca\">Uma rampa de 10% tem inclinação de 10°</span><br>✅ <span class=\"certo\">10% é a <b>tangente</b> (0,1), o que corresponde a ≈ <b>5,7°</b></span></li><li>❌ <span class=\"banca\">Um bloco permanece em repouso no plano inclinado quando tg θ é maior que o coeficiente de atrito estático</span><br>✅ <span class=\"certo\">permanece em repouso quando <b>tg θ ≤ μe</b></span></li></ol></div>\n<h3>19. Peso aparente: elevadores e acelerações verticais</h3>\n<ul><li>Num elevador, a balança mede a <b>normal</b> (N). Pela 2ª lei, com o eixo para cima: <b>N − P = m·a</b>, logo <b>N = m·(g + a)</b>, com a positivo para aceleração para cima.</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação do elevador</th><th>Aceleração</th><th>Balança indica</th></tr></thead><tbody><tr><td>Parado ou em MRU (subindo ou descendo)</td><td>zero</td><td><b>o peso</b> (N = m·g)</td></tr><tr><td>Começando a subir ou freando na descida</td><td>para cima</td><td><b>mais</b> que o peso (N = m·(g + a))</td></tr><tr><td>Começando a descer ou freando na subida</td><td>para baixo</td><td><b>menos</b> que o peso (N = m·(g − a))</td></tr><tr><td>Cabo rompido (queda livre)</td><td>g, para baixo</td><td><b>zero</b> (imponderabilidade)</td></tr></tbody></table>\n<ul><li><b>O que importa é o sentido da aceleração, não o da velocidade</b>: um elevador que <b>desce freando</b> tem aceleração <b>para cima</b>, e a pessoa se sente mais pesada.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Pessoa no elevador</b><ol><li><span>Pessoa de 70 kg; elevador acelera para cima a 2 m/s²</span></li><li><span>N = 70·(10 + 2) = 840 N</span></li><li><span>A balança calibrada para g = 10 indicaria 84 kg</span></li></ol><span class=\"res\">Indica 84 kg (peso aparente maior)</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Num elevador que desce com velocidade constante, a balança indica menos que o peso da pessoa</span><br>✅ <span class=\"certo\">com velocidade constante a aceleração é <b>nula</b>: indica <b>o peso</b></span></li><li>❌ <span class=\"banca\">Num elevador que desce freando, a pessoa se sente mais leve</span><br>✅ <span class=\"certo\">descendo e <b>freando</b>, a aceleração é <b>para cima</b>: sente-se <b>mais pesada</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Plano inclinado</span></span><span class=\"vs\"><span>P·sen θ ao longo; N = P·cos θ</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sem atrito</span></span><span class=\"vs\"><span>a = g·sen θ</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Repouso no plano</span></span><span class=\"vs\"><span>tg θ ≤ μe</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rampa em %</span></span><span class=\"vs\"><span>tangente × 100</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Elevador</span></span><span class=\"vs\"><span>N = m(g + a); sentido da aceleração decide</span></span></button></div></div>\n<h3>20. Sistemas de corpos: blocos, fios e polias</h3>\n<ul><li><b>Método geral</b>:</li></ul>\n<div class=\"lt-fluxo\"><span>Desenhe cada corpo isolado com suas forças</span> <em>→</em> <span>Escolha o sentido positivo (o do movimento provável)</span> <em>→</em> <span>Escreva F_R = m·a para cada corpo</span> <em>→</em> <span>Use que corpos ligados por fio ideal ou encostados têm a mesma aceleração</span> <em>→</em> <span>Resolva o sistema de equações</span></div>\n<ul><li><b>Atalho do sistema inteiro</b>: quando os corpos se movem juntos, trate-os como <b>um só corpo</b> de massa total: <b>a = (forças externas resultantes)/(soma das massas)</b>. As forças <b>internas</b> (tração entre eles, força de contato entre blocos) se cancelam no conjunto e só aparecem quando se isola um dos corpos.</li><li><b>Dois blocos encostados, empurrados por uma força F</b> (sem atrito): a = F/(m₁ + m₂). A força de contato entre eles é a que acelera o bloco que <b>não</b> recebe F diretamente: f = m₂·a (se F é aplicada em m₁).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Blocos em contato</b><ol><li><span>F = 60 N empurra o bloco A (4 kg), que empurra B (2 kg), sem atrito</span></li><li><span>Conjunto: a = 60/(4 + 2) = 10 m/s²</span></li><li><span>Força de A sobre B: f = m_B·a = 2·10 = 20 N</span></li><li><span>Conferência em A: 60 − 20 = 4·10 ✓</span></li></ol><span class=\"res\">a = 10 m/s²; força de contato de 20 N</span></div>\n<ul><li><b>Reboque com cabo (veículos ligados)</b>: o carro-guincho puxa o carro rebocado por um cabo. A tração no cabo é a força que acelera o rebocado (mais as resistências dele).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Reboque</b><ol><li><span>Guincho aplica força resultante de 6.000 N ao conjunto (guincho de 3.000 kg + carro rebocado de 1.000 kg), desprezando resistências</span></li><li><span>a = 6.000/4.000 = 1,5 m/s²</span></li><li><span>Tração no cabo: T = m_rebocado·a = 1.000·1,5 = 1.500 N</span></li></ol><span class=\"res\">Aceleração de 1,5 m/s²; cabo tracionado com 1.500 N</span></div>\n<ul><li><b>Freada do conjunto</b>: se o caminhão freia e o reboque (sem freios próprios) é freado só pelo engate, o engate <b>empurra</b> o reboque para trás com força m_reboque·a. Reboques pesados sem freios empurram o veículo trator, alongando a frenagem e podendo provocar o \"efeito canivete\" (o conjunto se dobra). Por isso a legislação exige <b>freios próprios</b> em reboques acima de certo peso.</li><li><b>Polia e bloco pendurado (sistema de Atwood ou mesa com polia)</b>: um bloco A sobre uma mesa sem atrito, ligado por fio que passa por uma polia a um bloco B pendurado: a força externa que move o sistema é o <b>peso de B</b>, e a = m_B·g/(m_A + m_B). A tração é T = m_A·a.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Bloco na mesa e bloco pendurado</b><ol><li><span>A = 6 kg sobre mesa sem atrito; B = 2 kg pendurado</span></li><li><span>a = 2·10/(6 + 2) = 2,5 m/s²</span></li><li><span>T = m_A·a = 6·2,5 = 15 N</span></li><li><span>Conferência em B: 20 − 15 = 2·2,5 ✓</span></li></ol><span class=\"res\">a = 2,5 m/s²; tração de 15 N (menor que o peso de B)</span></div>\n<ul><li><b>Máquina de Atwood</b> (dois blocos pendurados de lados opostos de uma polia): a = (m₁ − m₂)·g/(m₁ + m₂). Se as massas são iguais, o sistema fica em equilíbrio (ou em MRU).</li><li><b>Tração ≠ peso do bloco pendurado</b> quando há aceleração: se o bloco desce acelerando, T < P; se sobe acelerando, T > P; parado ou em MRU, T = P.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Num sistema de dois blocos ligados por fio e acelerados juntos, a tração no fio é igual à força externa aplicada ao primeiro bloco</span><br>✅ <span class=\"certo\">a tração é menor: ela acelera <b>apenas</b> o bloco de trás (T = m·a do bloco puxado)</span></li><li>❌ <span class=\"banca\">Um bloco pendurado que desce acelerado traciona o fio com força igual ao seu peso</span><br>✅ <span class=\"certo\">se desce acelerado, <b>T < P</b> (P − T = m·a)</span></li><li>❌ <span class=\"banca\">As forças internas entre os corpos de um sistema alteram a aceleração do conjunto</span><br>✅ <span class=\"certo\">as forças internas <b>se cancelam</b> no conjunto; só as externas determinam a aceleração do todo</span></li></ol></div>\n<h3>21. A dinâmica da segurança veicular</h3>\n<ul><li><b>Cinto de segurança</b>: numa colisão, o ocupante precisa ser freado junto com o carro. O cinto aplica essa força ao <b>tórax e à pelve</b>, regiões mais resistentes, e se <b>estica</b> um pouco (e os pré-tensionadores e limitadores de carga ajustam a força), distribuindo a desaceleração ao longo de mais tempo e de uma área maior.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Força no cinto</b><ol><li><span>Ocupante de 80 kg; carro de 15 m/s (54 km/h) para em 0,15 s, e o ocupante, preso pelo cinto, é freado junto</span></li><li><span>a = 15/0,15 = 100 m/s² (≈ 10 g)</span></li><li><span>F = m·a = 80·100 = 8.000 N</span></li></ol><span class=\"res\">Cerca de 8.000 N, dez vezes o peso; sem cinto, a parada seria contra o volante ou o para-brisa, em tempo muito menor e força muito maior</span></div>\n<ul><li><b>Sem cinto, o ocupante não \"segura\" com os braços</b>: segurar uma força de 8.000 N equivaleria a sustentar 800 kg com os braços. O efeito é ser lançado contra o interior do veículo ou para fora dele.</li><li><b>Cadeirinha infantil</b>: crianças têm massa pequena, mas o cinto adulto passa por regiões erradas (pescoço, abdome); os dispositivos de retenção posicionam o cinto e distribuem a força adequadamente. O CTB e as resoluções do CONTRAN exigem o dispositivo adequado conforme idade, peso e altura.</li><li><b>Carga e passageiros na carroceria</b>: numa frenagem de 8 m/s², uma caixa de 100 kg precisa de 800 N de atrito para não escorregar; se o coeficiente caixa-carroceria for 0,4, o atrito máximo é 400 N, e a caixa desliza para a frente. <b>Amarração</b> fornece a força que falta.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Carga que escorrega</b><ol><li><span>Caixa de 100 kg na carroceria, μe = 0,4. Qual a maior desaceleração do caminhão sem que a caixa deslize?</span></li><li><span>A caixa só pode ser freada pelo atrito: a_máx = μe·g</span></li><li><span>a_máx = 0,4·10 = 4 m/s²</span></li></ol><span class=\"res\">Acima de 4 m/s² de frenagem, a caixa escorrega: precisa ser amarrada</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em uma colisão a 50 km/h, um adulto consegue, com os braços, impedir-se de ser lançado contra o painel</span><br>✅ <span class=\"certo\">as forças envolvidas chegam a <b>milhares de newtons</b>, muito acima do que os braços suportam</span></li><li>❌ <span class=\"banca\">A carga sobre a carroceria é freada pela inércia durante a frenagem do caminhão</span><br>✅ <span class=\"certo\">a inércia é a <b>tendência</b> de continuar; quem freia a carga é o <b>atrito</b> (ou a amarração)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sistema que se move junto</span></span><span class=\"vs\"><span>a = forças externas / massa total</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Blocos em contato</span></span><span class=\"vs\"><span>Força de contato = massa do bloco empurrado × a</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Bloco pendurado acelerando para baixo</span></span><span class=\"vs\"><span>T < P</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reboque sem freio</span></span><span class=\"vs\"><span>Empurra o veículo trator</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carga sem amarração</span></span><span class=\"vs\"><span>Escorrega se a > μ·g</span></span></button></div></div>\n<h3>22. Treino guiado: exercícios resolvidos</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 1 (2ª lei)</b><ol><li><span>Força resultante de 4.500 N sobre um carro de 1.500 kg. Aceleração?</span></li><li><span>a = F/m = 4.500/1.500</span></li></ol><span class=\"res\">a = 3 m/s²</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 2 (força a partir do movimento)</b><ol><li><span>Uma moto de 200 kg (com piloto) vai de 0 a 20 m/s em 5 s. Força resultante média?</span></li><li><span>a = 20/5 = 4 m/s²</span></li><li><span>F = 200·4</span></li></ol><span class=\"res\">F = 800 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 3 (peso e massa)</b><ol><li><span>Qual o peso de uma carga de 2,5 t?</span></li><li><span>m = 2.500 kg</span></li><li><span>P = m·g = 2.500·10</span></li></ol><span class=\"res\">P = 25.000 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 4 (resultante com resistências)</b><ol><li><span>Força motriz de 3.000 N; resistências de 1.200 N; massa de 1.200 kg</span></li><li><span>F_R = 3.000 − 1.200 = 1.800 N</span></li><li><span>a = 1.800/1.200</span></li></ol><span class=\"res\">a = 1,5 m/s²</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 5 (velocidade constante)</b><ol><li><span>Um carro anda a 100 km/h constantes, com resistências totais de 700 N. Qual a força motriz?</span></li><li><span>MRU: resultante nula</span></li><li><span>F_motriz = resistências</span></li></ol><span class=\"res\">700 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 6 (atrito estático)</b><ol><li><span>Um armário de 50 kg (μe = 0,5) é empurrado com 200 N e não se move. Quanto vale o atrito?</span></li><li><span>Atrito máximo: 0,5·500 = 250 N</span></li><li><span>200 N < 250 N: não desliza; o atrito se ajusta</span></li></ol><span class=\"res\">Fat = 200 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 7 (atrito cinético)</b><ol><li><span>O mesmo armário, já deslizando (μc = 0,4), é empurrado com 260 N. Aceleração?</span></li><li><span>Fat_c = 0,4·500 = 200 N</span></li><li><span>F_R = 260 − 200 = 60 N</span></li><li><span>a = 60/50</span></li></ol><span class=\"res\">a = 1,2 m/s²</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 8 (frenagem máxima)</b><ol><li><span>Com μ = 0,7, qual a menor distância para parar um carro a 28 m/s?</span></li><li><span>a_máx = μ·g = 7 m/s²</span></li><li><span>d = v²/(2a) = 784/14</span></li></ol><span class=\"res\">d = 56 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 9 (plano inclinado)</b><ol><li><span>Bloco de 5 kg em plano de 53° sem atrito (sen 53° ≈ 0,8). Aceleração e normal?</span></li><li><span>a = g·sen θ = 8 m/s²</span></li><li><span>N = m·g·cos θ = 50·0,6</span></li></ol><span class=\"res\">a = 8 m/s²; N = 30 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 10 (repouso no plano)</b><ol><li><span>Em que inclinação máxima um carro freado permanece parado se μe = 0,75?</span></li><li><span>tg θ = 0,75</span></li><li><span>θ ≈ 37°</span></li></ol><span class=\"res\">≈ 37° (rampa de 75%)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 11 (sistema)</b><ol><li><span>Guincho (2.000 kg) reboca carro (1.000 kg) com aceleração de 0,5 m/s², sem resistências. Força resultante no guincho e tração no cabo?</span></li><li><span>T = 1.000·0,5 = 500 N</span></li><li><span>Força externa total: 3.000·0,5 = 1.500 N</span></li></ol><span class=\"res\">T = 500 N; força total de 1.500 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 12 (polia)</b><ol><li><span>Bloco A (8 kg) sobre mesa sem atrito ligado a B (2 kg) pendurado. Aceleração e tração?</span></li><li><span>a = 20/10 = 2 m/s²</span></li><li><span>T = 8·2</span></li></ol><span class=\"res\">a = 2 m/s²; T = 16 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 13 (elevador)</b><ol><li><span>Pessoa de 60 kg num elevador que desce e freia com 1,5 m/s². O que indica a balança (N)?</span></li><li><span>Descendo e freando: aceleração para cima</span></li><li><span>N = 60·(10 + 1,5)</span></li></ol><span class=\"res\">N = 690 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 14 (mola)</b><ol><li><span>Uma mola de suspensão (k = 40.000 N/m) recebe carga adicional de 2.000 N. Quanto comprime?</span></li><li><span>x = F/k = 2.000/40.000</span></li></ol><span class=\"res\">x = 0,05 m = 5 cm</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 15 (ação e reação)</b><ol><li><span>Um jogador de 80 kg empurra uma parede com 200 N, de patins, sem atrito. O que acontece?</span></li><li><span>A parede empurra o jogador com 200 N (3ª lei)</span></li><li><span>a = 200/80</span></li></ol><span class=\"res\">O jogador recua com 2,5 m/s² (enquanto empurra)</span></div>\n<h3>23. Erros de raciocínio mais comuns</h3>\n<ul><li><b>Igualar normal a peso automaticamente</b>: só vale em superfície horizontal, sem forças verticais extras e sem aceleração vertical.</li><li><b>Usar μ·N para o atrito estático quando o corpo não desliza</b>: o atrito estático vale o necessário para impedir o deslizamento, até o máximo.</li><li><b>Anular ação e reação</b>: elas atuam em corpos diferentes.</li><li><b>Associar força ao sentido da velocidade</b>: a força resultante tem o sentido da <b>aceleração</b>.</li><li><b>Esquecer forças</b>: no diagrama, liste <b>peso</b> (sempre), <b>normal</b> (se houver apoio), <b>atrito</b> (se houver contato rugoso), <b>tração</b> (se houver fio), <b>forças aplicadas</b>.</li><li><b>Desenhar \"força do movimento\"</b>: não existe força que \"mantém\" o movimento; um corpo lançado continua por inércia.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Uma bola chutada para cima sofre, durante a subida, uma força para cima que a mantém subindo</span><br>✅ <span class=\"certo\">após o chute, só atua o <b>peso</b> (e o ar); ela sobe por <b>inércia</b>, desacelerando</span></li><li>❌ <span class=\"banca\">Num corpo em repouso sobre uma rampa, o atrito estático é igual a μe·N</span><br>✅ <span class=\"certo\">é igual a <b>P·sen θ</b> (o necessário para o equilíbrio), que pode ser menor que μe·N</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exercício-padrão</span></span><span class=\"vs\"><span>Diagrama de forças → resultante → F = m·a</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MRU</span></span><span class=\"vs\"><span>Força motriz = resistências</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atrito estático</span></span><span class=\"vs\"><span>O necessário, até μe·N</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Frenagem máxima</span></span><span class=\"vs\"><span>a = μg</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Elevador freando na descida</span></span><span class=\"vs\"><span>Balança indica mais que o peso</span></span></button></div></div>\n<h3>24. Itens no estilo Cebraspe, comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: o caminhão na serra</b><p>Um caminhão de 20 t desce uma serra com inclinação cujo seno vale 0,05, em velocidade constante, usando freio-motor (g = 10 m/s²). Julgue: (1) a força resultante sobre o caminhão é nula; (2) a componente do peso ao longo da pista vale 10.000 N; (3) as forças de resistência (freio-motor, ar, rolamento) somam 10.000 N, opostas ao movimento; (4) se o freio-motor falhar e as demais resistências forem desprezíveis, o caminhão acelerará a 0,5 m/s².</p><details><summary>Ver a solução comentada</summary><p>(1) Velocidade constante → resultante nula: <b>certo</b>. (2) P·sen θ = 200.000·0,05 = <b>10.000 N</b>: <b>certo</b>. (3) Para equilibrar, as resistências somam <b>10.000 N</b>: <b>certo</b>. (4) a = g·sen θ = 10·0,05 = <b>0,5 m/s²</b>: <b>certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a colisão</b><p>Um automóvel de 1.200 kg colide frontalmente com um caminhão de 12.000 kg. Julgue: (1) a força que o caminhão exerce sobre o automóvel é dez vezes maior que a que o automóvel exerce sobre o caminhão; (2) durante a colisão, a aceleração do automóvel é dez vezes maior que a do caminhão; (3) as forças trocadas se anulam, pois são iguais e opostas.</p><details><summary>Ver a solução comentada</summary><p>(1) Pela 3ª lei, as forças têm <b>mesma intensidade</b>: <b>errado</b>. (2) a = F/m; com a mesma F e massa dez vezes menor, a aceleração do automóvel é <b>dez vezes maior</b>: <b>certo</b>. (3) Atuam em corpos <b>diferentes</b>; não se anulam: <b>errado</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: o armário</b><p>Um agente empurra horizontalmente um armário de 60 kg sobre piso com μe = 0,5 e μc = 0,3 (g = 10 m/s²). Julgue: (1) com força de 250 N, o armário permanece em repouso e o atrito vale 250 N; (2) para iniciar o movimento, é necessária força superior a 300 N; (3) uma vez em movimento, basta força de 180 N para mantê-lo em velocidade constante; (4) se o armário for virado para apoiar-se em uma face de menor área, o atrito máximo aumentará.</p><details><summary>Ver a solução comentada</summary><p>(1) Máximo estático: 0,5·600 = 300 N; 250 < 300 → repouso, atrito = <b>250 N</b>: <b>certo</b>. (2) <b>Certo</b> (acima de 300 N). (3) Cinético: 0,3·600 = <b>180 N</b>: <b>certo</b>. (4) O atrito <b>não</b> depende da área: <b>errado</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: o elevador do prédio da delegacia</b><p>Um agente de 80 kg está sobre uma balança dentro de um elevador. Julgue: (1) se o elevador sobe com velocidade constante, a balança indica 800 N; (2) se o elevador desce e está freando com 2 m/s², a balança indica 640 N; (3) se o cabo se rompe, a balança indica zero.</p><details><summary>Ver a solução comentada</summary><p>(1) Aceleração nula → N = P = <b>800 N</b>: <b>certo</b>. (2) Descendo e freando → aceleração <b>para cima</b>: N = 80·12 = <b>960 N</b>: <b>errado</b>. (3) Queda livre → N = 0: <b>certo</b>.</p></details></div>\n<ul><li><b>Padrões que a banca repete</b>:</li><li>Trocar \"velocidade\" por \"aceleração\" ao relacionar com a força resultante.</li><li>Afirmar que ação e reação se anulam ou que peso e normal são par ação-reação.</li><li>Usar μ·N como atrito estático quando o corpo está parado.</li><li>Supor que massa maior implica frenagem ou queda mais lenta.</li><li>Supor que normal é sempre igual ao peso.</li></ul>\n<h3>25. Da física de Aristóteles à de Newton</h3>\n<ul><li><b>Aristóteles</b> (séc. IV a.C.): acreditava que o estado natural dos corpos terrestres é o repouso e que é preciso uma força contínua para manter o movimento; corpos mais pesados cairiam mais depressa.</li><li><b>Galileu</b> (séc. XVII): com planos inclinados e experimentos de pensamento, mostrou que, sem atrito, um corpo em movimento continuaria indefinidamente (ideia da inércia) e que todos os corpos caem com a mesma aceleração (desprezado o ar).</li><li><b>Newton</b> (1687, *Principia*): formulou as três leis do movimento e a gravitação universal, unificando a física da Terra e dos céus.</li><li><b>Limites da mecânica de Newton</b>: falha para velocidades próximas à da luz (relatividade) e para o mundo atômico (mecânica quântica), mas descreve com excelente precisão o movimento de veículos, projéteis, máquinas e planetas.</li></ul>\n<h3>26. Referenciais não inerciais e forças fictícias</h3>\n<ul><li>Dentro de um veículo que <b>acelera, freia ou faz curva</b>, os objetos parecem sofrer forças sem causa: o copo desliza no painel na freada, o passageiro é \"jogado\" para o lado na curva. Para quem está <b>fora</b> (referencial inercial, a pista), não há força nenhuma: os objetos simplesmente seguem por inércia enquanto o veículo muda de velocidade.</li><li>Quem descreve o movimento <b>de dentro</b> do veículo pode usar <b>forças fictícias</b> (de inércia), iguais a −m·a do veículo: a \"força\" que empurra para a frente na freada e a \"centrífuga\" na curva. Elas não têm agente causador nem par de reação.</li><li><b>Pêndulo no retrovisor</b>: um enfeite pendurado no retrovisor inclina-se <b>para trás</b> quando o carro acelera e <b>para a frente</b> quando freia; o ângulo indica a aceleração: tg α = a/g.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Acelerômetro de enfeite</b><ol><li><span>O enfeite pendurado no retrovisor inclina 45° para trás durante uma arrancada</span></li><li><span>tg α = a/g → tg 45° = 1</span></li><li><span>a = g</span></li></ol><span class=\"res\">a ≈ 10 m/s² (arrancada fortíssima, típica de carros esportivos)</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A \"força\" que empurra o passageiro para a frente numa freada é exercida pelo encosto do banco</span><br>✅ <span class=\"certo\">não há agente: é <b>inércia</b>; descrita de dentro do carro, é uma <b>força fictícia</b></span></li><li>❌ <span class=\"banca\">Num carro que acelera, um objeto pendurado no retrovisor se inclina para a frente</span><br>✅ <span class=\"certo\">inclina-se <b>para trás</b> (fica \"atrasado\" por inércia)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade constante na descida</span></span><span class=\"vs\"><span>Resultante nula: resistências = P·sen θ</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carro x caminhão</span></span><span class=\"vs\"><span>Mesma força; maior aceleração no carro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atrito máximo</span></span><span class=\"vs\"><span>μe·N; cinético μc·N</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Galileu</span></span><span class=\"vs\"><span>Inércia e queda igual para todos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Forças fictícias</span></span><span class=\"vs\"><span>Só para quem está num referencial acelerado</span></span></button></div></div>\n<h3>27. Forças em acidentes: quanto o corpo humano suporta</h3>\n<ul><li>Em colisões, as acelerações são expressas em múltiplos de <b>g</b>. Uma pessoa sente-se \"pesada\" com 2 a 3 g (montanhas-russas); acima de dezenas de g, por intervalos curtos, ocorrem lesões graves. O tempo de exposição e a área sobre a qual a força se distribui são decisivos.</li><li><b>Como reduzir a força sobre o ocupante</b> (pela 2ª lei, F = m·a, e a = Δv/Δt):</li><li>Aumentar o <b>tempo</b> de desaceleração: zonas de <b>deformação programada</b> na carroceria, cinto que se estica um pouco, air bag que se esvazia ao ser comprimido.</li><li>Distribuir a força numa <b>área maior</b>: cinto largo sobre tórax e pelve, air bag sobre rosto e tórax (a pressão, força por área, diminui).</li><li>Evitar o <b>impacto secundário</b>: o ocupante sem cinto continua em movimento e bate no interior do veículo com a velocidade que o carro tinha.</li><li><b>Capacete</b>: a espuma interna amassa durante o impacto, aumentando o tempo de desaceleração da cabeça e reduzindo a força; a casca rígida distribui a força. Por isso, capacetes que sofreram impacto devem ser substituídos.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 O papel da deformação</b><ol><li><span>Ocupante de 70 kg, a 15 m/s, é parado em 0,05 s (impacto rígido) ou em 0,15 s (com zona de deformação, cinto e air bag)</span></li><li><span>Rígido: a = 300 m/s² → F = 21.000 N</span></li><li><span>Amortecido: a = 100 m/s² → F = 7.000 N</span></li></ol><span class=\"res\">Triplicar o tempo de parada reduz a força a um terço (detalhado no tópico de quantidade de movimento)</span></div>\n<ul><li><b>Carros \"fortes\" x carros que amassam</b>: um carro que <b>amassa</b> na frente protege melhor os ocupantes do que um \"indeformável\", porque a deformação da carroceria aumenta o tempo da colisão; a <b>célula de sobrevivência</b> (habitáculo) é que deve ser rígida.</li></ul>\n<h3>28. Dinâmica do motociclista e do pedestre</h3>\n<ul><li><b>Motocicleta</b>: numa frenagem, a carga se transfere para a roda <b>dianteira</b> (o conjunto \"mergulha\"), que passa a ter maior normal e, portanto, maior atrito disponível; por isso o freio dianteiro responde pela maior parte da frenagem. Frear só com o traseiro alonga muito a distância de parada; travar o dianteiro derruba a moto (por isso o ABS em motos é tão importante).</li><li><b>Transferência de carga nos carros</b>: na frenagem, a dianteira afunda e a traseira fica mais leve; na aceleração, o contrário; na curva, as rodas externas ficam mais carregadas. A normal em cada roda muda, e com ela o atrito disponível.</li><li><b>Atropelamento</b>: a probabilidade de morte de um pedestre cresce muito com a velocidade do impacto; estudos de segurança viária mostram que o risco aumenta de forma acentuada entre 30 e 50 km/h. Isso decorre da energia cinética (proporcional a v²) e das forças envolvidas. Por isso zonas escolares e áreas com muitos pedestres têm limites mais baixos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na frenagem de uma motocicleta, a roda traseira recebe a maior parte da carga, e por isso o freio traseiro é o mais eficiente</span><br>✅ <span class=\"certo\">a carga se transfere para a roda <b>dianteira</b>, que fica com maior normal e maior atrito disponível</span></li><li>❌ <span class=\"banca\">Um veículo que amassa facilmente na frente oferece menos proteção aos ocupantes que um veículo rígido</span><br>✅ <span class=\"certo\">a deformação programada <b>aumenta o tempo</b> da colisão e <b>reduz</b> a força sobre os ocupantes; o habitáculo é que deve ser rígido</span></li></ol></div>\n<h3>29. Peso, massa e carga dos veículos</h3>\n<ul><li><b>Peso bruto total (PBT)</b>: peso máximo que o veículo pode transmitir ao pavimento (veículo + carga), conforme o fabricante e a regulamentação. <b>Peso por eixo</b>: limite de carga em cada eixo, para proteger o pavimento e as pontes.</li><li><b>Balanças rodoviárias</b> medem a <b>força normal</b> de cada eixo sobre a plataforma e a convertem em massa (toneladas). Excesso de peso aumenta a distância de frenagem efetiva (freios mais solicitados), o risco de tombamento e o desgaste das rodovias.</li><li><b>Por que o excesso de carga piora a frenagem, se a massa se cancela em a = μ·g?</b> Porque o modelo ideal supõe freios capazes de aproveitar todo o atrito. Na prática, os freios têm capacidade limitada (força máxima e dissipação de calor); com mais massa, a desaceleração que eles conseguem impor diminui, e os pneus e a suspensão também trabalham fora das condições de projeto.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Excesso de peso e frenagem</b><p>Um caminhão projetado para 20 t está com 26 t. Seus freios conseguem aplicar, no máximo, 120.000 N. Compare as desacelerações máximas com carga correta e com excesso.</p><details><summary>Ver a solução comentada</summary><p>Com 20 t: a = 120.000/20.000 = <b>6 m/s²</b>. Com 26 t: a = 120.000/26.000 ≈ <b>4,6 m/s²</b>. A 20 m/s, a frenagem passa de 400/12 ≈ 33 m para 400/9,2 ≈ <b>43 m</b>: cerca de 30% mais longa, sem contar o aquecimento dos freios.</p></details></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reduzir força no impacto</span></span><span class=\"vs\"><span>Mais tempo de parada e mais área</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Capacete após impacto</span></span><span class=\"vs\"><span>Substituir (espuma já amassada)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Frenagem de moto</span></span><span class=\"vs\"><span>Maior parte no freio dianteiro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Balança rodoviária</span></span><span class=\"vs\"><span>Mede a normal por eixo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Excesso de carga</span></span><span class=\"vs\"><span>Freios com força limitada: desaceleração menor</span></span></button></div></div>\n<h3>30. Equilíbrio de um ponto material</h3>\n<ul><li><b>Condição</b>: um corpo (tratado como ponto) está em <b>equilíbrio</b> quando a <b>resultante das forças é nula</b>: ΣF_x = 0 e ΣF_y = 0. Pode estar em repouso (equilíbrio estático) ou em MRU (equilíbrio dinâmico).</li><li><b>Três forças em equilíbrio</b>: colocadas \"ponta com cauda\", formam um <b>triângulo fechado</b>. Se duas delas são perpendiculares, a terceira tem o módulo da hipotenusa (Pitágoras).</li><li><b>Semáforo ou placa suspensa por dois cabos</b>: as trações dos cabos somam-se vetorialmente para equilibrar o peso. Quanto <b>mais horizontais</b> os cabos (menor ângulo com a horizontal), <b>maiores</b> as trações. Um cabo perfeitamente esticado na horizontal não consegue sustentar peso nenhum (a tração tenderia ao infinito).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Placa suspensa</b><ol><li><span>Placa de 300 N presa por dois cabos simétricos, cada um formando 30° com a horizontal</span></li><li><span>Vertical: 2·T·sen 30° = 300 → 2·T·0,5 = 300</span></li><li><span>T = 300 N</span></li></ol><span class=\"res\">Cada cabo suporta 300 N (o mesmo que o peso inteiro da placa!)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Mesma placa, cabos a 60°</b><ol><li><span>2·T·sen 60° = 300 → 2·T·0,87 = 300</span></li><li><span>T ≈ 173 N</span></li></ol><span class=\"res\">Cabos mais inclinados (mais verticais) ficam menos tracionados</span></div>\n<ul><li><b>Veículo atolado puxado pelo meio de uma corda</b>: amarra-se uma corda bem esticada entre o carro e uma árvore e empurra-se o <b>meio</b> da corda lateralmente; com um ângulo pequeno, uma força lateral modesta gera <b>tração enorme</b> na corda (o mesmo princípio dos cabos quase horizontais).</li></ul>\n<h3>31. Momento de uma força (torque) e alavancas</h3>\n<ul><li><b>Momento (torque)</b>: capacidade de uma força de produzir <b>rotação</b> em torno de um ponto: <b>M = F·d</b>, em que d é o <b>braço</b> (distância perpendicular do ponto à linha da força). Unidade: N·m.</li><li><b>Chave de roda</b>: quanto <b>mais longo</b> o cabo, menor a força necessária para produzir o mesmo torque e soltar o parafuso. Com cabo de 40 cm, para torque de 120 N·m, basta 300 N; com cabo de 20 cm, seriam necessários 600 N.</li><li><b>Equilíbrio de um corpo extenso</b>: além da resultante nula, a <b>soma dos momentos</b> em relação a qualquer ponto deve ser nula. Isso explica alavancas, gangorras, balanças de braço e a distribuição de carga entre eixos.</li><li><b>Distribuição de carga nos eixos</b>: a carga colocada mais perto do eixo traseiro sobrecarrega esse eixo; o equilíbrio de momentos determina quanto cada eixo recebe. Excesso num único eixo pode ser infração mesmo que o peso total esteja dentro do limite.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Carga entre eixos</b><ol><li><span>Caminhão com entre-eixos de 5 m; carga de 10.000 N colocada a 1 m do eixo traseiro (despreze o peso do caminhão)</span></li><li><span>Momentos em torno do eixo traseiro: N_d·5 = 10.000·1 → N_d = 2.000 N</span></li><li><span>N_t = 10.000 − 2.000 = 8.000 N</span></li></ol><span class=\"res\">O eixo traseiro recebe 80% da carga</span></div>\n<ul><li><b>Tombamento</b> (retomando o movimento circular): um veículo tomba quando o momento das forças que o fazem girar em torno das rodas de um lado supera o momento do peso, que tende a \"assentá-lo\". Centro de massa mais alto aumenta o braço da força lateral e facilita o tombamento.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quanto mais horizontais estiverem os dois cabos que sustentam uma placa, menor será a tração em cada um</span><br>✅ <span class=\"certo\">quanto mais <b>horizontais</b>, <b>maior</b> a tração (o seno do ângulo fica pequeno)</span></li><li>❌ <span class=\"banca\">Usar uma chave de roda com cabo mais longo aumenta a força necessária para soltar o parafuso</span><br>✅ <span class=\"certo\">o torque é F·d: cabo <b>mais longo</b> exige <b>menos</b> força</span></li><li>❌ <span class=\"banca\">Para que um corpo extenso esteja em equilíbrio, basta que a resultante das forças seja nula</span><br>✅ <span class=\"certo\">também a <b>soma dos momentos</b> deve ser nula</span></li></ol></div>\n<h3>32. Síntese do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Lei</th><th>Enunciado curto</th><th>Aplicação típica</th></tr></thead><tbody><tr><td>1ª (inércia)</td><td>sem resultante, repouso ou MRU</td><td>cinto, encosto de cabeça, carga solta, passageiro em curva</td></tr><tr><td>2ª (fundamental)</td><td>F_R = m·a</td><td>aceleração e frenagem, força no cinto, plano inclinado, sistemas</td></tr><tr><td>3ª (ação e reação)</td><td>forças iguais e opostas em corpos diferentes</td><td>tração dos pneus, colisão carro x caminhão, foguete</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Força</th><th>Fórmula</th><th>Cuidado</th></tr></thead><tbody><tr><td>Peso</td><td>m·g</td><td>sempre vertical para baixo</td></tr><tr><td>Normal</td><td>varia</td><td>perpendicular à superfície; N = P só no caso simples</td></tr><tr><td>Atrito estático</td><td>≤ μe·N</td><td>ajusta-se à necessidade</td></tr><tr><td>Atrito cinético</td><td>μc·N</td><td>menor que o estático máximo</td></tr><tr><td>Elástica</td><td>k·x</td><td>proporcional à deformação</td></tr><tr><td>Componente do peso no plano</td><td>P·sen θ</td><td>e N = P·cos θ</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para não esquecer as forças do diagrama, use a sequência \"<b>P</b>ode <b>N</b>ão <b>A</b>tritar <b>T</b>anto\": <b>P</b>eso, <b>N</b>ormal, <b>A</b>trito, <b>T</b>ração (e, depois, as forças aplicadas).</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Equilíbrio</span></span><span class=\"vs\"><span>Resultante nula (e momentos nulos, se extenso)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cabos quase horizontais</span></span><span class=\"vs\"><span>Tração enorme</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Torque</span></span><span class=\"vs\"><span>M = F·d</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Chave de roda longa</span></span><span class=\"vs\"><span>Menos força</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Diagrama</span></span><span class=\"vs\"><span>Peso, Normal, Atrito, Tração</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Uma força resultante de 750 N atua sobre um veículo de 1.500 kg. A aceleração do veículo é de",
+"alts": [
+"2.250 m/s²",
+"0,5 m/s²",
+"1.125.000 m/s²",
+"2 m/s²",
+"5 m/s²"
+],
+"r": 1,
+"n": [
+"Somou as grandezas.",
+"Correta.",
+"Multiplicou em vez de dividir.",
+"Inverteu a razão (m/F).",
+"Erro de potência de 10."
+],
+"x": "Dados: F_R = 750 N; m = 1.500 kg >> Fórmula: F_R = m·a → a = F_R/m (2ª lei de Newton) >> Conta: a = 750/1.500 → a = 0,5 m/s² >> Resultado: 0,5 m/s²",
+"e": "2ª lei de Newton"
+},
+{
+"p": "Uma força resultante de 3.600 N, aplicada a um veículo de 1.200 kg, produz aceleração de 6 m/s².",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F_R = 3.600 N; m = 1.200 kg >> Fórmula: F_R = m·a → a = F_R/m (2ª lei de Newton) >> Conta: a = 3.600/1.200 → a = 3 m/s² >> Resultado: 3 m/s²",
+"e": "F = m·a"
+},
+{
+"p": "Uma força resultante de 2.000 N, aplicada a um veículo de 500 kg, produz aceleração de 8 m/s².",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F_R = 2.000 N; m = 500 kg >> Fórmula: F_R = m·a → a = F_R/m (2ª lei de Newton) >> Conta: a = 2.000/500 → a = 4 m/s² >> Resultado: 4 m/s²",
+"e": "F = m·a"
+},
+{
+"p": "Uma força resultante de 500 N atua sobre um veículo de 500 kg. A aceleração do veículo é de",
+"alts": [
+"10 m/s²",
+"1 m/s²",
+"0,5 m/s²",
+"1.000 m/s²",
+"250.000 m/s²"
+],
+"r": 1,
+"n": [
+"Erro de potência de 10.",
+"Correta.",
+"Não confere.",
+"Somou as grandezas.",
+"Multiplicou em vez de dividir."
+],
+"x": "Dados: F_R = 500 N; m = 500 kg >> Fórmula: F_R = m·a → a = F_R/m (2ª lei de Newton) >> Conta: a = 500/500 → a = 1 m/s² >> Resultado: 1 m/s²",
+"e": "2ª lei de Newton"
+},
+{
+"p": "Uma força resultante de 750 N, aplicada a um veículo de 500 kg, produz aceleração de 1,5 m/s².",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F_R = 750 N; m = 500 kg >> Fórmula: F_R = m·a → a = F_R/m (2ª lei de Newton) >> Conta: a = 750/500 → a = 1,5 m/s² >> Resultado: 1,5 m/s²",
+"e": "F = m·a"
+},
+{
+"p": "Uma força resultante de 250 N, aplicada a um veículo de 500 kg, produz aceleração de 0,5 m/s².",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F_R = 250 N; m = 500 kg >> Fórmula: F_R = m·a → a = F_R/m (2ª lei de Newton) >> Conta: a = 250/500 → a = 0,5 m/s² >> Resultado: 0,5 m/s²",
+"e": "F = m·a"
+},
+{
+"p": "Uma força resultante de 400 N atua sobre um veículo de 800 kg. A aceleração do veículo é de",
+"alts": [
+"320.000 m/s²",
+"1.200 m/s²",
+"5 m/s²",
+"0,5 m/s²",
+"2 m/s²"
+],
+"r": 3,
+"n": [
+"Multiplicou em vez de dividir.",
+"Somou as grandezas.",
+"Erro de potência de 10.",
+"Correta.",
+"Inverteu a razão (m/F)."
+],
+"x": "Dados: F_R = 400 N; m = 800 kg >> Fórmula: F_R = m·a → a = F_R/m (2ª lei de Newton) >> Conta: a = 400/800 → a = 0,5 m/s² >> Resultado: 0,5 m/s²",
+"e": "2ª lei de Newton"
+},
+{
+"p": "Para parar em 5 s um veículo de 200 kg que trafega a 90 km/h, com desaceleração constante, é necessária força resultante de 3.600 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 200 kg; v₀ = 90 km/h; v = 0; t = 5 s >> Converta: 90 km/h = 25 m/s >> Fórmula: a = Δv/Δt; F = m·a >> Conta: a = 25/5 = 5 m/s² → F = 200·5 = 1.000 N >> Resultado: 1.000 N, no sentido oposto ao da velocidade",
+"e": "F = m·Δv/Δt"
+},
+{
+"p": "Para parar em 5 s um veículo de 1.200 kg que trafega a 90 km/h, com desaceleração constante, é necessária força resultante de 6.000 N, oposta ao movimento.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.200 kg; v₀ = 90 km/h; v = 0; t = 5 s >> Converta: 90 km/h = 25 m/s >> Fórmula: a = Δv/Δt; F = m·a >> Conta: a = 25/5 = 5 m/s² → F = 1.200·5 = 6.000 N >> Resultado: 6.000 N, no sentido oposto ao da velocidade",
+"e": "F = m·Δv/Δt"
+},
+{
+"p": "Para parar em 4 s um veículo de 1.000 kg que trafega a 72 km/h, com desaceleração constante, é necessária força resultante de 18.000 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.000 kg; v₀ = 72 km/h; v = 0; t = 4 s >> Converta: 72 km/h = 20 m/s >> Fórmula: a = Δv/Δt; F = m·a >> Conta: a = 20/4 = 5 m/s² → F = 1.000·5 = 5.000 N >> Resultado: 5.000 N, no sentido oposto ao da velocidade",
+"e": "F = m·Δv/Δt"
+},
+{
+"p": "Para parar em 4 s um veículo de 800 kg que trafega a 72 km/h, com desaceleração constante, é necessária força resultante de 14.400 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 800 kg; v₀ = 72 km/h; v = 0; t = 4 s >> Converta: 72 km/h = 20 m/s >> Fórmula: a = Δv/Δt; F = m·a >> Conta: a = 20/4 = 5 m/s² → F = 800·5 = 4.000 N >> Resultado: 4.000 N, no sentido oposto ao da velocidade",
+"e": "F = m·Δv/Δt"
+},
+{
+"p": "Para parar em 10 s um veículo de 1.200 kg que trafega a 126 km/h, com desaceleração constante, é necessária força resultante de 4.200 N, oposta ao movimento.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.200 kg; v₀ = 126 km/h; v = 0; t = 10 s >> Converta: 126 km/h = 35 m/s >> Fórmula: a = Δv/Δt; F = m·a >> Conta: a = 35/10 = 3,5 m/s² → F = 1.200·3,5 = 4.200 N >> Resultado: 4.200 N, no sentido oposto ao da velocidade",
+"e": "F = m·Δv/Δt"
+},
+{
+"p": "Um corpo de massa 2.500 kg tem peso de 25.000 N na superfície da Terra (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: massa (kg) mede a inércia; peso é força (N) >> Fórmula: P = m·g >> Conta: P = 2.500·10 → P = 25.000 N >> Resultado: 25.000 N",
+"e": "P = m·g"
+},
+{
+"p": "Um corpo de massa 15.000 kg tem peso de 150.000 N na superfície da Terra (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: massa (kg) mede a inércia; peso é força (N) >> Fórmula: P = m·g >> Conta: P = 15.000·10 → P = 150.000 N >> Resultado: 150.000 N",
+"e": "P = m·g"
+},
+{
+"p": "Um corpo de massa 60 kg tem peso de 60 N na superfície da Terra (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: massa (kg) mede a inércia; peso é força (N) >> Fórmula: P = m·g >> Conta: P = 60·10 → P = 600 N >> Resultado: 600 N",
+"e": "P = m·g"
+},
+{
+"p": "Um corpo de massa 80 kg tem peso de 800 N na superfície da Terra (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: massa (kg) mede a inércia; peso é força (N) >> Fórmula: P = m·g >> Conta: P = 80·10 → P = 800 N >> Resultado: 800 N",
+"e": "P = m·g"
+},
+{
+"p": "Sobre um veículo de 2.000 kg atuam força motriz de 3.600 N e resistências que somam 1.200 N. Sua aceleração é de 1,2 m/s².",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F_motriz = 3.600 N; resistências = 1.200 N; m = 2.000 kg >> Ideia: a aceleração vem da RESULTANTE, não só da força motriz >> Conta: F_R = 3.600 − 1.200 = 2.400 N → a = 2.400/2.000 = 1,2 m/s² >> Atenção: usar só a força motriz daria 1,8 m/s² >> Resultado: 1,2 m/s²",
+"e": "Resultante, não força motriz"
+},
+{
+"p": "Sobre um veículo de 1.000 kg atuam força motriz de 3.000 N e resistências que somam 600 N. Sua aceleração é de 3 m/s².",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F_motriz = 3.000 N; resistências = 600 N; m = 1.000 kg >> Ideia: a aceleração vem da RESULTANTE, não só da força motriz >> Conta: F_R = 3.000 − 600 = 2.400 N → a = 2.400/1.000 = 2,4 m/s² >> Atenção: usar só a força motriz daria 3 m/s² >> Resultado: 2,4 m/s²",
+"e": "Resultante, não força motriz"
+},
+{
+"p": "Um armário de 50 kg, sobre piso com coeficiente de atrito estático 0,4, é empurrado horizontalmente com 100 N e permanece em repouso. Nessa situação, a força de atrito sobre ele vale 200 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 50 kg; μe = 0,4; F = 100 N >> Conta: N = P = 500 N → atrito máximo = 0,4·500 = 200 N → 100 N < 200 N: não desliza >> Ideia: o atrito estático se ajusta e vale o necessário para o equilíbrio >> Resultado: atrito = 100 N (200 N é só o valor máximo)",
+"e": "Atrito estático se ajusta"
+},
+{
+"p": "Um armário de 80 kg, sobre piso com coeficiente de atrito estático 0,6, é empurrado horizontalmente com 360 N e permanece em repouso. Nessa situação, a força de atrito sobre ele vale 360 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 80 kg; μe = 0,6; F = 360 N >> Conta: N = P = 800 N → atrito máximo = 0,6·800 = 480 N → 360 N < 480 N: não desliza >> Ideia: o atrito estático se ajusta e vale o necessário para o equilíbrio >> Resultado: atrito = 360 N (480 N é só o valor máximo)",
+"e": "Atrito estático se ajusta"
+},
+{
+"p": "Um armário de 40 kg, sobre piso com coeficiente de atrito estático 0,6, é empurrado horizontalmente com 192 N e permanece em repouso. Nessa situação, a força de atrito sobre ele vale 240 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 40 kg; μe = 0,6; F = 192 N >> Conta: N = P = 400 N → atrito máximo = 0,6·400 = 240 N → 192 N < 240 N: não desliza >> Ideia: o atrito estático se ajusta e vale o necessário para o equilíbrio >> Resultado: atrito = 192 N (240 N é só o valor máximo)",
+"e": "Atrito estático se ajusta"
+},
+{
+"p": "Um armário de 100 kg, sobre piso com coeficiente de atrito estático 0,6, é empurrado horizontalmente com 300 N e permanece em repouso. Nessa situação, a força de atrito sobre ele vale 600 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 100 kg; μe = 0,6; F = 300 N >> Conta: N = P = 1000 N → atrito máximo = 0,6·1000 = 600 N → 300 N < 600 N: não desliza >> Ideia: o atrito estático se ajusta e vale o necessário para o equilíbrio >> Resultado: atrito = 300 N (600 N é só o valor máximo)",
+"e": "Atrito estático se ajusta"
+},
+{
+"p": "Um armário de 50 kg, sobre piso com coeficiente de atrito estático 0,5, é empurrado horizontalmente com 125 N e permanece em repouso. Nessa situação, a força de atrito sobre ele vale 125 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 50 kg; μe = 0,5; F = 125 N >> Conta: N = P = 500 N → atrito máximo = 0,5·500 = 250 N → 125 N < 250 N: não desliza >> Ideia: o atrito estático se ajusta e vale o necessário para o equilíbrio >> Resultado: atrito = 125 N (250 N é só o valor máximo)",
+"e": "Atrito estático se ajusta"
+},
+{
+"p": "Um armário de 80 kg, sobre piso com coeficiente de atrito estático 0,5, é empurrado horizontalmente com 320 N e permanece em repouso. Nessa situação, a força de atrito sobre ele vale 320 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 80 kg; μe = 0,5; F = 320 N >> Conta: N = P = 800 N → atrito máximo = 0,5·800 = 400 N → 320 N < 400 N: não desliza >> Ideia: o atrito estático se ajusta e vale o necessário para o equilíbrio >> Resultado: atrito = 320 N (400 N é só o valor máximo)",
+"e": "Atrito estático se ajusta"
+},
+{
+"p": "Uma caixa de 50 kg desliza sobre o piso (μc = 0,2) puxada horizontalmente por uma força de 400 N. Sua aceleração é de 8 m/s² (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 50 kg; μc = 0,2; F = 400 N >> Fórmula: Fat = μc·N; F_R = F − Fat = m·a >> Conta: N = 500 N → Fat = 100 N → F_R = 400 − 100 = 300 N → a = 300/50 = 6 m/s² >> Resultado: 6 m/s²",
+"e": "Atrito cinético"
+},
+{
+"p": "Uma caixa de 50 kg desliza sobre o piso (μc = 0,2) puxada horizontalmente por uma força de 400 N. Sua aceleração é de 6 m/s² (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 50 kg; μc = 0,2; F = 400 N >> Fórmula: Fat = μc·N; F_R = F − Fat = m·a >> Conta: N = 500 N → Fat = 100 N → F_R = 400 − 100 = 300 N → a = 300/50 = 6 m/s² >> Resultado: 6 m/s²",
+"e": "Atrito cinético"
+},
+{
+"p": "Uma caixa de 100 kg desliza sobre o piso (μc = 0,3) puxada horizontalmente por uma força de 400 N. Sua aceleração é de 1 m/s² (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 100 kg; μc = 0,3; F = 400 N >> Fórmula: Fat = μc·N; F_R = F − Fat = m·a >> Conta: N = 1000 N → Fat = 300 N → F_R = 400 − 300 = 100 N → a = 100/100 = 1 m/s² >> Resultado: 1 m/s²",
+"e": "Atrito cinético"
+},
+{
+"p": "Com coeficiente de atrito 0,5 entre pneus e pista (g = 10 m/s²), a menor distância para frear até parar um veículo a 90 km/h é de 62,5 m para um carro e maior para um caminhão de mesmo coeficiente, por causa da massa.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: μ = 0,5; v = 90 km/h = 25 m/s >> Ideia: o atrito máximo (μ·m·g) é a força de frenagem; a = μ·m·g/m = μ·g (a massa se cancela) >> Conta: a = 0,5·10 = 5 m/s² → d = 25²/(2·5) = 62,5 m >> Resultado: 62,5 m",
+"e": "a_máx = μ·g"
+},
+{
+"p": "Com coeficiente de atrito 0,5 entre pneus e pista (g = 10 m/s²), a menor distância para frear até parar um veículo a 108 km/h é de 90 m para um carro e maior para um caminhão de mesmo coeficiente, por causa da massa.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: μ = 0,5; v = 108 km/h = 30 m/s >> Ideia: o atrito máximo (μ·m·g) é a força de frenagem; a = μ·m·g/m = μ·g (a massa se cancela) >> Conta: a = 0,5·10 = 5 m/s² → d = 30²/(2·5) = 90 m >> Resultado: 90 m",
+"e": "a_máx = μ·g"
+},
+{
+"p": "Um bloco de 10 kg desliza sem atrito por um plano inclinado de 30° (sen 30° ≈ 0,5; g = 10 m/s²). Sua aceleração é de 10 m/s², pois depende de sua massa.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: sem atrito, a resultante é a componente do peso ao longo do plano, P·sen θ >> Fórmula: m·g·sen θ = m·a → a = g·sen θ (a massa se cancela) >> Conta: a = 10·0,5 → a = 5 m/s² >> Resultado: 5 m/s²",
+"e": "a = g·sen θ"
+},
+{
+"p": "Um bloco desliza sem atrito por um plano inclinado de 37° com a horizontal (sen 37° ≈ 0,6; g = 10 m/s²). Sua aceleração é de 6 m/s², qualquer que seja sua massa.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: sem atrito, a resultante é a componente do peso ao longo do plano, P·sen θ >> Fórmula: m·g·sen θ = m·a → a = g·sen θ (a massa se cancela) >> Conta: a = 10·0,6 → a = 6 m/s² >> Resultado: 6 m/s²",
+"e": "a = g·sen θ"
+},
+{
+"p": "Um bloco de 2 kg apoiado num plano inclinado de 53° (cos 53° ≈ 0,6; g = 10 m/s²) recebe do plano força normal de 12 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 2 kg; θ = 53° >> Ideia: perpendicularmente ao plano não há movimento; a normal equilibra a componente P·cos θ >> Fórmula: N = m·g·cos θ >> Conta: N = 2·10·0,6 → N = 12 N >> Atenção: a normal só seria igual ao peso num plano horizontal >> Resultado: 12 N",
+"e": "N = P·cos θ"
+},
+{
+"p": "Um bloco de 5 kg desliza sem atrito por um plano inclinado de 30° (sen 30° ≈ 0,5; g = 10 m/s²). Sua aceleração é de 5 m/s², pois depende de sua massa.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: sem atrito, a resultante é a componente do peso ao longo do plano, P·sen θ >> Fórmula: m·g·sen θ = m·a → a = g·sen θ (a massa se cancela) >> Conta: a = 10·0,5 → a = 5 m/s² >> Resultado: 5 m/s²",
+"e": "a = g·sen θ"
+},
+{
+"p": "Um bloco de 5 kg desliza sem atrito por um plano inclinado de 37° (sen 37° ≈ 0,6; g = 10 m/s²). Sua aceleração é de 6 m/s², pois depende de sua massa.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: sem atrito, a resultante é a componente do peso ao longo do plano, P·sen θ >> Fórmula: m·g·sen θ = m·a → a = g·sen θ (a massa se cancela) >> Conta: a = 10·0,6 → a = 6 m/s² >> Resultado: 6 m/s²",
+"e": "a = g·sen θ"
+},
+{
+"p": "Um bloco de 5 kg apoiado num plano inclinado de 53° (cos 53° ≈ 0,6; g = 10 m/s²) recebe do plano força normal igual a seu peso, 50 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 5 kg; θ = 53° >> Ideia: perpendicularmente ao plano não há movimento; a normal equilibra a componente P·cos θ >> Fórmula: N = m·g·cos θ >> Conta: N = 5·10·0,6 → N = 30 N >> Atenção: a normal só seria igual ao peso num plano horizontal >> Resultado: 30 N",
+"e": "N = P·cos θ"
+},
+{
+"p": "Um bloco desce um plano inclinado de 37° (sen ≈ 0,6; cos ≈ 0,8) com coeficiente de atrito cinético 0,5. Sua aceleração é de 6 m/s² (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: θ = 37°; μc = 0,5 >> Ideia: ao longo do plano, P·sen θ puxa para baixo e o atrito (μ·P·cos θ) segura >> Fórmula: a = g·(sen θ − μ·cos θ) >> Conta: a = 10·(0,6 − 0,5·0,8) → a = 10·0,2 → a = 2 m/s² >> Resultado: 2 m/s²",
+"e": "Plano com atrito"
+},
+{
+"p": "Um bloco desce um plano inclinado de 37° (sen ≈ 0,6; cos ≈ 0,8) com coeficiente de atrito cinético 0,25. Sua aceleração é de 4 m/s² (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: θ = 37°; μc = 0,25 >> Ideia: ao longo do plano, P·sen θ puxa para baixo e o atrito (μ·P·cos θ) segura >> Fórmula: a = g·(sen θ − μ·cos θ) >> Conta: a = 10·(0,6 − 0,25·0,8) → a = 10·0,4 → a = 4 m/s² >> Resultado: 4 m/s²",
+"e": "Plano com atrito"
+},
+{
+"p": "Um bloco desce um plano inclinado de 53° (sen ≈ 0,8; cos ≈ 0,6) com coeficiente de atrito cinético 0,5. Sua aceleração é de 8 m/s² (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: θ = 53°; μc = 0,5 >> Ideia: ao longo do plano, P·sen θ puxa para baixo e o atrito (μ·P·cos θ) segura >> Fórmula: a = g·(sen θ − μ·cos θ) >> Conta: a = 10·(0,8 − 0,5·0,6) → a = 10·0,5 → a = 5 m/s² >> Resultado: 5 m/s²",
+"e": "Plano com atrito"
+},
+{
+"p": "Um bloco desce um plano inclinado de 30° (sen ≈ 0,5; cos ≈ 0,87) com coeficiente de atrito cinético 0,2. Sua aceleração é de 3,26 m/s² (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: θ = 30°; μc = 0,2 >> Ideia: ao longo do plano, P·sen θ puxa para baixo e o atrito (μ·P·cos θ) segura >> Fórmula: a = g·(sen θ − μ·cos θ) >> Conta: a = 10·(0,5 − 0,2·0,87) → a = 10·0,326 → a = 3,26 m/s² >> Resultado: 3,26 m/s²",
+"e": "Plano com atrito"
+},
+{
+"p": "Um carro freado num aclive de 37° (tg 37° ≈ 0,75), com coeficiente de atrito estático 0,8, permanece em repouso.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o corpo fica parado se o atrito máximo (μ·P·cos θ) consegue equilibrar P·sen θ >> Fórmula: condição de repouso: tg θ ≤ μe >> Conta: tg θ ≈ 0,75 e μe = 0,8 → 0,75 ≤ 0,8 >> Resultado: permanece em repouso",
+"e": "Repouso: tg θ ≤ μ"
+},
+{
+"p": "Um carro freado num aclive de 37° (tg 37° ≈ 0,75), com coeficiente de atrito estático 0,6, permanece em repouso.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o corpo fica parado se o atrito máximo (μ·P·cos θ) consegue equilibrar P·sen θ >> Fórmula: condição de repouso: tg θ ≤ μe >> Conta: tg θ ≈ 0,75 e μe = 0,6 → 0,75 > 0,6 >> Resultado: escorrega, mesmo freado",
+"e": "Repouso: tg θ ≤ μ"
+},
+{
+"p": "Um carro freado num aclive de 30° (tg 30° ≈ 0,57), com coeficiente de atrito estático 0,4, permanece em repouso.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o corpo fica parado se o atrito máximo (μ·P·cos θ) consegue equilibrar P·sen θ >> Fórmula: condição de repouso: tg θ ≤ μe >> Conta: tg θ ≈ 0,57 e μe = 0,4 → 0,57 > 0,4 >> Resultado: escorrega, mesmo freado",
+"e": "Repouso: tg θ ≤ μ"
+},
+{
+"p": "Um carro freado num aclive de 45° (tg 45° ≈ 1), com coeficiente de atrito estático 0,9, permanece em repouso.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o corpo fica parado se o atrito máximo (μ·P·cos θ) consegue equilibrar P·sen θ >> Fórmula: condição de repouso: tg θ ≤ μe >> Conta: tg θ ≈ 1 e μe = 0,9 → 1 > 0,9 >> Resultado: escorrega, mesmo freado",
+"e": "Repouso: tg θ ≤ μ"
+},
+{
+"p": "Uma força horizontal de 120 N empurra um bloco A de 4 kg, que empurra um bloco B de 2 kg, sobre superfície sem atrito. A força que A exerce sobre B vale 120 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 120 N; m_A = 4 kg; m_B = 2 kg >> Ideia: os blocos andam juntos: primeiro o sistema inteiro, depois isola-se B >> Conta: a = 120/(4+2) = 20 m/s² → força sobre B = m_B·a = 2·20 = 40 N >> Atenção: a força de contato é menor que F, pois só acelera B >> Resultado: 40 N",
+"e": "Blocos em contato"
+},
+{
+"p": "Uma força horizontal de 60 N empurra um bloco A de 5 kg, que empurra um bloco B de 1 kg, sobre superfície sem atrito. A força que A exerce sobre B vale 10 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F = 60 N; m_A = 5 kg; m_B = 1 kg >> Ideia: os blocos andam juntos: primeiro o sistema inteiro, depois isola-se B >> Conta: a = 60/(5+1) = 10 m/s² → força sobre B = m_B·a = 1·10 = 10 N >> Atenção: a força de contato é menor que F, pois só acelera B >> Resultado: 10 N",
+"e": "Blocos em contato"
+},
+{
+"p": "Uma força horizontal de 30 N empurra um bloco A de 5 kg, que empurra um bloco B de 1 kg, sobre superfície sem atrito. A força que A exerce sobre B vale 30 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 30 N; m_A = 5 kg; m_B = 1 kg >> Ideia: os blocos andam juntos: primeiro o sistema inteiro, depois isola-se B >> Conta: a = 30/(5+1) = 5 m/s² → força sobre B = m_B·a = 1·5 = 5 N >> Atenção: a força de contato é menor que F, pois só acelera B >> Resultado: 5 N",
+"e": "Blocos em contato"
+},
+{
+"p": "Um bloco A de 6 kg, sobre mesa horizontal sem atrito, está ligado por fio ideal, que passa por uma polia, a um bloco B de 2 kg pendurado. A aceleração do sistema é de 2,5 m/s² e a tração no fio, de 15 N (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m_A = 6 kg; m_B = 2 kg >> Ideia: a força externa que move o conjunto é o peso de B >> Conta: a = 20/(6+2) = 2,5 m/s² → isolando A: T = m_A·a = 6·2,5 = 15 N >> Confere: em B, P − T = 20 − 15 = 2·2,5 ✓ >> Resultado: a = 2,5 m/s²; T = 15 N (menor que o peso de B)",
+"e": "Bloco e polia"
+},
+{
+"p": "Um bloco A de 8 kg, sobre mesa horizontal sem atrito, está ligado por fio ideal, que passa por uma polia, a um bloco B de 2 kg pendurado. A aceleração do sistema é de 2 m/s² e a tração no fio, de 16 N (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m_A = 8 kg; m_B = 2 kg >> Ideia: a força externa que move o conjunto é o peso de B >> Conta: a = 20/(8+2) = 2 m/s² → isolando A: T = m_A·a = 8·2 = 16 N >> Confere: em B, P − T = 20 − 16 = 2·2 ✓ >> Resultado: a = 2 m/s²; T = 16 N (menor que o peso de B)",
+"e": "Bloco e polia"
+},
+{
+"p": "Um bloco A de 3 kg, sobre mesa horizontal sem atrito, está ligado por fio ideal, que passa por uma polia, a um bloco B de 2 kg pendurado. A aceleração do sistema é de 4 m/s² e a tração no fio, de 12 N (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m_A = 3 kg; m_B = 2 kg >> Ideia: a força externa que move o conjunto é o peso de B >> Conta: a = 20/(3+2) = 4 m/s² → isolando A: T = m_A·a = 3·4 = 12 N >> Confere: em B, P − T = 20 − 12 = 2·4 ✓ >> Resultado: a = 4 m/s²; T = 12 N (menor que o peso de B)",
+"e": "Bloco e polia"
+},
+{
+"p": "Um bloco A de 4 kg, sobre mesa horizontal sem atrito, está ligado por fio ideal, que passa por uma polia, a um bloco B de 4 kg pendurado. A aceleração do sistema é de 5 m/s² e a tração no fio, de 20 N (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m_A = 4 kg; m_B = 4 kg >> Ideia: a força externa que move o conjunto é o peso de B >> Conta: a = 40/(4+4) = 5 m/s² → isolando A: T = m_A·a = 4·5 = 20 N >> Confere: em B, P − T = 40 − 20 = 4·5 ✓ >> Resultado: a = 5 m/s²; T = 20 N (menor que o peso de B)",
+"e": "Bloco e polia"
+},
+{
+"p": "Uma pessoa de 70 kg está sobre uma balança num elevador que sobe acelerando com aceleração de módulo 2 m/s². A balança registra força de 840 N (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a balança mede a normal; o que importa é o sentido da ACELERAÇÃO >> Ideia: aceleração para cima >> Fórmula: N − P = m·a (eixo para cima) → N = m·(g + a) >> Conta: N = 70·(10 + 2) → N = 840 N >> Resultado: 840 N",
+"e": "Peso aparente"
+},
+{
+"p": "Uma pessoa de 60 kg está sobre uma balança num elevador que desce freando com aceleração de módulo 1,5 m/s². A balança registra força de 510 N (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a balança mede a normal; o que importa é o sentido da ACELERAÇÃO >> Ideia: aceleração para cima >> Fórmula: N − P = m·a (eixo para cima) → N = m·(g + a) >> Conta: N = 60·(10 + 1,5) → N = 690 N >> Resultado: 690 N",
+"e": "Peso aparente"
+},
+{
+"p": "Uma pessoa de 80 kg está sobre uma balança num elevador que desce acelerando com aceleração de módulo 2 m/s². A balança registra força de 640 N (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a balança mede a normal; o que importa é o sentido da ACELERAÇÃO >> Ideia: aceleração para baixo >> Fórmula: N − P = m·a (eixo para cima) → N = m·(g + a) >> Conta: N = 80·(10 − 2) → N = 640 N >> Resultado: 640 N",
+"e": "Peso aparente"
+},
+{
+"p": "Uma pessoa de 50 kg está sobre uma balança num elevador que sobe freando com aceleração de módulo 2 m/s². A balança registra força de 600 N (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a balança mede a normal; o que importa é o sentido da ACELERAÇÃO >> Ideia: aceleração para baixo >> Fórmula: N − P = m·a (eixo para cima) → N = m·(g + a) >> Conta: N = 50·(10 − 2) → N = 400 N >> Resultado: 400 N",
+"e": "Peso aparente"
+},
+{
+"p": "Uma pessoa de 90 kg está sobre uma balança num elevador que sobe com velocidade constante. A balança registra força de 1.000 N (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a balança mede a normal; o que importa é o sentido da ACELERAÇÃO >> Ideia: velocidade constante → aceleração nula >> Fórmula: N − P = m·a (eixo para cima) → N = m·(g + a) >> Conta: N = 90·(10 − 0) → N = 900 N >> Resultado: 900 N",
+"e": "Peso aparente"
+},
+{
+"p": "Uma pessoa de 75 kg está sobre uma balança num elevador que desce com velocidade constante. A balança registra força de 750 N (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a balança mede a normal; o que importa é o sentido da ACELERAÇÃO >> Ideia: velocidade constante → aceleração nula >> Fórmula: N − P = m·a (eixo para cima) → N = m·(g + a) >> Conta: N = 75·(10 − 0) → N = 750 N >> Resultado: 750 N",
+"e": "Peso aparente"
+},
+{
+"p": "Uma mola de constante elástica 500 N/m, submetida a uma força de 50 N, sofre deformação de 100 cm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: k = 500 N/m; F = 50 N >> Fórmula: F = k·x (Lei de Hooke) → x = F/k >> Conta: x = 50/500 = 0,1 m → x = 10 cm >> Resultado: 10 cm",
+"e": "Lei de Hooke"
+},
+{
+"p": "Uma mola de constante elástica 40.000 N/m, submetida a uma força de 2.000 N, sofre deformação de 50 cm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: k = 40.000 N/m; F = 2.000 N >> Fórmula: F = k·x (Lei de Hooke) → x = F/k >> Conta: x = 2.000/40.000 = 0,05 m → x = 5 cm >> Resultado: 5 cm",
+"e": "Lei de Hooke"
+},
+{
+"p": "Uma mola de constante elástica 200 N/m, submetida a uma força de 30 N, sofre deformação de 150 cm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: k = 200 N/m; F = 30 N >> Fórmula: F = k·x (Lei de Hooke) → x = F/k >> Conta: x = 30/200 = 0,15 m → x = 15 cm >> Resultado: 15 cm",
+"e": "Lei de Hooke"
+},
+{
+"p": "Uma mola de constante elástica 1.000 N/m, submetida a uma força de 150 N, sofre deformação de 15 cm.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: k = 1.000 N/m; F = 150 N >> Fórmula: F = k·x (Lei de Hooke) → x = F/k >> Conta: x = 150/1.000 = 0,15 m → x = 15 cm >> Resultado: 15 cm",
+"e": "Lei de Hooke"
+},
+{
+"p": "Uma caixa solta na carroceria de um caminhão (μe = 0,4 entre caixa e carroceria) escorrega se o caminhão frear com desaceleração de 5 m/s² (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a caixa só é freada pelo atrito; a maior desaceleração que o atrito consegue lhe dar é μe·g >> Conta: a_máx = 0,4·10 = 4 m/s² → frenagem de 5 m/s² > 4 m/s² >> Resultado: escorrega (precisa de amarração)",
+"e": "Carga: a_máx = μg"
+},
+{
+"p": "Uma caixa solta na carroceria de um caminhão (μe = 0,5 entre caixa e carroceria) escorrega se o caminhão frear com desaceleração de 4 m/s² (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a caixa só é freada pelo atrito; a maior desaceleração que o atrito consegue lhe dar é μe·g >> Conta: a_máx = 0,5·10 = 5 m/s² → frenagem de 4 m/s² ≤ 5 m/s² >> Resultado: não escorrega",
+"e": "Carga: a_máx = μg"
+},
+{
+"p": "Uma caixa solta na carroceria de um caminhão (μe = 0,3 entre caixa e carroceria) escorrega se o caminhão frear com desaceleração de 2 m/s² (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a caixa só é freada pelo atrito; a maior desaceleração que o atrito consegue lhe dar é μe·g >> Conta: a_máx = 0,3·10 = 3 m/s² → frenagem de 2 m/s² ≤ 3 m/s² >> Resultado: não escorrega",
+"e": "Carga: a_máx = μg"
+},
+{
+"p": "Uma caixa solta na carroceria de um caminhão (μe = 0,6 entre caixa e carroceria) escorrega se o caminhão frear com desaceleração de 7 m/s² (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a caixa só é freada pelo atrito; a maior desaceleração que o atrito consegue lhe dar é μe·g >> Conta: a_máx = 0,6·10 = 6 m/s² → frenagem de 7 m/s² > 6 m/s² >> Resultado: escorrega (precisa de amarração)",
+"e": "Carga: a_máx = μg"
+},
+{
+"p": "Numa colisão, um carro de 1.000 kg e um caminhão de 10.000 kg trocam forças. A força sobre o carro é 10 vezes maior que a força sobre o caminhão.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: pela 3ª lei, as forças trocadas têm a MESMA intensidade >> Fórmula: a = F/m (2ª lei) >> Conta: carro: 200.000/1.000 = 200 m/s² → caminhão: 200.000/10.000 = 20 m/s² → razão = 10 >> Resultado: forças iguais; aceleração do carro 10 vezes maior",
+"e": "Ação e reação + 2ª lei"
+},
+{
+"p": "Numa colisão, um carro de 1.200 kg e um caminhão de 12.000 kg trocam força média de 120.000 N. A aceleração média do carro é 10 vezes maior que a do caminhão.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: pela 3ª lei, as forças trocadas têm a MESMA intensidade >> Fórmula: a = F/m (2ª lei) >> Conta: carro: 120.000/1.200 = 100 m/s² → caminhão: 120.000/12.000 = 10 m/s² → razão = 10 >> Resultado: forças iguais; aceleração do carro 10 vezes maior",
+"e": "Ação e reação + 2ª lei"
+},
+{
+"p": "Numa colisão, um carro de 800 kg e um caminhão de 16.000 kg trocam forças. A força sobre o carro é 20 vezes maior que a força sobre o caminhão.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: pela 3ª lei, as forças trocadas têm a MESMA intensidade >> Fórmula: a = F/m (2ª lei) >> Conta: carro: 160.000/800 = 200 m/s² → caminhão: 160.000/16.000 = 10 m/s² → razão = 20 >> Resultado: forças iguais; aceleração do carro 20 vezes maior",
+"e": "Ação e reação + 2ª lei"
+},
+{
+"p": "Um automóvel que se desloca em linha reta com velocidade constante de 100 km/h está submetido a uma força resultante nula.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: velocidade constante em linha reta é MRU >> Ideia: pela 1ª lei, MRU e repouso ocorrem com resultante nula; a força motriz é equilibrada pelas resistências >> Resultado: certo",
+"e": "MRU: resultante nula"
+},
+{
+"p": "Para que um veículo se mantenha em movimento retilíneo uniforme, é necessária uma força resultante no sentido do movimento.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: essa é a ideia aristotélica, superada pela 1ª lei de Newton >> Ideia: o motor só precisa equilibrar as resistências; a resultante é zero >> Resultado: errado",
+"e": "Não é preciso força para manter o movimento"
+},
+{
+"p": "O encosto de cabeça dos bancos reduz lesões no pescoço em colisões traseiras, porque, quando o carro é empurrado para a frente, a cabeça do ocupante tende, por inércia, a permanecer onde estava.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: na colisão traseira, o carro e o banco aceleram para a frente; a cabeça, sem apoio, \"fica para trás\" (efeito chicote) >> Ideia: o encosto aplica à cabeça a força que a acelera junto com o corpo >> Resultado: certo",
+"e": "Encosto de cabeça e inércia"
+},
+{
+"p": "A força normal exercida por uma mesa sobre um livro em repouso é a reação ao peso do livro.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o par do peso (Terra puxa o livro) é o livro puxando a Terra >> Ideia: o par da normal (mesa empurra o livro) é o livro comprimindo a mesa >> Resultado: peso e normal atuam no mesmo corpo e não formam par",
+"e": "Peso e normal não são par"
+},
+{
+"p": "A força que acelera um automóvel para a frente é exercida pelo chão sobre os pneus motrizes, como reação ao empurrão que os pneus aplicam ao chão.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o motor gira as rodas; o pneu empurra o chão para trás (atrito) >> Ideia: pela 3ª lei, o chão empurra o pneu para a frente; essa é a força externa sobre o carro >> Resultado: certo",
+"e": "Atrito do chão acelera o carro"
+},
+{
+"p": "Um corpo de massa maior sempre sofre maior aceleração quando submetido à mesma força.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: a = F/m >> Ideia: para a mesma força, a aceleração é inversamente proporcional à massa >> Resultado: massa maior → aceleração menor",
+"e": "a = F/m"
+},
+{
+"p": "A aceleração de um corpo tem sempre a mesma direção e o mesmo sentido da força resultante que atua sobre ele, ainda que tenha sentido oposto ao da velocidade.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: F_R = m·a (vetorial) >> Ideia: na frenagem, resultante e aceleração apontam para trás, e a velocidade para a frente >> Resultado: certo",
+"e": "a tem o sentido de F_R"
+},
+{
+"p": "A massa de um corpo é medida em newtons e varia conforme o local em que ele se encontra.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: massa é medida em kg e não muda de lugar para lugar >> Ideia: o peso (P = m·g) é que se mede em newtons e varia com g >> Resultado: errado",
+"e": "Massa x peso"
+},
+{
+"p": "O atrito estático máximo entre duas superfícies é, em geral, maior que o atrito cinético entre elas.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: é mais difícil iniciar o deslizamento do que mantê-lo >> Fórmula: μe > μc, em geral >> Resultado: certo; por isso o ABS evita o travamento",
+"e": "μe > μc"
+},
+{
+"p": "No modelo usual de atrito, dobrar a área de contato entre um bloco e o piso dobra a força de atrito máxima.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Fat_máx = μe·N >> Ideia: a fórmula não contém a área; depende do coeficiente e da normal >> Resultado: errado",
+"e": "Atrito não depende da área"
+},
+{
+"p": "Com as rodas travadas, o veículo perde a dirigibilidade e passa a ser freado pelo atrito cinético, menor que o estático máximo.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: roda travada desliza sobre a pista: atrito cinético >> Ideia: pneus dianteiros que não giram não conseguem mudar a direção do carro >> Resultado: certo",
+"e": "Rodas travadas"
+},
+{
+"p": "O ABS tem como finalidade principal travar rapidamente as rodas, para encurtar a frenagem.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o ABS faz o contrário: evita o travamento, aliviando e reaplicando a pressão do freio >> Resultado: errado; mantém o atrito estático e a dirigibilidade",
+"e": "ABS evita travar"
+},
+{
+"p": "A aquaplanagem ocorre quando uma lâmina de água impede o contato direto entre o pneu e a pista, reduzindo drasticamente o atrito.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: os sulcos do pneu não conseguem escoar toda a água >> Ideia: o pneu \"flutua\", e a força de atrito disponível praticamente desaparece >> Resultado: certo",
+"e": "Aquaplanagem"
+},
+{
+"p": "Num plano inclinado, a força normal sobre um corpo apoiado é igual ao seu peso.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: perpendicularmente ao plano, N = P·cos θ >> Ideia: só em superfície horizontal (θ = 0) N = P >> Resultado: no plano inclinado, N < P",
+"e": "N = P·cos θ"
+},
+{
+"p": "Um elevador que desce e está freando tem aceleração dirigida para cima, e a balança, em seu interior, indica valor maior que o peso da pessoa.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: freando na descida, a velocidade (para baixo) diminui: a aceleração aponta para cima >> Fórmula: N = m·(g + a) >> Resultado: certo",
+"e": "Peso aparente maior"
+},
+{
+"p": "Durante a subida de uma bola lançada para cima, atuam sobre ela o peso e uma força para cima que a mantém subindo.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: depois que a bola deixa a mão, só o peso (e o ar) atua >> Ideia: ela sobe por inércia, desacelerando >> Resultado: não existe \"força do lançamento\" depois do lançamento",
+"e": "Não existe força que mantém o movimento"
+},
+{
+"p": "Na velocidade terminal de um paraquedista, a resistência do ar tem a mesma intensidade do peso, e a força resultante é nula.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a resistência do ar cresce com a velocidade até igualar o peso >> Ideia: com resultante nula, a velocidade fica constante (1ª lei) >> Resultado: certo",
+"e": "Velocidade terminal"
+},
+{
+"p": "Quanto mais horizontais os dois cabos simétricos que sustentam uma placa, menor a tração em cada um.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: 2·T·sen α = P → T = P/(2·sen α) >> Ideia: cabos mais horizontais têm α menor e sen α menor >> Resultado: a tração aumenta",
+"e": "Cabos horizontais: tração maior"
+},
+{
+"p": "Ao usar uma chave de roda de cabo mais longo, o motorista precisa de menos força para produzir o mesmo torque no parafuso.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: M = F·d >> Ideia: d maior → F menor para o mesmo M >> Resultado: certo",
+"e": "Torque"
+},
+{
+"p": "Um bloco de 10 kg está em repouso num plano inclinado de 37° (sen 37° = 0,6; cos 37° = 0,8), com coeficiente de atrito estático 0,8. A força de atrito sobre o bloco vale",
+"alts": [
+"80 N",
+"64 N",
+"60 N",
+"100 N",
+"zero"
+],
+"r": 2,
+"n": [
+"Usou N = P (100 N) e μ.",
+"Usou μe·N (o máximo), mas o bloco não está na iminência de escorregar.",
+"Correta.",
+"É o peso.",
+"Sem atrito, o bloco escorregaria."
+],
+"x": "Dados: m = 10 kg; θ = 37°; μe = 0,8 >> Conta: P·sen θ = 100·0,6 = 60 N → atrito máximo = 0,8·100·0,8 = 64 N → 60 < 64: o bloco fica parado >> Ideia: o atrito estático vale o necessário para o equilíbrio >> Resultado: 60 N",
+"e": "Atrito estático no plano"
+},
+{
+"p": "Um carro de 1.200 kg reboca, por um cabo, outro carro de 800 kg, com aceleração de 0,5 m/s², desprezadas as resistências. A tração no cabo é de",
+"alts": [
+"1.000 N",
+"600 N",
+"400 N",
+"200 N",
+"800 N"
+],
+"r": 2,
+"n": [
+"É a força total sobre o conjunto.",
+"Usou a massa do carro que reboca.",
+"Correta.",
+"Não confere.",
+"É o peso dividido por 10."
+],
+"x": "Dados: m_rebocado = 800 kg; a = 0,5 m/s² >> Ideia: a tração é a única força horizontal sobre o carro rebocado >> Fórmula: T = m_rebocado·a >> Conta: T = 800·0,5 → T = 400 N >> Resultado: 400 N",
+"e": "Tração no reboque"
+}
+]
+},
+"energia": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>Ec = m·v²/2</b><span>energia cinética</span></div><div class=\"lt-stat\"><b>Ep = m·g·h</b><span>energia potencial gravitacional</span></div><div class=\"lt-stat\"><b>Ep = k·x²/2</b><span>energia potencial elástica</span></div><div class=\"lt-stat\"><b>Em_i = Em_f</b><span>conservação sem atrito</span></div></div>\n<p>Energia é um dos conceitos centrais da Física e ocupa os itens 6 e 7 do edital da PRF: \"energia cinética, energia potencial, atrito\" e \"conservação de energia e suas transformações\". As questões cobram o cálculo das energias, a conservação da energia mecânica (corpos que descem rampas, caem, sobem ladeiras, comprimem molas), a energia dissipada pelo atrito e as transformações de energia em veículos, usinas e equipamentos. No trânsito, a energia explica a gravidade dos acidentes em alta velocidade, o aquecimento dos freios e o funcionamento das rampas de escape. Esta leitura apresenta cada forma de energia, as condições de conservação e muitas contas passo a passo.</p>\n<h3>1. O que é energia</h3>\n<ul><li><b>Energia</b> é a capacidade de realizar trabalho, ou, de forma mais geral, uma grandeza que se <b>conserva</b> e se <b>transforma</b> de uma forma em outra. Medida em <b>joules (J)</b>, como o trabalho.</li><li><b>Formas de energia</b>: <b>cinética</b> (movimento), <b>potencial gravitacional</b> (posição em relação à Terra), <b>potencial elástica</b> (deformação de molas e materiais), <b>térmica</b> (agitação das partículas), <b>química</b> (ligações entre átomos: combustíveis, alimentos, baterias), <b>elétrica</b>, <b>luminosa/radiante</b>, <b>sonora</b>, <b>nuclear</b>.</li><li><b>Princípio da conservação da energia</b>: a energia <b>não pode ser criada nem destruída</b>, apenas <b>transformada</b> de uma forma em outra ou <b>transferida</b> entre corpos. A energia total de um sistema isolado é constante. Quando se diz que \"a energia se perdeu\", ela, na verdade, foi transformada em formas não aproveitáveis, como calor.</li><li><b>Energia mecânica (Em)</b>: soma das energias <b>cinética</b> e <b>potencial</b> (gravitacional e elástica): <b>Em = Ec + Ep</b>. É a parte da energia diretamente associada ao movimento e à posição.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Num acidente, a energia cinética do veículo é destruída</span><br>✅ <span class=\"certo\">a energia não é destruída: <b>transforma-se</b> em deformação, calor, som</span></li><li>❌ <span class=\"banca\">A energia mecânica é a soma de todas as formas de energia de um corpo, inclusive a térmica e a química</span><br>✅ <span class=\"certo\">a energia mecânica é a soma da <b>cinética</b> com a <b>potencial</b> (gravitacional e elástica)</span></li></ol></div>\n<h3>2. Energia cinética</h3>\n<ul><li><b>Ec = m·v²/2</b>. Depende da <b>massa</b> (proporcional) e da <b>velocidade</b> (proporcional ao <b>quadrado</b>). É sempre <b>positiva</b> (ou nula, no repouso) e é <b>escalar</b>: não depende do sentido do movimento.</li></ul>\n<table class=\"tab\"><thead><tr><th>Mudança</th><th>Efeito na Ec</th></tr></thead><tbody><tr><td>Massa dobra (mesma velocidade)</td><td>Ec <b>dobra</b></td></tr><tr><td>Velocidade dobra (mesma massa)</td><td>Ec <b>quadruplica</b></td></tr><tr><td>Velocidade triplica</td><td>Ec fica <b>9 vezes</b> maior</td></tr><tr><td>Velocidade cai à metade</td><td>Ec cai a <b>um quarto</b></td></tr><tr><td>Velocidade aumenta 10%</td><td>Ec aumenta <b>21%</b> (1,1² = 1,21)</td></tr><tr><td>Velocidade aumenta 20%</td><td>Ec aumenta <b>44%</b> (1,2² = 1,44)</td></tr></tbody></table>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Energia de um carro</b><ol><li><span>Carro de 1.200 kg a 90 km/h</span></li><li><span>Converta: 90 ÷ 3,6 = 25 m/s</span></li><li><span>Ec = 1.200·25²/2 = 1.200·625/2</span></li></ol><span class=\"res\">Ec = 375.000 J = 375 kJ</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Carro x caminhão</b><ol><li><span>Carro de 1.000 kg a 30 m/s e caminhão de 10.000 kg a 10 m/s. Quem tem mais Ec?</span></li><li><span>Carro: 1.000·900/2 = 450 kJ</span></li><li><span>Caminhão: 10.000·100/2 = 500 kJ</span></li></ol><span class=\"res\">O caminhão, por pouco: dez vezes mais massa compensou um terço da velocidade (que pesa ao quadrado)</span></div>\n<ul><li><b>Por que o excesso de velocidade mata?</b> A energia que precisa ser dissipada numa colisão (por deformação dos veículos e dos corpos) cresce com o quadrado da velocidade: 20% acima do limite significa 44% a mais de energia; 50% acima, 125% a mais.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Um veículo com o dobro da massa de outro, na mesma velocidade, tem o quádruplo da energia cinética</span><br>✅ <span class=\"certo\">a Ec é proporcional à massa: <b>o dobro</b></span></li><li>❌ <span class=\"banca\">A energia cinética de um corpo que se move para trás é negativa</span><br>✅ <span class=\"certo\">a Ec é <b>sempre positiva</b> (ou nula); depende de v², não do sentido</span></li><li>❌ <span class=\"banca\">Um aumento de 10% na velocidade aumenta a energia cinética em 10%</span><br>✅ <span class=\"certo\">aumenta em <b>21%</b> (1,1² = 1,21)</span></li></ol></div>\n<h3>3. Energia potencial gravitacional</h3>\n<ul><li><b>Ep = m·g·h</b>: energia associada à <b>posição</b> de um corpo em relação a um <b>nível de referência</b> (h = altura acima desse nível). É a energia \"armazenada\" quando se ergue um corpo contra o peso, e que pode ser liberada quando ele desce.</li><li><b>Referencial arbitrário</b>: o valor de Ep depende de onde se põe o nível zero (o chão, o fundo do vale, a mesa); o que importa fisicamente são as <b>diferenças</b> de Ep, que não dependem dessa escolha. Abaixo do nível de referência, Ep é negativa.</li><li><b>Relação com o trabalho do peso</b>: ao subir h, o peso realiza trabalho −m·g·h e a Ep aumenta m·g·h; ao descer, o peso realiza +m·g·h e a Ep diminui o mesmo tanto: <b>τ_peso = −ΔEp</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Energia potencial de um caminhão no alto da serra</b><ol><li><span>Caminhão de 20 t no alto de uma serra 800 m acima da planície (referência)</span></li><li><span>Ep = 20.000·10·800</span></li><li><span>Ep = 1,6 × 10⁸ J = 160 MJ</span></li></ol><span class=\"res\">160 MJ que serão \"liberados\" na descida e precisam ser controlados (freio-motor, freios)</span></div>\n<ul><li><b>Usinas hidrelétricas</b>: a água represada tem Ep gravitacional; ao descer pelas tubulações, ela se transforma em Ec, que movimenta as turbinas, ligadas a geradores (energia elétrica).</li></ul>\n<h3>4. Energia potencial elástica</h3>\n<ul><li><b>Ep_el = k·x²/2</b>: energia armazenada numa mola (ou material elástico) de constante k deformada de x (comprimida ou distendida). Depende do <b>quadrado</b> da deformação: comprimir o dobro armazena o quádruplo de energia.</li><li><b>Exemplos</b>: molas da suspensão, para-choques com absorvedores, estilingue, arco e flecha, trampolim, pneus (que também armazenam energia ao se deformar).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Mola de um para-choque</b><ol><li><span>Absorvedor com k = 200.000 N/m comprimido 0,1 m</span></li><li><span>Ep = 200.000·0,01/2</span></li></ol><span class=\"res\">Ep = 1.000 J (pouco diante da Ec de um carro em alta velocidade: absorvedores servem para impactos leves)</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A energia potencial gravitacional de um corpo tem valor único, qualquer que seja o nível de referência adotado</span><br>✅ <span class=\"certo\">o valor <b>depende</b> do nível de referência; as <b>variações</b> de Ep é que não dependem</span></li><li>❌ <span class=\"banca\">Comprimir uma mola o dobro dobra a energia armazenada</span><br>✅ <span class=\"certo\">Ep_el ∝ x²: <b>quadruplica</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Energia</span></span><span class=\"vs\"><span>Não se cria nem se destrói; transforma-se</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ec</span></span><span class=\"vs\"><span>m·v²/2, sempre positiva</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ep gravitacional</span></span><span class=\"vs\"><span>m·g·h, depende da referência</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ep elástica</span></span><span class=\"vs\"><span>k·x²/2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>τ_peso</span></span><span class=\"vs\"><span>−ΔEp</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>+20% de velocidade</span></span><span class=\"vs\"><span>+44% de Ec</span></span></button></div></div>\n<h3>5. Energia no esporte e no corpo: salto com vara e trampolim</h3>\n<ul><li><b>Salto com vara</b>: o atleta corre (energia <b>cinética</b>), finca a vara, que se curva (energia <b>potencial elástica</b>) e se endireita, elevando-o (energia <b>potencial gravitacional</b>). Se toda a Ec da corrida virasse Ep, a elevação máxima do centro de massa seria h = v²/(2g). Com v ≈ 10 m/s, h ≈ 5 m; somando a altura inicial do centro de massa (≈ 1 m) e o impulso dos braços, explica-se por que os recordes ficam pouco acima de 6 m.</li><li><b>Trampolim e cama elástica</b>: a cada salto, a energia passa de gravitacional para cinética, depois para elástica (na lona), e volta. Sem impulso das pernas, os saltos vão ficando menores, porque parte da energia se dissipa a cada ciclo.</li><li><b>Corrida em subida</b>: o corredor precisa fornecer, além da energia gasta em terreno plano, a energia potencial m·g·h. Subir 10 m de desnível exige, para 70 kg, 7.000 J a mais de trabalho útil.</li><li><b>Músculos e calor</b>: com rendimento de cerca de 25%, para fornecer 7.000 J úteis o corpo consome cerca de 28.000 J (≈ 6,7 kcal), e o resto vira calor, por isso se transpira no esforço.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No salto com vara, a vara fornece energia ao atleta, que pode, assim, ultrapassar a altura correspondente à sua energia cinética inicial sem limite</span><br>✅ <span class=\"certo\">a vara <b>armazena e devolve</b> energia (elástica); ela não cria energia: a altura é limitada pela energia que o atleta trouxe e pelo impulso que acrescenta</span></li><li>❌ <span class=\"banca\">Na cama elástica, sem impulso das pernas, os saltos mantêm sempre a mesma altura</span><br>✅ <span class=\"certo\">parte da energia se <b>dissipa</b> a cada ciclo, e os saltos diminuem</span></li></ol></div>\n<h3>6. Erros de raciocínio mais comuns</h3>\n<ul><li><b>Aplicar conservação da energia mecânica com atrito</b>: com atrito, Em diminui; use o balanço com a energia dissipada.</li><li><b>Esquecer o quadrado</b> da velocidade (Ec) ou da deformação (Ep elástica).</li><li><b>Esquecer o /2</b> em m·v²/2 e k·x²/2.</li><li><b>Usar o comprimento da rampa como h</b>: Ep usa o desnível vertical.</li><li><b>Confundir energia e potência</b>: energia em J ou kWh; potência em W.</li><li><b>Achar que a velocidade de queda depende da massa</b> (sem ar, não depende).</li><li><b>Achar que a energia \"acaba\"</b>: ela se transforma; o que se perde é a energia útil.</li></ul>\n<h3>7. Síntese do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Energia</th><th>Fórmula</th><th>Depende de</th><th>Observação</th></tr></thead><tbody><tr><td>Cinética</td><td>m·v²/2</td><td>massa e quadrado da velocidade</td><td>sempre ≥ 0</td></tr><tr><td>Potencial gravitacional</td><td>m·g·h</td><td>massa, g e altura</td><td>depende da referência; diferenças não</td></tr><tr><td>Potencial elástica</td><td>k·x²/2</td><td>constante e quadrado da deformação</td><td>molas, suspensão, para-choques</td></tr><tr><td>Mecânica</td><td>Ec + Ep</td><td>–</td><td>conserva-se sem atrito</td></tr><tr><td>Dissipada</td><td>Em_i − Em_f</td><td>atrito, ar, deformações</td><td>vira calor, som</td></tr><tr><td>Total</td><td>todas as formas</td><td>–</td><td><b>sempre</b> se conserva</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Equação de energia</th><th>Resultado</th></tr></thead><tbody><tr><td>Queda ou rampa sem atrito, do repouso</td><td>m·g·h = m·v²/2</td><td>v = √(2gh)</td></tr><tr><td>Subida até parar, sem atrito</td><td>m·v²/2 = m·g·h</td><td>h = v²/(2g)</td></tr><tr><td>Corpo contra a mola</td><td>m·v²/2 = k·x²/2</td><td>x = v·√(m/k)</td></tr><tr><td>Frenagem em plano</td><td>μ·m·g·d = m·v²/2</td><td>d = v²/(2μg)</td></tr><tr><td>Com atrito em rampa</td><td>m·g·h = m·v²/2 + E_diss</td><td>v menor que √(2gh)</td></tr><tr><td>Loop sem atrito</td><td>m·g·H = m·g·2R + m·g·R/2</td><td>H_mín = 2,5·R</td></tr></tbody></table>\n<h3>8. Mapa do raciocínio</h3>\n<div class=\"lt-fluxo\"><span>Identifique o estado inicial e o final</span> <em>→</em> <span>Liste Ec, Ep gravitacional e Ep elástica em cada um</span> <em>→</em> <span>Há atrito ou resistência relevante?</span> <em>→</em> <span>Não: Em_i = Em_f</span> <em>→</em> <span>Sim: Em_i = Em_f + E_dissipada (E_diss = Fat·d)</span> <em>→</em> <span>Resolva para a incógnita (v, h, x, d ou E_diss)</span> <em>→</em> <span>Confira: velocidade não depende da massa sem atrito; energias sempre positivas (Ec)</span></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Salto com vara</span></span><span class=\"vs\"><span>Ec → Ep elástica → Ep gravitacional</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Esforço físico</span></span><span class=\"vs\"><span>≈ 75% da energia vira calor</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tabela de contas</span></span><span class=\"vs\"><span>Ec, Ep, Ep_el no início e no fim</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Com atrito</span></span><span class=\"vs\"><span>Em_i = Em_f + E_diss</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Energia total</span></span><span class=\"vs\"><span>Sempre se conserva</span></span></button></div></div>\n<h3>9. Resolvendo múltipla escolha: alternativas preparadas para o erro</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 1: velocidade na base</b><p>\"Um corpo de 4 kg parte do repouso e desliza, sem atrito, por uma rampa de 5 m de altura. A velocidade na base é: (A) 100 m/s; (B) 10 m/s; (C) 20 m/s; (D) 5 m/s; (E) 40 m/s.\"</p><details><summary>Ver a solução comentada</summary><p>v = √(2·10·5) = <b>10 m/s (B)</b>. (A) esqueceu a raiz (2gh = 100); (C) dobrou; (D) e (E) não correspondem a raciocínios válidos. A massa (4 kg) é um dado <b>irrelevante</b>, colocado para confundir.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 2: energia dissipada</b><p>\"Um carro de 1.000 kg desce, do repouso, 20 m de desnível e chega embaixo a 10 m/s. A energia dissipada é: (A) 200 kJ; (B) 50 kJ; (C) 150 kJ; (D) 250 kJ; (E) zero.\"</p><details><summary>Ver a solução comentada</summary><p>Ep = 200 kJ; Ec = 1.000·100/2 = 50 kJ; dissipada = <b>150 kJ (C)</b>. (A) é a Ep inicial; (B) é a Ec final; (D) somou em vez de subtrair; (E) supôs conservação, mas a velocidade de 10 m/s é menor que a ideal (20 m/s).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 3: proporções</b><p>\"Se a velocidade de um veículo passa de 60 para 90 km/h, sua energia cinética: (A) aumenta 50%; (B) dobra; (C) aumenta 125%; (D) triplica; (E) aumenta 30%.\"</p><details><summary>Ver a solução comentada</summary><p>(90/60)² = 1,5² = <b>2,25 → aumenta 125% (C)</b>. (A) tratou a energia como proporcional à velocidade.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 4: mola</b><p>\"Uma mola de k = 2.000 N/m é comprimida 0,1 m. A energia armazenada é: (A) 200 J; (B) 20 J; (C) 10 J; (D) 100 J; (E) 1 J.\"</p><details><summary>Ver a solução comentada</summary><p>Ep = 2.000·0,01/2 = <b>10 J (C)</b>. (B) esqueceu o /2; (A) usou k·x (força, e não energia); (D) e (E), erros de potência de 10.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 5: transformações</b><p>\"Na descida de uma serra com velocidade constante, usando freio-motor, a energia potencial gravitacional do caminhão é transformada principalmente em: (A) energia cinética; (B) energia química do combustível; (C) energia térmica; (D) energia elástica; (E) energia elétrica.\"</p><details><summary>Ver a solução comentada</summary><p>Com velocidade constante, a Ec não muda; a Ep perdida é dissipada como <b>calor (C)</b>. (A) só valeria se o caminhão acelerasse; (B) não há \"recarga\" de combustível; (E) só em veículos com regeneração.</p></details></div>\n<h3>10. Energia em veículos elétricos e híbridos</h3>\n<ul><li><b>Bateria</b>: armazena energia <b>química</b>, medida em <b>kWh</b>. Um carro elétrico compacto pode ter bateria de 40 a 60 kWh; com consumo de 15 kWh/100 km, a autonomia de uma bateria de 45 kWh seria de cerca de 300 km.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Autonomia</b><ol><li><span>Bateria útil de 48 kWh; consumo de 16 kWh/100 km</span></li><li><span>Autonomia = 48/16 × 100</span></li><li><span>= 300 km</span></li></ol><span class=\"res\">≈ 300 km</span></div>\n<ul><li><b>Frenagem regenerativa</b>: o motor elétrico, ao frear, funciona como <b>gerador</b>, convertendo parte da Ec em energia elétrica que volta à bateria. Em trânsito urbano, com muitas frenagens, recupera-se parcela significativa; em rodovia, com velocidade constante, o ganho é pequeno.</li><li><b>Híbridos</b>: combinam motor a combustão e elétrico; o elétrico ajuda nas arrancadas (onde o motor a combustão é menos eficiente) e recupera energia nas frenagens.</li><li><b>Recarga</b>: um carregador de 7 kW leva cerca de 7 h para fornecer 49 kWh (E = P·t), sem contar perdas; carregadores rápidos, de 50 kW ou mais, encurtam muito esse tempo.</li><li><b>Comparação de energia por quilômetro</b>: um carro a gasolina que faz 12 km/L usa, por quilômetro, cerca de 32/12 ≈ 2,7 MJ de energia química; um elétrico com 15 kWh/100 km usa 0,15 kWh/km = 0,54 MJ/km. A diferença reflete, sobretudo, o rendimento muito maior do motor elétrico.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A frenagem regenerativa transforma toda a energia cinética do veículo em energia elétrica</span><br>✅ <span class=\"certo\">transforma <b>parte</b> dela; o restante vira calor (perdas e freios de atrito)</span></li><li>❌ <span class=\"banca\">O kWh da bateria de um carro elétrico é uma unidade de potência</span><br>✅ <span class=\"certo\">é unidade de <b>energia</b>; a potência do motor é que se mede em kW</span></li></ol></div>\n<h3>11. Ordens de grandeza de energia</h3>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Energia aproximada</th></tr></thead><tbody><tr><td>Pilha AA</td><td>≈ 10 kJ</td></tr><tr><td>Bateria de celular</td><td>≈ 40 a 70 kJ</td></tr><tr><td>Carro de 1.000 kg a 100 km/h</td><td>≈ 390 kJ</td></tr><tr><td>Refeição de 800 kcal</td><td>≈ 3,3 MJ</td></tr><tr><td>Bateria de carro elétrico (50 kWh)</td><td>≈ 180 MJ</td></tr><tr><td>Tanque de 50 L de gasolina</td><td>≈ 1,6 GJ</td></tr><tr><td>Caminhão de 40 t a 90 km/h</td><td>≈ 12,5 MJ</td></tr></tbody></table>\n<ul><li>Note: o tanque de gasolina guarda energia equivalente a milhares de vezes a energia cinética do carro em velocidade de rodovia; a maior parte dessa energia, porém, vira calor no motor.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Massa como distrator</span></span><span class=\"vs\"><span>Não entra em v = √(2gh)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>60 → 90 km/h</span></span><span class=\"vs\"><span>Ec × 2,25</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Autonomia</span></span><span class=\"vs\"><span>Bateria (kWh) ÷ consumo (kWh/km)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Regenerativa</span></span><span class=\"vs\"><span>Recupera parte da Ec</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tanque de gasolina</span></span><span class=\"vs\"><span>≈ 1,6 GJ</span></span></button></div></div>\n<h3>12. Perguntas conceituais em forma de diálogo</h3>\n<ul><li><b>\"Se a energia se conserva, por que o carro precisa de combustível em velocidade constante numa reta?\"</b> Porque as forças resistivas (ar, rolamento, atritos internos) retiram energia mecânica continuamente e a transformam em calor. O combustível repõe essa energia. A energia total se conserva; a mecânica do carro só se mantém porque o motor a repõe.</li><li><b>\"Por que um carro em ponto morto acelera na descida?\"</b> Porque a energia potencial gravitacional se transforma em cinética. Sem o freio-motor, sobra para os freios dissipar tudo o que não se quer converter em velocidade.</li><li><b>\"Um caminhão e um carro descendo a mesma ladeira, sem atrito, chegam embaixo com velocidades iguais. Por que, então, o caminhão é mais perigoso?\"</b> Porque, com a mesma velocidade, sua <b>energia cinética</b> (e sua quantidade de movimento) é muito maior, proporcional à massa: há muito mais energia a dissipar numa colisão.</li><li><b>\"O que acontece com a energia de um carro que bate num muro e para?\"</b> Transforma-se em deformação (do carro e do muro), calor, som e, eventualmente, energia transferida a objetos e pessoas. Nada \"desaparece\".</li><li><b>\"Por que a mola da suspensão precisa de amortecedor?\"</b> A mola armazena e devolve energia (o carro oscilaria indefinidamente). O amortecedor transforma essa energia em calor, fazendo as oscilações cessarem rapidamente.</li><li><b>\"Pendurar-se numa corda que se estica é mais seguro que numa corda rígida?\"</b> Sim: a corda que se estica (como as de escalada) aumenta a distância ao longo da qual a energia da queda é absorvida, reduzindo a força máxima sobre o corpo.</li></ul>\n<h3>13. A experiência de Joule e o calor como energia</h3>\n<ul><li>No século XIX, Joule fez cair pesos que, por meio de cordas e roldanas, giravam pás dentro de um recipiente com água. A energia potencial perdida pelos pesos (m·g·h) aparecia como <b>aumento de temperatura</b> da água. Ele verificou que a relação entre o trabalho e o aquecimento era <b>sempre a mesma</b>, demonstrando que calor é uma forma de energia.</li><li><b>Equivalente mecânico do calor</b>: 1 caloria (energia para aquecer 1 g de água em 1 °C) ≈ <b>4,186 J</b>. Daí a conversão 1 kcal ≈ 4.186 J.</li><li><b>No trânsito</b>: é exatamente esse fenômeno que aquece os freios: energia mecânica transformada em energia térmica pelo trabalho do atrito.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Aquecimento de água por queda</b><ol><li><span>Uma cachoeira de 50 m: se toda a energia potencial da água virasse calor na própria água, quanto ela aqueceria?</span></li><li><span>Por kg: m·g·h = 1·10·50 = 500 J</span></li><li><span>ΔT = 500/4.186 ≈ 0,12 °C</span></li></ol><span class=\"res\">≈ 0,12 °C: a energia \"mecânica\" de quedas comuns produz aquecimentos muito pequenos</span></div>\n<h3>14. Glossário do tópico</h3>\n<ul><li><b>Energia</b>: grandeza que se conserva e se transforma; capacidade de realizar trabalho (J).</li><li><b>Energia cinética</b>: associada ao movimento (m·v²/2).</li><li><b>Energia potencial gravitacional</b>: associada à altura (m·g·h).</li><li><b>Energia potencial elástica</b>: associada à deformação (k·x²/2).</li><li><b>Energia mecânica</b>: cinética + potencial.</li><li><b>Força conservativa</b>: não dissipa energia mecânica (peso, elástica).</li><li><b>Força dissipativa</b>: transforma energia mecânica em térmica (atrito, resistência do ar).</li><li><b>Energia dissipada</b>: energia mecânica transformada em calor, som, deformação.</li><li><b>Calor</b>: energia térmica em trânsito.</li><li><b>Rendimento</b>: fração útil da energia.</li><li><b>Fonte renovável</b>: reabastecida em escala de tempo humana.</li></ul>\n<h3>15. Três frases para a prova</h3>\n<ul><li>\"<b>A energia total nunca muda; a mecânica só se conserva sem atrito.</b>\"</li><li>\"<b>Na queda sem atrito, a massa não importa: v = √(2gh).</b>\"</li><li>\"<b>Velocidade dobra, energia quadruplica.</b>\"</li><li>Com essas frases e a \"tabela de contas\" (Ec e Ep no início e no fim), resolve-se a grande maioria dos itens de energia.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Combustível em velocidade constante</span></span><span class=\"vs\"><span>Repõe a energia dissipada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Caminhão x carro</span></span><span class=\"vs\"><span>Mesma v, Ec proporcional à massa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Amortecedor</span></span><span class=\"vs\"><span>Dissipa a energia da mola</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 cal</span></span><span class=\"vs\"><span>≈ 4,186 J</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Joule</span></span><span class=\"vs\"><span>Calor é energia</span></span></button></div></div>\n<h3>16. Oscilações e energia: pêndulo, mola e suspensão</h3>\n<ul><li><b>Pêndulo simples</b>: a energia oscila entre potencial (nos extremos, onde a velocidade é zero) e cinética (no ponto mais baixo, onde a velocidade é máxima). Sem atrito, a altura dos extremos se mantém; com atrito no eixo e resistência do ar, a amplitude diminui aos poucos.</li><li><b>Sistema massa-mola</b>: a energia oscila entre elástica (nos extremos, máxima compressão ou distensão) e cinética (na posição de equilíbrio). A energia total é <b>k·A²/2</b>, em que A é a amplitude. Dobrar a amplitude quadruplica a energia da oscilação.</li><li><b>Suspensão veicular</b>: molas e amortecedores formam um sistema oscilante amortecido. Um bom ajuste faz o carro voltar à posição de equilíbrio após um buraco com uma ou duas oscilações; amortecedores gastos deixam o carro \"flutuando\" (oscilações demoradas), com perda de contato dos pneus com o solo e, portanto, de aderência e de frenagem.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Energia de oscilação</b><ol><li><span>Suspensão de uma roda com k = 25.000 N/m oscilando com amplitude de 4 cm</span></li><li><span>E = k·A²/2 = 25.000·0,0016/2</span></li><li><span>E = 20 J</span></li></ol><span class=\"res\">20 J por oscilação inicial, que o amortecedor transforma em calor</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No ponto mais baixo da trajetória de um pêndulo, a energia cinética é mínima</span><br>✅ <span class=\"certo\">no ponto mais baixo a energia cinética é <b>máxima</b> (e a potencial, mínima)</span></li><li>❌ <span class=\"banca\">Amortecedores gastos não interferem na frenagem, pois atuam apenas no conforto</span><br>✅ <span class=\"certo\">amortecedores gastos fazem o pneu <b>perder contato</b> com a pista nas oscilações, reduzindo a aderência e alongando a frenagem</span></li></ol></div>\n<h3>17. Balanço de energia em situações compostas</h3>\n<ul><li>Muitos problemas combinam <b>várias etapas</b>: um corpo desce uma rampa sem atrito, percorre um trecho plano com atrito e comprime uma mola. O método é sempre aplicar o balanço de energia de um estado ao outro, incluindo a energia dissipada <b>só</b> nos trechos com atrito.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Rampa, trecho com atrito e mola</b><ol><li><span>Bloco de 2 kg desce do repouso uma rampa sem atrito de 1,8 m de altura, percorre 2 m de piso com μ = 0,25 e comprime uma mola (k = 1.400 N/m)</span></li><li><span>Ep inicial: 2·10·1,8 = 36 J</span></li><li><span>Dissipada no piso: 0,25·2·10·2 = 10 J</span></li><li><span>Sobra para a mola: 26 J → 1.400·x²/2 = 26 → x² ≈ 0,037</span></li><li><span>x ≈ 0,19 m</span></li></ol><span class=\"res\">Compressão de ≈ 19 cm</span></div>\n<ul><li><b>Atenção</b>: se a mola devolver o bloco, ele passará de novo pelo trecho com atrito e perderá outros 10 J; o processo se repete até que a energia restante não seja suficiente para atravessar o trecho.</li></ul>\n<h3>18. Itens certo/errado comentados em sequência</h3>\n<ul><li>\"<b>A energia cinética de um corpo depende do referencial.</b>\" <b>Certo</b>: a velocidade depende do referencial; um passageiro tem Ec nula em relação ao ônibus e Ec não nula em relação à rodovia.</li><li>\"<b>A energia potencial gravitacional pode ser negativa.</b>\" <b>Certo</b>: se o corpo estiver abaixo do nível de referência escolhido.</li><li>\"<b>Num sistema isolado, a energia total permanece constante, ainda que haja atrito.</b>\" <b>Certo</b>: o atrito transforma a energia mecânica em térmica, sem alterar o total.</li><li>\"<b>Um corpo em queda livre tem energia mecânica crescente.</b>\" <b>Errado</b>: sem ar, a energia mecânica é constante; a cinética cresce e a potencial diminui.</li><li>\"<b>Dobrando a massa e mantendo a velocidade, a energia cinética quadruplica.</b>\" <b>Errado</b>: dobra.</li><li>\"<b>A mola comprimida 4 cm armazena o dobro da energia da mesma mola comprimida 2 cm.</b>\" <b>Errado</b>: armazena o quádruplo.</li><li>\"<b>A energia dissipada na frenagem de um veículo, em pista plana, é igual à sua energia cinética inicial.</b>\" <b>Certo</b>, se ele parar.</li><li>\"<b>Numa descida com velocidade constante, a energia mecânica do veículo se conserva.</b>\" <b>Errado</b>: a Ec é constante, mas a Ep diminui; a Em diminui, e a diferença vira calor.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pêndulo</span></span><span class=\"vs\"><span>Ec máxima embaixo; Ep máxima nos extremos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Massa-mola</span></span><span class=\"vs\"><span>E = k·A²/2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Amortecedor gasto</span></span><span class=\"vs\"><span>Menos aderência</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Etapas</span></span><span class=\"vs\"><span>Subtraia a dissipação só nos trechos com atrito</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Descida com v constante</span></span><span class=\"vs\"><span>Em diminui</span></span></button></div></div>\n<h3>19. Dicas de memorização</h3>\n<ul><li><b>\"Meio eme vê dois\"</b>: a energia cinética é <b>meio</b> (½) vezes <b>m</b> vezes <b>v ao quadrado</b>. A mesma estrutura aparece na potencial elástica: meio <b>k</b> <b>x</b> ao quadrado. Em ambas, o quadrado explica por que pequenas mudanças de velocidade ou de deformação produzem grandes mudanças de energia.</li><li><b>\"Mãe gosta de hortelã\"</b> (m·g·h): a energia potencial gravitacional.</li><li><b>\"Raiz de dois gê agá\"</b>: a velocidade de queda sem atrito, v = √(2gh), e o caminho inverso, h = v²/(2g), para a altura máxima.</li><li><b>\"A energia muda de roupa, mas não sai da festa\"</b>: ela se transforma (cinética, potencial, térmica, química, elétrica), mas o total permanece constante.</li><li><b>\"Atrito é pedágio\"</b>: em todo trecho com atrito, a energia mecânica paga uma parcela (Fat·d), que vira calor e não volta.</li><li><b>Teste rápido de coerência</b>: se a sua resposta der velocidade final <b>maior</b> que √(2gh) numa descida sem motor, ou uma energia dissipada <b>negativa</b>, há erro de sinal ou de conta; se der energia cinética negativa, também.</li></ul>\n<h3>20. Energia e os limites de velocidade do CTB</h3>\n<ul><li>O Código de Trânsito Brasileiro (art. 61) fixa velocidades máximas, quando não houver sinalização diferente. Em <b>vias urbanas</b>: <b>80 km/h</b> nas de trânsito rápido, <b>60 km/h</b> nas arteriais, <b>40 km/h</b> nas coletoras e <b>30 km/h</b> nas locais. Em <b>rodovias de pista dupla</b>: <b>110 km/h</b> para automóveis, camionetas e motocicletas e <b>90 km/h</b> para os demais veículos. Em <b>rodovias de pista simples</b>: <b>100 km/h</b> para automóveis, camionetas e motocicletas e <b>90 km/h</b> para os demais. Nas <b>estradas</b> (vias rurais não pavimentadas): <b>60 km/h</b>.</li><li><b>Leitura energética</b>: como a energia cresce com v², a diferença entre classes de via é ainda maior em energia do que em velocidade.</li></ul>\n<table class=\"tab\"><thead><tr><th>Limite</th><th>Energia relativa (30 km/h = 1)</th><th>Interpretação</th></tr></thead><tbody><tr><td>30 km/h (via local)</td><td>1</td><td>áreas com pedestres e ciclistas</td></tr><tr><td>40 km/h (coletora)</td><td>≈ 1,8</td><td>quase o dobro da energia de 30 km/h</td></tr><tr><td>60 km/h (arterial)</td><td>4</td><td>quatro vezes a de 30 km/h</td></tr><tr><td>80 km/h (trânsito rápido)</td><td>≈ 7,1</td><td>vias sem travessias em nível</td></tr><tr><td>110 km/h (pista dupla)</td><td>≈ 13,4</td><td>vias com separação física e acessos controlados</td></tr></tbody></table>\n<ul><li><b>Por que veículos pesados têm limites menores?</b> Para a mesma velocidade, sua energia cinética (proporcional à massa) é muito maior; seus freios e pneus têm limites de dissipação; e o risco de tombamento e de \"efeito canivete\" é maior. Limitar a velocidade reduz a energia a ser controlada.</li><li><b>Por que a velocidade é \"o\" fator de risco?</b> Porque afeta simultaneamente: a <b>distância de reação</b> (∝ v), a <b>distância de frenagem</b> (∝ v²) e a <b>energia do impacto</b> (∝ v²). Pequenos excessos produzem grandes aumentos de risco.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Excesso de 20% sobre 60 km/h</b><ol><li><span>72 km/h em vez de 60 km/h, carro de 1.000 kg</span></li><li><span>Energia a 60 km/h (16,7 m/s): ≈ 139 kJ</span></li><li><span>Energia a 72 km/h (20 m/s): 200 kJ</span></li><li><span>Aumento: ≈ 44%</span></li></ol><span class=\"res\">20% a mais de velocidade, 44% a mais de energia a dissipar</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Nas vias urbanas locais, sem sinalização, a velocidade máxima é de 40 km/h</span><br>✅ <span class=\"certo\">nas vias <b>locais</b> é de <b>30 km/h</b>; 40 km/h é o limite das <b>coletoras</b></span></li><li>❌ <span class=\"banca\">Nas rodovias de pista dupla, o limite de 110 km/h vale para todos os veículos</span><br>✅ <span class=\"certo\">110 km/h vale para automóveis, camionetas e motocicletas; os <b>demais</b>, <b>90 km/h</b></span></li><li>❌ <span class=\"banca\">A energia cinética de um carro a 60 km/h é o dobro da energia a 30 km/h</span><br>✅ <span class=\"certo\">é o <b>quádruplo</b> (energia ∝ v²)</span></li></ol></div>\n<h3>21. Fechamento: o fio condutor da Física do trânsito</h3>\n<ul><li>A <b>cinemática</b> diz quanto espaço e tempo são necessários para parar; a <b>dinâmica</b> diz quais forças o permitem (atrito) e por que os ocupantes precisam de cinto (inércia); o <b>trabalho e a potência</b> dizem quanto e quão rápido a energia é transferida; a <b>energia</b> amarra tudo: o que se acelera precisa ser freado, e a energia ganha com a velocidade (ou com a descida) precisa ser dissipada de alguma forma, pelos freios, pelo ar ou, no pior caso, pela deformação dos veículos e dos corpos.</li><li>O próximo tópico, <b>quantidade de movimento</b>, completa o quadro: nas colisões, além da energia, conserva-se o \"momento\" do sistema, o que permite reconstruir velocidades a partir do que acontece depois do choque.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vias urbanas</span></span><span class=\"vs\"><span>80 / 60 / 40 / 30 km/h (trânsito rápido, arterial, coletora, local)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pista dupla</span></span><span class=\"vs\"><span>110 (autos, camionetas, motos) / 90 (demais)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pista simples</span></span><span class=\"vs\"><span>100 / 90</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Estradas</span></span><span class=\"vs\"><span>60 km/h</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>60 km/h vs 30 km/h</span></span><span class=\"vs\"><span>4 vezes a energia</span></span></button></div></div>\n<ul><li><b>Resumo em uma linha por conceito</b>: a energia cinética mede o \"estrago potencial\" de um veículo em movimento; a potencial gravitacional mede o que uma descida pode transformar em velocidade; a elástica mede o que molas e estruturas podem guardar e devolver; e a energia dissipada mede o que atrito, ar e deformações transformam em calor. Dominar essas quatro ideias e a conservação da energia total resolve a grande maioria das questões deste tópico.</li><li><b>Antes de partir para o próximo tópico</b>, refaça mentalmente três contas: a velocidade ao fim de uma descida de 20 m sem atrito (20 m/s), a energia de um carro de 1.000 kg a 72 km/h (200 kJ) e a energia dissipada ao parar esse mesmo carro (também 200 kJ, convertidos em calor nos freios). Se essas três saírem sem consulta, a base do tópico está firme.</li></ul>\n<h3>22. Conservação da energia mecânica</h3>\n<ul><li><b>Quando a energia mecânica se conserva?</b> Quando só atuam <b>forças conservativas</b> (peso, força elástica) ou quando as demais forças <b>não realizam trabalho</b> (como a normal numa superfície fixa e sem atrito). Nesses casos: <b>Em_inicial = Em_final</b>, ou seja, <b>Ec_i + Ep_i = Ec_f + Ep_f</b>.</li><li><b>A energia muda de forma, mas a soma fica constante</b>: na queda, Ep vira Ec; na subida, Ec vira Ep; na mola, Ec vira Ep elástica e volta.</li><li><b>Queda e rampa sem atrito</b>: partindo do repouso de uma altura h, a velocidade ao chegar embaixo é <b>v = √(2·g·h)</b>, <b>independentemente da massa</b> e <b>da forma da rampa</b> (íngreme ou suave, reta ou curva). A rampa só muda o <b>tempo</b> da descida, não a velocidade final.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Carro desgovernado na ladeira (sem atrito)</b><ol><li><span>Um carro sem freio desce, a partir do repouso, uma ladeira com 20 m de desnível. Com que velocidade chega embaixo, desprezando atritos?</span></li><li><span>Em_topo = m·g·h = Em_base = m·v²/2</span></li><li><span>v = √(2·10·20) = √400</span></li><li><span>v = 20 m/s</span></li></ol><span class=\"res\">20 m/s (72 km/h), seja um carro ou um caminhão, por qualquer perfil de ladeira</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Subida que um corpo consegue fazer</b><ol><li><span>Um carro desliga o motor a 25 m/s na base de uma subida. Que desnível consegue vencer, sem atrito?</span></li><li><span>m·v²/2 = m·g·h → h = v²/(2g)</span></li><li><span>h = 625/20</span></li></ol><span class=\"res\">h = 31,25 m</span></div>\n<ul><li><b>Pêndulo e montanha-russa</b>: a velocidade é máxima no ponto mais baixo e mínima nos mais altos. Sem atrito, o carrinho de uma montanha-russa nunca ultrapassa a altura de onde partiu do repouso.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Velocidade num ponto intermediário</b><ol><li><span>Um carrinho parte do repouso de 45 m de altura e passa por um ponto a 25 m (sem atrito)</span></li><li><span>Desnível: 45 − 25 = 20 m</span></li><li><span>v = √(2·10·20) = 20 m/s</span></li></ol><span class=\"res\">20 m/s no ponto de 25 m</span></div>\n<ul><li><b>Molas</b>: um bloco a velocidade v que comprime uma mola até parar (sem atrito) transforma toda a Ec em Ep elástica: m·v²/2 = k·x²/2 → <b>x = v·√(m/k)</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Bloco contra a mola</b><ol><li><span>Bloco de 2 kg a 4 m/s comprime uma mola de k = 800 N/m até parar (sem atrito)</span></li><li><span>2·16/2 = 800·x²/2 → 16 = 400·x²</span></li><li><span>x² = 0,04 → x = 0,2 m</span></li></ol><span class=\"res\">Compressão máxima de 20 cm</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em uma rampa sem atrito, um corpo de massa maior chega embaixo com velocidade maior</span><br>✅ <span class=\"certo\">v = √(2gh): <b>independe</b> da massa</span></li><li>❌ <span class=\"banca\">Numa rampa sem atrito, quanto mais íngreme a rampa, maior a velocidade final para o mesmo desnível</span><br>✅ <span class=\"certo\">a velocidade final depende só do <b>desnível</b>; a inclinação muda apenas o <b>tempo</b></span></li><li>❌ <span class=\"banca\">Sem atrito, um carrinho de montanha-russa que parte do repouso pode ultrapassar uma elevação mais alta que o ponto de partida</span><br>✅ <span class=\"certo\">sem energia extra, ele <b>não</b> passa de sua altura inicial</span></li></ol></div>\n<h3>23. Energia com atrito: dissipação</h3>\n<ul><li><b>Quando há atrito (ou resistência do ar)</b>, parte da energia mecânica é <b>dissipada</b>, transformada em energia <b>térmica</b> (aquecimento), sonora e de deformação. A energia mecânica <b>diminui</b>, mas a energia <b>total</b> continua se conservando.</li><li><b>Balanço</b>: <b>Em_inicial − Em_final = energia dissipada = |trabalho do atrito|</b> = Fat·d (para atrito constante ao longo de um caminho d).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Descida com atrito</b><ol><li><span>Um carro de 1.000 kg parte do repouso e desce, em ponto morto, uma ladeira de 20 m de desnível e 200 m de extensão; chega embaixo a 15 m/s</span></li><li><span>Em inicial: 1.000·10·20 = 200.000 J</span></li><li><span>Em final: 1.000·225/2 = 112.500 J</span></li><li><span>Dissipada: 87.500 J → força resistiva média = 87.500/200 ≈ 437,5 N</span></li></ol><span class=\"res\">87,5 kJ viraram calor (atrito e ar); força resistiva média ≈ 438 N</span></div>\n<ul><li><b>Frenagem como dissipação</b>: toda a Ec de um veículo que freia até parar em pista plana vira calor nos freios, pneus e pista: E_diss = m·v²/2. Numa descida, a Ep perdida também precisa ser dissipada.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Aquecimento dos freios</b><ol><li><span>Carro de 1.200 kg freia de 30 m/s até parar</span></li><li><span>E dissipada = 1.200·900/2 = 540.000 J</span></li><li><span>Essa energia elevaria em cerca de 129 °C a temperatura de 1 kg de água (540.000/4.186), que ferveria antes</span></li></ol><span class=\"res\">540 kJ de calor em poucos segundos: por isso os discos ficam muito quentes</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quando há atrito, a energia total do sistema diminui</span><br>✅ <span class=\"certo\">a energia <b>mecânica</b> diminui; a energia <b>total</b> se conserva (parte vira calor)</span></li><li>❌ <span class=\"banca\">Na frenagem até a parada em pista plana, a energia dissipada pelos freios é igual à energia potencial do veículo</span><br>✅ <span class=\"certo\">é igual à <b>energia cinética</b> inicial (m·v²/2)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Conservação da Em</span></span><span class=\"vs\"><span>Só forças conservativas (ou outras sem trabalho)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Queda/rampa sem atrito</span></span><span class=\"vs\"><span>v = √(2gh), sem depender da massa nem da rampa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Altura alcançada</span></span><span class=\"vs\"><span>h = v²/2g</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Com atrito</span></span><span class=\"vs\"><span>Em_i − Em_f = energia dissipada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Frenagem</span></span><span class=\"vs\"><span>Ec vira calor</span></span></button></div></div>\n<h3>24. Atrito e energia: aprofundando</h3>\n<ul><li><b>Atrito na rampa</b>: um corpo que desce uma rampa com atrito chega embaixo com velocidade <b>menor</b> que √(2gh). Aqui, ao contrário do caso sem atrito, a <b>forma e o comprimento</b> da rampa importam: rampas mais longas dissipam mais energia (o trabalho do atrito depende do caminho).</li><li><b>Energia dissipada no plano inclinado</b>: E_diss = μ·m·g·cos θ·L, em que L é o comprimento percorrido sobre a rampa.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Rampa com atrito</b><ol><li><span>Bloco de 10 kg desce, do repouso, uma rampa de 5 m de comprimento e 3 m de altura (sen θ = 0,6; cos θ = 0,8), com μ = 0,25</span></li><li><span>Ep inicial: 10·10·3 = 300 J</span></li><li><span>Atrito: 0,25·10·10·0,8 = 20 N → dissipada: 20·5 = 100 J</span></li><li><span>Ec final: 300 − 100 = 200 J → 10·v²/2 = 200 → v = √40 ≈ 6,3 m/s</span></li></ol><span class=\"res\">≈ 6,3 m/s (sem atrito seriam √60 ≈ 7,7 m/s)</span></div>\n<ul><li><b>Atrito útil</b>: o atrito não é só \"vilão\". Sem atrito não haveria frenagem, curvas, tração nas rodas nem possibilidade de caminhar. O que se quer é <b>atrito alto entre pneu e pista</b> e <b>atrito baixo nas partes móveis</b> do motor (por isso a lubrificação).</li><li><b>Resistência do ar</b> também dissipa energia: em velocidades de rodovia, é a principal causa de \"perda\" de energia de um carro em movimento constante.</li><li><b>Calor e temperatura</b>: a energia dissipada aumenta a energia térmica dos corpos. Pneus aquecem em longos trechos de alta velocidade (pressão aumenta; por isso se calibra a frio); freios aquecem nas descidas; o asfalto aquece sob o sol e com o tráfego.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Com atrito, um corpo que desce uma rampa chega embaixo com velocidade que depende apenas do desnível, como no caso sem atrito</span><br>✅ <span class=\"certo\">com atrito, a velocidade final depende também do <b>comprimento</b> (e do μ) da rampa, pois a energia dissipada depende do caminho</span></li><li>❌ <span class=\"banca\">O atrito é sempre prejudicial ao movimento dos veículos e deveria ser eliminado ao máximo</span><br>✅ <span class=\"certo\">sem atrito pneu-pista não haveria <b>tração, frenagem nem curvas</b>; busca-se reduzir o atrito apenas nas partes móveis do motor</span></li></ol></div>\n<h3>25. Transformações de energia no cotidiano e no trânsito</h3>\n<table class=\"tab\"><thead><tr><th>Sistema</th><th>Transformação principal</th></tr></thead><tbody><tr><td>Motor a combustão</td><td><b>química</b> (combustível) → <b>térmica</b> (combustão) → <b>mecânica</b> (movimento do pistão e das rodas); grande parte vira calor perdido</td></tr><tr><td>Motor elétrico (carro elétrico)</td><td><b>química</b> (bateria) → <b>elétrica</b> → <b>mecânica</b></td></tr><tr><td>Frenagem convencional</td><td><b>cinética</b> → <b>térmica</b> (freios)</td></tr><tr><td>Frenagem regenerativa</td><td><b>cinética</b> → <b>elétrica</b> (recarrega a bateria)</td></tr><tr><td>Descida com freio-motor</td><td><b>potencial gravitacional</b> → <b>térmica</b> (no motor, por compressão e atrito interno)</td></tr><tr><td>Usina hidrelétrica</td><td><b>potencial gravitacional</b> da água → <b>cinética</b> → <b>elétrica</b></td></tr><tr><td>Usina eólica</td><td><b>cinética</b> do vento → <b>elétrica</b></td></tr><tr><td>Painel solar fotovoltaico</td><td><b>luminosa</b> → <b>elétrica</b></td></tr><tr><td>Air bag</td><td><b>química</b> (reação do gerador de gás) → expansão do gás (energia do gás); no impacto, absorve a <b>cinética</b> do ocupante</td></tr><tr><td>Corpo humano</td><td><b>química</b> (alimentos) → <b>mecânica</b> (músculos) + <b>térmica</b> (calor corporal)</td></tr></tbody></table>\n<ul><li><b>Nenhuma transformação real tem rendimento de 100%</b>: sempre há uma parcela que vira calor. Essa é uma manifestação da <b>2ª lei da Termodinâmica</b>: a energia útil tende a se degradar em calor, que não pode ser totalmente reconvertido em trabalho.</li><li><b>Rampa de escape em serras</b>: um caminhão sem freio que entra numa rampa de escape (aclive com material solto) converte sua energia cinética em <b>potencial gravitacional</b> (subida) e em <b>calor/deformação</b> (atrito intenso com cascalho ou areia), parando em distância curta.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Rampa de escape pela energia</b><ol><li><span>Caminhão de 30 t a 25 m/s entra numa rampa de escape em aclive com 10 m de desnível ao longo de 50 m de pista de cascalho</span></li><li><span>Ec = 30.000·625/2 = 9.375.000 J</span></li><li><span>Ep ganha ao subir 10 m: 30.000·10·10 = 3.000.000 J</span></li><li><span>O cascalho precisa dissipar 6.375.000 J em 50 m → força média ≈ 127.500 N</span></li></ol><span class=\"res\">O aclive absorve ≈ 32% da energia; o cascalho, o restante</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na frenagem regenerativa, a energia cinética do veículo é transformada principalmente em calor</span><br>✅ <span class=\"certo\">na regenerativa, parte vira <b>energia elétrica</b> que recarrega a bateria</span></li><li>❌ <span class=\"banca\">O motor a combustão transforma toda a energia química do combustível em energia mecânica</span><br>✅ <span class=\"certo\">a maior parte vira <b>calor</b>; o rendimento fica entre 25% e 35%</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atrito na rampa</span></span><span class=\"vs\"><span>Velocidade final depende do comprimento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Motor a combustão</span></span><span class=\"vs\"><span>Química → térmica → mecânica</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Frenagem regenerativa</span></span><span class=\"vs\"><span>Cinética → elétrica</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hidrelétrica</span></span><span class=\"vs\"><span>Potencial → cinética → elétrica</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rampa de escape</span></span><span class=\"vs\"><span>Cinética → potencial + calor</span></span></button></div></div>\n<h3>26. Energia e movimento circular: loops e lombadas</h3>\n<ul><li>Em problemas com <b>trajetória curva vertical</b>, combinam-se duas ferramentas: a <b>conservação da energia</b> (para achar a velocidade em cada ponto) e a <b>dinâmica circular</b> (para achar a normal ou a condição de \"não cair\").</li><li><b>Loop</b>: para completar um loop de raio R, o carrinho precisa ter, no topo, velocidade mínima v_topo = √(g·R). Pela energia, partindo do repouso de uma altura H acima do solo, sem atrito: m·g·H = m·g·2R + m·v_topo²/2 → <b>H_mín = 2,5·R</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Altura mínima para o loop</b><ol><li><span>Loop de raio 8 m, sem atrito</span></li><li><span>v_topo² = g·R = 80</span></li><li><span>m·g·H = m·g·16 + m·80/2 → 10H = 160 + 40</span></li><li><span>H = 20 m</span></li></ol><span class=\"res\">Precisa partir de, no mínimo, 20 m (2,5 × 8)</span></div>\n<ul><li><b>Lombada com energia</b>: um carro que chega à base de uma lombada a 15 m/s e sobe 5 m (sem motor e sem atrito) chega ao topo com v² = 225 − 2·10·5 = 125 → v ≈ 11,2 m/s; com essa velocidade e o raio da lombada, calcula-se a normal no topo.</li></ul>\n<h3>27. Gráficos de energia</h3>\n<ul><li><b>Ec × v</b>: parábola (Ec ∝ v²). <b>Ec × m</b>: reta.</li><li><b>Ep × h</b>: reta (Ep ∝ h), inclinação m·g.</li><li><b>Ep elástica × x</b>: parábola.</li><li><b>Energia × altura numa queda sem atrito</b>: a reta da Ep desce, a da Ec sobe, e a soma (Em) é uma reta <b>horizontal</b> (constante). Com atrito, a linha da Em vai <b>caindo</b> ao longo do movimento.</li><li><b>Leitura</b>: em qualquer ponto, Ec = Em − Ep. Onde a Ep é máxima (ponto mais alto), a Ec é mínima; onde Ep é mínima, Ec é máxima.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No gráfico da energia de um corpo em queda livre, sem atrito, a energia mecânica cresce à medida que ele cai</span><br>✅ <span class=\"certo\">sem atrito, a Em é <b>constante</b> (reta horizontal); a Ec cresce e a Ep diminui</span></li><li>❌ <span class=\"banca\">O gráfico da energia cinética em função da velocidade é uma reta</span><br>✅ <span class=\"certo\">é uma <b>parábola</b> (Ec ∝ v²)</span></li></ol></div>\n<h3>28. Treino guiado: exercícios resolvidos</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 1</b><ol><li><span>Moto de 150 kg a 72 km/h. Ec?</span></li><li><span>20 m/s</span></li><li><span>Ec = 150·400/2</span></li></ol><span class=\"res\">30.000 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 2</b><ol><li><span>Que velocidade dá a um carro de 1.000 kg a energia de 450 kJ?</span></li><li><span>1.000·v²/2 = 450.000 → v² = 900</span></li></ol><span class=\"res\">v = 30 m/s (108 km/h)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 3</b><ol><li><span>Ep de uma caixa de 25 kg numa prateleira a 2,4 m (referência: chão)?</span></li><li><span>Ep = 25·10·2,4</span></li></ol><span class=\"res\">600 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 4</b><ol><li><span>Um objeto cai, do repouso, de 45 m (sem ar). Velocidade final?</span></li><li><span>v = √(2·10·45) = √900</span></li></ol><span class=\"res\">30 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 5</b><ol><li><span>Um skatista a 6 m/s sobe uma rampa (sem atrito). Altura máxima?</span></li><li><span>h = v²/2g = 36/20</span></li></ol><span class=\"res\">1,8 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 6</b><ol><li><span>Mola de k = 1.000 N/m comprimida 0,3 m lança um bloco de 0,5 kg (sem atrito). Velocidade do bloco?</span></li><li><span>Ep = 1.000·0,09/2 = 45 J</span></li><li><span>0,5·v²/2 = 45 → v² = 180</span></li></ol><span class=\"res\">v ≈ 13,4 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 7</b><ol><li><span>Carrinho parte do repouso a 30 m e passa por um ponto a 10 m, com velocidade de 18 m/s. Houve dissipação? (massa 100 kg)</span></li><li><span>Em inicial: 100·10·30 = 30.000 J</span></li><li><span>Em final: 100·10·10 + 100·324/2 = 10.000 + 16.200 = 26.200 J</span></li><li><span>Dissipada: 3.800 J</span></li></ol><span class=\"res\">Sim: 3,8 kJ viraram calor</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 8</b><ol><li><span>Quanto calor os freios produzem ao parar uma moto de 200 kg a 25 m/s?</span></li><li><span>Ec = 200·625/2</span></li></ol><span class=\"res\">62.500 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 9</b><ol><li><span>Carro de 1.000 kg, sem motor, desce 10 m de desnível e chega embaixo a 12 m/s, partindo do repouso. Energia dissipada?</span></li><li><span>Ep perdida: 100.000 J</span></li><li><span>Ec ganha: 1.000·144/2 = 72.000 J</span></li><li><span>Diferença: 28.000 J</span></li></ol><span class=\"res\">28 kJ</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 10</b><ol><li><span>Um corpo de 2 kg a 10 m/s desliza num piso com atrito de 4 N. Até parar, quanto percorre?</span></li><li><span>Ec = 2·100/2 = 100 J</span></li><li><span>d = 100/4</span></li></ol><span class=\"res\">25 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 11</b><ol><li><span>Aumentar a velocidade de 80 para 100 km/h aumenta a Ec em quantos %?</span></li><li><span>(100/80)² = 1,5625</span></li></ol><span class=\"res\">+56%</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 12</b><ol><li><span>Pêndulo de 1,25 m de altura máxima em relação ao ponto mais baixo. Velocidade no ponto mais baixo?</span></li><li><span>v = √(2·10·1,25) = √25</span></li></ol><span class=\"res\">5 m/s</span></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Loop sem atrito</span></span><span class=\"vs\"><span>Partir de no mínimo 2,5·R</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gráfico Em sem atrito</span></span><span class=\"vs\"><span>Reta horizontal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ec = Em − Ep</span></span><span class=\"vs\"><span>Em qualquer ponto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>80 → 100 km/h</span></span><span class=\"vs\"><span>+56% de energia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dissipada</span></span><span class=\"vs\"><span>Em inicial − Em final</span></span></button></div></div>\n<h3>29. Energia nas colisões e na segurança viária</h3>\n<ul><li>Numa colisão, a energia cinética \"de antes\" se distribui entre: <b>deformação</b> permanente das estruturas (trabalho de forças de deformação), <b>calor</b>, <b>som</b>, energia cinética que <b>sobra</b> (os veículos continuam se movendo depois do choque) e energia transferida a ocupantes e pedestres. O objetivo da engenharia de segurança é que a maior parte seja absorvida pelas estruturas do veículo e pelos dispositivos, <b>não pelos corpos</b>.</li><li><b>Ensaios de colisão (crash tests)</b>: programas de avaliação como o Latin NCAP lançam veículos contra barreiras e medem, com bonecos instrumentados, as acelerações e forças sobre os ocupantes. Veículos bem avaliados absorvem a energia na dianteira deformável e preservam o habitáculo.</li><li><b>Pedestres e ciclistas</b>: não têm estrutura de proteção. A energia que recebem cresce com o quadrado da velocidade do veículo; por isso a redução de velocidade em áreas urbanas é a medida mais eficaz de proteção. Estudos de segurança viária indicam que a probabilidade de morte de um pedestre atropelado aumenta muito entre 30 km/h e 50 km/h.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Energia que o pedestre \"recebe\"</b><ol><li><span>Comparar a energia cinética de um carro de 1.000 kg a 30 km/h e a 50 km/h</span></li><li><span>30 km/h ≈ 8,3 m/s → Ec ≈ 34.700 J</span></li><li><span>50 km/h ≈ 13,9 m/s → Ec ≈ 96.500 J</span></li><li><span>Razão ≈ 2,8</span></li></ol><span class=\"res\">A 50 km/h, quase o triplo da energia de 30 km/h</span></div>\n<ul><li><b>Motociclistas</b>: o capacete e as roupas de proteção absorvem e distribuem energia; o capacete reduz drasticamente a energia transmitida ao crânio ao deformar sua espuma interna.</li><li><b>Altura equivalente</b>: a energia de um veículo à velocidade v equivale à de uma queda de altura h = v²/(2g). A 80 km/h, ≈ 25 m (um prédio de oito andares). Nenhum ocupante sobreviveria sem proteção a uma \"queda\" assim contra uma superfície rígida; o cinto, o air bag e a deformação do carro fazem a diferença.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Numa colisão, toda a energia cinética dos veículos se transforma, obrigatoriamente, em calor</span><br>✅ <span class=\"certo\">distribui-se em <b>deformação, calor, som</b> e parte pode <b>permanecer</b> como energia cinética após o choque</span></li><li>❌ <span class=\"banca\">Reduzir a velocidade urbana de 50 para 30 km/h diminui a energia de impacto em cerca de 40%, proporcionalmente à velocidade</span><br>✅ <span class=\"certo\">a energia cai com o <b>quadrado</b>: a 30 km/h é cerca de <b>36%</b> da energia a 50 km/h (redução de ≈ 64%)</span></li></ol></div>\n<h3>30. Energia térmica e calor (noções)</h3>\n<ul><li><b>Calor</b> é energia térmica <b>em trânsito</b>, que passa espontaneamente do corpo mais quente para o mais frio. <b>Temperatura</b> mede o grau de agitação das partículas. Calor e temperatura não são a mesma coisa.</li><li><b>Calor sensível</b>: para aquecer uma massa m de uma substância de calor específico c em ΔT, é preciso <b>Q = m·c·ΔT</b>. A água tem calor específico alto (≈ 4.186 J/kg·°C), por isso é usada no arrefecimento dos motores.</li><li><b>Arrefecimento do motor</b>: o motor converte só cerca de um terço da energia do combustível em trabalho; boa parte do resto precisa ser retirada pelo radiador (água + aditivo). Superaquecimento indica falha nesse sistema (vazamento, ventoinha, bomba d'água).</li><li><b>Freios e calor</b>: na frenagem, a Ec vira calor nos discos e pastilhas. A capacidade de absorver calor depende da massa e do material dos discos; discos ventilados dissipam melhor.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Aquecimento dos discos</b><ol><li><span>Carro de 1.500 kg freia de 25 m/s até parar; 90% da energia vai para os quatro discos, que somam 24 kg de aço (c ≈ 460 J/kg·°C)</span></li><li><span>Ec = 1.500·625/2 = 468.750 J</span></li><li><span>Calor nos discos: 0,9·468.750 ≈ 421.900 J</span></li><li><span>ΔT = Q/(m·c) = 421.900/(24·460) ≈ 38 °C</span></li></ol><span class=\"res\">Uma única frenagem aquece os discos ≈ 38 °C; várias em sequência (serra) somam centenas de graus</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Calor e temperatura são sinônimos em Física</span><br>✅ <span class=\"certo\"><b>temperatura</b> mede a agitação das partículas; <b>calor</b> é energia que <b>flui</b> do mais quente para o mais frio</span></li><li>❌ <span class=\"banca\">A água é usada no arrefecimento dos motores por ter calor específico baixo</span><br>✅ <span class=\"certo\">a água tem calor específico <b>alto</b>: absorve muita energia com pouca variação de temperatura</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Colisão</span></span><span class=\"vs\"><span>Energia vai para deformação, calor, som e Ec residual</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pedestre</span></span><span class=\"vs\"><span>Energia ∝ v²; 50 km/h ≈ 2,8 × a de 30 km/h</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Calor</span></span><span class=\"vs\"><span>Energia em trânsito</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Q = m·c·ΔT</span></span><span class=\"vs\"><span>Calor sensível</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Radiador</span></span><span class=\"vs\"><span>Retira o calor que o motor não converteu</span></span></button></div></div>\n<h3>31. Itens no estilo Cebraspe, comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a ladeira</b><p>Um veículo de 1.200 kg, com o motor desligado e sem frear, parte do repouso no alto de uma ladeira de 45 m de desnível (g = 10 m/s²). Julgue: (1) se não houvesse atrito nem resistência do ar, chegaria à base a 30 m/s; (2) nesse caso ideal, um veículo de 2.400 kg chegaria a 60 m/s; (3) se chegar à base a 20 m/s, terão sido dissipados 300 kJ.</p><details><summary>Ver a solução comentada</summary><p>(1) v = √(2·10·45) = √900 = <b>30 m/s</b>: <b>certo</b>. (2) A velocidade <b>independe da massa</b>: <b>errado</b>. (3) Ep = 1.200·10·45 = 540 kJ; Ec = 1.200·400/2 = 240 kJ; dissipado = <b>300 kJ</b>: <b>certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a frenagem</b><p>Um carro de 1.000 kg a 108 km/h freia até parar em pista plana. Julgue: (1) a energia transformada em calor é de 450 kJ; (2) se estivesse a 54 km/h, a energia dissipada seria de 225 kJ; (3) a energia mecânica do carro se conservou durante a frenagem.</p><details><summary>Ver a solução comentada</summary><p>108 km/h = 30 m/s. (1) Ec = 1.000·900/2 = <b>450 kJ</b>: <b>certo</b>. (2) 54 km/h = 15 m/s → 112,5 kJ (um quarto, e não a metade): <b>errado</b>. (3) Houve dissipação pelo atrito: <b>errado</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a mola do para-choque</b><p>Um carrinho de 10 kg, a 2 m/s, colide com um para-choque de mola (k = 1.000 N/m) e para momentaneamente (sem atrito). Julgue: (1) a energia cinética inicial é de 20 J; (2) a compressão máxima da mola é de 20 cm; (3) depois, o carrinho é devolvido com a mesma velocidade de 2 m/s, em sentido oposto.</p><details><summary>Ver a solução comentada</summary><p>(1) 10·4/2 = <b>20 J</b>: <b>certo</b>. (2) 20 = 1.000·x²/2 → x² = 0,04 → x = <b>0,2 m</b>: <b>certo</b>. (3) Sem dissipação, a mola devolve toda a energia: <b>certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: transformações</b><p>Julgue: (1) numa usina hidrelétrica, a energia potencial gravitacional da água é transformada em energia elétrica, passando por energia cinética; (2) num carro a combustão, a maior parte da energia do combustível é convertida em energia cinética; (3) na frenagem regenerativa, parte da energia cinética é convertida em energia elétrica.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Certo</b>. (2) A maior parte vira <b>calor</b> (rendimento de 25% a 35%): <b>errado</b>. (3) <b>Certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: o loop</b><p>Um carrinho percorre, sem atrito, um loop de raio 4 m (g = 10 m/s²). Julgue: (1) a velocidade mínima no topo do loop é de 2 m/s; (2) partindo do repouso, a altura mínima de partida é de 10 m; (3) quanto maior a massa do carrinho, maior a altura mínima necessária.</p><details><summary>Ver a solução comentada</summary><p>(1) v_mín = √(g·R) = √40 ≈ <b>6,3 m/s</b>: <b>errado</b>. (2) H = 2,5·R = <b>10 m</b>: <b>certo</b>. (3) A massa se cancela: <b>errado</b>.</p></details></div>\n<h3>32. Como a banca cobra este tópico</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>A Cebraspe cobra energia em itens de conta curta (Ec, Ep, velocidade ao fim de uma descida, altura máxima, energia dissipada) e em itens conceituais (conservação só sem atrito; energia total sempre se conserva; massa não influi na velocidade de queda sem atrito; Ec ∝ v²; transformações em usinas e veículos). O contexto preferido é o trânsito: ladeiras, frenagens, rampas de escape, colisões.</p></div>\n<ul><li><b>Armadilhas típicas</b>:</li><li>Dizer que a energia se conserva quando há atrito (a <b>mecânica</b> não; a <b>total</b>, sim).</li><li>Achar que dobrar a velocidade dobra a energia (quadruplica).</li><li>Colocar a massa como fator na velocidade de queda sem atrito.</li><li>Confundir energia dissipada com energia \"destruída\".</li><li>Esquecer que a Ep depende do <b>desnível</b>, não da distância percorrida na rampa.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Em problemas de energia, monte uma \"tabela de contas\": no estado inicial e no final, escreva Ec, Ep e, se houver, Ep elástica. Some cada coluna. Se não há atrito, as somas são iguais; se há, a diferença é a energia dissipada.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rampa sem atrito</span></span><span class=\"vs\"><span>v = √(2gh)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Metade da velocidade</span></span><span class=\"vs\"><span>Um quarto da energia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mola</span></span><span class=\"vs\"><span>m·v²/2 = k·x²/2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Loop</span></span><span class=\"vs\"><span>H_mín = 2,5·R</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Energia total</span></span><span class=\"vs\"><span>Sempre se conserva</span></span></button></div></div>\n<h3>33. Fontes de energia e matriz energética</h3>\n<ul><li><b>Fontes renováveis</b>: aquelas que se renovam em escala de tempo humana: <b>hidráulica</b>, <b>solar</b>, <b>eólica</b>, <b>biomassa</b> (bagaço de cana, lenha de reflorestamento, biogás), <b>biocombustíveis</b> (etanol, biodiesel), <b>geotérmica</b>, <b>das marés</b>.</li><li><b>Fontes não renováveis</b>: estoques que se esgotam ou levam milhões de anos para se formar: <b>petróleo</b> e derivados (gasolina, diesel, querosene), <b>gás natural</b>, <b>carvão mineral</b>, <b>urânio</b> (energia nuclear).</li><li><b>Matriz energética x matriz elétrica</b>: a <b>matriz energética</b> inclui toda a energia consumida (transporte, indústria, residências); a <b>matriz elétrica</b> só a geração de eletricidade. O Brasil tem matriz elétrica <b>predominantemente renovável</b>, com grande participação hidrelétrica e crescimento rápido de eólica e solar; já a matriz energética total depende muito do petróleo, principalmente por causa do <b>transporte rodoviário</b>.</li><li><b>Impactos</b>: toda fonte tem impactos. Hidrelétricas alagam áreas e afetam ecossistemas e comunidades; combustíveis fósseis emitem gases de efeito estufa e poluentes; eólicas e solares dependem do clima e exigem armazenamento ou complementação.</li><li><b>Biocombustíveis no transporte</b>: o Brasil adiciona etanol anidro à gasolina e biodiesel ao diesel, em percentuais definidos por lei e regulamentação, e tem ampla frota flex. O etanol é considerado renovável porque a cana reabsorve CO₂ ao crescer.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O petróleo é uma fonte de energia renovável, pois é de origem orgânica</span><br>✅ <span class=\"certo\">o petróleo levou <b>milhões de anos</b> para se formar: é <b>não renovável</b></span></li><li>❌ <span class=\"banca\">A matriz elétrica brasileira é majoritariamente baseada em usinas termelétricas a carvão</span><br>✅ <span class=\"certo\">é <b>majoritariamente renovável</b>, com grande participação <b>hidrelétrica</b></span></li></ol></div>\n<h3>34. \"Economizar energia\" e a conservação da energia</h3>\n<ul><li>Se a energia se conserva, por que falar em \"economizar energia\"? Porque o que se gasta é a energia <b>útil</b>, de alta qualidade (elétrica, química de um combustível). Ao ser usada, ela se transforma em formas <b>menos aproveitáveis</b>, como calor espalhado no ambiente. A quantidade total não muda, mas a <b>capacidade de realizar trabalho</b> diminui.</li><li><b>Moto-contínuo (perpétuo móvel)</b>: uma máquina que produzisse trabalho indefinidamente sem receber energia violaria a conservação da energia (1ª lei da Termodinâmica); uma máquina que convertesse integralmente calor em trabalho violaria a 2ª lei. Propostas de \"carro que anda sozinho\", \"gerador de energia infinita\" ou \"aditivo que dobra a energia do combustível\" são, por isso, fisicamente impossíveis ou fraudulentas.</li><li><b>Eficiência energética</b>: obter o mesmo serviço com menos energia útil: lâmpadas LED, motores mais eficientes, pneus de baixa resistência, direção econômica, manutenção em dia.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Um dispositivo que permita a um veículo funcionar indefinidamente sem combustível nem bateria é compatível com o princípio da conservação da energia, desde que tenha rendimento de 100%</span><br>✅ <span class=\"certo\">mesmo com rendimento de 100%, sem fonte de energia não há trabalho; e rendimentos de 100% <b>não existem</b> em máquinas reais</span></li><li>❌ <span class=\"banca\">Como a energia se conserva, economizar energia não faz sentido físico</span><br>✅ <span class=\"certo\">economiza-se energia <b>útil</b>, que se degrada em calor ao ser usada</span></li></ol></div>\n<h3>35. Breve história do princípio da conservação</h3>\n<ul><li>No século XVII, <b>Leibniz</b> chamou de *vis viva* (\"força viva\") a grandeza m·v², precursora da energia cinética, e percebeu que ela se mantinha em certos choques.</li><li>No século XIX, <b>Mayer</b>, <b>Joule</b> e <b>Helmholtz</b>, por caminhos diferentes, chegaram à ideia de que calor e trabalho são formas da mesma grandeza, a energia, e de que ela se conserva. Joule mediu o \"equivalente mecânico do calor\": o aquecimento da água produzido por um peso que, ao cair, girava pás dentro de um recipiente.</li><li>No século XX, <b>Einstein</b> mostrou que a própria massa é uma forma de energia (E = m·c²), base da energia nuclear. Mesmo assim, o princípio da conservação continua válido, agora incluindo a energia de repouso.</li></ul>\n<h3>36. Energia e quedas: proteção de pessoas e objetos</h3>\n<ul><li><b>Queda de pessoas</b>: a energia ao final de uma queda de altura h é m·g·h. Para uma pessoa de 80 kg caindo 3 m, são 2.400 J. Se ela é parada por uma superfície rígida em poucos centímetros, a força média é enorme; se cai num colchão de 0,5 m, a força média cai a cerca de 4.800 N.</li><li><b>Equipamentos de proteção contra quedas</b>: cintos de segurança para trabalho em altura usam <b>absorvedores de energia</b> (fitas que se rasgam de forma controlada), aumentando a distância de frenagem e reduzindo a força sobre o corpo.</li><li><b>Objetos lançados de viadutos sobre veículos</b>: uma pedra de 2 kg solta de 10 m chega com 200 J; somando a velocidade do veículo que se aproxima (ex.: 30 m/s), a energia do impacto em relação ao carro fica muito maior, suficiente para atravessar o para-brisa. A física explica a gravidade dessa conduta criminosa.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Pedra e carro</b><ol><li><span>Pedra de 2 kg cai 10 m e atinge um carro que vem a 30 m/s. Energia da pedra em relação ao carro no impacto?</span></li><li><span>Velocidade vertical: √(2·10·10) ≈ 14,1 m/s</span></li><li><span>Velocidade relativa: √(14,1² + 30²) ≈ √(200 + 900) ≈ 33,2 m/s</span></li><li><span>Ec relativa = 2·1.100/2</span></li></ol><span class=\"res\">≈ 1.100 J, mais de cinco vezes a energia da queda sozinha</span></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Renováveis</span></span><span class=\"vs\"><span>Hidráulica, solar, eólica, biomassa, biocombustíveis</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Matriz elétrica brasileira</span></span><span class=\"vs\"><span>Predominantemente renovável</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Moto-contínuo</span></span><span class=\"vs\"><span>Impossível (1ª e 2ª leis)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Absorvedor de energia</span></span><span class=\"vs\"><span>Aumenta a distância de parada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pedra no para-brisa</span></span><span class=\"vs\"><span>Velocidade relativa aumenta a energia</span></span></button></div></div>\n<h3>37. Casos práticos integrados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Caminhão sem freio na serra</b><p>Um caminhão de 25 t perde os freios no alto de uma descida de 2 km com 100 m de desnível, a 15 m/s. Desprezando atritos, que velocidade teria ao fim da descida? E se a área de escape, em aclive de 15 m de desnível, ficar no meio da descida (após 50 m de desnível)?</p><details><summary>Ver a solução comentada</summary><p>Sem atrito, no fim da descida: v² = 15² + 2·10·100 = 225 + 2.000 = 2.225 → v ≈ <b>47 m/s</b> (≈ 170 km/h): situação catastrófica. No ponto da área de escape (50 m abaixo): v² = 225 + 1.000 = 1.225 → v = 35 m/s. Subindo 15 m na rampa de escape, sobram v² = 1.225 − 300 = 925 de energia por massa para o cascalho dissipar; por isso as rampas de escape combinam aclive e material solto.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ciclista na descida</b><p>Um ciclista (com bicicleta, 90 kg) desce uma rampa de 40 m de desnível, partindo do repouso, e chega embaixo a 15 m/s. Quanto da energia foi dissipada?</p><details><summary>Ver a solução comentada</summary><p>Ep inicial: 90·10·40 = <b>36.000 J</b>. Ec final: 90·225/2 = <b>10.125 J</b>. Dissipados: <b>25.875 J</b> (≈ 72%), principalmente pela resistência do ar e pelos freios. Sem dissipação, chegaria a √800 ≈ 28 m/s (≈ 100 km/h).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O teste da balança de molas</b><p>Uma mola de suspensão de k = 30.000 N/m está comprimida 5 cm pelo peso do carro parado. Um buraco faz a roda descer e, na volta, a mola é comprimida mais 5 cm. Quanta energia a mola armazenou nesse trecho extra?</p><details><summary>Ver a solução comentada</summary><p>Ep(10 cm) − Ep(5 cm) = 30.000·(0,01 − 0,0025)/2 = 30.000·0,0075/2 = <b>112,5 J</b>, três vezes mais que nos primeiros 5 cm (37,5 J). O <b>amortecedor</b> dissipa essa energia em calor, impedindo que o carro fique \"quicando\".</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Pêndulo da demolição</b><p>Uma bola de 500 kg, presa a um cabo, é solta de 5 m acima do ponto mais baixo. Com que energia e velocidade atinge a parede no ponto mais baixo?</p><details><summary>Ver a solução comentada</summary><p>Ep = 500·10·5 = <b>25.000 J</b>, que vira Ec: v = √(2·10·5) = <b>10 m/s</b>. Por isso, para aumentar o poder de impacto, aumenta-se a altura de soltura ou a massa da bola.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Por que o carro \"anda sozinho\" na banguela</b><p>Um condutor desce a serra em ponto morto (\"banguela\"), alegando economizar combustível. Explique o risco pela energia.</p><details><summary>Ver a solução comentada</summary><p>Em ponto morto, o motor deixa de dissipar a energia potencial liberada na descida (sem freio-motor). Toda essa energia vai para a energia cinética (o carro acelera) ou precisa ser dissipada pelos <b>freios de serviço</b>, que superaquecem. Além de perigosa, a conduta é infração prevista no CTB (transitar com o veículo desligado ou desengrenado em declive).</p></details></div>\n<h3>38. Revisão relâmpago: perguntas e respostas</h3>\n<ul><li><b>O que é energia mecânica?</b> Ec + Ep.</li><li><b>Quando ela se conserva?</b> Sem atrito e sem resistência do ar (só forças conservativas realizando trabalho).</li><li><b>E a energia total?</b> Sempre se conserva.</li><li><b>De que depende a Ec?</b> Da massa (proporcional) e do quadrado da velocidade.</li><li><b>De que depende a Ep gravitacional?</b> Da massa, de g e da altura em relação à referência.</li><li><b>E a elástica?</b> De k e do quadrado da deformação.</li><li><b>Velocidade ao fim de uma descida sem atrito?</b> √(2gh), sem depender da massa nem do formato da rampa.</li><li><b>Altura máxima alcançável a partir de uma velocidade?</b> v²/(2g).</li><li><b>Energia dissipada?</b> Em inicial − Em final.</li><li><b>Para onde vai a energia na frenagem?</b> Calor (freios, pneus, pista), salvo na frenagem regenerativa.</li><li><b>Por que a banguela é perigosa?</b> Porque elimina o freio-motor e joga toda a dissipação nos freios.</li><li><b>Por que as rampas de escape funcionam?</b> Combinam aclive (Ec → Ep) e material solto (Ec → calor).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Banguela</span></span><span class=\"vs\"><span>Infração e risco: sem freio-motor</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Amortecedor</span></span><span class=\"vs\"><span>Dissipa a energia da mola</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ec + Ep</span></span><span class=\"vs\"><span>Energia mecânica</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sem atrito</span></span><span class=\"vs\"><span>Em constante</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Energia total</span></span><span class=\"vs\"><span>Sempre constante</span></span></button></div></div>\n<h3>39. Energia na perícia de acidentes</h3>\n<ul><li><b>Frenagem pela energia</b>: em pista plana, a energia cinética no início das marcas é dissipada pelo atrito ao longo do comprimento d: μ·m·g·d = m·v²/2 → <b>v = √(2·μ·g·d)</b>. É a mesma fórmula obtida pela cinemática, agora deduzida pela conservação da energia (a massa se cancela).</li><li><b>Frenagem em declive ou aclive</b>: a energia potencial entra no balanço. Num declive, o veículo percorre mais até parar (a Ep perdida também precisa ser dissipada); num aclive, menos.</li><li><b>Velocidade equivalente de energia (EES)</b>: a partir da <b>deformação</b> medida no veículo e de bancos de dados de ensaios de colisão, o perito estima quanta energia foi absorvida pela estrutura e a converte numa velocidade equivalente: a velocidade com que o veículo teria de bater numa barreira rígida para sofrer aquela deformação.</li><li><b>Somando etapas</b>: a velocidade inicial é reconstruída somando as energias dissipadas em cada fase (frenagem antes do impacto, deformação no impacto, arrastamento depois): m·v₀²/2 = E_frenagem + E_deformação + E_pós-impacto. Por isso a velocidade calculada só pelas marcas é uma <b>velocidade mínima</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Velocidade a partir de duas etapas</b><ol><li><span>Um carro de 1.000 kg deixou 30 m de marcas de frenagem (μ = 0,8) antes de bater; a deformação indica que absorveu 125 kJ no impacto, e ele parou ali</span></li><li><span>Energia de frenagem: 0,8·1.000·10·30 = 240.000 J</span></li><li><span>Total: 240.000 + 125.000 = 365.000 J</span></li><li><span>v₀ = √(2·365.000/1.000) = √730 ≈ 27 m/s</span></li></ol><span class=\"res\">≈ 27 m/s (≈ 97 km/h) no início das marcas</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Frenagem em declive</b><ol><li><span>Carro a 20 m/s freia num declive de sen θ = 0,1, com μ = 0,7 (cos θ ≈ 1)</span></li><li><span>Desaceleração efetiva: g·(μ·cos θ − sen θ) = 10·(0,7 − 0,1) = 6 m/s²</span></li><li><span>d = 400/12 ≈ 33,3 m</span></li><li><span>Em plano seria 400/14 ≈ 28,6 m</span></li></ol><span class=\"res\">O declive alonga a frenagem em ≈ 17%</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A velocidade calculada a partir das marcas de frenagem representa a velocidade máxima possível do veículo</span><br>✅ <span class=\"certo\">representa a velocidade <b>mínima</b>, pois outras parcelas de energia (impacto, deformação) não estão incluídas</span></li><li>❌ <span class=\"banca\">Num declive, a distância de frenagem é menor que em pista plana, por causa do peso do veículo</span><br>✅ <span class=\"certo\">é <b>maior</b>: a componente do peso empurra o veículo ladeira abaixo, e a Ep perdida também precisa ser dissipada</span></li></ol></div>\n<h3>40. Treino extra</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 1</b><ol><li><span>Ec de um ônibus de 15 t a 54 km/h?</span></li><li><span>15 m/s</span></li><li><span>Ec = 15.000·225/2</span></li></ol><span class=\"res\">1.687.500 J ≈ 1,7 MJ</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 2</b><ol><li><span>Ep de uma pessoa de 70 kg no 10º andar (30 m)?</span></li><li><span>Ep = 70·10·30</span></li></ol><span class=\"res\">21.000 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 3</b><ol><li><span>Bola de 0,5 kg lançada para cima a 8 m/s. Altura máxima e Ep no topo?</span></li><li><span>h = 64/20 = 3,2 m</span></li><li><span>Ep = 0,5·10·3,2 = 16 J = Ec inicial</span></li></ol><span class=\"res\">3,2 m; 16 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 4</b><ol><li><span>Uma pessoa salta do trampolim a 3 m da água, com velocidade inicial horizontal de 4 m/s. Velocidade ao chegar à água?</span></li><li><span>v² = 4² + 2·10·3 = 16 + 60 = 76</span></li><li><span>v ≈ 8,7 m/s</span></li></ol><span class=\"res\">≈ 8,7 m/s (a energia não depende da direção inicial)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 5</b><ol><li><span>Mola de k = 500 N/m e massa de 0,2 kg. Compressão para lançar a massa a 5 m/s?</span></li><li><span>k·x²/2 = m·v²/2 → 500·x² = 0,2·25 = 5</span></li><li><span>x² = 0,01</span></li></ol><span class=\"res\">x = 0,1 m = 10 cm</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 6</b><ol><li><span>Um carro de 800 kg sobe, desligado, uma rampa até parar, partindo de 20 m/s; o desnível vencido foi de 15 m. Energia dissipada?</span></li><li><span>Ec inicial: 800·400/2 = 160.000 J</span></li><li><span>Ep final: 800·10·15 = 120.000 J</span></li></ol><span class=\"res\">40.000 J dissipados</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 7</b><ol><li><span>Com que velocidade um corpo deve passar pela base para subir, sem atrito, uma rampa de 5 m de desnível e chegar ao topo a 4 m/s?</span></li><li><span>v² = 4² + 2·10·5 = 16 + 100 = 116</span></li></ol><span class=\"res\">v ≈ 10,8 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 8</b><ol><li><span>Um carrinho parte do repouso a 20 m e passa por um ponto a 4 m de altura (sem atrito). Velocidade?</span></li><li><span>Desnível: 16 m</span></li><li><span>v = √(2·10·16) = √320</span></li></ol><span class=\"res\">≈ 17,9 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 9</b><ol><li><span>Quanto aumenta a Ec ao passar de 100 para 120 km/h?</span></li><li><span>(120/100)² = 1,44</span></li></ol><span class=\"res\">+44%</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 10</b><ol><li><span>Uma moto de 250 kg a 30 m/s colide e para após 1,5 m de deformação total. Força média?</span></li><li><span>Ec = 250·900/2 = 112.500 J</span></li><li><span>F = 112.500/1,5</span></li></ol><span class=\"res\">75.000 N</span></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marcas de frenagem</span></span><span class=\"vs\"><span>Velocidade mínima</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reconstrução</span></span><span class=\"vs\"><span>Soma das energias dissipadas em cada fase</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Declive</span></span><span class=\"vs\"><span>Frenagem mais longa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Trampolim</span></span><span class=\"vs\"><span>v² = v₀² + 2gh, qualquer direção inicial</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>+20% de velocidade</span></span><span class=\"vs\"><span>+44% de energia</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Um veículo de 1.500 kg trafega a 90 km/h. Sua energia cinética é de",
+"alts": [
+"18,75 kJ",
+"937,5 kJ",
+"37,5 kJ",
+"468,75 kJ",
+"6.075 kJ"
+],
+"r": 3,
+"n": [
+"Usou v em vez de v².",
+"Esqueceu de dividir por 2.",
+"Esqueceu o quadrado da velocidade (calculou m·v).",
+"Correta.",
+"Não converteu km/h para m/s."
+],
+"x": "Dados: m = 1.500 kg; v = 90 km/h >> Converta: 90 km/h = 25 m/s >> Fórmula: Ec = m·v²/2 >> Conta: Ec = 1.500·25²/2 → Ec = 1.500·625/2 → Ec = 468.750 J >> Resultado: 468.750 J (468,75 kJ)",
+"e": "Ec = m·v²/2"
+},
+{
+"p": "Um veículo de 800 kg, a 72 km/h, tem energia cinética de 16 kJ.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 800 kg; v = 72 km/h >> Converta: 72 km/h = 20 m/s >> Fórmula: Ec = m·v²/2 >> Conta: Ec = 800·20²/2 → Ec = 800·400/2 → Ec = 160.000 J >> Resultado: 160.000 J (160 kJ)",
+"e": "Ec = m·v²/2"
+},
+{
+"p": "Um veículo de 500 kg, a 108 km/h, tem energia cinética de 15 kJ.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 500 kg; v = 108 km/h >> Converta: 108 km/h = 30 m/s >> Fórmula: Ec = m·v²/2 >> Conta: Ec = 500·30²/2 → Ec = 500·900/2 → Ec = 225.000 J >> Resultado: 225.000 J (225 kJ)",
+"e": "Ec = m·v²/2"
+},
+{
+"p": "Um veículo de 800 kg trafega a 126 km/h. Sua energia cinética é de",
+"alts": [
+"6.350,4 kJ",
+"28 kJ",
+"490 kJ",
+"14 kJ",
+"980 kJ"
+],
+"r": 2,
+"n": [
+"Não converteu km/h para m/s.",
+"Esqueceu o quadrado da velocidade (calculou m·v).",
+"Correta.",
+"Usou v em vez de v².",
+"Esqueceu de dividir por 2."
+],
+"x": "Dados: m = 800 kg; v = 126 km/h >> Converta: 126 km/h = 35 m/s >> Fórmula: Ec = m·v²/2 >> Conta: Ec = 800·35²/2 → Ec = 800·1225/2 → Ec = 490.000 J >> Resultado: 490.000 J (490 kJ)",
+"e": "Ec = m·v²/2"
+},
+{
+"p": "Um veículo de 500 kg, a 144 km/h, tem energia cinética de 400 kJ.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 500 kg; v = 144 km/h >> Converta: 144 km/h = 40 m/s >> Fórmula: Ec = m·v²/2 >> Conta: Ec = 500·40²/2 → Ec = 500·1600/2 → Ec = 400.000 J >> Resultado: 400.000 J (400 kJ)",
+"e": "Ec = m·v²/2"
+},
+{
+"p": "Um veículo de 1.200 kg, a 72 km/h, tem energia cinética de 24 kJ.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.200 kg; v = 72 km/h >> Converta: 72 km/h = 20 m/s >> Fórmula: Ec = m·v²/2 >> Conta: Ec = 1.200·20²/2 → Ec = 1.200·400/2 → Ec = 240.000 J >> Resultado: 240.000 J (240 kJ)",
+"e": "Ec = m·v²/2"
+},
+{
+"p": "Um veículo de 1.200 kg trafega a 72 km/h. Sua energia cinética é de",
+"alts": [
+"3.110,4 kJ",
+"12 kJ",
+"480 kJ",
+"240 kJ",
+"24 kJ"
+],
+"r": 3,
+"n": [
+"Não converteu km/h para m/s.",
+"Usou v em vez de v².",
+"Esqueceu de dividir por 2.",
+"Correta.",
+"Esqueceu o quadrado da velocidade (calculou m·v)."
+],
+"x": "Dados: m = 1.200 kg; v = 72 km/h >> Converta: 72 km/h = 20 m/s >> Fórmula: Ec = m·v²/2 >> Conta: Ec = 1.200·20²/2 → Ec = 1.200·400/2 → Ec = 240.000 J >> Resultado: 240.000 J (240 kJ)",
+"e": "Ec = m·v²/2"
+},
+{
+"p": "Um veículo de 1.000 kg, a 36 km/h, tem energia cinética de 10 kJ.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.000 kg; v = 36 km/h >> Converta: 36 km/h = 10 m/s >> Fórmula: Ec = m·v²/2 >> Conta: Ec = 1.000·10²/2 → Ec = 1.000·100/2 → Ec = 50.000 J >> Resultado: 50.000 J (50 kJ)",
+"e": "Ec = m·v²/2"
+},
+{
+"p": "Um veículo de 200 kg, a 108 km/h, tem energia cinética de 90 kJ.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 200 kg; v = 108 km/h >> Converta: 108 km/h = 30 m/s >> Fórmula: Ec = m·v²/2 >> Conta: Ec = 200·30²/2 → Ec = 200·900/2 → Ec = 90.000 J >> Resultado: 90.000 J (90 kJ)",
+"e": "Ec = m·v²/2"
+},
+{
+"p": "Se a massa dobrar, mantida a velocidade, a energia cinética de um veículo quadruplicará.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Ec = m·v²/2 >> Ideia: Ec é proporcional à massa e ao QUADRADO da velocidade >> Resultado: dobrará",
+"e": "Proporções da Ec"
+},
+{
+"p": "Se a velocidade dobrar, mantida a massa, a energia cinética de um veículo quadruplicará.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Ec = m·v²/2 >> Ideia: Ec é proporcional à massa e ao QUADRADO da velocidade >> Resultado: quadruplicará",
+"e": "Proporções da Ec"
+},
+{
+"p": "Se a velocidade triplicar, a energia cinética de um veículo triplicará.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Ec = m·v²/2 >> Ideia: Ec é proporcional à massa e ao QUADRADO da velocidade >> Resultado: ficará nove vezes maior",
+"e": "Proporções da Ec"
+},
+{
+"p": "Se a velocidade cair à metade, a energia cinética de um veículo cairá a um quarto.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Ec = m·v²/2 >> Ideia: Ec é proporcional à massa e ao QUADRADO da velocidade >> Resultado: cairá a um quarto",
+"e": "Proporções da Ec"
+},
+{
+"p": "Se a velocidade aumentar 20%, a energia cinética de um veículo aumentará 20%.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Ec = m·v²/2 >> Ideia: Ec é proporcional à massa e ao QUADRADO da velocidade >> Resultado: aumentará 44%",
+"e": "Proporções da Ec"
+},
+{
+"p": "Se a velocidade aumentar 10%, a energia cinética de um veículo aumentará 10%.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Ec = m·v²/2 >> Ideia: Ec é proporcional à massa e ao QUADRADO da velocidade >> Resultado: aumentará 21%",
+"e": "Proporções da Ec"
+},
+{
+"p": "Um corpo de 70 kg, a 2 m acima do nível de referência, tem energia potencial gravitacional de 1.400 J (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 70 kg; h = 2 m; g = 10 m/s² >> Fórmula: Ep = m·g·h >> Conta: Ep = 70·10·2 → Ep = 1.400 J >> Resultado: 1.400 J",
+"e": "Ep = m·g·h"
+},
+{
+"p": "Um corpo de 50 kg, a 30 m acima do nível de referência, tem energia potencial gravitacional de 15.000 J (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 50 kg; h = 30 m; g = 10 m/s² >> Fórmula: Ep = m·g·h >> Conta: Ep = 50·10·30 → Ep = 15.000 J >> Resultado: 15.000 J",
+"e": "Ep = m·g·h"
+},
+{
+"p": "Um corpo de 10 kg, a 10 m acima do nível de referência, tem energia potencial gravitacional de 1.000 J (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 10 kg; h = 10 m; g = 10 m/s² >> Fórmula: Ep = m·g·h >> Conta: Ep = 10·10·10 → Ep = 1.000 J >> Resultado: 1.000 J",
+"e": "Ep = m·g·h"
+},
+{
+"p": "Um corpo de 10 kg, a 10 m acima do nível de referência, tem energia potencial gravitacional de 100 J (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 10 kg; h = 10 m; g = 10 m/s² >> Fórmula: Ep = m·g·h >> Conta: Ep = 10·10·10 → Ep = 1.000 J >> Resultado: 1.000 J",
+"e": "Ep = m·g·h"
+},
+{
+"p": "Um corpo de 70 kg, a 5 m acima do nível de referência, tem energia potencial gravitacional de 3.500 J (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 70 kg; h = 5 m; g = 10 m/s² >> Fórmula: Ep = m·g·h >> Conta: Ep = 70·10·5 → Ep = 3.500 J >> Resultado: 3.500 J",
+"e": "Ep = m·g·h"
+},
+{
+"p": "Um corpo de 2.400 kg parte do repouso e desce, sem atrito, uma rampa com 5 m de desnível (g = 10 m/s²). Sua velocidade na base é de",
+"alts": [
+"100 m/s",
+"10 m/s",
+"7,1 m/s",
+"20 m/s",
+"489,9 m/s"
+],
+"r": 1,
+"n": [
+"Esqueceu a raiz quadrada.",
+"Correta.",
+"Esqueceu o fator 2.",
+"Dobrou o resultado.",
+"Multiplicou pela massa (ela se cancela)."
+],
+"x": "Dados: h = 5 m; parte do repouso; sem atrito >> Ideia: a energia potencial vira cinética; a massa aparece dos dois lados e se cancela >> Fórmula: m·g·h = m·v²/2 → v = √(2·g·h) >> Conta: v = √(2·10·5) → v = √100 → v = 10 m/s >> Resultado: 10 m/s (36 km/h)",
+"e": "v = √(2gh)"
+},
+{
+"p": "Um corpo parte do repouso e desce, sem atrito, 20 m de desnível (g = 10 m/s²), chegando à base a 20 m/s, qualquer que seja sua massa e o formato da rampa.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: h = 20 m; parte do repouso; sem atrito >> Ideia: a energia potencial vira cinética; a massa aparece dos dois lados e se cancela >> Fórmula: m·g·h = m·v²/2 → v = √(2·g·h) >> Conta: v = √(2·10·20) → v = √400 → v = 20 m/s >> Resultado: 20 m/s (72 km/h)",
+"e": "Velocidade independe da massa"
+},
+{
+"p": "Um corpo parte do repouso e desce, sem atrito, 45 m de desnível (g = 10 m/s²), chegando à base a 30 m/s, qualquer que seja sua massa e o formato da rampa.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: h = 45 m; parte do repouso; sem atrito >> Ideia: a energia potencial vira cinética; a massa aparece dos dois lados e se cancela >> Fórmula: m·g·h = m·v²/2 → v = √(2·g·h) >> Conta: v = √(2·10·45) → v = √900 → v = 30 m/s >> Resultado: 30 m/s (108 km/h)",
+"e": "Velocidade independe da massa"
+},
+{
+"p": "Um corpo de 50 kg parte do repouso e desce, sem atrito, uma rampa com 80 m de desnível (g = 10 m/s²). Sua velocidade na base é de",
+"alts": [
+"40 m/s",
+"282,8 m/s",
+"1.600 m/s",
+"80 m/s",
+"28,3 m/s"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Multiplicou pela massa (ela se cancela).",
+"Esqueceu a raiz quadrada.",
+"Dobrou o resultado.",
+"Esqueceu o fator 2."
+],
+"x": "Dados: h = 80 m; parte do repouso; sem atrito >> Ideia: a energia potencial vira cinética; a massa aparece dos dois lados e se cancela >> Fórmula: m·g·h = m·v²/2 → v = √(2·g·h) >> Conta: v = √(2·10·80) → v = √1.600 → v = 40 m/s >> Resultado: 40 m/s (144 km/h)",
+"e": "v = √(2gh)"
+},
+{
+"p": "Um corpo parte do repouso e desce, sem atrito, 125 m de desnível (g = 10 m/s²), chegando à base a 50 m/s, qualquer que seja sua massa e o formato da rampa.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: h = 125 m; parte do repouso; sem atrito >> Ideia: a energia potencial vira cinética; a massa aparece dos dois lados e se cancela >> Fórmula: m·g·h = m·v²/2 → v = √(2·g·h) >> Conta: v = √(2·10·125) → v = √2.500 → v = 50 m/s >> Resultado: 50 m/s (180 km/h)",
+"e": "Velocidade independe da massa"
+},
+{
+"p": "Um corpo de 2 kg parte do repouso e desce, sem atrito, 1,8 m de desnível (g = 10 m/s²); um corpo com o dobro da massa chegaria à base com o dobro da velocidade.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: h = 1,8 m; parte do repouso; sem atrito >> Ideia: a energia potencial vira cinética; a massa aparece dos dois lados e se cancela >> Fórmula: m·g·h = m·v²/2 → v = √(2·g·h) >> Conta: v = √(2·10·1,8) → v = √36 → v = 6 m/s >> Resultado: 6 m/s (21,6 km/h)",
+"e": "Velocidade independe da massa"
+},
+{
+"p": "Um corpo de 2 kg parte do repouso e desce, sem atrito, uma rampa com 3,2 m de desnível (g = 10 m/s²). Sua velocidade na base é de",
+"alts": [
+"8 m/s",
+"11,3 m/s",
+"16 m/s",
+"64 m/s",
+"5,7 m/s"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Multiplicou pela massa (ela se cancela).",
+"Dobrou o resultado.",
+"Esqueceu a raiz quadrada.",
+"Esqueceu o fator 2."
+],
+"x": "Dados: h = 3,2 m; parte do repouso; sem atrito >> Ideia: a energia potencial vira cinética; a massa aparece dos dois lados e se cancela >> Fórmula: m·g·h = m·v²/2 → v = √(2·g·h) >> Conta: v = √(2·10·3,2) → v = √64 → v = 8 m/s >> Resultado: 8 m/s (28,8 km/h)",
+"e": "v = √(2gh)"
+},
+{
+"p": "Um corpo lançado para cima a 30 m/s, ou que sobe uma rampa sem atrito com essa velocidade inicial, atinge desnível máximo de 90 m (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 30 m/s >> Ideia: toda a energia cinética vira potencial no ponto mais alto >> Fórmula: m·v²/2 = m·g·h → h = v²/(2g) >> Conta: h = 900/20 → h = 45 m >> Resultado: 45 m",
+"e": "h = v²/2g"
+},
+{
+"p": "Um corpo lançado para cima a 12 m/s, ou que sobe uma rampa sem atrito com essa velocidade inicial, atinge desnível máximo de 7,2 m (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 12 m/s >> Ideia: toda a energia cinética vira potencial no ponto mais alto >> Fórmula: m·v²/2 = m·g·h → h = v²/(2g) >> Conta: h = 144/20 → h = 7,2 m >> Resultado: 7,2 m",
+"e": "h = v²/2g"
+},
+{
+"p": "Um corpo lançado para cima a 6 m/s, ou que sobe uma rampa sem atrito com essa velocidade inicial, atinge desnível máximo de 1,8 m (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 6 m/s >> Ideia: toda a energia cinética vira potencial no ponto mais alto >> Fórmula: m·v²/2 = m·g·h → h = v²/(2g) >> Conta: h = 36/20 → h = 1,8 m >> Resultado: 1,8 m",
+"e": "h = v²/2g"
+},
+{
+"p": "Um corpo lançado para cima a 20 m/s, ou que sobe uma rampa sem atrito com essa velocidade inicial, atinge desnível máximo de 40 m (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 20 m/s >> Ideia: toda a energia cinética vira potencial no ponto mais alto >> Fórmula: m·v²/2 = m·g·h → h = v²/(2g) >> Conta: h = 400/20 → h = 20 m >> Resultado: 20 m",
+"e": "h = v²/2g"
+},
+{
+"p": "Um corpo lançado para cima a 8 m/s, ou que sobe uma rampa sem atrito com essa velocidade inicial, atinge desnível máximo de 3,2 m (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 8 m/s >> Ideia: toda a energia cinética vira potencial no ponto mais alto >> Fórmula: m·v²/2 = m·g·h → h = v²/(2g) >> Conta: h = 64/20 → h = 3,2 m >> Resultado: 3,2 m",
+"e": "h = v²/2g"
+},
+{
+"p": "Uma mola de constante 1.000 N/m, comprimida 10 cm, armazena energia potencial elástica de 100 J.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: k = 1.000 N/m; x = 0,1 m >> Fórmula: Ep_el = k·x²/2 >> Conta: Ep = 1.000·0,01/2 → Ep = 5 J >> Atenção: k·x (100 N) é a força, não a energia >> Resultado: 5 J",
+"e": "Ep elástica"
+},
+{
+"p": "Uma mola de constante 2.000 N/m, comprimida 20 cm, armazena energia potencial elástica de 400 J.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: k = 2.000 N/m; x = 0,2 m >> Fórmula: Ep_el = k·x²/2 >> Conta: Ep = 2.000·0,04/2 → Ep = 40 J >> Atenção: k·x (400 N) é a força, não a energia >> Resultado: 40 J",
+"e": "Ep elástica"
+},
+{
+"p": "Uma mola de constante 500 N/m, comprimida 40 cm, armazena energia potencial elástica de 40 J.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: k = 500 N/m; x = 0,4 m >> Fórmula: Ep_el = k·x²/2 >> Conta: Ep = 500·0,16/2 → Ep = 40 J >> Atenção: k·x (200 N) é a força, não a energia >> Resultado: 40 J",
+"e": "Ep elástica"
+},
+{
+"p": "Uma mola de constante 40.000 N/m, comprimida 5 cm, armazena energia potencial elástica de 2.000 J.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: k = 40.000 N/m; x = 0,05 m >> Fórmula: Ep_el = k·x²/2 >> Conta: Ep = 40.000·0,0025/2 → Ep = 50 J >> Atenção: k·x (2.000 N) é a força, não a energia >> Resultado: 50 J",
+"e": "Ep elástica"
+},
+{
+"p": "Uma mola de constante 800 N/m, comprimida 30 cm, armazena energia potencial elástica de 240 J.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: k = 800 N/m; x = 0,3 m >> Fórmula: Ep_el = k·x²/2 >> Conta: Ep = 800·0,09/2 → Ep = 36 J >> Atenção: k·x (240 N) é a força, não a energia >> Resultado: 36 J",
+"e": "Ep elástica"
+},
+{
+"p": "Um bloco de 2 kg, a 4 m/s, colide com uma mola de constante 800 N/m, sem atrito. A compressão máxima da mola é de 40 cm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 2 kg; v = 4 m/s; k = 800 N/m >> Ideia: na compressão máxima o bloco para: toda a Ec vira Ep elástica >> Fórmula: m·v²/2 = k·x²/2 → x = v·√(m/k) >> Conta: Ec = 16 J → x² = 32/800 = 0,04 → x = 0,2 m >> Resultado: 20 cm",
+"e": "Ec → Ep elástica"
+},
+{
+"p": "Um bloco de 1 kg, a 10 m/s, colide com uma mola de constante 10.000 N/m, sem atrito. A compressão máxima da mola é de 20 cm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1 kg; v = 10 m/s; k = 10.000 N/m >> Ideia: na compressão máxima o bloco para: toda a Ec vira Ep elástica >> Fórmula: m·v²/2 = k·x²/2 → x = v·√(m/k) >> Conta: Ec = 50 J → x² = 100/10.000 = 0,01 → x = 0,1 m >> Resultado: 10 cm",
+"e": "Ec → Ep elástica"
+},
+{
+"p": "Um bloco de 4 kg, a 2 m/s, colide com uma mola de constante 400 N/m, sem atrito. A compressão máxima da mola é de 40 cm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 4 kg; v = 2 m/s; k = 400 N/m >> Ideia: na compressão máxima o bloco para: toda a Ec vira Ep elástica >> Fórmula: m·v²/2 = k·x²/2 → x = v·√(m/k) >> Conta: Ec = 8 J → x² = 16/400 = 0,04 → x = 0,2 m >> Resultado: 20 cm",
+"e": "Ec → Ep elástica"
+},
+{
+"p": "Um bloco de 0,5 kg, a 6 m/s, colide com uma mola de constante 450 N/m, sem atrito. A compressão máxima da mola é de 40 cm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 0,5 kg; v = 6 m/s; k = 450 N/m >> Ideia: na compressão máxima o bloco para: toda a Ec vira Ep elástica >> Fórmula: m·v²/2 = k·x²/2 → x = v·√(m/k) >> Conta: Ec = 9 J → x² = 18/450 = 0,04 → x = 0,2 m >> Resultado: 20 cm",
+"e": "Ec → Ep elástica"
+},
+{
+"p": "Um carro de 1.000 kg parte do repouso, desce uma ladeira de 45 m de desnível em ponto morto e chega à base a 12 m/s. Como não houve motor, a energia mecânica se conservou na descida.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.000 kg; h = 45 m; v_final = 12 m/s >> Fórmula: E_dissipada = Em_inicial − Em_final >> Conta: Ep = 1.000·10·45 = 450.000 J → Ec final = 1.000·144/2 = 72.000 J → dissipada = 378.000 J >> Confere: sem atrito chegaria a √900 ≈ 30 m/s; chegou mais devagar, logo houve dissipação >> Resultado: 378 kJ",
+"e": "Energia dissipada"
+},
+{
+"p": "Um carro de 800 kg parte do repouso, desce uma ladeira de 20 m de desnível em ponto morto e chega à base a 15 m/s. A energia dissipada na descida foi de 70 kJ (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 800 kg; h = 20 m; v_final = 15 m/s >> Fórmula: E_dissipada = Em_inicial − Em_final >> Conta: Ep = 800·10·20 = 160.000 J → Ec final = 800·225/2 = 90.000 J → dissipada = 70.000 J >> Confere: sem atrito chegaria a √400 ≈ 20 m/s; chegou mais devagar, logo houve dissipação >> Resultado: 70 kJ",
+"e": "Energia dissipada"
+},
+{
+"p": "Um carro de 1.000 kg parte do repouso, desce uma ladeira de 10 m de desnível em ponto morto e chega à base a 10 m/s. A energia dissipada na descida foi de 50 kJ (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.000 kg; h = 10 m; v_final = 10 m/s >> Fórmula: E_dissipada = Em_inicial − Em_final >> Conta: Ep = 1.000·10·10 = 100.000 J → Ec final = 1.000·100/2 = 50.000 J → dissipada = 50.000 J >> Confere: sem atrito chegaria a √200 ≈ 14,1 m/s; chegou mais devagar, logo houve dissipação >> Resultado: 50 kJ",
+"e": "Energia dissipada"
+},
+{
+"p": "Um carro de 1.000 kg parte do repouso, desce uma ladeira de 20 m de desnível em ponto morto e chega à base a 15 m/s. A energia dissipada na descida foi de 87,5 kJ (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.000 kg; h = 20 m; v_final = 15 m/s >> Fórmula: E_dissipada = Em_inicial − Em_final >> Conta: Ep = 1.000·10·20 = 200.000 J → Ec final = 1.000·225/2 = 112.500 J → dissipada = 87.500 J >> Confere: sem atrito chegaria a √400 ≈ 20 m/s; chegou mais devagar, logo houve dissipação >> Resultado: 87,5 kJ",
+"e": "Energia dissipada"
+},
+{
+"p": "Um carro de 1.000 kg parte do repouso, desce uma ladeira de 30 m de desnível em ponto morto e chega à base a 10 m/s. A energia dissipada na descida foi de 250 kJ (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.000 kg; h = 30 m; v_final = 10 m/s >> Fórmula: E_dissipada = Em_inicial − Em_final >> Conta: Ep = 1.000·10·30 = 300.000 J → Ec final = 1.000·100/2 = 50.000 J → dissipada = 250.000 J >> Confere: sem atrito chegaria a √600 ≈ 24,5 m/s; chegou mais devagar, logo houve dissipação >> Resultado: 250 kJ",
+"e": "Energia dissipada"
+},
+{
+"p": "Ao frear até parar em pista plana, um veículo de 1.000 kg que estava a 108 km/h transforma 450 kJ de energia cinética em energia potencial gravitacional.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.000 kg; v = 108 km/h = 30 m/s >> Ideia: em pista plana não há variação de altura; a Ec é dissipada pelo atrito (freios, pneus) como calor >> Conta: Ec = 1.000·900/2 = 450.000 J >> Resultado: 450 kJ de calor",
+"e": "Frenagem: Ec → calor"
+},
+{
+"p": "Ao frear até parar em pista plana, um veículo de 1.500 kg que estava a 72 km/h transforma 300 kJ de energia cinética, principalmente em calor.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.500 kg; v = 72 km/h = 20 m/s >> Ideia: em pista plana não há variação de altura; a Ec é dissipada pelo atrito (freios, pneus) como calor >> Conta: Ec = 1.500·400/2 = 300.000 J >> Resultado: 300 kJ de calor",
+"e": "Frenagem: Ec → calor"
+},
+{
+"p": "Ao frear até parar em pista plana, um veículo de 12.000 kg que estava a 72 km/h transforma 2.400 kJ de energia cinética, principalmente em calor.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 12.000 kg; v = 72 km/h = 20 m/s >> Ideia: em pista plana não há variação de altura; a Ec é dissipada pelo atrito (freios, pneus) como calor >> Conta: Ec = 12.000·400/2 = 2.400.000 J >> Resultado: 2.400 kJ de calor",
+"e": "Frenagem: Ec → calor"
+},
+{
+"p": "Ao frear até parar em pista plana, um veículo de 200 kg que estava a 90 km/h transforma 62,5 kJ de energia cinética em energia potencial gravitacional.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 200 kg; v = 90 km/h = 25 m/s >> Ideia: em pista plana não há variação de altura; a Ec é dissipada pelo atrito (freios, pneus) como calor >> Conta: Ec = 200·625/2 = 62.500 J >> Resultado: 62,5 kJ de calor",
+"e": "Frenagem: Ec → calor"
+},
+{
+"p": "Para que um carrinho, partindo do repouso, complete sem atrito um loop de raio 4 m, ele deve partir de altura mínima de 10 m acima da base do loop.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: no topo, a velocidade mínima é √(g·R) (normal nula) >> Fórmula: m·g·H = m·g·2R + m·(g·R)/2 → H = 2,5·R >> Conta: H = 2,5·4 = 10 m >> Atenção: partir da altura do topo (2R) não basta, pois chegaria lá parado >> Resultado: 10 m",
+"e": "Loop: H = 2,5R"
+},
+{
+"p": "Para que um carrinho, partindo do repouso, complete sem atrito um loop de raio 8 m, basta partir de altura igual ao diâmetro do loop, 16 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: no topo, a velocidade mínima é √(g·R) (normal nula) >> Fórmula: m·g·H = m·g·2R + m·(g·R)/2 → H = 2,5·R >> Conta: H = 2,5·8 = 20 m >> Atenção: partir da altura do topo (2R) não basta, pois chegaria lá parado >> Resultado: 20 m",
+"e": "Loop: H = 2,5R"
+},
+{
+"p": "Para que um carrinho, partindo do repouso, complete sem atrito um loop de raio 10 m, basta partir de altura igual ao diâmetro do loop, 20 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: no topo, a velocidade mínima é √(g·R) (normal nula) >> Fórmula: m·g·H = m·g·2R + m·(g·R)/2 → H = 2,5·R >> Conta: H = 2,5·10 = 25 m >> Atenção: partir da altura do topo (2R) não basta, pois chegaria lá parado >> Resultado: 25 m",
+"e": "Loop: H = 2,5R"
+},
+{
+"p": "Para que um carrinho, partindo do repouso, complete sem atrito um loop de raio 12 m, ele deve partir de altura mínima de 30 m acima da base do loop.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: no topo, a velocidade mínima é √(g·R) (normal nula) >> Fórmula: m·g·H = m·g·2R + m·(g·R)/2 → H = 2,5·R >> Conta: H = 2,5·12 = 30 m >> Atenção: partir da altura do topo (2R) não basta, pois chegaria lá parado >> Resultado: 30 m",
+"e": "Loop: H = 2,5R"
+},
+{
+"p": "Um carrinho parte do repouso a 45 m de altura e passa, sem atrito, por um ponto a 25 m. Nesse ponto, sua velocidade é de 20 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: h_inicial = 45 m; h_ponto = 25 m >> Ideia: só o DESNÍVEL entre os pontos vira energia cinética >> Conta: desnível = 45 − 25 = 20 m → v = √(2·10·20) = √400 → v ≈ 20 m/s >> Resultado: ≈ 20 m/s",
+"e": "Desnível entre pontos"
+},
+{
+"p": "Um carrinho parte do repouso a 30 m de altura e passa, sem atrito, por um ponto a 10 m. Nesse ponto, sua velocidade é de 24,5 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: h_inicial = 30 m; h_ponto = 10 m >> Ideia: só o DESNÍVEL entre os pontos vira energia cinética >> Conta: desnível = 30 − 10 = 20 m → v = √(2·10·20) = √400 → v ≈ 20 m/s >> Resultado: ≈ 20 m/s",
+"e": "Desnível entre pontos"
+},
+{
+"p": "Um carrinho parte do repouso a 20 m de altura e passa, sem atrito, por um ponto a 4 m. Nesse ponto, sua velocidade é de 17,9 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: h_inicial = 20 m; h_ponto = 4 m >> Ideia: só o DESNÍVEL entre os pontos vira energia cinética >> Conta: desnível = 20 − 4 = 16 m → v = √(2·10·16) = √320 → v ≈ 17,9 m/s >> Resultado: ≈ 17,9 m/s",
+"e": "Desnível entre pontos"
+},
+{
+"p": "Um carrinho parte do repouso a 50 m de altura e passa, sem atrito, por um ponto a 30 m. Nesse ponto, sua velocidade é de 20 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: h_inicial = 50 m; h_ponto = 30 m >> Ideia: só o DESNÍVEL entre os pontos vira energia cinética >> Conta: desnível = 50 − 30 = 20 m → v = √(2·10·20) = √400 → v ≈ 20 m/s >> Resultado: ≈ 20 m/s",
+"e": "Desnível entre pontos"
+},
+{
+"p": "Um veículo de 1.000 kg a 30 m/s tem energia cinética maior que a de outro, de 10.000 kg, a 10 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Ec = m·v²/2 >> Conta: primeiro: 1.000·900/2 = 450.000 J → segundo: 10.000·100/2 = 500.000 J >> Resultado: o segundo tem mais energia",
+"e": "Comparar Ec"
+},
+{
+"p": "Um veículo de 1.200 kg a 20 m/s tem energia cinética maior que a de outro, de 4.800 kg, a 10 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Ec = m·v²/2 >> Conta: primeiro: 1.200·400/2 = 240.000 J → segundo: 4.800·100/2 = 240.000 J >> Resultado: as energias são iguais",
+"e": "Comparar Ec"
+},
+{
+"p": "Um veículo de 200 kg a 40 m/s tem energia cinética maior que a de outro, de 1.600 kg, a 10 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Ec = m·v²/2 >> Conta: primeiro: 200·1600/2 = 160.000 J → segundo: 1.600·100/2 = 80.000 J >> Resultado: o primeiro tem mais energia",
+"e": "Comparar Ec"
+},
+{
+"p": "Na frenagem convencional, a transformação principal é de energia potencial gravitacional da água em energia elétrica.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: essa transformação ocorre em outro sistema (Na usina hidrelétrica). Na frenagem convencional, transforma-se energia cinética em energia térmica.",
+"e": "Na frenagem convencional: energia cinética em energia térmica"
+},
+{
+"p": "Na usina hidrelétrica, a transformação principal é de energia química do combustível em energia térmica e mecânica.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: essa transformação ocorre em outro sistema (No motor a combustão). Na usina hidrelétrica, transforma-se energia potencial gravitacional da água em energia elétrica.",
+"e": "Na usina hidrelétrica: energia potencial gravitacional da água em energia elétrica"
+},
+{
+"p": "No motor a combustão, a transformação principal é de parte da energia cinética em energia elétrica.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: essa transformação ocorre em outro sistema (Na frenagem regenerativa). No motor a combustão, transforma-se energia química do combustível em energia térmica e mecânica.",
+"e": "No motor a combustão: energia química do combustível em energia térmica e mecânica"
+},
+{
+"p": "Na frenagem regenerativa, a transformação principal é de energia cinética em energia potencial gravitacional e térmica.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: essa transformação ocorre em outro sistema (Na rampa de escape em aclive). Na frenagem regenerativa, transforma-se parte da energia cinética em energia elétrica.",
+"e": "Na frenagem regenerativa: parte da energia cinética em energia elétrica"
+},
+{
+"p": "No painel fotovoltaico, a transformação principal é de energia potencial gravitacional da água em energia elétrica.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: essa transformação ocorre em outro sistema (Na usina hidrelétrica). No painel fotovoltaico, transforma-se energia luminosa em energia elétrica.",
+"e": "No painel fotovoltaico: energia luminosa em energia elétrica"
+},
+{
+"p": "Na rampa de escape em aclive, a transformação principal é de energia cinética em energia potencial gravitacional e térmica.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: associação correta >> Resultado: Na rampa de escape em aclive: energia cinética em energia potencial gravitacional e térmica",
+"e": "Na rampa de escape em aclive: energia cinética em energia potencial gravitacional e térmica"
+},
+{
+"p": "A energia hidráulica é considerado(a) fonte renovável de energia.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: fontes renováveis se recompõem em escala de tempo humana; os combustíveis fósseis levaram milhões de anos para se formar >> Resultado: energia hidráulica: renovável",
+"e": "Renováveis x não renováveis"
+},
+{
+"p": "A energia solar é considerado(a) fonte renovável de energia.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: fontes renováveis se recompõem em escala de tempo humana; os combustíveis fósseis levaram milhões de anos para se formar >> Resultado: energia solar: renovável",
+"e": "Renováveis x não renováveis"
+},
+{
+"p": "A energia eólica é considerado(a) fonte renovável de energia.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: fontes renováveis se recompõem em escala de tempo humana; os combustíveis fósseis levaram milhões de anos para se formar >> Resultado: energia eólica: renovável",
+"e": "Renováveis x não renováveis"
+},
+{
+"p": "O petróleo é considerado(a) fonte renovável de energia.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: fontes renováveis se recompõem em escala de tempo humana; os combustíveis fósseis levaram milhões de anos para se formar >> Resultado: petróleo: não renovável",
+"e": "Renováveis x não renováveis"
+},
+{
+"p": "O carvão mineral é considerado(a) fonte renovável de energia.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: fontes renováveis se recompõem em escala de tempo humana; os combustíveis fósseis levaram milhões de anos para se formar >> Resultado: carvão mineral: não renovável",
+"e": "Renováveis x não renováveis"
+},
+{
+"p": "A biomassa da cana-de-açúcar é considerado(a) fonte renovável de energia.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: fontes renováveis se recompõem em escala de tempo humana; os combustíveis fósseis levaram milhões de anos para se formar >> Resultado: biomassa da cana-de-açúcar: renovável",
+"e": "Renováveis x não renováveis"
+},
+{
+"p": "O gás natural é considerado(a) fonte renovável de energia.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: fontes renováveis se recompõem em escala de tempo humana; os combustíveis fósseis levaram milhões de anos para se formar >> Resultado: gás natural: não renovável",
+"e": "Renováveis x não renováveis"
+},
+{
+"p": "Onde não houver sinalização regulamentadora, a velocidade máxima nas vias urbanas locais é de 30 km/h, segundo o CTB.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: CTB, art. 61, vias urbanas: 80 (trânsito rápido), 60 (arterial), 40 (coletora), 30 (local) >> Resultado: vias urbanas locais: 30 km/h",
+"e": "Limites urbanos do CTB"
+},
+{
+"p": "Onde não houver sinalização regulamentadora, a velocidade máxima nas vias urbanas coletoras é de 40 km/h, segundo o CTB.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: CTB, art. 61, vias urbanas: 80 (trânsito rápido), 60 (arterial), 40 (coletora), 30 (local) >> Resultado: vias urbanas coletoras: 40 km/h",
+"e": "Limites urbanos do CTB"
+},
+{
+"p": "Onde não houver sinalização regulamentadora, a velocidade máxima nas vias urbanas arteriais é de 60 km/h, segundo o CTB.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: CTB, art. 61, vias urbanas: 80 (trânsito rápido), 60 (arterial), 40 (coletora), 30 (local) >> Resultado: vias urbanas arteriais: 60 km/h",
+"e": "Limites urbanos do CTB"
+},
+{
+"p": "Onde não houver sinalização regulamentadora, a velocidade máxima nas vias urbanas de trânsito rápido é de 80 km/h, segundo o CTB.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: CTB, art. 61, vias urbanas: 80 (trânsito rápido), 60 (arterial), 40 (coletora), 30 (local) >> Resultado: vias urbanas de trânsito rápido: 80 km/h",
+"e": "Limites urbanos do CTB"
+},
+{
+"p": "Segundo o princípio da conservação da energia, a energia total de um sistema isolado permanece constante, podendo apenas transformar-se de uma forma em outra.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: energia não se cria nem se destrói >> Ideia: com atrito, a energia mecânica diminui, mas a diferença aparece como energia térmica >> Resultado: certo",
+"e": "Conservação da energia"
+},
+{
+"p": "Quando há atrito, a energia total de um sistema isolado diminui.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o atrito transforma energia mecânica em térmica >> Ideia: a energia mecânica diminui; a total se mantém >> Resultado: errado",
+"e": "Energia total x mecânica"
+},
+{
+"p": "A energia cinética de um corpo pode assumir valores negativos quando ele se move em sentido contrário ao adotado como positivo.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Ec = m·v²/2 >> Ideia: v² é sempre positivo; o sentido não altera a energia >> Resultado: Ec ≥ 0 sempre",
+"e": "Ec nunca é negativa"
+},
+{
+"p": "A energia potencial gravitacional de um corpo pode ser negativa, se ele estiver abaixo do nível de referência adotado.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Ep = m·g·h, com h negativo abaixo da referência >> Ideia: o valor depende da referência; as variações, não >> Resultado: certo",
+"e": "Ep depende da referência"
+},
+{
+"p": "Desprezados os atritos, dois veículos de massas diferentes que descem, a partir do repouso, a mesma ladeira chegam à base com a mesma velocidade.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: m·g·h = m·v²/2 → v = √(2gh) >> Ideia: a massa se cancela >> Resultado: certo; o mais pesado chega com mais energia, mas com a mesma velocidade",
+"e": "v independe da massa"
+},
+{
+"p": "Desprezados os atritos, um corpo que desce uma rampa mais íngreme chega à base com velocidade maior que outro que desce uma rampa suave de mesmo desnível.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: sem atrito, só o desnível importa: v = √(2gh) >> Ideia: a inclinação muda o tempo de descida, não a velocidade final >> Resultado: velocidades iguais",
+"e": "Só o desnível importa"
+},
+{
+"p": "Na frenagem convencional de um veículo em pista plana, a energia cinética é transformada principalmente em energia térmica nos freios e pneus.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o atrito realiza trabalho negativo e aquece as superfícies em contato >> Resultado: certo",
+"e": "Frenagem: calor"
+},
+{
+"p": "Descer uma serra em ponto morto (\"banguela\") é seguro e econômico, pois o motor deixa de dissipar a energia potencial do veículo.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: justamente por isso o freio-motor desaparece e toda a energia a dissipar vai para os freios, que superaquecem >> Ideia: além do risco, é infração prevista no CTB >> Resultado: errado",
+"e": "Banguela"
+},
+{
+"p": "O amortecedor da suspensão transforma em calor a energia armazenada nas molas durante as oscilações, mantendo os pneus em contato com a pista.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: sem amortecimento, a mola trocaria energia elástica e cinética indefinidamente >> Resultado: certo",
+"e": "Amortecedor"
+},
+{
+"p": "Numa rampa de escape em aclive, parte da energia cinética do caminhão se converte em energia potencial gravitacional, e o restante é dissipado pelo material solto.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: subir aumenta a Ep; cascalho ou areia dissipam energia por atrito e deformação >> Resultado: certo",
+"e": "Rampa de escape"
+},
+{
+"p": "Um motor a combustão converte a maior parte da energia química do combustível em energia mecânica.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o rendimento típico é de 25% a 35% >> Resultado: a maior parte vira calor",
+"e": "Rendimento do motor"
+},
+{
+"p": "A velocidade calculada pelas marcas de frenagem representa uma velocidade mínima do veículo, pois não inclui a energia dissipada em outras etapas, como no impacto.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a energia inicial é a soma das energias dissipadas em todas as fases >> Resultado: certo",
+"e": "Velocidade mínima pericial"
+},
+{
+"p": "Um bloco de 2 kg desce, do repouso, uma rampa sem atrito de 1,8 m de altura e percorre 2 m de piso com coeficiente de atrito 0,25, antes de comprimir uma mola. A energia que chega à mola é de (g = 10 m/s²)",
+"alts": [
+"36 J",
+"26 J",
+"10 J",
+"46 J",
+"18 J"
+],
+"r": 1,
+"n": [
+"Ignorou o atrito no piso.",
+"Correta.",
+"É a energia dissipada.",
+"Somou a dissipação.",
+"Não confere."
+],
+"x": "Dados: m = 2 kg; h = 1,8 m; d = 2 m; μ = 0,25 >> Conta: Ep inicial = 2·10·1,8 = 36 J → dissipada no piso = 0,25·2·10·2 = 10 J → para a mola: 36 − 10 = 26 J >> Resultado: 26 J",
+"e": "Balanço por etapas"
+}
+]
+},
+"movimento-circular": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>v = ω·R</b><span>ponte entre o movimento angular e o linear</span></div><div class=\"lt-stat\"><b>ω = 2πf</b><span>velocidade angular e frequência</span></div><div class=\"lt-stat\"><b>a_cp = v²/R</b><span>aceleração que \"puxa\" para o centro</span></div><div class=\"lt-stat\"><b>√(μgR)</b><span>velocidade máxima numa curva plana</span></div></div>\n<p>O movimento circular é o segundo item do edital de Física da PRF. Ele aparece toda vez que um veículo faz uma curva, que uma roda gira, que uma polia transmite movimento ou que um motor indica rotações por minuto. As questões cobram as <b>grandezas angulares</b> (período, frequência, velocidade angular), a relação <b>v = ω·R</b>, a <b>aceleração centrípeta</b>, a <b>transmissão de movimento</b> entre polias e engrenagens e a <b>dinâmica das curvas</b>: por que um carro derrapa, qual a velocidade máxima numa curva, o que muda numa lombada ou numa pista inclinada. Esta leitura apresenta cada conceito com contas passo a passo e aplicações ao trânsito.</p>\n<h3>1. Grandezas do movimento circular</h3>\n<ul><li><b>Movimento circular</b>: trajetória em forma de circunferência (ou arco de circunferência) de raio R. Uma curva de rodovia é, aproximadamente, um arco de circunferência.</li><li><b>Período (T)</b>: tempo para completar <b>uma volta</b>. Unidade: segundo.</li><li><b>Frequência (f)</b>: número de voltas por unidade de tempo. No SI, em <b>hertz (Hz)</b> = voltas por segundo. Em motores, usa-se <b>rpm</b> (rotações por minuto): <b>rpm ÷ 60 = Hz</b>.</li><li><b>Relação</b>: <b>f = 1/T</b> e <b>T = 1/f</b>. Uma roda que dá 5 voltas por segundo (5 Hz) tem período de 0,2 s.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Convertendo rpm</b><ol><li><span>Um motor gira a 3.000 rpm. Qual a frequência em Hz e o período?</span></li><li><span>f = 3.000 ÷ 60 = 50 Hz</span></li><li><span>T = 1/50 = 0,02 s</span></li></ol><span class=\"res\">50 Hz; uma volta a cada 0,02 s</span></div>\n<ul><li><b>Ângulo em radianos</b>: a medida natural de ângulo no movimento circular. Um ângulo de <b>1 radiano</b> é aquele cujo arco tem comprimento igual ao raio. Uma volta completa = <b>2π rad</b> (≈ 6,28 rad) = 360°. Relações úteis: 180° = π rad; 90° = π/2 rad.</li><li><b>Arco percorrido</b>: s = φ·R, com φ em radianos. Em uma volta, s = 2πR (o perímetro).</li><li><b>Velocidade angular (ω)</b>: rapidez com que o ângulo varia: ω = Δφ/Δt, em <b>rad/s</b>. Numa volta completa, <b>ω = 2π/T = 2π·f</b>.</li><li><b>Velocidade linear (escalar) v</b>: rapidez ao longo da trajetória, em m/s. A ponte entre as duas é <b>v = ω·R</b>: para a mesma rotação, pontos mais afastados do centro andam <b>mais depressa</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Roda de um carro</b><ol><li><span>Uma roda de raio 0,3 m gira a 10 voltas por segundo (sem deslizar). Qual a velocidade do carro?</span></li><li><span>ω = 2π·f = 2π·10 ≈ 62,8 rad/s</span></li><li><span>v = ω·R = 62,8 · 0,3 ≈ 18,8 m/s</span></li><li><span>Em km/h: 18,8 × 3,6 ≈ 68 km/h</span></li></ol><span class=\"res\">O carro anda a ≈ 18,8 m/s (68 km/h)</span></div>\n<ul><li><b>Por que v = ω·R?</b> Em uma volta, o ponto percorre 2πR no tempo T; logo v = 2πR/T = (2π/T)·R = ω·R.</li></ul>\n<table class=\"tab\"><thead><tr><th>Grandeza</th><th>Símbolo</th><th>Unidade</th><th>Fórmulas</th></tr></thead><tbody><tr><td>Período</td><td>T</td><td>s</td><td>T = 1/f</td></tr><tr><td>Frequência</td><td>f</td><td>Hz (1/s); rpm</td><td>f = 1/T; Hz = rpm/60</td></tr><tr><td>Velocidade angular</td><td>ω</td><td>rad/s</td><td>ω = 2π/T = 2πf</td></tr><tr><td>Velocidade linear</td><td>v</td><td>m/s</td><td>v = ω·R = 2πR/T</td></tr><tr><td>Aceleração centrípeta</td><td>a_cp</td><td>m/s²</td><td>a_cp = v²/R = ω²·R</td></tr></tbody></table>\n<ul><li><b>Mesmo ω, raios diferentes</b>: num disco que gira, <b>todos os pontos</b> têm o mesmo período, a mesma frequência e a mesma velocidade angular; mas a velocidade linear cresce com o raio. A borda de um disco de vinil anda mais rápido que um ponto perto do centro, embora ambos deem uma volta no mesmo tempo.</li><li><b>Sobre a Terra</b>: todos os pontos da superfície giram com o mesmo período (cerca de 24 h), mas a velocidade linear é maior no equador (maior raio de giro) e quase nula perto dos polos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Num disco girando, os pontos da borda têm velocidade angular maior que os pontos próximos do centro</span><br>✅ <span class=\"certo\">todos têm a <b>mesma ω</b>; os da borda têm maior <b>velocidade linear</b> (v = ω·R)</span></li><li>❌ <span class=\"banca\">Um motor a 1.200 rpm tem frequência de 1.200 Hz</span><br>✅ <span class=\"certo\">rpm ÷ 60: <b>20 Hz</b></span></li><li>❌ <span class=\"banca\">Uma volta completa corresponde a π radianos</span><br>✅ <span class=\"certo\">uma volta = <b>2π rad</b>; π rad = meia volta (180°)</span></li></ol></div>\n<h3>2. Movimento circular uniforme (MCU)</h3>\n<ul><li>No <b>MCU</b>, o corpo percorre arcos iguais em tempos iguais: <b>v e ω são constantes</b>, e o movimento é <b>periódico</b>.</li><li><b>Mas há aceleração</b>: a velocidade é um vetor tangente à trajetória, e sua <b>direção muda continuamente</b>. Toda mudança de velocidade, inclusive só de direção, exige aceleração.</li><li><b>Aceleração centrípeta</b>: aponta <b>para o centro</b> da circunferência e tem módulo <b>a_cp = v²/R = ω²·R</b>. Ela não altera o módulo da velocidade; apenas a faz \"virar\".</li><li><b>No MCU, a aceleração tangencial é nula</b> (o velocímetro não muda); a aceleração vetorial total é a centrípeta.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Aceleração numa curva</b><ol><li><span>Um carro faz uma curva de raio 100 m a 72 km/h, com velocidade constante</span></li><li><span>Converta: 72 km/h = 20 m/s</span></li><li><span>a_cp = v²/R = 400/100 = 4 m/s²</span></li><li><span>Comparação: 4/10 = 0,4 g</span></li></ol><span class=\"res\">Aceleração centrípeta de 4 m/s², dirigida ao centro da curva</span></div>\n<ul><li><b>Efeito da velocidade</b>: como a_cp = v²/R, <b>dobrar a velocidade quadruplica</b> a aceleração centrípeta (e a força necessária para fazer a curva). <b>Reduzir o raio à metade dobra</b> a aceleração. Por isso curvas fechadas (raio pequeno) exigem velocidades bem menores.</li><li><b>Função horária angular do MCU</b>: φ = φ₀ + ω·t, análoga à do MRU (s = s₀ + v·t).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No movimento circular uniforme, a aceleração do corpo é nula, pois o módulo da velocidade é constante</span><br>✅ <span class=\"certo\">há aceleração <b>centrípeta</b>, porque a <b>direção</b> da velocidade muda</span></li><li>❌ <span class=\"banca\">A aceleração centrípeta aponta para fora da curva</span><br>✅ <span class=\"certo\">aponta <b>para o centro</b> da curva</span></li><li>❌ <span class=\"banca\">Se a velocidade numa curva dobrar, a aceleração centrípeta também dobrará</span><br>✅ <span class=\"certo\">a_cp = v²/R: <b>quadruplica</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>f e T</span></span><span class=\"vs\"><span>f = 1/T; rpm ÷ 60 = Hz</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade angular</span></span><span class=\"vs\"><span>ω = 2π/T = 2πf (rad/s)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ponte angular-linear</span></span><span class=\"vs\"><span>v = ω·R</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aceleração centrípeta</span></span><span class=\"vs\"><span>a_cp = v²/R = ω²R, para o centro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MCU</span></span><span class=\"vs\"><span>v constante em módulo, mas com aceleração centrípeta</span></span></button></div></div>\n<h3>3. Treino extra: do básico ao nível de prova</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 1</b><ol><li><span>Um pneu de raio 0,32 m gira a 15 Hz sem deslizar. Qual a velocidade do veículo?</span></li><li><span>ω = 2π·15 ≈ 94,2 rad/s</span></li><li><span>v = 94,2·0,32 ≈ 30,2 m/s</span></li></ol><span class=\"res\">≈ 30 m/s (≈ 109 km/h)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 2</b><ol><li><span>A que frequência deve girar uma roda de raio 0,25 m para que o carro ande a 90 km/h?</span></li><li><span>90 km/h = 25 m/s</span></li><li><span>ω = v/R = 100 rad/s</span></li><li><span>f = ω/2π ≈ 15,9 Hz</span></li></ol><span class=\"res\">≈ 15,9 Hz (≈ 955 rpm)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 3</b><ol><li><span>A aceleração centrípeta de um carro numa curva de raio 60 m é 6 m/s². Qual sua velocidade?</span></li><li><span>v² = a·R = 360</span></li><li><span>v ≈ 19 m/s</span></li></ol><span class=\"res\">≈ 19 m/s (≈ 68 km/h)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 4</b><ol><li><span>Que raio mínimo deve ter uma curva plana para ser feita a 108 km/h com μ = 0,6?</span></li><li><span>v² = μgR → R = v²/(μg)</span></li><li><span>R = 900/6</span></li></ol><span class=\"res\">R = 150 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 5</b><ol><li><span>Em uma curva, a força de atrito lateral máxima é 6.000 N para um carro de 1.200 kg. Com raio 30 m, qual a velocidade máxima?</span></li><li><span>m·v²/R = 6.000 → v² = 6.000·30/1.200 = 150</span></li><li><span>v ≈ 12,2 m/s</span></li></ol><span class=\"res\">≈ 12,2 m/s (≈ 44 km/h)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 6</b><ol><li><span>No fundo de uma valeta de raio 25 m, a normal sobre um carro de 800 kg é de 12.000 N. Qual a velocidade?</span></li><li><span>N − mg = mv²/R → 12.000 − 8.000 = 800·v²/25</span></li><li><span>v² = 125 → v ≈ 11,2 m/s</span></li></ol><span class=\"res\">≈ 11,2 m/s (≈ 40 km/h)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 7</b><ol><li><span>Duas polias coaxiais de raios 10 cm e 30 cm giram a 120 rpm. Qual a velocidade linear da borda de cada uma?</span></li><li><span>f = 2 Hz; ω = 4π ≈ 12,6 rad/s</span></li><li><span>v₁ = 12,6·0,1 ≈ 1,26 m/s; v₂ = 12,6·0,3 ≈ 3,77 m/s</span></li></ol><span class=\"res\">1,26 m/s e 3,77 m/s (mesma ω, v proporcional ao raio)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 8</b><ol><li><span>Engrenagem A (20 dentes) a 900 rpm aciona B (60 dentes), que está no mesmo eixo de C (10 dentes), que aciona D (50 dentes). Rotação de D?</span></li><li><span>B: 900·20/60 = 300 rpm</span></li><li><span>C = B (mesmo eixo) = 300 rpm</span></li><li><span>D: 300·10/50 = 60 rpm</span></li></ol><span class=\"res\">60 rpm</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 9</b><ol><li><span>Uma pedra de 0,5 kg gira presa a um fio de 1 m, em círculo horizontal, a 4 m/s (despreze o peso). Qual a tração?</span></li><li><span>T = m·v²/R = 0,5·16/1</span></li></ol><span class=\"res\">T = 8 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 10</b><ol><li><span>Um carro descreve um quarto de volta numa rotatória de raio 20 m em 4 s, com velocidade escalar constante. Qual a velocidade escalar e o módulo do deslocamento vetorial?</span></li><li><span>Arco: (π/2)·20 ≈ 31,4 m → v ≈ 7,85 m/s</span></li><li><span>Deslocamento: corda de 90° = R·√2 ≈ 28,3 m</span></li></ol><span class=\"res\">v ≈ 7,85 m/s; deslocamento ≈ 28,3 m</span></div>\n<h3>4. O movimento circular nos equipamentos do dia a dia</h3>\n<ul><li><b>Discos de freio</b>: giram junto com a roda; as pastilhas, ao apertá-los, transformam energia cinética em calor. Em descidas longas, o uso contínuo superaquece os discos e reduz o atrito (*fading*); por isso se recomenda usar o <b>freio-motor</b> (marcha reduzida).</li><li><b>Hélices, turbinas e ventiladores</b>: a velocidade linear cresce com o raio; nas pontas das pás de um avião ou de um aerogerador, pode chegar perto da velocidade do som, o que limita o tamanho e a rotação.</li><li><b>Discos rígidos, CDs e drones</b>: drones controlam a posição variando a rotação de cada hélice; HDs giram a milhares de rpm com velocidade angular constante.</li><li><b>Rotação da Terra</b>: período de cerca de 24 h; velocidade angular ω ≈ 7,3 × 10⁻⁵ rad/s. No equador (R ≈ 6.400 km), a velocidade linear é ≈ 465 m/s (≈ 1.670 km/h). Não percebemos esse movimento porque ele é praticamente uniforme e todos ao nosso redor participam dele.</li><li><b>Radar e antenas giratórias</b>: o radar de vigilância gira com período constante e \"varre\" o espaço; o intervalo entre duas detecções do mesmo alvo é o período de rotação da antena.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A velocidade linear dos pontos da superfície terrestre é a mesma em todas as latitudes, pois todos completam uma volta em 24 h</span><br>✅ <span class=\"certo\">a velocidade <b>angular</b> é a mesma; a <b>linear</b> é máxima no equador e quase nula perto dos polos</span></li><li>❌ <span class=\"banca\">O freio-motor é recomendado em descidas longas porque aumenta o atrito entre pastilhas e discos</span><br>✅ <span class=\"certo\">o freio-motor <b>poupa</b> os freios, evitando o superaquecimento dos discos (*fading*)</span></li></ol></div>\n<h3>5. Questões conceituais em forma de diálogo</h3>\n<ul><li><b>\"Se estou a 60 km/h constantes na curva, por que o GPS registra aceleração?\"</b> Porque a direção da velocidade muda: há aceleração centrípeta, v²/R.</li><li><b>\"Por que o carro sai pela tangente e não 'para fora' da curva?\"</b> Porque, sem força centrípeta suficiente, nada desvia o veículo da linha reta que ele seguiria por inércia naquele instante: a tangente.</li><li><b>\"Por que um caminhão vazio e um cheio têm, na teoria, a mesma velocidade máxima de curva plana?\"</b> Porque o atrito máximo (μ·m·g) e a força necessária (m·v²/R) crescem na mesma proporção com a massa. Na prática, a carga eleva o centro de massa e aumenta o risco de tombamento.</li><li><b>\"Por que se reduz antes da curva, e não dentro dela?\"</b> Porque o atrito do pneu é dividido entre frear e curvar; frear forte dentro da curva pode esgotar a aderência.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Raio mínimo de curva</span></span><span class=\"vs\"><span>R = v²/(μg)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Engrenagens no mesmo eixo</span></span><span class=\"vs\"><span>Mesma rotação</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade no equador</span></span><span class=\"vs\"><span>≈ 465 m/s</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Freio-motor</span></span><span class=\"vs\"><span>Evita superaquecer os freios</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sai pela tangente</span></span><span class=\"vs\"><span>Inércia</span></span></button></div></div>\n<h3>6. Revisão relâmpago: perguntas e respostas</h3>\n<ul><li><b>O que é período?</b> O tempo de uma volta completa (s).</li><li><b>O que é frequência?</b> Quantas voltas por segundo (Hz); em motores, por minuto (rpm). f = 1/T.</li><li><b>Como passar de rpm para rad/s?</b> Divida por 60 (obtém Hz) e multiplique por 2π: 600 rpm = 10 Hz = 20π ≈ 62,8 rad/s.</li><li><b>O que a velocidade angular mede?</b> Quantos radianos o corpo \"varre\" por segundo: ω = Δφ/Δt.</li><li><b>Qual a ponte entre o angular e o linear?</b> v = ω·R; a_cp = ω²·R.</li><li><b>No MCU, o que é constante?</b> O <b>módulo</b> da velocidade, a velocidade angular, o período, a frequência e o módulo da aceleração centrípeta. <b>Não</b> são constantes o <b>vetor</b> velocidade e o <b>vetor</b> aceleração (mudam de direção).</li><li><b>Para onde aponta a aceleração centrípeta?</b> Sempre para o centro da curva, perpendicular à velocidade.</li><li><b>O que acontece com a força necessária se a velocidade triplicar?</b> Fica <b>nove</b> vezes maior.</li><li><b>E se o raio da curva cair à metade (mesma velocidade)?</b> A força necessária <b>dobra</b>.</li><li><b>Quem é a força centrípeta numa curva plana?</b> O atrito estático lateral.</li><li><b>E numa curva inclinada sem atrito?</b> A componente horizontal da normal.</li><li><b>No topo de uma lombada, a normal é maior ou menor que o peso?</b> Menor.</li><li><b>E no fundo de uma valeta?</b> Maior.</li><li><b>Velocidade mínima no topo de um loop?</b> √(g·R).</li><li><b>Em polias ligadas por correia, o que é igual?</b> A velocidade linear da periferia; a menor gira mais rápido.</li><li><b>Em polias no mesmo eixo?</b> A velocidade angular (e a frequência).</li><li><b>Por que trocar o pneu por um maior engana o velocímetro?</b> Porque ele mede rotação e supõe o raio original; com raio maior, o carro anda mais que o indicado.</li><li><b>A força centrífuga existe?</b> Não como força real num referencial inercial; é a manifestação da inércia vista de dentro do veículo.</li></ul>\n<h3>7. Unidades e ordens de grandeza para checar respostas</h3>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Valor típico</th></tr></thead><tbody><tr><td>Aceleração centrípeta numa curva rodoviária confortável</td><td>1 a 3 m/s² (0,1 a 0,3 g)</td></tr><tr><td>Limite de aderência em pista seca</td><td>≈ 7 a 9 m/s²</td></tr><tr><td>Limite em pista molhada</td><td>≈ 3 a 5 m/s²</td></tr><tr><td>Rotação de motor em marcha lenta</td><td>700 a 900 rpm</td></tr><tr><td>Rotação de roda de carro a 100 km/h</td><td>≈ 15 Hz (≈ 900 rpm)</td></tr><tr><td>Raio de rotatória urbana</td><td>15 a 40 m</td></tr><tr><td>Raio de curva de rodovia de alta velocidade</td><td>centenas de metros</td></tr></tbody></table>\n<ul><li>Se a sua conta de aceleração centrípeta deu 50 m/s² para um carro de passeio, <b>algo está errado</b> (provavelmente faltou converter km/h). Se a rotação de uma roda deu 50.000 rpm, idem.</li></ul>\n<h3>8. Relação com os outros tópicos de Física</h3>\n<ul><li><b>Cinemática</b>: v = ω·R conecta as grandezas angulares à velocidade estudada no primeiro tópico; a aceleração centrípeta é a componente \"normal\" da aceleração vetorial.</li><li><b>Leis de Newton</b>: a força centrípeta é a aplicação da 2ª lei (F = m·a) quando a aceleração é centrípeta; a \"força centrífuga\" é a 1ª lei (inércia) vista de dentro do carro.</li><li><b>Energia</b>: no loop e na montanha-russa, combina-se a conservação de energia (para achar a velocidade em cada ponto) com a dinâmica circular (para achar a normal).</li><li><b>Trabalho</b>: a força centrípeta, por ser perpendicular à velocidade, <b>não realiza trabalho</b> e não muda a energia cinética; por isso, no MCU, a velocidade escalar fica constante.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A força centrípeta realiza trabalho positivo sobre o corpo em MCU, aumentando sua energia cinética</span><br>✅ <span class=\"certo\">por ser <b>perpendicular</b> ao deslocamento, a força centrípeta <b>não realiza trabalho</b>; a energia cinética fica constante</span></li><li>❌ <span class=\"banca\">No MCU, o vetor velocidade é constante</span><br>✅ <span class=\"certo\">só o <b>módulo</b> é constante; a <b>direção</b> muda a cada instante</span></li><li>❌ <span class=\"banca\">600 rpm correspondem a 600 rad/s</span><br>✅ <span class=\"certo\">600 rpm = 10 Hz = <b>20π ≈ 62,8 rad/s</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>rpm → rad/s</span></span><span class=\"vs\"><span>÷ 60 × 2π</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MCU: o que é constante</span></span><span class=\"vs\"><span>Módulo de v, ω, T, f, módulo de a_cp</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Raio à metade</span></span><span class=\"vs\"><span>Força necessária dobra</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Força centrípeta</span></span><span class=\"vs\"><span>Não realiza trabalho</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>100 km/h na roda de carro</span></span><span class=\"vs\"><span>≈ 15 Hz</span></span></button></div></div>\n<h3>9. Três situações reais explicadas pela física</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ônibus que tomba na rotatória</b><p>Um ônibus de turismo, com bagageiro superior carregado, tomba ao contornar uma rotatória a cerca de 40 km/h, sem derrapar. O que a física explica?</p><details><summary>Ver a solução comentada</summary><p>A carga no alto <b>elevou o centro de massa</b>. Na curva, a força de atrito lateral (que atua na altura do solo) e a tendência inercial do conjunto (aplicada no centro de massa) formam um giro em torno das rodas externas. Com o centro de massa mais alto, a velocidade de tombamento, v² = g·R·d/(2h), fica menor, e o veículo tomba antes de atingir o limite de derrapagem.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Moto que \"abre\" a curva na chuva</b><p>Um motociclista, que fazia a curva a 60 km/h inclinado em ângulo confortável, perde a trajetória ao passar por uma faixa pintada molhada no meio da curva. Por quê?</p><details><summary>Ver a solução comentada</summary><p>A tinta molhada tem <b>coeficiente de atrito muito menor</b>. O ângulo de inclinação exigido (tg θ = v²/gR) continuava o mesmo, mas o atrito disponível (μ·N) deixou de ser suficiente para fornecer a força centrípeta. Sem ela, o conjunto segue mais reto (para fora da curva) e escorrega.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Carro que \"flutua\" no topo da elevação</b><p>Na descida de uma serra, há uma sequência de elevações curtas. Um condutor sente o carro \"flutuar\" e a direção ficar leve no alto de cada uma. Qual a explicação e o risco?</p><details><summary>Ver a solução comentada</summary><p>No topo, N = m·g − m·v²/R: a normal diminui com a velocidade. Com normal menor, o <b>atrito máximo</b> (μ·N) também cai, e frear ou esterçar ali é menos eficiente. Se v² se aproxima de g·R, o carro pode perder o contato com a pista. Reduzir a velocidade antes das elevações devolve a aderência.</p></details></div>\n<ul><li><b>O que essas três situações têm em comum?</b> Em todas, o veículo precisava de uma força centrípeta que <b>o contato pneu-pista não conseguiu fornecer</b> (por atrito insuficiente ou normal reduzida), ou a força foi suficiente, mas aplicada de forma a <b>girar</b> o veículo (tombamento). Velocidade adequada, carga baixa e bem presa, pneus bons e atenção à pista são as respostas práticas.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carga alta</span></span><span class=\"vs\"><span>Tomba em velocidade menor</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Faixa pintada molhada</span></span><span class=\"vs\"><span>Atrito menor: perde a curva</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Topo de elevação</span></span><span class=\"vs\"><span>Normal menor, atrito menor</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Resposta comum</span></span><span class=\"vs\"><span>Reduzir antes da curva/elevação</span></span></button></div></div>\n<h3>10. Força centrípeta: quem \"segura\" o corpo na curva</h3>\n<ul><li>Pela 2ª lei de Newton, se há aceleração centrípeta, há uma <b>força resultante centrípeta</b>: <b>F_cp = m·a_cp = m·v²/R</b>, apontada para o centro.</li><li><b>A força centrípeta não é uma força nova</b>: é o <b>papel</b> desempenhado pela resultante das forças reais na direção do centro. Em cada situação, alguma força (ou combinação) faz esse papel:</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Quem faz o papel de força centrípeta</th></tr></thead><tbody><tr><td>Carro numa curva plana</td><td><b>atrito</b> lateral entre pneus e pista</td></tr><tr><td>Satélite em órbita</td><td><b>força gravitacional</b></td></tr><tr><td>Pedra girando presa a um barbante</td><td><b>tração</b> no barbante</td></tr><tr><td>Carro numa curva inclinada (sobrelevada)</td><td>componente horizontal da <b>normal</b> (e, se preciso, do atrito)</td></tr><tr><td>Moto no globo da morte, no topo</td><td><b>peso + normal</b></td></tr><tr><td>Elétron em torno do núcleo (modelo clássico)</td><td>força elétrica</td></tr></tbody></table>\n<ul><li><b>E a \"força centrífuga\"?</b> Quem está <b>dentro</b> do carro sente-se \"jogado para fora\" da curva. Não há força real empurrando para fora: o corpo tende, por <b>inércia</b>, a seguir em linha reta (tangente), enquanto o carro curva para dentro. A \"força centrífuga\" é uma <b>força fictícia</b>, usada apenas por quem descreve o movimento a partir do referencial do próprio carro (não inercial).</li><li><b>Se a força centrípeta desaparecer</b> (o barbante arrebenta, o pneu perde aderência), o corpo sai pela <b>tangente</b> à curva, em linha reta, e <b>não</b> radialmente para fora.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Força numa curva</b><ol><li><span>Um carro de 1.000 kg faz uma curva de raio 50 m a 54 km/h</span></li><li><span>Converta: 54 km/h = 15 m/s</span></li><li><span>F_cp = m·v²/R = 1.000·225/50</span></li><li><span>F_cp = 4.500 N</span></li></ol><span class=\"res\">O atrito lateral precisa fornecer 4.500 N para o carro fazer a curva</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A força centrípeta é uma força adicional que surge sempre que um corpo descreve uma curva, somando-se às demais forças</span><br>✅ <span class=\"certo\">é o papel da <b>resultante</b> das forças reais (atrito, tração, normal, peso) na direção do centro</span></li><li>❌ <span class=\"banca\">Quando o barbante que mantém uma pedra em movimento circular se rompe, a pedra é lançada radialmente para fora</span><br>✅ <span class=\"certo\">sai pela <b>tangente</b>, em linha reta, por inércia</span></li><li>❌ <span class=\"banca\">A força centrífuga é a força real que lança os passageiros para fora da curva</span><br>✅ <span class=\"certo\">é uma força <b>fictícia</b>; os passageiros tendem a seguir em linha reta por <b>inércia</b></span></li></ol></div>\n<h3>11. Curva plana: atrito e velocidade máxima</h3>\n<ul><li>Numa curva <b>plana e horizontal</b>, a força centrípeta vem do <b>atrito lateral estático</b> entre pneus e pista (o pneu não desliza para o lado enquanto há aderência).</li><li>O atrito tem um <b>valor máximo</b>: Fat_máx = μ·N = μ·m·g. A curva só é feita sem derrapar se m·v²/R ≤ μ·m·g, ou seja:</li></ul>\n<code class=\"lt-formula\">v_máx = √(μ·g·R)</code>\n<ul><li><b>A massa se cancela</b>: a velocidade máxima <b>não depende da massa</b> do veículo (na física idealizada). Um carro leve e um caminhão com os mesmos pneus e o mesmo μ têm o mesmo limite teórico. Na prática, caminhões têm outros limites (tombamento, transferência de carga).</li><li><b>O que reduz a velocidade segura</b>: pista molhada, óleo, areia ou cascalho (μ menor) e curvas mais fechadas (R menor). Como v_máx depende da <b>raiz</b> de μ e de R, reduzir μ à metade reduz v_máx a cerca de 71% (1/√2).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Velocidade máxima numa curva</b><ol><li><span>Curva plana de raio 80 m; μ = 0,8 (pista seca); g = 10 m/s²</span></li><li><span>v_máx = √(0,8·10·80) = √640 ≈ 25,3 m/s ≈ 91 km/h</span></li><li><span>Com chuva, μ = 0,4: v_máx = √320 ≈ 17,9 m/s ≈ 64 km/h</span></li></ol><span class=\"res\">Seca: ≈ 91 km/h; molhada: ≈ 64 km/h</span></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Derrapagem na curva</b><p>Um motorista conhece bem uma curva e costuma fazê-la a 80 km/h em pista seca. Num dia de chuva, o coeficiente de atrito cai pela metade. A que velocidade deveria fazê-la para manter a mesma margem de segurança?</p><details><summary>Ver a solução comentada</summary><p>Como v_máx ∝ √μ, a nova velocidade máxima é a anterior × √0,5 ≈ 0,71. Mantendo a mesma proporção da margem: 80 × 0,71 ≈ <b>57 km/h</b>. Repetir os 80 km/h na chuva pode exceder o limite de aderência.</p></details></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em uma curva plana, um caminhão carregado tem velocidade máxima sem derrapar menor que a de um carro, com o mesmo coeficiente de atrito, por ter maior massa</span><br>✅ <span class=\"certo\">na fórmula v_máx = √(μgR), a <b>massa se cancela</b></span></li><li>❌ <span class=\"banca\">Se o coeficiente de atrito cai à metade, a velocidade máxima na curva também cai à metade</span><br>✅ <span class=\"certo\">cai pelo fator <b>√2</b> (fica ≈ 71%)</span></li><li>❌ <span class=\"banca\">Na curva plana, a força que mantém o carro na trajetória é o atrito cinético</span><br>✅ <span class=\"certo\">é o atrito <b>estático</b> lateral (o pneu não desliza para o lado)</span></li></ol></div>\n<h3>12. Curva sobrelevada (inclinada)</h3>\n<ul><li>Rodovias e pistas de corrida inclinam as curvas para <b>dentro</b> (sobrelevação ou superelevação). Assim, a <b>normal</b> deixa de ser vertical e ganha uma componente horizontal apontada para o centro, que ajuda a fazer a curva.</li><li><b>Velocidade ideal</b> (sem precisar de atrito): <b>tg θ = v²/(R·g)</b>, ou v = √(R·g·tg θ). Nessa velocidade, a componente horizontal da normal sozinha fornece toda a força centrípeta.</li><li>Abaixo da velocidade ideal, o carro tende a escorregar para <b>dentro</b> (e o atrito atua para fora); acima, tende a escorregar para <b>fora</b> (e o atrito atua para dentro). Com atrito, há uma faixa de velocidades seguras.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Inclinação de uma curva</b><ol><li><span>Qual inclinação permite fazer uma curva de raio 90 m a 108 km/h sem depender do atrito?</span></li><li><span>108 km/h = 30 m/s</span></li><li><span>tg θ = v²/(R·g) = 900/(90·10) = 1</span></li><li><span>θ = 45°</span></li></ol><span class=\"res\">Seria necessária uma inclinação de 45° (por isso curvas rodoviárias reais contam também com o atrito)</span></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Força centrípeta</span></span><span class=\"vs\"><span>F_cp = m·v²/R; papel da resultante</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Curva plana</span></span><span class=\"vs\"><span>Atrito estático lateral; v_máx = √(μgR)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Massa na curva plana</span></span><span class=\"vs\"><span>Não influi em v_máx</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Força centrífuga</span></span><span class=\"vs\"><span>Fictícia (inércia)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sem força centrípeta</span></span><span class=\"vs\"><span>Sai pela tangente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Curva sobrelevada</span></span><span class=\"vs\"><span>tg θ = v²/(Rg)</span></span></button></div></div>\n<h3>13. Lombadas, valetas, pontes e loops: a normal muda</h3>\n<ul><li>Quando a trajetória é curva num plano <b>vertical</b>, a força centrípeta resulta da combinação entre o <b>peso</b> (para baixo) e a <b>normal</b> (perpendicular à pista). A sensação de \"ficar leve\" ou \"ficar pesado\" vem da variação da normal.</li></ul>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Equação no ponto</th><th>Consequência</th></tr></thead><tbody><tr><td><b>Topo de uma lombada</b> (centro abaixo do carro)</td><td>P − N = m·v²/R → <b>N = m·g − m·v²/R</b></td><td>a normal <b>diminui</b>: sensação de \"frio na barriga\"; se v² = g·R, N = 0 e o carro perde contato com o solo</td></tr><tr><td><b>Fundo de uma valeta</b> (centro acima do carro)</td><td>N − P = m·v²/R → <b>N = m·g + m·v²/R</b></td><td>a normal <b>aumenta</b>: a suspensão é comprimida, o carro \"pesa\" mais</td></tr><tr><td><b>Topo de um loop</b> (pista acima do carro)</td><td>N + P = m·v²/R</td><td>velocidade mínima para não cair: <b>v_mín = √(g·R)</b> (N = 0)</td></tr></tbody></table>\n<ul><li><b>Velocidade limite na lombada</b>: v = √(g·R). Acima dela, o veículo \"decola\" no topo. Numa lombada de raio 10 m, isso ocorre a √100 = 10 m/s = 36 km/h.</li><li><b>Consequência para a segurança</b>: no topo de elevações, a normal menor reduz o <b>atrito máximo</b> disponível (μ·N); frear ou fazer curva no alto de uma lombada é menos eficiente.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Carro numa valeta</b><ol><li><span>Carro de 1.200 kg passa pelo fundo de uma valeta de raio 20 m a 10 m/s</span></li><li><span>Peso: 1.200·10 = 12.000 N</span></li><li><span>m·v²/R = 1.200·100/20 = 6.000 N</span></li><li><span>N = 12.000 + 6.000 = 18.000 N</span></li></ol><span class=\"res\">A pista empurra o carro com 18.000 N: 1,5 vez o peso</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Globo da morte</b><ol><li><span>Raio do globo: 2,5 m; g = 10 m/s². Qual a velocidade mínima da moto no topo?</span></li><li><span>No limite, N = 0 e só o peso é centrípeto: m·g = m·v²/R</span></li><li><span>v_mín = √(g·R) = √25</span></li></ol><span class=\"res\">v_mín = 5 m/s (18 km/h), independentemente da massa</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No ponto mais alto de uma lombada, a força normal sobre o veículo é maior que o seu peso</span><br>✅ <span class=\"certo\">no topo, N = mg − mv²/R: <b>menor</b> que o peso</span></li><li>❌ <span class=\"banca\">No fundo de uma valeta, a normal é igual ao peso, porque o carro está na posição mais baixa</span><br>✅ <span class=\"certo\">no fundo, N = mg + mv²/R: <b>maior</b> que o peso</span></li><li>❌ <span class=\"banca\">A velocidade mínima no topo de um loop depende da massa do veículo</span><br>✅ <span class=\"certo\">v_mín = √(gR): <b>não depende</b> da massa</span></li></ol></div>\n<h3>14. Transmissão de movimento circular</h3>\n<ul><li><b>Polias ligadas por correia (ou corrente), sem deslizamento</b>: os pontos da periferia das duas polias têm a <b>mesma velocidade linear</b> (a correia anda com a mesma velocidade em toda a extensão). Logo: <b>v₁ = v₂ → ω₁·R₁ = ω₂·R₂ → f₁·R₁ = f₂·R₂</b>. A polia <b>menor gira mais depressa</b>.</li><li><b>Engrenagens em contato</b>: mesma regra das correias (mesma velocidade linear na periferia), mas <b>giram em sentidos opostos</b>; com correia (aberta), giram no <b>mesmo sentido</b>. Para engrenagens, vale também f₁·N₁ = f₂·N₂ (N = número de dentes).</li><li><b>Polias no mesmo eixo (coaxiais)</b>: giram <b>juntas</b>, com a <b>mesma velocidade angular</b> e a mesma frequência; a de maior raio tem maior velocidade linear na borda.</li></ul>\n<table class=\"tab\"><thead><tr><th>Ligação</th><th>O que é igual</th><th>Relação</th></tr></thead><tbody><tr><td>Correia ou corrente</td><td><b>velocidade linear</b> da periferia</td><td>f₁·R₁ = f₂·R₂</td></tr><tr><td>Engrenagens em contato</td><td>velocidade linear da periferia (sentidos opostos)</td><td>f₁·N₁ = f₂·N₂</td></tr><tr><td>Mesmo eixo</td><td><b>velocidade angular</b> e frequência</td><td>v₁/R₁ = v₂/R₂</td></tr></tbody></table>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Bicicleta</b><ol><li><span>A coroa (pedal) tem raio 10 cm e a catraca (roda traseira) tem raio 4 cm, ligadas pela corrente. O ciclista pedala a 1 volta por segundo; a roda traseira tem raio 35 cm</span></li><li><span>Corrente: f_coroa·R_coroa = f_catraca·R_catraca → 1·10 = f·4 → f_catraca = 2,5 Hz</span></li><li><span>A roda gira junto com a catraca (mesmo eixo): f_roda = 2,5 Hz</span></li><li><span>v = 2π·f·R = 2·3,14·2,5·0,35 ≈ 5,5 m/s</span></li></ol><span class=\"res\">A bicicleta anda a ≈ 5,5 m/s (≈ 20 km/h)</span></div>\n<ul><li><b>Marchas e câmbio</b>: no câmbio de um carro, engrenagens de tamanhos diferentes mudam a relação entre a rotação do motor e a das rodas. Marchas <b>baixas</b> dão mais força (torque) nas rodas e menos velocidade; marchas <b>altas</b> dão mais velocidade com o motor em rotação menor.</li><li><b>Velocímetro e pneus</b>: o velocímetro calcula a velocidade a partir da <b>rotação</b> da roda (ou da transmissão), pressupondo um raio de pneu. Trocar por pneus de <b>raio maior</b> faz o carro andar <b>mais rápido</b> do que o velocímetro indica (v = ω·R com R maior para o mesmo ω medido); pneus menores ou muito gastos fazem o velocímetro indicar <b>mais</b> do que a velocidade real.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Pneus maiores e o velocímetro</b><p>Um motorista trocou os pneus originais (raio 30 cm) por pneus de raio 33 cm, sem recalibrar o velocímetro. O painel indica 100 km/h. Qual a velocidade real?</p><details><summary>Ver a solução comentada</summary><p>O velocímetro mede a rotação e \"supõe\" R = 30 cm. A velocidade real é proporcional ao raio verdadeiro: 100 × 33/30 = <b>110 km/h</b>. Num radar, o veículo seria flagrado a 110 km/h, embora o painel mostrasse 100.</p></details></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em duas polias ligadas por uma correia, a de maior raio gira com maior frequência</span><br>✅ <span class=\"certo\">com a mesma velocidade linear, a de <b>menor</b> raio gira mais depressa (f₁R₁ = f₂R₂)</span></li><li>❌ <span class=\"banca\">Polias presas ao mesmo eixo têm a mesma velocidade linear em suas bordas</span><br>✅ <span class=\"certo\">têm a mesma <b>velocidade angular</b>; a velocidade linear é maior na de maior raio</span></li><li>❌ <span class=\"banca\">Pneus de diâmetro maior que o original fazem o velocímetro indicar velocidade maior que a real</span><br>✅ <span class=\"certo\">indicam <b>menor</b> que a real: o carro anda mais rápido do que o painel mostra</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lombada (topo)</span></span><span class=\"vs\"><span>N = mg − mv²/R; decola se v² = gR</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Valeta (fundo)</span></span><span class=\"vs\"><span>N = mg + mv²/R</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Loop (topo)</span></span><span class=\"vs\"><span>v_mín = √(gR)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Correia</span></span><span class=\"vs\"><span>Mesma v linear; f₁R₁ = f₂R₂</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mesmo eixo</span></span><span class=\"vs\"><span>Mesma ω</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pneu maior</span></span><span class=\"vs\"><span>Velocidade real maior que a indicada</span></span></button></div></div>\n<h3>15. Movimento circular variado e aceleração total</h3>\n<ul><li>Quando o módulo da velocidade também muda (um carro que <b>freia ou acelera dentro da curva</b>), o movimento é <b>circular variado</b>. A aceleração tem duas componentes perpendiculares entre si:</li><li><b>Tangencial (a_t)</b>: ao longo da trajetória; muda o <b>módulo</b> da velocidade (a mesma aceleração do MRUV).</li><li><b>Centrípeta (a_cp = v²/R)</b>: para o centro; muda a <b>direção</b>.</li><li><b>Aceleração total</b>: a = √(a_t² + a_cp²), pois as componentes são perpendiculares.</li><li><b>No movimento circular uniformemente variado (MCUV)</b>, a aceleração angular α (rad/s²) é constante, e valem equações análogas às do MRUV: ω = ω₀ + α·t; φ = φ₀ + ω₀·t + α·t²/2; ω² = ω₀² + 2·α·Δφ; com a_t = α·R.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Frear dentro da curva</b><ol><li><span>Um carro está a 20 m/s numa curva de raio 100 m e freia com desaceleração tangencial de 3 m/s²</span></li><li><span>a_cp = 400/100 = 4 m/s²</span></li><li><span>a_t = 3 m/s²</span></li><li><span>a = √(16 + 9) = 5 m/s²</span></li></ol><span class=\"res\">Aceleração total de 5 m/s²: o pneu precisa fornecer atrito para frear E para curvar ao mesmo tempo</span></div>\n<ul><li><b>Lição para a direção</b>: o atrito disponível no pneu é <b>um só</b> e é dividido entre frear e curvar. Frear forte <b>dentro</b> da curva pode exceder a aderência e provocar derrapagem; por isso se recomenda <b>reduzir a velocidade antes</b> de entrar na curva e mantê-la estável durante a trajetória. O ABS ajuda justamente a preservar a dirigibilidade quando se freia em curva.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No movimento circular variado, a aceleração é sempre dirigida para o centro da curva</span><br>✅ <span class=\"certo\">só a componente <b>centrípeta</b>; a <b>tangencial</b> acompanha a trajetória, e a total é a soma vetorial</span></li><li>❌ <span class=\"banca\">Frear dentro de uma curva não interfere na capacidade do pneu de manter o veículo na trajetória</span><br>✅ <span class=\"certo\">o atrito disponível é dividido entre <b>frear e curvar</b>; frear forte na curva pode provocar derrapagem</span></li></ol></div>\n<h3>16. Curvas de rodovias, tombamento e veículos pesados</h3>\n<ul><li><b>Projeto geométrico</b>: rodovias usam <b>raios mínimos</b> compatíveis com a velocidade de projeto, <b>superelevação</b> (inclinação transversal para dentro da curva) e <b>curvas de transição</b> (em que a curvatura cresce aos poucos, evitando um \"tranco\" lateral na entrada).</li><li><b>Sinalização de curva acentuada e de velocidade máxima</b> na curva deriva dessa física: a velocidade segura depende do raio e do atrito.</li><li><b>Derrapar ou tombar?</b> Um veículo pode perder a curva de duas maneiras:</li><li><b>Derrapagem</b>: o atrito máximo não basta (v > √(μgR)); o veículo escorrega para fora da curva.</li><li><b>Tombamento</b>: a força lateral, aplicada na altura do <b>centro de massa</b>, faz o veículo girar em torno das rodas externas. Veículos <b>altos e estreitos</b> (caminhões carregados, ônibus, utilitários) tombam antes de derrapar quando o centro de massa está alto. Modelo simplificado: tomba quando v² > g·R·d/(2h), sendo d a distância entre as rodas (bitola) e h a altura do centro de massa.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Tombar antes de derrapar</b><ol><li><span>Caminhão com bitola de 2 m e centro de massa a 2 m de altura, numa curva de raio 100 m; μ = 0,8</span></li><li><span>Derrapagem: v = √(0,8·10·100) ≈ 28,3 m/s</span></li><li><span>Tombamento: v = √(10·100·2/(2·2)) = √500 ≈ 22,4 m/s</span></li><li><span>O menor limite é o de tombamento</span></li></ol><span class=\"res\">O caminhão tombaria a ≈ 22 m/s (≈ 80 km/h), antes de derrapar</span></div>\n<ul><li><b>Carga mal amarrada ou que se desloca</b> (líquidos em tanques parcialmente cheios, gado) muda a posição do centro de massa na curva e aumenta o risco de tombamento.</li><li><b>Transferência de carga</b>: na curva, as rodas externas ficam mais carregadas e as internas, mais leves. Em casos extremos, as internas perdem contato com a pista (início do tombamento).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Veículos altos e estreitos tendem a derrapar antes de tombar em curvas fechadas</span><br>✅ <span class=\"certo\">quanto mais <b>alto</b> o centro de massa e mais <b>estreita</b> a bitola, maior a tendência de <b>tombar</b> antes de derrapar</span></li><li>❌ <span class=\"banca\">Em uma curva, as rodas internas do veículo ficam mais carregadas que as externas</span><br>✅ <span class=\"certo\">as <b>externas</b> recebem mais carga</span></li></ol></div>\n<h3>17. Rolamento das rodas</h3>\n<ul><li>Uma roda que <b>rola sem deslizar</b> tem velocidade de translação do centro v = ω·R. O <b>ponto de contato</b> com o chão está <b>instantaneamente em repouso</b> (por isso o atrito é <b>estático</b> enquanto o pneu não derrapa).</li><li>O <b>ponto mais alto</b> da roda move-se, em relação ao chão, com velocidade <b>2v</b> (a soma da translação v com a rotação ω·R). É por isso que barro e água são lançados do alto da roda.</li><li><b>Distância por volta</b>: a cada volta completa sem deslizar, o veículo avança <b>um perímetro</b> da roda (2πR). O <b>odômetro</b> conta voltas e multiplica pelo perímetro.</li><li><b>Roda travada (derrapando)</b>: deixa de girar e desliza; atua o atrito <b>cinético</b>, menor que o estático máximo, e o condutor perde a dirigibilidade (as rodas da frente não \"apontam\" o carro se estão travadas). O <b>ABS</b> solta e reaperta o freio várias vezes por segundo para manter as rodas girando no limite da aderência.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Voltas de uma roda</b><ol><li><span>Roda com diâmetro de 60 cm (raio 0,3 m). Quantas voltas ela dá em 1 km?</span></li><li><span>Perímetro: 2π·0,3 ≈ 1,885 m</span></li><li><span>Voltas: 1.000/1,885 ≈ 530</span></li></ol><span class=\"res\">Cerca de 530 voltas por quilômetro</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No pneu que rola sem deslizar, o ponto em contato com a pista tem a mesma velocidade do veículo</span><br>✅ <span class=\"certo\">o ponto de contato está <b>instantaneamente em repouso</b>; o ponto mais alto é que tem <b>2v</b></span></li><li>❌ <span class=\"banca\">Com as rodas travadas, a frenagem é mais eficiente, pois o atrito cinético é maior que o estático</span><br>✅ <span class=\"certo\">o <b>estático</b> máximo é maior; por isso o <b>ABS</b> evita o travamento</span></li></ol></div>\n<h3>18. Satélites e órbitas circulares (noções)</h3>\n<ul><li>Um satélite em órbita circular está em <b>queda livre contínua</b>: a <b>gravidade</b> faz o papel de força centrípeta. Ele \"cai\" em direção à Terra, mas sua velocidade tangencial é tão grande que a superfície \"foge\" na mesma medida.</li><li><b>Velocidade orbital</b>: v = √(G·M/r). Não depende da massa do satélite; quanto <b>mais alta</b> a órbita (r maior), <b>menor</b> a velocidade e <b>maior</b> o período.</li><li><b>Satélite geoestacionário</b>: período de <b>24 h</b>, sobre o equador e girando no mesmo sentido da Terra; parece parado para quem está no solo. Usado em telecomunicações e meteorologia, a cerca de 36 mil km de altitude.</li><li><b>GPS</b>: constelação de satélites em órbitas médias (cerca de 20 mil km), com período de cerca de 12 h; o receptor calcula a posição pelo tempo que os sinais de vários satélites levam para chegar.</li><li><b>\"Gravidade zero\" na estação espacial</b>: os astronautas não estão sem peso (a gravidade lá ainda é cerca de 90% da da superfície); estão, como a estação, em <b>queda livre</b>, por isso flutuam em relação a ela (<b>imponderabilidade</b>).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Os astronautas flutuam na estação espacial porque, naquela altitude, não há gravidade</span><br>✅ <span class=\"certo\">a gravidade ainda é cerca de <b>90%</b> da da superfície; eles estão em <b>queda livre</b> junto com a estação</span></li><li>❌ <span class=\"banca\">Quanto maior a massa de um satélite, maior a velocidade necessária para mantê-lo numa órbita de mesmo raio</span><br>✅ <span class=\"certo\">v = √(GM/r) <b>não depende</b> da massa do satélite</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aceleração total</span></span><span class=\"vs\"><span>√(a_t² + a_cp²)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Frear na curva</span></span><span class=\"vs\"><span>Atrito dividido entre frear e curvar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Centro de massa alto</span></span><span class=\"vs\"><span>Tende a tombar antes de derrapar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ponto de contato da roda</span></span><span class=\"vs\"><span>Repouso instantâneo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Topo da roda</span></span><span class=\"vs\"><span>Velocidade 2v</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Geoestacionário</span></span><span class=\"vs\"><span>Período de 24 h, sobre o equador</span></span></button></div></div>\n<h3>19. Treino guiado: exercícios resolvidos</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 1 (período e frequência)</b><ol><li><span>Um ventilador dá 600 voltas por minuto. Qual a frequência em Hz e o período?</span></li><li><span>f = 600 ÷ 60 = 10 Hz</span></li><li><span>T = 1/10 = 0,1 s</span></li></ol><span class=\"res\">10 Hz; 0,1 s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 2 (velocidade angular)</b><ol><li><span>Qual a velocidade angular do ponteiro dos segundos de um relógio?</span></li><li><span>T = 60 s</span></li><li><span>ω = 2π/T = 2π/60 = π/30</span></li></ol><span class=\"res\">ω ≈ 0,105 rad/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 3 (velocidade linear)</b><ol><li><span>A ponta do ponteiro dos minutos tem 5 cm de comprimento. Qual sua velocidade linear?</span></li><li><span>T = 3.600 s; ω = 2π/3.600</span></li><li><span>v = ω·R = (2π/3.600)·0,05</span></li></ol><span class=\"res\">v ≈ 8,7 × 10⁻⁵ m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 4 (aceleração centrípeta)</b><ol><li><span>Um carro faz uma rotatória de raio 25 m a 36 km/h. Qual a aceleração centrípeta?</span></li><li><span>36 km/h = 10 m/s</span></li><li><span>a_cp = v²/R = 100/25</span></li></ol><span class=\"res\">a_cp = 4 m/s²</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 5 (força centrípeta)</b><ol><li><span>Uma moto de 200 kg (com piloto) faz uma curva de raio 40 m a 20 m/s. Que força lateral os pneus precisam fornecer?</span></li><li><span>F = m·v²/R = 200·400/40</span></li></ol><span class=\"res\">F = 2.000 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 6 (velocidade máxima)</b><ol><li><span>Curva plana de raio 45 m, μ = 0,5. Qual a velocidade máxima sem derrapar?</span></li><li><span>v = √(μ·g·R) = √(0,5·10·45) = √225</span></li></ol><span class=\"res\">15 m/s = 54 km/h</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 7 (curva sobrelevada)</b><ol><li><span>Curva de raio 160 m com inclinação tal que tg θ = 0,25. Qual a velocidade ideal, sem atrito?</span></li><li><span>v² = R·g·tg θ = 160·10·0,25 = 400</span></li><li><span>v = 20 m/s</span></li></ol><span class=\"res\">20 m/s = 72 km/h</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 8 (lombada)</b><ol><li><span>Um carro de 1.000 kg passa pelo topo de uma lombada de raio 40 m a 10 m/s. Qual a normal?</span></li><li><span>P = 10.000 N</span></li><li><span>m·v²/R = 1.000·100/40 = 2.500 N</span></li><li><span>N = 10.000 − 2.500</span></li></ol><span class=\"res\">N = 7.500 N (o carro \"fica 25% mais leve\")</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 9 (velocidade de decolagem)</b><ol><li><span>A partir de que velocidade um carro perde contato com o solo no topo de uma lombada de raio 22,5 m?</span></li><li><span>N = 0 → v² = g·R = 225</span></li><li><span>v = 15 m/s</span></li></ol><span class=\"res\">15 m/s = 54 km/h</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 10 (polias)</b><ol><li><span>Polia A (raio 20 cm), a 300 rpm, aciona por correia a polia B (raio 5 cm). Qual a rotação de B?</span></li><li><span>f_A·R_A = f_B·R_B → 300·20 = f_B·5</span></li><li><span>f_B = 1.200 rpm</span></li></ol><span class=\"res\">1.200 rpm (a menor gira 4 vezes mais rápido)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 11 (velocímetro)</b><ol><li><span>Pneus originais de raio 0,30 m foram trocados por pneus de raio 0,27 m. O velocímetro marca 90 km/h. Qual a velocidade real?</span></li><li><span>Real = indicada × R_novo/R_original</span></li><li><span>90 × 0,27/0,30 = 81</span></li></ol><span class=\"res\">81 km/h (o painel indica mais do que a velocidade real)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 12 (aceleração total)</b><ol><li><span>Na curva de raio 50 m, um carro a 10 m/s acelera tangencialmente a 1,5 m/s². Qual a aceleração total?</span></li><li><span>a_cp = 100/50 = 2 m/s²</span></li><li><span>a = √(2² + 1,5²) = √6,25</span></li></ol><span class=\"res\">a = 2,5 m/s²</span></div>\n<h3>20. Itens no estilo Cebraspe, comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a curva da serra</b><p>Um ônibus de 12 t percorre uma curva plana de raio 75 m a 54 km/h. O coeficiente de atrito estático entre pneus e pista é 0,6 (g = 10 m/s²). Julgue: (1) a aceleração centrípeta do ônibus é de 3 m/s²; (2) a força de atrito necessária é de 36.000 N; (3) a velocidade máxima sem derrapar nessa curva é de 75 km/h; (4) se a mesma curva fosse feita por um carro de 1 t, com o mesmo μ, a velocidade máxima seria maior.</p><details><summary>Ver a solução comentada</summary><p>54 km/h = 15 m/s. (1) a = 225/75 = <b>3 m/s²</b>: <b>certo</b>. (2) F = 12.000·3 = <b>36.000 N</b>: <b>certo</b>. (3) v = √(0,6·10·75) = √450 ≈ 21,2 m/s ≈ <b>76 km/h</b>: <b>errado</b> (o valor exato é cerca de 76 km/h, não 75). (4) A massa <b>não</b> influi em v_máx = √(μgR): <b>errado</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a roda</b><p>Uma roda de raio 0,4 m rola sem deslizar, e o veículo se move a 72 km/h. Julgue: (1) a velocidade angular da roda é de 50 rad/s; (2) o ponto da roda em contato com a pista está em repouso naquele instante; (3) o ponto mais alto da roda tem velocidade de 72 km/h em relação à pista.</p><details><summary>Ver a solução comentada</summary><p>72 km/h = 20 m/s. (1) ω = v/R = 20/0,4 = <b>50 rad/s</b>: <b>certo</b>. (2) Rolamento sem deslizar: <b>certo</b>. (3) O ponto mais alto anda a <b>2v</b> = 144 km/h: <b>errado</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: polias do motor</b><p>A polia do virabrequim (raio 6 cm) aciona, por correia, a polia do alternador (raio 3 cm). O motor está a 2.400 rpm. Julgue: (1) o alternador gira a 1.200 rpm; (2) os pontos da correia têm a mesma velocidade linear que os pontos da periferia das duas polias; (3) a frequência do alternador é de 80 Hz.</p><details><summary>Ver a solução comentada</summary><p>(1) f·R igual: 2.400·6 = f·3 → f = <b>4.800 rpm</b>: <b>errado</b>. (2) Sem deslizamento: <b>certo</b>. (3) 4.800/60 = <b>80 Hz</b>: <b>certo</b>.</p></details></div>\n<ul><li><b>Atalhos de prova</b>:</li><li>Questões de \"o que acontece se...\" quase sempre dependem de <b>quadrados e raízes</b>: a_cp ∝ v²; F_cp ∝ v²; v_máx ∝ √μ e ∝ √R.</li><li>Desconfie de itens que dizem que a <b>massa</b> muda a velocidade máxima numa curva plana, o limite no topo de um loop ou a velocidade de um satélite: nos três casos ela se cancela.</li><li>Em polias, primeiro identifique o tipo de ligação: <b>correia/engrenagem</b> (mesma v) ou <b>eixo</b> (mesma ω).</li></ul>\n<table class=\"tab\"><thead><tr><th>Se dobrar...</th><th>a_cp = v²/R</th><th>F_cp = mv²/R</th><th>v_máx = √(μgR)</th></tr></thead><tbody><tr><td>a velocidade v</td><td>×4</td><td>×4</td><td>–</td></tr><tr><td>o raio R</td><td>÷2</td><td>÷2</td><td>×√2 ≈ 1,41</td></tr><tr><td>a massa m</td><td>não muda</td><td>×2</td><td>não muda</td></tr><tr><td>o coeficiente μ</td><td>–</td><td>–</td><td>×√2 ≈ 1,41</td></tr></tbody></table>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>rpm → Hz</span></span><span class=\"vs\"><span>÷ 60</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>v = ωR</span></span><span class=\"vs\"><span>Velocidade linear</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>F_cp ∝ v²</span></span><span class=\"vs\"><span>Velocidade dobrada, força quádrupla</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>v_máx ∝ √R</span></span><span class=\"vs\"><span>Raio quádruplo, velocidade dobrada</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Correia</span></span><span class=\"vs\"><span>f₁R₁ = f₂R₂</span></span></button></div></div>\n<h3>21. Motocicletas, inclinação e rotatórias</h3>\n<ul><li><b>Por que a moto inclina na curva?</b> Ao inclinar, o piloto faz com que a resultante entre a <b>normal</b> e o <b>atrito</b> passe pelo centro de massa do conjunto. A força de atrito lateral fornece a força centrípeta, e a inclinação evita que a moto \"caia\" para fora. Na situação ideal, o ângulo de inclinação em relação à vertical obedece a <b>tg θ = v²/(g·R)</b>, a mesma relação da curva sobrelevada.</li><li><b>Consequência</b>: quanto maior a velocidade ou mais fechada a curva, <b>mais</b> a moto precisa inclinar. A inclinação máxima é limitada pelo atrito (tg θ ≤ μ) e pela geometria da moto (pedaleiras e carenagem raspando no chão).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Inclinação de uma moto</b><ol><li><span>Moto a 15 m/s numa curva de raio 45 m</span></li><li><span>tg θ = v²/(gR) = 225/450 = 0,5</span></li><li><span>θ ≈ 27° com a vertical</span></li><li><span>Exige μ ≥ 0,5</span></li></ol><span class=\"res\">Inclinação de ≈ 27°; pista com μ menor que 0,5 não sustentaria a curva</span></div>\n<ul><li><b>Rotatórias</b>: o veículo faz um arco de raio pequeno (às vezes 15 a 30 m). Mesmo em velocidades baixas, a aceleração centrípeta é significativa: a 36 km/h (10 m/s) num raio de 20 m, a_cp = 5 m/s² (metade de g). Por isso a sinalização de rotatórias impõe velocidades reduzidas.</li><li><b>Conversão em U (retorno)</b>: raio muito pequeno, exige velocidade baixíssima; veículos longos precisam de raios mínimos de giro maiores (o \"raio de giro\" do veículo).</li><li><b>Carga solta e passageiros sem cinto</b>: na curva, tudo o que não está preso tende a seguir em linha reta (inércia) e acaba deslocado para o lado <b>externo</b> da curva em relação ao veículo. Cintos, redes e amarrações fornecem a força centrípeta necessária para que pessoas e cargas acompanhem o veículo.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A moto inclina na curva para aumentar o atrito com o solo</span><br>✅ <span class=\"certo\">inclina para que a resultante de normal e atrito passe pelo <b>centro de massa</b>, equilibrando a tendência de tombar; tg θ = v²/gR</span></li><li>❌ <span class=\"banca\">Numa rotatória percorrida a baixa velocidade, a aceleração centrípeta é desprezível</span><br>✅ <span class=\"certo\">com raio pequeno, mesmo baixas velocidades geram acelerações significativas (10 m/s em R = 20 m → <b>5 m/s²</b>)</span></li></ol></div>\n<h3>22. O tacógrafo e o registro do movimento</h3>\n<ul><li>O <b>tacógrafo</b> é o instrumento que registra, ao longo do tempo, a <b>velocidade</b>, a <b>distância percorrida</b> e os <b>tempos de movimento e de parada</b> do veículo. Pode ser <b>analógico</b> (disco de papel diagrama que gira, em geral, uma volta a cada 24 horas, enquanto uma agulha marca a velocidade) ou <b>digital</b>.</li><li>Pelo Código de Trânsito Brasileiro (art. 105, II), o <b>registrador instantâneo inalterável de velocidade e tempo</b> é equipamento obrigatório para veículos de <b>transporte e condução escolar</b>, de <b>transporte de passageiros com mais de dez lugares</b> e de <b>carga com peso bruto total superior a 4.536 kg</b>, conforme regulamentação do CONTRAN.</li><li><b>Leitura física do disco</b>: o disco gira com <b>velocidade angular constante</b> (uma volta por dia), de modo que cada ângulo corresponde a um horário: 360° em 24 h = <b>15° por hora</b>. A distância radial da marcação indica a velocidade naquele instante.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 O disco do tacógrafo</b><ol><li><span>Disco de 24 h. Que ângulo corresponde a uma parada de 40 minutos?</span></li><li><span>ω = 360°/24 h = 15°/h</span></li><li><span>40 min = 2/3 h</span></li><li><span>Ângulo = 15 × 2/3 = 10°</span></li></ol><span class=\"res\">Um setor de 10° no disco</span></div>\n<ul><li><b>Uso em fiscalização e perícia</b>: o tacógrafo permite verificar excesso de velocidade, descumprimento dos tempos de direção e descanso e reconstruir a velocidade momentos antes de um acidente.</li></ul>\n<h3>23. Encontros em pistas circulares</h3>\n<ul><li>Dois corpos que giram na <b>mesma pista</b>, no <b>mesmo sentido</b>, com velocidades diferentes, voltam a ficar lado a lado quando o mais rápido completa <b>uma volta a mais</b> que o outro. O tempo entre dois encontros é <b>T_enc = 2πR/(v₁ − v₂)</b>, ou, em termos angulares, 2π/(ω₁ − ω₂).</li><li>Em <b>sentidos opostos</b>, encontram-se quando a soma dos arcos percorridos é uma volta: T_enc = 2πR/(v₁ + v₂).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Viaturas numa pista de treinamento</b><ol><li><span>Pista circular de 1.200 m; viatura A a 25 m/s e viatura B a 20 m/s, mesmo sentido, partindo lado a lado</span></li><li><span>Velocidade relativa: 5 m/s</span></li><li><span>Para A abrir uma volta (1.200 m): 1.200/5 = 240 s</span></li><li><span>Em sentidos opostos: 1.200/45 ≈ 26,7 s</span></li></ol><span class=\"res\">Mesmo sentido: reencontram-se a cada 4 min; sentidos opostos: a cada ≈ 26,7 s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Ponteiros do relógio</b><ol><li><span>De quanto em quanto tempo os ponteiros das horas e dos minutos se sobrepõem?</span></li><li><span>Minutos: 1 volta/h; horas: 1/12 volta/h</span></li><li><span>Diferença: 11/12 volta/h</span></li><li><span>Tempo para uma volta de diferença: 12/11 h</span></li></ol><span class=\"res\">≈ 1 h 5 min 27 s</span></div>\n<h3>24. Erros mais comuns em movimento circular</h3>\n<ul><li><b>Achar que velocidade constante significa aceleração nula</b> em curvas: há aceleração centrípeta.</li><li><b>Tratar a força centrípeta como mais uma força</b> no desenho de forças: ela é a resultante das forças reais na direção do centro.</li><li><b>Confundir rpm com Hz</b> ou esquecer o fator 2π entre frequência e velocidade angular.</li><li><b>Usar graus em vez de radianos</b> em fórmulas como s = φ·R e v = ω·R.</li><li><b>Inverter a relação das polias</b>: na correia, a menor gira mais rápido.</li><li><b>Esquecer que a massa se cancela</b> na velocidade máxima de curva plana, no loop e na órbita.</li><li><b>Colocar a normal igual ao peso</b> em lombadas e valetas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em uma pista circular, dois veículos no mesmo sentido voltam a se emparelhar quando o mais rápido completa uma volta inteira</span><br>✅ <span class=\"certo\">quando o mais rápido completa <b>uma volta a mais</b> que o mais lento</span></li><li>❌ <span class=\"banca\">Na fórmula s = φ·R, o ângulo pode ser usado em graus</span><br>✅ <span class=\"certo\">o ângulo deve estar em <b>radianos</b></span></li><li>❌ <span class=\"banca\">O disco de tacógrafo de 24 horas gira 30° a cada hora</span><br>✅ <span class=\"certo\">360°/24 h = <b>15° por hora</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Moto na curva</span></span><span class=\"vs\"><span>tg θ = v²/(gR)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tacógrafo de 24 h</span></span><span class=\"vs\"><span>15° por hora</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Encontro no mesmo sentido</span></span><span class=\"vs\"><span>2πR/(v₁ − v₂)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Encontro em sentidos opostos</span></span><span class=\"vs\"><span>2πR/(v₁ + v₂)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ponteiros sobrepostos</span></span><span class=\"vs\"><span>A cada 12/11 h</span></span></button></div></div>\n<h3>25. Ângulos, radianos e arcos com mais detalhe</h3>\n<ul><li><b>Por que radianos?</b> Porque, em radianos, o arco é simplesmente <b>s = φ·R</b>, sem constantes extras. Em graus, seria s = (φ/360°)·2πR. As fórmulas v = ω·R e a = ω²·R só valem com ω em <b>rad/s</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Graus</th><th>Radianos</th><th>Fração da volta</th></tr></thead><tbody><tr><td>30°</td><td>π/6 ≈ 0,52</td><td>1/12</td></tr><tr><td>45°</td><td>π/4 ≈ 0,79</td><td>1/8</td></tr><tr><td>60°</td><td>π/3 ≈ 1,05</td><td>1/6</td></tr><tr><td>90°</td><td>π/2 ≈ 1,57</td><td>1/4</td></tr><tr><td>180°</td><td>π ≈ 3,14</td><td>1/2</td></tr><tr><td>360°</td><td>2π ≈ 6,28</td><td>1</td></tr></tbody></table>\n<ul><li><b>Conversão</b>: radianos = graus × π/180; graus = radianos × 180/π. 1 rad ≈ 57,3°.</li><li><b>Comprimento de uma curva</b>: um trecho de rodovia em arco de 60° com raio de 300 m tem comprimento s = (π/3)·300 ≈ 314 m.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Arco de uma curva</b><ol><li><span>Uma curva de rodovia corresponde a um arco de 90° de raio 200 m. Quanto mede o trecho e quanto tempo leva para percorrê-lo a 72 km/h?</span></li><li><span>φ = π/2 rad</span></li><li><span>s = φ·R = 1,57·200 ≈ 314 m</span></li><li><span>t = 314/20 ≈ 15,7 s</span></li></ol><span class=\"res\">≈ 314 m em ≈ 15,7 s</span></div>\n<h3>26. Do movimento de vaivém à rotação: biela e virabrequim</h3>\n<ul><li>No motor a combustão, os <b>pistões</b> sobem e descem (movimento de vaivém) e a <b>biela</b> transforma esse movimento em <b>rotação</b> do <b>virabrequim</b>. A rotação do motor, medida em <b>rpm</b> no conta-giros, é a frequência de giro do virabrequim.</li><li>A <b>projeção</b> de um movimento circular uniforme sobre um diâmetro é um <b>movimento harmônico simples (MHS)</b>: o \"vaivém\" de um pistão idealizado, de um pêndulo pequeno ou de uma mola. O período do vaivém é igual ao período da rotação.</li><li><b>Conta-giros e marchas</b>: a 3.000 rpm, o virabrequim dá 50 voltas por segundo. Em marcha alta, a transmissão reduz menos a rotação até as rodas, e o carro anda mais rápido com o motor na mesma rotação.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Rotação do motor e da roda</b><ol><li><span>Motor a 2.400 rpm; a transmissão (câmbio + diferencial) reduz a rotação em 4 vezes até as rodas; roda de raio 0,3 m</span></li><li><span>Rotação da roda: 2.400/4 = 600 rpm = 10 Hz</span></li><li><span>v = 2π·f·R = 2·3,14·10·0,3 ≈ 18,8 m/s</span></li></ol><span class=\"res\">≈ 18,8 m/s (68 km/h)</span></div>\n<h3>27. Outras situações de dinâmica circular</h3>\n<ul><li><b>Rotor de parque (cilindro giratório)</b>: as pessoas ficam \"grudadas\" na parede quando o piso desce. A <b>normal</b> da parede faz o papel de força centrípeta (N = m·ω²·R), e o <b>atrito</b> vertical equilibra o peso (μ·N ≥ m·g). Logo, a velocidade angular mínima é ω = √(g/(μ·R)), que não depende da massa.</li><li><b>Centrifugação (máquina de lavar, centrífuga de laboratório)</b>: a água das roupas não é \"empurrada para fora\" por uma força: as gotas deixam de receber força centrípeta suficiente ao passar pelos furos do cesto e seguem pela <b>tangente</b>, por inércia.</li><li><b>Pêndulo cônico</b>: uma massa presa a um fio gira num círculo horizontal; a componente horizontal da <b>tração</b> é a força centrípeta e a vertical equilibra o peso: tg θ = v²/(g·R), a mesma relação da moto inclinada e da curva sobrelevada.</li><li><b>Brinquedo de parque e montanha-russa</b>: no fundo das depressões, os passageiros sentem-se mais pesados (normal maior que o peso); nos topos, mais leves.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Rotor de parque</b><ol><li><span>Cilindro de raio 2 m; coeficiente de atrito entre roupa e parede 0,5</span></li><li><span>ω_mín = √(g/(μR)) = √(10/(0,5·2)) = √10 ≈ 3,16 rad/s</span></li><li><span>Período: 2π/3,16 ≈ 2 s por volta</span></li></ol><span class=\"res\">Precisa girar pelo menos uma volta a cada ≈ 2 s</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A água sai das roupas na centrifugação por causa de uma força real que aponta para fora do cesto</span><br>✅ <span class=\"certo\">sai por <b>inércia</b>, pela tangente, quando falta força centrípeta</span></li><li>❌ <span class=\"banca\">No rotor de parque, as pessoas não escorregam porque a força normal da parede equilibra o peso</span><br>✅ <span class=\"certo\">o peso é equilibrado pelo <b>atrito</b>; a <b>normal</b> é a força centrípeta</span></li><li>❌ <span class=\"banca\">O pêndulo cônico, a moto inclinada e a curva sobrelevada obedecem a relações físicas distintas</span><br>✅ <span class=\"certo\">as três obedecem a <b>tg θ = v²/(gR)</b></span></li></ol></div>\n<h3>28. Mapa do raciocínio em movimento circular</h3>\n<div class=\"lt-fluxo\"><span>A questão fala em voltas, rpm, período?</span> <em>→</em> <span>Grandezas angulares: f = 1/T; ω = 2πf; v = ωR</span> <em>→</em> <span>Fala em polias, engrenagens, correias?</span> <em>→</em> <span>Correia: mesma v; eixo: mesma ω</span> <em>→</em> <span>Fala em forças numa curva?</span> <em>→</em> <span>Identifique quem é a resultante centrípeta (atrito, normal, tração, peso)</span> <em>→</em> <span>Escreva F_resultante para o centro = m·v²/R</span> <em>→</em> <span>Resolva para o que se pede (v máxima, normal, tração)</span></div>\n<ul><li><b>Checklist antes de responder</b>:</li><li>A velocidade está em m/s e o raio em metros?</li><li>A frequência está em Hz (e não em rpm)?</li><li>O ângulo está em radianos?</li><li>No desenho de forças, há alguma \"força centrífuga\" sobrando? Retire-a.</li><li>A massa realmente importa para o que se pede?</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 rad</span></span><span class=\"vs\"><span>≈ 57,3°</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arco</span></span><span class=\"vs\"><span>s = φ·R (φ em rad)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rotor de parque</span></span><span class=\"vs\"><span>ω_mín = √(g/μR)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Centrifugação</span></span><span class=\"vs\"><span>Inércia pela tangente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pêndulo cônico</span></span><span class=\"vs\"><span>tg θ = v²/gR</span></span></button></div></div>\n<h3>29. Gravitação e movimento circular: da maçã à Lua</h3>\n<ul><li><b>A ideia de Newton</b>: a mesma força que faz uma maçã cair faz a Lua \"cair\" continuamente em direção à Terra, sem nunca chegar, porque se move lateralmente depressa o bastante. A <b>gravidade</b> é a força centrípeta da órbita lunar.</li><li><b>Lei da Gravitação Universal</b>: dois corpos de massas M e m, a uma distância d entre os centros, atraem-se com força <b>F = G·M·m/d²</b>, em que G ≈ 6,67 × 10⁻¹¹ N·m²/kg². A força é <b>proporcional às massas</b> e <b>inversamente proporcional ao quadrado da distância</b>: dobrando a distância, a força cai a <b>um quarto</b>.</li><li><b>Aceleração da gravidade</b>: na superfície de um planeta de massa M e raio R, g = G·M/R². Na Terra, ≈ 9,8 m/s². Na Lua, cerca de 1/6 disso (≈ 1,6 m/s²): por isso um astronauta \"pesa\" seis vezes menos lá, embora tenha a mesma massa.</li><li><b>Peso x massa</b>: a <b>massa</b> (kg) é a quantidade de matéria e não muda de um lugar para outro; o <b>peso</b> (N) é a força gravitacional, P = m·g, e muda com g.</li><li><b>Leis de Kepler</b> (movimento dos planetas):</li></ul>\n<table class=\"tab\"><thead><tr><th>Lei</th><th>Enunciado</th><th>Consequência</th></tr></thead><tbody><tr><td>1ª (órbitas)</td><td>os planetas descrevem <b>elipses</b>, com o Sol em um dos focos</td><td>a distância ao Sol varia ao longo do ano</td></tr><tr><td>2ª (áreas)</td><td>o segmento Sol–planeta varre <b>áreas iguais em tempos iguais</b></td><td>o planeta é <b>mais rápido perto do Sol</b> (periélio) e mais lento longe (afélio)</td></tr><tr><td>3ª (períodos)</td><td>T²/a³ é constante para todos os planetas de um mesmo sistema</td><td>planetas mais distantes têm período maior</td></tr></tbody></table>\n<ul><li><b>Órbita circular</b>: igualando a força gravitacional à centrípeta, G·M·m/r² = m·v²/r, obtém-se <b>v = √(G·M/r)</b>. A massa do satélite se cancela.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Comparando órbitas</b><ol><li><span>Um satélite A orbita a uma distância r do centro da Terra; um satélite B, a 4r. Compare velocidades e forças (mesma massa)</span></li><li><span>v ∝ 1/√r: v_B = v_A/√4 = v_A/2</span></li><li><span>F ∝ 1/r²: F_B = F_A/16</span></li></ol><span class=\"res\">B é duas vezes mais lento e sofre 1/16 da força</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A massa de um astronauta na Lua é cerca de seis vezes menor que na Terra</span><br>✅ <span class=\"certo\">a <b>massa</b> é a mesma; o <b>peso</b> é cerca de seis vezes menor</span></li><li>❌ <span class=\"banca\">Se a distância entre dois corpos dobrar, a força gravitacional entre eles cai à metade</span><br>✅ <span class=\"certo\">cai a <b>um quarto</b> (inverso do quadrado)</span></li><li>❌ <span class=\"banca\">Segundo a 2ª lei de Kepler, os planetas se movem com velocidade constante em suas órbitas</span><br>✅ <span class=\"certo\">são <b>mais rápidos perto do Sol</b> e mais lentos longe dele (áreas iguais em tempos iguais)</span></li></ol></div>\n<h3>30. Perícia em curvas: marcas de derrapagem lateral</h3>\n<ul><li>Quando um veículo perde a aderência numa curva, os pneus deixam <b>marcas curvas de derrapagem lateral</b> (em inglês, *yaw marks*), diferentes das marcas retas de frenagem.</li><li><b>Método da velocidade crítica</b>: o perito mede uma corda e a flecha do arco das marcas para calcular o <b>raio da curva descrita</b> (R = c²/(8·f) + f/2, com c = corda e f = flecha) e estima o coeficiente de atrito lateral. A velocidade no início das marcas é estimada por <b>v = √(μ·g·R)</b>, a mesma relação da velocidade máxima numa curva plana.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Velocidade crítica</b><ol><li><span>Marcas curvas com raio calculado de 62,5 m; μ lateral = 0,8; g = 10 m/s²</span></li><li><span>v = √(0,8·10·62,5) = √500</span></li><li><span>v ≈ 22,4 m/s</span></li></ol><span class=\"res\">≈ 80 km/h no início das marcas</span></div>\n<ul><li><b>Limitações</b>: o método supõe que o veículo estava no limite de aderência e sem frear; marcas de frenagem e de derrapagem lateral têm aparência e fórmulas diferentes, e confundi-las gera estimativas erradas.</li></ul>\n<h3>31. Sinalização e projeto de curvas</h3>\n<ul><li>Placas de <b>advertência</b> de curva (como \"curva acentuada à esquerda/direita\" e \"pista sinuosa\") indicam ao condutor que a geometria exige redução de velocidade; podem vir acompanhadas de placa de <b>velocidade máxima</b> específica para o trecho.</li><li>A <b>velocidade de projeto</b> de uma rodovia define o <b>raio mínimo</b> das curvas (quanto maior a velocidade, maior o raio necessário, pois v_máx ∝ √R) e a <b>superelevação</b> máxima.</li><li><b>Curvas em sequência e mudança de raio</b>: curvas que \"fecham\" (raio que diminui ao longo da curva) surpreendem o condutor, porque a velocidade de entrada passa a ser alta demais no meio da curva.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Por que a curva \"puxou\" para fora?</b><p>Um motorista entrou a 90 km/h numa curva sinalizada para 60 km/h, de raio 60 m, com pista molhada (μ = 0,4). Explique fisicamente a saída de pista.</p><details><summary>Ver a solução comentada</summary><p>Velocidade máxima teórica: √(0,4·10·60) = √240 ≈ 15,5 m/s ≈ <b>56 km/h</b>. A 90 km/h (25 m/s), a força centrípeta exigida seria m·625/60 ≈ 10,4·m, mais que o dobro do atrito máximo disponível (μ·m·g = 4·m). Sem força centrípeta suficiente, o veículo seguiu por <b>inércia</b> em trajetória mais aberta que a curva e saiu da pista pelo lado externo.</p></details></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gravitação</span></span><span class=\"vs\"><span>F = GMm/d² (inverso do quadrado)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Peso x massa</span></span><span class=\"vs\"><span>Peso muda com g; massa não</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>2ª lei de Kepler</span></span><span class=\"vs\"><span>Áreas iguais em tempos iguais</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marcas curvas de derrapagem</span></span><span class=\"vs\"><span>v = √(μgR)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Raio mínimo de projeto</span></span><span class=\"vs\"><span>Cresce com v²</span></span></button></div></div>\n<h3>32. Mais itens comentados no estilo Cebraspe</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a lombada</b><p>Um automóvel de 1.000 kg passa pelo ponto mais alto de uma lombada, cujo perfil pode ser aproximado por um arco de raio 10 m (g = 10 m/s²). Julgue: (1) a 18 km/h, a força normal exercida pela pista é de 7.500 N; (2) a 36 km/h, o automóvel perde contato com a pista no topo; (3) a força normal no topo independe da velocidade.</p><details><summary>Ver a solução comentada</summary><p>18 km/h = 5 m/s: N = 10.000 − 1.000·25/10 = <b>7.500 N</b>: (1) <b>certo</b>. 36 km/h = 10 m/s: m·v²/R = 1.000·100/10 = 10.000 N = peso → N = 0: (2) <b>certo</b> (é exatamente o limite; acima disso, decola). (3) N = mg − mv²/R <b>depende</b> de v: <b>errado</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a rotatória</b><p>Um motociclista contorna uma rotatória de raio 20 m mantendo 36 km/h; massa do conjunto: 250 kg. Julgue: (1) a aceleração do conjunto é nula, pois a velocidade é constante; (2) a força de atrito lateral necessária é de 1.250 N; (3) o motociclista precisa inclinar o conjunto em ângulo cuja tangente vale 0,5.</p><details><summary>Ver a solução comentada</summary><p>36 km/h = 10 m/s. (1) Há aceleração centrípeta de 100/20 = 5 m/s²: <b>errado</b>. (2) F = 250·5 = <b>1.250 N</b>: <b>certo</b>. (3) tg θ = v²/(gR) = 100/200 = <b>0,5</b>: <b>certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: o satélite</b><p>Um satélite de comunicações descreve órbita circular. Julgue: (1) a força centrípeta sobre o satélite é a força gravitacional da Terra; (2) se a massa do satélite dobrar, a velocidade orbital no mesmo raio também dobra; (3) um satélite geoestacionário tem período de 24 h.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Certo</b>. (2) v = √(GM/r) não depende da massa do satélite: <b>errado</b>. (3) <b>Certo</b>: ele acompanha a rotação da Terra.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: transmissão por corrente</b><p>Numa moto, a coroa da roda traseira tem 45 dentes e o pinhão do motor tem 15 dentes. O pinhão gira a 1.800 rpm. Julgue: (1) a coroa gira a 600 rpm; (2) pinhão e coroa giram em sentidos opostos; (3) os dentes do pinhão e da coroa em contato com a corrente têm a mesma velocidade linear.</p><details><summary>Ver a solução comentada</summary><p>f·N igual: 1.800·15 = f·45 → f = <b>600 rpm</b>: (1) <b>certo</b>. Ligados por <b>corrente</b>, giram no <b>mesmo sentido</b>: (2) <b>errado</b> (sentidos opostos seria com engrenagens em contato direto). (3) <b>Certo</b>.</p></details></div>\n<h3>33. Como a banca cobra este tópico</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>Os itens de movimento circular da Cebraspe costumam misturar conceito e conta curta: (a) afirmar que no MCU a aceleração é nula; (b) trocar o sentido da aceleração centrípeta; (c) afirmar que a massa influi na velocidade máxima de curva; (d) inverter a relação das polias; (e) confundir rpm e Hz; (f) tratar a força centrífuga como força real. As contas usam valores redondos: v em 10, 15, 20, 25 ou 30 m/s; raios de 20, 40, 50, 100 m; μ de 0,4 a 0,8.</p></div>\n<ul><li><b>Estratégia de leitura</b>:</li><li>Sublinhe a grandeza pedida (angular ou linear? força ou aceleração? normal ou peso?).</li><li>Verifique se a curva é <b>horizontal</b> (atrito ou normal inclinada) ou <b>vertical</b> (lombada, valeta, loop).</li><li>Monte a equação \"forças para o centro − forças para fora = m·v²/R\".</li><li>Confira a dependência com quadrados e raízes antes de julgar itens de proporção.</li></ul>\n<h3>34. Síntese do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Situação</th><th>Quem é a força centrípeta</th><th>Equação-chave</th><th>Resultado típico</th></tr></thead><tbody><tr><td>Curva plana</td><td>atrito lateral</td><td>μmg ≥ mv²/R</td><td>v_máx = √(μgR)</td></tr><tr><td>Curva sobrelevada (sem atrito)</td><td>componente da normal</td><td>tg θ = v²/(Rg)</td><td>velocidade ideal</td></tr><tr><td>Topo de lombada</td><td>peso − normal</td><td>mg − N = mv²/R</td><td>decola se v = √(gR)</td></tr><tr><td>Fundo de valeta</td><td>normal − peso</td><td>N − mg = mv²/R</td><td>normal maior que o peso</td></tr><tr><td>Topo de loop</td><td>peso + normal</td><td>mg + N = mv²/R</td><td>v_mín = √(gR)</td></tr><tr><td>Moto inclinada</td><td>atrito (com normal)</td><td>tg θ = v²/(gR)</td><td>inclina mais em alta velocidade</td></tr><tr><td>Satélite</td><td>gravidade</td><td>GMm/r² = mv²/r</td><td>v = √(GM/r)</td></tr><tr><td>Rotor de parque</td><td>normal (centrípeta); atrito equilibra o peso</td><td>μ·m·ω²R ≥ mg</td><td>ω_mín = √(g/μR)</td></tr></tbody></table>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para lembrar a direção: \"centrípeta\" vem do latim *centrum* + *petere* (\"buscar o centro\"). Se você desenhou uma força apontando para fora da curva sem um agente real que a exerça, risque-a: é a \"centrífuga\" fictícia.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Lombada de raio 10 m</span></span><span class=\"vs\"><span>Decola a 10 m/s (36 km/h)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Corrente ou correia</span></span><span class=\"vs\"><span>Mesmo sentido de giro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Engrenagens em contato</span></span><span class=\"vs\"><span>Sentidos opostos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Centrípeta</span></span><span class=\"vs\"><span>\"Busca o centro\"</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>MCU</span></span><span class=\"vs\"><span>a = v²/R, nunca nula</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Um eixo que gira a 2.400 rpm tem frequência de 40 Hz.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: 2.400 rpm (rotações por minuto) >> Ideia: 1 minuto = 60 s; Hz = voltas por segundo >> Conta: f = 2.400 ÷ 60 → f = 40 Hz → período T = 1/f = 0,025 s >> Resultado: 40 Hz",
+"e": "rpm ÷ 60 = Hz"
+},
+{
+"p": "Um eixo que gira a 1.200 rpm tem frequência de 200 Hz.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: 1.200 rpm (rotações por minuto) >> Ideia: 1 minuto = 60 s; Hz = voltas por segundo >> Conta: f = 1.200 ÷ 60 → f = 20 Hz → período T = 1/f = 0,05 s >> Resultado: 20 Hz",
+"e": "rpm ÷ 60 = Hz"
+},
+{
+"p": "Um eixo que gira a 1.800 rpm tem frequência de 300 Hz.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: 1.800 rpm (rotações por minuto) >> Ideia: 1 minuto = 60 s; Hz = voltas por segundo >> Conta: f = 1.800 ÷ 60 → f = 30 Hz → período T = 1/f = 0,0333 s >> Resultado: 30 Hz",
+"e": "rpm ÷ 60 = Hz"
+},
+{
+"p": "Um eixo que gira a 3.600 rpm tem frequência de 60 Hz.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: 3.600 rpm (rotações por minuto) >> Ideia: 1 minuto = 60 s; Hz = voltas por segundo >> Conta: f = 3.600 ÷ 60 → f = 60 Hz → período T = 1/f = 0,0167 s >> Resultado: 60 Hz",
+"e": "rpm ÷ 60 = Hz"
+},
+{
+"p": "Um eixo que gira a 600 rpm tem frequência de 10 Hz.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: 600 rpm (rotações por minuto) >> Ideia: 1 minuto = 60 s; Hz = voltas por segundo >> Conta: f = 600 ÷ 60 → f = 10 Hz → período T = 1/f = 0,1 s >> Resultado: 10 Hz",
+"e": "rpm ÷ 60 = Hz"
+},
+{
+"p": "Um eixo que gira a 3.000 rpm tem frequência de 500 Hz.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: 3.000 rpm (rotações por minuto) >> Ideia: 1 minuto = 60 s; Hz = voltas por segundo >> Conta: f = 3.000 ÷ 60 → f = 50 Hz → período T = 1/f = 0,02 s >> Resultado: 50 Hz",
+"e": "rpm ÷ 60 = Hz"
+},
+{
+"p": "Um eixo que gira a 4.800 rpm tem frequência de 80 Hz.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: 4.800 rpm (rotações por minuto) >> Ideia: 1 minuto = 60 s; Hz = voltas por segundo >> Conta: f = 4.800 ÷ 60 → f = 80 Hz → período T = 1/f = 0,0125 s >> Resultado: 80 Hz",
+"e": "rpm ÷ 60 = Hz"
+},
+{
+"p": "Uma roda de raio 0,4 m gira, sem deslizar, com velocidade angular de 40 rad/s. O veículo se desloca a 16 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: R = 0,4 m; ω = 40 rad/s >> Fórmula: v = ω·R >> Conta: v = 40·0,4 → v = 16 m/s (57,6 km/h) >> Atenção: dividir ω por R (100) é o erro clássico >> Resultado: 16 m/s",
+"e": "v = ω·R"
+},
+{
+"p": "Uma roda de raio 0,5 m gira, sem deslizar, com velocidade angular de 100 rad/s. O veículo se desloca a 50 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: R = 0,5 m; ω = 100 rad/s >> Fórmula: v = ω·R >> Conta: v = 100·0,5 → v = 50 m/s (180 km/h) >> Atenção: dividir ω por R (200) é o erro clássico >> Resultado: 50 m/s",
+"e": "v = ω·R"
+},
+{
+"p": "Uma roda de raio 0,25 m gira, sem deslizar, com velocidade angular de 100 rad/s. O veículo se desloca a 25 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: R = 0,25 m; ω = 100 rad/s >> Fórmula: v = ω·R >> Conta: v = 100·0,25 → v = 25 m/s (90 km/h) >> Atenção: dividir ω por R (400) é o erro clássico >> Resultado: 25 m/s",
+"e": "v = ω·R"
+},
+{
+"p": "Uma roda de raio 0,25 m gira, sem deslizar, com velocidade angular de 50 rad/s. O veículo se desloca a 12,5 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: R = 0,25 m; ω = 50 rad/s >> Fórmula: v = ω·R >> Conta: v = 50·0,25 → v = 12,5 m/s (45 km/h) >> Atenção: dividir ω por R (200) é o erro clássico >> Resultado: 12,5 m/s",
+"e": "v = ω·R"
+},
+{
+"p": "Uma roda de raio 0,5 m gira, sem deslizar, com velocidade angular de 60 rad/s. O veículo se desloca a 30 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: R = 0,5 m; ω = 60 rad/s >> Fórmula: v = ω·R >> Conta: v = 60·0,5 → v = 30 m/s (108 km/h) >> Atenção: dividir ω por R (120) é o erro clássico >> Resultado: 30 m/s",
+"e": "v = ω·R"
+},
+{
+"p": "Uma roda de raio 0,4 m gira, sem deslizar, com velocidade angular de 80 rad/s. O veículo se desloca a 200 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: R = 0,4 m; ω = 80 rad/s >> Fórmula: v = ω·R >> Conta: v = 80·0,4 → v = 32 m/s (115,2 km/h) >> Atenção: dividir ω por R (200) é o erro clássico >> Resultado: 32 m/s",
+"e": "v = ω·R"
+},
+{
+"p": "Um veículo percorre uma curva de raio 100 m com velocidade escalar constante de 90 km/h. O módulo de sua aceleração centrípeta é",
+"alts": [
+"6,25 m/s²",
+"zero, pois a velocidade é constante",
+"0,25 m/s²",
+"81 m/s²",
+"12,5 m/s²"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Velocidade escalar constante não impede a aceleração centrípeta: a direção muda.",
+"Esqueceu o quadrado da velocidade.",
+"Não converteu km/h para m/s.",
+"Dobrou o resultado."
+],
+"x": "Dados: v = 90 km/h; R = 100 m >> Converta: 90 km/h = 25 m/s >> Fórmula: a_cp = v²/R (aponta para o centro) >> Conta: a_cp = 25²/100 → a_cp = 625/100 → a_cp = 6,25 m/s² >> Resultado: 6,25 m/s²",
+"e": "a_cp = v²/R"
+},
+{
+"p": "Um veículo que faz uma curva de raio 200 m a 108 km/h, com velocidade escalar constante, tem aceleração centrípeta de 4,5 m/s².",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 108 km/h; R = 200 m >> Converta: 108 km/h = 30 m/s >> Fórmula: a_cp = v²/R (aponta para o centro) >> Conta: a_cp = 30²/200 → a_cp = 900/200 → a_cp = 4,5 m/s² >> Resultado: 4,5 m/s²",
+"e": "MCU tem aceleração centrípeta"
+},
+{
+"p": "Um veículo que faz uma curva de raio 25 m a 72 km/h, com velocidade escalar constante, tem aceleração centrípeta de 16 m/s².",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 72 km/h; R = 25 m >> Converta: 72 km/h = 20 m/s >> Fórmula: a_cp = v²/R (aponta para o centro) >> Conta: a_cp = 20²/25 → a_cp = 400/25 → a_cp = 16 m/s² >> Resultado: 16 m/s²",
+"e": "MCU tem aceleração centrípeta"
+},
+{
+"p": "Um veículo percorre uma curva de raio 80 m com velocidade escalar constante de 108 km/h. O módulo de sua aceleração centrípeta é",
+"alts": [
+"22,5 m/s²",
+"11,25 m/s²",
+"0,38 m/s²",
+"zero, pois a velocidade é constante",
+"145,8 m/s²"
+],
+"r": 1,
+"n": [
+"Dobrou o resultado.",
+"Correta.",
+"Esqueceu o quadrado da velocidade.",
+"Velocidade escalar constante não impede a aceleração centrípeta: a direção muda.",
+"Não converteu km/h para m/s."
+],
+"x": "Dados: v = 108 km/h; R = 80 m >> Converta: 108 km/h = 30 m/s >> Fórmula: a_cp = v²/R (aponta para o centro) >> Conta: a_cp = 30²/80 → a_cp = 900/80 → a_cp = 11,25 m/s² >> Resultado: 11,25 m/s²",
+"e": "a_cp = v²/R"
+},
+{
+"p": "Um veículo que faz uma curva de raio 200 m a 72 km/h, com velocidade escalar constante, tem aceleração centrípeta de 2 m/s².",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 72 km/h; R = 200 m >> Converta: 72 km/h = 20 m/s >> Fórmula: a_cp = v²/R (aponta para o centro) >> Conta: a_cp = 20²/200 → a_cp = 400/200 → a_cp = 2 m/s² >> Resultado: 2 m/s²",
+"e": "MCU tem aceleração centrípeta"
+},
+{
+"p": "Um veículo que faz uma curva de raio 100 m a 72 km/h, com velocidade escalar constante, tem aceleração nula, pois sua velocidade é constante.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 72 km/h; R = 100 m >> Converta: 72 km/h = 20 m/s >> Fórmula: a_cp = v²/R (aponta para o centro) >> Conta: a_cp = 20²/100 → a_cp = 400/100 → a_cp = 4 m/s² >> Resultado: 4 m/s²",
+"e": "MCU tem aceleração centrípeta"
+},
+{
+"p": "Um veículo que faz uma curva de raio 40 m a 108 km/h, com velocidade escalar constante, tem aceleração centrípeta de 22,5 m/s².",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 108 km/h; R = 40 m >> Converta: 108 km/h = 30 m/s >> Fórmula: a_cp = v²/R (aponta para o centro) >> Conta: a_cp = 30²/40 → a_cp = 900/40 → a_cp = 22,5 m/s² >> Resultado: 22,5 m/s²",
+"e": "MCU tem aceleração centrípeta"
+},
+{
+"p": "Para que um carro de 1.500 kg faça uma curva plana de raio 50 m a 108 km/h, o atrito lateral entre pneus e pista deve fornecer força de 27.000 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.500 kg; R = 50 m; v = 108 km/h >> Converta: 108 km/h = 30 m/s >> Ideia: na curva plana, quem faz o papel de força centrípeta é o atrito lateral >> Fórmula: F_cp = m·v²/R >> Conta: F = 1.500·900/50 → F = 27.000 N >> Resultado: 27.000 N",
+"e": "F_cp = m·v²/R"
+},
+{
+"p": "Para que um carro de 1.500 kg faça uma curva plana de raio 100 m a 90 km/h, o atrito lateral entre pneus e pista deve fornecer força de 375 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.500 kg; R = 100 m; v = 90 km/h >> Converta: 90 km/h = 25 m/s >> Ideia: na curva plana, quem faz o papel de força centrípeta é o atrito lateral >> Fórmula: F_cp = m·v²/R >> Conta: F = 1.500·625/100 → F = 9.375 N >> Resultado: 9.375 N",
+"e": "F_cp = m·v²/R"
+},
+{
+"p": "Para que um carro de 2.000 kg faça uma curva plana de raio 40 m a 72 km/h, o atrito lateral entre pneus e pista deve fornecer força de 20.000 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 2.000 kg; R = 40 m; v = 72 km/h >> Converta: 72 km/h = 20 m/s >> Ideia: na curva plana, quem faz o papel de força centrípeta é o atrito lateral >> Fórmula: F_cp = m·v²/R >> Conta: F = 2.000·400/40 → F = 20.000 N >> Resultado: 20.000 N",
+"e": "F_cp = m·v²/R"
+},
+{
+"p": "Para que um carro de 1.200 kg faça uma curva plana de raio 25 m a 90 km/h, o atrito lateral entre pneus e pista deve fornecer força de 1.200 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.200 kg; R = 25 m; v = 90 km/h >> Converta: 90 km/h = 25 m/s >> Ideia: na curva plana, quem faz o papel de força centrípeta é o atrito lateral >> Fórmula: F_cp = m·v²/R >> Conta: F = 1.200·625/25 → F = 30.000 N >> Resultado: 30.000 N",
+"e": "F_cp = m·v²/R"
+},
+{
+"p": "Para que um carro de 2.000 kg faça uma curva plana de raio 50 m a 90 km/h, o atrito lateral entre pneus e pista deve fornecer força de 1.000 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 2.000 kg; R = 50 m; v = 90 km/h >> Converta: 90 km/h = 25 m/s >> Ideia: na curva plana, quem faz o papel de força centrípeta é o atrito lateral >> Fórmula: F_cp = m·v²/R >> Conta: F = 2.000·625/50 → F = 25.000 N >> Resultado: 25.000 N",
+"e": "F_cp = m·v²/R"
+},
+{
+"p": "Para que um carro de 1.200 kg faça uma curva plana de raio 100 m a 54 km/h, o atrito lateral entre pneus e pista deve fornecer força de 2.700 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.200 kg; R = 100 m; v = 54 km/h >> Converta: 54 km/h = 15 m/s >> Ideia: na curva plana, quem faz o papel de força centrípeta é o atrito lateral >> Fórmula: F_cp = m·v²/R >> Conta: F = 1.200·225/100 → F = 2.700 N >> Resultado: 2.700 N",
+"e": "F_cp = m·v²/R"
+},
+{
+"p": "Em uma curva plana e horizontal de raio 20 m, o coeficiente de atrito estático entre pneus e pista é 0,5. Com g = 10 m/s², a maior velocidade com que um veículo pode fazer a curva sem derrapar é de",
+"alts": [
+"20 m/s",
+"5 m/s",
+"14,1 m/s",
+"10 m/s",
+"100 m/s"
+],
+"r": 3,
+"n": [
+"Não confere.",
+"Não confere.",
+"Ignorou o coeficiente de atrito.",
+"Correta.",
+"Esqueceu a raiz quadrada."
+],
+"x": "Dados: μ = 0,5; R = 20 m; g = 10 m/s² >> Ideia: o atrito estático máximo (μ·m·g) é a maior força centrípeta disponível; a massa se cancela >> Fórmula: m·v²/R = μ·m·g → v_máx = √(μ·g·R) >> Conta: v = √(0,5·10·20) → v = √100 → v = 10 m/s >> Resultado: 10 m/s (36 km/h)",
+"e": "v_máx = √(μgR)"
+},
+{
+"p": "Em uma curva plana de raio 80 m, com coeficiente de atrito estático 0,5 (g = 10 m/s²), a velocidade máxima sem derrapar é de 20 m/s para um carro de passeio, mas é menor para um caminhão de mesma aderência, por causa de sua massa maior.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: μ = 0,5; R = 80 m; g = 10 m/s² >> Ideia: o atrito estático máximo (μ·m·g) é a maior força centrípeta disponível; a massa se cancela >> Fórmula: m·v²/R = μ·m·g → v_máx = √(μ·g·R) >> Conta: v = √(0,5·10·80) → v = √400 → v = 20 m/s >> Resultado: 20 m/s (72 km/h)",
+"e": "Massa não influi em v_máx"
+},
+{
+"p": "Em uma curva plana e horizontal de raio 50 m, o coeficiente de atrito estático entre pneus e pista é 0,8. Com g = 10 m/s², a maior velocidade com que um veículo pode fazer a curva sem derrapar é de",
+"alts": [
+"20 m/s",
+"40 m/s",
+"22,4 m/s",
+"10 m/s",
+"400 m/s"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Não confere.",
+"Ignorou o coeficiente de atrito.",
+"Não confere.",
+"Esqueceu a raiz quadrada."
+],
+"x": "Dados: μ = 0,8; R = 50 m; g = 10 m/s² >> Ideia: o atrito estático máximo (μ·m·g) é a maior força centrípeta disponível; a massa se cancela >> Fórmula: m·v²/R = μ·m·g → v_máx = √(μ·g·R) >> Conta: v = √(0,8·10·50) → v = √400 → v = 20 m/s >> Resultado: 20 m/s (72 km/h)",
+"e": "v_máx = √(μgR)"
+},
+{
+"p": "Em uma curva plana de raio 45 m, com coeficiente de atrito estático 0,5 (g = 10 m/s²), a velocidade máxima sem derrapar é de 15 m/s, qualquer que seja a massa do veículo.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: μ = 0,5; R = 45 m; g = 10 m/s² >> Ideia: o atrito estático máximo (μ·m·g) é a maior força centrípeta disponível; a massa se cancela >> Fórmula: m·v²/R = μ·m·g → v_máx = √(μ·g·R) >> Conta: v = √(0,5·10·45) → v = √225 → v = 15 m/s >> Resultado: 15 m/s (54 km/h)",
+"e": "Massa não influi em v_máx"
+},
+{
+"p": "Em uma curva plana de raio 150 m, com coeficiente de atrito estático 0,6 (g = 10 m/s²), a velocidade máxima sem derrapar é de 30 m/s para um carro de passeio, mas é menor para um caminhão de mesma aderência, por causa de sua massa maior.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: μ = 0,6; R = 150 m; g = 10 m/s² >> Ideia: o atrito estático máximo (μ·m·g) é a maior força centrípeta disponível; a massa se cancela >> Fórmula: m·v²/R = μ·m·g → v_máx = √(μ·g·R) >> Conta: v = √(0,6·10·150) → v = √900 → v = 30 m/s >> Resultado: 30 m/s (108 km/h)",
+"e": "Massa não influi em v_máx"
+},
+{
+"p": "Um carro de 1.200 kg passa pelo topo de uma lombada de raio 40 m a 10 m/s (g = 10 m/s²). A força normal da pista sobre ele vale 9.000 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.200 kg; R = 40 m; v = 10 m/s >> Ideia: no topo, o centro da curva está abaixo do carro: peso menos normal = força centrípeta >> Fórmula: P − N = m·v²/R → N = m·g − m·v²/R >> Conta: P = 12.000 N → m·v²/R = 1.200·100/40 = 3.000 N → N = 12.000 − 3.000 = 9.000 N >> Atenção: somar as parcelas (15.000 N) seria o caso do fundo de uma valeta >> Resultado: 9.000 N",
+"e": "Topo da lombada: N < P"
+},
+{
+"p": "Um carro de 800 kg passa pelo topo de uma lombada de raio 40 m a 10 m/s (g = 10 m/s²). A força normal da pista sobre ele vale 10.000 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 800 kg; R = 40 m; v = 10 m/s >> Ideia: no topo, o centro da curva está abaixo do carro: peso menos normal = força centrípeta >> Fórmula: P − N = m·v²/R → N = m·g − m·v²/R >> Conta: P = 8.000 N → m·v²/R = 800·100/40 = 2.000 N → N = 8.000 − 2.000 = 6.000 N >> Atenção: somar as parcelas (10.000 N) seria o caso do fundo de uma valeta >> Resultado: 6.000 N",
+"e": "Topo da lombada: N < P"
+},
+{
+"p": "Um carro de 800 kg passa pelo topo de uma lombada de raio 50 m a 10 m/s (g = 10 m/s²). A força normal da pista sobre ele vale 9.600 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 800 kg; R = 50 m; v = 10 m/s >> Ideia: no topo, o centro da curva está abaixo do carro: peso menos normal = força centrípeta >> Fórmula: P − N = m·v²/R → N = m·g − m·v²/R >> Conta: P = 8.000 N → m·v²/R = 800·100/50 = 1.600 N → N = 8.000 − 1.600 = 6.400 N >> Atenção: somar as parcelas (9.600 N) seria o caso do fundo de uma valeta >> Resultado: 6.400 N",
+"e": "Topo da lombada: N < P"
+},
+{
+"p": "Um carro de 800 kg passa pelo topo de uma lombada de raio 20 m a 10 m/s (g = 10 m/s²). A força normal da pista sobre ele vale 4.000 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 800 kg; R = 20 m; v = 10 m/s >> Ideia: no topo, o centro da curva está abaixo do carro: peso menos normal = força centrípeta >> Fórmula: P − N = m·v²/R → N = m·g − m·v²/R >> Conta: P = 8.000 N → m·v²/R = 800·100/20 = 4.000 N → N = 8.000 − 4.000 = 4.000 N >> Atenção: somar as parcelas (12.000 N) seria o caso do fundo de uma valeta >> Resultado: 4.000 N",
+"e": "Topo da lombada: N < P"
+},
+{
+"p": "No topo de uma lombada cujo perfil tem raio de 22,5 m, um veículo perde contato com a pista a partir de 225 m/s (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: R = 22,5 m; g = 10 m/s² >> Ideia: perde contato quando a normal zera e só o peso faz o papel de força centrípeta >> Fórmula: m·g = m·v²/R → v = √(g·R) >> Conta: v = √(10·22,5) → v = √225 → v = 15 m/s (54 km/h) >> Resultado: 15 m/s",
+"e": "Lombada: v = √(gR)"
+},
+{
+"p": "No topo de uma lombada cujo perfil tem raio de 90 m, um veículo perde contato com a pista a partir de 30 m/s (g = 10 m/s²), independentemente de sua massa.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: R = 90 m; g = 10 m/s² >> Ideia: perde contato quando a normal zera e só o peso faz o papel de força centrípeta >> Fórmula: m·g = m·v²/R → v = √(g·R) >> Conta: v = √(10·90) → v = √900 → v = 30 m/s (108 km/h) >> Resultado: 30 m/s",
+"e": "Lombada: v = √(gR)"
+},
+{
+"p": "No topo de uma lombada cujo perfil tem raio de 62,5 m, um veículo perde contato com a pista a partir de 625 m/s (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: R = 62,5 m; g = 10 m/s² >> Ideia: perde contato quando a normal zera e só o peso faz o papel de força centrípeta >> Fórmula: m·g = m·v²/R → v = √(g·R) >> Conta: v = √(10·62,5) → v = √625 → v = 25 m/s (90 km/h) >> Resultado: 25 m/s",
+"e": "Lombada: v = √(gR)"
+},
+{
+"p": "No topo de uma lombada cujo perfil tem raio de 40 m, um veículo perde contato com a pista a partir de 400 m/s (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: R = 40 m; g = 10 m/s² >> Ideia: perde contato quando a normal zera e só o peso faz o papel de força centrípeta >> Fórmula: m·g = m·v²/R → v = √(g·R) >> Conta: v = √(10·40) → v = √400 → v = 20 m/s (72 km/h) >> Resultado: 20 m/s",
+"e": "Lombada: v = √(gR)"
+},
+{
+"p": "Um carro de 1.200 kg passa pelo ponto mais baixo de uma valeta de raio 50 m a 15 m/s (g = 10 m/s²). A normal sobre ele é igual ao seu peso, 12.000 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.200 kg; R = 50 m; v = 15 m/s >> Ideia: no fundo, o centro da curva está acima do carro: normal menos peso = força centrípeta >> Fórmula: N − m·g = m·v²/R → N = m·g + m·v²/R >> Conta: N = 12.000 + 1.200·225/50 → N = 12.000 + 5.400 → N = 17.400 N >> Resultado: 17.400 N",
+"e": "Fundo da valeta: N > P"
+},
+{
+"p": "Um carro de 1.000 kg passa pelo ponto mais baixo de uma valeta de raio 25 m a 15 m/s (g = 10 m/s²). A normal sobre ele é de 19.000 N, maior que o seu peso.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.000 kg; R = 25 m; v = 15 m/s >> Ideia: no fundo, o centro da curva está acima do carro: normal menos peso = força centrípeta >> Fórmula: N − m·g = m·v²/R → N = m·g + m·v²/R >> Conta: N = 10.000 + 1.000·225/25 → N = 10.000 + 9.000 → N = 19.000 N >> Resultado: 19.000 N",
+"e": "Fundo da valeta: N > P"
+},
+{
+"p": "Um carro de 1.000 kg passa pelo ponto mais baixo de uma valeta de raio 25 m a 15 m/s (g = 10 m/s²). A normal sobre ele é igual ao seu peso, 10.000 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.000 kg; R = 25 m; v = 15 m/s >> Ideia: no fundo, o centro da curva está acima do carro: normal menos peso = força centrípeta >> Fórmula: N − m·g = m·v²/R → N = m·g + m·v²/R >> Conta: N = 10.000 + 1.000·225/25 → N = 10.000 + 9.000 → N = 19.000 N >> Resultado: 19.000 N",
+"e": "Fundo da valeta: N > P"
+},
+{
+"p": "Um carro de 1.000 kg passa pelo ponto mais baixo de uma valeta de raio 20 m a 10 m/s (g = 10 m/s²). A normal sobre ele é igual ao seu peso, 10.000 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.000 kg; R = 20 m; v = 10 m/s >> Ideia: no fundo, o centro da curva está acima do carro: normal menos peso = força centrípeta >> Fórmula: N − m·g = m·v²/R → N = m·g + m·v²/R >> Conta: N = 10.000 + 1.000·100/20 → N = 10.000 + 5.000 → N = 15.000 N >> Resultado: 15.000 N",
+"e": "Fundo da valeta: N > P"
+},
+{
+"p": "Uma polia de raio 15 cm, girando a 600 rpm, aciona por correia (sem deslizamento) outra polia de raio 5 cm, que passa a girar a 200 rpm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: R₁ = 15 cm; f₁ = 600 rpm; R₂ = 5 cm >> Ideia: a correia tem a mesma velocidade linear em toda a extensão, então v₁ = v₂ >> Fórmula: f₁·R₁ = f₂·R₂ >> Conta: 600·15 = f₂·5 → f₂ = 9000/5 → f₂ = 1.800 rpm >> Confere: a polia menor gira mais depressa >> Resultado: 1.800 rpm",
+"e": "Correia: f₁R₁ = f₂R₂"
+},
+{
+"p": "Uma polia de raio 40 cm, girando a 300 rpm, aciona por correia (sem deslizamento) outra polia de raio 10 cm, que passa a girar a 75 rpm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: R₁ = 40 cm; f₁ = 300 rpm; R₂ = 10 cm >> Ideia: a correia tem a mesma velocidade linear em toda a extensão, então v₁ = v₂ >> Fórmula: f₁·R₁ = f₂·R₂ >> Conta: 300·40 = f₂·10 → f₂ = 12000/10 → f₂ = 1.200 rpm >> Confere: a polia menor gira mais depressa >> Resultado: 1.200 rpm",
+"e": "Correia: f₁R₁ = f₂R₂"
+},
+{
+"p": "Uma polia de raio 20 cm, girando a 600 rpm, aciona por correia (sem deslizamento) outra polia de raio 5 cm, que passa a girar a 150 rpm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: R₁ = 20 cm; f₁ = 600 rpm; R₂ = 5 cm >> Ideia: a correia tem a mesma velocidade linear em toda a extensão, então v₁ = v₂ >> Fórmula: f₁·R₁ = f₂·R₂ >> Conta: 600·20 = f₂·5 → f₂ = 12000/5 → f₂ = 2.400 rpm >> Confere: a polia menor gira mais depressa >> Resultado: 2.400 rpm",
+"e": "Correia: f₁R₁ = f₂R₂"
+},
+{
+"p": "Uma polia de raio 30 cm, girando a 600 rpm, aciona por correia (sem deslizamento) outra polia de raio 10 cm, que passa a girar a 1.800 rpm.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: R₁ = 30 cm; f₁ = 600 rpm; R₂ = 10 cm >> Ideia: a correia tem a mesma velocidade linear em toda a extensão, então v₁ = v₂ >> Fórmula: f₁·R₁ = f₂·R₂ >> Conta: 600·30 = f₂·10 → f₂ = 18000/10 → f₂ = 1.800 rpm >> Confere: a polia menor gira mais depressa >> Resultado: 1.800 rpm",
+"e": "Correia: f₁R₁ = f₂R₂"
+},
+{
+"p": "Uma polia de raio 10 cm, girando a 300 rpm, aciona por correia (sem deslizamento) outra polia de raio 5 cm, que passa a girar a 150 rpm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: R₁ = 10 cm; f₁ = 300 rpm; R₂ = 5 cm >> Ideia: a correia tem a mesma velocidade linear em toda a extensão, então v₁ = v₂ >> Fórmula: f₁·R₁ = f₂·R₂ >> Conta: 300·10 = f₂·5 → f₂ = 3000/5 → f₂ = 600 rpm >> Confere: a polia menor gira mais depressa >> Resultado: 600 rpm",
+"e": "Correia: f₁R₁ = f₂R₂"
+},
+{
+"p": "Uma polia de raio 20 cm, girando a 600 rpm, aciona por correia (sem deslizamento) outra polia de raio 5 cm, que passa a girar a 2.400 rpm.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: R₁ = 20 cm; f₁ = 600 rpm; R₂ = 5 cm >> Ideia: a correia tem a mesma velocidade linear em toda a extensão, então v₁ = v₂ >> Fórmula: f₁·R₁ = f₂·R₂ >> Conta: 600·20 = f₂·5 → f₂ = 12000/5 → f₂ = 2.400 rpm >> Confere: a polia menor gira mais depressa >> Resultado: 2.400 rpm",
+"e": "Correia: f₁R₁ = f₂R₂"
+},
+{
+"p": "Uma polia de raio 30 cm, girando a 300 rpm, aciona por correia (sem deslizamento) outra polia de raio 10 cm, que passa a girar a 100 rpm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: R₁ = 30 cm; f₁ = 300 rpm; R₂ = 10 cm >> Ideia: a correia tem a mesma velocidade linear em toda a extensão, então v₁ = v₂ >> Fórmula: f₁·R₁ = f₂·R₂ >> Conta: 300·30 = f₂·10 → f₂ = 9000/10 → f₂ = 900 rpm >> Confere: a polia menor gira mais depressa >> Resultado: 900 rpm",
+"e": "Correia: f₁R₁ = f₂R₂"
+},
+{
+"p": "Um pinhão de 10 dentes, a 2400 rpm, aciona por corrente uma coroa de 40 dentes. A coroa gira a 600 rpm, no mesmo sentido do pinhão.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: N₁ = 10; f₁ = 2400 rpm; N₂ = 40 >> Ideia: a corrente passa o mesmo número de dentes por segundo nas duas rodas dentadas >> Fórmula: f₁·N₁ = f₂·N₂ >> Conta: f₂ = 2400·10/40 → f₂ = 600 rpm >> Confere: ligação por corrente → mesmo sentido; a maior gira mais devagar >> Resultado: 600 rpm",
+"e": "Corrente: f₁N₁ = f₂N₂"
+},
+{
+"p": "Um pinhão de 12 dentes, a 1200 rpm, aciona por corrente uma coroa de 36 dentes. A coroa gira a 400 rpm, no mesmo sentido do pinhão.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: N₁ = 12; f₁ = 1200 rpm; N₂ = 36 >> Ideia: a corrente passa o mesmo número de dentes por segundo nas duas rodas dentadas >> Fórmula: f₁·N₁ = f₂·N₂ >> Conta: f₂ = 1200·12/36 → f₂ = 400 rpm >> Confere: ligação por corrente → mesmo sentido; a maior gira mais devagar >> Resultado: 400 rpm",
+"e": "Corrente: f₁N₁ = f₂N₂"
+},
+{
+"p": "Um pinhão de 15 dentes, a 2400 rpm, aciona por corrente uma coroa de 45 dentes. A coroa gira a 7.200 rpm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: N₁ = 15; f₁ = 2400 rpm; N₂ = 45 >> Ideia: a corrente passa o mesmo número de dentes por segundo nas duas rodas dentadas >> Fórmula: f₁·N₁ = f₂·N₂ >> Conta: f₂ = 2400·15/45 → f₂ = 800 rpm >> Confere: ligação por corrente → mesmo sentido; a maior gira mais devagar >> Resultado: 800 rpm",
+"e": "Corrente: f₁N₁ = f₂N₂"
+},
+{
+"p": "Um pinhão de 12 dentes, a 2400 rpm, aciona por corrente uma coroa de 36 dentes. A coroa gira a 7.200 rpm.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: N₁ = 12; f₁ = 2400 rpm; N₂ = 36 >> Ideia: a corrente passa o mesmo número de dentes por segundo nas duas rodas dentadas >> Fórmula: f₁·N₁ = f₂·N₂ >> Conta: f₂ = 2400·12/36 → f₂ = 800 rpm >> Confere: ligação por corrente → mesmo sentido; a maior gira mais devagar >> Resultado: 800 rpm",
+"e": "Corrente: f₁N₁ = f₂N₂"
+},
+{
+"p": "Numa mesma curva, se a velocidade de um veículo dobrar, a aceleração centrípeta ficará 4 vezes maior.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: a_cp = v²/R e F_cp = m·v²/R >> Ideia: as duas são proporcionais ao QUADRADO da velocidade >> Conta: fator 2 na velocidade → fator 2² = 4 >> Resultado: 4 vezes maior",
+"e": "∝ v²"
+},
+{
+"p": "Numa mesma curva, se a velocidade de um veículo dobrar, a força de atrito lateral necessária ficará 2 vezes maior.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: a_cp = v²/R e F_cp = m·v²/R >> Ideia: as duas são proporcionais ao QUADRADO da velocidade >> Conta: fator 2 na velocidade → fator 2² = 4 >> Resultado: 4 vezes maior",
+"e": "∝ v²"
+},
+{
+"p": "Numa mesma curva, se a velocidade de um veículo triplicar, a aceleração centrípeta ficará 9 vezes maior.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: a_cp = v²/R e F_cp = m·v²/R >> Ideia: as duas são proporcionais ao QUADRADO da velocidade >> Conta: fator 3 na velocidade → fator 3² = 9 >> Resultado: 9 vezes maior",
+"e": "∝ v²"
+},
+{
+"p": "Numa mesma curva, se a velocidade de um veículo triplicar, a força de atrito lateral necessária ficará 3 vezes maior.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: a_cp = v²/R e F_cp = m·v²/R >> Ideia: as duas são proporcionais ao QUADRADO da velocidade >> Conta: fator 3 na velocidade → fator 3² = 9 >> Resultado: 9 vezes maior",
+"e": "∝ v²"
+},
+{
+"p": "Mantida a velocidade, se o raio de uma curva cair à metade, a força centrípeta necessária dobra.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: F_cp = m·v²/R >> Ideia: a força é inversamente proporcional ao raio >> Conta: R/2 → F × 2 >> Resultado: dobra (curvas fechadas exigem mais atrito)",
+"e": "F_cp ∝ 1/R"
+},
+{
+"p": "Mantida a velocidade, se o raio de uma curva cair à metade, a força centrípeta necessária cai à metade.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: F_cp = m·v²/R >> Ideia: a força é inversamente proporcional ao raio >> Conta: R/2 → F × 2 >> Resultado: dobra (curvas fechadas exigem mais atrito)",
+"e": "F_cp ∝ 1/R"
+},
+{
+"p": "Num globo da morte de raio 2,5 m, a velocidade mínima de uma moto no ponto mais alto depende da massa da moto e do piloto.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: R = 2,5 m; g = 10 m/s² >> Ideia: na velocidade mínima, a normal no topo é zero e só o peso é centrípeto >> Fórmula: m·g = m·v²/R → v_mín = √(g·R) (a massa se cancela) >> Conta: v = √(10·2,5) = √25 = 5 m/s >> Resultado: 5 m/s",
+"e": "Loop: v_mín = √(gR)"
+},
+{
+"p": "Num globo da morte de raio 3,6 m, a velocidade mínima de uma moto no ponto mais alto, para não perder contato, é de 6 m/s (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: R = 3,6 m; g = 10 m/s² >> Ideia: na velocidade mínima, a normal no topo é zero e só o peso é centrípeto >> Fórmula: m·g = m·v²/R → v_mín = √(g·R) (a massa se cancela) >> Conta: v = √(10·3,6) = √36 = 6 m/s >> Resultado: 6 m/s",
+"e": "Loop: v_mín = √(gR)"
+},
+{
+"p": "Num globo da morte de raio 6,4 m, a velocidade mínima de uma moto no ponto mais alto depende da massa da moto e do piloto.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: R = 6,4 m; g = 10 m/s² >> Ideia: na velocidade mínima, a normal no topo é zero e só o peso é centrípeto >> Fórmula: m·g = m·v²/R → v_mín = √(g·R) (a massa se cancela) >> Conta: v = √(10·6,4) = √64 = 8 m/s >> Resultado: 8 m/s",
+"e": "Loop: v_mín = √(gR)"
+},
+{
+"p": "Um veículo teve os pneus originais, de raio 30 cm, trocados por outros de raio 33 cm, sem recalibrar o velocímetro. Quando o painel indica 100 km/h, a velocidade real é de 90,9 km/h.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o velocímetro mede a rotação da roda e supõe o raio original; v = ω·R >> Fórmula: v_real = v_indicada · R_novo/R_original >> Conta: v_real = 100·33/30 → v_real = 110 km/h >> Resultado: 110 km/h (mais do que o painel indica)",
+"e": "Pneu e velocímetro"
+},
+{
+"p": "Um veículo teve os pneus originais, de raio 30 cm, trocados por outros de raio 27 cm, sem recalibrar o velocímetro. Quando o painel indica 90 km/h, a velocidade real é de 100 km/h.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o velocímetro mede a rotação da roda e supõe o raio original; v = ω·R >> Fórmula: v_real = v_indicada · R_novo/R_original >> Conta: v_real = 90·27/30 → v_real = 81 km/h >> Resultado: 81 km/h (menos do que o painel indica)",
+"e": "Pneu e velocímetro"
+},
+{
+"p": "Um veículo teve os pneus originais, de raio 30 cm, trocados por outros de raio 33 cm, sem recalibrar o velocímetro. Quando o painel indica 80 km/h, a velocidade real é de 88 km/h.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o velocímetro mede a rotação da roda e supõe o raio original; v = ω·R >> Fórmula: v_real = v_indicada · R_novo/R_original >> Conta: v_real = 80·33/30 → v_real = 88 km/h >> Resultado: 88 km/h (mais do que o painel indica)",
+"e": "Pneu e velocímetro"
+},
+{
+"p": "Um veículo teve os pneus originais, de raio 32 cm, trocados por outros de raio 30 cm, sem recalibrar o velocímetro. Quando o painel indica 96 km/h, a velocidade real é de 102,4 km/h.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o velocímetro mede a rotação da roda e supõe o raio original; v = ω·R >> Fórmula: v_real = v_indicada · R_novo/R_original >> Conta: v_real = 96·30/32 → v_real = 90 km/h >> Resultado: 90 km/h (menos do que o painel indica)",
+"e": "Pneu e velocímetro"
+},
+{
+"p": "Para que um veículo faça uma curva de raio 160 m a 20 m/s sem depender do atrito, a pista deve ter inclinação θ tal que tg θ = 0,25 (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 20 m/s; R = 160 m >> Ideia: a componente horizontal da normal faz o papel de força centrípeta >> Fórmula: tg θ = v²/(R·g) >> Conta: tg θ = 400/(160·10) → tg θ = 0,25 >> Resultado: tg θ = 0,25",
+"e": "Curva sobrelevada"
+},
+{
+"p": "Para que um veículo faça uma curva de raio 90 m a 30 m/s sem depender do atrito, a pista deve ter inclinação θ tal que tg θ = 2 (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 30 m/s; R = 90 m >> Ideia: a componente horizontal da normal faz o papel de força centrípeta >> Fórmula: tg θ = v²/(R·g) >> Conta: tg θ = 900/(90·10) → tg θ = 1 >> Resultado: tg θ = 1",
+"e": "Curva sobrelevada"
+},
+{
+"p": "Para que um veículo faça uma curva de raio 40 m a 10 m/s sem depender do atrito, a pista deve ter inclinação θ tal que tg θ = 0,25 (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 10 m/s; R = 40 m >> Ideia: a componente horizontal da normal faz o papel de força centrípeta >> Fórmula: tg θ = v²/(R·g) >> Conta: tg θ = 100/(40·10) → tg θ = 0,25 >> Resultado: tg θ = 0,25",
+"e": "Curva sobrelevada"
+},
+{
+"p": "Todos os pontos de um disco rígido que gira em torno de seu eixo têm a mesma velocidade angular, mas os pontos mais afastados do centro têm maior velocidade linear.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: todos completam a volta no mesmo tempo, então ω é igual >> Fórmula: v = ω·R >> Ideia: com ω igual, v cresce com o raio >> Resultado: certo",
+"e": "Mesma ω, v ∝ R"
+},
+{
+"p": "No movimento circular uniforme, o vetor velocidade é constante.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: no MCU, só o módulo da velocidade é constante >> Ideia: a direção (tangente à trajetória) muda a cada instante, por isso há aceleração centrípeta >> Resultado: o vetor velocidade varia",
+"e": "Vetor velocidade varia no MCU"
+},
+{
+"p": "No movimento circular uniforme, a aceleração é perpendicular à velocidade e aponta para o centro da trajetória.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: no MCU não há aceleração tangencial; só a centrípeta >> Fórmula: a_cp = v²/R, dirigida ao centro >> Resultado: certo",
+"e": "Aceleração centrípeta"
+},
+{
+"p": "A força centrípeta é uma força adicional, que deve ser somada ao peso, à normal e ao atrito no diagrama de forças de um carro em curva.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: força centrípeta é o nome do papel desempenhado pela resultante das forças reais na direção do centro >> Ideia: numa curva plana, esse papel é do atrito lateral >> Resultado: não se desenha uma força extra",
+"e": "Centrípeta é a resultante"
+},
+{
+"p": "A força centrífuga é uma força real, exercida pela curva sobre os passageiros, que os empurra para fora.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: os passageiros tendem, por inércia, a seguir em linha reta, enquanto o carro curva >> Ideia: a \"centrífuga\" só aparece para quem descreve o movimento a partir do carro (referencial não inercial); é fictícia >> Resultado: errado",
+"e": "Centrífuga é fictícia"
+},
+{
+"p": "Se a corda que mantém uma pedra em movimento circular se romper, a pedra seguirá em trajetória tangente à circunferência no ponto em que estava.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: sem força centrípeta, nada desvia a pedra da linha reta (1ª lei de Newton) >> Ideia: a direção da velocidade naquele instante é tangente à circunferência >> Resultado: sai pela tangente",
+"e": "Sai pela tangente"
+},
+{
+"p": "Em uma curva plana e horizontal, a força que mantém o veículo na trajetória curva é o atrito estático entre os pneus e a pista.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: enquanto não há derrapagem, o pneu não desliza lateralmente; o atrito é estático >> Fórmula: Fat ≤ μ·N; a curva exige m·v²/R >> Resultado: certo",
+"e": "Atrito estático lateral"
+},
+{
+"p": "Em uma curva plana, a velocidade máxima sem derrapar é menor para veículos mais pesados, mantido o coeficiente de atrito.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: μ·m·g = m·v²/R → v_máx = √(μ·g·R) >> Ideia: a massa aparece dos dois lados e se cancela >> Resultado: a velocidade máxima teórica não depende da massa",
+"e": "Massa se cancela"
+},
+{
+"p": "Se o coeficiente de atrito de uma curva cair à metade por causa da chuva, a velocidade máxima segura cairá para cerca de 71% do valor em pista seca.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: v_máx = √(μ·g·R) >> Conta: μ/2 → v × √(1/2) ≈ 0,71 >> Resultado: certo",
+"e": "v_máx ∝ √μ"
+},
+{
+"p": "No topo de uma lombada, a força normal sobre o veículo é maior que o peso, por isso os passageiros se sentem mais pesados.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: no topo, P − N = m·v²/R → N = m·g − m·v²/R >> Ideia: a normal fica menor que o peso; a sensação é de ficar mais leve >> Resultado: errado",
+"e": "Topo: N menor"
+},
+{
+"p": "No ponto mais baixo de uma valeta, a força normal sobre o carro é maior que o seu peso.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: N − m·g = m·v²/R → N = m·g + m·v²/R >> Resultado: certo; a suspensão é comprimida",
+"e": "Fundo: N maior"
+},
+{
+"p": "Em duas polias ligadas por uma correia sem deslizamento, a de menor raio gira com maior frequência.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a correia impõe a mesma velocidade linear às duas periferias >> Fórmula: f₁·R₁ = f₂·R₂ >> Ideia: raio menor, frequência maior >> Resultado: certo",
+"e": "Correia: menor gira mais"
+},
+{
+"p": "Duas polias fixas no mesmo eixo têm a mesma velocidade linear em suas bordas, qualquer que seja o raio.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: polias no mesmo eixo giram juntas: têm a mesma velocidade angular >> Fórmula: v = ω·R >> Ideia: a de maior raio tem maior velocidade linear >> Resultado: errado",
+"e": "Mesmo eixo: mesma ω"
+},
+{
+"p": "Engrenagens que se tocam diretamente giram no mesmo sentido.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: dentes em contato empurram-se em sentidos opostos >> Resultado: engrenagens em contato direto giram em sentidos opostos; com correia ou corrente, no mesmo sentido",
+"e": "Engrenagens: sentidos opostos"
+},
+{
+"p": "Um veículo cujos pneus foram trocados por outros de diâmetro maior, sem ajuste do velocímetro, anda mais rápido do que o painel indica.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o velocímetro mede a rotação da roda e supõe o raio original >> Fórmula: v = ω·R; com R maior, a mesma rotação dá velocidade maior >> Resultado: certo",
+"e": "Pneu maior engana o painel"
+},
+{
+"p": "Uma frequência de 1.200 rpm corresponde a 1.200 Hz.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: rpm são rotações por minuto; Hz, por segundo >> Conta: 1.200 ÷ 60 = 20 Hz >> Resultado: 20 Hz",
+"e": "rpm ÷ 60 = Hz"
+},
+{
+"p": "O ponto de contato de um pneu que rola sem deslizar está, naquele instante, em repouso em relação à pista.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: no rolamento sem deslizamento, a velocidade de rotação no ponto de contato (ω·R, para trás) anula a de translação (v, para frente) >> Resultado: certo; por isso o atrito é estático",
+"e": "Ponto de contato em repouso"
+},
+{
+"p": "O ponto mais alto de um pneu que rola sem deslizar tem a mesma velocidade do veículo em relação à pista.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: no topo, a translação v e a rotação ω·R têm o mesmo sentido >> Conta: v_topo = v + ω·R = 2v >> Resultado: o dobro da velocidade do veículo",
+"e": "Topo da roda: 2v"
+},
+{
+"p": "Frear bruscamente dentro de uma curva aumenta o risco de derrapagem, porque o atrito disponível no pneu precisa fornecer, ao mesmo tempo, a força de frenagem e a força centrípeta.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a aceleração total tem componente tangencial (frenagem) e centrípeta >> Fórmula: a = √(a_t² + a_cp²), limitada por μ·g >> Resultado: certo; reduz-se antes da curva",
+"e": "Frear na curva"
+},
+{
+"p": "Veículos com centro de massa elevado, como caminhões carregados no alto, podem tombar numa curva antes de atingir a velocidade de derrapagem.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a força lateral no solo e a inércia aplicada no centro de massa tendem a girar o veículo em torno das rodas externas >> Fórmula: modelo simples: tomba se v² > g·R·d/(2h) >> Ideia: h maior → velocidade de tombamento menor >> Resultado: certo",
+"e": "Tombamento"
+},
+{
+"p": "A força centrípeta realiza trabalho positivo sobre um corpo em movimento circular uniforme.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a força centrípeta é perpendicular ao deslocamento em cada instante >> Fórmula: τ = F·d·cos 90° = 0 >> Resultado: não realiza trabalho; a energia cinética fica constante",
+"e": "Centrípeta não realiza trabalho"
+},
+{
+"p": "Um satélite em órbita circular está em queda livre contínua em direção à Terra, e a gravidade faz o papel de força centrípeta.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a gravidade desvia o satélite continuamente da linha reta; ele \"cai\" sem atingir a superfície porque se move lateralmente muito depressa >> Resultado: certo",
+"e": "Órbita = queda livre"
+},
+{
+"p": "Os astronautas flutuam na estação espacial porque, na altitude em que ela orbita, a gravidade terrestre é nula.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a gravidade lá ainda é cerca de 90% da da superfície >> Ideia: estação e astronautas estão em queda livre juntos, por isso eles flutuam em relação a ela >> Resultado: errado",
+"e": "Imponderabilidade"
+},
+{
+"p": "Segundo a lei da gravitação universal, se a distância entre dois corpos dobrar, a força gravitacional entre eles cairá à metade.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: F = G·M·m/d² >> Conta: d × 2 → F ÷ 4 >> Resultado: cai a um quarto",
+"e": "Inverso do quadrado"
+},
+{
+"p": "Uma polia A, de raio 30 cm, gira a 400 rpm e aciona, por correia sem deslizamento, a polia B, de raio 10 cm. B está presa ao mesmo eixo de uma polia C, de raio 20 cm. A velocidade linear da borda de C é de aproximadamente (use π ≈ 3,14)",
+"alts": [
+"8,4 m/s",
+"12,6 m/s",
+"25,1 m/s",
+"50,2 m/s",
+"4,2 m/s"
+],
+"r": 2,
+"n": [
+"Usou a rotação de A na polia C.",
+"É a velocidade da correia (borda de B), não a da borda de C.",
+"Correta.",
+"Dobrou o resultado.",
+"Não confere."
+],
+"x": "Dados: R_A = 30 cm; f_A = 400 rpm; R_B = 10 cm; R_C = 20 cm >> Ideia: A e B ligadas por correia (mesma velocidade linear); B e C no mesmo eixo (mesma velocidade angular) >> Fórmula: f_A·R_A = f_B·R_B; v = 2π·f·R >> Conta: f_B = 400·30/10 = 1.200 rpm = 20 Hz → f_C = f_B = 20 Hz → v_C = 2·3,14·20·0,2 → v_C ≈ 25,1 m/s >> Resultado: ≈ 25,1 m/s",
+"e": "Correia e eixo"
+},
+{
+"p": "Um automóvel percorre o topo de uma lombada de raio 40 m. Com g = 10 m/s², a velocidade a partir da qual ele perde contato com a pista é de",
+"alts": [
+"10 m/s",
+"20 m/s",
+"40 m/s",
+"400 m/s",
+"4 m/s"
+],
+"r": 1,
+"n": [
+"Usou R = 10 m.",
+"Correta.",
+"Não confere.",
+"Esqueceu a raiz.",
+"Não confere."
+],
+"x": "Dados: R = 40 m; g = 10 m/s² >> Ideia: perde contato quando a normal se anula: só o peso é centrípeto >> Fórmula: m·g = m·v²/R → v = √(g·R) >> Conta: v = √(10·40) → v = √400 → v = 20 m/s >> Resultado: 20 m/s (72 km/h)",
+"e": "Lombada: √(gR)"
+},
+{
+"p": "Um motociclista contorna uma curva de raio 40 m a 20 m/s, inclinando a moto. A tangente do ângulo de inclinação em relação à vertical, para g = 10 m/s², é",
+"alts": [
+"0,5",
+"1",
+"2",
+"0,1",
+"10"
+],
+"r": 1,
+"n": [
+"Não confere.",
+"Correta.",
+"Inverteu a razão.",
+"Não confere.",
+"Não confere."
+],
+"x": "Dados: v = 20 m/s; R = 40 m >> Fórmula: tg θ = v²/(g·R) >> Conta: tg θ = 400/(10·40) → tg θ = 400/400 = 1 >> Resultado: tg θ = 1 (θ = 45°): inclinação muito grande, que exigiria μ ≥ 1",
+"e": "Moto inclinada"
+},
+{
+"p": "Assinale a opção correta sobre o movimento circular uniforme.",
+"alts": [
+"A aceleração é nula, pois a velocidade é constante.",
+"A aceleração aponta para fora da curva.",
+"O período e a frequência são constantes, e a aceleração centrípeta tem módulo v²/R.",
+"A força resultante é tangente à trajetória.",
+"A velocidade angular varia com o raio para pontos de um mesmo corpo rígido."
+],
+"r": 2,
+"n": [
+"Há aceleração centrípeta.",
+"Aponta para o centro.",
+"Correta.",
+"A resultante é centrípeta (perpendicular à trajetória).",
+"Num corpo rígido, ω é a mesma para todos os pontos."
+],
+"x": "Ideia: no MCU são constantes o módulo de v, ω, T e f >> Fórmula: a_cp = v²/R, dirigida ao centro >> Resultado: alternativa com período, frequência e a_cp",
+"e": "MCU"
+},
+{
+"p": "Numa curva sobrelevada, existe uma velocidade em que o veículo pode fazer a curva sem depender do atrito, pois a componente horizontal da normal fornece toda a força centrípeta.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: com a pista inclinada, a normal deixa de ser vertical >> Fórmula: tg θ = v²/(R·g) define essa velocidade ideal >> Resultado: certo",
+"e": "Curva sobrelevada"
+},
+{
+"p": "O disco de um tacógrafo analógico de 24 horas gira 30° a cada hora.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o disco dá uma volta (360°) em 24 h, com velocidade angular constante >> Conta: 360° ÷ 24 h = 15° por hora >> Resultado: 15° por hora",
+"e": "Tacógrafo: 15°/h"
+},
+{
+"p": "Dois veículos que circulam numa pista circular de 1.200 m, no mesmo sentido, a 25 m/s e 20 m/s, voltam a ficar lado a lado a cada 240 s.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: no mesmo sentido, o mais rápido precisa abrir uma volta inteira de vantagem >> Fórmula: t = comprimento da pista / (v₁ − v₂) >> Conta: t = 1.200/(25 − 20) → t = 1.200/5 = 240 s >> Resultado: 240 s",
+"e": "Encontro em pista circular"
+}
+]
+},
+"ondas-optica": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>v = λ·f</b><span>equação fundamental da ondulatória</span></div><div class=\"lt-stat\"><b>≈ 340 m/s</b><span>velocidade do som no ar</span></div><div class=\"lt-stat\"><b>3 × 10⁸ m/s</b><span>velocidade da luz no vácuo</span></div><div class=\"lt-stat\"><b>1/f = 1/p + 1/p′</b><span>equação dos espelhos e lentes</span></div></div>\n<p>Ondas e óptica não constam da lista do último edital da PRF (que termina em colisões), mas aparecem em editais de outras carreiras e em provas de conhecimentos gerais, e explicam equipamentos e situações do dia a dia policial: o <b>radar</b> de velocidade (efeito Doppler), a <b>sirene</b> que muda de tom ao passar, o <b>retrovisor convexo</b>, os <b>faróis</b> com refletor côncavo, os materiais <b>retrorrefletivos</b> das placas e dos coletes, a <b>miragem</b> no asfalto quente, o <b>ofuscamento</b> pelo farol alto e as lentes corretivas exigidas na habilitação. Esta leitura apresenta a ondulatória (conceitos, som, fenômenos, Doppler, espectro eletromagnético) e a óptica (reflexão, espelhos, refração, lentes e visão), sempre com aplicações e contas passo a passo.</p>\n<h3>1. O que é uma onda</h3>\n<ul><li><b>Onda</b> é uma perturbação que se <b>propaga</b> transportando <b>energia</b> (e quantidade de movimento), <b>sem transportar matéria</b>. Numa \"ola\" de estádio, as pessoas só sobem e descem; o que viaja é a perturbação. Uma boia no mar sobe e desce com as ondas, mas não é levada por elas (quando não há correnteza).</li><li><b>Quanto à natureza</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Precisa de meio material?</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Mecânicas</b></td><td><b>sim</b> (não se propagam no vácuo)</td><td>som, ondas na água, ondas numa corda, ondas sísmicas</td></tr><tr><td><b>Eletromagnéticas</b></td><td><b>não</b> (propagam-se também no vácuo)</td><td>luz, ondas de rádio, micro-ondas, infravermelho, ultravioleta, raios X, raios gama</td></tr></tbody></table>\n<ul><li><b>Quanto à direção de vibração</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo</th><th>Vibração em relação à propagação</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Transversais</b></td><td><b>perpendicular</b></td><td>ondas numa corda, luz e todas as eletromagnéticas</td></tr><tr><td><b>Longitudinais</b></td><td><b>na mesma direção</b> (compressões e rarefações)</td><td><b>som</b> no ar, ondas numa mola comprimida</td></tr><tr><td>Mistas</td><td>as duas ao mesmo tempo</td><td>ondas na superfície da água</td></tr></tbody></table>\n<ul><li><b>Consequência</b>: o <b>som não se propaga no vácuo</b> (no espaço não há som); a luz do Sol chega à Terra atravessando o vácuo.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As ondas transportam matéria de um ponto a outro do meio</span><br>✅ <span class=\"certo\">transportam <b>energia</b>, <b>sem</b> transportar matéria</span></li><li>❌ <span class=\"banca\">O som é uma onda eletromagnética, por isso se propaga no vácuo</span><br>✅ <span class=\"certo\">o som é onda <b>mecânica</b> e <b>longitudinal</b>: <b>não</b> se propaga no vácuo</span></li><li>❌ <span class=\"banca\">A luz é uma onda longitudinal</span><br>✅ <span class=\"certo\">as ondas eletromagnéticas são <b>transversais</b></span></li></ol></div>\n<h3>2. Grandezas de uma onda</h3>\n<ul><li><b>Amplitude (A)</b>: a \"altura\" máxima da perturbação em relação ao equilíbrio; relaciona-se com a <b>energia</b> e a <b>intensidade</b> (no som, com o volume; na luz, com o brilho).</li><li><b>Comprimento de onda (λ)</b>: distância entre dois pontos consecutivos em fase (duas cristas seguidas, por exemplo). Unidade: metro.</li><li><b>Frequência (f)</b>: número de oscilações por segundo (Hz). É determinada pela <b>fonte</b> e <b>não muda</b> quando a onda passa de um meio para outro.</li><li><b>Período (T)</b>: tempo de uma oscilação completa; T = 1/f.</li><li><b>Velocidade de propagação (v)</b>: depende do <b>meio</b> (e não da fonte). Equação fundamental: <b>v = λ·f</b> (ou v = λ/T).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Comprimento de onda do som</b><ol><li><span>Som de 680 Hz no ar (v = 340 m/s)</span></li><li><span>λ = v/f = 340/680</span></li><li><span>λ = 0,5 m</span></li></ol><span class=\"res\">0,5 m entre duas compressões consecutivas</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Onda de rádio</b><ol><li><span>Emissora de FM a 100 MHz (v = 3 × 10⁸ m/s)</span></li><li><span>λ = 3 × 10⁸ / 1 × 10⁸</span></li><li><span>λ = 3 m</span></li></ol><span class=\"res\">3 m (antenas de FM têm dimensões dessa ordem)</span></div>\n<ul><li><b>Mudança de meio (refração da onda)</b>: ao passar para outro meio, a <b>frequência se mantém</b>; a <b>velocidade muda</b> e, com ela, o <b>comprimento de onda</b> (λ = v/f). O som que passa do ar para a água fica mais rápido (≈ 1.500 m/s) e com λ maior; a mesma nota, porém, tem a mesma frequência.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quando o som passa do ar para a água, sua frequência aumenta, pois a velocidade aumenta</span><br>✅ <span class=\"certo\">a <b>frequência não muda</b> na mudança de meio; mudam a <b>velocidade</b> e o <b>comprimento de onda</b></span></li><li>❌ <span class=\"banca\">A velocidade de uma onda depende da frequência emitida pela fonte</span><br>✅ <span class=\"certo\">depende do <b>meio</b>; a fonte determina a <b>frequência</b></span></li><li>❌ <span class=\"banca\">A amplitude de uma onda determina sua velocidade de propagação</span><br>✅ <span class=\"certo\">a amplitude está ligada à <b>energia/intensidade</b>, não à velocidade</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Onda</span></span><span class=\"vs\"><span>Transporta energia, não matéria</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mecânicas</span></span><span class=\"vs\"><span>Precisam de meio (som)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eletromagnéticas</span></span><span class=\"vs\"><span>Propagam-se no vácuo (luz, rádio)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Som</span></span><span class=\"vs\"><span>Longitudinal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>v = λ·f</span></span><span class=\"vs\"><span>Equação fundamental</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mudança de meio</span></span><span class=\"vs\"><span>f constante; v e λ mudam</span></span></button></div></div>\n<h3>3. Síntese do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>Ideia-chave</th></tr></thead><tbody><tr><td>Onda</td><td>transporta energia sem transportar matéria</td></tr><tr><td>Mecânica x eletromagnética</td><td>precisa de meio x propaga-se no vácuo</td></tr><tr><td>Transversal x longitudinal</td><td>vibração perpendicular (luz) x paralela (som)</td></tr><tr><td>v = λ·f</td><td>velocidade depende do meio; frequência, da fonte</td></tr><tr><td>Som</td><td>≈ 340 m/s no ar; 20 Hz a 20 kHz; altura = frequência; intensidade em dB</td></tr><tr><td>Eco</td><td>d = v·t/2</td></tr><tr><td>Doppler</td><td>aproximação: frequência percebida maior; afastamento: menor</td></tr><tr><td>Radar / LIDAR</td><td>micro-ondas + Doppler / pulsos de luz + tempo de voo</td></tr><tr><td>Espectro</td><td>rádio < micro-ondas < IV < visível < UV < X < gama (frequência crescente)</td></tr><tr><td>Espelho plano</td><td>virtual, direita, mesmo tamanho, enantiomorfa</td></tr><tr><td>Convexo</td><td>virtual, direita, menor; campo amplo</td></tr><tr><td>Côncavo com fonte no foco</td><td>feixe paralelo (faróis)</td></tr><tr><td>n = c/v</td><td>maior n, menor velocidade</td></tr><tr><td>Reflexão total</td><td>fibra óptica; miragem</td></tr><tr><td>Miopia / hipermetropia</td><td>lente divergente / convergente</td></tr></tbody></table>\n<h3>4. Mapa do raciocínio</h3>\n<div class=\"lt-fluxo\"><span>A questão envolve frequência, comprimento de onda ou velocidade?</span> <em>→</em> <span>v = λ·f (frequência não muda com o meio)</span> <em>→</em> <span>Envolve tempo de ida e volta?</span> <em>→</em> <span>d = v·t/2</span> <em>→</em> <span>Envolve movimento entre fonte e observador?</span> <em>→</em> <span>Doppler: aproximação aumenta, afastamento diminui</span> <em>→</em> <span>Envolve espelho ou lente?</span> <em>→</em> <span>Tipo (plano, côncavo, convexo; convergente, divergente) → características da imagem → 1/f = 1/p + 1/p′</span> <em>→</em> <span>Envolve mudança de meio da luz?</span> <em>→</em> <span>n = c/v; Snell; reflexão total do mais para o menos refringente</span></div>\n<h3>5. Glossário do tópico</h3>\n<ul><li><b>Amplitude</b>: afastamento máximo em relação ao equilíbrio; ligada à energia.</li><li><b>Comprimento de onda (λ)</b>: distância entre duas cristas consecutivas.</li><li><b>Frequência (f)</b>: oscilações por segundo (Hz).</li><li><b>Período (T)</b>: tempo de uma oscilação; T = 1/f.</li><li><b>Decibel (dB)</b>: unidade logarítmica do nível sonoro.</li><li><b>Timbre</b>: \"assinatura\" de uma fonte sonora.</li><li><b>Efeito Doppler</b>: variação da frequência percebida por movimento relativo.</li><li><b>Difração</b>: contorno de obstáculos pelas ondas.</li><li><b>Interferência</b>: superposição de ondas.</li><li><b>Ressonância</b>: grande amplitude quando excitado na frequência natural.</li><li><b>Polarização</b>: restrição da vibração a uma direção (só em ondas transversais).</li><li><b>Índice de refração (n)</b>: c/v.</li><li><b>Ângulo limite</b>: acima dele, ocorre reflexão total.</li><li><b>Foco</b>: ponto de convergência dos raios paralelos ao eixo (ou de seus prolongamentos).</li><li><b>Vergência</b>: 1/f, em dioptrias (\"graus\").</li><li><b>Retrorrefletor</b>: devolve a luz na direção da fonte.</li></ul>\n<h3>6. Revisão relâmpago</h3>\n<ul><li><b>O som se propaga no vácuo?</b> Não.</li><li><b>A luz se propaga no vácuo?</b> Sim, a 3 × 10⁸ m/s.</li><li><b>O que muda na mudança de meio?</b> Velocidade e comprimento de onda; a frequência fica.</li><li><b>Som agudo é?</b> De frequência alta.</li><li><b>+10 dB?</b> Intensidade 10 vezes maior.</li><li><b>Sirene se aproximando?</b> Som mais agudo.</li><li><b>Radar de velocidade usa?</b> Micro-ondas e efeito Doppler.</li><li><b>Imagem no retrovisor convexo?</b> Virtual, direita e menor.</li><li><b>Onde fica a lâmpada do farol?</b> No foco do refletor côncavo.</li><li><b>Miopia se corrige com?</b> Lente divergente.</li><li><b>Por que não usar farol alto na neblina?</b> A luz é espalhada de volta.</li><li><b>O que é a \"poça\" no asfalto quente?</b> Miragem (refração).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mudança de meio</span></span><span class=\"vs\"><span>Muda v e λ; f fica</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Neblina</span></span><span class=\"vs\"><span>Farol baixo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Farol</span></span><span class=\"vs\"><span>Lâmpada no foco do côncavo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Retrovisor</span></span><span class=\"vs\"><span>Convexo: virtual, direita, menor</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>+10 dB</span></span><span class=\"vs\"><span>×10 na intensidade</span></span></button></div></div>\n<h3>7. Resolvendo múltipla escolha</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 1: comprimento de onda</b><p>\"Um som de 850 Hz propaga-se no ar a 340 m/s. Seu comprimento de onda é: (A) 2,5 m; (B) 0,4 m; (C) 289.000 m; (D) 0,04 m; (E) 4 m.\"</p><details><summary>Ver a solução comentada</summary><p>λ = 340/850 = <b>0,4 m (B)</b>. (A) inverteu a divisão (850/340); (C) multiplicou; (D) e (E), erros de vírgula.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 2: Doppler</b><p>\"Uma viatura com sirene ligada se afasta de um pedestre parado. O pedestre percebe som: (A) mais agudo, porque a frequência emitida aumenta; (B) mais grave, porque a frequência percebida diminui; (C) igual, porque a fonte não muda; (D) mais alto em volume, por causa do afastamento; (E) mais agudo, porque o comprimento de onda percebido diminui.\"</p><details><summary>Ver a solução comentada</summary><p><b>(B)</b>. No afastamento, as frentes de onda chegam mais espaçadas (λ percebido maior), e a frequência percebida diminui. (A) erra: a frequência <b>emitida</b> não muda.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 3: retrovisor</b><p>\"As imagens fornecidas pelo retrovisor externo convexo são: (A) reais, invertidas e menores; (B) virtuais, direitas e maiores; (C) virtuais, direitas e menores; (D) reais, direitas e do mesmo tamanho; (E) virtuais, invertidas e menores.\"</p><details><summary>Ver a solução comentada</summary><p><b>(C)</b>. (B) descreve o espelho côncavo com o objeto entre o foco e o vértice (espelho de barbear).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 4: refração</b><p>\"Ao passar do ar para o vidro (n = 1,5), a luz: (A) aumenta de velocidade e se afasta da normal; (B) diminui de velocidade e se aproxima da normal; (C) mantém a velocidade e muda de frequência; (D) diminui de frequência e de velocidade; (E) sofre reflexão total.\"</p><details><summary>Ver a solução comentada</summary><p><b>(B)</b>. Meio mais refringente: menor velocidade, aproxima-se da normal; a frequência não muda. (E) só ocorre do meio mais para o menos refringente.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 5: visão</b><p>\"Uma pessoa que enxerga bem de perto, mas não consegue ler placas distantes, provavelmente tem: (A) hipermetropia, corrigida com lente convergente; (B) miopia, corrigida com lente divergente; (C) presbiopia, corrigida com lente divergente; (D) miopia, corrigida com lente convergente; (E) astigmatismo, corrigido com lente esférica convergente.\"</p><details><summary>Ver a solução comentada</summary><p><b>(B)</b>. Dificuldade para longe = miopia; a lente divergente \"afasta\" o foco para a retina.</p></details></div>\n<h3>8. Instrumentos ópticos e fotografia pericial</h3>\n<ul><li><b>Câmera fotográfica</b>: uma lente (ou conjunto de lentes) convergente forma, no sensor, uma imagem <b>real, invertida e menor</b>. O foco é ajustado movendo as lentes; a <b>abertura</b> (diafragma) controla a quantidade de luz e a profundidade de campo; o <b>tempo de exposição</b> controla quanto tempo o sensor recebe luz (exposições longas \"borram\" objetos em movimento).</li><li><b>Fotografia em perícia de trânsito</b>: usam-se escalas métricas nas fotos, várias distâncias (geral, média e detalhe) e iluminação adequada; a lente grande-angular amplia o campo, mas distorce distâncias nas bordas.</li><li><b>Câmeras de fiscalização</b>: tempos de exposição muito curtos (e flash ou infravermelho à noite) para \"congelar\" o veículo em movimento e permitir a leitura da placa.</li><li><b>Lupa</b>: lente convergente com o objeto entre o foco e a lente: imagem virtual, direita e maior.</li><li><b>Binóculos</b>: combinam objetivas convergentes e oculares, com <b>prismas</b> de reflexão total que endireitam a imagem e encurtam o instrumento.</li><li><b>Periscópio</b>: dois espelhos planos (ou prismas) paralelos, inclinados a 45°, permitem ver por cima de obstáculos.</li><li><b>Projetor</b>: lente convergente com o objeto (filme ou tela pequena) entre o foco e 2f: imagem real, invertida e muito maior.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A imagem formada no sensor de uma câmera fotográfica é virtual e direita</span><br>✅ <span class=\"certo\">é <b>real e invertida</b> (o processamento a exibe na posição correta)</span></li><li>❌ <span class=\"banca\">Os prismas dos binóculos funcionam por refração simples, sem reflexão</span><br>✅ <span class=\"certo\">funcionam por <b>reflexão total</b> em suas faces internas</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>λ = v/f</span></span><span class=\"vs\"><span>340/850 = 0,4 m</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento</span></span><span class=\"vs\"><span>Grave</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Câmera</span></span><span class=\"vs\"><span>Imagem real, invertida, menor</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Binóculo</span></span><span class=\"vs\"><span>Prismas de reflexão total</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Periscópio</span></span><span class=\"vs\"><span>Dois espelhos a 45°</span></span></button></div></div>\n<h3>9. Luz, cor e sinalização</h3>\n<ul><li><b>Luz branca</b> é a mistura de todas as cores do espectro visível. Um prisma a decompõe (dispersão); gotas de chuva produzem o arco-íris.</li><li><b>Síntese aditiva</b> (luzes): vermelho + verde + azul em proporções iguais formam branco. É assim que funcionam telas de celulares, monitores e painéis de LED (pixels RGB). Vermelho + verde = amarelo; verde + azul = ciano; azul + vermelho = magenta.</li><li><b>Síntese subtrativa</b> (pigmentos e filtros): cada pigmento <b>absorve</b> parte da luz; misturando pigmentos, absorve-se mais e o resultado escurece. Um filtro vermelho deixa passar só o vermelho.</li><li><b>Por que o vermelho para \"pare\"?</b> Entre os motivos, a luz vermelha (maior comprimento de onda do visível) é menos espalhada pela atmosfera e pela neblina que as cores de menor λ, sendo visível a grandes distâncias; além disso, há a convenção cultural de associar o vermelho a perigo.</li><li><b>Semáforos e daltonismo</b>: a <b>posição</b> das luzes é padronizada (vermelho no alto ou à esquerda), o que ajuda pessoas com dificuldade de distinguir cores. As cores também foram escolhidas com tonalidades que favorecem a distinção.</li><li><b>Luzes de emergência</b>: o CTB (art. 29, VII) identifica os veículos de socorro de incêndio e salvamento, de polícia, de fiscalização e operação de trânsito e as ambulâncias, em serviço de urgência, por <b>alarme sonoro</b> e <b>iluminação vermelha intermitente</b>, nos termos da regulamentação do CONTRAN; já o <b>pisca-alerta</b> e as luzes de veículos de serviço (como os de manutenção da via) usam <b>âmbar</b>. A intermitência chama a atenção da visão periférica, mais sensível a variações de luz e a movimento.</li><li><b>LEDs</b>: emitem luz de cor bem definida com alto rendimento (pouco calor), acendem instantaneamente (importante nas luzes de freio: alguns décimos de segundo a menos de reação de quem vem atrás) e duram muito.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Ganho com a luz de freio de LED</b><ol><li><span>A luz de freio de LED acende cerca de 0,2 s antes que uma lâmpada incandescente; o veículo de trás está a 108 km/h</span></li><li><span>Distância percorrida em 0,2 s: 30·0,2 = 6 m</span></li></ol><span class=\"res\">Até 6 m a mais de distância para o motorista de trás reagir</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A mistura das luzes vermelha, verde e azul, em proporções iguais, resulta em luz preta</span><br>✅ <span class=\"certo\">na síntese <b>aditiva</b> (luzes), resulta em luz <b>branca</b>; o escurecimento ocorre na síntese <b>subtrativa</b> (pigmentos)</span></li><li>❌ <span class=\"banca\">O pisca-alerta dos veículos utiliza luz vermelha intermitente</span><br>✅ <span class=\"certo\">o pisca-alerta usa luz <b>âmbar</b>; a iluminação <b>vermelha</b> intermitente identifica veículos de emergência em serviço de urgência</span></li></ol></div>\n<h3>10. Breve história da óptica e das ondas</h3>\n<ul><li><b>Lei da reflexão</b>: conhecida desde a Antiguidade (Euclides, Héron de Alexandria).</li><li><b>Lei da refração</b>: formulada no século XVII por <b>Snell</b> e <b>Descartes</b>.</li><li><b>Natureza da luz</b>: <b>Newton</b> defendia um modelo corpuscular; <b>Huygens</b>, um modelo ondulatório. No século XIX, os experimentos de interferência (Young) e a teoria eletromagnética de <b>Maxwell</b> mostraram que a luz é uma onda eletromagnética. No século XX, <b>Einstein</b> explicou o efeito fotoelétrico com \"pacotes\" de luz (fótons): a luz tem comportamento <b>dual</b> (onda e partícula).</li><li><b>Efeito Doppler</b>: descrito por <b>Christian Doppler</b> em 1842 e confirmado com músicos tocando sobre um trem em movimento.</li><li><b>Radar</b>: desenvolvido nas décadas de 1930 e 1940; a aplicação à medição de velocidade de veículos veio depois, com o radar Doppler.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Síntese aditiva</span></span><span class=\"vs\"><span>RGB = branco (telas)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Síntese subtrativa</span></span><span class=\"vs\"><span>Pigmentos escurecem</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vermelho</span></span><span class=\"vs\"><span>Maior λ do visível; menos espalhado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>LED na luz de freio</span></span><span class=\"vs\"><span>Acende mais rápido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Luz</span></span><span class=\"vs\"><span>Dualidade onda-partícula</span></span></button></div></div>\n<h3>11. Casos práticos integrados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A sirene que \"não é ouvida\"</b><p>Uma viatura em deslocamento de urgência, com sirene ligada, aproxima-se de um carro com vidros fechados, ar-condicionado e som alto. Por que o condutor pode não perceber a sirene a tempo?</p><details><summary>Ver a solução comentada</summary><p>O som da sirene chega atenuado pelos vidros e pela carroceria (que refletem e absorvem parte da energia) e é <b>mascarado</b> pelo som interno, de intensidade comparável. Em decibéis, cada barreira retira dezenas de dB. Por isso as luzes intermitentes complementam o alarme sonoro, e a condução da viatura deve considerar que nem todos ouvirão a sirene.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Medindo a distância de uma tempestade</b><p>Durante uma operação noturna, um agente vê o relâmpago e conta 9 s até ouvir o trovão. A que distância está a descarga e o que isso indica?</p><details><summary>Ver a solução comentada</summary><p>d ≈ 340·9 ≈ <b>3 km</b>. Raios podem atingir pontos a vários quilômetros do núcleo da tempestade; o recomendado é buscar abrigo quando o intervalo for curto (tempestade próxima).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Retrovisor e mudança de faixa</b><p>Um motorista vê, no retrovisor externo direito (convexo), uma moto que \"parece distante\" e muda de faixa; a moto estava bem mais perto. Explique.</p><details><summary>Ver a solução comentada</summary><p>O espelho convexo forma imagem <b>virtual, direita e menor</b>; o cérebro associa imagem menor a objeto mais distante. Por isso há o aviso de que os objetos estão mais próximos do que parecem. Antes de mudar de faixa, o condutor deve conferir também o ponto cego, olhando diretamente por sobre o ombro.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Farol desregulado</b><p>Um caminhão com faróis desregulados (feixe apontado para cima) trafega à noite em pista simples. Qual o efeito físico sobre os outros condutores?</p><details><summary>Ver a solução comentada</summary><p>O feixe, que deveria ser direcionado para a pista à frente (farol baixo), atinge diretamente os olhos de quem vem em sentido contrário, causando <b>ofuscamento</b>: saturação da retina e alguns segundos de visão prejudicada após o cruzamento. A regulagem correta dos faróis (posição do refletor e da lâmpada em relação ao foco) é item de segurança e de fiscalização.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Câmera de leitura de placas à noite</b><p>Por que as câmeras de leitura de placas conseguem ler as placas à noite, mesmo sem luz visível intensa?</p><details><summary>Ver a solução comentada</summary><p>Elas emitem <b>infravermelho</b> (invisível ao olho humano) e as placas têm película <b>retrorrefletiva</b>, que devolve essa radiação à câmera. Os caracteres escuros absorvem o infravermelho, e o fundo retrorrefletivo o devolve, gerando alto contraste.</p></details></div>\n<h3>12. Três frases para a prova</h3>\n<ul><li>\"<b>Onda leva energia, não matéria; a frequência é da fonte, a velocidade é do meio.</b>\"</li><li>\"<b>Aproximou, ficou agudo; afastou, ficou grave.</b>\" (efeito Doppler)</li><li>\"<b>Convexo amplia o campo e diminui a imagem; côncavo com a lâmpada no foco faz farol.</b>\"</li><li>Com essas frases, a equação v = λ·f e a relação d = v·t/2 do eco, resolve-se a maior parte das questões de ondas e óptica de nível médio.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sirene não ouvida</span></span><span class=\"vs\"><span>Atenuação e mascaramento sonoro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>3 s entre relâmpago e trovão</span></span><span class=\"vs\"><span>≈ 1 km</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Convexo</span></span><span class=\"vs\"><span>Objeto parece mais longe</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Farol desregulado</span></span><span class=\"vs\"><span>Ofuscamento</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Leitura noturna de placas</span></span><span class=\"vs\"><span>Infravermelho + retrorrefletivo</span></span></button></div></div>\n<h3>13. Oscilações: a origem das ondas</h3>\n<ul><li>Toda onda nasce de uma <b>oscilação</b> (vibração) da fonte: a membrana do alto-falante, as cordas vocais, os elétrons numa antena. Estudar as oscilações ajuda a entender a frequência das ondas.</li><li><b>Movimento harmônico simples (MHS)</b>: oscilação em torno de uma posição de equilíbrio sob ação de uma força restauradora proporcional ao deslocamento (como a da mola, F = −k·x). É periódico, com período que <b>não depende da amplitude</b> (para pequenas oscilações).</li><li><b>Sistema massa-mola</b>: <b>T = 2π·√(m/k)</b>. Massa maior → oscilação mais lenta; mola mais rígida → mais rápida. A suspensão de um carro carregado oscila mais devagar.</li><li><b>Pêndulo simples</b> (pequenas oscilações): <b>T = 2π·√(L/g)</b>. Depende do <b>comprimento</b> e da <b>gravidade</b>, <b>não da massa</b> nem da amplitude (se pequena). Por isso os relógios de pêndulo regulam a hora ajustando o comprimento.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Pêndulo</b><ol><li><span>Pêndulo de 2,5 m, g = 10 m/s²</span></li><li><span>T = 2π·√(2,5/10) = 2π·0,5 ≈ 3,14 s</span></li><li><span>f = 1/T ≈ 0,32 Hz</span></li></ol><span class=\"res\">Período de ≈ 3,1 s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Suspensão</b><ol><li><span>Carro de 1.000 kg sobre suspensão equivalente a k = 40.000 N/m (despreze o amortecedor)</span></li><li><span>T = 2π·√(1.000/40.000) = 2π·√0,025 ≈ 2π·0,158 ≈ 0,99 s</span></li><li><span>f ≈ 1 Hz</span></li></ol><span class=\"res\">Oscila cerca de uma vez por segundo (frequência confortável para o corpo humano)</span></div>\n<ul><li><b>Energia no MHS</b>: troca contínua entre cinética e potencial; sem atrito, a energia total se conserva (ver tópico de energia). Com atrito (amortecimento), a amplitude diminui.</li><li><b>Ressonância</b>: se um sistema é excitado periodicamente com frequência igual à sua frequência natural, a amplitude cresce muito. Exemplos: empurrar um balanço no ritmo certo; vibrações do volante em certa velocidade quando a roda está desbalanceada (a rotação da roda coincide com uma frequência natural da direção ou da suspensão); \"costelas\" (ondulações) em estradas de terra, que fazem o carro trepidar em certas velocidades.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O período de um pêndulo simples aumenta quando sua massa aumenta</span><br>✅ <span class=\"certo\">o período depende do <b>comprimento</b> e de <b>g</b>, <b>não da massa</b></span></li><li>❌ <span class=\"banca\">O volante vibra em certa faixa de velocidade quando a roda está desbalanceada por causa do efeito Doppler</span><br>✅ <span class=\"certo\">é <b>ressonância</b>: a frequência de rotação da roda coincide com uma frequência natural do sistema</span></li></ol></div>\n<h3>14. Interferência na prática</h3>\n<ul><li><b>Interferência construtiva</b>: ondas em fase se somam (cristas com cristas): amplitude maior.</li><li><b>Interferência destrutiva</b>: ondas em oposição de fase se cancelam (crista com vale): amplitude menor ou nula.</li><li><b>Fones com cancelamento ativo de ruído</b>: microfones captam o ruído externo e o fone emite uma onda \"espelhada\" (em oposição de fase), que o cancela por interferência destrutiva, sobretudo nos sons graves e constantes (motores, turbinas).</li><li><b>Batimentos</b>: duas fontes de frequências muito próximas produzem um som que \"pulsa\" (aumenta e diminui de intensidade) com frequência igual à diferença entre elas. Afinadores de instrumentos usam esse efeito.</li><li><b>Películas finas</b>: bolhas de sabão e manchas de óleo no asfalto molhado mostram cores pela interferência da luz refletida nas duas faces da película.</li><li><b>Zonas de sombra no rádio</b>: em certos pontos, ondas que chegam por caminhos diferentes (diretamente e refletidas em prédios ou morros) se cancelam, causando falhas de sinal que desaparecem ao mover a antena alguns metros.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Batimentos</b><ol><li><span>Duas sirenes de 900 Hz e 904 Hz soam juntas</span></li><li><span>f_batimento = 904 − 900</span></li><li><span>= 4 Hz</span></li></ol><span class=\"res\">O som \"pulsa\" 4 vezes por segundo</span></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pêndulo</span></span><span class=\"vs\"><span>T = 2π√(L/g), sem depender da massa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Massa-mola</span></span><span class=\"vs\"><span>T = 2π√(m/k)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ressonância</span></span><span class=\"vs\"><span>Frequência de excitação = natural</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cancelamento de ruído</span></span><span class=\"vs\"><span>Interferência destrutiva</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Batimento</span></span><span class=\"vs\"><span>Diferença das frequências</span></span></button></div></div>\n<h3>15. Treino extra</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 1</b><ol><li><span>Onda numa corda: 4 cristas passam por um ponto a cada segundo, separadas por 0,5 m. Velocidade?</span></li><li><span>f = 4 Hz; λ = 0,5 m</span></li><li><span>v = 0,5·4</span></li></ol><span class=\"res\">2 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 2</b><ol><li><span>Luz verde de λ = 500 nm. Frequência?</span></li><li><span>f = c/λ = 3 × 10⁸/5 × 10⁻⁷</span></li></ol><span class=\"res\">6 × 10¹⁴ Hz</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 3</b><ol><li><span>Som de 20 Hz e de 20.000 Hz no ar (340 m/s). Comprimentos de onda?</span></li><li><span>340/20 = 17 m</span></li><li><span>340/20.000 = 0,017 m</span></li></ol><span class=\"res\">17 m e 1,7 cm (limites da audição)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 4</b><ol><li><span>Sonar recebe o eco do fundo 0,4 s após o pulso (água: 1.500 m/s). Profundidade?</span></li><li><span>d = 1.500·0,4/2</span></li></ol><span class=\"res\">300 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 5</b><ol><li><span>Uma fonte de 680 Hz se aproxima a 34 m/s de um observador parado (340 m/s). Frequência percebida?</span></li><li><span>f′ = 680·340/(340 − 34) = 680·340/306</span></li></ol><span class=\"res\">≈ 756 Hz</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 6</b><ol><li><span>Espelho côncavo, f = 15 cm, objeto a 30 cm (no centro de curvatura). Imagem?</span></li><li><span>1/p′ = 1/15 − 1/30 = 1/30 → p′ = 30 cm</span></li><li><span>A = −1</span></li></ol><span class=\"res\">Real, invertida, do mesmo tamanho, a 30 cm</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 7</b><ol><li><span>Espelho convexo de f = −50 cm; objeto a 2 m. Imagem?</span></li><li><span>1/p′ = −2 − 0,5 = −2,5 → p′ = −0,4 m</span></li><li><span>A = 0,4/2 = 0,2</span></li></ol><span class=\"res\">Virtual, direita, com 1/5 do tamanho</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 8</b><ol><li><span>Luz passa do ar (n = 1) para a água (n = 1,33) com incidência de 30°. Ângulo de refração? (sen 30° = 0,5)</span></li><li><span>1·0,5 = 1,33·sen θ₂ → sen θ₂ ≈ 0,376</span></li><li><span>θ₂ ≈ 22°</span></li></ol><span class=\"res\">≈ 22° (aproximou-se da normal)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 9</b><ol><li><span>Lente de +4 di. Distância focal?</span></li><li><span>f = 1/4 m</span></li></ol><span class=\"res\">25 cm (convergente)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 10</b><ol><li><span>Uma pessoa ouve o eco de uma batida de porta 0,2 s depois, num pátio. Distância do muro?</span></li><li><span>d = 340·0,2/2</span></li></ol><span class=\"res\">34 m</span></div>\n<h3>16. Dicas de memorização</h3>\n<ul><li><b>\"Fonte manda na frequência; meio manda na velocidade.\"</b></li><li><b>\"Agudo é alto em frequência; forte é alto em volume.\"</b></li><li><b>\"Vem chegando, fica fino; vai embora, fica grosso\"</b> (Doppler, para o som).</li><li><b>\"Convexo: campo largo, imagem pequena\"</b>; <b>\"côncavo: farol e barbear\"</b>.</li><li><b>\"Míope: longe embaçado, lente que espalha (divergente).\"</b></li><li><b>\"Do denso para o leve, pode prender a luz\"</b>: a reflexão total ocorre do meio mais refringente para o menos refringente.</li><li><b>Ordem do espectro (frequência crescente)</b>: \"<b>R</b>ádio, <b>M</b>icro, <b>I</b>nfra, <b>V</b>isível, <b>U</b>ltra, <b>X</b>, <b>G</b>ama\".</li><li><b>Revisão em uma linha por conceito</b>: ondas transportam energia; o som precisa de meio; a luz não; o Doppler muda a frequência percebida; espelhos e lentes formam imagens cujas características dependem do tipo e da posição do objeto; a refração muda a velocidade da luz e pode desviá-la; e a visão do condutor é afetada por ofuscamento, neblina, velocidade e pontos cegos.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fonte</span></span><span class=\"vs\"><span>Frequência</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Meio</span></span><span class=\"vs\"><span>Velocidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vem chegando</span></span><span class=\"vs\"><span>Fino (agudo)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Convexo</span></span><span class=\"vs\"><span>Campo largo, imagem pequena</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Espectro</span></span><span class=\"vs\"><span>Rádio, micro, infra, visível, ultra, X, gama</span></span></button></div></div>\n<h3>17. Como as bancas cobram este tópico</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>Em ondas, os itens mais comuns pedem a aplicação de v = λ·f, a classificação das ondas (mecânica ou eletromagnética; transversal ou longitudinal), as qualidades do som (altura, intensidade, timbre), o eco e o efeito Doppler, quase sempre com exemplos de sirenes e radares. Em óptica, as bancas preferem as características das imagens em espelhos planos e esféricos (com destaque para o retrovisor convexo e os faróis), a refração (índice, aproximar ou afastar da normal, reflexão total, miragem) e os defeitos da visão com as respectivas lentes.</p></div>\n<ul><li><b>Pegadinhas mais repetidas</b>:</li><li>Dizer que o som se propaga no vácuo, ou que a luz é onda mecânica.</li><li>Afirmar que a frequência muda quando a onda muda de meio.</li><li>Trocar \"som agudo\" por \"som forte\".</li><li>Atribuir à fonte a mudança de frequência no Doppler.</li><li>Dizer que o retrovisor convexo forma imagens reais ou maiores.</li><li>Afirmar que a lâmpada do farol fica no centro de curvatura do espelho.</li><li>Inverter as lentes de miopia e hipermetropia.</li><li>Dizer que a reflexão total ocorre do ar para a água.</li><li>Afirmar que o farol alto melhora a visão na neblina.</li><li><b>Checklist de resolução</b>:</li><li>Identifique a grandeza pedida e a unidade (Hz, m, m/s, dB, dioptrias).</li><li>Lembre que a frequência é da fonte e a velocidade é do meio.</li><li>Em eco e sonar, divida por 2 (ida e volta).</li><li>No Doppler, decida primeiro se o som fica mais agudo (aproximação) ou mais grave (afastamento) e só depois faça a conta: a resposta precisa concordar com essa intuição.</li><li>Em espelhos e lentes, identifique o tipo e a posição do objeto antes de usar a equação; confira se o resultado (real/virtual, maior/menor) é compatível com o tipo.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para não se perder nos sinais da equação de Gauss, decore apenas três casos de prova: retrovisor convexo (virtual, direita, menor), espelho de barbear ou lupa (virtual, direita, maior) e projetor ou câmera (real, invertida). Se a conta contradisser esses casos, revise os sinais.</div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ondas na prova</span></span><span class=\"vs\"><span>v = λf, classificação, som, eco, Doppler</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Óptica na prova</span></span><span class=\"vs\"><span>Retrovisor, farol, refração, lentes e visão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Doppler</span></span><span class=\"vs\"><span>Intuição antes da conta</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gauss</span></span><span class=\"vs\"><span>Confira com os casos típicos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eco</span></span><span class=\"vs\"><span>Sempre dividir por 2</span></span></button></div></div>\n<h3>18. Fechamento</h3>\n<ul><li>Ondas e óptica completam a Física aplicada ao trabalho policial e rodoviário: a mesma física que mede a velocidade (radar Doppler, laser), comunica as equipes (rádio), localiza viaturas (GPS), sinaliza a via (retrorrefletores, semáforos, faróis) e explica as limitações da visão do condutor (ofuscamento, neblina, pontos cegos, miragens).</li><li>Revise os conceitos em ordem: natureza e tipos de ondas; v = λ·f; som e suas qualidades; fenômenos ondulatórios; Doppler e radares; espectro; princípios da óptica; espelhos planos e esféricos; refração, reflexão total e lentes; olho e visão no trânsito. Em cada um, há uma aplicação concreta que ajuda a lembrar a regra.</li></ul>\n<h3>19. O som</h3>\n<ul><li><b>Natureza</b>: onda <b>mecânica longitudinal</b>, formada por compressões e rarefações do meio. <b>Velocidade</b>: cerca de <b>340 m/s</b> no ar (a ≈ 15 °C a 20 °C), cerca de <b>1.500 m/s</b> na água e de <b>3.000 a 6.000 m/s</b> em sólidos como aço e concreto. Em geral, propaga-se <b>mais rápido em sólidos</b> que em líquidos, e em líquidos mais que em gases. No ar, a velocidade aumenta com a temperatura.</li><li><b>Faixa audível humana</b>: aproximadamente <b>20 Hz a 20.000 Hz</b>. Abaixo, <b>infrassom</b> (terremotos, alguns animais, como elefantes); acima, <b>ultrassom</b> (morcegos, golfinhos, exames médicos, sensores de estacionamento).</li><li><b>Qualidades fisiológicas do som</b>:</li></ul>\n<table class=\"tab\"><thead><tr><th>Qualidade</th><th>Grandeza física</th><th>Exemplo</th></tr></thead><tbody><tr><td><b>Altura</b> (grave ou agudo)</td><td><b>frequência</b></td><td>som <b>agudo</b> = frequência <b>alta</b>; som <b>grave</b> = frequência baixa. \"Alto\" e \"baixo\", em física, referem-se à frequência, e não ao volume</td></tr><tr><td><b>Intensidade</b> (forte ou fraco, \"volume\")</td><td><b>amplitude</b> / energia transportada</td><td>medida em <b>decibéis (dB)</b></td></tr><tr><td><b>Timbre</b></td><td><b>forma da onda</b> (harmônicos)</td><td>distingue a mesma nota tocada num violão e num piano, ou a voz de duas pessoas</td></tr></tbody></table>\n<ul><li><b>Decibel</b>: escala <b>logarítmica</b>. Cada aumento de <b>10 dB</b> corresponde a intensidade <b>10 vezes maior</b>; +20 dB, 100 vezes; +3 dB, cerca do dobro. Conversa: ≈ 60 dB; trânsito intenso: ≈ 80 a 90 dB; sirene próxima: mais de 100 dB; limiar de dor: ≈ 120 a 130 dB. Exposição prolongada acima de 85 dB pode lesionar a audição.</li><li><b>Eco</b>: reflexão do som num obstáculo. O ouvido distingue o eco do som original quando o intervalo entre eles é de pelo menos cerca de 0,1 s, o que exige obstáculo a pelo menos ≈ 17 m (o som vai e volta: 2·17 = 34 m em 0,1 s). Com intervalo menor, ocorre <b>reverberação</b> (prolongamento do som).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Distância pelo eco</b><ol><li><span>Um agente grita diante de um paredão e ouve o eco 1,2 s depois (v = 340 m/s)</span></li><li><span>O som vai e volta: 2·d = v·t</span></li><li><span>d = 340·1,2/2</span></li></ol><span class=\"res\">d = 204 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Relâmpago e trovão</b><ol><li><span>O trovão é ouvido 6 s depois do clarão (a luz chega praticamente na hora)</span></li><li><span>d = v_som·t = 340·6</span></li><li><span>d ≈ 2.040 m</span></li></ol><span class=\"res\">≈ 2 km (regra prática: cerca de 1 km a cada 3 s)</span></div>\n<ul><li><b>Sonar e sensores de estacionamento</b>: emitem ultrassom e medem o tempo do eco; distância = v·t/2.</li><li><b>Buzina, sirene e poluição sonora</b>: o CTB e as resoluções do CONTRAN regulam o uso da buzina (toque breve, proibido em determinados horários e locais) e os níveis de ruído e de som dos veículos; a sirene é privativa de veículos de emergência em serviço de urgência.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Um som agudo é um som de grande intensidade</span><br>✅ <span class=\"certo\"><b>agudo</b> refere-se a <b>frequência alta</b>; intensidade é o \"volume\"</span></li><li>❌ <span class=\"banca\">O timbre permite distinguir sons de mesma frequência e mesma intensidade produzidos por fontes diferentes</span><br>✅ <span class=\"certo\">correto: o timbre depende da <b>forma da onda</b> (harmônicos)</span></li><li>❌ <span class=\"banca\">Um aumento de 10 dB no nível sonoro corresponde a dobrar a intensidade do som</span><br>✅ <span class=\"certo\">+10 dB = intensidade <b>10 vezes</b> maior (≈ +3 dB dobra)</span></li><li>❌ <span class=\"banca\">O som se propaga mais rapidamente no ar que no aço</span><br>✅ <span class=\"certo\">propaga-se <b>mais rápido nos sólidos</b> (no aço, milhares de m/s)</span></li></ol></div>\n<h3>20. Fenômenos ondulatórios</h3>\n<table class=\"tab\"><thead><tr><th>Fenômeno</th><th>O que acontece</th><th>Exemplos</th></tr></thead><tbody><tr><td><b>Reflexão</b></td><td>a onda bate num obstáculo e volta ao meio de origem</td><td>eco, sonar, radar, espelhos</td></tr><tr><td><b>Refração</b></td><td>a onda muda de meio e de velocidade (pode mudar de direção)</td><td>som que \"se curva\" à noite; luz entrando na água; miragem</td></tr><tr><td><b>Difração</b></td><td>a onda contorna obstáculos ou se espalha ao passar por aberturas, quando suas dimensões são comparáveis ao comprimento de onda</td><td>ouvimos uma pessoa atrás de um muro (o som difrata muito; a luz, pouco)</td></tr><tr><td><b>Interferência</b></td><td>superposição de ondas: construtiva (reforço) ou destrutiva (cancelamento)</td><td>fones com cancelamento de ruído; manchas coloridas em bolhas de sabão</td></tr><tr><td><b>Ressonância</b></td><td>um sistema passa a vibrar com grande amplitude quando excitado na sua frequência natural</td><td>taça quebrada por som; pontes que oscilam com o vento ou com tropas marchando em passo</td></tr><tr><td><b>Polarização</b></td><td>só ondas <b>transversais</b> podem ser polarizadas (vibração numa só direção)</td><td>óculos de sol polarizados reduzem reflexos do asfalto e da água; o som não pode ser polarizado</td></tr></tbody></table>\n<ul><li><b>Por que ouvimos \"atrás do muro\", mas não vemos?</b> O som tem comprimentos de onda da ordem de centímetros a metros, comparáveis a portas e muros, e difrata bastante; a luz tem λ de centenas de nanômetros e praticamente não difrata em obstáculos comuns.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A polarização é um fenômeno exclusivo das ondas longitudinais, como o som</span><br>✅ <span class=\"certo\">só ondas <b>transversais</b> (como a luz) podem ser polarizadas; o som <b>não</b></span></li><li>❌ <span class=\"banca\">Na difração, a onda deixa de se propagar ao encontrar um obstáculo</span><br>✅ <span class=\"certo\">na difração, a onda <b>contorna</b> o obstáculo</span></li><li>❌ <span class=\"banca\">A interferência destrutiva destrói a energia das ondas</span><br>✅ <span class=\"certo\">a energia é <b>redistribuída</b> (há reforço em outros pontos)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Som no ar</span></span><span class=\"vs\"><span>≈ 340 m/s; mais rápido em sólidos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Audível</span></span><span class=\"vs\"><span>20 Hz a 20 kHz</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Agudo/grave</span></span><span class=\"vs\"><span>Frequência</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Volume</span></span><span class=\"vs\"><span>Intensidade (dB; +10 dB = ×10)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eco</span></span><span class=\"vs\"><span>d = v·t/2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Polarização</span></span><span class=\"vs\"><span>Só ondas transversais</span></span></button></div></div>\n<h3>21. Efeito Doppler</h3>\n<ul><li><b>Efeito Doppler</b>: variação da <b>frequência percebida</b> por um observador quando há <b>movimento relativo</b> entre a fonte e o observador (aproximação ou afastamento). A frequência emitida pela fonte não muda; muda a frequência que chega ao observador.</li><li><b>Aproximação</b>: as frentes de onda chegam \"comprimidas\": frequência percebida <b>maior</b> (som <b>mais agudo</b>). <b>Afastamento</b>: frentes \"espaçadas\": frequência <b>menor</b> (som <b>mais grave</b>).</li><li><b>A sirene que passa</b>: enquanto a ambulância se aproxima, o som é mais agudo; no instante em que passa, a frequência cai bruscamente; ao se afastar, o som fica mais grave. Para quem está dentro da ambulância (sem movimento relativo com a sirene), o som não muda.</li><li><b>Fórmula (som)</b>: f′ = f·(v ± v_o)/(v ∓ v_f), em que v é a velocidade do som, v_o a do observador e v_f a da fonte. Use os sinais de cima na <b>aproximação</b> e os de baixo no <b>afastamento</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Sirene se aproximando</b><ol><li><span>Sirene de 900 Hz numa viatura a 20 m/s aproxima-se de um pedestre parado (v_som = 340 m/s)</span></li><li><span>f′ = 900·340/(340 − 20) = 900·340/320</span></li><li><span>f′ ≈ 956 Hz</span></li><li><span>Ao se afastar: f′ = 900·340/360 = 850 Hz</span></li></ol><span class=\"res\">≈ 956 Hz na aproximação; 850 Hz no afastamento</span></div>\n<ul><li><b>Efeito Doppler com ondas eletromagnéticas</b>: vale também para luz e ondas de rádio. A luz de galáxias que se afastam chega \"desviada para o vermelho\" (frequência menor), evidência da expansão do Universo.</li></ul>\n<h3>22. Radares e medidores de velocidade</h3>\n<ul><li><b>Radar Doppler</b>: emite micro-ondas (ondas eletromagnéticas) que se refletem no veículo. Se o veículo se aproxima, a onda refletida volta com frequência <b>maior</b>; se se afasta, <b>menor</b>. A diferença de frequência é proporcional à velocidade do veículo; o equipamento a converte em km/h.</li><li><b>Medidor a laser (LIDAR)</b>: emite pulsos de luz infravermelha e mede o <b>tempo de ida e volta</b> (como no eco), calculando a distância; várias medidas em sequência dão a variação da distância no tempo, isto é, a velocidade. Feixe muito estreito, permite mirar um veículo específico.</li><li><b>Sensores no pavimento (laços indutivos)</b>: em radares fixos, dois sensores enterrados a uma distância conhecida registram a passagem do veículo; a velocidade é distância ÷ tempo entre os dois sinais.</li><li><b>Sistemas de velocidade média</b>: câmeras com leitura de placas em pontos distantes; velocidade média = distância ÷ tempo.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Laços indutivos</b><ol><li><span>Dois laços separados por 3 m; o veículo os aciona com intervalo de 0,12 s</span></li><li><span>v = d/t = 3/0,12 = 25 m/s</span></li><li><span>25 × 3,6 = 90 km/h</span></li></ol><span class=\"res\">90 km/h</span></div>\n<ul><li><b>Por que o radar e o LIDAR usam ondas eletromagnéticas?</b> Porque elas se propagam a 3 × 10⁸ m/s, permitindo medições quase instantâneas; e o efeito Doppler (no radar) ou o tempo de voo (no laser) podem ser medidos com grande precisão.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No efeito Doppler, a fonte sonora passa a emitir uma frequência maior quando se aproxima do observador</span><br>✅ <span class=\"certo\">a frequência <b>emitida</b> não muda; muda a frequência <b>percebida</b></span></li><li>❌ <span class=\"banca\">Quando uma ambulância se afasta, o som da sirene percebido por um pedestre parado fica mais agudo</span><br>✅ <span class=\"certo\">no <b>afastamento</b>, a frequência percebida <b>diminui</b>: som <b>mais grave</b></span></li><li>❌ <span class=\"banca\">O radar Doppler de velocidade utiliza ondas sonoras refletidas no veículo</span><br>✅ <span class=\"certo\">utiliza <b>micro-ondas</b> (eletromagnéticas)</span></li><li>❌ <span class=\"banca\">O medidor de velocidade a laser funciona pelo efeito Doppler do som</span><br>✅ <span class=\"certo\">o LIDAR mede o <b>tempo de ida e volta</b> de pulsos de <b>luz</b> infravermelha</span></li></ol></div>\n<h3>23. O espectro eletromagnético</h3>\n<ul><li><b>Ondas eletromagnéticas</b> são oscilações de campos elétrico e magnético que se propagam no vácuo a <b>c ≈ 3 × 10⁸ m/s</b> (300 mil km/s). Diferem entre si pela <b>frequência</b> (e, portanto, pelo comprimento de onda).</li></ul>\n<table class=\"tab\"><thead><tr><th>Faixa (da menor para a maior frequência)</th><th>Aplicações</th></tr></thead><tbody><tr><td><b>Ondas de rádio</b> (AM, FM, TV)</td><td>radiodifusão, comunicação das viaturas e do rádio policial</td></tr><tr><td><b>Micro-ondas</b></td><td>fornos, <b>radares de velocidade e de tráfego aéreo</b>, telefonia celular, Wi-Fi, comunicação por satélite, GPS</td></tr><tr><td><b>Infravermelho</b></td><td>controle remoto, <b>câmeras térmicas</b> (visão noturna, busca de pessoas, detecção de calor), medidores a laser (LIDAR)</td></tr><tr><td><b>Luz visível</b></td><td>visão humana: do vermelho (menor frequência) ao violeta (maior)</td></tr><tr><td><b>Ultravioleta</b></td><td>bronzeamento e queimaduras solares, esterilização, luz \"negra\" para identificar documentos e cédulas autênticas</td></tr><tr><td><b>Raios X</b></td><td>radiografias, inspeção de bagagens e cargas (escâneres de fronteira)</td></tr><tr><td><b>Raios gama</b></td><td>radioterapia, esterilização; emitidos em processos nucleares</td></tr></tbody></table>\n<ul><li><b>Energia e frequência</b>: quanto <b>maior a frequência</b>, maior a energia transportada por \"pacote\" (fóton). UV, raios X e gama são <b>ionizantes</b> (podem danificar o DNA); rádio, micro-ondas e infravermelho não são ionizantes.</li><li><b>Câmeras térmicas</b>: todo corpo emite infravermelho conforme sua temperatura; o corpo humano (≈ 37 °C) se destaca de um fundo mais frio. São usadas em buscas, vigilância de fronteiras e rodovias à noite.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A luz visível tem frequência maior que os raios X</span><br>✅ <span class=\"certo\">os <b>raios X</b> têm frequência (e energia) <b>maior</b> que a luz visível</span></li><li>❌ <span class=\"banca\">As micro-ondas e as ondas de rádio são ondas mecânicas</span><br>✅ <span class=\"certo\">são ondas <b>eletromagnéticas</b></span></li><li>❌ <span class=\"banca\">No vácuo, a luz vermelha se propaga mais devagar que a luz violeta</span><br>✅ <span class=\"certo\">no vácuo, <b>todas</b> as ondas eletromagnéticas têm a mesma velocidade c</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Doppler</span></span><span class=\"vs\"><span>Aproximação: mais agudo; afastamento: mais grave</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Radar</span></span><span class=\"vs\"><span>Micro-ondas + Doppler</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>LIDAR</span></span><span class=\"vs\"><span>Tempo de voo de pulsos infravermelhos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Espectro</span></span><span class=\"vs\"><span>Rádio, micro-ondas, IV, visível, UV, X, gama</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Câmera térmica</span></span><span class=\"vs\"><span>Infravermelho</span></span></button></div></div>\n<h3>24. Óptica geométrica: princípios</h3>\n<ul><li><b>Raio de luz</b>: linha que representa a direção de propagação da luz. A óptica geométrica estuda a luz por meio de raios.</li><li><b>Princípios</b>:</li><li><b>Propagação retilínea</b>: num meio homogêneo e transparente, a luz se propaga em linha reta. Explica sombras, eclipses e a câmara escura.</li><li><b>Independência dos raios</b>: raios que se cruzam não interferem uns nos outros (dois faróis cujos feixes se cruzam seguem iguais).</li><li><b>Reversibilidade</b>: o caminho de um raio pode ser percorrido nos dois sentidos. \"Se você vê o motorista pelo retrovisor, ele também pode ver você.\"</li><li><b>Fontes</b>: <b>primárias</b> (emitem luz própria: Sol, lâmpadas, faróis) e <b>secundárias</b> (refletem a luz: a Lua, uma placa, uma pessoa).</li><li><b>Meios</b>: <b>transparentes</b> (vidro limpo, ar: permitem ver com nitidez), <b>translúcidos</b> (vidro jateado, papel vegetal: passam luz, mas não imagem nítida) e <b>opacos</b> (madeira, metal: não deixam passar luz).</li><li><b>Sombra e penumbra</b>: com fonte pontual, forma-se sombra nítida; com fonte extensa, surgem a <b>sombra</b> (região que não recebe luz) e a <b>penumbra</b> (região que recebe luz de parte da fonte).</li><li><b>Cor dos objetos</b>: um objeto opaco tem a cor da luz que <b>reflete</b> (difunde); absorve as demais. Uma camiseta vermelha iluminada só por luz azul parece <b>preta</b>: não há vermelho para refletir.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A Lua é uma fonte primária de luz</span><br>✅ <span class=\"certo\">a Lua é fonte <b>secundária</b> (reflete a luz do Sol)</span></li><li>❌ <span class=\"banca\">Um objeto que parece verde sob luz branca continuará verde quando iluminado apenas por luz vermelha</span><br>✅ <span class=\"certo\">sob luz vermelha, ele parecerá <b>escuro/preto</b>, pois não há luz verde para refletir</span></li><li>❌ <span class=\"banca\">Pelo princípio da reversibilidade, se um condutor vê o rosto de outro pelo espelho retrovisor, o outro não necessariamente o vê</span><br>✅ <span class=\"certo\">pela <b>reversibilidade</b>, se um vê o outro pelo espelho, o outro <b>também</b> pode vê-lo</span></li></ol></div>\n<h3>25. Reflexão e espelho plano</h3>\n<ul><li><b>Leis da reflexão</b>: (1) o raio incidente, o raio refletido e a normal à superfície estão no <b>mesmo plano</b>; (2) o <b>ângulo de incidência é igual ao ângulo de reflexão</b> (medidos em relação à normal).</li><li><b>Reflexão regular</b> (superfícies polidas: espelhos, lagos calmos) forma imagens; <b>reflexão difusa</b> (superfícies rugosas: papel, asfalto seco, paredes) espalha a luz em todas as direções, permitindo ver os objetos de qualquer ponto.</li><li><b>Asfalto molhado à noite</b>: a película de água torna a reflexão mais regular. A luz dos faróis é refletida \"para a frente\", e menos volta ao condutor; as faixas pintadas e o asfalto parecem escuros, e os reflexos de faróis contrários ofuscam.</li><li><b>Espelho plano</b>: a imagem é <b>virtual</b> (formada atrás do espelho, pelo prolongamento dos raios), <b>direita</b>, do <b>mesmo tamanho</b> do objeto, <b>simétrica</b> em relação ao espelho (mesma distância do espelho) e <b>enantiomorfa</b> (troca direita e esquerda: a mão direita vira esquerda na imagem).</li><li><b>Por que \"AMBULÂNCIA\" está escrito invertido no capô?</b> Porque o condutor da frente lê a palavra pelo <b>retrovisor</b>, e o espelho inverte direita e esquerda. Escrita de trás para a frente, ela aparece correta na imagem.</li><li><b>Translação do espelho</b>: se o espelho se afasta d do objeto, a imagem se afasta <b>2d</b> do objeto; se o espelho se move com velocidade v, a imagem se move com <b>2v</b> em relação ao objeto.</li><li><b>Associação de dois espelhos planos</b> formando ângulo α: o número de imagens é <b>n = 360°/α − 1</b> (quando 360/α é inteiro). A 90°, três imagens; a 60°, cinco imagens.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Espelho plano</b><ol><li><span>Uma pessoa está a 1,5 m de um espelho plano vertical</span></li><li><span>A imagem está 1,5 m atrás do espelho</span></li><li><span>Distância pessoa–imagem: 1,5 + 1,5 = 3 m</span></li></ol><span class=\"res\">3 m entre a pessoa e sua imagem</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A imagem formada por um espelho plano é real e invertida</span><br>✅ <span class=\"certo\">é <b>virtual</b> e <b>direita</b> (e enantiomorfa: troca direita e esquerda)</span></li><li>❌ <span class=\"banca\">Se uma pessoa se afasta 1 m de um espelho plano, a distância entre ela e sua imagem aumenta 1 m</span><br>✅ <span class=\"certo\">aumenta <b>2 m</b></span></li><li>❌ <span class=\"banca\">A palavra AMBULÂNCIA é escrita invertida no capô para ser lida corretamente por pedestres à frente do veículo</span><br>✅ <span class=\"certo\">é para ser lida corretamente pelos condutores <b>pelo espelho retrovisor</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Princípios</span></span><span class=\"vs\"><span>Propagação retilínea, independência, reversibilidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reflexão</span></span><span class=\"vs\"><span>Incidência = reflexão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Espelho plano</span></span><span class=\"vs\"><span>Virtual, direita, mesmo tamanho, simétrica, enantiomorfa</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Espelho se afasta d</span></span><span class=\"vs\"><span>Imagem se afasta 2d</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dois espelhos</span></span><span class=\"vs\"><span>n = 360/α − 1</span></span></button></div></div>\n<h3>26. Espelhos esféricos</h3>\n<ul><li><b>Espelho esférico</b>: calota de uma esfera espelhada. <b>Côncavo</b>: a face refletora é a <b>interna</b> (como o interior de uma colher). <b>Convexo</b>: a face refletora é a <b>externa</b> (como o dorso da colher).</li><li><b>Elementos</b>: <b>centro de curvatura</b> (C), <b>vértice</b> (V), <b>eixo principal</b> e <b>foco</b> (F), situado no ponto médio entre C e V: <b>f = R/2</b>.</li><li><b>Raios notáveis</b>: (1) raio paralelo ao eixo reflete passando pelo foco (no côncavo) ou como se viesse do foco (no convexo); (2) raio que passa pelo foco reflete paralelo ao eixo; (3) raio que passa pelo centro de curvatura volta sobre si mesmo.</li></ul>\n<table class=\"tab\"><thead><tr><th>Espelho</th><th>Posição do objeto</th><th>Imagem</th><th>Aplicação</th></tr></thead><tbody><tr><td><b>Convexo</b></td><td>qualquer</td><td><b>virtual, direita e menor</b>; campo visual <b>ampliado</b></td><td>retrovisores externos, espelhos de garagens, de esquinas e de lojas</td></tr><tr><td><b>Côncavo</b></td><td>além do centro de curvatura</td><td>real, invertida, menor</td><td>telescópios</td></tr><tr><td><b>Côncavo</b></td><td>sobre o centro de curvatura</td><td>real, invertida, mesmo tamanho</td><td>–</td></tr><tr><td><b>Côncavo</b></td><td>entre C e F</td><td>real, invertida, maior</td><td>projetores</td></tr><tr><td><b>Côncavo</b></td><td><b>no foco</b></td><td><b>imprópria</b> (no infinito): raios refletidos <b>paralelos</b></td><td><b>faróis</b> e lanternas (lâmpada no foco gera feixe paralelo)</td></tr><tr><td><b>Côncavo</b></td><td>entre F e o vértice</td><td><b>virtual, direita e maior</b></td><td>espelhos de maquiagem e de barbear</td></tr></tbody></table>\n<ul><li><b>Retrovisor convexo</b>: mostra uma área maior (campo visual amplo), mas as imagens são <b>menores</b>, e os objetos <b>parecem mais distantes</b> do que estão. Por isso alguns retrovisores trazem o aviso \"os objetos no espelho estão mais próximos do que parecem\". O condutor deve considerar isso antes de mudar de faixa.</li><li><b>Faróis e lanternas</b>: um espelho <b>côncavo</b> (na prática, parabólico) com a lâmpada no <b>foco</b> transforma a luz em feixe <b>paralelo</b>, de longo alcance. Deslocando a fonte ligeiramente, obtém-se feixe convergente ou divergente (farol baixo e alto usam posições ou refletores distintos).</li><li><b>Equação de Gauss</b>: <b>1/f = 1/p + 1/p′</b>, com p = distância do objeto e p′ = distância da imagem ao espelho. <b>Aumento linear</b>: <b>A = i/o = −p′/p</b>. Convenção usual: f > 0 no côncavo e f < 0 no convexo; p′ > 0 para imagem real e p′ < 0 para imagem virtual; A > 0 imagem direita, A < 0 invertida.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Retrovisor convexo</b><ol><li><span>Espelho convexo com raio de curvatura 2 m (f = −1 m); carro a 9 m do espelho</span></li><li><span>1/p′ = 1/f − 1/p = −1 − 1/9 = −10/9</span></li><li><span>p′ = −0,9 m (virtual, atrás do espelho)</span></li><li><span>A = −p′/p = 0,9/9 = 0,1</span></li></ol><span class=\"res\">Imagem virtual, direita, com 1/10 do tamanho do carro</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Espelho côncavo de barbear</b><ol><li><span>f = 30 cm; rosto a 20 cm (entre o foco e o espelho)</span></li><li><span>1/p′ = 1/30 − 1/20 = (2 − 3)/60 = −1/60</span></li><li><span>p′ = −60 cm (virtual)</span></li><li><span>A = −(−60)/20 = 3</span></li></ol><span class=\"res\">Imagem virtual, direita e três vezes maior</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O espelho retrovisor convexo forma imagens maiores que os objetos, facilitando a percepção das distâncias</span><br>✅ <span class=\"certo\">forma imagens <b>menores</b>, com campo <b>ampliado</b>; os objetos <b>parecem mais distantes</b></span></li><li>❌ <span class=\"banca\">Nos faróis, a lâmpada é posicionada no centro de curvatura do espelho côncavo para produzir feixe paralelo</span><br>✅ <span class=\"certo\">para feixe paralelo, a lâmpada fica no <b>foco</b></span></li><li>❌ <span class=\"banca\">O espelho convexo pode formar imagens reais, dependendo da posição do objeto</span><br>✅ <span class=\"certo\">para objetos reais, o convexo forma <b>sempre</b> imagem <b>virtual, direita e menor</b></span></li></ol></div>\n<h3>27. Retrorrefletores: por que placas e coletes \"acendem\" com o farol</h3>\n<ul><li>Um <b>retrorrefletor</b> devolve a luz <b>na mesma direção de onde ela veio</b>, de volta à fonte, qualquer que seja o ângulo de incidência (dentro de certos limites). É obtido com <b>microesferas de vidro</b> (que refratam e refletem a luz de volta) ou com <b>prismas de canto</b> (três espelhos perpendiculares entre si).</li><li><b>Aplicações</b>: placas de sinalização, tachas (\"olhos de gato\"), faixas e películas refletivas em caminhões e carretas (exigidas pela regulamentação para veículos de carga), coletes e faixas refletivas de agentes de trânsito e policiais, para-choques de bicicletas.</li><li><b>Por que funciona tão bem à noite?</b> Porque o condutor está praticamente ao lado do farol: a luz que volta para o farol chega aos olhos dele. Um objeto comum (reflexão difusa) espalha a luz em todas as direções, e pouca volta ao condutor.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O material retrorrefletivo espalha a luz em todas as direções, para que seja visto de qualquer ângulo</span><br>✅ <span class=\"certo\">o retrorrefletor devolve a luz <b>de volta para a fonte</b> (o farol), e, portanto, para os olhos do condutor</span></li><li>❌ <span class=\"banca\">Coletes refletivos funcionam igualmente bem quando não há nenhuma fonte de luz apontada para eles</span><br>✅ <span class=\"certo\">o retrorrefletor só \"brilha\" quando <b>iluminado</b> (por faróis, lanternas)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Convexo</span></span><span class=\"vs\"><span>Virtual, direita, menor; campo amplo (retrovisores)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Côncavo com fonte no foco</span></span><span class=\"vs\"><span>Feixe paralelo (faróis)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Côncavo entre F e V</span></span><span class=\"vs\"><span>Virtual, direita, maior (barbear)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Gauss</span></span><span class=\"vs\"><span>1/f = 1/p + 1/p′; A = −p′/p</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Retrorrefletor</span></span><span class=\"vs\"><span>Devolve a luz para a fonte</span></span></button></div></div>\n<h3>28. Refração da luz</h3>\n<ul><li><b>Refração</b>: mudança na <b>velocidade</b> da luz ao passar de um meio para outro, geralmente acompanhada de mudança de <b>direção</b> (quando a incidência é oblíqua). Na incidência perpendicular (normal), a velocidade muda, mas a direção não.</li><li><b>Índice de refração absoluto</b>: <b>n = c/v</b>, razão entre a velocidade da luz no vácuo e no meio. É sempre ≥ 1. Valores típicos: ar ≈ 1,00; água ≈ 1,33; vidro ≈ 1,5; diamante ≈ 2,4. Quanto <b>maior n</b>, <b>menor</b> a velocidade da luz no meio (meio \"mais refringente\").</li><li><b>Lei de Snell-Descartes</b>: <b>n₁·sen θ₁ = n₂·sen θ₂</b>. Ao passar para um meio <b>mais refringente</b> (n maior), o raio se <b>aproxima da normal</b>; ao passar para um <b>menos refringente</b>, se <b>afasta</b> da normal.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Velocidade da luz na água</b><ol><li><span>n_água = 1,33; c = 3 × 10⁸ m/s</span></li><li><span>v = c/n = 3 × 10⁸/1,33</span></li><li><span>v ≈ 2,26 × 10⁸ m/s</span></li></ol><span class=\"res\">≈ 226 mil km/s</span></div>\n<ul><li><b>Profundidade aparente</b>: uma piscina parece mais rasa do que é, e um objeto submerso parece mais perto da superfície; a luz que sai da água se afasta da normal. Para quem olha de cima, quase na vertical, a profundidade aparente ≈ profundidade real × (n_ar/n_água) ≈ real × 0,75.</li><li><b>Reflexão total</b>: quando a luz vai de um meio <b>mais</b> refringente para um <b>menos</b> refringente (da água para o ar, por exemplo) com ângulo de incidência <b>maior que o ângulo limite</b>, ela não sai: é <b>totalmente refletida</b>. Aplicações: <b>fibras ópticas</b> (a luz \"presa\" dentro da fibra, refletindo-se totalmente nas paredes; base das redes de internet e de comunicação), brilho do diamante, prismas de binóculos.</li><li><b>Miragem no asfalto quente</b>: o ar junto ao asfalto, mais quente, é menos denso e tem índice de refração um pouco menor. A luz do céu que desce em direção à pista vai se curvando (refração gradual e, perto do chão, reflexão total) e chega aos olhos do condutor vinda \"de baixo\": parece haver uma poça d'água refletindo o céu à frente, que \"desaparece\" quando o carro se aproxima.</li><li><b>Dispersão</b>: o índice de refração varia ligeiramente com a cor (frequência): a luz branca se separa em cores num prisma ou nas gotas de chuva (<b>arco-íris</b>). O violeta é o que mais desvia; o vermelho, o que menos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Ao passar do ar para a água, a luz aumenta de velocidade e se afasta da normal</span><br>✅ <span class=\"certo\">na água (n maior) a luz <b>diminui</b> de velocidade e se <b>aproxima</b> da normal</span></li><li>❌ <span class=\"banca\">A reflexão total ocorre quando a luz passa de um meio menos refringente para outro mais refringente</span><br>✅ <span class=\"certo\">ocorre do meio <b>mais</b> refringente para o <b>menos</b> refringente, acima do ângulo limite</span></li><li>❌ <span class=\"banca\">A \"poça d'água\" vista no asfalto quente em dias de sol é causada pela reflexão da luz em água evaporada sobre a pista</span><br>✅ <span class=\"certo\">é uma <b>miragem</b>, causada pela <b>refração</b> (e reflexão total) da luz em camadas de ar com temperaturas diferentes</span></li></ol></div>\n<h3>29. Lentes</h3>\n<ul><li><b>Lentes</b> são meios transparentes limitados por superfícies curvas que <b>refratam</b> a luz. <b>Convergentes</b> (em geral, mais grossas no centro, de bordas finas): os raios paralelos convergem para o foco. <b>Divergentes</b> (mais finas no centro, de bordas grossas): os raios paralelos se espalham, como se viessem do foco. (Isso vale para lentes de vidro no ar.)</li><li><b>Vergência (dioptria)</b>: <b>V = 1/f</b> (f em metros), medida em <b>dioptrias (di)</b>, popularmente \"graus\". Lente de +2 di: convergente com f = 0,5 m; de −2 di: divergente com f = −0,5 m.</li><li><b>Imagens</b>: a <b>divergente</b> forma sempre imagem <b>virtual, direita e menor</b> (como o espelho convexo); a <b>convergente</b> forma imagens reais e invertidas (objeto além do foco, como em projetores e câmeras) ou <b>virtual, direita e maior</b> (objeto entre o foco e a lente: <b>lupa</b>).</li><li>A mesma equação vale: <b>1/f = 1/p + 1/p′</b>; aumento A = −p′/p.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Lupa</b><ol><li><span>Lente convergente de f = 10 cm; objeto a 5 cm</span></li><li><span>1/p′ = 1/10 − 1/5 = −1/10 → p′ = −10 cm (virtual)</span></li><li><span>A = −(−10)/5 = 2</span></li></ol><span class=\"res\">Imagem virtual, direita, duas vezes maior</span></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>n = c/v</span></span><span class=\"vs\"><span>Maior n, menor velocidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mais refringente</span></span><span class=\"vs\"><span>Aproxima-se da normal</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Reflexão total</span></span><span class=\"vs\"><span>Do mais para o menos refringente, acima do ângulo limite (fibra óptica)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Miragem</span></span><span class=\"vs\"><span>Refração em ar aquecido</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vergência</span></span><span class=\"vs\"><span>V = 1/f (dioptrias)</span></span></button></div></div>\n<h3>30. O olho humano e os defeitos da visão</h3>\n<ul><li><b>O olho funciona como uma câmera</b>: córnea e <b>cristalino</b> (lente convergente) formam, na <b>retina</b>, uma imagem <b>real, invertida e menor</b> dos objetos; o cérebro interpreta a imagem \"na posição certa\".</li><li><b>Acomodação visual</b>: músculos alteram a curvatura do cristalino, mudando sua distância focal para focalizar objetos próximos ou distantes. O <b>ponto próximo</b> (mais perto em que se enxerga nítido) é de cerca de 25 cm para um adulto jovem e se afasta com a idade.</li></ul>\n<table class=\"tab\"><thead><tr><th>Defeito</th><th>O que ocorre</th><th>Dificuldade</th><th>Correção</th></tr></thead><tbody><tr><td><b>Miopia</b></td><td>olho \"longo\" ou muito convergente: a imagem de objetos distantes se forma <b>antes</b> da retina</td><td>enxergar <b>de longe</b></td><td>lente <b>divergente</b> (grau negativo)</td></tr><tr><td><b>Hipermetropia</b></td><td>olho \"curto\" ou pouco convergente: a imagem se formaria <b>depois</b> da retina</td><td>enxergar <b>de perto</b> (e cansaço visual)</td><td>lente <b>convergente</b> (grau positivo)</td></tr><tr><td><b>Presbiopia</b> (\"vista cansada\")</td><td>perda da capacidade de acomodação com a idade</td><td>enxergar <b>de perto</b></td><td>lente <b>convergente</b> para perto (ou multifocal)</td></tr><tr><td><b>Astigmatismo</b></td><td>curvatura irregular da córnea</td><td>imagens distorcidas a qualquer distância</td><td>lente <b>cilíndrica</b></td></tr></tbody></table>\n<ul><li><b>Na habilitação</b>: o exame de aptidão física e mental avalia a acuidade visual; quando o candidato precisa de correção, a CNH registra a <b>obrigatoriedade de uso de lentes corretivas</b> (óculos ou lentes de contato), e dirigir sem elas descumpre a restrição anotada no documento.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O míope enxerga mal de perto e deve usar lentes convergentes</span><br>✅ <span class=\"certo\">o míope enxerga mal <b>de longe</b> e usa lentes <b>divergentes</b></span></li><li>❌ <span class=\"banca\">A presbiopia é corrigida com lentes divergentes</span><br>✅ <span class=\"certo\">a presbiopia (\"vista cansada\") é corrigida com lentes <b>convergentes</b> para perto</span></li><li>❌ <span class=\"banca\">A imagem formada na retina é virtual e direita</span><br>✅ <span class=\"certo\">é <b>real e invertida</b> (o cérebro a \"endireita\")</span></li></ol></div>\n<h3>31. A visão do condutor: ofuscamento, noite e campo visual</h3>\n<ul><li><b>Ofuscamento</b>: a luz intensa dos faróis contrários (sobretudo em <b>farol alto</b>) satura temporariamente a retina; depois que o veículo passa, a visão leva alguns segundos para se readaptar ao escuro. Nesse intervalo, o condutor \"dirige às cegas\". Por isso o CTB determina o uso do <b>farol baixo</b> ao cruzar ou seguir outro veículo, e a técnica recomendada é desviar o olhar para a borda direita da pista ao cruzar faróis altos.</li><li><b>Adaptação ao escuro</b>: a sensibilidade do olho aumenta progressivamente no escuro (dilatação da pupila e adaptação dos fotorreceptores), mas é perdida rapidamente com luz intensa. Painéis muito brilhantes e telas atrapalham a visão noturna.</li><li><b>Visão periférica e velocidade</b>: em velocidades altas, o condutor concentra o olhar mais à frente e perde percepção lateral (\"visão de túnel\"). Pedestres e ciclistas nas laterais passam a ser percebidos tarde.</li><li><b>Ponto cego</b>: regiões ao redor do veículo que não são vistas diretamente nem pelos retrovisores. Retrovisores convexos (ou com área convexa) e sensores de ponto cego reduzem o problema. Veículos grandes (caminhões e ônibus) têm pontos cegos muito maiores, especialmente à direita e logo à frente.</li><li><b>Películas nos vidros</b>: escurecem os vidros reduzindo a <b>transmitância luminosa</b>; a regulamentação do CONTRAN fixa transmitâncias mínimas (mais exigentes para o para-brisa e os vidros laterais dianteiros, que são essenciais à visão do condutor). À noite, películas muito escuras reduzem drasticamente a visibilidade.</li><li><b>Neblina e chuva</b>: gotículas espalham a luz (difusão). O farol alto, na neblina, piora a visão, porque a luz refletida pelas gotículas volta para os olhos do condutor; usa-se farol baixo e, se houver, farol de neblina, montado mais baixo.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Na neblina, o farol alto melhora a visibilidade, porque ilumina mais longe</span><br>✅ <span class=\"certo\">na neblina, o farol alto <b>piora</b> a visão: a luz é <b>espalhada</b> pelas gotículas de volta aos olhos do condutor</span></li><li>❌ <span class=\"banca\">O ofuscamento por faróis termina no instante em que o veículo contrário passa</span><br>✅ <span class=\"certo\">a visão leva <b>alguns segundos</b> para se readaptar ao escuro</span></li><li>❌ <span class=\"banca\">Em velocidades mais altas, o campo de visão periférico do condutor aumenta</span><br>✅ <span class=\"certo\">em velocidades altas o campo útil <b>diminui</b> (\"visão de túnel\")</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Miopia</span></span><span class=\"vs\"><span>Mal de longe; lente divergente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Hipermetropia/presbiopia</span></span><span class=\"vs\"><span>Mal de perto; lente convergente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ofuscamento</span></span><span class=\"vs\"><span>Segundos de \"cegueira\" após faróis altos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Neblina</span></span><span class=\"vs\"><span>Farol baixo (alto piora)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade alta</span></span><span class=\"vs\"><span>Visão de túnel</span></span></button></div></div>\n<h3>32. Treino guiado: exercícios resolvidos</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 1</b><ol><li><span>Onda de 50 Hz com λ = 6,8 m. Velocidade?</span></li><li><span>v = λ·f = 6,8·50</span></li></ol><span class=\"res\">340 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 2</b><ol><li><span>Som de 1.700 Hz no ar (340 m/s). Comprimento de onda?</span></li><li><span>λ = 340/1.700</span></li></ol><span class=\"res\">0,2 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 3</b><ol><li><span>Período de uma onda de 25 Hz?</span></li><li><span>T = 1/f</span></li></ol><span class=\"res\">0,04 s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 4</b><ol><li><span>Emissora AM de 1.000 kHz. λ? (c = 3 × 10⁸ m/s)</span></li><li><span>λ = 3 × 10⁸/10⁶</span></li></ol><span class=\"res\">300 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 5</b><ol><li><span>Eco ouvido 0,5 s após o grito. Distância do paredão?</span></li><li><span>d = 340·0,5/2</span></li></ol><span class=\"res\">85 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 6</b><ol><li><span>Sensor de ré emite ultrassom; eco volta em 0,006 s (340 m/s). Distância do obstáculo?</span></li><li><span>d = 340·0,006/2</span></li></ol><span class=\"res\">≈ 1 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 7</b><ol><li><span>O som passa do ar (340 m/s) para a água (1.500 m/s) com 500 Hz. λ no ar e na água?</span></li><li><span>Ar: 340/500 = 0,68 m</span></li><li><span>Água: 1.500/500 = 3 m</span></li></ol><span class=\"res\">Frequência igual; λ passa de 0,68 m para 3 m</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 8</b><ol><li><span>Sirene de 1.020 Hz se afasta a 20 m/s de um observador parado (340 m/s). Frequência percebida?</span></li><li><span>f′ = 1.020·340/(340 + 20) = 1.020·340/360</span></li></ol><span class=\"res\">≈ 963 Hz</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 9</b><ol><li><span>Observador a 34 m/s se aproxima de uma sirene parada de 1.000 Hz. Frequência percebida?</span></li><li><span>f′ = 1.000·(340 + 34)/340</span></li></ol><span class=\"res\">1.100 Hz</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 10</b><ol><li><span>Pessoa a 2 m de um espelho plano se aproxima 0,5 m. Nova distância até a imagem?</span></li><li><span>Nova distância ao espelho: 1,5 m</span></li><li><span>Pessoa–imagem: 3 m</span></li></ol><span class=\"res\">3 m (antes eram 4 m)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 11</b><ol><li><span>Dois espelhos planos a 72°. Número de imagens?</span></li><li><span>n = 360/72 − 1</span></li></ol><span class=\"res\">4 imagens</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 12</b><ol><li><span>Espelho côncavo com R = 40 cm. Distância focal? Onde pôr a lâmpada para feixe paralelo?</span></li><li><span>f = R/2 = 20 cm</span></li><li><span>Lâmpada no foco</span></li></ol><span class=\"res\">f = 20 cm; lâmpada a 20 cm do vértice</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 13</b><ol><li><span>Objeto a 60 cm de espelho côncavo de f = 20 cm. Imagem?</span></li><li><span>1/p′ = 1/20 − 1/60 = 2/60 → p′ = 30 cm (real)</span></li><li><span>A = −30/60 = −0,5</span></li></ol><span class=\"res\">Real, invertida, com metade do tamanho, a 30 cm</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 14</b><ol><li><span>Luz num vidro de n = 1,5. Velocidade?</span></li><li><span>v = 3 × 10⁸/1,5</span></li></ol><span class=\"res\">2 × 10⁸ m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 15</b><ol><li><span>Lente de −2,5 di. Tipo e distância focal?</span></li><li><span>f = 1/V = 1/(−2,5) = −0,4 m</span></li></ol><span class=\"res\">Divergente, f = −40 cm (corrige miopia)</span></div>\n<h3>33. Itens no estilo Cebraspe, comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a sirene</b><p>Uma ambulância com sirene de 850 Hz passa por um agente parado à beira da rodovia, a 20 m/s; a velocidade do som no ar é 340 m/s. Julgue: (1) durante a aproximação, o agente percebe som mais agudo que o emitido; (2) na aproximação, a frequência percebida é de aproximadamente 903 Hz; (3) o motorista da ambulância percebe o som da sirene com frequência de 850 Hz.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Certo</b>. (2) f′ = 850·340/(340 − 20) = 850·340/320 ≈ <b>903 Hz</b>: <b>certo</b>. (3) Sem movimento relativo: <b>certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: o retrovisor</b><p>Julgue: (1) o retrovisor externo convexo amplia o campo visual do condutor; (2) as imagens nele são reais e invertidas; (3) por formar imagens menores, os veículos parecem mais distantes do que realmente estão.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Certo</b>. (2) São <b>virtuais e direitas</b>: <b>errado</b>. (3) <b>Certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: radares</b><p>Julgue: (1) o radar Doppler mede a velocidade a partir da variação de frequência de micro-ondas refletidas no veículo; (2) o medidor a laser emite pulsos de luz e calcula a velocidade a partir de sucessivas medidas de distância; (3) em ambos, utilizam-se ondas mecânicas.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Certo</b>. (2) <b>Certo</b>. (3) Micro-ondas e luz são <b>eletromagnéticas</b>: <b>errado</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a miragem</b><p>Julgue: (1) a \"poça\" vista no asfalto em dias quentes resulta da refração da luz em camadas de ar de temperaturas diferentes; (2) a luz se propaga mais devagar no ar quente que no ar frio; (3) trata-se de um fenômeno de difração.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Certo</b>. (2) O ar quente, menos denso, tem índice um pouco <b>menor</b>: a luz é <b>mais rápida</b> nele: <b>errado</b>. (3) É refração (e reflexão total): <b>errado</b>.</p></details></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Eco</span></span><span class=\"vs\"><span>d = v·t/2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aproximação (observador)</span></span><span class=\"vs\"><span>f′ = f(v + v_o)/v</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Afastamento (fonte)</span></span><span class=\"vs\"><span>f′ = f·v/(v + v_f)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Côncavo, objeto além de C</span></span><span class=\"vs\"><span>Real, invertida, menor</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>−2,5 di</span></span><span class=\"vs\"><span>Divergente, f = −40 cm</span></span></button></div></div>\n<h3>34. Ondas no cotidiano policial e no trânsito</h3>\n<ul><li><b>Rádio das viaturas e comunicações</b>: usam ondas de rádio (VHF, UHF) ou redes digitais; o alcance depende da frequência, da potência, da altura das antenas e dos obstáculos. Ondas de frequência mais baixa contornam melhor obstáculos (difração); as de frequência mais alta transmitem mais dados, mas são mais barradas por relevos e edificações. Repetidoras em pontos altos estendem a cobertura.</li><li><b>GPS</b>: o receptor mede o tempo que os sinais de vários satélites (micro-ondas, viajando a c) levam para chegar e calcula a distância a cada um; com pelo menos quatro satélites, determina posição e horário. Um erro de 1 microssegundo no tempo corresponderia a cerca de 300 m de erro de distância.</li><li><b>Câmeras de leitura de placas (OCR)</b>: usam iluminação <b>infravermelha</b> à noite; as placas com película retrorrefletiva devolvem essa luz à câmera, tornando os caracteres legíveis.</li><li><b>Escâneres de carga e de bagagem</b>: raios X atravessam materiais leves e são absorvidos por materiais densos (metais), gerando imagens do conteúdo de caminhões e contêineres sem abri-los.</li><li><b>Detectores de metais</b>: usam campos eletromagnéticos variáveis; objetos metálicos alteram esses campos.</li><li><b>Etilômetro e outros sensores</b>: muitos medidores usam absorção de <b>infravermelho</b> em determinadas frequências características das moléculas (cada substância absorve \"cores\" específicas de infravermelho).</li><li><b>Ressonância em pontes e viadutos</b>: tropas marchando em passo cadenciado podem excitar a frequência natural de uma ponte; por isso, tradicionalmente, a tropa \"quebra o passo\" ao atravessar pontes.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">As ondas de rádio de frequência mais alta contornam obstáculos com mais facilidade que as de frequência mais baixa</span><br>✅ <span class=\"certo\">as de frequência mais <b>baixa</b> (maior λ) <b>difratam</b> mais e contornam melhor os obstáculos</span></li><li>❌ <span class=\"banca\">O GPS calcula a posição do receptor a partir do efeito Doppler das ondas sonoras emitidas pelos satélites</span><br>✅ <span class=\"certo\">os satélites emitem ondas <b>eletromagnéticas</b>; o receptor usa o <b>tempo de chegada</b> dos sinais</span></li></ol></div>\n<h3>35. Ondas sísmicas, infrassom e ultrassom</h3>\n<ul><li><b>Ondas sísmicas</b>: geradas por terremotos e explosões; há ondas <b>P</b> (primárias, longitudinais, mais rápidas, atravessam sólidos e líquidos) e <b>S</b> (secundárias, transversais, mais lentas, não atravessam líquidos). A diferença de tempo de chegada entre P e S permite estimar a distância do epicentro.</li><li><b>Ultrassom</b>: frequências acima de 20 kHz. Usos: exames de imagem médicos (ecografia), limpeza de peças, sensores de estacionamento, sonar. Morcegos e golfinhos se orientam por ecolocalização.</li><li><b>Infrassom</b>: abaixo de 20 Hz; gerado por terremotos, vulcões, grandes máquinas e algumas espécies animais; percorre longas distâncias.</li></ul>\n<h3>36. Erros de raciocínio mais comuns</h3>\n<ul><li><b>Achar que a frequência muda na mudança de meio</b>: ela é imposta pela fonte; mudam v e λ.</li><li><b>Trocar \"agudo\" por \"alto volume\"</b>: agudo é frequência alta.</li><li><b>Dizer que a fonte \"emite\" frequência diferente no Doppler</b>: muda a frequência percebida.</li><li><b>Esquecer o \"ida e volta\" no eco</b>: d = v·t/2.</li><li><b>Inverter as lentes de correção</b>: miopia → divergente; hipermetropia e presbiopia → convergente.</li><li><b>Achar que o convexo forma imagem real</b>: para objetos reais, é sempre virtual, direita e menor.</li><li><b>Achar que o farol alto ajuda na neblina</b>: piora, pela luz espalhada de volta.</li><li><b>Confundir refração com reflexão total</b>: na reflexão total, a luz <b>não</b> passa para o outro meio.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rádio de baixa frequência</span></span><span class=\"vs\"><span>Contorna melhor obstáculos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>GPS</span></span><span class=\"vs\"><span>Tempo de chegada de sinais eletromagnéticos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>OCR noturno</span></span><span class=\"vs\"><span>Infravermelho + placa retrorrefletiva</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ondas P e S</span></span><span class=\"vs\"><span>Longitudinais (rápidas) e transversais (lentas)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ultrassom</span></span><span class=\"vs\"><span>Acima de 20 kHz</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Um som de 85 Hz propaga-se no ar a 340 m/s. Seu comprimento de onda é de",
+"alts": [
+"4 m",
+"40 m",
+"0,25 m",
+"28.900 m",
+"2 m"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Erro de vírgula.",
+"Inverteu a divisão (f/v).",
+"Multiplicou em vez de dividir.",
+"Dividiu por 2 sem motivo."
+],
+"x": "Dados: f = 85 Hz; v = 340 m/s (som no ar) >> Fórmula: v = λ·f → λ = v/f >> Conta: λ = 340/85 → λ = 4 m >> Resultado: 4 m",
+"e": "λ = v/f"
+},
+{
+"p": "Um som de 1700 Hz, no ar (340 m/s), tem comprimento de onda de 5 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: f = 1700 Hz; v = 340 m/s (som no ar) >> Fórmula: v = λ·f → λ = v/f >> Conta: λ = 340/1700 → λ = 0,2 m >> Resultado: 0,2 m",
+"e": "v = λ·f"
+},
+{
+"p": "Um som de 680 Hz, no ar (340 m/s), tem comprimento de onda de 2 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: f = 680 Hz; v = 340 m/s (som no ar) >> Fórmula: v = λ·f → λ = v/f >> Conta: λ = 340/680 → λ = 0,5 m >> Resultado: 0,5 m",
+"e": "v = λ·f"
+},
+{
+"p": "Um som de 170 Hz propaga-se no ar a 340 m/s. Seu comprimento de onda é de",
+"alts": [
+"1 m",
+"2 m",
+"20 m",
+"0,5 m",
+"57.800 m"
+],
+"r": 1,
+"n": [
+"Dividiu por 2 sem motivo.",
+"Correta.",
+"Erro de vírgula.",
+"Inverteu a divisão (f/v).",
+"Multiplicou em vez de dividir."
+],
+"x": "Dados: f = 170 Hz; v = 340 m/s (som no ar) >> Fórmula: v = λ·f → λ = v/f >> Conta: λ = 340/170 → λ = 2 m >> Resultado: 2 m",
+"e": "λ = v/f"
+},
+{
+"p": "Um som de 100 Hz, no ar (340 m/s), tem comprimento de onda de 0,294 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: f = 100 Hz; v = 340 m/s (som no ar) >> Fórmula: v = λ·f → λ = v/f >> Conta: λ = 340/100 → λ = 3,4 m >> Resultado: 3,4 m",
+"e": "v = λ·f"
+},
+{
+"p": "Um som de 850 Hz, no ar (340 m/s), tem comprimento de onda de 0,4 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: f = 850 Hz; v = 340 m/s (som no ar) >> Fórmula: v = λ·f → λ = v/f >> Conta: λ = 340/850 → λ = 0,4 m >> Resultado: 0,4 m",
+"e": "v = λ·f"
+},
+{
+"p": "Um som de 1700 Hz propaga-se no ar a 340 m/s. Seu comprimento de onda é de",
+"alts": [
+"5 m",
+"0,1 m",
+"0,2 m",
+"2 m",
+"578.000 m"
+],
+"r": 2,
+"n": [
+"Inverteu a divisão (f/v).",
+"Dividiu por 2 sem motivo.",
+"Correta.",
+"Erro de vírgula.",
+"Multiplicou em vez de dividir."
+],
+"x": "Dados: f = 1700 Hz; v = 340 m/s (som no ar) >> Fórmula: v = λ·f → λ = v/f >> Conta: λ = 340/1700 → λ = 0,2 m >> Resultado: 0,2 m",
+"e": "λ = v/f"
+},
+{
+"p": "Uma onda de rádio de 88 MHz tem comprimento de onda de 3.409,09 m (c = 3 × 10⁸ m/s).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: f = 88 × 10⁶ Hz; v = 3 × 10⁸ m/s >> Fórmula: λ = c/f >> Conta: λ = 3 × 10⁸/(88 × 10⁶) → λ = 300/88 → λ = 3,41 m >> Resultado: 3,41 m",
+"e": "λ = c/f"
+},
+{
+"p": "Uma onda de rádio de 100 MHz tem comprimento de onda de 3.000 m (c = 3 × 10⁸ m/s).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: f = 100 × 10⁶ Hz; v = 3 × 10⁸ m/s >> Fórmula: λ = c/f >> Conta: λ = 3 × 10⁸/(100 × 10⁶) → λ = 300/100 → λ = 3 m >> Resultado: 3 m",
+"e": "λ = c/f"
+},
+{
+"p": "Uma onda de rádio de 150 MHz tem comprimento de onda de 2.000 m (c = 3 × 10⁸ m/s).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: f = 150 × 10⁶ Hz; v = 3 × 10⁸ m/s >> Fórmula: λ = c/f >> Conta: λ = 3 × 10⁸/(150 × 10⁶) → λ = 300/150 → λ = 2 m >> Resultado: 2 m",
+"e": "λ = c/f"
+},
+{
+"p": "Uma onda de rádio de 300 MHz tem comprimento de onda de 1 m (c = 3 × 10⁸ m/s).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: f = 300 × 10⁶ Hz; v = 3 × 10⁸ m/s >> Fórmula: λ = c/f >> Conta: λ = 3 × 10⁸/(300 × 10⁶) → λ = 300/300 → λ = 1 m >> Resultado: 1 m",
+"e": "λ = c/f"
+},
+{
+"p": "Uma onda de rádio de 1000 MHz tem comprimento de onda de 300 m (c = 3 × 10⁸ m/s).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: f = 1000 × 10⁶ Hz; v = 3 × 10⁸ m/s >> Fórmula: λ = c/f >> Conta: λ = 3 × 10⁸/(1000 × 10⁶) → λ = 300/1000 → λ = 0,3 m >> Resultado: 0,3 m",
+"e": "λ = c/f"
+},
+{
+"p": "Um pulso sonoro emitido no ar (340 m/s) retorna como eco após 1,2 s. O obstáculo está a 204 m da fonte.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 340 m/s; t = 1,2 s (ida e volta) >> Ideia: o som percorre a distância duas vezes >> Fórmula: 2·d = v·t → d = v·t/2 >> Conta: d = 340·1,2/2 → d = 204 m >> Atenção: sem dividir por 2, obtém-se 408 m >> Resultado: 204 m",
+"e": "Eco: d = v·t/2"
+},
+{
+"p": "Um pulso sonoro emitido no ar (340 m/s) retorna como eco após 0,5 s. O obstáculo está a 170 m da fonte.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 340 m/s; t = 0,5 s (ida e volta) >> Ideia: o som percorre a distância duas vezes >> Fórmula: 2·d = v·t → d = v·t/2 >> Conta: d = 340·0,5/2 → d = 85 m >> Atenção: sem dividir por 2, obtém-se 170 m >> Resultado: 85 m",
+"e": "Eco: d = v·t/2"
+},
+{
+"p": "Um pulso sonoro emitido no ar (340 m/s) retorna como eco após 2 s. O obstáculo está a 680 m da fonte.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 340 m/s; t = 2 s (ida e volta) >> Ideia: o som percorre a distância duas vezes >> Fórmula: 2·d = v·t → d = v·t/2 >> Conta: d = 340·2/2 → d = 340 m >> Atenção: sem dividir por 2, obtém-se 680 m >> Resultado: 340 m",
+"e": "Eco: d = v·t/2"
+},
+{
+"p": "Um pulso sonoro emitido na água (1500 m/s) retorna como eco após 0,4 s. O obstáculo está a 600 m da fonte.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 1500 m/s; t = 0,4 s (ida e volta) >> Ideia: o som percorre a distância duas vezes >> Fórmula: 2·d = v·t → d = v·t/2 >> Conta: d = 1500·0,4/2 → d = 300 m >> Atenção: sem dividir por 2, obtém-se 600 m >> Resultado: 300 m",
+"e": "Eco: d = v·t/2"
+},
+{
+"p": "Um pulso sonoro emitido no ar (340 m/s) retorna como eco após 0,01 s. O obstáculo está a 2,04 m da fonte.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: v = 340 m/s; t = 0,01 s (ida e volta) >> Ideia: o som percorre a distância duas vezes >> Fórmula: 2·d = v·t → d = v·t/2 >> Conta: d = 340·0,01/2 → d = 1,02 m >> Atenção: sem dividir por 2, obtém-se 2,04 m >> Resultado: 1,02 m",
+"e": "Eco: d = v·t/2"
+},
+{
+"p": "Um pulso sonoro emitido na água (1500 m/s) retorna como eco após 3 s. O obstáculo está a 2.250 m da fonte.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 1500 m/s; t = 3 s (ida e volta) >> Ideia: o som percorre a distância duas vezes >> Fórmula: 2·d = v·t → d = v·t/2 >> Conta: d = 1500·3/2 → d = 2.250 m >> Atenção: sem dividir por 2, obtém-se 4.500 m >> Resultado: 2.250 m",
+"e": "Eco: d = v·t/2"
+},
+{
+"p": "Uma sirene de 900 Hz, numa viatura a 20 m/s, aproxima-se de um pedestre parado (som a 340 m/s). O pedestre percebe frequência de aproximadamente 850 Hz.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: na aproximação o som fica mais agudo (frequência percebida MAIOR) >> Fórmula: f′ = f·v/(v − v_fonte) >> Conta: f′ = 900·340/(340 − 20) → f′ = 900·340/320 → f′ ≈ 956 Hz >> Confere: maior que 900 Hz, como esperado >> Resultado: ≈ 956 Hz",
+"e": "Efeito Doppler"
+},
+{
+"p": "Uma sirene de 900 Hz, numa viatura a 20 m/s, afasta-se de um pedestre parado (som a 340 m/s). O pedestre percebe frequência de aproximadamente 956 Hz.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: no afastamento o som fica mais grave (frequência percebida MENOR) >> Fórmula: f′ = f·v/(v + v_fonte) >> Conta: f′ = 900·340/(340 + 20) → f′ = 900·340/360 → f′ ≈ 850 Hz >> Confere: menor que 900 Hz, como esperado >> Resultado: ≈ 850 Hz",
+"e": "Efeito Doppler"
+},
+{
+"p": "Uma sirene de 850 Hz, numa viatura a 20 m/s, aproxima-se de um pedestre parado (som a 340 m/s). O pedestre percebe frequência de aproximadamente 903 Hz.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: na aproximação o som fica mais agudo (frequência percebida MAIOR) >> Fórmula: f′ = f·v/(v − v_fonte) >> Conta: f′ = 850·340/(340 − 20) → f′ = 850·340/320 → f′ ≈ 903 Hz >> Confere: maior que 850 Hz, como esperado >> Resultado: ≈ 903 Hz",
+"e": "Efeito Doppler"
+},
+{
+"p": "Uma sirene de 680 Hz, numa viatura a 34 m/s, aproxima-se de um pedestre parado (som a 340 m/s). O pedestre percebe frequência de aproximadamente 756 Hz.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: na aproximação o som fica mais agudo (frequência percebida MAIOR) >> Fórmula: f′ = f·v/(v − v_fonte) >> Conta: f′ = 680·340/(340 − 34) → f′ = 680·340/306 → f′ ≈ 756 Hz >> Confere: maior que 680 Hz, como esperado >> Resultado: ≈ 756 Hz",
+"e": "Efeito Doppler"
+},
+{
+"p": "Uma sirene de 1020 Hz, numa viatura a 20 m/s, afasta-se de um pedestre parado (som a 340 m/s). O pedestre percebe frequência de aproximadamente 963 Hz.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: no afastamento o som fica mais grave (frequência percebida MENOR) >> Fórmula: f′ = f·v/(v + v_fonte) >> Conta: f′ = 1020·340/(340 + 20) → f′ = 1020·340/360 → f′ ≈ 963 Hz >> Confere: menor que 1020 Hz, como esperado >> Resultado: ≈ 963 Hz",
+"e": "Efeito Doppler"
+},
+{
+"p": "Uma sirene de 1000 Hz, numa viatura a 40 m/s, afasta-se de um pedestre parado (som a 340 m/s). O pedestre percebe frequência de aproximadamente 1.133 Hz.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: no afastamento o som fica mais grave (frequência percebida MENOR) >> Fórmula: f′ = f·v/(v + v_fonte) >> Conta: f′ = 1000·340/(340 + 40) → f′ = 1000·340/380 → f′ ≈ 895 Hz >> Confere: menor que 1000 Hz, como esperado >> Resultado: ≈ 895 Hz",
+"e": "Efeito Doppler"
+},
+{
+"p": "Quando uma ambulância com a sirene ligada se aproxima de um pedestre parado, ele percebe o som mais agudo do que o emitido.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: efeito Doppler: na aproximação as frentes de onda chegam comprimidas (frequência percebida maior) >> Resultado: som mais agudo; a frequência emitida não muda",
+"e": "Doppler qualitativo"
+},
+{
+"p": "Quando uma ambulância com a sirene ligada se afasta de um pedestre parado, ele percebe o som mais grave do que o emitido.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: efeito Doppler: no afastamento as frentes de onda chegam espaçadas (frequência percebida menor) >> Resultado: som mais grave; a frequência emitida não muda",
+"e": "Doppler qualitativo"
+},
+{
+"p": "Quando uma ambulância com a sirene ligada se afasta de um pedestre parado, ele percebe o som mais agudo do que o emitido.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: efeito Doppler: no afastamento as frentes de onda chegam espaçadas (frequência percebida menor) >> Resultado: som mais grave; a frequência emitida não muda",
+"e": "Doppler qualitativo"
+},
+{
+"p": "A(o) som é uma onda mecânica e longitudinal.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: mecânicas precisam de meio (som, cordas); eletromagnéticas propagam-se no vácuo e são transversais (luz, rádio, micro-ondas) >> Resultado: som: mecânica e longitudinal",
+"e": "Classificação das ondas"
+},
+{
+"p": "A(o) luz é uma onda eletromagnética e transversal.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: mecânicas precisam de meio (som, cordas); eletromagnéticas propagam-se no vácuo e são transversais (luz, rádio, micro-ondas) >> Resultado: luz: eletromagnética e transversal",
+"e": "Classificação das ondas"
+},
+{
+"p": "A(o) onda de rádio é uma onda mecânica e longitudinal.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: mecânicas precisam de meio (som, cordas); eletromagnéticas propagam-se no vácuo e são transversais (luz, rádio, micro-ondas) >> Resultado: onda de rádio: eletromagnética e transversal",
+"e": "Classificação das ondas"
+},
+{
+"p": "A(o) onda numa corda esticada é uma onda mecânica e transversal.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: mecânicas precisam de meio (som, cordas); eletromagnéticas propagam-se no vácuo e são transversais (luz, rádio, micro-ondas) >> Resultado: onda numa corda esticada: mecânica e transversal",
+"e": "Classificação das ondas"
+},
+{
+"p": "A(o) micro-onda do radar é uma onda mecânica e longitudinal.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: mecânicas precisam de meio (som, cordas); eletromagnéticas propagam-se no vácuo e são transversais (luz, rádio, micro-ondas) >> Resultado: micro-onda do radar: eletromagnética e transversal",
+"e": "Classificação das ondas"
+},
+{
+"p": "A qualidade do som chamada altura está relacionada à frequência e permite distinguir agudo ou grave.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: altura ↔ frequência; intensidade ↔ amplitude; timbre ↔ forma da onda >> Resultado: altura: frequência",
+"e": "Qualidades do som"
+},
+{
+"p": "A qualidade do som chamada intensidade está relacionada à forma da onda.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a forma da onda corresponde à qualidade timbre; a intensidade está ligada à amplitude (energia) >> Resultado: intensidade: amplitude (energia)",
+"e": "Qualidades do som"
+},
+{
+"p": "A qualidade do som chamada timbre está relacionada à forma da onda e permite distinguir a fonte que emitiu o som.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: altura ↔ frequência; intensidade ↔ amplitude; timbre ↔ forma da onda >> Resultado: timbre: forma da onda",
+"e": "Qualidades do som"
+},
+{
+"p": "A qualidade do som chamada timbre está relacionada à amplitude (energia).",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a amplitude (energia) corresponde à qualidade intensidade; a timbre está ligada à forma da onda >> Resultado: timbre: forma da onda",
+"e": "Qualidades do som"
+},
+{
+"p": "Um aumento de 10 dB no nível sonoro corresponde a intensidade 10 vezes maior.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a escala em decibéis é logarítmica: cada +10 dB multiplica a intensidade por 10 >> Conta: +10 dB → 10^1 = 10 >> Resultado: 10 vezes",
+"e": "Decibéis"
+},
+{
+"p": "Um aumento de 20 dB no nível sonoro corresponde a intensidade 100 vezes maior.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a escala em decibéis é logarítmica: cada +10 dB multiplica a intensidade por 10 >> Conta: +20 dB → 10^2 = 100 >> Resultado: 100 vezes",
+"e": "Decibéis"
+},
+{
+"p": "Um aumento de 30 dB no nível sonoro corresponde a intensidade 6 vezes maior.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a escala em decibéis é logarítmica: cada +10 dB multiplica a intensidade por 10 >> Conta: +30 dB → 10^3 = 1.000 >> Resultado: 1.000 vezes",
+"e": "Decibéis"
+},
+{
+"p": "O espelho plano fornece, de um objeto real, imagem virtual, direita, do mesmo tamanho e simétrica.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: associação correta >> Resultado: Espelho plano",
+"e": "Espelho plano"
+},
+{
+"p": "O espelho convexo fornece, de um objeto real, imagem virtual, direita e menor, com campo visual ampliado.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: associação correta >> Resultado: Espelho convexo",
+"e": "Espelho convexo"
+},
+{
+"p": "O espelho côncavo, com o objeto entre o foco e o vértice fornece, de um objeto real, imagem virtual, direita e maior.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: associação correta >> Resultado: Espelho côncavo, com o objeto entre o foco e o vértice",
+"e": "Espelho côncavo, com o objeto entre o foco e o vértice"
+},
+{
+"p": "O espelho côncavo, com o objeto além do centro de curvatura fornece, de um objeto real, imagem virtual, direita, do mesmo tamanho e simétrica.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: imagem virtual, direita, do mesmo tamanho e simétrica é característica do espelho plano. O espelho côncavo, com o objeto além do centro de curvatura fornece imagem real, invertida e menor.",
+"e": "Espelho côncavo, com o objeto além do centro de curvatura"
+},
+{
+"p": "Uma pessoa a 1,5 m de um espelho plano aproxima-se 0,5 m dele. A distância entre ela e sua imagem passa a ser de 2 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: no espelho plano, a imagem fica à mesma distância do espelho, do outro lado >> Conta: nova distância ao espelho = 1,5 − 0,5 = 1 m → pessoa–imagem = 2·1 = 2 m >> Resultado: 2 m",
+"e": "Espelho plano"
+},
+{
+"p": "Uma pessoa a 2 m de um espelho plano aproxima-se 1 m dele. A distância entre ela e sua imagem passa a ser de 2 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: no espelho plano, a imagem fica à mesma distância do espelho, do outro lado >> Conta: nova distância ao espelho = 2 − 1 = 1 m → pessoa–imagem = 2·1 = 2 m >> Resultado: 2 m",
+"e": "Espelho plano"
+},
+{
+"p": "Uma pessoa a 3 m de um espelho plano aproxima-se 1 m dele. A distância entre ela e sua imagem passa a ser de 2 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: no espelho plano, a imagem fica à mesma distância do espelho, do outro lado >> Conta: nova distância ao espelho = 3 − 1 = 2 m → pessoa–imagem = 2·2 = 4 m >> Resultado: 4 m",
+"e": "Espelho plano"
+},
+{
+"p": "Uma pessoa a 1 m de um espelho plano aproxima-se 0,25 m dele. A distância entre ela e sua imagem passa a ser de 0,75 m.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: no espelho plano, a imagem fica à mesma distância do espelho, do outro lado >> Conta: nova distância ao espelho = 1 − 0,25 = 0,75 m → pessoa–imagem = 2·0,75 = 1,5 m >> Resultado: 1,5 m",
+"e": "Espelho plano"
+},
+{
+"p": "Dois espelhos planos que formam ângulo de 90° entre si fornecem 4 imagens de um objeto colocado entre eles.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: n = 360°/α − 1 >> Conta: n = 360/90 − 1 = 4 − 1 = 3 >> Resultado: 3 imagens",
+"e": "n = 360/α − 1"
+},
+{
+"p": "Dois espelhos planos que formam ângulo de 60° entre si fornecem 6 imagens de um objeto colocado entre eles.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: n = 360°/α − 1 >> Conta: n = 360/60 − 1 = 6 − 1 = 5 >> Resultado: 5 imagens",
+"e": "n = 360/α − 1"
+},
+{
+"p": "Dois espelhos planos que formam ângulo de 72° entre si fornecem 4 imagens de um objeto colocado entre eles.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: n = 360°/α − 1 >> Conta: n = 360/72 − 1 = 5 − 1 = 4 >> Resultado: 4 imagens",
+"e": "n = 360/α − 1"
+},
+{
+"p": "Dois espelhos planos que formam ângulo de 45° entre si fornecem 7 imagens de um objeto colocado entre eles.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: n = 360°/α − 1 >> Conta: n = 360/45 − 1 = 8 − 1 = 7 >> Resultado: 7 imagens",
+"e": "n = 360/α − 1"
+},
+{
+"p": "Dois espelhos planos que formam ângulo de 120° entre si fornecem 2 imagens de um objeto colocado entre eles.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: n = 360°/α − 1 >> Conta: n = 360/120 − 1 = 3 − 1 = 2 >> Resultado: 2 imagens",
+"e": "n = 360/α − 1"
+},
+{
+"p": "Um objeto real está a 60 cm de um espelho côncavo de distância focal 20 cm. A imagem é real, invertida, menor, a 30 cm do espelho.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: f = +20 cm (côncavo); p = 60 cm >> Fórmula: 1/f = 1/p + 1/p′; A = −p′/p >> Conta: 1/p′ = 1/20 − 1/60 → p′ = 30 cm → A = -0,5 >> Ideia: p′ positivo: imagem real; A negativo: invertida >> Resultado: real, invertida, menor",
+"e": "Equação de Gauss"
+},
+{
+"p": "Um objeto real está a 20 cm de um espelho côncavo de distância focal 30 cm. A imagem é virtual, direita, maior, a 60 cm do espelho.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: f = +30 cm (côncavo); p = 20 cm >> Fórmula: 1/f = 1/p + 1/p′; A = −p′/p >> Conta: 1/p′ = 1/30 − 1/20 → p′ = -60 cm → A = 3 >> Ideia: p′ negativo: imagem virtual; A positivo: direita >> Resultado: virtual, direita, maior",
+"e": "Equação de Gauss"
+},
+{
+"p": "Um objeto real está a 30 cm de um espelho côncavo de distância focal 15 cm. A imagem é virtual, direita.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: f = +15 cm (côncavo); p = 30 cm >> Fórmula: 1/f = 1/p + 1/p′; A = −p′/p >> Conta: 1/p′ = 1/15 − 1/30 → p′ = 30 cm → A = -1 >> Ideia: p′ positivo: imagem real; A negativo: invertida >> Resultado: real, invertida, do mesmo tamanho",
+"e": "Equação de Gauss"
+},
+{
+"p": "Um objeto real está a 5 cm de um espelho côncavo de distância focal 10 cm. A imagem é virtual, direita, maior, a 10 cm do espelho.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: f = +10 cm (côncavo); p = 5 cm >> Fórmula: 1/f = 1/p + 1/p′; A = −p′/p >> Conta: 1/p′ = 1/10 − 1/5 → p′ = -10 cm → A = 2 >> Ideia: p′ negativo: imagem virtual; A positivo: direita >> Resultado: virtual, direita, maior",
+"e": "Equação de Gauss"
+},
+{
+"p": "Um objeto real está a 40 cm de um espelho côncavo de distância focal 20 cm. A imagem é virtual, direita.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: f = +20 cm (côncavo); p = 40 cm >> Fórmula: 1/f = 1/p + 1/p′; A = −p′/p >> Conta: 1/p′ = 1/20 − 1/40 → p′ = 40 cm → A = -1 >> Ideia: p′ positivo: imagem real; A negativo: invertida >> Resultado: real, invertida, do mesmo tamanho",
+"e": "Equação de Gauss"
+},
+{
+"p": "Num meio de índice de refração 1,5, a luz se propaga a cerca de 2 × 10⁸ m/s (c = 3 × 10⁸ m/s).",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: n = c/v → v = c/n >> Conta: v = 3 × 10⁸/1,5 ≈ 2 × 10⁸ m/s >> Atenção: multiplicar por n daria velocidade maior que a da luz no vácuo, o que é impossível >> Resultado: ≈ 2 × 10⁸ m/s",
+"e": "n = c/v"
+},
+{
+"p": "Num meio de índice de refração 1,33, a luz se propaga a cerca de 2,26 × 10⁸ m/s (c = 3 × 10⁸ m/s).",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: n = c/v → v = c/n >> Conta: v = 3 × 10⁸/1,33 ≈ 2,26 × 10⁸ m/s >> Atenção: multiplicar por n daria velocidade maior que a da luz no vácuo, o que é impossível >> Resultado: ≈ 2,26 × 10⁸ m/s",
+"e": "n = c/v"
+},
+{
+"p": "Num meio de índice de refração 2,4, a luz se propaga a cerca de 1,25 × 10⁸ m/s (c = 3 × 10⁸ m/s).",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: n = c/v → v = c/n >> Conta: v = 3 × 10⁸/2,4 ≈ 1,25 × 10⁸ m/s >> Atenção: multiplicar por n daria velocidade maior que a da luz no vácuo, o que é impossível >> Resultado: ≈ 1,25 × 10⁸ m/s",
+"e": "n = c/v"
+},
+{
+"p": "Num meio de índice de refração 1,25, a luz se propaga a cerca de 2,4 × 10⁸ m/s (c = 3 × 10⁸ m/s).",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: n = c/v → v = c/n >> Conta: v = 3 × 10⁸/1,25 ≈ 2,4 × 10⁸ m/s >> Atenção: multiplicar por n daria velocidade maior que a da luz no vácuo, o que é impossível >> Resultado: ≈ 2,4 × 10⁸ m/s",
+"e": "n = c/v"
+},
+{
+"p": "Uma lente de 2 di é divergente e pode ser usada na correção de miopia.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: V = 1/f (f em metros) >> Conta: f = 1/(2) = 0,5 m = 50 cm >> Ideia: vergência positiva → convergente (hipermetropia, presbiopia); negativa → divergente (miopia) >> Resultado: convergente, |f| = 50 cm",
+"e": "Lentes e dioptrias"
+},
+{
+"p": "Uma lente de -2 di é convergente e pode ser usada na correção de hipermetropia.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: V = 1/f (f em metros) >> Conta: f = 1/(-2) = -0,5 m = -50 cm >> Ideia: vergência positiva → convergente (hipermetropia, presbiopia); negativa → divergente (miopia) >> Resultado: divergente, |f| = 50 cm",
+"e": "Lentes e dioptrias"
+},
+{
+"p": "Uma lente de 4 di é divergente e pode ser usada na correção de miopia.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: V = 1/f (f em metros) >> Conta: f = 1/(4) = 0,25 m = 25 cm >> Ideia: vergência positiva → convergente (hipermetropia, presbiopia); negativa → divergente (miopia) >> Resultado: convergente, |f| = 25 cm",
+"e": "Lentes e dioptrias"
+},
+{
+"p": "Uma lente de -2,5 di é divergente, com distância focal de 40 cm, e pode ser usada na correção de miopia.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: V = 1/f (f em metros) >> Conta: f = 1/(-2,5) = -0,4 m = -40 cm >> Ideia: vergência positiva → convergente (hipermetropia, presbiopia); negativa → divergente (miopia) >> Resultado: divergente, |f| = 40 cm",
+"e": "Lentes e dioptrias"
+},
+{
+"p": "Uma lente de 5 di é convergente, com distância focal de 20 cm, e pode ser usada na correção de hipermetropia ou presbiopia.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: V = 1/f (f em metros) >> Conta: f = 1/(5) = 0,2 m = 20 cm >> Ideia: vergência positiva → convergente (hipermetropia, presbiopia); negativa → divergente (miopia) >> Resultado: convergente, |f| = 20 cm",
+"e": "Lentes e dioptrias"
+},
+{
+"p": "Uma lente de -4 di é convergente e pode ser usada na correção de hipermetropia.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: V = 1/f (f em metros) >> Conta: f = 1/(-4) = -0,25 m = -25 cm >> Ideia: vergência positiva → convergente (hipermetropia, presbiopia); negativa → divergente (miopia) >> Resultado: divergente, |f| = 25 cm",
+"e": "Lentes e dioptrias"
+},
+{
+"p": "Na miopia, a pessoa tem dificuldade para enxergar de longe, e a correção é feita com lentes divergentes.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: miopia: imagem antes da retina → lente divergente; hipermetropia e presbiopia: dificuldade de perto → lente convergente >> Resultado: miopia: lentes divergentes",
+"e": "Defeitos da visão"
+},
+{
+"p": "Na hipermetropia, a correção é feita com lentes divergentes.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: miopia: imagem antes da retina → lente divergente; hipermetropia e presbiopia: dificuldade de perto → lente convergente >> Resultado: hipermetropia: lentes convergentes",
+"e": "Defeitos da visão"
+},
+{
+"p": "Na presbiopia, a pessoa tem dificuldade para enxergar de perto, com a idade, e a correção é feita com lentes convergentes.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: miopia: imagem antes da retina → lente divergente; hipermetropia e presbiopia: dificuldade de perto → lente convergente >> Resultado: presbiopia: lentes convergentes",
+"e": "Defeitos da visão"
+},
+{
+"p": "No espectro eletromagnético, a frequência dos(as) raios gama é maior que a dos(as) micro-ondas.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: ordem crescente de frequência: rádio, micro-ondas, infravermelho, visível, ultravioleta, raios X, gama >> Resultado: certo",
+"e": "Espectro eletromagnético"
+},
+{
+"p": "No espectro eletromagnético, a frequência dos(as) raios X é maior que a dos(as) ondas de rádio.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: ordem crescente de frequência: rádio, micro-ondas, infravermelho, visível, ultravioleta, raios X, gama >> Resultado: certo",
+"e": "Espectro eletromagnético"
+},
+{
+"p": "No espectro eletromagnético, a frequência dos(as) infravermelho é maior que a dos(as) raios gama.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: ordem crescente de frequência: rádio, micro-ondas, infravermelho, visível, ultravioleta, raios X, gama >> Resultado: os(as) raios gama têm frequência maior",
+"e": "Espectro eletromagnético"
+},
+{
+"p": "No espectro eletromagnético, a frequência dos(as) ultravioleta é maior que a dos(as) micro-ondas.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: ordem crescente de frequência: rádio, micro-ondas, infravermelho, visível, ultravioleta, raios X, gama >> Resultado: certo",
+"e": "Espectro eletromagnético"
+},
+{
+"p": "No espectro eletromagnético, a frequência dos(as) raios gama é maior que a dos(as) raios X.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: ordem crescente de frequência: rádio, micro-ondas, infravermelho, visível, ultravioleta, raios X, gama >> Resultado: certo",
+"e": "Espectro eletromagnético"
+},
+{
+"p": "As ondas transportam energia de um ponto a outro do meio, sem transportar matéria.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: as partículas do meio apenas oscilam em torno de suas posições; o que se propaga é a perturbação >> Resultado: certo",
+"e": "Onda: energia, não matéria"
+},
+{
+"p": "Quando uma onda sonora passa do ar para a água, sua frequência aumenta, porque sua velocidade aumenta.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a frequência é determinada pela fonte e não muda na mudança de meio >> Ideia: mudam a velocidade e o comprimento de onda (λ = v/f) >> Resultado: errado",
+"e": "Frequência não muda de meio"
+},
+{
+"p": "O som não se propaga no vácuo, por ser uma onda mecânica.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: ondas mecânicas precisam de um meio material (ar, água, sólidos) >> Resultado: certo",
+"e": "Som não vai no vácuo"
+},
+{
+"p": "O radar Doppler de fiscalização de velocidade emite ondas sonoras de alta frequência que se refletem nos veículos.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o radar usa micro-ondas, que são ondas eletromagnéticas >> Resultado: errado",
+"e": "Radar: micro-ondas"
+},
+{
+"p": "O medidor de velocidade a laser determina a velocidade do veículo a partir de sucessivas medidas de distância, obtidas pelo tempo de ida e volta de pulsos de luz.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: distância = c·t/2 em cada pulso; a variação da distância no tempo dá a velocidade >> Resultado: certo",
+"e": "LIDAR"
+},
+{
+"p": "Somente ondas transversais podem ser polarizadas, razão pela qual a luz pode ser polarizada e o som não.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: polarizar é restringir a vibração a uma direção perpendicular à propagação; no som, a vibração é na própria direção de propagação >> Resultado: certo",
+"e": "Polarização"
+},
+{
+"p": "Os faróis dos veículos utilizam espelhos convexos, que concentram a luz da lâmpada em um feixe paralelo.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: usa-se espelho côncavo (parabólico) com a lâmpada no foco; o convexo espalha a luz >> Resultado: errado",
+"e": "Farol: côncavo, lâmpada no foco"
+},
+{
+"p": "A palavra AMBULÂNCIA é escrita de forma invertida no capô para que o condutor à frente a leia corretamente pelo espelho retrovisor.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o espelho plano forma imagem enantiomorfa (troca direita e esquerda) >> Resultado: certo",
+"e": "Imagem enantiomorfa"
+},
+{
+"p": "A \"poça d'água\" vista sobre o asfalto em dias quentes é causada pela evaporação de água acumulada na pista.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: é uma miragem: a luz do céu se curva ao passar por camadas de ar aquecido perto do asfalto (refração gradual e reflexão total) >> Resultado: errado",
+"e": "Miragem"
+},
+{
+"p": "As fibras ópticas conduzem a luz por meio de sucessivas reflexões totais em suas paredes internas.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a luz vai do núcleo (mais refringente) para o revestimento (menos refringente) com ângulo acima do limite >> Resultado: certo",
+"e": "Fibra óptica"
+},
+{
+"p": "Na neblina, o uso do farol alto melhora a visibilidade do condutor, pois a luz alcança distâncias maiores.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: as gotículas espalham a luz de volta aos olhos do condutor, formando uma \"parede\" luminosa >> Resultado: errado; usa-se farol baixo (e o de neblina, se houver)",
+"e": "Neblina: farol baixo"
+},
+{
+"p": "Os materiais retrorrefletivos de placas e coletes devolvem a luz na direção da fonte, o que os torna muito visíveis para o condutor cujos faróis os iluminam.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: microesferas ou prismas de canto devolvem a luz para o farol, que está perto dos olhos do condutor >> Resultado: certo",
+"e": "Retrorreflexão"
+},
+{
+"p": "O pêndulo simples, para pequenas oscilações, tem período que depende do comprimento do fio e da aceleração da gravidade, mas não da massa pendurada.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: T = 2π·√(L/g) >> Resultado: certo",
+"e": "Pêndulo"
+},
+{
+"p": "Um agente vê o relâmpago e ouve o trovão 6 s depois. Considerando a velocidade do som no ar igual a 340 m/s e a chegada da luz como instantânea, a distância da descarga é de aproximadamente",
+"alts": [
+"1.020 m",
+"56,7 m",
+"2.040 m",
+"4.080 m",
+"340 m"
+],
+"r": 2,
+"n": [
+"Dividiu por 2, como se fosse eco.",
+"Dividiu em vez de multiplicar.",
+"Correta.",
+"Dobrou, como se o som fosse e voltasse.",
+"Usou 1 s."
+],
+"x": "Dados: t = 6 s; v = 340 m/s >> Ideia: o som vai só da descarga até o observador (não é eco) >> Fórmula: d = v·t >> Conta: d = 340·6 = 2.040 m >> Resultado: ≈ 2 km",
+"e": "Trovão: d = v·t"
+}
+]
+},
+"quantidade-movimento": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>Q = m·v</b><span>quantidade de movimento (vetorial)</span></div><div class=\"lt-stat\"><b>I = F·Δt = ΔQ</b><span>teorema do impulso</span></div><div class=\"lt-stat\"><b>Q_antes = Q_depois</b><span>sistema isolado (colisões e explosões)</span></div><div class=\"lt-stat\"><b>e = 0</b><span>colisão perfeitamente inelástica: seguem juntos</span></div></div>\n<p>A quantidade de movimento (também chamada <b>momento linear</b>) e o impulso fecham o edital de Física da PRF (itens 8 e 9: \"quantidade de movimento e conservação da quantidade de movimento, impulso\" e \"colisões\"). São os conceitos que explicam <b>por que o air bag e o cinto salvam vidas</b> (aumentam o tempo de parada e reduzem a força), <b>como a perícia reconstrói a velocidade dos veículos</b> a partir do que acontece depois de uma colisão e por que, numa batida entre um carro e um caminhão, os ocupantes do carro sofrem muito mais. As questões cobram o cálculo de Q e de impulso, o teorema do impulso, a conservação em colisões e explosões, os tipos de colisão e o que se conserva em cada um.</p>\n<h3>1. Quantidade de movimento</h3>\n<ul><li><b>Q = m·v</b>: produto da massa pela velocidade. É uma grandeza <b>vetorial</b>, com a <b>mesma direção e sentido da velocidade</b>. Unidade no SI: <b>kg·m/s</b>.</li><li><b>Diferença em relação à energia cinética</b>: Ec = m·v²/2 é <b>escalar</b> e sempre positiva; Q é <b>vetorial</b> e depende do sentido. Dois carros iguais em sentidos opostos, com a mesma velocidade, têm <b>quantidades de movimento opostas</b> (a soma é zero), mas <b>energias cinéticas que se somam</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Mudança</th><th>Efeito em Q</th><th>Efeito em Ec</th></tr></thead><tbody><tr><td>Massa dobra</td><td>dobra</td><td>dobra</td></tr><tr><td>Velocidade dobra</td><td><b>dobra</b></td><td><b>quadruplica</b></td></tr><tr><td>Sentido da velocidade se inverte</td><td><b>inverte</b></td><td>não muda</td></tr><tr><td>Velocidade cai à metade</td><td>cai à metade</td><td>cai a um quarto</td></tr></tbody></table>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Carro x caminhão</b><ol><li><span>Carro de 1.000 kg a 30 m/s e caminhão de 10.000 kg a 5 m/s</span></li><li><span>Q_carro = 30.000 kg·m/s</span></li><li><span>Q_caminhão = 50.000 kg·m/s</span></li><li><span>Ec_carro = 450 kJ; Ec_caminhão = 125 kJ</span></li></ol><span class=\"res\">O caminhão tem mais \"momento\"; o carro, mais energia</span></div>\n<ul><li><b>Variação da quantidade de movimento</b>: ΔQ = Q_final − Q_inicial, <b>vetorialmente</b>. Uma bola de 0,5 kg que chega a uma parede a 10 m/s e volta a 10 m/s tem ΔQ = 0,5·(−10) − 0,5·10 = <b>−10 kg·m/s</b> (módulo 10), e não zero: o sentido mudou.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A quantidade de movimento é uma grandeza escalar, como a energia cinética</span><br>✅ <span class=\"certo\">Q é <b>vetorial</b> (direção e sentido da velocidade)</span></li><li>❌ <span class=\"banca\">Se a velocidade de um corpo dobra, sua quantidade de movimento quadruplica</span><br>✅ <span class=\"certo\">Q ∝ v: <b>dobra</b> (a energia é que quadruplica)</span></li><li>❌ <span class=\"banca\">Uma bola que bate numa parede e volta com a mesma velocidade, em módulo, não sofre variação de quantidade de movimento</span><br>✅ <span class=\"certo\">como o <b>sentido</b> se inverte, ΔQ = 2·m·v (em módulo)</span></li></ol></div>\n<h3>2. Impulso e teorema do impulso</h3>\n<ul><li><b>Impulso de uma força constante</b>: <b>I = F·Δt</b> (vetorial, mesma direção e sentido da força). Unidade: <b>N·s</b> (equivalente a kg·m/s).</li><li><b>Gráfico força × tempo</b>: o impulso é a <b>área</b> sob a curva. Em colisões reais, a força varia muito (cresce e decresce em milésimos de segundo); usa-se a <b>força média</b>: F_média = I/Δt.</li><li><b>Teorema do impulso</b>: o impulso da força resultante é igual à variação da quantidade de movimento: <b>I_R = ΔQ</b>, ou <b>F_média·Δt = m·Δv</b>. É a 2ª lei de Newton escrita de outra forma (F = m·a = m·Δv/Δt).</li><li><b>A grande consequência para a segurança</b>: para uma mesma variação de quantidade de movimento (o ocupante precisa ir de v até zero), <b>aumentar o tempo Δt reduz a força média</b>. É exatamente o que fazem:</li></ul>\n<table class=\"tab\"><thead><tr><th>Dispositivo</th><th>Como aumenta o tempo de parada</th></tr></thead><tbody><tr><td><b>Cinto de segurança</b></td><td>prende o ocupante ao carro, que leva mais tempo para parar (deformação), e se estica levemente; limitadores de carga liberam um pouco de cinto em forças muito altas</td></tr><tr><td><b>Air bag</b></td><td>o ocupante afunda numa almofada que se esvazia de forma controlada</td></tr><tr><td><b>Zona de deformação programada</b></td><td>a frente (e a traseira) do carro amassam, prolongando o choque</td></tr><tr><td><b>Capacete</b></td><td>a espuma interna se comprime e prolonga a desaceleração da cabeça</td></tr><tr><td><b>Atenuadores e defensas</b></td><td>deformam-se por metros, prolongando a parada</td></tr><tr><td><b>Colchão e rede em quedas</b></td><td>prolongam a desaceleração do corpo</td></tr></tbody></table>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Air bag</b><ol><li><span>Ocupante de 70 kg a 15 m/s (54 km/h) é parado em 0,02 s contra o volante, ou em 0,15 s com cinto e air bag</span></li><li><span>ΔQ = 70·15 = 1.050 kg·m/s (igual nos dois casos)</span></li><li><span>Sem proteção: F = 1.050/0,02 = 52.500 N</span></li><li><span>Com proteção: F = 1.050/0,15 = 7.000 N</span></li></ol><span class=\"res\">Mesmo impulso; força 7,5 vezes menor com o tempo maior</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O air bag reduz a variação da quantidade de movimento do ocupante numa colisão</span><br>✅ <span class=\"certo\">a variação de Q (de v até zero) é a <b>mesma</b>; o air bag <b>aumenta o tempo</b> e reduz a <b>força média</b></span></li><li>❌ <span class=\"banca\">O impulso é medido em N/s</span><br>✅ <span class=\"certo\">o impulso é medido em <b>N·s</b> (força vezes tempo)</span></li><li>❌ <span class=\"banca\">No gráfico força × tempo, o impulso é a inclinação da curva</span><br>✅ <span class=\"certo\">o impulso é a <b>área</b> sob a curva</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Q</span></span><span class=\"vs\"><span>m·v, vetorial (kg·m/s)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade dobra</span></span><span class=\"vs\"><span>Q dobra; Ec quadruplica</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Impulso</span></span><span class=\"vs\"><span>F·Δt (N·s); área do gráfico F × t</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Teorema do impulso</span></span><span class=\"vs\"><span>F·Δt = ΔQ</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Air bag e cinto</span></span><span class=\"vs\"><span>Mais tempo, menos força</span></span></button></div></div>\n<h3>3. Resolvendo múltipla escolha</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 1: seguem juntos</b><p>\"Um carro de 800 kg a 25 m/s bate num carro de 1.200 kg parado e seguem juntos. A velocidade do conjunto é: (A) 25 m/s; (B) 12,5 m/s; (C) 10 m/s; (D) 16,7 m/s; (E) 5 m/s.\"</p><details><summary>Ver a solução comentada</summary><p>800·25 = 2.000·v → v = <b>10 m/s (C)</b>. (B) dividiu a velocidade por 2 (como se as massas fossem iguais); (D) dividiu pela massa do carro parado; (A) supôs que nada muda; (E) não confere.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 2: força média</b><p>\"Uma bola de 0,5 kg a 20 m/s é parada em 0,1 s. A força média é: (A) 1 N; (B) 10 N; (C) 100 N; (D) 1.000 N; (E) 200 N.\"</p><details><summary>Ver a solução comentada</summary><p>F = 0,5·20/0,1 = <b>100 N (C)</b>. (B) esqueceu de dividir pelo tempo (é o impulso, em N·s); (E) dobrou, como se houvesse rebote; (A) e (D), erros de potência.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 3: o que se conserva</b><p>\"Numa colisão perfeitamente inelástica entre dois carros, num intervalo de tempo curto: (A) conservam-se a quantidade de movimento e a energia cinética; (B) conserva-se apenas a energia cinética; (C) conserva-se apenas a quantidade de movimento; (D) nada se conserva; (E) conserva-se a velocidade de cada carro.\"</p><details><summary>Ver a solução comentada</summary><p><b>(C)</b>. Em toda colisão (sistema isolado), Q se conserva; a Ec só se conservaria se fosse elástica.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 4: air bag</b><p>\"O air bag protege o ocupante porque: (A) reduz a variação da quantidade de movimento do ocupante; (B) aumenta o tempo de interação, reduzindo a força média; (C) aumenta a massa do ocupante; (D) elimina o impulso sobre o ocupante; (E) devolve a energia cinética ao ocupante.\"</p><details><summary>Ver a solução comentada</summary><p><b>(B)</b>. A variação de Q (de v a zero) é a mesma; o tempo maior reduz a força. (D) e (A) contrariam o teorema do impulso; (E) seria perigoso (rebote).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 5: recuo</b><p>\"Um patinador de 60 kg, parado, arremessa uma bola de 3 kg a 10 m/s. Sua velocidade de recuo é: (A) 0,5 m/s; (B) 10 m/s; (C) 2 m/s; (D) 0,05 m/s; (E) 5 m/s.\"</p><details><summary>Ver a solução comentada</summary><p>0 = 3·10 + 60·v → v = <b>−0,5 m/s (A)</b>: 0,5 m/s em sentido oposto. (B) supôs velocidades iguais; (D), erro de potência.</p></details></div>\n<h3>4. Situações de massa variável</h3>\n<ul><li><b>Foguetes</b>: a cada instante, o foguete expele massa (gases) para trás em alta velocidade; a força de propulsão é a taxa com que ele transfere quantidade de movimento aos gases: F = (massa expelida por segundo) × (velocidade dos gases em relação ao foguete). À medida que o combustível acaba, a massa do foguete diminui, e a mesma força produz aceleração maior.</li><li><b>Esteira que recebe carga</b>: uma esteira que recebe areia caindo verticalmente precisa de força horizontal para acelerar cada porção de areia até a velocidade da esteira, mesmo com velocidade constante: F = (massa por segundo) × v.</li><li><b>Caminhão-pipa jogando água</b>: a água expelida para trás \"empurra\" o caminhão para a frente (efeito pequeno, mas real), pela mesma lógica.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Esteira de carga</b><ol><li><span>Uma esteira a 2 m/s recebe 50 kg de areia por segundo, que cai verticalmente sobre ela</span></li><li><span>F = (Δm/Δt)·v = 50·2</span></li><li><span>F = 100 N</span></li></ol><span class=\"res\">O motor precisa fornecer 100 N extras só para acelerar a areia (e potência de 200 W)</span></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Seguem juntos</span></span><span class=\"vs\"><span>m₁v₁ = (m₁ + m₂)·v</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Impulso x força</span></span><span class=\"vs\"><span>N·s x N</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Inelástica</span></span><span class=\"vs\"><span>Só Q se conserva</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Recuo</span></span><span class=\"vs\"><span>m₁v₁ = −m₂v₂</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Foguete</span></span><span class=\"vs\"><span>Força = massa expelida por segundo × velocidade dos gases</span></span></button></div></div>\n<h3>5. A física por trás da evolução da segurança veicular</h3>\n<ul><li><b>Cinto de três pontos</b>: popularizado a partir do fim da década de 1950, prende o tórax e a pelve, distribuindo a força de frenagem do ocupante pelas regiões mais resistentes do corpo. É o dispositivo de segurança que mais salva vidas: transforma o choque do ocupante contra o interior (tempo curtíssimo) numa desaceleração junto com o carro (tempo maior).</li><li><b>Pré-tensionador</b>: no início da colisão, recolhe rapidamente a folga do cinto, para que o ocupante comece a desacelerar junto com o carro desde o primeiro instante (aproveitando todo o tempo de deformação da carroceria).</li><li><b>Limitador de carga</b>: quando a força no cinto passa de certo valor, libera um pouco de fita, de forma controlada, para que o pico de força sobre o tórax não seja excessivo (de novo, troca-se força por um pouco mais de tempo e deslocamento).</li><li><b>Air bag</b>: complementa o cinto, protegendo cabeça e tórax; infla em milésimos de segundo e se esvazia por orifícios enquanto o ocupante o comprime. Sem cinto, o ocupante pode atingir o air bag ainda em expansão e se ferir: por isso ele é um \"sistema suplementar\".</li><li><b>Deformação programada e célula de sobrevivência</b>: a frente e a traseira são projetadas para amassar de modo controlado (prolongando o choque), e o habitáculo é rígido (preservando o espaço dos ocupantes).</li><li><b>ABS e controle de estabilidade</b>: atuam antes da colisão, preservando a dirigibilidade e ajudando a evitar o choque.</li><li><b>No Brasil</b>, a legislação passou a exigir, de forma escalonada, que os automóveis novos saíssem de fábrica com <b>air bag frontal duplo</b> e <b>freios ABS</b>; desde 2014, essa exigência vale para todos os automóveis novos comercializados.</li></ul>\n<h3>6. Variação de velocidade e gravidade das lesões</h3>\n<ul><li>Em reconstrução e em pesquisa de acidentes, o <b>Δv</b> (variação de velocidade do veículo durante a colisão) é o principal indicador do risco de lesões: quanto maior o Δv e mais curto o tempo em que ocorre, maiores as acelerações sobre os ocupantes.</li><li>O Δv depende da <b>relação de massas</b> e das velocidades dos veículos, e <b>não</b> só da velocidade de quem bateu. Bater num veículo muito mais pesado, de frente, produz Δv maior que a própria velocidade.</li><li><b>Bater num obstáculo rígido x num deformável</b>: com a mesma velocidade inicial, o Δv é o mesmo (vai a zero), mas o <b>tempo</b> muda; o obstáculo deformável (barreira, defensas, outro carro com boa zona de deformação) reduz a aceleração.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O air bag substitui o cinto de segurança, podendo ser usado sem ele</span><br>✅ <span class=\"certo\">o air bag é <b>suplementar</b>; sem cinto, o ocupante pode atingi-lo em expansão e ser lançado para fora do alcance da proteção</span></li><li>❌ <span class=\"banca\">O limitador de carga do cinto aumenta o pico de força sobre o tórax</span><br>✅ <span class=\"certo\">ele libera fita de forma controlada justamente para <b>limitar</b> o pico de força</span></li><li>❌ <span class=\"banca\">A gravidade de uma colisão depende apenas da velocidade do veículo que bateu</span><br>✅ <span class=\"certo\">depende do <b>Δv</b>, que envolve as massas e as velocidades dos dois veículos</span></li></ol></div>\n<h3>7. Síntese do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>Fórmula</th><th>Observação</th></tr></thead><tbody><tr><td>Quantidade de movimento</td><td>Q = m·v</td><td>vetorial; kg·m/s</td></tr><tr><td>Impulso</td><td>I = F·Δt</td><td>vetorial; N·s; área do gráfico F × t</td></tr><tr><td>Teorema do impulso</td><td>I_R = ΔQ</td><td>mais tempo → menos força</td></tr><tr><td>Conservação</td><td>Q_antes = Q_depois</td><td>sistema isolado (colisões, explosões)</td></tr><tr><td>Explosão do repouso</td><td>m₁v₁ = m₂v₂</td><td>sentidos opostos</td></tr><tr><td>Coeficiente de restituição</td><td>e = v_afast/v_aprox</td><td>1 elástica; 0 perfeitamente inelástica</td></tr><tr><td>Ec e Q</td><td>Ec = Q²/(2m)</td><td>mesmo Q: mais leve tem mais Ec</td></tr><tr><td>Centro de massa</td><td>Q_total = M·v_CM</td><td>sistema isolado: v_CM constante</td></tr></tbody></table>\n<table class=\"tab\"><thead><tr><th>Colisão</th><th>Q</th><th>Ec</th><th>e</th><th>Depois</th></tr></thead><tbody><tr><td>Elástica</td><td>conserva</td><td>conserva</td><td>1</td><td>separam-se</td></tr><tr><td>Parcialmente elástica</td><td>conserva</td><td>diminui</td><td>entre 0 e 1</td><td>separam-se</td></tr><tr><td>Perfeitamente inelástica</td><td>conserva</td><td>maior perda</td><td>0</td><td>seguem juntos</td></tr></tbody></table>\n<h3>8. Mapa do raciocínio</h3>\n<div class=\"lt-fluxo\"><span>A questão fala em força e tempo de contato?</span> <em>→</em> <span>Teorema do impulso: F·Δt = m·Δv</span> <em>→</em> <span>Fala em colisão, explosão, recuo ou engate?</span> <em>→</em> <span>Sistema isolado: Q antes = Q depois (com sinais; em 2D, por eixo)</span> <em>→</em> <span>Pede energia?</span> <em>→</em> <span>Calcule Ec antes e depois separadamente (só iguale se for elástica)</span> <em>→</em> <span>Pede tipo de colisão?</span> <em>→</em> <span>Calcule e ou verifique se seguem juntos</span></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pré-tensionador</span></span><span class=\"vs\"><span>Elimina a folga do cinto no início do choque</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Limitador de carga</span></span><span class=\"vs\"><span>Limita o pico de força</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Air bag</span></span><span class=\"vs\"><span>Suplementar ao cinto</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Δv</span></span><span class=\"vs\"><span>Principal indicador de lesão</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Elástica / inelástica</span></span><span class=\"vs\"><span>Ec conserva / não conserva; Q sempre</span></span></button></div></div>\n<h3>9. Perguntas conceituais em forma de diálogo</h3>\n<ul><li><b>\"Se a quantidade de movimento se conserva, por que os carros param depois da batida?\"</b> Porque a conservação vale para o <b>instante do choque</b>, quando as forças internas dominam. Depois, o atrito com a pista (força externa) vai retirando quantidade de movimento até o conjunto parar.</li><li><b>\"Por que o carro mais leve é o mais prejudicado se as forças são iguais?\"</b> Porque a mesma força (e o mesmo impulso) produz variação de velocidade maior na massa menor: Δv = I/m.</li><li><b>\"Bater de frente com outro carro igual, na mesma velocidade, é como bater num muro com o dobro da velocidade?\"</b> Não. Por simetria, os dois param no ponto de contato; para cada um, é como bater num muro rígido na <b>própria</b> velocidade.</li><li><b>\"O air bag 'absorve' a quantidade de movimento?\"</b> Não: o ocupante perde toda a sua quantidade de movimento de qualquer jeito. O air bag faz isso <b>mais devagar</b>, reduzindo a força.</li><li><b>\"Por que se usa a conservação da quantidade de movimento, e não da energia, na perícia?\"</b> Porque a energia cinética não se conserva em colisões de veículos (grande parte vira deformação e calor), mas a quantidade de movimento sim, no instante do choque.</li><li><b>\"Por que o foguete funciona no espaço, sem ar?\"</b> Porque ele empurra os próprios gases; o \"apoio\" é a massa expelida, não o ar.</li><li><b>\"Como a pessoa no barco consegue mover o barco sem tocar a água?\"</b> Empurrando o barco com os pés ao caminhar: o barco recebe impulso oposto ao dela. O centro de massa do conjunto fica parado.</li></ul>\n<h3>10. Glossário do tópico</h3>\n<ul><li><b>Quantidade de movimento (momento linear)</b>: Q = m·v, vetorial.</li><li><b>Impulso</b>: F·Δt; igual à variação de Q.</li><li><b>Sistema isolado</b>: forças externas nulas ou desprezíveis no intervalo considerado.</li><li><b>Colisão elástica</b>: conserva Q e Ec; e = 1.</li><li><b>Colisão parcialmente elástica</b>: conserva Q; perde parte da Ec; 0 < e < 1.</li><li><b>Colisão perfeitamente inelástica</b>: conserva Q; os corpos seguem juntos; e = 0; perda máxima de Ec.</li><li><b>Coeficiente de restituição (e)</b>: velocidade relativa de afastamento ÷ velocidade relativa de aproximação.</li><li><b>Centro de massa</b>: ponto que representa o movimento do conjunto; num sistema isolado, move-se com velocidade constante.</li><li><b>Δv</b>: variação de velocidade de um veículo na colisão; indicador da gravidade.</li></ul>\n<h3>11. Três frases para a prova</h3>\n<ul><li>\"<b>Na colisão, a quantidade de movimento sempre se conserva; a energia, só se for elástica.</b>\"</li><li>\"<b>Impulso é força vezes tempo: mais tempo, menos força.</b>\" É a física do cinto, do air bag, do capacete e das deformações.</li><li>\"<b>Massas diferentes, mesmo impulso: o mais leve sofre o maior Δv.</b>\"</li><li>Com essas três frases e a disciplina de colocar sinais nas velocidades, os itens de quantidade de movimento ficam rápidos e seguros.</li></ul>\n<h3>12. Fechamento da Física da PRF</h3>\n<ul><li>Os sete tópicos desta matéria formam uma sequência: a <b>cinemática</b> descreve o movimento; o <b>movimento circular</b> trata das curvas e rotações; a <b>dinâmica</b> explica as forças; <b>trabalho e potência</b> medem a energia transferida e a rapidez da transferência; a <b>energia</b> mostra o que se conserva e o que se dissipa; a <b>quantidade de movimento</b> resolve as colisões; e <b>ondas e óptica</b> explicam radares, sirenes, espelhos e a visão do condutor.</li><li>Em praticamente todos os itens de prova, três perguntas resolvem: <b>quais grandezas estão envolvidas (com unidades no SI)?</b>, <b>que lei física liga essas grandezas?</b> e <b>o que se conserva na situação?</b></li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Depois do choque</span></span><span class=\"vs\"><span>Atrito externo reduz Q até zero</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dois carros iguais de frente</span></span><span class=\"vs\"><span>Como bater num muro na própria velocidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perícia</span></span><span class=\"vs\"><span>Conservação de Q, não de Ec</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Foguete</span></span><span class=\"vs\"><span>Empurra os gases</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Três perguntas</span></span><span class=\"vs\"><span>Grandezas, lei, conservação</span></span></button></div></div>\n<h3>13. Gráficos força × tempo: mesma área, efeitos diferentes</h3>\n<ul><li>Em ensaios de colisão, registra-se a força (ou a aceleração) ao longo do tempo. A <b>área</b> sob a curva F × t é o <b>impulso</b>, igual à variação da quantidade de movimento.</li><li><b>Mesma área, formatos diferentes</b>: um pico <b>alto e estreito</b> (impacto rígido, curto) e uma curva <b>baixa e larga</b> (impacto amortecido, longo) podem ter a <b>mesma área</b>, ou seja, a mesma variação de Q. O que muda é o <b>valor máximo da força</b>, que é o que causa lesões.</li><li><b>Objetivo da engenharia de segurança</b>: transformar picos estreitos em curvas largas e \"achatadas\": força quase constante, no limite que o corpo tolera, pelo maior tempo possível.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Dois pulsos com a mesma área</b><ol><li><span>Pulso A: força constante de 50.000 N por 0,02 s. Pulso B: força constante de 10.000 N por 0,1 s</span></li><li><span>Impulso A: 50.000·0,02 = 1.000 N·s</span></li><li><span>Impulso B: 10.000·0,1 = 1.000 N·s</span></li></ol><span class=\"res\">Mesmo impulso (mesma ΔQ); B aplica força cinco vezes menor</span></div>\n<ul><li><b>Pulso triangular</b>: se a força sobe linearmente até F_máx e volta a zero num tempo total Δt, o impulso é F_máx·Δt/2, e a força média é metade da máxima.</li></ul>\n<h3>14. Luvas, capacetes e o esporte</h3>\n<ul><li><b>Luvas de boxe</b>: aumentam o tempo de contato e a área do golpe, reduzindo a força máxima e a pressão sobre o adversário (e sobre a mão de quem golpeia).</li><li><b>Capacetes de motociclista e de ciclista</b>: a casca rígida distribui a força por uma área maior; a espuma de poliestireno expandido se esmaga, prolongando a desaceleração da cabeça. Depois de um impacto forte, a espuma não se recupera: o capacete deve ser <b>substituído</b>.</li><li><b>Saltos e quedas</b>: atletas e paraquedistas aprendem a \"rolar\" para prolongar o tempo e espalhar o impulso por várias partes do corpo.</li><li><b>Futebol</b>: o goleiro que \"recua\" as mãos ao segurar a bola aumenta o tempo de contato e reduz a força; o atacante que \"acompanha\" o chute aumenta o tempo de contato e o impulso dado à bola.</li></ul>\n<h3>15. Pêndulo balístico: medindo velocidades altas</h3>\n<ul><li>É um método clássico de laboratório para medir velocidades difíceis de medir diretamente. Um corpo pequeno e rápido atinge um bloco pesado pendurado e fica nele (colisão perfeitamente inelástica). O conjunto sobe até certa altura h.</li><li><b>Duas etapas, duas leis</b>: (1) no <b>choque</b>, conserva-se a <b>quantidade de movimento</b>: m·v = (m + M)·V; (2) na <b>subida</b>, conserva-se a <b>energia mecânica</b> do conjunto: (m + M)·V²/2 = (m + M)·g·h → V = √(2gh).</li><li><b>Atenção</b>: não se pode usar a conservação da energia <b>no choque</b> (ela não se conserva numa colisão inelástica); por isso o método separa as etapas.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Pêndulo balístico</b><ol><li><span>Corpo de 0,02 kg atinge bloco de 3,98 kg; o conjunto sobe 0,05 m (g = 10 m/s²)</span></li><li><span>Subida: V = √(2·10·0,05) = 1 m/s</span></li><li><span>Choque: 0,02·v = 4·1 → v = 200 m/s</span></li></ol><span class=\"res\">Velocidade do corpo antes do choque: 200 m/s</span></div>\n<ul><li><b>Lição geral</b>: em problemas com <b>choque + movimento posterior</b>, use <b>quantidade de movimento no choque</b> e <b>energia (ou cinemática) no movimento antes ou depois</b>. É exatamente a lógica da perícia: arrastamento (energia) + choque (quantidade de movimento).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No pêndulo balístico, pode-se igualar a energia cinética do corpo antes do choque à energia potencial do conjunto no ponto mais alto</span><br>✅ <span class=\"certo\">no <b>choque</b> a energia <b>não</b> se conserva; usa-se a <b>quantidade de movimento</b> no choque e a energia só na subida</span></li><li>❌ <span class=\"banca\">Dois impactos com o mesmo impulso produzem, necessariamente, a mesma força máxima</span><br>✅ <span class=\"certo\">o mesmo impulso pode corresponder a forças máximas <b>muito diferentes</b>, conforme o <b>tempo</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mesma área no F × t</span></span><span class=\"vs\"><span>Mesmo ΔQ; força máxima depende do tempo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pulso triangular</span></span><span class=\"vs\"><span>I = F_máx·Δt/2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Capacete após impacto</span></span><span class=\"vs\"><span>Substituir</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pêndulo balístico</span></span><span class=\"vs\"><span>Q no choque; energia na subida</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Choque + movimento</span></span><span class=\"vs\"><span>Duas leis, duas etapas</span></span></button></div></div>\n<h3>16. Fragmentação em duas dimensões e trajetória do centro de massa</h3>\n<ul><li>Quando um corpo em repouso se fragmenta em <b>três</b> pedaços, a quantidade de movimento total continua nula: os três vetores Q₁, Q₂ e Q₃, colocados \"ponta com cauda\", formam um <b>triângulo fechado</b>. Se dois fragmentos saem perpendiculares entre si, o terceiro sai com quantidade de movimento de módulo √(Q₁² + Q₂²), no sentido oposto à soma dos dois.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Três fragmentos</b><ol><li><span>Um objeto de 5 kg, em repouso, se parte em três: 1 kg a 6 m/s para o leste, 2 kg a 4 m/s para o norte; qual a velocidade do terceiro (2 kg)?</span></li><li><span>Q₁ = 6 (leste); Q₂ = 8 (norte)</span></li><li><span>Q₃ deve anular a soma: módulo √(36 + 64) = 10 kg·m/s, para sudoeste</span></li><li><span>v₃ = 10/2 = 5 m/s</span></li></ol><span class=\"res\">5 m/s, na direção oposta à resultante dos outros dois</span></div>\n<ul><li><b>Corpo que se fragmenta em movimento</b>: se um corpo se move com velocidade v antes de se partir, a quantidade de movimento total (M·v) se mantém depois; o centro de massa dos fragmentos segue com a mesma velocidade v (ou, no ar, a mesma parábola).</li></ul>\n<h3>17. Quantidade de movimento e o trânsito: uma visão de conjunto</h3>\n<ul><li><b>Na prevenção</b>: o que reduz a gravidade de um choque é reduzir a <b>velocidade</b> (menos Q e muito menos Ec a perder) e aumentar o <b>tempo</b> de desaceleração dos corpos (cinto, air bag, deformação, defensas).</li><li><b>Na perícia</b>: a conservação da quantidade de movimento, combinada com a energia dissipada antes e depois do choque, permite estimar velocidades e direções dos veículos.</li><li><b>Na compreensão dos riscos</b>: em colisões entre veículos de massas muito diferentes, o mais leve sofre a maior variação de velocidade; ocupantes sem cinto e objetos soltos tornam-se \"corpos independentes\", que colidem com o interior do veículo ou entre si.</li><li><b>Na fiscalização</b>: transportar passageiros sem cinto, crianças sem dispositivo de retenção, cargas soltas ou mal amarradas significa deixar corpos \"livres\" que, numa frenagem ou colisão, seguirão com a quantidade de movimento que tinham.</li></ul>\n<h3>18. Teste final de coerência</h3>\n<ul><li>Ao terminar uma questão de colisão, confira:</li><li>A velocidade final do conjunto (quando seguem juntos) está <b>entre</b> as velocidades iniciais (considerando os sinais)? Se não estiver, há erro.</li><li>A energia cinética depois do choque é <b>menor ou igual</b> à de antes? Se der maior (sem explosão), há erro.</li><li>O veículo mais leve sofreu a maior variação de velocidade?</li><li>Em explosões a partir do repouso, as quantidades de movimento dos fragmentos se anulam?</li><li>Esses quatro testes eliminam a maioria das alternativas preparadas pela banca.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Depois de um choque perfeitamente inelástico, a velocidade comum pode ser maior que as velocidades dos dois corpos antes do choque</span><br>✅ <span class=\"certo\">a velocidade comum fica <b>entre</b> as velocidades iniciais (média ponderada pelas massas)</span></li><li>❌ <span class=\"banca\">Numa colisão sem explosões, a energia cinética total depois do choque pode ser maior que a de antes</span><br>✅ <span class=\"certo\">só se houver fonte de energia (explosão, mola comprimida); numa colisão comum, a Ec <b>não aumenta</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Três fragmentos do repouso</span></span><span class=\"vs\"><span>Vetores de Q formam triângulo fechado</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade comum</span></span><span class=\"vs\"><span>Média ponderada pelas massas</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ec depois de colisão comum</span></span><span class=\"vs\"><span>Nunca maior que antes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Prevenção</span></span><span class=\"vs\"><span>Menos velocidade, mais tempo de desaceleração</span></span></button></div></div>\n<ul><li><b>Por que a velocidade comum fica \"entre\" as iniciais?</b> Porque ela é a <b>média ponderada</b> das velocidades pelas massas: v = (m₁v₁ + m₂v₂)/(m₁ + m₂). Se um dos corpos for muito mais pesado, a velocidade final fica muito perto da dele; se as massas forem iguais e um estiver parado, fica exatamente na metade da velocidade do outro. Esse raciocínio permite <b>estimar</b> a resposta antes de fazer a conta e descartar alternativas absurdas em segundos.</li></ul>\n<h3>19. A linha do tempo de uma colisão frontal</h3>\n<ul><li>Uma colisão frontal típica, a cerca de 50 km/h contra um obstáculo, dura aproximadamente <b>um décimo de segundo</b>. Em ordem aproximada:</li><li><b>Primeiros milissegundos</b>: o para-choque toca o obstáculo; a estrutura dianteira começa a se deformar; os sensores detectam a desaceleração brusca.</li><li><b>Cerca de 10 a 20 ms</b>: o pré-tensionador recolhe a folga do cinto; a central decide disparar o air bag.</li><li><b>Cerca de 30 ms</b>: o air bag está inflado; o ocupante, preso pelo cinto, começa a desacelerar junto com o habitáculo.</li><li><b>Entre 50 e 80 ms</b>: o ocupante se apoia no air bag, que começa a se esvaziar pelos orifícios; o limitador de carga do cinto atua se a força passar do limite.</li><li><b>Por volta de 100 ms ou pouco mais</b>: o veículo atinge a deformação máxima e a velocidade relativa ao obstáculo se anula; o ocupante, amortecido, para junto.</li><li><b>Leitura física</b>: cada etapa existe para que a quantidade de movimento do ocupante seja retirada <b>ao longo de todo esse intervalo</b> (e não em poucos milissegundos, como numa batida contra o painel). É o teorema do impulso aplicado com engenharia.</li></ul>\n<h3>20. Dicas de memorização</h3>\n<ul><li><b>\"Q é com sentido; E é sem sentido\"</b>: a quantidade de movimento é vetorial (depende do sentido); a energia cinética é escalar.</li><li><b>\"Choque: momento sempre; energia, talvez\"</b>: em toda colisão, Q se conserva; a energia cinética, só nas elásticas.</li><li><b>\"Grudou, perdeu mais\"</b>: quando os corpos seguem juntos, a perda de energia cinética é máxima.</li><li><b>\"Tempo é amigo\"</b>: no teorema do impulso, aumentar o tempo de parada reduz a força.</li><li><b>\"Leve sofre mais\"</b>: com impulsos iguais, o corpo de menor massa sofre maior Δv.</li><li><b>\"Iguais e elásticos trocam\"</b>: dois corpos de mesma massa em choque elástico frontal trocam de velocidade.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Duração de colisão a 50 km/h</span></span><span class=\"vs\"><span>≈ 0,1 s</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Air bag inflado</span></span><span class=\"vs\"><span>≈ 30 ms</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Q x E</span></span><span class=\"vs\"><span>Vetorial x escalar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Grudou</span></span><span class=\"vs\"><span>Perda máxima de Ec</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Tempo é amigo</span></span><span class=\"vs\"><span>Mais Δt, menos F</span></span></button></div></div>\n<ul><li><b>Revisão em uma linha por conceito</b>: quantidade de movimento é \"massa em movimento com direção\"; impulso é \"força durante um tempo\"; o teorema do impulso diz que um é a variação do outro; a conservação vale quando o sistema está isolado; e as colisões se classificam pelo que acontece com a energia cinética (conservada, reduzida ou reduzida ao máximo, com os corpos unidos).</li><li>Antes de resolver as questões, refaça de cabeça: um carro de 1.000 kg a 20 m/s que bate num igual parado e seguem juntos (10 m/s; metade da energia perdida) e um ocupante de 70 kg a 15 m/s parado em 0,15 s (7.000 N). Se esses dois números saírem sem consulta, o tópico está dominado.</li></ul>\n<h3>21. Conservação da quantidade de movimento</h3>\n<ul><li><b>Sistema isolado</b>: aquele em que a <b>resultante das forças externas é nula</b> (ou desprezível durante o fenômeno). Nesse caso, a quantidade de movimento <b>total</b> se conserva: <b>Q_total antes = Q_total depois</b>.</li><li><b>Por que se conserva?</b> As forças <b>internas</b> (entre os corpos do sistema) aparecem aos pares de ação e reação (3ª lei): o impulso que A dá em B é igual e oposto ao que B dá em A. Assim, o que um corpo ganha de quantidade de movimento, o outro perde.</li><li><b>Colisões e explosões são aproximadamente isoladas</b>: durante os milésimos de segundo do choque, as forças internas (enormes) dominam as externas (atrito com a pista, por exemplo), de modo que se pode aplicar a conservação \"imediatamente antes\" e \"imediatamente depois\".</li><li><b>Escolha de sentido</b>: adote um sentido positivo e dê sinal negativo às velocidades no sentido oposto.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Carro bate na traseira de outro e seguem juntos</b><ol><li><span>Carro A (1.000 kg, 20 m/s) bate na traseira de B (1.500 kg, 10 m/s), no mesmo sentido; seguem engatados</span></li><li><span>Q antes: 1.000·20 + 1.500·10 = 35.000 kg·m/s</span></li><li><span>Q depois: 2.500·v</span></li><li><span>v = 35.000/2.500 = 14 m/s</span></li></ol><span class=\"res\">O conjunto segue a 14 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Colisão frontal e seguem juntos</b><ol><li><span>A (1.200 kg, +20 m/s) e B (800 kg, −25 m/s) batem de frente e seguem juntos</span></li><li><span>Q antes: 24.000 − 20.000 = 4.000 kg·m/s</span></li><li><span>v = 4.000/2.000 = +2 m/s</span></li></ol><span class=\"res\">O conjunto segue a 2 m/s no sentido em que A vinha</span></div>\n<h3>22. Explosões, recuos e propulsão</h3>\n<ul><li><b>Explosões e separações</b>: um sistema inicialmente em repouso tem Q = 0. Depois de se separar, as partes saem em <b>sentidos opostos</b>, com quantidades de movimento de <b>mesmo módulo</b>: m₁·v₁ = m₂·v₂. A parte de <b>menor massa</b> sai com <b>maior velocidade</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Pessoa que salta de um barco</b><ol><li><span>Pessoa de 60 kg salta horizontalmente de um barco de 240 kg, inicialmente parado, a 4 m/s</span></li><li><span>Q antes = 0 → 60·4 = 240·v</span></li><li><span>v = 1 m/s, no sentido oposto</span></li></ol><span class=\"res\">O barco recua a 1 m/s</span></div>\n<ul><li><b>Foguetes e aviões a jato</b>: expelem gases em alta velocidade para trás; os gases ganham quantidade de movimento para trás e o foguete ganha para a frente. Funciona no vácuo: não é preciso \"empurrar o ar\".</li><li><b>Patinadores que se empurram</b>: em repouso sobre o gelo, um patinador de 80 kg e outro de 40 kg se empurram; o de 40 kg sai com o dobro da velocidade do de 80 kg.</li><li><b>Hélices e helicópteros</b>: empurram ar para trás ou para baixo; a reação empurra a aeronave para a frente ou para cima.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Numa explosão de um corpo em repouso, a quantidade de movimento total dos fragmentos é maior que zero, pois eles ganham velocidade</span><br>✅ <span class=\"certo\">a quantidade de movimento <b>total</b> continua <b>zero</b>; os fragmentos saem com quantidades de movimento que se <b>anulam</b> vetorialmente</span></li><li>❌ <span class=\"banca\">O foguete não funciona no vácuo, pois não tem ar para empurrar</span><br>✅ <span class=\"certo\">o foguete funciona no vácuo: empurra os <b>gases expelidos</b>, que o empurram de volta (conservação da quantidade de movimento)</span></li><li>❌ <span class=\"banca\">Quando duas pessoas em repouso no gelo se empurram, a de maior massa sai com maior velocidade</span><br>✅ <span class=\"certo\">sai com <b>menor</b> velocidade (m₁v₁ = m₂v₂)</span></li></ol></div>\n<h3>23. Colisões: tipos e o que se conserva</h3>\n<ul><li>Em <b>toda</b> colisão (sistema isolado durante o choque), a <b>quantidade de movimento total se conserva</b>. A <b>energia cinética</b> total, porém, <b>pode diminuir</b>, convertida em deformação, calor e som.</li><li><b>Coeficiente de restituição (e)</b>: razão entre a velocidade relativa de <b>afastamento</b> depois do choque e a de <b>aproximação</b> antes: <b>e = v_afast/v_aprox</b>. Vai de 0 a 1.</li></ul>\n<table class=\"tab\"><thead><tr><th>Tipo de colisão</th><th>Coeficiente</th><th>Quantidade de movimento</th><th>Energia cinética</th><th>Depois do choque</th></tr></thead><tbody><tr><td><b>Elástica</b> (perfeitamente elástica)</td><td>e = 1</td><td>conserva</td><td><b>conserva</b></td><td>os corpos se afastam com a mesma velocidade relativa com que se aproximaram</td></tr><tr><td><b>Parcialmente elástica</b> (inelástica)</td><td>0 < e < 1</td><td>conserva</td><td><b>diminui</b> em parte</td><td>os corpos se separam, mais devagar</td></tr><tr><td><b>Perfeitamente inelástica</b></td><td>e = 0</td><td>conserva</td><td><b>maior perda possível</b></td><td>os corpos <b>seguem juntos</b> (mesma velocidade)</td></tr></tbody></table>\n<ul><li><b>Colisões de veículos</b> são, em geral, muito <b>inelásticas</b> (grande deformação, os veículos às vezes ficam \"engatados\"). Colisões entre bolas de bilhar se aproximam das elásticas.</li><li><b>Caso clássico da colisão elástica</b>: dois corpos de <b>massas iguais</b>, um parado e outro em movimento, colidindo frontalmente e elasticamente, <b>trocam de velocidade</b>: o que vinha para e o que estava parado sai com a velocidade do primeiro (como no pêndulo de Newton e no bilhar).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Energia perdida numa colisão inelástica</b><ol><li><span>No exemplo da traseira (A: 1.000 kg a 20 m/s; B: 1.500 kg a 10 m/s; seguem a 14 m/s)</span></li><li><span>Ec antes: 1.000·400/2 + 1.500·100/2 = 200.000 + 75.000 = 275.000 J</span></li><li><span>Ec depois: 2.500·196/2 = 245.000 J</span></li><li><span>Perda: 30.000 J</span></li></ol><span class=\"res\">Q se conservou; 30 kJ de Ec viraram deformação, calor e som</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em uma colisão perfeitamente inelástica, a energia cinética do sistema se conserva, pois os corpos seguem juntos</span><br>✅ <span class=\"certo\">o que se conserva é a <b>quantidade de movimento</b>; a Ec sofre a <b>maior perda</b> possível</span></li><li>❌ <span class=\"banca\">Em qualquer colisão, a energia cinética total do sistema se conserva</span><br>✅ <span class=\"certo\">só nas colisões <b>elásticas</b>; nas demais, parte vira deformação e calor</span></li><li>❌ <span class=\"banca\">Na colisão elástica frontal entre duas bolas de mesma massa, estando uma parada, ambas seguem juntas com metade da velocidade</span><br>✅ <span class=\"certo\">elas <b>trocam de velocidade</b>: a que vinha para e a outra sai com a velocidade da primeira</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sistema isolado</span></span><span class=\"vs\"><span>Q total se conserva</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Explosão a partir do repouso</span></span><span class=\"vs\"><span>m₁v₁ = m₂v₂, sentidos opostos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Toda colisão</span></span><span class=\"vs\"><span>Conserva Q</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Elástica</span></span><span class=\"vs\"><span>Conserva também a Ec (e = 1)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perfeitamente inelástica</span></span><span class=\"vs\"><span>Seguem juntos; maior perda de Ec (e = 0)</span></span></button></div></div>\n<h3>24. Colisões em duas dimensões: cruzamentos e perícia</h3>\n<ul><li>Quando os veículos colidem vindo de <b>direções diferentes</b> (por exemplo, num cruzamento em ângulo reto), a conservação vale <b>vetorialmente</b>: conserva-se a quantidade de movimento em <b>cada direção</b> (x e y) separadamente.</li><li><b>Cruzamento em ângulo reto, seguindo juntos</b>: se A vem para o leste com Q_A e B vem para o norte com Q_B, o conjunto sai com quantidade de movimento Q = √(Q_A² + Q_B²), numa direção intermediária (nordeste), inclinada para o lado de quem tinha mais quantidade de movimento.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Colisão em cruzamento</b><ol><li><span>Carro A (1.000 kg, 20 m/s, para o leste) e carro B (1.500 kg, 10 m/s, para o norte) colidem e seguem juntos</span></li><li><span>Q_x = 1.000·20 = 20.000; Q_y = 1.500·10 = 15.000</span></li><li><span>Q = √(20.000² + 15.000²) = 25.000 kg·m/s</span></li><li><span>v = 25.000/2.500 = 10 m/s, com tg α = 15.000/20.000 = 0,75 (≈ 37° ao norte do leste)</span></li></ol><span class=\"res\">Seguem juntos a 10 m/s, rumo a ≈ 37° ao norte do leste</span></div>\n<ul><li><b>Uso pericial (raciocínio inverso)</b>: a partir das <b>marcas pós-colisão</b> (direção e distância de arrastamento), o perito estima a velocidade e a direção do conjunto <b>depois</b> do choque (pela energia dissipada no arrastamento, v = √(2μgd)). Pela conservação da quantidade de movimento em cada eixo, calcula as velocidades de cada veículo <b>antes</b> do choque. É um dos métodos clássicos de reconstrução de acidentes.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Reconstrução pelo arrastamento</b><ol><li><span>Após uma colisão frontal-lateral, os dois carros (total de 2.000 kg) arrastaram-se juntos 12,5 m para o leste, com μ = 0,4. O carro B (1.200 kg) vinha para o norte e, por isso, não contribui para a componente leste</span></li><li><span>Velocidade do conjunto após o choque: v = √(2·0,4·10·12,5) = √100 = 10 m/s (para o leste)</span></li><li><span>Toda a quantidade de movimento para o leste veio do carro A (800 kg): 800·v_A = 2.000·10</span></li><li><span>v_A = 25 m/s</span></li></ol><span class=\"res\">O carro A vinha a 25 m/s (90 km/h); a componente norte serviria para estimar B</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em colisões oblíquas, a quantidade de movimento se conserva apenas em módulo, mas não em direção</span><br>✅ <span class=\"certo\">conserva-se <b>vetorialmente</b>: em cada direção separadamente</span></li><li>❌ <span class=\"banca\">Na reconstrução de acidentes, a conservação da quantidade de movimento é inútil, porque a energia cinética não se conserva nas colisões</span><br>✅ <span class=\"certo\">a quantidade de movimento <b>se conserva</b> mesmo em colisões inelásticas; por isso é ferramenta central da perícia</span></li></ol></div>\n<h3>25. Carro x caminhão: quem sofre mais?</h3>\n<ul><li>Pela 3ª lei, as <b>forças</b> trocadas têm a mesma intensidade, e os <b>impulsos</b> (F·Δt) recebidos têm o mesmo módulo: cada veículo sofre a <b>mesma variação de quantidade de movimento</b> (com sentidos opostos).</li><li>Mas <b>ΔQ = m·Δv</b>: com a mesma ΔQ, o veículo de <b>menor massa</b> sofre <b>variação de velocidade (Δv) muito maior</b>. O <b>Δv</b> é o principal indicador da gravidade das lesões dos ocupantes.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Δv numa colisão frontal</b><ol><li><span>Carro (1.000 kg, +20 m/s) e caminhão (9.000 kg, −20 m/s) batem de frente e seguem juntos</span></li><li><span>Q antes: 20.000 − 180.000 = −160.000 kg·m/s</span></li><li><span>v final = −160.000/10.000 = −16 m/s</span></li><li><span>Δv do carro: −16 − 20 = −36 m/s; Δv do caminhão: −16 − (−20) = +4 m/s</span></li></ol><span class=\"res\">O carro sofre Δv de 36 m/s (≈ 130 km/h!); o caminhão, só 4 m/s</span></div>\n<ul><li><b>Moral</b>: num choque frontal com um veículo muito mais pesado, o veículo leve é \"arrastado\" para trás: os ocupantes do carro sofrem uma variação de velocidade maior do que a velocidade com que vinham. Por isso ultrapassagens arriscadas em pista simples, com caminhões no sentido oposto, são tão letais.</li><li><b>Colisão de dois carros iguais, a mesma velocidade, de frente</b>: é equivalente, para cada carro, a bater numa <b>parede rígida</b> com aquela velocidade (os dois param; Δv = v para cada um). Não é \"o dobro\" do impacto, como muitos imaginam, mas também não é menos.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Numa colisão entre um carro e um caminhão, o caminhão sofre impulso maior, por ter maior massa</span><br>✅ <span class=\"certo\">os impulsos têm o <b>mesmo módulo</b> (3ª lei); a diferença está na <b>variação de velocidade</b>, muito maior no carro</span></li><li>❌ <span class=\"banca\">A colisão frontal de dois carros iguais, cada um a 60 km/h, equivale, para cada um, a bater numa parede a 120 km/h</span><br>✅ <span class=\"certo\">equivale a bater numa parede rígida a <b>60 km/h</b> (cada um para, com Δv = 60 km/h)</span></li></ol></div>\n<h3>26. Impulso, tempo e força em outras situações</h3>\n<ul><li><b>Dobrar os joelhos ao saltar</b>: ao aterrissar, flexionar as pernas aumenta o tempo de parada e reduz a força nas articulações.</li><li><b>Pegar uma bola recuando as mãos</b>: o goleiro \"acompanha\" a bola, aumentando o tempo de contato e reduzindo a força.</li><li><b>Martelo e prego</b>: o martelo rígido para em tempo muito curto, gerando força muito grande no prego (aqui se quer força grande).</li><li><b>Golpe de chicote e \"efeito chicote\" no pescoço</b>: em colisões traseiras, o encosto de cabeça mal regulado permite que a cabeça ganhe velocidade em relação ao tronco; o impulso sobre o pescoço gera lesões. O encosto deve ficar alto (na altura do topo da cabeça) e próximo.</li><li><b>Rede de proteção e colchão de salto</b>: aumentam o tempo (e a distância) de parada do corpo.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cruzamento</span></span><span class=\"vs\"><span>Conserva Q em x e em y</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perícia</span></span><span class=\"vs\"><span>Arrastamento dá v depois; conservação dá v antes</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Carro x caminhão</span></span><span class=\"vs\"><span>Mesmo impulso; Δv muito maior no carro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dois carros iguais de frente</span></span><span class=\"vs\"><span>Cada um como numa parede, na própria velocidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Dobrar os joelhos</span></span><span class=\"vs\"><span>Mais tempo, menos força</span></span></button></div></div>\n<h3>27. Treino guiado: exercícios resolvidos</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 1</b><ol><li><span>Q de uma moto de 200 kg a 25 m/s?</span></li><li><span>Q = m·v = 200·25</span></li></ol><span class=\"res\">5.000 kg·m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 2</b><ol><li><span>Velocidade de um carro de 1.250 kg com Q = 25.000 kg·m/s?</span></li><li><span>v = Q/m</span></li></ol><span class=\"res\">20 m/s (72 km/h)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 3</b><ol><li><span>Impulso de uma força de 500 N por 0,2 s?</span></li><li><span>I = F·Δt</span></li></ol><span class=\"res\">100 N·s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 4</b><ol><li><span>Força média para parar uma bola de 0,4 kg a 20 m/s em 0,05 s?</span></li><li><span>ΔQ = 0,4·20 = 8 kg·m/s</span></li><li><span>F = 8/0,05</span></li></ol><span class=\"res\">160 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 5</b><ol><li><span>Uma bola de 0,5 kg bate numa parede a 12 m/s e volta a 8 m/s, em 0,02 s. Força média?</span></li><li><span>ΔQ = 0,5·(−8) − 0,5·12 = −10 kg·m/s</span></li><li><span>F = 10/0,02</span></li></ol><span class=\"res\">500 N (o rebote aumenta o impulso)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 6</b><ol><li><span>Ocupante de 80 kg, a 20 m/s, freado pelo cinto em 0,1 s. Força média?</span></li><li><span>F = 80·20/0,1</span></li></ol><span class=\"res\">16.000 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 7</b><ol><li><span>O mesmo ocupante, freado em 0,4 s (cinto + air bag + deformação). Força?</span></li><li><span>F = 1.600/0,4</span></li></ol><span class=\"res\">4.000 N (quatro vezes menor)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 8</b><ol><li><span>Carro de 900 kg a 20 m/s bate na traseira de outro de 900 kg parado; seguem juntos. Velocidade?</span></li><li><span>900·20 = 1.800·v</span></li></ol><span class=\"res\">v = 10 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 9</b><ol><li><span>No exercício 8, quanto de Ec foi perdido?</span></li><li><span>Antes: 900·400/2 = 180.000 J</span></li><li><span>Depois: 1.800·100/2 = 90.000 J</span></li></ol><span class=\"res\">90 kJ (metade)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 10</b><ol><li><span>Colisão elástica frontal: bola de 0,2 kg a 3 m/s em outra igual parada. Velocidades depois?</span></li><li><span>Massas iguais, elástica: trocam de velocidade</span></li></ol><span class=\"res\">A primeira para; a segunda sai a 3 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 11</b><ol><li><span>Um canhão de brinquedo de 2 kg, em repouso, lança uma bolinha de 0,05 kg a 40 m/s. Velocidade de recuo?</span></li><li><span>0 = 0,05·40 + 2·v</span></li><li><span>v = −1 m/s</span></li></ol><span class=\"res\">Recua a 1 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 12</b><ol><li><span>Colisão: A (2 kg, 5 m/s) e B (3 kg, 0); depois, A fica a 1 m/s no mesmo sentido. Velocidade de B e coeficiente de restituição?</span></li><li><span>2·5 = 2·1 + 3·v_B → v_B = 8/3 ≈ 2,67 m/s</span></li><li><span>e = (2,67 − 1)/(5 − 0) ≈ 0,33</span></li></ol><span class=\"res\">v_B ≈ 2,67 m/s; e ≈ 0,33 (parcialmente elástica)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 13</b><ol><li><span>Gráfico F × t: força cresce linearmente de 0 a 2.000 N em 0,01 s e volta a 0 em mais 0,01 s. Impulso?</span></li><li><span>Área do triângulo: 0,02·2.000/2</span></li></ol><span class=\"res\">20 N·s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 14</b><ol><li><span>Dois carrinhos (1 kg e 3 kg) presos por mola comprimida, em repouso, são soltos; o de 1 kg sai a 6 m/s. E o outro?</span></li><li><span>0 = 1·6 + 3·v → v = −2 m/s</span></li></ol><span class=\"res\">2 m/s em sentido oposto</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 15</b><ol><li><span>Cruzamento: A (1.200 kg, 15 m/s, leste) e B (800 kg, 30 m/s, norte) seguem juntos. Velocidade final?</span></li><li><span>Qx = 18.000; Qy = 24.000 → Q = 30.000</span></li><li><span>v = 30.000/2.000</span></li></ol><span class=\"res\">15 m/s (para nordeste, mais ao norte)</span></div>\n<h3>28. Itens no estilo Cebraspe, comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a batida na traseira</b><p>Um automóvel de 1.200 kg, a 25 m/s, colide com a traseira de um carro de 800 kg parado no semáforo; após o choque, seguem engatados. Julgue: (1) imediatamente após o choque, o conjunto se move a 15 m/s; (2) a energia cinética se conservou na colisão; (3) a variação de velocidade sofrida pelo carro parado foi maior que a do automóvel que o atingiu.</p><details><summary>Ver a solução comentada</summary><p>(1) 1.200·25 = 2.000·v → v = <b>15 m/s</b>: <b>certo</b>. (2) Colisão perfeitamente inelástica: Ec antes 375 kJ, depois 225 kJ: <b>errado</b>. (3) Δv do parado: 15 m/s; do automóvel: 10 m/s (de 25 a 15): <b>certo</b> (o mais leve sofre o maior Δv).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: o air bag</b><p>Num teste, um boneco de 75 kg, a 16 m/s, é parado em 0,12 s pelo conjunto cinto e air bag; sem esses dispositivos, seria parado em 0,02 s pelo painel. Julgue: (1) a variação da quantidade de movimento do boneco é a mesma nos dois casos; (2) a força média com cinto e air bag é de 10.000 N; (3) sem os dispositivos, a força média seria seis vezes maior.</p><details><summary>Ver a solução comentada</summary><p>(1) De 16 m/s a zero, nos dois casos: <b>certo</b>. (2) F = 75·16/0,12 = 1.200/0,12 = <b>10.000 N</b>: <b>certo</b>. (3) Tempo seis vezes menor → força <b>seis vezes maior</b> (60.000 N): <b>certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: tipos de colisão</b><p>Julgue: (1) em toda colisão em que o sistema é isolado, a quantidade de movimento total se conserva; (2) em colisão perfeitamente elástica, os corpos permanecem unidos após o choque; (3) na colisão perfeitamente inelástica, a perda de energia cinética é a maior possível.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Certo</b>. (2) Unidos é a perfeitamente <b>inelástica</b>: <b>errado</b>. (3) <b>Certo</b>.</p></details></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rebote</span></span><span class=\"vs\"><span>Aumenta o impulso (ΔQ maior)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Exercício-padrão</span></span><span class=\"vs\"><span>Q antes = Q depois</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mola entre carrinhos</span></span><span class=\"vs\"><span>Q total zero antes e depois</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Teste de air bag</span></span><span class=\"vs\"><span>Mesmo ΔQ, tempo maior, força menor</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mais leve na colisão</span></span><span class=\"vs\"><span>Maior Δv</span></span></button></div></div>\n<h3>29. Centro de massa</h3>\n<ul><li><b>Centro de massa (CM)</b>: ponto que se move como se toda a massa do sistema estivesse concentrada nele e todas as forças externas atuassem ali. Para dois corpos numa reta: x_CM = (m₁·x₁ + m₂·x₂)/(m₁ + m₂). Fica mais perto do corpo de maior massa.</li><li><b>Quantidade de movimento total = massa total × velocidade do CM</b>: Q_total = M·v_CM. Logo, num <b>sistema isolado</b>, a velocidade do centro de massa é <b>constante</b>: as forças internas não conseguem mudar o movimento do CM.</li><li><b>Exemplo do barco</b>: uma pessoa caminha de uma ponta à outra de um barco parado em água calma. O barco se desloca no sentido contrário, de modo que o <b>centro de massa do conjunto</b> fica no mesmo lugar.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Pessoa andando no barco</b><ol><li><span>Pessoa de 80 kg caminha 4 m (em relação ao barco) num barco de 240 kg, parado e sem atrito com a água</span></li><li><span>O CM fica parado: 80·d_pessoa = 240·d_barco, com d_pessoa + d_barco = 4 m (em relação à água)</span></li><li><span>d_barco = 1 m; d_pessoa = 3 m</span></li></ol><span class=\"res\">O barco recua 1 m; a pessoa avança 3 m em relação à água</span></div>\n<ul><li><b>Explosões em pleno voo</b>: se um projétil se fragmenta no ar, o centro de massa dos fragmentos continua a mesma parábola que o projétil inteiro descreveria (até que algum fragmento toque o chão).</li><li><b>CM e veículos</b>: o <b>centro de gravidade</b> (praticamente o CM) influi na estabilidade. Quanto <b>mais baixo</b> e <b>mais centralizado</b>, menor o risco de tombamento e melhor a distribuição de carga nos eixos. Bagageiros de teto carregados elevam o CG.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Quando uma pessoa anda dentro de um barco parado, sem atrito com a água, o centro de massa do sistema pessoa-barco se desloca no sentido em que a pessoa anda</span><br>✅ <span class=\"certo\">num sistema isolado, o CM <b>não se move</b> (o barco recua)</span></li><li>❌ <span class=\"banca\">As forças internas de um sistema isolado podem alterar a velocidade de seu centro de massa</span><br>✅ <span class=\"certo\">só forças <b>externas</b> alteram o movimento do CM</span></li></ol></div>\n<h3>30. Relação entre energia cinética e quantidade de movimento</h3>\n<ul><li>Como Q = m·v e Ec = m·v²/2, segue que <b>Ec = Q²/(2m)</b>. Consequências:</li><li><b>Mesma quantidade de movimento</b>, massas diferentes: o corpo <b>mais leve</b> tem <b>mais energia cinética</b> (por exemplo, numa explosão a partir do repouso, os fragmentos têm Q de mesmo módulo, mas o mais leve leva a maior parte da energia).</li><li><b>Mesma energia cinética</b>, massas diferentes: o corpo <b>mais pesado</b> tem <b>mais quantidade de movimento</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Recuo do barco e energia</b><ol><li><span>Do exemplo do salto (pessoa de 60 kg a 4 m/s; barco de 240 kg a 1 m/s)</span></li><li><span>Q: 240 e 240 kg·m/s (iguais em módulo)</span></li><li><span>Ec da pessoa: 60·16/2 = 480 J</span></li><li><span>Ec do barco: 240·1/2 = 120 J</span></li></ol><span class=\"res\">Mesmo Q; o mais leve leva 4 vezes mais energia</span></div>\n<ul><li><b>Por que isso importa?</b> Explica por que, em recuos e explosões, o corpo leve é o \"perigoso\" (alta energia), e por que, em colisões, o que se conserva sempre é Q, enquanto a energia pode se redistribuir e se dissipar.</li></ul>\n<h3>31. Quedas, quiques e coeficiente de restituição</h3>\n<ul><li>Uma bola solta de altura h chega ao chão com v = √(2gh) e quica com v' = e·v. Sobe, então, até h' = v'²/(2g) = e²·h. Logo, <b>e = √(h'/h)</b>: medir a altura do quique permite calcular o coeficiente de restituição.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Bola que quica</b><ol><li><span>Solta de 1,25 m, quica até 0,8 m</span></li><li><span>e = √(0,8/1,25) = √0,64</span></li><li><span>e = 0,8</span></li></ol><span class=\"res\">Coeficiente de 0,8; perdeu 36% da energia (1 − e²)</span></div>\n<ul><li><b>Bolas, pneus e para-choques</b>: materiais com e próximo de 1 devolvem quase toda a energia (bolas de borracha maciça); materiais com e baixo absorvem a energia (espumas de capacete, barreiras de impacto, carrocerias). Em segurança, quer-se <b>e baixo</b> (absorção) com <b>tempo de parada longo</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Numa bola que quica, o coeficiente de restituição é a razão entre a altura atingida após o quique e a altura inicial</span><br>✅ <span class=\"certo\">é a <b>raiz quadrada</b> dessa razão (e = √(h'/h))</span></li><li>❌ <span class=\"banca\">Para proteger os ocupantes, a carroceria de um veículo deve ter coeficiente de restituição próximo de 1</span><br>✅ <span class=\"certo\">deve <b>absorver</b> energia (e baixo), deformando-se de forma controlada</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Centro de massa (sistema isolado)</span></span><span class=\"vs\"><span>Velocidade constante</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Pessoa no barco</span></span><span class=\"vs\"><span>Barco recua; CM fica</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ec = Q²/2m</span></span><span class=\"vs\"><span>Mesmo Q: o mais leve tem mais Ec</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quique</span></span><span class=\"vs\"><span>e = √(h'/h)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Segurança</span></span><span class=\"vs\"><span>Absorver energia (e baixo) e prolongar o tempo</span></span></button></div></div>\n<h3>32. Ocupantes sem cinto, objetos e animais soltos</h3>\n<ul><li><b>Passageiro do banco traseiro sem cinto</b>: numa colisão frontal, ele continua em movimento (inércia) e atinge o encosto do banco da frente e o ocupante sentado ali. A força média depende do tempo de parada, que contra um corpo ou um encosto é muito curto.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 O passageiro de trás</b><ol><li><span>Passageiro de 80 kg sem cinto, a 15 m/s (54 km/h), para em 0,05 s ao bater no banco da frente</span></li><li><span>F = m·Δv/Δt = 80·15/0,05</span></li><li><span>F = 24.000 N</span></li></ol><span class=\"res\">Cerca de 30 vezes o próprio peso, aplicados sobre quem está à frente: por isso o cinto é obrigatório em todos os assentos</span></div>\n<ul><li><b>Objetos soltos</b>: uma bolsa, uma mochila ou um equipamento solto no interior viram projéteis. Uma mochila de 5 kg, a 15 m/s, parada em 0,02 s contra uma cabeça, aplica força média de 3.750 N.</li><li><b>Animais</b>: devem ser transportados com dispositivos de retenção; soltos, são lançados como os objetos e podem ferir os ocupantes e a si próprios.</li><li><b>Crianças no colo</b>: ninguém consegue segurar uma criança numa colisão. Uma criança de 15 kg a 50 km/h, parada em 0,1 s, exige força média de cerca de 2.100 N, equivalente a sustentar mais de 200 kg. Dispositivos de retenção adequados são exigidos pelo CTB e pelas resoluções do CONTRAN.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Um adulto consegue segurar uma criança no colo durante uma colisão a 50 km/h, se estiver atento</span><br>✅ <span class=\"certo\">as forças chegam a <b>milhares de newtons</b>, muito acima do que os braços suportam</span></li><li>❌ <span class=\"banca\">O passageiro do banco traseiro sem cinto oferece risco apenas para si mesmo</span><br>✅ <span class=\"certo\">ele pode atingir os ocupantes da frente com forças de <b>dezenas de vezes</b> o próprio peso</span></li></ol></div>\n<h3>33. A forma original da 2ª lei de Newton</h3>\n<ul><li>Newton enunciou sua segunda lei em termos de quantidade de movimento: a <b>taxa de variação da quantidade de movimento é igual à força resultante</b>: <b>F = ΔQ/Δt</b>. Para massa constante, ΔQ/Δt = m·Δv/Δt = m·a, recuperando F = m·a.</li><li><b>Vantagem dessa forma</b>: vale também para sistemas de <b>massa variável</b>, como foguetes que queimam combustível e esteiras que recebem material.</li><li><b>Leitura de segurança</b>: a força é a \"rapidez\" com que a quantidade de movimento muda. Mudar rapidamente (parada brusca) exige força grande; mudar devagar (parada amortecida), força pequena.</li><li><b>Histórico</b>: Descartes já falava em uma \"quantidade de movimento\" que se conservaria no universo (mas a tratava como escalar). Huygens e Wallis estudaram as colisões no século XVII e perceberam que a conservação funciona quando se leva em conta o <b>sentido</b> (caráter vetorial). Newton integrou essas ideias às suas leis.</li></ul>\n<h3>34. Impulso em esportes e operações</h3>\n<ul><li><b>Chute e raquetada</b>: o impulso transferido à bola depende da força e do <b>tempo de contato</b>. Acompanhar o movimento (\"follow-through\") prolonga o contato e aumenta o impulso, e a bola sai mais rápida.</li><li><b>Aterrissagem de paraquedista</b>: o rolamento ao tocar o solo prolonga o tempo de desaceleração e distribui o impacto por mais partes do corpo.</li><li><b>Arrombamento com aríete</b>: busca-se o efeito oposto: um corpo pesado que para em <b>tempo muito curto</b> contra a porta gera força média muito grande sobre ela.</li><li><b>Tiro e recuo</b> (como exemplo de conservação): a arma recua com quantidade de movimento igual e oposta à do projétil e dos gases; a coronha apoiada no ombro aumenta a massa efetiva (a do atirador) e o tempo de transferência, reduzindo a velocidade e o impacto do recuo.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Aríete</b><ol><li><span>Aríete de 15 kg a 6 m/s para contra a porta em 0,01 s</span></li><li><span>ΔQ = 15·6 = 90 kg·m/s</span></li><li><span>F = 90/0,01 = 9.000 N</span></li></ol><span class=\"res\">9 kN de força média: aqui se quer tempo curto e força grande</span></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Passageiro sem cinto atrás</span></span><span class=\"vs\"><span>Forças de dezenas de vezes o peso sobre quem está à frente</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Criança no colo</span></span><span class=\"vs\"><span>Impossível segurar</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>F = ΔQ/Δt</span></span><span class=\"vs\"><span>Forma original da 2ª lei</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Follow-through</span></span><span class=\"vs\"><span>Mais tempo de contato, mais impulso</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Aríete</span></span><span class=\"vs\"><span>Tempo curto, força grande</span></span></button></div></div>\n<h3>35. Mais itens no estilo Cebraspe</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: o cruzamento</b><p>Num cruzamento, um carro de 1.000 kg, vindo do sul para o norte a 15 m/s, colide com uma caminhonete de 2.000 kg, vinda do oeste para o leste a 10 m/s; os veículos seguem engatados. Julgue: (1) a quantidade de movimento total antes do choque tem módulo de 25.000 kg·m/s; (2) logo após o choque, o conjunto se move a cerca de 8,3 m/s; (3) o conjunto segue exatamente para o nordeste (45°).</p><details><summary>Ver a solução comentada</summary><p>Q_norte = 15.000; Q_leste = 20.000 → Q = √(15.000² + 20.000²) = <b>25.000 kg·m/s</b>: (1) <b>certo</b>. v = 25.000/3.000 ≈ <b>8,3 m/s</b>: (2) <b>certo</b>. tg α = 15.000/20.000 = 0,75 → ≈ 37° ao norte do leste, <b>não</b> 45°: (3) <b>errado</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: o barco de patrulha</b><p>Um agente de 90 kg salta horizontalmente de um bote de 360 kg, parado na água, com velocidade de 4 m/s em relação à água (despreze o atrito com a água). Julgue: (1) o bote recua a 1 m/s; (2) a quantidade de movimento total do sistema após o salto é nula; (3) a energia cinética do bote é igual à do agente.</p><details><summary>Ver a solução comentada</summary><p>(1) 90·4 = 360·v → v = <b>1 m/s</b>: <b>certo</b>. (2) Era zero antes e se conserva: <b>certo</b>. (3) Agente: 90·16/2 = 720 J; bote: 360·1/2 = 180 J: <b>errado</b> (o mais leve leva mais energia).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a bola de borracha</b><p>Uma bola de 0,2 kg é solta de 1,8 m e, após quicar, sobe até 0,45 m (g = 10 m/s²). Julgue: (1) a bola chega ao chão a 6 m/s; (2) o coeficiente de restituição é 0,25; (3) se o contato com o chão durou 0,01 s, a força média do chão sobre a bola foi de 180 N (desconsidere o peso).</p><details><summary>Ver a solução comentada</summary><p>(1) √(2·10·1,8) = <b>6 m/s</b>: <b>certo</b>. (2) e = √(0,45/1,8) = √0,25 = <b>0,5</b>: <b>errado</b>. (3) Sobe com √(2·10·0,45) = 3 m/s; ΔQ = 0,2·(3 − (−6)) = 1,8 kg·m/s; F = 1,8/0,01 = <b>180 N</b>: <b>certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: segurança veicular</b><p>Julgue: (1) o air bag reduz a força média sobre o ocupante por aumentar o tempo de interação, mantida a variação da quantidade de movimento; (2) as zonas de deformação programada tornam o veículo mais perigoso, pois absorvem energia que deveria ser devolvida; (3) o encosto de cabeça reduz lesões cervicais em colisões traseiras.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Certo</b> (teorema do impulso). (2) <b>Errado</b>: absorver energia e prolongar o choque <b>protege</b> os ocupantes. (3) <b>Certo</b>.</p></details></div>\n<h3>36. Como a banca cobra este tópico</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>A Cebraspe cobra quantidade de movimento com itens de conservação (colisões unidimensionais e em cruzamentos, explosões, recuos), com o teorema do impulso aplicado à segurança (air bag, cinto, capacete, deformação) e com a classificação das colisões (o que se conserva em cada uma). Os erros preparados mais comuns: dizer que a energia cinética se conserva em toda colisão; tratar Q como escalar (somar módulos em sentidos opostos); afirmar que o air bag reduz a variação de Q; achar que o caminhão sofre \"mais impulso\".</p></div>\n<ul><li><b>Roteiro de resolução</b>:</li><li>Defina o sistema e verifique se é isolado durante o fenômeno.</li><li>Escolha o sentido positivo (e eixos x e y, se for bidimensional).</li><li>Escreva Q antes e Q depois, com sinais.</li><li>Iguale e resolva.</li><li>Se pedirem energia, calcule Ec antes e depois <b>separadamente</b> (não use conservação de Ec, exceto em colisões elásticas).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Cruzamento</span></span><span class=\"vs\"><span>Pitágoras nas componentes de Q</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Salto do bote</span></span><span class=\"vs\"><span>Bote recua com m·v igual</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Quique</span></span><span class=\"vs\"><span>e = √(h'/h); ΔQ inclui o rebote</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Air bag</span></span><span class=\"vs\"><span>Mesmo ΔQ, mais tempo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Erro típico</span></span><span class=\"vs\"><span>Somar Q em sentidos opostos</span></span></button></div></div>\n<h3>37. Casos práticos integrados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Engavetamento</b><p>Três carros iguais (1.000 kg cada) estão parados em fila. Um quarto carro igual, a 18 m/s, bate no último; todos seguem engatados (suponha choques perfeitamente inelásticos e sucessivos). Com que velocidade o conjunto final se move?</p><details><summary>Ver a solução comentada</summary><p>A quantidade de movimento inicial (18.000 kg·m/s) se distribui pelos quatro carros: 18.000 = 4.000·v → v = <b>4,5 m/s</b>. A energia cinética cai de 162 kJ para 40,5 kJ: <b>75%</b> viram deformação, calor e som, distribuídos pelos para-choques e pelos ocupantes, todos sujeitos a acelerações bruscas.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Moto contra carro parado</b><p>Uma moto (com piloto, 250 kg) a 20 m/s bate na lateral de um carro de 1.000 kg parado e o empurra; seguem juntos (despreze o atrito durante o choque). Qual o Δv do piloto e o do carro?</p><details><summary>Ver a solução comentada</summary><p>250·20 = 1.250·v → v = <b>4 m/s</b>. Δv da moto (e do piloto preso a ela): 20 − 4 = <b>16 m/s</b>; Δv do carro: <b>4 m/s</b>. Na prática, o piloto costuma se separar da moto e ser lançado, o que torna o choque ainda mais grave para ele.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Viatura empurra carro enguiçado</b><p>Uma viatura de 1.800 kg, a 2 m/s, encosta suavemente no para-choque de um carro enguiçado de 1.200 kg (em ponto morto) e o empurra; logo após o contato, seguem juntos. Qual a velocidade e a energia \"perdida\" no contato?</p><details><summary>Ver a solução comentada</summary><p>1.800·2 = 3.000·v → v = <b>1,2 m/s</b>. Ec antes: 3.600 J; depois: 3.000·1,44/2 = 2.160 J; perdeu <b>1.440 J</b> (40%), absorvidos pelos para-choques. Por isso o contato deve ser feito com velocidade mínima.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Recuperação de velocidade pelo arrastamento</b><p>Após uma colisão traseira, o conjunto (carro A de 1.000 kg + carro B de 1.500 kg, inicialmente parado) arrastou-se 20 m até parar, com μ = 0,4. Qual era a velocidade de A?</p><details><summary>Ver a solução comentada</summary><p>Pela energia do arrastamento: v_conjunto = √(2·0,4·10·20) = √160 ≈ <b>12,6 m/s</b>. Pela conservação: 1.000·v_A = 2.500·12,6 → v_A ≈ <b>31,6 m/s</b> (≈ 114 km/h). É uma estimativa mínima (desconsidera frenagem anterior).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Caminhão desgovernado e a barreira</b><p>Um caminhão de 30 t, a 15 m/s, colide com uma barreira de contenção que o para em 1,5 s. Qual a força média? Se a barreira fosse rígida e o parasse em 0,15 s?</p><details><summary>Ver a solução comentada</summary><p>ΔQ = 30.000·15 = 450.000 kg·m/s. Barreira deformável: F = 450.000/1,5 = <b>300.000 N</b>. Rígida: <b>3.000.000 N</b>, dez vezes mais, com destruição do veículo e da carga e risco extremo ao motorista.</p></details></div>\n<h3>38. Revisão relâmpago</h3>\n<ul><li><b>Q é escalar ou vetorial?</b> Vetorial: m·v.</li><li><b>Unidade de Q e de impulso?</b> kg·m/s e N·s (equivalentes).</li><li><b>Teorema do impulso?</b> I_R = ΔQ (F·Δt = m·Δv).</li><li><b>Como reduzir a força num impacto?</b> Aumentando o tempo de parada.</li><li><b>Quando Q se conserva?</b> Em sistemas isolados (forças externas nulas ou desprezíveis durante o fenômeno).</li><li><b>Em que colisões a Ec se conserva?</b> Só nas elásticas.</li><li><b>O que acontece na perfeitamente inelástica?</b> Os corpos seguem juntos e a perda de Ec é máxima.</li><li><b>Coeficiente de restituição?</b> Afastamento ÷ aproximação; 1 elástica, 0 perfeitamente inelástica.</li><li><b>Dois corpos iguais, choque elástico frontal, um parado?</b> Trocam de velocidade.</li><li><b>Explosão a partir do repouso?</b> Q total continua zero; m₁v₁ = m₂v₂.</li><li><b>Carro x caminhão?</b> Mesmo impulso; o carro sofre Δv muito maior.</li><li><b>Velocidade do CM num sistema isolado?</b> Constante.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Engavetamento</span></span><span class=\"vs\"><span>Q se distribui; Ec cai muito</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Moto x carro</span></span><span class=\"vs\"><span>Moto sofre o maior Δv</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Contato entre veículos</span></span><span class=\"vs\"><span>Velocidade mínima</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arrastamento + conservação</span></span><span class=\"vs\"><span>Velocidade antes do choque</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Barreira deformável</span></span><span class=\"vs\"><span>Força 10 vezes menor que a rígida (tempo 10 vezes maior)</span></span></button></div></div>\n<h3>39. Treino extra</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 1</b><ol><li><span>Q de um caminhão de 12 t a 54 km/h?</span></li><li><span>15 m/s</span></li><li><span>Q = 12.000·15</span></li></ol><span class=\"res\">180.000 kg·m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 2</b><ol><li><span>Que velocidade um carro de 1.500 kg precisa ter para igualar a Q desse caminhão?</span></li><li><span>v = 180.000/1.500</span></li></ol><span class=\"res\">120 m/s (432 km/h): impossível na prática</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 3</b><ol><li><span>Força média que para um carro de 1.000 kg a 25 m/s em 0,1 s?</span></li><li><span>ΔQ = 25.000</span></li><li><span>F = 25.000/0,1</span></li></ol><span class=\"res\">250.000 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 4</b><ol><li><span>E se o tempo for 0,5 s (deformação maior)?</span></li><li><span>F = 25.000/0,5</span></li></ol><span class=\"res\">50.000 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 5</b><ol><li><span>Uma bola de 0,15 kg chega a 30 m/s e sai a 30 m/s no sentido oposto, após 0,002 s de contato. Força média?</span></li><li><span>ΔQ = 0,15·60 = 9</span></li><li><span>F = 9/0,002</span></li></ol><span class=\"res\">4.500 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 6</b><ol><li><span>Bloco de 4 kg a 6 m/s colide com outro de 2 kg parado; seguem juntos. Velocidade e perda de Ec?</span></li><li><span>24 = 6·v → v = 4 m/s</span></li><li><span>Ec antes: 72 J; depois: 48 J</span></li></ol><span class=\"res\">4 m/s; perdeu 24 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 7</b><ol><li><span>Vagão de 20 t a 3 m/s engata em outro de 10 t parado. Velocidade final?</span></li><li><span>60.000 = 30.000·v</span></li></ol><span class=\"res\">2 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 8</b><ol><li><span>Um corpo de 3 kg, em repouso, explode em dois pedaços de 1 kg e 2 kg; o de 1 kg sai a 10 m/s. E o outro?</span></li><li><span>0 = 1·10 + 2·v</span></li></ol><span class=\"res\">5 m/s, sentido oposto</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 9</b><ol><li><span>Força constante de 200 N durante 3 s sobre um corpo de 50 kg inicialmente parado. Velocidade final?</span></li><li><span>I = 600 N·s = 50·v</span></li></ol><span class=\"res\">12 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 10</b><ol><li><span>Bola solta de 2 m quica até 1,28 m. Coeficiente de restituição?</span></li><li><span>e = √(1,28/2) = √0,64</span></li></ol><span class=\"res\">0,8</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 11</b><ol><li><span>Colisão: A (2 kg, +4 m/s) e B (2 kg, −2 m/s) frontal e elástica. Velocidades depois?</span></li><li><span>Massas iguais, elástica: trocam de velocidade</span></li></ol><span class=\"res\">A: −2 m/s; B: +4 m/s</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 12</b><ol><li><span>Cruzamento: A (1.000 kg, 30 m/s, leste) e B (2.000 kg, 20 m/s, norte); seguem juntos. Velocidade final?</span></li><li><span>Qx = 30.000; Qy = 40.000 → Q = 50.000</span></li><li><span>v = 50.000/3.000</span></li></ol><span class=\"res\">≈ 16,7 m/s, inclinado ≈ 53° ao norte do leste</span></div>\n<h3>40. Erros de raciocínio mais comuns</h3>\n<ul><li><b>Somar módulos em sentidos opostos</b>: Q é vetorial; dê sinal negativo ao sentido oposto.</li><li><b>Usar conservação de energia cinética em colisões de veículos</b>: elas são inelásticas; use <b>conservação de Q</b>.</li><li><b>Achar que o air bag reduz o impulso</b>: o impulso (ΔQ) é o mesmo; o air bag aumenta o tempo e reduz a força.</li><li><b>Esquecer o rebote</b>: quando o corpo volta, a variação de Q é maior (soma as velocidades de ida e volta).</li><li><b>Esquecer que o mais leve sofre maior Δv</b>: forças e impulsos iguais, massas diferentes.</li><li><b>Confundir \"seguem juntos\" com \"colisão elástica\"</b>: seguir juntos é perfeitamente inelástica.</li><li><b>Aplicar a conservação sem que o sistema seja isolado</b>: durante a frenagem longa depois do choque, o atrito é força externa importante; a conservação vale <b>no instante do choque</b>.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Depois de uma colisão, enquanto os veículos se arrastam até parar, a quantidade de movimento do conjunto continua se conservando</span><br>✅ <span class=\"certo\">durante o arrastamento, o <b>atrito</b> (força externa) reduz a quantidade de movimento até zero; a conservação vale <b>no curto instante do choque</b></span></li><li>❌ <span class=\"banca\">Numa colisão frontal entre um carro de 1.000 kg a 20 m/s e outro igual a 20 m/s em sentido contrário, a quantidade de movimento total é de 40.000 kg·m/s</span><br>✅ <span class=\"certo\">os sentidos são opostos: o total é <b>zero</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rebote</span></span><span class=\"vs\"><span>ΔQ = m·(v_ida + v_volta)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Vagões engatados</span></span><span class=\"vs\"><span>Q se divide pela massa total</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Massas iguais, elástica</span></span><span class=\"vs\"><span>Trocam de velocidade</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Arrastamento</span></span><span class=\"vs\"><span>Atrito externo: Q não se conserva</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Sentidos opostos iguais</span></span><span class=\"vs\"><span>Q total zero</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Um veículo de 200 kg trafega a 126 km/h. O módulo de sua quantidade de movimento é",
+"alts": [
+"245.000 kg·m/s",
+"3.500 kg·m/s",
+"122.500 kg·m/s",
+"7.000 kg·m/s",
+"25.200 kg·m/s"
+],
+"r": 3,
+"n": [
+"Elevou a velocidade ao quadrado.",
+"Dividiu por 2 sem motivo.",
+"Calculou a energia cinética.",
+"Correta.",
+"Não converteu km/h para m/s."
+],
+"x": "Dados: m = 200 kg; v = 126 km/h >> Converta: 126 km/h = 35 m/s >> Fórmula: Q = m·v (vetorial, no sentido da velocidade) >> Conta: Q = 200·35 → Q = 7.000 kg·m/s >> Resultado: 7.000 kg·m/s",
+"e": "Q = m·v"
+},
+{
+"p": "Um veículo de 1.200 kg, a 90 km/h, tem quantidade de movimento de módulo 30.000 kg·m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.200 kg; v = 90 km/h >> Converta: 90 km/h = 25 m/s >> Fórmula: Q = m·v (vetorial, no sentido da velocidade) >> Conta: Q = 1.200·25 → Q = 30.000 kg·m/s >> Resultado: 30.000 kg·m/s",
+"e": "Q = m·v"
+},
+{
+"p": "Um veículo de 1.500 kg, a 54 km/h, tem quantidade de movimento de módulo 168.750 kg·m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.500 kg; v = 54 km/h >> Converta: 54 km/h = 15 m/s >> Fórmula: Q = m·v (vetorial, no sentido da velocidade) >> Conta: Q = 1.500·15 → Q = 22.500 kg·m/s >> Resultado: 22.500 kg·m/s",
+"e": "Q = m·v"
+},
+{
+"p": "Um veículo de 800 kg trafega a 126 km/h. O módulo de sua quantidade de movimento é",
+"alts": [
+"28.000 kg·m/s",
+"980.000 kg·m/s",
+"14.000 kg·m/s",
+"100.800 kg·m/s",
+"490.000 kg·m/s"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Elevou a velocidade ao quadrado.",
+"Dividiu por 2 sem motivo.",
+"Não converteu km/h para m/s.",
+"Calculou a energia cinética."
+],
+"x": "Dados: m = 800 kg; v = 126 km/h >> Converta: 126 km/h = 35 m/s >> Fórmula: Q = m·v (vetorial, no sentido da velocidade) >> Conta: Q = 800·35 → Q = 28.000 kg·m/s >> Resultado: 28.000 kg·m/s",
+"e": "Q = m·v"
+},
+{
+"p": "Um veículo de 1.000 kg, a 144 km/h, tem quantidade de movimento de módulo 40.000 kg·m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.000 kg; v = 144 km/h >> Converta: 144 km/h = 40 m/s >> Fórmula: Q = m·v (vetorial, no sentido da velocidade) >> Conta: Q = 1.000·40 → Q = 40.000 kg·m/s >> Resultado: 40.000 kg·m/s",
+"e": "Q = m·v"
+},
+{
+"p": "Um veículo de 200 kg, a 36 km/h, tem quantidade de movimento de módulo 2.000 kg·m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 200 kg; v = 36 km/h >> Converta: 36 km/h = 10 m/s >> Fórmula: Q = m·v (vetorial, no sentido da velocidade) >> Conta: Q = 200·10 → Q = 2.000 kg·m/s >> Resultado: 2.000 kg·m/s",
+"e": "Q = m·v"
+},
+{
+"p": "Um veículo de 200 kg trafega a 54 km/h. O módulo de sua quantidade de movimento é",
+"alts": [
+"1.500 kg·m/s",
+"45.000 kg·m/s",
+"22.500 kg·m/s",
+"10.800 kg·m/s",
+"3.000 kg·m/s"
+],
+"r": 4,
+"n": [
+"Dividiu por 2 sem motivo.",
+"Elevou a velocidade ao quadrado.",
+"Calculou a energia cinética.",
+"Não converteu km/h para m/s.",
+"Correta."
+],
+"x": "Dados: m = 200 kg; v = 54 km/h >> Converta: 54 km/h = 15 m/s >> Fórmula: Q = m·v (vetorial, no sentido da velocidade) >> Conta: Q = 200·15 → Q = 3.000 kg·m/s >> Resultado: 3.000 kg·m/s",
+"e": "Q = m·v"
+},
+{
+"p": "Se a velocidade dobrar, a quantidade de movimento de um corpo dobrará.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Q = m·v >> Ideia: Q é proporcional à massa e à velocidade (não ao quadrado) e tem o sentido da velocidade >> Resultado: dobrará",
+"e": "Proporções de Q"
+},
+{
+"p": "Se a massa triplicar, mantida a velocidade, a quantidade de movimento de um corpo ficará nove vezes maior.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Q = m·v >> Ideia: Q é proporcional à massa e à velocidade (não ao quadrado) e tem o sentido da velocidade >> Resultado: triplicará",
+"e": "Proporções de Q"
+},
+{
+"p": "Se o sentido da velocidade se inverter, mantido o módulo, a quantidade de movimento de um corpo permanecerá inalterada.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Q = m·v >> Ideia: Q é proporcional à massa e à velocidade (não ao quadrado) e tem o sentido da velocidade >> Resultado: terá o sentido invertido",
+"e": "Proporções de Q"
+},
+{
+"p": "Se a velocidade cair à metade, a quantidade de movimento de um corpo cairá à metade.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Q = m·v >> Ideia: Q é proporcional à massa e à velocidade (não ao quadrado) e tem o sentido da velocidade >> Resultado: cairá à metade",
+"e": "Proporções de Q"
+},
+{
+"p": "Uma força constante de 500 N, atuando durante 2 s, aplica impulso de 250 N·s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 500 N; Δt = 2 s >> Fórmula: I = F·Δt >> Conta: I = 500·2 → I = 1.000 N·s >> Resultado: 1.000 N·s",
+"e": "I = F·Δt"
+},
+{
+"p": "Uma força constante de 1.000 N, atuando durante 0,2 s, aplica impulso de 5.000 N·s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 1.000 N; Δt = 0,2 s >> Fórmula: I = F·Δt >> Conta: I = 1.000·0,2 → I = 200 N·s >> Resultado: 200 N·s",
+"e": "I = F·Δt"
+},
+{
+"p": "Uma força constante de 200 N, atuando durante 0,5 s, aplica impulso de 100 N·s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F = 200 N; Δt = 0,5 s >> Fórmula: I = F·Δt >> Conta: I = 200·0,5 → I = 100 N·s >> Resultado: 100 N·s",
+"e": "I = F·Δt"
+},
+{
+"p": "Uma força constante de 4.000 N, atuando durante 3 s, aplica impulso de 12.000 N·s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F = 4.000 N; Δt = 3 s >> Fórmula: I = F·Δt >> Conta: I = 4.000·3 → I = 12.000 N·s >> Resultado: 12.000 N·s",
+"e": "I = F·Δt"
+},
+{
+"p": "Uma força constante de 200 N, atuando durante 2 s, aplica impulso de 100 N·s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 200 N; Δt = 2 s >> Fórmula: I = F·Δt >> Conta: I = 200·2 → I = 400 N·s >> Resultado: 400 N·s",
+"e": "I = F·Δt"
+},
+{
+"p": "Uma força constante de 500 N, atuando durante 0,5 s, aplica impulso de 1.000 N·s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 500 N; Δt = 0,5 s >> Fórmula: I = F·Δt >> Conta: I = 500·0,5 → I = 250 N·s >> Resultado: 250 N·s",
+"e": "I = F·Δt"
+},
+{
+"p": "Uma força constante de 1.000 N, atuando durante 2 s, aplica impulso de 500 N·s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 1.000 N; Δt = 2 s >> Fórmula: I = F·Δt >> Conta: I = 1.000·2 → I = 2.000 N·s >> Resultado: 2.000 N·s",
+"e": "I = F·Δt"
+},
+{
+"p": "Uma força constante de 4.000 N, atuando durante 0,2 s, aplica impulso de 20.000 N·s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 4.000 N; Δt = 0,2 s >> Fórmula: I = F·Δt >> Conta: I = 4.000·0,2 → I = 800 N·s >> Resultado: 800 N·s",
+"e": "I = F·Δt"
+},
+{
+"p": "Um ocupante de 90 kg, a 54 km/h, é parado pelo cinto em 0,02 s numa colisão. A força média que o cinto exerce sobre ele é de",
+"alts": [
+"67.500 N",
+"33.750 N",
+"27 N",
+"1.350 N",
+"243.000 N"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Dividiu por 2 sem motivo.",
+"Multiplicou pelo tempo em vez de dividir.",
+"Esse é o impulso (N·s), não a força.",
+"Não converteu km/h."
+],
+"x": "Dados: m = 90 kg; v = 54 km/h = 15 m/s; Δt = 0,02 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 15 m/s a zero >> Conta: ΔQ = 90·15 = 1.350 kg·m/s → F = 1.350/0,02 → F = 67.500 N >> Resultado: 67.500 N (≈ 75 vezes o peso)",
+"e": "F = ΔQ/Δt"
+},
+{
+"p": "Um ocupante de 60 kg, a 54 km/h, é parado em 0,1 s numa colisão. A força média sobre ele é de 9.000 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 60 kg; v = 54 km/h = 15 m/s; Δt = 0,1 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 15 m/s a zero >> Conta: ΔQ = 60·15 = 900 kg·m/s → F = 900/0,1 → F = 9.000 N >> Resultado: 9.000 N (≈ 15 vezes o peso)",
+"e": "Teorema do impulso"
+},
+{
+"p": "Um ocupante de 70 kg, a 54 km/h, é parado pelo cinto em 0,2 s numa colisão. A força média que o cinto exerce sobre ele é de",
+"alts": [
+"1.050 N",
+"210 N",
+"18.900 N",
+"2.625 N",
+"5.250 N"
+],
+"r": 4,
+"n": [
+"Esse é o impulso (N·s), não a força.",
+"Multiplicou pelo tempo em vez de dividir.",
+"Não converteu km/h.",
+"Dividiu por 2 sem motivo.",
+"Correta."
+],
+"x": "Dados: m = 70 kg; v = 54 km/h = 15 m/s; Δt = 0,2 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 15 m/s a zero >> Conta: ΔQ = 70·15 = 1.050 kg·m/s → F = 1.050/0,2 → F = 5.250 N >> Resultado: 5.250 N (≈ 8 vezes o peso)",
+"e": "F = ΔQ/Δt"
+},
+{
+"p": "Um ocupante de 60 kg, a 54 km/h, é parado em 0,15 s numa colisão. A força média sobre ele é de 135 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 60 kg; v = 54 km/h = 15 m/s; Δt = 0,15 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 15 m/s a zero >> Conta: ΔQ = 60·15 = 900 kg·m/s → F = 900/0,15 → F = 6.000 N >> Resultado: 6.000 N (≈ 10 vezes o peso)",
+"e": "Teorema do impulso"
+},
+{
+"p": "Um ocupante de 80 kg, a 36 km/h, é parado em 0,1 s numa colisão. A força média sobre ele é de 8.000 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 80 kg; v = 36 km/h = 10 m/s; Δt = 0,1 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 10 m/s a zero >> Conta: ΔQ = 80·10 = 800 kg·m/s → F = 800/0,1 → F = 8.000 N >> Resultado: 8.000 N (≈ 10 vezes o peso)",
+"e": "Teorema do impulso"
+},
+{
+"p": "Um ocupante de 90 kg, a 36 km/h, é parado pelo cinto em 0,02 s numa colisão. A força média que o cinto exerce sobre ele é de",
+"alts": [
+"162.000 N",
+"22.500 N",
+"18 N",
+"45.000 N",
+"900 N"
+],
+"r": 3,
+"n": [
+"Não converteu km/h.",
+"Dividiu por 2 sem motivo.",
+"Multiplicou pelo tempo em vez de dividir.",
+"Correta.",
+"Esse é o impulso (N·s), não a força."
+],
+"x": "Dados: m = 90 kg; v = 36 km/h = 10 m/s; Δt = 0,02 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 10 m/s a zero >> Conta: ΔQ = 90·10 = 900 kg·m/s → F = 900/0,02 → F = 45.000 N >> Resultado: 45.000 N (≈ 50 vezes o peso)",
+"e": "F = ΔQ/Δt"
+},
+{
+"p": "Um ocupante de 90 kg, a 54 km/h, é parado em 0,2 s numa colisão. A força média sobre ele é de 6.750 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 90 kg; v = 54 km/h = 15 m/s; Δt = 0,2 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 15 m/s a zero >> Conta: ΔQ = 90·15 = 1.350 kg·m/s → F = 1.350/0,2 → F = 6.750 N >> Resultado: 6.750 N (≈ 8 vezes o peso)",
+"e": "Teorema do impulso"
+},
+{
+"p": "Um ocupante de 70 kg, a 72 km/h, é parado em 0,1 s numa colisão. A força média sobre ele é de 14.000 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 70 kg; v = 72 km/h = 20 m/s; Δt = 0,1 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 20 m/s a zero >> Conta: ΔQ = 70·20 = 1.400 kg·m/s → F = 1.400/0,1 → F = 14.000 N >> Resultado: 14.000 N (≈ 20 vezes o peso)",
+"e": "Teorema do impulso"
+},
+{
+"p": "Um ocupante de 80 kg, a 54 km/h, é parado pelo cinto em 0,15 s numa colisão. A força média que o cinto exerce sobre ele é de",
+"alts": [
+"4.000 N",
+"180 N",
+"8.000 N",
+"1.200 N",
+"28.800 N"
+],
+"r": 2,
+"n": [
+"Dividiu por 2 sem motivo.",
+"Multiplicou pelo tempo em vez de dividir.",
+"Correta.",
+"Esse é o impulso (N·s), não a força.",
+"Não converteu km/h."
+],
+"x": "Dados: m = 80 kg; v = 54 km/h = 15 m/s; Δt = 0,15 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 15 m/s a zero >> Conta: ΔQ = 80·15 = 1.200 kg·m/s → F = 1.200/0,15 → F = 8.000 N >> Resultado: 8.000 N (≈ 10 vezes o peso)",
+"e": "F = ΔQ/Δt"
+},
+{
+"p": "Um ocupante de 60 kg, a 36 km/h, é parado em 0,15 s numa colisão. A força média sobre ele é de 90 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 60 kg; v = 36 km/h = 10 m/s; Δt = 0,15 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 10 m/s a zero >> Conta: ΔQ = 60·10 = 600 kg·m/s → F = 600/0,15 → F = 4.000 N >> Resultado: 4.000 N (≈ 7 vezes o peso)",
+"e": "Teorema do impulso"
+},
+{
+"p": "Um ocupante de 60 kg, a 54 km/h, é parado em 0,02 s numa colisão. A força média sobre ele é de 45.000 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 60 kg; v = 54 km/h = 15 m/s; Δt = 0,02 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 15 m/s a zero >> Conta: ΔQ = 60·15 = 900 kg·m/s → F = 900/0,02 → F = 45.000 N >> Resultado: 45.000 N (≈ 75 vezes o peso)",
+"e": "Teorema do impulso"
+},
+{
+"p": "Um ocupante de 60 kg, a 72 km/h, é parado pelo cinto em 0,15 s numa colisão. A força média que o cinto exerce sobre ele é de",
+"alts": [
+"4.000 N",
+"8.000 N",
+"28.800 N",
+"180 N",
+"1.200 N"
+],
+"r": 1,
+"n": [
+"Dividiu por 2 sem motivo.",
+"Correta.",
+"Não converteu km/h.",
+"Multiplicou pelo tempo em vez de dividir.",
+"Esse é o impulso (N·s), não a força."
+],
+"x": "Dados: m = 60 kg; v = 72 km/h = 20 m/s; Δt = 0,15 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 20 m/s a zero >> Conta: ΔQ = 60·20 = 1.200 kg·m/s → F = 1.200/0,15 → F = 8.000 N >> Resultado: 8.000 N (≈ 13 vezes o peso)",
+"e": "F = ΔQ/Δt"
+},
+{
+"p": "Um ocupante de 90 kg, a 36 km/h, é parado em 0,02 s numa colisão. A força média sobre ele é de 45.000 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 90 kg; v = 36 km/h = 10 m/s; Δt = 0,02 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 10 m/s a zero >> Conta: ΔQ = 90·10 = 900 kg·m/s → F = 900/0,02 → F = 45.000 N >> Resultado: 45.000 N (≈ 50 vezes o peso)",
+"e": "Teorema do impulso"
+},
+{
+"p": "Um ocupante de 90 kg, a 54 km/h, é parado em 0,05 s numa colisão. A força média sobre ele é de 27.000 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 90 kg; v = 54 km/h = 15 m/s; Δt = 0,05 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 15 m/s a zero >> Conta: ΔQ = 90·15 = 1.350 kg·m/s → F = 1.350/0,05 → F = 27.000 N >> Resultado: 27.000 N (≈ 30 vezes o peso)",
+"e": "Teorema do impulso"
+},
+{
+"p": "Um ocupante de 80 kg, a 72 km/h, é parado pelo cinto em 0,02 s numa colisão. A força média que o cinto exerce sobre ele é de",
+"alts": [
+"32 N",
+"80.000 N",
+"1.600 N",
+"288.000 N",
+"40.000 N"
+],
+"r": 1,
+"n": [
+"Multiplicou pelo tempo em vez de dividir.",
+"Correta.",
+"Esse é o impulso (N·s), não a força.",
+"Não converteu km/h.",
+"Dividiu por 2 sem motivo."
+],
+"x": "Dados: m = 80 kg; v = 72 km/h = 20 m/s; Δt = 0,02 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 20 m/s a zero >> Conta: ΔQ = 80·20 = 1.600 kg·m/s → F = 1.600/0,02 → F = 80.000 N >> Resultado: 80.000 N (≈ 100 vezes o peso)",
+"e": "F = ΔQ/Δt"
+},
+{
+"p": "Um ocupante de 70 kg, a 36 km/h, é parado pelo cinto em 0,05 s numa colisão. A força média que o cinto exerce sobre ele é de",
+"alts": [
+"35 N",
+"700 N",
+"7.000 N",
+"14.000 N",
+"50.400 N"
+],
+"r": 3,
+"n": [
+"Multiplicou pelo tempo em vez de dividir.",
+"Esse é o impulso (N·s), não a força.",
+"Dividiu por 2 sem motivo.",
+"Correta.",
+"Não converteu km/h."
+],
+"x": "Dados: m = 70 kg; v = 36 km/h = 10 m/s; Δt = 0,05 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 10 m/s a zero >> Conta: ΔQ = 70·10 = 700 kg·m/s → F = 700/0,05 → F = 14.000 N >> Resultado: 14.000 N (≈ 20 vezes o peso)",
+"e": "F = ΔQ/Δt"
+},
+{
+"p": "Um ocupante de 90 kg, a 54 km/h, é parado em 0,02 s numa colisão. A força média sobre ele é de 67.500 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 90 kg; v = 54 km/h = 15 m/s; Δt = 0,02 s >> Ideia: pelo teorema do impulso, F·Δt = ΔQ; o ocupante vai de 15 m/s a zero >> Conta: ΔQ = 90·15 = 1.350 kg·m/s → F = 1.350/0,02 → F = 67.500 N >> Resultado: 67.500 N (≈ 75 vezes o peso)",
+"e": "Teorema do impulso"
+},
+{
+"p": "Se cinto, air bag e deformação da carroceria aumentam o tempo de parada do ocupante de 0,02 s para 0,1 s, a variação de sua quantidade de movimento fica 5 vezes menor.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a variação da quantidade de movimento (de v a zero) é a mesma >> Fórmula: F = ΔQ/Δt >> Conta: tempo × 5 → força ÷ 5 >> Resultado: força 5 vezes menor; ΔQ igual",
+"e": "Mais tempo, menos força"
+},
+{
+"p": "Se cinto, air bag e deformação da carroceria aumentam o tempo de parada do ocupante de 0,03 s para 0,15 s, a força média sobre ele fica 5 vezes menor, sem alteração da variação de sua quantidade de movimento.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a variação da quantidade de movimento (de v a zero) é a mesma >> Fórmula: F = ΔQ/Δt >> Conta: tempo × 5 → força ÷ 5 >> Resultado: força 5 vezes menor; ΔQ igual",
+"e": "Mais tempo, menos força"
+},
+{
+"p": "Se cinto, air bag e deformação da carroceria aumentam o tempo de parada do ocupante de 0,05 s para 0,2 s, a força média sobre ele fica 4 vezes menor, sem alteração da variação de sua quantidade de movimento.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a variação da quantidade de movimento (de v a zero) é a mesma >> Fórmula: F = ΔQ/Δt >> Conta: tempo × 4 → força ÷ 4 >> Resultado: força 4 vezes menor; ΔQ igual",
+"e": "Mais tempo, menos força"
+},
+{
+"p": "Se cinto, air bag e deformação da carroceria aumentam o tempo de parada do ocupante de 0,01 s para 0,1 s, a força média sobre ele fica 10 vezes menor, sem alteração da variação de sua quantidade de movimento.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a variação da quantidade de movimento (de v a zero) é a mesma >> Fórmula: F = ΔQ/Δt >> Conta: tempo × 10 → força ÷ 10 >> Resultado: força 10 vezes menor; ΔQ igual",
+"e": "Mais tempo, menos força"
+},
+{
+"p": "Um carro de 1.000 kg, a 20 m/s, colide com a traseira de outro de 1.500 kg, que segue a 10 m/s no mesmo sentido, e seguem engatados a 14 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: A: 1.000 kg a 20 m/s; B: 1.500 kg a 10 m/s (mesmo sentido) >> Ideia: no choque, o sistema é isolado: a quantidade de movimento total se conserva; seguem juntos >> Fórmula: m_A·v_A + m_B·v_B = (m_A + m_B)·v >> Conta: 20.000 + 15.000 = 2.500·v → v = 35.000/2.500 → v = 14 m/s >> Confere: v fica entre 10 e 20 m/s >> Resultado: 14 m/s",
+"e": "Conservação de Q"
+},
+{
+"p": "Um carro de 1.000 kg, a 30 m/s, colide com a traseira de outro de 1.500 kg, que segue a 10 m/s no mesmo sentido, e seguem engatados a 18 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: A: 1.000 kg a 30 m/s; B: 1.500 kg a 10 m/s (mesmo sentido) >> Ideia: no choque, o sistema é isolado: a quantidade de movimento total se conserva; seguem juntos >> Fórmula: m_A·v_A + m_B·v_B = (m_A + m_B)·v >> Conta: 30.000 + 15.000 = 2.500·v → v = 45.000/2.500 → v = 18 m/s >> Confere: v fica entre 10 e 30 m/s >> Resultado: 18 m/s",
+"e": "Conservação de Q"
+},
+{
+"p": "Um carro de 1.000 kg, a 20 m/s, colide com a traseira de outro de 1.500 kg, que segue a 10 m/s no mesmo sentido; após o choque, seguem engatados. A velocidade do conjunto logo após o choque é",
+"alts": [
+"15 m/s",
+"20 m/s",
+"8 m/s",
+"14 m/s",
+"14,8 m/s"
+],
+"r": 3,
+"n": [
+"Fez a média simples das velocidades, ignorando as massas.",
+"Supôs que a velocidade não muda.",
+"Esqueceu a quantidade de movimento do carro da frente.",
+"Correta.",
+"Usou conservação da energia cinética (não vale em colisão inelástica)."
+],
+"x": "Dados: A: 1.000 kg a 20 m/s; B: 1.500 kg a 10 m/s (mesmo sentido) >> Ideia: no choque, o sistema é isolado: a quantidade de movimento total se conserva; seguem juntos >> Fórmula: m_A·v_A + m_B·v_B = (m_A + m_B)·v >> Conta: 20.000 + 15.000 = 2.500·v → v = 35.000/2.500 → v = 14 m/s >> Confere: v fica entre 10 e 20 m/s >> Resultado: 14 m/s",
+"e": "Conservação de Q"
+},
+{
+"p": "Um carro de 1.200 kg, a 25 m/s, colide com a traseira de outro de 1.200 kg, que segue a 0 m/s no mesmo sentido, e seguem engatados a 12,5 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: A: 1.200 kg a 25 m/s; B: 1.200 kg a 0 m/s (mesmo sentido) >> Ideia: no choque, o sistema é isolado: a quantidade de movimento total se conserva; seguem juntos >> Fórmula: m_A·v_A + m_B·v_B = (m_A + m_B)·v >> Conta: 30.000 + 0 = 2.400·v → v = 30.000/2.400 → v = 12,5 m/s >> Confere: v fica entre 0 e 25 m/s >> Resultado: 12,5 m/s",
+"e": "Conservação de Q"
+},
+{
+"p": "Um carro de 1.000 kg, a 20 m/s, colide com a traseira de outro de 3.000 kg, que segue a 5 m/s no mesmo sentido, e seguem engatados a 8,75 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: A: 1.000 kg a 20 m/s; B: 3.000 kg a 5 m/s (mesmo sentido) >> Ideia: no choque, o sistema é isolado: a quantidade de movimento total se conserva; seguem juntos >> Fórmula: m_A·v_A + m_B·v_B = (m_A + m_B)·v >> Conta: 20.000 + 15.000 = 4.000·v → v = 35.000/4.000 → v = 8,75 m/s >> Confere: v fica entre 5 e 20 m/s >> Resultado: 8,75 m/s",
+"e": "Conservação de Q"
+},
+{
+"p": "Um carro de 800 kg, a 20 m/s, colide com a traseira de outro de 800 kg, que segue a 0 m/s no mesmo sentido, e seguem engatados a 10 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: A: 800 kg a 20 m/s; B: 800 kg a 0 m/s (mesmo sentido) >> Ideia: no choque, o sistema é isolado: a quantidade de movimento total se conserva; seguem juntos >> Fórmula: m_A·v_A + m_B·v_B = (m_A + m_B)·v >> Conta: 16.000 + 0 = 1.600·v → v = 16.000/1.600 → v = 10 m/s >> Confere: v fica entre 0 e 20 m/s >> Resultado: 10 m/s",
+"e": "Conservação de Q"
+},
+{
+"p": "Um carro de 800 kg, a 20 m/s, colide com a traseira de outro de 1.200 kg, que segue a 0 m/s no mesmo sentido; após o choque, seguem engatados. A velocidade do conjunto logo após o choque é",
+"alts": [
+"8 m/s",
+"12,6 m/s",
+"16 m/s",
+"20 m/s",
+"10 m/s"
+],
+"r": 0,
+"n": [
+"Correta.",
+"Usou conservação da energia cinética (não vale em colisão inelástica).",
+"Não confere.",
+"Supôs que a velocidade não muda.",
+"Fez a média simples das velocidades, ignorando as massas."
+],
+"x": "Dados: A: 800 kg a 20 m/s; B: 1.200 kg a 0 m/s (mesmo sentido) >> Ideia: no choque, o sistema é isolado: a quantidade de movimento total se conserva; seguem juntos >> Fórmula: m_A·v_A + m_B·v_B = (m_A + m_B)·v >> Conta: 16.000 + 0 = 2.000·v → v = 16.000/2.000 → v = 8 m/s >> Confere: v fica entre 0 e 20 m/s >> Resultado: 8 m/s",
+"e": "Conservação de Q"
+},
+{
+"p": "Um carro de 1.000 kg, a 30 m/s, colide com a traseira de outro de 3.000 kg, que segue a 5 m/s no mesmo sentido, e seguem engatados a 11,25 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: A: 1.000 kg a 30 m/s; B: 3.000 kg a 5 m/s (mesmo sentido) >> Ideia: no choque, o sistema é isolado: a quantidade de movimento total se conserva; seguem juntos >> Fórmula: m_A·v_A + m_B·v_B = (m_A + m_B)·v >> Conta: 30.000 + 15.000 = 4.000·v → v = 45.000/4.000 → v = 11,25 m/s >> Confere: v fica entre 5 e 30 m/s >> Resultado: 11,25 m/s",
+"e": "Conservação de Q"
+},
+{
+"p": "Dois veículos colidem de frente e seguem juntos: A, de 1.200 kg a 20 m/s, e B, de 800 kg a 25 m/s em sentido oposto. Logo após o choque, o conjunto se move a 22 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: A: +20 m/s; B: −25 m/s (sentido positivo = o de A) >> Ideia: Q é vetorial: sentidos opostos têm sinais opostos >> Conta: Q = 1.200·20 − 800·25 = 4.000 kg·m/s → v = 4.000/2.000 = 2 m/s >> Atenção: somar os módulos daria 22 m/s >> Resultado: 2 m/s",
+"e": "Colisão frontal: sinais"
+},
+{
+"p": "Dois veículos colidem de frente e seguem juntos: A, de 1.000 kg a 20 m/s, e B, de 1.000 kg a 20 m/s em sentido oposto. Logo após o choque, o conjunto se move a 0 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: A: +20 m/s; B: −20 m/s (sentido positivo = o de A) >> Ideia: Q é vetorial: sentidos opostos têm sinais opostos >> Conta: Q = 1.000·20 − 1.000·20 = 0 kg·m/s → v = 0/2.000 = 0 m/s >> Atenção: somar os módulos daria 20 m/s >> Resultado: 0 m/s (o conjunto para)",
+"e": "Colisão frontal: sinais"
+},
+{
+"p": "Dois veículos colidem de frente e seguem juntos: A, de 1.500 kg a 10 m/s, e B, de 1.000 kg a 20 m/s em sentido oposto. Logo após o choque, o conjunto se move a 2 m/s no sentido em que B vinha.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: A: +10 m/s; B: −20 m/s (sentido positivo = o de A) >> Ideia: Q é vetorial: sentidos opostos têm sinais opostos >> Conta: Q = 1.500·10 − 1.000·20 = -5.000 kg·m/s → v = -5.000/2.500 = -2 m/s >> Atenção: somar os módulos daria 14 m/s >> Resultado: 2 m/s",
+"e": "Colisão frontal: sinais"
+},
+{
+"p": "Dois veículos colidem de frente e seguem juntos: A, de 1.000 kg a 30 m/s, e B, de 2.000 kg a 10 m/s em sentido oposto. Logo após o choque, o conjunto se move a 3,33 m/s no sentido em que A vinha.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: A: +30 m/s; B: −10 m/s (sentido positivo = o de A) >> Ideia: Q é vetorial: sentidos opostos têm sinais opostos >> Conta: Q = 1.000·30 − 2.000·10 = 10.000 kg·m/s → v = 10.000/3.000 = 3,33 m/s >> Atenção: somar os módulos daria 16,67 m/s >> Resultado: 3,33 m/s",
+"e": "Colisão frontal: sinais"
+},
+{
+"p": "Uma pessoa de 60 kg salta horizontalmente, a 4 m/s, de um barco de 240 kg inicialmente parado (sem atrito com a água). O barco recua com a mesma velocidade da pessoa, 4 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: pessoa 60 kg a 4 m/s; barco 240 kg; Q inicial = 0 >> Ideia: Q total continua zero: as quantidades de movimento de pessoa e barco têm mesmo módulo e sentidos opostos >> Fórmula: m_p·v_p = m_b·v_b >> Conta: 60·4 = 240·v_b → v_b = 240/240 = 1 m/s >> Resultado: 1 m/s, em sentido oposto",
+"e": "Recuo: m₁v₁ = m₂v₂"
+},
+{
+"p": "Uma pessoa de 80 kg salta horizontalmente, a 3 m/s, de um barco de 320 kg inicialmente parado (sem atrito com a água). O barco recua a 0,75 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: pessoa 80 kg a 3 m/s; barco 320 kg; Q inicial = 0 >> Ideia: Q total continua zero: as quantidades de movimento de pessoa e barco têm mesmo módulo e sentidos opostos >> Fórmula: m_p·v_p = m_b·v_b >> Conta: 80·3 = 320·v_b → v_b = 240/320 = 0,75 m/s >> Resultado: 0,75 m/s, em sentido oposto",
+"e": "Recuo: m₁v₁ = m₂v₂"
+},
+{
+"p": "Uma pessoa de 90 kg salta horizontalmente, a 4 m/s, de um barco de 360 kg inicialmente parado (sem atrito com a água). O barco recua com a mesma velocidade da pessoa, 4 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: pessoa 90 kg a 4 m/s; barco 360 kg; Q inicial = 0 >> Ideia: Q total continua zero: as quantidades de movimento de pessoa e barco têm mesmo módulo e sentidos opostos >> Fórmula: m_p·v_p = m_b·v_b >> Conta: 90·4 = 360·v_b → v_b = 360/360 = 1 m/s >> Resultado: 1 m/s, em sentido oposto",
+"e": "Recuo: m₁v₁ = m₂v₂"
+},
+{
+"p": "Uma pessoa de 50 kg salta horizontalmente, a 6 m/s, de um barco de 300 kg inicialmente parado (sem atrito com a água). O barco recua com a mesma velocidade da pessoa, 6 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: pessoa 50 kg a 6 m/s; barco 300 kg; Q inicial = 0 >> Ideia: Q total continua zero: as quantidades de movimento de pessoa e barco têm mesmo módulo e sentidos opostos >> Fórmula: m_p·v_p = m_b·v_b >> Conta: 50·6 = 300·v_b → v_b = 300/300 = 1 m/s >> Resultado: 1 m/s, em sentido oposto",
+"e": "Recuo: m₁v₁ = m₂v₂"
+},
+{
+"p": "Numa colisão elástica, de um sistema isolado, conserva-se a quantidade de movimento, mas parte da energia cinética é dissipada.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: isso descreve a colisão parcialmente elástica >> Resultado: na elástica, conservam-se a quantidade de movimento e a energia cinética",
+"e": "Colisão elástica"
+},
+{
+"p": "Numa colisão elástica, de um sistema isolado, conserva-se a quantidade de movimento, os corpos seguem juntos e a perda de energia cinética é máxima.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: isso descreve a colisão perfeitamente inelástica >> Resultado: na elástica, conservam-se a quantidade de movimento e a energia cinética",
+"e": "Colisão elástica"
+},
+{
+"p": "Numa colisão parcialmente elástica, de um sistema isolado, conservam-se a quantidade de movimento e a energia cinética.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: isso descreve a colisão elástica >> Resultado: na parcialmente elástica, conserva-se a quantidade de movimento, mas parte da energia cinética é dissipada",
+"e": "Colisão parcialmente elástica"
+},
+{
+"p": "Numa colisão parcialmente elástica, de um sistema isolado, conserva-se a quantidade de movimento, mas parte da energia cinética é dissipada.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: em toda colisão de sistema isolado, Q se conserva; o que muda entre os tipos é a energia cinética >> Resultado: parcialmente elástica: conserva-se a quantidade de movimento, mas parte da energia cinética é dissipada",
+"e": "Colisão parcialmente elástica"
+},
+{
+"p": "Numa colisão perfeitamente inelástica, de um sistema isolado, conserva-se a quantidade de movimento, mas parte da energia cinética é dissipada.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: isso descreve a colisão parcialmente elástica >> Resultado: na perfeitamente inelástica, conserva-se a quantidade de movimento, os corpos seguem juntos e a perda de energia cinética é máxima",
+"e": "Colisão perfeitamente inelástica"
+},
+{
+"p": "Numa colisão perfeitamente inelástica, de um sistema isolado, conserva-se a quantidade de movimento, os corpos seguem juntos e a perda de energia cinética é máxima.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: em toda colisão de sistema isolado, Q se conserva; o que muda entre os tipos é a energia cinética >> Resultado: perfeitamente inelástica: conserva-se a quantidade de movimento, os corpos seguem juntos e a perda de energia cinética é máxima",
+"e": "Colisão perfeitamente inelástica"
+},
+{
+"p": "Uma bola solta de 1,25 m de altura quica e sobe até 0,8 m. O coeficiente de restituição da colisão com o piso é 0,64.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: h = 1,25 m; h' = 0,8 m >> Ideia: chega com √(2gh) e sai com √(2gh'); e = v_saída/v_chegada >> Fórmula: e = √(h'/h) >> Conta: e = √(0,8/1,25) = √0,64 = 0,8 >> Atenção: a razão das alturas sem a raiz (0,64) é e² >> Resultado: e = 0,8",
+"e": "e = √(h'/h)"
+},
+{
+"p": "Uma bola solta de 2 m de altura quica e sobe até 1,28 m. O coeficiente de restituição da colisão com o piso é 0,8.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: h = 2 m; h' = 1,28 m >> Ideia: chega com √(2gh) e sai com √(2gh'); e = v_saída/v_chegada >> Fórmula: e = √(h'/h) >> Conta: e = √(1,28/2) = √0,64 = 0,8 >> Atenção: a razão das alturas sem a raiz (0,64) é e² >> Resultado: e = 0,8",
+"e": "e = √(h'/h)"
+},
+{
+"p": "Uma bola solta de 1,8 m de altura quica e sobe até 0,45 m. O coeficiente de restituição da colisão com o piso é 0,5.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: h = 1,8 m; h' = 0,45 m >> Ideia: chega com √(2gh) e sai com √(2gh'); e = v_saída/v_chegada >> Fórmula: e = √(h'/h) >> Conta: e = √(0,45/1,8) = √0,25 = 0,5 >> Atenção: a razão das alturas sem a raiz (0,25) é e² >> Resultado: e = 0,5",
+"e": "e = √(h'/h)"
+},
+{
+"p": "Uma bola solta de 5 m de altura quica e sobe até 3,2 m. O coeficiente de restituição da colisão com o piso é 0,64.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: h = 5 m; h' = 3,2 m >> Ideia: chega com √(2gh) e sai com √(2gh'); e = v_saída/v_chegada >> Fórmula: e = √(h'/h) >> Conta: e = √(3,2/5) = √0,64 = 0,8 >> Atenção: a razão das alturas sem a raiz (0,64) é e² >> Resultado: e = 0,8",
+"e": "e = √(h'/h)"
+},
+{
+"p": "Um carro de 1.000 kg, a 20 m/s, colide de frente com um caminhão de 9.000 kg a 20 m/s, e seguem juntos. A variação de velocidade do carro (36 m/s) é maior que a do caminhão (4 m/s).",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: forças e impulsos iguais (3ª lei), massas diferentes: Δv = I/m >> Conta: v_final = (20.000 − 180.000)/10.000 = -16 m/s → Δv_carro = 36 m/s → Δv_caminhão = 4 m/s >> Resultado: o carro sofre Δv muito maior",
+"e": "Mais leve, maior Δv"
+},
+{
+"p": "Um carro de 1.000 kg, a 25 m/s, colide de frente com um caminhão de 4.000 kg parado, e seguem juntos. Como as forças trocadas são iguais, os dois sofrem a mesma variação de velocidade.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: forças e impulsos iguais (3ª lei), massas diferentes: Δv = I/m >> Conta: v_final = (25.000 − 0)/5.000 = 5 m/s → Δv_carro = 20 m/s → Δv_caminhão = 5 m/s >> Resultado: o carro sofre Δv muito maior",
+"e": "Mais leve, maior Δv"
+},
+{
+"p": "Um carro de 1.200 kg, a 20 m/s, colide de frente com um caminhão de 10.800 kg a 10 m/s, e seguem juntos. Como as forças trocadas são iguais, os dois sofrem a mesma variação de velocidade.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: forças e impulsos iguais (3ª lei), massas diferentes: Δv = I/m >> Conta: v_final = (24.000 − 108.000)/12.000 = -7 m/s → Δv_carro = 27 m/s → Δv_caminhão = 3 m/s >> Resultado: o carro sofre Δv muito maior",
+"e": "Mais leve, maior Δv"
+},
+{
+"p": "No cruzamento, um carro de 1.000 kg a 20 m/s (para o leste) colide com outro de 1.500 kg a 10 m/s (para o norte), e seguem juntos. Logo após o choque, o conjunto se move a cerca de 10 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: Q se conserva em cada direção; as componentes são perpendiculares >> Conta: Q_leste = 20.000 → Q_norte = 15.000 → Q = √(20.000² + 15.000²) ≈ 25.000 kg·m/s → v = 25.000/2.500 ≈ 10 m/s >> Atenção: somar os módulos (14 m/s) ignora o caráter vetorial >> Resultado: ≈ 10 m/s, para nordeste",
+"e": "Colisão em 2D"
+},
+{
+"p": "No cruzamento, um carro de 1.200 kg a 15 m/s (para o leste) colide com outro de 800 kg a 30 m/s (para o norte), e seguem juntos. Logo após o choque, o conjunto se move a 21 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: Q se conserva em cada direção; as componentes são perpendiculares >> Conta: Q_leste = 18.000 → Q_norte = 24.000 → Q = √(18.000² + 24.000²) ≈ 30.000 kg·m/s → v = 30.000/2.000 ≈ 15 m/s >> Atenção: somar os módulos (21 m/s) ignora o caráter vetorial >> Resultado: ≈ 15 m/s, para nordeste",
+"e": "Colisão em 2D"
+},
+{
+"p": "No cruzamento, um carro de 1.000 kg a 30 m/s (para o leste) colide com outro de 2.000 kg a 20 m/s (para o norte), e seguem juntos. Logo após o choque, o conjunto se move a cerca de 16,7 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: Q se conserva em cada direção; as componentes são perpendiculares >> Conta: Q_leste = 30.000 → Q_norte = 40.000 → Q = √(30.000² + 40.000²) ≈ 50.000 kg·m/s → v = 50.000/3.000 ≈ 16,7 m/s >> Atenção: somar os módulos (23,3 m/s) ignora o caráter vetorial >> Resultado: ≈ 16,7 m/s, para nordeste",
+"e": "Colisão em 2D"
+},
+{
+"p": "Um carro de 1.000 kg, a 20 m/s, bate num carro idêntico parado e seguem juntos. A energia cinética do sistema se conserva no choque.",
+"c": false,
+"prof": "Errado.",
+"x": "Conta: Q: 1.000·20 = 2.000·v → v = 10 m/s → Ec antes = 200.000 J → Ec depois = 2.000·100/2 = 100.000 J >> Resultado: dissipa 100.000 J, metade da inicial",
+"e": "Inelástica entre iguais: perde metade"
+},
+{
+"p": "Um carro de 900 kg, a 20 m/s, bate num carro idêntico parado e seguem juntos. A energia cinética do sistema se conserva no choque.",
+"c": false,
+"prof": "Errado.",
+"x": "Conta: Q: 900·20 = 1.800·v → v = 10 m/s → Ec antes = 180.000 J → Ec depois = 1.800·100/2 = 90.000 J >> Resultado: dissipa 90.000 J, metade da inicial",
+"e": "Inelástica entre iguais: perde metade"
+},
+{
+"p": "Um carro de 1.200 kg, a 10 m/s, bate num carro idêntico parado e seguem juntos. A energia cinética do sistema se conserva no choque.",
+"c": false,
+"prof": "Errado.",
+"x": "Conta: Q: 1.200·10 = 2.400·v → v = 5 m/s → Ec antes = 60.000 J → Ec depois = 2.400·25/2 = 30.000 J >> Resultado: dissipa 30.000 J, metade da inicial",
+"e": "Inelástica entre iguais: perde metade"
+},
+{
+"p": "Uma bola de 0,5 kg atinge uma parede a 12 m/s e volta a 8 m/s, em sentido oposto, após 0,02 s de contato. A força média da parede sobre a bola é de 100 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 0,5 kg; chega a +12 m/s; volta a −8 m/s; Δt = 0,02 s >> Ideia: com o rebote, a variação de Q soma as velocidades de ida e de volta >> Conta: ΔQ = 0,5·(8 + 12) = 10 kg·m/s → F = 10/0,02 = 500 N >> Atenção: subtrair as velocidades (100 N) ignora a inversão do sentido >> Resultado: 500 N",
+"e": "Rebote: ΔQ maior"
+},
+{
+"p": "Uma bola de 0,4 kg atinge uma parede a 20 m/s e volta a 10 m/s, em sentido oposto, após 0,01 s de contato. A força média da parede sobre a bola é de 1.200 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 0,4 kg; chega a +20 m/s; volta a −10 m/s; Δt = 0,01 s >> Ideia: com o rebote, a variação de Q soma as velocidades de ida e de volta >> Conta: ΔQ = 0,4·(10 + 20) = 12 kg·m/s → F = 12/0,01 = 1.200 N >> Atenção: subtrair as velocidades (400 N) ignora a inversão do sentido >> Resultado: 1.200 N",
+"e": "Rebote: ΔQ maior"
+},
+{
+"p": "Uma bola de 0,15 kg atinge uma parede a 30 m/s e volta a 30 m/s, em sentido oposto, após 0 s de contato. A força média da parede sobre a bola é de 4.500 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 0,15 kg; chega a +30 m/s; volta a −30 m/s; Δt = 0 s >> Ideia: com o rebote, a variação de Q soma as velocidades de ida e de volta >> Conta: ΔQ = 0,15·(30 + 30) = 9 kg·m/s → F = 9/0 = 4.500 N >> Atenção: subtrair as velocidades (0 N) ignora a inversão do sentido >> Resultado: 4.500 N",
+"e": "Rebote: ΔQ maior"
+},
+{
+"p": "Uma bola de 0,2 kg atinge uma parede a 6 m/s e volta a 3 m/s, em sentido oposto, após 0,01 s de contato. A força média da parede sobre a bola é de 180 N.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 0,2 kg; chega a +6 m/s; volta a −3 m/s; Δt = 0,01 s >> Ideia: com o rebote, a variação de Q soma as velocidades de ida e de volta >> Conta: ΔQ = 0,2·(3 + 6) = 1,8 kg·m/s → F = 1,8/0,01 = 180 N >> Atenção: subtrair as velocidades (60 N) ignora a inversão do sentido >> Resultado: 180 N",
+"e": "Rebote: ΔQ maior"
+},
+{
+"p": "Uma bola de 0,6 kg atinge uma parede a 10 m/s e volta a 5 m/s, em sentido oposto, após 0,03 s de contato. A força média da parede sobre a bola é de 100 N.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 0,6 kg; chega a +10 m/s; volta a −5 m/s; Δt = 0,03 s >> Ideia: com o rebote, a variação de Q soma as velocidades de ida e de volta >> Conta: ΔQ = 0,6·(5 + 10) = 9 kg·m/s → F = 9/0,03 = 300 N >> Atenção: subtrair as velocidades (100 N) ignora a inversão do sentido >> Resultado: 300 N",
+"e": "Rebote: ΔQ maior"
+},
+{
+"p": "Um corpo de 3 kg, em repouso, se divide em dois pedaços; o de 1 kg sai a 10 m/s. O outro pedaço sai a 5 m/s, em sentido oposto.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: M = 3 kg em repouso (Q = 0); pedaço 1: 1 kg a 10 m/s; pedaço 2: 2 kg >> Fórmula: 0 = m₁·v₁ + m₂·v₂ → m₁v₁ = m₂v₂ (sentidos opostos) >> Conta: v₂ = 1·10/2 = 5 m/s >> Resultado: 5 m/s em sentido oposto",
+"e": "Explosão do repouso"
+},
+{
+"p": "Um corpo de 5 kg, em repouso, se divide em dois pedaços; o de 2 kg sai a 6 m/s. O outro pedaço sai com a mesma velocidade, 6 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: M = 5 kg em repouso (Q = 0); pedaço 1: 2 kg a 6 m/s; pedaço 2: 3 kg >> Fórmula: 0 = m₁·v₁ + m₂·v₂ → m₁v₁ = m₂v₂ (sentidos opostos) >> Conta: v₂ = 2·6/3 = 4 m/s >> Resultado: 4 m/s em sentido oposto",
+"e": "Explosão do repouso"
+},
+{
+"p": "Um corpo de 10 kg, em repouso, se divide em dois pedaços; o de 4 kg sai a 3 m/s. O outro pedaço sai com a mesma velocidade, 3 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: M = 10 kg em repouso (Q = 0); pedaço 1: 4 kg a 3 m/s; pedaço 2: 6 kg >> Fórmula: 0 = m₁·v₁ + m₂·v₂ → m₁v₁ = m₂v₂ (sentidos opostos) >> Conta: v₂ = 4·3/6 = 2 m/s >> Resultado: 2 m/s em sentido oposto",
+"e": "Explosão do repouso"
+},
+{
+"p": "Um corpo de 6 kg, em repouso, se divide em dois pedaços; o de 1 kg sai a 15 m/s. O outro pedaço sai com a mesma velocidade, 15 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: M = 6 kg em repouso (Q = 0); pedaço 1: 1 kg a 15 m/s; pedaço 2: 5 kg >> Fórmula: 0 = m₁·v₁ + m₂·v₂ → m₁v₁ = m₂v₂ (sentidos opostos) >> Conta: v₂ = 1·15/5 = 3 m/s >> Resultado: 3 m/s em sentido oposto",
+"e": "Explosão do repouso"
+},
+{
+"p": "Um corpo de 8 kg, em repouso, se divide em dois pedaços; o de 3 kg sai a 5 m/s. O outro pedaço sai a 3 m/s, em sentido oposto.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: M = 8 kg em repouso (Q = 0); pedaço 1: 3 kg a 5 m/s; pedaço 2: 5 kg >> Fórmula: 0 = m₁·v₁ + m₂·v₂ → m₁v₁ = m₂v₂ (sentidos opostos) >> Conta: v₂ = 3·5/5 = 3 m/s >> Resultado: 3 m/s em sentido oposto",
+"e": "Explosão do repouso"
+},
+{
+"p": "A quantidade de movimento é uma grandeza vetorial, com a mesma direção e o mesmo sentido da velocidade do corpo.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Q = m·v (vetor velocidade multiplicado pela massa, um escalar positivo) >> Resultado: certo",
+"e": "Q é vetorial"
+},
+{
+"p": "Dois carros idênticos, com a mesma velocidade escalar, movendo-se em sentidos opostos, têm quantidade de movimento total igual ao dobro da de cada um.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: os vetores têm sentidos opostos e se anulam >> Conta: Q_total = m·v + m·(−v) = 0 >> Resultado: quantidade de movimento total nula (a energia cinética total, porém, é o dobro)",
+"e": "Q vetorial"
+},
+{
+"p": "O air bag não altera a variação da quantidade de movimento do ocupante numa colisão, mas aumenta o tempo de interação e, com isso, reduz a força média sobre ele.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: F·Δt = ΔQ >> Ideia: ΔQ (de v até zero) é fixa; Δt maior → F menor >> Resultado: certo",
+"e": "Air bag e impulso"
+},
+{
+"p": "O impulso de uma força é medido, no SI, em newtons por segundo (N/s).",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: I = F·Δt >> Ideia: força vezes tempo: N·s (equivalente a kg·m/s) >> Resultado: errado",
+"e": "Unidade de impulso"
+},
+{
+"p": "No gráfico força × tempo, a área sob a curva é numericamente igual ao impulso da força.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: para força constante, a área é o retângulo F·Δt; para força variável, soma-se a área >> Resultado: certo",
+"e": "Área = impulso"
+},
+{
+"p": "Em toda colisão em que o sistema possa ser considerado isolado, a quantidade de movimento total se conserva, ainda que a energia cinética não se conserve.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: forças internas são pares ação-reação: os impulsos se anulam no conjunto >> Ideia: a energia cinética só se conserva nas colisões elásticas >> Resultado: certo",
+"e": "Q sempre; Ec talvez"
+},
+{
+"p": "Na colisão perfeitamente inelástica, a energia cinética total se conserva, já que os corpos permanecem unidos.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: seguir juntos caracteriza a colisão perfeitamente inelástica, que tem a MAIOR perda de energia cinética >> Resultado: errado; conserva-se a quantidade de movimento",
+"e": "Inelástica: perda máxima"
+},
+{
+"p": "Na colisão frontal e elástica entre duas esferas de mesma massa, estando uma delas em repouso, a esfera que se movia para e a outra passa a se mover com a velocidade que a primeira tinha.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: massas iguais e choque elástico: as velocidades são trocadas >> Resultado: certo; é o que se vê no pêndulo de Newton e no bilhar",
+"e": "Iguais e elásticos trocam"
+},
+{
+"p": "Numa colisão entre um carro e um caminhão, o caminhão sofre impulso maior, por ter massa maior.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: pela 3ª lei, as forças trocadas e os impulsos têm o mesmo módulo >> Fórmula: Δv = I/m >> Ideia: com o mesmo impulso, o carro (massa menor) sofre Δv maior >> Resultado: errado",
+"e": "Mesmo impulso"
+},
+{
+"p": "Um foguete pode acelerar no vácuo, pois a quantidade de movimento ganha pelos gases expelidos para trás é compensada pela quantidade de movimento ganha pelo foguete para a frente.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o sistema foguete + gases conserva a quantidade de movimento; não é preciso ar para \"empurrar\" >> Resultado: certo",
+"e": "Propulsão de foguetes"
+},
+{
+"p": "Depois de uma colisão, enquanto os veículos se arrastam pela pista até parar, a quantidade de movimento do conjunto permanece constante.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: durante o arrastamento, o atrito com a pista é força externa e reduz Q até zero >> Ideia: a conservação vale no curto instante do choque >> Resultado: errado",
+"e": "Conservação só no choque"
+},
+{
+"p": "Na perícia de acidentes, a conservação da quantidade de movimento, combinada com a energia dissipada no arrastamento pós-colisão, permite estimar as velocidades dos veículos antes do choque.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o arrastamento dá a velocidade do conjunto depois do choque (v = √(2μgd)); a conservação de Q liga essa velocidade às velocidades anteriores >> Resultado: certo",
+"e": "Perícia: Q + energia"
+},
+{
+"p": "Num sistema isolado, a velocidade do centro de massa permanece constante, ainda que as partes do sistema interajam entre si.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Q_total = M·v_CM >> Ideia: forças internas não alteram Q_total >> Resultado: certo (exemplo: pessoa andando num barco parado)",
+"e": "Centro de massa"
+},
+{
+"p": "Para a mesma quantidade de movimento, o corpo de maior massa tem maior energia cinética.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Ec = Q²/(2m) >> Ideia: com Q igual, Ec é inversamente proporcional à massa >> Resultado: o mais LEVE tem mais energia cinética",
+"e": "Ec = Q²/2m"
+},
+{
+"p": "A colisão frontal entre dois carros idênticos, cada um a 60 km/h, equivale, para cada carro, a colidir contra uma parede rígida a 60 km/h.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: por simetria, os dois param no ponto de contato; cada um sofre Δv = 60 km/h >> Resultado: certo (não equivale a 120 km/h)",
+"e": "Colisão simétrica"
+},
+{
+"p": "No pêndulo balístico, pode-se igualar a energia cinética do corpo antes do choque à energia potencial do conjunto no ponto mais alto.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: no choque (inelástico) a energia não se conserva >> Ideia: usa-se a conservação de Q no choque e a de energia só na subida >> Resultado: errado",
+"e": "Duas etapas"
+},
+{
+"p": "Um ocupante de 80 kg, a 72 km/h, é parado em 0,16 s pelo conjunto cinto e air bag. A força média sobre ele é de",
+"alts": [
+"1.600 N",
+"256 N",
+"10.000 N",
+"36.000 N",
+"5.000 N"
+],
+"r": 2,
+"n": [
+"É o impulso (kg·m/s), não a força.",
+"Multiplicou pelo tempo.",
+"Correta.",
+"Não converteu km/h.",
+"Não confere."
+],
+"x": "Dados: m = 80 kg; v = 72 km/h = 20 m/s; Δt = 0,16 s >> Fórmula: F = ΔQ/Δt >> Conta: ΔQ = 80·20 = 1.600 kg·m/s → F = 1.600/0,16 → F = 10.000 N >> Resultado: 10.000 N",
+"e": "Teorema do impulso"
+}
+]
+},
+"trabalho-potencia": {
+"html": "<div class=\"lt-stats\"><div class=\"lt-stat\"><b>τ = F·d·cos θ</b><span>trabalho de uma força constante</span></div><div class=\"lt-stat\"><b>τ_R = ΔEc</b><span>teorema da energia cinética</span></div><div class=\"lt-stat\"><b>P = τ/Δt = F·v</b><span>potência</span></div><div class=\"lt-stat\"><b>1 cv ≈ 735 W</b><span>cavalo-vapor</span></div></div>\n<p>Trabalho e potência são os itens 4 e 5 do edital de Física da PRF e funcionam como ponte entre a dinâmica (forças) e a energia. O <b>trabalho</b> mede a energia transferida por uma força ao longo de um deslocamento; a <b>potência</b> mede a <b>rapidez</b> dessa transferência. As questões cobram o cálculo do trabalho com o ângulo entre força e deslocamento, os casos em que o trabalho é nulo, o trabalho do peso e do atrito, o teorema da energia cinética, a potência média e a relação P = F·v, o rendimento e as unidades (watt, quilowatt, cavalo-vapor, quilowatt-hora). No trânsito, explicam a potência necessária para subir uma serra, a energia que os freios dissipam e por que o consumo dispara em alta velocidade.</p>\n<h3>1. O conceito físico de trabalho</h3>\n<ul><li>Na física, <b>trabalho</b> não é \"esforço\": é a <b>energia transferida</b> a um corpo (ou retirada dele) por uma força <b>quando há deslocamento</b>. Segurar uma mochila pesada parado, por mais cansativo que seja, <b>não</b> realiza trabalho sobre a mochila (não há deslocamento).</li><li><b>Trabalho de uma força constante</b>: <b>τ = F·d·cos θ</b>, em que F é o módulo da força, d o módulo do deslocamento e θ o <b>ângulo entre a força e o deslocamento</b>. Apenas a <b>componente da força na direção do deslocamento</b> (F·cos θ) realiza trabalho.</li><li><b>Unidade</b>: <b>joule (J)</b> = N·m. 1 J é o trabalho de uma força de 1 N que desloca um corpo por 1 m na sua direção. O trabalho é <b>escalar</b> (tem sinal, mas não direção).</li></ul>\n<table class=\"tab\"><thead><tr><th>Ângulo θ</th><th>cos θ</th><th>Trabalho</th><th>Nome</th><th>Exemplo</th></tr></thead><tbody><tr><td>0°</td><td>1</td><td>τ = F·d (máximo, positivo)</td><td><b>motor</b></td><td>força do motor (via atrito no pneu) no sentido do movimento</td></tr><tr><td>entre 0° e 90°</td><td>positivo</td><td>positivo</td><td>motor</td><td>puxar um carrinho por uma alça inclinada</td></tr><tr><td><b>90°</b></td><td>0</td><td><b>zero</b></td><td><b>nulo</b></td><td>normal num plano horizontal; força centrípeta; peso num deslocamento horizontal</td></tr><tr><td>entre 90° e 180°</td><td>negativo</td><td>negativo</td><td>resistente</td><td>peso de um corpo que sobe uma rampa</td></tr><tr><td>180°</td><td>−1</td><td>τ = −F·d</td><td><b>resistente</b></td><td>atrito na frenagem; resistência do ar</td></tr></tbody></table>\n<ul><li><b>Trabalho motor</b> (positivo): a força \"ajuda\" o movimento e <b>fornece</b> energia ao corpo. <b>Trabalho resistente</b> (negativo): a força se opõe ao movimento e <b>retira</b> energia do corpo.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Puxando com ângulo</b><ol><li><span>Um agente puxa uma caixa por 10 m com força de 100 N, por uma corda inclinada 60° com a horizontal (cos 60° = 0,5)</span></li><li><span>Componente útil: 100·0,5 = 50 N</span></li><li><span>τ = F·d·cos θ = 100·10·0,5</span></li></ol><span class=\"res\">τ = 500 J (só metade da força \"trabalha\")</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Trabalho do atrito na frenagem</b><ol><li><span>Um carro freia e desliza 40 m; a força de atrito é de 6.000 N</span></li><li><span>Atrito oposto ao deslocamento: θ = 180°, cos θ = −1</span></li><li><span>τ = 6.000·40·(−1)</span></li></ol><span class=\"res\">τ = −240.000 J: o atrito retirou 240 kJ de energia do carro</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Um carregador que segura uma caixa parado, por muito tempo, realiza grande trabalho sobre ela</span><br>✅ <span class=\"certo\">sem <b>deslocamento</b>, o trabalho sobre a caixa é <b>nulo</b> (o cansaço vem do esforço muscular, não de trabalho mecânico sobre a caixa)</span></li><li>❌ <span class=\"banca\">O trabalho é uma grandeza vetorial, pois depende da direção da força</span><br>✅ <span class=\"certo\">o trabalho é <b>escalar</b> (pode ser positivo ou negativo, sem direção)</span></li><li>❌ <span class=\"banca\">A força normal sobre um carro que anda em pista horizontal realiza trabalho positivo</span><br>✅ <span class=\"certo\">a normal é <b>perpendicular</b> ao deslocamento: trabalho <b>nulo</b></span></li></ol></div>\n<h3>2. Trabalho como área e trabalho de forças variáveis</h3>\n<ul><li><b>Gráfico força × deslocamento</b>: o trabalho é numericamente igual à <b>área</b> sob a curva (com sinal). Para força constante, é um retângulo (F·d); para força que varia linearmente, um triângulo ou trapézio.</li><li><b>Força elástica</b>: como F = k·x cresce linearmente com a deformação, o gráfico é um triângulo, e o trabalho para deformar a mola de 0 a x é <b>τ = k·x²/2</b>. Esse trabalho fica armazenado como <b>energia potencial elástica</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Comprimindo uma mola</b><ol><li><span>Mola de k = 2.000 N/m comprimida 0,1 m</span></li><li><span>τ = k·x²/2 = 2.000·0,01/2</span></li></ol><span class=\"res\">τ = 10 J (note que a força final é 200 N, mas o trabalho não é 200·0,1 = 20 J, pois a força cresce aos poucos)</span></div>\n<ul><li><b>Por que não k·x·x?</b> Porque a força não é constante: começa em zero e termina em k·x; o valor médio é k·x/2, e o trabalho é a força média vezes o deslocamento.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O trabalho para comprimir uma mola de x é k·x², pois a força final é k·x</span><br>✅ <span class=\"certo\">a força cresce de 0 a k·x; o trabalho é a <b>área do triângulo</b>, <b>k·x²/2</b></span></li><li>❌ <span class=\"banca\">No gráfico força × deslocamento, o trabalho corresponde à inclinação da curva</span><br>✅ <span class=\"certo\">corresponde à <b>área</b> sob a curva</span></li></ol></div>\n<h3>3. Trabalho do peso, da normal e do atrito</h3>\n<ul><li><b>Trabalho do peso</b>: depende apenas do <b>desnível</b> h entre o início e o fim, <b>não da trajetória</b>: <b>τ_P = ± m·g·h</b>. É <b>positivo na descida</b> (o peso \"ajuda\") e <b>negativo na subida</b>. Subir 10 m por uma escada, por uma rampa suave ou por um elevador: o trabalho do peso é o mesmo. Forças com essa propriedade são chamadas <b>conservativas</b> (peso, força elástica).</li><li><b>Trabalho da normal</b>: em superfícies fixas, a normal é perpendicular ao deslocamento: <b>trabalho nulo</b>.</li><li><b>Trabalho do atrito cinético</b>: é sempre <b>negativo</b> (para superfícies fixas) e <b>depende da trajetória</b>: quanto maior o caminho percorrido deslizando, maior a energia dissipada. É uma força <b>dissipativa</b> (não conservativa): transforma energia mecânica em <b>calor</b>.</li><li><b>Trabalho da força centrípeta</b>: nulo, pois é perpendicular à velocidade (no MCU, a energia cinética não muda).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Subida por caminhos diferentes</b><ol><li><span>Viatura de 1.500 kg sobe uma serra com desnível de 200 m, por uma estrada sinuosa de 4 km</span></li><li><span>Trabalho do peso: −m·g·h = −1.500·10·200</span></li><li><span>τ_P = −3.000.000 J = −3 MJ</span></li></ol><span class=\"res\">O mesmo valor que teria por uma estrada reta de 1 km com o mesmo desnível (o peso só \"enxerga\" o desnível)</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O trabalho do peso de um corpo que sobe uma rampa depende do comprimento da rampa</span><br>✅ <span class=\"certo\">depende apenas do <b>desnível</b> (m·g·h)</span></li><li>❌ <span class=\"banca\">O trabalho da força de atrito cinético é sempre positivo, pois o atrito é uma força real</span><br>✅ <span class=\"certo\">é <b>negativo</b> (resistente), retirando energia do corpo</span></li><li>❌ <span class=\"banca\">O peso de um carro que se desloca numa estrada plana realiza trabalho</span><br>✅ <span class=\"certo\">deslocamento <b>horizontal</b> e peso <b>vertical</b>: trabalho <b>nulo</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Trabalho</span></span><span class=\"vs\"><span>τ = F·d·cos θ (J)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>θ = 90°</span></span><span class=\"vs\"><span>Trabalho nulo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Trabalho do peso</span></span><span class=\"vs\"><span>± m·g·h, independe da trajetória</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atrito cinético</span></span><span class=\"vs\"><span>Trabalho negativo, depende da trajetória</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mola</span></span><span class=\"vs\"><span>τ = k·x²/2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Área do gráfico F × d</span></span><span class=\"vs\"><span>Trabalho</span></span></button></div></div>\n<h3>4. Aprofundando o conceito: trabalho como transferência de energia</h3>\n<ul><li>O trabalho é a forma de <b>medir quanta energia uma força transfere</b> a um corpo durante um deslocamento. Quando uma força realiza trabalho positivo, entrega energia ao corpo; quando realiza trabalho negativo, retira energia dele e a transfere para outro lugar (para outro corpo, ou para o ambiente, como calor).</li><li><b>Exemplo da descida de serra</b>: o peso realiza trabalho <b>positivo</b> (entrega energia ao caminhão, que tende a ganhar velocidade); os freios, o freio-motor e o ar realizam trabalho <b>negativo</b> (retiram essa energia e a transformam em calor). Se o caminhão desce em velocidade constante, os dois trabalhos se equilibram, e a energia potencial perdida vira, integralmente, calor nos freios e no motor.</li><li><b>Forças conservativas</b> (peso, força elástica): o trabalho que realizam <b>não depende da trajetória</b> e pode ser \"devolvido\". Subindo, o peso retira energia cinética e a guarda como <b>energia potencial</b>; descendo, devolve. Por isso se associa a elas uma <b>energia potencial</b> (próximo tópico).</li><li><b>Forças dissipativas</b> (atrito cinético, resistência do ar): o trabalho <b>depende da trajetória</b> e a energia retirada <b>não volta</b> como energia mecânica; vira energia térmica (aquecimento de pneus, freios, ar).</li><li><b>Trabalho de forças internas</b>: os músculos de um ciclista ou o motor de um carro são fontes internas de energia. A força <b>externa</b> que acelera o carro é o atrito do chão, que, curiosamente, não realiza trabalho sobre o pneu no ponto de contato (que está em repouso, no rolamento sem deslizar): a energia vem do <b>combustível</b>, por meio do motor. Esse detalhe raramente é cobrado, mas ajuda a entender por que \"quem fornece a energia\" (o motor) e \"quem aplica a força externa\" (o chão) não são a mesma coisa.</li><li><b>Convenção de sinais em sistemas</b>: diz-se que um sistema <b>realiza</b> trabalho quando entrega energia ao exterior (o motor que ergue uma carga) e que <b>recebe</b> trabalho quando o exterior lhe entrega energia (a mola que é comprimida).</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Descida com freio-motor</b><p>Um caminhão de 30 t desce 300 m de desnível em velocidade constante de 15 m/s. Para onde vai a energia e em quanto tempo?</p><details><summary>Ver a solução comentada</summary><p>O peso realiza trabalho de 30.000·10·300 = <b>90 MJ</b>. Como a velocidade é constante, a energia cinética não muda: os 90 MJ são retirados pelas forças resistivas (freio-motor, freios, ar e rolamento) e viram calor. Se a estrada tem 6 km, a descida leva 6.000/15 = 400 s; a potência média dissipada é 90 MJ/400 s = <b>225 kW</b>. Se toda essa potência fosse dissipada só pelos freios de serviço, eles superaqueceriam; por isso o freio-motor é indispensável.</p></details></div>\n<h3>5. Potência em operações e no dia a dia</h3>\n<ul><li><b>Viatura em perseguição</b>: a velocidade máxima de um veículo é atingida quando toda a potência útil disponível é gasta para vencer as resistências (P = F_resist·v). Como as resistências crescem com a velocidade (e a potência contra o ar cresce com v³), ganhar alguns km/h na velocidade máxima exige grande aumento de potência: um carro com 50% a mais de potência não anda 50% mais rápido; anda cerca de 15% mais rápido no limite em que o ar domina (pois v ∝ ∛P).</li><li><b>Reboque de veículos pesados</b>: o caminhão-guincho precisa de potência para vencer a soma das resistências do conjunto; em subidas, a componente do peso do rebocado entra na conta, e a velocidade cai.</li><li><b>Geradores e equipamentos de apoio</b>: um gerador de 5 kW alimenta, ao mesmo tempo, equipamentos cuja potência somada não ultrapasse esse valor; a energia que consome em combustível é maior que a entregue, por causa do rendimento.</li><li><b>Ecodireção</b>: os maiores ganhos vêm de (1) evitar acelerações e frenagens desnecessárias (cada frenagem transforma energia cinética, que custou combustível, em calor); (2) manter velocidade moderada (menos potência contra o ar); (3) usar a marcha adequada (motor na faixa de melhor rendimento); (4) calibrar pneus e reduzir peso e arrasto (bagageiros vazios).</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Velocidade máxima e potência</b><ol><li><span>Um veículo atinge 150 km/h com 60 kW, quando quase toda a resistência é aerodinâmica (P ∝ v³). Que velocidade máxima teria com 90 kW?</span></li><li><span>v ∝ ∛P → v₂ = 150·∛(90/60) = 150·∛1,5</span></li><li><span>∛1,5 ≈ 1,145 → v₂ ≈ 172 km/h</span></li></ol><span class=\"res\">≈ 172 km/h: 50% mais potência, só ≈ 15% mais velocidade</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Um veículo com o dobro da potência de outro, de mesma forma e massa, atinge velocidade máxima duas vezes maior</span><br>✅ <span class=\"certo\">com resistência dominada pelo ar (P ∝ v³), a velocidade máxima cresce com a <b>raiz cúbica</b> da potência: ≈ <b>26%</b> a mais</span></li><li>❌ <span class=\"banca\">Numa descida em velocidade constante, a energia potencial perdida pelo veículo se transforma em energia cinética</span><br>✅ <span class=\"certo\">com velocidade constante, a Ec <b>não muda</b>; a energia potencial vira <b>calor</b> pelas forças resistivas</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Peso na descida</span></span><span class=\"vs\"><span>Trabalho positivo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Forças conservativas</span></span><span class=\"vs\"><span>Trabalho independe da trajetória (peso, elástica)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Forças dissipativas</span></span><span class=\"vs\"><span>Energia vira calor (atrito, ar)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade máxima</span></span><span class=\"vs\"><span>P_útil = F_resist·v</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Potência dobrada (ar)</span></span><span class=\"vs\"><span>Velocidade máxima ≈ +26%</span></span></button></div></div>\n<h3>6. Casos práticos integrados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Freio superaquecido na serra</b><p>Um ônibus desce uma serra usando apenas o freio de serviço. Depois de alguns quilômetros, o motorista percebe que precisa apertar cada vez mais o pedal para obter o mesmo efeito. O que está acontecendo?</p><details><summary>Ver a solução comentada</summary><p>Os freios estão dissipando, como calor, toda a energia potencial liberada na descida (o peso realiza trabalho positivo contínuo). A temperatura dos discos e das pastilhas sobe muito, e o coeficiente de atrito cai (*fading*); em freios a tambor, a dilatação também prejudica o contato. A solução é usar o <b>freio-motor</b> (marcha reduzida) e o retarder, quando houver, dividindo a dissipação e mantendo os freios de serviço frios para as emergências.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A potência do guincho de pátio</b><p>O pátio de remoção precisa de um guincho capaz de erguer veículos de até 2.500 kg a 1,5 m em 15 s. O fornecedor oferece motores de 2 kW, 3 kW e 5 kW, todos com rendimento de 80%. Qual escolher?</p><details><summary>Ver a solução comentada</summary><p>Trabalho útil: 2.500·10·1,5 = 37.500 J. Potência útil: 37.500/15 = 2.500 W. Potência do motor: 2.500/0,8 = <b>3.125 W</b>. O de 3 kW é insuficiente; o de <b>5 kW</b> atende com folga.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Ultrapassagem em aclive</b><p>Um carro popular (potência útil de 50 kW, massa de 1.000 kg) segue um caminhão a 20 m/s num aclive com sen θ = 0,06; as demais resistências somam 600 N. Sobra potência para ultrapassar?</p><details><summary>Ver a solução comentada</summary><p>Contra o peso: 1.000·10·0,06 = 600 N. Resistência total: 1.200 N. Potência para manter 20 m/s: 1.200·20 = <b>24 kW</b>. Sobram 26 kW para acelerar. Para ir de 20 a 25 m/s, ΔEc = 1.000·(625 − 400)/2 = 112,5 kJ, que levaria cerca de 112,5/26 ≈ <b>4,3 s</b> (se toda a sobra fosse usada). Na prática, a potência disponível depende da marcha e da rotação, e a ultrapassagem exige longo trecho livre.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: A conta de energia da base operacional</b><p>Uma base mantém 10 lâmpadas LED de 12 W acesas 24 h por dia e um ar-condicionado de 1.200 W ligado 10 h por dia. Qual o consumo mensal (30 dias)?</p><details><summary>Ver a solução comentada</summary><p>Lâmpadas: 10·12 W·24 h = 2,88 kWh/dia. Ar: 1,2 kW·10 h = 12 kWh/dia. Total: 14,88 kWh/dia → <b>≈ 446 kWh/mês</b>. O ar-condicionado responde por cerca de 80%.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: O empurrão no carro sem bateria</b><p>Três agentes empurram um carro de 1.200 kg (resistência ao rolamento de 180 N) por 20 m, partindo do repouso, cada um com 150 N na direção do movimento. Com que velocidade o carro estará ao final?</p><details><summary>Ver a solução comentada</summary><p>Força total: 450 N. Resultante: 450 − 180 = 270 N. Trabalho da resultante: 270·20 = 5.400 J = Ec. v² = 2·5.400/1.200 = 9 → <b>v = 3 m/s</b> (≈ 11 km/h), suficiente para \"pegar no tranco\" em muitos veículos com câmbio manual.</p></details></div>\n<h3>7. Perguntas conceituais em forma de diálogo</h3>\n<ul><li><b>\"Se eu carrego um galão por um corredor plano, estou fazendo trabalho sobre ele?\"</b> A força que você faz para segurá-lo é vertical e o deslocamento é horizontal: o trabalho dessa força é nulo. (Seu corpo gasta energia, mas não a transfere ao galão como energia mecânica.)</li><li><b>\"Por que o trabalho do peso não depende do caminho?\"</b> Porque só a componente vertical do deslocamento \"conta\" para uma força vertical; qualquer caminho entre dois pontos tem o mesmo desnível.</li><li><b>\"Se a força do motor empurra o carro para a frente, por que dizem que é o atrito do chão?\"</b> O motor é interno ao carro; para acelerar o conjunto, é preciso uma força externa. O pneu empurra o chão para trás e o chão empurra o pneu para a frente. A energia, porém, vem do combustível.</li><li><b>\"Potência alta significa carro mais rápido?\"</b> Significa capacidade de realizar trabalho mais depressa: acelerar mais rápido, subir mais rápido, atingir velocidade máxima maior. Mas a velocidade máxima cresce pouco com a potência por causa da resistência do ar.</li><li><b>\"Por que se fala em cavalos de potência e em torque?\"</b> O torque diz quanto o motor \"puxa\" em cada rotação; a potência combina o torque com a rapidez de giro (P = M·ω).</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Fading</span></span><span class=\"vs\"><span>Freio superaquecido perde atrito</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Escolha de motor</span></span><span class=\"vs\"><span>P_motor = P_útil/η</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Potência para manter v</span></span><span class=\"vs\"><span>P = F_resist·v</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Galão no corredor</span></span><span class=\"vs\"><span>Trabalho nulo da força vertical</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Torque x potência</span></span><span class=\"vs\"><span>P = M·ω</span></span></button></div></div>\n<h3>8. Síntese do tópico</h3>\n<table class=\"tab\"><thead><tr><th>Conceito</th><th>Fórmula</th><th>Observação</th></tr></thead><tbody><tr><td>Trabalho de força constante</td><td>τ = F·d·cos θ</td><td>θ entre força e deslocamento; J = N·m</td></tr><tr><td>Trabalho nulo</td><td>θ = 90° ou d = 0</td><td>normal em piso fixo, força centrípeta, segurar sem andar</td></tr><tr><td>Trabalho do peso</td><td>τ = ± m·g·h</td><td>independe da trajetória (conservativa)</td></tr><tr><td>Trabalho do atrito cinético</td><td>τ = −Fat·d</td><td>dissipativo; depende da trajetória</td></tr><tr><td>Trabalho da força elástica</td><td>k·x²/2</td><td>área do triângulo</td></tr><tr><td>Teorema da energia cinética</td><td>τ_total = ΔEc</td><td>dispensa o tempo</td></tr><tr><td>Potência média</td><td>P = τ/Δt</td><td>W = J/s</td></tr><tr><td>Potência e velocidade</td><td>P = F·v</td><td>potência fixa: mais v, menos F</td></tr><tr><td>Potência e torque</td><td>P = M·ω</td><td>câmbio troca torque por rotação</td></tr><tr><td>Rendimento</td><td>η = útil/total</td><td>em sequência, multiplica</td></tr><tr><td>Energia elétrica consumida</td><td>E = P·Δt</td><td>kWh = 3,6 MJ</td></tr></tbody></table>\n<h3>9. Mapa do raciocínio</h3>\n<div class=\"lt-fluxo\"><span>A questão pede trabalho?</span> <em>→</em> <span>Identifique força, deslocamento e ângulo; ou use ±mgh para o peso; ou área do gráfico</span> <em>→</em> <span>A questão relaciona forças com velocidades e distâncias?</span> <em>→</em> <span>Use o teorema da energia cinética (trabalho total = ΔEc)</span> <em>→</em> <span>A questão fala em rapidez, tempo ou velocidade com força?</span> <em>→</em> <span>Potência: τ/Δt ou F·v</span> <em>→</em> <span>A questão fala em perdas, consumo ou eficiência?</span> <em>→</em> <span>Rendimento: útil = η·total</span></div>\n<h3>10. Glossário do tópico</h3>\n<ul><li><b>Trabalho (τ)</b>: energia transferida por uma força ao longo de um deslocamento (J).</li><li><b>Trabalho motor</b>: positivo; a força fornece energia ao corpo.</li><li><b>Trabalho resistente</b>: negativo; a força retira energia do corpo.</li><li><b>Força conservativa</b>: seu trabalho não depende da trajetória (peso, elástica).</li><li><b>Força dissipativa</b>: transforma energia mecânica em térmica (atrito, resistência do ar).</li><li><b>Energia cinética</b>: m·v²/2.</li><li><b>Potência</b>: trabalho por unidade de tempo (W).</li><li><b>Cavalo-vapor (cv)</b>: ≈ 735 W.</li><li><b>Quilowatt-hora (kWh)</b>: energia de 1 kW por 1 h = 3,6 MJ.</li><li><b>Rendimento (η)</b>: fração útil da energia ou da potência recebida.</li><li><b>Torque (momento)</b>: capacidade de girar; com a rotação, define a potência do motor.</li><li><b>Fading</b>: perda de eficiência dos freios por superaquecimento.</li></ul>\n<div class=\"lt-dica\"><b class=\"lt-tit\">💡 Dica de memorização</b> Para não errar o sinal do trabalho, pergunte: \"<b>essa força está ajudando ou atrapalhando o movimento?</b>\" Ajudando: positivo. Atrapalhando: negativo. Nem uma coisa nem outra (perpendicular): zero.</div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O trabalho total sobre um veículo que sobe uma serra com velocidade constante é positivo, pois o motor trabalha muito</span><br>✅ <span class=\"certo\">com velocidade constante, ΔEc = 0: o trabalho <b>total</b> é <b>nulo</b> (o do motor/atrito do chão compensa o do peso e das resistências)</span></li><li>❌ <span class=\"banca\">A unidade W·h é unidade de potência</span><br>✅ <span class=\"certo\">W·h é unidade de <b>energia</b> (1 Wh = 3.600 J)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ajuda o movimento</span></span><span class=\"vs\"><span>Trabalho positivo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Atrapalha</span></span><span class=\"vs\"><span>Negativo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Perpendicular</span></span><span class=\"vs\"><span>Zero</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>τ_total = ΔEc</span></span><span class=\"vs\"><span>Teorema da energia cinética</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>P = F·v</span></span><span class=\"vs\"><span>Potência e velocidade</span></span></button></div></div>\n<h3>11. Três frases para a prova</h3>\n<ul><li>\"<b>Trabalho é força vezes deslocamento na direção da força.</b>\" Sem deslocamento ou com força perpendicular, não há trabalho.</li><li>\"<b>O trabalho total é a variação da energia cinética.</b>\" É o caminho mais curto quando a questão dá forças e distâncias, mas não dá o tempo.</li><li>\"<b>Potência é rapidez.</b>\" O mesmo trabalho feito em metade do tempo exige o dobro de potência; com potência fixa, mais velocidade significa menos força disponível.</li><li>Revise também as unidades: joule e quilowatt-hora para energia; watt, quilowatt e cavalo-vapor para potência. Uma resposta com a unidade errada é, quase sempre, uma alternativa preparada para quem confundiu os conceitos.</li></ul>\n<h3>12. Resolvendo múltipla escolha: o raciocínio por trás das alternativas</h3>\n<ul><li>Nas provas de múltipla escolha, as alternativas erradas costumam corresponder a <b>erros previsíveis</b>: esquecer o cos θ, esquecer o quadrado da velocidade, esquecer a divisão por 2 na energia cinética, usar o comprimento da rampa no lugar da altura, confundir kW com kWh, inverter o rendimento. Conhecer esses erros ajuda a <b>conferir</b> a resposta.</li></ul>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 1: trabalho com ângulo</b><p>\"Uma força de 50 N, que forma 60° com o deslocamento, desloca um corpo por 4 m. O trabalho vale: (A) 200 J; (B) 100 J; (C) 173 J; (D) 50 J; (E) 400 J.\"</p><details><summary>Ver a solução comentada</summary><p>Correta: τ = 50·4·0,5 = <b>100 J (B)</b>. (A) esqueceu o cos θ; (C) usou sen 60° no lugar de cos 60°; (D) e (E) não correspondem a nenhum raciocínio válido. Dica: o ângulo é <b>entre a força e o deslocamento</b>; se a questão der o ângulo com a vertical, use o complementar.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 2: energia cinética</b><p>\"Um carro de 1.000 kg a 72 km/h tem energia cinética de: (A) 2.592 kJ; (B) 200 kJ; (C) 400 kJ; (D) 20 kJ; (E) 36 kJ.\"</p><details><summary>Ver a solução comentada</summary><p>Converta: 72 km/h = 20 m/s. Ec = 1.000·400/2 = <b>200 kJ (B)</b>. (A) usou 72 sem converter (1.000·72²/2 = 2.592.000 J); (C) esqueceu o /2; (D) esqueceu o quadrado (m·v = 20.000); (E) não confere.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 3: potência e rendimento</b><p>\"Um motor de rendimento 40% fornece 20 kW de potência útil. A potência que ele recebe é: (A) 8 kW; (B) 50 kW; (C) 28 kW; (D) 12 kW; (E) 60 kW.\"</p><details><summary>Ver a solução comentada</summary><p>P_total = 20/0,4 = <b>50 kW (B)</b>. (A) multiplicou por 0,4 em vez de dividir; (C) somou 40% de 20 a 20; (D) subtraiu; (E) não confere. Conferência: útil sempre <b>menor</b> que total.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 4: trabalho do peso na rampa</b><p>\"Um carrinho de 20 kg é levado ao topo de uma rampa de 10 m de comprimento e 2 m de altura. O trabalho do peso é: (A) −2.000 J; (B) −400 J; (C) +400 J; (D) −200 J; (E) zero.\"</p><details><summary>Ver a solução comentada</summary><p>τ = −m·g·h = −20·10·2 = <b>−400 J (B)</b>. (A) usou o comprimento da rampa; (C) errou o sinal; (D) esqueceu g; (E) confundiu com a normal.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Exemplo 5: kW x kWh</b><p>\"Um aparelho de 3 kW funciona por 2 h. A energia consumida é: (A) 1,5 kWh; (B) 6 kW; (C) 6 kWh; (D) 21,6 kJ; (E) 5 kWh.\"</p><details><summary>Ver a solução comentada</summary><p>E = 3 kW·2 h = <b>6 kWh (C)</b>. (B) tem a unidade errada (kW é potência); (D) erro de conversão (6 kWh = 21,6 MJ, e não kJ); (A) dividiu; (E) somou.</p></details></div>\n<h3>13. Trabalho de forças variáveis em situações reais</h3>\n<ul><li>Na prática, muitas forças não são constantes: a força de um motor muda com a rotação, a resistência do ar cresce com a velocidade, a força de um cinto aumenta à medida que se estica. O trabalho continua sendo a <b>área sob a curva força × deslocamento</b>.</li><li><b>Estimativas pela força média</b>: quando a força varia de modo aproximadamente linear, o trabalho é a <b>força média</b> vezes o deslocamento (como na mola: k·x/2 vezes x).</li><li><b>Perícia e deformação</b>: em testes de colisão, os engenheiros medem a curva força × deformação da estrutura do carro. A área sob essa curva é a energia que a estrutura consegue absorver; projetos melhores absorvem mais energia com forças mais baixas e constantes, protegendo os ocupantes.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Força variável linear</b><ol><li><span>Uma barreira de contenção exerce força que cresce linearmente de 0 a 200.000 N enquanto se deforma 1,5 m</span></li><li><span>Trabalho = área do triângulo = 200.000·1,5/2</span></li><li><span>= 150.000 J</span></li></ol><span class=\"res\">A barreira absorve 150 kJ, suficientes para parar um carro de 1.200 kg a ≈ 15,8 m/s (57 km/h)</span></div>\n<ul><li><b>Última palavra</b>: trabalho é a \"moeda\" que mede a energia trocada por meio de forças. No próximo tópico, essa moeda será guardada em \"contas\" chamadas energias cinética e potencial, e a pergunta passará a ser quanto se conserva e quanto se dissipa.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Alternativa sem cos θ</span></span><span class=\"vs\"><span>Erro clássico</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ec sem /2</span></span><span class=\"vs\"><span>Erro clássico</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Útil > total</span></span><span class=\"vs\"><span>Impossível</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rampa</span></span><span class=\"vs\"><span>Use a altura</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Área de F × d</span></span><span class=\"vs\"><span>Trabalho, mesmo com força variável</span></span></button></div></div>\n<h3>14. Trabalho e potência no teste de aptidão física</h3>\n<ul><li>Os testes físicos dos concursos policiais (barra fixa, flexões, corrida, salto) são boas situações para aplicar o conceito de trabalho.</li><li><b>Barra fixa</b>: a cada repetição, o candidato eleva o próprio corpo de uma altura h (cerca de 0,5 m). O trabalho contra o peso, por subida, é m·g·h. Na descida controlada, o peso realiza trabalho positivo e os músculos \"freiam\" o corpo, dissipando energia como calor.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Barra fixa</b><ol><li><span>Candidato de 75 kg faz 10 repetições, elevando o centro de massa 0,5 m em cada uma, em 30 s</span></li><li><span>Trabalho por subida: 75·10·0,5 = 375 J</span></li><li><span>Total nas subidas: 3.750 J</span></li><li><span>Potência média: 3.750/30 = 125 W</span></li></ol><span class=\"res\">≈ 125 W de potência útil média (o consumo metabólico é cerca de quatro vezes maior)</span></div>\n<ul><li><b>Flexão de braço</b>: o corpo funciona como uma alavanca apoiada nos pés; os braços sustentam cerca de 2/3 do peso, e o deslocamento vertical dos ombros é de 0,3 a 0,4 m. O trabalho por repetição é menor que na barra.</li><li><b>Corrida</b>: em terreno plano e velocidade constante, o trabalho mecânico líquido sobre o corpo, em cada passada, é praticamente nulo (a energia cinética média não muda), mas os músculos gastam energia continuamente para acelerar e frear pernas e braços e para vencer a resistência do ar. O gasto energético cresce com a velocidade.</li><li><b>Subida de escadas e rampas</b>: o trabalho contra o peso depende só do desnível; subir correndo exige <b>mais potência</b>, não mais trabalho.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Subir uma escada correndo exige mais trabalho contra o peso do que subi-la andando</span><br>✅ <span class=\"certo\">o <b>trabalho</b> é o mesmo (m·g·h); correndo, exige-se mais <b>potência</b> (menos tempo)</span></li><li>❌ <span class=\"banca\">Na barra fixa, durante a descida controlada, o peso do candidato realiza trabalho negativo</span><br>✅ <span class=\"certo\">na <b>descida</b>, o peso realiza trabalho <b>positivo</b>; os músculos é que realizam trabalho negativo, freando o corpo</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Barra fixa</span></span><span class=\"vs\"><span>m·g·h por subida</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Subir correndo</span></span><span class=\"vs\"><span>Mesmo trabalho, mais potência</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Corrida em plano constante</span></span><span class=\"vs\"><span>Trabalho líquido sobre o corpo ≈ 0</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Descida controlada</span></span><span class=\"vs\"><span>Músculos dissipam energia</span></span></button></div></div>\n<ul><li><b>Salto vertical</b>: no impulso, as pernas realizam trabalho que se converte em energia cinética; no ar, essa energia vira potencial gravitacional. Um salto que eleva o centro de massa em 0,5 m, para uma pessoa de 80 kg, exige pelo menos 80·10·0,5 = <b>400 J</b>, entregues em cerca de 0,3 s: uma potência de pico superior a <b>1.300 W</b>. É por isso que testes de impulsão medem, indiretamente, a potência muscular.</li><li><b>Carregar equipamento</b>: um colete e um armamento que somam 15 kg aumentam o trabalho em cada subida de escada (m maior em m·g·h) e o gasto energético na corrida. Treinar com carga simula essas exigências.</li><li><b>Lição geral do tópico aplicada ao corpo</b>: trabalho mede quanta energia se transfere; potência mede quão depressa. Força sem deslocamento cansa, mas não realiza trabalho mecânico sobre o objeto; deslocamento sem força na direção do movimento também não. E o corpo, como qualquer motor, tem rendimento baixo: a maior parte da energia dos alimentos vira calor.</li></ul>\n<h3>15. Teorema da energia cinética</h3>\n<ul><li><b>Energia cinética</b>: energia associada ao movimento: <b>Ec = m·v²/2</b> (joules). Proporcional à massa e ao <b>quadrado</b> da velocidade.</li><li><b>Teorema da energia cinética (TEC)</b>: o <b>trabalho da força resultante</b> (ou a soma dos trabalhos de todas as forças) sobre um corpo é igual à <b>variação de sua energia cinética</b>: <b>τ_R = Ec_final − Ec_inicial</b>.</li><li><b>Leitura</b>: se o trabalho total é positivo, o corpo ganha velocidade; se é negativo, perde; se é nulo (como no MCU), a velocidade escalar não muda.</li><li><b>Vantagem do teorema</b>: resolve problemas <b>sem precisar do tempo</b> nem da aceleração. Para frenagens, ele leva à mesma conclusão de Torricelli: a distância de frenagem é proporcional ao <b>quadrado</b> da velocidade.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Distância de frenagem pelo TEC</b><ol><li><span>Carro de 1.000 kg a 20 m/s; força de atrito de 8.000 N até parar</span></li><li><span>Ec inicial: 1.000·400/2 = 200.000 J; Ec final = 0</span></li><li><span>τ_atrito = −8.000·d = 0 − 200.000</span></li><li><span>d = 25 m</span></li></ol><span class=\"res\">25 m (o mesmo que v²/2a, com a = 8 m/s²)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Velocidade dobrada, energia quadruplicada</b><ol><li><span>O mesmo carro a 40 m/s, com a mesma força de frenagem</span></li><li><span>Ec = 1.000·1.600/2 = 800.000 J (4 vezes mais)</span></li><li><span>d = 800.000/8.000</span></li></ol><span class=\"res\">d = 100 m: o atrito precisa trabalhar 4 vezes mais, ao longo de 4 vezes mais distância</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Trabalho de várias forças</b><ol><li><span>Caixa de 20 kg arrastada 5 m em piso horizontal por força de 100 N (horizontal); atrito de 60 N; parte do repouso</span></li><li><span>τ_F = 100·5 = 500 J; τ_atrito = −60·5 = −300 J; τ_peso = τ_normal = 0</span></li><li><span>τ total = 200 J = Ec final</span></li><li><span>20·v²/2 = 200 → v² = 20</span></li></ol><span class=\"res\">v ≈ 4,5 m/s</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O teorema da energia cinética afirma que o trabalho da força peso é igual à variação da energia cinética</span><br>✅ <span class=\"certo\">é o trabalho da força <b>resultante</b> (de todas as forças)</span></li><li>❌ <span class=\"banca\">Se a velocidade de um veículo triplicar, sua energia cinética triplicará</span><br>✅ <span class=\"certo\">Ec ∝ v²: fica <b>nove</b> vezes maior</span></li></ol></div>\n<h3>16. Potência</h3>\n<ul><li><b>Potência</b> é a <b>rapidez</b> com que se realiza trabalho (ou se transfere/transforma energia): <b>P = τ/Δt</b> (potência média). Dois motores podem realizar o mesmo trabalho; o mais potente o faz em menos tempo.</li><li><b>Unidade</b>: <b>watt (W)</b> = J/s. Múltiplos: quilowatt (kW = 1.000 W), megawatt (MW = 10⁶ W).</li><li><b>Unidades usuais em veículos</b>: <b>cavalo-vapor (cv)</b> ≈ <b>735 W</b> e <b>horsepower (hp)</b> ≈ <b>746 W</b>. Um motor de 100 cv tem cerca de 73,5 kW.</li><li><b>Potência e velocidade</b>: para uma força constante na direção do movimento, <b>P = F·v</b>. A potência que o motor entrega às rodas é igual à força de tração vezes a velocidade.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Força de tração disponível</b><ol><li><span>Um carro com potência útil de 60 kW anda a 30 m/s (108 km/h). Qual a força de tração?</span></li><li><span>P = F·v → F = P/v</span></li><li><span>F = 60.000/30</span></li></ol><span class=\"res\">F = 2.000 N (a 15 m/s, com a mesma potência, a força disponível seria 4.000 N)</span></div>\n<ul><li><b>Consequência</b>: com potência limitada, quanto <b>maior a velocidade</b>, <b>menor a força</b> de tração disponível. Por isso o carro acelera bem em baixa velocidade e cada vez menos à medida que fica mais rápido; e por isso se reduz a marcha para subir uma serra ou ultrapassar (marcha baixa: menor velocidade e maior força nas rodas, aproveitando a potência).</li><li><b>Energia consumida</b>: E = P·Δt. Daí a unidade comercial <b>quilowatt-hora (kWh)</b>: energia de 1 kW durante 1 h = <b>3,6 × 10⁶ J</b> (3,6 MJ). O kWh é unidade de <b>energia</b>, não de potência.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Ar-condicionado da viatura</b><ol><li><span>Equipamento de 1,5 kW ligado por 4 h</span></li><li><span>E = P·Δt = 1,5 kW · 4 h = 6 kWh</span></li><li><span>Em joules: 6·3,6 × 10⁶ = 2,16 × 10⁷ J</span></li></ol><span class=\"res\">6 kWh (≈ 21,6 MJ)</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O quilowatt-hora é uma unidade de potência</span><br>✅ <span class=\"certo\">é unidade de <b>energia</b> (potência × tempo): 1 kWh = 3,6 × 10⁶ J</span></li><li>❌ <span class=\"banca\">Um cavalo-vapor equivale a 1.000 W</span><br>✅ <span class=\"certo\">1 cv ≈ <b>735 W</b></span></li><li>❌ <span class=\"banca\">Com a mesma potência, um veículo dispõe de maior força de tração em velocidades mais altas</span><br>✅ <span class=\"certo\">P = F·v: com P fixa, <b>maior v → menor F</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>TEC</span></span><span class=\"vs\"><span>τ_resultante = ΔEc</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Ec</span></span><span class=\"vs\"><span>m·v²/2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Potência</span></span><span class=\"vs\"><span>P = τ/Δt = F·v</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 cv</span></span><span class=\"vs\"><span>≈ 735 W</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 kWh</span></span><span class=\"vs\"><span>3,6 × 10⁶ J (energia)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Potência fixa</span></span><span class=\"vs\"><span>Mais velocidade, menos força</span></span></button></div></div>\n<h3>17. Rendimento</h3>\n<ul><li>Nenhuma máquina converte toda a energia recebida em energia útil: parte é <b>dissipada</b> (calor, atrito, ruído, vibração). <b>Rendimento</b>: <b>η = P_útil / P_total</b> (ou E_útil/E_total), número entre 0 e 1, muitas vezes expresso em porcentagem.</li><li><b>P_total = P_útil + P_dissipada</b>.</li></ul>\n<table class=\"tab\"><thead><tr><th>Máquina</th><th>Rendimento típico</th><th>Para onde vai o resto</th></tr></thead><tbody><tr><td>Motor a combustão de automóvel (gasolina)</td><td>25% a 35%</td><td>calor no escapamento e no sistema de arrefecimento, atritos internos</td></tr><tr><td>Motor a diesel</td><td>35% a 45%</td><td>idem</td></tr><tr><td>Motor elétrico</td><td>85% a 95%</td><td>aquecimento dos enrolamentos e atritos</td></tr><tr><td>Lâmpada incandescente</td><td>≈ 5% (em luz)</td><td>calor</td></tr><tr><td>Lâmpada LED</td><td>muito maior que a incandescente</td><td>menos calor para a mesma luz</td></tr><tr><td>Ser humano pedalando</td><td>≈ 20% a 25%</td><td>calor corporal</td></tr></tbody></table>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Motor do caminhão</b><ol><li><span>Motor recebe do combustível 300 kW e entrega às rodas 105 kW</span></li><li><span>η = 105/300 = 0,35 = 35%</span></li><li><span>P_dissipada = 300 − 105 = 195 kW</span></li></ol><span class=\"res\">Rendimento de 35%; 195 kW viram calor</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Potência útil de um elevador</b><ol><li><span>Um guincho eleva 500 kg a 12 m em 20 s, com rendimento de 60%</span></li><li><span>Trabalho útil: m·g·h = 500·10·12 = 60.000 J</span></li><li><span>P_útil = 60.000/20 = 3.000 W</span></li><li><span>P_total = 3.000/0,6 = 5.000 W</span></li></ol><span class=\"res\">O motor consome 5 kW para entregar 3 kW úteis</span></div>\n<ul><li><b>Rendimento em cadeia</b>: se uma máquina alimenta outra, o rendimento global é o <b>produto</b> dos rendimentos: motor (35%) × transmissão (90%) = 31,5% do combustível chega às rodas.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Um motor com rendimento de 30% desperdiça 30% da energia que recebe</span><br>✅ <span class=\"certo\">aproveita 30% e <b>dissipa 70%</b></span></li><li>❌ <span class=\"banca\">Em duas máquinas ligadas em sequência, com rendimentos de 80% e 50%, o rendimento total é de 65%</span><br>✅ <span class=\"certo\">o total é o <b>produto</b>: 0,8·0,5 = <b>40%</b></span></li><li>❌ <span class=\"banca\">Os motores elétricos têm, em geral, rendimento menor que os motores a combustão</span><br>✅ <span class=\"certo\">os elétricos têm rendimento <b>muito maior</b> (85% a 95%)</span></li></ol></div>\n<h3>18. Potência no trânsito</h3>\n<ul><li><b>Subir uma serra</b>: a potência necessária para vencer o peso em velocidade constante é <b>P = m·g·v·sen θ</b> (a componente do peso vezes a velocidade). Caminhões pesados, com potência limitada, só conseguem subir em velocidade baixa; daí as <b>faixas adicionais para veículos lentos</b> em aclives.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Caminhão na rampa</b><ol><li><span>Caminhão de 40 t sobe rampa com sen θ = 0,05 e tem 300 kW disponíveis para vencer o peso</span></li><li><span>P = m·g·sen θ·v → v = P/(m·g·sen θ)</span></li><li><span>v = 300.000/(400.000·0,05) = 15 m/s</span></li></ol><span class=\"res\">No máximo 15 m/s (54 km/h), sem contar outras resistências</span></div>\n<ul><li><b>Alta velocidade e consumo</b>: a resistência do ar cresce com <b>v²</b> e a potência para vencê-la, F·v, cresce com <b>v³</b>. Dobrar a velocidade exige cerca de <b>oito vezes</b> mais potência só contra o ar. Por isso o consumo por quilômetro aumenta muito acima de 80 a 100 km/h.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Potência contra o ar</b><ol><li><span>Um carro precisa de 8 kW para vencer o ar a 72 km/h. Quanto precisaria a 144 km/h?</span></li><li><span>Velocidade × 2 → força × 4 → potência × 8</span></li><li><span>8 kW × 8</span></li></ol><span class=\"res\">64 kW só para vencer o ar</span></div>\n<ul><li><b>Ultrapassagem</b>: exige potência extra para acelerar. Por isso se reduz a marcha antes de ultrapassar (o motor gira mais e entrega mais potência, com mais força nas rodas) e se evita ultrapassar em aclives com veículos de baixa potência.</li><li><b>Potência de frenagem</b>: os freios dissipam a energia cinética em pouco tempo. Um carro de 1.200 kg que para de 30 m/s em 4 s dissipa 540 kJ em 4 s: <b>135 kW</b> em média, mais que a potência de muitos motores. Em descidas longas, essa dissipação contínua superaquece os freios: usa-se o <b>freio-motor</b>.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Potência média dos freios</b><ol><li><span>Carro de 1.200 kg, de 30 m/s a 0 em 4 s</span></li><li><span>Ec = 1.200·900/2 = 540.000 J</span></li><li><span>P = 540.000/4 = 135.000 W</span></li></ol><span class=\"res\">≈ 135 kW (≈ 184 cv)</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Dobrar a velocidade de um veículo dobra a potência necessária para vencer a resistência do ar</span><br>✅ <span class=\"certo\">a força cresce com v² e a potência com <b>v³</b>: cerca de <b>8 vezes</b></span></li><li>❌ <span class=\"banca\">Reduzir a marcha para subir uma serra diminui a potência do motor</span><br>✅ <span class=\"certo\">a marcha reduzida permite ao motor girar mais e entregar <b>mais força</b> nas rodas, aproveitando melhor a potência</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rendimento</span></span><span class=\"vs\"><span>η = útil/total</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Motores em sequência</span></span><span class=\"vs\"><span>Multiplicam-se os rendimentos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Subida em velocidade constante</span></span><span class=\"vs\"><span>P = m·g·v·sen θ</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Potência contra o ar</span></span><span class=\"vs\"><span>∝ v³</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Potência dos freios</span></span><span class=\"vs\"><span>Ec/Δt</span></span></button></div></div>\n<h3>19. Treino guiado: exercícios resolvidos</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 1</b><ol><li><span>Força horizontal de 200 N empurra um carrinho por 15 m na direção da força. Trabalho?</span></li><li><span>τ = F·d·cos 0° = 200·15·1</span></li></ol><span class=\"res\">3.000 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 2</b><ol><li><span>Força de 80 N, inclinada 60° em relação ao deslocamento de 5 m. Trabalho?</span></li><li><span>cos 60° = 0,5</span></li><li><span>τ = 80·5·0,5</span></li></ol><span class=\"res\">200 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 3</b><ol><li><span>Trabalho do peso de uma caixa de 30 kg levada do chão a uma prateleira de 2 m</span></li><li><span>τ_P = −m·g·h = −30·10·2</span></li></ol><span class=\"res\">−600 J (resistente)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 4</b><ol><li><span>Trabalho do peso de um caminhão de 10 t que desce 50 m de desnível</span></li><li><span>τ_P = +m·g·h = 10.000·10·50</span></li></ol><span class=\"res\">+5.000.000 J = 5 MJ (motor)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 5</b><ol><li><span>Uma bola de 0,5 kg passa de 10 m/s para 20 m/s. Trabalho total sobre ela?</span></li><li><span>ΔEc = 0,5·(400 − 100)/2</span></li></ol><span class=\"res\">75 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 6</b><ol><li><span>Que trabalho o atrito realiza para parar uma moto de 200 kg a 25 m/s?</span></li><li><span>τ = ΔEc = 0 − 200·625/2</span></li></ol><span class=\"res\">−62.500 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 7</b><ol><li><span>Um motor eleva 200 kg a 15 m em 10 s. Potência útil?</span></li><li><span>τ = 200·10·15 = 30.000 J</span></li><li><span>P = 30.000/10</span></li></ol><span class=\"res\">3.000 W = 3 kW</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 8</b><ol><li><span>Converter 150 cv para kW (1 cv ≈ 735 W)</span></li><li><span>150·735 = 110.250 W</span></li></ol><span class=\"res\">≈ 110 kW</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 9</b><ol><li><span>Força de tração de 3.000 N a 20 m/s. Potência?</span></li><li><span>P = F·v = 3.000·20</span></li></ol><span class=\"res\">60.000 W = 60 kW (≈ 82 cv)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 10</b><ol><li><span>Motor de 90 kW de potência útil; resistências de 2.250 N em pista plana. Velocidade máxima?</span></li><li><span>Na velocidade máxima, F_tração = resistências</span></li><li><span>v = P/F = 90.000/2.250</span></li></ol><span class=\"res\">40 m/s (144 km/h)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 11</b><ol><li><span>Um aparelho de 2.000 W funciona 30 min por dia durante 30 dias. Energia em kWh?</span></li><li><span>2 kW · 0,5 h · 30</span></li></ol><span class=\"res\">30 kWh</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 12</b><ol><li><span>Um motor recebe 50 kW e tem rendimento de 80%. Potência útil e dissipada?</span></li><li><span>P_útil = 0,8·50 = 40 kW</span></li><li><span>P_diss = 50 − 40</span></li></ol><span class=\"res\">40 kW úteis; 10 kW dissipados</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 13</b><ol><li><span>Mola de k = 800 N/m comprimida 0,2 m. Trabalho para comprimi-la?</span></li><li><span>τ = k·x²/2 = 800·0,04/2</span></li></ol><span class=\"res\">16 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 14</b><ol><li><span>Um carro de 1.000 kg acelera de 0 a 20 m/s em 10 s. Potência média útil (despreze perdas)?</span></li><li><span>ΔEc = 1.000·400/2 = 200.000 J</span></li><li><span>P = 200.000/10</span></li></ol><span class=\"res\">20 kW</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Exercício 15</b><ol><li><span>Caixa de 50 kg arrastada 4 m por força horizontal de 300 N; atrito de 100 N; parte do repouso. Velocidade final?</span></li><li><span>τ total = (300 − 100)·4 = 800 J</span></li><li><span>50·v²/2 = 800 → v² = 32</span></li></ol><span class=\"res\">v ≈ 5,7 m/s</span></div>\n<h3>20. Itens no estilo Cebraspe, comentados</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: o guincho</b><p>Um guincho ergue um veículo de 1.500 kg a 2 m de altura, em 10 s, com velocidade constante; o rendimento do sistema é de 75% (g = 10 m/s²). Julgue: (1) o trabalho realizado pelo peso do veículo é de 30.000 J; (2) a potência útil do guincho é de 3 kW; (3) a potência consumida pelo guincho é de 4 kW; (4) como a velocidade é constante, o trabalho total sobre o veículo é nulo.</p><details><summary>Ver a solução comentada</summary><p>(1) O peso se opõe à subida: τ_P = <b>−30.000 J</b>: <b>errado</b> (o módulo é 30.000 J, mas o trabalho é negativo). (2) P_útil = 30.000/10 = <b>3.000 W</b>: <b>certo</b>. (3) 3/0,75 = <b>4 kW</b>: <b>certo</b>. (4) Ec constante → τ_total = ΔEc = <b>0</b>: <b>certo</b> (o trabalho do guincho, +30 kJ, anula o do peso).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a ultrapassagem</b><p>Um automóvel de 1.200 kg acelera de 20 m/s para 30 m/s em 5 s durante uma ultrapassagem. Desprezando as resistências, julgue: (1) a variação da energia cinética é de 300 kJ; (2) a potência média útil do motor no intervalo é de 60 kW; (3) para ir de 30 m/s para 40 m/s no mesmo tempo, seria necessária a mesma potência média.</p><details><summary>Ver a solução comentada</summary><p>(1) ΔEc = 1.200·(900 − 400)/2 = <b>300.000 J</b>: <b>certo</b>. (2) 300.000/5 = <b>60 kW</b>: <b>certo</b>. (3) ΔEc = 1.200·(1.600 − 900)/2 = <b>420 kJ</b> → 84 kW: <b>errado</b> (ganhar os mesmos 10 m/s custa mais energia em velocidades maiores).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: unidades</b><p>Julgue: (1) o joule e o quilowatt-hora são unidades de energia; (2) 1 kWh corresponde a 3.600 J; (3) o watt equivale a joule por segundo.</p><details><summary>Ver a solução comentada</summary><p>(1) <b>Certo</b>. (2) 1 kWh = 1.000 W·3.600 s = <b>3.600.000 J</b>: <b>errado</b>. (3) <b>Certo</b>.</p></details></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Trabalho do peso na subida</span></span><span class=\"vs\"><span>Negativo (−mgh)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade constante</span></span><span class=\"vs\"><span>Trabalho total nulo (ΔEc = 0)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade máxima</span></span><span class=\"vs\"><span>Força de tração = resistências</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>+10 m/s em alta velocidade</span></span><span class=\"vs\"><span>Custa mais energia (Ec ∝ v²)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 kWh</span></span><span class=\"vs\"><span>3.600.000 J</span></span></button></div></div>\n<h3>21. Máquinas simples: ganha-se em força, perde-se em deslocamento</h3>\n<ul><li><b>Máquinas simples</b> (alavancas, roldanas, plano inclinado, engrenagens, macaco hidráulico) permitem aplicar uma força <b>menor</b> para mover uma carga, mas <b>não reduzem o trabalho</b>: na situação ideal (sem atrito), o trabalho de entrada é igual ao de saída. <b>O que se ganha em força, perde-se em deslocamento</b>.</li><li><b>Plano inclinado</b>: para elevar uma carga de peso P a uma altura h, empurrá-la por uma rampa de comprimento L exige força P·h/L (sem atrito), menor que P; mas é preciso percorrer L, maior que h. O trabalho é o mesmo: (P·h/L)·L = P·h.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Rampa para carregar um caminhão</b><ol><li><span>Carregar uma moto de 150 kg numa carroceria a 1 m de altura, por uma rampa de 3 m, sem atrito</span></li><li><span>Erguendo direto: força de 1.500 N, ao longo de 1 m: 1.500 J</span></li><li><span>Pela rampa: força de 1.500·1/3 = 500 N, ao longo de 3 m: 1.500 J</span></li></ol><span class=\"res\">Mesmo trabalho; força três vezes menor pela rampa</span></div>\n<ul><li><b>Alavanca</b>: equilíbrio de momentos: F_potente·d_potente = F_resistente·d_resistente. Braço maior do lado da força aplicada → força menor (chave de roda, pé de cabra, carrinho de mão).</li><li><b>Roldana fixa</b>: muda apenas a <b>direção</b> da força (não reduz o esforço). <b>Roldana móvel</b>: divide a força por <b>2</b> (a carga é sustentada por dois trechos de corda), mas é preciso puxar o <b>dobro</b> de corda. Com n roldanas móveis em associação (talha exponencial), a força cai para P/2ⁿ.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Talha com roldanas</b><ol><li><span>Erguer um motor de 200 kg com duas roldanas móveis em associação exponencial (sem atrito)</span></li><li><span>Força: 2.000/2² = 500 N</span></li><li><span>Para erguer o motor 1 m, puxa-se 4 m de corda</span></li><li><span>Trabalho: 500·4 = 2.000 J = 2.000·1</span></li></ol><span class=\"res\">Força de 500 N; o trabalho é o mesmo</span></div>\n<ul><li><b>Macaco hidráulico (Princípio de Pascal)</b>: a pressão aplicada a um líquido se transmite integralmente. Com um êmbolo pequeno (área a) e um grande (área A), a força é multiplicada por A/a; o êmbolo pequeno precisa descer muito para o grande subir pouco. O sistema de <b>freio hidráulico</b> dos carros usa o mesmo princípio: a força do pé no pedal é multiplicada nas pinças das rodas.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Macaco hidráulico</b><ol><li><span>Êmbolo pequeno de 2 cm², grande de 200 cm²; aplica-se 100 N no pequeno</span></li><li><span>Fator: 200/2 = 100</span></li><li><span>Força no grande: 100·100 = 10.000 N (ergue ≈ 1 t)</span></li><li><span>Para o grande subir 1 cm, o pequeno desce 100 cm (em vários bombeamentos)</span></li></ol><span class=\"res\">Força multiplicada por 100; deslocamento dividido por 100</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Uma máquina simples ideal permite realizar um trabalho menor que o necessário sem ela</span><br>✅ <span class=\"certo\">reduz a <b>força</b>, mas o <b>trabalho</b> é o mesmo (aumenta o deslocamento)</span></li><li>❌ <span class=\"banca\">A roldana fixa reduz à metade a força necessária para erguer uma carga</span><br>✅ <span class=\"certo\">a roldana <b>fixa</b> só muda a direção; quem divide por 2 é a <b>móvel</b></span></li><li>❌ <span class=\"banca\">No freio hidráulico, a pressão aplicada no pedal é multiplicada nas rodas</span><br>✅ <span class=\"certo\">a <b>pressão</b> se transmite <b>igual</b> (Pascal); a <b>força</b> é multiplicada pela razão entre as áreas</span></li></ol></div>\n<h3>22. Torque, rotação e potência dos motores</h3>\n<ul><li>Num motor, a potência pode ser escrita como <b>P = M·ω</b>: torque (momento, N·m) vezes velocidade angular (rad/s). Para a mesma potência, mais rotação significa menos torque, e vice-versa.</li><li><b>Câmbio</b>: as engrenagens trocam rotação por torque. Em marcha baixa, a roda gira devagar com <b>muito torque</b> (arrancadas, subidas, reboque); em marcha alta, gira rápido com <b>pouco torque</b> (cruzeiro). A potência que passa pelo câmbio é, idealmente, a mesma (menos as perdas).</li><li><b>Ficha técnica</b>: \"120 cv a 5.500 rpm\" indica a potência máxima e a rotação em que ocorre; \"18 kgf·m a 3.000 rpm\" indica o torque máximo (1 kgf·m ≈ 9,8 N·m). Motores a diesel têm, em geral, torque alto em baixa rotação, adequado a veículos pesados.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Potência a partir do torque</b><ol><li><span>Motor com torque de 150 N·m a 4.000 rpm</span></li><li><span>ω = 2π·4.000/60 ≈ 419 rad/s</span></li><li><span>P = M·ω = 150·419 ≈ 62.800 W</span></li></ol><span class=\"res\">≈ 63 kW (≈ 85 cv)</span></div>\n<ul><li><b>Por que um carro \"não sobe\" em marcha alta?</b> Na subida, é preciso muita força nas rodas (para vencer m·g·sen θ). Em marcha alta, a multiplicação de torque é pequena e o motor, em baixa rotação, entrega pouca potência: a força nas rodas não basta. Reduzir a marcha resolve.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Em marcha baixa, o câmbio multiplica a velocidade das rodas e reduz o torque</span><br>✅ <span class=\"certo\">em marcha <b>baixa</b>, o câmbio <b>reduz</b> a rotação das rodas e <b>multiplica</b> o torque</span></li><li>❌ <span class=\"banca\">A potência de um motor é o produto do torque pela velocidade angular, e não depende da rotação</span><br>✅ <span class=\"certo\">P = M·ω <b>depende</b> da rotação (ω)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Máquina simples</span></span><span class=\"vs\"><span>Menos força, mais deslocamento, mesmo trabalho</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Roldana móvel</span></span><span class=\"vs\"><span>Força ÷ 2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Macaco hidráulico</span></span><span class=\"vs\"><span>Força × (A/a)</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>P = M·ω</span></span><span class=\"vs\"><span>Torque × velocidade angular</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Marcha baixa</span></span><span class=\"vs\"><span>Mais torque nas rodas</span></span></button></div></div>\n<h3>23. Energia dos combustíveis e consumo</h3>\n<ul><li>Os combustíveis armazenam <b>energia química</b>, liberada na combustão. O <b>poder calorífico</b> indica quanta energia cada litro (ou quilograma) libera. Em valores aproximados: gasolina, cerca de 32 MJ por litro; etanol hidratado, cerca de 21 a 22 MJ por litro (<b>cerca de 70%</b> da gasolina); diesel, cerca de 36 MJ por litro.</li><li><b>Regra dos 70%</b>: como o etanol tem menor poder calorífico, um carro flex percorre menos quilômetros por litro com ele. Costuma compensar abastecer com etanol quando seu preço é de até cerca de <b>70%</b> do preço da gasolina (a relação exata depende do veículo).</li><li><b>Do tanque às rodas</b>: só a fração dada pelo <b>rendimento</b> do motor (25% a 35%) vira trabalho útil nas rodas. O restante sai como calor.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Energia útil de um litro</b><ol><li><span>1 L de gasolina (32 MJ) num motor com rendimento de 30%</span></li><li><span>Energia útil: 0,3·32 = 9,6 MJ</span></li><li><span>Se o carro precisa de 600 N de força média contra as resistências: d = E/F = 9,6 × 10⁶/600</span></li></ol><span class=\"res\">≈ 16.000 m = 16 km por litro</span></div>\n<ul><li><b>Carros elétricos</b>: o consumo é medido em <b>kWh por 100 km</b> (tipicamente 13 a 20 kWh/100 km para carros de passeio). O rendimento do motor elétrico é muito maior, e parte da energia de frenagem pode ser <b>recuperada</b> (frenagem regenerativa: o motor funciona como gerador e recarrega a bateria).</li><li><b>Direção econômica</b>: manter velocidade moderada e constante, antecipar frenagens (evitando transformar energia cinética em calor nos freios), calibrar os pneus e evitar carga e acessórios desnecessários (bagageiros aumentam a resistência do ar).</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Um litro de etanol hidratado fornece mais energia que um litro de gasolina</span><br>✅ <span class=\"certo\">fornece <b>cerca de 70%</b> da energia da gasolina</span></li><li>❌ <span class=\"banca\">Na frenagem convencional, a energia cinética do veículo é armazenada nas pastilhas e pode ser reaproveitada</span><br>✅ <span class=\"certo\">na frenagem convencional, ela vira <b>calor</b> e é perdida; só a frenagem <b>regenerativa</b> (elétricos e híbridos) recupera parte dela</span></li></ol></div>\n<h3>24. A potência do corpo humano</h3>\n<ul><li>Uma pessoa adulta consegue manter, por longos períodos, potência mecânica útil de cerca de <b>75 a 100 W</b>; em esforços curtos e intensos (subir escadas correndo, sprint), passa de <b>500 W</b> a mais de <b>1.000 W</b> por poucos segundos.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Subindo escadas</b><ol><li><span>Policial de 80 kg (com equipamento, 90 kg) sobe 3 andares (9 m) em 15 s</span></li><li><span>Trabalho contra o peso: 90·10·9 = 8.100 J</span></li><li><span>P = 8.100/15 = 540 W</span></li></ol><span class=\"res\">≈ 540 W de potência útil (o corpo consome bem mais, pois seu rendimento é de ≈ 25%)</span></div>\n<ul><li><b>Empurrar um carro com pane</b>: a força para vencer a resistência ao rolamento (algumas centenas de newtons) é viável para duas ou três pessoas; numa subida, a componente do peso (m·g·sen θ) torna a tarefa rapidamente impossível: num aclive de 5%, um carro de 1.200 kg exige ≈ 600 N só contra o peso.</li><li><b>Alimentos como combustível</b>: a energia dos alimentos é medida em quilocalorias (1 kcal ≈ 4.186 J). Uma refeição de 800 kcal fornece cerca de 3,3 MJ, dos quais apenas uma fração vira trabalho mecânico.</li></ul>\n<h3>25. Erros de raciocínio mais comuns</h3>\n<ul><li><b>Esquecer o cos θ</b>: só a componente da força na direção do deslocamento realiza trabalho.</li><li><b>Dar sinal positivo ao trabalho do atrito ou do peso na subida</b>: ambos são resistentes (negativos) nesses casos.</li><li><b>Calcular o trabalho do peso pelo comprimento da rampa</b>: vale m·g·h, com h vertical.</li><li><b>Confundir potência e energia</b>: watt (J/s) é potência; kWh e joule são energia.</li><li><b>Confundir trabalho com esforço</b>: sem deslocamento, não há trabalho mecânico sobre o objeto.</li><li><b>Usar a força total em vez da resultante no TEC</b>: o teorema usa o trabalho de <b>todas</b> as forças (ou da resultante).</li><li><b>Achar que máquinas simples economizam trabalho</b>: elas reduzem a força, não o trabalho.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">Uma pessoa que carrega uma mala em linha reta, num piso horizontal, com velocidade constante, realiza trabalho positivo sobre a mala por meio da força vertical que aplica</span><br>✅ <span class=\"certo\">a força para segurar a mala é <b>vertical</b> e o deslocamento é <b>horizontal</b>: trabalho <b>nulo</b> dessa força</span></li><li>❌ <span class=\"banca\">Uma refeição de 1.000 kcal fornece 1.000 J de energia</span><br>✅ <span class=\"certo\">1 kcal ≈ 4.186 J: são cerca de <b>4,2 MJ</b></span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Etanol</span></span><span class=\"vs\"><span>≈ 70% da energia da gasolina por litro</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Frenagem regenerativa</span></span><span class=\"vs\"><span>Recupera parte da energia cinética</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Potência humana sustentada</span></span><span class=\"vs\"><span>≈ 75 a 100 W</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 kcal</span></span><span class=\"vs\"><span>≈ 4.186 J</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Segurar sem deslocar</span></span><span class=\"vs\"><span>Trabalho nulo</span></span></button></div></div>\n<h3>26. Trabalho e segurança: a energia de um impacto</h3>\n<ul><li>Num impacto, a energia cinética do veículo precisa ser <b>dissipada</b> pelo trabalho de forças de deformação (carroceria, barreira, corpo humano). Pelo teorema da energia cinética: <b>F_média·d = m·v²/2</b>, em que d é a distância ao longo da qual o veículo (ou o ocupante) é parado.</li><li><b>Leitura de segurança</b>: para a mesma energia, quanto <b>maior a distância de parada</b> (deformação da frente do carro, do air bag, da barreira), <b>menor a força média</b>. Zonas de deformação programada trabalham exatamente nisso.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Força média na deformação</b><ol><li><span>Carro de 1.000 kg a 15 m/s (54 km/h) bate num muro; a frente se deforma 0,5 m</span></li><li><span>Ec = 1.000·225/2 = 112.500 J</span></li><li><span>F·0,5 = 112.500 → F = 225.000 N</span></li><li><span>Com deformação de 1 m: F = 112.500 N</span></li></ol><span class=\"res\">Dobrar a deformação reduz a força média à metade</span></div>\n<ul><li><b>Velocidade de impacto x altura de queda</b>: a energia de um carro a velocidade v equivale à de uma queda livre de altura <b>h = v²/(2g)</b>. Isso dá uma imagem concreta do risco:</li></ul>\n<table class=\"tab\"><thead><tr><th>Velocidade</th><th>Altura de queda equivalente</th><th>Comparação</th></tr></thead><tbody><tr><td>30 km/h (8,3 m/s)</td><td>≈ 3,5 m</td><td>cair do 1º andar</td></tr><tr><td>50 km/h (13,9 m/s)</td><td>≈ 9,7 m</td><td>cair do 3º andar</td></tr><tr><td>80 km/h (22,2 m/s)</td><td>≈ 24,7 m</td><td>cair do 8º andar</td></tr><tr><td>100 km/h (27,8 m/s)</td><td>≈ 38,6 m</td><td>cair do 13º andar</td></tr><tr><td>120 km/h (33,3 m/s)</td><td>≈ 55,6 m</td><td>cair do 18º andar</td></tr></tbody></table>\n<ul><li><b>Barreiras e defensas</b>: as defensas metálicas e os amortecedores de impacto (atenuadores) nas rodovias deformam-se ao longo de vários metros, aumentando a distância de parada e reduzindo a força sobre os ocupantes. Muros rígidos de concreto param o veículo em distância muito menor (só a deformação do próprio carro).</li><li><b>Air bag</b>: o ocupante \"afunda\" no air bag ao longo de alguns décimos de metro, que se somam aos centímetros de deformação do corpo; a força sobre a cabeça e o tórax cai bastante.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Ocupante e air bag</b><ol><li><span>Ocupante de 70 kg a 14 m/s; com cinto e air bag, desloca-se 0,4 m em relação ao carro, que também se deforma 0,6 m (total 1 m)</span></li><li><span>Ec = 70·196/2 = 6.860 J</span></li><li><span>F = 6.860/1 = 6.860 N</span></li><li><span>Sem dispositivos, batendo no painel com 0,05 m de deformação: F ≈ 137.000 N</span></li></ol><span class=\"res\">Os dispositivos reduzem a força cerca de 20 vezes</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">A energia de um carro a 100 km/h é cerca do dobro da energia do mesmo carro a 50 km/h</span><br>✅ <span class=\"certo\">Ec ∝ v²: é cerca de <b>quatro</b> vezes maior (altura equivalente de ≈ 39 m contra ≈ 10 m)</span></li><li>❌ <span class=\"banca\">Barreiras rígidas protegem melhor os ocupantes que defensas deformáveis, pois param o veículo mais rapidamente</span><br>✅ <span class=\"certo\">parar em <b>menor distância</b> significa <b>maior força</b>; defensas deformáveis <b>reduzem</b> a força</span></li></ol></div>\n<h3>27. Gráficos de trabalho e potência</h3>\n<ul><li><b>Força × deslocamento</b>: a <b>área</b> é o trabalho.</li><li><b>Potência × tempo</b>: a <b>área</b> é a <b>energia</b> (ou o trabalho) no intervalo. Um aparelho de 2 kW ligado por 3 h: área = 6 kWh.</li><li><b>Energia (ou trabalho) × tempo</b>: a <b>inclinação</b> é a potência. Uma reta indica potência constante.</li><li><b>Curvas do motor (potência e torque × rpm)</b>: o torque costuma atingir o máximo em rotação intermediária; a potência máxima ocorre em rotação mais alta. Dirigir na faixa de torque máximo dá boa força com economia.</li></ul>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Leitura de gráfico P × t</b><ol><li><span>Um motor funciona 10 s a 20 kW e depois 20 s a 50 kW</span></li><li><span>Área: 20·10 + 50·20 = 200 + 1.000 = 1.200 kJ</span></li><li><span>Potência média: 1.200 kJ / 30 s = 40 kW</span></li></ol><span class=\"res\">Energia de 1,2 MJ; potência média de 40 kW</span></div>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">No gráfico potência × tempo, a inclinação da curva fornece a energia consumida</span><br>✅ <span class=\"certo\">a energia é a <b>área</b>; a inclinação do gráfico <b>energia × tempo</b> é que dá a potência</span></li></ol></div>\n<h3>28. Revisão relâmpago: perguntas e respostas</h3>\n<ul><li><b>Quando uma força não realiza trabalho?</b> Quando não há deslocamento ou quando ela é perpendicular ao deslocamento.</li><li><b>Trabalho do peso na subida?</b> Negativo: −m·g·h.</li><li><b>O trabalho do peso depende do caminho?</b> Não; só do desnível.</li><li><b>E o do atrito?</b> Depende do caminho; é dissipativo.</li><li><b>O que diz o TEC?</b> Trabalho total = variação da energia cinética.</li><li><b>Se a velocidade dobra, o que acontece com a energia cinética e com a distância de frenagem (mesma força)?</b> Ambas quadruplicam.</li><li><b>Potência é...?</b> Trabalho por unidade de tempo (W); também F·v.</li><li><b>1 cv vale?</b> ≈ 735 W.</li><li><b>kWh é unidade de quê?</b> Energia (3,6 MJ).</li><li><b>Rendimento de 30% significa?</b> 30% útil, 70% dissipado.</li><li><b>Rendimentos em sequência?</b> Multiplicam-se.</li><li><b>Máquina simples reduz o trabalho?</b> Não; reduz a força.</li><li><b>Por que reduzir a marcha na subida?</b> Para multiplicar o torque nas rodas, aproveitando a potência.</li><li><b>Por que o consumo dispara em alta velocidade?</b> Porque a potência contra o ar cresce com v³.</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Impacto</span></span><span class=\"vs\"><span>F·d = m·v²/2</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mais deformação</span></span><span class=\"vs\"><span>Menos força</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>50 km/h</span></span><span class=\"vs\"><span>Queda de ≈ 10 m</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>100 km/h</span></span><span class=\"vs\"><span>Queda de ≈ 39 m</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Área de P × t</span></span><span class=\"vs\"><span>Energia</span></span></button></div></div>\n<h3>29. Mais itens no estilo Cebraspe</h3>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: a caixa na rampa</b><p>Uma caixa de 40 kg é empurrada para cima ao longo de uma rampa de 5 m de comprimento e 3 m de altura, com velocidade constante; a força de atrito ao longo da rampa é de 80 N (g = 10 m/s²). Julgue: (1) o trabalho do peso na subida é de −1.200 J; (2) o trabalho do atrito é de −400 J; (3) o trabalho da força aplicada pela pessoa é de 1.600 J; (4) o trabalho da normal é nulo.</p><details><summary>Ver a solução comentada</summary><p>(1) τ_P = −40·10·3 = <b>−1.200 J</b>: <b>certo</b> (só o desnível importa). (2) −80·5 = <b>−400 J</b>: <b>certo</b>. (3) Velocidade constante → trabalho total nulo: τ_pessoa = 1.200 + 400 = <b>1.600 J</b>: <b>certo</b>. (4) Normal perpendicular à rampa: <b>certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: potência e velocidade máxima</b><p>Um automóvel tem potência útil máxima de 75 kW. Em pista plana, a 30 m/s, as forças resistivas somam 1.500 N. Julgue: (1) a 30 m/s, a potência necessária para manter a velocidade é de 45 kW; (2) sobra potência para acelerar a 30 m/s; (3) se a resistência a 40 m/s for de 1.875 N, o veículo consegue manter 40 m/s.</p><details><summary>Ver a solução comentada</summary><p>(1) P = F·v = 1.500·30 = <b>45 kW</b>: <b>certo</b>. (2) 75 > 45: <b>certo</b>. (3) P = 1.875·40 = <b>75 kW</b>, exatamente a potência máxima: <b>certo</b> (40 m/s é a velocidade máxima).</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: o elevador do edifício</b><p>Um elevador de 1.000 kg (com passageiros) sobe 30 m em 20 s, com velocidade constante; o motor tem rendimento de 75%. Julgue: (1) a potência útil é de 15 kW; (2) a potência total consumida é de 20 kW; (3) em 1 h de funcionamento contínuo nessas condições, o consumo é de 20 kWh.</p><details><summary>Ver a solução comentada</summary><p>(1) τ = 1.000·10·30 = 300 kJ; P = 300.000/20 = <b>15 kW</b>: <b>certo</b>. (2) 15/0,75 = <b>20 kW</b>: <b>certo</b>. (3) 20 kW·1 h = <b>20 kWh</b>: <b>certo</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: frenagem e energia</b><p>Um ônibus de 12 t trafega a 72 km/h e freia até parar em 8 s. Julgue: (1) a energia cinética inicial é de 2,4 MJ; (2) a potência média dissipada pelos freios é de 300 kW; (3) se o ônibus estivesse a 36 km/h, a energia a dissipar seria a metade.</p><details><summary>Ver a solução comentada</summary><p>72 km/h = 20 m/s. (1) Ec = 12.000·400/2 = <b>2.400.000 J</b>: <b>certo</b>. (2) 2,4 MJ/8 s = <b>300 kW</b>: <b>certo</b>. (3) Metade da velocidade → <b>um quarto</b> da energia: <b>errado</b>.</p></details></div>\n<div class=\"lt-caso\"><b class=\"lt-tit\">🚓 Caso prático: Texto-base: rendimentos</b><p>Num carro, o motor converte em trabalho mecânico 30% da energia do combustível, e a transmissão entrega às rodas 90% do que recebe do motor. Julgue: (1) o rendimento global é de 27%; (2) de cada 100 J de combustível, 73 J são dissipados antes de chegar às rodas; (3) o rendimento global seria maior se a transmissão tivesse rendimento menor.</p><details><summary>Ver a solução comentada</summary><p>(1) 0,3·0,9 = <b>0,27</b>: <b>certo</b>. (2) <b>Certo</b>. (3) <b>Errado</b>: rendimentos menores reduzem o global.</p></details></div>\n<h3>30. Como a banca cobra este tópico</h3>\n<div class=\"lt-box\"><b class=\"lt-tit\">🎯 Como a banca cobra</b><p>A Cebraspe cobra trabalho e potência em itens de conta curta (trabalho com cos θ, trabalho do peso, TEC, potência média, P = F·v, rendimento) e em itens conceituais (trabalho nulo de forças perpendiculares, independência da trajetória para o peso, unidade kWh, máquinas simples não economizam trabalho). Os contextos mais comuns são guinchos, elevadores, rampas, frenagens e ultrapassagens. Atenção especial aos <b>sinais</b> (trabalho resistente é negativo) e aos <b>quadrados</b> (energia ∝ v²).</p></div>\n<ul><li><b>Estratégia</b>:</li><li>Para trabalho, desenhe força e deslocamento e ache o ângulo <b>entre eles</b>.</li><li>Para velocidades a partir de forças e distâncias, prefira o <b>TEC</b> (dispensa o tempo).</li><li>Para potência com velocidade constante, use <b>P = F·v</b> com F igual às resistências.</li><li>Para rendimento, escreva sempre \"útil = η·total\".</li></ul>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade constante</span></span><span class=\"vs\"><span>Trabalho total nulo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Velocidade máxima</span></span><span class=\"vs\"><span>P_máx = F_resist·v</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Metade da velocidade</span></span><span class=\"vs\"><span>Um quarto da energia</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Rendimento global</span></span><span class=\"vs\"><span>Produto dos rendimentos</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Trabalho do peso na rampa</span></span><span class=\"vs\"><span>−m·g·h (altura, não comprimento)</span></span></button></div></div>\n<h3>31. Treino extra: do básico ao nível de prova</h3>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 1</b><ol><li><span>Força de 500 N, deslocamento de 8 m, ângulo de 37° (cos 37° = 0,8). Trabalho?</span></li><li><span>τ = 500·8·0,8</span></li></ol><span class=\"res\">3.200 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 2</b><ol><li><span>Uma força de 300 N é aplicada a um carro parado, que não se move. Trabalho?</span></li><li><span>Sem deslocamento</span></li></ol><span class=\"res\">Zero</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 3</b><ol><li><span>Caminhão de 15 t sobe 120 m de desnível. Trabalho do peso?</span></li><li><span>τ = −15.000·10·120</span></li></ol><span class=\"res\">−18.000.000 J = −18 MJ</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 4</b><ol><li><span>Que força média de frenagem para um carro de 1.200 kg a 25 m/s em 50 m?</span></li><li><span>Ec = 1.200·625/2 = 375.000 J</span></li><li><span>F = 375.000/50</span></li></ol><span class=\"res\">7.500 N</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 5</b><ol><li><span>Uma bola de 0,4 kg é chutada e sai a 25 m/s. Trabalho do chute?</span></li><li><span>τ = ΔEc = 0,4·625/2</span></li></ol><span class=\"res\">125 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 6</b><ol><li><span>Um corredor de 70 kg passa de 0 a 10 m/s em 4 s. Potência média útil?</span></li><li><span>ΔEc = 70·100/2 = 3.500 J</span></li><li><span>P = 3.500/4</span></li></ol><span class=\"res\">875 W</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 7</b><ol><li><span>Motor de 120 cv. Potência em kW (1 cv ≈ 735 W)?</span></li><li><span>120·735 = 88.200 W</span></li></ol><span class=\"res\">≈ 88 kW</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 8</b><ol><li><span>Uma bomba eleva 600 L de água (600 kg) a 10 m em 2 min. Potência útil?</span></li><li><span>τ = 600·10·10 = 60.000 J</span></li><li><span>P = 60.000/120</span></li></ol><span class=\"res\">500 W</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 9</b><ol><li><span>A bomba do exercício anterior tem rendimento de 50%. Potência consumida e energia em 2 min?</span></li><li><span>P_total = 500/0,5 = 1.000 W</span></li><li><span>E = 1.000·120 = 120.000 J</span></li></ol><span class=\"res\">1 kW; 120 kJ</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 10</b><ol><li><span>Força de tração de 4.000 N com potência útil de 80 kW. Velocidade?</span></li><li><span>v = P/F = 80.000/4.000</span></li></ol><span class=\"res\">20 m/s (72 km/h)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 11</b><ol><li><span>Um chuveiro de 5.500 W fica ligado 20 min por dia, 30 dias. Consumo?</span></li><li><span>5,5 kW · (1/3) h · 30</span></li></ol><span class=\"res\">55 kWh</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 12</b><ol><li><span>Mola com k = 5.000 N/m comprimida de 0 a 0,04 m. Trabalho?</span></li><li><span>τ = 5.000·0,0016/2</span></li></ol><span class=\"res\">4 J</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 13</b><ol><li><span>Na mesma mola, quanto custa comprimi-la de 0,04 m para 0,08 m?</span></li><li><span>τ = k·(0,08² − 0,04²)/2 = 5.000·(0,0064 − 0,0016)/2</span></li><li><span>= 5.000·0,0048/2</span></li></ol><span class=\"res\">12 J (três vezes mais que os primeiros 4 cm)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 14</b><ol><li><span>Alavanca: força de 200 N a 1,5 m do apoio ergue uma pedra a 0,3 m do outro lado. Peso máximo da pedra?</span></li><li><span>200·1,5 = P·0,3</span></li><li><span>P = 1.000 N</span></li></ol><span class=\"res\">1.000 N (≈ 100 kg)</span></div>\n<div class=\"lt-calc\"><b class=\"lt-tit\">🧮 Extra 15</b><ol><li><span>Carro de 1.000 kg sobe, com velocidade constante de 10 m/s, uma rampa com sen θ = 0,1. Potência só para vencer o peso?</span></li><li><span>P = m·g·sen θ·v = 1.000·10·0,1·10</span></li></ol><span class=\"res\">10.000 W = 10 kW</span></div>\n<h3>32. Unidades, história e ordens de grandeza</h3>\n<ul><li><b>James Watt</b> (séc. XVIII), que aperfeiçoou a máquina a vapor, criou a unidade <b>horsepower</b> para comparar as máquinas com os cavalos que elas substituíam nas minas; daí o \"cavalo-vapor\". A unidade de potência do SI leva o seu nome.</li><li><b>James Prescott Joule</b> (séc. XIX) mostrou que trabalho mecânico e calor são formas de energia: a mesma quantidade de trabalho produz sempre o mesmo aquecimento. A unidade de energia do SI leva o seu nome.</li></ul>\n<table class=\"tab\"><thead><tr><th>Sistema</th><th>Potência típica</th></tr></thead><tbody><tr><td>Lâmpada LED doméstica</td><td>7 a 15 W</td></tr><tr><td>Ser humano em esforço contínuo</td><td>75 a 100 W</td></tr><tr><td>Chuveiro elétrico</td><td>4.500 a 7.500 W</td></tr><tr><td>Motor de motocicleta 160 cc</td><td>≈ 10 a 11 kW (≈ 15 cv)</td></tr><tr><td>Carro popular</td><td>55 a 90 kW (75 a 120 cv)</td></tr><tr><td>Caminhão pesado</td><td>300 a 400 kW (400 a 550 cv)</td></tr><tr><td>Locomotiva diesel-elétrica</td><td>≈ 3.000 kW</td></tr><tr><td>Grande usina hidrelétrica</td><td>milhares de MW</td></tr></tbody></table>\n<ul><li><b>Conversões que mais aparecem</b>: 1 kW = 1.000 W; 1 MW = 10⁶ W; 1 cv ≈ 735 W; 1 hp ≈ 746 W; 1 kWh = 3,6 × 10⁶ J; 1 kcal ≈ 4.186 J; 1 kgf ≈ 9,8 N.</li></ul>\n<div class=\"lt-pegs\"><b class=\"lt-tit\">🪤 Pegadinhas mais cobradas</b><ol><li>❌ <span class=\"banca\">O horsepower e o cavalo-vapor são exatamente a mesma unidade</span><br>✅ <span class=\"certo\">são <b>próximos</b>, mas diferentes: 1 hp ≈ 746 W; 1 cv ≈ 735 W</span></li><li>❌ <span class=\"banca\">Um chuveiro de 5.500 W consome 5.500 kWh por hora de uso</span><br>✅ <span class=\"certo\">consome <b>5,5 kWh</b> por hora (5.500 W × 1 h = 5.500 Wh)</span></li></ol></div>\n<div class=\"lt-flash-box\"><b class=\"lt-tit\">🃏 Flashcards: clique no cartão para ver a resposta</b><div class=\"lt-flash\"><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Força sem deslocamento</span></span><span class=\"vs\"><span>Trabalho nulo</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Mola de x a 2x</span></span><span class=\"vs\"><span>Custa 3 vezes o trecho de 0 a x</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Alavanca</span></span><span class=\"vs\"><span>F₁·d₁ = F₂·d₂</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>1 hp</span></span><span class=\"vs\"><span>≈ 746 W; 1 cv ≈ 735 W</span></span></button><button type=\"button\" class=\"lt-fc\"><span class=\"fr\"><span>Watt e Joule</span></span><span class=\"vs\"><span>Unidades de potência e de energia</span></span></button></div></div>",
+"quiz": [
+{
+"p": "Uma força de 200 N atua sobre um corpo que se desloca 4 m, formando ângulo de 0° com o deslocamento. O trabalho dessa força é de 800 J.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F = 200 N; d = 4 m; ângulo entre força e deslocamento = 0° (cos = 1) >> Fórmula: τ = F·d·cos θ >> Conta: τ = 200·4·1 → τ = 800 J >> Resultado: 800 J",
+"e": "τ = F·d·cos θ"
+},
+{
+"p": "Uma força de 200 N atua sobre um corpo que se desloca 20 m, formando ângulo de 90° com o deslocamento. O trabalho dessa força é de 0 J.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F = 200 N; d = 20 m; ângulo entre força e deslocamento = 90° (cos = 0) >> Fórmula: τ = F·d·cos θ >> Conta: τ = 200·20·0 → τ = 0 J >> Atenção: força perpendicular ao deslocamento não realiza trabalho >> Resultado: 0 J",
+"e": "τ = F·d·cos θ"
+},
+{
+"p": "Uma força de 50 N atua sobre um corpo que se desloca 20 m, formando ângulo de 90° com o deslocamento. O trabalho dessa força é de 1.000 J.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 50 N; d = 20 m; ângulo entre força e deslocamento = 90° (cos = 0) >> Fórmula: τ = F·d·cos θ >> Conta: τ = 50·20·0 → τ = 0 J >> Atenção: força perpendicular ao deslocamento não realiza trabalho >> Resultado: 0 J",
+"e": "τ = F·d·cos θ"
+},
+{
+"p": "Uma força de 100 N, que forma ângulo de 53° com o deslocamento (cos 53° = 0,6), atua sobre um corpo que se desloca 2 m. O trabalho dessa força é de",
+"alts": [
+"60 J",
+"80 J",
+"200 J",
+"50 J",
+"120 J"
+],
+"r": 4,
+"n": [
+"Dividiu por 2 sem motivo.",
+"Usou 1 − cos θ.",
+"Esqueceu o cos θ (usou a força inteira).",
+"Dividiu em vez de multiplicar.",
+"Correta."
+],
+"x": "Dados: F = 100 N; d = 2 m; ângulo entre força e deslocamento = 53° (cos = 0,6) >> Fórmula: τ = F·d·cos θ >> Conta: τ = 100·2·0,6 → τ = 120 J >> Resultado: 120 J",
+"e": "τ = F·d·cos θ"
+},
+{
+"p": "Uma força de 250 N atua sobre um corpo que se desloca 20 m, formando ângulo de 60° com o deslocamento. O trabalho dessa força é de 5.000 J.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 250 N; d = 20 m; ângulo entre força e deslocamento = 60° (cos = 0,5) >> Fórmula: τ = F·d·cos θ >> Conta: τ = 250·20·0,5 → τ = 2.500 J >> Resultado: 2.500 J",
+"e": "τ = F·d·cos θ"
+},
+{
+"p": "Uma força de 500 N atua sobre um corpo que se desloca 10 m, formando ângulo de 60° com o deslocamento. O trabalho dessa força é de 5.000 J.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 500 N; d = 10 m; ângulo entre força e deslocamento = 60° (cos = 0,5) >> Fórmula: τ = F·d·cos θ >> Conta: τ = 500·10·0,5 → τ = 2.500 J >> Resultado: 2.500 J",
+"e": "τ = F·d·cos θ"
+},
+{
+"p": "Uma força de 500 N atua sobre um corpo que se desloca 2 m, formando ângulo de 53° com o deslocamento. O trabalho dessa força é de 600 J.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F = 500 N; d = 2 m; ângulo entre força e deslocamento = 53° (cos = 0,6) >> Fórmula: τ = F·d·cos θ >> Conta: τ = 500·2·0,6 → τ = 600 J >> Resultado: 600 J",
+"e": "τ = F·d·cos θ"
+},
+{
+"p": "Uma força de 400 N atua sobre um corpo que se desloca 20 m, formando ângulo de 90° com o deslocamento. O trabalho dessa força é de 0 J.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F = 400 N; d = 20 m; ângulo entre força e deslocamento = 90° (cos = 0) >> Fórmula: τ = F·d·cos θ >> Conta: τ = 400·20·0 → τ = 0 J >> Atenção: força perpendicular ao deslocamento não realiza trabalho >> Resultado: 0 J",
+"e": "τ = F·d·cos θ"
+},
+{
+"p": "Quando um corpo de 50 kg sobe um desnível de 2 m, por qualquer caminho, o trabalho realizado pelo seu peso é de -1.000 J (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 50 kg; h = 2 m >> Ideia: o trabalho do peso só depende do desnível; é negativo na subida (o peso se opõe) >> Fórmula: τ_P = ± m·g·h >> Conta: τ_P = −50·10·2 → τ_P = -1.000 J >> Resultado: -1.000 J",
+"e": "Trabalho do peso"
+},
+{
+"p": "Quando um corpo de 80 kg sobe um desnível de 50 m, o trabalho realizado pelo seu peso é de 40.000 J (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 80 kg; h = 50 m >> Ideia: o trabalho do peso só depende do desnível; é negativo na subida (o peso se opõe) >> Fórmula: τ_P = ± m·g·h >> Conta: τ_P = −80·10·50 → τ_P = -40.000 J >> Resultado: -40.000 J",
+"e": "Trabalho do peso"
+},
+{
+"p": "Quando um corpo de 20 kg desce um desnível de 3 m, por qualquer caminho, o trabalho realizado pelo seu peso é de 600 J (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 20 kg; h = 3 m >> Ideia: o trabalho do peso só depende do desnível; é positivo na descida (o peso ajuda) >> Fórmula: τ_P = ± m·g·h >> Conta: τ_P = +20·10·3 → τ_P = 600 J >> Resultado: 600 J",
+"e": "Trabalho do peso"
+},
+{
+"p": "Quando um corpo de 20 kg sobe um desnível de 3 m, por qualquer caminho, o trabalho realizado pelo seu peso é de -600 J (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 20 kg; h = 3 m >> Ideia: o trabalho do peso só depende do desnível; é negativo na subida (o peso se opõe) >> Fórmula: τ_P = ± m·g·h >> Conta: τ_P = −20·10·3 → τ_P = -600 J >> Resultado: -600 J",
+"e": "Trabalho do peso"
+},
+{
+"p": "Quando um corpo de 1.000 kg sobe um desnível de 5 m, por qualquer caminho, o trabalho realizado pelo seu peso é de -50.000 J (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.000 kg; h = 5 m >> Ideia: o trabalho do peso só depende do desnível; é negativo na subida (o peso se opõe) >> Fórmula: τ_P = ± m·g·h >> Conta: τ_P = −1.000·10·5 → τ_P = -50.000 J >> Resultado: -50.000 J",
+"e": "Trabalho do peso"
+},
+{
+"p": "Quando um corpo de 10.000 kg desce um desnível de 50 m, por qualquer caminho, o trabalho realizado pelo seu peso é de 5.000.000 J (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 10.000 kg; h = 50 m >> Ideia: o trabalho do peso só depende do desnível; é positivo na descida (o peso ajuda) >> Fórmula: τ_P = ± m·g·h >> Conta: τ_P = +10.000·10·50 → τ_P = 5.000.000 J >> Resultado: 5.000.000 J",
+"e": "Trabalho do peso"
+},
+{
+"p": "Um veículo de 1.200 kg a 108 km/h freia até parar sob força de atrito constante de 5.000 N. Pelo teorema da energia cinética, percorre 216 m na frenagem.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.200 kg; v = 108 km/h = 30 m/s; Fat = 5.000 N >> Fórmula: τ_atrito = ΔEc → −Fat·d = 0 − m·v²/2 >> Conta: Ec = 1.200·900/2 = 540.000 J → d = 540.000/5.000 → d = 108 m >> Resultado: 108 m",
+"e": "Teorema da energia cinética"
+},
+{
+"p": "Um veículo de 1.000 kg a 90 km/h freia até parar sob força de atrito constante de 5.000 N. Pelo teorema da energia cinética, percorre 125 m na frenagem.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.000 kg; v = 90 km/h = 25 m/s; Fat = 5.000 N >> Fórmula: τ_atrito = ΔEc → −Fat·d = 0 − m·v²/2 >> Conta: Ec = 1.000·625/2 = 312.500 J → d = 312.500/5.000 → d = 62,5 m >> Resultado: 62,5 m",
+"e": "Teorema da energia cinética"
+},
+{
+"p": "Um veículo de 2.000 kg a 54 km/h freia até parar sob força de atrito constante de 10.000 N. Pelo teorema da energia cinética, percorre 45 m na frenagem.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 2.000 kg; v = 54 km/h = 15 m/s; Fat = 10.000 N >> Fórmula: τ_atrito = ΔEc → −Fat·d = 0 − m·v²/2 >> Conta: Ec = 2.000·225/2 = 225.000 J → d = 225.000/10.000 → d = 22,5 m >> Resultado: 22,5 m",
+"e": "Teorema da energia cinética"
+},
+{
+"p": "Um veículo de 1.000 kg a 72 km/h freia até parar sob força de atrito constante de 10.000 N. Pelo teorema da energia cinética, percorre 20 m na frenagem.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.000 kg; v = 72 km/h = 20 m/s; Fat = 10.000 N >> Fórmula: τ_atrito = ΔEc → −Fat·d = 0 − m·v²/2 >> Conta: Ec = 1.000·400/2 = 200.000 J → d = 200.000/10.000 → d = 20 m >> Resultado: 20 m",
+"e": "Teorema da energia cinética"
+},
+{
+"p": "Um veículo de 1.200 kg a 126 km/h freia até parar sob força de atrito constante de 5.000 N. Pelo teorema da energia cinética, percorre 147 m na frenagem.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 1.200 kg; v = 126 km/h = 35 m/s; Fat = 5.000 N >> Fórmula: τ_atrito = ΔEc → −Fat·d = 0 − m·v²/2 >> Conta: Ec = 1.200·1225/2 = 735.000 J → d = 735.000/5.000 → d = 147 m >> Resultado: 147 m",
+"e": "Teorema da energia cinética"
+},
+{
+"p": "Um guincho eleva, com velocidade constante, uma carga de 1.000 kg a 5 m de altura em 10 s (g = 10 m/s²). A potência útil do guincho é de",
+"alts": [
+"1.000 W",
+"500 W",
+"5.000 W",
+"50.000 W",
+"10.000 W"
+],
+"r": 2,
+"n": [
+"Não confere.",
+"Esqueceu a gravidade.",
+"Correta.",
+"Esse é o trabalho (J), não a potência.",
+"Dobrou o resultado."
+],
+"x": "Dados: m = 1.000 kg; h = 5 m; Δt = 10 s >> Fórmula: τ = m·g·h; P = τ/Δt >> Conta: τ = 1.000·10·5 = 50.000 J → P = 50.000/10 = 5.000 W >> Resultado: 5.000 W (5 kW)",
+"e": "P = m·g·h/Δt"
+},
+{
+"p": "Para elevar uma carga de 100 kg a 5 m de altura em 10 s, com velocidade constante, é necessária potência útil de 5.000 W (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 100 kg; h = 5 m; Δt = 10 s >> Fórmula: τ = m·g·h; P = τ/Δt >> Conta: τ = 100·10·5 = 5.000 J → P = 5.000/10 = 500 W >> Resultado: 500 W (0,5 kW)",
+"e": "Potência média"
+},
+{
+"p": "Para elevar uma carga de 1.000 kg a 12 m de altura em 20 s, com velocidade constante, é necessária potência útil de 120.000 W (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.000 kg; h = 12 m; Δt = 20 s >> Fórmula: τ = m·g·h; P = τ/Δt >> Conta: τ = 1.000·10·12 = 120.000 J → P = 120.000/20 = 6.000 W >> Resultado: 6.000 W (6 kW)",
+"e": "Potência média"
+},
+{
+"p": "Um guincho eleva, com velocidade constante, uma carga de 1.000 kg a 3 m de altura em 30 s (g = 10 m/s²). A potência útil do guincho é de",
+"alts": [
+"30.000 W",
+"100 W",
+"1.000 W",
+"100.000 W",
+"2.000 W"
+],
+"r": 2,
+"n": [
+"Esse é o trabalho (J), não a potência.",
+"Esqueceu a gravidade.",
+"Correta.",
+"Inverteu tempo e altura.",
+"Dobrou o resultado."
+],
+"x": "Dados: m = 1.000 kg; h = 3 m; Δt = 30 s >> Fórmula: τ = m·g·h; P = τ/Δt >> Conta: τ = 1.000·10·3 = 30.000 J → P = 30.000/30 = 1.000 W >> Resultado: 1.000 W (1 kW)",
+"e": "P = m·g·h/Δt"
+},
+{
+"p": "Para elevar uma carga de 100 kg a 5 m de altura em 5 s, com velocidade constante, é necessária potência útil de 1.000 W (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 100 kg; h = 5 m; Δt = 5 s >> Fórmula: τ = m·g·h; P = τ/Δt >> Conta: τ = 100·10·5 = 5.000 J → P = 5.000/5 = 1.000 W >> Resultado: 1.000 W (1 kW)",
+"e": "Potência média"
+},
+{
+"p": "Para elevar uma carga de 200 kg a 12 m de altura em 30 s, com velocidade constante, é necessária potência útil de 24.000 W (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 200 kg; h = 12 m; Δt = 30 s >> Fórmula: τ = m·g·h; P = τ/Δt >> Conta: τ = 200·10·12 = 24.000 J → P = 24.000/30 = 800 W >> Resultado: 800 W (0,8 kW)",
+"e": "Potência média"
+},
+{
+"p": "Um guincho eleva, com velocidade constante, uma carga de 1.500 kg a 3 m de altura em 5 s (g = 10 m/s²). A potência útil do guincho é de",
+"alts": [
+"45.000 W",
+"9.000 W",
+"18.000 W",
+"900 W",
+"1.500 W"
+],
+"r": 1,
+"n": [
+"Esse é o trabalho (J), não a potência.",
+"Correta.",
+"Dobrou o resultado.",
+"Esqueceu a gravidade.",
+"Não confere."
+],
+"x": "Dados: m = 1.500 kg; h = 3 m; Δt = 5 s >> Fórmula: τ = m·g·h; P = τ/Δt >> Conta: τ = 1.500·10·3 = 45.000 J → P = 45.000/5 = 9.000 W >> Resultado: 9.000 W (9 kW)",
+"e": "P = m·g·h/Δt"
+},
+{
+"p": "Um veículo que mantém 126 km/h com força de tração de 1.500 N desenvolve potência de 189 kW.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 1.500 N; v = 126 km/h >> Converta: 126 km/h = 35 m/s >> Fórmula: P = F·v >> Conta: P = 1.500·35 → P = 52.500 W = 52,5 kW >> Atenção: sem converter, obteríamos 189 kW >> Resultado: 52,5 kW",
+"e": "P = F·v"
+},
+{
+"p": "Um veículo que mantém 72 km/h com força de tração de 3.000 N desenvolve potência de 216 kW.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 3.000 N; v = 72 km/h >> Converta: 72 km/h = 20 m/s >> Fórmula: P = F·v >> Conta: P = 3.000·20 → P = 60.000 W = 60 kW >> Atenção: sem converter, obteríamos 216 kW >> Resultado: 60 kW",
+"e": "P = F·v"
+},
+{
+"p": "Um veículo que mantém 36 km/h com força de tração de 4.000 N desenvolve potência de 144 kW.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 4.000 N; v = 36 km/h >> Converta: 36 km/h = 10 m/s >> Fórmula: P = F·v >> Conta: P = 4.000·10 → P = 40.000 W = 40 kW >> Atenção: sem converter, obteríamos 144 kW >> Resultado: 40 kW",
+"e": "P = F·v"
+},
+{
+"p": "Um veículo que mantém 108 km/h com força de tração de 1.500 N desenvolve potência de 45 kW.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F = 1.500 N; v = 108 km/h >> Converta: 108 km/h = 30 m/s >> Fórmula: P = F·v >> Conta: P = 1.500·30 → P = 45.000 W = 45 kW >> Atenção: sem converter, obteríamos 162 kW >> Resultado: 45 kW",
+"e": "P = F·v"
+},
+{
+"p": "Um veículo que mantém 90 km/h com força de tração de 3.000 N desenvolve potência de 75 kW.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: F = 3.000 N; v = 90 km/h >> Converta: 90 km/h = 25 m/s >> Fórmula: P = F·v >> Conta: P = 3.000·25 → P = 75.000 W = 75 kW >> Atenção: sem converter, obteríamos 270 kW >> Resultado: 75 kW",
+"e": "P = F·v"
+},
+{
+"p": "Um veículo que mantém 90 km/h com força de tração de 1.500 N desenvolve potência de 135 kW.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: F = 1.500 N; v = 90 km/h >> Converta: 90 km/h = 25 m/s >> Fórmula: P = F·v >> Conta: P = 1.500·25 → P = 37.500 W = 37,5 kW >> Atenção: sem converter, obteríamos 135 kW >> Resultado: 37,5 kW",
+"e": "P = F·v"
+},
+{
+"p": "Um motor de 120 cv tem potência de aproximadamente 88,2 kW (1 cv ≈ 735 W).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: P = 120 cv; 1 cv ≈ 735 W >> Conta: P = 120·735 = 88.200 W → P ≈ 88,2 kW >> Resultado: ≈ 88,2 kW",
+"e": "1 cv ≈ 735 W"
+},
+{
+"p": "Um motor de 100 cv tem potência de aproximadamente 73,5 kW (1 cv ≈ 735 W).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: P = 100 cv; 1 cv ≈ 735 W >> Conta: P = 100·735 = 73.500 W → P ≈ 73,5 kW >> Resultado: ≈ 73,5 kW",
+"e": "1 cv ≈ 735 W"
+},
+{
+"p": "Um motor de 75 cv tem potência de aproximadamente 55,1 kW (1 cv ≈ 735 W).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: P = 75 cv; 1 cv ≈ 735 W >> Conta: P = 75·735 = 55.125 W → P ≈ 55,1 kW >> Resultado: ≈ 55,1 kW",
+"e": "1 cv ≈ 735 W"
+},
+{
+"p": "Um motor de 200 cv tem potência de aproximadamente 147 kW (1 cv ≈ 735 W).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: P = 200 cv; 1 cv ≈ 735 W >> Conta: P = 200·735 = 147.000 W → P ≈ 147 kW >> Resultado: ≈ 147 kW",
+"e": "1 cv ≈ 735 W"
+},
+{
+"p": "Um equipamento de 1.000 W, ligado 2 h por dia durante 30 dias, consome 60 kWh.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: P = 1.000 W = 1 kW; tempo = 2 h × 30 dias >> Fórmula: E = P·Δt >> Conta: E = 1·2·30 → E = 60 kWh >> Atenção: kWh é unidade de energia; usar W sem converter dá um valor mil vezes maior >> Resultado: 60 kWh",
+"e": "E = P·Δt (kWh)"
+},
+{
+"p": "Um equipamento de 4.500 W, ligado 2 h por dia durante 30 dias, consome 270.000 kWh.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: P = 4.500 W = 4,5 kW; tempo = 2 h × 30 dias >> Fórmula: E = P·Δt >> Conta: E = 4,5·2·30 → E = 270 kWh >> Atenção: kWh é unidade de energia; usar W sem converter dá um valor mil vezes maior >> Resultado: 270 kWh",
+"e": "E = P·Δt (kWh)"
+},
+{
+"p": "Um equipamento de 1.500 W, ligado 1 h por dia durante 30 dias, consome 45.000 kWh.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: P = 1.500 W = 1,5 kW; tempo = 1 h × 30 dias >> Fórmula: E = P·Δt >> Conta: E = 1,5·1·30 → E = 45 kWh >> Atenção: kWh é unidade de energia; usar W sem converter dá um valor mil vezes maior >> Resultado: 45 kWh",
+"e": "E = P·Δt (kWh)"
+},
+{
+"p": "Um equipamento de 1.000 W, ligado 0,5 h por dia durante 10 dias, consome 5.000 kWh.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: P = 1.000 W = 1 kW; tempo = 0,5 h × 10 dias >> Fórmula: E = P·Δt >> Conta: E = 1·0,5·10 → E = 5 kWh >> Atenção: kWh é unidade de energia; usar W sem converter dá um valor mil vezes maior >> Resultado: 5 kWh",
+"e": "E = P·Δt (kWh)"
+},
+{
+"p": "Um equipamento de 1.000 W, ligado 1 h por dia durante 10 dias, consome 10.000 kWh.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: P = 1.000 W = 1 kW; tempo = 1 h × 10 dias >> Fórmula: E = P·Δt >> Conta: E = 1·1·10 → E = 10 kWh >> Atenção: kWh é unidade de energia; usar W sem converter dá um valor mil vezes maior >> Resultado: 10 kWh",
+"e": "E = P·Δt (kWh)"
+},
+{
+"p": "Para fornecer 12,5 kW úteis, um motor de rendimento 25% precisa receber 50 kW.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: P_útil = 12,5 kW; η = 0,25 >> Fórmula: P_total = P_útil/η >> Conta: P_total = 12,5/0,25 = 50 kW >> Confere: a potência total é sempre MAIOR que a útil >> Resultado: 50 kW",
+"e": "P_total = P_útil/η"
+},
+{
+"p": "Um motor que recebe 80 kW e tem rendimento de 40% dissipa 32 kW.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: P_total = 80 kW; η = 40% >> Fórmula: P_útil = η·P_total; P_dissipada = P_total − P_útil >> Conta: P_útil = 0,4·80 = 32 kW → P_diss = 80 − 32 = 48 kW >> Resultado: 32 kW úteis; 48 kW dissipados",
+"e": "Rendimento"
+},
+{
+"p": "Para fornecer 20 kW úteis, um motor de rendimento 40% precisa receber 50 kW.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: P_útil = 20 kW; η = 0,4 >> Fórmula: P_total = P_útil/η >> Conta: P_total = 20/0,4 = 50 kW >> Confere: a potência total é sempre MAIOR que a útil >> Resultado: 50 kW",
+"e": "P_total = P_útil/η"
+},
+{
+"p": "Um motor que recebe 300 kW e tem rendimento de 75% fornece potência útil de 225 kW e dissipa 75 kW.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: P_total = 300 kW; η = 75% >> Fórmula: P_útil = η·P_total; P_dissipada = P_total − P_útil >> Conta: P_útil = 0,75·300 = 225 kW → P_diss = 300 − 225 = 75 kW >> Resultado: 225 kW úteis; 75 kW dissipados",
+"e": "Rendimento"
+},
+{
+"p": "Para fornecer 37,5 kW úteis, um motor de rendimento 75% precisa receber 28,13 kW.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: P_útil = 37,5 kW; η = 0,75 >> Fórmula: P_total = P_útil/η >> Conta: P_total = 37,5/0,75 = 50 kW >> Confere: a potência total é sempre MAIOR que a útil >> Resultado: 50 kW",
+"e": "P_total = P_útil/η"
+},
+{
+"p": "Um motor que recebe 300 kW e tem rendimento de 80% fornece potência útil de 240 kW e dissipa 60 kW.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: P_total = 300 kW; η = 80% >> Fórmula: P_útil = η·P_total; P_dissipada = P_total − P_útil >> Conta: P_útil = 0,8·300 = 240 kW → P_diss = 300 − 240 = 60 kW >> Resultado: 240 kW úteis; 60 kW dissipados",
+"e": "Rendimento"
+},
+{
+"p": "Um veículo com potência útil máxima de 60 kW enfrenta, em pista plana, resistências totais de 2.000 N em alta velocidade. Sua velocidade máxima é de 108 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: na velocidade máxima, toda a potência útil é usada para vencer as resistências (resultante nula) >> Fórmula: P = F·v → v = P/F >> Conta: v = 60.000/2.000 → v = 30 m/s (108 km/h) >> Resultado: 30 m/s",
+"e": "Velocidade máxima"
+},
+{
+"p": "Um veículo com potência útil máxima de 90 kW enfrenta, em pista plana, resistências totais de 2.250 N em alta velocidade. Sua velocidade máxima é de 40 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: na velocidade máxima, toda a potência útil é usada para vencer as resistências (resultante nula) >> Fórmula: P = F·v → v = P/F >> Conta: v = 90.000/2.250 → v = 40 m/s (144 km/h) >> Resultado: 40 m/s",
+"e": "Velocidade máxima"
+},
+{
+"p": "Um veículo com potência útil máxima de 80 kW enfrenta, em pista plana, resistências totais de 4.000 N em alta velocidade. Sua velocidade máxima é de 20 m/s.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: na velocidade máxima, toda a potência útil é usada para vencer as resistências (resultante nula) >> Fórmula: P = F·v → v = P/F >> Conta: v = 80.000/4.000 → v = 20 m/s (72 km/h) >> Resultado: 20 m/s",
+"e": "Velocidade máxima"
+},
+{
+"p": "Um veículo com potência útil máxima de 100 kW enfrenta, em pista plana, resistências totais de 2.500 N em alta velocidade. Sua velocidade máxima é de 144 m/s.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: na velocidade máxima, toda a potência útil é usada para vencer as resistências (resultante nula) >> Fórmula: P = F·v → v = P/F >> Conta: v = 100.000/2.500 → v = 40 m/s (144 km/h) >> Resultado: 40 m/s",
+"e": "Velocidade máxima"
+},
+{
+"p": "Para subir com velocidade constante de 10 m/s uma rampa cuja inclinação tem seno 0,1, um veículo de 1.000 kg precisa de, no mínimo, 100 kW só para vencer seu peso (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 1.000 kg; sen θ = 0,1; v = 10 m/s >> Ideia: a força a vencer é a componente do peso ao longo da rampa, m·g·sen θ >> Fórmula: P = F·v = m·g·sen θ·v >> Conta: F = 1.000·10·0,1 = 1.000 N → P = 1.000·10 = 10.000 W >> Resultado: 10 kW",
+"e": "Potência na rampa"
+},
+{
+"p": "Para subir com velocidade constante de 15 m/s uma rampa cuja inclinação tem seno 0,05, um veículo de 40.000 kg precisa de, no mínimo, 300 kW só para vencer seu peso (g = 10 m/s²).",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 40.000 kg; sen θ = 0,05; v = 15 m/s >> Ideia: a força a vencer é a componente do peso ao longo da rampa, m·g·sen θ >> Fórmula: P = F·v = m·g·sen θ·v >> Conta: F = 40.000·10·0,05 = 20.000 N → P = 20.000·15 = 300.000 W >> Resultado: 300 kW",
+"e": "Potência na rampa"
+},
+{
+"p": "Para subir com velocidade constante de 20 m/s uma rampa cuja inclinação tem seno 0,08, um veículo de 2.000 kg precisa de, no mínimo, 400 kW só para vencer seu peso (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 2.000 kg; sen θ = 0,08; v = 20 m/s >> Ideia: a força a vencer é a componente do peso ao longo da rampa, m·g·sen θ >> Fórmula: P = F·v = m·g·sen θ·v >> Conta: F = 2.000·10·0,08 = 1.600 N → P = 1.600·20 = 32.000 W >> Resultado: 32 kW",
+"e": "Potência na rampa"
+},
+{
+"p": "Para subir com velocidade constante de 10 m/s uma rampa cuja inclinação tem seno 0,06, um veículo de 10.000 kg precisa de, no mínimo, 1.000 kW só para vencer seu peso (g = 10 m/s²).",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 10.000 kg; sen θ = 0,06; v = 10 m/s >> Ideia: a força a vencer é a componente do peso ao longo da rampa, m·g·sen θ >> Fórmula: P = F·v = m·g·sen θ·v >> Conta: F = 10.000·10·0,06 = 6.000 N → P = 6.000·10 = 60.000 W >> Resultado: 60 kW",
+"e": "Potência na rampa"
+},
+{
+"p": "O trabalho necessário para comprimir de 10 cm uma mola de constante 2.000 N/m, a partir de seu comprimento natural, é de 20 J.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: k = 2.000 N/m; x = 0,1 m >> Ideia: a força cresce de 0 a k·x; o trabalho é a área do triângulo no gráfico F × x >> Fórmula: τ = k·x²/2 >> Conta: τ = 2.000·0,01/2 → τ = 10 J >> Atenção: k·x² (20 J) esquece que a força não é constante >> Resultado: 10 J",
+"e": "Trabalho da mola"
+},
+{
+"p": "O trabalho necessário para comprimir de 20 cm uma mola de constante 800 N/m, a partir de seu comprimento natural, é de 32 J.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: k = 800 N/m; x = 0,2 m >> Ideia: a força cresce de 0 a k·x; o trabalho é a área do triângulo no gráfico F × x >> Fórmula: τ = k·x²/2 >> Conta: τ = 800·0,04/2 → τ = 16 J >> Atenção: k·x² (32 J) esquece que a força não é constante >> Resultado: 16 J",
+"e": "Trabalho da mola"
+},
+{
+"p": "O trabalho necessário para comprimir de 4 cm uma mola de constante 5.000 N/m, a partir de seu comprimento natural, é de 4 J.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: k = 5.000 N/m; x = 0,04 m >> Ideia: a força cresce de 0 a k·x; o trabalho é a área do triângulo no gráfico F × x >> Fórmula: τ = k·x²/2 >> Conta: τ = 5.000·0,0016/2 → τ = 4 J >> Atenção: k·x² (8 J) esquece que a força não é constante >> Resultado: 4 J",
+"e": "Trabalho da mola"
+},
+{
+"p": "O trabalho necessário para comprimir de 30 cm uma mola de constante 1.000 N/m, a partir de seu comprimento natural, é de 45 J.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: k = 1.000 N/m; x = 0,3 m >> Ideia: a força cresce de 0 a k·x; o trabalho é a área do triângulo no gráfico F × x >> Fórmula: τ = k·x²/2 >> Conta: τ = 1.000·0,09/2 → τ = 45 J >> Atenção: k·x² (90 J) esquece que a força não é constante >> Resultado: 45 J",
+"e": "Trabalho da mola"
+},
+{
+"p": "Se a velocidade de um veículo dobrar, a potência necessária para vencer apenas a resistência do ar ficará cerca de 2 vezes maior.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: a força do ar cresce com v² e a potência é força vezes velocidade >> Fórmula: P = F·v ∝ v²·v = v³ >> Conta: fator 2 → 2³ = 8 >> Resultado: ≈ 8 vezes maior",
+"e": "Potência contra o ar ∝ v³"
+},
+{
+"p": "Se a velocidade de um veículo dobrar, sua energia cinética ficará 4 vezes maior.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Ec = m·v²/2 >> Ideia: a energia cinética é proporcional ao quadrado da velocidade >> Conta: fator 2 → 2² = 4 >> Resultado: 4 vezes maior",
+"e": "Ec ∝ v²"
+},
+{
+"p": "Se a velocidade de um veículo triplicar, a potência necessária para vencer apenas a resistência do ar ficará cerca de 27 vezes maior.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a força do ar cresce com v² e a potência é força vezes velocidade >> Fórmula: P = F·v ∝ v²·v = v³ >> Conta: fator 3 → 3³ = 27 >> Resultado: ≈ 27 vezes maior",
+"e": "Potência contra o ar ∝ v³"
+},
+{
+"p": "Se a velocidade de um veículo triplicar, sua energia cinética ficará 3 vezes maior.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Ec = m·v²/2 >> Ideia: a energia cinética é proporcional ao quadrado da velocidade >> Conta: fator 3 → 3² = 9 >> Resultado: 9 vezes maior",
+"e": "Ec ∝ v²"
+},
+{
+"p": "Sem atrito, para empurrar uma carga de 150 kg rampa acima até 1 m de altura, por uma rampa de 3 m, basta força de 500 N paralela à rampa, mas o trabalho é o mesmo de erguê-la verticalmente.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 150 kg; h = 1 m; L = 3 m >> Ideia: máquinas simples reduzem a força, mas não o trabalho >> Conta: força na rampa = m·g·h/L = 1500·1/3 = 500 N → trabalho = 500·3 = 1.500 J = m·g·h >> Resultado: força menor; trabalho igual",
+"e": "Máquina simples"
+},
+{
+"p": "Sem atrito, para empurrar uma carga de 200 kg rampa acima até 1,2 m de altura, por uma rampa de 4 m, basta força de 600 N paralela à rampa, mas o trabalho é o mesmo de erguê-la verticalmente.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 200 kg; h = 1,2 m; L = 4 m >> Ideia: máquinas simples reduzem a força, mas não o trabalho >> Conta: força na rampa = m·g·h/L = 2000·1,2/4 = 600 N → trabalho = 600·4 = 2.400 J = m·g·h >> Resultado: força menor; trabalho igual",
+"e": "Máquina simples"
+},
+{
+"p": "Sem atrito, usar uma rampa de 4 m para levar uma carga de 100 kg a 0,8 m de altura reduz o trabalho necessário, em comparação com erguê-la verticalmente.",
+"c": false,
+"prof": "Errado.",
+"x": "Dados: m = 100 kg; h = 0,8 m; L = 4 m >> Ideia: máquinas simples reduzem a força, mas não o trabalho >> Conta: força na rampa = m·g·h/L = 1000·0,8/4 = 200 N → trabalho = 200·4 = 800 J = m·g·h >> Resultado: força menor; trabalho igual",
+"e": "Máquina simples"
+},
+{
+"p": "Sem atrito, para empurrar uma carga de 300 kg rampa acima até 1,5 m de altura, por uma rampa de 5 m, basta força de 900 N paralela à rampa, mas o trabalho é o mesmo de erguê-la verticalmente.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: m = 300 kg; h = 1,5 m; L = 5 m >> Ideia: máquinas simples reduzem a força, mas não o trabalho >> Conta: força na rampa = m·g·h/L = 3000·1,5/5 = 900 N → trabalho = 900·5 = 4.500 J = m·g·h >> Resultado: força menor; trabalho igual",
+"e": "Máquina simples"
+},
+{
+"p": "Um agente que segura uma caixa pesada, parado, durante vários minutos, realiza grande trabalho mecânico sobre ela.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: trabalho exige deslocamento do ponto de aplicação da força >> Ideia: sem deslocamento, τ = F·0 = 0; o cansaço vem do esforço muscular interno >> Resultado: trabalho nulo sobre a caixa",
+"e": "Sem deslocamento, sem trabalho"
+},
+{
+"p": "A força normal exercida por uma estrada plana sobre um veículo em movimento não realiza trabalho.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a normal é vertical e o deslocamento é horizontal >> Fórmula: τ = F·d·cos 90° = 0 >> Resultado: certo",
+"e": "Força perpendicular: trabalho nulo"
+},
+{
+"p": "O trabalho realizado pelo peso de um corpo entre dois pontos depende apenas do desnível entre eles, e não da trajetória.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: só a componente vertical do deslocamento é paralela ao peso >> Fórmula: τ_P = ± m·g·h >> Resultado: certo; o peso é força conservativa",
+"e": "Peso: independe da trajetória"
+},
+{
+"p": "O trabalho realizado pela força de atrito cinético sobre um corpo que desliza num piso fixo é positivo, pois o atrito é uma força real.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o atrito cinético se opõe ao deslizamento (θ = 180°) >> Fórmula: τ = −Fat·d >> Resultado: trabalho negativo (resistente), que vira calor",
+"e": "Atrito: trabalho negativo"
+},
+{
+"p": "O trabalho realizado pelo atrito depende da trajetória: quanto maior o caminho percorrido com deslizamento, mais energia é dissipada.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: atrito é força dissipativa (não conservativa) >> Fórmula: τ = −Fat·d, com d = caminho percorrido >> Resultado: certo",
+"e": "Atrito depende do caminho"
+},
+{
+"p": "O trabalho é uma grandeza vetorial, com direção e sentido iguais aos da força que o realiza.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: τ = F·d·cos θ é um produto escalar: o resultado é um número com sinal >> Resultado: trabalho é escalar",
+"e": "Trabalho é escalar"
+},
+{
+"p": "A força centrípeta que atua sobre um corpo em movimento circular uniforme não realiza trabalho, razão pela qual sua energia cinética permanece constante.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a força centrípeta é perpendicular à velocidade em cada instante >> Fórmula: τ = 0 → ΔEc = 0 >> Resultado: certo",
+"e": "Centrípeta: trabalho nulo"
+},
+{
+"p": "Pelo teorema da energia cinética, o trabalho total realizado sobre um corpo é igual à variação de sua energia cinética.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: τ_total = Ec_final − Ec_inicial >> Ideia: trabalho total positivo aumenta a velocidade; negativo diminui; nulo a mantém >> Resultado: certo",
+"e": "TEC"
+},
+{
+"p": "Se um veículo sobe uma serra com velocidade constante, o trabalho total das forças que atuam sobre ele é positivo, pois o motor está fornecendo energia.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: com velocidade constante, a energia cinética não varia >> Fórmula: τ_total = ΔEc = 0 >> Ideia: o trabalho positivo da força de tração compensa o trabalho negativo do peso e das resistências >> Resultado: trabalho total nulo",
+"e": "Velocidade constante: τ_total = 0"
+},
+{
+"p": "Mantida a força de frenagem, um veículo com o dobro da velocidade precisa de distância quatro vezes maior para parar, porque sua energia cinética é quatro vezes maior.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: Fat·d = m·v²/2 → d ∝ v² >> Conta: v × 2 → Ec × 4 → d × 4 >> Resultado: certo",
+"e": "Frenagem ∝ v²"
+},
+{
+"p": "O quilowatt-hora é uma unidade de potência utilizada nas contas de energia elétrica.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: kWh = potência (kW) × tempo (h): é energia >> Conta: 1 kWh = 1.000 W·3.600 s = 3,6 × 10⁶ J >> Resultado: unidade de energia",
+"e": "kWh é energia"
+},
+{
+"p": "Um cavalo-vapor corresponde a aproximadamente 735 W.",
+"c": true,
+"prof": "Certo.",
+"x": "Resultado: certo; o horsepower (hp) vale ≈ 746 W",
+"e": "1 cv ≈ 735 W"
+},
+{
+"p": "Com a mesma potência disponível, um veículo consegue exercer maior força de tração em velocidades mais altas.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: P = F·v → F = P/v >> Ideia: com P fixa, quanto maior v, menor F >> Resultado: errado; por isso se reduz a marcha para subir ou ultrapassar",
+"e": "P = F·v"
+},
+{
+"p": "Reduzir a marcha antes de subir uma serra permite que o motor gire em rotação mais alta e que o câmbio multiplique o torque nas rodas, aumentando a força de tração disponível.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o câmbio troca rotação por torque; marcha baixa → mais torque nas rodas >> Fórmula: P = M·ω (o motor em rotação adequada entrega mais potência) >> Resultado: certo",
+"e": "Marcha baixa: mais torque"
+},
+{
+"p": "Um motor com rendimento de 30% dissipa 30% da energia que recebe.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: η = útil/total >> Ideia: 30% vira energia útil; os outros 70% são dissipados >> Resultado: dissipa 70%",
+"e": "Rendimento"
+},
+{
+"p": "Os motores elétricos têm, em geral, rendimento bem maior que os motores a combustão interna.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: motores a combustão de automóveis convertem cerca de 25% a 35% da energia do combustível em trabalho; os elétricos, cerca de 85% a 95% >> Resultado: certo",
+"e": "Rendimento: elétrico x combustão"
+},
+{
+"p": "Quando duas máquinas operam em sequência, o rendimento global é o produto dos rendimentos individuais.",
+"c": true,
+"prof": "Certo.",
+"x": "Conta: exemplo: 0,35 × 0,9 = 0,315 (31,5%) >> Resultado: certo",
+"e": "Rendimentos em sequência"
+},
+{
+"p": "Uma máquina simples ideal, como uma rampa ou uma talha, reduz o trabalho necessário para elevar uma carga.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: máquinas simples reduzem a força, mas aumentam o deslocamento na mesma proporção >> Resultado: o trabalho é o mesmo (sem atrito); com atrito, é até maior",
+"e": "Máquinas não economizam trabalho"
+},
+{
+"p": "A roldana móvel permite elevar uma carga com metade da força, mas exige que se puxe o dobro de corda.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: a carga é sustentada por dois trechos de corda >> Conta: força = P/2; deslocamento da corda = 2h; trabalho = (P/2)·2h = P·h >> Resultado: certo",
+"e": "Roldana móvel"
+},
+{
+"p": "No freio hidráulico, a pressão aplicada ao pedal é multiplicada nas pinças das rodas.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: pelo princípio de Pascal, a pressão se transmite igual em todo o líquido >> Ideia: o que se multiplica é a força, porque as áreas dos êmbolos das rodas são maiores >> Resultado: errado",
+"e": "Pascal"
+},
+{
+"p": "A potência necessária para vencer a resistência do ar cresce, aproximadamente, com o cubo da velocidade, o que explica o grande aumento do consumo em altas velocidades.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: F_ar ∝ v² → P = F·v ∝ v³ >> Conta: velocidade × 2 → potência contra o ar × 8 >> Resultado: certo",
+"e": "P_ar ∝ v³"
+},
+{
+"p": "Numa descida longa, o uso contínuo do freio de serviço pode superaquecer os freios e reduzir sua eficiência, motivo pelo qual se recomenda o freio-motor.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o peso realiza trabalho positivo contínuo; essa energia precisa ser dissipada como calor >> Ideia: freios superaquecidos perdem atrito (fading) >> Resultado: certo",
+"e": "Freio-motor"
+},
+{
+"p": "A energia de um automóvel a 100 km/h é aproximadamente o dobro da energia do mesmo automóvel a 50 km/h.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: Ec ∝ v² >> Conta: velocidade × 2 → energia × 4 >> Resultado: cerca de quatro vezes",
+"e": "Ec ∝ v²"
+},
+{
+"p": "A energia cinética de um carro a 50 km/h equivale à energia que ele teria ao cair de uma altura de cerca de 10 m.",
+"c": true,
+"prof": "Certo.",
+"x": "Dados: v = 50 km/h ≈ 13,9 m/s >> Fórmula: m·g·h = m·v²/2 → h = v²/(2g) >> Conta: h = 13,9²/20 ≈ 193/20 ≈ 9,7 m >> Resultado: ≈ 10 m (cerca de três andares)",
+"e": "Altura equivalente"
+},
+{
+"p": "Defensas metálicas deformáveis protegem menos os ocupantes do que muros rígidos, pois param o veículo em menor tempo.",
+"c": false,
+"prof": "Errado.",
+"x": "Fórmula: F·d = Ec >> Ideia: para a mesma energia, maior distância de parada → menor força >> Resultado: as deformáveis reduzem a força; o muro rígido a aumenta",
+"e": "Deformação reduz a força"
+},
+{
+"p": "No gráfico força × deslocamento, a área sob a curva é numericamente igual ao trabalho realizado pela força.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: para força constante, a área é o retângulo F·d; para forças variáveis, soma-se a área de cada trecho >> Resultado: certo",
+"e": "Área = trabalho"
+},
+{
+"p": "Um chuveiro de 5.500 W, ligado durante uma hora, consome 5.500 kWh.",
+"c": false,
+"prof": "Errado.",
+"x": "Conta: E = 5,5 kW·1 h = 5,5 kWh (ou 5.500 Wh) >> Resultado: 5,5 kWh",
+"e": "kW x kWh"
+},
+{
+"p": "Um caminhão de 30 t desce uma serra de 300 m de desnível com velocidade constante, usando freio-motor e freios. A energia dissipada como calor ao longo da descida é de (g = 10 m/s²)",
+"alts": [
+"9 MJ",
+"90 MJ",
+"900 kJ",
+"9.000 MJ",
+"zero, pois a velocidade é constante"
+],
+"r": 1,
+"n": [
+"Erro de potência de 10.",
+"Correta.",
+"Erro de potência de 10.",
+"Erro de potência de 10.",
+"A velocidade constante significa Ec constante, mas a energia potencial perdida vira calor."
+],
+"x": "Dados: m = 30.000 kg; h = 300 m >> Ideia: com velocidade constante, toda a energia potencial perdida é dissipada pelas forças resistivas >> Fórmula: E = m·g·h >> Conta: E = 30.000·10·300 = 90.000.000 J >> Resultado: 90 MJ",
+"e": "Descida em velocidade constante"
+},
+{
+"p": "Um automóvel de 1.200 kg passa de 20 m/s para 30 m/s em 5 s. Desprezando perdas, a potência média útil do motor no intervalo é de",
+"alts": [
+"24 kW",
+"2,4 kW",
+"60 kW",
+"120 kW",
+"12 kW"
+],
+"r": 2,
+"n": [
+"Não confere.",
+"Erro de potência de 10.",
+"Correta.",
+"Esqueceu o /2 da energia cinética.",
+"Não confere."
+],
+"x": "Dados: m = 1.200 kg; v₀ = 20 m/s; v = 30 m/s; Δt = 5 s >> Fórmula: P = ΔEc/Δt >> Conta: ΔEc = 1.200·(900 − 400)/2 = 300.000 J → P = 300.000/5 = 60.000 W >> Resultado: 60 kW",
+"e": "Potência média e ΔEc"
+},
+{
+"p": "Num carro, o motor converte em trabalho 30% da energia do combustível, e a transmissão entrega às rodas 90% da energia que recebe do motor. A fração da energia do combustível que chega às rodas é",
+"alts": [
+"30%",
+"90%",
+"60%",
+"27%",
+"120%"
+],
+"r": 3,
+"n": [
+"Ignorou as perdas da transmissão.",
+"Ignorou as perdas do motor.",
+"Subtraiu os rendimentos.",
+"Correta.",
+"Somou os rendimentos (impossível passar de 100%)."
+],
+"x": "Ideia: rendimentos em sequência se multiplicam >> Conta: 0,30·0,90 = 0,27 >> Resultado: 27%",
+"e": "Rendimento global"
+},
+{
+"p": "A potência média de um motor que realiza 60.000 J de trabalho útil em 20 s é de 3 kW.",
+"c": true,
+"prof": "Certo.",
+"x": "Fórmula: P = τ/Δt >> Conta: P = 60.000/20 → P = 3.000 W = 3 kW >> Resultado: 3 kW",
+"e": "Potência média"
+},
+{
+"p": "Subir uma escada correndo exige mais trabalho contra o peso do que subi-la caminhando.",
+"c": false,
+"prof": "Errado.",
+"x": "Ideia: o trabalho contra o peso é m·g·h, igual nos dois casos >> Ideia: correndo, o mesmo trabalho é feito em menos tempo: exige mais potência >> Resultado: mesmo trabalho, maior potência",
+"e": "Trabalho x potência"
+},
+{
+"p": "Na frenagem convencional, a energia cinética do veículo é transformada principalmente em energia térmica nos freios.",
+"c": true,
+"prof": "Certo.",
+"x": "Ideia: o atrito entre pastilhas e discos realiza trabalho negativo sobre o veículo >> Ideia: essa energia aquece freios, pneus e ar; só a frenagem regenerativa recupera parte dela >> Resultado: certo",
+"e": "Frenagem: energia vira calor"
 }
 ]
 }

@@ -7,6 +7,7 @@ import { esc, iso, hoje } from './util.js';
 import { toast } from './ui.js';
 import { chaveQ } from './leitura/index.js';
 import { passoAPasso } from './rlm-tutor.js';
+import { resolucaoFisica } from './fisica-tutor.js';
 
 export const LETRA = 'ABCDE';
 const hash = (s) => parseInt(chaveQ(String(s)), 36) || 0;
@@ -103,9 +104,10 @@ export function htmlGabarito(q, ok, marcada) {
   else ver = ok ? 'O item está <b>errado</b> mesmo, e é importante saber exatamente onde.' : 'Você marcou Certo, mas o item está <b>errado</b>.';
   const partes = [msg(`${um(ok ? ABRE_OK : ABRE_ERRO, h)} ${ver}`, 'abre')];
   // 2) explicação: fala do professor (T:) e explicação (X:)
-  const prof = String(q.prof || '').trim();
+  // "Letra C." sozinho não serve: as alternativas são embaralhadas na tela
+  const prof = String(q.prof || '').trim().replace(/^letra [A-E]\.?$/i, '');
   if (prof) partes.push(msg(esc(prof)));
-  const base = q.rlm ? '' : x || (!prof ? e : '');
+  const base = q.rlm || q.fis ? '' : x || (!prof ? e : '');
   if (base) {
     const intro = !me && !q.c ? um(ERRADO_PORQUE, h >>> 3) : um(POR_QUE, h >>> 3);
     partes.push(msg(`${prof ? '' : `<b>${intro}</b> `}${esc(base)}`));
@@ -127,6 +129,8 @@ export function htmlGabarito(q, ok, marcada) {
   // RLM: a explicação vira resolução passo a passo, com tabela-verdade pronta quando couber
   let pp = ''; if (q.rlm) { try { pp = passoAPasso(q); } catch { pp = ''; } }
   if (q.rlm && !pp && (x || e)) partes.splice(1, 0, msg(esc(x || e)));
+  // Física: resolução em etapas (dados, fórmula, conta, resultado), reveladas uma a uma
+  if (q.fis) { try { pp = resolucaoFisica(q); } catch { pp = ''; } if (!pp && (x || e)) partes.splice(1, 0, msg(esc(x || e))); }
   return `<b>${ok ? '✅ Você acertou!' : '❌ Não foi dessa vez.'}</b> Gabarito: ${gab}.
     <div class="lt-gab lt-chat"><div class="lt-av">👨‍🏫 <b>Professor</b></div>${partes.join('')}${pp}</div>`;
 }
