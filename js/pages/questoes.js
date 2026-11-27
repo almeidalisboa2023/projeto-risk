@@ -91,7 +91,7 @@ export async function render(el, query) {
     <div id="qbRlm"></div>
     <div class="qb-barra">
       <div><b id="qbN">0</b> <span class="muted">questões encontradas</span></div>
-      <div class="qb-sess" title="Nesta visita"><span>Nesta sessão:</span><b id="sF">${sessao.feitas}</b> respondidas · <b class="g" id="sO">${sessao.ok}</b> certas · <b class="r" id="sE">${sessao.feitas - sessao.ok}</b> erradas<i class="qb-sbar"><i id="sBar" style="width:${sessao.feitas ? Math.round((100 * sessao.ok) / sessao.feitas) : 0}%"></i></i></div>
+      <div class="qb-sess" title="Nesta visita"><span>Nesta sessão:</span><b id="sF">${sessao.feitas}</b> respondidas · <b class="g" id="sO">${sessao.ok}</b> certas · <b class="r" id="sE">${sessao.feitas - sessao.ok}</b> erradas<i class="qb-sbar" title="Porcentagem de acertos"><i id="sBar" style="width:${sessao.feitas ? Math.round((100 * sessao.ok) / sessao.feitas) : 0}%"></i><em id="sPct">${sessao.feitas ? Math.round((100 * sessao.ok) / sessao.feitas) : 0}%</em></i></div>
       <span class="sp"></span>
       <div class="qb-seg mini" id="fOrd"><button data-v="mix" class="${F.ordem === 'mix' ? 'ativo' : ''}" title="Certo e Errado intercalados">Intercaladas</button><button data-v="rand" class="${F.ordem === 'rand' ? 'ativo' : ''}">🔀 Embaralhar</button></div>
     </div>
@@ -142,7 +142,7 @@ function lista(el) {
       registrar(ctx, it.q, ok);
       sessao.feitas++; if (ok) sessao.ok++;
       el.querySelector('#sF').textContent = sessao.feitas; el.querySelector('#sO').textContent = sessao.ok; el.querySelector('#sE').textContent = sessao.feitas - sessao.ok;
-      el.querySelector('#sBar').style.width = Math.round((100 * sessao.ok) / sessao.feitas) + '%';
+      const pct = Math.round((100 * sessao.ok) / sessao.feitas) + '%'; el.querySelector('#sBar').style.width = pct; el.querySelector('#sPct').textContent = pct;
     }));
   });
   // Paginação numerada

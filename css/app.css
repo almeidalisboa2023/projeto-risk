@@ -1621,7 +1621,7 @@ body { font-feature-settings: 'kern', 'liga'; -webkit-font-smoothing: antialiase
 .qb-barra { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; margin: 16px 2px 10px; }
 .qb-barra > div:first-child b { font-size: 20px; }
 .qb-sess { font-size: 13px; color: var(--txt2); display: flex; gap: 5px; align-items: center; flex-wrap: wrap; } .qb-sess b { color: var(--txt); } .qb-sess b.g { color: var(--verde); } .qb-sess b.r { color: var(--vermelho); }
-.qb-sbar { display: inline-block; width: 70px; height: 6px; border-radius: 99px; background: color-mix(in srgb, var(--vermelho) 30%, var(--pill)); overflow: hidden; margin-left: 4px; } .qb-sbar i { display: block; height: 100%; background: var(--verde); }
+.qb-sbar { display: inline-block; position: relative; vertical-align: middle; width: 84px; height: 18px; border-radius: 99px; background: color-mix(in srgb, var(--vermelho) 30%, var(--pill)); overflow: hidden; margin-left: 4px; } .qb-sbar i { display: block; height: 100%; background: var(--verde); }
 .qb-q { padding: 0; border-radius: 16px; margin: 0 0 12px; overflow: hidden; border-left: 4px solid var(--c, var(--ouro)); }
 .qb-qcab { display: flex; gap: 10px; align-items: center; padding: 10px 16px; border-bottom: 1px solid var(--borda); background: color-mix(in srgb, var(--c, var(--ouro)) 6%, transparent); font-size: 12.5px; flex-wrap: wrap; }
 .qb-num { font: 700 12px var(--mono); padding: 3px 8px; border-radius: 8px; background: var(--btn); color: var(--btn-txt); }
@@ -1698,3 +1698,6 @@ body { font-feature-settings: 'kern', 'liga'; -webkit-font-smoothing: antialiase
 .stf-sig{margin:8px 0 2px;border:1px solid rgba(34,160,90,.45);border-radius:8px;background:rgba(34,160,90,.08)}
 .stf-sig>summary{cursor:pointer;padding:6px 10px;font-weight:600;color:#1E9E57;font-size:.92em}
 .stf-sig>p{margin:0;padding:0 12px 10px;line-height:1.55}
+
+/* Porcentagem de acertos dentro da barrinha da sessão */
+.qb-sbar em { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-style: normal; font-size: 11px; font-weight: 700; line-height: 1; color: #fff; text-shadow: 0 1px 2px rgba(0,0,0,.55); font-variant-numeric: tabular-nums; pointer-events: none; }
