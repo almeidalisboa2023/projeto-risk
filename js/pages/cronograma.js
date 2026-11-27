@@ -31,7 +31,7 @@ export function materiasDoPlano(curso = meuCurso()) {
   const idioma = (id) => (/^espanhol/.test(id) ? 'es' : /^ingles|^gramatica$/.test(id) ? 'en' : '');
   const porLingua = (m) => (m.id === 'lingua-estrangeira' && (lg === 'en' || lg === 'es') ? { ...m, assuntos: m.assuntos.filter((a) => !idioma(a.id) || idioma(a.id) === lg) } : m);
   const base = curso && !meuCurso() ? filtrarMaterias(comEdicoes(comConteudos()), { role: 'aluno', curso: curso.id, materias_removidas: [] }).map((m) => (m.soEdital ? { ...m, soEdital: null } : m)) : visiveis();
-  return base.map(porLingua).filter((m) => (m.assuntos || []).length).map((m) => ({ id: m.id, nome: m.nome, ico: m.ico, cor: m.cor,
+  return base.map(porLingua).filter((m) => !m.consulta && (m.assuntos || []).length).map((m) => ({ id: m.id, nome: m.nome, ico: m.ico, cor: m.cor,
     assuntos: m.assuntos.map((a) => a.titulo), est: m.assuntos.map((a) => pal(a.html) / 180 + pal(a.aprof) / 360 + Math.min(a.quiz?.length || 0, 40) * 1.2 + 10) }));
 }
 

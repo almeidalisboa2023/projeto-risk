@@ -16,6 +16,8 @@ import { JURIS } from './juris.js';
 import { GAB } from './gab/index.js';
 import { PROFUNDO } from './profundo.js';
 import { TOPICOS_EXTRA } from './extras-topicos.js';
+import { QUESTOES_EXTRA } from './extras-questoes.js';
+import { STF_JURIS } from './stf-const.js';
 
 // Cor e ícone de cada matéria (quadro colorido da página de leitura)
 const VISUAL = {
@@ -27,7 +29,7 @@ const junta = (a, x) => (x ? { ...a, aprof: (a.aprof || '') + (x.html || ''), qu
 // Texto aprofundado (profundo.js) substitui o texto curto do assunto e soma as questões novas
 // O texto antigo não se perde: vai para a aba Aprofundamento como leitura complementar.
 const fundo = (a, p) => (p ? { ...a, html: p.html, aprof: `<h3 class="lt-aprof">📚 Leitura complementar: outros exemplos e quadros</h3>${p.ant || ''}${a.html || ''}${a.aprof || ''}`, quiz: [...(p.quiz || []), ...(a.quiz || [])], profundo: true } : a);
-const aprofundar = (m) => ({ ...m, assuntos: m.assuntos.map((a) => junta(junta(fundo(a, PROFUNDO[m.id]?.[a.id]), APROFUNDA[m.id]?.[a.id]), JURIS[m.id]?.[a.id])) });
+const aprofundar = (m) => ({ ...m, assuntos: m.assuntos.map((a) => junta(junta(junta(junta(fundo(a, PROFUNDO[m.id]?.[a.id]), APROFUNDA[m.id]?.[a.id]), JURIS[m.id]?.[a.id]), STF_JURIS[m.id]?.[a.id]), QUESTOES_EXTRA[m.id]?.[a.id])) });
 // Gabarito comentado: junta explicação (x), pegadinha (pg) e notas das alternativas (n) pela chave do enunciado (hash FNV-1a)
 export const chaveQ = (p) => { let h = 2166136261; for (const c of norm(p)) { h ^= c.codePointAt(0); h = Math.imul(h, 16777619) >>> 0; } return h.toString(36); };
 const comGab = (m) => { const G = GAB[m.id]; if (!G) return m;
@@ -41,7 +43,7 @@ const comNovos = (m) => { const x = TOPICOS_EXTRA[m.id]; if (!x) return m;
   return { ...m, assuntos: x.ordem?.length ? todos.sort((a, b) => (pos.get(a.id) ?? 999) - (pos.get(b.id) ?? 999)) : todos }; };
 // Questões de RLM ganham a resolução passo a passo (marca o assunto em cada questão)
 const marcaRlm = (m) => (m.id !== 'rlm' && m.id !== 'fisica' ? m : { ...m, assuntos: m.assuntos.map((a) => ({ ...a, quiz: (a.quiz || []).map((q) => ({ ...q, [m.id === 'rlm' ? 'rlm' : 'fis']: a.id })) })) });
-export const MATERIAS_TODAS = [portugues, rlm, constitucional, administrativo, processo, penal, transito, belovale, ...NOVAS].map((m) => marcaRlm(comGab(aprofundar(comNovos(m))))).map((m) => ({ ...m, cor: VISUAL[m.id]?.[0] || m.cor || '#6B6458', ico: VISUAL[m.id]?.[1] || m.ico || '📖', atualizado: m.atualizado || 'novembro de 2026' }));
+export const MATERIAS_TODAS = [portugues, rlm, constitucional, administrativo, processo, penal, transito, belovale, ...NOVAS].map((m) => marcaRlm(comGab(aprofundar(comNovos(m))))).map((m) => ({ ...m, cor: VISUAL[m.id]?.[0] || m.cor || '#6B6458', ico: VISUAL[m.id]?.[1] || m.ico || '📖', atualizado: m.atualizado || 'novembro de 2026', ...(m.id === 'constituicao-supremo' ? { consulta: true } : {}) }));
 
 // Junta os conteúdos enviados em PDF pelo administrador: tópico novo, complemento de tópico ou matéria nova.
 // Complementar um tópico "em produção" troca o aviso pelo texto enviado.

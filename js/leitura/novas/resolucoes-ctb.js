@@ -432,6 +432,216 @@ export default {
 "e": "Óbito = exame obrigatório pela perícia."
 },
 {
+"p": "[Res. CONTRAN 1.031] A fiscalização do consumo de álcool e de outras substâncias psicoativas deve ser procedimento operacional rotineiro dos órgãos e entidades de trânsito, de modo que qualquer condutor abordado pode, a critério do agente, ser submetido aos procedimentos da resolução, ainda que não apresente sinal algum de alteração da capacidade psicomotora.",
+"c": true,
+"x": "Art. 2º, caput e § 1º. A fiscalização não depende de suspeita prévia.",
+"pg": "Exigir “fundada suspeita” ou sinais visíveis para submeter o condutor ao teste.",
+"e": "Res. CONTRAN 1.031: Disposições gerais e meios de fiscalização (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Situação hipotética: em um engavetamento sem feridos na BR-040, os três condutores envolvidos aparentavam normalidade. Nessa situação, como não houve vítimas, os condutores somente poderão ser submetidos aos procedimentos de fiscalização se apresentarem sinais de alteração da capacidade psicomotora.",
+"c": false,
+"x": "Em sinistros, **com ou sem vítimas**, os condutores deverão ser submetidos aos procedimentos, sempre que possível (art. 2º, § 2º). E, pelo § 1º, nem é preciso haver sinais.",
+"pg": "Condicionar a fiscalização à existência de vítimas ou de sinais.",
+"e": "Res. CONTRAN 1.031: Disposições gerais e meios de fiscalização (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Na falta de aparelho específico para detecção de outras substâncias psicoativas, o agente pode utilizar o etilômetro para constatar a presença de substância psicoativa diversa do álcool.",
+"c": false,
+"x": "O etilômetro destina-se **exclusivamente** à verificação da influência de álcool (art. 3º, § 3º). Para outras substâncias: aparelho próprio ou verificação de sinais (art. 3º, § 2º).",
+"pg": "Ampliar o uso do etilômetro.",
+"e": "Res. CONTRAN 1.031: Disposições gerais e meios de fiscalização (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Além do teste em aparelho e da verificação de sinais, o agente pode utilizar, de forma suplementar e a seu critério, imagem, vídeo ou qualquer outro meio de prova em direito admitido.",
+"c": true,
+"x": "Art. 3º, § 4º.",
+"pg": "Achar que imagem e vídeo são meios principais e autônomos. Eles são suplementares.",
+"e": "Res. CONTRAN 1.031: Disposições gerais e meios de fiscalização (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Nos procedimentos de fiscalização, deve-se priorizar a verificação dos sinais de alteração da capacidade psicomotora, por dispensar o uso de equipamentos sujeitos a aferição metrológica.",
+"c": false,
+"x": "Deve-se priorizar o **teste de etilômetro** e o **teste em aparelho** para outras substâncias (art. 3º, § 5º).",
+"pg": "Inverter a prioridade entre aparelho e sinais.",
+"e": "Res. CONTRAN 1.031: Disposições gerais e meios de fiscalização (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 1.031] O pré-teste de alcoolemia, ou teste passivo, tem finalidade de triagem e não é obrigatório, podendo o agente realizar diretamente o teste de ar alveolar; além disso, o aparelho ou a função empregados no pré-teste não precisam atender aos requisitos metrológicos exigidos do etilômetro.",
+"c": true,
+"x": "Art. 4º, caput e § 1º.",
+"pg": "Exigir aprovação do Inmetro para o aparelho do pré-teste.",
+"e": "Res. CONTRAN 1.031: Pré-teste, etilômetro e aparelho para outras substâncias (Arts. 4º a 6º)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Situação hipotética: o pré-teste aplicado a um motorista indicou presença de álcool. Em seguida, ele aceitou o etilômetro, mas o aparelho apresentou defeito e não houve outro disponível nem sinais de alteração. Nessa situação, o agente pode lavrar o auto de infração do art. 165 do CTB com base no resultado positivo do pré-teste.",
+"c": false,
+"x": "O pré-teste tem caráter **exclusivamente indicativo** e não pode caracterizar a infração nem fundamentar a autuação (art. 4º, § 2º).",
+"pg": "Dar ao pré-teste valor de prova.",
+"e": "Res. CONTRAN 1.031: Pré-teste, etilômetro e aparelho para outras substâncias (Arts. 4º a 6º)"
+},
+{
+"p": "[Res. CONTRAN 1.031] O etilômetro deve ter modelo aprovado pelo Inmetro e ser aprovado nas verificações metrológicas inicial, eventual, em serviço e periódica, realizadas pelo Inmetro ou por órgão da Rede Brasileira de Metrologia Legal e Qualidade (RBMLQ).",
+"c": true,
+"x": "Art. 5º, I e II.",
+"pg": "Esquecer uma das quatro verificações ou achar que só o Inmetro pode fazê-las.",
+"e": "Res. CONTRAN 1.031: Pré-teste, etilômetro e aparelho para outras substâncias (Arts. 4º a 6º)"
+},
+{
+"p": "[Res. CONTRAN 1.031] O reteste com o etilômetro é obrigatório sempre que o primeiro teste apresentar resultado positivo, como forma de garantir a ampla defesa do condutor.",
+"c": false,
+"x": "O reteste é necessário **somente** quando a obtenção de resultado válido for prejudicada por motivo técnico ou operacional, inclusive para afastar álcool no trato respiratório superior (art. 5º, § 2º).",
+"pg": "Transformar o reteste em regra.",
+"e": "Res. CONTRAN 1.031: Pré-teste, etilômetro e aparelho para outras substâncias (Arts. 4º a 6º)"
+},
+{
+"p": "[Res. CONTRAN 1.031] O aparelho destinado à detecção de outras substâncias psicoativas deve ter seu modelo aprovado pelo Inmetro e submeter-se à verificação metrológica periódica, nos mesmos moldes exigidos para o etilômetro.",
+"c": false,
+"x": "Exige-se **certificação no âmbito do SBAC**, por organismo acreditado pelo Inmetro (art. 6º). O órgão máximo executivo de trânsito da União pode editar normas complementares.",
+"pg": "Copiar os requisitos do etilômetro para o aparelho de outras substâncias.",
+"e": "Res. CONTRAN 1.031: Pré-teste, etilômetro e aparelho para outras substâncias (Arts. 4º a 6º)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Para a constatação da alteração da capacidade psicomotora, deve ser considerada a existência de pelo menos dois sinais que, em conjunto, comprovem a situação do condutor.",
+"c": true,
+"x": "Art. 7º, § 1º.",
+"pg": "Aceitar um único sinal, por mais evidente que seja.",
+"e": "Res. CONTRAN 1.031: Sinais de alteração da capacidade psicomotora (Art. 7º e Anexo II)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Os sinais de alteração da capacidade psicomotora devem ser descritos exclusivamente em termo específico, anexado ao processo, sendo vedada sua descrição no próprio auto de infração.",
+"c": false,
+"x": "Os sinais devem ser descritos **no auto de infração ou** em termo específico com as informações mínimas do Anexo II, que acompanhará o auto (art. 7º, § 2º).",
+"pg": "Transformar uma alternativa em exclusividade.",
+"e": "Res. CONTRAN 1.031: Sinais de alteração da capacidade psicomotora (Art. 7º e Anexo II)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Situação hipotética: durante abordagem, o agente constatou que o condutor apresentava olhos vermelhos e fala alterada. O condutor recusou-se a fazer o teste do etilômetro. Nessa situação, deverão ser aplicadas as penalidades e medidas administrativas do art. 165 do CTB, e não as do art. 165-A, sem prejuízo da incidência do crime do art. 306.",
+"c": true,
+"x": "Presentes ao menos dois sinais, aplica-se o art. 165, sem prejuízo do art. 306 (art. 8º, § 2º). O art. 165-A só incide na recusa **sem** dois sinais (art. 8º, § 1º).",
+"pg": "Ver a recusa e marcar automaticamente 165-A.",
+"e": "Res. CONTRAN 1.031: Sinais de alteração da capacidade psicomotora (Art. 7º e Anexo II)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Conforme o Anexo II, ironia e o fato de o condutor estar falante são sinais a serem observados quanto à orientação.",
+"c": false,
+"x": "Ironia e “falante” são sinais quanto à **atitude**. Orientação é saber onde está e saber a data e a hora.",
+"pg": "Trocar as categorias: aparência, atitude, orientação, memória, capacidade motora e verbal.",
+"e": "Res. CONTRAN 1.031: Sinais de alteração da capacidade psicomotora (Art. 7º e Anexo II)"
+},
+{
+"p": "[Res. CONTRAN 1.031] O termo de constatação dos sinais deve conter afirmação expressa do agente sobre se o condutor se recusou ou não a realizar os testes, exames ou perícia que permitiriam certificar seu estado.",
+"c": true,
+"x": "Anexo II, VII, b.",
+"pg": "Achar que o termo traz só os sinais observados.",
+"e": "Res. CONTRAN 1.031: Sinais de alteração da capacidade psicomotora (Art. 7º e Anexo II)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Situação hipotética: o etilômetro registrou medição de 0,05 mg/L de álcool por litro de ar alveolar. Após o desconto do erro máximo admissível, o valor considerado foi 0,01 mg/L. Nessa situação, está caracterizada a infração do art. 165 do CTB.",
+"c": true,
+"x": "Art. 8º, I: medição igual ou superior a 0,05 mg/L, descontado o erro. Pelo Anexo I, MR 0,05 resulta em VC 0,01, já na faixa da infração. O limite regulamentado é sempre 0,00 (art. 10, I).",
+"pg": "Achar que, após o desconto, um valor tão baixo não gera infração.",
+"e": "Res. CONTRAN 1.031: Infração administrativa e recusa (Art. 8º e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Situação hipotética: o etilômetro registrou 0,04 mg/L, e o condutor não apresentava sinais de alteração da capacidade psicomotora. Nessa situação, a infração do art. 165 do CTB está caracterizada, pois o limite regulamentado é de 0,00 mg/L e qualquer quantidade de álcool basta.",
+"c": false,
+"x": "A caracterização pelo etilômetro exige medição realizada **igual ou superior a 0,05 mg/L** (art. 8º, I). O Anexo I começa em 0,05.",
+"pg": "Confundir o limite regulamentado do auto (0,00) com o gatilho de medição (0,05).",
+"e": "Res. CONTRAN 1.031: Infração administrativa e recusa (Art. 8º e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Teste em aparelho destinado à verificação de outras substâncias psicoativas com resultado qualitativo positivo caracteriza a infração do art. 165 do CTB.",
+"c": true,
+"x": "Art. 8º, II. O resultado é qualitativo (positivo ou negativo), não quantitativo.",
+"pg": "Exigir uma quantidade mínima da substância.",
+"e": "Res. CONTRAN 1.031: Infração administrativa e recusa (Art. 8º e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Situação hipotética: abordado sem apresentar sinais de alteração, o condutor recusou o etilômetro, dizendo que só aceitaria fazer exame de sangue. Nessa situação, não há recusa, pois o condutor se dispôs a realizar outro meio de prova, cabendo ao agente providenciar o exame de sangue.",
+"c": false,
+"x": "A recusa é a negativa ao procedimento regularmente ofertado pelo agente, **não cabendo ao condutor escolher a modalidade** (art. 8º, § 3º). Sem dois sinais, aplica-se o art. 165-A (art. 8º, § 1º).",
+"pg": "Dar ao condutor o direito de escolher o teste.",
+"e": "Res. CONTRAN 1.031: Infração administrativa e recusa (Art. 8º e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Ao condutor que se recusar a se submeter ao teste de etilômetro, sem que estejam presentes pelo menos dois sinais de alteração da capacidade psicomotora, aplicam-se as penalidades e medidas administrativas do art. 165-A do CTB.",
+"c": true,
+"x": "Art. 8º, § 1º.",
+"pg": "Aplicar o art. 165 à recusa pura.",
+"e": "Res. CONTRAN 1.031: Infração administrativa e recusa (Art. 8º e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] O crime do art. 306 do CTB pode ser caracterizado por exame de sangue que apresente resultado igual ou superior a 4 decigramas de álcool por litro de sangue.",
+"c": false,
+"x": "O patamar é de **6 dg/L** (art. 9º, IV).",
+"pg": "Número trocado. Guarde: 0,05 infração, 0,34 crime no ar; 6 dg/L no sangue.",
+"e": "Res. CONTRAN 1.031: Crime do art. 306 do CTB (Art. 9º e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Situação hipotética: o etilômetro registrou medição de 0,60 mg/L. Pelo Anexo I, o valor considerado é 0,55 mg/L. Nessa situação, configuram-se a infração do art. 165 e o crime do art. 306, ambos do CTB.",
+"c": true,
+"x": "VC 0,55 está acima de 0,34 mg/L (art. 9º, I), e o crime não elide a infração (art. 9º, § 1º).",
+"pg": "Achar que o crime absorve a infração administrativa.",
+"e": "Res. CONTRAN 1.031: Crime do art. 306 do CTB (Art. 9º e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Situação hipotética: o etilômetro registrou medição de 0,30 mg/L, e o condutor não apresentava sinais de alteração da capacidade psicomotora. Nessa situação, configura-se o crime do art. 306 do CTB.",
+"c": false,
+"x": "Descontado o erro de 0,032 mg/L, o valor considerado é 0,26 mg/L (Anexo I), abaixo de 0,34. Há apenas a infração do art. 165.",
+"pg": "Esquecer o desconto ou confundir o patamar da infração com o do crime.",
+"e": "Res. CONTRAN 1.031: Crime do art. 306 do CTB (Art. 9º e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] A ocorrência do crime de embriaguez ao volante não afasta a aplicação da infração administrativa do art. 165 do CTB.",
+"c": true,
+"x": "Art. 9º, § 1º: o crime não elide o art. 165.",
+"pg": "Achar que, configurado o crime, a infração deixa de existir.",
+"e": "Res. CONTRAN 1.031: Crime do art. 306 do CTB (Art. 9º e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Os exames de sangue, clínico e laboratoriais previstos para caracterização do crime são obrigatórios e, quando realizados, substituem os resultados obtidos com etilômetro, teste em aparelho ou sinais, que perdem validade para fins administrativos.",
+"c": false,
+"x": "Esses exames são **suplementares**, a critério da autoridade policial, e podem servir como contraprova no inquérito, **permanecendo válidos** os resultados dos incisos I a III (art. 9º, § 3º).",
+"pg": "Achar que a contraprova anula a prova do agente.",
+"e": "Res. CONTRAN 1.031: Crime do art. 306 do CTB (Art. 9º e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Configurado o crime do art. 306 do CTB, o condutor e as testemunhas, se houver, devem ser encaminhados à Polícia Judiciária, acompanhados dos elementos probatórios.",
+"c": true,
+"x": "Art. 9º, § 2º.",
+"pg": "Achar que o próprio agente de trânsito conclui o procedimento criminal.",
+"e": "Res. CONTRAN 1.031: Crime do art. 306 do CTB (Art. 9º e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] No auto de infração lavrado com base no teste de etilômetro, é dispensável informar o limite regulamentado, que será sempre 0,00, devendo constar, entre outros dados, a medição realizada e o valor considerado.",
+"c": true,
+"x": "Art. 10, I. O auto também traz marca, modelo e número de série ou patrimonial do aparelho e o número do teste.",
+"pg": "Achar que o auto deve informar 0,05 como limite.",
+"e": "Res. CONTRAN 1.031: Auto de infração, medidas administrativas e disposições finais (Arts. 10 a 13 e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Constatada a infração do art. 165 do CTB, o agente recolherá o documento de habilitação do condutor, que permanecerá retido até o cumprimento da penalidade de suspensão.",
+"c": false,
+"x": "O agente **não promoverá o recolhimento** do documento de habilitação (art. 12). A suspensão segue regulamentação específica.",
+"pg": "Repetir a regra antiga de recolher a CNH.",
+"e": "Res. CONTRAN 1.031: Auto de infração, medidas administrativas e disposições finais (Arts. 10 a 13 e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Situação hipotética: autuado pelo art. 165, o condutor teve o veículo entregue a um amigo habilitado. Minutos depois, a equipe flagra o primeiro condutor novamente ao volante e confirma outra vez a infração. Nessa situação, o veículo poderá ser liberado a outro condutor habilitado que se apresente no local.",
+"c": false,
+"x": "Constatada a devolução e configurada novamente a infração, o veículo deve ser recolhido ao depósito, **sem possibilidade de apresentação de outro condutor habilitado** (art. 11, § 4º). Quem devolveu responde pelo art. 166 e pelo crime do art. 310 (art. 11, § 3º).",
+"pg": "Aplicar a regra geral de retenção (art. 11, caput) à reincidência imediata.",
+"e": "Res. CONTRAN 1.031: Auto de infração, medidas administrativas e disposições finais (Arts. 10 a 13 e Anexo I)"
+},
+{
+"p": "[Res. CONTRAN 1.031] Situação hipotética: o etilômetro registrou medição de 0,50 mg/L. Nessa situação, aplicado o erro máximo admissível de 8%, o valor considerado a constar do auto de infração é 0,46 mg/L.",
+"c": true,
+"x": "Para MR acima de 0,40 até 2,00 mg/L, o erro é de 8%: 0,50 − 0,04 = 0,46 (Anexo I). Abaixo de 0,40, o erro é fixo de 0,032 mg/L; acima de 2,00, de 30%.",
+"pg": "Usar o desconto fixo de 0,032 para qualquer medição.",
+"e": "Res. CONTRAN 1.031: Auto de infração, medidas administrativas e disposições finais (Arts. 10 a 13 e Anexo I)"
+},
+{
 "p": "O condutor que se recusar a se submeter a teste, exame clínico, perícia ou outro procedimento para certificar influência de álcool sofre as penalidades do art. 165-A do CTB.",
 "c": true,
 "x": "Multa (x10) e suspensão do direito de dirigir por 12 meses, com recolhimento do documento e retenção do veículo.",
@@ -605,6 +815,181 @@ export default {
 "prof": "A ACC é a \"habilitação do ciclomotor\": mais simples, mas com exame de direção.",
 "x": "A ACC destina-se a ciclomotores de até 50 cm³ (ou elétricos até 4 kW), com velocidade máxima de 50 km/h; não exige aulas práticas, e o exame de direção pode ser feito após a aprovação teórica.",
 "e": "ACC: sem aulas práticas, com exame de direção."
+},
+{
+"p": "[Res. CONTRAN 933/2022] Na hipótese de mudança de categoria do condutor estrangeiro que busca a CNH, deve ser obedecido o art. 146 do CTB.",
+"c": true,
+"x": "Art. 2º, § 5º, da Res. 933.",
+"pg": "Guarde: 146 é mudança de categoria; 147 são os exames.",
+"e": "Res. CONTRAN 933/2022: Exames e artigos do CTB para o estrangeiro (Arts. 2º, §§ 4º e 5º, e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] O condutor estrangeiro que, após 180 dias de estada regular, pretenda continuar a dirigir no Brasil deverá ser aprovado, entre outros, no exame de direção veicular.",
+"c": false,
+"x": "O art. 2º, § 4º, exige só aptidão física e mental e avaliação psicológica. Direção veicular é exigência do art. 3º.",
+"pg": "Misturar o art. 2º, § 4º, com o art. 3º.",
+"e": "Res. CONTRAN 933/2022: Exames e artigos do CTB para o estrangeiro (Arts. 2º, §§ 4º e 5º, e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] Situação hipotética: um estrangeiro em estada regular, penalmente imputável no Brasil, é habilitado em país cuja habilitação não é reconhecida pelo governo brasileiro. Nessa situação, para dirigir no Brasil, ele deverá trocar sua habilitação pela equivalente nacional e ser aprovado, entre outros, no exame de direção veicular.",
+"c": true,
+"x": "Art. 3º: troca no Detran e aprovação nos exames de aptidão física e mental, avaliação psicológica e direção veicular.",
+"pg": "Achar que habilitação não reconhecida impede a troca.",
+"e": "Res. CONTRAN 933/2022: Exames e artigos do CTB para o estrangeiro (Arts. 2º, §§ 4º e 5º, e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] Os exames exigidos do condutor estrangeiro após 180 dias de estada regular são realizados nos termos do art. 146 do CTB.",
+"c": false,
+"x": "O § 4º do art. 2º remete ao **art. 147** do CTB. O art. 146 é o da mudança de categoria (§ 5º).",
+"pg": "Trocar 147 por 146.",
+"e": "Res. CONTRAN 933/2022: Exames e artigos do CTB para o estrangeiro (Arts. 2º, §§ 4º e 5º, e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] O estrangeiro com habilitação não reconhecida pelo governo brasileiro deverá ser aprovado nos exames de aptidão física e mental e de direção veicular, dispensada a avaliação psicológica.",
+"c": false,
+"x": "O art. 3º exige os três: aptidão física e mental, **avaliação psicológica** e direção veicular.",
+"pg": "Esquecer a avaliação psicológica.",
+"e": "Res. CONTRAN 933/2022: Exames e artigos do CTB para o estrangeiro (Arts. 2º, §§ 4º e 5º, e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] O condutor habilitado em país estrangeiro poderá dirigir no Brasil, nas condições da resolução, pelo prazo máximo de 180 dias, contado a partir da data de entrada no território nacional.",
+"c": true,
+"x": "Art. 2º, caput e § 1º.",
+"pg": "Contar o prazo da expedição da habilitação.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Condutor estrangeiro habilitado (Arts. 2º e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] O condutor estrangeiro habilitado poderá dirigir no Brasil durante todo o prazo de 180 dias, ainda que sua habilitação de origem perca a validade antes do término desse prazo.",
+"c": false,
+"x": "O caput do art. 2º ressalva: **respeitada a validade da habilitação de origem**.",
+"pg": "Ignorar a validade da habilitação estrangeira.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Condutor estrangeiro habilitado (Arts. 2º e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] Para dirigir no Brasil com base em habilitação estrangeira, basta que o condutor seja penalmente imputável segundo a lei de seu país de origem.",
+"c": false,
+"x": "Exige-se que seja penalmente imputável **no Brasil** (art. 2º, caput).",
+"pg": "Aplicar a lei do país de origem.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Condutor estrangeiro habilitado (Arts. 2º e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] A permissão para o estrangeiro habilitado dirigir no Brasil depende de amparo em convenções ou acordos internacionais ratificados e aprovados pelo Brasil e, igualmente, da adoção do princípio da reciprocidade.",
+"c": true,
+"x": "Art. 2º, caput.",
+"pg": "Achar que basta um dos dois fundamentos.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Condutor estrangeiro habilitado (Arts. 2º e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] Cabe ao Ministério das Relações Exteriores informar aos órgãos do Sistema Nacional de Trânsito a quais países se aplica a permissão de dirigir com habilitação estrangeira.",
+"c": false,
+"x": "Quem informa é o **órgão máximo executivo de trânsito da União** (art. 2º, § 2º).",
+"pg": "O MRE só aparece no caso de missão diplomática (art. 6º, parágrafo único).",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Condutor estrangeiro habilitado (Arts. 2º e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] O disposto nos §§ 1º a 5º do art. 2º da resolução não tem caráter obrigatório para diplomatas ou cônsules de carreira e para aqueles a eles equiparados.",
+"c": true,
+"x": "Literal do art. 2º, § 6º.",
+"pg": "Esquecer a exceção diplomática.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Condutor estrangeiro habilitado (Arts. 2º e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] Quando a habilitação for expedida por Parte Contratante da Convenção de Viena sobre Trânsito Viário de 1968, basta ao condutor portar a Permissão Internacional para Dirigir (PID), dispensada a carteira de habilitação estrangeira.",
+"c": false,
+"x": "A PID deve estar **acompanhada da carteira de habilitação estrangeira**, ambas válidas (art. 2º, § 3º, II).",
+"pg": "Achar que a PID substitui a habilitação.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Condutor estrangeiro habilitado (Arts. 2º e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] O condutor estrangeiro que, após 180 dias de estada regular, pretenda continuar dirigindo deverá submeter-se aos exames de aptidão física e mental e à avaliação psicológica, nos termos do art. 147 do CTB, respeitada a sua categoria.",
+"c": true,
+"x": "Art. 2º, § 4º.",
+"pg": "Acrescentar exame de direção veicular.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Condutor estrangeiro habilitado (Arts. 2º e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] Na hipótese de mudança de categoria do condutor estrangeiro que pretenda obter a CNH, deve ser observado o disposto no art. 147 do CTB.",
+"c": false,
+"x": "Mudança de categoria segue o **art. 146** do CTB (art. 2º, § 5º). O art. 147 trata dos exames.",
+"pg": "Trocar 146 por 147.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Condutor estrangeiro habilitado (Arts. 2º e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] O estrangeiro habilitado com habilitação não reconhecida pelo governo brasileiro, para dirigir no Brasil, deverá ser aprovado, entre outros, no exame de direção veicular.",
+"c": true,
+"x": "Art. 3º: aptidão física e mental, avaliação psicológica e direção veicular.",
+"pg": "Confundir com o art. 2º, § 4º, que não exige direção veicular.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Condutor estrangeiro habilitado (Arts. 2º e 3º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] A troca da habilitação estrangeira não reconhecida pela equivalente nacional deve ser feita junto ao órgão máximo executivo de trânsito da União.",
+"c": false,
+"x": "A troca é feita no **órgão ou entidade executiva de trânsito dos estados ou do DF** (art. 3º).",
+"pg": "Trocar o Detran pelo órgão federal.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Brasileiro no exterior, infrações e PID (Arts. 4º a 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] Ao brasileiro habilitado no exterior aplicam-se as regras do condutor estrangeiro se ele comprovar residência normal no país expedidor por período não inferior a seis meses quando da expedição da habilitação.",
+"c": true,
+"x": "Art. 4º, caput.",
+"pg": "Trocar seis meses por um ano ou por 180 dias de estada.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Brasileiro no exterior, infrações e PID (Arts. 4º a 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] A residência do brasileiro habilitado no exterior é comprovada por certidão emitida pela autoridade de trânsito do país estrangeiro que expediu a habilitação.",
+"c": false,
+"x": "A prova é atestado, declaração ou certidão da **autoridade consular do Brasil** no respectivo país (art. 4º, § 1º).",
+"pg": "Trocar a autoridade consular brasileira pela autoridade estrangeira.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Brasileiro no exterior, infrações e PID (Arts. 4º a 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] Não será reconhecida a habilitação estrangeira do brasileiro que esteja proibido, por decisão judicial, de obter a permissão para dirigir ou a habilitação.",
+"c": true,
+"x": "Art. 4º, § 2º, que remete ao art. 294 do CTB.",
+"pg": "Lembrar só da SDD e da cassação.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Brasileiro no exterior, infrações e PID (Arts. 4º a 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] Situação hipotética: Marcos, brasileiro, residiu um ano na Espanha e lá se habilitou, mas tem penalidade de cassação da CNH pendente de cumprimento no Brasil. Nessa situação, a habilitação espanhola de Marcos será reconhecida, pois ele cumpriu o tempo mínimo de residência.",
+"c": false,
+"x": "Cassação ou SDD pendente impede o reconhecimento, qualquer que seja o tempo de residência (art. 4º, § 2º).",
+"pg": "Achar que cumprir a residência supera a penalidade pendente.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Brasileiro no exterior, infrações e PID (Arts. 4º a 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] O estrangeiro não habilitado, com estada regular no Brasil, que pretenda habilitar-se deverá satisfazer todas as exigências previstas na legislação de trânsito brasileira em vigor.",
+"c": true,
+"x": "Literal do art. 5º.",
+"pg": "Inventar rito simplificado para estrangeiro.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Brasileiro no exterior, infrações e PID (Arts. 4º a 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] Quando o condutor habilitado em país estrangeiro cometer infração punível com suspensão do direito de dirigir, a autoridade de trânsito deve notificá-lo diretamente, dispensada a comunicação à autoridade que expediu a habilitação.",
+"c": false,
+"x": "O art. 6º, II, manda **comunicar à autoridade que expediu** o documento, solicitando que ela notifique o interessado.",
+"pg": "Inverter quem notifica o condutor.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Brasileiro no exterior, infrações e PID (Arts. 4º a 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] Em caso de suspensão do direito de dirigir de condutor com documento de habilitação de validade internacional, a autoridade de trânsito deve indicar no documento sua não validade no território nacional.",
+"c": true,
+"x": "Art. 6º, III.",
+"pg": "Achar que a autoridade brasileira pode cassar o documento estrangeiro.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Brasileiro no exterior, infrações e PID (Arts. 4º a 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] A PID expedida por entidade credenciada pelo órgão máximo executivo de trânsito da União pode substituir a CNH.",
+"c": false,
+"x": "A PID, expedida pelo Detran ou por entidade credenciada, **não pode substituir a CNH** (art. 7º, parágrafo único).",
+"pg": "Achar que a PID vale como habilitação.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Brasileiro no exterior, infrações e PID (Arts. 4º a 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 933/2022] O condutor com PID expedida no Brasil que cometer infração punível com cassação do direito de dirigir terá a PID recolhida e apreendida juntamente com o documento de habilitação nacional.",
+"c": true,
+"x": "Art. 7º, caput. O recolhimento cabe ao órgão executivo de trânsito do estado ou do DF.",
+"pg": "Esquecer a cassação, que também está no artigo.",
+"e": "Res. CONTRAN 933/2022: Res. 933 · Brasileiro no exterior, infrações e PID (Arts. 4º a 7º da Res. 933)"
 },
 {
 "p": "A Carteira Nacional de Habilitação tem validade de 10 anos para condutores com menos de 50 anos de idade.",
@@ -834,6 +1219,216 @@ export default {
 "prof": "Questão clássica: muita gente ainda acha que o extintor é obrigatório em carro de passeio.",
 "x": "A lista da Resolução nº 993/2023 para automóveis não inclui o extintor de incêndio; ele é exigido apenas para veículos específicos por normas próprias.",
 "e": "Automóvel sem extintor: sem infração."
+},
+{
+"p": "[Res. CONTRAN 912/2022] Para circular em vias públicas, os veículos devem estar dotados dos equipamentos obrigatórios, que serão constatados pela fiscalização em condições de funcionamento.",
+"c": true,
+"x": "Art. 2º, caput. Não basta o equipamento existir: ele precisa funcionar.",
+"pg": "Achar que basta o item estar instalado.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] O espelho retrovisor externo em ambos os lados é obrigatório para todos os veículos automotores, independentemente do ano de fabricação.",
+"c": false,
+"x": "Em ambos os lados, só para os fabricados **a partir de 1º/1/1999** (art. 2º, I, 4).",
+"pg": "Esquecer o marco de 1999.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] O lavador de para-brisa é obrigatório nos automóveis e camionetas derivadas fabricados a partir de 1º de janeiro de 1974 e nos utilitários, veículos de carga, ônibus e micro-ônibus fabricados a partir de 1º de janeiro de 1999.",
+"c": true,
+"x": "Art. 2º, I, 6, a e b.",
+"pg": "Trocar os anos entre os grupos de veículos.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] A lanterna de marcha à ré deve ser de cor âmbar e é obrigatória nos veículos fabricados a partir de 1º de janeiro de 1990.",
+"c": false,
+"x": "A lanterna de marcha à ré é de cor **branca** (art. 2º, I, 13). Âmbar é a cor das lanternas indicadoras de direção.",
+"pg": "Trocar a cor.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Situação hipotética: na BR-153, a PRF abordou um caminhão com PBT de 6.000 kg, fabricado em 2005, que transportava material de construção. Nessa situação, o caminhão deve estar equipado com registrador instantâneo e inalterável de velocidade e tempo (cronotacógrafo).",
+"c": true,
+"x": "É exigido nos veículos de carga com PBT **superior a 4.536 kg** fabricados a partir de 1º/1/1999 (art. 2º, I, 21, e).",
+"pg": "Esquecer o critério do PBT.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Situação hipotética: um caminhão de carga com PBT de 4.000 kg e CMT de 10 t, fabricado em 2012, circulava sem cronotacógrafo. Nessa situação, o veículo está irregular, pois todo veículo de carga fabricado a partir de 1999 deve ter cronotacógrafo.",
+"c": false,
+"x": "Para veículos de carga, o cronotacógrafo é exigido com **CMT igual ou superior a 19 t** ou **PBT superior a 4.536 kg** (fabricados a partir de 1999). Esse caminhão não se enquadra em nenhum dos dois casos.",
+"pg": "Generalizar a exigência a todos os caminhões.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] O cronotacógrafo é obrigatório nos veículos de transporte de passageiros ou de uso misto registrados na categoria particular que realizem transporte remunerado de pessoas.",
+"c": true,
+"x": "Art. 2º, I, 21, c. Também nos escolares e nos de passageiros com mais de dez lugares (alíneas a e b).",
+"pg": "Achar que só veículos de aluguel precisam de cronotacógrafo.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Nos veículos fabricados a partir de 1º de janeiro de 1999, o cinto de segurança deve ser graduável e de três pontos em todos os assentos, podendo ser do tipo subabdominal nos assentos centrais.",
+"c": true,
+"x": "Art. 2º, I, 22, a.",
+"pg": "Exigir três pontos também no assento central.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Nos automóveis fabricados a partir de 1º de janeiro de 1999, o encosto de cabeça é obrigatório em todos os assentos, inclusive nos centrais.",
+"c": false,
+"x": "O encosto de cabeça é exigido em todos os assentos, **exceto nos centrais** (art. 2º, I, 30).",
+"pg": "Esquecer a exceção dos assentos centrais.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] O protetor lateral é equipamento obrigatório nos caminhões com PBT superior a 3.500 kg fabricados a partir de 1º de janeiro de 2011.",
+"c": true,
+"x": "Art. 2º, I, 31. A mesma regra vale para reboques e semirreboques (inciso II, 10).",
+"pg": "Trocar 3.500 kg por 4.536 kg.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] As películas retrorrefletivas são obrigatórias nos ônibus, micro-ônibus, motor-casa e caminhões com PBT superior a 3.500 kg.",
+"c": false,
+"x": "Para caminhões, o limite das faixas retrorrefletivas é PBT **superior a 4.536 kg** (art. 2º, I, 32). O de 3.500 kg é do protetor lateral.",
+"pg": "Misturar os dois limites de peso.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Nos automóveis, camionetas, caminhonetes, caminhões, utilitários, ônibus e micro-ônibus, o capuz que se abre pela frente e que, aberto, encobre a visão do condutor através do para-brisa deve ter sistema de travamento de dois estágios ou uma segunda trava.",
+"c": true,
+"x": "Art. 2º, parágrafo único.",
+"pg": "Achar que basta uma trava simples.",
+"e": "Res. CONTRAN 912/2022: Veículos automotores e ônibus elétricos (Art. 2º, I, e parágrafo único)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Motonetas, motocicletas e triciclos devem ter espelhos retrovisores de ambos os lados.",
+"c": true,
+"x": "Art. 2º, IV, 1. Ciclomotores e quadriciclos também (incisos III e VI).",
+"pg": "Achar que basta o espelho do lado esquerdo.",
+"e": "Res. CONTRAN 912/2022: Reboques, ciclomotores, motos, triciclos, quadriciclos e tratores (Art. 2º, II a VII)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Entre os equipamentos obrigatórios dos ciclomotores estão a lanterna de freio de cor vermelha e os indicadores luminosos de mudança de direção.",
+"c": false,
+"x": "A lista do ciclomotor tem só 7 itens: retrovisores, farol, lanterna traseira, velocímetro, buzina, pneus e controle de ruído (art. 2º, III). Lanterna de freio e piscas são exigidos de **motocicletas** (inciso IV).",
+"pg": "Copiar a lista da motocicleta para o ciclomotor.",
+"e": "Res. CONTRAN 912/2022: Reboques, ciclomotores, motos, triciclos, quadriciclos e tratores (Art. 2º, II a VII)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] O triciclo automotor com cabine fechada, além dos equipamentos exigidos para as motocicletas, deve ter para-brisa de vidro laminado, cinto de segurança e roda sobressalente, entre outros itens.",
+"c": true,
+"x": "Art. 2º, V.",
+"pg": "Tratar o triciclo de cabine fechada como uma motocicleta comum.",
+"e": "Res. CONTRAN 912/2022: Reboques, ciclomotores, motos, triciclos, quadriciclos e tratores (Art. 2º, II a VII)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Reboques e semirreboques com capacidade superior a 750 kg e produzidos a partir de 1997 devem ter freios de estacionamento e de serviço com comandos independentes.",
+"c": true,
+"x": "Art. 2º, II, 4.",
+"pg": "Trocar o limite de 750 kg ou o ano.",
+"e": "Res. CONTRAN 912/2022: Reboques, ciclomotores, motos, triciclos, quadriciclos e tratores (Art. 2º, II a VII)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Todos os tratores de rodas, de esteiras e mistos devem ter velocímetro e cronotacógrafo, independentemente da velocidade que desenvolvam.",
+"c": false,
+"x": "Só para os que desenvolvam velocidade **acima de 60 km/h** (art. 2º, VII, 14).",
+"pg": "Esquecer o critério de velocidade.",
+"e": "Res. CONTRAN 912/2022: Reboques, ciclomotores, motos, triciclos, quadriciclos e tratores (Art. 2º, II a VII)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Entre os equipamentos obrigatórios dos tratores estão o alerta sonoro de marcha à ré e o pisca-alerta.",
+"c": true,
+"x": "Art. 2º, VII, 5 e 15.",
+"pg": "Achar que máquinas agrícolas não precisam de sinalização.",
+"e": "Res. CONTRAN 912/2022: Reboques, ciclomotores, motos, triciclos, quadriciclos e tratores (Art. 2º, II a VII)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Não se exige cinto de segurança nos veículos de transporte de passageiros em percurso em que seja permitido viajar em pé.",
+"c": true,
+"x": "Art. 3º, I.",
+"pg": "Exigir cinto em ônibus urbano com passageiros em pé.",
+"e": "Res. CONTRAN 912/2022: Dispensas e bicicletas (Arts. 3º a 5º)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Os veículos equipados com pneus capazes de trafegar sem ar, ou com dispositivo automático de enchimento emergencial, estão dispensados de pneu e aro sobressalentes, macaco e chave de roda.",
+"c": true,
+"x": "Art. 3º, II, a.",
+"pg": "Exigir estepe em veículo com pneu run-flat.",
+"e": "Res. CONTRAN 912/2022: Dispensas e bicicletas (Arts. 3º a 5º)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Situação hipotética: um ônibus do transporte urbano de uma região metropolitana circulava sem estepe, macaco e chave de roda. A empresa dona do ônibus não tem equipe própria de troca de pneus. Nessa situação, o ônibus está dispensado desses equipamentos, por integrar o sistema de transporte urbano.",
+"c": false,
+"x": "A dispensa dos ônibus urbanos só é reconhecida quando o veículo pertence a empresa que tenha **equipe própria especializada em troca de pneus** (art. 3º, parágrafo único).",
+"pg": "Aplicar a dispensa sem a condição do parágrafo único.",
+"e": "Res. CONTRAN 912/2022: Dispensas e bicicletas (Arts. 3º a 5º)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Não se exige velocímetro nos veículos dotados de cronotacógrafo integrado.",
+"c": true,
+"x": "Art. 3º, III.",
+"pg": "Exigir os dois aparelhos.",
+"e": "Res. CONTRAN 912/2022: Dispensas e bicicletas (Arts. 3º a 5º)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] As bicicletas com aro superior a vinte devem ter espelho retrovisor do lado esquerdo, campainha e sinalização noturna com retrorrefletores.",
+"c": true,
+"x": "Art. 4º.",
+"pg": "Esquecer o critério do aro.",
+"e": "Res. CONTRAN 912/2022: Dispensas e bicicletas (Arts. 3º a 5º)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Na sinalização noturna das bicicletas, os retrorrefletores dianteiros devem ser de cor vermelha e os traseiros de cor branca ou amarela, com alcance mínimo de visibilidade de trinta metros.",
+"c": false,
+"x": "É o contrário: dianteira **branca ou amarela** e traseira **vermelha**. Nas laterais e nos pedais, qualquer cor (art. 4º, III). O alcance de 30 m está certo.",
+"pg": "Inverter as cores.",
+"e": "Res. CONTRAN 912/2022: Dispensas e bicicletas (Arts. 3º a 5º)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] As bicicletas destinadas à prática de esportes, quando em competição, estão dispensadas do espelho retrovisor, da campainha e da sinalização noturna.",
+"c": false,
+"x": "A dispensa alcança só o **espelho retrovisor e a campainha** (art. 5º).",
+"pg": "Ampliar a dispensa.",
+"e": "Res. CONTRAN 912/2022: Dispensas e bicicletas (Arts. 3º a 5º)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Os veículos destinados a puxar maquinaria ou a executar trabalhos agrícolas e de construção podem transitar em via pública se tiverem os itens de segurança exigidos dos tratores e dimensões máximas de 2,80 m de largura, 4,40 m de altura e 15,00 m de comprimento.",
+"c": true,
+"x": "Art. 7º, I e II, observada a resolução específica do CONTRAN sobre o tema.",
+"pg": "Trocar as medidas.",
+"e": "Res. CONTRAN 912/2022: Máquinas, penalidades e disposições finais (Arts. 6º a 12)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Os tratores de esteiras podem transitar em via pública aberta à circulação, desde que respeitem as dimensões máximas previstas na resolução.",
+"c": false,
+"x": "É **vedado** o trânsito de tratores de esteiras em via pública aberta à circulação (art. 7º, parágrafo único).",
+"pg": "Estender a autorização das máquinas aos tratores de esteiras.",
+"e": "Res. CONTRAN 912/2022: Máquinas, penalidades e disposições finais (Arts. 6º a 12)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] O proprietário ou condutor cujo veículo circular em via pública sem os equipamentos obrigatórios fica sujeito às penalidades do art. 230 do CTB, no que couber, sem prejuízo de outras sanções do Código.",
+"c": true,
+"x": "Art. 9º.",
+"pg": "Achar que a falta de equipamento é só medida administrativa.",
+"e": "Res. CONTRAN 912/2022: Máquinas, penalidades e disposições finais (Arts. 6º a 12)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] Os equipamentos obrigatórios dos veículos de transporte de produtos perigosos e dos veículos escolares são exclusivamente os listados na Res. 912/2022.",
+"c": false,
+"x": "Para esses veículos, valem os equipamentos indicados em **normas específicas** (art. 6º). O mesmo vale para veículos inacabados, outros transportes especializados e equipamentos autopropelidos.",
+"pg": "Achar que a 912 esgota o tema.",
+"e": "Res. CONTRAN 912/2022: Máquinas, penalidades e disposições finais (Arts. 6º a 12)"
+},
+{
+"p": "[Res. CONTRAN 912/2022] A Res. 912/2022, em vigor desde 1º de abril de 2022, revogou, entre outras, a Res. CONTRAN n.º 14/1998, que tratava dos equipamentos obrigatórios da frota em circulação.",
+"c": true,
+"x": "Arts. 11 e 12.",
+"pg": "Trocar a data de vigência.",
+"e": "Res. CONTRAN 912/2022: Máquinas, penalidades e disposições finais (Arts. 6º a 12)"
 }
 ]
 },
@@ -1473,6 +2068,216 @@ export default {
 "prof": "Repare que há duas condutas: transportar sem lona e derramar. Cada uma tem seu enquadramento.",
 "x": "A carga a granel em carroceria aberta deve ser totalmente coberta (Res. 946/2022, com infração do art. 230, IX ou X), e derramar carga na via é a infração do art. 231, II.",
 "e": "Granel sem lona + derramamento = duas infrações."
+},
+{
+"p": "[Res. CONTRAN 946/2022] A resolução dispõe sobre o transporte de cargas de sólidos a granel nas vias abertas à circulação pública em todo o território nacional.",
+"c": true,
+"x": "Art. 1º. O item reproduz o objeto descrito no art. 1º.",
+"pg": "Vale em todas as vias abertas à circulação pública, não só nas rodovias federais.",
+"e": "Res. CONTRAN 946/2022: Âmbito e conceito de sólido a granel (Art. 1º e art. 2º, §§ 3º e 5º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Considera-se sólido a granel qualquer carga sólida fracionada, fragmentada ou em grãos, transformada ou in natura, transportada diretamente na carroceria do veículo sem estar acondicionada em embalagem.",
+"c": true,
+"x": "Art. 2º, § 3º. O item é a definição literal do § 3º do art. 2º.",
+"pg": "Três palavras-chave: sólida, direto na carroceria, sem embalagem.",
+"e": "Res. CONTRAN 946/2022: Âmbito e conceito de sólido a granel (Art. 1º e art. 2º, §§ 3º e 5º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: um caminhão de carroceria aberta transporta sacos de cimento de 50 kg empilhados e amarrados. Nessa situação, a carga é sólido a granel e deve estar totalmente coberta por lona ou dispositivo similar, nos termos da resolução.",
+"c": false,
+"x": "Art. 2º, § 3º. O item o cimento está acondicionado em embalagem (sacos), e sólido a granel é a carga transportada diretamente na carroceria sem embalagem.",
+"pg": "Embalou, deixou de ser granel. Saco, caixa e big bag fogem do conceito.",
+"e": "Res. CONTRAN 946/2022: Âmbito e conceito de sólido a granel (Art. 1º e art. 2º, §§ 3º e 5º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: uma caçamba transporta brita solta, despejada diretamente na carroceria. Nessa situação, a carga enquadra-se no conceito de sólido a granel.",
+"c": true,
+"x": "Art. 2º, § 3º. O item brita é carga sólida fragmentada, transportada diretamente na carroceria e sem embalagem.",
+"pg": "Areia, brita, terra, grãos e minério soltos são os exemplos clássicos.",
+"e": "Res. CONTRAN 946/2022: Âmbito e conceito de sólido a granel (Art. 1º e art. 2º, §§ 3º e 5º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Apenas os produtos in natura enquadram-se no conceito de sólido a granel, excluindo-se os produtos transformados, como farelos e rações.",
+"c": false,
+"x": "Art. 2º, § 3º. O item o conceito abrange carga “transformada ou in natura”.",
+"pg": "A banca troca “ou” por “apenas”. Transformado também é granel.",
+"e": "Res. CONTRAN 946/2022: Âmbito e conceito de sólido a granel (Art. 1º e art. 2º, §§ 3º e 5º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] As exigências do art. 2º aplicam-se a todas as cargas de sólidos a granel, inclusive àquelas que tenham regulamentação específica, prevalecendo sobre esta.",
+"c": false,
+"x": "Art. 2º, § 5º. O item o art. 2º não se aplica ao transporte de cargas que tenham regulamentação específica.",
+"pg": "Norma específica prevalece. Fique atento a “inclusive” e “todas”.",
+"e": "Res. CONTRAN 946/2022: Âmbito e conceito de sólido a granel (Art. 1º e art. 2º, §§ 3º e 5º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Cargas com regulamentação específica não estão sujeitas às disposições do art. 2º da resolução.",
+"c": true,
+"x": "Art. 2º, § 5º. O item é exatamente o que diz o § 5º do art. 2º.",
+"pg": "Exceção expressa: regulamentação específica afasta o art. 2º.",
+"e": "Res. CONTRAN 946/2022: Âmbito e conceito de sólido a granel (Art. 1º e art. 2º, §§ 3º e 5º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] O transporte de sólido a granel não realizado em carroceria inteiramente fechada somente é permitido em veículos com carrocerias de guardas laterais fechadas ou dotadas de telas metálicas com malhas que impeçam o derramamento de fragmentos.",
+"c": true,
+"x": "Art. 2º, caput, I e II. O item são as duas únicas hipóteses do caput do art. 2º.",
+"pg": "“Somente”: fora dessas duas hipóteses, só carroceria inteiramente fechada.",
+"e": "Res. CONTRAN 946/2022: Carrocerias permitidas e limites da carga (Art. 2º, caput, I e II, e § 4º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: um caminhão transporta brita em carroceria cujas guardas laterais têm tela metálica de malha larga, pela qual escapam fragmentos. A carga está coberta por lona. Nessa situação, o transporte é regular, pois as guardas laterais são dotadas de tela metálica e a carga está coberta.",
+"c": false,
+"x": "Art. 2º, II. O item a tela precisa ter malhas de dimensões que impeçam o derramamento de fragmentos, e aqui eles escapam.",
+"pg": "Não basta ter tela metálica: a malha tem de segurar o material.",
+"e": "Res. CONTRAN 946/2022: Carrocerias permitidas e limites da carga (Art. 2º, caput, I e II, e § 4º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] As guardas laterais podem ser dotadas de telas de qualquer material, desde que suas malhas impeçam o derramamento de fragmentos.",
+"c": false,
+"x": "Art. 2º, II. O item a resolução exige telas metálicas.",
+"pg": "Troca de material é pegadinha típica: a tela é metálica.",
+"e": "Res. CONTRAN 946/2022: Carrocerias permitidas e limites da carga (Art. 2º, caput, I e II, e § 4º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] A exigência de guardas laterais fechadas ou dotadas de telas metálicas dirige-se ao transporte de sólido a granel não realizado em carroceria inteiramente fechada.",
+"c": true,
+"x": "Art. 2º, caput. O item o caput do art. 2º delimita sua incidência ao transporte “não realizado em carroceria inteiramente fechada”.",
+"pg": "Carroceria inteiramente fechada já resolve o problema do derramamento.",
+"e": "Res. CONTRAN 946/2022: Carrocerias permitidas e limites da carga (Art. 2º, caput, I e II, e § 4º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: uma carreta transporta areia em volume que ultrapassa a altura das guardas laterais, mas a carga está totalmente coberta por lona bem ancorada. Nessa situação, o transporte é regular, pois a lona impede o derramamento.",
+"c": false,
+"x": "Art. 2º, § 4º. O item a carga não pode exceder os limites da carroceria do veículo, e a lona não corrige esse excesso.",
+"pg": "A lona cobre, não legaliza carga acima da carroceria.",
+"e": "Res. CONTRAN 946/2022: Carrocerias permitidas e limites da carga (Art. 2º, caput, I e II, e § 4º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] A carga de sólido a granel transportada não poderá exceder os limites da carroceria do veículo.",
+"c": true,
+"x": "Art. 2º, § 4º. O item é a regra literal do § 4º do art. 2º.",
+"pg": "Requisito autônomo: vale mesmo com lona e guardas corretas.",
+"e": "Res. CONTRAN 946/2022: Carrocerias permitidas e limites da carga (Art. 2º, caput, I e II, e § 4º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] O veículo com carroceria de guardas laterais fechadas está dispensado de cobrir a carga com lona, uma vez que as laterais já impedem o derramamento.",
+"c": false,
+"x": "Art. 2º, caput e § 1º. O item as cargas devem estar totalmente cobertas por lonas ou dispositivos similares, além de estarem em carroceria adequada.",
+"pg": "Guarda lateral e lona são exigências cumulativas.",
+"e": "Res. CONTRAN 946/2022: Carrocerias permitidas e limites da carga (Art. 2º, caput, I e II, e § 4º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] A lona ou o dispositivo similar pode ter acionamento manual, mecânico ou automático.",
+"c": true,
+"x": "Art. 2º, § 1º, I. O item o inciso I do § 1º admite as três formas de acionamento.",
+"pg": "Qualquer uma das três formas serve.",
+"e": "Res. CONTRAN 946/2022: Lona ou dispositivo similar (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Para atender à resolução, a lona deve ter, obrigatoriamente, acionamento automático, vedado o acionamento manual.",
+"c": false,
+"x": "Art. 2º, § 1º, I. O item o acionamento pode ser manual, mecânico ou automático.",
+"pg": "“Possibilidade de acionamento manual, mecânico ou automático”: nenhuma é proibida.",
+"e": "Res. CONTRAN 946/2022: Lona ou dispositivo similar (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] A lona ou o dispositivo similar deve estar devidamente ancorado à carroceria do veículo.",
+"c": true,
+"x": "Art. 2º, § 1º, II. O item é o requisito do inciso II do § 1º.",
+"pg": "Lona solta, só apoiada sobre a carga, não atende.",
+"e": "Res. CONTRAN 946/2022: Lona ou dispositivo similar (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: a lona de um caminhão de minério, bem ancorada, cobre cerca de 90% da carga, deixando descoberta uma faixa na parte traseira, sem derramamento visível no momento da abordagem. Nessa situação, o transporte é regular, pois não houve derramamento.",
+"c": false,
+"x": "Art. 2º, § 1º, caput e III. O item a lona deve cobrir totalmente a carga, de forma eficaz e segura, independentemente de haver derramamento naquele momento.",
+"pg": "“Totalmente coberta”: 90% não é total.",
+"e": "Res. CONTRAN 946/2022: Lona ou dispositivo similar (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: um caminhão transporta areia em carroceria de guardas laterais fechadas, sem exceder os limites da carroceria. A carga está totalmente coberta por lona íntegra, ancorada à carroceria e acionada manualmente. Nessa situação, o transporte atende aos requisitos da resolução.",
+"c": true,
+"x": "Art. 2º, I, § 1º e § 4º. O item carroceria adequada, carga dentro dos limites e lona íntegra, ancorada e cobrindo tudo; o acionamento manual é permitido.",
+"pg": "Confira tudo: carroceria, limites, cobertura total, ancoragem e conservação.",
+"e": "Res. CONTRAN 946/2022: Lona ou dispositivo similar (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: a lona de um caminhão de calcário cobre toda a carga e está ancorada, mas tem rasgos pelos quais escapam fragmentos durante o trajeto. Nessa situação, o transporte é regular, pois a lona cobre toda a carga e está ancorada.",
+"c": false,
+"x": "Art. 2º, § 1º, IV. O item a lona deve estar em bom estado de conservação, de forma a evitar o derramamento da carga.",
+"pg": "Os requisitos da lona são cumulativos. Basta um falhar.",
+"e": "Res. CONTRAN 946/2022: Lona ou dispositivo similar (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] A resolução admite, em lugar da lona, dispositivo similar, desde que atendidos os mesmos requisitos de acionamento, ancoragem, cobertura total e conservação.",
+"c": true,
+"x": "Art. 2º, § 1º. O item o § 1º fala em “lonas ou dispositivos similares”, sujeitos aos mesmos requisitos.",
+"pg": "A norma fala em lona ou dispositivo similar, com os mesmos requisitos.",
+"e": "Res. CONTRAN 946/2022: Lona ou dispositivo similar (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: a lona de um caminhão de grãos cobre totalmente a carga e está bem ancorada, mas a sobra do tecido cai sobre a traseira e encobre as lanternas e a placa. Nessa situação, o transporte é regular, pois a lona cumpre os requisitos de cobertura e ancoragem.",
+"c": false,
+"x": "Art. 2º, § 2º. O item a lona não pode prejudicar a eficiência dos demais equipamentos obrigatórios, como as lanternas.",
+"pg": "A lona resolve a carga, mas não pode criar outro problema.",
+"e": "Res. CONTRAN 946/2022: Lona ou dispositivo similar (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Os requisitos da lona são cumulativos: possibilidade de acionamento, ancoragem à carroceria, cobertura total, eficaz e segura, e bom estado de conservação.",
+"c": true,
+"x": "Art. 2º, § 1º, I a IV. O item os quatro incisos do § 1º somam-se, ligados pelo “e”.",
+"pg": "Basta um requisito falhar para a cobertura ser irregular.",
+"e": "Res. CONTRAN 946/2022: Lona ou dispositivo similar (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Nos veículos que transportam cana-de-açúcar, o uso de cordas para amarração fica restrito à cana inteira medindo entre 1,50 m e 3,00 m.",
+"c": true,
+"x": "Art. 3º, caput. O item reproduz o caput do art. 3º.",
+"pg": "Duas condições: cana inteira e comprimento entre 1,50 m e 3,00 m.",
+"e": "Res. CONTRAN 946/2022: Cana-de-açúcar e cordas de amarração (Art. 3º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: um caminhão transporta cana-de-açúcar picada, em pedaços de cerca de 30 cm, amarrada com cordas, sem lona. Nessa situação, o transporte é regular, pois a resolução admite cordas de amarração para a carga de cana-de-açúcar.",
+"c": false,
+"x": "Art. 3º, caput. O item as cordas só são admitidas para cana inteira entre 1,50 m e 3,00 m; cana picada não se enquadra.",
+"pg": "Corda é só para cana inteira, de 1,50 m a 3,00 m.",
+"e": "Res. CONTRAN 946/2022: Cana-de-açúcar e cordas de amarração (Art. 3º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: um caminhão transporta cana-de-açúcar inteira, com colmos de 3,50 m, amarrada com cordas a cada 1,20 m. Nessa situação, o uso de cordas é regular.",
+"c": false,
+"x": "Art. 3º, caput. O item o comprimento máximo admitido para usar cordas é 3,00 m.",
+"pg": "Espaçamento certo não salva comprimento errado.",
+"e": "Res. CONTRAN 946/2022: Cana-de-açúcar e cordas de amarração (Art. 3º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: um caminhão transporta cana-de-açúcar inteira de 2 m, amarrada com cordas espaçadas 1,40 m entre si, sem derramamento na via. Nessa situação, a amarração atende à resolução.",
+"c": true,
+"x": "Art. 3º, caput e parágrafo único. O item a cana é inteira e está entre 1,50 m e 3,00 m, e as cordas estão a menos de 1,50 m entre si.",
+"pg": "Confira comprimento da cana e distância entre cordas.",
+"e": "Res. CONTRAN 946/2022: Cana-de-açúcar e cordas de amarração (Art. 3º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] As cordas de amarração da cana-de-açúcar devem manter distância mínima de 1,50 m entre elas.",
+"c": false,
+"x": "Art. 3º, parágrafo único. O item 1,50 m é a distância máxima entre as cordas, não a mínima.",
+"pg": "Mínima x máxima: cordas mais próximas seguram melhor a carga.",
+"e": "Res. CONTRAN 946/2022: Cana-de-açúcar e cordas de amarração (Art. 3º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: um caminhão transporta cana-de-açúcar inteira de 2,50 m, amarrada com cordas espaçadas 2 m entre si. Nessa situação, a amarração é regular, pois a cana está dentro do comprimento admitido.",
+"c": false,
+"x": "Art. 3º, parágrafo único. O item a distância máxima entre as cordas é 1,50 m, e aqui elas estão a 2 m.",
+"pg": "Comprimento certo não salva espaçamento errado.",
+"e": "Res. CONTRAN 946/2022: Cana-de-açúcar e cordas de amarração (Art. 3º)"
+},
+{
+"p": "[Res. CONTRAN 946/2022] Situação hipotética: um caminhão transporta cana-de-açúcar inteira de exatamente 1,50 m, amarrada com cordas espaçadas exatamente 1,50 m entre si, sem derramamento. Nessa situação, a amarração atende à resolução.",
+"c": true,
+"x": "Art. 3º, caput e parágrafo único. O item “entre 1,50 m e 3,00 m” inclui 1,50 m, e 1,50 m de distância respeita o máximo.",
+"pg": "Valores iguais aos limites são aceitos.",
+"e": "Res. CONTRAN 946/2022: Cana-de-açúcar e cordas de amarração (Art. 3º)"
 }
 ]
 },
@@ -1599,6 +2404,146 @@ export default {
 "prof": "A resolução separa bem os enquadramentos: \"mal afixado\" é o art. 169; \"sem capacete\" é o 244.",
 "x": "O art. 5º da Resolução nº 940/2022 enquadra no art. 169 do CTB o capacete não devidamente afixado (cinta jugular e engate).",
 "e": "Capacete sem afivelar = art. 169."
+},
+{
+"p": "[Res. CONTRAN 940/2022] A Resolução Contran nº 940/2022 disciplina o uso de capacete de segurança pelo condutor e pelo passageiro de motocicletas, motonetas, ciclomotores, triciclos motorizados e quadriciclos motorizados.",
+"c": true,
+"x": "Art. 1º, caput. O item o item reproduz a lista completa do art. 1º, incluindo o passageiro e os cinco tipos de veículo.",
+"pg": "O ciclomotor (as “cinquentinhas”) está na lista. Bicicleta elétrica e autopropelido, não.",
+"e": "Res. CONTRAN 940/2022: Abrangência e uso obrigatório (Arts. 1º e 2º, caput)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Situação hipotética: em fiscalização na BR-101, a equipe aborda um triciclo motorizado dotado de cabine fechada. O condutor estava sem capacete. Nessa situação, o condutor deve ser autuado, pois o uso de capacete é obrigatório para condutores de triciclos motorizados.",
+"c": false,
+"x": "Art. 1º, parágrafo único: as disposições não se aplicam a triciclos com cabine fechada e quadriciclos com cabine fechada. O item triciclos e quadriciclos com cabine fechada estão fora da resolução (art. 1º, parágrafo único), então não há obrigação de capacete.",
+"pg": "Sempre procure a palavra “cabine fechada” no enunciado. Ela muda o gabarito.",
+"e": "Res. CONTRAN 940/2022: Abrangência e uso obrigatório (Arts. 1º e 2º, caput)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Situação hipotética: um motociclista circula com o capacete na cabeça, mas com a cinta jugular solta, sem estar presa no engate. Nessa situação, o capacete não está sendo usado conforme a resolução.",
+"c": true,
+"x": "Art. 2º, caput, e art. 3º, II (o agente verifica se o capacete está devidamente afixado à cabeça). O item o capacete precisa estar afixado pelo conjunto cinta jugular e engate, por debaixo do maxilar inferior; com a jugular solta, essa condição falha.",
+"pg": "“Estar com o capacete” não basta: a banca cobra o capacete afixado, com jugular e engate sob o maxilar.",
+"e": "Res. CONTRAN 940/2022: Abrangência e uso obrigatório (Arts. 1º e 2º, caput)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] O capacete motociclístico deve ser certificado diretamente pelo INMETRO, a quem compete realizar os ensaios de conformidade.",
+"c": false,
+"x": "Art. 2º, § 1º. O item a certificação é feita por organismo acreditado pelo INMETRO, segundo regulamento aprovado pelo INMETRO; o instituto acredita e regulamenta, não certifica diretamente.",
+"pg": "Na resolução, o INMETRO acredita o organismo e aprova o regulamento. Quem certifica é o organismo acreditado.",
+"e": "Res. CONTRAN 940/2022: Certificação e capacetes acima do nº 64 (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Situação hipotética: Carla comprou, em viagem aos Estados Unidos, para uso próprio, um capacete de numeração 66, sem certificação brasileira. Nessa situação, o capacete está dispensado da certificação compulsória.",
+"c": true,
+"x": "Art. 2º, § 2º. O item numeração superior a 64 e aquisição por pessoa física no exterior: as duas condições do § 2º estão presentes.",
+"pg": "São duas condições juntas: número acima de 64 e compra por pessoa física no exterior.",
+"e": "Res. CONTRAN 940/2022: Certificação e capacetes acima do nº 64 (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Situação hipotética: Diego comprou no exterior, para uso próprio, um capacete de numeração 64, sem certificação brasileira. Nessa situação, o capacete está dispensado da certificação compulsória.",
+"c": false,
+"x": "Art. 2º, § 2º: “numeração superior a 64”. O item a dispensa vale para numeração superior a 64; o número 64 não é superior a 64.",
+"pg": "“Superior a 64” começa no 65. O 64 exige certificação.",
+"e": "Res. CONTRAN 940/2022: Certificação e capacetes acima do nº 64 (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Situação hipotética: uma loja de equipamentos importou capacetes de numeração 66 para revender a clientes com cabeça grande. Nessa situação, os capacetes estão dispensados da certificação compulsória, por terem numeração superior a 64.",
+"c": false,
+"x": "Art. 2º, § 2º. O item a dispensa exige aquisição por pessoa física no exterior; importação por loja (pessoa jurídica) para revenda não se enquadra.",
+"pg": "Não olhe só o número. Confira quem comprou e onde.",
+"e": "Res. CONTRAN 940/2022: Certificação e capacetes acima do nº 64 (Art. 2º, §§ 1º e 2º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Na fiscalização, o agente deve observar o estado geral do capacete, buscando avarias ou danos que identifiquem sua inadequação para o uso.",
+"c": true,
+"x": "Art. 3º, V. Os outros pontos: certificação, afixação, refletivos e selo ou etiqueta do INMETRO. O item o item reproduz o art. 3º, V.",
+"pg": "Capacete certificado, mas trincado ou avariado, também está em desacordo.",
+"e": "Res. CONTRAN 940/2022: O que o agente verifica na fiscalização (Art. 3º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] O agente deve verificar a aposição de dispositivo retrorrefletivo de segurança nas partes laterais e frontal do capacete.",
+"c": false,
+"x": "Art. 3º, III, conforme o item I do Anexo. O item os retrorrefletivos ficam nas partes laterais e traseira, não na frontal.",
+"pg": "Refletivo é para quem vem atrás e dos lados: laterais e traseira.",
+"e": "Res. CONTRAN 940/2022: O que o agente verifica na fiscalização (Art. 3º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] A etiqueta interna com a logomarca do INMETRO, especificada na ABNT NBR 7.471, pode ser afixada no sistema de retenção do capacete.",
+"c": true,
+"x": "Art. 3º, IV: selo de identificação da conformidade ou etiqueta interna, “podendo esta ser afixada no sistema de retenção”. O item o art. 3º, IV, admite expressamente que a etiqueta fique no sistema de retenção.",
+"pg": "A etiqueta pode estar na jugular. Não procure só no casco.",
+"e": "Res. CONTRAN 940/2022: O que o agente verifica na fiscalização (Art. 3º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Situação hipotética: um motociclista usa capacete certificado, fabricado em março de 2005, em bom estado, bem afixado, mas sem dispositivos retrorrefletivos. Nessa situação, o agente deve considerar o capacete em desacordo com a resolução, por ausência de retrorrefletivos.",
+"c": false,
+"x": "Art. 3º, parágrafo único. O item os requisitos de retrorrefletivo (inciso III) e de selo ou etiqueta (inciso IV) só se aplicam a capacetes fabricados a partir de 1º de agosto de 2007.",
+"pg": "Data de corte: 1º/8/2007. Ela vale só para os incisos III e IV.",
+"e": "Res. CONTRAN 940/2022: O que o agente verifica na fiscalização (Art. 3º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Situação hipotética: um motociclista usa capacete certificado fabricado em 2006, bem afixado e em bom estado, mas sem o selo do INMETRO e sem a etiqueta interna. Nessa situação, a ausência do selo ou da etiqueta não torna o capacete irregular, pois essa exigência alcança apenas capacetes fabricados a partir de 1º de agosto de 2007.",
+"c": true,
+"x": "Art. 3º, IV e parágrafo único. O item o inciso IV (selo ou etiqueta) só alcança capacetes fabricados a partir de 1º/8/2007, e o de 2006 cumpre os demais requisitos.",
+"pg": "Cuidado: a data de corte não dispensa a certificação (inciso I) nem a boa afixação (inciso II).",
+"e": "Res. CONTRAN 940/2022: O que o agente verifica na fiscalização (Art. 3º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] É proibido circular com capacete sem viseira, ainda que o condutor utilize óculos de proteção em boas condições de uso.",
+"c": false,
+"x": "Art. 4º, caput: capacete com viseira “ou, na ausência desta, óculos de proteção”. O item a resolução admite capacete sem viseira, desde que, na ausência dela, se usem óculos de proteção.",
+"pg": "Viseira OU óculos de proteção. Não é obrigatória a viseira.",
+"e": "Res. CONTRAN 940/2022: Viseira, óculos de proteção e película (Art. 4º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Situação hipotética: um motociclista usa capacete aberto, sem viseira, e protege os olhos apenas com óculos de sol. Nessa situação, a conduta é regular, pois os óculos de sol protegem os olhos contra o vento e a luminosidade.",
+"c": false,
+"x": "Art. 4º, § 2º. O item é proibido usar óculos de sol, corretivos ou de segurança do trabalho, de forma singular, em substituição aos óculos de proteção.",
+"pg": "Óculos de sol sozinho nunca substituem óculos de proteção.",
+"e": "Res. CONTRAN 940/2022: Viseira, óculos de proteção e película (Art. 4º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Entende-se por óculos de proteção aquele que permite ao usuário a utilização simultânea de óculos corretivos ou de sol.",
+"c": true,
+"x": "Art. 4º, § 1º. O item é a definição literal do § 1º do art. 4º.",
+"pg": "Óculos de proteção vão por cima dos óculos de grau ou de sol.",
+"e": "Res. CONTRAN 940/2022: Viseira, óculos de proteção e película (Art. 4º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Situação hipotética: parado em um semáforo fechado, o motociclista levanta totalmente a viseira e, quando o sinal abre, abaixa-a assim que coloca o veículo em movimento. Nessa situação, a conduta está de acordo com a resolução.",
+"c": true,
+"x": "Art. 4º, § 3º, I. O item com o veículo imobilizado, por qualquer motivo, a viseira pode ser totalmente levantada, desde que volte à posição frontal quando o veículo andar.",
+"pg": "“Independentemente do motivo”: semáforo, congestionamento ou parada, tanto faz.",
+"e": "Res. CONTRAN 940/2022: Viseira, óculos de proteção e película (Art. 4º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Nos capacetes com queixeira, a viseira deve permanecer totalmente fechada durante a circulação, vedada qualquer abertura.",
+"c": false,
+"x": "Art. 4º, § 3º, II. O item nos capacetes com queixeira admite-se pequena abertura da viseira para garantir a circulação de ar.",
+"pg": "Proteção total frontal aos olhos, com pequena fresta permitida no capacete com queixeira.",
+"e": "Res. CONTRAN 940/2022: Viseira, óculos de proteção e película (Art. 4º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] No caso dos capacetes modulares, além da viseira abaixada, a queixeira deve estar totalmente abaixada e travada.",
+"c": true,
+"x": "Art. 4º, § 3º, III. O item é a regra do inciso III do § 3º do art. 4º.",
+"pg": "Modular com queixeira levantada em movimento é irregular.",
+"e": "Res. CONTRAN 940/2022: Viseira, óculos de proteção e película (Art. 4º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] Nos capacetes modulares escamoteáveis, a queixeira deve estar obrigatoriamente na posição frontal, abaixada e travada, vedada sua utilização rebatida para trás.",
+"c": false,
+"x": "Art. 4º, § 3º, IV. O item no escamoteável, a queixeira pode ficar travada na posição frontal ou na traseira.",
+"pg": "Escamoteável: frente ou trás, desde que abaixada e travada, com a viseira conforme o inciso II.",
+"e": "Res. CONTRAN 940/2022: Viseira, óculos de proteção e película (Art. 4º)"
+},
+{
+"p": "[Res. CONTRAN 940/2022] No período noturno, é obrigatório o uso de viseira no padrão cristal, sendo proibida, em qualquer período, a aposição de película na viseira e nos óculos de proteção.",
+"c": true,
+"x": "Art. 4º, §§ 4º e 5º. O item o item soma o § 4º (cristal à noite) e o § 5º (proibição de película, sem limite de horário).",
+"pg": "Cristal é exigência do período noturno. Película é proibida sempre, de dia ou de noite.",
+"e": "Res. CONTRAN 940/2022: Viseira, óculos de proteção e película (Art. 4º)"
 }
 ]
 },
@@ -1679,6 +2624,391 @@ export default {
 "prof": "Dois passos: qual o limite daquele vidro e qual o valor considerado. Aqui, 28% e 29%.",
 "x": "Com retrovisores externos dos dois lados, o vidro traseiro admite 28%. O valor considerado é o medido mais 7% (29%), dentro do limite.",
 "e": "Considerado = medido + 7%."
+},
+{
+"p": "[Res. CONTRAN 960/2022] Veículo com adesivo de caráter publicitário afixado no para-brisa, em desacordo com a Resolução Contran nº 960/2022, enquadra-se no art. 230, XV, do CTB.",
+"c": true,
+"x": "Art. 21, II: publicidade no para-brisa ou no vidro traseiro é o inciso XV.",
+"pg": "Mandar publicidade para o XVI. Guarde: XV é publicidade no para-brisa ou na vigia.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Veículo com vidros cobertos por película não refletiva com índice de transmitância luminosa em desacordo com a resolução enquadra-se no art. 230, XV, do CTB.",
+"c": false,
+"x": "Película, chancela e material nas áreas indispensáveis ficam no **art. 230, XVI** (art. 21, III, b).",
+"pg": "Trocar XVI (películas) por XV (publicidade).",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Veículo em movimento que não possua espelhos retrovisores em ambos os lados e esteja com cortinas ou persianas fechadas enquadra-se no art. 230, XVII, do CTB.",
+"c": true,
+"x": "Art. 21, IV, a.",
+"pg": "Cortinas e persianas são sempre o XVII, com ou sem retrovisores.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Veículo com ausência de qualquer dos vidros de segurança enquadra-se no art. 237 do CTB.",
+"c": false,
+"x": "Ausência de vidro de segurança: **art. 230, XVIII** (art. 21, V, b), junto com dano no para-brisa.",
+"pg": "Ausência de vidro (230, XVIII) e vidro em desacordo (237) são coisas diferentes.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: um automóvel circula com para-brisa de vidro temperado, e não laminado. Nessa situação, o enquadramento previsto na resolução é o do art. 237 do CTB.",
+"c": true,
+"x": "Para-brisa deve ser laminado (art. 3º). Vidro de segurança em desacordo com a resolução: art. 237 (art. 21, VI).",
+"pg": "Mandar para o 230, XVIII. Lá estão apenas dano e ausência de vidro.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Veículo com dano no para-brisa além dos limites e condições da resolução enquadra-se no art. 230, XVI, do CTB.",
+"c": false,
+"x": "Dano no para-brisa: **art. 230, XVIII** (art. 21, V, a).",
+"pg": "Mapa: XII painéis · XV publicidade · XVI películas · XVII cortinas · XVIII dano e ausência · 237 vidro em desacordo.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] O enquadramento das condutas previsto na resolução não impede a aplicação de outras penalidades previstas no CTB.",
+"c": true,
+"x": "Art. 21, parágrafo único: as situações não afastam outras penalidades do CTB.",
+"pg": "Ler o rol do art. 21 como exclusivo.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] O símbolo de conformidade que deve constar da marcação indelével dos vidros de segurança é definido pelo órgão máximo executivo de trânsito da União.",
+"c": false,
+"x": "O símbolo é definido pelo **INMETRO** (art. 5º).",
+"pg": "INMETRO cuida de conformidade e metrologia: símbolo do vidro e aprovação do MTL.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Quem faz o quê: INMETRO, órgão máximo, MRE e Detran (Arts. 5º a 7º e 18 da Res. 960; arts. 2º, 3º, 6º e 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Fica a critério do órgão máximo executivo de trânsito da União admitir, para os vidros de segurança, resultados de testes e ensaios realizados no exterior.",
+"c": true,
+"x": "Art. 6º, caput.",
+"pg": "Achar que essa decisão é do INMETRO.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Quem faz o quê: INMETRO, órgão máximo, MRE e Detran (Arts. 5º a 7º e 18 da Res. 960; arts. 2º, 3º, 6º e 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] O fabricante, o representante e o importador do veículo devem manter-se em condição de comprovar o atendimento à resolução quando solicitados pelo órgão máximo executivo de trânsito da União.",
+"c": true,
+"x": "Art. 7º.",
+"pg": "Trocar pelo INMETRO.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Quem faz o quê: INMETRO, órgão máximo, MRE e Detran (Arts. 5º a 7º e 18 da Res. 960; arts. 2º, 3º, 6º e 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Compete ao Contran informar aos órgãos e entidades do Sistema Nacional de Trânsito a quais países se aplica a permissão de dirigir com habilitação estrangeira.",
+"c": false,
+"x": "Quem informa é o **órgão máximo executivo de trânsito da União** (art. 2º, § 2º, da Res. 933).",
+"pg": "Contran edita a resolução; quem executa e informa é o órgão máximo executivo.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Quem faz o quê: INMETRO, órgão máximo, MRE e Detran (Arts. 5º a 7º e 18 da Res. 960; arts. 2º, 3º, 6º e 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Quando o condutor estrangeiro sujeito à suspensão do direito de dirigir integrar missão diplomática ou consular, as medidas cabíveis serão tomadas pelo Ministério das Relações Exteriores.",
+"c": true,
+"x": "Art. 6º, parágrafo único, da Res. 933.",
+"pg": "O MRE só aparece aqui, nunca na lista de países.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Quem faz o quê: INMETRO, órgão máximo, MRE e Detran (Arts. 5º a 7º e 18 da Res. 960; arts. 2º, 3º, 6º e 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] O recolhimento e a apreensão da PID expedida no Brasil, em caso de infração punível com suspensão do direito de dirigir, cabem ao órgão máximo executivo de trânsito da União.",
+"c": false,
+"x": "Cabem ao **órgão ou entidade executivo de trânsito do estado ou do DF** (art. 7º da Res. 933).",
+"pg": "Federalizar o que é do Detran.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Quem faz o quê: INMETRO, órgão máximo, MRE e Detran (Arts. 5º a 7º e 18 da Res. 960; arts. 2º, 3º, 6º e 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] A troca da habilitação estrangeira não reconhecida pela equivalente nacional é feita junto ao órgão ou entidade executiva de trânsito dos estados ou do DF.",
+"c": true,
+"x": "Art. 3º da Res. 933.",
+"pg": "Trocar o Detran pelo órgão federal.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Quem faz o quê: INMETRO, órgão máximo, MRE e Detran (Arts. 5º a 7º e 18 da Res. 960; arts. 2º, 3º, 6º e 7º da Res. 933)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: o para-brisa de um caminhão tem três fraturas circulares de 3 cm de diâmetro, todas fora da área crítica de visão e da faixa periférica. Nessa situação, o para-brisa está regular.",
+"c": true,
+"x": "Caminhões: até três danos, fratura não superior a 4 cm (art. 15, parágrafo único).",
+"pg": "Aplicar o limite de dois danos, que é dos demais veículos.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Limites de danos no para-brisa (Arts. 14 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: o para-brisa de um micro-ônibus tem quatro trincas de 3 cm, todas fora da área crítica de visão e da faixa periférica. Nessa situação, o para-brisa está regular, pois todas as trincas são pequenas.",
+"c": false,
+"x": "O máximo é de **três danos** (art. 15, parágrafo único).",
+"pg": "Olhar só o tamanho e esquecer a quantidade.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Limites de danos no para-brisa (Arts. 14 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: o para-brisa de um automóvel tem uma única fratura circular de exatamente 4 cm de diâmetro, fora da área crítica e da faixa periférica. Nessa situação, o para-brisa atende aos limites da resolução.",
+"c": true,
+"x": "“Não superior a 4 cm” inclui 4 cm (art. 16, parágrafo único, II).",
+"pg": "Tratar o valor igual ao limite como irregular.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Limites de danos no para-brisa (Arts. 14 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: o para-brisa de um automóvel tem duas trincas de 10 cm e uma fratura circular de 2 cm, todas fora da área crítica e da faixa periférica. Nessa situação, o para-brisa está regular, pois cada dano respeita o limite de tamanho.",
+"c": false,
+"x": "São três danos; nos demais veículos o máximo é **dois** (art. 16, parágrafo único).",
+"pg": "Conferir o tamanho e esquecer de contar.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Limites de danos no para-brisa (Arts. 14 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: o para-brisa de um automóvel tem uma única trinca de 12 cm, fora da área crítica e da faixa periférica. Nessa situação, o para-brisa está regular, pois o limite de 20 cm não foi atingido.",
+"c": false,
+"x": "Para automóveis o limite é de **10 cm**. Os 20 cm valem para ônibus, micro-ônibus e caminhões.",
+"pg": "Usar o limite do veículo pesado no automóvel.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Limites de danos no para-brisa (Arts. 14 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: o para-brisa de um ônibus tem uma única trinca de 20 cm, fora da área crítica e da faixa periférica. Nessa situação, o para-brisa atende aos limites da resolução.",
+"c": true,
+"x": "Trinca não superior a 20 cm (art. 15, parágrafo único, I).",
+"pg": "Tratar o valor igual ao limite como irregular.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Limites de danos no para-brisa (Arts. 14 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] As máquinas florestais, quando circularem em via pública, sujeitam-se às exigências da Resolução Contran nº 960/2022.",
+"c": false,
+"x": "O art. 11 exclui máquinas agrícolas, rodoviárias e florestais, sem condicionar a exclusão ao local de circulação.",
+"pg": "Achar que a exclusão depende de onde a máquina circula.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Abrangência, marcação e áreas excluídas (Arts. 4º, 5º e 11 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Os veículos destinados à exportação não se submetem ao disposto na Resolução Contran nº 960/2022.",
+"c": true,
+"x": "Art. 11.",
+"pg": "Esquecer um dos itens da lista de exclusões.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Abrangência, marcação e áreas excluídas (Arts. 4º, 5º e 11 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] A marcação indelével dos vidros de segurança deve conter, no mínimo, a marca do instalador e o índice de transmitância luminosa.",
+"c": false,
+"x": "Marcação do vidro (art. 5º): marca do **fabricante do vidro** e símbolo do INMETRO. Instalador e índice são da **chancela da película** (art. 8º, § 1º).",
+"pg": "Misturar marcação do vidro com chancela da película.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Abrangência, marcação e áreas excluídas (Arts. 4º, 5º e 11 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Em caminhão com peso bruto total de 5.000 kg, a faixa de 20 cm na parte inferior do para-brisa não integra a área envidraçada indispensável à dirigibilidade.",
+"c": true,
+"x": "Art. 4º, § 1º, I: a faixa é excluída nos veículos de carga com PBT acima de 3.500 kg, micro-ônibus e ônibus.",
+"pg": "Esquecer o corte de 3.500 kg.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Abrangência, marcação e áreas excluídas (Arts. 4º, 5º e 11 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] A área ocupada pela banda degradê do para-brisa, quando existente, integra a área indispensável à dirigibilidade e deve ter transmitância mínima de 70%.",
+"c": false,
+"x": "A banda degradê é **excluída** da área indispensável, assim como a faixa de serigrafia (art. 4º, § 1º, I).",
+"pg": "Achar que todo o para-brisa precisa de 70%.",
+"e": "Res. CONTRAN 960/2022 e 933/2022: Abrangência, marcação e áreas excluídas (Arts. 4º, 5º e 11 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] A Resolução Contran nº 960/2022 dispõe sobre os requisitos de segurança de vidros, a visibilidade para fins de circulação, o uso de vidros em veículos blindados e o uso de medidores de transmitância luminosa.",
+"c": true,
+"x": "Literal do art. 1º.",
+"pg": "Achar que a resolução trata só de películas.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Vidros de segurança e abrangência (Arts. 1º a 7º, 11 e 12 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Os reboques e semirreboques estão dispensados de sair de fábrica com as partes envidraçadas equipadas com vidros de segurança.",
+"c": false,
+"x": "O art. 2º inclui expressamente os veículos automotores, os reboques e os semirreboques.",
+"pg": "Excluir reboques e semirreboques da regra.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Vidros de segurança e abrangência (Arts. 1º a 7º, 11 e 12 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Nas partes envidraçadas diversas do para-brisa, admite-se o vidro de segurança temperado, uniformemente protendido.",
+"c": true,
+"x": "Art. 3º: laminado no para-brisa; temperado (uniformemente protendido) ou laminado nas demais partes.",
+"pg": "Achar que o laminado é obrigatório em todos os vidros.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Vidros de segurança e abrangência (Arts. 1º a 7º, 11 e 12 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] A marcação indelével dos vidros de segurança deve conter, no mínimo, a marca do fabricante do veículo e o símbolo de conformidade definido pelo INMETRO.",
+"c": false,
+"x": "A marcação traz a marca do fabricante **do vidro**, não do veículo (art. 5º).",
+"pg": "Trocar o fabricante do vidro pelo do veículo.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Vidros de segurança e abrangência (Arts. 1º a 7º, 11 e 12 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Para vidros com ensaios admitidos por órgão reconhecido pela Comissão ou Comunidade Europeia, a conformidade pode ser identificada pela letra E maiúscula acompanhada de índice numérico do país emitente, inserida em um círculo.",
+"c": true,
+"x": "Art. 6º, § 2º. Também vale a letra e minúscula com número em um retângulo; para os EUA, a sigla DOT.",
+"pg": "Trocar o círculo pelo retângulo ou o contrário.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Vidros de segurança e abrangência (Arts. 1º a 7º, 11 e 12 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Os veículos incompletos e inacabados submetem-se às exigências da resolução, ficando excluídos apenas os veículos destinados à exportação.",
+"c": false,
+"x": "O art. 11 exclui máquinas agrícolas, rodoviárias e florestais, veículos que circulam só fora das vias públicas e veículos incompletos, inacabados e destinados à exportação.",
+"pg": "Encurtar a lista de exclusões.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Vidros de segurança e abrangência (Arts. 1º a 7º, 11 e 12 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] A faixa periférica de serigrafia destinada a dar acabamento ao vidro é excluída da área do para-brisa considerada indispensável à dirigibilidade.",
+"c": true,
+"x": "Art. 4º, § 1º, I. Também se excluem a banda degradê, se houver, e a faixa inferior de 20 cm em veículos de carga com PBT acima de 3.500 kg, micro-ônibus e ônibus.",
+"pg": "Achar que todo o para-brisa precisa de 70%.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Transmitância, películas e vedações (Arts. 4º, 8º, 9º e 10 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] A película refletiva é admitida nos vidros traseiros, desde que o veículo possua espelhos retrovisores externos em ambos os lados.",
+"c": false,
+"x": "A película refletiva é vedada em qualquer área envidraçada (art. 10, I). Retrovisores não a autorizam.",
+"pg": "Estender a ressalva dos retrovisores para a película refletiva.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Transmitância, películas e vedações (Arts. 4º, 8º, 9º e 10 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] É permitida a aplicação de película não refletiva nas áreas envidraçadas dos veículos automotores, desde que o conjunto vidro-película atenda às condições de transmitância estabelecidas na resolução.",
+"c": true,
+"x": "Art. 8º, caput.",
+"pg": "Avaliar só a película, e não o conjunto vidro-película.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Transmitância, películas e vedações (Arts. 4º, 8º, 9º e 10 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] O uso de cortinas fechadas nas áreas indispensáveis à dirigibilidade, com o veículo em movimento, é permitido quando o veículo possui espelhos retrovisores em ambos os lados.",
+"c": false,
+"x": "A ressalva do art. 10, IV, vale só para as áreas **não** indispensáveis à dirigibilidade.",
+"pg": "Aplicar a ressalva dos retrovisores às áreas indispensáveis.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Transmitância, películas e vedações (Arts. 4º, 8º, 9º e 10 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] É admitido o uso de painéis luminosos com mensagens no transporte coletivo de passageiros, quando destinados a informar o serviço ao usuário da linha.",
+"c": true,
+"x": "Art. 10, V, parte final.",
+"pg": "Achar que a vedação a painéis luminosos é absoluta.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Transmitância, películas e vedações (Arts. 4º, 8º, 9º e 10 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: em fiscalização, o conjunto vidro-película do vidro lateral dianteiro esquerdo de um automóvel apresentou valor considerado de 50%. Nessa situação, o vidro está regular, pois supera o mínimo de 28%.",
+"c": false,
+"x": "As laterais dianteiras, respeitado o campo de visão do condutor, são áreas indispensáveis à dirigibilidade (art. 4º, § 1º, II) e exigem no mínimo 70%.",
+"pg": "Aplicar 28% a um vidro lateral dianteiro.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Transmitância, películas e vedações (Arts. 4º, 8º, 9º e 10 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Para efeito da resolução, somente as trincas são consideradas dano ao para-brisa.",
+"c": false,
+"x": "O art. 13 considera dano as trincas **e** as fraturas de configuração circular.",
+"pg": "Esquecer a fratura circular.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Danos no para-brisa (Arts. 13 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Nos para-brisas de ônibus, micro-ônibus e caminhões, são permitidos no máximo três danos, exceto na área crítica de visão do condutor e na faixa periférica de 2,5 cm das bordas.",
+"c": true,
+"x": "Art. 15, parágrafo único, combinado com o art. 14.",
+"pg": "Trocar três por dois (limite dos demais veículos).",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Danos no para-brisa (Arts. 13 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] No para-brisa de caminhão, admite-se fratura de configuração circular de até 5 cm de diâmetro, fora da área crítica de visão.",
+"c": false,
+"x": "O limite é de **4 cm** de diâmetro para todos os veículos (arts. 15 e 16, parágrafo único, II).",
+"pg": "Número trocado.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Danos no para-brisa (Arts. 13 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: um automóvel apresenta uma única trinca de 8 cm, localizada dentro da faixa periférica de 2,5 cm das bordas externas do para-brisa. Nessa situação, o para-brisa está irregular.",
+"c": true,
+"x": "Na faixa periférica de 2,5 cm não deve haver trinca nem fratura circular, de qualquer tamanho (art. 14).",
+"pg": "Olhar só o tamanho da trinca e esquecer a localização.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Danos no para-brisa (Arts. 13 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Nos para-brisas de ônibus e caminhões, a área crítica de visão do condutor é delimitada por retângulo situado à direita do veículo.",
+"c": false,
+"x": "O retângulo de 50 cm de altura por 40 cm de largura fica **à esquerda** do veículo, centrado na linha do volante (art. 15).",
+"pg": "Trocar o lado.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Danos no para-brisa (Arts. 13 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: um automóvel apresenta uma única trinca de 10 cm, fora da área crítica de visão e da faixa periférica. Nessa situação, o para-brisa atende aos limites da resolução.",
+"c": true,
+"x": "Demais veículos: até dois danos, trinca não superior a 10 cm (art. 16, parágrafo único, I).",
+"pg": "“Não superior a” inclui o próprio limite.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Danos no para-brisa (Arts. 13 a 16 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Para obter o valor considerado (VC), soma-se à medição realizada (MR) o percentual de 7%.",
+"c": true,
+"x": "Art. 19, § 1º: VC = MR + 7%.",
+"pg": "Subtrair em vez de somar.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Fiscalização com MTL (Arts. 17 a 20 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] O medidor de transmitância luminosa (MTL) deve ter seu modelo aprovado pelo órgão máximo executivo de trânsito da União.",
+"c": false,
+"x": "O modelo é aprovado pelo **INMETRO**, com verificação metrológica periódica (art. 18).",
+"pg": "Trocar o INMETRO pelo órgão de trânsito.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Fiscalização com MTL (Arts. 17 a 20 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: a medição realizada no para-brisa de um automóvel foi de 60%. Nessa situação, caracteriza-se infração, ainda que se considere a margem prevista na resolução.",
+"c": true,
+"x": "VC = 60% + 7% = 67%, inferior a 70% (arts. 4º, I, e 19, § 1º).",
+"pg": "Esquecer de fazer a conta.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Fiscalização com MTL (Arts. 17 a 20 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Situação hipotética: em veículo com retrovisores em ambos os lados, a medição realizada no vidro traseiro (vigia) foi de 19%. Nessa situação, o vidro está regular.",
+"c": false,
+"x": "VC = 19% + 7% = 26%, inferior a 28% (arts. 4º, § 2º, e 19, § 1º). Há infração.",
+"pg": "Comparar a medição bruta, e não o VC, ou errar a soma.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Fiscalização com MTL (Arts. 17 a 20 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Quando o MTL for dotado de dispositivo impressor, o registro impresso deve conter a data e a hora da medição.",
+"c": true,
+"x": "Art. 20, I. Também: placa, transmitância medida, área fiscalizada, identificação do instrumento e do agente.",
+"pg": "Confundir com o conteúdo do auto de infração.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Fiscalização com MTL (Arts. 17 a 20 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] No auto de infração lavrado com base em medição de transmitância, a medição realizada, o valor considerado e o limite regulamentado devem ser expressos em valores absolutos, vedada a forma percentual.",
+"c": false,
+"x": "O art. 19 exige esses dados **expressos em termos percentuais**.",
+"pg": "Inverter a forma de expressão.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Fiscalização com MTL (Arts. 17 a 20 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Veículo com pintura de caráter publicitário no vidro traseiro, em desacordo com a resolução, enquadra-se no art. 237 do CTB.",
+"c": false,
+"x": "Publicidade no para-brisa ou no vidro traseiro: **art. 230, XV** (art. 21, II).",
+"pg": "Usar o art. 237, que é para vidro de segurança em desacordo.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Veículo com vidros total ou parcialmente cobertos por película refletiva ou opaca enquadra-se no art. 230, XVI, do CTB.",
+"c": true,
+"x": "Art. 21, III, a.",
+"pg": "Confundir com o inciso XV (publicidade).",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Veículo em movimento, com retrovisores em ambos os lados e cortinas fechadas em desacordo com a resolução, enquadra-se no art. 230, XVI, do CTB.",
+"c": false,
+"x": "Cortinas, persianas e similares: **art. 230, XVII** (art. 21, IV, b).",
+"pg": "Jogar tudo de vidro no inciso XVI.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Veículo com película não refletiva cuja chancela não permita ler qualquer das informações obrigatórias enquadra-se no art. 230, XVI, do CTB.",
+"c": true,
+"x": "Art. 21, III, d.",
+"pg": "Achar que chancela ilegível não gera infração.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] Veículo com qualquer vidro de segurança em desacordo com o previsto na resolução enquadra-se no art. 237 do CTB.",
+"c": true,
+"x": "Art. 21, VI.",
+"pg": "Trocar pelo art. 230, XVIII (dano e ausência de vidro).",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Enquadramento no CTB (Art. 21 da Res. 960)"
+},
+{
+"p": "[Res. CONTRAN 960/2022] As situações infracionais descritas na resolução afastam a aplicação de outras penalidades previstas no CTB.",
+"c": false,
+"x": "O art. 21, parágrafo único, diz o contrário: elas **não afastam** outras penalidades do CTB.",
+"pg": "Ler o rol como exclusivo.",
+"e": "Res. CONTRAN 960/2022: Res. 960 · Enquadramento no CTB (Art. 21 da Res. 960)"
 }
 ]
 },
@@ -2176,6 +3506,377 @@ export default {
 "prof": "Depois da Lei nº 14.071/2020, os prazos de defesa e de indicação passaram para 30 dias.",
 "x": "O prazo para a defesa prévia (e para a indicação do condutor) é de no mínimo 30 dias contados da expedição da notificação da autuação.",
 "e": "Defesa prévia: mínimo 30 dias."
+},
+{
+"p": "[Res. CONTRAN 619/2016] O Auto de Infração de Trânsito é o documento que dá início ao processo administrativo para imposição de punição em decorrência de infração à legislação de trânsito.",
+"c": true,
+"x": "Art. 2º, I.",
+"pg": "Confundir o AIT com a notificação da autuação.",
+"e": "Res. CONTRAN 619/2016: Definições e Auto de Infração (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Notificação de penalidade é o procedimento que dá ciência ao proprietário do veículo de que foi cometida uma infração de trânsito com o seu veículo.",
+"c": false,
+"x": "Essa é a definição de **notificação de autuação** (art. 2º, II). A notificação de penalidade dá ciência da penalidade imposta e indica o valor da multa (art. 2º, III).",
+"pg": "Trocar autuação por penalidade.",
+"e": "Res. CONTRAN 619/2016: Definições e Auto de Infração (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Para os fins da resolução, arrecadador é o órgão executivo de trânsito ou rodoviário que efetua a cobrança e o recebimento da multa, de sua competência ou de terceiros, e que responde pelo repasse de 5% do valor da multa ao FUNSET.",
+"c": true,
+"x": "Art. 2º, V.",
+"pg": "Achar que o arrecadador só cobra multas que ele mesmo aplicou.",
+"e": "Res. CONTRAN 619/2016: Definições e Auto de Infração (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Autuador é o órgão que efetua a cobrança e o recebimento da multa de trânsito, sendo o responsável pelo repasse ao FUNSET.",
+"c": false,
+"x": "Autuador é o órgão competente para **julgar a defesa da autuação e aplicar a multa** (art. 2º, IV). A cobrança e o repasse cabem ao arrecadador (art. 2º, V).",
+"pg": "Misturar as definições de autuador e arrecadador.",
+"e": "Res. CONTRAN 619/2016: Definições e Auto de Infração (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] O Auto de Infração de Trânsito pode ser lavrado por anotação em documento próprio, por registro em talão eletrônico ou por registro em sistema eletrônico, quando a infração for comprovada por equipamento de detecção provido de registrador de imagem.",
+"c": true,
+"x": "Art. 3º, § 1º, I a III.",
+"pg": "Achar que só existe o AIT em papel.",
+"e": "Res. CONTRAN 619/2016: Definições e Auto de Infração (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] O Auto de Infração lavrado em talão eletrônico, quando impresso para início do processo administrativo, deve conter obrigatoriamente a assinatura do agente.",
+"c": false,
+"x": "Na impressão do AIT feito por talão eletrônico ou sistema eletrônico, **é dispensada** a assinatura da autoridade ou do agente (art. 3º, § 2º).",
+"pg": "Exigir assinatura no AIT eletrônico impresso.",
+"e": "Res. CONTRAN 619/2016: Definições e Auto de Infração (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Situação hipotética: um equipamento com registrador de imagem flagrou excesso de velocidade em rodovia federal, e o AIT foi gerado em sistema eletrônico de processamento de dados. Nessa situação, o registro da infração deve ser referendado por autoridade de trânsito ou por seu agente, que será identificado no auto de infração.",
+"c": true,
+"x": "Art. 3º, § 3º.",
+"pg": "Achar que o registro do equipamento dispensa qualquer agente.",
+"e": "Res. CONTRAN 619/2016: Definições e Auto de Infração (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] O Auto de Infração de Trânsito valerá como notificação da autuação quando for assinado pelo condutor e este for o proprietário do veículo.",
+"c": true,
+"x": "Art. 3º, § 5º. Para isso, o AIT deve trazer o prazo para a defesa da autuação (§ 6º).",
+"pg": "Esquecer que as duas condições são cumulativas.",
+"e": "Res. CONTRAN 619/2016: Definições e Auto de Infração (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Situação hipotética: abordado na BR-116, um motorista que dirigia o carro da empresa onde trabalha assinou o auto de infração. Nessa situação, o auto assinado valerá como notificação da autuação, pois houve ciência inequívoca do condutor.",
+"c": false,
+"x": "O AIT só vale como notificação da autuação quando assinado pelo condutor **e este for o proprietário** do veículo (art. 3º, § 5º). Aqui, a proprietária é a empresa.",
+"pg": "Achar que basta a assinatura do condutor.",
+"e": "Res. CONTRAN 619/2016: Definições e Auto de Infração (Arts. 1º a 3º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] A notificação da autuação deve ser expedida no prazo máximo de 30 dias contados da data do cometimento da infração.",
+"c": true,
+"x": "Art. 4º, caput.",
+"pg": "Contar o prazo a partir da lavratura ou do registro no sistema.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Quando utilizada a remessa postal, a expedição da notificação da autuação caracteriza-se pela entrega da notificação pelo órgão de trânsito à empresa responsável pelo seu envio.",
+"c": true,
+"x": "Art. 4º, § 1º. No sistema de notificação eletrônica, a expedição é o envio eletrônico ao proprietário (§ 2º).",
+"pg": "Confundir expedição com recebimento.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Situação hipotética: a infração ocorreu em 1º de março. O órgão entregou a notificação aos Correios em 25 de março, e o proprietário a recebeu em 5 de abril. Nessa situação, o auto de infração deve ser arquivado, pois a notificação chegou ao proprietário depois de 30 dias da infração.",
+"c": false,
+"x": "O prazo de 30 dias é de **expedição**, e na remessa postal a expedição ocorre com a entrega à empresa de envio (art. 4º, caput e § 1º). Em 25 de março, o prazo foi cumprido.",
+"pg": "Medir o prazo pela data de recebimento.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] A não expedição da notificação da autuação no prazo previsto enseja o arquivamento do Auto de Infração de Trânsito.",
+"c": true,
+"x": "Art. 4º, § 3º.",
+"pg": "Achar que o órgão pode simplesmente expedir depois.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Segundo a Res. 619/2016, o prazo para apresentação da defesa da autuação não pode ser inferior a 30 dias, contados da data da notificação da autuação ou da publicação por edital.",
+"c": false,
+"x": "No texto da 619, o prazo mínimo era de **15 dias** (art. 4º, § 4º). A Res. 918/2022, que revogou a 619, fixou o mínimo em 30 dias. Na prova, leia com atenção qual norma o item cita.",
+"pg": "Responder com a regra atual quando o item pergunta pela norma antiga, ou o contrário.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] O formulário de identificação do condutor infrator deve orientar que seja acompanhado de cópia legível do documento de habilitação do condutor e do documento de identificação do proprietário do veículo ou de seu representante legal.",
+"c": true,
+"x": "Art. 5º, VIII.",
+"pg": "Esquecer o documento do proprietário.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] A indicação do condutor infrator produz efeitos legais ainda que o formulário apresente rasuras, desde que contenha as assinaturas do condutor e do proprietário.",
+"c": false,
+"x": "A indicação só é acatada se o formulário estiver corretamente preenchido, **sem rasuras**, com assinaturas originais e acompanhado das cópias exigidas (art. 5º, IX).",
+"pg": "Relativizar um requisito expresso.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Situação hipotética: uma viatura de um órgão estadual foi flagrada em infração, e não foi possível colher a assinatura do servidor que a conduzia. Nessa situação, deve ser anexado ao formulário de identificação ofício do representante legal do órgão identificando o condutor, com cópia de documento que comprove a condução do veículo no momento da infração.",
+"c": true,
+"x": "Art. 5º, § 1º, I. Para as demais pessoas jurídicas, anexa-se documento com cláusula de responsabilidade por infrações e prova da posse (inciso II).",
+"pg": "Aplicar ao órgão público a regra das empresas privadas.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Situação hipotética: notificado, o proprietário de um veículo indicou como condutor um amigo que não possuía habilitação. Nessa situação, serão lavrados autos de infração ao proprietário, pelo art. 163 do CTB, e ao condutor indicado, pela conduta do art. 162 do CTB.",
+"c": true,
+"x": "Art. 5º, § 2º, I e II. O proprietário só não é autuado pelo art. 163 se ele próprio for o condutor.",
+"pg": "Achar que a indicação livra o proprietário de qualquer autuação.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] O proprietário do veículo será considerado responsável pela infração caso não haja identificação do condutor infrator até o término do prazo fixado na notificação da autuação.",
+"c": true,
+"x": "Art. 6º, I. Também responde se a identificação for irregular ou se não houver comunicação de venda à época da infração (incisos II e III).",
+"pg": "Achar que o prazo para indicar o condutor é indefinido.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Sendo o proprietário do veículo pessoa jurídica e não havendo identificação do condutor, a única consequência é a responsabilização da empresa pela infração originalmente cometida.",
+"c": false,
+"x": "Além disso, será imposta à pessoa jurídica **multa nos termos do § 8º do art. 257 do CTB** (art. 7º), a chamada multa por não identificação do condutor.",
+"pg": "Esquecer a multa adicional da pessoa jurídica.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] No caso de veículo objeto de arrendamento mercantil, comodato ou aluguel, o possuidor regularmente registrado equipara-se ao proprietário, e as notificações só lhe serão enviadas se o contrato tiver vigência igual ou superior a 180 dias.",
+"c": true,
+"x": "Art. 8º, caput e parágrafo único.",
+"pg": "Trocar o prazo de 180 dias.",
+"e": "Res. CONTRAN 619/2016: Notificação da autuação e identificação do condutor (Arts. 4º a 8º)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Acolhida a defesa da autuação, o auto de infração será cancelado, o seu registro será arquivado e a autoridade de trânsito comunicará o fato ao proprietário do veículo.",
+"c": true,
+"x": "Art. 9º, § 1º.",
+"pg": "Achar que a defesa acolhida só reduz a multa.",
+"e": "Res. CONTRAN 619/2016: Defesa da autuação e advertência por escrito (Arts. 9º e 10)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] A penalidade de advertência por escrito pode ser aplicada às infrações de natureza leve, média ou grave.",
+"c": false,
+"x": "Apenas às infrações de natureza **leve ou média** (art. 10, caput, e art. 267 do CTB).",
+"pg": "Incluir as infrações graves.",
+"e": "Res. CONTRAN 619/2016: Defesa da autuação e advertência por escrito (Arts. 9º e 10)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] O proprietário do veículo ou o condutor infrator pode requerer a aplicação da penalidade de advertência por escrito até a data do término do prazo para a apresentação da defesa da autuação.",
+"c": true,
+"x": "Art. 10, § 1º. A autoridade também pode aplicá-la de ofício (caput).",
+"pg": "Achar que a advertência só é aplicada a pedido.",
+"e": "Res. CONTRAN 619/2016: Defesa da autuação e advertência por escrito (Arts. 9º e 10)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Da decisão da autoridade que aplicar a advertência por escrito solicitada pelo interessado sempre caberá recurso à JARI.",
+"c": false,
+"x": "**Não cabe** recurso à JARI, exceto se a solicitação tiver sido concomitante à apresentação de defesa da autuação (art. 10, § 2º).",
+"pg": "Generalizar o direito de recurso.",
+"e": "Res. CONTRAN 619/2016: Defesa da autuação e advertência por escrito (Arts. 9º e 10)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] A aplicação da penalidade de advertência por escrito implica o registro da pontuação correspondente à infração no prontuário do infrator.",
+"c": false,
+"x": "A advertência **não implica** registro de pontuação (art. 10, § 7º).",
+"pg": "Achar que a pontuação acompanha qualquer penalidade.",
+"e": "Res. CONTRAN 619/2016: Defesa da autuação e advertência por escrito (Arts. 9º e 10)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Na notificação por meio eletrônico da advertência por escrito, o proprietário ou o condutor autuado será considerado notificado 30 dias após a inclusão da informação no sistema eletrônico.",
+"c": true,
+"x": "Art. 10, § 10.",
+"pg": "Achar que a ciência é imediata.",
+"e": "Res. CONTRAN 619/2016: Defesa da autuação e advertência por escrito (Arts. 9º e 10)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Se a autoridade de trânsito não entender que a advertência por escrito é a medida mais educativa no caso, aplicará a penalidade de multa.",
+"c": true,
+"x": "Art. 10, § 8º. A advertência é uma faculdade da autoridade.",
+"pg": "Achar que o condutor tem direito subjetivo à advertência.",
+"e": "Res. CONTRAN 619/2016: Defesa da autuação e advertência por escrito (Arts. 9º e 10)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Para a análise da reincidência que impede a advertência por escrito, deve ser considerada qualquer infração registrada nos últimos 12 meses, ainda que pendente de julgamento.",
+"c": false,
+"x": "Deve ser considerada apenas a infração cuja instância administrativa de julgamento **já foi encerrada** (art. 10, § 3º).",
+"pg": "Contar infrações ainda em discussão.",
+"e": "Res. CONTRAN 619/2016: Defesa da autuação e advertência por escrito (Arts. 9º e 10)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] A data do término para apresentação de recurso, informada na notificação da penalidade de multa, é a mesma data para o pagamento da multa.",
+"c": true,
+"x": "Art. 11, IV.",
+"pg": "Achar que há dois prazos diferentes.",
+"e": "Res. CONTRAN 619/2016: Notificação da penalidade, edital e recursos (Arts. 11 a 17)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Até a data de vencimento expressa na notificação da penalidade de multa, ou enquanto permanecer o efeito suspensivo sobre o auto de infração, não incidirá restrição ao veículo, inclusive para fins de licenciamento e transferência.",
+"c": true,
+"x": "Art. 12.",
+"pg": "Achar que a multa pendente já bloqueia o licenciamento.",
+"e": "Res. CONTRAN 619/2016: Notificação da penalidade, edital e recursos (Arts. 11 a 17)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] O órgão de trânsito pode optar pela notificação por edital desde o início do processo, como forma de reduzir os custos com remessa postal.",
+"c": false,
+"x": "O edital só é usado depois de **esgotadas as tentativas** de notificar por meio postal ou pessoal (art. 13, caput).",
+"pg": "Transformar o edital em primeira opção.",
+"e": "Res. CONTRAN 619/2016: Notificação da penalidade, edital e recursos (Arts. 11 a 17)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] É facultado ao órgão autuador publicar extrato resumido do edital no Diário Oficial, sendo obrigatória a publicação da íntegra do edital em seu sítio eletrônico na internet.",
+"c": true,
+"x": "Art. 13, § 2º.",
+"pg": "Achar que a íntegra no site também é facultativa.",
+"e": "Res. CONTRAN 619/2016: Notificação da penalidade, edital e recursos (Arts. 11 a 17)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] As notificações enviadas eletronicamente dispensam a publicação por edital.",
+"c": true,
+"x": "Art. 13, § 4º.",
+"pg": "Exigir edital mesmo com notificação eletrônica.",
+"e": "Res. CONTRAN 619/2016: Notificação da penalidade, edital e recursos (Arts. 11 a 17)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] O edital da notificação da autuação deve conter, entre outras informações, o valor da multa e o número de registro do documento de habilitação do infrator.",
+"c": false,
+"x": "O edital da autuação traz cabeçalho, instruções e prazo de defesa, placa, número do AIT, data e código da infração (art. 13, § 1º, I). O **valor da multa** é do edital da penalidade de multa (inciso III), e o **registro da habilitação** é do edital da advertência (inciso II).",
+"pg": "Misturar o conteúdo dos três editais.",
+"e": "Res. CONTRAN 619/2016: Notificação da penalidade, edital e recursos (Arts. 11 a 17)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Aplicada a penalidade, cabe recurso em primeira instância, julgado pela JARI que funciona junto ao órgão de trânsito que aplicou a penalidade.",
+"c": true,
+"x": "Art. 14. Da decisão da JARI cabe recurso em segunda instância (art. 15).",
+"pg": "Achar que a JARI de outro órgão julga o recurso.",
+"e": "Res. CONTRAN 619/2016: Notificação da penalidade, edital e recursos (Arts. 11 a 17)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] As penalidades aplicadas devem ser cadastradas no RENACH imediatamente após a sua aplicação, ainda que haja recurso pendente.",
+"c": false,
+"x": "Somente **depois de esgotados os recursos** as penalidades podem ser cadastradas no RENACH (art. 17).",
+"pg": "Cadastrar antes do fim da via administrativa.",
+"e": "Res. CONTRAN 619/2016: Notificação da penalidade, edital e recursos (Arts. 11 a 17)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] O pagamento da multa até a data de vencimento indicada na notificação de penalidade pode ser feito pelo valor equivalente a 80% do valor original.",
+"c": true,
+"x": "Art. 19: valor original × 0,80.",
+"pg": "Confundir os descontos de 20% e de 40%.",
+"e": "Res. CONTRAN 619/2016: Valor da multa, arrecadação e parcelamento (Arts. 18 a 25-A)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Para quem optou previamente pelo recebimento das notificações pelo sistema de notificação eletrônica, o pagamento até o vencimento pode ser feito por 60% do valor original da multa.",
+"c": true,
+"x": "Art. 20: valor original × 0,60, o que equivale a um desconto de 40%.",
+"pg": "Achar que o desconto de 40% vale para qualquer pagamento antecipado.",
+"e": "Res. CONTRAN 619/2016: Valor da multa, arrecadação e parcelamento (Arts. 18 a 25-A)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Situação hipotética: uma multa de valor original de R$ 200,00 venceu em 10 de maio, e o infrator só a pagou em 20 de junho. Nessa situação, o valor a pagar é de R$ 202,00.",
+"c": true,
+"x": "Entre o dia seguinte ao vencimento e o último dia do mês seguinte, paga-se o valor original acrescido de 1% (art. 21): 200 × 1,01 = 202.",
+"pg": "Aplicar a SELIC antes da hora ou manter o desconto depois do vencimento.",
+"e": "Res. CONTRAN 619/2016: Valor da multa, arrecadação e parcelamento (Arts. 18 a 25-A)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Situação hipotética: uma multa venceu em 10 de maio, e o infrator a pagou em 25 de maio. Nessa situação, como o pagamento ocorreu no mesmo mês do vencimento, será devido apenas o valor original, sem qualquer acréscimo.",
+"c": false,
+"x": "Após o vencimento, já no dia seguinte, incide o acréscimo de 1% (art. 21). Não há tolerância até o fim do mês do vencimento.",
+"pg": "Imaginar uma carência dentro do mês.",
+"e": "Res. CONTRAN 619/2016: Valor da multa, arrecadação e parcelamento (Arts. 18 a 25-A)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Para quitação após o mês subsequente ao do vencimento, o valor original da multa é multiplicado por um fator igual a 1,01 somado aos percentuais mensais da taxa SELIC do período, não capitalizados.",
+"c": true,
+"x": "Art. 22, II e III.",
+"pg": "Achar que a SELIC é capitalizada mês a mês.",
+"e": "Res. CONTRAN 619/2016: Valor da multa, arrecadação e parcelamento (Arts. 18 a 25-A)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Interposto recurso no prazo legal e julgado improcedente, os juros de mora incidem a partir da data de vencimento da notificação da penalidade.",
+"c": false,
+"x": "Com recurso tempestivo, os juros incidem a partir do **encerramento da instância administrativa** (art. 22, § 4º). Desde o vencimento só para o recurso intempestivo (§ 5º).",
+"pg": "Tratar o recurso no prazo como se fosse fora do prazo.",
+"e": "Res. CONTRAN 619/2016: Valor da multa, arrecadação e parcelamento (Arts. 18 a 25-A)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] O recolhimento do percentual de 5% do valor arrecadado das multas de trânsito à conta do FUNSET é de responsabilidade do órgão de trânsito arrecadador.",
+"c": true,
+"x": "Art. 23, § 1º.",
+"pg": "Atribuir o repasse ao órgão autuador ou ao DENATRAN.",
+"e": "Res. CONTRAN 619/2016: Valor da multa, arrecadação e parcelamento (Arts. 18 a 25-A)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Os órgãos autuadores da União, como a PRF, devem arrecadar as multas de sua competência por meio do documento próprio de arrecadação estabelecido pelo DENATRAN, o mesmo utilizado pelos órgãos estaduais e municipais.",
+"c": false,
+"x": "Os órgãos da União usam a **Guia de Recolhimento da União (GRU) do tipo Cobrança** (art. 24). O documento próprio do DENATRAN é dos órgãos dos estados, do DF e dos municípios (art. 23).",
+"pg": "Unificar a forma de arrecadação de todos os entes.",
+"e": "Res. CONTRAN 619/2016: Valor da multa, arrecadação e parcelamento (Arts. 18 a 25-A)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] A aprovação e a efetivação do parcelamento de multas por meio de cartão de crédito liberam o licenciamento do veículo e a emissão do CRLV.",
+"c": true,
+"x": "Art. 25-A, § 8º.",
+"pg": "Achar que o licenciamento só é liberado após a última parcela.",
+"e": "Res. CONTRAN 619/2016: Valor da multa, arrecadação e parcelamento (Arts. 18 a 25-A)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] As multas inscritas em dívida ativa podem ser incluídas no parcelamento por cartão de crédito previsto na resolução.",
+"c": false,
+"x": "Ficam **excluídas** do parcelamento as multas inscritas em dívida ativa, os parcelamentos em cobrança administrativa, os veículos licenciados em outra UF e as multas de órgãos que não autorizam essa forma (art. 25-A, § 11).",
+"pg": "Esquecer as exclusões.",
+"e": "Res. CONTRAN 619/2016: Valor da multa, arrecadação e parcelamento (Arts. 18 a 25-A)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Os prazos para apresentação de condutor, defesa da autuação e recursos são contados em dias consecutivos, excluindo-se o dia da notificação e incluindo-se o dia do vencimento, com prorrogação para o primeiro dia útil se o vencimento cair em dia sem expediente.",
+"c": true,
+"x": "Art. 27 e parágrafo único.",
+"pg": "Contar em dias úteis.",
+"e": "Res. CONTRAN 619/2016: Disposições finais (Arts. 26 a 33)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Situação hipotética: João vendeu seu carro em junho. Em julho, a PRF recebeu a comunicação de uma infração cometida com o veículo em maio. Nessa situação, as notificações devem ser encaminhadas a João, que constava como proprietário na data da infração.",
+"c": true,
+"x": "Art. 29, caput. Quem vendeu deve manter o endereço atualizado; a notificação devolvida por falta dessa atualização é válida (§§ 4º e 5º).",
+"pg": "Mandar a notificação ao proprietário atual.",
+"e": "Res. CONTRAN 619/2016: Disposições finais (Arts. 26 a 33)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] É facultado antecipar o pagamento da multa em qualquer fase do processo administrativo, sem prejuízo da apresentação da defesa da autuação e dos recursos.",
+"c": true,
+"x": "Art. 30. A notificação da penalidade então informa que a multa está paga, sem código de barras (parágrafo único).",
+"pg": "Achar que pagar é admitir a infração.",
+"e": "Res. CONTRAN 619/2016: Disposições finais (Arts. 26 a 33)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] O pagamento antecipado da multa implica renúncia ao direito de recorrer, razão pela qual a notificação da penalidade é expedida sem indicação de prazo para recurso.",
+"c": false,
+"x": "A notificação é expedida com a informação de que a multa está paga, **com a indicação do prazo para recurso** e sem código de barras (art. 30, parágrafo único).",
+"pg": "Ligar pagamento a renúncia.",
+"e": "Res. CONTRAN 619/2016: Disposições finais (Arts. 26 a 33)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Nos veículos registrados em nome de missões diplomáticas, as notificações são enviadas exclusivamente ao Ministério das Relações Exteriores, dispensado o envio ao endereço do registro do veículo.",
+"c": false,
+"x": "As notificações são enviadas **ao endereço do registro** do veículo e **comunicadas** ao Ministério das Relações Exteriores (art. 26).",
+"pg": "Trocar o envio pela comunicação ao MRE.",
+"e": "Res. CONTRAN 619/2016: Disposições finais (Arts. 26 a 33)"
+},
+{
+"p": "[Res. CONTRAN 619/2016] Aplicam-se aos procedimentos da resolução os prazos prescricionais previstos na Lei n.º 9.873/1999, que estabelece prazo de prescrição para o exercício da ação punitiva.",
+"c": true,
+"x": "Art. 33. Em caso de falha nas notificações, a autoridade pode refazer o ato, observados esses prazos (art. 28).",
+"pg": "Achar que o processo de multa não prescreve.",
+"e": "Res. CONTRAN 619/2016: Disposições finais (Arts. 26 a 33)"
 }
 ]
 },

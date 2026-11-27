@@ -30,7 +30,7 @@ export const CURSOS = [
     materias: [
       m('portugues'), m('rlm'), m('informatica'), m('fisica'), m('etica-cidadania'), m('geopolitica'), m('lingua-estrangeira'),
       m('transito'), m('resolucoes-ctb'), m('prf-multimodal'),
-      m('administrativo'), m('constitucional'), m('penal'), m('processo-penal'), m('extravagante'), m('direitos-humanos'),
+      m('administrativo'), m('constitucional'), m('constituicao-supremo'), m('penal'), m('processo-penal'), m('extravagante'), m('direitos-humanos'),
       m('redacao'), m('redacao-interativa'),
     ],
   },
@@ -41,7 +41,7 @@ export const CURSOS = [
       m('portugues'), m('rlm'),
       m('informatica', ['hardware-so', 'redes-internet', 'internet-navegadores', 'email-outlook', 'seguranca', 'certificacao-software-livre', 'office', 'apresentacoes'], 'Informática Básica do Edital 04/2024'),
       m('lei-organica-pcmg'),
-      m('administrativo'), m('constitucional'), m('penal'), m('processo-penal'),
+      m('administrativo'), m('constitucional'), m('constituicao-supremo'), m('penal'), m('processo-penal'),
       m('extravagante', ['hediondos', 'drogas', 'desarmamento', 'abuso', 'maria-penha', 'orcrim', 'interceptacao', 'lep', 'crimes-tributarios', 'crimes-ctb', 'anticrime'], 'Leis do item 5.7 do edital (LEP, hediondos, 8.137, interceptação, CTB, desarmamento, Maria da Penha, drogas, organização criminosa, abuso de autoridade e Pacote Anticrime)'),
       m('direitos-humanos'), m('medicina-legal'), m('criminologia'), m('redacao-interativa'),
     ],
@@ -51,7 +51,7 @@ export const CURSOS = [
     edital: 'Último edital de Escrivão foi o de 2021 (FUMARC); o próximo concurso da PCMG está com a FGV, por isso o curso segue o modelo FGV de 2024. Há prova de digitação.',
     materias: [
       m('portugues'), m('rlm'), m('informatica'), m('lei-organica-pcmg'),
-      m('administrativo'), m('constitucional'), m('penal'), m('processo-penal'), m('extravagante'),
+      m('administrativo'), m('constitucional'), m('constituicao-supremo'), m('penal'), m('processo-penal'), m('extravagante'),
       m('direitos-humanos'), m('medicina-legal'), m('criminologia'), m('redacao-interativa'),
     ],
   },
@@ -59,7 +59,7 @@ export const CURSOS = [
     id: 'pcmg-delegado', tema: 'civil', nome: 'PCMG · Delegado de Polícia Substituto', curto: 'PCMG Delegado', banca: 'fgv',
     edital: 'Baseado no último edital (Edital nº 01/2024, FGV): 80 questões objetivas, prova dissertativa e prova oral.',
     materias: [
-      m('administrativo'), m('lei-organica-pcmg'), m('constitucional'), m('civil'),
+      m('administrativo'), m('lei-organica-pcmg'), m('constitucional'), m('constituicao-supremo'), m('civil'),
       m('penal'), m('processo-penal'), m('extravagante'),
       m('direitos-humanos'), m('medicina-legal'), m('criminologia'), m('redacao'), m('redacao-interativa'),
     ],
@@ -68,7 +68,7 @@ export const CURSOS = [
     id: 'belovale-procurador', tema: 'juridico', nome: 'Belo Vale · Procurador I', curto: 'Procurador Belo Vale', banca: 'consulplan',
     edital: 'Edital nº 1/2026 do Município de Belo Vale (Instituto Consulplan), Quadro V: 50 questões de múltipla escolha (A a D). Prova objetiva em 13/12/2026.',
     materias: [
-      m('portugues'), m('constitucional'), m('administrativo'), m('processo-civil'), m('civil'),
+      m('portugues'), m('constitucional'), m('constituicao-supremo'), m('administrativo'), m('processo-civil'), m('civil'),
       m('trabalho'), m('previdenciario'), m('financeiro'), m('ambiental-urbanistico'), m('belovale'), m('redacao-interativa'),
     ],
   },

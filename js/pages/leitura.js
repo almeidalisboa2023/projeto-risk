@@ -1,5 +1,6 @@
 // Conteúdo programático (antiga Leitura interativa): quadro colorido de matérias → índice de tópicos → texto com questões. Aberta a todos os alunos.
 import { imagemDe } from '../leitura/imagens.js';
+import '../stf.js';
 import { S, isAdmin } from '../state.js';
 import { padronizar, minutosLeitura } from '../estetica.js';
 import { esc, norm, iso, hoje } from '../util.js';

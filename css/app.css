@@ -1667,3 +1667,27 @@ body { font-feature-settings: 'kern', 'liga'; -webkit-font-smoothing: antialiase
 .fz-formulario summary { cursor: pointer; font-weight: 600; color: var(--ouro); }
 .fz-formulario div { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
 .fz-formulario code { font-family: var(--mono); font-size: 12.5px; padding: 3px 8px; border-radius: 8px; background: var(--pill); color: var(--pill-txt); }
+
+/* Constituição e o Supremo: jurisprudência do STF por artigo (carregada sob demanda) */
+.stf-lazy{margin:14px 0}
+.stf-aviso{background:rgba(43,108,176,.10);border-left:4px solid #2B6CB0;padding:10px 12px;border-radius:8px;font-size:.92em;line-height:1.5}
+.stf-carregando{color:var(--txt2);font-style:italic}
+.stf-busca{position:sticky;top:0;z-index:2;display:flex;gap:10px;align-items:center;background:var(--bg);padding:8px 0}
+.stf-busca input{color:var(--txt);flex:1;min-width:0;padding:9px 12px;border:1px solid var(--borda);border-radius:8px;font:inherit;background:var(--card);color:inherit}
+.stf-busca span{font-size:.85em;color:var(--txt2);white-space:nowrap}
+.stf-art{margin:22px 0 8px;padding-top:6px;border-top:1px solid var(--borda)}
+.stf-art h4{margin:4px 0 8px;font-size:1.1em}.stf-art h4 span{font-weight:400;font-size:.8em;color:var(--txt2)}
+.stf-cab{font-size:.78em;text-transform:uppercase;letter-spacing:.04em;color:var(--txt2)}
+.stf-cf{background:var(--hero);border:1px solid var(--borda);border-radius:10px;padding:10px 14px;margin-bottom:10px;font-size:.95em}
+.stf-cf p{margin:4px 0}.stf-cf .stf-caput{font-weight:600}
+.stf-fonte{display:block;font-size:.78em;color:var(--ouro);margin-bottom:4px}
+.stf-g{border:1px solid var(--borda);border-radius:10px;margin:8px 0;background:var(--card)}
+.stf-g>summary{cursor:pointer;padding:9px 12px;display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline}
+.stf-g>summary span{font-size:.82em;color:var(--txt2)}
+.stf-j{padding:8px 14px 10px;border-top:1px dashed var(--borda);line-height:1.55}
+.stf-j p{margin:0 0 4px}.stf-j cite{display:block;font-style:normal;font-size:.8em;color:var(--txt2)}
+.stf-j small{display:block;font-size:.78em;color:var(--txt2)}
+.stf-j.stf-sv{background:rgba(74,143,216,.10)}.stf-j.stf-sv cite{color:#4A8FD8;font-weight:700}
+.stf-j.stf-sum cite{font-weight:700}
+.stf-nota{font-size:.85em;color:var(--ouro)}
+.stf-vazio{font-size:.88em;color:var(--txt2)}
