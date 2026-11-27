@@ -43,7 +43,7 @@ h1 { font-size: 2.2rem; } h2 { font-size: 1.5rem; } h3 { font-size: 1.15rem; }
 .card { background: var(--card); border: 1px solid var(--borda); border-radius: var(--raio); padding: 20px; box-shadow: var(--sombra); }
 .hero { background: var(--hero); border-radius: 28px; padding: 32px 20px; text-align: center; }
 .grid { display: grid; gap: 16px; }
-.g2 { grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); }
+.g2 { grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr)); }
 .g4 { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
 .pill { display: inline-flex; align-items: center; gap: 6px; background: var(--pill); color: var(--pill-txt); border-radius: 999px; padding: 4px 12px; font-size: 13px; font-weight: 500; }
 .pill.dash { background: transparent; border: 1px dashed var(--borda); }
@@ -1420,7 +1420,7 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
 .cal-vazio { flex-direction: column; align-items: flex-start; }
 .cal-aviso { border-style: solid; border-left: 3px solid var(--ouro2); justify-content: space-between; }
 .cal-livre { color: var(--txt2); justify-content: center; }
-.cb { display: grid; grid-template-columns: auto 1fr auto; gap: 14px; align-items: start; background: var(--card); border: 1px solid var(--borda); border-left: 4px solid var(--c); border-radius: 14px; padding: 14px 16px; margin-bottom: 10px; }
+.cb { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 14px; align-items: start; background: var(--card); border: 1px solid var(--borda); border-left: 4px solid var(--c); border-radius: 14px; padding: 14px 16px; margin-bottom: 10px; }
 .cb-check { width: 26px; height: 26px; border-radius: 50%; border: 2px solid color-mix(in srgb, var(--txt) 30%, transparent); background: none; cursor: pointer; display: grid; place-items: center; padding: 0; margin-top: 2px; color: #fff; transition: .15s; }
 .cb-check:hover { border-color: var(--verde); }
 .cb-check svg { width: 16px; height: 16px; }
@@ -1449,7 +1449,7 @@ span.lt-mat-img { display: flex; align-items: center; justify-content: center; f
 .cb-rodando { color: var(--vermelho) !important; }
 .cal-rodape { display: flex; gap: 18px; flex-wrap: wrap; margin-top: 14px; font-size: 13.5px; }
 @media (max-width: 640px) {
-  .cb { grid-template-columns: auto 1fr; } .cb-acoes { grid-column: 2; }
+  .cb { grid-template-columns: auto minmax(0, 1fr); } .cb-acoes { grid-column: 2; flex-wrap: wrap; min-width: 0; }
   .cal-dia .cd-num { font-size: 18px; } .cal-nav { width: 22px; font-size: 18px; } .cal-semana { padding: 6px 4px; gap: 2px; } .cal-dias { gap: 2px; }
   .cal-tit { font-size: 1.6rem; }
 }
@@ -1701,3 +1701,24 @@ body { font-feature-settings: 'kern', 'liga'; -webkit-font-smoothing: antialiase
 
 /* Porcentagem de acertos dentro da barrinha da sessão */
 .qb-sbar em { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-style: normal; font-size: 11px; font-weight: 700; line-height: 1; color: #fff; text-shadow: 0 1px 2px rgba(0,0,0,.55); font-variant-numeric: tabular-nums; pointer-events: none; }
+
+/* Celular: a gaveta "Capítulos" mostra a lista de tópicos (antes ficava vazia, porque a lista era escondida em telas pequenas) */
+.lt-pro .lt-indice .lt-lista { display: block; }
+.lt-pro .lt-indice .lt-lista a { display: flex; gap: 6px; align-items: flex-start; padding: 8px 6px; }
+
+/* Celular: nada do calendário ultrapassa a largura da tela */
+.cb-corpo { overflow-wrap: anywhere; } .cb-corpo > * { max-width: 100%; }
+
+/* Celulares pequenos (até 400px): contagem regressiva, grades e abas cabem na tela */
+.grid > * { min-width: 0; }
+@media (max-width: 400px) {
+  .flip { gap: 4px; max-width: 100%; flex-wrap: wrap; }
+  .flip-d { width: 34px; font-size: 28px; padding: 10px 0; border-radius: 9px; }
+  .flip-sep { font-size: 24px; }
+  .abas { display: flex; width: max-content; overflow-x: auto; flex-wrap: nowrap; scrollbar-width: none; max-width: 100%; }
+  .abas.lt-abas { width: auto; flex-wrap: wrap; overflow: visible; }
+  .abas::-webkit-scrollbar { display: none; }
+  .abas > * { flex: 0 0 auto; }
+}
+/* Celular: tabelas largas do texto rolam para o lado dentro do próprio quadro, sem empurrar a página */
+.lt-corpo table, .lt-texto table, .lt-corpo table.tab { display: block; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
