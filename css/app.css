@@ -1670,7 +1670,7 @@ body { font-feature-settings: 'kern', 'liga'; -webkit-font-smoothing: antialiase
 
 /* Constituição e o Supremo: jurisprudência do STF por artigo (carregada sob demanda) */
 .stf-lazy{margin:14px 0}
-.stf-aviso{background:rgba(43,108,176,.10);border-left:4px solid #2B6CB0;padding:10px 12px;border-radius:8px;font-size:.92em;line-height:1.5}
+.stf-aviso{background:rgba(21,128,61,.12);border-left:4px solid #15803D;padding:10px 12px;border-radius:8px;font-size:.92em;line-height:1.5}
 .stf-carregando{color:var(--txt2);font-style:italic}
 .stf-busca{position:sticky;top:0;z-index:2;display:flex;gap:10px;align-items:center;background:var(--bg);padding:8px 0}
 .stf-busca input{color:var(--txt);flex:1;min-width:0;padding:9px 12px;border:1px solid var(--borda);border-radius:8px;font:inherit;background:var(--card);color:inherit}
@@ -1687,7 +1687,14 @@ body { font-feature-settings: 'kern', 'liga'; -webkit-font-smoothing: antialiase
 .stf-j{padding:8px 14px 10px;border-top:1px dashed var(--borda);line-height:1.55}
 .stf-j p{margin:0 0 4px}.stf-j cite{display:block;font-style:normal;font-size:.8em;color:var(--txt2)}
 .stf-j small{display:block;font-size:.78em;color:var(--txt2)}
-.stf-j.stf-sv{background:rgba(74,143,216,.10)}.stf-j.stf-sv cite{color:#4A8FD8;font-weight:700}
+.stf-j.stf-sv{background:rgba(34,160,90,.10)}.stf-j.stf-sv cite{color:#22A05A;font-weight:700}
 .stf-j.stf-sum cite{font-weight:700}
 .stf-nota{font-size:.85em;color:var(--ouro)}
 .stf-vazio{font-size:.88em;color:var(--txt2)}
+
+.stf-art h4{color:#1E9E57}
+.stf-g>summary b{color:var(--txt);text-decoration:underline;text-decoration-color:#22A05A;text-decoration-thickness:2px;text-underline-offset:3px}
+.stf-busca input:focus{outline:2px solid #22A05A;border-color:#22A05A}
+.stf-sig{margin:8px 0 2px;border:1px solid rgba(34,160,90,.45);border-radius:8px;background:rgba(34,160,90,.08)}
+.stf-sig>summary{cursor:pointer;padding:6px 10px;font-weight:600;color:#1E9E57;font-size:.92em}
+.stf-sig>p{margin:0;padding:0 12px 10px;line-height:1.55}
