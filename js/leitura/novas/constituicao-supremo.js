@@ -2,7 +2,7 @@
 export default {
 "id": "constituicao-supremo",
 "nome": "Constituição e o Supremo",
-"cor": "#1F4E8C",
+"cor": "#15803D",
 "ico": "⚖️",
 "apelidos": [
 "constituicao e o supremo",
